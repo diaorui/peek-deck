@@ -13,9 +13,39 @@ params:
 
 # Widget layout
 widgets:
-  # Simple MVP: just one price widget
+  # Row 1: Price + multi-timeframe chart
   - type: crypto-price
-    size: medium
+    size: small
     update_minutes: 5
     params:
       show_change: true
+
+  # 24 hour chart (1hr candles, 24 candles)
+  - type: crypto-price-chart
+    size: large
+    update_minutes: 10
+    params:
+      timeframe: "1hr"
+      limit: 24
+      tab_id: "24h"
+      tab_label: "24h"
+
+  # 7 day chart (1day candles, 7 candles)
+  - type: crypto-price-chart
+    size: large
+    update_minutes: 10
+    params:
+      timeframe: "1day"
+      limit: 7
+      tab_id: "7d"
+      tab_label: "7d"
+
+  # 30 day chart (1day candles, 30 candles)
+  - type: crypto-price-chart
+    size: large
+    update_minutes: 10
+    params:
+      timeframe: "1day"
+      limit: 30
+      tab_id: "30d"
+      tab_label: "30d"

@@ -109,6 +109,43 @@
             text-align: center;
         }
 
+        /* Chart tabs styling */
+        .chart-tabs {
+            display: flex;
+            gap: 8px;
+        }
+
+        .chart-tab-btn {
+            padding: 6px 16px;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 4px;
+            color: #9ca3af;
+            cursor: pointer;
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: all 0.2s ease;
+        }
+
+        .chart-tab-btn:hover {
+            background: rgba(255, 255, 255, 0.1);
+            color: var(--text-color);
+        }
+
+        .chart-tab-btn.active {
+            background: var(--primary-color);
+            border-color: var(--primary-color);
+            color: #000;
+        }
+
+        .chart-tab-content {
+            display: block;
+        }
+
+        .chart-tab-content[style*="display: none"] {
+            display: none;
+        }
+
         @media (max-width: 768px) {
             .widget-small,
             .widget-medium,
@@ -136,5 +173,78 @@
         {{ widget_html|safe }}
         {% endfor %}
     </main>
+
+    <script>
+        // Client-side relative time formatting
+        function formatTimeAgo(isoTimestamp) {
+            const timestamp = new Date(isoTimestamp);
+            const now = new Date();
+            const seconds = Math.floor((now - timestamp) / 1000);
+
+            if (seconds < 0) return 'just now';
+            if (seconds < 60) return seconds + 's ago';
+
+            const minutes = Math.floor(seconds / 60);
+            if (minutes < 60) return minutes + 'm ago';
+
+            const hours = Math.floor(minutes / 60);
+            if (hours < 24) return hours + 'h ago';
+
+            const days = Math.floor(hours / 24);
+            if (days < 30) return days + 'd ago';
+
+            const months = Math.floor(days / 30);
+            return months + 'mo ago';
+        }
+
+        // Update all timestamps on page load
+        function updateAllTimestamps() {
+            const timestampElements = document.querySelectorAll('[data-timestamp]');
+            timestampElements.forEach(element => {
+                const isoTimestamp = element.getAttribute('data-timestamp');
+                element.textContent = 'Updated ' + formatTimeAgo(isoTimestamp);
+            });
+        }
+
+        // Update timestamps on page load
+        updateAllTimestamps();
+
+        // Optionally: Update every 10 seconds for live pages
+        setInterval(updateAllTimestamps, 10000);
+
+        // Chart tab switching
+        function initChartTabs() {
+            const tabButtons = document.querySelectorAll('.chart-tab-btn');
+
+            tabButtons.forEach(button => {
+                button.addEventListener('click', function() {
+                    const targetTabId = this.getAttribute('data-tab');
+                    const tabContainer = this.closest('.widget-crypto-price-chart');
+
+                    // Remove active class from all buttons in this container
+                    tabContainer.querySelectorAll('.chart-tab-btn').forEach(btn => {
+                        btn.classList.remove('active');
+                    });
+
+                    // Hide all tab contents in this container
+                    tabContainer.querySelectorAll('.chart-tab-content').forEach(content => {
+                        content.style.display = 'none';
+                    });
+
+                    // Add active class to clicked button
+                    this.classList.add('active');
+
+                    // Show target tab content
+                    const targetContent = tabContainer.querySelector(`[data-tab-id="${targetTabId}"]`);
+                    if (targetContent) {
+                        targetContent.style.display = 'block';
+                    }
+                });
+            });
+        }
+
+        // Initialize tabs on page load
+        initChartTabs();
+    </script>
 </body>
 </html>

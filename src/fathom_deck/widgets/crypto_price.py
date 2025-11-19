@@ -7,6 +7,7 @@ from tenacity import retry, stop_after_attempt, wait_exponential
 
 from ..core.base_widget import BaseWidget
 from ..core.http_cache import get_cached, cache_response
+from ..core.utils import format_large_number
 
 
 class CryptoPriceWidget(BaseWidget):
@@ -84,24 +85,52 @@ class CryptoPriceWidget(BaseWidget):
         price = processed_data["price"]
         volume = processed_data["volume"]
 
+        # Format the symbol for better readability (e.g., BTCUSD -> Bitcoin Price)
+        # Extract base currency (first 3 chars for most cases)
+        base_currency = symbol[:3]
+        if base_currency == "BTC":
+            display_name = "Bitcoin"
+        elif base_currency == "ETH":
+            display_name = "Ethereum"
+        elif base_currency == "SOL":
+            display_name = "Solana"
+        else:
+            display_name = base_currency
+
+        # Format volume in USD (quote currency volume)
+        volume_usd = volume['quote']
+        volume_display = format_large_number(volume_usd)
+
+        # Get ISO timestamp for client-side formatting
+        timestamp_iso = processed_data['fetched_at']
+
         # Simple HTML for MVP - we'll use templates later
         html = f"""
-        <div class="widget widget-crypto-price widget-{self.size}">
+        <div class="widget widget-crypto-price widget-{self.size}" style="display: flex; flex-direction: column; height: 100%;">
             <div class="widget-header">
-                <h3>{symbol} Price</h3>
+                <h3>{display_name} Price</h3>
             </div>
-            <div class="widget-body">
-                <div class="price-display">
-                    <span class="price-value">${price:,.2f}</span>
+            <div class="widget-body" style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+                <div class="price-display" style="margin: 30px 0;">
+                    <span class="price-value" style="font-size: 2rem;">${price:,.2f}</span>
                 </div>
-                <div class="price-details">
-                    <div>Bid: ${processed_data['bid']:,.2f}</div>
-                    <div>Ask: ${processed_data['ask']:,.2f}</div>
-                    <div>Volume: {volume['base']:,.2f}</div>
+                <div class="price-details" style="gap: 20px;">
+                    <div>
+                        <div style="color: #9ca3af; font-size: 0.85rem; margin-bottom: 5px;">Bid</div>
+                        <div style="font-weight: 500;">${processed_data['bid']:,.2f}</div>
+                    </div>
+                    <div>
+                        <div style="color: #9ca3af; font-size: 0.85rem; margin-bottom: 5px;">Ask</div>
+                        <div style="font-weight: 500;">${processed_data['ask']:,.2f}</div>
+                    </div>
+                    <div>
+                        <div style="color: #9ca3af; font-size: 0.85rem; margin-bottom: 5px;">24h Volume</div>
+                        <div style="font-weight: 500;">{volume_display}</div>
+                    </div>
                 </div>
             </div>
             <div class="widget-footer">
-                <small>Updated: {processed_data['fetched_at'][:19]}</small>
+                <small data-timestamp="{timestamp_iso}">Updated {timestamp_iso}</small>
             </div>
         </div>
         """
