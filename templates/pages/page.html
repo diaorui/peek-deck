@@ -116,10 +116,19 @@
 
     <script>
         // Client-side relative time formatting
-        function formatTimeAgo(isoTimestamp) {
-            const timestamp = new Date(isoTimestamp);
+        function formatTimeAgo(timestamp) {
+            // Handle both ISO strings and Unix timestamps
+            let date;
+            if (typeof timestamp === 'string' && timestamp.includes('-')) {
+                // ISO timestamp (e.g., "2025-11-19T12:34:56")
+                date = new Date(timestamp);
+            } else {
+                // Unix timestamp (e.g., 1763582063.0)
+                date = new Date(parseFloat(timestamp) * 1000);
+            }
+
             const now = new Date();
-            const seconds = Math.floor((now - timestamp) / 1000);
+            const seconds = Math.floor((now - date) / 1000);
 
             if (seconds < 0) return 'just now';
             if (seconds < 60) return seconds + 's ago';
@@ -139,10 +148,14 @@
 
         // Update all timestamps on page load
         function updateAllTimestamps() {
+            // Generic: update any element with data-timestamp attribute
+            // Widget footers show "Updated X ago", others show just "X ago"
             const timestampElements = document.querySelectorAll('[data-timestamp]');
             timestampElements.forEach(element => {
-                const isoTimestamp = element.getAttribute('data-timestamp');
-                element.textContent = 'Updated ' + formatTimeAgo(isoTimestamp);
+                const timestamp = element.getAttribute('data-timestamp');
+                const isFooter = element.closest('.widget-footer') !== null;
+                const prefix = isFooter ? 'Updated ' : '';
+                element.textContent = prefix + formatTimeAgo(timestamp);
             });
         }
 

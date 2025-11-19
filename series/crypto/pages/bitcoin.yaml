@@ -38,3 +38,12 @@ widgets:
   - type: crypto-market-stats
     size: full
     update_minutes: 30
+
+  # Row 3: Reddit discussions
+  - type: reddit-posts
+    size: full
+    update_minutes: 15
+    params:
+      subreddit: bitcoin
+      limit: 5
+      sort: hot
