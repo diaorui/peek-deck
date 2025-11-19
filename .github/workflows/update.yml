@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: '*/5 * * * *'  # Every 5 minutes
   workflow_dispatch:  # Allow manual triggers
+    inputs:
+      clear_cache:
+        description: 'Clear all data/cache before running'
+        required: false
+        type: boolean
+        default: false
 
 jobs:
   update:
@@ -28,6 +34,12 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Clear data folder (if requested)
+        if: ${{ github.event.inputs.clear_cache == 'true' }}
+        run: |
+          echo "🗑️  Clearing data folder for fresh run..."
+          rm -rf data
 
       - name: Stage 1 - Fetch data
         run: |

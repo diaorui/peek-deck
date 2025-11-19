@@ -1,6 +1,7 @@
 """Cache system for tracking widget update times and data."""
 
 import json
+import hashlib
 from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Any, Dict, Optional
@@ -43,11 +44,20 @@ class Cache:
 
         Includes series_id to prevent collisions when page IDs are reused across series.
         """
-        # Include params that affect data (e.g., symbol, coin_id)
-        # Sort to ensure consistent keys
-        param_str = "_".join(f"{k}={v}" for k, v in sorted(widget_params.items()))
         base = f"{series_id}_{page_id}_{widget_type}"
-        return f"{base}_{param_str}" if param_str else base
+
+        if not widget_params:
+            return base
+
+        # For long/complex params, use hash to keep filename short
+        param_str = "_".join(f"{k}={v}" for k, v in sorted(widget_params.items()))
+
+        # If param string is too long (> 100 chars), use hash instead
+        if len(param_str) > 100:
+            param_hash = hashlib.md5(param_str.encode()).hexdigest()[:12]
+            return f"{base}_{param_hash}"
+        else:
+            return f"{base}_{param_str}"
 
     def needs_update(self, cache_key: str, update_minutes: Optional[int]) -> bool:
         """Check if widget needs updating based on last update time."""

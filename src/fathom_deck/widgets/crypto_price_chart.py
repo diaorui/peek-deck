@@ -151,11 +151,11 @@ class CryptoPriceChartWidget(BaseWidget):
                 timestamp = candle["timestamp"]
                 dt = datetime.fromtimestamp(timestamp / 1000)
 
-                if timeframe == "1day":
+                if timeframe in ["1day", "1d"]:
                     label = dt.strftime("%b %d")
                 elif timeframe == "6h":
                     label = dt.strftime("%b %d %H:%M")
-                else:  # 1hr, etc.
+                else:  # 1h, 1hr, etc.
                     label = dt.strftime("%H:%M")
 
                 labels.append(label)

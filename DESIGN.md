@@ -435,16 +435,16 @@ All widgets automatically use theme colors via CSS variables.
 | Widget | Data Source | Content | Size | Update (min) | Notes |
 |--------|-------------|---------|------|--------------|-------|
 | **crypto-price** | Gemini | Current price, 24h change, volume | Small | 5 | 120 req/min, real-time exchange data |
-| **crypto-price-chart** | Gemini | Price history line chart (24h/7d/30d/1y) | Medium/Large | 10 | Uses Chart.js with candles endpoint |
+| **crypto-price-chart** | Gemini | Price history line chart (24h/7d/30d/90d/1y) | Medium/Large | 10 | Uses Chart.js with candles endpoint, tabbed interface |
 | **crypto-market-stats** | CoinGecko | Market cap, supply, volume, ATH/ATL | Small/Medium | 30 | CoinGecko has fundamentals Gemini lacks |
-| **news** | Google News RSS | Top 5 latest articles + optional LLM summary | Full | 60 | Generic widget, works for any topic |
+| **google-news** | Google News RSS | Top 8 articles with source favicons | Full | 30 | RSS feed, no auth required, shows "View All" link |
+| **reddit-posts** | Reddit API | Top 8 posts from subreddit | Full | 15 | JSON endpoint, no auth, shows "View All" link |
 
 ### Advanced Widgets (Post-MVP)
 
 | Widget | Data Source | Content | Size | Update (min) | Notes |
 |--------|-------------|---------|------|--------------|-------|
 | **crypto-fear-greed** | Alternative.me | Fear/Greed score (0-100) + gauge | Medium | 360 | Free API, updates daily |
-| **reddit** | Reddit API | Top posts from subreddit (mentions, sentiment, keywords) | Medium | 120 | Generic widget, works for any subreddit |
 | **crypto-events** | CoinMarketCal | Upcoming forks, updates, conferences | Full | 1440 | Free tier: 500 calls/day |
 | **crypto-correlation** | CoinGecko | Price correlation heatmap with BTC/ETH | Medium | 720 | Requires fetching multiple coins |
 

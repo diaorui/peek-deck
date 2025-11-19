@@ -33,6 +33,12 @@ widgets:
         - timeframe: "1day"
           limit: 30
           label: "30d"
+        - timeframe: "1day"
+          limit: 90
+          label: "90d"
+        - timeframe: "1day"
+          limit: 365
+          label: "1y"
 
   # Row 2: Market statistics
   - type: crypto-market-stats
