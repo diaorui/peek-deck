@@ -15,9 +15,6 @@ class CryptoPriceWidget(BaseWidget):
 
     Required params:
         - symbol: Trading pair symbol (e.g., "btcusd", "ethusd")
-
-    Optional params:
-        - show_change: Whether to show 24h change (default: True)
     """
 
     def get_required_params(self) -> list[str]:

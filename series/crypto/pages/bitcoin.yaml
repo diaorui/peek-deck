@@ -17,8 +17,6 @@ widgets:
   - type: crypto-price
     size: small
     update_minutes: 5
-    params:
-      show_change: true
 
   # Price chart with multiple timeframe tabs
   - type: crypto-price-chart
@@ -35,3 +33,8 @@ widgets:
         - timeframe: "1day"
           limit: 30
           label: "30d"
+
+  # Row 2: Market statistics
+  - type: crypto-market-stats
+    size: full
+    update_minutes: 30

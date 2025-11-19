@@ -251,11 +251,9 @@ class CryptoPriceChartWidget(BaseWidget):
         html = f"""
         <div class="widget widget-crypto-price-chart widget-{self.size}">
             <div class="widget-header">
-                <div style="display: flex; justify-content: space-between; align-items: center;">
-                    <h3>{display_name} Price Chart</h3>
-                    <div class="chart-tabs">
-                        {chr(10).join(tab_buttons)}
-                    </div>
+                <h3>{display_name} Chart</h3>
+                <div class="chart-tabs">
+                    {chr(10).join(tab_buttons)}
                 </div>
             </div>
             {chr(10).join(tab_contents)}
