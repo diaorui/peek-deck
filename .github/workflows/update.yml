@@ -74,11 +74,11 @@ jobs:
       - name: Commit and push to data branch
         run: |
           # Fetch data branch (or create if doesn't exist)
-          git fetch origin data || git checkout --orphan data
+          git fetch origin data:refs/remotes/origin/data || true
 
           # Check if data branch exists on remote
           if git ls-remote --exit-code --heads origin data; then
-            git checkout data
+            git checkout -B data origin/data
             # Keep only docs/ and data/cache/, remove everything else
             git rm -rf . 2>/dev/null || true
           else
