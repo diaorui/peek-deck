@@ -73,6 +73,11 @@ jobs:
 
       - name: Commit and push to data branch
         run: |
+          # Store generated files temporarily
+          mkdir -p /tmp/fathom-build
+          cp -r docs /tmp/fathom-build/ || true
+          cp -r data/cache /tmp/fathom-build/ || true
+
           # Fetch data branch (or create if doesn't exist)
           git fetch origin data:refs/remotes/origin/data || true
 
@@ -87,11 +92,14 @@ jobs:
             git rm -rf . 2>/dev/null || true
           fi
 
-          # Copy generated files from main working directory
-          cp -r docs data 2>/dev/null || true
+          # Copy generated files back
+          cp -r /tmp/fathom-build/docs . || true
+          mkdir -p data
+          cp -r /tmp/fathom-build/cache data/ || true
 
           # Add only generated files (no source code)
-          git add docs/ data/cache/
+          # Use -f to force add docs/ which is in .gitignore
+          git add -f docs/ data/cache/
 
           # Commit if there are changes
           git diff --quiet && git diff --staged --quiet || \
