@@ -1,12 +1,10 @@
 """Crypto price chart widget using Gemini candles API."""
 
-import requests
 from datetime import datetime, timezone
 from typing import Any, Dict, List
-from tenacity import retry, stop_after_attempt, wait_exponential
 
 from ..core.base_widget import BaseWidget
-from ..core.http_cache import get_cached, cache_response
+from ..core.http_cache import get_http_client
 
 
 class CryptoPriceChartWidget(BaseWidget):
@@ -20,39 +18,13 @@ class CryptoPriceChartWidget(BaseWidget):
     def get_required_params(self) -> list[str]:
         return ["symbol", "tabs"]
 
-    @retry(
-        stop=stop_after_attempt(3),
-        wait=wait_exponential(multiplier=1, min=2, max=10),
-        reraise=True
-    )
-    def _fetch_candles(self, symbol: str, timeframe: str) -> List[List]:
-        """Fetch candlestick data from Gemini API.
-
-        Returns: List of [timestamp_ms, open, high, low, close, volume]
-        """
-        url = f"https://api.gemini.com/v2/candles/{symbol}/{timeframe}"
-
-        # Check cache first
-        cached = get_cached(url)
-        if cached:
-            print(f"✅ Cache hit: {url}")
-            return cached
-
-        print(f"📡 Fetching: {url}")
-        response = requests.get(url, timeout=10)
-        response.raise_for_status()
-        data = response.json()
-
-        # Cache the response
-        cache_response(url, data)
-        return data
-
     def fetch_data(self) -> Dict[str, Any]:
         """Fetch candlestick data for all configured tabs."""
         self.validate_params()
 
         symbol = self.merged_params["symbol"].lower()
         tabs_config = self.merged_params["tabs"]
+        client = get_http_client()
 
         # Fetch data for all tabs
         all_tabs_data = []
@@ -75,8 +47,11 @@ class CryptoPriceChartWidget(BaseWidget):
 
     def _fetch_single_chart(self, symbol: str, timeframe: str, limit: int) -> Dict[str, Any]:
         """Fetch data for a single chart."""
+        client = get_http_client()
         try:
-            candles = self._fetch_candles(symbol, timeframe)
+            # Fetch candlestick data from Gemini API
+            url = f"https://api.gemini.com/v2/candles/{symbol}/{timeframe}"
+            candles = client.get(url, response_type="json")
 
             # Gemini returns candles in descending order (newest first)
             # Reverse for chronological order
@@ -103,11 +78,8 @@ class CryptoPriceChartWidget(BaseWidget):
                 "candles": parsed_candles,
             }
 
-        except requests.exceptions.RequestException as e:
-            print(f"❌ Failed to fetch candles for {symbol} from Gemini: {e}")
-            raise
-        except (KeyError, ValueError, IndexError) as e:
-            print(f"❌ Failed to parse Gemini candles response for {symbol}: {e}")
+        except Exception as e:
+            print(f"❌ Failed to fetch or parse candles for {symbol}: {e}")
             raise
 
     def render(self, processed_data: Dict[str, Any]) -> str:

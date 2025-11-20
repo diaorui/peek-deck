@@ -1,13 +1,11 @@
 """Google News widget using RSS feed."""
 
-import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from typing import Any, Dict, List
-from tenacity import retry, stop_after_attempt, wait_exponential
 
 from ..core.base_widget import BaseWidget
-from ..core.http_cache import get_cached, cache_response
+from ..core.http_cache import get_http_client
 
 
 class GoogleNewsWidget(BaseWidget):
@@ -25,40 +23,6 @@ class GoogleNewsWidget(BaseWidget):
     def get_required_params(self) -> list[str]:
         return ["query"]
 
-    @retry(
-        stop=stop_after_attempt(3),
-        wait=wait_exponential(multiplier=1, min=2, max=10),
-        reraise=True
-    )
-    def _fetch_from_google_news(self, query: str, locale: str, region: str) -> str:
-        """Fetch RSS feed from Google News."""
-        url = "https://news.google.com/rss/search"
-        params = {
-            "q": query,
-            "hl": locale,
-            "gl": region,
-            "ceid": f"{region}:en"
-        }
-
-        # Check cache first
-        cache_key = f"{url}?q={query}&hl={locale}&gl={region}"
-        cached = get_cached(cache_key)
-        if cached:
-            print(f"✅ Cache hit: {cache_key}")
-            return cached
-
-        print(f"📡 Fetching: {url}")
-        headers = {
-            "User-Agent": "FathomDeck/1.0 (Dashboard aggregator)"
-        }
-        response = requests.get(url, params=params, headers=headers, timeout=10)
-        response.raise_for_status()
-        xml_data = response.text
-
-        # Cache the response
-        cache_response(cache_key, xml_data)
-        return xml_data
-
     def fetch_data(self) -> Dict[str, Any]:
         """Fetch news articles from Google News."""
         self.validate_params()
@@ -67,9 +31,18 @@ class GoogleNewsWidget(BaseWidget):
         limit = self.merged_params.get("limit", 5)
         locale = self.merged_params.get("locale", "en-US")
         region = self.merged_params.get("region", "US")
+        client = get_http_client()
 
         try:
-            xml_data = self._fetch_from_google_news(query, locale, region)
+            # Fetch RSS feed from Google News
+            url = "https://news.google.com/rss/search"
+            params = {
+                "q": query,
+                "hl": locale,
+                "gl": region,
+                "ceid": f"{region}:en"
+            }
+            xml_data = client.get(url, params=params, response_type="text")
 
             # Parse XML
             root = ET.fromstring(xml_data)
@@ -133,14 +106,8 @@ class GoogleNewsWidget(BaseWidget):
             print(f"✅ Fetched {len(articles)} news articles for '{query}'")
             return data
 
-        except requests.exceptions.RequestException as e:
-            print(f"❌ Failed to fetch Google News for '{query}': {e}")
-            raise
-        except ET.ParseError as e:
-            print(f"❌ Failed to parse Google News RSS for '{query}': {e}")
-            raise
         except Exception as e:
-            print(f"❌ Error processing Google News for '{query}': {e}")
+            print(f"❌ Failed to fetch or parse Google News for '{query}': {e}")
             raise
 
     def render(self, processed_data: Dict[str, Any]) -> str:

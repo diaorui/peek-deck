@@ -1,12 +1,10 @@
 """Reddit posts widget using Reddit JSON API."""
 
-import requests
 from datetime import datetime, timezone
 from typing import Any, Dict, List
-from tenacity import retry, stop_after_attempt, wait_exponential
 
 from ..core.base_widget import BaseWidget
-from ..core.http_cache import get_cached, cache_response
+from ..core.http_cache import get_http_client
 
 
 class RedditPostsWidget(BaseWidget):
@@ -23,35 +21,6 @@ class RedditPostsWidget(BaseWidget):
     def get_required_params(self) -> list[str]:
         return ["subreddit"]
 
-    @retry(
-        stop=stop_after_attempt(3),
-        wait=wait_exponential(multiplier=1, min=2, max=10),
-        reraise=True
-    )
-    def _fetch_from_reddit(self, subreddit: str, sort: str, limit: int) -> Dict:
-        """Fetch posts from Reddit JSON API."""
-        url = f"https://www.reddit.com/r/{subreddit}/{sort}/.json"
-        params = {"limit": limit}
-
-        # Check cache first
-        cache_key = f"{url}?limit={limit}"
-        cached = get_cached(cache_key)
-        if cached:
-            print(f"✅ Cache hit: {cache_key}")
-            return cached
-
-        print(f"📡 Fetching: {url}")
-        headers = {
-            "User-Agent": "python:fathom-deck:v1.0.0 (by /u/fathom-deck-bot)"
-        }
-        response = requests.get(url, params=params, headers=headers, timeout=10)
-        response.raise_for_status()
-        data = response.json()
-
-        # Cache the response
-        cache_response(cache_key, data)
-        return data
-
     def fetch_data(self) -> Dict[str, Any]:
         """Fetch recent posts from subreddit."""
         self.validate_params()
@@ -59,9 +28,16 @@ class RedditPostsWidget(BaseWidget):
         subreddit = self.merged_params["subreddit"]
         limit = self.merged_params.get("limit", 5)
         sort = self.merged_params.get("sort", "hot")
+        client = get_http_client()
 
         try:
-            reddit_data = self._fetch_from_reddit(subreddit, sort, limit)
+            # Fetch posts from Reddit JSON API
+            url = f"https://www.reddit.com/r/{subreddit}/{sort}/.json"
+            params = {"limit": limit}
+            headers = {
+                "User-Agent": "python:fathom-deck:v1.0.0 (by /u/fathom-deck-bot)"
+            }
+            reddit_data = client.get(url, params=params, headers=headers, response_type="json")
 
             # Extract posts from Reddit API response
             posts = []
@@ -94,11 +70,8 @@ class RedditPostsWidget(BaseWidget):
             print(f"✅ Fetched {len(posts)} posts from r/{subreddit}")
             return data
 
-        except requests.exceptions.RequestException as e:
-            print(f"❌ Failed to fetch r/{subreddit}: {e}")
-            raise
-        except (KeyError, ValueError) as e:
-            print(f"❌ Failed to parse Reddit response for r/{subreddit}: {e}")
+        except Exception as e:
+            print(f"❌ Failed to fetch or parse r/{subreddit}: {e}")
             raise
 
     def render(self, processed_data: Dict[str, Any]) -> str:
