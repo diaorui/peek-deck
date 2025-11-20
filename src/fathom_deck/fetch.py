@@ -101,12 +101,18 @@ def fetch_all():
                     with open(raw_file, 'w') as f:
                         json.dump(raw_data, f, indent=2)
 
+                    # Mark widget as updated in cache
+                    cache.mark_updated(cache_key)
+
                     fetched_count += 1
                     print(f"    ✅ Saved to {raw_file.name}")
 
                 except Exception as e:
                     print(f"    ❌ Failed to fetch {widget_type}: {e}")
                     failed_count += 1
+
+    # Save cache timestamps
+    cache.save()
 
     # Print summary
     print(f"\n{'='*60}")

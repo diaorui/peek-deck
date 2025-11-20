@@ -139,22 +139,9 @@ def render_all():
                 print(f"    ✅ Saved to {page_output.relative_to(docs_dir)}")
                 rendered_pages += 1
 
-                # Mark all widgets as updated in cache (only after successful render)
-                for widget_config in page_config.widgets:
-                    cache_key = cache.get_cache_key(
-                        series_id,
-                        page_config.id,
-                        widget_config.type,
-                        widget_config.params
-                    )
-                    cache.mark_updated(cache_key)
-
             except Exception as e:
                 print(f"    ❌ Failed to render page: {e}")
                 failed_pages += 1
-
-    # Save cache
-    cache.save()
 
     # Print summary
     print(f"\n{'='*60}")
