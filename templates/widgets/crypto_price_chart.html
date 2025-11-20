@@ -11,27 +11,73 @@
     flex-wrap: wrap;
 }
 
+@media (max-width: 768px) {
+    .widget-crypto-price-chart .chart-tabs {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        overflow-y: hidden;
+        scroll-behavior: smooth;
+        scrollbar-width: none; /* Firefox */
+        -ms-overflow-style: none; /* IE/Edge */
+        -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+        scroll-snap-type: x proximity;
+        padding-bottom: 4px;
+    }
+
+    .widget-crypto-price-chart .chart-tabs::-webkit-scrollbar {
+        display: none; /* Chrome/Safari */
+    }
+
+    .widget-crypto-price-chart .chart-tab-btn {
+        flex-shrink: 0;
+        scroll-snap-align: start;
+    }
+}
+
 .widget-crypto-price-chart .chart-tab-btn {
-    padding: 6px 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    padding: 8px 12px;
+    min-width: 70px;
     background: rgba(255, 255, 255, 0.05);
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 4px;
-    color: #9ca3af;
     cursor: pointer;
-    font-size: 0.9rem;
-    font-weight: 500;
     transition: all 0.2s ease;
 }
 
 .widget-crypto-price-chart .chart-tab-btn:hover {
     background: rgba(255, 255, 255, 0.1);
-    color: var(--text-color);
 }
 
 .widget-crypto-price-chart .chart-tab-btn.active {
     background: var(--primary-color);
     border-color: var(--primary-color);
+}
+
+.widget-crypto-price-chart .tab-label {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: #9ca3af;
+}
+
+.widget-crypto-price-chart .chart-tab-btn.active .tab-label {
     color: #000;
+}
+
+.widget-crypto-price-chart .tab-change {
+    font-size: 0.75rem;
+    font-weight: 600;
+}
+
+.widget-crypto-price-chart .chart-tab-btn.active .tab-change {
+    color: #000 !important;
+}
+
+.widget-crypto-price-chart .chart-tab-btn:hover .tab-label {
+    color: var(--text-color);
 }
 
 .widget-crypto-price-chart .chart-tab-content {

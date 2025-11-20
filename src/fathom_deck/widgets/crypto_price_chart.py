@@ -111,19 +111,20 @@ class CryptoPriceChartWidget(BaseWidget):
                 price_change_percent = 0
             price_changes.append(price_change_percent)
 
-        # Generate tab buttons with price change percentages
+        # Generate tab buttons with stacked label and price change
         tab_buttons = []
         for i, tab_data in enumerate(tabs_data):
             active_class = "active" if i == 0 else ""
             label = tab_data["label"]
             change = price_changes[i]
             change_sign = "+" if change >= 0 else ""
-            change_color = "color: var(--color-positive);" if change >= 0 else "color: var(--color-negative);"
+            change_color = "var(--color-positive)" if change >= 0 else "var(--color-negative)"
             change_text = f'{change_sign}{change:.1f}%'
 
             tab_buttons.append(
                 f'<button class="chart-tab-btn {active_class}" data-tab="tab-{i}">'
-                f'{label} <span style="font-size: 0.85em; {change_color}">{change_text}</span>'
+                f'<span class="tab-label">{label}</span>'
+                f'<span class="tab-change" style="color: {change_color};">{change_text}</span>'
                 f'</button>'
             )
 
@@ -176,6 +177,17 @@ class CryptoPriceChartWidget(BaseWidget):
             const ctx = document.getElementById('{chart_id}').getContext('2d');
             const interval = '{interval}';
             const candleData = {candlestick_json};
+
+            // Determine appropriate time unit based on interval suffix
+            const lastChar = interval.slice(-1);
+            let timeUnit;
+            if (lastChar === 'd' || lastChar === 'w' || lastChar === 'M') {{
+                timeUnit = 'day';
+            }} else if (lastChar === 'h') {{
+                timeUnit = 'hour';
+            }} else {{
+                timeUnit = 'minute';
+            }}
 
             new Chart(ctx, {{
                 type: 'candlestick',
@@ -254,16 +266,15 @@ class CryptoPriceChartWidget(BaseWidget):
                         x: {{
                             type: 'time',
                             time: {{
-                                unit: interval === '1d' || interval === '3d' || interval === '1w' || interval === '1M' ? 'day' : 'hour',
+                                unit: timeUnit,
                                 displayFormats: {{
-                                    day: 'MMM d',
-                                    hour: 'HH:mm'
+                                    minute: 'HH:mm',
+                                    hour: 'HH:mm',
+                                    day: 'MMM d'
                                 }}
                             }},
                             ticks: {{
-                                color: '#9ca3af',
-                                maxRotation: 45,
-                                minRotation: 45
+                                color: '#9ca3af'
                             }},
                             grid: {{
                                 color: 'rgba(255, 255, 255, 0.1)'
