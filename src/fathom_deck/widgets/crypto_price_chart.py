@@ -1,4 +1,4 @@
-"""Crypto price chart widget using Gemini candles API."""
+"""Crypto price chart widget using Binance US candles API."""
 
 from datetime import datetime, timezone
 from typing import Any, Dict, List
@@ -11,8 +11,9 @@ class CryptoPriceChartWidget(BaseWidget):
     """Displays cryptocurrency price history chart using candlestick data.
 
     Required params:
-        - symbol: Trading pair symbol (e.g., "btcusd", "ethusd")
-        - tabs: List of tab configurations with timeframe, limit, and label
+        - symbol: Trading pair symbol (e.g., "BTCUSD", "ETHUSD")
+        - tabs: List of tab configurations with interval, limit, and label
+          Supported intervals: 1m, 3m, 5m, 15m, 30m, 1h, 2h, 4h, 6h, 8h, 12h, 1d, 3d, 1w, 1M
     """
 
     def get_required_params(self) -> list[str]:
@@ -22,50 +23,49 @@ class CryptoPriceChartWidget(BaseWidget):
         """Fetch candlestick data for all configured tabs."""
         self.validate_params()
 
-        symbol = self.merged_params["symbol"].lower()
+        symbol = self.merged_params["symbol"].upper()
         tabs_config = self.merged_params["tabs"]
         client = get_http_client()
 
         # Fetch data for all tabs
         all_tabs_data = []
         for tab_config in tabs_config:
-            timeframe = tab_config.get("timeframe", "1day")
+            interval = tab_config.get("interval", "1d")
             limit = tab_config.get("limit", 30)
-            label = tab_config.get("label", timeframe)
+            label = tab_config.get("label", interval)
 
-            tab_data = self._fetch_single_chart(symbol, timeframe, limit)
+            tab_data = self._fetch_single_chart(symbol, interval, limit)
             tab_data["label"] = label
             all_tabs_data.append(tab_data)
 
         data = {
-            "symbol": symbol.upper(),
+            "symbol": symbol,
             "tabs": all_tabs_data,
             "fetched_at": datetime.now(timezone.utc).isoformat(),
         }
-        print(f"✅ Fetched {len(all_tabs_data)} tabs for {symbol.upper()}")
+        print(f"✅ Fetched {len(all_tabs_data)} tabs for {symbol}")
         return data
 
-    def _fetch_single_chart(self, symbol: str, timeframe: str, limit: int) -> Dict[str, Any]:
-        """Fetch data for a single chart."""
+    def _fetch_single_chart(self, symbol: str, interval: str, limit: int) -> Dict[str, Any]:
+        """Fetch data for a single chart from Binance US."""
         client = get_http_client()
         try:
-            # Fetch candlestick data from Gemini API
-            url = f"https://api.gemini.com/v2/candles/{symbol}/{timeframe}"
-            candles = client.get(url, response_type="json")
+            # Fetch candlestick data from Binance US API
+            url = "https://api.binance.us/api/v3/klines"
+            params = {
+                "symbol": symbol,
+                "interval": interval,
+                "limit": limit
+            }
+            candles = client.get(url, params=params, response_type="json")
 
-            # Gemini returns candles in descending order (newest first)
-            # Reverse for chronological order
-            candles = list(reversed(candles))
-
-            # Limit to requested number of candles
-            if limit:
-                candles = candles[-limit:]
-
+            # Binance returns candles in chronological order (oldest first)
             # Parse candles into structured format
+            # Binance format: [OpenTime, Open, High, Low, Close, Volume, CloseTime, QuoteVolume, NumTrades, TakerBuyBase, TakerBuyQuote, Ignore]
             parsed_candles = []
             for candle in candles:
                 parsed_candles.append({
-                    "timestamp": candle[0],
+                    "timestamp": candle[0],  # Open time in milliseconds
                     "open": float(candle[1]),
                     "high": float(candle[2]),
                     "low": float(candle[3]),
@@ -74,7 +74,7 @@ class CryptoPriceChartWidget(BaseWidget):
                 })
 
             return {
-                "timeframe": timeframe,
+                "interval": interval,
                 "candles": parsed_candles,
             }
 
@@ -113,7 +113,7 @@ class CryptoPriceChartWidget(BaseWidget):
         chart_scripts = []
 
         for i, tab_data in enumerate(tabs_data):
-            timeframe = tab_data["timeframe"]
+            interval = tab_data["interval"]
             candles = tab_data["candles"]
 
             # Prepare data for Chart.js
@@ -148,17 +148,22 @@ class CryptoPriceChartWidget(BaseWidget):
         (function() {{
             const ctx = document.getElementById('{chart_id}').getContext('2d');
             const timestamps = {timestamps};
-            const timeframe = '{timeframe}';
+            const interval = '{interval}';
 
             // Convert timestamps to user's local timezone
             const labels = timestamps.map(ts => {{
                 const date = new Date(ts);
-                if (timeframe === '1day' || timeframe === '1d') {{
+                // Daily intervals: show date only
+                if (interval === '1d' || interval === '3d' || interval === '1w' || interval === '1M') {{
                     return date.toLocaleDateString('en-US', {{ month: 'short', day: 'numeric' }});
-                }} else if (timeframe === '6h') {{
+                }}
+                // Multi-hour intervals: show date + time
+                else if (interval === '2h' || interval === '4h' || interval === '6h' || interval === '8h' || interval === '12h') {{
                     return date.toLocaleDateString('en-US', {{ month: 'short', day: 'numeric' }}) + ' ' +
                            date.toLocaleTimeString('en-US', {{ hour: '2-digit', minute: '2-digit', hour12: false }});
-                }} else {{
+                }}
+                // Minute and hourly intervals: show time only
+                else {{
                     return date.toLocaleTimeString('en-US', {{ hour: '2-digit', minute: '2-digit', hour12: false }});
                 }}
             }});

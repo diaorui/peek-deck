@@ -8,8 +8,8 @@ enabled: true
 
 # Page-specific parameters (passed to all widgets)
 params:
-  symbol: btcusd
-  coin_id: bitcoin  # For future use with CoinGecko
+  symbol: BTCUSDT  # Binance US symbol (BTCUSDT has continuous data, BTCUSD has gaps)
+  coin_id: bitcoin  # For CoinGecko API
 
 # Widget layout
 widgets:
@@ -18,25 +18,25 @@ widgets:
     size: small
     update_minutes: 5
 
-  # Price chart with multiple timeframe tabs
+  # Price chart with multiple timeframe tabs (using Binance US intervals)
   - type: crypto-price-chart
     size: large
     update_minutes: 10
     params:
       tabs:
-        - timeframe: "1hr"
+        - interval: "1h"
           limit: 24
           label: "24h"
-        - timeframe: "1day"
+        - interval: "1d"
           limit: 7
           label: "7d"
-        - timeframe: "1day"
+        - interval: "1d"
           limit: 30
           label: "30d"
-        - timeframe: "1day"
+        - interval: "1d"
           limit: 90
           label: "90d"
-        - timeframe: "1day"
+        - interval: "1d"
           limit: 365
           label: "1y"
 

@@ -225,7 +225,14 @@ class HTTPClient:
                 return cached
 
         self.stats_cache_misses += 1
-        print(f"📡 Fetching: {url}")
+
+        # Build full URL for logging
+        full_url = url
+        if params:
+            param_str = "&".join(f"{k}={v}" for k, v in params.items())
+            full_url = f"{url}?{param_str}"
+
+        print(f"📡 Fetching: {full_url}")
 
         # Make request with retry logic
         try:
