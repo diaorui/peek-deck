@@ -117,20 +117,11 @@ class CryptoPriceChartWidget(BaseWidget):
             candles = tab_data["candles"]
 
             # Prepare data for Chart.js
-            labels = []
+            # Pass timestamps to JavaScript for client-side timezone conversion
+            timestamps = []
             prices = []
             for candle in candles:
-                timestamp = candle["timestamp"]
-                dt = datetime.fromtimestamp(timestamp / 1000)
-
-                if timeframe in ["1day", "1d"]:
-                    label = dt.strftime("%b %d")
-                elif timeframe == "6h":
-                    label = dt.strftime("%b %d %H:%M")
-                else:  # 1h, 1hr, etc.
-                    label = dt.strftime("%H:%M")
-
-                labels.append(label)
+                timestamps.append(candle["timestamp"])
                 prices.append(candle["close"])
 
             # Generate unique ID for this chart
@@ -156,10 +147,26 @@ class CryptoPriceChartWidget(BaseWidget):
         <script>
         (function() {{
             const ctx = document.getElementById('{chart_id}').getContext('2d');
+            const timestamps = {timestamps};
+            const timeframe = '{timeframe}';
+
+            // Convert timestamps to user's local timezone
+            const labels = timestamps.map(ts => {{
+                const date = new Date(ts);
+                if (timeframe === '1day' || timeframe === '1d') {{
+                    return date.toLocaleDateString('en-US', {{ month: 'short', day: 'numeric' }});
+                }} else if (timeframe === '6h') {{
+                    return date.toLocaleDateString('en-US', {{ month: 'short', day: 'numeric' }}) + ' ' +
+                           date.toLocaleTimeString('en-US', {{ hour: '2-digit', minute: '2-digit', hour12: false }});
+                }} else {{
+                    return date.toLocaleTimeString('en-US', {{ hour: '2-digit', minute: '2-digit', hour12: false }});
+                }}
+            }});
+
             new Chart(ctx, {{
                 type: 'line',
                 data: {{
-                    labels: {labels},
+                    labels: labels,
                     datasets: [{{
                         label: '{symbol} Price',
                         data: {prices},

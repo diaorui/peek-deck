@@ -31,16 +31,34 @@
 
 .widget-hackernews-posts .post-meta {
     display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
+    flex-direction: column;
+    gap: 4px;
     font-size: 0.72rem;
     color: #9ca3af;
+}
+
+.widget-hackernews-posts .post-meta-line {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: nowrap;
+    overflow: hidden;
 }
 
 .widget-hackernews-posts .post-meta-item {
     display: flex;
     align-items: center;
     gap: 3px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 0;
+}
+
+.widget-hackernews-posts .post-meta-item span,
+.widget-hackernews-posts .post-meta-item a {
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .widget-hackernews-posts .post-points {
@@ -91,25 +109,29 @@
                         <a href="{{ post.hn_url }}" target="_blank" onclick="event.stopPropagation();">{{ post.title }}</a>
                     </div>
                     <div class="post-meta">
-                        <div class="post-meta-item">
-                            <span class="post-points">▲ {{ post.points }}</span>
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-points">▲ {{ post.points }}</span>
+                            </div>
+                            <div class="post-meta-item">
+                                <span style="color: #9ca3af;">💬 {{ post.num_comments }}</span>
+                            </div>
+                            <div class="post-meta-item">
+                                by {{ post.author }}
+                            </div>
                         </div>
-                        <div class="post-meta-item">
-                            <span style="color: #9ca3af;">💬 {{ post.num_comments }}</span>
+                        <div class="post-meta-line">
+                            <div class="post-meta-item">
+                                <span class="post-age" data-timestamp="{{ post.created_at }}"></span>
+                            </div>
+                            {% if post.url != post.hn_url %}
+                            <div class="post-meta-item">
+                                <a href="{{ post.url }}" target="_blank" class="article-link" onclick="event.stopPropagation();">
+                                    🔗 article
+                                </a>
+                            </div>
+                            {% endif %}
                         </div>
-                        <div class="post-meta-item">
-                            by {{ post.author }}
-                        </div>
-                        <div class="post-meta-item">
-                            <span class="post-age" data-timestamp="{{ post.created_at }}"></span>
-                        </div>
-                        {% if post.url != post.hn_url %}
-                        <div class="post-meta-item">
-                            <a href="{{ post.url }}" target="_blank" class="article-link" onclick="event.stopPropagation();">
-                                🔗 article
-                            </a>
-                        </div>
-                        {% endif %}
                     </div>
                 </div>
                 {% endfor %}

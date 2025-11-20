@@ -57,17 +57,27 @@
             </div>
             <div class="stat-item">
                 <div class="stat-label">Max Supply</div>
-                <div class="stat-value">{{ max_supply_display }}</div>
+                <div class="stat-value">{{ max_supply_display }}{% if max_supply_display != '∞' %} {{ symbol }}{% endif %}</div>
             </div>
             <div class="stat-item">
                 <div class="stat-label">All-Time High</div>
                 <div class="stat-value">${{ "{:,.2f}".format(ath_price) }}</div>
-                <div class="stat-meta">{{ ath_date_display }}</div>
+                <div class="stat-meta">
+                    {{ ath_date_display }} ·
+                    <span style="color: {% if ath_change_percent < 0 %}var(--color-negative){% else %}var(--color-positive){% endif %};">
+                        {{ ath_change_sign }}{{ "{:.1f}".format(ath_change_percent) }}%
+                    </span>
+                </div>
             </div>
             <div class="stat-item">
                 <div class="stat-label">All-Time Low</div>
                 <div class="stat-value">${{ "{:,.2f}".format(atl_price) }}</div>
-                <div class="stat-meta">{{ atl_date_display }}</div>
+                <div class="stat-meta">
+                    {{ atl_date_display }} ·
+                    <span style="color: {% if atl_change_percent >= 0 %}var(--color-positive){% else %}var(--color-negative){% endif %};">
+                        {{ atl_change_sign }}{{ "{:.1f}".format(atl_change_percent) }}%
+                    </span>
+                </div>
             </div>
         </div>
     </div>

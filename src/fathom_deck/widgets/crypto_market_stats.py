@@ -39,21 +39,28 @@ class CryptoMarketStatsWidget(BaseWidget):
             market_data = coin_data["market_data"]
 
             # Extract relevant market stats
+            current_price = market_data["current_price"]["usd"]
+            ath_price = market_data["ath"]["usd"]
+            atl_price = market_data["atl"]["usd"]
+
             data = {
                 "coin_id": coin_id,
                 "name": coin_data["name"],
                 "symbol": coin_data["symbol"].upper(),
+                "current_price": current_price,
                 "market_cap": market_data["market_cap"]["usd"],
                 "total_supply": market_data.get("total_supply"),
                 "circulating_supply": market_data.get("circulating_supply"),
                 "max_supply": market_data.get("max_supply"),
                 "ath": {
-                    "price": market_data["ath"]["usd"],
+                    "price": ath_price,
                     "date": market_data["ath_date"]["usd"],
+                    "change_percent": ((current_price - ath_price) / ath_price * 100) if ath_price else 0,
                 },
                 "atl": {
-                    "price": market_data["atl"]["usd"],
+                    "price": atl_price,
                     "date": market_data["atl_date"]["usd"],
+                    "change_percent": ((current_price - atl_price) / atl_price * 100) if atl_price else 0,
                 },
                 "price_change_24h_percent": market_data.get("price_change_percentage_24h", 0),
                 "market_cap_rank": coin_data.get("market_cap_rank"),
@@ -86,12 +93,16 @@ class CryptoMarketStatsWidget(BaseWidget):
         max_supply_display = f"{max_supply:,.0f}" if max_supply else "∞"
         supply_percent = f"{(circulating_supply / max_supply * 100):.1f}%" if (circulating_supply and max_supply) else "N/A"
 
-        # Format ATH/ATL dates
+        # Format ATH/ATL dates and change percentages
         ath_date = datetime.fromisoformat(ath["date"].replace("Z", "+00:00"))
         ath_date_display = ath_date.strftime("%b %d, %Y")
+        ath_change_percent = ath["change_percent"]
+        ath_change_sign = "" if ath_change_percent < 0 else "+"
 
         atl_date = datetime.fromisoformat(atl["date"].replace("Z", "+00:00"))
         atl_date_display = atl_date.strftime("%b %d, %Y")
+        atl_change_percent = atl["change_percent"]
+        atl_change_sign = "+" if atl_change_percent >= 0 else ""
 
         # 24h change color
         change_color = "var(--color-positive)" if price_change_24h >= 0 else "var(--color-negative)"
@@ -112,7 +123,11 @@ class CryptoMarketStatsWidget(BaseWidget):
             max_supply_display=max_supply_display,
             ath_price=ath['price'],
             ath_date_display=ath_date_display,
+            ath_change_percent=ath_change_percent,
+            ath_change_sign=ath_change_sign,
             atl_price=atl['price'],
             atl_date_display=atl_date_display,
+            atl_change_percent=atl_change_percent,
+            atl_change_sign=atl_change_sign,
             timestamp_iso=timestamp_iso
         )
