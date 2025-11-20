@@ -1,45 +1,10 @@
 <style>
-/* Carousel container */
-.widget-hackernews-posts .carousel-container {
-    position: relative;
-    overflow: hidden;
-    padding: 0 40px; /* Space for nav buttons */
-}
-
-.widget-hackernews-posts .carousel-track {
-    display: flex;
-    gap: 16px;
-    overflow-x: auto;
-    scroll-behavior: smooth;
-    scroll-snap-type: x mandatory;
-    scrollbar-width: none; /* Firefox */
-    -ms-overflow-style: none; /* IE/Edge */
-    padding: 4px 0; /* Prevent shadow clipping */
-}
-
-.widget-hackernews-posts .carousel-track::-webkit-scrollbar {
-    display: none; /* Chrome/Safari */
-}
-
-/* Card styling */
-.widget-hackernews-posts .post-card {
-    flex: 0 0 280px; /* Fixed width cards */
-    scroll-snap-align: start;
-    background: rgba(255, 255, 255, 0.03);
-    border-radius: 8px;
+/* HackerNews-specific card styling */
+.widget-hackernews-posts .carousel-card {
     border-left: 3px solid #ff6600;
-    padding: 14px;
-    transition: all 0.2s ease;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    cursor: pointer;
-    display: flex;
-    flex-direction: column;
-    min-height: 140px; /* Ensure consistent card height */
 }
 
-.widget-hackernews-posts .post-card:hover {
-    background: rgba(255, 255, 255, 0.06);
-    transform: translateY(-2px);
+.widget-hackernews-posts .carousel-card:hover {
     box-shadow: 0 4px 12px rgba(255, 102, 0, 0.2);
 }
 
@@ -52,7 +17,7 @@
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
-    flex: 1; /* Title takes available space, pushing meta to bottom */
+    flex: 1;
 }
 
 .widget-hackernews-posts .post-title a {
@@ -92,80 +57,6 @@
 .widget-hackernews-posts .article-link:hover {
     text-decoration: underline;
 }
-
-/* Navigation buttons */
-.widget-hackernews-posts .carousel-nav {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    background: rgba(0, 0, 0, 0.5);
-    border: none;
-    color: white;
-    width: 32px;
-    height: 32px;
-    border-radius: 50%;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: all 0.2s ease;
-    z-index: 10;
-}
-
-.widget-hackernews-posts .carousel-nav:hover {
-    background: #ff6600;
-    transform: translateY(-50%) scale(1.1);
-}
-
-.widget-hackernews-posts .carousel-nav:disabled {
-    opacity: 0.3;
-    cursor: not-allowed;
-}
-
-.widget-hackernews-posts .carousel-nav-prev {
-    left: 4px;
-}
-
-.widget-hackernews-posts .carousel-nav-next {
-    right: 4px;
-}
-
-/* Responsive - show more cards on wider screens */
-@media (min-width: 768px) {
-    .widget-hackernews-posts .post-card {
-        flex: 0 0 320px;
-    }
-}
-
-@media (min-width: 1024px) {
-    .widget-hackernews-posts .post-card {
-        flex: 0 0 280px;
-    }
-}
-
-/* Mobile - show card peek and hide buttons */
-@media (max-width: 640px) {
-    .widget-hackernews-posts .carousel-container {
-        padding: 0; /* Remove button padding on mobile */
-    }
-
-    .widget-hackernews-posts .carousel-track {
-        padding: 0 16px; /* Add side padding to container */
-    }
-
-    .widget-hackernews-posts .post-card {
-        flex: 0 0 calc(85% - 8px); /* Show 85% of card + peek of next */
-    }
-
-    /* Hide navigation buttons on mobile */
-    .widget-hackernews-posts .carousel-nav {
-        display: none;
-    }
-}
-
-.widget-hackernews-posts .view-all-btn:hover {
-    background: rgba(255, 102, 0, 0.15) !important;
-}
 </style>
 
 <div class="widget widget-hackernews-posts widget-{{ size }}">
@@ -195,7 +86,7 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="hn-carousel-{{ query|replace(' ', '-') }}">
                 {% for post in posts %}
-                <div class="post-card" onclick="window.open('{{ post.hn_url }}', '_blank')">
+                <div class="carousel-card" onclick="window.open('{{ post.hn_url }}', '_blank')">
                     <div class="post-title">
                         <a href="{{ post.hn_url }}" target="_blank" onclick="event.stopPropagation();">{{ post.title }}</a>
                     </div>
@@ -224,7 +115,7 @@
                 {% endfor %}
 
                 <!-- View All button at end of carousel -->
-                <div class="post-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 102, 0, 0.05); border-color: #ff6600;"
+                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 102, 0, 0.05); border-color: #ff6600;"
                      onclick="window.open('https://hn.algolia.com/?query={{ query }}&type=story&sort=byDate', '_blank')">
                     <div style="text-align: center;">
                         <div style="font-size: 2rem; margin-bottom: 8px;">📰</div>
@@ -246,110 +137,4 @@
     </div>
 </div>
 
-<script>
-(function() {
-    const carouselId = 'hn-carousel-{{ query|replace(" ", "-") }}';
-    const carousel = document.getElementById(carouselId);
-
-    if (!carousel) return;
-
-    const cards = carousel.querySelectorAll('.post-card');
-    const prevBtn = carousel.parentElement.querySelector('.carousel-nav-prev');
-    const nextBtn = carousel.parentElement.querySelector('.carousel-nav-next');
-
-    // Exit if buttons don't exist (shouldn't happen, but safety check)
-    if (!prevBtn || !nextBtn) return;
-
-    let currentIndex = 0;
-
-    function getVisibleCards() {
-        if (!cards.length) return 1;
-        const cardWidth = cards[0].offsetWidth;
-        const gap = 16; // gap between cards
-        const containerWidth = carousel.offsetWidth;
-        return Math.floor(containerWidth / (cardWidth + gap)) || 1;
-    }
-
-    function scrollToIndex(index) {
-        if (!cards.length) return;
-        const cardWidth = cards[0].offsetWidth;
-        const gap = 16;
-        const scrollPosition = index * (cardWidth + gap);
-        carousel.scrollTo({
-            left: scrollPosition,
-            behavior: 'smooth'
-        });
-        currentIndex = index;
-        updateButtonStates();
-    }
-
-    function scrollByBatch(direction) {
-        const visibleCards = getVisibleCards();
-        let newIndex;
-
-        if (direction === 'next') {
-            newIndex = Math.min(currentIndex + visibleCards, cards.length - 1);
-        } else {
-            newIndex = Math.max(currentIndex - visibleCards, 0);
-        }
-
-        scrollToIndex(newIndex);
-    }
-
-    function updateButtonStates() {
-        if (!prevBtn || !nextBtn) return;
-        prevBtn.disabled = currentIndex === 0;
-        nextBtn.disabled = currentIndex >= cards.length - 1;
-    }
-
-    // Navigation buttons - scroll by batch on desktop
-    prevBtn.addEventListener('click', (e) => {
-        e.preventDefault();
-        scrollByBatch('prev');
-    });
-
-    nextBtn.addEventListener('click', (e) => {
-        e.preventDefault();
-        scrollByBatch('next');
-    });
-
-    // Keyboard navigation
-    carousel.addEventListener('keydown', (e) => {
-        if (e.key === 'ArrowLeft') {
-            e.preventDefault();
-            scrollByBatch('prev');
-        } else if (e.key === 'ArrowRight') {
-            e.preventDefault();
-            scrollByBatch('next');
-        }
-    });
-
-    // Mouse wheel horizontal scroll
-    carousel.addEventListener('wheel', (e) => {
-        if (e.deltaY !== 0) {
-            e.preventDefault();
-            carousel.scrollLeft += e.deltaY;
-        }
-    }, { passive: false });
-
-    // Track scroll position to update button states
-    let scrollTimeout;
-    carousel.addEventListener('scroll', () => {
-        clearTimeout(scrollTimeout);
-        scrollTimeout = setTimeout(() => {
-            if (!cards.length) return;
-            const cardWidth = cards[0].offsetWidth;
-            const gap = 16;
-            const scrollPos = carousel.scrollLeft;
-            const newIndex = Math.round(scrollPos / (cardWidth + gap));
-            if (newIndex !== currentIndex) {
-                currentIndex = newIndex;
-                updateButtonStates();
-            }
-        }, 100);
-    });
-
-    // Initialize
-    updateButtonStates();
-})();
-</script>
+<!-- Carousel initialized by shared page.html script -->

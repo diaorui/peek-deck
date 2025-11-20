@@ -61,7 +61,7 @@ widgets:
     size: full
     update_minutes: 30
     params:
-      query: bitcoin
+      query: Bitcoin
       limit: 10
       min_points: 0
       sort_by: date
@@ -72,4 +72,4 @@ widgets:
     update_minutes: 30
     params:
       query: Bitcoin
-      limit: 8
+      limit: 10

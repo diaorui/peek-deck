@@ -1,34 +1,19 @@
 <style>
-.widget-google-news .news-list {
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-}
-
-.widget-google-news .news-item {
-    padding: 10px;
-    background: rgba(255, 255, 255, 0.03);
-    border-radius: 6px;
+/* Google News specific card styling */
+.widget-google-news .carousel-card {
     border-left: 3px solid var(--primary-color);
-    transition: background 0.2s ease;
-}
-
-.widget-google-news .news-favicon {
-    width: 16px;
-    height: 16px;
-    margin-right: 6px;
-    border-radius: 2px;
-}
-
-.widget-google-news .news-item:hover {
-    background: rgba(255, 255, 255, 0.05);
 }
 
 .widget-google-news .news-headline {
     font-size: 0.95rem;
     font-weight: 500;
-    margin-bottom: 6px;
+    margin-bottom: 10px;
     line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    flex: 1;
 }
 
 .widget-google-news .news-headline a {
@@ -43,8 +28,8 @@
 .widget-google-news .news-meta {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
-    font-size: 0.75rem;
+    gap: 8px;
+    font-size: 0.72rem;
     color: #9ca3af;
 }
 
@@ -52,6 +37,13 @@
     font-weight: 500;
     display: flex;
     align-items: center;
+}
+
+.widget-google-news .news-favicon {
+    width: 14px;
+    height: 14px;
+    margin-right: 4px;
+    border-radius: 2px;
 }
 
 .widget-google-news .news-source a {
@@ -62,59 +54,73 @@
 .widget-google-news .news-source a:hover {
     color: var(--primary-color);
 }
-
-.widget-google-news .view-all-btn:hover {
-    background: rgba(255, 255, 255, 0.08) !important;
-}
 </style>
 
 <div class="widget widget-google-news widget-{{ size }}">
     <div class="widget-header">
         <h3>
-            News
+            Google News
             <span style="font-size: 0.75rem; color: #9ca3af; font-weight: normal; margin-left: 8px;">
-                Google News
+                "{{ query }}"
             </span>
         </h3>
     </div>
     <div class="widget-body">
-        <div class="news-list">
-            {% for article in articles %}
-            <div class="news-item">
-                <div class="news-headline">
-                    <a href="{{ article.url }}" target="_blank">{{ article.headline }}</a>
-                </div>
-                <div class="news-meta">
-                    {% if article.source %}
-                    <div class="news-source">
-                        {% if article.source_url %}
-                        <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url={{ article.source_url }}&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                             alt="{{ article.source }}" class="news-favicon">
-                        <a href="{{ article.source_url }}" target="_blank">{{ article.source }}</a>
-                        {% else %}
-                        {{ article.source }}
+        <div class="carousel-container">
+            <!-- Previous button -->
+            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
+                ◀
+            </button>
+
+            <!-- Carousel track -->
+            <div class="carousel-track" id="news-carousel-{{ query|replace(' ', '-') }}">
+                {% for article in articles %}
+                <div class="carousel-card" onclick="window.open('{{ article.url }}', '_blank')">
+                    <div class="news-headline">
+                        <a href="{{ article.url }}" target="_blank" onclick="event.stopPropagation();">{{ article.headline }}</a>
+                    </div>
+                    <div class="news-meta">
+                        {% if article.source %}
+                        <div class="news-source">
+                            {% if article.source_url %}
+                            <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url={{ article.source_url }}&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                 alt="{{ article.source }}" class="news-favicon">
+                            <a href="{{ article.source_url }}" target="_blank" onclick="event.stopPropagation();">{{ article.source }}</a>
+                            {% else %}
+                            <span>{{ article.source }}</span>
+                            {% endif %}
+                        </div>
+                        {% endif %}
+                        {% if article.pub_date %}
+                        <div class="news-date">
+                            <span data-timestamp="{{ article.pub_date }}"></span>
+                        </div>
                         {% endif %}
                     </div>
-                    {% endif %}
-                    {% if article.pub_date %}
-                    <div class="news-date">
-                        <span data-timestamp="{{ article.pub_date }}"></span>
+                </div>
+                {% endfor %}
+
+                <!-- View All button at end of carousel -->
+                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
+                     onclick="window.open('https://news.google.com/search?q={{ query }}', '_blank')">
+                    <div style="text-align: center;">
+                        <div style="font-size: 2rem; margin-bottom: 8px;">📰</div>
+                        <div style="color: var(--primary-color); font-weight: 500; font-size: 0.9rem;">View All</div>
+                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on Google News</div>
                     </div>
-                    {% endif %}
                 </div>
             </div>
-            {% endfor %}
+
+            <!-- Next button -->
+            <button class="carousel-nav carousel-nav-next" aria-label="Next">
+                ▶
+            </button>
         </div>
-        <div style="margin-top: 12px; text-align: center;">
-            <a href="https://news.google.com/search?q={{ query }}" target="_blank" class="view-all-btn"
-               style="display: inline-block; padding: 8px 16px; background: rgba(255, 255, 255, 0.05);
-                      border-radius: 6px; color: var(--primary-color); text-decoration: none;
-                      font-size: 0.85rem; font-weight: 500; transition: background 0.2s ease;">
-                View All on Google News →
-            </a>
-        </div>
+
     </div>
     <div class="widget-footer">
         <small data-timestamp="{{ timestamp_iso }}">Updated {{ timestamp_iso }}</small>
     </div>
 </div>
+
+<!-- Carousel initialized by shared page.html script -->
