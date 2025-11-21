@@ -1,6 +1,6 @@
 {
   "url": "https://github.com/deepset-ai/haystack",
-  "cached_at": "2025-11-21T22:58:10.058091",
+  "cached_at": "2025-11-21T23:24:16.247565",
   "metadata": {
     "url": "https://github.com/deepset-ai/haystack",
     "title": "GitHub - deepset-ai/haystack: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
