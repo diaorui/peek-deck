@@ -1,5 +1,6 @@
-"""Reddit posts widget using Reddit JSON API."""
+"""Reddit posts widget using Reddit RSS feed."""
 
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from typing import Any, Dict, List
 
@@ -11,73 +12,96 @@ class RedditPostsWidget(BaseWidget):
     """Displays recent posts from a subreddit.
 
     Required params:
-        - subreddit: Subreddit name (e.g., "bitcoin", "cryptocurrency")
+        - subreddit: Subreddit name (e.g., "artificial", "bitcoin")
 
     Optional params:
-        - limit: Number of posts to show (default: 5)
-        - sort: Sort order - "hot", "new", "top", "rising" (default: "hot")
+        - limit: Number of posts to show (default: 10)
+        - timeframe: Time filter for top posts - "day", "week", "month", "year", "all" (default: "day")
     """
 
     def get_required_params(self) -> list[str]:
         return ["subreddit"]
 
     def fetch_data(self) -> Dict[str, Any]:
-        """Fetch recent posts from subreddit."""
+        """Fetch recent posts from subreddit RSS feed."""
         self.validate_params()
 
         subreddit = self.merged_params["subreddit"]
-        limit = self.merged_params.get("limit", 5)
-        sort = self.merged_params.get("sort", "hot")
+        limit = self.merged_params.get("limit", 10)
+        timeframe = self.merged_params.get("timeframe", "day")
         client = get_http_client()
 
         try:
-            # Fetch posts from Reddit JSON API
-            url = f"https://www.reddit.com/r/{subreddit}/{sort}/.json"
-            params = {"limit": limit}
+            # Fetch RSS feed from Reddit (top posts only)
+            url = f"https://www.reddit.com/r/{subreddit}/top.rss"
+            params = {"t": timeframe}
             headers = {
-                "User-Agent": "python:fathom-deck:v1.0.0 (by /u/fathom-deck-bot)"
+                "User-Agent": "Mozilla/5.0 (compatible; FeedReader/1.0)"
             }
-            reddit_data = client.get(url, params=params, headers=headers, response_type="json")
+            xml_data = client.get(url, params=params, headers=headers, response_type="text")
 
-            # Extract posts from Reddit API response
+            # Parse XML (Atom format)
+            root = ET.fromstring(xml_data)
+            ns = {'atom': 'http://www.w3.org/2005/Atom', 'media': 'http://search.yahoo.com/mrss/'}
+            entries = root.findall('atom:entry', ns)
+
+            # Extract posts
             posts = []
-            for child in reddit_data["data"]["children"]:
-                post_data = child["data"]
+            for entry in entries[:limit]:
+                title_elem = entry.find('atom:title', ns)
+                link_elem = entry.find('atom:link', ns)
+                author_elem = entry.find('atom:author/atom:name', ns)
+                published_elem = entry.find('atom:published', ns)
+                thumbnail_elem = entry.find('media:thumbnail', ns)
 
-                # Handle thumbnail - can be URL, "self", "default", or missing
-                thumbnail = post_data.get("thumbnail", "")
-                if not thumbnail.startswith("http"):
-                    thumbnail = None
+                if title_elem is None or link_elem is None:
+                    continue
+
+                # Parse timestamp
+                published_timestamp = None
+                if published_elem is not None and published_elem.text:
+                    try:
+                        dt = datetime.fromisoformat(published_elem.text)
+                        published_timestamp = dt.timestamp()
+                    except (ValueError, AttributeError):
+                        pass
+
+                # Get thumbnail URL
+                thumbnail = None
+                if thumbnail_elem is not None:
+                    thumbnail = thumbnail_elem.get('url')
+
+                # Extract author username (format: /u/username)
+                author = ""
+                if author_elem is not None and author_elem.text:
+                    author = author_elem.text.replace('/u/', '')
 
                 posts.append({
-                    "title": post_data["title"],
-                    "author": post_data["author"],
-                    "score": post_data["score"],
-                    "num_comments": post_data["num_comments"],
-                    "url": f"https://www.reddit.com{post_data['permalink']}",
-                    "created_utc": post_data["created_utc"],
-                    "is_self": post_data["is_self"],
+                    "title": title_elem.text,
+                    "author": author,
+                    "url": link_elem.get('href', ''),
+                    "published": published_timestamp,
                     "thumbnail": thumbnail,
                 })
 
             data = {
                 "subreddit": subreddit,
-                "sort": sort,
+                "timeframe": timeframe,
                 "posts": posts,
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
             }
 
-            print(f"✅ Fetched {len(posts)} posts from r/{subreddit}")
+            print(f"✅ Fetched {len(posts)} posts from r/{subreddit} (top/{timeframe})")
             return data
 
         except Exception as e:
-            print(f"❌ Failed to fetch or parse r/{subreddit}: {e}")
+            print(f"❌ Failed to fetch or parse r/{subreddit} RSS: {e}")
             raise
 
     def render(self, processed_data: Dict[str, Any]) -> str:
         """Render Reddit posts widget HTML."""
         subreddit = processed_data["subreddit"]
-        sort = processed_data["sort"]
+        timeframe = processed_data["timeframe"]
         posts = processed_data["posts"]
         timestamp_iso = processed_data["fetched_at"]
 
@@ -85,7 +109,7 @@ class RedditPostsWidget(BaseWidget):
             "widgets/reddit_posts.html",
             size=self.size,
             subreddit=subreddit,
-            sort=sort,
+            timeframe=timeframe,
             posts=posts,
             timestamp_iso=timestamp_iso
         )

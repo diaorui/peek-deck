@@ -45,16 +45,14 @@ widgets:
     size: full
     update_minutes: 30
 
-  # Row 3: Reddit discussions
-  # NOTE: Reddit blocks GitHub Actions IPs (403 Forbidden) despite valid requests.
-  # Works locally but fails in CI/CD. Commenting out until we implement OAuth or find alternative.
-  # - type: reddit-posts
-  #   size: full
-  #   update_minutes: 15
-  #   params:
-  #     subreddit: Bitcoin
-  #     limit: 8
-  #     sort: hot
+  # Row 3: Reddit discussions (using RSS feed to avoid IP blocks)
+  - type: reddit-posts
+    size: full
+    update_minutes: 30
+    params:
+      subreddit: Bitcoin
+      limit: 10
+      timeframe: day
 
   # Row 4: HackerNews discussions
   - type: hackernews-posts

@@ -90,14 +90,16 @@
             <a href="https://www.reddit.com/r/{{ subreddit }}" target="_blank" class="subreddit-link" style="color: #9ca3af; text-decoration: none;">
                 r/{{ subreddit }}
             </a>
-            {% if sort == 'hot' %}
-            · 🔥 Hot
-            {% elif sort == 'new' %}
-            · ✨ New
-            {% elif sort == 'top' %}
-            · ⭐ Top
-            {% elif sort == 'rising' %}
-            · 📈 Rising
+            {% if timeframe == 'day' %}
+            · ⭐ Top Today
+            {% elif timeframe == 'week' %}
+            · ⭐ Top This Week
+            {% elif timeframe == 'month' %}
+            · ⭐ Top This Month
+            {% elif timeframe == 'year' %}
+            · ⭐ Top This Year
+            {% elif timeframe == 'all' %}
+            · ⭐ Top All Time
             {% endif %}
         </div>
     </div>
@@ -114,24 +116,20 @@
                     </div>
                     <div class="post-meta">
                         <div class="post-meta-item">
-                            <span class="post-score">↑ {{ post.score }}</span>
-                        </div>
-                        <div class="post-meta-item">
-                            💬 {{ post.num_comments }}
-                        </div>
-                        <div class="post-meta-item">
                             u/{{ post.author }}
                         </div>
+                        {% if post.published %}
                         <div class="post-meta-item">
-                            <span class="post-age" data-timestamp="{{ post.created_utc }}"></span>
+                            <span class="post-age" data-timestamp="{{ post.published }}"></span>
                         </div>
+                        {% endif %}
                     </div>
                 </div>
             </div>
             {% endfor %}
         </div>
         <div style="margin-top: 12px; text-align: center;">
-            <a href="https://www.reddit.com/r/{{ subreddit }}/{{ sort }}" target="_blank" class="view-all-btn"
+            <a href="https://www.reddit.com/r/{{ subreddit }}/top?t={{ timeframe }}" target="_blank" class="view-all-btn"
                style="display: inline-block; padding: 8px 16px; background: rgba(255, 255, 255, 0.05);
                       border-radius: 6px; color: var(--primary-color); text-decoration: none;
                       font-size: 0.85rem; font-weight: 500; transition: background 0.2s ease;">

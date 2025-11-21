@@ -68,3 +68,12 @@ widgets:
     update_minutes: 30
     params:
       limit: 10
+
+  # Reddit discussions from r/artificial
+  - type: reddit-posts
+    size: full
+    update_minutes: 30
+    params:
+      subreddit: artificial
+      limit: 10
+      timeframe: day
