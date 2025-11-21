@@ -490,6 +490,29 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p33rwn/big_techs_ai_deals_are_creating_one_giant_machine/', '_blank')">
+                    <div class="post-thumbnail" ></div>
+                    <div class="post-title">
+                        <a href="https://www.reddit.com/r/artificial/comments/1p33rwn/big_techs_ai_deals_are_creating_one_giant_machine/" target="_blank" onclick="event.stopPropagation();">Big tech's AI deals are creating one giant machine</a>
+                    </div>
+                    <div class="post-meta">
+                        <div class="post-meta-line">
+                            
+                            <div class="post-author">
+                                u/Appropriate-Soil-896
+                            </div>
+                            
+                        </div>
+                        <div class="post-meta-line">
+                            
+                            <div class="post-date">
+                                <span data-timestamp="1763743961.0"></span>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p2ylsx/meta_tests_aipowered_morning_briefing_to/', '_blank')">
                     <div class="post-thumbnail" style="background-image: url('https://external-preview.redd.it/oD_HefEsTiyyLCOONHAbhe2k2pfzO_B7_WHMmsR3ci8.jpeg?width=640&crop=smart&auto=webp&s=c29bef94ceffb01b10821a43d9160b9126f9eead'); background-size: cover; background-position: center;"></div>
                     <div class="post-title">
@@ -507,29 +530,6 @@
                             
                             <div class="post-date">
                                 <span data-timestamp="1763731708.0"></span>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p2quag/oneminute_daily_ai_news_11202025/', '_blank')">
-                    <div class="post-thumbnail" ></div>
-                    <div class="post-title">
-                        <a href="https://www.reddit.com/r/artificial/comments/1p2quag/oneminute_daily_ai_news_11202025/" target="_blank" onclick="event.stopPropagation();">One-Minute Daily AI News 11/20/2025</a>
-                    </div>
-                    <div class="post-meta">
-                        <div class="post-meta-line">
-                            
-                            <div class="post-author">
-                                u/Excellent-Target-847
-                            </div>
-                            
-                        </div>
-                        <div class="post-meta-line">
-                            
-                            <div class="post-date">
-                                <span data-timestamp="1763704464.0"></span>
                             </div>
                             
                         </div>
@@ -559,7 +559,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-21T17:48:01.858268+00:00">Updated 2025-11-21T17:48:01.858268+00:00</small>
+        <small data-timestamp="2025-11-21T17:59:45.582499+00:00">Updated 2025-11-21T17:59:45.582499+00:00</small>
     </div>
 </div>
 
@@ -569,18 +569,51 @@
 /* Google News specific card styling */
 .widget-google-news .carousel-card {
     border-left: 3px solid var(--primary-color);
+    display: flex;
+    flex-direction: column;
+}
+
+.widget-google-news .carousel-card:hover {
+    box-shadow: 0 4px 12px rgba(var(--primary-color-rgb, 66, 153, 225), 0.2);
+}
+
+/* Rich preview image */
+.widget-google-news .article-thumbnail {
+    width: 100%;
+    height: 140px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.03);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+/* Fallback icon for articles without images */
+.widget-google-news .article-thumbnail:not([style*="background-image"])::before {
+    content: "📰";
+    opacity: 0.3;
+}
+
+.widget-google-news .article-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
 }
 
 .widget-google-news .news-headline {
     font-size: 0.95rem;
     font-weight: 500;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
     line-height: 1.4;
     display: -webkit-box;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
-    flex: 1;
+    min-height: calc(0.95rem * 1.4 * 2);
 }
 
 .widget-google-news .news-headline a {
@@ -592,20 +625,49 @@
     color: var(--primary-color);
 }
 
+/* Rich description */
+.widget-google-news .article-description {
+    font-size: 0.75rem;
+    color: #9ca3af;
+    line-height: 1.4;
+    margin-bottom: 10px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
 .widget-google-news .news-meta {
     display: flex;
     flex-direction: column;
     gap: 4px;
     font-size: 0.72rem;
     color: #9ca3af;
+    margin-top: auto;
 }
 
 .widget-google-news .news-meta-line {
     display: flex;
     align-items: center;
     gap: 8px;
+    flex-wrap: nowrap;
     overflow: hidden;
+}
+
+.widget-google-news .news-meta-item {
+    display: flex;
+    align-items: center;
+    gap: 3px;
     white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 0;
+}
+
+.widget-google-news .news-meta-item span,
+.widget-google-news .news-meta-item a {
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .widget-google-news .news-source {
@@ -623,13 +685,6 @@
     white-space: nowrap;
 }
 
-.widget-google-news .news-favicon {
-    width: 14px;
-    height: 14px;
-    margin-right: 4px;
-    border-radius: 2px;
-}
-
 .widget-google-news .news-source a {
     color: #9ca3af;
     text-decoration: none;
@@ -637,6 +692,13 @@
 
 .widget-google-news .news-source a:hover {
     color: var(--primary-color);
+}
+
+.widget-google-news .news-favicon {
+    width: 14px;
+    height: 14px;
+    object-fit: contain;
+    flex-shrink: 0;
 }
 </style>
 
@@ -657,262 +719,400 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSQzM3aXBxT2hOLXl0VW4xTS1mekp2TndGZ1QwZEx4YkZYUHl1OW5NWDlrYXl4YlZDRGNabGhVRkVtZ1Q2aUJ4N25KVEdZdlRONDFsZDUwQ09sd9IBX0FVX3lxTE5hQmJrVWRCX2tITlFySTYyb2NQZTVMa2h5Q2ZxQTVxUmIyNkFBRERLdVc4SVcyUEludFE3QlNmUTVZT0NteUpBOUJ2U3RDRURQYnk1b1N3U2NNWGgxaE8w?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSQzM3aXBxT2hOLXl0VW4xTS1mekp2TndGZ1QwZEx4YkZYUHl1OW5NWDlrYXl4YlZDRGNabGhVRkVtZ1Q2aUJ4N25KVEdZdlRONDFsZDUwQ09sd9IBX0FVX3lxTE5hQmJrVWRCX2tITlFySTYyb2NQZTVMa2h5Q2ZxQTVxUmIyNkFBRERLdVc4SVcyUEludFE3QlNmUTVZT0NteUpBOUJ2U3RDRURQYnk1b1N3U2NNWGgxaE8w?oc=5" target="_blank" onclick="event.stopPropagation();">US and Asia stocks slide as AI jitters persist</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="BBC" class="news-favicon">
-                                <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
-                                
-                            </div>
-                            
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2025/11/20/us/politics/howard-lutnick-family-ai.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nytimes.com/2025/11/20/us/politics/howard-lutnick-family-ai.html" target="_blank" onclick="event.stopPropagation();">Family Affair: Commerce Secretary’s Sons Cash In on A.I. Frenzy</a>
                         </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763713364.0"></span>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FLVNyNXh1ZDVNQ1NienVaTzZUSkNqdjgtUmIydENUazg4UmNZeG5vN3QyMlQwOWpfLVFYN3h5QVVMLXlaekxVd0Foak9GYWFUX3N2R2J4OVY?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FLVNyNXh1ZDVNQ1NienVaTzZUSkNqdjgtUmIydENUazg4UmNZeG5vN3QyMlQwOWpfLVFYN3h5QVVMLXlaekxVd0Foak9GYWFUX3N2R2J4OVY?oc=5" target="_blank" onclick="event.stopPropagation();">A new era of intelligence with Gemini 3</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
                                 
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blog.google&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="The Keyword" class="news-favicon">
-                                <a href="https://blog.google" target="_blank" onclick="event.stopPropagation();">The Keyword</a>
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
                                 
                             </div>
-                            
-                        </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763481947.0"></span>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763632845.0"></span>
+                                </div>
+                                
                             </div>
-                            
                         </div>
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjl3Q09zMVAyYW5XUk8yTlI4RE4tYmFvUURpUDNxd3Z3Q2RQa0RjZVVwV3c3eEZGS3YtSXBZOUtIZ0ZlMWpRSjhjd2wxcUZJbFExNEdVVDlRVGFRejhWcmI3Ym1OSlVpMERUdnZFMk42em5ERlllNld3VUZqTnJTMjFkY0ZJU1ppV2FqN0tiQUJweUdMTTE2cURGOA?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjl3Q09zMVAyYW5XUk8yTlI4RE4tYmFvUURpUDNxd3Z3Q2RQa0RjZVVwV3c3eEZGS3YtSXBZOUtIZ0ZlMWpRSjhjd2wxcUZJbFExNEdVVDlRVGFRejhWcmI3Ym1OSlVpMERUdnZFMk42em5ERlllNld3VUZqTnJTMjFkY0ZJU1ppV2FqN0tiQUJweUdMTTE2cURGOA?oc=5" target="_blank" onclick="event.stopPropagation();">Gemini 3 is available for enterprise</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cloud.google.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="Google Cloud" class="news-favicon">
-                                <a href="https://cloud.google.com" target="_blank" onclick="event.stopPropagation();">Google Cloud</a>
-                                
-                            </div>
-                            
+                <div class="carousel-card" onclick="window.open('https://www.reuters.com/business/bubble-trouble-ai-rally-shows-cracks-investors-question-risks-2025-11-21/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.reuters.com/business/bubble-trouble-ai-rally-shows-cracks-investors-question-risks-2025-11-21/" target="_blank" onclick="event.stopPropagation();">Bubble Trouble: AI rally shows cracks as investors question risks</a>
                         </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763481921.0"></span>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWFySTFyRkNsQmlaRlowUnpsTS1mLVU3Z1h5M1hEc2RRazF0X3VYVWNsTjNyY2JWa0FsLTJoYTI1ZmFNRE5vSFAta0toTF9uUTU3SEk0QzFXanhsU3BIam4yYU0tM3VBNkVabm03SXlJLS13Z0N5VGhQeGVLMngySkdrbjF5bXJxZl9vVWdxR2hCWkJ6OGh0THpWSmRIRFFVWmRSOFF4NNIBrAFBVV95cUxOaHNtZjZxSjN0eTdtN2hOQTc4Q09EVUY0UHpYbXZsXzdNQzJKano2eko1X2J1VUFiREo3dGFtMWRRSkd2YVd5OTdRZlVWT1Q2eDU1OTVvN2NKTllGSHU0YWNCVmdseWRvQ2dGbTN5TkxIa24ycTZyZ3hXSmd1dVB5Zm5iX1dmY2RjNS1QRXlfMzhIblJRWUtMakdHT2FvQkVYVFdkWVNEbDlrTWpY?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWFySTFyRkNsQmlaRlowUnpsTS1mLVU3Z1h5M1hEc2RRazF0X3VYVWNsTjNyY2JWa0FsLTJoYTI1ZmFNRE5vSFAta0toTF9uUTU3SEk0QzFXanhsU3BIam4yYU0tM3VBNkVabm03SXlJLS13Z0N5VGhQeGVLMngySkdrbjF5bXJxZl9vVWdxR2hCWkJ6OGh0THpWSmRIRFFVWmRSOFF4NNIBrAFBVV95cUxOaHNtZjZxSjN0eTdtN2hOQTc4Q09EVUY0UHpYbXZsXzdNQzJKano2eko1X2J1VUFiREo3dGFtMWRRSkd2YVd5OTdRZlVWT1Q2eDU1OTVvN2NKTllGSHU0YWNCVmdseWRvQ2dGbTN5TkxIa24ycTZyZ3hXSmd1dVB5Zm5iX1dmY2RjNS1QRXlfMzhIblJRWUtMakdHT2FvQkVYVFdkWVNEbDlrTWpY?oc=5" target="_blank" onclick="event.stopPropagation();">Google must double AI compute every 6 months to meet demand, AI infrastructure boss tells employees</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
                                 
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="CNBC" class="news-favicon">
-                                <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Reuters" class="news-favicon">
+                                    <a href="https://www.reuters.com" target="_blank" onclick="event.stopPropagation();">Reuters</a>
+                                    
+                                </div>
                                 
                             </div>
-                            
-                        </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763728201.0"></span>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763739488.0"></span>
+                                </div>
+                                
                             </div>
-                            
                         </div>
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMifkFVX3lxTE5WOFo3WGZpb0VoRlotTGdON0hBaElxN0YyR00xQUVvbGh4TzdESzJYNXA4WjdzalYzc1VXTVNfQ0ZaNjVpWm55MTBrU01iRFZvOGpkd3R0dzVYN0xUcERBcWdRRkxVNTBpTnU0ajBrMU5TMzlaTkFGSTZKcFl2dw?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE5WOFo3WGZpb0VoRlotTGdON0hBaElxN0YyR00xQUVvbGh4TzdESzJYNXA4WjdzalYzc1VXTVNfQ0ZaNjVpWm55MTBrU01iRFZvOGpkd3R0dzVYN0xUcERBcWdRRkxVNTBpTnU0ajBrMU5TMzlaTkFGSTZKcFl2dw?oc=5" target="_blank" onclick="event.stopPropagation();">There Is Only One AI Company. Welcome to the Blob</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="WIRED" class="news-favicon">
-                                <a href="https://www.wired.com" target="_blank" onclick="event.stopPropagation();">WIRED</a>
-                                
-                            </div>
-                            
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2025/11/21/robinhood-heads-for-brutal-weekly-loss-as-bitcoin-ai-stocks-are-hit-hard.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108058864-1730901410581-gettyimages-2182410725-omarques_05112024_phone_technews-6.jpeg?v=1763735672&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2025/11/21/robinhood-heads-for-brutal-weekly-loss-as-bitcoin-ai-stocks-are-hit-hard.html" target="_blank" onclick="event.stopPropagation();">Robinhood shares head for brutal weekly loss as bitcoin, AI stocks are hit hard</a>
                         </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763740800.0"></span>
-                            </div>
-                            
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The platform's core business relies on retail investors pouring into speculative corners of the market, particularly crypto and AI-linked stocks.
                         </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFR4UG9HSm5FZVo5N3o5eEIxWmZtWlNJVVZIRHRCUHdicldraGVNeXB4ZFlWdXZ6aUVFa1EyZ1kzMC1qUHlzRXBaZTlrZTg3U0dQYnJsRXZWd1lZTmpnck0xZFNUT0dGXzJQSFppUm5PbThmcHp5bjQ2MC1UOFRMaURJTkFNVnFVbjJ6eGpKVWNwYjBzUnZ2Ym9GaUdPRlJsS3dKR1kxSFhXQQ?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFR4UG9HSm5FZVo5N3o5eEIxWmZtWlNJVVZIRHRCUHdicldraGVNeXB4ZFlWdXZ6aUVFa1EyZ1kzMC1qUHlzRXBaZTlrZTg3U0dQYnJsRXZWd1lZTmpnck0xZFNUT0dGXzJQSFppUm5PbThmcHp5bjQ2MC1UOFRMaURJTkFNVnFVbjJ6eGpKVWNwYjBzUnZ2Ym9GaUdPRlJsS3dKR1kxSFhXQQ?oc=5" target="_blank" onclick="event.stopPropagation();">Watch AI Story is Now About Cash Flows: Hoffmann-Burchardi</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
                                 
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="Bloomberg.com" class="news-favicon">
-                                <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
                                 
                             </div>
-                            
-                        </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763740463.0"></span>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763731925.0"></span>
+                                </div>
+                                
                             </div>
-                            
                         </div>
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWVsY1hoTC1MWjZwNTVZdTdtdmhoc19vS3VRc2JrZGlKbDFvR0d1N0hXTTBLeEwtcml1ZEFPcXpZT2l4RDFrcHAxam1DbmxyOHVxY0NDcjNkSlZBRDBIVmE2NzFzVVNsbWxpbnlFQXBjelZtMlRjZG5SYmtGRklkSi1hRU1lcjJ0?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWVsY1hoTC1MWjZwNTVZdTdtdmhoc19vS3VRc2JrZGlKbDFvR0d1N0hXTTBLeEwtcml1ZEFPcXpZT2l4RDFrcHAxam1DbmxyOHVxY0NDcjNkSlZBRDBIVmE2NzFzVVNsbWxpbnlFQXBjelZtMlRjZG5SYmtGRklkSi1hRU1lcjJ0?oc=5" target="_blank" onclick="event.stopPropagation();">Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="Fortune" class="news-favicon">
-                                <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
-                                
-                            </div>
-                            
+                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/personal-finance/investing/article/are-we-in-an-ai-bubble-how-to-protect-your-portfolio-if-your-ai-investments-turn-against-you-152533660.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/ny/api/res/1.2/hhTPQn7dFLPFjBCg1ntt2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/eb3ab830-c651-11f0-8fff-937d14823d1d');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://finance.yahoo.com/personal-finance/investing/article/are-we-in-an-ai-bubble-how-to-protect-your-portfolio-if-your-ai-investments-turn-against-you-152533660.html" target="_blank" onclick="event.stopPropagation();">Are we in an AI bubble? How to protect your portfolio if your AI investments turn against you.</a>
                         </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763663820.0"></span>
-                            </div>
-                            
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Some investors fear an AI bubble. These strategies can help safeguard your investments.
                         </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMirAFBVV95cUxPV1VVNG9laERHUWR2Q1lhaXQzU0hEN2lEMjczSHptcG0zaXUzeHR4TkZqZ2phWEMxem5TLW1zd1I4WW1WY214Yk50UWkyVnVFYWFZX2plVG9maUMtRXRGcGlfdXJzV2pHYnAtbUplMXRfUzR0U09MSlpTdUNVMWFIblR1WV8xVXFEbHYzUGZHREJQcHkzZ2RMT0hMenpteWpFZE1md19BclloTDc3?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPV1VVNG9laERHUWR2Q1lhaXQzU0hEN2lEMjczSHptcG0zaXUzeHR4TkZqZ2phWEMxem5TLW1zd1I4WW1WY214Yk50UWkyVnVFYWFZX2plVG9maUMtRXRGcGlfdXJzV2pHYnAtbUplMXRfUzR0U09MSlpTdUNVMWFIblR1WV8xVXFEbHYzUGZHREJQcHkzZ2RMT0hMenpteWpFZE1md19BclloTDc3?oc=5" target="_blank" onclick="event.stopPropagation();">Elon Musk’s Grok AI tells users he is fitter than LeBron James and smarter than Leonardo da Vinci</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
                                 
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="The Guardian" class="news-favicon">
-                                <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Yahoo Finance" class="news-favicon">
+                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    
+                                </div>
                                 
                             </div>
-                            
-                        </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763743260.0"></span>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763738733.0"></span>
+                                </div>
+                                
                             </div>
-                            
                         </div>
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMioAFBVV95cUxOUnk1LU54MXJHUklqVFhwS1NMNlZINGt3dEJORlJNbTUyTTF5QzhUaXZVSGdPbk90WDBFUV9CX0ZYVHpMZWhGOFFoMDM0MUJkSV9qcVBVdVN0QTFUNjhqLUtZQTdqOVNReEYwbFVtVXNDOFNqTVcxMjhPME00WDJ1UjlwY2tWd1htOXlYV3FuT0R5Szc2UVFTaFBxaWU1bGlt?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOUnk1LU54MXJHUklqVFhwS1NMNlZINGt3dEJORlJNbTUyTTF5QzhUaXZVSGdPbk90WDBFUV9CX0ZYVHpMZWhGOFFoMDM0MUJkSV9qcVBVdVN0QTFUNjhqLUtZQTdqOVNReEYwbFVtVXNDOFNqTVcxMjhPME00WDJ1UjlwY2tWd1htOXlYV3FuT0R5Szc2UVFTaFBxaWU1bGlt?oc=5" target="_blank" onclick="event.stopPropagation();">Grok’s Elon Musk worship is getting weird</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="The Verge" class="news-favicon">
-                                <a href="https://www.theverge.com" target="_blank" onclick="event.stopPropagation();">The Verge</a>
-                                
-                            </div>
-                            
+                <div class="carousel-card" onclick="window.open('https://blog.google/products/gemini/gemini-3/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_model-blog_meta-dark.width-1300.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://blog.google/products/gemini/gemini-3/" target="_blank" onclick="event.stopPropagation();">A new era of intelligence with Gemini 3</a>
                         </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763676855.0"></span>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Today we’re releasing Gemini 3 – our most intelligent model that helps you bring any idea to life.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blog.google&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Keyword" class="news-favicon">
+                                    <a href="https://blog.google" target="_blank" onclick="event.stopPropagation();">The Keyword</a>
+                                    
+                                </div>
+                                
                             </div>
-                            
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763481947.0"></span>
+                                </div>
+                                
+                            </div>
                         </div>
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HLTdJaEY3VDIwQTZDT3FaZm1ES016ZlBOR2tEN0QwYVFHQ2NnWXg0VXR5eGFyYUFWWFhnNFB1V1dDN1NhcDNUa25VSWVmNDU2RXcxS2FrbE1IdFpqWl9MVGl1TUJnUDFP?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HLTdJaEY3VDIwQTZDT3FaZm1ES016ZlBOR2tEN0QwYVFHQ2NnWXg0VXR5eGFyYUFWWFhnNFB1V1dDN1NhcDNUa25VSWVmNDU2RXcxS2FrbE1IdFpqWl9MVGl1TUJnUDFP?oc=5" target="_blank" onclick="event.stopPropagation();">A teddy bear powered by AI told safety testers about knives, pills and sex</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.washingtonpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="The Washington Post" class="news-favicon">
-                                <a href="https://www.washingtonpost.com" target="_blank" onclick="event.stopPropagation();">The Washington Post</a>
-                                
-                            </div>
-                            
+                <div class="carousel-card" onclick="window.open('https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-is-available-for-enterprise', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-cloudblog-publish/images/Gemini_3_Blog_1_1.max-2500x2500.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-is-available-for-enterprise" target="_blank" onclick="event.stopPropagation();">Gemini 3 is available for enterprise</a>
                         </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763742709.0"></span>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Learn, plan, and build with Gemini 3. Available today, you can access Gemini 3 on Vertex AI and Gemini Enterprise.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cloud.google.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Google Cloud" class="news-favicon">
+                                    <a href="https://cloud.google.com" target="_blank" onclick="event.stopPropagation();">Google Cloud</a>
+                                    
+                                </div>
+                                
                             </div>
-                            
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763481921.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2025/11/21/google-says-it-must-double-ai-compute-every-6-months-to-meet-demand.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108023895-1724280070456-amin.jpg?v=1724280282&w=1920&h=1080');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.cnbc.com/2025/11/21/google-says-it-must-double-ai-compute-every-6-months-to-meet-demand.html" target="_blank" onclick="event.stopPropagation();">Google must double AI compute every 6 months to meet demand, AI infrastructure boss tells employees</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            At a recent all-hands meeting, Google's head of AI infrastructure said the company has to race to build out compute capacity.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNBC" class="news-favicon">
+                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763728201.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.wired.com/story/ai-industry-monopoly-nvidia-microsoft-google/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media.wired.com/photos/691fa8b4dc08cd8d8bfd2173/191:100/w_1280,c_limit/Backchannel-AI-Monopoly-Business.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.wired.com/story/ai-industry-monopoly-nvidia-microsoft-google/" target="_blank" onclick="event.stopPropagation();">There Is Only One AI Company. Welcome to the Blob</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            As Nvidia, OpenAI, Google, and Microsoft forge partnerships and deals, the AI industry is looking more like one interconnected machine. What does that mean for all of us?
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="WIRED" class="news-favicon">
+                                    <a href="https://www.wired.com" target="_blank" onclick="event.stopPropagation();">WIRED</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763740800.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bloomberg.com/news/videos/2025-11-21/ai-story-is-now-about-cash-flows-hoffmann-burchardi-video', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bloomberg.com/news/videos/2025-11-21/ai-story-is-now-about-cash-flows-hoffmann-burchardi-video" target="_blank" onclick="event.stopPropagation();">Watch AI Story is Now About Cash Flows: Hoffmann-Burchardi</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Bloomberg.com" class="news-favicon">
+                                    <a href="https://www.bloomberg.com" target="_blank" onclick="event.stopPropagation();">Bloomberg.com</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763740463.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://fortune.com/2025/11/20/elon-musk-tesla-ai-work-optional-money-irrelevant/', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246882303-e1763661015921.jpg?resize=1200,600');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://fortune.com/2025/11/20/elon-musk-tesla-ai-work-optional-money-irrelevant/" target="_blank" onclick="event.stopPropagation();">Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            “It’ll be like playing sports or a video game or something like that,” the Tesla CEO said.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Fortune" class="news-favicon">
+                                    <a href="https://fortune.com" target="_blank" onclick="event.stopPropagation();">Fortune</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763663820.0"></span>
+                                </div>
+                                
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -937,7 +1137,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-21T17:48:02.588675+00:00">Updated 2025-11-21T17:48:02.588675+00:00</small>
+        <small data-timestamp="2025-11-21T18:00:13.992487+00:00">Updated 2025-11-21T18:00:13.992487+00:00</small>
     </div>
 </div>
 
@@ -987,12 +1187,11 @@
     font-weight: 500;
     margin-bottom: 8px;
     line-height: 1.4;
-    /* Fixed height: exactly 3 lines */
-    height: calc(0.95rem * 1.4 * 3);
     display: -webkit-box;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
+    min-height: calc(0.95rem * 1.4 * 2);
 }
 
 .widget-hackernews-posts .post-title a {
@@ -1011,7 +1210,7 @@
     line-height: 1.4;
     margin-bottom: 10px;
     display: -webkit-box;
-    -webkit-line-clamp: 2;
+    -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
 }
@@ -1611,385 +1810,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-21T17:48:10.271988+00:00">Updated 2025-11-21T17:48:10.271988+00:00</small>
-    </div>
-</div>
-
-<!-- Carousel initialized by shared page.html script -->
-        
-        <style>
-/* Google News specific card styling */
-.widget-google-news .carousel-card {
-    border-left: 3px solid var(--primary-color);
-}
-
-.widget-google-news .news-headline {
-    font-size: 0.95rem;
-    font-weight: 500;
-    margin-bottom: 10px;
-    line-height: 1.4;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    flex: 1;
-}
-
-.widget-google-news .news-headline a {
-    color: var(--text-color);
-    text-decoration: none;
-}
-
-.widget-google-news .news-headline a:hover {
-    color: var(--primary-color);
-}
-
-.widget-google-news .news-meta {
-    display: flex;
-    flex-direction: column;
-    gap: 4px;
-    font-size: 0.72rem;
-    color: #9ca3af;
-}
-
-.widget-google-news .news-meta-line {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    overflow: hidden;
-    white-space: nowrap;
-}
-
-.widget-google-news .news-source {
-    font-weight: 500;
-    display: flex;
-    align-items: center;
-    overflow: hidden;
-    min-width: 0;
-}
-
-.widget-google-news .news-source a,
-.widget-google-news .news-source span {
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-}
-
-.widget-google-news .news-favicon {
-    width: 14px;
-    height: 14px;
-    margin-right: 4px;
-    border-radius: 2px;
-}
-
-.widget-google-news .news-source a {
-    color: #9ca3af;
-    text-decoration: none;
-}
-
-.widget-google-news .news-source a:hover {
-    color: var(--primary-color);
-}
-</style>
-
-<div class="widget widget-google-news widget-full">
-    <div class="widget-header">
-        <h3>Posts from X</h3>
-        <div style="font-size: 0.75rem; color: #9ca3af;">
-            "ai site:x.com"
-        </div>
-    </div>
-    <div class="widget-body">
-        <div class="carousel-container">
-            <!-- Previous button -->
-            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
-                ◀
-            </button>
-
-            <!-- Carousel track -->
-            <div class="carousel-track" id="news-carousel-ai-site-x-com">
-                
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rbGZLczNlemVkc3JDaWZXZjlyemQwcF9yUF9GWUx6YzJLTUxzVUQwOGg3VENIWl9ULUxDSmdlQmtyQ0g5aW1XYWhhZlk0bHpNZ2xrQ3hhS3RCOHFxTXROU1Jfb3g?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rbGZLczNlemVkc3JDaWZXZjlyemQwcF9yUF9GWUx6YzJLTUxzVUQwOGg3VENIWl9ULUxDSmdlQmtyQ0g5aW1XYWhhZlk0bHpNZ2xrQ3hhS3RCOHFxTXROU1Jfb3g?oc=5" target="_blank" onclick="event.stopPropagation();">AI DEFENDING THE STATUS QUO! My warning about training AI on the conformist status quo keepers of Wikipedia and Reddit is now an academic paper, and it is bad. — Exposed: Deep Structural Flaws in Large Language Models: The Discovery of the Fals</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="x.com" class="news-favicon">
-                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
-                                
-                            </div>
-                            
-                        </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763696824.0"></span>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51NmRIQkxCbTlVdWpqWWtVSjVRU3VXZG9iTDJTNWtMNDdsR0pLcjVzZDJvWmRiTjBuaTBIbmJ4NXpXVDUzdi1oWGtmM3VIRnR5X0N6MEVmRnJGRXUzaHdyUjdaNWFEZ3c?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51NmRIQkxCbTlVdWpqWWtVSjVRU3VXZG9iTDJTNWtMNDdsR0pLcjVzZDJvWmRiTjBuaTBIbmJ4NXpXVDUzdi1oWGtmM3VIRnR5X0N6MEVmRnJGRXUzaHdyUjdaNWFEZ3c?oc=5" target="_blank" onclick="event.stopPropagation();">3 years ago we could showcase AI's frontier w. a unicorn drawing. Today we do so w. AI outputs touching the scientific frontier: cdn.openai.com/pdf/4a25f921-e… Use the doc to judge for yourself the status of AI-aided science acceleration, and hopefully be ins</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="x.com" class="news-favicon">
-                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
-                                
-                            </div>
-                            
-                        </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763661831.0"></span>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PT2RjYXNZZTcydHVlVlQ3WnpNbVgwejhnMWtUQU8yVWJvXzBxM3p0UWxtdmdHbEpBNXpxdUs4U1dKYjBmc3BMZVVoMnREakZCWlVtMzdLMA?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PT2RjYXNZZTcydHVlVlQ3WnpNbVgwejhnMWtUQU8yVWJvXzBxM3p0UWxtdmdHbEpBNXpxdUs4U1dKYjBmc3BMZVVoMnREakZCWlVtMzdLMA?oc=5" target="_blank" onclick="event.stopPropagation();">smooth exponential AI progress</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="x.com" class="news-favicon">
-                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
-                                
-                            </div>
-                            
-                        </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763718078.0"></span>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUdDdtRXNiV0wyQVFhWnprZ21MZlpKYnBjNG83Yjk5b01iRGctZGxaMm5MckRCT1lIQk5qbnJDYTBvY2NHUl9yWG9qVVJULW1hTWhvcE9oYw?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUdDdtRXNiV0wyQVFhWnprZ21MZlpKYnBjNG83Yjk5b01iRGctZGxaMm5MckRCT1lIQk5qbnJDYTBvY2NHUl9yWG9qVVJULW1hTWhvcE9oYw?oc=5" target="_blank" onclick="event.stopPropagation();">AI Image of Tech Titans Goes Viral on X, Stunning Millions</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="x.com" class="news-favicon">
-                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
-                                
-                            </div>
-                            
-                        </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763689813.0"></span>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vOTlvNjBaNjFmUUdiNVBuSDZKdDR5XzJuRkhFOUpWS0xVbTJ6LWcxbDJ4VjFWb0tMNmtOendreHBZR2d1UVQ0eTloUzFHZlF2VnFjNGQ3MWt2THZWZTBPNGx4eEdWVU0?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vOTlvNjBaNjFmUUdiNVBuSDZKdDR5XzJuRkhFOUpWS0xVbTJ6LWcxbDJ4VjFWb0tMNmtOendreHBZR2d1UVQ0eTloUzFHZlF2VnFjNGQ3MWt2THZWZTBPNGx4eEdWVU0?oc=5" target="_blank" onclick="event.stopPropagation();">Jeez there so many cynics! It cracks me up when I hear people call AI underwhelming. I grew up playing Snake on a Nokia phone! The fact that people are unimpressed that we can have a fluent conversation with a super smart AI that can generate any image/</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="x.com" class="news-favicon">
-                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
-                                
-                            </div>
-                            
-                        </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763569260.0"></span>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VZW1RRXFfNmYyd1lkendqWWlGejRmRmpobjhBcWhWbzBMZmJ3V3ZBUWNzNURQVm13Ukl1YkliVnBFM0NuX3hWeGR4YW1zZHFzalJ3dFlZRG4yOXE0MWlwcTU4dFlpZw?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VZW1RRXFfNmYyd1lkendqWWlGejRmRmpobjhBcWhWbzBMZmJ3V3ZBUWNzNURQVm13Ukl1YkliVnBFM0NuX3hWeGR4YW1zZHFzalJ3dFlZRG4yOXE0MWlwcTU4dFlpZw?oc=5" target="_blank" onclick="event.stopPropagation();">Microsoft's AI CEO has said he's mindblown over people who are unimpressed with recent AI announcements</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="x.com" class="news-favicon">
-                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
-                                
-                            </div>
-                            
-                        </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763572634.0"></span>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wdnRXWlZmaU81NXdYbHdubDZzYUVrZnpwTXhraVZSWDZuOTlvN2xvS2RnZTYwWmdicEdVeUlOaWtkNnJNbVAwMjA4a0xGR2U1aEdDR0M4OA?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wdnRXWlZmaU81NXdYbHdubDZzYUVrZnpwTXhraVZSWDZuOTlvN2xvS2RnZTYwWmdicEdVeUlOaWtkNnJNbVAwMjA4a0xGR2U1aEdDR0M4OA?oc=5" target="_blank" onclick="event.stopPropagation();">AI bringing people together</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="x.com" class="news-favicon">
-                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
-                                
-                            </div>
-                            
-                        </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763596115.0"></span>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYUXpzMl9xSEF0aFktM3VselphVE54UlBrelBHaEt3a1pNc1dqUkkzWUVHLXlfN0Q0S1pFUjZkakZlUFpXWERiLWVNUTZfYjdnYWpiMThsNHBkMWRZM2N3?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYUXpzMl9xSEF0aFktM3VselphVE54UlBrelBHaEt3a1pNc1dqUkkzWUVHLXlfN0Q0S1pFUjZkakZlUFpXWERiLWVNUTZfYjdnYWpiMThsNHBkMWRZM2N3?oc=5" target="_blank" onclick="event.stopPropagation();">Today, we present a step-change in robotic AI @sundayrobotics. Introducing ACT-1: A frontier robot foundation model trained on zero robot data. - Ultra long-horizon tasks - Zero-shot generalization - Advanced dexterity 🧵-></a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="x.com" class="news-favicon">
-                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
-                                
-                            </div>
-                            
-                        </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763575203.0"></span>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQm9hRGFRMDIzbkNLbjIxdjN6aWxKZzhLTFIzQl9yX1ptSHFMZ1pkUGdGeHlncXlzNGxMUFo0TUtjWHVzRjV6SlJlTXpvZXl6ZXlHN1hIV015T3lWeFpObXN3?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQm9hRGFRMDIzbkNLbjIxdjN6aWxKZzhLTFIzQl9yX1ptSHFMZ1pkUGdGeHlncXlzNGxMUFo0TUtjWHVzRjV6SlJlTXpvZXl6ZXlHN1hIV015T3lWeFpObXN3?oc=5" target="_blank" onclick="event.stopPropagation();">Gemini 3 shows that scaling laws for pretraining are intact. This is the most important AI datapoint since the release of o1. This means that Blackwell models are likely to show a significant increase in performance when they come out in the second quarter of 20</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="x.com" class="news-favicon">
-                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
-                                
-                            </div>
-                            
-                        </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763585676.0"></span>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GVjZuc1pibUw3ekFRbllOYW9wVUZWNU9yUWxueUdRSFhyem43MldlRHIxYXRCU0dGbmRCMjF0UHRzMlY2dzU5U0FZRWo3ZVdoX0lWOUpSR2kyeHBYZHc?oc=5', '_blank')">
-                    <div class="news-headline">
-                        <a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GVjZuc1pibUw3ekFRbllOYW9wVUZWNU9yUWxueUdRSFhyem43MldlRHIxYXRCU0dGbmRCMjF0UHRzMlY2dzU5U0FZRWo3ZVdoX0lWOUpSR2kyeHBYZHc?oc=5" target="_blank" onclick="event.stopPropagation();">Sharing an interesting recent conversation on AI's impact on the economy. AI has been compared to various historical precedents: electricity, industrial revolution, etc., I think the strongest analogy is that of AI as a new computing paradigm (Software 2.0) becau</a>
-                    </div>
-                    <div class="news-meta">
-                        <div class="news-meta-line">
-                            
-                            <div class="news-source">
-                                
-                                <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://x.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                     alt="x.com" class="news-favicon">
-                                <a href="https://x.com" target="_blank" onclick="event.stopPropagation();">x.com</a>
-                                
-                            </div>
-                            
-                        </div>
-                        <div class="news-meta-line">
-                            
-                            <div class="news-date">
-                                <span data-timestamp="1763315762.0"></span>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
-
-                <!-- View All button at end of carousel -->
-                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
-                     onclick="window.open('https://news.google.com/search?q=ai%20site%3Ax.com', '_blank')">
-                    <div style="text-align: center;">
-                        <div style="font-size: 2rem; margin-bottom: 8px;">📰</div>
-                        <div style="color: var(--primary-color); font-weight: 500; font-size: 0.9rem;">View All</div>
-                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on Google News</div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Next button -->
-            <button class="carousel-nav carousel-nav-next" aria-label="Next">
-                ▶
-            </button>
-        </div>
-
-    </div>
-    <div class="widget-footer">
-        <small data-timestamp="2025-11-21T17:48:10.789017+00:00">Updated 2025-11-21T17:48:10.789017+00:00</small>
+        <small data-timestamp="2025-11-21T18:00:21.261531+00:00">Updated 2025-11-21T18:00:21.261531+00:00</small>
     </div>
 </div>
 
@@ -2363,7 +2184,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-21T17:48:10.972278+00:00">Updated 2025-11-21T17:48:10.972278+00:00</small>
+        <small data-timestamp="2025-11-21T18:00:21.460129+00:00">Updated 2025-11-21T18:00:21.460129+00:00</small>
     </div>
 </div>
 
@@ -3001,7 +2822,7 @@ token budget.
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-21T17:48:11.152144+00:00">Updated 2025-11-21T17:48:11.152144+00:00</small>
+        <small data-timestamp="2025-11-21T18:00:21.622851+00:00">Updated 2025-11-21T18:00:21.622851+00:00</small>
     </div>
 </div>
 
@@ -3108,7 +2929,7 @@ token budget.
                                 <span class="model-stats">⬇️ 0</span>
                             </div>
                             <div class="model-meta-item">
-                                <span class="model-stats">❤️ 407</span>
+                                <span class="model-stats">❤️ 408</span>
                             </div>
                         </div>
                         
@@ -3139,7 +2960,7 @@ token budget.
                                 <span class="model-stats">⬇️ 26,092</span>
                             </div>
                             <div class="model-meta-item">
-                                <span class="model-stats">❤️ 387</span>
+                                <span class="model-stats">❤️ 390</span>
                             </div>
                         </div>
                         
@@ -3410,7 +3231,7 @@ token budget.
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-21T17:48:11.273243+00:00">Updated 2025-11-21T17:48:11.273243+00:00</small>
+        <small data-timestamp="2025-11-21T18:00:21.751473+00:00">Updated 2025-11-21T18:00:21.751473+00:00</small>
     </div>
 </div>
 
@@ -3597,7 +3418,7 @@ token budget.
                             </div>
                             
                             <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2025-11-21T17:46:39Z"></span>
+                                <span class="repo-age" data-timestamp="2025-11-21T17:49:10Z"></span>
                             </div>
                             
                         </div>
@@ -3954,7 +3775,7 @@ token budget.
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-21T17:48:11.660443+00:00">Updated 2025-11-21T17:48:11.660443+00:00</small>
+        <small data-timestamp="2025-11-21T18:00:22.238173+00:00">Updated 2025-11-21T18:00:22.238173+00:00</small>
     </div>
 </div>
 
