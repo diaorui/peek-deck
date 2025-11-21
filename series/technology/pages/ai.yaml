@@ -35,17 +35,7 @@ widgets:
       min_points: 0
       sort_by: date
 
-  # 4. ProductHunt (daily new product launches)
-  # category filter only supports tech, games, books?
-  - type: producthunt
-    size: full
-    update_minutes: 60
-    params:
-      title: ProductHunt
-      category: tech
-      limit: 10
-
-  # 5. HuggingFace papers (daily research publications)
+  # 4. HuggingFace papers (daily research publications)
   - type: huggingface-papers
     size: full
     update_minutes: 60
@@ -53,14 +43,14 @@ widgets:
       limit: 10
       sort: trending
 
-  # 6. HuggingFace models (trending over days)
+  # 5. HuggingFace models (trending over days)
   - type: huggingface-models
     size: full
     update_minutes: 30
     params:
       limit: 10
 
-  # 7. GitHub repos (trending over 7 days)
+  # 6. GitHub repos (trending over 7 days)
   - type: github-repos
     size: full
     update_minutes: 60

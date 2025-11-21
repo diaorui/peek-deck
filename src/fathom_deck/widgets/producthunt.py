@@ -12,7 +12,8 @@ class ProducthuntWidget(BaseWidget):
     """Displays recent products from ProductHunt RSS feed.
 
     Optional params:
-        - category: Filter by category (e.g., "ai-software", "books", "developer-tools")
+        - category: Filter by category (e.g., "tech", "games", "books")
+                   NOTE: ProductHunt RSS feed only supports 3 categories: "tech", "games", "books"
         - title: Custom widget title (default: "ProductHunt")
         - limit: Number of products to show (default: 10)
     """
