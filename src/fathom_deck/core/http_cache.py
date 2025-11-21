@@ -166,10 +166,15 @@ class HTTPClient:
 
         This method is decorated with @retry to handle transient failures.
         """
-        # Merge with default headers
-        final_headers = {"User-Agent": self.default_user_agent}
+        # Merge with default headers (browser-like headers for better compatibility)
+        final_headers = {
+            "User-Agent": self.default_user_agent,
+            "Accept-Language": "en-US,en;q=0.9",
+            "DNT": "1",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        }
         if headers:
-            final_headers.update(headers)
+            final_headers.update(headers)  # Custom headers override defaults
 
         # Use default timeout if not specified
         final_timeout = timeout or self.default_timeout
