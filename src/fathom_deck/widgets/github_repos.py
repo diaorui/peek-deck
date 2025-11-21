@@ -90,12 +90,13 @@ class GithubReposWidget(BaseWidget):
                     "forks_display": forks_display,
                     "language": repo.get("language"),
                     "topics": repo.get("topics", [])[:3],  # First 3 topics
-                    "updated_at": repo.get("updated_at"),
+                    "updated_at": repo.get("pushed_at"),  # Use pushed_at to match GitHub.com
                 })
 
             data = {
                 "repos": repos,
                 "query": query,
+                "search_query": q,  # Full search query with filters
                 "days": days,
                 "limit": limit,
                 "total_count": response.get("total_count", 0),
@@ -113,6 +114,7 @@ class GithubReposWidget(BaseWidget):
         """Render GitHub repos widget HTML."""
         repos = processed_data["repos"]
         query = processed_data["query"]
+        search_query = processed_data["search_query"]
         days = processed_data["days"]
         limit = processed_data["limit"]
         total_count = processed_data["total_count"]
@@ -123,6 +125,7 @@ class GithubReposWidget(BaseWidget):
             size=self.size,
             repos=repos,
             query=query,
+            search_query=search_query,
             days=days,
             limit=limit,
             total_count=total_count,
