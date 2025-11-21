@@ -103,7 +103,7 @@ class GithubReposWidget(BaseWidget):
                     "forks": forks,
                     "forks_display": forks_display,
                     "language": repo.get("language"),
-                    "topics": repo.get("topics", [])[:3],  # First 3 topics
+                    "topics": repo.get("topics", [])[:5],  # Show up to 5 topics; CSS enforces 2-line display limit
                     "updated_at": repo.get("pushed_at"),  # Use pushed_at to match GitHub.com
                 })
 
