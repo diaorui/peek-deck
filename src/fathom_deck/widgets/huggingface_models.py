@@ -54,11 +54,21 @@ class HuggingfaceModelsWidget(BaseWidget):
                         else:
                             num_params = f"{num_params:,}"
 
+                # Get author avatar from authorData
+                author_data = model.get("authorData", {})
+                avatar_url = author_data.get("avatarUrl", "")
+
+                # Construct thumbnail URL (same pattern as papers)
+                model_id = model["id"]
+                thumbnail_url = f"https://cdn-thumbnails.huggingface.co/social-thumbnails/models/{model_id}.png"
+
                 models.append({
-                    "id": model["id"],
-                    "author": model.get("author", model["id"].split("/")[0]),
-                    "name": model["id"].split("/")[-1],
-                    "url": f"https://huggingface.co/{model['id']}",
+                    "id": model_id,
+                    "author": model.get("author", model_id.split("/")[0]),
+                    "name": model_id.split("/")[-1],
+                    "url": f"https://huggingface.co/{model_id}",
+                    "thumbnail": thumbnail_url,
+                    "avatar": avatar_url,
                     "downloads": model.get("downloads", 0),
                     "likes": model.get("likes", 0),
                     "pipeline_tag": model.get("pipeline_tag"),
