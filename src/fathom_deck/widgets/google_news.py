@@ -12,9 +12,10 @@ class GoogleNewsWidget(BaseWidget):
     """Displays recent news articles from Google News RSS feed.
 
     Required params:
-        - query: Search query (e.g., "Bitcoin", "Ethereum", "ai site:x.com")
+        - query: Search query (e.g., "Bitcoin", "Ethereum", "ai")
 
     Optional params:
+        - site: Filter results to a specific site (e.g., "x.com", "reddit.com")
         - title: Custom widget title (default: "Google News")
         - limit: Number of articles to show (default: 5)
         - locale: Language and region (default: "en-US")
@@ -29,17 +30,21 @@ class GoogleNewsWidget(BaseWidget):
         self.validate_params()
 
         query = self.merged_params["query"]
+        site = self.merged_params.get("site")
         title = self.merged_params.get("title", "Google News")
         limit = self.merged_params.get("limit", 5)
         locale = self.merged_params.get("locale", "en-US")
         region = self.merged_params.get("region", "US")
         client = get_http_client()
 
+        # Combine query and site filter if site is specified
+        search_query = f"{query} site:{site}" if site else query
+
         try:
             # Fetch RSS feed from Google News
             url = "https://news.google.com/rss/search"
             params = {
-                "q": query,
+                "q": search_query,
                 "hl": locale,
                 "gl": region,
                 "ceid": f"{region}:en"
@@ -102,21 +107,25 @@ class GoogleNewsWidget(BaseWidget):
             data = {
                 "title": title,
                 "query": query,
+                "site": site,
+                "search_query": search_query,
                 "articles": articles,
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
             }
 
-            print(f"✅ Fetched {len(articles)} news articles for '{query}'")
+            print(f"✅ Fetched {len(articles)} news articles for '{search_query}'")
             return data
 
         except Exception as e:
-            print(f"❌ Failed to fetch or parse Google News for '{query}': {e}")
+            print(f"❌ Failed to fetch or parse Google News for '{search_query}': {e}")
             raise
 
     def render(self, processed_data: Dict[str, Any]) -> str:
         """Render Google News widget HTML."""
         title = processed_data["title"]
         query = processed_data["query"]
+        site = processed_data["site"]
+        search_query = processed_data["search_query"]
         articles = processed_data["articles"]
         timestamp_iso = processed_data["fetched_at"]
 
@@ -125,6 +134,8 @@ class GoogleNewsWidget(BaseWidget):
             size=self.size,
             title=title,
             query=query,
+            site=site,
+            search_query=search_query,
             articles=articles,
             timestamp_iso=timestamp_iso
         )

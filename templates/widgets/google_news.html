@@ -77,7 +77,7 @@
     <div class="widget-header">
         <h3>{{ title }}</h3>
         <div style="font-size: 0.75rem; color: #9ca3af;">
-            "{{ query }}"
+            "{{ search_query }}"
         </div>
     </div>
     <div class="widget-body">
@@ -88,7 +88,7 @@
             </button>
 
             <!-- Carousel track -->
-            <div class="carousel-track" id="news-carousel-{{ query|replace(' ', '-')|replace(':', '-')|replace('.', '-') }}">
+            <div class="carousel-track" id="news-carousel-{{ search_query|replace(' ', '-')|replace(':', '-')|replace('.', '-') }}">
                 {% for article in articles %}
                 <div class="carousel-card" onclick="window.open('{{ article.url }}', '_blank')">
                     <div class="news-headline">
@@ -121,7 +121,7 @@
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 255, 255, 0.05);"
-                     onclick="window.open('https://news.google.com/search?q={{ query }}', '_blank')">
+                     onclick="window.open('https://news.google.com/search?q={{ search_query|urlencode }}', '_blank')">
                     <div style="text-align: center;">
                         <div style="font-size: 2rem; margin-bottom: 8px;">📰</div>
                         <div style="color: var(--primary-color); font-weight: 500; font-size: 0.9rem;">View All</div>

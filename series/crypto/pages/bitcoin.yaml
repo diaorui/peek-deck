@@ -61,7 +61,7 @@ widgets:
     size: full
     update_minutes: 30
     params:
-      query: Bitcoin
+      query: bitcoin
       limit: 10
       min_points: 0
       sort_by: date
@@ -71,7 +71,7 @@ widgets:
     size: full
     update_minutes: 30
     params:
-      query: Bitcoin
+      query: bitcoin
       limit: 10
 
   # Row 6: Posts from X (via Google News)
@@ -80,5 +80,6 @@ widgets:
     update_minutes: 30
     params:
       title: Posts from X
-      query: bitcoin site:x.com
+      query: bitcoin
+      site: x.com
       limit: 10

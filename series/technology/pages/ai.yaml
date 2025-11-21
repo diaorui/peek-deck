@@ -22,7 +22,8 @@ widgets:
     update_minutes: 30
     params:
       title: Posts from X
-      query: ai site:x.com
+      query: ai
+      site: x.com
       limit: 10
 
   # HackerNews AI discussions
