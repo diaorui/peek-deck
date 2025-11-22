@@ -5,24 +5,54 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Plunge Hits Market Makers in a Fragile Trading Landscape",
+      "headline": "Bitcoin Price: Why Cryptos Keep Dropping\u2014and Whether the Crash Will Continue",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPSXUxaEpqQV96ZXp4ZHQ1YmxGaDhFVElLSWNreXFlNi12YWMwYlZBWTM5UnJwOU1IU0hfOWZtQlc3VnFYTVdPZVFjMVF0OUgzM1YtZThodVZqeTlYanhVSnM1V0RYRGh1YTZtcEJnaUdOQzNDTWU0b3ExWUowSnJETzlIbWtGNFBQLThiZDd1Ti1BclFsS243b0JsZk5oTEVva3loTDB4ZUw4bm1ha1lFZ1FKZFA4aFFDdU1ad2poenEzbHpvYUQydURvRGRCNWJWUzl0cnBPbGpsOUF0MGNMeEFUa2JVb05OdDBJN3BQSFF6Ymo0X080Y0Y5NkRGcTNEVUcxRkN3Mk90di15V3h1WWZDY2VhZF9HVXpRTnFfdmd0NXZEVklaSTdaT3VEZ05FazZlVHhBSy1rWVU5ZUNrZXhoSzhjR0ZIREtTNl9RNjVycEZ0QndiMWVWUXVJVFVEcGYwMFB1RlhZUDFVTkQycjY0YnlveTM1TkxOOFI0OVpUTU5IbVE?oc=5",
+      "pub_date": 1763763780.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-crash-today-cryptos-813c62c6?gaa_at=eafs&gaa_n=AWEtsqdZVs8A2wX4rYmxkepSZZjZJgwYo4g-A7Vq5EpMay2hhWApLqzNDHq0&gaa_ts=69215248&gaa_sig=ekPcsjRRPXf7JY8_NU5EmT0P6ymN2ZooFbkxOMKyRpNrAcBQLj3NQyE4PAeefQtgN5Kt8LTkx_nC7GqBJCm9JQ%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Permabull Tom Lee Sees Bitcoin as High as $200,000 by January\u2019s End",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGVjT0JSTXBhMEFvTUlFd2VNWUxPMXhTeHpSQU9OOERucGs1Ykd0dnZBVWRma3BwZXpMZl9Hc2FHWWVYUVk4U2hEblhMTWpVUXVxTjhtTnRjbU9rX3FmRWE0ejE0bFhiby11N2lYS0pjRHJmQlR4R3Fycm5MWC1xSzA3SzRNSno3R1E0SEdPa1o4TDh4OHVCRnpmcUlQZXJ4eG9ycFJ4ZzVidTNzVmJtNFZkSy1ZZw?oc=5",
-      "pub_date": 1763763588.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-21/bitcoin-plunge-hits-market-makers-in-a-fragile-trading-landscape",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isJEv5UcQOeI/v1/1200x800.jpg",
-      "description": "Bitcoin is crashing into dangerous territory \u2014 and options-fueled selling is adding to the volatility."
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRzY4UzFMQUo2YXlpNVFRMHFZc2lFalZRSVl6aFVxeHNCb0RPVHFZTjBFUHluT2RUUkdENTZab0Jwa19KX1R5S3hfVHpfcVpDT3JYcExWeU10dXNHUDk5eU51ZEVwSXRKcGNodW03eVJpUFR2bVgzalJsYnN6UGk1WHRIdFhkUUo1NEtnaENCOU5NVDRqeGx3UkZBZmhNY2F1OVJrQk9iSm1lOGFUUDY3czVXbV9XSU5Y?oc=5",
+      "pub_date": 1763719241.0,
+      "article_url": "https://www.bloomberg.com/news/features/2025-11-21/permabull-tom-lee-sees-bitcoin-as-high-as-200-000-by-january-s-end",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilxbosN8wWeM/v0/1200x630.jpg",
+      "description": "The always optimistic co-founder of Fundstrat Global Advisors believes in the long-term power of retail investors."
+    },
+    {
+      "headline": "Bitcoin plunges 30 percent from all-time high last month",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02akVRMGlvSU9lT0RWV1hfeVQ4QnBlNWtZYVd3VEdFektrQmkyNGpwblRhM3FMM0tLVGpvdnBWMU1saGE2enhOcjJBWG9zbXljT0RTWmpra0pQS2c?oc=5",
+      "pub_date": 1763778268.0,
+      "article_url": "https://www.foxbusiness.com/video/6385426431112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/352869fb-7c99-4e18-b81a-11c3cb31638c/1f510f21-2835-4867-8c6f-b4190b630ad6/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "\u2018Barron\u2019s Roundtable\u2019 panelists discuss the recent decrease in the price of Bitcoin and the factors that are driving Bitcoin lower."
     },
     {
       "headline": "Investors pull record $523 million from BlackRock's flagship bitcoin ETF",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb1M5RHJ0TzdvQlJRdXpOMzJKYVM4YjBFTEdjX1MzZk1yUkJ6SjJLc1JHaTJsUnc3bVNwMTJQdDR6TVNzTk1GVXJOc2RZQUN0TGotQkFGbW0zR0o0YmxnemFkclE0OFFkVk1fY2c0Y05CZHRMR2dnMlhJNzRndU5hY1RLYkVqQlVQUU40VGxna2tsVG0ycXZJdEZzTUZ3Q0x1QVlrLUJjWGZWclo0LW1qWktaWmtWWFk?oc=5",
+      "pub_date": 1763573318.0,
+      "article_url": "https://www.reuters.com/markets/wealth/investors-pull-record-523-million-blackrocks-flagship-bitcoin-etf-2025-11-19/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "BlackRock clients dump Bitcoin as price hits $81,900. Here\u2019s why analysts say the $3.8bn ETF flush will only get worse",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRE1rdWY5QzFmOS0tbWRoU3pUWjNFSnUtczdUZXJlSVRPckpVU05Yd3hDZzNUcy12UWtuMnZnbW5VTUhiTDlfRzNJLS1KVVI1bU5fYldkMUxyUWw0OVl2UC1xQW93RExHNHB6UmJmdjFfN3hUSEFWSGU5TEtlMnZtOWdwZm9MZw?oc=5",
-      "pub_date": 1763554589.0,
-      "article_url": "https://finance.yahoo.com/news/investors-pull-record-523-million-121629691.html",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/f41f2198e1d3f34b1268122009da8cec",
-      "description": "(Reuters) -Investors pulled roughly $523 million from BlackRock's flagship iShares Bitcoin Trust on Tuesday, according \u200bto data from Farside Investors, marking the fund's largest single-day withdrawal \u200csince its launch.  IBIT, the largest spot bitcoin ETF, has attracted strong investor demand since its launch in January 2024 and has been central to the crypto ETF boom.  \"The crypto market entered a hangover in August,\" said Kraken's \u200bGlobal Economist Thomas Perfumo, adding a lot of that demand was driven by borrowed \u200cmoney."
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzVPZXN5X29PRTFOd214MDE5UTctOGhKYllkdF8wVzBYdDBYYk5sTUVBa0hjWFEySnpNRDBtVllTYkJ6NkpoQmdxaXVjOUlKZ3BXRkRZXzU5aWFDWWlzV3liWG93VEd2OTJiZUJmMW8xS2ZydkR0cFp2UDFFUF8tTFlSdVpwT2EzNlE?oc=5",
+      "pub_date": 1763721390.0,
+      "article_url": "https://finance.yahoo.com/news/blackrock-clients-dump-bitcoin-price-103630033.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/AhplHn9qeywTD0LfIjA4zw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU-/https://media.zenfs.com/en/dlnews_702/ae307b33913491d2083c1e424a342495",
+      "description": "Bitcoin has crashed more than 30% from its October peak. ETF selling hit $3.8 billion with nine days left in November, approaching February liquidations. The macro picture has turned hostile after Fed governors signal no December cut."
     },
     {
       "headline": "Bitcoin Sell-Off Deepens, Cathie Wood Buys These Crypto Stocks.",
@@ -35,16 +65,6 @@
       "description": "Crypto retreat worsens amid bitcoin liquidations, ETF outflows. Cathie Wood, ARK Invest buy Coinbase, Circle, and more."
     },
     {
-      "headline": "JPMorgan says crypto market correction appears driven by retail selling of bitcoin and ether ETFs",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcVZrQVdTblpOZ2Z1TFlhd0RqZUtPRURfNnJVYmlQdlBrOGZzSlJzYjF2cjNsbWczdUJ2LVA2Y0xnX1ZlV0hQQWF6dFJxVHk0X3N2bU84akx1VlpENHl4M1pFUzBLQUNib1I5bWhYdlRZem5RakprZTFaX3Njb3Z0ZTNKVWVhVWxFcjhUb2hWd2V3WmpyYTRtYWoxUWhmTkFiQ1pyX2dB0gGrAUFVX3lxTE80dm1pVE9mZVVjN2tBUUFwX3RPakhKNTNwOTMyblg2T0xWNlNLQTRSLWhvQnV3U01DYW9HNFBXYTlzeWYwR3JPNVFNNFotanU5ZzRrcEFqTENCN2xGTC1VeGZVMnBIcWpHa2VSMm1tbFFPLTAyV3M1Um1CYUtJWHZka19aMjBUb2luaHVQVUYyVGdXNFRlTXd5a25NUzVSRkRzVWk0eU1iYlFuaw?oc=5",
-      "pub_date": 1763678672.0,
-      "article_url": "https://www.theblock.co/post/379840/jpmorgan-crypto-market-correction-retail-selling-bitcoin-ether-etfs",
-      "image": "https://www.tbstat.com/wp/uploads/2025/04/20250404_Market-Down_News_3-1200x675.jpg",
-      "description": "Retail investors have sold about $4 billion of spot BTC and ETH ETFs in November \u2014 the main driver of the latest crypto market correction."
-    },
-    {
       "headline": "Michael Saylor responds to JPMorgan\u2019s MSCI delisting warning",
       "source": "TheStreet",
       "source_url": "https://www.thestreet.com",
@@ -55,14 +75,14 @@
       "description": null
     },
     {
-      "headline": "Strategy's $55 Billion Bitcoin Bet Undeterred by Index Delisting Concerns, Says Michael Saylor",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTi0xN3dvWW4zUUVxZDhrN3kwZFQxYmc5M29ERHV4N3ZQeDQwWlVXLXdza3FwUE5KLUNuXzlSS2lPX0hENWg5YWVNbzFuNkN5cWF6Z0pUdUEyYTVnOGpkcDVBb3doOE9Jcnl3OUttQWhRbkxFOTRlSG9aUEN3V1lUSkFVb2dVU0gxNDJFc05oTlRueDh3ZERobnZTd1ZlZ9IBpgFBVV95cUxNWTRVMkU2UlQzd3lWUFhsYXluc3pWNDR6UnNiTS1tM0x3eEFlUTgzRnJBTE9LRUJTTDh2QW1nQ2kycFZpelZJSjZWSjlMUGFiel9uZm9CS3I1OXoyUVAxOVNVdVlFUWFzZmpEdmVjSDRyMUVKMDdFa2d0S0RwOS1uaFI3SDA2WmRUZ053SzRuYXNBWWdaWk5pSzJrM044M05ldzNTcWpR?oc=5",
-      "pub_date": 1763753669.0,
-      "article_url": "https://decrypt.co/349633/strategys-55-billion-bitcoin-undeterred-index-delisting-concerns-saylor",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png",
-      "description": "Strategy's Michael Saylor downplayed concerns that the company could be excluded from certain equity indices next year."
+      "headline": "MSTR Stock: Strategy May Have To Cough Up $1 Bil In 2027 As Bitcoin Slides",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUXp3RUc3MnloVzJvZjAxOGNaMWxlcU1od1FJbzI3dHRYQnUybDQydjNtM1BTNVBFSm81Si1qZnlvUEZadEVtS2tIeE5qOWx0V2NyOWp4TmxiVjBIQmxXVjZ3Wk5COWNndGhzdTIzMW9Oa0VyaVNjcFB6bFBqd1ZBdHNQUzFWTjN5ejBRQVVrWHIxNjlXd3NwOQ?oc=5",
+      "pub_date": 1763759100.0,
+      "article_url": "https://www.investors.com/news/mstr-stock-strategy-convertible-debt-put-option-bitcoin-price/",
+      "image": "https://www.investors.com/wp-content/uploads/2025/11/Stock-strategy-BitcoinMrkt-adobe.jpg",
+      "description": "MSTR stock sank further on Friday, raising risk that the big bitcoin buyer will have to pay $1 billion to bondholders in 2027."
     },
     {
       "headline": "Saylor\u2019s Preferreds Boom Comes Into Question as Bitcoin Slumps",
@@ -75,16 +95,6 @@
       "description": "The plunging value of Bitcoin is piling pressure on the securities Strategy Inc. has been issuing in bulk to buy the asset, raising questions about the financing model of the world\u2019s largest crypto treasury firm."
     },
     {
-      "headline": "Proposed Bitcoin for America Bill Would Enable BTC Tax Payments, Which Go to Reserve",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeHBjQjROVkpyQXNlU2JqRFBldl96SHJRTmZHWUh5czhkblAxS0s5amVjTzBSdjlNaHdLWlBXRkp5cEViRTZSQmxEMkZzZmo1MU5JUTJNWVdXSkM5ZjlLcFNXMzB1d1Rvbk5rZzgxN1ctQW1CaVVzbUxCcUg4bWQ4bHRJcUhXOWdfLVhXN2JhYzTSAZgBQVVfeXFMTkY0cUNoTDk2Um8yUkVpWnpYWmlXTmZCQVhfMVJWTEc5QnVVTmZFU2hiSjBFOEdzN2hWaFlOWGJ0b0FtaEtiQ2tuRlZVaVZSMzh6R3AyblRXcEJLMVJSS3lYcUtWUGIxTHRVaHM4V3ZzajZjdmZsbzFVVTU5azZkdEFKTlI2dWlXZ0dSanhIeEoyUVdzcTlCSDU?oc=5",
-      "pub_date": 1763603550.0,
-      "article_url": "https://decrypt.co/349373/proposed-bitcoin-america-bill-enable-btc-tax-payments-reserve",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/bitcoin-america-decrypt-style-02-gID_7.png",
-      "description": "Introduced Thursday, the bill would allow Americans to pay their taxes in Bitcoin, with those funds being used to grow the U.S. stockpile."
-    },
-    {
       "headline": "Rep. Warren Davidson Introduces the Bitcoin For America Act | Press Releases",
       "source": "Congressman Warren Davidson (.gov)",
       "source_url": "https://davidson.house.gov",
@@ -93,18 +103,8 @@
       "article_url": "https://davidson.house.gov/2025/11/rep-warren-davidson-introduces-the-bitcoin-for-america-act",
       "image": "https://davidson.house.gov/?a=Files.Image&Image_id=F101BF40-4321-40BD-B0E5-AF87BA6ED169&ImageSize=Social&direct=true",
       "description": null
-    },
-    {
-      "headline": "Congressman from Ohio introduces bill to allow federal tax payments in bitcoin",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmhzTDJya0dzbHh4ajZuMlMxOEM0WVNSYjNnWkF5UE1kVXlmWjl5WTlKb2tabFZhQk5DUVRwZnF1bktsZXU4OXo5VjNvckY0alM5MWJIT192V2FBNlZwd3htc0taVkpmUVZINU1Bdmx3SktTaU9KZERqSmlVVUwyRDRsM1NVVGU5MkE2d0ZDV28yRXNMd1Z4aDg4MmE3b1E2c2t4WGo4SEc2YlBkcHhVNjVsNldPQQ?oc=5",
-      "pub_date": 1763740524.0,
-      "article_url": "https://www.coindesk.com/policy/2025/11/21/u-s-house-bill-would-allow-federal-taxes-in-btc-while-aiding-u-s-reserve",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a4be360fbc7876262da194706e8c7d5f53c970da-1920x1080.jpg?auto=format",
-      "description": "Rep. Warren Davidson (R-Ohio) introduces a bitcoin bill to allow individuals and businesses to pay federal taxes in bitcoin, aiding Trump's bitcoin reserve"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-22T05:17:20.752503+00:00"
+  "fetched_at": "2025-11-22T05:49:15.844925+00:00"
 }
