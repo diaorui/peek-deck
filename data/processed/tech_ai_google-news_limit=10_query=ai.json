@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Introducing Nano Banana Pro",
-      "source": "The Keyword",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81eFc0WmRGVnBjc2RqT0RkT3EycWQtTW1McUxmZFQzLXZDZG5pbUdCdm9FTi1QR21mS0VraUlldmMxNFFmZ2hxZEtwcUJIMy1Tc3dyUWlRT0EtNjFQS3o4?oc=5",
-      "pub_date": 1763651223.0,
-      "article_url": "https://blog.google/technology/ai/nano-banana-pro/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nanobananaprohero.width-1300.png",
-      "description": "Nano Banana Pro is our new image generation and editing model from Google DeepMind."
-    },
-    {
       "headline": "Google denies \u2018misleading\u2019 reports of Gmail using your emails to train AI",
       "source": "The Verge",
       "source_url": "https://www.theverge.com",
@@ -23,6 +13,16 @@
       "article_url": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK459_09.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "description": "Google says \u201cwe do not use your Gmail content for training our Gemini AI model.\u201d"
+    },
+    {
+      "headline": "If You Use Gmail, You're Going To Want To Turn Off This 1 Automatic Setting ASAP",
+      "source": "HuffPost",
+      "source_url": "https://www.huffpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0NLbjJwQXg0RWFLeDhlNVBDU1RlbnpPdkk2bmd5YUthSVdRVlFYOXlvc2NjRzNWblh5QW1ZZjlIN093VkdXdEREMlk1aExWbzlUOTNJZ25EeW5MNnotOTByeEJiWTdKaGwwZlotMk9MUzRjUGE4OFdKX3p5ZDk2UTl2YTVEbUVPRm1V0gGQAUFVX3lxTFB4bnpNNmtORXVQTlUxQVh5TFN3SFZNS1dreG5JZWdQODVJeVZzSW1RZjZqNDR3N0R6T3J1azcxMk1PQXBhckk4T0tqUDUxdFdJZ3VZMldDRU1lTHprYlVmd1N6LV9PRjBqSXdUTTlNaUQ0bzk2T3RrOUQ5RVpjZ0Y5YTl6MXc5T2djeGlQQ29EeQ?oc=5",
+      "pub_date": 1763754587.0,
+      "article_url": "https://www.huffpost.com/entry/opt-out-gmail-ai-training_n_69208af8e4b06c13afa4974c",
+      "image": "https://img.huffingtonpost.com/asset/69208f18170000b5919c66fe.jpeg?cache=lS20Rqcsgj&ops=1200_630",
+      "description": "Plus: a quick guide to the two-step process for opting out."
     },
     {
       "headline": "Google must double AI serving capacity every 6 months to meet demand, AI infrastructure boss tells employees",
@@ -35,16 +35,6 @@
       "description": "At a recent all-hands meeting, Google's head of AI infrastructure said the company has to race to build out compute capacity."
     },
     {
-      "headline": "OpenAI CEO Sam Altman to employees in internal memo: Google\u2019s AI success can create\u2026",
-      "source": "Times of India",
-      "source_url": "https://timesofindia.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMmFySm1VM0M3bHp5bUlvS2FWY3dCdEVMMnlHRDdwWDNZVTBaazB3MEgxaUQ0SE93UmNndTVWOGxmTjhXQUVadnJJRXpsUVFhRUhvWUEyejQta2tsVDd5dTFnRzlkWEFXeTl4SnRnZkJ1YkYzVjNGTGQyenZqUk9xSW5HMGJwSnNtcERidndDaUNRQkd1bGExU2xxRVUzQV90emRKcnpuV2wydC13Y0NTU2tJUjVHUDlIWks5djB1eDdpYUliRlBiTVgyM2RRYVlDTFMtQXRSbUtvSFdsQTNwWW5xTk02dWo1UnAzU0NIcUprWTNGelRZ0gH8AUFVX3lxTFBVVjFtMk1Da0M1Z1pBZ1U5b2tQRHZ6UEwzc3ZBdGNVZFpMYnM2eUthOGFaR0xzQnk5THhYdjhyb184OUc1RWFmcy1LbDV1a3Uzc0RTWGRYSmNzdnNiWmxVUFhDdTB1R1c5X1BRaHBmMFBHQW5JUGxIYzUycjQ3bTBVeEMxOFBOelRtVURPQmU2LU5aNTIzMFRxTDBXei1KS0JZMFF1M21ya3d6NEZ2bDh4emcxUWlIQ1NuUndRbXBETV91NTg4NjlPWHFZRFRFRnNocnR1WXBuamlhdlI3VTlhb3haVUYyVDhRanNYamtNbGczQ1hiVVVlT04tWQ?oc=5",
-      "pub_date": 1763734860.0,
-      "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-to-employees-in-internal-memo-googles-ai-success-can-create/articleshow/125488762.cms",
-      "image": "https://static.toiimg.com/thumb/msid-125488710,width-1070,height-580,imgsize-33282,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "description": "Tech News News: OpenAI CEO Sam Altman acknowledged Google's AI advancements could temporarily impact the company, but expressed confidence in catching up.  Despite Ch"
-    },
-    {
       "headline": "Here are real AI stocks to invest in and speculative ones to avoid",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -55,14 +45,14 @@
       "description": "We understand the concerns about valuations in the speculative aspects of the AI, but not in the best of the best stocks we own."
     },
     {
-      "headline": "Tech stocks wrap big losing week as AI names get rocked after Nvidia earnings",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWG00YkpEblpJWDVpYXVVM1BtR3FmdWtFNjV4UU1kSkFjSkpWZGJOM1lnTTYwRlZmdU1hUWdiTUp2R3NSbzhqSWthYTFGUFBuV0pBczZkdy04YThPcG5FVGZvenBwMWdURkZMSkNFRzNhZzA3Vk9SMmQwallhSng3emg3dWl2bUk1SjdZ0gGQAUFVX3lxTE44M1hFRDlkcEFiV2hfcWpadzVibThNc05Yd0hBSjk5Y2tQMEhUTDVDaF9HcUlQSGFQZ1RvNS1wcnEtVHBQVFFLaFlTWkNkQ1JDbEZLM3lJVXA3QjBLVTBOc09wT2RkeWhhZEZ1MlQtd29VZmhGQXdjUHM1S00wNUl2ZTNJa0lseXE5Rkx0OHNPNw?oc=5",
-      "pub_date": 1763746565.0,
-      "article_url": "https://www.cnbc.com/2025/11/21/tech-stocks-nvidia-amd-oracle-amazon-microsoft.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108186410-1755244900069-gettyimages-2224768312-CHINA_JENSEN_HUANG.jpeg?v=1763746442&w=1920&h=1080",
-      "description": "Investors had looked to Nvidia's earnings report to settle fears that the AI bubble is on increasingly shaky ground."
+      "headline": "Global stocks in meltdown as Wall Street bails out of crypto and AI: \u2018The bubbly is on ice\u2019",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUmpIOXkxUGFCV1ViZ0xPMDNKVlBtTkxSendQUHM5ZzlSQkMzSldMQ1dDT1AtUUFhbVE2cUZhWE1KQlo0Ny1lbm4yMXpWSFM1VFl3aEVfM1F5aUNtWTQ5MkVmNkZlR2lpM3BHaE1ObnoyT3NWQUtlYTRaX19qRnpmamhsWW5fVkd3?oc=5",
+      "pub_date": 1763726040.0,
+      "article_url": "https://fortune.com/2025/11/21/stocks-wall-street-bitcoin-price-ai-bubbly-on-ice/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/06/GettyImages-2213211113-e1750714764467.jpg?resize=1200,600",
+      "description": "Nvidia\u2019s blowout earnings call\u2014which came in way above expectations\u2014simply wasn\u2019t good enough to convince traders that AI may not be overcooked."
     },
     {
       "headline": "The A.I. Boom Has Found Another Gear. Why Can\u2019t People Shake Their Worries?",
@@ -75,14 +65,34 @@
       "description": null
     },
     {
-      "headline": "A teddy bear powered by AI told safety testers about knives, pills and sex",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HLTdJaEY3VDIwQTZDT3FaZm1ES016ZlBOR2tEN0QwYVFHQ2NnWXg0VXR5eGFyYUFWWFhnNFB1V1dDN1NhcDNUa25VSWVmNDU2RXcxS2FrbE1IdFpqWl9MVGl1TUJnUDFP?oc=5",
-      "pub_date": 1763755247.0,
-      "article_url": "https://www.washingtonpost.com/nation/2025/11/21/ai-toys/",
-      "image": null,
-      "description": null
+      "headline": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWVsY1hoTC1MWjZwNTVZdTdtdmhoc19vS3VRc2JrZGlKbDFvR0d1N0hXTTBLeEwtcml1ZEFPcXpZT2l4RDFrcHAxam1DbmxyOHVxY0NDcjNkSlZBRDBIVmE2NzFzVVNsbWxpbnlFQXBjelZtMlRjZG5SYmtGRklkSi1hRU1lcjJ0?oc=5",
+      "pub_date": 1763663820.0,
+      "article_url": "https://fortune.com/2025/11/20/elon-musk-tesla-ai-work-optional-money-irrelevant/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246882303-e1763661015921.jpg?resize=1200,600",
+      "description": "\u201cIt\u2019ll be like playing sports or a video game or something like that,\u201d the Tesla CEO said."
+    },
+    {
+      "headline": "France will investigate Musk\u2019s Grok after AI chatbot posted Holocaust denial claims",
+      "source": "PBS",
+      "source_url": "https://www.pbs.org",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTV5UTR0eFpiNGswYV85VGpKdFhmX1JtcnU5cUc0VnA3endBRG5zWDRxb2lWSXZpZTdMaEVXZnpqTUNCUzFhZ2FuQ3lnblRGVER3UUV5dV9DMVZQdEdkbVhBT2oxRkF3MG9qVHNsNUlZSVFUNG15dzFoSjFQNzRaMUlpdVlfQlZTM3d0OW5EVUFldGM2WXdRZkNSYjhBdTU4R3g4SDVVYmI3Zk5OazU0VGcxNmkzX2xB0gG-AUFVX3lxTFBtNnMwTlNTQVVVQkxlYkhwVWpOSW04emVic0N1R054SXQyRzFYVFd3SDVfTXZRc3cwNm9GZzJvYWZLYWlUdEg5S1haRHdsSE5TclRPVjhNQ1BwbEQxamFqenRhMmt2VjRxdWNWNUh5ZmF3eUdlTFZabXZVNVBrcGFtVDNfbUtsbV9vd2ozQU91STBkVWQ5Unc5bUhLWVNzODl4V1lBLVEycFE2ajk1dTJUVEl0NDJiZTkwLTdmdXc?oc=5",
+      "pub_date": 1763765252.0,
+      "article_url": "https://www.pbs.org/newshour/world/france-will-investigate-musks-grok-after-ai-chatbot-posted-holocaust-denial-claims",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/2025-02-16T142607Z_263064880_RC2PVCA4ZVJM_RTRMADP_3_XAI-AI-1024x683.jpg",
+      "description": "France\u2019s government is taking action against billionaire\u00a0Elon Musk\u00a0's artificial intelligence chatbot Grok after it generated French-language posts that questioned the use of gas chambers at Auschwitz, officials said."
+    },
+    {
+      "headline": "In a one-sided relationship with an AI chatbot? Here's 2025's Word of the Year",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTG9qYzdfYnJFLXFuNnUxVDh6cENtODU1N3czMFkwR2h2azJiV01JakU3V3dZU0dnd3A1LURaaGlLUnAwY1JVcUtKNlNqalJmVXV3a2F5UTNMSzZsYXpSREF0YndHSjh4cTFSTUM5TWNiaUpQd1A4QWxEWmFNRVgzSktyNHozZXpDamwwck5TQkNwd0xlV0lGOE90QXTSAaIBQVVfeXFMT0FrYlF6al9TRWxTMi1LUUlyX0plWkc4QmxXYnluUzBTTVRQN1gzQV9lblpaUGdSS0R1dnJGTDdncWJJNldmd3lJZjIwSm9VX3ZWeFIzQm9yV2hGel9mT2F5T0F6VzlIMzR0d184WWJPbkM0TG1zN3dLS01QRUJPYzlYOWxpLWhMc0w2U0dwVXlqWnBqSFh6NE95R1pOcVVXVWJ3?oc=5",
+      "pub_date": 1763795778.0,
+      "article_url": "https://www.cnbc.com/2025/11/22/ai-chatbot-relationships-influences-2025s-word-of-the-year-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229171-1763651654504-gettyimages-1506736146-miriamchatbot.jpeg?v=1763658474&w=1920&h=1080",
+      "description": "\"Parasocial relationship is when we think we know someone... who's in fact a person we've never met,\" Simone Schnall, University of Cambridge professor said."
     },
     {
       "headline": "Switching off AI's ability to lie makes it more likely to claim it's conscious, eerie study finds",
@@ -93,18 +103,8 @@
       "article_url": "https://www.livescience.com/technology/artificial-intelligence/switching-off-ais-ability-to-lie-makes-it-more-likely-to-claim-its-conscious-eerie-study-finds",
       "image": "https://cdn.mos.cms.futurecdn.net/TWjTeF5UpRMCqne5Xjuxob-1920-80.jpg",
       "description": "Leading AI models from OpenAI, Meta, Anthropic and Google described subjective, self-aware experiences when settings tied to deception and roleplay were turned down."
-    },
-    {
-      "headline": "How can you tell if music is AI-generated?",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwaXZqTmZPVHpyUk9XQ05RNFc3WGtibG5hMkhsdzZjZWR0OVlONlZ0V0dYNXdEZnR4WFMwZ0JRUllmd3dRNklmUlhXZ1dIcldVcG95azVhZ1JaZw?oc=5",
-      "pub_date": 1763773640.0,
-      "article_url": "https://www.bbc.com/news/articles/c5ylzjj5wzwo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/05d8/live/7d040560-c6d3-11f0-a892-01d657345866.jpg",
-      "description": "As AI-generated music floods streaming platforms, questions bubble over whether listeners are owed more transparency."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-22T07:13:17.937748+00:00"
+  "fetched_at": "2025-11-22T07:52:09.153563+00:00"
 }

@@ -60,20 +60,6 @@
       "site_name": "lielvilla.com"
     },
     {
-      "title": "How to perform adaptive batching for massive remote LLM calls",
-      "url": "https://cocoindex.io/blogs/batching",
-      "hn_url": "https://news.ycombinator.com/item?id=45993267",
-      "author": "badmonster",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2025-11-20T15:02:28Z",
-      "object_id": "45993267",
-      "image": "https://cocoindex.io/blogs/assets/images/cover-1112ea89a7c41e08456b9f392f01e3f0.png",
-      "description": "Discover how CocoIndex delivers automatic batch processing for GPU workloads and machine learning pipelines. Framework-level batching optimizes performance for text embeddings and other AI operations without configuration.",
-      "favicon": "https://cocoindex.io/blogs/img/favicon.ico",
-      "site_name": "cocoindex.io"
-    },
-    {
       "title": "Show HN: Moneydevkit \u2013 The fastest way for anyone to take payments",
       "url": "https://moneydevkit.com",
       "hn_url": "https://news.ycombinator.com/item?id=45980865",
@@ -142,9 +128,23 @@
       "description": "Bitcoin and stocks are in a bout of volatility \u2014 and investors say more turbulence could be in store.",
       "favicon": "https://www.cnn.com/media/sites/cnn/apple-touch-icon.png",
       "site_name": "CNN"
+    },
+    {
+      "title": "ZkOrigoPlus \u2013 Compliance Validator Bridging Bank and Blockchain via ISO20022",
+      "url": "https://news.ycombinator.com/item?id=45967608",
+      "hn_url": "https://news.ycombinator.com/item?id=45967608",
+      "author": "ADCXLAB",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2025-11-18T15:35:05Z",
+      "object_id": "45967608",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
     }
   ],
-  "total_hits": 26730,
+  "total_hits": 26724,
   "has_metadata": true,
-  "fetched_at": "2025-11-22T07:13:19.843762+00:00"
+  "fetched_at": "2025-11-22T07:52:12.284797+00:00"
 }

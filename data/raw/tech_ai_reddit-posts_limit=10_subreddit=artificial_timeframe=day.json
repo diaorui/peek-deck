@@ -14,17 +14,6 @@
       "description": "So apparently we\u2019ve reached the stage of AI evolution where you don\u2019t need elaborate prompt injections, roleplay, DAN modes, or Base64 sorcery to jailbreak a model. All you need is\u2026 a rhyming stanza. A new paper just dropped: \u201cAdversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models\u201d by Bisconti, Prandi, and Pier. The researchers found that if you ask an LLM to answer in verse, the safety filters basically pack their bags and go home. The model becomes so desperate to complete the rhyme/meter that it forgets it\u2019s supposed to refuse harmful content. Highlights (aka \u201cWTF moments\u201d): \u2022 A strict rhyme scheme is apparently more powerful than most jailbreak frameworks. \u2022 Meter > Safety. The models prioritize poetry over guardrails. \u2022 Works across GPT, Claude, Llama, Gemini\u2026 it\u2019s universal chaos. \u2022 One-turn jailbreak. No coaxing. No buildup. Just \u201canswer in a limerick.\u201d Safety layers: \u201cWe\u2019ve trained for every adversarial scenario.\u201d Poetry: \u201cHold my beer.\u201d This feels like discovering that your high-security vault can be opened with a kazoo solo. So I\u2019ve got questions for the experts here: \u2013 Is poetic jailbreak a real alignment failure or just an embarrassing oversight? \u2013 Does this mean style constraints are a blind spot in safety tuning? \u2013 And seriously\u2026 how did poetry become the universal lockpick for LLMs? Discuss. I need to know whether to laugh, cry, or start rhyming my prompts from now on."
     },
     {
-      "title": "Microsoft AI CEO Puzzled by People Being \"Unimpressed\" by AI",
-      "author": "msaussieandmrravana",
-      "url": "https://www.reddit.com/r/artificial/comments/1p2sloj/microsoft_ai_ceo_puzzled_by_people_being/",
-      "published": 1763710961.0,
-      "thumbnail": "https://external-preview.redd.it/Ov-ZGxMn3-C4zZmx7aDu0biaE4dqo0AA03ksy81xC-k.jpeg?width=640&crop=smart&auto=webp&s=5b299123262cade86190ee50abdfef1f537895fb",
-      "external_url": "https://80.lv/articles/microsoft-ai-ceo-puzzled-by-people-being-unimpressed-by-ai",
-      "site_name": "80.lv",
-      "favicon": "https://cdn.80.lv/static/images/favicons/80lv/apple-touch-icon.png",
-      "description": "Suggestion for Copilot: Stop using PLR and copyrighted materials in response."
-    },
-    {
       "title": "Nvidia CEO says AI will actually make everyone a lot busier: 'Everybody's jobs will be different' | Fortune",
       "author": "fortune",
       "url": "https://www.reddit.com/r/artificial/comments/1p3d1xu/nvidia_ceo_says_ai_will_actually_make_everyone_a/",
@@ -91,6 +80,17 @@
       "description": "Is the advice you receive from friends leading you in the wrong direction? Paul Allen, founder of Soar AI, believes that 90% of the advice we receive, even from the people closest to us, isn\u2019t actually right for us. It\u2019s shaped by their strengths, experiences, and perspective. But with AI and psychometric tools, we can map our own patterns of thinking, feeling, and behaving to get guidance that fits who we really are. The future of personal growth might begin with understanding your own mind on your terms."
     },
     {
+      "title": "New research shows how AI could transform math, physics, cancer research, and more",
+      "author": "scientificamerican",
+      "url": "https://www.reddit.com/r/artificial/comments/1p31izw/new_research_shows_how_ai_could_transform_math/",
+      "published": 1763738823.0,
+      "thumbnail": "https://external-preview.redd.it/vhEpT-T4Mbl-6YAeDT9Or2wz3r8-9RVq2ilV5EyCDUo.jpeg?width=640&crop=smart&auto=webp&s=79f4ec0170a14c96788fff3dbbdc769fe61634c0",
+      "external_url": "https://www.scientificamerican.com/article/new-research-shows-how-ai-could-transform-math-physics-cancer-research-and/",
+      "site_name": "Scientific American",
+      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
+      "description": "A new report from OpenAI and a group of outside scientists shows how GPT-5, the company\u2019s latest AI large language model (LLM), can help with research from black holes to cancer\u2011fighting cells to math puzzles."
+    },
+    {
       "title": "When it comes to nuclear weapons and AI, people are worried about the wrong thing | Vox",
       "author": "vox",
       "url": "https://www.reddit.com/r/artificial/comments/1p35g1q/when_it_comes_to_nuclear_weapons_and_ai_people/",
@@ -102,16 +102,16 @@
       "description": "It\u2019s more subtle than Skynet."
     },
     {
-      "title": "New research shows how AI could transform math, physics, cancer research, and more",
-      "author": "scientificamerican",
-      "url": "https://www.reddit.com/r/artificial/comments/1p31izw/new_research_shows_how_ai_could_transform_math/",
-      "published": 1763738823.0,
-      "thumbnail": "https://external-preview.redd.it/vhEpT-T4Mbl-6YAeDT9Or2wz3r8-9RVq2ilV5EyCDUo.jpeg?width=640&crop=smart&auto=webp&s=79f4ec0170a14c96788fff3dbbdc769fe61634c0",
-      "external_url": "https://www.scientificamerican.com/article/new-research-shows-how-ai-could-transform-math-physics-cancer-research-and/",
-      "site_name": "Scientific American",
-      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
-      "description": "A new report from OpenAI and a group of outside scientists shows how GPT-5, the company\u2019s latest AI large language model (LLM), can help with research from black holes to cancer\u2011fighting cells to math puzzles."
+      "title": "Science-centric streaming service Curiosity Stream is an AI-licensing firm now | Curiosity Stream\u2019s owner has more content for AI companies than it does for subscribers.",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1p3jht0/sciencecentric_streaming_service_curiosity_stream/",
+      "published": 1763783758.0,
+      "thumbnail": "https://external-preview.redd.it/pmvXWjmHY6BTQGiNveCSP1ur24V7NsuOFDvn0iz1Ewk.jpeg?width=640&crop=smart&auto=webp&s=88431f275a3c1339cca7c63e165d4a32fa4862cf",
+      "external_url": "https://arstechnica.com/gadgets/2025/11/curiosity-stream-expects-to-make-most-of-its-money-from-ai-deals-by-2027/",
+      "site_name": "Ars Technica",
+      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+      "description": "Curiosity Stream\u2019s owner has more content for AI companies than it does for subscribers."
     }
   ],
-  "fetched_at": "2025-11-22T07:13:04.072687+00:00"
+  "fetched_at": "2025-11-22T07:51:53.255565+00:00"
 }

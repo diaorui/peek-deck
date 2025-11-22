@@ -8,7 +8,7 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/",
       "hn_url": "https://news.ycombinator.com/item?id=46012525",
       "author": "nreece",
-      "points": 3,
+      "points": 5,
       "num_comments": 1,
       "created_at": "2025-11-22T06:09:16Z",
       "object_id": "46012525",
@@ -50,7 +50,7 @@
       "url": "https://www.livescience.com/technology/artificial-intelligence/switching-off-ais-ability-to-lie-makes-it-more-likely-to-claim-its-conscious-eerie-study-finds",
       "hn_url": "https://news.ycombinator.com/item?id=46005479",
       "author": "thomassmith65",
-      "points": 11,
+      "points": 12,
       "num_comments": 0,
       "created_at": "2025-11-21T15:35:26Z",
       "object_id": "46005479",
@@ -144,7 +144,7 @@
       "site_name": "youtube.com"
     }
   ],
-  "total_hits": 12001,
+  "total_hits": 12000,
   "has_metadata": true,
-  "fetched_at": "2025-11-22T07:13:18.273212+00:00"
+  "fetched_at": "2025-11-22T07:52:09.469317+00:00"
 }
