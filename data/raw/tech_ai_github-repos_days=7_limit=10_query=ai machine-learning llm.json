@@ -8,9 +8,9 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
-      "stars": 79275,
+      "stars": 79278,
       "stars_display": "79.3k",
-      "forks": 11764,
+      "forks": 11765,
       "forks_display": "11.8k",
       "language": "Jupyter Notebook",
       "topics": [
@@ -74,7 +74,7 @@
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "url": "https://github.com/patchy631/ai-engineering-hub",
       "preview_image": "https://opengraph.githubassets.com/5b28d3d18fe96db23c16997b3a8a7d841f1b744a80d7b3494805fffbe98431d8/patchy631/ai-engineering-hub",
-      "stars": 21052,
+      "stars": 21054,
       "stars_display": "21.1k",
       "forks": 3499,
       "forks_display": "3.5k",
@@ -196,7 +196,7 @@
         "artificial-intelligence",
         "deep-learning"
       ],
-      "updated_at": "2025-11-22T20:54:43Z"
+      "updated_at": "2025-11-22T22:25:13Z"
     },
     {
       "full_name": "Netflix/metaflow",
@@ -225,6 +225,6 @@
   "search_query": "ai machine-learning llm pushed:>2025-11-15",
   "days": 7,
   "limit": 10,
-  "total_count": 237,
-  "fetched_at": "2025-11-22T20:59:38.996697+00:00"
+  "total_count": 238,
+  "fetched_at": "2025-11-22T22:26:31.692203+00:00"
 }
