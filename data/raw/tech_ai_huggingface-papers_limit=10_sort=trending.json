@@ -134,25 +134,6 @@
       "project_page": null
     },
     {
-      "id": "2511.16317",
-      "title": "NaTex: Seamless Texture Generation as Latent Color Diffusion",
-      "authors": "Zeqiang Lai, Yunfei Zhao, Zibo Zhao et al. (8 authors)",
-      "organization_name": "Tencent-Hunyuan",
-      "organization_fullname": "Tencent Hunyuan",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/62d22496c58f969c152bcefd/woKSjt2wXvBNKussyYPsa.png",
-      "summary": "We present NaTex, a native texture generation framework that predicts texture color directly in 3D space. In contrast to previous approaches that rely on baking 2D multi-view images synthesized by geometry-conditioned Multi-View Diffusion models (MVDs), NaTex avoids several inherent limitations of the MVD pipeline. These include difficulties in handling occluded regions that require inpainting, achieving precise mesh-texture alignment along boundaries, and maintaining cross-view consistency and coherence in both content and color intensity. NaTex features a novel paradigm that addresses the aforementioned issues by viewing texture as a dense color point cloud. Driven by this idea, we propose latent color diffusion, which comprises a geometry-awared color point cloud VAE and a multi-control diffusion transformer (DiT), entirely trained from scratch using 3D data, for texture reconstruction and generation. To enable precise alignment, we introduce native geometry control that conditions the DiT on direct 3D spatial information via positional embeddings and geometry latents. We co-design the VAE-DiT architecture, where the geometry latents are extracted via a dedicated geometry branch tightly coupled with the color VAE, providing fine-grained surface guidance that maintains strong correspondence with the texture. With these designs, NaTex demonstrates strong performance, significantly outperforming previous methods in texture coherence and alignment. Moreover, NaTex also exhibits strong generalization capabilities, either training-free or with simple tuning, for various downstream applications, e.g., material generation, texture refinement, and part segmentation and texturing.",
-      "ai_summary": "NaTex generates 3D textures directly using latent color diffusion and geometry-aware models, outperforming previous methods in coherence and alignment.",
-      "hf_url": "https://huggingface.co/papers/2511.16317",
-      "arxiv_url": "https://arxiv.org/abs/2511.16317",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16317.png",
-      "upvotes": 5,
-      "num_comments": 2,
-      "published_at": "2025-11-20T07:47:22.000Z",
-      "github_repo": "https://github.com/Zeqiang-Lai/NaTex",
-      "github_stars": 46,
-      "project_page": "https://natex-ldm.github.io/"
-    },
-    {
       "id": "2510.22543",
       "title": "FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable\n  Reasoning",
       "authors": "Yuyang Ding, Chi Zhang, Juntao Li et al. (6 authors)",
@@ -189,9 +170,28 @@
       "github_repo": "https://github.com/XiaomiMiMo/MiMo-Embodied",
       "github_stars": 74,
       "project_page": null
+    },
+    {
+      "id": "2511.16317",
+      "title": "NaTex: Seamless Texture Generation as Latent Color Diffusion",
+      "authors": "Zeqiang Lai, Yunfei Zhao, Zibo Zhao et al. (8 authors)",
+      "organization_name": "Tencent-Hunyuan",
+      "organization_fullname": "Tencent Hunyuan",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/62d22496c58f969c152bcefd/woKSjt2wXvBNKussyYPsa.png",
+      "summary": "We present NaTex, a native texture generation framework that predicts texture color directly in 3D space. In contrast to previous approaches that rely on baking 2D multi-view images synthesized by geometry-conditioned Multi-View Diffusion models (MVDs), NaTex avoids several inherent limitations of the MVD pipeline. These include difficulties in handling occluded regions that require inpainting, achieving precise mesh-texture alignment along boundaries, and maintaining cross-view consistency and coherence in both content and color intensity. NaTex features a novel paradigm that addresses the aforementioned issues by viewing texture as a dense color point cloud. Driven by this idea, we propose latent color diffusion, which comprises a geometry-awared color point cloud VAE and a multi-control diffusion transformer (DiT), entirely trained from scratch using 3D data, for texture reconstruction and generation. To enable precise alignment, we introduce native geometry control that conditions the DiT on direct 3D spatial information via positional embeddings and geometry latents. We co-design the VAE-DiT architecture, where the geometry latents are extracted via a dedicated geometry branch tightly coupled with the color VAE, providing fine-grained surface guidance that maintains strong correspondence with the texture. With these designs, NaTex demonstrates strong performance, significantly outperforming previous methods in texture coherence and alignment. Moreover, NaTex also exhibits strong generalization capabilities, either training-free or with simple tuning, for various downstream applications, e.g., material generation, texture refinement, and part segmentation and texturing.",
+      "ai_summary": "NaTex generates 3D textures directly using latent color diffusion and geometry-aware models, outperforming previous methods in coherence and alignment.",
+      "hf_url": "https://huggingface.co/papers/2511.16317",
+      "arxiv_url": "https://arxiv.org/abs/2511.16317",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16317.png",
+      "upvotes": 5,
+      "num_comments": 2,
+      "published_at": "2025-11-20T07:47:22.000Z",
+      "github_repo": "https://github.com/Zeqiang-Lai/NaTex",
+      "github_stars": 52,
+      "project_page": "https://natex-ldm.github.io/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-22T04:29:23.997255+00:00"
+  "fetched_at": "2025-11-22T05:16:44.633462+00:00"
 }

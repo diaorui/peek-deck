@@ -36,17 +36,6 @@
       "description": null
     },
     {
-      "title": "My cost basis is ~97k",
-      "author": "deadshift2010",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p2zutn/my_cost_basis_is_97k/",
-      "published": 1763734862.0,
-      "thumbnail": "https://preview.redd.it/srpcxns9dm2g1.jpeg?width=640&crop=smart&auto=webp&s=7ce7c26b608fbf381aecbc3ce841fb9483eb1d4f",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "As in the title, my average entry price right now is 97k, and having it drop like this really hurts because I was foolish and bought around 100k in leverage when BTC was at 118k because I was so sure we were going to the Moon. So far I've had to dial back on my leverage to maintain a good equity ratio, but I haven't been liquidated and won't be as long as I continue maintaining my ratio (About 30% of my BTC portfolio was leverage, so I'm maintaining that ratio). Sure, I've taken some losses by removing some leverage, but I haven't touched my equity yet. Still in the game and HODLing \ud83d\udc4c Sorry for slight vent, just basically wanted to say don't use leverage, it adds to the stress and anxiety you feel when BTC pulls back immensely lol"
-    },
-    {
       "title": "My crystal ball just told me BTC will be back at 100k in mid-December.",
       "author": "xSpAcEX7",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p3b3c8/my_crystal_ball_just_told_me_btc_will_be_back_at/",
@@ -56,6 +45,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Idk why you guys are panic selling\u2026 The orb has spoken. The prophecy is set. The candles will rise again."
+    },
+    {
+      "title": "My cost basis is ~97k",
+      "author": "deadshift2010",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p2zutn/my_cost_basis_is_97k/",
+      "published": 1763734862.0,
+      "thumbnail": "https://preview.redd.it/srpcxns9dm2g1.jpeg?width=640&crop=smart&auto=webp&s=7ce7c26b608fbf381aecbc3ce841fb9483eb1d4f",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "As in the title, my average entry price right now is 97k, and having it drop like this really hurts because I was foolish and bought around 100k in leverage when BTC was at 118k because I was so sure we were going to the Moon. So far I've had to dial back on my leverage to maintain a good equity ratio, but I haven't been liquidated and won't be as long as I continue maintaining my ratio (About 30% of my BTC portfolio was leverage, so I'm maintaining that ratio). Sure, I've taken some losses by removing some leverage, but I haven't touched my equity yet. Still in the game and HODLing \ud83d\udc4c Sorry for slight vent, just basically wanted to say don't use leverage, it adds to the stress and anxiety you feel when BTC pulls back immensely lol"
     },
     {
       "title": "Everything is fine \ud83d\ude05",
@@ -113,5 +113,5 @@
       "description": "Any takes on this article by Eugene Fama. https://www.promarket.org/2025/01/30/nobel-laureate-eugene-fama-predicts-bitcoin-will-become-worthless/#:~:text=When%20asked%20directly%20by%20Zingales,uncertainty%20about%20exactly%20how%20and"
     }
   ],
-  "fetched_at": "2025-11-22T04:28:40.006174+00:00"
+  "fetched_at": "2025-11-22T05:16:51.248164+00:00"
 }
