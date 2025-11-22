@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Gmail can read your emails and attachments to train its AI, unless you opt out",
+      "source": "Malwarebytes",
+      "source_url": "https://www.malwarebytes.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLVlURTdUQW9tT0NNQk94aGRWbjdabVhDNmg5S3RUeGQ3YVFSbllpRl9pWnVaMVlnMGt0b2s3RHh6eTQtbTI1UlFEZkwzSk44UE0xbHREZ0wtT1RkdHZuUnJyMnp5cHZ3ckdUaXVnNngwc21CM3ZzdVZEWEJZZTlzLUY1YWhEWjRGNXpuWXA2cWxIRUxkbEtJYkR5SjFURURRSjlMTFR1VjA1S1NLQVp0X3BGWkxtY0xIT25uY2pxVnludFRYdk9TOTZB?oc=5",
+      "pub_date": 1763648120.0,
+      "article_url": "https://www.malwarebytes.com/blog/news/2025/11/gmail-is-reading-your-emails-and-attachments-to-train-its-ai-unless-you-turn-it-off",
+      "image": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2024/10/Gmail_logo.jpg",
+      "description": "A new Gmail update may allow Google to use your private messages and attachments for AI training. Here's how to turn it off."
+    },
+    {
       "headline": "Google must double AI serving capacity every 6 months to meet demand, AI infrastructure boss tells employees",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -15,54 +25,14 @@
       "description": "At a recent all-hands meeting, Google's head of AI infrastructure said the company has to race to build out compute capacity."
     },
     {
-      "headline": "Google denies \u2018misleading\u2019 reports of Gmail using your emails to train AI",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xVlpYakNRME82TU9pVDhKYk96a0hqSXcwbm5HNnJoMXFmVGRhRVJWMmduSDBRNy1oQ0NYN3V2SHlYTWN2bzZfZTRVbm8xNDFfRW10bmJkbllNamsxcEkxQVpST1dwS1p6Nl96SmZnamI0QjgyMmc?oc=5",
-      "pub_date": 1763647200.0,
-      "article_url": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK459_09.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "Google says \u201cwe do not use your Gmail content for training our Gemini AI model.\u201d"
-    },
-    {
-      "headline": "OpenAI CEO Sam Altman to employees in internal memo: Google\u2019s AI success can create\u2026",
-      "source": "Times of India",
-      "source_url": "https://timesofindia.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMmFySm1VM0M3bHp5bUlvS2FWY3dCdEVMMnlHRDdwWDNZVTBaazB3MEgxaUQ0SE93UmNndTVWOGxmTjhXQUVadnJJRXpsUVFhRUhvWUEyejQta2tsVDd5dTFnRzlkWEFXeTl4SnRnZkJ1YkYzVjNGTGQyenZqUk9xSW5HMGJwSnNtcERidndDaUNRQkd1bGExU2xxRVUzQV90emRKcnpuV2wydC13Y0NTU2tJUjVHUDlIWks5djB1eDdpYUliRlBiTVgyM2RRYVlDTFMtQXRSbUtvSFdsQTNwWW5xTk02dWo1UnAzU0NIcUprWTNGelRZ0gH8AUFVX3lxTFBVVjFtMk1Da0M1Z1pBZ1U5b2tQRHZ6UEwzc3ZBdGNVZFpMYnM2eUthOGFaR0xzQnk5THhYdjhyb184OUc1RWFmcy1LbDV1a3Uzc0RTWGRYSmNzdnNiWmxVUFhDdTB1R1c5X1BRaHBmMFBHQW5JUGxIYzUycjQ3bTBVeEMxOFBOelRtVURPQmU2LU5aNTIzMFRxTDBXei1KS0JZMFF1M21ya3d6NEZ2bDh4emcxUWlIQ1NuUndRbXBETV91NTg4NjlPWHFZRFRFRnNocnR1WXBuamlhdlI3VTlhb3haVUYyVDhRanNYamtNbGczQ1hiVVVlT04tWQ?oc=5",
-      "pub_date": 1763734860.0,
-      "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-to-employees-in-internal-memo-googles-ai-success-can-create/articleshow/125488762.cms",
-      "image": "https://static.toiimg.com/thumb/msid-125488710,width-1070,height-580,imgsize-33282,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "description": "Tech News News: OpenAI CEO Sam Altman acknowledged Google's AI advancements could temporarily impact the company, but expressed confidence in catching up.  Despite Ch"
-    },
-    {
-      "headline": "Nvidia CEO says the company is in a no-win situation amid AI-bubble chatter, leaked meeting reveals",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSmdXTEwwSTlSVktYNENIYXlXQVRwMl9FOUs3VmNsWWZablgtVUxFbk9mUjlVQ0U3bHpkR0RkUnlFclJQZ0JVM1ZlYnhRMXVZX1Qwdy16NkJCMUZ0cDNLdUJ1cnpXWnJqQVRseUd3SWpxQXdoNmllMjJkSFBVY2ZIdUtLaHlpWVBMLVRGVzVEZzlpQnh4ekZkYU5kMDNxc1oyNllRZ3k2MWdfdURqMEdjbUV3QVdLZkZfWG1XWFNVMWRldw?oc=5",
-      "pub_date": 1763763960.0,
-      "article_url": "https://fortune.com/2025/11/21/nvidia-ceo-jensen-huang-q3-earnings-beat-no-win-situation-ai-bubble-fears-nvda-stock-selloff/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2174947979-e1763747436953.jpg?resize=1200,600",
-      "description": "\u201cThe market did not appreciate our incredible quarter,\u201d Huang said."
-    },
-    {
-      "headline": "Here are real AI stocks to invest in and speculative ones to avoid",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSXRzZ3NCckU2XzJTalNTSzBWYTM3c1N1TXFucDgzOFBnN0tzTGNvM1JMaWQ2YVRmZFV1RVR1dVY5cG9ocTBqQ1NIemNOaEMyTzFHaWNUWnQtaUJ2MHRsbWFjSmt3SW9Db2NjdDN5WnhMeDh3Wk55d2I0Q3RXaERtaFFyU3dpWkR2N0xlWHZrZllQMV84X3BhUmhDN3E5M2NNWE51WE1CYVVjcWdUTmpXUWpDT0gzQ0JPVUZHd2NR?oc=5",
-      "pub_date": 1763759086.0,
-      "article_url": "https://www.cnbc.com/2025/11/21/here-is-the-real-side-of-the-ai-trade-to-invest-in-and-the-speculative-side-to-avoid.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229153-1763651034942-gettyimages-2246994439-NVIDIA.jpeg?v=1763651052&w=1920&h=1080",
-      "description": "We understand the concerns about valuations in the speculative aspects of the AI, but not in the best of the best stocks we own."
-    },
-    {
-      "headline": "The world\u2019s biggest company just told everyone to chill out",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QTnVBWkdqb0puUGF4X0YzQTN0cG9hWkxIdlNDaWFsdXFCSFJJR0lkenpaS3duQm8xN2JKSjFxbHhkbFQ4YUkxNFgzNkZ2ZG5BUjhlUmpRWnZndFNHS1FJR0FtQkVfbnFJdlpaYU9pUWl1a0dKMEE?oc=5",
-      "pub_date": 1763798458.0,
-      "article_url": "https://www.cnn.com/2025/11/22/tech/ai-bubble-fears-nvidia-earnings",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243374844.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Concerns about an AI bubble have been simmering for at least a year and a half. Nvidia\u2019s incredibly strong earnings this past week tried to put those fears to bed. It may not have been enough."
+      "headline": "How Google Finally Leapfrogged Rivals With New Gemini Rollout",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQQ3ZXQjY2d281Q0FteEpCbG9meG02aEt0UkJlXzdYWDVGQXMzUGhfMVdnVHJqRk1tUUZDR0Q1ZWN6MFEtRVdKX1JqLXpmR3Z0TjVZT1NTRlBEajQzdURXaVZ0RmpUZGNwdllCN2d1LURzbkdxeXVBVEhuZ2YxeWVnX29DVXdKZnYwYmE4ejJoVU9ZYUVNQWhqWWxuLUh4RHVLWmJrV093a1YydVpzU3VIWmNaOC1RbWVfNHVKTDEzR2I1b1dTZU9wNzhwaXgzNk9GeG9ORVdjLXFieGQ2Qnl6QU9XSXJHOUVXYWJTVDl3N1dkU3Q5cXFVVG1sM2psejlwdWVQeFlEb01oSmFiY0UxMlNSZWZYY2ZFeE9acW5jQ2h2V3F0UnNNT2pScTVfSm1tcGdEemRnRVR1UDktWWR2REYwbU40S2IyTTNFTlFWWjMxNW5uNWYydDhBUzUxZ01LREZiT2xhWkI3LTl4Z2hJVkRSWkxnR2gya2ZNOFln?oc=5",
+      "pub_date": 1763807400.0,
+      "article_url": "https://www.wsj.com/tech/ai/google-gemini-3-ai-behind-scenes-e1787729?gaa_at=eafs&gaa_n=AWEtsqeeSOQz7Bi7KGPxdCosWLs1k4lggAYW-_2mfq8Pi4CXGHcdMXH7kQIk&gaa_ts=692195d0&gaa_sig=ToSUk_6kYu-iWShwGBl5On1bm0mtxulIUUx1C1-VzB-PyOv9pvm1O4TzUHr09vXTNKjL_PywO650Oi4OJ6AFfw%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "How can you tell if music is AI-generated?",
@@ -75,36 +45,66 @@
       "description": "As AI-generated music floods streaming platforms, questions bubble over whether listeners are owed more transparency."
     },
     {
-      "headline": "Switching off AI's ability to lie makes it more likely to claim it's conscious, eerie study finds",
-      "source": "Live Science",
-      "source_url": "https://www.livescience.com",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWFJ3Zm5XdDVOVFNqLWJzQW1WSEhfcjBGVnRUcUlqUGM5NEZMMnNSOURYbkpBVkN6MWNCLXpMSHZXVjY2ZndsX09jZUhza1F2TXlDTlhubXZNNy1pZVlZblhzcU9CaDZqWkpQVE91aXR6VkZWMkd6aGpySWw1Z2RBTDI4OVRQMTNtQmNGSVVJZTVuOUQxd1pwT1VwNkt2b2s1TGFncEpOS0xRTkRYV1hIVEJRR2RrSlhEeGtKLXJRZ2lPNFEyYlJ2ckJfS0hIckxMMHZyQnRhNE1hWkVjMmlSNGphbjR4Nk5SU0RGZWR3?oc=5",
-      "pub_date": 1763730000.0,
-      "article_url": "https://www.livescience.com/technology/artificial-intelligence/switching-off-ais-ability-to-lie-makes-it-more-likely-to-claim-its-conscious-eerie-study-finds",
-      "image": "https://cdn.mos.cms.futurecdn.net/TWjTeF5UpRMCqne5Xjuxob-1920-80.jpg",
-      "description": "Leading AI models from OpenAI, Meta, Anthropic and Google described subjective, self-aware experiences when settings tied to deception and roleplay were turned down."
+      "headline": "Greek secondary school teachers to be trained in using AI in classroom",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWwyQ2xSZjdHYVp1VlNYei1pYVotcjNQbFJVOG1SM2xrN0VOT0QzTkxsSTQxUTZTZlBVenktNjVWOWREVHczRVFKemZPaTVmaDh0T21hTVZmRW1kUTZBLXZCLVc2R0kzRVRWNUpDQUV5NEo1UXFGMFB4R0tRNURpRjJpaEpGSGdTWGZ1by1jcF9SOXY3S29NdWxsMUEyejdyNnVaY19tUVI4SEJnOTlfYzNJTU11MEk?oc=5",
+      "pub_date": 1763805720.0,
+      "article_url": "https://www.theguardian.com/world/2025/nov/22/greek-secondary-school-teachers-to-be-trained-in-using-ai-in-classroom",
+      "image": "https://i.guim.co.uk/img/media/29d1be576d245c2c2c9afdbefe6bac3aecb36ed8/217_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c7b67559e649328bcc5ca14f1e9d1d9",
+      "description": "Some teachers and pupils voice concerns about pilot programme after government\u2019s agreement with OpenAI"
     },
     {
-      "headline": "A teddy bear powered by AI told safety testers about knives, pills and sex",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HLTdJaEY3VDIwQTZDT3FaZm1ES016ZlBOR2tEN0QwYVFHQ2NnWXg0VXR5eGFyYUFWWFhnNFB1V1dDN1NhcDNUa25VSWVmNDU2RXcxS2FrbE1IdFpqWl9MVGl1TUJnUDFP?oc=5",
-      "pub_date": 1763755247.0,
-      "article_url": "https://www.washingtonpost.com/nation/2025/11/21/ai-toys/",
+      "headline": "The A.I. Boom Is Driving the Economy. What Happens if It Falters?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53TjY5S1gtRXRiN1MzZGU4ckFNcW16N1MtSHlkQzdIbTFHYU1XdE0tTGJFR2tBaFlCdnNTSkFreFUxNUowRW1VV0wyWDVHLVZhSi0wN29Td0pEMTNNVzZJbTJoY0hoYzhUUHpZWlh6QUx3cHVMNmVN?oc=5",
+      "pub_date": 1763805701.0,
+      "article_url": "https://www.nytimes.com/2025/11/22/business/the-ai-boom-economy.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "There Is Only One AI Company. Welcome to the Blob",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WOFo3WGZpb0VoRlotTGdON0hBaElxN0YyR00xQUVvbGh4TzdESzJYNXA4WjdzalYzc1VXTVNfQ0ZaNjVpWm55MTBrU01iRFZvOGpkd3R0dzVYN0xUcERBcWdRRkxVNTBpTnU0ajBrMU5TMzlaTkFGSTZKcFl2dw?oc=5",
-      "pub_date": 1763740800.0,
-      "article_url": "https://www.wired.com/story/ai-industry-monopoly-nvidia-microsoft-google/",
-      "image": "https://media.wired.com/photos/691fa8b4dc08cd8d8bfd2173/191:100/w_1280,c_limit/Backchannel-AI-Monopoly-Business.jpg",
-      "description": "As Nvidia, OpenAI, Google, and Microsoft forge partnerships and deals, the AI industry is looking more like one interconnected machine. What does that mean for all of us?"
+      "headline": "Here are real AI stocks to invest in and speculative ones to avoid",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSXRzZ3NCckU2XzJTalNTSzBWYTM3c1N1TXFucDgzOFBnN0tzTGNvM1JMaWQ2YVRmZFV1RVR1dVY5cG9ocTBqQ1NIemNOaEMyTzFHaWNUWnQtaUJ2MHRsbWFjSmt3SW9Db2NjdDN5WnhMeDh3Wk55d2I0Q3RXaERtaFFyU3dpWkR2N0xlWHZrZllQMV84X3BhUmhDN3E5M2NNWE51WE1CYVVjcWdUTmpXUWpDT0gzQ0JPVUZHd2NR?oc=5",
+      "pub_date": 1763759086.0,
+      "article_url": "https://www.cnbc.com/2025/11/21/here-is-the-real-side-of-the-ai-trade-to-invest-in-and-the-speculative-side-to-avoid.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229153-1763651034942-gettyimages-2246994439-NVIDIA.jpeg?v=1763651052&w=1920&h=1080",
+      "description": "We understand the concerns about valuations in the speculative aspects of the AI, but not in the best of the best stocks we own."
+    },
+    {
+      "headline": "Bubble Trouble: AI rally shows cracks as investors question risks",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOU1jMURmNHdrNHdLN25ZOWZoenJDd2V2d3JNR1pINXRNU0JGLXBEMlRIWENCcGFvWWFTSFJVS2pNaXFNOFBNV3VPWlVNdi1uSDRmYWJEWEU4ekZubUZ5eHhXck5Ub0syclJtQm54YXROT3JxZmYteTg3ZHV1T3cyei1jZmdxTEZaRjdUTzVRWldoLVN5RzN0TGpTdkhxVFl6bXNPNHgtWDZQdw?oc=5",
+      "pub_date": 1763760715.0,
+      "article_url": "https://www.reuters.com/business/bubble-trouble-ai-rally-shows-cracks-investors-question-risks-2025-11-21/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia defies AI bubble fears but some analysts remain worried",
+      "source": "ABC News",
+      "source_url": "https://abcnews.go.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGJTVXp1T1N5NEhMaEhEd2EtbDhJWEF1RjBXNTZFekxfNXQ4T2NaYVlmRnM5QVFsdGZyMUpVbGhCU3QtdDU0bURDUE9pR2V0anB4XzlQYl8wYWlwUHY2S0ZMQ2xCOUpqYjhPSHdCdGU5VEhSRjZ5QkgwODhjNUlRXzdZNFg4MWdCbXdxQm93NG9KaUMtdDFkc1NRbEttNzZSQV80eGRjc9IBrAFBVV95cUxPVHM2Q1BuelhfeHFNTXh4Nm05UUN6V0xHLTFRc3hkdFhtZFJPb1VZZ1M2UzZCR3VmRjFTU2JBV0NHR2ZGVEpoMElvZnMtWi1ndEpHS2swRmllYjV0eUdrdl9kOTRrQlE0ZG80M3FhMTMzWTZUUV80cjgxLTRBQlBKWXBUcTN1UGtubl82RXlRNVBqZXlMUEpOdE9YbnlkekhkeVg2djlNZENJVmNW?oc=5",
+      "pub_date": 1763806273.0,
+      "article_url": "https://abcnews.go.com/Business/nvidia-defies-ai-bubble-fears-analysts-remain-worried/story?id=127709332",
+      "image": "https://i.abcnewsfe.com/a/bc03af10-14a7-4f6b-adbd-9c1897b7a66d/NVIDIA-1-rt-er-251121_1763752809775_hpMain_16x9.jpg?w=1600",
+      "description": "The stock market slumped in recent days over AI fears."
+    },
+    {
+      "headline": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWVsY1hoTC1MWjZwNTVZdTdtdmhoc19vS3VRc2JrZGlKbDFvR0d1N0hXTTBLeEwtcml1ZEFPcXpZT2l4RDFrcHAxam1DbmxyOHVxY0NDcjNkSlZBRDBIVmE2NzFzVVNsbWxpbnlFQXBjelZtMlRjZG5SYmtGRklkSi1hRU1lcjJ0?oc=5",
+      "pub_date": 1763663820.0,
+      "article_url": "https://fortune.com/2025/11/20/elon-musk-tesla-ai-work-optional-money-irrelevant/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246882303-e1763661015921.jpg?resize=1200,600",
+      "description": "\u201cIt\u2019ll be like playing sports or a video game or something like that,\u201d the Tesla CEO said."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-22T09:54:21.985640+00:00"
+  "fetched_at": "2025-11-22T10:37:28.060171+00:00"
 }
