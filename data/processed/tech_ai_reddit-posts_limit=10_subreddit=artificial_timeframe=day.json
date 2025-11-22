@@ -47,17 +47,6 @@
       "description": "Stephen Gageler warns the speed of AI\u2019s development could be outstripping people\u2019s ability to \u2018comprehend its potential risks and rewards\u2019"
     },
     {
-      "title": "Big tech's AI deals are creating one giant machine",
-      "author": "Appropriate-Soil-896",
-      "url": "https://www.reddit.com/r/artificial/comments/1p33rwn/big_techs_ai_deals_are_creating_one_giant_machine/",
-      "published": 1763743961.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Steven Levy argues in Wired that the artificial intelligence industry has evolved into a single interconnected entity\u2014dubbed \u201cthe Blob\u201d\u2014through a web of partnerships, investments, and cloud agreements among major players like Nvidia, Microsoft, Google, OpenAI, and Anthropic, despite originally being founded to prevent profit-driven control of AI. The recent Microsoft-Nvidia-Anthropic deal exemplifies this consolidation: Microsoft commits up to $5 billion to Anthropic (a competitor to its primary partner OpenAI), while Anthropic pledges $30 billion for Microsoft Azure computing power and Nvidia invests up to $10 billion in Anthropic in exchange for using Nvidia hardware\u2014creating what one CEO called \u201cone enormous circular machine for money and computing.\u201d OpenAI, which was established in 2015 as a nonprofit counterbalance to corporate AI development, now holds a valuation between $500 billion and $750 billion, with the U.S. government endorsing the industry\u2019s consolidation\u2014backed in part by foreign powers including Saudi Arabia and Abu Dhabi\u2014while antitrust regulators remain largely absent. Source: https://www.wired.com/story/ai-industry-monopoly-nvidia-microsoft-google/"
-    },
-    {
       "title": "Gemini wanted me to get off my phone and sleep because it was too late.",
       "author": "RomanceAnimeAddict67",
       "url": "https://www.reddit.com/r/artificial/comments/1p3lew8/gemini_wanted_me_to_get_off_my_phone_and_sleep/",
@@ -67,6 +56,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Damm I'm surprised at how Gemini is getting really good. I was talking to Gemini for a long time and now it's past 12 and Gemini be saying it's late and maybe it's time to get off and rest."
+    },
+    {
+      "title": "Big tech's AI deals are creating one giant machine",
+      "author": "Appropriate-Soil-896",
+      "url": "https://www.reddit.com/r/artificial/comments/1p33rwn/big_techs_ai_deals_are_creating_one_giant_machine/",
+      "published": 1763743961.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Steven Levy argues in Wired that the artificial intelligence industry has evolved into a single interconnected entity\u2014dubbed \u201cthe Blob\u201d\u2014through a web of partnerships, investments, and cloud agreements among major players like Nvidia, Microsoft, Google, OpenAI, and Anthropic, despite originally being founded to prevent profit-driven control of AI. The recent Microsoft-Nvidia-Anthropic deal exemplifies this consolidation: Microsoft commits up to $5 billion to Anthropic (a competitor to its primary partner OpenAI), while Anthropic pledges $30 billion for Microsoft Azure computing power and Nvidia invests up to $10 billion in Anthropic in exchange for using Nvidia hardware\u2014creating what one CEO called \u201cone enormous circular machine for money and computing.\u201d OpenAI, which was established in 2015 as a nonprofit counterbalance to corporate AI development, now holds a valuation between $500 billion and $750 billion, with the U.S. government endorsing the industry\u2019s consolidation\u2014backed in part by foreign powers including Saudi Arabia and Abu Dhabi\u2014while antitrust regulators remain largely absent. Source: https://www.wired.com/story/ai-industry-monopoly-nvidia-microsoft-google/"
     },
     {
       "title": "New research shows how AI could transform math, physics, cancer research, and more",
@@ -113,5 +113,5 @@
       "description": "Curiosity Stream\u2019s owner has more content for AI companies than it does for subscribers."
     }
   ],
-  "fetched_at": "2025-11-22T08:40:26.413672+00:00"
+  "fetched_at": "2025-11-22T09:15:32.938663+00:00"
 }
