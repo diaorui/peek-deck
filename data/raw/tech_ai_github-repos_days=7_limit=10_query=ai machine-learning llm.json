@@ -8,9 +8,9 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
-      "stars": 79266,
+      "stars": 79267,
       "stars_display": "79.3k",
-      "forks": 11759,
+      "forks": 11762,
       "forks_display": "11.8k",
       "language": "Jupyter Notebook",
       "topics": [
@@ -30,7 +30,7 @@
       "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
       "url": "https://github.com/ray-project/ray",
       "preview_image": "https://opengraph.githubassets.com/e3258c9b492c14302cb9f89cd8735001ee499bfa1a05035f732c6d9df24495b1/ray-project/ray",
-      "stars": 39958,
+      "stars": 39960,
       "stars_display": "40.0k",
       "forks": 6934,
       "forks_display": "6.9k",
@@ -74,8 +74,8 @@
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "url": "https://github.com/patchy631/ai-engineering-hub",
       "preview_image": "https://opengraph.githubassets.com/5b28d3d18fe96db23c16997b3a8a7d841f1b744a80d7b3494805fffbe98431d8/patchy631/ai-engineering-hub",
-      "stars": 21048,
-      "stars_display": "21.0k",
+      "stars": 21050,
+      "stars_display": "21.1k",
       "forks": 3499,
       "forks_display": "3.5k",
       "language": "Jupyter Notebook",
@@ -120,7 +120,7 @@
       "preview_image": "https://opengraph.githubassets.com/61ec02b58d74110c5dfa77f8f5d07c3912915e330b28965ed442fec0b20290f1/arc53/DocsGPT",
       "stars": 17387,
       "stars_display": "17.4k",
-      "forks": 1935,
+      "forks": 1934,
       "forks_display": "1.9k",
       "language": "Python",
       "topics": [
@@ -196,7 +196,7 @@
         "artificial-intelligence",
         "deep-learning"
       ],
-      "updated_at": "2025-11-22T17:13:05Z"
+      "updated_at": "2025-11-22T17:55:09Z"
     },
     {
       "full_name": "Netflix/metaflow",
@@ -225,6 +225,6 @@
   "search_query": "ai machine-learning llm pushed:>2025-11-15",
   "days": 7,
   "limit": 10,
-  "total_count": 234,
-  "fetched_at": "2025-11-22T17:30:44.913035+00:00"
+  "total_count": 235,
+  "fetched_at": "2025-11-22T18:46:26.785977+00:00"
 }

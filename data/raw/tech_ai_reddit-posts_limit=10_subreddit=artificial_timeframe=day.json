@@ -58,17 +58,6 @@
       "description": "Is the advice you receive from friends leading you in the wrong direction? Paul Allen, founder of Soar AI, believes that 90% of the advice we receive, even from the people closest to us, isn\u2019t actually right for us. It\u2019s shaped by their strengths, experiences, and perspective. But with AI and psychometric tools, we can map our own patterns of thinking, feeling, and behaving to get guidance that fits who we really are. The future of personal growth might begin with understanding your own mind on your terms."
     },
     {
-      "title": "When it comes to nuclear weapons and AI, people are worried about the wrong thing | Vox",
-      "author": "vox",
-      "url": "https://www.reddit.com/r/artificial/comments/1p35g1q/when_it_comes_to_nuclear_weapons_and_ai_people/",
-      "published": 1763747706.0,
-      "thumbnail": "https://external-preview.redd.it/EE0gdvYtx8KsU1RhZIrvof5OO8Itc75w2UHVoXkVAiE.jpeg?width=640&crop=smart&auto=webp&s=4be458364bca3ed2da65453d0b34a36f2d2f5e7b",
-      "external_url": "http://vox.com/politics/468720/nuclear-ai-command-control",
-      "site_name": "Vox",
-      "favicon": "http://vox.com/static-assets/icons/apple-touch-icon.png",
-      "description": "It\u2019s more subtle than Skynet."
-    },
-    {
       "title": "If you had to explain to a superintelligent AI why humanity should continue to exist, what would you say?",
       "author": "Soggy-Ad9006",
       "url": "https://www.reddit.com/r/artificial/comments/1p3ywis/if_you_had_to_explain_to_a_superintelligent_ai/",
@@ -91,17 +80,6 @@
       "description": "Curiosity Stream\u2019s owner has more content for AI companies than it does for subscribers."
     },
     {
-      "title": "But, doesn\u2019t this mean that teachers are useless?",
-      "author": "mskogly",
-      "url": "https://www.reddit.com/r/artificial/comments/1p3ynzg/but_doesnt_this_mean_that_teachers_are_useless/",
-      "published": 1763831852.0,
-      "thumbnail": "https://external-preview.redd.it/TnJsT7hAgiaEui6gz-mL6waDluexv5WF_3pseCtiStU.jpeg?width=640&crop=smart&auto=webp&s=6dd43ea758a55be0ceae7ece8c5590dae00dc3a5",
-      "external_url": "https://futurism.com/artificial-intelligence/learning-with-chatgpt-disturbing",
-      "site_name": "Futurism",
-      "favicon": "https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180",
-      "description": "If simply being told the answer is bad for us, doesn\u2019t that mean we\u2019ve been learning wrong the whole time?"
-    },
-    {
       "title": "How true is it that AI is starting to affect our critical thinking?",
       "author": "Curious_Suchit",
       "url": "https://www.reddit.com/r/artificial/comments/1p3yszs/how_true_is_it_that_ai_is_starting_to_affect_our/",
@@ -111,7 +89,29 @@
       "site_name": null,
       "favicon": null,
       "description": "As AI takes over more of the tasks we once did ourselves, it\u2019s natural to wonder if it\u2019s making us think a little less deeply. The effect isn\u2019t the same for everyone, but it is definitely changing how we analyze and solve problems in our daily lives."
+    },
+    {
+      "title": "Will the AI Boom Continue?",
+      "author": "Gloomy_Register_2341",
+      "url": "https://www.reddit.com/r/artificial/comments/1p38wb4/will_the_ai_boom_continue/",
+      "published": 1763755678.0,
+      "thumbnail": "https://external-preview.redd.it/ux8Yxx5yXm5dAn4Of5r-y2PweCOZAL9TghhJJ5eGxfM.jpeg?width=640&crop=smart&auto=webp&s=fd030dbead9e428e6291b80e607f22ac8a980e3e",
+      "external_url": "https://www.project-syndicate.org/onpoint/will-the-ai-boom-continue",
+      "site_name": "Project Syndicate",
+      "favicon": "https://www.project-syndicate.org/favicon/apple-touch-icon.png",
+      "description": "Amid growing concerns about an AI bubble, Nvidia\u2019s stellar third-quarter earnings report has reinvigorated faith in the industry and the opportunities the technology represents. But as the money pours in, the risks to jobs, governance, and the planet continue to mount."
+    },
+    {
+      "title": "Which AI is best for\u2026",
+      "author": "Thin-Property-741",
+      "url": "https://www.reddit.com/r/artificial/comments/1p37mdc/which_ai_is_best_for/",
+      "published": 1763752682.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Currently, I use Chat and Claude and midjourney for all creative purposes, as well as research and non-creative blog outlining. But, what are the best AI models out there for creative writing/inspiration, static images, even app creation? I\u2019m not entirely new to AI/LLM\u2019s, as I adopted pretty early on, but just wondering if I\u2019m stuck in old habits"
     }
   ],
-  "fetched_at": "2025-11-22T17:53:53.914855+00:00"
+  "fetched_at": "2025-11-22T18:46:04.530272+00:00"
 }
