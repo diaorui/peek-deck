@@ -237,7 +237,7 @@
 
     .widget-reddit-posts .post-thumbnail {
         width: 100%;
-        height: 140px;
+        aspect-ratio: 2 / 1;
         background-size: cover;
         background-position: center;
         border-radius: 4px;
@@ -359,6 +359,10 @@
 
     /* Mobile adjustments: more lines for better readability */
     @media (max-width: 768px) {
+        .widget-reddit-posts .post-thumbnail {
+            /* aspect-ratio already set above */
+        }
+
         .widget-reddit-posts .post-title {
             -webkit-line-clamp: 3;
             min-height: calc(0.95rem * 1.4 * 3);
@@ -632,48 +636,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p31izw/new_research_shows_how_ai_could_transform_math/', '_blank')">
-                    <div class="post-thumbnail" style="background-image: url('https://external-preview.redd.it/vhEpT-T4Mbl-6YAeDT9Or2wz3r8-9RVq2ilV5EyCDUo.jpeg?width=640&crop=smart&auto=webp&s=79f4ec0170a14c96788fff3dbbdc769fe61634c0'); background-size: cover; background-position: center;"></div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1p31izw/new_research_shows_how_ai_could_transform_math/" target="_blank" onclick="event.stopPropagation();">New research shows how AI could transform math, physics, cancer research, and more</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            A new report from OpenAI and a group of outside scientists shows how GPT-5, the company’s latest AI large language model (LLM), can help with research from black holes to cancer‑fighting cells to math puzzles.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1763738823.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                                <div class="post-meta-item post-source">
-                                    <a href="https://www.scientificamerican.com/article/new-research-shows-how-ai-could-transform-math-physics-cancer-research-and/" target="_blank" onclick="event.stopPropagation();">
-                                        
-                                            
-                                            <img src="https://www.scientificamerican.com/static/favicon.ico" alt="" class="post-favicon">
-                                            
-                                        
-                                        <span>Scientific American</span>
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p3byhm/90_of_advice_you_get_is_wrong_heres_what_ai_can_do/', '_blank')">
                     <div class="post-thumbnail" style="background-image: url('https://external-preview.redd.it/NGJpdTd3a3lvbzJnMYAxEDRkljtmntP-lcgLbHBsuPUMxsADLLVJOx_mEVBw.png?width=640&crop=smart&auto=webp&s=cb4ae06afb3b7e61d9eb7c879c8010358a5020df'); background-size: cover; background-position: center;"></div>
 
@@ -730,6 +692,48 @@
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p31izw/new_research_shows_how_ai_could_transform_math/', '_blank')">
+                    <div class="post-thumbnail" style="background-image: url('https://external-preview.redd.it/vhEpT-T4Mbl-6YAeDT9Or2wz3r8-9RVq2ilV5EyCDUo.jpeg?width=640&crop=smart&auto=webp&s=79f4ec0170a14c96788fff3dbbdc769fe61634c0'); background-size: cover; background-position: center;"></div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1p31izw/new_research_shows_how_ai_could_transform_math/" target="_blank" onclick="event.stopPropagation();">New research shows how AI could transform math, physics, cancer research, and more</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            A new report from OpenAI and a group of outside scientists shows how GPT-5, the company’s latest AI large language model (LLM), can help with research from black holes to cancer‑fighting cells to math puzzles.
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1763738823.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                                <div class="post-meta-item post-source">
+                                    <a href="https://www.scientificamerican.com/article/new-research-shows-how-ai-could-transform-math-physics-cancer-research-and/" target="_blank" onclick="event.stopPropagation();">
+                                        
+                                            
+                                            <img src="https://www.scientificamerican.com/static/favicon.ico" alt="" class="post-favicon">
+                                            
+                                        
+                                        <span>Scientific American</span>
+                                    </a>
+                                </div>
                                 
                             </div>
                         </div>
@@ -801,7 +805,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-22T03:12:02.876248+00:00">Updated 2025-11-22T03:12:02.876248+00:00</small>
+        <small data-timestamp="2025-11-22T03:45:34.915092+00:00">Updated 2025-11-22T03:45:34.915092+00:00</small>
     </div>
 </div>
 
@@ -824,7 +828,7 @@
 /* Rich preview image */
 .widget-google-news .article-thumbnail {
     width: 100%;
-    height: 140px;
+    aspect-ratio: 2 / 1;
     background-size: cover;
     background-position: center;
     border-radius: 4px;
@@ -948,6 +952,10 @@
 
 /* Mobile adjustments: more lines for better readability */
 @media (max-width: 768px) {
+    .widget-google-news .article-thumbnail {
+        /* aspect-ratio already set above */
+    }
+
     .widget-google-news .news-headline {
         -webkit-line-clamp: 3;
         min-height: calc(0.95rem * 1.4 * 3);
@@ -1011,6 +1019,47 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1763651223.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK459_09.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out" target="_blank" onclick="event.stopPropagation();">Google denies ‘misleading’ reports of Gmail using your emails to train AI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Google says “we do not use your Gmail content for training our Gemini AI model.”
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theverge.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Verge" class="news-favicon">
+                                    <a href="https://www.theverge.com" target="_blank" onclick="event.stopPropagation();">The Verge</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763769840.0"></span>
                                 </div>
                                 
                             </div>
@@ -1100,47 +1149,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theregister.com/2025/11/21/google_workspace_smart_features/', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://regmedia.co.uk/2019/03/01/shutterstock_infuriated.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theregister.com/2025/11/21/google_workspace_smart_features/" target="_blank" onclick="event.stopPropagation();">Google Workspace AI 'smart features' are on by default</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            : Want out of those new 'smart features'? We’ve got you covered
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theregister.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="theregister.com" class="news-favicon">
-                                    <a href="https://www.theregister.com" target="_blank" onclick="event.stopPropagation();">theregister.com</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1763740020.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.washingtonpost.com/nation/2025/11/21/ai-toys/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" ></div>
@@ -1178,21 +1186,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.npr.org/2025/11/20/nx-s1-5612689/ai-toys', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://thehill.com/policy/technology/5618411-ai-toys-warning-parents/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2531+0+234/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F50%2Fde%2Fb7523a404f1e9308e2370d880148%2Fgettyimages-1202484315-resize.jpg');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.npr.org/2025/11/20/nx-s1-5612689/ai-toys" target="_blank" onclick="event.stopPropagation();">Ahead of the holidays, consumer and child advocacy groups warn against AI toys</a>
+                            <a href="https://thehill.com/policy/technology/5618411-ai-toys-warning-parents/" target="_blank" onclick="event.stopPropagation();">Advocacy groups urge parents to avoid AI toys this holiday season</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The child advocacy nonprofit Fairplay issued an advisory on Thursday warning people against buying AI toys this holiday season. It's not the only group.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1201,9 +1205,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.npr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="NPR" class="news-favicon">
-                                    <a href="https://www.npr.org" target="_blank" onclick="event.stopPropagation();">NPR</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Hill" class="news-favicon">
+                                    <a href="https://thehill.com" target="_blank" onclick="event.stopPropagation();">The Hill</a>
                                     
                                 </div>
                                 
@@ -1211,7 +1215,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1763636400.0"></span>
+                                    <span data-timestamp="1763781600.0"></span>
                                 </div>
                                 
                             </div>
@@ -1260,47 +1264,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2025/nov/21/elon-musk-grok-ai-bias-ranks-richest-man-fittest-smartest', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/6f51631e918b0ef2660772873dbe989e39f88a8b/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1be280599124d31e3d2065a3384b10ce');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.theguardian.com/technology/2025/nov/21/elon-musk-grok-ai-bias-ranks-richest-man-fittest-smartest" target="_blank" onclick="event.stopPropagation();">Elon Musk’s Grok AI tells users he is fitter than LeBron James and smarter than Leonardo da Vinci</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Users noted that in a raft of now-deleted posts, the chatbot would frequently rank Musk top in any given field
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Guardian" class="news-favicon">
-                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1763743260.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://fortune.com/2025/11/20/elon-musk-tesla-ai-work-optional-money-irrelevant/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246882303-e1763661015921.jpg?resize=1200,600');"></div>
@@ -1342,20 +1305,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://newrepublic.com/post/203519/elon-musk-ai-chatbot-grok-praise-pee-blowjobs', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.pbs.org/newshour/world/france-will-investigate-musks-grok-after-ai-chatbot-posted-holocaust-denial-claims', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.newrepublic.com/025a6a9385c5e259846ed2959d7b4dbf271a9a19.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://d3i6fh83elv35t.cloudfront.net/static/2025/11/2025-02-16T142607Z_263064880_RC2PVCA4ZVJM_RTRMADP_3_XAI-AI-1024x683.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://newrepublic.com/post/203519/elon-musk-ai-chatbot-grok-praise-pee-blowjobs" target="_blank" onclick="event.stopPropagation();">Musk’s AI Bot Says He’s the Best at Drinking Pee and Giving Blow Jobs</a>
+                            <a href="https://www.pbs.org/newshour/world/france-will-investigate-musks-grok-after-ai-chatbot-posted-holocaust-denial-claims" target="_blank" onclick="event.stopPropagation();">France will investigate Musk’s Grok after AI chatbot posted Holocaust denial claims</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Grok has gotten a little too enthusiastic about praising Elon Musk.
+                            France’s government is taking action against billionaire Elon Musk 's artificial intelligence chatbot Grok after it generated French-language posts that questioned the use of gas chambers at Auschwitz, officials said.
                         </div>
                         
 
@@ -1365,9 +1328,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://newrepublic.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The New Republic" class="news-favicon">
-                                    <a href="https://newrepublic.com" target="_blank" onclick="event.stopPropagation();">The New Republic</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pbs.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="PBS" class="news-favicon">
+                                    <a href="https://www.pbs.org" target="_blank" onclick="event.stopPropagation();">PBS</a>
                                     
                                 </div>
                                 
@@ -1375,7 +1338,48 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1763746313.0"></span>
+                                    <span data-timestamp="1763765252.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/technology/2025/nov/21/elon-musk-grok-ai-bias-ranks-richest-man-fittest-smartest', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/6f51631e918b0ef2660772873dbe989e39f88a8b/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1be280599124d31e3d2065a3384b10ce');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.theguardian.com/technology/2025/nov/21/elon-musk-grok-ai-bias-ranks-richest-man-fittest-smartest" target="_blank" onclick="event.stopPropagation();">Elon Musk’s Grok AI tells users he is fitter than LeBron James and smarter than Leonardo da Vinci</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Users noted that in a raft of now-deleted posts, the chatbot would frequently rank Musk top in any given field
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1763743260.0"></span>
                                 </div>
                                 
                             </div>
@@ -1403,7 +1407,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-22T03:12:38.652690+00:00">Updated 2025-11-22T03:12:38.652690+00:00</small>
+        <small data-timestamp="2025-11-22T03:45:53.157702+00:00">Updated 2025-11-22T03:45:53.157702+00:00</small>
     </div>
 </div>
 
@@ -1426,7 +1430,7 @@
 /* Rich preview image (using background-image like Reddit for consistency) */
 .widget-hackernews-posts .post-thumbnail {
     width: 100%;
-    height: 140px;
+    aspect-ratio: 2 / 1;
     background-size: cover;
     background-position: center;
     border-radius: 4px;
@@ -1551,6 +1555,10 @@
 
 /* Mobile adjustments: more lines for better readability */
 @media (max-width: 768px) {
+    .widget-hackernews-posts .post-thumbnail {
+        /* aspect-ratio already set above */
+    }
+
     .widget-hackernews-posts .post-title {
         -webkit-line-clamp: 3;
         min-height: calc(0.95rem * 1.4 * 3);
@@ -2093,963 +2101,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-22T03:12:38.920628+00:00">Updated 2025-11-22T03:12:38.920628+00:00</small>
-    </div>
-</div>
-
-<!-- Carousel initialized by shared page.html script -->
-        
-        <style>
-/* HuggingFace Papers-specific card styling */
-.widget-huggingface-papers .carousel-card {
-    border-left: 3px solid #ff9d00;
-    display: flex;
-    flex-direction: column;
-    width: 280px;
-    flex-shrink: 0;
-}
-
-.widget-huggingface-papers .carousel-card:hover {
-    box-shadow: 0 4px 12px rgba(255, 157, 0, 0.2);
-}
-
-/* Rich preview image */
-.widget-huggingface-papers .paper-thumbnail {
-    width: 100%;
-    height: 140px;
-    background-size: cover;
-    background-position: center;
-    border-radius: 4px;
-    margin-bottom: 10px;
-    background-color: rgba(255, 255, 255, 0.03);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 3rem;
-}
-
-/* Fallback icon for papers without images */
-.widget-huggingface-papers .paper-thumbnail:not([style*="background-image"])::before {
-    content: "📄";
-    opacity: 0.3;
-}
-
-.widget-huggingface-papers .paper-content {
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-}
-
-.widget-huggingface-papers .paper-title {
-    font-size: 0.95rem;
-    font-weight: 500;
-    margin-bottom: 8px;
-    line-height: 1.4;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    min-height: calc(0.95rem * 1.4 * 2);
-}
-
-.widget-huggingface-papers .paper-title a {
-    color: var(--text-color);
-    text-decoration: none;
-}
-
-.widget-huggingface-papers .paper-title a:hover {
-    color: #ff9d00;
-}
-
-.widget-huggingface-papers .paper-authors {
-    font-size: 0.75rem;
-    color: #9ca3af;
-    margin-bottom: 6px;
-    display: -webkit-box;
-    -webkit-line-clamp: 1;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-}
-
-/* Organization line with avatar - always takes one line for consistent card height */
-.widget-huggingface-papers .paper-organization {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    margin-bottom: 8px;
-    overflow: hidden;
-    min-width: 0;
-    font-size: 0.75rem;
-    line-height: 1.2;
-    min-height: calc(0.75rem * 1.2); /* Reserve space even when empty */
-}
-
-.widget-huggingface-papers .org-avatar {
-    width: 18px;
-    height: 18px;
-    border-radius: 3px;
-    object-fit: cover;
-    flex-shrink: 0;
-}
-
-.widget-huggingface-papers .paper-organization a {
-    color: #ff9d00;
-    font-size: 0.75rem;
-    font-weight: 500;
-    text-decoration: none;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    flex: 1;
-    min-width: 0;
-    line-height: 1.2;
-}
-
-.widget-huggingface-papers .paper-organization a:hover {
-    text-decoration: underline;
-}
-
-/* Rich description (AI summary or full summary) */
-.widget-huggingface-papers .paper-summary {
-    font-size: 0.75rem;
-    color: #9ca3af;
-    line-height: 1.4;
-    margin-bottom: 10px;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-}
-
-.widget-huggingface-papers .paper-meta {
-    display: flex;
-    flex-direction: column;
-    gap: 4px;
-    font-size: 0.72rem;
-    color: #9ca3af;
-    margin-top: auto;
-}
-
-.widget-huggingface-papers .paper-meta-line {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    flex-wrap: nowrap;
-    overflow: hidden;
-}
-
-.widget-huggingface-papers .paper-meta-item {
-    display: flex;
-    align-items: center;
-    gap: 3px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    min-width: 0;
-}
-
-.widget-huggingface-papers .paper-link {
-    color: #60a5fa;
-    text-decoration: none;
-}
-
-.widget-huggingface-papers .paper-link:hover {
-    text-decoration: underline;
-}
-
-.widget-huggingface-papers .paper-stats {
-    color: #ff9d00;
-    font-weight: 500;
-}
-
-/* Mobile adjustments: more lines for better readability */
-@media (max-width: 768px) {
-    .widget-huggingface-papers .paper-title {
-        -webkit-line-clamp: 3;
-        min-height: calc(0.95rem * 1.4 * 3);
-    }
-
-    .widget-huggingface-papers .paper-summary {
-        -webkit-line-clamp: 4;
-        min-height: calc(0.75rem * 1.4 * 4);
-    }
-}
-</style>
-
-<div class="widget widget-huggingface-papers widget-full">
-    <div class="widget-header">
-        <h3>HuggingFace Papers</h3>
-        <div style="font-size: 0.75rem; color: #9ca3af;">
-            
-            🔥 Trending
-            
-        </div>
-    </div>
-    <div class="widget-body">
-        <div class="carousel-container">
-            <!-- Previous button -->
-            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
-                ◀
-            </button>
-
-            <!-- Carousel track -->
-            <div class="carousel-track" id="hf-papers-carousel">
-                
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2511.16624', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png');"></div>
-
-                    <div class="paper-content">
-                        <!-- Paper title (fixed 2-line height) -->
-                        <div class="paper-title">
-                            <a href="https://huggingface.co/papers/2511.16624" target="_blank" onclick="event.stopPropagation();">SAM 3D: 3Dfy Anything in Images</a>
-                        </div>
-
-                        <!-- Authors -->
-                        <div class="paper-authors">
-                            SAM 3D Team, Xingyu Chen, Fu-Jen Chu et al. (23 authors)
-                        </div>
-
-                        <!-- Organization (always reserve space for consistent card height) -->
-                        <div class="paper-organization">
-                            
-                                
-                                <img src="https://cdn-uploads.huggingface.co/production/uploads/1592839207516-noauth.png" alt="AI at Meta" class="org-avatar">
-                                
-                                <a href="https://huggingface.co/facebook" target="_blank" onclick="event.stopPropagation();">
-                                    AI at Meta
-                                </a>
-                            
-                        </div>
-
-                        <!-- Rich description (AI summary if available, otherwise full summary) -->
-                        
-                        <div class="paper-summary">
-                            SAM 3D is a generative model that reconstructs 3D objects from single images using a multi-stage training framework that includes synthetic pretraining and real-world alignment, achieving high performance in human preference tests.
-                        </div>
-                        
-
-                        <!-- Metadata (stats, links, time) -->
-                        <div class="paper-meta">
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 31</span>
-                                </div>
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">💬 2</span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 2,782</span>
-                                </div>
-                                
-                            </div>
-                            <div class="paper-meta-line">
-                                
-                                <div class="paper-meta-item">
-                                    <span class="paper-age" data-timestamp="2025-11-20T13:31:46.000Z"></span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://arxiv.org/abs/2511.16624" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        📄 arXiv
-                                    </a>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://github.com/facebookresearch/sam-3d-objects" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        💻 code
-                                    </a>
-                                </div>
-                                
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://ai.meta.com/sam3d/" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        🔗 project
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2511.13720', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.13720.png');"></div>
-
-                    <div class="paper-content">
-                        <!-- Paper title (fixed 2-line height) -->
-                        <div class="paper-title">
-                            <a href="https://huggingface.co/papers/2511.13720" target="_blank" onclick="event.stopPropagation();">Back to Basics: Let Denoising Generative Models Denoise</a>
-                        </div>
-
-                        <!-- Authors -->
-                        <div class="paper-authors">
-                            Tianhong Li, Kaiming He
-                        </div>
-
-                        <!-- Organization (always reserve space for consistent card height) -->
-                        <div class="paper-organization">
-                            
-                                
-                                <img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/S90qoeEJeEYaYf-c7Zs8g.png" alt="Massachusetts Institute of Technology" class="org-avatar">
-                                
-                                <a href="https://huggingface.co/MIT" target="_blank" onclick="event.stopPropagation();">
-                                    Massachusetts Institute of Technology
-                                </a>
-                            
-                        </div>
-
-                        <!-- Rich description (AI summary if available, otherwise full summary) -->
-                        
-                        <div class="paper-summary">
-                            Today's denoising diffusion models do not "denoise" in the classical sense, i.e., they do not directly predict clean images. Rather, the neural networks predict noise or a noised quantity. In this paper, we suggest that predicting clean data and predicting noised quantities are fundamentally different. According to the manifold assumption, natural data should lie on a low-dimensional manifold, whereas noised quantities do not. With this assumption, we advocate for models that directly predict clean data, which allows apparently under-capacity networks to operate effectively in very high-dimensional spaces. We show that simple, large-patch Transformers on pixels can be strong generative models: using no tokenizer, no pre-training, and no extra loss. Our approach is conceptually nothing more than "Just image Transformers", or JiT, as we call it. We report competitive results using JiT with large patch sizes of 16 and 32 on ImageNet at resolutions of 256 and 512, where predicting high-dimensional noised quantities can fail catastrophically. With our networks mapping back to the basics of the manifold, our research goes back to basics and pursues a self-contained paradigm for Transformer-based diffusion on raw natural data.
-                        </div>
-                        
-
-                        <!-- Metadata (stats, links, time) -->
-                        <div class="paper-meta">
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 35</span>
-                                </div>
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">💬 1</span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 1,021</span>
-                                </div>
-                                
-                            </div>
-                            <div class="paper-meta-line">
-                                
-                                <div class="paper-meta-item">
-                                    <span class="paper-age" data-timestamp="2025-11-17T13:59:57.000Z"></span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://arxiv.org/abs/2511.13720" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        📄 arXiv
-                                    </a>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://github.com/LTH14/JiT" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        💻 code
-                                    </a>
-                                </div>
-                                
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2511.10647', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.10647.png');"></div>
-
-                    <div class="paper-content">
-                        <!-- Paper title (fixed 2-line height) -->
-                        <div class="paper-title">
-                            <a href="https://huggingface.co/papers/2511.10647" target="_blank" onclick="event.stopPropagation();">Depth Anything 3: Recovering the Visual Space from Any Views</a>
-                        </div>
-
-                        <!-- Authors -->
-                        <div class="paper-authors">
-                            Haotong Lin, Sili Chen, Junhao Liew et al. (8 authors)
-                        </div>
-
-                        <!-- Organization (always reserve space for consistent card height) -->
-                        <div class="paper-organization">
-                            
-                                
-                                <img src="https://cdn-uploads.huggingface.co/production/uploads/6535c9e88bde2fae19b6fb25/flkDUqd_YEuFsjeNET3r-.png" alt="ByteDance Seed" class="org-avatar">
-                                
-                                <a href="https://huggingface.co/ByteDance-Seed" target="_blank" onclick="event.stopPropagation();">
-                                    ByteDance Seed
-                                </a>
-                            
-                        </div>
-
-                        <!-- Rich description (AI summary if available, otherwise full summary) -->
-                        
-                        <div class="paper-summary">
-                            Depth Anything 3 (DA3) uses a plain transformer for geometry prediction from visual inputs, achieving state-of-the-art results in camera pose estimation, any-view geometry, visual rendering, and monocular depth estimation.
-                        </div>
-                        
-
-                        <!-- Metadata (stats, links, time) -->
-                        <div class="paper-meta">
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 78</span>
-                                </div>
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">💬 4</span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 2,512</span>
-                                </div>
-                                
-                            </div>
-                            <div class="paper-meta-line">
-                                
-                                <div class="paper-meta-item">
-                                    <span class="paper-age" data-timestamp="2025-11-13T13:59:53.000Z"></span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://arxiv.org/abs/2511.10647" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        📄 arXiv
-                                    </a>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://github.com/ByteDance-Seed/depth-anything-3" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        💻 code
-                                    </a>
-                                </div>
-                                
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://depth-anything-3.github.io/" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        🔗 project
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2511.15586', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.15586.png');"></div>
-
-                    <div class="paper-content">
-                        <!-- Paper title (fixed 2-line height) -->
-                        <div class="paper-title">
-                            <a href="https://huggingface.co/papers/2511.15586" target="_blank" onclick="event.stopPropagation();">MHR: Momentum Human Rig</a>
-                        </div>
-
-                        <!-- Authors -->
-                        <div class="paper-authors">
-                            Aaron Ferguson, Ahmed A. A. Osman, Berta Bescos et al. (41 authors)
-                        </div>
-
-                        <!-- Organization (always reserve space for consistent card height) -->
-                        <div class="paper-organization">
-                            
-                        </div>
-
-                        <!-- Rich description (AI summary if available, otherwise full summary) -->
-                        
-                        <div class="paper-summary">
-                            MHR combines ATLAS's skeleton/shape paradigm with a modern rig to provide expressive, anatomically plausible human animation for AR/VR and graphics.
-                        </div>
-                        
-
-                        <!-- Metadata (stats, links, time) -->
-                        <div class="paper-meta">
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 10</span>
-                                </div>
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">💬 1</span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 273</span>
-                                </div>
-                                
-                            </div>
-                            <div class="paper-meta-line">
-                                
-                                <div class="paper-meta-item">
-                                    <span class="paper-age" data-timestamp="2025-11-19T11:18:02.000Z"></span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://arxiv.org/abs/2511.15586" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        📄 arXiv
-                                    </a>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://github.com/facebookresearch/MHR" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        💻 code
-                                    </a>
-                                </div>
-                                
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2410.05779', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.05779.png');"></div>
-
-                    <div class="paper-content">
-                        <!-- Paper title (fixed 2-line height) -->
-                        <div class="paper-title">
-                            <a href="https://huggingface.co/papers/2410.05779" target="_blank" onclick="event.stopPropagation();">LightRAG: Simple and Fast Retrieval-Augmented Generation</a>
-                        </div>
-
-                        <!-- Authors -->
-                        <div class="paper-authors">
-                            Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)
-                        </div>
-
-                        <!-- Organization (always reserve space for consistent card height) -->
-                        <div class="paper-organization">
-                            
-                        </div>
-
-                        <!-- Rich description (AI summary if available, otherwise full summary) -->
-                        
-                        <div class="paper-summary">
-                            LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-                        </div>
-                        
-
-                        <!-- Metadata (stats, links, time) -->
-                        <div class="paper-meta">
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 17</span>
-                                </div>
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">💬 0</span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 24,025</span>
-                                </div>
-                                
-                            </div>
-                            <div class="paper-meta-line">
-                                
-                                <div class="paper-meta-item">
-                                    <span class="paper-age" data-timestamp="2024-10-08T04:00:12.000Z"></span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://arxiv.org/abs/2410.05779" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        📄 arXiv
-                                    </a>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://github.com/hkuds/lightrag" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        💻 code
-                                    </a>
-                                </div>
-                                
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2511.13648', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.13648.png');"></div>
-
-                    <div class="paper-content">
-                        <!-- Paper title (fixed 2-line height) -->
-                        <div class="paper-title">
-                            <a href="https://huggingface.co/papers/2511.13648" target="_blank" onclick="event.stopPropagation();">PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image</a>
-                        </div>
-
-                        <!-- Authors -->
-                        <div class="paper-authors">
-                            Ziang Cao, Fangzhou Hong, Zhaoxi Chen et al. (5 authors)
-                        </div>
-
-                        <!-- Organization (always reserve space for consistent card height) -->
-                        <div class="paper-organization">
-                            
-                        </div>
-
-                        <!-- Rich description (AI summary if available, otherwise full summary) -->
-                        
-                        <div class="paper-summary">
-                            3D modeling is shifting from static visual representations toward physical, articulated assets that can be directly used in simulation and interaction. However, most existing 3D generation methods overlook key physical and articulation properties, thereby limiting their utility in embodied AI. To bridge this gap, we introduce PhysX-Anything, the first simulation-ready physical 3D generative framework that, given a single in-the-wild image, produces high-quality sim-ready 3D assets with explicit geometry, articulation, and physical attributes. Specifically, we propose the first VLM-based physical 3D generative model, along with a new 3D representation that efficiently tokenizes geometry. It reduces the number of tokens by 193x, enabling explicit geometry learning within standard VLM token budgets without introducing any special tokens during fine-tuning and significantly improving generative quality. In addition, to overcome the limited diversity of existing physical 3D datasets, we construct a new dataset, PhysX-Mobility, which expands the object categories in prior physical 3D datasets by over 2x and includes more than 2K common real-world objects with rich physical annotations. Extensive experiments on PhysX-Mobility and in-the-wild images demonstrate that PhysX-Anything delivers strong generative performance and robust generalization. Furthermore, simulation-based experiments in a MuJoCo-style environment validate that our sim-ready assets can be directly used for contact-rich robotic policy learning. We believe PhysX-Anything can substantially empower a broad range of downstream applications, especially in embodied AI and physics-based simulation.
-                        </div>
-                        
-
-                        <!-- Metadata (stats, links, time) -->
-                        <div class="paper-meta">
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 45</span>
-                                </div>
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">💬 2</span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 423</span>
-                                </div>
-                                
-                            </div>
-                            <div class="paper-meta-line">
-                                
-                                <div class="paper-meta-item">
-                                    <span class="paper-age" data-timestamp="2025-11-17T12:59:53.000Z"></span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://arxiv.org/abs/2511.13648" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        📄 arXiv
-                                    </a>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://github.com/ziangcao0312/PhysX-Anything" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        💻 code
-                                    </a>
-                                </div>
-                                
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://physx-anything.github.io/" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        🔗 project
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2510.14528', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14528.png');"></div>
-
-                    <div class="paper-content">
-                        <!-- Paper title (fixed 2-line height) -->
-                        <div class="paper-title">
-                            <a href="https://huggingface.co/papers/2510.14528" target="_blank" onclick="event.stopPropagation();">PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B
-  Ultra-Compact Vision-Language Model</a>
-                        </div>
-
-                        <!-- Authors -->
-                        <div class="paper-authors">
-                            Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)
-                        </div>
-
-                        <!-- Organization (always reserve space for consistent card height) -->
-                        <div class="paper-organization">
-                            
-                                
-                                <img src="https://cdn-uploads.huggingface.co/production/uploads/1654942635336-5f3ff69679c1ba4c353d0c5a.png" alt="PaddlePaddle" class="org-avatar">
-                                
-                                <a href="https://huggingface.co/PaddlePaddle" target="_blank" onclick="event.stopPropagation();">
-                                    PaddlePaddle
-                                </a>
-                            
-                        </div>
-
-                        <!-- Rich description (AI summary if available, otherwise full summary) -->
-                        
-                        <div class="paper-summary">
-                            PaddleOCR-VL, a vision-language model combining NaViT-style visual encoder and ERNIE-4.5 language model, achieves state-of-the-art performance in document parsing with minimal resource consumption.
-                        </div>
-                        
-
-                        <!-- Metadata (stats, links, time) -->
-                        <div class="paper-meta">
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 94</span>
-                                </div>
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">💬 6</span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 64,524</span>
-                                </div>
-                                
-                            </div>
-                            <div class="paper-meta-line">
-                                
-                                <div class="paper-meta-item">
-                                    <span class="paper-age" data-timestamp="2025-10-16T06:18:48.000Z"></span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://arxiv.org/abs/2510.14528" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        📄 arXiv
-                                    </a>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        💻 code
-                                    </a>
-                                </div>
-                                
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2511.16518', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16518.png');"></div>
-
-                    <div class="paper-content">
-                        <!-- Paper title (fixed 2-line height) -->
-                        <div class="paper-title">
-                            <a href="https://huggingface.co/papers/2511.16518" target="_blank" onclick="event.stopPropagation();">MiMo-Embodied: X-Embodied Foundation Model Technical Report</a>
-                        </div>
-
-                        <!-- Authors -->
-                        <div class="paper-authors">
-                            Xiaoshuai Hao, Lei Zhou, Zhijian Huang et al. (44 authors)
-                        </div>
-
-                        <!-- Organization (always reserve space for consistent card height) -->
-                        <div class="paper-organization">
-                            
-                                
-                                <img src="https://cdn-uploads.huggingface.co/production/uploads/680cb7d1233834890a64acee/6w2qX9u28SPLL11os2Y9C.png" alt="Xiaomi MiMo" class="org-avatar">
-                                
-                                <a href="https://huggingface.co/XiaomiMiMo" target="_blank" onclick="event.stopPropagation();">
-                                    Xiaomi MiMo
-                                </a>
-                            
-                        </div>
-
-                        <!-- Rich description (AI summary if available, otherwise full summary) -->
-                        
-                        <div class="paper-summary">
-                            MiMo-Embodied, a cross-embodied foundation model, achieves state-of-the-art performance in both autonomous driving and embodied AI through multi-stage learning, curated data, and CoT/RL fine-tuning.
-                        </div>
-                        
-
-                        <!-- Metadata (stats, links, time) -->
-                        <div class="paper-meta">
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 18</span>
-                                </div>
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">💬 2</span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 62</span>
-                                </div>
-                                
-                            </div>
-                            <div class="paper-meta-line">
-                                
-                                <div class="paper-meta-item">
-                                    <span class="paper-age" data-timestamp="2025-11-20T11:34:55.000Z"></span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://arxiv.org/abs/2511.16518" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        📄 arXiv
-                                    </a>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://github.com/XiaomiMiMo/MiMo-Embodied" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        💻 code
-                                    </a>
-                                </div>
-                                
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2511.16317', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16317.png');"></div>
-
-                    <div class="paper-content">
-                        <!-- Paper title (fixed 2-line height) -->
-                        <div class="paper-title">
-                            <a href="https://huggingface.co/papers/2511.16317" target="_blank" onclick="event.stopPropagation();">NaTex: Seamless Texture Generation as Latent Color Diffusion</a>
-                        </div>
-
-                        <!-- Authors -->
-                        <div class="paper-authors">
-                            Zeqiang Lai, Yunfei Zhao, Zibo Zhao et al. (8 authors)
-                        </div>
-
-                        <!-- Organization (always reserve space for consistent card height) -->
-                        <div class="paper-organization">
-                            
-                                
-                                <img src="https://cdn-uploads.huggingface.co/production/uploads/62d22496c58f969c152bcefd/woKSjt2wXvBNKussyYPsa.png" alt="Tencent Hunyuan" class="org-avatar">
-                                
-                                <a href="https://huggingface.co/Tencent-Hunyuan" target="_blank" onclick="event.stopPropagation();">
-                                    Tencent Hunyuan
-                                </a>
-                            
-                        </div>
-
-                        <!-- Rich description (AI summary if available, otherwise full summary) -->
-                        
-                        <div class="paper-summary">
-                            NaTex generates 3D textures directly using latent color diffusion and geometry-aware models, outperforming previous methods in coherence and alignment.
-                        </div>
-                        
-
-                        <!-- Metadata (stats, links, time) -->
-                        <div class="paper-meta">
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 5</span>
-                                </div>
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">💬 2</span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 46</span>
-                                </div>
-                                
-                            </div>
-                            <div class="paper-meta-line">
-                                
-                                <div class="paper-meta-item">
-                                    <span class="paper-age" data-timestamp="2025-11-20T07:47:22.000Z"></span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://arxiv.org/abs/2511.16317" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        📄 arXiv
-                                    </a>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://github.com/Zeqiang-Lai/NaTex" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        💻 code
-                                    </a>
-                                </div>
-                                
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://natex-ldm.github.io/" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        🔗 project
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2510.22543', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.22543.png');"></div>
-
-                    <div class="paper-content">
-                        <!-- Paper title (fixed 2-line height) -->
-                        <div class="paper-title">
-                            <a href="https://huggingface.co/papers/2510.22543" target="_blank" onclick="event.stopPropagation();">FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable
-  Reasoning</a>
-                        </div>
-
-                        <!-- Authors -->
-                        <div class="paper-authors">
-                            Yuyang Ding, Chi Zhang, Juntao Li et al. (6 authors)
-                        </div>
-
-                        <!-- Organization (always reserve space for consistent card height) -->
-                        <div class="paper-organization">
-                            
-                        </div>
-
-                        <!-- Rich description (AI summary if available, otherwise full summary) -->
-                        
-                        <div class="paper-summary">
-                            Flawed-Aware Policy Optimization (FAPO) enhances reinforcement learning with verifiable rewards by penalizing flawed-positive rollouts, improving reasoning capability and training stability in large language models.
-                        </div>
-                        
-
-                        <!-- Metadata (stats, links, time) -->
-                        <div class="paper-meta">
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 8</span>
-                                </div>
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">💬 1</span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 16,309</span>
-                                </div>
-                                
-                            </div>
-                            <div class="paper-meta-line">
-                                
-                                <div class="paper-meta-item">
-                                    <span class="paper-age" data-timestamp="2025-10-26T01:49:38.000Z"></span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://arxiv.org/abs/2510.22543" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        📄 arXiv
-                                    </a>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://github.com/volcengine/verl/tree/main/recipe/fapo" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        💻 code
-                                    </a>
-                                </div>
-                                
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://fapo-rl.github.io/" target="_blank" class="paper-link" onclick="event.stopPropagation();">
-                                        🔗 project
-                                    </a>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-
-                <!-- View All button at end of carousel -->
-                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(255, 157, 0, 0.05); border-color: #ff9d00;"
-                     onclick="window.open('https://huggingface.co/papers', '_blank')">
-                    <div style="text-align: center;">
-                        <div style="font-size: 2rem; margin-bottom: 8px;">📄</div>
-                        <div style="color: #ff9d00; font-weight: 500; font-size: 0.9rem;">View All</div>
-                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on HuggingFace</div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Next button -->
-            <button class="carousel-nav carousel-nav-next" aria-label="Next">
-                ▶
-            </button>
-        </div>
-
-    </div>
-    <div class="widget-footer">
-        <small data-timestamp="2025-11-22T03:12:39.094195+00:00">Updated 2025-11-22T03:12:39.094195+00:00</small>
+        <small data-timestamp="2025-11-22T03:45:53.453866+00:00">Updated 2025-11-22T03:45:53.453866+00:00</small>
     </div>
 </div>
 
@@ -3072,9 +2124,9 @@
 /* Rich preview image (model thumbnail) */
 .widget-huggingface-models .model-thumbnail {
     width: 100%;
-    height: 140px;
+    aspect-ratio: 1.85 / 1;
     background-size: cover;
-    background-position: left top;
+    background-position: center;
     border-radius: 4px;
     margin-bottom: 10px;
     background-color: rgba(255, 255, 255, 0.03);
@@ -3209,6 +2261,10 @@
 
 /* Mobile adjustments: no changes needed for model name (stays 1 line) */
 @media (max-width: 768px) {
+    .widget-huggingface-models .model-thumbnail {
+        background-size: contain;
+    }
+
     .widget-huggingface-models .model-tag {
         padding: 4px 6px;
     }
@@ -3323,7 +2379,7 @@
                                     <span class="model-stats">⬇️ 26,092</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 420</span>
+                                    <span class="model-stats">❤️ 422</span>
                                 </div>
                             </div>
                             
@@ -3523,7 +2579,7 @@
                                     <span class="model-stats">⬇️ 135</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 139</span>
+                                    <span class="model-stats">❤️ 140</span>
                                 </div>
                             </div>
                             
@@ -3755,908 +2811,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-22T03:12:39.214479+00:00">Updated 2025-11-22T03:12:39.214479+00:00</small>
-    </div>
-</div>
-
-<!-- Carousel initialized by shared page.html script -->
-        
-        <style>
-/* GitHub-specific card styling */
-.widget-github-repos .carousel-card {
-    border-left: 3px solid #238636;
-    display: flex;
-    flex-direction: column;
-    width: 280px;
-    flex-shrink: 0;
-}
-
-.widget-github-repos .carousel-card:hover {
-    box-shadow: 0 4px 12px rgba(35, 134, 54, 0.2);
-}
-
-/* Rich preview image (repository preview) */
-.widget-github-repos .repo-preview {
-    width: 100%;
-    height: 140px;
-    background-size: cover;
-    background-position: left top;
-    border-radius: 4px;
-    margin-bottom: 10px;
-    background-color: rgba(255, 255, 255, 0.03);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 3rem;
-}
-
-/* Fallback icon for repos without preview images */
-.widget-github-repos .repo-preview:not([style*="background-image"])::before {
-    content: "";
-    width: 48px;
-    height: 48px;
-    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="%23238636"><path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"/></svg>');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    opacity: 0.3;
-}
-
-.widget-github-repos .repo-content {
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-}
-
-/* Repository name (first line after preview) - single line only */
-.widget-github-repos .repo-name {
-    font-size: 0.95rem;
-    font-weight: 600;
-    line-height: 1.4;
-    margin-bottom: 6px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    min-height: calc(0.95rem * 1.4);
-}
-
-.widget-github-repos .repo-name a {
-    color: var(--text-color);
-    text-decoration: none;
-}
-
-.widget-github-repos .repo-name a:hover {
-    color: #238636;
-}
-
-/* Owner line with avatar (second line) */
-.widget-github-repos .repo-owner-line {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    margin-bottom: 8px;
-    overflow: hidden;
-    min-width: 0;
-}
-
-.widget-github-repos .repo-owner-avatar {
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    object-fit: cover;
-    flex-shrink: 0;
-}
-
-.widget-github-repos .repo-owner {
-    color: #9ca3af;
-    font-size: 0.8rem;
-    font-weight: 400;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    flex: 1;
-    min-width: 0;
-}
-
-.widget-github-repos .repo-owner a {
-    color: #9ca3af;
-    text-decoration: none;
-}
-
-.widget-github-repos .repo-owner a:hover {
-    color: #238636;
-    text-decoration: underline;
-}
-
-.widget-github-repos .repo-description {
-    font-size: 0.72rem;
-    color: #9ca3af;
-    margin-bottom: 10px;
-    line-height: 1.4;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    flex: 1;
-}
-
-.widget-github-repos .repo-meta {
-    display: flex;
-    flex-direction: column;
-    gap: 4px;
-    font-size: 0.72rem;
-    color: #9ca3af;
-    margin-top: auto;
-}
-
-.widget-github-repos .repo-meta-line {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    flex-wrap: wrap;
-}
-
-.widget-github-repos .repo-meta-line.tags-line {
-    min-height: calc((0.7rem + 4px) * 2 + 4px);
-    max-height: calc((0.7rem + 4px) * 2 + 4px);
-    overflow: hidden;
-    align-items: flex-start;
-    row-gap: 4px;
-    column-gap: 8px;
-}
-
-.widget-github-repos .repo-meta-item {
-    display: flex;
-    align-items: center;
-    gap: 3px;
-    white-space: nowrap;
-}
-
-.widget-github-repos .repo-tag {
-    background: rgba(35, 134, 54, 0.15);
-    color: #238636;
-    padding: 2px 6px;
-    border-radius: 3px;
-    font-size: 0.7rem;
-    font-weight: 500;
-    line-height: 1;
-    display: inline-flex;
-    align-items: center;
-}
-
-.widget-github-repos .repo-stats {
-    color: #9ca3af;
-    font-weight: 500;
-}
-
-/* Mobile adjustments: more lines for better readability */
-@media (max-width: 768px) {
-    .widget-github-repos .repo-description {
-        -webkit-line-clamp: 4;
-        min-height: calc(0.72rem * 1.4 * 4);
-    }
-
-    .widget-github-repos .repo-tag {
-        padding: 4px 6px;
-    }
-
-    .widget-github-repos .repo-meta-line.tags-line {
-        min-height: calc((0.7rem + 8px) * 2 + 4px);
-        max-height: calc((0.7rem + 8px) * 2 + 4px);
-    }
-}
-</style>
-
-<div class="widget widget-github-repos widget-full">
-    <div class="widget-header">
-        <h3>GitHub Repos</h3>
-        <div style="font-size: 0.75rem; color: #9ca3af;">
-            "ai machine-learning llm" · Last 7 days
-        </div>
-    </div>
-    <div class="widget-body">
-        <div class="carousel-container">
-            <!-- Previous button -->
-            <button class="carousel-nav carousel-nav-prev" aria-label="Previous">
-                ◀
-            </button>
-
-            <!-- Carousel track -->
-            <div class="carousel-track" id="github-repos-carousel">
-                
-                <div class="carousel-card" onclick="window.open('https://github.com/rasbt/LLMs-from-scratch', '_blank')">
-                    <!-- Rich preview image (with fallback icon) -->
-                    <div class="repo-preview" style="background-image: url('https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a');"></div>
-
-                    <div class="repo-content">
-                        <!-- Repository name (first line after preview) -->
-                        <div class="repo-name">
-                            <a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank" onclick="event.stopPropagation();">
-                                LLMs-from-scratch
-                            </a>
-                        </div>
-
-                        <!-- Owner with avatar (second line) -->
-                        <div class="repo-owner-line">
-                            
-                            <img src="https://avatars.githubusercontent.com/u/5618407?v=4" alt="rasbt" class="repo-owner-avatar">
-                            
-                            <div class="repo-owner">
-                                <a href="https://github.com/rasbt" target="_blank" onclick="event.stopPropagation();">rasbt</a>
-                            </div>
-                        </div>
-
-                        <!-- Description -->
-                        
-                        <div class="repo-description">
-                            Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-                        </div>
-                        
-                    <div class="repo-meta">
-                        <div class="repo-meta-line tags-line">
-                            
-                            <span class="repo-tag">Jupyter Notebook</span>
-                            
-                            
-                            <span class="repo-tag">ai</span>
-                            
-                            <span class="repo-tag">artificial-intelligence</span>
-                            
-                            <span class="repo-tag">chatbot</span>
-                            
-                            <span class="repo-tag">chatgpt</span>
-                            
-                            <span class="repo-tag">deep-learning</span>
-                            
-                        </div>
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 79.2k</span>
-                            </div>
-                            <div class="repo-meta-item">
-                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
-                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-                                </svg>
-                                <span class="repo-stats">11.7k</span>
-                            </div>
-                        </div>
-                        
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2025-11-17T23:29:51Z"></span>
-                            </div>
-                        </div>
-                        
-                    </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://github.com/ray-project/ray', '_blank')">
-                    <!-- Rich preview image (with fallback icon) -->
-                    <div class="repo-preview" style="background-image: url('https://opengraph.githubassets.com/343125501f30e7e9a2b7f7bf08b26d759a792a6721777f088845d1b6a29f042d/ray-project/ray');"></div>
-
-                    <div class="repo-content">
-                        <!-- Repository name (first line after preview) -->
-                        <div class="repo-name">
-                            <a href="https://github.com/ray-project/ray" target="_blank" onclick="event.stopPropagation();">
-                                ray
-                            </a>
-                        </div>
-
-                        <!-- Owner with avatar (second line) -->
-                        <div class="repo-owner-line">
-                            
-                            <img src="https://avatars.githubusercontent.com/u/22125274?v=4" alt="ray-project" class="repo-owner-avatar">
-                            
-                            <div class="repo-owner">
-                                <a href="https://github.com/ray-project" target="_blank" onclick="event.stopPropagation();">ray-project</a>
-                            </div>
-                        </div>
-
-                        <!-- Description -->
-                        
-                        <div class="repo-description">
-                            Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-                        </div>
-                        
-                    <div class="repo-meta">
-                        <div class="repo-meta-line tags-line">
-                            
-                            <span class="repo-tag">Python</span>
-                            
-                            
-                            <span class="repo-tag">data-science</span>
-                            
-                            <span class="repo-tag">deep-learning</span>
-                            
-                            <span class="repo-tag">deployment</span>
-                            
-                            <span class="repo-tag">distributed</span>
-                            
-                            <span class="repo-tag">hyperparameter-optimization</span>
-                            
-                        </div>
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 40.0k</span>
-                            </div>
-                            <div class="repo-meta-item">
-                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
-                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-                                </svg>
-                                <span class="repo-stats">6.9k</span>
-                            </div>
-                        </div>
-                        
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2025-11-22T02:47:13Z"></span>
-                            </div>
-                        </div>
-                        
-                    </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://github.com/deepset-ai/haystack', '_blank')">
-                    <!-- Rich preview image (with fallback icon) -->
-                    <div class="repo-preview" style="background-image: url('https://repository-images.githubusercontent.com/221654678/1b75a35c-3d70-4dbe-bd6f-56fcc6c809e6');"></div>
-
-                    <div class="repo-content">
-                        <!-- Repository name (first line after preview) -->
-                        <div class="repo-name">
-                            <a href="https://github.com/deepset-ai/haystack" target="_blank" onclick="event.stopPropagation();">
-                                haystack
-                            </a>
-                        </div>
-
-                        <!-- Owner with avatar (second line) -->
-                        <div class="repo-owner-line">
-                            
-                            <img src="https://avatars.githubusercontent.com/u/51827949?v=4" alt="deepset-ai" class="repo-owner-avatar">
-                            
-                            <div class="repo-owner">
-                                <a href="https://github.com/deepset-ai" target="_blank" onclick="event.stopPropagation();">deepset-ai</a>
-                            </div>
-                        </div>
-
-                        <!-- Description -->
-                        
-                        <div class="repo-description">
-                            AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
-                        </div>
-                        
-                    <div class="repo-meta">
-                        <div class="repo-meta-line tags-line">
-                            
-                            <span class="repo-tag">MDX</span>
-                            
-                            
-                            <span class="repo-tag">agent</span>
-                            
-                            <span class="repo-tag">agents</span>
-                            
-                            <span class="repo-tag">ai</span>
-                            
-                            <span class="repo-tag">gemini</span>
-                            
-                            <span class="repo-tag">generative-ai</span>
-                            
-                        </div>
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 23.4k</span>
-                            </div>
-                            <div class="repo-meta-item">
-                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
-                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-                                </svg>
-                                <span class="repo-stats">2.5k</span>
-                            </div>
-                        </div>
-                        
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2025-11-21T15:55:28Z"></span>
-                            </div>
-                        </div>
-                        
-                    </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://github.com/patchy631/ai-engineering-hub', '_blank')">
-                    <!-- Rich preview image (with fallback icon) -->
-                    <div class="repo-preview" style="background-image: url('https://opengraph.githubassets.com/7ba9d881396e9ee2afa920112456cd490c07b40263b1246b147a6462200e3728/patchy631/ai-engineering-hub');"></div>
-
-                    <div class="repo-content">
-                        <!-- Repository name (first line after preview) -->
-                        <div class="repo-name">
-                            <a href="https://github.com/patchy631/ai-engineering-hub" target="_blank" onclick="event.stopPropagation();">
-                                ai-engineering-hub
-                            </a>
-                        </div>
-
-                        <!-- Owner with avatar (second line) -->
-                        <div class="repo-owner-line">
-                            
-                            <img src="https://avatars.githubusercontent.com/u/38653995?v=4" alt="patchy631" class="repo-owner-avatar">
-                            
-                            <div class="repo-owner">
-                                <a href="https://github.com/patchy631" target="_blank" onclick="event.stopPropagation();">patchy631</a>
-                            </div>
-                        </div>
-
-                        <!-- Description -->
-                        
-                        <div class="repo-description">
-                            In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-                        </div>
-                        
-                    <div class="repo-meta">
-                        <div class="repo-meta-line tags-line">
-                            
-                            <span class="repo-tag">Jupyter Notebook</span>
-                            
-                            
-                            <span class="repo-tag">agents</span>
-                            
-                            <span class="repo-tag">ai</span>
-                            
-                            <span class="repo-tag">llms</span>
-                            
-                            <span class="repo-tag">machine-learning</span>
-                            
-                            <span class="repo-tag">mcp</span>
-                            
-                        </div>
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 21.0k</span>
-                            </div>
-                            <div class="repo-meta-item">
-                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
-                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-                                </svg>
-                                <span class="repo-stats">3.5k</span>
-                            </div>
-                        </div>
-                        
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2025-11-20T16:50:45Z"></span>
-                            </div>
-                        </div>
-                        
-                    </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://github.com/huggingface/datasets', '_blank')">
-                    <!-- Rich preview image (with fallback icon) -->
-                    <div class="repo-preview" style="background-image: url('https://repository-images.githubusercontent.com/250213286/d6f09c00-7066-11eb-88ac-0b319e59658a');"></div>
-
-                    <div class="repo-content">
-                        <!-- Repository name (first line after preview) -->
-                        <div class="repo-name">
-                            <a href="https://github.com/huggingface/datasets" target="_blank" onclick="event.stopPropagation();">
-                                datasets
-                            </a>
-                        </div>
-
-                        <!-- Owner with avatar (second line) -->
-                        <div class="repo-owner-line">
-                            
-                            <img src="https://avatars.githubusercontent.com/u/25720743?v=4" alt="huggingface" class="repo-owner-avatar">
-                            
-                            <div class="repo-owner">
-                                <a href="https://github.com/huggingface" target="_blank" onclick="event.stopPropagation();">huggingface</a>
-                            </div>
-                        </div>
-
-                        <!-- Description -->
-                        
-                        <div class="repo-description">
-                            🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-                        </div>
-                        
-                    <div class="repo-meta">
-                        <div class="repo-meta-line tags-line">
-                            
-                            <span class="repo-tag">Python</span>
-                            
-                            
-                            <span class="repo-tag">ai</span>
-                            
-                            <span class="repo-tag">artificial-intelligence</span>
-                            
-                            <span class="repo-tag">computer-vision</span>
-                            
-                            <span class="repo-tag">dataset-hub</span>
-                            
-                            <span class="repo-tag">datasets</span>
-                            
-                        </div>
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 20.9k</span>
-                            </div>
-                            <div class="repo-meta-item">
-                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
-                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-                                </svg>
-                                <span class="repo-stats">3.0k</span>
-                            </div>
-                        </div>
-                        
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2025-11-21T12:31:18Z"></span>
-                            </div>
-                        </div>
-                        
-                    </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://github.com/arc53/DocsGPT', '_blank')">
-                    <!-- Rich preview image (with fallback icon) -->
-                    <div class="repo-preview" style="background-image: url('https://opengraph.githubassets.com/bfee89507fdc470a8078736e35de29d3918ecd47e350b3d0b2b757aaf0b2b0e2/arc53/DocsGPT');"></div>
-
-                    <div class="repo-content">
-                        <!-- Repository name (first line after preview) -->
-                        <div class="repo-name">
-                            <a href="https://github.com/arc53/DocsGPT" target="_blank" onclick="event.stopPropagation();">
-                                DocsGPT
-                            </a>
-                        </div>
-
-                        <!-- Owner with avatar (second line) -->
-                        <div class="repo-owner-line">
-                            
-                            <img src="https://avatars.githubusercontent.com/u/103419759?v=4" alt="arc53" class="repo-owner-avatar">
-                            
-                            <div class="repo-owner">
-                                <a href="https://github.com/arc53" target="_blank" onclick="event.stopPropagation();">arc53</a>
-                            </div>
-                        </div>
-
-                        <!-- Description -->
-                        
-                        <div class="repo-description">
-                            Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
-                        </div>
-                        
-                    <div class="repo-meta">
-                        <div class="repo-meta-line tags-line">
-                            
-                            <span class="repo-tag">Python</span>
-                            
-                            
-                            <span class="repo-tag">agent-builder</span>
-                            
-                            <span class="repo-tag">agents</span>
-                            
-                            <span class="repo-tag">ai</span>
-                            
-                            <span class="repo-tag">chatgpt</span>
-                            
-                            <span class="repo-tag">docsgpt</span>
-                            
-                        </div>
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 17.4k</span>
-                            </div>
-                            <div class="repo-meta-item">
-                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
-                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-                                </svg>
-                                <span class="repo-stats">1.9k</span>
-                            </div>
-                        </div>
-                        
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2025-11-20T20:13:03Z"></span>
-                            </div>
-                        </div>
-                        
-                    </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://github.com/stas00/ml-engineering', '_blank')">
-                    <!-- Rich preview image (with fallback icon) -->
-                    <div class="repo-preview" style="background-image: url('https://opengraph.githubassets.com/ebff81c5d7b91d0318ad54f3dcdb779c8a88da49a200569794194f876ba6d6e6/stas00/ml-engineering');"></div>
-
-                    <div class="repo-content">
-                        <!-- Repository name (first line after preview) -->
-                        <div class="repo-name">
-                            <a href="https://github.com/stas00/ml-engineering" target="_blank" onclick="event.stopPropagation();">
-                                ml-engineering
-                            </a>
-                        </div>
-
-                        <!-- Owner with avatar (second line) -->
-                        <div class="repo-owner-line">
-                            
-                            <img src="https://avatars.githubusercontent.com/u/10676103?v=4" alt="stas00" class="repo-owner-avatar">
-                            
-                            <div class="repo-owner">
-                                <a href="https://github.com/stas00" target="_blank" onclick="event.stopPropagation();">stas00</a>
-                            </div>
-                        </div>
-
-                        <!-- Description -->
-                        
-                        <div class="repo-description">
-                            Machine Learning Engineering Open Book
-                        </div>
-                        
-                    <div class="repo-meta">
-                        <div class="repo-meta-line tags-line">
-                            
-                            <span class="repo-tag">Python</span>
-                            
-                            
-                            <span class="repo-tag">ai</span>
-                            
-                            <span class="repo-tag">debugging</span>
-                            
-                            <span class="repo-tag">gpus</span>
-                            
-                            <span class="repo-tag">inference</span>
-                            
-                            <span class="repo-tag">large-language-models</span>
-                            
-                        </div>
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 15.8k</span>
-                            </div>
-                            <div class="repo-meta-item">
-                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
-                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-                                </svg>
-                                <span class="repo-stats">973</span>
-                            </div>
-                        </div>
-                        
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2025-11-21T20:02:49Z"></span>
-                            </div>
-                        </div>
-                        
-                    </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://github.com/neuml/txtai', '_blank')">
-                    <!-- Rich preview image (with fallback icon) -->
-                    <div class="repo-preview" style="background-image: url('https://repository-images.githubusercontent.com/286301447/6b79e721-de1e-4fd4-b264-0437e1cad8d8');"></div>
-
-                    <div class="repo-content">
-                        <!-- Repository name (first line after preview) -->
-                        <div class="repo-name">
-                            <a href="https://github.com/neuml/txtai" target="_blank" onclick="event.stopPropagation();">
-                                txtai
-                            </a>
-                        </div>
-
-                        <!-- Owner with avatar (second line) -->
-                        <div class="repo-owner-line">
-                            
-                            <img src="https://avatars.githubusercontent.com/u/59890304?v=4" alt="neuml" class="repo-owner-avatar">
-                            
-                            <div class="repo-owner">
-                                <a href="https://github.com/neuml" target="_blank" onclick="event.stopPropagation();">neuml</a>
-                            </div>
-                        </div>
-
-                        <!-- Description -->
-                        
-                        <div class="repo-description">
-                            💡 All-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows
-                        </div>
-                        
-                    <div class="repo-meta">
-                        <div class="repo-meta-line tags-line">
-                            
-                            <span class="repo-tag">Python</span>
-                            
-                            
-                            <span class="repo-tag">ai</span>
-                            
-                            <span class="repo-tag">artificial-intelligence</span>
-                            
-                            <span class="repo-tag">embeddings</span>
-                            
-                            <span class="repo-tag">information-retrieval</span>
-                            
-                            <span class="repo-tag">language-model</span>
-                            
-                        </div>
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 11.8k</span>
-                            </div>
-                            <div class="repo-meta-item">
-                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
-                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-                                </svg>
-                                <span class="repo-stats">758</span>
-                            </div>
-                        </div>
-                        
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2025-11-21T22:09:01Z"></span>
-                            </div>
-                        </div>
-                        
-                    </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://github.com/tensorzero/tensorzero', '_blank')">
-                    <!-- Rich preview image (with fallback icon) -->
-                    <div class="repo-preview" style="background-image: url('https://repository-images.githubusercontent.com/829640443/26b7c5c4-c12c-4e89-beaf-a4233f1dac87');"></div>
-
-                    <div class="repo-content">
-                        <!-- Repository name (first line after preview) -->
-                        <div class="repo-name">
-                            <a href="https://github.com/tensorzero/tensorzero" target="_blank" onclick="event.stopPropagation();">
-                                tensorzero
-                            </a>
-                        </div>
-
-                        <!-- Owner with avatar (second line) -->
-                        <div class="repo-owner-line">
-                            
-                            <img src="https://avatars.githubusercontent.com/u/148420822?v=4" alt="tensorzero" class="repo-owner-avatar">
-                            
-                            <div class="repo-owner">
-                                <a href="https://github.com/tensorzero" target="_blank" onclick="event.stopPropagation();">tensorzero</a>
-                            </div>
-                        </div>
-
-                        <!-- Description -->
-                        
-                        <div class="repo-description">
-                            TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-                        </div>
-                        
-                    <div class="repo-meta">
-                        <div class="repo-meta-line tags-line">
-                            
-                            <span class="repo-tag">Rust</span>
-                            
-                            
-                            <span class="repo-tag">ai</span>
-                            
-                            <span class="repo-tag">ai-engineering</span>
-                            
-                            <span class="repo-tag">anthropic</span>
-                            
-                            <span class="repo-tag">artificial-intelligence</span>
-                            
-                            <span class="repo-tag">deep-learning</span>
-                            
-                        </div>
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 10.6k</span>
-                            </div>
-                            <div class="repo-meta-item">
-                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
-                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-                                </svg>
-                                <span class="repo-stats">730</span>
-                            </div>
-                        </div>
-                        
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2025-11-22T03:11:53Z"></span>
-                            </div>
-                        </div>
-                        
-                    </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://github.com/Netflix/metaflow', '_blank')">
-                    <!-- Rich preview image (with fallback icon) -->
-                    <div class="repo-preview" style="background-image: url('https://repository-images.githubusercontent.com/209120637/00b39080-1ddc-11ea-8710-59b484540700');"></div>
-
-                    <div class="repo-content">
-                        <!-- Repository name (first line after preview) -->
-                        <div class="repo-name">
-                            <a href="https://github.com/Netflix/metaflow" target="_blank" onclick="event.stopPropagation();">
-                                metaflow
-                            </a>
-                        </div>
-
-                        <!-- Owner with avatar (second line) -->
-                        <div class="repo-owner-line">
-                            
-                            <img src="https://avatars.githubusercontent.com/u/913567?v=4" alt="Netflix" class="repo-owner-avatar">
-                            
-                            <div class="repo-owner">
-                                <a href="https://github.com/Netflix" target="_blank" onclick="event.stopPropagation();">Netflix</a>
-                            </div>
-                        </div>
-
-                        <!-- Description -->
-                        
-                        <div class="repo-description">
-                            Build, Manage and Deploy AI/ML Systems
-                        </div>
-                        
-                    <div class="repo-meta">
-                        <div class="repo-meta-line tags-line">
-                            
-                            <span class="repo-tag">Python</span>
-                            
-                            
-                            <span class="repo-tag">agents</span>
-                            
-                            <span class="repo-tag">ai</span>
-                            
-                            <span class="repo-tag">aws</span>
-                            
-                            <span class="repo-tag">azure</span>
-                            
-                            <span class="repo-tag">cost-optimization</span>
-                            
-                        </div>
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 9.6k</span>
-                            </div>
-                            <div class="repo-meta-item">
-                                <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
-                                    <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
-                                </svg>
-                                <span class="repo-stats">933</span>
-                            </div>
-                        </div>
-                        
-                        <div class="repo-meta-line">
-                            <div class="repo-meta-item">
-                                <span class="repo-age" data-timestamp="2025-11-22T01:44:27Z"></span>
-                            </div>
-                        </div>
-                        
-                    </div>
-                    </div>
-                </div>
-                
-
-                <!-- View All button at end of carousel -->
-                <div class="carousel-card" style="display: flex; align-items: center; justify-content: center; cursor: pointer; background: rgba(35, 134, 54, 0.05); border-color: #238636; width: 280px;"
-                     onclick="window.open('https://github.com/search?q=ai%20machine-learning%20llm%20pushed%3A%3E2025-11-15&type=repositories&s=stars&o=desc', '_blank')">
-                    <div style="text-align: center;">
-                        <svg height="48" width="48" viewBox="0 0 16 16" style="margin-bottom: 8px; fill: #238636;">
-                            <path d="M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 .27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z"></path>
-                        </svg>
-                        <div style="color: #238636; font-weight: 500; font-size: 0.9rem;">View All</div>
-                        <div style="color: #9ca3af; font-size: 0.75rem; margin-top: 4px;">on GitHub</div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Next button -->
-            <button class="carousel-nav carousel-nav-next" aria-label="Next">
-                ▶
-            </button>
-        </div>
-
-    </div>
-    <div class="widget-footer">
-        <small data-timestamp="2025-11-22T03:12:39.586860+00:00">Updated 2025-11-22T03:12:39.586860+00:00</small>
+        <small data-timestamp="2025-11-22T03:45:53.565380+00:00">Updated 2025-11-22T03:45:53.565380+00:00</small>
     </div>
 </div>
 
