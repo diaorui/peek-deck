@@ -59,13 +59,16 @@ jobs:
 
           # Create orphan branch with squashed old history
           git checkout --orphan data-new
-          git reset --hard $CUTOFF_COMMIT
 
-          # Amend to create single squashed commit for all old history
-          git commit --amend -m "Squashed old history (kept last $KEEP_COMMITS commits)" \
-                             -m "This commit represents all history before $CUTOFF_DATE" \
-                             -m "Original commit count: $(($TOTAL_COMMITS - $KEEP_COMMITS))" \
-                             -m "🤖 Auto-squashed by GitHub Actions"
+          # Copy the tree (files) from the cutoff commit
+          git rm -rf . 2>/dev/null || true
+          git checkout $CUTOFF_COMMIT -- . 2>/dev/null || true
+
+          # Create single squashed commit for all old history
+          git commit -m "Squashed old history (kept last $KEEP_COMMITS commits)" \
+                     -m "This commit represents all history before $CUTOFF_DATE" \
+                     -m "Original commit count: $(($TOTAL_COMMITS - $KEEP_COMMITS))" \
+                     -m "🤖 Auto-squashed by GitHub Actions"
 
           echo "✅ Created squashed base commit"
 
