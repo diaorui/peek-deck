@@ -15,42 +15,62 @@
       "description": "A new Gmail update may allow Google to use your private messages and attachments for AI training. Here's how to turn it off."
     },
     {
-      "headline": "The world\u2019s biggest company just told everyone to chill out",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QTnVBWkdqb0puUGF4X0YzQTN0cG9hWkxIdlNDaWFsdXFCSFJJR0lkenpaS3duQm8xN2JKSjFxbHhkbFQ4YUkxNFgzNkZ2ZG5BUjhlUmpRWnZndFNHS1FJR0FtQkVfbnFJdlpaYU9pUWl1a0dKMEE?oc=5",
-      "pub_date": 1763798458.0,
-      "article_url": "https://www.cnn.com/2025/11/22/tech/ai-bubble-fears-nvidia-earnings",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243374844.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Concerns about an AI bubble have been simmering for at least a year and a half. Nvidia\u2019s incredibly strong earnings this past week tried to put those fears to bed. It may not have been enough."
+      "headline": "Google denies \u2018misleading\u2019 reports of Gmail using your emails to train AI",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xVlpYakNRME82TU9pVDhKYk96a0hqSXcwbm5HNnJoMXFmVGRhRVJWMmduSDBRNy1oQ0NYN3V2SHlYTWN2bzZfZTRVbm8xNDFfRW10bmJkbllNamsxcEkxQVpST1dwS1p6Nl96SmZnamI0QjgyMmc?oc=5",
+      "pub_date": 1763647200.0,
+      "article_url": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK459_09.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "Google says \u201cwe do not use your Gmail content for training our Gemini AI model.\u201d"
+    },
+    {
+      "headline": "AI Christmas: The latest devices from Amazon, Meta, Google and more",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0huT2pGT2N3T1c3OGhoSHE1LU9vWGpCU2l4dmxkVHN4bVI3WE9vdGcweW85b3ozUUNkbVdKLXRBcVQ0RjZZbENTc01kMzdmQlhiem5CLU5KYmVvY1ZBN2F0YWhuQkN2Zy1TX1FyaExmQW0yeENpOXplVWRDMTd1WFJydHJoTEVuTXRhbzhRbGZXNTRxckJlRUpVUDg1MDJWd25V0gGoAUFVX3lxTE5DTnJJVHZQbjBLUTlkNjJuR0ltTlZnWi15SW5UTlNOc0o3Tk9SSHBxSFBEenhTNDdjemZSd1VRVWRpM0MtVlI2cC1mSG1XeUpqb2pmeDN6bnhrYVc5TDk5ZXp3cktkQ2JyS0FqNDdSelgwN08yejIxbmpfbDFPN2ZuQkRWUHVwc0ZlYVpSX3pCc2dUU3pXcDBiX2VLdE5ZNk5RNlpiQnlWNQ?oc=5",
+      "pub_date": 1763812801.0,
+      "article_url": "https://www.cnbc.com/2025/11/22/ai-christmas-the-latest-devices-from-amazon-meta-google-and-more.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108201534-1758314255913-gettyimages-2235445088-META_GLASSES.jpeg?v=1758314288&w=1920&h=1080",
+      "description": "This holiday shopping season features more advanced smart glasses, smart speakers with generative AI and a pendant users can wear to carry around an AI friend."
+    },
+    {
+      "headline": "Meet the AI workers who tell their friends and family to stay away from AI",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZlZFQmRtc0RLZlBDaG1uR2p3Sk5CUVRlWVZJR1lXaW5iLUNqZkNrN0p6dUVvdjNnbU5vSjBRLTBHWi1Yd2JzYmZUSmJBdzYwRUJuRHNaQXFnTGRscWRYSkR4ZEx3QmVMbmZiS3ZTZ05VcGF5VjhtTnJLNjZPUlF0VnNlNXUtQzh4LTY4?oc=5",
+      "pub_date": 1763820000.0,
+      "article_url": "https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away",
+      "image": "https://i.guim.co.uk/img/media/2103be8be876262394e303cf374938ad30d7fcdc/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=508e507d9631c2cd6d0b1ca7040762e0",
+      "description": "When the people making AI seem trustworthy are the ones who trust it the least, it shows that incentives for speed are overtaking safety, experts say"
+    },
+    {
+      "headline": "This week in AI: Brushing off new bubble warnings, Google\u2019s AI comeback and Nvidia\u2019s China threat",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSWlOVGlFVEtramM0VDlNSTlQMnpNYlVqdlB0N2xfNnk0UWVDN0dqRWp2RHhCWWl6bkd1LXd6NU0wTU5icThydHVPQUVxZXdoMkx1VTJGSUExdzQwZjBzQWVIOWtUMUVpdzlNZVQxQUdMSURuakozM3p1elQ5QS0yQXo1WWowQ2J3XzR0UjgxeVBacF9Ed25kamcyZmRTQzJSUUxr0gGoAUFVX3lxTE11dkZHeWtVOGFZaXdqYjJ2aUxmbmhXQk1CSzI3UkVSRXZnRmFTREhSd1hUbm9vdTd0WUxGWkdWZTc2cUx0dDlkRkp3WGhIVUJGVlpoLU5EVHVVdjFtUkVrMVkxMUcyQWlHSk1qN0VBdXphcU1Fc1lYSksyaTBjbVRKbFU4MFFqTTctOWc0eUphdUE2X1JWNDNsMFZ2YUt2ZGRlUzRKVFlvUw?oc=5",
+      "pub_date": 1763816401.0,
+      "article_url": "https://www.cnbc.com/2025/11/22/new-ai-bubble-warnings-googles-comeback-and-nvidias-china-threat.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108230121-1763752515282-deirdre1_new.png?v=1763752929&w=1920&h=1080",
+      "description": "This week, volatility took hold of the AI trade as bubble fears continued and Nvidia\u2019s blowout earnings failed to steady the market. Deirdre Bosa has the story."
+    },
+    {
+      "headline": "Nvidia CEO says the company is in a no-win situation amid AI-bubble chatter, leaked meeting reveals",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSmdXTEwwSTlSVktYNENIYXlXQVRwMl9FOUs3VmNsWWZablgtVUxFbk9mUjlVQ0U3bHpkR0RkUnlFclJQZ0JVM1ZlYnhRMXVZX1Qwdy16NkJCMUZ0cDNLdUJ1cnpXWnJqQVRseUd3SWpxQXdoNmllMjJkSFBVY2ZIdUtLaHlpWVBMLVRGVzVEZzlpQnh4ekZkYU5kMDNxc1oyNllRZ3k2MWdfdURqMEdjbUV3QVdLZkZfWG1XWFNVMWRldw?oc=5",
+      "pub_date": 1763763960.0,
+      "article_url": "https://fortune.com/2025/11/21/nvidia-ceo-jensen-huang-q3-earnings-beat-no-win-situation-ai-bubble-fears-nvda-stock-selloff/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2174947979-e1763747436953.jpg?resize=1200,600",
+      "description": "\u201cThe market did not appreciate our incredible quarter,\u201d Huang said."
     },
     {
       "headline": "Analysis | Are we in an AI bubble? Eight charts will help you decide.",
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRlR1cERFVGtXc2o1TDZZTkttSzNRTGtXYWNYU3ZON3BqQUhtRndtSklMR0dPeHJzd0VBMUhiSUJJakt2cjM3LU8zYlZMRVBDZDE5dVZ2dHJaejVoLXptbi1nMG84RUdocjZIUHFqR2VSQmgxRWhUVEg1VlcxSEI5emNLdU5CRTg?oc=5",
-      "pub_date": 1763827310.0,
+      "pub_date": 1763829782.0,
       "article_url": "https://www.washingtonpost.com/technology/2025/11/22/ai-bubble-economy-evidence/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The A.I. Boom Has Found Another Gear. Why Can\u2019t People Shake Their Worries?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNWE0MUtaUVMzaG1md1oxX1dkcmNjSTdaQjZxYWxaMHhPSXRhM0RKeXlZSjh1WUNyTnFXdURRaDFOcFdrS2pEbE9FbDQ4ZE96QVVZd2lLRktTUFJnNUFOb3E5aTVqMDlrYnc0VXNjYml0M2ktckZmSjVhbw?oc=5",
-      "pub_date": 1763674602.0,
-      "article_url": "https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "An MIT Student Awed Top Economists With His AI Study\u2014Then It All Fell Apart",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOVGprdDU2b3luV3phZ3FVRnp1YngxSzVNSEx3R0c5OHZJZjZVUVFQbE5RaVFUalZ4Y2wzaVZrdGxtTkJaZktOZzZ0WEtPTk9YTW1DWEZ2WG03U09hSU5LVWxXZ3ZTNzRlZGFGOHpWdnFaN1hneFlLeFpXazh3ZTl3REJhNzc4Zzg1dmFveGl2U3lJemdmd3p0MzBMQ2ZvQVBxTE1wdlJiTjlKZkNKSnRncWpZVXB3SHVLUldHRjFtNDZwemN1UnZCUTREc01mTGtZNTR4eHpqbm5QOEV4Rl9uOEFFbE1wa2haYWtFclA5NkxTS2F0NXQ1SG1XYk5rQzBDc21BSE9pcEZCNUJWX0NybFV3dzBoTE1fd1Y3RzloWkxBVHR2d1NqaGtjVW8wbGR5N3VfM3kxLVg1OEdBLTFjbkVxOEhBNHhGTWR0eHNSa0ZFVGE1a0FGOVNyVjFIeWc5dTZCcmtRUS1sdklNRzdfZlp3aWZZNVh0YXZSWl9jN3pxZw?oc=5",
-      "pub_date": 1763785863.0,
-      "article_url": "https://www.wsj.com/economy/aidan-toner-rodgers-mit-ai-research-78753243?gaa_at=eafs&gaa_n=AWEtsqcdvQmAAUSxjmUVmGg7ocmTqQdDMGKAUwmyFMW55OPI6jkk3EDUANOt&gaa_ts=6921e96b&gaa_sig=wltkXZ7Lf1Ue6U5UadgSSKC7aG6l2cKtlQSg5YUq5ODPYBcwdMI5ipiLESMImsIFs1kzbONzrwisdEgyGaksBg%3D%3D",
       "image": null,
       "description": null
     },
@@ -65,46 +85,26 @@
       "description": "The departure of Barak Turovsky marks the second defection of a Silicon Valley alum from General Motors in recent weeks."
     },
     {
-      "headline": "Elon Musk suggests AI will make work \u2018optional\u2019. These experts weigh in",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb0RMTWF0WVJNZUlKTzc1cXYtdmRaNlRDd0w3ZDhtU2VsZWVIbmpsbG95TUpTQnZ6WEVqbFRBV0dsc1hPY1dVS1lxeVZmUUlnUzFUajFrMmo1V1AwOG5FWUZSVHhXQzF6dGtHWlBQOTNVMnRleExSWUZILVI2OGpDX0lCc2UxVURLTXdrYzBXUlF3MGJYUEc1eVlkWU0xMEZDQWkwR21oR1dNMWFSUXpldA?oc=5",
-      "pub_date": 1763827293.0,
-      "article_url": "https://www.cnn.com/2025/11/22/world/video/elon-musk-suggests-ai-will-make-work-optional-these-experts-weigh-in",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2025-11-22-at-11-00-14-am.png?c=16x9&q=w_800,c_fill",
-      "description": "Will AI make work optional or just unrecognizable? Erik Hirsch and futurist Sinead Bovell break down what\u2019s realistic, what\u2019s hype, and how workers should prepare for a future where efficiency, automation, and market power collide."
+      "headline": "Is Micron Technology the Most Underrated Artificial Intelligence (AI) Play of the Decade?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYmZnTkVHb0txNkl4VWxpR2Uyd2pzVlY3RUpLajl3X1ZaVVB2LXkyeTNzR1E5azloU2E1WGNpdGxIbU9ScHc4QlpuVVVVc195aFhSYW9NUGdXeDVhaksyRnl4aDZOalE5OHlYenM3cXZ0Nm9yc1VjQUp3REs4NkJ0ZTVUc0VsM2VuWEp6RW1UUWQ4QS1J?oc=5",
+      "pub_date": 1763828040.0,
+      "article_url": "https://finance.yahoo.com/news/micron-technology-most-underrated-artificial-161400155.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/wMisHCiDc8PwWdVKTIsQCQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/c19c4726960dbf8ebeccfd78bcdea56b",
+      "description": "Shares of Micron have almost tripled so far this year, but its rally might still have a long way to go."
     },
     {
-      "headline": "The A.I. Boom Is Driving the Economy. What Happens if It Falters?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53TjY5S1gtRXRiN1MzZGU4ckFNcW16N1MtSHlkQzdIbTFHYU1XdE0tTGJFR2tBaFlCdnNTSkFreFUxNUowRW1VV0wyWDVHLVZhSi0wN29Td0pEMTNNVzZJbTJoY0hoYzhUUHpZWlh6QUx3cHVMNmVN?oc=5",
-      "pub_date": 1763805702.0,
-      "article_url": "https://www.nytimes.com/2025/11/22/business/the-ai-boom-economy.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Meet the AI workers who tell their friends and family to stay away from AI",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZlZFQmRtc0RLZlBDaG1uR2p3Sk5CUVRlWVZJR1lXaW5iLUNqZkNrN0p6dUVvdjNnbU5vSjBRLTBHWi1Yd2JzYmZUSmJBdzYwRUJuRHNaQXFnTGRscWRYSkR4ZEx3QmVMbmZiS3ZTZ05VcGF5VjhtTnJLNjZPUlF0VnNlNXUtQzh4LTY4?oc=5",
-      "pub_date": 1763820000.0,
-      "article_url": "https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away",
-      "image": "https://i.guim.co.uk/img/media/2103be8be876262394e303cf374938ad30d7fcdc/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=508e507d9631c2cd6d0b1ca7040762e0",
-      "description": "When the people making AI seem trustworthy are the ones who trust it the least, it shows that incentives for speed are overtaking safety, experts say"
-    },
-    {
-      "headline": "How can you tell if music is AI-generated?",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwaXZqTmZPVHpyUk9XQ05RNFc3WGtibG5hMkhsdzZjZWR0OVlONlZ0V0dYNXdEZnR4WFMwZ0JRUllmd3dRNklmUlhXZ1dIcldVcG95azVhZ1JaZw?oc=5",
-      "pub_date": 1763773640.0,
-      "article_url": "https://www.bbc.com/news/articles/c5ylzjj5wzwo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/05d8/live/7d040560-c6d3-11f0-a892-01d657345866.jpg",
-      "description": "As AI-generated music floods streaming platforms, questions bubble over whether listeners are owed more transparency."
+      "headline": "This AI shortcut for writing, editing, and more is only $25 for life",
+      "source": "SFGATE",
+      "source_url": "https://www.sfgate.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNkNfU0RwTzRaT3NKUVVDcFdhcUd6eGJURTJxQnVMZm1fRHhTOXJDUkw4V3BscENfSFhOSHBIRFJXZ284UFotbkk3VnFXSjcxdk9jZGljemFzZ196VUNYbEdKV3RtSDAyQ1FpZkFmRFlCejU4OXM3YmJYcGdlOThYX2FqVWJ3aE9wNWpZek95N3p4U0FZdlVfUmJn?oc=5",
+      "pub_date": 1763829952.0,
+      "article_url": "https://www.sfgate.com/shopping/article/1minai-ai-tool-lifetime-subscription-deal-21192058.php",
+      "image": "https://s.hdnux.com/photos/01/55/22/15/28648301/3/rawImage.jpg",
+      "description": "You can\u00a0grab the 1min.AI lifetime subscription\u00a0for $24.97 and start exploring everything it can do."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-22T16:34:04.107598+00:00"
+  "fetched_at": "2025-11-22T17:13:30.548541+00:00"
 }

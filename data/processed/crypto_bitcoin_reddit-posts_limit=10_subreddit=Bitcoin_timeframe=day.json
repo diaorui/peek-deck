@@ -14,17 +14,6 @@
       "description": null
     },
     {
-      "title": "My crystal ball just told me BTC will be back at 100k in mid-December.",
-      "author": "xSpAcEX7",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p3b3c8/my_crystal_ball_just_told_me_btc_will_be_back_at/",
-      "published": 1763760921.0,
-      "thumbnail": "https://preview.redd.it/yfi8irdrio2g1.gif?width=216&crop=smart&s=13b456b21214251a33ebb635a36bdf815ada221d",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Idk why you guys are panic selling\u2026 The orb has spoken. The prophecy is set. The candles will rise again."
-    },
-    {
       "title": "How was the moon ser?",
       "author": "bitcoin-machinegun",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p3n0qo/how_was_the_moon_ser/",
@@ -34,6 +23,17 @@
       "site_name": null,
       "favicon": null,
       "description": "xD"
+    },
+    {
+      "title": "My crystal ball just told me BTC will be back at 100k in mid-December.",
+      "author": "xSpAcEX7",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p3b3c8/my_crystal_ball_just_told_me_btc_will_be_back_at/",
+      "published": 1763760921.0,
+      "thumbnail": "https://preview.redd.it/yfi8irdrio2g1.gif?width=216&crop=smart&s=13b456b21214251a33ebb635a36bdf815ada221d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Idk why you guys are panic selling\u2026 The orb has spoken. The prophecy is set. The candles will rise again."
     },
     {
       "title": "Thanks for the extra ketchup packets Diamond Hands",
@@ -113,5 +113,5 @@
       "description": "And in debt \ud83d\ude43"
     }
   ],
-  "fetched_at": "2025-11-22T16:34:06.375443+00:00"
+  "fetched_at": "2025-11-22T17:13:33.261535+00:00"
 }

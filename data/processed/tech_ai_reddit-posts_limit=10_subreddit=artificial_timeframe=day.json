@@ -36,17 +36,6 @@
       "description": "Damm I'm surprised at how Gemini is getting really good. I was talking to Gemini for a long time and now it's past 12 and Gemini be saying it's late and maybe it's time to get off and rest."
     },
     {
-      "title": "Big tech's AI deals are creating one giant machine",
-      "author": "Appropriate-Soil-896",
-      "url": "https://www.reddit.com/r/artificial/comments/1p33rwn/big_techs_ai_deals_are_creating_one_giant_machine/",
-      "published": 1763743961.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Steven Levy argues in Wired that the artificial intelligence industry has evolved into a single interconnected entity\u2014dubbed \u201cthe Blob\u201d\u2014through a web of partnerships, investments, and cloud agreements among major players like Nvidia, Microsoft, Google, OpenAI, and Anthropic, despite originally being founded to prevent profit-driven control of AI. The recent Microsoft-Nvidia-Anthropic deal exemplifies this consolidation: Microsoft commits up to $5 billion to Anthropic (a competitor to its primary partner OpenAI), while Anthropic pledges $30 billion for Microsoft Azure computing power and Nvidia invests up to $10 billion in Anthropic in exchange for using Nvidia hardware\u2014creating what one CEO called \u201cone enormous circular machine for money and computing.\u201d OpenAI, which was established in 2015 as a nonprofit counterbalance to corporate AI development, now holds a valuation between $500 billion and $750 billion, with the U.S. government endorsing the industry\u2019s consolidation\u2014backed in part by foreign powers including Saudi Arabia and Abu Dhabi\u2014while antitrust regulators remain largely absent. Source: https://www.wired.com/story/ai-industry-monopoly-nvidia-microsoft-google/"
-    },
-    {
       "title": "So NotebookLLM got an update alongside Gemini 3",
       "author": "saggerk",
       "url": "https://www.reddit.com/r/artificial/comments/1p3dxhu/so_notebookllm_got_an_update_alongside_gemini_3/",
@@ -58,17 +47,6 @@
       "description": "Has anyone else tried it? You can create slide decks and infographics now, and the quality is really good. I'm excited for the day when PowerPoints will finally die."
     },
     {
-      "title": "When it comes to nuclear weapons and AI, people are worried about the wrong thing | Vox",
-      "author": "vox",
-      "url": "https://www.reddit.com/r/artificial/comments/1p35g1q/when_it_comes_to_nuclear_weapons_and_ai_people/",
-      "published": 1763747706.0,
-      "thumbnail": "https://external-preview.redd.it/EE0gdvYtx8KsU1RhZIrvof5OO8Itc75w2UHVoXkVAiE.jpeg?width=640&crop=smart&auto=webp&s=4be458364bca3ed2da65453d0b34a36f2d2f5e7b",
-      "external_url": "http://vox.com/politics/468720/nuclear-ai-command-control",
-      "site_name": "Vox",
-      "favicon": "http://vox.com/static-assets/icons/apple-touch-icon.png",
-      "description": "It\u2019s more subtle than Skynet."
-    },
-    {
       "title": "90% of Advice You Get Is Wrong: Here's What AI Can Do",
       "author": "TheMuseumOfScience",
       "url": "https://www.reddit.com/r/artificial/comments/1p3byhm/90_of_advice_you_get_is_wrong_heres_what_ai_can_do/",
@@ -78,6 +56,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Is the advice you receive from friends leading you in the wrong direction? Paul Allen, founder of Soar AI, believes that 90% of the advice we receive, even from the people closest to us, isn\u2019t actually right for us. It\u2019s shaped by their strengths, experiences, and perspective. But with AI and psychometric tools, we can map our own patterns of thinking, feeling, and behaving to get guidance that fits who we really are. The future of personal growth might begin with understanding your own mind on your terms."
+    },
+    {
+      "title": "When it comes to nuclear weapons and AI, people are worried about the wrong thing | Vox",
+      "author": "vox",
+      "url": "https://www.reddit.com/r/artificial/comments/1p35g1q/when_it_comes_to_nuclear_weapons_and_ai_people/",
+      "published": 1763747706.0,
+      "thumbnail": "https://external-preview.redd.it/EE0gdvYtx8KsU1RhZIrvof5OO8Itc75w2UHVoXkVAiE.jpeg?width=640&crop=smart&auto=webp&s=4be458364bca3ed2da65453d0b34a36f2d2f5e7b",
+      "external_url": "http://vox.com/politics/468720/nuclear-ai-command-control",
+      "site_name": "Vox",
+      "favicon": "http://vox.com/static-assets/icons/apple-touch-icon.png",
+      "description": "It\u2019s more subtle than Skynet."
     },
     {
       "title": "Science-centric streaming service Curiosity Stream is an AI-licensing firm now | Curiosity Stream\u2019s owner has more content for AI companies than it does for subscribers.",
@@ -111,7 +100,18 @@
       "site_name": null,
       "favicon": null,
       "description": "Currently, I use Chat and Claude and midjourney for all creative purposes, as well as research and non-creative blog outlining. But, what are the best AI models out there for creative writing/inspiration, static images, even app creation? I\u2019m not entirely new to AI/LLM\u2019s, as I adopted pretty early on, but just wondering if I\u2019m stuck in old habits"
+    },
+    {
+      "title": "Breaking: \"AI 2027\" creator admits it to be a nothing more than speculative conjecture (science fiction hogwash).",
+      "author": "creaturefeature16",
+      "url": "https://www.reddit.com/r/artificial/comments/1p3adzb/breaking_ai_2027_creator_admits_it_to_be_a/",
+      "published": 1763759235.0,
+      "thumbnail": "https://external-preview.redd.it/w3H7ww5Sgty0lnmqmzQyniau_4FYcACv4DIFUjHZ-fg.jpeg?width=640&crop=smart&auto=webp&s=9b5b495980486d493983055998b5315957aa7565",
+      "external_url": "https://garymarcus.substack.com/p/breaking-the-ai-2027-doomsday-scenario",
+      "site_name": "garymarcus.substack.com",
+      "favicon": null,
+      "description": "r/accelerate and r/singularity in complete shambles Who could have seen this coming (except every person with functioning common sense)??"
     }
   ],
-  "fetched_at": "2025-11-22T16:33:42.804003+00:00"
+  "fetched_at": "2025-11-22T17:13:13.578563+00:00"
 }
