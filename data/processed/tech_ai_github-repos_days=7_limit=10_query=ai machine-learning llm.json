@@ -8,7 +8,7 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
-      "stars": 79278,
+      "stars": 79280,
       "stars_display": "79.3k",
       "forks": 11765,
       "forks_display": "11.8k",
@@ -42,7 +42,7 @@
         "distributed",
         "hyperparameter-optimization"
       ],
-      "updated_at": "2025-11-22T13:00:50Z"
+      "updated_at": "2025-11-22T23:22:03Z"
     },
     {
       "full_name": "deepset-ai/haystack",
@@ -118,7 +118,7 @@
       "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
       "url": "https://github.com/arc53/DocsGPT",
       "preview_image": "https://opengraph.githubassets.com/61ec02b58d74110c5dfa77f8f5d07c3912915e330b28965ed442fec0b20290f1/arc53/DocsGPT",
-      "stars": 17387,
+      "stars": 17388,
       "stars_display": "17.4k",
       "forks": 1934,
       "forks_display": "1.9k",
@@ -226,5 +226,5 @@
   "days": 7,
   "limit": 10,
   "total_count": 238,
-  "fetched_at": "2025-11-22T22:26:31.692203+00:00"
+  "fetched_at": "2025-11-22T23:31:45.987642+00:00"
 }
