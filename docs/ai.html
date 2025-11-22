@@ -259,8 +259,6 @@
     .widget-reddit-posts .post-thumbnail {
         width: 100%;
         aspect-ratio: 2 / 1;
-        background-size: cover;
-        background-position: center;
         border-radius: 4px;
         margin-bottom: 10px;
         background-color: rgba(255, 255, 255, 0.03);
@@ -268,11 +266,26 @@
         align-items: center;
         justify-content: center;
         font-size: 3rem;
+        position: relative;
+        overflow: hidden;
     }
 
-    .widget-reddit-posts .post-thumbnail:not([style*="background-image"])::before {
+    .widget-reddit-posts .post-thumbnail img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 1;
+    }
+
+    /* Fallback icon - always shown by default */
+    .widget-reddit-posts .post-thumbnail::before {
         content: "💬";
         opacity: 0.3;
+        z-index: 0;
+        position: relative;
     }
 
     .widget-reddit-posts .post-content {
@@ -422,7 +435,11 @@
             <div class="carousel-track" id="reddit-carousel-artificial">
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p3d1xu/nvidia_ceo_says_ai_will_actually_make_everyone_a/', '_blank')">
-                    <div class="post-thumbnail" style="background-image: url('https://external-preview.redd.it/GmTAuuENFuuC2xI0HHOFHIPhhizioDBa9zmNTQJVrX4.jpeg?width=640&crop=smart&auto=webp&s=917d8a236b29d930fa8c8b82a32b9d7c7dfc2ac2'); background-size: cover; background-position: center;"></div>
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/GmTAuuENFuuC2xI0HHOFHIPhhizioDBa9zmNTQJVrX4.jpeg?width=640&crop=smart&auto=webp&s=917d8a236b29d930fa8c8b82a32b9d7c7dfc2ac2" alt="Nvidia CEO says AI will actually make everyone a lot busier: 'Everybody's jobs will be different' | Fortune" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
@@ -464,7 +481,11 @@
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p3g02m/judges_have_become_human_filters_as_ai_in/', '_blank')">
-                    <div class="post-thumbnail" style="background-image: url('https://external-preview.redd.it/GM82u5RSdPos-pvCkPc2wh6NvNJ7MhzYvC07r8ZKU2Y.jpeg?width=640&crop=smart&auto=webp&s=1616ec142c54722171ac5e3978354f20deaf8593'); background-size: cover; background-position: center;"></div>
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/GM82u5RSdPos-pvCkPc2wh6NvNJ7MhzYvC07r8ZKU2Y.jpeg?width=640&crop=smart&auto=webp&s=1616ec142c54722171ac5e3978354f20deaf8593" alt="Judges have become ‘human filters’ as AI in Australian courts reaches ‘unsustainable phase’, chief justice says | Australian law" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
@@ -506,7 +527,9 @@
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p3lew8/gemini_wanted_me_to_get_off_my_phone_and_sleep/', '_blank')">
-                    <div class="post-thumbnail" ></div>
+                    <div class="post-thumbnail">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
@@ -537,7 +560,9 @@
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p33rwn/big_techs_ai_deals_are_creating_one_giant_machine/', '_blank')">
-                    <div class="post-thumbnail" ></div>
+                    <div class="post-thumbnail">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
@@ -568,7 +593,9 @@
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p3dxhu/so_notebookllm_got_an_update_alongside_gemini_3/', '_blank')">
-                    <div class="post-thumbnail" ></div>
+                    <div class="post-thumbnail">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
@@ -599,7 +626,11 @@
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p35g1q/when_it_comes_to_nuclear_weapons_and_ai_people/', '_blank')">
-                    <div class="post-thumbnail" style="background-image: url('https://external-preview.redd.it/EE0gdvYtx8KsU1RhZIrvof5OO8Itc75w2UHVoXkVAiE.jpeg?width=640&crop=smart&auto=webp&s=4be458364bca3ed2da65453d0b34a36f2d2f5e7b'); background-size: cover; background-position: center;"></div>
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/EE0gdvYtx8KsU1RhZIrvof5OO8Itc75w2UHVoXkVAiE.jpeg?width=640&crop=smart&auto=webp&s=4be458364bca3ed2da65453d0b34a36f2d2f5e7b" alt="When it comes to nuclear weapons and AI, people are worried about the wrong thing | Vox" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
@@ -641,7 +672,11 @@
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p3byhm/90_of_advice_you_get_is_wrong_heres_what_ai_can_do/', '_blank')">
-                    <div class="post-thumbnail" style="background-image: url('https://external-preview.redd.it/NGJpdTd3a3lvbzJnMYAxEDRkljtmntP-lcgLbHBsuPUMxsADLLVJOx_mEVBw.png?width=640&crop=smart&auto=webp&s=cb4ae06afb3b7e61d9eb7c879c8010358a5020df'); background-size: cover; background-position: center;"></div>
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/NGJpdTd3a3lvbzJnMYAxEDRkljtmntP-lcgLbHBsuPUMxsADLLVJOx_mEVBw.png?width=640&crop=smart&auto=webp&s=cb4ae06afb3b7e61d9eb7c879c8010358a5020df" alt="90% of Advice You Get Is Wrong: Here's What AI Can Do" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
@@ -672,7 +707,11 @@
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p3jht0/sciencecentric_streaming_service_curiosity_stream/', '_blank')">
-                    <div class="post-thumbnail" style="background-image: url('https://external-preview.redd.it/pmvXWjmHY6BTQGiNveCSP1ur24V7NsuOFDvn0iz1Ewk.jpeg?width=640&crop=smart&auto=webp&s=88431f275a3c1339cca7c63e165d4a32fa4862cf'); background-size: cover; background-position: center;"></div>
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/pmvXWjmHY6BTQGiNveCSP1ur24V7NsuOFDvn0iz1Ewk.jpeg?width=640&crop=smart&auto=webp&s=88431f275a3c1339cca7c63e165d4a32fa4862cf" alt="Science-centric streaming service Curiosity Stream is an AI-licensing firm now | Curiosity Stream’s owner has more content for AI companies than it does for subscribers." onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
@@ -714,7 +753,11 @@
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p38wb4/will_the_ai_boom_continue/', '_blank')">
-                    <div class="post-thumbnail" style="background-image: url('https://external-preview.redd.it/ux8Yxx5yXm5dAn4Of5r-y2PweCOZAL9TghhJJ5eGxfM.jpeg?width=640&crop=smart&auto=webp&s=fd030dbead9e428e6291b80e607f22ac8a980e3e'); background-size: cover; background-position: center;"></div>
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/ux8Yxx5yXm5dAn4Of5r-y2PweCOZAL9TghhJJ5eGxfM.jpeg?width=640&crop=smart&auto=webp&s=fd030dbead9e428e6291b80e607f22ac8a980e3e" alt="Will the AI Boom Continue?" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
@@ -756,7 +799,9 @@
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1p37mdc/which_ai_is_best_for/', '_blank')">
-                    <div class="post-thumbnail" ></div>
+                    <div class="post-thumbnail">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->

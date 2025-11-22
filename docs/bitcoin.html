@@ -277,7 +277,7 @@
         </div>
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2025-11-22T16:34:05.013766+00:00">Updated 2025-11-22T16:34:05.013766+00:00</small>
+        <small data-timestamp="2025-11-22T16:40:31.541305+00:00">Updated 2025-11-22T16:40:31.541305+00:00</small>
     </div>
 </div>
         
@@ -1141,8 +1141,6 @@
     .widget-reddit-posts .post-thumbnail {
         width: 100%;
         aspect-ratio: 2 / 1;
-        background-size: cover;
-        background-position: center;
         border-radius: 4px;
         margin-bottom: 10px;
         background-color: rgba(255, 255, 255, 0.03);
@@ -1150,11 +1148,26 @@
         align-items: center;
         justify-content: center;
         font-size: 3rem;
+        position: relative;
+        overflow: hidden;
     }
 
-    .widget-reddit-posts .post-thumbnail:not([style*="background-image"])::before {
+    .widget-reddit-posts .post-thumbnail img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 1;
+    }
+
+    /* Fallback icon - always shown by default */
+    .widget-reddit-posts .post-thumbnail::before {
         content: "💬";
         opacity: 0.3;
+        z-index: 0;
+        position: relative;
     }
 
     .widget-reddit-posts .post-content {
@@ -1304,7 +1317,11 @@
             <div class="carousel-track" id="reddit-carousel-bitcoin">
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/Bitcoin/comments/1p36td6/at_least/', '_blank')">
-                    <div class="post-thumbnail" style="background-image: url('https://preview.redd.it/n7vlc48son2g1.jpeg?width=640&crop=smart&auto=webp&s=88b924e6bf61485a0ef64da9b6b762f491a661f0'); background-size: cover; background-position: center;"></div>
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/n7vlc48son2g1.jpeg?width=640&crop=smart&auto=webp&s=88b924e6bf61485a0ef64da9b6b762f491a661f0" alt="At least 🤷‍♂️" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
@@ -1331,7 +1348,11 @@
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/Bitcoin/comments/1p3b3c8/my_crystal_ball_just_told_me_btc_will_be_back_at/', '_blank')">
-                    <div class="post-thumbnail" style="background-image: url('https://preview.redd.it/yfi8irdrio2g1.gif?width=216&crop=smart&s=13b456b21214251a33ebb635a36bdf815ada221d'); background-size: cover; background-position: center;"></div>
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/yfi8irdrio2g1.gif?width=216&crop=smart&s=13b456b21214251a33ebb635a36bdf815ada221d" alt="My crystal ball just told me BTC will be back at 100k in mid-December." onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
@@ -1362,7 +1383,11 @@
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/Bitcoin/comments/1p3n0qo/how_was_the_moon_ser/', '_blank')">
-                    <div class="post-thumbnail" style="background-image: url('https://preview.redd.it/b3reota8er2g1.jpeg?width=640&crop=smart&auto=webp&s=dcff32d2986a52347af9ed7b0a705e19205f62c9'); background-size: cover; background-position: center;"></div>
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/b3reota8er2g1.jpeg?width=640&crop=smart&auto=webp&s=dcff32d2986a52347af9ed7b0a705e19205f62c9" alt="How was the moon ser?" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
@@ -1393,7 +1418,11 @@
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/Bitcoin/comments/1p3gqkf/thanks_for_the_extra_ketchup_packets_diamond_hands/', '_blank')">
-                    <div class="post-thumbnail" style="background-image: url('https://preview.redd.it/qtsoti7aqp2g1.jpeg?width=640&crop=smart&auto=webp&s=affee76cc75da6d9fa8b9c942bb1a62718935a37'); background-size: cover; background-position: center;"></div>
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/qtsoti7aqp2g1.jpeg?width=640&crop=smart&auto=webp&s=affee76cc75da6d9fa8b9c942bb1a62718935a37" alt="Thanks for the extra ketchup packets Diamond Hands" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
@@ -1420,7 +1449,11 @@
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/Bitcoin/comments/1p3d1q4/when_btc_dips_and_suddenly_the_wedding_becomes_q4/', '_blank')">
-                    <div class="post-thumbnail" style="background-image: url('https://external-preview.redd.it/Y2V2eDRmcXh3bzJnMafYyXFohqV-xOGa-PyH0LRAwHHxQh2UDxkKtLlalC0A.png?width=640&crop=smart&auto=webp&s=80f55078fbdca09b124efe0ea3dcc47b45551c8a'); background-size: cover; background-position: center;"></div>
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/Y2V2eDRmcXh3bzJnMafYyXFohqV-xOGa-PyH0LRAwHHxQh2UDxkKtLlalC0A.png?width=640&crop=smart&auto=webp&s=80f55078fbdca09b124efe0ea3dcc47b45551c8a" alt="When BTC dips and suddenly the wedding becomes Q4 2032" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
@@ -1447,7 +1480,11 @@
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/Bitcoin/comments/1p3p1yw/every_bitcoiner_reaction_right_now/', '_blank')">
-                    <div class="post-thumbnail" style="background-image: url('https://preview.redd.it/yoocf2hr1s2g1.jpeg?width=640&crop=smart&auto=webp&s=da6508ea0fc6e669ae46c61cbc8416d434c89cfc'); background-size: cover; background-position: center;"></div>
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/yoocf2hr1s2g1.jpeg?width=640&crop=smart&auto=webp&s=da6508ea0fc6e669ae46c61cbc8416d434c89cfc" alt="Every bitcoiner reaction right now:" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
@@ -1474,7 +1511,9 @@
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/Bitcoin/comments/1p3axvs/people_who_are_selling_right_now_really_do_not/', '_blank')">
-                    <div class="post-thumbnail" ></div>
+                    <div class="post-thumbnail">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
@@ -1505,7 +1544,11 @@
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/Bitcoin/comments/1p3av2c/well_well_well_looks_like_the_pump_is_on_next_week/', '_blank')">
-                    <div class="post-thumbnail" style="background-image: url('https://preview.redd.it/n84vj5a4ho2g1.jpeg?width=640&crop=smart&auto=webp&s=e28bf87f1c15b4866382b0d40b88cc7527bcb232'); background-size: cover; background-position: center;"></div>
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/n84vj5a4ho2g1.jpeg?width=640&crop=smart&auto=webp&s=e28bf87f1c15b4866382b0d40b88cc7527bcb232" alt="Well well well, looks like the pump is on next week 🚀🚀🚀" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
@@ -1532,7 +1575,9 @@
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/Bitcoin/comments/1p39u9c/why_is_everyone_selling_isnt_this_the_best_time/', '_blank')">
-                    <div class="post-thumbnail" ></div>
+                    <div class="post-thumbnail">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
@@ -1563,7 +1608,11 @@
                 </div>
                 
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/Bitcoin/comments/1p3o9r2/robert_kiyosaki_is_scam/', '_blank')">
-                    <div class="post-thumbnail" style="background-image: url('https://preview.redd.it/gm9t750ksr2g1.jpeg?width=640&crop=smart&auto=webp&s=d8c2074ffd3e3c8b4e5e6a2dd7e297bc26f4ca8c'); background-size: cover; background-position: center;"></div>
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://preview.redd.it/gm9t750ksr2g1.jpeg?width=640&crop=smart&auto=webp&s=d8c2074ffd3e3c8b4e5e6a2dd7e297bc26f4ca8c" alt="Robert Kiyosaki is scam" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
