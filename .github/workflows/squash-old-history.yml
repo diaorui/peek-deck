@@ -35,7 +35,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           # Count total commits on data branch
-          TOTAL_COMMITS=$(git rev-list --count data)
+          TOTAL_COMMITS=$(git rev-list --count refs/heads/data)
           KEEP_COMMITS=100
 
           echo "📊 Total commits on data branch: $TOTAL_COMMITS"
@@ -71,7 +71,7 @@ jobs:
 
           # Replay recent commits (last 100) on top of squashed base
           echo "🔄 Replaying last $KEEP_COMMITS commits..."
-          if git cherry-pick $CUTOFF_COMMIT..data; then
+          if git cherry-pick $CUTOFF_COMMIT..refs/heads/data; then
             echo "✅ Successfully replayed recent commits"
           else
             echo "❌ Cherry-pick failed - aborting squash"
@@ -101,7 +101,7 @@ jobs:
           # 1. Only affects 'data' branch (not 'main')
           # 2. Recent commits (last 100) are preserved exactly
           # 3. Update workflow only touches HEAD, which is unchanged
-          git push --force origin data
+          git push --force origin HEAD:refs/heads/data
 
           echo "✅ Successfully squashed old history on data branch"
           echo "📊 Repo size reduced - old commits removed"
