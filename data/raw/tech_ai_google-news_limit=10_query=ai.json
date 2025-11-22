@@ -15,6 +15,16 @@
       "description": "A new Gmail update may allow Google to use your private messages and attachments for AI training. Here's how to turn it off."
     },
     {
+      "headline": "Google denies \u2018misleading\u2019 reports of Gmail using your emails to train AI",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xVlpYakNRME82TU9pVDhKYk96a0hqSXcwbm5HNnJoMXFmVGRhRVJWMmduSDBRNy1oQ0NYN3V2SHlYTWN2bzZfZTRVbm8xNDFfRW10bmJkbllNamsxcEkxQVpST1dwS1p6Nl96SmZnamI0QjgyMmc?oc=5",
+      "pub_date": 1763647200.0,
+      "article_url": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK459_09.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "Google says \u201cwe do not use your Gmail content for training our Gemini AI model.\u201d"
+    },
+    {
       "headline": "Google must double AI serving capacity every 6 months to meet demand, AI infrastructure boss tells employees",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -23,16 +33,6 @@
       "article_url": "https://www.cnbc.com/2025/11/21/google-must-double-ai-serving-capacity-every-6-months-to-meet-demand.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108023895-1724280070456-amin.jpg?v=1724280282&w=1920&h=1080",
       "description": "At a recent all-hands meeting, Google's head of AI infrastructure said the company has to race to build out compute capacity."
-    },
-    {
-      "headline": "What Gemini features you get with Google AI Pro and AI Ultra [November 2025]",
-      "source": "9to5Google",
-      "source_url": "https://9to5google.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wSEQ2TVh0OWFOYkwtaERYcVFVRGNaa1czLS0xMlFKX21QSUxCY2kxTlV2Q29UVWlKRlNyNVk4eWNrRk9zbzZoTWNvYnFaME1hNGdUOGRWZVo5V3RCRnAzV0pCcS1zdUhKal9RMVVEREk?oc=5",
-      "pub_date": 1763839740.0,
-      "article_url": "https://9to5google.com/2025/11/22/google-ai-pro-ultra-features/",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Google-One-AI-plans.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "description": "At I/O 2025, Google One AI Premium (and Gemini Advanced) became Google AI Pro, while a more expensive tier was introduced with AI Ultra."
     },
     {
       "headline": "The A.I. Boom Is Driving the Economy. What Happens if It Falters?",
@@ -55,14 +55,24 @@
       "description": "When the people making AI seem trustworthy are the ones who trust it the least, it shows that incentives for speed are overtaking safety, experts say"
     },
     {
-      "headline": "This week in AI: Brushing off new bubble warnings, Google\u2019s AI comeback and Nvidia\u2019s China threat",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSWlOVGlFVEtramM0VDlNSTlQMnpNYlVqdlB0N2xfNnk0UWVDN0dqRWp2RHhCWWl6bkd1LXd6NU0wTU5icThydHVPQUVxZXdoMkx1VTJGSUExdzQwZjBzQWVIOWtUMUVpdzlNZVQxQUdMSURuakozM3p1elQ5QS0yQXo1WWowQ2J3XzR0UjgxeVBacF9Ed25kamcyZmRTQzJSUUxr0gGoAUFVX3lxTE11dkZHeWtVOGFZaXdqYjJ2aUxmbmhXQk1CSzI3UkVSRXZnRmFTREhSd1hUbm9vdTd0WUxGWkdWZTc2cUx0dDlkRkp3WGhIVUJGVlpoLU5EVHVVdjFtUkVrMVkxMUcyQWlHSk1qN0VBdXphcU1Fc1lYSksyaTBjbVRKbFU4MFFqTTctOWc0eUphdUE2X1JWNDNsMFZ2YUt2ZGRlUzRKVFlvUw?oc=5",
-      "pub_date": 1763816401.0,
-      "article_url": "https://www.cnbc.com/2025/11/22/new-ai-bubble-warnings-googles-comeback-and-nvidias-china-threat.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108230121-1763752515282-deirdre1_new.png?v=1763752929&w=1920&h=1080",
-      "description": "This week, volatility took hold of the AI trade as bubble fears continued and Nvidia\u2019s blowout earnings failed to steady the market. Deirdre Bosa has the story."
+      "headline": "The world\u2019s biggest company just told everyone to chill out",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QTnVBWkdqb0puUGF4X0YzQTN0cG9hWkxIdlNDaWFsdXFCSFJJR0lkenpaS3duQm8xN2JKSjFxbHhkbFQ4YUkxNFgzNkZ2ZG5BUjhlUmpRWnZndFNHS1FJR0FtQkVfbnFJdlpaYU9pUWl1a0dKMEE?oc=5",
+      "pub_date": 1763798458.0,
+      "article_url": "https://www.cnn.com/2025/11/22/tech/ai-bubble-fears-nvidia-earnings",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243374844.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Concerns about an AI bubble have been simmering for at least a year and a half. Nvidia\u2019s incredibly strong earnings this past week tried to put those fears to bed. It may not have been enough."
+    },
+    {
+      "headline": "An A.I. Toy Bear Speaks of Sex, Knives and Pills, a Consumer Group Warns",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU0R4REIxOHN4RjJXaWpGVHJKOGRqd1BoOHFhMWwydS10RlRhZVFXaUp3TlVVSk1qUVo3SmQ5OEY5LUcwRnBwWHlQR3hYWUtHcms2c0ZxUW5LYmppN3F3aThGdUFHdmhaMU5VTFZrZGJyalEya1dWVXg3MHVUUkFOdFpUT0pncDlkRFRPdA?oc=5",
+      "pub_date": 1763845846.0,
+      "article_url": "https://www.nytimes.com/2025/11/22/us/folotoy-ai-bear-suspended-explicit-advice.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics",
@@ -75,16 +85,6 @@
       "description": "\u201cIt\u2019ll be like playing sports or a video game or something like that,\u201d the Tesla CEO said."
     },
     {
-      "headline": "An MIT Student Awed Top Economists With His AI Study\u2014Then It All Fell Apart",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOcXluUWxTQTNJNllxSTc2UzRua3dEc3FuZk9zUFlWRWFJRmhxa3Q2M2xPanI0elhBeWktX21pM2MxYXBJNFlJWXNiaV9qcTNLZ0djMmI2TE5kLUtaUk1MMlNIanlpdExUcXAwWTMtNDZpZy14VUstampETDc3Ym9XT0V5WnZUdUliZVZuYW5sOWFlWnVsblBMekhieVU3aUdfUmxjNDZhRmRsYUNCUEhJNzdKcXpKM09PY3JkXzhrc1JaX3lUZkd5bE1vbWw1VzNFR0RpZVVaRUhUdHhBeW1TUlJJLTh0WFBkQnhwcVI5M0RyeGRNRmZXU2w3THl2czlqOTlzc1pyX1R5QWV1LUNDcWU2UXlMTlhVSHpmNVdMQm1YRHlXZ0RfZDN6bWZSYldpbGpJQVRuNjNJak1nUnJBcmh4N2RLU0lVNWlNSjYwb2JSQnV6TE9UWHI4Sm1nMVBEMkxsa0JDRExnVV95YU8yUkhoeGtidEFrVG1VekJCaXpHdw?oc=5",
-      "pub_date": 1763770572.0,
-      "article_url": "https://www.wsj.com/economy/aidan-toner-rodgers-mit-ai-research-78753243?gaa_at=eafs&gaa_n=AWEtsqezOsBr9Opieo8R5LGy6xvLbLaZMigObl5CKvYv50XJlk-bcPKLU9rG&gaa_ts=69222288&gaa_sig=ZKTbUlPcm3uG9iCrz3ww8A1MBiSrAM6tyF0obdrapo7RTQTK1SienNN6xQ07iMxvUl4Ks8Dem7e702XFsn04eQ%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "How can you tell if music is AI-generated?",
       "source": "BBC",
       "source_url": "https://www.bbc.com",
@@ -95,16 +95,16 @@
       "description": "As AI-generated music floods streaming platforms, questions bubble over whether listeners are owed more transparency."
     },
     {
-      "headline": "AI's listening gap is fueling bias in jobs, schools and health care",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtVWhnR3F0bmIzaVBuMjFTMVJkQVViX25tUDZBMEF6MnRjNGRDTHM0eFJxbHhTZVF6UXFRUzg2SHM4eUpoNEpDWGZNYy1pZTkzV0ZBaFBxelNSNmxjSFNYb0MzbHNHdFRfcTRjQUFRLXo?oc=5",
-      "pub_date": 1763817711.0,
-      "article_url": "https://www.axios.com/2025/11/22/ai-accents-chatgpt-jobs-health",
+      "headline": "An MIT Student Awed Top Economists With His AI Study\u2014Then It All Fell Apart",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPMXVwLXBzbEFtWm80VmphZ2QxdVFkRHpvQ0RDSEZ2aF9tajBPNWV4QlluRk55SWlfTFd4QmRhOThkd0RHVWhfUnhZMmJPODR1TU5rb3MxU2F0MEVpR3B2MlBxU2RKMmw3bHptaW8wVEQyTHNYUDg4OWw1WlBTUllRLW9FQ1NiSGx4QnJVVmtTekNNSnZKS1d2WHFOSDgtdlZhaWp3dmpKOWRRWTM0N3RiRlJydWpQcDdZbDRuS1k4V3RaaFdkakVSM0NSdW5zWUxULUcwaFRpVDgtRnJNakRJUy1OajlmY1ZCRTYzWFVqNjYxbnltSVdzNjhhTl9GbUlsaXIwb2xGcmt5MVp6YkpSOUtaeHpqa2RsUXBKX0N3S1BBY2ViaUdOR28zaFNKem8takVmSVJQM2c2SjlUODNqcFpUWjROdGFVeGtoWk5yeTNYWTAxX0czNWd1cnhxaGJNRE13UVkzVFZzNHhoQndybFV2QnpYUThEYkp4djVGODVHQQ?oc=5",
+      "pub_date": 1763770572.0,
+      "article_url": "https://www.wsj.com/economy/aidan-toner-rodgers-mit-ai-research-78753243?gaa_at=eafs&gaa_n=AWEtsqfkpfrF1nNafcpimPFKJuhUjnqIMvOsZkn6tBEVjxSAzJvsWFsv1GSg&gaa_ts=69222d7a&gaa_sig=gCqJYcRIi3rkEPu0o8irRLr5Pstx9pNXem2q6AJmaLPEZKMTsbqrFPYOJnVwnzVpUUdUO3sI3_DLLkgzrRnVJg%3D%3D",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-22T20:37:43.004013+00:00"
+  "fetched_at": "2025-11-22T21:24:28.339663+00:00"
 }
