@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/tencent/HunyuanVideo-1.5.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png",
       "downloads": 243,
-      "likes": 460,
+      "likes": 463,
       "pipeline_tag": "text-to-video",
       "num_parameters": null,
       "last_modified": "2025-11-21T07:35:32.000Z"
@@ -142,5 +142,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-11-22T13:42:45.292046+00:00"
+  "fetched_at": "2025-11-22T14:13:46.887417+00:00"
 }

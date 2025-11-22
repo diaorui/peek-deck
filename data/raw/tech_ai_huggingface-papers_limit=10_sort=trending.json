@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 40,
+      "upvotes": 41,
       "num_comments": 2,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
-      "github_stars": 2863,
+      "github_stars": 3015,
       "project_page": "https://ai.meta.com/sam3d/"
     },
     {
@@ -153,25 +153,6 @@
       "project_page": "https://fapo-rl.github.io/"
     },
     {
-      "id": "2511.16518",
-      "title": "MiMo-Embodied: X-Embodied Foundation Model Technical Report",
-      "authors": "Xiaoshuai Hao, Lei Zhou, Zhijian Huang et al. (44 authors)",
-      "organization_name": "XiaomiMiMo",
-      "organization_fullname": "Xiaomi MiMo",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/680cb7d1233834890a64acee/6w2qX9u28SPLL11os2Y9C.png",
-      "summary": "We open-source MiMo-Embodied, the first cross-embodied foundation model to successfully integrate and achieve state-of-the-art performance in both Autonomous Driving and Embodied AI. MiMo-Embodied sets new records across 17 embodied AI benchmarks in Task Planning, Affordance Prediction and Spatial Understanding, while also excelling in 12 autonomous driving benchmarks across Environmental Perception, Status Prediction, and Driving Planning. Across these tasks, MiMo-Embodied significantly outperforms existing open-source, closed-source, and specialized baselines. Our results indicate that through multi-stage learning, curated data construction, and CoT/RL fine-tuning, these two domains exhibit strong positive transfer and mutually reinforce one another. We provide a detailed analysis of our model design and training methodologies to facilitate further research. Code and models are available at https://github.com/XiaomiMiMo/MiMo-Embodied.",
-      "ai_summary": "MiMo-Embodied, a cross-embodied foundation model, achieves state-of-the-art performance in both autonomous driving and embodied AI through multi-stage learning, curated data, and CoT/RL fine-tuning.",
-      "hf_url": "https://huggingface.co/papers/2511.16518",
-      "arxiv_url": "https://arxiv.org/abs/2511.16518",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16518.png",
-      "upvotes": 19,
-      "num_comments": 2,
-      "published_at": "2025-11-20T11:34:55.000Z",
-      "github_repo": "https://github.com/XiaomiMiMo/MiMo-Embodied",
-      "github_stars": 74,
-      "project_page": null
-    },
-    {
       "id": "2511.16317",
       "title": "NaTex: Seamless Texture Generation as Latent Color Diffusion",
       "authors": "Zeqiang Lai, Yunfei Zhao, Zibo Zhao et al. (8 authors)",
@@ -189,9 +170,28 @@
       "github_repo": "https://github.com/Zeqiang-Lai/NaTex",
       "github_stars": 52,
       "project_page": "https://natex-ldm.github.io/"
+    },
+    {
+      "id": "2511.16518",
+      "title": "MiMo-Embodied: X-Embodied Foundation Model Technical Report",
+      "authors": "Xiaoshuai Hao, Lei Zhou, Zhijian Huang et al. (44 authors)",
+      "organization_name": "XiaomiMiMo",
+      "organization_fullname": "Xiaomi MiMo",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/680cb7d1233834890a64acee/6w2qX9u28SPLL11os2Y9C.png",
+      "summary": "We open-source MiMo-Embodied, the first cross-embodied foundation model to successfully integrate and achieve state-of-the-art performance in both Autonomous Driving and Embodied AI. MiMo-Embodied sets new records across 17 embodied AI benchmarks in Task Planning, Affordance Prediction and Spatial Understanding, while also excelling in 12 autonomous driving benchmarks across Environmental Perception, Status Prediction, and Driving Planning. Across these tasks, MiMo-Embodied significantly outperforms existing open-source, closed-source, and specialized baselines. Our results indicate that through multi-stage learning, curated data construction, and CoT/RL fine-tuning, these two domains exhibit strong positive transfer and mutually reinforce one another. We provide a detailed analysis of our model design and training methodologies to facilitate further research. Code and models are available at https://github.com/XiaomiMiMo/MiMo-Embodied.",
+      "ai_summary": "MiMo-Embodied, a cross-embodied foundation model, achieves state-of-the-art performance in both autonomous driving and embodied AI through multi-stage learning, curated data, and CoT/RL fine-tuning.",
+      "hf_url": "https://huggingface.co/papers/2511.16518",
+      "arxiv_url": "https://arxiv.org/abs/2511.16518",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16518.png",
+      "upvotes": 19,
+      "num_comments": 2,
+      "published_at": "2025-11-20T11:34:55.000Z",
+      "github_repo": "https://github.com/XiaomiMiMo/MiMo-Embodied",
+      "github_stars": 89,
+      "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-22T13:01:57.433250+00:00"
+  "fetched_at": "2025-11-22T14:13:46.812103+00:00"
 }
