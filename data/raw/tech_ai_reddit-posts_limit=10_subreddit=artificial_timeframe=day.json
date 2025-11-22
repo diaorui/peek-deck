@@ -58,15 +58,15 @@
       "description": "Stephen Gageler warns the speed of AI\u2019s development could be outstripping people\u2019s ability to \u2018comprehend its potential risks and rewards\u2019"
     },
     {
-      "title": "90% of Advice You Get Is Wrong: Here's What AI Can Do",
-      "author": "TheMuseumOfScience",
-      "url": "https://www.reddit.com/r/artificial/comments/1p3byhm/90_of_advice_you_get_is_wrong_heres_what_ai_can_do/",
-      "published": 1763763024.0,
-      "thumbnail": "https://external-preview.redd.it/NGJpdTd3a3lvbzJnMYAxEDRkljtmntP-lcgLbHBsuPUMxsADLLVJOx_mEVBw.png?width=640&crop=smart&auto=webp&s=cb4ae06afb3b7e61d9eb7c879c8010358a5020df",
+      "title": "Gemini wanted me to get off my phone and sleep because it was too late.",
+      "author": "RomanceAnimeAddict67",
+      "url": "https://www.reddit.com/r/artificial/comments/1p3lew8/gemini_wanted_me_to_get_off_my_phone_and_sleep/",
+      "published": 1763789974.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Is the advice you receive from friends leading you in the wrong direction? Paul Allen, founder of Soar AI, believes that 90% of the advice we receive, even from the people closest to us, isn\u2019t actually right for us. It\u2019s shaped by their strengths, experiences, and perspective. But with AI and psychometric tools, we can map our own patterns of thinking, feeling, and behaving to get guidance that fits who we really are. The future of personal growth might begin with understanding your own mind on your terms."
+      "description": "Damm I'm surprised at how Gemini is getting really good. I was talking to Gemini for a long time and now it's past 12 and Gemini be saying it's late and maybe it's time to get off and rest."
     },
     {
       "title": "Big tech's AI deals are creating one giant machine",
@@ -78,6 +78,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Steven Levy argues in Wired that the artificial intelligence industry has evolved into a single interconnected entity\u2014dubbed \u201cthe Blob\u201d\u2014through a web of partnerships, investments, and cloud agreements among major players like Nvidia, Microsoft, Google, OpenAI, and Anthropic, despite originally being founded to prevent profit-driven control of AI. The recent Microsoft-Nvidia-Anthropic deal exemplifies this consolidation: Microsoft commits up to $5 billion to Anthropic (a competitor to its primary partner OpenAI), while Anthropic pledges $30 billion for Microsoft Azure computing power and Nvidia invests up to $10 billion in Anthropic in exchange for using Nvidia hardware\u2014creating what one CEO called \u201cone enormous circular machine for money and computing.\u201d OpenAI, which was established in 2015 as a nonprofit counterbalance to corporate AI development, now holds a valuation between $500 billion and $750 billion, with the U.S. government endorsing the industry\u2019s consolidation\u2014backed in part by foreign powers including Saudi Arabia and Abu Dhabi\u2014while antitrust regulators remain largely absent. Source: https://www.wired.com/story/ai-industry-monopoly-nvidia-microsoft-google/"
+    },
+    {
+      "title": "90% of Advice You Get Is Wrong: Here's What AI Can Do",
+      "author": "TheMuseumOfScience",
+      "url": "https://www.reddit.com/r/artificial/comments/1p3byhm/90_of_advice_you_get_is_wrong_heres_what_ai_can_do/",
+      "published": 1763763024.0,
+      "thumbnail": "https://external-preview.redd.it/NGJpdTd3a3lvbzJnMYAxEDRkljtmntP-lcgLbHBsuPUMxsADLLVJOx_mEVBw.png?width=640&crop=smart&auto=webp&s=cb4ae06afb3b7e61d9eb7c879c8010358a5020df",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Is the advice you receive from friends leading you in the wrong direction? Paul Allen, founder of Soar AI, believes that 90% of the advice we receive, even from the people closest to us, isn\u2019t actually right for us. It\u2019s shaped by their strengths, experiences, and perspective. But with AI and psychometric tools, we can map our own patterns of thinking, feeling, and behaving to get guidance that fits who we really are. The future of personal growth might begin with understanding your own mind on your terms."
     },
     {
       "title": "When it comes to nuclear weapons and AI, people are worried about the wrong thing | Vox",
@@ -100,18 +111,7 @@
       "site_name": "Scientific American",
       "favicon": "https://www.scientificamerican.com/static/favicon.ico",
       "description": "A new report from OpenAI and a group of outside scientists shows how GPT-5, the company\u2019s latest AI large language model (LLM), can help with research from black holes to cancer\u2011fighting cells to math puzzles."
-    },
-    {
-      "title": "Science-centric streaming service Curiosity Stream is an AI-licensing firm now | Curiosity Stream\u2019s owner has more content for AI companies than it does for subscribers.",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1p3jht0/sciencecentric_streaming_service_curiosity_stream/",
-      "published": 1763783758.0,
-      "thumbnail": "https://external-preview.redd.it/pmvXWjmHY6BTQGiNveCSP1ur24V7NsuOFDvn0iz1Ewk.jpeg?width=640&crop=smart&auto=webp&s=88431f275a3c1339cca7c63e165d4a32fa4862cf",
-      "external_url": "https://arstechnica.com/gadgets/2025/11/curiosity-stream-expects-to-make-most-of-its-money-from-ai-deals-by-2027/",
-      "site_name": "Ars Technica",
-      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
-      "description": "Curiosity Stream\u2019s owner has more content for AI companies than it does for subscribers."
     }
   ],
-  "fetched_at": "2025-11-22T05:48:36.006149+00:00"
+  "fetched_at": "2025-11-22T06:37:20.458394+00:00"
 }

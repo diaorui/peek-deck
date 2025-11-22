@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Price: Why Cryptos Keep Dropping\u2014and Whether the Crash Will Continue",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPSXUxaEpqQV96ZXp4ZHQ1YmxGaDhFVElLSWNreXFlNi12YWMwYlZBWTM5UnJwOU1IU0hfOWZtQlc3VnFYTVdPZVFjMVF0OUgzM1YtZThodVZqeTlYanhVSnM1V0RYRGh1YTZtcEJnaUdOQzNDTWU0b3ExWUowSnJETzlIbWtGNFBQLThiZDd1Ti1BclFsS243b0JsZk5oTEVva3loTDB4ZUw4bm1ha1lFZ1FKZFA4aFFDdU1ad2poenEzbHpvYUQydURvRGRCNWJWUzl0cnBPbGpsOUF0MGNMeEFUa2JVb05OdDBJN3BQSFF6Ymo0X080Y0Y5NkRGcTNEVUcxRkN3Mk90di15V3h1WWZDY2VhZF9HVXpRTnFfdmd0NXZEVklaSTdaT3VEZ05FazZlVHhBSy1rWVU5ZUNrZXhoSzhjR0ZIREtTNl9RNjVycEZ0QndiMWVWUXVJVFVEcGYwMFB1RlhZUDFVTkQycjY0YnlveTM1TkxOOFI0OVpUTU5IbVE?oc=5",
-      "pub_date": 1763763780.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-crash-today-cryptos-813c62c6?gaa_at=eafs&gaa_n=AWEtsqdZVs8A2wX4rYmxkepSZZjZJgwYo4g-A7Vq5EpMay2hhWApLqzNDHq0&gaa_ts=69215248&gaa_sig=ekPcsjRRPXf7JY8_NU5EmT0P6ymN2ZooFbkxOMKyRpNrAcBQLj3NQyE4PAeefQtgN5Kt8LTkx_nC7GqBJCm9JQ%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin Plunge Hits Market Makers in a Fragile Trading Landscape",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGVjT0JSTXBhMEFvTUlFd2VNWUxPMXhTeHpSQU9OOERucGs1Ykd0dnZBVWRma3BwZXpMZl9Hc2FHWWVYUVk4U2hEblhMTWpVUXVxTjhtTnRjbU9rX3FmRWE0ejE0bFhiby11N2lYS0pjRHJmQlR4R3Fycm5MWC1xSzA3SzRNSno3R1E0SEdPa1o4TDh4OHVCRnpmcUlQZXJ4eG9ycFJ4ZzVidTNzVmJtNFZkSy1ZZw?oc=5",
+      "pub_date": 1763763588.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-21/bitcoin-plunge-hits-market-makers-in-a-fragile-trading-landscape",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isJEv5UcQOeI/v1/1200x800.jpg",
+      "description": "Bitcoin is crashing into dangerous territory \u2014 and options-fueled selling is adding to the volatility."
     },
     {
       "headline": "Permabull Tom Lee Sees Bitcoin as High as $200,000 by January\u2019s End",
@@ -25,6 +25,16 @@
       "description": "The always optimistic co-founder of Fundstrat Global Advisors believes in the long-term power of retail investors."
     },
     {
+      "headline": "How a Maine couple gave their $1.3M retirement savings to bitcoin scammers",
+      "source": "The Portland Press Herald",
+      "source_url": "https://www.pressherald.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3BxMlE2LWN2WEVtRWR4VGVoSjJHMmdULXN6Uy00WDAyeXl0Q1NLZUZCc2JMdW5CX0ZBVXpMd3ZSd01jSGxKY2ZoRGJ5YWhEMjVlU1R2dDBFZ2RiU2FMempKNEo3WTBEaGRXSklfUUNwemxPaDY2MEZ3UzAxTUJLOVN5d1hhaDV2alZiMWtSd1UtcjdaSHJiMDJTcjY2SVM2aTBLNURxRGFmejhLd2NuM3FWZ20wX29Ucjc0Vg?oc=5",
+      "pub_date": 1763656200.0,
+      "article_url": "https://www.pressherald.com/2025/11/20/how-a-maine-couple-gave-their-1-3-million-retirement-savings-to-bitcoin-scammers/",
+      "image": "https://www.pressherald.com/wp-content/uploads/sites/4/2025/11/43182333_20251030_Scam001.jpg?w=1024",
+      "description": "Larry and Barbara Cook are risking public embarrassment to spare others from a similar trauma. In the process, they're helping to rewrite federal and state income tax laws related to fraud losses."
+    },
+    {
       "headline": "Bitcoin plunges 30 percent from all-time high last month",
       "source": "Fox Business",
       "source_url": "https://www.foxbusiness.com",
@@ -33,36 +43,6 @@
       "article_url": "https://www.foxbusiness.com/video/6385426431112",
       "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/352869fb-7c99-4e18-b81a-11c3cb31638c/1f510f21-2835-4867-8c6f-b4190b630ad6/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
       "description": "\u2018Barron\u2019s Roundtable\u2019 panelists discuss the recent decrease in the price of Bitcoin and the factors that are driving Bitcoin lower."
-    },
-    {
-      "headline": "Investors pull record $523 million from BlackRock's flagship bitcoin ETF",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb1M5RHJ0TzdvQlJRdXpOMzJKYVM4YjBFTEdjX1MzZk1yUkJ6SjJLc1JHaTJsUnc3bVNwMTJQdDR6TVNzTk1GVXJOc2RZQUN0TGotQkFGbW0zR0o0YmxnemFkclE0OFFkVk1fY2c0Y05CZHRMR2dnMlhJNzRndU5hY1RLYkVqQlVQUU40VGxna2tsVG0ycXZJdEZzTUZ3Q0x1QVlrLUJjWGZWclo0LW1qWktaWmtWWFk?oc=5",
-      "pub_date": 1763573318.0,
-      "article_url": "https://www.reuters.com/markets/wealth/investors-pull-record-523-million-blackrocks-flagship-bitcoin-etf-2025-11-19/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "BlackRock clients dump Bitcoin as price hits $81,900. Here\u2019s why analysts say the $3.8bn ETF flush will only get worse",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzVPZXN5X29PRTFOd214MDE5UTctOGhKYllkdF8wVzBYdDBYYk5sTUVBa0hjWFEySnpNRDBtVllTYkJ6NkpoQmdxaXVjOUlKZ3BXRkRZXzU5aWFDWWlzV3liWG93VEd2OTJiZUJmMW8xS2ZydkR0cFp2UDFFUF8tTFlSdVpwT2EzNlE?oc=5",
-      "pub_date": 1763721390.0,
-      "article_url": "https://finance.yahoo.com/news/blackrock-clients-dump-bitcoin-price-103630033.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/AhplHn9qeywTD0LfIjA4zw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU-/https://media.zenfs.com/en/dlnews_702/ae307b33913491d2083c1e424a342495",
-      "description": "Bitcoin has crashed more than 30% from its October peak. ETF selling hit $3.8 billion with nine days left in November, approaching February liquidations. The macro picture has turned hostile after Fed governors signal no December cut."
-    },
-    {
-      "headline": "Bitcoin Sell-Off Deepens, Cathie Wood Buys These Crypto Stocks.",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc01JdmRrOTB0M2l2cktXYjV2RzQyak9xV1FMcVA1aElTR1dFdXhnQlFhTWFfNGVGMm5jV3R1eHNuVlJ4NE5CS1JNY0VnT25UWXpOYWZhdUgzeUd1YW9nQmNHaVVacDF6VjdvUXE5RjZHZDVoV2lnMTl3akJBcFJWZG1rQllIOFJvNl9oeFNhMmdhLTdoSHowRm44bVBhd2tNdXpZdmdMU0RxN0h4NzFLUGEtaUdHaDExU05MTTBLTkxrSkVNUV9OOUdKRQ?oc=5",
-      "pub_date": 1763760480.0,
-      "article_url": "https://www.investors.com/news/bitcoin-price-low-liquidation-etf-outflows-cathie-wood-ark-invest-crypto-stocks-coin-blsh-crcl-bmnr/",
-      "image": "https://www.investors.com/wp-content/uploads/2017/12/stock-bitcoin-09-adobe.jpg",
-      "description": "Crypto retreat worsens amid bitcoin liquidations, ETF outflows. Cathie Wood, ARK Invest buy Coinbase, Circle, and more."
     },
     {
       "headline": "Michael Saylor responds to JPMorgan\u2019s MSCI delisting warning",
@@ -95,16 +75,36 @@
       "description": "The plunging value of Bitcoin is piling pressure on the securities Strategy Inc. has been issuing in bulk to buy the asset, raising questions about the financing model of the world\u2019s largest crypto treasury firm."
     },
     {
-      "headline": "Rep. Warren Davidson Introduces the Bitcoin For America Act | Press Releases",
-      "source": "Congressman Warren Davidson (.gov)",
-      "source_url": "https://davidson.house.gov",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZk1takYtblJuci1rWmJpSDNIVHZPMmlhc3VaR2kwWFpITXN0bTVQOXJWSENTSmRKazR2eENndk00Z1dCRlkzRkpYYzhZU0R6eGEzSzZtTDJPZVpVbnVtSFVpT3A4VV9jMW1RMV84amdtdWx6TDBXYjJBQ1hmaEpUeWVqYTA2VmMzRm1yN1A3aEd1MTNlWFZpdA?oc=5",
-      "pub_date": 1763649372.0,
-      "article_url": "https://davidson.house.gov/2025/11/rep-warren-davidson-introduces-the-bitcoin-for-america-act",
-      "image": "https://davidson.house.gov/?a=Files.Image&Image_id=F101BF40-4321-40BD-B0E5-AF87BA6ED169&ImageSize=Social&direct=true",
+      "headline": "BlackRock clients dump Bitcoin as price hits $81,900. Here\u2019s why analysts say the $3.8bn ETF flush will only get worse",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzVPZXN5X29PRTFOd214MDE5UTctOGhKYllkdF8wVzBYdDBYYk5sTUVBa0hjWFEySnpNRDBtVllTYkJ6NkpoQmdxaXVjOUlKZ3BXRkRZXzU5aWFDWWlzV3liWG93VEd2OTJiZUJmMW8xS2ZydkR0cFp2UDFFUF8tTFlSdVpwT2EzNlE?oc=5",
+      "pub_date": 1763721390.0,
+      "article_url": "https://finance.yahoo.com/news/blackrock-clients-dump-bitcoin-price-103630033.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/AhplHn9qeywTD0LfIjA4zw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU-/https://media.zenfs.com/en/dlnews_702/ae307b33913491d2083c1e424a342495",
+      "description": "Bitcoin has crashed more than 30% from its October peak. ETF selling hit $3.8 billion with nine days left in November, approaching February liquidations. The macro picture has turned hostile after Fed governors signal no December cut."
+    },
+    {
+      "headline": "Investors pull record $523 million from BlackRock's flagship bitcoin ETF",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb1M5RHJ0TzdvQlJRdXpOMzJKYVM4YjBFTEdjX1MzZk1yUkJ6SjJLc1JHaTJsUnc3bVNwMTJQdDR6TVNzTk1GVXJOc2RZQUN0TGotQkFGbW0zR0o0YmxnemFkclE0OFFkVk1fY2c0Y05CZHRMR2dnMlhJNzRndU5hY1RLYkVqQlVQUU40VGxna2tsVG0ycXZJdEZzTUZ3Q0x1QVlrLUJjWGZWclo0LW1qWktaWmtWWFk?oc=5",
+      "pub_date": 1763573318.0,
+      "article_url": "https://www.reuters.com/markets/wealth/investors-pull-record-523-million-blackrocks-flagship-bitcoin-etf-2025-11-19/",
+      "image": null,
       "description": null
+    },
+    {
+      "headline": "Bitcoin Sell-Off Deepens, Cathie Wood Buys These Crypto Stocks.",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc01JdmRrOTB0M2l2cktXYjV2RzQyak9xV1FMcVA1aElTR1dFdXhnQlFhTWFfNGVGMm5jV3R1eHNuVlJ4NE5CS1JNY0VnT25UWXpOYWZhdUgzeUd1YW9nQmNHaVVacDF6VjdvUXE5RjZHZDVoV2lnMTl3akJBcFJWZG1rQllIOFJvNl9oeFNhMmdhLTdoSHowRm44bVBhd2tNdXpZdmdMU0RxN0h4NzFLUGEtaUdHaDExU05MTTBLTkxrSkVNUV9OOUdKRQ?oc=5",
+      "pub_date": 1763760480.0,
+      "article_url": "https://www.investors.com/news/bitcoin-price-low-liquidation-etf-outflows-cathie-wood-ark-invest-crypto-stocks-coin-blsh-crcl-bmnr/",
+      "image": "https://www.investors.com/wp-content/uploads/2017/12/stock-bitcoin-09-adobe.jpg",
+      "description": "Crypto retreat worsens amid bitcoin liquidations, ETF outflows. Cathie Wood, ARK Invest buy Coinbase, Circle, and more."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-22T05:49:15.844925+00:00"
+  "fetched_at": "2025-11-22T06:37:54.083697+00:00"
 }
