@@ -8,7 +8,7 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
-      "stars": 79263,
+      "stars": 79266,
       "stars_display": "79.3k",
       "forks": 11759,
       "forks_display": "11.8k",
@@ -30,7 +30,7 @@
       "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
       "url": "https://github.com/ray-project/ray",
       "preview_image": "https://opengraph.githubassets.com/e3258c9b492c14302cb9f89cd8735001ee499bfa1a05035f732c6d9df24495b1/ray-project/ray",
-      "stars": 39955,
+      "stars": 39958,
       "stars_display": "40.0k",
       "forks": 6934,
       "forks_display": "6.9k",
@@ -118,7 +118,7 @@
       "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
       "url": "https://github.com/arc53/DocsGPT",
       "preview_image": "https://opengraph.githubassets.com/61ec02b58d74110c5dfa77f8f5d07c3912915e330b28965ed442fec0b20290f1/arc53/DocsGPT",
-      "stars": 17386,
+      "stars": 17387,
       "stars_display": "17.4k",
       "forks": 1935,
       "forks_display": "1.9k",
@@ -196,7 +196,7 @@
         "artificial-intelligence",
         "deep-learning"
       ],
-      "updated_at": "2025-11-22T16:10:13Z"
+      "updated_at": "2025-11-22T17:13:05Z"
     },
     {
       "full_name": "Netflix/metaflow",
@@ -226,5 +226,5 @@
   "days": 7,
   "limit": 10,
   "total_count": 234,
-  "fetched_at": "2025-11-22T16:20:37.658051+00:00"
+  "fetched_at": "2025-11-22T17:30:44.913035+00:00"
 }
