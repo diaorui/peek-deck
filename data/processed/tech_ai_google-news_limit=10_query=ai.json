@@ -75,24 +75,24 @@
       "description": "Investors had looked to Nvidia's earnings report to settle fears that the AI bubble is on increasingly shaky ground."
     },
     {
-      "headline": "Nvidia defies AI bubble fears but some analysts remain worried",
-      "source": "ABC News",
-      "source_url": "https://abcnews.go.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGJTVXp1T1N5NEhMaEhEd2EtbDhJWEF1RjBXNTZFekxfNXQ4T2NaYVlmRnM5QVFsdGZyMUpVbGhCU3QtdDU0bURDUE9pR2V0anB4XzlQYl8wYWlwUHY2S0ZMQ2xCOUpqYjhPSHdCdGU5VEhSRjZ5QkgwODhjNUlRXzdZNFg4MWdCbXdxQm93NG9KaUMtdDFkc1NRbEttNzZSQV80eGRjc9IBrAFBVV95cUxPVHM2Q1BuelhfeHFNTXh4Nm05UUN6V0xHLTFRc3hkdFhtZFJPb1VZZ1M2UzZCR3VmRjFTU2JBV0NHR2ZGVEpoMElvZnMtWi1ndEpHS2swRmllYjV0eUdrdl9kOTRrQlE0ZG80M3FhMTMzWTZUUV80cjgxLTRBQlBKWXBUcTN1UGtubl82RXlRNVBqZXlMUEpOdE9YbnlkekhkeVg2djlNZENJVmNW?oc=5",
-      "pub_date": 1763806273.0,
-      "article_url": "https://abcnews.go.com/Business/nvidia-defies-ai-bubble-fears-analysts-remain-worried/story?id=127709332",
-      "image": "https://i.abcnewsfe.com/a/bc03af10-14a7-4f6b-adbd-9c1897b7a66d/NVIDIA-1-rt-er-251121_1763752809775_hpMain_16x9.jpg?w=1600",
-      "description": "The stock market slumped in recent days over AI fears."
+      "headline": "Bubble Trouble: AI rally shows cracks as investors question risks",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOU1jMURmNHdrNHdLN25ZOWZoenJDd2V2d3JNR1pINXRNU0JGLXBEMlRIWENCcGFvWWFTSFJVS2pNaXFNOFBNV3VPWlVNdi1uSDRmYWJEWEU4ekZubUZ5eHhXck5Ub0syclJtQm54YXROT3JxZmYteTg3ZHV1T3cyei1jZmdxTEZaRjdUTzVRWldoLVN5RzN0TGpTdkhxVFl6bXNPNHgtWDZQdw?oc=5",
+      "pub_date": 1763760715.0,
+      "article_url": "https://www.reuters.com/business/bubble-trouble-ai-rally-shows-cracks-investors-question-risks-2025-11-21/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "The Stock Market's New Most-Hated Word Is Pummeling the AI Trade",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmxDS3BmTDVGTF9UZ3NSdzZvUVItR0lvclNoWEhtY0h3bWJzbFFDS0g2SWpNRjdrY0NOelVwRlpuZHY4bjJWbkhiWE5YeWVnU3dfelBiT0Q4bjIzUWRNT21MOXctd0JPMS1CVUJEWFY5dDB2aWFKS2I1X3R3QW5OTUZJdWpuOVprVVJQOC1oX1c2OWo3Y0I2UzlrdWdvRmNJ?oc=5",
-      "pub_date": 1763806500.0,
-      "article_url": "https://www.businessinsider.com/stock-market-ai-bubble-gpu-depreciation-new-most-hated-word-2025-11",
-      "image": "https://i.insider.com/6920ca1a89026fbb4d0e3282?width=1200&format=jpeg",
-      "description": "Last month it was circularity. This month, it's depreciation."
+      "headline": "Analysis | Are we in an AI bubble? Four charts will help you decide.",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRlR1cERFVGtXc2o1TDZZTkttSzNRTGtXYWNYU3ZON3BqQUhtRndtSklMR0dPeHJzd0VBMUhiSUJJakt2cjM3LU8zYlZMRVBDZDE5dVZ2dHJaejVoLXptbi1nMG84RUdocjZIUHFqR2VSQmgxRWhUVEg1VlcxSEI5emNLdU5CRTg?oc=5",
+      "pub_date": 1763811110.0,
+      "article_url": "https://www.washingtonpost.com/technology/2025/11/22/ai-bubble-economy-evidence/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-22T11:20:30.461745+00:00"
+  "fetched_at": "2025-11-22T11:53:54.071495+00:00"
 }
