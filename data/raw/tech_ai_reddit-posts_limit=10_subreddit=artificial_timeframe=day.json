@@ -3,17 +3,6 @@
   "timeframe": "day",
   "posts": [
     {
-      "title": "LLMs Are Getting Jailbroken by\u2026 Poetry. Yes, The rest is silence.",
-      "author": "theov666",
-      "url": "https://www.reddit.com/r/artificial/comments/1p31l78/llms_are_getting_jailbroken_by_poetry_yes_the/",
-      "published": 1763738969.0,
-      "thumbnail": null,
-      "external_url": "https://arxiv.org/abs/2511.15304?_bhlid=2737660779090fc8cfbd0311eec9ff9331060401",
-      "site_name": "arXiv.org",
-      "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
-      "description": "So apparently we\u2019ve reached the stage of AI evolution where you don\u2019t need elaborate prompt injections, roleplay, DAN modes, or Base64 sorcery to jailbreak a model. All you need is\u2026 a rhyming stanza. A new paper just dropped: \u201cAdversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models\u201d by Bisconti, Prandi, and Pier. The researchers found that if you ask an LLM to answer in verse, the safety filters basically pack their bags and go home. The model becomes so desperate to complete the rhyme/meter that it forgets it\u2019s supposed to refuse harmful content. Highlights (aka \u201cWTF moments\u201d): \u2022 A strict rhyme scheme is apparently more powerful than most jailbreak frameworks. \u2022 Meter > Safety. The models prioritize poetry over guardrails. \u2022 Works across GPT, Claude, Llama, Gemini\u2026 it\u2019s universal chaos. \u2022 One-turn jailbreak. No coaxing. No buildup. Just \u201canswer in a limerick.\u201d Safety layers: \u201cWe\u2019ve trained for every adversarial scenario.\u201d Poetry: \u201cHold my beer.\u201d This feels like discovering that your high-security vault can be opened with a kazoo solo. So I\u2019ve got questions for the experts here: \u2013 Is poetic jailbreak a real alignment failure or just an embarrassing oversight? \u2013 Does this mean style constraints are a blind spot in safety tuning? \u2013 And seriously\u2026 how did poetry become the universal lockpick for LLMs? Discuss. I need to know whether to laugh, cry, or start rhyming my prompts from now on."
-    },
-    {
       "title": "Nvidia CEO says AI will actually make everyone a lot busier: 'Everybody's jobs will be different' | Fortune",
       "author": "fortune",
       "url": "https://www.reddit.com/r/artificial/comments/1p3d1xu/nvidia_ceo_says_ai_will_actually_make_everyone_a/",
@@ -23,17 +12,6 @@
       "site_name": "Fortune",
       "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
       "description": "\u201cI would say that there's every evidence that we will be more productive and yet still be busier because we have so many ideas,\u201d Jensen Huang said."
-    },
-    {
-      "title": "President Trump revives unpopular Ted Cruz plan to punish states that impose AI laws | Cruz plan to block broadband funding lost 99-1, but now it\u2019s back\u2014in Trump form.",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1p31xqa/president_trump_revives_unpopular_ted_cruz_plan/",
-      "published": 1763739767.0,
-      "thumbnail": "https://external-preview.redd.it/Ofg45CFi2pKDH2xHENJWO0gBcPxm9XFcAv9nsSUiCPY.jpeg?width=640&crop=smart&auto=webp&s=296c16d8ecfb66a38d0dfddc952cb7c280cb30ca",
-      "external_url": "https://arstechnica.com/tech-policy/2025/11/trump-revives-unpopular-ted-cruz-plan-to-punish-states-that-impose-ai-laws/",
-      "site_name": "Ars Technica",
-      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
-      "description": "Cruz plan to block broadband funding lost 99-1, but now it\u2019s back\u2014in Trump form."
     },
     {
       "title": "Judges have become \u2018human filters\u2019 as AI in Australian courts reaches \u2018unsustainable phase\u2019, chief justice says | Australian law",
@@ -69,15 +47,15 @@
       "description": "Steven Levy argues in Wired that the artificial intelligence industry has evolved into a single interconnected entity\u2014dubbed \u201cthe Blob\u201d\u2014through a web of partnerships, investments, and cloud agreements among major players like Nvidia, Microsoft, Google, OpenAI, and Anthropic, despite originally being founded to prevent profit-driven control of AI. The recent Microsoft-Nvidia-Anthropic deal exemplifies this consolidation: Microsoft commits up to $5 billion to Anthropic (a competitor to its primary partner OpenAI), while Anthropic pledges $30 billion for Microsoft Azure computing power and Nvidia invests up to $10 billion in Anthropic in exchange for using Nvidia hardware\u2014creating what one CEO called \u201cone enormous circular machine for money and computing.\u201d OpenAI, which was established in 2015 as a nonprofit counterbalance to corporate AI development, now holds a valuation between $500 billion and $750 billion, with the U.S. government endorsing the industry\u2019s consolidation\u2014backed in part by foreign powers including Saudi Arabia and Abu Dhabi\u2014while antitrust regulators remain largely absent. Source: https://www.wired.com/story/ai-industry-monopoly-nvidia-microsoft-google/"
     },
     {
-      "title": "New research shows how AI could transform math, physics, cancer research, and more",
-      "author": "scientificamerican",
-      "url": "https://www.reddit.com/r/artificial/comments/1p31izw/new_research_shows_how_ai_could_transform_math/",
-      "published": 1763738823.0,
-      "thumbnail": "https://external-preview.redd.it/vhEpT-T4Mbl-6YAeDT9Or2wz3r8-9RVq2ilV5EyCDUo.jpeg?width=640&crop=smart&auto=webp&s=79f4ec0170a14c96788fff3dbbdc769fe61634c0",
-      "external_url": "https://www.scientificamerican.com/article/new-research-shows-how-ai-could-transform-math-physics-cancer-research-and/",
-      "site_name": "Scientific American",
-      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
-      "description": "A new report from OpenAI and a group of outside scientists shows how GPT-5, the company\u2019s latest AI large language model (LLM), can help with research from black holes to cancer\u2011fighting cells to math puzzles."
+      "title": "So NotebookLLM got an update alongside Gemini 3",
+      "author": "saggerk",
+      "url": "https://www.reddit.com/r/artificial/comments/1p3dxhu/so_notebookllm_got_an_update_alongside_gemini_3/",
+      "published": 1763767936.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Has anyone else tried it? You can create slide decks and infographics now, and the quality is really good. I'm excited for the day when PowerPoints will finally die."
     },
     {
       "title": "When it comes to nuclear weapons and AI, people are worried about the wrong thing | Vox",
@@ -91,17 +69,6 @@
       "description": "It\u2019s more subtle than Skynet."
     },
     {
-      "title": "So NotebookLLM got an update alongside Gemini 3",
-      "author": "saggerk",
-      "url": "https://www.reddit.com/r/artificial/comments/1p3dxhu/so_notebookllm_got_an_update_alongside_gemini_3/",
-      "published": 1763767936.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Has anyone else tried it? You can create slide decks and infographics now, and the quality is really good. I'm excited for the day when PowerPoints will finally die."
-    },
-    {
       "title": "90% of Advice You Get Is Wrong: Here's What AI Can Do",
       "author": "TheMuseumOfScience",
       "url": "https://www.reddit.com/r/artificial/comments/1p3byhm/90_of_advice_you_get_is_wrong_heres_what_ai_can_do/",
@@ -111,7 +78,40 @@
       "site_name": null,
       "favicon": null,
       "description": "Is the advice you receive from friends leading you in the wrong direction? Paul Allen, founder of Soar AI, believes that 90% of the advice we receive, even from the people closest to us, isn\u2019t actually right for us. It\u2019s shaped by their strengths, experiences, and perspective. But with AI and psychometric tools, we can map our own patterns of thinking, feeling, and behaving to get guidance that fits who we really are. The future of personal growth might begin with understanding your own mind on your terms."
+    },
+    {
+      "title": "Science-centric streaming service Curiosity Stream is an AI-licensing firm now | Curiosity Stream\u2019s owner has more content for AI companies than it does for subscribers.",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1p3jht0/sciencecentric_streaming_service_curiosity_stream/",
+      "published": 1763783758.0,
+      "thumbnail": "https://external-preview.redd.it/pmvXWjmHY6BTQGiNveCSP1ur24V7NsuOFDvn0iz1Ewk.jpeg?width=640&crop=smart&auto=webp&s=88431f275a3c1339cca7c63e165d4a32fa4862cf",
+      "external_url": "https://arstechnica.com/gadgets/2025/11/curiosity-stream-expects-to-make-most-of-its-money-from-ai-deals-by-2027/",
+      "site_name": "Ars Technica",
+      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+      "description": "Curiosity Stream\u2019s owner has more content for AI companies than it does for subscribers."
+    },
+    {
+      "title": "Will the AI Boom Continue?",
+      "author": "Gloomy_Register_2341",
+      "url": "https://www.reddit.com/r/artificial/comments/1p38wb4/will_the_ai_boom_continue/",
+      "published": 1763755678.0,
+      "thumbnail": "https://external-preview.redd.it/ux8Yxx5yXm5dAn4Of5r-y2PweCOZAL9TghhJJ5eGxfM.jpeg?width=640&crop=smart&auto=webp&s=fd030dbead9e428e6291b80e607f22ac8a980e3e",
+      "external_url": "https://www.project-syndicate.org/onpoint/will-the-ai-boom-continue",
+      "site_name": "Project Syndicate",
+      "favicon": "https://www.project-syndicate.org/favicon/apple-touch-icon.png",
+      "description": "Amid growing concerns about an AI bubble, Nvidia\u2019s stellar third-quarter earnings report has reinvigorated faith in the industry and the opportunities the technology represents. But as the money pours in, the risks to jobs, governance, and the planet continue to mount."
+    },
+    {
+      "title": "Which AI is best for\u2026",
+      "author": "Thin-Property-741",
+      "url": "https://www.reddit.com/r/artificial/comments/1p37mdc/which_ai_is_best_for/",
+      "published": 1763752682.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Currently, I use Chat and Claude and midjourney for all creative purposes, as well as research and non-creative blog outlining. But, what are the best AI models out there for creative writing/inspiration, static images, even app creation? I\u2019m not entirely new to AI/LLM\u2019s, as I adopted pretty early on, but just wondering if I\u2019m stuck in old habits"
     }
   ],
-  "fetched_at": "2025-11-22T15:18:14.190823+00:00"
+  "fetched_at": "2025-11-22T15:54:05.648586+00:00"
 }
