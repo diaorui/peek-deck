@@ -137,6 +137,19 @@
     object-fit: contain;
     flex-shrink: 0;
 }
+
+/* Mobile adjustments: more lines for better readability */
+@media (max-width: 768px) {
+    .widget-hackernews-posts .post-title {
+        -webkit-line-clamp: 3;
+        min-height: calc(0.95rem * 1.4 * 3);
+    }
+
+    .widget-hackernews-posts .post-description {
+        -webkit-line-clamp: 4;
+        min-height: calc(0.75rem * 1.4 * 4);
+    }
+}
 </style>
 
 <div class="widget widget-hackernews-posts widget-{{ size }}">
@@ -181,7 +194,7 @@
                         </div>
                         {% endif %}
 
-                        <!-- Metadata (points, comments, author, time) -->
+                        <!-- Metadata (points, comments, time) -->
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
@@ -189,9 +202,6 @@
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 {{ post.num_comments }}</span>
-                                </div>
-                                <div class="post-meta-item">
-                                    by {{ post.author }}
                                 </div>
                             </div>
                             <div class="post-meta-line">
