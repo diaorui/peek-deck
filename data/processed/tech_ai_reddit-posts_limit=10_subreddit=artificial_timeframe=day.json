@@ -47,17 +47,6 @@
       "description": "Has anyone else tried it? You can create slide decks and infographics now, and the quality is really good. I'm excited for the day when PowerPoints will finally die."
     },
     {
-      "title": "If you had to explain to a superintelligent AI why humanity should continue to exist, what would you say?",
-      "author": "Soggy-Ad9006",
-      "url": "https://www.reddit.com/r/artificial/comments/1p3ywis/if_you_had_to_explain_to_a_superintelligent_ai/",
-      "published": 1763832425.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "As AI continues to advance toward superintelligence, this question becomes increasingly relevant. What makes humanity worth preserving? Is it our creativity, our capacity for love and connection, our flaws and imperfections, our stories and cultures, or something else entirely? How would you make the case for human existence to an entity far more intelligent than us?"
-    },
-    {
       "title": "90% of Advice You Get Is Wrong: Here's What AI Can Do",
       "author": "TheMuseumOfScience",
       "url": "https://www.reddit.com/r/artificial/comments/1p3byhm/90_of_advice_you_get_is_wrong_heres_what_ai_can_do/",
@@ -78,40 +67,7 @@
       "site_name": "Ars Technica",
       "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
       "description": "Curiosity Stream\u2019s owner has more content for AI companies than it does for subscribers."
-    },
-    {
-      "title": "Google must double AI serving capacity every 6 months to meet demand, AI infrastructure boss Amin Vahdat tells employees",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1p43edi/google_must_double_ai_serving_capacity_every_6/",
-      "published": 1763843489.0,
-      "thumbnail": "https://external-preview.redd.it/BwQBNYgUNX5zPLeMR3klOwCV0R1DZS3CA-eG7SZ8E5s.jpeg?width=640&crop=smart&auto=webp&s=9bb58011be0d610e6da2dff6ec6b71e5b6d6cf55",
-      "external_url": "https://www.cnbc.com/2025/11/21/google-must-double-ai-serving-capacity-every-6-months-to-meet-demand.html",
-      "site_name": "CNBC",
-      "favicon": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
-      "description": "At a recent all-hands meeting, Google's head of AI infrastructure said the company has to race to build out compute capacity."
-    },
-    {
-      "title": "LLMs have a built-in mathematical ceiling on their creative capacity, meaning they will never rival the originality or ingenuity of the most creative individuals - report",
-      "author": "mikelgan",
-      "url": "https://www.reddit.com/r/artificial/comments/1p42404/llms_have_a_builtin_mathematical_ceiling_on_their/",
-      "published": 1763840173.0,
-      "thumbnail": null,
-      "external_url": "https://www.unisa.edu.au/media-centre/Releases/2025/chatgpt-is-smart-but-no-match-",
-      "site_name": "unisa.edu.au",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "How true is it that AI is starting to affect our critical thinking?",
-      "author": "Curious_Suchit",
-      "url": "https://www.reddit.com/r/artificial/comments/1p3yszs/how_true_is_it_that_ai_is_starting_to_affect_our/",
-      "published": 1763832182.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "As AI takes over more of the tasks we once did ourselves, it\u2019s natural to wonder if it\u2019s making us think a little less deeply. The effect isn\u2019t the same for everyone, but it is definitely changing how we analyze and solve problems in our daily lives."
     }
   ],
-  "fetched_at": "2025-11-22T21:24:06.336161+00:00"
+  "fetched_at": "2025-11-22T21:58:47.666018+00:00"
 }
