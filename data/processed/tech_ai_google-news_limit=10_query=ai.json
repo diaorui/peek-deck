@@ -15,6 +15,26 @@
       "description": "A new Gmail update may allow Google to use your private messages and attachments for AI training. Here's how to turn it off."
     },
     {
+      "headline": "AI Christmas: The latest devices from Amazon, Meta, Google and more",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0huT2pGT2N3T1c3OGhoSHE1LU9vWGpCU2l4dmxkVHN4bVI3WE9vdGcweW85b3ozUUNkbVdKLXRBcVQ0RjZZbENTc01kMzdmQlhiem5CLU5KYmVvY1ZBN2F0YWhuQkN2Zy1TX1FyaExmQW0yeENpOXplVWRDMTd1WFJydHJoTEVuTXRhbzhRbGZXNTRxckJlRUpVUDg1MDJWd25V0gGoAUFVX3lxTE5DTnJJVHZQbjBLUTlkNjJuR0ltTlZnWi15SW5UTlNOc0o3Tk9SSHBxSFBEenhTNDdjemZSd1VRVWRpM0MtVlI2cC1mSG1XeUpqb2pmeDN6bnhrYVc5TDk5ZXp3cktkQ2JyS0FqNDdSelgwN08yejIxbmpfbDFPN2ZuQkRWUHVwc0ZlYVpSX3pCc2dUU3pXcDBiX2VLdE5ZNk5RNlpiQnlWNQ?oc=5",
+      "pub_date": 1763812801.0,
+      "article_url": "https://www.cnbc.com/2025/11/22/ai-christmas-the-latest-devices-from-amazon-meta-google-and-more.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108201534-1758314255913-gettyimages-2235445088-META_GLASSES.jpeg?v=1758314288&w=1920&h=1080",
+      "description": "This holiday shopping season features more advanced smart glasses, smart speakers with generative AI and a pendant users can wear to carry around an AI friend."
+    },
+    {
+      "headline": "Google tells employees it must double capacity every 6 months to meet AI demand",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVXJrREh5WnJ1THoxWEFLMmZhdUVVT05WN2pYSlA2NUdiSWJLa0hiRUtfRnJWeVNvSWstSUpjSURDLXlERkZNVThnZ3U0a1pOdWpYVXROMkliLTZtTGVGQkRzNmFYUUtyc09QZ2lLLTJycWlaeGlrWk1FSDFxb0I5WW9HQjJaZ0R3VXlSTUs0NDN3MklscHZqSXNWYUlaNWtadm1NaUNRYWY5MkVGdDRQX1dFNEFzUQ?oc=5",
+      "pub_date": 1763761664.0,
+      "article_url": "https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/DLS_013-1152x648.jpg",
+      "description": "Google\u2019s AI infrastructure chief tells staff it needs thousandfold capacity increase in 5 years."
+    },
+    {
       "headline": "Meet the AI workers who tell their friends and family to stay away from AI | Artificial intelligence (AI)",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
@@ -25,44 +45,14 @@
       "description": "When the people making AI seem trustworthy are the ones who trust it the least, it shows that incentives for speed are overtaking safety, experts say"
     },
     {
-      "headline": "The world\u2019s biggest company just told everyone to chill out",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QTnVBWkdqb0puUGF4X0YzQTN0cG9hWkxIdlNDaWFsdXFCSFJJR0lkenpaS3duQm8xN2JKSjFxbHhkbFQ4YUkxNFgzNkZ2ZG5BUjhlUmpRWnZndFNHS1FJR0FtQkVfbnFJdlpaYU9pUWl1a0dKMEE?oc=5",
-      "pub_date": 1763798458.0,
-      "article_url": "https://www.cnn.com/2025/11/22/tech/ai-bubble-fears-nvidia-earnings",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243374844.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Concerns about an AI bubble have been simmering for at least a year and a half. Nvidia\u2019s incredibly strong earnings this past week tried to put those fears to bed. It may not have been enough."
-    },
-    {
-      "headline": "Analysis | Are we in an AI bubble? Eight charts will help you decide.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRlR1cERFVGtXc2o1TDZZTkttSzNRTGtXYWNYU3ZON3BqQUhtRndtSklMR0dPeHJzd0VBMUhiSUJJakt2cjM3LU8zYlZMRVBDZDE5dVZ2dHJaejVoLXptbi1nMG84RUdocjZIUHFqR2VSQmgxRWhUVEg1VlcxSEI5emNLdU5CRTg?oc=5",
-      "pub_date": 1763834400.0,
-      "article_url": "https://www.washingtonpost.com/technology/2025/11/22/ai-bubble-economy-evidence/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The A.I. Boom Has Found Another Gear. Why Can\u2019t People Shake Their Worries?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNWE0MUtaUVMzaG1md1oxX1dkcmNjSTdaQjZxYWxaMHhPSXRhM0RKeXlZSjh1WUNyTnFXdURRaDFOcFdrS2pEbE9FbDQ4ZE96QVVZd2lLRktTUFJnNUFOb3E5aTVqMDlrYnc0VXNjYml0M2ktckZmSjVhbw?oc=5",
-      "pub_date": 1763674602.0,
-      "article_url": "https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "After wearables, docs predict AI-controlled implants to be next big thing",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcE12NzZKNG1sM3IwZG0tclBWdXVVX0ZFZUs3d1B5VUVvUHVRS3JBWm1uZmZhdURlaFRIWmJaOGhJZF9jTXRnWW1Md0hCbkJ5Vmk4UmpUcGpoQXlBbUtRRDdBempmelNhVVc0UnE3MDk1dTYzcUxiOFlTNW9qX25HRUw1UElQQjNVSlpmZUZLY3ZqX29zRkJTYmxwUkJBbkxiU1dCMVZOcEZQYV8wV0kzLV9TdWswOE85OU4zQkRPeFJSVzE2emNiNHlpMDdHOWNUcWtqN01yMjJSSVRrLXh2blVsSdIB6AFBVV95cUxQOUdBSlY2NnZSVjQtY3BtaGhXeTFla21FRHVraEJ4aV8yRzByU3ZjVlBNV2p6b1NtWEs2U2pTNXJkWFJJNm9rQzZYTUZpRWlWcUhlcWVvQWUwY2Jra1pFN1dmQUFrQW1vclpaM0JjRjNmQi1iOFJicjM2cHJTZjhud1VtUmZueVV3bmJ3bzZoUUJqNVdKcGRMZDZ3d0t1Q1NQZUZkWTh2SUhybWdvQVctTGNPdFN0X3Y1dmtMOGlpSVc5R0ZVSGlGSmNpSDhjR3hXRzdndjQxd1B0QXplX2FRbUpLTkVLcWdn?oc=5",
-      "pub_date": 1763836680.0,
-      "article_url": "https://timesofindia.indiatimes.com/city/hyderabad/after-wearables-docs-predict-ai-controlled-implants-to-be-next-big-thing/articleshow/125510490.cms",
-      "image": "https://static.toiimg.com/thumb/msid-117518063,width-1070,height-580,imgsize-94302,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "description": "Hyderabad: While smartwatches and wearable devices have become common, doctors say the next step could be AI-controlled chips implanted inside the hum."
+      "headline": "Nvidia CEO says the company is in a no-win situation amid AI-bubble chatter, leaked meeting reveals",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSmdXTEwwSTlSVktYNENIYXlXQVRwMl9FOUs3VmNsWWZablgtVUxFbk9mUjlVQ0U3bHpkR0RkUnlFclJQZ0JVM1ZlYnhRMXVZX1Qwdy16NkJCMUZ0cDNLdUJ1cnpXWnJqQVRseUd3SWpxQXdoNmllMjJkSFBVY2ZIdUtLaHlpWVBMLVRGVzVEZzlpQnh4ekZkYU5kMDNxc1oyNllRZ3k2MWdfdURqMEdjbUV3QVdLZkZfWG1XWFNVMWRldw?oc=5",
+      "pub_date": 1763763960.0,
+      "article_url": "https://fortune.com/2025/11/21/nvidia-ceo-jensen-huang-q3-earnings-beat-no-win-situation-ai-bubble-fears-nvda-stock-selloff/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2174947979-e1763747436953.jpg?resize=1200,600",
+      "description": "\u201cThe market did not appreciate our incredible quarter,\u201d Huang said."
     },
     {
       "headline": "The A.I. Boom Is Driving the Economy. What Happens if It Falters?",
@@ -88,9 +78,9 @@
       "headline": "An MIT Student Awed Top Economists With His AI Study\u2014Then It All Fell Apart",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOb3R6RlhnVDFfdjVuVHJpNE51Rm9ncFNhbzZGMjc1Rlg3S1Vmdk8xNUl5UjhuT3h5b3Z0enZVYlJXaDVRaG1sSkJRUVA2aTg3elk1QjBjbGdPNVBZQ0pQQXZnOWZKTUFYOENVMFVrTldMV0szT3hRY3ozTGtkUGF3SjBrSXR4WVJ6NEhSSG92cVA5OWdER2hyOEYyVUFjWW1aX0R1S1BHM2tVRldJc0c2Q3JITGw2UXhrWl9rczlyaFdIWW4teGwyckdZNkotaGpMOFVOUUxINWYxWnZSVlFtbTViZFhUUGdVcUpSXzF4Zm9RbzMyOUZJdGJ3MC14Nl9CZ2Q0WWdIVW9RR2NWYk40VEI4SVBsZ255UF8yRy1Cenl0U1JjM2lZLTBUdnJQb3BuZ3FZTGxjMnBsZXZNVnFUU2dwXzJTRjR5U1h4QTZiZWIxQ2d4WjMwcHlrU1ZvMGlZSVBtR2NxVlJFVUNPSktGb1Z2eTkyeFpuN19CX3plQTFmUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQSDRPR3F2X0NzQVRvYTFlQWF5cUlyeW5IRmpFSExrbDRuTmlSMWc0MzFSS2pUNGN3a3dtZVduQlg3cHJhY1ZPekVVN0R3WFlWb1BhSzhQa1JudjVrSkxaUjlNRnJkR1Q1a211WlF5ZnJDVkhpeVAzcklnUGowZWtudWp5aFhoU0ZvZEtMcUx0U0cyU2tuQ1VnaUVGVlNPX1ktT0tiQUpRbEVOVzZJaDNHR0VqNDZTUjk1ek5LTWltNF9Zc1N4OGdlMnlpbVZyeUppOWZEaGQ0TjBMckFjRVdVbk1PcnRzVXZzWTBpWHVuRDZRelBQMk8tSUlUYkV4akR5VnlmczFwZUp0VVVqUjhQTkJrTnVfM0E0TEFpT25rVXBWX0J0UlIxcE5hZk5QSHJiU3N3UnBPZHlCUmdjT0prczFYcDFPZG1QUG9uLVl1TnBjWkNsZklpY2xTTmktNmFqcG82NVJrOFNWRlBBOXlvTFJCT3diSDRIWFZ5MzNnSWhzUQ?oc=5",
       "pub_date": 1763776800.0,
-      "article_url": "https://www.wsj.com/economy/aidan-toner-rodgers-mit-ai-research-78753243?gaa_at=eafs&gaa_n=AWEtsqd7Ha-Ys1lLeGfA6E8Rn-2nwl2HA2fMKfymPnXcitcFiqiIs1K0RtiG&gaa_ts=6922105c&gaa_sig=RZl5IHFbOp4IfYXW0fXiKotzi_hariYTgeAcchDUgDbRnBRUkGqzJnRCdPiKSyNt2MASXrPsjM-C3J_6KeI4Yw%3D%3D",
+      "article_url": "https://www.wsj.com/economy/aidan-toner-rodgers-mit-ai-research-78753243?gaa_at=eafs&gaa_n=AWEtsqcUegfYZqkAbPYbNPtOEw5TMnFBxOQr6zuOei9ov1aUItc0555S-rOE&gaa_ts=6922185d&gaa_sig=wy6ktIR8hrjYhlw0kwuAcpNPnP9Ted18J1aKR2pKJtoJG7vhnCL7AWHeDD6OrGFApizjoA9Ut_OU83Z5hJXFCQ%3D%3D",
       "image": null,
       "description": null
     },
@@ -103,8 +93,18 @@
       "article_url": "https://www.bbc.com/news/articles/c5ylzjj5wzwo",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/05d8/live/7d040560-c6d3-11f0-a892-01d657345866.jpg",
       "description": "As AI-generated music floods streaming platforms, questions bubble over whether listeners are owed more transparency."
+    },
+    {
+      "headline": "AI's listening gap is fueling bias in jobs, schools and health care",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtVWhnR3F0bmIzaVBuMjFTMVJkQVViX25tUDZBMEF6MnRjNGRDTHM0eFJxbHhTZVF6UXFRUzg2SHM4eUpoNEpDWGZNYy1pZTkzV0ZBaFBxelNSNmxjSFNYb0MzbHNHdFRfcTRjQUFRLXo?oc=5",
+      "pub_date": 1763819892.0,
+      "article_url": "https://www.axios.com/2025/11/22/ai-accents-chatgpt-jobs-health",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-22T19:20:10.514208+00:00"
+  "fetched_at": "2025-11-22T19:54:18.830987+00:00"
 }
