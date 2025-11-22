@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/tencent/HunyuanVideo-1.5.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png",
       "downloads": 243,
-      "likes": 482,
+      "likes": 483,
       "pipeline_tag": "text-to-video",
       "num_parameters": null,
       "last_modified": "2025-11-21T07:35:32.000Z"
@@ -65,7 +65,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Supertone/supertonic.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68ef1b2d04f0f03d81974536/XltzYlfCoWTzfqimzt5j7.png",
       "downloads": 594,
-      "likes": 157,
+      "likes": 158,
       "pipeline_tag": "text-to-speech",
       "num_parameters": null,
       "last_modified": "2025-11-22T01:39:33.000Z"
@@ -107,7 +107,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/dx8152/Qwen-Edit-2509-Multiple-angles.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64461e86ab86b035add67e41/eDoTkuWIHd4kXplY0ZfiM.jpeg",
       "downloads": 81760,
-      "likes": 723,
+      "likes": 724,
       "pipeline_tag": "image-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-12T09:16:16.000Z"
@@ -142,5 +142,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-11-22T23:15:27.731117+00:00"
+  "fetched_at": "2025-11-22T23:55:40.761146+00:00"
 }

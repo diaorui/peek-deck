@@ -15,26 +15,6 @@
       "description": "A new Gmail update may allow Google to use your private messages and attachments for AI training. Here's how to turn it off."
     },
     {
-      "headline": "Google denies \u2018misleading\u2019 reports of Gmail using your emails to train AI",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xVlpYakNRME82TU9pVDhKYk96a0hqSXcwbm5HNnJoMXFmVGRhRVJWMmduSDBRNy1oQ0NYN3V2SHlYTWN2bzZfZTRVbm8xNDFfRW10bmJkbllNamsxcEkxQVpST1dwS1p6Nl96SmZnamI0QjgyMmc?oc=5",
-      "pub_date": 1763647200.0,
-      "article_url": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK459_09.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "Google says \u201cwe do not use your Gmail content for training our Gemini AI model.\u201d"
-    },
-    {
-      "headline": "AI Christmas: The latest devices from Amazon, Meta, Google and more",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ0huT2pGT2N3T1c3OGhoSHE1LU9vWGpCU2l4dmxkVHN4bVI3WE9vdGcweW85b3ozUUNkbVdKLXRBcVQ0RjZZbENTc01kMzdmQlhiem5CLU5KYmVvY1ZBN2F0YWhuQkN2Zy1TX1FyaExmQW0yeENpOXplVWRDMTd1WFJydHJoTEVuTXRhbzhRbGZXNTRxckJlRUpVUDg1MDJWd25V0gGoAUFVX3lxTE5DTnJJVHZQbjBLUTlkNjJuR0ltTlZnWi15SW5UTlNOc0o3Tk9SSHBxSFBEenhTNDdjemZSd1VRVWRpM0MtVlI2cC1mSG1XeUpqb2pmeDN6bnhrYVc5TDk5ZXp3cktkQ2JyS0FqNDdSelgwN08yejIxbmpfbDFPN2ZuQkRWUHVwc0ZlYVpSX3pCc2dUU3pXcDBiX2VLdE5ZNk5RNlpiQnlWNQ?oc=5",
-      "pub_date": 1763812801.0,
-      "article_url": "https://www.cnbc.com/2025/11/22/ai-christmas-the-latest-devices-from-amazon-meta-google-and-more.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108201534-1758314255913-gettyimages-2235445088-META_GLASSES.jpeg?v=1758314288&w=1920&h=1080",
-      "description": "This holiday shopping season features more advanced smart glasses, smart speakers with generative AI and a pendant users can wear to carry around an AI friend."
-    },
-    {
       "headline": "Meet the AI workers who tell their friends and family to stay away from AI | Artificial intelligence (AI)",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
@@ -65,14 +45,14 @@
       "description": "Earlier this week, Lumen Technologies launched its Lumen Defender Advanced Managed Detection and Response with Microsoft Sentinel and joined Meter in announcing an integrated WAN-to-LAN networking solution tailored for AI-driven enterprises. These developments underscore Lumen\u2019s commitment to expanding its digital security and connectivity ecosystem through deeper integrations with industry leaders and innovative platform offerings. We\u2019ll examine how the Microsoft Sentinel-powered..."
     },
     {
-      "headline": "An A.I. Toy Bear Speaks of Sex, Knives and Pills, a Consumer Group Warns",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU0R4REIxOHN4RjJXaWpGVHJKOGRqd1BoOHFhMWwydS10RlRhZVFXaUp3TlVVSk1qUVo3SmQ5OEY5LUcwRnBwWHlQR3hYWUtHcms2c0ZxUW5LYmppN3F3aThGdUFHdmhaMU5VTFZrZGJyalEya1dWVXg3MHVUUkFOdFpUT0pncDlkRFRPdA?oc=5",
-      "pub_date": 1763845846.0,
-      "article_url": "https://www.nytimes.com/2025/11/22/us/folotoy-ai-bear-suspended-explicit-advice.html",
-      "image": null,
-      "description": null
+      "headline": "Oklahoma's new chief AI officer will 'rethink how government operates'",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLWY2TWpQcHd3TlpqRnBoUl9vUk5IdEhDMVRkN05TRmRJbnRsT3c1QVhwMS1nLUdmLWozQmJOUERmdUVZZmVmcHl1YmxaV19ERXpiWktQMnN3WTc4eklqeDJUV3gtbkQ5MnN2T0pkOWgzbkJvb0NuZnd0OUotMHpnVEl5UWpTbEN5LXZCNlF3?oc=5",
+      "pub_date": 1763853627.0,
+      "article_url": "https://www.yahoo.com/news/articles/oklahomas-chief-ai-officer-rethink-232027925.html",
+      "image": "https://media.zenfs.com/en/the_oklahoman_natl_articles_469/e3a37fdf35a33baa977695116ad74f86",
+      "description": "A University of Oklahoma alumnus who\u2019s worked in multiple corporate roles is the state\u2019s chief artificial intelligence and technology officer."
     },
     {
       "headline": "Analysis | Are we in an AI bubble? Eight charts will help you decide.",
@@ -85,6 +65,26 @@
       "description": null
     },
     {
+      "headline": "The A.I. Boom Has Found Another Gear. Why Can\u2019t People Shake Their Worries?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNWE0MUtaUVMzaG1md1oxX1dkcmNjSTdaQjZxYWxaMHhPSXRhM0RKeXlZSjh1WUNyTnFXdURRaDFOcFdrS2pEbE9FbDQ4ZE96QVVZd2lLRktTUFJnNUFOb3E5aTVqMDlrYnc0VXNjYml0M2ktckZmSjVhbw?oc=5",
+      "pub_date": 1763674602.0,
+      "article_url": "https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The world\u2019s biggest company just told everyone to chill out",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QTnVBWkdqb0puUGF4X0YzQTN0cG9hWkxIdlNDaWFsdXFCSFJJR0lkenpaS3duQm8xN2JKSjFxbHhkbFQ4YUkxNFgzNkZ2ZG5BUjhlUmpRWnZndFNHS1FJR0FtQkVfbnFJdlpaYU9pUWl1a0dKMEE?oc=5",
+      "pub_date": 1763798458.0,
+      "article_url": "https://www.cnn.com/2025/11/22/tech/ai-bubble-fears-nvidia-earnings",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243374844.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Concerns about an AI bubble have been simmering for at least a year and a half. Nvidia\u2019s incredibly strong earnings this past week tried to put those fears to bed. It may not have been enough."
+    },
+    {
       "headline": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -95,16 +95,16 @@
       "description": "\u201cIt\u2019ll be like playing sports or a video game or something like that,\u201d the Tesla CEO said."
     },
     {
-      "headline": "France will investigate Musk\u2019s Grok after AI chatbot posted Holocaust denial claims",
-      "source": "PBS",
-      "source_url": "https://www.pbs.org",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTV5UTR0eFpiNGswYV85VGpKdFhmX1JtcnU5cUc0VnA3endBRG5zWDRxb2lWSXZpZTdMaEVXZnpqTUNCUzFhZ2FuQ3lnblRGVER3UUV5dV9DMVZQdEdkbVhBT2oxRkF3MG9qVHNsNUlZSVFUNG15dzFoSjFQNzRaMUlpdVlfQlZTM3d0OW5EVUFldGM2WXdRZkNSYjhBdTU4R3g4SDVVYmI3Zk5OazU0VGcxNmkzX2xB0gG-AUFVX3lxTFBtNnMwTlNTQVVVQkxlYkhwVWpOSW04emVic0N1R054SXQyRzFYVFd3SDVfTXZRc3cwNm9GZzJvYWZLYWlUdEg5S1haRHdsSE5TclRPVjhNQ1BwbEQxamFqenRhMmt2VjRxdWNWNUh5ZmF3eUdlTFZabXZVNVBrcGFtVDNfbUtsbV9vd2ozQU91STBkVWQ5Unc5bUhLWVNzODl4V1lBLVEycFE2ajk1dTJUVEl0NDJiZTkwLTdmdXc?oc=5",
-      "pub_date": 1763765252.0,
-      "article_url": "https://www.pbs.org/newshour/world/france-will-investigate-musks-grok-after-ai-chatbot-posted-holocaust-denial-claims",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/2025-02-16T142607Z_263064880_RC2PVCA4ZVJM_RTRMADP_3_XAI-AI-1024x683.jpg",
-      "description": "France\u2019s government is taking action against billionaire\u00a0Elon Musk\u00a0's artificial intelligence chatbot Grok after it generated French-language posts that questioned the use of gas chambers at Auschwitz, officials said."
+      "headline": "An MIT Student Awed Top Economists With His AI Study\u2014Then It All Fell Apart",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNWkI1SmdEQ1I2ZnJRcE9NdWdwTHZCeENwTXZBSWdpZEo0c0VJZ0llal9EWjM1OVlnSkxBQUVtVFlwZ3lHdHVkTk5WMkRUWjRta21oQnYtX2dZMjBTNVNuNEZYRDZ0OGhHOFBrZFhLVm1Bakh1NE05SHVNTjhHbEZrSmFMWkhmZkZoMEVBc3Y1NHdMckpDVVV0Y1BZcDRPcER6UG01ZVJFOHMzV2ZVdWJzejRlWFhTU2dfNmN1bzlKZzQ1OENYT1RvVlRRa0o4UlVUYzg5dWdhQjB0TTlLOW1RUnlvUEFtNTA1SWU1SWc0X1pIUE1pSE9IWXJWY2l2MXVlWlJFX2tQbGpCZG1RdHhSZHBhOHVicjY4MWY0d2NQX3VNZ1N6UGxRMFB2V0MxT09nR0lJOV9rcnRHZW40cWtJVndzWFBRM1J0ZVZIVFNPRU1CRnZGM2Q0NFFwZzB4X3paY1lMcE5ZTFg2emg4QjdUaExWQmpENFJCMFN1a1NuSmhsdw?oc=5",
+      "pub_date": 1763781366.0,
+      "article_url": "https://www.wsj.com/economy/aidan-toner-rodgers-mit-ai-research-78753243?gaa_at=eafs&gaa_n=AWEtsqdlEanJ79Dpdr4vnyY2tMKKEUmUtj3RyQaF60RSf_5m5vdW2hiH_n1W&gaa_ts=692250ec&gaa_sig=SPXMcxEF4HiyRw4DwWvFo_JgS4qXZBkWLL8ZSjQBH2Z9nHXOG-oknA8xPOum4YeA1gyaTEDln_-dlLDd68Jw2Q%3D%3D",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-22T23:15:27.111590+00:00"
+  "fetched_at": "2025-11-22T23:55:40.281140+00:00"
 }
