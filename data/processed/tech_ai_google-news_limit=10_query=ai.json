@@ -49,10 +49,30 @@
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtVWhnR3F0bmIzaVBuMjFTMVJkQVViX25tUDZBMEF6MnRjNGRDTHM0eFJxbHhTZVF6UXFRUzg2SHM4eUpoNEpDWGZNYy1pZTkzV0ZBaFBxelNSNmxjSFNYb0MzbHNHdFRfcTRjQUFRLXo?oc=5",
-      "pub_date": 1763816270.0,
+      "pub_date": 1763816817.0,
       "article_url": "https://www.axios.com/2025/11/22/ai-accents-chatgpt-jobs-health",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "UAE Plans to Invest $1 Billion in African AI Infrastructure",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUkVUa3dVUXZrRGxZbjhHQnh4OC1lNndId0c3b0lBODZNVFkzRE1zUy1HWGl3Wmx2Tk1zcFoyVXFMUGxteF9XdWd3UnRkYXg2QnJMVVoycE5NYXFhTElLZ0ZxRlhLSjI3UVE4d01qMEVxMU5SbVlvNWxBOWdhakQyNFB4eEtCRUh0OWNHN2IyZDFaQ3BkT3F3WFc2cHh3d3FqVjhLR3VTVFh3WmhqbHc?oc=5",
+      "pub_date": 1763816253.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-22/uae-plans-to-invest-1-billion-in-african-ai-infrastructure",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iraVvNHhUMB0/v0/1200x800.jpg",
+      "description": "The United Arab Emirates plans to invest $1 billion to expand artificial intelligence infrastructure and services across Africa, bolstering its influence on a continent that\u2019s lagged behind the rest of the world in adopting the technology."
+    },
+    {
+      "headline": "Google's Nano Banana Pro Makes Ultrarealistic AI Images. It Scares the Hell Out of Me",
+      "source": "CNET",
+      "source_url": "https://www.cnet.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXoyNU92QnhCYmFqYlZaZDFYV0xtRHh2djlXR2RhaG1yZUxTV2ZRQWlGX0lENE1sdjFWZW03dWhCN1hMdmFXMGNzY0J2Rm51djFmd3FoVVlOX0wzNDlTOG43NWhhLXlVUWpDOG5JUElmbnppb2EyQXZNNGJmZlktTTZUM3dJWklBdXRFYkJqSjJFVWRWVTE5bHlHSWZmTDE1UXpLd3h5Z1NIekY2a2xmSmhWeGhfQkpsQ1NrQlZxaGhNSERVMU5GTXFLblQ?oc=5",
+      "pub_date": 1763812860.0,
+      "article_url": "https://www.cnet.com/tech/services-and-software/googles-nano-banana-pro-makes-ultrarealistic-ai-images-it-scares-the-hell-out-of-me/",
+      "image": "https://www.cnet.com/a/img/resize/e50d1c601b1537ae286cf023845993bf61279944/hub/2025/11/21/641bea71-528a-4863-a89b-01511fc294b5/nano-banana-vt.png?auto=webp&fit=crop&height=675&width=1200",
+      "description": "Google's new AI image model is so powerful that it erases what was left of the thin line between real and AI-generated imagery."
     },
     {
       "headline": "The A.I. Boom Is Driving the Economy. What Happens if It Falters?",
@@ -65,36 +85,6 @@
       "description": null
     },
     {
-      "headline": "Tech stocks wrap big losing week as AI names get rocked after Nvidia earnings",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWG00YkpEblpJWDVpYXVVM1BtR3FmdWtFNjV4UU1kSkFjSkpWZGJOM1lnTTYwRlZmdU1hUWdiTUp2R3NSbzhqSWthYTFGUFBuV0pBczZkdy04YThPcG5FVGZvenBwMWdURkZMSkNFRzNhZzA3Vk9SMmQwallhSng3emg3dWl2bUk1SjdZ0gGQAUFVX3lxTE44M1hFRDlkcEFiV2hfcWpadzVibThNc05Yd0hBSjk5Y2tQMEhUTDVDaF9HcUlQSGFQZ1RvNS1wcnEtVHBQVFFLaFlTWkNkQ1JDbEZLM3lJVXA3QjBLVTBOc09wT2RkeWhhZEZ1MlQtd29VZmhGQXdjUHM1S00wNUl2ZTNJa0lseXE5Rkx0OHNPNw?oc=5",
-      "pub_date": 1763746565.0,
-      "article_url": "https://www.cnbc.com/2025/11/21/tech-stocks-nvidia-amd-oracle-amazon-microsoft.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108186410-1755244900069-gettyimages-2224768312-CHINA_JENSEN_HUANG.jpeg?v=1763746442&w=1920&h=1080",
-      "description": "Investors had looked to Nvidia's earnings report to settle fears that the AI bubble is on increasingly shaky ground."
-    },
-    {
-      "headline": "This Month's Stock Trend Hasn't Been AI. Here's What's Been Climbing Instead",
-      "source": "Investopedia",
-      "source_url": "https://www.investopedia.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMGFRT1BWdjNRNWs0anhCUk45cE1aQ1lTNHdVQ2JzWllGdDlVOG9fQ2xZLTJCWHBESGdYaG9ZcElsWm5ZaEpud2JzcHE3U3VCZ0dsc1ZFbU5ZQ1RpQkI4RDJqRmx0dHViNUY0REE2RXRJTkdPQTh4LVlnUzlLYTVVZ3NWR2JtdmcxeDdLV3BUYTJvOTNfbEZUMU5ESS10aGdEXzNmMkNpeU91c3VxemE1MVBQc1o0MFZSNFZEa3M0S2xORm5ZRjJ4djVQbG5HZw?oc=5",
-      "pub_date": 1763738158.0,
-      "article_url": "https://www.investopedia.com/this-month-s-stock-trend-hasn-t-been-ai-here-s-what-s-been-climbing-instead-healthcare-lly-regn-11854186",
-      "image": "https://www.investopedia.com/thmb/dPP3Uf-WWvnujF9KWJ-IM2zjvuM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2246568943-35874169aa3146069ef1a946216b5a31.jpg",
-      "description": "Healthcare stocks have outperformed the broader market by nearly 10 percentage points this month as AI bubble concerns have weighed on tech stocks."
-    },
-    {
-      "headline": "The world\u2019s biggest company just told everyone to chill out",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QTnVBWkdqb0puUGF4X0YzQTN0cG9hWkxIdlNDaWFsdXFCSFJJR0lkenpaS3duQm8xN2JKSjFxbHhkbFQ4YUkxNFgzNkZ2ZG5BUjhlUmpRWnZndFNHS1FJR0FtQkVfbnFJdlpaYU9pUWl1a0dKMEE?oc=5",
-      "pub_date": 1763798458.0,
-      "article_url": "https://www.cnn.com/2025/11/22/tech/ai-bubble-fears-nvidia-earnings",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243374844.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Concerns about an AI bubble have been simmering for at least a year and a half. Nvidia\u2019s incredibly strong earnings this past week tried to put those fears to bed. It may not have been enough."
-    },
-    {
       "headline": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -103,8 +93,18 @@
       "article_url": "https://fortune.com/2025/11/20/elon-musk-tesla-ai-work-optional-money-irrelevant/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246882303-e1763661015921.jpg?resize=1200,600",
       "description": "\u201cIt\u2019ll be like playing sports or a video game or something like that,\u201d the Tesla CEO said."
+    },
+    {
+      "headline": "In a one-sided relationship with an AI chatbot? Here's 2025's Word of the Year",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTG9qYzdfYnJFLXFuNnUxVDh6cENtODU1N3czMFkwR2h2azJiV01JakU3V3dZU0dnd3A1LURaaGlLUnAwY1JVcUtKNlNqalJmVXV3a2F5UTNMSzZsYXpSREF0YndHSjh4cTFSTUM5TWNiaUpQd1A4QWxEWmFNRVgzSktyNHozZXpDamwwck5TQkNwd0xlV0lGOE90QXTSAaIBQVVfeXFMT0FrYlF6al9TRWxTMi1LUUlyX0plWkc4QmxXYnluUzBTTVRQN1gzQV9lblpaUGdSS0R1dnJGTDdncWJJNldmd3lJZjIwSm9VX3ZWeFIzQm9yV2hGel9mT2F5T0F6VzlIMzR0d184WWJPbkM0TG1zN3dLS01QRUJPYzlYOWxpLWhMc0w2U0dwVXlqWnBqSFh6NE95R1pOcVVXVWJ3?oc=5",
+      "pub_date": 1763795778.0,
+      "article_url": "https://www.cnbc.com/2025/11/22/ai-chatbot-relationships-influences-2025s-word-of-the-year-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229171-1763651654504-gettyimages-1506736146-miriamchatbot.jpeg?v=1763658474&w=1920&h=1080",
+      "description": "\"Parasocial relationship is when we think we know someone... who's in fact a person we've never met,\" Simone Schnall, University of Cambridge professor said."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-22T13:01:56.810727+00:00"
+  "fetched_at": "2025-11-22T13:42:44.810992+00:00"
 }
