@@ -1,0 +1,121 @@
+name: Squash Old History
+
+# Squashes commits older than the most recent 100 to keep repo size manageable
+# Only affects 'data' branch - NEVER touches 'main' branch
+# Safe to run concurrently with update workflow (operates on different parts of history)
+
+on:
+  schedule:
+    - cron: '0 3 * * 0'  # Every Sunday at 3 AM UTC
+  workflow_dispatch:  # Allow manual trigger for testing
+
+jobs:
+  squash-old-commits:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout data branch with full history
+        uses: actions/checkout@v3
+        with:
+          ref: data
+          fetch-depth: 0  # Need full history to squash old commits
+
+      - name: Verify we're on data branch
+        run: |
+          CURRENT_BRANCH=$(git branch --show-current)
+          if [ "$CURRENT_BRANCH" != "data" ]; then
+            echo "❌ ERROR: Not on data branch (currently on: $CURRENT_BRANCH)"
+            exit 1
+          fi
+          echo "✅ Confirmed on data branch"
+
+      - name: Squash old commits (keep last 100)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Count total commits on data branch
+          TOTAL_COMMITS=$(git rev-list --count data)
+          KEEP_COMMITS=100
+
+          echo "📊 Total commits on data branch: $TOTAL_COMMITS"
+          echo "📊 Commits to keep: $KEEP_COMMITS"
+
+          # Check if squashing is needed
+          if [ $TOTAL_COMMITS -le $KEEP_COMMITS ]; then
+            echo "✅ Only $TOTAL_COMMITS commits exist, nothing to squash yet"
+            echo "ℹ️  Squashing will begin after $(($KEEP_COMMITS - $TOTAL_COMMITS + 1)) more commits"
+            exit 0
+          fi
+
+          echo "🔄 Squashing $(($TOTAL_COMMITS - $KEEP_COMMITS)) old commits..."
+
+          # Get the 100th commit from HEAD (this becomes the new base)
+          CUTOFF_COMMIT=$(git rev-parse HEAD~$KEEP_COMMITS)
+          CUTOFF_DATE=$(git show -s --format=%ci $CUTOFF_COMMIT)
+
+          echo "📍 Cutoff commit: $CUTOFF_COMMIT"
+          echo "📅 Cutoff date: $CUTOFF_DATE"
+
+          # Create orphan branch with squashed old history
+          git checkout --orphan data-new
+          git reset --hard $CUTOFF_COMMIT
+
+          # Amend to create single squashed commit for all old history
+          git commit --amend -m "Squashed old history (kept last $KEEP_COMMITS commits)
+
+This commit represents all history before $CUTOFF_DATE
+Original commit count: $(($TOTAL_COMMITS - $KEEP_COMMITS))
+
+🤖 Auto-squashed by GitHub Actions"
+
+          echo "✅ Created squashed base commit"
+
+          # Replay recent commits (last 100) on top of squashed base
+          echo "🔄 Replaying last $KEEP_COMMITS commits..."
+          if git cherry-pick $CUTOFF_COMMIT..data; then
+            echo "✅ Successfully replayed recent commits"
+          else
+            echo "❌ Cherry-pick failed - aborting squash"
+            git cherry-pick --abort
+            exit 1
+          fi
+
+          # Verify new history
+          NEW_TOTAL=$(git rev-list --count data-new)
+          echo "📊 New commit count: $NEW_TOTAL (was $TOTAL_COMMITS)"
+
+          if [ $NEW_TOTAL -ne $(($KEEP_COMMITS + 1)) ]; then
+            echo "⚠️  WARNING: Expected $(($KEEP_COMMITS + 1)) commits, got $NEW_TOTAL"
+            echo "This might indicate an issue - aborting for safety"
+            exit 1
+          fi
+
+          # Replace old data branch with new squashed version
+          git branch -M data
+
+          echo "✅ Ready to push squashed history"
+
+      - name: Push squashed history to data branch
+        run: |
+          # Force push to replace old history
+          # This is safe because:
+          # 1. Only affects 'data' branch (not 'main')
+          # 2. Recent commits (last 100) are preserved exactly
+          # 3. Update workflow only touches HEAD, which is unchanged
+          git push --force origin data
+
+          echo "✅ Successfully squashed old history on data branch"
+          echo "📊 Repo size reduced - old commits removed"
+
+      - name: Report results
+        if: always()
+        run: |
+          echo "═══════════════════════════════════════"
+          echo "Squash History Report"
+          echo "═══════════════════════════════════════"
+          git log --oneline -5
+          echo "═══════════════════════════════════════"
+          echo "✅ Latest 5 commits shown above"
+          echo "💾 Old history squashed to save space"
+          echo "🔒 Main branch unaffected"

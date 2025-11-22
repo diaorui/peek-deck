@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           ref: main
-          fetch-depth: 0
+          fetch-depth: 1  # Shallow clone - only need latest code
 
       - name: Setup git config
         run: |
@@ -37,8 +37,8 @@ jobs:
 
       - name: Restore cache from data branch
         run: |
-          # Try to fetch and restore cache from data branch
-          if git fetch origin data:refs/remotes/origin/data 2>/dev/null && \
+          # Try to fetch and restore cache from data branch (shallow fetch)
+          if git fetch --depth=1 origin data:refs/remotes/origin/data 2>/dev/null && \
              git ls-remote --exit-code --heads origin data >/dev/null 2>&1; then
             echo "📦 Restoring cache from data branch..."
             git checkout origin/data -- data/cache/ 2>/dev/null || true
@@ -94,8 +94,8 @@ jobs:
           cp -r docs /tmp/fathom-build/ || true
           cp -r data/cache /tmp/fathom-build/ || true
 
-          # Fetch data branch (or create if doesn't exist)
-          git fetch origin data:refs/remotes/origin/data || true
+          # Fetch data branch (or create if doesn't exist) - shallow fetch
+          git fetch --depth=1 origin data:refs/remotes/origin/data || true
 
           # Check if data branch exists on remote
           if git ls-remote --exit-code --heads origin data; then
