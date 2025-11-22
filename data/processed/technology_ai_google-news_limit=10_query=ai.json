@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "ai",
+  "site": null,
+  "search_query": "ai",
+  "articles": [
+    {
+      "headline": "Introducing Nano Banana Pro",
+      "source": "The Keyword",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81eFc0WmRGVnBjc2RqT0RkT3EycWQtTW1McUxmZFQzLXZDZG5pbUdCdm9FTi1QR21mS0VraUlldmMxNFFmZ2hxZEtwcUJIMy1Tc3dyUWlRT0EtNjFQS3o4?oc=5",
+      "pub_date": 1763651223.0,
+      "article_url": "https://blog.google/technology/ai/nano-banana-pro/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nanobananaprohero.width-1300.png",
+      "description": "Nano Banana Pro is our new image generation and editing model from Google DeepMind."
+    },
+    {
+      "headline": "Google must double AI serving capacity every 6 months to meet demand, AI infrastructure boss tells employees",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXZRUXNMWTNhSlFzZlkybjlVTUJoSi11S1Nfdno5YUhCaktNMVduTFh6TWxHcHRhWUowZlV4TDFiNWllZmNXWFM0cG11NUttV1BzblBvT2pvUUZxWV9LSmVKU190QzJBMXVyNUVTazVZeHo5V2pucGVCUUhmVFU2ZThwZHNYTDM5N3Rsa0llVW05QXF0RmZhdHh4dWhZVlhZOWlCV2FlQmXSAa4BQVVfeXFMUFNKVlMzdWJFSTFYWUhlQXM4dFFjRnVqVlJQUEJJR09IUEY2WEc5OWNldDd2MC1Bay03NGhPLW1IaTVfVXYyTDZRWFo4NThSdWctX3Fld1BUN2piM0lrVnZLcHNkczZSNFF3eDV6OTdEcE44Z0prOGlnYklXb0lTNXFXTU55UzBBdzdVMzQ1OWJ4ZllrZ1M2R0xVYmVfb0txSTExd3lac21NOGVWT053?oc=5",
+      "pub_date": 1763728201.0,
+      "article_url": "https://www.cnbc.com/2025/11/21/google-must-double-ai-serving-capacity-every-6-months-to-meet-demand.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108023895-1724280070456-amin.jpg?v=1724280282&w=1920&h=1080",
+      "description": "At a recent all-hands meeting, Google's head of AI infrastructure said the company has to race to build out compute capacity."
+    },
+    {
+      "headline": "Tech stocks wrap big losing week as AI names get rocked after Nvidia earnings",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWG00YkpEblpJWDVpYXVVM1BtR3FmdWtFNjV4UU1kSkFjSkpWZGJOM1lnTTYwRlZmdU1hUWdiTUp2R3NSbzhqSWthYTFGUFBuV0pBczZkdy04YThPcG5FVGZvenBwMWdURkZMSkNFRzNhZzA3Vk9SMmQwallhSng3emg3dWl2bUk1SjdZ0gGQAUFVX3lxTE44M1hFRDlkcEFiV2hfcWpadzVibThNc05Yd0hBSjk5Y2tQMEhUTDVDaF9HcUlQSGFQZ1RvNS1wcnEtVHBQVFFLaFlTWkNkQ1JDbEZLM3lJVXA3QjBLVTBOc09wT2RkeWhhZEZ1MlQtd29VZmhGQXdjUHM1S00wNUl2ZTNJa0lseXE5Rkx0OHNPNw?oc=5",
+      "pub_date": 1763746565.0,
+      "article_url": "https://www.cnbc.com/2025/11/21/tech-stocks-nvidia-amd-oracle-amazon-microsoft.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108186410-1755244900069-gettyimages-2224768312-CHINA_JENSEN_HUANG.jpeg?v=1763746442&w=1920&h=1080",
+      "description": "Investors had looked to Nvidia's earnings report to settle fears that the AI bubble is on increasingly shaky ground."
+    },
+    {
+      "headline": "AI Fears Shake Markets. Why Nvidia No Longer Shows the Way and What Can.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOcmR2MVRDSzJEZzZvaGZ2aUpucDZleUZGeGFBU2NLdGtCRVFRTHRmNjVVd2d3SnZ6NndaQ29kVnZ5NDNqYU5RMFdzMzlUX3NiaFRMQWE5QVFGekhzZTVqZ3dJTGkzTkdBU09iUDJaM1BTSzlxeDBwQXdnTjFNME5waWdEUWcyYmNRc0thRkllVlA3VTdfYS0teV9qRHJtTFNqZFFnSUNmVzZRelp6MzlNU25XQjJBdW1VbkhyZFV0WERubEYxWmFtSTJzZDNKWjFlQlFyNGtVaHl0WTFIYWh6RVcybnRmamZPNzd1eWM2akJoN3hrRHVnWUxZVlVMVUlUN0RVRVE3NlE2cG1SZlRqWi16dDhod0dMR3lzWkNTOUlWNmdBMWJqa0x3Ym84RlBiYkVRMy1iUzUwa2xUWm1vZ18wZlYyNHZLSzE1VWtVYXdfbVlmcm1xS0QzTHdNVzhzaGNOaUJYbENMWW5hX3pZZmtLT3F4XzVnTUx4WkdOVy1pR0JmVFZScF81bkdVRENsVl9XZWRheTd6REF5VktIRDEtVE42UQ?oc=5",
+      "pub_date": 1763726100.0,
+      "article_url": "https://www.barrons.com/articles/ai-fears-stock-market-nvidia-bitcoin-things-to-know-today-63b21d7c?gaa_at=eafs&gaa_n=AWEtsqcLLbwdPcOEjzKOs2lkIw_UIzN4YY6Q2tZFUSqcUUn2V-tZK6-0z53b&gaa_ts=69213f94&gaa_sig=0AMMB1DwJEpA1HfQWDxoamWu1HmGAWCRJFm6utcHS4VRxgzWiuLgniuQV7EUqG5_eJJfFKJQzt4FEI70qkO9sg%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The A.I. Boom Has Found Another Gear. Why Can\u2019t People Shake Their Worries?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNWE0MUtaUVMzaG1md1oxX1dkcmNjSTdaQjZxYWxaMHhPSXRhM0RKeXlZSjh1WUNyTnFXdURRaDFOcFdrS2pEbE9FbDQ4ZE96QVVZd2lLRktTUFJnNUFOb3E5aTVqMDlrYnc0VXNjYml0M2ktckZmSjVhbw?oc=5",
+      "pub_date": 1763674602.0,
+      "article_url": "https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Megan Thee Stallion testifies in Miami defamation trial over alleged AI deepfake video",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmQwaUV1Q2I0V3h5NDQ0eW9DTHNpUGhGSGhfcHpOaDI5MzYwamoweW1JM2tmVHB2U25FWGZiOERjRzBrTlh0TGY1OFViMHZWUDFqbVRMbUlPT2wwR2Z5S1JCWENFeW5jVDl0bVNUUGRjNDZzMDA2cTlWRmZjSVQ5MnpncTdMTUdVWWdpMTAyV21LLW9kM3FuZmgxUTh6ZnVfNFFHQVNfVmxGa1k4NGpnOEplM2M?oc=5",
+      "pub_date": 1763783315.0,
+      "article_url": "https://www.cbsnews.com/miami/news/megan-thee-stallion-testifies-miami-defamation-trial-alleged-ai-deepfake-video/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/21/bf34c541-1d2f-4fc3-b43e-4a1af6eea0cb/thumbnail/1200x630/86da6c390c3d1e515c52448b0137cd48/28dbf24ffc744ebf3add7c41a70796d7.jpg",
+      "description": "During cross-examination, the artist testified that the alleged deepfake video severely affected both her mental health and her music career."
+    },
+    {
+      "headline": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWVsY1hoTC1MWjZwNTVZdTdtdmhoc19vS3VRc2JrZGlKbDFvR0d1N0hXTTBLeEwtcml1ZEFPcXpZT2l4RDFrcHAxam1DbmxyOHVxY0NDcjNkSlZBRDBIVmE2NzFzVVNsbWxpbnlFQXBjelZtMlRjZG5SYmtGRklkSi1hRU1lcjJ0?oc=5",
+      "pub_date": 1763663820.0,
+      "article_url": "https://fortune.com/2025/11/20/elon-musk-tesla-ai-work-optional-money-irrelevant/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246882303-e1763661015921.jpg?resize=1200,600",
+      "description": "\u201cIt\u2019ll be like playing sports or a video game or something like that,\u201d the Tesla CEO said."
+    },
+    {
+      "headline": "France will investigate Musk\u2019s Grok after AI chatbot posted Holocaust denial claims",
+      "source": "PBS",
+      "source_url": "https://www.pbs.org",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTV5UTR0eFpiNGswYV85VGpKdFhmX1JtcnU5cUc0VnA3endBRG5zWDRxb2lWSXZpZTdMaEVXZnpqTUNCUzFhZ2FuQ3lnblRGVER3UUV5dV9DMVZQdEdkbVhBT2oxRkF3MG9qVHNsNUlZSVFUNG15dzFoSjFQNzRaMUlpdVlfQlZTM3d0OW5EVUFldGM2WXdRZkNSYjhBdTU4R3g4SDVVYmI3Zk5OazU0VGcxNmkzX2xB0gG-AUFVX3lxTFBtNnMwTlNTQVVVQkxlYkhwVWpOSW04emVic0N1R054SXQyRzFYVFd3SDVfTXZRc3cwNm9GZzJvYWZLYWlUdEg5S1haRHdsSE5TclRPVjhNQ1BwbEQxamFqenRhMmt2VjRxdWNWNUh5ZmF3eUdlTFZabXZVNVBrcGFtVDNfbUtsbV9vd2ozQU91STBkVWQ5Unc5bUhLWVNzODl4V1lBLVEycFE2ajk1dTJUVEl0NDJiZTkwLTdmdXc?oc=5",
+      "pub_date": 1763765252.0,
+      "article_url": "https://www.pbs.org/newshour/world/france-will-investigate-musks-grok-after-ai-chatbot-posted-holocaust-denial-claims",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/2025-02-16T142607Z_263064880_RC2PVCA4ZVJM_RTRMADP_3_XAI-AI-1024x683.jpg",
+      "description": "France\u2019s government is taking action against billionaire\u00a0Elon Musk\u00a0's artificial intelligence chatbot Grok after it generated French-language posts that questioned the use of gas chambers at Auschwitz, officials said."
+    },
+    {
+      "headline": "Elon Musk\u2019s Grok AI tells users he is fitter than LeBron James and smarter than Leonardo da Vinci",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV1VVNG9laERHUWR2Q1lhaXQzU0hEN2lEMjczSHptcG0zaXUzeHR4TkZqZ2phWEMxem5TLW1zd1I4WW1WY214Yk50UWkyVnVFYWFZX2plVG9maUMtRXRGcGlfdXJzV2pHYnAtbUplMXRfUzR0U09MSlpTdUNVMWFIblR1WV8xVXFEbHYzUGZHREJQcHkzZ2RMT0hMenpteWpFZE1md19BclloTDc3?oc=5",
+      "pub_date": 1763743260.0,
+      "article_url": "https://www.theguardian.com/technology/2025/nov/21/elon-musk-grok-ai-bias-ranks-richest-man-fittest-smartest",
+      "image": "https://i.guim.co.uk/img/media/6f51631e918b0ef2660772873dbe989e39f88a8b/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1be280599124d31e3d2065a3384b10ce",
+      "description": "Users noted that in a raft of now-deleted posts, the chatbot would frequently rank Musk top in any given field"
+    },
+    {
+      "headline": "A teddy bear powered by AI told safety testers about knives, pills and sex",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HLTdJaEY3VDIwQTZDT3FaZm1ES016ZlBOR2tEN0QwYVFHQ2NnWXg0VXR5eGFyYUFWWFhnNFB1V1dDN1NhcDNUa25VSWVmNDU2RXcxS2FrbE1IdFpqWl9MVGl1TUJnUDFP?oc=5",
+      "pub_date": 1763755247.0,
+      "article_url": "https://www.washingtonpost.com/nation/2025/11/21/ai-toys/",
+      "image": null,
+      "description": null
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2025-11-22T04:29:23.492269+00:00"
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "bitcoin",
+  "site": null,
+  "search_query": "bitcoin",
+  "articles": [
+    {
+      "headline": "Why crypto's having a terrible, horrible, no good, very bad month",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT2JDRVV1bm0yU2gtNk44Ry14ZndMbU1YLXJzc1ZuLVRVTGs4WWl1b1RhdDVvQ2N0SGZ2YlFEYWYzODhlR0EzZzlOTUFidXdQcEJXUV9aZmYxalVFVmJ6VzNkeUotV2hvMVZzcXk5VXpMMXdpN0NBenZQLW5RSGRKZFJTeVh1RE8tT0c3X1k5ZUtSbkN2TnlFZ0VFTQ?oc=5",
+      "pub_date": 1763751507.0,
+      "article_url": "https://www.usatoday.com/story/money/markets/2025/11/21/bitcoin-crypto-market-news/87395390007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/11/21/USAT/87396510007-20200908-t-054642-z-1577126694-rc-25-ui-95-sydv-rtrmadp-3-cryptocurrenciesafrica.JPG?crop=6719,3781,x0,y349&width=3200&height=1801&format=pjpg&auto=webp",
+      "description": "Bitcoin and other crypto have dropped more than 30%, putting them firmly into bear markets. What's happening and what it means for investors."
+    },
+    {
+      "headline": "How a Maine couple gave their $1.3M retirement savings to bitcoin scammers",
+      "source": "The Portland Press Herald",
+      "source_url": "https://www.pressherald.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3BxMlE2LWN2WEVtRWR4VGVoSjJHMmdULXN6Uy00WDAyeXl0Q1NLZUZCc2JMdW5CX0ZBVXpMd3ZSd01jSGxKY2ZoRGJ5YWhEMjVlU1R2dDBFZ2RiU2FMempKNEo3WTBEaGRXSklfUUNwemxPaDY2MEZ3UzAxTUJLOVN5d1hhaDV2alZiMWtSd1UtcjdaSHJiMDJTcjY2SVM2aTBLNURxRGFmejhLd2NuM3FWZ20wX29Ucjc0Vg?oc=5",
+      "pub_date": 1763656200.0,
+      "article_url": "https://www.pressherald.com/2025/11/20/how-a-maine-couple-gave-their-1-3-million-retirement-savings-to-bitcoin-scammers/",
+      "image": "https://www.pressherald.com/wp-content/uploads/sites/4/2025/11/43182333_20251030_Scam001.jpg?w=1024",
+      "description": "Larry and Barbara Cook are risking public embarrassment to spare others from a similar trauma. In the process, they're helping to rewrite federal and state income tax laws related to fraud losses."
+    },
+    {
+      "headline": "Stock market today: Dow, Nasdaq, S&P whipsaw higher as Fed rate-cut bets jump; bitcoin slides",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTTM0T2gtY3hodFdCNGNRcHZuM2UyU2lDMlZFUXRyZ0FxMDlOTXlVSXVHYTRYUDlGQzJTVjQyeVRVWlBDVlUyV01LTVVRdV9HcTY0NHRLREdpQ3p3dWNuMTZQMmViLU1PZ3duR0dETWplTmlWemxudEZzanVsakE2NmpsaTY2ckM2bHE1dmpxaUN3NWhLRG1sWWRhM2RLWVJZMEJEWTZkT2puS3gzak9jdnBJbE5ENFRHckZZaTN3TmVLREl1cW9YSjJKdnIySUhya0hqRXd3?oc=5",
+      "pub_date": 1763755791.0,
+      "article_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-nasdaq-sp-whipsaw-higher-as-fed-rate-cut-bets-jump-bitcoin-slides-231846311.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Zk7Zl0452fPWsD39P9OVlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/627bb6b0-a92e-11f0-9ddf-780113b6af78",
+      "description": "Wall Street was set to end its latest turbulent week in what is shaping up to be a rocky month."
+    },
+    {
+      "headline": "Stock Market News, Nov. 21, 2025: Dow Rallies; Bitcoin Extends Declines",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNUjNPSUU3eFV0dHljYTZlN0dKWnZuRW8wSFB4WDByTC1IWFowWjE3ZV9DbGhMOHNLOGIySHFmY3RFNUpISlNDc3FRQTI3a0lnRkdJOVFkeE9OXzFDM1hOTWlVLVEtcUZMc1REUDRPcTVqSkV2NnRma0dLRy1DeTdmTC0wMTZmcmYzOENFbms1dzVlN3hibmxON0xaWWw3Vk1TdHIzTTB2SnExcWlGc1RfMlN3blpUdFRpOWQ4WlpLMnZxOVg1ajRMZ1dvUlg3T25LZXEtWnZ5bmV3NWZlVmVDN0ZMRVYxYWVWdThSOXcxcGplN0xrOHUxZk5JTnd3R3poVlE1ZG1oRzJRTC1JaGpVX3FjZlBoVWZ2YkpRWkVZbFFGdzhQUVlpcGlhcjlScU9jaDRaZXRtakFKVnJlR1RCR0lyM0QyWE5XMDZXeFBXWGp2clh6cjNpT3BWYkJTT1ppZmdKRWptMktGUTVWY29MQWh5RHpRZnlkdmtWZnR5a2d1MEkza1RYTDhOR1c?oc=5",
+      "pub_date": 1763779020.0,
+      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-21-2025?gaa_at=eafs&gaa_n=AWEtsqfSxgZCY2u2srYfU9USRD96jTLgZA6rTOvgnbvwFV_WLHwjFY8tm1Mp&gaa_ts=69213f7c&gaa_sig=6Af5hKAmxCrvZD9NQGD68MO8lsIXgF4LHC7DeP3vWJcj6DrNgDpxAlYPqVvS09dg4CukkAqeosVPeExxpLdayA%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Global stocks in meltdown as Wall Street bails out of crypto and AI: \u2018The bubbly is on ice\u2019",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUmpIOXkxUGFCV1ViZ0xPMDNKVlBtTkxSendQUHM5ZzlSQkMzSldMQ1dDT1AtUUFhbVE2cUZhWE1KQlo0Ny1lbm4yMXpWSFM1VFl3aEVfM1F5aUNtWTQ5MkVmNkZlR2lpM3BHaE1ObnoyT3NWQUtlYTRaX19qRnpmamhsWW5fVkd3?oc=5",
+      "pub_date": 1763726040.0,
+      "article_url": "https://fortune.com/2025/11/21/stocks-wall-street-bitcoin-price-ai-bubbly-on-ice/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/06/GettyImages-2213211113-e1750714764467.jpg?resize=1200,600",
+      "description": "Nvidia\u2019s blowout earnings call\u2014which came in way above expectations\u2014simply wasn\u2019t good enough to convince traders that AI may not be overcooked."
+    },
+    {
+      "headline": "Strategy Stock Is Under Pressure as Bitcoin Plunges. Watch This Number.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQU0QyNFhDRjNweG5PWGJlSUFSek9SSnNSS0FHdzFxQlZCNC1YU2h4ZVNLbG9UeFF0UE1aVkl4ajFmX0hOOW5STWFKak80Ukl1bHBSN0JESjJBYmhPcHZ2MnZvbWFHTXViMkJ1eUZCUWFBcWdkQ0wzUWxIY0JyUWF4TFV0d0txWWwwVnBmVldRUEpXS0k4U1pRTTNkS21PZ1h2LU1VVFdWamM5TExPc3JQY3kzUHZEYUR3MngzNDAzUG1reVpqUzZjSHJmQmpCSkVudUVmS0YycDZnSU9ockpSeEFfaF8zNjZKQzNxM2ZMWHVCd1ZjZHpranRDa3NrcEZ1MXdmQURLWmtPY0JhSml6VEJDX1hGcDY2WmViTHFBNmpsbWJ1OGEzdTNIeWhnaVdleGtLY3QtRGdxVzV6Q25XdDZxb3ZaMTRORWVVcUZ1a1gwTU11SjFCYzdUb0xaWk54V1RGb2JGSGtSeGpvaURsR3hZT1JPelFvbUJKcF9n?oc=5",
+      "pub_date": 1763739120.0,
+      "article_url": "https://www.barrons.com/articles/strategy-stock-mnav-bitcoin-3d81b41b?gaa_at=eafs&gaa_n=AWEtsqer3h7kaomQFBzpTQIILlUQ11BYZiaGk8TQcDY1e1WmErrRw6r_heZg&gaa_ts=69213f7c&gaa_sig=29aK2xQQO2digqmWfigAZViVGpJzFog_v_IxkuhxIweEmhKGwMWEyPbXKcFqoHcTJ6_oKzgftA4GNTfGxxk8Gg%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Strategy's $55 Billion Bitcoin Bet Undeterred by Index Delisting Concerns, Says Michael Saylor",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTi0xN3dvWW4zUUVxZDhrN3kwZFQxYmc5M29ERHV4N3ZQeDQwWlVXLXdza3FwUE5KLUNuXzlSS2lPX0hENWg5YWVNbzFuNkN5cWF6Z0pUdUEyYTVnOGpkcDVBb3doOE9Jcnl3OUttQWhRbkxFOTRlSG9aUEN3V1lUSkFVb2dVU0gxNDJFc05oTlRueDh3ZERobnZTd1ZlZ9IBpgFBVV95cUxNWTRVMkU2UlQzd3lWUFhsYXluc3pWNDR6UnNiTS1tM0x3eEFlUTgzRnJBTE9LRUJTTDh2QW1nQ2kycFZpelZJSjZWSjlMUGFiel9uZm9CS3I1OXoyUVAxOVNVdVlFUWFzZmpEdmVjSDRyMUVKMDdFa2d0S0RwOS1uaFI3SDA2WmRUZ053SzRuYXNBWWdaWk5pSzJrM044M05ldzNTcWpR?oc=5",
+      "pub_date": 1763753669.0,
+      "article_url": "https://decrypt.co/349633/strategys-55-billion-bitcoin-undeterred-index-delisting-concerns-saylor",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png",
+      "description": "Strategy's Michael Saylor downplayed concerns that the company could be excluded from certain equity indices next year."
+    },
+    {
+      "headline": "Saylor\u2019s Preferreds Boom Comes Into Question as Bitcoin Slumps",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMk1FcGdxN3lreV9FRThHdkNiWGtnTmVVUExXNU9yVjlrRmFqdHRmU3dTUnhidTFwN2Rtb2c3TnJMeW5LY3RxdjZEOFlYZE10UTBTM3ZiSXc3VlhoV3N3cEhyX1JWMDdTQjhCZk42Z3FfcEJqdkFOYkxPcVJyV1Yzd3I3SW45eDFmQm5ldHdwRnFLb0JXTmtpV19pVVFxMmxGWDlnVndjUmVYVEpGOU93RGZDSQ?oc=5",
+      "pub_date": 1763731991.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-21/saylor-s-preferreds-boom-comes-into-question-as-bitcoin-slumps",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irkZB0rhW37c/v1/1200x800.jpg",
+      "description": "The plunging value of Bitcoin is piling pressure on the securities Strategy Inc. has been issuing in bulk to buy the asset, raising questions about the financing model of the world\u2019s largest crypto treasury firm."
+    },
+    {
+      "headline": "Bitcoin Sell-Off Deepens, Cathie Wood Buys These Crypto Stocks.",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc01JdmRrOTB0M2l2cktXYjV2RzQyak9xV1FMcVA1aElTR1dFdXhnQlFhTWFfNGVGMm5jV3R1eHNuVlJ4NE5CS1JNY0VnT25UWXpOYWZhdUgzeUd1YW9nQmNHaVVacDF6VjdvUXE5RjZHZDVoV2lnMTl3akJBcFJWZG1rQllIOFJvNl9oeFNhMmdhLTdoSHowRm44bVBhd2tNdXpZdmdMU0RxN0h4NzFLUGEtaUdHaDExU05MTTBLTkxrSkVNUV9OOUdKRQ?oc=5",
+      "pub_date": 1763760480.0,
+      "article_url": "https://www.investors.com/news/bitcoin-price-low-liquidation-etf-outflows-cathie-wood-ark-invest-crypto-stocks-coin-blsh-crcl-bmnr/",
+      "image": "https://www.investors.com/wp-content/uploads/2017/12/stock-bitcoin-09-adobe.jpg",
+      "description": "Crypto retreat worsens amid bitcoin liquidations, ETF outflows. Cathie Wood, ARK Invest buy Coinbase, Circle, and more."
+    },
+    {
+      "headline": "BlackRock clients dump Bitcoin as price hits $81,900. Here\u2019s why analysts say the $3.8bn ETF flush will only get worse",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzVPZXN5X29PRTFOd214MDE5UTctOGhKYllkdF8wVzBYdDBYYk5sTUVBa0hjWFEySnpNRDBtVllTYkJ6NkpoQmdxaXVjOUlKZ3BXRkRZXzU5aWFDWWlzV3liWG93VEd2OTJiZUJmMW8xS2ZydkR0cFp2UDFFUF8tTFlSdVpwT2EzNlE?oc=5",
+      "pub_date": 1763721390.0,
+      "article_url": "https://finance.yahoo.com/news/blackrock-clients-dump-bitcoin-price-103630033.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/AhplHn9qeywTD0LfIjA4zw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU-/https://media.zenfs.com/en/dlnews_702/ae307b33913491d2083c1e424a342495",
+      "description": "Bitcoin has crashed more than 30% from its October peak. ETF selling hit $3.8 billion with nine days left in November, approaching February liquidations. The macro picture has turned hostile after Fed governors signal no December cut."
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2025-11-22T04:29:03.965594+00:00"
+}
