@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 41,
+      "upvotes": 45,
       "num_comments": 2,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2511.13720",
       "arxiv_url": "https://arxiv.org/abs/2511.13720",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.13720.png",
-      "upvotes": 35,
+      "upvotes": 37,
       "num_comments": 1,
       "published_at": "2025-11-17T13:59:57.000Z",
       "github_repo": "https://github.com/LTH14/JiT",
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2511.10647",
       "arxiv_url": "https://arxiv.org/abs/2511.10647",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.10647.png",
-      "upvotes": 78,
+      "upvotes": 79,
       "num_comments": 4,
       "published_at": "2025-11-13T13:59:53.000Z",
       "github_repo": "https://github.com/ByteDance-Seed/depth-anything-3",
@@ -73,7 +73,7 @@
       "num_comments": 1,
       "published_at": "2025-11-19T11:18:02.000Z",
       "github_repo": "https://github.com/facebookresearch/MHR",
-      "github_stars": 284,
+      "github_stars": 289,
       "project_page": null
     },
     {
@@ -153,25 +153,6 @@
       "project_page": "https://fapo-rl.github.io/"
     },
     {
-      "id": "2511.16317",
-      "title": "NaTex: Seamless Texture Generation as Latent Color Diffusion",
-      "authors": "Zeqiang Lai, Yunfei Zhao, Zibo Zhao et al. (8 authors)",
-      "organization_name": "Tencent-Hunyuan",
-      "organization_fullname": "Tencent Hunyuan",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/62d22496c58f969c152bcefd/woKSjt2wXvBNKussyYPsa.png",
-      "summary": "We present NaTex, a native texture generation framework that predicts texture color directly in 3D space. In contrast to previous approaches that rely on baking 2D multi-view images synthesized by geometry-conditioned Multi-View Diffusion models (MVDs), NaTex avoids several inherent limitations of the MVD pipeline. These include difficulties in handling occluded regions that require inpainting, achieving precise mesh-texture alignment along boundaries, and maintaining cross-view consistency and coherence in both content and color intensity. NaTex features a novel paradigm that addresses the aforementioned issues by viewing texture as a dense color point cloud. Driven by this idea, we propose latent color diffusion, which comprises a geometry-awared color point cloud VAE and a multi-control diffusion transformer (DiT), entirely trained from scratch using 3D data, for texture reconstruction and generation. To enable precise alignment, we introduce native geometry control that conditions the DiT on direct 3D spatial information via positional embeddings and geometry latents. We co-design the VAE-DiT architecture, where the geometry latents are extracted via a dedicated geometry branch tightly coupled with the color VAE, providing fine-grained surface guidance that maintains strong correspondence with the texture. With these designs, NaTex demonstrates strong performance, significantly outperforming previous methods in texture coherence and alignment. Moreover, NaTex also exhibits strong generalization capabilities, either training-free or with simple tuning, for various downstream applications, e.g., material generation, texture refinement, and part segmentation and texturing.",
-      "ai_summary": "NaTex generates 3D textures directly using latent color diffusion and geometry-aware models, outperforming previous methods in coherence and alignment.",
-      "hf_url": "https://huggingface.co/papers/2511.16317",
-      "arxiv_url": "https://arxiv.org/abs/2511.16317",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16317.png",
-      "upvotes": 6,
-      "num_comments": 2,
-      "published_at": "2025-11-20T07:47:22.000Z",
-      "github_repo": "https://github.com/Zeqiang-Lai/NaTex",
-      "github_stars": 52,
-      "project_page": "https://natex-ldm.github.io/"
-    },
-    {
       "id": "2511.16518",
       "title": "MiMo-Embodied: X-Embodied Foundation Model Technical Report",
       "authors": "Xiaoshuai Hao, Lei Zhou, Zhijian Huang et al. (44 authors)",
@@ -189,9 +170,28 @@
       "github_repo": "https://github.com/XiaomiMiMo/MiMo-Embodied",
       "github_stars": 89,
       "project_page": null
+    },
+    {
+      "id": "2511.15848",
+      "title": "Step-Audio-R1 Technical Report",
+      "authors": "Fei Tian, Xiangyu Tony Zhang, Yuxin Zhang et al. (17 authors)",
+      "organization_name": "stepfun-ai",
+      "organization_fullname": "StepFun",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/66935cee39002fc0569c2943/Qv8QPbkgoKE3wR4jTzHiy.png",
+      "summary": "Recent advances in reasoning models have demonstrated remarkable success in text and vision domains through extended chain-of-thought deliberation. However, a perplexing phenomenon persists in audio language models: they consistently perform better with minimal or no reasoning, raising a fundamental question - can audio intelligence truly benefit from deliberate thinking? We introduce Step-Audio-R1, the first audio reasoning model that successfully unlocks reasoning capabilities in the audio domain. Through our proposed Modality-Grounded Reasoning Distillation (MGRD) framework, Step-Audio-R1 learns to generate audio-relevant reasoning chains that genuinely ground themselves in acoustic features rather than hallucinating disconnected deliberations. Our model exhibits strong audio reasoning capabilities, surpassing Gemini 2.5 Pro and achieving performance comparable to the state-of-the-art Gemini 3 Pro across comprehensive audio understanding and reasoning benchmarks spanning speech, environmental sounds, and music. These results demonstrate that reasoning is a transferable capability across modalities when appropriately anchored, transforming extended deliberation from a liability into a powerful asset for audio intelligence. By establishing the first successful audio reasoning model, Step-Audio-R1 opens new pathways toward building truly multimodal reasoning systems that think deeply across all sensory modalities.",
+      "ai_summary": "Step-Audio-R1, using the Modality-Grounded Reasoning Distillation framework, achieves strong reasoning capabilities in audio, outperforming previous models and demonstrating the transferability of reasoning across modalities.",
+      "hf_url": "https://huggingface.co/papers/2511.15848",
+      "arxiv_url": "https://arxiv.org/abs/2511.15848",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.15848.png",
+      "upvotes": 42,
+      "num_comments": 5,
+      "published_at": "2025-11-19T15:12:50.000Z",
+      "github_repo": "https://github.com/stepfun-ai/Step-Audio-R1",
+      "github_stars": 96,
+      "project_page": "https://stepaudiollm.github.io/step-audio-r1/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-22T14:13:46.812103+00:00"
+  "fetched_at": "2025-11-22T15:18:32.732899+00:00"
 }
