@@ -62,12 +62,10 @@ jobs:
           git reset --hard $CUTOFF_COMMIT
 
           # Amend to create single squashed commit for all old history
-          git commit --amend -m "Squashed old history (kept last $KEEP_COMMITS commits)
-
-This commit represents all history before $CUTOFF_DATE
-Original commit count: $(($TOTAL_COMMITS - $KEEP_COMMITS))
-
-🤖 Auto-squashed by GitHub Actions"
+          git commit --amend -m "Squashed old history (kept last $KEEP_COMMITS commits)" \
+                             -m "This commit represents all history before $CUTOFF_DATE" \
+                             -m "Original commit count: $(($TOTAL_COMMITS - $KEEP_COMMITS))" \
+                             -m "🤖 Auto-squashed by GitHub Actions"
 
           echo "✅ Created squashed base commit"
 
