@@ -113,6 +113,16 @@
         text-overflow: ellipsis;
     }
 
+    /* Prioritize time over link when space is limited */
+    .widget-reddit-posts .post-meta-item:has([data-timestamp]) {
+        flex-shrink: 0;
+    }
+
+    .widget-reddit-posts .post-meta-item.post-source {
+        flex-shrink: 1;
+        min-width: 0;
+    }
+
     .widget-reddit-posts .post-author {
         font-weight: 500;
     }

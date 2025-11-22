@@ -112,6 +112,16 @@
     text-overflow: ellipsis;
 }
 
+/* Prioritize time over link when space is limited */
+.widget-hackernews-posts .post-meta-item:has(.post-age) {
+    flex-shrink: 0;
+}
+
+.widget-hackernews-posts .post-meta-item.post-source {
+    flex-shrink: 1;
+    min-width: 0;
+}
+
 .widget-hackernews-posts .post-points {
     color: #ff6600;
     font-weight: 500;
