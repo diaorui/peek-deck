@@ -35,6 +35,22 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Restore cache from data branch
+        run: |
+          # Try to fetch and restore cache from data branch
+          if git fetch origin data:refs/remotes/origin/data 2>/dev/null && \
+             git ls-remote --exit-code --heads origin data >/dev/null 2>&1; then
+            echo "📦 Restoring cache from data branch..."
+            git checkout origin/data -- data/cache/ 2>/dev/null || true
+            if [ -d data/cache ]; then
+              echo "✅ Cache restored successfully"
+            else
+              echo "⚠️  No cache found on data branch"
+            fi
+          else
+            echo "ℹ️  Data branch doesn't exist yet, starting fresh"
+          fi
+
       - name: Clear data folder (if requested)
         if: ${{ github.event.inputs.clear_cache == 'true' }}
         run: |
