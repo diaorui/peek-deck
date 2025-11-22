@@ -4,6 +4,20 @@
   "min_points": 0,
   "posts": [
     {
+      "title": "Artificial Intelligence and Origin of Life Prize, $10M USD",
+      "url": "https://www.herox.com/evolution2.0",
+      "hn_url": "https://news.ycombinator.com/item?id=46019022",
+      "author": "gwerbret",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2025-11-22T22:47:30Z",
+      "object_id": "46019022",
+      "image": "https://d253pvgap36xx8.cloudfront.net/challenges/image/0e48c620aa6411e9a24986e948180ee6.jpg",
+      "description": "Where did life and the genetic code come from? Can the answer build superior AI? The #1 mystery in science now has a $10 million prize.",
+      "favicon": "https://d253pvgap36xx8.cloudfront.net/static/icons/home/192.png",
+      "site_name": "herox.com"
+    },
+    {
       "title": "Google begins showing ads in AI Mode (AI answers)",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/",
       "hn_url": "https://news.ycombinator.com/item?id=46012525",
@@ -128,23 +142,9 @@
       "description": "Staffordshire students say signs material was AI-generated included suspicious file names and rogue voiceover accent",
       "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
       "site_name": "the Guardian"
-    },
-    {
-      "title": "Relative toposes for artificial general intelligence [video]",
-      "url": "https://www.youtube.com/watch?v=JQ0iyKZ-ZRw&list=PLq6qUEvr5AcqwHDndHHrReQY8qjdOMAAP&index=2",
-      "hn_url": "https://news.ycombinator.com/item?id=45989320",
-      "author": "measurablefunc",
-      "points": 2,
-      "num_comments": 1,
-      "created_at": "2025-11-20T05:38:46Z",
-      "object_id": "45989320",
-      "image": null,
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "favicon": "https://www.youtube.com/s/desktop/2731d6a3/img/favicon.ico",
-      "site_name": "youtube.com"
     }
   ],
   "total_hits": 12004,
   "has_metadata": true,
-  "fetched_at": "2025-11-22T22:42:16.357730+00:00"
+  "fetched_at": "2025-11-22T23:15:27.591710+00:00"
 }

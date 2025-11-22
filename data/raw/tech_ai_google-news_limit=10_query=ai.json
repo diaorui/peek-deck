@@ -55,14 +55,14 @@
       "description": null
     },
     {
-      "headline": "The world\u2019s biggest company just told everyone to chill out",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QTnVBWkdqb0puUGF4X0YzQTN0cG9hWkxIdlNDaWFsdXFCSFJJR0lkenpaS3duQm8xN2JKSjFxbHhkbFQ4YUkxNFgzNkZ2ZG5BUjhlUmpRWnZndFNHS1FJR0FtQkVfbnFJdlpaYU9pUWl1a0dKMEE?oc=5",
-      "pub_date": 1763798458.0,
-      "article_url": "https://www.cnn.com/2025/11/22/tech/ai-bubble-fears-nvidia-earnings",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243374844.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Concerns about an AI bubble have been simmering for at least a year and a half. Nvidia\u2019s incredibly strong earnings this past week tried to put those fears to bed. It may not have been enough."
+      "headline": "Can Lumen Technologies\u2019 (LUMN) New AI Partnerships Deepen Its Competitive Edge in Enterprise Connectivity?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOGhjSl9PZ0FIV1h3ZEk5VlVyZ3l2QUtxUWZwbnVMNjlrRTFfb05uS1lpVnB4MnB0ODBueXJ0RHkxZ1hSWTRSdkg1dzRCNG1JV29SYlNNMTBvaTZTMW9KeGZ6Q0RVend0ZV9CeHVvRDE3TTdNLXlXX1c5MEtxdzA5Q29nM190YVBYUWJ0SGN3?oc=5",
+      "pub_date": 1763849630.0,
+      "article_url": "https://finance.yahoo.com/news/lumen-technologies-lumn-ai-partnerships-221350268.html",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/8a55695498441fcb6a1b5b8e6f5c1d46",
+      "description": "Earlier this week, Lumen Technologies launched its Lumen Defender Advanced Managed Detection and Response with Microsoft Sentinel and joined Meter in announcing an integrated WAN-to-LAN networking solution tailored for AI-driven enterprises. These developments underscore Lumen\u2019s commitment to expanding its digital security and connectivity ecosystem through deeper integrations with industry leaders and innovative platform offerings. We\u2019ll examine how the Microsoft Sentinel-powered..."
     },
     {
       "headline": "An A.I. Toy Bear Speaks of Sex, Knives and Pills, a Consumer Group Warns",
@@ -71,6 +71,16 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU0R4REIxOHN4RjJXaWpGVHJKOGRqd1BoOHFhMWwydS10RlRhZVFXaUp3TlVVSk1qUVo3SmQ5OEY5LUcwRnBwWHlQR3hYWUtHcms2c0ZxUW5LYmppN3F3aThGdUFHdmhaMU5VTFZrZGJyalEya1dWVXg3MHVUUkFOdFpUT0pncDlkRFRPdA?oc=5",
       "pub_date": 1763845846.0,
       "article_url": "https://www.nytimes.com/2025/11/22/us/folotoy-ai-bear-suspended-explicit-advice.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Analysis | Are we in an AI bubble? Eight charts will help you decide.",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRlR1cERFVGtXc2o1TDZZTkttSzNRTGtXYWNYU3ZON3BqQUhtRndtSklMR0dPeHJzd0VBMUhiSUJJakt2cjM3LU8zYlZMRVBDZDE5dVZ2dHJaejVoLXptbi1nMG84RUdocjZIUHFqR2VSQmgxRWhUVEg1VlcxSEI5emNLdU5CRTg?oc=5",
+      "pub_date": 1763834400.0,
+      "article_url": "https://www.washingtonpost.com/technology/2025/11/22/ai-bubble-economy-evidence/",
       "image": null,
       "description": null
     },
@@ -93,18 +103,8 @@
       "article_url": "https://www.pbs.org/newshour/world/france-will-investigate-musks-grok-after-ai-chatbot-posted-holocaust-denial-claims",
       "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/2025-02-16T142607Z_263064880_RC2PVCA4ZVJM_RTRMADP_3_XAI-AI-1024x683.jpg",
       "description": "France\u2019s government is taking action against billionaire\u00a0Elon Musk\u00a0's artificial intelligence chatbot Grok after it generated French-language posts that questioned the use of gas chambers at Auschwitz, officials said."
-    },
-    {
-      "headline": "Elon Musk\u2019s Grok AI tells users he is fitter than LeBron James and smarter than Leonardo da Vinci",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV1VVNG9laERHUWR2Q1lhaXQzU0hEN2lEMjczSHptcG0zaXUzeHR4TkZqZ2phWEMxem5TLW1zd1I4WW1WY214Yk50UWkyVnVFYWFZX2plVG9maUMtRXRGcGlfdXJzV2pHYnAtbUplMXRfUzR0U09MSlpTdUNVMWFIblR1WV8xVXFEbHYzUGZHREJQcHkzZ2RMT0hMenpteWpFZE1md19BclloTDc3?oc=5",
-      "pub_date": 1763743260.0,
-      "article_url": "https://www.theguardian.com/technology/2025/nov/21/elon-musk-grok-ai-bias-ranks-richest-man-fittest-smartest",
-      "image": "https://i.guim.co.uk/img/media/6f51631e918b0ef2660772873dbe989e39f88a8b/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1be280599124d31e3d2065a3384b10ce",
-      "description": "Users noted that in a raft of now-deleted posts, the chatbot would frequently rank Musk top in any given field"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-22T22:42:16.063983+00:00"
+  "fetched_at": "2025-11-22T23:15:27.111590+00:00"
 }
