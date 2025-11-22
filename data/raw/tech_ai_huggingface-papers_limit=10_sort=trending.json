@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 35,
+      "upvotes": 36,
       "num_comments": 2,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
@@ -35,7 +35,7 @@
       "num_comments": 1,
       "published_at": "2025-11-17T13:59:57.000Z",
       "github_repo": "https://github.com/LTH14/JiT",
-      "github_stars": 1021,
+      "github_stars": 1050,
       "project_page": null
     },
     {
@@ -183,7 +183,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16317",
       "arxiv_url": "https://arxiv.org/abs/2511.16317",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16317.png",
-      "upvotes": 5,
+      "upvotes": 6,
       "num_comments": 2,
       "published_at": "2025-11-20T07:47:22.000Z",
       "github_repo": "https://github.com/Zeqiang-Lai/NaTex",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-22T06:37:37.031909+00:00"
+  "fetched_at": "2025-11-22T07:40:39.381124+00:00"
 }
