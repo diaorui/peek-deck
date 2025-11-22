@@ -8,9 +8,9 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
-      "stars": 79228,
+      "stars": 79240,
       "stars_display": "79.2k",
-      "forks": 11757,
+      "forks": 11758,
       "forks_display": "11.8k",
       "language": "Jupyter Notebook",
       "topics": [
@@ -52,7 +52,7 @@
       "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
       "url": "https://github.com/deepset-ai/haystack",
       "preview_image": "https://repository-images.githubusercontent.com/221654678/1b75a35c-3d70-4dbe-bd6f-56fcc6c809e6",
-      "stars": 23444,
+      "stars": 23445,
       "stars_display": "23.4k",
       "forks": 2487,
       "forks_display": "2.5k",
@@ -162,7 +162,7 @@
       "description": "\ud83d\udca1 All-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows",
       "url": "https://github.com/neuml/txtai",
       "preview_image": "https://repository-images.githubusercontent.com/286301447/6b79e721-de1e-4fd4-b264-0437e1cad8d8",
-      "stars": 11838,
+      "stars": 11839,
       "stars_display": "11.8k",
       "forks": 758,
       "forks_display": "758",
@@ -184,7 +184,7 @@
       "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
       "url": "https://github.com/tensorzero/tensorzero",
       "preview_image": "https://repository-images.githubusercontent.com/829640443/26b7c5c4-c12c-4e89-beaf-a4233f1dac87",
-      "stars": 10583,
+      "stars": 10584,
       "stars_display": "10.6k",
       "forks": 731,
       "forks_display": "731",
@@ -225,6 +225,6 @@
   "search_query": "ai machine-learning llm pushed:>2025-11-15",
   "days": 7,
   "limit": 10,
-  "total_count": 230,
-  "fetched_at": "2025-11-22T09:42:58.718274+00:00"
+  "total_count": 231,
+  "fetched_at": "2025-11-22T10:48:19.658951+00:00"
 }
