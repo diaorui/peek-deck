@@ -20,12 +20,13 @@ class WidgetConfig(BaseModel):
 class PageConfig(BaseModel):
     """Configuration for a single page (dashboard)."""
 
-    series: str  # e.g., "crypto"
+    category: str = 'general'  # e.g., "crypto", "tech" - used for index grouping
     id: str = Field(pattern=r'^[a-z0-9-]+$')
     name: str
     description: Optional[str] = None
     icon: Optional[str] = None
     enabled: bool = True
+    theme: Optional[Dict[str, str]] = None  # Optional page-specific theme
     params: Dict[str, Any] = Field(default_factory=dict)
     widgets: List[WidgetConfig] = Field(min_length=1)
 
@@ -33,26 +34,3 @@ class PageConfig(BaseModel):
         extra = 'forbid'
 
 
-class ThemeConfig(BaseModel):
-    """Visual theme configuration."""
-
-    primary_color: str = "#f7931a"  # Bitcoin orange default
-    background: str = "#1a1a1a"
-    text_color: str = "#ffffff"
-    card_background: str = "#2d2d2d"
-    border_radius: str = "8px"
-
-    class Config:
-        extra = 'allow'  # Allow custom CSS variables
-
-
-class SeriesConfig(BaseModel):
-    """Configuration for a series (collection of related pages)."""
-
-    id: str = Field(pattern=r'^[a-z0-9-]+$')
-    name: str
-    description: Optional[str] = None
-    theme: ThemeConfig = Field(default_factory=ThemeConfig)
-
-    class Config:
-        extra = 'forbid'

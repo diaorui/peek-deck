@@ -19,26 +19,17 @@ FathomDeck is a configurable, widget-based monitoring system that generates stat
 
 ## Core Concepts
 
-### 1. Series
-A **series** is a collection of related pages sharing the same widget types and visual style.
+### 1. Pages
+A **page** is a single dashboard with multiple widgets. Each page is self-contained and defines its own theme, icon, and widget layout.
 
 **Examples:**
-- **Crypto series**: Bitcoin page, Ethereum page, Solana page
-- **Stocks series**: AAPL page, GOOGL page, TSLA page
-- **Weather series**: NYC page, London page, Tokyo page
+- `bitcoin.yaml` - Bitcoin monitoring page with price, news, and market stats widgets
+- `ethereum.yaml` - Ethereum dashboard
+- `ai.yaml` - AI news and developments
 
-Each series has:
-- Available widget types
-- Shared visual template
-- Series index page (lists all pages in the series)
-- Default configuration
+Pages are grouped by **category** (e.g., `crypto`, `tech`) for organization in the main index, but each page is independent.
 
-### 2. Pages
-A **page** is a single dashboard with multiple widgets.
-
-Example: `bitcoin.yaml` defines a Bitcoin monitoring page with price, news, and market stats widgets.
-
-### 3. Widgets
+### 2. Widgets
 A **widget** is a self-contained component that:
 1. Fetches data from an external source
 2. Optionally processes data (e.g., LLM summary)
@@ -76,33 +67,28 @@ fathom-deck/
 │       ├── crypto_price.py
 │       ├── crypto_price_chart.py
 │       ├── crypto_market_stats.py
-│       ├── news.py
+│       ├── google_news.py
 │       └── ...
 │
-├── templates/                 # Shared templates (all series use these)
+├── templates/                 # Jinja2 templates
 │   ├── widgets/
 │   │   ├── base.html          # Shared widget wrapper
 │   │   ├── crypto-price.html
 │   │   ├── crypto-market-stats.html
-│   │   ├── news.html
+│   │   ├── google-news.html
 │   │   └── ...
 │   └── pages/
-│       ├── page.html          # Default page layout
-│       └── index.html         # Default series index
+│       ├── page.html          # Page layout template
+│       └── index.html         # Main index template
 │
-├── series/
-│   ├── crypto/                # Crypto-focused series
-│   │   ├── config.yaml        # Theme, defaults, widget list
-│   │   └── pages/
-│   │       ├── bitcoin.yaml
-│   │       ├── ethereum.yaml
-│   │       └── _index.yaml
-│   │
-│   └── finance/               # Broader finance series (example)
-│       ├── config.yaml        # Different theme (e.g., green vs orange)
-│       └── pages/
-│           ├── overview.yaml  # Mix of stocks + top cryptos
-│           └── markets.yaml
+├── pages/                     # Page configurations (flat structure)
+│   ├── bitcoin.yaml
+│   ├── ethereum.yaml
+│   ├── ai.yaml
+│   └── ...
+│
+├── config/
+│   └── index.yaml             # Optional: customize index grouping
 │
 ├── data/
 │   ├── raw/                   # Raw API responses (stage 1 output)
@@ -110,47 +96,51 @@ fathom-deck/
 │   └── cache/                 # Timestamp tracking, seen items, etc.
 │
 ├── docs/                      # Generated HTML output (GitHub Pages)
-│   ├── index.html             # Main landing page
-│   ├── crypto/
-│   └── finance/
+│   ├── index.html             # Main index page (groups all pages)
+│   ├── bitcoin.html
+│   ├── ethereum.html
+│   ├── ai.html
+│   └── ...
 │
 └── .github/workflows/
-    └── update.yml             # Single smart workflow (runs every 5 min)
+    └── update.yml             # Smart workflow (runs every 5 min)
 ```
 
 **What users interact with:**
-- `series/crypto/pages/*.yaml` - Add new pages
-- `series/crypto/config.yaml` - Customize theme, widget list
-- `templates/` - Shared across all series (rarely need to edit)
-
-**Why templates are shared:**
-- Same `crypto-price` widget can be used in `series/crypto/` AND `series/finance/`
-- No duplication - one template, multiple series
-- CSS variables (from `config.yaml`) handle theming differences
-- Advanced: Can override by creating `series/crypto/templates/widgets/crypto-price.html`
+- `pages/*.yaml` - Add new pages (self-contained configs)
+- `config/index.yaml` - Optional: customize index grouping
+- `templates/` - Widget and page templates (rarely need to edit)
 
 **What gets generated:**
-- `data/raw/` - Raw API responses from external sources (git-ignored)
-- `data/processed/` - Processed/enriched data ready for rendering (git-ignored)
-- `data/cache/` - Metadata (timestamps, seen items) for smart updates (committed)
-- `docs/` - Static HTML files deployed to GitHub Pages (committed)
+- `data/raw/` - Raw API responses from external sources (saved to data branch)
+- `data/processed/` - Processed/enriched data ready for rendering (saved to data branch)
+- `data/cache/` - Metadata (timestamps, seen items) for smart updates (saved to data branch)
+- `docs/` - Static HTML files deployed to GitHub Pages (saved to data branch)
 
 ---
 
 ## Configuration System
 
-### Page Configuration (`pages/crypto/bitcoin.yaml`)
+### Page Configuration (`pages/bitcoin.yaml`)
 
 ```yaml
-# Series this page belongs to
-series: crypto
-
 # Page metadata
 id: bitcoin
 name: Bitcoin
 description: Real-time Bitcoin monitoring dashboard
 icon: "₿"
 enabled: true
+
+# Category for index grouping
+category: crypto
+
+# Visual theme (CSS variables)
+theme:
+  primary_color: "#f7931a"      # Bitcoin orange
+  background: "#1a1a1a"         # Dark mode
+  text_color: "#ffffff"
+  card_background: "#2d2d2d"
+  border_radius: "8px"
 
 # Page-specific parameters (passed to all widgets)
 params:
@@ -174,12 +164,11 @@ widgets:
     size: small           # 3 columns
 
   # Row 2: News (full width)
-  - type: news
+  - type: google-news
     size: full            # 12 columns
     params:
       query: "Bitcoin"    # Google News search query
       max_items: 5
-      use_llm_summary: true
     update_minutes: 60    # Update hourly
 
   # Row 3: Fear & Greed + Reddit
@@ -187,7 +176,7 @@ widgets:
     size: medium
     update_minutes: 360   # Update every 6 hours
 
-  - type: reddit
+  - type: reddit-posts
     size: medium
     params:
       subreddit: "Bitcoin"   # r/Bitcoin
@@ -196,49 +185,37 @@ widgets:
 
 **Key Design Decisions:**
 
-1. **Inheritance**: Page inherits `symbol` and `coin_id` params, widgets can override
-2. **Grid-based sizing**: `small` (3 cols), `medium` (6 cols), `large` (9 cols), `full` (12 cols)
-3. **Flexible updates**: Each widget declares its own `update_minutes`
-4. **Domain-prefixed widget types**: `crypto-price` is crypto-specific, `stocks-price` would be separate
+1. **Self-contained**: Each page defines its own theme, icon, and category
+2. **Parameter inheritance**: Page-level params (symbol, coin_id) passed to all widgets
+3. **Grid-based sizing**: `small` (3 cols), `medium` (6 cols), `large` (9 cols), `full` (12 cols)
+4. **Flexible updates**: Each widget declares its own `update_minutes`
+5. **Category grouping**: Pages with same category grouped together in index.html
 
-### Series Configuration (`series/crypto/config.yaml`)
+### Index Configuration (`config/index.yaml`)
 
-```yaml
-id: crypto
-name: Cryptocurrency Monitoring
-description: Track cryptocurrency prices, news, and market sentiment
-
-# Visual theme (CSS variables)
-theme:
-  primary_color: "#f7931a"      # Bitcoin orange
-  background: "#1a1a1a"         # Dark mode
-  text_color: "#ffffff"
-  card_background: "#2d2d2d"
-  border_radius: "8px"
-
-# Optional: Override default templates
-# Convention: looks for series/crypto/templates/*.html first, falls back to templates/*.html
-templates:
-  page: series/crypto/templates/page.html
-  index: series/crypto/templates/index.html
-```
-
-### Series Index Configuration (`series/crypto/pages/_index.yaml`)
+**Optional file** to customize how pages are grouped and displayed in index.html:
 
 ```yaml
-series: crypto
+# Category definitions (optional - can be inferred from pages)
+groups:
+  - id: crypto
+    name: "Cryptocurrency"
+    icon: "💰"
+    description: "Track crypto prices, news, and market sentiment"
 
-# Index page content
-title: Cryptocurrency Dashboards
-description: Monitor multiple cryptocurrencies in real-time
+  - id: tech
+    name: "Technology"
+    icon: "💻"
+    description: "AI and tech developments"
 
-# Display options
-sort_by: market_cap           # How to order pages in index
-featured: [bitcoin, ethereum]  # Highlight these
-show_stats: true              # Show aggregate stats
+# Featured pages (shown at top of index)
+featured: [bitcoin, ai]
+
+# Sort order within groups
+sort_by: name  # Options: name, category, recent
 ```
 
-**Note:** All pages in `series/crypto/pages/*.yaml` (except `_index.yaml`) are automatically included.
+**Note:** If `config/index.yaml` doesn't exist, the system auto-generates index by discovering all pages and grouping by category.
 
 ---
 
@@ -634,12 +611,13 @@ The system uses a clean 3-stage pipeline for data flow:
 
 **Process:**
 - Load processed data from `data/processed/`
-- Load page configs from `series/{series}/pages/`
+- Load page configs from `pages/`
 - Render Jinja2 templates with data
 - Generate HTML files to `docs/`
+- Generate `docs/index.html` (grouped by category)
 - Update `data/cache/last_render.json` with timestamps
 
-**Output:** `docs/crypto/bitcoin.html`, `docs/crypto/index.html`, `docs/index.html`
+**Output:** `docs/bitcoin.html`, `docs/ethereum.html`, `docs/index.html`
 
 **Benefits:**
 - Fast, no external calls
@@ -650,7 +628,7 @@ The system uses a clean 3-stage pipeline for data flow:
 
 ```
 ┌─────────────┐
-│   Config    │ (series/crypto/pages/bitcoin.yaml)
+│   Config    │ (pages/bitcoin.yaml)
 └──────┬──────┘
        │
        ▼
@@ -660,7 +638,7 @@ The system uses a clean 3-stage pipeline for data flow:
 └─────────────┘                         └─────────────┘                        └──────┬──────┘
                                                                                        │
                                                                                        ▼
-                                                                                  docs/crypto/
+                                                                                  docs/
                                                                                   bitcoin.html
 ```
 
@@ -827,27 +805,35 @@ If you want more control, split by common frequencies:
 
 ## User Configuration Experience
 
-### Goal: Edit 1-2 Files to Create New Page
+### Goal: Create New Page with One File
 
 **Scenario:** User wants to add Cardano dashboard
 
-**Step 1:** Create `pages/crypto/cardano.yaml`
+**Step 1:** Create `pages/cardano.yaml`
 
 ```yaml
-series: crypto
 id: cardano
 name: Cardano
 icon: "₳"
+category: crypto
+
+# Theme (copy from bitcoin.yaml for consistent crypto styling)
+theme:
+  primary_color: "#f7931a"
+  background: "#1a1a1a"
+  text_color: "#ffffff"
+  card_background: "#2d2d2d"
+  border_radius: "8px"
 
 params:
   symbol: ADA
   coin_id: cardano
 
-# Copy widget config from bitcoin.yaml or use defaults
+# Copy widget config from bitcoin.yaml or customize
 widgets:
   - type: crypto-price
     size: small
-  - type: news
+  - type: google-news
     size: full
     params:
       query: "Cardano ADA"  # Customize search query per page
@@ -855,20 +841,21 @@ widgets:
 
 **Step 2:** That's it!
 
-The system auto-discovers `cardano.yaml` in `pages/crypto/` and:
-1. Generates `docs/crypto/cardano.html`
-2. Adds it to `docs/crypto/index.html`
-3. Updates main `docs/index.html`
+The system auto-discovers `cardano.yaml` in `pages/` and:
+1. Generates `docs/cardano.html`
+2. Adds it to `docs/index.html` under the "Cryptocurrency" section (grouped by `category: crypto`)
+
+**For 10 or fewer pages:** Simply copy-paste theme values across pages in the same category. This is simpler than managing shared configs.
 
 ### Advanced Customization (Optional)
 
-Users can override defaults at three levels:
+Users can override defaults:
 
 | Level | What to Override | Example |
 |-------|------------------|---------|
 | **Widget template** | Individual widget HTML | `template: custom/my_price.html` in widget config |
 | **Page template** | Entire page layout | `template: custom/page.html` in page config |
-| **Theme colors** | Series or page colors | `theme: { primary_color: "#0033AD" }` |
+| **Theme colors** | Per-page unique theme | `theme: { primary_color: "#0033AD" }` |
 
 **Most users won't need this** - defaults work for 90% of use cases.
 
@@ -893,9 +880,10 @@ Users can override defaults at three levels:
 **Example validation:**
 ```python
 class PageConfig(BaseModel):
-    series: str
     id: str = Field(pattern=r'^[a-z0-9-]+$')
     name: str
+    category: str = 'general'  # For index grouping
+    theme: Optional[dict] = None
     widgets: list[WidgetConfig] = Field(min_items=1)
 
 class WidgetConfig(BaseModel):
@@ -1409,9 +1397,9 @@ for widget in page.widgets:
 | Phase | Focus | Deliverables | Duration |
 |-------|-------|--------------|----------|
 | **1. Core Framework** | Foundation | 3-stage pipeline (fetch/process/render), BaseWidget, config loader, cache system | Week 1 |
-| **2. MVP Widgets** | Crypto essentials | 4 widgets: `crypto-price`, `crypto-price-chart`, `crypto-market-stats`, `news` | Week 2 |
-| **3. Series System** | Multi-page support | Series config, page auto-discovery, index generation, CSS theming, templates | Week 3 |
-| **4. Advanced Widgets** | Enhanced features | `crypto-fear-greed`, `reddit`, `crypto-events` | Week 4 |
+| **2. MVP Widgets** | Crypto essentials | 4 widgets: `crypto-price`, `crypto-price-chart`, `crypto-market-stats`, `google-news` | Week 2 |
+| **3. Page System** | Multi-page support | Page config loader, index generation (grouped by category), CSS theming, templates | Week 3 |
+| **4. Advanced Widgets** | Enhanced features | `crypto-fear-greed`, `reddit-posts`, `crypto-events` | Week 4 |
 | **5. Deployment** | Automation | GitHub Actions workflow, smart stage skipping, error handling, deployment | Week 5 |
 
 **Milestone:** End of Phase 2 = Working Bitcoin dashboard with 4 widgets
@@ -1423,9 +1411,9 @@ for widget in page.widgets:
 
 ---
 
-## Other Series Ideas (Future)
+## Other Page Ideas (Future)
 
-Beyond crypto, the same architecture works for many **publicly interesting** monitoring use cases:
+Beyond crypto, the same architecture works for many **publicly interesting** monitoring use cases. Simply create new page configs and group them by category:
 
 ### 1. Tech News Aggregator
 
@@ -1503,16 +1491,16 @@ Beyond crypto, the same architecture works for many **publicly interesting** mon
 
 **Why public-facing:** Public health data relevant to anyone planning outdoor activities or concerned about air quality.
 
-### Widget Reusability Across Series
+### Widget Reusability Across Pages
 
 **Generic widgets work everywhere:**
-- `news` - Used in crypto, tech, markets, space series
-- `reddit` - Used in crypto (r/Bitcoin), tech (r/programming), markets (r/stocks)
+- `google-news` - Used in crypto, tech, markets, space pages
+- `reddit-posts` - Used in crypto (r/Bitcoin), tech (r/programming), markets (r/stocks)
 
-**Domain widgets can be reused in related series:**
-- `crypto-price` - Used in crypto series AND market watch series
+**Domain widgets can be reused in related pages:**
+- `crypto-price` - Used in Bitcoin, Ethereum, Cardano pages AND market watch pages
 
-**This demonstrates the power of the widget architecture** - build once, reuse across multiple series.
+**This demonstrates the power of the widget architecture** - build once, reuse across multiple pages.
 
 ---
 

@@ -39,12 +39,17 @@ class Cache:
         except Exception as e:
             print(f"❌ Failed to save cache: {e}")
 
-    def get_cache_key(self, series_id: str, page_id: str, widget_type: str, widget_params: Dict[str, Any]) -> str:
+    def get_cache_key(self, category: str, page_id: str, widget_type: str, widget_params: Dict[str, Any]) -> str:
         """Generate unique cache key for a widget instance.
 
-        Includes series_id to prevent collisions when page IDs are reused across series.
+        Includes category to prevent collisions when page IDs are reused across categories.
+        Args:
+            category: Page category (e.g., "crypto", "tech") - formerly series_id
+            page_id: Page identifier
+            widget_type: Widget type
+            widget_params: Widget parameters
         """
-        base = f"{series_id}_{page_id}_{widget_type}"
+        base = f"{category}_{page_id}_{widget_type}"
 
         if not widget_params:
             return base

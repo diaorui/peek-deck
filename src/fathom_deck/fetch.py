@@ -5,13 +5,12 @@ from pathlib import Path
 from typing import Dict, Any
 
 from .core.cache import Cache
-from .core.loader import discover_pages, load_page_config, create_widget_instance
+from .core.loader import discover_all_pages, load_page_config, create_widget_instance
 
 
 def fetch_all():
-    """Fetch data for all widgets across all series."""
+    """Fetch data for all widgets across all pages."""
     project_root = Path.cwd()
-    series_dir = project_root / "series"
     data_raw_dir = project_root / "data" / "raw"
     cache_dir = project_root / "data" / "cache"
 
@@ -30,86 +29,79 @@ def fetch_all():
     skipped_count = 0
     failed_count = 0
 
-    # Discover all series
-    if not series_dir.exists():
-        print(f"❌ Series directory not found: {series_dir}")
+    # Discover all pages
+    page_files = discover_all_pages()
+    if not page_files:
+        print("❌ No pages found in pages/ directory")
         return
 
-    for series_path in series_dir.iterdir():
-        if not series_path.is_dir():
+    print(f"📄 Found {len(page_files)} page(s)\n")
+
+    for page_file in page_files:
+        # Load page config
+        try:
+            page_config = load_page_config(page_file)
+        except Exception as e:
+            print(f"❌ Failed to load {page_file.name}: {e}")
             continue
 
-        series_id = series_path.name
-        print(f"\n📁 Series: {series_id}")
+        if not page_config.enabled:
+            print(f"⏭️  Skipping disabled page: {page_config.id}")
+            continue
 
-        # Discover pages in this series
-        page_files = discover_pages(series_path)
+        print(f"\n📄 Page: {page_config.id} ({page_config.name}) [{page_config.category}]")
 
-        for page_file in page_files:
-            # Load page config
+        # Process each widget
+        for widget_config in page_config.widgets:
+            total_widgets += 1
+            widget_type = widget_config.type
+
+            # Generate cache key
+            cache_key = cache.get_cache_key(
+                page_config.category,
+                page_config.id,
+                widget_type,
+                widget_config.params
+            )
+
+            # Check if widget needs update
+            if not cache.needs_update(cache_key, widget_config.update_minutes):
+                skipped_count += 1
+                continue
+
+            # Create widget instance
             try:
-                page_config = load_page_config(page_file)
-            except Exception as e:
-                print(f"❌ Failed to load {page_file.name}: {e}")
-                continue
-
-            if not page_config.enabled:
-                print(f"⏭️  Skipping disabled page: {page_config.id}")
-                continue
-
-            print(f"\n  📄 Page: {page_config.id} ({page_config.name})")
-
-            # Process each widget
-            for widget_config in page_config.widgets:
-                total_widgets += 1
-                widget_type = widget_config.type
-
-                # Generate cache key
-                cache_key = cache.get_cache_key(
-                    series_id,
-                    page_config.id,
-                    widget_type,
-                    widget_config.params
+                widget = create_widget_instance(
+                    widget_type=widget_type,
+                    size=str(widget_config.size),
+                    params=widget_config.params,
+                    page_params=page_config.params,
+                    update_minutes=widget_config.update_minutes
                 )
+            except Exception as e:
+                print(f"    ❌ Failed to create widget {widget_type}: {e}")
+                failed_count += 1
+                continue
 
-                # Check if widget needs update
-                if not cache.needs_update(cache_key, widget_config.update_minutes):
-                    skipped_count += 1
-                    continue
+            # Fetch data
+            try:
+                print(f"    📡 Fetching {widget_type}...")
+                raw_data = widget.fetch_data()
 
-                # Create widget instance
-                try:
-                    widget = create_widget_instance(
-                        widget_type=widget_type,
-                        size=str(widget_config.size),
-                        params=widget_config.params,
-                        page_params=page_config.params,
-                        update_minutes=widget_config.update_minutes
-                    )
-                except Exception as e:
-                    print(f"    ❌ Failed to create widget {widget_type}: {e}")
-                    failed_count += 1
-                    continue
+                # Save raw data
+                raw_file = data_raw_dir / f"{cache_key}.json"
+                with open(raw_file, 'w') as f:
+                    json.dump(raw_data, f, indent=2)
 
-                # Fetch data
-                try:
-                    print(f"    📡 Fetching {widget_type}...")
-                    raw_data = widget.fetch_data()
+                # Mark widget as updated in cache
+                cache.mark_updated(cache_key)
 
-                    # Save raw data
-                    raw_file = data_raw_dir / f"{cache_key}.json"
-                    with open(raw_file, 'w') as f:
-                        json.dump(raw_data, f, indent=2)
+                fetched_count += 1
+                print(f"    ✅ Saved to {raw_file.name}")
 
-                    # Mark widget as updated in cache
-                    cache.mark_updated(cache_key)
-
-                    fetched_count += 1
-                    print(f"    ✅ Saved to {raw_file.name}")
-
-                except Exception as e:
-                    print(f"    ❌ Failed to fetch {widget_type}: {e}")
-                    failed_count += 1
+            except Exception as e:
+                print(f"    ❌ Failed to fetch {widget_type}: {e}")
+                failed_count += 1
 
     # Save cache timestamps
     cache.save()

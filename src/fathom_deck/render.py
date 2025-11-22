@@ -7,9 +7,8 @@ from jinja2 import Environment, FileSystemLoader
 
 from .core.cache import Cache
 from .core.loader import (
-    discover_pages,
+    discover_all_pages,
     load_page_config,
-    load_series_config,
     create_widget_instance
 )
 
@@ -17,7 +16,6 @@ from .core.loader import (
 def render_all():
     """Render HTML pages from processed data."""
     project_root = Path.cwd()
-    series_dir = project_root / "series"
     data_processed_dir = project_root / "data" / "processed"
     docs_dir = project_root / "docs"
     cache_dir = project_root / "data" / "cache"
@@ -38,110 +36,98 @@ def render_all():
     rendered_pages = 0
     failed_pages = 0
 
-    # Discover all series
-    if not series_dir.exists():
-        print(f"❌ Series directory not found: {series_dir}")
+    # Discover all pages
+    page_files = discover_all_pages()
+    if not page_files:
+        print("❌ No pages found in pages/ directory")
         return
 
-    for series_path in series_dir.iterdir():
-        if not series_path.is_dir():
+    print(f"📄 Found {len(page_files)} page(s)\n")
+
+    for page_file in page_files:
+        # Load page config
+        try:
+            page_config = load_page_config(page_file)
+        except Exception as e:
+            print(f"❌ Failed to load {page_file.name}: {e}")
+            failed_pages += 1
             continue
 
-        series_id = series_path.name
-        print(f"\n📁 Series: {series_id}")
+        if not page_config.enabled:
+            continue
 
-        # Load series config
-        series_config = load_series_config(series_path)
+        print(f"📄 Rendering: {page_config.id} ({page_config.name}) [{page_config.category}]")
 
-        # Create series output directory
-        series_docs_dir = docs_dir / series_id
-        series_docs_dir.mkdir(parents=True, exist_ok=True)
+        # Render each widget
+        widget_htmls = []
+        for widget_config in page_config.widgets:
+            widget_type = widget_config.type
 
-        # Discover pages in this series
-        page_files = discover_pages(series_path)
+            # Generate cache key
+            cache_key = cache.get_cache_key(
+                page_config.category,
+                page_config.id,
+                widget_type,
+                widget_config.params
+            )
 
-        for page_file in page_files:
-            # Load page config
-            try:
-                page_config = load_page_config(page_file)
-            except Exception as e:
-                print(f"❌ Failed to load {page_file.name}: {e}")
-                failed_pages += 1
+            # Load processed data
+            processed_file = data_processed_dir / f"{cache_key}.json"
+            if not processed_file.exists():
+                print(f"    ⚠️  No processed data for {widget_type}, skipping")
                 continue
 
-            if not page_config.enabled:
+            try:
+                with open(processed_file, 'r') as f:
+                    processed_data = json.load(f)
+            except Exception as e:
+                print(f"    ❌ Failed to read {processed_file.name}: {e}")
                 continue
 
-            print(f"  📄 Rendering: {page_config.id} ({page_config.name})")
-
-            # Render each widget
-            widget_htmls = []
-            for widget_config in page_config.widgets:
-                widget_type = widget_config.type
-
-                # Generate cache key
-                cache_key = cache.get_cache_key(
-                    series_id,
-                    page_config.id,
-                    widget_type,
-                    widget_config.params
-                )
-
-                # Load processed data
-                processed_file = data_processed_dir / f"{cache_key}.json"
-                if not processed_file.exists():
-                    print(f"    ⚠️  No processed data for {widget_type}, skipping")
-                    continue
-
-                try:
-                    with open(processed_file, 'r') as f:
-                        processed_data = json.load(f)
-                except Exception as e:
-                    print(f"    ❌ Failed to read {processed_file.name}: {e}")
-                    continue
-
-                # Create widget instance
-                try:
-                    widget = create_widget_instance(
-                        widget_type=widget_type,
-                        size=str(widget_config.size),
-                        params=widget_config.params,
-                        page_params=page_config.params,
-                        update_minutes=widget_config.update_minutes
-                    )
-                except Exception as e:
-                    print(f"    ❌ Failed to create widget {widget_type}: {e}")
-                    continue
-
-                # Render widget HTML
-                try:
-                    widget_html = widget.render(processed_data)
-                    widget_htmls.append(widget_html)
-                except Exception as e:
-                    print(f"    ❌ Failed to render {widget_type}: {e}")
-                    continue
-
-            # Render page
+            # Create widget instance
             try:
-                template = env.get_template("pages/page.html")
-                page_html = template.render(
-                    page=page_config,
-                    theme=series_config.theme,
-                    widgets=widget_htmls,
-                    generated_at=datetime.now().isoformat()
+                widget = create_widget_instance(
+                    widget_type=widget_type,
+                    size=str(widget_config.size),
+                    params=widget_config.params,
+                    page_params=page_config.params,
+                    update_minutes=widget_config.update_minutes
                 )
-
-                # Save page HTML
-                page_output = series_docs_dir / f"{page_config.id}.html"
-                with open(page_output, 'w') as f:
-                    f.write(page_html)
-
-                print(f"    ✅ Saved to {page_output.relative_to(docs_dir)}")
-                rendered_pages += 1
-
             except Exception as e:
-                print(f"    ❌ Failed to render page: {e}")
-                failed_pages += 1
+                print(f"    ❌ Failed to create widget {widget_type}: {e}")
+                continue
+
+            # Render widget HTML
+            try:
+                widget_html = widget.render(processed_data)
+                widget_htmls.append(widget_html)
+            except Exception as e:
+                print(f"    ❌ Failed to render {widget_type}: {e}")
+                continue
+
+        # Render page
+        try:
+            template = env.get_template("pages/page.html")
+            # Use page's theme if defined, otherwise use default theme
+            page_theme = page_config.theme if page_config.theme else {}
+            page_html = template.render(
+                page=page_config,
+                theme=page_theme,
+                widgets=widget_htmls,
+                generated_at=datetime.now().isoformat()
+            )
+
+            # Save page HTML to flat structure: docs/{page_id}.html
+            page_output = docs_dir / f"{page_config.id}.html"
+            with open(page_output, 'w') as f:
+                f.write(page_html)
+
+            print(f"    ✅ Saved to {page_config.id}.html")
+            rendered_pages += 1
+
+        except Exception as e:
+            print(f"    ❌ Failed to render page: {e}")
+            failed_pages += 1
 
     # Print summary
     print(f"\n{'='*60}")

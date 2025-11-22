@@ -1,10 +1,18 @@
 # AI monitoring dashboard
-series: technology
+category: tech
 id: ai
 name: Artificial Intelligence
 description: AI news, discussions, and developments
 icon: "🤖"
 enabled: true
+
+# Visual theme
+theme:
+  primary_color: "#4A90E2"      # Tech blue
+  background: "#1a1a1a"         # Dark mode
+  text_color: "#ffffff"
+  card_background: "#2d2d2d"
+  border_radius: "8px"
 
 # Widget layout (ordered by time sensitivity - most real-time first)
 widgets:

@@ -6,7 +6,7 @@ from pathlib import Path
 from typing import Dict, List, Type
 
 from .base_widget import BaseWidget
-from .config import PageConfig, SeriesConfig
+from .config import PageConfig
 
 
 def load_yaml(file_path: Path) -> dict:
@@ -21,29 +21,18 @@ def load_page_config(page_file: Path) -> PageConfig:
     return PageConfig(**data)
 
 
-def load_series_config(series_dir: Path) -> SeriesConfig:
-    """Load and validate series configuration."""
-    config_file = series_dir / "config.yaml"
-    if not config_file.exists():
-        # Return default config if not found
-        return SeriesConfig(
-            id=series_dir.name,
-            name=series_dir.name.title()
-        )
-    data = load_yaml(config_file)
-    return SeriesConfig(**data)
+def discover_all_pages() -> List[Path]:
+    """Discover all page configs from the pages/ directory."""
+    project_root = Path.cwd()
+    pages_dir = project_root / "pages"
 
-
-def discover_pages(series_dir: Path) -> List[Path]:
-    """Discover all page configs in a series directory."""
-    pages_dir = series_dir / "pages"
     if not pages_dir.exists():
         return []
 
-    # Find all .yaml files except _index.yaml
+    # Find all .yaml files
     page_files = [
         f for f in pages_dir.glob("*.yaml")
-        if f.stem != "_index" and not f.stem.startswith("_")
+        if not f.stem.startswith("_")
     ]
 
     return sorted(page_files)
