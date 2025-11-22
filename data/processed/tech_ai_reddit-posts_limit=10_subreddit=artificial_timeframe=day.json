@@ -91,17 +91,6 @@
       "description": "A new report from OpenAI and a group of outside scientists shows how GPT-5, the company\u2019s latest AI large language model (LLM), can help with research from black holes to cancer\u2011fighting cells to math puzzles."
     },
     {
-      "title": "When it comes to nuclear weapons and AI, people are worried about the wrong thing | Vox",
-      "author": "vox",
-      "url": "https://www.reddit.com/r/artificial/comments/1p35g1q/when_it_comes_to_nuclear_weapons_and_ai_people/",
-      "published": 1763747706.0,
-      "thumbnail": "https://external-preview.redd.it/EE0gdvYtx8KsU1RhZIrvof5OO8Itc75w2UHVoXkVAiE.jpeg?width=640&crop=smart&auto=webp&s=4be458364bca3ed2da65453d0b34a36f2d2f5e7b",
-      "external_url": "http://vox.com/politics/468720/nuclear-ai-command-control",
-      "site_name": "Vox",
-      "favicon": "http://vox.com/static-assets/icons/apple-touch-icon.png",
-      "description": "It\u2019s more subtle than Skynet."
-    },
-    {
       "title": "So NotebookLLM got an update alongside Gemini 3",
       "author": "saggerk",
       "url": "https://www.reddit.com/r/artificial/comments/1p3dxhu/so_notebookllm_got_an_update_alongside_gemini_3/",
@@ -111,7 +100,18 @@
       "site_name": null,
       "favicon": null,
       "description": "Has anyone else tried it? You can create slide decks and infographics now, and the quality is really good. I'm excited for the day when PowerPoints will finally die."
+    },
+    {
+      "title": "When it comes to nuclear weapons and AI, people are worried about the wrong thing | Vox",
+      "author": "vox",
+      "url": "https://www.reddit.com/r/artificial/comments/1p35g1q/when_it_comes_to_nuclear_weapons_and_ai_people/",
+      "published": 1763747706.0,
+      "thumbnail": "https://external-preview.redd.it/EE0gdvYtx8KsU1RhZIrvof5OO8Itc75w2UHVoXkVAiE.jpeg?width=640&crop=smart&auto=webp&s=4be458364bca3ed2da65453d0b34a36f2d2f5e7b",
+      "external_url": "http://vox.com/politics/468720/nuclear-ai-command-control",
+      "site_name": "Vox",
+      "favicon": "http://vox.com/static-assets/icons/apple-touch-icon.png",
+      "description": "It\u2019s more subtle than Skynet."
     }
   ],
-  "fetched_at": "2025-11-22T10:37:00.487557+00:00"
+  "fetched_at": "2025-11-22T11:20:17.229643+00:00"
 }

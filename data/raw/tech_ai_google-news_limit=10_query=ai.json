@@ -25,14 +25,14 @@
       "description": "At a recent all-hands meeting, Google's head of AI infrastructure said the company has to race to build out compute capacity."
     },
     {
-      "headline": "How Google Finally Leapfrogged Rivals With New Gemini Rollout",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQQ3ZXQjY2d281Q0FteEpCbG9meG02aEt0UkJlXzdYWDVGQXMzUGhfMVdnVHJqRk1tUUZDR0Q1ZWN6MFEtRVdKX1JqLXpmR3Z0TjVZT1NTRlBEajQzdURXaVZ0RmpUZGNwdllCN2d1LURzbkdxeXVBVEhuZ2YxeWVnX29DVXdKZnYwYmE4ejJoVU9ZYUVNQWhqWWxuLUh4RHVLWmJrV093a1YydVpzU3VIWmNaOC1RbWVfNHVKTDEzR2I1b1dTZU9wNzhwaXgzNk9GeG9ORVdjLXFieGQ2Qnl6QU9XSXJHOUVXYWJTVDl3N1dkU3Q5cXFVVG1sM2psejlwdWVQeFlEb01oSmFiY0UxMlNSZWZYY2ZFeE9acW5jQ2h2V3F0UnNNT2pScTVfSm1tcGdEemRnRVR1UDktWWR2REYwbU40S2IyTTNFTlFWWjMxNW5uNWYydDhBUzUxZ01LREZiT2xhWkI3LTl4Z2hJVkRSWkxnR2gya2ZNOFln?oc=5",
-      "pub_date": 1763807400.0,
-      "article_url": "https://www.wsj.com/tech/ai/google-gemini-3-ai-behind-scenes-e1787729?gaa_at=eafs&gaa_n=AWEtsqeeSOQz7Bi7KGPxdCosWLs1k4lggAYW-_2mfq8Pi4CXGHcdMXH7kQIk&gaa_ts=692195d0&gaa_sig=ToSUk_6kYu-iWShwGBl5On1bm0mtxulIUUx1C1-VzB-PyOv9pvm1O4TzUHr09vXTNKjL_PywO650Oi4OJ6AFfw%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "Introducing Nano Banana Pro",
+      "source": "The Keyword",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81eFc0WmRGVnBjc2RqT0RkT3EycWQtTW1McUxmZFQzLXZDZG5pbUdCdm9FTi1QR21mS0VraUlldmMxNFFmZ2hxZEtwcUJIMy1Tc3dyUWlRT0EtNjFQS3o4?oc=5",
+      "pub_date": 1763651223.0,
+      "article_url": "https://blog.google/technology/ai/nano-banana-pro/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nanobananaprohero.width-1300.png",
+      "description": "Nano Banana Pro is our new image generation and editing model from Google DeepMind."
     },
     {
       "headline": "How can you tell if music is AI-generated?",
@@ -45,16 +45,6 @@
       "description": "As AI-generated music floods streaming platforms, questions bubble over whether listeners are owed more transparency."
     },
     {
-      "headline": "Greek secondary school teachers to be trained in using AI in classroom",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWwyQ2xSZjdHYVp1VlNYei1pYVotcjNQbFJVOG1SM2xrN0VOT0QzTkxsSTQxUTZTZlBVenktNjVWOWREVHczRVFKemZPaTVmaDh0T21hTVZmRW1kUTZBLXZCLVc2R0kzRVRWNUpDQUV5NEo1UXFGMFB4R0tRNURpRjJpaEpGSGdTWGZ1by1jcF9SOXY3S29NdWxsMUEyejdyNnVaY19tUVI4SEJnOTlfYzNJTU11MEk?oc=5",
-      "pub_date": 1763805720.0,
-      "article_url": "https://www.theguardian.com/world/2025/nov/22/greek-secondary-school-teachers-to-be-trained-in-using-ai-in-classroom",
-      "image": "https://i.guim.co.uk/img/media/29d1be576d245c2c2c9afdbefe6bac3aecb36ed8/217_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c7b67559e649328bcc5ca14f1e9d1d9",
-      "description": "Some teachers and pupils voice concerns about pilot programme after government\u2019s agreement with OpenAI"
-    },
-    {
       "headline": "The A.I. Boom Is Driving the Economy. What Happens if It Falters?",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -65,24 +55,24 @@
       "description": null
     },
     {
-      "headline": "Here are real AI stocks to invest in and speculative ones to avoid",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSXRzZ3NCckU2XzJTalNTSzBWYTM3c1N1TXFucDgzOFBnN0tzTGNvM1JMaWQ2YVRmZFV1RVR1dVY5cG9ocTBqQ1NIemNOaEMyTzFHaWNUWnQtaUJ2MHRsbWFjSmt3SW9Db2NjdDN5WnhMeDh3Wk55d2I0Q3RXaERtaFFyU3dpWkR2N0xlWHZrZllQMV84X3BhUmhDN3E5M2NNWE51WE1CYVVjcWdUTmpXUWpDT0gzQ0JPVUZHd2NR?oc=5",
-      "pub_date": 1763759086.0,
-      "article_url": "https://www.cnbc.com/2025/11/21/here-is-the-real-side-of-the-ai-trade-to-invest-in-and-the-speculative-side-to-avoid.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229153-1763651034942-gettyimages-2246994439-NVIDIA.jpeg?v=1763651052&w=1920&h=1080",
-      "description": "We understand the concerns about valuations in the speculative aspects of the AI, but not in the best of the best stocks we own."
+      "headline": "Greek secondary school teachers to be trained in using AI in classroom",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWwyQ2xSZjdHYVp1VlNYei1pYVotcjNQbFJVOG1SM2xrN0VOT0QzTkxsSTQxUTZTZlBVenktNjVWOWREVHczRVFKemZPaTVmaDh0T21hTVZmRW1kUTZBLXZCLVc2R0kzRVRWNUpDQUV5NEo1UXFGMFB4R0tRNURpRjJpaEpGSGdTWGZ1by1jcF9SOXY3S29NdWxsMUEyejdyNnVaY19tUVI4SEJnOTlfYzNJTU11MEk?oc=5",
+      "pub_date": 1763805720.0,
+      "article_url": "https://www.theguardian.com/world/2025/nov/22/greek-secondary-school-teachers-to-be-trained-in-using-ai-in-classroom",
+      "image": "https://i.guim.co.uk/img/media/29d1be576d245c2c2c9afdbefe6bac3aecb36ed8/217_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c7b67559e649328bcc5ca14f1e9d1d9",
+      "description": "Some teachers and pupils voice concerns about pilot programme after government\u2019s agreement with OpenAI"
     },
     {
-      "headline": "Bubble Trouble: AI rally shows cracks as investors question risks",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOU1jMURmNHdrNHdLN25ZOWZoenJDd2V2d3JNR1pINXRNU0JGLXBEMlRIWENCcGFvWWFTSFJVS2pNaXFNOFBNV3VPWlVNdi1uSDRmYWJEWEU4ekZubUZ5eHhXck5Ub0syclJtQm54YXROT3JxZmYteTg3ZHV1T3cyei1jZmdxTEZaRjdUTzVRWldoLVN5RzN0TGpTdkhxVFl6bXNPNHgtWDZQdw?oc=5",
-      "pub_date": 1763760715.0,
-      "article_url": "https://www.reuters.com/business/bubble-trouble-ai-rally-shows-cracks-investors-question-risks-2025-11-21/",
-      "image": null,
-      "description": null
+      "headline": "Tech stocks wrap big losing week as AI names get rocked after Nvidia earnings",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWG00YkpEblpJWDVpYXVVM1BtR3FmdWtFNjV4UU1kSkFjSkpWZGJOM1lnTTYwRlZmdU1hUWdiTUp2R3NSbzhqSWthYTFGUFBuV0pBczZkdy04YThPcG5FVGZvenBwMWdURkZMSkNFRzNhZzA3Vk9SMmQwallhSng3emg3dWl2bUk1SjdZ0gGQAUFVX3lxTE44M1hFRDlkcEFiV2hfcWpadzVibThNc05Yd0hBSjk5Y2tQMEhUTDVDaF9HcUlQSGFQZ1RvNS1wcnEtVHBQVFFLaFlTWkNkQ1JDbEZLM3lJVXA3QjBLVTBOc09wT2RkeWhhZEZ1MlQtd29VZmhGQXdjUHM1S00wNUl2ZTNJa0lseXE5Rkx0OHNPNw?oc=5",
+      "pub_date": 1763746565.0,
+      "article_url": "https://www.cnbc.com/2025/11/21/tech-stocks-nvidia-amd-oracle-amazon-microsoft.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108186410-1755244900069-gettyimages-2224768312-CHINA_JENSEN_HUANG.jpeg?v=1763746442&w=1920&h=1080",
+      "description": "Investors had looked to Nvidia's earnings report to settle fears that the AI bubble is on increasingly shaky ground."
     },
     {
       "headline": "Nvidia defies AI bubble fears but some analysts remain worried",
@@ -93,6 +83,16 @@
       "article_url": "https://abcnews.go.com/Business/nvidia-defies-ai-bubble-fears-analysts-remain-worried/story?id=127709332",
       "image": "https://i.abcnewsfe.com/a/bc03af10-14a7-4f6b-adbd-9c1897b7a66d/NVIDIA-1-rt-er-251121_1763752809775_hpMain_16x9.jpg?w=1600",
       "description": "The stock market slumped in recent days over AI fears."
+    },
+    {
+      "headline": "The Stock Market's New Most-Hated Word Is Pummeling the AI Trade",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmxDS3BmTDVGTF9UZ3NSdzZvUVItR0lvclNoWEhtY0h3bWJzbFFDS0g2SWpNRjdrY0NOelVwRlpuZHY4bjJWbkhiWE5YeWVnU3dfelBiT0Q4bjIzUWRNT21MOXctd0JPMS1CVUJEWFY5dDB2aWFKS2I1X3R3QW5OTUZJdWpuOVprVVJQOC1oX1c2OWo3Y0I2UzlrdWdvRmNJ?oc=5",
+      "pub_date": 1763806500.0,
+      "article_url": "https://www.businessinsider.com/stock-market-ai-bubble-gpu-depreciation-new-most-hated-word-2025-11",
+      "image": "https://i.insider.com/6920ca1a89026fbb4d0e3282?width=1200&format=jpeg",
+      "description": "Last month it was circularity. This month, it's depreciation."
     },
     {
       "headline": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-22T10:37:28.060171+00:00"
+  "fetched_at": "2025-11-22T11:20:30.461745+00:00"
 }
