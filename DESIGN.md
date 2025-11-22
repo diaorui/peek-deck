@@ -1390,6 +1390,129 @@ for widget in page.widgets:
 - Easy to add/remove widgets
 - Parallel execution possible
 
+### 14. Text Overflow Prevention in Carousel Cards (Critical for Consistent Card Width)
+
+**Problem:** Long text (especially links inside flex containers) can push carousel cards wider than their assigned width, breaking the layout on mobile where card width is dynamic.
+
+**Root cause:** Flexbox allows children to grow beyond parent width unless explicitly constrained at EVERY level of nesting.
+
+**Wrong approach:**
+```css
+/* ❌ BAD: Only constraining the card */
+.carousel-card {
+    max-width: 100%;
+}
+
+.card-title a {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+/* Long text in <a> still pushes card wider! */
+```
+
+**Correct approach - Apply `min-width: 0` at EVERY flex container level:**
+
+```css
+/* ✅ GOOD: Constrain entire flex chain */
+.carousel-card {
+    max-width: 100%;
+    min-width: 0; /* Allow flex children to shrink below content size */
+}
+
+.card-content {
+    min-width: 0; /* CRITICAL: Must propagate down */
+}
+
+.card-title {
+    min-width: 0; /* At every level */
+}
+
+.card-meta {
+    min-width: 0; /* Don't skip any containers */
+}
+
+.card-meta-line {
+    min-width: 0; /* All the way down */
+}
+```
+
+**Special handling for `<a>` tags:**
+
+**Multi-line titles (using `-webkit-line-clamp`):**
+```css
+/* ✅ GOOD: Keep <a> inline for line-clamp to work */
+.title {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    min-width: 0;
+}
+
+.title a {
+    /* NO display: block - breaks line-clamp! */
+    color: inherit;
+    text-decoration: none;
+}
+```
+
+**Single-line names (using `white-space: nowrap`):**
+```css
+/* ✅ GOOD: <a> needs overflow styles */
+.name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    min-width: 0;
+}
+
+.name a {
+    display: block; /* Needed for overflow to work */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+```
+
+**Exception: Tags/badges that need to wrap:**
+```css
+/* ✅ GOOD: Some meta-lines need wrapping (e.g., tags) */
+.meta-line {
+    flex-wrap: nowrap; /* Default: single line with ellipsis */
+    overflow: hidden;
+    min-width: 0;
+}
+
+.meta-line.tags-line {
+    flex-wrap: wrap; /* Exception: Allow tags to wrap within fixed height */
+    min-height: calc((0.7rem + 4px) * 2 + 4px); /* Reserve space for 2 rows */
+    max-height: calc((0.7rem + 4px) * 2 + 4px); /* Clip overflow */
+}
+```
+
+**The flex overflow chain:**
+```
+.carousel-card (min-width: 0) ✓
+  └─ .card-content (min-width: 0) ✓
+      ├─ .card-title (min-width: 0) ✓
+      │   └─ a (inline for line-clamp) ✓
+      ├─ .card-organization (min-width: 0) ✓
+      │   └─ a (block + overflow for single-line) ✓
+      └─ .card-meta (min-width: 0) ✓
+          └─ .card-meta-line (min-width: 0) ✓
+```
+
+**Why this matters:**
+- Missing `min-width: 0` at ANY level breaks the entire chain
+- Long organization names, titles, or URLs will push cards wider
+- Especially critical on mobile where card width is dynamic (`calc(85% - 8px)`)
+- Creates inconsistent card widths within the same carousel
+
+**From experience:**
+- Check EVERY text container in the component
+- Don't assume `max-width: 100%` alone is sufficient
+- Test with very long text in every field
+- `min-width: 0` is NOT redundant - it's essential for flex overflow
+
 ---
 
 ## Implementation Phases

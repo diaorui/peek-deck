@@ -4,7 +4,8 @@
     border-left: 3px solid #ff9d00;
     display: flex;
     flex-direction: column;
-    width: 280px;
+    max-width: 100%; /* Prevent any child from expanding card */
+    min-width: 0; /* Allow flex children to shrink below content size */
     flex-shrink: 0;
 }
 
@@ -37,6 +38,7 @@
     display: flex;
     flex-direction: column;
     flex: 1;
+    min-width: 0; /* Allow flex children to shrink below content size */
 }
 
 /* Model name (first line after thumbnail) - single line only */
@@ -49,11 +51,16 @@
     text-overflow: ellipsis;
     white-space: nowrap;
     min-height: calc(0.95rem * 1.4);
+    min-width: 0;
 }
 
 .widget-huggingface-models .model-name a {
     color: var(--text-color);
     text-decoration: none;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 .widget-huggingface-models .model-name a:hover {
@@ -92,6 +99,10 @@
 .widget-huggingface-models .model-author a {
     color: #ff9d00;
     text-decoration: none;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 .widget-huggingface-models .model-author a:hover {
@@ -105,6 +116,7 @@
     font-size: 0.72rem;
     color: #9ca3af;
     margin-top: auto;
+    min-width: 0;
 }
 
 .widget-huggingface-models .model-meta-line {
@@ -113,6 +125,7 @@
     gap: 8px;
     flex-wrap: nowrap;
     overflow: hidden;
+    min-width: 0;
 }
 
 .widget-huggingface-models .model-meta-line.tags-line {

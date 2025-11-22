@@ -4,7 +4,8 @@
     border-left: 3px solid #DA552F;
     display: flex;
     flex-direction: column;
-    width: 280px;
+    max-width: 100%; /* Prevent any child from expanding card */
+    min-width: 0; /* Allow flex children to shrink below content size */
     flex-shrink: 0;
 }
 
@@ -35,6 +36,7 @@
     display: flex;
     flex-direction: column;
     flex: 1;
+    min-width: 0; /* Allow flex children to shrink below content size */
 }
 
 .widget-producthunt .product-name {
@@ -47,6 +49,7 @@
     -webkit-box-orient: vertical;
     overflow: hidden;
     min-height: calc(0.95rem * 1.4 * 2);
+    min-width: 0;
 }
 
 .widget-producthunt .product-name a {
@@ -68,6 +71,7 @@
     -webkit-box-orient: vertical;
     overflow: hidden;
     min-height: calc(0.75rem * 1.4 * 3);
+    min-width: 0;
 }
 
 .widget-producthunt .product-meta {
@@ -77,6 +81,7 @@
     font-size: 0.72rem;
     color: #9ca3af;
     margin-top: auto;
+    min-width: 0;
 }
 
 .widget-producthunt .product-meta-line {
@@ -85,6 +90,7 @@
     gap: 8px;
     flex-wrap: nowrap;
     overflow: hidden;
+    min-width: 0;
 }
 
 .widget-producthunt .product-meta-item {

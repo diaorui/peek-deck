@@ -4,7 +4,8 @@
     border-left: 3px solid #238636;
     display: flex;
     flex-direction: column;
-    width: 280px;
+    max-width: 100%; /* Prevent any child from expanding card */
+    min-width: 0; /* Allow flex children to shrink below content size */
     flex-shrink: 0;
 }
 
@@ -44,6 +45,7 @@
     display: flex;
     flex-direction: column;
     flex: 1;
+    min-width: 0; /* Allow flex children to shrink below content size */
 }
 
 /* Repository name (first line after preview) - single line only */
@@ -56,11 +58,16 @@
     text-overflow: ellipsis;
     white-space: nowrap;
     min-height: calc(0.95rem * 1.4);
+    min-width: 0;
 }
 
 .widget-github-repos .repo-name a {
     color: var(--text-color);
     text-decoration: none;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 .widget-github-repos .repo-name a:hover {
@@ -99,6 +106,10 @@
 .widget-github-repos .repo-owner a {
     color: #9ca3af;
     text-decoration: none;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 .widget-github-repos .repo-owner a:hover {
@@ -116,6 +127,7 @@
     -webkit-box-orient: vertical;
     overflow: hidden;
     flex: 1;
+    min-width: 0;
 }
 
 .widget-github-repos .repo-meta {
@@ -125,13 +137,16 @@
     font-size: 0.72rem;
     color: #9ca3af;
     margin-top: auto;
+    min-width: 0;
 }
 
 .widget-github-repos .repo-meta-line {
     display: flex;
     align-items: center;
     gap: 8px;
-    flex-wrap: wrap;
+    flex-wrap: wrap; /* Allow tags to wrap */
+    overflow: hidden;
+    min-width: 0;
 }
 
 .widget-github-repos .repo-meta-line.tags-line {
