@@ -55,14 +55,14 @@
       "description": null
     },
     {
-      "headline": "This week in AI: Brushing off new bubble warnings, Google\u2019s AI comeback and Nvidia\u2019s China threat",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSWlOVGlFVEtramM0VDlNSTlQMnpNYlVqdlB0N2xfNnk0UWVDN0dqRWp2RHhCWWl6bkd1LXd6NU0wTU5icThydHVPQUVxZXdoMkx1VTJGSUExdzQwZjBzQWVIOWtUMUVpdzlNZVQxQUdMSURuakozM3p1elQ5QS0yQXo1WWowQ2J3XzR0UjgxeVBacF9Ed25kamcyZmRTQzJSUUxr0gGoAUFVX3lxTE11dkZHeWtVOGFZaXdqYjJ2aUxmbmhXQk1CSzI3UkVSRXZnRmFTREhSd1hUbm9vdTd0WUxGWkdWZTc2cUx0dDlkRkp3WGhIVUJGVlpoLU5EVHVVdjFtUkVrMVkxMUcyQWlHSk1qN0VBdXphcU1Fc1lYSksyaTBjbVRKbFU4MFFqTTctOWc0eUphdUE2X1JWNDNsMFZ2YUt2ZGRlUzRKVFlvUw?oc=5",
-      "pub_date": 1763816401.0,
-      "article_url": "https://www.cnbc.com/2025/11/22/new-ai-bubble-warnings-googles-comeback-and-nvidias-china-threat.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108230121-1763752515282-deirdre1_new.png?v=1763752929&w=1920&h=1080",
-      "description": "This week, volatility took hold of the AI trade as bubble fears continued and Nvidia\u2019s blowout earnings failed to steady the market. Deirdre Bosa has the story."
+      "headline": "The world\u2019s biggest company just told everyone to chill out",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QTnVBWkdqb0puUGF4X0YzQTN0cG9hWkxIdlNDaWFsdXFCSFJJR0lkenpaS3duQm8xN2JKSjFxbHhkbFQ4YUkxNFgzNkZ2ZG5BUjhlUmpRWnZndFNHS1FJR0FtQkVfbnFJdlpaYU9pUWl1a0dKMEE?oc=5",
+      "pub_date": 1763798458.0,
+      "article_url": "https://www.cnn.com/2025/11/22/tech/ai-bubble-fears-nvidia-earnings",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243374844.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Concerns about an AI bubble have been simmering for at least a year and a half. Nvidia\u2019s incredibly strong earnings this past week tried to put those fears to bed. It may not have been enough."
     },
     {
       "headline": "An A.I. Toy Bear Speaks of Sex, Knives and Pills, a Consumer Group Warns",
@@ -75,16 +75,6 @@
       "description": null
     },
     {
-      "headline": "Samsara (IOT): Evaluating Valuation After New Compliance, Navigation, and AI Fleet Solutions Announced",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQmVwckwwamVxNFY5TVZ1Q251N0tTcFQ0ekN4SlUtT2JLTWxuc3FWaUVjRUdJcGZzUEZiYVhrQmN2WEU0c1MxVi1vZFNlRVVwazRkVTcxWEVBdDFUeGpab0otY2dUNW9RXzl0cHBhOFQ4Skh2LWFUTEFUd2VXaXBGeURaSkE3ZHFDZURFWTZfNmZGbFE?oc=5",
-      "pub_date": 1763845960.0,
-      "article_url": "https://finance.yahoo.com/news/samsara-iot-evaluating-valuation-compliance-211240839.html",
-      "image": "https://media.zenfs.com/en/simply_wall_st__316/41bdd0c670f621394929d5266c5d6c72",
-      "description": "In recent days, Samsara (IOT) revealed a stream of new products and partnerships aimed at making commercial fleets safer, more compliant, and efficient. Notably, CLEAN Linen & Workwear highlighted major safety gains after rolling out Samsara\u2019s platform. See our latest analysis for Samsara. Samsara has been making plenty of headlines this year, and recent product momentum is beginning to show in the numbers. Even with some ups and downs, such as a 4.82% one-day share price return offsetting..."
-    },
-    {
       "headline": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -93,6 +83,16 @@
       "article_url": "https://fortune.com/2025/11/20/elon-musk-tesla-ai-work-optional-money-irrelevant/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246882303-e1763661015921.jpg?resize=1200,600",
       "description": "\u201cIt\u2019ll be like playing sports or a video game or something like that,\u201d the Tesla CEO said."
+    },
+    {
+      "headline": "France will investigate Musk\u2019s Grok after AI chatbot posted Holocaust denial claims",
+      "source": "PBS",
+      "source_url": "https://www.pbs.org",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTV5UTR0eFpiNGswYV85VGpKdFhmX1JtcnU5cUc0VnA3endBRG5zWDRxb2lWSXZpZTdMaEVXZnpqTUNCUzFhZ2FuQ3lnblRGVER3UUV5dV9DMVZQdEdkbVhBT2oxRkF3MG9qVHNsNUlZSVFUNG15dzFoSjFQNzRaMUlpdVlfQlZTM3d0OW5EVUFldGM2WXdRZkNSYjhBdTU4R3g4SDVVYmI3Zk5OazU0VGcxNmkzX2xB0gG-AUFVX3lxTFBtNnMwTlNTQVVVQkxlYkhwVWpOSW04emVic0N1R054SXQyRzFYVFd3SDVfTXZRc3cwNm9GZzJvYWZLYWlUdEg5S1haRHdsSE5TclRPVjhNQ1BwbEQxamFqenRhMmt2VjRxdWNWNUh5ZmF3eUdlTFZabXZVNVBrcGFtVDNfbUtsbV9vd2ozQU91STBkVWQ5Unc5bUhLWVNzODl4V1lBLVEycFE2ajk1dTJUVEl0NDJiZTkwLTdmdXc?oc=5",
+      "pub_date": 1763765252.0,
+      "article_url": "https://www.pbs.org/newshour/world/france-will-investigate-musks-grok-after-ai-chatbot-posted-holocaust-denial-claims",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/2025-02-16T142607Z_263064880_RC2PVCA4ZVJM_RTRMADP_3_XAI-AI-1024x683.jpg",
+      "description": "France\u2019s government is taking action against billionaire\u00a0Elon Musk\u00a0's artificial intelligence chatbot Grok after it generated French-language posts that questioned the use of gas chambers at Auschwitz, officials said."
     },
     {
       "headline": "Elon Musk\u2019s Grok AI tells users he is fitter than LeBron James and smarter than Leonardo da Vinci",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-22T21:59:01.450104+00:00"
+  "fetched_at": "2025-11-22T22:42:16.063983+00:00"
 }
