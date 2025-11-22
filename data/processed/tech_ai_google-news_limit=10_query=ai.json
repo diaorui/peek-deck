@@ -5,14 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Google must double AI serving capacity every 6 months to meet demand, AI infrastructure boss tells employees",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXZRUXNMWTNhSlFzZlkybjlVTUJoSi11S1Nfdno5YUhCaktNMVduTFh6TWxHcHRhWUowZlV4TDFiNWllZmNXWFM0cG11NUttV1BzblBvT2pvUUZxWV9LSmVKU190QzJBMXVyNUVTazVZeHo5V2pucGVCUUhmVFU2ZThwZHNYTDM5N3Rsa0llVW05QXF0RmZhdHh4dWhZVlhZOWlCV2FlQmXSAa4BQVVfeXFMUFNKVlMzdWJFSTFYWUhlQXM4dFFjRnVqVlJQUEJJR09IUEY2WEc5OWNldDd2MC1Bay03NGhPLW1IaTVfVXYyTDZRWFo4NThSdWctX3Fld1BUN2piM0lrVnZLcHNkczZSNFF3eDV6OTdEcE44Z0prOGlnYklXb0lTNXFXTU55UzBBdzdVMzQ1OWJ4ZllrZ1M2R0xVYmVfb0txSTExd3lac21NOGVWT053?oc=5",
-      "pub_date": 1763728201.0,
-      "article_url": "https://www.cnbc.com/2025/11/21/google-must-double-ai-serving-capacity-every-6-months-to-meet-demand.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108023895-1724280070456-amin.jpg?v=1724280282&w=1920&h=1080",
-      "description": "At a recent all-hands meeting, Google's head of AI infrastructure said the company has to race to build out compute capacity."
+      "headline": "Introducing Nano Banana Pro",
+      "source": "The Keyword",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81eFc0WmRGVnBjc2RqT0RkT3EycWQtTW1McUxmZFQzLXZDZG5pbUdCdm9FTi1QR21mS0VraUlldmMxNFFmZ2hxZEtwcUJIMy1Tc3dyUWlRT0EtNjFQS3o4?oc=5",
+      "pub_date": 1763651223.0,
+      "article_url": "https://blog.google/technology/ai/nano-banana-pro/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nanobananaprohero.width-1300.png",
+      "description": "Nano Banana Pro is our new image generation and editing model from Google DeepMind."
     },
     {
       "headline": "Google denies \u2018misleading\u2019 reports of Gmail using your emails to train AI",
@@ -25,44 +25,24 @@
       "description": "Google says \u201cwe do not use your Gmail content for training our Gemini AI model.\u201d"
     },
     {
-      "headline": "Introducing Nano Banana Pro",
-      "source": "The Keyword",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81eFc0WmRGVnBjc2RqT0RkT3EycWQtTW1McUxmZFQzLXZDZG5pbUdCdm9FTi1QR21mS0VraUlldmMxNFFmZ2hxZEtwcUJIMy1Tc3dyUWlRT0EtNjFQS3o4?oc=5",
-      "pub_date": 1763651223.0,
-      "article_url": "https://blog.google/technology/ai/nano-banana-pro/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nanobananaprohero.width-1300.png",
-      "description": "Nano Banana Pro is our new image generation and editing model from Google DeepMind."
-    },
-    {
-      "headline": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWVsY1hoTC1MWjZwNTVZdTdtdmhoc19vS3VRc2JrZGlKbDFvR0d1N0hXTTBLeEwtcml1ZEFPcXpZT2l4RDFrcHAxam1DbmxyOHVxY0NDcjNkSlZBRDBIVmE2NzFzVVNsbWxpbnlFQXBjelZtMlRjZG5SYmtGRklkSi1hRU1lcjJ0?oc=5",
-      "pub_date": 1763663820.0,
-      "article_url": "https://fortune.com/2025/11/20/elon-musk-tesla-ai-work-optional-money-irrelevant/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246882303-e1763661015921.jpg?resize=1200,600",
-      "description": "\u201cIt\u2019ll be like playing sports or a video game or something like that,\u201d the Tesla CEO said."
-    },
-    {
-      "headline": "The A.I. Boom Has Found Another Gear. Why Can\u2019t People Shake Their Worries?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNWE0MUtaUVMzaG1md1oxX1dkcmNjSTdaQjZxYWxaMHhPSXRhM0RKeXlZSjh1WUNyTnFXdURRaDFOcFdrS2pEbE9FbDQ4ZE96QVVZd2lLRktTUFJnNUFOb3E5aTVqMDlrYnc0VXNjYml0M2ktckZmSjVhbw?oc=5",
-      "pub_date": 1763674602.0,
-      "article_url": "https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Tech stocks wrap big losing week as AI names get rocked after Nvidia earnings",
+      "headline": "Google must double AI serving capacity every 6 months to meet demand, AI infrastructure boss tells employees",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWG00YkpEblpJWDVpYXVVM1BtR3FmdWtFNjV4UU1kSkFjSkpWZGJOM1lnTTYwRlZmdU1hUWdiTUp2R3NSbzhqSWthYTFGUFBuV0pBczZkdy04YThPcG5FVGZvenBwMWdURkZMSkNFRzNhZzA3Vk9SMmQwallhSng3emg3dWl2bUk1SjdZ0gGQAUFVX3lxTE44M1hFRDlkcEFiV2hfcWpadzVibThNc05Yd0hBSjk5Y2tQMEhUTDVDaF9HcUlQSGFQZ1RvNS1wcnEtVHBQVFFLaFlTWkNkQ1JDbEZLM3lJVXA3QjBLVTBOc09wT2RkeWhhZEZ1MlQtd29VZmhGQXdjUHM1S00wNUl2ZTNJa0lseXE5Rkx0OHNPNw?oc=5",
-      "pub_date": 1763746565.0,
-      "article_url": "https://www.cnbc.com/2025/11/21/tech-stocks-nvidia-amd-oracle-amazon-microsoft.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108186410-1755244900069-gettyimages-2224768312-CHINA_JENSEN_HUANG.jpeg?v=1763746442&w=1920&h=1080",
-      "description": "Investors had looked to Nvidia's earnings report to settle fears that the AI bubble is on increasingly shaky ground."
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXZRUXNMWTNhSlFzZlkybjlVTUJoSi11S1Nfdno5YUhCaktNMVduTFh6TWxHcHRhWUowZlV4TDFiNWllZmNXWFM0cG11NUttV1BzblBvT2pvUUZxWV9LSmVKU190QzJBMXVyNUVTazVZeHo5V2pucGVCUUhmVFU2ZThwZHNYTDM5N3Rsa0llVW05QXF0RmZhdHh4dWhZVlhZOWlCV2FlQmXSAa4BQVVfeXFMUFNKVlMzdWJFSTFYWUhlQXM4dFFjRnVqVlJQUEJJR09IUEY2WEc5OWNldDd2MC1Bay03NGhPLW1IaTVfVXYyTDZRWFo4NThSdWctX3Fld1BUN2piM0lrVnZLcHNkczZSNFF3eDV6OTdEcE44Z0prOGlnYklXb0lTNXFXTU55UzBBdzdVMzQ1OWJ4ZllrZ1M2R0xVYmVfb0txSTExd3lac21NOGVWT053?oc=5",
+      "pub_date": 1763728201.0,
+      "article_url": "https://www.cnbc.com/2025/11/21/google-must-double-ai-serving-capacity-every-6-months-to-meet-demand.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108023895-1724280070456-amin.jpg?v=1724280282&w=1920&h=1080",
+      "description": "At a recent all-hands meeting, Google's head of AI infrastructure said the company has to race to build out compute capacity."
+    },
+    {
+      "headline": "OpenAI CEO Sam Altman to employees in internal memo: Google\u2019s AI success can create\u2026",
+      "source": "Times of India",
+      "source_url": "https://timesofindia.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMmFySm1VM0M3bHp5bUlvS2FWY3dCdEVMMnlHRDdwWDNZVTBaazB3MEgxaUQ0SE93UmNndTVWOGxmTjhXQUVadnJJRXpsUVFhRUhvWUEyejQta2tsVDd5dTFnRzlkWEFXeTl4SnRnZkJ1YkYzVjNGTGQyenZqUk9xSW5HMGJwSnNtcERidndDaUNRQkd1bGExU2xxRVUzQV90emRKcnpuV2wydC13Y0NTU2tJUjVHUDlIWks5djB1eDdpYUliRlBiTVgyM2RRYVlDTFMtQXRSbUtvSFdsQTNwWW5xTk02dWo1UnAzU0NIcUprWTNGelRZ0gH8AUFVX3lxTFBVVjFtMk1Da0M1Z1pBZ1U5b2tQRHZ6UEwzc3ZBdGNVZFpMYnM2eUthOGFaR0xzQnk5THhYdjhyb184OUc1RWFmcy1LbDV1a3Uzc0RTWGRYSmNzdnNiWmxVUFhDdTB1R1c5X1BRaHBmMFBHQW5JUGxIYzUycjQ3bTBVeEMxOFBOelRtVURPQmU2LU5aNTIzMFRxTDBXei1KS0JZMFF1M21ya3d6NEZ2bDh4emcxUWlIQ1NuUndRbXBETV91NTg4NjlPWHFZRFRFRnNocnR1WXBuamlhdlI3VTlhb3haVUYyVDhRanNYamtNbGczQ1hiVVVlT04tWQ?oc=5",
+      "pub_date": 1763734860.0,
+      "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-to-employees-in-internal-memo-googles-ai-success-can-create/articleshow/125488762.cms",
+      "image": "https://static.toiimg.com/thumb/msid-125488710,width-1070,height-580,imgsize-33282,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
+      "description": "Tech News News: OpenAI CEO Sam Altman acknowledged Google's AI advancements could temporarily impact the company, but expressed confidence in catching up.  Despite Ch"
     },
     {
       "headline": "Here are real AI stocks to invest in and speculative ones to avoid",
@@ -75,14 +55,24 @@
       "description": "We understand the concerns about valuations in the speculative aspects of the AI, but not in the best of the best stocks we own."
     },
     {
-      "headline": "How can you tell if music is AI-generated?",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwaXZqTmZPVHpyUk9XQ05RNFc3WGtibG5hMkhsdzZjZWR0OVlONlZ0V0dYNXdEZnR4WFMwZ0JRUllmd3dRNklmUlhXZ1dIcldVcG95azVhZ1JaZw?oc=5",
-      "pub_date": 1763773640.0,
-      "article_url": "https://www.bbc.com/news/articles/c5ylzjj5wzwo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/05d8/live/7d040560-c6d3-11f0-a892-01d657345866.jpg",
-      "description": "As AI-generated music floods streaming platforms, questions bubble over whether listeners are owed more transparency."
+      "headline": "Tech stocks wrap big losing week as AI names get rocked after Nvidia earnings",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWG00YkpEblpJWDVpYXVVM1BtR3FmdWtFNjV4UU1kSkFjSkpWZGJOM1lnTTYwRlZmdU1hUWdiTUp2R3NSbzhqSWthYTFGUFBuV0pBczZkdy04YThPcG5FVGZvenBwMWdURkZMSkNFRzNhZzA3Vk9SMmQwallhSng3emg3dWl2bUk1SjdZ0gGQAUFVX3lxTE44M1hFRDlkcEFiV2hfcWpadzVibThNc05Yd0hBSjk5Y2tQMEhUTDVDaF9HcUlQSGFQZ1RvNS1wcnEtVHBQVFFLaFlTWkNkQ1JDbEZLM3lJVXA3QjBLVTBOc09wT2RkeWhhZEZ1MlQtd29VZmhGQXdjUHM1S00wNUl2ZTNJa0lseXE5Rkx0OHNPNw?oc=5",
+      "pub_date": 1763746565.0,
+      "article_url": "https://www.cnbc.com/2025/11/21/tech-stocks-nvidia-amd-oracle-amazon-microsoft.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108186410-1755244900069-gettyimages-2224768312-CHINA_JENSEN_HUANG.jpeg?v=1763746442&w=1920&h=1080",
+      "description": "Investors had looked to Nvidia's earnings report to settle fears that the AI bubble is on increasingly shaky ground."
+    },
+    {
+      "headline": "The A.I. Boom Has Found Another Gear. Why Can\u2019t People Shake Their Worries?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNWE0MUtaUVMzaG1md1oxX1dkcmNjSTdaQjZxYWxaMHhPSXRhM0RKeXlZSjh1WUNyTnFXdURRaDFOcFdrS2pEbE9FbDQ4ZE96QVVZd2lLRktTUFJnNUFOb3E5aTVqMDlrYnc0VXNjYml0M2ktckZmSjVhbw?oc=5",
+      "pub_date": 1763674602.0,
+      "article_url": "https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "A teddy bear powered by AI told safety testers about knives, pills and sex",
@@ -95,16 +85,26 @@
       "description": null
     },
     {
-      "headline": "Advocacy groups urge parents to avoid AI toys this holiday season",
-      "source": "FOX 2",
-      "source_url": "https://fox2now.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGVtR0NfTWxtVU52RlZBUXcwalpxUTBBakUtTmFBOVg1eVYtaGpNSkdiMTlIN19oZ19CMDNORWRvMVNUbm9RQ3ZTOWVzMDR0cG95QWVKbVpmRGJLbmVFa3hySnBLNEhzbC1XbEFDWFNCTnlKOFFVTFUzcHZZSXZyYW53TndidTdPUGlsdEVUZXBSVmRkR2EwOVlCeTdwVnZ0ZmfSAacBQVVfeXFMTUNta19hUnFhYmxyV3U0aXRWNzBfWmRpLXA0a3RKYWFRV3JWOTltSWRwY1NyMzNvUDNLU0M5UERmZlB2WnBCeWl3RVNCaV83UFV2cHVnQlhhLUhNSzl1ZzliN0JteUZad252eEJhSm5Gb2RSbFkzVzcwbDAtNnYwVGNUWlVBbmxLVWFKbkhzc2J1UGNnNXg5U25raDg4QS00UXZaTHc1REk?oc=5",
-      "pub_date": 1763779443.0,
-      "article_url": "https://fox2now.com/news/national/advocacy-groups-urge-parents-to-avoid-ai-toys-this-holiday-season/",
-      "image": "https://fox2now.com/wp-content/uploads/sites/14/2025/11/AP25323741277016.jpg?w=1280",
-      "description": "\u201cThe serious harms that AI chatbots have inflicted on children are well-documented.\u201d"
+      "headline": "Switching off AI's ability to lie makes it more likely to claim it's conscious, eerie study finds",
+      "source": "Live Science",
+      "source_url": "https://www.livescience.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWFJ3Zm5XdDVOVFNqLWJzQW1WSEhfcjBGVnRUcUlqUGM5NEZMMnNSOURYbkpBVkN6MWNCLXpMSHZXVjY2ZndsX09jZUhza1F2TXlDTlhubXZNNy1pZVlZblhzcU9CaDZqWkpQVE91aXR6VkZWMkd6aGpySWw1Z2RBTDI4OVRQMTNtQmNGSVVJZTVuOUQxd1pwT1VwNkt2b2s1TGFncEpOS0xRTkRYV1hIVEJRR2RrSlhEeGtKLXJRZ2lPNFEyYlJ2ckJfS0hIckxMMHZyQnRhNE1hWkVjMmlSNGphbjR4Nk5SU0RGZWR3?oc=5",
+      "pub_date": 1763730000.0,
+      "article_url": "https://www.livescience.com/technology/artificial-intelligence/switching-off-ais-ability-to-lie-makes-it-more-likely-to-claim-its-conscious-eerie-study-finds",
+      "image": "https://cdn.mos.cms.futurecdn.net/TWjTeF5UpRMCqne5Xjuxob-1920-80.jpg",
+      "description": "Leading AI models from OpenAI, Meta, Anthropic and Google described subjective, self-aware experiences when settings tied to deception and roleplay were turned down."
+    },
+    {
+      "headline": "How can you tell if music is AI-generated?",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwaXZqTmZPVHpyUk9XQ05RNFc3WGtibG5hMkhsdzZjZWR0OVlONlZ0V0dYNXdEZnR4WFMwZ0JRUllmd3dRNklmUlhXZ1dIcldVcG95azVhZ1JaZw?oc=5",
+      "pub_date": 1763773640.0,
+      "article_url": "https://www.bbc.com/news/articles/c5ylzjj5wzwo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/05d8/live/7d040560-c6d3-11f0-a892-01d657345866.jpg",
+      "description": "As AI-generated music floods streaming platforms, questions bubble over whether listeners are owed more transparency."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-22T06:37:36.565310+00:00"
+  "fetched_at": "2025-11-22T07:13:17.937748+00:00"
 }

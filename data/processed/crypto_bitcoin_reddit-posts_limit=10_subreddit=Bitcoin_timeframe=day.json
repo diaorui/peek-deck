@@ -91,17 +91,6 @@
       "description": null
     },
     {
-      "title": "Nobel Prize-winning economist Eugene Fama argues that Bitcoin is fundamentally flawed and predicts it has a near-certain chance of becoming worthless within a decade",
-      "author": "ColonelDeepthroat",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p38044/nobel_prizewinning_economist_eugene_fama_argues/",
-      "published": 1763753572.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Any takes on this article by Eugene Fama. https://www.promarket.org/2025/01/30/nobel-laureate-eugene-fama-predicts-bitcoin-will-become-worthless/#:~:text=When%20asked%20directly%20by%20Zingales,uncertainty%20about%20exactly%20how%20and"
-    },
-    {
       "title": "Thanks for the extra ketchup packets Diamond Hands",
       "author": "yoobermcruber",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p3gqkf/thanks_for_the_extra_ketchup_packets_diamond_hands/",
@@ -111,7 +100,18 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "\ud83d\udea8SOLO BLOCK FOUND!",
+      "author": "XGod0fWarX",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p31mbq/solo_block_found/",
+      "published": 1763739040.0,
+      "thumbnail": "https://b.thumbs.redditmedia.com/rpvBEtORnP_JPASvF_hO0nOJUgeE16ozeUe1tEI8GsI.jpg",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A home miner with only ~6.73TH/s of total hashrate just mined a block for 3.146 BTC totaling $264,558. The device that found the block has only 1.2TH/s indicating that it\u2019s a Bitaxe Gamma. \ud83d\ude80"
     }
   ],
-  "fetched_at": "2025-11-22T06:37:39.072057+00:00"
+  "fetched_at": "2025-11-22T07:13:19.580178+00:00"
 }
