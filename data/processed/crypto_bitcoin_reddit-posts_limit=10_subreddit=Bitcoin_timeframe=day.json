@@ -14,17 +14,6 @@
       "description": "xD"
     },
     {
-      "title": "At least \ud83e\udd37\u200d\u2642\ufe0f",
-      "author": "MrMBTC",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p36td6/at_least/",
-      "published": 1763750842.0,
-      "thumbnail": "https://preview.redd.it/n7vlc48son2g1.jpeg?width=640&crop=smart&auto=webp&s=88b924e6bf61485a0ef64da9b6b762f491a661f0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "My crystal ball just told me BTC will be back at 100k in mid-December.",
       "author": "xSpAcEX7",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p3b3c8/my_crystal_ball_just_told_me_btc_will_be_back_at/",
@@ -111,7 +100,18 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Why is everyone selling? Isn\u2019t this the best time to buy more?",
+      "author": "Known_Code6832",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p39u9c/why_is_everyone_selling_isnt_this_the_best_time/",
+      "published": 1763757944.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I don\u2019t completely understand bitcoin but I know enough that historically the crazy dips are right before the market skyrockets. Why do people not think it will happen again?"
     }
   ],
-  "fetched_at": "2025-11-22T18:46:28.697336+00:00"
+  "fetched_at": "2025-11-22T19:20:12.158709+00:00"
 }

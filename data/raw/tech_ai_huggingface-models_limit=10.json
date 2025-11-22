@@ -107,7 +107,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/dx8152/Qwen-Edit-2509-Multiple-angles.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64461e86ab86b035add67e41/eDoTkuWIHd4kXplY0ZfiM.jpeg",
       "downloads": 81760,
-      "likes": 722,
+      "likes": 723,
       "pipeline_tag": "image-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-12T09:16:16.000Z"
@@ -121,7 +121,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/dx8152/Qwen-Edit-2509-Multi-Angle-Lighting.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64461e86ab86b035add67e41/eDoTkuWIHd4kXplY0ZfiM.jpeg",
       "downloads": 2276,
-      "likes": 121,
+      "likes": 122,
       "pipeline_tag": "image-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-21T01:15:53.000Z"
@@ -142,5 +142,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-11-22T18:46:26.330541+00:00"
+  "fetched_at": "2025-11-22T19:20:10.864717+00:00"
 }
