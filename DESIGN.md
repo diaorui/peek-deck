@@ -1513,6 +1513,101 @@ for widget in page.widgets:
 - Test with very long text in every field
 - `min-width: 0` is NOT redundant - it's essential for flex overflow
 
+### 15. Image Fallback in Carousel Cards (Handling Load Failures)
+
+**Problem:** Using `background-image` for thumbnails provides no way to detect when images fail to load (broken URLs, 404s, network errors).
+
+**Wrong approach:**
+```html
+<!-- ❌ BAD: No fallback when background-image fails -->
+<div class="thumbnail" style="background-image: url('{{ post.thumbnail }}');"></div>
+```
+
+**Correct approach - Use `<img>` with `onerror` and layered fallback:**
+
+**CSS (layering approach):**
+```css
+.thumbnail {
+    width: 100%;
+    aspect-ratio: 2 / 1;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.03);
+}
+
+/* Fallback icon - always visible in background */
+.thumbnail::before {
+    content: "💬";
+    font-size: 3rem;
+    opacity: 0.3;
+    z-index: 0;
+    position: relative;
+}
+
+/* Image overlays icon when it loads successfully */
+.thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1; /* Covers fallback icon */
+}
+```
+
+**HTML:**
+```html
+<div class="thumbnail">
+    {% if post.thumbnail %}
+    <img src="{{ post.thumbnail }}"
+         alt="{{ post.title }}"
+         onerror="this.style.display='none'"
+         loading="lazy">
+    {% endif %}
+</div>
+```
+
+**How it works:**
+1. **Fallback icon** always present at `z-index: 0` (background layer)
+2. **Image loads successfully** → covers icon at `z-index: 1`
+3. **Image fails to load** → `onerror` hides img, revealing icon
+4. **No thumbnail** → just shows icon (no img tag)
+
+**Why this approach:**
+- ✅ Handles broken/invalid URLs
+- ✅ Handles network failures
+- ✅ Handles 404s and server errors
+- ✅ Graceful degradation - always shows something
+- ✅ No layout shift - container size fixed by `aspect-ratio`
+- ✅ `loading="lazy"` for performance
+
+**Alternative (JavaScript-based):**
+If you need more control, use `onload` to hide the fallback:
+```html
+<div class="thumbnail">
+    <div class="fallback-icon">💬</div>
+    <img src="{{ url }}"
+         onload="this.previousElementSibling.style.display='none'"
+         onerror="this.style.display='none'">
+</div>
+```
+
+**Why layering > background-image:**
+- `background-image` has no error event
+- Can't detect when external URLs fail
+- No way to show fallback UI
+- Silent failures create broken-looking cards
+
+**From experience:**
+- Always provide fallback for external images (Reddit, news sites, etc.)
+- Test with intentionally broken URLs
+- Use `object-fit: cover` to maintain aspect ratio
+- Consider adding blur-up placeholder for better UX
+
 ---
 
 ## Implementation Phases

@@ -16,8 +16,6 @@
     .widget-reddit-posts .post-thumbnail {
         width: 100%;
         aspect-ratio: 2 / 1;
-        background-size: cover;
-        background-position: center;
         border-radius: 4px;
         margin-bottom: 10px;
         background-color: rgba(255, 255, 255, 0.03);
@@ -25,11 +23,26 @@
         align-items: center;
         justify-content: center;
         font-size: 3rem;
+        position: relative;
+        overflow: hidden;
     }
 
-    .widget-reddit-posts .post-thumbnail:not([style*="background-image"])::before {
+    .widget-reddit-posts .post-thumbnail img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 1;
+    }
+
+    /* Fallback icon - always shown by default */
+    .widget-reddit-posts .post-thumbnail::before {
         content: "💬";
         opacity: 0.3;
+        z-index: 0;
+        position: relative;
     }
 
     .widget-reddit-posts .post-content {
@@ -187,7 +200,11 @@
             <div class="carousel-track" id="reddit-carousel-{{ subreddit|replace('_', '-')|lower }}">
                 {% for post in posts %}
                 <div class="carousel-card" onclick="window.open('{{ post.url }}', '_blank')">
-                    <div class="post-thumbnail" {% if post.thumbnail %}style="background-image: url('{{ post.thumbnail }}'); background-size: cover; background-position: center;"{% endif %}></div>
+                    <div class="post-thumbnail">
+                        {% if post.thumbnail %}
+                        <img src="{{ post.thumbnail }}" alt="{{ post.title }}" onerror="this.style.display='none'" loading="lazy">
+                        {% endif %}
+                    </div>
 
                     <div class="post-content">
                         <!-- Post title -->
