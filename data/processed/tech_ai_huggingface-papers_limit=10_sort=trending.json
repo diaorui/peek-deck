@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 63,
+      "upvotes": 64,
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
@@ -149,7 +149,7 @@
       "num_comments": 2,
       "published_at": "2025-11-17T12:59:53.000Z",
       "github_repo": "https://github.com/ziangcao0312/PhysX-Anything",
-      "github_stars": 460,
+      "github_stars": 474,
       "project_page": "https://physx-anything.github.io/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-23T18:52:12.045211+00:00"
+  "fetched_at": "2025-11-23T20:10:17.938521+00:00"
 }

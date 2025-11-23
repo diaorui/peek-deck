@@ -8,9 +8,9 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
-      "stars": 79409,
+      "stars": 79424,
       "stars_display": "79.4k",
-      "forks": 11799,
+      "forks": 11800,
       "forks_display": "11.8k",
       "language": "Jupyter Notebook",
       "topics": [
@@ -54,7 +54,7 @@
       "preview_image": "https://repository-images.githubusercontent.com/221654678/1b75a35c-3d70-4dbe-bd6f-56fcc6c809e6",
       "stars": 23449,
       "stars_display": "23.4k",
-      "forks": 2488,
+      "forks": 2489,
       "forks_display": "2.5k",
       "language": "MDX",
       "topics": [
@@ -174,7 +174,7 @@
         "artificial-intelligence",
         "deep-learning"
       ],
-      "updated_at": "2025-11-23T18:15:15Z"
+      "updated_at": "2025-11-23T19:57:58Z"
     },
     {
       "full_name": "Netflix/metaflow",
@@ -225,6 +225,6 @@
   "search_query": "ai machine-learning llm pushed:>2025-11-20",
   "days": 3,
   "limit": 10,
-  "total_count": 156,
-  "fetched_at": "2025-11-23T18:52:12.353117+00:00"
+  "total_count": 161,
+  "fetched_at": "2025-11-23T20:10:18.140831+00:00"
 }
