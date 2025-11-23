@@ -52,7 +52,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46005928",
       "author": "rbanffy",
       "points": 146,
-      "num_comments": 284,
+      "num_comments": 285,
       "created_at": "2025-11-21T16:25:48Z",
       "object_id": "46005928",
       "image": "https://substackcdn.com/image/fetch/$s_!zXE9!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd284a9a2-764e-4dc0-8918-555c2234e3bc_1196x917.jpeg",
@@ -79,7 +79,7 @@
       "url": "https://arxiv.org/abs/2509.01063",
       "hn_url": "https://news.ycombinator.com/item?id=46020096",
       "author": "nerder92",
-      "points": 73,
+      "points": 74,
       "num_comments": 51,
       "created_at": "2025-11-23T02:08:00Z",
       "object_id": "46020096",
@@ -93,7 +93,7 @@
       "url": "https://vibescaffold.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=46018229",
       "author": "straydusk",
-      "points": 55,
+      "points": 56,
       "num_comments": 32,
       "created_at": "2025-11-22T21:02:34Z",
       "object_id": "46018229",
@@ -101,6 +101,20 @@
       "description": "A friendly 4-step wizard that helps you define, design, and plan your next app idea with AI-powered spec generation.",
       "favicon": "https://vibescaffold.dev/favicon.ico",
       "site_name": "vibescaffold.dev"
+    },
+    {
+      "title": "Google tells employees it must double capacity every 6 months to meet AI demand",
+      "url": "https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/",
+      "hn_url": "https://news.ycombinator.com/item?id=46013463",
+      "author": "cheshire_cat",
+      "points": 50,
+      "num_comments": 34,
+      "created_at": "2025-11-22T09:39:11Z",
+      "object_id": "46013463",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/DLS_013-1152x648.jpg",
+      "description": "Google\u2019s AI infrastructure chief tells staff it needs thousandfold capacity increase in 5 years.",
+      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+      "site_name": "Ars Technica"
     },
     {
       "title": "The AI bubble is bigger than you think",
@@ -117,20 +131,6 @@
       "site_name": "The American Prospect"
     },
     {
-      "title": "Google tells employees it must double capacity every 6 months to meet AI demand",
-      "url": "https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/",
-      "hn_url": "https://news.ycombinator.com/item?id=46013463",
-      "author": "cheshire_cat",
-      "points": 49,
-      "num_comments": 31,
-      "created_at": "2025-11-22T09:39:11Z",
-      "object_id": "46013463",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/DLS_013-1152x648.jpg",
-      "description": "Google\u2019s AI infrastructure chief tells staff it needs thousandfold capacity increase in 5 years.",
-      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
-      "site_name": "Ars Technica"
-    },
-    {
       "title": "Microsoft AI CEO Puzzled by People Being Unimpressed by AI",
       "url": "https://80.lv/articles/microsoft-ai-ceo-puzzled-by-people-being-unimpressed-by-ai",
       "hn_url": "https://news.ycombinator.com/item?id=46001727",
@@ -145,7 +145,7 @@
       "site_name": "80.lv"
     }
   ],
-  "total_hits": 420,
+  "total_hits": 418,
   "has_metadata": true,
-  "fetched_at": "2025-11-23T14:17:38.286099+00:00"
+  "fetched_at": "2025-11-23T14:55:55.879129+00:00"
 }

@@ -25,14 +25,14 @@
       "description": null
     },
     {
-      "headline": "AI Investors Want More Making It and Less Faking It",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQV2htN19tV1gya1pyTGNXVTVjclRhT0NSaVRocVpoaGZ6WGEyYlROUnhLcU9rTlVuUGVYbU5VSk1uS1VIRDl5MnlLNHItNWpzMlV3NnhXWmZxek5PWDZRMGV4S2FxOHFoVmY3a2xwOFZzNzdqR09vTF8wNlFLaWZSWXNSYVY4UXh3Vks5UHdjYWFlMTN3TndZZFdXOXFCeWlGcmdNVXFZOGNLY1ZPbkVleV9rbDdKWDVTNnZ2YThlOExSZm5HX3gtcV9sNXlxUlZDelJoM1NRME1OMThkMFV3T2VPU0paVzBzXzZIRXh4QkVFWnRQMFpmTTZZdkVHdHZDQWlvRjZuMkdmTXRCSzJNc0xoSm5nbWNFbVVISXVGME9rQUJETnVLc2FodGdmZy0xOHNPSXBCQlJoLUptTTVOckVZMGhxLUp3ZWRGakt3NWw5Rk1BSndRaEx6V3dzS1E2Qm1lY05QaURERTJya19QQzF2SnBxRmcxZWkxSkxkRElTdzJGQlBhd2ZsWFJCdE1xa1RmREQzM1B1RVpvZ29TVQ?oc=5",
-      "pub_date": 1763866800.0,
-      "article_url": "https://www.wsj.com/finance/stocks/ai-investors-want-more-making-it-and-less-faking-it-321d8202?gaa_at=eafs&gaa_n=AWEtsqdrg2FBSt5K2nCUNdMsEUlbB_IBaaW98X04GvHuQIbNTLkWV3JSU76I&gaa_ts=69231b05&gaa_sig=dNd-MVlkocoqsWLyjwKLCBk3ceTHg_MV3lBvUZSYlL3FDTlpPVXfK12_5plKR_VoztvnOgBifbUKJX_gkn5TMw%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "Nvidia Didn\u2019t Save the Market. What\u2019s Next for the AI Trade?",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWExYzVxSklVSHNqbEVwTjZSSlhOVmloazlmUmdkazFWMUpWTXZvVEFabHBsU25tT2VocTdQV05aaWlvYVVrYUxFd29vRTgwN3BXMUlMS1d2eE45NGU4UzNSdVhiRms0M0ZiMC1sRmFNSUVCX3ZsU1JpSDFjQjFnVTlZY0JrUkZxWm1oLXFhWDhCZlJTdEU0eXlfTldtblFldV9DVWRxdFJrZE1RLWc?oc=5",
+      "pub_date": 1763906407.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-23/nvidia-didn-t-save-the-market-what-s-next-for-the-ai-trade",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im5yd20GlsoY/v1/1200x800.jpg",
+      "description": "Wall Street thought blowout earnings from Nvidia Corp. would calm investors\u2019 nerves about a bubble forming in artificial intelligence stocks. They didn\u2019t."
     },
     {
       "headline": "Meet the AI workers who tell their friends and family to stay away from AI | Artificial intelligence (AI)",
@@ -45,6 +45,16 @@
       "description": "When the people making AI seem trustworthy are the ones who trust it the least, it shows that incentives for speed are overtaking safety, experts say"
     },
     {
+      "headline": "As AI marches into art, humanity is a selling point",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ic0s2YjJDMkt5UVg1Qzc1QkRRYURXSTlDcDBGbVRMbmlMX09rUU1fTzcwRzZSek9GaTVmZlNjTmF2SzAzaThCYl9FUzhCWGwtQ3J5REpzQkhWdXBhdUotX3hHVVBiWDdOajIyag?oc=5",
+      "pub_date": 1763907906.0,
+      "article_url": "https://www.axios.com/2025/11/23/generative-ai-hollywood-art",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Microsoft faces uphill climb to turn enterprise dominance into widespread AI chatbot adoption",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -55,42 +65,22 @@
       "description": "At Microsoft's annual Ignite conference this week, IT buyers explained why Microsoft isn't seeing runaway success with its Copilot AI assistant."
     },
     {
-      "headline": "Cardano (ADA) News: Network Splits in Two as Attacker Uses AI-Generated Script to Exploit Bug",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeHh5c3phanVWZDFaYmJRdXVfNmVEbU53TXBVYlJlaUVGd1o0S2h2VzVmRFFFYnVTZHcxMG1DZVZDeUlwMUJaZDg3cjdVdmUxVklKNE1uRWpQNGJ3UndKR2Jabm9HY2N4aFlJUTFYVGNtT1RENkJGVmZUNDZELTRjX0VmVXdYdnpsR3piWGp4d2ZJMjZnNHRFNUJHbmhJejI3ZDhhZnZYUEJiNC1valozZU1pQzFLRUlOZGpZZ05QOW5kWVh6Q1Z1dzZyQWlDUmlPSU04SzBJUDZYWmZaeXdTcTV6dw?oc=5",
-      "pub_date": 1763901121.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/23/cardano-temporarily-splits-into-two-chains-after-attacker-uses-ai-generated-script-to-exploit-a-known-bug",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/228200cd05a76defda9dc8896ee32fee73fb34db-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The divergence emerged when newer nodes accepted a malformed transaction that older nodes rejected."
-    },
-    {
-      "headline": "Apple iOS 27 to Be No-Frills \u2018Snow Leopard\u2019 Update, Other Than New AI",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE1xUjJhYUFSd2hib2Fra1Q1czBSZmNNZ1hMdkhoM2EzWkswTTlBbTU4cUNKcmJOOEg4WE00NzdPNGM4amdncVpWTGFaLXNEeExMSDBoTlhSa0VuaUk1YWQtamlQY2wwRGtKNHlxcUg2VjF5N2R0LUdubjFEOWZKV3liVlpfeEpERW5DZFZwSzg4dVVSTVgwa1FKTmVpSUwyaWNjc09uUGlNSnNRVFh5SHdiOVRfWjM5bGlObUhMaFFxMnFmN2RZdGllSjdOeXlMdzhGVExB?oc=5",
-      "pub_date": 1763902841.0,
-      "article_url": "https://www.bloomberg.com/news/newsletters/2025-11-23/apple-ios-27-snow-leopard-like-quality-focus-ai-features-tim-cook-retirement-mibq7jv8",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip1lYWmrGkIg/v0/1200x800.jpg",
-      "description": "Apple\u2019s next major iPhone software update \u2014 iOS 27 \u2014 will have two major elements: quality improvements and artificial intelligence features. Also: The report on Tim Cook\u2019s imminent departure as CEO is premature, and OpenAI continues poaching Apple engineers. Lastly, the iPhone Air designer who introduced the device has left the company."
-    },
-    {
-      "headline": "The A.I. Boom Is Driving the Economy. What Happens if It Falters?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53TjY5S1gtRXRiN1MzZGU4ckFNcW16N1MtSHlkQzdIbTFHYU1XdE0tTGJFR2tBaFlCdnNTSkFreFUxNUowRW1VV0wyWDVHLVZhSi0wN29Td0pEMTNNVzZJbTJoY0hoYzhUUHpZWlh6QUx3cHVMNmVN?oc=5",
-      "pub_date": 1763805702.0,
-      "article_url": "https://www.nytimes.com/2025/11/22/business/the-ai-boom-economy.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "The surprising issue driving a wedge between Trump and his MAGA base",
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlRWWm04U29yNXRCTVVuU2tfVXY4dzJsX2h6TV9NRTgtSE1WLUlnbEF2UnJITG9pa0NIMUhtUHFhalZZUTlGc0ltTzZOSWhTQ2ZDX0JRSlpTSzZ0UFB6Y3dSWXFWVGpTdHRwLXJYOV9La2QwdHJqWV9KRTVIOFlISHJYMzQ3VnF3?oc=5",
-      "pub_date": 1763904810.0,
+      "pub_date": 1763908616.0,
       "article_url": "https://www.washingtonpost.com/technology/2025/11/23/trump-maga-division-tech-ai/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Opinion | How to Use. A.I to Talk to Whales",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVcUNxSjdvZGVrekpKU0dtaHhpRFV6VkthTDlrdjkwNEh2VHUtdU5zcXluM2JIbEhvelNPaGltZTdlSE05SUtHckwweS1KRXBRbFpLam1UODFsQWYxbWg4SGFnNHhvcFBDQ2ZIQUdoLUV0T0U?oc=5",
+      "pub_date": 1763895606.0,
+      "article_url": "https://www.nytimes.com/2025/11/23/opinion/whale-language-ai.html",
       "image": null,
       "description": null
     },
@@ -103,8 +93,18 @@
       "article_url": "https://fortune.com/2025/11/23/ai-rivals-like-openai-nvidia-and-oracle-are-collaborating-to-build-stargate-but-a-yale-expert-says-it-violates-135-years-of-antitrust-law/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236546815.jpg?resize=1200,600",
       "description": "Six AI leaders are uniting to form a single company. How is this possibly legal, asks Madhavi Singh of Yale\u2019s Thurman Arnold Project, an initiative dedicated to antitrust issues."
+    },
+    {
+      "headline": "Insurers retreat from AI cover as risk of multibillion-dollar claims mounts",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyS2s1T09kQ2x3Qnk2LUxxdWZkMndmY3FXeXBzUEYwaE13VVpPNmE4cGUtbE02VktocjhobjA5dG1kMjJFRHIxN1NheExYU014N01DWG9LSm1qSGlLeW5abU14bkdqanMtTUJwNmdqM08?oc=5",
+      "pub_date": 1763874033.0,
+      "article_url": "https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9bc84743-630a-483b-ac2f-1c210c3e7c1d.jpg?source=next-barrier-page",
+      "description": "AIG, Great American and WR Berkley seek permission to limit liability from AI agents and chatbots"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T14:18:18.286411+00:00"
+  "fetched_at": "2025-11-23T14:56:18.850960+00:00"
 }

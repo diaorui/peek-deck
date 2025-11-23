@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Elon Musk\u2019s Grok chatbot ranks him as world history\u2019s greatest human | Users on X shared examples of the \u201ctruth-seeking\u201d AI chatbot praising its owner as \u201cstrikingly handsome,\u201d a \u201cgenius\u201d and fitter than LeBron James.",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p4ni1d/elon_musks_grok_chatbot_ranks_him_as_world/",
+      "published": 1763906647.0,
+      "thumbnail": "https://external-preview.redd.it/a6vZJpMlKyMiL64FTOX1j2a1ZLrNsT5qER3NPGaoDN4.jpeg?width=640&crop=smart&auto=webp&s=5453d1674dc11c85e450fb6393fe0e3df371451c",
+      "external_url": "https://www.washingtonpost.com/technology/2025/11/20/elon-musk-grok/",
+      "site_name": "washingtonpost.com",
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Top Economist Warns That AI Data Center Investments Are \"Digital Lettuce\" That's Already Starting to Wilt",
       "author": "wiscowall",
       "url": "https://www.reddit.com/r/artificial/comments/1p48ozo/top_economist_warns_that_ai_data_center/",
@@ -24,17 +35,6 @@
       "description": "AI could create a generation further burdened with student loan debt\u2014and no job to repay it, according to Sen. Mark Warner."
     },
     {
-      "title": "Elon Musk\u2019s Grok chatbot ranks him as world history\u2019s greatest human | Users on X shared examples of the \u201ctruth-seeking\u201d AI chatbot praising its owner as \u201cstrikingly handsome,\u201d a \u201cgenius\u201d and fitter than LeBron James.",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4ni1d/elon_musks_grok_chatbot_ranks_him_as_world/",
-      "published": 1763906647.0,
-      "thumbnail": "https://external-preview.redd.it/a6vZJpMlKyMiL64FTOX1j2a1ZLrNsT5qER3NPGaoDN4.jpeg?width=640&crop=smart&auto=webp&s=5453d1674dc11c85e450fb6393fe0e3df371451c",
-      "external_url": "https://www.washingtonpost.com/technology/2025/11/20/elon-musk-grok/",
-      "site_name": "washingtonpost.com",
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Made with kling and grok - credit: ai am a jedi on YouTube",
       "author": "ksvetlyo",
       "url": "https://www.reddit.com/r/artificial/comments/1p4n56f/made_with_kling_and_grok_credit_ai_am_a_jedi_on/",
@@ -44,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Elon Musk vs Star Wars Droids"
+    },
+    {
+      "title": "Insurers retreat from AI cover as risk of multibillion-dollar claims mounts",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p4o8k5/insurers_retreat_from_ai_cover_as_risk_of/",
+      "published": 1763908624.0,
+      "thumbnail": "https://external-preview.redd.it/VI69wj-fNYNB_eDwDO58YP3302jvU2Z4KWR-75UfDus.jpeg?width=640&crop=smart&auto=webp&s=e36e68fe442d77a480bae4fb4dd48f1e5bd6449c",
+      "external_url": "https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62",
+      "site_name": "ft.com",
+      "favicon": "https://images.ft.com/v3/image/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=page-kit&format=png&width=180&height=180",
+      "description": "AIG, Great American and WR Berkley seek permission to limit liability from AI agents and chatbots"
     },
     {
       "title": "From Steve Bannon to Elizabeth Warren, bipartisan backlash erupts over push to block states from regulating AI",
@@ -99,18 +110,7 @@
       "site_name": "unisa.edu.au",
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "If you had to explain to a superintelligent AI why humanity should continue to exist, what would you say?",
-      "author": "Soggy-Ad9006",
-      "url": "https://www.reddit.com/r/artificial/comments/1p3ywis/if_you_had_to_explain_to_a_superintelligent_ai/",
-      "published": 1763832425.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "As AI continues to advance toward superintelligence, this question becomes increasingly relevant. What makes humanity worth preserving? Is it our creativity, our capacity for love and connection, our flaws and imperfections, our stories and cultures, or something else entirely? How would you make the case for human existence to an entity far more intelligent than us?"
     }
   ],
-  "fetched_at": "2025-11-23T14:17:58.777411+00:00"
+  "fetched_at": "2025-11-23T14:55:55.923747+00:00"
 }
