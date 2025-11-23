@@ -15,16 +15,6 @@
       "description": "Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there's a bubble that will soon pop."
     },
     {
-      "headline": "The A.I. Boom Has Found Another Gear. Why Can\u2019t People Shake Their Worries?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNWE0MUtaUVMzaG1md1oxX1dkcmNjSTdaQjZxYWxaMHhPSXRhM0RKeXlZSjh1WUNyTnFXdURRaDFOcFdrS2pEbE9FbDQ4ZE96QVVZd2lLRktTUFJnNUFOb3E5aTVqMDlrYnc0VXNjYml0M2ktckZmSjVhbw?oc=5",
-      "pub_date": 1763674602.0,
-      "article_url": "https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "This week in AI: Brushing off new bubble warnings, Google\u2019s AI comeback and Nvidia\u2019s China threat",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -35,6 +25,16 @@
       "description": "This week, volatility took hold of the AI trade as bubble fears continued and Nvidia\u2019s blowout earnings failed to steady the market. Deirdre Bosa has the story."
     },
     {
+      "headline": "AI rivals like OpenAI, Nvidia, and Oracle are collaborating to build \u2018Stargate\u2019\u2014but a Yale expert says it violates 135 years of antitrust law",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdUFsNXBKczBrNDlfM29xcUw4QXJZOFFmaTNOOUxoR2tZa05xRFQ2VlR5c25mWVg3VU9LRmZ4VURHSUx5NFZCZVQtQWM4Z2FNLU5uWE1uYWV6VkhlYWFzY3BLU2UxZzlMV09ZR1RMMU5vTHFPRzlxVXYzX1Ixd0lZMzk2WFZYZU1EWV9YR0JScVlFTVFtaTAwdDNnbE84aXZ3SFdfbDdQdEluSzBieEVqREE1WFZMN1JNQ1d1UlFsWjZ0YUd6X0xiYmM3VEZwUFVrSXUzT29yNDVCSHl0UTBSY2hybG1xejd1S3ZFdnVJV20zSXZQVXlOZXhJeF9BZw?oc=5",
+      "pub_date": 1763888400.0,
+      "article_url": "https://fortune.com/2025/11/23/ai-rivals-like-openai-nvidia-and-oracle-are-collaborating-to-build-stargate-but-a-yale-expert-says-it-violates-135-years-of-antitrust-law/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236546815.jpg?resize=1200,600",
+      "description": "Six AI leaders are uniting to form a single company. How is this possibly legal, asks Madhavi Singh of Yale\u2019s Thurman Arnold Project, an initiative dedicated to antitrust issues."
+    },
+    {
       "headline": "Meet the AI workers who tell their friends and family to stay away from AI | Artificial intelligence (AI)",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
@@ -43,6 +43,36 @@
       "article_url": "https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away",
       "image": "https://i.guim.co.uk/img/media/2103be8be876262394e303cf374938ad30d7fcdc/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=508e507d9631c2cd6d0b1ca7040762e0",
       "description": "When the people making AI seem trustworthy are the ones who trust it the least, it shows that incentives for speed are overtaking safety, experts say"
+    },
+    {
+      "headline": "Microsoft faces uphill climb to turn enterprise dominance into widespread AI chatbot adoption",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjY1RTJDVTcxaVpKY1hwOVNvLUgtV1VCQ3gyMFNMNnFUWk1TalB1UTBGcm5Nc21pUUdpVW9BYmYxcmNlV1JYa2sxa2F1b01HUnQ4UllycG9kdm5SbkY4OWhtTkV6LU5KMHN5RDFBQ1Z6LWRJY1ROcU9EMFB6b2NPY2ZjNlZCZEpqalZIZDNhTlFPcjluZVRTMFZpOGNfR1haSnfSAacBQVVfeXFMTjczUmZFNmVxS2dIbkhmV2ozMGw0X1VPb1A1YXREb2hkazI4ZDRzbG1wd3BZeGdfZnNRTGYwVWZwanI3M2M0Rm5Ya0NLRmJnOUtTRW5ScGNvQ0JpMi1tMTUwY0VIMzhkeHdkRm13ak1EZ2dBTUlBVEdEX2pMVEZlYldrSVdhczZiRUhPTUpkb1ZVcmRNRmthcDdXYWgtTDIxLVdhTHBubjQ?oc=5",
+      "pub_date": 1763902801.0,
+      "article_url": "https://www.cnbc.com/2025/11/23/microsoft-faces-uphill-climb-to-win-in-ai-chatbots-with-copilot.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108166076-1751325646064-gettyimages-2150286124-AFP_34QG9T9.jpeg?v=1763774719&w=1920&h=1080",
+      "description": "At Microsoft's annual Ignite conference this week, IT buyers explained why Microsoft isn't seeing runaway success with its Copilot AI assistant."
+    },
+    {
+      "headline": "Scientists Discover Universal Jailbreak for Nearly Every AI, and the Way It Works Will Hurt Your Brain",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDTkZXeE9Rc1BhamhBX3ZoYzljLWc4SnFsZkR1dWZya3d5aFRoRnVtZXpSTHRfXzhGQkF5Wmd6RlhqVDJwczJXbEVJS21kU016SDA3LXdaOHUzVjBaU1ZLcnBLVzFYQUtHZWRaWjJSYnhxX2tfUFdSaDlzVW5rdw?oc=5",
+      "pub_date": 1763898300.0,
+      "article_url": "https://futurism.com/artificial-intelligence/universal-jailbreak-ai-poems",
+      "image": "https://futurism.com/wp-content/uploads/2025/11/universal-jailbreak-ai-poems.jpg?quality=85&w=1200",
+      "description": "A simple trick involving poetry is enough to jailbreak the tech industry's leading AI models, researchers found."
+    },
+    {
+      "headline": "You Can Run IBM's AI Chatbot Locally In Your Web Browser - Here's How",
+      "source": "bgr.com",
+      "source_url": "https://www.bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZWZqN0RvZzhmeVRBSXl1eUF6d1NiTzJ6TXZCUTNSMW1CekhwTGhJZG5CcDJHblpqa25Kal9xc09jOHhTdGpzdlBaTV9EU251NzIzRksxLUZhUUFmU1R6UEJtMklJaHhCN1hFcVJfeE13NXI2V2JxbVBYdFZGWVd0c2dsc1N2VnlSb0ZVbGFrQWlDbzQ0NmN0WnFrQQ?oc=5",
+      "pub_date": 1763842620.0,
+      "article_url": "https://www.bgr.com/2032147/how-to-run-ibm-ai-chatbot-granite-4-nano-locally-web-browser-guide/",
+      "image": "https://www.bgr.com/img/gallery/you-can-run-ibms-ai-chatbot-locally-in-your-web-browser-heres-how/l-intro-1763576678.jpg",
+      "description": "IBM's Granite 4.0 Nano AI chatbot can be run from a local browser. Make sure it's up to date and meets the program requirements, download the chatbot, and run."
     },
     {
       "headline": "Investors eye holiday season turbulence amid AI and rate cut doubts",
@@ -65,46 +95,16 @@
       "description": "Nicolai Tangen warns differing access to artificial intelligence has potential for \u2018splitting societies\u2019"
     },
     {
-      "headline": "AI Ignites the Return of Bezos the Inventor",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPaWxXSTB5T0VCbDNBZWVpcG9fNXZqNjU5QWcxQndkbVljM1RXZi0xa3JRci00UVdOdlh4WUpScEtFaWZScG9DcG9qTld3UUN6YnhxSGhQeVhVd0lBWlFEeFVGa1p1OXRlWWp6SUJCbGJGWmlmU0xPa2pDUENodV9fU083LVJ0MXdqR2dNejhXd1lSN0VXNUlwcHpaNlZWNlU5SUwxcXNNN3BNaWlMRmpsZEVmYUpZNjRZN1BsZkk5VlZwYTBNSlZDeWZ4RkY5elJ0RUtuRVBtNFZWb0pLYXk0OGFoNmszdFFEakFtN1MtWjZKaC13SlhBb1BjUUtreHdibUhoeWI5cjFyLVFwUmI5aS13RFg4OW1oMWVaaWtTUjA1ajNtTHREN2tmNHBrVzIyOV9RR3d2QXQzV3o2cWhvR1p0ZGRpZVdnUHBKenh6TlpfRUE2TUVmM3hSUksta0VaSHZMdDdmU2pEQ2p1YlRpVjctSkpJWnlFQW9tLWNJb3NnTmlKOEQ1NFFPMTc?oc=5",
-      "pub_date": 1763893800.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-ignites-the-return-of-bezos-the-inventor-c42d0075?gaa_at=eafs&gaa_n=AWEtsqcaXgeWwbiUQz0nyeJbRMDZOsJXD5WaCJ2_NUv0jpXKbR089h4zEvEv&gaa_ts=6923047e&gaa_sig=LKm6QB9vMLtItAGg1IUIzMFYgdMIPShYSvehVIe6inkD-a4HQWsCZrJQhgqAEn5_inLmrbgPEnw_9y-aFD1Mxw%3D%3D",
+      "headline": "The A.I. Boom Is Driving the Economy. What Happens if It Falters?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53TjY5S1gtRXRiN1MzZGU4ckFNcW16N1MtSHlkQzdIbTFHYU1XdE0tTGJFR2tBaFlCdnNTSkFreFUxNUowRW1VV0wyWDVHLVZhSi0wN29Td0pEMTNNVzZJbTJoY0hoYzhUUHpZWlh6QUx3cHVMNmVN?oc=5",
+      "pub_date": 1763805702.0,
+      "article_url": "https://www.nytimes.com/2025/11/22/business/the-ai-boom-economy.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "How patients are using AI to fight back against denied insurance claims",
-      "source": "PBS",
-      "source_url": "https://www.pbs.org",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEVtUDdjSVNVSkx3dG9MSlNfY1htdXlUQUxPOWE5c2hQUTc2QjVNZ1dEdFhJOUMxa1ZFVUVpLVZqZDhrbXhlSGFPY3Y3RDRGcjF6YWJTQ0hiRG43U0JrX01wQi1sRko1SHZKX0tsMEtQdlFrYmRhay1pNHhZaHZTYXBIU2NISDNzWkJrVldVb0NpdFIzOUN5VGhqYmp6RFFOZVVoWE1RSnM?oc=5",
-      "pub_date": 1763850929.0,
-      "article_url": "https://www.pbs.org/newshour/show/how-patients-are-using-ai-to-fight-back-against-denied-insurance-claims",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/aiandinsurance-1024x683.jpg",
-      "description": "As health insurers increasingly rely on artificial intelligence to process claims, denials have been on the rise. In 2023, about 73 million Americans on Affordable Care Act plans had their claims for in-network services denied, and less than 1% of them tried to appeal. Now, AI is being used to help patients fight back. Ali Rogin speaks with Indiana University law professor Jennifer Oliva for more."
-    },
-    {
-      "headline": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWVsY1hoTC1MWjZwNTVZdTdtdmhoc19vS3VRc2JrZGlKbDFvR0d1N0hXTTBLeEwtcml1ZEFPcXpZT2l4RDFrcHAxam1DbmxyOHVxY0NDcjNkSlZBRDBIVmE2NzFzVVNsbWxpbnlFQXBjelZtMlRjZG5SYmtGRklkSi1hRU1lcjJ0?oc=5",
-      "pub_date": 1763663820.0,
-      "article_url": "https://fortune.com/2025/11/20/elon-musk-tesla-ai-work-optional-money-irrelevant/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246882303-e1763661015921.jpg?resize=1200,600",
-      "description": "\u201cIt\u2019ll be like playing sports or a video game or something like that,\u201d the Tesla CEO said."
-    },
-    {
-      "headline": "\u2018$1 trillion squad\u2019: AI images of Musk, Altman, Huang, Cook with other billionaires spark frenzy",
-      "source": "Moneycontrol",
-      "source_url": "https://www.moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSFJ6ZG5ialRJOHNKNzh5NWpSdE5YYkFIN2M1M3pKLW5hZFc0VDZRdGFhcjk1dHBsYXI5RFR1OHR1ZmsyZmp0T2h1U2xubkx1SF92cFNSd2tESW5kSUN0SFFrZGVFR2pyd3llT3p1aDdlVjBQM3BzU0VWelBKZ0plNHNMZl9XTV9Hc3d6WWRUc2d1WEZPZld2bWR6cEVHVi1TQmlVdFpJclpONTNoNzJKZHhIN0NYNjRXUk9iV3BscmdCVGxFZUNrV1kyTW1PdFJaSXlrYWg1dkdUanlYaXdPY21HdXZjd9IB6wFBVV95cUxPOFJXLTVQMHotdEo3MXFHcUVRZ1FiVGRNVjNHUk5MbUoySUR4eUhkdWE5eWtQaWo3SWVOcXpiZVBXcUZDbXRaWHh6Y1IwZ25Hb3JPd01qN1EwNHhhOGk0dEtjRGVqRk93d3pXWC1kX1RVNDlFMzVGa3hhcnQwOXhtS3BydzltdmJVWVpBVHVBMHFxTnkwZUtwb1N4U3p1aDNIV1ZNTHJOS3NWOTE1ZXVtMFFIVzZFZy1zT3RFRmo4aU1PdWJwR2JZUnhvcU4wOTJOUjlHVEF0NEVzQjBDd3N1dWZWWVYyV3M4c09J?oc=5",
-      "pub_date": 1763871633.0,
-      "article_url": "https://www.moneycontrol.com/news/trends/1-trillion-squad-ai-images-of-musk-altman-huang-cook-with-other-billionaires-spark-frenzy-online-13691337.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2025/11/20251123041848_MixCollage-23-Nov-2025-09-21-AM-9194.jpg",
-      "description": "The exaggerated realism, combined with the uncanny nature of the images created using Grok and Nano Banana, among other AI tools, blurred lines between fact and fiction, prompting many to initially wonder if the photos were genuine. Even after confirmations that they were AI-generated, the debate only amplified the meme storm."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T12:41:52.748342+00:00"
+  "fetched_at": "2025-11-23T13:33:17.199229+00:00"
 }
