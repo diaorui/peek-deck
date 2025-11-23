@@ -60,7 +60,7 @@ A **widget** is a self-contained component that:
 ## Directory Structure
 
 ```
-fathom-deck/
+peek-deck/
 ├── src/peek_deck/           # Python source code
 │   ├── core/                  # Core framework (BaseWidget, cache, renderer)
 │   └── widgets/               # All widgets (flat structure)

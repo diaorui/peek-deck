@@ -18,7 +18,7 @@ git add .
 git commit -m "Initial commit: PeekDeck MVP"
 
 # Create repo on GitHub, then:
-git remote add origin https://github.com/YOUR_USERNAME/fathom-deck.git
+git remote add origin https://github.com/YOUR_USERNAME/peek-deck.git
 git branch -M main
 git push -u origin main
 ```
@@ -70,7 +70,7 @@ git checkout main
 
 1. Wait for the workflow to complete (1-2 minutes)
 2. Check the **Actions** tab for green checkmark
-3. Visit: `https://YOUR_USERNAME.github.io/fathom-deck/crypto/bitcoin.html`
+3. Visit: `https://YOUR_USERNAME.github.io/peek-deck/crypto/bitcoin.html`
 
 ## Branch Structure
 

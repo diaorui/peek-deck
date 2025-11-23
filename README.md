@@ -35,7 +35,7 @@ Open `docs/crypto/bitcoin.html` in your browser to see the Bitcoin dashboard.
 ## Project Structure
 
 ```
-fathom-deck/
+peek-deck/
 ├── src/peek_deck/             # Python source code
 │   ├── core/                  # Core framework
 │   │   ├── base_widget.py     # BaseWidget class
@@ -114,7 +114,7 @@ The workflow will:
 - Store generated content in a separate `data` branch
 
 **Your dashboards will be live at:**
-`https://YOUR_USERNAME.github.io/fathom-deck/crypto/bitcoin.html`
+`https://YOUR_USERNAME.github.io/peek-deck/crypto/bitcoin.html`
 
 See `SETUP.md` for complete deployment instructions.
 
