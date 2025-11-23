@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Tom Lee Says Bitcoin, Ethereum Crash Wasn't Macro But A 'Software Bug'",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVVYbHV6ZFZ3Z0pJYWgwYlhLNmNFaklON0otbl9CWUlpVXhfVU5HeHV2TnZ3UFd6MGUyU0VETzAzdDhxVVE2bktzSFBxaGpoamhVZ2VNRC1meDdyRlpxdnVxQmZlR3JyUUQ0NkpjZmdEajFwV2FMM3BkOUFlakpOMw?oc=5",
-      "pub_date": 1763811985.0,
-      "article_url": "https://finance.yahoo.com/news/tom-lee-says-bitcoin-ethereum-114625645.html",
-      "image": "https://media.zenfs.com/en/benzinga_79/55dc40160a5a2d9761aae05dabcccc49",
-      "description": "Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) breaking below key support levels has sparked debate over whether fundamentals are to blame \u2014 but Fundstrat's Tom Lee argues the real culprit is far more mechanical. What Happened: In an interview with ..."
-    },
-    {
       "headline": "Is XRP or Ethereum More Likely to Be a Millionaire Maker?",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -23,6 +13,16 @@
       "article_url": "https://www.fool.com/investing/2025/11/22/is-xrp-or-ethereum-more-likely-to-be-a-millionaire/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F842225%2Ftrader-investor-screens-chart-graph-stocks-finance.jpg&w=1200&op=resize",
       "description": "These two leading blockchains are very different in their ambitions."
+    },
+    {
+      "headline": "Tom Lee Says Bitcoin, Ethereum Crash Wasn't Macro But A 'Software Bug'",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVVYbHV6ZFZ3Z0pJYWgwYlhLNmNFaklON0otbl9CWUlpVXhfVU5HeHV2TnZ3UFd6MGUyU0VETzAzdDhxVVE2bktzSFBxaGpoamhVZ2VNRC1meDdyRlpxdnVxQmZlR3JyUUQ0NkpjZmdEajFwV2FMM3BkOUFlakpOMw?oc=5",
+      "pub_date": 1763811985.0,
+      "article_url": "https://finance.yahoo.com/news/tom-lee-says-bitcoin-ethereum-114625645.html",
+      "image": "https://media.zenfs.com/en/benzinga_79/55dc40160a5a2d9761aae05dabcccc49",
+      "description": "Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) breaking below key support levels has sparked debate over whether fundamentals are to blame \u2014 but Fundstrat's Tom Lee argues the real culprit is far more mechanical. What Happened: In an interview with ..."
     },
     {
       "headline": "\ud83d\udea8 BREAKING: SWIFT Chooses Ethereum Layer-2 #Linea Over XRP for 2025 Cross-Border Payment Pilot In",
@@ -55,16 +55,6 @@
       "description": "BitMine could trap shareholders amid low staking yields, hefty embedded fees and vanishing NAV premium, 10x Research founder Markus Thielen warns."
     },
     {
-      "headline": "Myriad Moves: Markets Grow Bearish on Bitcoin and Ethereum as Rate Cut Odds Tumble",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM0dMTEk4UGwyVFc3TGs4VjBLbHpfRnlFRXd5VG1PT3FpSjBodEVVV1JDOUpUUXBPeFB3am5hbno4TlhybmNsUWRFZEtYckpQNDNWb0VvS3RKT09VRjEzekpNQ2prZVllanBZd0IzbVAwMnNxX2tlUWh1Q0NUSERNNFBMaWVkX2hTVUdVak9xdW9LTUY4dFdHdFRTdFJjZ9IBpgFBVV95cUxPelQ5d3ZWSm5uV2djczluY2VRS0lfVTJEMEdMSno3ZTZ2eW9GX3d6ejh4R3hTZnYxQWRxM3RqQTh4N0xycmtFZ0NvN1A1ZVMwSmEyaWFJczdSWWRBcUVra3JUck5KVUdLMExDSG5odHg5dDNsbTdoOXdnNFcyanhFT1gzc0NvamY5ZUh0cUhqaEVzYy1leFZUS2xsWHNPMU9QMEFLT1lB?oc=5",
-      "pub_date": 1763677766.0,
-      "article_url": "https://decrypt.co/349481/myriad-moves-markets-grow-bearish-bitcoin-ethereum-rate-cut-odds-tumble",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/bitcoin-ethereum-decrypt-style-02-scaled-gID_7.jpg",
-      "description": "Top markets on Myriad this week include predictions on where Bitcoin and Ethereum are headed next, plus if the Fed will cut rates again this year."
-    },
-    {
       "headline": "Ethereum Price Prediction After $3K Lost: What Happens to ETH DATs Now Paper Gains Are Gone?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -95,6 +85,16 @@
       "description": "Key PointsDespite news that the Federal Reserve may opt for more rate cuts -- a move that typically boosts crypto prices -- the market is still falling."
     },
     {
+      "headline": "Ethereum Price Today, 22 November 2025: ETH Holds Around $2,720 as Whales Buy the Dip and ETF Flows Flip Mixed",
+      "source": "ts2.tech",
+      "source_url": "https://ts2.tech",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYmNrWDZCc0VNdmNDdUFpalBIY1VKa2lTbXFRMzJRYzdtVDc4OWx3THNUdk5jeXpiY1BiWDFWbTY0Nnhnb2x0SjFOVTVxVmJQeUdCdEdTRU9fa3BGa0FVSkEzTHlPOTloSzRJYldCemxqX3QxUE1rOVpPNGJoQy1ieGV5UmhpanQ3LVdHNXhJcXRPS0tHTzNPRUt2VGM2a1E1MXNDVVhfd3ZaMjl1OHUydXNpREg2bTlTQ3MtdEpaVkRHeVhOWWc?oc=5",
+      "pub_date": 1763819050.0,
+      "article_url": "https://ts2.tech/en/ethereum-price-today-22-november-2025-eth-holds-around-2720-as-whales-buy-the-dip-and-etf-flows-flip-mixed/",
+      "image": "https://ts2.tech/wp-content/uploads/2025/10/Ethereum-1.jpg",
+      "description": "Ethereum Price Today, 22 November 2025: ETH Holds Around $2,720 as Whales Buy the Dip and ETF Flows Flip Mixed - TechStock\u00b2"
+    },
+    {
       "headline": "Ethereum treasury FG Nexus, once eager to raise up to $5 billion, sells over 10,000 ETH to fund share buybacks",
       "source": "theblock.co",
       "source_url": "https://www.theblock.co",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T13:33:16.613891+00:00"
+  "fetched_at": "2025-11-23T14:17:57.035183+00:00"
 }

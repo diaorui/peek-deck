@@ -8,9 +8,9 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
-      "stars": 79342,
-      "stars_display": "79.3k",
-      "forks": 11781,
+      "stars": 79357,
+      "stars_display": "79.4k",
+      "forks": 11786,
       "forks_display": "11.8k",
       "language": "Jupyter Notebook",
       "topics": [
@@ -30,9 +30,9 @@
       "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
       "url": "https://github.com/ray-project/ray",
       "preview_image": "https://opengraph.githubassets.com/f7ac9ebd1d44a7aeb1d525064757ac8bf697e7fd66b4692c527e371c6f50cf53/ray-project/ray",
-      "stars": 39964,
+      "stars": 39965,
       "stars_display": "40.0k",
-      "forks": 6934,
+      "forks": 6933,
       "forks_display": "6.9k",
       "language": "Python",
       "topics": [
@@ -98,7 +98,7 @@
       "preview_image": "https://opengraph.githubassets.com/cf0cc62b022aa612e09157785c9b3cdabf5c1faa6b35d279c4675932e1cd958f/arc53/DocsGPT",
       "stars": 17391,
       "stars_display": "17.4k",
-      "forks": 1934,
+      "forks": 1933,
       "forks_display": "1.9k",
       "language": "Python",
       "topics": [
@@ -225,6 +225,6 @@
   "search_query": "ai machine-learning llm pushed:>2025-11-20",
   "days": 3,
   "limit": 10,
-  "total_count": 150,
-  "fetched_at": "2025-11-23T13:11:34.117948+00:00"
+  "total_count": 152,
+  "fetched_at": "2025-11-23T14:17:38.556388+00:00"
 }
