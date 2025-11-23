@@ -64,7 +64,7 @@
             background: var(--background);
             color: var(--text-color);
             line-height: 1.6;
-            padding: 40px 20px;
+            padding: 48px 20px 40px;
         }
 
         .container {
@@ -74,49 +74,56 @@
 
         .header {
             text-align: center;
-            margin-bottom: 60px;
+            margin-bottom: 72px;
         }
 
         .header h1 {
             font-size: 2.5rem;
-            margin-bottom: 12px;
+            margin-bottom: 16px;
             font-weight: 700;
             background: linear-gradient(135deg, #f7931a 0%, #4A90E2 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
+            letter-spacing: -0.02em;
         }
 
         .header p {
             color: #9ca3af;
             font-size: 1.1rem;
             font-weight: 400;
+            letter-spacing: 0.01em;
         }
 
         .category-section {
-            margin-bottom: 50px;
+            margin-bottom: 64px;
+        }
+
+        .category-section:last-of-type {
+            margin-bottom: 0;
         }
 
         .category-header {
             font-size: 1.5rem;
             font-weight: 600;
-            margin-bottom: 24px;
-            padding-bottom: 12px;
+            margin-bottom: 28px;
+            padding-bottom: 14px;
             border-bottom: 2px solid rgba(255, 255, 255, 0.1);
             text-transform: capitalize;
             color: var(--primary-color);
+            letter-spacing: -0.01em;
         }
 
         .pages-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-            gap: 24px;
+            gap: 28px;
         }
 
         .page-card {
             background: var(--card-background);
             border-radius: 12px;
-            padding: 28px;
+            padding: 32px;
             text-decoration: none;
             color: var(--text-color);
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
@@ -151,7 +158,7 @@
             display: flex;
             align-items: center;
             gap: 16px;
-            margin-bottom: 14px;
+            margin-bottom: 16px;
         }
 
         .page-icon {
@@ -184,8 +191,8 @@
 
         .footer {
             text-align: center;
-            margin-top: 60px;
-            padding-top: 30px;
+            margin-top: 80px;
+            padding-top: 32px;
             border-top: 1px solid rgba(255, 255, 255, 0.1);
             color: #9ca3af;
             font-size: 0.875rem;
@@ -198,33 +205,38 @@
 
         @media (max-width: 768px) {
             body {
-                padding: 24px 16px;
+                padding: 32px 20px 24px;
             }
 
             .header {
-                margin-bottom: 40px;
+                margin-bottom: 48px;
             }
 
             .header h1 {
                 font-size: 2rem;
+                margin-bottom: 12px;
             }
 
             .header p {
                 font-size: 1rem;
             }
 
+            .category-section {
+                margin-bottom: 48px;
+            }
+
             .category-header {
                 font-size: 1.3rem;
-                margin-bottom: 20px;
+                margin-bottom: 24px;
             }
 
             .pages-grid {
                 grid-template-columns: 1fr;
-                gap: 20px;
+                gap: 24px;
             }
 
             .page-card {
-                padding: 24px;
+                padding: 28px;
             }
 
             .page-icon {
@@ -239,6 +251,11 @@
 
             .page-description {
                 font-size: 0.9rem;
+            }
+
+            .footer {
+                margin-top: 56px;
+                padding-top: 24px;
             }
         }
     </style>
