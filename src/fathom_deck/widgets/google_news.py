@@ -1,11 +1,12 @@
 """Google News widget using RSS feed with rich metadata extraction."""
+from ..core.output_manager import OutputManager
 
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from typing import Any, Dict, List
 
 from ..core.base_widget import BaseWidget
-from ..core.http_cache import get_http_client
+from ..core.url_fetch_manager import get_url_fetch_manager
 from ..core.url_metadata import get_url_metadata_extractor
 from ..core.utils import resolve_google_news_url
 
@@ -42,7 +43,7 @@ class GoogleNewsWidget(BaseWidget):
         locale = self.merged_params.get("locale", "en-US")
         region = self.merged_params.get("region", "US")
         extract_meta = self.merged_params.get("extract_metadata", True)
-        client = get_http_client()
+        client = get_url_fetch_manager()
 
         # Combine query and site filter if site is specified
         search_query = f"{query} site:{site}" if site else query
@@ -116,11 +117,11 @@ class GoogleNewsWidget(BaseWidget):
                     "description": None,
                 })
 
-            print(f"✅ Fetched {len(articles)} news articles for '{search_query}'")
+            OutputManager.log(f"✅ Fetched {len(articles)} news articles for '{search_query}'")
 
             # Resolve URLs and extract rich metadata
             if extract_meta and articles:
-                print(f"🔗 Resolving Google News redirect URLs...")
+                OutputManager.log(f"🔗 Resolving Google News redirect URLs...")
 
                 # Step 1: Resolve all Google News redirect URLs
                 for i, article in enumerate(articles):
@@ -129,12 +130,12 @@ class GoogleNewsWidget(BaseWidget):
 
                     if resolved_url != google_url:
                         article['article_url'] = resolved_url
-                        print(f"   {i+1}/{len(articles)}: Resolved")
+                        OutputManager.log(f"   {i+1}/{len(articles)}: Resolved")
                     else:
-                        print(f"   {i+1}/{len(articles)}: Failed to resolve")
+                        OutputManager.log(f"   {i+1}/{len(articles)}: Failed to resolve")
 
                 # Step 2: Extract metadata from resolved URLs
-                print(f"📸 Extracting metadata from article URLs...")
+                OutputManager.log(f"📸 Extracting metadata from article URLs...")
                 extractor = get_url_metadata_extractor()
 
                 for i, article in enumerate(articles):
@@ -151,8 +152,8 @@ class GoogleNewsWidget(BaseWidget):
                 # Count articles with rich metadata
                 resolved_count = sum(1 for a in articles if a['article_url'])
                 rich_count = sum(1 for a in articles if a['image'] or a['description'])
-                print(f"   ✅ {resolved_count}/{len(articles)} URLs resolved")
-                print(f"   ✅ {rich_count}/{len(articles)} articles with rich previews")
+                OutputManager.log(f"   ✅ {resolved_count}/{len(articles)} URLs resolved")
+                OutputManager.log(f"   ✅ {rich_count}/{len(articles)} articles with rich previews")
 
             data = {
                 "title": title,
@@ -167,7 +168,7 @@ class GoogleNewsWidget(BaseWidget):
             return data
 
         except Exception as e:
-            print(f"❌ Failed to fetch or parse Google News for '{search_query}': {e}")
+            OutputManager.log(f"❌ Failed to fetch or parse Google News for '{search_query}': {e}")
             raise
 
     def render(self, processed_data: Dict[str, Any]) -> str:

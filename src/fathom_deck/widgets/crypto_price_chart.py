@@ -1,10 +1,11 @@
 """Crypto price chart widget using Binance US candles API."""
+from ..core.output_manager import OutputManager
 
 from datetime import datetime, timezone
 from typing import Any, Dict, List
 
 from ..core.base_widget import BaseWidget
-from ..core.http_cache import get_http_client
+from ..core.url_fetch_manager import get_url_fetch_manager
 
 
 class CryptoPriceChartWidget(BaseWidget):
@@ -25,7 +26,7 @@ class CryptoPriceChartWidget(BaseWidget):
 
         symbol = self.merged_params["symbol"].upper()
         tabs_config = self.merged_params["tabs"]
-        client = get_http_client()
+        client = get_url_fetch_manager()
 
         # Fetch data for all tabs
         all_tabs_data = []
@@ -43,12 +44,12 @@ class CryptoPriceChartWidget(BaseWidget):
             "tabs": all_tabs_data,
             "fetched_at": datetime.now(timezone.utc).isoformat(),
         }
-        print(f"✅ Fetched {len(all_tabs_data)} tabs for {symbol}")
+        OutputManager.log(f"✅ Fetched {len(all_tabs_data)} tabs for {symbol}")
         return data
 
     def _fetch_single_chart(self, symbol: str, interval: str, limit: int) -> Dict[str, Any]:
         """Fetch data for a single chart from Binance US."""
-        client = get_http_client()
+        client = get_url_fetch_manager()
         try:
             # Fetch candlestick data from Binance US API
             url = "https://api.binance.us/api/v3/klines"
@@ -79,7 +80,7 @@ class CryptoPriceChartWidget(BaseWidget):
             }
 
         except Exception as e:
-            print(f"❌ Failed to fetch or parse candles for {symbol}: {e}")
+            OutputManager.log(f"❌ Failed to fetch or parse candles for {symbol}: {e}")
             raise
 
     def render(self, processed_data: Dict[str, Any]) -> str:

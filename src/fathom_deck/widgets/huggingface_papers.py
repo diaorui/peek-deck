@@ -1,10 +1,11 @@
 """HuggingFace daily papers widget using HuggingFace API."""
+from ..core.output_manager import OutputManager
 
 from datetime import datetime, timezone
 from typing import Any, Dict, List
 
 from ..core.base_widget import BaseWidget
-from ..core.http_cache import get_http_client
+from ..core.url_fetch_manager import get_url_fetch_manager
 
 
 class HuggingfacePapersWidget(BaseWidget):
@@ -24,7 +25,7 @@ class HuggingfacePapersWidget(BaseWidget):
 
         limit = self.merged_params.get("limit", 10)
         sort = self.merged_params.get("sort", "trending")
-        client = get_http_client()
+        client = get_url_fetch_manager()
 
         try:
             # Fetch daily papers from HuggingFace API
@@ -91,11 +92,11 @@ class HuggingfacePapersWidget(BaseWidget):
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
             }
 
-            print(f"✅ Fetched {len(papers)} HuggingFace daily papers")
+            OutputManager.log(f"✅ Fetched {len(papers)} HuggingFace daily papers")
             return data
 
         except Exception as e:
-            print(f"❌ Failed to fetch HuggingFace daily papers: {e}")
+            OutputManager.log(f"❌ Failed to fetch HuggingFace daily papers: {e}")
             raise
 
     def render(self, processed_data: Dict[str, Any]) -> str:

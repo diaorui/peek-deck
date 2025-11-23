@@ -1,4 +1,5 @@
 """HackerNews posts widget using Algolia Search API with rich metadata."""
+from ..core.output_manager import OutputManager
 
 from datetime import datetime, timezone, timedelta
 from typing import Any, Dict, List
@@ -6,7 +7,7 @@ from urllib.parse import urlparse
 import time
 
 from ..core.base_widget import BaseWidget
-from ..core.http_cache import get_http_client
+from ..core.url_fetch_manager import get_url_fetch_manager
 from ..core.url_metadata import get_url_metadata_extractor
 from ..core.utils import get_favicon_url
 
@@ -41,7 +42,7 @@ class HackernewsPostsWidget(BaseWidget):
         sort_by = self.merged_params.get("sort_by", "date")
         days = self.merged_params.get("days")
         extract_meta = self.merged_params.get("extract_metadata", True)
-        client = get_http_client()
+        client = get_url_fetch_manager()
 
         try:
             # Fetch posts from HackerNews Algolia API
@@ -98,11 +99,11 @@ class HackernewsPostsWidget(BaseWidget):
                     "site_name": None,
                 })
 
-            print(f"✅ Fetched {len(posts)} HN posts for query '{query}'")
+            OutputManager.log(f"✅ Fetched {len(posts)} HN posts for query '{query}'")
 
             # Extract rich metadata for external article links
             if extract_meta and posts:
-                print(f"📸 Extracting metadata for all {len(posts)} posts...")
+                OutputManager.log(f"📸 Extracting metadata for all {len(posts)} posts...")
 
                 extractor = get_url_metadata_extractor()
 
@@ -141,7 +142,7 @@ class HackernewsPostsWidget(BaseWidget):
 
                 # Count posts with rich metadata
                 rich_count = sum(1 for p in posts if p['image'] or p['description'])
-                print(f"   ✅ {rich_count}/{len(posts)} posts with rich previews")
+                OutputManager.log(f"   ✅ {rich_count}/{len(posts)} posts with rich previews")
 
             data = {
                 "query": query,
@@ -157,7 +158,7 @@ class HackernewsPostsWidget(BaseWidget):
             return data
 
         except Exception as e:
-            print(f"❌ Failed to fetch or parse HN posts for '{query}': {e}")
+            OutputManager.log(f"❌ Failed to fetch or parse HN posts for '{query}': {e}")
             raise
 
     def render(self, processed_data: Dict[str, Any]) -> str:

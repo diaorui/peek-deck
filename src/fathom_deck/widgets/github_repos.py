@@ -1,10 +1,11 @@
 """GitHub trending repositories widget using GitHub Search API."""
+from ..core.output_manager import OutputManager
 
 from datetime import datetime, timezone, timedelta
 from typing import Any, Dict, List
 
 from ..core.base_widget import BaseWidget
-from ..core.http_cache import get_http_client
+from ..core.url_fetch_manager import get_url_fetch_manager
 from ..core.url_metadata import get_url_metadata_extractor
 
 
@@ -31,7 +32,7 @@ class GithubReposWidget(BaseWidget):
         min_stars = self.merged_params.get("min_stars", 0)
         language = self.merged_params.get("language")
         limit = self.merged_params.get("limit", 10)
-        client = get_http_client()
+        client = get_url_fetch_manager()
 
         try:
             # Build search query
@@ -117,11 +118,11 @@ class GithubReposWidget(BaseWidget):
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
             }
 
-            print(f"✅ Fetched {len(repos)} GitHub repos for query '{query}'")
+            OutputManager.log(f"✅ Fetched {len(repos)} GitHub repos for query '{query}'")
             return data
 
         except Exception as e:
-            print(f"❌ Failed to fetch GitHub repos: {e}")
+            OutputManager.log(f"❌ Failed to fetch GitHub repos: {e}")
             raise
 
     def render(self, processed_data: Dict[str, Any]) -> str:

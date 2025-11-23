@@ -1,10 +1,11 @@
 """HuggingFace trending models widget using HuggingFace API."""
+from ..core.output_manager import OutputManager
 
 from datetime import datetime, timezone
 from typing import Any, Dict, List
 
 from ..core.base_widget import BaseWidget
-from ..core.http_cache import get_http_client
+from ..core.url_fetch_manager import get_url_fetch_manager
 
 
 class HuggingfaceModelsWidget(BaseWidget):
@@ -22,7 +23,7 @@ class HuggingfaceModelsWidget(BaseWidget):
         self.validate_params()
 
         limit = self.merged_params.get("limit", 10)
-        client = get_http_client()
+        client = get_url_fetch_manager()
 
         try:
             # Fetch trending models from HuggingFace API
@@ -84,11 +85,11 @@ class HuggingfaceModelsWidget(BaseWidget):
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
             }
 
-            print(f"✅ Fetched {len(models)} trending HuggingFace models")
+            OutputManager.log(f"✅ Fetched {len(models)} trending HuggingFace models")
             return data
 
         except Exception as e:
-            print(f"❌ Failed to fetch HuggingFace trending models: {e}")
+            OutputManager.log(f"❌ Failed to fetch HuggingFace trending models: {e}")
             raise
 
     def render(self, processed_data: Dict[str, Any]) -> str:

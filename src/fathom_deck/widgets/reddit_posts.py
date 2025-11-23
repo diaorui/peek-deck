@@ -1,4 +1,5 @@
 """Reddit posts widget using Reddit RSS feed."""
+from ..core.output_manager import OutputManager
 
 import html
 import re
@@ -8,7 +9,7 @@ from typing import Any, Dict, List
 from urllib.parse import urlparse
 
 from ..core.base_widget import BaseWidget
-from ..core.http_cache import get_http_client
+from ..core.url_fetch_manager import get_url_fetch_manager
 from ..core.url_metadata import get_url_metadata_extractor
 
 
@@ -31,7 +32,7 @@ class RedditPostsWidget(BaseWidget):
 
         subreddit = self.merged_params["subreddit"]
         limit = self.merged_params.get("limit", 10)
-        client = get_http_client()
+        client = get_url_fetch_manager()
 
         try:
             # Fetch RSS feed from Reddit (rising posts)
@@ -137,7 +138,7 @@ class RedditPostsWidget(BaseWidget):
                                     if metadata.description and (not description or len(description) < 50):
                                         description = metadata.description
                             except Exception as e:
-                                print(f"⚠️  Failed to fetch metadata for {external_url}: {e}")
+                                OutputManager.log(f"⚠️  Failed to fetch metadata for {external_url}: {e}")
 
                 posts.append({
                     "title": title_elem.text,
@@ -157,11 +158,11 @@ class RedditPostsWidget(BaseWidget):
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
             }
 
-            print(f"✅ Fetched {len(posts)} posts from r/{subreddit} (rising)")
+            OutputManager.log(f"✅ Fetched {len(posts)} posts from r/{subreddit} (rising)")
             return data
 
         except Exception as e:
-            print(f"❌ Failed to fetch or parse r/{subreddit} RSS: {e}")
+            OutputManager.log(f"❌ Failed to fetch or parse r/{subreddit} RSS: {e}")
             raise
 
     def render(self, processed_data: Dict[str, Any]) -> str:

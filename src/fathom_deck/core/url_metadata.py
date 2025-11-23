@@ -19,7 +19,8 @@ from typing import Dict, Any, Optional
 from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
 
-from .http_cache import get_http_client
+from .url_fetch_manager import get_url_fetch_manager
+from .output_manager import OutputManager
 
 
 class URLMetadata:
@@ -132,7 +133,7 @@ class PersistentURLMetadataCache:
 
         except Exception as e:
             # If cache read fails, just return None (will refetch)
-            print(f"⚠️  Failed to read cache for {url}: {e}")
+            OutputManager.log(f"⚠️  Failed to read cache for {url}: {e}")
             return None
 
     def set(self, url: str, metadata: URLMetadata):
@@ -156,7 +157,7 @@ class PersistentURLMetadataCache:
 
         except Exception as e:
             # If cache write fails, just log it (non-critical)
-            print(f"⚠️  Failed to write cache for {url}: {e}")
+            OutputManager.log(f"⚠️  Failed to write cache for {url}: {e}")
 
     def clear_expired(self):
         """Remove all expired cache entries."""
@@ -178,7 +179,7 @@ class PersistentURLMetadataCache:
                 expired_count += 1
 
         if expired_count > 0:
-            print(f"🗑️  Cleared {expired_count} expired URL metadata cache entries")
+            OutputManager.log(f"🗑️  Cleared {expired_count} expired URL metadata cache entries")
 
     def clear_all(self):
         """Remove all cache entries."""
@@ -188,7 +189,7 @@ class PersistentURLMetadataCache:
             count += 1
 
         if count > 0:
-            print(f"🗑️  Cleared {count} URL metadata cache entries")
+            OutputManager.log(f"🗑️  Cleared {count} URL metadata cache entries")
 
 
 class URLMetadataExtractor:
@@ -203,9 +204,9 @@ class URLMetadataExtractor:
         metadata = extractor.extract("https://example.com/article")
 
         if metadata and metadata.has_rich_data():
-            print(f"Title: {metadata.title}")
-            print(f"Image: {metadata.image}")
-            print(f"Description: {metadata.description}")
+            OutputManager.log(f"Title: {metadata.title}")
+            OutputManager.log(f"Image: {metadata.image}")
+            OutputManager.log(f"Description: {metadata.description}")
     """
 
     def __init__(self, persistent_cache: Optional[PersistentURLMetadataCache] = None):
@@ -214,7 +215,7 @@ class URLMetadataExtractor:
         Args:
             persistent_cache: Persistent cache instance (creates new one if not provided)
         """
-        self.http_client = get_http_client()
+        self.http_client = get_url_fetch_manager()
         self.persistent_cache = persistent_cache or PersistentURLMetadataCache()
 
     def extract(
@@ -247,7 +248,6 @@ class URLMetadataExtractor:
         if use_cache and not force_refetch:
             cached = self.persistent_cache.get(url)
             if cached is not None:
-                print(f"💾 Using cached metadata for {url[:60]}...")
                 return cached
 
         try:
@@ -276,17 +276,10 @@ class URLMetadataExtractor:
             if use_cache:
                 self.persistent_cache.set(url, metadata)
 
-            if metadata.has_rich_data():
-                print(f"✅ Extracted rich metadata from {url[:60]}...")
-            else:
-                print(f"✅ Extracted basic metadata from {url[:60]}... (no rich data)")
-
             return metadata
 
         except Exception as e:
-            # Log the error but don't crash
-            error_type = type(e).__name__
-            print(f"⚠️  Metadata extraction failed for {url[:60]}... ({error_type})")
+            # Silently handle errors - metadata extraction is non-critical
 
             # Return empty metadata object (graceful degradation)
             empty_metadata = URLMetadata(url)
@@ -475,9 +468,6 @@ class URLMetadataExtractor:
             results[url] = metadata
 
         # Count successful extractions with rich data
-        cached_count = sum(1 for m in results.values() if m and m.has_rich_data())
-        print(f"✅ Batch: {cached_count}/{len(urls)} URLs with rich metadata")
-
         return results
 
 
@@ -521,8 +511,8 @@ def extract_url_metadata(
 
         metadata = extract_url_metadata("https://example.com/article")
         if metadata.has_rich_data():
-            print(f"Title: {metadata.title}")
-            print(f"Image: {metadata.image}")
+            OutputManager.log(f"Title: {metadata.title}")
+            OutputManager.log(f"Image: {metadata.image}")
 
     Notes:
         - Almost always returns cached data (30-day TTL)

@@ -1,11 +1,12 @@
 """ProductHunt widget using RSS feed."""
+from ..core.output_manager import OutputManager
 
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from typing import Any, Dict, List
 
 from ..core.base_widget import BaseWidget
-from ..core.http_cache import get_http_client
+from ..core.url_fetch_manager import get_url_fetch_manager
 
 
 class ProducthuntWidget(BaseWidget):
@@ -28,7 +29,7 @@ class ProducthuntWidget(BaseWidget):
         category = self.merged_params.get("category")
         title = self.merged_params.get("title", "ProductHunt")
         limit = self.merged_params.get("limit", 10)
-        client = get_http_client()
+        client = get_url_fetch_manager()
 
         try:
             # Fetch RSS feed from ProductHunt
@@ -98,11 +99,11 @@ class ProducthuntWidget(BaseWidget):
             }
 
             category_str = f" (category: {category})" if category else ""
-            print(f"✅ Fetched {len(products)} ProductHunt products{category_str}")
+            OutputManager.log(f"✅ Fetched {len(products)} ProductHunt products{category_str}")
             return data
 
         except Exception as e:
-            print(f"❌ Failed to fetch or parse ProductHunt feed: {e}")
+            OutputManager.log(f"❌ Failed to fetch or parse ProductHunt feed: {e}")
             raise
 
     def render(self, processed_data: Dict[str, Any]) -> str:

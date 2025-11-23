@@ -1,10 +1,11 @@
 """Crypto market stats widget using CoinGecko API."""
+from ..core.output_manager import OutputManager
 
 from datetime import datetime, timezone
 from typing import Any, Dict
 
 from ..core.base_widget import BaseWidget
-from ..core.http_cache import get_http_client
+from ..core.url_fetch_manager import get_url_fetch_manager
 from ..core.utils import format_large_number
 
 
@@ -23,7 +24,7 @@ class CryptoMarketStatsWidget(BaseWidget):
         self.validate_params()
 
         coin_id = self.merged_params["coin_id"]
-        client = get_http_client()
+        client = get_url_fetch_manager()
 
         try:
             # Fetch coin data from CoinGecko API
@@ -67,11 +68,11 @@ class CryptoMarketStatsWidget(BaseWidget):
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
             }
 
-            print(f"✅ Fetched market stats for {coin_data['name']}")
+            OutputManager.log(f"✅ Fetched market stats for {coin_data['name']}")
             return data
 
         except Exception as e:
-            print(f"❌ Failed to fetch market stats for {coin_id}: {e}")
+            OutputManager.log(f"❌ Failed to fetch market stats for {coin_id}: {e}")
             raise
 
     def render(self, processed_data: Dict[str, Any]) -> str:

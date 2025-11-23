@@ -2,10 +2,70 @@
 
 import json
 from pathlib import Path
-from typing import Dict, Any
+from typing import Dict, Any, Tuple, List
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from .core.cache import Cache
 from .core.loader import discover_all_pages, load_page_config, create_widget_instance
+from .core.output_manager import OutputManager
+
+
+def fetch_widget(
+    widget_type: str,
+    widget_size: str,
+    widget_params: Dict[str, Any],
+    page_params: Dict[str, Any],
+    update_minutes: int,
+    cache_key: str,
+    data_raw_dir: Path,
+    cache: Cache,
+) -> Tuple[bool, List[str]]:
+    """Fetch data for a single widget, capturing output.
+
+    Args:
+        widget_type: Type of widget to fetch
+        widget_size: Widget size
+        widget_params: Widget-specific parameters
+        page_params: Page-level parameters
+        update_minutes: Update frequency in minutes
+        cache_key: Cache key for this widget
+        data_raw_dir: Directory to save raw data
+        cache: Cache instance
+
+    Returns:
+        Tuple of (success: bool, output_lines: List[str])
+    """
+    # Enable output capture for this thread
+    OutputManager.set_capture(True)
+
+    try:
+        # Create widget instance
+        widget = create_widget_instance(
+            widget_type=widget_type,
+            size=widget_size,
+            params=widget_params,
+            page_params=page_params,
+            update_minutes=update_minutes
+        )
+
+        # Fetch data
+        OutputManager.log(f"📡 Fetching {widget_type}...")
+        raw_data = widget.fetch_data()
+
+        # Save raw data
+        raw_file = data_raw_dir / f"{cache_key}.json"
+        with open(raw_file, 'w') as f:
+            json.dump(raw_data, f, indent=2)
+
+        # Mark widget as updated in cache
+        cache.mark_updated(cache_key)
+
+        OutputManager.log(f"✅ Saved to {raw_file.name}")
+        return (True, OutputManager.get_output())
+
+    except Exception as e:
+        OutputManager.log(f"❌ Failed to fetch {widget_type}: {e}")
+        return (False, OutputManager.get_output())
 
 
 def fetch_all():
@@ -37,6 +97,9 @@ def fetch_all():
 
     print(f"📄 Found {len(page_files)} page(s)\n")
 
+    # Collect all widgets to fetch
+    widgets_to_fetch = []
+
     for page_file in page_files:
         # Load page config
         try:
@@ -49,9 +112,9 @@ def fetch_all():
             print(f"⏭️  Skipping disabled page: {page_config.id}")
             continue
 
-        print(f"\n📄 Page: {page_config.id} ({page_config.name}) [{page_config.category}]")
+        print(f"📄 Page: {page_config.id} ({page_config.name}) [{page_config.category}]\n")
 
-        # Process each widget
+        # Collect widgets for this page
         for widget_config in page_config.widgets:
             total_widgets += 1
             widget_type = widget_config.type
@@ -69,39 +132,52 @@ def fetch_all():
                 skipped_count += 1
                 continue
 
-            # Create widget instance
-            try:
-                widget = create_widget_instance(
-                    widget_type=widget_type,
-                    size=str(widget_config.size),
-                    params=widget_config.params,
-                    page_params=page_config.params,
-                    update_minutes=widget_config.update_minutes
-                )
-            except Exception as e:
-                print(f"    ❌ Failed to create widget {widget_type}: {e}")
-                failed_count += 1
-                continue
+            # Add to fetch list
+            widgets_to_fetch.append({
+                'widget_type': widget_type,
+                'widget_size': str(widget_config.size),
+                'widget_params': widget_config.params,
+                'page_params': page_config.params,
+                'update_minutes': widget_config.update_minutes,
+                'cache_key': cache_key,
+            })
 
-            # Fetch data
-            try:
-                print(f"    📡 Fetching {widget_type}...")
-                raw_data = widget.fetch_data()
+    # Fetch widgets in parallel
+    if widgets_to_fetch:
+        print(f"\n🚀 Fetching {len(widgets_to_fetch)} widget(s) in parallel (max 10 concurrent)...\n")
 
-                # Save raw data
-                raw_file = data_raw_dir / f"{cache_key}.json"
-                with open(raw_file, 'w') as f:
-                    json.dump(raw_data, f, indent=2)
+        with ThreadPoolExecutor(max_workers=10) as executor:
+            # Submit all tasks
+            futures = {
+                executor.submit(
+                    fetch_widget,
+                    widget_data['widget_type'],
+                    widget_data['widget_size'],
+                    widget_data['widget_params'],
+                    widget_data['page_params'],
+                    widget_data['update_minutes'],
+                    widget_data['cache_key'],
+                    data_raw_dir,
+                    cache,
+                ): widget_data
+                for widget_data in widgets_to_fetch
+            }
 
-                # Mark widget as updated in cache
-                cache.mark_updated(cache_key)
+            # Process results as they complete
+            for future in as_completed(futures):
+                success, output_lines = future.result()
 
-                fetched_count += 1
-                print(f"    ✅ Saved to {raw_file.name}")
+                # Print output atomically (no interleaving)
+                for line in output_lines:
+                    print(f"    {line}")
 
-            except Exception as e:
-                print(f"    ❌ Failed to fetch {widget_type}: {e}")
-                failed_count += 1
+                # Update counters
+                if success:
+                    fetched_count += 1
+                else:
+                    failed_count += 1
+
+                print()  # Empty line between widgets
 
     # Save cache timestamps
     cache.save()

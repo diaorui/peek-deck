@@ -1,10 +1,11 @@
 """Crypto price widget using Gemini API."""
+from ..core.output_manager import OutputManager
 
 from datetime import datetime, timezone
 from typing import Any, Dict
 
 from ..core.base_widget import BaseWidget
-from ..core.http_cache import get_http_client
+from ..core.url_fetch_manager import get_url_fetch_manager
 from ..core.utils import format_large_number
 
 
@@ -23,7 +24,7 @@ class CryptoPriceWidget(BaseWidget):
         self.validate_params()
 
         symbol = self.merged_params["symbol"].lower()
-        client = get_http_client()
+        client = get_url_fetch_manager()
 
         try:
             # Fetch ticker data from Gemini API
@@ -43,11 +44,11 @@ class CryptoPriceWidget(BaseWidget):
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
             }
 
-            print(f"✅ Fetched {symbol.upper()}: ${data['price']:,.2f}")
+            OutputManager.log(f"✅ Fetched {symbol.upper()}: ${data['price']:,.2f}")
             return data
 
         except Exception as e:
-            print(f"❌ Failed to fetch {symbol} from Gemini: {e}")
+            OutputManager.log(f"❌ Failed to fetch {symbol} from Gemini: {e}")
             raise
 
     def render(self, processed_data: Dict[str, Any]) -> str:
