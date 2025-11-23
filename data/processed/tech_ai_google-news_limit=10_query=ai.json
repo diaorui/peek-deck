@@ -5,6 +5,26 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "AI rivals like OpenAI, Nvidia, and Oracle are collaborating to build \u2018Stargate\u2019\u2014but a Yale expert says it violates 135 years of antitrust law",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdUFsNXBKczBrNDlfM29xcUw4QXJZOFFmaTNOOUxoR2tZa05xRFQ2VlR5c25mWVg3VU9LRmZ4VURHSUx5NFZCZVQtQWM4Z2FNLU5uWE1uYWV6VkhlYWFzY3BLU2UxZzlMV09ZR1RMMU5vTHFPRzlxVXYzX1Ixd0lZMzk2WFZYZU1EWV9YR0JScVlFTVFtaTAwdDNnbE84aXZ3SFdfbDdQdEluSzBieEVqREE1WFZMN1JNQ1d1UlFsWjZ0YUd6X0xiYmM3VEZwUFVrSXUzT29yNDVCSHl0UTBSY2hybG1xejd1S3ZFdnVJV20zSXZQVXlOZXhJeF9BZw?oc=5",
+      "pub_date": 1763888400.0,
+      "article_url": "https://fortune.com/2025/11/23/ai-rivals-like-openai-nvidia-and-oracle-are-collaborating-to-build-stargate-but-a-yale-expert-says-it-violates-135-years-of-antitrust-law/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236546815.jpg?resize=1200,600",
+      "description": "Six AI leaders are uniting to form a single company. How is this possibly legal, asks Madhavi Singh of Yale\u2019s Thurman Arnold Project, an initiative dedicated to antitrust issues."
+    },
+    {
+      "headline": "Nvidia Didn\u2019t Save the Market. What\u2019s Next for the AI Trade?",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWExYzVxSklVSHNqbEVwTjZSSlhOVmloazlmUmdkazFWMUpWTXZvVEFabHBsU25tT2VocTdQV05aaWlvYVVrYUxFd29vRTgwN3BXMUlMS1d2eE45NGU4UzNSdVhiRms0M0ZiMC1sRmFNSUVCX3ZsU1JpSDFjQjFnVTlZY0JrUkZxWm1oLXFhWDhCZlJTdEU0eXlfTldtblFldV9DVWRxdFJrZE1RLWc?oc=5",
+      "pub_date": 1763906407.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-23/nvidia-didn-t-save-the-market-what-s-next-for-the-ai-trade",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im5yd20GlsoY/v1/1200x800.jpg",
+      "description": "Wall Street thought blowout earnings from Nvidia Corp. would calm investors\u2019 nerves about a bubble forming in artificial intelligence stocks. They didn\u2019t."
+    },
+    {
       "headline": "Here's why concerns about an AI bubble are bigger than ever",
       "source": "NPR",
       "source_url": "https://www.npr.org",
@@ -15,64 +35,24 @@
       "description": "Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there's a bubble that will soon pop."
     },
     {
-      "headline": "The A.I. Boom Has Found Another Gear. Why Can\u2019t People Shake Their Worries?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNWE0MUtaUVMzaG1md1oxX1dkcmNjSTdaQjZxYWxaMHhPSXRhM0RKeXlZSjh1WUNyTnFXdURRaDFOcFdrS2pEbE9FbDQ4ZE96QVVZd2lLRktTUFJnNUFOb3E5aTVqMDlrYnc0VXNjYml0M2ktckZmSjVhbw?oc=5",
-      "pub_date": 1763674602.0,
-      "article_url": "https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html",
+      "headline": "The surprising issue driving a wedge between Trump and his MAGA base",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlRWWm04U29yNXRCTVVuU2tfVXY4dzJsX2h6TV9NRTgtSE1WLUlnbEF2UnJITG9pa0NIMUhtUHFhalZZUTlGc0ltTzZOSWhTQ2ZDX0JRSlpTSzZ0UFB6Y3dSWXFWVGpTdHRwLXJYOV9La2QwdHJqWV9KRTVIOFlISHJYMzQ3VnF3?oc=5",
+      "pub_date": 1763914016.0,
+      "article_url": "https://www.washingtonpost.com/technology/2025/11/23/trump-maga-division-tech-ai/",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI Investors Want More Making It and Less Faking It",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNbHJHUm9pcUE5VjNNaXp4b0g5WktNZDNhb2hSdHhWVXRaM1Y3VC1oMnhNY29vQjdzSG11V19laldOaENtWTZVaU4ya3JocFZCbWwzVjZOVU1VR2hMUDdIVk1kbl9yclJ5cmtVU2NQYWRUVlQ5NVNycU9lcFJ6WHhoM25aUmdXOGY3b3FVNmpKRWpPRGJSOUdUNlc5dWNRRXBqbW9jWm5XNW93em95R055MkhsZEpGRUlXTG9KX3UyeWJYTmhlenpmUVBJMGY3ZWtOYnNCZmpKcldhdVE0YWk5Ni1qeEhzLTBNblF1WFQ4T1FJam1YNE9wNU9pemVsUDBYRExRMThkSl9RZU1qclJRc3NDMGVybVFoblpXM0FXazlRVFpqUXk5SjIwUjBqNkdmQU5rRG1KRkNIY2NweVF4M29Db0VEeHdsTTBmNGwyWEVVUUs3V3QyYm5kd1lIZ2tWaWxYc2p1VDJMYkZ6aGVpMHhieTFXZTNEMVM1bVduVXBINV9XSl92bGp2bmdJRk56REVxaWQwVnBJNTA3U0hwRQ?oc=5",
-      "pub_date": 1763866800.0,
-      "article_url": "https://www.wsj.com/finance/stocks/ai-investors-want-more-making-it-and-less-faking-it-321d8202?gaa_at=eafs&gaa_n=AWEtsqcGjN2Lf-ofE5KjIVdB77rWcQmmouSnswi2CvabrjC3Wz7wKEFxgHhD&gaa_ts=69232cfe&gaa_sig=dv5Fw7AxKhwf4uHTuE_wKxFmaCN7qH05jJkHYJv-4XJcoQjcBy7vtq5u28ba4YHLv23O5QPqr56ds5UFjMN2rA%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Meet the AI workers who tell their friends and family to stay away from AI | Artificial intelligence (AI)",
+      "headline": "Minister indicates sympathy for artists in debate over AI and copyright",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZlZFQmRtc0RLZlBDaG1uR2p3Sk5CUVRlWVZJR1lXaW5iLUNqZkNrN0p6dUVvdjNnbU5vSjBRLTBHWi1Yd2JzYmZUSmJBdzYwRUJuRHNaQXFnTGRscWRYSkR4ZEx3QmVMbmZiS3ZTZ05VcGF5VjhtTnJLNjZPUlF0VnNlNXUtQzh4LTY4?oc=5",
-      "pub_date": 1763820000.0,
-      "article_url": "https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away",
-      "image": "https://i.guim.co.uk/img/media/2103be8be876262394e303cf374938ad30d7fcdc/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=508e507d9631c2cd6d0b1ca7040762e0",
-      "description": "When the people making AI seem trustworthy are the ones who trust it the least, it shows that incentives for speed are overtaking safety, experts say"
-    },
-    {
-      "headline": "Better AI Stock to Buy Right Now: Nvidia vs. Oracle",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OZFFtR19abVNtdjN2MVVPcllQSU9JZlNpY0VLN1V6NWVtNjFMZHVpRXFiNklUV3ZXMHZSandIYU1CX0hUZFppQ1VEUTdXWGJzMDFpbEQxRFVRRGc3TkFlQjgzdWhuTmtub2NtT252ck1kUVROZXUwSw?oc=5",
-      "pub_date": 1763908860.0,
-      "article_url": "https://finance.yahoo.com/news/better-ai-stock-buy-now-144100479.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/qr3aVKkvXjqi7UffNpvSNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/motleyfool.com/b028dbc3f2232927e259036c9960b8fb",
-      "description": "Nvidia and Oracle both offer AI growth potential, but their fundamentals make one a clearer choice."
-    },
-    {
-      "headline": "5 Ways AI Empowers Hybrid Teamship",
-      "source": "Inc.com",
-      "source_url": "https://www.inc.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU0g5VzgwTmZzQjZ4Smh5OHFETjh5V0lPS1YzRThQYVlwVGdoNDNoeDJ3cVpMV2ZsZVdjS1lLY25xTHRyNzQ3aFhncUFWc0tnRV9NengyTnhVZDJtZmthWWNZTGhWTFk5YUVZM29OaXh3aWFEZERtcTZkaUstWGhoRmtjM2o?oc=5",
-      "pub_date": 1763910411.0,
-      "article_url": "https://www.inc.com/keith-ferrazzi/5-ways-ai-empowers-hybrid-teamship/91268103",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI Customer Experience Is Booming, But It\u2019s Failing Consumers",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYldFRmJVM3lQU0QycGlTa0NiUEZ2UG1INUJWRHdTeGh1bnVFQjdUdFU1SkR3a2JDNVdxNVhHOWhxOUJvRENLMFpTamtTM294SkdpZHlRSFJKTi1LUFJTTVBMM0hQVkdsMHRDNDUtZE9mbU9ieVRNbGRVS0c3VUtUclZ4NVh2bmotNWMzcXdwMnZ3YWd4aUphQTU2UkRMRTBvOUFtSHliX1JpUWo2aUYxWg?oc=5",
-      "pub_date": 1763910000.0,
-      "article_url": "https://www.forbes.com/sites/dangingiss/2025/11/23/ai-customer-experience-is-booming-but-its-failing-consumers/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/692200fc5ed223c06971c843/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "A new global survey reveals that AI customer experience is lagging behind other AI uses, leaving consumers frustrated even as overall customer experience improves."
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM2RYVXRTVFFtREZKNkFqOGxBYXpFOGV0bTRlMjdkYTNJNG1UR3pGaXBrVXREbmxSTEp1NVlJQlZUYUhRWlY4WDB5RVhMakZaWXBBNXo4RmF2a3VGTDUtdTZQRGI0R2o1a0owYmd6RW80ei1YQ0NTeUx4cGhyY0tGeUNqSnVnd1VSV0tkcWN1d0dQTEY1eFpCa3F4S0oxcGVSSHJiM0Q0a0FFX2tLY1luVVFsbEFub2RSUHZMYVBuRi13dEZLZVBnTlE5MV8?oc=5",
+      "pub_date": 1763913660.0,
+      "article_url": "https://www.theguardian.com/business/2025/nov/23/minister-indicates-sympathy-for-artists-in-debate-over-ai-and-copyright-liz-kendall",
+      "image": "https://i.guim.co.uk/img/media/339256823e054d7785c9688b4b8fab12c18dea26/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2756f003e842715dd1849e0acc135078",
+      "description": "People rightly want to get get paid for their work, says Liz Kendall, in apparent change of tack to predecessor"
     },
     {
       "headline": "As AI marches into art, humanity is a selling point",
@@ -85,26 +65,46 @@
       "description": null
     },
     {
-      "headline": "The surprising issue driving a wedge between Trump and his MAGA base",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlRWWm04U29yNXRCTVVuU2tfVXY4dzJsX2h6TV9NRTgtSE1WLUlnbEF2UnJITG9pa0NIMUhtUHFhalZZUTlGc0ltTzZOSWhTQ2ZDX0JRSlpTSzZ0UFB6Y3dSWXFWVGpTdHRwLXJYOV9La2QwdHJqWV9KRTVIOFlISHJYMzQ3VnF3?oc=5",
-      "pub_date": 1763908616.0,
-      "article_url": "https://www.washingtonpost.com/technology/2025/11/23/trump-maga-division-tech-ai/",
+      "headline": "Opinion | How to Use. A.I to Talk to Whales",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVcUNxSjdvZGVrekpKU0dtaHhpRFV6VkthTDlrdjkwNEh2VHUtdU5zcXluM2JIbEhvelNPaGltZTdlSE05SUtHckwweS1KRXBRbFpLam1UODFsQWYxbWg4SGFnNHhvcFBDQ2ZIQUdoLUV0T0U?oc=5",
+      "pub_date": 1763895606.0,
+      "article_url": "https://www.nytimes.com/2025/11/23/opinion/whale-language-ai.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "The A.I. Boom Is Driving the Economy. What Happens if It Falters?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53TjY5S1gtRXRiN1MzZGU4ckFNcW16N1MtSHlkQzdIbTFHYU1XdE0tTGJFR2tBaFlCdnNTSkFreFUxNUowRW1VV0wyWDVHLVZhSi0wN29Td0pEMTNNVzZJbTJoY0hoYzhUUHpZWlh6QUx3cHVMNmVN?oc=5",
-      "pub_date": 1763805702.0,
-      "article_url": "https://www.nytimes.com/2025/11/22/business/the-ai-boom-economy.html",
-      "image": null,
-      "description": null
+      "headline": "Microsoft faces uphill climb to turn enterprise dominance into widespread AI chatbot adoption",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjY1RTJDVTcxaVpKY1hwOVNvLUgtV1VCQ3gyMFNMNnFUWk1TalB1UTBGcm5Nc21pUUdpVW9BYmYxcmNlV1JYa2sxa2F1b01HUnQ4UllycG9kdm5SbkY4OWhtTkV6LU5KMHN5RDFBQ1Z6LWRJY1ROcU9EMFB6b2NPY2ZjNlZCZEpqalZIZDNhTlFPcjluZVRTMFZpOGNfR1haSnfSAacBQVVfeXFMTjczUmZFNmVxS2dIbkhmV2ozMGw0X1VPb1A1YXREb2hkazI4ZDRzbG1wd3BZeGdfZnNRTGYwVWZwanI3M2M0Rm5Ya0NLRmJnOUtTRW5ScGNvQ0JpMi1tMTUwY0VIMzhkeHdkRm13ak1EZ2dBTUlBVEdEX2pMVEZlYldrSVdhczZiRUhPTUpkb1ZVcmRNRmthcDdXYWgtTDIxLVdhTHBubjQ?oc=5",
+      "pub_date": 1763902801.0,
+      "article_url": "https://www.cnbc.com/2025/11/23/microsoft-faces-uphill-climb-to-win-in-ai-chatbots-with-copilot.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108166076-1751325646064-gettyimages-2150286124-AFP_34QG9T9.jpeg?v=1763774719&w=1920&h=1080",
+      "description": "At Microsoft's annual Ignite conference this week, IT buyers explained why Microsoft isn't seeing runaway success with its Copilot AI assistant."
+    },
+    {
+      "headline": "How patients are using AI to fight back against denied insurance claims",
+      "source": "PBS",
+      "source_url": "https://www.pbs.org",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEVtUDdjSVNVSkx3dG9MSlNfY1htdXlUQUxPOWE5c2hQUTc2QjVNZ1dEdFhJOUMxa1ZFVUVpLVZqZDhrbXhlSGFPY3Y3RDRGcjF6YWJTQ0hiRG43U0JrX01wQi1sRko1SHZKX0tsMEtQdlFrYmRhay1pNHhZaHZTYXBIU2NISDNzWkJrVldVb0NpdFIzOUN5VGhqYmp6RFFOZVVoWE1RSnM?oc=5",
+      "pub_date": 1763850929.0,
+      "article_url": "https://www.pbs.org/newshour/show/how-patients-are-using-ai-to-fight-back-against-denied-insurance-claims",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/aiandinsurance-1024x683.jpg",
+      "description": "As health insurers increasingly rely on artificial intelligence to process claims, denials have been on the rise. In 2023, about 73 million Americans on Affordable Care Act plans had their claims for in-network services denied, and less than 1% of them tried to appeal. Now, AI is being used to help patients fight back. Ali Rogin speaks with Indiana University law professor Jennifer Oliva for more."
+    },
+    {
+      "headline": "Insurers retreat from AI cover as risk of multibillion-dollar claims mounts",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyS2s1T09kQ2x3Qnk2LUxxdWZkMndmY3FXeXBzUEYwaE13VVpPNmE4cGUtbE02VktocjhobjA5dG1kMjJFRHIxN1NheExYU014N01DWG9LSm1qSGlLeW5abU14bkdqanMtTUJwNmdqM08?oc=5",
+      "pub_date": 1763874033.0,
+      "article_url": "https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9bc84743-630a-483b-ac2f-1c210c3e7c1d.jpg?source=next-barrier-page",
+      "description": "AIG, Great American and WR Berkley seek permission to limit liability from AI agents and chatbots"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T15:34:44.335721+00:00"
+  "fetched_at": "2025-11-23T16:28:43.401144+00:00"
 }

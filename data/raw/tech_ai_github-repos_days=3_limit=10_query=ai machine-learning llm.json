@@ -8,9 +8,9 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
-      "stars": 79368,
+      "stars": 79387,
       "stars_display": "79.4k",
-      "forks": 11792,
+      "forks": 11795,
       "forks_display": "11.8k",
       "language": "Jupyter Notebook",
       "topics": [
@@ -20,7 +20,7 @@
         "chatgpt",
         "deep-learning"
       ],
-      "updated_at": "2025-11-23T04:42:20Z"
+      "updated_at": "2025-11-23T16:26:41Z"
     },
     {
       "full_name": "ray-project/ray",
@@ -30,7 +30,7 @@
       "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
       "url": "https://github.com/ray-project/ray",
       "preview_image": "https://opengraph.githubassets.com/f7ac9ebd1d44a7aeb1d525064757ac8bf697e7fd66b4692c527e371c6f50cf53/ray-project/ray",
-      "stars": 39966,
+      "stars": 39969,
       "stars_display": "40.0k",
       "forks": 6933,
       "forks_display": "6.9k",
@@ -52,7 +52,7 @@
       "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
       "url": "https://github.com/deepset-ai/haystack",
       "preview_image": "https://repository-images.githubusercontent.com/221654678/1b75a35c-3d70-4dbe-bd6f-56fcc6c809e6",
-      "stars": 23448,
+      "stars": 23449,
       "stars_display": "23.4k",
       "forks": 2488,
       "forks_display": "2.5k",
@@ -74,7 +74,7 @@
       "description": "\ud83e\udd17 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
       "url": "https://github.com/huggingface/datasets",
       "preview_image": "https://repository-images.githubusercontent.com/250213286/d6f09c00-7066-11eb-88ac-0b319e59658a",
-      "stars": 20891,
+      "stars": 20893,
       "stars_display": "20.9k",
       "forks": 3020,
       "forks_display": "3.0k",
@@ -118,7 +118,7 @@
       "description": "Machine Learning Engineering Open Book",
       "url": "https://github.com/stas00/ml-engineering",
       "preview_image": "https://opengraph.githubassets.com/5631700a09e23a0a02aa3994579b54e6616d1b03980fa153167b2ea67b416000/stas00/ml-engineering",
-      "stars": 15822,
+      "stars": 15823,
       "stars_display": "15.8k",
       "forks": 973,
       "forks_display": "973",
@@ -140,7 +140,7 @@
       "description": "\ud83d\udca1 All-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows",
       "url": "https://github.com/neuml/txtai",
       "preview_image": "https://repository-images.githubusercontent.com/286301447/6b79e721-de1e-4fd4-b264-0437e1cad8d8",
-      "stars": 11843,
+      "stars": 11844,
       "stars_display": "11.8k",
       "forks": 759,
       "forks_display": "759",
@@ -162,7 +162,7 @@
       "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
       "url": "https://github.com/tensorzero/tensorzero",
       "preview_image": "https://repository-images.githubusercontent.com/829640443/26b7c5c4-c12c-4e89-beaf-a4233f1dac87",
-      "stars": 10586,
+      "stars": 10587,
       "stars_display": "10.6k",
       "forks": 731,
       "forks_display": "731",
@@ -174,7 +174,7 @@
         "artificial-intelligence",
         "deep-learning"
       ],
-      "updated_at": "2025-11-23T02:12:45Z"
+      "updated_at": "2025-11-23T16:19:43Z"
     },
     {
       "full_name": "Netflix/metaflow",
@@ -206,7 +206,7 @@
       "description": "Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai",
       "url": "https://github.com/activeloopai/deeplake",
       "preview_image": "https://opengraph.githubassets.com/ffcd8fbb5e8bc7c145e754f1185f1fc1362379fc5b4150f3e09cdaf62d55143d/activeloopai/deeplake",
-      "stars": 8905,
+      "stars": 8906,
       "stars_display": "8.9k",
       "forks": 692,
       "forks_display": "692",
@@ -226,5 +226,5 @@
   "days": 3,
   "limit": 10,
   "total_count": 153,
-  "fetched_at": "2025-11-23T15:20:39.424200+00:00"
+  "fetched_at": "2025-11-23T16:28:29.063081+00:00"
 }

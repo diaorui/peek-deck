@@ -35,17 +35,6 @@
       "description": "economist and author David McWilliams told Fortune that AI hardware investments are \"digital lettuce\" that are going to go \"off.\""
     },
     {
-      "title": "Made with kling and grok - credit: ai am a jedi on YouTube",
-      "author": "ksvetlyo",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4n56f/made_with_kling_and_grok_credit_ai_am_a_jedi_on/",
-      "published": 1763905684.0,
-      "thumbnail": "https://external-preview.redd.it/dzRxZmEzZjRoMDNnMT7Tzy9t6c7XfA48A87ZMzxwhU7uj4ZeOCois4x4q6ZZ.png?width=640&crop=smart&auto=webp&s=dc9c85ea4e6f3b37e4b69e85eacee6db001193bb",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Elon Musk vs Star Wars Droids"
-    },
-    {
       "title": "Anthropic Study Finds AI Model \u2018Turned Evil\u2019 After Hacking Its Own Training",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1p4oxil/anthropic_study_finds_ai_model_turned_evil_after/",
@@ -55,6 +44,17 @@
       "site_name": "TIME",
       "favicon": "https://time.com/favicon/apple-touch-icon.png",
       "description": "In a new paper, Anthropic reveals that a model trained like Claude began acting \u201cevil\u201d after learning to hack its own tests."
+    },
+    {
+      "title": "Made with kling and grok - credit: ai am a jedi on YouTube",
+      "author": "ksvetlyo",
+      "url": "https://www.reddit.com/r/artificial/comments/1p4n56f/made_with_kling_and_grok_credit_ai_am_a_jedi_on/",
+      "published": 1763905684.0,
+      "thumbnail": "https://external-preview.redd.it/dzRxZmEzZjRoMDNnMT7Tzy9t6c7XfA48A87ZMzxwhU7uj4ZeOCois4x4q6ZZ.png?width=640&crop=smart&auto=webp&s=dc9c85ea4e6f3b37e4b69e85eacee6db001193bb",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Elon Musk vs Star Wars Droids"
     },
     {
       "title": "Insurers retreat from AI cover as risk of multibillion-dollar claims mounts",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-23T15:34:20.400820+00:00"
+  "fetched_at": "2025-11-23T16:28:29.130003+00:00"
 }

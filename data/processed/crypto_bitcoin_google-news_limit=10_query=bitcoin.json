@@ -5,24 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Plunge Hits Market Makers in a Fragile Trading Landscape",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGVjT0JSTXBhMEFvTUlFd2VNWUxPMXhTeHpSQU9OOERucGs1Ykd0dnZBVWRma3BwZXpMZl9Hc2FHWWVYUVk4U2hEblhMTWpVUXVxTjhtTnRjbU9rX3FmRWE0ejE0bFhiby11N2lYS0pjRHJmQlR4R3Fycm5MWC1xSzA3SzRNSno3R1E0SEdPa1o4TDh4OHVCRnpmcUlQZXJ4eG9ycFJ4ZzVidTNzVmJtNFZkSy1ZZw?oc=5",
-      "pub_date": 1763763588.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-21/bitcoin-plunge-hits-market-makers-in-a-fragile-trading-landscape",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isJEv5UcQOeI/v1/1200x800.jpg",
-      "description": "Bitcoin is crashing into dangerous territory \u2014 and options-fueled selling is adding to the volatility."
-    },
-    {
-      "headline": "Will Bitcoin Hit $250,000 by 2026? We Asked ChatGPT",
+      "headline": "Analyst warns Bitcoin could drop to $10K, as price crashes to $86K",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlVFZhOFdiOXlEajdiLTFKY0ZuMXpxUktkY05xNTN1WDFueUE3UlVvTnhoUnVwVHFIMWhBY1lyWURZMVVFOTRrTmJiNWZmTUx2TnJwSXJFNVgyWHRqMkQ4TlBkWVMzcFRuVmNVVGF2aWEwaTJpOVlRYWZn?oc=5",
-      "pub_date": 1763899335.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-hit-250-000-2026-120215854.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/SOTIffjRXMo2r1Dkdj.ZEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/910a345e33f11d761130412829966ac2",
-      "description": "Predictions of a $250,000 Bitcoin by 2026 have resurfaced. Critics argue the forecast is unrealistic. CCN asked ChatGPT and Grok for their outlooks. Predictions that ..."
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTVZrakZ4eFUteXF4ekNEX2JqMnUzMUNIUFJxQmRhM0ZPa0ZQczQ0b3BQbngwNFZhS1FMTlNGVWZiNFZGVHVEWlBsd1dsc0dKQmVTbzFKQUI1WjZtZmJvb1dVUmk3cTBkMDVCZVk0V3JxY294NjFvZjhBUHkzREgwU3Rsd2Y?oc=5",
+      "pub_date": 1763669507.0,
+      "article_url": "https://finance.yahoo.com/news/analyst-warns-bitcoin-could-drop-201147164.html",
+      "image": "https://media.zenfs.com/en/thestreet_881/7f2f2f6f1b5e3914e4795503f733a004",
+      "description": "Bitcoin extended its November slump on Nov. 20, briefly dipping below $88,000. According to CoinGecko data, Bitcoin traded around $87,319 intraday, down about 4% over the past 24 hours and nearly 13% on the week, after falling from highs above $103,000 just days ago. 'Big Short\u2019 Michael Burry ..."
     },
     {
       "headline": "More Ready Than Bitcoin? How Zcash Developers Are Preparing for the Quantum Threat",
@@ -33,6 +23,36 @@
       "article_url": "https://decrypt.co/349642/more-ready-bitcoin-how-zcash-developers-preparing-quantum-threat",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/zcash-gID_7.jpg",
       "description": "Quantum computers could threaten much more than just Bitcoin, but developers behind the surging Zcash say they aren't panicking. Here's why."
+    },
+    {
+      "headline": "More Ready Than Bitcoin? How Zcash Developers Are Preparing for the Quantum Threat",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSEJyMWwyWVZaSS1xNkl1VGlRRGg1OTdzS3N5aENNMHNwYlBmMXpMd1hCZl9jSXNDMkpvTGNVSVdDWGxvcFRJYmZUZ3d6QkRxRWRmZnd2a3ZBSGJhbG9jNVlZZUcwbHBUeHpfNU9mVEFBaWZ2Y2VvbTFRM3J5akprd2Z4MU5iaTNz?oc=5",
+      "pub_date": 1763910062.0,
+      "article_url": "https://finance.yahoo.com/news/more-ready-bitcoin-zcash-developers-150102210.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/RShHfR1rSDl7lJup908vbw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/decrypt_157/9dadbd8ea9453950889663ac618303cc",
+      "description": "Quantum computers could threaten much more than just Bitcoin, but developers behind the surging Zcash say they aren't panicking. Here's why."
+    },
+    {
+      "headline": "Will Bitcoin Go To Zero? Inside The Market Reshaping Crypto, AI, Gold",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcHVBRHVlX2c0OTI0ZGdKUGhkaHZZOXRGNFRTZXlXTFFUQ05adWlpV2szSW51MF9vbkJ6X1BlN2xSWmdhSjBqTzNVZzhlZjZJU3o1U21HOU9DWVlybmdKLXlLQU9jaVQ5NGJBaURrTW9sTmQwOHdlVjlwelZrSkdDTXlxYU84VGFkYW16QUxBRVRmUXQydnYwWWpMNTVYYVNUaERzMVBDZXFpTGJfb1VHa1hRZFZVcWd2blBXLTVUOA?oc=5",
+      "pub_date": 1763910000.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2025/11/23/will-bitcoin-go-to-zero-inside-the-market-reshaping-crypto-ai-gold/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/67695172c2a016a4f6b2c302/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "Bitcoin drops with gold and tech as correlations shift in 2025. Why markets are breaking and what signals will define Bitcoin\u2019s next decade."
+    },
+    {
+      "headline": "Permabull Tom Lee Sees Bitcoin as High as $200,000 by January\u2019s End",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRzY4UzFMQUo2YXlpNVFRMHFZc2lFalZRSVl6aFVxeHNCb0RPVHFZTjBFUHluT2RUUkdENTZab0Jwa19KX1R5S3hfVHpfcVpDT3JYcExWeU10dXNHUDk5eU51ZEVwSXRKcGNodW03eVJpUFR2bVgzalJsYnN6UGk1WHRIdFhkUUo1NEtnaENCOU5NVDRqeGx3UkZBZmhNY2F1OVJrQk9iSm1lOGFUUDY3czVXbV9XSU5Y?oc=5",
+      "pub_date": 1763719241.0,
+      "article_url": "https://www.bloomberg.com/news/features/2025-11-21/permabull-tom-lee-sees-bitcoin-as-high-as-200-000-by-january-s-end",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilxbosN8wWeM/v0/1200x630.jpg",
+      "description": "The always optimistic co-founder of Fundstrat Global Advisors believes in the long-term power of retail investors."
     },
     {
       "headline": "VanEck CEO Concerned About Bitcoin's Encryption and Privacy, Says Firm Could Walk Away",
@@ -55,34 +75,14 @@
       "description": "It's time to buy the dip on Bitcoin yet again."
     },
     {
-      "headline": "Homeland Security Is Reportedly Probing Bitcoin Mining Giant Bitmain for National Security Reasons",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRm84MDJZWmZZaG9JYXdTYTBsR2pTbkhIQWdneG1RM1gxX3dPRjM3ZjNzRWtNeFN6bmlpVnA4bFUtUnYyVlU4RXk1VEo4R2ZSSEZaTWhMWXhtUlBpLVU3aHJNSGdEM1NXR3ZJaDNra09ZdmpuclMtTlN5NDB3akRaTHRnS2hCYUJ0X09Kby1FV1F4MmF5aGdOaXJra0ZoQmJSUDNwSnFaQTJkenFLRHJkN1lMZG43eGlJZFZvdnlMZWdSdWxZaVV1OA?oc=5",
-      "pub_date": 1763892014.0,
-      "article_url": "https://gizmodo.com/homeland-security-is-reportedly-probing-bitcoin-mining-giant-bitmain-for-national-security-reasons-2000689746",
-      "image": "https://gizmodo.com/app/uploads/2024/10/sec-bitcoin-hack-arrest.jpg",
-      "description": "And there's an additional Trump family connection."
-    },
-    {
-      "headline": "Robert Kiyosaki slams Buffett\u2019s take on crypto even as Bitcoin wipes out $400B in 1 week. Is it time to buy or bail?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV1lyQ0pkZE9sTjl6ZXp2eDZVc2hsZE1YcHNLSzJIc3gyMTNpUU5SNjdndGVudnZCQ1dFNW54VzRCaWt0TEdDUThrNFp5Uy1nbGR5NmxJcGVjRDNGQnBVeGVidUxUNm9tOW9VTVZvUkI3dm1ZQkZHbzRXTmJRS21Yd2NMbDB5RHJuNUE?oc=5",
-      "pub_date": 1763819940.0,
-      "article_url": "https://finance.yahoo.com/news/robert-kiyosaki-slams-buffett-crypto-135900030.html",
-      "image": "https://media.zenfs.com/en/moneywise_ecomm_711/4ae35f485549d4af44ad435f67e5bf79",
-      "description": "Digital gold or rat poison? It depends on who you ask."
-    },
-    {
-      "headline": "\u2018Rich Dad Poor Dad\u2019 author sells Bitcoin for loss amid market crash",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU09CamtYa2hqRVQxZ3U3NTdVRlhhQU9vWnlSRnpNeEpTTXZaZmhrWlVYeW1RV0VyNHpLdUZiaEdtRm9nUjhUMDBqM2xtT0I1ZkFyUmJnbjZvNHhDOHFSdExEbE1ZVTEtME5wVVNFdmN6d2k4RU02djZCVmtpLXhuUkx6N1Q2aWdFZktXQ2pKOEtGUHhLcUNDbm9sdUt0UlJ4NllJRDROd3NaZw?oc=5",
-      "pub_date": 1763762444.0,
-      "article_url": "https://www.thestreet.com/crypto/trading/rich-dad-poor-dad-author-sells-bitcoin-for-loss-amid-market-crash",
-      "image": null,
-      "description": null
+      "headline": "Waterboarding, sexual assault, disguises: Details of terrifying $2M B.C. bitcoin hostage-taking revealed",
+      "source": "CBC",
+      "source_url": "https://www.cbc.ca",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQkwxMjNfN3V0R3M5X2dybGZLX01lX0Q5Q212NEZkYmc0ZFQ3MEQxVHY1cHVxOFhTM1MtczdIaTBCZGFYT1RpSWs0MThQTkVqR1ZKMDB5Z05OMnQtUzE1LW1XTjZQbjN5MWhDT0JGRmdvUzhhZE5Sc2N3elhCU0dfWmc1R0djTW5XXy02RzVUQTUyb1JHOWNIcFFxeWdzUQ?oc=5",
+      "pub_date": 1763766659.0,
+      "article_url": "https://www.cbc.ca/news/canada/british-columbia/bitcoin-hostage-millions-cryptocurrency-9.6987994",
+      "image": "https://i.cbc.ca/ais/1.5986697,1645218129000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C232%2C4500%2C2531%29%3BResize%3D620",
+      "description": "The family of a B.C. bitcoin investor known for boasting of his cryptocurrency successes online was robbed of $2 million in a terrifying overnight hostage-taking involving waterboarding, sexual assault and death threats from four intruders they knew only as \"One,\" \"Two,\" \"Three\" and \"Four.\""
     },
     {
       "headline": "Kiyosaki Dumps Bitcoin At $90K After Predicting A $250K Moonshot \u2013 Here\u2019s Why",
@@ -95,16 +95,16 @@
       "description": "Robert Kiyosaki has moved a chunk of his Bitcoin into businesses that pay him now. Reports have disclosed he sold roughly $2.25 million worth of Bitcoin, cashing out after years of saying he was bullish on the cryptocurrency.He did not say he was exiting crypto; instead, he described the shift as t\u2026"
     },
     {
-      "headline": "Rep. Warren Davidson Introduces the Bitcoin For America Act | Press Releases",
-      "source": "Congressman Warren Davidson (.gov)",
-      "source_url": "https://davidson.house.gov",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZk1takYtblJuci1rWmJpSDNIVHZPMmlhc3VaR2kwWFpITXN0bTVQOXJWSENTSmRKazR2eENndk00Z1dCRlkzRkpYYzhZU0R6eGEzSzZtTDJPZVpVbnVtSFVpT3A4VV9jMW1RMV84amdtdWx6TDBXYjJBQ1hmaEpUeWVqYTA2VmMzRm1yN1A3aEd1MTNlWFZpdA?oc=5",
-      "pub_date": 1763649372.0,
-      "article_url": "https://davidson.house.gov/2025/11/rep-warren-davidson-introduces-the-bitcoin-for-america-act",
-      "image": "https://davidson.house.gov/?a=Files.Image&Image_id=F101BF40-4321-40BD-B0E5-AF87BA6ED169&ImageSize=Social&direct=true",
+      "headline": "Will Bitcoin Hit $250,000 by 2026? We Asked ChatGPT",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTTU0OHA5bHNicHZJTFpsYkhmWHdHbkpGMTJIMTZBZlRXekx0aGVqVGp0V2p2TDlCOEpRc2k3QXg4amQ4M1UtZ01FcXltdzFzQkpsZUJVN0FZd3VvTkZmM3Z4Zi13TGVhVFhsaVJlY1ZhRDlIYks0YmFwRW5iRW16UWx5dWh0czFM?oc=5",
+      "pub_date": 1763899335.0,
+      "article_url": "https://www.ccn.com/news/crypto/will-bitcoin-hit-250000-by-2026-we-asked-chatgpt/",
+      "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T15:34:36.341977+00:00"
+  "fetched_at": "2025-11-23T16:28:48.109941+00:00"
 }

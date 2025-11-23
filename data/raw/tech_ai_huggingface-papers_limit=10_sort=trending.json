@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 61,
+      "upvotes": 62,
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
@@ -92,7 +92,7 @@
       "num_comments": 1,
       "published_at": "2025-11-19T11:18:02.000Z",
       "github_repo": "https://github.com/facebookresearch/MHR",
-      "github_stars": 300,
+      "github_stars": 305,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-23T15:20:39.203617+00:00"
+  "fetched_at": "2025-11-23T16:28:28.892673+00:00"
 }
