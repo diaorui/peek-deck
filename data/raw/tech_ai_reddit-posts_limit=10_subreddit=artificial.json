@@ -46,17 +46,6 @@
       "description": "$1.6 million Health Human Resources Plan from Deloitte cites research papers that don\u2019t exist, making it the second major government policy paper called into question in as many months"
     },
     {
-      "title": "Problem solved: How to build a highly scalable website using help from chatgpt in hours not months!",
-      "author": "Maleficent_Mess6445",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4ioas/problem_solved_how_to_build_a_highly_scalable/",
-      "published": 1763890679.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Built highly scalable website with HTML frontend and WordPress backend in hours. It can add 100000 pages in 4 hours. Only used 10GB for 100000 pages compared to 50GB of WordPress. Built with Go language, this is one of best options to build very large website with minimum resources. https://go-agents.blogspot.com/2025/11/how-to-build-highly-scalable-website-in.html"
-    },
-    {
       "title": "Pinterest is leaning hard into AI. The strategy appears to be backfiring",
       "author": "wiscowall",
       "url": "https://www.reddit.com/r/artificial/comments/1p48rw7/pinterest_is_leaning_hard_into_ai_the_strategy/",
@@ -90,6 +79,28 @@
       "description": "As AI continues to advance toward superintelligence, this question becomes increasingly relevant. What makes humanity worth preserving? Is it our creativity, our capacity for love and connection, our flaws and imperfections, our stories and cultures, or something else entirely? How would you make the case for human existence to an entity far more intelligent than us?"
     },
     {
+      "title": "LLMs have a built-in mathematical ceiling on their creative capacity, meaning they will never rival the originality or ingenuity of the most creative individuals - report",
+      "author": "mikelgan",
+      "url": "https://www.reddit.com/r/artificial/comments/1p42404/llms_have_a_builtin_mathematical_ceiling_on_their/",
+      "published": 1763840173.0,
+      "thumbnail": null,
+      "external_url": "https://www.unisa.edu.au/media-centre/Releases/2025/chatgpt-is-smart-but-no-match-",
+      "site_name": "unisa.edu.au",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "How to bypass AI and get a live human",
+      "author": "Crystal_Ri",
+      "url": "https://www.reddit.com/r/artificial/comments/1p4jexh/how_to_bypass_ai_and_get_a_live_human/",
+      "published": 1763893426.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Just cuss at it. The only thing the AI seems to know is your name and curse words. Cussing out the AI is programmed to send you straight to a human. Ask me how I know. LOL!"
+    },
+    {
       "title": "Full Bible RPG completely generated in the Gemini 3 ecosystem amazing",
       "author": "One_Hovercraft_7456",
       "url": "https://www.reddit.com/r/artificial/comments/1p4c190/full_bible_rpg_completely_generated_in_the_gemini/",
@@ -99,18 +110,7 @@
       "site_name": "ai.studio",
       "favicon": "https://ai.studio/favicon.ico",
       "description": "Took me less than one day I am completely blown away by what a massive upgrade this was despite anybody saying otherwise"
-    },
-    {
-      "title": "Nvidia CEO says AI will actually make everyone a lot busier: 'Everybody's jobs will be different' | Fortune",
-      "author": "fortune",
-      "url": "https://www.reddit.com/r/artificial/comments/1p3d1xu/nvidia_ceo_says_ai_will_actually_make_everyone_a/",
-      "published": 1763765704.0,
-      "thumbnail": "https://external-preview.redd.it/GmTAuuENFuuC2xI0HHOFHIPhhizioDBa9zmNTQJVrX4.jpeg?width=640&crop=smart&auto=webp&s=917d8a236b29d930fa8c8b82a32b9d7c7dfc2ac2",
-      "external_url": "https://fortune.com/2025/11/21/nvidia-jensen-huang-ai-jobs-growth-elon-musk-entry-level-workers/",
-      "site_name": "Fortune",
-      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
-      "description": "\u201cI would say that there's every evidence that we will be more productive and yet still be busier because we have so many ideas,\u201d Jensen Huang said."
     }
   ],
-  "fetched_at": "2025-11-23T09:55:16.427805+00:00"
+  "fetched_at": "2025-11-23T10:38:50.939158+00:00"
 }

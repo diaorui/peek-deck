@@ -65,16 +65,6 @@
       "description": "The move follows fellow ETH treasury ETHZilla selling $40 million of tokens to fund share buybacks."
     },
     {
-      "headline": "BlackRock files Delaware name registration for iShares Staked Ethereum ETF",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0x3U2J3Z1JoQ3VqS0JEMzlHRDJaQVlZOXFaSUR6dWZzME1VMHdDQUxjRm1HWmxOcGtYNzcyZlhrUUdSSXpmV3FzbVlGS29rMUJxNzlZMnNQZDl6LU9vaHZyOTFqN2lTaUVHaXlKSWkzR2RiU1JIc1c2ZG8zRGFwWlRITHBiREZBU3p0V0FUb2dBbVNKeWNjOUtfb0xuamk1bHFmZFFoYzZDUDBtV1NV0gG0AUFVX3lxTFA5Y2pheGJhMWR1RW5ibmpmM04zLXhpQ2N1bktKR3dtU1RMYmVMQnVCYXlwTVQweDhSMkhzekZvYzVDTllKS05RaEEta0ZMV3hTYzNaS3JoRGN4VlpLVGdmSmg2c3ViT01oQy1ZZmdPX1FILUtEMWFDVlFPdFkxNDZ6dlhKWTgxRi03MFpqUVBJeFoySEtPMVpHX3VtRUk0TVFtT0lxRlEwVVAxZ1lUWUp3NDdiSg?oc=5",
-      "pub_date": 1763594880.0,
-      "article_url": "https://www.theblock.co/post/379567/blackrock-files-delaware-name-registration-for-ishares-staked-ethereum-etf",
-      "image": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Blackrock-1200x675.jpg",
-      "description": "A Delaware name registration is one of the first public signals that a new exchange-traded fund is in the works."
-    },
-    {
       "headline": "BlackRock deposits $348M in Bitcoin and $117M in Ethereum into Coinbase Prime",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.tradingview.com/news/newsbtc:564a0b07d094b:0-ethereum-golden-pocket-in-play-can-eth-turn-the-tide-above-2-800/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "Ethereum is testing a critical juncture as the golden pocket between $2,600 and $2,800 comes into play. With resistance looming at $2,800, the market now faces a pivotal moment. Can ETH reclaim this level and spark a move toward $3,000, or will sellers push it back below key support?Golden Pocket B\u2026"
+    },
+    {
+      "headline": "Why Ethereum Is Moving Lower Today",
+      "source": "Nasdaq",
+      "source_url": "https://www.nasdaq.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FNzhsTkduRXVjLXBIdk8zUUsxX3RMTk42cHpKcUJMRUpxTndMWG82V0NIU0JtY2ZmeFVEbEJVQ2NEV1VBUXVERzJSQnJqQ0FNOURLaXgxUzdQakpxa3hZbFlVb0dSeHlVVXZPNTJWc3Y?oc=5",
+      "pub_date": 1763765400.0,
+      "article_url": "https://www.nasdaq.com/articles/why-ethereum-moving-lower-today",
+      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+      "description": "Key PointsDespite news that the Federal Reserve may opt for more rate cuts -- a move that typically boosts crypto prices -- the market is still falling."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T09:55:34.027020+00:00"
+  "fetched_at": "2025-11-23T10:39:07.137764+00:00"
 }

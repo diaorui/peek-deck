@@ -93,14 +93,28 @@
       "url": "https://arxiv.org/abs/2509.01063",
       "hn_url": "https://news.ycombinator.com/item?id=46020096",
       "author": "nerder92",
-      "points": 68,
-      "num_comments": 40,
+      "points": 69,
+      "num_comments": 46,
       "created_at": "2025-11-23T02:08:00Z",
       "object_id": "46020096",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "description": "In the coming decade, artificially intelligent agents with the ability to plan and execute complex tasks over long time horizons with little direct oversight from humans may be deployed across the economy. This chapter surveys recent developments and highlights open questions for economists around how AI agents might interact with humans and with each other, shape markets and organizations, and what institutions might be required for well-functioning markets.",
       "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
       "site_name": "arXiv.org"
+    },
+    {
+      "title": "Show HN: I built a wizard to turn ideas into AI coding agent-ready specs",
+      "url": "https://vibescaffold.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=46018229",
+      "author": "straydusk",
+      "points": 50,
+      "num_comments": 31,
+      "created_at": "2025-11-22T21:02:34Z",
+      "object_id": "46018229",
+      "image": null,
+      "description": "A friendly 4-step wizard that helps you define, design, and plan your next app idea with AI-powered spec generation.",
+      "favicon": "https://vibescaffold.dev/favicon.ico",
+      "site_name": "vibescaffold.dev"
     },
     {
       "title": "The AI bubble is bigger than you think",
@@ -117,25 +131,11 @@
       "site_name": "The American Prospect"
     },
     {
-      "title": "Show HN: I built a wizard to turn ideas into AI coding agent-ready specs",
-      "url": "https://vibescaffold.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=46018229",
-      "author": "straydusk",
-      "points": 48,
-      "num_comments": 31,
-      "created_at": "2025-11-22T21:02:34Z",
-      "object_id": "46018229",
-      "image": null,
-      "description": "A friendly 4-step wizard that helps you define, design, and plan your next app idea with AI-powered spec generation.",
-      "favicon": "https://vibescaffold.dev/favicon.ico",
-      "site_name": "vibescaffold.dev"
-    },
-    {
       "title": "Google tells employees it must double capacity every 6 months to meet AI demand",
       "url": "https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/",
       "hn_url": "https://news.ycombinator.com/item?id=46013463",
       "author": "cheshire_cat",
-      "points": 47,
+      "points": 48,
       "num_comments": 31,
       "created_at": "2025-11-22T09:39:11Z",
       "object_id": "46013463",
@@ -145,7 +145,7 @@
       "site_name": "Ars Technica"
     }
   ],
-  "total_hits": 423,
+  "total_hits": 422,
   "has_metadata": true,
-  "fetched_at": "2025-11-23T09:55:14.959562+00:00"
+  "fetched_at": "2025-11-23T10:38:50.773628+00:00"
 }
