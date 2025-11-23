@@ -1,0 +1,116 @@
+{
+  "subreddit": "robotics",
+  "posts": [
+    {
+      "title": "MagicLab Z, a bipedal humanoid shows his agility",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1p4lg88/magiclab_z_a_bipedal_humanoid_shows_his_agility/",
+      "published": 1763900621.0,
+      "thumbnail": "https://external-preview.redd.it/czd4bHU5d3kwMDNnMblU5K_C_dAkX7Cdnie-bEA-6uVVUIN14c1W8w-oCHlT.png?width=640&crop=smart&auto=webp&s=6e0a66ef212462fa183644c24bcda242c9f3cb14",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "MagicLab website: https://www.magiclab.top/en From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1991895323246219551"
+    },
+    {
+      "title": "AI Robotics: What We Haven\u2019t Solved\u2026 Yet - New Podcast Episode",
+      "author": "marwaeldiwiny",
+      "url": "https://www.reddit.com/r/robotics/comments/1p4omza/ai_robotics_what_we_havent_solved_yet_new_podcast/",
+      "published": 1763909677.0,
+      "thumbnail": "https://external-preview.redd.it/ZjN4czhqYzNzMDNnMYXgxMMuYx4vai6r2mJi_BHAgiZEJjckW20es6HzzCMG.png?width=640&crop=smart&auto=webp&s=3fa5049f4928a1b1a0ba7d0776169ae2c520f9f6",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Full video: https://youtu.be/D_eXUkDf7UU?si=9JL-OhVQXgD1X8pv"
+    },
+    {
+      "title": "How do I make my robot walk/balance dynamically? I don\u2019t know how to use simulations such as Isaac sim since im new to robotics.",
+      "author": "TooManyLegoBricks",
+      "url": "https://www.reddit.com/r/robotics/comments/1p4pobn/how_do_i_make_my_robot_walkbalance_dynamically_i/",
+      "published": 1763912222.0,
+      "thumbnail": "https://a.thumbs.redditmedia.com/x2S3dzba9Jzg9EzgvPdycmj1I6a69b-f49_iAE0WLi0.jpg",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Figure AI sued by whistleblower who warned that startup's robots could 'fracture a human skull'",
+      "author": "MFGMillennial",
+      "url": "https://www.reddit.com/r/robotics/comments/1p46i59/figure_ai_sued_by_whistleblower_who_warned_that/",
+      "published": 1763851569.0,
+      "thumbnail": null,
+      "external_url": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2025/11/21/figure-ai-sued.html",
+      "site_name": "CNBC",
+      "favicon": "https://sc-cnbcfm-com.cdn.ampproject.org/i/s/sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
+      "description": "Im curious how many others from Figure or other Humanoid Robot companies will start to step forward and speak up. Safety is something that is not talked about enough."
+    },
+    {
+      "title": "Laws of mBotics : Part 3",
+      "author": "sierrahighcoo",
+      "url": "https://www.reddit.com/r/robotics/comments/1p4l5qp/laws_of_mbotics_part_3/",
+      "published": 1763899687.0,
+      "thumbnail": "https://external-preview.redd.it/dGlveHNvcGR6ejJnMRXI4obYmEqYNMkEKM6Hy5WveFtry4ahIfu16Zi3tlnD.png?width=640&crop=smart&auto=webp&s=9ff13e4022550b272ff95863d563b63e61a0ce02",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Short survey: how do your robots handle \u201cfind this asset/location\u201d tasks?",
+      "author": "New_Signal7007",
+      "url": "https://www.reddit.com/r/robotics/comments/1p4st5z/short_survey_how_do_your_robots_handle_find_this/",
+      "published": 1763919635.0,
+      "thumbnail": "https://external-preview.redd.it/5bK5CiOWjc485PiC-qsbAMODVPYDerssUz9X2_BqUHA.png?width=640&crop=smart&auto=webp&s=4d8a44c744f6b344b723ff877296bb5b5284d181",
+      "external_url": "https://forms.gle/aTTfxVCs3u3QoLSj9",
+      "site_name": "Google Docs",
+      "favicon": "https://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+      "description": "Hi everyone, I\u2019m Swalihu, a ROS/robotics engineer and founder of SeekSense, a small UK startup exploring semantic navigation for indoor mobile robots. I\u2019m running a short 3\u20134 minute survey to understand how teams currently support tasks like: \u2013 \u201cfind this specific trolley/cart/tool/asset\u201d \u2013 \u201cgo to the visitor kiosk in atrium B / bed 12 in ward C\u201d in warehouses, hospitals, labs and campuses \u2013 and how painful these behaviours are to maintain over time. The context: we\u2019re experimenting with a training-free semantic navigation API (vision\u2013language + mapping + frontier selection), and I\u2019d like to sanity-check whether this is solving a real problem for people deploying ROS/ROS 2 systems. If you\u2019re working with AMRs, AGVs, hospital/campus robots, mobile manipulators or research platforms, and can spare a few minutes. Responses are aggregated and anonymised. With your permission, I may use the results as part of the market-research evidence for a UK Innovator Founder Visa application, and I\u2019m happy to share a short summary of the findings back here once we\u2019ve collected enough data. https://www.seeksense-ai.com/"
+    },
+    {
+      "title": "[Free Guide] Student-written 150+ page robotics book for WRO/FLL/FTC/FRC (Play to Purpose)",
+      "author": "legogoa",
+      "url": "https://www.reddit.com/r/robotics/comments/1p4kqt0/free_guide_studentwritten_150_page_robotics_book/",
+      "published": 1763898251.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "CH32V003 works only for some time after flashing, then becomes unresponsive on bare IC",
+      "author": "Sanjaykumar_tiruppur",
+      "url": "https://www.reddit.com/r/robotics/comments/1p4p3ob/ch32v003_works_only_for_some_time_after_flashing/",
+      "published": 1763910839.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey guys, I\u2019m currently working with the CH32V003, and during my testing I found a strange issue. After flashing the firmware, the chip works perfectly \u2014 even if power interruptions happen. But after some time, when I try to power it back on, the system becomes completely dead. It does nothing. Even a hardware reset doesn\u2019t bring it back. It feels like flash or memory corruption. What\u2019s confusing is that the factory-made dev board runs the same code without any issues, consistently. The problem only happens when I use a bare CH32V003 IC on my own hardware. Has anyone faced this before? Any idea what could cause this? Power rail\u2026 reset circuitry\u2026 bootloader corruption\u2026 missing pull-ups\u2026 flash stability\u2026? Please help me sort this out \ud83d\ude4f"
+    },
+    {
+      "title": "what could be the cause ? HELP",
+      "author": "easykhoch",
+      "url": "https://www.reddit.com/r/robotics/comments/1p41c8f/what_could_be_the_cause_help/",
+      "published": 1763838257.0,
+      "thumbnail": "https://external-preview.redd.it/Z2s0czRpam93dTJnMb6_nVy7BZNGLIMluS2jp1Spua81unX75_5434-OCVTV.png?width=640&crop=smart&auto=webp&s=94405ca6ae67ffed7411845201c177a318aec4f5",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "im trying to power this brushless motor using a STEVAL-STSPIN3201using FOC sensorless control , I can not use Motor Profiler since the ST-link of the board is corrupted (I'm programming the main MCU with an External ST-link dongle). The BLCD motor as shown is only vibrating (seems like it want to rotate but it can't) What can be the problem? am i missing something"
+    },
+    {
+      "title": "Aloha Mini- $600 Open-Source Home Robot",
+      "author": "Weekly-Telephone4185",
+      "url": "https://www.reddit.com/r/robotics/comments/1p3h0cp/aloha_mini_600_opensource_home_robot/",
+      "published": 1763776330.0,
+      "thumbnail": "https://external-preview.redd.it/c2RpZmIwaWpzcDJnMS5b30bsaPUDJiW6VUb-QjWrGGJxn2vUJ6qnBBR8T0rP.png?width=640&crop=smart&auto=webp&s=6f6afda9a35e4446b8ee0fcaa0d0063f26086a2c",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Aloha Mini is a dual-arm mobile robot with a motorized vertical lift designed to make real-world mobile manipulation and embodied AI research accessible. The robot is fully 3D-printable and can be assembled in ~60 minutes. Technical highlights: \u2022 Dual-arm control with LeRobot teleoperation + imitation learning \u2022 Fully 3D-printed arm and lift mechanism \u2022 Omni-directional mobile base \u2022 Multi-task demos: sock picking, table wiping, fridge opening, toilet scrubbing \u2022 Designed to lower the barrier of entry to real robotics \u2022 Material cost around $600 when self-printed GitHub Open-Source Code & Files: https://github.com/liyiteng/AlohaMini"
+    }
+  ],
+  "fetched_at": "2025-11-23T21:24:01.305094+00:00"
+}

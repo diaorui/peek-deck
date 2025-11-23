@@ -46,17 +46,6 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
-      "title": "Has Ethereum lost out to Ripple?",
-      "author": "Electrical_Wish_8530",
-      "url": "https://www.reddit.com/r/ethereum/comments/1p4vh2v/has_ethereum_lost_out_to_ripple/",
-      "published": 1763925911.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Was reading an article earlier and it seems SWIFT will be adopting Ripple as it's Blockchain of choice with no mention of Ethereum anywhere or have I misunderstood what is going on What are the implications for Ethereum if this is the case"
-    },
-    {
       "title": "Looking for Ethereum wallet that supports custom derivation paths + multiple accounts + BIP39 passphrase",
       "author": "Wide-Reward-8186",
       "url": "https://www.reddit.com/r/ethereum/comments/1p3va6h/looking_for_ethereum_wallet_that_supports_custom/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
+    },
+    {
+      "title": "Rabby UI issues",
+      "author": "Pinewatch762",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p37sqp/rabby_ui_issues/",
+      "published": 1763753096.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I switched from metamask to rabby months ago. And recently I\u2019ve been having display issues with my rocket pool staked eth vs my loose eth. Either $$$ amount being wrong to plain just not updating balance. I\u2019ve looked online and haven\u2019t found any known issues. Just wondering if anyone has had the same problem. MetaMask shows correct balance every time."
     }
   ],
-  "fetched_at": "2025-11-23T20:33:07.485740+00:00"
+  "fetched_at": "2025-11-23T21:23:56.639875+00:00"
 }

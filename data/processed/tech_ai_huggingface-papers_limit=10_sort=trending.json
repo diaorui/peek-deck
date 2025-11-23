@@ -73,7 +73,7 @@
       "num_comments": 0,
       "published_at": "2024-10-08T04:00:12.000Z",
       "github_repo": "https://github.com/hkuds/lightrag",
-      "github_stars": 24128,
+      "github_stars": 24163,
       "project_page": null
     },
     {
@@ -130,7 +130,7 @@
       "num_comments": 1,
       "published_at": "2025-10-26T01:49:38.000Z",
       "github_repo": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
-      "github_stars": 16389,
+      "github_stars": 16410,
       "project_page": "https://fapo-rl.github.io/"
     },
     {
@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2511.13648",
       "arxiv_url": "https://arxiv.org/abs/2511.13648",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.13648.png",
-      "upvotes": 47,
+      "upvotes": 48,
       "num_comments": 2,
       "published_at": "2025-11-17T12:59:53.000Z",
       "github_repo": "https://github.com/ziangcao0312/PhysX-Anything",
@@ -187,11 +187,11 @@
       "num_comments": 4,
       "published_at": "2025-11-14T13:52:07.000Z",
       "github_repo": "https://github.com/MiroMindAI/MiroThinker",
-      "github_stars": 1040,
+      "github_stars": 1050,
       "project_page": "https://dr.miromind.ai/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-23T20:10:17.938521+00:00"
+  "fetched_at": "2025-11-23T21:23:53.407408+00:00"
 }

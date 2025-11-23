@@ -9,7 +9,7 @@
       "url": "https://allenai.org/blog/olmo3",
       "hn_url": "https://news.ycombinator.com/item?id=46001889",
       "author": "mseri",
-      "points": 385,
+      "points": 386,
       "num_comments": 124,
       "created_at": "2025-11-21T06:50:14Z",
       "object_id": "46001889",
@@ -23,8 +23,8 @@
       "url": "https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab0d3",
       "hn_url": "https://news.ycombinator.com/item?id=46024644",
       "author": "kllrnohj",
-      "points": 209,
-      "num_comments": 167,
+      "points": 213,
+      "num_comments": 172,
       "created_at": "2025-11-23T16:17:57Z",
       "object_id": "46024644",
       "image": null,
@@ -75,11 +75,25 @@
       "site_name": "Malwarebytes"
     },
     {
+      "title": "Terence Tao: At the Erdos problem website, AI assistance now becoming routine",
+      "url": "https://mathstodon.xyz/@tao/115591487350860999",
+      "hn_url": "https://news.ycombinator.com/item?id=46017972",
+      "author": "dwohnitmok",
+      "points": 107,
+      "num_comments": 12,
+      "created_at": "2025-11-22T20:27:41Z",
+      "object_id": "46017972",
+      "image": null,
+      "description": "Over at the Erdos problem website, AI assistance is now becoming routine.  Here is what happened recently regarding Erdos problem #367 https://www.erdosproblems.com/367 :\n\n1.  On Nov 20, Wouter van Doorn produced a (human-generated) disproof of the second part of this problem, contingent on a congruence identity that he thought was true, and was \"sure someoneone here is able to verify... does indeed hold\".\n\n2.  A few hours later, I posed this problem to Gemini Deepthink, which (after about ten minutes) produced a complete proof of the identity (and confirmed the entire argument): https://gemini.google.com/share/81a65aecfd70 .  The argument used some p-adic algebraic number theory which was overkill for this problem.  I then spent about half an hour converting the proof by hand into a more elementary proof, which I presented on the site.  I then remarked that the resulting proof should be within range of \"vibe formalizing\" in Lean.\n\n3.  Two days later, Boris Alexeev used the Aristotle tool from Harmonic to complete the Lean formalization, making sure to formalize the final statement by hand to guard against AI exploits.  This process took two to three hours, and the output can be found at https://borisalexeev.com/t/Erdos367.lean\n\nEDIT: after making this post, I decided to round things out by making AI literature searches on this problem, which (after about fifteen minutes) turned up some related literature on consecutive powerful numbers, but nothing directly relating to #367.  https://chatgpt.com/share/6921427d-9dc0-800e-b798-be8fc94a9240 https://gemini.google.com/share/0d296454bea0",
+      "favicon": "https://mathstodon.xyz/packs/assets/apple-touch-icon-57x57-BsPGHSez.png",
+      "site_name": "Mathstodon"
+    },
+    {
       "title": "An Economy of AI Agents",
       "url": "https://arxiv.org/abs/2509.01063",
       "hn_url": "https://news.ycombinator.com/item?id=46020096",
       "author": "nerder92",
-      "points": 78,
+      "points": 79,
       "num_comments": 57,
       "created_at": "2025-11-23T02:08:00Z",
       "object_id": "46020096",
@@ -107,7 +121,7 @@
       "url": "https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/",
       "hn_url": "https://news.ycombinator.com/item?id=46013463",
       "author": "cheshire_cat",
-      "points": 52,
+      "points": 53,
       "num_comments": 35,
       "created_at": "2025-11-22T09:39:11Z",
       "object_id": "46013463",
@@ -115,20 +129,6 @@
       "description": "Google\u2019s AI infrastructure chief tells staff it needs thousandfold capacity increase in 5 years.",
       "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
       "site_name": "Ars Technica"
-    },
-    {
-      "title": "Terence Tao: At the Erdos problem website, AI assistance now becoming routine",
-      "url": "https://mathstodon.xyz/@tao/115591487350860999",
-      "hn_url": "https://news.ycombinator.com/item?id=46017972",
-      "author": "dwohnitmok",
-      "points": 49,
-      "num_comments": 13,
-      "created_at": "2025-11-22T20:27:41Z",
-      "object_id": "46017972",
-      "image": null,
-      "description": "Over at the Erdos problem website, AI assistance is now becoming routine.  Here is what happened recently regarding Erdos problem #367 https://www.erdosproblems.com/367 :\n\n1.  On Nov 20, Wouter van Doorn produced a (human-generated) disproof of the second part of this problem, contingent on a congruence identity that he thought was true, and was \"sure someoneone here is able to verify... does indeed hold\".\n\n2.  A few hours later, I posed this problem to Gemini Deepthink, which (after about ten minutes) produced a complete proof of the identity (and confirmed the entire argument): https://gemini.google.com/share/81a65aecfd70 .  The argument used some p-adic algebraic number theory which was overkill for this problem.  I then spent about half an hour converting the proof by hand into a more elementary proof, which I presented on the site.  I then remarked that the resulting proof should be within range of \"vibe formalizing\" in Lean.\n\n3.  Two days later, Boris Alexeev used the Aristotle tool from Harmonic to complete the Lean formalization, making sure to formalize the final statement by hand to guard against AI exploits.  This process took two to three hours, and the output can be found at https://borisalexeev.com/t/Erdos367.lean\n\nEDIT: after making this post, I decided to round things out by making AI literature searches on this problem, which (after about fifteen minutes) turned up some related literature on consecutive powerful numbers, but nothing directly relating to #367.  https://chatgpt.com/share/6921427d-9dc0-800e-b798-be8fc94a9240 https://gemini.google.com/share/0d296454bea0",
-      "favicon": "https://mathstodon.xyz/packs/assets/apple-touch-icon-57x57-BsPGHSez.png",
-      "site_name": "Mathstodon"
     },
     {
       "title": "Microsoft AI CEO Puzzled by People Being Unimpressed by AI",
@@ -145,7 +145,7 @@
       "site_name": "80.lv"
     }
   ],
-  "total_hits": 395,
+  "total_hits": 394,
   "has_metadata": true,
-  "fetched_at": "2025-11-23T20:33:04.708619+00:00"
+  "fetched_at": "2025-11-23T21:23:53.450134+00:00"
 }

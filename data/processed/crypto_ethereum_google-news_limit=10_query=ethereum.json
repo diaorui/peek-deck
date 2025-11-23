@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUFOeF9aQjMyd0laWXJveWpZQnBPZUFKczNWc0wtYURGdmhzS016R1JOeERQQVVzMWw0Z3lIMUowdllJeFEySVZLVV90ek9ybDNPcEVaUzdObXlpTnF0SEQ0c0p4NFZiZDkwejFfUFBOcEM3WWloOUZSN0lMVzllSFZHVjlxbjVwTjhxdWc0RzdtU3hCLTd4aw?oc=5",
+      "pub_date": 1763918100.0,
+      "article_url": "https://www.fool.com/investing/2025/11/23/bitcoin-vs-ethereum-which-is-more-likely-to-be-a-m/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843381%2Fwealthy-investor-with-private-jet.jpg&w=1200&op=resize",
+      "description": "Bitcoin and Ethereum have impressive track records and sky-high future price targets."
+    },
+    {
       "headline": "Tom Lee Says Bitcoin, Ethereum Crash Wasn't Macro But A 'Software Bug'",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -15,26 +25,6 @@
       "description": "Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) breaking below key support levels has sparked debate over whether fundamentals are to blame \u2014 but Fundstrat's Tom Lee argues the real culprit is far more mechanical. What Happened: In an interview with ..."
     },
     {
-      "headline": "Is XRP or Ethereum More Likely to Be a Millionaire Maker?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTJfa1I0RVRTc3BWXzVCWGE3clVTZUE5NzZRVVpaZzF1U3FHcFAwYnNXeFdhZEhVZElaSjNDSUxTWGhzY2IzU3VaNG5tM3REZ1dSdzRKT2FycHdHMlRobUc2aUJ4S1pnYm04LUw3VXBFM2pmdUdzVUhCdDA5NFJBWWNXQldyWlRnX04tZXFRdUZiMXRnWEwzeA?oc=5",
-      "pub_date": 1763856000.0,
-      "article_url": "https://www.fool.com/investing/2025/11/22/is-xrp-or-ethereum-more-likely-to-be-a-millionaire/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F842225%2Ftrader-investor-screens-chart-graph-stocks-finance.jpg&w=1200&op=resize",
-      "description": "These two leading blockchains are very different in their ambitions."
-    },
-    {
-      "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
-      "source": "Nasdaq",
-      "source_url": "https://www.nasdaq.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDU2dldydlhRMkQtOW55ZHlRUFZlREVxTEhGRnIwZFoybzRfRUl4czIxLUhIclhxVlhkZUctdWx3dW12U0RyU0VoTlJjWmN2MHFXTG1ZSUhucVlUTXNBY2ZMV0czQzZCUzdMZWxGekgyU2RpTzRiR1U5VEZHSUFaclNpQV9lX2Nwa1NZc0pia2YwREps?oc=5",
-      "pub_date": 1763918100.0,
-      "article_url": "https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-more-likely-be-millionaire-maker",
-      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-      "description": "Key PointsOver the past decade, Bitcoin has been the top-performing asset in the world."
-    },
-    {
       "headline": "What Is a Layer-1 Blockchain? The Base Layer Powering Bitcoin and Crypto",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
@@ -43,6 +33,16 @@
       "article_url": "https://decrypt.co/resources/what-is-layer-1-blockchain-base-layer-powering-bitcoin-crypto",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/03/BLOCKCHAIN-copy-gID_7-pID_5.png",
       "description": "Layer-1 blockchains are the base networks that secure and record every crypto transaction, powering Bitcoin, Ethereum, and beyond."
+    },
+    {
+      "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeDZJQU1ZYmRrRGF4bEcwSE5lRkx3UHUtVllNOW42S21YWFRueUJNVkxjdUZ6ZFpVbGFfNWZJTFQzQkRIREY0bXFYOGJObG1DcVdEYU5VU1JHTk5XNWs3MExTZ0F2X0lScm5XTU1hWEluU09ndXVSLTEyWXNLZVgzVTRmRQ?oc=5",
+      "pub_date": 1763918100.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-vs-ethereum-more-likely-171500913.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/mL8QYt.1ZfmHOzQozBq1QQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/80e3e6dff18e3fdae3620ea8888e4a6e",
+      "description": "Bitcoin and Ethereum have impressive track records and sky-high future price targets."
     },
     {
       "headline": "\ud83d\udea8 BREAKING: SWIFT Chooses Ethereum Layer-2 #Linea Over XRP for 2025 Cross-Border Payment Pilot In",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T20:33:20.004349+00:00"
+  "fetched_at": "2025-11-23T21:24:12.508228+00:00"
 }

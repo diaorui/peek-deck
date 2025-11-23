@@ -5,54 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Here's why concerns about an AI bubble are bigger than ever",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0dyS2I4eFprMm1QTVFnai16TjlvNTN0VVcyakdFWUlnaG9mcGhlc1NPVzRLRU4zamhzS0dyRlV0a05RQk40bDVVb0tfU09COG03TWFBSFJMQlpvXy1FZ2NQY0U0azFsZjF1NThUZmV5VzJKSmhDZDBBdHg5S3NsRFJLV0ZvSjVlYXFIVWJieE80NW01MlRFVGZB?oc=5",
-      "pub_date": 1763892000.0,
-      "article_url": "https://www.npr.org/2025/11/23/nx-s1-5615410/ai-bubble-nvidia-openai-revenue-bust-data-centers",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6570x3696+0+342/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F1c%2F8fb36bab4460ad7d24569abf921a%2Fgettyimages-2192213324.jpg",
-      "description": "Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there's a bubble that will soon pop."
-    },
-    {
-      "headline": "AI bubble",
-      "source": "LAist",
-      "source_url": "https://laist.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcXpLTV9yXzAxd0FEWHRqRUptN01VNGdSQkJhM2doOGs4dzhVLXBvV0FqVG1QSi1VZGJKLTVINTFXTHVhRm8tSUtmck1iQjhpZFpxRWVSNTZhYzE1eWpCckV0LXJBS1NLVk9WY2FWT3hac2JnWlQtejFNd1hvcThaRzNKM28yMHU3YjNYdnEtWGo?oc=5",
-      "pub_date": 1763914500.0,
-      "article_url": "https://laist.com/brief/news/heres-why-concerns-about-an-ai-bubble-are-bigger-than-ever",
-      "image": "https://scpr.brightspotcdn.com/dims4/default/ef8e00d/2147483647/strip/true/crop/6570x3449+0+465/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F1c%2F8fb36bab4460ad7d24569abf921a%2Fgettyimages-2192213324.jpg",
-      "description": "The next big thing? Or money pit?"
-    },
-    {
-      "headline": "The A.I. Boom Has Found Another Gear. Why Can\u2019t People Shake Their Worries?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNWE0MUtaUVMzaG1md1oxX1dkcmNjSTdaQjZxYWxaMHhPSXRhM0RKeXlZSjh1WUNyTnFXdURRaDFOcFdrS2pEbE9FbDQ4ZE96QVVZd2lLRktTUFJnNUFOb3E5aTVqMDlrYnc0VXNjYml0M2ktckZmSjVhbw?oc=5",
-      "pub_date": 1763674602.0,
-      "article_url": "https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The surprising issue driving a wedge between Trump and his MAGA base",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlRWWm04U29yNXRCTVVuU2tfVXY4dzJsX2h6TV9NRTgtSE1WLUlnbEF2UnJITG9pa0NIMUhtUHFhalZZUTlGc0ltTzZOSWhTQ2ZDX0JRSlpTSzZ0UFB6Y3dSWXFWVGpTdHRwLXJYOV9La2QwdHJqWV9KRTVIOFlISHJYMzQ3VnF3?oc=5",
-      "pub_date": 1763921138.0,
-      "article_url": "https://www.washingtonpost.com/technology/2025/11/23/trump-maga-division-tech-ai/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Google's new AI model puts OpenAI, the great conundrum of this market, on shakier ground",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbnRDbjlhalU2S1VMa3lKR21sblBZUlM1c2pBUG5JN2d5UDc4ZnpXSWdaMmROSzllVXY0cDhyaUM1ZlZHN24wUnNpaXl4MWtoVXJtekE1Y3hfMFRQN0VEcHlYTzlDcjV6b1lsMmx5elNLOXoxRl9RSmdCY3Zpb0VWMWRmUGZyZmt3R2NBRnZpbGJRMlUyOEItWkdBVDl3djZuR1NhdnFvd2VoWkNEYWtOQTRNUHlTN0NYNUE?oc=5",
-      "pub_date": 1763925955.0,
-      "article_url": "https://www.cnbc.com/2025/11/23/cramer-googles-gemini-puts-openai-on-shakier-ground-with-big-market-implications-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108222498-1762449245023-gettyimages-2236546488-STARGATE_DATA_CENTER.jpeg?v=1763922866&w=1920&h=1080",
-      "description": "In his Sunday column for Investing Club subscribers, CNBC's Jim Cramer writes about OpenAI and the state of the AI race."
+      "headline": "Nvidia CEO says the company is in a no-win situation amid AI-bubble chatter, leaked meeting reveals",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSmdXTEwwSTlSVktYNENIYXlXQVRwMl9FOUs3VmNsWWZablgtVUxFbk9mUjlVQ0U3bHpkR0RkUnlFclJQZ0JVM1ZlYnhRMXVZX1Qwdy16NkJCMUZ0cDNLdUJ1cnpXWnJqQVRseUd3SWpxQXdoNmllMjJkSFBVY2ZIdUtLaHlpWVBMLVRGVzVEZzlpQnh4ekZkYU5kMDNxc1oyNllRZ3k2MWdfdURqMEdjbUV3QVdLZkZfWG1XWFNVMWRldw?oc=5",
+      "pub_date": 1763763960.0,
+      "article_url": "https://fortune.com/2025/11/21/nvidia-ceo-jensen-huang-q3-earnings-beat-no-win-situation-ai-bubble-fears-nvda-stock-selloff/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2174947979-e1763747436953.jpg?resize=1200,600",
+      "description": "\u201cThe market did not appreciate our incredible quarter,\u201d Huang said."
     },
     {
       "headline": "Michael Burry Takes On Nvidia And The AI Boom, Here's Why People Are Loving It",
@@ -65,6 +25,36 @@
       "description": "Michael Burry, famous for his accurate prediction of the mid-2000s US housing bubble burst, has once again stirred the pot in the financial world. This time, his bet against Nvidia and his criticism of AI companies have made him a hot topic on social media. What Happened: Burry\u2019s recent actions may have played a role in last week\u2019s stock market dip. The investor, notorious for his ominous crash and recession predictions, recently made a comeback on social media after a two-year break, issuing se"
     },
     {
+      "headline": "Here's why concerns about an AI bubble are bigger than ever",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0dyS2I4eFprMm1QTVFnai16TjlvNTN0VVcyakdFWUlnaG9mcGhlc1NPVzRLRU4zamhzS0dyRlV0a05RQk40bDVVb0tfU09COG03TWFBSFJMQlpvXy1FZ2NQY0U0azFsZjF1NThUZmV5VzJKSmhDZDBBdHg5S3NsRFJLV0ZvSjVlYXFIVWJieE80NW01MlRFVGZB?oc=5",
+      "pub_date": 1763892000.0,
+      "article_url": "https://www.npr.org/2025/11/23/nx-s1-5615410/ai-bubble-nvidia-openai-revenue-bust-data-centers",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6570x3696+0+342/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F1c%2F8fb36bab4460ad7d24569abf921a%2Fgettyimages-2192213324.jpg",
+      "description": "Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there's a bubble that will soon pop."
+    },
+    {
+      "headline": "Opinion | The First Large-Scale Cyberattack by AI",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNZnFBOEd3ZXVWQzh1bWlLZXJPWnBTYTJNMUR1WW14UWhVQUdkZEtxbFZMd3hVcTZuVS1hWEtNVWNSNDNnenN1TzBaT2ZtaUJhYmdHb1ZVcEtNOWFqbjNNaXhEMU9BaFJiUTFpOXZxT3RBM1B1bTE3VHFWdkJiVXhyNFE3Uk5NTlVJcTVNdFR5NUJiVVZtbURPWmM3S29zRFFqV2hxSzAzRDgwZTBUbFc0ekkyU09pLUR5ejBzLWJ5b2VZYWxmZmtkaXhkcXNrXzlvMEE5YjRrY1k5TkZnR1BQQ1JZNmlRY0ZFbjFGVGhpR0hEdnFHQjNQYUpod28zTjFzUjNVa3JnaFJkRUY2Sy16WlNGUi05UDhyVFRJSmZxT0JGQnNlQ2NUVkxPNlR3RXg1cjFJX0xmM2dSNGZ0bkJwUWxwN1BVbDlWYWc0TTYtMVVmeFRnWkg0MllLT1A5emMyT2oyTV9ZUTJVYTdZcmdIUnNwUnVnaHRVZGg3dV9NNGdDUHB6OFRZ?oc=5",
+      "pub_date": 1763917380.0,
+      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqfOJJ46QUvygTKLQCX2pJi5eirDAVCuv0SBReIagaiXZJZAw12tvFS-&gaa_ts=69237eec&gaa_sig=INlQDkskfRKeXo1qFSf_80XLXsqUg2oiNldb7BvXRszkqktK77BEyq2cTYZr86b3l2q5LYH1svA17_QT63468g%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "2 Artificial Intelligence (AI) Stocks to Buy Before the End of 2025",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbW56d28zYkczaDZfZ3hDRmJDdWdEbkRSdmYtb0pyMWhpNWJRNnJFdzNZTFdpMDVIQXZsdXp3Q1V5MG9HcTFRRUN5ZTJPY01mNUN0UmZoWmpRZzJBRklGbTdhOFZPaklJaF80UDlGVi1tamF1eDBkXzA1RVg0dTh1OFJXQ0FDNUs0?oc=5",
+      "pub_date": 1763929800.0,
+      "article_url": "https://finance.yahoo.com/news/2-artificial-intelligence-ai-stocks-203000368.html",
+      "image": "https://media.zenfs.com/en/motleyfool.com/5bb5263c5c07a27e6be886fcf1f8c21c",
+      "description": "These tech stocks could power your portfolio in 2026 and beyond."
+    },
+    {
       "headline": "Fei-Fei Li, the 'Godmother of AI' whose startup is now valued at north of $1 billion, got her start as a dry cleaner",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -75,36 +65,46 @@
       "description": "Fei-Fei Li says her immigrant experience helped shape her approach to AI research."
     },
     {
-      "headline": "Opinion | The First Large-Scale Cyberattack by AI",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOQW13ek5vRF90S0wxbTJBZmNsUTZKVzd2TDh1amcxcVdJUGE2NjJZaENJa0VmNE5WMVVYbjhGc2dFT3BlRXFJZFRrNXlOVElYOHd2WmpCbGFVb2l0elVRQjdObWFqZlJUQnVETl82UUdub2NsVHNEb3JqZ3Q0Zkh6bnFoQVJkbkl5N3BLbWFsQ0pINk5vYnA3ZzZITzQ0QjJVWnhZRGlpT1F6c2ttdjJpTlZId2MtYTFzbHFQeXJMYzg2UUdTUk94WFBhbVN3X2o0R3BnVmxfQVZTY1RwNVJmUmgxOGxRMkN6dmRJQUd1YWxySHNZbTFWYW5PLUE1SkFPNDhGLVBtU1R1YXdXOE5sUGhGa1BLVmJiR2VlYnJqbVI2VG9zNmVXQkpPSDdxSVBGemxya0RVMmIxUjNJOWEzcE1zcG5kcEhyY3RFQ3ppem1qWGREbEN5RXh5ZURpdEpsTlpaUFJHTHM0MTM0RU1YVXZIWjFqVmdPeXZtTDRrQTRkUDkwT01v?oc=5",
-      "pub_date": 1763917380.0,
-      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqc0xtPp90M-w4VxMW0mxEfQ_c9MuQeCMdEId-FAeZUPmvCE_W7-s-7q&gaa_ts=69237303&gaa_sig=KHIYW1j1lPG74B0MXnr7mCFFm7dF8O-eq3XpUT7NyiZIJIrLmsxgGmrkU_Ki1GQFRJdQkiaGoErU1uSpXNk9nQ%3D%3D",
+      "headline": "New web standards could redefine how AI models use your content",
+      "source": "Search Engine Land",
+      "source_url": "https://searchengineland.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0ZJUzNDYnZ4YW5jbnRHb1BOVF9rUDU1UngxN2h3TGhaVzE1LWNIdkxwYUw3ZVplek5veEZiaTBlYnFsSjBiaHZVRDY0Nl9YT3ZwRV9DS3hVQXd3d3pxWWlyZmZGZUtHdnNZREU2VjcwWkdBVktkOFFVNGlmZ2puNkpHdHlKQUk?oc=5",
+      "pub_date": 1763931600.0,
+      "article_url": "https://searchengineland.com/robots-exclusions-new-rules-definitions-ietf-464990",
+      "image": "https://searchengineland.com/wp-content/seloads/2025/11/ai-content-crawlers-1920.png",
+      "description": "A new protocol could give you power over how AI models collect and use your content. See what rules are being drafted and why they matter."
+    },
+    {
+      "headline": "The surprising issue driving a wedge between Trump and his MAGA base",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlRWWm04U29yNXRCTVVuU2tfVXY4dzJsX2h6TV9NRTgtSE1WLUlnbEF2UnJITG9pa0NIMUhtUHFhalZZUTlGc0ltTzZOSWhTQ2ZDX0JRSlpTSzZ0UFB6Y3dSWXFWVGpTdHRwLXJYOV9La2QwdHJqWV9KRTVIOFlISHJYMzQ3VnF3?oc=5",
+      "pub_date": 1763921138.0,
+      "article_url": "https://www.washingtonpost.com/technology/2025/11/23/trump-maga-division-tech-ai/",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI rivals like OpenAI, Nvidia, and Oracle are collaborating to build \u2018Stargate\u2019\u2014but a Yale expert says it violates 135 years of antitrust law",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdUFsNXBKczBrNDlfM29xcUw4QXJZOFFmaTNOOUxoR2tZa05xRFQ2VlR5c25mWVg3VU9LRmZ4VURHSUx5NFZCZVQtQWM4Z2FNLU5uWE1uYWV6VkhlYWFzY3BLU2UxZzlMV09ZR1RMMU5vTHFPRzlxVXYzX1Ixd0lZMzk2WFZYZU1EWV9YR0JScVlFTVFtaTAwdDNnbE84aXZ3SFdfbDdQdEluSzBieEVqREE1WFZMN1JNQ1d1UlFsWjZ0YUd6X0xiYmM3VEZwUFVrSXUzT29yNDVCSHl0UTBSY2hybG1xejd1S3ZFdnVJV20zSXZQVXlOZXhJeF9BZw?oc=5",
-      "pub_date": 1763888400.0,
-      "article_url": "https://fortune.com/2025/11/23/ai-rivals-like-openai-nvidia-and-oracle-are-collaborating-to-build-stargate-but-a-yale-expert-says-it-violates-135-years-of-antitrust-law/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236546815.jpg?resize=1200,600",
-      "description": "Six AI leaders are uniting to form a single company. How is this possibly legal, asks Madhavi Singh of Yale\u2019s Thurman Arnold Project, an initiative dedicated to antitrust issues."
+      "headline": "White House pulls back on AI laws executive order",
+      "source": "Mashable",
+      "source_url": "https://mashable.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0MVViM0JteWZVWjBieVlRSXV4SGROQlo0RzFpeVZBY2djRWdyUXpjamhqN1V4OFYxdENpb0pTZWdMNW5oaEVEekxXS0Fna0VpektqaXNzcDlaNmh3LXFRUHp5S29TbWZWUXVCVnloU1ZBSGRoUzAzMnZUYmU?oc=5",
+      "pub_date": 1763925692.0,
+      "article_url": "https://mashable.com/article/white-house-donald-trump-ai-executive-order",
+      "image": "https://helios-i.mashable.com/imagery/articles/04LbJ7KabKpiWXfGj98yuIT/hero-image.fill.size_1200x675.v1763920444.jpg",
+      "description": "States can make their own AI laws, for now."
     },
     {
-      "headline": "Meet the AI workers who tell their friends and family to stay away from AI | Artificial intelligence (AI)",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZlZFQmRtc0RLZlBDaG1uR2p3Sk5CUVRlWVZJR1lXaW5iLUNqZkNrN0p6dUVvdjNnbU5vSjBRLTBHWi1Yd2JzYmZUSmJBdzYwRUJuRHNaQXFnTGRscWRYSkR4ZEx3QmVMbmZiS3ZTZ05VcGF5VjhtTnJLNjZPUlF0VnNlNXUtQzh4LTY4?oc=5",
-      "pub_date": 1763820000.0,
-      "article_url": "https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away",
-      "image": "https://i.guim.co.uk/img/media/2103be8be876262394e303cf374938ad30d7fcdc/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=508e507d9631c2cd6d0b1ca7040762e0",
-      "description": "When the people making AI seem trustworthy are the ones who trust it the least, it shows that incentives for speed are overtaking safety, experts say"
+      "headline": "Trump administration might not fight state AI regulations after all",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSl9VRndrR3RBZjFsTFNuLU11eVBWSnJyVkx1MjdSRGp2QzdPeFYwYzh4U1NzSERtVzhJZF82MUF4dDh4OEZXQkN1dUE1bExYemxhTTZXTUNXcnRIV215LVQ5cVJ0WG5kbGF5b1RWenRwWERPVUQ1RlRiUmFPdXQ3UVc0QlpYbHJBd1FCS1JETGlIRU0wX2JHY0tiMEktdzNiUDNFRw?oc=5",
+      "pub_date": 1763850027.0,
+      "article_url": "https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227934246.jpg?w=1024",
+      "description": "A Trump administration order targeting state-level AI regulation is reportedly on hold."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T20:33:24.695054+00:00"
+  "fetched_at": "2025-11-23T21:24:19.725889+00:00"
 }
