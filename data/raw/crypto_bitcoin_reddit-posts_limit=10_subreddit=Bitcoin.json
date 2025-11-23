@@ -24,6 +24,17 @@
       "description": null
     },
     {
+      "title": "When they say \"It's over now\"",
+      "author": "latheefonchain",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p4nv0k/when_they_say_its_over_now/",
+      "published": 1763907613.0,
+      "thumbnail": "https://preview.redd.it/92f0ki6ym03g1.jpeg?width=640&crop=smart&auto=webp&s=70cb611b1b64549654a7dd7b53cda9038b56d1b7",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "JUST IN: $11 billion in short positions to be liquidated if $BTC rallies to $101,000",
       "author": "DisastrousBluejay398",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p4n2cv/just_in_11_billion_in_short_positions_to_be/",
@@ -51,17 +62,6 @@
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p4bet1/my_reaction_to_btc_hitting_86k_today/",
       "published": 1763865570.0,
       "thumbnail": "https://preview.redd.it/fizjesox5x2g1.gif?width=216&crop=smart&s=73e8b51adddb203e96db1b774f3de6df4a5767f2",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "When they say \"It's over now\"",
-      "author": "latheefonchain",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p4nv0k/when_they_say_its_over_now/",
-      "published": 1763907613.0,
-      "thumbnail": "https://preview.redd.it/92f0ki6ym03g1.jpeg?width=640&crop=smart&auto=webp&s=70cb611b1b64549654a7dd7b53cda9038b56d1b7",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-23T17:58:53.171752+00:00"
+  "fetched_at": "2025-11-23T18:36:31.716689+00:00"
 }

@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Analyst warns Bitcoin could drop to $10K, as price crashes to $86K",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTVZrakZ4eFUteXF4ekNEX2JqMnUzMUNIUFJxQmRhM0ZPa0ZQczQ0b3BQbngwNFZhS1FMTlNGVWZiNFZGVHVEWlBsd1dsc0dKQmVTbzFKQUI1WjZtZmJvb1dVUmk3cTBkMDVCZVk0V3JxY294NjFvZjhBUHkzREgwU3Rsd2Y?oc=5",
-      "pub_date": 1763669507.0,
-      "article_url": "https://finance.yahoo.com/news/analyst-warns-bitcoin-could-drop-201147164.html",
-      "image": "https://media.zenfs.com/en/thestreet_881/7f2f2f6f1b5e3914e4795503f733a004",
-      "description": "Bitcoin extended its November slump on Nov. 20, briefly dipping below $88,000. According to CoinGecko data, Bitcoin traded around $87,319 intraday, down about 4% over the past 24 hours and nearly 13% on the week, after falling from highs above $103,000 just days ago. 'Big Short\u2019 Michael Burry ..."
+      "headline": "Why bitcoin\u2019s brutal drop from an October record high is now a crucial barometer for the broader market",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOLVV5VmpvZE5FNEFGWGQ1bnZOZnBRMnR1R08tcGFid3NQV21tOUVGZ0JrdUJwVHJsdFdsbVhubTNmSVplNWpnY3lVbVJIUkt4NDBCc2JnZHBvNlAzSkRfQWpCWktlTUFnYXFGZFloNEZmSl9PRmppVkpsenBnWDFCLVVuaG5ma1N3SHJSTUJCa3JWWFNoU0liYkpLclZxdkRhTXpUWUNWRVFsYVJ6RkRlUmJ5UE04Q2NkRnFoVG9HSGhPM0ZCNWc1U3FtdUxBVUJmTzhReFBwOTd2MzFuekxhUktKQ1lvZXRWNmdJWnRQdmh0bzlVWkEtUURRbW5XS1VPT2tpZHdYeFRfWDloemRONHVoV2hSblgxVWt3OUsxSFI4Q2pxT2xkazA2NFpZaVhIWWlFcmJiUGNhQ2Y0MWt2WWFTMU8wUThKNnBXeDJFdVBLZmg4ZDVGbHdnTWRiMWthYnpEaHdVYzFGOC1VU24xSmZ2dm1PTWZXeDdZMlhMN2pZN2ZURmEyVUZlYktfWW9VMnpzMy1WTkVoWHdaX19xVXR1TmM4VVN0cmdTWWJLaVZuRFgwTjZhLWpNWkgyRGttT0VKeHUtVDNtYXdwQ2M4bDFYWHJ0RWtHRVNYdkg4aWJ4UzQ?oc=5",
+      "pub_date": 1763818860.0,
+      "article_url": "https://www.marketwatch.com/story/why-bitcoins-brutal-drop-from-an-october-record-high-is-now-a-crucial-barometer-for-the-broader-market-6193e69a?gaa_at=eafs&gaa_n=AWEtsqc0OeYcG5U33BYs4_UN-_XoazEh8uZ9G3Akj7DWAHDj6m98tUg4Qkop&gaa_ts=692357b3&gaa_sig=7vLyZxe_4EY1GOHGbDRAQTCOVAZbS0i3qBNX-aS9u9nNANw-GRr_KE_FETCrECALhesIPmeCtLVAGOg4Ht9zLQ%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
@@ -25,6 +25,16 @@
       "description": "Bitcoin and Ethereum have impressive track records and sky-high future price targets."
     },
     {
+      "headline": "What Is a Layer-1 Blockchain? The Base Layer Powering Bitcoin and Crypto",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR3d5UlJEanV0ckoyVlZ5eTRyaW9VWUxYTTdDWEV0S09PTWxnc3lDZFdKRUYwX2ZPcVhOMnp4dzZZUEJiS3BaSE1rTDNoZUxoa3UxcTNJODhvS0VmeVA3NUhEZWNfYlFxTmVTekh5cl9iQ2ZRX0ZabjVBWjdvdENBZkJCVXNJV2lGN2c4QjFuYURtOW9O0gGcAUFVX3lxTE5sSG03WmFDMm04dmx0dTlLdmo1RUJhMUNLazJ2RzN2cUlKZ1pKQWNYeG1JLTUyZkRmbW9FaWExcDRHbDRyZ0ppTDFmVWc3MFFoMzQ2U1VwdXh1Y29CSFBsdTBGTVZKcERickUxSEdLOG1BYjFmWDdKTjFCLUdoSTNmSVpscGNfMGdtbXphMDA3elJJZU1zVy1hZjdRVg?oc=5",
+      "pub_date": 1763920056.0,
+      "article_url": "https://decrypt.co/resources/what-is-layer-1-blockchain-base-layer-powering-bitcoin-crypto",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/03/BLOCKCHAIN-copy-gID_7-pID_5.png",
+      "description": "Layer-1 blockchains are the base networks that secure and record every crypto transaction, powering Bitcoin, Ethereum, and beyond."
+    },
+    {
       "headline": "VanEck CEO Concerned About Bitcoin's Encryption and Privacy, Says Firm Could Walk Away",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -33,16 +43,6 @@
       "article_url": "https://www.coindesk.com/markets/2025/11/23/vaneck-ceo-concerned-about-bitcoin-s-encryption-and-privacy-says-firm-could-walk-away",
       "image": "https://cdn.sanity.io/images/s3y3vcno/production/ed442dd3e6f0386354a2bbfb6b164960ce56422f-1500x1000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
       "description": "VanEck CEO questions Bitcoin\u2019s encryption and privacy design as Zcash interest rises."
-    },
-    {
-      "headline": "Where Will Bitcoin Be in 1 Year?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2dmRIbnVjNmNCMkJfX3k2MW1EbFc2NTFHWmlwUmxxWFoxR053Z2VMZkhJcHU0cTZ0N3NlSnQxcGlHSUdKazBiaWRlNUFSZE45RWw4UDVsR01wbVI5b0tRWFZfWVF2Qkd2c09yeF9iUFdfeV96d202UUtTYkZXUEE?oc=5",
-      "pub_date": 1763910600.0,
-      "article_url": "https://www.fool.com/investing/2025/11/23/where-will-bitcoin-be-in-1-year/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843554%2Fgettyimages-1318918012-1200x800-5b2df79.jpg&w=1200&op=resize",
-      "description": "Uncertainty in the economy could cause Bitcoin's value to be choppy over the next year."
     },
     {
       "headline": "Permabull Tom Lee Sees Bitcoin as High as $200,000 by January\u2019s End",
@@ -55,14 +55,24 @@
       "description": "The always optimistic co-founder of Fundstrat Global Advisors believes in the long-term power of retail investors."
     },
     {
-      "headline": "MSTR Stock: Strategy May Have To Cough Up $1 Bil In 2027 As Bitcoin Slides",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUXp3RUc3MnloVzJvZjAxOGNaMWxlcU1od1FJbzI3dHRYQnUybDQydjNtM1BTNVBFSm81Si1qZnlvUEZadEVtS2tIeE5qOWx0V2NyOWp4TmxiVjBIQmxXVjZ3Wk5COWNndGhzdTIzMW9Oa0VyaVNjcFB6bFBqd1ZBdHNQUzFWTjN5ejBRQVVrWHIxNjlXd3NwOQ?oc=5",
-      "pub_date": 1763759100.0,
-      "article_url": "https://www.investors.com/news/mstr-stock-strategy-convertible-debt-put-option-bitcoin-price/",
-      "image": "https://www.investors.com/wp-content/uploads/2025/11/Stock-strategy-BitcoinMrkt-adobe.jpg",
-      "description": "MSTR stock sank further on Friday, raising risk that the big bitcoin buyer will have to pay $1 billion to bondholders in 2027."
+      "headline": "Where Will Bitcoin Be in 1 Year?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2dmRIbnVjNmNCMkJfX3k2MW1EbFc2NTFHWmlwUmxxWFoxR053Z2VMZkhJcHU0cTZ0N3NlSnQxcGlHSUdKazBiaWRlNUFSZE45RWw4UDVsR01wbVI5b0tRWFZfWVF2Qkd2c09yeF9iUFdfeV96d202UUtTYkZXUEE?oc=5",
+      "pub_date": 1763910600.0,
+      "article_url": "https://www.fool.com/investing/2025/11/23/where-will-bitcoin-be-in-1-year/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843554%2Fgettyimages-1318918012-1200x800-5b2df79.jpg&w=1200&op=resize",
+      "description": "Uncertainty in the economy could cause Bitcoin's value to be choppy over the next year."
+    },
+    {
+      "headline": "Michael Saylor responds to JPMorgan\u2019s MSCI delisting warning",
+      "source": "TheStreet",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTTJJb2ptMm1RZ0Rrdm1fZUJYclJnSkJxalE5d0lMbHg1NlpONkdPd2dySXA4eGJYUXJveTdkZDlXV0tFSXFBbkN1ZFlIcFhSTy1VZUZRalBQSGxmOThCVFBGVi1FbUZ4bGtGaEdvbEljR1p2M0RfYnNrT1M0OGtHWGVLMHU3bmprdm9zX0czamI2NnZHR2VHYWFVYk5WWEgtVlE?oc=5",
+      "pub_date": 1763737549.0,
+      "article_url": "https://www.thestreet.com/crypto/markets/michael-saylor-responds-to-jpmorgans-msci-delisting-warning",
+      "image": null,
+      "description": null
     },
     {
       "headline": "What Will Happen To Microstrategy If Bitcoin Falls Under $74,000?",
@@ -85,16 +95,6 @@
       "description": "Michael Saylor picked four words to sum up his position as Bitcoin goes through one of the most brutal market crashes of the cycle: \"I Won't Back Down.\" It does not seem like another meme from the guy who turned a corporate treasury strategy into a unilateral Bitcoin bet, as the context makes the m\u2026"
     },
     {
-      "headline": "More Ready Than Bitcoin? How Zcash Developers Are Preparing for the Quantum Threat",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWFNsY05LQmlpWnp1dThkZjNIU3huLTdzS05RWGRQc2Fqd0NqSDBLajhINTZXTmlNTF83WVhTTmJBR3JyYm00YjZWaEFVUlRwWFJXMGpZcHdDaUJRUVg2Rm1DWjVpbnRtYlJiQWZSNW9EcUlSRlRCNklHMkczRHBUbkxWcVVVMkJYeHoyLVZqN1YtZmYt0gGcAUFVX3lxTE5LUjdmUURaWlJTX2JHUHlVUjBGREkzcE1BVVQzOVNGNE16cjlLQWY0OWNTVXZXcG5FLWFmMThWV2JGbGhURUZzcU90a0U4UnV5LWowRUo1Y3Nac0UtWVVqeHdSbWhoZWJZbUdaSWpCM3RTTFR2aHJCZmk0SzczQXlNWTlibU4wWlVidVdLeVg1NUpWdFAyczkydU80Rw?oc=5",
-      "pub_date": 1763910062.0,
-      "article_url": "https://decrypt.co/349642/more-ready-bitcoin-how-zcash-developers-preparing-quantum-threat",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/zcash-gID_7.jpg",
-      "description": "Quantum computers could threaten much more than just Bitcoin, but developers behind the surging Zcash say they aren't panicking. Here's why."
-    },
-    {
       "headline": "Waterboarding, sexual assault, disguises: Details of terrifying $2M B.C. bitcoin hostage-taking revealed",
       "source": "CBC",
       "source_url": "https://www.cbc.ca",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T17:59:09.754627+00:00"
+  "fetched_at": "2025-11-23T18:36:52.103196+00:00"
 }

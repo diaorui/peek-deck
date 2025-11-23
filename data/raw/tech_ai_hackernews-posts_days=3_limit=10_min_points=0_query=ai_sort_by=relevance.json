@@ -9,7 +9,7 @@
       "url": "https://allenai.org/blog/olmo3",
       "hn_url": "https://news.ycombinator.com/item?id=46001889",
       "author": "mseri",
-      "points": 383,
+      "points": 384,
       "num_comments": 124,
       "created_at": "2025-11-21T06:50:14Z",
       "object_id": "46001889",
@@ -31,6 +31,20 @@
       "description": "A BSD-based OS project that aims to provide source and binary compatibility with macOS\u00ae and a similar user experience. - ravynsoft/ravynos",
       "favicon": "https://github.githubassets.com/favicons/favicon.png",
       "site_name": "GitHub"
+    },
+    {
+      "title": "73% of AI startups are just prompt engineering",
+      "url": "https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab0d3",
+      "hn_url": "https://news.ycombinator.com/item?id=46024644",
+      "author": "kllrnohj",
+      "points": 179,
+      "num_comments": 135,
+      "created_at": "2025-11-23T16:17:57Z",
+      "object_id": "46024644",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "pub.towardsai.net"
     },
     {
       "title": "Boom, bubble, bust, boom. Why should AI be different?",
@@ -61,20 +75,6 @@
       "site_name": "astralcodexten.com"
     },
     {
-      "title": "73% of AI startups are just prompt engineering",
-      "url": "https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab0d3",
-      "hn_url": "https://news.ycombinator.com/item?id=46024644",
-      "author": "kllrnohj",
-      "points": 125,
-      "num_comments": 99,
-      "created_at": "2025-11-23T16:17:57Z",
-      "object_id": "46024644",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "pub.towardsai.net"
-    },
-    {
       "title": "Gmail can read your emails and attachments to train its AI, unless you opt out",
       "url": "https://www.malwarebytes.com/blog/news/2025/11/gmail-is-reading-your-emails-and-attachments-to-train-its-ai-unless-you-turn-it-off",
       "hn_url": "https://news.ycombinator.com/item?id=45998531",
@@ -94,7 +94,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46020096",
       "author": "nerder92",
       "points": 78,
-      "num_comments": 56,
+      "num_comments": 57,
       "created_at": "2025-11-23T02:08:00Z",
       "object_id": "46020096",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -107,8 +107,8 @@
       "url": "https://vibescaffold.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=46018229",
       "author": "straydusk",
-      "points": 60,
-      "num_comments": 32,
+      "points": 61,
+      "num_comments": 33,
       "created_at": "2025-11-22T21:02:34Z",
       "object_id": "46018229",
       "image": null,
@@ -145,7 +145,7 @@
       "site_name": "The American Prospect"
     }
   ],
-  "total_hits": 402,
+  "total_hits": 401,
   "has_metadata": true,
-  "fetched_at": "2025-11-23T17:58:51.704870+00:00"
+  "fetched_at": "2025-11-23T18:36:30.117470+00:00"
 }

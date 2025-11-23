@@ -35,16 +35,6 @@
       "description": "Bitcoin and Ethereum have impressive track records and sky-high future price targets."
     },
     {
-      "headline": "BitMine Ramps up Ethereum Buying With New $60 Million Purchase",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGtvMlQzTnJTUkFzRjhwdGF4VzVKQXlnVTA5TnNEd0hBLThMVTRJcFZWMHZUY0RGRWhIRVJuSUpIMHRPVFI5U3lVZEgwSk9iOEpwYVRmRzRaMVBwQmE2dm0yeXJXTm1zWG9qcEY0V1dTM1dFOEFUU1NUbWM2OEZRYWJPc1k?oc=5",
-      "pub_date": 1763916342.0,
-      "article_url": "https://finance.yahoo.com/news/bitmine-ramps-ethereum-buying-60-164542812.html",
-      "image": "https://media.zenfs.com/en/beincrypto_us_662/5d587a545397e26a7c563d359f21a93d",
-      "description": "BitMine has continued to accumulate large amounts of Ethereum, adding $60 million worth of ETH despite the market downturn."
-    },
-    {
       "headline": "\ud83d\udea8 BREAKING: SWIFT Chooses Ethereum Layer-2 #Linea Over XRP for 2025 Cross-Border Payment Pilot In",
       "source": "Binance",
       "source_url": "https://www.binance.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.tradingview.com/news/newsbtc:67e1666b9094b:0-on-chain-metric-tips-ethereum-to-form-price-bottom-below-2-000-here-s-why/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "Ethereum has been a major victim of the ongoing crypto market onslaught, recording a 27.63% loss in the last month alone. The largest altcoin now trades around $2,800, representing a significant fall from the local cycle peak around $4,800. As prices continue to tumble with each new drop triggering\u2026"
+    },
+    {
+      "headline": "Bitcoin, Ethereum and XRP Dive as Rate Cut Hopes Fade, Liquidations Near $1 Billion",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMExsdzkwWmRvR19sM3ZZX2h2aDVyRzNUNHI0ZHhIc2YxWm5BakMwUmFwc2ZlbXdxbjZxbXVnNDRJX1B1WHFpOXpSazFjZWRmRV9EdGxBR3VLeXpmMTU2eVplZkVldEtIUGFkaGtyNnFtZnZDZ2lKLVZ0VmY4a0JCTmlnMUxkbk0yeWU3NUlMWENnVDdKMi04YnliRTA2M2ZK0gGoAUFVX3lxTE5Fb09KdktpZF9iRHhZRThKdC1SSmo4eFhoOENPMjdPQkZxZGZPeDZ5ZU1GX2N5S1IxdUlWa2kyX2VfZG1nNkh5RmZXc2drMVlEVDZRYmRxakxNRm5ZODh5TkducUNob2FUREE1UFpzYVMzN3NJNFRPdWIwVkRWcUJFdnJVTXRUMUJnZ0JvTm94VWd0UzdSWnFQLWIzMVRqYjI1ZlNKWnkyZQ?oc=5",
+      "pub_date": 1763660480.0,
+      "article_url": "https://decrypt.co/349404/bitcoin-ethereum-xrp-dive-rate-cut-hopes-fade-liquidations-near-1-billion",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
+      "description": "Bitcoin is being battered again Thursday, falling below the $87,000 mark for the first time in seven months as liquidations top $900 million."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T17:59:14.900294+00:00"
+  "fetched_at": "2025-11-23T18:36:47.788260+00:00"
 }
