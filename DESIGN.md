@@ -971,7 +971,7 @@ Many widgets use a horizontal carousel layout for browsing content (news, papers
 **10. Responsive image containers with aspect-ratio**
 - Use CSS `aspect-ratio` property, not fixed heights
 - Maintains correct proportions across all screen sizes
-- Standard ratios: 2:1 for most platforms (GitHub, Reddit, HackerNews, Google News, ProductHunt), 1.85:1 for HuggingFace
+- Standard ratios: 2:1 for most platforms (GitHub, Reddit, HackerNews, Google News), 1.85:1 for HuggingFace
 - Same aspect ratio on desktop and mobile - only override `background-size` when needed
 - Desktop: `background-size: contain` for GitHub (no cropping), `cover` for others (fills space)
 - Mobile: Can switch to `contain` (e.g., HuggingFace) to prevent cropping on small screens
@@ -1787,18 +1787,16 @@ Beyond crypto, the same architecture works for many **publicly interesting** mon
 
 **Pages:**
 - `hacker-news.yaml` - HackerNews top stories
-- `product-hunt.yaml` - ProductHunt trending products
 - `ai-news.yaml` - AI/ML developments
 
 **Widgets:**
 - `hackernews-top` - Top 10 HackerNews posts with scores
-- `producthunt-trending` - Today's top products
 - `github-trending` - Trending repos (by language)
 - `tech-releases` - Latest releases (frameworks, tools)
 - `news` - Tech news from major outlets (reuse generic widget)
 - `reddit` - r/programming, r/technews (reuse generic widget)
 
-**Data source:** HackerNews API (free), ProductHunt API (free), GitHub API (free)
+**Data source:** HackerNews API (free), GitHub API (free)
 
 **Why public-facing:** Everyone interested in tech wants to see what's trending, not just personal projects.
 
