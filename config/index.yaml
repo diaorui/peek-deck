@@ -3,6 +3,9 @@
 # Base URL for deployment (required for canonical URLs, sitemap, Open Graph)
 base_url: "https://peekdeck.ruidiao.dev"
 
+# GitHub repository URL (displayed in page footer)
+github_url: "https://github.com/diaorui/peek-deck"
+
 # Optional: Custom SEO metadata for index page
 # If not provided, will auto-generate from pages
 seo:
