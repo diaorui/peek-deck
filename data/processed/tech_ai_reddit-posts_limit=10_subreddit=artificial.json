@@ -57,17 +57,6 @@
       "description": null
     },
     {
-      "title": "The Godmother of AI Didn\u2019t Expect It to Be This Massive",
-      "author": "bloomberg",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4k7if/the_godmother_of_ai_didnt_expect_it_to_be_this/",
-      "published": 1763896351.0,
-      "thumbnail": "https://external-preview.redd.it/mO2cLerTOL75cZ-PRY7L_vwFiHd7axVBXzMQ1C7artM.jpeg?width=640&crop=smart&auto=webp&s=78976ef7153d36686ac2396b40349f07847c0a21",
-      "external_url": "https://www.bloomberg.com/features/2025-fei-fei-li-weekend-interview/",
-      "site_name": "Bloomberg.com",
-      "favicon": "https://www.bloomberg.com/favicon-black.png",
-      "description": "Stanford scientist Fei-Fei Li talks about teaching machines to see as humans do, the US-China AI arms race, and what worries her about a more automated future."
-    },
-    {
       "title": "If you had to explain to a superintelligent AI why humanity should continue to exist, what would you say?",
       "author": "Soggy-Ad9006",
       "url": "https://www.reddit.com/r/artificial/comments/1p3ywis/if_you_had_to_explain_to_a_superintelligent_ai/",
@@ -110,7 +99,18 @@
       "site_name": "ai.studio",
       "favicon": "https://ai.studio/favicon.ico",
       "description": "Took me less than one day I am completely blown away by what a massive upgrade this was despite anybody saying otherwise"
+    },
+    {
+      "title": "Nvidia CEO says AI will actually make everyone a lot busier: 'Everybody's jobs will be different' | Fortune",
+      "author": "fortune",
+      "url": "https://www.reddit.com/r/artificial/comments/1p3d1xu/nvidia_ceo_says_ai_will_actually_make_everyone_a/",
+      "published": 1763765704.0,
+      "thumbnail": "https://external-preview.redd.it/GmTAuuENFuuC2xI0HHOFHIPhhizioDBa9zmNTQJVrX4.jpeg?width=640&crop=smart&auto=webp&s=917d8a236b29d930fa8c8b82a32b9d7c7dfc2ac2",
+      "external_url": "https://fortune.com/2025/11/21/nvidia-jensen-huang-ai-jobs-growth-elon-musk-entry-level-workers/",
+      "site_name": "Fortune",
+      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
+      "description": "\u201cI would say that there's every evidence that we will be more productive and yet still be busier because we have so many ideas,\u201d Jensen Huang said."
     }
   ],
-  "fetched_at": "2025-11-23T11:56:10.777190+00:00"
+  "fetched_at": "2025-11-23T12:41:31.729166+00:00"
 }
