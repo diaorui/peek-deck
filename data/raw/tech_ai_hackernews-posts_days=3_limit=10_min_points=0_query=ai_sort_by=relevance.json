@@ -23,8 +23,8 @@
       "url": "https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab0d3",
       "hn_url": "https://news.ycombinator.com/item?id=46024644",
       "author": "kllrnohj",
-      "points": 214,
-      "num_comments": 175,
+      "points": 216,
+      "num_comments": 179,
       "created_at": "2025-11-23T16:17:57Z",
       "object_id": "46024644",
       "image": null,
@@ -65,28 +65,14 @@
       "url": "https://mathstodon.xyz/@tao/115591487350860999",
       "hn_url": "https://news.ycombinator.com/item?id=46017972",
       "author": "dwohnitmok",
-      "points": 119,
-      "num_comments": 11,
+      "points": 134,
+      "num_comments": 15,
       "created_at": "2025-11-22T20:27:41Z",
       "object_id": "46017972",
       "image": null,
       "description": "Over at the Erdos problem website, AI assistance is now becoming routine.  Here is what happened recently regarding Erdos problem #367 https://www.erdosproblems.com/367 :\n\n1.  On Nov 20, Wouter van Doorn produced a (human-generated) disproof of the second part of this problem, contingent on a congruence identity that he thought was true, and was \"sure someoneone here is able to verify... does indeed hold\".\n\n2.  A few hours later, I posed this problem to Gemini Deepthink, which (after about ten minutes) produced a complete proof of the identity (and confirmed the entire argument): https://gemini.google.com/share/81a65aecfd70 .  The argument used some p-adic algebraic number theory which was overkill for this problem.  I then spent about half an hour converting the proof by hand into a more elementary proof, which I presented on the site.  I then remarked that the resulting proof should be within range of \"vibe formalizing\" in Lean.\n\n3.  Two days later, Boris Alexeev used the Aristotle tool from Harmonic to complete the Lean formalization, making sure to formalize the final statement by hand to guard against AI exploits.  This process took two to three hours, and the output can be found at https://borisalexeev.com/t/Erdos367.lean\n\nEDIT: after making this post, I decided to round things out by making AI literature searches on this problem, which (after about fifteen minutes) turned up some related literature on consecutive powerful numbers, but nothing directly relating to #367.  https://chatgpt.com/share/6921427d-9dc0-800e-b798-be8fc94a9240 https://gemini.google.com/share/0d296454bea0",
       "favicon": "https://mathstodon.xyz/packs/assets/apple-touch-icon-57x57-BsPGHSez.png",
       "site_name": "Mathstodon"
-    },
-    {
-      "title": "Gmail can read your emails and attachments to train its AI, unless you opt out",
-      "url": "https://www.malwarebytes.com/blog/news/2025/11/gmail-is-reading-your-emails-and-attachments-to-train-its-ai-unless-you-turn-it-off",
-      "hn_url": "https://news.ycombinator.com/item?id=45998531",
-      "author": "taubek",
-      "points": 110,
-      "num_comments": 57,
-      "created_at": "2025-11-20T22:10:23Z",
-      "object_id": "45998531",
-      "image": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2024/10/Gmail_logo.jpg",
-      "description": "Did you know that Gmail can use your emails and attachments for its smart features? Here's how to check your settings.",
-      "favicon": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2025/01/malwarebytes-favicon-apple-touch-icon.png?w=180",
-      "site_name": "Malwarebytes"
     },
     {
       "title": "An Economy of AI Agents",
@@ -143,9 +129,23 @@
       "description": "Mustafa Suleyman had his mind blown by the community's negative reaction to Microsoft's \"agentic OS\" comments.",
       "favicon": "https://cdn.80.lv/static/images/favicons/80lv/apple-touch-icon.png",
       "site_name": "80.lv"
+    },
+    {
+      "title": "Microsoft's head of AI doesn't understand why people don't like AI",
+      "url": "https://www.pcgamer.com/software/ai/microsofts-head-of-ai-doesnt-understand-why-people-dont-like-ai-and-i-dont-understand-why-he-doesnt-understand-because-its-pretty-obvious/",
+      "hn_url": "https://news.ycombinator.com/item?id=46012119",
+      "author": "evo_9",
+      "points": 39,
+      "num_comments": 20,
+      "created_at": "2025-11-22T04:33:34Z",
+      "object_id": "46012119",
+      "image": "https://cdn.mos.cms.futurecdn.net/2pxA6yzTEP9ooyoySNGwJh-1920-80.jpg",
+      "description": "Is it really \"mindblowing\" that people are skeptical of software that consistently doesn't do the things we're told it can do?",
+      "favicon": "https://vanilla.futurecdn.net/pcgamer/1477279/apple-touch-icon.png",
+      "site_name": "PC Gamer"
     }
   ],
-  "total_hits": 394,
+  "total_hits": 386,
   "has_metadata": true,
-  "fetched_at": "2025-11-23T21:59:57.786074+00:00"
+  "fetched_at": "2025-11-23T22:43:40.820477+00:00"
 }

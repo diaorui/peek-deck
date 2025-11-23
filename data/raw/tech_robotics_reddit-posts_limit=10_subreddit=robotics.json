@@ -112,5 +112,5 @@
       "description": "Aloha Mini is a dual-arm mobile robot with a motorized vertical lift designed to make real-world mobile manipulation and embodied AI research accessible. The robot is fully 3D-printable and can be assembled in ~60 minutes. Technical highlights: \u2022 Dual-arm control with LeRobot teleoperation + imitation learning \u2022 Fully 3D-printed arm and lift mechanism \u2022 Omni-directional mobile base \u2022 Multi-task demos: sock picking, table wiping, fridge opening, toilet scrubbing \u2022 Designed to lower the barrier of entry to real robotics \u2022 Material cost around $600 when self-printed GitHub Open-Source Code & Files: https://github.com/liyiteng/AlohaMini"
     }
   ],
-  "fetched_at": "2025-11-23T22:00:02.079872+00:00"
+  "fetched_at": "2025-11-23T22:43:44.198714+00:00"
 }

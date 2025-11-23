@@ -24,6 +24,17 @@
       "description": "AI could create a generation further burdened with student loan debt\u2014and no job to repay it, according to Sen. Mark Warner."
     },
     {
+      "title": "Anyone here using AI as a coding partner?",
+      "author": "Doug24",
+      "url": "https://www.reddit.com/r/artificial/comments/1p4ya9u/anyone_here_using_ai_as_a_coding_partner/",
+      "published": 1763932753.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I tried building a small Python project recently with AI help, and it made the whole thing way less intimidating. Now I\u2019m trying to figure out which AI coding assistant is actually worth sticking with. Claude is great at explaining concepts, GPT feels better at reasoning through tricky logic, and I\u2019ve seen Sweep AI pop up for people who want project-level help directly inside JetBrains instead of switching back and forth with chat. Which model or tool gave you the best balance between learning, accuracy, and speed? And do you feel like it improved your actual understanding of coding over time?"
+    },
+    {
       "title": "Joining Valve's Gabe Newell at the altar of AI, Ubisoft CEO Yves Guillemot says the controversial tech will be \"as big a revolution for our industry as the shift to 3D\" | Ubisoft is using generative AI \"in all our studios and offices\"",
       "author": "ControlCAD",
       "url": "https://www.reddit.com/r/artificial/comments/1p4r8pw/joining_valves_gabe_newell_at_the_altar_of_ai/",
@@ -68,6 +79,17 @@
       "description": "Elon Musk vs Star Wars Droids"
     },
     {
+      "title": "One Final Post for the Day",
+      "author": "Agent101x",
+      "url": "https://www.reddit.com/r/artificial/comments/1p505sq/one_final_post_for_the_day/",
+      "published": 1763937371.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'd like to introduce you to some friends of mine. Some work in film. (Action required: Go to the movies in the theater) Some work in art. (Action required: Go to museums) Some work in the valley. (Action required: partner where you can) Some work magic. (Keep shining) Some score one goal in their whole life. (Captain #6) It's worth living & thriving. (Your roommate can be the best person you've ever met) Miss you, BaaBaa. (Vroom Vroom)"
+    },
+    {
       "title": "Insurers retreat from AI cover as risk of multibillion-dollar claims mounts",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1p4o8k5/insurers_retreat_from_ai_cover_as_risk_of/",
@@ -88,29 +110,7 @@
       "site_name": "bloomberg.com",
       "favicon": null,
       "description": "A judge said artificial intelligence would upend Google\u2019s dominance, but two new books argue that monopolies rarely fix themselves."
-    },
-    {
-      "title": "Anyone here using AI as a coding partner?",
-      "author": "Doug24",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4ya9u/anyone_here_using_ai_as_a_coding_partner/",
-      "published": 1763932753.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I tried building a small Python project recently with AI help, and it made the whole thing way less intimidating. Now I\u2019m trying to figure out which AI coding assistant is actually worth sticking with. Claude is great at explaining concepts, GPT feels better at reasoning through tricky logic, and I\u2019ve seen Sweep AI pop up for people who want project-level help directly inside JetBrains instead of switching back and forth with chat. Which model or tool gave you the best balance between learning, accuracy, and speed? And do you feel like it improved your actual understanding of coding over time?"
-    },
-    {
-      "title": "Image AI Can Compress Knowledge \u2013 and Change How You Learn",
-      "author": "DarknStormyKnight",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4xtnp/image_ai_can_compress_knowledge_and_change_how/",
-      "published": 1763931631.0,
-      "thumbnail": "https://external-preview.redd.it/bIf1nkVawZkY1z2NPcC74pwOxuS0SE9oieuA4zlngzg.jpeg?width=640&crop=smart&auto=webp&s=7d4c50e9068ef182556748c0a190e1464c3f7c19",
-      "external_url": "https://upwarddynamism.wpcomstaging.com/ai-use-cases-prompts/image-ai-info-compression-engine/",
-      "site_name": "Upward Dynamism | Learn AI for Work & Life",
-      "favicon": "https://i0.wp.com/upwarddynamism.com/wp-content/uploads/2025/05/upward-dynamism_john_ai-literacy_blog_main-logo-emblem-e1747509591408.webp?fit=180%2C180&ssl=1",
-      "description": "Modern image AI like Nano Banana Pro now handles text cleanly enough to compress dense content into infographics. I'll show you the real use cases."
     }
   ],
-  "fetched_at": "2025-11-23T21:59:57.818107+00:00"
+  "fetched_at": "2025-11-23T22:43:39.880247+00:00"
 }
