@@ -25,26 +25,6 @@
       "description": "These two leading blockchains are very different in their ambitions."
     },
     {
-      "headline": "BitMine Shares Tumble After Earnings as Ethereum Price Falls, Treasury Hype Fades",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZWlZZDVyZTNveUx3WFlIQmxaZ0Nsbi12OXNNLTBzWFJ5cVFXbWwxNlJ0SC0tRWUtM0ZuYl91dlZ2LTE3b05FQS1BMTVLZU45UFpfWkVBSkFXVjhNWHJNamRpUkhfMVh6S29jVFllWURLako3X014R25ZcXJlREFmWjM2ZkhGQjBaWllrbVkyRWZyUGY20gGcAUFVX3lxTE8zamhOd09aZGxyWF9uRU1taVdZMVZOZzNyc2RyWUtNc2VsbzdzQ1VidlRQNkVkVGNKU3FHREZUd25ZZVJRcDI2bjVFaFZyT0h6UWZKaTNVamEwYWs1NWJXNm50WlVYajluVFpQT0g0MGtXZEJER0pROS1VNjhCLUdZWE5lWDVNeFh2Mmw3OHVJS3YyMzJfcTZDQkJzMA?oc=5",
-      "pub_date": 1763743276.0,
-      "article_url": "https://decrypt.co/349563/bitmine-tumble-earnings-ethereum-price-falls-treasury-hype-fades",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg",
-      "description": "BitMine Immersion Technologies, the largest corporate Ethereum holder, reported $328 million in full-year income alongsideits first dividend."
-    },
-    {
-      "headline": "Ethereum News: Another Treasury Firm Sells Its ETH Amid Plunging Stock Price",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY04tbEtSbE56dVQzV18yUEIwRnJFaktDX1EycXgxODZJdy1FMHVmRDNCenhqOUx5M19WbEJ4TXFBN1k1RDh1OEhpdW1wYVhiV1ZnclV5U1VScTBZOE0zZzdZWXVYZmxfNUtNOTBEUF9tTTlvRHpCSVh1bWtFWTdCWkJZbEhBak03ajdrM3RtU05Gajk5NEJSRVExOUlrT1Q5UVRIT2t3NFRUUktRSVpId0g3WlUwOTNIUmc?oc=5",
-      "pub_date": 1763649708.0,
-      "article_url": "https://www.coindesk.com/business/2025/11/20/ether-treasury-firm-fg-nexus-unloads-nearly-11k-eth-to-fund-share-buyback",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9a4a26a4c3cf45b5df0337b58451232320de8b2e-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The move follows fellow ETH treasury ETHZilla selling $40 million of tokens to fund share buybacks."
-    },
-    {
       "headline": "Ethereum Cofounder Issues Stark BlackRock Warning That Could Spell Disaster For Bitcoin Amid Sudden Price Sell-Off",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -55,14 +35,34 @@
       "description": "Ethereum cofounder Vitalik Buterin has warned elliptic curve cryptography could break before the next U.S. presidential election in 2028..."
     },
     {
-      "headline": "BlackRock files Delaware name registration for iShares Staked Ethereum ETF",
+      "headline": "Ethereum (ETH) News: Tom Lee's BMNR Sitting on Major Losses",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOTMwNEpyNXljS0UtVjVHUE91ZnlBUnFmZktHalRMX0pFdmxqQWxaTF8zU0VoQ20zeHpEYmM5RVZwRmhpWkNJMXZtQkNybm5lTzRaTjVMVE14c09MdXBEa1VVZUZKNDd3OUNMU2JRRk5NbklmTW9fcmt4V2QtQlRCdERUemZ1aHFjSjYxSmNzV3NLWm5uOUE4eDk3SXc0WTNHeTRERTNIRFA0STR4S0FSOGpuNG1JQm1qc0VVYnN0UnB2SWdBMG94RzNBWWh4V0xaN003S0lEQ0UzOUhCdV9N?oc=5",
+      "pub_date": 1763748446.0,
+      "article_url": "https://www.coindesk.com/business/2025/11/21/bitmine-immersion-sitting-on-usd4b-unrealized-loss-on-ether-bet-as-analyst-warns-of-structural-issues",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/13c2f3d8f4a14835d564bac5cf5d5cdd106bdcfd-1919x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "BitMine could trap shareholders amid low staking yields, hefty embedded fees and vanishing NAV premium, 10x Research founder Markus Thielen warns."
+    },
+    {
+      "headline": "BitMine Shares Tumble After Earnings as Ethereum Price Falls, Treasury Hype Fades",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZWlZZDVyZTNveUx3WFlIQmxaZ0Nsbi12OXNNLTBzWFJ5cVFXbWwxNlJ0SC0tRWUtM0ZuYl91dlZ2LTE3b05FQS1BMTVLZU45UFpfWkVBSkFXVjhNWHJNamRpUkhfMVh6S29jVFllWURLako3X014R25ZcXJlREFmWjM2ZkhGQjBaWllrbVkyRWZyUGY20gGcAUFVX3lxTE8zamhOd09aZGxyWF9uRU1taVdZMVZOZzNyc2RyWUtNc2VsbzdzQ1VidlRQNkVkVGNKU3FHREZUd25ZZVJRcDI2bjVFaFZyT0h6UWZKaTNVamEwYWs1NWJXNm50WlVYajluVFpQT0g0MGtXZEJER0pROS1VNjhCLUdZWE5lWDVNeFh2Mmw3OHVJS3YyMzJfcTZDQkJzMA?oc=5",
+      "pub_date": 1763743276.0,
+      "article_url": "https://decrypt.co/349563/bitmine-tumble-earnings-ethereum-price-falls-treasury-hype-fades",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg",
+      "description": "BitMine Immersion Technologies, the largest corporate Ethereum holder, reported $328 million in full-year income alongsideits first dividend."
+    },
+    {
+      "headline": "Ethereum treasury FG Nexus, once eager to raise up to $5 billion, sells over 10,000 ETH to fund share buybacks",
       "source": "theblock.co",
       "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0x3U2J3Z1JoQ3VqS0JEMzlHRDJaQVlZOXFaSUR6dWZzME1VMHdDQUxjRm1HWmxOcGtYNzcyZlhrUUdSSXpmV3FzbVlGS29rMUJxNzlZMnNQZDl6LU9vaHZyOTFqN2lTaUVHaXlKSWkzR2RiU1JIc1c2ZG8zRGFwWlRITHBiREZBU3p0V0FUb2dBbVNKeWNjOUtfb0xuamk1bHFmZFFoYzZDUDBtV1NV0gG0AUFVX3lxTFA5Y2pheGJhMWR1RW5ibmpmM04zLXhpQ2N1bktKR3dtU1RMYmVMQnVCYXlwTVQweDhSMkhzekZvYzVDTllKS05RaEEta0ZMV3hTYzNaS3JoRGN4VlpLVGdmSmg2c3ViT01oQy1ZZmdPX1FILUtEMWFDVlFPdFkxNDZ6dlhKWTgxRi03MFpqUVBJeFoySEtPMVpHX3VtRUk0TVFtT0lxRlEwVVAxZ1lUWUp3NDdiSg?oc=5",
-      "pub_date": 1763594880.0,
-      "article_url": "https://www.theblock.co/post/379567/blackrock-files-delaware-name-registration-for-ishares-staked-ethereum-etf",
-      "image": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Blackrock-1200x675.jpg",
-      "description": "A Delaware name registration is one of the first public signals that a new exchange-traded fund is in the works."
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMDNtS1h1QVhTTTAyQTBNbS1jNmNiN2xfSHB3N2ZJWldEenBZT2pLTmVIRnREZGIyMEphWnNZcFQ3ZEsyY1BGcmozS3IwZlIzT2xKSlUzYVNBN201V1Y5Zm9YdkFBZHBLX25KVklFSmRCNWZVSmNwRmwxRG03ZzNWZFU3Z01qTWdfdk5lSGc1cWxBVU9idnhJSHQ2TkNqc03SAaQBQVVfeXFMTjdybmk4WmYybVRyU09uQjdvdUFEeHJPaUkwWDlxS085UjdMVkprNVdJa3VvLWR3NDFjMFRVUTVwVG83ZUFZdDF2enoxVHBTZ2pTMFp6d2VfZ3FHd3NjbVkzWDAxbURRaGlmU3VseWNmbjI3ckdHM200VVhXeEFCNGI5ZG1WaHZGMWdZei14S3pVREdFU05WZHI5S3FxUDVPRVJSMW4?oc=5",
+      "pub_date": 1763652236.0,
+      "article_url": "https://www.theblock.co/post/379721/ethereum-treasury-fg-nexus-sells-10000-eth-fund-share-buybacks",
+      "image": "https://www.tbstat.com/wp/uploads/2025/06/ethereum-eth-work-news-1200x675.jpg",
+      "description": "In August, FG Nexus filed paperwork with the SEC so it could potentially raise as much as $5 billion to buy Ethereum."
     },
     {
       "headline": "BlackRock deposits $348M in Bitcoin and $117M in Ethereum into Coinbase Prime",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T06:29:41.430497+00:00"
+  "fetched_at": "2025-11-23T07:11:56.924312+00:00"
 }

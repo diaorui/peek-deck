@@ -79,7 +79,7 @@
       "url": "https://www.malwarebytes.com/blog/news/2025/11/gmail-is-reading-your-emails-and-attachments-to-train-its-ai-unless-you-turn-it-off",
       "hn_url": "https://news.ycombinator.com/item?id=45998531",
       "author": "taubek",
-      "points": 109,
+      "points": 110,
       "num_comments": 57,
       "created_at": "2025-11-20T22:10:23Z",
       "object_id": "45998531",
@@ -103,12 +103,26 @@
       "site_name": "The American Prospect"
     },
     {
+      "title": "An Economy of AI Agents",
+      "url": "https://arxiv.org/abs/2509.01063",
+      "hn_url": "https://news.ycombinator.com/item?id=46020096",
+      "author": "nerder92",
+      "points": 48,
+      "num_comments": 21,
+      "created_at": "2025-11-23T02:08:00Z",
+      "object_id": "46020096",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "description": "In the coming decade, artificially intelligent agents with the ability to plan and execute complex tasks over long time horizons with little direct oversight from humans may be deployed across the economy. This chapter surveys recent developments and highlights open questions for economists around how AI agents might interact with humans and with each other, shape markets and organizations, and what institutions might be required for well-functioning markets.",
+      "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+      "site_name": "arXiv.org"
+    },
+    {
       "title": "Google tells employees it must double capacity every 6 months to meet AI demand",
       "url": "https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/",
       "hn_url": "https://news.ycombinator.com/item?id=46013463",
       "author": "cheshire_cat",
       "points": 47,
-      "num_comments": 29,
+      "num_comments": 30,
       "created_at": "2025-11-22T09:39:11Z",
       "object_id": "46013463",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/DLS_013-1152x648.jpg",
@@ -117,26 +131,12 @@
       "site_name": "Ars Technica"
     },
     {
-      "title": "Microsoft AI CEO Puzzled by People Being Unimpressed by AI",
-      "url": "https://80.lv/articles/microsoft-ai-ceo-puzzled-by-people-being-unimpressed-by-ai",
-      "hn_url": "https://news.ycombinator.com/item?id=46001727",
-      "author": "gehwartzen",
-      "points": 43,
-      "num_comments": 1,
-      "created_at": "2025-11-21T06:16:58Z",
-      "object_id": "46001727",
-      "image": "https://cdn.80.lv/api/upload/meta/45433/images/691ec33857eb7/contain_1200x630.jpg",
-      "description": "Mustafa Suleyman had his mind blown by the community's negative reaction to Microsoft's \"agentic OS\" comments.",
-      "favicon": "https://cdn.80.lv/static/images/favicons/80lv/apple-touch-icon.png",
-      "site_name": "80.lv"
-    },
-    {
       "title": "Show HN: I built a wizard to turn ideas into AI coding agent-ready specs",
       "url": "https://vibescaffold.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=46018229",
       "author": "straydusk",
-      "points": 42,
-      "num_comments": 26,
+      "points": 45,
+      "num_comments": 27,
       "created_at": "2025-11-22T21:02:34Z",
       "object_id": "46018229",
       "image": null,
@@ -147,5 +147,5 @@
   ],
   "total_hits": 433,
   "has_metadata": true,
-  "fetched_at": "2025-11-23T06:29:26.482449+00:00"
+  "fetched_at": "2025-11-23T07:11:39.231115+00:00"
 }
