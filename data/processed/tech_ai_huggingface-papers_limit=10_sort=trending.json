@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 54,
+      "upvotes": 55,
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
@@ -58,25 +58,6 @@
       "project_page": "https://depth-anything-3.github.io/"
     },
     {
-      "id": "2511.15586",
-      "title": "MHR: Momentum Human Rig",
-      "authors": "Aaron Ferguson, Ahmed A. A. Osman, Berta Bescos et al. (41 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "We present MHR, a parametric human body model that combines the decoupled skeleton/shape paradigm of ATLAS with a flexible, modern rig and pose corrective system inspired by the Momentum library. Our model enables expressive, anatomically plausible human animation, supporting non-linear pose correctives, and is designed for robust integration in AR/VR and graphics pipelines.",
-      "ai_summary": "MHR combines ATLAS's skeleton/shape paradigm with a modern rig to provide expressive, anatomically plausible human animation for AR/VR and graphics.",
-      "hf_url": "https://huggingface.co/papers/2511.15586",
-      "arxiv_url": "https://arxiv.org/abs/2511.15586",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.15586.png",
-      "upvotes": 12,
-      "num_comments": 1,
-      "published_at": "2025-11-19T11:18:02.000Z",
-      "github_repo": "https://github.com/facebookresearch/MHR",
-      "github_stars": 298,
-      "project_page": null
-    },
-    {
       "id": "2410.05779",
       "title": "LightRAG: Simple and Fast Retrieval-Augmented Generation",
       "authors": "Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)",
@@ -93,6 +74,25 @@
       "published_at": "2024-10-08T04:00:12.000Z",
       "github_repo": "https://github.com/hkuds/lightrag",
       "github_stars": 24104,
+      "project_page": null
+    },
+    {
+      "id": "2511.15586",
+      "title": "MHR: Momentum Human Rig",
+      "authors": "Aaron Ferguson, Ahmed A. A. Osman, Berta Bescos et al. (41 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "We present MHR, a parametric human body model that combines the decoupled skeleton/shape paradigm of ATLAS with a flexible, modern rig and pose corrective system inspired by the Momentum library. Our model enables expressive, anatomically plausible human animation, supporting non-linear pose correctives, and is designed for robust integration in AR/VR and graphics pipelines.",
+      "ai_summary": "MHR combines ATLAS's skeleton/shape paradigm with a modern rig to provide expressive, anatomically plausible human animation for AR/VR and graphics.",
+      "hf_url": "https://huggingface.co/papers/2511.15586",
+      "arxiv_url": "https://arxiv.org/abs/2511.15586",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.15586.png",
+      "upvotes": 12,
+      "num_comments": 1,
+      "published_at": "2025-11-19T11:18:02.000Z",
+      "github_repo": "https://github.com/facebookresearch/MHR",
+      "github_stars": 300,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-23T06:29:26.281467+00:00"
+  "fetched_at": "2025-11-23T07:29:37.271999+00:00"
 }
