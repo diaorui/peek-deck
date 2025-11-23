@@ -8,9 +8,9 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
-      "stars": 79387,
+      "stars": 79399,
       "stars_display": "79.4k",
-      "forks": 11795,
+      "forks": 11798,
       "forks_display": "11.8k",
       "language": "Jupyter Notebook",
       "topics": [
@@ -20,7 +20,7 @@
         "chatgpt",
         "deep-learning"
       ],
-      "updated_at": "2025-11-23T16:26:41Z"
+      "updated_at": "2025-11-23T16:53:50Z"
     },
     {
       "full_name": "ray-project/ray",
@@ -64,7 +64,7 @@
         "gemini",
         "generative-ai"
       ],
-      "updated_at": "2025-11-21T15:55:28Z"
+      "updated_at": "2025-11-23T16:34:25Z"
     },
     {
       "full_name": "huggingface/datasets",
@@ -140,7 +140,7 @@
       "description": "\ud83d\udca1 All-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows",
       "url": "https://github.com/neuml/txtai",
       "preview_image": "https://repository-images.githubusercontent.com/286301447/6b79e721-de1e-4fd4-b264-0437e1cad8d8",
-      "stars": 11844,
+      "stars": 11845,
       "stars_display": "11.8k",
       "forks": 759,
       "forks_display": "759",
@@ -174,7 +174,7 @@
         "artificial-intelligence",
         "deep-learning"
       ],
-      "updated_at": "2025-11-23T16:19:43Z"
+      "updated_at": "2025-11-23T17:36:34Z"
     },
     {
       "full_name": "Netflix/metaflow",
@@ -226,5 +226,5 @@
   "days": 3,
   "limit": 10,
   "total_count": 153,
-  "fetched_at": "2025-11-23T16:28:29.063081+00:00"
+  "fetched_at": "2025-11-23T17:36:36.095216+00:00"
 }
