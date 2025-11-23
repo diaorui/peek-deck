@@ -14,7 +14,7 @@ theme:
   card_background: "#2d2d2d"
   border_radius: "8px"
 
-# Widget layout (ordered by time sensitivity - most real-time first)
+# Widget layout (ordered by time sensitivity - most frequently updated first)
 widgets:
   - type: reddit-posts
     size: full

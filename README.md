@@ -126,7 +126,7 @@ Create a YAML file in `pages/`:
 category: crypto
 id: ethereum
 name: Ethereum
-description: Real-time Ethereum monitoring
+description: Live Ethereum monitoring
 icon: "Ξ"
 enabled: true
 

@@ -275,7 +275,7 @@ class CryptoPriceChartWidget(BaseWidget):
                                 }}
                             }},
                             ticks: {{
-                                color: '#9ca3af'
+                                display: false
                             }},
                             grid: {{
                                 color: 'rgba(255, 255, 255, 0.1)'

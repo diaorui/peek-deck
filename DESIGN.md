@@ -127,7 +127,7 @@ peek-deck/
 # Page metadata
 id: bitcoin
 name: Bitcoin
-description: Real-time Bitcoin monitoring dashboard
+description: Live Bitcoin monitoring dashboard
 icon: "₿"
 enabled: true
 
@@ -411,7 +411,7 @@ All widgets automatically use theme colors via CSS variables.
 
 | Widget | Data Source | Content | Size | Update (min) | Notes |
 |--------|-------------|---------|------|--------------|-------|
-| **crypto-price** | Gemini | Current price, 24h change, volume | Small | 5 | 120 req/min, real-time exchange data |
+| **crypto-price** | Gemini | Current price, 24h change, volume | Small | 5 | 120 req/min, live exchange data |
 | **crypto-price-chart** | Gemini | Price history line chart (24h/7d/30d/90d/1y) | Medium/Large | 10 | Uses Chart.js with candles endpoint, tabbed interface |
 | **crypto-market-stats** | CoinGecko | Market cap, supply, volume, ATH/ATL | Small/Medium | 30 | CoinGecko has fundamentals Gemini lacks |
 | **google-news** | Google News RSS | Top 8 articles with source favicons | Full | 30 | RSS feed, no auth required, shows "View All" link |
@@ -513,7 +513,7 @@ If someone builds a stock series later, they'd create `stocks-price` widget (new
 | **Gemini** | Price/Trading | Yes (no auth) | Excellent | 120 req/min (~5M/month) | Very generous limits, exchange data |
 | **CoinGecko** | Market/Fundamentals | Yes (API key) | Excellent | 10k calls/month | Market cap, supply, comprehensive |
 | **Coinpaprika** | Price/Market | Yes (API key) | Excellent | 20k calls/month | Good alternative |
-| **Google News RSS** | News | Yes (no auth) | Good | No strict limit | Real-time news via RSS, query by coin name |
+| **Google News RSS** | News | Yes (no auth) | Good | No strict limit | Latest news via RSS, query by coin name |
 | **Alternative.me** | Fear/Greed | Yes (no auth) | Good | No strict limit | Daily updates, unique metric |
 | **CoinMarketCal** | Events | Yes (API key) | Fair | 500 calls/day | Event calendar |
 | **Reddit API** | Social/News | Yes (no auth) | Variable | 60 calls/min | Generic, works with any subreddit |
@@ -534,7 +534,7 @@ With free tier limits (CoinGecko: 10k/month, Coinpaprika: 20k/month), using one 
 
 | Widget | Primary Source | Reason | Fallback |
 |--------|---------------|--------|----------|
-| **crypto-price** | Gemini | 5M/month limit, no auth, real-time exchange data | Coinpaprika |
+| **crypto-price** | Gemini | 5M/month limit, no auth, live exchange data | Coinpaprika |
 | **crypto-price-chart** | Gemini | Candles endpoint, generous limits | CoinGecko |
 | **crypto-market-stats** | CoinGecko | Has market cap, supply data (Gemini doesn't) | Coinpaprika |
 | **news** | Google News RSS | Generic widget, query via params | Reddit API (fallback) |

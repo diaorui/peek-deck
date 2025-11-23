@@ -2,7 +2,7 @@
 category: crypto
 id: bitcoin
 name: Bitcoin
-description: Real-time Bitcoin monitoring dashboard
+description: Live Bitcoin monitoring dashboard
 icon: "₿"
 enabled: true
 
