@@ -24,17 +24,6 @@
       "description": null
     },
     {
-      "title": "If this offends you, your portfolio is mostly fiat.",
-      "author": "MrMBTC",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p44671/if_this_offends_you_your_portfolio_is_mostly_fiat/",
-      "published": 1763845500.0,
-      "thumbnail": "https://preview.redd.it/74ql1k79iv2g1.jpeg?width=640&crop=smart&auto=webp&s=ad58b0b27d9fed2f4a4c0db250bb2ba486d79ad2",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Permabull Tom Lee Sees Bitcoin as High as $200,000 by January\u2019s End - Bloomberg",
       "author": "simmb3",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p4ayvq/permabull_tom_lee_sees_bitcoin_as_high_as_200000/",
@@ -44,28 +33,6 @@
       "site_name": "Bloomberg.com",
       "favicon": "https://www.bloomberg.com/favicon-black.png",
       "description": "The always optimistic co-founder of Fundstrat Global Advisors believes in the long-term power of retail investors."
-    },
-    {
-      "title": "Extreme Opportunity, not Extreme Fear.",
-      "author": "Enfant01",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p4229u/extreme_opportunity_not_extreme_fear/",
-      "published": 1763840046.0,
-      "thumbnail": "https://preview.redd.it/peoeqs812v2g1.jpeg?width=640&crop=smart&auto=webp&s=3cb8b18a95f43f25b666570fca3d6d1ff60cfa6c",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This moment makes me so happy."
-    },
-    {
-      "title": "same",
-      "author": "tehFluffyBoi",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p4c6el/same/",
-      "published": 1763867898.0,
-      "thumbnail": "https://preview.redd.it/r2fmr2rucx2g1.jpeg?width=640&crop=smart&auto=webp&s=883ad43b4409c41b9abce5de4be0dc924db12910",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     },
     {
       "title": "Black Friday Sale on Bitcoin",
@@ -79,11 +46,44 @@
       "description": null
     },
     {
+      "title": "same",
+      "author": "tehFluffyBoi",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p4c6el/same/",
+      "published": 1763867898.0,
+      "thumbnail": "https://preview.redd.it/r2fmr2rucx2g1.jpeg?width=640&crop=smart&auto=webp&s=883ad43b4409c41b9abce5de4be0dc924db12910",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Extreme Opportunity, not Extreme Fear.",
+      "author": "Enfant01",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p4229u/extreme_opportunity_not_extreme_fear/",
+      "published": 1763840046.0,
+      "thumbnail": "https://preview.redd.it/peoeqs812v2g1.jpeg?width=640&crop=smart&auto=webp&s=3cb8b18a95f43f25b666570fca3d6d1ff60cfa6c",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This moment makes me so happy."
+    },
+    {
       "title": "WE\u2019RE IN BUSINESS!",
       "author": "sentientchimpman",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p4bh46/were_in_business/",
       "published": 1763865764.0,
       "thumbnail": "https://preview.redd.it/08bdl2ii6x2g1.jpeg?width=320&crop=smart&auto=webp&s=24484cce2a14d55df68079da3f0f7030da051817",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "What\u2019s this dude up to today?",
+      "author": "DjangoUnflamed",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p47vko/whats_this_dude_up_to_today/",
+      "published": 1763855306.0,
+      "thumbnail": "https://preview.redd.it/pvqgqi2fbw2g1.jpeg?width=640&crop=smart&auto=webp&s=9ef067e186803aa97db83cf8800bd67ba0bbc173",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -101,16 +101,16 @@
       "description": "xD"
     },
     {
-      "title": "What\u2019s this dude up to today?",
-      "author": "DjangoUnflamed",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p47vko/whats_this_dude_up_to_today/",
-      "published": 1763855306.0,
-      "thumbnail": "https://preview.redd.it/pvqgqi2fbw2g1.jpeg?width=640&crop=smart&auto=webp&s=9ef067e186803aa97db83cf8800bd67ba0bbc173",
+      "title": "Yesterday, a huge amount of Bitcoin left exchanges!!!",
+      "author": "Laakhesis",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p4a243/yesterday_a_huge_amount_of_bitcoin_left_exchanges/",
+      "published": 1763861501.0,
+      "thumbnail": "https://preview.redd.it/1828d55ftw2g1.png?width=640&crop=smart&auto=webp&s=99a01f913955671ec513d5ee126e09b5f7df1f49",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "Source: Bitcoin: Exchange Reserve - All Exchanges Bitcoin: Exchange Netflow (Total) - All Exchanges"
     }
   ],
-  "fetched_at": "2025-11-23T08:40:55.329489+00:00"
+  "fetched_at": "2025-11-23T09:15:44.780554+00:00"
 }
