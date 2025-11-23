@@ -8,9 +8,9 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
-      "stars": 79306,
+      "stars": 79310,
       "stars_display": "79.3k",
-      "forks": 11772,
+      "forks": 11773,
       "forks_display": "11.8k",
       "language": "Jupyter Notebook",
       "topics": [
@@ -30,7 +30,7 @@
       "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
       "url": "https://github.com/ray-project/ray",
       "preview_image": "https://opengraph.githubassets.com/f7ac9ebd1d44a7aeb1d525064757ac8bf697e7fd66b4692c527e371c6f50cf53/ray-project/ray",
-      "stars": 39960,
+      "stars": 39961,
       "stars_display": "40.0k",
       "forks": 6934,
       "forks_display": "6.9k",
@@ -52,9 +52,9 @@
       "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
       "url": "https://github.com/deepset-ai/haystack",
       "preview_image": "https://repository-images.githubusercontent.com/221654678/1b75a35c-3d70-4dbe-bd6f-56fcc6c809e6",
-      "stars": 23446,
+      "stars": 23448,
       "stars_display": "23.4k",
-      "forks": 2489,
+      "forks": 2488,
       "forks_display": "2.5k",
       "language": "MDX",
       "topics": [
@@ -74,7 +74,7 @@
       "description": "\ud83e\udd17 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
       "url": "https://github.com/huggingface/datasets",
       "preview_image": "https://repository-images.githubusercontent.com/250213286/d6f09c00-7066-11eb-88ac-0b319e59658a",
-      "stars": 20889,
+      "stars": 20890,
       "stars_display": "20.9k",
       "forks": 3020,
       "forks_display": "3.0k",
@@ -225,6 +225,6 @@
   "search_query": "ai machine-learning llm pushed:>2025-11-20",
   "days": 3,
   "limit": 10,
-  "total_count": 147,
-  "fetched_at": "2025-11-23T05:28:41.813858+00:00"
+  "total_count": 148,
+  "fetched_at": "2025-11-23T06:29:25.394031+00:00"
 }

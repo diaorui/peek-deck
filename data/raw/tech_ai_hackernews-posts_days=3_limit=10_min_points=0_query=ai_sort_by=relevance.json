@@ -38,7 +38,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46008628",
       "author": "speckx",
       "points": 155,
-      "num_comments": 200,
+      "num_comments": 201,
       "created_at": "2025-11-21T20:30:51Z",
       "object_id": "46008628",
       "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9jcmF6eXN0dXBpZHRlY2guY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI1XC8wNFwvY3Jhenl0ZWNoLWltZy5wbmc_Zml0PTQ4MSUyQzQ4MSZzc2w9MSIsInR4dCI6IkNyYXp5IFN0dXBpZCBUZWNoIiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjI0MzM2MTkzNn0.9lzL2TvsryD6L8fyfB4-srIOrhLEmGjTHgDDKUS3w7oMQ",
@@ -131,21 +131,21 @@
       "site_name": "80.lv"
     },
     {
-      "title": "Google cracked Apple's AirDrop and is adding it to Pixel phones",
-      "url": "https://www.theverge.com/news/825228/iphone-airdrop-android-quick-share-pixel-10",
-      "hn_url": "https://news.ycombinator.com/item?id=45996810",
-      "author": "CharlesW",
-      "points": 41,
-      "num_comments": 13,
-      "created_at": "2025-11-20T19:47:19Z",
-      "object_id": "45996810",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Android_Quick_Share_and_iOS_AirDrop_compatibility.mp4_snapshot_00.29.384.jpg?quality=90&strip=all&crop=18%2C0%2C65.4%2C60.87260034904&w=1200",
-      "description": "First iMessage reactions, now AirDrop.",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "site_name": "The Verge"
+      "title": "Show HN: I built a wizard to turn ideas into AI coding agent-ready specs",
+      "url": "https://vibescaffold.dev/",
+      "hn_url": "https://news.ycombinator.com/item?id=46018229",
+      "author": "straydusk",
+      "points": 42,
+      "num_comments": 26,
+      "created_at": "2025-11-22T21:02:34Z",
+      "object_id": "46018229",
+      "image": null,
+      "description": "A friendly 4-step wizard that helps you define, design, and plan your next app idea with AI-powered spec generation.",
+      "favicon": "https://vibescaffold.dev/favicon.ico",
+      "site_name": "vibescaffold.dev"
     }
   ],
-  "total_hits": 435,
+  "total_hits": 433,
   "has_metadata": true,
-  "fetched_at": "2025-11-23T05:28:40.275939+00:00"
+  "fetched_at": "2025-11-23T06:29:26.482449+00:00"
 }
