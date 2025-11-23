@@ -12,31 +12,12 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 62,
+      "upvotes": 63,
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
       "github_stars": 3219,
       "project_page": "https://ai.meta.com/sam3d/"
-    },
-    {
-      "id": "2511.10647",
-      "title": "Depth Anything 3: Recovering the Visual Space from Any Views",
-      "authors": "Haotong Lin, Sili Chen, Junhao Liew et al. (8 authors)",
-      "organization_name": "ByteDance-Seed",
-      "organization_fullname": "ByteDance Seed",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/6535c9e88bde2fae19b6fb25/flkDUqd_YEuFsjeNET3r-.png",
-      "summary": "We present Depth Anything 3 (DA3), a model that predicts spatially consistent geometry from an arbitrary number of visual inputs, with or without known camera poses. In pursuit of minimal modeling, DA3 yields two key insights: a single plain transformer (e.g., vanilla DINO encoder) is sufficient as a backbone without architectural specialization, and a singular depth-ray prediction target obviates the need for complex multi-task learning. Through our teacher-student training paradigm, the model achieves a level of detail and generalization on par with Depth Anything 2 (DA2). We establish a new visual geometry benchmark covering camera pose estimation, any-view geometry and visual rendering. On this benchmark, DA3 sets a new state-of-the-art across all tasks, surpassing prior SOTA VGGT by an average of 44.3% in camera pose accuracy and 25.1% in geometric accuracy. Moreover, it outperforms DA2 in monocular depth estimation. All models are trained exclusively on public academic datasets.",
-      "ai_summary": "Depth Anything 3 (DA3) uses a plain transformer for geometry prediction from visual inputs, achieving state-of-the-art results in camera pose estimation, any-view geometry, visual rendering, and monocular depth estimation.",
-      "hf_url": "https://huggingface.co/papers/2511.10647",
-      "arxiv_url": "https://arxiv.org/abs/2511.10647",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.10647.png",
-      "upvotes": 80,
-      "num_comments": 4,
-      "published_at": "2025-11-13T13:59:53.000Z",
-      "github_repo": "https://github.com/ByteDance-Seed/depth-anything-3",
-      "github_stars": 2601,
-      "project_page": "https://depth-anything-3.github.io/"
     },
     {
       "id": "2511.13720",
@@ -56,6 +37,25 @@
       "github_repo": "https://github.com/LTH14/JiT",
       "github_stars": 1130,
       "project_page": null
+    },
+    {
+      "id": "2511.10647",
+      "title": "Depth Anything 3: Recovering the Visual Space from Any Views",
+      "authors": "Haotong Lin, Sili Chen, Junhao Liew et al. (8 authors)",
+      "organization_name": "ByteDance-Seed",
+      "organization_fullname": "ByteDance Seed",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/6535c9e88bde2fae19b6fb25/flkDUqd_YEuFsjeNET3r-.png",
+      "summary": "We present Depth Anything 3 (DA3), a model that predicts spatially consistent geometry from an arbitrary number of visual inputs, with or without known camera poses. In pursuit of minimal modeling, DA3 yields two key insights: a single plain transformer (e.g., vanilla DINO encoder) is sufficient as a backbone without architectural specialization, and a singular depth-ray prediction target obviates the need for complex multi-task learning. Through our teacher-student training paradigm, the model achieves a level of detail and generalization on par with Depth Anything 2 (DA2). We establish a new visual geometry benchmark covering camera pose estimation, any-view geometry and visual rendering. On this benchmark, DA3 sets a new state-of-the-art across all tasks, surpassing prior SOTA VGGT by an average of 44.3% in camera pose accuracy and 25.1% in geometric accuracy. Moreover, it outperforms DA2 in monocular depth estimation. All models are trained exclusively on public academic datasets.",
+      "ai_summary": "Depth Anything 3 (DA3) uses a plain transformer for geometry prediction from visual inputs, achieving state-of-the-art results in camera pose estimation, any-view geometry, visual rendering, and monocular depth estimation.",
+      "hf_url": "https://huggingface.co/papers/2511.10647",
+      "arxiv_url": "https://arxiv.org/abs/2511.10647",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.10647.png",
+      "upvotes": 80,
+      "num_comments": 4,
+      "published_at": "2025-11-13T13:59:53.000Z",
+      "github_repo": "https://github.com/ByteDance-Seed/depth-anything-3",
+      "github_stars": 2636,
+      "project_page": "https://depth-anything-3.github.io/"
     },
     {
       "id": "2410.05779",
@@ -111,7 +111,7 @@
       "num_comments": 6,
       "published_at": "2025-10-16T06:18:48.000Z",
       "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-      "github_stars": 64619,
+      "github_stars": 64642,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-23T17:36:35.891145+00:00"
+  "fetched_at": "2025-11-23T18:52:12.045211+00:00"
 }

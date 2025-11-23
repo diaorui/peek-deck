@@ -8,9 +8,9 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
-      "stars": 79399,
+      "stars": 79409,
       "stars_display": "79.4k",
-      "forks": 11798,
+      "forks": 11799,
       "forks_display": "11.8k",
       "language": "Jupyter Notebook",
       "topics": [
@@ -30,7 +30,7 @@
       "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
       "url": "https://github.com/ray-project/ray",
       "preview_image": "https://opengraph.githubassets.com/f7ac9ebd1d44a7aeb1d525064757ac8bf697e7fd66b4692c527e371c6f50cf53/ray-project/ray",
-      "stars": 39969,
+      "stars": 39970,
       "stars_display": "40.0k",
       "forks": 6933,
       "forks_display": "6.9k",
@@ -74,7 +74,7 @@
       "description": "\ud83e\udd17 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
       "url": "https://github.com/huggingface/datasets",
       "preview_image": "https://repository-images.githubusercontent.com/250213286/d6f09c00-7066-11eb-88ac-0b319e59658a",
-      "stars": 20893,
+      "stars": 20894,
       "stars_display": "20.9k",
       "forks": 3020,
       "forks_display": "3.0k",
@@ -108,7 +108,7 @@
         "chatgpt",
         "docsgpt"
       ],
-      "updated_at": "2025-11-22T14:42:25Z"
+      "updated_at": "2025-11-23T18:36:01Z"
     },
     {
       "full_name": "stas00/ml-engineering",
@@ -162,7 +162,7 @@
       "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
       "url": "https://github.com/tensorzero/tensorzero",
       "preview_image": "https://repository-images.githubusercontent.com/829640443/26b7c5c4-c12c-4e89-beaf-a4233f1dac87",
-      "stars": 10587,
+      "stars": 10588,
       "stars_display": "10.6k",
       "forks": 731,
       "forks_display": "731",
@@ -174,7 +174,7 @@
         "artificial-intelligence",
         "deep-learning"
       ],
-      "updated_at": "2025-11-23T17:36:34Z"
+      "updated_at": "2025-11-23T18:15:15Z"
     },
     {
       "full_name": "Netflix/metaflow",
@@ -225,6 +225,6 @@
   "search_query": "ai machine-learning llm pushed:>2025-11-20",
   "days": 3,
   "limit": 10,
-  "total_count": 153,
-  "fetched_at": "2025-11-23T17:36:36.095216+00:00"
+  "total_count": 156,
+  "fetched_at": "2025-11-23T18:52:12.353117+00:00"
 }
