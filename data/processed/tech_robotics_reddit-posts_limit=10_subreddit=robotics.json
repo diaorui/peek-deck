@@ -46,6 +46,17 @@
       "description": "Im curious how many others from Figure or other Humanoid Robot companies will start to step forward and speak up. Safety is something that is not talked about enough."
     },
     {
+      "title": "Trying to look for the closed form analytical solution for this Amazon bought robotic arm",
+      "author": "hisenberg-up",
+      "url": "https://www.reddit.com/r/robotics/comments/1p511g9/trying_to_look_for_the_closed_form_analytical/",
+      "published": 1763939603.0,
+      "thumbnail": "https://b.thumbs.redditmedia.com/Z7VzVd9aHUhPGVpVe4YyTfnT4xdgU9bWDqfiTmPGoLA.jpg",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "It claims to be a 6DOF but it looks like it only has 5DOF. First image shows the assembled arm, and second shows the transforms diagram. We are trying to find closed form inv kinematics solution and looking to see if that's possible or we will need to try for a numerical approach instead? Any suggestions appreciated."
+    },
+    {
       "title": "Laws of mBotics : Part 3",
       "author": "sierrahighcoo",
       "url": "https://www.reddit.com/r/robotics/comments/1p4l5qp/laws_of_mbotics_part_3/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "im trying to power this brushless motor using a STEVAL-STSPIN3201using FOC sensorless control , I can not use Motor Profiler since the ST-link of the board is corrupted (I'm programming the main MCU with an External ST-link dongle). The BLCD motor as shown is only vibrating (seems like it want to rotate but it can't) What can be the problem? am i missing something"
-    },
-    {
-      "title": "Aloha Mini- $600 Open-Source Home Robot",
-      "author": "Weekly-Telephone4185",
-      "url": "https://www.reddit.com/r/robotics/comments/1p3h0cp/aloha_mini_600_opensource_home_robot/",
-      "published": 1763776330.0,
-      "thumbnail": "https://external-preview.redd.it/c2RpZmIwaWpzcDJnMS5b30bsaPUDJiW6VUb-QjWrGGJxn2vUJ6qnBBR8T0rP.png?width=640&crop=smart&auto=webp&s=6f6afda9a35e4446b8ee0fcaa0d0063f26086a2c",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Aloha Mini is a dual-arm mobile robot with a motorized vertical lift designed to make real-world mobile manipulation and embodied AI research accessible. The robot is fully 3D-printable and can be assembled in ~60 minutes. Technical highlights: \u2022 Dual-arm control with LeRobot teleoperation + imitation learning \u2022 Fully 3D-printed arm and lift mechanism \u2022 Omni-directional mobile base \u2022 Multi-task demos: sock picking, table wiping, fridge opening, toilet scrubbing \u2022 Designed to lower the barrier of entry to real robotics \u2022 Material cost around $600 when self-printed GitHub Open-Source Code & Files: https://github.com/liyiteng/AlohaMini"
     }
   ],
-  "fetched_at": "2025-11-23T22:43:44.198714+00:00"
+  "fetched_at": "2025-11-23T23:17:52.354128+00:00"
 }
