@@ -145,4 +145,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./docs
           publish_branch: gh-pages
-          exclude_assets: 'CNAME'
+          keep_files: true  # Preserve CNAME and other files not in ./docs
