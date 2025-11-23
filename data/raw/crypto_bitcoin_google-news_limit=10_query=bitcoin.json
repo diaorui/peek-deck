@@ -5,24 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Is bitcoin nearing a bottom? Why its price decline may be nearing an end",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMkw1TUNFTjVqMUVKbkRqUXZCOFN3X2lITzVWSExQNGpUNzhqUThpa1ZncVN1Qk4teVBQa3BONmxZbG1JRFhoY1VyTUphOWl6ZWxnLTkwM0lfSkMxUlI4dF8zdjBQRTMwTk9XTTNfQVNjSHRjY1VQRVlrc1Fmc1duSU5sY3BDdw?oc=5",
-      "pub_date": 1763748000.0,
-      "article_url": "https://finance.yahoo.com/video/bitcoin-nearing-bottom-why-price-180000873.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/.Jh9A0vRwD4k8aUVAJ.A5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/b01e4f40-c6fc-11f0-8bff-feee221df43c",
-      "description": "Bitcoin (BTC-USD) has fallen more than 20% over the last month, but Grayscale managing director of research Zach Pandl thinks prices may be starting to bottom out. Find out why in the video above. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts."
-    },
-    {
-      "headline": "Opinion: Watch out: Bitcoin isn\u2019t what you think it is",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPY3pfMUJKRkotcUNhUmlPVkh1MWJjUXdqQ3MwM3FvZWVnQTNUbHpuTk5LQ1hzTjhBWUZEanUyanNid1ltX1dzeEM0SzZBSUEzZ0R2Mk53dm9EYWpHTDI1N25rbEtmcHM2QVN3Zjh0dnBMM3JJOVV4THdrSmtsa1RTRHBkV2xmdUVjWFhwb2tHQkRmWWZIS2pTbG1iOU9ZQk5pRG5iQ1BMQ0RzTVBnRjY2clJKdWxnMWktblV4ZWlHUW9uVk00cTVvSmlFS2VHWDZfT3FPdmxLdV9WVlRrZ241Qm50bkxVdjV6dG5TdzNkRG54OWF5b2tJX3YyZklOYTBCWlJuUXRFdDRWUHUzWWhvWTdpUWRYRklIelMyR3VtRDdOMWZmejRCR3Bja3h4eVp3Q1UySjZOcE9UQnI1OHRhLUZoamtPRk9qMHdEaU8yTlhfOWg0UGo5YWMyNTZSR3p5TkNySHpkOXhYTk5ySU42SWM4S05aTk1yVTdpd3BBT05KQVA0TDJmbWdSU25nYVRESWlJXw?oc=5",
-      "pub_date": 1763751480.0,
-      "article_url": "https://www.marketwatch.com/story/watch-out-bitcoin-isnt-what-you-think-it-is-bb1c53c9?gaa_at=eafs&gaa_n=AWEtsqfMDWSe0Az9scR3KJ4C8LGu5v7zvjfoiRDLXwi51tLouHmNu8G41F6E&gaa_ts=69227e3a&gaa_sig=yYWusEoLm4_ozNMXvtVStu_wXzhlnPObHJN8S5UduISSKnZUassiUfPfsxBr4sIn7dF_FDD1FMeL5JGRyoMsJw%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin Plunge Hits Market Makers in a Fragile Trading Landscape",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGVjT0JSTXBhMEFvTUlFd2VNWUxPMXhTeHpSQU9OOERucGs1Ykd0dnZBVWRma3BwZXpMZl9Hc2FHWWVYUVk4U2hEblhMTWpVUXVxTjhtTnRjbU9rX3FmRWE0ejE0bFhiby11N2lYS0pjRHJmQlR4R3Fycm5MWC1xSzA3SzRNSno3R1E0SEdPa1o4TDh4OHVCRnpmcUlQZXJ4eG9ycFJ4ZzVidTNzVmJtNFZkSy1ZZw?oc=5",
+      "pub_date": 1763763588.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-21/bitcoin-plunge-hits-market-makers-in-a-fragile-trading-landscape",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isJEv5UcQOeI/v1/1200x800.jpg",
+      "description": "Bitcoin is crashing into dangerous territory \u2014 and options-fueled selling is adding to the volatility."
     },
     {
       "headline": "Binance CEO Teng says bitcoin volatility in line with most asset classes",
@@ -35,16 +25,6 @@
       "description": null
     },
     {
-      "headline": "Crypto plunge wipes out nearly $400 billion in a week",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WMzBaT3hYaU5KRW5qeVhhZmVUWXpKS2hndDU2aFVtc3NBRXN0MVlWQ3YwMm1GYWphLWNvRVc4LUNJQUVTVHpndjRGTy1mMnBJcFl2WDBmRW0wNXNtdXQwdjJUYW9TRnpqV2xPbFJ6Yk83alJNd2lpTnVtXzJ2QQ?oc=5",
-      "pub_date": 1763728011.0,
-      "article_url": "https://www.axios.com/2025/11/21/bitcoin-value-price-crypto-coin-sell-off",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin ATM Firm Weighing $100 Million Sale Following Money Laundering Charges",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
@@ -53,16 +33,6 @@
       "article_url": "https://decrypt.co/349639/bitcoin-atm-firm-weighing-100-million-sale-money-laundering-charges",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-atm-decrypt-style-1-scaled-gID_7.jpg",
       "description": "Crypto Dispensers says it\u2019s considering a $100 million sale, days after the firm and its founder were hit with money laundering charges."
-    },
-    {
-      "headline": "MSTR Stock: Strategy May Have To Cough Up $1 Bil In 2027 As Bitcoin Slides",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUXp3RUc3MnloVzJvZjAxOGNaMWxlcU1od1FJbzI3dHRYQnUybDQydjNtM1BTNVBFSm81Si1qZnlvUEZadEVtS2tIeE5qOWx0V2NyOWp4TmxiVjBIQmxXVjZ3Wk5COWNndGhzdTIzMW9Oa0VyaVNjcFB6bFBqd1ZBdHNQUzFWTjN5ejBRQVVrWHIxNjlXd3NwOQ?oc=5",
-      "pub_date": 1763759100.0,
-      "article_url": "https://www.investors.com/news/mstr-stock-strategy-convertible-debt-put-option-bitcoin-price/",
-      "image": "https://www.investors.com/wp-content/uploads/2025/11/Stock-strategy-BitcoinMrkt-adobe.jpg",
-      "description": "MSTR stock sank further on Friday, raising risk that the big bitcoin buyer will have to pay $1 billion to bondholders in 2027."
     },
     {
       "headline": "\u2018Rich Dad Poor Dad\u2019 author sells Bitcoin for loss amid market crash",
@@ -95,16 +65,46 @@
       "description": "Robert Kiyosaki has moved a chunk of his Bitcoin into businesses that pay him now. Reports have disclosed he sold roughly $2.25 million worth of Bitcoin, cashing out after years of saying he was bullish on the cryptocurrency.He did not say he was exiting crypto; instead, he described the shift as t\u2026"
     },
     {
-      "headline": "Bitcoin: Blood On The Streets, Buy Signals Flashing (Cryptocurrency:BTC-USD)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN2xNYXdUeUtRcjg4MkNBdHJfS2NTbktpM2U5cmNJWmRpVU8yNEc4Q21PZVpTWjQyaGVHVzd5YzdjbjFWbmpnRjNldHd6UExqbTBpZmRXcElJakJ4RnJSV1hPVEhyTnhUSHFEMi1ya3ZkVGI3X19WVGdHaHJ3V3gyQjRYanpOREVySF8tNXFqSEtzN1ho?oc=5",
-      "pub_date": 1763800219.0,
-      "article_url": "https://seekingalpha.com/article/4846833-bitcoin-blood-on-the-streets-buy-signals-flashing",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1322537494/image_1322537494.jpg?io=getty-c-w1536",
-      "description": "Bitcoin shows attractive setup after 30% drop with fearful options signals and on-chain data hinting early bottom formation. Read why BTC-USD is a strong buy."
+      "headline": "What Will Happen To Microstrategy If Bitcoin Falls Under $74,000?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0dvT2MtQTYwdlZxR2FTb21mczBZNVA5U1BiV2VfU19uY2FRcl9TcFZzNkZmS3FIMHd3RzVZT1VlUVdWc3h0WUw2c2hucDFYaHp4SDYtc1RENWhUTTRLTDZQal9pelZTNmxXQkpNS0thY3V2VjZZQWxoQ0JhZ0ozTHU4UFhRVldsLW9kVGRpSQ?oc=5",
+      "pub_date": 1763771400.0,
+      "article_url": "https://finance.yahoo.com/news/happen-microstrategy-bitcoin-falls-under-003044978.html",
+      "image": "https://media.zenfs.com/en/99bitcoins_us_315/d9953751802b03ef9d79099080893135",
+      "description": "MicroStrategy is still the biggest corporate holder of Bitcoin, sitting on roughly 649,870 BTC as of mid-November 2025. They bought all of this for around 48.37 billion dollars total, which puts their average cost at about 74,433 dollars per Bitcoin. With Bitcoin dipping under 80k, things are starting to look ..."
+    },
+    {
+      "headline": "Michael Saylor's MSTR is Barely Ahead on BTC Bet, but Threat of Imminent Danger Overblown",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNmlDZktfREVBbngzMnZxZ2lFbXZMa09MTjhpcUdKQy1pQkdLZ19mTjhaLUo4QjhCZC12Z1Y0WmlxZU0xMHkxWHlDT2hrN1NNSEgxY2owMlc5clUxeEsyaDFZMzRQQnRmNV9NMHg1NWVnSlpZV01uRzVaRk9YUTFia0tWbmYzQURha05GTzhZMkoyM0lpZGpRWDAwQ2lnYzhOZHBjZ1FVOE96RmU2WXRHQm4yOVVBel9IcThXV3ZuV0pLNFRRU0cyNVFWUjRVV3dWZUtaRnhB?oc=5",
+      "pub_date": 1763845311.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/21/bitcoin-s-plunge-brings-strategy-s-holdings-to-near-breakeven-but-key-test-lies-18-months-ahead",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c880d91609e495c17f244eb3774e6f7e006ea2c-1920x1079.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "Michael Saylor's company's balance sheet isn't at imminent risk of collapse, but further capital-raising efforts could surely be hindered unless conditions improve."
+    },
+    {
+      "headline": "Michael Saylor responds to JPMorgan\u2019s MSCI delisting warning",
+      "source": "TheStreet",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTTJJb2ptMm1RZ0Rrdm1fZUJYclJnSkJxalE5d0lMbHg1NlpONkdPd2dySXA4eGJYUXJveTdkZDlXV0tFSXFBbkN1ZFlIcFhSTy1VZUZRalBQSGxmOThCVFBGVi1FbUZ4bGtGaEdvbEljR1p2M0RfYnNrT1M0OGtHWGVLMHU3bmprdm9zX0czamI2NnZHR2VHYWFVYk5WWEgtVlE?oc=5",
+      "pub_date": 1763737549.0,
+      "article_url": "https://www.thestreet.com/crypto/markets/michael-saylor-responds-to-jpmorgans-msci-delisting-warning",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Sell-Off Deepens, Cathie Wood Buys These Crypto Stocks.",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc01JdmRrOTB0M2l2cktXYjV2RzQyak9xV1FMcVA1aElTR1dFdXhnQlFhTWFfNGVGMm5jV3R1eHNuVlJ4NE5CS1JNY0VnT25UWXpOYWZhdUgzeUd1YW9nQmNHaVVacDF6VjdvUXE5RjZHZDVoV2lnMTl3akJBcFJWZG1rQllIOFJvNl9oeFNhMmdhLTdoSHowRm44bVBhd2tNdXpZdmdMU0RxN0h4NzFLUGEtaUdHaDExU05MTTBLTkxrSkVNUV9OOUdKRQ?oc=5",
+      "pub_date": 1763760480.0,
+      "article_url": "https://www.investors.com/news/bitcoin-price-low-liquidation-etf-outflows-cathie-wood-ark-invest-crypto-stocks-coin-blsh-crcl-bmnr/",
+      "image": "https://www.investors.com/wp-content/uploads/2017/12/stock-bitcoin-09-adobe.jpg",
+      "description": "Crypto retreat worsens amid bitcoin liquidations, ETF outflows. Cathie Wood, ARK Invest buy Coinbase, Circle, and more."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T03:09:02.875839+00:00"
+  "fetched_at": "2025-11-23T04:18:03.350954+00:00"
 }

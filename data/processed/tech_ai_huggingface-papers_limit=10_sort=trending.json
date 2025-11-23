@@ -92,7 +92,7 @@
       "num_comments": 0,
       "published_at": "2024-10-08T04:00:12.000Z",
       "github_repo": "https://github.com/hkuds/lightrag",
-      "github_stars": 24083,
+      "github_stars": 24104,
       "project_page": null
     },
     {
@@ -130,7 +130,7 @@
       "num_comments": 1,
       "published_at": "2025-10-26T01:49:38.000Z",
       "github_repo": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
-      "github_stars": 16352,
+      "github_stars": 16373,
       "project_page": "https://fapo-rl.github.io/"
     },
     {
@@ -153,25 +153,6 @@
       "project_page": "https://physx-anything.github.io/"
     },
     {
-      "id": "2511.11793",
-      "title": "MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling",
-      "authors": "MiroMind Team, Song Bai, Lidong Bing et al. (54 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "We present MiroThinker v1.0, an open-source research agent designed to advance tool-augmented reasoning and information-seeking capabilities. Unlike previous agents that only scale up model size or context length, MiroThinker explores interaction scaling at the model level, systematically training the model to handle deeper and more frequent agent-environment interactions as a third dimension of performance improvement. Unlike LLM test-time scaling, which operates in isolation and risks degradation with longer reasoning chains, interactive scaling leverages environment feedback and external information acquisition to correct errors and refine trajectories. Through reinforcement learning, the model achieves efficient interaction scaling: with a 256K context window, it can perform up to 600 tool calls per task, enabling sustained multi-turn reasoning and complex real-world research workflows. Across four representative benchmarks-GAIA, HLE, BrowseComp, and BrowseComp-ZH-the 72B variant achieves up to 81.9%, 37.7%, 47.1%, and 55.6% accuracy respectively, surpassing previous open-source agents and approaching commercial counterparts such as GPT-5-high. Our analysis reveals that MiroThinker benefits from interactive scaling consistently: research performance improves predictably as the model engages in deeper and more frequent agent-environment interactions, demonstrating that interaction depth exhibits scaling behaviors analogous to model size and context length. These findings establish interaction scaling as a third critical dimension for building next-generation open research agents, complementing model capacity and context windows.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2511.11793",
-      "arxiv_url": "https://arxiv.org/abs/2511.11793",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.11793.png",
-      "upvotes": 150,
-      "num_comments": 4,
-      "published_at": "2025-11-14T13:52:07.000Z",
-      "github_repo": "https://github.com/MiroMindAI/MiroThinker",
-      "github_stars": 1017,
-      "project_page": "https://dr.miromind.ai/"
-    },
-    {
       "id": "2511.16518",
       "title": "MiMo-Embodied: X-Embodied Foundation Model Technical Report",
       "authors": "Xiaoshuai Hao, Lei Zhou, Zhijian Huang et al. (44 authors)",
@@ -189,9 +170,28 @@
       "github_repo": "https://github.com/XiaomiMiMo/MiMo-Embodied",
       "github_stars": 94,
       "project_page": null
+    },
+    {
+      "id": "2511.15848",
+      "title": "Step-Audio-R1 Technical Report",
+      "authors": "Fei Tian, Xiangyu Tony Zhang, Yuxin Zhang et al. (17 authors)",
+      "organization_name": "stepfun-ai",
+      "organization_fullname": "StepFun",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/66935cee39002fc0569c2943/Qv8QPbkgoKE3wR4jTzHiy.png",
+      "summary": "Recent advances in reasoning models have demonstrated remarkable success in text and vision domains through extended chain-of-thought deliberation. However, a perplexing phenomenon persists in audio language models: they consistently perform better with minimal or no reasoning, raising a fundamental question - can audio intelligence truly benefit from deliberate thinking? We introduce Step-Audio-R1, the first audio reasoning model that successfully unlocks reasoning capabilities in the audio domain. Through our proposed Modality-Grounded Reasoning Distillation (MGRD) framework, Step-Audio-R1 learns to generate audio-relevant reasoning chains that genuinely ground themselves in acoustic features rather than hallucinating disconnected deliberations. Our model exhibits strong audio reasoning capabilities, surpassing Gemini 2.5 Pro and achieving performance comparable to the state-of-the-art Gemini 3 Pro across comprehensive audio understanding and reasoning benchmarks spanning speech, environmental sounds, and music. These results demonstrate that reasoning is a transferable capability across modalities when appropriately anchored, transforming extended deliberation from a liability into a powerful asset for audio intelligence. By establishing the first successful audio reasoning model, Step-Audio-R1 opens new pathways toward building truly multimodal reasoning systems that think deeply across all sensory modalities.",
+      "ai_summary": "Step-Audio-R1, using the Modality-Grounded Reasoning Distillation framework, achieves strong reasoning capabilities in audio, outperforming previous models and demonstrating the transferability of reasoning across modalities.",
+      "hf_url": "https://huggingface.co/papers/2511.15848",
+      "arxiv_url": "https://arxiv.org/abs/2511.15848",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.15848.png",
+      "upvotes": 45,
+      "num_comments": 5,
+      "published_at": "2025-11-19T15:12:50.000Z",
+      "github_repo": "https://github.com/stepfun-ai/Step-Audio-R1",
+      "github_stars": 126,
+      "project_page": "https://stepaudiollm.github.io/step-audio-r1/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-23T03:08:37.979707+00:00"
+  "fetched_at": "2025-11-23T04:17:22.959498+00:00"
 }

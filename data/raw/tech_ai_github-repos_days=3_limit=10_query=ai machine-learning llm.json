@@ -7,7 +7,7 @@
       "owner_avatar": "https://avatars.githubusercontent.com/u/22125274?v=4",
       "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
       "url": "https://github.com/ray-project/ray",
-      "preview_image": "https://opengraph.githubassets.com/e3258c9b492c14302cb9f89cd8735001ee499bfa1a05035f732c6d9df24495b1/ray-project/ray",
+      "preview_image": "https://opengraph.githubassets.com/f7ac9ebd1d44a7aeb1d525064757ac8bf697e7fd66b4692c527e371c6f50cf53/ray-project/ray",
       "stars": 39959,
       "stars_display": "40.0k",
       "forks": 6934,
@@ -54,7 +54,7 @@
       "preview_image": "https://repository-images.githubusercontent.com/250213286/d6f09c00-7066-11eb-88ac-0b319e59658a",
       "stars": 20889,
       "stars_display": "20.9k",
-      "forks": 3019,
+      "forks": 3020,
       "forks_display": "3.0k",
       "language": "Python",
       "topics": [
@@ -73,7 +73,7 @@
       "owner_avatar": "https://avatars.githubusercontent.com/u/103419759?v=4",
       "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
       "url": "https://github.com/arc53/DocsGPT",
-      "preview_image": "https://opengraph.githubassets.com/61ec02b58d74110c5dfa77f8f5d07c3912915e330b28965ed442fec0b20290f1/arc53/DocsGPT",
+      "preview_image": "https://opengraph.githubassets.com/cf0cc62b022aa612e09157785c9b3cdabf5c1faa6b35d279c4675932e1cd958f/arc53/DocsGPT",
       "stars": 17390,
       "stars_display": "17.4k",
       "forks": 1934,
@@ -95,8 +95,8 @@
       "owner_avatar": "https://avatars.githubusercontent.com/u/10676103?v=4",
       "description": "Machine Learning Engineering Open Book",
       "url": "https://github.com/stas00/ml-engineering",
-      "preview_image": "https://opengraph.githubassets.com/ebff81c5d7b91d0318ad54f3dcdb779c8a88da49a200569794194f876ba6d6e6/stas00/ml-engineering",
-      "stars": 15816,
+      "preview_image": "https://opengraph.githubassets.com/5631700a09e23a0a02aa3994579b54e6616d1b03980fa153167b2ea67b416000/stas00/ml-engineering",
+      "stars": 15818,
       "stars_display": "15.8k",
       "forks": 973,
       "forks_display": "973",
@@ -226,5 +226,5 @@
   "days": 3,
   "limit": 10,
   "total_count": 143,
-  "fetched_at": "2025-11-23T03:08:38.176325+00:00"
+  "fetched_at": "2025-11-23T04:17:41.447476+00:00"
 }
