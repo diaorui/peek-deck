@@ -53,14 +53,13 @@ widgets:
     size: full
     update_minutes: 30
 
-  # Row 3: Reddit discussions (using RSS feed to avoid IP blocks)
+  # Row 3: Reddit discussions (using RSS feed, rising posts)
   - type: reddit-posts
     size: full
     update_minutes: 30
     params:
       subreddit: Bitcoin
       limit: 10
-      timeframe: day
 
   # Row 4: HackerNews discussions
   - type: hackernews-posts

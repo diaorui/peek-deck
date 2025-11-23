@@ -13,36 +13,33 @@ from ..core.url_metadata import get_url_metadata_extractor
 
 
 class RedditPostsWidget(BaseWidget):
-    """Displays recent posts from a subreddit.
+    """Displays rising posts from a subreddit.
 
     Required params:
         - subreddit: Subreddit name (e.g., "artificial", "bitcoin")
 
     Optional params:
         - limit: Number of posts to show (default: 10)
-        - timeframe: Time filter for top posts - "day", "week", "month", "year", "all" (default: "day")
     """
 
     def get_required_params(self) -> list[str]:
         return ["subreddit"]
 
     def fetch_data(self) -> Dict[str, Any]:
-        """Fetch recent posts from subreddit RSS feed."""
+        """Fetch rising posts from subreddit RSS feed."""
         self.validate_params()
 
         subreddit = self.merged_params["subreddit"]
         limit = self.merged_params.get("limit", 10)
-        timeframe = self.merged_params.get("timeframe", "day")
         client = get_http_client()
 
         try:
-            # Fetch RSS feed from Reddit (top posts only)
-            url = f"https://www.reddit.com/r/{subreddit}/top.rss"
-            params = {"t": timeframe}
+            # Fetch RSS feed from Reddit (rising posts)
+            url = f"https://www.reddit.com/r/{subreddit}/rising.rss"
             headers = {
                 "User-Agent": "Mozilla/5.0 (compatible; FeedReader/1.0)"
             }
-            xml_data = client.get(url, params=params, headers=headers, response_type="text")
+            xml_data = client.get(url, headers=headers, response_type="text")
 
             # Parse XML (Atom format)
             root = ET.fromstring(xml_data)
@@ -156,12 +153,11 @@ class RedditPostsWidget(BaseWidget):
 
             data = {
                 "subreddit": subreddit,
-                "timeframe": timeframe,
                 "posts": posts,
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
             }
 
-            print(f"✅ Fetched {len(posts)} posts from r/{subreddit} (top/{timeframe})")
+            print(f"✅ Fetched {len(posts)} posts from r/{subreddit} (rising)")
             return data
 
         except Exception as e:
@@ -171,7 +167,6 @@ class RedditPostsWidget(BaseWidget):
     def render(self, processed_data: Dict[str, Any]) -> str:
         """Render Reddit posts widget HTML."""
         subreddit = processed_data["subreddit"]
-        timeframe = processed_data["timeframe"]
         posts = processed_data["posts"]
         timestamp_iso = processed_data["fetched_at"]
 
@@ -179,7 +174,6 @@ class RedditPostsWidget(BaseWidget):
             "widgets/reddit_posts.html",
             size=self.size,
             subreddit=subreddit,
-            timeframe=timeframe,
             posts=posts,
             timestamp_iso=timestamp_iso
         )

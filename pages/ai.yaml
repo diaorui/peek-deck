@@ -16,14 +16,13 @@ theme:
 
 # Widget layout (ordered by time sensitivity - most real-time first)
 widgets:
-  # 1. Reddit discussions (direct RSS, top posts today)
+  # 1. Reddit discussions (direct RSS, rising posts)
   - type: reddit-posts
     size: full
     update_minutes: 30
     params:
       subreddit: artificial
       limit: 10
-      timeframe: day
 
   # 2. Google News (breaking news)
   - type: google-news
