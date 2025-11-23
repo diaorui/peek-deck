@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2511.13720",
       "arxiv_url": "https://arxiv.org/abs/2511.13720",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.13720.png",
-      "upvotes": 39,
+      "upvotes": 40,
       "num_comments": 1,
       "published_at": "2025-11-17T13:59:57.000Z",
       "github_repo": "https://github.com/LTH14/JiT",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-23T14:17:38.418201+00:00"
+  "fetched_at": "2025-11-23T15:20:39.203617+00:00"
 }
