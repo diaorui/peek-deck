@@ -35,16 +35,6 @@
       "description": "Layer-1 blockchains are the base networks that secure and record every crypto transaction, powering Bitcoin, Ethereum, and beyond."
     },
     {
-      "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeDZJQU1ZYmRrRGF4bEcwSE5lRkx3UHUtVllNOW42S21YWFRueUJNVkxjdUZ6ZFpVbGFfNWZJTFQzQkRIREY0bXFYOGJObG1DcVdEYU5VU1JHTk5XNWs3MExTZ0F2X0lScm5XTU1hWEluU09ndXVSLTEyWXNLZVgzVTRmRQ?oc=5",
-      "pub_date": 1763918100.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-vs-ethereum-more-likely-171500913.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/mL8QYt.1ZfmHOzQozBq1QQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/80e3e6dff18e3fdae3620ea8888e4a6e",
-      "description": "Bitcoin and Ethereum have impressive track records and sky-high future price targets."
-    },
-    {
       "headline": "\ud83d\udea8 BREAKING: SWIFT Chooses Ethereum Layer-2 #Linea Over XRP for 2025 Cross-Border Payment Pilot In",
       "source": "Binance",
       "source_url": "https://www.binance.com",
@@ -53,16 +43,6 @@
       "article_url": "https://www.binance.com/en/square/post/32731404517313",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Ethereum (ETH) News: Tom Lee's BMNR Sitting on Major Losses",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOTMwNEpyNXljS0UtVjVHUE91ZnlBUnFmZktHalRMX0pFdmxqQWxaTF8zU0VoQ20zeHpEYmM5RVZwRmhpWkNJMXZtQkNybm5lTzRaTjVMVE14c09MdXBEa1VVZUZKNDd3OUNMU2JRRk5NbklmTW9fcmt4V2QtQlRCdERUemZ1aHFjSjYxSmNzV3NLWm5uOUE4eDk3SXc0WTNHeTRERTNIRFA0STR4S0FSOGpuNG1JQm1qc0VVYnN0UnB2SWdBMG94RzNBWWh4V0xaN003S0lEQ0UzOUhCdV9N?oc=5",
-      "pub_date": 1763748446.0,
-      "article_url": "https://www.coindesk.com/business/2025/11/21/bitmine-immersion-sitting-on-usd4b-unrealized-loss-on-ether-bet-as-analyst-warns-of-structural-issues",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/13c2f3d8f4a14835d564bac5cf5d5cdd106bdcfd-1919x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "BitMine could trap shareholders amid low staking yields, hefty embedded fees and vanishing NAV premium, 10x Research founder Markus Thielen warns."
     },
     {
       "headline": "Ethereum Cofounder Issues Stark BlackRock Warning That Could Spell Disaster For Bitcoin Amid Sudden Price Sell-Off",
@@ -75,36 +55,56 @@
       "description": "Ethereum cofounder Vitalik Buterin has warned elliptic curve cryptography could break before the next U.S. presidential election in 2028..."
     },
     {
-      "headline": "Ethereum treasury FG Nexus, once eager to raise up to $5 billion, sells over 10,000 ETH to fund share buybacks",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMDNtS1h1QVhTTTAyQTBNbS1jNmNiN2xfSHB3N2ZJWldEenBZT2pLTmVIRnREZGIyMEphWnNZcFQ3ZEsyY1BGcmozS3IwZlIzT2xKSlUzYVNBN201V1Y5Zm9YdkFBZHBLX25KVklFSmRCNWZVSmNwRmwxRG03ZzNWZFU3Z01qTWdfdk5lSGc1cWxBVU9idnhJSHQ2TkNqc03SAaQBQVVfeXFMTjdybmk4WmYybVRyU09uQjdvdUFEeHJPaUkwWDlxS085UjdMVkprNVdJa3VvLWR3NDFjMFRVUTVwVG83ZUFZdDF2enoxVHBTZ2pTMFp6d2VfZ3FHd3NjbVkzWDAxbURRaGlmU3VseWNmbjI3ckdHM200VVhXeEFCNGI5ZG1WaHZGMWdZei14S3pVREdFU05WZHI5S3FxUDVPRVJSMW4?oc=5",
-      "pub_date": 1763652236.0,
-      "article_url": "https://www.theblock.co/post/379721/ethereum-treasury-fg-nexus-sells-10000-eth-fund-share-buybacks",
-      "image": "https://www.tbstat.com/wp/uploads/2025/06/ethereum-eth-work-news-1200x675.jpg",
-      "description": "In August, FG Nexus filed paperwork with the SEC so it could potentially raise as much as $5 billion to buy Ethereum."
+      "headline": "Ethereum (ETH) News: Tom Lee's BMNR Sitting on Major Losses",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOTMwNEpyNXljS0UtVjVHUE91ZnlBUnFmZktHalRMX0pFdmxqQWxaTF8zU0VoQ20zeHpEYmM5RVZwRmhpWkNJMXZtQkNybm5lTzRaTjVMVE14c09MdXBEa1VVZUZKNDd3OUNMU2JRRk5NbklmTW9fcmt4V2QtQlRCdERUemZ1aHFjSjYxSmNzV3NLWm5uOUE4eDk3SXc0WTNHeTRERTNIRFA0STR4S0FSOGpuNG1JQm1qc0VVYnN0UnB2SWdBMG94RzNBWWh4V0xaN003S0lEQ0UzOUhCdV9N?oc=5",
+      "pub_date": 1763748446.0,
+      "article_url": "https://www.coindesk.com/business/2025/11/21/bitmine-immersion-sitting-on-usd4b-unrealized-loss-on-ether-bet-as-analyst-warns-of-structural-issues",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/13c2f3d8f4a14835d564bac5cf5d5cdd106bdcfd-1919x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "BitMine could trap shareholders amid low staking yields, hefty embedded fees and vanishing NAV premium, 10x Research founder Markus Thielen warns."
     },
     {
-      "headline": "Ethereum Price Prediction After $3K Lost: What Happens to ETH DATs Now Paper Gains Are Gone?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSFpVWVVCekJBTlFYQnJ6MWRqOE11Vzdsa1dteWVORVBXZEZvVUtVWV9TWThSVnJyeVpwVFN0bVd4ZVlFQ21EWngtSHlrZkNYc3dQMFRXOTRGTUxGY3VlNzgxR0RpMy1NdEthWnFMZWRfME5fZDVHLUhpOFlqMnd3TUItZlgxdw?oc=5",
-      "pub_date": 1763734887.0,
-      "article_url": "https://finance.yahoo.com/news/ethereum-price-prediction-3k-lost-142127146.html",
-      "image": "https://media.zenfs.com/en/99bitcoins_us_315/90b9379ca275f641ad3d0a68c4eb585c",
-      "description": "The Ethereum price is down a further -9% in the past 24 hours, dropping to around $2,700, a level not seen since mid July, 2025, marking a four-month low for the second-largest digital asset by market cap. Technical indicators and institutional demand are leaning bearish, which could see ETH slip ..."
+      "headline": "Bitmine Immersion Technologies Faces Financial Risks Amid Ethereum Volatility",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNHQ5U0Mta2ljRGF0U1pOR0Nsc1V6X0U0N1NxbWktb1FTRmJMN0YwUHBoQm5LNHFfaVlpRG54Tk1mU0g0aVp2Y21TT2NCb0J2eW91OEFIVkZLRk1adUZyNFdsdXZFem1WQWdPX2FqOEpkeU5ocTEyT2Q3UnByeEoxZDdETzYzeW01N09HNThsTWhKbmdqVTV6QnBjLVZQN2FweWlibG1xQndsRlpkejZQR2RVVDZBZF91dTZ0MVd6QnMyc3YwMVFCOQ?oc=5",
+      "pub_date": 1763877830.0,
+      "article_url": "https://www.tipranks.com/news/company-announcements/bitmine-immersion-technologies-faces-financial-risks-amid-ethereum-volatility",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_2060538899.jpg",
+      "description": "Bitmine Immersion Technologies, Inc. (BMNR) has disclosed a new risk, in the International Operations category. Bitmine Immersion Technologies, Inc. faces significa..."
     },
     {
-      "headline": "Why Ethereum Is Moving Lower Today",
-      "source": "Nasdaq",
-      "source_url": "https://www.nasdaq.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FNzhsTkduRXVjLXBIdk8zUUsxX3RMTk42cHpKcUJMRUpxTndMWG82V0NIU0JtY2ZmeFVEbEJVQ2NEV1VBUXVERzJSQnJqQ0FNOURLaXgxUzdQakpxa3hZbFlVb0dSeHlVVXZPNTJWc3Y?oc=5",
-      "pub_date": 1763765400.0,
-      "article_url": "https://www.nasdaq.com/articles/why-ethereum-moving-lower-today",
-      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-      "description": "Key PointsDespite news that the Federal Reserve may opt for more rate cuts -- a move that typically boosts crypto prices -- the market is still falling."
+      "headline": "Why Bitmine Immersion Technologies Collapsed 24.4% This Week",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblZnMFlCaGZkdzNsWlBqb2l3Y3FEMjBseGRSekZWQnBtRzVOTm15Mm9HMDVhVFNLeVJmZXo2TTdydmJ6NXhwa2VxbWpKYVhHRFBPcVNORkdCMUxjSGJWemtKNWZQSmF1b3ZlR0h1cnVMcnVCYkFVR3RnWDFQNDZoMmJOSDdTdFBNdW4tYkxNWk8xVHJTSFhJNQ?oc=5",
+      "pub_date": 1763777340.0,
+      "article_url": "https://www.fool.com/investing/2025/11/21/why-bitmine-immersion-technologies-collapsed-244-t/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844165%2Fbitcoin-hit-by-lightning-crypto.jpg&w=1200&op=resize",
+      "description": "The cryptocurrency investment company is falling along with its favored Ethereum coin."
+    },
+    {
+      "headline": "Ethereum Golden Pocket In Play \u2013 Can ETH Turn The Tide Above $2,800?",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczI2ZHlzcHlsTG1UaEhuNnRXZHFUNWxvWThEQnB3NHVqXzQtZTBvZWVTLWQ4SjlESjA5b3VScGhxam5fRHFJRnM2VWVWeWQwMG93SzB6TVdSbDFaVk80LTluRWhPcGRlQnJXQUJaSnB5VFZLSVh1Z3hQNVNiMFBDYzhsYTlhUEtLeXp3c1JPNWhSSW51R3RaQzNnbkJ1ZWJrMXFWMXo4bzhZOXZBWDhwT0tEdEwzNEdaSDc3VTFLZw?oc=5",
+      "pub_date": 1763839842.0,
+      "article_url": "https://www.tradingview.com/news/newsbtc:564a0b07d094b:0-ethereum-golden-pocket-in-play-can-eth-turn-the-tide-above-2-800/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ethereum is testing a critical juncture as the golden pocket between $2,600 and $2,800 comes into play. With resistance looming at $2,800, the market now faces a pivotal moment. Can ETH reclaim this level and spark a move toward $3,000, or will sellers push it back below key support?Golden Pocket B\u2026"
+    },
+    {
+      "headline": "Whale Buys and Fusaka Upgrade Send Ethereum Surging Into Focus",
+      "source": "Coinpaper",
+      "source_url": "https://coinpaper.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObktZX3kzbXR5cVdqN3VNa0x3SXVQU2xESlJFcHYzSU8tSWVQcWY3ak1HWlNNanVsU1FLQzE3Nk1GazVUVldqWjJCaGo3c1JyZmFvWVVhaHdCNi1yYzVNWmF2YjFsWFF5REtVQU51am9rVlFJc1NaUTVzeHhZcFN2cFNrR1RQUzI3OVpvNThPVVZKaU52?oc=5",
+      "pub_date": 1763896853.0,
+      "article_url": "https://coinpaper.com/12560/whale-buys-and-fusaka-upgrade-send-ethereum-surging-into-focus",
+      "image": "https://res.coinpaper.com/coinpaper/image/upload/v1763896583/cp6225_Ethereum_coin_overlaid_with_a_holographic_inverse_head_a_1003f009_c900_426f_987b_5669dfc9afd1_7eaeb7ff2a.png",
+      "description": "Ethereum sees BitMine whale buy, Fusaka upgrade schedule and key support bounce as charts outline possible post-upgrade upside."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T21:24:12.508228+00:00"
+  "fetched_at": "2025-11-23T22:00:18.184839+00:00"
 }

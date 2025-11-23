@@ -45,16 +45,6 @@
       "description": "EV and AI initiatives have become an increasingly important part of Xiaomi\u2019s business."
     },
     {
-      "headline": "You Must Read This Riveting Whistleblower Lawsuit About Allegedly Dangerous Robots",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVW5TMU5xTV96SW9YWGdfcE91TUg0SGpBdDVucHUtZnQ0UmNkdENNSTBUbUQzLVhVUHU2ZnJJZ09XaTlWS0hBY0ZURklJeTNTOUo1X0ZtVVJnaGFiSy1RRHFQREppQkpaSE54TUdrbTFidl9yb0c4a0FScUF6MGRCQ2hEa3lHTEF6aWxkUEdPQktMVURUaklnT0pHYS1RaFh0OEJfUW1TaXBjb2d0MWk1MTh5Yw?oc=5",
-      "pub_date": 1763838302.0,
-      "article_url": "https://gizmodo.com/you-must-read-this-riveting-whistleblower-lawsuit-about-allegedly-dangerous-robots-2000688737",
-      "image": "https://gizmodo.com/app/uploads/2025/11/figure-02-1200x675.jpg",
-      "description": "A safety technician was fired as a company allegedly rushed ahead in commercializing a powerful humanoid robot with bone-crunching capabilities."
-    },
-    {
       "headline": "Exclusive: Founded By Ex-Nvidia Researchers, Flexion Lands $50M To Build The 'Brain' for Humanoid Robots",
       "source": "Crunchbase News",
       "source_url": "https://news.crunchbase.com",
@@ -63,6 +53,16 @@
       "article_url": "https://news.crunchbase.com/venture/robotic-brain-building-startup-flexion-raise/",
       "image": "https://news.crunchbase.com/wp-content/uploads/AI_Brain.jpg",
       "description": "A startup founded by former Nvidia researchers that\u2019s \u201cbuilding the brain for humanoid and human-capable robots,\u201d Flexion has raised $50 million in funding, it tells Crunchbase News exclusively."
+    },
+    {
+      "headline": "You Must Read This Riveting Whistleblower Lawsuit About Allegedly Dangerous Robots",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVW5TMU5xTV96SW9YWGdfcE91TUg0SGpBdDVucHUtZnQ0UmNkdENNSTBUbUQzLVhVUHU2ZnJJZ09XaTlWS0hBY0ZURklJeTNTOUo1X0ZtVVJnaGFiSy1RRHFQREppQkpaSE54TUdrbTFidl9yb0c4a0FScUF6MGRCQ2hEa3lHTEF6aWxkUEdPQktMVURUaklnT0pHYS1RaFh0OEJfUW1TaXBjb2d0MWk1MTh5Yw?oc=5",
+      "pub_date": 1763838302.0,
+      "article_url": "https://gizmodo.com/you-must-read-this-riveting-whistleblower-lawsuit-about-allegedly-dangerous-robots-2000688737",
+      "image": "https://gizmodo.com/app/uploads/2025/11/figure-02-1200x675.jpg",
+      "description": "A safety technician was fired as a company allegedly rushed ahead in commercializing a powerful humanoid robot with bone-crunching capabilities."
     },
     {
       "headline": "The Weekender: Robots, Robots Everywhere (Even at the Litter Box)",
@@ -95,16 +95,16 @@
       "description": "Sunday Robotics spent less than 2 years in stealth figuring out how to train robots to complete complex tasks like handling dishes using human data."
     },
     {
-      "headline": "Parallax Worlds Raises $4.9M To Stress-Test Robots Before They Hit The Factory Floor",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVW5WVi1ycjBEZVkxNFp4VnBLc3ZoLXlSNFdXYkR4ZWkzTVltX3A5U2tTRDNNa3JHTnp3VGR5NjBEZG53MWVmS09ZM3BLb205R3pfaE56R1gzczY4SWpFWTI2djktR2RKYkxabkVRYUpGYXV4M21PRUFMeGhRdTcxaUoweVNweXpXMEpMMnp6Q1pHNmVFVndqajNQQ1F2NHZXeUZ6MUdRbzdKMGFNd2dXVnRMVjVndFFaYjc1WVpFYmNuMi1MM2lza0JBbWd2ajg?oc=5",
-      "pub_date": 1763824152.0,
-      "article_url": "https://www.usatoday.com/press-release/story/19080/parallax-worlds-raises-49m-to-stress-test-robots-before-they-hit-the-factory-floor/",
-      "image": "https://usatoday.xpr-gannett.com/wp-content/uploads/sites/3/2025/10/access-newswire-1761595137026.jpg",
-      "description": "Capital will fuel product development, hiring, and expansion into large-scale manufacturing SAN FRANCISCO, CA / ACCESS Newswire / November 20, 2025 / Parallax Worlds, the company building hyper-realistic simulations to stress-test robots before deployment, today announced a $4 million seed round, bringing total pre-seed and seed funding to $4.9 million. The round was led by [\u2026]"
+      "headline": "Students compete in regional Lego Robotics tournament in Rapid City",
+      "source": "KOTA Territory News",
+      "source_url": "https://www.kotatv.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaXhJaFRQTGlnWkFTZmozbV8wLW16ZHp6ZU5xVkhVYlRfakdKX2t4U2JoVVdnNThiaUdfcXNyMWQ5Wk5MTTFFeVdWaHgyc0NXZE5YUXNvQVhBOENVUVVYdWxRQkR3Rm16Y2lWUS1TYnB0QkdoS1FlcXB2MmwyclFFdW50bkVUOVlqYlk2NU1kQnFRTEEyT0VXQjNXWjZ3WGJwQmFiNw?oc=5",
+      "pub_date": 1763875916.0,
+      "article_url": "https://www.kotatv.com/video/2025/11/23/students-compete-regional-lego-robotics-tournament-rapid-city/",
+      "image": "https://gray-kota-prod.gtv-cdn.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F11-23-2025%2Ft_94cf433df27245d7bc610283d6bc836a_name_file_1280x720_2000_v3_1_.jpg?auth=4755e187e9a5c48c18ef45aa5f00f935687c248d050246f4fef76d60610896d9&width=1200&height=600&smart=true",
+      "description": "Students showcased their Lego robots at Saturday's competition."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T21:24:26.519068+00:00"
+  "fetched_at": "2025-11-23T22:00:18.960906+00:00"
 }

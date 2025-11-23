@@ -5,24 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Nvidia CEO says the company is in a no-win situation amid AI-bubble chatter, leaked meeting reveals",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSmdXTEwwSTlSVktYNENIYXlXQVRwMl9FOUs3VmNsWWZablgtVUxFbk9mUjlVQ0U3bHpkR0RkUnlFclJQZ0JVM1ZlYnhRMXVZX1Qwdy16NkJCMUZ0cDNLdUJ1cnpXWnJqQVRseUd3SWpxQXdoNmllMjJkSFBVY2ZIdUtLaHlpWVBMLVRGVzVEZzlpQnh4ekZkYU5kMDNxc1oyNllRZ3k2MWdfdURqMEdjbUV3QVdLZkZfWG1XWFNVMWRldw?oc=5",
-      "pub_date": 1763763960.0,
-      "article_url": "https://fortune.com/2025/11/21/nvidia-ceo-jensen-huang-q3-earnings-beat-no-win-situation-ai-bubble-fears-nvda-stock-selloff/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2174947979-e1763747436953.jpg?resize=1200,600",
-      "description": "\u201cThe market did not appreciate our incredible quarter,\u201d Huang said."
-    },
-    {
-      "headline": "Michael Burry Takes On Nvidia And The AI Boom, Here's Why People Are Loving It",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMWIyakl4anNxWk5QMEZoV0JrakdudFpvVDFoVXk2VEVEOTlydEJGcV9CUFhMd3pOR1ZRM0lJMl9mQjZrOU15M3U4VGhtaTliaW9aa05UYmRCcnVxOXMyRGRUUHNGY2J2Vm5uQWhieWdIY25odm5yZlIxelRZVHNtbA?oc=5",
-      "pub_date": 1763926576.0,
-      "article_url": "https://finance.yahoo.com/news/michael-burry-takes-nvidia-ai-193616015.html",
-      "image": "https://media.zenfs.com/en/Benzinga/c42ee455d391bef8b7b6c81914fb169b",
-      "description": "Michael Burry, famous for his accurate prediction of the mid-2000s US housing bubble burst, has once again stirred the pot in the financial world. This time, his bet against Nvidia and his criticism of AI companies have made him a hot topic on social media. What Happened: Burry\u2019s recent actions may have played a role in last week\u2019s stock market dip. The investor, notorious for his ominous crash and recession predictions, recently made a comeback on social media after a two-year break, issuing se"
+      "headline": "Why the once-invincible Nvidia can\u2019t save the AI trade",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNMHBwT3lDWndjRFlyOE5KQnBRY0VyMkpYYnplUVBfN1R4a2Y4MmpwTjZmZFczQURSSGNzZ0FxTmFUZlVqaWtXcnlkcmVMUjByd2ZWT3RLVjkyX0ZucnAzZE41X3h3ZmVSeFdBVXA1eTQwOVNhQm54X2l0dHB2OVVYRGFvbmNuV190OVBfcWgtS1c4Rm1zU1ozclp6ZndCNUZ0WVZnTEt6NlFiZWV1VFNHeHFtb0lJQlkwWjliNk04UzI3VGNfTGtCc0dFaUs4dlhsZ3d4dGd6cV8wam5veHhCLWV3UlJjZG9aZ01TVmJoSkdySmNKUW5KN1prVDVweHdnaUliVHgtY1hJX0F1VjZoWUN6MGlTbE5CV2loVWZOdUtVQXR0WUpmcEJIU2RRZWlZMXlYdGF3MFBwUEhFNzd2bVJKOGN1OEtldW51REg0QXdHc1JDc3l1R2lqM002Zm04TjdWRXgzX2d3Y1puS2lza3hTcmpEajZOanlFcXRycXRIOHZfOUlESmwzV0M1NTdTYUs1SnRxWnNrdTQxUldZTVRR?oc=5",
+      "pub_date": 1763917260.0,
+      "article_url": "https://www.marketwatch.com/story/why-the-once-invincible-nvidia-cant-save-the-ai-trade-893d307a?gaa_at=eafs&gaa_n=AWEtsqeA35fX4ictL-lkNq6NLzu6R2kGXHeHJN00Mfaoeh6Sp-DDzLbV9P4r&gaa_ts=69238761&gaa_sig=I2x2SJl_dd1o9DegAwG_Ns5yAv3GVjdfnmt_7VnLIgilNjHkFdo64ZqvFHuGtj7bM33YzQrWLAxS1KtjRj3HSA%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Here's why concerns about an AI bubble are bigger than ever",
@@ -35,12 +25,32 @@
       "description": "Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there's a bubble that will soon pop."
     },
     {
+      "headline": "AI rivals like OpenAI, Nvidia, and Oracle are collaborating to build \u2018Stargate\u2019\u2014but a Yale expert says it violates 135 years of antitrust law",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdUFsNXBKczBrNDlfM29xcUw4QXJZOFFmaTNOOUxoR2tZa05xRFQ2VlR5c25mWVg3VU9LRmZ4VURHSUx5NFZCZVQtQWM4Z2FNLU5uWE1uYWV6VkhlYWFzY3BLU2UxZzlMV09ZR1RMMU5vTHFPRzlxVXYzX1Ixd0lZMzk2WFZYZU1EWV9YR0JScVlFTVFtaTAwdDNnbE84aXZ3SFdfbDdQdEluSzBieEVqREE1WFZMN1JNQ1d1UlFsWjZ0YUd6X0xiYmM3VEZwUFVrSXUzT29yNDVCSHl0UTBSY2hybG1xejd1S3ZFdnVJV20zSXZQVXlOZXhJeF9BZw?oc=5",
+      "pub_date": 1763888400.0,
+      "article_url": "https://fortune.com/2025/11/23/ai-rivals-like-openai-nvidia-and-oracle-are-collaborating-to-build-stargate-but-a-yale-expert-says-it-violates-135-years-of-antitrust-law/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236546815.jpg?resize=1200,600",
+      "description": "Six AI leaders are uniting to form a single company. How is this possibly legal, asks Madhavi Singh of Yale\u2019s Thurman Arnold Project, an initiative dedicated to antitrust issues."
+    },
+    {
       "headline": "Opinion | The First Large-Scale Cyberattack by AI",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNZnFBOEd3ZXVWQzh1bWlLZXJPWnBTYTJNMUR1WW14UWhVQUdkZEtxbFZMd3hVcTZuVS1hWEtNVWNSNDNnenN1TzBaT2ZtaUJhYmdHb1ZVcEtNOWFqbjNNaXhEMU9BaFJiUTFpOXZxT3RBM1B1bTE3VHFWdkJiVXhyNFE3Uk5NTlVJcTVNdFR5NUJiVVZtbURPWmM3S29zRFFqV2hxSzAzRDgwZTBUbFc0ekkyU09pLUR5ejBzLWJ5b2VZYWxmZmtkaXhkcXNrXzlvMEE5YjRrY1k5TkZnR1BQQ1JZNmlRY0ZFbjFGVGhpR0hEdnFHQjNQYUpod28zTjFzUjNVa3JnaFJkRUY2Sy16WlNGUi05UDhyVFRJSmZxT0JGQnNlQ2NUVkxPNlR3RXg1cjFJX0xmM2dSNGZ0bkJwUWxwN1BVbDlWYWc0TTYtMVVmeFRnWkg0MllLT1A5emMyT2oyTV9ZUTJVYTdZcmdIUnNwUnVnaHRVZGg3dV9NNGdDUHB6OFRZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNNldpWEowWFZsQXJmcWNnUENjRW80cWZvWmk3bVI5ZktwVThfM2QwMzNxWnZUY1c5TkFLWjVLMzVFVWFrOVlyanRsR1BlT3ZFWllHSm1LQjc4Yl9zNi1OOHVnQTNhcWREQVg5azRNcjhKMkdTZVJDcWZ0aGFheTM0cnNLS1NvZmtlUzRNRVZmU1U5WC16X09pYzRNVjJjb1h3UUQzVnplTGtSLWNaUU91MDJYQ2laX3ZfM29BX2UzZ1N3T25Rejd3QkRwcW5pMTZHTGF1Y19XNUhPR1N2ZGFWclk2RFVjSTFlMDVKa2NPaEcyeFdLR20yc0Uwa2NBVnhacTNtLWNNWVZucGlCWjN5NFltNE5EbWV1c1VDYVF5bG1YTEkwellCallFRjl5ZHZrNjhkNUNHWDBCYTZTRW81dVFHZ0tnYXU4S0pjLTBFVUpoMXVLWHJ1YmNqQWxLYkhBTTh4RFRyTE90RUJBLThodWp4b2FKRlFpR09YWURmUUpYNVkxLThr?oc=5",
       "pub_date": 1763917380.0,
-      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqfOJJ46QUvygTKLQCX2pJi5eirDAVCuv0SBReIagaiXZJZAw12tvFS-&gaa_ts=69237eec&gaa_sig=INlQDkskfRKeXo1qFSf_80XLXsqUg2oiNldb7BvXRszkqktK77BEyq2cTYZr86b3l2q5LYH1svA17_QT63468g%3D%3D",
+      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqcBA-axsjJhc7HyseDX42wxXMXB3rCz08yhjisBDhzm1p88zCi7QRA7&gaa_ts=69238761&gaa_sig=UrwGzw1JGEcQ026WOS-15x3qSYix0SFscufl0v4G_OKCO6W3D3xm-kQvxy4in8k6nUsKm0_BabpNCcvip5jy0w%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Investors eye holiday season turbulence amid AI and rate cut doubts",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWxsUzZaWGxKeGtySjl4SE9jWF8ta1Y4WHNpZmNMUy1tTWFZcThsbEtEamVVOEhSdFptLS1Dc0YtZThvbkptWWRmUUs5TGk2ZnJ0Wl9mVG9XT2NjckNSbWhjYnl1dWJpV2duS1VOZjRtYktxbUlSenFaVUNQdEtRNUlFSGVHQnNOZXhDb3RiV1ZtY0I4d0lDUURqOXh0Y2p6bTRZRjQyeW55TThr?oc=5",
+      "pub_date": 1763896189.0,
+      "article_url": "https://www.reuters.com/business/investors-eye-holiday-season-turbulence-amid-ai-rate-cut-doubts-2025-11-23/",
       "image": null,
       "description": null
     },
@@ -55,24 +65,24 @@
       "description": "These tech stocks could power your portfolio in 2026 and beyond."
     },
     {
-      "headline": "Fei-Fei Li, the 'Godmother of AI' whose startup is now valued at north of $1 billion, got her start as a dry cleaner",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUtkOGgxb1JpNHhsbHpfQTJtZEVxbHZkSjJKX3d5NTdxWXlwWGdkZ2wwTHNTcWtDYnFCOEd3UlBnMWZWMHp1WDRCUmJXcHliU2tJYW1Wcy11S1k5d0h3ZEpycnF2WHU3Wmt2THo2SFRvYmZzSV83M054cGZLbHY2OXJkbkpveS1XSl9rdHBhaVFqZjV3NDhDVTROLVA?oc=5",
-      "pub_date": 1763927820.0,
-      "article_url": "https://www.businessinsider.com/fei-fei-li-world-labs-ai-childhood-immigrant-dry-cleaner-2025-11",
-      "image": "https://i.insider.com/692210ddabd5e944effb5060?width=1200&format=jpeg",
-      "description": "Fei-Fei Li says her immigrant experience helped shape her approach to AI research."
+      "headline": "This Could Be the Most Undervalued AI Stock Heading Into 2026",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZEZLLWtIZmZnSzN4R3owbF9QUnU2cHBSZlVzOVMzaDNvMGJGdTRoeTVIUDh3VXU5ZUw0RVV3bGJuTDNPT2p3WFFaTVFPUVNkclZhU1YyeUdFUmZGbFBrcmN4ajhkV2Q4cnBZMXRuV1Izdnh4eVJ3RGV4VkJjVkRTcUNkaUNoTUVwb2o4bDhGeGNSTk9wUUs0?oc=5",
+      "pub_date": 1763913600.0,
+      "article_url": "https://www.fool.com/investing/2025/11/23/this-could-be-most-undervalued-ai-stock-into-2026/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843447%2Fmeta.jpg&w=1200&op=resize",
+      "description": "It's growing quickly, but the stock is cheap."
     },
     {
-      "headline": "New web standards could redefine how AI models use your content",
-      "source": "Search Engine Land",
-      "source_url": "https://searchengineland.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0ZJUzNDYnZ4YW5jbnRHb1BOVF9rUDU1UngxN2h3TGhaVzE1LWNIdkxwYUw3ZVplek5veEZiaTBlYnFsSjBiaHZVRDY0Nl9YT3ZwRV9DS3hVQXd3d3pxWWlyZmZGZUtHdnNZREU2VjcwWkdBVktkOFFVNGlmZ2puNkpHdHlKQUk?oc=5",
-      "pub_date": 1763931600.0,
-      "article_url": "https://searchengineland.com/robots-exclusions-new-rules-definitions-ietf-464990",
-      "image": "https://searchengineland.com/wp-content/seloads/2025/11/ai-content-crawlers-1920.png",
-      "description": "A new protocol could give you power over how AI models collect and use your content. See what rules are being drafted and why they matter."
+      "headline": "Knives Out Director, Rian Johnson, Goes Off on AI",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHlGNEV1UkNfVEtQYzlOb2RyOTY0d05heHZBMkJSWVc4U1RMdE1rSVZKMkVuaVFnWWhkaDhBMm1Uam5aQ3R0UlZrUFdGN1hOOHdJUy1DcmlaUGJoUHIzX2YzMTZsZGxldEZ6SjQ4T1czdDZKbkk1Y3luWXlMS2JBTHM0aVd4UUJnV0x2c2s3bEJISUVWMzZuRWVkTnRvQnFsV3c?oc=5",
+      "pub_date": 1763933231.0,
+      "article_url": "https://www.yahoo.com/entertainment/movies/articles/knives-director-rian-johnson-goes-212711652.html",
+      "image": "https://media.zenfs.com/en/tv_squad_449/05c4d6f227fe244fefa76f10bab0e43d",
+      "description": "Rian Johnson gives his take on generative AI in an interview with the Hollywood Reporter."
     },
     {
       "headline": "The surprising issue driving a wedge between Trump and his MAGA base",
@@ -85,26 +95,16 @@
       "description": null
     },
     {
-      "headline": "White House pulls back on AI laws executive order",
-      "source": "Mashable",
-      "source_url": "https://mashable.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0MVViM0JteWZVWjBieVlRSXV4SGROQlo0RzFpeVZBY2djRWdyUXpjamhqN1V4OFYxdENpb0pTZWdMNW5oaEVEekxXS0Fna0VpektqaXNzcDlaNmh3LXFRUHp5S29TbWZWUXVCVnloU1ZBSGRoUzAzMnZUYmU?oc=5",
-      "pub_date": 1763925692.0,
-      "article_url": "https://mashable.com/article/white-house-donald-trump-ai-executive-order",
-      "image": "https://helios-i.mashable.com/imagery/articles/04LbJ7KabKpiWXfGj98yuIT/hero-image.fill.size_1200x675.v1763920444.jpg",
-      "description": "States can make their own AI laws, for now."
-    },
-    {
-      "headline": "Trump administration might not fight state AI regulations after all",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSl9VRndrR3RBZjFsTFNuLU11eVBWSnJyVkx1MjdSRGp2QzdPeFYwYzh4U1NzSERtVzhJZF82MUF4dDh4OEZXQkN1dUE1bExYemxhTTZXTUNXcnRIV215LVQ5cVJ0WG5kbGF5b1RWenRwWERPVUQ1RlRiUmFPdXQ3UVc0QlpYbHJBd1FCS1JETGlIRU0wX2JHY0tiMEktdzNiUDNFRw?oc=5",
-      "pub_date": 1763850027.0,
-      "article_url": "https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227934246.jpg?w=1024",
-      "description": "A Trump administration order targeting state-level AI regulation is reportedly on hold."
+      "headline": "AI tokens are surging, but are profits?",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcjZ0Y3l0OUxMbTZ4ZG1UQldBa3djYURZQ3h3R2lvOE8wS3NQRV9JdU1hVnBVai0xY2QyX3RWNVU3ZlF2T0Y4RzNtOURBeWcyVXg4VDcyczZoRHc5eHFQLTZYYklfeFRNcXJhLXEzQ01HWU50MkpWbU81RTJBMmFXV25GTnkzWHdKMTZV?oc=5",
+      "pub_date": 1763916087.0,
+      "article_url": "https://www.economist.com/business/2025/11/23/ai-tokens-are-surging-but-are-profits",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T21:24:19.725889+00:00"
+  "fetched_at": "2025-11-23T22:00:24.692241+00:00"
 }

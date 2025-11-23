@@ -57,17 +57,6 @@
       "description": null
     },
     {
-      "title": "Don't worry mom, I'll contact the CEO!",
-      "author": "unthocks",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p4a9oj/dont_worry_mom_ill_contact_the_ceo/",
-      "published": 1763862135.0,
-      "thumbnail": "https://preview.redd.it/0tljqpjlvw2g1.jpeg?width=640&crop=smart&auto=webp&s=bcad6859e6b6e743ece40b4f028ec4209dcb4c1b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "pahahahhaha",
       "author": "Repulsive-Box-6516",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p4upwn/pahahahhaha/",
@@ -79,22 +68,11 @@
       "description": null
     },
     {
-      "title": "My reaction to BTC hitting 86k today",
-      "author": "dim_discourse",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p4bet1/my_reaction_to_btc_hitting_86k_today/",
-      "published": 1763865570.0,
-      "thumbnail": "https://preview.redd.it/fizjesox5x2g1.gif?width=216&crop=smart&s=73e8b51adddb203e96db1b774f3de6df4a5767f2",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Bitcoin is dead",
-      "author": "yoobermcruber",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p4w1nu/bitcoin_is_dead/",
-      "published": 1763927314.0,
-      "thumbnail": "https://preview.redd.it/1lg6agei923g1.jpeg?width=640&crop=smart&auto=webp&s=1baead69ec7b3e93cb73bfc936fcdc025ec9e8da",
+      "title": "Don't worry mom, I'll contact the CEO!",
+      "author": "unthocks",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p4a9oj/dont_worry_mom_ill_contact_the_ceo/",
+      "published": 1763862135.0,
+      "thumbnail": "https://preview.redd.it/0tljqpjlvw2g1.jpeg?width=640&crop=smart&auto=webp&s=bcad6859e6b6e743ece40b4f028ec4209dcb4c1b",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -110,7 +88,29 @@
       "site_name": null,
       "favicon": null,
       "description": "Bitcoin is rallying and I expect it to become very bullish.Thoughts?"
+    },
+    {
+      "title": "Bitcoin is dead",
+      "author": "yoobermcruber",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p4w1nu/bitcoin_is_dead/",
+      "published": 1763927314.0,
+      "thumbnail": "https://preview.redd.it/1lg6agei923g1.jpeg?width=640&crop=smart&auto=webp&s=1baead69ec7b3e93cb73bfc936fcdc025ec9e8da",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "My reaction to BTC hitting 86k today",
+      "author": "dim_discourse",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p4bet1/my_reaction_to_btc_hitting_86k_today/",
+      "published": 1763865570.0,
+      "thumbnail": "https://preview.redd.it/fizjesox5x2g1.gif?width=216&crop=smart&s=73e8b51adddb203e96db1b774f3de6df4a5767f2",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     }
   ],
-  "fetched_at": "2025-11-23T21:23:55.172201+00:00"
+  "fetched_at": "2025-11-23T21:59:59.183842+00:00"
 }

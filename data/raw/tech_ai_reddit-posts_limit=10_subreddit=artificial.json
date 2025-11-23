@@ -57,17 +57,6 @@
       "description": "economist and author David McWilliams told Fortune that AI hardware investments are \"digital lettuce\" that are going to go \"off.\""
     },
     {
-      "title": "Image AI Can Compress Knowledge \u2013 and Change How You Learn",
-      "author": "DarknStormyKnight",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4xtnp/image_ai_can_compress_knowledge_and_change_how/",
-      "published": 1763931631.0,
-      "thumbnail": "https://external-preview.redd.it/bIf1nkVawZkY1z2NPcC74pwOxuS0SE9oieuA4zlngzg.jpeg?width=640&crop=smart&auto=webp&s=7d4c50e9068ef182556748c0a190e1464c3f7c19",
-      "external_url": "https://upwarddynamism.wpcomstaging.com/ai-use-cases-prompts/image-ai-info-compression-engine/",
-      "site_name": "Upward Dynamism | Learn AI for Work & Life",
-      "favicon": "https://i0.wp.com/upwarddynamism.com/wp-content/uploads/2025/05/upward-dynamism_john_ai-literacy_blog_main-logo-emblem-e1747509591408.webp?fit=180%2C180&ssl=1",
-      "description": "Modern image AI like Nano Banana Pro now handles text cleanly enough to compress dense content into infographics. I'll show you the real use cases."
-    },
-    {
       "title": "Made with kling and grok - credit: ai am a jedi on YouTube",
       "author": "ksvetlyo",
       "url": "https://www.reddit.com/r/artificial/comments/1p4n56f/made_with_kling_and_grok_credit_ai_am_a_jedi_on/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "I tried building a small Python project recently with AI help, and it made the whole thing way less intimidating. Now I\u2019m trying to figure out which AI coding assistant is actually worth sticking with. Claude is great at explaining concepts, GPT feels better at reasoning through tricky logic, and I\u2019ve seen Sweep AI pop up for people who want project-level help directly inside JetBrains instead of switching back and forth with chat. Which model or tool gave you the best balance between learning, accuracy, and speed? And do you feel like it improved your actual understanding of coding over time?"
+    },
+    {
+      "title": "Image AI Can Compress Knowledge \u2013 and Change How You Learn",
+      "author": "DarknStormyKnight",
+      "url": "https://www.reddit.com/r/artificial/comments/1p4xtnp/image_ai_can_compress_knowledge_and_change_how/",
+      "published": 1763931631.0,
+      "thumbnail": "https://external-preview.redd.it/bIf1nkVawZkY1z2NPcC74pwOxuS0SE9oieuA4zlngzg.jpeg?width=640&crop=smart&auto=webp&s=7d4c50e9068ef182556748c0a190e1464c3f7c19",
+      "external_url": "https://upwarddynamism.wpcomstaging.com/ai-use-cases-prompts/image-ai-info-compression-engine/",
+      "site_name": "Upward Dynamism | Learn AI for Work & Life",
+      "favicon": "https://i0.wp.com/upwarddynamism.com/wp-content/uploads/2025/05/upward-dynamism_john_ai-literacy_blog_main-logo-emblem-e1747509591408.webp?fit=180%2C180&ssl=1",
+      "description": "Modern image AI like Nano Banana Pro now handles text cleanly enough to compress dense content into infographics. I'll show you the real use cases."
     }
   ],
-  "fetched_at": "2025-11-23T21:23:55.176775+00:00"
+  "fetched_at": "2025-11-23T21:59:57.818107+00:00"
 }
