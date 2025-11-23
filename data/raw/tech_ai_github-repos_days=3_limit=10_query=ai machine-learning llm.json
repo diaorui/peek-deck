@@ -8,9 +8,9 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
-      "stars": 79318,
+      "stars": 79325,
       "stars_display": "79.3k",
-      "forks": 11773,
+      "forks": 11776,
       "forks_display": "11.8k",
       "language": "Jupyter Notebook",
       "topics": [
@@ -226,5 +226,5 @@
   "days": 3,
   "limit": 10,
   "total_count": 148,
-  "fetched_at": "2025-11-23T07:29:37.560875+00:00"
+  "fetched_at": "2025-11-23T08:40:54.053428+00:00"
 }

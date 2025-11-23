@@ -15,16 +15,6 @@
       "description": "When the people making AI seem trustworthy are the ones who trust it the least, it shows that incentives for speed are overtaking safety, experts say"
     },
     {
-      "headline": "How patients are using AI to fight back against denied insurance claims",
-      "source": "PBS",
-      "source_url": "https://www.pbs.org",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEVtUDdjSVNVSkx3dG9MSlNfY1htdXlUQUxPOWE5c2hQUTc2QjVNZ1dEdFhJOUMxa1ZFVUVpLVZqZDhrbXhlSGFPY3Y3RDRGcjF6YWJTQ0hiRG43U0JrX01wQi1sRko1SHZKX0tsMEtQdlFrYmRhay1pNHhZaHZTYXBIU2NISDNzWkJrVldVb0NpdFIzOUN5VGhqYmp6RFFOZVVoWE1RSnM?oc=5",
-      "pub_date": 1763850929.0,
-      "article_url": "https://www.pbs.org/newshour/show/how-patients-are-using-ai-to-fight-back-against-denied-insurance-claims",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/aiandinsurance-1024x683.jpg",
-      "description": "As health insurers increasingly rely on artificial intelligence to process claims, denials have been on the rise. In 2023, about 73 million Americans on Affordable Care Act plans had their claims for in-network services denied, and less than 1% of them tried to appeal. Now, AI is being used to help patients fight back. Ali Rogin speaks with Indiana University law professor Jennifer Oliva for more."
-    },
-    {
       "headline": "The A.I. Boom Is Driving the Economy. What Happens if It Falters?",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -33,6 +23,16 @@
       "article_url": "https://www.nytimes.com/2025/11/22/business/the-ai-boom-economy.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Higher Education\u2019s AI Problem",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HcUNZWk9nSUFRa2RrRmMzR3FqMDg5d2c5S0Q4VF9LcktHY2xTNmV4bld1ZVl3LXZnOGxXX3dlVDFBZHVuQUlSWmVJamZFX2JYcHNYOUZfVHctV21iTldQV1RqS3BnNU5ub0stZg?oc=5",
+      "pub_date": 1763884800.0,
+      "article_url": "https://www.npr.org/2025/11/23/nx-s1-5570822/ai-in-higher-ed",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd9%2Fac%2Fc83d033f4ba38ad52c0b94e1a32d%2Fd9599455-db5d-4c2b-96cb-92542eb077b0.jpeg",
+      "description": "Across the country, colleges and universities are struggling to figure out how to incorporate AI into the classroom. ChatGPT debuted almost exactly three years ago. And very quickly, students began to see its potential as a study buddy, an immense research tool and, for some, a way to cheat the system.This week on The Sunday Story we look at the rapid growth of AI in higher ed and consider what it means for the future of teaching and learning."
     },
     {
       "headline": "This week in AI: Brushing off new bubble warnings, Google\u2019s AI comeback and Nvidia\u2019s China threat",
@@ -45,6 +45,16 @@
       "description": "This week, volatility took hold of the AI trade as bubble fears continued and Nvidia\u2019s blowout earnings failed to steady the market. Deirdre Bosa has the story."
     },
     {
+      "headline": "How patients are using AI to fight back against denied insurance claims",
+      "source": "PBS",
+      "source_url": "https://www.pbs.org",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEVtUDdjSVNVSkx3dG9MSlNfY1htdXlUQUxPOWE5c2hQUTc2QjVNZ1dEdFhJOUMxa1ZFVUVpLVZqZDhrbXhlSGFPY3Y3RDRGcjF6YWJTQ0hiRG43U0JrX01wQi1sRko1SHZKX0tsMEtQdlFrYmRhay1pNHhZaHZTYXBIU2NISDNzWkJrVldVb0NpdFIzOUN5VGhqYmp6RFFOZVVoWE1RSnM?oc=5",
+      "pub_date": 1763850929.0,
+      "article_url": "https://www.pbs.org/newshour/show/how-patients-are-using-ai-to-fight-back-against-denied-insurance-claims",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/aiandinsurance-1024x683.jpg",
+      "description": "As health insurers increasingly rely on artificial intelligence to process claims, denials have been on the rise. In 2023, about 73 million Americans on Affordable Care Act plans had their claims for in-network services denied, and less than 1% of them tried to appeal. Now, AI is being used to help patients fight back. Ali Rogin speaks with Indiana University law professor Jennifer Oliva for more."
+    },
+    {
       "headline": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -55,11 +65,31 @@
       "description": "\u201cIt\u2019ll be like playing sports or a video game or something like that,\u201d the Tesla CEO said."
     },
     {
+      "headline": "Elon Musk\u2019s Grok AI tells users he is fitter than LeBron James and smarter than Leonardo da Vinci",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV1VVNG9laERHUWR2Q1lhaXQzU0hEN2lEMjczSHptcG0zaXUzeHR4TkZqZ2phWEMxem5TLW1zd1I4WW1WY214Yk50UWkyVnVFYWFZX2plVG9maUMtRXRGcGlfdXJzV2pHYnAtbUplMXRfUzR0U09MSlpTdUNVMWFIblR1WV8xVXFEbHYzUGZHREJQcHkzZ2RMT0hMenpteWpFZE1md19BclloTDc3?oc=5",
+      "pub_date": 1763743260.0,
+      "article_url": "https://www.theguardian.com/technology/2025/nov/21/elon-musk-grok-ai-bias-ranks-richest-man-fittest-smartest",
+      "image": "https://i.guim.co.uk/img/media/6f51631e918b0ef2660772873dbe989e39f88a8b/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1be280599124d31e3d2065a3384b10ce",
+      "description": "Users noted that in a raft of now-deleted posts, the chatbot would frequently rank Musk top in any given field"
+    },
+    {
+      "headline": "Elon Musk suggests AI will make work \u2018optional\u2019. These experts weigh in",
+      "source": "CNN",
+      "source_url": "https://edition.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN2Y0Smh1SFlNLUswaW9uNlptTnE4RE5JdGlKZTl2bk9ZUDJJVWdmNkVkU2VzMFN1UFVEaEhlZGtyNk9CcEhvdmljUzdneFFRa1JheUEtRlJOTUZsRkZkazN3dGtPdjU5OHRITjVfa3ZsOGZuZFAwdG5ZS2FYTkUtWGpURm0wWGN0SHpDTjczOW1NZ2lZYmVQZW95akVpSkF1ZVpFRmpqaXlSSVJMNzJwa2g5RGoydw?oc=5",
+      "pub_date": 1763827293.0,
+      "article_url": "https://edition.cnn.com/2025/11/22/world/video/elon-musk-suggests-ai-will-make-work-optional-these-experts-weigh-in",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2025-11-22-at-11-00-14-am.png?c=16x9&q=w_800,c_fill",
+      "description": "Will AI make work optional or just unrecognizable? Erik Hirsch and futurist Sinead Bovell break down what\u2019s realistic, what\u2019s hype, and how workers should prepare for a future where efficiency, automation, and market power collide."
+    },
+    {
       "headline": "Insurers retreat from AI cover as risk of multibillion-dollar claims mounts",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyS2s1T09kQ2x3Qnk2LUxxdWZkMndmY3FXeXBzUEYwaE13VVpPNmE4cGUtbE02VktocjhobjA5dG1kMjJFRHIxN1NheExYU014N01DWG9LSm1qSGlLeW5abU14bkdqanMtTUJwNmdqM08?oc=5",
-      "pub_date": 1763874004.0,
+      "pub_date": 1763874033.0,
       "article_url": "https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9bc84743-630a-483b-ac2f-1c210c3e7c1d.jpg?source=next-barrier-page",
       "description": "AIG, Great American and WR Berkley seek permission to limit liability from AI agents and chatbots"
@@ -68,43 +98,13 @@
       "headline": "These two \u2018Magnificent Seven\u2019 stocks could be the strongest survivors of an AI apocalypse",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNeDNIS0FBX1AzYi1LTU9KY1hZZTdyQkYtQWozOXp5NklObUtlWmVIQ3poa1dCTEQ5QkJ4QVU3NWlYNXBMb3RTY0I1aGdfNUUyT3k1c29zMTcyb1JfbWdaMFhjZDJSdGVlXzdIVGFfX2twQ0FsdGJ5WlA3cFZ1N3cxalYwa3VOWVB2ZENrVVo1SkhnLU1pZ0ppeXpVT055Z2RuSmtOZE92RkdZUE9PMlc4d0NZRjh2S2J6b3BBVkF2R2tLU0EzNENPeV9BRGZ3Y1JpNzF5RXRvdThuQjlsdlFJSFBxRzZSektJdEJYWnAyaGpkam9SY3Q0LU56SlhHZjM2QnVsLXRjNTFuMm01MkxxWXRIenZQV1FLa2h0OVdjU0xxOG52Q2xWNWgtVi1xS0NQSTlzcmNmVkh0YmR0QkFfd3ZwOFhCWWdTVU02cG1NMWhiSE9DTW9jYU1ISWlaYUlSbHlKdUEwMXlnT1dTZ080M2RiVml4eHFBLUN2ZFNfZlYtOFJSbHBrR1VKNDl2R29oVGdtdW9BdkpPbTRaeVdzMEU1Q1Z2dlkzYVYteGpzVjVBQ1ZxNHc0SWlrX1RNaERSb01EbnlJYnZYM2Y0Y0Nv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQVlREMV9CQVBPOHJXaEtrWmFJb1ZpU2o2dmwxNW9MMFVUNVVSaFFLM0ttelJHQ21DbUpidGt2RXJvT09RWkJvYzFZWm91SnQyVUowbkttNlVuRW8yd192UmxmeVhSbXdHYi1LY3UzWU1ybDVlYmpSNy1kVUs2bmpzS3ZLN2NjQnJqUkV0bFNSX1k4V3FKTm0zUlU1Z2lqd3h1R2RUU2lUSnAxX3pZcDBzbXIySGpwU05yOTliR3BqVkNrcGxuUm1CSVNEVHJ5d3lyRkM4NGdPTldYOWVwZ0lVWHlUYnRyVjA0enBScVFjNDhvaG11RHlwTUJxdmJHWWh2Wm1mMjhuVlliclBJcU5RR1ljWThSaW1GbXBOdE15akVPc1Ruc295LUpVR21QMVFYbEhhNFN5Tm5TdW05QVQySTJkS0RqajU0TkdoX0dIZ3YydlFGWXF0elM0a2JZc3pqSmF4V2JJTDNjZ1lITzZyZjhXQlpVSGpmdG5yR1hYM2NsTnotNkVvcEV3cTZwWWRweDBSVHFyaGQ5eVBlNE1CTm1IdnZpUVhYMVRKVkdHSFdraHBrVTNRSDRER2dkaGI4QlJhWWxzcWlNM000Yk40?oc=5",
       "pub_date": 1763814600.0,
-      "article_url": "https://www.marketwatch.com/story/these-two-magnificent-seven-stocks-could-be-the-strongest-survivors-of-an-ai-apocalypse-d7169fad?gaa_at=eafs&gaa_n=AWEtsqc7CYAbQtIL02I0sRAUxm0SfZpxlZO-QkV9XmSZqP1PNxLaWc5sAvqb&gaa_ts=6922c0cd&gaa_sig=tQYBm-K2SRNgGKnyZrUNhVdIADU0FZrxcQ77TFdn8tWR7gj7m8ByITTjFmKdfWvVjUjG4jRkIQzVzf8uCLCTxQ%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/these-two-magnificent-seven-stocks-could-be-the-strongest-survivors-of-an-ai-apocalypse-d7169fad?gaa_at=eafs&gaa_n=AWEtsqdU0S5Lb7SQ3KkM0Oz8ARB5dXnQnr40sapHMCU1DaDtOzpusNnINe_g&gaa_ts=6922cc19&gaa_sig=uVG8LPQd1WdcmnJYMi6QhonbiVMA_MqJ4I7PHp_QXdjTd6QsUqr8IVdKfZXL6P-56sagyIZm65RpoLiABGA0kg%3D%3D",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Week 12 NFL picks, top predictions, best bets today from self-learning AI",
-      "source": "CBS Sports",
-      "source_url": "https://www.cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRTVhRVkxOWtPX0xZMWNUU2V3YjJFbkZ3aC15VGlkbmxYZDdqT2RsZFVZa0NDM215VnM3eWFHN0FpTjJtWG9WN2xfZ0RYSEpNRDJteU93cUE1U29fdXJXcFFfWHo0WUd3cVBoTXlxR3BwbnRCSUt5ZEZ1MEEwd05IN1pHZmdMV1V1MGZJdVl6Ylh5V1FxZk9selRwX25OT1p2?oc=5",
-      "pub_date": 1763852446.0,
-      "article_url": "https://www.cbssports.com/nfl/news/nfl-week-12-ai-picks-score-predictions-best-football-bets-today/",
-      "image": "https://sportshub.cbsistatic.com/i/r/2025/11/22/e8d8ebb7-58a7-40b6-aa3f-88da841702e2/thumbnail/1200x675/265800803dc38bc38519c2f6938c1a5b/sam-darnold-seattle-seahawks-imagn.jpg",
-      "description": "SportsLine's self-learning AI reveals picks for every Week 12 NFL game"
-    },
-    {
-      "headline": "2 Artificial Intelligence (AI) Stocks You Can Buy and Hold for the Next Decade",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNczI1UDNBU01venA1ZUlSamNreEwxRXNKOHFWSFhpUE1yT0lobk5ISGZ6ckVNcGJMbjhyZUF0X0NNbjJsMFpZUFlLMExyOUJ6OE9tTUllYndkV28wUkxsNmc4a3VDTElQbVdXSlRkOE9XLWJublVpeU1TbnMwTVlDYXRGcGtHeUs3?oc=5",
-      "pub_date": 1763859960.0,
-      "article_url": "https://finance.yahoo.com/news/2-artificial-intelligence-ai-stocks-010600649.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ka2xyssCSrfY6M6_bwHaGA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/242e07a9db27f3e282685a81c6ce8658",
-      "description": "The past 10 years have been kind to these two tech leaders. Things could look much the same through the next decade."
-    },
-    {
-      "headline": "AI Bubble Fears Spark a Sell-Off: 1 Stock to Buy, and 1 to Avoid",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hZXM1YmhjLVlQUWFacnplTTFpM2FoWkpUdGp6Z2ZLZUZhQXF2M3B3M0p4ZHFaVlhQQV9EN3Q2TzRhZTJlOHJsU2ZibXpTTXBoYjFuemZ4d0NaT19CdVg4VzlJRnNXcHVFUkVrX1RJcU42bmpHcVdCTzVRQ3U?oc=5",
-      "pub_date": 1763844060.0,
-      "article_url": "https://finance.yahoo.com/news/ai-bubble-fears-spark-sell-204100772.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/cMubY10GyzetP47AmxFVIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzE-/https://media.zenfs.com/en/motleyfool.com/0752b1814932efc5d122b65855c26ba8",
-      "description": "Time to buy? It depends on what you're considering."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T07:53:03.573585+00:00"
+  "fetched_at": "2025-11-23T08:41:17.872398+00:00"
 }

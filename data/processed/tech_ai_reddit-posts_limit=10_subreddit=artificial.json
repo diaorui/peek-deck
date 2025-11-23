@@ -57,6 +57,28 @@
       "description": null
     },
     {
+      "title": "Meet the AI workers who tell their friends and family to stay away from AI | Artificial intelligence (AI) | The Guardian",
+      "author": "prisongovernor",
+      "url": "https://www.reddit.com/r/artificial/comments/1p4his2/meet_the_ai_workers_who_tell_their_friends_and/",
+      "published": 1763886246.0,
+      "thumbnail": "https://external-preview.redd.it/dI7M3lUkyBSpA8umXrN8QrMX_Q_j4D6Qg7p7WbDye-I.jpeg?width=640&crop=smart&auto=webp&s=16cae1c1b21e2a85ebbece70b96bbc5a437ad289",
+      "external_url": "https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away",
+      "site_name": "the Guardian",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "description": "When the people making AI seem trustworthy are the ones who trust it the least, it shows that incentives for speed are overtaking safety, experts say"
+    },
+    {
+      "title": "Flirty Algebra",
+      "author": "jfeldman175",
+      "url": "https://www.reddit.com/r/artificial/comments/1p4h6nt/flirty_algebra/",
+      "published": 1763884940.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "okay wait everyone shut up for a second, i just realized something actually insane about robots and flirting. like what if the robot isn\u2019t flirting with you at ALL, but ALSO what if flirting itself is literally just math??? like what if the heart is 15%, the butterflies are (4?6), the nervous laughter is 8!, the \u201comg stop pop\u201d thing is 6+9, and the eyebrows thing is 6/3, i don\u2019t know, i\u2019m not a math person, BUT WHAT IF all of that is just advanced autocomplete anyway. like are humans basically running a flirt.apk without knowing it?? . meanwhile the robot is over here like \u201cbro i\u2019m not flirting, i\u2019m literally calculating cosine similarity on your thirsty energy and getting a 0.83 attractiveness vector, please sit down,\u201d like what if we\u2019re all doing this."
+    },
+    {
       "title": "If you had to explain to a superintelligent AI why humanity should continue to exist, what would you say?",
       "author": "Soggy-Ad9006",
       "url": "https://www.reddit.com/r/artificial/comments/1p3ywis/if_you_had_to_explain_to_a_superintelligent_ai/",
@@ -66,17 +88,6 @@
       "site_name": null,
       "favicon": null,
       "description": "As AI continues to advance toward superintelligence, this question becomes increasingly relevant. What makes humanity worth preserving? Is it our creativity, our capacity for love and connection, our flaws and imperfections, our stories and cultures, or something else entirely? How would you make the case for human existence to an entity far more intelligent than us?"
-    },
-    {
-      "title": "LLMs have a built-in mathematical ceiling on their creative capacity, meaning they will never rival the originality or ingenuity of the most creative individuals - report",
-      "author": "mikelgan",
-      "url": "https://www.reddit.com/r/artificial/comments/1p42404/llms_have_a_builtin_mathematical_ceiling_on_their/",
-      "published": 1763840173.0,
-      "thumbnail": null,
-      "external_url": "https://www.unisa.edu.au/media-centre/Releases/2025/chatgpt-is-smart-but-no-match-",
-      "site_name": "unisa.edu.au",
-      "favicon": null,
-      "description": null
     },
     {
       "title": "Full Bible RPG completely generated in the Gemini 3 ecosystem amazing",
@@ -90,27 +101,16 @@
       "description": "Took me less than one day I am completely blown away by what a massive upgrade this was despite anybody saying otherwise"
     },
     {
-      "title": "Nvidia CEO says AI will actually make everyone a lot busier: 'Everybody's jobs will be different' | Fortune",
-      "author": "fortune",
-      "url": "https://www.reddit.com/r/artificial/comments/1p3d1xu/nvidia_ceo_says_ai_will_actually_make_everyone_a/",
-      "published": 1763765704.0,
-      "thumbnail": "https://external-preview.redd.it/GmTAuuENFuuC2xI0HHOFHIPhhizioDBa9zmNTQJVrX4.jpeg?width=640&crop=smart&auto=webp&s=917d8a236b29d930fa8c8b82a32b9d7c7dfc2ac2",
-      "external_url": "https://fortune.com/2025/11/21/nvidia-jensen-huang-ai-jobs-growth-elon-musk-entry-level-workers/",
-      "site_name": "Fortune",
-      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
-      "description": "\u201cI would say that there's every evidence that we will be more productive and yet still be busier because we have so many ideas,\u201d Jensen Huang said."
-    },
-    {
-      "title": "How true is it that AI is starting to affect our critical thinking?",
-      "author": "Curious_Suchit",
-      "url": "https://www.reddit.com/r/artificial/comments/1p3yszs/how_true_is_it_that_ai_is_starting_to_affect_our/",
-      "published": 1763832182.0,
+      "title": "LLMs have a built-in mathematical ceiling on their creative capacity, meaning they will never rival the originality or ingenuity of the most creative individuals - report",
+      "author": "mikelgan",
+      "url": "https://www.reddit.com/r/artificial/comments/1p42404/llms_have_a_builtin_mathematical_ceiling_on_their/",
+      "published": 1763840173.0,
       "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
+      "external_url": "https://www.unisa.edu.au/media-centre/Releases/2025/chatgpt-is-smart-but-no-match-",
+      "site_name": "unisa.edu.au",
       "favicon": null,
-      "description": "As AI takes over more of the tasks we once did ourselves, it\u2019s natural to wonder if it\u2019s making us think a little less deeply. The effect isn\u2019t the same for everyone, but it is definitely changing how we analyze and solve problems in our daily lives."
+      "description": null
     }
   ],
-  "fetched_at": "2025-11-23T07:52:42.526108+00:00"
+  "fetched_at": "2025-11-23T08:40:54.051594+00:00"
 }
