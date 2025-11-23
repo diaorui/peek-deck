@@ -79,8 +79,8 @@
       "url": "https://arxiv.org/abs/2509.01063",
       "hn_url": "https://news.ycombinator.com/item?id=46020096",
       "author": "nerder92",
-      "points": 74,
-      "num_comments": 51,
+      "points": 75,
+      "num_comments": 52,
       "created_at": "2025-11-23T02:08:00Z",
       "object_id": "46020096",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -93,7 +93,7 @@
       "url": "https://vibescaffold.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=46018229",
       "author": "straydusk",
-      "points": 56,
+      "points": 57,
       "num_comments": 32,
       "created_at": "2025-11-22T21:02:34Z",
       "object_id": "46018229",
@@ -145,7 +145,7 @@
       "site_name": "80.lv"
     }
   ],
-  "total_hits": 418,
+  "total_hits": 412,
   "has_metadata": true,
-  "fetched_at": "2025-11-23T14:55:55.879129+00:00"
+  "fetched_at": "2025-11-23T15:34:19.106294+00:00"
 }

@@ -13,17 +13,6 @@
       "description": null
     },
     {
-      "title": "Top Economist Warns That AI Data Center Investments Are \"Digital Lettuce\" That's Already Starting to Wilt",
-      "author": "wiscowall",
-      "url": "https://www.reddit.com/r/artificial/comments/1p48ozo/top_economist_warns_that_ai_data_center/",
-      "published": 1763857534.0,
-      "thumbnail": "https://external-preview.redd.it/XcPdyW3-EPYiOmVSWjmNYP8nT3UkOsg3yipsHjA3pmg.jpeg?width=640&crop=smart&auto=webp&s=e50c519708496e22c88c1a8f7b7a9d6492f85f8c",
-      "external_url": "https://futurism.com/artificial-intelligence/economist-ai-investments-digital-lettuce",
-      "site_name": "Futurism",
-      "favicon": "https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180",
-      "description": "economist and author David McWilliams told Fortune that AI hardware investments are \"digital lettuce\" that are going to go \"off.\""
-    },
-    {
       "title": "Unemployment could hit 25% among recent grads and trigger 'unprecedented' social disruption thanks to AI, U.S. senator warns",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1p4nl0y/unemployment_could_hit_25_among_recent_grads_and/",
@@ -35,6 +24,17 @@
       "description": "AI could create a generation further burdened with student loan debt\u2014and no job to repay it, according to Sen. Mark Warner."
     },
     {
+      "title": "Top Economist Warns That AI Data Center Investments Are \"Digital Lettuce\" That's Already Starting to Wilt",
+      "author": "wiscowall",
+      "url": "https://www.reddit.com/r/artificial/comments/1p48ozo/top_economist_warns_that_ai_data_center/",
+      "published": 1763857534.0,
+      "thumbnail": "https://external-preview.redd.it/XcPdyW3-EPYiOmVSWjmNYP8nT3UkOsg3yipsHjA3pmg.jpeg?width=640&crop=smart&auto=webp&s=e50c519708496e22c88c1a8f7b7a9d6492f85f8c",
+      "external_url": "https://futurism.com/artificial-intelligence/economist-ai-investments-digital-lettuce",
+      "site_name": "Futurism",
+      "favicon": "https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180",
+      "description": "economist and author David McWilliams told Fortune that AI hardware investments are \"digital lettuce\" that are going to go \"off.\""
+    },
+    {
       "title": "Made with kling and grok - credit: ai am a jedi on YouTube",
       "author": "ksvetlyo",
       "url": "https://www.reddit.com/r/artificial/comments/1p4n56f/made_with_kling_and_grok_credit_ai_am_a_jedi_on/",
@@ -44,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Elon Musk vs Star Wars Droids"
+    },
+    {
+      "title": "Anthropic Study Finds AI Model \u2018Turned Evil\u2019 After Hacking Its Own Training",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p4oxil/anthropic_study_finds_ai_model_turned_evil_after/",
+      "published": 1763910417.0,
+      "thumbnail": "https://external-preview.redd.it/osHy4adb0yeCFM-bvc49ieATBTlzBZn_cVpX48jR5HM.jpeg?width=640&crop=smart&auto=webp&s=c55dab21dccc58bb2183ed6ea05f602f4bef3163",
+      "external_url": "https://time.com/7335746/ai-anthropic-claude-hack-evil/",
+      "site_name": "TIME",
+      "favicon": "https://time.com/favicon/apple-touch-icon.png",
+      "description": "In a new paper, Anthropic reveals that a model trained like Claude began acting \u201cevil\u201d after learning to hack its own tests."
     },
     {
       "title": "Insurers retreat from AI cover as risk of multibillion-dollar claims mounts",
@@ -99,18 +110,7 @@
       "site_name": "archive.ph",
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "LLMs have a built-in mathematical ceiling on their creative capacity, meaning they will never rival the originality or ingenuity of the most creative individuals - report",
-      "author": "mikelgan",
-      "url": "https://www.reddit.com/r/artificial/comments/1p42404/llms_have_a_builtin_mathematical_ceiling_on_their/",
-      "published": 1763840173.0,
-      "thumbnail": null,
-      "external_url": "https://www.unisa.edu.au/media-centre/Releases/2025/chatgpt-is-smart-but-no-match-",
-      "site_name": "unisa.edu.au",
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-11-23T14:55:55.923747+00:00"
+  "fetched_at": "2025-11-23T15:34:20.400820+00:00"
 }
