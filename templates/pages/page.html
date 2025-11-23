@@ -4,6 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.name }} - {{ project_name }}</title>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="{{ page.description }}">
+    <meta name="author" content="{{ project_name }}">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="{{ theme.primary_color }}">
+    {% if base_url %}<link rel="canonical" href="{{ base_url }}/{{ page.id }}.html">{% endif %}
+
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="{{ page.name }} - {{ project_name }}">
+    <meta property="og:description" content="{{ page.description }}">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="{{ project_name }}">
+    {% if base_url %}<meta property="og:url" content="{{ base_url }}/{{ page.id }}.html">{% endif %}
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ page.name }} - {{ project_name }}">
+    <meta name="twitter:description" content="{{ page.description }}">
+    {% if base_url %}<meta name="twitter:url" content="{{ base_url }}/{{ page.id }}.html">{% endif %}
+
     <style>
         :root {
             --primary-color: {{ theme.primary_color }};
