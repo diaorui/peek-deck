@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/tencent/HunyuanVideo-1.5.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png",
       "downloads": 243,
-      "likes": 494,
+      "likes": 496,
       "pipeline_tag": "text-to-video",
       "num_parameters": null,
       "last_modified": "2025-11-21T07:35:32.000Z"
@@ -65,7 +65,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/moonshotai/Kimi-K2-Thinking.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/641c1e77c3983aa9490f8121/X1yT2rsaIbR9cdYGEVu0X.jpeg",
       "downloads": 217953,
-      "likes": 1359,
+      "likes": 1360,
       "pipeline_tag": "text-generation",
       "num_parameters": null,
       "last_modified": "2025-11-08T07:48:46.000Z"
@@ -107,7 +107,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/dx8152/Qwen-Edit-2509-Multi-Angle-Lighting.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64461e86ab86b035add67e41/eDoTkuWIHd4kXplY0ZfiM.jpeg",
       "downloads": 2276,
-      "likes": 125,
+      "likes": 126,
       "pipeline_tag": "image-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-21T01:15:53.000Z"
@@ -121,7 +121,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/dx8152/Qwen-Edit-2509-Multiple-angles.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64461e86ab86b035add67e41/eDoTkuWIHd4kXplY0ZfiM.jpeg",
       "downloads": 81760,
-      "likes": 725,
+      "likes": 726,
       "pipeline_tag": "image-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-12T09:16:16.000Z"
@@ -142,5 +142,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-11-23T07:11:37.945200+00:00"
+  "fetched_at": "2025-11-23T07:52:42.304940+00:00"
 }

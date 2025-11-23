@@ -35,6 +35,17 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
+      "title": "What\u2019s the first thing you\u2019d permanently store on Arweave?",
+      "author": "jharmomy",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p4gmsf/whats_the_first_thing_youd_permanently_store_on/",
+      "published": 1763882855.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Looking for Ethereum wallet that supports custom derivation paths + multiple accounts + BIP39 passphrase",
       "author": "Wide-Reward-8186",
       "url": "https://www.reddit.com/r/ethereum/comments/1p3va6h/looking_for_ethereum_wallet_that_supports_custom/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I switched from metamask to rabby months ago. And recently I\u2019ve been having display issues with my rocket pool staked eth vs my loose eth. Either $$$ amount being wrong to plain just not updating balance. I\u2019ve looked online and haven\u2019t found any known issues. Just wondering if anyone has had the same problem. MetaMask shows correct balance every time."
-    },
-    {
-      "title": "Discussion on \"proof-of-video-interaction\" suggested by Gavin Wood and the logical evolution it will have, game theoretically",
-      "author": "johanngr",
-      "url": "https://www.reddit.com/r/ethereum/comments/1p315xv/discussion_on_proofofvideointeraction_suggested/",
-      "published": 1763737969.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This was attempted as a cross-post but blocked (not approved) by moderators for a few days so just linking to it here instead. The system described by me was originally invented for and designed for Ethereum but it does require tens of thousands of transactions per second so will have to be on a \"2.0\" system in the long term, but still has its roots in the first world computer, that was in itself a revolution that has changed the world. Link: https://www.reddit.com/r/Polkadot/comments/1owxmza/proofofvideointeraction_the_game_theory_logical/ The post has 48 upvotes which is pretty good. There is typically 1-2 people here very vocally critical of my system (the current theme there is \"you worked on this for so long therefore bad\" but the theme can probably switch to something else quick too), and quite a few critical but not vocal, but this could be because I, for example, have maintained since 2015 that Craig was of course Satoshi... (an idea that is not popular here, in fact I have had a few posts taken down simply for mentioning it. Censorship resistant ledger perhaps but not \"community\"!)"
     }
   ],
-  "fetched_at": "2025-11-23T07:11:40.792728+00:00"
+  "fetched_at": "2025-11-23T07:52:45.095275+00:00"
 }
