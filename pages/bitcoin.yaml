@@ -21,12 +21,10 @@ params:
 
 # Widget layout
 widgets:
-  # Row 1: Price + multi-timeframe chart
   - type: crypto-price
     size: small
     update_minutes: 5
 
-  # Price chart with multiple timeframe tabs (using Binance US intervals)
   - type: crypto-price-chart
     size: large
     update_minutes: 10
@@ -48,12 +46,10 @@ widgets:
           limit: 365
           label: "1y"
 
-  # Row 2: Market statistics
   - type: crypto-market-stats
     size: full
     update_minutes: 30
 
-  # Row 3: Reddit discussions (using RSS feed, rising posts)
   - type: reddit-posts
     size: full
     update_minutes: 30
@@ -61,7 +57,13 @@ widgets:
       subreddit: Bitcoin
       limit: 10
 
-  # Row 4: HackerNews discussions
+  - type: google-news
+    size: full
+    update_minutes: 30
+    params:
+      query: bitcoin
+      limit: 10
+
   - type: hackernews-posts
     size: full
     update_minutes: 30
@@ -72,15 +74,6 @@ widgets:
       sort_by: relevance
       days: 7
 
-  # Row 5: News from Google News
-  - type: google-news
-    size: full
-    update_minutes: 30
-    params:
-      query: bitcoin
-      limit: 10
-
-  # Row 6: YouTube videos (Bitcoin news and analysis)
   - type: youtube-videos
     size: full
     update_minutes: 120
