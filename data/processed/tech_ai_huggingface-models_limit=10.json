@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/tencent/HunyuanVideo-1.5.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png",
       "downloads": 243,
-      "likes": 483,
+      "likes": 484,
       "pipeline_tag": "text-to-video",
       "num_parameters": null,
       "last_modified": "2025-11-21T07:35:32.000Z"
@@ -23,7 +23,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/facebook/sam3.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1592839207516-noauth.png",
       "downloads": 50387,
-      "likes": 478,
+      "likes": 480,
       "pipeline_tag": "mask-generation",
       "num_parameters": "859.9M",
       "last_modified": "2025-11-20T22:05:08.000Z"
@@ -43,20 +43,6 @@
       "last_modified": "2025-11-15T05:18:10.000Z"
     },
     {
-      "id": "moonshotai/Kimi-K2-Thinking",
-      "author": "moonshotai",
-      "author_fullname": "Moonshot AI",
-      "name": "Kimi-K2-Thinking",
-      "url": "https://huggingface.co/moonshotai/Kimi-K2-Thinking",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/moonshotai/Kimi-K2-Thinking.png",
-      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/641c1e77c3983aa9490f8121/X1yT2rsaIbR9cdYGEVu0X.jpeg",
-      "downloads": 217953,
-      "likes": 1353,
-      "pipeline_tag": "text-generation",
-      "num_parameters": null,
-      "last_modified": "2025-11-08T07:48:46.000Z"
-    },
-    {
       "id": "Supertone/supertonic",
       "author": "Supertone",
       "author_fullname": "Supertone",
@@ -65,10 +51,24 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Supertone/supertonic.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68ef1b2d04f0f03d81974536/XltzYlfCoWTzfqimzt5j7.png",
       "downloads": 594,
-      "likes": 158,
+      "likes": 159,
       "pipeline_tag": "text-to-speech",
       "num_parameters": null,
       "last_modified": "2025-11-22T01:39:33.000Z"
+    },
+    {
+      "id": "moonshotai/Kimi-K2-Thinking",
+      "author": "moonshotai",
+      "author_fullname": "Moonshot AI",
+      "name": "Kimi-K2-Thinking",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2-Thinking",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/moonshotai/Kimi-K2-Thinking.png",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/641c1e77c3983aa9490f8121/X1yT2rsaIbR9cdYGEVu0X.jpeg",
+      "downloads": 217953,
+      "likes": 1355,
+      "pipeline_tag": "text-generation",
+      "num_parameters": null,
+      "last_modified": "2025-11-08T07:48:46.000Z"
     },
     {
       "id": "maya-research/maya1",
@@ -99,20 +99,6 @@
       "last_modified": "2025-11-21T12:08:20.000Z"
     },
     {
-      "id": "dx8152/Qwen-Edit-2509-Multiple-angles",
-      "author": "dx8152",
-      "author_fullname": "wuli-DX",
-      "name": "Qwen-Edit-2509-Multiple-angles",
-      "url": "https://huggingface.co/dx8152/Qwen-Edit-2509-Multiple-angles",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/dx8152/Qwen-Edit-2509-Multiple-angles.png",
-      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64461e86ab86b035add67e41/eDoTkuWIHd4kXplY0ZfiM.jpeg",
-      "downloads": 81760,
-      "likes": 724,
-      "pipeline_tag": "image-to-image",
-      "num_parameters": null,
-      "last_modified": "2025-11-12T09:16:16.000Z"
-    },
-    {
       "id": "dx8152/Qwen-Edit-2509-Multi-Angle-Lighting",
       "author": "dx8152",
       "author_fullname": "wuli-DX",
@@ -125,6 +111,20 @@
       "pipeline_tag": "image-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-21T01:15:53.000Z"
+    },
+    {
+      "id": "dx8152/Qwen-Edit-2509-Multiple-angles",
+      "author": "dx8152",
+      "author_fullname": "wuli-DX",
+      "name": "Qwen-Edit-2509-Multiple-angles",
+      "url": "https://huggingface.co/dx8152/Qwen-Edit-2509-Multiple-angles",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/dx8152/Qwen-Edit-2509-Multiple-angles.png",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64461e86ab86b035add67e41/eDoTkuWIHd4kXplY0ZfiM.jpeg",
+      "downloads": 81760,
+      "likes": 724,
+      "pipeline_tag": "image-to-image",
+      "num_parameters": null,
+      "last_modified": "2025-11-12T09:16:16.000Z"
     },
     {
       "id": "eigen-ai-labs/eigen-banana-qwen-image-edit",
@@ -142,5 +142,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-11-22T23:55:40.761146+00:00"
+  "fetched_at": "2025-11-23T01:55:33.452736+00:00"
 }

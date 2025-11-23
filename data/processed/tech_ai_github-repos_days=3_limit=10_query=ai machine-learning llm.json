@@ -1,0 +1,230 @@
+{
+  "repos": [
+    {
+      "full_name": "ray-project/ray",
+      "name": "ray",
+      "owner": "ray-project",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/22125274?v=4",
+      "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+      "url": "https://github.com/ray-project/ray",
+      "preview_image": "https://opengraph.githubassets.com/e3258c9b492c14302cb9f89cd8735001ee499bfa1a05035f732c6d9df24495b1/ray-project/ray",
+      "stars": 39959,
+      "stars_display": "40.0k",
+      "forks": 6934,
+      "forks_display": "6.9k",
+      "language": "Python",
+      "topics": [
+        "data-science",
+        "deep-learning",
+        "deployment",
+        "distributed",
+        "hyperparameter-optimization"
+      ],
+      "updated_at": "2025-11-23T01:17:45Z"
+    },
+    {
+      "full_name": "deepset-ai/haystack",
+      "name": "haystack",
+      "owner": "deepset-ai",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/51827949?v=4",
+      "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+      "url": "https://github.com/deepset-ai/haystack",
+      "preview_image": "https://repository-images.githubusercontent.com/221654678/1b75a35c-3d70-4dbe-bd6f-56fcc6c809e6",
+      "stars": 23446,
+      "stars_display": "23.4k",
+      "forks": 2489,
+      "forks_display": "2.5k",
+      "language": "MDX",
+      "topics": [
+        "agent",
+        "agents",
+        "ai",
+        "gemini",
+        "generative-ai"
+      ],
+      "updated_at": "2025-11-21T15:55:28Z"
+    },
+    {
+      "full_name": "huggingface/datasets",
+      "name": "datasets",
+      "owner": "huggingface",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
+      "description": "\ud83e\udd17 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
+      "url": "https://github.com/huggingface/datasets",
+      "preview_image": "https://repository-images.githubusercontent.com/250213286/d6f09c00-7066-11eb-88ac-0b319e59658a",
+      "stars": 20889,
+      "stars_display": "20.9k",
+      "forks": 3019,
+      "forks_display": "3.0k",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "computer-vision",
+        "dataset-hub",
+        "datasets"
+      ],
+      "updated_at": "2025-11-21T12:31:18Z"
+    },
+    {
+      "full_name": "arc53/DocsGPT",
+      "name": "DocsGPT",
+      "owner": "arc53",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/103419759?v=4",
+      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "url": "https://github.com/arc53/DocsGPT",
+      "preview_image": "https://opengraph.githubassets.com/61ec02b58d74110c5dfa77f8f5d07c3912915e330b28965ed442fec0b20290f1/arc53/DocsGPT",
+      "stars": 17390,
+      "stars_display": "17.4k",
+      "forks": 1934,
+      "forks_display": "1.9k",
+      "language": "Python",
+      "topics": [
+        "agent-builder",
+        "agents",
+        "ai",
+        "chatgpt",
+        "docsgpt"
+      ],
+      "updated_at": "2025-11-22T14:42:25Z"
+    },
+    {
+      "full_name": "stas00/ml-engineering",
+      "name": "ml-engineering",
+      "owner": "stas00",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/10676103?v=4",
+      "description": "Machine Learning Engineering Open Book",
+      "url": "https://github.com/stas00/ml-engineering",
+      "preview_image": "https://opengraph.githubassets.com/ebff81c5d7b91d0318ad54f3dcdb779c8a88da49a200569794194f876ba6d6e6/stas00/ml-engineering",
+      "stars": 15816,
+      "stars_display": "15.8k",
+      "forks": 973,
+      "forks_display": "973",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "debugging",
+        "gpus",
+        "inference",
+        "large-language-models"
+      ],
+      "updated_at": "2025-11-21T20:02:49Z"
+    },
+    {
+      "full_name": "neuml/txtai",
+      "name": "txtai",
+      "owner": "neuml",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/59890304?v=4",
+      "description": "\ud83d\udca1 All-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows",
+      "url": "https://github.com/neuml/txtai",
+      "preview_image": "https://repository-images.githubusercontent.com/286301447/6b79e721-de1e-4fd4-b264-0437e1cad8d8",
+      "stars": 11841,
+      "stars_display": "11.8k",
+      "forks": 759,
+      "forks_display": "759",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "embeddings",
+        "information-retrieval",
+        "language-model"
+      ],
+      "updated_at": "2025-11-21T22:09:01Z"
+    },
+    {
+      "full_name": "tensorzero/tensorzero",
+      "name": "tensorzero",
+      "owner": "tensorzero",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/148420822?v=4",
+      "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "preview_image": "https://repository-images.githubusercontent.com/829640443/26b7c5c4-c12c-4e89-beaf-a4233f1dac87",
+      "stars": 10585,
+      "stars_display": "10.6k",
+      "forks": 731,
+      "forks_display": "731",
+      "language": "Rust",
+      "topics": [
+        "ai",
+        "ai-engineering",
+        "anthropic",
+        "artificial-intelligence",
+        "deep-learning"
+      ],
+      "updated_at": "2025-11-23T01:52:46Z"
+    },
+    {
+      "full_name": "Netflix/metaflow",
+      "name": "metaflow",
+      "owner": "Netflix",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/913567?v=4",
+      "description": "Build, Manage and Deploy AI/ML Systems",
+      "url": "https://github.com/Netflix/metaflow",
+      "preview_image": "https://repository-images.githubusercontent.com/209120637/00b39080-1ddc-11ea-8710-59b484540700",
+      "stars": 9639,
+      "stars_display": "9.6k",
+      "forks": 933,
+      "forks_display": "933",
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "aws",
+        "azure",
+        "cost-optimization"
+      ],
+      "updated_at": "2025-11-22T01:44:27Z"
+    },
+    {
+      "full_name": "activeloopai/deeplake",
+      "name": "deeplake",
+      "owner": "activeloopai",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/34816118?v=4",
+      "description": "Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai",
+      "url": "https://github.com/activeloopai/deeplake",
+      "preview_image": "https://opengraph.githubassets.com/ffcd8fbb5e8bc7c145e754f1185f1fc1362379fc5b4150f3e09cdaf62d55143d/activeloopai/deeplake",
+      "stars": 8905,
+      "stars_display": "8.9k",
+      "forks": 692,
+      "forks_display": "692",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "computer-vision",
+        "cv",
+        "data-science",
+        "datalake"
+      ],
+      "updated_at": "2025-11-21T10:52:52Z"
+    },
+    {
+      "full_name": "evidentlyai/evidently",
+      "name": "evidently",
+      "owner": "evidentlyai",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/75031056?v=4",
+      "description": "Evidently is \u200b\u200ban open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+      "url": "https://github.com/evidentlyai/evidently",
+      "preview_image": "https://opengraph.githubassets.com/d95168632cd2eab60b655c44f67159166e65c4a4d5116d8af912d34f0dab05f4/evidentlyai/evidently",
+      "stars": 6849,
+      "stars_display": "6.8k",
+      "forks": 751,
+      "forks_display": "751",
+      "language": "Jupyter Notebook",
+      "topics": [
+        "data-drift",
+        "data-quality",
+        "data-science",
+        "data-validation",
+        "generative-ai"
+      ],
+      "updated_at": "2025-11-21T14:36:35Z"
+    }
+  ],
+  "query": "ai machine-learning llm",
+  "search_query": "ai machine-learning llm pushed:>2025-11-20",
+  "days": 3,
+  "limit": 10,
+  "total_count": 142,
+  "fetched_at": "2025-11-23T01:55:37.451438+00:00"
+}
