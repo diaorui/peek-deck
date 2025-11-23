@@ -12,8 +12,8 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 53,
-      "num_comments": 2,
+      "upvotes": 54,
+      "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
       "github_stars": 3088,
@@ -96,25 +96,6 @@
       "project_page": null
     },
     {
-      "id": "2511.13648",
-      "title": "PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image",
-      "authors": "Ziang Cao, Fangzhou Hong, Zhaoxi Chen et al. (5 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "3D modeling is shifting from static visual representations toward physical, articulated assets that can be directly used in simulation and interaction. However, most existing 3D generation methods overlook key physical and articulation properties, thereby limiting their utility in embodied AI. To bridge this gap, we introduce PhysX-Anything, the first simulation-ready physical 3D generative framework that, given a single in-the-wild image, produces high-quality sim-ready 3D assets with explicit geometry, articulation, and physical attributes. Specifically, we propose the first VLM-based physical 3D generative model, along with a new 3D representation that efficiently tokenizes geometry. It reduces the number of tokens by 193x, enabling explicit geometry learning within standard VLM token budgets without introducing any special tokens during fine-tuning and significantly improving generative quality. In addition, to overcome the limited diversity of existing physical 3D datasets, we construct a new dataset, PhysX-Mobility, which expands the object categories in prior physical 3D datasets by over 2x and includes more than 2K common real-world objects with rich physical annotations. Extensive experiments on PhysX-Mobility and in-the-wild images demonstrate that PhysX-Anything delivers strong generative performance and robust generalization. Furthermore, simulation-based experiments in a MuJoCo-style environment validate that our sim-ready assets can be directly used for contact-rich robotic policy learning. We believe PhysX-Anything can substantially empower a broad range of downstream applications, especially in embodied AI and physics-based simulation.",
-      "ai_summary": "",
-      "hf_url": "https://huggingface.co/papers/2511.13648",
-      "arxiv_url": "https://arxiv.org/abs/2511.13648",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.13648.png",
-      "upvotes": 46,
-      "num_comments": 2,
-      "published_at": "2025-11-17T12:59:53.000Z",
-      "github_repo": "https://github.com/ziangcao0312/PhysX-Anything",
-      "github_stars": 438,
-      "project_page": "https://physx-anything.github.io/"
-    },
-    {
       "id": "2510.14528",
       "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
       "authors": "Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)",
@@ -151,6 +132,25 @@
       "github_repo": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
       "github_stars": 16352,
       "project_page": "https://fapo-rl.github.io/"
+    },
+    {
+      "id": "2511.13648",
+      "title": "PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image",
+      "authors": "Ziang Cao, Fangzhou Hong, Zhaoxi Chen et al. (5 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "3D modeling is shifting from static visual representations toward physical, articulated assets that can be directly used in simulation and interaction. However, most existing 3D generation methods overlook key physical and articulation properties, thereby limiting their utility in embodied AI. To bridge this gap, we introduce PhysX-Anything, the first simulation-ready physical 3D generative framework that, given a single in-the-wild image, produces high-quality sim-ready 3D assets with explicit geometry, articulation, and physical attributes. Specifically, we propose the first VLM-based physical 3D generative model, along with a new 3D representation that efficiently tokenizes geometry. It reduces the number of tokens by 193x, enabling explicit geometry learning within standard VLM token budgets without introducing any special tokens during fine-tuning and significantly improving generative quality. In addition, to overcome the limited diversity of existing physical 3D datasets, we construct a new dataset, PhysX-Mobility, which expands the object categories in prior physical 3D datasets by over 2x and includes more than 2K common real-world objects with rich physical annotations. Extensive experiments on PhysX-Mobility and in-the-wild images demonstrate that PhysX-Anything delivers strong generative performance and robust generalization. Furthermore, simulation-based experiments in a MuJoCo-style environment validate that our sim-ready assets can be directly used for contact-rich robotic policy learning. We believe PhysX-Anything can substantially empower a broad range of downstream applications, especially in embodied AI and physics-based simulation.",
+      "ai_summary": "",
+      "hf_url": "https://huggingface.co/papers/2511.13648",
+      "arxiv_url": "https://arxiv.org/abs/2511.13648",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.13648.png",
+      "upvotes": 46,
+      "num_comments": 2,
+      "published_at": "2025-11-17T12:59:53.000Z",
+      "github_repo": "https://github.com/ziangcao0312/PhysX-Anything",
+      "github_stars": 442,
+      "project_page": "https://physx-anything.github.io/"
     },
     {
       "id": "2511.11793",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-23T01:55:34.680243+00:00"
+  "fetched_at": "2025-11-23T03:08:37.979707+00:00"
 }

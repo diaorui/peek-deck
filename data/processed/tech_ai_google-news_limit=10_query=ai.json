@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Gmail can read your emails and attachments to train its AI, unless you opt out",
-      "source": "Malwarebytes",
-      "source_url": "https://www.malwarebytes.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLVlURTdUQW9tT0NNQk94aGRWbjdabVhDNmg5S3RUeGQ3YVFSbllpRl9pWnVaMVlnMGt0b2s3RHh6eTQtbTI1UlFEZkwzSk44UE0xbHREZ0wtT1RkdHZuUnJyMnp5cHZ3ckdUaXVnNngwc21CM3ZzdVZEWEJZZTlzLUY1YWhEWjRGNXpuWXA2cWxIRUxkbEtJYkR5SjFURURRSjlMTFR1VjA1S1NLQVp0X3BGWkxtY0xIT25uY2pxVnludFRYdk9TOTZB?oc=5",
-      "pub_date": 1763648120.0,
-      "article_url": "https://www.malwarebytes.com/blog/news/2025/11/gmail-is-reading-your-emails-and-attachments-to-train-its-ai-unless-you-turn-it-off",
-      "image": "https://www.malwarebytes.com/wp-content/uploads/sites/2/2024/10/Gmail_logo.jpg",
-      "description": "A new Gmail update may allow Google to use your private messages and attachments for AI training. Here's how to turn it off."
-    },
-    {
       "headline": "Meet the AI workers who tell their friends and family to stay away from AI | Artificial intelligence (AI)",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
@@ -35,34 +25,24 @@
       "description": null
     },
     {
-      "headline": "Debate stirring over federal and state responsibilities for AI",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qNV8tZWc4YnBQUHh0UVBuNjIxalIwd3BKOUNkUkRfelZtMUQteVhPTko1eFhXR2pmVmdBeFBOQU5IMng1MFVsMzhaWVF2c0VZYUR5Mm5B?oc=5",
-      "pub_date": 1763855914.0,
-      "article_url": "https://www.foxnews.com/video/6385468339112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b819e9f2-eda7-4e02-b23e-fec2c24703fc/4b038ec2-705d-4e45-bfd6-c18303810919/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "The Alliance for Secure A.I. CEO Brendan Steinhauser calls artificial intelligence regulation an \u201980\u201320\u2019 issue and examines the rapid advancement of the technology on \u2018Fox Report.\u2019"
+      "headline": "AI Investors Want More Making It and Less Faking It",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxOQWJHLWZNY0pjRmVjWTduTHljaEw4dDhaa3l0SVhTdTB6TnEteFFGdk02SFVwa1plY3kzQzFPc2ZpY2hQVXdjWEdnTGNUOTBFSHV1RFNJUFpiczNmdVFzT2lmajFQdk1zUGtTb21UUTctejdvS0hMNU5Zc3RyZlhmWU9iSnVFUHJqaFRkQTV0M1FMVjUwRF9NVkM2ZjhyTWNtVzdVYV9MUDF2RmRlbTlobi0tampHQWxvaWZDTDZSckprT1lEVnFhaEJ6aGRUc3hzRmtHRGNyYUE2bWtJUFI4VlZFU2Y1a0xNd3g4b2NBTXVYenpMV21IMF9sQXBaZzEyMmsyaHZ6c3lGdDBQemc1UENJZjc4ZGRHb1U5NDFwYmxTSWZ2MTkzNExRWXdNT2JlRV95aHBNTVE2blpJb0JuRHdYd0JQRURMVXo5XzZkMHFodXozak5FUVNuanUwNEh3UkhLRkF1NVZxOE9ZcTZucHlWWVRHTm1sX01zSjhaU19tVTVqVVJiSzdPancwTkZmdS0yUDdIRjdkQ0FEdmxzQg?oc=5",
+      "pub_date": 1763866800.0,
+      "article_url": "https://www.wsj.com/finance/stocks/ai-investors-want-more-making-it-and-less-faking-it-321d8202?gaa_at=eafs&gaa_n=AWEtsqfoufVt95SrgoLyFQLoWhBvsWRvbpKr28jaZLurMWDDZ_fAe9spTgZA&gaa_ts=69227e39&gaa_sig=dVc5B-mpYA4vmSuM5OVqbp-9v7OEpKi0OhzSug7IOMLSj3ywmMWQDreE4NBoEXlj9OTcs5lPnUf7h4ciVDVnZA%3D%3D",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Robert Redford\u2019s Daughter Speaks Out Against \u201cExtra Challenging\u201d AI Tributes",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcksyYk9MYTczVDhuY3JVdlRzSElnSTAxQXVrX3doMzFYWmlrajZYRmJTclJmcl9uYWlPZHNZWFhWUjZKTkQ4Y3FOVWRsNU1FZ2pZZGpHeWV5Mjk0Q2owSXJQYl91emg3RnRuQmhZOU0ydVExODJFS1NaNTB1azY2eS1RUGxTaFJldUVrSDdFaTBhRFdja1M2VUxkMFB4V09rX1Q1eDNyTS1zTmhqYUpIcA?oc=5",
-      "pub_date": 1763858072.0,
-      "article_url": "https://www.hollywoodreporter.com/movies/movie-news/robert-amy-redford-ai-content-extra-challenging-1236433772/",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2025/11/GettyImages-83456907-e1763856735298.jpg?w=1440&h=810&crop=1",
-      "description": "\u201cAI isn\u2019t going anywhere. My hope is to keep AI in the land of transparent usage where it belongs. ... I simply ask, what if this was you? Let that be your guidepost,\u201d Amy Redford wrote on Instagram."
-    },
-    {
-      "headline": "The Best AI Stocks to Invest $5,000 in Right Now",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96M1JHblI5NlkzcU5TLUUxQVZmc1dHUkdJdkNJaXB2eWFFcGF3Q3A5UlpoS3ZNbHZJS2hlQ0lrOGVHeE1vQmt4cHpSNzhoNHdGNlNydHFuTnBCQ0gtWXFuYjhuODBDTUhoa0dkdFZtekxTTFZySXhzcg?oc=5",
-      "pub_date": 1763860380.0,
-      "article_url": "https://finance.yahoo.com/news/best-ai-stocks-invest-5-011300569.html",
-      "image": "https://media.zenfs.com/en/motleyfool.com/d0c58b29949aa4fd1d47e86f7728b7dc",
-      "description": "These elite growth stocks are excellent long-term investments."
+      "headline": "How patients are using AI to fight back against denied insurance claims",
+      "source": "PBS",
+      "source_url": "https://www.pbs.org",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEVtUDdjSVNVSkx3dG9MSlNfY1htdXlUQUxPOWE5c2hQUTc2QjVNZ1dEdFhJOUMxa1ZFVUVpLVZqZDhrbXhlSGFPY3Y3RDRGcjF6YWJTQ0hiRG43U0JrX01wQi1sRko1SHZKX0tsMEtQdlFrYmRhay1pNHhZaHZTYXBIU2NISDNzWkJrVldVb0NpdFIzOUN5VGhqYmp6RFFOZVVoWE1RSnM?oc=5",
+      "pub_date": 1763850929.0,
+      "article_url": "https://www.pbs.org/newshour/show/how-patients-are-using-ai-to-fight-back-against-denied-insurance-claims",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/aiandinsurance-1024x683.jpg",
+      "description": "As health insurers increasingly rely on artificial intelligence to process claims, denials have been on the rise. In 2023, about 73 million Americans on Affordable Care Act plans had their claims for in-network services denied, and less than 1% of them tried to appeal. Now, AI is being used to help patients fight back. Ali Rogin speaks with Indiana University law professor Jennifer Oliva for more."
     },
     {
       "headline": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics",
@@ -75,14 +55,14 @@
       "description": "\u201cIt\u2019ll be like playing sports or a video game or something like that,\u201d the Tesla CEO said."
     },
     {
-      "headline": "How patients are using AI to fight back against denied insurance claims",
-      "source": "PBS",
-      "source_url": "https://www.pbs.org",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEVtUDdjSVNVSkx3dG9MSlNfY1htdXlUQUxPOWE5c2hQUTc2QjVNZ1dEdFhJOUMxa1ZFVUVpLVZqZDhrbXhlSGFPY3Y3RDRGcjF6YWJTQ0hiRG43U0JrX01wQi1sRko1SHZKX0tsMEtQdlFrYmRhay1pNHhZaHZTYXBIU2NISDNzWkJrVldVb0NpdFIzOUN5VGhqYmp6RFFOZVVoWE1RSnM?oc=5",
-      "pub_date": 1763850929.0,
-      "article_url": "https://www.pbs.org/newshour/show/how-patients-are-using-ai-to-fight-back-against-denied-insurance-claims",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/aiandinsurance-1024x683.jpg",
-      "description": "As health insurers increasingly rely on artificial intelligence to process claims, denials have been on the rise. In 2023, about 73 million Americans on Affordable Care Act plans had their claims for in-network services denied, and less than 1% of them tried to appeal. Now, AI is being used to help patients fight back. Ali Rogin speaks with Indiana University law professor Jennifer Oliva for more."
+      "headline": "The world\u2019s biggest company just told everyone to chill out",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QTnVBWkdqb0puUGF4X0YzQTN0cG9hWkxIdlNDaWFsdXFCSFJJR0lkenpaS3duQm8xN2JKSjFxbHhkbFQ4YUkxNFgzNkZ2ZG5BUjhlUmpRWnZndFNHS1FJR0FtQkVfbnFJdlpaYU9pUWl1a0dKMEE?oc=5",
+      "pub_date": 1763798458.0,
+      "article_url": "https://www.cnn.com/2025/11/22/tech/ai-bubble-fears-nvidia-earnings",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243374844.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Concerns about an AI bubble have been simmering for at least a year and a half. Nvidia\u2019s incredibly strong earnings this past week tried to put those fears to bed. It may not have been enough."
     },
     {
       "headline": "Analysis | Are we in an AI bubble? Eight charts will help you decide.",
@@ -103,8 +83,28 @@
       "article_url": "https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "This week in AI: Brushing off new bubble warnings, Google\u2019s AI comeback and Nvidia\u2019s China threat",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSWlOVGlFVEtramM0VDlNSTlQMnpNYlVqdlB0N2xfNnk0UWVDN0dqRWp2RHhCWWl6bkd1LXd6NU0wTU5icThydHVPQUVxZXdoMkx1VTJGSUExdzQwZjBzQWVIOWtUMUVpdzlNZVQxQUdMSURuakozM3p1elQ5QS0yQXo1WWowQ2J3XzR0UjgxeVBacF9Ed25kamcyZmRTQzJSUUxr0gGoAUFVX3lxTE11dkZHeWtVOGFZaXdqYjJ2aUxmbmhXQk1CSzI3UkVSRXZnRmFTREhSd1hUbm9vdTd0WUxGWkdWZTc2cUx0dDlkRkp3WGhIVUJGVlpoLU5EVHVVdjFtUkVrMVkxMUcyQWlHSk1qN0VBdXphcU1Fc1lYSksyaTBjbVRKbFU4MFFqTTctOWc0eUphdUE2X1JWNDNsMFZ2YUt2ZGRlUzRKVFlvUw?oc=5",
+      "pub_date": 1763816401.0,
+      "article_url": "https://www.cnbc.com/2025/11/22/new-ai-bubble-warnings-googles-comeback-and-nvidias-china-threat.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108230121-1763752515282-deirdre1_new.png?v=1763752929&w=1920&h=1080",
+      "description": "This week, volatility took hold of the AI trade as bubble fears continued and Nvidia\u2019s blowout earnings failed to steady the market. Deirdre Bosa has the story."
+    },
+    {
+      "headline": "AI Bubble Fears Spark a Sell-Off: 1 Stock to Buy, and 1 to Avoid",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hZXM1YmhjLVlQUWFacnplTTFpM2FoWkpUdGp6Z2ZLZUZhQXF2M3B3M0p4ZHFaVlhQQV9EN3Q2TzRhZTJlOHJsU2ZibXpTTXBoYjFuemZ4d0NaT19CdVg4VzlJRnNXcHVFUkVrX1RJcU42bmpHcVdCTzVRQ3U?oc=5",
+      "pub_date": 1763844060.0,
+      "article_url": "https://finance.yahoo.com/news/ai-bubble-fears-spark-sell-204100772.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/cMubY10GyzetP47AmxFVIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzE-/https://media.zenfs.com/en/motleyfool.com/0752b1814932efc5d122b65855c26ba8",
+      "description": "Time to buy? It depends on what you're considering."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T01:55:54.337944+00:00"
+  "fetched_at": "2025-11-23T03:08:58.839159+00:00"
 }

@@ -13,17 +13,6 @@
       "description": "economist and author David McWilliams told Fortune that AI hardware investments are \"digital lettuce\" that are going to go \"off.\""
     },
     {
-      "title": "Google must double AI serving capacity every 6 months to meet demand, AI infrastructure boss Amin Vahdat tells employees",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1p43edi/google_must_double_ai_serving_capacity_every_6/",
-      "published": 1763843489.0,
-      "thumbnail": "https://external-preview.redd.it/BwQBNYgUNX5zPLeMR3klOwCV0R1DZS3CA-eG7SZ8E5s.jpeg?width=640&crop=smart&auto=webp&s=9bb58011be0d610e6da2dff6ec6b71e5b6d6cf55",
-      "external_url": "https://www.cnbc.com/2025/11/21/google-must-double-ai-serving-capacity-every-6-months-to-meet-demand.html",
-      "site_name": "CNBC",
-      "favicon": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
-      "description": "At a recent all-hands meeting, Google's head of AI infrastructure said the company has to race to build out compute capacity."
-    },
-    {
       "title": "From Steve Bannon to Elizabeth Warren, bipartisan backlash erupts over push to block states from regulating AI",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1p499y7/from_steve_bannon_to_elizabeth_warren_bipartisan/",
@@ -33,6 +22,17 @@
       "site_name": "NBC News",
       "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
       "description": "Sharp critiques of efforts to limit state AI laws have MAGA populists and progressive advocates joining forces in an unexpected coalition."
+    },
+    {
+      "title": "Google must double AI serving capacity every 6 months to meet demand, AI infrastructure boss Amin Vahdat tells employees",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1p43edi/google_must_double_ai_serving_capacity_every_6/",
+      "published": 1763843489.0,
+      "thumbnail": "https://external-preview.redd.it/BwQBNYgUNX5zPLeMR3klOwCV0R1DZS3CA-eG7SZ8E5s.jpeg?width=640&crop=smart&auto=webp&s=9bb58011be0d610e6da2dff6ec6b71e5b6d6cf55",
+      "external_url": "https://www.cnbc.com/2025/11/21/google-must-double-ai-serving-capacity-every-6-months-to-meet-demand.html",
+      "site_name": "CNBC",
+      "favicon": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
+      "description": "At a recent all-hands meeting, Google's head of AI infrastructure said the company has to race to build out compute capacity."
     },
     {
       "title": "Pinterest is leaning hard into AI. The strategy appears to be backfiring",
@@ -46,17 +46,6 @@
       "description": null
     },
     {
-      "title": "LLMs have a built-in mathematical ceiling on their creative capacity, meaning they will never rival the originality or ingenuity of the most creative individuals - report",
-      "author": "mikelgan",
-      "url": "https://www.reddit.com/r/artificial/comments/1p42404/llms_have_a_builtin_mathematical_ceiling_on_their/",
-      "published": 1763840173.0,
-      "thumbnail": null,
-      "external_url": "https://www.unisa.edu.au/media-centre/Releases/2025/chatgpt-is-smart-but-no-match-",
-      "site_name": "unisa.edu.au",
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "If you had to explain to a superintelligent AI why humanity should continue to exist, what would you say?",
       "author": "Soggy-Ad9006",
       "url": "https://www.reddit.com/r/artificial/comments/1p3ywis/if_you_had_to_explain_to_a_superintelligent_ai/",
@@ -66,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "As AI continues to advance toward superintelligence, this question becomes increasingly relevant. What makes humanity worth preserving? Is it our creativity, our capacity for love and connection, our flaws and imperfections, our stories and cultures, or something else entirely? How would you make the case for human existence to an entity far more intelligent than us?"
+    },
+    {
+      "title": "LLMs have a built-in mathematical ceiling on their creative capacity, meaning they will never rival the originality or ingenuity of the most creative individuals - report",
+      "author": "mikelgan",
+      "url": "https://www.reddit.com/r/artificial/comments/1p42404/llms_have_a_builtin_mathematical_ceiling_on_their/",
+      "published": 1763840173.0,
+      "thumbnail": null,
+      "external_url": "https://www.unisa.edu.au/media-centre/Releases/2025/chatgpt-is-smart-but-no-match-",
+      "site_name": "unisa.edu.au",
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Nvidia CEO says AI will actually make everyone a lot busier: 'Everybody's jobs will be different' | Fortune",
@@ -112,5 +112,5 @@
       "description": "Stephen Gageler warns the speed of AI\u2019s development could be outstripping people\u2019s ability to \u2018comprehend its potential risks and rewards\u2019"
     }
   ],
-  "fetched_at": "2025-11-23T01:55:51.375642+00:00"
+  "fetched_at": "2025-11-23T03:08:38.256504+00:00"
 }
