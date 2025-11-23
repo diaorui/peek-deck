@@ -1,0 +1,116 @@
+{
+  "subreddit": "ethereum",
+  "posts": [
+    {
+      "title": "Ethereum Foundation announces Devcon 8 in Mumbai, India",
+      "author": "Y_K_C_",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p4a5sx/ethereum_foundation_announces_devcon_8_in_mumbai/",
+      "published": 1763861813.0,
+      "thumbnail": "https://external-preview.redd.it/tQciYfvxYJfHSft_Z_o25208aXIt_ng65Y_13Mte0K0.jpeg?width=640&crop=smart&auto=webp&s=d7ea6887fc0404391019f5312e70a9c6a3c33bf8",
+      "external_url": "https://etherworld.co/2025/11/23/ethereum-foundation-announces-devcon-8-in-mumbai-india/",
+      "site_name": "EtherWorld.co",
+      "favicon": "https://etherworld.co/favicon.png",
+      "description": "Ethereum Foundation announces Devcon 8 in Mumbai for Q4 2026, marking India\u2019s growing leadership in global Ethereum development & adoption."
+    },
+    {
+      "title": "Daily General Discussion November 22, 2025",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p3lsdy/daily_general_discussion_november_22_2025/",
+      "published": 1763791256.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
+    },
+    {
+      "title": "Looking for Ethereum wallet that supports custom derivation paths + multiple accounts + BIP39 passphrase",
+      "author": "Wide-Reward-8186",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p3va6h/looking_for_ethereum_wallet_that_supports_custom/",
+      "published": 1763823578.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone, I\u2019m trying to find an Ethereum wallet that gives full control over the HD wallet structure \u2014 something that allows: setting a custom derivation path (e.g. m/44'/60'/1'/0/5, etc) managing multiple account indexes (not just incrementing address index like MetaMask) adding a BIP39 passphrase (\u201c25th word\u201d) optionally showing / importing addresses beyond account 0' Most popular wallets only expose a simple \u201cAccount 1 / Account 2\u201d UI without letting you tweak the actual path. Does anyone know a wallet (desktop/mobile/hardware) that supports all of the above? Examples I\u2019m considering are: Sparrow, Electrum-like tools, hardware wallets, or advanced mobile wallets \u2014 but I\u2019m not sure which ones actually allow custom ETH paths + passphrase at the same time. Any recommendations from people who\u2019ve done this on Ethereum? Thanks!"
+    },
+    {
+      "title": "Staking on rocket pool: how to assess rewards?",
+      "author": "b3by",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p3r1kn/staking_on_rocket_pool_how_to_assess_rewards/",
+      "published": 1763811100.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A couple of months ago I decided to stake some ethereum using rocket pool, so I converted ETH into rETH and then started monitoring the conversation rate. What I'm seeing now is that swapping back to ETH doesn't really provide any real gain. Assuming I converted around 10ETH, into rETH, swapping back using the RocketPool would give something between 10.020 ETH. This kind of figure doesn't seem to change as weeks go by. Is there a different way I should unstake? Thanks!"
+    },
+    {
+      "title": "Acquired some ETH, need some guidance.",
+      "author": "BlingyBroccoli",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p3bkhk/acquired_some_eth_need_some_guidance/",
+      "published": 1763762095.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Last week I acquired a decent amount of ETH tokens. I am 21 and don't really need that much cash right now so I am thinking of keeping it invested in ETH(plus I am a staunch advocate for decentralized currencies, so I'd honestly rather keep it on the blockchain, plus taxes so...). Need some advice on how do I track the latest news and prices and want some advice around ETH in general. What are some things I should be aware and concerned about? What are your opinions, is it a safe investment for the next five to ten years?"
+    },
+    {
+      "title": "Ethereum Smart Contracts",
+      "author": "BadDiveBro",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p39jn6/ethereum_smart_contracts/",
+      "published": 1763757255.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hello people hopefully smarter than me, I am a Bitcoin HODLer and I have a couple of questions about Ethereum smart contract fees. A family member of mine had $200k in an Ethereum liquidity pool (according to him), and it\u2019s now being held as USDT in some wallet. He\u2019s been in said pool for about 5 years AFAIK and claims he needs to pay $15k in gas fees to withdraw the USDT. I can front him the cash but this seems very odd to me that you cannot use the funds as a means of payment to make the said transaction. In short, I\u2019m asking if my family member has been scammed and now I\u2019m offering more money, or is this a legitimate liquidity pool, or is there a way for me to verify that it is. He sent me a screen shot of a \u201cEthereum-smart.com\u201d if that\u2019s familiar to anyone. Thanks in advance I hope I\u2019ve made this clear enough."
+    },
+    {
+      "title": "Daily General Discussion November 21, 2025",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p2qyia/daily_general_discussion_november_21_2025/",
+      "published": 1763704871.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
+    },
+    {
+      "title": "Rabby UI issues",
+      "author": "Pinewatch762",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p37sqp/rabby_ui_issues/",
+      "published": 1763753096.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I switched from metamask to rabby months ago. And recently I\u2019ve been having display issues with my rocket pool staked eth vs my loose eth. Either $$$ amount being wrong to plain just not updating balance. I\u2019ve looked online and haven\u2019t found any known issues. Just wondering if anyone has had the same problem. MetaMask shows correct balance every time."
+    },
+    {
+      "title": "Discussion on \"proof-of-video-interaction\" suggested by Gavin Wood and the logical evolution it will have, game theoretically",
+      "author": "johanngr",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p315xv/discussion_on_proofofvideointeraction_suggested/",
+      "published": 1763737969.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This was attempted as a cross-post but blocked (not approved) by moderators for a few days so just linking to it here instead. The system described by me was originally invented for and designed for Ethereum but it does require tens of thousands of transactions per second so will have to be on a \"2.0\" system in the long term, but still has its roots in the first world computer, that was in itself a revolution that has changed the world. Link: https://www.reddit.com/r/Polkadot/comments/1owxmza/proofofvideointeraction_the_game_theory_logical/ The post has 48 upvotes which is pretty good. There is typically 1-2 people here very vocally critical of my system (the current theme there is \"you worked on this for so long therefore bad\" but the theme can probably switch to something else quick too), and quite a few critical but not vocal, but this could be because I, for example, have maintained since 2015 that Craig was of course Satoshi... (an idea that is not popular here, in fact I have had a few posts taken down simply for mentioning it. Censorship resistant ledger perhaps but not \"community\"!)"
+    },
+    {
+      "title": "BlackRock ETF Flips The Switch On Ethereum Staking",
+      "author": "TeaPurpp",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p29dty/blackrock_etf_flips_the_switch_on_ethereum_staking/",
+      "published": 1763660011.0,
+      "thumbnail": null,
+      "external_url": "https://dailycoin.com/blackrock-etf-flips-the-switch-on-ethereum-staking/",
+      "site_name": "dailycoin.com",
+      "favicon": null,
+      "description": null
+    }
+  ],
+  "fetched_at": "2025-11-23T05:28:49.781963+00:00"
+}

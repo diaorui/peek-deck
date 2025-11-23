@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "ethereum",
+  "site": null,
+  "search_query": "ethereum",
+  "articles": [
+    {
+      "headline": "Tom Lee Says Bitcoin, Ethereum Crash Wasn't Macro But A 'Software Bug'",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVVYbHV6ZFZ3Z0pJYWgwYlhLNmNFaklON0otbl9CWUlpVXhfVU5HeHV2TnZ3UFd6MGUyU0VETzAzdDhxVVE2bktzSFBxaGpoamhVZ2VNRC1meDdyRlpxdnVxQmZlR3JyUUQ0NkpjZmdEajFwV2FMM3BkOUFlakpOMw?oc=5",
+      "pub_date": 1763811985.0,
+      "article_url": "https://finance.yahoo.com/news/tom-lee-says-bitcoin-ethereum-114625645.html",
+      "image": "https://media.zenfs.com/en/benzinga_79/55dc40160a5a2d9761aae05dabcccc49",
+      "description": "Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) breaking below key support levels has sparked debate over whether fundamentals are to blame \u2014 but Fundstrat's Tom Lee argues the real culprit is far more mechanical. What Happened: In an interview with ..."
+    },
+    {
+      "headline": "Is XRP or Ethereum More Likely to Be a Millionaire Maker?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTJfa1I0RVRTc3BWXzVCWGE3clVTZUE5NzZRVVpaZzF1U3FHcFAwYnNXeFdhZEhVZElaSjNDSUxTWGhzY2IzU3VaNG5tM3REZ1dSdzRKT2FycHdHMlRobUc2aUJ4S1pnYm04LUw3VXBFM2pmdUdzVUhCdDA5NFJBWWNXQldyWlRnX04tZXFRdUZiMXRnWEwzeA?oc=5",
+      "pub_date": 1763856000.0,
+      "article_url": "https://www.fool.com/investing/2025/11/22/is-xrp-or-ethereum-more-likely-to-be-a-millionaire/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F842225%2Ftrader-investor-screens-chart-graph-stocks-finance.jpg&w=1200&op=resize",
+      "description": "These two leading blockchains are very different in their ambitions."
+    },
+    {
+      "headline": "BitMine Shares Tumble After Earnings as Ethereum Price Falls, Treasury Hype Fades",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZWlZZDVyZTNveUx3WFlIQmxaZ0Nsbi12OXNNLTBzWFJ5cVFXbWwxNlJ0SC0tRWUtM0ZuYl91dlZ2LTE3b05FQS1BMTVLZU45UFpfWkVBSkFXVjhNWHJNamRpUkhfMVh6S29jVFllWURLako3X014R25ZcXJlREFmWjM2ZkhGQjBaWllrbVkyRWZyUGY20gGcAUFVX3lxTE8zamhOd09aZGxyWF9uRU1taVdZMVZOZzNyc2RyWUtNc2VsbzdzQ1VidlRQNkVkVGNKU3FHREZUd25ZZVJRcDI2bjVFaFZyT0h6UWZKaTNVamEwYWs1NWJXNm50WlVYajluVFpQT0g0MGtXZEJER0pROS1VNjhCLUdZWE5lWDVNeFh2Mmw3OHVJS3YyMzJfcTZDQkJzMA?oc=5",
+      "pub_date": 1763743276.0,
+      "article_url": "https://decrypt.co/349563/bitmine-tumble-earnings-ethereum-price-falls-treasury-hype-fades",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg",
+      "description": "BitMine Immersion Technologies, the largest corporate Ethereum holder, reported $328 million in full-year income alongsideits first dividend."
+    },
+    {
+      "headline": "Ethereum News: Another Treasury Firm Sells Its ETH Amid Plunging Stock Price",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY04tbEtSbE56dVQzV18yUEIwRnJFaktDX1EycXgxODZJdy1FMHVmRDNCenhqOUx5M19WbEJ4TXFBN1k1RDh1OEhpdW1wYVhiV1ZnclV5U1VScTBZOE0zZzdZWXVYZmxfNUtNOTBEUF9tTTlvRHpCSVh1bWtFWTdCWkJZbEhBak03ajdrM3RtU05Gajk5NEJSRVExOUlrT1Q5UVRIT2t3NFRUUktRSVpId0g3WlUwOTNIUmc?oc=5",
+      "pub_date": 1763649708.0,
+      "article_url": "https://www.coindesk.com/business/2025/11/20/ether-treasury-firm-fg-nexus-unloads-nearly-11k-eth-to-fund-share-buyback",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9a4a26a4c3cf45b5df0337b58451232320de8b2e-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The move follows fellow ETH treasury ETHZilla selling $40 million of tokens to fund share buybacks."
+    },
+    {
+      "headline": "Ethereum Cofounder Issues Stark BlackRock Warning That Could Spell Disaster For Bitcoin Amid Sudden Price Sell-Off",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRC1CZTJQTk9YZUZmWlo5YzFiQ1pQWXcwS08tX3FUeU11S3lfN1poN3lfVW5FRDRfNDhiUTJUWUt1dU5ESUsyOVJhZGxEUTNuaXIwUG41VFA3WTJfSkNBSlhCank4c2xVc0Ntc0tHamFBRmpuTTNMcGhqUV9RdkJsWkQ4U0FuWWVBYlBxUG9GUml3WmNFNjU2OFEtQ2M4RW9zdFBDN2c3YXUyUjEtWjR1eGdNaldHVHhONnF2RlZiWmxhRFFNcmhRd0ptYjVvanBNMDBiaVpNUjloMDlhRnhKTTBkYUhtMjhJak9GWUtwRlo3YlVONFo0c21Raw?oc=5",
+      "pub_date": 1763658420.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2025/11/20/ethereum-cofounder-issues-stark-crypto-warning-that-could-spell-disaster-for-bitcoin-amid-sudden-price-sell-off/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/691dbf71ec7dc0be3a275a0e/0x0.jpg?format=jpg&crop=2710,1524,x349,y81,safe&height=900&width=1600&fit=bounds",
+      "description": "Ethereum cofounder Vitalik Buterin has warned elliptic curve cryptography could break before the next U.S. presidential election in 2028..."
+    },
+    {
+      "headline": "BlackRock files Delaware name registration for iShares Staked Ethereum ETF",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN0x3U2J3Z1JoQ3VqS0JEMzlHRDJaQVlZOXFaSUR6dWZzME1VMHdDQUxjRm1HWmxOcGtYNzcyZlhrUUdSSXpmV3FzbVlGS29rMUJxNzlZMnNQZDl6LU9vaHZyOTFqN2lTaUVHaXlKSWkzR2RiU1JIc1c2ZG8zRGFwWlRITHBiREZBU3p0V0FUb2dBbVNKeWNjOUtfb0xuamk1bHFmZFFoYzZDUDBtV1NV0gG0AUFVX3lxTFA5Y2pheGJhMWR1RW5ibmpmM04zLXhpQ2N1bktKR3dtU1RMYmVMQnVCYXlwTVQweDhSMkhzekZvYzVDTllKS05RaEEta0ZMV3hTYzNaS3JoRGN4VlpLVGdmSmg2c3ViT01oQy1ZZmdPX1FILUtEMWFDVlFPdFkxNDZ6dlhKWTgxRi03MFpqUVBJeFoySEtPMVpHX3VtRUk0TVFtT0lxRlEwVVAxZ1lUWUp3NDdiSg?oc=5",
+      "pub_date": 1763594880.0,
+      "article_url": "https://www.theblock.co/post/379567/blackrock-files-delaware-name-registration-for-ishares-staked-ethereum-etf",
+      "image": "https://www.tbstat.com/wp/uploads/2022/10/20221005_Blackrock-1200x675.jpg",
+      "description": "A Delaware name registration is one of the first public signals that a new exchange-traded fund is in the works."
+    },
+    {
+      "headline": "BlackRock deposits $348M in Bitcoin and $117M in Ethereum into Coinbase Prime",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaFo2TFlnaXNKYVZjajdJekctbExMNGV0UVlDSlF2dXVQMV92Znc4eVRjZnRIQWFHS25nS2pfUEgwRnB1d2REWWFHcDQ3XzlKTUhSdmpfUzNNbVp2d1Y1T0hxbVpid0lqWTdLVTdZaXNWNWM2RGx5cVVlTDE2dTFRNkJ5Y2p1aTlVb1o2R2ppUXlBRXJHMVlzUVdzX05PcWs1dTdZQnJkVUFPOU9IaU9BTkNsQjN0bTNld1VTbnhSSG0xbTVrQTdtajNyVVRyVFoyVjY0Q3J2NA?oc=5",
+      "pub_date": 1763728915.0,
+      "article_url": "https://www.tradingview.com/news/cryptobriefing:9e9597b94094b:0-blackrock-deposits-348m-in-bitcoin-and-117m-in-ethereum-into-coinbase-prime/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Today BlackRock, a leading global asset management firm, deposited $348 million in Bitcoin and $117 million in Ethereum into Coinbase Prime, an institutional crypto custody and trading platform.The transfers are part of BlackRock's ongoing portfolio management activities for its spot Bitcoin and Et\u2026"
+    },
+    {
+      "headline": "Ethereum Price Prediction After $3K Lost: What Happens to ETH DATs Now Paper Gains Are Gone?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSFpVWVVCekJBTlFYQnJ6MWRqOE11Vzdsa1dteWVORVBXZEZvVUtVWV9TWThSVnJyeVpwVFN0bVd4ZVlFQ21EWngtSHlrZkNYc3dQMFRXOTRGTUxGY3VlNzgxR0RpMy1NdEthWnFMZWRfME5fZDVHLUhpOFlqMnd3TUItZlgxdw?oc=5",
+      "pub_date": 1763734887.0,
+      "article_url": "https://finance.yahoo.com/news/ethereum-price-prediction-3k-lost-142127146.html",
+      "image": "https://media.zenfs.com/en/99bitcoins_us_315/90b9379ca275f641ad3d0a68c4eb585c",
+      "description": "The Ethereum price is down a further -9% in the past 24 hours, dropping to around $2,700, a level not seen since mid July, 2025, marking a four-month low for the second-largest digital asset by market cap. Technical indicators and institutional demand are leaning bearish, which could see ETH slip ..."
+    },
+    {
+      "headline": "Ethereum Golden Pocket In Play \u2013 Can ETH Turn The Tide Above $2,800?",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczI2ZHlzcHlsTG1UaEhuNnRXZHFUNWxvWThEQnB3NHVqXzQtZTBvZWVTLWQ4SjlESjA5b3VScGhxam5fRHFJRnM2VWVWeWQwMG93SzB6TVdSbDFaVk80LTluRWhPcGRlQnJXQUJaSnB5VFZLSVh1Z3hQNVNiMFBDYzhsYTlhUEtLeXp3c1JPNWhSSW51R3RaQzNnbkJ1ZWJrMXFWMXo4bzhZOXZBWDhwT0tEdEwzNEdaSDc3VTFLZw?oc=5",
+      "pub_date": 1763839842.0,
+      "article_url": "https://www.tradingview.com/news/newsbtc:564a0b07d094b:0-ethereum-golden-pocket-in-play-can-eth-turn-the-tide-above-2-800/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ethereum is testing a critical juncture as the golden pocket between $2,600 and $2,800 comes into play. With resistance looming at $2,800, the market now faces a pivotal moment. Can ETH reclaim this level and spark a move toward $3,000, or will sellers push it back below key support?Golden Pocket B\u2026"
+    },
+    {
+      "headline": "Why Ethereum Is Moving Lower Today",
+      "source": "Nasdaq",
+      "source_url": "https://www.nasdaq.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FNzhsTkduRXVjLXBIdk8zUUsxX3RMTk42cHpKcUJMRUpxTndMWG82V0NIU0JtY2ZmeFVEbEJVQ2NEV1VBUXVERzJSQnJqQ0FNOURLaXgxUzdQakpxa3hZbFlVb0dSeHlVVXZPNTJWc3Y?oc=5",
+      "pub_date": 1763765400.0,
+      "article_url": "https://www.nasdaq.com/articles/why-ethereum-moving-lower-today",
+      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+      "description": "Key PointsDespite news that the Federal Reserve may opt for more rate cuts -- a move that typically boosts crypto prices -- the market is still falling."
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2025-11-23T05:29:09.177832+00:00"
+}
