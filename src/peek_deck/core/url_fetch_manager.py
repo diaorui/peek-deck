@@ -48,7 +48,7 @@ class URLFetchManager:
         self,
         cache_ttl_seconds: int = 180,  # 3 minute TTL
         default_timeout: int = 10,
-        default_user_agent: str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+        default_user_agent: str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
         max_retries: int = 3,
         retry_min_wait: int = 2,
         retry_max_wait: int = 10,

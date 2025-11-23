@@ -37,10 +37,7 @@ class RedditPostsWidget(BaseWidget):
         try:
             # Fetch RSS feed from Reddit (rising posts)
             url = f"https://www.reddit.com/r/{subreddit}/rising.rss"
-            headers = {
-                "User-Agent": "Mozilla/5.0 (compatible; FeedReader/1.0)"
-            }
-            xml_data = client.get(url, headers=headers, response_type="text")
+            xml_data = client.get(url, response_type="text")
 
             # Parse XML (Atom format)
             root = ET.fromstring(xml_data)
