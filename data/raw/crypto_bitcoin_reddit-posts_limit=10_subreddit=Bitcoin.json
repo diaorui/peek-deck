@@ -46,6 +46,17 @@
       "description": null
     },
     {
+      "title": "Anyone pick up a 80,900?",
+      "author": "Kryptoventures5000",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p4oo2u/anyone_pick_up_a_80900/",
+      "published": 1763909759.0,
+      "thumbnail": "https://preview.redd.it/g8u5vrzbt03g1.jpeg?width=640&crop=smart&auto=webp&s=ca3b04cd5edee00a58b12c94499f2a6db5ad5a3a",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Don't worry mom, I'll contact the CEO!",
       "author": "unthocks",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p4a9oj/dont_worry_mom_ill_contact_the_ceo/",
@@ -62,17 +73,6 @@
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p4bet1/my_reaction_to_btc_hitting_86k_today/",
       "published": 1763865570.0,
       "thumbnail": "https://preview.redd.it/fizjesox5x2g1.gif?width=216&crop=smart&s=73e8b51adddb203e96db1b774f3de6df4a5767f2",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Anyone pick up a 80,900?",
-      "author": "Kryptoventures5000",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p4oo2u/anyone_pick_up_a_80900/",
-      "published": 1763909759.0,
-      "thumbnail": "https://preview.redd.it/g8u5vrzbt03g1.jpeg?width=640&crop=smart&auto=webp&s=ca3b04cd5edee00a58b12c94499f2a6db5ad5a3a",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-23T18:36:31.716689+00:00"
+  "fetched_at": "2025-11-23T19:10:53.318361+00:00"
 }

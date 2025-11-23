@@ -15,44 +15,14 @@
       "description": "Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there's a bubble that will soon pop."
     },
     {
-      "headline": "The A.I. Boom Has Found Another Gear. Why Can\u2019t People Shake Their Worries?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNWE0MUtaUVMzaG1md1oxX1dkcmNjSTdaQjZxYWxaMHhPSXRhM0RKeXlZSjh1WUNyTnFXdURRaDFOcFdrS2pEbE9FbDQ4ZE96QVVZd2lLRktTUFJnNUFOb3E5aTVqMDlrYnc0VXNjYml0M2ktckZmSjVhbw?oc=5",
-      "pub_date": 1763674602.0,
-      "article_url": "https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Nvidia CEO says the company is in a no-win situation amid AI-bubble chatter, leaked meeting reveals",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSmdXTEwwSTlSVktYNENIYXlXQVRwMl9FOUs3VmNsWWZablgtVUxFbk9mUjlVQ0U3bHpkR0RkUnlFclJQZ0JVM1ZlYnhRMXVZX1Qwdy16NkJCMUZ0cDNLdUJ1cnpXWnJqQVRseUd3SWpxQXdoNmllMjJkSFBVY2ZIdUtLaHlpWVBMLVRGVzVEZzlpQnh4ekZkYU5kMDNxc1oyNllRZ3k2MWdfdURqMEdjbUV3QVdLZkZfWG1XWFNVMWRldw?oc=5",
-      "pub_date": 1763763960.0,
-      "article_url": "https://fortune.com/2025/11/21/nvidia-ceo-jensen-huang-q3-earnings-beat-no-win-situation-ai-bubble-fears-nvda-stock-selloff/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2174947979-e1763747436953.jpg?resize=1200,600",
-      "description": "\u201cThe market did not appreciate our incredible quarter,\u201d Huang said."
-    },
-    {
       "headline": "The surprising issue driving a wedge between Trump and his MAGA base",
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlRWWm04U29yNXRCTVVuU2tfVXY4dzJsX2h6TV9NRTgtSE1WLUlnbEF2UnJITG9pa0NIMUhtUHFhalZZUTlGc0ltTzZOSWhTQ2ZDX0JRSlpTSzZ0UFB6Y3dSWXFWVGpTdHRwLXJYOV9La2QwdHJqWV9KRTVIOFlISHJYMzQ3VnF3?oc=5",
-      "pub_date": 1763919416.0,
+      "pub_date": 1763921138.0,
       "article_url": "https://www.washingtonpost.com/technology/2025/11/23/trump-maga-division-tech-ai/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "IRS to roll out Salesforce AI agents following workforce reduction: report",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUGZvRUt6dVVja2t4TWVmS3IyaHZtWFA5bWpKME1IdzFyZUFmdG8yVW13YWRRZy1hYTlkOUlLV09kMTFFZGVpNmN6bzdpaUlzUnIxWlYtZGdJSmpOMGJqOXR6SHR6cGl4VC03V0VNTUdVcW91Zi0wcVFRTW5RTThkaXBObW4yZG51MU45WG53YWlsTGlaUE9GQ0pLZUhPLWhuaXYxMU5Va3VnZmlJVWfSAbMBQVVfeXFMUFpwR0hER2F4RFdkQlQ4bkViTVpXQWNMQUlCcWJFanVFdHdmOERPTzJneURjeHN5ZVpMQ2pBU0pYX0VmUFF4ZkhrZmV3ZW5BMmRpREJ5ZnYyVjk1TUxKQjlYelBOSkd0cEtkQUFfektBaTVpdndKV0c0ZlpndmozN2d6RllfOFZIUXNXQVdCYlp6MXY0T0JyNTRRdTRvOGcxOUU5MW50MmdCdWtQUV9uaTVNYUk?oc=5",
-      "pub_date": 1763919780.0,
-      "article_url": "https://www.foxbusiness.com/technology/irs-roll-out-salesforce-ai-agents-following-workforce-reduction-report",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/AI-investing.jpg?ve=1&tl=1",
-      "description": "IRS deploys Salesforce AI agents across divisions after massive staffing reductions, aiming to help overworked staff process requests faster and more efficiently."
     },
     {
       "headline": "TikTok getting a filter for \u2018AI Slop\u2019 computer generated content",
@@ -65,24 +35,44 @@
       "description": "With artificial intelligence in the headlines every day, it appears that TikTok has put in some guardrails for users to help engineer out and filter AI-generated work."
     },
     {
-      "headline": "AI is too risky to insure, say people whose job is insuring risk",
+      "headline": "Trump Administration Ponders Allowing Nvidia To Trade H200 AI Chips With China",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pVmdobWdGRThYVTZGcDJsb1gxcERveGgwa2hZRjdSU2NwcGtPRnVLS1ZId3pWZGRQN1BEdjNzMDUwWXVrNW5tSnpfb3VlSzB4M1ozYWFxeUJLRlhRTnZzN3NCX2dmYVdvaHlVYTZtZ1MybEZGTGw4bF83V3Q?oc=5",
-      "pub_date": 1763919900.0,
-      "article_url": "https://finance.yahoo.com/news/ai-too-risky-insure-people-174500464.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/CuU.zAc36odSVrhh_6srqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjI-/https://media.zenfs.com/en/techcrunch_finance_785/159b6e62243b30c360cc9b0f4a779f29",
-      "description": "Major insurers including AIG, Great American, and WR Berkley are asking U.S. regulators for permission to exclude AI-related liabilities from corporate policies. One underwriter describes the AI models\u2019 outputs to the FT as \"too much of a black box.\""
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMmxtTzhYYlFrVjlVVVNZM0pEdG5PZDRPNTNNN0ZwTmJ6eDA5UnZ3a3dyeFUxSzJFbUVLN1JwRnZMX0ZFWWhqRGhGU25TUUtOUnliSy1JWjhiNS1NNUJvOXVYU1NGbUo0b1R5ekE3VGh1ZFZuMFFpWjBaM3dHT1FNNVdhRzI3TTJzYWFBRjJKcnhsOTgz?oc=5",
+      "pub_date": 1763923904.0,
+      "article_url": "https://finance.yahoo.com/news/trump-administration-ponders-allowing-nvidia-185144514.html",
+      "image": "https://media.zenfs.com/en/Benzinga/5d2d005b5cd443085ab91f2d5d3a0699",
+      "description": "President Donald Trump\u2019s administration is reportedly contemplating the possibility of permitting Nvidia Corp. (NASDAQ:NVDA) to trade its H200 artificial intelligence chips with China. What Happened: According to a report, the Trump administration\u2019s internal discussions indicate a significant deviation from its previous stance on semiconductor export controls. However, this potential move remains a subject of debate, with no final decision taken as of yet. The ongoing discussions are being perce"
     },
     {
-      "headline": "Opinion | The First Large-Scale Cyberattack by AI",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNaUVBUFhzaWl1R3diZTZaV3BjcDh3YVNIRVBpUldER0ZqQW5OM2d4V3JsM242clI2SVFONlUwdWc3ZFRLTnp4cnBZQjZTSEZRNVdsTXRHXzFINnNIS29KM1owZHBaVENzanlDQnFNUFlqdl9aZEhoNURXVFNYYUlncUdTdU11V2poWm52ZFRGLXpseEYwNE02RUtZQUlFR1FodXFfdFA5anltS2pzU0VzeFVILVRqNHFEalcwZDdWNkNxbWJPamVjdk11NTR2UE9HQ3FQNkFIa2JHSE5VR0xUdTlBajFlUVJ0UU1XZ3Zqa1UwSVpKcWF0M3BDd0xrNFU5elEtR3BocXZFXzFTeEcySUExR2hJdThRdndhSGNfMk1HOFdHYjF4VzNRUi1lRU9Nclk5VVZKSnMxeGx3TVlTU3lkZGVaeEhzaEMwYXp6YW1UVmVEaDdUZWdBWHJkckpXdVMxT1AzU3FjY2J0WFNIR0p0LUFFTjBxeHpfOGpBTktDZWVGZ2V3?oc=5",
-      "pub_date": 1763917380.0,
-      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqc68X27AQ4AQr5vcysF61DzRi9wni5CyS9YphiHEqjvx_oXi3oHoIWW&gaa_ts=692357b1&gaa_sig=PfySv4bBX8JE4NY6_TSABGheTzYnbwvsbtzoRlnsgdmhEUarTf375T7EzZK8lJrSS82ij2alZ3oNQs9hgy6nSw%3D%3D",
+      "headline": "Microsoft faces uphill climb to turn enterprise dominance into widespread AI chatbot adoption",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjY1RTJDVTcxaVpKY1hwOVNvLUgtV1VCQ3gyMFNMNnFUWk1TalB1UTBGcm5Nc21pUUdpVW9BYmYxcmNlV1JYa2sxa2F1b01HUnQ4UllycG9kdm5SbkY4OWhtTkV6LU5KMHN5RDFBQ1Z6LWRJY1ROcU9EMFB6b2NPY2ZjNlZCZEpqalZIZDNhTlFPcjluZVRTMFZpOGNfR1haSnfSAacBQVVfeXFMTjczUmZFNmVxS2dIbkhmV2ozMGw0X1VPb1A1YXREb2hkazI4ZDRzbG1wd3BZeGdfZnNRTGYwVWZwanI3M2M0Rm5Ya0NLRmJnOUtTRW5ScGNvQ0JpMi1tMTUwY0VIMzhkeHdkRm13ak1EZ2dBTUlBVEdEX2pMVEZlYldrSVdhczZiRUhPTUpkb1ZVcmRNRmthcDdXYWgtTDIxLVdhTHBubjQ?oc=5",
+      "pub_date": 1763902801.0,
+      "article_url": "https://www.cnbc.com/2025/11/23/microsoft-faces-uphill-climb-to-win-in-ai-chatbots-with-copilot.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108166076-1751325646064-gettyimages-2150286124-AFP_34QG9T9.jpeg?v=1763774719&w=1920&h=1080",
+      "description": "At Microsoft's annual Ignite conference this week, IT buyers explained why Microsoft isn't seeing runaway success with its Copilot AI assistant."
+    },
+    {
+      "headline": "What OpenAI Did When ChatGPT Users Lost Touch With Reality",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWXhGZHpJdklQSHFMaE9KLXJXYnBCUHU5djVDVGQ0NFUzUDY1bDZ5b3diTDRBdXFmWmxjRHlDRDZTR3hqd3ZvWTdFMFdNZ3BHeDZpWTNnaTRKbEowc0F3dUhReTduakE1cjRHd0dDU09vZVhsQk9LSTd4MnZWZDFveGg4TQ?oc=5",
+      "pub_date": 1763903543.0,
+      "article_url": "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "You Can Run IBM's AI Chatbot Locally In Your Web Browser - Here's How",
+      "source": "bgr.com",
+      "source_url": "https://www.bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZWZqN0RvZzhmeVRBSXl1eUF6d1NiTzJ6TXZCUTNSMW1CekhwTGhJZG5CcDJHblpqa25Kal9xc09jOHhTdGpzdlBaTV9EU251NzIzRksxLUZhUUFmU1R6UEJtMklJaHhCN1hFcVJfeE13NXI2V2JxbVBYdFZGWVd0c2dsc1N2VnlSb0ZVbGFrQWlDbzQ0NmN0WnFrQQ?oc=5",
+      "pub_date": 1763842620.0,
+      "article_url": "https://www.bgr.com/2032147/how-to-run-ibm-ai-chatbot-granite-4-nano-locally-web-browser-guide/",
+      "image": "https://www.bgr.com/img/gallery/you-can-run-ibms-ai-chatbot-locally-in-your-web-browser-heres-how/l-intro-1763576678.jpg",
+      "description": "IBM's Granite 4.0 Nano AI chatbot can be run from a local browser. Make sure it's up to date and meets the program requirements, download the chatbot, and run."
     },
     {
       "headline": "Meet the AI workers who tell their friends and family to stay away from AI | Artificial intelligence (AI)",
@@ -95,16 +85,26 @@
       "description": "When the people making AI seem trustworthy are the ones who trust it the least, it shows that incentives for speed are overtaking safety, experts say"
     },
     {
-      "headline": "The A.I. Boom Is Driving the Economy. What Happens if It Falters?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53TjY5S1gtRXRiN1MzZGU4ckFNcW16N1MtSHlkQzdIbTFHYU1XdE0tTGJFR2tBaFlCdnNTSkFreFUxNUowRW1VV0wyWDVHLVZhSi0wN29Td0pEMTNNVzZJbTJoY0hoYzhUUHpZWlh6QUx3cHVMNmVN?oc=5",
-      "pub_date": 1763805702.0,
-      "article_url": "https://www.nytimes.com/2025/11/22/business/the-ai-boom-economy.html",
+      "headline": "Opinion | The First Large-Scale Cyberattack by AI",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNVVM5Tzl1N0w0TzVqOVdhMUxDelVvMWhiUXA2dmVGWVVGSzBSSFMyZl9oaGJEeEJOYUxJUzVGOEFYOUhoSWtzSjllVGZ3VXdPd3FIMVJpM3UzSU5KT0I5SG5VSHVLZl92bzBMcW5jeHhzNmt4bmlCSk56YVhOT0ZYRDc1UVdnRFRMYkFkb3dxTm41ZEVjTk5QaW9lSTBGb2E5bGdpUVRWS0pBZGJ0a255RU9PaTVhYVZLUXVJN0QxX29qbUxacWtHNzNjNzRKOTBYNTlBcGt3NTBkY0ZQNTA4alUybk5FSTZXQUhvX3I0RXFENTQ3RjZlaUxNMG9RNjk1ZlRCQlB3ekRaRTl1ZkhPWDdEU2ROUlpsRWttSEdKQ2FiQklacE10MjFqMF9IQ3JVTTM2d21TbUVvVzFKeDNxc0ZQNTk0WjNJcnZ3VjJXQTlLeXlmZ1Z1c09zYjhNTjg5OTdkTEc5d2dydkJ1dTdLVXY1b1JXOWwzQ0lObG1tQXZsUDJnQ0Y4?oc=5",
+      "pub_date": 1763917380.0,
+      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqcWUTESQU4YhT6UO8rLjXtG1r-8VhbhIjrgGACBzWLQ68BGqvBL-l09&gaa_ts=69235fbe&gaa_sig=1ayhkOzNGOjwL38xNCRj1p2WdTLAbiQuO-drlFKT2zTCjKWG-UxUzcq_5XFE6DtHmU8dy8Z_pI2xVVhn_QooJw%3D%3D",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "How patients are using AI to fight back against denied insurance claims",
+      "source": "PBS",
+      "source_url": "https://www.pbs.org",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZEVtUDdjSVNVSkx3dG9MSlNfY1htdXlUQUxPOWE5c2hQUTc2QjVNZ1dEdFhJOUMxa1ZFVUVpLVZqZDhrbXhlSGFPY3Y3RDRGcjF6YWJTQ0hiRG43U0JrX01wQi1sRko1SHZKX0tsMEtQdlFrYmRhay1pNHhZaHZTYXBIU2NISDNzWkJrVldVb0NpdFIzOUN5VGhqYmp6RFFOZVVoWE1RSnM?oc=5",
+      "pub_date": 1763850929.0,
+      "article_url": "https://www.pbs.org/newshour/show/how-patients-are-using-ai-to-fight-back-against-denied-insurance-claims",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/11/aiandinsurance-1024x683.jpg",
+      "description": "As health insurers increasingly rely on artificial intelligence to process claims, denials have been on the rise. In 2023, about 73 million Americans on Affordable Care Act plans had their claims for in-network services denied, and less than 1% of them tried to appeal. Now, AI is being used to help patients fight back. Ali Rogin speaks with Indiana University law professor Jennifer Oliva for more."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T18:36:52.821155+00:00"
+  "fetched_at": "2025-11-23T19:11:14.834624+00:00"
 }

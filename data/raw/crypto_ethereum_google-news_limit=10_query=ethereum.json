@@ -25,6 +25,16 @@
       "description": "These two leading blockchains are very different in their ambitions."
     },
     {
+      "headline": "What Is a Layer-1 Blockchain? The Base Layer Powering Bitcoin and Crypto",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR3d5UlJEanV0ckoyVlZ5eTRyaW9VWUxYTTdDWEV0S09PTWxnc3lDZFdKRUYwX2ZPcVhOMnp4dzZZUEJiS3BaSE1rTDNoZUxoa3UxcTNJODhvS0VmeVA3NUhEZWNfYlFxTmVTekh5cl9iQ2ZRX0ZabjVBWjdvdENBZkJCVXNJV2lGN2c4QjFuYURtOW9O0gGcAUFVX3lxTE5sSG03WmFDMm04dmx0dTlLdmo1RUJhMUNLazJ2RzN2cUlKZ1pKQWNYeG1JLTUyZkRmbW9FaWExcDRHbDRyZ0ppTDFmVWc3MFFoMzQ2U1VwdXh1Y29CSFBsdTBGTVZKcERickUxSEdLOG1BYjFmWDdKTjFCLUdoSTNmSVpscGNfMGdtbXphMDA3elJJZU1zVy1hZjdRVg?oc=5",
+      "pub_date": 1763920056.0,
+      "article_url": "https://decrypt.co/resources/what-is-layer-1-blockchain-base-layer-powering-bitcoin-crypto",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/03/BLOCKCHAIN-copy-gID_7-pID_5.png",
+      "description": "Layer-1 blockchains are the base networks that secure and record every crypto transaction, powering Bitcoin, Ethereum, and beyond."
+    },
+    {
       "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -33,16 +43,6 @@
       "article_url": "https://finance.yahoo.com/news/bitcoin-vs-ethereum-more-likely-171500913.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/mL8QYt.1ZfmHOzQozBq1QQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/80e3e6dff18e3fdae3620ea8888e4a6e",
       "description": "Bitcoin and Ethereum have impressive track records and sky-high future price targets."
-    },
-    {
-      "headline": "\ud83d\udea8 BREAKING: SWIFT Chooses Ethereum Layer-2 #Linea Over XRP for 2025 Cross-Border Payment Pilot In",
-      "source": "Binance",
-      "source_url": "https://www.binance.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1keTl2aUxucFI0cEttR0lJeXZfTGdoOTRxbDVmd0NZdlNSdjdqTklQX2FwM0VwMVZ3cnlOc0QyTV9kVVFxLTRrOVFHb1ZYVFFNYTlkcHNGRGhyS0czb2ZHN1lhTQ?oc=5",
-      "pub_date": 1763819724.0,
-      "article_url": "https://www.binance.com/en/square/post/32731404517313",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Ethereum (ETH) News: Tom Lee's BMNR Sitting on Major Losses",
@@ -95,16 +95,16 @@
       "description": "Ethereum has been a major victim of the ongoing crypto market onslaught, recording a 27.63% loss in the last month alone. The largest altcoin now trades around $2,800, representing a significant fall from the local cycle peak around $4,800. As prices continue to tumble with each new drop triggering\u2026"
     },
     {
-      "headline": "Bitcoin, Ethereum and XRP Dive as Rate Cut Hopes Fade, Liquidations Near $1 Billion",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMExsdzkwWmRvR19sM3ZZX2h2aDVyRzNUNHI0ZHhIc2YxWm5BakMwUmFwc2ZlbXdxbjZxbXVnNDRJX1B1WHFpOXpSazFjZWRmRV9EdGxBR3VLeXpmMTU2eVplZkVldEtIUGFkaGtyNnFtZnZDZ2lKLVZ0VmY4a0JCTmlnMUxkbk0yeWU3NUlMWENnVDdKMi04YnliRTA2M2ZK0gGoAUFVX3lxTE5Fb09KdktpZF9iRHhZRThKdC1SSmo4eFhoOENPMjdPQkZxZGZPeDZ5ZU1GX2N5S1IxdUlWa2kyX2VfZG1nNkh5RmZXc2drMVlEVDZRYmRxakxNRm5ZODh5TkducUNob2FUREE1UFpzYVMzN3NJNFRPdWIwVkRWcUJFdnJVTXRUMUJnZ0JvTm94VWd0UzdSWnFQLWIzMVRqYjI1ZlNKWnkyZQ?oc=5",
-      "pub_date": 1763660480.0,
-      "article_url": "https://decrypt.co/349404/bitcoin-ethereum-xrp-dive-rate-cut-hopes-fade-liquidations-near-1-billion",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
-      "description": "Bitcoin is being battered again Thursday, falling below the $87,000 mark for the first time in seven months as liquidations top $900 million."
+      "headline": "Ethereum treasury FG Nexus, once eager to raise up to $5 billion, sells over 10,000 ETH to fund share buybacks",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMDNtS1h1QVhTTTAyQTBNbS1jNmNiN2xfSHB3N2ZJWldEenBZT2pLTmVIRnREZGIyMEphWnNZcFQ3ZEsyY1BGcmozS3IwZlIzT2xKSlUzYVNBN201V1Y5Zm9YdkFBZHBLX25KVklFSmRCNWZVSmNwRmwxRG03ZzNWZFU3Z01qTWdfdk5lSGc1cWxBVU9idnhJSHQ2TkNqc03SAaQBQVVfeXFMTjdybmk4WmYybVRyU09uQjdvdUFEeHJPaUkwWDlxS085UjdMVkprNVdJa3VvLWR3NDFjMFRVUTVwVG83ZUFZdDF2enoxVHBTZ2pTMFp6d2VfZ3FHd3NjbVkzWDAxbURRaGlmU3VseWNmbjI3ckdHM200VVhXeEFCNGI5ZG1WaHZGMWdZei14S3pVREdFU05WZHI5S3FxUDVPRVJSMW4?oc=5",
+      "pub_date": 1763652236.0,
+      "article_url": "https://www.theblock.co/post/379721/ethereum-treasury-fg-nexus-sells-10000-eth-fund-share-buybacks",
+      "image": "https://www.tbstat.com/wp/uploads/2025/06/ethereum-eth-work-news-1200x675.jpg",
+      "description": "In August, FG Nexus filed paperwork with the SEC so it could potentially raise as much as $5 billion to buy Ethereum."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T18:36:47.788260+00:00"
+  "fetched_at": "2025-11-23T19:11:07.971043+00:00"
 }
