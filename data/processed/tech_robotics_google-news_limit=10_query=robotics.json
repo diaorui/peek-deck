@@ -15,16 +15,6 @@
       "description": "Physical Intelligence, a startup developing artificial intelligence software to help robots learn a wide range of tasks, has raised $600 million in a new round of funding that values the company at $5.6 billion, according to people with knowledge of the matter.Alphabet Inc.\u2019s independent growth fund CapitalG led the round, with participation from existing investors Lux Capital, Thrive Capital and Amazon.com Inc. founder Jeff Bezos, said the people, who asked not to be identified discussing priva"
     },
     {
-      "headline": "Figure AI sued by whistleblower who warned that startup's robots could 'fracture a human skull'",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xRkZMNXljcmZXZ2Y2TDljZkplS0lzZk9ocWJkSWhZalNGaFd5czJodWdLRFdGbDVyZ0JIVzgzemxmMjY0cDdTUnNSVVpCY1RvVTMtQ2E4Smx1djM0YkdGd9IBZkFVX3lxTE92alZXTlhpN1d3WEFSTVpPTDd2NDJ0SXczYXE1dEpBX21rSmJBQm5mN2NTcWpZYjR0SWNUTzZlMUVnZGFnSkNfYzV1M3F0T2EzVGVseXlPY2VYd1VBNHUzSW4yb1UtQQ?oc=5",
-      "pub_date": 1763769128.0,
-      "article_url": "https://www.cnbc.com/2025/11/21/figure-ai-sued.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107379938-1709152661747-Figure_Image_4.jpg?v=1709153015&w=1920&h=1080",
-      "description": "A former engineer for Figure AI filed a lawsuit against the company, claiming he was unlawfully terminated after warning executives about product safety."
-    },
-    {
       "headline": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -35,6 +25,16 @@
       "description": "\u201cIt\u2019ll be like playing sports or a video game or something like that,\u201d the Tesla CEO said."
     },
     {
+      "headline": "Figure AI sued by whistleblower who warned that startup's robots could 'fracture a human skull'",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xRkZMNXljcmZXZ2Y2TDljZkplS0lzZk9ocWJkSWhZalNGaFd5czJodWdLRFdGbDVyZ0JIVzgzemxmMjY0cDdTUnNSVVpCY1RvVTMtQ2E4Smx1djM0YkdGd9IBZkFVX3lxTE92alZXTlhpN1d3WEFSTVpPTDd2NDJ0SXczYXE1dEpBX21rSmJBQm5mN2NTcWpZYjR0SWNUTzZlMUVnZGFnSkNfYzV1M3F0T2EzVGVseXlPY2VYd1VBNHUzSW4yb1UtQQ?oc=5",
+      "pub_date": 1763769128.0,
+      "article_url": "https://www.cnbc.com/2025/11/21/figure-ai-sued.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107379938-1709152661747-Figure_Image_4.jpg?v=1709153015&w=1920&h=1080",
+      "description": "A former engineer for Figure AI filed a lawsuit against the company, claiming he was unlawfully terminated after warning executives about product safety."
+    },
+    {
       "headline": "Xiaomi open-sources AI model spanning autonomous driving and robotics",
       "source": "South China Morning Post",
       "source_url": "https://www.scmp.com",
@@ -43,6 +43,26 @@
       "article_url": "https://www.scmp.com/tech/big-tech/article/3333787/xiaomi-open-sources-ai-model-spanning-autonomous-driving-and-robotics",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/22/a3b60646-2a8f-4358-9d8e-0df2feab2d46_6b73773b.jpg?itok=QrbmmjT1&v=1763795339",
       "description": "EV and AI initiatives have become an increasingly important part of Xiaomi\u2019s business."
+    },
+    {
+      "headline": "Exclusive: Founded By Ex-Nvidia Researchers, Flexion Lands $50M To Build The 'Brain' for Humanoid Robots",
+      "source": "Crunchbase News",
+      "source_url": "https://news.crunchbase.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdEp6S09rOUJTRWxKR2JSQkNjWDVvSlFFdjU2alFjWFhtUTRsU0xuLXA4cFAxd3V5aTJoSkdJdF9PVFlXZFVSTXBMaG5GZ1hfaU9rQUpCU3Z0U0J6QzkyVDhFVDhyN2EyT2NCWXh0Y3V4Qkh1OG1QbWpaeDFwTGxTX09iV2RDMFJ6?oc=5",
+      "pub_date": 1763650850.0,
+      "article_url": "https://news.crunchbase.com/venture/robotic-brain-building-startup-flexion-raise/",
+      "image": "https://news.crunchbase.com/wp-content/uploads/AI_Brain.jpg",
+      "description": "A startup founded by former Nvidia researchers that\u2019s \u201cbuilding the brain for humanoid and human-capable robots,\u201d Flexion has raised $50 million in funding, it tells Crunchbase News exclusively."
+    },
+    {
+      "headline": "You Must Read This Riveting Whistleblower Lawsuit About Allegedly Dangerous Robots",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVW5TMU5xTV96SW9YWGdfcE91TUg0SGpBdDVucHUtZnQ0UmNkdENNSTBUbUQzLVhVUHU2ZnJJZ09XaTlWS0hBY0ZURklJeTNTOUo1X0ZtVVJnaGFiSy1RRHFQREppQkpaSE54TUdrbTFidl9yb0c4a0FScUF6MGRCQ2hEa3lHTEF6aWxkUEdPQktMVURUaklnT0pHYS1RaFh0OEJfUW1TaXBjb2d0MWk1MTh5Yw?oc=5",
+      "pub_date": 1763838302.0,
+      "article_url": "https://gizmodo.com/you-must-read-this-riveting-whistleblower-lawsuit-about-allegedly-dangerous-robots-2000688737",
+      "image": "https://gizmodo.com/app/uploads/2025/11/figure-02-1200x675.jpg",
+      "description": "A safety technician was fired as a company allegedly rushed ahead in commercializing a powerful humanoid robot with bone-crunching capabilities."
     },
     {
       "headline": "Humanoid robots get \u2018real-world intelligence\u2019, full autonomy with US firm\u2019s BrainPack",
@@ -65,16 +85,6 @@
       "description": "Blame the elves. They saw generative artificial intelligence (AI) coming for their jobs and outsourced Christmas to robots. This holiday season, the"
     },
     {
-      "headline": "You Must Read This Riveting Whistleblower Lawsuit About Allegedly Dangerous Robots",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVW5TMU5xTV96SW9YWGdfcE91TUg0SGpBdDVucHUtZnQ0UmNkdENNSTBUbUQzLVhVUHU2ZnJJZ09XaTlWS0hBY0ZURklJeTNTOUo1X0ZtVVJnaGFiSy1RRHFQREppQkpaSE54TUdrbTFidl9yb0c4a0FScUF6MGRCQ2hEa3lHTEF6aWxkUEdPQktMVURUaklnT0pHYS1RaFh0OEJfUW1TaXBjb2d0MWk1MTh5Yw?oc=5",
-      "pub_date": 1763838302.0,
-      "article_url": "https://gizmodo.com/you-must-read-this-riveting-whistleblower-lawsuit-about-allegedly-dangerous-robots-2000688737",
-      "image": "https://gizmodo.com/app/uploads/2025/11/figure-02-1200x675.jpg",
-      "description": "A safety technician was fired as a company allegedly rushed ahead in commercializing a powerful humanoid robot with bone-crunching capabilities."
-    },
-    {
       "headline": "Armstrong Robotics wants to create general purpose kitchen robots, starting with dishwashing",
       "source": "The Robot Report",
       "source_url": "https://www.therobotreport.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.businessinsider.com/sunday-robotics-home-robot-training-hands-loading-dishwasher-2025-11",
       "image": "https://i.insider.com/691fed00e1a9cbb014deaf72?width=1200&format=jpeg",
       "description": "Sunday Robotics spent less than 2 years in stealth figuring out how to train robots to complete complex tasks like handling dishes using human data."
-    },
-    {
-      "headline": "Parallax Worlds Raises $4.9M To Stress-Test Robots Before They Hit The Factory Floor",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVW5WVi1ycjBEZVkxNFp4VnBLc3ZoLXlSNFdXYkR4ZWkzTVltX3A5U2tTRDNNa3JHTnp3VGR5NjBEZG53MWVmS09ZM3BLb205R3pfaE56R1gzczY4SWpFWTI2djktR2RKYkxabkVRYUpGYXV4M21PRUFMeGhRdTcxaUoweVNweXpXMEpMMnp6Q1pHNmVFVndqajNQQ1F2NHZXeUZ6MUdRbzdKMGFNd2dXVnRMVjVndFFaYjc1WVpFYmNuMi1MM2lza0JBbWd2ajg?oc=5",
-      "pub_date": 1763824152.0,
-      "article_url": "https://www.usatoday.com/press-release/story/19080/parallax-worlds-raises-49m-to-stress-test-robots-before-they-hit-the-factory-floor/",
-      "image": "https://usatoday.xpr-gannett.com/wp-content/uploads/sites/3/2025/10/access-newswire-1761595137026.jpg",
-      "description": "Capital will fuel product development, hiring, and expansion into large-scale manufacturing SAN FRANCISCO, CA / ACCESS Newswire / November 20, 2025 / Parallax Worlds, the company building hyper-realistic simulations to stress-test robots before deployment, today announced a $4 million seed round, bringing total pre-seed and seed funding to $4.9 million. The round was led by [\u2026]"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T23:18:06.995497+00:00"
+  "fetched_at": "2025-11-23T23:55:45.556026+00:00"
 }

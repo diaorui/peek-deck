@@ -131,21 +131,21 @@
       "site_name": "Illya's Thoughts"
     },
     {
-      "title": "Post-quantum vaults are live on Bitcoin Cash's Chipnet",
-      "url": "https://blog.bitjson.com/quantumroot-on-chipnet/",
-      "hn_url": "https://news.ycombinator.com/item?id=46015880",
-      "author": "hggh",
+      "title": "Solo miner scores a full Bitcoin block worth $270K despite 1 in 180M odds",
+      "url": "https://www.tomshardware.com/tech-industry/cryptomining/hobbyist-miner-using-a-single-6-ths-asic-mines-full-bitcoin-block",
+      "hn_url": "https://news.ycombinator.com/item?id=46028449",
+      "author": "pseudolus",
       "points": 2,
       "num_comments": 0,
-      "created_at": "2025-11-22T16:24:28Z",
-      "object_id": "46015880",
-      "image": "https://blog.bitjson.com/content/images/size/w1200/2025/11/quantumroot-sweep-1.png",
-      "description": "Quantumroot vaults are now live on Bitcoin Cash's 6-months-ahead preview network. Contracts, testing suite, and transaction generation code now available.",
-      "favicon": "https://blog.bitjson.com/content/images/size/w256h256/2021/04/bitjson-bitauth-favicon-1.png",
-      "site_name": "bitjson's blog"
+      "created_at": "2025-11-23T23:29:08Z",
+      "object_id": "46028449",
+      "image": "https://cdn.mos.cms.futurecdn.net/xNgBpUETd9FRLejaNQYZe7-1000-80.jpg",
+      "description": "Solo miner controls roughly 0.0000007\u202f% of the Bitcoin network\u2019s hash\u2011power yet captures full block reward.",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1477279/apple-touch-icon.png",
+      "site_name": "Tom's Hardware"
     }
   ],
-  "total_hits": 18,
+  "total_hits": 19,
   "has_metadata": true,
-  "fetched_at": "2025-11-23T23:17:49.343768+00:00"
+  "fetched_at": "2025-11-23T23:55:30.192537+00:00"
 }

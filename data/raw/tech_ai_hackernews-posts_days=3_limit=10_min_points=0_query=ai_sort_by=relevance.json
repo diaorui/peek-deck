@@ -23,7 +23,7 @@
       "url": "https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab0d3",
       "hn_url": "https://news.ycombinator.com/item?id=46024644",
       "author": "kllrnohj",
-      "points": 218,
+      "points": 219,
       "num_comments": 180,
       "created_at": "2025-11-23T16:17:57Z",
       "object_id": "46024644",
@@ -37,7 +37,7 @@
       "url": "https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/",
       "hn_url": "https://news.ycombinator.com/item?id=46008628",
       "author": "speckx",
-      "points": 158,
+      "points": 159,
       "num_comments": 207,
       "created_at": "2025-11-21T20:30:51Z",
       "object_id": "46008628",
@@ -45,6 +45,20 @@
       "description": "The AI revolution is three years old Nov. 30. In just 36 months AI has gone from great-new-toy, to global phenomenon, to where we are today - debating whether we are in one of the biggest technology bubbles or booms in modern times. To us there is no debate. There is too much spending, too much leverage, too many crazy deals, and too much competition from China for us not to see big bumps ahead.",
       "favicon": "https://i0.wp.com/crazystupidtech.com/wp-content/uploads/2025/04/cropped-crazytech-img.png?fit=180%2C180&ssl=1",
       "site_name": "Crazy Stupid Tech"
+    },
+    {
+      "title": "Terence Tao: At the Erdos problem website, AI assistance now becoming routine",
+      "url": "https://mathstodon.xyz/@tao/115591487350860999",
+      "hn_url": "https://news.ycombinator.com/item?id=46017972",
+      "author": "dwohnitmok",
+      "points": 153,
+      "num_comments": 19,
+      "created_at": "2025-11-22T20:27:41Z",
+      "object_id": "46017972",
+      "image": null,
+      "description": "Over at the Erdos problem website, AI assistance is now becoming routine.  Here is what happened recently regarding Erdos problem #367 https://www.erdosproblems.com/367 :\n\n1.  On Nov 20, Wouter van Doorn produced a (human-generated) disproof of the second part of this problem, contingent on a congruence identity that he thought was true, and was \"sure someoneone here is able to verify... does indeed hold\".\n\n2.  A few hours later, I posed this problem to Gemini Deepthink, which (after about ten minutes) produced a complete proof of the identity (and confirmed the entire argument): https://gemini.google.com/share/81a65aecfd70 .  The argument used some p-adic algebraic number theory which was overkill for this problem.  I then spent about half an hour converting the proof by hand into a more elementary proof, which I presented on the site.  I then remarked that the resulting proof should be within range of \"vibe formalizing\" in Lean.\n\n3.  Two days later, Boris Alexeev used the Aristotle tool from Harmonic to complete the Lean formalization, making sure to formalize the final statement by hand to guard against AI exploits.  This process took two to three hours, and the output can be found at https://borisalexeev.com/t/Erdos367.lean\n\nEDIT: after making this post, I decided to round things out by making AI literature searches on this problem, which (after about fifteen minutes) turned up some related literature on consecutive powerful numbers, but nothing directly relating to #367.  https://chatgpt.com/share/6921427d-9dc0-800e-b798-be8fc94a9240 https://gemini.google.com/share/0d296454bea0",
+      "favicon": "https://mathstodon.xyz/packs/assets/apple-touch-icon-57x57-BsPGHSez.png",
+      "site_name": "Mathstodon"
     },
     {
       "title": "The New AI Consciousness Paper",
@@ -61,18 +75,18 @@
       "site_name": "astralcodexten.com"
     },
     {
-      "title": "Terence Tao: At the Erdos problem website, AI assistance now becoming routine",
-      "url": "https://mathstodon.xyz/@tao/115591487350860999",
-      "hn_url": "https://news.ycombinator.com/item?id=46017972",
-      "author": "dwohnitmok",
-      "points": 143,
-      "num_comments": 17,
-      "created_at": "2025-11-22T20:27:41Z",
-      "object_id": "46017972",
+      "title": "Iowa City Made Its Buses Free. Traffic Cleared, and So Did the Air",
+      "url": "https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46027833",
+      "author": "bookofjoe",
+      "points": 83,
+      "num_comments": 67,
+      "created_at": "2025-11-23T22:06:44Z",
+      "object_id": "46027833",
       "image": null,
-      "description": "Over at the Erdos problem website, AI assistance is now becoming routine.  Here is what happened recently regarding Erdos problem #367 https://www.erdosproblems.com/367 :\n\n1.  On Nov 20, Wouter van Doorn produced a (human-generated) disproof of the second part of this problem, contingent on a congruence identity that he thought was true, and was \"sure someoneone here is able to verify... does indeed hold\".\n\n2.  A few hours later, I posed this problem to Gemini Deepthink, which (after about ten minutes) produced a complete proof of the identity (and confirmed the entire argument): https://gemini.google.com/share/81a65aecfd70 .  The argument used some p-adic algebraic number theory which was overkill for this problem.  I then spent about half an hour converting the proof by hand into a more elementary proof, which I presented on the site.  I then remarked that the resulting proof should be within range of \"vibe formalizing\" in Lean.\n\n3.  Two days later, Boris Alexeev used the Aristotle tool from Harmonic to complete the Lean formalization, making sure to formalize the final statement by hand to guard against AI exploits.  This process took two to three hours, and the output can be found at https://borisalexeev.com/t/Erdos367.lean\n\nEDIT: after making this post, I decided to round things out by making AI literature searches on this problem, which (after about fifteen minutes) turned up some related literature on consecutive powerful numbers, but nothing directly relating to #367.  https://chatgpt.com/share/6921427d-9dc0-800e-b798-be8fc94a9240 https://gemini.google.com/share/0d296454bea0",
-      "favicon": "https://mathstodon.xyz/packs/assets/apple-touch-icon-57x57-BsPGHSez.png",
-      "site_name": "Mathstodon"
+      "description": null,
+      "favicon": null,
+      "site_name": "nytimes.com"
     },
     {
       "title": "An Economy of AI Agents",
@@ -117,20 +131,6 @@
       "site_name": "Ars Technica"
     },
     {
-      "title": "Iowa City Made Its Buses Free. Traffic Cleared, and So Did the Air",
-      "url": "https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html",
-      "hn_url": "https://news.ycombinator.com/item?id=46027833",
-      "author": "bookofjoe",
-      "points": 53,
-      "num_comments": 15,
-      "created_at": "2025-11-23T22:06:44Z",
-      "object_id": "46027833",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "nytimes.com"
-    },
-    {
       "title": "Microsoft AI CEO Puzzled by People Being Unimpressed by AI",
       "url": "https://80.lv/articles/microsoft-ai-ceo-puzzled-by-people-being-unimpressed-by-ai",
       "hn_url": "https://news.ycombinator.com/item?id=46001727",
@@ -145,7 +145,7 @@
       "site_name": "80.lv"
     }
   ],
-  "total_hits": 384,
+  "total_hits": 381,
   "has_metadata": true,
-  "fetched_at": "2025-11-23T23:17:52.421647+00:00"
+  "fetched_at": "2025-11-23T23:55:27.690598+00:00"
 }

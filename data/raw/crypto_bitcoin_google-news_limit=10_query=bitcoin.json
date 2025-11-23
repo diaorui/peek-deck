@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Did Bitcoin Just Bottom Out? What the Data Says About a Rebound",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqeU9fdC1RdjBRcXBLR0UzNFhveWVQRktRbDRYZ245SGVSUE43MURHa0tXWFZwdm1lUEVZNWJ0dmhfRER6V1RUaTBTTmE3cTN4aHhfMC1KWGFkdHdJNU83T3pIVzFCQXZzSzhJaWVlTkFaWFA1OXRWTHFuSFF4ZjA?oc=5",
-      "pub_date": 1763927757.0,
-      "article_url": "https://finance.yahoo.com/news/did-bitcoin-just-bottom-data-195557272.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/iLRc0mBs0_nsczFJ8oJulA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/87e663e806863565b59718065d3892b2",
-      "description": "Bitcoin holders are capitulating as losses spike, signaling a potential market bottom that may support a rebound toward key levels."
+      "headline": "Bitcoin continues slide that's roiling markets, threatens to break below $80,000",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVljYmRNbTdrdWE0c3NjQWR5TzNWUUNENjh4MGMxWEZaMmFxQ3dES184LXlFeXE2WEhFSTdzTmhqZkRrNU1MbWlONFVCNThaVVVnVE15bElVRnJxWkp2Y3JTaTZMZ01fbVhnSVUzYW5QQ0t1SVhfVGNXOUVRRFlEX01fRDNpSHQ1eXNRcU8zQUo2cDV5M0lnZWttc3lFSWZ5amVZUVliV0xvMU1BWm9pbFVGZ9IBuAFBVV95cUxPNmZtMU9xNHpibzVYM1pCN2RQcmYyMktTZjZDTnFGX3F1NGdsV3d1YTl6R0I2Xzlpcm5RRWVsX0pHa1YzYlFoQmNDcDBtUThnMV9NRTYxVWdRNzBZOTJsMGFwTlBxMlZfekJRN0hMQ2JzRDk2UHFEN2pxa1ppc083cGg2bjZUTkJkQ3NVNEZPUjhrMG5ZbkszTno2ZXdBMVBRbDFjcFpMaXU2SXI5b0xESGhLWlhYc2tx?oc=5",
+      "pub_date": 1763736172.0,
+      "article_url": "https://www.cnbc.com/2025/11/21/bitcoin-continues-slide-thats-roiling-markets-threatens-to-break-below-80000.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/105496652-1740495612547-105496652-1539107947284gettyimages-917296340-1.jpg?v=1763738884&w=1920&h=1080",
+      "description": "Bitcoin almost dipped below its critical $80,000 support level."
     },
     {
       "headline": "Peter Schiff Says Bitcoin Buyers Have Only One (Unlikely) Hope To Bail Them Out",
@@ -85,16 +85,6 @@
       "description": "Layer-1 blockchains are the base networks that secure and record every crypto transaction, powering Bitcoin, Ethereum, and beyond."
     },
     {
-      "headline": "Michael Saylor responds to JPMorgan\u2019s MSCI delisting warning",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTTJJb2ptMm1RZ0Rrdm1fZUJYclJnSkJxalE5d0lMbHg1NlpONkdPd2dySXA4eGJYUXJveTdkZDlXV0tFSXFBbkN1ZFlIcFhSTy1VZUZRalBQSGxmOThCVFBGVi1FbUZ4bGtGaEdvbEljR1p2M0RfYnNrT1M0OGtHWGVLMHU3bmprdm9zX0czamI2NnZHR2VHYWFVYk5WWEgtVlE?oc=5",
-      "pub_date": 1763737549.0,
-      "article_url": "https://www.thestreet.com/crypto/markets/michael-saylor-responds-to-jpmorgans-msci-delisting-warning",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "What Will Happen To Microstrategy If Bitcoin Falls Under $74,000?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -103,8 +93,18 @@
       "article_url": "https://finance.yahoo.com/news/happen-microstrategy-bitcoin-falls-under-003044978.html",
       "image": "https://media.zenfs.com/en/99bitcoins_us_315/d9953751802b03ef9d79099080893135",
       "description": "MicroStrategy is still the biggest corporate holder of Bitcoin, sitting on roughly 649,870 BTC as of mid-November 2025. They bought all of this for around 48.37 billion dollars total, which puts their average cost at about 74,433 dollars per Bitcoin. With Bitcoin dipping under 80k, things are starting to look ..."
+    },
+    {
+      "headline": "Michael Saylor responds to JPMorgan\u2019s MSCI delisting warning",
+      "source": "TheStreet",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTTJJb2ptMm1RZ0Rrdm1fZUJYclJnSkJxalE5d0lMbHg1NlpONkdPd2dySXA4eGJYUXJveTdkZDlXV0tFSXFBbkN1ZFlIcFhSTy1VZUZRalBQSGxmOThCVFBGVi1FbUZ4bGtGaEdvbEljR1p2M0RfYnNrT1M0OGtHWGVLMHU3bmprdm9zX0czamI2NnZHR2VHYWFVYk5WWEgtVlE?oc=5",
+      "pub_date": 1763737549.0,
+      "article_url": "https://www.thestreet.com/crypto/markets/michael-saylor-responds-to-jpmorgans-msci-delisting-warning",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T23:18:06.010041+00:00"
+  "fetched_at": "2025-11-23T23:55:43.581807+00:00"
 }

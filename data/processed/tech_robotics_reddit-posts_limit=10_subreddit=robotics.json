@@ -24,6 +24,17 @@
       "description": "Full video: https://youtu.be/D_eXUkDf7UU?si=9JL-OhVQXgD1X8pv"
     },
     {
+      "title": "Trying to look for the closed form analytical solution for this Amazon bought robotic arm",
+      "author": "hisenberg-up",
+      "url": "https://www.reddit.com/r/robotics/comments/1p511g9/trying_to_look_for_the_closed_form_analytical/",
+      "published": 1763939603.0,
+      "thumbnail": "https://b.thumbs.redditmedia.com/Z7VzVd9aHUhPGVpVe4YyTfnT4xdgU9bWDqfiTmPGoLA.jpg",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "It claims to be a 6DOF but it looks like it only has 5DOF. First image shows the assembled arm, and second shows the transforms diagram. We are trying to find closed form inv kinematics solution and looking to see if that's possible or we will need to try for a numerical approach instead? Any suggestions appreciated."
+    },
+    {
       "title": "How do I make my robot walk/balance dynamically? I don\u2019t know how to use simulations such as Isaac sim since im new to robotics.",
       "author": "TooManyLegoBricks",
       "url": "https://www.reddit.com/r/robotics/comments/1p4pobn/how_do_i_make_my_robot_walkbalance_dynamically_i/",
@@ -44,17 +55,6 @@
       "site_name": "CNBC",
       "favicon": "https://sc-cnbcfm-com.cdn.ampproject.org/i/s/sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
       "description": "Im curious how many others from Figure or other Humanoid Robot companies will start to step forward and speak up. Safety is something that is not talked about enough."
-    },
-    {
-      "title": "Trying to look for the closed form analytical solution for this Amazon bought robotic arm",
-      "author": "hisenberg-up",
-      "url": "https://www.reddit.com/r/robotics/comments/1p511g9/trying_to_look_for_the_closed_form_analytical/",
-      "published": 1763939603.0,
-      "thumbnail": "https://b.thumbs.redditmedia.com/Z7VzVd9aHUhPGVpVe4YyTfnT4xdgU9bWDqfiTmPGoLA.jpg",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "It claims to be a 6DOF but it looks like it only has 5DOF. First image shows the assembled arm, and second shows the transforms diagram. We are trying to find closed form inv kinematics solution and looking to see if that's possible or we will need to try for a numerical approach instead? Any suggestions appreciated."
     },
     {
       "title": "Laws of mBotics : Part 3",
@@ -112,5 +112,5 @@
       "description": "im trying to power this brushless motor using a STEVAL-STSPIN3201using FOC sensorless control , I can not use Motor Profiler since the ST-link of the board is corrupted (I'm programming the main MCU with an External ST-link dongle). The BLCD motor as shown is only vibrating (seems like it want to rotate but it can't) What can be the problem? am i missing something"
     }
   ],
-  "fetched_at": "2025-11-23T23:17:52.354128+00:00"
+  "fetched_at": "2025-11-23T23:55:31.639126+00:00"
 }

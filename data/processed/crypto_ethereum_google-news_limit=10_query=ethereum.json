@@ -45,26 +45,6 @@
       "description": "BitMine could trap shareholders amid low staking yields, hefty embedded fees and vanishing NAV premium, 10x Research founder Markus Thielen warns."
     },
     {
-      "headline": "Bitmine Immersion Technologies Faces Financial Risks Amid Ethereum Volatility",
-      "source": "TipRanks",
-      "source_url": "https://www.tipranks.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNHQ5U0Mta2ljRGF0U1pOR0Nsc1V6X0U0N1NxbWktb1FTRmJMN0YwUHBoQm5LNHFfaVlpRG54Tk1mU0g0aVp2Y21TT2NCb0J2eW91OEFIVkZLRk1adUZyNFdsdXZFem1WQWdPX2FqOEpkeU5ocTEyT2Q3UnByeEoxZDdETzYzeW01N09HNThsTWhKbmdqVTV6QnBjLVZQN2FweWlibG1xQndsRlpkejZQR2RVVDZBZF91dTZ0MVd6QnMyc3YwMVFCOQ?oc=5",
-      "pub_date": 1763877830.0,
-      "article_url": "https://www.tipranks.com/news/company-announcements/bitmine-immersion-technologies-faces-financial-risks-amid-ethereum-volatility",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_2060538899.jpg",
-      "description": "Bitmine Immersion Technologies, Inc. (BMNR) has disclosed a new risk, in the International Operations category. Bitmine Immersion Technologies, Inc. faces significa..."
-    },
-    {
-      "headline": "Why Bitmine Immersion Technologies Collapsed 24.4% This Week",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblZnMFlCaGZkdzNsWlBqb2l3Y3FEMjBseGRSekZWQnBtRzVOTm15Mm9HMDVhVFNLeVJmZXo2TTdydmJ6NXhwa2VxbWpKYVhHRFBPcVNORkdCMUxjSGJWemtKNWZQSmF1b3ZlR0h1cnVMcnVCYkFVR3RnWDFQNDZoMmJOSDdTdFBNdW4tYkxNWk8xVHJTSFhJNQ?oc=5",
-      "pub_date": 1763777340.0,
-      "article_url": "https://www.fool.com/investing/2025/11/21/why-bitmine-immersion-technologies-collapsed-244-t/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844165%2Fbitcoin-hit-by-lightning-crypto.jpg&w=1200&op=resize",
-      "description": "The cryptocurrency investment company is falling along with its favored Ethereum coin."
-    },
-    {
       "headline": "Ethereum Cofounder Issues Stark BlackRock Warning That Could Spell Disaster For Bitcoin Amid Sudden Price Sell-Off",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -85,6 +65,16 @@
       "description": "Ethereum is testing a critical juncture as the golden pocket between $2,600 and $2,800 comes into play. With resistance looming at $2,800, the market now faces a pivotal moment. Can ETH reclaim this level and spark a move toward $3,000, or will sellers push it back below key support?Golden Pocket B\u2026"
     },
     {
+      "headline": "Ethereum treasury FG Nexus, once eager to raise up to $5 billion, sells over 10,000 ETH to fund share buybacks",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMDNtS1h1QVhTTTAyQTBNbS1jNmNiN2xfSHB3N2ZJWldEenBZT2pLTmVIRnREZGIyMEphWnNZcFQ3ZEsyY1BGcmozS3IwZlIzT2xKSlUzYVNBN201V1Y5Zm9YdkFBZHBLX25KVklFSmRCNWZVSmNwRmwxRG03ZzNWZFU3Z01qTWdfdk5lSGc1cWxBVU9idnhJSHQ2TkNqc03SAaQBQVVfeXFMTjdybmk4WmYybVRyU09uQjdvdUFEeHJPaUkwWDlxS085UjdMVkprNVdJa3VvLWR3NDFjMFRVUTVwVG83ZUFZdDF2enoxVHBTZ2pTMFp6d2VfZ3FHd3NjbVkzWDAxbURRaGlmU3VseWNmbjI3ckdHM200VVhXeEFCNGI5ZG1WaHZGMWdZei14S3pVREdFU05WZHI5S3FxUDVPRVJSMW4?oc=5",
+      "pub_date": 1763652236.0,
+      "article_url": "https://www.theblock.co/post/379721/ethereum-treasury-fg-nexus-sells-10000-eth-fund-share-buybacks",
+      "image": "https://www.tbstat.com/wp/uploads/2025/06/ethereum-eth-work-news-1200x675.jpg",
+      "description": "In August, FG Nexus filed paperwork with the SEC so it could potentially raise as much as $5 billion to buy Ethereum."
+    },
+    {
       "headline": "Bitcoin, Ethereum and XRP Dive as Rate Cut Hopes Fade, Liquidations Near $1 Billion",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
@@ -103,8 +93,18 @@
       "article_url": "https://coinpaper.com/12560/whale-buys-and-fusaka-upgrade-send-ethereum-surging-into-focus",
       "image": "https://res.coinpaper.com/coinpaper/image/upload/v1763896583/cp6225_Ethereum_coin_overlaid_with_a_holographic_inverse_head_a_1003f009_c900_426f_987b_5669dfc9afd1_7eaeb7ff2a.png",
       "description": "Ethereum sees BitMine whale buy, Fusaka upgrade schedule and key support bounce as charts outline possible post-upgrade upside."
+    },
+    {
+      "headline": "Adding DeFi to your 401k: How BlackRock\u2019s staked Ethereum ETF rewires access to ETH rewards",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLXdWLWZjbVo3MVF6TmlINXF2X055ZjFXQXcxd0NPa2JVdGkxQi1MVVZKNngya2x5VTJ1UGQxSlhEOC1ob19qX3VvVXZ6N2FPSk1RSjVTLVZzZlk0Q2NrS0RIdFRCYnZaOUdYUkVLMnR5VVk5OHZ5cmhDeXRxU1N1SUNIRXJhUkJ3RVpuS3pVY3FEc09PeVNaXzhDLXlpT3lWSXotdzZtQmFsSE9NeFB3Mm1R?oc=5",
+      "pub_date": 1763739900.0,
+      "article_url": "https://cryptoslate.com/adding-defi-to-your-401k-how-blackrocks-staked-ethereum-etf-rewires-access-to-eth-yield/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2025/11/ethereum-etf-filing.jpg",
+      "description": "A filing would kick off a new front in the ETH ETF war: pricing, staking access, and custody all in play."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T23:18:05.575514+00:00"
+  "fetched_at": "2025-11-23T23:55:43.917920+00:00"
 }
