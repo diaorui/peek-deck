@@ -1,0 +1,40 @@
+# Robotics monitoring dashboard
+category: tech
+id: robotics
+name: Robotics
+description: Robotics research and industry news
+icon: "🤖"
+enabled: true
+
+# Visual theme
+theme:
+  primary_color: "#E74C3C"      # Robotics red
+  background: "#1a1a1a"         # Dark mode
+  text_color: "#ffffff"
+  card_background: "#2d2d2d"
+  border_radius: "8px"
+
+widgets:
+  - type: reddit-posts
+    size: full
+    update_minutes: 30
+    params:
+      subreddit: robotics
+      limit: 10
+
+  - type: google-news
+    size: full
+    update_minutes: 30
+    params:
+      query: robotics
+      limit: 10
+
+  - type: youtube-videos
+    size: full
+    update_minutes: 120
+    params:
+      query: robotics
+      limit: 10
+      order: relevance
+      days: 7
+      relevance_language: en
