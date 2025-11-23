@@ -61,20 +61,6 @@
       "site_name": "astralcodexten.com"
     },
     {
-      "title": "Students fight back over course taught by AI",
-      "url": "https://www.theguardian.com/education/2025/nov/20/university-of-staffordshire-course-taught-in-large-part-by-ai-artificial-intelligence",
-      "hn_url": "https://news.ycombinator.com/item?id=45992304",
-      "author": "level87",
-      "points": 123,
-      "num_comments": 137,
-      "created_at": "2025-11-20T13:24:48Z",
-      "object_id": "45992304",
-      "image": "https://i.guim.co.uk/img/media/f23651dfc08a834b824c6c473f38f5309978d49c/585_554_4908_3926/master/4908.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91b862d381f872390745261a8c4db498",
-      "description": "Staffordshire students say signs material was AI-generated included suspicious file names and rogue voiceover accent",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "site_name": "the Guardian"
-    },
-    {
       "title": "Gmail can read your emails and attachments to train its AI, unless you opt out",
       "url": "https://www.malwarebytes.com/blog/news/2025/11/gmail-is-reading-your-emails-and-attachments-to-train-its-ai-unless-you-turn-it-off",
       "hn_url": "https://news.ycombinator.com/item?id=45998531",
@@ -93,7 +79,7 @@
       "url": "https://arxiv.org/abs/2509.01063",
       "hn_url": "https://news.ycombinator.com/item?id=46020096",
       "author": "nerder92",
-      "points": 71,
+      "points": 73,
       "num_comments": 49,
       "created_at": "2025-11-23T02:08:00Z",
       "object_id": "46020096",
@@ -107,8 +93,8 @@
       "url": "https://vibescaffold.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=46018229",
       "author": "straydusk",
-      "points": 54,
-      "num_comments": 31,
+      "points": 55,
+      "num_comments": 32,
       "created_at": "2025-11-22T21:02:34Z",
       "object_id": "46018229",
       "image": null,
@@ -135,7 +121,7 @@
       "url": "https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/",
       "hn_url": "https://news.ycombinator.com/item?id=46013463",
       "author": "cheshire_cat",
-      "points": 48,
+      "points": 49,
       "num_comments": 31,
       "created_at": "2025-11-22T09:39:11Z",
       "object_id": "46013463",
@@ -143,9 +129,23 @@
       "description": "Google\u2019s AI infrastructure chief tells staff it needs thousandfold capacity increase in 5 years.",
       "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
       "site_name": "Ars Technica"
+    },
+    {
+      "title": "Microsoft AI CEO Puzzled by People Being Unimpressed by AI",
+      "url": "https://80.lv/articles/microsoft-ai-ceo-puzzled-by-people-being-unimpressed-by-ai",
+      "hn_url": "https://news.ycombinator.com/item?id=46001727",
+      "author": "gehwartzen",
+      "points": 43,
+      "num_comments": 1,
+      "created_at": "2025-11-21T06:16:58Z",
+      "object_id": "46001727",
+      "image": "https://cdn.80.lv/api/upload/meta/45433/images/691ec33857eb7/contain_1200x630.jpg",
+      "description": "Mustafa Suleyman had his mind blown by the community's negative reaction to Microsoft's \"agentic OS\" comments.",
+      "favicon": "https://cdn.80.lv/static/images/favicons/80lv/apple-touch-icon.png",
+      "site_name": "80.lv"
     }
   ],
-  "total_hits": 423,
+  "total_hits": 421,
   "has_metadata": true,
-  "fetched_at": "2025-11-23T13:11:34.001605+00:00"
+  "fetched_at": "2025-11-23T13:44:19.490523+00:00"
 }
