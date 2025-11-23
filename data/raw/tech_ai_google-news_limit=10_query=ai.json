@@ -45,11 +45,41 @@
       "description": "This week, volatility took hold of the AI trade as bubble fears continued and Nvidia\u2019s blowout earnings failed to steady the market. Deirdre Bosa has the story."
     },
     {
+      "headline": "Nvidia CEO says the company is in a no-win situation amid AI-bubble chatter, leaked meeting reveals",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSmdXTEwwSTlSVktYNENIYXlXQVRwMl9FOUs3VmNsWWZablgtVUxFbk9mUjlVQ0U3bHpkR0RkUnlFclJQZ0JVM1ZlYnhRMXVZX1Qwdy16NkJCMUZ0cDNLdUJ1cnpXWnJqQVRseUd3SWpxQXdoNmllMjJkSFBVY2ZIdUtLaHlpWVBMLVRGVzVEZzlpQnh4ekZkYU5kMDNxc1oyNllRZ3k2MWdfdURqMEdjbUV3QVdLZkZfWG1XWFNVMWRldw?oc=5",
+      "pub_date": 1763763960.0,
+      "article_url": "https://fortune.com/2025/11/21/nvidia-ceo-jensen-huang-q3-earnings-beat-no-win-situation-ai-bubble-fears-nvda-stock-selloff/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2174947979-e1763747436953.jpg?resize=1200,600",
+      "description": "\u201cThe market did not appreciate our incredible quarter,\u201d Huang said."
+    },
+    {
+      "headline": "AI rivals like OpenAI, Nvidia, and Oracle are collaborating to build \u2018Stargate\u2019\u2014but a Yale expert says it violates 135 years of antitrust law",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdUFsNXBKczBrNDlfM29xcUw4QXJZOFFmaTNOOUxoR2tZa05xRFQ2VlR5c25mWVg3VU9LRmZ4VURHSUx5NFZCZVQtQWM4Z2FNLU5uWE1uYWV6VkhlYWFzY3BLU2UxZzlMV09ZR1RMMU5vTHFPRzlxVXYzX1Ixd0lZMzk2WFZYZU1EWV9YR0JScVlFTVFtaTAwdDNnbE84aXZ3SFdfbDdQdEluSzBieEVqREE1WFZMN1JNQ1d1UlFsWjZ0YUd6X0xiYmM3VEZwUFVrSXUzT29yNDVCSHl0UTBSY2hybG1xejd1S3ZFdnVJV20zSXZQVXlOZXhJeF9BZw?oc=5",
+      "pub_date": 1763888400.0,
+      "article_url": "https://fortune.com/2025/11/23/ai-rivals-like-openai-nvidia-and-oracle-are-collaborating-to-build-stargate-but-a-yale-expert-says-it-violates-135-years-of-antitrust-law/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236546815.jpg?resize=1200,600",
+      "description": "Six AI leaders are uniting to form a single company. How is this possibly legal, asks Madhavi Singh of Yale\u2019s Thurman Arnold Project, an initiative dedicated to antitrust issues."
+    },
+    {
+      "headline": "Does Yann LeCun\u2019s Departure and Rising AI Spend Shift the Bull Case for Meta Platforms (META)?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjVqbEVjc0JQd2J1V2FiZUx4S0pkTUtFRGdUMVZBRVlyQ3FJQ2k0MmxsOEUzYTZzX1loRWdObDdHRzk5WVB6Z0I4RG5saEpPdHItV3lhUTJxNGNib0czY0dTZVdFZTVYU1B2UzF2YmFxREhtdUE4TnBzRWZvQWVYNjk4WW8?oc=5",
+      "pub_date": 1763889181.0,
+      "article_url": "https://finance.yahoo.com/news/does-yann-lecun-departure-rising-091301797.html",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/fba9687e0054b528b01bdfa6c56cd20c",
+      "description": "In November 2025, Meta Platforms announced that Yann LeCun, its Vice President & Chief AI Scientist and founder of Facebook AI Research, will depart at the end of the year to launch a new AI startup, marking the exit of a central figure in Meta\u2019s artificial intelligence efforts over the last decade. LeCun\u2019s departure comes as Meta intensifies its AI infrastructure investments and faces heightened scrutiny over capital allocation and leadership stability during a significant technological..."
+    },
+    {
       "headline": "Insurers retreat from AI cover as risk of multibillion-dollar claims mounts",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyS2s1T09kQ2x3Qnk2LUxxdWZkMndmY3FXeXBzUEYwaE13VVpPNmE4cGUtbE02VktocjhobjA5dG1kMjJFRHIxN1NheExYU014N01DWG9LSm1qSGlLeW5abU14bkdqanMtTUJwNmdqM08?oc=5",
-      "pub_date": 1763874004.0,
+      "pub_date": 1763874033.0,
       "article_url": "https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9bc84743-630a-483b-ac2f-1c210c3e7c1d.jpg?source=next-barrier-page",
       "description": "AIG, Great American and WR Berkley seek permission to limit liability from AI agents and chatbots"
@@ -68,43 +98,13 @@
       "headline": "These two \u2018Magnificent Seven\u2019 stocks could be the strongest survivors of an AI apocalypse",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOc3dEd3B3VnVSTlpDRGJ1NV9faFlXWnBrYzJQYUZPOUZSRnFTcTZqSTEwcldmWXpZVHJNc3BwMTRHZ1lRZUJPVVpJTXNGUHFnWG1OcUxBbWozNGRpdVhORl9INFBEcnlJTVBwdC0xNVlwVU5mOGJEY0h1eEVUem83UDNPbHJibHZiZ2oyN1hGMnZGTXRRSmRsMDE5T1h3RWEzb0NCaUoybmxqa1dWUjZCM0xWOWE1LTQ1QnVYMGJWTkRicHp0NDVXekU3VkdGRDl2SEVLS3dpbXZ0Z1haTnp2bjNvQnpHdko4a0hDcTVYNTZMQk1YcUwzWno2YTNNeUl6ZGJJNUxRSTAwMUZtLWRvNWprWlJWYmxFbjVQVXgyTW9aakItMmpDamNQQXFRdURXN2ZYcnQ5VmVwLWU4T1BsLUc3TkdiLVFzSzBHNHVWSTBOd3l3Z05GS1RHWmVpeUNMT0VzTXBOT2dhOHo1SmdodG9mbjZFS21FamZDeE9OSW9QOFBIMnNZS2tOdldKVlc0d3hpdEdXM3NycS1UZE4zN2RjRGJrMU5rYm45c2dDTDBRZkZvZHdBTlJMZ3MyekM2R3BVR0JmbE1LTlNSZEJn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQTW1FVEVWV0ZMNGpySE54VGxSU0hhbm90OURzcGxnX2o0VEx0TUh5N3FWeWdBMjdiOGhCWWltN1p5STN4ZE1VMnhUWGVIWnpjb3FGWWRkbWpZemRtbzg4SXMtejNpX2RFT01IR1phTm9KYmwwbFk3VGFOMjNvc3R4M0drY3FxdW9EcjdfdGx4a3piN3lPZFZ4V1d5bXJ4UncxSkpDbi1vd0hlSVpCSGpWbWZyaU1sRzg5NHJRZEJ3cjJTVXRiOGNCTGgwQktOa25LT1ctdWk0cURaTEVCZWo4SXdMb3MxQUNJZ29iVXFzUzJyX2FkVjRiOGJCNlFVUnVFbWZkOExmVmpmSHVzTURtNjRqLWdDNzRpREZlR1pzSGZxT0xfN25tQmFXdVRHeFByLVB3R2FsZHNlSU1RTnQ5dUdGbVhaRjRhb2tFT3dYTEhSMWxYYmhSSUhmeGlRZU45NGppN0JaUHlFdk9zZGRVTW91T054VkZvZXJwaEZPN2RqRm1GcFR0bVNVejE4anZJbjhBWTRWQTl2NlBvOXFZWDVzYzgzbEc2RFRPNGVQNmdSejV1TGtYbGpjbDlRbWRMc3c3ejN1Mk84Z3FmT0h3?oc=5",
       "pub_date": 1763814600.0,
-      "article_url": "https://www.marketwatch.com/story/these-two-magnificent-seven-stocks-could-be-the-strongest-survivors-of-an-ai-apocalypse-d7169fad?gaa_at=eafs&gaa_n=AWEtsqfA4eZep3VmilGrQsj88k4gLm54_Kw-5P50RaXtxfoH3oDLjIMB39IR&gaa_ts=6922d443&gaa_sig=IPjhzjP791qJaKaxYcO9_wRjvNcTndSfVkN-2a84Zk_y8zEG0C5PWVFN4nH-Adv-eO-fLTXFPm_zppkepdSRTA%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/these-two-magnificent-seven-stocks-could-be-the-strongest-survivors-of-an-ai-apocalypse-d7169fad?gaa_at=eafs&gaa_n=AWEtsqf5I1EpRi6aiQ6hKV4qVyT9D0zKCgE-9WKAIUZMdGPXC7_NHLPX3IEV&gaa_ts=6922dd86&gaa_sig=zEIF1bYGsH6eHK8xly7z3NPd7eZsBL35NYXqIFX9Cu-F0-ywKB_7y_8vexTKt-6cEXiqWBNeStXXdIC5A7A0TA%3D%3D",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "2 Artificial Intelligence (AI) Stocks You Can Buy and Hold for the Next Decade",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNczI1UDNBU01venA1ZUlSamNreEwxRXNKOHFWSFhpUE1yT0lobk5ISGZ6ckVNcGJMbjhyZUF0X0NNbjJsMFpZUFlLMExyOUJ6OE9tTUllYndkV28wUkxsNmc4a3VDTElQbVdXSlRkOE9XLWJublVpeU1TbnMwTVlDYXRGcGtHeUs3?oc=5",
-      "pub_date": 1763859960.0,
-      "article_url": "https://finance.yahoo.com/news/2-artificial-intelligence-ai-stocks-010600649.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ka2xyssCSrfY6M6_bwHaGA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/242e07a9db27f3e282685a81c6ce8658",
-      "description": "The past 10 years have been kind to these two tech leaders. Things could look much the same through the next decade."
-    },
-    {
-      "headline": "Week 12 NFL picks, top predictions, best bets today from self-learning AI",
-      "source": "CBS Sports",
-      "source_url": "https://www.cbssports.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRTVhRVkxOWtPX0xZMWNUU2V3YjJFbkZ3aC15VGlkbmxYZDdqT2RsZFVZa0NDM215VnM3eWFHN0FpTjJtWG9WN2xfZ0RYSEpNRDJteU93cUE1U29fdXJXcFFfWHo0WUd3cVBoTXlxR3BwbnRCSUt5ZEZ1MEEwd05IN1pHZmdMV1V1MGZJdVl6Ylh5V1FxZk9selRwX25OT1p2?oc=5",
-      "pub_date": 1763852446.0,
-      "article_url": "https://www.cbssports.com/nfl/news/nfl-week-12-ai-picks-score-predictions-best-football-bets-today/",
-      "image": "https://sportshub.cbsistatic.com/i/r/2025/11/22/e8d8ebb7-58a7-40b6-aa3f-88da841702e2/thumbnail/1200x675/265800803dc38bc38519c2f6938c1a5b/sam-darnold-seattle-seahawks-imagn.jpg",
-      "description": "SportsLine's self-learning AI reveals picks for every Week 12 NFL game"
-    },
-    {
-      "headline": "Introducing Nano Banana Pro",
-      "source": "The Keyword",
-      "source_url": "https://blog.google",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81eFc0WmRGVnBjc2RqT0RkT3EycWQtTW1McUxmZFQzLXZDZG5pbUdCdm9FTi1QR21mS0VraUlldmMxNFFmZ2hxZEtwcUJIMy1Tc3dyUWlRT0EtNjFQS3o4?oc=5",
-      "pub_date": 1763651223.0,
-      "article_url": "https://blog.google/technology/ai/nano-banana-pro/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nanobananaprohero.width-1300.png",
-      "description": "Nano Banana Pro is our new image generation and editing model from Google DeepMind."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T09:16:03.520161+00:00"
+  "fetched_at": "2025-11-23T09:55:39.325101+00:00"
 }

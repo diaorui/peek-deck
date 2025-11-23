@@ -38,7 +38,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46008628",
       "author": "speckx",
       "points": 156,
-      "num_comments": 202,
+      "num_comments": 203,
       "created_at": "2025-11-21T20:30:51Z",
       "object_id": "46008628",
       "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9jcmF6eXN0dXBpZHRlY2guY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI1XC8wNFwvY3Jhenl0ZWNoLWltZy5wbmc_Zml0PTQ4MSUyQzQ4MSZzc2w9MSIsInR4dCI6IkNyYXp5IFN0dXBpZCBUZWNoIiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjI0MzM2MTkzNn0.9lzL2TvsryD6L8fyfB4-srIOrhLEmGjTHgDDKUS3w7oMQ",
@@ -93,8 +93,8 @@
       "url": "https://arxiv.org/abs/2509.01063",
       "hn_url": "https://news.ycombinator.com/item?id=46020096",
       "author": "nerder92",
-      "points": 60,
-      "num_comments": 34,
+      "points": 68,
+      "num_comments": 40,
       "created_at": "2025-11-23T02:08:00Z",
       "object_id": "46020096",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -136,7 +136,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46013463",
       "author": "cheshire_cat",
       "points": 47,
-      "num_comments": 30,
+      "num_comments": 31,
       "created_at": "2025-11-22T09:39:11Z",
       "object_id": "46013463",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/03/DLS_013-1152x648.jpg",
@@ -145,7 +145,7 @@
       "site_name": "Ars Technica"
     }
   ],
-  "total_hits": 425,
+  "total_hits": 423,
   "has_metadata": true,
-  "fetched_at": "2025-11-23T09:15:44.776642+00:00"
+  "fetched_at": "2025-11-23T09:55:14.959562+00:00"
 }
