@@ -5,24 +5,24 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Futures Due, Bitcoin Rises, But Wait For This",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2dHMUp5dGk1T1RsUHktUjZtQ1FoejVoVk1ZR3hESWVXaV9xYjBwVDRaRnJOU2poWXF6NHA0TmxLaS02b0FYX2dlMnYyTzBrS0dJOW40dldkM1NCUHlGU1M5ejhrckZoeXZ2cVFRN1QxODhkc3IteXVQMUNzZmp5b0pFRkNySVd2WnFaMVRTcFVheDN1dERQWlZnQm83NF9nLUlMaENFR21hemM?oc=5",
-      "pub_date": 1763915460.0,
-      "article_url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-bitcoin-nvidia-apple-eli-lilly/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Will Bitcoin Hit $250,000 by 2026? We Asked ChatGPT",
+      "headline": "Analyst warns Bitcoin could drop to $10K, as price crashes to $86K",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlVFZhOFdiOXlEajdiLTFKY0ZuMXpxUktkY05xNTN1WDFueUE3UlVvTnhoUnVwVHFIMWhBY1lyWURZMVVFOTRrTmJiNWZmTUx2TnJwSXJFNVgyWHRqMkQ4TlBkWVMzcFRuVmNVVGF2aWEwaTJpOVlRYWZn?oc=5",
-      "pub_date": 1763899335.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-hit-250-000-2026-120215854.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/SOTIffjRXMo2r1Dkdj.ZEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/910a345e33f11d761130412829966ac2",
-      "description": "Predictions of a $250,000 Bitcoin by 2026 have resurfaced. Critics argue the forecast is unrealistic. CCN asked ChatGPT and Grok for their outlooks. Predictions that ..."
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTVZrakZ4eFUteXF4ekNEX2JqMnUzMUNIUFJxQmRhM0ZPa0ZQczQ0b3BQbngwNFZhS1FMTlNGVWZiNFZGVHVEWlBsd1dsc0dKQmVTbzFKQUI1WjZtZmJvb1dVUmk3cTBkMDVCZVk0V3JxY294NjFvZjhBUHkzREgwU3Rsd2Y?oc=5",
+      "pub_date": 1763669507.0,
+      "article_url": "https://finance.yahoo.com/news/analyst-warns-bitcoin-could-drop-201147164.html",
+      "image": "https://media.zenfs.com/en/thestreet_881/7f2f2f6f1b5e3914e4795503f733a004",
+      "description": "Bitcoin extended its November slump on Nov. 20, briefly dipping below $88,000. According to CoinGecko data, Bitcoin traded around $87,319 intraday, down about 4% over the past 24 hours and nearly 13% on the week, after falling from highs above $103,000 just days ago. 'Big Short\u2019 Michael Burry ..."
+    },
+    {
+      "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeDZJQU1ZYmRrRGF4bEcwSE5lRkx3UHUtVllNOW42S21YWFRueUJNVkxjdUZ6ZFpVbGFfNWZJTFQzQkRIREY0bXFYOGJObG1DcVdEYU5VU1JHTk5XNWs3MExTZ0F2X0lScm5XTU1hWEluU09ndXVSLTEyWXNLZVgzVTRmRQ?oc=5",
+      "pub_date": 1763918100.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-vs-ethereum-more-likely-171500913.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/mL8QYt.1ZfmHOzQozBq1QQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/80e3e6dff18e3fdae3620ea8888e4a6e",
+      "description": "Bitcoin and Ethereum have impressive track records and sky-high future price targets."
     },
     {
       "headline": "VanEck CEO Concerned About Bitcoin's Encryption and Privacy, Says Firm Could Walk Away",
@@ -35,16 +35,6 @@
       "description": "VanEck CEO questions Bitcoin\u2019s encryption and privacy design as Zcash interest rises."
     },
     {
-      "headline": "Permabull Tom Lee Sees Bitcoin as High as $200,000 by January\u2019s End",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRzY4UzFMQUo2YXlpNVFRMHFZc2lFalZRSVl6aFVxeHNCb0RPVHFZTjBFUHluT2RUUkdENTZab0Jwa19KX1R5S3hfVHpfcVpDT3JYcExWeU10dXNHUDk5eU51ZEVwSXRKcGNodW03eVJpUFR2bVgzalJsYnN6UGk1WHRIdFhkUUo1NEtnaENCOU5NVDRqeGx3UkZBZmhNY2F1OVJrQk9iSm1lOGFUUDY3czVXbV9XSU5Y?oc=5",
-      "pub_date": 1763719241.0,
-      "article_url": "https://www.bloomberg.com/news/features/2025-11-21/permabull-tom-lee-sees-bitcoin-as-high-as-200-000-by-january-s-end",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilxbosN8wWeM/v0/1200x630.jpg",
-      "description": "The always optimistic co-founder of Fundstrat Global Advisors believes in the long-term power of retail investors."
-    },
-    {
       "headline": "Where Will Bitcoin Be in 1 Year?",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -55,24 +45,14 @@
       "description": "Uncertainty in the economy could cause Bitcoin's value to be choppy over the next year."
     },
     {
-      "headline": "Bitcoin ATM Firm Weighing $100 Million Sale Following Money Laundering Charges",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVlaWkd4T0Vjck5sZGZnZklPakNITEhsMnowb3JrUUVBOHpKWXVyMDdENVhEV3lqTUt4SG1XUVRGTk9feDRNQVBYenRZLXc2V2NqX3htLTVCaFVyRlNrNzNZSEstZWdWc0ctRjJobjFuZEluSXdVZ2VERGhiUGJDUW42dkxoVTk5NTUzbnMzT0FSZGgzRUcwMdIBoAFBVV95cUxPMS00VjN5anJaZTFvQndRazJRejdiVzRzaFdBUm9mVk8tNmswbjlJVDhjT1VTZ3J5dnplZ2o5WHp0UnB0ZWFocHo0eUxac2Q1eWFfY2FLZXNDVDVGSV9aaTZxMGhsekZFOG5xaHA1Tm02UFc5VkQ2MFJKa2RJanpKMld0X0xnNnF6T3RWT0Q1Wm1JWjk2djdMT2FjQVFQOGFD?oc=5",
-      "pub_date": 1763849073.0,
-      "article_url": "https://decrypt.co/349639/bitcoin-atm-firm-weighing-100-million-sale-money-laundering-charges",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-atm-decrypt-style-1-scaled-gID_7.jpg",
-      "description": "Crypto Dispensers says it\u2019s considering a $100 million sale, days after the firm and its founder were hit with money laundering charges."
-    },
-    {
-      "headline": "What Will Happen To Microstrategy If Bitcoin Falls Under $74,000?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0dvT2MtQTYwdlZxR2FTb21mczBZNVA5U1BiV2VfU19uY2FRcl9TcFZzNkZmS3FIMHd3RzVZT1VlUVdWc3h0WUw2c2hucDFYaHp4SDYtc1RENWhUTTRLTDZQal9pelZTNmxXQkpNS0thY3V2VjZZQWxoQ0JhZ0ozTHU4UFhRVldsLW9kVGRpSQ?oc=5",
-      "pub_date": 1763771400.0,
-      "article_url": "https://finance.yahoo.com/news/happen-microstrategy-bitcoin-falls-under-003044978.html",
-      "image": "https://media.zenfs.com/en/99bitcoins_us_315/d9953751802b03ef9d79099080893135",
-      "description": "MicroStrategy is still the biggest corporate holder of Bitcoin, sitting on roughly 649,870 BTC as of mid-November 2025. They bought all of this for around 48.37 billion dollars total, which puts their average cost at about 74,433 dollars per Bitcoin. With Bitcoin dipping under 80k, things are starting to look ..."
+      "headline": "Permabull Tom Lee Sees Bitcoin as High as $200,000 by January\u2019s End",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRzY4UzFMQUo2YXlpNVFRMHFZc2lFalZRSVl6aFVxeHNCb0RPVHFZTjBFUHluT2RUUkdENTZab0Jwa19KX1R5S3hfVHpfcVpDT3JYcExWeU10dXNHUDk5eU51ZEVwSXRKcGNodW03eVJpUFR2bVgzalJsYnN6UGk1WHRIdFhkUUo1NEtnaENCOU5NVDRqeGx3UkZBZmhNY2F1OVJrQk9iSm1lOGFUUDY3czVXbV9XSU5Y?oc=5",
+      "pub_date": 1763719241.0,
+      "article_url": "https://www.bloomberg.com/news/features/2025-11-21/permabull-tom-lee-sees-bitcoin-as-high-as-200-000-by-january-s-end",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilxbosN8wWeM/v0/1200x630.jpg",
+      "description": "The always optimistic co-founder of Fundstrat Global Advisors believes in the long-term power of retail investors."
     },
     {
       "headline": "MSTR Stock: Strategy May Have To Cough Up $1 Bil In 2027 As Bitcoin Slides",
@@ -85,6 +65,16 @@
       "description": "MSTR stock sank further on Friday, raising risk that the big bitcoin buyer will have to pay $1 billion to bondholders in 2027."
     },
     {
+      "headline": "What Will Happen To Microstrategy If Bitcoin Falls Under $74,000?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0dvT2MtQTYwdlZxR2FTb21mczBZNVA5U1BiV2VfU19uY2FRcl9TcFZzNkZmS3FIMHd3RzVZT1VlUVdWc3h0WUw2c2hucDFYaHp4SDYtc1RENWhUTTRLTDZQal9pelZTNmxXQkpNS0thY3V2VjZZQWxoQ0JhZ0ozTHU4UFhRVldsLW9kVGRpSQ?oc=5",
+      "pub_date": 1763771400.0,
+      "article_url": "https://finance.yahoo.com/news/happen-microstrategy-bitcoin-falls-under-003044978.html",
+      "image": "https://media.zenfs.com/en/99bitcoins_us_315/d9953751802b03ef9d79099080893135",
+      "description": "MicroStrategy is still the biggest corporate holder of Bitcoin, sitting on roughly 649,870 BTC as of mid-November 2025. They bought all of this for around 48.37 billion dollars total, which puts their average cost at about 74,433 dollars per Bitcoin. With Bitcoin dipping under 80k, things are starting to look ..."
+    },
+    {
       "headline": "Saylor Reveals 4 Words That Define His Entire Bitcoin Strategy Right Now",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -93,6 +83,16 @@
       "article_url": "https://www.tradingview.com/news/u_today:c51830c29094b:0-saylor-reveals-4-words-that-define-his-entire-bitcoin-strategy-right-now/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "Michael Saylor picked four words to sum up his position as Bitcoin goes through one of the most brutal market crashes of the cycle: \"I Won't Back Down.\" It does not seem like another meme from the guy who turned a corporate treasury strategy into a unilateral Bitcoin bet, as the context makes the m\u2026"
+    },
+    {
+      "headline": "More Ready Than Bitcoin? How Zcash Developers Are Preparing for the Quantum Threat",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWFNsY05LQmlpWnp1dThkZjNIU3huLTdzS05RWGRQc2Fqd0NqSDBLajhINTZXTmlNTF83WVhTTmJBR3JyYm00YjZWaEFVUlRwWFJXMGpZcHdDaUJRUVg2Rm1DWjVpbnRtYlJiQWZSNW9EcUlSRlRCNklHMkczRHBUbkxWcVVVMkJYeHoyLVZqN1YtZmYt0gGcAUFVX3lxTE5LUjdmUURaWlJTX2JHUHlVUjBGREkzcE1BVVQzOVNGNE16cjlLQWY0OWNTVXZXcG5FLWFmMThWV2JGbGhURUZzcU90a0U4UnV5LWowRUo1Y3Nac0UtWVVqeHdSbWhoZWJZbUdaSWpCM3RTTFR2aHJCZmk0SzczQXlNWTlibU4wWlVidVdLeVg1NUpWdFAyczkydU80Rw?oc=5",
+      "pub_date": 1763910062.0,
+      "article_url": "https://decrypt.co/349642/more-ready-bitcoin-how-zcash-developers-preparing-quantum-threat",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/zcash-gID_7.jpg",
+      "description": "Quantum computers could threaten much more than just Bitcoin, but developers behind the surging Zcash say they aren't panicking. Here's why."
     },
     {
       "headline": "Waterboarding, sexual assault, disguises: Details of terrifying $2M B.C. bitcoin hostage-taking revealed",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T17:21:57.503728+00:00"
+  "fetched_at": "2025-11-23T17:59:09.754627+00:00"
 }

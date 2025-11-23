@@ -25,6 +25,26 @@
       "description": "These two leading blockchains are very different in their ambitions."
     },
     {
+      "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeDZJQU1ZYmRrRGF4bEcwSE5lRkx3UHUtVllNOW42S21YWFRueUJNVkxjdUZ6ZFpVbGFfNWZJTFQzQkRIREY0bXFYOGJObG1DcVdEYU5VU1JHTk5XNWs3MExTZ0F2X0lScm5XTU1hWEluU09ndXVSLTEyWXNLZVgzVTRmRQ?oc=5",
+      "pub_date": 1763918100.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-vs-ethereum-more-likely-171500913.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/mL8QYt.1ZfmHOzQozBq1QQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/80e3e6dff18e3fdae3620ea8888e4a6e",
+      "description": "Bitcoin and Ethereum have impressive track records and sky-high future price targets."
+    },
+    {
+      "headline": "BitMine Ramps up Ethereum Buying With New $60 Million Purchase",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGtvMlQzTnJTUkFzRjhwdGF4VzVKQXlnVTA5TnNEd0hBLThMVTRJcFZWMHZUY0RGRWhIRVJuSUpIMHRPVFI5U3lVZEgwSk9iOEpwYVRmRzRaMVBwQmE2dm0yeXJXTm1zWG9qcEY0V1dTM1dFOEFUU1NUbWM2OEZRYWJPc1k?oc=5",
+      "pub_date": 1763916342.0,
+      "article_url": "https://finance.yahoo.com/news/bitmine-ramps-ethereum-buying-60-164542812.html",
+      "image": "https://media.zenfs.com/en/beincrypto_us_662/5d587a545397e26a7c563d359f21a93d",
+      "description": "BitMine has continued to accumulate large amounts of Ethereum, adding $60 million worth of ETH despite the market downturn."
+    },
+    {
       "headline": "\ud83d\udea8 BREAKING: SWIFT Chooses Ethereum Layer-2 #Linea Over XRP for 2025 Cross-Border Payment Pilot In",
       "source": "Binance",
       "source_url": "https://www.binance.com",
@@ -33,26 +53,6 @@
       "article_url": "https://www.binance.com/en/square/post/32731404517313",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "BitMine Shares Tumble After Earnings as Ethereum Price Falls, Treasury Hype Fades",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVZuQ0t5ZjN2cTRwYkpKNU8wU192U2djc0lSZVhPdmYzYTZ2N0tRREpKbXktS3NTSm5ZYURlS0ZkYnlyVGt5aFlQTlI2UWJsQnhBN3JBTEp1ei1FSWJ0YVl0LTAzUXdUcjFZYzYwcGhqN1d5NDRVQlFEZ3JvUndheW9NSTVJaFlRZ0xoZ01B?oc=5",
-      "pub_date": 1763743276.0,
-      "article_url": "https://finance.yahoo.com/news/bitmine-shares-tumble-earnings-ethereum-164116338.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/1lr32EBn0RgV4TnQuzC0XA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/decrypt_157/5201a6b2bb2edb9ec8114206f138c99c",
-      "description": "The company is valued at a discount to its Ethereum holdings"
-    },
-    {
-      "headline": "BitMine Immersion Stock's Momentum: What You Should Know About Tom Lee's Ethereum Treasury Company As Q4 Results Near",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQU8xZ1ozb1M2QXdRUDY4NWlLSUV1Q1VBYTdBYWo1cThNYTNHMjJ5Zm84VVluODN1MFVtT3NidFdEeWFLOFc5UzJDM1p6cVFZNjRiYlRLOEpTRkMxQjJIeDRBS3FCYjVvODFNOHVjcmlaSDdGc3FHcTJjVG41akRhNW0zSDZyVFZnSnFOWQ?oc=5",
-      "pub_date": 1763688660.0,
-      "article_url": "https://finance.yahoo.com/news/bitmine-immersion-stocks-momentum-know-013116557.html",
-      "image": "https://media.zenfs.com/en/benzinga_79/1c8400dc0219c76d323900d82b35e3c6",
-      "description": "Blockchain technology company BitMine Immersion Technologies Inc. (NYSE:BMNR) is set to report the results of the fourth quarter and full year ending Aug. 31 before the opening bell on Friday. Here\u2019s what investors should focus on before the ..."
     },
     {
       "headline": "Ethereum (ETH) News: Tom Lee's BMNR Sitting on Major Losses",
@@ -75,36 +75,36 @@
       "description": "Ethereum cofounder Vitalik Buterin has warned elliptic curve cryptography could break before the next U.S. presidential election in 2028..."
     },
     {
-      "headline": "Bitcoin, Ethereum and XRP Dive as Rate Cut Hopes Fade, Liquidations Near $1 Billion",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMExsdzkwWmRvR19sM3ZZX2h2aDVyRzNUNHI0ZHhIc2YxWm5BakMwUmFwc2ZlbXdxbjZxbXVnNDRJX1B1WHFpOXpSazFjZWRmRV9EdGxBR3VLeXpmMTU2eVplZkVldEtIUGFkaGtyNnFtZnZDZ2lKLVZ0VmY4a0JCTmlnMUxkbk0yeWU3NUlMWENnVDdKMi04YnliRTA2M2ZK0gGoAUFVX3lxTE5Fb09KdktpZF9iRHhZRThKdC1SSmo4eFhoOENPMjdPQkZxZGZPeDZ5ZU1GX2N5S1IxdUlWa2kyX2VfZG1nNkh5RmZXc2drMVlEVDZRYmRxakxNRm5ZODh5TkducUNob2FUREE1UFpzYVMzN3NJNFRPdWIwVkRWcUJFdnJVTXRUMUJnZ0JvTm94VWd0UzdSWnFQLWIzMVRqYjI1ZlNKWnkyZQ?oc=5",
-      "pub_date": 1763660480.0,
-      "article_url": "https://decrypt.co/349404/bitcoin-ethereum-xrp-dive-rate-cut-hopes-fade-liquidations-near-1-billion",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
-      "description": "Bitcoin is being battered again Thursday, falling below the $87,000 mark for the first time in seven months as liquidations top $900 million."
+      "headline": "Why Ethereum Is Moving Lower Today",
+      "source": "Nasdaq",
+      "source_url": "https://www.nasdaq.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FNzhsTkduRXVjLXBIdk8zUUsxX3RMTk42cHpKcUJMRUpxTndMWG82V0NIU0JtY2ZmeFVEbEJVQ2NEV1VBUXVERzJSQnJqQ0FNOURLaXgxUzdQakpxa3hZbFlVb0dSeHlVVXZPNTJWc3Y?oc=5",
+      "pub_date": 1763765400.0,
+      "article_url": "https://www.nasdaq.com/articles/why-ethereum-moving-lower-today",
+      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+      "description": "Key PointsDespite news that the Federal Reserve may opt for more rate cuts -- a move that typically boosts crypto prices -- the market is still falling."
     },
     {
-      "headline": "Ethereum treasury FG Nexus, once eager to raise up to $5 billion, sells over 10,000 ETH to fund share buybacks",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMDNtS1h1QVhTTTAyQTBNbS1jNmNiN2xfSHB3N2ZJWldEenBZT2pLTmVIRnREZGIyMEphWnNZcFQ3ZEsyY1BGcmozS3IwZlIzT2xKSlUzYVNBN201V1Y5Zm9YdkFBZHBLX25KVklFSmRCNWZVSmNwRmwxRG03ZzNWZFU3Z01qTWdfdk5lSGc1cWxBVU9idnhJSHQ2TkNqc03SAaQBQVVfeXFMTjdybmk4WmYybVRyU09uQjdvdUFEeHJPaUkwWDlxS085UjdMVkprNVdJa3VvLWR3NDFjMFRVUTVwVG83ZUFZdDF2enoxVHBTZ2pTMFp6d2VfZ3FHd3NjbVkzWDAxbURRaGlmU3VseWNmbjI3ckdHM200VVhXeEFCNGI5ZG1WaHZGMWdZei14S3pVREdFU05WZHI5S3FxUDVPRVJSMW4?oc=5",
-      "pub_date": 1763652236.0,
-      "article_url": "https://www.theblock.co/post/379721/ethereum-treasury-fg-nexus-sells-10000-eth-fund-share-buybacks",
-      "image": "https://www.tbstat.com/wp/uploads/2025/06/ethereum-eth-work-news-1200x675.jpg",
-      "description": "In August, FG Nexus filed paperwork with the SEC so it could potentially raise as much as $5 billion to buy Ethereum."
+      "headline": "Ethereum Price Prediction After $3K Lost: What Happens to ETH DATs Now Paper Gains Are Gone?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSFpVWVVCekJBTlFYQnJ6MWRqOE11Vzdsa1dteWVORVBXZEZvVUtVWV9TWThSVnJyeVpwVFN0bVd4ZVlFQ21EWngtSHlrZkNYc3dQMFRXOTRGTUxGY3VlNzgxR0RpMy1NdEthWnFMZWRfME5fZDVHLUhpOFlqMnd3TUItZlgxdw?oc=5",
+      "pub_date": 1763734887.0,
+      "article_url": "https://finance.yahoo.com/news/ethereum-price-prediction-3k-lost-142127146.html",
+      "image": "https://media.zenfs.com/en/99bitcoins_us_315/90b9379ca275f641ad3d0a68c4eb585c",
+      "description": "The Ethereum price is down a further -9% in the past 24 hours, dropping to around $2,700, a level not seen since mid July, 2025, marking a four-month low for the second-largest digital asset by market cap. Technical indicators and institutional demand are leaning bearish, which could see ETH slip ..."
     },
     {
-      "headline": "Whale Buys and Fusaka Upgrade Send Ethereum Surging Into Focus",
-      "source": "Coinpaper",
-      "source_url": "https://coinpaper.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObktZX3kzbXR5cVdqN3VNa0x3SXVQU2xESlJFcHYzSU8tSWVQcWY3ak1HWlNNanVsU1FLQzE3Nk1GazVUVldqWjJCaGo3c1JyZmFvWVVhaHdCNi1yYzVNWmF2YjFsWFF5REtVQU51am9rVlFJc1NaUTVzeHhZcFN2cFNrR1RQUzI3OVpvNThPVVZKaU52?oc=5",
-      "pub_date": 1763896853.0,
-      "article_url": "https://coinpaper.com/12560/whale-buys-and-fusaka-upgrade-send-ethereum-surging-into-focus",
-      "image": "https://res.coinpaper.com/coinpaper/image/upload/v1763896583/cp6225_Ethereum_coin_overlaid_with_a_holographic_inverse_head_a_1003f009_c900_426f_987b_5669dfc9afd1_7eaeb7ff2a.png",
-      "description": "Ethereum sees BitMine whale buy, Fusaka upgrade schedule and key support bounce as charts outline possible post-upgrade upside."
+      "headline": "On-Chain Metric Tips Ethereum To Form Price Bottom Below $2,000 \u2013 Here\u2019s Why",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPek8yeEdRZzNPVVFkMVFlZDRZc09FUEVCczhkRGk4bmFfUS1ybFdMaldtbUJHUVNrcEpnZjU5SmpnZDNPOEJBLXYyX0VRVThhMzdqZ19PeVludklXalphUVl0N0dVeW9nVXlsTVZOaHVNWVRPQnU2NFV1cUpMeUhjRUhIZzNYTmlRS3I4S3hKanY3OU5VZXB5RFM2aDBRdUt2aG1qTWQzT01FNTBQVkhkRXV3Wk1lX2ZuTnlIZFBnRGxyN2NnUlhoaUNNQQ?oc=5",
+      "pub_date": 1763906417.0,
+      "article_url": "https://www.tradingview.com/news/newsbtc:67e1666b9094b:0-on-chain-metric-tips-ethereum-to-form-price-bottom-below-2-000-here-s-why/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ethereum has been a major victim of the ongoing crypto market onslaught, recording a 27.63% loss in the last month alone. The largest altcoin now trades around $2,800, representing a significant fall from the local cycle peak around $4,800. As prices continue to tumble with each new drop triggering\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T17:21:57.112551+00:00"
+  "fetched_at": "2025-11-23T17:59:14.900294+00:00"
 }
