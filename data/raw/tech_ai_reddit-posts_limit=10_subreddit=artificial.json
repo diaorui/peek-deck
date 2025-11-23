@@ -35,17 +35,6 @@
       "description": "economist and author David McWilliams told Fortune that AI hardware investments are \"digital lettuce\" that are going to go \"off.\""
     },
     {
-      "title": "Joining Valve's Gabe Newell at the altar of AI, Ubisoft CEO Yves Guillemot says the controversial tech will be \"as big a revolution for our industry as the shift to 3D\" | Ubisoft is using generative AI \"in all our studios and offices\"",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4r8pw/joining_valves_gabe_newell_at_the_altar_of_ai/",
-      "published": 1763915947.0,
-      "thumbnail": "https://external-preview.redd.it/5_A94-15O0p-SaPCdBynUN2m383De8A0Ih69-6vz8d4.jpeg?width=640&crop=smart&auto=webp&s=07f7b835a0e8169929510933e4051a2ee5ea80c0",
-      "external_url": "https://www.gamesradar.com/games/joining-valves-gabe-newell-at-the-altar-of-ai-ubisoft-ceo-says-the-controversial-tech-will-be-as-big-a-revolution-for-our-industry-as-the-shift-to-3d/",
-      "site_name": "GamesRadar+",
-      "favicon": "https://vanilla.futurecdn.net/gamesradar/1477279/apple-touch-icon.png",
-      "description": "Ubisoft is using generative AI \"in all our studios and offices\""
-    },
-    {
       "title": "Anthropic Study Finds AI Model \u2018Turned Evil\u2019 After Hacking Its Own Training",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1p4oxil/anthropic_study_finds_ai_model_turned_evil_after/",
@@ -55,6 +44,17 @@
       "site_name": "TIME",
       "favicon": "https://time.com/favicon/apple-touch-icon.png",
       "description": "In a new paper, Anthropic reveals that a model trained like Claude began acting \u201cevil\u201d after learning to hack its own tests."
+    },
+    {
+      "title": "Joining Valve's Gabe Newell at the altar of AI, Ubisoft CEO Yves Guillemot says the controversial tech will be \"as big a revolution for our industry as the shift to 3D\" | Ubisoft is using generative AI \"in all our studios and offices\"",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1p4r8pw/joining_valves_gabe_newell_at_the_altar_of_ai/",
+      "published": 1763915947.0,
+      "thumbnail": "https://external-preview.redd.it/5_A94-15O0p-SaPCdBynUN2m383De8A0Ih69-6vz8d4.jpeg?width=640&crop=smart&auto=webp&s=07f7b835a0e8169929510933e4051a2ee5ea80c0",
+      "external_url": "https://www.gamesradar.com/games/joining-valves-gabe-newell-at-the-altar-of-ai-ubisoft-ceo-says-the-controversial-tech-will-be-as-big-a-revolution-for-our-industry-as-the-shift-to-3d/",
+      "site_name": "GamesRadar+",
+      "favicon": "https://vanilla.futurecdn.net/gamesradar/1477279/apple-touch-icon.png",
+      "description": "Ubisoft is using generative AI \"in all our studios and offices\""
     },
     {
       "title": "Nanobanana vs Nanobanana Pro",
@@ -112,5 +112,5 @@
       "description": "Sharp critiques of efforts to limit state AI laws have MAGA populists and progressive advocates joining forces in an unexpected coalition."
     }
   ],
-  "fetched_at": "2025-11-23T19:50:04.150906+00:00"
+  "fetched_at": "2025-11-23T20:33:04.838318+00:00"
 }

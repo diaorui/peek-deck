@@ -15,16 +15,6 @@
       "description": "Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there's a bubble that will soon pop."
     },
     {
-      "headline": "The A.I. Boom Has Found Another Gear. Why Can\u2019t People Shake Their Worries?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNWE0MUtaUVMzaG1md1oxX1dkcmNjSTdaQjZxYWxaMHhPSXRhM0RKeXlZSjh1WUNyTnFXdURRaDFOcFdrS2pEbE9FbDQ4ZE96QVVZd2lLRktTUFJnNUFOb3E5aTVqMDlrYnc0VXNjYml0M2ktckZmSjVhbw?oc=5",
-      "pub_date": 1763674602.0,
-      "article_url": "https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "AI bubble",
       "source": "LAist",
       "source_url": "https://laist.com",
@@ -33,6 +23,16 @@
       "article_url": "https://laist.com/brief/news/heres-why-concerns-about-an-ai-bubble-are-bigger-than-ever",
       "image": "https://scpr.brightspotcdn.com/dims4/default/ef8e00d/2147483647/strip/true/crop/6570x3449+0+465/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F1c%2F8fb36bab4460ad7d24569abf921a%2Fgettyimages-2192213324.jpg",
       "description": "The next big thing? Or money pit?"
+    },
+    {
+      "headline": "The A.I. Boom Has Found Another Gear. Why Can\u2019t People Shake Their Worries?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNWE0MUtaUVMzaG1md1oxX1dkcmNjSTdaQjZxYWxaMHhPSXRhM0RKeXlZSjh1WUNyTnFXdURRaDFOcFdrS2pEbE9FbDQ4ZE96QVVZd2lLRktTUFJnNUFOb3E5aTVqMDlrYnc0VXNjYml0M2ktckZmSjVhbw?oc=5",
+      "pub_date": 1763674602.0,
+      "article_url": "https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "The surprising issue driving a wedge between Trump and his MAGA base",
@@ -45,14 +45,14 @@
       "description": null
     },
     {
-      "headline": "Trump Administration Ponders Allowing Nvidia To Trade H200 AI Chips With China",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMmxtTzhYYlFrVjlVVVNZM0pEdG5PZDRPNTNNN0ZwTmJ6eDA5UnZ3a3dyeFUxSzJFbUVLN1JwRnZMX0ZFWWhqRGhGU25TUUtOUnliSy1JWjhiNS1NNUJvOXVYU1NGbUo0b1R5ekE3VGh1ZFZuMFFpWjBaM3dHT1FNNVdhRzI3TTJzYWFBRjJKcnhsOTgz?oc=5",
-      "pub_date": 1763923904.0,
-      "article_url": "https://finance.yahoo.com/news/trump-administration-ponders-allowing-nvidia-185144514.html",
-      "image": "https://media.zenfs.com/en/Benzinga/5d2d005b5cd443085ab91f2d5d3a0699",
-      "description": "President Donald Trump\u2019s administration is reportedly contemplating the possibility of permitting Nvidia Corp. (NASDAQ:NVDA) to trade its H200 artificial intelligence chips with China. What Happened: According to a report, the Trump administration\u2019s internal discussions indicate a significant deviation from its previous stance on semiconductor export controls. However, this potential move remains a subject of debate, with no final decision taken as of yet. The ongoing discussions are being perce"
+      "headline": "Google's new AI model puts OpenAI, the great conundrum of this market, on shakier ground",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbnRDbjlhalU2S1VMa3lKR21sblBZUlM1c2pBUG5JN2d5UDc4ZnpXSWdaMmROSzllVXY0cDhyaUM1ZlZHN24wUnNpaXl4MWtoVXJtekE1Y3hfMFRQN0VEcHlYTzlDcjV6b1lsMmx5elNLOXoxRl9RSmdCY3Zpb0VWMWRmUGZyZmt3R2NBRnZpbGJRMlUyOEItWkdBVDl3djZuR1NhdnFvd2VoWkNEYWtOQTRNUHlTN0NYNUE?oc=5",
+      "pub_date": 1763925955.0,
+      "article_url": "https://www.cnbc.com/2025/11/23/cramer-googles-gemini-puts-openai-on-shakier-ground-with-big-market-implications-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108222498-1762449245023-gettyimages-2236546488-STARGATE_DATA_CENTER.jpeg?v=1763922866&w=1920&h=1080",
+      "description": "In his Sunday column for Investing Club subscribers, CNBC's Jim Cramer writes about OpenAI and the state of the AI race."
     },
     {
       "headline": "Michael Burry Takes On Nvidia And The AI Boom, Here's Why People Are Loving It",
@@ -65,46 +65,46 @@
       "description": "Michael Burry, famous for his accurate prediction of the mid-2000s US housing bubble burst, has once again stirred the pot in the financial world. This time, his bet against Nvidia and his criticism of AI companies have made him a hot topic on social media. What Happened: Burry\u2019s recent actions may have played a role in last week\u2019s stock market dip. The investor, notorious for his ominous crash and recession predictions, recently made a comeback on social media after a two-year break, issuing se"
     },
     {
-      "headline": "Microsoft faces uphill climb to turn enterprise dominance into widespread AI chatbot adoption",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjY1RTJDVTcxaVpKY1hwOVNvLUgtV1VCQ3gyMFNMNnFUWk1TalB1UTBGcm5Nc21pUUdpVW9BYmYxcmNlV1JYa2sxa2F1b01HUnQ4UllycG9kdm5SbkY4OWhtTkV6LU5KMHN5RDFBQ1Z6LWRJY1ROcU9EMFB6b2NPY2ZjNlZCZEpqalZIZDNhTlFPcjluZVRTMFZpOGNfR1haSnfSAacBQVVfeXFMTjczUmZFNmVxS2dIbkhmV2ozMGw0X1VPb1A1YXREb2hkazI4ZDRzbG1wd3BZeGdfZnNRTGYwVWZwanI3M2M0Rm5Ya0NLRmJnOUtTRW5ScGNvQ0JpMi1tMTUwY0VIMzhkeHdkRm13ak1EZ2dBTUlBVEdEX2pMVEZlYldrSVdhczZiRUhPTUpkb1ZVcmRNRmthcDdXYWgtTDIxLVdhTHBubjQ?oc=5",
-      "pub_date": 1763902801.0,
-      "article_url": "https://www.cnbc.com/2025/11/23/microsoft-faces-uphill-climb-to-win-in-ai-chatbots-with-copilot.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108166076-1751325646064-gettyimages-2150286124-AFP_34QG9T9.jpeg?v=1763774719&w=1920&h=1080",
-      "description": "At Microsoft's annual Ignite conference this week, IT buyers explained why Microsoft isn't seeing runaway success with its Copilot AI assistant."
-    },
-    {
-      "headline": "What OpenAI Did When ChatGPT Users Lost Touch With Reality",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWXhGZHpJdklQSHFMaE9KLXJXYnBCUHU5djVDVGQ0NFUzUDY1bDZ5b3diTDRBdXFmWmxjRHlDRDZTR3hqd3ZvWTdFMFdNZ3BHeDZpWTNnaTRKbEowc0F3dUhReTduakE1cjRHd0dDU09vZVhsQk9LSTd4MnZWZDFveGg4TQ?oc=5",
-      "pub_date": 1763903543.0,
-      "article_url": "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "You Can Run IBM's AI Chatbot Locally In Your Web Browser - Here's How",
-      "source": "bgr.com",
-      "source_url": "https://www.bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZWZqN0RvZzhmeVRBSXl1eUF6d1NiTzJ6TXZCUTNSMW1CekhwTGhJZG5CcDJHblpqa25Kal9xc09jOHhTdGpzdlBaTV9EU251NzIzRksxLUZhUUFmU1R6UEJtMklJaHhCN1hFcVJfeE13NXI2V2JxbVBYdFZGWVd0c2dsc1N2VnlSb0ZVbGFrQWlDbzQ0NmN0WnFrQQ?oc=5",
-      "pub_date": 1763842620.0,
-      "article_url": "https://www.bgr.com/2032147/how-to-run-ibm-ai-chatbot-granite-4-nano-locally-web-browser-guide/",
-      "image": "https://www.bgr.com/img/gallery/you-can-run-ibms-ai-chatbot-locally-in-your-web-browser-heres-how/l-intro-1763576678.jpg",
-      "description": "IBM's Granite 4.0 Nano AI chatbot can be run from a local browser. Make sure it's up to date and meets the program requirements, download the chatbot, and run."
+      "headline": "Fei-Fei Li, the 'Godmother of AI' whose startup is now valued at north of $1 billion, got her start as a dry cleaner",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUtkOGgxb1JpNHhsbHpfQTJtZEVxbHZkSjJKX3d5NTdxWXlwWGdkZ2wwTHNTcWtDYnFCOEd3UlBnMWZWMHp1WDRCUmJXcHliU2tJYW1Wcy11S1k5d0h3ZEpycnF2WHU3Wmt2THo2SFRvYmZzSV83M054cGZLbHY2OXJkbkpveS1XSl9rdHBhaVFqZjV3NDhDVTROLVA?oc=5",
+      "pub_date": 1763927820.0,
+      "article_url": "https://www.businessinsider.com/fei-fei-li-world-labs-ai-childhood-immigrant-dry-cleaner-2025-11",
+      "image": "https://i.insider.com/692210ddabd5e944effb5060?width=1200&format=jpeg",
+      "description": "Fei-Fei Li says her immigrant experience helped shape her approach to AI research."
     },
     {
       "headline": "Opinion | The First Large-Scale Cyberattack by AI",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOUE5MWG80ak5LVzY1Ykk4T2RQTXlEQmlmLTc2VE5fVHplUVJVRmhQQi1Pd0lYeGZTSVd6U1dUVWs2cHgxN3o3UUlMeGJUTUpiRHdjUzgyYUhFdTJtbzI5c0luNl9uUC1tUmVYcXBkVHZhWnRfcDhTWHExZF9TWkhrbzluUUZTXy1odFkwU2RPUWMwdVZtNFd2alY2Y2hmMXViUUs1VVhpOWlyS0M0ZFhxUGpucnNZS3l4TkhlOHJlSWc2SjVMaFk1bTFwMkMwdnBOaEtqVUhfaGtPMUg1TDV4REE4QXlrZVh3S01pcjhOWl9TMXJKR1R6TDc0Tm1qblEtb29nMHgwaDR3RzlJYUp2cEU0cmtTY0JtVFVaajAwYmthUmd0VGlfc3FWaE9VcDduaktic3dvRUR0bWZqMDc2bFZvWDVvWENmN0IxUEY2a25mTnI1SXJ5VTdCMkhnN3dpZ3JHamx1Y19TZ0xXTnBoSlRUMUwwdU9Nb2c1X1ZBRnIxNlZNZi0w?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOQW13ek5vRF90S0wxbTJBZmNsUTZKVzd2TDh1amcxcVdJUGE2NjJZaENJa0VmNE5WMVVYbjhGc2dFT3BlRXFJZFRrNXlOVElYOHd2WmpCbGFVb2l0elVRQjdObWFqZlJUQnVETl82UUdub2NsVHNEb3JqZ3Q0Zkh6bnFoQVJkbkl5N3BLbWFsQ0pINk5vYnA3ZzZITzQ0QjJVWnhZRGlpT1F6c2ttdjJpTlZId2MtYTFzbHFQeXJMYzg2UUdTUk94WFBhbVN3X2o0R3BnVmxfQVZTY1RwNVJmUmgxOGxRMkN6dmRJQUd1YWxySHNZbTFWYW5PLUE1SkFPNDhGLVBtU1R1YXdXOE5sUGhGa1BLVmJiR2VlYnJqbVI2VG9zNmVXQkpPSDdxSVBGemxya0RVMmIxUjNJOWEzcE1zcG5kcEhyY3RFQ3ppem1qWGREbEN5RXh5ZURpdEpsTlpaUFJHTHM0MTM0RU1YVXZIWjFqVmdPeXZtTDRrQTRkUDkwT01v?oc=5",
       "pub_date": 1763917380.0,
-      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqfTr1rmhk3G7r2Nphpa53BJLxOAp8ame6RDj-beR0qoesvnd7D4HuQE&gaa_ts=692368ed&gaa_sig=chkM6l4Vtlnlt8htzJumHs9AWsBUURqBR1vWV9jgPRyK64S95SLmTpPBAGzqkrRq-xqXg1Ra1Q-V9DTcxj2psw%3D%3D",
+      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqc0xtPp90M-w4VxMW0mxEfQ_c9MuQeCMdEId-FAeZUPmvCE_W7-s-7q&gaa_ts=69237303&gaa_sig=KHIYW1j1lPG74B0MXnr7mCFFm7dF8O-eq3XpUT7NyiZIJIrLmsxgGmrkU_Ki1GQFRJdQkiaGoErU1uSpXNk9nQ%3D%3D",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "AI rivals like OpenAI, Nvidia, and Oracle are collaborating to build \u2018Stargate\u2019\u2014but a Yale expert says it violates 135 years of antitrust law",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdUFsNXBKczBrNDlfM29xcUw4QXJZOFFmaTNOOUxoR2tZa05xRFQ2VlR5c25mWVg3VU9LRmZ4VURHSUx5NFZCZVQtQWM4Z2FNLU5uWE1uYWV6VkhlYWFzY3BLU2UxZzlMV09ZR1RMMU5vTHFPRzlxVXYzX1Ixd0lZMzk2WFZYZU1EWV9YR0JScVlFTVFtaTAwdDNnbE84aXZ3SFdfbDdQdEluSzBieEVqREE1WFZMN1JNQ1d1UlFsWjZ0YUd6X0xiYmM3VEZwUFVrSXUzT29yNDVCSHl0UTBSY2hybG1xejd1S3ZFdnVJV20zSXZQVXlOZXhJeF9BZw?oc=5",
+      "pub_date": 1763888400.0,
+      "article_url": "https://fortune.com/2025/11/23/ai-rivals-like-openai-nvidia-and-oracle-are-collaborating-to-build-stargate-but-a-yale-expert-says-it-violates-135-years-of-antitrust-law/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236546815.jpg?resize=1200,600",
+      "description": "Six AI leaders are uniting to form a single company. How is this possibly legal, asks Madhavi Singh of Yale\u2019s Thurman Arnold Project, an initiative dedicated to antitrust issues."
+    },
+    {
+      "headline": "Meet the AI workers who tell their friends and family to stay away from AI | Artificial intelligence (AI)",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZlZFQmRtc0RLZlBDaG1uR2p3Sk5CUVRlWVZJR1lXaW5iLUNqZkNrN0p6dUVvdjNnbU5vSjBRLTBHWi1Yd2JzYmZUSmJBdzYwRUJuRHNaQXFnTGRscWRYSkR4ZEx3QmVMbmZiS3ZTZ05VcGF5VjhtTnJLNjZPUlF0VnNlNXUtQzh4LTY4?oc=5",
+      "pub_date": 1763820000.0,
+      "article_url": "https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away",
+      "image": "https://i.guim.co.uk/img/media/2103be8be876262394e303cf374938ad30d7fcdc/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=508e507d9631c2cd6d0b1ca7040762e0",
+      "description": "When the people making AI seem trustworthy are the ones who trust it the least, it shows that incentives for speed are overtaking safety, experts say"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T19:50:23.338334+00:00"
+  "fetched_at": "2025-11-23T20:33:24.695054+00:00"
 }
