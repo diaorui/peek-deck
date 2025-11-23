@@ -65,16 +65,6 @@
       "description": "The move follows fellow ETH treasury ETHZilla selling $40 million of tokens to fund share buybacks."
     },
     {
-      "headline": "BlackRock deposits $348M in Bitcoin and $117M in Ethereum into Coinbase Prime",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaFo2TFlnaXNKYVZjajdJekctbExMNGV0UVlDSlF2dXVQMV92Znc4eVRjZnRIQWFHS25nS2pfUEgwRnB1d2REWWFHcDQ3XzlKTUhSdmpfUzNNbVp2d1Y1T0hxbVpid0lqWTdLVTdZaXNWNWM2RGx5cVVlTDE2dTFRNkJ5Y2p1aTlVb1o2R2ppUXlBRXJHMVlzUVdzX05PcWs1dTdZQnJkVUFPOU9IaU9BTkNsQjN0bTNld1VTbnhSSG0xbTVrQTdtajNyVVRyVFoyVjY0Q3J2NA?oc=5",
-      "pub_date": 1763728915.0,
-      "article_url": "https://www.tradingview.com/news/cryptobriefing:9e9597b94094b:0-blackrock-deposits-348m-in-bitcoin-and-117m-in-ethereum-into-coinbase-prime/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Today BlackRock, a leading global asset management firm, deposited $348 million in Bitcoin and $117 million in Ethereum into Coinbase Prime, an institutional crypto custody and trading platform.The transfers are part of BlackRock's ongoing portfolio management activities for its spot Bitcoin and Et\u2026"
-    },
-    {
       "headline": "Ethereum Price Prediction After $3K Lost: What Happens to ETH DATs Now Paper Gains Are Gone?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.nasdaq.com/articles/why-ethereum-moving-lower-today",
       "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
       "description": "Key PointsDespite news that the Federal Reserve may opt for more rate cuts -- a move that typically boosts crypto prices -- the market is still falling."
+    },
+    {
+      "headline": "Adding DeFi to your 401k: How BlackRock\u2019s staked Ethereum ETF rewires access to ETH rewards",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLXdWLWZjbVo3MVF6TmlINXF2X055ZjFXQXcxd0NPa2JVdGkxQi1MVVZKNngya2x5VTJ1UGQxSlhEOC1ob19qX3VvVXZ6N2FPSk1RSjVTLVZzZlk0Q2NrS0RIdFRCYnZaOUdYUkVLMnR5VVk5OHZ5cmhDeXRxU1N1SUNIRXJhUkJ3RVpuS3pVY3FEc09PeVNaXzhDLXlpT3lWSXotdzZtQmFsSE9NeFB3Mm1R?oc=5",
+      "pub_date": 1763739900.0,
+      "article_url": "https://cryptoslate.com/adding-defi-to-your-401k-how-blackrocks-staked-ethereum-etf-rewires-access-to-eth-yield/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2025/11/ethereum-etf-filing.jpg",
+      "description": "A filing would kick off a new front in the ETH ETF war: pricing, staking access, and custody all in play."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T11:22:34.434035+00:00"
+  "fetched_at": "2025-11-23T11:56:27.834603+00:00"
 }
