@@ -14,9 +14,6 @@ PROJECT_NAME = "PeekDeck"
 # Package name (Python import, lowercase with underscore)
 PACKAGE_NAME = "peek_deck"  # ✅ Renamed from fathom_deck
 
-# Repository/URL name (lowercase with hyphen)
-REPO_NAME = "fathom-deck"  # TODO: Will rename to peek-deck when renaming repository
-
 # Tagline
 PROJECT_TAGLINE = "A glance is all you need"
 
@@ -123,23 +120,6 @@ The Python package has been **successfully renamed** from `fathom_deck` to `peek
 python -m peek_deck fetch    # Instead of fathom_deck
 python -m peek_deck render
 ```
-
-## 📝 Future Repository Renaming
-
-When ready to rename the **GitHub repository**:
-
-### Repository Name (from `fathom-deck` to `peek-deck`)
-
-1. Update `project_config.py`:
-   ```python
-   REPO_NAME = "peek-deck"  # Remove TODO comment
-   ```
-
-2. Rename on GitHub:
-   - Go to Settings → Rename repository
-   - Update local remote: `git remote set-url origin https://github.com/USER/peek-deck.git`
-
-3. Update documentation references to new URL
 
 ## ✅ Verification Checklist
 

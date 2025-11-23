@@ -15,9 +15,6 @@ PROJECT_NAME = "PeekDeck"
 # Package name (Python import, lowercase with underscore)
 PACKAGE_NAME = "peek_deck"  # ✅ Renamed from fathom_deck
 
-# Repository/URL name (lowercase with hyphen)
-REPO_NAME = "fathom-deck"  # TODO: Will rename to peek-deck when renaming repository
-
 # Tagline
 PROJECT_TAGLINE = "A glance is all you need"
 
