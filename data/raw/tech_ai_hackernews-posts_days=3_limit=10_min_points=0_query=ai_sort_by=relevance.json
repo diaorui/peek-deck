@@ -38,7 +38,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46008628",
       "author": "speckx",
       "points": 156,
-      "num_comments": 205,
+      "num_comments": 207,
       "created_at": "2025-11-21T20:30:51Z",
       "object_id": "46008628",
       "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9jcmF6eXN0dXBpZHRlY2guY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI1XC8wNFwvY3Jhenl0ZWNoLWltZy5wbmc_Zml0PTQ4MSUyQzQ4MSZzc2w9MSIsInR4dCI6IkNyYXp5IFN0dXBpZCBUZWNoIiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjI0MzM2MTkzNn0.9lzL2TvsryD6L8fyfB4-srIOrhLEmGjTHgDDKUS3w7oMQ",
@@ -79,8 +79,8 @@
       "url": "https://arxiv.org/abs/2509.01063",
       "hn_url": "https://news.ycombinator.com/item?id=46020096",
       "author": "nerder92",
-      "points": 76,
-      "num_comments": 53,
+      "points": 78,
+      "num_comments": 55,
       "created_at": "2025-11-23T02:08:00Z",
       "object_id": "46020096",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -89,11 +89,25 @@
       "site_name": "arXiv.org"
     },
     {
+      "title": "73% of AI startups are just prompt engineering",
+      "url": "https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab0d3",
+      "hn_url": "https://news.ycombinator.com/item?id=46024644",
+      "author": "kllrnohj",
+      "points": 77,
+      "num_comments": 56,
+      "created_at": "2025-11-23T16:17:57Z",
+      "object_id": "46024644",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "pub.towardsai.net"
+    },
+    {
       "title": "Show HN: I built a wizard to turn ideas into AI coding agent-ready specs",
       "url": "https://vibescaffold.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=46018229",
       "author": "straydusk",
-      "points": 58,
+      "points": 59,
       "num_comments": 32,
       "created_at": "2025-11-22T21:02:34Z",
       "object_id": "46018229",
@@ -107,7 +121,7 @@
       "url": "https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/",
       "hn_url": "https://news.ycombinator.com/item?id=46013463",
       "author": "cheshire_cat",
-      "points": 50,
+      "points": 51,
       "num_comments": 35,
       "created_at": "2025-11-22T09:39:11Z",
       "object_id": "46013463",
@@ -129,23 +143,9 @@
       "description": "It\u2019s not just OpenAI that looks overhyped. There\u2019s a whole mountain of sketchy financial engineering underneath.",
       "favicon": "https://i0.wp.com/prospect.org/wp-content/uploads/2025/08/cropped-favicon.png?fit=180%2C180&quality=80&ssl=1",
       "site_name": "The American Prospect"
-    },
-    {
-      "title": "Terence Tao: At the Erdos problem website, AI assistance now becoming routine",
-      "url": "https://mathstodon.xyz/@tao/115591487350860999",
-      "hn_url": "https://news.ycombinator.com/item?id=46017972",
-      "author": "dwohnitmok",
-      "points": 44,
-      "num_comments": 7,
-      "created_at": "2025-11-22T20:27:41Z",
-      "object_id": "46017972",
-      "image": null,
-      "description": "Over at the Erdos problem website, AI assistance is now becoming routine.  Here is what happened recently regarding Erdos problem #367 https://www.erdosproblems.com/367 :\n\n1.  On Nov 20, Wouter van Doorn produced a (human-generated) disproof of the second part of this problem, contingent on a congruence identity that he thought was true, and was \"sure someoneone here is able to verify... does indeed hold\".\n\n2.  A few hours later, I posed this problem to Gemini Deepthink, which (after about ten minutes) produced a complete proof of the identity (and confirmed the entire argument): https://gemini.google.com/share/81a65aecfd70 .  The argument used some p-adic algebraic number theory which was overkill for this problem.  I then spent about half an hour converting the proof by hand into a more elementary proof, which I presented on the site.  I then remarked that the resulting proof should be within range of \"vibe formalizing\" in Lean.\n\n3.  Two days later, Boris Alexeev used the Aristotle tool from Harmonic to complete the Lean formalization, making sure to formalize the final statement by hand to guard against AI exploits.  This process took two to three hours, and the output can be found at https://borisalexeev.com/t/Erdos367.lean\n\nEDIT: after making this post, I decided to round things out by making AI literature searches on this problem, which (after about fifteen minutes) turned up some related literature on consecutive powerful numbers, but nothing directly relating to #367.  https://chatgpt.com/share/6921427d-9dc0-800e-b798-be8fc94a9240 https://gemini.google.com/share/0d296454bea0",
-      "favicon": "https://mathstodon.xyz/packs/assets/apple-touch-icon-57x57-BsPGHSez.png",
-      "site_name": "Mathstodon"
     }
   ],
-  "total_hits": 412,
+  "total_hits": 402,
   "has_metadata": true,
-  "fetched_at": "2025-11-23T16:28:30.406552+00:00"
+  "fetched_at": "2025-11-23T17:21:40.279758+00:00"
 }

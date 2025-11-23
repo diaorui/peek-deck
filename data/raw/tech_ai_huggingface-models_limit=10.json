@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/facebook/sam3.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1592839207516-noauth.png",
       "downloads": 65697,
-      "likes": 516,
+      "likes": 518,
       "pipeline_tag": "mask-generation",
       "num_parameters": "859.9M",
       "last_modified": "2025-11-20T22:05:08.000Z"
@@ -23,7 +23,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/tencent/HunyuanVideo-1.5.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png",
       "downloads": 955,
-      "likes": 501,
+      "likes": 502,
       "pipeline_tag": "text-to-video",
       "num_parameters": null,
       "last_modified": "2025-11-23T14:26:37.000Z"
@@ -37,7 +37,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Supertone/supertonic.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68ef1b2d04f0f03d81974536/XltzYlfCoWTzfqimzt5j7.png",
       "downloads": 1270,
-      "likes": 180,
+      "likes": 182,
       "pipeline_tag": "text-to-speech",
       "num_parameters": null,
       "last_modified": "2025-11-22T01:39:33.000Z"
@@ -65,7 +65,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/moonshotai/Kimi-K2-Thinking.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/641c1e77c3983aa9490f8121/X1yT2rsaIbR9cdYGEVu0X.jpeg",
       "downloads": 233218,
-      "likes": 1362,
+      "likes": 1363,
       "pipeline_tag": "text-generation",
       "num_parameters": null,
       "last_modified": "2025-11-08T07:48:46.000Z"
@@ -79,10 +79,24 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/facebook/sam-3d-objects.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1592839207516-noauth.png",
       "downloads": 0,
-      "likes": 138,
+      "likes": 139,
       "pipeline_tag": null,
       "num_parameters": null,
       "last_modified": "2025-11-21T12:08:20.000Z"
+    },
+    {
+      "id": "dx8152/Qwen-Edit-2509-Multi-Angle-Lighting",
+      "author": "dx8152",
+      "author_fullname": "wuli-DX",
+      "name": "Qwen-Edit-2509-Multi-Angle-Lighting",
+      "url": "https://huggingface.co/dx8152/Qwen-Edit-2509-Multi-Angle-Lighting",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/dx8152/Qwen-Edit-2509-Multi-Angle-Lighting.png",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64461e86ab86b035add67e41/eDoTkuWIHd4kXplY0ZfiM.jpeg",
+      "downloads": 2579,
+      "likes": 127,
+      "pipeline_tag": "image-to-image",
+      "num_parameters": null,
+      "last_modified": "2025-11-21T01:15:53.000Z"
     },
     {
       "id": "maya-research/maya1",
@@ -99,18 +113,18 @@
       "last_modified": "2025-11-12T00:53:50.000Z"
     },
     {
-      "id": "dx8152/Qwen-Edit-2509-Multi-Angle-Lighting",
-      "author": "dx8152",
-      "author_fullname": "wuli-DX",
-      "name": "Qwen-Edit-2509-Multi-Angle-Lighting",
-      "url": "https://huggingface.co/dx8152/Qwen-Edit-2509-Multi-Angle-Lighting",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/dx8152/Qwen-Edit-2509-Multi-Angle-Lighting.png",
-      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64461e86ab86b035add67e41/eDoTkuWIHd4kXplY0ZfiM.jpeg",
-      "downloads": 2579,
-      "likes": 126,
-      "pipeline_tag": "image-to-image",
+      "id": "eigen-ai-labs/eigen-banana-qwen-image-edit",
+      "author": "eigen-ai-labs",
+      "author_fullname": "Eigen AI",
+      "name": "eigen-banana-qwen-image-edit",
+      "url": "https://huggingface.co/eigen-ai-labs/eigen-banana-qwen-image-edit",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/eigen-ai-labs/eigen-banana-qwen-image-edit.png",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6514d59cf95f39fd02acd9dc/oELb680wyZPzGhhO-w1pG.png",
+      "downloads": 414,
+      "likes": 210,
+      "pipeline_tag": "text-to-image",
       "num_parameters": null,
-      "last_modified": "2025-11-21T01:15:53.000Z"
+      "last_modified": "2025-11-16T04:54:03.000Z"
     },
     {
       "id": "dx8152/Qwen-Edit-2509-Multiple-angles",
@@ -125,22 +139,8 @@
       "pipeline_tag": "image-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-12T09:16:16.000Z"
-    },
-    {
-      "id": "eigen-ai-labs/eigen-banana-qwen-image-edit",
-      "author": "eigen-ai-labs",
-      "author_fullname": "Eigen AI",
-      "name": "eigen-banana-qwen-image-edit",
-      "url": "https://huggingface.co/eigen-ai-labs/eigen-banana-qwen-image-edit",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/eigen-ai-labs/eigen-banana-qwen-image-edit.png",
-      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6514d59cf95f39fd02acd9dc/oELb680wyZPzGhhO-w1pG.png",
-      "downloads": 414,
-      "likes": 210,
-      "pipeline_tag": "text-to-image",
-      "num_parameters": null,
-      "last_modified": "2025-11-16T04:54:03.000Z"
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-11-23T16:28:29.977370+00:00"
+  "fetched_at": "2025-11-23T17:21:35.756093+00:00"
 }
