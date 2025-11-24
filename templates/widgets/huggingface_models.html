@@ -67,6 +67,19 @@
     color: #ff9d00;
 }
 
+/* AI-generated description (appears after author, similar to HuggingFace Papers) */
+.widget-huggingface-models .model-description {
+    font-size: 0.75rem;
+    color: #9ca3af;
+    line-height: 1.4;
+    margin-bottom: 10px;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;  /* Limit to 4 lines */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-width: 0;
+}
+
 /* Author line with avatar (second line) */
 .widget-huggingface-models .model-author-line {
     display: flex;
@@ -163,10 +176,15 @@
     font-weight: 500;
 }
 
-/* Mobile adjustments: no changes needed for model name (stays 1 line) */
+/* Mobile adjustments: more lines for better readability */
 @media (max-width: 768px) {
     .widget-huggingface-models .model-thumbnail {
         background-size: contain;
+    }
+
+    .widget-huggingface-models .model-description {
+        -webkit-line-clamp: 5;  /* More lines on mobile */
+        min-height: calc(0.75rem * 1.4 * 5);  /* Reserve space for 5 lines */
     }
 
     .widget-huggingface-models .model-tag {
@@ -218,6 +236,13 @@
                                 <a href="https://huggingface.co/{{ model.author }}" target="_blank" onclick="event.stopPropagation();">{{ model.author_fullname or model.author }}</a>
                             </div>
                         </div>
+
+                        <!-- AI-generated description (only shown if any model has descriptions) -->
+                        {% if has_descriptions %}
+                        <div class="model-description">
+                            {{ model.description or '' }}
+                        </div>
+                        {% endif %}
 
                         <!-- Metadata (tags, stats, time) -->
                         <div class="model-meta">
