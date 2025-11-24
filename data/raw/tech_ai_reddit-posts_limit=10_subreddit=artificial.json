@@ -35,17 +35,6 @@
       "description": "Ubisoft is using generative AI \"in all our studios and offices\""
     },
     {
-      "title": "Anyone here using AI as a coding partner?",
-      "author": "Doug24",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4ya9u/anyone_here_using_ai_as_a_coding_partner/",
-      "published": 1763932753.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I tried building a small Python project recently with AI help, and it made the whole thing way less intimidating. Now I\u2019m trying to figure out which AI coding assistant is actually worth sticking with. Claude is great at explaining concepts, GPT feels better at reasoning through tricky logic, and I\u2019ve seen Sweep AI pop up for people who want project-level help directly inside JetBrains instead of switching back and forth with chat. Which model or tool gave you the best balance between learning, accuracy, and speed? And do you feel like it improved your actual understanding of coding over time?"
-    },
-    {
       "title": "Anthropic Study Finds AI Model \u2018Turned Evil\u2019 After Hacking Its Own Training",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1p4oxil/anthropic_study_finds_ai_model_turned_evil_after/",
@@ -55,6 +44,17 @@
       "site_name": "TIME",
       "favicon": "https://time.com/favicon/apple-touch-icon.png",
       "description": "In a new paper, Anthropic reveals that a model trained like Claude began acting \u201cevil\u201d after learning to hack its own tests."
+    },
+    {
+      "title": "Anyone here using AI as a coding partner?",
+      "author": "Doug24",
+      "url": "https://www.reddit.com/r/artificial/comments/1p4ya9u/anyone_here_using_ai_as_a_coding_partner/",
+      "published": 1763932753.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I tried building a small Python project recently with AI help, and it made the whole thing way less intimidating. Now I\u2019m trying to figure out which AI coding assistant is actually worth sticking with. Claude is great at explaining concepts, GPT feels better at reasoning through tricky logic, and I\u2019ve seen Sweep AI pop up for people who want project-level help directly inside JetBrains instead of switching back and forth with chat. Which model or tool gave you the best balance between learning, accuracy, and speed? And do you feel like it improved your actual understanding of coding over time?"
     },
     {
       "title": "Top Economist Warns That AI Data Center Investments Are \"Digital Lettuce\" That's Already Starting to Wilt",
@@ -68,17 +68,6 @@
       "description": "economist and author David McWilliams told Fortune that AI hardware investments are \"digital lettuce\" that are going to go \"off.\""
     },
     {
-      "title": "Made with kling and grok - credit: ai am a jedi on YouTube",
-      "author": "ksvetlyo",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4n56f/made_with_kling_and_grok_credit_ai_am_a_jedi_on/",
-      "published": 1763905684.0,
-      "thumbnail": "https://external-preview.redd.it/dzRxZmEzZjRoMDNnMT7Tzy9t6c7XfA48A87ZMzxwhU7uj4ZeOCois4x4q6ZZ.png?width=640&crop=smart&auto=webp&s=dc9c85ea4e6f3b37e4b69e85eacee6db001193bb",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Elon Musk vs Star Wars Droids"
-    },
-    {
       "title": "Don\u2019t Expect AI To Disrupt Google\u2019s Monopoly on Search",
       "author": "bloomberg",
       "url": "https://www.reddit.com/r/artificial/comments/1p4t8q8/dont_expect_ai_to_disrupt_googles_monopoly_on/",
@@ -88,6 +77,17 @@
       "site_name": "bloomberg.com",
       "favicon": null,
       "description": "A judge said artificial intelligence would upend Google\u2019s dominance, but two new books argue that monopolies rarely fix themselves."
+    },
+    {
+      "title": "Made with kling and grok - credit: ai am a jedi on YouTube",
+      "author": "ksvetlyo",
+      "url": "https://www.reddit.com/r/artificial/comments/1p4n56f/made_with_kling_and_grok_credit_ai_am_a_jedi_on/",
+      "published": 1763905684.0,
+      "thumbnail": "https://external-preview.redd.it/dzRxZmEzZjRoMDNnMT7Tzy9t6c7XfA48A87ZMzxwhU7uj4ZeOCois4x4q6ZZ.png?width=640&crop=smart&auto=webp&s=dc9c85ea4e6f3b37e4b69e85eacee6db001193bb",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Elon Musk vs Star Wars Droids"
     },
     {
       "title": "Insurers retreat from AI cover as risk of multibillion-dollar claims mounts",
@@ -112,5 +112,5 @@
       "description": "I'd like to introduce you to some friends of mine. Some work in film. (Action required: Go to the movies in the theater) Some work in art. (Action required: Go to museums) Some work in the valley. (Action required: partner where you can) Some work magic. (Keep shining) Some score one goal in their whole life. (Captain #6) It's worth living & thriving. (Your roommate can be the best person you've ever met) Miss you, BaaBaa. (Vroom Vroom)"
     }
   ],
-  "fetched_at": "2025-11-24T01:35:38.673955+00:00"
+  "fetched_at": "2025-11-24T03:17:17.898380+00:00"
 }

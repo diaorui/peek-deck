@@ -65,7 +65,7 @@
       "url": "https://www.tomshardware.com/tech-industry/cryptomining/hobbyist-miner-using-a-single-6-ths-asic-mines-full-bitcoin-block",
       "hn_url": "https://news.ycombinator.com/item?id=46028449",
       "author": "pseudolus",
-      "points": 3,
+      "points": 4,
       "num_comments": 0,
       "created_at": "2025-11-23T23:29:08Z",
       "object_id": "46028449",
@@ -87,20 +87,6 @@
       "description": "A selloff in the world\u2019s largest technology companies drove stocks to their longest slide since August, underscoring the American market\u2019s narrow reliance on a handful of growth giants.",
       "favicon": "https://www.bloomberg.com/favicon-black.png",
       "site_name": "Bloomberg.com"
-    },
-    {
-      "title": "Americans are heating their homes with Bitcoin this winter",
-      "url": "https://www.cnbc.com/2025/11/16/bitcoin-crypto-mining-home-heating-energy-bills.html",
-      "hn_url": "https://news.ycombinator.com/item?id=45950321",
-      "author": "gslin",
-      "points": 3,
-      "num_comments": 0,
-      "created_at": "2025-11-17T02:19:14Z",
-      "object_id": "45950321",
-      "image": "https://image.cnbcfm.com/api/v1/image/108226545-1763296542682-bitcoinheating.jpg?v=1763296700&w=1920&h=1080",
-      "description": "Winter across the U.S. means big bills for home heating oil, gas and electric furnaces, but in some cases, crypto like bitcoin is paying to keep Americans warm.",
-      "favicon": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
-      "site_name": "CNBC"
     },
     {
       "title": "Bitcoin won't recover until there's a resolution to quantum elephant in the room",
@@ -143,9 +129,23 @@
       "description": "MicroStrategy Is Dependent On Refinancing Capacity, Not Bitcoin Price  MSTR won't have to sell Bitcoin if BTC price goes down, they'll have to sell Bitcoin if they're unable to acquire funding al...",
       "favicon": "https://illya.sh/favicon.ico",
       "site_name": "Illya's Thoughts"
+    },
+    {
+      "title": "Post-quantum vaults are live on Bitcoin Cash's Chipnet",
+      "url": "https://blog.bitjson.com/quantumroot-on-chipnet/",
+      "hn_url": "https://news.ycombinator.com/item?id=46015880",
+      "author": "hggh",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2025-11-22T16:24:28Z",
+      "object_id": "46015880",
+      "image": "https://blog.bitjson.com/content/images/size/w1200/2025/11/quantumroot-sweep-1.png",
+      "description": "Quantumroot vaults are now live on Bitcoin Cash's 6-months-ahead preview network. Contracts, testing suite, and transaction generation code now available.",
+      "favicon": "https://blog.bitjson.com/content/images/size/w256h256/2021/04/bitjson-bitauth-favicon-1.png",
+      "site_name": "bitjson's blog"
     }
   ],
-  "total_hits": 19,
+  "total_hits": 17,
   "has_metadata": true,
-  "fetched_at": "2025-11-24T01:35:39.780076+00:00"
+  "fetched_at": "2025-11-24T03:17:19.020794+00:00"
 }

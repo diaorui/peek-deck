@@ -13,17 +13,6 @@
       "description": "MagicLab website: https://www.magiclab.top/en From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1991895323246219551"
     },
     {
-      "title": "AI Robotics: What We Haven\u2019t Solved\u2026 Yet - New Podcast Episode",
-      "author": "marwaeldiwiny",
-      "url": "https://www.reddit.com/r/robotics/comments/1p4omza/ai_robotics_what_we_havent_solved_yet_new_podcast/",
-      "published": 1763909677.0,
-      "thumbnail": "https://external-preview.redd.it/ZjN4czhqYzNzMDNnMYXgxMMuYx4vai6r2mJi_BHAgiZEJjckW20es6HzzCMG.png?width=640&crop=smart&auto=webp&s=3fa5049f4928a1b1a0ba7d0776169ae2c520f9f6",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Full video: https://youtu.be/D_eXUkDf7UU?si=9JL-OhVQXgD1X8pv"
-    },
-    {
       "title": "Trying to look for the closed form analytical solution for this Amazon bought robotic arm",
       "author": "hisenberg-up",
       "url": "https://www.reddit.com/r/robotics/comments/1p511g9/trying_to_look_for_the_closed_form_analytical/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "It claims to be a 6DOF but it looks like it only has 5DOF. First image shows the assembled arm, and second shows the transforms diagram. We are trying to find closed form inv kinematics solution and looking to see if that's possible or we will need to try for a numerical approach instead? Any suggestions appreciated."
+    },
+    {
+      "title": "AI Robotics: What We Haven\u2019t Solved\u2026 Yet - New Podcast Episode",
+      "author": "marwaeldiwiny",
+      "url": "https://www.reddit.com/r/robotics/comments/1p4omza/ai_robotics_what_we_havent_solved_yet_new_podcast/",
+      "published": 1763909677.0,
+      "thumbnail": "https://external-preview.redd.it/ZjN4czhqYzNzMDNnMYXgxMMuYx4vai6r2mJi_BHAgiZEJjckW20es6HzzCMG.png?width=640&crop=smart&auto=webp&s=3fa5049f4928a1b1a0ba7d0776169ae2c520f9f6",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Full video: https://youtu.be/D_eXUkDf7UU?si=9JL-OhVQXgD1X8pv"
     },
     {
       "title": "How do I make my robot walk/balance dynamically? I don\u2019t know how to use simulations such as Isaac sim since im new to robotics.",
@@ -112,5 +112,5 @@
       "description": "im trying to power this brushless motor using a STEVAL-STSPIN3201using FOC sensorless control , I can not use Motor Profiler since the ST-link of the board is corrupted (I'm programming the main MCU with an External ST-link dongle). The BLCD motor as shown is only vibrating (seems like it want to rotate but it can't) What can be the problem? am i missing something"
     }
   ],
-  "fetched_at": "2025-11-24T01:35:43.057956+00:00"
+  "fetched_at": "2025-11-24T03:17:21.793159+00:00"
 }
