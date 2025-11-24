@@ -5,56 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "The surprising issue driving a wedge between Trump and his MAGA base",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlRWWm04U29yNXRCTVVuU2tfVXY4dzJsX2h6TV9NRTgtSE1WLUlnbEF2UnJITG9pa0NIMUhtUHFhalZZUTlGc0ltTzZOSWhTQ2ZDX0JRSlpTSzZ0UFB6Y3dSWXFWVGpTdHRwLXJYOV9La2QwdHJqWV9KRTVIOFlISHJYMzQ3VnF3?oc=5",
-      "pub_date": 1763921138.0,
-      "article_url": "https://www.washingtonpost.com/technology/2025/11/23/trump-maga-division-tech-ai/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Opinion | The First Large-Scale Cyberattack by AI",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPTHhyX3lraHYwdlY3dU5jM1RZYndTSWJjVENpamtOaW9qZllHN2hmaWh3STFQRWp2bXlCV1dURm5peGthVTBGeDdRN3c3dW56Wl9mWWs0UFRvdU9hNGVsdXdvMnVLeHlWUXA2Tk42Z29lNFNDcGFPLUx6V2ZybVpGQTFZcjVPaC1idlJhbmk4VnppcEE1TklWR1E2Ynd2dGtqSWxNd2lidURXOWhBRFVfbHJWSWk4bmdlcDB2VFdQNG1UWFNQM055bEo1b0R6M2RLRWtDQmdhNXJLMl9lcmpWY2xubjhQdWhnU3hvWnFhb0Qxa3BicnU0d21KVnp2T050ZFZ6djdfOWcxeDFzc1JzS09OeXExcFRfVVBWTkRrazdSU19OLWRjS3RVakpNaC1oc0FyQnB0OWV0UlBmU01lek1KUmF2NTZ2NWIwWkwwVzB2T2RqS3Jkc0RSSE5qTVBic3RlVExUYjdPeU1QUF9IR3FyU2pKMUlNQnRrZUdKbGRtb0dvUTNN?oc=5",
-      "pub_date": 1763917380.0,
-      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqeUr0PWzk5MubLzhETOA8tzkl9lkCfQ07GLXBBmj4pBPWeP3Mu9RVZy&gaa_ts=692419bd&gaa_sig=l3iLOOZ2meX1nX1KgFP1WGSHMdaoYwVPZTKBawyXQEdi5rDHFAWYPN7kJS77H6t_uR12lB9aD8xypauhnRDmyw%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "From two weeks to two hours: how AI might reboot Britain's economy",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNGdtdWhQam5MVlJKckxZbzFSanluSjBDcEdlVTFLSmtRdlBkM05ETUs2YVN0RHZjSHpwTF92andSN3YzNjhsMDI3STBOOXFPWGZZTjhvVzNWSGZJM0ZsWC1rT1ZGd3BOTS0xVlRJT0FBNmlGd0pVLWtpOU1rUnlUR3FmcDlhRlVCX1k2NW93NXRNM2tkYmxPLVF0Umh5Q1ZySHNN?oc=5",
-      "pub_date": 1763966220.0,
-      "article_url": "https://www.reuters.com/world/uk/two-weeks-two-hours-how-ai-might-reboot-britains-economy-2025-11-24/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "UAE: Abu Dhabi\u2019s Lunate Weighs $1 Billion Commitment to AI Firm MGX",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGtVVkFIcDB6M3d0dkNGbWFvRzVLNDhMSFh1dHlnVnZCM2h3NE5ja09XcTlseU5HdVprX0tVZUN6WlgwbzBidDJuYktXTzgycGEwaFdQbDl2czM4UUpGYWVxajN3VXp2UjVKblcxVHl4WWg3dTVZUUM2MGMwQk5pUUd0d2ZZbElWOEJ6QkpQcDROYnkxck55Z0QyLUcwdjRUOW1URmNsZ3ZUdUlJcDYyNlJ1NjlnN28?oc=5",
-      "pub_date": 1763967900.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-24/uae-abu-dhabi-s-lunate-weighs-1-billion-commitment-to-ai-firm-mgx",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Google Has Been an AI Winner. What to Do With Alphabet Stock Now.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPbW8yWm9qTVRuT21ZTlZFdy1zc0hpclAzUG96U1Y1b0xNMVkwMk9kTDRTY0ZVZ3I0R1E3TjRvaXdub0ltY29XX2syQ3dPU2RaelgyMG9TQWVXWXYya2gxQWJWaE5famhCYlNZcEM3a1NCbFZBYVNDQ0hGYTAtRDMycE56VFAzVHRDekllb1NaUEN4MG9kdXNwRGpMM0FVcTg4aU9iNXJpazdkSExLUXI3YmlGV21iNk5KZ0tJNWZ0M3Y4TzhwLW5CM1BsamxYTVJ3b2t4YjNVeW9TZGJDMlViT21scFZ0bnpnZGtXbWtUakpsek51TUZYa2tIZnJ4cmZSNDNHc3pjekY1VmlqMkJOSl9TOUI2TGFlZ3o1c0QxczlFWHhjX1psc1FQdHNCUlA2MDNEbEN1QnZpM2xKaGpwdWx2bE9FeU1xOGxyOW5laFEwb3h0Z2laSXBNNlhMc0gxTU5rVUxWX1cydFJEQjdOMjNOci1QT2tvYjJwS21RYzY?oc=5",
-      "pub_date": 1763964000.0,
-      "article_url": "https://www.barrons.com/articles/buy-alphabet-stock-price-pick-3e3f606d?gaa_at=eafs&gaa_n=AWEtsqcHQjzYSVoRn8Q2jUqVHgS3g2WbdqHfkv67OVaE-P-b6b7uGG7btJd6&gaa_ts=692419bd&gaa_sig=itmMdaZFK3zHo1r6HD4YUFD1R37Rtp9uEqMOIPwAltlzoSYKRzLYuhW5HPZUwIvM7Ak0yuE035tDEC3fpENXtw%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Nvidia didn\u2019t save the market. What\u2019s next for the AI trade?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -65,46 +15,96 @@
       "description": "The uncertainty was highlighted by the stock market\u2019s wild swing Thursday in the wake of Nvidia\u2019s earnings report."
     },
     {
-      "headline": "AI tokens are surging, but are profits?",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcjZ0Y3l0OUxMbTZ4ZG1UQldBa3djYURZQ3h3R2lvOE8wS3NQRV9JdU1hVnBVai0xY2QyX3RWNVU3ZlF2T0Y4RzNtOURBeWcyVXg4VDcyczZoRHc5eHFQLTZYYklfeFRNcXJhLXEzQ01HWU50MkpWbU81RTJBMmFXV25GTnkzWHdKMTZV?oc=5",
-      "pub_date": 1763916087.0,
-      "article_url": "https://www.economist.com/business/2025/11/23/ai-tokens-are-surging-but-are-profits",
+      "headline": "Why the once-invincible Nvidia can\u2019t save the AI trade",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQT1B0MHF5dzFqN3ZQd1BMaDVSTklzaVhmZ3EycFN1REhSYmd2Q3pZTVZzTC0xY2huZW9BQVQxcEtiY0FTaks2LUp1QTE2TlptNlRIblh5c0N5TGFKOVdYVEpSNlRScEhfenl0RWNSZ3RlZ3B5SUkxRXE5YmtuTGVHVXF0S1M2bDkxTm9aODVIMUdUcWNtZ3pxbkQySWoyYTcxVkJVOFhiZ1JCVFRLOGtEdUhkRVE3WFhDZExZakc1eXlRUmc3czh5SUg0cjktOXJnaTFqem1aWW1EdV9wX0htZnlPcnpIQ3h3cUZRSDRDRHZ1ZnZ1ZXcwMUdDTUVvSnJwOWlKYm1jdW9DVjJ3T1VzQTdwQkRQNk1GX29KNjFVT1ZxNEg3bDN4cFpQa0g4VFpQN0Y3N1R1YnJCRkc0ai1HbE10WjhEaVcxN3hLd0tqR1RobzQyZkZHVkFJa2hMQ1pIYjdoY2t5dHgtLUxLMzFydGJlUDVzQ3JhQWFPdEVILWV3ZGVaaGY4ek01QVFqanNhTGJjek5MbFJLMUdheXNncml3?oc=5",
+      "pub_date": 1763917260.0,
+      "article_url": "https://www.marketwatch.com/story/why-the-once-invincible-nvidia-cant-save-the-ai-trade-893d307a?gaa_at=eafs&gaa_n=AWEtsqdA6-h1T6e-Hc-SSZ6HINjAMUfmsr39aCzPRGdkPdPYzh9SNAbvhee8&gaa_ts=692425ba&gaa_sig=CQiI0RIl-v-BsXnm5B6cuH81F1nfYPq3X73mOJVgugQMP1iOA1qtur8ADPbvlPzHqiEzup7GaCGjcxW7StM_zg%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "AI rivals like OpenAI, Nvidia, and Oracle are collaborating to build \u2018Stargate\u2019\u2014but a Yale expert says it violates 135 years of antitrust law",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdUFsNXBKczBrNDlfM29xcUw4QXJZOFFmaTNOOUxoR2tZa05xRFQ2VlR5c25mWVg3VU9LRmZ4VURHSUx5NFZCZVQtQWM4Z2FNLU5uWE1uYWV6VkhlYWFzY3BLU2UxZzlMV09ZR1RMMU5vTHFPRzlxVXYzX1Ixd0lZMzk2WFZYZU1EWV9YR0JScVlFTVFtaTAwdDNnbE84aXZ3SFdfbDdQdEluSzBieEVqREE1WFZMN1JNQ1d1UlFsWjZ0YUd6X0xiYmM3VEZwUFVrSXUzT29yNDVCSHl0UTBSY2hybG1xejd1S3ZFdnVJV20zSXZQVXlOZXhJeF9BZw?oc=5",
-      "pub_date": 1763888400.0,
-      "article_url": "https://fortune.com/2025/11/23/ai-rivals-like-openai-nvidia-and-oracle-are-collaborating-to-build-stargate-but-a-yale-expert-says-it-violates-135-years-of-antitrust-law/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236546815.jpg?resize=1200,600",
-      "description": "Six AI leaders are uniting to form a single company. How is this possibly legal, asks Madhavi Singh of Yale\u2019s Thurman Arnold Project, an initiative dedicated to antitrust issues."
+      "headline": "'Big Short' investor Michael Burry launches a blog, takes aim at Nvidia and 'glorious folly' of AI",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWpVdHllNmR5dGYyR3pNZy1fX1JfMGJrSXpCVkdaWF9kU09jdzRxN29ERXBsWnZmdnJ4R2VObk92Ym8zeXFGdnZUdnFncFhXbVB5WVdEV1FCa2dBRUxva0JMTzQ3aEJnV2ZJXzA1NXhPTE5hc0tkWHVuYVREbkdhQ1lENW5WMEdJY19ubUxGYVFNMTBFYjRlSlpkaGQyMUdlRG1V?oc=5",
+      "pub_date": 1763973780.0,
+      "article_url": "https://www.businessinsider.com/big-short-michael-burry-substack-blog-nvidia-ai-dotcom-bubble-2025-11",
+      "image": "https://i.insider.com/69241a82e1a9cbb014decf2c?width=1200&format=jpeg",
+      "description": "Michael Burry of \"The Big Short\" fame just debuted a Substack blog that promises a \"front row seat\" to his famous predictions and analyses."
     },
     {
-      "headline": "AI risks deepening inequality, says head of world\u2019s largest SWF",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrMkVqQkh4bkE3UmVDZFlsMWpITW0wRWY0YkowVWNsWmVNd2o1bTBEQmQ2WVhkZGJCcjI1VGpMcXRBeDc0R1QzbjZ2Slh2ZlZELUdhdzdTWThZOG84ZWRqTWtLczRxWWd6Q2p2eDRlTjc?oc=5",
-      "pub_date": 1763895604.0,
-      "article_url": "https://www.ft.com/content/30c6cff1-a176-43f8-ab09-94212ba6d824",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb20ca843-87fa-438b-a4d9-d9af96d3276e.jpg?source=next-barrier-page",
-      "description": "Nicolai Tangen warns differing access to artificial intelligence has potential for \u2018splitting societies\u2019"
+      "headline": "The surprising issue driving a wedge between Trump and his MAGA base",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlRWWm04U29yNXRCTVVuU2tfVXY4dzJsX2h6TV9NRTgtSE1WLUlnbEF2UnJITG9pa0NIMUhtUHFhalZZUTlGc0ltTzZOSWhTQ2ZDX0JRSlpTSzZ0UFB6Y3dSWXFWVGpTdHRwLXJYOV9La2QwdHJqWV9KRTVIOFlISHJYMzQ3VnF3?oc=5",
+      "pub_date": 1763921138.0,
+      "article_url": "https://www.washingtonpost.com/technology/2025/11/23/trump-maga-division-tech-ai/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Microsoft faces uphill climb to turn enterprise dominance into widespread AI chatbot adoption",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMjY1RTJDVTcxaVpKY1hwOVNvLUgtV1VCQ3gyMFNMNnFUWk1TalB1UTBGcm5Nc21pUUdpVW9BYmYxcmNlV1JYa2sxa2F1b01HUnQ4UllycG9kdm5SbkY4OWhtTkV6LU5KMHN5RDFBQ1Z6LWRJY1ROcU9EMFB6b2NPY2ZjNlZCZEpqalZIZDNhTlFPcjluZVRTMFZpOGNfR1haSnfSAacBQVVfeXFMTjczUmZFNmVxS2dIbkhmV2ozMGw0X1VPb1A1YXREb2hkazI4ZDRzbG1wd3BZeGdfZnNRTGYwVWZwanI3M2M0Rm5Ya0NLRmJnOUtTRW5ScGNvQ0JpMi1tMTUwY0VIMzhkeHdkRm13ak1EZ2dBTUlBVEdEX2pMVEZlYldrSVdhczZiRUhPTUpkb1ZVcmRNRmthcDdXYWgtTDIxLVdhTHBubjQ?oc=5",
-      "pub_date": 1763902801.0,
-      "article_url": "https://www.cnbc.com/2025/11/23/microsoft-faces-uphill-climb-to-win-in-ai-chatbots-with-copilot.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108166076-1751325646064-gettyimages-2150286124-AFP_34QG9T9.jpeg?v=1763774719&w=1920&h=1080",
-      "description": "At Microsoft's annual Ignite conference this week, IT buyers explained why Microsoft isn't seeing runaway success with its Copilot AI assistant."
+      "headline": "The White House Risks Squandering Its Own AI Leadership",
+      "source": "War on the Rocks",
+      "source_url": "https://warontherocks.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNajVxd3hsVDZLSnlET1RUclhqSnhZaHlqSEpIcEVKRW1jdFAxSUlvNFdqUzN5MWZEUWFiX0JYTnE4Z2JuZUVuc2pfV2NZWlFSUEItY1NrTmV0RzZidHhyQVhGQjdKY0J1YmNSbENUeXFJM01PQ29aWndBZWd5dXFBeGxHQ0ZYS2V2VDUtYWhta1lKRjRp?oc=5",
+      "pub_date": 1763975099.0,
+      "article_url": "https://warontherocks.com/2025/11/the-white-house-risks-squandering-its-own-ai-leadership/",
+      "image": "https://warontherocks.com/wp-content/uploads/2025/11/P20250618MR-2000_President_Donald_Trump_Raises_New_American_Flag_on_South_Lawn_of_the_White_House-1.jpg?v=1763778700",
+      "description": "The White House is reportedly lobbying Congress to kill the GAIN AI Act. If accurate, this represents one of the more baffling policy reversals of the"
+    },
+    {
+      "headline": "White House pulls back on AI laws executive order",
+      "source": "Mashable",
+      "source_url": "https://mashable.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0MVViM0JteWZVWjBieVlRSXV4SGROQlo0RzFpeVZBY2djRWdyUXpjamhqN1V4OFYxdENpb0pTZWdMNW5oaEVEekxXS0Fna0VpektqaXNzcDlaNmh3LXFRUHp5S29TbWZWUXVCVnloU1ZBSGRoUzAzMnZUYmU?oc=5",
+      "pub_date": 1763956645.0,
+      "article_url": "https://mashable.com/article/white-house-donald-trump-ai-executive-order",
+      "image": "https://helios-i.mashable.com/imagery/articles/04LbJ7KabKpiWXfGj98yuIT/hero-image.fill.size_1200x675.v1763920444.jpg",
+      "description": "States can make their own AI laws, for now."
+    },
+    {
+      "headline": "New AI club will bestow nuclear-like power on the winners, Russia's top AI executive says",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUlBqWmdYbDBGUmR1d2N4eEktdTJUamFsRnNZYWhWWmZaUkd0c05MNE1sRjZhX015eTBzSVlyX0VyNF93SGRKVGJzNWtDZjd6NXZMWDUwY01OTWdRb29SZ0x0ZUVCZlR6VjlDZHBKSlZDcld2RjRLRnpFUVdhbDlUN2REWmVqMHlIb3dTeHVKb1FMWkg1anJ1QVdzT2ZUS01WTi1rV29UWDhvY0xCYnY0S2FfVXdZZU9nRXVXYm0tekhRRWVLaXNwQV9VdlRvdw?oc=5",
+      "pub_date": 1763972196.0,
+      "article_url": "https://www.reuters.com/business/finance/new-ai-club-will-bestow-nuclear-like-power-winners-russias-top-ai-executive-says-2025-11-24/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI Startup Raises $75 Million to Take Junior Bankers\u2019 Grunt Work",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTHRuMUJCMEo0WjFFTzMzelBoR1I3bnh0WDBuUFBOUEFuSkl1d3lyeEZMZVlzYXpYSFJVSVFtSzJTa2p6OUJKcUdFcGRNRkhZQjY5U2gwTGN3ellOYlExR1d2VGRvdHk3MjFiT1BtQ0pDcXZ6QXBfQjdjVkF0bGd2VGZIYlFWUG1iS1ltUEgwU3JpeHp1THVCdVZGajRQalNObnlLTk1KSGlFU21vcHlnSmlCcw?oc=5",
+      "pub_date": 1763967600.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-24/ai-startup-raises-75-million-to-take-junior-bankers-grunt-work",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Procurement Overlooked for AI Investment Despite Clear Potential for Transformation",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN19ZWVJINWV1UWRjczN6TkcyRVFMS1pUWDM2SktzaDhyaHVycjFyLVk0SWZXQi1ic01pLWdxQWFxY3Z3c0h1OGVkbktuZ2dyb3Q4dV81dTA3aFI4bHJ4VFpYQW9uZEphdmVpZWNMd0dhUGZtOWJvT3BsbTBDZ3FGSk9Ba3d3S092SHg3SGhLSFRoSlhU?oc=5",
+      "pub_date": 1763974800.0,
+      "article_url": "https://finance.yahoo.com/news/procurement-overlooked-ai-investment-despite-090000779.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/0lLBMmZVP1kNe4l4bonejg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0zNzE-/https://media.zenfs.com/en/business-wire.com/2c7583b508b3411c0756e4740dcd3376",
+      "description": "LONDON, November 24, 2025--While AI adoption is accelerating across industries, the procurement function is lagging behind due to underinvestment, according to new data in SAP Taulia\u2019s AI in Procurement Report\u00b9."
+    },
+    {
+      "headline": "Opinion | The First Large-Scale Cyberattack by AI",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQWHprZE5nRGxxd0FKdkhpbVpYWFI0TWd5Q09hdmRoTlI2bXJMVksxZldoNFhhQzBucUJxaGZZLXJzWWdXNnhSc1VzZ0VkRzVMazZjdmNtSmxKVng2OFUwc2JMV2lKUkgyTFFnUWhaSkczc1FGanFKRVluYzY3bUtERUJJMjRia1l1SnJTWmkybG5lT25rTjZkRGQ0Q3h3WTRWY1RjWG9qdjdEZW9sck5qRFFTYnVjMXl5YTZvb3F5d3ZVWkVpcW9aT2tmSnZvbXEzdmQ5czBZNm1Bc3ZfRXFZOG5waHNrZUJMSHhNZ0w0UUdhNTlDT2F0ejZqRHpsdFotM24xQ3cxS3UzWWh4NTBublpJbEZYZ1Z4X0ZWbnhKY0Nja3JzLWxEM09GWE1ubjhMSUxWUGFBcGlrY1VER3Uya2F3WFJGVnRjWDdIV24wNFJ2M2gzRmUxNnJKRll4ZmpWWlFiRVdNcmVvbG1hYTZlVkZVZXRjRGJiT2h3WHdONmgteHJURHY4?oc=5",
+      "pub_date": 1763917380.0,
+      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqeWfoiyyjnHvX7RG1FxjReYxs8tOuob4-2h0FCvIQuVXJpk4oLjFvo6&gaa_ts=692425ba&gaa_sig=G_qeZwQyNcPA30-Cdrc82nKROkpi5lPSdQ5bLFFl3P9UpF9nsvPmrFQzB-RywKzIFulDXCsf9f3tJkRT4jO7-A%3D%3D",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T08:24:53.635716+00:00"
+  "fetched_at": "2025-11-24T09:16:12.191726+00:00"
 }

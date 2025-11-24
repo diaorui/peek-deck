@@ -46,6 +46,17 @@
       "description": "Full video: https://youtu.be/D_eXUkDf7UU?si=9JL-OhVQXgD1X8pv"
     },
     {
+      "title": "Macbook Air M4 for Engineering? (robotics mainly)",
+      "author": "Pizza_Meme_Man",
+      "url": "https://www.reddit.com/r/robotics/comments/1p5bufr/macbook_air_m4_for_engineering_robotics_mainly/",
+      "published": 1763973319.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "What specs to ask before ordering a new robot?",
       "author": "Key-Active-2629",
       "url": "https://www.reddit.com/r/robotics/comments/1p5b5ss/what_specs_to_ask_before_ordering_a_new_robot/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "CH32V003 works only for some time after flashing, then becomes unresponsive on bare IC",
-      "author": "Sanjaykumar_tiruppur",
-      "url": "https://www.reddit.com/r/robotics/comments/1p4p3ob/ch32v003_works_only_for_some_time_after_flashing/",
-      "published": 1763910839.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey guys, I\u2019m currently working with the CH32V003, and during my testing I found a strange issue. After flashing the firmware, the chip works perfectly \u2014 even if power interruptions happen. But after some time, when I try to power it back on, the system becomes completely dead. It does nothing. Even a hardware reset doesn\u2019t bring it back. It feels like flash or memory corruption. What\u2019s confusing is that the factory-made dev board runs the same code without any issues, consistently. The problem only happens when I use a bare CH32V003 IC on my own hardware. Has anyone faced this before? Any idea what could cause this? Power rail\u2026 reset circuitry\u2026 bootloader corruption\u2026 missing pull-ups\u2026 flash stability\u2026? Please help me sort this out \ud83d\ude4f"
     }
   ],
-  "fetched_at": "2025-11-24T08:24:30.184224+00:00"
+  "fetched_at": "2025-11-24T09:15:39.948964+00:00"
 }

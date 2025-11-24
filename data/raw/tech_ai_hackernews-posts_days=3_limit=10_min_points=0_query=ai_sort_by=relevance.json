@@ -9,8 +9,8 @@
       "url": "https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html",
       "hn_url": "https://news.ycombinator.com/item?id=46027833",
       "author": "bookofjoe",
-      "points": 349,
-      "num_comments": 402,
+      "points": 365,
+      "num_comments": 414,
       "created_at": "2025-11-23T22:06:44Z",
       "object_id": "46027833",
       "image": null,
@@ -23,8 +23,8 @@
       "url": "https://mathstodon.xyz/@tao/115591487350860999",
       "hn_url": "https://news.ycombinator.com/item?id=46017972",
       "author": "dwohnitmok",
-      "points": 241,
-      "num_comments": 44,
+      "points": 246,
+      "num_comments": 46,
       "created_at": "2025-11-22T20:27:41Z",
       "object_id": "46017972",
       "image": null,
@@ -47,6 +47,20 @@
       "site_name": "pub.towardsai.net"
     },
     {
+      "title": "Ask HN: Hearing aid wearers, what's hot?",
+      "url": "https://news.ycombinator.com/item?id=46029699",
+      "hn_url": "https://news.ycombinator.com/item?id=46029699",
+      "author": "pugworthy",
+      "points": 170,
+      "num_comments": 80,
+      "created_at": "2025-11-24T02:25:39Z",
+      "object_id": "46029699",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
+    },
+    {
       "title": "Boom, bubble, bust, boom. Why should AI be different?",
       "url": "https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/",
       "hn_url": "https://news.ycombinator.com/item?id=46008628",
@@ -59,20 +73,6 @@
       "description": "The AI revolution is three years old Nov. 30. In just 36 months AI has gone from great-new-toy, to global phenomenon, to where we are today - debating whether we are in one of the biggest technology bubbles or booms in modern times. To us there is no debate. There is too much spending, too much leverage, too many crazy deals, and too much competition from China for us not to see big bumps ahead.",
       "favicon": "https://i0.wp.com/crazystupidtech.com/wp-content/uploads/2025/04/cropped-crazytech-img.png?fit=180%2C180&ssl=1",
       "site_name": "Crazy Stupid Tech"
-    },
-    {
-      "title": "Ask HN: Hearing aid wearers, what's hot?",
-      "url": "https://news.ycombinator.com/item?id=46029699",
-      "hn_url": "https://news.ycombinator.com/item?id=46029699",
-      "author": "pugworthy",
-      "points": 155,
-      "num_comments": 63,
-      "created_at": "2025-11-24T02:25:39Z",
-      "object_id": "46029699",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
     },
     {
       "title": "The New AI Consciousness Paper",
@@ -121,7 +121,7 @@
       "url": "https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away",
       "hn_url": "https://news.ycombinator.com/item?id=46027290",
       "author": "breve",
-      "points": 56,
+      "points": 58,
       "num_comments": 20,
       "created_at": "2025-11-23T21:01:26Z",
       "object_id": "46027290",
@@ -145,7 +145,7 @@
       "site_name": "Ars Technica"
     }
   ],
-  "total_hits": 364,
+  "total_hits": 363,
   "has_metadata": true,
-  "fetched_at": "2025-11-24T08:24:26.036207+00:00"
+  "fetched_at": "2025-11-24T09:15:35.503680+00:00"
 }
