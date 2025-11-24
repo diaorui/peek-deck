@@ -5,32 +5,32 @@
   "days": 3,
   "posts": [
     {
-      "title": "Olmo 3: Charting a path through the model flow to lead open-source AI",
-      "url": "https://allenai.org/blog/olmo3",
-      "hn_url": "https://news.ycombinator.com/item?id=46001889",
-      "author": "mseri",
-      "points": 387,
-      "num_comments": 124,
-      "created_at": "2025-11-21T06:50:14Z",
-      "object_id": "46001889",
-      "image": "https://www.datocms-assets.com/64837/1763593598-olmoblogthumbnail.jpg",
-      "description": "Our new flagship Olmo 3 model family empowers the open source community with not only state-of-the-art open models, but the entire model flow and full traceability back to training data.",
-      "favicon": "https://allenai.org/apple-icon.png?c1d111c3e4ad49a6",
-      "site_name": "allenai.org"
-    },
-    {
       "title": "Iowa City made its buses free. Traffic cleared, and so did the air",
       "url": "https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html",
       "hn_url": "https://news.ycombinator.com/item?id=46027833",
       "author": "bookofjoe",
-      "points": 318,
-      "num_comments": 370,
+      "points": 331,
+      "num_comments": 385,
       "created_at": "2025-11-23T22:06:44Z",
       "object_id": "46027833",
       "image": null,
       "description": null,
       "favicon": null,
       "site_name": "nytimes.com"
+    },
+    {
+      "title": "Terence Tao: At the Erdos problem website, AI assistance now becoming routine",
+      "url": "https://mathstodon.xyz/@tao/115591487350860999",
+      "hn_url": "https://news.ycombinator.com/item?id=46017972",
+      "author": "dwohnitmok",
+      "points": 229,
+      "num_comments": 42,
+      "created_at": "2025-11-22T20:27:41Z",
+      "object_id": "46017972",
+      "image": null,
+      "description": "Over at the Erdos problem website, AI assistance is now becoming routine.  Here is what happened recently regarding Erdos problem #367 https://www.erdosproblems.com/367 :\n\n1.  On Nov 20, Wouter van Doorn produced a (human-generated) disproof of the second part of this problem, contingent on a congruence identity that he thought was true, and was \"sure someoneone here is able to verify... does indeed hold\".\n\n2.  A few hours later, I posed this problem to Gemini Deepthink, which (after about ten minutes) produced a complete proof of the identity (and confirmed the entire argument): https://gemini.google.com/share/81a65aecfd70 .  The argument used some p-adic algebraic number theory which was overkill for this problem.  I then spent about half an hour converting the proof by hand into a more elementary proof, which I presented on the site.  I then remarked that the resulting proof should be within range of \"vibe formalizing\" in Lean.\n\n3.  Two days later, Boris Alexeev used the Aristotle tool from Harmonic to complete the Lean formalization, making sure to formalize the final statement by hand to guard against AI exploits.  This process took two to three hours, and the output can be found at https://borisalexeev.com/t/Erdos367.lean\n\nEDIT: after making this post, I decided to round things out by making AI literature searches on this problem, which (after about fifteen minutes) turned up some related literature on consecutive powerful numbers, but nothing directly relating to #367.  https://chatgpt.com/share/6921427d-9dc0-800e-b798-be8fc94a9240 https://gemini.google.com/share/0d296454bea0",
+      "favicon": "https://mathstodon.xyz/packs/assets/apple-touch-icon-57x57-BsPGHSez.png",
+      "site_name": "Mathstodon"
     },
     {
       "title": "73% of AI startups are just prompt engineering",
@@ -45,20 +45,6 @@
       "description": null,
       "favicon": null,
       "site_name": "pub.towardsai.net"
-    },
-    {
-      "title": "Terence Tao: At the Erdos problem website, AI assistance now becoming routine",
-      "url": "https://mathstodon.xyz/@tao/115591487350860999",
-      "hn_url": "https://news.ycombinator.com/item?id=46017972",
-      "author": "dwohnitmok",
-      "points": 223,
-      "num_comments": 39,
-      "created_at": "2025-11-22T20:27:41Z",
-      "object_id": "46017972",
-      "image": null,
-      "description": "Over at the Erdos problem website, AI assistance is now becoming routine.  Here is what happened recently regarding Erdos problem #367 https://www.erdosproblems.com/367 :\n\n1.  On Nov 20, Wouter van Doorn produced a (human-generated) disproof of the second part of this problem, contingent on a congruence identity that he thought was true, and was \"sure someoneone here is able to verify... does indeed hold\".\n\n2.  A few hours later, I posed this problem to Gemini Deepthink, which (after about ten minutes) produced a complete proof of the identity (and confirmed the entire argument): https://gemini.google.com/share/81a65aecfd70 .  The argument used some p-adic algebraic number theory which was overkill for this problem.  I then spent about half an hour converting the proof by hand into a more elementary proof, which I presented on the site.  I then remarked that the resulting proof should be within range of \"vibe formalizing\" in Lean.\n\n3.  Two days later, Boris Alexeev used the Aristotle tool from Harmonic to complete the Lean formalization, making sure to formalize the final statement by hand to guard against AI exploits.  This process took two to three hours, and the output can be found at https://borisalexeev.com/t/Erdos367.lean\n\nEDIT: after making this post, I decided to round things out by making AI literature searches on this problem, which (after about fifteen minutes) turned up some related literature on consecutive powerful numbers, but nothing directly relating to #367.  https://chatgpt.com/share/6921427d-9dc0-800e-b798-be8fc94a9240 https://gemini.google.com/share/0d296454bea0",
-      "favicon": "https://mathstodon.xyz/packs/assets/apple-touch-icon-57x57-BsPGHSez.png",
-      "site_name": "Mathstodon"
     },
     {
       "title": "Boom, bubble, bust, boom. Why should AI be different?",
@@ -93,8 +79,8 @@
       "url": "https://news.ycombinator.com/item?id=46029699",
       "hn_url": "https://news.ycombinator.com/item?id=46029699",
       "author": "pugworthy",
-      "points": 119,
-      "num_comments": 47,
+      "points": 136,
+      "num_comments": 51,
       "created_at": "2025-11-24T02:25:39Z",
       "object_id": "46029699",
       "image": null,
@@ -107,8 +93,8 @@
       "url": "https://arxiv.org/abs/2509.01063",
       "hn_url": "https://news.ycombinator.com/item?id=46020096",
       "author": "nerder92",
-      "points": 111,
-      "num_comments": 70,
+      "points": 114,
+      "num_comments": 71,
       "created_at": "2025-11-23T02:08:00Z",
       "object_id": "46020096",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -122,7 +108,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46018229",
       "author": "straydusk",
       "points": 64,
-      "num_comments": 35,
+      "num_comments": 36,
       "created_at": "2025-11-22T21:02:34Z",
       "object_id": "46018229",
       "image": null,
@@ -143,9 +129,23 @@
       "description": "Google\u2019s AI infrastructure chief tells staff it needs thousandfold capacity increase in 5 years.",
       "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
       "site_name": "Ars Technica"
+    },
+    {
+      "title": "Meet the AI workers who tell their friends and family to stay away from AI",
+      "url": "https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away",
+      "hn_url": "https://news.ycombinator.com/item?id=46027290",
+      "author": "breve",
+      "points": 53,
+      "num_comments": 19,
+      "created_at": "2025-11-23T21:01:26Z",
+      "object_id": "46027290",
+      "image": "https://i.guim.co.uk/img/media/2103be8be876262394e303cf374938ad30d7fcdc/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=508e507d9631c2cd6d0b1ca7040762e0",
+      "description": "When the people making AI seem trustworthy are the ones who trust it the least, it shows that incentives for speed are overtaking safety, experts say",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "site_name": "the Guardian"
     }
   ],
-  "total_hits": 370,
+  "total_hits": 367,
   "has_metadata": true,
-  "fetched_at": "2025-11-24T06:42:11.206004+00:00"
+  "fetched_at": "2025-11-24T07:27:24.683477+00:00"
 }

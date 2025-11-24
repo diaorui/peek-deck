@@ -13,6 +13,17 @@
       "description": "MagicLab website: https://www.magiclab.top/en From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1991895323246219551"
     },
     {
+      "title": "What would you use it for?",
+      "author": "Full_Connection_2240",
+      "url": "https://www.reddit.com/r/robotics/comments/1p5a9r2/what_would_you_use_it_for/",
+      "published": 1763967347.0,
+      "thumbnail": "https://external-preview.redd.it/bHRveno5dGFrNTNnMb61BGwDxA7-g6hWmobDlhvn3S-_1A_ZWLymr3-wGxbP.png?width=640&crop=smart&auto=webp&s=3e5e940c5aea865058759e43bddfbd45be196e48",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Trying to get some ideas to make a demonstration of its potential capabilities.. Or even just your thoughts on it's design! Thanks :) https://www.youtube.com/watch?v=qawYP6E3znw"
+    },
+    {
       "title": "Trying to look for the closed form analytical solution for this Amazon bought robotic arm",
       "author": "hisenberg-up",
       "url": "https://www.reddit.com/r/robotics/comments/1p511g9/trying_to_look_for_the_closed_form_analytical/",
@@ -35,6 +46,17 @@
       "description": "Full video: https://youtu.be/D_eXUkDf7UU?si=9JL-OhVQXgD1X8pv"
     },
     {
+      "title": "Why don\u2019t we have practical home mobile robots yet \u2014 even though the tech is basically there?",
+      "author": "ExploreNinja007",
+      "url": "https://www.reddit.com/r/robotics/comments/1p58fs0/why_dont_we_have_practical_home_mobile_robots_yet/",
+      "published": 1763960952.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "We\u2019re at an odd point in robotics right now. CV is solid, indoor SLAM is extremely reliable, onboard compute keeps getting cheaper, and even small quadrupeds/rovers can traverse a normal apartment without embarrassing themselves. So why isn\u2019t there a mainstream \u201cmobile home robot\u201d category yet? Not humanoids \u2014 I mean something between a Roomba and a small utility rover that can move around, monitor pets, detect anomalies, or interact in simple ways. It feels like the core pieces exist, but nothing has crossed the \u201cthis is genuinely useful for a non-technical household\u201d threshold. The bottlenecks I keep coming back to: Use-case definition: We have form factors, but not a compelling job people will pay for. Privacy / trust: A mobile camera in the home is a different risk model than a static appliance. Cost curve: Hardware is cheaper but still nowhere near consumer-appliance territory. Reliability: 24/7 autonomy indoors is underratedly hard \u2014 long-tail failures are brutal. Safety vs autonomy: Too capable = high trust barrier; too limited = no value. But it does feel like we\u2019re close to a new class of robots that aren\u2019t humanoids and aren\u2019t vacuums \u2014 something like a \u201cgeneral-purpose home rover.\u201d For people working in robotics: What do you see as the actual blocker? A missing technical capability? A missing product use-case? Or is it simply not a market people want yet? Genuinely curious how the folks building and researching this see the gap."
+    },
+    {
       "title": "How do I make my robot walk/balance dynamically? I don\u2019t know how to use simulations such as Isaac sim since im new to robotics.",
       "author": "TooManyLegoBricks",
       "url": "https://www.reddit.com/r/robotics/comments/1p4pobn/how_do_i_make_my_robot_walkbalance_dynamically_i/",
@@ -55,17 +77,6 @@
       "site_name": "CNBC",
       "favicon": "https://sc-cnbcfm-com.cdn.ampproject.org/i/s/sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
       "description": "Im curious how many others from Figure or other Humanoid Robot companies will start to step forward and speak up. Safety is something that is not talked about enough."
-    },
-    {
-      "title": "Why don\u2019t we have practical home mobile robots yet \u2014 even though the tech is basically there?",
-      "author": "ExploreNinja007",
-      "url": "https://www.reddit.com/r/robotics/comments/1p58fs0/why_dont_we_have_practical_home_mobile_robots_yet/",
-      "published": 1763960952.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "We\u2019re at an odd point in robotics right now. CV is solid, indoor SLAM is extremely reliable, onboard compute keeps getting cheaper, and even small quadrupeds/rovers can traverse a normal apartment without embarrassing themselves. So why isn\u2019t there a mainstream \u201cmobile home robot\u201d category yet? Not humanoids \u2014 I mean something between a Roomba and a small utility rover that can move around, monitor pets, detect anomalies, or interact in simple ways. It feels like the core pieces exist, but nothing has crossed the \u201cthis is genuinely useful for a non-technical household\u201d threshold. The bottlenecks I keep coming back to: Use-case definition: We have form factors, but not a compelling job people will pay for. Privacy / trust: A mobile camera in the home is a different risk model than a static appliance. Cost curve: Hardware is cheaper but still nowhere near consumer-appliance territory. Reliability: 24/7 autonomy indoors is underratedly hard \u2014 long-tail failures are brutal. Safety vs autonomy: Too capable = high trust barrier; too limited = no value. But it does feel like we\u2019re close to a new class of robots that aren\u2019t humanoids and aren\u2019t vacuums \u2014 something like a \u201cgeneral-purpose home rover.\u201d For people working in robotics: What do you see as the actual blocker? A missing technical capability? A missing product use-case? Or is it simply not a market people want yet? Genuinely curious how the folks building and researching this see the gap."
     },
     {
       "title": "Short survey: how do your robots handle \u201cfind this asset/location\u201d tasks?",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey guys, I\u2019m currently working with the CH32V003, and during my testing I found a strange issue. After flashing the firmware, the chip works perfectly \u2014 even if power interruptions happen. But after some time, when I try to power it back on, the system becomes completely dead. It does nothing. Even a hardware reset doesn\u2019t bring it back. It feels like flash or memory corruption. What\u2019s confusing is that the factory-made dev board runs the same code without any issues, consistently. The problem only happens when I use a bare CH32V003 IC on my own hardware. Has anyone faced this before? Any idea what could cause this? Power rail\u2026 reset circuitry\u2026 bootloader corruption\u2026 missing pull-ups\u2026 flash stability\u2026? Please help me sort this out \ud83d\ude4f"
-    },
-    {
-      "title": "[Free Guide] Student-written 150+ page robotics book for WRO/FLL/FTC/FRC (Play to Purpose)",
-      "author": "legogoa",
-      "url": "https://www.reddit.com/r/robotics/comments/1p4kqt0/free_guide_studentwritten_150_page_robotics_book/",
-      "published": 1763898251.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-11-24T06:42:15.196683+00:00"
+  "fetched_at": "2025-11-24T07:27:29.362177+00:00"
 }

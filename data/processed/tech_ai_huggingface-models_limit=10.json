@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/facebook/sam3.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1592839207516-noauth.png",
       "downloads": 65697,
-      "likes": 561,
+      "likes": 564,
       "pipeline_tag": "mask-generation",
       "num_parameters": "859.9M",
       "last_modified": "2025-11-20T22:05:08.000Z"
@@ -23,7 +23,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/tencent/HunyuanVideo-1.5.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png",
       "downloads": 955,
-      "likes": 518,
+      "likes": 522,
       "pipeline_tag": "text-to-video",
       "num_parameters": null,
       "last_modified": "2025-11-24T04:02:12.000Z"
@@ -51,10 +51,10 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/WeiboAI/VibeThinker-1.5B.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64d1faaa1ed6649d70d1fa2f/lZVm6Yuiif9cdr5KsnfZr.png",
       "downloads": 14699,
-      "likes": 450,
+      "likes": 451,
       "pipeline_tag": "text-generation",
       "num_parameters": "1.8B",
-      "last_modified": "2025-11-15T05:18:10.000Z"
+      "last_modified": "2025-11-24T06:54:43.000Z"
     },
     {
       "id": "facebook/sam-3d-objects",
@@ -65,7 +65,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/facebook/sam-3d-objects.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1592839207516-noauth.png",
       "downloads": 0,
-      "likes": 148,
+      "likes": 149,
       "pipeline_tag": null,
       "num_parameters": null,
       "last_modified": "2025-11-21T12:08:20.000Z"
@@ -79,7 +79,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/moonshotai/Kimi-K2-Thinking.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/641c1e77c3983aa9490f8121/X1yT2rsaIbR9cdYGEVu0X.jpeg",
       "downloads": 233218,
-      "likes": 1372,
+      "likes": 1373,
       "pipeline_tag": "text-generation",
       "num_parameters": null,
       "last_modified": "2025-11-08T07:48:46.000Z"
@@ -142,5 +142,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-11-24T06:42:11.070268+00:00"
+  "fetched_at": "2025-11-24T07:27:24.542719+00:00"
 }
