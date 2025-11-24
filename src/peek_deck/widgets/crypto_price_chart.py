@@ -291,7 +291,6 @@ class CryptoPriceChartWidget(BaseWidget):
         # Render using template
         return self.render_template(
             "widgets/crypto_price_chart.html",
-            size=self.size,
             display_name=display_name,
             tab_buttons=tab_buttons,
             tab_contents=tab_contents,

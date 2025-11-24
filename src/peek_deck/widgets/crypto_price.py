@@ -75,7 +75,6 @@ class CryptoPriceWidget(BaseWidget):
 
         return self.render_template(
             "widgets/crypto_price.html",
-            size=self.size,
             display_name=display_name,
             price=price,
             bid=processed_data['bid'],

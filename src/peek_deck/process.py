@@ -88,7 +88,6 @@ def process_all():
             try:
                 widget = create_widget_instance(
                     widget_type=widget_type,
-                    size=str(widget_config.size),
                     params=widget_config.params,
                     page_params=page_config.params,
                     update_minutes=widget_config.update_minutes

@@ -1,6 +1,6 @@
 """Configuration models."""
 
-from typing import Any, Dict, List, Literal, Optional, Union
+from typing import Any, Dict, List, Optional
 from pydantic import BaseModel, Field
 
 
@@ -8,7 +8,6 @@ class WidgetConfig(BaseModel):
     """Configuration for a single widget instance."""
 
     type: str  # e.g., "crypto-price", "news"
-    size: Union[Literal['small', 'medium', 'large', 'full'], int] = 'medium'
     params: Dict[str, Any] = Field(default_factory=dict)
     update_minutes: Optional[int] = Field(None, gt=0)
     max_cache_age: Optional[int] = Field(None, gt=0)  # Minutes. None = never expire

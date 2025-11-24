@@ -17,21 +17,18 @@ theme:
 # Widget layout (ordered by time sensitivity - most frequently updated first)
 widgets:
   - type: reddit-posts
-    size: full
     update_minutes: 30
     params:
       subreddit: artificial
       limit: 10
 
   - type: google-news
-    size: full
     update_minutes: 30
     params:
       query: ai
       limit: 10
 
   - type: hackernews-posts
-    size: full
     update_minutes: 30
     params:
       query: ai
@@ -41,7 +38,6 @@ widgets:
       days: 3
 
   - type: youtube-videos
-    size: full
     update_minutes: 120
     params:
       query: ai
@@ -51,20 +47,17 @@ widgets:
       relevance_language: en
 
   - type: huggingface-models
-    size: full
     update_minutes: 30
     params:
       limit: 10
 
   - type: huggingface-papers
-    size: full
     update_minutes: 60
     params:
       limit: 10
       sort: trending
 
   - type: github-repos
-    size: full
     update_minutes: 60
     params:
       query: ai machine-learning llm

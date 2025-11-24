@@ -12,7 +12,6 @@ from .core.output_manager import OutputManager
 
 def fetch_widget(
     widget_type: str,
-    widget_size: str,
     widget_params: Dict[str, Any],
     page_params: Dict[str, Any],
     update_minutes: int,
@@ -24,7 +23,6 @@ def fetch_widget(
 
     Args:
         widget_type: Type of widget to fetch
-        widget_size: Widget size
         widget_params: Widget-specific parameters
         page_params: Page-level parameters
         update_minutes: Update frequency in minutes
@@ -42,7 +40,6 @@ def fetch_widget(
         # Create widget instance
         widget = create_widget_instance(
             widget_type=widget_type,
-            size=widget_size,
             params=widget_params,
             page_params=page_params,
             update_minutes=update_minutes
@@ -135,7 +132,6 @@ def fetch_all():
             # Add to fetch list
             widgets_to_fetch.append({
                 'widget_type': widget_type,
-                'widget_size': str(widget_config.size),
                 'widget_params': widget_config.params,
                 'page_params': page_config.params,
                 'update_minutes': widget_config.update_minutes,
@@ -152,7 +148,6 @@ def fetch_all():
                 executor.submit(
                     fetch_widget,
                     widget_data['widget_type'],
-                    widget_data['widget_size'],
                     widget_data['widget_params'],
                     widget_data['page_params'],
                     widget_data['update_minutes'],

@@ -104,7 +104,6 @@ class CryptoMarketStatsWidget(BaseWidget):
 
         return self.render_template(
             "widgets/crypto_market_stats.html",
-            size=self.size,
             name=name,
             symbol=symbol,
             market_cap_display=market_cap_display,

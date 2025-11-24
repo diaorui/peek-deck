@@ -30,13 +30,11 @@ class BaseWidget(ABC):
     def __init__(
         self,
         widget_type: str,
-        size: str,
         params: Dict[str, Any],
         page_params: Dict[str, Any],
         update_minutes: Optional[int] = None,
     ):
         self.widget_type = widget_type
-        self.size = size
         self.params = params
         self.page_params = page_params
         self.update_minutes = update_minutes

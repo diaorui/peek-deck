@@ -109,7 +109,6 @@ class HuggingfacePapersWidget(BaseWidget):
 
         return self.render_template(
             "widgets/huggingface_papers.html",
-            size=self.size,
             papers=papers,
             limit=limit,
             sort=sort,

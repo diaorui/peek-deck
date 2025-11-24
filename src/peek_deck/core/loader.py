@@ -90,7 +90,6 @@ def load_widget_class(widget_type: str) -> Type[BaseWidget]:
 
 def create_widget_instance(
     widget_type: str,
-    size: str,
     params: Dict,
     page_params: Dict,
     update_minutes: int = None
@@ -99,7 +98,6 @@ def create_widget_instance(
 
     Args:
         widget_type: Widget type (e.g., "crypto-price")
-        size: Widget size
         params: Widget-specific params
         page_params: Page-level params
         update_minutes: Update frequency
@@ -110,7 +108,6 @@ def create_widget_instance(
     widget_class = load_widget_class(widget_type)
     return widget_class(
         widget_type=widget_type,
-        size=size,
         params=params,
         page_params=page_params,
         update_minutes=update_minutes

@@ -170,7 +170,6 @@ class RedditPostsWidget(BaseWidget):
 
         return self.render_template(
             "widgets/reddit_posts.html",
-            size=self.size,
             subreddit=subreddit,
             posts=posts,
             timestamp_iso=timestamp_iso

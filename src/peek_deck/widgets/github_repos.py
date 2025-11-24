@@ -140,7 +140,6 @@ class GithubReposWidget(BaseWidget):
 
         return self.render_template(
             "widgets/github_repos.html",
-            size=self.size,
             repos=repos,
             query=query,
             search_query=search_query,

@@ -16,21 +16,18 @@ theme:
 
 widgets:
   - type: reddit-posts
-    size: full
     update_minutes: 30
     params:
       subreddit: robotics
       limit: 10
 
   - type: google-news
-    size: full
     update_minutes: 30
     params:
       query: robotics
       limit: 10
 
   - type: youtube-videos
-    size: full
     update_minutes: 120
     params:
       query: robotics

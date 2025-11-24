@@ -22,11 +22,9 @@ params:
 # Widget layout
 widgets:
   - type: crypto-price
-    size: small
     update_minutes: 5
 
   - type: crypto-price-chart
-    size: large
     update_minutes: 10
     params:
       tabs:
@@ -47,25 +45,21 @@ widgets:
           label: "1y"
 
   - type: crypto-market-stats
-    size: full
     update_minutes: 30
 
   - type: reddit-posts
-    size: full
     update_minutes: 30
     params:
       subreddit: ethereum
       limit: 10
 
   - type: google-news
-    size: full
     update_minutes: 30
     params:
       query: ethereum
       limit: 10
 
   - type: youtube-videos
-    size: full
     update_minutes: 120
     params:
       query: ethereum

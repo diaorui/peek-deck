@@ -22,11 +22,9 @@ params:
 # Widget layout
 widgets:
   - type: crypto-price
-    size: full
     update_minutes: 5
 
   - type: crypto-price-chart
-    size: full
     update_minutes: 10
     params:
       tabs:
@@ -47,29 +45,24 @@ widgets:
           label: "1y"
 
   - type: crypto-market-stats
-    size: full
     update_minutes: 30
 
   - type: crypto-fear-greed
-    size: full
     update_minutes: 360
 
   - type: reddit-posts
-    size: full
     update_minutes: 30
     params:
       subreddit: Bitcoin
       limit: 10
 
   - type: google-news
-    size: full
     update_minutes: 30
     params:
       query: bitcoin
       limit: 10
 
   - type: hackernews-posts
-    size: full
     update_minutes: 30
     params:
       query: bitcoin
@@ -79,7 +72,6 @@ widgets:
       days: 7
 
   - type: youtube-videos
-    size: full
     update_minutes: 120
     params:
       query: bitcoin

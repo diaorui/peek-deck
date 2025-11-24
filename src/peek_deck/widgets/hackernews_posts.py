@@ -175,7 +175,6 @@ class HackernewsPostsWidget(BaseWidget):
 
         return self.render_template(
             "widgets/hackernews_posts.html",
-            size=self.size,
             query=query,
             sort_by=sort_by,
             min_points=min_points,

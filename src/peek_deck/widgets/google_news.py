@@ -183,7 +183,6 @@ class GoogleNewsWidget(BaseWidget):
 
         return self.render_template(
             "widgets/google_news.html",
-            size=self.size,
             title=title,
             query=query,
             site=site,

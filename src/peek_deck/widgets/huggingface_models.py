@@ -101,7 +101,6 @@ class HuggingfaceModelsWidget(BaseWidget):
 
         return self.render_template(
             "widgets/huggingface_models.html",
-            size=self.size,
             models=models,
             limit=limit,
             timestamp_iso=timestamp_iso

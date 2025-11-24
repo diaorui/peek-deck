@@ -97,7 +97,6 @@ class CryptoFearGreedWidget(BaseWidget):
 
         return self.render_template(
             "widgets/crypto_fear_greed.html",
-            size=self.size,
             current_value=current_value,
             current_classification=current_classification,
             gauge_color=gauge_color,

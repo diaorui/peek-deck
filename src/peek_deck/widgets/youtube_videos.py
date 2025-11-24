@@ -359,7 +359,6 @@ class YoutubeVideosWidget(BaseWidget):
 
         return self.render_template(
             "widgets/youtube_videos.html",
-            size=self.size,
             title=title,
             query=query,
             order=order,
