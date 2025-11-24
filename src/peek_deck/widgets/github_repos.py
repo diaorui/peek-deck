@@ -19,6 +19,7 @@ class GithubReposWidget(BaseWidget):
         - min_stars: Minimum stars filter (default: 0)
         - language: Filter by language (default: None)
         - limit: Number of repos to show (default: 10)
+        - date_filter: Date filter type - "pushed" for recent activity or "created" for new repos (default: "pushed")
     """
 
     def get_required_params(self) -> list[str]:
@@ -33,15 +34,17 @@ class GithubReposWidget(BaseWidget):
         min_stars = self.merged_params.get("min_stars", 0)
         language = self.merged_params.get("language")
         limit = self.merged_params.get("limit", 10)
+        date_filter = self.merged_params.get("date_filter", "pushed")  # "pushed" or "created"
         client = get_url_fetch_manager()
 
         try:
             # Build search query
-            # Calculate date for pushed filter (recently active repos)
+            # Calculate date threshold based on filter type
             date_threshold = (datetime.now(timezone.utc) - timedelta(days=days)).strftime("%Y-%m-%d")
 
             # Build query string - separate parts with spaces
-            q_parts = [query, f"pushed:>{date_threshold}"]
+            # Use either pushed or created date filter
+            q_parts = [query, f"{date_filter}:>{date_threshold}"]
             if min_stars > 0:
                 q_parts.append(f"stars:>{min_stars}")
             if language:
@@ -131,7 +134,7 @@ class GithubReposWidget(BaseWidget):
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
             }
 
-            OutputManager.log(f"✅ Fetched {len(repos)} GitHub repos for query '{query}'")
+            OutputManager.log(f"✅ Fetched {len(repos)} GitHub repos for query '{query}' (filter: {date_filter}, days: {days})")
             return data
 
         except Exception as e:

@@ -61,5 +61,6 @@ widgets:
     update_minutes: 60
     params:
       query: ai machine-learning llm
-      days: 3
+      days: 30
+      date_filter: created
       limit: 10
