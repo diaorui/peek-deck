@@ -50,7 +50,7 @@
       "description": "Gausian - Rust-based local video editor for AI video production",
       "url": "https://github.com/gausian-AI/Gausian_native_editor",
       "preview_image": "https://opengraph.githubassets.com/00b325081b4d8d90054b919e75ae8b0f8bb82d16befdd2579a46d96946d5088c/gausian-AI/Gausian_native_editor",
-      "stars": 1204,
+      "stars": 1206,
       "stars_display": "1.2k",
       "forks": 17,
       "forks_display": "17",
@@ -88,7 +88,7 @@
       "forks_display": "26",
       "language": "Go",
       "topics": [],
-      "updated_at": "2025-11-24T17:46:40Z"
+      "updated_at": "2025-11-24T22:08:34Z"
     },
     {
       "full_name": "f/git-rewrite-commits",
@@ -117,10 +117,10 @@
       "description": "\u4e00\u4e2a\u96c6\u5185\u5bb9\u7b56\u5212\u3001AI\u6587\u6848\u81ea\u52a8\u751f\u6210\u3001TTS \u6279\u91cf\u81ea\u52a8\u914d\u97f3\u3001(AI)\u56fe\u7247\u7d20\u6750\u5408\u6210\u3001ASR\u81ea\u52a8\u63d0\u53d6\u8bed\u8a00\u5b57\u5e55\u811a\u672c\u3001AI\u81ea\u7531\u521b\u4f5c\u4e8e\u4e00\u4f53\u7684(\u77ed\u89c6\u9891)\u751f\u6210\u5de5\u4f5c\u7ad9\u3002\u65b9\u4fbf\u7ba1\u7406\u6bcf\u671f\u7684\u89c6\u9891\u9879\u76ee\u3002",
       "url": "https://github.com/Norsico/Video-Materials-AutoGEN-Workstation",
       "preview_image": "https://opengraph.githubassets.com/0ca6ecdb80ca700af163d1d6071825efe12a7b8e56fcb982f95131834556cf81/Norsico/Video-Materials-AutoGEN-Workstation",
-      "stars": 741,
-      "stars_display": "741",
-      "forks": 161,
-      "forks_display": "161",
+      "stars": 742,
+      "stars_display": "742",
+      "forks": 162,
+      "forks_display": "162",
       "language": "Python",
       "topics": [],
       "updated_at": "2025-11-23T06:39:49Z"
@@ -184,6 +184,6 @@
   "search_query": "ai created:>2025-10-25",
   "days": 30,
   "limit": 10,
-  "total_count": 217189,
-  "fetched_at": "2025-11-24T21:55:05.260897+00:00"
+  "total_count": 217454,
+  "fetched_at": "2025-11-24T23:09:39.611829+00:00"
 }
