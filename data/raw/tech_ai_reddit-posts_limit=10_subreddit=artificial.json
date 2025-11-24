@@ -13,6 +13,17 @@
       "description": null
     },
     {
+      "title": "A Research Leader Behind ChatGPT\u2019s Mental Health Work Is Leaving OpenAI",
+      "author": "wiredmagazine",
+      "url": "https://www.reddit.com/r/artificial/comments/1p5e55i/a_research_leader_behind_chatgpts_mental_health/",
+      "published": 1763982060.0,
+      "thumbnail": "https://external-preview.redd.it/Ot1hMbfRMe9i5EOvw0gUAVydtYTuJa7hxVR-VaLanWs.jpeg?width=640&crop=smart&auto=webp&s=a374752d38abac97abd8b027f67d844a7a67cb65",
+      "external_url": "https://www.wired.com/story/openai-research-lead-mental-health-quietly-departs/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "The model policy team leads core parts of AI safety research, including how ChatGPT responds to users in crisis."
+    },
+    {
       "title": "Unemployment could hit 25% among recent grads and trigger 'unprecedented' social disruption thanks to AI, U.S. senator warns",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1p4nl0y/unemployment_could_hit_25_among_recent_grads_and/",
@@ -33,17 +44,6 @@
       "site_name": "nytimes.com",
       "favicon": null,
       "description": "It sounds like science fiction: A company turns a dial on a product used by hundreds of millions of people and inadvertently destabilizes some of their minds. But that is essentially what happened at OpenAI this year."
-    },
-    {
-      "title": "A Research Leader Behind ChatGPT\u2019s Mental Health Work Is Leaving OpenAI",
-      "author": "wiredmagazine",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5e55i/a_research_leader_behind_chatgpts_mental_health/",
-      "published": 1763982060.0,
-      "thumbnail": "https://external-preview.redd.it/Ot1hMbfRMe9i5EOvw0gUAVydtYTuJa7hxVR-VaLanWs.jpeg?width=640&crop=smart&auto=webp&s=a374752d38abac97abd8b027f67d844a7a67cb65",
-      "external_url": "https://www.wired.com/story/openai-research-lead-mental-health-quietly-departs/",
-      "site_name": "WIRED",
-      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
-      "description": "The model policy team leads core parts of AI safety research, including how ChatGPT responds to users in crisis."
     },
     {
       "title": "Joining Valve's Gabe Newell at the altar of AI, Ubisoft CEO Yves Guillemot says the controversial tech will be \"as big a revolution for our industry as the shift to 3D\" | Ubisoft is using generative AI \"in all our studios and offices\"",
@@ -112,5 +112,5 @@
       "description": "Elon Musk vs Star Wars Droids"
     }
   ],
-  "fetched_at": "2025-11-24T11:58:24.125647+00:00"
+  "fetched_at": "2025-11-24T12:58:51.487354+00:00"
 }

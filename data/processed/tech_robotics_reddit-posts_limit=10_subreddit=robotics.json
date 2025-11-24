@@ -2,6 +2,17 @@
   "subreddit": "robotics",
   "posts": [
     {
+      "title": "Unmanned fully autonomous heavy-duty electric trucks in China",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1p5flay/unmanned_fully_autonomous_heavyduty_electric/",
+      "published": 1763986792.0,
+      "thumbnail": "https://external-preview.redd.it/d2Z3cGVuMm81NzNnMT8M5JoCU6oxLdoyS7Nt_nBT8Dw0lJy1WayBzYX4TZAc.png?width=640&crop=smart&auto=webp&s=d645315fffbdb379ac04a21ebc58867776c58d26",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "MotorWatt: DeepWay Company: https://ev.motorwatt.com/ev-manufacturers/deepway From Nic Cruz Patane on \ud835\udd4f: https://x.com/niccruzpatane/status/1992796505284161782"
+    },
+    {
       "title": "What would you use it for?",
       "author": "Full_Connection_2240",
       "url": "https://www.reddit.com/r/robotics/comments/1p5a9r2/what_would_you_use_it_for/",
@@ -57,17 +68,6 @@
       "description": null
     },
     {
-      "title": "Macbook Air M4 for Engineering? (robotics mainly)",
-      "author": "Pizza_Meme_Man",
-      "url": "https://www.reddit.com/r/robotics/comments/1p5bufr/macbook_air_m4_for_engineering_robotics_mainly/",
-      "published": 1763973319.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "What specs to ask before ordering a new robot?",
       "author": "Key-Active-2629",
       "url": "https://www.reddit.com/r/robotics/comments/1p5b5ss/what_specs_to_ask_before_ordering_a_new_robot/",
@@ -112,5 +112,5 @@
       "description": "Hi everyone, I\u2019m Swalihu, a ROS/robotics engineer and founder of SeekSense, a small UK startup exploring semantic navigation for indoor mobile robots. I\u2019m running a short 3\u20134 minute survey to understand how teams currently support tasks like: \u2013 \u201cfind this specific trolley/cart/tool/asset\u201d \u2013 \u201cgo to the visitor kiosk in atrium B / bed 12 in ward C\u201d in warehouses, hospitals, labs and campuses \u2013 and how painful these behaviours are to maintain over time. The context: we\u2019re experimenting with a training-free semantic navigation API (vision\u2013language + mapping + frontier selection), and I\u2019d like to sanity-check whether this is solving a real problem for people deploying ROS/ROS 2 systems. If you\u2019re working with AMRs, AGVs, hospital/campus robots, mobile manipulators or research platforms, and can spare a few minutes. Responses are aggregated and anonymised. With your permission, I may use the results as part of the market-research evidence for a UK Innovator Founder Visa application, and I\u2019m happy to share a short summary of the findings back here once we\u2019ve collected enough data. https://www.seeksense-ai.com/"
     }
   ],
-  "fetched_at": "2025-11-24T11:58:28.512491+00:00"
+  "fetched_at": "2025-11-24T12:58:55.806128+00:00"
 }

@@ -117,20 +117,6 @@
       "site_name": "WIRED"
     },
     {
-      "title": "MicroStrategy Is Dependent on Refinancing Capacity, Not Bitcoin Price",
-      "url": "https://illya.sh/threads/microstrategy-is-dependent-on-refinancing-capacity-not",
-      "hn_url": "https://news.ycombinator.com/item?id=45952935",
-      "author": "iluxonchik",
-      "points": 2,
-      "num_comments": 1,
-      "created_at": "2025-11-17T12:15:20Z",
-      "object_id": "45952935",
-      "image": "https://illya.sh/staticthoughts/data/images/75ce6ec5-31a7-5167-a9cc-d1261b0a643e.jpg",
-      "description": "MicroStrategy Is Dependent On Refinancing Capacity, Not Bitcoin Price  MSTR won't have to sell Bitcoin if BTC price goes down, they'll have to sell Bitcoin if they're unable to acquire funding al...",
-      "favicon": "https://illya.sh/favicon.ico",
-      "site_name": "Illya's Thoughts"
-    },
-    {
       "title": "Post-quantum vaults are live on Bitcoin Cash's Chipnet",
       "url": "https://blog.bitjson.com/quantumroot-on-chipnet/",
       "hn_url": "https://news.ycombinator.com/item?id=46015880",
@@ -143,9 +129,23 @@
       "description": "Quantumroot vaults are now live on Bitcoin Cash's 6-months-ahead preview network. Contracts, testing suite, and transaction generation code now available.",
       "favicon": "https://blog.bitjson.com/content/images/size/w256h256/2021/04/bitjson-bitauth-favicon-1.png",
       "site_name": "bitjson's blog"
+    },
+    {
+      "title": "Billionaire warns 'last time to buy' as Bitcoin crashes",
+      "url": "https://finance.yahoo.com/news/billionaire-warns-last-time-buy-172037475.html",
+      "hn_url": "https://news.ycombinator.com/item?id=45975769",
+      "author": "MarcoDewey",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2025-11-19T04:10:26Z",
+      "object_id": "45975769",
+      "image": "https://media.zenfs.com/en/thestreet_881/0bc724842113f2c7daa14a8487ed1189",
+      "description": "November keeps getting worse for Bitcoin and friends. On Nov. 18, Bitcoin (BTC) dropped below $90,000 after a death cross formation, and was trading at $89,426 before climbing back up. This was the lowest level it had dipped to since April. A death cross refers to a market ...",
+      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
+      "site_name": "Yahoo Finance"
     }
   ],
-  "total_hits": 17,
+  "total_hits": 16,
   "has_metadata": true,
-  "fetched_at": "2025-11-24T11:58:25.211526+00:00"
+  "fetched_at": "2025-11-24T12:58:54.261206+00:00"
 }
