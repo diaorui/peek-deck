@@ -35,17 +35,6 @@
       "description": "MagicLab website: https://www.magiclab.top/en From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1991895323246219551"
     },
     {
-      "title": "Trying to look for the closed form analytical solution for this Amazon bought robotic arm",
-      "author": "hisenberg-up",
-      "url": "https://www.reddit.com/r/robotics/comments/1p511g9/trying_to_look_for_the_closed_form_analytical/",
-      "published": 1763939603.0,
-      "thumbnail": "https://b.thumbs.redditmedia.com/Z7VzVd9aHUhPGVpVe4YyTfnT4xdgU9bWDqfiTmPGoLA.jpg",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "It claims to be a 6DOF but it looks like it only has 5DOF. First image shows the assembled arm, and second shows the transforms diagram. We are trying to find closed form inv kinematics solution and looking to see if that's possible or we will need to try for a numerical approach instead? Any suggestions appreciated."
-    },
-    {
       "title": "TEMAS Pick & Place | Aruco + AI Depthmap",
       "author": "Big-Mulberry4600",
       "url": "https://www.reddit.com/r/robotics/comments/1p5h29d/temas_pick_place_aruco_ai_depthmap/",
@@ -55,6 +44,17 @@
       "site_name": "youtube.com",
       "favicon": "https://www.youtube.com/s/desktop/2731d6a3/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
+      "title": "Trying to look for the closed form analytical solution for this Amazon bought robotic arm",
+      "author": "hisenberg-up",
+      "url": "https://www.reddit.com/r/robotics/comments/1p511g9/trying_to_look_for_the_closed_form_analytical/",
+      "published": 1763939603.0,
+      "thumbnail": "https://b.thumbs.redditmedia.com/Z7VzVd9aHUhPGVpVe4YyTfnT4xdgU9bWDqfiTmPGoLA.jpg",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "It claims to be a 6DOF but it looks like it only has 5DOF. First image shows the assembled arm, and second shows the transforms diagram. We are trying to find closed form inv kinematics solution and looking to see if that's possible or we will need to try for a numerical approach instead? Any suggestions appreciated."
     },
     {
       "title": "AI Robotics: What We Haven\u2019t Solved\u2026 Yet - New Podcast Episode",
@@ -112,5 +112,5 @@
       "description": "Im curious how many others from Figure or other Humanoid Robot companies will start to step forward and speak up. Safety is something that is not talked about enough."
     }
   ],
-  "fetched_at": "2025-11-24T14:23:18.519813+00:00"
+  "fetched_at": "2025-11-24T14:57:00.683334+00:00"
 }

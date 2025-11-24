@@ -5,66 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin mining in China rebounds, defying 2021 ban",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjY4QU9vbS1nM3VydFpkb2U4d0dKYXZjLXFqUzhSQUljbDRrejJfeDhINmQtckZlaTVKTWtsMFpWeG9sczBab1N2bFFWQUhFc0FjdlVhUDIzekl4bDZsZzdFSWdCSW9MOE5jeXBTUGtrRTBRTHRidjVsLWlkLXA3VEZLbXl6RERXaUVUcU1IbVlCdVBHTzJrQ3BNdFBZZ3N4cnhv?oc=5",
-      "pub_date": 1763975155.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/bitcoin-mining-china-rebounds-defying-2021-ban-2025-11-24/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Hobbyist solo miner scores a full Bitcoin block worth $270,000 despite 1 in 180 million odds \u2014 3.146 Bitcoins mined by a single low-powered 6 TH/s ASIC with about 0.0000007% of the network\u2019s hashrate",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGFQbkJtVlo5VXI1RTJyLWhTTmlHcENnLWZYdTdUNHBrSEhOZ01Da1VjWmhPX3hmdk9QbTY4eXdrQTJyOUtkN1NaMW0xRURvU0dNb0V1TUNDZnUyYnhsZ2xPYXkzQzlEOE1NTUhTU2NFWXJKVHVJNFh6eDhkZldQTXJlb1lwLVdiRkwwZGlmbmtNV1ZCMGd3T1ZBa2ptUGxjRzZVU2tZb09zR1BFWVIyelhXTnJ4V0tVNmVxZWRB?oc=5",
-      "pub_date": 1763922426.0,
-      "article_url": "https://www.tomshardware.com/tech-industry/cryptomining/hobbyist-miner-using-a-single-6-ths-asic-mines-full-bitcoin-block",
-      "image": "https://cdn.mos.cms.futurecdn.net/xNgBpUETd9FRLejaNQYZe7-1000-80.jpg",
-      "description": "Solo miner controls roughly 0.0000007\u202f% of the Bitcoin network\u2019s hash\u2011power yet captures full block reward."
-    },
-    {
-      "headline": "Homeland Security Is Reportedly Probing Bitcoin Mining Giant Bitmain for National Security Reasons",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRm84MDJZWmZZaG9JYXdTYTBsR2pTbkhIQWdneG1RM1gxX3dPRjM3ZjNzRWtNeFN6bmlpVnA4bFUtUnYyVlU4RXk1VEo4R2ZSSEZaTWhMWXhtUlBpLVU3aHJNSGdEM1NXR3ZJaDNra09ZdmpuclMtTlN5NDB3akRaTHRnS2hCYUJ0X09Kby1FV1F4MmF5aGdOaXJra0ZoQmJSUDNwSnFaQTJkenFLRHJkN1lMZG43eGlJZFZvdnlMZWdSdWxZaVV1OA?oc=5",
-      "pub_date": 1763892014.0,
-      "article_url": "https://gizmodo.com/homeland-security-is-reportedly-probing-bitcoin-mining-giant-bitmain-for-national-security-reasons-2000689746",
-      "image": "https://gizmodo.com/app/uploads/2024/10/sec-bitcoin-hack-arrest.jpg",
-      "description": "And there's an additional Trump family connection."
-    },
-    {
-      "headline": "Crypto Crash Is Eroding Wealth for Trump\u2019s Family and Followers",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdV9FOFNpMi1aTWs0bGk4bmM0VWJZTXBGOThlWG15bVlJUU5IX0pmYWEwZG9tbElVQ3pCb0o4TjRuRndVUzVub043ellwbnNEZHpEb0c2TzlSeEFBSUFQVXp3VlYxNUE4M3kwN3FpLXp3ZGI2ZjlsVDRCOG15eGxKdUxlaEpGWGdvZlppeVE5d1UyMHVGQ1FLNk53U0IzcXRsT0IyM0NOeV9VSllpS2JpWVRLcGxTaUd3dnd2WDZwVQ?oc=5",
-      "pub_date": 1763990223.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-23/bitcoin-crash-hits-crypto-wealth-of-donald-trump-s-family-and-followers",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iX1a_vkKbTYI/v2/1200x800.jpg",
-      "description": "In President Donald Trump\u2019s second term, crypto assets transformed his family\u2019s wealth. Now the Trumps \u2014 and their followers \u2014 are getting a crash course in the wild volatility ingrained in digital currencies."
-    },
-    {
-      "headline": "Why bitcoin\u2019s brutal drop from an October record high is now a crucial barometer for the broader market",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPaVdSekZkcVRna1hIdmtwU3ptRUx2c09zUklDeUk1N21FeVVta1V0SjhFdnBxSWRxNTRaNUtGMk14ek9mOUhNMDlCY196bkw4dFhQOU94cUtZUWZBcmNfdEVCVDhSQUE1Q0Vtd1VHT3k4cDNaTWRUelVuTVFOQjZuMXp6NGc1VHlKUG5HdWVwLXFkTnI5VnYyTk9OZUFGSG9BRl9BSGR6d285NGFETUs2Sm9ibmY5bXVpaDhpUlJOS0xHdE5iQlVNeGt6VGZ5d2FrN2Fjakp1YTE4N1JQZUd2NTRpR094eXAzeHdrSkxzWUozMjEzVGNaUW9EYXBwZl9zRXNlYmxIajRoajJoSHNPZWtPMzlvei1rZFNGVlFwVUY1bUNvUTdyOEs4UWVOSTcxRXAyVVNDTkZ2TDlRN3NCREFuWjM3eEpURzZLSjZBWGFSemo3WmtpYTNqVWM0N3pjUHVnRjFzbFRkWGJBamwyeloyYnMtSHlLMHlZMDZISUY4X1gxQ3pYdnhZaGlTYWY1VGhBNUhNZEV3dlNrUHozMl9GYW4tcWt4Y3FkRC1HT21TaTBjN0JNby03c2VvWEJBcWdoWnpMcjhDN2Qydk9mWTJwbndYb3BlcGhSU21vbGtZUVE?oc=5",
-      "pub_date": 1763818860.0,
-      "article_url": "https://www.marketwatch.com/story/why-bitcoins-brutal-drop-from-an-october-record-high-is-now-a-crucial-barometer-for-the-broader-market-6193e69a?gaa_at=eafs&gaa_n=AWEtsqcg6PSR1xBaGPPUE4lmJWZKcovwqo8rYbNBcxa6ghHcGAFhnK1n2KQ3&gaa_ts=69246d88&gaa_sig=2r3tBwBQOrFP_4ogDYlEAvaJnkB62Gq2OR_sFuskcBdVxy1Kurx1QDphdatBJI7tnGiO1QkGDpFA2OaiaZfcMw%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Will Bitcoin Hit $250,000 by 2026? We Asked ChatGPT",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlVFZhOFdiOXlEajdiLTFKY0ZuMXpxUktkY05xNTN1WDFueUE3UlVvTnhoUnVwVHFIMWhBY1lyWURZMVVFOTRrTmJiNWZmTUx2TnJwSXJFNVgyWHRqMkQ4TlBkWVMzcFRuVmNVVGF2aWEwaTJpOVlRYWZn?oc=5",
-      "pub_date": 1763899335.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-hit-250-000-2026-120215854.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/SOTIffjRXMo2r1Dkdj.ZEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/910a345e33f11d761130412829966ac2",
-      "description": "Predictions of a $250,000 Bitcoin by 2026 have resurfaced. Critics argue the forecast is unrealistic. CCN asked ChatGPT and Grok for their outlooks. Predictions that ..."
-    },
-    {
       "headline": "Bitcoin Price (BTC) News: $40B in ETF Volume Signals Institutional Capitulation",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
@@ -85,14 +25,54 @@
       "description": null
     },
     {
-      "headline": "Bitcoin Sell-Off Deepens, Cathie Wood Buys These Crypto Stocks.",
+      "headline": "Bitcoin Funds Set for Worst Month as Investors Yank $3.5 Billion",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQajdJdkhIeU1qQUFONUR1TW55bjAzMzJyODY0QW5TMzJTLWd2MjlCUzExR3RuR1h0WXNtQTFGbmJxSVk1NFZJcWJqZ3N4ampwSzZ1aTVXa2pBbnoxaE9WZnlCTVlwMkJSeEo3SkxBVzl6ZGl4TFg5ZWZDZy1QZTUyVTJjRUNpb2dQUFBvWUN5Wkp5WmJNTzdkQ2V3ajBjbFlpbGg2bnFFQmdHUzNRaV9VTWZfM245V3RiQ2c?oc=5",
+      "pub_date": 1763982795.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-24/bitcoin-btc-funds-set-for-worst-month-as-investors-yank-3-5-billion",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8gS4EdvPWfc/v1/1200x800.jpg",
+      "description": "Exchange-traded funds investing in Bitcoin are heading for their worst month of outflows since launching nearly two years ago, piling yet more pressure on a jaded crypto market."
+    },
+    {
+      "headline": "Bitcoin mining in China rebounds, defying 2021 ban",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjY4QU9vbS1nM3VydFpkb2U4d0dKYXZjLXFqUzhSQUljbDRrejJfeDhINmQtckZlaTVKTWtsMFpWeG9sczBab1N2bFFWQUhFc0FjdlVhUDIzekl4bDZsZzdFSWdCSW9MOE5jeXBTUGtrRTBRTHRidjVsLWlkLXA3VEZLbXl6RERXaUVUcU1IbVlCdVBHTzJrQ3BNdFBZZ3N4cnhv?oc=5",
+      "pub_date": 1763975155.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/bitcoin-mining-china-rebounds-defying-2021-ban-2025-11-24/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin\u2019s trading around $86,000. The \u2018Tinkerbell\u2019 effect is haunting crypto, says Deutsche Bank",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPMWlPWTM5QzVvZ3pSWUpWRzRybGhtX1RueXg1anFJTDFMWE5tWXJuU2czZlUtQVM3eklLemdNU29LVmJNeW9NWVozQ2dLUXVTQ1YtU1VfMkhZRXc4T0VQYVhGRDVRc2w1YUoxSmxOTmRGR196MkJ3cWhabm1ZOFBZRmN6QVlIc21jUjRIRGxwbVhvVzZJbW1nOWNFTHhiSzhZZldOQjJMSS1kZS13SEFvRW91dFZmQmZmcTY1RFgyLXZrOHQwOFRuZlFKY3piOVZBdHZnWW9fbjdDLWhxaU5kN0l1a3NRZ3h3WngwaFRweC1TZ0lSY0JuX2w0a29QakFwRk1XRE5CNWhPa0pKbkpVVEswWmNrclR1Vzl0YlRUek9GVkZoSklYbTM4VEVRbndTdXlRTHdCZTNsU0hWekdaZ0JSMnZRQTM3Y2lMZzN5Vk04MDIzMHZONnFmVlpRVGxqeV9Gb2tpVlZhSk8zbzRMNlVWN19UeC1panFBV1F3amdDZDJJWVFxd2FxNUp6MVdPX19FcHZ2ZmtFeXlZQVZFTGdkZmRZZ3R0ajJTa1VxeTlPS2xRellsVUJ0X0RjYlNxZVBXR21oT3FyM3ppUGxVenBJQQ?oc=5",
+      "pub_date": 1763984640.0,
+      "article_url": "https://www.marketwatch.com/story/bitcoins-trading-around-86-000-the-tinkerbell-effect-is-haunting-crypto-says-deutsche-bank-aff9f2f7?gaa_at=eafs&gaa_n=AWEtsqcRjBEPfda-0iBR13mb8DwYihRyySCWS8u8rBpwhShUt_4JdVy9FzDx&gaa_ts=692475bd&gaa_sig=MyfsFmzvCmfBx3CSprDPE0GI4EgTOSut5RMKNZY7MWDUCWadiiC6bb0NlYvQ2Zu_YRC47t0kSMFDiWc22SCBxg%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Tries To Find Footing; JPMorgan Upgrades These 2 Miners, Cuts Targets For Others",
       "source": "Investor's Business Daily",
       "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc01JdmRrOTB0M2l2cktXYjV2RzQyak9xV1FMcVA1aElTR1dFdXhnQlFhTWFfNGVGMm5jV3R1eHNuVlJ4NE5CS1JNY0VnT25UWXpOYWZhdUgzeUd1YW9nQmNHaVVacDF6VjdvUXE5RjZHZDVoV2lnMTl3akJBcFJWZG1rQllIOFJvNl9oeFNhMmdhLTdoSHowRm44bVBhd2tNdXpZdmdMU0RxN0h4NzFLUGEtaUdHaDExU05MTTBLTkxrSkVNUV9OOUdKRQ?oc=5",
-      "pub_date": 1763760480.0,
-      "article_url": "https://www.investors.com/news/bitcoin-price-low-liquidation-etf-outflows-cathie-wood-ark-invest-crypto-stocks-coin-blsh-crcl-bmnr/",
-      "image": "https://www.investors.com/wp-content/uploads/2017/12/stock-bitcoin-09-adobe.jpg",
-      "description": "Crypto retreat worsens amid bitcoin liquidations, ETF outflows. Cathie Wood, ARK Invest buy Coinbase, Circle, and more."
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSlpHaF9ObkRkak16bGNYZV9icDg3LTEyVUJBbkNfTmFqVW9sRkZtU25ZdEtZVEZRYzZMdjdRVU1aZ3AtMzFBb0daSGFOVW5mUFlTekYzcVo3MjAyQnJfak5iMTBjUFVpNEM1LXN4VElpazQyMlRLRlNlWXQ1STNqQi12NmI3bjh4VU1aTzI1VFFUSHA3MFJkQWwyTzQ?oc=5",
+      "pub_date": 1763991840.0,
+      "article_url": "https://www.investors.com/news/bitcoin-jpmorgan-bitcoin-miners-cleanspark-cipher-iren-mara-riot/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Will Bitcoin Hit $250,000 by 2026? We Asked ChatGPT",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlVFZhOFdiOXlEajdiLTFKY0ZuMXpxUktkY05xNTN1WDFueUE3UlVvTnhoUnVwVHFIMWhBY1lyWURZMVVFOTRrTmJiNWZmTUx2TnJwSXJFNVgyWHRqMkQ4TlBkWVMzcFRuVmNVVGF2aWEwaTJpOVlRYWZn?oc=5",
+      "pub_date": 1763899335.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-hit-250-000-2026-120215854.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/SOTIffjRXMo2r1Dkdj.ZEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/910a345e33f11d761130412829966ac2",
+      "description": "Predictions of a $250,000 Bitcoin by 2026 have resurfaced. Critics argue the forecast is unrealistic. CCN asked ChatGPT and Grok for their outlooks. Predictions that ..."
     },
     {
       "headline": "Is XRP the Next Bitcoin?",
@@ -103,8 +83,28 @@
       "article_url": "https://www.fool.com/investing/2025/11/24/is-xrp-the-next-bitcoin/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843791%2Fbitcoin-coin-on-a-chip-1320779972.jpg&w=1200&op=resize",
       "description": "Bitcoin's epic rally over the last decade has inspired some investors to seek the next breakout cryptocurrency candidate."
+    },
+    {
+      "headline": "Is Wall Street\u2019s $5.4B MSTR Dump Behind Bitcoin\u2019s Price Plunge?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NOU9wbUxzUGpJTnI1MGdxSEphbUhIMHA2UklycDVBQmZYUkdiN1FTY18wckw5dkJHWUR3WmMwMzBkWFBRTWMwZWhZMDI1ZkdDa2F1UDZGc1JWME1qQk85Q0FNVnJPeEROX0xOS01ybFJEM2R5THc?oc=5",
+      "pub_date": 1763980335.0,
+      "article_url": "https://finance.yahoo.com/news/wall-street-5-4b-mstr-103215127.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/oHrr5FLgA35RcC8j3Y2ssA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/4a68d9b85063594709abbc9f9f16d25b",
+      "description": "Institutional investors slashed their Strategy exposure by $5.38 billion in Q3 2025. MSTR is increasingly being used as a proxy hedge for Bitcoin, according to ..."
+    },
+    {
+      "headline": "Strategy Updates Its Bitcoin Moves on Monday. Why It\u2019s a Big Deal for the Stock and Cryptos.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOcmFNbE96ckVxTFJKSGZZcDZYZjktMVFTbGpfZXdadGZYbUtueDdxcDFUNG5BU2h6T3ozOG43dml2N2Zic0QzRlJ0NDhZVDVvakp0ZVc2ZWhjU0RNZkNQbHVjWGoyS3kxb3RZeUlpams0c0dQWXllZ25iVTRUc0R0MXlHYzE5NzJlNE1tNmpOS1RXSnl4eE9FUzB2NFAtVWloVU5mZnlFdGpBM2pGTDRlV1RUR3RQWWdUYVhudmRBMWJaSktIZ2cwODZGQkFXSVNJRnlKNWNIZjBEeXphYU1SbS0waGY4UDJHa0U4c0lmbjVWTC1XR0hrUFlmOElpM3VEQkx5aDBYQ3phcUxrblh4bVhQZllQYy1HWGZER2R2SEcweU5hWks2TU1qUlVYVUdvM1BmSy1GZC1DcmJzeUlwRHh0SDNibV9fcTRqYUJmblM5d3QtVXdoQk9xc3Q1X01iUzVJNVZ1eTdmZ3Fka3htTmJsNEhVenJWQk94NFhXQVJpTUNsanZQNVQzaXA0Vnd5VDNtZQ?oc=5",
+      "pub_date": 1763960460.0,
+      "article_url": "https://www.barrons.com/articles/strategy-stock-bitcoin-cryptos-microstrategy-176e8def?gaa_at=eafs&gaa_n=AWEtsqc0b43TpHAVEGMFsq2RlnM0hLAQK1eTxvl1R7RjfvOZJa2W5e3P8SOt&gaa_ts=692475bd&gaa_sig=seeiIMzKHWTErJgZK6rXx3Drxgh6pb2TYyMMrBgvBrGGNKRX1dkr1C75tInVjNS6giIbPOc3HNnmDVKKjuzHbg%3D%3D",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T14:23:37.400507+00:00"
+  "fetched_at": "2025-11-24T14:57:24.307566+00:00"
 }

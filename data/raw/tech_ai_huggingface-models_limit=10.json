@@ -37,7 +37,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Supertone/supertonic.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68ef1b2d04f0f03d81974536/XltzYlfCoWTzfqimzt5j7.png",
       "downloads": 2298,
-      "likes": 217,
+      "likes": 218,
       "pipeline_tag": "text-to-speech",
       "num_parameters": null,
       "last_modified": "2025-11-22T01:39:33.000Z"
@@ -135,12 +135,12 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/eigen-ai-labs/eigen-banana-qwen-image-edit.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6514d59cf95f39fd02acd9dc/oELb680wyZPzGhhO-w1pG.png",
       "downloads": 436,
-      "likes": 216,
+      "likes": 217,
       "pipeline_tag": "text-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-16T04:54:03.000Z"
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-11-24T14:23:14.230063+00:00"
+  "fetched_at": "2025-11-24T14:56:56.647946+00:00"
 }

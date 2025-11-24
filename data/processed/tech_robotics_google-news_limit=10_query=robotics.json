@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Remote Robotics Could Widen Access to Stroke Treatment",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZdHlKbC1HQTV1YkpYVnUyc2JpVmt6dlAtS2N4MXViT2VDWVQtS0Z4OUVKT01BS19MLXBaR3hwQU1QT2dKSVNYdFFFTnNpNmFVYjcyZlJQSER5cGEzbUlDbDQ1VnE1NHFKMXVVdnpR0gGCAUFVX3lxTE1HUjJoM2NJMW4wQmkwNUVzcFFoR3A1NGx6Y25UU3RFYWZweEJBR29QQlJDWUI2c2pFMnRtaVJGcjFFa2FsX1R6cXFzRUpfanBPelh1SDloWDNnTnNEY0M2aDJXeWNnTjlleUpxX0QxNGhoSTRVcHhudEdMaEhYOWROQlE?oc=5",
-      "pub_date": 1763994086.0,
-      "article_url": "https://spectrum.ieee.org/remote-robotic-stroke-treatment-evt",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62225322&width=1200&height=600&coordinates=0%2C84%2C0%2C141",
-      "description": "Could telerobotics be the key to faster stroke treatment in rural areas? Soon, surgeons may perform lifesaving procedures from miles away."
-    },
-    {
       "headline": "Warren County Community College launches new robotics and AI degree program",
       "source": "lehighvalleylive",
       "source_url": "https://www.lehighvalleylive.com",
@@ -23,6 +13,16 @@
       "article_url": "https://www.lehighvalleylive.com/warren-county/2025/11/warren-county-community-college-launches-new-robotics-and-ai-degree-program.html",
       "image": "https://www.lehighvalleylive.com/resizer/v2/E3KN43Q3KVC5FCRO2SDVMWGP6Y.JPG?auth=666814ac85b1527dfb569d64648557eb5264b59ce29707a3a63b0a96ec306ccd&width=1280&smart=true&quality=90",
       "description": "The interdisciplinary associate degree combining five technological areas and featuring evening classes is designed for working professionals and recent graduates."
+    },
+    {
+      "headline": "Remote Robotics Could Widen Access to Stroke Treatment",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZdHlKbC1HQTV1YkpYVnUyc2JpVmt6dlAtS2N4MXViT2VDWVQtS0Z4OUVKT01BS19MLXBaR3hwQU1QT2dKSVNYdFFFTnNpNmFVYjcyZlJQSER5cGEzbUlDbDQ1VnE1NHFKMXVVdnpR0gGCAUFVX3lxTE1HUjJoM2NJMW4wQmkwNUVzcFFoR3A1NGx6Y25UU3RFYWZweEJBR29QQlJDWUI2c2pFMnRtaVJGcjFFa2FsX1R6cXFzRUpfanBPelh1SDloWDNnTnNEY0M2aDJXeWNnTjlleUpxX0QxNGhoSTRVcHhudEdMaEhYOWROQlE?oc=5",
+      "pub_date": 1763994086.0,
+      "article_url": "https://spectrum.ieee.org/remote-robotic-stroke-treatment-evt",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62225322&width=1200&height=600&coordinates=0%2C84%2C0%2C141",
+      "description": "Could telerobotics be the key to faster stroke treatment in rural areas? Soon, surgeons may perform lifesaving procedures from miles away."
     },
     {
       "headline": "Figure AI sued by whistleblower who warned that startup's robots could 'fracture a human skull'",
@@ -75,6 +75,16 @@
       "description": "Police departments and universities are among the growing number of U.S. customers for the market-leading Chinese robot maker, Unitree."
     },
     {
+      "headline": "Top Key Players Shaping the Future of the Artificial Intelligence (AI) Robots Industry",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUjdrTzBNMUxEbWVER0UtVHpMNUlfa2MtUjAydnBUek81c0lWaGxYWm1DcEVaV3JZY0VaUG9mTUFSQmpwYVFPcGdfbW9MQ1VTTzV5MDRUR0YxTDJlZjBpalZoR0U2YVpsbFBOLURFTWxEU0RxcXptNmhNZjlWLXVQb3RR?oc=5",
+      "pub_date": 1763994600.0,
+      "article_url": "https://finance.yahoo.com/news/top-key-players-shaping-future-143000751.html",
+      "image": "https://media.zenfs.com/en/globenewswire.com/d4c3eb630bf83da5a3947696840b275d",
+      "description": "Delray Beach, FL , Nov. 24, 2025 (GLOBE NEWSWIRE) -- The artificial intelligence robots market is being shaped by a select group of established industrial and electronics giants that combine decades of robotics experience with rapid advances in AI. Companies such as Nabtesco Corporation, NIDEC CORPORATION, Panasonic Corporation, YASKAWA ELECTRIC CORPORATION, and ABB bring complementary strengths precision actuation, high-efficiency motors, sensing and control systems, industrial automation platf"
+    },
+    {
       "headline": "This startup bucked mainstream robotics training methods to teach a robot how to load the dishes",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.therobotreport.com/armstrong-robotics-creating-general-purpose-kitchen-robots-starting-dishwashing/",
       "image": "https://www.therobotreport.com/wp-content/uploads/2025/11/armstrong-featured.jpg",
       "description": "Armstrong Robotics has already deployed autonomous dishwashing robots at restaurants for a year and a half."
-    },
-    {
-      "headline": "Whistleblower lawsuit claims Figure AI robots have the strength to fracture skulls",
-      "source": "Notebookcheck",
-      "source_url": "https://www.notebookcheck.net",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdm5uSEFNRGlpZjc5MjZxZ2o2ZGpHTENxOWVuV0p2c0tVVGdrT1JFZU5vY1M4WlRCbXo1THMxbm9RUVJ0eUJ3Z3hYdnd2M1cxQWc1cXN6Zmh1MDZUc2JTamI2c0dtOEt3Wm9Sbmk0UkQ2eGJsNnFDT0hzYU5vSUNtQndkVzBOTjE1amhuTTRqTzhOcTlwQkhKX2VsQWpmUVVtWTBGSkVpRFBhUE1VUmpnc3N0TjlKY01nOHdGLXROYkhPc3hUSkE?oc=5",
-      "pub_date": 1763903100.0,
-      "article_url": "https://www.notebookcheck.net/Whistleblower-lawsuit-claims-Figure-AI-robots-have-the-strength-to-fracture-skulls.1169124.0.html",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Figure-AI-Receiptionist.png",
-      "description": "Former safety chief claims Figure AI's humanoid robots can fracture skulls and alleges he was fired for raising concerns. The robotics startup, now valued at $39 billion with backing from Nvidia and Jeff Bezos, denies wrongdoing and cites poor performance as the reason for termination."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T14:23:32.951362+00:00"
+  "fetched_at": "2025-11-24T14:57:16.189809+00:00"
 }
