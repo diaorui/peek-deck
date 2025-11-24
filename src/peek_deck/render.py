@@ -31,11 +31,12 @@ def render_all():
     # Initialize cache
     cache = Cache(cache_dir)
 
-    # Load index config (for base_url, github_url, and SEO)
+    # Load index config (for base_url, github_url, google_analytics_id, and SEO)
     index_config_file = project_root / "config" / "index.yaml"
     index_config = None
     base_url = None
     github_url = None
+    google_analytics_id = None
 
     if index_config_file.exists():
         try:
@@ -44,6 +45,7 @@ def render_all():
                 if index_config:
                     base_url = index_config.get('base_url')
                     github_url = index_config.get('github_url')
+                    google_analytics_id = index_config.get('google_analytics_id')
         except Exception as e:
             print(f"⚠️  Failed to load config/index.yaml: {e}")
 
@@ -140,7 +142,8 @@ def render_all():
                 project_name=PROJECT_NAME,
                 project_tagline=PROJECT_TAGLINE,
                 base_url=base_url,
-                github_url=github_url
+                github_url=github_url,
+                google_analytics_id=google_analytics_id
             )
 
             # Save page HTML to flat structure: docs/{page_id}.html
@@ -214,13 +217,15 @@ def generate_index(page_files: list, docs_dir: Path, templates_dir: Path, index_
     for category in pages_by_category:
         pages_by_category[category].sort(key=lambda p: p.name)
 
-    # Extract base_url, github_url, and description from config
+    # Extract base_url, github_url, google_analytics_id, and description from config
     base_url = None
     github_url = None
+    google_analytics_id = None
     index_description = None
     if index_config:
         base_url = index_config.get('base_url')
         github_url = index_config.get('github_url')
+        google_analytics_id = index_config.get('google_analytics_id')
         if 'seo' in index_config:
             index_description = index_config['seo'].get('description')
 
@@ -248,7 +253,8 @@ def generate_index(page_files: list, docs_dir: Path, templates_dir: Path, index_
         project_tagline=PROJECT_TAGLINE,
         index_description=index_description,
         base_url=base_url,
-        github_url=github_url
+        github_url=github_url,
+        google_analytics_id=google_analytics_id
     )
 
     # Save index.html
