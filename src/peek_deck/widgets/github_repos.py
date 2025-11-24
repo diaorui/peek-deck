@@ -1,6 +1,7 @@
 """GitHub trending repositories widget using GitHub Search API."""
 from ..core.output_manager import OutputManager
 
+import os
 from datetime import datetime, timezone, timedelta
 from typing import Any, Dict, List
 
@@ -57,9 +58,18 @@ class GithubReposWidget(BaseWidget):
                 "per_page": limit
             }
 
+            # Use GitHub token if available (from GitHub Actions or local .env)
+            # GITHUB_TOKEN: 1,000 req/hour, PAT: 5,000 req/hour
             headers = {
                 "Accept": "application/vnd.github.v3+json"
             }
+            github_token = os.getenv("GITHUB_TOKEN")
+            if github_token:
+                headers["Authorization"] = f"Bearer {github_token}"
+                OutputManager.log("🔑 Using GitHub token for authentication (1,000 req/hour)")
+            else:
+                OutputManager.log("ℹ️  No GitHub token found, using unauthenticated API (60 req/hour)")
+
             response = client.get(url, params=params, headers=headers, response_type="json")
 
             # Get metadata extractor for preview images
