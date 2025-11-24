@@ -13,6 +13,17 @@
       "description": "The model policy team leads core parts of AI safety research, including how ChatGPT responds to users in crisis."
     },
     {
+      "title": "Nvidia Is Advertising Partnerships With Firms Partly Owned By The Chinese Communist Party",
+      "author": "forbes",
+      "url": "https://www.reddit.com/r/artificial/comments/1p5j4rc/nvidia_is_advertising_partnerships_with_firms/",
+      "published": 1763996120.0,
+      "thumbnail": "https://external-preview.redd.it/3vd4BtHJSopQiafbUMqPgit1LKTzzloFxmBY3jtfOrk.jpeg?width=640&crop=smart&auto=webp&s=23e2d514823ad0683840662b06ab0565c9126f6e",
+      "external_url": "https://go.forbes.com/l8nhoy",
+      "site_name": "Forbes",
+      "favicon": "https://i.forbesimg.com/57X57-F.png",
+      "description": "The chipmaker\u2019s website touts its work with companies like ZTE, which has been effectively banned from selling its products in the U.S. over national security concerns."
+    },
+    {
       "title": "Elon Musk\u2019s Grok chatbot ranks him as world history\u2019s greatest human | Users on X shared examples of the \u201ctruth-seeking\u201d AI chatbot praising its owner as \u201cstrikingly handsome,\u201d a \u201cgenius\u201d and fitter than LeBron James.",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1p4ni1d/elon_musks_grok_chatbot_ranks_him_as_world/",
@@ -22,6 +33,17 @@
       "site_name": "washingtonpost.com",
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Deep Research Agent, an autonomous research AI agent",
+      "author": "martian7r",
+      "url": "https://www.reddit.com/r/artificial/comments/1p5j6o4/deep_research_agent_an_autonomous_research_ai/",
+      "published": 1763996249.0,
+      "thumbnail": "https://external-preview.redd.it/dWc0M3lxeGh5NzNnMXYKxvwpmRJR_6Wuut5rPoqfAX7yC2Fpp67_z2jaY8Dw.png?width=640&crop=smart&auto=webp&s=3f59eb430572d00541ce745fd0e16a97bdce4241",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Repository: https://github.com/tarun7r/deep-research-agent Most \"research\" agents just summarise the top 3 web search results. I wanted something better. I wanted an agent that could plan, verify, and synthesize information like a human analyst. How it works (The Architecture): Instead of a single LLM loop, this system orchestrates four specialised agents: 1. The Planner: Analyzes the topic and generates a strategic research plan. 2. The Searcher: An autonomous agent that dynamically decides what to query and when to extract deep content. 3. The Synthesizer: Aggregates findings, prioritizing sources based on credibility scores. 4. The Writer: Drafts the final report with proper citations (APA/MLA/IEEE) and self-corrects if sections are too short. The \"Secret Sauce\": Credibility Scoring One of the biggest challenges with AI research is hallucinations. To solve this, I implemented an automated scoring system. It evaluates sources (0-100) based on domain authority (.edu, .gov) and academic patterns before the LLM ever summarizes them Built With: Python, LangGraph & LangChain, Google Gemini API, Chainlit I\u2019ve attached a demo video below showing the agents in action as they tackle a complex topic from scratch. Check out the code, star the repo, and contribute"
     },
     {
       "title": "Unemployment could hit 25% among recent grads and trigger 'unprecedented' social disruption thanks to AI, U.S. senator warns",
@@ -35,15 +57,15 @@
       "description": "AI could create a generation further burdened with student loan debt\u2014and no job to repay it, according to Sen. Mark Warner."
     },
     {
-      "title": "Nvidia Is Advertising Partnerships With Firms Partly Owned By The Chinese Communist Party",
-      "author": "forbes",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5j4rc/nvidia_is_advertising_partnerships_with_firms/",
-      "published": 1763996120.0,
-      "thumbnail": "https://external-preview.redd.it/3vd4BtHJSopQiafbUMqPgit1LKTzzloFxmBY3jtfOrk.jpeg?width=640&crop=smart&auto=webp&s=23e2d514823ad0683840662b06ab0565c9126f6e",
-      "external_url": "https://go.forbes.com/l8nhoy",
-      "site_name": "Forbes",
-      "favicon": "https://i.forbesimg.com/57X57-F.png",
-      "description": "The chipmaker\u2019s website touts its work with companies like ZTE, which has been effectively banned from selling its products in the U.S. over national security concerns."
+      "title": "I build a Job board for AI Prompt Engineers and more!",
+      "author": "pk9417",
+      "url": "https://www.reddit.com/r/artificial/comments/1p5jcbx/i_build_a_job_board_for_ai_prompt_engineers_and/",
+      "published": 1763996621.0,
+      "thumbnail": null,
+      "external_url": "https://aijobboard.dev/",
+      "site_name": "AIJobBoard.dev",
+      "favicon": "https://aijobboard.dev/favicon.ico",
+      "description": "Hey everyone, I\u2019ve been working the last weeks on something for the AI community and finally pushed it live. I built a small niche job board focused only on Prompt Engineers, AI Agent Builders and Automation Developers. Why? Because more and more companies want people who can work with LLMs, RAG, Make.com, n8n, agent frameworks and AI automation \u2013 but these roles are scattered across hundreds of places. So I created a simple place where companies can post AI-focused roles and where AI developers can check regularly for new opportunities. Already added 20+ real AI job listings to get it started. If you\u2019re into Prompt Engineering or AI automation, or if your company is hiring for these roles, feel free to take a look. Feedback is welcome \u2013 especially what features would make it more useful for you. Thanks!"
     },
     {
       "title": "It's been a big week for AI Agents ; Here are 10 massive developments you might've missed:",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I tried building a small Python project recently with AI help, and it made the whole thing way less intimidating. Now I\u2019m trying to figure out which AI coding assistant is actually worth sticking with. Claude is great at explaining concepts, GPT feels better at reasoning through tricky logic, and I\u2019ve seen Sweep AI pop up for people who want project-level help directly inside JetBrains instead of switching back and forth with chat. Which model or tool gave you the best balance between learning, accuracy, and speed? And do you feel like it improved your actual understanding of coding over time?"
-    },
-    {
-      "title": "Anthropic Study Finds AI Model \u2018Turned Evil\u2019 After Hacking Its Own Training",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4oxil/anthropic_study_finds_ai_model_turned_evil_after/",
-      "published": 1763910417.0,
-      "thumbnail": "https://external-preview.redd.it/osHy4adb0yeCFM-bvc49ieATBTlzBZn_cVpX48jR5HM.jpeg?width=640&crop=smart&auto=webp&s=c55dab21dccc58bb2183ed6ea05f602f4bef3163",
-      "external_url": "https://time.com/7335746/ai-anthropic-claude-hack-evil/",
-      "site_name": "TIME",
-      "favicon": "https://time.com/favicon/apple-touch-icon.png",
-      "description": "In a new paper, Anthropic reveals that a model trained like Claude began acting \u201cevil\u201d after learning to hack its own tests."
-    },
-    {
-      "title": "Top Economist Warns That AI Data Center Investments Are \"Digital Lettuce\" That's Already Starting to Wilt",
-      "author": "wiscowall",
-      "url": "https://www.reddit.com/r/artificial/comments/1p48ozo/top_economist_warns_that_ai_data_center/",
-      "published": 1763857534.0,
-      "thumbnail": "https://external-preview.redd.it/XcPdyW3-EPYiOmVSWjmNYP8nT3UkOsg3yipsHjA3pmg.jpeg?width=640&crop=smart&auto=webp&s=e50c519708496e22c88c1a8f7b7a9d6492f85f8c",
-      "external_url": "https://futurism.com/artificial-intelligence/economist-ai-investments-digital-lettuce",
-      "site_name": "Futurism",
-      "favicon": "https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180",
-      "description": "economist and author David McWilliams told Fortune that AI hardware investments are \"digital lettuce\" that are going to go \"off.\""
     }
   ],
-  "fetched_at": "2025-11-24T14:56:59.191522+00:00"
+  "fetched_at": "2025-11-24T15:29:44.358626+00:00"
 }

@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2511.10647",
       "arxiv_url": "https://arxiv.org/abs/2511.10647",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.10647.png",
-      "upvotes": 82,
+      "upvotes": 83,
       "num_comments": 4,
       "published_at": "2025-11-13T13:59:53.000Z",
       "github_repo": "https://github.com/ByteDance-Seed/depth-anything-3",
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16334",
       "arxiv_url": "https://arxiv.org/abs/2511.16334",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16334.png",
-      "upvotes": 68,
+      "upvotes": 69,
       "num_comments": 1,
       "published_at": "2025-11-20T08:11:45.000Z",
       "github_repo": "https://github.com/EvolvingLMMs-Lab/OpenMMReasoner",
@@ -107,7 +107,7 @@
       "hf_url": "https://huggingface.co/papers/2410.05779",
       "arxiv_url": "https://arxiv.org/abs/2410.05779",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.05779.png",
-      "upvotes": 17,
+      "upvotes": 18,
       "num_comments": 0,
       "published_at": "2024-10-08T04:00:12.000Z",
       "github_repo": "https://github.com/hkuds/lightrag",
@@ -164,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2511.15705",
       "arxiv_url": "https://arxiv.org/abs/2511.15705",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.15705.png",
-      "upvotes": 47,
+      "upvotes": 57,
       "num_comments": 2,
       "published_at": "2025-11-19T13:59:22.000Z",
       "github_repo": "https://github.com/ekonwang/GeoVista",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-24T14:23:15.313062+00:00"
+  "fetched_at": "2025-11-24T15:29:43.344233+00:00"
 }

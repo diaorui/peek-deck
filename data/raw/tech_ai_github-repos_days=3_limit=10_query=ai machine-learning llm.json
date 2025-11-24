@@ -8,9 +8,9 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
-      "stars": 79573,
+      "stars": 79582,
       "stars_display": "79.6k",
-      "forks": 11829,
+      "forks": 11831,
       "forks_display": "11.8k",
       "language": "Jupyter Notebook",
       "topics": [
@@ -42,7 +42,7 @@
         "distributed",
         "hyperparameter-optimization"
       ],
-      "updated_at": "2025-11-24T13:40:41Z"
+      "updated_at": "2025-11-24T15:25:39Z"
     },
     {
       "full_name": "deepset-ai/haystack",
@@ -64,7 +64,7 @@
         "gemini",
         "generative-ai"
       ],
-      "updated_at": "2025-11-24T13:47:06Z"
+      "updated_at": "2025-11-24T15:14:47Z"
     },
     {
       "full_name": "arc53/DocsGPT",
@@ -108,7 +108,7 @@
         "artificial-intelligence",
         "deep-learning"
       ],
-      "updated_at": "2025-11-24T14:00:55Z"
+      "updated_at": "2025-11-24T15:18:11Z"
     },
     {
       "full_name": "Netflix/metaflow",
@@ -155,6 +155,28 @@
       "updated_at": "2025-11-24T12:05:33Z"
     },
     {
+      "full_name": "evidentlyai/evidently",
+      "name": "evidently",
+      "owner": "evidentlyai",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/75031056?v=4",
+      "description": "Evidently is \u200b\u200ban open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+      "url": "https://github.com/evidentlyai/evidently",
+      "preview_image": "https://opengraph.githubassets.com/d95168632cd2eab60b655c44f67159166e65c4a4d5116d8af912d34f0dab05f4/evidentlyai/evidently",
+      "stars": 6851,
+      "stars_display": "6.9k",
+      "forks": 752,
+      "forks_display": "752",
+      "language": "Jupyter Notebook",
+      "topics": [
+        "data-drift",
+        "data-quality",
+        "data-science",
+        "data-validation",
+        "generative-ai"
+      ],
+      "updated_at": "2025-11-24T15:22:23Z"
+    },
+    {
       "full_name": "zenml-io/zenml",
       "name": "zenml",
       "owner": "zenml-io",
@@ -197,34 +219,12 @@
         "anthropic"
       ],
       "updated_at": "2025-11-24T07:30:53Z"
-    },
-    {
-      "full_name": "bragai/bRAG-langchain",
-      "name": "bRAG-langchain",
-      "owner": "bragai",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/188657705?v=4",
-      "description": "Everything you need to know to build your own RAG application",
-      "url": "https://github.com/bragai/bRAG-langchain",
-      "preview_image": "https://repository-images.githubusercontent.com/889371307/b8fc22e5-73e9-40bb-bfe6-205402040b3a",
-      "stars": 3764,
-      "stars_display": "3.8k",
-      "forks": 432,
-      "forks_display": "432",
-      "language": "Jupyter Notebook",
-      "topics": [
-        "agentic-rag",
-        "ai",
-        "chatbot",
-        "llm",
-        "machine-learning"
-      ],
-      "updated_at": "2025-11-22T07:26:48Z"
     }
   ],
   "query": "ai machine-learning llm",
   "search_query": "ai machine-learning llm pushed:>2025-11-21",
   "days": 3,
   "limit": 10,
-  "total_count": 143,
-  "fetched_at": "2025-11-24T14:23:14.634374+00:00"
+  "total_count": 145,
+  "fetched_at": "2025-11-24T15:29:42.822856+00:00"
 }

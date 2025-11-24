@@ -15,26 +15,6 @@
       "description": "The interdisciplinary associate degree combining five technological areas and featuring evening classes is designed for working professionals and recent graduates."
     },
     {
-      "headline": "Remote Robotics Could Widen Access to Stroke Treatment",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZdHlKbC1HQTV1YkpYVnUyc2JpVmt6dlAtS2N4MXViT2VDWVQtS0Z4OUVKT01BS19MLXBaR3hwQU1QT2dKSVNYdFFFTnNpNmFVYjcyZlJQSER5cGEzbUlDbDQ1VnE1NHFKMXVVdnpR0gGCAUFVX3lxTE1HUjJoM2NJMW4wQmkwNUVzcFFoR3A1NGx6Y25UU3RFYWZweEJBR29QQlJDWUI2c2pFMnRtaVJGcjFFa2FsX1R6cXFzRUpfanBPelh1SDloWDNnTnNEY0M2aDJXeWNnTjlleUpxX0QxNGhoSTRVcHhudEdMaEhYOWROQlE?oc=5",
-      "pub_date": 1763994086.0,
-      "article_url": "https://spectrum.ieee.org/remote-robotic-stroke-treatment-evt",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62225322&width=1200&height=600&coordinates=0%2C84%2C0%2C141",
-      "description": "Could telerobotics be the key to faster stroke treatment in rural areas? Soon, surgeons may perform lifesaving procedures from miles away."
-    },
-    {
-      "headline": "Figure AI sued by whistleblower who warned that startup's robots could 'fracture a human skull'",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xRkZMNXljcmZXZ2Y2TDljZkplS0lzZk9ocWJkSWhZalNGaFd5czJodWdLRFdGbDVyZ0JIVzgzemxmMjY0cDdTUnNSVVpCY1RvVTMtQ2E4Smx1djM0YkdGd9IBZkFVX3lxTE92alZXTlhpN1d3WEFSTVpPTDd2NDJ0SXczYXE1dEpBX21rSmJBQm5mN2NTcWpZYjR0SWNUTzZlMUVnZGFnSkNfYzV1M3F0T2EzVGVseXlPY2VYd1VBNHUzSW4yb1UtQQ?oc=5",
-      "pub_date": 1763769128.0,
-      "article_url": "https://www.cnbc.com/2025/11/21/figure-ai-sued.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107379938-1709152661747-Figure_Image_4.jpg?v=1709153015&w=1920&h=1080",
-      "description": "A former engineer for Figure AI filed a lawsuit against the company, claiming he was unlawfully terminated after warning executives about product safety."
-    },
-    {
       "headline": "Humanoid robots will change work forever",
       "source": "abc.net.au",
       "source_url": "https://www.abc.net.au",
@@ -53,6 +33,26 @@
       "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robots-get-real-world-intelligence",
       "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/OpenMind.jpg",
       "description": "OpenMind's modular unit allows robots to perform advanced functions like self-guided patrols and real-time 3D mapping."
+    },
+    {
+      "headline": "Figure AI sued by whistleblower who warned that startup's robots could 'fracture a human skull'",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xRkZMNXljcmZXZ2Y2TDljZkplS0lzZk9ocWJkSWhZalNGaFd5czJodWdLRFdGbDVyZ0JIVzgzemxmMjY0cDdTUnNSVVpCY1RvVTMtQ2E4Smx1djM0YkdGd9IBZkFVX3lxTE92alZXTlhpN1d3WEFSTVpPTDd2NDJ0SXczYXE1dEpBX21rSmJBQm5mN2NTcWpZYjR0SWNUTzZlMUVnZGFnSkNfYzV1M3F0T2EzVGVseXlPY2VYd1VBNHUzSW4yb1UtQQ?oc=5",
+      "pub_date": 1763769128.0,
+      "article_url": "https://www.cnbc.com/2025/11/21/figure-ai-sued.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107379938-1709152661747-Figure_Image_4.jpg?v=1709153015&w=1920&h=1080",
+      "description": "A former engineer for Figure AI filed a lawsuit against the company, claiming he was unlawfully terminated after warning executives about product safety."
+    },
+    {
+      "headline": "Remote Robotics Could Widen Access to Stroke Treatment",
+      "source": "IEEE Spectrum",
+      "source_url": "https://spectrum.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZdHlKbC1HQTV1YkpYVnUyc2JpVmt6dlAtS2N4MXViT2VDWVQtS0Z4OUVKT01BS19MLXBaR3hwQU1QT2dKSVNYdFFFTnNpNmFVYjcyZlJQSER5cGEzbUlDbDQ1VnE1NHFKMXVVdnpR0gGCAUFVX3lxTE1HUjJoM2NJMW4wQmkwNUVzcFFoR3A1NGx6Y25UU3RFYWZweEJBR29QQlJDWUI2c2pFMnRtaVJGcjFFa2FsX1R6cXFzRUpfanBPelh1SDloWDNnTnNEY0M2aDJXeWNnTjlleUpxX0QxNGhoSTRVcHhudEdMaEhYOWROQlE?oc=5",
+      "pub_date": 1763994086.0,
+      "article_url": "https://spectrum.ieee.org/remote-robotic-stroke-treatment-evt",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62225322&width=1200&height=600&coordinates=0%2C84%2C0%2C141",
+      "description": "Could telerobotics be the key to faster stroke treatment in rural areas? Soon, surgeons may perform lifesaving procedures from miles away."
     },
     {
       "headline": "Xiaomi open-sources AI model spanning autonomous driving and robotics",
@@ -75,16 +75,6 @@
       "description": "Police departments and universities are among the growing number of U.S. customers for the market-leading Chinese robot maker, Unitree."
     },
     {
-      "headline": "Top Key Players Shaping the Future of the Artificial Intelligence (AI) Robots Industry",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUjdrTzBNMUxEbWVER0UtVHpMNUlfa2MtUjAydnBUek81c0lWaGxYWm1DcEVaV3JZY0VaUG9mTUFSQmpwYVFPcGdfbW9MQ1VTTzV5MDRUR0YxTDJlZjBpalZoR0U2YVpsbFBOLURFTWxEU0RxcXptNmhNZjlWLXVQb3RR?oc=5",
-      "pub_date": 1763994600.0,
-      "article_url": "https://finance.yahoo.com/news/top-key-players-shaping-future-143000751.html",
-      "image": "https://media.zenfs.com/en/globenewswire.com/d4c3eb630bf83da5a3947696840b275d",
-      "description": "Delray Beach, FL , Nov. 24, 2025 (GLOBE NEWSWIRE) -- The artificial intelligence robots market is being shaped by a select group of established industrial and electronics giants that combine decades of robotics experience with rapid advances in AI. Companies such as Nabtesco Corporation, NIDEC CORPORATION, Panasonic Corporation, YASKAWA ELECTRIC CORPORATION, and ABB bring complementary strengths precision actuation, high-efficiency motors, sensing and control systems, industrial automation platf"
-    },
-    {
       "headline": "This startup bucked mainstream robotics training methods to teach a robot how to load the dishes",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -93,6 +83,16 @@
       "article_url": "https://www.businessinsider.com/sunday-robotics-home-robot-training-hands-loading-dishwasher-2025-11",
       "image": "https://i.insider.com/691fed00e1a9cbb014deaf72?width=1200&format=jpeg",
       "description": "Sunday Robotics spent less than 2 years in stealth figuring out how to train robots to complete complex tasks like handling dishes using human data."
+    },
+    {
+      "headline": "Top Key Players Shaping the Future of the Artificial Intelligence (AI) Robots Industry",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUjdrTzBNMUxEbWVER0UtVHpMNUlfa2MtUjAydnBUek81c0lWaGxYWm1DcEVaV3JZY0VaUG9mTUFSQmpwYVFPcGdfbW9MQ1VTTzV5MDRUR0YxTDJlZjBpalZoR0U2YVpsbFBOLURFTWxEU0RxcXptNmhNZjlWLXVQb3RR?oc=5",
+      "pub_date": 1763994600.0,
+      "article_url": "https://finance.yahoo.com/news/top-key-players-shaping-future-143000751.html",
+      "image": "https://media.zenfs.com/en/globenewswire.com/d4c3eb630bf83da5a3947696840b275d",
+      "description": "Delray Beach, FL , Nov. 24, 2025 (GLOBE NEWSWIRE) -- The artificial intelligence robots market is being shaped by a select group of established industrial and electronics giants that combine decades of robotics experience with rapid advances in AI. Companies such as Nabtesco Corporation, NIDEC CORPORATION, Panasonic Corporation, YASKAWA ELECTRIC CORPORATION, and ABB bring complementary strengths precision actuation, high-efficiency motors, sensing and control systems, industrial automation platf"
     },
     {
       "headline": "Armstrong Robotics wants to create general purpose kitchen robots, starting with dishwashing",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T14:57:16.189809+00:00"
+  "fetched_at": "2025-11-24T15:30:02.620663+00:00"
 }
