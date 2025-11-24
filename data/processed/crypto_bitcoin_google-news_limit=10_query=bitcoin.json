@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin faces 3 big problems as the cryptocurrency struggles to rebound amid 30% slide from record highs",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTGNaUzJCWUo4SmZWQm5MTWE1XzlKa2NCMWpxUUcxVHhYVDd0bGdBeEg3M0pzcXlTZWpIZGFxRUNONmlkM0FCWFZfTkpGZU1aQ01EVWVpaWNLMlZpVG8zbjJRWWZWQjNXcWN5NHVsNzZ5V2VJLWVFZzVUQlZkNWlFNzVJazg2dERxMzVTbV95MWVkVklHVG5wT0dGQXVQbThIUDVNYjJyZlN6OXY1bU5MRW1NbFlYbUU2Uy1QZU5DMzZnejViTVBVcU94TWdUMlZ5RGhoRDJTUllXbkMwenJEUmNPbw?oc=5",
+      "pub_date": 1764020256.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-faces-3-big-problems-as-the-cryptocurrency-struggles-to-rebound-amid-30-slide-from-record-highs-213736236.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/j9TUOg8GIxjPxGeMD6MmjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/79dfbd80-c72c-11f0-bbfd-7afdd601f2f5",
+      "description": "Bitcoin headwinds mount as the token hovers around $86,000."
+    },
+    {
       "headline": "Crypto Crash Is Eroding Wealth for Trump\u2019s Family and Followers",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -15,22 +25,32 @@
       "description": "In President Donald Trump\u2019s second term, crypto assets transformed his family\u2019s wealth. Now the Trumps \u2014 and their followers \u2014 are getting a crash course in the wild volatility ingrained in digital currencies."
     },
     {
-      "headline": "Bitcoin Is Rebounding. Keep an Eye on This Level.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPTEg1ZWxHY1V1bHpaZG1tdlI0S01PRzVpVmFERTJjZ1RlaGNDRVFTNWxPTXFxQk9wX0x1ZWNSNzhoQnFvNnczMXo4bWEzRklWQmdaX3RFUjhUeUR6N1YtTjZYRlJZZnBLX2k1VzNMN3QxRW1MaC1MNjZROVd6LUdzYTl3Q3VvYW5KUTFqMXdKYjM4cVFrM1JKdTd2R3R2bktWeDhSbzBUX0kzb1NuOTJ2N2pxQ3pIbTdtRE1sR2RFLW5ZRjF0WE4welRPZFNERTc1ZWxkMVhrS2NDd2tLcFVGQTVzUUtSUXY5bFF4MTBzZ3JRYk5mTjJUZTBXS3h5dUZHcmFDU29oWGUtVXFYZ0NERmpRdVp0V1NFRWZMX1U0SXpSci1NZzF6dDUxMmZCREhnMFhqeGlfZzVwRV9ZZFdsTmZiUnNyQXlINVlhN0g2TEdONWNvMzZodjc5VEpGbDJHRWkxWVk1QkpHaFdGWXNGYXh3VUtmdXQ0MVJfSVJXdlpyTXYzYkxOTVRMY05lYXI3?oc=5",
-      "pub_date": 1764016500.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rebound-a64296f2?gaa_at=eafs&gaa_n=AWEtsqfVsTFhGhyasFwyh04yamUAD8QD_RMzG6EZJHjYb2rQ9mBzv3uzUhZK&gaa_ts=6924e936&gaa_sig=n9ASouKeDlL5TCVtlOAMp_HnRM46-KNSQs2bm4AaO9YO4eJhJqDqCWsIstFMWR42C9D4u6-3kq_IE3Q-HVjAIg%3D%3D",
+      "headline": "Why bitcoin\u2019s brutal drop from an October record high is now a crucial barometer for the broader market",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNTW1qOFZlaWx4aXc5TFp0VXNOQ0VIS3FtelI0aDVneEZzQ01MRlEteHhNVlNZdW9ia2U5cHBDMjF6bjg2UDJMM00tb3V0WW03MHZBM3lNdDVsMlBIbDd1WEJVSWQ3QkZjMnZKby14cVpFSHJzZEJ4S1JQY2daWkprakZnTXh6d1NBVGFhLWlSVDRnZVR2a3lvNjlSdDcxV0xMaF93SjRDOHRoQTlaNEhfRVZwUEl2X3A5ZGJ1aU9iMDNFeXRkOHBTakVkX0UxSXh1UWtEU1BleF9UUVR4aDc5d1d4dzlhVlBWRTVaVW9zYl9WbGgzelZFYzFYX3lUWENPUS1oX0RDM2hNNmpjZG1qMVcyQ0tIa2locXdRcFptdFNkYnZZeUl3ek9DNXl6MnRDcGliX1ZKbEctZmhkM1pDYjVxSVBpcDl4ZTNBVW1fMGpJQUczczFxa1ZXbEZaS2pnbWxQY1V0dUtoQlNHRjdRUndDNnlyWmZhWHZGd1k5c2p0T2dOMFFCRTVpQWFVaUhsN3RqSEF5XzZxSmVZeEE1a3FRQk9LQWdRZFhMVW51T240bHZTRU4teWlLbW1JSUU5VmgtcmMzaXRzZG9tNE5TYmEtZDlKOV9qUXd6SmdVb254bXc?oc=5",
+      "pub_date": 1763818860.0,
+      "article_url": "https://www.marketwatch.com/story/why-bitcoins-brutal-drop-from-an-october-record-high-is-now-a-crucial-barometer-for-the-broader-market-6193e69a?gaa_at=eafs&gaa_n=AWEtsqd-broQQayJUQ70MffcaUUh5St1sytuwBKhsR38WYgugMHcqYhJtNot&gaa_ts=6924f12b&gaa_sig=H5tph-t9BTxbWevJFmXI93x3YEYjWDX7m2bnFaStqpP_ceAgGDnji0WBgzkGhsc_zbcYMYSCJeyt9_-56KkFuQ%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Why bitcoin\u2019s brutal drop from an October record high is now a crucial barometer for the broader market",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPMXBjM3VWay1felBhc1JjMGgyeEpwVEE4dDFqaldOZGJCcjF3NTVZQ1JKMkVKVm4xd1cxLVVzamVxWV9tSW92LUYwN0g2WjBrREx3WEJtb2hvSHd0dDBQUktfcGdIMEZYX3hsMnlHRjgzNG1SdlRTYzJjUFJmZkZnLVRTM1o5b0RXSEM0UC10X0VWR1ZVc3lZWmtXc3Bab2pJVld0MWZHa1lwV1VHaE1NOW5wUHVnTTJFRFpiWkJNTVRiUUZEQ2xOaHJlQWFjdExoRGxjN1B4cTNRLUhGbDZYR2djVjNhNGhjMzNiN1R0aGJMcnh0Y1AwcVdqY3FkdkI5eWhnaS1oT1hBd3ZUVUowSnR6MzhzaUlVVWhBTUQzandDXzdJanBfV00tSUdYVTQwbHY1eHRVdjVJdHBDMGNZLUpiSkw4dnhfOG5JMWZoM1VGWlVXZG9sMEMxWGdDRjE2bTdBRERsNGVMN2lVVE54d2Z2ejRxNGo2S3hUQ0lyajVGblNELVdVTUlERTZOdmxGNlAyR00yQkVyN2FqQnFyVVozcXVmZzdjWnM1bjZVOHl1V3B6MmNPRFBHSDEydWNZMlV1WF9lYkh6eElIa1JSU1MxN29zalFLNExnYjRHX3Y1d0U?oc=5",
-      "pub_date": 1763818860.0,
-      "article_url": "https://www.marketwatch.com/story/why-bitcoins-brutal-drop-from-an-october-record-high-is-now-a-crucial-barometer-for-the-broader-market-6193e69a?gaa_at=eafs&gaa_n=AWEtsqfnBk8BeSaAEFG6sylBRTi6gzYcFYjlrfRzinsVEGEGotVxm7EPS2Es&gaa_ts=6924e936&gaa_sig=onYejFoaG3JKTPoZiJt8CIa1jZuCaLk5E5oXTjVX76MzWJxL_6Gz1WSxUrat3r9drGfbUET1vGQZfPEi11rDyg%3D%3D",
+      "headline": "Strategy Silent on Bitcoin Holdings. Why It\u2019s a Big Deal for the Stock and Cryptos.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOTTd6NnZXVm9HMHk5RGhtelVlXy1oS3ozakJJNHlidlBDaVJVb21fbHBvWlZGeVJzQm1JZFRDb3FIRml4MUg4RkxYOXF6OEtseHZOeEpCODBtNXg3MTIweUJKTFZMZ2tfWXpNcVVYZ1dqS3FGUW5tS0VtaGZWODdPMXRUU1BBNWZ1cHV0MzhGV0NsSWozSW9wWGNWZ3ZkSWV5S2E2YXBSSUVKbmN1WDItb2k0eUJpc29idnFlRVhvajhvNGViSkNUa2Jtd0hlNnN5ZmdKVjY2SmRLZEVCbG5ucFgwQS1sSHlPanFQYmFEOFNpNWhBcUp3cmtVNlJpaGJScTBveWJTekpNeVFKUEVRMGVSZDBZWTNGS2dDRjJBWUU1WVR5Yk5fTlM4SGtTRnVDcjFNRGd4SG9RZHN0eVZNZEtLS2Jtd0ZwTVd5RDZHOUZQZjhIMFJCVU5iQ1c3OC1CT0gzVDFmNXNPajRDRl9CY3hVcG1ScXFHblhvdzhqOUZ6YlVwRHdBaXZRdzg0cVE2ZEFrMA?oc=5",
+      "pub_date": 1764003120.0,
+      "article_url": "https://www.barrons.com/articles/strategy-stock-bitcoin-cryptos-microstrategy-176e8def?gaa_at=eafs&gaa_n=AWEtsqfG8bdUVo6HqoThfglMndAU3kxHcUwSDnIv9e6AVHWK7cDH-qxitECW&gaa_ts=6924f12b&gaa_sig=-1ZP2MR-6XLxsbPdmhlH3uBnovKFmZAayScHIYZpeMTtbYESTC7eLIZNQ-AQbJSHOZCfN9w8PtSg0bK7aITZDg%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Is Rebounding. Keep an Eye on This Level.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPT2FGbUpNb2FoNVFCX2FTdGx0bXJuX1o0bEFKTl9iTkdTcE54MlVKX1dIVnYwSk9WMEhjX0RMZmtobjVxeXZQdmIxZVVpSVRfbFFIM0Y0UXY2UlltSi1SeEd1ZGFLYWM5QkgxTHp3SGM5WGFmcmZWTGREMkNEcEx3VWFJRUUtdldaMlJDZWc1T0E4RWtIRjF1bWV0ZWk5SWFXNEdxOHpWWmd5Z0lLTWoxeXZ3LUw2bzhPeFZNNHNxQmMwcGREb3RpQmRnam1SenZWWGE2Y0Q4V0FoYWhuRU1aaHozdHBXb0dvY3BEc0FQV3E3S1RmbEsyOGtpOGZOcDdOYUg2U1hVUGNZR0JFWndWWWhUQW1hQWh5X2tGSER6dXYwWm9leUYzNE5LZ0NraUEtTXlqSkEtaVdKU2Vkc3IzR0hwV1RSVHRGM1R1WTlUcjBIdFF0cWZuMW5Kdl9lRVltWlFkY1gxeEJDdUlQcnRFSTJQMHduYTA2cndjUTluYzk2WTJEN0dPbUtmcnFfS2Jp?oc=5",
+      "pub_date": 1764016500.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rebound-a64296f2?gaa_at=eafs&gaa_n=AWEtsqchc12iS51Pvzs_iaXrx_fxSyRIuJpscBLzsvL_Mb4wtW0alS9R7H42&gaa_ts=6924f12b&gaa_sig=9WOPKzSlWHfmHZobeWYPBui5msEEJJhGJY_aiyjVRySxkh9Se9s5eCXC3D74Xg7JSSwkx1RQlsCFUrj1_HlC6A%3D%3D",
       "image": null,
       "description": null
     },
@@ -65,46 +85,26 @@
       "description": "Solo miner controls roughly 0.0000007\u202f% of the Bitcoin network\u2019s hash\u2011power yet captures full block reward."
     },
     {
-      "headline": "Strategy Silent on Bitcoin Holdings. Why It\u2019s a Big Deal for the Stock and Cryptos.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPUFl5TXdzdEZlRWhGenFyeWtTaHVTOXdvU0cyUnVnb0FvX3pnMzNIZjFMQVRqNVltYkR0Z29BVDZSRXhFdkI2YUFIanl5OXpUNWo4aUl5d2VRVDcwTnlBTlYyVGFMS2g4TkVYZHNkRThoQlZERHYyUUVTM1FLbHJUYm4ycWdSUk4zWjlzZG8wTkhFM09XWEdzRlpWVkczS0cxTG5VYndJcHp2WkRWRkJMcDFOQ015emUydHBGaDl2RGdjbUhfcjBhY1czc2NwTnVMOXdfXzRHejdlWnlCQ3V2dlFPMndld3dvdGFTTklteGRIRlVpNkM3SnllTHlLYi1ZTnhhTHphY3FCMFNFX3FUbk1FcTVXU0pKX0F6MmU4c3JOeXp1LVpNNVlGdU9TY1YwMFNSV0YzTmViRm9hWm1DWHJ3ZkpFbEFla0x6YWhCXzlRRHhwZm15OFVUZUx4WHVMbEdKRUZqRGQ3Q29NellCM1ZhTzJWbW15QlVtWmtyQTNCLUNhTlg2MWZPOXhjVEFaWFhFUg?oc=5",
-      "pub_date": 1764003120.0,
-      "article_url": "https://www.barrons.com/articles/strategy-stock-bitcoin-cryptos-microstrategy-176e8def?gaa_at=eafs&gaa_n=AWEtsqeNtOUI4SJl2yk2b54OyOCdyOBJfOdoQv4--EEQwj3ivo_-mE6Sxv4N&gaa_ts=6924e936&gaa_sig=g2yM8h8pCshYWA5XiX8rT-Xb8G2fzLAfrI1bq5amNSDjOkz1G-ZdmY7etj3wNQMbbCvfz-twh5bI5pcolSrs7g%3D%3D",
+      "headline": "Bitcoin Tries To Find Footing; JPMorgan Upgrades These 2 Miners, Cuts Targets For Others",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSlpHaF9ObkRkak16bGNYZV9icDg3LTEyVUJBbkNfTmFqVW9sRkZtU25ZdEtZVEZRYzZMdjdRVU1aZ3AtMzFBb0daSGFOVW5mUFlTekYzcVo3MjAyQnJfak5iMTBjUFVpNEM1LXN4VElpazQyMlRLRlNlWXQ1STNqQi12NmI3bjh4VU1aTzI1VFFUSHA3MFJkQWwyTzQ?oc=5",
+      "pub_date": 1764018480.0,
+      "article_url": "https://www.investors.com/news/bitcoin-jpmorgan-bitcoin-miners-cleanspark-cipher-iren-mara-riot/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Michael Saylor's MSTR Appears to Have Broken Six-Week BTC Buy Streak",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFRfYVRBRUZJWnVVQ3gyeVY5X0ZwYy1kaTlESnRkNzlzdV8xWVFDZm95bVBXcl9HRHk5ZzdLejNWT29jUzF6SjBoLWNxUWpBeXRabkdSQkt3b3lIWjZJQlVpa1BFVTRqaUJhYWxSZFd5QUYwazJyRW1UbzQyT2toVjNDc0h5TUhXV3c4QUdTMFBoSGhFUU0yTXpqRzdtYk1CRUVn?oc=5",
-      "pub_date": 1763990874.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/24/strategy-apparently-paused-bitcoin-accumulation-last-week",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d66c28dbeddf1c6982599b72d1bc711e00f296ed-1079x1079.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The company's stock valuation sits near cycle lows as index exclusion chatter grows."
-    },
-    {
-      "headline": "Is Wall Street\u2019s $5.4B MSTR Dump Behind Bitcoin\u2019s Price Plunge?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NOU9wbUxzUGpJTnI1MGdxSEphbUhIMHA2UklycDVBQmZYUkdiN1FTY18wckw5dkJHWUR3WmMwMzBkWFBRTWMwZWhZMDI1ZkdDa2F1UDZGc1JWME1qQk85Q0FNVnJPeEROX0xOS01ybFJEM2R5THc?oc=5",
-      "pub_date": 1763980335.0,
-      "article_url": "https://finance.yahoo.com/news/wall-street-5-4b-mstr-103215127.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/oHrr5FLgA35RcC8j3Y2ssA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/4a68d9b85063594709abbc9f9f16d25b",
-      "description": "Institutional investors slashed their Strategy exposure by $5.38 billion in Q3 2025. MSTR is increasingly being used as a proxy hedge for Bitcoin, according to ..."
-    },
-    {
-      "headline": "Bitcoin and ether rise, trimming November losses as tech stocks rally: CNBC Crypto World",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbmswcmE2dmR6V3hvdjBGQTdiRXVPbUNkUVlyMTU0U19HOE14dU4xOC11YU56THlacmVGeFFSalFLTUI2eDYzalJpRDFOUkI4Mkk5VF95RmJkYmRyd1ZvbEFpWjFyYWExbmhJcGRUVVZVdVM4aGU3cWFISHVnQkVmZ3VydDNEWUdKdUFjZ0lobUdCX0ZXR3hUa1R4RElhS0pMRDUwTmtPTnZjZmpqSURFTV92bnE1NFlkRjRLeW43UTF6aERuVE9NVQ?oc=5",
-      "pub_date": 1764014578.0,
-      "article_url": "https://www.cnbc.com/video/2025/11/24/bitcoin-and-ether-rise-trimming-november-losses-as-tech-stocks-rally-cnbc-crypto-world.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108231196-1124_CW_Thumb.jpg?v=1764013383&w=1920&h=1080",
-      "description": "On today's episode of CNBC Crypto World, digital currencies rise as tech stocks rally on Wall Street. Plus, new research finds stablecoin market caps have grown as investors look for save havens amid increased volatility. And, Matt Savarese, head of digital assets at Nasdaq, sits down with CNBC Crypto World from the Clear Street Disruptive Technology Conference in Palm Beach, Florida to discuss the exchange's efforts to integrate digital assets."
+      "headline": "JPMorgan upgrades Cipher and CleanSpark, trims MARA and Riot targets in bitcoin miner reset",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMndTM3dRSUtTZ0FGM3NXSzNOM2psNDNWM3FPRl9mRDZybElTQkFYdVlhdWlQeHA1ZVF4VzNJS0Y5S2JfcVFLSklQdkc5bTl6eVVGZmp4SnUyTU5XRDVLbWo3b3kwZ1dUbHNESkR2OUJWTG1TT2QtN3RtdjROTGk2M253U0g5OF8yMEFKQTMxaElFMWJQdW9CX1ZTamZpUjVpbGVON0tOMmF1M0Rpc2lqQTNCalVQOGxTSjdJ0gHAAUFVX3lxTE5PbnFFam0xdVQyYjNCbWFYMk5uVFBfWFhrbXBaelNzQ3VFQ1hJemhlREFTLTlnRDRfNnZjNVp0RTNUYjlHTkhuRXV6UElWaEo3MnRxRUo0enpJRFVkZFVqN2NQekV3SkZZQ2R4RjljekNLazBUaGVtblN5RDZKdFl4VXZmNlJEVVBJR1NWY3pDV1dBenBtYmQyRE9LV1NtRDl6b3l6NlB6YXk1V2lsWEc5RGhGRmJ6TE9IMzlGZ0RvMg?oc=5",
+      "pub_date": 1764003798.0,
+      "article_url": "https://www.theblock.co/post/380175/jpmorgan-upgrades-cipher-cleanspark-trims-marathon-riot-targets-bitcoin-miner-reset",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T23:10:05.342229+00:00"
+  "fetched_at": "2025-11-24T23:44:07.035080+00:00"
 }
