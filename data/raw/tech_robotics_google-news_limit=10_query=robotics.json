@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Figure AI sued by whistleblower who warned that startup's robots could 'fracture a human skull'",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xRkZMNXljcmZXZ2Y2TDljZkplS0lzZk9ocWJkSWhZalNGaFd5czJodWdLRFdGbDVyZ0JIVzgzemxmMjY0cDdTUnNSVVpCY1RvVTMtQ2E4Smx1djM0YkdGd9IBZkFVX3lxTE92alZXTlhpN1d3WEFSTVpPTDd2NDJ0SXczYXE1dEpBX21rSmJBQm5mN2NTcWpZYjR0SWNUTzZlMUVnZGFnSkNfYzV1M3F0T2EzVGVseXlPY2VYd1VBNHUzSW4yb1UtQQ?oc=5",
-      "pub_date": 1763769128.0,
-      "article_url": "https://www.cnbc.com/2025/11/21/figure-ai-sued.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107379938-1709152661747-Figure_Image_4.jpg?v=1709153015&w=1920&h=1080",
-      "description": "A former engineer for Figure AI filed a lawsuit against the company, claiming he was unlawfully terminated after warning executives about product safety."
-    },
-    {
       "headline": "Humanoid robots will change work forever",
       "source": "abc.net.au",
       "source_url": "https://www.abc.net.au",
@@ -33,6 +23,16 @@
       "article_url": "https://www.cbsnews.com/news/china-humanoid-robot-agibot-a2-walks-66-miles-guinness-world-records/",
       "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/24/e5e8b175-8e09-46ca-b6c7-202fd2a43ebe/thumbnail/1200x630/dedab634a3258c756470131532a55175/agibot-a2-humanoid-robot.jpg",
       "description": "A Chinese company says its AgiBot A2 robot walked from Suzhou to Shanghai, \"all while adhering to traffic regulations.\""
+    },
+    {
+      "headline": "Figure AI sued by whistleblower who warned that startup's robots could 'fracture a human skull'",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xRkZMNXljcmZXZ2Y2TDljZkplS0lzZk9ocWJkSWhZalNGaFd5czJodWdLRFdGbDVyZ0JIVzgzemxmMjY0cDdTUnNSVVpCY1RvVTMtQ2E4Smx1djM0YkdGd9IBZkFVX3lxTE92alZXTlhpN1d3WEFSTVpPTDd2NDJ0SXczYXE1dEpBX21rSmJBQm5mN2NTcWpZYjR0SWNUTzZlMUVnZGFnSkNfYzV1M3F0T2EzVGVseXlPY2VYd1VBNHUzSW4yb1UtQQ?oc=5",
+      "pub_date": 1763769128.0,
+      "article_url": "https://www.cnbc.com/2025/11/21/figure-ai-sued.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107379938-1709152661747-Figure_Image_4.jpg?v=1709153015&w=1920&h=1080",
+      "description": "A former engineer for Figure AI filed a lawsuit against the company, claiming he was unlawfully terminated after warning executives about product safety."
     },
     {
       "headline": "Robotics, AI, drones, and data analytics are shaping the future of the construction industry",
@@ -95,16 +95,16 @@
       "description": "Sunday Robotics spent less than 2 years in stealth figuring out how to train robots to complete complex tasks like handling dishes using human data."
     },
     {
-      "headline": "Foxconn, Intrinsic in Joint Venture to Advance AI-Enabled Electronics Manufacturing",
-      "source": "Thomasnet",
-      "source_url": "https://www.thomasnet.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvamxvUnBKTmlMaXU1UVNJMUIyWGpJQTA4WUlReEZPTWduZWFBUWE0UlhPYjFJUjc5WHpVcDl4dmYxMHBZNXR0ZzZHOXQyOUJud0puR25ram1xN09OWFpwYWJtRDVGMF9TUm1XUGtyYVkxdEI0bm5R?oc=5",
-      "pub_date": 1764003389.0,
-      "article_url": "https://www.thomasnet.com/insights/foxconn-intrinsic-factory-robots/",
+      "headline": "\ud83d\udea8 GOOGLE DEEPMIND JUST HIRED A ROBOT WARLORD When Google DeepMind poaches Boston Dynamics\u2019 former CTO, you\u2019re not hiring an engineer - you\u2019re importing a whole era of robotics. Aaron Saunders, one of the minds behind the backflipping",
+      "source": "x.com",
+      "source_url": "https://x.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGMGw1YmptdEk2ZHlyNGs2QU5VNkhCOFVKendqN2lmeXhQUF9RUnJwZnRQeFczSWZlaGJRSFIyWFlLaDV0OGtrY2xDdHlMd0FWRGV0N2EwYjN2c25DNnZ2cmp3?oc=5",
+      "pub_date": 1763933634.0,
+      "article_url": "https://x.com/MarioNawfal/status/1992708208251875453",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T19:19:13.593976+00:00"
+  "fetched_at": "2025-11-24T19:54:02.497456+00:00"
 }
