@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "The surprising issue driving a wedge between Trump and his MAGA base",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlRWWm04U29yNXRCTVVuU2tfVXY4dzJsX2h6TV9NRTgtSE1WLUlnbEF2UnJITG9pa0NIMUhtUHFhalZZUTlGc0ltTzZOSWhTQ2ZDX0JRSlpTSzZ0UFB6Y3dSWXFWVGpTdHRwLXJYOV9La2QwdHJqWV9KRTVIOFlISHJYMzQ3VnF3?oc=5",
-      "pub_date": 1763921138.0,
-      "article_url": "https://www.washingtonpost.com/technology/2025/11/23/trump-maga-division-tech-ai/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Here's why concerns about an AI bubble are bigger than ever",
       "source": "NPR",
       "source_url": "https://www.npr.org",
@@ -25,22 +15,22 @@
       "description": "Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there's a bubble that will soon pop."
     },
     {
-      "headline": "Lenovo Stockpiling PC Memory Due to \u2018Unprecedented\u2019 AI Squeeze",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeEFuTW83YUVZUGRGUEc4WHRXb29WemNGYjdGV1R5cDdIWEJpc0xqVDkyTjdqald5cm9YcjEybFlFLXJONld3QUd3YV95VTRmTmozajJfcFc5c2pzd1ptOTUybmtSSHkxUGVpQmEyNmUzc3dPeTBtdzM4aVF6LW83TXBFWEhOS3pfYWdMTmRkazc1dXZMczZiUTNyXzc3Y2tGWGR1MUF2VkNDOVR5cUk3ZQ?oc=5",
-      "pub_date": 1763951880.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-24/lenovo-stockpiling-pc-memory-due-to-unprecedented-ai-squeeze",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipHl7.1Ev7RI/v0/1200x800.jpg",
-      "description": "Lenovo Group Ltd. is stockpiling memory and other critical components to navigate a supply crunch brought on by the boom in artificial intelligence."
+      "headline": "The surprising issue driving a wedge between Trump and his MAGA base",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlRWWm04U29yNXRCTVVuU2tfVXY4dzJsX2h6TV9NRTgtSE1WLUlnbEF2UnJITG9pa0NIMUhtUHFhalZZUTlGc0ltTzZOSWhTQ2ZDX0JRSlpTSzZ0UFB6Y3dSWXFWVGpTdHRwLXJYOV9La2QwdHJqWV9KRTVIOFlISHJYMzQ3VnF3?oc=5",
+      "pub_date": 1763921138.0,
+      "article_url": "https://www.washingtonpost.com/technology/2025/11/23/trump-maga-division-tech-ai/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Flood of AI Bonds Adds to Pressure on Markets",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQNFFGUnpBU3NNQmJHZUUyR3lJaE1RdEd0azI2S0J3YUhvRHl1MGVjRmEzMEZQQ1BDTjRUU1N4bzJ5RWpnVUY2ZFdNbEw5ZWFaM0hoY2RKYVJBU21YZGVPZmZHWmE2amJ3Y0FXYnM5TENxaW9OMGZoY25pS0JkREhqcmJXWFVldW5YNXc1YmxobTEtSUlleko5TlVVY1BSLUl0bVFRMy1SSUZ0RWZEZ2hOdWcxbTl1UG9ZWnNDSzc3SC1obHF6WUx1ZmJIY3dGUzVybmJCNDVNdDZjUUpJc1hFSXJPUXJhOGNsOHBnZ1NaYVIwWjBmOUw4UGkwR05WblVmM18yMGRkQlVFSGhSUlJpT2o3SVM1bmFxNGN6T3V5ZXdLU1ZFNjBxV1luWDRycHliQm0wYVlUaUJBNWFfYjNRaENRMjZTMGpKS1pIZHF2SHYwam5OZldsbDlsdVNiNmFuQTBaN3NjZzhpVHV0NFE2SmRoNzEyb3gwNmZ1SzB3NFJmREh5RGc2Qk5DZE5wTjhzV2YzX1pWYWhoSXJM?oc=5",
-      "pub_date": 1763949600.0,
-      "article_url": "https://www.wsj.com/finance/investing/flood-of-ai-bonds-adds-to-pressure-on-markets-88f17995?gaa_at=eafs&gaa_n=AWEtsqdSjG-U8gOJeF8omIFJzJlmvRHrsjiJ5Ibi4jr69qDQpCPOaoE9Ncmu&gaa_ts=6923dd33&gaa_sig=ZnthOvFumJ4yCyY5rN3cVlryEwSMhHF_LsSkRLy9WOCm1UHQmHMH-fKZlQtcdG7j5ie04P2wgkkoV5EnPoRe0w%3D%3D",
+      "headline": "Alibaba\u2019s Main AI App Draws 10 Million Downloads in Strong Debut",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVUxaa1A1M2hxNl9vUm11RXRyNExoaTREaTdYZzlIdU9ieWZSZzFvZVZ3ZEUwMk93cnZ2X2FzSzBLWHhUUzhkTEtIRGxVU3gwelRmRTNGUWNNZUxzbGFzSWktLWkxWjE3Q2xnSGwwekdwejRyb25xMWhoeDh3aEFYcVh6RE1JdnFuNFlINTh4TGREMFQwbGdjUGI1Y09QN3V1Xzh0R01NVm55N0tYNktSbGxUT3YyZw?oc=5",
+      "pub_date": 1763957460.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-24/alibaba-s-main-ai-app-draws-10-million-downloads-in-strong-debut",
       "image": null,
       "description": null
     },
@@ -55,6 +45,26 @@
       "description": "Salesforce CEO Marc Benioff gave a big endorsement to Alphabet's (GOOG) (GOOGL) latest AI model Sunday."
     },
     {
+      "headline": "Lenovo Stockpiling PC Memory Due to \u2018Unprecedented\u2019 AI Squeeze",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeEFuTW83YUVZUGRGUEc4WHRXb29WemNGYjdGV1R5cDdIWEJpc0xqVDkyTjdqald5cm9YcjEybFlFLXJONld3QUd3YV95VTRmTmozajJfcFc5c2pzd1ptOTUybmtSSHkxUGVpQmEyNmUzc3dPeTBtdzM4aVF6LW83TXBFWEhOS3pfYWdMTmRkazc1dXZMczZiUTNyXzc3Y2tGWGR1MUF2VkNDOVR5cUk3ZQ?oc=5",
+      "pub_date": 1763951880.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-24/lenovo-stockpiling-pc-memory-due-to-unprecedented-ai-squeeze",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipHl7.1Ev7RI/v0/1200x800.jpg",
+      "description": "Lenovo Group Ltd. is stockpiling memory and other critical components to navigate a supply crunch brought on by the boom in artificial intelligence."
+    },
+    {
+      "headline": "Opinion | The First Large-Scale Cyberattack by AI",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNcGlNOUVxM0ttUHRxU2ExcGJGTHlxSEllLTczS3l6bXloNFBZUDBXTHh3WU5NTnlUaXF0SEJoUkVUUy1fbE0zZUNUcU92OElDbjhxVG8yNmlVQnJTaFUtMVVaUGxuOXAtQ2ZPcm5zUkFyVnFuUGdXeWdycXR4VUdGejBNcjN2NG9fTG9rZVZiaHZGc3ptVWYzaTN5YjBxZXo3U1VrcTZib1p1MkRzcHhuQXFsNmUxRUdMMjZucDkzbHFSWWJGSmJ3bktGd1N0cVJVbWxPTWt4VUVvOTF1eW5qQkdsLXBucG1sdXlhemtfa0tRUmE0d0VZRFJkLWpfeWg5cnd5b0FQak5yY0I1dG1tdWE3UmdOTE9HeS1hZUxxOTlzV2xDX2twaHYtUkZWRHVIRG1UMVBFZVE1Y1dSZGZ0cXN6VlE0R25UZkg5M3VlR0N4c3hVdVotRDJkWlVOV0Y2UTdMZjVuUTRJZ2xjdkVkVllReEdPNHVUTWt6TmVTRU5McWVxbktZ?oc=5",
+      "pub_date": 1763917380.0,
+      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqddst1hV-3FGlU9vU3OZVgVyhr5G57KrfRodt34KnuEQaPOXtZkJN0H&gaa_ts=6923e66d&gaa_sig=DyQMWmjuPrz8EMm3KK8HFH2zJky7sfa9hAdmzLMZrzwyZsRtGNlPvktI4Mdwl0fkqO7-bnXKLrqHQG9OO2396w%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Nvidia didn\u2019t save the market. What\u2019s next for the AI trade?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -63,16 +73,6 @@
       "article_url": "https://finance.yahoo.com/news/nvidia-didn-t-save-market-140007853.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/PMprWTiG0y09JuC_Hn_PpA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/58881cc0-8229-11ef-9fdf-4fb43b509fb2",
       "description": "The uncertainty was highlighted by the stock market\u2019s wild swing Thursday in the wake of Nvidia\u2019s earnings report."
-    },
-    {
-      "headline": "AI rivals like OpenAI, Nvidia, and Oracle are collaborating to build \u2018Stargate\u2019\u2014but a Yale expert says it violates 135 years of antitrust law",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdUFsNXBKczBrNDlfM29xcUw4QXJZOFFmaTNOOUxoR2tZa05xRFQ2VlR5c25mWVg3VU9LRmZ4VURHSUx5NFZCZVQtQWM4Z2FNLU5uWE1uYWV6VkhlYWFzY3BLU2UxZzlMV09ZR1RMMU5vTHFPRzlxVXYzX1Ixd0lZMzk2WFZYZU1EWV9YR0JScVlFTVFtaTAwdDNnbE84aXZ3SFdfbDdQdEluSzBieEVqREE1WFZMN1JNQ1d1UlFsWjZ0YUd6X0xiYmM3VEZwUFVrSXUzT29yNDVCSHl0UTBSY2hybG1xejd1S3ZFdnVJV20zSXZQVXlOZXhJeF9BZw?oc=5",
-      "pub_date": 1763888400.0,
-      "article_url": "https://fortune.com/2025/11/23/ai-rivals-like-openai-nvidia-and-oracle-are-collaborating-to-build-stargate-but-a-yale-expert-says-it-violates-135-years-of-antitrust-law/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236546815.jpg?resize=1200,600",
-      "description": "Six AI leaders are uniting to form a single company. How is this possibly legal, asks Madhavi Singh of Yale\u2019s Thurman Arnold Project, an initiative dedicated to antitrust issues."
     },
     {
       "headline": "AI tokens are surging, but are profits?",
@@ -85,6 +85,16 @@
       "description": null
     },
     {
+      "headline": "AI rivals like OpenAI, Nvidia, and Oracle are collaborating to build \u2018Stargate\u2019\u2014but a Yale expert says it violates 135 years of antitrust law",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdUFsNXBKczBrNDlfM29xcUw4QXJZOFFmaTNOOUxoR2tZa05xRFQ2VlR5c25mWVg3VU9LRmZ4VURHSUx5NFZCZVQtQWM4Z2FNLU5uWE1uYWV6VkhlYWFzY3BLU2UxZzlMV09ZR1RMMU5vTHFPRzlxVXYzX1Ixd0lZMzk2WFZYZU1EWV9YR0JScVlFTVFtaTAwdDNnbE84aXZ3SFdfbDdQdEluSzBieEVqREE1WFZMN1JNQ1d1UlFsWjZ0YUd6X0xiYmM3VEZwUFVrSXUzT29yNDVCSHl0UTBSY2hybG1xejd1S3ZFdnVJV20zSXZQVXlOZXhJeF9BZw?oc=5",
+      "pub_date": 1763888400.0,
+      "article_url": "https://fortune.com/2025/11/23/ai-rivals-like-openai-nvidia-and-oracle-are-collaborating-to-build-stargate-but-a-yale-expert-says-it-violates-135-years-of-antitrust-law/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236546815.jpg?resize=1200,600",
+      "description": "Six AI leaders are uniting to form a single company. How is this possibly legal, asks Madhavi Singh of Yale\u2019s Thurman Arnold Project, an initiative dedicated to antitrust issues."
+    },
+    {
       "headline": "Microsoft faces uphill climb to turn enterprise dominance into widespread AI chatbot adoption",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.cnbc.com/2025/11/23/microsoft-faces-uphill-climb-to-win-in-ai-chatbots-with-copilot.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108166076-1751325646064-gettyimages-2150286124-AFP_34QG9T9.jpeg?v=1763774719&w=1920&h=1080",
       "description": "At Microsoft's annual Ignite conference this week, IT buyers explained why Microsoft isn't seeing runaway success with its Copilot AI assistant."
-    },
-    {
-      "headline": "AI risks deepening inequality, says head of world\u2019s largest SWF",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrMkVqQkh4bkE3UmVDZFlsMWpITW0wRWY0YkowVWNsWmVNd2o1bTBEQmQ2WVhkZGJCcjI1VGpMcXRBeDc0R1QzbjZ2Slh2ZlZELUdhdzdTWThZOG84ZWRqTWtLczRxWWd6Q2p2eDRlTjc?oc=5",
-      "pub_date": 1763895604.0,
-      "article_url": "https://www.ft.com/content/30c6cff1-a176-43f8-ab09-94212ba6d824",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb20ca843-87fa-438b-a4d9-d9af96d3276e.jpg?source=next-barrier-page",
-      "description": "Nicolai Tangen warns differing access to artificial intelligence has potential for \u2018splitting societies\u2019"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T04:06:27.166286+00:00"
+  "fetched_at": "2025-11-24T04:45:54.037468+00:00"
 }

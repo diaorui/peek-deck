@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 69,
+      "upvotes": 74,
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2511.13720",
       "arxiv_url": "https://arxiv.org/abs/2511.13720",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.13720.png",
-      "upvotes": 42,
+      "upvotes": 43,
       "num_comments": 1,
       "published_at": "2025-11-17T13:59:57.000Z",
       "github_repo": "https://github.com/LTH14/JiT",
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2511.10647",
       "arxiv_url": "https://arxiv.org/abs/2511.10647",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.10647.png",
-      "upvotes": 80,
+      "upvotes": 81,
       "num_comments": 4,
       "published_at": "2025-11-13T13:59:53.000Z",
       "github_repo": "https://github.com/ByteDance-Seed/depth-anything-3",
@@ -149,7 +149,7 @@
       "num_comments": 2,
       "published_at": "2025-11-17T12:59:53.000Z",
       "github_repo": "https://github.com/ziangcao0312/PhysX-Anything",
-      "github_stars": 474,
+      "github_stars": 492,
       "project_page": "https://physx-anything.github.io/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-24T03:17:18.742948+00:00"
+  "fetched_at": "2025-11-24T04:45:30.125906+00:00"
 }

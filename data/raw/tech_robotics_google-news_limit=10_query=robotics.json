@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Robotics Startup Physical Intelligence Valued at $5.6 Billion in New Funding",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUExyTkpqMEI4MU5ILVdwQUZpWEpyWGR6MGIzcnY1YnYyZVByUUtPNWFLWEJ2aEozTWcwSzZxUkQtLW83V19BRUxsTlk1R0VicGVJcWZOYkdtRDZjeU5OU0V2cFc3YmU1dVV1T055UnRmQU9yRDZrVWZFNjlDMm1XcE9iMER2eHRyUC1tMm93dWJlNl9kMU1hSDJxc0RvT1ZONVJ5QlRLMDlVcFlsdDdEZkZGVjFNQzFaaGdSV0daWlZnQm1Z?oc=5",
-      "pub_date": 1763658039.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-20/robotics-startup-physical-intelligence-valued-at-5-6-billion-in-new-funding",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPgk8M14E1eI/v1/1200x800.jpg",
-      "description": "Physical Intelligence, a startup developing artificial intelligence software to help robots learn a wide range of tasks, has raised $600 million in a new round of funding that values the company at $5.6 billion, according to people with knowledge of the matter.Alphabet Inc.\u2019s independent growth fund CapitalG led the round, with participation from existing investors Lux Capital, Thrive Capital and Amazon.com Inc. founder Jeff Bezos, said the people, who asked not to be identified discussing priva"
-    },
-    {
       "headline": "Humanoid robots will change work forever",
       "source": "abc.net.au",
       "source_url": "https://www.abc.net.au",
@@ -35,16 +25,6 @@
       "description": "A former engineer for Figure AI filed a lawsuit against the company, claiming he was unlawfully terminated after warning executives about product safety."
     },
     {
-      "headline": "Humanoid robots get \u2018real-world intelligence\u2019, full autonomy with US firm\u2019s BrainPack",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdlRwWS1id2hOY2hwYl9PV3hKeTFpNDJZaFZtZnluN0JNeEw0akFsM3pudUw2MDNWaUl6Mlc2bmxkalFXbkJsZjlKTEMyVVhNWE8teUU1MGxrZ2FZcUVNS1QwS2ZTQnBwRktrTUJ4N0hYRjFoQ29JbXJDTXYyUVdNeUJ4SklGOGdxRHVfOWxYM0dfWGFB?oc=5",
-      "pub_date": 1763820240.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robots-get-real-world-intelligence",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/OpenMind.jpg",
-      "description": "OpenMind's modular unit allows robots to perform advanced functions like self-guided patrols and real-time 3D mapping."
-    },
-    {
       "headline": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -63,6 +43,36 @@
       "article_url": "https://www.scmp.com/tech/big-tech/article/3333787/xiaomi-open-sources-ai-model-spanning-autonomous-driving-and-robotics",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/22/a3b60646-2a8f-4358-9d8e-0df2feab2d46_6b73773b.jpg?itok=QrbmmjT1&v=1763795339",
       "description": "EV and AI initiatives have become an increasingly important part of Xiaomi\u2019s business."
+    },
+    {
+      "headline": "Humanoid robots get \u2018real-world intelligence\u2019, full autonomy with US firm\u2019s BrainPack",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdlRwWS1id2hOY2hwYl9PV3hKeTFpNDJZaFZtZnluN0JNeEw0akFsM3pudUw2MDNWaUl6Mlc2bmxkalFXbkJsZjlKTEMyVVhNWE8teUU1MGxrZ2FZcUVNS1QwS2ZTQnBwRktrTUJ4N0hYRjFoQ29JbXJDTXYyUVdNeUJ4SklGOGdxRHVfOWxYM0dfWGFB?oc=5",
+      "pub_date": 1763820240.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robots-get-real-world-intelligence",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/OpenMind.jpg",
+      "description": "OpenMind's modular unit allows robots to perform advanced functions like self-guided patrols and real-time 3D mapping."
+    },
+    {
+      "headline": "The Weekender: Robots, Robots Everywhere (Even at the Litter Box)",
+      "source": "PYMNTS.com",
+      "source_url": "https://www.pymnts.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXk4UzBvTXBkMWZJMmt2MmZ0Z0d3S2FkdE4tLVN2b2Y3T1Zfb280SE4ydFh6cWhIT0VmaVdBLUZuNm1IREE4cnE1OS1BUzA4enZKRmtMcHRVYkdhU3dLYmUxOTlUQWQ2VVNkaHhhMmh4WlFJdjRnRjREb1Rid0hSNXRFUVNta0puOGVQZWd2VkY4QzdRYmwzdERtcnlPUzJmX1VodHhEaEtxdXYxaFh3SFFRa3poSm8?oc=5",
+      "pub_date": 1763802119.0,
+      "article_url": "https://www.pymnts.com/artificial-intelligence-2/2025/the-weekender-robots-robots-everywhere-even-at-the-litter-box/",
+      "image": "https://www.pymnts.com/wp-content/uploads/2025/11/weekender-generative-ai-robotics-technology-automation-artificial-intelligence-main-feature-saturday.jpg",
+      "description": "Blame the elves. They saw generative artificial intelligence (AI) coming for their jobs and outsourced Christmas to robots. This holiday season, the"
+    },
+    {
+      "headline": "You Must Read This Riveting Whistleblower Lawsuit About Allegedly Dangerous Robots",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVW5TMU5xTV96SW9YWGdfcE91TUg0SGpBdDVucHUtZnQ0UmNkdENNSTBUbUQzLVhVUHU2ZnJJZ09XaTlWS0hBY0ZURklJeTNTOUo1X0ZtVVJnaGFiSy1RRHFQREppQkpaSE54TUdrbTFidl9yb0c4a0FScUF6MGRCQ2hEa3lHTEF6aWxkUEdPQktMVURUaklnT0pHYS1RaFh0OEJfUW1TaXBjb2d0MWk1MTh5Yw?oc=5",
+      "pub_date": 1763838302.0,
+      "article_url": "https://gizmodo.com/you-must-read-this-riveting-whistleblower-lawsuit-about-allegedly-dangerous-robots-2000688737",
+      "image": "https://gizmodo.com/app/uploads/2025/11/figure-02-1200x675.jpg",
+      "description": "A safety technician was fired as a company allegedly rushed ahead in commercializing a powerful humanoid robot with bone-crunching capabilities."
     },
     {
       "headline": "Armstrong Robotics wants to create general purpose kitchen robots, starting with dishwashing",
@@ -93,18 +103,8 @@
       "article_url": "https://www.notebookcheck.net/Whistleblower-lawsuit-claims-Figure-AI-robots-have-the-strength-to-fracture-skulls.1169124.0.html",
       "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Figure-AI-Receiptionist.png",
       "description": "Former safety chief claims Figure AI's humanoid robots can fracture skulls and alleges he was fired for raising concerns. The robotics startup, now valued at $39 billion with backing from Nvidia and Jeff Bezos, denies wrongdoing and cites poor performance as the reason for termination."
-    },
-    {
-      "headline": "New 'Transformer' humanoid robot can launch a shapeshifting drone off its back \u2014 watch it in action",
-      "source": "Live Science",
-      "source_url": "https://www.livescience.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUEd3S3JlOEYyc3VJM0V4UlZfei1kUlpralA0Tk1GTWVkUW10VHl0VGJNVHUxTzlBUU0tUU1OcVk1NkI2cWk1c1ZNUDljY2tBaXZEbTlkeHNVREtudGE0Z3hWdnZKSDJ2dHYzRGowa0ljSmVjdFV1MmxIZmtOOG5LVXZkYnk4WHZ4am81RkV2LVB4ZFdRTF84TlYzRW5TdXVHd1ZpRmplSGJUNHpEeGZYN3FJMFVoRmx2d3dIX3lxTGN4QVFGZ2oybVUwRW1MVXhsazBrQzVaOE5XLUE?oc=5",
-      "pub_date": 1763480700.0,
-      "article_url": "https://www.livescience.com/technology/robotics/new-transformer-humanoid-robot-can-launch-a-shapeshifting-drone-off-its-back-watch-it-in-action",
-      "image": "https://cdn.mos.cms.futurecdn.net/KKVyYHd2cDWjMrm9YYzH4-1600-80.png",
-      "description": "Developed at Caltech, a new robot is a humanoid that can launch an M4 drone, switching between different modes of motion, with wheels that can become rotors."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T04:06:28.711040+00:00"
+  "fetched_at": "2025-11-24T04:45:49.854090+00:00"
 }
