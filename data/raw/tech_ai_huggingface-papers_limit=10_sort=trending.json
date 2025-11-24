@@ -31,11 +31,11 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 81,
+      "upvotes": 82,
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
-      "github_stars": 3411,
+      "github_stars": 3505,
       "project_page": "https://ai.meta.com/sam3d/"
     },
     {
@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2511.10647",
       "arxiv_url": "https://arxiv.org/abs/2511.10647",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.10647.png",
-      "upvotes": 83,
+      "upvotes": 84,
       "num_comments": 4,
       "published_at": "2025-11-13T13:59:53.000Z",
       "github_repo": "https://github.com/ByteDance-Seed/depth-anything-3",
@@ -164,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2511.15705",
       "arxiv_url": "https://arxiv.org/abs/2511.15705",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.15705.png",
-      "upvotes": 57,
+      "upvotes": 58,
       "num_comments": 2,
       "published_at": "2025-11-19T13:59:22.000Z",
       "github_repo": "https://github.com/ekonwang/GeoVista",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-24T15:29:43.344233+00:00"
+  "fetched_at": "2025-11-24T16:32:10.798509+00:00"
 }
