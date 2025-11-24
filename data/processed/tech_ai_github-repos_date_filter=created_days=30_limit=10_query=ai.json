@@ -8,9 +8,9 @@
       "description": "NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard",
       "url": "https://github.com/NoFxAiOS/nofx",
       "preview_image": "https://opengraph.githubassets.com/9ba5f7e4ca1bf7079776fe1839ddb80d9da0b7566fa37fb55e37e4870588c003/NoFxAiOS/nofx",
-      "stars": 8060,
+      "stars": 8061,
       "stars_display": "8.1k",
-      "forks": 2106,
+      "forks": 2107,
       "forks_display": "2.1k",
       "language": "Go",
       "topics": [
@@ -30,7 +30,7 @@
       "description": "A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language",
       "url": "https://github.com/liujuntao123/smart-excalidraw-next",
       "preview_image": "https://opengraph.githubassets.com/7dc6e7a2aa2e5f6261deb6fd2aab56f3f00fe2d57ae1127a3e15ec0557210a06/liujuntao123/smart-excalidraw-next",
-      "stars": 1968,
+      "stars": 1969,
       "stars_display": "2.0k",
       "forks": 247,
       "forks_display": "247",
@@ -184,6 +184,6 @@
   "search_query": "ai created:>2025-10-25",
   "days": 30,
   "limit": 10,
-  "total_count": 216583,
-  "fetched_at": "2025-11-24T19:42:06.498600+00:00"
+  "total_count": 216928,
+  "fetched_at": "2025-11-24T20:50:43.196249+00:00"
 }
