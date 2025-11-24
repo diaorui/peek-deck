@@ -5,6 +5,16 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "Tesla is bleeding AI talent to a small new robotics start-up",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUTFBMXRyMGlCSXBwQVpQU09KTnpFTG1JdWQ1T2dtVC1OdXFOQWt3VEIxbXlWRUFvLWZzdVRSbEtZVmd6dGE4TXcwR1VFVDZOS0FQZGxIRWpUekZaejFITjMwNV9kQlBtaTJFVU8xcFZENi1TYUxVaFpBUk1JWnNXZXIyVm5CQ05lR2F6bQ?oc=5",
+      "pub_date": 1764017880.0,
+      "article_url": "https://electrek.co/2025/11/24/tesla-bleeding-ai-talent-small-new-robotics-start-up/",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/11/Sunday-Robotics-Tesla-engineers.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "description": "Tesla\u2019s AI and robotics divisions are facing a significant \u201cbrain drain\u201d as a stealth startup called Sunday Robotics emerges with..."
+    },
+    {
       "headline": "From Ukraine to Silicon Valley: Igor Kulakov and Viktor Petrenko on Building the Future of Automation",
       "source": "USA Today",
       "source_url": "https://www.usatoday.com",
@@ -15,14 +25,44 @@
       "description": "By combining AI with robotics engineering, the company is building systems designed to automate complex tasks once thought impossible for machines, with the goal of making U.S. manufacturing more efficient and adaptable."
     },
     {
-      "headline": "Tesla is bleeding AI talent to a small new robotics start-up",
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUTFBMXRyMGlCSXBwQVpQU09KTnpFTG1JdWQ1T2dtVC1OdXFOQWt3VEIxbXlWRUFvLWZzdVRSbEtZVmd6dGE4TXcwR1VFVDZOS0FQZGxIRWpUekZaejFITjMwNV9kQlBtaTJFVU8xcFZENi1TYUxVaFpBUk1JWnNXZXIyVm5CQ05lR2F6bQ?oc=5",
-      "pub_date": 1764017880.0,
-      "article_url": "https://electrek.co/2025/11/24/tesla-bleeding-ai-talent-small-new-robotics-start-up/",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/11/Sunday-Robotics-Tesla-engineers.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "description": "Tesla\u2019s AI and robotics divisions are facing a significant \u201cbrain drain\u201d as a stealth startup called Sunday Robotics emerges with..."
+      "headline": "Humanoid robots will change work forever",
+      "source": "abc.net.au",
+      "source_url": "https://www.abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3NlUkFwbTliYmNzSnhqdmFWR3F0T2N2TUM1V3M3YVk1T0hVYkltSUE2OWZmd1VKcl9EOXZtOXlDS25mblVSZFV1T19vZ3hFSGRNU245bHA0YkhfM1pGVlZfZXgzckpocmxCcTVZWWlkZHpDLXpxODBzcXMyU0FRU0ZEcmhJck5VelFSdFR0V2F5cHdUZ1Mtc2NBM0piVUhKRFRwOTRic1A5VDJtc0tBN0hn?oc=5",
+      "pub_date": 1763920800.0,
+      "article_url": "https://www.abc.net.au/news/2025-11-24/artificial-intelligence-robot-humanoid-workforce-labour-tax-ubi/106034208",
+      "image": "https://live-production.wcms.abc-cdn.net.au/78f6f1e009ae35e6583812d8082ac0be?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485&imformat=generic",
+      "description": "There is now a global race to build humanoids that can walk, talk, reason, lift, carry, fetch, stack and generally operate in a human environment."
+    },
+    {
+      "headline": "Whistleblower Says He Was Fired for Warning Execs That New Robot Could Crush Human Skull",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeFBlQ1BrNEZhZUxlVExVSVZkZDIwMURlZTJfRnItSU9ody04UEhLaTMxV3R5aHJPN0wzTmV3cmFOc0FLWEg5MzFhZDluWDNyOHZLdTBDSUd1Vlpwek1NSHF0SWotWXdISDM0eVJWOVBMcWJYZDl0OFp1LWhZSlZ4ME5SWEdidnk1a21pZERCMA?oc=5",
+      "pub_date": 1764007686.0,
+      "article_url": "https://futurism.com/robots-and-machines/whistleblower-fired-warning-robot-crush-skull",
+      "image": "https://futurism.com/wp-content/uploads/2025/11/whistleblower-fired-warning-robot-crush-skull.jpg?w=1200",
+      "description": "A former safety engineer at leading robotics firm Figure also alleges the robot left a gash in a stainless steel door."
+    },
+    {
+      "headline": "A Chinese humanoid robot walked 66 miles in 3 days, right into the Guinness World Records",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa192N0VDbjBxUjdDRWNUY211Q2Z3X3ZDTG5oY1Bjc0YzOFlDUnJRUWlha1Jtdm1Yd3c3aW9mNDZWOUdiREtIUUZ6S0trYW5BNlhLUVV4bFBzTjZVd0RSeDJRS01sSXFndW9nWUdsWEg0SUdVT3poTFlEaWVHcURUbUxWeXN5d2RSa2RKeW8wQmp4QXp4R0F4X0oxZmZ3TjjSAaQBQVVfeXFMT3IwMXo1SG5pbFZ2a2oxd1E2VktLRFdwOFJqOU9td1N0eVdLeXZ4LWN1WksyNUo0SEVZNXo3Yk1DS2MzeDhnN1NJNTg3NnRrbXd4d0M4VGdidmhNTTExeDNtcl9wQWVYSmdfWTdvUVJZVzdfRl9lU2ZBcjBXUXdYV2cxVm1ESXE5aFVYZG9fNHh6dFJVMzlhUW52Ymxqblc1bnpuQzM?oc=5",
+      "pub_date": 1763997720.0,
+      "article_url": "https://www.cbsnews.com/news/china-humanoid-robot-agibot-a2-walks-66-miles-guinness-world-records/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/24/e5e8b175-8e09-46ca-b6c7-202fd2a43ebe/thumbnail/1200x630/dedab634a3258c756470131532a55175/agibot-a2-humanoid-robot.jpg",
+      "description": "A Chinese company says its AgiBot A2 robot walked from Suzhou to Shanghai, \"all while adhering to traffic regulations.\""
+    },
+    {
+      "headline": "Rivian Is Following Tesla, Spins Up New AI And Robotics Startup",
+      "source": "Autoblog",
+      "source_url": "https://www.autoblog.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeUlTT3hXTTV3RnlVbzJ5SEozdFVRdUpNamVsRTd1Z2M1eXNLSEtmUGJPMDlZejNtT24wSExrZzVZTmhVNDlPOFE5WmtwV3BQYmUydGQ1ODh4MFFoYk1SUnl5dklieDJNYkdKa0M4Z1R2MnRnUEppU1BnS3NZRDRnRzlZRGI2bzRTSjlyelNlVG9DamRKMUVF?oc=5",
+      "pub_date": 1764010800.0,
+      "article_url": "https://www.autoblog.com/news/rivian-is-following-tesla-spins-up-new-ai-and-robotics-startup",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Kraken Robotics Reports Record Q3 2025 Financial Results",
@@ -45,36 +85,6 @@
       "description": null
     },
     {
-      "headline": "Humanoid robots will change work forever",
-      "source": "abc.net.au",
-      "source_url": "https://www.abc.net.au",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3NlUkFwbTliYmNzSnhqdmFWR3F0T2N2TUM1V3M3YVk1T0hVYkltSUE2OWZmd1VKcl9EOXZtOXlDS25mblVSZFV1T19vZ3hFSGRNU245bHA0YkhfM1pGVlZfZXgzckpocmxCcTVZWWlkZHpDLXpxODBzcXMyU0FRU0ZEcmhJck5VelFSdFR0V2F5cHdUZ1Mtc2NBM0piVUhKRFRwOTRic1A5VDJtc0tBN0hn?oc=5",
-      "pub_date": 1763920800.0,
-      "article_url": "https://www.abc.net.au/news/2025-11-24/artificial-intelligence-robot-humanoid-workforce-labour-tax-ubi/106034208",
-      "image": "https://live-production.wcms.abc-cdn.net.au/78f6f1e009ae35e6583812d8082ac0be?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485&imformat=generic",
-      "description": "There is now a global race to build humanoids that can walk, talk, reason, lift, carry, fetch, stack and generally operate in a human environment."
-    },
-    {
-      "headline": "A Chinese humanoid robot walked 66 miles in 3 days, right into the Guinness World Records",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa192N0VDbjBxUjdDRWNUY211Q2Z3X3ZDTG5oY1Bjc0YzOFlDUnJRUWlha1Jtdm1Yd3c3aW9mNDZWOUdiREtIUUZ6S0trYW5BNlhLUVV4bFBzTjZVd0RSeDJRS01sSXFndW9nWUdsWEg0SUdVT3poTFlEaWVHcURUbUxWeXN5d2RSa2RKeW8wQmp4QXp4R0F4X0oxZmZ3TjjSAaQBQVVfeXFMT3IwMXo1SG5pbFZ2a2oxd1E2VktLRFdwOFJqOU9td1N0eVdLeXZ4LWN1WksyNUo0SEVZNXo3Yk1DS2MzeDhnN1NJNTg3NnRrbXd4d0M4VGdidmhNTTExeDNtcl9wQWVYSmdfWTdvUVJZVzdfRl9lU2ZBcjBXUXdYV2cxVm1ESXE5aFVYZG9fNHh6dFJVMzlhUW52Ymxqblc1bnpuQzM?oc=5",
-      "pub_date": 1763997720.0,
-      "article_url": "https://www.cbsnews.com/news/china-humanoid-robot-agibot-a2-walks-66-miles-guinness-world-records/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/24/e5e8b175-8e09-46ca-b6c7-202fd2a43ebe/thumbnail/1200x630/dedab634a3258c756470131532a55175/agibot-a2-humanoid-robot.jpg",
-      "description": "A Chinese company says its AgiBot A2 robot walked from Suzhou to Shanghai, \"all while adhering to traffic regulations.\""
-    },
-    {
-      "headline": "Figure AI sued by whistleblower who warned that startup's robots could 'fracture a human skull'",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xRkZMNXljcmZXZ2Y2TDljZkplS0lzZk9ocWJkSWhZalNGaFd5czJodWdLRFdGbDVyZ0JIVzgzemxmMjY0cDdTUnNSVVpCY1RvVTMtQ2E4Smx1djM0YkdGd9IBZkFVX3lxTE92alZXTlhpN1d3WEFSTVpPTDd2NDJ0SXczYXE1dEpBX21rSmJBQm5mN2NTcWpZYjR0SWNUTzZlMUVnZGFnSkNfYzV1M3F0T2EzVGVseXlPY2VYd1VBNHUzSW4yb1UtQQ?oc=5",
-      "pub_date": 1763769128.0,
-      "article_url": "https://www.cnbc.com/2025/11/21/figure-ai-sued.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107379938-1709152661747-Figure_Image_4.jpg?v=1709153015&w=1920&h=1080",
-      "description": "A former engineer for Figure AI filed a lawsuit against the company, claiming he was unlawfully terminated after warning executives about product safety."
-    },
-    {
       "headline": "The Droids Taking Over One of England\u2019s Strangest Towns",
       "source": "New York Magazine",
       "source_url": "https://nymag.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.scmp.com/tech/big-tech/article/3333787/xiaomi-open-sources-ai-model-spanning-autonomous-driving-and-robotics",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/22/a3b60646-2a8f-4358-9d8e-0df2feab2d46_6b73773b.jpg?itok=QrbmmjT1&v=1763795339",
       "description": "EV and AI initiatives have become an increasingly important part of Xiaomi\u2019s business."
-    },
-    {
-      "headline": "While Politicians Fret, Unitree is Selling Robots Across America",
-      "source": "The Wire China",
-      "source_url": "https://www.thewirechina.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzNoRlJzeERDMkdrYWc2R2U1dTB3NmFjeFlpMUF1UVFiTDZTTmdFSEpINkU4MWlHSFh6c2lTYTdoemVyYlBBc2pZVnNnakhBaFVFSjk5bFh4LXl5OEtuaVRkeHZIWkxJUkthaDVmLXI2akZfQWlubTVrbnF3NUZ4b2ZGaEZxOF9nb1BwVWRlSUg5dzRVYV83R2V1cDlFVGI3UkdtWURPTUVJNEg2STVvbWUzTVN5MURfb05CWE1lUFJZN28?oc=5",
-      "pub_date": 1763936393.0,
-      "article_url": "https://www.thewirechina.com/2025/11/23/while-politicians-fret-unitree-is-selling-robots-across-america-unitree-police-robot/",
-      "image": "https://www.thewirechina.com/wp-content/uploads/2025/11/Unitree-at-CCSU-scaled-e1763756088413.jpg",
-      "description": "Police departments and universities are among the growing number of U.S. customers for the market-leading Chinese robot maker, Unitree."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T21:11:00.313101+00:00"
+  "fetched_at": "2025-11-24T21:44:35.195336+00:00"
 }

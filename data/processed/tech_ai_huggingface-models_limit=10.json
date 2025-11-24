@@ -25,7 +25,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/facebook/sam3.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1592839207516-noauth.png",
       "downloads": 84190,
-      "likes": 594,
+      "likes": 595,
       "pipeline_tag": "mask-generation",
       "num_parameters": "859.9M",
       "last_modified": "2025-11-20T22:05:08.000Z",
@@ -73,7 +73,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/facebook/sam-3d-objects.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1592839207516-noauth.png",
       "downloads": 0,
-      "likes": 164,
+      "likes": 165,
       "pipeline_tag": null,
       "num_parameters": null,
       "last_modified": "2025-11-21T12:08:20.000Z",
@@ -162,6 +162,6 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-11-24T21:10:49.567197+00:00",
+  "fetched_at": "2025-11-24T21:44:22.117792+00:00",
   "has_descriptions": true
 }

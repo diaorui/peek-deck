@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Amazon to invest up to $50 billion to expand AI and supercomputing infrastructure for US government agencies",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXZyVlFqeWJCODRWeXRwUTVJMHhFZkRmbFBOa0JXdmhfdFRzNmVCMkFVZDhNS0RfRnhMNDVlTW1YZl9DM1ROQUdVX2pVT2pOUVJxRXZfVUVhUjdFU1gzZ2tld21qeF9KX3FZZi04S05hOGZKZHo5cTNIMmdTSzhHblN0Ylpfc09uR21OM05WWQ?oc=5",
-      "pub_date": 1764000228.0,
-      "article_url": "https://www.aboutamazon.com/news/company-news/amazon-ai-investment-us-federal-agencies",
-      "image": "https://assets.aboutamazon.com/dims4/default/29a0af5/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc6%2Ff7%2F88fa6e81457bbb11c742465fe562%2Fabout-amazon-hero-aa-hero001-amazon-datacenter-bht-0318a-2-4715x2652.jpg",
-      "description": "Federal agencies will gain access to Amazon SageMaker AI, Amazon Bedrock, Amazon Nova among other AI services from AWS."
-    },
-    {
       "headline": "Amazon to spend up to $50 billion on AI infrastructure for U.S. government",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -23,6 +13,16 @@
       "article_url": "https://www.cnbc.com/2025/11/24/amazon-to-spend-up-to-50-billion-on-ai-services-for-us-government.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108214314-17609846542025-10-20t181828z_76548831_rc2ofhahwau7_rtrmadp_0_amazon-outages-aws.jpeg?v=1760984688&w=1920&h=1080",
       "description": "The project will add 1.3 gigawatts of capacity across new data centers, with Amazon expected to break ground in 2026."
+    },
+    {
+      "headline": "Amazon to invest up to $50 billion to expand AI and supercomputing infrastructure for US government agencies",
+      "source": "About Amazon",
+      "source_url": "https://www.aboutamazon.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXZyVlFqeWJCODRWeXRwUTVJMHhFZkRmbFBOa0JXdmhfdFRzNmVCMkFVZDhNS0RfRnhMNDVlTW1YZl9DM1ROQUdVX2pVT2pOUVJxRXZfVUVhUjdFU1gzZ2tld21qeF9KX3FZZi04S05hOGZKZHo5cTNIMmdTSzhHblN0Ylpfc09uR21OM05WWQ?oc=5",
+      "pub_date": 1764000228.0,
+      "article_url": "https://www.aboutamazon.com/news/company-news/amazon-ai-investment-us-federal-agencies",
+      "image": "https://assets.aboutamazon.com/dims4/default/29a0af5/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc6%2Ff7%2F88fa6e81457bbb11c742465fe562%2Fabout-amazon-hero-aa-hero001-amazon-datacenter-bht-0318a-2-4715x2652.jpg",
+      "description": "Federal agencies will gain access to Amazon SageMaker AI, Amazon Bedrock, Amazon Nova among other AI services from AWS."
     },
     {
       "headline": "Amazon\u2019s $50 Billion U.S. Infrastructure Pledge Makes 2025\u2019s Top AI Deals (Full List, Ranked)",
@@ -35,76 +35,76 @@
       "description": "Spending on AI has accelerated in recent months, as Wall Street anticipates global expenditures nearing half a trillion dollars by 2026."
     },
     {
-      "headline": "AI Investors Want More Making It and Less Faking It",
+      "headline": "Opinion | The First Large-Scale Cyberattack by AI",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxPTFBBOWZiT1dNM3p1NkVtclB6bUFNV1ItTGdBVkpFYnh1Mnhkb0Z0aTZVQ2RnVVY1dFh0N2hrS1JOWmlydXh3Z1ZFTHItWUJIN2tsT2YzWERkVm5YZWMtX29mRnBJY0VNWGdQYkM3VGtfby1sM0NVR1Q3cDMyRFE2WWcxaTVrc2E5bWcwWmZVZnFrc2xscUhXU25lbWVyakt5RHpTVkFPbWx5VnF2dEJIVmZ4YmJqc0ZDMGNoRkFzeUZjcHNXUTJPUi01RXVwVjNZSGl0V1ZfSHV6d2lpSUFwaHZwbk1pR2l5ZnpvU2s5dnVVazJFaDNaTzk4NHlHcEZVcUVxc3ZqclV4V2M1c1Jpd2dBZXo2TGpNcXdzdHVYZHBWUDRjWndFdWVtRzZwbUp6MUp4el9ZLXJ0UWJld3pTbEN0OFFnV0MzZTJicnB0Q0h5SE1ycW5PYVBadnREQVBGSGVLWW8zbS1Oc2stNXV1aUtXbzNzMlNmR09ZSkdIZmNUQWZYX0ZEMXBubTNtYVhsZWYweWZCZy1Pem0tR05NSg?oc=5",
-      "pub_date": 1763866800.0,
-      "article_url": "https://www.wsj.com/finance/stocks/ai-investors-want-more-making-it-and-less-faking-it-321d8202?gaa_at=eafs&gaa_n=AWEtsqdDxh9Th0RQqvI23IZA59YGfXLVA8zoboyIyFu9m4VW0tSE4sHcU5YZ&gaa_ts=6924cd52&gaa_sig=xcDyjofJ9AVUtaep9bE-j21kLEmzcKPDi5XkuOuqlHEoFWMtkl89OHkCTVvO-ocmeFmoGggHo91gd_LPMIBD-A%3D%3D",
-      "image": "https://images.wsj.net/im-64600370/social",
-      "description": "The artificial-intelligence industry took Silicon Valley\u2019s hustle mentality to an extreme\u2014and investors are catching on."
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOb2V0Nzc1Qk5BdG1RaVZfSGRHczBXWFdGeExPaDJwaVZvR3hfUEVvemd6UHVzeFY0emxPM1RyRjVhSng5OTE3UGdIb2I0QTFuR3lYNllJSFljMGVWWmVnLVhTc1lRTUtiSFZ1dE9YV0d2TG9jcFpFXzY5cFVDRmVjbnVCX1JTUUp5c3R2bWtOSkNXNG01cXpXUi11Z2tiS2ZTTnV2aG11YW82TlAweWhIZFQ0V252MDRNZWdONzlkLThDdWhGeEs2ZzAyQlhqa1hIZW9wVnF0SE5RVXVFM21WZV8wM1JRSHVGRzRhWjE4SlN4b0gtZkp1OXg2WFFLc0JRYlJqcUxmQVZadG5GRWJoZlVyMUpabjhfeWxaSmZnWDlEblhBZno0cmxrQUN3WEx0WDNadktrRVZ4bHB6Q2tlNmU3Vy1FVXROVm5rejZkNUhHUkZ5MW5QMzJnMzdEYWJodXB0WU4xN2w5OEl2dGVRWVlVZDFncDA0R0cxbm10Tkh5d1Q1Mk1n?oc=5",
+      "pub_date": 1763917380.0,
+      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqfPaEMra1xcpAOruQVW35Ys7hQTDwgCtlDePly36WX-NaA5FZecclTg&gaa_ts=6924d52d&gaa_sig=cXRAyzgN_ulCNLehxOv9CHYzdWIiHy-IrjjzTSaOyFuN3QXZxLCnJDOdD9Caqk5P-sq4p1qaCT8HTkgduW8vlQ%3D%3D",
+      "image": "https://opinion-images.wsj.net/im-07766347/social",
+      "description": "With basic tech and little human oversight, Chinese spies apparently exploited Anthropic\u2019s Claude Code."
     },
     {
-      "headline": "Here's why concerns about an AI bubble are bigger than ever",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0dyS2I4eFprMm1QTVFnai16TjlvNTN0VVcyakdFWUlnaG9mcGhlc1NPVzRLRU4zamhzS0dyRlV0a05RQk40bDVVb0tfU09COG03TWFBSFJMQlpvXy1FZ2NQY0U0azFsZjF1NThUZmV5VzJKSmhDZDBBdHg5S3NsRFJLV0ZvSjVlYXFIVWJieE80NW01MlRFVGZB?oc=5",
-      "pub_date": 1763892000.0,
-      "article_url": "https://www.npr.org/2025/11/23/nx-s1-5615410/ai-bubble-nvidia-openai-revenue-bust-data-centers",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6570x3696+0+342/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F1c%2F8fb36bab4460ad7d24569abf921a%2Fgettyimages-2192213324.jpg",
-      "description": "Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there's a bubble that will soon pop."
-    },
-    {
-      "headline": "Could markets be facing an 'everything bubble'? Investors are divided",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWklSX0dWZlByeS0yaDU1SVRseG44cGVBZXZ6dGN0U3ZvODRPTUx6TmYzU0hIbE5pRWk2eGF2TjEwNjFBWVRXbTU1ZVdFTTZHNHZWVFlYSWc0dU9MSzZqd3hZMjZoeDNoVENVY3lzaFJ1XzBRNkVnUnM2NjZDTmRFNG9BSmItZDZmLWVrbk1SSllIaDNpdFQwV3c3aDA2NWtsNHJueWFB?oc=5",
-      "pub_date": 1763965243.0,
-      "article_url": "https://www.cnbc.com/2025/11/24/ai-bubble-markets-could-face-everything-bubble-as-selloff-rages-on.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108228362-17635699152025-11-19t162539z_172707533_rc2qzha2pgj4_rtrmadp_0_usa-stocks.jpeg?v=1763570092&w=1920&h=1080",
-      "description": "Global stocks have seen wild swings over the past week, amid mounting concerns a bubble could be about to burst."
-    },
-    {
-      "headline": "Stocks rally on rising hopes for December rate cut and renewed AI enthusiasm",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNktteFRVNEZ2cUlTTG1QZUpUTGxucDAyWGw5NFBGMTI4d2g4OTFsc29GeG1fUkYwMU1rdkc5aEY2Mno2bmxVS05WREJzU2hjMFdTQmxfQWM5UVhZREZuclNqbzNNY2VTa1NsTkhfb19oOTdWLVpadGo1aG9xNVlUSnVLVnVNUXhJb3F5UE9oVzA1dHAy0gFWQVVfeXFMUHRpUGdza3lWeTVIc0M1d0Zfekcyakhnb3NOc3lEcjFveVpOakpfNDJ1WGlESnIwODVUNEJoeVdueHVIeGFUNTNmX0IybGJoZFJ2NUo1V3c?oc=5",
-      "pub_date": 1764017658.0,
-      "article_url": "https://www.nbcnews.com/business/markets/stocks-rally-fed-rate-cut-ai-companies-rcna245722",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251124-new-york-stock-exchange-ew-332p-db6cb9.jpg",
-      "description": "A turnaround in AI stocks, which sold off last week, pushed the Nasdaq to its best day since May."
-    },
-    {
-      "headline": "Here's what's in the RAISE Act, a state-level AI bill opposed by Trump and industry leaders",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORG9YSE91T05teW5ud2dJQldheV95ZFkzcl9ibzJ2a2ozZ2xKakV2bHpDbUlyaVR0ckREMk5aZEpPckdkcUt5aW5kZWpnYXdpNXQ0QVlqMUpKNzF5RmsxREJ2ZEoyc2hNT0l0TUZ5cWJBM3VVOE84SjBidDBHYnd0QU90QkliY3ZkOWZlYWFwajRxTXgwcEtmV01iekpMcHg3Z05BZ3ptYXPSAa4BQVVfeXFMTjB1Z3B5NEx2cUlOei1VWG5vRzJ2aGJWUk9DeUx1ZVRYMW0xNG9SbnRNLTNtSFM1X3hYZ25TTXNFNnFydmtCa1N4bHZkRklCS1lKNXphd09CSTJ3YlZ2TkpjbmgxWUVfWHNfaWtRV2pxMDdydjlqS3RpQ1dfd3pvM1gwdFVWakFDVjlOUGJmdEZfV0c0dEN3dGhtSUQ1Q1hFVnloUVNuUkNGelhOZVVn?oc=5",
-      "pub_date": 1764002775.0,
-      "article_url": "https://www.cnbc.com/2025/11/24/raise-act-new-york-faces-opposition-from-trump-ai-industry-super-pac.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108231093-1764006053293-108231093-1764005988567-gettyimages-2235635791-McGregor250918AbolishICE09.jpg?v=1764006067&w=1920&h=1080",
-      "description": "The RAISE Act would require large AI companies to publish safety and risk protocols and disclose serious safety incidents."
-    },
-    {
-      "headline": "The surprising issue driving a wedge between Trump and his MAGA base",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlRWWm04U29yNXRCTVVuU2tfVXY4dzJsX2h6TV9NRTgtSE1WLUlnbEF2UnJITG9pa0NIMUhtUHFhalZZUTlGc0ltTzZOSWhTQ2ZDX0JRSlpTSzZ0UFB6Y3dSWXFWVGpTdHRwLXJYOV9La2QwdHJqWV9KRTVIOFlISHJYMzQ3VnF3?oc=5",
-      "pub_date": 1763921138.0,
-      "article_url": "https://www.washingtonpost.com/technology/2025/11/23/trump-maga-division-tech-ai/",
+      "headline": "Alphabet races toward $4 trillion valuation as AI-fueled gains accelerate",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0JidWxxTVNrRHdWRzhWZU9ETExDcXlWazlFMGVJWTdENks2SWVDQjJDcDNkd0QxeUZXUVlKT2F4MHVNSWUtWWd2cWpYUThTcWl4MHk5Rk96a3lsS0VGX0FrZ0YyWG1ILTFPeTJ5eXRqSHBhd3V3RmlwOUlFWW1SclhxVE1TV3dZYkJZekszUFIzSDNrSjNoNGZUVkxqSjN5Z3k3dGVuMTYtbXFNY1RVcjFCV2w?oc=5",
+      "pub_date": 1764002972.0,
+      "article_url": "https://www.reuters.com/business/alphabet-races-toward-4-trillion-valuation-ai-fueled-gains-accelerate-2025-11-24/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Alphabet is surging on notion it's winning AI race over OpenAI. Why that's scaring many investors",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3ZoMHd5M1dZUjlFbzhlbUl0bm9GNjd1LXNSeHhRVlpiaXpQTEF0MHlHVEhVQXIyWUo0M1V5UTJEdkh4UTlsdTI2SkVaSkVEOThrdlZYMVo1d2pRVmFlTVBKT2hJdVoyVzJTUmI3RkVxWVprUTl6TmpmSjFvRE1ESXZWTmFZU0FpVXctNFhzVTItVVNCNWF5SEhNUUlXMnU0Q3BUQ25LZWpMRC1aXzhWd213ak9OQXJ1Y1paREs3bVZaLUVIN202TXZWQQ?oc=5",
+      "pub_date": 1764003472.0,
+      "article_url": "https://www.cnbc.com/2025/11/24/alphabet-is-surging-on-notion-its-winning-ai-race-over-openai-why-thats-scaring-many-investors.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108228513-1763577991299-gettyimages-2247406412-vcg111604759214.jpeg?v=1763578037&w=1920&h=1080",
+      "description": "Google's momentum within AI can spell bad news for other technology stocks."
+    },
+    {
+      "headline": "Why Google\u2019s AI Wins Are Bad News for Nvidia Stock and the AI Trade",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNajN6LXVCZnI3T1JqSXRyanNWLXRIM0pJV2ZiV0NRTTR4MF81VG0zckdFZUZTeDhzQlJsZzRJWktMRlotZWRXLXlHTTNSa0NpeWFFckRrSV9Ycl9leUpNYm1uTFdRM0E2NG1MYVhabko0TXRLM3dCQklHZFl3dkVMdHMwUHhKdEg5RnJDVHp2X24zTzNHamRSR0ZYdF9Jb1psaHNCMWY3ZElHbi00S25JYjR1Y01maGRELXM5QmIxTzhFV0dKS3Y0ZFhBTUw4alpSTHBBekdoVkZzUDR6TGpQQjZwbzJYSnpPZkcycDlvNkxXeWFDZTFBck9jSXpVb0txbVRfazZvLURLeGo2TGdEeElTVDdhclA4ZU43TFMxWjRZME8zQUlQTTVWeFVuOFk2a2t6XzVMWGZoTmYtV3I0YTNEY29DWVdNQzZJbHoybVdjZnl0OFlSOWIxTlBxcEZmdjRxR2cwb0RnMDh1cGloRnluY2hxOWFESXBwOA?oc=5",
+      "pub_date": 1764018480.0,
+      "article_url": "https://www.barrons.com/articles/ai-google-nvidia-stock-tpu-84753c55?gaa_at=eafs&gaa_n=AWEtsqfr0eG3nEIqUfW9h6vr85nCMarSvaDISrBGaxtdfHkqyNaQO2E2lrVu&gaa_ts=6924d52d&gaa_sig=kxttToi5RWyBdAm1jWsWuxfTsOydpwcGTgQmfqg6Kkm_tbjNVmhjgSSUPXvspjCo85TYNGvBnlWKAD3UCRxBsA%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Hedy AI Introduces Topic Insights, Industry's First Cross-Session Meeting Intelligence Technology",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZENlVXFuaVFMcG9STVRmMl9LWWJvNXlkZFdObzQwWUFtLWpKbHVYVlFXd2hQQ0pCY3JFRTEwZVhHTDVkMDhWcjJ1bDVELXk0TlF2dFI5eTJjX3JjakxtUDk5N1VPYWtvM0JENHZXR05tZ01DY295LWpUZkhZbUJ3Y1ZGQXp2Zw?oc=5",
+      "pub_date": 1764019200.0,
+      "article_url": "https://finance.yahoo.com/news/hedy-ai-introduces-topic-insights-212000018.html",
+      "image": "https://media.zenfs.com/en/globenewswire.com/337f7dde8739253485b08a0bfc5a6c5e",
+      "description": "New capability analyzes conversation patterns across multiple related meetings, solving the continuity problem that existing meeting AI platforms haven't addressedPortland, OR, Nov. 24, 2025 (GLOBE NEWSWIRE) -- Hedy AI, the AI-powered meeting coach, today announced Topic Insights, a breakthrough feature that represents the industry's first solution for analyzing patterns across multiple related conversations. While existing meeting intelligence platforms treat each conversations in isolation, To"
+    },
+    {
+      "headline": "How Small Businesses Get Found When Customers Ask AI Instead Of Google",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMW9fTEF4eFdrOUloX0xuTnQ3Wm5sQ3QzMXNYRUtyQ0p3UHZ6YnlNdThvWlQxcF90bGRQOFJyZlcyR2wwR21xVnR1eDY5b1RNUlpUaHBsWFg4Tk9OelBYdEJrRG9RM1FkOTEyM1p2ZnFxZGVDdm9OOU9nWUdFUm9EVVAtX1FTSUo2cFRjZ2VOS2U0T0RqbF9wN1kzYnBPRWhJT2NITTdjSFF0dFExMnVqaW9KOU40R1RHZGZsbUhwWDJjTWc?oc=5",
+      "pub_date": 1764018334.0,
+      "article_url": "https://www.forbes.com/sites/terdawn-deboe/2025/11/24/how-small-businesses-get-found-when-customers-ask-ai-instead-of-google/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/69248aae7e6cdd46e4a57b70/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "Answer Engine Optimization: The Small Business Guide To AI Search. How Small Businesses Get Found When Customers Ask AI Instead Of Google"
     },
     {
       "headline": "Inside MAGA's growing fight to stop Trump's AI revolution",
       "source": "ABC News",
       "source_url": "https://abcnews.go.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ18zVHd5aHU0SW9LcWVfWjJld0ZrZjV3RmQyaVNRb0llcl9Dei1QRU9wcVo0MEZQVU1jVVdiWUQ0bXc5dE1VdmJ6QkEyNGJxdXZuX3phMTRUREpOZFhLQ1l5Q2Z4YVBpdGZLM2xrSFVEV1gxeXlQVEVlcXVjRGVLT201TnIxb1R6cnYtZUJJakxCVHJBN0hRRzdMVDFpZ9IBowFBVV95cUxPQVNZblB0RXhuYkZLd3FKSEx4eGhHRDRBTGR0Qmh2bm5xUXlibDR3eHBGSEZ5REFRU3RNdm1EdHNPaWVueHJYakZFZk92UUZ5bU45RFlvRTR6dlFXVW80cFhIMTdhLW9PajV6RE9PMXluOWZ4amotSGJ0MmN4NjlydG9BTWJvWHF0S05fS0R5bnc5Z29nczQ5WExyLUJ1dHduQkRB?oc=5",
-      "pub_date": 1764016598.0,
+      "pub_date": 1764016908.0,
       "article_url": "https://abcnews.go.com/US/inside-magas-growing-fight-stop-trumps-ai-revolution/story?id=127824351",
       "image": "https://i.abcnewsfe.com/a/e2d7d898-26a0-4efd-8c4a-4d9095b3399d/bannon-gty-er-251124_1764010902064_hpMain_16x9.jpg?w=1600",
       "description": "As President Trump pushes an extensive agenda for the advancement of AI, some of his most loyal supporters within the MAGA base are denouncing his efforts."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T21:11:01.641210+00:00"
+  "fetched_at": "2025-11-24T21:44:39.788458+00:00"
 }

@@ -35,17 +35,6 @@
       "description": "MagicLab website: https://www.magiclab.top/en From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1991895323246219551"
     },
     {
-      "title": "TEMAS Pick & Place | Aruco + AI Depthmap",
-      "author": "Big-Mulberry4600",
-      "url": "https://www.reddit.com/r/robotics/comments/1p5h29d/temas_pick_place_aruco_ai_depthmap/",
-      "published": 1763990915.0,
-      "thumbnail": "https://external-preview.redd.it/F4wDCIMIDWuU0R2jcayoDHSrVUAG3XbZcOHfcaqGE94.jpeg?width=320&crop=smart&auto=webp&s=5041baa1735e56529ceb1d7cc5254ccd9f17556a",
-      "external_url": "https://youtube.com/shorts/24reR1AUCiU?feature=share",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/33c3234b/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
       "title": "How can I integrate MATLAB/Simulink/Simscape with ROS 2 Humble and Gazebo Harmonic for a real-time Stewart Platform + Car Simulation?",
       "author": "zaid77_hd",
       "url": "https://www.reddit.com/r/robotics/comments/1p5opes/how_can_i_integrate_matlabsimulinksimscape_with/",
@@ -66,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey everyone, I\u2019m 23 and studying Computer Engineering in Germany. I\u2019m at a point where I need to make a decision, and I\u2019d love some perspectives from people who have been in similar situations or work in robotics/space. I\u2019m deciding between two options: Continue my Bachelor and work as a student in Computer Vision or Mission Control for space. This keeps my degree path open and allows me to continue personal projects like SLAM robots or a Sleep Lab with CV & IR night vision. Go full-time as a Robotics Software Engineer at Technology & Strategy Group, working on autonomous offroad robots. This gives hands-on experience with complex real-world robotics projects, but I wouldn\u2019t finish my degree. My long-term goal is to develop autonomous exploration robots (space or underwater) and eventually start my own company in this field. I want to use my 20s strategically to build the skills, network, and project portfolio that make me competitive for places like DLR, NASA, Fraunhofer, or Tesla. I\u2019m curious: Which option would accelerate relevant robotics experience the most? How can I best combine professional experience and personal projects? Are there ways to prepare for space-related standards (ECSS/CCSDS, ground segment, satellite control) even while still a student or early in my career? Any advice or shared experiences would be amazing. Thanks in advance!"
+    },
+    {
+      "title": "TEMAS Pick & Place | Aruco + AI Depthmap",
+      "author": "Big-Mulberry4600",
+      "url": "https://www.reddit.com/r/robotics/comments/1p5h29d/temas_pick_place_aruco_ai_depthmap/",
+      "published": 1763990915.0,
+      "thumbnail": "https://external-preview.redd.it/F4wDCIMIDWuU0R2jcayoDHSrVUAG3XbZcOHfcaqGE94.jpeg?width=320&crop=smart&auto=webp&s=5041baa1735e56529ceb1d7cc5254ccd9f17556a",
+      "external_url": "https://youtube.com/shorts/24reR1AUCiU?feature=share",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/33c3234b/img/favicon.ico",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     },
     {
       "title": "Trying to look for the closed form analytical solution for this Amazon bought robotic arm",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-24T21:10:42.415299+00:00"
+  "fetched_at": "2025-11-24T21:44:15.295367+00:00"
 }
