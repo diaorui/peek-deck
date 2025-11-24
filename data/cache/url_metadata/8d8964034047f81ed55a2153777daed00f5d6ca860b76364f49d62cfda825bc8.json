@@ -1,7 +1,6 @@
 {
-  "url": "https://github.com/eelbaz/dgx-spark-vllm-setup",
-  "cached_at": "2025-11-24T16:32:24.309933+00:00",
-  "metadata": {
+  "cached_at": "2025-11-24T17:46:24.678407+00:00",
+  "data": {
     "url": "https://github.com/eelbaz/dgx-spark-vllm-setup",
     "title": "GitHub - eelbaz/dgx-spark-vllm-setup: One-command vLLM installation for NVIDIA DGX Spark with Blackwell GB10 GPUs (sm_121 architecture)",
     "description": "One-command vLLM installation for NVIDIA DGX Spark with Blackwell GB10 GPUs (sm_121 architecture) - eelbaz/dgx-spark-vllm-setup",

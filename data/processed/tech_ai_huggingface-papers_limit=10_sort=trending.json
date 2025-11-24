@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16719",
       "arxiv_url": "https://arxiv.org/abs/2511.16719",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16719.png",
-      "upvotes": 43,
+      "upvotes": 47,
       "num_comments": 1,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16334",
       "arxiv_url": "https://arxiv.org/abs/2511.16334",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16334.png",
-      "upvotes": 69,
+      "upvotes": 71,
       "num_comments": 1,
       "published_at": "2025-11-20T08:11:45.000Z",
       "github_repo": "https://github.com/EvolvingLMMs-Lab/OpenMMReasoner",
@@ -164,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2511.15705",
       "arxiv_url": "https://arxiv.org/abs/2511.15705",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.15705.png",
-      "upvotes": 58,
+      "upvotes": 59,
       "num_comments": 2,
       "published_at": "2025-11-19T13:59:22.000Z",
       "github_repo": "https://github.com/ekonwang/GeoVista",
@@ -187,11 +187,11 @@
       "num_comments": 1,
       "published_at": "2025-11-19T11:18:02.000Z",
       "github_repo": "https://github.com/facebookresearch/MHR",
-      "github_stars": 330,
+      "github_stars": 341,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-24T16:32:10.798509+00:00"
+  "fetched_at": "2025-11-24T17:46:11.295252+00:00"
 }

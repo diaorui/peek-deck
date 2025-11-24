@@ -1,7 +1,6 @@
 {
-  "url": "https://github.com/mouna23/AI-driven-MITRE-Attack",
-  "cached_at": "2025-11-24T16:32:26.709137+00:00",
-  "metadata": {
+  "cached_at": "2025-11-24T17:46:26.191653+00:00",
+  "data": {
     "url": "https://github.com/mouna23/AI-driven-MITRE-Attack",
     "title": "GitHub - mouna23/AI-driven-MITRE-Attack: This repository demonstrates a machine learning pipeline for detecting MITRE ATT&CK techniques from logs and enriching the output using a local LLM.",
     "description": "This repository demonstrates a machine learning pipeline for detecting MITRE ATT&CK techniques from logs and enriching the output using a local LLM. - mouna23/AI-driven-MITRE-Attack",

@@ -7,11 +7,11 @@
       "owner_avatar": "https://avatars.githubusercontent.com/u/239856193?v=4",
       "description": "SAG - SQL\u9a71\u52a8\u7684RAG\u5f15\u64ce \u00b7 \u67e5\u8be2\u65f6\u81ea\u52a8\u6784\u5efa\u77e5\u8bc6\u56fe\u8c31 | SQL-Driven RAG Engine \u00b7 Automatically Build Knowledge Graph During Querying",
       "url": "https://github.com/Zleap-AI/SAG",
-      "preview_image": "https://opengraph.githubassets.com/0ae4615dc48e174f4ed3ccff54ec3295ef4c543b2046ca8c4218e900e329ceb6/Zleap-AI/SAG",
-      "stars": 310,
-      "stars_display": "310",
-      "forks": 10,
-      "forks_display": "10",
+      "preview_image": "https://opengraph.githubassets.com/d69c3a3459df3344a794364f9b77e0fba1d1aebe7813f23952fcac697bf515c6/Zleap-AI/SAG",
+      "stars": 312,
+      "stars_display": "312",
+      "forks": 11,
+      "forks_display": "11",
       "language": "Python",
       "topics": [
         "ai",
@@ -133,7 +133,7 @@
       "owner_avatar": "https://avatars.githubusercontent.com/u/69058620?v=4",
       "description": "Kubernetes operator for GPU-accelerated LLM inference - air-gapped, edge-native, production-ready",
       "url": "https://github.com/defilantech/LLMKube",
-      "preview_image": "https://opengraph.githubassets.com/b87fe1b03331ad6d10e32e25bfc03a146eaa636f4826e2d9e6eaff86af8bc81d/defilantech/LLMKube",
+      "preview_image": "https://opengraph.githubassets.com/31638b115223c1a1b20e4757e04feacfe70ec35379b67aa68fce5c99fe166d39/defilantech/LLMKube",
       "stars": 11,
       "stars_display": "11",
       "forks": 1,
@@ -146,7 +146,7 @@
         "gguf",
         "gpu"
       ],
-      "updated_at": "2025-11-24T16:27:45Z"
+      "updated_at": "2025-11-24T17:06:41Z"
     },
     {
       "full_name": "eelbaz/dgx-spark-vllm-setup",
@@ -219,6 +219,6 @@
   "search_query": "ai machine-learning llm created:>2025-10-25",
   "days": 30,
   "limit": 10,
-  "total_count": 162,
-  "fetched_at": "2025-11-24T16:32:28.473234+00:00"
+  "total_count": 161,
+  "fetched_at": "2025-11-24T17:46:27.804977+00:00"
 }
