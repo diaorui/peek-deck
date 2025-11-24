@@ -8,9 +8,9 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
-      "stars": 79520,
+      "stars": 79540,
       "stars_display": "79.5k",
-      "forks": 11815,
+      "forks": 11818,
       "forks_display": "11.8k",
       "language": "Jupyter Notebook",
       "topics": [
@@ -30,9 +30,9 @@
       "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
       "url": "https://github.com/ray-project/ray",
       "preview_image": "https://opengraph.githubassets.com/f7ac9ebd1d44a7aeb1d525064757ac8bf697e7fd66b4692c527e371c6f50cf53/ray-project/ray",
-      "stars": 39980,
+      "stars": 39981,
       "stars_display": "40.0k",
-      "forks": 6933,
+      "forks": 6935,
       "forks_display": "6.9k",
       "language": "Python",
       "topics": [
@@ -42,7 +42,7 @@
         "distributed",
         "hyperparameter-optimization"
       ],
-      "updated_at": "2025-11-24T05:21:33Z"
+      "updated_at": "2025-11-24T08:10:02Z"
     },
     {
       "full_name": "deepset-ai/haystack",
@@ -52,7 +52,7 @@
       "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
       "url": "https://github.com/deepset-ai/haystack",
       "preview_image": "https://repository-images.githubusercontent.com/221654678/1b75a35c-3d70-4dbe-bd6f-56fcc6c809e6",
-      "stars": 23452,
+      "stars": 23453,
       "stars_display": "23.5k",
       "forks": 2490,
       "forks_display": "2.5k",
@@ -96,7 +96,7 @@
       "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
       "url": "https://github.com/tensorzero/tensorzero",
       "preview_image": "https://repository-images.githubusercontent.com/829640443/26b7c5c4-c12c-4e89-beaf-a4233f1dac87",
-      "stars": 10590,
+      "stars": 10591,
       "stars_display": "10.6k",
       "forks": 732,
       "forks_display": "732",
@@ -140,7 +140,7 @@
       "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
       "url": "https://github.com/zenml-io/zenml",
       "preview_image": "https://repository-images.githubusercontent.com/314197645/b94e1480-3b95-11eb-9e12-c1eec6079bf6",
-      "stars": 5054,
+      "stars": 5056,
       "stars_display": "5.1k",
       "forks": 555,
       "forks_display": "555",
@@ -152,7 +152,7 @@
         "automl",
         "data-science"
       ],
-      "updated_at": "2025-11-24T00:27:58Z"
+      "updated_at": "2025-11-24T07:12:10Z"
     },
     {
       "full_name": "bragai/bRAG-langchain",
@@ -162,7 +162,7 @@
       "description": "Everything you need to know to build your own RAG application",
       "url": "https://github.com/bragai/bRAG-langchain",
       "preview_image": "https://repository-images.githubusercontent.com/889371307/b8fc22e5-73e9-40bb-bfe6-205402040b3a",
-      "stars": 3762,
+      "stars": 3763,
       "stars_display": "3.8k",
       "forks": 432,
       "forks_display": "432",
@@ -225,6 +225,6 @@
   "search_query": "ai machine-learning llm pushed:>2025-11-21",
   "days": 3,
   "limit": 10,
-  "total_count": 138,
-  "fetched_at": "2025-11-24T06:58:16.362376+00:00"
+  "total_count": 139,
+  "fetched_at": "2025-11-24T08:24:26.195548+00:00"
 }

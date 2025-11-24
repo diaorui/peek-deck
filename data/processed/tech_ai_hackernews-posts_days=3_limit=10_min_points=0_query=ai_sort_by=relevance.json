@@ -9,8 +9,8 @@
       "url": "https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html",
       "hn_url": "https://news.ycombinator.com/item?id=46027833",
       "author": "bookofjoe",
-      "points": 331,
-      "num_comments": 385,
+      "points": 349,
+      "num_comments": 402,
       "created_at": "2025-11-23T22:06:44Z",
       "object_id": "46027833",
       "image": null,
@@ -23,8 +23,8 @@
       "url": "https://mathstodon.xyz/@tao/115591487350860999",
       "hn_url": "https://news.ycombinator.com/item?id=46017972",
       "author": "dwohnitmok",
-      "points": 229,
-      "num_comments": 42,
+      "points": 241,
+      "num_comments": 44,
       "created_at": "2025-11-22T20:27:41Z",
       "object_id": "46017972",
       "image": null,
@@ -37,8 +37,8 @@
       "url": "https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab0d3",
       "hn_url": "https://news.ycombinator.com/item?id=46024644",
       "author": "kllrnohj",
-      "points": 225,
-      "num_comments": 188,
+      "points": 227,
+      "num_comments": 189,
       "created_at": "2025-11-23T16:17:57Z",
       "object_id": "46024644",
       "image": null,
@@ -61,6 +61,20 @@
       "site_name": "Crazy Stupid Tech"
     },
     {
+      "title": "Ask HN: Hearing aid wearers, what's hot?",
+      "url": "https://news.ycombinator.com/item?id=46029699",
+      "hn_url": "https://news.ycombinator.com/item?id=46029699",
+      "author": "pugworthy",
+      "points": 155,
+      "num_comments": 63,
+      "created_at": "2025-11-24T02:25:39Z",
+      "object_id": "46029699",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
+    },
+    {
       "title": "The New AI Consciousness Paper",
       "url": "https://www.astralcodexten.com/p/the-new-ai-consciousness-paper",
       "hn_url": "https://news.ycombinator.com/item?id=46005928",
@@ -75,26 +89,12 @@
       "site_name": "astralcodexten.com"
     },
     {
-      "title": "Ask HN: Hearing aid wearers, what's hot?",
-      "url": "https://news.ycombinator.com/item?id=46029699",
-      "hn_url": "https://news.ycombinator.com/item?id=46029699",
-      "author": "pugworthy",
-      "points": 136,
-      "num_comments": 51,
-      "created_at": "2025-11-24T02:25:39Z",
-      "object_id": "46029699",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": null
-    },
-    {
       "title": "An Economy of AI Agents",
       "url": "https://arxiv.org/abs/2509.01063",
       "hn_url": "https://news.ycombinator.com/item?id=46020096",
       "author": "nerder92",
       "points": 114,
-      "num_comments": 71,
+      "num_comments": 73,
       "created_at": "2025-11-23T02:08:00Z",
       "object_id": "46020096",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -107,7 +107,7 @@
       "url": "https://vibescaffold.dev/",
       "hn_url": "https://news.ycombinator.com/item?id=46018229",
       "author": "straydusk",
-      "points": 64,
+      "points": 65,
       "num_comments": 36,
       "created_at": "2025-11-22T21:02:34Z",
       "object_id": "46018229",
@@ -115,6 +115,20 @@
       "description": "A friendly 4-step wizard that helps you define, design, and plan your next app idea with AI-powered spec generation.",
       "favicon": "https://vibescaffold.dev/favicon.ico",
       "site_name": "vibescaffold.dev"
+    },
+    {
+      "title": "Meet the AI workers who tell their friends and family to stay away from AI",
+      "url": "https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away",
+      "hn_url": "https://news.ycombinator.com/item?id=46027290",
+      "author": "breve",
+      "points": 56,
+      "num_comments": 20,
+      "created_at": "2025-11-23T21:01:26Z",
+      "object_id": "46027290",
+      "image": "https://i.guim.co.uk/img/media/2103be8be876262394e303cf374938ad30d7fcdc/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=508e507d9631c2cd6d0b1ca7040762e0",
+      "description": "When the people making AI seem trustworthy are the ones who trust it the least, it shows that incentives for speed are overtaking safety, experts say",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "site_name": "the Guardian"
     },
     {
       "title": "Google tells employees it must double capacity every 6 months to meet AI demand",
@@ -129,23 +143,9 @@
       "description": "Google\u2019s AI infrastructure chief tells staff it needs thousandfold capacity increase in 5 years.",
       "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
       "site_name": "Ars Technica"
-    },
-    {
-      "title": "Meet the AI workers who tell their friends and family to stay away from AI",
-      "url": "https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away",
-      "hn_url": "https://news.ycombinator.com/item?id=46027290",
-      "author": "breve",
-      "points": 53,
-      "num_comments": 19,
-      "created_at": "2025-11-23T21:01:26Z",
-      "object_id": "46027290",
-      "image": "https://i.guim.co.uk/img/media/2103be8be876262394e303cf374938ad30d7fcdc/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=508e507d9631c2cd6d0b1ca7040762e0",
-      "description": "When the people making AI seem trustworthy are the ones who trust it the least, it shows that incentives for speed are overtaking safety, experts say",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "site_name": "the Guardian"
     }
   ],
-  "total_hits": 367,
+  "total_hits": 364,
   "has_metadata": true,
-  "fetched_at": "2025-11-24T07:27:24.683477+00:00"
+  "fetched_at": "2025-11-24T08:24:26.036207+00:00"
 }

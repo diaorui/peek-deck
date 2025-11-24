@@ -13,17 +13,6 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
-      "title": "Daily General Discussion November 23, 2025",
-      "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1p4f6xr/daily_general_discussion_november_23_2025/",
-      "published": 1763877627.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
-    },
-    {
       "title": "Are EIP-7702 addresses included in airdrops?",
       "author": "Fuliggine",
       "url": "https://www.reddit.com/r/ethereum/comments/1p515kn/are_eip7702_addresses_included_in_airdrops/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hi! I have a question about EIP-7702, please. If I upgrade my trusty old EOA address to enable smart contract functionalities using EIP-7702, does my address lose the ability to receive airdrops? I think technically it could still receive them, but I\u2019m afraid it won\u2019t be included in airdrop lists anymore. Thank you"
+    },
+    {
+      "title": "Daily General Discussion November 23, 2025",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p4f6xr/daily_general_discussion_november_23_2025/",
+      "published": 1763877627.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
       "title": "Ethereum Foundation announces Devcon 8 in Mumbai, India",
@@ -112,5 +112,5 @@
       "description": "Hello people hopefully smarter than me, I am a Bitcoin HODLer and I have a couple of questions about Ethereum smart contract fees. A family member of mine had $200k in an Ethereum liquidity pool (according to him), and it\u2019s now being held as USDT in some wallet. He\u2019s been in said pool for about 5 years AFAIK and claims he needs to pay $15k in gas fees to withdraw the USDT. I can front him the cash but this seems very odd to me that you cannot use the funds as a means of payment to make the said transaction. In short, I\u2019m asking if my family member has been scammed and now I\u2019m offering more money, or is this a legitimate liquidity pool, or is there a way for me to verify that it is. He sent me a screen shot of a \u201cEthereum-smart.com\u201d if that\u2019s familiar to anyone. Thanks in advance I hope I\u2019ve made this clear enough."
     }
   ],
-  "fetched_at": "2025-11-24T07:27:27.582785+00:00"
+  "fetched_at": "2025-11-24T08:24:28.763017+00:00"
 }
