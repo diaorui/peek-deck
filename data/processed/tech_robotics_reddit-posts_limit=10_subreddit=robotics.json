@@ -57,17 +57,6 @@
       "description": "Im curious how many others from Figure or other Humanoid Robot companies will start to step forward and speak up. Safety is something that is not talked about enough."
     },
     {
-      "title": "Laws of mBotics : Part 3",
-      "author": "sierrahighcoo",
-      "url": "https://www.reddit.com/r/robotics/comments/1p4l5qp/laws_of_mbotics_part_3/",
-      "published": 1763899687.0,
-      "thumbnail": "https://external-preview.redd.it/dGlveHNvcGR6ejJnMRXI4obYmEqYNMkEKM6Hy5WveFtry4ahIfu16Zi3tlnD.png?width=640&crop=smart&auto=webp&s=9ff13e4022550b272ff95863d563b63e61a0ce02",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Short survey: how do your robots handle \u201cfind this asset/location\u201d tasks?",
       "author": "New_Signal7007",
       "url": "https://www.reddit.com/r/robotics/comments/1p4st5z/short_survey_how_do_your_robots_handle_find_this/",
@@ -79,11 +68,11 @@
       "description": "Hi everyone, I\u2019m Swalihu, a ROS/robotics engineer and founder of SeekSense, a small UK startup exploring semantic navigation for indoor mobile robots. I\u2019m running a short 3\u20134 minute survey to understand how teams currently support tasks like: \u2013 \u201cfind this specific trolley/cart/tool/asset\u201d \u2013 \u201cgo to the visitor kiosk in atrium B / bed 12 in ward C\u201d in warehouses, hospitals, labs and campuses \u2013 and how painful these behaviours are to maintain over time. The context: we\u2019re experimenting with a training-free semantic navigation API (vision\u2013language + mapping + frontier selection), and I\u2019d like to sanity-check whether this is solving a real problem for people deploying ROS/ROS 2 systems. If you\u2019re working with AMRs, AGVs, hospital/campus robots, mobile manipulators or research platforms, and can spare a few minutes. Responses are aggregated and anonymised. With your permission, I may use the results as part of the market-research evidence for a UK Innovator Founder Visa application, and I\u2019m happy to share a short summary of the findings back here once we\u2019ve collected enough data. https://www.seeksense-ai.com/"
     },
     {
-      "title": "[Free Guide] Student-written 150+ page robotics book for WRO/FLL/FTC/FRC (Play to Purpose)",
-      "author": "legogoa",
-      "url": "https://www.reddit.com/r/robotics/comments/1p4kqt0/free_guide_studentwritten_150_page_robotics_book/",
-      "published": 1763898251.0,
-      "thumbnail": null,
+      "title": "Laws of mBotics : Part 3",
+      "author": "sierrahighcoo",
+      "url": "https://www.reddit.com/r/robotics/comments/1p4l5qp/laws_of_mbotics_part_3/",
+      "published": 1763899687.0,
+      "thumbnail": "https://external-preview.redd.it/dGlveHNvcGR6ejJnMRXI4obYmEqYNMkEKM6Hy5WveFtry4ahIfu16Zi3tlnD.png?width=640&crop=smart&auto=webp&s=9ff13e4022550b272ff95863d563b63e61a0ce02",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -101,6 +90,17 @@
       "description": "Hey guys, I\u2019m currently working with the CH32V003, and during my testing I found a strange issue. After flashing the firmware, the chip works perfectly \u2014 even if power interruptions happen. But after some time, when I try to power it back on, the system becomes completely dead. It does nothing. Even a hardware reset doesn\u2019t bring it back. It feels like flash or memory corruption. What\u2019s confusing is that the factory-made dev board runs the same code without any issues, consistently. The problem only happens when I use a bare CH32V003 IC on my own hardware. Has anyone faced this before? Any idea what could cause this? Power rail\u2026 reset circuitry\u2026 bootloader corruption\u2026 missing pull-ups\u2026 flash stability\u2026? Please help me sort this out \ud83d\ude4f"
     },
     {
+      "title": "[Free Guide] Student-written 150+ page robotics book for WRO/FLL/FTC/FRC (Play to Purpose)",
+      "author": "legogoa",
+      "url": "https://www.reddit.com/r/robotics/comments/1p4kqt0/free_guide_studentwritten_150_page_robotics_book/",
+      "published": 1763898251.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "what could be the cause ? HELP",
       "author": "easykhoch",
       "url": "https://www.reddit.com/r/robotics/comments/1p41c8f/what_could_be_the_cause_help/",
@@ -112,5 +112,5 @@
       "description": "im trying to power this brushless motor using a STEVAL-STSPIN3201using FOC sensorless control , I can not use Motor Profiler since the ST-link of the board is corrupted (I'm programming the main MCU with an External ST-link dongle). The BLCD motor as shown is only vibrating (seems like it want to rotate but it can't) What can be the problem? am i missing something"
     }
   ],
-  "fetched_at": "2025-11-24T03:17:21.793159+00:00"
+  "fetched_at": "2025-11-24T04:06:12.524305+00:00"
 }

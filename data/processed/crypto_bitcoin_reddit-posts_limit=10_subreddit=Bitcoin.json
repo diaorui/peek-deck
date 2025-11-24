@@ -79,28 +79,6 @@
       "description": null
     },
     {
-      "title": "Jack Mallers on JP Morgan",
-      "author": "rtmxavi",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p4xs02/jack_mallers_on_jp_morgan/",
-      "published": 1763931519.0,
-      "thumbnail": "https://external-preview.redd.it/bHRqMXJ2ZDFtMjNnMRTUyLkbou6JieAd7Vm16A_1gMc6YrjyTThpS2crE4n_.png?width=640&crop=smart&auto=webp&s=6d3f3bb723c67dae727e36725848fe347addf032",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "For those who are new to the highs and lows of BTC",
-      "author": "JCTiggs",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p54on4/for_those_who_are_new_to_the_highs_and_lows_of_btc/",
-      "published": 1763949732.0,
-      "thumbnail": "https://preview.redd.it/02xrxty6443g1.jpeg?width=640&crop=smart&auto=webp&s=7332103b9bc2d7cdcd63418044721af3bdf29980",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Here's a BTC chart that shows the all-time highs and lows for each year, and more importantly the percentage change, which shows that the price difference has been pretty consistent for the last 5 years. When you get paper hands refer to this chart. Better yet get a hardware wallet which will make it less likely you'll panic sell. Remember... Don't panic. The swings are normal. Don't panic. Ride it out. Don't panic. The price always goes back up. And stop obsessively checking the price every hour :)"
-    },
-    {
       "title": "Bought the recent dip and the dip of the dip, now is time to celebrate.",
       "author": "Amber_Sam",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p4zsq1/bought_the_recent_dip_and_the_dip_of_the_dip_now/",
@@ -110,7 +88,29 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Ladies hate paperhands",
+      "author": "Spiciest_Tuna",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p548mp/ladies_hate_paperhands/",
+      "published": 1763948432.0,
+      "thumbnail": "https://preview.redd.it/uc9ztlc9043g1.jpeg?width=640&crop=smart&auto=webp&s=5c4d7f668608b9946a2a6745e6e9a04259a4e29b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Jack Mallers on JP Morgan",
+      "author": "rtmxavi",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p4xs02/jack_mallers_on_jp_morgan/",
+      "published": 1763931519.0,
+      "thumbnail": "https://external-preview.redd.it/bHRqMXJ2ZDFtMjNnMRTUyLkbou6JieAd7Vm16A_1gMc6YrjyTThpS2crE4n_.png?width=640&crop=smart&auto=webp&s=6d3f3bb723c67dae727e36725848fe347addf032",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     }
   ],
-  "fetched_at": "2025-11-24T03:17:19.142105+00:00"
+  "fetched_at": "2025-11-24T04:06:09.952062+00:00"
 }

@@ -25,26 +25,6 @@
       "description": "Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there's a bubble that will soon pop."
     },
     {
-      "headline": "Flood of AI Bonds Adds to Pressure on Markets",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPN1dDbGNPUlQ2dnpSR2RWVTFUSV9JeWVSNmtNcnFvYTFYcEozWXluZjlVbEo0TjNqUUpVdTFiT00xTmZBSV83Y3o2TjNmb1ZnY2dqeFJPYkhleTJpbGZpMEU3U19DeHIySEZlNGNSMk4xcGlXZkJaLVBYamxfMi1RRXRISC05ZDZoRlNxZkdJVUNTcXVYSktQdmZweTVwQnVydHhzM3dsdE40dG5UNzg4cnl0TnJWS2hSYXVaeFJIbUxoMWpPS3B1cEItTG8xNDYwXy1kQmhmWGlPUnVqc3ctUkNnbDV1VTBPMFRRdWRxLWJOYkN1SkRnNUk5eXdWcExFeEtkMHhHUU5OZ05HTHNLWEJlQ29BOGpBSkJWZkY4Qk9RcFAtOHd0Zmo3WTNXbUpyZW5FV1lGRTVvSmJFRFNYTmVzUWs4YXZkZzZRY1R5RHh3ak1VQl9hdTRvRzVQY1VqZlBCREsyVDc2R0dVd0VNMlB3Z0tqdExjTGJsS0pBY2MtOER4WUVvWm1xbFNDOW1sZlpkVkxNOXNFb1Nt?oc=5",
-      "pub_date": 1763949600.0,
-      "article_url": "https://www.wsj.com/finance/investing/flood-of-ai-bonds-adds-to-pressure-on-markets-88f17995?gaa_at=eafs&gaa_n=AWEtsqcMSdsoZ2JZXp19Y7-H1RK5zKW8zTKKdUFsc3B0be7AnUzny2P7f3PW&gaa_ts=6923d1c1&gaa_sig=0WptEKvqCt7pTyo6h-dLBOs1zuTXGD2bdEZ4GwXguakQ83Y8x1EkoX8Ru4qL04ffOSLF13DwXb-QZy5csqlNIQ%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI Fever Hits High-Income Consumers \u2014 But Not The Rest Of America",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpajNYLUpWdEJraWdLS0NhM1BZUmR2dV9QV2d3MjhDUmYta2tpb2Ric1BEZnRTYzNFVXNHLXhtNXFsVUtPdmRtX2pOUzIxZHE3TGVsdW9uS3RSOW1kR1RJTTdIZGdOSHlRVU9Nc1dUU0lYY1ZlNE1SNlh5dw?oc=5",
-      "pub_date": 1763949660.0,
-      "article_url": "https://finance.yahoo.com/news/ai-fever-hits-high-income-020113714.html",
-      "image": "https://media.zenfs.com/en/Benzinga/5d9311d81a9b969154b516fdf32c5957",
-      "description": "High-income Americans are adopting artificial intelligence at a rapid pace, while lower-earning households remain focused on more traditional, value-oriented brands. The divide points to a widening gap in how different income groups interact with emerging technology. AI Tools Surge Among Wealthier Consumers Google's Gemini and OpenAI's ChatGPT were the two fastest-growing brands this year among consumers earning more than $100,000 a year, according to Morning Consult. The report measured interes"
-    },
-    {
       "headline": "Lenovo Stockpiling PC Memory Due to \u2018Unprecedented\u2019 AI Squeeze",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -55,24 +35,34 @@
       "description": "Lenovo Group Ltd. is stockpiling memory and other critical components to navigate a supply crunch brought on by the boom in artificial intelligence."
     },
     {
-      "headline": "AI tokens are surging, but are profits?",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcjZ0Y3l0OUxMbTZ4ZG1UQldBa3djYURZQ3h3R2lvOE8wS3NQRV9JdU1hVnBVai0xY2QyX3RWNVU3ZlF2T0Y4RzNtOURBeWcyVXg4VDcyczZoRHc5eHFQLTZYYklfeFRNcXJhLXEzQ01HWU50MkpWbU81RTJBMmFXV25GTnkzWHdKMTZV?oc=5",
-      "pub_date": 1763916087.0,
-      "article_url": "https://www.economist.com/business/2025/11/23/ai-tokens-are-surging-but-are-profits",
+      "headline": "Flood of AI Bonds Adds to Pressure on Markets",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQNFFGUnpBU3NNQmJHZUUyR3lJaE1RdEd0azI2S0J3YUhvRHl1MGVjRmEzMEZQQ1BDTjRUU1N4bzJ5RWpnVUY2ZFdNbEw5ZWFaM0hoY2RKYVJBU21YZGVPZmZHWmE2amJ3Y0FXYnM5TENxaW9OMGZoY25pS0JkREhqcmJXWFVldW5YNXc1YmxobTEtSUlleko5TlVVY1BSLUl0bVFRMy1SSUZ0RWZEZ2hOdWcxbTl1UG9ZWnNDSzc3SC1obHF6WUx1ZmJIY3dGUzVybmJCNDVNdDZjUUpJc1hFSXJPUXJhOGNsOHBnZ1NaYVIwWjBmOUw4UGkwR05WblVmM18yMGRkQlVFSGhSUlJpT2o3SVM1bmFxNGN6T3V5ZXdLU1ZFNjBxV1luWDRycHliQm0wYVlUaUJBNWFfYjNRaENRMjZTMGpKS1pIZHF2SHYwam5OZldsbDlsdVNiNmFuQTBaN3NjZzhpVHV0NFE2SmRoNzEyb3gwNmZ1SzB3NFJmREh5RGc2Qk5DZE5wTjhzV2YzX1pWYWhoSXJM?oc=5",
+      "pub_date": 1763949600.0,
+      "article_url": "https://www.wsj.com/finance/investing/flood-of-ai-bonds-adds-to-pressure-on-markets-88f17995?gaa_at=eafs&gaa_n=AWEtsqdSjG-U8gOJeF8omIFJzJlmvRHrsjiJ5Ibi4jr69qDQpCPOaoE9Ncmu&gaa_ts=6923dd33&gaa_sig=ZnthOvFumJ4yCyY5rN3cVlryEwSMhHF_LsSkRLy9WOCm1UHQmHMH-fKZlQtcdG7j5ie04P2wgkkoV5EnPoRe0w%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Meet the AI workers who tell their friends and family to stay away from AI | Artificial intelligence (AI)",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZlZFQmRtc0RLZlBDaG1uR2p3Sk5CUVRlWVZJR1lXaW5iLUNqZkNrN0p6dUVvdjNnbU5vSjBRLTBHWi1Yd2JzYmZUSmJBdzYwRUJuRHNaQXFnTGRscWRYSkR4ZEx3QmVMbmZiS3ZTZ05VcGF5VjhtTnJLNjZPUlF0VnNlNXUtQzh4LTY4?oc=5",
-      "pub_date": 1763820000.0,
-      "article_url": "https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away",
-      "image": "https://i.guim.co.uk/img/media/2103be8be876262394e303cf374938ad30d7fcdc/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=508e507d9631c2cd6d0b1ca7040762e0",
-      "description": "When the people making AI seem trustworthy are the ones who trust it the least, it shows that incentives for speed are overtaking safety, experts say"
+      "headline": "Salesforce CEO Marc Benioff has a 'Holy S---' AI moment",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXBLZ3N6YlItRGN4YXBsa0tMajN2OUpBQ3NXX1RCR0JkUUduNFdIa3VKaXc3YVAzS2xweEhEbjRxQmhpc3I0cWhybFRpQmZtQ1pOaDBnRXV0dFZKdml3ZTlkTFY5X09sNHlucXU4Wk5BVURsMlhERVZ3eE1yOHJhUWNidjI0VFhXTjluN0lwVHdxUQ?oc=5",
+      "pub_date": 1763950455.0,
+      "article_url": "https://seekingalpha.com/news/4525172-salesforce-ceo-marc-benioff-has-a-holy-s-ai-moment",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2213029533/image_2213029533.jpg?io=getty-c-w630",
+      "description": "Salesforce CEO Marc Benioff gave a big endorsement to Alphabet's (GOOG) (GOOGL) latest AI model Sunday."
+    },
+    {
+      "headline": "Nvidia didn\u2019t save the market. What\u2019s next for the AI trade?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpWmJ3YkViNV9GejFsSWJDdFktLW1sUEFfTm53VmFpVWQ4WnpRTHhtVHJQbklPVEpOSjI5OGJQbS1KemRVRzhHRVhuUDZfcGRwR1lkdncyNUV6N3VpMXgxbzJvN0lqd3k1OGYzajJGelBoTk1FbVpXUGF1Zw?oc=5",
+      "pub_date": 1763919704.0,
+      "article_url": "https://finance.yahoo.com/news/nvidia-didn-t-save-market-140007853.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/PMprWTiG0y09JuC_Hn_PpA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/58881cc0-8229-11ef-9fdf-4fb43b509fb2",
+      "description": "The uncertainty was highlighted by the stock market\u2019s wild swing Thursday in the wake of Nvidia\u2019s earnings report."
     },
     {
       "headline": "AI rivals like OpenAI, Nvidia, and Oracle are collaborating to build \u2018Stargate\u2019\u2014but a Yale expert says it violates 135 years of antitrust law",
@@ -85,14 +75,14 @@
       "description": "Six AI leaders are uniting to form a single company. How is this possibly legal, asks Madhavi Singh of Yale\u2019s Thurman Arnold Project, an initiative dedicated to antitrust issues."
     },
     {
-      "headline": "AI risks deepening inequality, says head of world\u2019s largest SWF",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrMkVqQkh4bkE3UmVDZFlsMWpITW0wRWY0YkowVWNsWmVNd2o1bTBEQmQ2WVhkZGJCcjI1VGpMcXRBeDc0R1QzbjZ2Slh2ZlZELUdhdzdTWThZOG84ZWRqTWtLczRxWWd6Q2p2eDRlTjc?oc=5",
-      "pub_date": 1763895604.0,
-      "article_url": "https://www.ft.com/content/30c6cff1-a176-43f8-ab09-94212ba6d824",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb20ca843-87fa-438b-a4d9-d9af96d3276e.jpg?source=next-barrier-page",
-      "description": "Nicolai Tangen warns differing access to artificial intelligence has potential for \u2018splitting societies\u2019"
+      "headline": "AI tokens are surging, but are profits?",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcjZ0Y3l0OUxMbTZ4ZG1UQldBa3djYURZQ3h3R2lvOE8wS3NQRV9JdU1hVnBVai0xY2QyX3RWNVU3ZlF2T0Y4RzNtOURBeWcyVXg4VDcyczZoRHc5eHFQLTZYYklfeFRNcXJhLXEzQ01HWU50MkpWbU81RTJBMmFXV25GTnkzWHdKMTZV?oc=5",
+      "pub_date": 1763916087.0,
+      "article_url": "https://www.economist.com/business/2025/11/23/ai-tokens-are-surging-but-are-profits",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Microsoft faces uphill climb to turn enterprise dominance into widespread AI chatbot adoption",
@@ -103,8 +93,18 @@
       "article_url": "https://www.cnbc.com/2025/11/23/microsoft-faces-uphill-climb-to-win-in-ai-chatbots-with-copilot.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108166076-1751325646064-gettyimages-2150286124-AFP_34QG9T9.jpeg?v=1763774719&w=1920&h=1080",
       "description": "At Microsoft's annual Ignite conference this week, IT buyers explained why Microsoft isn't seeing runaway success with its Copilot AI assistant."
+    },
+    {
+      "headline": "AI risks deepening inequality, says head of world\u2019s largest SWF",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrMkVqQkh4bkE3UmVDZFlsMWpITW0wRWY0YkowVWNsWmVNd2o1bTBEQmQ2WVhkZGJCcjI1VGpMcXRBeDc0R1QzbjZ2Slh2ZlZELUdhdzdTWThZOG84ZWRqTWtLczRxWWd6Q2p2eDRlTjc?oc=5",
+      "pub_date": 1763895604.0,
+      "article_url": "https://www.ft.com/content/30c6cff1-a176-43f8-ab09-94212ba6d824",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb20ca843-87fa-438b-a4d9-d9af96d3276e.jpg?source=next-barrier-page",
+      "description": "Nicolai Tangen warns differing access to artificial intelligence has potential for \u2018splitting societies\u2019"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T03:17:38.325495+00:00"
+  "fetched_at": "2025-11-24T04:06:27.166286+00:00"
 }

@@ -25,16 +25,6 @@
       "description": "Bitcoin and Ethereum have impressive track records and sky-high future price targets."
     },
     {
-      "headline": "Ethereum\u2019s Recovery to $3,000 Could Be Challenged by New Holders",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTEo1UjJTVTVOMVFaLUZlVUhKTlBYcEFVaHZxSU9GSjg0bW1UaC1aT0M4WXozOWNpOTNINGNnOUl2ZThwQkp5RDJiSmJMajRoM2ZsZGN3TVFtWHRoRG5mVVJyQVA2dFhZc1VpSng5b3RIdzJTMkNnTElOcDBtMHBJdw?oc=5",
-      "pub_date": 1763942028.0,
-      "article_url": "https://finance.yahoo.com/news/ethereum-recovery-3-000-could-235348096.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/O3UIXfe18RNq5wFGp7EzIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/beincrypto_us_662/b49a12973a36b30fbcf971c9d9b2cabd",
-      "description": "Ethereum nears $3,000 but weak new investor demand threatens its recovery, even as long-term holders show rising confidence and stability."
-    },
-    {
       "headline": "\ud83d\udea8 BREAKING: SWIFT Chooses Ethereum Layer-2 #Linea Over XRP for 2025 Cross-Border Payment Pilot In",
       "source": "Binance",
       "source_url": "https://www.binance.com",
@@ -45,14 +35,24 @@
       "description": null
     },
     {
-      "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
-      "source": "Nasdaq",
-      "source_url": "https://www.nasdaq.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDU2dldydlhRMkQtOW55ZHlRUFZlREVxTEhGRnIwZFoybzRfRUl4czIxLUhIclhxVlhkZUctdWx3dW12U0RyU0VoTlJjWmN2MHFXTG1ZSUhucVlUTXNBY2ZMV0czQzZCUzdMZWxGekgyU2RpTzRiR1U5VEZHSUFaclNpQV9lX2Nwa1NZc0pia2YwREps?oc=5",
-      "pub_date": 1763918100.0,
-      "article_url": "https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-more-likely-be-millionaire-maker",
-      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-      "description": "Key PointsOver the past decade, Bitcoin has been the top-performing asset in the world."
+      "headline": "Tom Lee Says Bitcoin, Ethereum Crash Wasn't Macro But A 'Software Bug'",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVVYbHV6ZFZ3Z0pJYWgwYlhLNmNFaklON0otbl9CWUlpVXhfVU5HeHV2TnZ3UFd6MGUyU0VETzAzdDhxVVE2bktzSFBxaGpoamhVZ2VNRC1meDdyRlpxdnVxQmZlR3JyUUQ0NkpjZmdEajFwV2FMM3BkOUFlakpOMw?oc=5",
+      "pub_date": 1763811985.0,
+      "article_url": "https://finance.yahoo.com/news/tom-lee-says-bitcoin-ethereum-114625645.html",
+      "image": "https://media.zenfs.com/en/benzinga_79/55dc40160a5a2d9761aae05dabcccc49",
+      "description": "Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) breaking below key support levels has sparked debate over whether fundamentals are to blame \u2014 but Fundstrat's Tom Lee argues the real culprit is far more mechanical. What Happened: In an interview with ..."
+    },
+    {
+      "headline": "Key facts: Ethereum outflows hit $689M; four-month low reached; DNS attack probed",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeEI1cF9FalV6U1l0THFYbF96TTMtbmtTVGdhandqd3VuRzlLTmpJeVZuZk5BTDJMcHFIcEp6bnZUUFZ6OUwwTEVhNllHZ3M4dVF3MFdvS0hyelhDVU9ncXBVUEl1TXNkUWdRT3FVVFFMVFkwQ2NKQ3dMWTU4cmZkVVU3ZGg2cG9VcWRUak12Zk5iSVRCLXkxekpNM0llTnYyeXk1VzBvaUFvaHlxazhXcENxcG5BTlRINWJMbUdrNVZGRVdsVzdFMnBFTTNYX0FXVU9oUG1n?oc=5",
+      "pub_date": 1763856180.0,
+      "article_url": "https://www.tradingview.com/news/tradingview:18765033340b5:0-key-facts-ethereum-outflows-hit-689m-four-month-low-reached-dns-attack-probed/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": null
     },
     {
       "headline": "Ethereum (ETH) News: Tom Lee's BMNR Sitting on Major Losses",
@@ -65,26 +65,6 @@
       "description": "BitMine could trap shareholders amid low staking yields, hefty embedded fees and vanishing NAV premium, 10x Research founder Markus Thielen warns."
     },
     {
-      "headline": "Bitmine Immersion Technologies Faces Financial Risks Amid Ethereum Volatility",
-      "source": "TipRanks",
-      "source_url": "https://www.tipranks.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNHQ5U0Mta2ljRGF0U1pOR0Nsc1V6X0U0N1NxbWktb1FTRmJMN0YwUHBoQm5LNHFfaVlpRG54Tk1mU0g0aVp2Y21TT2NCb0J2eW91OEFIVkZLRk1adUZyNFdsdXZFem1WQWdPX2FqOEpkeU5ocTEyT2Q3UnByeEoxZDdETzYzeW01N09HNThsTWhKbmdqVTV6QnBjLVZQN2FweWlibG1xQndsRlpkejZQR2RVVDZBZF91dTZ0MVd6QnMyc3YwMVFCOQ?oc=5",
-      "pub_date": 1763877830.0,
-      "article_url": "https://www.tipranks.com/news/company-announcements/bitmine-immersion-technologies-faces-financial-risks-amid-ethereum-volatility",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2022/09/shutterstock_2060538899.jpg",
-      "description": "Bitmine Immersion Technologies, Inc. (BMNR) has disclosed a new risk, in the International Operations category. Bitmine Immersion Technologies, Inc. faces significa..."
-    },
-    {
-      "headline": "BitMine Adds $60 Million in Ethereum Despite Billions in Losses",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcjY0VURqeE5MVTl3S0wwLVM5a08tZTJBU1hZSlZWX1kzOEF0d0Z2SFlLWEhOTEc4a3BxR3Q1XzVBbER0Vk00dVhqR0tpcUJwUV9FcjZfS1pKZFo3T3JiQ2t2S0RueFQxSnUzdTMtRG1TcHE2SVRVS0JaN0xzWm5qU1NB?oc=5",
-      "pub_date": 1763916300.0,
-      "article_url": "https://beincrypto.com/bitmine-ethereum-purchase-despite-billions-in-losses/",
-      "image": "https://assets.beincrypto.com/img/71EzTgLwkwmK1EMgiAg_18q__rk=/smart/bb36f23078ec451a923b0577146f769a",
-      "description": "BitMine has continued to accumulate large amounts of Ethereum, adding $60 million worth of ETH despite the market downturn."
-    },
-    {
       "headline": "Ethereum Cofounder Issues Stark BlackRock Warning That Could Spell Disaster For Bitcoin Amid Sudden Price Sell-Off",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -95,16 +75,36 @@
       "description": "Ethereum cofounder Vitalik Buterin has warned elliptic curve cryptography could break before the next U.S. presidential election in 2028..."
     },
     {
-      "headline": "Ethereum Golden Pocket In Play \u2013 Can ETH Turn The Tide Above $2,800?",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczI2ZHlzcHlsTG1UaEhuNnRXZHFUNWxvWThEQnB3NHVqXzQtZTBvZWVTLWQ4SjlESjA5b3VScGhxam5fRHFJRnM2VWVWeWQwMG93SzB6TVdSbDFaVk80LTluRWhPcGRlQnJXQUJaSnB5VFZLSVh1Z3hQNVNiMFBDYzhsYTlhUEtLeXp3c1JPNWhSSW51R3RaQzNnbkJ1ZWJrMXFWMXo4bzhZOXZBWDhwT0tEdEwzNEdaSDc3VTFLZw?oc=5",
-      "pub_date": 1763839842.0,
-      "article_url": "https://www.tradingview.com/news/newsbtc:564a0b07d094b:0-ethereum-golden-pocket-in-play-can-eth-turn-the-tide-above-2-800/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Ethereum is testing a critical juncture as the golden pocket between $2,600 and $2,800 comes into play. With resistance looming at $2,800, the market now faces a pivotal moment. Can ETH reclaim this level and spark a move toward $3,000, or will sellers push it back below key support?Golden Pocket B\u2026"
+      "headline": "Bitcoin, Ethereum and XRP Dive as Rate Cut Hopes Fade, Liquidations Near $1 Billion",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMExsdzkwWmRvR19sM3ZZX2h2aDVyRzNUNHI0ZHhIc2YxWm5BakMwUmFwc2ZlbXdxbjZxbXVnNDRJX1B1WHFpOXpSazFjZWRmRV9EdGxBR3VLeXpmMTU2eVplZkVldEtIUGFkaGtyNnFtZnZDZ2lKLVZ0VmY4a0JCTmlnMUxkbk0yeWU3NUlMWENnVDdKMi04YnliRTA2M2ZK0gGoAUFVX3lxTE5Fb09KdktpZF9iRHhZRThKdC1SSmo4eFhoOENPMjdPQkZxZGZPeDZ5ZU1GX2N5S1IxdUlWa2kyX2VfZG1nNkh5RmZXc2drMVlEVDZRYmRxakxNRm5ZODh5TkducUNob2FUREE1UFpzYVMzN3NJNFRPdWIwVkRWcUJFdnJVTXRUMUJnZ0JvTm94VWd0UzdSWnFQLWIzMVRqYjI1ZlNKWnkyZQ?oc=5",
+      "pub_date": 1763660480.0,
+      "article_url": "https://decrypt.co/349404/bitcoin-ethereum-xrp-dive-rate-cut-hopes-fade-liquidations-near-1-billion",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
+      "description": "Bitcoin is being battered again Thursday, falling below the $87,000 mark for the first time in seven months as liquidations top $900 million."
+    },
+    {
+      "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
+      "source": "Nasdaq",
+      "source_url": "https://www.nasdaq.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDU2dldydlhRMkQtOW55ZHlRUFZlREVxTEhGRnIwZFoybzRfRUl4czIxLUhIclhxVlhkZUctdWx3dW12U0RyU0VoTlJjWmN2MHFXTG1ZSUhucVlUTXNBY2ZMV0czQzZCUzdMZWxGekgyU2RpTzRiR1U5VEZHSUFaclNpQV9lX2Nwa1NZc0pia2YwREps?oc=5",
+      "pub_date": 1763918100.0,
+      "article_url": "https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-more-likely-be-millionaire-maker",
+      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+      "description": "Key PointsOver the past decade, Bitcoin has been the top-performing asset in the world."
+    },
+    {
+      "headline": "Adding DeFi to your 401k: How BlackRock\u2019s staked Ethereum ETF rewires access to ETH rewards",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLXdWLWZjbVo3MVF6TmlINXF2X055ZjFXQXcxd0NPa2JVdGkxQi1MVVZKNngya2x5VTJ1UGQxSlhEOC1ob19qX3VvVXZ6N2FPSk1RSjVTLVZzZlk0Q2NrS0RIdFRCYnZaOUdYUkVLMnR5VVk5OHZ5cmhDeXRxU1N1SUNIRXJhUkJ3RVpuS3pVY3FEc09PeVNaXzhDLXlpT3lWSXotdzZtQmFsSE9NeFB3Mm1R?oc=5",
+      "pub_date": 1763739900.0,
+      "article_url": "https://cryptoslate.com/adding-defi-to-your-401k-how-blackrocks-staked-ethereum-etf-rewires-access-to-eth-yield/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2025/11/ethereum-etf-filing.jpg",
+      "description": "A filing would kick off a new front in the ETH ETF war: pricing, staking access, and custody all in play."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T03:17:33.551608+00:00"
+  "fetched_at": "2025-11-24T04:06:25.829128+00:00"
 }
