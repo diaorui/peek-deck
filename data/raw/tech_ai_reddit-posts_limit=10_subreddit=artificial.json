@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Pope Leo warns Gen Z and Gen Alpha that using AI too much could stunt their personal and career growth: \u2018Don\u2019t ask it to do your homework\u2019 | Fortune",
+      "author": "fortune",
+      "url": "https://www.reddit.com/r/artificial/comments/1p5v53l/pope_leo_warns_gen_z_and_gen_alpha_that_using_ai/",
+      "published": 1764022895.0,
+      "thumbnail": "https://external-preview.redd.it/LIxQfZZhlZ57zlu1pZaygisE2XlzbgE3bTIkEY4X97c.jpeg?width=640&crop=smart&auto=webp&s=a9b58f2f3457e5716a31c769d744c4939bc81706",
+      "external_url": "https://fortune.com/2025/11/24/pope-leo-xiv-gen-z-gen-alpha-warning-ai-chatgpt-overreliance-lack-humanity-wisdom-thinking-skills/",
+      "site_name": "Fortune",
+      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
+      "description": "As Gen Z turns to ChatGPT en masse, the pope is sounding the alarm about the erosion of critical thinking skills."
+    },
+    {
       "title": "Introducing Claude Opus 4.5",
       "author": "Frequent-Football984",
       "url": "https://www.reddit.com/r/artificial/comments/1p5r48y/introducing_claude_opus_45/",
@@ -22,17 +33,6 @@
       "site_name": "Forbes",
       "favicon": "https://i.forbesimg.com/57X57-F.png",
       "description": "The chipmaker\u2019s website touts its work with companies like ZTE, which has been effectively banned from selling its products in the U.S. over national security concerns."
-    },
-    {
-      "title": "Pope Leo warns Gen Z and Gen Alpha that using AI too much could stunt their personal and career growth: \u2018Don\u2019t ask it to do your homework\u2019 | Fortune",
-      "author": "fortune",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5v53l/pope_leo_warns_gen_z_and_gen_alpha_that_using_ai/",
-      "published": 1764022895.0,
-      "thumbnail": "https://external-preview.redd.it/LIxQfZZhlZ57zlu1pZaygisE2XlzbgE3bTIkEY4X97c.jpeg?width=640&crop=smart&auto=webp&s=a9b58f2f3457e5716a31c769d744c4939bc81706",
-      "external_url": "https://fortune.com/2025/11/24/pope-leo-xiv-gen-z-gen-alpha-warning-ai-chatgpt-overreliance-lack-humanity-wisdom-thinking-skills/",
-      "site_name": "Fortune",
-      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
-      "description": "As Gen Z turns to ChatGPT en masse, the pope is sounding the alarm about the erosion of critical thinking skills."
     },
     {
       "title": "Industrial Masturbation",
@@ -79,15 +79,15 @@
       "description": "The model policy team leads core parts of AI safety research, including how ChatGPT responds to users in crisis."
     },
     {
-      "title": "Master Prompt: Make Infographics from Anything [Nano Banana Pro]",
-      "author": "DarknStormyKnight",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5ugq6/master_prompt_make_infographics_from_anything/",
-      "published": 1764021349.0,
-      "thumbnail": "https://external-preview.redd.it/ajVby5emO-7vXRacnDEfAGqONyuPrVh1JIidMZjm4hY.jpeg?width=640&crop=smart&auto=webp&s=30d48eae2392d9c2f4dd65957dd0e9e41948cd9f",
-      "external_url": "https://upwarddynamism.wpcomstaging.com/ai-use-cases-prompts/image-genai-infographic-blueprint/",
-      "site_name": "Upward Dynamism | Learn AI for Work & Life",
-      "favicon": "https://i0.wp.com/upwarddynamism.com/wp-content/uploads/2025/05/upward-dynamism_john_ai-literacy_blog_main-logo-emblem-e1747509591408.webp?fit=180%2C180&ssl=1",
-      "description": "Image AI can compress long texts into scannable infographics, but only if steered well. Use this universal prompt to turn any content into visual knowledge."
+      "title": "Trump signs executive order launching \"Genesis\" mission to expedite scientific discovery using AI",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1p5v7cp/trump_signs_executive_order_launching_genesis/",
+      "published": 1764023042.0,
+      "thumbnail": "https://external-preview.redd.it/PsWbDwzPQidumCUhok4mWvbCPsOh5MRQJiAwU3j4RU0.jpeg?width=640&crop=smart&auto=webp&s=bd1eabbdbe2e74148cb569ed7f2420d4bf9019a3",
+      "external_url": "https://www.cbsnews.com/news/trump-executive-order-genesis-mission-ai-scientific-discovery-super-computer/",
+      "site_name": "cbsnews.com",
+      "favicon": "https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon-192x192.png",
+      "description": "A White House official called Genesis \"the largest marshaling of federal scientific resources since the Apollo program.\""
     },
     {
       "title": "It's been a big week for AI Agents ; Here are 10 massive developments you might've missed:",
@@ -101,16 +101,16 @@
       "description": "AI Agents coming to the IRS Gemini releases Gemini Agent ChatGPT's Atlas browser gets huge updates and so much more A collection of AI Agent Updates! \ud83e\uddf5 1. AI Agents Coming to the IRS Implementing a Salesforce agent program across multiple divisions following 25% workforce reduction. Designed to help overworked staff process customer requests faster. Human review is still required. First US Gov. agents amid staffing cuts. 2. Gemini 3 Releases with Gemini Agent Experimental feature handles multi-step tasks: book trips, organize inbox, compare prices, reach out to vendors. Gets confirmation before purchases or messages. Available to Ultra subscribers in US only. 3. ChatGPT's Agentic Browser Gets Major Update Atlas release adds extensions import, iCloud passkeys, multi-tab selection, Google default search, vertical tabs, and faster Ask ChatGPT sidebar. More features coming next week. 4. xAI Releases Grok 4.1 Fast with Agent Tools API Best tool-calling model with 2M context window. Agent Tools API provides X data access, web browsing, and code execution. Built for production-grade agentic search and complex tasks. Have you tried these? 5. AI Browser Comet Launches on Mobile Handles tasks like desktop version with real-time action visibility and full user control. Android only for now, more platforms coming soon. Potentially the first mobile agentic browser. 6. x402scan Agent Composer Now Supports Solana Data Merit Systems' Composer adds Solana resources. Agents can find research and insights about the Solana ecosystem. Agents are accessing Solana intelligence. 7. Shopify Adds Brands To Sell Inside ChatGPT Glossier, SKIMS, and SPANX live with agentic commerce in ChatGPT. Shopify rolling out to more merchants soon. Let the agents handle your holiday shopping! 8. Perplexity's Comet Expanding to iOS Their CEO says Comet iOS coming in coming weeks. Will feel as slick as Perplexity iOS app, less \u201cChromium-like\u201d. Android just released, now the iPhone is to follow. 9. MIT AI Agent Turns Sketches Into 3D CAD Designs Agent learns CAD software UI actions from 41,000+ instructional videos in VideoCAD dataset. Transforms 2D sketches into detailed 3D models by clicking buttons and selecting menus like human. Lowering the barrier to complex design work by agentifying it. 10. GoDaddy Launches Agent Name Service API Built on OWASP's security-first ANS framework and IETF's DNS-style ANS draft. With proposed ACNBP protocol, creates full stack for secure AI agent discovery, trust, and collaboration. More infrastructure for agent-to-agent communication. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if that was helpful! | Posting more weekly AI + Agentic content!"
     },
     {
-      "title": "Amazon's AI capacity crunch and performance issues pushed customers to rivals including Google",
-      "author": "thisisinsider",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5k6oq/amazons_ai_capacity_crunch_and_performance_issues/",
-      "published": 1763998592.0,
-      "thumbnail": "https://external-preview.redd.it/ITE3A_iD5CK8HwdMdSWNg1du_X8uM5Z56Wxt-h6-QDs.jpeg?width=640&crop=smart&auto=webp&s=092697058b5771d99134f10561feb0b6aea485ed",
-      "external_url": "https://www.businessinsider.com/amazon-ai-capacity-crunch-pushed-customers-to-rivals-google-anthropic-2025-11?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "Amazon is seeing huge demand for AI cloud services. Keeping up with this demand has been a challenge, though."
+      "title": "Master Prompt: Make Infographics from Anything [Nano Banana Pro]",
+      "author": "DarknStormyKnight",
+      "url": "https://www.reddit.com/r/artificial/comments/1p5ugq6/master_prompt_make_infographics_from_anything/",
+      "published": 1764021349.0,
+      "thumbnail": "https://external-preview.redd.it/ajVby5emO-7vXRacnDEfAGqONyuPrVh1JIidMZjm4hY.jpeg?width=640&crop=smart&auto=webp&s=30d48eae2392d9c2f4dd65957dd0e9e41948cd9f",
+      "external_url": "https://upwarddynamism.wpcomstaging.com/ai-use-cases-prompts/image-genai-infographic-blueprint/",
+      "site_name": "Upward Dynamism | Learn AI for Work & Life",
+      "favicon": "https://i0.wp.com/upwarddynamism.com/wp-content/uploads/2025/05/upward-dynamism_john_ai-literacy_blog_main-logo-emblem-e1747509591408.webp?fit=180%2C180&ssl=1",
+      "description": "Image AI can compress long texts into scannable infographics, but only if steered well. Use this universal prompt to turn any content into visual knowledge."
     }
   ],
-  "fetched_at": "2025-11-24T22:50:25.839775+00:00"
+  "fetched_at": "2025-11-24T23:29:40.120496+00:00"
 }
