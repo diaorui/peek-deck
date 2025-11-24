@@ -35,6 +35,17 @@
       "description": "Ubisoft is using generative AI \"in all our studios and offices\""
     },
     {
+      "title": "In tweaking its chatbot to appeal to more people, OpenAI made it riskier for some of them",
+      "author": "tekz",
+      "url": "https://www.reddit.com/r/artificial/comments/1p58lkv/in_tweaking_its_chatbot_to_appeal_to_more_people/",
+      "published": 1763961492.0,
+      "thumbnail": null,
+      "external_url": "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html?unlocked_article_code=1.3U8.aLI0.rvBtjMyLr560&smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb",
+      "site_name": "nytimes.com",
+      "favicon": null,
+      "description": "It sounds like science fiction: A company turns a dial on a product used by hundreds of millions of people and inadvertently destabilizes some of their minds. But that is essentially what happened at OpenAI this year."
+    },
+    {
       "title": "Anthropic Study Finds AI Model \u2018Turned Evil\u2019 After Hacking Its Own Training",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1p4oxil/anthropic_study_finds_ai_model_turned_evil_after/",
@@ -57,15 +68,15 @@
       "description": "I tried building a small Python project recently with AI help, and it made the whole thing way less intimidating. Now I\u2019m trying to figure out which AI coding assistant is actually worth sticking with. Claude is great at explaining concepts, GPT feels better at reasoning through tricky logic, and I\u2019ve seen Sweep AI pop up for people who want project-level help directly inside JetBrains instead of switching back and forth with chat. Which model or tool gave you the best balance between learning, accuracy, and speed? And do you feel like it improved your actual understanding of coding over time?"
     },
     {
-      "title": "In tweaking its chatbot to appeal to more people, OpenAI made it riskier for some of them",
-      "author": "tekz",
-      "url": "https://www.reddit.com/r/artificial/comments/1p58lkv/in_tweaking_its_chatbot_to_appeal_to_more_people/",
-      "published": 1763961492.0,
+      "title": "ChatGPT is consuming too much garbage and can't distinguish reality from fiction.",
+      "author": "Tasty_Tell",
+      "url": "https://www.reddit.com/r/artificial/comments/1p58knn/chatgpt_is_consuming_too_much_garbage_and_cant/",
+      "published": 1763961405.0,
       "thumbnail": null,
-      "external_url": "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html?unlocked_article_code=1.3U8.aLI0.rvBtjMyLr560&smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb",
-      "site_name": "nytimes.com",
+      "external_url": null,
+      "site_name": null,
       "favicon": null,
-      "description": "It sounds like science fiction: A company turns a dial on a product used by hundreds of millions of people and inadvertently destabilizes some of their minds. But that is essentially what happened at OpenAI this year."
+      "description": "I asked him about some great nicknames from history, and he gave me a couple. Some were correct, but others were either extremely misattributed or outright fiction. In particular, I asked him about nicknames like \"The Pale Death of the Saracens,\" which is a real nickname. For some reason, he attributed it to Fernando Gonz\u00e1lez de Lara, a Spanish architect from the 1700s and 1800s. The actual owner of the nickname was Nikephoros II Phokas, an Eastern Roman emperor. Then another Eastern Roman nickname he got wrong was that of Basil II. He mentioned three nicknames; two were correct because they were the Greek nicknames translated as \"The Slayer of Bulgars.\" But then (which was actually the first one he wrote down) was \"The Emperor of Mankind.\" I don't know about you, but it seems to me he read something about Warhammer 40k on social media. He did many, but one odd one was Isabella I of Castile, commonly known as Isabella the Catholic, the queen who financed Columbus's voyage by pawning her jewels\u2014or so the legend goes. The thing is, he gave her the title of the Lady of the Dragon. Like, is this Game of Thrones suddenly happening? What I don't understand is how he can fail so many times with this. Shouldn't it be easy to check his Wikipedia page? I understand why it can't be used in a formal research paper (although much of that is due to the academic community not understanding that Wikipedia is often more reliable than many books because it's collaborative), but at the very least, an AI should check it first for these kinds of questions, especially since, being a machine, it should be able to quickly check pages in different languages, which is what you need if you want more complete information and different perspectives on something."
     },
     {
       "title": "What to know about \u2018AI psychosis\u2019 and the effect of AI chatbots on mental health",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Elon Musk vs Star Wars Droids"
-    },
-    {
-      "title": "Don\u2019t Expect AI To Disrupt Google\u2019s Monopoly on Search",
-      "author": "bloomberg",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4t8q8/dont_expect_ai_to_disrupt_googles_monopoly_on/",
-      "published": 1763920654.0,
-      "thumbnail": "https://external-preview.redd.it/XKfA4DUMImruvRlB9z8r2zqs1DENlRg8_v1w_XD5PF8.gif?width=640&crop=smart&s=ff3de7afc0a44da6f1aeaf59cd4b9f257118d666",
-      "external_url": "https://www.bloomberg.com/news/articles/2025-11-21/the-google-antitrust-ruling-shows-how-ai-could-protect-big-tech",
-      "site_name": "bloomberg.com",
-      "favicon": null,
-      "description": "A judge said artificial intelligence would upend Google\u2019s dominance, but two new books argue that monopolies rarely fix themselves."
     }
   ],
-  "fetched_at": "2025-11-24T05:32:10.282449+00:00"
+  "fetched_at": "2025-11-24T06:42:11.294655+00:00"
 }

@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNWVsY1hoTC1MWjZwNTVZdTdtdmhoc19vS3VRc2JrZGlKbDFvR0d1N0hXTTBLeEwtcml1ZEFPcXpZT2l4RDFrcHAxam1DbmxyOHVxY0NDcjNkSlZBRDBIVmE2NzFzVVNsbWxpbnlFQXBjelZtMlRjZG5SYmtGRklkSi1hRU1lcjJ0?oc=5",
-      "pub_date": 1763663820.0,
-      "article_url": "https://fortune.com/2025/11/20/elon-musk-tesla-ai-work-optional-money-irrelevant/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246882303-e1763661015921.jpg?resize=1200,600",
-      "description": "\u201cIt\u2019ll be like playing sports or a video game or something like that,\u201d the Tesla CEO said."
-    },
-    {
       "headline": "Humanoid robots will change work forever",
       "source": "abc.net.au",
       "source_url": "https://www.abc.net.au",
@@ -35,16 +25,6 @@
       "description": "A former engineer for Figure AI filed a lawsuit against the company, claiming he was unlawfully terminated after warning executives about product safety."
     },
     {
-      "headline": "Xiaomi open-sources AI model spanning autonomous driving and robotics",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0c3WXZTNGJ2d1ZWMDRBLTNPYUU3a1JBMVc1OU5DZjFpdmdmXzdkcUluczFBMmRSemJiQ1FjNzBpeDNHalJwRURUTEZaM3JMbmJFUWxjM2dnTTE3VVhOcEpBOXNzQWEwVjVDRDdRcWE2clQtMG5mTDA5WE9DNEF2MTFBdm5IcklMU1BUVnBNY2R4cEs4b0NacTFCUHpud19kYlR0X3FpaThOTzJzV3BHUmNfWVJLWi0tdWFybtIBvAFBVV95cUxOaWJnOHNyTDFGeXI4MG9Wekwxel9lZ2NkZmQ3Skg4WE90QkhVUXhQRTVfSTkyT0dPNEo1b1RKU3F6RDh6ckh1N2lrWmUycFlsXzhZSHB4NUpYenVZX3VWVVpDNExxakFsdlNDOGdQQ1E1SE5KU203NllxOUhpRERqTmpaT0gwMWVhM3FEdnZTMnZEN0gyRi1sZzMzZ2FsVGczT1ZJcTV3VzVpX0NQYmdMcUVUeW9zZm1xMHBWXw?oc=5",
-      "pub_date": 1763796613.0,
-      "article_url": "https://www.scmp.com/tech/big-tech/article/3333787/xiaomi-open-sources-ai-model-spanning-autonomous-driving-and-robotics",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/22/a3b60646-2a8f-4358-9d8e-0df2feab2d46_6b73773b.jpg?itok=QrbmmjT1&v=1763795339",
-      "description": "EV and AI initiatives have become an increasingly important part of Xiaomi\u2019s business."
-    },
-    {
       "headline": "Humanoid robots get \u2018real-world intelligence\u2019, full autonomy with US firm\u2019s BrainPack",
       "source": "Interesting Engineering",
       "source_url": "https://interestingengineering.com",
@@ -55,14 +35,14 @@
       "description": "OpenMind's modular unit allows robots to perform advanced functions like self-guided patrols and real-time 3D mapping."
     },
     {
-      "headline": "The Weekender: Robots, Robots Everywhere (Even at the Litter Box)",
-      "source": "PYMNTS.com",
-      "source_url": "https://www.pymnts.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXk4UzBvTXBkMWZJMmt2MmZ0Z0d3S2FkdE4tLVN2b2Y3T1Zfb280SE4ydFh6cWhIT0VmaVdBLUZuNm1IREE4cnE1OS1BUzA4enZKRmtMcHRVYkdhU3dLYmUxOTlUQWQ2VVNkaHhhMmh4WlFJdjRnRjREb1Rid0hSNXRFUVNta0puOGVQZWd2VkY4QzdRYmwzdERtcnlPUzJmX1VodHhEaEtxdXYxaFh3SFFRa3poSm8?oc=5",
-      "pub_date": 1763802119.0,
-      "article_url": "https://www.pymnts.com/artificial-intelligence-2/2025/the-weekender-robots-robots-everywhere-even-at-the-litter-box/",
-      "image": "https://www.pymnts.com/wp-content/uploads/2025/11/weekender-generative-ai-robotics-technology-automation-artificial-intelligence-main-feature-saturday.jpg",
-      "description": "Blame the elves. They saw generative artificial intelligence (AI) coming for their jobs and outsourced Christmas to robots. This holiday season, the"
+      "headline": "Xiaomi open-sources AI model spanning autonomous driving and robotics",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0c3WXZTNGJ2d1ZWMDRBLTNPYUU3a1JBMVc1OU5DZjFpdmdmXzdkcUluczFBMmRSemJiQ1FjNzBpeDNHalJwRURUTEZaM3JMbmJFUWxjM2dnTTE3VVhOcEpBOXNzQWEwVjVDRDdRcWE2clQtMG5mTDA5WE9DNEF2MTFBdm5IcklMU1BUVnBNY2R4cEs4b0NacTFCUHpud19kYlR0X3FpaThOTzJzV3BHUmNfWVJLWi0tdWFybtIBvAFBVV95cUxOaWJnOHNyTDFGeXI4MG9Wekwxel9lZ2NkZmQ3Skg4WE90QkhVUXhQRTVfSTkyT0dPNEo1b1RKU3F6RDh6ckh1N2lrWmUycFlsXzhZSHB4NUpYenVZX3VWVVpDNExxakFsdlNDOGdQQ1E1SE5KU203NllxOUhpRERqTmpaT0gwMWVhM3FEdnZTMnZEN0gyRi1sZzMzZ2FsVGczT1ZJcTV3VzVpX0NQYmdMcUVUeW9zZm1xMHBWXw?oc=5",
+      "pub_date": 1763796613.0,
+      "article_url": "https://www.scmp.com/tech/big-tech/article/3333787/xiaomi-open-sources-ai-model-spanning-autonomous-driving-and-robotics",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/22/a3b60646-2a8f-4358-9d8e-0df2feab2d46_6b73773b.jpg?itok=QrbmmjT1&v=1763795339",
+      "description": "EV and AI initiatives have become an increasingly important part of Xiaomi\u2019s business."
     },
     {
       "headline": "Armstrong Robotics wants to create general purpose kitchen robots, starting with dishwashing",
@@ -75,16 +55,6 @@
       "description": "Armstrong Robotics has already deployed autonomous dishwashing robots at restaurants for a year and a half."
     },
     {
-      "headline": "You Must Read This Riveting Whistleblower Lawsuit About Allegedly Dangerous Robots",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVW5TMU5xTV96SW9YWGdfcE91TUg0SGpBdDVucHUtZnQ0UmNkdENNSTBUbUQzLVhVUHU2ZnJJZ09XaTlWS0hBY0ZURklJeTNTOUo1X0ZtVVJnaGFiSy1RRHFQREppQkpaSE54TUdrbTFidl9yb0c4a0FScUF6MGRCQ2hEa3lHTEF6aWxkUEdPQktMVURUaklnT0pHYS1RaFh0OEJfUW1TaXBjb2d0MWk1MTh5Yw?oc=5",
-      "pub_date": 1763838302.0,
-      "article_url": "https://gizmodo.com/you-must-read-this-riveting-whistleblower-lawsuit-about-allegedly-dangerous-robots-2000688737",
-      "image": "https://gizmodo.com/app/uploads/2025/11/figure-02-1200x675.jpg",
-      "description": "A safety technician was fired as a company allegedly rushed ahead in commercializing a powerful humanoid robot with bone-crunching capabilities."
-    },
-    {
       "headline": "This startup bucked mainstream robotics training methods to teach a robot how to load the dishes",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -95,16 +65,46 @@
       "description": "Sunday Robotics spent less than 2 years in stealth figuring out how to train robots to complete complex tasks like handling dishes using human data."
     },
     {
-      "headline": "Robo teams: Janesville schools join in FIRST LEGO regionals",
-      "source": "GazetteXtra",
-      "source_url": "https://www.gazettextra.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNDhHck5xT0JhNTBkcmdZQjhBX0t2dFFVRm9pWWZPWVVENGFEbW4yZDVYNFdVUGFlUS1tby1hTFdyU3BkUUwzbUxNckJ2MDY3RnZJcmo4LWZsVkJFWEVjTGRSeVA0SkFRRTVvR0NuSHEwejBnT1R4Zm1JY1FxajZCVmJWRG5GajFsNWxSODRfenlmR0pLR18yMHhJU192ay1OLThNaGpPb19mU3h0SkFsMHVmQzBqcUpWcXZrbEItY2hNeUZCM3NFV3QxSWhiZkV0bURRUjA1c2NWaHF4NmNwRQ?oc=5",
-      "pub_date": 1763890200.0,
-      "article_url": "https://www.gazettextra.com/news/local/robo-teams-janesville-schools-join-in-first-lego-regionals/article_06ff3292-6cf0-45ad-b7f6-5738cabba097.html",
-      "image": "https://bloximages.newyork1.vip.townnews.com/gazettextra.com/content/tncms/assets/v3/editorial/d/8f/d8ffcd00-63f0-4399-813b-af0370611efb/6922ec37759d3.image.jpg?crop=1704%2C895%2C0%2C161&resize=1200%2C630&order=crop%2Cresize",
-      "description": "JANESVILLE \u2014 As they joined 22 other southern Wisconsin teams at Saturday\u2019s FIRST LEGO League regional competition at Parker High School, students from Madison Elementary School were capping a season"
+      "headline": "Whistleblower lawsuit claims Figure AI robots have the strength to fracture skulls",
+      "source": "Notebookcheck",
+      "source_url": "https://www.notebookcheck.net",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdm5uSEFNRGlpZjc5MjZxZ2o2ZGpHTENxOWVuV0p2c0tVVGdrT1JFZU5vY1M4WlRCbXo1THMxbm9RUVJ0eUJ3Z3hYdnd2M1cxQWc1cXN6Zmh1MDZUc2JTamI2c0dtOEt3Wm9Sbmk0UkQ2eGJsNnFDT0hzYU5vSUNtQndkVzBOTjE1amhuTTRqTzhOcTlwQkhKX2VsQWpmUVVtWTBGSkVpRFBhUE1VUmpnc3N0TjlKY01nOHdGLXROYkhPc3hUSkE?oc=5",
+      "pub_date": 1763903100.0,
+      "article_url": "https://www.notebookcheck.net/Whistleblower-lawsuit-claims-Figure-AI-robots-have-the-strength-to-fracture-skulls.1169124.0.html",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Figure-AI-Receiptionist.png",
+      "description": "Former safety chief claims Figure AI's humanoid robots can fracture skulls and alleges he was fired for raising concerns. The robotics startup, now valued at $39 billion with backing from Nvidia and Jeff Bezos, denies wrongdoing and cites poor performance as the reason for termination."
+    },
+    {
+      "headline": "Google DeepMind Hires Former CTO of Boston Dynamics as the Company Pushes Deeper Into Robotics",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWEJJSklWY3pZR3lIcGJYSEVuVEhKcVd2WHI1NEM4YVBaYVdqQWx6Nnl5ajFUYWtuOHdjcndfRkdXS005TTJiVDZPZjBfd05rYTJEZXZVdGRZcHN5YUZKZGtxcnlXMG4tbzNobkVJMlZJWnFKR0NTSUNQSGp4emxqWWhmTVBmVW1GNEQ3bA?oc=5",
+      "pub_date": 1763593380.0,
+      "article_url": "https://www.wired.com/story/google-hires-cto-boston-dynamics-demis-hassabis-android/",
+      "image": "https://media.wired.com/photos/691e477b5cd82181399f7fe5/191:100/w_1280,c_limit/Google-DeepMind-Hires-Former-CTO-of-Boston-Dynamics-as-Company-Pushes-Deeper-Into-Robotics-Business-2223617397.jpg",
+      "description": "DeepMind\u2019s chief says he envisions Gemini as an operating system for physical robots. The company has hired Aaron Saunders to help make that a reality."
+    },
+    {
+      "headline": "9 Robotics Stocks to Buy Before the Automation Wave Peaks",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa3FhU3VjSVBuQ1hVZ0czY3IzWjhwdFc4U1g0eXEzajFuMVB3S01ibWdGaHdlTmdDTllLZHUzZGdSVUp6TUx5cWJqN2F5cmFReGo4U3dDZzR1c19UZi1WWTd0UUt4MWhWREd6cUNkcWFBbzU3d3BsbXBKWkNDRzFEUHUtSXNYZFJfdGtDaFNGM3JkcEc3eTl5bA?oc=5",
+      "pub_date": 1763107200.0,
+      "article_url": "https://www.fool.com/investing/2025/11/14/9-robotics-stocks-to-buy-before-the-automation-wav/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F842560%2Fgettyimages-1287582736.jpg&w=1200&op=resize",
+      "description": "Labor shortages and the rise of AI are converging to make the adoption of robotics increasingly inevitable."
+    },
+    {
+      "headline": "Kroger acknowledges that its bet on robotics went too far",
+      "source": "Grocery Dive",
+      "source_url": "https://www.grocerydive.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaWlaczQtWnRXZEFWWGNTWnc1QzE1N3prS0wzdE9DM0pTRXBrZm01TDI2M0VraG9BNHZDeWRVczhReGlCaDFMa0NVVFdiMVlWcTFzZnRDdGljbTRWdmtnWVNuQWw3Z0R0MGFqWDV0WmVKNjNYc01fRjhzUEF3RW85VnhoMlAtNmFYYi05N0xCcVdnei04VmNmbWgxRkdWUk1nMWdfa3VqZkpFZXBySVREVEYwSmtEeXM?oc=5",
+      "pub_date": 1763572927.0,
+      "article_url": "https://www.grocerydive.com/news/kroger-ocado-close-automated-fulfillment-centers-robotics-grocery-ecommerce/805931/",
+      "image": "https://imgproxy.divecdn.com/f25ohK7ExO4gqsJ86gdnGfP_QY-4iktjuQNd72b1TQo/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Lcm9nZXJfT2NhZG8yMC5qcGc=.webp",
+      "description": "The retailer\u2019s decision to close three automated fulfillment centers reflects the stark changes in grocery e-commerce that have taken place in the years since it launched its partnership with Ocado."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T05:32:26.010267+00:00"
+  "fetched_at": "2025-11-24T06:42:33.009265+00:00"
 }

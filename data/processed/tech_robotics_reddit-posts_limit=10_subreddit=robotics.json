@@ -35,17 +35,6 @@
       "description": "Full video: https://youtu.be/D_eXUkDf7UU?si=9JL-OhVQXgD1X8pv"
     },
     {
-      "title": "Why don\u2019t we have practical home mobile robots yet \u2014 even though the tech is basically there?",
-      "author": "ExploreNinja007",
-      "url": "https://www.reddit.com/r/robotics/comments/1p58fs0/why_dont_we_have_practical_home_mobile_robots_yet/",
-      "published": 1763960952.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "We\u2019re at an odd point in robotics right now. CV is solid, indoor SLAM is extremely reliable, onboard compute keeps getting cheaper, and even small quadrupeds/rovers can traverse a normal apartment without embarrassing themselves. So why isn\u2019t there a mainstream \u201cmobile home robot\u201d category yet? Not humanoids \u2014 I mean something between a Roomba and a small utility rover that can move around, monitor pets, detect anomalies, or interact in simple ways. It feels like the core pieces exist, but nothing has crossed the \u201cthis is genuinely useful for a non-technical household\u201d threshold. The bottlenecks I keep coming back to: Use-case definition: We have form factors, but not a compelling job people will pay for. Privacy / trust: A mobile camera in the home is a different risk model than a static appliance. Cost curve: Hardware is cheaper but still nowhere near consumer-appliance territory. Reliability: 24/7 autonomy indoors is underratedly hard \u2014 long-tail failures are brutal. Safety vs autonomy: Too capable = high trust barrier; too limited = no value. But it does feel like we\u2019re close to a new class of robots that aren\u2019t humanoids and aren\u2019t vacuums \u2014 something like a \u201cgeneral-purpose home rover.\u201d For people working in robotics: What do you see as the actual blocker? A missing technical capability? A missing product use-case? Or is it simply not a market people want yet? Genuinely curious how the folks building and researching this see the gap."
-    },
-    {
       "title": "How do I make my robot walk/balance dynamically? I don\u2019t know how to use simulations such as Isaac sim since im new to robotics.",
       "author": "TooManyLegoBricks",
       "url": "https://www.reddit.com/r/robotics/comments/1p4pobn/how_do_i_make_my_robot_walkbalance_dynamically_i/",
@@ -66,6 +55,17 @@
       "site_name": "CNBC",
       "favicon": "https://sc-cnbcfm-com.cdn.ampproject.org/i/s/sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
       "description": "Im curious how many others from Figure or other Humanoid Robot companies will start to step forward and speak up. Safety is something that is not talked about enough."
+    },
+    {
+      "title": "Why don\u2019t we have practical home mobile robots yet \u2014 even though the tech is basically there?",
+      "author": "ExploreNinja007",
+      "url": "https://www.reddit.com/r/robotics/comments/1p58fs0/why_dont_we_have_practical_home_mobile_robots_yet/",
+      "published": 1763960952.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "We\u2019re at an odd point in robotics right now. CV is solid, indoor SLAM is extremely reliable, onboard compute keeps getting cheaper, and even small quadrupeds/rovers can traverse a normal apartment without embarrassing themselves. So why isn\u2019t there a mainstream \u201cmobile home robot\u201d category yet? Not humanoids \u2014 I mean something between a Roomba and a small utility rover that can move around, monitor pets, detect anomalies, or interact in simple ways. It feels like the core pieces exist, but nothing has crossed the \u201cthis is genuinely useful for a non-technical household\u201d threshold. The bottlenecks I keep coming back to: Use-case definition: We have form factors, but not a compelling job people will pay for. Privacy / trust: A mobile camera in the home is a different risk model than a static appliance. Cost curve: Hardware is cheaper but still nowhere near consumer-appliance territory. Reliability: 24/7 autonomy indoors is underratedly hard \u2014 long-tail failures are brutal. Safety vs autonomy: Too capable = high trust barrier; too limited = no value. But it does feel like we\u2019re close to a new class of robots that aren\u2019t humanoids and aren\u2019t vacuums \u2014 something like a \u201cgeneral-purpose home rover.\u201d For people working in robotics: What do you see as the actual blocker? A missing technical capability? A missing product use-case? Or is it simply not a market people want yet? Genuinely curious how the folks building and researching this see the gap."
     },
     {
       "title": "Short survey: how do your robots handle \u201cfind this asset/location\u201d tasks?",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-24T05:32:09.922846+00:00"
+  "fetched_at": "2025-11-24T06:42:15.196683+00:00"
 }
