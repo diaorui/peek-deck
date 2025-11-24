@@ -73,7 +73,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/facebook/sam-3d-objects.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1592839207516-noauth.png",
       "downloads": 0,
-      "likes": 162,
+      "likes": 164,
       "pipeline_tag": null,
       "num_parameters": null,
       "last_modified": "2025-11-21T12:08:20.000Z",
@@ -121,7 +121,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/maya-research/maya1.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/67af085be29f84ed3bdc4314/u_ffU2inIvqI99sMVPf_6.png",
       "downloads": 42760,
-      "likes": 747,
+      "likes": 748,
       "pipeline_tag": "text-to-speech",
       "num_parameters": "3.3B",
       "last_modified": "2025-11-12T00:53:50.000Z",
@@ -162,6 +162,6 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-11-24T20:39:01.472954+00:00",
+  "fetched_at": "2025-11-24T21:10:49.567197+00:00",
   "has_descriptions": true
 }

@@ -5,6 +5,46 @@
   "search_query": "robotics",
   "articles": [
     {
+      "headline": "From Ukraine to Silicon Valley: Igor Kulakov and Viktor Petrenko on Building the Future of Automation",
+      "source": "USA Today",
+      "source_url": "https://www.usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNXzJ0Ty1qN1pLQ0dScVFrdHVpMFNFQzRPS2lrU1BWSktDWmU1a0lHZFVYWW5LRnpBdzMyT3BVZXpVbWtES3JBbXZ4SDlsMWx6QlZBOUtUYklKOWtMcF94bXNNS0VaNjYyM0I4dDZ1OXVpRjhDUTFtdDZuNENNLWQwYTkxN3c5X1gxOUt0bzY3NWo2WTluWU1zUVNKbTdxQ0hGSFhhMDhKOHNPRV9MMjdDaUVqejc5NXZDVVdWd3lBbGpuNV81OFE0U1h3WUJYS09UXzJjaVFaTU5OZ0YzbTA4ZDc4dGh0QU05Y0pXVDJVY2F5Snp1MUJKOWxMRnhmYklyTG8zR29BcGV2OVZRWmg1bw?oc=5",
+      "pub_date": 1764017167.0,
+      "article_url": "https://www.usatoday.com/story/special/contributor-content/2025/11/24/from-ukraine-to-silicon-valley-igor-kulakov-and-viktor-petrenko-on-building-the-future-of-automation/87453772007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/11/24/USAT/87453783007-photo-20250612-162905.jpeg?crop=1279,719,x0,y0&width=1279&height=719&format=pjpg&auto=webp",
+      "description": "By combining AI with robotics engineering, the company is building systems designed to automate complex tasks once thought impossible for machines, with the goal of making U.S. manufacturing more efficient and adaptable."
+    },
+    {
+      "headline": "Tesla is bleeding AI talent to a small new robotics start-up",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUTFBMXRyMGlCSXBwQVpQU09KTnpFTG1JdWQ1T2dtVC1OdXFOQWt3VEIxbXlWRUFvLWZzdVRSbEtZVmd6dGE4TXcwR1VFVDZOS0FQZGxIRWpUekZaejFITjMwNV9kQlBtaTJFVU8xcFZENi1TYUxVaFpBUk1JWnNXZXIyVm5CQ05lR2F6bQ?oc=5",
+      "pub_date": 1764017880.0,
+      "article_url": "https://electrek.co/2025/11/24/tesla-bleeding-ai-talent-small-new-robotics-start-up/",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/11/Sunday-Robotics-Tesla-engineers.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "description": "Tesla\u2019s AI and robotics divisions are facing a significant \u201cbrain drain\u201d as a stealth startup called Sunday Robotics emerges with..."
+    },
+    {
+      "headline": "Kraken Robotics Reports Record Q3 2025 Financial Results",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSHFEUWxhZHM4WUtza0xaMGtqTWtKdXRWQWZ5SERTbFBTYXhnLTBXa0tYWW1ZNy1MWWxhMnMzZFU1Z3RIYzNXemlpZUh6UWNSS3lYZzJ2Nkg1R2hKa3NORGNHRnNCMjJ5XzlvbzFRVTJxcnNQM1I5eVFIZmlPR3lwLTl2N1lIdw?oc=5",
+      "pub_date": 1763983800.0,
+      "article_url": "https://finance.yahoo.com/news/kraken-robotics-reports-record-q3-113000342.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/R_knGmGESAmP1pmsRJFw4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTY-/https://media.zenfs.com/en/globenewswire.com/46ff7e3abc10df99a2282857f788f75c",
+      "description": "60% Revenue Growth, 59% Gross Margin, and 25% EBITDA MarginST. JOHN'S, Newfoundland and Labrador, Nov. 24, 2025 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (TSX-V: PNG, OTCQB: KRKNF) (\"Kraken\" or the \"Company\"), announced it has filed its financial results for the quarter ended September 30, 2025 (\u201cQ3 2025\u201d). Please refer to the unaudited Condensed Consolidated Interim Financial Statements and Management\u2019s Discussion and Analysis (\u201cMD&A\u201d) for quarter ended September 30, 2025, filed on www.sedarplus"
+    },
+    {
+      "headline": "Robotics, AI, drones, and data analytics are shaping the future of the construction industry",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY3pic0dhWERYcm02cTRwbGdldXdwUF9sbHR6SVo3YWlFVkRtMXNpZV9TT0xzekZ0M3NfaGtqSmlGRkk1eklPRVVSZlIyaHpHSEgySnZkWkxsTlVkTFpvbERhaFhrUjFrbW9Yam1TSWhNemtGakpVQUtzSjJVVHRvN0FB?oc=5",
+      "pub_date": 1764000913.0,
+      "article_url": "https://techxplore.com/news/2025-11-robotics-ai-drones-analytics-future.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Humanoid robots will change work forever",
       "source": "abc.net.au",
       "source_url": "https://www.abc.net.au",
@@ -35,26 +75,6 @@
       "description": "A former engineer for Figure AI filed a lawsuit against the company, claiming he was unlawfully terminated after warning executives about product safety."
     },
     {
-      "headline": "Kraken Robotics Reports Record Q3 2025 Financial Results",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSHFEUWxhZHM4WUtza0xaMGtqTWtKdXRWQWZ5SERTbFBTYXhnLTBXa0tYWW1ZNy1MWWxhMnMzZFU1Z3RIYzNXemlpZUh6UWNSS3lYZzJ2Nkg1R2hKa3NORGNHRnNCMjJ5XzlvbzFRVTJxcnNQM1I5eVFIZmlPR3lwLTl2N1lIdw?oc=5",
-      "pub_date": 1763983800.0,
-      "article_url": "https://finance.yahoo.com/news/kraken-robotics-reports-record-q3-113000342.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/R_knGmGESAmP1pmsRJFw4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTY-/https://media.zenfs.com/en/globenewswire.com/46ff7e3abc10df99a2282857f788f75c",
-      "description": "60% Revenue Growth, 59% Gross Margin, and 25% EBITDA MarginST. JOHN'S, Newfoundland and Labrador, Nov. 24, 2025 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (TSX-V: PNG, OTCQB: KRKNF) (\"Kraken\" or the \"Company\"), announced it has filed its financial results for the quarter ended September 30, 2025 (\u201cQ3 2025\u201d). Please refer to the unaudited Condensed Consolidated Interim Financial Statements and Management\u2019s Discussion and Analysis (\u201cMD&A\u201d) for quarter ended September 30, 2025, filed on www.sedarplus"
-    },
-    {
-      "headline": "Robotics, AI, drones, and data analytics are shaping the future of the construction industry",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY3pic0dhWERYcm02cTRwbGdldXdwUF9sbHR6SVo3YWlFVkRtMXNpZV9TT0xzekZ0M3NfaGtqSmlGRkk1eklPRVVSZlIyaHpHSEgySnZkWkxsTlVkTFpvbERhaFhrUjFrbW9Yam1TSWhNemtGakpVQUtzSjJVVHRvN0FB?oc=5",
-      "pub_date": 1764000913.0,
-      "article_url": "https://techxplore.com/news/2025-11-robotics-ai-drones-analytics-future.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "The Droids Taking Over One of England\u2019s Strangest Towns",
       "source": "New York Magazine",
       "source_url": "https://nymag.com",
@@ -83,28 +103,8 @@
       "article_url": "https://www.thewirechina.com/2025/11/23/while-politicians-fret-unitree-is-selling-robots-across-america-unitree-police-robot/",
       "image": "https://www.thewirechina.com/wp-content/uploads/2025/11/Unitree-at-CCSU-scaled-e1763756088413.jpg",
       "description": "Police departments and universities are among the growing number of U.S. customers for the market-leading Chinese robot maker, Unitree."
-    },
-    {
-      "headline": "This startup bucked mainstream robotics training methods to teach a robot how to load the dishes",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMk1NMzZqcXBRZzZqd0gyQ3BUSVRMZFg1azFJZXo0VkY0YUR3Y3QwWkVtM3UtQWltbXpCUVR5V1gteW5MWTgyUDJVVWpiNWVzNW1EbW1LUXp4a0tTZnlDZmUwYWhIZUd0akRkeVFuY20taTdTREZZalZ6T2V0ZWtHaUE5VWQtc1BSOWh6aXBBRkwwdllKSzFjaVRWcVhrai1WUHc?oc=5",
-      "pub_date": 1763776020.0,
-      "article_url": "https://www.businessinsider.com/sunday-robotics-home-robot-training-hands-loading-dishwasher-2025-11",
-      "image": "https://i.insider.com/691fed00e1a9cbb014deaf72?width=1200&format=jpeg",
-      "description": "Sunday Robotics spent less than 2 years in stealth figuring out how to train robots to complete complex tasks like handling dishes using human data."
-    },
-    {
-      "headline": "\ud83d\udea8 GOOGLE DEEPMIND JUST HIRED A ROBOT WARLORD When Google DeepMind poaches Boston Dynamics\u2019 former CTO, you\u2019re not hiring an engineer - you\u2019re importing a whole era of robotics. Aaron Saunders, one of the minds behind the backflipping",
-      "source": "x.com",
-      "source_url": "https://x.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGMGw1YmptdEk2ZHlyNGs2QU5VNkhCOFVKendqN2lmeXhQUF9RUnJwZnRQeFczSWZlaGJRSFIyWFlLaDV0OGtrY2xDdHlMd0FWRGV0N2EwYjN2c25DNnZ2cmp3?oc=5",
-      "pub_date": 1763933634.0,
-      "article_url": "https://x.com/MarioNawfal/status/1992708208251875453",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T20:39:08.463046+00:00"
+  "fetched_at": "2025-11-24T21:11:00.313101+00:00"
 }
