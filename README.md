@@ -123,7 +123,7 @@ open docs/solana.html
 
 ### Tech & AI
 - **github-repos** - Trending GitHub repositories
-- **huggingface-models** - Trending ML models
+- **huggingface-models** - Trending ML models with AI-generated descriptions
 - **huggingface-papers** - Latest research papers
 
 ## How It Works
@@ -146,6 +146,7 @@ Each widget has an `update_minutes` setting to control refresh frequency and res
 
 Go to **Settings** → **Secrets and variables** → **Actions** and add:
 - `YOUTUBE_API_KEY` - For YouTube widget (if using youtube-videos)
+- `GEMINI_API_KEY` - For AI-generated descriptions in HuggingFace models widget (optional)
 
 **3. Run the Workflow First**
 
@@ -207,6 +208,7 @@ To add custom widgets, subclass `BaseWidget` and implement `fetch_data()`, `proc
 | **GitHub API** | github-repos | 60/hour (1k in Actions) | Auto in Actions |
 | **Hugging Face Hub API** | huggingface-models, huggingface-papers | Unclear | No |
 | **YouTube Data API** | youtube-videos | 10k units/day | **Yes - API key needed** |
+| **Google Gemini API** | huggingface-models (AI descriptions) | 1000/day (free tier) | Optional - API key needed |
 
 ### Environment Variables
 
@@ -214,7 +216,16 @@ For local development, set environment variables before running:
 
 ```bash
 export YOUTUBE_API_KEY=your_key_here
+export GEMINI_API_KEY=your_key_here  # Optional - for AI-generated model descriptions
 ./run.sh all
+```
+
+To enable AI-generated descriptions for HuggingFace models, also configure `llm` in `config/index.yaml`:
+
+```yaml
+llm:
+  provider: gemini
+  model: gemini-2.5-flash-lite
 ```
 
 **Note:** When running in GitHub Actions, set secrets in repository settings. The workflow automatically uses `GITHUB_TOKEN` for GitHub API (1,000 requests/hour vs 60 unauthenticated).
