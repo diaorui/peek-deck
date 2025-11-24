@@ -8,9 +8,9 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
-      "stars": 79487,
+      "stars": 79502,
       "stars_display": "79.5k",
-      "forks": 11814,
+      "forks": 11815,
       "forks_display": "11.8k",
       "language": "Jupyter Notebook",
       "topics": [
@@ -30,7 +30,7 @@
       "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
       "url": "https://github.com/ray-project/ray",
       "preview_image": "https://opengraph.githubassets.com/f7ac9ebd1d44a7aeb1d525064757ac8bf697e7fd66b4692c527e371c6f50cf53/ray-project/ray",
-      "stars": 39977,
+      "stars": 39980,
       "stars_display": "40.0k",
       "forks": 6933,
       "forks_display": "6.9k",
@@ -42,7 +42,7 @@
         "distributed",
         "hyperparameter-optimization"
       ],
-      "updated_at": "2025-11-24T04:23:56Z"
+      "updated_at": "2025-11-24T05:21:33Z"
     },
     {
       "full_name": "deepset-ai/haystack",
@@ -96,7 +96,7 @@
       "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
       "url": "https://github.com/tensorzero/tensorzero",
       "preview_image": "https://repository-images.githubusercontent.com/829640443/26b7c5c4-c12c-4e89-beaf-a4233f1dac87",
-      "stars": 10589,
+      "stars": 10590,
       "stars_display": "10.6k",
       "forks": 732,
       "forks_display": "732",
@@ -108,7 +108,7 @@
         "artificial-intelligence",
         "deep-learning"
       ],
-      "updated_at": "2025-11-24T04:19:29Z"
+      "updated_at": "2025-11-24T04:57:18Z"
     },
     {
       "full_name": "Netflix/metaflow",
@@ -218,7 +218,7 @@
         "developers",
         "full-text-search"
       ],
-      "updated_at": "2025-11-24T02:59:57Z"
+      "updated_at": "2025-11-24T05:37:16Z"
     }
   ],
   "query": "ai machine-learning llm",
@@ -226,5 +226,5 @@
   "days": 3,
   "limit": 10,
   "total_count": 136,
-  "fetched_at": "2025-11-24T04:45:30.397866+00:00"
+  "fetched_at": "2025-11-24T05:48:22.919943+00:00"
 }
