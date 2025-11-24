@@ -8,7 +8,7 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
-      "stars": 79502,
+      "stars": 79520,
       "stars_display": "79.5k",
       "forks": 11815,
       "forks_display": "11.8k",
@@ -218,13 +218,13 @@
         "developers",
         "full-text-search"
       ],
-      "updated_at": "2025-11-24T05:37:16Z"
+      "updated_at": "2025-11-24T06:12:21Z"
     }
   ],
   "query": "ai machine-learning llm",
   "search_query": "ai machine-learning llm pushed:>2025-11-21",
   "days": 3,
   "limit": 10,
-  "total_count": 136,
-  "fetched_at": "2025-11-24T05:48:22.919943+00:00"
+  "total_count": 138,
+  "fetched_at": "2025-11-24T06:58:16.362376+00:00"
 }

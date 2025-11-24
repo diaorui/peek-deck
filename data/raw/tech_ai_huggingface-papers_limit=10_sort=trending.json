@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2510.14528",
       "arxiv_url": "https://arxiv.org/abs/2510.14528",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14528.png",
-      "upvotes": 94,
+      "upvotes": 95,
       "num_comments": 6,
       "published_at": "2025-10-16T06:18:48.000Z",
       "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
@@ -168,7 +168,7 @@
       "num_comments": 1,
       "published_at": "2024-10-23T07:58:58.000Z",
       "github_repo": "https://github.com/karpathy/nanogpt",
-      "github_stars": 49968,
+      "github_stars": 49992,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-24T05:48:22.540079+00:00"
+  "fetched_at": "2025-11-24T06:58:15.973748+00:00"
 }
