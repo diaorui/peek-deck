@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 64,
+      "upvotes": 66,
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2511.13720",
       "arxiv_url": "https://arxiv.org/abs/2511.13720",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.13720.png",
-      "upvotes": 41,
+      "upvotes": 42,
       "num_comments": 1,
       "published_at": "2025-11-17T13:59:57.000Z",
       "github_repo": "https://github.com/LTH14/JiT",
@@ -77,25 +77,6 @@
       "project_page": null
     },
     {
-      "id": "2511.15586",
-      "title": "MHR: Momentum Human Rig",
-      "authors": "Aaron Ferguson, Ahmed A. A. Osman, Berta Bescos et al. (41 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "We present MHR, a parametric human body model that combines the decoupled skeleton/shape paradigm of ATLAS with a flexible, modern rig and pose corrective system inspired by the Momentum library. Our model enables expressive, anatomically plausible human animation, supporting non-linear pose correctives, and is designed for robust integration in AR/VR and graphics pipelines.",
-      "ai_summary": "MHR combines ATLAS's skeleton/shape paradigm with a modern rig to provide expressive, anatomically plausible human animation for AR/VR and graphics.",
-      "hf_url": "https://huggingface.co/papers/2511.15586",
-      "arxiv_url": "https://arxiv.org/abs/2511.15586",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.15586.png",
-      "upvotes": 12,
-      "num_comments": 1,
-      "published_at": "2025-11-19T11:18:02.000Z",
-      "github_repo": "https://github.com/facebookresearch/MHR",
-      "github_stars": 305,
-      "project_page": null
-    },
-    {
       "id": "2510.14528",
       "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
       "authors": "Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)",
@@ -112,6 +93,25 @@
       "published_at": "2025-10-16T06:18:48.000Z",
       "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
       "github_stars": 64642,
+      "project_page": null
+    },
+    {
+      "id": "2511.15586",
+      "title": "MHR: Momentum Human Rig",
+      "authors": "Aaron Ferguson, Ahmed A. A. Osman, Berta Bescos et al. (41 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "We present MHR, a parametric human body model that combines the decoupled skeleton/shape paradigm of ATLAS with a flexible, modern rig and pose corrective system inspired by the Momentum library. Our model enables expressive, anatomically plausible human animation, supporting non-linear pose correctives, and is designed for robust integration in AR/VR and graphics pipelines.",
+      "ai_summary": "MHR combines ATLAS's skeleton/shape paradigm with a modern rig to provide expressive, anatomically plausible human animation for AR/VR and graphics.",
+      "hf_url": "https://huggingface.co/papers/2511.15586",
+      "arxiv_url": "https://arxiv.org/abs/2511.15586",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.15586.png",
+      "upvotes": 12,
+      "num_comments": 1,
+      "published_at": "2025-11-19T11:18:02.000Z",
+      "github_repo": "https://github.com/facebookresearch/MHR",
+      "github_stars": 308,
       "project_page": null
     },
     {
@@ -164,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2511.11793",
       "arxiv_url": "https://arxiv.org/abs/2511.11793",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.11793.png",
-      "upvotes": 150,
+      "upvotes": 151,
       "num_comments": 4,
       "published_at": "2025-11-14T13:52:07.000Z",
       "github_repo": "https://github.com/MiroMindAI/MiroThinker",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-23T23:32:15.661213+00:00"
+  "fetched_at": "2025-11-24T01:35:39.557824+00:00"
 }

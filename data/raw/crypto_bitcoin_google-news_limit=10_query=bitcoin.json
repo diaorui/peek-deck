@@ -5,26 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin continues slide that's roiling markets, threatens to break below $80,000",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVljYmRNbTdrdWE0c3NjQWR5TzNWUUNENjh4MGMxWEZaMmFxQ3dES184LXlFeXE2WEhFSTdzTmhqZkRrNU1MbWlONFVCNThaVVVnVE15bElVRnJxWkp2Y3JTaTZMZ01fbVhnSVUzYW5QQ0t1SVhfVGNXOUVRRFlEX01fRDNpSHQ1eXNRcU8zQUo2cDV5M0lnZWttc3lFSWZ5amVZUVliV0xvMU1BWm9pbFVGZ9IBuAFBVV95cUxPNmZtMU9xNHpibzVYM1pCN2RQcmYyMktTZjZDTnFGX3F1NGdsV3d1YTl6R0I2Xzlpcm5RRWVsX0pHa1YzYlFoQmNDcDBtUThnMV9NRTYxVWdRNzBZOTJsMGFwTlBxMlZfekJRN0hMQ2JzRDk2UHFEN2pxa1ppc083cGg2bjZUTkJkQ3NVNEZPUjhrMG5ZbkszTno2ZXdBMVBRbDFjcFpMaXU2SXI5b0xESGhLWlhYc2tx?oc=5",
-      "pub_date": 1763736172.0,
-      "article_url": "https://www.cnbc.com/2025/11/21/bitcoin-continues-slide-thats-roiling-markets-threatens-to-break-below-80000.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/105496652-1740495612547-105496652-1539107947284gettyimages-917296340-1.jpg?v=1763738884&w=1920&h=1080",
-      "description": "Bitcoin almost dipped below its critical $80,000 support level."
-    },
-    {
-      "headline": "Peter Schiff Says Bitcoin Buyers Have Only One (Unlikely) Hope To Bail Them Out",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOFJzcDdRbFhyb2hweVJmVUd6X0FUMV9tdXh4OVlHU2pqN1UwcmRjNVExQUI0aUFKV2FtUnhZbGJfUjdkb095eTRKUGlldFBnRXZJX1lfRWJnRzJEOHQ2ZTc4YTg1MXZsRUZnQ1pFbUd1bEpGYnZLT2tRTHBzTVZjNFJ5ZGo?oc=5",
-      "pub_date": 1763808401.0,
-      "article_url": "https://finance.yahoo.com/news/peter-schiff-says-bitcoin-buyers-104641827.html",
-      "image": "https://media.zenfs.com/en/benzinga_79/e8347554e2490ad2ac30b732ae90c2fa",
-      "description": "Bitcoin's (CRYPTO: BTC) slide through key support levels has brought long-time critic and gold advocate Peter Schiff back into the spotlight\u2014and he's not mincing words. What Happened: Economist and prominent gold advocate Schiff argued on X that ..."
-    },
-    {
       "headline": "Crypto Crash Is Eroding Wealth for Trump\u2019s Family and Followers",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -33,6 +13,26 @@
       "article_url": "https://www.bloomberg.com/news/articles/2025-11-23/bitcoin-crash-hits-crypto-wealth-of-donald-trump-s-family-and-followers",
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iX1a_vkKbTYI/v2/1200x800.jpg",
       "description": "In President Donald Trump\u2019s second term, crypto assets transformed his family\u2019s wealth. Now the Trumps \u2014 and their followers \u2014 are getting a crash course in the wild volatility ingrained in digital currencies."
+    },
+    {
+      "headline": "Why bitcoin\u2019s brutal drop from an October record high is now a crucial barometer for the broader market",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNS1dQNWUzUzNWSHY2WlFlZ0g2UkZTQ1phemUtMGF6WlJQM2l3QWc3V0xFMmNZalJJc3NfTDRzTE5RNDlhenFpbGstd3ZiS01LZGVVZHFZeV9jakdHdVRTVDFZSmVlU0NSRFpYVlZSRDVSWFZEWmxqMGJNTmZadG50WUFFa2p1ZTQ4ZTJ1UUNGNGpBdVd0dGJURDBzTjA0RTNHN2NHcFFoSU9faVVvV1pFMjVVY0pXN3ZxTzJlZm9WTzV3amRtcUZoQ2JIV1dsN3dvYlYzUVBtY1pWTXdZOXJkaTdWTW5keDZxbFN3SG5HV2JCOHEwYWlRZWNZMWtnOS1DUVVabm9fT3ZKNkRNMFRLcUpOQ3FoTEZ0T0tVMVg2emdwMFpJeXpGRnlsamhoZUxRa2hqdTRpNWlDcjFQeWdZbjl6Zk9XMFQ2MEZKM1M0dUp0SlB6bVJTRVlBUHlSa0pRRU00RlRLRElKR0M5TlpoYWMxdUFIMFBJMU5LTjN2NWRTS0tTUE9VUjg5Q0JNZXA0TFRkTlhXd0N1Sk5hTDUxNDdZUlFELUpsOTFYdWJhcDl3dE5rOU03ZnZvWW1FUDNlWm16V2lmd0NGanAtcHRhbTBrYVRKOVc5QVB3cnphdGttcE0?oc=5",
+      "pub_date": 1763818860.0,
+      "article_url": "https://www.marketwatch.com/story/why-bitcoins-brutal-drop-from-an-october-record-high-is-now-a-crucial-barometer-for-the-broader-market-6193e69a?gaa_at=eafs&gaa_n=AWEtsqe8cEU9O6k572ruKk1mOJlaB0EjVhVmNLymoVO5rESVwBAJF0ew9qPx&gaa_ts=6923b9ef&gaa_sig=6cifbFkq_N-NIEKvpOxkxRfvXlmb8S9MCNxjNKBrlMMarM6TvRo6X9lSLIYcXs7rH84oCSf9didjUqPfsz6Bcw%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Polish Crypto Analyst Apologizes After Bitcoin \u2018Santa Rally\u2019 Forecast Fails",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ1ZjbjdIbDVGU3puWHl6ekpTZWxaYXVpbDh0ejBVZzd4d1F3MTNyVDEzUGFiT1ViQ0xHVlBZdE93V2k2aEpyNS1kdHNxWmxQa0tjdFJzdDg0R2ppXzFUM2ZVc1hlZGg5elFINHRpU1o4amZ1aGRocGVtS2FfYTJEM296QWNVMjlvckVZOHdlSQ?oc=5",
+      "pub_date": 1763945760.0,
+      "article_url": "https://finance.yahoo.com/news/polish-crypto-analyst-apologizes-bitcoin-005657122.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/go9zfAymGH6WQYW5W6KF.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/30a62fe9b9759bf3f95d7b7a8ecb2b4b",
+      "description": "Polish crypto analyst Robert \u201cEl Profesor\u201d Rusza\u0142a publicly apologizes after his Bitcoin forecast collapses, detailing what went wrong."
     },
     {
       "headline": "Will Bitcoin Hit $250,000 by 2026? We Asked ChatGPT",
@@ -45,6 +45,16 @@
       "description": null
     },
     {
+      "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
+      "source": "Nasdaq",
+      "source_url": "https://www.nasdaq.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDU2dldydlhRMkQtOW55ZHlRUFZlREVxTEhGRnIwZFoybzRfRUl4czIxLUhIclhxVlhkZUctdWx3dW12U0RyU0VoTlJjWmN2MHFXTG1ZSUhucVlUTXNBY2ZMV0czQzZCUzdMZWxGekgyU2RpTzRiR1U5VEZHSUFaclNpQV9lX2Nwa1NZc0pia2YwREps?oc=5",
+      "pub_date": 1763918100.0,
+      "article_url": "https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-more-likely-be-millionaire-maker",
+      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+      "description": "Key PointsOver the past decade, Bitcoin has been the top-performing asset in the world."
+    },
+    {
       "headline": "Waterboarding, sexual assault, disguises: Details of terrifying $2M B.C. bitcoin hostage-taking revealed",
       "source": "CBC",
       "source_url": "https://www.cbc.ca",
@@ -53,16 +63,6 @@
       "article_url": "https://www.cbc.ca/news/canada/british-columbia/bitcoin-hostage-millions-cryptocurrency-9.6987994",
       "image": "https://i.cbc.ca/ais/1.5986697,1645218129000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C232%2C4500%2C2531%29%3BResize%3D620",
       "description": "The family of a B.C. bitcoin investor known for boasting of his cryptocurrency successes online was robbed of $2 million in a terrifying overnight hostage-taking involving waterboarding, sexual assault and death threats from four intruders they knew only as \"One,\" \"Two,\" \"Three\" and \"Four.\""
-    },
-    {
-      "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUFOeF9aQjMyd0laWXJveWpZQnBPZUFKczNWc0wtYURGdmhzS016R1JOeERQQVVzMWw0Z3lIMUowdllJeFEySVZLVV90ek9ybDNPcEVaUzdObXlpTnF0SEQ0c0p4NFZiZDkwejFfUFBOcEM3WWloOUZSN0lMVzllSFZHVjlxbjVwTjhxdWc0RzdtU3hCLTd4aw?oc=5",
-      "pub_date": 1763918100.0,
-      "article_url": "https://www.fool.com/investing/2025/11/23/bitcoin-vs-ethereum-which-is-more-likely-to-be-a-m/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843381%2Fwealthy-investor-with-private-jet.jpg&w=1200&op=resize",
-      "description": "Bitcoin and Ethereum have impressive track records and sky-high future price targets."
     },
     {
       "headline": "VanEck CEO Concerned About Bitcoin's Encryption and Privacy, Says Firm Could Walk Away",
@@ -75,6 +75,26 @@
       "description": "VanEck CEO questions Bitcoin\u2019s encryption and privacy design as Zcash interest rises."
     },
     {
+      "headline": "Bitcoin Falls To Almost $80,000 As Bloodbath Continues",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUGRFeFg1Zi10bG9zLVFnQmw0UVpkdDRKLUpSWWpVR1VpdF9jMzRtZGc1ZEpZOWpwQlZyazU3QzBDQ3FmTWNESGZjeWthTDM1OE9RUDIxT1docTkzVnQ0Z1p4TU0wcTRWanZmYTkwTGdtbWdmbkN3Rmx3eXk3Q0w5VVh3d3hGc0VwaWZ4SlU2NnNOQTQ0M1lQZ0Y4TG8xOUJkTWlXejk1MzFpa1RN?oc=5",
+      "pub_date": 1763770073.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2025/11/21/bitcoin-falls-to-almost-80000-as-bloodbath-continues/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6920fe710dced6ad5d886df7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "Bitcoin prices dropped to almost $80,000 on November 21 as what one analyst described as a \u201cperfect storm\u201d of macro factors fueled additional bloodletting."
+    },
+    {
+      "headline": "Where Will Bitcoin Be in 1 Year?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2dmRIbnVjNmNCMkJfX3k2MW1EbFc2NTFHWmlwUmxxWFoxR053Z2VMZkhJcHU0cTZ0N3NlSnQxcGlHSUdKazBiaWRlNUFSZE45RWw4UDVsR01wbVI5b0tRWFZfWVF2Qkd2c09yeF9iUFdfeV96d202UUtTYkZXUEE?oc=5",
+      "pub_date": 1763910600.0,
+      "article_url": "https://www.fool.com/investing/2025/11/23/where-will-bitcoin-be-in-1-year/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843554%2Fgettyimages-1318918012-1200x800-5b2df79.jpg&w=1200&op=resize",
+      "description": "Uncertainty in the economy could cause Bitcoin's value to be choppy over the next year."
+    },
+    {
       "headline": "What Is a Layer-1 Blockchain? The Base Layer Powering Bitcoin and Crypto",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
@@ -83,28 +103,8 @@
       "article_url": "https://decrypt.co/resources/what-is-layer-1-blockchain-base-layer-powering-bitcoin-crypto",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/03/BLOCKCHAIN-copy-gID_7-pID_5.png",
       "description": "Layer-1 blockchains are the base networks that secure and record every crypto transaction, powering Bitcoin, Ethereum, and beyond."
-    },
-    {
-      "headline": "What Will Happen To Microstrategy If Bitcoin Falls Under $74,000?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0dvT2MtQTYwdlZxR2FTb21mczBZNVA5U1BiV2VfU19uY2FRcl9TcFZzNkZmS3FIMHd3RzVZT1VlUVdWc3h0WUw2c2hucDFYaHp4SDYtc1RENWhUTTRLTDZQal9pelZTNmxXQkpNS0thY3V2VjZZQWxoQ0JhZ0ozTHU4UFhRVldsLW9kVGRpSQ?oc=5",
-      "pub_date": 1763771400.0,
-      "article_url": "https://finance.yahoo.com/news/happen-microstrategy-bitcoin-falls-under-003044978.html",
-      "image": "https://media.zenfs.com/en/99bitcoins_us_315/d9953751802b03ef9d79099080893135",
-      "description": "MicroStrategy is still the biggest corporate holder of Bitcoin, sitting on roughly 649,870 BTC as of mid-November 2025. They bought all of this for around 48.37 billion dollars total, which puts their average cost at about 74,433 dollars per Bitcoin. With Bitcoin dipping under 80k, things are starting to look ..."
-    },
-    {
-      "headline": "Michael Saylor responds to JPMorgan\u2019s MSCI delisting warning",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTTJJb2ptMm1RZ0Rrdm1fZUJYclJnSkJxalE5d0lMbHg1NlpONkdPd2dySXA4eGJYUXJveTdkZDlXV0tFSXFBbkN1ZFlIcFhSTy1VZUZRalBQSGxmOThCVFBGVi1FbUZ4bGtGaEdvbEljR1p2M0RfYnNrT1M0OGtHWGVLMHU3bmprdm9zX0czamI2NnZHR2VHYWFVYk5WWEgtVlE?oc=5",
-      "pub_date": 1763737549.0,
-      "article_url": "https://www.thestreet.com/crypto/markets/michael-saylor-responds-to-jpmorgans-msci-delisting-warning",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-23T23:55:43.581807+00:00"
+  "fetched_at": "2025-11-24T01:36:01.321683+00:00"
 }

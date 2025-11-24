@@ -8,9 +8,9 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
-      "stars": 79442,
-      "stars_display": "79.4k",
-      "forks": 11802,
+      "stars": 79457,
+      "stars_display": "79.5k",
+      "forks": 11805,
       "forks_display": "11.8k",
       "language": "Jupyter Notebook",
       "topics": [
@@ -30,7 +30,7 @@
       "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
       "url": "https://github.com/ray-project/ray",
       "preview_image": "https://opengraph.githubassets.com/f7ac9ebd1d44a7aeb1d525064757ac8bf697e7fd66b4692c527e371c6f50cf53/ray-project/ray",
-      "stars": 39973,
+      "stars": 39974,
       "stars_display": "40.0k",
       "forks": 6933,
       "forks_display": "6.9k",
@@ -42,7 +42,7 @@
         "distributed",
         "hyperparameter-optimization"
       ],
-      "updated_at": "2025-11-23T02:19:33Z"
+      "updated_at": "2025-11-24T01:21:34Z"
     },
     {
       "full_name": "deepset-ai/haystack",
@@ -52,8 +52,8 @@
       "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
       "url": "https://github.com/deepset-ai/haystack",
       "preview_image": "https://repository-images.githubusercontent.com/221654678/1b75a35c-3d70-4dbe-bd6f-56fcc6c809e6",
-      "stars": 23450,
-      "stars_display": "23.4k",
+      "stars": 23451,
+      "stars_display": "23.5k",
       "forks": 2489,
       "forks_display": "2.5k",
       "language": "MDX",
@@ -65,28 +65,6 @@
         "generative-ai"
       ],
       "updated_at": "2025-11-23T16:34:25Z"
-    },
-    {
-      "full_name": "huggingface/datasets",
-      "name": "datasets",
-      "owner": "huggingface",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/25720743?v=4",
-      "description": "\ud83e\udd17 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
-      "url": "https://github.com/huggingface/datasets",
-      "preview_image": "https://repository-images.githubusercontent.com/250213286/d6f09c00-7066-11eb-88ac-0b319e59658a",
-      "stars": 20894,
-      "stars_display": "20.9k",
-      "forks": 3021,
-      "forks_display": "3.0k",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "artificial-intelligence",
-        "computer-vision",
-        "dataset-hub",
-        "datasets"
-      ],
-      "updated_at": "2025-11-21T12:31:18Z"
     },
     {
       "full_name": "arc53/DocsGPT",
@@ -111,50 +89,6 @@
       "updated_at": "2025-11-23T18:36:01Z"
     },
     {
-      "full_name": "stas00/ml-engineering",
-      "name": "ml-engineering",
-      "owner": "stas00",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/10676103?v=4",
-      "description": "Machine Learning Engineering Open Book",
-      "url": "https://github.com/stas00/ml-engineering",
-      "preview_image": "https://opengraph.githubassets.com/5631700a09e23a0a02aa3994579b54e6616d1b03980fa153167b2ea67b416000/stas00/ml-engineering",
-      "stars": 15823,
-      "stars_display": "15.8k",
-      "forks": 973,
-      "forks_display": "973",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "debugging",
-        "gpus",
-        "inference",
-        "large-language-models"
-      ],
-      "updated_at": "2025-11-21T20:02:49Z"
-    },
-    {
-      "full_name": "neuml/txtai",
-      "name": "txtai",
-      "owner": "neuml",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/59890304?v=4",
-      "description": "\ud83d\udca1 All-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows",
-      "url": "https://github.com/neuml/txtai",
-      "preview_image": "https://repository-images.githubusercontent.com/286301447/6b79e721-de1e-4fd4-b264-0437e1cad8d8",
-      "stars": 11845,
-      "stars_display": "11.8k",
-      "forks": 759,
-      "forks_display": "759",
-      "language": "Python",
-      "topics": [
-        "ai",
-        "artificial-intelligence",
-        "embeddings",
-        "information-retrieval",
-        "language-model"
-      ],
-      "updated_at": "2025-11-21T22:09:01Z"
-    },
-    {
       "full_name": "tensorzero/tensorzero",
       "name": "tensorzero",
       "owner": "tensorzero",
@@ -162,10 +96,10 @@
       "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
       "url": "https://github.com/tensorzero/tensorzero",
       "preview_image": "https://repository-images.githubusercontent.com/829640443/26b7c5c4-c12c-4e89-beaf-a4233f1dac87",
-      "stars": 10588,
+      "stars": 10589,
       "stars_display": "10.6k",
-      "forks": 731,
-      "forks_display": "731",
+      "forks": 732,
+      "forks_display": "732",
       "language": "Rust",
       "topics": [
         "ai",
@@ -174,7 +108,7 @@
         "artificial-intelligence",
         "deep-learning"
       ],
-      "updated_at": "2025-11-23T23:07:45Z"
+      "updated_at": "2025-11-24T01:28:57Z"
     },
     {
       "full_name": "Netflix/metaflow",
@@ -199,32 +133,98 @@
       "updated_at": "2025-11-22T01:44:27Z"
     },
     {
-      "full_name": "activeloopai/deeplake",
-      "name": "deeplake",
-      "owner": "activeloopai",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/34816118?v=4",
-      "description": "Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai",
-      "url": "https://github.com/activeloopai/deeplake",
-      "preview_image": "https://opengraph.githubassets.com/ffcd8fbb5e8bc7c145e754f1185f1fc1362379fc5b4150f3e09cdaf62d55143d/activeloopai/deeplake",
-      "stars": 8906,
-      "stars_display": "8.9k",
-      "forks": 692,
-      "forks_display": "692",
+      "full_name": "zenml-io/zenml",
+      "name": "zenml",
+      "owner": "zenml-io",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/88676955?v=4",
+      "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+      "url": "https://github.com/zenml-io/zenml",
+      "preview_image": "https://repository-images.githubusercontent.com/314197645/b94e1480-3b95-11eb-9e12-c1eec6079bf6",
+      "stars": 5054,
+      "stars_display": "5.1k",
+      "forks": 555,
+      "forks_display": "555",
+      "language": "Python",
+      "topics": [
+        "agentops",
+        "agents",
+        "ai",
+        "automl",
+        "data-science"
+      ],
+      "updated_at": "2025-11-24T00:27:58Z"
+    },
+    {
+      "full_name": "bragai/bRAG-langchain",
+      "name": "bRAG-langchain",
+      "owner": "bragai",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/188657705?v=4",
+      "description": "Everything you need to know to build your own RAG application",
+      "url": "https://github.com/bragai/bRAG-langchain",
+      "preview_image": "https://repository-images.githubusercontent.com/889371307/b8fc22e5-73e9-40bb-bfe6-205402040b3a",
+      "stars": 3761,
+      "stars_display": "3.8k",
+      "forks": 432,
+      "forks_display": "432",
+      "language": "Jupyter Notebook",
+      "topics": [
+        "agentic-rag",
+        "ai",
+        "chatbot",
+        "llm",
+        "machine-learning"
+      ],
+      "updated_at": "2025-11-22T07:26:48Z"
+    },
+    {
+      "full_name": "datachain-ai/datachain",
+      "name": "datachain",
+      "owner": "datachain-ai",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/211070623?v=4",
+      "description": "Analytics, Versioning and ETL for multimodal data: video, audio, PDFs, images",
+      "url": "https://github.com/datachain-ai/datachain",
+      "preview_image": "https://repository-images.githubusercontent.com/820144741/f8188bf4-8d51-4fd6-a981-844b206e1aad",
+      "stars": 2702,
+      "stars_display": "2.7k",
+      "forks": 132,
+      "forks_display": "132",
       "language": "Python",
       "topics": [
         "ai",
-        "computer-vision",
         "cv",
-        "data-science",
-        "datalake"
+        "data-analytics",
+        "data-wrangling",
+        "embeddings"
       ],
-      "updated_at": "2025-11-21T10:52:52Z"
+      "updated_at": "2025-11-24T01:18:51Z"
+    },
+    {
+      "full_name": "spiceai/spiceai",
+      "name": "spiceai",
+      "owner": "spiceai",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/73862742?v=4",
+      "description": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
+      "url": "https://github.com/spiceai/spiceai",
+      "preview_image": "https://opengraph.githubassets.com/1dc2734b3209e7bf289c336ddf6ed5183cc3d3054953ebe7751b940edeb99a79/spiceai/spiceai",
+      "stars": 2635,
+      "stars_display": "2.6k",
+      "forks": 150,
+      "forks_display": "150",
+      "language": "Rust",
+      "topics": [
+        "artificial-intelligence",
+        "data",
+        "data-federation",
+        "developers",
+        "full-text-search"
+      ],
+      "updated_at": "2025-11-24T01:31:24Z"
     }
   ],
   "query": "ai machine-learning llm",
-  "search_query": "ai machine-learning llm pushed:>2025-11-20",
+  "search_query": "ai machine-learning llm pushed:>2025-11-21",
   "days": 3,
   "limit": 10,
-  "total_count": 164,
-  "fetched_at": "2025-11-23T23:32:15.879075+00:00"
+  "total_count": 130,
+  "fetched_at": "2025-11-24T01:35:45.797204+00:00"
 }

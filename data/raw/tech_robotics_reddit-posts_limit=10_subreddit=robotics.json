@@ -112,5 +112,5 @@
       "description": "im trying to power this brushless motor using a STEVAL-STSPIN3201using FOC sensorless control , I can not use Motor Profiler since the ST-link of the board is corrupted (I'm programming the main MCU with an External ST-link dongle). The BLCD motor as shown is only vibrating (seems like it want to rotate but it can't) What can be the problem? am i missing something"
     }
   ],
-  "fetched_at": "2025-11-23T23:55:31.639126+00:00"
+  "fetched_at": "2025-11-24T01:35:43.057956+00:00"
 }
