@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Michael Burry launches newsletter to lay out his AI bubble views after deregistering hedge fund",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSzB0MTItdllfYnd4OFQ1NUtnd3luLXd6WnlfOWg5WldyOG9fWHpqRHNJODRMU0VFMTM5Z1YzU0UwSVNBZFRxbmo0cGd6MHdRQnJWNW5CS3JLOFk5MC1CWWxreDhfRFQ5dE96VEFPMlkwUlpRbl9lTV9kcGtjTDllSEtNbEExV0oydmdlRzNoWDFjQ3FmRHFBel9QRHpWWDBFNDREWUxJTGpuRkpEbksxWl9TTXJ2ZWhKYjFlVDU3X1pJTGpNR1RMczlDVUfSAdIBQVVfeXFMTmpwRzYwaGszdVl3R0ktcmhtdk03RUxUNWpWYXZnam9zaFdXUkxaSy0xUmNvMllraVhObF9ndnJyczlRbzZGNWNYbno0Rkt2ZWhWNUZ5c3AwMjZGcjhUSDFIVVgwTG5KblJ4QnRMc214WTNjamFPSHgwMkh6WS1VR2dwOHoybFZISW1Da0xSbFItOU5EWTRQNUYyRm5IU0trQktJT3Jma1VSMm5keG9jVzNjZERMVUdSbWJpZWRfZkNfMUtFYlZPSFpzdWI5VnVGMkN3?oc=5",
-      "pub_date": 1763996650.0,
-      "article_url": "https://www.cnbc.com/2025/11/24/michael-burry-launches-newsletter-to-lay-out-his-ai-bubble-views-after-deregistering-hedge-fund.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/106091765-1566479308096gettyimages-498562218.jpeg?v=1763992253&w=1920&h=1080",
-      "description": "\"The Big Short\" investor is capitalizing on the massive audience he's built on X, where 1.6 million followers have long parsed his cryptic posts."
-    },
-    {
       "headline": "'Big Short' investor Burry targets AI boom with new blog after hedge fund closure",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -23,6 +13,16 @@
       "article_url": "https://www.reuters.com/business/big-short-investor-burry-launches-newsletter-after-closing-hedge-fund-2025-11-24/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Michael Burry launches newsletter to lay out his AI bubble views after deregistering hedge fund",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSzB0MTItdllfYnd4OFQ1NUtnd3luLXd6WnlfOWg5WldyOG9fWHpqRHNJODRMU0VFMTM5Z1YzU0UwSVNBZFRxbmo0cGd6MHdRQnJWNW5CS3JLOFk5MC1CWWxreDhfRFQ5dE96VEFPMlkwUlpRbl9lTV9kcGtjTDllSEtNbEExV0oydmdlRzNoWDFjQ3FmRHFBel9QRHpWWDBFNDREWUxJTGpuRkpEbksxWl9TTXJ2ZWhKYjFlVDU3X1pJTGpNR1RMczlDVUfSAdIBQVVfeXFMTmpwRzYwaGszdVl3R0ktcmhtdk03RUxUNWpWYXZnam9zaFdXUkxaSy0xUmNvMllraVhObF9ndnJyczlRbzZGNWNYbno0Rkt2ZWhWNUZ5c3AwMjZGcjhUSDFIVVgwTG5KblJ4QnRMc214WTNjamFPSHgwMkh6WS1VR2dwOHoybFZISW1Da0xSbFItOU5EWTRQNUYyRm5IU0trQktJT3Jma1VSMm5keG9jVzNjZERMVUdSbWJpZWRfZkNfMUtFYlZPSFpzdWI5VnVGMkN3?oc=5",
+      "pub_date": 1763996650.0,
+      "article_url": "https://www.cnbc.com/2025/11/24/michael-burry-launches-newsletter-to-lay-out-his-ai-bubble-views-after-deregistering-hedge-fund.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/106091765-1566479308096gettyimages-498562218.jpeg?v=1763992253&w=1920&h=1080",
+      "description": "\"The Big Short\" investor is capitalizing on the massive audience he's built on X, where 1.6 million followers have long parsed his cryptic posts."
     },
     {
       "headline": "\u2018The Big Short\u2019 investor Michael Burry on an AI bubble: \u2018There is a Cisco at the center of it all \u2026 Its name is Nvidia\u2019",
@@ -35,52 +35,62 @@
       "description": "Fresh off a string of bearish stock activity and the deregistration of his hedge fund, Burry has started a Substack for his financial writing."
     },
     {
-      "headline": "Watchdog group warns AI teddy bear discusses sexually explicit content, dangerous activities",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSGNxWm1sVDdRUndnaXZ2b3ZjQmUxMDJIemRKeGk3UERBUUhKZHQ1cnZ0ZTlRXzJXSkVvdmUxMTd0bFFvbHFWd2RlM3UtcU16T0w3S3RBWTRwanlJQllmZkNzV3ZtX3NvSkRKbVhOOS1RS1lDVF9PQjM1Snh1azd2Sjc0ZTVnd0dnMlRwU3hYcS1CSHlyOV9DV3U3UFo5VTAzWEJ0UVVqanRVay04WkpfOWxMdGFpMUpEUGIwZjRtZ21sSXZyZlFpVtIBzgFBVV95cUxNakpLWTUtY0xITUdvMS1GQ21CcWFrVndoQlpoaTE4d2ZCMVp4TDdBT3JjUmlfaDFuQWtCX2xJT1pNTmVSM3JlUFBjYWNra3djd2QxMERPVDV1el93aXVieWxKNWppT3NHTkIxTjBNaTA2NGNuQlRrV3l4MGFtVVZRNHN0SFphcEJ4aU0yampKa2VqYmM2bnJIbUcwVWpHWUlfRmpvR0lJenp1YkkwaTU3M0k3M3JXVVdzX2xWS3BDd1o3WDI4eTR1a2h5Ykd2Zw?oc=5",
-      "pub_date": 1763953140.0,
-      "article_url": "https://www.foxbusiness.com/lifestyle/watchdog-group-warns-ai-teddy-bear-discusses-sexually-explicit-content-dangerous-activities",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/11/0/0/kumma-bear-thumbnail.jpg?ve=1&tl=1",
-      "description": "Sales of an AI-powered teddy bear Kumma, marketed by a Singapore-based toy company, has been suspended after researchers found it discussing inappropriate sexual content."
-    },
-    {
-      "headline": "Expert predicts AI will create \u2018untold jobs\u2019",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUUGRZT3RVbXh6NE1Fbk9JWkJNR1RfT3Rnbm1wUUFBUjVSNTJmT2w0VENJWGxUbDF4QzhEM1o3NW1HSHhETS1LTWdZcm5qMnozZ2R6Y0RB?oc=5",
-      "pub_date": 1764008157.0,
-      "article_url": "https://www.foxnews.com/video/6385530147112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72c69f0a-1cc9-4cfb-be25-6f5c4e180a98/47426b09-a436-4e8d-ba3f-d5053aa5631c/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "NetChoice Director of Policy Patrick Hedger discusses how AI could both eliminate and create jobs, the future of U.S.-China trade relations, and more on \u2018Fox News Live.\u2019"
-    },
-    {
-      "headline": "Mental health AI breaking through to core operations in 2026",
-      "source": "Healthcare IT News",
-      "source_url": "https://www.healthcareitnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0hEbkd4bzVCSTkzR01oN2pPZjh5MnV5YmJpZVNiN0FjRThFWEU1ZU1JdmZmUFRJX2RPbEhBS0M5aEtFajNvdEZOakVUN1JJd3VvM1JvNWxjTGN5ejB0RzhJcDJtV19iLWwtS18tZlJjWDdHdk1SUUwyYmtKeVR3clBnNDlSY2pMc3d5QldLM1dYdlZSdjVz?oc=5",
-      "pub_date": 1764007560.0,
-      "article_url": "https://www.healthcareitnews.com/news/mental-health-ai-breaking-through-core-operations-2026",
-      "image": "https://www.healthcareitnews.com/sites/hitn/files/2025-11/11XX25%20Telemed%20Iris%202026%20Predictions%20Tom%201200.jpeg",
-      "description": "Pilots will grow up, says the CMO of behavioral health telemedicine provider Iris Telehealth. Artificial intelligence will identify which patients need urgent attention and allocate limited clinical resources more effectively, he explains."
-    },
-    {
-      "headline": "AI Has an Antisemitism Problem \u2013 That It\u2019s Learning From Us",
-      "source": "U.S. News & World Report",
-      "source_url": "https://www.usnews.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZGJ1cld1SG1pRkNuZlA1NUFiTEhiVkVUaFAyWHR5YkRtOTF6S05iZ2V3WTdaSUt0ZXIxa2JZak13SEpMdmhmeTRxWU9FR0VydlBnR2Fid3k4WF9YY05pZ08xMV9JVV81YzVIZkVaYUJ5RHVMQllGMW82b1ZhMU5TLVpLcnV3ZzZDNDIwLTQ2X3FNX293UEx2c21qdTk?oc=5",
-      "pub_date": 1764008040.0,
-      "article_url": "https://www.usnews.com/opinion/articles/2025-11-24/ai-online-tech-musk-grok-antisemitism-opinion",
+      "headline": "Opinion | The First Large-Scale Cyberattack by AI",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPUGE1ckFVamtYQXpJaXg1NUIyczRPcW9qbTVfbE1QOEtjNHFFWjNTWnVsTUdFTkdDWVI0VEQyMy1HNnZQNUJsRHBzRVUtNjE1dU1qNks2RHJ0YnozcFpGa3hkQjh5dFBHXzZNYXhsUk51N1JneGszSnZ3OXluVVhBSGM0cUxfSVZHbE9fSXJmQUktRXNRTjZaUlc0TDBJemNJaDVqR2haOWx1SUFMQkhITllkczZneE9rZnNJOGxVZFBOWm9hOVhfSWZBeFdUZ2FRblRld18za1NTNWU2ZmJLWkd5ZFdvenhnX0FtT3hxNm4wcmY0ZjFZRGZLUEs5b3pGSG1XRTJrMEJIWjE0RldKdUlfV2VteENDSXk5Q0VhVUdtdjZ4UG14ajUtNGhrZEppS20zZGZzUEl1NDVGY3p4SDFiQkpPbTBiZEMxTDlrRU5tZlNHVWhEV1lXeGljNXRHTlJEUHc3dmJ6YTdGUEQweWR4anhydnZCTVQwaDVRR3hHNUFUSUZv?oc=5",
+      "pub_date": 1763917380.0,
+      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqe2wuUK0x1rOSRDZBo59CRnyjFDoop5mMn-pGQZSMbGzBTijvWPBEXn&gaa_ts=6924b31d&gaa_sig=9kSY7sA-5ZtJY_ypvQMq-yjCcfvgxbukQy4EMNpyi66HwqwKJgk8DckWVh1es1KUySRkaVEbNbnMAHU8T9ac3Q%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Opinion | The First Large-Scale Cyberattack by AI",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNUWtJaXhaakwwVDRMMlFmb09Cc0RrWllYdVEyNnd2NFNONXZ5VU1WdFRlWnhmV25ReVprcWN4Zk80SElVRTBpTy1aZmpJMDdYM2syM3FIWVFCQ3doT0dXM2RPanBKTGJnTlJKLVRPTmNUeWpFWEwxNkh1VVpkU0dheG1qLVpxazQxdkNob25aRndmZk5GcW4yVkZHU25idXZGX1pldnVqY3lLczZFX3U2ZmI0dW9OTTBwSTdLRUJPdTBNU3BnUkpUTzhYeXNUZ1RDZC1PR1NKMGZCT1dXWDd0Y1UzQVZEcGlYMzBCY3hHRzRZd2JkUFEyXzVoYmhuWTFVWXZvUGVrd1Q5SF9VTGk0NHdyOEJOVG9RZVRjcUVTVFdkRnZTaF9OcDN4bFU0WlZGMGVsbC1kajZWOEg2NlJ3dEpFaGM3QkVZOUVfZXVrWXNkNTdJRVZLeGZidFpZZ2JvODFPVmZVbFQ4TnpCYS1UMkZfb2dnb2lyekhYQjRtWHBYQXpRb3lJ?oc=5",
-      "pub_date": 1763917380.0,
-      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqebgowPWAT0dEk9_6lYw1w2wxtC-ySrbAf3IMt_kKKPl8TM1yLCWVff&gaa_ts=6924a9cb&gaa_sig=eBNiOD6fVAJ9afK8XHQEqUbseY8kfYuLx1UndcnlPtuyDXea_adTBqrH_In3-sOxFp8olna4DO4j87HfUMsVBg%3D%3D",
+      "headline": "Introducing Claude Opus 4.5",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84OWN3YndfcE4tUnBWQ01XX0RYWWIzVTJienN4Q2NTY0xOMF9Ra1BEOWR4WW8xdGRfck5KdHVjZXZObDVObTd6RE4xMklVMTlJZGJ6ZndTT3JnUQ?oc=5",
+      "pub_date": 1764010495.0,
+      "article_url": "https://www.anthropic.com/news/claude-opus-4-5",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadOrbit&backgroundColor=clay",
+      "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "headline": "Anthropic bolsters AI model Claude's coding, agentic abilities with Opus 4.5",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObW9PUnFMb3RIakNiOUpjbm9wUnl2T25LUWp0b3ZCS3d1RDllenhoMi1XenJiV3dsSEhSUFJ0cFhLYllKdG9tR3VLelk2SGRuRDNfb2hqTElUSnhiQy13SlMzcktMQzhlMzRZbTA4WnBZN29WV1ZfMnpCRlZpZmNvX2RNMUY5SnhaYkpJUmVzTlJ3anVKeFB5cm1EV3BDWkVGaHNTQkxFNElkdUlFLVBFdGFpU1hmWHBEdG9KX29pVUxWR0Vfc1EtTDNfN2RqUWs?oc=5",
+      "pub_date": 1764011039.0,
+      "article_url": "https://www.reuters.com/business/retail-consumer/anthropic-bolsters-ai-model-claudes-coding-agentic-abilities-with-opus-45-2025-11-24/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic Says Its New AI Model Is Better at Coding and Office Work",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcFRQbmYzSTNHSE1RQU9jQXFVcnlaVG9ZU2lYSWJTaDFTZzQzc0xtUUJuQU81UW9jcHRxSzhDQ0tJNjVxX2lPSnd6aDNNdUExMlFsVEJ3S2RfRXpxajY3NmY1XzQ1b0tlby05MXl5U0gwRm5fRFNtQjNHSEF2UndHckFlcVYycU14R25temZxaWwtYUxDc2c5Z1JVbGJQLXJpYjNXTVg4YTdQSVhyandyckR0SVc4UGRvMWc?oc=5",
+      "pub_date": 1764010833.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-24/anthropic-says-its-new-ai-model-is-better-at-coding-and-office-work",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI teddy bear told children where to find knives, exposed them to sexual content, report says",
+      "source": "MLive.com",
+      "source_url": "https://www.mlive.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT2tPeXdpTmtSY3prZ0FsdE5mZHpSXy1nNER0LTNOdWxzcFJoZnNRTjRuTXJfSDJLXzRGUE01UUczY2RFRXdiS2ZRU3loZDd2YURzNmswRHhKeUNOcU8wNmtGVm9mVnB3YXlya3E5a2xIMkhWdWMtQVFRTWN1WlBFQnJ1T1NMNjVMaWVZenNpNDhHb25XRmNqeUF0bGluRl91VW5sS2p4NFFrRXlfZ3laQzU4ckN0MmhLSVJIV2VVOFJCVGtMT1hmM0l3ZHBWdncyTnMzdlJQZ9IB6wFBVV95cUxQNFB0UERJRnhsVnpQZ19CVnN2RlRpZFBkUTlLcHA5dkM1VDZTdl9fQ0lJTkM5Y0l2Ymd3QUpxakZldmllQlBSQlE4M3JiX0F3SE1vZGFSMjA2aUZLVlJvNVp2REZFSGZXMVhOeTVwR0ZfRnNBVXV3VnJGWGpzWThTVkpfYU1zRklMT2RQNXhpbzc1VHFYeTRfb3RfekNzRG1tY2NhMEV6LTQ0RWg3SEdRVWp1WTBLb1FWVkRJLWpWeUczYklMMGFtY2JaVjZEMU1vRG92ZUZsb2ltVE1Sdmk5Q0d2dmNNcXhmUFNr?oc=5",
+      "pub_date": 1764011100.0,
+      "article_url": "https://www.mlive.com/news/us-world/2025/11/ai-teddy-bear-told-children-where-to-find-knives-exposed-them-to-sexual-content-report-says.html",
+      "image": "https://www.mlive.com/resizer/v2/7SX37VECJZCFJGH7XADBCHLTAE.jpg?auth=f2e7868c8eeede5386400b30718d4cb5f5610ed22d54b748bbd117f2eecfc131&width=1280&smart=true&quality=90",
+      "description": "An AI-powered toy might seem like a trendy thing to give your kids this holiday season, but major advocacy groups are begging parents to reconsider."
+    },
+    {
+      "headline": "Lawmakers get a new tool: An AI inventory",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORnF6bkE2M2VEWXR1RG9CWGltLURSdjBEMnVHemN4UlMxcThxR1JjLWtiUDZYNVp0eFZ2bnJfSGdkSjVfR1VYOU85azlCUjNqeV9feW1zalBxbjFienBTam1EaFZOVWFoRFRXM3Nldk0xdlBHdlNGa1c0ZVJwRDlmQ3NDVUkzdlFDTHVPVTFyQmJRV3BZUFZPR0pxMTZjcFYxX2lxblNzRGYxQzN4eGZR?oc=5",
+      "pub_date": 1764010800.0,
+      "article_url": "https://www.politico.com/newsletters/future-pulse/2025/11/24/lawmakers-get-a-new-tool-an-ai-inventory-00666698",
       "image": null,
       "description": null
     },
@@ -93,18 +103,8 @@
       "article_url": "https://www.washingtonpost.com/technology/2025/11/23/trump-maga-division-tech-ai/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Here's what's in the RAISE Act, a state-level AI bill opposed by Trump and industry leaders",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORG9YSE91T05teW5ud2dJQldheV95ZFkzcl9ibzJ2a2ozZ2xKakV2bHpDbUlyaVR0ckREMk5aZEpPckdkcUt5aW5kZWpnYXdpNXQ0QVlqMUpKNzF5RmsxREJ2ZEoyc2hNT0l0TUZ5cWJBM3VVOE84SjBidDBHYnd0QU90QkliY3ZkOWZlYWFwajRxTXgwcEtmV01iekpMcHg3Z05BZ3ptYXPSAa4BQVVfeXFMTjB1Z3B5NEx2cUlOei1VWG5vRzJ2aGJWUk9DeUx1ZVRYMW0xNG9SbnRNLTNtSFM1X3hYZ25TTXNFNnFydmtCa1N4bHZkRklCS1lKNXphd09CSTJ3YlZ2TkpjbmgxWUVfWHNfaWtRV2pxMDdydjlqS3RpQ1dfd3pvM1gwdFVWakFDVjlOUGJmdEZfV0c0dEN3dGhtSUQ1Q1hFVnloUVNuUkNGelhOZVVn?oc=5",
-      "pub_date": 1764002775.0,
-      "article_url": "https://www.cnbc.com/2025/11/24/raise-act-new-york-faces-opposition-from-trump-ai-industry-super-pac.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108231093-1764006053293-108231093-1764005988567-gettyimages-2235635791-McGregor250918AbolishICE09.jpg?v=1764006067&w=1920&h=1080",
-      "description": "The RAISE Act would require large AI companies to publish safety and risk protocols and disclose serious safety incidents."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T18:40:15.842674+00:00"
+  "fetched_at": "2025-11-24T19:19:28.174632+00:00"
 }

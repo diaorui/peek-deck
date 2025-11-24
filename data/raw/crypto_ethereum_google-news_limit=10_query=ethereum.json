@@ -25,14 +25,14 @@
       "description": null
     },
     {
-      "headline": "Tom Lee Says Bitcoin, Ethereum Crash Wasn't Macro But A 'Software Bug'",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVVYbHV6ZFZ3Z0pJYWgwYlhLNmNFaklON0otbl9CWUlpVXhfVU5HeHV2TnZ3UFd6MGUyU0VETzAzdDhxVVE2bktzSFBxaGpoamhVZ2VNRC1meDdyRlpxdnVxQmZlR3JyUUQ0NkpjZmdEajFwV2FMM3BkOUFlakpOMw?oc=5",
-      "pub_date": 1763811985.0,
-      "article_url": "https://finance.yahoo.com/news/tom-lee-says-bitcoin-ethereum-114625645.html",
-      "image": "https://media.zenfs.com/en/benzinga_79/55dc40160a5a2d9761aae05dabcccc49",
-      "description": "Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) breaking below key support levels has sparked debate over whether fundamentals are to blame \u2014 but Fundstrat's Tom Lee argues the real culprit is far more mechanical. What Happened: In an interview with ..."
+      "headline": "'Privacy Is Hygiene,\u2019 Says Ethereum Creator Vitalik Buterin After Bank Data Leak",
+      "source": "Currently.com",
+      "source_url": "https://currently.att.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZnA1WnB3b3QwRjNxZGlxamp5WXJWMHpZV3ZZTElRTnRJUFlNcWE5UUVEU2FGTkk3XzRVYzhCR0J3R0lLUW5jNHZROGMwcDJGSlVkanl4YnNVejlmS2pycXc2Zjg5dVJvaU1pNUR0bl9DTUNacFJkM04zdEdONUt1c1lGOGZnM2MzS2JEWWd2NGswUQ?oc=5",
+      "pub_date": 1764007525.0,
+      "article_url": "https://currently.att.yahoo.com/att/privacy-hygiene-says-ethereum-creator-180525571.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/tCvt1zpWf_JPPu8CYhaaIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/decrypt_157/f7c86fd716fab3ba96ec97da8ea1499f",
+      "description": "A major security breach impacting U.S. banks has renewed debate on privacy as interest in crypto privacy tools and protocols grows."
     },
     {
       "headline": "\ud83d\udea8 BREAKING: SWIFT Chooses Ethereum Layer-2 #Linea Over XRP for 2025 Cross-Border Payment Pilot In",
@@ -85,16 +85,6 @@
       "description": "Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week with a modest recovery on Monday after last week\u2019s massive correction. These top three cryptocurrencies are holding above their key support levels, suggesting recovery continuation."
     },
     {
-      "headline": "Whale Buys and Fusaka Upgrade Send Ethereum Surging Into Focus",
-      "source": "Coinpaper",
-      "source_url": "https://coinpaper.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObktZX3kzbXR5cVdqN3VNa0x3SXVQU2xESlJFcHYzSU8tSWVQcWY3ak1HWlNNanVsU1FLQzE3Nk1GazVUVldqWjJCaGo3c1JyZmFvWVVhaHdCNi1yYzVNWmF2YjFsWFF5REtVQU51am9rVlFJc1NaUTVzeHhZcFN2cFNrR1RQUzI3OVpvNThPVVZKaU52?oc=5",
-      "pub_date": 1763896853.0,
-      "article_url": "https://coinpaper.com/12560/whale-buys-and-fusaka-upgrade-send-ethereum-surging-into-focus",
-      "image": "https://res.coinpaper.com/coinpaper/image/upload/v1763896583/cp6225_Ethereum_coin_overlaid_with_a_holographic_inverse_head_a_1003f009_c900_426f_987b_5669dfc9afd1_7eaeb7ff2a.png",
-      "description": "Ethereum sees BitMine whale buy, Fusaka upgrade schedule and key support bounce as charts outline possible post-upgrade upside."
-    },
-    {
       "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
       "source": "Nasdaq",
       "source_url": "https://www.nasdaq.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-more-likely-be-millionaire-maker",
       "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
       "description": "Key PointsOver the past decade, Bitcoin has been the top-performing asset in the world."
+    },
+    {
+      "headline": "Tom Lee Says Bitcoin, Ethereum Crash Wasn't Macro But A 'Software Bug'",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVVYbHV6ZFZ3Z0pJYWgwYlhLNmNFaklON0otbl9CWUlpVXhfVU5HeHV2TnZ3UFd6MGUyU0VETzAzdDhxVVE2bktzSFBxaGpoamhVZ2VNRC1meDdyRlpxdnVxQmZlR3JyUUQ0NkpjZmdEajFwV2FMM3BkOUFlakpOMw?oc=5",
+      "pub_date": 1763811985.0,
+      "article_url": "https://finance.yahoo.com/news/tom-lee-says-bitcoin-ethereum-114625645.html",
+      "image": "https://media.zenfs.com/en/benzinga_79/55dc40160a5a2d9761aae05dabcccc49",
+      "description": "Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) breaking below key support levels has sparked debate over whether fundamentals are to blame \u2014 but Fundstrat's Tom Lee argues the real culprit is far more mechanical. What Happened: In an interview with ..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T18:39:52.792876+00:00"
+  "fetched_at": "2025-11-24T19:19:09.598952+00:00"
 }

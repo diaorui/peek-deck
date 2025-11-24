@@ -5,36 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin mining in China rebounds, defying 2021 ban",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjY4QU9vbS1nM3VydFpkb2U4d0dKYXZjLXFqUzhSQUljbDRrejJfeDhINmQtckZlaTVKTWtsMFpWeG9sczBab1N2bFFWQUhFc0FjdlVhUDIzekl4bDZsZzdFSWdCSW9MOE5jeXBTUGtrRTBRTHRidjVsLWlkLXA3VEZLbXl6RERXaUVUcU1IbVlCdVBHTzJrQ3BNdFBZZ3N4cnhv?oc=5",
-      "pub_date": 1763975155.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/bitcoin-mining-china-rebounds-defying-2021-ban-2025-11-24/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "China Returns as Third Largest Bitcoin Mining Hub With a 14% Share: Reuters",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGlhZk9YUGhmZVJDVEIyVFpZY1V2N1hSUjdPRXdJNm5sV3RoOS1RcnpleE1fUk1PZDdaczA0RWpzQXh1SHNWYl9nbHkwNk9KQVd0aE0tU2hvNHBmLWRfVlFNOWVvdWpsVjROQkQwZGlQcXh3Y3pBWjl6MUtXeEpjQkhicEhrUTFrX3VhX1htd3psTjZ0dmNLZmlWWUptY0RFZGJCb1laQTU5YXFxSkJROHJ2U3lLY2V3?oc=5",
-      "pub_date": 1763980960.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/24/china-returns-as-third-largest-bitcoin-mining-hub-with-a-14-share-reuters",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/604b0fc743ca409ef9b9240c3f4446fe92e312c3-1000x667.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "Underground activity expands as cheap power, miner demand and softer policy signals support a renewed mining push in key provinces in China."
-    },
-    {
-      "headline": "Hobbyist solo miner scores a full Bitcoin block worth $270,000 despite 1 in 180 million odds \u2014 3.146 Bitcoins mined by a single low-powered 6 TH/s ASIC with about 0.0000007% of the network\u2019s hashrate",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGFQbkJtVlo5VXI1RTJyLWhTTmlHcENnLWZYdTdUNHBrSEhOZ01Da1VjWmhPX3hmdk9QbTY4eXdrQTJyOUtkN1NaMW0xRURvU0dNb0V1TUNDZnUyYnhsZ2xPYXkzQzlEOE1NTUhTU2NFWXJKVHVJNFh6eDhkZldQTXJlb1lwLVdiRkwwZGlmbmtNV1ZCMGd3T1ZBa2ptUGxjRzZVU2tZb09zR1BFWVIyelhXTnJ4V0tVNmVxZWRB?oc=5",
-      "pub_date": 1763922426.0,
-      "article_url": "https://www.tomshardware.com/tech-industry/cryptomining/hobbyist-miner-using-a-single-6-ths-asic-mines-full-bitcoin-block",
-      "image": "https://cdn.mos.cms.futurecdn.net/xNgBpUETd9FRLejaNQYZe7-1000-80.jpg",
-      "description": "Solo miner controls roughly 0.0000007\u202f% of the Bitcoin network\u2019s hash\u2011power yet captures full block reward."
-    },
-    {
       "headline": "Crypto Crash Is Eroding Wealth for Trump\u2019s Family and Followers",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -49,30 +19,20 @@
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYlBWNUZPWk9jb3NBWk9GQjAwVFhiemVSdkRZSEU4ZS1COGw2bHBqLTdjeTVjeGxLWHNPeVE3VFpnWi0zbExkdjNkNjdKd2hOdXZPbFBvNEFaTk10aEVvYUcyN0NQcm9fVThEbl9Wb1N0X25wSWtudkQ2QjlXN1JyNmY4Q0VNNG5RVkNmR0lQX3NZUURRSHdDbEcwX0dULWhWMjQ2QmVrX2U3cWN2ZmRjU3ViMjVMbkNlZ29n?oc=5",
-      "pub_date": 1764006260.0,
+      "pub_date": 1764009911.0,
       "article_url": "https://www.bloomberg.com/news/articles/2025-11-24/bitcoin-btc-weakness-persists-as-crypto-steadies-after-bruising-week",
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibAqfa3z7b18/v0/1200x800.jpg",
       "description": "Bitcoin failed to match the strength of Monday\u2019s stock market rebound, extending a stretch of weak trading that\u2019s left bullish sentiment in short supply. While equities pushed higher to start the week, the cryptocurrency stayed range-bound, struggling to shake off last week\u2019s losses."
     },
     {
-      "headline": "Bitcoin Price (BTC) News: $40B in ETF Volume Signals Institutional Capitulation",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZjl4R3p6YjlOYlhRUjBqM2JkcmRVNV80U0J4dG5ucVNQX05JRjFGbEV6UWdKSlVrclpHbXltRXoweWJMWWt3Q3Q4R2tsUHcxZVZIZExrUnVhVlR2UXg4TVpGWDR5TDBpeHhTdTV1MkJsRmNJb0NWZmc2UXdWWXF6WEQ1Y2twalZEampmZ09NMmlMSDFqTThmTDh1bGtwZXFNTEVEck1sUHpUbkQzSXB3T0o5SWZPVGRUb3lHUFljYk81MzM0LWJDSmRJdG12dG1RSlVhZE5ESQ?oc=5",
-      "pub_date": 1763962357.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/24/bitcoin-etfs-led-by-blackrock-s-ibit-see-record-usd40b-trading-volume-as-institutions-capitulate",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3417765811c38a57181abae66a079871b878e500-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The U.S.-listed spot bitcoin ETFs saw a record $40 billion in trading volume last week, with IBIT leading the way."
-    },
-    {
-      "headline": "Spot bitcoin ETFs shed $1.2 billion in 4th consecutive outflow week",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkMWl4eEZNMVp1LXVuLVJQOWRaVml1akNNX2NueU9maDM2OEMxRDV2NTVqTWJIakVEcThyalh0X3NIdzZLOTFkNDhpNVdGSFJKSVNINDhEdm1TX0Z5WHNXNEJvekI5Q3ZjZmx3RUdhZ0NwWk0xUHBZbTZn0gF_QVVfeXFMUGV6aUxpU2lPYkp0OC03dHpjck1QMHpFQWg4dFNrVFhydWJZaEVuaE5TTUFTY0tGeFE4Mnh5VEc0OGZiNS1fYWlVdUp6cVJTbnUtZWtRSkVmaENJbHZCZDY2ZEVfOEJ2YVFheHQwTGhZY09vYS1Nd05PUUJoaUhUNA?oc=5",
-      "pub_date": 1763960006.0,
-      "article_url": "https://www.theblock.co/post/380081/spot-bitcoin-etfs-outflows-4-weeks",
-      "image": null,
-      "description": null
+      "headline": "Crypto attack saw victims endure waterboarding, sexual assault in $1.6 million Bitcoin robbery",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLXRZNy15NFprRFhUeGNnODFVZnhDcnFqQ0NEenNiVXNJVmxvY0VvY1EzanpINHk4YzhaSFZiOFhDc19CRXNlMWlndmhjS2hyczBJaERMTHo5Uy03TWt4Mzh0OE5XUUh3V3hoQ19PYUw4cjhZQmhIUlhiMjd6b25jVnJBMUU?oc=5",
+      "pub_date": 1764010620.0,
+      "article_url": "https://fortune.com/2025/11/24/crypto-attack-saw-victims-endure-waterboarding/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2237173126-e1764010127928.jpg?resize=1200,600",
+      "description": "One of the victims boasted about his crypto earnings online, according to a court filing."
     },
     {
       "headline": "Why Bitcoin Lost $900M in ETF Outflows While Solana Gained $531M",
@@ -85,6 +45,46 @@
       "description": "In mid-November 2025, investors pulled nearly $900 million from spot Bitcoin ETFs in a single day, marking the second-largest withdrawal since the funds launched in January 2024. The outflows came as Bitcoin (CRYPTO: BTC) fell below $95,000 for the first time in six months. Solana (CRYPTO: SOL) ETFs attracted capital instead. The funds attracted $531 ... Why Bitcoin Lost $900M in ETF Outflows While Solana Gained $531M"
     },
     {
+      "headline": "Bitcoin Price (BTC) News: $40B in ETF Volume Signals Institutional Capitulation",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZjl4R3p6YjlOYlhRUjBqM2JkcmRVNV80U0J4dG5ucVNQX05JRjFGbEV6UWdKSlVrclpHbXltRXoweWJMWWt3Q3Q4R2tsUHcxZVZIZExrUnVhVlR2UXg4TVpGWDR5TDBpeHhTdTV1MkJsRmNJb0NWZmc2UXdWWXF6WEQ1Y2twalZEampmZ09NMmlMSDFqTThmTDh1bGtwZXFNTEVEck1sUHpUbkQzSXB3T0o5SWZPVGRUb3lHUFljYk81MzM0LWJDSmRJdG12dG1RSlVhZE5ESQ?oc=5",
+      "pub_date": 1763962357.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/24/bitcoin-etfs-led-by-blackrock-s-ibit-see-record-usd40b-trading-volume-as-institutions-capitulate",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3417765811c38a57181abae66a079871b878e500-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The U.S.-listed spot bitcoin ETFs saw a record $40 billion in trading volume last week, with IBIT leading the way."
+    },
+    {
+      "headline": "Options Trading: A Put Ratio Spread Offers An Attractive Payoff If This Bitcoin ETF Trends Lower",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZVNRa0hDTHJUdWhvS3F4TTNVM01qTTExd0JhazJHWVYtbWh1VHpVN3dDTUQyalVBRVlzZlpqZ2pDc2JrUkdNNk9qYkJVdTEtV3BFam5nZGtjM2tBWHgwN3QzY095VWhraFRIUk5oLWNRQURXa0U3UlpRZmxucUVYVjFGaHRCRDVtNml1TzFsNm1kZ0drQWlBMw?oc=5",
+      "pub_date": 1764009660.0,
+      "article_url": "https://www.investors.com/research/options/options-trading-ibit-bitcoin-etf-put-ratio-spread/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Strategy Silent on Bitcoin Holdings. Why It\u2019s a Big Deal for the Stock and Cryptos.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQVkdsdW9SZklHSGVDQlFpY3hpUFp0cjVLV0ZtWjZtQUEtaG9fbzRIdlc0WDlaaHgtM3MyYnB6WGh4dnF6b1lvQmRqcHpuMXZwVGxLZEVpZlVMVlJha3B2V1FGaEFfLTQyYTB6SUFUVm9nVXZELVdHSDFzSjdrcGM1YkdkSG9Dci1GSVFFSW5qdFBXVFBTeTFVaVRnb0JVUmJ5dU5GZkc5RHItRXQ0WHNRZEJRV2tLM0E0WDR6R055WEhDdnZsU21KN2hKTzBQOFBkWjNwNTBvUi1mNUlGUXlRQ2k4a2kxclVGb2d0ay12V2RWaU1YblYzN1dOUnZvRUxLWXljUlhEcTRUSVppUkFsZV9lWm12WWZGWHRMMWxfN0hoaGliNllYTmxyVTE4bXBsTlpLN1FlRFEwZ0MyT2ExN1FUYkFZbzl0eWFvRmh6aTdtZnlBVWVUSndiQUlIT2p0czZEc0NTc3I0R3JvYmxENFJaOXVRM0laNUt1Y2JuY2c0aWxyUGFPTkxodWFsczNvUWRYbw?oc=5",
+      "pub_date": 1764003120.0,
+      "article_url": "https://www.barrons.com/articles/strategy-stock-bitcoin-cryptos-microstrategy-176e8def?gaa_at=eafs&gaa_n=AWEtsqcmIKFIY25TdOeG8kTovHUXDfiXlvUtfgttUQsT3SSndcEHCL6yiyt7&gaa_ts=6924b31f&gaa_sig=ni0D_16wx-YEXFy8cCfjOxLu7dcuX5ii_-WmzjSeCi_VIx17fEfLCJorhOSmgdoMQPaXR7MCWnxUf6BZxUVBxw%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Michael Saylor's MSTR Is Barely Ahead on BTC Bet, but Threat of Imminent Danger Overblown",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNmlDZktfREVBbngzMnZxZ2lFbXZMa09MTjhpcUdKQy1pQkdLZ19mTjhaLUo4QjhCZC12Z1Y0WmlxZU0xMHkxWHlDT2hrN1NNSEgxY2owMlc5clUxeEsyaDFZMzRQQnRmNV9NMHg1NWVnSlpZV01uRzVaRk9YUTFia0tWbmYzQURha05GTzhZMkoyM0lpZGpRWDAwQ2lnYzhOZHBjZ1FVOE96RmU2WXRHQm4yOVVBel9IcThXV3ZuV0pLNFRRU0cyNVFWUjRVV3dWZUtaRnhB?oc=5",
+      "pub_date": 1763845311.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/21/bitcoin-s-plunge-brings-strategy-s-holdings-to-near-breakeven-but-key-test-lies-18-months-ahead",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c880d91609e495c17f244eb3774e6f7e006ea2c-1920x1079.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "Michael Saylor's company's balance sheet isn't at imminent risk of collapse, but further capital-raising efforts could surely be hindered unless conditions improve."
+    },
+    {
       "headline": "Is Wall Street\u2019s $5.4B MSTR Dump Behind Bitcoin\u2019s Price Plunge?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -95,16 +95,16 @@
       "description": "Institutional investors slashed their Strategy exposure by $5.38 billion in Q3 2025. MSTR is increasingly being used as a proxy hedge for Bitcoin, according to ..."
     },
     {
-      "headline": "Wall Street giants including BlackRock dump MicroStrategy shares",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWFQTXBSTnVoYWJnYlRmZUFDYmNjbDRKbmtjM2Y3aWZuTzBRV0hpaVFmZTBwbHRfYmtsdUM0dEZlSDZOdVJLU0RYYnBYV2ZULWN5SGxCNlFUSVc3c1lGbEVjNG5UdHRnMFNrMXA4eTRvN0FQLWpVWFF6WFRrSmw1SlhNSVNNeGFSNGJYbmZDbnlDUQ?oc=5",
-      "pub_date": 1763995588.0,
-      "article_url": "https://www.thestreet.com/crypto/markets/wall-street-blackrock-dump-microstrategy-shares",
+      "headline": "Bitcoin mining in China rebounds, defying 2021 ban",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjY4QU9vbS1nM3VydFpkb2U4d0dKYXZjLXFqUzhSQUljbDRrejJfeDhINmQtckZlaTVKTWtsMFpWeG9sczBab1N2bFFWQUhFc0FjdlVhUDIzekl4bDZsZzdFSWdCSW9MOE5jeXBTUGtrRTBRTHRidjVsLWlkLXA3VEZLbXl6RERXaUVUcU1IbVlCdVBHTzJrQ3BNdFBZZ3N4cnhv?oc=5",
+      "pub_date": 1763975155.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/bitcoin-mining-china-rebounds-defying-2021-ban-2025-11-24/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T18:39:48.714573+00:00"
+  "fetched_at": "2025-11-24T19:19:18.409905+00:00"
 }
