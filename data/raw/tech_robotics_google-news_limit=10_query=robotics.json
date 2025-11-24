@@ -35,16 +35,6 @@
       "description": "A former engineer for Figure AI filed a lawsuit against the company, claiming he was unlawfully terminated after warning executives about product safety."
     },
     {
-      "headline": "Robotics, AI, drones, and data analytics are shaping the future of the construction industry",
-      "source": "Tech Xplore",
-      "source_url": "https://techxplore.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY3pic0dhWERYcm02cTRwbGdldXdwUF9sbHR6SVo3YWlFVkRtMXNpZV9TT0xzekZ0M3NfaGtqSmlGRkk1eklPRVVSZlIyaHpHSEgySnZkWkxsTlVkTFpvbERhaFhrUjFrbW9Yam1TSWhNemtGakpVQUtzSjJVVHRvN0FB?oc=5",
-      "pub_date": 1764000913.0,
-      "article_url": "https://techxplore.com/news/2025-11-robotics-ai-drones-analytics-future.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Kraken Robotics Reports Record Q3 2025 Financial Results",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -53,6 +43,16 @@
       "article_url": "https://finance.yahoo.com/news/kraken-robotics-reports-record-q3-113000342.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/R_knGmGESAmP1pmsRJFw4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTY-/https://media.zenfs.com/en/globenewswire.com/46ff7e3abc10df99a2282857f788f75c",
       "description": "60% Revenue Growth, 59% Gross Margin, and 25% EBITDA MarginST. JOHN'S, Newfoundland and Labrador, Nov. 24, 2025 (GLOBE NEWSWIRE) -- Kraken Robotics Inc. (TSX-V: PNG, OTCQB: KRKNF) (\"Kraken\" or the \"Company\"), announced it has filed its financial results for the quarter ended September 30, 2025 (\u201cQ3 2025\u201d). Please refer to the unaudited Condensed Consolidated Interim Financial Statements and Management\u2019s Discussion and Analysis (\u201cMD&A\u201d) for quarter ended September 30, 2025, filed on www.sedarplus"
+    },
+    {
+      "headline": "Robotics, AI, drones, and data analytics are shaping the future of the construction industry",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY3pic0dhWERYcm02cTRwbGdldXdwUF9sbHR6SVo3YWlFVkRtMXNpZV9TT0xzekZ0M3NfaGtqSmlGRkk1eklPRVVSZlIyaHpHSEgySnZkWkxsTlVkTFpvbERhaFhrUjFrbW9Yam1TSWhNemtGakpVQUtzSjJVVHRvN0FB?oc=5",
+      "pub_date": 1764000913.0,
+      "article_url": "https://techxplore.com/news/2025-11-robotics-ai-drones-analytics-future.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "The Droids Taking Over One of England\u2019s Strangest Towns",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T19:54:02.497456+00:00"
+  "fetched_at": "2025-11-24T20:39:08.463046+00:00"
 }

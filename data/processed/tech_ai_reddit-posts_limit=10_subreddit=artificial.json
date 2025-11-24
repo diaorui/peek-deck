@@ -24,6 +24,28 @@
       "description": "The chipmaker\u2019s website touts its work with companies like ZTE, which has been effectively banned from selling its products in the U.S. over national security concerns."
     },
     {
+      "title": "Amazon to spend up to $50 billion on AI infrastructure for U.S. government",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1p5r8w4/amazon_to_spend_up_to_50_billion_on_ai/",
+      "published": 1764014038.0,
+      "thumbnail": "https://external-preview.redd.it/if9k6bvAIV-nrdgivi7-t1wD5nW7DKebS1uehIm1aWs.jpeg?width=640&crop=smart&auto=webp&s=1172336be558086c3ed96542be3ccaa219d80ab9",
+      "external_url": "https://www.cnbc.com/2025/11/24/amazon-to-spend-up-to-50-billion-on-ai-services-for-us-government.html",
+      "site_name": "CNBC",
+      "favicon": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
+      "description": "The project will add 1.3 gigawatts of capacity across new data centers, with Amazon expected to break ground in 2026."
+    },
+    {
+      "title": "Introducing Claude Opus 4.5",
+      "author": "Frequent-Football984",
+      "url": "https://www.reddit.com/r/artificial/comments/1p5r48y/introducing_claude_opus_45/",
+      "published": 1764013748.0,
+      "thumbnail": "https://external-preview.redd.it/Q03cq5_pcnDRO5KFs7hq6MbbfplO_rWZxiECHCty4UM.png?width=640&crop=smart&auto=webp&s=509938643d9a416961826caf36f9d317a94a294e",
+      "external_url": "https://www.anthropic.com/news/claude-opus-4-5",
+      "site_name": "anthropic.com",
+      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
+      "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
       "title": "A Research Leader Behind ChatGPT\u2019s Mental Health Work Is Leaving OpenAI",
       "author": "wiredmagazine",
       "url": "https://www.reddit.com/r/artificial/comments/1p5e55i/a_research_leader_behind_chatgpts_mental_health/",
@@ -33,6 +55,17 @@
       "site_name": "WIRED",
       "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
       "description": "The model policy team leads core parts of AI safety research, including how ChatGPT responds to users in crisis."
+    },
+    {
+      "title": "Recommend me a new \"AI\" platform to replace Perplexity",
+      "author": "raitchison",
+      "url": "https://www.reddit.com/r/artificial/comments/1p5pevg/recommend_me_a_new_ai_platform_to_replace/",
+      "published": 1764009967.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I've been a Perplexity Pro user since May. I've been reasonably happy with it overall but I find some behavior annoying (in particular it's refusal remember my search preferences, or much of anything, across multiple conversations). I also am not OK with their partnership with \"Truth\" Social. I actually cancelled my auto-renewal earlier this month after it abruptly became terrible (started giving useless answers and stopped providing sources in-line with the answers). I opened a support ticket for this issue and never heard back but it seems to have resolved itself, but I'm still thinking about changing to a different platform. I'd prefer to avoid any of the traditional \"big tech\" providers such as CoPilot or Gemini and would prefer something that's not ChatGPT (strictly because of it's popularity and market dominance) but the only platforms I refuse to consider using are Grok and anything from Facebook. I feel like I would be happiest with an orchestrator with access to multiple models from different companies, that will (attempt to) choose the best model based on the query but lets me override it. I mostly use Perplexity for searching as a replacement for Google (which has become all but useless) and rarely for things like writing (code or correspondence) or personal advice. Something that learns about me, my preferences and tastes across multiple conversations is a plus. For example I have told Perplexity numerous times I never want to see product suggestions from Amazon, Wal-Mart or any other MAGA affiliated businesses but it forgets this the very next time I search for something so I have to specify it every single time. Any suggestions? My current Perplexity Pro subscription will end in a couple weeks but unless I find something suitable to replace it I will probably just renew it. Thanks!"
     },
     {
       "title": "Amazon's AI capacity crunch and performance issues pushed customers to rivals including Google",
@@ -57,60 +90,27 @@
       "description": "An AI-powered toy might seem like a trendy thing to give your kids this holiday season, but major advocacy groups are begging parents to reconsider."
     },
     {
-      "title": "Recommend me a new \"AI\" platform to replace Perplexity",
-      "author": "raitchison",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5pevg/recommend_me_a_new_ai_platform_to_replace/",
-      "published": 1764009967.0,
+      "title": "It's been a big week for AI Agents ; Here are 10 massive developments you might've missed:",
+      "author": "SolanaDeFi",
+      "url": "https://www.reddit.com/r/artificial/comments/1p5im4n/its_been_a_big_week_for_ai_agents_here_are_10/",
+      "published": 1763994850.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I've been a Perplexity Pro user since May. I've been reasonably happy with it overall but I find some behavior annoying (in particular it's refusal remember my search preferences, or much of anything, across multiple conversations). I also am not OK with their partnership with \"Truth\" Social. I actually cancelled my auto-renewal earlier this month after it abruptly became terrible (started giving useless answers and stopped providing sources in-line with the answers). I opened a support ticket for this issue and never heard back but it seems to have resolved itself, but I'm still thinking about changing to a different platform. I'd prefer to avoid any of the traditional \"big tech\" providers such as CoPilot or Gemini and would prefer something that's not ChatGPT (strictly because of it's popularity and market dominance) but the only platforms I refuse to consider using are Grok and anything from Facebook. I feel like I would be happiest with an orchestrator with access to multiple models from different companies, that will (attempt to) choose the best model based on the query but lets me override it. I mostly use Perplexity for searching as a replacement for Google (which has become all but useless) and rarely for things like writing (code or correspondence) or personal advice. Something that learns about me, my preferences and tastes across multiple conversations is a plus. For example I have told Perplexity numerous times I never want to see product suggestions from Amazon, Wal-Mart or any other MAGA affiliated businesses but it forgets this the very next time I search for something so I have to specify it every single time. Any suggestions? My current Perplexity Pro subscription will end in a couple weeks but unless I find something suitable to replace it I will probably just renew it. Thanks!"
+      "description": "AI Agents coming to the IRS Gemini releases Gemini Agent ChatGPT's Atlas browser gets huge updates and so much more A collection of AI Agent Updates! \ud83e\uddf5 1. AI Agents Coming to the IRS Implementing a Salesforce agent program across multiple divisions following 25% workforce reduction. Designed to help overworked staff process customer requests faster. Human review is still required. First US Gov. agents amid staffing cuts. 2. Gemini 3 Releases with Gemini Agent Experimental feature handles multi-step tasks: book trips, organize inbox, compare prices, reach out to vendors. Gets confirmation before purchases or messages. Available to Ultra subscribers in US only. 3. ChatGPT's Agentic Browser Gets Major Update Atlas release adds extensions import, iCloud passkeys, multi-tab selection, Google default search, vertical tabs, and faster Ask ChatGPT sidebar. More features coming next week. 4. xAI Releases Grok 4.1 Fast with Agent Tools API Best tool-calling model with 2M context window. Agent Tools API provides X data access, web browsing, and code execution. Built for production-grade agentic search and complex tasks. Have you tried these? 5. AI Browser Comet Launches on Mobile Handles tasks like desktop version with real-time action visibility and full user control. Android only for now, more platforms coming soon. Potentially the first mobile agentic browser. 6. x402scan Agent Composer Now Supports Solana Data Merit Systems' Composer adds Solana resources. Agents can find research and insights about the Solana ecosystem. Agents are accessing Solana intelligence. 7. Shopify Adds Brands To Sell Inside ChatGPT Glossier, SKIMS, and SPANX live with agentic commerce in ChatGPT. Shopify rolling out to more merchants soon. Let the agents handle your holiday shopping! 8. Perplexity's Comet Expanding to iOS Their CEO says Comet iOS coming in coming weeks. Will feel as slick as Perplexity iOS app, less \u201cChromium-like\u201d. Android just released, now the iPhone is to follow. 9. MIT AI Agent Turns Sketches Into 3D CAD Designs Agent learns CAD software UI actions from 41,000+ instructional videos in VideoCAD dataset. Transforms 2D sketches into detailed 3D models by clicking buttons and selecting menus like human. Lowering the barrier to complex design work by agentifying it. 10. GoDaddy Launches Agent Name Service API Built on OWASP's security-first ANS framework and IETF's DNS-style ANS draft. With proposed ACNBP protocol, creates full stack for secure AI agent discovery, trust, and collaboration. More infrastructure for agent-to-agent communication. That's a wrap on this week's Agentic news. Which update impacts you the most? LMK if that was helpful! | Posting more weekly AI + Agentic content!"
     },
     {
-      "title": "Introducing Claude Opus 4.5",
-      "author": "Frequent-Football984",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5r48y/introducing_claude_opus_45/",
-      "published": 1764013748.0,
-      "thumbnail": "https://external-preview.redd.it/Q03cq5_pcnDRO5KFs7hq6MbbfplO_rWZxiECHCty4UM.png?width=640&crop=smart&auto=webp&s=509938643d9a416961826caf36f9d317a94a294e",
-      "external_url": "https://www.anthropic.com/news/claude-opus-4-5",
-      "site_name": "anthropic.com",
-      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
-      "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "title": "Elon Musk\u2019s Grok chatbot ranks him as world history\u2019s greatest human | Users on X shared examples of the \u201ctruth-seeking\u201d AI chatbot praising its owner as \u201cstrikingly handsome,\u201d a \u201cgenius\u201d and fitter than LeBron James.",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4ni1d/elon_musks_grok_chatbot_ranks_him_as_world/",
-      "published": 1763906647.0,
-      "thumbnail": "https://external-preview.redd.it/a6vZJpMlKyMiL64FTOX1j2a1ZLrNsT5qER3NPGaoDN4.jpeg?width=640&crop=smart&auto=webp&s=5453d1674dc11c85e450fb6393fe0e3df371451c",
-      "external_url": "https://www.washingtonpost.com/technology/2025/11/20/elon-musk-grok/",
-      "site_name": "washingtonpost.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Unemployment could hit 25% among recent grads and trigger 'unprecedented' social disruption thanks to AI, U.S. senator warns",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4nl0y/unemployment_could_hit_25_among_recent_grads_and/",
-      "published": 1763906867.0,
-      "thumbnail": "https://external-preview.redd.it/ej9LMhaetEjXrOkjl3A74c074m6ImzzZy1OUPuu5hKQ.jpeg?width=640&crop=smart&auto=webp&s=4cbe35ce006ea036a18988f17f6fbeff33cde946",
-      "external_url": "https://fortune.com/2025/11/20/gen-z-college-grad-unemployment-could-hit-25-percent-warns-us-senator-unprecedented-disruption-ai/",
-      "site_name": "Fortune",
-      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
-      "description": "AI could create a generation further burdened with student loan debt\u2014and no job to repay it, according to Sen. Mark Warner."
-    },
-    {
-      "title": "I build a Job board for AI Prompt Engineers and more!",
-      "author": "pk9417",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5jcbx/i_build_a_job_board_for_ai_prompt_engineers_and/",
-      "published": 1763996621.0,
+      "title": "I made a way to put in ads in AI",
+      "author": "saggerk",
+      "url": "https://www.reddit.com/r/artificial/comments/1p5sccv/i_made_a_way_to_put_in_ads_in_ai/",
+      "published": 1764016478.0,
       "thumbnail": null,
-      "external_url": "https://aijobboard.dev/",
-      "site_name": "AIJobBoard.dev",
-      "favicon": "https://aijobboard.dev/favicon.ico",
-      "description": "Hey everyone, I\u2019ve been working the last weeks on something for the AI community and finally pushed it live. I built a small niche job board focused only on Prompt Engineers, AI Agent Builders and Automation Developers. Why? Because more and more companies want people who can work with LLMs, RAG, Make.com, n8n, agent frameworks and AI automation \u2013 but these roles are scattered across hundreds of places. So I created a simple place where companies can post AI-focused roles and where AI developers can check regularly for new opportunities. Already added 20+ real AI job listings to get it started. If you\u2019re into Prompt Engineering or AI automation, or if your company is hiring for these roles, feel free to take a look. Feedback is welcome \u2013 especially what features would make it more useful for you. Thanks!"
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This isn't ads like GEO stuff. And this isn't a \"Hey ChatGPT, make me an ad\". This is more like a \"This tool is sponsored by X, check it out here\" type ad. - So I go to trade shows and events a bunch, and wanted to make a way to monetize that somehow. Figured out how to put in ads in AI tools, so like with ChatGPT, Anthropic, or Gemini. What I've been doing is giving away a free tool to people, like a CustomGPT. And at the end of the event I would approach the organizers saying something like \"I have 300 SMB sales reps who are using this tool I made almost daily. Would you be interested in advertising to them till next year's event?\" And then I would put in a sponsored ad block within the tool itself. Made some money off of that, and wanted to share a potential side project that you guys might not think is possible right now, but it is. It's possible because we aren't editing the base model, but rather the output. And because of that, we can use ads as a jailbreak prevention tool, create sponsored blocks, paywalls, etc. -- I know that you got Google who's added ads in their AI output, but Google is basically iframes everything. And I know OpenAI is looking at doing ads with ChatGPT, not sure what Anthropic's position is. That said, right now OpenAI and Anthropic have nothing in terms of service against putting ads in their models. Google has their terms of service, but they were previously an ad platform. So at least for now, this is fair game."
     }
   ],
-  "fetched_at": "2025-11-24T19:53:44.294084+00:00"
+  "fetched_at": "2025-11-24T20:38:50.918339+00:00"
 }

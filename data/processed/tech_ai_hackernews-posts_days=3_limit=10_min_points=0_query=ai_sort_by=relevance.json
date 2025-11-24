@@ -9,8 +9,8 @@
       "url": "https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html",
       "hn_url": "https://news.ycombinator.com/item?id=46027833",
       "author": "bookofjoe",
-      "points": 455,
-      "num_comments": 550,
+      "points": 459,
+      "num_comments": 552,
       "created_at": "2025-11-23T22:06:44Z",
       "object_id": "46027833",
       "image": null,
@@ -23,8 +23,8 @@
       "url": "https://news.ycombinator.com/item?id=46029699",
       "hn_url": "https://news.ycombinator.com/item?id=46029699",
       "author": "pugworthy",
-      "points": 323,
-      "num_comments": 188,
+      "points": 326,
+      "num_comments": 194,
       "created_at": "2025-11-24T02:25:39Z",
       "object_id": "46029699",
       "image": null,
@@ -52,7 +52,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46024644",
       "author": "kllrnohj",
       "points": 238,
-      "num_comments": 195,
+      "num_comments": 196,
       "created_at": "2025-11-23T16:17:57Z",
       "object_id": "46024644",
       "image": null,
@@ -61,26 +61,12 @@
       "site_name": "pub.towardsai.net"
     },
     {
-      "title": "Boom, bubble, bust, boom. Why should AI be different?",
-      "url": "https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/",
-      "hn_url": "https://news.ycombinator.com/item?id=46008628",
-      "author": "speckx",
-      "points": 160,
-      "num_comments": 207,
-      "created_at": "2025-11-21T20:30:51Z",
-      "object_id": "46008628",
-      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9jcmF6eXN0dXBpZHRlY2guY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI1XC8wNFwvY3Jhenl0ZWNoLWltZy5wbmc_Zml0PTQ4MSUyQzQ4MSZzc2w9MSIsInR4dCI6IkNyYXp5IFN0dXBpZCBUZWNoIiwidGVtcGxhdGUiOiJlZGdlIiwiZm9udCI6IiIsImJsb2dfaWQiOjI0MzM2MTkzNn0.9lzL2TvsryD6L8fyfB4-srIOrhLEmGjTHgDDKUS3w7oMQ",
-      "description": "The AI revolution is three years old Nov. 30. In just 36 months AI has gone from great-new-toy, to global phenomenon, to where we are today - debating whether we are in one of the biggest technology bubbles or booms in modern times. To us there is no debate. There is too much spending, too much leverage, too many crazy deals, and too much competition from China for us not to see big bumps ahead.",
-      "favicon": "https://i0.wp.com/crazystupidtech.com/wp-content/uploads/2025/04/cropped-crazytech-img.png?fit=180%2C180&ssl=1",
-      "site_name": "Crazy Stupid Tech"
-    },
-    {
       "title": "An Economy of AI Agents",
       "url": "https://arxiv.org/abs/2509.01063",
       "hn_url": "https://news.ycombinator.com/item?id=46020096",
       "author": "nerder92",
-      "points": 126,
-      "num_comments": 86,
+      "points": 127,
+      "num_comments": 89,
       "created_at": "2025-11-23T02:08:00Z",
       "object_id": "46020096",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
@@ -94,13 +80,27 @@
       "hn_url": "https://news.ycombinator.com/item?id=46032513",
       "author": "singiamtel",
       "points": 85,
-      "num_comments": 68,
+      "num_comments": 69,
       "created_at": "2025-11-24T10:37:05Z",
       "object_id": "46032513",
       "image": "https://cds.cern.ch/images//file?size=medium",
       "description": "Artificial intelligence (AI) can be found at CERN in many contexts: embedded in devices, software products and cloud services procured by CERN, brought on-site by individuals or developed in-house. Following the approval of a CERN-wide AI strategy, these general principles are designed to promote the responsible and ethical use, development and deployment (collectively \u201cuse\u201d) of AI at CERN. They are technology neutral and apply to all AI technologies as they become available. The principles apply across all areas of CERN\u2019s activities, including: AI for scientific and technical research: data analysis, anomaly detection, simulation, predictive maintenance and optimisation of accelerator performance or detector operations, and AI for productivity and administrative use: document drafting, note taking, automated translation, language correction and enhancement, coding assistants, and workflow automation. General Principles\u00a0 CERN, members of its personnel, and anyone using CERN computing facilities shall ensure that AI is used in accordance with the following principles: Transparency and explainability: Document and communicate when and how AI is used, and how AI contributes to specific tasks or decisions. Responsibility and accountability: The use of AI, including its impact and resulting outputs throughout its lifecycle, must not displace ultimate human responsibility and accountability.\u00a0\u00a0 Lawfulness and conduct: The use of AI must be lawful, compliant with CERN\u2019s internal legal framework and respect third-party rights and CERN\u2019s Code of Conduct. Fairness, non-discrimination, and \u201cdo no harm\u201d: AI must be used in a way that promotes fairness and inclusiveness and prevents bias, discrimination and any other form of harm. Security and safety: AI must be adequately protected to reduce the likelihood and impact of cybersecurity incidents. AI must be used in a way that is safe, respects confidentiality, integrity and availability requirements, and prevents negative outcomes.\u00a0 Sustainability: The use of AI must be assessed with the goal of mitigating environmental and social risks and enhancing CERN's positive impact in relation to society and the environment. Human oversight: The use of AI must always remain under human control. Its functioning and outputs must be consistently and critically assessed and validated by a human.\u00a0 Data privacy: AI must be used in a manner that respects privacy and the protection of personal data. Non-military purposes: Any use of AI at CERN must be for non-military purposes only.",
       "favicon": "https://home.web.cern.ch/sites/default/themes/custom/cernpublic/favicon.ico",
       "site_name": "CERN"
+    },
+    {
+      "title": "Implications of AI to schools",
+      "url": "https://twitter.com/karpathy/status/1993010584175141038",
+      "hn_url": "https://news.ycombinator.com/item?id=46036878",
+      "author": "bilsbie",
+      "points": 80,
+      "num_comments": 79,
+      "created_at": "2025-11-24T17:51:02Z",
+      "object_id": "46036878",
+      "image": null,
+      "description": null,
+      "favicon": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+      "site_name": "X (formerly Twitter)"
     },
     {
       "title": "Insurers retreat from AI cover as risk of multibillion-dollar claims mounts",
@@ -145,7 +145,7 @@
       "site_name": "the Guardian"
     }
   ],
-  "total_hits": 368,
+  "total_hits": 362,
   "has_metadata": true,
-  "fetched_at": "2025-11-24T19:53:42.870372+00:00"
+  "fetched_at": "2025-11-24T20:38:52.208928+00:00"
 }

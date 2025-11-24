@@ -112,5 +112,5 @@
       "description": "Hey everyone, I\u2019m trying to find an Ethereum wallet that gives full control over the HD wallet structure \u2014 something that allows: setting a custom derivation path (e.g. m/44'/60'/1'/0/5, etc) managing multiple account indexes (not just incrementing address index like MetaMask) adding a BIP39 passphrase (\u201c25th word\u201d) optionally showing / importing addresses beyond account 0' Most popular wallets only expose a simple \u201cAccount 1 / Account 2\u201d UI without letting you tweak the actual path. Does anyone know a wallet (desktop/mobile/hardware) that supports all of the above? Examples I\u2019m considering are: Sparrow, Electrum-like tools, hardware wallets, or advanced mobile wallets \u2014 but I\u2019m not sure which ones actually allow custom ETH paths + passphrase at the same time. Any recommendations from people who\u2019ve done this on Ethereum? Thanks!"
     }
   ],
-  "fetched_at": "2025-11-24T19:53:45.588770+00:00"
+  "fetched_at": "2025-11-24T20:38:53.524044+00:00"
 }

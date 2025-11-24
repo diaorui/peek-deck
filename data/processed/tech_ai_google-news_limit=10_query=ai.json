@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "'Big Short' investor Burry targets AI boom with new blog after hedge fund closure",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM3JaN1ZzdEFHZjNNaFNxVmhEUk9yUVgwZ0oyMEpnTXBDdG1UeGY3ZDRKbUtTMkl5MUpoMXBBbUdFVzRoaUM2UVNSM3UzZlBpVzZpOElYbnpqNnNDSTBVdFZ2Rm42MEVUNnUxT2dhTm9pVG9Vc3FEbTN3VzlEZWNRNUcxM1lrOFdZTjhFWUVNTGh4Z0lzM0I2Q2FQcU5OTVFhSTk5NlE4aVNpUl94MlNwYkhfcHA?oc=5",
-      "pub_date": 1763996625.0,
-      "article_url": "https://www.reuters.com/business/big-short-investor-burry-launches-newsletter-after-closing-hedge-fund-2025-11-24/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Michael Burry launches newsletter to lay out his AI bubble views after deregistering hedge fund",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -23,6 +13,16 @@
       "article_url": "https://www.cnbc.com/2025/11/24/michael-burry-launches-newsletter-to-lay-out-his-ai-bubble-views-after-deregistering-hedge-fund.html",
       "image": "https://image.cnbcfm.com/api/v1/image/106091765-1566479308096gettyimages-498562218.jpeg?v=1763992253&w=1920&h=1080",
       "description": "\"The Big Short\" investor is capitalizing on the massive audience he's built on X, where 1.6 million followers have long parsed his cryptic posts."
+    },
+    {
+      "headline": "'Big Short' investor Burry targets AI boom with new blog after hedge fund closure",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM3JaN1ZzdEFHZjNNaFNxVmhEUk9yUVgwZ0oyMEpnTXBDdG1UeGY3ZDRKbUtTMkl5MUpoMXBBbUdFVzRoaUM2UVNSM3UzZlBpVzZpOElYbnpqNnNDSTBVdFZ2Rm42MEVUNnUxT2dhTm9pVG9Vc3FEbTN3VzlEZWNRNUcxM1lrOFdZTjhFWUVNTGh4Z0lzM0I2Q2FQcU5OTVFhSTk5NlE4aVNpUl94MlNwYkhfcHA?oc=5",
+      "pub_date": 1763996625.0,
+      "article_url": "https://www.reuters.com/business/big-short-investor-burry-launches-newsletter-after-closing-hedge-fund-2025-11-24/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "\u2018The Big Short\u2019 investor Michael Burry on an AI bubble: \u2018There is a Cisco at the center of it all \u2026 Its name is Nvidia\u2019",
@@ -35,34 +35,14 @@
       "description": "Fresh off a string of bearish stock activity and the deregistration of his hedge fund, Burry has started a Substack for his financial writing."
     },
     {
-      "headline": "Opinion | The First Large-Scale Cyberattack by AI",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOVG84QlVXNlVmUjVIWWN1dlkyVnJmYzhUNVo2LVBhZFQ1TEQwRGQ4VUJBTHh6ZHRPVF80MEpscHpJdEJWRVVNdnlucjg3ejBMYmZWdF8yOC1kQ0c0N2VHa0VseTdHd1J1ZlE3aXZMUUQyR3hlWGZHY0xtbGNnSGNKMFIzV2VSeTdXYkktY0wxd3pCN2lyZVdBWkpaTS1fS3pNSFJLNVJxQ2hxV3Q4S0VGUlZYQzJreUJvaEdPQmU0Ny02cHRhRUk2ZmpDWlFvWVpxUHBRRUpWU19FVFNjNGViN0JkLXFRUFZLZS0wSzg4QWZOQmFUcDVVYnRfdWJOUXVXcjJCa1RwOS1pcDIzRVVOdFRpMC00Q29sczVVclFldFAxTTZtTzhTYkR5cXZhVVZrYTJORzJkX1hKZUN0Z0p6NjBCcXY2VEdkZG00dDBxZHd3ekdVam5CVHYydnRTUFlxTjZqMzV5M3RheUFkME5hSnBFWXRtc1dRM3R1VVZKeWt4VTY4X0dn?oc=5",
-      "pub_date": 1763917380.0,
-      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqdkMu9tJPOI-1SiG6B3SaV5R5-2hU917rPD540Pg0aPOrfwZY0KwyON&gaa_ts=6924bb4a&gaa_sig=4Dt0pE6XtSw8VZ5n3Z7kyh9J-t2_KqPMj-nilpRa2AyyAbUOCykegQeMXidhDeeJuWoFBHHHSkGISGsrpXzTRw%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Holiday shopping with AI: Tips for finding gifts and staying safe online",
-      "source": "WTOP",
-      "source_url": "https://wtop.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmFDa1RwOHdSX1dMeXN6TEJWcV92dzJmcUZ4ZmtYcTBfbTRIVzFzLUdfdmpqcnZnd2NBSTJhZjJsTjhPTl95ZlgtSmJTcF9NdVUwUmhJQTBla05nNTdiTjBPYmJTTnRZX1BpMWNjd2pnZHdDbjNOR1AxbmtPalFuQVFna1F1SVZuc1ZkVVhxX0IyNjRDWDRuWEI3TklRWFBrR3BPNVdMR0Ftdw?oc=5",
-      "pub_date": 1764013386.0,
-      "article_url": "https://wtop.com/holidays/2025/11/holiday-shopping-with-ai-tips-for-finding-gifts-and-staying-safe-online/",
-      "image": "https://wtop.com/wp-content/uploads/2025/04/Thailand_Economy_21797-scaled.jpg",
-      "description": "From brainstorming gift ideas to managing budgets, tools such as ChatGPT are transforming how we shop. Experts report AI use for holiday shopping is up 70%."
-    },
-    {
-      "headline": "Treat AI Agents More Like Human Workers",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmItZHYwMC1kVDNtOGdSLWxBWUo5ZzV5YXUzTjVmZlFsNVVCZGpWVDZLazNPRHU3TDlZeGJXNHlCZWxuaHRLbmthRHpGRlU2aS1WMzdjSHR4TXJVVTRsdGVjZ0xKRlkyMWFGbExWbTYxeVIxcEozRlRuTmR0NnJtSF9ycHFuVmkzeG5QVVo4MlR2ZzZIQTFF?oc=5",
-      "pub_date": 1764012377.0,
-      "article_url": "https://www.forbes.com/sites/curtmueller/2025/11/24/treat-ai-agents-more-like-human-workers/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6920bfa3071c9ec7d84cef7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "Leaders seeking advantage by applying AI may consider how to treat AI agents like human workers with clear roles, accountability & performance for successful deployment."
+      "headline": "Amazon to invest up to $50 billion to expand AI and supercomputing infrastructure for US government agencies",
+      "source": "About Amazon",
+      "source_url": "https://www.aboutamazon.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXZyVlFqeWJCODRWeXRwUTVJMHhFZkRmbFBOa0JXdmhfdFRzNmVCMkFVZDhNS0RfRnhMNDVlTW1YZl9DM1ROQUdVX2pVT2pOUVJxRXZfVUVhUjdFU1gzZ2tld21qeF9KX3FZZi04S05hOGZKZHo5cTNIMmdTSzhHblN0Ylpfc09uR21OM05WWQ?oc=5",
+      "pub_date": 1764000228.0,
+      "article_url": "https://www.aboutamazon.com/news/company-news/amazon-ai-investment-us-federal-agencies",
+      "image": "https://assets.aboutamazon.com/dims4/default/29a0af5/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc6%2Ff7%2F88fa6e81457bbb11c742465fe562%2Fabout-amazon-hero-aa-hero001-amazon-datacenter-bht-0318a-2-4715x2652.jpg",
+      "description": "Federal agencies will gain access to Amazon SageMaker AI, Amazon Bedrock, Amazon Nova among other AI services from AWS."
     },
     {
       "headline": "Amazon to spend up to $50 billion on AI infrastructure for U.S. government",
@@ -75,36 +55,56 @@
       "description": "The project will add 1.3 gigawatts of capacity across new data centers, with Amazon expected to break ground in 2026."
     },
     {
-      "headline": "Amazon to invest up to $50 billion to expand AI and supercomputing infrastructure for US government agencies",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXZyVlFqeWJCODRWeXRwUTVJMHhFZkRmbFBOa0JXdmhfdFRzNmVCMkFVZDhNS0RfRnhMNDVlTW1YZl9DM1ROQUdVX2pVT2pOUVJxRXZfVUVhUjdFU1gzZ2tld21qeF9KX3FZZi04S05hOGZKZHo5cTNIMmdTSzhHblN0Ylpfc09uR21OM05WWQ?oc=5",
-      "pub_date": 1764000228.0,
-      "article_url": "https://www.aboutamazon.com/news/company-news/amazon-ai-investment-us-federal-agencies",
-      "image": "https://assets.aboutamazon.com/dims4/default/29a0af5/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc6%2Ff7%2F88fa6e81457bbb11c742465fe562%2Fabout-amazon-hero-aa-hero001-amazon-datacenter-bht-0318a-2-4715x2652.jpg",
-      "description": "Federal agencies will gain access to Amazon SageMaker AI, Amazon Bedrock, Amazon Nova among other AI services from AWS."
-    },
-    {
-      "headline": "How AI, Amazon And TikTok Are Giving The Beauty Industry A Makeover",
+      "headline": "Amazon\u2019s $50 Billion U.S. Infrastructure Pledge Makes 2025\u2019s Top AI Deals (Full List, Ranked)",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZEhXd2Z3LUJpc1FqNnM5VHF4WllfLTRjVGZqV2lTVGVHcHVTbnBHd3lvNHlmdTROR01IRkZNc25WVnRHTlZvM21MaDdwOGpEbDh5ZzB4OE9ORHZrVzZtNmk1a05qVWU1UEdNVk1mYUNibHFwTGVpV0llamFOMy1EemJIUHJibnk3ai1RbDFaazRoN21YZThVU3B3M2ljZThsV2hJZzNhNXpFQW1XY0UtZlhsMnVmRVgyeUUtZHA3WmRJeXM?oc=5",
-      "pub_date": 1764012454.0,
-      "article_url": "https://www.forbes.com/sites/richardkestenbaum/2025/11/24/how-ai-amazon-and-tiktok-are-giving-the-beauty-industry-a-makeover/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/69236645495b623ebff6a510/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "AI, Amazon and TikTok are reshaping how consumers discover and buy beauty. See what NielsenIQ\u2019s data reveals\u2014and how brands can stay visible and grow."
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbzZyS09XdFE0bmZhemxkMnBWU2R0Z2ptNXRncF82TDA1UGVrYzFLOFExVnRCd21Jb3VDWWdsMUdVMlNoUzN1T3dmRnVKNHNiLW5tWm1ETUZicWViU2tCb2dOcURRdWdBY3JfM0NzVFd2aWRTNWlFalhPVlo1YlNYTE9KYkstd3JVbHZyaW42dl9WYl9SNTJULUlRVWNHWDJoOVlVaWhCNzVJeVp1VDBTWVJEWUhqUjVWSGptMjY3cXMwRXhVVWwxWEdpVUZqYzB2TUVtS0RMZ1ZOcG13YkpOQzlReWpTR3FEOFdF?oc=5",
+      "pub_date": 1764014752.0,
+      "article_url": "https://www.forbes.com/sites/tylerroush/2025/11/24/2025s-ai-spending-frenzy-continues-anthropic-inks-30-billion-cloud-computing-deal-with-nvidia-microsoft/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6924b8f44a3e4af1e0d7819b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "Spending on AI has accelerated in recent months, as Wall Street anticipates global expenditures nearing half a trillion dollars by 2026."
     },
     {
-      "headline": "The surprising issue driving a wedge between Trump and his MAGA base",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlRWWm04U29yNXRCTVVuU2tfVXY4dzJsX2h6TV9NRTgtSE1WLUlnbEF2UnJITG9pa0NIMUhtUHFhalZZUTlGc0ltTzZOSWhTQ2ZDX0JRSlpTSzZ0UFB6Y3dSWXFWVGpTdHRwLXJYOV9La2QwdHJqWV9KRTVIOFlISHJYMzQ3VnF3?oc=5",
-      "pub_date": 1763921138.0,
-      "article_url": "https://www.washingtonpost.com/technology/2025/11/23/trump-maga-division-tech-ai/",
+      "headline": "Watch AI to Boost Scientific Discovery",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRGJaVEt0YUdMV096LXNrT3dsaTM1eTVldkJBVm5KMnU5VlQxb0V3bUU2cUVDZ1VpcmZrSnUyRi15ejNOVzIwdldvNk5yeTNEYktoSklpLXg3OE9iZGJnLUk1SEIwcXdyeE5pTW0tdncwNXFRalNITDcxd3ZlUER1dnV2TzhTQmxMeXB0RjNGQmY?oc=5",
+      "pub_date": 1764015644.0,
+      "article_url": "https://www.bloomberg.com/news/videos/2025-11-24/ai-to-boost-scientific-discovery-video",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic Says Its New AI Model Is Better at Coding and Office Work",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcFRQbmYzSTNHSE1RQU9jQXFVcnlaVG9ZU2lYSWJTaDFTZzQzc0xtUUJuQU81UW9jcHRxSzhDQ0tJNjVxX2lPSnd6aDNNdUExMlFsVEJ3S2RfRXpxajY3NmY1XzQ1b0tlby05MXl5U0gwRm5fRFNtQjNHSEF2UndHckFlcVYycU14R25temZxaWwtYUxDc2c5Z1JVbGJQLXJpYjNXTVg4YTdQSVhyandyckR0SVc4UGRvMWc?oc=5",
+      "pub_date": 1764010833.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-24/anthropic-says-its-new-ai-model-is-better-at-coding-and-office-work",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Anthropic unveils Claude Opus 4.5, its latest AI model following $350 billion valuation",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWFZLeEMwakNVWVRuT190UU5QVy1yMlRuNUxIdEpLaHN1RmxEYmdSRFVEV0h2clVhYlB0ajhEZVJIeUs0YVFfV1hBT0lmMTI3U3dSZ2dkVXF1VURRSFBwMjZnT1RYVEdqSVFDN1RQMXBvUDFNbmZqQlFmQUFZdTBHNWFfcTR5VGwtYlZTbkdrSjZUWUJXdjUzclBB0gGfAUFVX3lxTE1INk1sSUlRZlVLY28wTEFlMnVkNElnVkQydzgwOWJxVUd4WVduNWVvekR4ZkhSVlE5SE9QTWJtdmRzVHh5azRjc3JSRUF2cnNRbnNkSlRvMkJLMy14aVZOcUxxVkRfcFk0V3RlUXFTLTlWeVdabUNJeXVhc0MxbS1ta3BYU3R0TWZOcTh6dDZwYkpPZlRLZlpUdzl3SnRybw?oc=5",
+      "pub_date": 1764010801.0,
+      "article_url": "https://www.cnbc.com/2025/11/24/anthropic-unveils-claude-opus-4point5-its-latest-ai-model.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108017936-1723117355253-gettyimages-2154161015-_r7a3543_vjqaydsv.jpeg?v=1764006498&w=1920&h=1080",
+      "description": "Anthropic says its new Claude Opus 4.5 excels at coding, using computers and assisting users with complex enterprise tasks."
+    },
+    {
+      "headline": "Anthropic Launches Its Latest AI Model, Claude Opus 4.5",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPR2dxZDBPWXU4UmZvUGZQazlSbnAzMVdHVV82cFdlS0xoblFMeHdNd05UNVFrNWFkUW5vZ0lScGk0eUZMRnZyOENOU2E1SnltNnkxLWVZODdiWURrcEY2cU52XzRTMG5YempneVM4MlZrMzN5c19mdGUwclV0aVIzcTFuMEM5UHVQbEZyYWtoS0tmZ05vUS15TEktMHVFQlQ5blN6dnJLTXFTMlNqU2VGQ01Sc2hBSHBXMExpbWNjVktQX2hRLTlodEtLeXVaRXRZTGdnUlVtTzAwaF81elgzWTcwaHB5dWp5eTdmMVhaU2x5VEs3bTY5S3oxcmR0dTBjdUNQb05FcnNXbGdQTk5HVlJqS211SmU3aDVZakNEbHYtbGJZZmhwd09RbGRIMy1oUTJfc1hURkZSTEUyalJhYXV3cEVUWm1hOUd4YXljSkRBd0JJQ0EwZzIyekFlSlZOeF9rYk1WeEw1aEthcWU0Q1ByVlBwTVh4bkU2WVNOeXp4UQ?oc=5",
+      "pub_date": 1764015420.0,
+      "article_url": "https://www.barrons.com/articles/anthropic-ai-model-claude-opus-d944a59a?gaa_at=eafs&gaa_n=AWEtsqeI8yfnEhBWKJ2iKeSWZVXiBV_RsyMUZphyPl0BxAzfIuip1AlItsCx&gaa_ts=6924c5de&gaa_sig=XcNG6HuQjN-wKgYJc3SO4O_tBmdkqGimFjVot4WlVh7Evt93V3rM3z3gXmAV455WAnbhBsAlUGFLFBrvQOgLUg%3D%3D",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T19:54:08.230718+00:00"
+  "fetched_at": "2025-11-24T20:39:17.989782+00:00"
 }
