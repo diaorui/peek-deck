@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-11-24T18:40:18.344861+00:00",
+  "data": "SAM 3 is a unified foundation model for promptable segmentation in images and videos, capable of detecting, segmenting, and tracking objects using text or visual prompts. It excels at exhaustively segmenting all instances of open-vocabulary concepts, achieving near-human performance on complex benchmarks.",
+  "model_id": "facebook/sam3"
+}

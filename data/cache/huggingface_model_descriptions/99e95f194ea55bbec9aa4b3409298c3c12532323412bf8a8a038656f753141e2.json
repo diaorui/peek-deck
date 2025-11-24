@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-11-24T18:40:17.614908+00:00",
+  "data": "HunyuanVideo-1.5 is a lightweight, 8.3B parameter text-to-video generation model offering state-of-the-art quality and motion coherence. It runs efficiently on consumer GPUs, making it accessible for generating creative videos from text or image prompts.",
+  "model_id": "tencent/HunyuanVideo-1.5"
+}

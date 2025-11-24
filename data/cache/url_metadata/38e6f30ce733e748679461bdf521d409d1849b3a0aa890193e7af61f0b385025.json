@@ -1,14 +1,13 @@
 {
-  "url": "https://www.theblock.co/post/380070/offchain-labs-challenges-vitaliks-risc-v-proposal-says-wasm-better-for-ethereum-l1",
-  "cached_at": "2025-11-24T01:35:57.690521+00:00",
-  "metadata": {
+  "cached_at": "2025-11-24T18:39:35.506351+00:00",
+  "data": {
     "url": "https://www.theblock.co/post/380070/offchain-labs-challenges-vitaliks-risc-v-proposal-says-wasm-better-for-ethereum-l1",
-    "title": "Offchain Labs challenges Vitalik's RISC-V proposal, says WASM better for Ethereum L1",
-    "description": "The researchers argue WASM, which has been battle-tested across billions of execution environments, is a better long-term bet than RISC-V.",
-    "image": "https://www.tbstat.com/wp/uploads/2024/07/20240724_Ethereum_News_3-1200x675.jpg",
-    "favicon": "https://www.theblock.co/apple-touch-icon.png",
-    "site_name": "The Block",
+    "title": null,
+    "description": null,
+    "image": null,
+    "favicon": null,
+    "site_name": null,
     "author": null,
-    "keywords": "Crypto Ecosystems, Layer 1s, Layer 2s and Scaling, Arbitrum, Ethereum, offchain-labs, risc-v"
+    "keywords": null
   }
 }

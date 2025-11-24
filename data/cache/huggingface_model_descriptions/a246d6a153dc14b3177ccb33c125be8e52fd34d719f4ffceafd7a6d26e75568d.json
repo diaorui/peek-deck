@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-11-24T18:40:24.196924+00:00",
+  "data": "Eigen-Banana-Qwen-Image-Edit is a LoRA checkpoint for Qwen-Image-Edit, enabling fast and high-quality text-guided image editing with reduced inference steps. Trained on the Pico-Banana-400K dataset, it excels at diverse edits like object manipulation and style transfer, supporting both English and Chinese prompts.",
+  "model_id": "eigen-ai-labs/eigen-banana-qwen-image-edit"
+}

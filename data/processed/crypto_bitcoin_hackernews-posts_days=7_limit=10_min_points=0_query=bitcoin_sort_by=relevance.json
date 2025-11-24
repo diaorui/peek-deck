@@ -57,7 +57,7 @@
       "object_id": "46028449",
       "image": "https://cdn.mos.cms.futurecdn.net/xNgBpUETd9FRLejaNQYZe7-1000-80.jpg",
       "description": "Solo miner controls roughly 0.0000007\u202f% of the Bitcoin network\u2019s hash\u2011power yet captures full block reward.",
-      "favicon": "https://vanilla.futurecdn.net/tomshardware/1477279/apple-touch-icon.png",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1479220/apple-touch-icon.png",
       "site_name": "Tom's Hardware"
     },
     {
@@ -69,10 +69,10 @@
       "num_comments": 0,
       "created_at": "2025-11-18T05:09:46Z",
       "object_id": "45961612",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3PMTXiu1uH8/v0/1200x675.png",
-      "description": "A selloff in the world\u2019s largest technology companies drove stocks to their longest slide since August, underscoring the American market\u2019s narrow reliance on a handful of growth giants.",
-      "favicon": "https://www.bloomberg.com/favicon-black.png",
-      "site_name": "Bloomberg.com"
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "bloomberg.com"
     },
     {
       "title": "Bitcoin won't recover until there's a resolution to quantum elephant in the room",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 16,
   "has_metadata": true,
-  "fetched_at": "2025-11-24T17:29:38.189358+00:00"
+  "fetched_at": "2025-11-24T18:39:24.004613+00:00"
 }

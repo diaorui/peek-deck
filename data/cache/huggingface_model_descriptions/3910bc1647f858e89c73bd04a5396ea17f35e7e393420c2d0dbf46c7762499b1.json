@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-11-24T18:40:23.573337+00:00",
+  "data": "DeepSeek-OCR is a multilingual vision-language model for Optical Character Recognition (OCR) and visual text understanding. It excels at extracting text from images and can convert documents into structured formats like markdown.",
+  "model_id": "deepseek-ai/DeepSeek-OCR"
+}

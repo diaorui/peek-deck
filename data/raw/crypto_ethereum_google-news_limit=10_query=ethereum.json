@@ -5,54 +5,34 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Largest Ethereum treasury BitMine invests another $200 million, addresses recent ETH price decline",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQUw1dU82dC1PaDBCTWlCN01taWc5RVVKNHRDaFBSZ0hBT3Jid1Q2WXFubXFzVWRCOUVBWHo2SnRzRk9aQVpGYkQtRlpTNVFDaXRFdDJFTWs4ZG44ZXlMM0Rrck1nMmlPTGZhVW5RSC0wSWp0a2tkY3JfLUJ4SFNqMlI0d3U1Yzdkbmo3ZEZwN3R0V0hBUWRlSUhzdFJzdDFyXzZPTFRyNExiaEQ5cDZXYmdqU0tRek10bnJjaVcxNmluRmpqcTktdndRM0fSAdIBQVVfeXFMTXQ3Vm1BM1pGYUh5bWN3cVY4bWRMdEw4WTZXbVhQLTFmVkRuN3ZYalpzQkwyVk1fZmJWSTJmbS1GNlZzX0FtdnBuZXotLTlfZTczTldlbTJrWHRiZ2JQczJyR3Iyb3A2Z25MQ3QwUXFOelRpX0tzcG5rc1k3SnhVeHlXLWh0ZmM2ZFJTZkRfQzE3SXdWNWFhNnZqNUJPd2xQcFBGVFR4Q2tvTjNhYjU5Qzh6TUZFeVN2YTRSVmlfdzNiOHZWVi1hWjdhR0lXSkp6SE9B?oc=5",
+      "pub_date": 1763994878.0,
+      "article_url": "https://www.theblock.co/post/380159/largest-ethereum-treasury-bitmine-invests-another-200-million-addresses-recent-eth-price-decline",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Offchain Labs challenges Vitalik's RISC-V proposal, says WASM better for Ethereum L1",
       "source": "theblock.co",
       "source_url": "https://www.theblock.co",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUZLbWdKaklRcFkya19mTlBVZldlUDA5czhfNXJBMGxnSW5Fd1BpOWJOWUVlRXpjTHMwSHhVbUdVX1NQMmYtTG9fY2xDdE56TXd4RVVvWGJMR1ZCaGxlcXFjMnY5OGJyTzVnWW1TM2tudlc3TklROXRIVEtIV01wS2M2MEg5aFhhXzlPV0htVlh3TmVTdklPdXc5X0tqX2dyX09zV0NTWUYwXzVSQXZQZE1ZdXhnZ0lqN2fSAb8BQVVfeXFMTTczOEZJaVFDYTlDNXMxcVBFM2thZDNNam95MHhmTnBaUXVHWnNSZnNsNzFkTlFFdzZDM2JONmxoTmNBMFVxNEt2ZXhXdUJnLTFEWGx1c2tLSE1UQk1BQzhldzNhMGc4bVNfd1E5STNEWGo4TDczQ1Z2NS1fQW5CaXlTWUJuajM5cW1WLXcxbWZGRUFUakIzS1VYRFBBUDlwZWEwa0VSV0VnQnJXQy1oN05BU0ZXYW9DSVQtRmFIdFE?oc=5",
       "pub_date": 1763931335.0,
       "article_url": "https://www.theblock.co/post/380070/offchain-labs-challenges-vitaliks-risc-v-proposal-says-wasm-better-for-ethereum-l1",
-      "image": "https://www.tbstat.com/wp/uploads/2024/07/20240724_Ethereum_News_3-1200x675.jpg",
-      "description": "The researchers argue WASM, which has been battle-tested across billions of execution environments, is a better long-term bet than RISC-V."
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Is XRP or Ethereum More Likely to Be a Millionaire Maker?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTJfa1I0RVRTc3BWXzVCWGE3clVTZUE5NzZRVVpaZzF1U3FHcFAwYnNXeFdhZEhVZElaSjNDSUxTWGhzY2IzU3VaNG5tM3REZ1dSdzRKT2FycHdHMlRobUc2aUJ4S1pnYm04LUw3VXBFM2pmdUdzVUhCdDA5NFJBWWNXQldyWlRnX04tZXFRdUZiMXRnWEwzeA?oc=5",
-      "pub_date": 1763856000.0,
-      "article_url": "https://www.fool.com/investing/2025/11/22/is-xrp-or-ethereum-more-likely-to-be-a-millionaire/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F842225%2Ftrader-investor-screens-chart-graph-stocks-finance.jpg&w=1200&op=resize",
-      "description": "These two leading blockchains are very different in their ambitions."
-    },
-    {
-      "headline": "Ethereum Explorer Etherscan Locks Avalanche, Base, BNB Behind Paywall as Network Demand Explodes",
+      "headline": "Tom Lee Says Bitcoin, Ethereum Crash Wasn't Macro But A 'Software Bug'",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ2NQNVBjR3lfcHJqTURzanUzY2tfc0xNMWpPelRRbFdXMjVmZlJGNTcyTWN0b3pjOUZCdUxHRkw1U1VMOFBNNEVBaFRCcHd2aUJiZEFPa0VPNldJZE91RU5meTkxTVpmZkxHd19Jb2c2bG9VX0RrajFVU1l4YXVMUV9kaUlINlJpVkpmY1B4LWxBZzg?oc=5",
-      "pub_date": 1763994735.0,
-      "article_url": "https://finance.yahoo.com/news/ethereum-explorer-etherscan-locks-avalanche-143215634.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/vf6H77_Fz3LVQbetlSN8rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/144cca83f8cce911122d1d7d7a794556",
-      "description": "Etherscan has curtailed free API access. Avalanche, Base, BNB, and OP are no longer supported. The firm blamed increased on-chain activity for the \u201cdifficult decision.\u201d ..."
-    },
-    {
-      "headline": "Bitmine Immersion: A High-Octane Vehicle For Ethereum Believers That Will Benefit From Staking",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaG1adF9ub3gzMDgwdWNmOXZzNmhsUmlUMmljdWhOZXB4UVZ1WjFzbGdWMFU3TjZ6SUFnZzJHT0xtNmpMLS1Za3BuS2kyakFTdDFNQTM1N2tWVDZmb0JmZGo1RVpkOW1jb2VmS0taSGk4SHhpWlZHSUh1ZkNHWGRzaVBrLXB0NkJRbnhyRlk3SWhjMmdHa0JGc19pN1RJVGxKN2RUQldZc2pKdFVDNU55eW1aRExwR1NNalE?oc=5",
-      "pub_date": 1763991900.0,
-      "article_url": "https://seekingalpha.com/article/4847060-bitmine-immersion-bmnr-high-octane-vehicle-ethereum-believers-benefit-staking",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1336958337/image_1336958337.jpg?io=getty-c-w1536",
-      "description": "BitMine grows as an Ethereum treasury with FY25 strength, MAVAN staking, NAV discount, dividend, and high-upside ETH exposure. See why BMNR stock is a buy."
-    },
-    {
-      "headline": "Will Ethereum's December Update Lead Crypto Rebound in 2026? Bitwise's CIO Thinks So",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORld6ZkYteHZ1dmg2empXY0NrRVN2anFGYWtzdk1ySG9uR0o4RTRFd1BkeUExR3Q2cGlpSHVtYW82cG5wbkxLbTlGVEljUl9GbnozVDF6ZTZWS3hwcDgxd0E3UHpLX1hna1Nfeko4V3lVQldySnpQS3Vpa2xXbU5UdkdGNHpmV2JXa0g5cg?oc=5",
-      "pub_date": 1763993835.0,
-      "article_url": "https://finance.yahoo.com/news/ethereums-december-lead-crypto-rebound-141715425.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/5kLq8USfZKE52DhvtQuUZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/34bffa290d2db64836f22946e44ee4d0",
-      "description": "Ethereum\u2019s December Fusaka update could significantly increase network revenue, says Bitwise CIO. Hougan highlighted UNI and XRP as examples of a shift to more economically ..."
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVVYbHV6ZFZ3Z0pJYWgwYlhLNmNFaklON0otbl9CWUlpVXhfVU5HeHV2TnZ3UFd6MGUyU0VETzAzdDhxVVE2bktzSFBxaGpoamhVZ2VNRC1meDdyRlpxdnVxQmZlR3JyUUQ0NkpjZmdEajFwV2FMM3BkOUFlakpOMw?oc=5",
+      "pub_date": 1763811985.0,
+      "article_url": "https://finance.yahoo.com/news/tom-lee-says-bitcoin-ethereum-114625645.html",
+      "image": "https://media.zenfs.com/en/benzinga_79/55dc40160a5a2d9761aae05dabcccc49",
+      "description": "Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) breaking below key support levels has sparked debate over whether fundamentals are to blame \u2014 but Fundstrat's Tom Lee argues the real culprit is far more mechanical. What Happened: In an interview with ..."
     },
     {
       "headline": "\ud83d\udea8 BREAKING: SWIFT Chooses Ethereum Layer-2 #Linea Over XRP for 2025 Cross-Border Payment Pilot In",
@@ -65,6 +45,36 @@
       "description": null
     },
     {
+      "headline": "Is XRP or Ethereum More Likely to Be a Millionaire Maker?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTJfa1I0RVRTc3BWXzVCWGE3clVTZUE5NzZRVVpaZzF1U3FHcFAwYnNXeFdhZEhVZElaSjNDSUxTWGhzY2IzU3VaNG5tM3REZ1dSdzRKT2FycHdHMlRobUc2aUJ4S1pnYm04LUw3VXBFM2pmdUdzVUhCdDA5NFJBWWNXQldyWlRnX04tZXFRdUZiMXRnWEwzeA?oc=5",
+      "pub_date": 1763856000.0,
+      "article_url": "https://www.fool.com/investing/2025/11/22/is-xrp-or-ethereum-more-likely-to-be-a-millionaire/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F842225%2Ftrader-investor-screens-chart-graph-stocks-finance.jpg&w=1200&op=resize",
+      "description": "These two leading blockchains are very different in their ambitions."
+    },
+    {
+      "headline": "Will Ethereum\u2019s December Update Lead Crypto Rebound in 2026? Bitwise\u2019s CIO Thinks So",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGNGQVFya29zRjNaejdwbzB6bXpxV3d5THZYODBlVWU1N3NqOHVqZHhDLUlnT2RhT2ZEeVRLWlJ6eDFDVG4tNUQ3RC1jdXJmWDR3eFFUb2g4bk40amp1NmFZeFVvSGxVQThVTDJoeEg4ZVE3ZUJnUVRiYUlQLUhabE5qTEo3VmxNaDA2THdrMFFkZw?oc=5",
+      "pub_date": 1763993835.0,
+      "article_url": "https://www.ccn.com/news/crypto/will-ethereums-december-update-lead-crypto-rebound-2026/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "$344 Million in Minutes: BlackRock Dumps Bitcoin and Ethereum Again",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcU5Rc2dXazU4UGd1TFNsLUUwRklKSHVGSkpEVjMzVEd0M0JJa213VTViakdkTnA2N3RwWFQ4M21IbmlNNTlTWVlmZXhBN2tMaFFvSjE2U3M5bXJSUG5VUlB6T001dkVPT2J6UjE2QUdvZ256cW5FQlpoaWdPNE9yekRFUjd4WEpMV2xBMEhfRUJtYXI2WHpaeTRvZndVclpwWkJOSnBITmJyTFREekFSMGo3RXFQVTdXMHUzcGdycnQ?oc=5",
+      "pub_date": 1764007027.0,
+      "article_url": "https://www.tradingview.com/news/u_today:c859a922f094b:0-344-million-in-minutes-blackrock-dumps-bitcoin-and-ethereum-again/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "BlackRock might not be slowing down on its aggressive crypto deposits anytime soon, as data from on-chain monitoring firm Lookonchain shows that the firm has offloaded another massive amount of Bitcoin and Ethereum today.According to the data source, the leading asset management firm made another m\u2026"
+    },
+    {
       "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH, and XRP rebound after recent downside pressure",
       "source": "FXStreet",
       "source_url": "https://www.fxstreet.com",
@@ -75,14 +85,14 @@
       "description": "Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week with a modest recovery on Monday after last week\u2019s massive correction. These top three cryptocurrencies are holding above their key support levels, suggesting recovery continuation."
     },
     {
-      "headline": "Ethereum Golden Pocket In Play \u2013 Can ETH Turn The Tide Above $2,800?",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczI2ZHlzcHlsTG1UaEhuNnRXZHFUNWxvWThEQnB3NHVqXzQtZTBvZWVTLWQ4SjlESjA5b3VScGhxam5fRHFJRnM2VWVWeWQwMG93SzB6TVdSbDFaVk80LTluRWhPcGRlQnJXQUJaSnB5VFZLSVh1Z3hQNVNiMFBDYzhsYTlhUEtLeXp3c1JPNWhSSW51R3RaQzNnbkJ1ZWJrMXFWMXo4bzhZOXZBWDhwT0tEdEwzNEdaSDc3VTFLZw?oc=5",
-      "pub_date": 1763839842.0,
-      "article_url": "https://www.tradingview.com/news/newsbtc:564a0b07d094b:0-ethereum-golden-pocket-in-play-can-eth-turn-the-tide-above-2-800/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Ethereum is testing a critical juncture as the golden pocket between $2,600 and $2,800 comes into play. With resistance looming at $2,800, the market now faces a pivotal moment. Can ETH reclaim this level and spark a move toward $3,000, or will sellers push it back below key support?Golden Pocket B\u2026"
+      "headline": "Whale Buys and Fusaka Upgrade Send Ethereum Surging Into Focus",
+      "source": "Coinpaper",
+      "source_url": "https://coinpaper.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObktZX3kzbXR5cVdqN3VNa0x3SXVQU2xESlJFcHYzSU8tSWVQcWY3ak1HWlNNanVsU1FLQzE3Nk1GazVUVldqWjJCaGo3c1JyZmFvWVVhaHdCNi1yYzVNWmF2YjFsWFF5REtVQU51am9rVlFJc1NaUTVzeHhZcFN2cFNrR1RQUzI3OVpvNThPVVZKaU52?oc=5",
+      "pub_date": 1763896853.0,
+      "article_url": "https://coinpaper.com/12560/whale-buys-and-fusaka-upgrade-send-ethereum-surging-into-focus",
+      "image": "https://res.coinpaper.com/coinpaper/image/upload/v1763896583/cp6225_Ethereum_coin_overlaid_with_a_holographic_inverse_head_a_1003f009_c900_426f_987b_5669dfc9afd1_7eaeb7ff2a.png",
+      "description": "Ethereum sees BitMine whale buy, Fusaka upgrade schedule and key support bounce as charts outline possible post-upgrade upside."
     },
     {
       "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
@@ -93,18 +103,8 @@
       "article_url": "https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-more-likely-be-millionaire-maker",
       "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
       "description": "Key PointsOver the past decade, Bitcoin has been the top-performing asset in the world."
-    },
-    {
-      "headline": "Tom Lee Says Bitcoin, Ethereum Crash Wasn't Macro But A 'Software Bug'",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVVYbHV6ZFZ3Z0pJYWgwYlhLNmNFaklON0otbl9CWUlpVXhfVU5HeHV2TnZ3UFd6MGUyU0VETzAzdDhxVVE2bktzSFBxaGpoamhVZ2VNRC1meDdyRlpxdnVxQmZlR3JyUUQ0NkpjZmdEajFwV2FMM3BkOUFlakpOMw?oc=5",
-      "pub_date": 1763811985.0,
-      "article_url": "https://finance.yahoo.com/news/tom-lee-says-bitcoin-ethereum-114625645.html",
-      "image": "https://media.zenfs.com/en/benzinga_79/55dc40160a5a2d9761aae05dabcccc49",
-      "description": "Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) breaking below key support levels has sparked debate over whether fundamentals are to blame \u2014 but Fundstrat's Tom Lee argues the real culprit is far more mechanical. What Happened: In an interview with ..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T17:29:53.173880+00:00"
+  "fetched_at": "2025-11-24T18:39:52.792876+00:00"
 }
