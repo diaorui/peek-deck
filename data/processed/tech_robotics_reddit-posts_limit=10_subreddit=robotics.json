@@ -2,17 +2,6 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "MagicLab Z, a bipedal humanoid shows his agility",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1p4lg88/magiclab_z_a_bipedal_humanoid_shows_his_agility/",
-      "published": 1763900621.0,
-      "thumbnail": "https://external-preview.redd.it/czd4bHU5d3kwMDNnMblU5K_C_dAkX7Cdnie-bEA-6uVVUIN14c1W8w-oCHlT.png?width=640&crop=smart&auto=webp&s=6e0a66ef212462fa183644c24bcda242c9f3cb14",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "MagicLab website: https://www.magiclab.top/en From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1991895323246219551"
-    },
-    {
       "title": "What would you use it for?",
       "author": "Full_Connection_2240",
       "url": "https://www.reddit.com/r/robotics/comments/1p5a9r2/what_would_you_use_it_for/",
@@ -22,6 +11,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Trying to get some ideas to make a demonstration of its potential capabilities.. Or even just your thoughts on it's design! Thanks :) https://www.youtube.com/watch?v=qawYP6E3znw"
+    },
+    {
+      "title": "MagicLab Z, a bipedal humanoid shows his agility",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1p4lg88/magiclab_z_a_bipedal_humanoid_shows_his_agility/",
+      "published": 1763900621.0,
+      "thumbnail": "https://external-preview.redd.it/czd4bHU5d3kwMDNnMblU5K_C_dAkX7Cdnie-bEA-6uVVUIN14c1W8w-oCHlT.png?width=640&crop=smart&auto=webp&s=6e0a66ef212462fa183644c24bcda242c9f3cb14",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "MagicLab website: https://www.magiclab.top/en From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1991895323246219551"
     },
     {
       "title": "Trying to look for the closed form analytical solution for this Amazon bought robotic arm",
@@ -44,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Full video: https://youtu.be/D_eXUkDf7UU?si=9JL-OhVQXgD1X8pv"
+    },
+    {
+      "title": "Breaking into Humanoid Controls from Vehicle Controls",
+      "author": "Turbulent_Leek8446",
+      "url": "https://www.reddit.com/r/robotics/comments/1p5ckqc/breaking_into_humanoid_controls_from_vehicle/",
+      "published": 1763976219.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Macbook Air M4 for Engineering? (robotics mainly)",
@@ -99,18 +110,7 @@
       "site_name": "Google Docs",
       "favicon": "https://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
       "description": "Hi everyone, I\u2019m Swalihu, a ROS/robotics engineer and founder of SeekSense, a small UK startup exploring semantic navigation for indoor mobile robots. I\u2019m running a short 3\u20134 minute survey to understand how teams currently support tasks like: \u2013 \u201cfind this specific trolley/cart/tool/asset\u201d \u2013 \u201cgo to the visitor kiosk in atrium B / bed 12 in ward C\u201d in warehouses, hospitals, labs and campuses \u2013 and how painful these behaviours are to maintain over time. The context: we\u2019re experimenting with a training-free semantic navigation API (vision\u2013language + mapping + frontier selection), and I\u2019d like to sanity-check whether this is solving a real problem for people deploying ROS/ROS 2 systems. If you\u2019re working with AMRs, AGVs, hospital/campus robots, mobile manipulators or research platforms, and can spare a few minutes. Responses are aggregated and anonymised. With your permission, I may use the results as part of the market-research evidence for a UK Innovator Founder Visa application, and I\u2019m happy to share a short summary of the findings back here once we\u2019ve collected enough data. https://www.seeksense-ai.com/"
-    },
-    {
-      "title": "Laws of mBotics : Part 3",
-      "author": "sierrahighcoo",
-      "url": "https://www.reddit.com/r/robotics/comments/1p4l5qp/laws_of_mbotics_part_3/",
-      "published": 1763899687.0,
-      "thumbnail": "https://external-preview.redd.it/dGlveHNvcGR6ejJnMRXI4obYmEqYNMkEKM6Hy5WveFtry4ahIfu16Zi3tlnD.png?width=640&crop=smart&auto=webp&s=9ff13e4022550b272ff95863d563b63e61a0ce02",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-11-24T09:15:39.948964+00:00"
+  "fetched_at": "2025-11-24T09:54:14.788786+00:00"
 }
