@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Here's why concerns about an AI bubble are bigger than ever",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0dyS2I4eFprMm1QTVFnai16TjlvNTN0VVcyakdFWUlnaG9mcGhlc1NPVzRLRU4zamhzS0dyRlV0a05RQk40bDVVb0tfU09COG03TWFBSFJMQlpvXy1FZ2NQY0U0azFsZjF1NThUZmV5VzJKSmhDZDBBdHg5S3NsRFJLV0ZvSjVlYXFIVWJieE80NW01MlRFVGZB?oc=5",
-      "pub_date": 1763892000.0,
-      "article_url": "https://www.npr.org/2025/11/23/nx-s1-5615410/ai-bubble-nvidia-openai-revenue-bust-data-centers",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6570x3696+0+342/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F1c%2F8fb36bab4460ad7d24569abf921a%2Fgettyimages-2192213324.jpg",
-      "description": "Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there's a bubble that will soon pop."
-    },
-    {
       "headline": "The surprising issue driving a wedge between Trump and his MAGA base",
       "source": "The Washington Post",
       "source_url": "https://www.washingtonpost.com",
@@ -23,6 +13,16 @@
       "article_url": "https://www.washingtonpost.com/technology/2025/11/23/trump-maga-division-tech-ai/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Here's why concerns about an AI bubble are bigger than ever",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0dyS2I4eFprMm1QTVFnai16TjlvNTN0VVcyakdFWUlnaG9mcGhlc1NPVzRLRU4zamhzS0dyRlV0a05RQk40bDVVb0tfU09COG03TWFBSFJMQlpvXy1FZ2NQY0U0azFsZjF1NThUZmV5VzJKSmhDZDBBdHg5S3NsRFJLV0ZvSjVlYXFIVWJieE80NW01MlRFVGZB?oc=5",
+      "pub_date": 1763892000.0,
+      "article_url": "https://www.npr.org/2025/11/23/nx-s1-5615410/ai-bubble-nvidia-openai-revenue-bust-data-centers",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6570x3696+0+342/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F1c%2F8fb36bab4460ad7d24569abf921a%2Fgettyimages-2192213324.jpg",
+      "description": "Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there's a bubble that will soon pop."
     },
     {
       "headline": "Alibaba\u2019s Main AI App Draws 10 Million Downloads in Strong Debut",
@@ -35,32 +35,32 @@
       "description": null
     },
     {
-      "headline": "Salesforce CEO Marc Benioff has a 'Holy S---' AI moment",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXBLZ3N6YlItRGN4YXBsa0tMajN2OUpBQ3NXX1RCR0JkUUduNFdIa3VKaXc3YVAzS2xweEhEbjRxQmhpc3I0cWhybFRpQmZtQ1pOaDBnRXV0dFZKdml3ZTlkTFY5X09sNHlucXU4Wk5BVURsMlhERVZ3eE1yOHJhUWNidjI0VFhXTjluN0lwVHdxUQ?oc=5",
-      "pub_date": 1763950455.0,
-      "article_url": "https://seekingalpha.com/news/4525172-salesforce-ceo-marc-benioff-has-a-holy-s-ai-moment",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2213029533/image_2213029533.jpg?io=getty-c-w630",
-      "description": "Salesforce CEO Marc Benioff gave a big endorsement to Alphabet's (GOOG) (GOOGL) latest AI model Sunday."
+      "headline": "In Graphic Detail: Inside the growing rift between AI efficiency and audience trust",
+      "source": "Digiday",
+      "source_url": "https://digiday.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSXI3cnlKei1MRFBob0luVGVwLXh6QTBVM3Q0TC1iT256d056OEdkYklwb1dndHVDbmgyZkZRbndUQ1FLcF9Id2J3d082UGFlMTRMSmxnNjRiUkxkOHZRLXR0ejNGN3REa3NQVU90Y1B2TnJGdnBHWmF2blJYWXhwdTdQOTc5NkNyOGc0ZXU2SEhpRnd3ZEFjSzUwVmFmUjJFbmFQMFkxQzcwZw?oc=5",
+      "pub_date": 1763960658.0,
+      "article_url": "https://digiday.com/marketing/in-graphic-detail-the-growing-rift-between-ai-efficiency-and-audience-trust/",
+      "image": "https://digiday.com/wp-content/uploads/sites/3/2025/11/ai-creators-slop-digiday.jpg",
+      "description": "What follows are five charts that ground where the debate stands as the year winds down."
     },
     {
-      "headline": "Lenovo Stockpiling PC Memory Due to \u2018Unprecedented\u2019 AI Squeeze",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeEFuTW83YUVZUGRGUEc4WHRXb29WemNGYjdGV1R5cDdIWEJpc0xqVDkyTjdqald5cm9YcjEybFlFLXJONld3QUd3YV95VTRmTmozajJfcFc5c2pzd1ptOTUybmtSSHkxUGVpQmEyNmUzc3dPeTBtdzM4aVF6LW83TXBFWEhOS3pfYWdMTmRkazc1dXZMczZiUTNyXzc3Y2tGWGR1MUF2VkNDOVR5cUk3ZQ?oc=5",
-      "pub_date": 1763951880.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-24/lenovo-stockpiling-pc-memory-due-to-unprecedented-ai-squeeze",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipHl7.1Ev7RI/v0/1200x800.jpg",
-      "description": "Lenovo Group Ltd. is stockpiling memory and other critical components to navigate a supply crunch brought on by the boom in artificial intelligence."
+      "headline": "Elon Musk says Tesla is hiring for a big chip push \u2014 and he's involved in twice-weekly meetings",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVzRxUVRHSHFySHk1UjlTR1FmRkk3U2xwdzJ1M1VLY0FpRi1CSVgtTWs1bkxhS1BReHNWdGtNb3djS216RFdjeDNhZjZOVlNvNDVHZEZxanY4a2ZQb3dBS3ppdHNwRkg1Z3A4djdLWmZyaWs1YndkbkpXMDZ3eWJwX1llek85ZmlGZXE5TmtRM2tXOUNEdDJyTmN3WFZzcWh5QmpJ?oc=5",
+      "pub_date": 1763961540.0,
+      "article_url": "https://www.businessinsider.com/tesla-hiring-ai-chip-elon-musk-deeply-involved-design-meeting-2025-11",
+      "image": "https://i.insider.com/6923d8a9e1a9cbb014dece5a?width=1200&format=jpeg",
+      "description": "Tesla is hiring engineers for its AI chip team, and Elon Musk says he's \"deeply involved\" in the design work, meeting with engineers twice a week."
     },
     {
       "headline": "Opinion | The First Large-Scale Cyberattack by AI",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNcGlNOUVxM0ttUHRxU2ExcGJGTHlxSEllLTczS3l6bXloNFBZUDBXTHh3WU5NTnlUaXF0SEJoUkVUUy1fbE0zZUNUcU92OElDbjhxVG8yNmlVQnJTaFUtMVVaUGxuOXAtQ2ZPcm5zUkFyVnFuUGdXeWdycXR4VUdGejBNcjN2NG9fTG9rZVZiaHZGc3ptVWYzaTN5YjBxZXo3U1VrcTZib1p1MkRzcHhuQXFsNmUxRUdMMjZucDkzbHFSWWJGSmJ3bktGd1N0cVJVbWxPTWt4VUVvOTF1eW5qQkdsLXBucG1sdXlhemtfa0tRUmE0d0VZRFJkLWpfeWg5cnd5b0FQak5yY0I1dG1tdWE3UmdOTE9HeS1hZUxxOTlzV2xDX2twaHYtUkZWRHVIRG1UMVBFZVE1Y1dSZGZ0cXN6VlE0R25UZkg5M3VlR0N4c3hVdVotRDJkWlVOV0Y2UTdMZjVuUTRJZ2xjdkVkVllReEdPNHVUTWt6TmVTRU5McWVxbktZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNVWFxbGVCNFdSZ0tCXzBzUkRDeWIzekp2Y2hpMHpWdjFJU2ttMVVpMVdrb0NGOWJhN1hzY0pWeVQzSUtvdTdNdG1zck94Y1JOdzNySWgyZDI1NF9PMnZaR3RGT0VRQkdYclRhOTA0UU1WLVZFQkNfSnpqbk9zM2xwWGRFX2Nvb3BvckY0SUp2T3U4b3Vab3RpRXBFTERiMDI1RVEzWjJCX0NQMHYtX3BjVXFCcDRqMWFuQ0hmekZqQm8waE9YczNia3ZQbVktN3c1WDAzMHZvU2Z3OUxIOU50eXFNNHF6ZS1RSUdEUDBlZ3NsbFVBVWNyTjFTSjJxTTdXOUlUaHYzbXVaNndhbHdKN1drcloxYVFzQ1hvSFZjSUJJcGtrYVNzX0ZQbVhZUTR5YzFJTkY1QUVCNWoyaG9PUmN6bmVNZ0U5dGNGTjh3Ylp1d0l1ZUYxVXdiZmJVVUZnbno3bXJqam56bjRzR3lQRjgyRmFGNlpmMm5ub3VFa3FCa3psRWhr?oc=5",
       "pub_date": 1763917380.0,
-      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqddst1hV-3FGlU9vU3OZVgVyhr5G57KrfRodt34KnuEQaPOXtZkJN0H&gaa_ts=6923e66d&gaa_sig=DyQMWmjuPrz8EMm3KK8HFH2zJky7sfa9hAdmzLMZrzwyZsRtGNlPvktI4Mdwl0fkqO7-bnXKLrqHQG9OO2396w%3D%3D",
+      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqfwq8eTj4nBfphnEyife3PzWwcd90wRUOs8UoDaf-5QTqTSmyVhcBLV&gaa_ts=6923f158&gaa_sig=YCqfZK93RtKy0n4cyBH7HwYNs0BaHFD0aA64WcXZk_e4yRFyK_1A30umYGUH1yJy2FRrHRz0yco1bzOfb_Rvzw%3D%3D",
       "image": null,
       "description": null
     },
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T04:45:54.037468+00:00"
+  "fetched_at": "2025-11-24T05:32:26.928784+00:00"
 }

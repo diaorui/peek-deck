@@ -57,15 +57,26 @@
       "description": "I tried building a small Python project recently with AI help, and it made the whole thing way less intimidating. Now I\u2019m trying to figure out which AI coding assistant is actually worth sticking with. Claude is great at explaining concepts, GPT feels better at reasoning through tricky logic, and I\u2019ve seen Sweep AI pop up for people who want project-level help directly inside JetBrains instead of switching back and forth with chat. Which model or tool gave you the best balance between learning, accuracy, and speed? And do you feel like it improved your actual understanding of coding over time?"
     },
     {
-      "title": "Don\u2019t Expect AI To Disrupt Google\u2019s Monopoly on Search",
-      "author": "bloomberg",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4t8q8/dont_expect_ai_to_disrupt_googles_monopoly_on/",
-      "published": 1763920654.0,
-      "thumbnail": "https://external-preview.redd.it/XKfA4DUMImruvRlB9z8r2zqs1DENlRg8_v1w_XD5PF8.gif?width=640&crop=smart&s=ff3de7afc0a44da6f1aeaf59cd4b9f257118d666",
-      "external_url": "https://www.bloomberg.com/news/articles/2025-11-21/the-google-antitrust-ruling-shows-how-ai-could-protect-big-tech",
-      "site_name": "bloomberg.com",
+      "title": "In tweaking its chatbot to appeal to more people, OpenAI made it riskier for some of them",
+      "author": "tekz",
+      "url": "https://www.reddit.com/r/artificial/comments/1p58lkv/in_tweaking_its_chatbot_to_appeal_to_more_people/",
+      "published": 1763961492.0,
+      "thumbnail": null,
+      "external_url": "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html?unlocked_article_code=1.3U8.aLI0.rvBtjMyLr560&smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb",
+      "site_name": "nytimes.com",
       "favicon": null,
-      "description": "A judge said artificial intelligence would upend Google\u2019s dominance, but two new books argue that monopolies rarely fix themselves."
+      "description": "It sounds like science fiction: A company turns a dial on a product used by hundreds of millions of people and inadvertently destabilizes some of their minds. But that is essentially what happened at OpenAI this year."
+    },
+    {
+      "title": "What to know about \u2018AI psychosis\u2019 and the effect of AI chatbots on mental health",
+      "author": "Morganrow",
+      "url": "https://www.reddit.com/r/artificial/comments/1p58k7w/what_to_know_about_ai_psychosis_and_the_effect_of/",
+      "published": 1763961364.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://www.pbs.org/newshour/amp/show/what-to-know-about-ai-psychosis-and-the-effect-of-ai-chatbots-on-mental-health AI was a mistake"
     },
     {
       "title": "Top Economist Warns That AI Data Center Investments Are \"Digital Lettuce\" That's Already Starting to Wilt",
@@ -90,27 +101,16 @@
       "description": "Elon Musk vs Star Wars Droids"
     },
     {
-      "title": "Insurers retreat from AI cover as risk of multibillion-dollar claims mounts",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4o8k5/insurers_retreat_from_ai_cover_as_risk_of/",
-      "published": 1763908624.0,
-      "thumbnail": "https://external-preview.redd.it/VI69wj-fNYNB_eDwDO58YP3302jvU2Z4KWR-75UfDus.jpeg?width=640&crop=smart&auto=webp&s=e36e68fe442d77a480bae4fb4dd48f1e5bd6449c",
-      "external_url": "https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62",
-      "site_name": "ft.com",
-      "favicon": "https://images.ft.com/v3/image/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=page-kit&format=png&width=180&height=180",
-      "description": "AIG, Great American and WR Berkley seek permission to limit liability from AI agents and chatbots"
-    },
-    {
-      "title": "One Final Post for the Day",
-      "author": "Agent101x",
-      "url": "https://www.reddit.com/r/artificial/comments/1p505sq/one_final_post_for_the_day/",
-      "published": 1763937371.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
+      "title": "Don\u2019t Expect AI To Disrupt Google\u2019s Monopoly on Search",
+      "author": "bloomberg",
+      "url": "https://www.reddit.com/r/artificial/comments/1p4t8q8/dont_expect_ai_to_disrupt_googles_monopoly_on/",
+      "published": 1763920654.0,
+      "thumbnail": "https://external-preview.redd.it/XKfA4DUMImruvRlB9z8r2zqs1DENlRg8_v1w_XD5PF8.gif?width=640&crop=smart&s=ff3de7afc0a44da6f1aeaf59cd4b9f257118d666",
+      "external_url": "https://www.bloomberg.com/news/articles/2025-11-21/the-google-antitrust-ruling-shows-how-ai-could-protect-big-tech",
+      "site_name": "bloomberg.com",
       "favicon": null,
-      "description": "I'd like to introduce you to some friends of mine. Some work in film. (Action required: Go to the movies in the theater) Some work in art. (Action required: Go to museums) Some work in the valley. (Action required: partner where you can) Some work magic. (Keep shining) Some score one goal in their whole life. (Captain #6) It's worth living & thriving. (Your roommate can be the best person you've ever met) Miss you, BaaBaa. (Vroom Vroom)"
+      "description": "A judge said artificial intelligence would upend Google\u2019s dominance, but two new books argue that monopolies rarely fix themselves."
     }
   ],
-  "fetched_at": "2025-11-24T04:45:30.471245+00:00"
+  "fetched_at": "2025-11-24T05:32:10.282449+00:00"
 }
