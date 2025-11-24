@@ -13,17 +13,6 @@
       "description": "The chipmaker\u2019s website touts its work with companies like ZTE, which has been effectively banned from selling its products in the U.S. over national security concerns."
     },
     {
-      "title": "A Research Leader Behind ChatGPT\u2019s Mental Health Work Is Leaving OpenAI",
-      "author": "wiredmagazine",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5e55i/a_research_leader_behind_chatgpts_mental_health/",
-      "published": 1763982060.0,
-      "thumbnail": "https://external-preview.redd.it/Ot1hMbfRMe9i5EOvw0gUAVydtYTuJa7hxVR-VaLanWs.jpeg?width=640&crop=smart&auto=webp&s=a374752d38abac97abd8b027f67d844a7a67cb65",
-      "external_url": "https://www.wired.com/story/openai-research-lead-mental-health-quietly-departs/",
-      "site_name": "WIRED",
-      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
-      "description": "The model policy team leads core parts of AI safety research, including how ChatGPT responds to users in crisis."
-    },
-    {
       "title": "Industrial Masturbation",
       "author": "photonymous",
       "url": "https://www.reddit.com/r/artificial/comments/1p5l2yq/industrial_masturbation/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Imagine a future where a supply chain of AI and automation companies emerges that primarily serve each other. For example, AI-Corp sells optimization software to RoboFleet for its autonomous trucks, which deliver servers to DataCenter Inc, which provides computing power to train AI-Corp's next models. MiningBots extracts materials for SensorNet, which provides sensors to RoboFleet, which transports materials for MiningBots. Each company becomes more productive over time by leveraging AI more and more... producing more goods and services, processing more data, and extracting more resources. And as a result, the economy appears to boom from these massively increasing business-to-business (B2B) transactions. The insidious nature of this loop is that it can grow exponentially while barely touching the regular human economy. Each cycle, the AIs optimize further, the robots work faster, and the dollar amounts multiply, but this \"growth\" just circulates among the companies and their wealthy shareholders, who reinvest rather than spend. The companies need only a handful of humans for their operations, and sell only a tiny fraction of output to regular consumer markets. The loop would eventually become self-sustaining: robots mining materials to build servers to train AIs to optimize robots... GDP could grow by insane amounts (such as 10x per year!) while human wages and living standards remain flat, or worse. This is an economic version of the paperclip maximizer problem, but instead of an AI converting everything into paperclips, we get an economy that converts all productive capacity into self-referential B2B transactions. The system isn't malicious, it's just optimizing itself for its own interests (growth/profit). Politicians may celebrate the booming economy and stock market, while ordinary people wonder why life isn't improving. The trillions of dollars recently shoveled into AI investments will pay off spectacularly, as companies sell to each other in an ever-accelerating cycle, while humans become economically irrelevant. We will be cast to the sidelines, disconnected from an economy that forgot its original purpose. If we allow this trajectory to take hold, the market's invisible hand will drive the economy to explosive heights, serving nothing but itself in the process. So, am I missing something? Is this plausible? Possible? Likely? Or in some weird way, are we already there? I'm curious to hear what people think. It seems dangerous, and I'd like to know what we (humanity) can do to prevent this bad outcome."
+    },
+    {
+      "title": "A Research Leader Behind ChatGPT\u2019s Mental Health Work Is Leaving OpenAI",
+      "author": "wiredmagazine",
+      "url": "https://www.reddit.com/r/artificial/comments/1p5e55i/a_research_leader_behind_chatgpts_mental_health/",
+      "published": 1763982060.0,
+      "thumbnail": "https://external-preview.redd.it/Ot1hMbfRMe9i5EOvw0gUAVydtYTuJa7hxVR-VaLanWs.jpeg?width=640&crop=smart&auto=webp&s=a374752d38abac97abd8b027f67d844a7a67cb65",
+      "external_url": "https://www.wired.com/story/openai-research-lead-mental-health-quietly-departs/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "The model policy team leads core parts of AI safety research, including how ChatGPT responds to users in crisis."
     },
     {
       "title": "Amazon's AI capacity crunch and performance issues pushed customers to rivals including Google",
@@ -55,17 +55,6 @@
       "site_name": "washingtonpost.com",
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Deep Research Agent, an autonomous research AI agent",
-      "author": "martian7r",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5j6o4/deep_research_agent_an_autonomous_research_ai/",
-      "published": 1763996249.0,
-      "thumbnail": "https://external-preview.redd.it/dWc0M3lxeGh5NzNnMXYKxvwpmRJR_6Wuut5rPoqfAX7yC2Fpp67_z2jaY8Dw.png?width=640&crop=smart&auto=webp&s=3f59eb430572d00541ce745fd0e16a97bdce4241",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Repository: https://github.com/tarun7r/deep-research-agent Most \"research\" agents just summarise the top 3 web search results. I wanted something better. I wanted an agent that could plan, verify, and synthesize information like a human analyst. How it works (The Architecture): Instead of a single LLM loop, this system orchestrates four specialised agents: 1. The Planner: Analyzes the topic and generates a strategic research plan. 2. The Searcher: An autonomous agent that dynamically decides what to query and when to extract deep content. 3. The Synthesizer: Aggregates findings, prioritizing sources based on credibility scores. 4. The Writer: Drafts the final report with proper citations (APA/MLA/IEEE) and self-corrects if sections are too short. The \"Secret Sauce\": Credibility Scoring One of the biggest challenges with AI research is hallucinations. To solve this, I implemented an automated scoring system. It evaluates sources (0-100) based on domain authority (.edu, .gov) and academic patterns before the LLM ever summarizes them Built With: Python, LangGraph & LangChain, Google Gemini API, Chainlit I\u2019ve attached a demo video below showing the agents in action as they tackle a complex topic from scratch. Check out the code, star the repo, and contribute"
     },
     {
       "title": "Unemployment could hit 25% among recent grads and trigger 'unprecedented' social disruption thanks to AI, U.S. senator warns",
@@ -110,7 +99,18 @@
       "site_name": "GamesRadar+",
       "favicon": "https://vanilla.futurecdn.net/gamesradar/1477279/apple-touch-icon.png",
       "description": "Ubisoft is using generative AI \"in all our studios and offices\""
+    },
+    {
+      "title": "In tweaking its chatbot to appeal to more people, OpenAI made it riskier for some of them",
+      "author": "tekz",
+      "url": "https://www.reddit.com/r/artificial/comments/1p58lkv/in_tweaking_its_chatbot_to_appeal_to_more_people/",
+      "published": 1763961492.0,
+      "thumbnail": null,
+      "external_url": "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html?unlocked_article_code=1.3U8.aLI0.rvBtjMyLr560&smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb",
+      "site_name": "nytimes.com",
+      "favicon": null,
+      "description": "It sounds like science fiction: A company turns a dial on a product used by hundreds of millions of people and inadvertently destabilizes some of their minds. But that is essentially what happened at OpenAI this year."
     }
   ],
-  "fetched_at": "2025-11-24T16:32:11.150121+00:00"
+  "fetched_at": "2025-11-24T17:29:36.982791+00:00"
 }

@@ -35,6 +35,17 @@
       "description": "MagicLab website: https://www.magiclab.top/en From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1991895323246219551"
     },
     {
+      "title": "TEMAS Pick & Place | Aruco + AI Depthmap",
+      "author": "Big-Mulberry4600",
+      "url": "https://www.reddit.com/r/robotics/comments/1p5h29d/temas_pick_place_aruco_ai_depthmap/",
+      "published": 1763990915.0,
+      "thumbnail": "https://external-preview.redd.it/F4wDCIMIDWuU0R2jcayoDHSrVUAG3XbZcOHfcaqGE94.jpeg?width=320&crop=smart&auto=webp&s=5041baa1735e56529ceb1d7cc5254ccd9f17556a",
+      "external_url": "https://youtube.com/shorts/24reR1AUCiU?feature=share",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/2731d6a3/img/favicon.ico",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
       "title": "How much longer would solid state batteries extend the operational time of humanoid robots for?",
       "author": "trucker-123",
       "url": "https://www.reddit.com/r/robotics/comments/1p5k37i/how_much_longer_would_solid_state_batteries/",
@@ -55,17 +66,6 @@
       "site_name": null,
       "favicon": null,
       "description": "It claims to be a 6DOF but it looks like it only has 5DOF. First image shows the assembled arm, and second shows the transforms diagram. We are trying to find closed form inv kinematics solution and looking to see if that's possible or we will need to try for a numerical approach instead? Any suggestions appreciated."
-    },
-    {
-      "title": "TEMAS Pick & Place | Aruco + AI Depthmap",
-      "author": "Big-Mulberry4600",
-      "url": "https://www.reddit.com/r/robotics/comments/1p5h29d/temas_pick_place_aruco_ai_depthmap/",
-      "published": 1763990915.0,
-      "thumbnail": "https://external-preview.redd.it/F4wDCIMIDWuU0R2jcayoDHSrVUAG3XbZcOHfcaqGE94.jpeg?width=320&crop=smart&auto=webp&s=5041baa1735e56529ceb1d7cc5254ccd9f17556a",
-      "external_url": "https://youtube.com/shorts/24reR1AUCiU?feature=share",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/2731d6a3/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     },
     {
       "title": "AI Robotics: What We Haven\u2019t Solved\u2026 Yet - New Podcast Episode",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-24T16:32:14.317613+00:00"
+  "fetched_at": "2025-11-24T17:29:40.831132+00:00"
 }
