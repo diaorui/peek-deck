@@ -8,9 +8,9 @@
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
-      "stars": 79570,
+      "stars": 79573,
       "stars_display": "79.6k",
-      "forks": 11827,
+      "forks": 11829,
       "forks_display": "11.8k",
       "language": "Jupyter Notebook",
       "topics": [
@@ -42,7 +42,7 @@
         "distributed",
         "hyperparameter-optimization"
       ],
-      "updated_at": "2025-11-24T12:54:07Z"
+      "updated_at": "2025-11-24T13:40:41Z"
     },
     {
       "full_name": "deepset-ai/haystack",
@@ -52,9 +52,9 @@
       "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
       "url": "https://github.com/deepset-ai/haystack",
       "preview_image": "https://repository-images.githubusercontent.com/221654678/1b75a35c-3d70-4dbe-bd6f-56fcc6c809e6",
-      "stars": 23459,
+      "stars": 23460,
       "stars_display": "23.5k",
-      "forks": 2490,
+      "forks": 2491,
       "forks_display": "2.5k",
       "language": "MDX",
       "topics": [
@@ -64,7 +64,7 @@
         "gemini",
         "generative-ai"
       ],
-      "updated_at": "2025-11-24T12:49:48Z"
+      "updated_at": "2025-11-24T13:47:06Z"
     },
     {
       "full_name": "arc53/DocsGPT",
@@ -108,7 +108,7 @@
         "artificial-intelligence",
         "deep-learning"
       ],
-      "updated_at": "2025-11-24T04:57:18Z"
+      "updated_at": "2025-11-24T14:00:55Z"
     },
     {
       "full_name": "Netflix/metaflow",
@@ -162,7 +162,7 @@
       "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
       "url": "https://github.com/zenml-io/zenml",
       "preview_image": "https://repository-images.githubusercontent.com/314197645/b94e1480-3b95-11eb-9e12-c1eec6079bf6",
-      "stars": 5057,
+      "stars": 5058,
       "stars_display": "5.1k",
       "forks": 555,
       "forks_display": "555",
@@ -174,7 +174,7 @@
         "automl",
         "data-science"
       ],
-      "updated_at": "2025-11-24T12:37:44Z"
+      "updated_at": "2025-11-24T14:18:38Z"
     },
     {
       "full_name": "strands-agents/sdk-python",
@@ -206,7 +206,7 @@
       "description": "Everything you need to know to build your own RAG application",
       "url": "https://github.com/bragai/bRAG-langchain",
       "preview_image": "https://repository-images.githubusercontent.com/889371307/b8fc22e5-73e9-40bb-bfe6-205402040b3a",
-      "stars": 3763,
+      "stars": 3764,
       "stars_display": "3.8k",
       "forks": 432,
       "forks_display": "432",
@@ -225,6 +225,6 @@
   "search_query": "ai machine-learning llm pushed:>2025-11-21",
   "days": 3,
   "limit": 10,
-  "total_count": 144,
-  "fetched_at": "2025-11-24T12:58:51.427169+00:00"
+  "total_count": 143,
+  "fetched_at": "2025-11-24T14:23:14.634374+00:00"
 }

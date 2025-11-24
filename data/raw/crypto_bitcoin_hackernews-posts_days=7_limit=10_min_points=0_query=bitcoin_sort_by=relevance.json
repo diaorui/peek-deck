@@ -47,20 +47,6 @@
       "site_name": "Bloomberg.com"
     },
     {
-      "title": "How to Not Get Kidnapped for Your Bitcoin",
-      "url": "https://www.nytimes.com/2025/11/17/business/how-to-not-get-kidnapped-for-your-bitcoin.html",
-      "hn_url": "https://news.ycombinator.com/item?id=45953458",
-      "author": "apples_oranges",
-      "points": 6,
-      "num_comments": 1,
-      "created_at": "2025-11-17T13:41:09Z",
-      "object_id": "45953458",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "nytimes.com"
-    },
-    {
       "title": "Solo miner scores a full Bitcoin block worth $270K despite 1 in 180M odds",
       "url": "https://www.tomshardware.com/tech-industry/cryptomining/hobbyist-miner-using-a-single-6-ths-asic-mines-full-bitcoin-block",
       "hn_url": "https://news.ycombinator.com/item?id=46028449",
@@ -143,9 +129,23 @@
       "description": "November keeps getting worse for Bitcoin and friends. On Nov. 18, Bitcoin (BTC) dropped below $90,000 after a death cross formation, and was trading at $89,426 before climbing back up. This was the lowest level it had dipped to since April. A death cross refers to a market ...",
       "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
       "site_name": "Yahoo Finance"
+    },
+    {
+      "title": "Show HN: Kassouf-Btc-Options \u2013 Thorp-Kassouf Option Models on Bitcoin",
+      "url": "https://github.com/dradicchi/kassouf-btc-options",
+      "hn_url": "https://news.ycombinator.com/item?id=45964428",
+      "author": "dcvr",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2025-11-18T12:11:49Z",
+      "object_id": "45964428",
+      "image": "https://opengraph.githubassets.com/ff81608b89f9c8b0dc36550c931d6a69166ec784eecf97ac6997bdf6f32a6105/dradicchi/kassouf-btc-options",
+      "description": "Applying Thorp-Kassouf option models to Bitcoin data for experimentation - dradicchi/kassouf-btc-options",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
     }
   ],
   "total_hits": 16,
   "has_metadata": true,
-  "fetched_at": "2025-11-24T13:39:04.117298+00:00"
+  "fetched_at": "2025-11-24T14:23:19.346097+00:00"
 }

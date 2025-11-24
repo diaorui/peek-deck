@@ -79,17 +79,6 @@
       "description": "In a new paper, Anthropic reveals that a model trained like Claude began acting \u201cevil\u201d after learning to hack its own tests."
     },
     {
-      "title": "Don\u2019t Expect AI To Disrupt Google\u2019s Monopoly on Search",
-      "author": "bloomberg",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4t8q8/dont_expect_ai_to_disrupt_googles_monopoly_on/",
-      "published": 1763920654.0,
-      "thumbnail": "https://external-preview.redd.it/XKfA4DUMImruvRlB9z8r2zqs1DENlRg8_v1w_XD5PF8.gif?width=640&crop=smart&s=ff3de7afc0a44da6f1aeaf59cd4b9f257118d666",
-      "external_url": "https://www.bloomberg.com/news/articles/2025-11-21/the-google-antitrust-ruling-shows-how-ai-could-protect-big-tech",
-      "site_name": "bloomberg.com",
-      "favicon": null,
-      "description": "A judge said artificial intelligence would upend Google\u2019s dominance, but two new books argue that monopolies rarely fix themselves."
-    },
-    {
       "title": "Top Economist Warns That AI Data Center Investments Are \"Digital Lettuce\" That's Already Starting to Wilt",
       "author": "wiscowall",
       "url": "https://www.reddit.com/r/artificial/comments/1p48ozo/top_economist_warns_that_ai_data_center/",
@@ -99,6 +88,17 @@
       "site_name": "Futurism",
       "favicon": "https://futurism.com/wp-content/uploads/2025/09/favicon.png?quality=85&w=180",
       "description": "economist and author David McWilliams told Fortune that AI hardware investments are \"digital lettuce\" that are going to go \"off.\""
+    },
+    {
+      "title": "Don\u2019t Expect AI To Disrupt Google\u2019s Monopoly on Search",
+      "author": "bloomberg",
+      "url": "https://www.reddit.com/r/artificial/comments/1p4t8q8/dont_expect_ai_to_disrupt_googles_monopoly_on/",
+      "published": 1763920654.0,
+      "thumbnail": "https://external-preview.redd.it/XKfA4DUMImruvRlB9z8r2zqs1DENlRg8_v1w_XD5PF8.gif?width=640&crop=smart&s=ff3de7afc0a44da6f1aeaf59cd4b9f257118d666",
+      "external_url": "https://www.bloomberg.com/news/articles/2025-11-21/the-google-antitrust-ruling-shows-how-ai-could-protect-big-tech",
+      "site_name": "bloomberg.com",
+      "favicon": null,
+      "description": "A judge said artificial intelligence would upend Google\u2019s dominance, but two new books argue that monopolies rarely fix themselves."
     },
     {
       "title": "Made with kling and grok - credit: ai am a jedi on YouTube",
@@ -112,5 +112,5 @@
       "description": "Elon Musk vs Star Wars Droids"
     }
   ],
-  "fetched_at": "2025-11-24T13:39:02.970878+00:00"
+  "fetched_at": "2025-11-24T14:23:14.506335+00:00"
 }

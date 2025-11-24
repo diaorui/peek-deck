@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16719",
       "arxiv_url": "https://arxiv.org/abs/2511.16719",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16719.png",
-      "upvotes": 40,
+      "upvotes": 43,
       "num_comments": 1,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 80,
+      "upvotes": 81,
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16334",
       "arxiv_url": "https://arxiv.org/abs/2511.16334",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16334.png",
-      "upvotes": 65,
+      "upvotes": 68,
       "num_comments": 1,
       "published_at": "2025-11-20T08:11:45.000Z",
       "github_repo": "https://github.com/EvolvingLMMs-Lab/OpenMMReasoner",
@@ -111,7 +111,7 @@
       "num_comments": 0,
       "published_at": "2024-10-08T04:00:12.000Z",
       "github_repo": "https://github.com/hkuds/lightrag",
-      "github_stars": 24202,
+      "github_stars": 24255,
       "project_page": null
     },
     {
@@ -134,25 +134,6 @@
       "project_page": null
     },
     {
-      "id": "2511.15705",
-      "title": "GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization",
-      "authors": "Yikun Wang, Zuyan Liu, Ziyi Wang et al. (6 authors)",
-      "organization_name": "Tencent-Hunyuan",
-      "organization_fullname": "Tencent Hunyuan",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/62d22496c58f969c152bcefd/woKSjt2wXvBNKussyYPsa.png",
-      "summary": "Current research on agentic visual reasoning enables deep multimodal understanding but primarily focuses on image manipulation tools, leaving a gap toward more general-purpose agentic models. In this work, we revisit the geolocalization task, which requires not only nuanced visual grounding but also web search to confirm or refine hypotheses during reasoning. Since existing geolocalization benchmarks fail to meet the need for high-resolution imagery and the localization challenge for deep agentic reasoning, we curate GeoBench, a benchmark that includes photos and panoramas from around the world, along with a subset of satellite images of different cities to rigorously evaluate the geolocalization ability of agentic models. We also propose GeoVista, an agentic model that seamlessly integrates tool invocation within the reasoning loop, including an image-zoom-in tool to magnify regions of interest and a web-search tool to retrieve related web information. We develop a complete training pipeline for it, including a cold-start supervised fine-tuning (SFT) stage to learn reasoning patterns and tool-use priors, followed by a reinforcement learning (RL) stage to further enhance reasoning ability. We adopt a hierarchical reward to leverage multi-level geographical information and improve overall geolocalization performance. Experimental results show that GeoVista surpasses other open-source agentic models on the geolocalization task greatly and achieves performance comparable to closed-source models such as Gemini-2.5-flash and GPT-5 on most metrics.",
-      "ai_summary": "GeoVista, an agentic model integrating tool invocation and reinforcement learning, achieves high geolocalization performance on GeoBench, outperforming open-source models and matching closed-source models.",
-      "hf_url": "https://huggingface.co/papers/2511.15705",
-      "arxiv_url": "https://arxiv.org/abs/2511.15705",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.15705.png",
-      "upvotes": 45,
-      "num_comments": 2,
-      "published_at": "2025-11-19T13:59:22.000Z",
-      "github_repo": "https://github.com/ekonwang/GeoVista",
-      "github_stars": 94,
-      "project_page": "https://ekonwang.github.io/geo-vista/"
-    },
-    {
       "id": "2510.22543",
       "title": "FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable\n  Reasoning",
       "authors": "Yuyang Ding, Chi Zhang, Juntao Li et al. (6 authors)",
@@ -168,8 +149,27 @@
       "num_comments": 1,
       "published_at": "2025-10-26T01:49:38.000Z",
       "github_repo": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
-      "github_stars": 16446,
+      "github_stars": 16490,
       "project_page": "https://fapo-rl.github.io/"
+    },
+    {
+      "id": "2511.15705",
+      "title": "GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization",
+      "authors": "Yikun Wang, Zuyan Liu, Ziyi Wang et al. (6 authors)",
+      "organization_name": "Tencent-Hunyuan",
+      "organization_fullname": "Tencent Hunyuan",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/62d22496c58f969c152bcefd/woKSjt2wXvBNKussyYPsa.png",
+      "summary": "Current research on agentic visual reasoning enables deep multimodal understanding but primarily focuses on image manipulation tools, leaving a gap toward more general-purpose agentic models. In this work, we revisit the geolocalization task, which requires not only nuanced visual grounding but also web search to confirm or refine hypotheses during reasoning. Since existing geolocalization benchmarks fail to meet the need for high-resolution imagery and the localization challenge for deep agentic reasoning, we curate GeoBench, a benchmark that includes photos and panoramas from around the world, along with a subset of satellite images of different cities to rigorously evaluate the geolocalization ability of agentic models. We also propose GeoVista, an agentic model that seamlessly integrates tool invocation within the reasoning loop, including an image-zoom-in tool to magnify regions of interest and a web-search tool to retrieve related web information. We develop a complete training pipeline for it, including a cold-start supervised fine-tuning (SFT) stage to learn reasoning patterns and tool-use priors, followed by a reinforcement learning (RL) stage to further enhance reasoning ability. We adopt a hierarchical reward to leverage multi-level geographical information and improve overall geolocalization performance. Experimental results show that GeoVista surpasses other open-source agentic models on the geolocalization task greatly and achieves performance comparable to closed-source models such as Gemini-2.5-flash and GPT-5 on most metrics.",
+      "ai_summary": "GeoVista, an agentic model integrating tool invocation and reinforcement learning, achieves high geolocalization performance on GeoBench, outperforming open-source models and matching closed-source models.",
+      "hf_url": "https://huggingface.co/papers/2511.15705",
+      "arxiv_url": "https://arxiv.org/abs/2511.15705",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.15705.png",
+      "upvotes": 47,
+      "num_comments": 2,
+      "published_at": "2025-11-19T13:59:22.000Z",
+      "github_repo": "https://github.com/ekonwang/GeoVista",
+      "github_stars": 94,
+      "project_page": "https://ekonwang.github.io/geo-vista/"
     },
     {
       "id": "2511.15586",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-24T12:58:51.040798+00:00"
+  "fetched_at": "2025-11-24T14:23:15.313062+00:00"
 }

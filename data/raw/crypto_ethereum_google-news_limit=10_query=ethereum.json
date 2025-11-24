@@ -65,26 +65,6 @@
       "description": "The company is valued at a discount to its Ethereum holdings"
     },
     {
-      "headline": "Ethereum (ETH) News: Tom Lee's BMNR Sitting on Major Losses",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOTMwNEpyNXljS0UtVjVHUE91ZnlBUnFmZktHalRMX0pFdmxqQWxaTF8zU0VoQ20zeHpEYmM5RVZwRmhpWkNJMXZtQkNybm5lTzRaTjVMVE14c09MdXBEa1VVZUZKNDd3OUNMU2JRRk5NbklmTW9fcmt4V2QtQlRCdERUemZ1aHFjSjYxSmNzV3NLWm5uOUE4eDk3SXc0WTNHeTRERTNIRFA0STR4S0FSOGpuNG1JQm1qc0VVYnN0UnB2SWdBMG94RzNBWWh4V0xaN003S0lEQ0UzOUhCdV9N?oc=5",
-      "pub_date": 1763748446.0,
-      "article_url": "https://www.coindesk.com/business/2025/11/21/bitmine-immersion-sitting-on-usd4b-unrealized-loss-on-ether-bet-as-analyst-warns-of-structural-issues",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/13c2f3d8f4a14835d564bac5cf5d5cdd106bdcfd-1919x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "BitMine could trap shareholders amid low staking yields, hefty embedded fees and vanishing NAV premium, 10x Research founder Markus Thielen warns."
-    },
-    {
-      "headline": "Bitmine\u2019s Ethereum Buying Binge Continues as Tom Lee Gives Bitmine Stock Its First Big Bounce in Weeks",
-      "source": "TipRanks",
-      "source_url": "https://www.tipranks.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM3JpQXNsakEwRzdicjRZMzZVR2VDMFRjZGF1WTIzSjNoUGZJMVc4OHB1ZjROd0VjS3pleThuSm9TUXR1ZncwVGZpdF9DV3FWM3JtaDNCSkNLMlVESTFaSEtLb2ZSSmtua0s5R3habFVRM0tnTFdaS2N3QzFyR2gxRjhlblFJWTBXZGFlMlc4MDJJOXRNYm12WW43VlNMd2xDOFAxVVpQODlLZm9yVFdQMUhsU0dhUGhycFMwbXpCaFJUQ2tlaTRtYlhBOA?oc=5",
-      "pub_date": 1763984814.0,
-      "article_url": "https://www.tipranks.com/news/bitmines-ethereum-buying-binge-continues-as-tom-lee-gives-bitmine-stock-its-first-big-bounce-in-weeks",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2025/11/shutterstock_2694025511-750x406.jpg",
-      "description": "Tom Lee\u00e2\u0080\u0099s Bitmine Immersion Technologies ($BMNR) is pressing even harder into the market dip. The Ethereum treasury giant purchased another 28,625 ETH worth $82.11 ..."
-    },
-    {
       "headline": "Ethereum Golden Pocket In Play \u2013 Can ETH Turn The Tide Above $2,800?",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -103,8 +83,28 @@
       "article_url": "https://finance.yahoo.com/news/tom-lee-says-bitcoin-ethereum-114625645.html",
       "image": "https://media.zenfs.com/en/benzinga_79/55dc40160a5a2d9761aae05dabcccc49",
       "description": "Bitcoin (CRYPTO: BTC) and Ethereum (CRYPTO: ETH) breaking below key support levels has sparked debate over whether fundamentals are to blame \u2014 but Fundstrat's Tom Lee argues the real culprit is far more mechanical. What Happened: In an interview with ..."
+    },
+    {
+      "headline": "BitMine Shares Tumble After Earnings as Ethereum Price Falls, Treasury Hype Fades",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZWlZZDVyZTNveUx3WFlIQmxaZ0Nsbi12OXNNLTBzWFJ5cVFXbWwxNlJ0SC0tRWUtM0ZuYl91dlZ2LTE3b05FQS1BMTVLZU45UFpfWkVBSkFXVjhNWHJNamRpUkhfMVh6S29jVFllWURLako3X014R25ZcXJlREFmWjM2ZkhGQjBaWllrbVkyRWZyUGY20gGcAUFVX3lxTE8zamhOd09aZGxyWF9uRU1taVdZMVZOZzNyc2RyWUtNc2VsbzdzQ1VidlRQNkVkVGNKU3FHREZUd25ZZVJRcDI2bjVFaFZyT0h6UWZKaTNVamEwYWs1NWJXNm50WlVYajluVFpQT0g0MGtXZEJER0pROS1VNjhCLUdZWE5lWDVNeFh2Mmw3OHVJS3YyMzJfcTZDQkJzMA?oc=5",
+      "pub_date": 1763743276.0,
+      "article_url": "https://decrypt.co/349563/bitmine-tumble-earnings-ethereum-price-falls-treasury-hype-fades",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg",
+      "description": "BitMine Immersion Technologies, the largest corporate Ethereum holder, reported $328 million in full-year income alongsideits first dividend."
+    },
+    {
+      "headline": "Will Ethereum\u2019s December Update Lead Crypto Rebound in 2026? Bitwise\u2019s CIO Thinks So",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGNGQVFya29zRjNaejdwbzB6bXpxV3d5THZYODBlVWU1N3NqOHVqZHhDLUlnT2RhT2ZEeVRLWlJ6eDFDVG4tNUQ3RC1jdXJmWDR3eFFUb2g4bk40amp1NmFZeFVvSGxVQThVTDJoeEg4ZVE3ZUJnUVRiYUlQLUhabE5qTEo3VmxNaDA2THdrMFFkZw?oc=5",
+      "pub_date": 1763993835.0,
+      "article_url": "https://www.ccn.com/news/crypto/will-ethereums-december-update-lead-crypto-rebound-2026/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T13:39:21.185777+00:00"
+  "fetched_at": "2025-11-24T14:23:34.013094+00:00"
 }
