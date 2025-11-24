@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2511.16719",
       "arxiv_url": "https://arxiv.org/abs/2511.16719",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16719.png",
-      "upvotes": 47,
+      "upvotes": 48,
       "num_comments": 1,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
-      "github_stars": 3695,
+      "github_stars": 3797,
       "project_page": "https://ai.meta.com/sam3/"
     },
     {
@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 82,
+      "upvotes": 83,
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
@@ -54,7 +54,7 @@
       "num_comments": 1,
       "published_at": "2025-11-17T13:59:57.000Z",
       "github_repo": "https://github.com/LTH14/JiT",
-      "github_stars": 1202,
+      "github_stars": 1229,
       "project_page": null
     },
     {
@@ -73,27 +73,8 @@
       "num_comments": 4,
       "published_at": "2025-11-13T13:59:53.000Z",
       "github_repo": "https://github.com/ByteDance-Seed/depth-anything-3",
-      "github_stars": 2701,
+      "github_stars": 2732,
       "project_page": "https://depth-anything-3.github.io/"
-    },
-    {
-      "id": "2511.16334",
-      "title": "OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe",
-      "authors": "Kaichen Zhang, Keming Wu, Zuhao Yang et al. (8 authors)",
-      "organization_name": "lmms-lab",
-      "organization_fullname": "LMMs-Lab",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/62d3f7d84b0933c48f3cdd9c/RpVWux8y4hHjNO6guD6sp.png",
-      "summary": "Recent advancements in large reasoning models have fueled growing interest in extending such capabilities to multimodal domains. However, despite notable progress in visual reasoning, the lack of transparent and reproducible data curation and training strategies remains a major barrier to scalable research. In this work, we introduce OpenMMReasoner, a fully transparent two-stage recipe for multimodal reasoning spanning supervised fine-tuning (SFT) and reinforcement learning (RL). In the SFT stage, we construct an 874K-sample cold-start dataset with rigorous step-by-step validation, providing a strong foundation for reasoning capabilities. The subsequent RL stage leverages a 74K-sample dataset across diverse domains to further sharpen and stabilize these abilities, resulting in a more robust and efficient learning process. Extensive evaluations demonstrate that our training recipe not only surpasses strong baselines but also highlights the critical role of data quality and training design in shaping multimodal reasoning performance. Notably, our method achieves a 11.6% improvement over the Qwen2.5-VL-7B-Instruct baseline across nine multimodal reasoning benchmarks, establishing a solid empirical foundation for future large-scale multimodal reasoning research. We open-sourced all our codes, pipeline, and data at https://github.com/EvolvingLMMs-Lab/OpenMMReasoner.",
-      "ai_summary": "OpenMMReasoner, a two-stage training approach combining supervised fine-tuning and reinforcement learning, enhances multimodal reasoning performance through rigorous data curation and improved training strategies.",
-      "hf_url": "https://huggingface.co/papers/2511.16334",
-      "arxiv_url": "https://arxiv.org/abs/2511.16334",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16334.png",
-      "upvotes": 72,
-      "num_comments": 1,
-      "published_at": "2025-11-20T08:11:45.000Z",
-      "github_repo": "https://github.com/EvolvingLMMs-Lab/OpenMMReasoner",
-      "github_stars": 55,
-      "project_page": "https://evolvinglmms-lab.github.io/OpenMMReasoner/"
     },
     {
       "id": "2410.05779",
@@ -115,6 +96,25 @@
       "project_page": null
     },
     {
+      "id": "2511.16334",
+      "title": "OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe",
+      "authors": "Kaichen Zhang, Keming Wu, Zuhao Yang et al. (8 authors)",
+      "organization_name": "lmms-lab",
+      "organization_fullname": "LMMs-Lab",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/62d3f7d84b0933c48f3cdd9c/RpVWux8y4hHjNO6guD6sp.png",
+      "summary": "Recent advancements in large reasoning models have fueled growing interest in extending such capabilities to multimodal domains. However, despite notable progress in visual reasoning, the lack of transparent and reproducible data curation and training strategies remains a major barrier to scalable research. In this work, we introduce OpenMMReasoner, a fully transparent two-stage recipe for multimodal reasoning spanning supervised fine-tuning (SFT) and reinforcement learning (RL). In the SFT stage, we construct an 874K-sample cold-start dataset with rigorous step-by-step validation, providing a strong foundation for reasoning capabilities. The subsequent RL stage leverages a 74K-sample dataset across diverse domains to further sharpen and stabilize these abilities, resulting in a more robust and efficient learning process. Extensive evaluations demonstrate that our training recipe not only surpasses strong baselines but also highlights the critical role of data quality and training design in shaping multimodal reasoning performance. Notably, our method achieves a 11.6% improvement over the Qwen2.5-VL-7B-Instruct baseline across nine multimodal reasoning benchmarks, establishing a solid empirical foundation for future large-scale multimodal reasoning research. We open-sourced all our codes, pipeline, and data at https://github.com/EvolvingLMMs-Lab/OpenMMReasoner.",
+      "ai_summary": "OpenMMReasoner, a two-stage training approach combining supervised fine-tuning and reinforcement learning, enhances multimodal reasoning performance through rigorous data curation and improved training strategies.",
+      "hf_url": "https://huggingface.co/papers/2511.16334",
+      "arxiv_url": "https://arxiv.org/abs/2511.16334",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16334.png",
+      "upvotes": 74,
+      "num_comments": 1,
+      "published_at": "2025-11-20T08:11:45.000Z",
+      "github_repo": "https://github.com/EvolvingLMMs-Lab/OpenMMReasoner",
+      "github_stars": 68,
+      "project_page": "https://evolvinglmms-lab.github.io/OpenMMReasoner/"
+    },
+    {
       "id": "2510.14528",
       "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
       "authors": "Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)",
@@ -130,7 +130,7 @@
       "num_comments": 6,
       "published_at": "2025-10-16T06:18:48.000Z",
       "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-      "github_stars": 64750,
+      "github_stars": 64792,
       "project_page": null
     },
     {
@@ -168,7 +168,7 @@
       "num_comments": 2,
       "published_at": "2025-11-19T13:59:22.000Z",
       "github_repo": "https://github.com/ekonwang/GeoVista",
-      "github_stars": 94,
+      "github_stars": 108,
       "project_page": "https://ekonwang.github.io/geo-vista/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-24T18:56:57.131081+00:00"
+  "fetched_at": "2025-11-24T20:20:34.780023+00:00"
 }
