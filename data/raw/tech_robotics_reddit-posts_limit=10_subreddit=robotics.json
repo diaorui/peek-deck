@@ -46,6 +46,17 @@
       "description": "It claims to be a 6DOF but it looks like it only has 5DOF. First image shows the assembled arm, and second shows the transforms diagram. We are trying to find closed form inv kinematics solution and looking to see if that's possible or we will need to try for a numerical approach instead? Any suggestions appreciated."
     },
     {
+      "title": "TEMAS Pick & Place | Aruco + AI Depthmap",
+      "author": "Big-Mulberry4600",
+      "url": "https://www.reddit.com/r/robotics/comments/1p5h29d/temas_pick_place_aruco_ai_depthmap/",
+      "published": 1763990915.0,
+      "thumbnail": "https://external-preview.redd.it/F4wDCIMIDWuU0R2jcayoDHSrVUAG3XbZcOHfcaqGE94.jpeg?width=320&crop=smart&auto=webp&s=5041baa1735e56529ceb1d7cc5254ccd9f17556a",
+      "external_url": "https://youtube.com/shorts/24reR1AUCiU?feature=share",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/2731d6a3/img/favicon.ico",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
       "title": "AI Robotics: What We Haven\u2019t Solved\u2026 Yet - New Podcast Episode",
       "author": "marwaeldiwiny",
       "url": "https://www.reddit.com/r/robotics/comments/1p4omza/ai_robotics_what_we_havent_solved_yet_new_podcast/",
@@ -99,18 +110,7 @@
       "site_name": "CNBC",
       "favicon": "https://sc-cnbcfm-com.cdn.ampproject.org/i/s/sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
       "description": "Im curious how many others from Figure or other Humanoid Robot companies will start to step forward and speak up. Safety is something that is not talked about enough."
-    },
-    {
-      "title": "Short survey: how do your robots handle \u201cfind this asset/location\u201d tasks?",
-      "author": "New_Signal7007",
-      "url": "https://www.reddit.com/r/robotics/comments/1p4st5z/short_survey_how_do_your_robots_handle_find_this/",
-      "published": 1763919635.0,
-      "thumbnail": "https://external-preview.redd.it/5bK5CiOWjc485PiC-qsbAMODVPYDerssUz9X2_BqUHA.png?width=640&crop=smart&auto=webp&s=4d8a44c744f6b344b723ff877296bb5b5284d181",
-      "external_url": "https://forms.gle/aTTfxVCs3u3QoLSj9",
-      "site_name": "Google Docs",
-      "favicon": "https://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
-      "description": "Hi everyone, I\u2019m Swalihu, a ROS/robotics engineer and founder of SeekSense, a small UK startup exploring semantic navigation for indoor mobile robots. I\u2019m running a short 3\u20134 minute survey to understand how teams currently support tasks like: \u2013 \u201cfind this specific trolley/cart/tool/asset\u201d \u2013 \u201cgo to the visitor kiosk in atrium B / bed 12 in ward C\u201d in warehouses, hospitals, labs and campuses \u2013 and how painful these behaviours are to maintain over time. The context: we\u2019re experimenting with a training-free semantic navigation API (vision\u2013language + mapping + frontier selection), and I\u2019d like to sanity-check whether this is solving a real problem for people deploying ROS/ROS 2 systems. If you\u2019re working with AMRs, AGVs, hospital/campus robots, mobile manipulators or research platforms, and can spare a few minutes. Responses are aggregated and anonymised. With your permission, I may use the results as part of the market-research evidence for a UK Innovator Founder Visa application, and I\u2019m happy to share a short summary of the findings back here once we\u2019ve collected enough data. https://www.seeksense-ai.com/"
     }
   ],
-  "fetched_at": "2025-11-24T12:58:55.806128+00:00"
+  "fetched_at": "2025-11-24T13:39:09.490974+00:00"
 }

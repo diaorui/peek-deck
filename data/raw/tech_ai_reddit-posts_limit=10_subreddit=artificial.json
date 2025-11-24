@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Elon Musk\u2019s Grok chatbot ranks him as world history\u2019s greatest human | Users on X shared examples of the \u201ctruth-seeking\u201d AI chatbot praising its owner as \u201cstrikingly handsome,\u201d a \u201cgenius\u201d and fitter than LeBron James.",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4ni1d/elon_musks_grok_chatbot_ranks_him_as_world/",
-      "published": 1763906647.0,
-      "thumbnail": "https://external-preview.redd.it/a6vZJpMlKyMiL64FTOX1j2a1ZLrNsT5qER3NPGaoDN4.jpeg?width=640&crop=smart&auto=webp&s=5453d1674dc11c85e450fb6393fe0e3df371451c",
-      "external_url": "https://www.washingtonpost.com/technology/2025/11/20/elon-musk-grok/",
-      "site_name": "washingtonpost.com",
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "A Research Leader Behind ChatGPT\u2019s Mental Health Work Is Leaving OpenAI",
       "author": "wiredmagazine",
       "url": "https://www.reddit.com/r/artificial/comments/1p5e55i/a_research_leader_behind_chatgpts_mental_health/",
@@ -22,6 +11,17 @@
       "site_name": "WIRED",
       "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
       "description": "The model policy team leads core parts of AI safety research, including how ChatGPT responds to users in crisis."
+    },
+    {
+      "title": "Elon Musk\u2019s Grok chatbot ranks him as world history\u2019s greatest human | Users on X shared examples of the \u201ctruth-seeking\u201d AI chatbot praising its owner as \u201cstrikingly handsome,\u201d a \u201cgenius\u201d and fitter than LeBron James.",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p4ni1d/elon_musks_grok_chatbot_ranks_him_as_world/",
+      "published": 1763906647.0,
+      "thumbnail": "https://external-preview.redd.it/a6vZJpMlKyMiL64FTOX1j2a1ZLrNsT5qER3NPGaoDN4.jpeg?width=640&crop=smart&auto=webp&s=5453d1674dc11c85e450fb6393fe0e3df371451c",
+      "external_url": "https://www.washingtonpost.com/technology/2025/11/20/elon-musk-grok/",
+      "site_name": "washingtonpost.com",
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Unemployment could hit 25% among recent grads and trigger 'unprecedented' social disruption thanks to AI, U.S. senator warns",
@@ -35,17 +35,6 @@
       "description": "AI could create a generation further burdened with student loan debt\u2014and no job to repay it, according to Sen. Mark Warner."
     },
     {
-      "title": "In tweaking its chatbot to appeal to more people, OpenAI made it riskier for some of them",
-      "author": "tekz",
-      "url": "https://www.reddit.com/r/artificial/comments/1p58lkv/in_tweaking_its_chatbot_to_appeal_to_more_people/",
-      "published": 1763961492.0,
-      "thumbnail": null,
-      "external_url": "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html?unlocked_article_code=1.3U8.aLI0.rvBtjMyLr560&smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb",
-      "site_name": "nytimes.com",
-      "favicon": null,
-      "description": "It sounds like science fiction: A company turns a dial on a product used by hundreds of millions of people and inadvertently destabilizes some of their minds. But that is essentially what happened at OpenAI this year."
-    },
-    {
       "title": "Joining Valve's Gabe Newell at the altar of AI, Ubisoft CEO Yves Guillemot says the controversial tech will be \"as big a revolution for our industry as the shift to 3D\" | Ubisoft is using generative AI \"in all our studios and offices\"",
       "author": "ControlCAD",
       "url": "https://www.reddit.com/r/artificial/comments/1p4r8pw/joining_valves_gabe_newell_at_the_altar_of_ai/",
@@ -55,6 +44,17 @@
       "site_name": "GamesRadar+",
       "favicon": "https://vanilla.futurecdn.net/gamesradar/1477279/apple-touch-icon.png",
       "description": "Ubisoft is using generative AI \"in all our studios and offices\""
+    },
+    {
+      "title": "In tweaking its chatbot to appeal to more people, OpenAI made it riskier for some of them",
+      "author": "tekz",
+      "url": "https://www.reddit.com/r/artificial/comments/1p58lkv/in_tweaking_its_chatbot_to_appeal_to_more_people/",
+      "published": 1763961492.0,
+      "thumbnail": null,
+      "external_url": "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html?unlocked_article_code=1.3U8.aLI0.rvBtjMyLr560&smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb",
+      "site_name": "nytimes.com",
+      "favicon": null,
+      "description": "It sounds like science fiction: A company turns a dial on a product used by hundreds of millions of people and inadvertently destabilizes some of their minds. But that is essentially what happened at OpenAI this year."
     },
     {
       "title": "Anyone here using AI as a coding partner?",
@@ -112,5 +112,5 @@
       "description": "Elon Musk vs Star Wars Droids"
     }
   ],
-  "fetched_at": "2025-11-24T12:58:51.487354+00:00"
+  "fetched_at": "2025-11-24T13:39:02.970878+00:00"
 }

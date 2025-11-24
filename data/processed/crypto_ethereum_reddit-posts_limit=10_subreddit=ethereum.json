@@ -21,7 +21,7 @@
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Okay, so I have a wallet that has been compromised and I can't sent any ETH to it. I still have USDC balance in it and I can't transfer. I figured that a smart contract is emptying my ETH and sending it to this address. It's not a big amount but I want to get the funds that got stuck in my wallet."
+      "description": "Okay, so I have a wallet that has been compromised and I can't sent any ETH to it. I still have USDC balance in it and I can't transfer. I figured that a smart contract is emptying my ETH and sending it to this address 0xf37A277d125F8D5b690F2078dD97BBC9aaC1ad4c. It's not a big amount but I want to get the funds that got stuck in my wallet."
     },
     {
       "title": "Are EIP-7702 addresses included in airdrops?",
@@ -112,5 +112,5 @@
       "description": "Last week I acquired a decent amount of ETH tokens. I am 21 and don't really need that much cash right now so I am thinking of keeping it invested in ETH(plus I am a staunch advocate for decentralized currencies, so I'd honestly rather keep it on the blockchain, plus taxes so...). Need some advice on how do I track the latest news and prices and want some advice around ETH in general. What are some things I should be aware and concerned about? What are your opinions, is it a safe investment for the next five to ten years?"
     }
   ],
-  "fetched_at": "2025-11-24T12:58:54.280292+00:00"
+  "fetched_at": "2025-11-24T13:39:05.742737+00:00"
 }
