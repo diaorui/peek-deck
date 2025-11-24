@@ -112,5 +112,5 @@
       "description": "Hi everyone, I\u2019m Swalihu, a ROS/robotics engineer and founder of SeekSense, a small UK startup exploring semantic navigation for indoor mobile robots. I\u2019m running a short 3\u20134 minute survey to understand how teams currently support tasks like: \u2013 \u201cfind this specific trolley/cart/tool/asset\u201d \u2013 \u201cgo to the visitor kiosk in atrium B / bed 12 in ward C\u201d in warehouses, hospitals, labs and campuses \u2013 and how painful these behaviours are to maintain over time. The context: we\u2019re experimenting with a training-free semantic navigation API (vision\u2013language + mapping + frontier selection), and I\u2019d like to sanity-check whether this is solving a real problem for people deploying ROS/ROS 2 systems. If you\u2019re working with AMRs, AGVs, hospital/campus robots, mobile manipulators or research platforms, and can spare a few minutes. Responses are aggregated and anonymised. With your permission, I may use the results as part of the market-research evidence for a UK Innovator Founder Visa application, and I\u2019m happy to share a short summary of the findings back here once we\u2019ve collected enough data. https://www.seeksense-ai.com/"
     }
   ],
-  "fetched_at": "2025-11-24T09:54:14.788786+00:00"
+  "fetched_at": "2025-11-24T10:45:14.626093+00:00"
 }

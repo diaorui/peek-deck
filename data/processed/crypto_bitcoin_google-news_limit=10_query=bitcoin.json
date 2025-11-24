@@ -5,44 +5,24 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Crypto Crash Is Eroding Wealth for Trump\u2019s Family and Followers",
+      "headline": "Bitcoin Weakness Persists as Crypto Steadies After Bruising Week",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdV9FOFNpMi1aTWs0bGk4bmM0VWJZTXBGOThlWG15bVlJUU5IX0pmYWEwZG9tbElVQ3pCb0o4TjRuRndVUzVub043ellwbnNEZHpEb0c2TzlSeEFBSUFQVXp3VlYxNUE4M3kwN3FpLXp3ZGI2ZjlsVDRCOG15eGxKdUxlaEpGWGdvZlppeVE5d1UyMHVGQ1FLNk53U0IzcXRsT0IyM0NOeV9VSllpS2JpWVRLcGxTaUd3dnd2WDZwVQ?oc=5",
-      "pub_date": 1763931600.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-23/bitcoin-crash-hits-crypto-wealth-of-donald-trump-s-family-and-followers",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iX1a_vkKbTYI/v2/1200x800.jpg",
-      "description": "In President Donald Trump\u2019s second term, crypto assets transformed his family\u2019s wealth. Now the Trumps \u2014 and their followers \u2014 are getting a crash course in the wild volatility ingrained in digital currencies."
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYlBWNUZPWk9jb3NBWk9GQjAwVFhiemVSdkRZSEU4ZS1COGw2bHBqLTdjeTVjeGxLWHNPeVE3VFpnWi0zbExkdjNkNjdKd2hOdXZPbFBvNEFaTk10aEVvYUcyN0NQcm9fVThEbl9Wb1N0X25wSWtudkQ2QjlXN1JyNmY4Q0VNNG5RVkNmR0lQX3NZUURRSHdDbEcwX0dULWhWMjQ2QmVrX2U3cWN2ZmRjU3ViMjVMbkNlZ29n?oc=5",
+      "pub_date": 1763975960.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-24/bitcoin-btc-weakness-persists-as-crypto-steadies-after-bruising-week",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibAqfa3z7b18/v0/1200x800.jpg",
+      "description": "Bitcoin began the week on the back foot following a prolonged selloff that has put the token on track for its worst month since 2022."
     },
     {
       "headline": "Bitcoin mining in China rebounds, defying 2021 ban",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjY4QU9vbS1nM3VydFpkb2U4d0dKYXZjLXFqUzhSQUljbDRrejJfeDhINmQtckZlaTVKTWtsMFpWeG9sczBab1N2bFFWQUhFc0FjdlVhUDIzekl4bDZsZzdFSWdCSW9MOE5jeXBTUGtrRTBRTHRidjVsLWlkLXA3VEZLbXl6RERXaUVUcU1IbVlCdVBHTzJrQ3BNdFBZZ3N4cnhv?oc=5",
-      "pub_date": 1763970927.0,
+      "pub_date": 1763975155.0,
       "article_url": "https://www.reuters.com/world/asia-pacific/bitcoin-mining-china-rebounds-defying-2021-ban-2025-11-24/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Hobbyist solo miner scores a full Bitcoin block worth $270,000 despite 1 in 180 million odds \u2014 3.146 Bitcoins mined by a single low-powered 6 TH/s ASIC with about 0.0000007% of the network\u2019s hashrate",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGFQbkJtVlo5VXI1RTJyLWhTTmlHcENnLWZYdTdUNHBrSEhOZ01Da1VjWmhPX3hmdk9QbTY4eXdrQTJyOUtkN1NaMW0xRURvU0dNb0V1TUNDZnUyYnhsZ2xPYXkzQzlEOE1NTUhTU2NFWXJKVHVJNFh6eDhkZldQTXJlb1lwLVdiRkwwZGlmbmtNV1ZCMGd3T1ZBa2ptUGxjRzZVU2tZb09zR1BFWVIyelhXTnJ4V0tVNmVxZWRB?oc=5",
-      "pub_date": 1763922426.0,
-      "article_url": "https://www.tomshardware.com/tech-industry/cryptomining/hobbyist-miner-using-a-single-6-ths-asic-mines-full-bitcoin-block",
-      "image": "https://cdn.mos.cms.futurecdn.net/xNgBpUETd9FRLejaNQYZe7-1000-80.jpg",
-      "description": "Solo miner controls roughly 0.0000007\u202f% of the Bitcoin network\u2019s hash\u2011power yet captures full block reward."
-    },
-    {
-      "headline": "Homeland Security Is Reportedly Probing Bitcoin Mining Giant Bitmain for National Security Reasons",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRm84MDJZWmZZaG9JYXdTYTBsR2pTbkhIQWdneG1RM1gxX3dPRjM3ZjNzRWtNeFN6bmlpVnA4bFUtUnYyVlU4RXk1VEo4R2ZSSEZaTWhMWXhtUlBpLVU3aHJNSGdEM1NXR3ZJaDNra09ZdmpuclMtTlN5NDB3akRaTHRnS2hCYUJ0X09Kby1FV1F4MmF5aGdOaXJra0ZoQmJSUDNwSnFaQTJkenFLRHJkN1lMZG43eGlJZFZvdnlMZWdSdWxZaVV1OA?oc=5",
-      "pub_date": 1763892014.0,
-      "article_url": "https://gizmodo.com/homeland-security-is-reportedly-probing-bitcoin-mining-giant-bitmain-for-national-security-reasons-2000689746",
-      "image": "https://gizmodo.com/app/uploads/2024/10/sec-bitcoin-hack-arrest.jpg",
-      "description": "And there's an additional Trump family connection."
     },
     {
       "headline": "Bitcoin continues slide that's roiling markets, threatens to break below $80,000",
@@ -55,24 +35,14 @@
       "description": "Bitcoin almost dipped below its critical $80,000 support level."
     },
     {
-      "headline": "S&P 500 futures rise, bitcoin falls as shortened holiday week of trading gets underway",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxQYi1YMUIxVFNTZUphNVgwOEF3b2dWSWhSczJjZnFVbF8zSW1vdTdtVXp2VW8waGUwWlI0bHMzUUkzbVRlM2hzRUpGa3dnbTJrS2ozRy00Mzd2NWNyY0ZBczQ0SV9kbzZkLURxUkdxSmJvdTVWeEF4TGVaeUx6VlZRQmJ6eThzUE1ZWHJna2Y1RFVPZFRHbXdqYVhGWE1zLXd2MUxFcWNmXzlwX3B2Vk5zNU94Z2JKeTYtNXZSb0JKeEU4Z0VtY3JGeFRhVUxuZVRZQk5yaFNMRVNnRy1Xdm5XRU15ZWZmLXZHU2pXSGdmWE1nZ0ZaOUlGbkk3dG1FWWJQNEJpVmFlMUxKUmZnMndLMEhnZ2J2MHMwWmlwUVZWSGFMdnVpY3k3RlpkOEVKc0w0YkZiaEJEeW45X1FTZFNrWDQ5Rk9fTzlIdmNNOUlyb3M0ODNNZndJbXNCekV3cEJnbmVmSng4U3hYNmlyU3RuSWJIeXptbS1FODkzaGZWcW9mcmQzZ2lqMnN5bF9FUDNpQTU4U2haNmJ1NlZfbThmXzdoSmc0YXRwT0wxSFN4ZW1VWGhCUDZvZHkyeDJIYUdWRU9BRURUOEJxN3Y4MVkxTVFRc1lJY0RhV1MxVlpzc0hHRXhuNV9iMjdMWmRiRDJtZEpkbWJ2VURuZHl2YUVSY0RVRnBzcl9TakJJbzJXUzRycmdoTlpkeXFaNHRfeTUtbC1DRWdhVjgyYWJMSjhES0luVXJWNFlPVW5EZTlsMkxySWZBZ2Qxak5xVW5xUS1odDJvejUzZTVEQmcwaklhT3drSQ?oc=5",
-      "pub_date": 1763974661.0,
-      "article_url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-500-and-nasdaq-seen-higher-in-data-heavy-holiday-week/card/s-p-500-futures-rise-bitcoin-falls-as-shortened-holiday-week-of-trading-gets-underway-slavuI5fsta7f1rgViNu?mod=mw_FV&gaa_at=eafs&gaa_n=AWEtsqcGjDsGD81bJ518iWW4DMcnzfJW3KiQ6gatBUmrGkMrNlcPcAy-fu6A&gaa_ts=69242ec7&gaa_sig=xgLrbgukrvUVNJRzPNZ5Xrok8bxlzUOA5N_auHSZljgtBgf4A6RsQx9-CevHpxpZ6LF6By3a0sR2U4oH8ZspGQ%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Funds Set for Worst Month as Investors Yank $3.5 Billion",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQajdJdkhIeU1qQUFONUR1TW55bjAzMzJyODY0QW5TMzJTLWd2MjlCUzExR3RuR1h0WXNtQTFGbmJxSVk1NFZJcWJqZ3N4ampwSzZ1aTVXa2pBbnoxaE9WZnlCTVlwMkJSeEo3SkxBVzl6ZGl4TFg5ZWZDZy1QZTUyVTJjRUNpb2dQUFBvWUN5Wkp5WmJNTzdkQ2V3ajBjbFlpbGg2bnFFQmdHUzNRaV9VTWZfM245V3RiQ2c?oc=5",
-      "pub_date": 1763974610.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-24/bitcoin-btc-funds-set-for-worst-month-as-investors-yank-3-5-billion",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8gS4EdvPWfc/v1/1200x800.jpg",
-      "description": "Exchange-traded funds investing in Bitcoin are heading for their worst month of outflows since launching nearly two years ago, piling yet more pressure on a jaded crypto market."
+      "headline": "Bitcoin Sell-Off Deepens, Cathie Wood Buys These Crypto Stocks.",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc01JdmRrOTB0M2l2cktXYjV2RzQyak9xV1FMcVA1aElTR1dFdXhnQlFhTWFfNGVGMm5jV3R1eHNuVlJ4NE5CS1JNY0VnT25UWXpOYWZhdUgzeUd1YW9nQmNHaVVacDF6VjdvUXE5RjZHZDVoV2lnMTl3akJBcFJWZG1rQllIOFJvNl9oeFNhMmdhLTdoSHowRm44bVBhd2tNdXpZdmdMU0RxN0h4NzFLUGEtaUdHaDExU05MTTBLTkxrSkVNUV9OOUdKRQ?oc=5",
+      "pub_date": 1763760480.0,
+      "article_url": "https://www.investors.com/news/bitcoin-price-low-liquidation-etf-outflows-cathie-wood-ark-invest-crypto-stocks-coin-blsh-crcl-bmnr/",
+      "image": "https://www.investors.com/wp-content/uploads/2017/12/stock-bitcoin-09-adobe.jpg",
+      "description": "Crypto retreat worsens amid bitcoin liquidations, ETF outflows. Cathie Wood, ARK Invest buy Coinbase, Circle, and more."
     },
     {
       "headline": "Bitcoin ETFs, Led by BlackRock's IBIT, See Record $40B Trading Volume as Institutions Capitulate",
@@ -85,26 +55,56 @@
       "description": "The U.S.-listed spot bitcoin ETFs saw a record $40 billion in trading volume last week, with IBIT leading the way."
     },
     {
-      "headline": "The first-ever 3x levered bitcoin funds are launching in Europe next week. The timing couldn\u2019t be worse.",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQYXA3N3llRDNWcTdBM2VsMmE2VmI3STdnVFdIVUNpR3g3X2RJMUszM2o5M1BYVlItazlSWWRIa25aeXExU2t2WEphQzZZNGZVRC1YbGJCQkFDRkhlSHVWZmRxd3hJTS1RbmlNV3dFNEQ3enRMc2pRbFdjbHJPSC1NaWpzeDA0aHVMSlpoa0VrZFA2TXJOT2ZFTmhxRnlrcjVrUTdqUzdId05BUWhXamE1eXZ3LTJMTWVBU0ZLSVZ6dWpfT3hmRXZVcmFGam1zWU5iVEFvRU5mRjZTX2JJRjY0RVZHazRiWWRxa285Mlc4YzctRXItUm53RlBSWkVuUjU3Y2JBWmpuVGp0N1FmRnpZeVhwR20yNGh4U1k5VU1FSk1EY212UEN6OHlSR3lwXzl2VnZRMnpIVmpmZ1RGY0lYcHE5UXFQT29FMExRdjMtamFZZTZCNFUxNnNIT2Z5MXl0R2lKanNlMzJFenE2cGJnMU12YzVUbWMxWXFHZlJxTk1LNGN6Y08tekJody12dTVRS1BiTDBqOHZMRHdXemtLS0RpRnlhcnA1YzB4bTNHOXlGMm82UVVER1VXc1FHSFBpUWtZZHNwc2pmaUJ3NHhtZXRKRVppWGNXcXZoVGZKLXNCUQ?oc=5",
-      "pub_date": 1763758740.0,
-      "article_url": "https://www.marketwatch.com/story/the-first-ever-3x-levered-bitcoin-funds-are-launching-in-europe-next-week-the-timing-couldnt-be-worse-7bb8ae29?gaa_at=eafs&gaa_n=AWEtsqeEG618tybMpDWT037WcMvKqUL8H-UFjEhlwZwNh9-1-5dCIhTP4iES&gaa_ts=69242ec7&gaa_sig=F7XeA3pM_p7wugbTMtaFceub4t-uielRjoY1gKtF_HWGPkcicLnB37HHufq5ru_nOA8POWVfAEgfvIM-dod6Sg%3D%3D",
+      "headline": "Bitcoin Funds Set for Worst Month as Investors Yank $3.5 Billion",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQajdJdkhIeU1qQUFONUR1TW55bjAzMzJyODY0QW5TMzJTLWd2MjlCUzExR3RuR1h0WXNtQTFGbmJxSVk1NFZJcWJqZ3N4ampwSzZ1aTVXa2pBbnoxaE9WZnlCTVlwMkJSeEo3SkxBVzl6ZGl4TFg5ZWZDZy1QZTUyVTJjRUNpb2dQUFBvWUN5Wkp5WmJNTzdkQ2V3ajBjbFlpbGg2bnFFQmdHUzNRaV9VTWZfM245V3RiQ2c?oc=5",
+      "pub_date": 1763974610.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-24/bitcoin-btc-funds-set-for-worst-month-as-investors-yank-3-5-billion",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8gS4EdvPWfc/v1/1200x800.jpg",
+      "description": "Exchange-traded funds investing in Bitcoin are heading for their worst month of outflows since launching nearly two years ago, piling yet more pressure on a jaded crypto market."
+    },
+    {
+      "headline": "Will Bitcoin Hit $250,000 by 2026? We Asked ChatGPT",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTTU0OHA5bHNicHZJTFpsYkhmWHdHbkpGMTJIMTZBZlRXekx0aGVqVGp0V2p2TDlCOEpRc2k3QXg4amQ4M1UtZ01FcXltdzFzQkpsZUJVN0FZd3VvTkZmM3Z4Zi13TGVhVFhsaVJlY1ZhRDlIYks0YmFwRW5iRW16UWx5dWh0czFM?oc=5",
+      "pub_date": 1763899335.0,
+      "article_url": "https://www.ccn.com/news/crypto/will-bitcoin-hit-250000-by-2026-we-asked-chatgpt/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Will Bitcoin Hit $250,000 by 2026? We Asked ChatGPT",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlVFZhOFdiOXlEajdiLTFKY0ZuMXpxUktkY05xNTN1WDFueUE3UlVvTnhoUnVwVHFIMWhBY1lyWURZMVVFOTRrTmJiNWZmTUx2TnJwSXJFNVgyWHRqMkQ4TlBkWVMzcFRuVmNVVGF2aWEwaTJpOVlRYWZn?oc=5",
-      "pub_date": 1763899335.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-hit-250-000-2026-120215854.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/SOTIffjRXMo2r1Dkdj.ZEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/910a345e33f11d761130412829966ac2",
-      "description": "Predictions of a $250,000 Bitcoin by 2026 have resurfaced. Critics argue the forecast is unrealistic. CCN asked ChatGPT and Grok for their outlooks. Predictions that ..."
+      "headline": "Bitcoin bounces back to $87,500 under 'fragile' market structure: analysts",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPM29TNW16dU5VdEFnYW1HYXB3bDZUaEVvbUpacGt2dVJ0NmlVcEEtNlVvM0k1SEg0TkhkVE9BNjB6RW9OVGZJY0J1MlhWcmV3QzJycDQxNDJNQV9Tb2QwV194YVhpU1R6LTRnWHBZRGo5OV80SDg4c9IBfkFVX3lxTE9Ib1otR3FnU3RJNUh4YW1ZMF9YOV8yU3dJX2x3RFJycGQwZGNORjZUb2JZaUxJZTJ0RlZMX3lGWTBDTVBRY2pqT21LcVBrM1ktUlJDUW9TNXBPSFB6UlhFNUU0U19EVzgxbTRrQzctVGt1WkMxci1nVWd0SzZldw?oc=5",
+      "pub_date": 1763955970.0,
+      "article_url": "https://www.theblock.co/post/380074/bitcoin-near-87500-market-fragile",
+      "image": "https://www.tbstat.com/wp/uploads/2025/06/20250603_Bitcoin_News_2-1200x675.jpg",
+      "description": "Market structure remains fragile, and bitcoin is expected to consolidate within a tight range of $85,000 to $90,000, analysts said."
+    },
+    {
+      "headline": "Is XRP the Next Bitcoin?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0Y3Y0ZWNSRXhmZnlZcU5SRlVtNF83bjY5cVhIWEtJUXI3Y0JNMW55UTcySGRhcWpsTk9DcU5KRVNjMWF3aGlNRi1EM0J6LUtTZ1hIMFhnSGNMODlRRTRNTEpuTkdaeVlYXzZva1VZSnd5bGhJ?oc=5",
+      "pub_date": 1763964780.0,
+      "article_url": "https://www.fool.com/investing/2025/11/24/is-xrp-the-next-bitcoin/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843791%2Fbitcoin-coin-on-a-chip-1320779972.jpg&w=1200&op=resize",
+      "description": "Bitcoin's epic rally over the last decade has inspired some investors to seek the next breakout cryptocurrency candidate."
+    },
+    {
+      "headline": "Strategy Updates Its Bitcoin Moves on Monday. Why It\u2019s a Big Deal for the Stock and Cryptos.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQTjFXUHZ0V1NTR0ZfekRTYUFSUzN3TkN2WUFsWnJrT2NlNXFPTHBWSzdSLXA5Nmd4SzNRcWxjeWJMdlhpYnUzaUl5LThrd3VxRmxuNk9nTlpPS0MzMGdZUjZIcXpNcXUta21qS3VlZXk4bVN1NEtnNXBTZFluRkVidGVNMm5ETDNsUC1KMDdrbmFrNjJYNUI2YlBMdlBVNkRNRGxwNVdEQ2QwM0pwQ3AzV1pFX2w3ZERrdENNeEVObk1qT2xVdVdPX1JkU0hWTHJqVHJoOU94emc4eWhHYllyRTJNUHhRRzdfeGJIMEp2T05uVHcyelNlNFNrSTR6b2g4RkU2RGRWb2hpTUhLMkJCWmNJNzdPRDZCbVMxT2I5bHFJQWpYLVh4OUdLSHhkS3pJbThraGN0alVYRXlqenBCZmtSalFFLUwxMXNmVjdQTThvVGpxR2l1MllNUFJDZjFkMlVIZlFpOXVGTUVNS3ZSekp4bm44V2xLVVdpT1BJanhnZ2RWcWdQZzVDTHVBRDd6Nk0zQw?oc=5",
+      "pub_date": 1763960460.0,
+      "article_url": "https://www.barrons.com/articles/strategy-stock-bitcoin-cryptos-microstrategy-176e8def?gaa_at=eafs&gaa_n=AWEtsqfw09ay29-W1hCeZJDhRCr4f-1Z1FxZafdZmjI5ojJvkJE3s2ezP_mR&gaa_ts=69243aba&gaa_sig=eGMqlAQdGcLKyTcDWLO-7xprYPpNg6uw0o4y0BDB47gCdxxZJzAsII0UXbHmZzlyrPyKHqPQV342GRPXphBPdQ%3D%3D",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T09:54:34.446435+00:00"
+  "fetched_at": "2025-11-24T10:45:30.059047+00:00"
 }

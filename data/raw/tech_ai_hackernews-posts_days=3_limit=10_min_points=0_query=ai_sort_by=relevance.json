@@ -9,8 +9,8 @@
       "url": "https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html",
       "hn_url": "https://news.ycombinator.com/item?id=46027833",
       "author": "bookofjoe",
-      "points": 369,
-      "num_comments": 417,
+      "points": 375,
+      "num_comments": 431,
       "created_at": "2025-11-23T22:06:44Z",
       "object_id": "46027833",
       "image": null,
@@ -23,7 +23,7 @@
       "url": "https://mathstodon.xyz/@tao/115591487350860999",
       "hn_url": "https://news.ycombinator.com/item?id=46017972",
       "author": "dwohnitmok",
-      "points": 246,
+      "points": 248,
       "num_comments": 46,
       "created_at": "2025-11-22T20:27:41Z",
       "object_id": "46017972",
@@ -37,7 +37,7 @@
       "url": "https://pub.towardsai.net/i-reverse-engineered-200-ai-startups-73-are-lying-a8610acab0d3",
       "hn_url": "https://news.ycombinator.com/item?id=46024644",
       "author": "kllrnohj",
-      "points": 229,
+      "points": 231,
       "num_comments": 189,
       "created_at": "2025-11-23T16:17:57Z",
       "object_id": "46024644",
@@ -51,8 +51,8 @@
       "url": "https://news.ycombinator.com/item?id=46029699",
       "hn_url": "https://news.ycombinator.com/item?id=46029699",
       "author": "pugworthy",
-      "points": 176,
-      "num_comments": 89,
+      "points": 184,
+      "num_comments": 93,
       "created_at": "2025-11-24T02:25:39Z",
       "object_id": "46029699",
       "image": null,
@@ -93,7 +93,7 @@
       "url": "https://arxiv.org/abs/2509.01063",
       "hn_url": "https://news.ycombinator.com/item?id=46020096",
       "author": "nerder92",
-      "points": 114,
+      "points": 115,
       "num_comments": 73,
       "created_at": "2025-11-23T02:08:00Z",
       "object_id": "46020096",
@@ -145,7 +145,7 @@
       "site_name": "Ars Technica"
     }
   ],
-  "total_hits": 369,
+  "total_hits": 370,
   "has_metadata": true,
-  "fetched_at": "2025-11-24T09:54:10.767438+00:00"
+  "fetched_at": "2025-11-24T10:45:10.077909+00:00"
 }

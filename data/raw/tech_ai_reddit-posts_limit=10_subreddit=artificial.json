@@ -46,17 +46,6 @@
       "description": "Ubisoft is using generative AI \"in all our studios and offices\""
     },
     {
-      "title": "Anthropic Study Finds AI Model \u2018Turned Evil\u2019 After Hacking Its Own Training",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p4oxil/anthropic_study_finds_ai_model_turned_evil_after/",
-      "published": 1763910417.0,
-      "thumbnail": "https://external-preview.redd.it/osHy4adb0yeCFM-bvc49ieATBTlzBZn_cVpX48jR5HM.jpeg?width=640&crop=smart&auto=webp&s=c55dab21dccc58bb2183ed6ea05f602f4bef3163",
-      "external_url": "https://time.com/7335746/ai-anthropic-claude-hack-evil/",
-      "site_name": "TIME",
-      "favicon": "https://time.com/favicon/apple-touch-icon.png",
-      "description": "In a new paper, Anthropic reveals that a model trained like Claude began acting \u201cevil\u201d after learning to hack its own tests."
-    },
-    {
       "title": "Anyone here using AI as a coding partner?",
       "author": "Doug24",
       "url": "https://www.reddit.com/r/artificial/comments/1p4ya9u/anyone_here_using_ai_as_a_coding_partner/",
@@ -68,15 +57,15 @@
       "description": "I tried building a small Python project recently with AI help, and it made the whole thing way less intimidating. Now I\u2019m trying to figure out which AI coding assistant is actually worth sticking with. Claude is great at explaining concepts, GPT feels better at reasoning through tricky logic, and I\u2019ve seen Sweep AI pop up for people who want project-level help directly inside JetBrains instead of switching back and forth with chat. Which model or tool gave you the best balance between learning, accuracy, and speed? And do you feel like it improved your actual understanding of coding over time?"
     },
     {
-      "title": "What to know about \u2018AI psychosis\u2019 and the effect of AI chatbots on mental health",
-      "author": "Morganrow",
-      "url": "https://www.reddit.com/r/artificial/comments/1p58k7w/what_to_know_about_ai_psychosis_and_the_effect_of/",
-      "published": 1763961364.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://www.pbs.org/newshour/amp/show/what-to-know-about-ai-psychosis-and-the-effect-of-ai-chatbots-on-mental-health AI was a mistake"
+      "title": "Anthropic Study Finds AI Model \u2018Turned Evil\u2019 After Hacking Its Own Training",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p4oxil/anthropic_study_finds_ai_model_turned_evil_after/",
+      "published": 1763910417.0,
+      "thumbnail": "https://external-preview.redd.it/osHy4adb0yeCFM-bvc49ieATBTlzBZn_cVpX48jR5HM.jpeg?width=640&crop=smart&auto=webp&s=c55dab21dccc58bb2183ed6ea05f602f4bef3163",
+      "external_url": "https://time.com/7335746/ai-anthropic-claude-hack-evil/",
+      "site_name": "TIME",
+      "favicon": "https://time.com/favicon/apple-touch-icon.png",
+      "description": "In a new paper, Anthropic reveals that a model trained like Claude began acting \u201cevil\u201d after learning to hack its own tests."
     },
     {
       "title": "Don\u2019t Expect AI To Disrupt Google\u2019s Monopoly on Search",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "Elon Musk vs Star Wars Droids"
+    },
+    {
+      "title": "What to know about \u2018AI psychosis\u2019 and the effect of AI chatbots on mental health",
+      "author": "Morganrow",
+      "url": "https://www.reddit.com/r/artificial/comments/1p58k7w/what_to_know_about_ai_psychosis_and_the_effect_of/",
+      "published": 1763961364.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://www.pbs.org/newshour/amp/show/what-to-know-about-ai-psychosis-and-the-effect-of-ai-chatbots-on-mental-health AI was a mistake"
     }
   ],
-  "fetched_at": "2025-11-24T09:54:10.918664+00:00"
+  "fetched_at": "2025-11-24T10:45:10.285348+00:00"
 }
