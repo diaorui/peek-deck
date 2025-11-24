@@ -25,52 +25,22 @@
       "description": "Federal agencies will gain access to Amazon SageMaker AI, Amazon Bedrock, Amazon Nova among other AI services from AWS."
     },
     {
-      "headline": "Amazon pledges up to $50 billion to expand AI, supercomputing for US government",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMmszc1dPLUZaYnNvdGlfUGcwWGRjbmlPT2xpVklaM0pDYnc2RnZpbHRDME1RSDF1SlVzckxKNEhjVlNvdFgwcndMUEQ3RnJPRzhCS3NXcXBjOXl3eV9RbXE2MUlWalNiUTRSeHRGd2M1RVZ4aXUzNV9xYWRPbGlZMDFyZl9YNndfLVMwY2Q2LWFhT0M5V25oaHpBRklGLTFUWFlJb1FVaU9ZWUkzcTVzdTVEU0djRm5QR3lnMVFORUR6aVcyUDVTdU5n?oc=5",
-      "pub_date": 1764009483.0,
-      "article_url": "https://www.reuters.com/business/retail-consumer/amazon-invest-up-50-billion-ai-supercomputing-us-government-customers-2025-11-24/",
-      "image": null,
-      "description": null
+      "headline": "Amazon's AI capacity crunch and performance issues pushed customers to rivals including Google",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQzlzakx2Vy1ZMXJMWHZoRUdHaGxRckJ3alhyT3pWRHM3YVk3QzBkem9fQkZyY0hkaFB1cTNDM3ViQWRGaVBfS004MEhfZlhxdE5uLUsxOGJYM1dBU1Q0TjVWY29zellLRTdqWUg4Smd6d1hLajY3WmN2VzFzSXBJWDV1UTlxdmxVZ20tM3ZtNDU4MVRiNGxvSDNMYkhXbWpsbnZmYjdYcmZKNHVOZ2c?oc=5",
+      "pub_date": 1763978400.0,
+      "article_url": "https://www.businessinsider.com/amazon-ai-capacity-crunch-pushed-customers-to-rivals-google-anthropic-2025-11",
+      "image": "https://i.insider.com/6920af91abd5e944effb4346?width=1200&format=jpeg",
+      "description": "Amazon is seeing huge demand for AI cloud services. Keeping up with this demand has been a challenge, though."
     },
     {
-      "headline": "The surprising issue driving a wedge between Trump and his MAGA base",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlRWWm04U29yNXRCTVVuU2tfVXY4dzJsX2h6TV9NRTgtSE1WLUlnbEF2UnJITG9pa0NIMUhtUHFhalZZUTlGc0ltTzZOSWhTQ2ZDX0JRSlpTSzZ0UFB6Y3dSWXFWVGpTdHRwLXJYOV9La2QwdHJqWV9KRTVIOFlISHJYMzQ3VnF3?oc=5",
-      "pub_date": 1763921138.0,
-      "article_url": "https://www.washingtonpost.com/technology/2025/11/23/trump-maga-division-tech-ai/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI super PAC launches $10 million campaign pushing 'uniform' national policy",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHV21aWnA5LV9fbFNDQmNkdlo5NFo0QzZsTTRVV0dWLVJsSDNRNlR6M1dROTM4TGctc2JqbUlFWmVBNktLRHl2QndaTGdSblliT05CWlRUQ190WnhOb3p1RU1zaWg5UGd6WnNFZUhTcEczR2FxNFHSAXtBVV95cUxNRkJyZDV5XzZMVGlUQTZKZnlESXA1dWNPZjJ2UHNHVU9HSFhjUTdWOUp1dERZRjdOVUhoTXh0a1pmM1pDTXJxMmxNMWxVV2NUQndvZWkxTmprTGU1VzJlbkxSb0xuVmQwbEd1a0ltTndzQm5CMW5EWFJSOHM?oc=5",
-      "pub_date": 1764019061.0,
-      "article_url": "https://www.cnbc.com/2025/11/24/ai-pac-trump-congress-midterms.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108230956-1763998365719-gettyimages-2217030294-mf3d_2025_may_04_001.jpeg?v=1763998377&w=1920&h=1080",
-      "description": "The PAC is mobilizing as President Donald Trump's White House and congressional Republicans are working to suppress states' ability to implement AI laws."
-    },
-    {
-      "headline": "Trump launches \u2018Genesis Mission\u2019 to supercharge US scientific AI innovation",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMVBnN2tVLU9UcGdzLXU3a2huS1pWSk1vVWFqXzFDVnoyUG5xMjdfakNScjV2bEwyTnRXaXM1V3Q1VWhvb0VzU1N5OHNZa0I5NnRrTHBZZnBxYW8xSjg0bkJUQWZMTk96TjZFRTk5VUUtVnlRQWgyS1Y5N2NwanFIdG5oMEkwXzlSNmlYLVJ0V2ZZazdFMXFyTGVMTlNpNy1ndkJzaFpR0gGrAUFVX3lxTE1NWVo2NVpSMEFqRGVDc1g2OE5sVlJyQ25ETEJ1YmEyczRONHpWOUNjZVhZU2lYQWR2aXIyRDNaaVJ1NWNROE05U0t5X3h3S3VoTkdwZ2FLWHl5WWxCeTdsd0FPLUFzSWFUYnY0c3VRdlJLc21fUkJVR0Fwa0lTN2tiUDU3bzdrTnlHQ3BBeHFtVC1iMlRtWE5hbk9BVlJ3NzQ0ZDJEQ18tS1pFZw?oc=5",
-      "pub_date": 1764021683.0,
-      "article_url": "https://www.foxnews.com/politics/trump-launches-genesis-mission-supercharge-us-scientific-ai-innovation",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/trump-artificial-intelligence.png",
-      "description": "President Donald Trump launches \"Genesis Mission\" in attempt to accelerate AI development for scientific discovery using federal and private partnerships."
-    },
-    {
-      "headline": "What is your AI strategy missing?",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03QlJiYlpXalN5QmZNR0lBWjljcnVldVBZRTRYSU02VDFCMVZ2T1h0NnF4eC1SaHlXZzZfYnotMVJHajhKalAxMWlGbWVBQTVEczRBZDZoRDc3cUlBMndYZjBXeWlfV2RmT1FzbjBVbkh6NEMta1hZNw?oc=5",
-      "pub_date": 1764020544.0,
-      "article_url": "https://www.fastcompany.com/91446648/what-is-your-ai-strategy-missing",
+      "headline": "Trump unveils new AI 'Genesis Mission.' Here's what to know",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JRTlUNFNlYzZFLXhaQmhWR01yeFNMSl92dlFCQjFVN3ozU2RiTGo3NjRoTmVmQ3k1SzlJT1FmaGV5dUVGMDBpdFlaS3U1T3VLdzlxY3lPeEg5QW9hYTVyZzB1a2l0SllLa0drcDNGblRrQ1g3dnozbXNiVmFPams?oc=5",
+      "pub_date": 1764021695.0,
+      "article_url": "https://www.axios.com/2025/11/24/trump-ai-genesis-mission-doe-chris-wright",
       "image": null,
       "description": null
     },
@@ -78,33 +48,63 @@
       "headline": "Opinion | The First Large-Scale Cyberattack by AI",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOeVVkRjRNZUlSSDlLeEFPNmo4STRIQlByZkw5VGFIZkVBdzI1VER6czdwcEUwNWRka2diNDBFTENYcHRyclhBZWl4NE5NVlhfbkdSN2tkcExPWGI0UkQ4NWlwVDU5dmwxbnhQSzBTQ2h3aC1fY2FqbTRjZ3FYZVZPREl6aklWWmlnY1FiQTdlLXM4V2lOcWxRN1JmRS1CM2VTT0FWZGZkbXR0bWNuOGtFMmN2a1BjSkoweGpjRDBaZ2RwbVlEMDVVR3hoYmh2Y3huNnhva1VwNjNqSl9BOHctS3BMYmFwbGROY1dfSUR6Zk5MaTFYbmttSjZwQ1kxdk1UOWgzVHczU1RJaWJ0UEc2OUZLUkZrdm5HcE11RjUyaWQybWt3TFFtT1lWSExqeDU2ckxpTEdMVXJvRTdPQ2h1Nmd4NUF5aUFnN0lMc3NkMHRyY0xRakVvcXlIbUw2R1Ffc0ExMTlLRER1cF9Cd0NSMUFlY01vX1BLUXRRQVV4ODMtSkNmekRJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNa1lyczk2R2hYbTRmRlVZeGdzYjJTcU1uWE8zdW1XekZDdTBJTUk3bXg2SFBkUWw0ZGtFdGdUZEVHT1p5b0M3Ym5BTFZ2VDROZEw4YzdJZjdEcF9NUnViR0NqZVZJOUZzZ1BvNTNwZ19PWERZYzlpVkd0UGpDMGswamFHZmdtRnFZZG9vMTEtclhJZnRiSVYxWjdWU2hkWmZQZzhRXzNiWmdqdmxkbGVaNVhxd2hJZWxPTVZkSEp4dmxZb3hibDJGVXE5am1ZTXFDS3g4aTJ3S1B1U3RHNkdhb00wUlIzZ3BxRWZrU1BBbW5nTzVuM2RNQnRsQkNUNGMwbjhURGFtZEp6azlZVDNVTVB1dUpKRnlmUUhXTDVDY1JWeHBpb0V3QmZfMC1yekxJYm5UZkdCWV9vS1BDZGx0ZzY5N05WQmloR28teFNqdERhN2RUZkFfdXNzSzRvMWllLU84MzNtZ3FsYmtrOTRDWURwaEIzZkZfVkRtbEJSUlF2Y2J5UFFJ?oc=5",
       "pub_date": 1764003983.0,
-      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqeTDOrkimxqfKdMZP_zm38Qjeo4yWivxk46VUTyc8HQpv0GgXd0GVBE&gaa_ts=6924dd8d&gaa_sig=PPZSJKaW-T3KlGCLugNT9OtCdewsSLVxZgXf8F4Iz0ti0gUW7rj-FRsSQWekwxK7cm8R532VlD90NvG8hTmmJQ%3D%3D",
+      "article_url": "https://www.wsj.com/opinion/the-first-large-scale-cyberattack-by-ai-4a1e1a30?gaa_at=eafs&gaa_n=AWEtsqduG3Cp9KOnFn8PPHuIaFSjjrmIymZyNsXEyLJR8zIVGFtvXknEHgK-&gaa_ts=6924e4b3&gaa_sig=_BHhFBZ6XVvL-jmbefbjerZ51wIeEcVo7xSWbGCWJQ8NsLKTLoS-eYrfz6pzyDyE8Ns816IQzVOIHfkzqRtIzQ%3D%3D",
       "image": "https://opinion-images.wsj.net/im-07766347/social",
       "description": "With basic tech and little human oversight, Chinese spies apparently exploited Anthropic\u2019s Claude Code."
     },
     {
-      "headline": "Here's why concerns about an AI bubble are bigger than ever",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0dyS2I4eFprMm1QTVFnai16TjlvNTN0VVcyakdFWUlnaG9mcGhlc1NPVzRLRU4zamhzS0dyRlV0a05RQk40bDVVb0tfU09COG03TWFBSFJMQlpvXy1FZ2NQY0U0azFsZjF1NThUZmV5VzJKSmhDZDBBdHg5S3NsRFJLV0ZvSjVlYXFIVWJieE80NW01MlRFVGZB?oc=5",
-      "pub_date": 1763892000.0,
-      "article_url": "https://www.npr.org/2025/11/23/nx-s1-5615410/ai-bubble-nvidia-openai-revenue-bust-data-centers",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6570x3696+0+342/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F1c%2F8fb36bab4460ad7d24569abf921a%2Fgettyimages-2192213324.jpg",
-      "description": "Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there's a bubble that will soon pop."
+      "headline": "Why Fears of a Trillion-Dollar AI Bubble Are Growing",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNERxTF93ckI4Mk9MTWtSaXBaaXJsNGl2aVpmWjZ6c3FWQWpJN01GT1c4ZFJIb2NYQld3RThSNi0tREYzaUo3ME5YUUQzTjJuUzczYU9BZ0N4aHY2bEdBcTFHb3QxQXo0cThCOFdOUW5GSEpXRjFqM21Ta01xM1NmZFpRNXFuUXVPdGc1LThVQ3JOWHBVeFJWc2dlVExEN0pyVmRCam9nV3FYbFVVRWVyRnJlSC1IazVUT2xnZg?oc=5",
+      "pub_date": 1763997585.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-24/why-ai-bubble-concerns-loom-as-openai-microsoft-meta-ramp-up-spending",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Michael Burry launches newsletter to lay out his AI bubble views after deregistering hedge fund",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSzB0MTItdllfYnd4OFQ1NUtnd3luLXd6WnlfOWg5WldyOG9fWHpqRHNJODRMU0VFMTM5Z1YzU0UwSVNBZFRxbmo0cGd6MHdRQnJWNW5CS3JLOFk5MC1CWWxreDhfRFQ5dE96VEFPMlkwUlpRbl9lTV9kcGtjTDllSEtNbEExV0oydmdlRzNoWDFjQ3FmRHFBel9QRHpWWDBFNDREWUxJTGpuRkpEbksxWl9TTXJ2ZWhKYjFlVDU3X1pJTGpNR1RMczlDVUfSAdIBQVVfeXFMTmpwRzYwaGszdVl3R0ktcmhtdk03RUxUNWpWYXZnam9zaFdXUkxaSy0xUmNvMllraVhObF9ndnJyczlRbzZGNWNYbno0Rkt2ZWhWNUZ5c3AwMjZGcjhUSDFIVVgwTG5KblJ4QnRMc214WTNjamFPSHgwMkh6WS1VR2dwOHoybFZISW1Da0xSbFItOU5EWTRQNUYyRm5IU0trQktJT3Jma1VSMm5keG9jVzNjZERMVUdSbWJpZWRfZkNfMUtFYlZPSFpzdWI5VnVGMkN3?oc=5",
-      "pub_date": 1763996650.0,
-      "article_url": "https://www.cnbc.com/2025/11/24/michael-burry-launches-newsletter-to-lay-out-his-ai-bubble-views-after-deregistering-hedge-fund.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/106091765-1566479308096gettyimages-498562218.jpeg?v=1763992253&w=1920&h=1080",
-      "description": "\"The Big Short\" investor is capitalizing on the massive audience he's built on X, where 1.6 million followers have long parsed his cryptic posts."
+      "headline": "New AI club to bestow nuclear-like power, says Russian tech boss",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUlBqWmdYbDBGUmR1d2N4eEktdTJUamFsRnNZYWhWWmZaUkd0c05MNE1sRjZhX015eTBzSVlyX0VyNF93SGRKVGJzNWtDZjd6NXZMWDUwY01OTWdRb29SZ0x0ZUVCZlR6VjlDZHBKSlZDcld2RjRLRnpFUVdhbDlUN2REWmVqMHlIb3dTeHVKb1FMWkg1anJ1QVdzT2ZUS01WTi1rV29UWDhvY0xCYnY0S2FfVXdZZU9nRXVXYm0tekhRRWVLaXNwQV9VdlRvdw?oc=5",
+      "pub_date": 1763974790.0,
+      "article_url": "https://www.reuters.com/business/finance/new-ai-club-will-bestow-nuclear-like-power-winners-russias-top-ai-executive-says-2025-11-24/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Stocks rally on rising hopes for December rate cut and renewed AI enthusiasm",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNktteFRVNEZ2cUlTTG1QZUpUTGxucDAyWGw5NFBGMTI4d2g4OTFsc29GeG1fUkYwMU1rdkc5aEY2Mno2bmxVS05WREJzU2hjMFdTQmxfQWM5UVhZREZuclNqbzNNY2VTa1NsTkhfb19oOTdWLVpadGo1aG9xNVlUSnVLVnVNUXhJb3F5UE9oVzA1dHAy0gFWQVVfeXFMUHRpUGdza3lWeTVIc0M1d0Zfekcyakhnb3NOc3lEcjFveVpOakpfNDJ1WGlESnIwODVUNEJoeVdueHVIeGFUNTNmX0IybGJoZFJ2NUo1V3c?oc=5",
+      "pub_date": 1764018728.0,
+      "article_url": "https://www.nbcnews.com/business/markets/stocks-rally-fed-rate-cut-ai-companies-rcna245722",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251124-new-york-stock-exchange-ew-332p-db6cb9.jpg",
+      "description": "A turnaround in AI stocks, which sold off last week, pushed the Nasdaq to its best day since May."
+    },
+    {
+      "headline": "AI pioneer Llion Jones calls for UK to 'be brave' in tech race",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NaUwwOVM1NXZXdWMxaDNvVjE0czgxak1RTWR6OVc5OVRKT1RmdTBOSHlqYXl1ODdxZ3I5OWViX084cVFMZXFheTRSank4VkRTblVlR0lmbi1hQdIBX0FVX3lxTFBWWnI3YlRYXzlYbUxoZDhZNlpibGFla1NQc21CeXNBQXI1SGw4ZE94TldKWVJ1VTdubVIwVDJvWUNOV1FmSnpwb01EMDUxRnp6U2dOVGxlUF9PZDRvVWxn?oc=5",
+      "pub_date": 1763966600.0,
+      "article_url": "https://www.bbc.com/news/articles/cy7e7mj0jmro",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c6d3/live/52204e70-c8ff-11f0-9fb5-5f3a3703a365.jpg",
+      "description": "Computer scientist Llion Jones helped discover how to create human-like responses from AI technology."
+    },
+    {
+      "headline": "The A.I. Boom Is Driving the Economy. What Happens if It Falters?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53TjY5S1gtRXRiN1MzZGU4ckFNcW16N1MtSHlkQzdIbTFHYU1XdE0tTGJFR2tBaFlCdnNTSkFreFUxNUowRW1VV0wyWDVHLVZhSi0wN29Td0pEMTNNVzZJbTJoY0hoYzhUUHpZWlh6QUx3cHVMNmVN?oc=5",
+      "pub_date": 1763805702.0,
+      "article_url": "https://www.nytimes.com/2025/11/22/business/the-ai-boom-economy.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-24T22:20:21.423963+00:00"
+  "fetched_at": "2025-11-24T22:51:02.124735+00:00"
 }

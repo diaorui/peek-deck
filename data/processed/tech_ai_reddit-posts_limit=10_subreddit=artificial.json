@@ -24,6 +24,17 @@
       "description": "The chipmaker\u2019s website touts its work with companies like ZTE, which has been effectively banned from selling its products in the U.S. over national security concerns."
     },
     {
+      "title": "Pope Leo warns Gen Z and Gen Alpha that using AI too much could stunt their personal and career growth: \u2018Don\u2019t ask it to do your homework\u2019 | Fortune",
+      "author": "fortune",
+      "url": "https://www.reddit.com/r/artificial/comments/1p5v53l/pope_leo_warns_gen_z_and_gen_alpha_that_using_ai/",
+      "published": 1764022895.0,
+      "thumbnail": "https://external-preview.redd.it/LIxQfZZhlZ57zlu1pZaygisE2XlzbgE3bTIkEY4X97c.jpeg?width=640&crop=smart&auto=webp&s=a9b58f2f3457e5716a31c769d744c4939bc81706",
+      "external_url": "https://fortune.com/2025/11/24/pope-leo-xiv-gen-z-gen-alpha-warning-ai-chatgpt-overreliance-lack-humanity-wisdom-thinking-skills/",
+      "site_name": "Fortune",
+      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
+      "description": "As Gen Z turns to ChatGPT en masse, the pope is sounding the alarm about the erosion of critical thinking skills."
+    },
+    {
       "title": "Industrial Masturbation",
       "author": "photonymous",
       "url": "https://www.reddit.com/r/artificial/comments/1p5l2yq/industrial_masturbation/",
@@ -99,18 +110,7 @@
       "site_name": "Business Insider",
       "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
       "description": "Amazon is seeing huge demand for AI cloud services. Keeping up with this demand has been a challenge, though."
-    },
-    {
-      "title": "Gemini 3 Is Amazing, but why is it citing such useless sources?",
-      "author": "Numberwang",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5ues4/gemini_3_is_amazing_but_why_is_it_citing_such/",
-      "published": 1764021220.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Like many others, I\u2019m impressed with Gemini 3, but I\u2019ve noticed something odd. I regularly get answers that cite grifters, \u201cbrofluencers,\u201d and journalists alongside factual sources. Has anyone else experienced this? I keep getting lines like: \u201cPeter Attia says\u2026\u201d, \u201cAndrew Huberman says\u2026\u201d, \u201cCal Newport says\u2026\u201d, \u201cDeepak Chopra says\u2026\u201d, \u201cJordan Peterson says\u2026\u201d Some of these people may have useful insights on certain topics, but they\u2019re not where I\u2019d go for established scientific theory or current evidence-based methods. They\u2019re packaging and selling a personal brand, not representing scientific fields. Curious if others are seeing the same behavior."
     }
   ],
-  "fetched_at": "2025-11-24T22:19:56.035750+00:00"
+  "fetched_at": "2025-11-24T22:50:25.839775+00:00"
 }
