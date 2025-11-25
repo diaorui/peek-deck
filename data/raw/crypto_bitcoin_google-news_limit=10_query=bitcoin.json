@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Why Crypto\u2019s Slide Is Rattling Wall Street",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjliSG1IZGtkQVo3TVplOGI5R2RFV0pkQ2dLRk9pV3g4TFZ6SnBrUXQwdXB2MUJkcTF5VGpydDN3TzlENUplaGhONlpyMmg2RlRIV09ZSG9tRU9Wei0tMUlnbVZiQ1pHWmlXTEV2OUM4MGdudGhRSVc5dV9zQlB0QUEyMFV4UDE2YUM0ZQ?oc=5",
+      "pub_date": 1763989498.0,
+      "article_url": "https://www.nytimes.com/2025/11/24/business/dealbook/bitcoin-crypto-wall-street.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "BlackRock's iShares bitcoin fund sees record exodus as crypto heads for worst month since 2022",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -35,34 +45,44 @@
       "description": "Investors have pulled $3.5 billion from the US-listed Bitcoin ETFs so far in November, almost equaling the previous monthly record for outflows of $3.6 billion set in February, according to data compiled by Bloomberg.  BlackRock Inc.\u2019s Bitcoin fund IBIT, which accounts for about 60% of the cohort\u2019s assets, has registered $2.2 billion in redemptions in November, meaning it will slump to its worst month barring a sharp reversal.  The outflows come with Bitcoin itself set for its worst monthly performance since the crypto industry collapse of 2022, a daisy chain of corporate failures punctuated by the downfall of Sam Bankman-Fried\u2019s FTX."
     },
     {
-      "headline": "Why Crypto\u2019s Slide Is Rattling Wall Street",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjliSG1IZGtkQVo3TVplOGI5R2RFV0pkQ2dLRk9pV3g4TFZ6SnBrUXQwdXB2MUJkcTF5VGpydDN3TzlENUplaGhONlpyMmg2RlRIV09ZSG9tRU9Wei0tMUlnbVZiQ1pHWmlXTEV2OUM4MGdudGhRSVc5dV9zQlB0QUEyMFV4UDE2YUM0ZQ?oc=5",
-      "pub_date": 1764006876.0,
-      "article_url": "https://www.nytimes.com/2025/11/24/business/dealbook/bitcoin-crypto-wall-street.html",
+      "headline": "Bitcoin, Ethereum, XRP Jump as Rebound Gathers Pace. Where Cryptos Go Next.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPN3JzSjlibVNBWnhyYS1YN1NyT2pjcW5HUjZMSjgxMXBHSGhhSXpVRnBwVllucmpuYTU2dG5yV0xESDlkYUlrOXZYdnpJRU1UUzZKcEVEcElRRXVGcjA0Q3V0TGFrazNYOWFFNmdwZ1VReDZWWlNLUWdkOFE3TXliVXE2elNFbmpXNW5kc1p6ODdHMk9wWnRMTHpEQzhPeHdkOC0yT0R5clBSMHNzV211LW51WUFVSFlpMm5lOUdFcUpMRms3ZnhEcmd4SklFQm0xVzgzNS1OVGZMSkFTenV0YjNGbmYtRGp2ODB2VDZxSWNIWk5lc0hCV3poeTRPZWtFZVNFd1RYcFdialJQRnRjTnhoWkFHc052eTVSUmdtNDhUZndNWlJqdnhtM3Z3N21KZ3R0VHhXNnVvSWwtSUpiWmxncThhY2RFNVNOSk5kbmRBaHZuMTcwcXV1bE1nMjRkdjJIX1RVbWVrVEptMktxajdhY1VkN1dqblktV2hqVGcyeVFhVVl6MQ?oc=5",
+      "pub_date": 1764064980.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-rebound-dea5ac89?gaa_at=eafs&gaa_n=AWEtsqfPkYMWkrnR2PD00HwXITbXR9XX0IwgjnF9rtDqNWYYrlzxN-T2n-8M&gaa_ts=69258c59&gaa_sig=k3tLdOTxiMIuBeKECm85XudkEturCWNMUUPNnAlF5wY0X7WQaJnTSAeiew9GjMgDxqCbUG9rPRH4cJFOS3Emqg%3D%3D",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin Weakness Persists as Crypto Steadies After Bruising Week",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYlBWNUZPWk9jb3NBWk9GQjAwVFhiemVSdkRZSEU4ZS1COGw2bHBqLTdjeTVjeGxLWHNPeVE3VFpnWi0zbExkdjNkNjdKd2hOdXZPbFBvNEFaTk10aEVvYUcyN0NQcm9fVThEbl9Wb1N0X25wSWtudkQ2QjlXN1JyNmY4Q0VNNG5RVkNmR0lQX3NZUURRSHdDbEcwX0dULWhWMjQ2QmVrX2U3cWN2ZmRjU3ViMjVMbkNlZ29n?oc=5",
-      "pub_date": 1764009911.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-24/bitcoin-btc-weakness-persists-as-crypto-steadies-after-bruising-week",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibAqfa3z7b18/v0/1200x800.jpg",
-      "description": "Bitcoin failed to match the strength of Monday\u2019s stock market rebound, extending a stretch of weak trading that\u2019s left bullish sentiment in short supply. While equities pushed higher to start the week, the cryptocurrency stayed range-bound, struggling to shake off last week\u2019s losses."
     },
     {
       "headline": "Strategy Silent on Bitcoin Holdings. Why MSTR Stock Is Rising.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNaFJ4eTVFYkY2eks1cExhUFJZeURjU1ROWW1FTkJtYjFEbGtqYk10dzRIUG1qZmw4R1dPZTNuaGdob29yWF9xZGlzUDhjRFFIMmxGMTBXWm5iMFNBZjJCZjFZV09qZGFia21PNG5NaW1rb1cyeEJGU3lZTXpub1VuOC05LVFNUVpPdnVYVW92NDNnakRhT1JDNHdOQXpqb3ZRNTZTSW0yY25kUWtwcW1CWlJqb2VyRU9fVlBZUjEyRlh4NnhycGpOSGpzUjVSQWZldERacEYxSHNkcjRhM2VkVnNSRFBrdkZZV2NiWWlFLWhHX2p4U0szV3E4U0dhbUZCNEJfYmJnazFWY1I1cDVjLVlPR0N5eUhaS2pfWVRYeVVBdVJ6UndsLTRCdjBoNDJlMnVoYzJCWlRTSXVacGtJUDBENDJBNkFWV25DWDFoc210UWxPWnhTRlgwNXI2TkpNbXZlS2pUWUxrZy10ckFkVUtfeElSWnliY2EzNUZ3RDNFVmJrVWxHNUVnNFhBMS1yQldxUm4tWFhWcnpnS0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQWndweTBXanp0UTFVQUJralJTRHZSZTJyMWVEbGY1Nkg3eExtMEJ5Wll2NUpEdmY3Y0Z5M21mWEVFaEtyNDd5TEEwMm9peXE2OFEzSzhNTjZ4VzRUOHZHVGlCSnc2OGtkMHVyYklJdnpKSUMwMkExOGZTWnV0SklWeGxkbzNBa3BuNjRURlhXUURUYjdtcGFUaWJQRTJXRUdRa2pDQTVaeV9UN3hvVGViSTJyY0hWVW9nZVJiRHdUSVFwX0tFWWwyRVRXNWVFR09lQXBTZHNEeXhucUM3enMwZTRCMk9ORlpoTE5ZdUJVblJNMlVEWjRFRDdpb0hIRUo4bW1MajM0YkY5enE4dmNFSERrRExrc3NoLWFnM3MyUlRhSkZ6MXRSdmJpU3dwUlBHenpJdjVJQVRSNWdsemY1MTV4bjliQUcydkRqS3BJaUtWbW8xQTB0V2UwSDV0MHRxeVl5eGRDQmNfekxWQW1FZXFFNXMwOHRVNzNIMm44SDBzN1duMm5CUjlFUkxwTHpUZ3pETE9uY05CTTcwNmc?oc=5",
       "pub_date": 1764019020.0,
-      "article_url": "https://www.barrons.com/articles/mstr-stock-price-strategy-bitcoin-buy-microstrategy-176e8def?gaa_at=eafs&gaa_n=AWEtsqeCfW5ES3GZFxzu3hGrwTMcTI0seo_wEZD9bbUwhA7vksDqJQNWrPFH&gaa_ts=69258018&gaa_sig=E-FDdLeZ--n531lSsSP7KuWOz_Xyp08fY-gsWrZK568mOTnwO4zQgKxGGau1ZhWtK89NvdHSd4FZoORnF-s3TA%3D%3D",
+      "article_url": "https://www.barrons.com/articles/mstr-stock-price-strategy-bitcoin-buy-microstrategy-176e8def?gaa_at=eafs&gaa_n=AWEtsqesM-iIleHYo_CMYXwld2kD5puFgU_0CK7fY-w_IVCbWYBmpYVpLBU_&gaa_ts=69258c59&gaa_sig=CpF4QsGVVulsgzdWzQNYtqln2g-ANy8_bT7KlOjbWEKwo315pjLeXm5WLqJi3FK0L044whDj7Ugx0LbXAZKVmg%3D%3D",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Will Bitcoin\u2019s Dive Threaten Michael Saylor\u2019s Strategy?",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLW5yOUNwS2N1REhJWnpYZVhleWxObW41b3AtWXlhZm1EeUd1TjhRMS1mdS1HMlVqaU9SaHQwTE8zdFBNWVNuNDVYaDl2TWhudUxzNWpLUnV3X1plN1JxekljSVdnUVJ4MDh2MHVBQmQyVV9WSUhWb1RubE9TWkgtLUhvZEZDc1doVU5KV3owbHZVbkhTNEF6WGx1ckZ5azc2UTJXLVo5eFUxOXF1?oc=5",
+      "pub_date": 1763996400.0,
+      "article_url": "https://www.forbes.com/sites/ninabambysheva/2025/11/24/will-bitcoins-dive-threaten-michael-saylors-strategy/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6920df2dced0591f9526df64/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "When your entire corporate game plan and the investor base you\u2019ve cultivated revolves around the rising price of bitcoin, a 35% tumble in a month is cause for alarm."
+    },
+    {
+      "headline": "Michael Saylor's MSTR Appears to Have Broken Six-Week BTC Buy Streak",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFRfYVRBRUZJWnVVQ3gyeVY5X0ZwYy1kaTlESnRkNzlzdV8xWVFDZm95bVBXcl9HRHk5ZzdLejNWT29jUzF6SjBoLWNxUWpBeXRabkdSQkt3b3lIWjZJQlVpa1BFVTRqaUJhYWxSZFd5QUYwazJyRW1UbzQyT2toVjNDc0h5TUhXV3c4QUdTMFBoSGhFUU0yTXpqRzdtYk1CRUVn?oc=5",
+      "pub_date": 1763990874.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/24/strategy-apparently-paused-bitcoin-accumulation-last-week",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d66c28dbeddf1c6982599b72d1bc711e00f296ed-1079x1079.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The company's stock valuation sits near cycle lows as index exclusion chatter grows."
     },
     {
       "headline": "Bitcoin mining in China rebounds, defying 2021 ban",
@@ -73,26 +93,6 @@
       "article_url": "https://www.reuters.com/world/asia-pacific/bitcoin-mining-china-rebounds-defying-2021-ban-2025-11-24/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Hobbyist solo miner scores a full Bitcoin block worth $270,000 despite 1 in 180 million odds \u2014 3.146 Bitcoins mined by a single low-powered 6 TH/s ASIC with about 0.0000007% of the network\u2019s hashrate",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGFQbkJtVlo5VXI1RTJyLWhTTmlHcENnLWZYdTdUNHBrSEhOZ01Da1VjWmhPX3hmdk9QbTY4eXdrQTJyOUtkN1NaMW0xRURvU0dNb0V1TUNDZnUyYnhsZ2xPYXkzQzlEOE1NTUhTU2NFWXJKVHVJNFh6eDhkZldQTXJlb1lwLVdiRkwwZGlmbmtNV1ZCMGd3T1ZBa2ptUGxjRzZVU2tZb09zR1BFWVIyelhXTnJ4V0tVNmVxZWRB?oc=5",
-      "pub_date": 1763922426.0,
-      "article_url": "https://www.tomshardware.com/tech-industry/cryptomining/hobbyist-miner-using-a-single-6-ths-asic-mines-full-bitcoin-block",
-      "image": "https://cdn.mos.cms.futurecdn.net/xNgBpUETd9FRLejaNQYZe7-1000-80.jpg",
-      "description": "Solo miner controls roughly 0.0000007\u202f% of the Bitcoin network\u2019s hash\u2011power yet captures full block reward."
-    },
-    {
-      "headline": "China Returns as Third Largest Bitcoin Mining Hub With a 14% Share: Reuters",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGlhZk9YUGhmZVJDVEIyVFpZY1V2N1hSUjdPRXdJNm5sV3RoOS1RcnpleE1fUk1PZDdaczA0RWpzQXh1SHNWYl9nbHkwNk9KQVd0aE0tU2hvNHBmLWRfVlFNOWVvdWpsVjROQkQwZGlQcXh3Y3pBWjl6MUtXeEpjQkhicEhrUTFrX3VhX1htd3psTjZ0dmNLZmlWWUptY0RFZGJCb1laQTU5YXFxSkJROHJ2U3lLY2V3?oc=5",
-      "pub_date": 1763980960.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/24/china-returns-as-third-largest-bitcoin-mining-hub-with-a-14-share-reuters",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/604b0fc743ca409ef9b9240c3f4446fe92e312c3-1000x667.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "Underground activity expands as cheap power, miner demand and softer policy signals support a renewed mining push in key provinces in China."
     },
     {
       "headline": "Bitcoin Rebounds Above $88K\u2014Will It Last?",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T09:53:45.363067+00:00"
+  "fetched_at": "2025-11-25T10:46:07.678004+00:00"
 }

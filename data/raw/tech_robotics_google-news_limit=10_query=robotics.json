@@ -35,6 +35,16 @@
       "description": null
     },
     {
+      "headline": "You Must Read This Riveting Whistleblower Lawsuit About Allegedly Dangerous Robots",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVW5TMU5xTV96SW9YWGdfcE91TUg0SGpBdDVucHUtZnQ0UmNkdENNSTBUbUQzLVhVUHU2ZnJJZ09XaTlWS0hBY0ZURklJeTNTOUo1X0ZtVVJnaGFiSy1RRHFQREppQkpaSE54TUdrbTFidl9yb0c4a0FScUF6MGRCQ2hEa3lHTEF6aWxkUEdPQktMVURUaklnT0pHYS1RaFh0OEJfUW1TaXBjb2d0MWk1MTh5Yw?oc=5",
+      "pub_date": 1763838302.0,
+      "article_url": "https://gizmodo.com/you-must-read-this-riveting-whistleblower-lawsuit-about-allegedly-dangerous-robots-2000688737",
+      "image": "https://gizmodo.com/app/uploads/2025/11/figure-02-1200x675.jpg",
+      "description": "A safety technician was fired as a company allegedly rushed ahead in commercializing a powerful humanoid robot with bone-crunching capabilities."
+    },
+    {
       "headline": "Humanoid robots will change work forever",
       "source": "abc.net.au",
       "source_url": "https://www.abc.net.au",
@@ -53,16 +63,6 @@
       "article_url": "https://www.cbsnews.com/news/china-humanoid-robot-agibot-a2-walks-66-miles-guinness-world-records/",
       "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/24/e5e8b175-8e09-46ca-b6c7-202fd2a43ebe/thumbnail/1200x630/dedab634a3258c756470131532a55175/agibot-a2-humanoid-robot.jpg",
       "description": "A Chinese company says its AgiBot A2 robot walked from Suzhou to Shanghai, \"all while adhering to traffic regulations.\""
-    },
-    {
-      "headline": "Whistleblower Says He Was Fired for Warning Execs That New Robot Could Crush Human Skull",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeFBlQ1BrNEZhZUxlVExVSVZkZDIwMURlZTJfRnItSU9ody04UEhLaTMxV3R5aHJPN0wzTmV3cmFOc0FLWEg5MzFhZDluWDNyOHZLdTBDSUd1Vlpwek1NSHF0SWotWXdISDM0eVJWOVBMcWJYZDl0OFp1LWhZSlZ4ME5SWEdidnk1a21pZERCMA?oc=5",
-      "pub_date": 1764007686.0,
-      "article_url": "https://futurism.com/robots-and-machines/whistleblower-fired-warning-robot-crush-skull",
-      "image": "https://futurism.com/wp-content/uploads/2025/11/whistleblower-fired-warning-robot-crush-skull.jpg?w=1200",
-      "description": "A former safety engineer at leading robotics firm Figure also alleges the robot left a gash in a stainless steel door."
     },
     {
       "headline": "Kraken Robotics Reports Record Q3 2025 Financial Results",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T09:53:42.513936+00:00"
+  "fetched_at": "2025-11-25T10:45:59.953071+00:00"
 }

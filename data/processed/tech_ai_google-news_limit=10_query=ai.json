@@ -15,16 +15,6 @@
       "description": "Trades, machine operations and administrative roles are most at-risk, says leading educational research charity"
     },
     {
-      "headline": "Nvidia shares fall 3% on report Meta will use Google AI chips",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQkJsYW8tYWpQTlItQ3NieEx0OUh5THY1bnU0ZVpZajhMUWVicm16X2JiaG0zV094TG56cDBXOFgyNmdPMVhhS3RDeDU4TzY3RzlSZnFsUVE1WTM3cDlZb05RSldyenN2SWZidGs1Z0ZXVUplVURvWkhHdE9ueXM4TVpnN1dTeUIzRlBN0gGQAUFVX3lxTFBiXzlkeEtwZTVCZWxPdHFEejJDR0dKcGhoelRxdEVscXpKY0k2aGZ6RmtWMVg4OEdwV1JKa3hvSVg3ZGUyTWtrOU9TRlgxdDVRekxpVkVmLXhjTm9uNWNTSkxnOVZZUnBaVE53a0JwcGtZN3BLYkxvbkVlT0VtazAtejd2ekZPU2dqYzl4Ym1zdA?oc=5",
-      "pub_date": 1764061681.0,
-      "article_url": "https://www.cnbc.com/2025/11/25/nvidia-shares-today-google-meta-ai-chip-report.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229154-1763651121877-gettyimages-2246742874-raa-nvidiaph251118_npuO7.jpeg?v=1763651154&w=1920&h=1080",
-      "description": "Nvidia shares fell on Tuesday after The Information reported that Meta is considering using chips designed by Google."
-    },
-    {
       "headline": "Nvidia Shares Drop on Report of Google Challenge in AI Chips",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -35,44 +25,44 @@
       "description": "Meta is in discussions to use the chips \u2014 known as tensor processing units, or TPUs \u2014 in data centers in 2027, according to the Information, which cited an unidentified person familiar with the talks.  Meta also may rent chips from Google\u2019s cloud division next year, the news outlet said."
     },
     {
-      "headline": "Here's why concerns about an AI bubble are bigger than ever",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0dyS2I4eFprMm1QTVFnai16TjlvNTN0VVcyakdFWUlnaG9mcGhlc1NPVzRLRU4zamhzS0dyRlV0a05RQk40bDVVb0tfU09COG03TWFBSFJMQlpvXy1FZ2NQY0U0azFsZjF1NThUZmV5VzJKSmhDZDBBdHg5S3NsRFJLV0ZvSjVlYXFIVWJieE80NW01MlRFVGZB?oc=5",
-      "pub_date": 1763892000.0,
-      "article_url": "https://www.npr.org/2025/11/23/nx-s1-5615410/ai-bubble-nvidia-openai-revenue-bust-data-centers",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6570x3696+0+342/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F1c%2F8fb36bab4460ad7d24569abf921a%2Fgettyimages-2192213324.jpg",
-      "description": "Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there's a bubble that will soon pop."
+      "headline": "Nvidia shares fall 3% on report Meta will use Google AI chips",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQkJsYW8tYWpQTlItQ3NieEx0OUh5THY1bnU0ZVpZajhMUWVicm16X2JiaG0zV094TG56cDBXOFgyNmdPMVhhS3RDeDU4TzY3RzlSZnFsUVE1WTM3cDlZb05RSldyenN2SWZidGs1Z0ZXVUplVURvWkhHdE9ueXM4TVpnN1dTeUIzRlBN0gGQAUFVX3lxTFBiXzlkeEtwZTVCZWxPdHFEejJDR0dKcGhoelRxdEVscXpKY0k2aGZ6RmtWMVg4OEdwV1JKa3hvSVg3ZGUyTWtrOU9TRlgxdDVRekxpVkVmLXhjTm9uNWNTSkxnOVZZUnBaVE53a0JwcGtZN3BLYkxvbkVlT0VtazAtejd2ekZPU2dqYzl4Ym1zdA?oc=5",
+      "pub_date": 1764061681.0,
+      "article_url": "https://www.cnbc.com/2025/11/25/nvidia-shares-today-google-meta-ai-chip-report.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229154-1763651121877-gettyimages-2246742874-raa-nvidiaph251118_npuO7.jpeg?v=1763651154&w=1920&h=1080",
+      "description": "Nvidia shares fell on Tuesday after The Information reported that Meta is considering using chips designed by Google."
     },
     {
-      "headline": "In the age of AI, it's easy to make deepfake porn. But victims find it hard to undo the damage",
-      "source": "CBC",
-      "source_url": "https://www.cbc.ca",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSOU5ISi1xSTMzMl9pZFlldFN5RmRkNFJVSEh4UUpEMFJxeTRJUkRSOG84dzh0b09XcS1XRVBaQUctU2pOaTIyaTZIYkI3UDhzX29lQ2QzLUtDLWRmSHBZcHFlLV9yTnJDaU1adGpCRQ?oc=5",
-      "pub_date": 1764061252.0,
-      "article_url": "https://www.cbc.ca/news/world/ai-porn-consent-police-9.6975982",
-      "image": "https://i.cbc.ca/ais/a747343f-7228-4e22-92a4-a7744790aeee,1763740163456/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C11%2C2000%2C1125%29%3BResize%3D620",
-      "description": "Earlier this year, more than 700 photos, which included AI-generated pornographic images, were discovered on the laptop of a male student at Hong Kong University. They included images of three young women at the university, who spoke to CBC News about the difficulty of getting accountability in the age of AI deepfakes."
+      "headline": "Nvidia CEO told employees to use AI for 'every task that is possible' and says there will still be plenty of jobs",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOUt4WFpUTzBDWWJiYWxmbGxfdW5YUnd0TWdHMDZLbHdJNFF0RHZ6VElUS2FjUXBSa3ZNR1hTbHc0enZ3c2RrWjZGQmNucjFIMmxXTjE3cXFWRVFpMkZ1WmJVaHRTYnFKUm9jSmljbXhCR0xudHlEUk40cEFhamxnYnlSRFl0bUxTb1BjTEpnbkU?oc=5",
+      "pub_date": 1764064800.0,
+      "article_url": "https://www.businessinsider.com/nvidia-ceo-employees-use-ai-every-task-possible-2025-11",
+      "image": "https://i.insider.com/6924cc0089026fbb4d0e5041?width=1200&format=jpeg",
+      "description": "AI adoption at Nvidia is top priority, says CEO Jensen Huang in an internal meeting. He promised expanded hiring  amid AI growth."
     },
     {
-      "headline": "Spiralism is the new cult AI users are falling into",
-      "source": "The Week",
-      "source_url": "https://theweek.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvaE9KVGh6b0g3MHZhM2xKMmk4bHJBUFh2VElGU1BaaXFPZ1dnMmxlZTJFM3JtTURhZlIyeXpEYkdkWGViOVdGZ1d6aE0zS0twSGtlRWdKZkNWUUJQeXh1dmJmaW1BemlMekxR?oc=5",
-      "pub_date": 1764061380.0,
-      "article_url": "https://theweek.com/tech/spiralism-ai-religion-cult-chatbot",
-      "image": "https://cdn.mos.cms.futurecdn.net/J7A632qDaynHEGxoDKzvZV-2000-80.jpg",
-      "description": "The spiritual movement claims that AI is conscious and capable of revealing deeper truths"
-    },
-    {
-      "headline": "Trump aims to boost AI innovation, build platform to harness government data",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzQzVmZadVpvcC1DU29oTm9Ud2tLWjFVODM4UlRuUmxqdWpVX2R1Q1NBT2gtTUdQVF9JMjY2SDg3RzNDQUxTWGh4dXZ0MExwTnhLSklVU1BuSVBYYmg3eFhtUnJhUVVxZXQ3b0I3LXdjZXRucDNEbmlGNVF0ak13eGw1cHVKT0pGYVBpWktBeUk3U19KVUs2VE02Z3AyZkdhSnhhLWdVamxOZkxkOHo3bWgtVGM?oc=5",
-      "pub_date": 1764027601.0,
-      "article_url": "https://www.reuters.com/business/trump-aims-boost-ai-innovation-build-platform-harness-government-data-2025-11-24/",
+      "headline": "Prosecutor Used Flawed A.I. to Keep a Man in Jail, His Lawyers Say",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTElLZEUwanZERVp0MUNqenBTVTlNelZVVDgxTWxDNjNwbUhoa3ZPRnM0ZEFkM1Z1YmczaTdPcmZLZzJ4VDhMTHJoUGlUWVlNLUZOX0NSZ0EyY0pkV3VLRXduMHdzcEs3U3dPR3lsSnFQOW9NZnlJLWJmeTVJM3h6REFFdC1CTVltY05QSzRrcDNVQ3BJdHNnc29tMFJ5WV84ZE0zdHR3?oc=5",
+      "pub_date": 1764064806.0,
+      "article_url": "https://www.nytimes.com/2025/11/25/us/prosecutor-artificial-intelligence-errors-lawyers-california.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "All the problems with AI toys this holiday season",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55dm5wb2R5QkZFeDJmbWNPV1J3Zk9jV2ZDQzVleGJkRUV3Z09UbW5aNTVNV2REdGZOd3RFcGhuTEk1UG1EbzdadzZGZFVRRGh6cEVFX19lVVZIa0dvcUI0ckx3OVM?oc=5",
+      "pub_date": 1764064863.0,
+      "article_url": "https://qz.com/ai-powered-toys-gifts-christmas-holiday",
+      "image": "https://qz.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2226429043.jpg",
+      "description": "This season\u2019s hottest \u201csmart gifts\u201d come with stark privacy and psychological risks"
     },
     {
       "headline": "Trump signs executive order launching Genesis Mission AI project",
@@ -85,14 +75,24 @@
       "description": "The order announced the \u201cGenesis Mission\u201d for AI, a new federal push to mobilize the federal government's research and data to create artificial intelligence models."
     },
     {
-      "headline": "What to know about Trump\u2019s \u2018Genesis Mission\u2019 AI initiative",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSGJiZWJwVmhLTm1aY3ByTVU3VFJOZXZWSE9YSzMxb1RHanJmTTMwVTBicGpDTG51OHFNOVBPVms1b1BNdzQ0ZXEzU0V4YUpTemlTcFVRYUczZ21YQjdqS1BrNTNCdndmSFdCZ0NlbGM1d3NkRGhtbjVIQkpYbXE4T2xhR0RJaW9BOGpXVzZSYmg?oc=5",
-      "pub_date": 1764063300.0,
-      "article_url": "https://fortune.com/2025/11/25/what-to-know-about-trumps-genesis-mission-ai-initiative/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2234049855.jpg?resize=1200,600",
-      "description": "Trump\u2019s Genesis Mission, Anthropic\u2019s Claude Opus 4.5, Revolut\u2019s new valuation. Plus: Amazon, Apple, Bitcoin, Google, India, Nvidia, OpenAI, Spotify."
+      "headline": "Trump Signs \u2018Genesis Mission\u2019 Order to Boost Innovation With AI",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX1BHbDBzUEJNdnZ1WDMtYVlVb3FVd05UVm1XcDhMZDFjTnZUYzNFTlVBMHJIZGQzUVQxcFVya2lfRnNqdmJJQzF3YjF6SEJpMnpYWGU3dm9GTW1aRjExV2RGOEV2NVBPemJIbzhFVDZKR3JzUDJZMW95ek5ScW0wX3RIcm9kZw?oc=5",
+      "pub_date": 1764021523.0,
+      "article_url": "https://finance.yahoo.com/news/trump-signs-genesis-mission-order-215843263.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/u12SVGR.vt.34J1JksVzCA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTk-/https://media.zenfs.com/en/bloomberg_holding_pen_162/00a212f32f985b80c18a8cb75a6fa5ed",
+      "description": "The effort aims to better coordinate research done by agencies across the government and more effectively integrate AI tools to achieve more scientific breakthroughs, according to Michael Kratsios, the director of the White House Office of Science and Technology Policy, who spoke to reporters on the order ahead of Trump\u2019s signature.  The mission will harness the computing resources of the Department of Energy\u2019s national labs to tap federal datasets and enable more experiments utilizing AI, Kratsios added, predicting the effort would help shorten the timelines for scientific discoveries."
+    },
+    {
+      "headline": "Inside MAGA's growing fight to stop Trump's AI revolution",
+      "source": "ABC News",
+      "source_url": "https://abcnews.go.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ18zVHd5aHU0SW9LcWVfWjJld0ZrZjV3RmQyaVNRb0llcl9Dei1QRU9wcVo0MEZQVU1jVVdiWUQ0bXc5dE1VdmJ6QkEyNGJxdXZuX3phMTRUREpOZFhLQ1l5Q2Z4YVBpdGZLM2xrSFVEV1gxeXlQVEVlcXVjRGVLT201TnIxb1R6cnYtZUJJakxCVHJBN0hRRzdMVDFpZ9IBowFBVV95cUxPQVNZblB0RXhuYkZLd3FKSEx4eGhHRDRBTGR0Qmh2bm5xUXlibDR3eHBGSEZ5REFRU3RNdm1EdHNPaWVueHJYakZFZk92UUZ5bU45RFlvRTR6dlFXVW80cFhIMTdhLW9PajV6RE9PMXluOWZ4amotSGJ0MmN4NjlydG9BTWJvWHF0S05fS0R5bnc5Z29nczQ5WExyLUJ1dHduQkRB?oc=5",
+      "pub_date": 1764016908.0,
+      "article_url": "https://abcnews.go.com/US/inside-magas-growing-fight-stop-trumps-ai-revolution/story?id=127824351",
+      "image": "https://i.abcnewsfe.com/a/e2d7d898-26a0-4efd-8c4a-4d9095b3399d/bannon-gty-er-251124_1764010902064_hpMain_16x9.jpg?w=1600",
+      "description": "As President Trump pushes an extensive agenda for the advancement of AI, some of his most loyal supporters within the MAGA base are denouncing his efforts."
     },
     {
       "headline": "McKinsey explains why AI won\u2019t take your job, even though it can already automate 57% of all U.S. work hours",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T09:53:40.366111+00:00"
+  "fetched_at": "2025-11-25T10:46:04.544195+00:00"
 }

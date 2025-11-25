@@ -35,6 +35,17 @@
       "description": null
     },
     {
+      "title": "Kyber Labs hand rotates a nut on a bolt at super high speed, fully in real time with no edits",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1p69bkz/kyber_labs_hand_rotates_a_nut_on_a_bolt_at_super/",
+      "published": 1764067423.0,
+      "thumbnail": "https://external-preview.redd.it/d2tzdmZmbHp0ZDNnMZt21T7gZIc6qgnt26ZnwmtkE82GCAbBQduNZc7moJzt.png?width=640&crop=smart&auto=webp&s=81c8be457a0852ae9a14189b4ecfa7fdec27537b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Kyber Labs \ud835\udd4f: \"on Our hand rotates a nut on a bolt at super high speed, fully in real time with no edits. This is possible because it\u2019s fully backdrivable and torque transparent so it adapts naturally to the nut. The result is simpler, more reliable manipulation for software and learning systems.\": https://x.com/KyberLabsRobots/status/1993060588789137785?s=20 Website but in http: http://kyberlabs.ai archive.org: https://web.archive.org/web/20251125103835/https://kyberlabs.ai/"
+    },
+    {
       "title": "Can someone help me with my code",
       "author": "FnafLoverfrfr",
       "url": "https://www.reddit.com/r/robotics/comments/1p68crn/can_someone_help_me_with_my_code/",
@@ -99,18 +110,7 @@
       "site_name": "youtu.be",
       "favicon": "https://www.youtube.com/s/desktop/33c3234b/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
-      "title": "Trying to look for the closed form analytical solution for this Amazon bought robotic arm",
-      "author": "hisenberg-up",
-      "url": "https://www.reddit.com/r/robotics/comments/1p511g9/trying_to_look_for_the_closed_form_analytical/",
-      "published": 1763939603.0,
-      "thumbnail": "https://b.thumbs.redditmedia.com/Z7VzVd9aHUhPGVpVe4YyTfnT4xdgU9bWDqfiTmPGoLA.jpg",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "It claims to be a 6DOF but it looks like it only has 5DOF. First image shows the assembled arm, and second shows the transforms diagram. We are trying to find closed form inv kinematics solution and looking to see if that's possible or we will need to try for a numerical approach instead? Any suggestions appreciated."
     }
   ],
-  "fetched_at": "2025-11-25T09:53:27.874584+00:00"
+  "fetched_at": "2025-11-25T10:45:45.897649+00:00"
 }
