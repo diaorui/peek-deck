@@ -24,7 +24,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46029699",
       "author": "pugworthy",
       "points": 342,
-      "num_comments": 200,
+      "num_comments": 201,
       "created_at": "2025-11-24T02:25:39Z",
       "object_id": "46029699",
       "image": null,
@@ -65,7 +65,7 @@
       "url": "https://twitter.com/karpathy/status/1993010584175141038",
       "hn_url": "https://news.ycombinator.com/item?id=46036878",
       "author": "bilsbie",
-      "points": 149,
+      "points": 151,
       "num_comments": 153,
       "created_at": "2025-11-24T17:51:02Z",
       "object_id": "46036878",
@@ -145,7 +145,7 @@
       "site_name": "the Guardian"
     }
   ],
-  "total_hits": 383,
+  "total_hits": 384,
   "has_metadata": true,
-  "fetched_at": "2025-11-25T04:58:00.660771+00:00"
+  "fetched_at": "2025-11-25T05:29:18.859230+00:00"
 }
