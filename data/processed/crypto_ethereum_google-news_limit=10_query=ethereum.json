@@ -45,16 +45,6 @@
       "description": null
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP Jump as Rebound Gathers Pace. Where Cryptos Go Next.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOVVp6MlVHbkZaSFVSZGhDemlyelFzbE1tVzI4OUR5enM5My1LN0FadnhWVkZUVThuOWRaU251cHA4U2dCaDVqbVlOQ28wV1lRTUFfRVk3NDhoczN3TmstS3hMdVNqVl82WmYxTnhSN0hKQnZHemZYTWtUbTd2U09YVi1PNG9fbXptLVVfOVhXdVlWdHdMV1JfbkFqQURuMDNLNHpJYkFmQU1pNzRkOE9YeFRYVWtrX2ZCYkQtTFdFT0RpSE5ENFR0UlM3Ri1LSlN2OGdjcHNOTFRMaTlQUV9XU0k4aHhwandVejBkSUl0RU9oLXBsVS1Od2EtVmNHTWFPRXBROHpERzBlSGl0WkdUWmpoS2tRTUFHMm1aLVMxSmI4TWIwRks4cFVnR2x6UnJvemJKdDNkalRVay1OTmRBX29XZTk0cjhLQnFKVHVhN3dPUm9rSXlnTUlJWkN1QkpwUlpyamktRWx1bFowOHlUbEJxOVViU1ZLbzhOaGVEZml3bFV6UmpvTg?oc=5",
-      "pub_date": 1764064980.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-rebound-dea5ac89?gaa_at=eafs&gaa_n=AWEtsqdU9gGCeO8WxGCe0ByM21Erpeol3S1Y6bL3CRohWXqxSLloUYOAS8oQ&gaa_ts=6925df41&gaa_sig=u__VzGzI3rJqRjoagNVtn61OGYZkyGwLDFlxd6jw7B6yGjCTGe2oxyhlO_u1V29Vm0SXJsKcEC-t8z9uY9D2lw%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
       "source": "Nasdaq",
       "source_url": "https://www.nasdaq.com",
@@ -73,6 +63,16 @@
       "article_url": "https://www.cheddar.com/media/how-sharplink-is-reinventing-itself-earnings-ethereum-and-the-future-of-gaming/",
       "image": "https://www.armytimes.com/resizer/v2/https%3A%2F%2Fd3k85ws6durfp9.cloudfront.net%2F11-18-2025%2Ft_b05af3a7182b48328db800ee1b0fa467_name_GettyImages_951165896.jpg?width=1200&auth=2f90a30db862bad83cd3d6c29861192a551e3b3fa076bd2935cda20212061d48",
       "description": "Joseph Chalom breaks down Sharplink\u2019s latest earnings and why the company is pivoting from gaming to an Ethereum-powered future built on transparency."
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP Jump as Rebound Gathers Pace. Where Cryptos Go Next.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNNHVobXk3LTdPRVM5OTN0NTdpa3Z2VjlZVWNVcWtFbk5WczRGejQ0OS15anpOM056UlhxUXZBV3ZaNzloVHFJS00yZVY2bzZUOHV3Z01vdDBlVFRQUjkyS1VKUnk4U1lseHR0eVBMRkRwNVdkc19CWTFnVWdHc2p1MlpFSGtweEkzYXVVSXRXUm9XdkpPYkg5MFBaajVlVm02Q2VkbDdvN1hVY2dUVFoteWJraC1WWXo3NkF3MFlVRllsR0NBQkNhWG1oU2RHQ1FXREY4TkxiQ0lnMDlxSExtbmJGelVINlZuRVh6WHRKNWtiWF9zckN2M3BEXzlkT1JJem1lYUM0Rktjb2ZTSTE1eF9Lb0xlQVVRZnd2NDdzblpSRTJsUVVOVDVJaHFkTHhsZ1YzX0JRRGhJUjlUbTZkT2FvSzBpQXlBT0t0TjE4MVNrT1BJVV93VXVRdm4yYWowOGVURjBYX0MwajlROHl6OVVNcF9jUHlUQlhTaTE1Z1dscDc2MXZHZA?oc=5",
+      "pub_date": 1764064980.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-rebound-dea5ac89?gaa_at=eafs&gaa_n=AWEtsqdXjHTqrL4uPjbB1NUZ3YtpOfdYaCe0Yi2iazjKAT3mGWFEHsoz_8bx&gaa_ts=6925ea94&gaa_sig=CIefYWcxcBjR8BEGGTcoMPEDLyZv5kDqcIyvGXTqxvwpf8oC1ql9q9sORedH48W7c6rRx91EAW9bC6dB5bL4BA%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Is XRP or Ethereum More Likely to Be a Millionaire Maker?",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T16:39:45.949903+00:00"
+  "fetched_at": "2025-11-25T17:28:08.063495+00:00"
 }

@@ -13,17 +13,6 @@
       "description": "Kyber Labs on \ud835\udd4f : \"Our hand rotates a nut on a bolt at super high speed, fully in real time with no edits. This is possible because it\u2019s fully backdrivable and torque transparent so it adapts naturally to the nut. The result is simpler, more reliable manipulation for software and learning systems.\": https://x.com/KyberLabsRobots/status/1993060588789137785 Website: https://kyberlabs.ai"
     },
     {
-      "title": "Fully autonomous robots commanded using human language",
-      "author": "Cachee0",
-      "url": "https://www.reddit.com/r/robotics/comments/1p5zfx8/fully_autonomous_robots_commanded_using_human/",
-      "published": 1764034003.0,
-      "thumbnail": "https://external-preview.redd.it/YnIxem91YWoyYjNnMUL4fmj5eZqfL6BH7Tof4T7zO3TRp33vJeeMw_E4m1aW.png?width=640&crop=smart&auto=webp&s=45c4e79acc02477ced02da057aa5348e65a9a750",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "From Dimensional OS: https://x.com/dimensionalos"
-    },
-    {
       "title": "Rugged prototype to streamlined prototype",
       "author": "NecessaryConstant535",
       "url": "https://www.reddit.com/r/robotics/comments/1p6fnr0/rugged_prototype_to_streamlined_prototype/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Built a drone and a proprietary lowering mechanism. Ashamed to say how much time it took and theres still a lot of work left. Its fully autonomous tho, everything is contained within the drone, it doesn't need any communication link nor human operator"
+    },
+    {
+      "title": "Fully autonomous robots commanded using human language",
+      "author": "Cachee0",
+      "url": "https://www.reddit.com/r/robotics/comments/1p5zfx8/fully_autonomous_robots_commanded_using_human/",
+      "published": 1764034003.0,
+      "thumbnail": "https://external-preview.redd.it/YnIxem91YWoyYjNnMUL4fmj5eZqfL6BH7Tof4T7zO3TRp33vJeeMw_E4m1aW.png?width=640&crop=smart&auto=webp&s=45c4e79acc02477ced02da057aa5348e65a9a750",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "From Dimensional OS: https://x.com/dimensionalos"
     },
     {
       "title": "After 2 years, I'm open-sourcing the Rebelia Hand: From DIY files to a pre-assembled robot hand",
@@ -46,17 +46,6 @@
       "description": "Rebelia Robotic Hand V2 After two years of development, I'm excited to launch the Rebelia Robotic Hand project and open-source all the design files! This is designed to be accessible at every level, with three paths to get one: DIY : For the true maker. Source the 3D-printed parts and hardware yourself using our provided BOM and files. Kit Version : We provide the validated 3D-printed parts and the hardware kit for easier assembly. Pre-Assembled : A ready-to-use, fully tested hand, perfect for developers and companies who want to integrate immediately. The project is a robust platform designed for real use, currently undergoing testing for CE Marking. Key Features & Specs: Automatic Self-Adaptive Grasp 5 DOF with a Rotatable Thumb High Payload: Up to 12 KG Safety Features: Automatic Calibration, Overload & Overtemp Protection Enhanced Grip: \"Hyper Grip\" with skin-safe silicone pads Weight: 650g The Story: From Prosthetics to Robotics The project began with a goal to create an affordable prosthetic hand. While the extreme certification costs made that path impossible for now, the core technology was too promising to abandon. I pivoted to creating a hand for the robotics community. The ultimate goal is that success with this robotic version will fund and enable the future development of a certified prosthetic version. Get Involved! We are actively looking for beta testers (both companies and developers) to put the Rebelia Hand through its paces and provide feedback. Beta partners will have special access to kit and assembled units. You can find the full project page, including all STL files, source code, and tutorials on Hackaday.io: https://hackaday.io/project/204373-rebelia-robotic-hand I welcome all your advice, suggestions, and questions below!"
     },
     {
-      "title": "Unmanned fully autonomous heavy-duty electric trucks in China",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1p5flay/unmanned_fully_autonomous_heavyduty_electric/",
-      "published": 1763986792.0,
-      "thumbnail": "https://external-preview.redd.it/d2Z3cGVuMm81NzNnMT8M5JoCU6oxLdoyS7Nt_nBT8Dw0lJy1WayBzYX4TZAc.png?width=640&crop=smart&auto=webp&s=d645315fffbdb379ac04a21ebc58867776c58d26",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "MotorWatt: DeepWay Company: https://ev.motorwatt.com/ev-manufacturers/deepway From Nic Cruz Patane on \ud835\udd4f: https://x.com/niccruzpatane/status/1992796505284161782"
-    },
-    {
       "title": "Building a sub-$200, highly functional 3D-printed SCARA robotic arm",
       "author": "Yoni_bravo",
       "url": "https://www.reddit.com/r/robotics/comments/1p6gqan/building_a_sub200_highly_functional_3dprinted/",
@@ -66,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I\u2019ve been working on a SCARA robotic arm design that I\u2019m trying to keep under ~$200. It\u2019s entirely 3D-printed + off-the-shelf components, but I\u2019m aiming for features you usually only see on far more expensive arms. My goal is to build an accessible platform that\u2019s actually useful \u2014 not just a toy \u2014 and can serve as a solid base for anyone interested in getting into robotics in a meaningful way Planned features: PRRR SCARA configuration - simple kinematics, high stiffness for the weight High-accuracy motion using NEMA17 steppers + TMC2209 drivers Automatic tool-changer with magnetic pogo-pin connector Z-compensation module for tool contact detection + vision-assisted picking ESP32-based controller (FYSETC E4) running FluidNC firmware. Integrated top-view camera Comprehensive Web UI + full-feature control pendant ~0.3 m reach, target ~0.5 kg payload The idea is to push how far low-cost hardware + smart design can go. I think my industrial automation background and maker soul puts me in a good position to go for this thing. This is still early, but I\u2019d love feedback from anyone who has built robotic arms or worked with SCARA kinematics. If there are obvious pitfalls or design considerations I should watch out for \u2014 I\u2019m all ears. For more details please check my hackaday.io page - https://hackaday.io/project/204557-pr3-scara"
+    },
+    {
+      "title": "Unmanned fully autonomous heavy-duty electric trucks in China",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1p5flay/unmanned_fully_autonomous_heavyduty_electric/",
+      "published": 1763986792.0,
+      "thumbnail": "https://external-preview.redd.it/d2Z3cGVuMm81NzNnMT8M5JoCU6oxLdoyS7Nt_nBT8Dw0lJy1WayBzYX4TZAc.png?width=640&crop=smart&auto=webp&s=d645315fffbdb379ac04a21ebc58867776c58d26",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "MotorWatt: DeepWay Company: https://ev.motorwatt.com/ev-manufacturers/deepway From Nic Cruz Patane on \ud835\udd4f: https://x.com/niccruzpatane/status/1992796505284161782"
     },
     {
       "title": "Can someone help me with my code",
@@ -112,5 +112,5 @@
       "description": "Trying to get some ideas to make a demonstration of its potential capabilities.. Or even just your thoughts on it's design! Thanks :) https://www.youtube.com/watch?v=qawYP6E3znw"
     }
   ],
-  "fetched_at": "2025-11-25T16:39:26.837237+00:00"
+  "fetched_at": "2025-11-25T17:27:48.662567+00:00"
 }

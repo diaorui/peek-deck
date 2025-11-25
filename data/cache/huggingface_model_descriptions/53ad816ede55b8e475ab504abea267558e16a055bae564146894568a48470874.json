@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-11-25T17:28:13.796297+00:00",
+  "data": "FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image generation and editing, excelling at text-to-image, single/multi-reference editing without finetuning, and style/character transfer.",
+  "model_id": "black-forest-labs/FLUX.2-dev"
+}

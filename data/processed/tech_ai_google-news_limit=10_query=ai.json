@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Nvidia-Google AI Chip Rivalry Escalates on Report of Meta Talks",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0FtcktKZTh1MzRmWjh2bFZxaFR5dWI4QWtTeC0yeTFjLWtxQ2k0Zy1DNVRFZkJlalY2WFBiV0pydHpFb1dFTDVHUGJMZVViVTBraDc2TFlLT1Q5cXZKQzVNQ3BQMWV3Q2VsNU9zTFB1a1FaTk9tV1U4bU1NbEV1blRQRUQ?oc=5",
+      "pub_date": 1764075557.0,
+      "article_url": "https://finance.yahoo.com/news/nvidia-shares-dip-google-appears-014603931.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/8h6yF5EElDlcmTt1_OlHXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/36dae82fb94fa44063186c1c8747020e",
+      "description": "Meta is in discussions to use the chips \u2014 known as tensor processing units, or TPUs \u2014 in data centers in 2027, according to the Information, which cited an unidentified person familiar with the talks.  Meta also may rent chips from Google\u2019s cloud division next year, the news outlet said."
+    },
+    {
       "headline": "I\u2019m a Professor. A.I. Has Changed My Classroom, but Not for the Worse.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -15,34 +25,24 @@
       "description": null
     },
     {
-      "headline": "Nvidia shares fall 4% on report Meta will use Google AI chips",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQkJsYW8tYWpQTlItQ3NieEx0OUh5THY1bnU0ZVpZajhMUWVicm16X2JiaG0zV094TG56cDBXOFgyNmdPMVhhS3RDeDU4TzY3RzlSZnFsUVE1WTM3cDlZb05RSldyenN2SWZidGs1Z0ZXVUplVURvWkhHdE9ueXM4TVpnN1dTeUIzRlBN0gGQAUFVX3lxTFBiXzlkeEtwZTVCZWxPdHFEejJDR0dKcGhoelRxdEVscXpKY0k2aGZ6RmtWMVg4OEdwV1JKa3hvSVg3ZGUyTWtrOU9TRlgxdDVRekxpVkVmLXhjTm9uNWNTSkxnOVZZUnBaVE53a0JwcGtZN3BLYkxvbkVlT0VtazAtejd2ekZPU2dqYzl4Ym1zdA?oc=5",
-      "pub_date": 1764061681.0,
-      "article_url": "https://www.cnbc.com/2025/11/25/nvidia-shares-today-google-meta-ai-chip-report.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229154-1763651121877-gettyimages-2246742874-raa-nvidiaph251118_npuO7.jpeg?v=1763651154&w=1920&h=1080",
-      "description": "Nvidia shares fell on Tuesday after The Information reported that Meta is considering using chips designed by Google."
+      "headline": "Your AI use policy is solving the wrong problem",
+      "source": "Fast Company",
+      "source_url": "https://www.fastcompany.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vdXVyVjdwX2JjbHQ5Ymdtall2WHcxeUhEOEZXT1J1OG5FTWwzc2NmRDhIY0ZHb2JPdEQtS0wxdHYteGZIR18wYTh6OXpkbkFSTW9kbkFJMTJLTHBLem42aFh2SUQ4SlJyQko2aVpYTjlvdW52Qzk3V2xqVkg?oc=5",
+      "pub_date": 1764090812.0,
+      "article_url": "https://www.fastcompany.com/91444253/ai-use-policy-solving-wrong-problem",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Fleet Space finds massive lithium deposit using AI and satellites",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORmsycW9nQW5xMERtbUswVGZaZ1lRaHJESkZBR0VjX2ZkOWN4VXpZVGJoMGM5RmJIVmVTd0VsWmVLbV9GZWpaYjZFNzFiekp0WkdPUS1QVGdJVktmMVA4QUhwYlp0NUc0VFNhZDhKR3lkUVFMLWtwWU0zdVhJdzB5UFg2M3VOU3ZJRkRfR3hYX2RZU2xIcy1jVHNBaFVrZWZYLVE?oc=5",
-      "pub_date": 1764087273.0,
-      "article_url": "https://techcrunch.com/2025/11/25/fleet-space-finds-massive-lithium-deposit-using-ai-and-satellites/",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/fleet-space-satellite.jpeg?resize=1200,568",
-      "description": "The discovery suggests that a region in Quebec might hold even more lithium than originally suspected."
-    },
-    {
-      "headline": "How Will AI Shape Our Future? This Past Invention Offers a Clue",
-      "source": "City Journal",
-      "source_url": "https://www.city-journal.org",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSFIycDBjUEVMaEpRZWZZZldSc2hqS2tYOFdWamxpeG9FYzVNckRYQ0R6aTFqbnhfR1piWGVCX0gyUzNFd3d4X0kyWUpMSnFuMzJHNFNKR3ZRcU5QWnVMdHl0SWd0dnJZblh4UTkzeG1NNUJzR2RXZk8yV2FzcmM4QWZoNkxwSUZXa1htUTlWQ1JvM1B4MHVrQ2drUk12QQ?oc=5",
-      "pub_date": 1764086849.0,
-      "article_url": "https://www.city-journal.org/article/artificial-intelligence-revolution-future-lighting-invention",
-      "image": "https://media4.manhattan-institute.org/wp-content/uploads/sites/5/artificial-intelligence-revolution-future-lighting-invention.jpg",
-      "description": "The science of combining basic elements in novel ways led to countless new classes of products and services."
+      "headline": "Anthropic's AI Safety Team Raises Alarm: AI That Designs Vaccines Could Just As Easily Be Used To Build Bioweapons",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdlQzU0U5TXlNOHltTUFhbDc3TzNYdW12WHQ5ZTYxRmJoY1BDclJEMnd0c2hrMmVxWjNpNmNzemhLRDI5X3ZmTEhaSzJobXowU3NLYzJkTWpfcjdrbUdpcEhpSFZMNEY5ZUpMUFZ1U1A3QnNRMU9BOHJDUGNFR2pHM1J3eHhVaXg1czdv?oc=5",
+      "pub_date": 1764090049.0,
+      "article_url": "https://www.yahoo.com/news/articles/anthropics-ai-safety-team-raises-170049340.html",
+      "image": "https://media.zenfs.com/en/Benzinga/1d010b323d4e2eb3906631c47e2ea314",
+      "description": "The same tools that allow artificial intelligence to help design life-saving vaccines could also be used to build bioweapons, Anthropic\u2019s head of the safety team said recently. Vaccines Or Bioweapons? Same Tech, Different Intentions \u201cWe focus on CBRN\u2014chemical, biological, radiological, nuclear,\u201d Logan Graham told CBS\u2019s \u201c60 Minutes.\u201d in an interview aired last week. \u201cAnd right now, we\u2019re at the stage of figuring out, can these models help somebody make one of those?\u201d He said Anthropic\u2019s Claude AI"
     },
     {
       "headline": "Trump signs executive order launching Genesis Mission AI project",
@@ -55,56 +55,56 @@
       "description": "The order announced the \u201cGenesis Mission\u201d for AI, a new federal push to mobilize the federal government's research and data to create artificial intelligence models."
     },
     {
-      "headline": "Here's what's in the RAISE Act, a state-level AI bill opposed by Trump and industry leaders",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORG9YSE91T05teW5ud2dJQldheV95ZFkzcl9ibzJ2a2ozZ2xKakV2bHpDbUlyaVR0ckREMk5aZEpPckdkcUt5aW5kZWpnYXdpNXQ0QVlqMUpKNzF5RmsxREJ2ZEoyc2hNT0l0TUZ5cWJBM3VVOE84SjBidDBHYnd0QU90QkliY3ZkOWZlYWFwajRxTXgwcEtmV01iekpMcHg3Z05BZ3ptYXPSAa4BQVVfeXFMTjB1Z3B5NEx2cUlOei1VWG5vRzJ2aGJWUk9DeUx1ZVRYMW0xNG9SbnRNLTNtSFM1X3hYZ25TTXNFNnFydmtCa1N4bHZkRklCS1lKNXphd09CSTJ3YlZ2TkpjbmgxWUVfWHNfaWtRV2pxMDdydjlqS3RpQ1dfd3pvM1gwdFVWakFDVjlOUGJmdEZfV0c0dEN3dGhtSUQ1Q1hFVnloUVNuUkNGelhOZVVn?oc=5",
-      "pub_date": 1764002775.0,
-      "article_url": "https://www.cnbc.com/2025/11/24/raise-act-new-york-faces-opposition-from-trump-ai-industry-super-pac.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108231093-1764006053293-108231093-1764005988567-gettyimages-2235635791-McGregor250918AbolishICE09.jpg?v=1764006067&w=1920&h=1080",
-      "description": "The RAISE Act would require large AI companies to publish safety and risk protocols and disclose serious safety incidents."
+      "headline": "Trump Orders Construction of A.I. Platform to Use Troves of Government Data for Research",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOakdfYTFXLTRTdE14dHFtSHh5MTNRb0FVWnNJTTNJZVNzRHJPQW1XdWRpME1keXJzdGUwVlVVRmdrS0dPM1hlalh4WkswNzFjcFppY01LZXExbzltTmlHZGtyS3QyZjN3d0pyTTNUdGdRRmk1WHljc1FkN0dvSXBLeml3?oc=5",
+      "pub_date": 1764034576.0,
+      "article_url": "https://www.nytimes.com/2025/11/24/us/politics/trump-ai-executive-order.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Inside MAGA's growing fight to stop Trump's AI revolution",
-      "source": "ABC News",
-      "source_url": "https://abcnews.go.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ18zVHd5aHU0SW9LcWVfWjJld0ZrZjV3RmQyaVNRb0llcl9Dei1QRU9wcVo0MEZQVU1jVVdiWUQ0bXc5dE1VdmJ6QkEyNGJxdXZuX3phMTRUREpOZFhLQ1l5Q2Z4YVBpdGZLM2xrSFVEV1gxeXlQVEVlcXVjRGVLT201TnIxb1R6cnYtZUJJakxCVHJBN0hRRzdMVDFpZ9IBowFBVV95cUxPQVNZblB0RXhuYkZLd3FKSEx4eGhHRDRBTGR0Qmh2bm5xUXlibDR3eHBGSEZ5REFRU3RNdm1EdHNPaWVueHJYakZFZk92UUZ5bU45RFlvRTR6dlFXVW80cFhIMTdhLW9PajV6RE9PMXluOWZ4amotSGJ0MmN4NjlydG9BTWJvWHF0S05fS0R5bnc5Z29nczQ5WExyLUJ1dHduQkRB?oc=5",
-      "pub_date": 1764016908.0,
-      "article_url": "https://abcnews.go.com/US/inside-magas-growing-fight-stop-trumps-ai-revolution/story?id=127824351",
-      "image": "https://i.abcnewsfe.com/a/e2d7d898-26a0-4efd-8c4a-4d9095b3399d/bannon-gty-er-251124_1764010902064_hpMain_16x9.jpg?w=1600",
-      "description": "As President Trump pushes an extensive agenda for the advancement of AI, some of his most loyal supporters within the MAGA base are denouncing his efforts."
+      "headline": "The Genesis Mission To Harness AI For Innovation And Security",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSHdiLUJoODhGeV9aQjc0dW5PaXliSld6NmFhMXBhdFQxNGNfMXhRZUJfYXJZYlRVczV3alVFVGJWR3hqUUJ4Q1A5VGRJbjF6c3FtUVlEX0h3TFd3enFRWkNlU3dwcXg1S01vNFgtUHlXN1pWTDVEWEEwcUxweDN2eW1OY0NEajAtTmF2eDlTWUItcE96eGpVNzhVZFRwX1FrTHpYcU03bUtLaXhlTExwQWtGU0o?oc=5",
+      "pub_date": 1764085991.0,
+      "article_url": "https://www.forbes.com/sites/chuckbrooks/2025/11/25/the-genesis-mission-to-harness-ai-for-innovation-and-security/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6925cea30c9c52b9c10aac27/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "This Genesis Mission is a bold strategic move that treats science, data, and computing as essential parts of our national strength, not optional extras"
     },
     {
       "headline": "\u2018Sovereign AI\u2019 Takes Off as Countries Seek to Avoid Overreliance on Superpowers",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQZ3VvcThRR1NhelMwcVlLSjB6NlIzOUNZdkF2NTdIWUJlNTA5ODZPWHJtamJkSFVpS1BBWWtqdjhFVnF6SUxLeVJMc1ZRY3h0SHd0X1VJMmZZM1U2YmgzeEpJdWtXbmJoajhJYXB4cGZ1a0lNQTZQN0FVbFNtdnNmeGI3WTZFTFRQaWR5cjZKTl9HLVNsZDVnVHhESlJWMDliSmQ2NVE2S040M1diN0VTWEp3Q2JRVE1zV3EwTGE5QWdTY0c0LTluWjJNWmE2QWo1bFNjLTVOdWJqc2hFMnVaN3pzXzJza1pMR3haYW1ldzl5YldPYkJkOTd4MnhTZTJ1a2ZzVnc3QkVWNXBDbVhJcXRxcUl2VGdWWXZzSUxVd3hrb0hDemhXYjJVVkhwN1hSRkNfenFramY4emtOYURfVW1DdHgzOW5OYndyUWpObm1COXY3elV4Z2d5aEZrcGpENDJENjd2YkpmY1M1QnZkbWwxaUF0LTRuUjhNVzdQbmJvQXptUmlEaWphakRrSkdwU2lRbFo2U085QXlkNnhzYWxIZ3UxbHdvMWdOdWhIUmdGTnV4TXlKOG9XN2U?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPV0RRX3Y2cmhFSHc4M2RldjRZTGpjN0ZJam9ERFpZVm51RXk1UElZWGhaZW4yWDdrdlJtZjhhUGV5UnBJNkhQTU1MVm45eEhEd1M4a0ZOdkJkWGVUc1FHZ2t6TXYxUDhHS24xcTJxa2t3VzlZckpPVkE5RVdHRHZzSnN3NVdEdU5sQUN3SktFWm5ZXzVrQVN4RnBYZ2FhMEpsel9ZSjBUWGZVRWVRaTY2M1NEWjhHYTE2SDNvd1VwWEd5M25fYTRibHN3QmZBYjYwOE85ODlMYWhNRWs5d1VNbHoyQWFwc2tTZzVQOUFjUGlFUEdMSmY4VGhZOHJZcXlXRW1hcU5XdXIyZmhwSHc4VlljOWNxWFJwWUtGNkQyOEJ2Um1LdVdjLTRYMTVWQlFmOGJjNXpCdkxUTi1tQnBpYXFPckphSjV0VEhaNFVpMGhTaFdUdkxLcWFRQ2E1UVMySWlERkx0bm1aMHJYM3NQMlp0YWtrWVdqZlBOOXVQZzM3aTlrc05tbFNtTDhvU3pQakJabFYzYTVTc3dHclJNTVpBczNvbTJ0MURVOXJtYm9HQUlCalFocmxMa3Y?oc=5",
       "pub_date": 1764043200.0,
-      "article_url": "https://www.wsj.com/tech/ai/sovereign-ai-takes-off-as-countries-seek-to-avoid-overdependence-on-superpowers-6b1689f7?gaa_at=eafs&gaa_n=AWEtsqeXrXGYFO31KZpAbyk9Q0qnW7TYtjxfv-aYq3UtalLel1nV-g-9hRYc&gaa_ts=6925df3e&gaa_sig=OPCihmyr4xyLnQ_X6Y2AwjLfkZNCU0ezlv0nXGNpBvtOOdCcFFL6TCEtUVTmei3_zhvi-_rc-GEkzm-0bB4d2g%3D%3D",
+      "article_url": "https://www.wsj.com/tech/ai/sovereign-ai-takes-off-as-countries-seek-to-avoid-overdependence-on-superpowers-6b1689f7?gaa_at=eafs&gaa_n=AWEtsqfDx0nAi6kNtkBb2G1Jb2nW1g3gD1wWh7-sWeNd6je1NzJFoZcgJkEF&gaa_ts=6925ea91&gaa_sig=EnfKUgLKZqtcSHqtkVLjnQho-Eyp59wOrSEcwDQF7-7kf_tWgWEV20LmQqTLZuN8w2_LLo-u-40IFIAqryWCmQ%3D%3D",
       "image": "https://images.wsj.net/im-60425344/social",
       "description": "South Korea and others believe their homegrown tech sectors are strong enough to build up their own AI capabilities."
     },
     {
-      "headline": "Why you shouldn\u2019t count on humans to prevent AI hiring bias",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaHhjOEpKcHVldjYyZEJJUmdHa1BYT0pDcG4wY1VpTnNDTk5hR1JPN1JKR1pOX3JBTld1RVRuNUZsQW95OWhSU3plNjh4SGdSXzVCVlRqYnNUVmwzT09kU2ktQy1WdjYyejBJaDZINms0UXFtZ2Y0U1g5MkRnYXVOR0cweEM5WjRVdFVLLUI3LWpEbmZfeWJxRHl0Y281V2ZPNE9SdnNGYzZ3NENR?oc=5",
-      "pub_date": 1764086524.0,
-      "article_url": "https://www.washingtonpost.com/business/2025/11/25/biased-ai-hiring-research-university-of-washington-study/",
-      "image": null,
-      "description": null
+      "headline": "AI could replace 40% of American jobs, says report",
+      "source": "The Times",
+      "source_url": "https://www.thetimes.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeWJYN0pEeTFIMWtqWi10TDFDZWh2ZlRRYUdTcVJ6c2YxTTZZOFNsY3F0Y2Y4b1o2cVN6T1Z2dUJiRGRBSmdUcFM3Sk5wNWdjWGdBU3psUjJmMlBab1hOZEl5Yzk3WnNSNVkzd1B4OGhWTW5VTVJTZTdvMjJCUlpZNHl3em0wSVdBTWtWS205Um90TnpnbHpvYUdjUEtQS0JGN3NORmpuQ0pIUFVsczRxMy1R?oc=5",
+      "pub_date": 1764050400.0,
+      "article_url": "https://www.thetimes.com/business/economics/article/ai-could-replace-half-of-american-jobs-says-report-fbr8glxj2",
+      "image": "https://www.thetimes.com/imageserver/image/%2F2bcafed5-038a-4e13-b499-1d3aa529a3d5.jpg?crop=4000%2C2250%2C0%2C417&resize=1200",
+      "description": "McKinsey report finds that with today\u2019s technology, AI agents and robots are ready to automate about 57\u00a0per cent of work hours in the United States"
     },
     {
-      "headline": "Deloitte just got caught again citing fabricated and AI-generated research\u2014this time in a million-dollar report for a Canadian provincial government",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNDl2OWNLaThMSUlmRlQwZDd4anA5QVdpN0ZIbUtLSnItMmZZaExEMVlPUHJUNmF0VUZwV19wSXp4b05RNVdqS044bWFieTRoYU9FRWtQcDVac3pBVlJQQXAyeFdyYk1mdzU4cDVBQ19XMktBYzlScEJPd2JkOWhNMmN2eG1RMTNNa0d4Qjg4NVczQVRrQWl3aEs5SFRENzFqSVZkM2hwaDloemVGWTNsWTlyRzZ4X29FZUtiVg?oc=5",
-      "pub_date": 1764068580.0,
-      "article_url": "https://fortune.com/2025/11/25/deloitte-caught-fabricated-ai-generated-research-million-dollar-report-canada-government/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2219338782-e1764016531575.jpg?resize=1200,600",
-      "description": "In a healthcare report aimed to address a nurse and doctor shortage, Deloitte cited several fake studies with real researchers\u2019 names attached."
+      "headline": "Estimating AI productivity gains from Claude conversations",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13LXNtRmNxWU4tclNKZFVRWGp3c3VJQXlFVGF2bUV1elpaMlc0VklQVU5QdzRfbEp1cUtmcm1wYllCbWphUE82TTZtSW1YMWIyYld3bVVFcXcySG9qa0JuNHhRM1RPUmVmTDRzT3lvYnJ2dw?oc=5",
+      "pub_date": 1764076628.0,
+      "article_url": "https://www.anthropic.com/research/estimating-productivity-gains",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeBook&backgroundColor=olive",
+      "description": "Anthropic economic research on productivity gains"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T16:39:59.729429+00:00"
+  "fetched_at": "2025-11-25T17:28:11.828094+00:00"
 }

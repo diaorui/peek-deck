@@ -2,17 +2,6 @@
   "subreddit": "Bitcoin",
   "posts": [
     {
-      "title": "Bitcoin ages like Wine...",
-      "author": "SideExciting7921",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p6a4id/bitcoin_ages_like_wine/",
-      "published": 1764070282.0,
-      "thumbnail": "https://preview.redd.it/vockcrdw0e3g1.jpeg?width=640&crop=smart&auto=webp&s=4f4325a7d6b90d73ce634139101b69b09fd1346b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Since 2020, the U.S. dollar has lost 20% of its purchasing power While Bitcoin has gained over 900% In spite the volatility, zooming out from the chart gives a fine wine taste the longer you HODL"
-    },
-    {
       "title": "''My friend who has phd said that Bitcoin has no intrinsic value'' \ud83e\udd2d",
       "author": "unthocks",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p64jd6/my_friend_who_has_phd_said_that_bitcoin_has_no/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I keep seeing news on JP Morgan shorting MSTR and I don't quite understand it, or even if it's real. I'm also seeing reports JP Morgan is debanking clients, which appears to be real. Can someone explain what JP Morgan is up to? Are they trying to corner the crypto market or destabilize it more?"
+    },
+    {
+      "title": "$89,000 Bitcoin Today vs Last Week",
+      "author": "SolidityScan",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p6g00b/89000_bitcoin_today_vs_last_week/",
+      "published": 1764085976.0,
+      "thumbnail": "https://preview.redd.it/jmkxxv89df3g1.png?width=640&crop=smart&auto=webp&s=eca9f908bb2a5218bb648d7f2fb89127b988c821",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Do you believe your eyes?",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-25T16:39:24.194761+00:00"
+  "fetched_at": "2025-11-25T17:27:43.926201+00:00"
 }
