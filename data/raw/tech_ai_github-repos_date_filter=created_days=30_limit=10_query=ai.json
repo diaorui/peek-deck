@@ -8,9 +8,9 @@
       "description": "NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard",
       "url": "https://github.com/NoFxAiOS/nofx",
       "preview_image": "https://opengraph.githubassets.com/9ba5f7e4ca1bf7079776fe1839ddb80d9da0b7566fa37fb55e37e4870588c003/NoFxAiOS/nofx",
-      "stars": 8080,
+      "stars": 8082,
       "stars_display": "8.1k",
-      "forks": 2120,
+      "forks": 2121,
       "forks_display": "2.1k",
       "language": "Go",
       "topics": [
@@ -30,10 +30,10 @@
       "description": "A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language",
       "url": "https://github.com/liujuntao123/smart-excalidraw-next",
       "preview_image": "https://opengraph.githubassets.com/7dc6e7a2aa2e5f6261deb6fd2aab56f3f00fe2d57ae1127a3e15ec0557210a06/liujuntao123/smart-excalidraw-next",
-      "stars": 1994,
+      "stars": 1997,
       "stars_display": "2.0k",
-      "forks": 248,
-      "forks_display": "248",
+      "forks": 249,
+      "forks_display": "249",
       "language": "JavaScript",
       "topics": [
         "ai",
@@ -117,8 +117,8 @@
       "description": "\ud83d\udc68\u200d\ud83c\udfeb ChatTutor: Visual and Interactive AI Tutor",
       "url": "https://github.com/HugeCatLab/ChatTutor",
       "preview_image": "https://opengraph.githubassets.com/e9157eb46672c03098222d401312ad77657411f4732f5747fb498b7aa7385f79/HugeCatLab/ChatTutor",
-      "stars": 726,
-      "stars_display": "726",
+      "stars": 727,
+      "stars_display": "727",
       "forks": 89,
       "forks_display": "89",
       "language": "TypeScript",
@@ -155,13 +155,13 @@
       "description": "EverMemOS is an open-source, enterprise-grade intelligent memory system. Our mission is to build AI memory that never forgets, making every conversation built on previous understanding.",
       "url": "https://github.com/EverMind-AI/EverMemOS",
       "preview_image": "https://opengraph.githubassets.com/fea5bac69284b6fc84ca2d9ce9d7c3999b01d406d1a1ee24250c634becff8d81/EverMind-AI/EverMemOS",
-      "stars": 684,
-      "stars_display": "684",
+      "stars": 689,
+      "stars_display": "689",
       "forks": 67,
       "forks_display": "67",
       "language": "Python",
       "topics": [],
-      "updated_at": "2025-11-18T14:43:06Z"
+      "updated_at": "2025-11-25T14:27:36Z"
     },
     {
       "full_name": "gensyn-ai/codeassist",
@@ -184,6 +184,6 @@
   "search_query": "ai created:>2025-10-26",
   "days": 30,
   "limit": 10,
-  "total_count": 215819,
-  "fetched_at": "2025-11-25T13:45:27.025263+00:00"
+  "total_count": 216232,
+  "fetched_at": "2025-11-25T14:48:29.389033+00:00"
 }
