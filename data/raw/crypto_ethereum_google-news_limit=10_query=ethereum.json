@@ -15,6 +15,16 @@
       "description": "The company increased its crypto holdings last week despite sitting on around $4 billion in unrealized losses on its ETH bet."
     },
     {
+      "headline": "Monad Rises After Airdrop While Bitcoin and Ethereum Droop",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldVg3emZSby1qdmZydUk4RE1RM3B2NGx0M3ZELTI4N0hMTmNmeGdrNzFqU0Roc2VoZzgzM05IaE9Da3lPVG8yV0dwSFNYUER5eEFrenFHblltamNqeXlLcEpGZFg0aHNWTEpHMU9IQU0wLUJnR0RhTFh1T21fbUnSAYcBQVVfeXFMTzVOa3hYanU5bTliVHBpYjYwNy10dHhnTjloTF85b2lvMmJZTm9sWXVMM3hiUmVIeGpvN25IaklyQnlWdndWYURYV0NHeVBCVDlDUWJxS3hrN0gtdWszakdYVkpDa3BwRFpRWk5taTZQdWtybU81bEZpS1E3NVAzMUdnekM1Tklv?oc=5",
+      "pub_date": 1764107946.0,
+      "article_url": "https://decrypt.co/350029/monad-rises-after-airdrop-bitcoin-ethereum-droop",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Chart4_green-gID_7.png",
+      "description": "The price of Monad\u2019s native cryptocurrency rose on Tuesday, following an anticipated airdrop that initially underwhelmed some speculators."
+    },
+    {
       "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -25,24 +35,14 @@
       "description": "Bitcoin and Ethereum have impressive track records and sky-high future price targets."
     },
     {
-      "headline": "'Privacy Is Hygiene,\u2019 Says Ethereum Creator Vitalik Buterin After Bank Data Leak",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUplRVB5VHN4WGM0S1o2c3VHN0ZEdWZyODIxdmh0WVRORC1ZLUpnWS1Pa3l2S2M5RTJXRkUzNEYwaGl0VFk0WU5pSmxMMGJVWGNqaktuS2xqeVlFVW9pV0pzdXBLV2xyLTA4NHdsTW5RT1NxZWlhN2t6NXY3Z0pYYm9YLTlYR0JNZXhpWnNuWENqM1IySjM3VnFuX3gyYlQzamd3XzF30gGuAUFVX3lxTE9SNUtCNUdaellrTU94eXZPLUR3SXdnVVpDOFV4M1VwcGE3NWgyRUdJVjJZbFRNZG13V3ZkV2RGMFBzdHpVZ0x3VFlyaEN4TktqNkhnUEp0Q2RTWXIta1U5WFA2TkNobmplNjJiVGZQYWhfTnhERWY2ZzJHS0JnVVgwSEhtX0k1WUFKZ0RjREp5QmQ3Ykhwc0NidWZDZzdFSUFJbG11TWZibW10akJDZw?oc=5",
-      "pub_date": 1764007525.0,
-      "article_url": "https://decrypt.co/349864/privacy-is-hygiene-says-ethereum-creator-vitalik-buterin-after-bank-data-leak",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/vitalik-buterin-ethereum-decrypt-style-05-1-gID_7.jpg",
-      "description": "A major security breach impacting U.S. banks has renewed debate on privacy as interest in crypto privacy tools and protocols grows."
-    },
-    {
-      "headline": "This 1 Key Stablecoin Trend Just Stalled -- Should Ethereum Investors Be Worried?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONXRycHRKb0dNSjgwN29QajIyaURHTkFMSC1uT1Ntd2k3Y25NRWZ0ZTRpUnc1c0xvTmlLSzZHaG05VjdXODQ0bEJmTDgzREozd1VmZVp5a1hGZ3huRVM3YUg3NWFPOUZ0VDBuZ2l1TGVqVnNfZmUxNXpQel8zUFJiU0FIRm9fWGdpYmEyMFZXNA?oc=5",
-      "pub_date": 1764095820.0,
-      "article_url": "https://www.fool.com/investing/2025/11/25/1-stablecoin-trend-stalled-eth-implications/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843776%2Fethereum-virtual-money.jpg&w=1200&op=resize",
-      "description": "If these doldrums give way to outflows, there could be a real problem."
+      "headline": "Offchain Labs challenges Vitalik's RISC-V proposal, says WASM better for Ethereum L1",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUZLbWdKaklRcFkya19mTlBVZldlUDA5czhfNXJBMGxnSW5Fd1BpOWJOWUVlRXpjTHMwSHhVbUdVX1NQMmYtTG9fY2xDdE56TXd4RVVvWGJMR1ZCaGxlcXFjMnY5OGJyTzVnWW1TM2tudlc3TklROXRIVEtIV01wS2M2MEg5aFhhXzlPV0htVlh3TmVTdklPdXc5X0tqX2dyX09zV0NTWUYwXzVSQXZQZE1ZdXhnZ0lqN2fSAb8BQVVfeXFMTTczOEZJaVFDYTlDNXMxcVBFM2thZDNNam95MHhmTnBaUXVHWnNSZnNsNzFkTlFFdzZDM2JONmxoTmNBMFVxNEt2ZXhXdUJnLTFEWGx1c2tLSE1UQk1BQzhldzNhMGc4bVNfd1E5STNEWGo4TDczQ1Z2NS1fQW5CaXlTWUJuajM5cW1WLXcxbWZGRUFUakIzS1VYRFBBUDlwZWEwa0VSV0VnQnJXQy1oN05BU0ZXYW9DSVQtRmFIdFE?oc=5",
+      "pub_date": 1763931335.0,
+      "article_url": "https://www.theblock.co/post/380070/offchain-labs-challenges-vitaliks-risc-v-proposal-says-wasm-better-for-ethereum-l1",
+      "image": null,
+      "description": null
     },
     {
       "headline": "How Sharplink Is Reinventing Itself: Earnings, Ethereum, and the Future of Gaming",
@@ -55,6 +55,16 @@
       "description": "Joseph Chalom breaks down Sharplink\u2019s latest earnings and why the company is pivoting from gaming to an Ethereum-powered future built on transparency."
     },
     {
+      "headline": "This 1 Key Stablecoin Trend Just Stalled -- Should Ethereum Investors Be Worried?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONXRycHRKb0dNSjgwN29QajIyaURHTkFMSC1uT1Ntd2k3Y25NRWZ0ZTRpUnc1c0xvTmlLSzZHaG05VjdXODQ0bEJmTDgzREozd1VmZVp5a1hGZ3huRVM3YUg3NWFPOUZ0VDBuZ2l1TGVqVnNfZmUxNXpQel8zUFJiU0FIRm9fWGdpYmEyMFZXNA?oc=5",
+      "pub_date": 1764095820.0,
+      "article_url": "https://www.fool.com/investing/2025/11/25/1-stablecoin-trend-stalled-eth-implications/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843776%2Fethereum-virtual-money.jpg&w=1200&op=resize",
+      "description": "If these doldrums give way to outflows, there could be a real problem."
+    },
+    {
       "headline": "Why Crypto Is Going Up Today? XRP Price, Bitcoin, Ethereum And Dogecoin Rebound From Six-Month Lows",
       "source": "Finance Magnates",
       "source_url": "https://www.financemagnates.com",
@@ -63,16 +73,6 @@
       "article_url": "https://www.financemagnates.com/trending/why-crypto-is-going-up-today-xrp-price-bitcoin-ethereum-and-dogecoin-rebound-from-six-month-lows/",
       "image": "https://images.financemagnates.com/images/Smartphone%20showing%20different%20cryptos_id_7e86d2a3-5578-419e-9b4b-12e05b7e3321_size900.jpg",
       "description": "Crypto surges today as Bitcoin hits $88,590, XRP jumps 8%, Ethereum rallies 2.1%. Fed rate cut odds at 82% drive recovery. My technical analysis, however, shows caution ahead."
-    },
-    {
-      "headline": "What will happen if bitcoin and ethereum hit key liquidation levels",
-      "source": "Sherwood News",
-      "source_url": "https://sherwood.news",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjVoQTBSSk1vbHJPQXZGdlk1SW1GZjdpN2JDODl0UmxyNFQxSG5oSUc5VEVoVGhsZFZfZ2w0ZzZnQVN6OWwycjdxZXctZ2stemY1cXFnaUVQT3RFMzV2QThwemdfVVJBcFVKQUdXX181SEM2TUF4dVluYVRXamRvQzUxN0g1LWs5NkFFcWd4V0FocGl4OS1MaXZNYUdYQQ?oc=5",
-      "pub_date": 1764091319.0,
-      "article_url": "https://sherwood.news/crypto/what-will-happen-if-bitcoin-and-ethereum-hit-key-liquidation-levels/",
-      "image": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/dv537008_businessman-pulling-a-dollar-sign.jpg?w=1600&auto=compress%2Cformat&cs=srgb",
-      "description": "Billions in forced liquidations have swept through crypto markets in Q4. Here are the major liquidation clusters on perpetuals protocol Hyperliquid..."
     },
     {
       "headline": "Ethereum Founder Buterin Warns Of New X Feature: Here\u2019s Why",
@@ -85,6 +85,16 @@
       "description": "Ethereum co-founder Vitalik Buterin is sounding the alarm over X\u2019s new \u201cshow which country the account is from\u201d transparency tag, arguing that the feature"
     },
     {
+      "headline": "What will happen if bitcoin and ethereum hit key liquidation levels",
+      "source": "Sherwood News",
+      "source_url": "https://sherwood.news",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjVoQTBSSk1vbHJPQXZGdlk1SW1GZjdpN2JDODl0UmxyNFQxSG5oSUc5VEVoVGhsZFZfZ2w0ZzZnQVN6OWwycjdxZXctZ2stemY1cXFnaUVQT3RFMzV2QThwemdfVVJBcFVKQUdXX181SEM2TUF4dVluYVRXamRvQzUxN0g1LWs5NkFFcWd4V0FocGl4OS1MaXZNYUdYQQ?oc=5",
+      "pub_date": 1764091319.0,
+      "article_url": "https://sherwood.news/crypto/what-will-happen-if-bitcoin-and-ethereum-hit-key-liquidation-levels/",
+      "image": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/dv537008_businessman-pulling-a-dollar-sign.jpg?w=1600&auto=compress%2Cformat&cs=srgb",
+      "description": "Billions in forced liquidations have swept through crypto markets in Q4. Here are the major liquidation clusters on perpetuals protocol Hyperliquid..."
+    },
+    {
       "headline": "Bitcoin, Ethereum ETF Offers Dual Crypto Exposure",
       "source": "ETF Trends",
       "source_url": "https://www.etftrends.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.etftrends.com/coinshares-content-hub/bitcoin-ethereum-etf-offers-dual-crypto-exposure/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "BitMine stock spikes as Ethereum reserves hit 60% of targeted level",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mbmJ2MlpHSFlyNktBU2s0TDlLRTNvdzFua2VwQmRlSXlsbGJVQnE4THVIUXZOX3ZaVG1qRkZvdmRnNHIxTDBOaE9idXdHcmpYSkdYM1J2WGtLRHR6bTRNNjdDTVNMVEFoY1BiN08zdVUydXcxRFZJ?oc=5",
-      "pub_date": 1764039508.0,
-      "article_url": "https://cryptobriefing.com/ethereum-accumulation-goal-bitmine-stock/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2025/11/24215651/306d9100-2896-4292-b0e8-3a0fa980ff08-800x420.jpg",
-      "description": "BitMine stock climbed nearly 20% as the company reached 60% of its Ethereum accumulation goal, now holding 3.6 million ETH or 3% of supply."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T21:57:54.073205+00:00"
+  "fetched_at": "2025-11-25T22:44:46.097018+00:00"
 }

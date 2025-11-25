@@ -5,94 +5,44 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Google Further Encroaches on Nvidia\u2019s Turf With New AI Chip Push",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWNkaE5DQjFRZ0lZS0RIZjU2Nlp1NDEtQkR2N1JQckluRkE0OGRHU3pKN3B1eHFwNXktVzJvQlUyMU54OEpVeVRIc2xWMmhBTVFEMzNFN3FVMFppYldidi1lNVZBV2hXS080VXNZUlVBd1dtc3lXVnA3emladDhBeFFMQ3E2ZXBwRUltNmpUTDQ?oc=5",
-      "pub_date": 1764024180.0,
-      "article_url": "https://www.theinformation.com/articles/google-encroaches-nvidias-turf-new-ai-chip-push",
-      "image": null,
-      "description": null
+      "headline": "Nvidia says its GPUs are a 'generation ahead' of Google's AI chips",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVG8zU3NmR0xkeDlaMmhNQThNZnN6MFZtV2VfbnNMT0ZYcVJFLUJiaENlTlRGNE9KMXZSdDhMZVdyT24wcE9JdWxJTWNVSFJpOEU1Vm03aXZwT2ZONnh5S1ZBeXFOOERIWVBBNlg5WnBPTVBfM2VSX29maU5UN2h2amlRVFIwN3BXdnNrVDItWHZaSDlLX2w2UF9TQzVUYVd5QUHSAacBQVVfeXFMTm9EMGExa2dMN1pKMWQ2MjZUc1hST2ZCNnFsYTFENlItc3plcm9rdjd1Y3RjLXFQZ2t2V0ZKWW1tLUNwRTRUZW1LbkpkR05JcnNteFk2MUNfcWFWZmJnQWp1RnVISzJMS3UwUk1SQTF0cU5welZqVVdvTElyS3dvS0tpVUlYOXNUOXRuREFnNG4xbzNORXRLaEtpSW1qSWtJLUx6bVJzeUE?oc=5",
+      "pub_date": 1764095391.0,
+      "article_url": "https://www.cnbc.com/2025/11/25/nvidia-says-its-gpus-are-a-generation-ahead-of-googles-ai-chips.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229150-1763650981923-gettyimages-2246892165-AFP_84JG4JG.jpeg?v=1763651000&w=1920&h=1080",
+      "description": "It was in response to Wall Street's concern that Google's TPU chips could threaten Nvidia's dominance of the AI infrastructure industry on Tuesday."
     },
     {
-      "headline": "Prosecutor Used Flawed A.I. to Keep a Man in Jail, His Lawyers Say",
+      "headline": "I\u2019m a Professor. A.I. Has Changed My Classroom, but Not for the Worse.",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTElLZEUwanZERVp0MUNqenBTVTlNelZVVDgxTWxDNjNwbUhoa3ZPRnM0ZEFkM1Z1YmczaTdPcmZLZzJ4VDhMTHJoUGlUWVlNLUZOX0NSZ0EyY0pkV3VLRXduMHdzcEs3U3dPR3lsSnFQOW9NZnlJLWJmeTVJM3h6REFFdC1CTVltY05QSzRrcDNVQ3BJdHNnc29tMFJ5WV84ZE0zdHR3?oc=5",
-      "pub_date": 1764064807.0,
-      "article_url": "https://www.nytimes.com/2025/11/25/us/prosecutor-artificial-intelligence-errors-lawyers-california.html",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1JDcTlTQlp3VVhmZURGLVNOR0JBVGZIVVhBZjEyWEJYQ2pySVpYdEhzdVVCZTZEVnBsMTVlM25LSGk5OUEwWmpvSUpYX2xPYXB6RHpSSHVZd1lZdHNLY0hSWTlreTI2ZG5vNjB5Rk9iZXNfTXZqN2JhSnFJSDlLenNyUElkVE1hRl9CUVBsaw?oc=5",
+      "pub_date": 1764078638.0,
+      "article_url": "https://www.nytimes.com/2025/11/25/magazine/ai-higher-education-students-teachers.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "David Sacks tried to kill state AI laws \u2014 and it blew up in his face",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVDhIdTlKZ3U4TEt6c0Uwck1YZFFRVkxHcWRRdHE2YWxaVTgtYTVocTFDbFhZTDNsM1JTTDFPc2d0aGduLVhMNmFWVTZBXzVPaUN5cnhEbV8ySERJdEN6Y1ZsMTV5WEtyVHZCNi02TnhuMlpRT2lxMkhuSVBoXzdKT2tCZmxfdHRvb3RpQ1lhX3JJQXc?oc=5",
-      "pub_date": 1764104768.0,
-      "article_url": "https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKP213_DAVID_SACKS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "A leaked executive order reveals that the tech billionaire would have become America\u2019s AI policy gatekeeper."
+      "headline": "Hollywood works to navigate rise of AI as \u2018smaller screens\u2019 have become \u2018flooded\u2019 by AI content",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaa0ppRnNKZHJtZmh4dkhBSWk0emh2WmVHLXVoRWNCaDk1Z2h6ZFdVNDBvSWpiZG00UUZtNm81Ulp1b0FZSWs4UDlJZXpCS2EzLTlaUTF3?oc=5",
+      "pub_date": 1764109209.0,
+      "article_url": "https://www.foxnews.com/video/6385584540112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e24467c1-2a0b-4c90-8956-b637fba1f7ab/45993ee5-e05a-49ec-815f-b28a52ac2795/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Chapman University professor Charlie Fink discusses the impact of the A.I. boom on the Hollywood industry on \u2018The Story with Martha MacCallum.\u2019"
     },
     {
-      "headline": "AGs call on Congress to reject ban on state AI laws",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOczAxakM3dmxlbzhQVmJialBzUzJpYmM0TDNXM1lVeks5VXE4RGhKVlhiOWFzWkZDSWUwbDFrNUtYczh3dGUzekdQdk85dTVybnNsNkU1RmJSWnNQS09hTEEzeXIteUFzaVI1TDlXRGk4YzF5SVAtZDVQbHlROEpEZTduVDQ1RmkzcktIa0ZfemvSAZYBQVVfeXFMTXVia0J3VjNRRlVZQVZFZDBRRWY3aTRUUnp6OEdTZzFwRm5QWEtJRlZjUERQVkNrMjN4WVd6OTktZElMbktnVEZCLUpYTUdlSDhyQ2FwQUtfWXQ1V2Uya3ZmRVVRUG93NXctSGRscUZKcExYdDl5WlRIaGlhMDhfZnh2eVloVUFNbUZRdkpIdXhGZ3ljbWJn?oc=5",
-      "pub_date": 1764105840.0,
-      "article_url": "https://thehill.com/policy/technology/5622401-attorneys-general-reject-congress-ai-ban/",
+      "headline": "AI agents have stolen investors' hearts",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONFZERHVfZXRhazJJTG9RdVFKeHZhU2ZiLTZwYS1ENldJRDRRbmFwZlN6Tl9EUlFDYVJVcmRUX2ZhVnRZVWJiZzZ6UWptVXUwYWZZSVR6SktZRXB5d29SdDJnQS1ScVBkT2k5TXFnMGZaeUk1SVZ1Rk1oMTJlNmkwWVc3Q2ljT3hpQ0paWmNB?oc=5",
+      "pub_date": 1764107476.0,
+      "article_url": "https://www.axios.com/pro/health-tech-deals/2025/11/25/ai-agents-health-care-workflow",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "AI advocacy group launches $10M campaign pushing for federal AI framework",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcFpSSzZIWVFMUm5YNnlIVUlKUllNSzNIWDc0dDA2RGRUN3lpelRldVg3dzAtUEJUUXFiTDVKa1hQWUtQODZFTTBaY0hFeUQtbkl3OWlNclJkSWlEQkMtR2NROTNMeXNCUC1fVlJ5cXZod2I4OGpMWkNUUk9xeFAzQXhtZ29DZHA2V3dZ0gGQAUFVX3lxTE0wNURSLVVrUXd1MldOOW9pZGpnZ1ZBSnZIbWFKTzlXT201LXNPby1sX1dvSkVvZERwOFVhbkRHNWFCNEx4VWhISGJQR1RXZG5sVEdyUk1TOVM5cTMwdEtBRmlQMVlGa2lkd2JKcndZQVE4SWxpdElDLUozTWM3Z0lkdzFERGxqZTNPZWxteld0bA?oc=5",
-      "pub_date": 1764105180.0,
-      "article_url": "https://thehill.com/policy/technology/5622459-congress-urged-to-pass-ai-regulation/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Music fans enraged as AI-generated \u2018singer\u2019 tops the holiday charts: \u2018Seriously?\u2019",
-      "source": "pagesix.com",
-      "source_url": "https://pagesix.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHNteWFLS0tzNnNZbXpQYjJSQ1RKb0F2TTRnTkVUbkdqeWdKcjUwTUlfR2ZPRFJkc0hJRWt3Wl91eHhFRnJYXzZEeG5NeUR4a1FjYlFRQTd1eVlKSTBnUkExQTEwQkxjVEZTbjFHOERKNDRQdFlMcFg4T3huaFlob1JUcDhGc2lBOFRfMjJETk9IMWlYczZiVkJjQzlQeGNwR0hWQWxUdFVOR2c?oc=5",
-      "pub_date": 1764105720.0,
-      "article_url": "https://pagesix.com/2025/11/25/entertainment/music-fans-enraged-as-ai-generated-singer-tops-holiday-charts/",
-      "image": "https://pagesix.com/wp-content/uploads/sites/3/2025/11/116201486.jpg?quality=75&strip=all&w=1200",
-      "description": "\u201cSolomon Ray is no longer \u2018the AI experiment.\u2019 He is now the biggest new voice in gospel music \u2013 period.\u201d"
-    },
-    {
-      "headline": "Warner strikes \u2018landmark\u2019 deal with Suno; settles copyright litigation with AI music generator",
-      "source": "Music Business Worldwide",
-      "source_url": "https://www.musicbusinessworldwide.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUN5cjc0emRES1hUeWQwR0pWT2NNdDVxNWt4TEdNdU5qb2lWcnIyTUtvZXliZVBNMGtLQTNBanMxSU4xdmd1UnJsTW8wR3JzN2Vsby1kQUhoNFR5ZXliVjBuaVRWUnNhVS1YTV83dlJXZS1xeWhxVW5FRjB5WmdiUGxfM1RTcHVRU3F1T19LSlpWQ3E5cnBUMkFkTzIzTEZBQ1dDNko0VHlSNlgtaU5UWUtjSHZMazZBaTVDVnVaVmNrUklXazcxMUp3?oc=5",
-      "pub_date": 1764098374.0,
-      "article_url": "https://www.musicbusinessworldwide.com/warner-music-group-settles-with-suno-strikes-first-of-its-kind-deal-with-ai-song-generator/",
-      "image": "https://www.musicbusinessworldwide.com/files/2025/01/Suno.png",
-      "description": "The deal also settles previous litigation between the companies; Firms will collaborate \u2018on next-generation licensed AI music\u2019\u2026"
-    },
-    {
-      "headline": "AI-Music Heavyweight Suno Partners With Warner Music Group After Lawsuit Settlement",
-      "source": "Rolling Stone",
-      "source_url": "https://www.rollingstone.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVldiLS05dnlCVnkzVmVnajdXQTEtSmV1d0JRNUlBNXU5NmQtRUNhRncyYlM1ZHA0MlR1a29HSURjRnpNQzdvT1pIU0hQWHN1bzVmVGRhUEJQQ2ctMTI5RmVnU2NDeGw4NnFZRGxvUVZOZDItczJySXc0Z0tpeGVGYkhmRzZ5NFpnVXYzaGVmUl93VE1TTWFJNDhPMUFRNWw5SWp0Nm9ZVHFOQk51czJxbnJ1dw?oc=5",
-      "pub_date": 1764105079.0,
-      "article_url": "https://www.rollingstone.com/music/music-features/suno-warner-music-group-ai-music-settlement-lawsuit-1235472868/",
-      "image": "https://www.rollingstone.com/wp-content/uploads/2025/11/GettyImages-2237643058.jpg?w=1600&h=900&crop=1",
-      "description": "One of three major labels is officially done fighting AI music \u2014\u00a0Warner Music Group is instead partnering with Suno, the biggest AI-music platform."
-    },
-    {
-      "headline": "Warner Music signs deal with AI music startup Suno, settles lawsuit",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORXdvVGhQVzhud3N1UHNYeXdkUUZsWUJIalJ3N3VhY0hMX05YY19xNWNwd3hrSDdpOXZIUjloR2JjazVkd3pKSEtxWHp3ZmtBeWtUOEhwTzJpak52QmlIX2cydG5ycEd0enNWamlHUFlWakZWX1FQNTdMR1V4Z1dUakc4c2ZtbE52SXJaeExEcEZLcGtsYllKTzA1SmJwQlhLT2dN?oc=5",
-      "pub_date": 1764100651.0,
-      "article_url": "https://techcrunch.com/2025/11/25/warner-music-signs-deal-with-ai-music-startup-suno-settles-lawsuit/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/piratedea-hMJ-r8y9zzA-unsplash.jpg?resize=1200,900",
-      "description": "WMG says artists and songwriters will have full control over whether and how their names, images, likenesses, voices,\u00a0and compositions are used in new AI-generated music."
     },
     {
       "headline": "AI Slop Recipes Are Taking Over the Internet \u2014 And Thanksgiving Dinner",
@@ -103,8 +53,58 @@
       "article_url": "https://www.bloomberg.com/news/articles/2025-11-25/ai-slop-recipes-are-taking-over-the-internet-and-thanksgiving-dinner",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Thanksgiving Dinner Headed for Tragedy as Disastrous AI Recipes Devour Internet",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUHZ5RFhkNHJ4NkJ4MmkxZFRXbkh4ZG1UTUlHNVZ1eGhjeFBmYWswQlVnTkl4YWFIdDRhOVhJc1pRRG51NFJJY3NTbmkzVFVIbHpkd1BnbHo4cC1TNXlleUdldk1mcHVNZzBwdjVOMnZfS09SOE14VFFMZ2c5T1d6TjlBWVZLSi1Qb3RvTUU3a3BPZVNYcF9IYzBsWDE?oc=5",
+      "pub_date": 1764108600.0,
+      "article_url": "https://www.yahoo.com/news/articles/thanksgiving-dinner-headed-tragedy-disastrous-221000778.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/wqDixM80e0i2FiwEk0KheQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzA7Y2Y9d2VicA--/https://media.zenfs.com/en/futurism_981/c65ca27a57aad1413cbbf496d4402ab8",
+      "description": "Home cooks beware."
+    },
+    {
+      "headline": "A New Way to Ruin Thanksgiving: Making AI Slop Recipes",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMmM2ZklDcUE3dFF5WmEtRUNRb05kQllqNjU2XzV1czJlRUhJbmdERUhVLW9IZHlfdWlSNXR6OENGaGtUYlBvTXVWSHVCdm40bnZaZzNQWldsajFXLXVPa2dFY2dmM281MkVVS0pGanNIUG9tMm9Fbi10UXFBdFhoMHlqUG1wc29UWl9abQ?oc=5",
+      "pub_date": 1764106545.0,
+      "article_url": "https://gizmodo.com/a-new-way-to-ruin-thanksgiving-making-ai-slop-recipes-2000691622",
+      "image": "https://gizmodo.com/app/uploads/2014/11/rpxjintmythmiuhqz4x0.jpg",
+      "description": "Innovation at the dinner table."
+    },
+    {
+      "headline": "Is language the same as intelligence? The AI industry desperately needs it to be",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObkJ4VnYwNEpaRlNyUzhQMEMxSzdpX2RrTGhXRUZybGVJazlYT1N6Q2VVYVFtN3d5U2JKaXNzVkQtRWJnOW4tNkE2bWxRdDg4RmtZRmNxT0o5N09hUXk5T3RFUmdza3VCNHhtQmlJcnRtbXd1N0FZTXB2enV3RG9Tb1Rla2VKSmszdzY1ZWt3dXU1RXJGWjVRVW9qMFBldGRYSHYzQmk2YWg4Vm1pSVVGMEZBZDFaSG93WGc?oc=5",
+      "pub_date": 1764072000.0,
+      "article_url": "https://www.theverge.com/ai-artificial-intelligence/827820/large-language-models-ai-intelligence-neuroscience-problems",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258108_language_is_not_intelligence_CVirginia37.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "The AI boom is based on a fundamental mistake."
+    },
+    {
+      "headline": "Europe loosens reins on AI \u2013 and US takes them off",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNldla1dVdlJCTUlKcUtwdzZlb292VndGRkExcEttWVNKaG1pVmtCcDI2WDBVdXBOVXVZZ0NPeVNNRm96YVBITEh4dWpXMEs3ZmY5VUtoNFlGVlQxdHlwYXl6MDRBbl9rYzlpb01UWFU2MUJ5LWtaUTU0d2dnaGk0Yi1KM1RFOEVSa0N5c190dTk?oc=5",
+      "pub_date": 1764091440.0,
+      "article_url": "https://www.theguardian.com/technology/2025/nov/24/us-europe-artificial-intelligence-ai",
+      "image": "https://i.guim.co.uk/img/media/ee07a32d49c887cd105777a2887d05733b4387ef/548_0_4182_3345/master/4182.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b9c81d809dece8068248799f611c51e4",
+      "description": "EU and US unshackle regulations in quest for growth, and is the AI bubble about to burst? Not yet, says Nvidia"
+    },
+    {
+      "headline": "AI Christian \u2018singer\u2019 Solomon Ray tops the charts, stirs ethical debate",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcnhZS0xqMll0ZlhKOWU3V0UxT0lmM19TeDY1SHl5dFVCMGRubkhCa1hld0VjUzNacHpvR1JGdWxJcEVqUTBYOUxkRWZ6OW5jSjAyV3NVclhlSEVuM18yMklOVnB5U0JDTWh5N0JCaEtsWmJxNlhEZlAzYmFfZ3FVZWI1RV9YLUtyQ2pJWWE2czNtajRFU3fSAZsBQVVfeXFMUE0tM3FwWjlhSEFYMDM5UGdEenF2R3lRQXhERXRpZkQ1T3FOZVViMHVzU0pUUko2MkhqRU9ySUMwZEkxa1RJNzJmMWlyZmxFQkFnem1tdURrU242S3QtbXVYOFlUeExBRklheDNMVlRDY010VnFXVTBuTU1YcUNpREo4UFhCeXQzX015R215WUVBdjNsNy16ZU9MZVU?oc=5",
+      "pub_date": 1764068580.0,
+      "article_url": "https://thehill.com/policy/technology/5620871-ai-christian-singer-tops-charts-stirs-debate/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T21:58:03.074557+00:00"
+  "fetched_at": "2025-11-25T22:44:51.542141+00:00"
 }

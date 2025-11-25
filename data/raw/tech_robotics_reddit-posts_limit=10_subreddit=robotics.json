@@ -57,6 +57,17 @@
       "description": "Rebelia Robotic Hand V2 After two years of development, I'm excited to launch the Rebelia Robotic Hand project and open-source all the design files! This is designed to be accessible at every level, with three paths to get one: DIY : For the true maker. Source the 3D-printed parts and hardware yourself using our provided BOM and files. Kit Version : We provide the validated 3D-printed parts and the hardware kit for easier assembly. Pre-Assembled : A ready-to-use, fully tested hand, perfect for developers and companies who want to integrate immediately. The project is a robust platform designed for real use, currently undergoing testing for CE Marking. Key Features & Specs: Automatic Self-Adaptive Grasp 5 DOF with a Rotatable Thumb High Payload: Up to 12 KG Safety Features: Automatic Calibration, Overload & Overtemp Protection Enhanced Grip: \"Hyper Grip\" with skin-safe silicone pads Weight: 650g The Story: From Prosthetics to Robotics The project began with a goal to create an affordable prosthetic hand. While the extreme certification costs made that path impossible for now, the core technology was too promising to abandon. I pivoted to creating a hand for the robotics community. The ultimate goal is that success with this robotic version will fund and enable the future development of a certified prosthetic version. Get Involved! We are actively looking for beta testers (both companies and developers) to put the Rebelia Hand through its paces and provide feedback. Beta partners will have special access to kit and assembled units. You can find the full project page, including all STL files, source code, and tutorials on Hackaday.io: https://hackaday.io/project/204373-rebelia-robotic-hand I welcome all your advice, suggestions, and questions below!"
     },
     {
+      "title": "I talked about robot learning with Prof. Sergey Levine of Physical intelligence and UC Berkeley in the backseat of a Waymo for our new video series: AI in Motion",
+      "author": "vincentvanhoucke",
+      "url": "https://www.reddit.com/r/robotics/comments/1p6qqhk/i_talked_about_robot_learning_with_prof_sergey/",
+      "published": 1764109997.0,
+      "thumbnail": "https://external-preview.redd.it/J1_Rp6f8Yr7tgzRD13uozQfhBpn8eDJMciI0ILwCQOo.jpeg?width=320&crop=smart&auto=webp&s=b44f1861d7c5318fd2996fcda15d6872b8d7b775",
+      "external_url": "https://www.youtube.com/watch?v=0CfMCOzmJZI",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
       "title": "Unmanned fully autonomous heavy-duty electric trucks in China",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1p5flay/unmanned_fully_autonomous_heavyduty_electric/",
@@ -99,18 +110,7 @@
       "site_name": "youtu.be",
       "favicon": "https://www.youtube.com/s/desktop/33c3234b/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
-      "title": "TEMAS Pick & Place | Aruco + AI Depthmap",
-      "author": "Big-Mulberry4600",
-      "url": "https://www.reddit.com/r/robotics/comments/1p5h29d/temas_pick_place_aruco_ai_depthmap/",
-      "published": 1763990915.0,
-      "thumbnail": "https://external-preview.redd.it/F4wDCIMIDWuU0R2jcayoDHSrVUAG3XbZcOHfcaqGE94.jpeg?width=320&crop=smart&auto=webp&s=5041baa1735e56529ceb1d7cc5254ccd9f17556a",
-      "external_url": "https://youtube.com/shorts/24reR1AUCiU?feature=share",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/33c3234b/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     }
   ],
-  "fetched_at": "2025-11-25T21:57:41.990136+00:00"
+  "fetched_at": "2025-11-25T22:44:32.840870+00:00"
 }
