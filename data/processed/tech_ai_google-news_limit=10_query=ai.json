@@ -15,17 +15,7 @@
       "description": "Trades, machine operations and administrative roles are most at-risk, says leading educational research charity"
     },
     {
-      "headline": "Nvidia Shares Drop on Report of Google Challenge in AI Chips",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0FtcktKZTh1MzRmWjh2bFZxaFR5dWI4QWtTeC0yeTFjLWtxQ2k0Zy1DNVRFZkJlalY2WFBiV0pydHpFb1dFTDVHUGJMZVViVTBraDc2TFlLT1Q5cXZKQzVNQ3BQMWV3Q2VsNU9zTFB1a1FaTk9tV1U4bU1NbEV1blRQRUQ?oc=5",
-      "pub_date": 1764035160.0,
-      "article_url": "https://finance.yahoo.com/news/nvidia-shares-dip-google-appears-014603931.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/8h6yF5EElDlcmTt1_OlHXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/36dae82fb94fa44063186c1c8747020e",
-      "description": "Meta is in discussions to use the chips \u2014 known as tensor processing units, or TPUs \u2014 in data centers in 2027, according to the Information, which cited an unidentified person familiar with the talks.  Meta also may rent chips from Google\u2019s cloud division next year, the news outlet said."
-    },
-    {
-      "headline": "Nvidia shares fall on report Meta will use Google AI chips",
+      "headline": "Nvidia shares fall 3% on report Meta will use Google AI chips",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQkJsYW8tYWpQTlItQ3NieEx0OUh5THY1bnU0ZVpZajhMUWVicm16X2JiaG0zV094TG56cDBXOFgyNmdPMVhhS3RDeDU4TzY3RzlSZnFsUVE1WTM3cDlZb05RSldyenN2SWZidGs1Z0ZXVUplVURvWkhHdE9ueXM4TVpnN1dTeUIzRlBN0gGQAUFVX3lxTFBiXzlkeEtwZTVCZWxPdHFEejJDR0dKcGhoelRxdEVscXpKY0k2aGZ6RmtWMVg4OEdwV1JKa3hvSVg3ZGUyTWtrOU9TRlgxdDVRekxpVkVmLXhjTm9uNWNTSkxnOVZZUnBaVE53a0JwcGtZN3BLYkxvbkVlT0VtazAtejd2ekZPU2dqYzl4Ym1zdA?oc=5",
@@ -33,6 +23,16 @@
       "article_url": "https://www.cnbc.com/2025/11/25/nvidia-shares-today-google-meta-ai-chip-report.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108229154-1763651121877-gettyimages-2246742874-raa-nvidiaph251118_npuO7.jpeg?v=1763651154&w=1920&h=1080",
       "description": "Nvidia shares fell on Tuesday after The Information reported that Meta is considering using chips designed by Google."
+    },
+    {
+      "headline": "Nvidia Shares Drop on Report of Google Challenge in AI Chips",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0FtcktKZTh1MzRmWjh2bFZxaFR5dWI4QWtTeC0yeTFjLWtxQ2k0Zy1DNVRFZkJlalY2WFBiV0pydHpFb1dFTDVHUGJMZVViVTBraDc2TFlLT1Q5cXZKQzVNQ3BQMWV3Q2VsNU9zTFB1a1FaTk9tV1U4bU1NbEV1blRQRUQ?oc=5",
+      "pub_date": 1764062250.0,
+      "article_url": "https://finance.yahoo.com/news/nvidia-shares-dip-google-appears-014603931.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/8h6yF5EElDlcmTt1_OlHXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/36dae82fb94fa44063186c1c8747020e",
+      "description": "Meta is in discussions to use the chips \u2014 known as tensor processing units, or TPUs \u2014 in data centers in 2027, according to the Information, which cited an unidentified person familiar with the talks.  Meta also may rent chips from Google\u2019s cloud division next year, the news outlet said."
     },
     {
       "headline": "Here's why concerns about an AI bubble are bigger than ever",
@@ -45,6 +45,16 @@
       "description": "Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there's a bubble that will soon pop."
     },
     {
+      "headline": "In the age of AI, it's easy to make deepfake porn. But victims find it hard to undo the damage",
+      "source": "CBC",
+      "source_url": "https://www.cbc.ca",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSOU5ISi1xSTMzMl9pZFlldFN5RmRkNFJVSEh4UUpEMFJxeTRJUkRSOG84dzh0b09XcS1XRVBaQUctU2pOaTIyaTZIYkI3UDhzX29lQ2QzLUtDLWRmSHBZcHFlLV9yTnJDaU1adGpCRQ?oc=5",
+      "pub_date": 1764061252.0,
+      "article_url": "https://www.cbc.ca/news/world/ai-porn-consent-police-9.6975982",
+      "image": "https://i.cbc.ca/ais/a747343f-7228-4e22-92a4-a7744790aeee,1763740163456/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C11%2C2000%2C1125%29%3BResize%3D620",
+      "description": "Earlier this year, more than 700 photos, which included AI-generated pornographic images, were discovered on the laptop of a male student at Hong Kong University. They included images of three young women at the university, who spoke to CBC News about the difficulty of getting accountability in the age of AI deepfakes."
+    },
+    {
       "headline": "Spiralism is the new cult AI users are falling into",
       "source": "The Week",
       "source_url": "https://theweek.com",
@@ -53,16 +63,6 @@
       "article_url": "https://theweek.com/tech/spiralism-ai-religion-cult-chatbot",
       "image": "https://cdn.mos.cms.futurecdn.net/J7A632qDaynHEGxoDKzvZV-2000-80.jpg",
       "description": "The spiritual movement claims that AI is conscious and capable of revealing deeper truths"
-    },
-    {
-      "headline": "Trillion Parameter Models, Tiny Software Kernels, And The Future Of AI",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1FxX2kzUG5Pcmk2S2w5SVQ0eFVSNWVJWmpzc3NId0FHM09JT2ZZaWZPNGstdkdvb293UXJsMDZRa3BydEJWUFhqakNKNFdaeE9mYWZSRkptM1g0dUkxUFU4dkdpcWtpNmdVS1dra3o2ekc4bV9Vb1J4NVpteXNndmVaeXFVbGtTb19uZVlpaG5iRXJDQjZpcmlRN2o3VTFXdjRsVjU2d0hUT0xjQWx6M2tfaVQ4eThJQ21TZQ?oc=5",
-      "pub_date": 1764060066.0,
-      "article_url": "https://www.forbes.com/sites/amirhusain/2025/11/25/trillion-parameter-models-tiny-software-kernels-and-the-future-of-ai/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/69256a95641364ad805027e9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "In an era of trillion-parameter models, we\u2019ve forgotten how to build simple, trustworthy software. Niklaus Wirth\u2019s legacy offers a blueprint to fix that."
     },
     {
       "headline": "Trump aims to boost AI innovation, build platform to harness government data",
@@ -75,14 +75,24 @@
       "description": null
     },
     {
-      "headline": "How the U.S. Economy Became Hooked on AI Spending",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPREs0dTZadUpmOXhtaHJvbXNZelJRUUlRcF9sUGphXzNZSVk2MjRSWXE1bnNlZ21Uc0VWMk9pb0JaYUNLeHZXa1NEbXBaVXRvZllmRXpuNVV5bDhMOU5nY2V2ci1VbWRQQVlJYmpoYl9vc2cwNTNjbW93UDFHM1V4TW1XaTB0ZTc5SERrdXhTdzl0dEg1aVQzMjBxQjdBc09kREJpemxuTmx3dGFDOGpaU1BBZmZfMTlJTHZ1RlJuZVZkSUtORjRLUVRQNWx4WGFXNVRaNUt4c1dvbThMeE04UmUxYlpWdnVkQ05PVDFnN21QZTdPTGZkTlI0TVV1SktOSFZ1djR1cTVDOUUzVmtITVFwVm5zVExnQ2VfQndOMHY5MjFIRUFPMXF4VGktemdITk5QdkJUTzBDVmdXMXZlTzFTWW96clA1cE11TmR0X04zbzBleGZxSmVKSkNZZUxfdW02bXV3TjBheGJVVWZkU081U1JlQ3BlcHRGOUlGUVREOVctbXBMUlIxeGhFZU9jSjlj?oc=5",
-      "pub_date": 1763980200.0,
-      "article_url": "https://www.wsj.com/tech/ai/how-the-u-s-economy-became-hooked-on-ai-spending-4b6bc7ff?gaa_at=eafs&gaa_n=AWEtsqf_DMD08UyxS4PitEc4TUEKWSiPFJNd0LClxFxhPh_Bfswfq7fzuyG9&gaa_ts=692576da&gaa_sig=J4H4cjuvwOqG-HYh91Knz1gPFMKBe3VlpgYGDFVPpXHZrlJLwizkG2wAeRQNx6Ex1oia_JPgTZgWQWAfAN-XPQ%3D%3D",
-      "image": "https://images.wsj.net/im-03915609/social",
-      "description": "Growth has been bolstered by data-center investment and stock-market wealth. A reversal could raise the risk of recession."
+      "headline": "Trump signs executive order launching Genesis Mission AI project",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjNCSXpKQ2ozYy1hd1hTQTRpV1ZBenRKX3pPWjhaYkprUnpPQy11bjUyN0ttc0NpVVZ5dFhfeW15WDlJeExST3lfRVdUdENVa3dMNnpxQzBxNmQ1b3ZYeW0xRHM4UHhmWFhreFF3TDVMeTJjRWU1YzRDUloySnZabzNXcVloRUJtSWNLUXZlLXhIV3hMVERGN2JkdzJGMjNBT19ORHdYandOWkZxZGp2aHVTejPSAVZBVV95cUxNek5OY1dBZUNReDkyQ3hMOWtFV2x3MzJiSkp0Rl9mOXZXRUNKYi04aW4zV0VhcEFyX0kwYWpncHQ3aXdQSkN6RFJSS3IwSGJoRlRvdnMtZw?oc=5",
+      "pub_date": 1764024780.0,
+      "article_url": "https://www.nbcnews.com/tech/tech-news/trump-signs-executive-order-launching-genesis-mission-ai-project-rcna245600",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251124-trump-rs-aae677.jpg",
+      "description": "The order announced the \u201cGenesis Mission\u201d for AI, a new federal push to mobilize the federal government's research and data to create artificial intelligence models."
+    },
+    {
+      "headline": "What to know about Trump\u2019s \u2018Genesis Mission\u2019 AI initiative",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSGJiZWJwVmhLTm1aY3ByTVU3VFJOZXZWSE9YSzMxb1RHanJmTTMwVTBicGpDTG51OHFNOVBPVms1b1BNdzQ0ZXEzU0V4YUpTemlTcFVRYUczZ21YQjdqS1BrNTNCdndmSFdCZ0NlbGM1d3NkRGhtbjVIQkpYbXE4T2xhR0RJaW9BOGpXVzZSYmg?oc=5",
+      "pub_date": 1764063300.0,
+      "article_url": "https://fortune.com/2025/11/25/what-to-know-about-trumps-genesis-mission-ai-initiative/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2234049855.jpg?resize=1200,600",
+      "description": "Trump\u2019s Genesis Mission, Anthropic\u2019s Claude Opus 4.5, Revolut\u2019s new valuation. Plus: Amazon, Apple, Bitcoin, Google, India, Nvidia, OpenAI, Spotify."
     },
     {
       "headline": "McKinsey explains why AI won\u2019t take your job, even though it can already automate 57% of all U.S. work hours",
@@ -93,18 +103,8 @@
       "article_url": "https://fortune.com/2025/11/25/why-ai-wont-take-your-job-partnership-agents-robots-mckinsey/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-738777065-e1764023095316.jpg?resize=1200,600",
       "description": "The fastest-growing skill in U.S. job listings is \"AI fluency,\" seeing a sevenfold increase in two years."
-    },
-    {
-      "headline": "Scientists say they've eliminated a major AI bottleneck \u2014 now they can process calculations 'at the speed of light'",
-      "source": "Live Science",
-      "source_url": "https://www.livescience.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbG1taXViUlFHT0FFYVh1SjdicV9oOGZzakhDUGtDM3Nvblc3X3RNdnFVb1QxOHFiaWp1T1B3UTg1N3VnSnNQamZyZjdUN0Qzc1RZS3VxMW1QRVJaZ3JwMHhfZ0NiVkVWLWNDeVo0ZGdHdjFRaXBzTEJsaWZRYXQ4aGNRWUNVeFVGYzZDLVF0Z2pDSzFxbk0xX3NncUpuSFdFNV80V1lwd2xfTlFrZzZhVkUxMXpMYzhUZ09mbzBTOUF3OW1LWVRDcnJ0NExLNlpadmxHVTI1M1JBa2FkajNna05BTkczT1BfZnI0LTlfVkk?oc=5",
-      "pub_date": 1763985600.0,
-      "article_url": "https://www.livescience.com/technology/computing/scientists-say-theyve-eliminated-a-major-ai-bottleneck-now-they-can-process-calculations-at-the-speed-of-light",
-      "image": "https://cdn.mos.cms.futurecdn.net/UaZw3uquibn4F6ZgG73mpT-1920-80.jpg",
-      "description": "A new architecture replaces traditional bottlenecks with a passive, single-shot light-speed operation that could become the foundational hardware for AGI, scientists argue."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T09:14:22.107509+00:00"
+  "fetched_at": "2025-11-25T09:53:40.366111+00:00"
 }

@@ -35,6 +35,17 @@
       "description": null
     },
     {
+      "title": "Can someone help me with my code",
+      "author": "FnafLoverfrfr",
+      "url": "https://www.reddit.com/r/robotics/comments/1p68crn/can_someone_help_me_with_my_code/",
+      "published": 1764063763.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm kinda new to this I don't know why this code doesn't work can someone help define right A2 define center A1 define left A0 define ENA 11 define IN1 10 define IN2 9 define ENB 6 define IN3 8 define IN4 7 int Speed = 150; void setup() { Serial.begin(9600); pinMode(right, INPUT); pinMode(center, INPUT); pinMode(left, INPUT); pinMode(ENA, OUTPUT); pinMode(IN1, OUTPUT); pinMode(IN2, OUTPUT); pinMode(ENB, OUTPUT); pinMode(IN3, OUTPUT); pinMode(IN4, OUTPUT); } void loop() { carChangeState(); } void carChangeState(){ bool leftS = digitalRead(left); bool centerS = digitalRead(center); bool rightS = digitalRead(right); int speedA = 0; int speedB = 0; if (centerS == 0) { speedA = Speed; speedB = Speed; } if (leftS == 1) { speedA = 0; } if (rightS == 1) { speedB = 0; } analogWrite(ENA, speedA); digitalWrite(IN1, HIGH); digitalWrite(IN2, LOW); analogWrite(ENB, speedB); digitalWrite(IN3, LOW); digitalWrite(IN4, HIGH); Serial.print(\"L: \"); Serial.print(leftS); Serial.print(\" | C: \"); Serial.print(centerS); Serial.print(\" | R: \"); Serial.print(rightS); Serial.print(\" | Speed A: \"); Serial.print(speedA); Serial.print(\" | Speed B: \"); Serial.println(speedB); }"
+    },
+    {
       "title": "Need help connecting my HukyLens2 to an arduino",
       "author": "Additional-Wish-8060",
       "url": "https://www.reddit.com/r/robotics/comments/1p62rpb/need_help_connecting_my_hukylens2_to_an_arduino/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "It claims to be a 6DOF but it looks like it only has 5DOF. First image shows the assembled arm, and second shows the transforms diagram. We are trying to find closed form inv kinematics solution and looking to see if that's possible or we will need to try for a numerical approach instead? Any suggestions appreciated."
-    },
-    {
-      "title": "TEMAS Pick & Place | Aruco + AI Depthmap",
-      "author": "Big-Mulberry4600",
-      "url": "https://www.reddit.com/r/robotics/comments/1p5h29d/temas_pick_place_aruco_ai_depthmap/",
-      "published": 1763990915.0,
-      "thumbnail": "https://external-preview.redd.it/F4wDCIMIDWuU0R2jcayoDHSrVUAG3XbZcOHfcaqGE94.jpeg?width=320&crop=smart&auto=webp&s=5041baa1735e56529ceb1d7cc5254ccd9f17556a",
-      "external_url": "https://youtube.com/shorts/24reR1AUCiU?feature=share",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/33c3234b/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     }
   ],
-  "fetched_at": "2025-11-25T09:14:02.840138+00:00"
+  "fetched_at": "2025-11-25T09:53:27.874584+00:00"
 }

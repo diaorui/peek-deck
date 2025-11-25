@@ -15,16 +15,6 @@
       "description": null
     },
     {
-      "headline": "'Privacy Is Hygiene,\u2019 Says Ethereum Creator Vitalik Buterin After Bank Data Leak",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUplRVB5VHN4WGM0S1o2c3VHN0ZEdWZyODIxdmh0WVRORC1ZLUpnWS1Pa3l2S2M5RTJXRkUzNEYwaGl0VFk0WU5pSmxMMGJVWGNqaktuS2xqeVlFVW9pV0pzdXBLV2xyLTA4NHdsTW5RT1NxZWlhN2t6NXY3Z0pYYm9YLTlYR0JNZXhpWnNuWENqM1IySjM3VnFuX3gyYlQzamd3XzF30gGuAUFVX3lxTE9SNUtCNUdaellrTU94eXZPLUR3SXdnVVpDOFV4M1VwcGE3NWgyRUdJVjJZbFRNZG13V3ZkV2RGMFBzdHpVZ0x3VFlyaEN4TktqNkhnUEp0Q2RTWXIta1U5WFA2TkNobmplNjJiVGZQYWhfTnhERWY2ZzJHS0JnVVgwSEhtX0k1WUFKZ0RjREp5QmQ3Ykhwc0NidWZDZzdFSUFJbG11TWZibW10akJDZw?oc=5",
-      "pub_date": 1764007525.0,
-      "article_url": "https://decrypt.co/349864/privacy-is-hygiene-says-ethereum-creator-vitalik-buterin-after-bank-data-leak",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/vitalik-buterin-ethereum-decrypt-style-05-1-gID_7.jpg",
-      "description": "A major security breach impacting U.S. banks has renewed debate on privacy as interest in crypto privacy tools and protocols grows."
-    },
-    {
       "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -41,16 +31,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1keTl2aUxucFI0cEttR0lJeXZfTGdoOTRxbDVmd0NZdlNSdjdqTklQX2FwM0VwMVZ3cnlOc0QyTV9kVVFxLTRrOVFHb1ZYVFFNYTlkcHNGRGhyS0czb2ZHN1lhTQ?oc=5",
       "pub_date": 1763819724.0,
       "article_url": "https://www.binance.com/en/square/post/32731404517313",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Offchain Labs challenges Vitalik's RISC-V proposal, says WASM better for Ethereum L1",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUZLbWdKaklRcFkya19mTlBVZldlUDA5czhfNXJBMGxnSW5Fd1BpOWJOWUVlRXpjTHMwSHhVbUdVX1NQMmYtTG9fY2xDdE56TXd4RVVvWGJMR1ZCaGxlcXFjMnY5OGJyTzVnWW1TM2tudlc3TklROXRIVEtIV01wS2M2MEg5aFhhXzlPV0htVlh3TmVTdklPdXc5X0tqX2dyX09zV0NTWUYwXzVSQXZQZE1ZdXhnZ0lqN2fSAb8BQVVfeXFMTTczOEZJaVFDYTlDNXMxcVBFM2thZDNNam95MHhmTnBaUXVHWnNSZnNsNzFkTlFFdzZDM2JONmxoTmNBMFVxNEt2ZXhXdUJnLTFEWGx1c2tLSE1UQk1BQzhldzNhMGc4bVNfd1E5STNEWGo4TDczQ1Z2NS1fQW5CaXlTWUJuajM5cW1WLXcxbWZGRUFUakIzS1VYRFBBUDlwZWEwa0VSV0VnQnJXQy1oN05BU0ZXYW9DSVQtRmFIdFE?oc=5",
-      "pub_date": 1763931335.0,
-      "article_url": "https://www.theblock.co/post/380070/offchain-labs-challenges-vitaliks-risc-v-proposal-says-wasm-better-for-ethereum-l1",
       "image": null,
       "description": null
     },
@@ -103,8 +83,28 @@
       "article_url": "https://bitcoinist.com/ethereum-founder-buterin-warns-new-x-feature/",
       "image": "https://bitcoinist.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-24-2025-11_29_59-AM-e1763980242935.png",
       "description": "Ethereum co-founder Vitalik Buterin is sounding the alarm over X\u2019s new \u201cshow which country the account is from\u201d transparency tag, arguing that the feature"
+    },
+    {
+      "headline": "Ethereum Price Analysis: Can ETH Stabilize, or Is Another Pullback Brewing?",
+      "source": "CryptoPotato",
+      "source_url": "https://cryptopotato.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWC1LX3drTlpvYTdpMFJlXzZnT3RETEEtOEs5eVY1bE5kcUpUY3dYdkJkRVJjcThmNEc5ZzNJdkxzS1U5NFZKSkppa3BkaHlJbWtBZ1Job05WLVdpc3J5NjRER1dSSkdPQ0VmTFQwaTFmWWlZZWNsS2YwMndIYU55VGktdWRwQVBrbmVMc2VkQk1oV2J5M2IwUGF2V0RMYkk?oc=5",
+      "pub_date": 1763992800.0,
+      "article_url": "https://cryptopotato.com/ethereum-price-analysis-can-eth-stabilize-or-is-another-pullback-brewing/",
+      "image": "https://cryptopotato.com/wp-content/uploads/2025/11/ETH-Daily-4-scaled.jpg",
+      "description": "Ethereum remains under heavy pressure as the broader crypto market continues its correction. With the price losing key support levels and sentiment"
+    },
+    {
+      "headline": "BitMine stock spikes as Ethereum reserves hit 60% of targeted level",
+      "source": "Crypto Briefing",
+      "source_url": "https://cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mbmJ2MlpHSFlyNktBU2s0TDlLRTNvdzFua2VwQmRlSXlsbGJVQnE4THVIUXZOX3ZaVG1qRkZvdmRnNHIxTDBOaE9idXdHcmpYSkdYM1J2WGtLRHR6bTRNNjdDTVNMVEFoY1BiN08zdVUydXcxRFZJ?oc=5",
+      "pub_date": 1764039508.0,
+      "article_url": "https://cryptobriefing.com/ethereum-accumulation-goal-bitmine-stock/",
+      "image": "https://static.cryptobriefing.com/wp-content/uploads/2025/11/24215651/306d9100-2896-4292-b0e8-3a0fa980ff08-800x420.jpg",
+      "description": "BitMine stock climbed nearly 20% as the company reached 60% of its Ethereum accumulation goal, now holding 3.6 million ETH or 3% of supply."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T09:14:14.672410+00:00"
+  "fetched_at": "2025-11-25T09:53:42.276840+00:00"
 }

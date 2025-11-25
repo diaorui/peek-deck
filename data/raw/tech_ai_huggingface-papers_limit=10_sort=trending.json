@@ -35,7 +35,7 @@
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
-      "github_stars": 3554,
+      "github_stars": 3642,
       "project_page": "https://ai.meta.com/sam3d/"
     },
     {
@@ -107,7 +107,7 @@
       "hf_url": "https://huggingface.co/papers/2511.13720",
       "arxiv_url": "https://arxiv.org/abs/2511.13720",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.13720.png",
-      "upvotes": 52,
+      "upvotes": 53,
       "num_comments": 1,
       "published_at": "2025-11-17T13:59:57.000Z",
       "github_repo": "https://github.com/LTH14/JiT",
@@ -126,7 +126,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16334",
       "arxiv_url": "https://arxiv.org/abs/2511.16334",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16334.png",
-      "upvotes": 80,
+      "upvotes": 81,
       "num_comments": 2,
       "published_at": "2025-11-20T08:11:45.000Z",
       "github_repo": "https://github.com/EvolvingLMMs-Lab/OpenMMReasoner",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-25T08:50:56.724077+00:00"
+  "fetched_at": "2025-11-25T09:53:23.251839+00:00"
 }

@@ -10,7 +10,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46027833",
       "author": "bookofjoe",
       "points": 480,
-      "num_comments": 591,
+      "num_comments": 594,
       "created_at": "2025-11-23T22:06:44Z",
       "object_id": "46027833",
       "image": null,
@@ -65,8 +65,8 @@
       "url": "https://twitter.com/karpathy/status/1993010584175141038",
       "hn_url": "https://news.ycombinator.com/item?id=46036878",
       "author": "bilsbie",
-      "points": 197,
-      "num_comments": 208,
+      "points": 206,
+      "num_comments": 219,
       "created_at": "2025-11-24T17:51:02Z",
       "object_id": "46036878",
       "image": null,
@@ -107,8 +107,8 @@
       "url": "https://github.com/ocaml/ocaml/pull/14369",
       "hn_url": "https://news.ycombinator.com/item?id=46039274",
       "author": "theresistor",
-      "points": 74,
-      "num_comments": 19,
+      "points": 76,
+      "num_comments": 20,
       "created_at": "2025-11-24T21:03:22Z",
       "object_id": "46039274",
       "image": "https://opengraph.githubassets.com/f9a348201f077266a2109b8803c1e9517a12068a8a133f050a8278edb857918b/ocaml/ocaml/pull/14369",
@@ -145,7 +145,7 @@
       "site_name": "vibescaffold.dev"
     }
   ],
-  "total_hits": 392,
+  "total_hits": 394,
   "has_metadata": true,
-  "fetched_at": "2025-11-25T09:13:58.733994+00:00"
+  "fetched_at": "2025-11-25T09:53:23.384597+00:00"
 }
