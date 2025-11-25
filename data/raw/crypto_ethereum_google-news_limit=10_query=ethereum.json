@@ -15,6 +15,16 @@
       "description": "The company increased its crypto holdings last week despite sitting on around $4 billion in unrealized losses on its ETH bet."
     },
     {
+      "headline": "'Privacy Is Hygiene,\u2019 Says Ethereum Creator Vitalik Buterin After Bank Data Leak",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUplRVB5VHN4WGM0S1o2c3VHN0ZEdWZyODIxdmh0WVRORC1ZLUpnWS1Pa3l2S2M5RTJXRkUzNEYwaGl0VFk0WU5pSmxMMGJVWGNqaktuS2xqeVlFVW9pV0pzdXBLV2xyLTA4NHdsTW5RT1NxZWlhN2t6NXY3Z0pYYm9YLTlYR0JNZXhpWnNuWENqM1IySjM3VnFuX3gyYlQzamd3XzF30gGuAUFVX3lxTE9SNUtCNUdaellrTU94eXZPLUR3SXdnVVpDOFV4M1VwcGE3NWgyRUdJVjJZbFRNZG13V3ZkV2RGMFBzdHpVZ0x3VFlyaEN4TktqNkhnUEp0Q2RTWXIta1U5WFA2TkNobmplNjJiVGZQYWhfTnhERWY2ZzJHS0JnVVgwSEhtX0k1WUFKZ0RjREp5QmQ3Ykhwc0NidWZDZzdFSUFJbG11TWZibW10akJDZw?oc=5",
+      "pub_date": 1764007525.0,
+      "article_url": "https://decrypt.co/349864/privacy-is-hygiene-says-ethereum-creator-vitalik-buterin-after-bank-data-leak",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/vitalik-buterin-ethereum-decrypt-style-05-1-gID_7.jpg",
+      "description": "A major security breach impacting U.S. banks has renewed debate on privacy as interest in crypto privacy tools and protocols grows."
+    },
+    {
       "headline": "Ethereum Overtakes Bitcoin in Spot Trading Volume for the First Time in 7 Years",
       "source": "The Kotaku Times",
       "source_url": "https://kotaku.com.au",
@@ -93,18 +103,8 @@
       "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-rebound-after-recent-downside-pressure-202511240316",
       "image": "https://editorial.fxsstatic.com/images/i/cryptos-coins_Medium.png",
       "description": "Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week with a modest recovery on Monday after last week\u2019s massive correction. These top three cryptocurrencies are holding above their key support levels, suggesting recovery continuation."
-    },
-    {
-      "headline": "Ethereum Price Analysis: Can ETH Stabilize, or Is Another Pullback Brewing?",
-      "source": "CryptoPotato",
-      "source_url": "https://cryptopotato.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWC1LX3drTlpvYTdpMFJlXzZnT3RETEEtOEs5eVY1bE5kcUpUY3dYdkJkRVJjcThmNEc5ZzNJdkxzS1U5NFZKSkppa3BkaHlJbWtBZ1Job05WLVdpc3J5NjRER1dSSkdPQ0VmTFQwaTFmWWlZZWNsS2YwMndIYU55VGktdWRwQVBrbmVMc2VkQk1oV2J5M2IwUGF2V0RMYkk?oc=5",
-      "pub_date": 1763992800.0,
-      "article_url": "https://cryptopotato.com/ethereum-price-analysis-can-eth-stabilize-or-is-another-pullback-brewing/",
-      "image": "https://cryptopotato.com/wp-content/uploads/2025/11/ETH-Daily-4-scaled.jpg",
-      "description": "Ethereum remains under heavy pressure as the broader crypto market continues its correction. With the price losing key support levels and sentiment"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T03:05:34.473694+00:00"
+  "fetched_at": "2025-11-25T03:54:18.009499+00:00"
 }

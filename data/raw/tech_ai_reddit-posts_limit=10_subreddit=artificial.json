@@ -35,6 +35,17 @@
       "description": "A White House official called Genesis \"the largest marshaling of federal scientific resources since the Apollo program.\""
     },
     {
+      "title": "BCG/MIT: 76% of Leaders Consider Agentic AI as Coworkers \u2014 Not Just Tools",
+      "author": "CryoSchema",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6222a/bcgmit_76_of_leaders_consider_agentic_ai_as/",
+      "published": 1764041470.0,
+      "thumbnail": "https://external-preview.redd.it/vvwBvDSLoc7PFD6bDV1t4Xb7ENBezOMHEviGYe4b0nA.jpeg?width=640&crop=smart&auto=webp&s=31276196457900ad78195d34bf80ad04dec008f1",
+      "external_url": "https://www.interviewquery.com/p/ai-agents-as-coworkers-2025",
+      "site_name": "Interview Query",
+      "favicon": "https://d7d33nal7kx3h.cloudfront.net/production/favicon.png",
+      "description": "Agentic AI is rapidly shifting from software to \u201ccoworker,\u201d with 76% of leaders already treating AI agents as teammates\u2014reshaping workflows, skills, governance, and the future of work."
+    },
+    {
       "title": "Amazon to spend up to $50 billion on AI infrastructure for U.S. government",
       "author": "ControlCAD",
       "url": "https://www.reddit.com/r/artificial/comments/1p5r8w4/amazon_to_spend_up_to_50_billion_on_ai/",
@@ -99,18 +110,7 @@
       "site_name": "WIRED",
       "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
       "description": "The model policy team leads core parts of AI safety research, including how ChatGPT responds to users in crisis."
-    },
-    {
-      "title": "Master Prompt: Make Infographics from Anything [Nano Banana Pro]",
-      "author": "DarknStormyKnight",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5ugq6/master_prompt_make_infographics_from_anything/",
-      "published": 1764021349.0,
-      "thumbnail": "https://external-preview.redd.it/ajVby5emO-7vXRacnDEfAGqONyuPrVh1JIidMZjm4hY.jpeg?width=640&crop=smart&auto=webp&s=30d48eae2392d9c2f4dd65957dd0e9e41948cd9f",
-      "external_url": "https://upwarddynamism.wpcomstaging.com/ai-use-cases-prompts/image-genai-infographic-blueprint/",
-      "site_name": "Upward Dynamism | Learn AI for Work & Life",
-      "favicon": "https://i0.wp.com/upwarddynamism.com/wp-content/uploads/2025/05/upward-dynamism_john_ai-literacy_blog_main-logo-emblem-e1747509591408.webp?fit=180%2C180&ssl=1",
-      "description": "Image AI can compress long texts into scannable infographics, but only if steered well. Use this universal prompt to turn any content into visual knowledge."
     }
   ],
-  "fetched_at": "2025-11-25T03:05:16.305420+00:00"
+  "fetched_at": "2025-11-25T03:54:01.896008+00:00"
 }

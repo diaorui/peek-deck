@@ -5,16 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin faces 3 big problems as the cryptocurrency struggles to rebound amid 30% slide from record highs",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTGNaUzJCWUo4SmZWQm5MTWE1XzlKa2NCMWpxUUcxVHhYVDd0bGdBeEg3M0pzcXlTZWpIZGFxRUNONmlkM0FCWFZfTkpGZU1aQ01EVWVpaWNLMlZpVG8zbjJRWWZWQjNXcWN5NHVsNzZ5V2VJLWVFZzVUQlZkNWlFNzVJazg2dERxMzVTbV95MWVkVklHVG5wT0dGQXVQbThIUDVNYjJyZlN6OXY1bU5MRW1NbFlYbUU2Uy1QZU5DMzZnejViTVBVcU94TWdUMlZ5RGhoRDJTUllXbkMwenJEUmNPbw?oc=5",
-      "pub_date": 1764020256.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-faces-3-big-problems-as-the-cryptocurrency-struggles-to-rebound-amid-30-slide-from-record-highs-213736236.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/j9TUOg8GIxjPxGeMD6MmjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/79dfbd80-c72c-11f0-bbfd-7afdd601f2f5",
-      "description": "Bitcoin headwinds mount as the token hovers around $86,000."
-    },
-    {
       "headline": "Blackrock's iShares bitcoin fund sees record exodus as crypto heads for worst month since 2022",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -45,12 +35,22 @@
       "description": "Investors have pulled $3.5 billion from the US-listed Bitcoin ETFs so far in November, almost equaling the previous monthly record for outflows of $3.6 billion set in February, according to data compiled by Bloomberg.  BlackRock Inc.\u2019s Bitcoin fund IBIT, which accounts for about 60% of the cohort\u2019s assets, has registered $2.2 billion in redemptions in November, meaning it will slump to its worst month barring a sharp reversal.  The outflows come with Bitcoin itself set for its worst monthly performance since the crypto industry collapse of 2022, a daisy chain of corporate failures punctuated by the downfall of Sam Bankman-Fried\u2019s FTX."
     },
     {
+      "headline": "Bitcoin faces 3 big problems as the cryptocurrency struggles to rebound amid 30% slide from record highs",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTGNaUzJCWUo4SmZWQm5MTWE1XzlKa2NCMWpxUUcxVHhYVDd0bGdBeEg3M0pzcXlTZWpIZGFxRUNONmlkM0FCWFZfTkpGZU1aQ01EVWVpaWNLMlZpVG8zbjJRWWZWQjNXcWN5NHVsNzZ5V2VJLWVFZzVUQlZkNWlFNzVJazg2dERxMzVTbV95MWVkVklHVG5wT0dGQXVQbThIUDVNYjJyZlN6OXY1bU5MRW1NbFlYbUU2Uy1QZU5DMzZnejViTVBVcU94TWdUMlZ5RGhoRDJTUllXbkMwenJEUmNPbw?oc=5",
+      "pub_date": 1764020256.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-faces-3-big-problems-as-the-cryptocurrency-struggles-to-rebound-amid-30-slide-from-record-highs-213736236.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/j9TUOg8GIxjPxGeMD6MmjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/79dfbd80-c72c-11f0-bbfd-7afdd601f2f5",
+      "description": "Bitcoin headwinds mount as the token hovers around $86,000."
+    },
+    {
       "headline": "Strategy Silent on Bitcoin Holdings. Why It\u2019s a Big Deal for the Stock and Cryptos.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQajN2VGZYTUJXYlNGZDItMVRqUTJFcHUzWWZMVW5mY19qcmdKeG5aMVdzcGhSbEk5ZjJiOEF5WGc5Ynl1N1QxbFdkaFhYMWZLNTRoNi1wU1UyamxhdzRTamhsOTNmZThsbm9hOE5jZlRScWtQdUxIb1JtVmVLY2UwMVphUzQtVEVqV0xfdXhTSEJaU3lad19teWE4bUVBaWV5YjVmVHdid3AtN2VJMVZVc0o3SnZWRjdkSHZ1WW41andheTByNmxGeW5Oa1BaVDdjUW5EWGNzR3RKRS0xQnhqSVAtQU9MXzN2SHBUbmNnUk1wOG1zbjYxR21jc2NLbDRraUZEMDAtNUk0NlhrSTl6S0dtSlBPaElGQ2JNZVFaTWU1YXNaREFOM2lMUXF0TnZEMU84b1ZZakZ2Zjl3SDFNM1VuRWJ1YlRLdjVDczRJY1EwT3I4aDdUYS1VRnZLV1JVbDJsSHdtWEtMcjZxcWtHb0J4ajJfdGtJQVlPVEF5NnIyUUkzV3RFd0w5ZEo2bk0zck1HYQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQVWhkaldRT1NCTURKYk1zcmJ5b2hWMnBRaGhyVzl6UndDdWZ2V08xVFpBZExIdWVyNjl4eWNpWElDMV9NTFFaUERJMW00T21QLVVtbk9QT3dBT0hqRlBQNU00WVVScGphZWJnak1lTHBfajFhbWVEQVpPMFBockd5ZXRlSlJ2NldKYXppd2lnQ2EtQW5Kdi16SE84bGRnZHBia0pZRmEyR21Ha1dKTDJIUHJGQTBCZzZ3WW9FQVMzaGhjOWl0Z0ptQVNFZFRhX0RrbWNUbUo5Sk03bkZqeXRNRFRYWlVmOW5ielZzYnl1aVk0X3dldWVkN3otZFNHSDlxSGZLMW04ekxFZEZqcGxEM3NaSWxZdExOZG9vVmhKcVBsUG9wdW5DTHJPZVpac1Fldl8wWUx5enNVWHdKWWd5YVdNaV9LNnp2b3pvWXZsYjJFNjFWRHFBTEpjYTk1ckpsMllmM1ozN05XenZNMWxOMXg0VkY2UmY4eDhnN0FVOEtHSU9lWU1QMDIzWU9PYzNGVDFnSQ?oc=5",
       "pub_date": 1764003120.0,
-      "article_url": "https://www.barrons.com/articles/strategy-stock-bitcoin-cryptos-microstrategy-176e8def?gaa_at=eafs&gaa_n=AWEtsqfCmSbxZ89Y1D0-up7v0nSCpVb2FSkqH49npaAgaRWJxZ9VdAFJsRre&gaa_ts=69252071&gaa_sig=KgGCQ1ls48-tMkMRKT8vvMrePy4nVRE8_n_AM7JKgryYv5-SdDR2DiVB7gFzhhkNE1gIz8BIvIw7b4XFUacz0w%3D%3D",
+      "article_url": "https://www.barrons.com/articles/strategy-stock-bitcoin-cryptos-microstrategy-176e8def?gaa_at=eafs&gaa_n=AWEtsqc73k9l7PNvmFkhfnj1Isd_hjHl-VLv5ndsoSkdDyjL3HEEcEPoSe2Y&gaa_ts=69252bdd&gaa_sig=Dh0KXuInboZqYEtdgCOcCEBR8Pl5TsViyyaW9zjEGGrloJ1L7L3STGYMZ7r3Vx9VEq4TwyKkXzTBpQyq0-Dzzw%3D%3D",
       "image": null,
       "description": null
     },
@@ -65,6 +65,16 @@
       "description": null
     },
     {
+      "headline": "Why Analysts Are Split on Bitcoin Miner MARA's Prospects",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14TkNpWFhQUmxocUk3elV1Vm5NNmc2LXU5RWNGSkdTUGNaeURpNzM5THZhOG9fYWNhVWlubVZwUDVoMmlOcHdLTDdCNFlPaDZXdnFjUkVrc3Atcm5CcmVvN0hHMWo1NkVWT0ZwVElHNDl4MUtxLTd0NFdnTF82RVXSAYcBQVVfeXFMTm41M3JjSnZzNld3RkxHSlJRbmM0ZFk4ZGRYU1UwdUNTMTFreGxXVE1lanhBVG94eVM0R3dqNHdlNWI5TV9yYmh3VzZDVXFUQmNjemptVGtfeHJlbktVcEMzcFpkcjlQOGsydXdSeFpiQzA0WDF5WXVjaDllUTJZdFQyQlVIMXhr?oc=5",
+      "pub_date": 1764010172.0,
+      "article_url": "https://decrypt.co/349873/why-analysts-split-bitcoin-miner-maras-prospects",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png",
+      "description": "Analysts are divided on how well Bitcoin miner MARA Holdings will perform this year following the latest crash in crypto prices."
+    },
+    {
       "headline": "Bitcoin Miner Reserves Plunge to Record Low as Revenue Collapses",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -73,16 +83,6 @@
       "article_url": "https://finance.yahoo.com/news/bitcoin-miner-reserves-plunge-record-123000603.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/x6LSWT7wYBbVd9SMCV8.pw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/aac0db2e79dfec45dde4c263e448b756",
       "description": "Bitcoin miners have offloaded more than 30,000 BTC in 48 hours, pushing reserves to a record low as their revenues collapse."
-    },
-    {
-      "headline": "Hobbyist solo miner scores a full Bitcoin block worth $270,000 despite 1 in 180 million odds \u2014 3.146 Bitcoins mined by a single low-powered 6 TH/s ASIC with about 0.0000007% of the network\u2019s hashrate",
-      "source": "Tom's Hardware",
-      "source_url": "https://www.tomshardware.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGFQbkJtVlo5VXI1RTJyLWhTTmlHcENnLWZYdTdUNHBrSEhOZ01Da1VjWmhPX3hmdk9QbTY4eXdrQTJyOUtkN1NaMW0xRURvU0dNb0V1TUNDZnUyYnhsZ2xPYXkzQzlEOE1NTUhTU2NFWXJKVHVJNFh6eDhkZldQTXJlb1lwLVdiRkwwZGlmbmtNV1ZCMGd3T1ZBa2ptUGxjRzZVU2tZb09zR1BFWVIyelhXTnJ4V0tVNmVxZWRB?oc=5",
-      "pub_date": 1763922426.0,
-      "article_url": "https://www.tomshardware.com/tech-industry/cryptomining/hobbyist-miner-using-a-single-6-ths-asic-mines-full-bitcoin-block",
-      "image": "https://cdn.mos.cms.futurecdn.net/xNgBpUETd9FRLejaNQYZe7-1000-80.jpg",
-      "description": "Solo miner controls roughly 0.0000007\u202f% of the Bitcoin network\u2019s hash\u2011power yet captures full block reward."
     },
     {
       "headline": "Crypto attack saw victims endure waterboarding, sexual assault in $1.6 million Bitcoin robbery",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T03:05:38.557045+00:00"
+  "fetched_at": "2025-11-25T03:54:19.478832+00:00"
 }

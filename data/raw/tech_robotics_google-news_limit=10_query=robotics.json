@@ -15,16 +15,6 @@
       "description": "Tesla\u2019s AI and robotics divisions are facing a significant \u201cbrain drain\u201d as a stealth startup called Sunday Robotics emerges with..."
     },
     {
-      "headline": "Humanoid robots will change work forever",
-      "source": "abc.net.au",
-      "source_url": "https://www.abc.net.au",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3NlUkFwbTliYmNzSnhqdmFWR3F0T2N2TUM1V3M3YVk1T0hVYkltSUE2OWZmd1VKcl9EOXZtOXlDS25mblVSZFV1T19vZ3hFSGRNU245bHA0YkhfM1pGVlZfZXgzckpocmxCcTVZWWlkZHpDLXpxODBzcXMyU0FRU0ZEcmhJck5VelFSdFR0V2F5cHdUZ1Mtc2NBM0piVUhKRFRwOTRic1A5VDJtc0tBN0hn?oc=5",
-      "pub_date": 1763920800.0,
-      "article_url": "https://www.abc.net.au/news/2025-11-24/artificial-intelligence-robot-humanoid-workforce-labour-tax-ubi/106034208",
-      "image": "https://live-production.wcms.abc-cdn.net.au/78f6f1e009ae35e6583812d8082ac0be?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485&imformat=generic",
-      "description": "There is now a global race to build humanoids that can walk, talk, reason, lift, carry, fetch, stack and generally operate in a human environment."
-    },
-    {
       "headline": "This Artificial Intelligence (AI) and Robotics Stock Has Crushed Nvidia and Palantir This Year. It Can Still Soar Higher.",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -33,26 +23,6 @@
       "article_url": "https://www.fool.com/investing/2025/11/24/artificial-intelligence-ai-and-robotics-stock/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844434%2Fa-robotic-hand-interacting-with-a-visual-ai-touchscreen-display.jpg&w=1200&op=resize",
       "description": "Investors are looking beyond the biggest names in artificial intelligence (AI) for future growth. This company might be worth a look."
-    },
-    {
-      "headline": "A Chinese humanoid robot walked 66 miles in 3 days, right into the Guinness World Records",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa192N0VDbjBxUjdDRWNUY211Q2Z3X3ZDTG5oY1Bjc0YzOFlDUnJRUWlha1Jtdm1Yd3c3aW9mNDZWOUdiREtIUUZ6S0trYW5BNlhLUVV4bFBzTjZVd0RSeDJRS01sSXFndW9nWUdsWEg0SUdVT3poTFlEaWVHcURUbUxWeXN5d2RSa2RKeW8wQmp4QXp4R0F4X0oxZmZ3TjjSAaQBQVVfeXFMT3IwMXo1SG5pbFZ2a2oxd1E2VktLRFdwOFJqOU9td1N0eVdLeXZ4LWN1WksyNUo0SEVZNXo3Yk1DS2MzeDhnN1NJNTg3NnRrbXd4d0M4VGdidmhNTTExeDNtcl9wQWVYSmdfWTdvUVJZVzdfRl9lU2ZBcjBXUXdYV2cxVm1ESXE5aFVYZG9fNHh6dFJVMzlhUW52Ymxqblc1bnpuQzM?oc=5",
-      "pub_date": 1763997720.0,
-      "article_url": "https://www.cbsnews.com/news/china-humanoid-robot-agibot-a2-walks-66-miles-guinness-world-records/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/24/e5e8b175-8e09-46ca-b6c7-202fd2a43ebe/thumbnail/1200x630/dedab634a3258c756470131532a55175/agibot-a2-humanoid-robot.jpg",
-      "description": "A Chinese company says its AgiBot A2 robot walked from Suzhou to Shanghai, \"all while adhering to traffic regulations.\""
-    },
-    {
-      "headline": "Parallax Worlds raises funding for hyper-realistic digital twins to test robots",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVDBKM2FsaW9XemZXclA0ZUdDZjhBblJhNnVqTDk4RTdBQ3Q0WnY3UG1zRzJlTTJPNVVlVlF3bFhRQkdDNkRjeFRiY2lSTUZZS09ia2JzUTl4U2Yzcm1FSE9iaHpWa005UmVIcmlhVWphcGFyUndxTHp1ZmtDV1VlRGVSOGRDdHh4aVUtdTRDekJabHdEZG1IZUJ6NzVfTHFNQldsVXB0a1ZaZw?oc=5",
-      "pub_date": 1764032685.0,
-      "article_url": "https://www.therobotreport.com/parallax-worlds-raises-4m-stress-test-robots-hyper-realistic-digital-twins/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2025/11/parallax-worlds-featured.jpg",
-      "description": "Parallax Worlds is creating hyper-realistic digital twins for stress-testing robots and accelerating reliable deployments."
     },
     {
       "headline": "Rivian Is Following Tesla, Spins Up New AI And Robotics Startup",
@@ -65,24 +35,34 @@
       "description": null
     },
     {
-      "headline": "Walt Disney Imagineering Debuts Next-Generation Robotic Character, Olaf",
-      "source": "Disney Parks Blog",
-      "source_url": "https://disneyparksblog.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2YyNGFKYVlHQzU0MmR5MmtNR080bGVYLWNfNG9BeHRyazVzRU9hVzZFdVE5V2RzM04xTVI3eHFCdmJfeVhDMzlKeURnTXZtcjl0aHpadW1xekF2dFVoNEx6a04zY0JuRFJKWHRiYU1QRThkV3VJUU1kVjQtWVRlbHBUOVktS3N5cElHbVNmOTJ1cTRMTDVmSE5ocw?oc=5",
-      "pub_date": 1764004105.0,
-      "article_url": "https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/",
-      "image": "https://disneyparksblog.com/app/uploads/2025/11/2025-WDI-Olaf-Robotic-Character-Header.jpg",
-      "description": "Disneyland Paris\u202fsaw a groundbreaking moment today, where Bruce Vaughn, President and Chief Creative Officer of\u202fWalt Disney Imagineering, and Natacha Rafalski, Pr\u00e9sidente of Disneyland Paris, introduced a next-generation robotic character representing Olaf, the beloved snowman from\u202fWalt Disney Animation Studios\u2019 Frozen. This debut marks a new chapter in Disney character innovation, one where technology, storytelling, and collaboration"
+      "headline": "You Must Read This Riveting Whistleblower Lawsuit About Allegedly Dangerous Robots",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVW5TMU5xTV96SW9YWGdfcE91TUg0SGpBdDVucHUtZnQ0UmNkdENNSTBUbUQzLVhVUHU2ZnJJZ09XaTlWS0hBY0ZURklJeTNTOUo1X0ZtVVJnaGFiSy1RRHFQREppQkpaSE54TUdrbTFidl9yb0c4a0FScUF6MGRCQ2hEa3lHTEF6aWxkUEdPQktMVURUaklnT0pHYS1RaFh0OEJfUW1TaXBjb2d0MWk1MTh5Yw?oc=5",
+      "pub_date": 1763838302.0,
+      "article_url": "https://gizmodo.com/you-must-read-this-riveting-whistleblower-lawsuit-about-allegedly-dangerous-robots-2000688737",
+      "image": "https://gizmodo.com/app/uploads/2025/11/figure-02-1200x675.jpg",
+      "description": "A safety technician was fired as a company allegedly rushed ahead in commercializing a powerful humanoid robot with bone-crunching capabilities."
     },
     {
-      "headline": "Tesla sued for allegedly infringing robotics patents",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSjBpR0pSR2Y0eHg5NmNtU3JVNGJCLWZPcGRRdmFkSEUyeGx6dkFwUGQtNVFlSWdBWE42WjdXVVlxZkFfVEp4UFNKLVpRdmd6R2s2S1BkN1U1dzFmTzFrQ3U4a1kyVTBqbllBWFQzUW9rYnFPWHM3eFlUaU95QmlkMHdrNXQxa0d1QVUzVmpnb1B5WUNxdERtaXZma2Q3NWxYb2dZ?oc=5",
-      "pub_date": 1764020262.0,
-      "article_url": "https://www.reuters.com/legal/litigation/tesla-sued-allegedly-infringing-robotics-patents-2025-11-24/",
-      "image": null,
-      "description": null
+      "headline": "Humanoid robots will change work forever",
+      "source": "abc.net.au",
+      "source_url": "https://www.abc.net.au",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3NlUkFwbTliYmNzSnhqdmFWR3F0T2N2TUM1V3M3YVk1T0hVYkltSUE2OWZmd1VKcl9EOXZtOXlDS25mblVSZFV1T19vZ3hFSGRNU245bHA0YkhfM1pGVlZfZXgzckpocmxCcTVZWWlkZHpDLXpxODBzcXMyU0FRU0ZEcmhJck5VelFSdFR0V2F5cHdUZ1Mtc2NBM0piVUhKRFRwOTRic1A5VDJtc0tBN0hn?oc=5",
+      "pub_date": 1763920800.0,
+      "article_url": "https://www.abc.net.au/news/2025-11-24/artificial-intelligence-robot-humanoid-workforce-labour-tax-ubi/106034208",
+      "image": "https://live-production.wcms.abc-cdn.net.au/78f6f1e009ae35e6583812d8082ac0be?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=521&width=862&height=485&imformat=generic",
+      "description": "There is now a global race to build humanoids that can walk, talk, reason, lift, carry, fetch, stack and generally operate in a human environment."
+    },
+    {
+      "headline": "A Chinese humanoid robot walked 66 miles in 3 days, right into the Guinness World Records",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa192N0VDbjBxUjdDRWNUY211Q2Z3X3ZDTG5oY1Bjc0YzOFlDUnJRUWlha1Jtdm1Yd3c3aW9mNDZWOUdiREtIUUZ6S0trYW5BNlhLUVV4bFBzTjZVd0RSeDJRS01sSXFndW9nWUdsWEg0SUdVT3poTFlEaWVHcURUbUxWeXN5d2RSa2RKeW8wQmp4QXp4R0F4X0oxZmZ3TjjSAaQBQVVfeXFMT3IwMXo1SG5pbFZ2a2oxd1E2VktLRFdwOFJqOU9td1N0eVdLeXZ4LWN1WksyNUo0SEVZNXo3Yk1DS2MzeDhnN1NJNTg3NnRrbXd4d0M4VGdidmhNTTExeDNtcl9wQWVYSmdfWTdvUVJZVzdfRl9lU2ZBcjBXUXdYV2cxVm1ESXE5aFVYZG9fNHh6dFJVMzlhUW52Ymxqblc1bnpuQzM?oc=5",
+      "pub_date": 1763997720.0,
+      "article_url": "https://www.cbsnews.com/news/china-humanoid-robot-agibot-a2-walks-66-miles-guinness-world-records/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/24/e5e8b175-8e09-46ca-b6c7-202fd2a43ebe/thumbnail/1200x630/dedab634a3258c756470131532a55175/agibot-a2-humanoid-robot.jpg",
+      "description": "A Chinese company says its AgiBot A2 robot walked from Suzhou to Shanghai, \"all while adhering to traffic regulations.\""
     },
     {
       "headline": "Kraken Robotics Reports Record Q3 2025 Financial Results",
@@ -103,8 +83,28 @@
       "article_url": "https://www.cnbc.com/2025/11/21/figure-ai-sued.html",
       "image": "https://image.cnbcfm.com/api/v1/image/107379938-1709152661747-Figure_Image_4.jpg?v=1709153015&w=1920&h=1080",
       "description": "A former engineer for Figure AI filed a lawsuit against the company, claiming he was unlawfully terminated after warning executives about product safety."
+    },
+    {
+      "headline": "The Droids Taking Over One of England\u2019s Strangest Towns",
+      "source": "New York Magazine",
+      "source_url": "https://nymag.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdlJwNG9KVGNpVVhjdmZuRHoyZTJqMmdUZVQzTWJTWFVNbFFkaS1wTmpTSU02TmZiTlUxR0ktczExUU5oWWZ6a09idy1IRk11b2R1RjRXTDRRcndmN3BHcUhlZU9DaENBckExUHlHekY4UGRpQ0RtVjZRNV9BaHo1OXNxZmxDVDA?oc=5",
+      "pub_date": 1763978409.0,
+      "article_url": "https://nymag.com/intelligencer/article/robots-taking-over-milton-keynes-uk.html",
+      "image": "https://pyxis.nymag.com/v1/imgs/9fb/deb/53f2fc3fc717a322a29f93cdf626698c75-Milton-Keynes-lede.1x.rsocial.w1200.jpg",
+      "description": "Want a glimpse of our robot-filled future? Just go to Milton Keynes."
+    },
+    {
+      "headline": "Cobots are out, collaborative applications are in after safety standard change",
+      "source": "Manufacturing Dive",
+      "source_url": "https://www.manufacturingdive.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd3JNenZLT1A0ZUtkVUdrUzUzZFVRWk9GSVhJbXRXX3h6TkNnMG5FTkFqLUxGZDctZGUwVC1RSGlJd055dXNXbW5nS3AyNEs3WWtYMzVNMkZwZEl0Z2hldWViVHU3Z1ZlNVVBSHRJQ2FGM2laeTdxNU1JR2pHbWFlU0lPZWZPQTZYZm8xNEdfS21XN2l0LWFGb1p2Sl9kdVJwbG5UcXdB?oc=5",
+      "pub_date": 1763994261.0,
+      "article_url": "https://www.manufacturingdive.com/news/cobots-iso-ansi-collaborative-applications-manufacturing/805970/",
+      "image": "https://imgproxy.divecdn.com/KmzRQMGsirYCqipznAU3vc14C-WJO9IR1hApD6VpYPA/g:nowe:0:0/c:2500:1412/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5MDgxMjgwLmpwZWc=.webp",
+      "description": "Recent ISO and ANSI standard updates have shifted to the term \u201ccollaborative application,\u201d in recognition of the safety\u00a0considerations\u00a0involved when robots and humans interact in manufacturing settings."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T03:05:35.512339+00:00"
+  "fetched_at": "2025-11-25T03:54:19.810023+00:00"
 }
