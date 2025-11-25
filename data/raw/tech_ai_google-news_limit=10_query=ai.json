@@ -25,22 +25,22 @@
       "description": null
     },
     {
-      "headline": "Amazon to invest up to $50 billion to expand AI and supercomputing infrastructure for US government agencies",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXZyVlFqeWJCODRWeXRwUTVJMHhFZkRmbFBOa0JXdmhfdFRzNmVCMkFVZDhNS0RfRnhMNDVlTW1YZl9DM1ROQUdVX2pVT2pOUVJxRXZfVUVhUjdFU1gzZ2tld21qeF9KX3FZZi04S05hOGZKZHo5cTNIMmdTSzhHblN0Ylpfc09uR21OM05WWQ?oc=5",
-      "pub_date": 1764000228.0,
-      "article_url": "https://www.aboutamazon.com/news/company-news/amazon-ai-investment-us-federal-agencies",
-      "image": "https://assets.aboutamazon.com/dims4/default/29a0af5/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc6%2Ff7%2F88fa6e81457bbb11c742465fe562%2Fabout-amazon-hero-aa-hero001-amazon-datacenter-bht-0318a-2-4715x2652.jpg",
-      "description": "Federal agencies will gain access to Amazon SageMaker AI, Amazon Bedrock, Amazon Nova among other AI services from AWS."
+      "headline": "Amazon Is Using Specialized AI Agents for Deep Bug Hunting",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10cmt1TElVbWNMU2VpeVpOT0RqN2owalNwcXc2dENPSm1jZW5BRFFNZXhDcDhDdGxoN2lQWDJSWEw5dmlKUmkxZDdsSXBubWMxdGtpUm9IdXVnQ2dfM0ZvYmlwY1hiUkdsTjFJTmU4VQ?oc=5",
+      "pub_date": 1763992800.0,
+      "article_url": "https://www.wired.com/story/amazon-autonomous-threat-analysis/",
+      "image": "https://media.wired.com/photos/6920be92dadba95e94f9bc80/191:100/w_1280,c_limit/Amazon-Using-Specialized-AI-Agents-Security-2223553741.jpg",
+      "description": "Born out of an internal hackathon, Amazon\u2019s Autonomous Threat Analysis system uses a variety of specialized AI agents to detect weaknesses and propose fixes to the company\u2019s platforms."
     },
     {
-      "headline": "Alphabet Gains on Report Meta to Use Its AI Chips; Nvidia Falls",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEhyaV9tVHFJZXdNM1hvck5NVzh5WU50ZVlPZmFfcjdtSmlKdkxoYUMyRnJIWGNkUHJGMVVJc1BBU3Z1clQ3RWFiMFEyV3labzBGSGFzUnZRS3hiaVRMcGloM1FWSHR0MjIyZHdMcm5mX2xoaHU4YTBGOWV2elRoa3FYT2xybXhseXdPcDN1N3FHTXU1QWU2djVnR01JSERfWVVZaDBJOHRzRDQ?oc=5",
-      "pub_date": 1764035160.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-25/alphabet-gains-on-report-that-meta-will-use-its-ai-chips",
+      "headline": "Nvidia Says It\u2019s Not Enron in Private Memo Refuting AI Accounting",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPNVFEdTBMa2NBV29jZ0p6OTNvZUQybTFxaGU2bHNBRlo4YVJDREpQTW0wQVR2Q1d3LW1Ya2lCRTVXZDhPZDBGdzZzcW15VUZLd2U2cW85c1dHQ295cEFGNE92UjBJekp1WDR2Yl9hcU1jdDZwcnIwdkl4bWUyTXRpdEFjQ0p1MklLbW9hc2lERnNpWndFNFNGMkdlNzVoZE5pUEQ0Sk9iMHl0NDE5Z2M2WURmV3lTb0Z1Rm5va0pYTEMwQ2I1d2ZLRnRXVzRaYmd4WWU1NjZ3ZUFuYzVSeXBKLW5LSnBDRlQ1VHhmMzNDMUl2OE9QZGU0V2lGb2dTRGp3ckNNWDJuZFVPQUtuX2NkNzE3LVVPemJNLVBUdG0tRGtVbWxMZy1aMVdERnBhTlpjaTJJY1BfZVc1TEdqN2xKc3BDSXROMWRSRmRoeEhYRkNwZEhTZXFBcm91Zk9hUFhCdnZ0ZzlObHBDU3VmOEtMS1dTLU5DMW85eDRzdnFCNmIxWWRreE10aElzdFI?oc=5",
+      "pub_date": 1764014160.0,
+      "article_url": "https://www.barrons.com/articles/nvidia-stock-ai-accounting-allegations-366f16ac?gaa_at=eafs&gaa_n=AWEtsqfRNxsDu5kq_FVbPzVPcliOkU_hQEoQltiLXpiDigePwCK_i5B9mL3q&gaa_ts=69253320&gaa_sig=h9w8-Qts3j9oR_H5DTW6-e_cS9Jo9we_nOHh_Ihzwmmh--_QPL-fUczRdwxmRCislFtbEdFqyjcU0i2zS36eyw%3D%3D",
       "image": null,
       "description": null
     },
@@ -55,24 +55,44 @@
       "description": null
     },
     {
-      "headline": "Why Google\u2019s AI Wins Are Bad News for Nvidia Stock and the AI Trade",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPNFluUTdkN0xqN2tZZTRoVm9ndk9VMHZVeWxjZWtmYTIzSGhIZnlVVHFiQlhkLTRJeEJ2VnlKVzV5WGZkSzFDSzZjMTVwR01PNzNaekJMNF9QOXpEd1lmYW1NdXBuekh2QlV3X0N3SGJhbl9VcGlKQW4yUWZISVplTjRFaVJDdW5nRlJqX2tWdW1rM3VnWmVYZndQUy1MbkZ0aklabEFSNjYtdFpSMTZzcTFMWXV0VUVpX3N6NzJKTlFWY0xiNGtNSVYyY2FNWVhIYllhUVVNVGg0X3NvU1N0UUdwYi1fM2F1UUJtV20tN0k0XzdSUWxMZHZ4SUlUNUxyZDFranRyZHNJZEhvQldySGFaR3NiMDBPeHp4b1duSVhGMU9xRTliWjJGNlJvM1pRZXZJWWE1RTJsdnhEU0RXUzlqekw3ZWYxY19yaEtjaGFOcDhZYXFhWlJXblpnVUhtZDZNTlhZU3ZMQzlaVld5d2J5dDhLaFRnR2I4cw?oc=5",
-      "pub_date": 1764020640.0,
-      "article_url": "https://www.barrons.com/articles/ai-google-nvidia-stock-tpu-84753c55?gaa_at=eafs&gaa_n=AWEtsqeWrIPudTKH90NpXLgRcmr5iOLkEXq9RcodCBW2zBnhH0W-1gBdJHsP&gaa_ts=69252bdb&gaa_sig=q3sfa5YDsSC14Ns8Q2cAMr1AHcsRlE9S2prjFFwYH6A2UOqkrD9D2tsVgF5KFJgz8JdXnb9GllHMsUfN12GpdQ%3D%3D",
+      "headline": "U.S. Weighs Allowing Nvidia To Sell Advanced H200 AI Chips To China",
+      "source": "Nasdaq",
+      "source_url": "https://www.nasdaq.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ1RXRUVrVVRTWS1PZEx5U1hUMjRMdDg2UDV0WHJoZXl5QlpWcjlrdlJpQkYxUEl3RHU4eFpvT0lfZ0l1QTJvcnByTFRKTS1rd3N1WFMtSlVFZUp0WjlkNGtya0E1U1ZrcjJFYllYSG92QnE0ZXdkMFRXNURnNklWVTByZFZ3NzlYdi1ocGFNWG94blV3N0E?oc=5",
+      "pub_date": 1764022200.0,
+      "article_url": "https://www.nasdaq.com/articles/us-weighs-allowing-nvidia-sell-advanced-h200-ai-chips-china",
+      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+      "description": "(RTTNews) - The Trump administration is quietly weighing whether to let Nvidia sell its top-notch H200 AI chips to Chinese firms, which would represent a big shift in U.S. tech export policies."
+    },
+    {
+      "headline": "Alphabet\u2019s stock rises as possible Meta chip deal highlights new twist in the AI trade",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNQ3dZMl9Hb0FlTERCZlk2bGUxcUdfZE1kNEl6aFhJTHJvM3ZzaklqTHk5SzlPV1RsanNwNHhoVFFxQ0FFS1JlZVpONTdTRGRZZmNuOW9vQmlPRG5iTkVGaTZ3ajZqVDB0a1JLa1FnN04zbl91VVRpNEVEOXhwVW9QazhIZFJCaHplRGtvbFppR1lYMmh6aG1nYjNEM19Scmh2WFZtRERFNklwY2tyZ3JsclplRUlraEtidjMyU3dSekZRWC16YVlHOE9lX3BCZUxndmNPOWNubzQzcGlBQjFuT1djazJsSHRLRjA2MUJ1cDIyWktQOXVGRmhtVkxXdEw4NFNIWVpCZXEyTURUUklONUEyMHRrYllMRHYtN3UxcW4tQTRsc252cE16OW5TYkN0Qy1VSDN4clV2am5jSENMZ1ZtbVJUa3g4MVM5TDllSEJXOElMa0NGNkVzMGZfN3kyV3p5bUlqVGR4eFBtVVp0aWVFRkJyNm9fN1ZjZ1lhOHFGVTk4TVYydHdyYkpDcTIyMlBmMXVodUY0dzc0UkdPdEhjc3puZ2Fva1dSX0tVS3MtN0pPN0ZBMlg0TDF3ZWEzREp1Z1VFRWxweGRh?oc=5",
+      "pub_date": 1764040980.0,
+      "article_url": "https://www.marketwatch.com/story/alphabets-stock-rises-as-possible-meta-chip-deal-highlights-new-twist-in-the-ai-trade-e697d12f?gaa_at=eafs&gaa_n=AWEtsqdxJ4UAmGaW14JEgbl4vXGiaQ3tE6KB-gp-iIDITXLmGtJckgeWs-8J&gaa_ts=69253320&gaa_sig=KDtPkDcCH1TqZBKyj26oqxXMiSjvNrn39fju-txoUqzLQm-0afp9FC1Cf5_WZwo1BHB65RHUiuZUtJ3VoNsUAA%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "CEOs can\u2019t hire their way out of the AI skills gap",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ2xhWkZLNW1SY28wTmR0WjdlQW1EQVN4TDhEY1ItTVo2QjhYX0E3Mlk4cDZCcm9xV0ptXzRqM2wtZjY0SGJjX0tpRlp1ZW1yWnJtQThUdV90UjVpbEtjbWppT3pGUEZFZDZjbGRQVHFXVVBYZzJoR1ZKUGlPOVc0UC1CRHZqaUYwRHMxTW0xZw?oc=5",
-      "pub_date": 1764038951.0,
-      "article_url": "https://www.fastcompany.com/91447258/ceos-cant-hire-their-way-out-of-the-ai-skills-gap",
-      "image": null,
-      "description": null
+      "headline": "CNBC Daily Open: A risky alpha bet in markets to revive AI trade",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNm1rUkQwVUlfcmlvMmYtMndFZHN5TXUxOVB2enpTRzBPUkdodHFSY0djdHBRZHR5SEoyQ2ctUHVlazVNelhhTkJnNHBWNXpFY3k1TGpnOS03bDFaYUI4Z19pd2tpVk5sUUJYbXBWTUpReTZMeEY5OHcwcGxQeFhNaGNWRWVQcWdMVDZZWHFWR1M4Rm5CZXFGSzlCOFJFLTlJZlHSAacBQVVfeXFMTWtWLVhrOHFYWXlUeXo2UVZpd3ZMY2NNZE4yeWV4S1ZSeTg2WEtWdDhxY2ZLMk9KaGtXQXBiZ0xjQW1RdV9wX25sTnRHNHZPRHJKWmNiQnNYS1RlcGd2RkQ1WFRrUU5oaF9fVXpqb2pTWkJEZURGUUJSU004Vjk0WUoyLXFiLWJ5aThsRWFzRVZvaFI3aE9SOHdFd3RVUWZwSXQtOVJsZjA?oc=5",
+      "pub_date": 1764032700.0,
+      "article_url": "https://www.cnbc.com/2025/11/25/cnbc-daily-open-a-risky-alpha-bet-in-markets-to-revive-ai-trade.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108231382-1764032443879-gettyimages-2246202384-3h4a0139_zvloue7o.jpeg?v=1764032509&w=1920&h=1080",
+      "description": "Alphabet on Monday may have brought about alpha but letting it be the omega as well could pose problems for investors."
+    },
+    {
+      "headline": "Broadcom is joining Alphabet in the AI rally. Why investors are jumping in",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVVJYOHZlbXJMeDRPOWJOQzAtMV9OeHNRRTlwQUhjR1NKLVdxRDctUHB0N3EzRkhyVmJvNkp1cEpRNjRyd3JWMUs3RGYxaV82TG02VUxJdG82bTFQY0g0bWtQWURuZm94bVZ3Q0tkQ1VycnpQdW56cEpTT21IVTNfQUhuaTJCaEtNc0lSdEtpTnJFa0pqVWYyenc0VFZSSHBtNWNxd3NCb0NMMEEtVVU40gG0AUFVX3lxTE41MEQzUzBWQ1dmVUlfZzl4QUxaR2NiVW1UbWZ6TXpCeE02YkVYU25aS0RpT0tHZHdlbHZnTDF6QzBEY1JIek0yZTNSQVg2Q1JaZlRvaTFVNnV6bWNqVlJXZDFYOEJLQjBjVmNTNnBQUEZPTXdvS2h5bm94ckZPVmE4OWl2OVVheHNYT2xjSkhEYmZtZVRSa20tMW5td3dhNE5HUnNOOUd3MVUtSG50bTdGdF8xTw?oc=5",
+      "pub_date": 1764009264.0,
+      "article_url": "https://www.cnbc.com/2025/11/24/broadcom-is-joining-alphabet-in-the-ai-rally-why-investors-are-jumping-in.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108211775-17604496412025-10-14t130305z_1228058461_rc2ylga38j4l_rtrmadp_0_tech-broadcom-chips.jpeg?v=1760449701&w=1920&h=1080",
+      "description": "The move in Broadcom comes as investors continue to push shares of Google parent Alphabet higher. The two are related through their business with ASICs."
     },
     {
       "headline": "Trump signs executive order launching Genesis Mission AI project",
@@ -83,28 +103,8 @@
       "article_url": "https://www.nbcnews.com/tech/tech-news/trump-signs-executive-order-launching-genesis-mission-ai-project-rcna245600",
       "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251124-trump-rs-aae677.jpg",
       "description": "The order announced the \u201cGenesis Mission\u201d for AI, a new federal push to mobilize the federal government's research and data to create artificial intelligence models."
-    },
-    {
-      "headline": "How the U.S. Economy Became Hooked on AI Spending",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNYVBLQjlWQS05dFIwMkE0T0lDdlZYMWVOUElRbmJSSWNWT21DX1pPUjhidU9SRjVqeXlXOU1MM19EbTlDSGxwWUFXaC1yQmh4bGNzbUJUVVI4cGhqTmxMQVdvdS02ZTFIenVfMVd2TmlaUUVuZDJUdlFWYzhjN3p4bmpwbm5nbFdGWkdCd2ZsWlltUkl0b3M0X19LTXh2c00xT3lYSnctOHVVdy12QThTTmI1by1tazBmQjVERGFxdmZvNHg0Mnp4eUNsbkM1ZWtVcjE0SHVoMmRpUzlvY29LVzE5ZlI2RVZiR0RwMjVwSUs0OHUxWWVjejAtZW9JN3BrTURwZ1FkWU9PNDhFZzR6aVpfUTJZenlSdUZZbFVibHZuZHZXZ1FRZU9fU1V2MmNSUENuVWdYM3pIMmdDV25xN1hlZ1BhdFI1TlQwRmFZWUtfc1U1UkxaWHpNX21fN19KZlpKYzM3dl9wMHZsdFhJOWJaVDk4UmtJUWZucUxzOUlLODljek5fWGdGVHhMVHk4dU5z?oc=5",
-      "pub_date": 1763980200.0,
-      "article_url": "https://www.wsj.com/tech/ai/how-the-u-s-economy-became-hooked-on-ai-spending-4b6bc7ff?gaa_at=eafs&gaa_n=AWEtsqfwuwCOVvylSFUPE28ZJKBzYnYJjTZTh5rHJJR0JjmxT292IGXv4Uyc&gaa_ts=69252bdb&gaa_sig=Q81DowiOXHH-rssntDCXg8GMydyVoVYVkJaSsIHvLrZJgiu1P_Z8nIMiBhCwIl8Pe_vZtjWTc8HdDlBUyyobEw%3D%3D",
-      "image": "https://images.wsj.net/im-03915609/social",
-      "description": "Growth has been bolstered by data-center investment and stock-market wealth. A reversal could raise the risk of recession."
-    },
-    {
-      "headline": "AI On: 3 Ways Specialized AI Agents Are Reshaping Businesses",
-      "source": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzYmpxZUQwWVlDbTNLNzNEY1NsdUQ1OXhveHBOTlgyUFJxQmxpTnVVaTFJdWI2VXNHUE5scWlsdTZ2M2N1amttS3JrRjhwQjRWNEZveWpRb0dPX0NyWnhZc1d3?oc=5",
-      "pub_date": 1764003938.0,
-      "article_url": "https://blogs.nvidia.com/blog/specialized-ai-agents/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2025/11/ai-on-specialized-agents-1280x680-1.jpg",
-      "description": "Built on open-source models, today\u2019s AI agents can be tailored for unique workflows and business needs to boost productivity and return on investment."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T03:54:24.982757+00:00"
+  "fetched_at": "2025-11-25T04:25:26.569502+00:00"
 }

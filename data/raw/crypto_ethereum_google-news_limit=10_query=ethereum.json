@@ -55,16 +55,6 @@
       "description": null
     },
     {
-      "headline": "Offchain Labs challenges Vitalik's RISC-V proposal, says WASM better for Ethereum L1",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUZLbWdKaklRcFkya19mTlBVZldlUDA5czhfNXJBMGxnSW5Fd1BpOWJOWUVlRXpjTHMwSHhVbUdVX1NQMmYtTG9fY2xDdE56TXd4RVVvWGJMR1ZCaGxlcXFjMnY5OGJyTzVnWW1TM2tudlc3TklROXRIVEtIV01wS2M2MEg5aFhhXzlPV0htVlh3TmVTdklPdXc5X0tqX2dyX09zV0NTWUYwXzVSQXZQZE1ZdXhnZ0lqN2fSAb8BQVVfeXFMTTczOEZJaVFDYTlDNXMxcVBFM2thZDNNam95MHhmTnBaUXVHWnNSZnNsNzFkTlFFdzZDM2JONmxoTmNBMFVxNEt2ZXhXdUJnLTFEWGx1c2tLSE1UQk1BQzhldzNhMGc4bVNfd1E5STNEWGo4TDczQ1Z2NS1fQW5CaXlTWUJuajM5cW1WLXcxbWZGRUFUakIzS1VYRFBBUDlwZWEwa0VSV0VnQnJXQy1oN05BU0ZXYW9DSVQtRmFIdFE?oc=5",
-      "pub_date": 1763931335.0,
-      "article_url": "https://www.theblock.co/post/380070/offchain-labs-challenges-vitaliks-risc-v-proposal-says-wasm-better-for-ethereum-l1",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "How Sharplink Is Reinventing Itself: Earnings, Ethereum, and the Future of Gaming",
       "source": "cheddar.com",
       "source_url": "https://www.cheddar.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-rebound-after-recent-downside-pressure-202511240316",
       "image": "https://editorial.fxsstatic.com/images/i/cryptos-coins_Medium.png",
       "description": "Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week with a modest recovery on Monday after last week\u2019s massive correction. These top three cryptocurrencies are holding above their key support levels, suggesting recovery continuation."
+    },
+    {
+      "headline": "Ethereum Price Analysis: Can ETH Stabilize, or Is Another Pullback Brewing?",
+      "source": "CryptoPotato",
+      "source_url": "https://cryptopotato.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWC1LX3drTlpvYTdpMFJlXzZnT3RETEEtOEs5eVY1bE5kcUpUY3dYdkJkRVJjcThmNEc5ZzNJdkxzS1U5NFZKSkppa3BkaHlJbWtBZ1Job05WLVdpc3J5NjRER1dSSkdPQ0VmTFQwaTFmWWlZZWNsS2YwMndIYU55VGktdWRwQVBrbmVMc2VkQk1oV2J5M2IwUGF2V0RMYkk?oc=5",
+      "pub_date": 1763992800.0,
+      "article_url": "https://cryptopotato.com/ethereum-price-analysis-can-eth-stabilize-or-is-another-pullback-brewing/",
+      "image": "https://cryptopotato.com/wp-content/uploads/2025/11/ETH-Daily-4-scaled.jpg",
+      "description": "Ethereum remains under heavy pressure as the broader crypto market continues its correction. With the price losing key support levels and sentiment"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T03:54:18.009499+00:00"
+  "fetched_at": "2025-11-25T04:25:17.078487+00:00"
 }

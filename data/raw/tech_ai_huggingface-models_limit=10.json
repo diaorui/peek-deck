@@ -24,7 +24,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/facebook/sam3.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1592839207516-noauth.png",
       "downloads": 84190,
-      "likes": 607,
+      "likes": 608,
       "pipeline_tag": "mask-generation",
       "num_parameters": "859.9M",
       "last_modified": "2025-11-20T22:05:08.000Z",
@@ -39,7 +39,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Supertone/supertonic.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68ef1b2d04f0f03d81974536/XltzYlfCoWTzfqimzt5j7.png",
       "downloads": 2298,
-      "likes": 242,
+      "likes": 244,
       "pipeline_tag": "text-to-speech",
       "num_parameters": null,
       "last_modified": "2025-11-22T01:39:33.000Z",
@@ -129,7 +129,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/eigen-ai-labs/eigen-banana-qwen-image-edit.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6514d59cf95f39fd02acd9dc/oELb680wyZPzGhhO-w1pG.png",
       "downloads": 436,
-      "likes": 223,
+      "likes": 224,
       "pipeline_tag": "text-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-16T04:54:03.000Z",
@@ -152,5 +152,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-11-25T03:54:12.658794+00:00"
+  "fetched_at": "2025-11-25T04:25:12.707884+00:00"
 }
