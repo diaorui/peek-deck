@@ -13,17 +13,6 @@
       "description": null
     },
     {
-      "title": "I hit a milestone \ud83d\udc4f\ud83e\ude99",
-      "author": "MoistGameplays",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p6nlzj/i_hit_a_milestone/",
-      "published": 1764102744.0,
-      "thumbnail": "https://preview.redd.it/p0gftsa6rg3g1.png?width=640&crop=smart&auto=webp&s=2117fef400d4306866c0bc92ba2167598ddc936c",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I love the discount lately \ud83d\udc4f\ud83e\ude99 hope it drops more"
-    },
-    {
       "title": "God-tier \ud83d\ude80",
       "author": "MrMBTC",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p6ize5/godtier/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "I hit a milestone \ud83d\udc4f\ud83e\ude99",
+      "author": "MoistGameplays",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p6nlzj/i_hit_a_milestone/",
+      "published": 1764102744.0,
+      "thumbnail": "https://preview.redd.it/p0gftsa6rg3g1.png?width=640&crop=smart&auto=webp&s=2117fef400d4306866c0bc92ba2167598ddc936c",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I love the discount lately \ud83d\udc4f\ud83e\ude99 hope it drops more"
     },
     {
       "title": "The Great State of Texas Acquires Bitcoin",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-25T23:19:44.247090+00:00"
+  "fetched_at": "2025-11-25T23:56:46.810183+00:00"
 }
