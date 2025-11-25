@@ -12,11 +12,11 @@
       "hf_url": "https://huggingface.co/papers/2511.16719",
       "arxiv_url": "https://arxiv.org/abs/2511.16719",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16719.png",
-      "upvotes": 63,
+      "upvotes": 64,
       "num_comments": 2,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
-      "github_stars": 3877,
+      "github_stars": 4008,
       "project_page": "https://ai.meta.com/sam3/"
     },
     {
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2511.18423",
       "arxiv_url": "https://arxiv.org/abs/2511.18423",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.18423.png",
-      "upvotes": 114,
+      "upvotes": 115,
       "num_comments": 1,
       "published_at": "2025-11-23T07:29:33.000Z",
       "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
@@ -130,7 +130,7 @@
       "num_comments": 4,
       "published_at": "2025-11-13T13:59:53.000Z",
       "github_repo": "https://github.com/ByteDance-Seed/depth-anything-3",
-      "github_stars": 2754,
+      "github_stars": 2791,
       "project_page": "https://depth-anything-3.github.io/"
     },
     {
@@ -168,7 +168,7 @@
       "num_comments": 2,
       "published_at": "2025-11-20T08:11:45.000Z",
       "github_repo": "https://github.com/EvolvingLMMs-Lab/OpenMMReasoner",
-      "github_stars": 79,
+      "github_stars": 88,
       "project_page": "https://evolvinglmms-lab.github.io/OpenMMReasoner/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-25T12:23:48.027341+00:00"
+  "fetched_at": "2025-11-25T13:45:27.638891+00:00"
 }
