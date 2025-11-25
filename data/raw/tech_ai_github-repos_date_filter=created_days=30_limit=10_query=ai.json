@@ -30,7 +30,7 @@
       "description": "A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language",
       "url": "https://github.com/liujuntao123/smart-excalidraw-next",
       "preview_image": "https://opengraph.githubassets.com/7dc6e7a2aa2e5f6261deb6fd2aab56f3f00fe2d57ae1127a3e15ec0557210a06/liujuntao123/smart-excalidraw-next",
-      "stars": 1988,
+      "stars": 1991,
       "stars_display": "2.0k",
       "forks": 247,
       "forks_display": "247",
@@ -50,7 +50,7 @@
       "description": "Gausian - Rust-based local video editor for AI video production",
       "url": "https://github.com/gausian-AI/Gausian_native_editor",
       "preview_image": "https://opengraph.githubassets.com/00b325081b4d8d90054b919e75ae8b0f8bb82d16befdd2579a46d96946d5088c/gausian-AI/Gausian_native_editor",
-      "stars": 1210,
+      "stars": 1217,
       "stars_display": "1.2k",
       "forks": 17,
       "forks_display": "17",
@@ -101,8 +101,8 @@
       "description": "\u4e00\u4e2a\u96c6\u5185\u5bb9\u7b56\u5212\u3001AI\u6587\u6848\u81ea\u52a8\u751f\u6210\u3001TTS \u6279\u91cf\u81ea\u52a8\u914d\u97f3\u3001(AI)\u56fe\u7247\u7d20\u6750\u5408\u6210\u3001ASR\u81ea\u52a8\u63d0\u53d6\u8bed\u8a00\u5b57\u5e55\u811a\u672c\u3001AI\u81ea\u7531\u521b\u4f5c\u4e8e\u4e00\u4f53\u7684(\u77ed\u89c6\u9891)\u751f\u6210\u5de5\u4f5c\u7ad9\u3002\u65b9\u4fbf\u7ba1\u7406\u6bcf\u671f\u7684\u89c6\u9891\u9879\u76ee\u3002",
       "url": "https://github.com/Norsico/Video-Materials-AutoGEN-Workstation",
       "preview_image": "https://opengraph.githubassets.com/0ca6ecdb80ca700af163d1d6071825efe12a7b8e56fcb982f95131834556cf81/Norsico/Video-Materials-AutoGEN-Workstation",
-      "stars": 794,
-      "stars_display": "794",
+      "stars": 800,
+      "stars_display": "800",
       "forks": 165,
       "forks_display": "165",
       "language": "Python",
@@ -148,6 +148,22 @@
       "updated_at": "2025-11-25T07:31:52Z"
     },
     {
+      "full_name": "EverMind-AI/EverMemOS",
+      "name": "EverMemOS",
+      "owner": "EverMind-AI",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/229275294?v=4",
+      "description": "EverMemOS is an open-source, enterprise-grade intelligent memory system. Our mission is to build AI memory that never forgets, making every conversation built on previous understanding.",
+      "url": "https://github.com/EverMind-AI/EverMemOS",
+      "preview_image": "https://opengraph.githubassets.com/fea5bac69284b6fc84ca2d9ce9d7c3999b01d406d1a1ee24250c634becff8d81/EverMind-AI/EverMemOS",
+      "stars": 678,
+      "stars_display": "678",
+      "forks": 64,
+      "forks_display": "64",
+      "language": "Python",
+      "topics": [],
+      "updated_at": "2025-11-18T14:43:06Z"
+    },
+    {
       "full_name": "gensyn-ai/codeassist",
       "name": "codeassist",
       "owner": "gensyn-ai",
@@ -162,28 +178,12 @@
       "language": "Python",
       "topics": [],
       "updated_at": "2025-11-13T14:23:42Z"
-    },
-    {
-      "full_name": "EverMind-AI/EverMemOS",
-      "name": "EverMemOS",
-      "owner": "EverMind-AI",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/229275294?v=4",
-      "description": "EverMemOS is an open-source, enterprise-grade intelligent memory system. Our mission is to build AI memory that never forgets, making every conversation built on previous understanding.",
-      "url": "https://github.com/EverMind-AI/EverMemOS",
-      "preview_image": "https://opengraph.githubassets.com/fea5bac69284b6fc84ca2d9ce9d7c3999b01d406d1a1ee24250c634becff8d81/EverMind-AI/EverMemOS",
-      "stars": 673,
-      "stars_display": "673",
-      "forks": 63,
-      "forks_display": "63",
-      "language": "Python",
-      "topics": [],
-      "updated_at": "2025-11-18T14:43:06Z"
     }
   ],
   "query": "ai",
   "search_query": "ai created:>2025-10-26",
   "days": 30,
   "limit": 10,
-  "total_count": 213551,
-  "fetched_at": "2025-11-25T07:42:28.143811+00:00"
+  "total_count": 213986,
+  "fetched_at": "2025-11-25T08:50:57.242509+00:00"
 }
