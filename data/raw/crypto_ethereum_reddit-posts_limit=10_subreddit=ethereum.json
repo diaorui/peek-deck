@@ -24,6 +24,17 @@
       "description": "Every team hits different roadblocks when preparing for or going through a smart contract audit. For some it\u2019s documentation, for others it\u2019s test coverage, architecture decisions, upgradeability, or unexpected security issues that show up late. Curious to hear from other devs what\u2019s been the most challenging part of the audit process for you, and what would\u2019ve made it easier?"
     },
     {
+      "title": "Are my crypto safe?",
+      "author": "mmaatt78",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p6lxev/are_my_crypto_safe/",
+      "published": 1764098972.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Has anyone successfully created and integrated a smart contract for every day use?",
       "author": "PrincesaBacana-1",
       "url": "https://www.reddit.com/r/ethereum/comments/1p5ocj5/has_anyone_successfully_created_and_integrated_a/",
@@ -99,18 +110,7 @@
       "site_name": "EtherWorld.co",
       "favicon": "https://etherworld.co/favicon.png",
       "description": "Ethereum Foundation announces Devcon 8 in Mumbai for Q4 2026, marking India\u2019s growing leadership in global Ethereum development & adoption."
-    },
-    {
-      "title": "What\u2019s the first thing you\u2019d permanently store on Arweave?",
-      "author": "jharmomy",
-      "url": "https://www.reddit.com/r/ethereum/comments/1p4gmsf/whats_the_first_thing_youd_permanently_store_on/",
-      "published": 1763882855.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-11-25T19:16:49.558514+00:00"
+  "fetched_at": "2025-11-25T19:55:16.280256+00:00"
 }
