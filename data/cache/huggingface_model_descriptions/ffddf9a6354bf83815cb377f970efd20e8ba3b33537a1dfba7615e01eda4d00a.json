@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-11-25T04:58:26.424689+00:00",
+  "data": "Olmo-3-32B-Think is a 32B parameter language model designed for enhanced reasoning through long chain-of-thought processing. It excels in tasks requiring complex problem-solving, such as math and coding, and is suitable for research and educational applications.",
+  "model_id": "allenai/Olmo-3-32B-Think"
+}
