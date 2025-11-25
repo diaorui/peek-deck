@@ -2,17 +2,6 @@
   "subreddit": "ethereum",
   "posts": [
     {
-      "title": "Daily General Discussion November 24, 2025",
-      "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1p59cva/daily_general_discussion_november_24_2025/",
-      "published": 1763964112.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
-    },
-    {
       "title": "Has anyone successfully created and integrated a smart contract for every day use?",
       "author": "PrincesaBacana-1",
       "url": "https://www.reddit.com/r/ethereum/comments/1p5ocj5/has_anyone_successfully_created_and_integrated_a/",
@@ -22,6 +11,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Not for your own personal use, but for the communal use of many. I\u2019m thinking of trying one out with 30~ users."
+    },
+    {
+      "title": "Daily General Discussion November 24, 2025",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p59cva/daily_general_discussion_november_24_2025/",
+      "published": 1763964112.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
       "title": "The Fusaka Files #4 \u2014 Wallet Support & EIP-7951 with Alex Stokes",
@@ -112,5 +112,5 @@
       "description": "Hey everyone, I\u2019m trying to find an Ethereum wallet that gives full control over the HD wallet structure \u2014 something that allows: setting a custom derivation path (e.g. m/44'/60'/1'/0/5, etc) managing multiple account indexes (not just incrementing address index like MetaMask) adding a BIP39 passphrase (\u201c25th word\u201d) optionally showing / importing addresses beyond account 0' Most popular wallets only expose a simple \u201cAccount 1 / Account 2\u201d UI without letting you tweak the actual path. Does anyone know a wallet (desktop/mobile/hardware) that supports all of the above? Examples I\u2019m considering are: Sparrow, Electrum-like tools, hardware wallets, or advanced mobile wallets \u2014 but I\u2019m not sure which ones actually allow custom ETH paths + passphrase at the same time. Any recommendations from people who\u2019ve done this on Ethereum? Thanks!"
     }
   ],
-  "fetched_at": "2025-11-25T01:28:43.754736+00:00"
+  "fetched_at": "2025-11-25T03:05:18.805551+00:00"
 }

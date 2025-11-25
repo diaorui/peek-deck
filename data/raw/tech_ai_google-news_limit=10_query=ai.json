@@ -15,6 +15,86 @@
       "description": "The project will add 1.3 gigawatts of capacity across new data centers, with Amazon expected to break ground in 2026."
     },
     {
+      "headline": "Amazon to invest up to $50 billion to expand AI and supercomputing infrastructure for US government agencies",
+      "source": "About Amazon",
+      "source_url": "https://www.aboutamazon.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXZyVlFqeWJCODRWeXRwUTVJMHhFZkRmbFBOa0JXdmhfdFRzNmVCMkFVZDhNS0RfRnhMNDVlTW1YZl9DM1ROQUdVX2pVT2pOUVJxRXZfVUVhUjdFU1gzZ2tld21qeF9KX3FZZi04S05hOGZKZHo5cTNIMmdTSzhHblN0Ylpfc09uR21OM05WWQ?oc=5",
+      "pub_date": 1764000228.0,
+      "article_url": "https://www.aboutamazon.com/news/company-news/amazon-ai-investment-us-federal-agencies",
+      "image": "https://assets.aboutamazon.com/dims4/default/29a0af5/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc6%2Ff7%2F88fa6e81457bbb11c742465fe562%2Fabout-amazon-hero-aa-hero001-amazon-datacenter-bht-0318a-2-4715x2652.jpg",
+      "description": "Federal agencies will gain access to Amazon SageMaker AI, Amazon Bedrock, Amazon Nova among other AI services from AWS."
+    },
+    {
+      "headline": "Amazon Is Using Specialized AI Agents for Deep Bug Hunting",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10cmt1TElVbWNMU2VpeVpOT0RqN2owalNwcXc2dENPSm1jZW5BRFFNZXhDcDhDdGxoN2lQWDJSWEw5dmlKUmkxZDdsSXBubWMxdGtpUm9IdXVnQ2dfM0ZvYmlwY1hiUkdsTjFJTmU4VQ?oc=5",
+      "pub_date": 1763992800.0,
+      "article_url": "https://www.wired.com/story/amazon-autonomous-threat-analysis/",
+      "image": "https://media.wired.com/photos/6920be92dadba95e94f9bc80/191:100/w_1280,c_limit/Amazon-Using-Specialized-AI-Agents-Security-2223553741.jpg",
+      "description": "Born out of an internal hackathon, Amazon\u2019s Autonomous Threat Analysis system uses a variety of specialized AI agents to detect weaknesses and propose fixes to the company\u2019s platforms."
+    },
+    {
+      "headline": "Alphabet Gains on Report Meta to Use Its AI Chips; Nvidia Falls",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEhyaV9tVHFJZXdNM1hvck5NVzh5WU50ZVlPZmFfcjdtSmlKdkxoYUMyRnJIWGNkUHJGMVVJc1BBU3Z1clQ3RWFiMFEyV3labzBGSGFzUnZRS3hiaVRMcGloM1FWSHR0MjIyZHdMcm5mX2xoaHU4YTBGOWV2elRoa3FYT2xybXhseXdPcDN1N3FHTXU1QWU2djVnR01JSERfWVVZaDBJOHRzRDQ?oc=5",
+      "pub_date": 1764035160.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-25/alphabet-gains-on-report-that-meta-will-use-its-ai-chips",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Google Further Encroaches on Nvidia\u2019s Turf With New AI Chip Push",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWNkaE5DQjFRZ0lZS0RIZjU2Nlp1NDEtQkR2N1JQckluRkE0OGRHU3pKN3B1eHFwNXktVzJvQlUyMU54OEpVeVRIc2xWMmhBTVFEMzNFN3FVMFppYldidi1lNVZBV2hXS080VXNZUlVBd1dtc3lXVnA3emladDhBeFFMQ3E2ZXBwRUltNmpUTDQ?oc=5",
+      "pub_date": 1764024180.0,
+      "article_url": "https://www.theinformation.com/articles/google-encroaches-nvidias-turf-new-ai-chip-push",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The Real AI Battle Isn't in Chips -- It's in Compute Efficiency. Here's the Stock Positioned to Win.",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSlJXcVloXzkzNldGem02bUMtb3ZwaEozWkRoaFAxNGZ1cl9USXdLak9NQlpZOFZVUm5HZnJNM3VmR0pTdzk0TmNoRHZjUkc1aFc3UVltSTY0aDRKR29Yc29fM3NLdmE5eHJVYU1NX0hXcUhJbS1YU1pFQTkySEltR09jUFdZQkVIZWdyVzdPN3pKX1lsX3pFTg?oc=5",
+      "pub_date": 1763957700.0,
+      "article_url": "https://www.fool.com/investing/2025/11/23/the-real-ai-battle-isnt-chips-its-compute-efficien/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843438%2Fgettyimages-1480633240.jpg&w=1200&op=resize",
+      "description": "The company's structural cost advantage positions it to be the biggest AI winner."
+    },
+    {
+      "headline": "Samsung CMO says AI connects your home, empowers young geniuses, and improves daily life",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ0IxMmg2NTFBc3Jfc2pmNjVNWVJWVXF4NU5BS0xpdXlYYUJCUU9XQzhFNER4dWYtTks1azNsRjZ4SXpVR0tId2hNdjVPVDg2NDI2VUVBYTN5MzcwVlVTRjBEOEhqYzZ6QzEzeFVTaTM3VXl4SU96cDl5VlppNEhMNU1uYmlJTTY4d3RPUmlMbHJJTTRITE1TT0Zn?oc=5",
+      "pub_date": 1764035640.0,
+      "article_url": "https://www.businessinsider.com/samsung-cmo-shares-how-ai-enhances-home-and-daily-life-2025-11",
+      "image": "https://i.insider.com/6924ba0689026fbb4d0e4d48?width=1200&format=jpeg",
+      "description": "Samsung showcases AI-powered smart home connectivity, student STEM competitions, and personalized device benefits, according to CMO Allison Stransky."
+    },
+    {
+      "headline": "Robots and AI Are Already Remaking the Chinese Economy",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNTHJZcDh5YkJUclByR0RPNlpNMjVqWFRueER5V0RhMHZnRnZ1dzd5Z1VlaUQ0enQyWl80b1N0bkxndHJQakFyVUdOUVFVV1VIYTJzTE8tMmNOUHJwa1A5M1d4cWhUaFBnS2RTSTlWcmFVcFJKaUhDQlMtLUk5aERweEdRY2Y3bV9XcjQwZHBFbjdxOHdwVjhDZ1VhYm9FVTNWa0lmVkRuT2RBV0VoNHcxYV9Td25YbEQ1T1hPLU9GSlIxOFc3eHVUR3Nockh4dmdhc2xwVWd0Wk5abDFJeWhiUlAxY18wTVMwRk5nQ2c3X2o0cTdUSUh3MTA1QURQNTVCOUZjdUc5cHV1LVdYMEdkc29NR3dvTWlaWGtZX25oeExpWlgtcDhscjRodnh4ZlNfSVVQa2NwdElzMXZ6WU1UbHZMMTF6REtQVHFPdTVRWk03bmRfcnNSNUJpZk9VMWtPUmRTS3VoS1hIQmRBd3RzMTIxNmpFbDN4ZUE?oc=5",
+      "pub_date": 1764036000.0,
+      "article_url": "https://www.wsj.com/tech/ai/ai-robots-china-manufacturing-89ae1b42?gaa_at=eafs&gaa_n=AWEtsqeqj8QCi4MTYnBG-qTcYtnwvhR7LVbPZd5BgQcmPPsdXWJPEADeBVR8&gaa_ts=6925206f&gaa_sig=Ww2Sb1cOvEe9-obmopy-wEti6oODNg-S_j3WYt_HKy9FaDOb80_Pm6DjOE7jnxALqF6r3JVNEZnm1hx4U8Zuxw%3D%3D",
+      "image": "https://images.wsj.net/im-45513338/social",
+      "description": "China\u2019s factories and ports are learning to make and export more goods faster, cheaper and with fewer workers."
+    },
+    {
+      "headline": "CEOs can\u2019t hire their way out of the AI skills gap",
+      "source": "Fast Company",
+      "source_url": "https://www.fastcompany.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ2xhWkZLNW1SY28wTmR0WjdlQW1EQVN4TDhEY1ItTVo2QjhYX0E3Mlk4cDZCcm9xV0ptXzRqM2wtZjY0SGJjX0tpRlp1ZW1yWnJtQThUdV90UjVpbEtjbWppT3pGUEZFZDZjbGRQVHFXVVBYZzJoR1ZKUGlPOVc0UC1CRHZqaUYwRHMxTW0xZw?oc=5",
+      "pub_date": 1764038951.0,
+      "article_url": "https://www.fastcompany.com/91447258/ceos-cant-hire-their-way-out-of-the-ai-skills-gap",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Trump signs executive order launching Genesis Mission AI project",
       "source": "NBC News",
       "source_url": "https://www.nbcnews.com",
@@ -23,88 +103,8 @@
       "article_url": "https://www.nbcnews.com/tech/tech-news/trump-signs-executive-order-launching-genesis-mission-ai-project-rcna245600",
       "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251124-trump-rs-aae677.jpg",
       "description": "The order announced the \u201cGenesis Mission\u201d for AI, a new federal push to mobilize the federal government's research and data to create artificial intelligence models."
-    },
-    {
-      "headline": "Trump Orders Construction of A.I. Platform to Use Troves of Government Data for Research",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOakdfYTFXLTRTdE14dHFtSHh5MTNRb0FVWnNJTTNJZVNzRHJPQW1XdWRpME1keXJzdGUwVlVVRmdrS0dPM1hlalh4WkswNzFjcFppY01LZXExbzltTmlHZGtyS3QyZjN3d0pyTTNUdGdRRmk1WHljc1FkN0dvSXBLeml3?oc=5",
-      "pub_date": 1764032770.0,
-      "article_url": "https://www.nytimes.com/2025/11/24/us/politics/trump-ai-executive-order.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "China\u2019s AI Promise Lures Top Asia Fund Away From Korea, Taiwan",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZXNDTEtJN0pvSVY5Yk5fY3JYTjN3VDlDaTljVGxMdDljbk9PLThOX01WYjYzN0NHbkRBXzJ1djZZNDg2LVFSWnkxYXIxZTBRa0pETTg1cVFVVGRzekh2a2RQZTljTFNGdUpkTnlaVG5BSlhVVEJSbUJvZjFGVXVoallkWVNqOXo2MHBCZmR3a0huQ0NMSnlXNTZSRDlKV1VLN3FTNE9ScHAtZE5RTGQ5T3FB?oc=5",
-      "pub_date": 1764030720.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-25/china-s-ai-promise-lures-top-asia-fund-away-from-korea-taiwan",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Teens Are Saying Tearful Goodbyes to Their AI Companions",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPQm5ia1g3MUF6UEZod21qSksyX2NpaFRtSlFXbV9nTzRSS0JaZFBNMmdaZ0lSbWp6bEpaUklrOXEtR2NUQ2g2NXlHMjkwc2lPLU1tVnRKVkZVSFJjMHBYVmRBTDhJTFk4bWNNbDIzeW1LLUtBb1hmVkJNR0g3SnVkcElSaGFwWkZ6YnBrVmItRHZjblNSSWdaR1p1MFRkVmdPTXJiWnNiUXFqSndMMFVpX1JicGQ4V245NjJScEdSaXVseG4tdEdZMW9JMUNraUxUbGxfYkhRek45bVl3eW1PWXdZZURYNklUUGFmZXg4NV9VT3lQS0dJUkRPQW5tRVhVODl0YWVGV1NfRG80NENhZjRDQkEzeGlUSWhMMjJjVkkxOTM2N1p6RGVLcUlOMjVfX201QWg3Qzh5c0lDdUlJaDFycVFEd1E4NFFSY2xubTBiRU9mcHphMTl0dm8xVE90dld0WFlHSzFSTkZaNVVZSm1udjhzNU40M0pjdGM4bTRaQndXT0E?oc=5",
-      "pub_date": 1764032400.0,
-      "article_url": "https://www.wsj.com/tech/ai/character-ai-teen-access-mental-health-4ec02a43?gaa_at=eafs&gaa_n=AWEtsqdmWX5edNTSvFFNU5i9Itqo3AFYX9-d4hst_oRsgiQBln0kCd3j4EHV&gaa_ts=692509cb&gaa_sig=uo6_8Y7lcYbSxub0LT0ajxOn5EZTGT3hrooiJiRtBx1jRIhCHhT6guTYmfgtSeWMHNnzMDPxmVIYrRTdfpFv0Q%3D%3D",
-      "image": "https://images.wsj.net/im-26103733/social",
-      "description": "Chatbot maker Character.AI is cutting off access, citing mental-health concerns."
-    },
-    {
-      "headline": "Inside MAGA's growing fight to stop Trump's AI revolution",
-      "source": "ABC News",
-      "source_url": "https://abcnews.go.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ18zVHd5aHU0SW9LcWVfWjJld0ZrZjV3RmQyaVNRb0llcl9Dei1QRU9wcVo0MEZQVU1jVVdiWUQ0bXc5dE1VdmJ6QkEyNGJxdXZuX3phMTRUREpOZFhLQ1l5Q2Z4YVBpdGZLM2xrSFVEV1gxeXlQVEVlcXVjRGVLT201TnIxb1R6cnYtZUJJakxCVHJBN0hRRzdMVDFpZ9IBowFBVV95cUxPQVNZblB0RXhuYkZLd3FKSEx4eGhHRDRBTGR0Qmh2bm5xUXlibDR3eHBGSEZ5REFRU3RNdm1EdHNPaWVueHJYakZFZk92UUZ5bU45RFlvRTR6dlFXVW80cFhIMTdhLW9PajV6RE9PMXluOWZ4amotSGJ0MmN4NjlydG9BTWJvWHF0S05fS0R5bnc5Z29nczQ5WExyLUJ1dHduQkRB?oc=5",
-      "pub_date": 1764016908.0,
-      "article_url": "https://abcnews.go.com/US/inside-magas-growing-fight-stop-trumps-ai-revolution/story?id=127824351",
-      "image": "https://i.abcnewsfe.com/a/e2d7d898-26a0-4efd-8c4a-4d9095b3399d/bannon-gty-er-251124_1764010902064_hpMain_16x9.jpg?w=1600",
-      "description": "As President Trump pushes an extensive agenda for the advancement of AI, some of his most loyal supporters within the MAGA base are denouncing his efforts."
-    },
-    {
-      "headline": "The surprising issue driving a wedge between Trump and his MAGA base",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlRWWm04U29yNXRCTVVuU2tfVXY4dzJsX2h6TV9NRTgtSE1WLUlnbEF2UnJITG9pa0NIMUhtUHFhalZZUTlGc0ltTzZOSWhTQ2ZDX0JRSlpTSzZ0UFB6Y3dSWXFWVGpTdHRwLXJYOV9La2QwdHJqWV9KRTVIOFlISHJYMzQ3VnF3?oc=5",
-      "pub_date": 1763921138.0,
-      "article_url": "https://www.washingtonpost.com/technology/2025/11/23/trump-maga-division-tech-ai/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Here's why concerns about an AI bubble are bigger than ever",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0dyS2I4eFprMm1QTVFnai16TjlvNTN0VVcyakdFWUlnaG9mcGhlc1NPVzRLRU4zamhzS0dyRlV0a05RQk40bDVVb0tfU09COG03TWFBSFJMQlpvXy1FZ2NQY0U0azFsZjF1NThUZmV5VzJKSmhDZDBBdHg5S3NsRFJLV0ZvSjVlYXFIVWJieE80NW01MlRFVGZB?oc=5",
-      "pub_date": 1763892000.0,
-      "article_url": "https://www.npr.org/2025/11/23/nx-s1-5615410/ai-bubble-nvidia-openai-revenue-bust-data-centers",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6570x3696+0+342/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F1c%2F8fb36bab4460ad7d24569abf921a%2Fgettyimages-2192213324.jpg",
-      "description": "Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there's a bubble that will soon pop."
-    },
-    {
-      "headline": "More than half of new articles on the internet are being written by AI \u2013 is human writing headed for extinction?",
-      "source": "The Conversation",
-      "source_url": "https://theconversation.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNmZlMFN4dTFIQlFueTFHVmczLXBoSmw1SW05YlVRZFdBaXlnRlVSb25uaFdSZHNGbmRlb2E2VmxzRGUtNEhTRWpkSDU2S05IbG9RbWl5LVBrODRSZHg1Z0tyOWlYT2pvTVpNR1plZG40eS14MWtGRk9taGVITDFTOFZhd0VjYUMydmZXN1Z5QlhFQTdma2FVeHhXVlYzTDRUV29GUTdvTWtSaUl6U3UxT2tySWN6bzRWdlNkZzRJQ3ZoanBoeTBRTGFnaXZHOHZaRnJ0Y3RlUTg5RGM0?oc=5",
-      "pub_date": 1763991164.0,
-      "article_url": "https://theconversation.com/more-than-half-of-new-articles-on-the-internet-are-being-written-by-ai-is-human-writing-headed-for-extinction-268354",
-      "image": "https://images.theconversation.com/files/703477/original/file-20251119-56-zfx3hb.jpg?ixlib=rb-4.1.0&rect=98%2C0%2C6536%2C3268&q=45&auto=format&w=1356&h=668&fit=crop",
-      "description": "As AI floods the internet with text, it could mean human voices will matter more \u2013 not less."
-    },
-    {
-      "headline": "AI On: 3 Ways Specialized AI Agents Are Reshaping Businesses",
-      "source": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzYmpxZUQwWVlDbTNLNzNEY1NsdUQ1OXhveHBOTlgyUFJxQmxpTnVVaTFJdWI2VXNHUE5scWlsdTZ2M2N1amttS3JrRjhwQjRWNEZveWpRb0dPX0NyWnhZc1d3?oc=5",
-      "pub_date": 1764003938.0,
-      "article_url": "https://blogs.nvidia.com/blog/specialized-ai-agents/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2025/11/ai-on-specialized-agents-1280x680-1.jpg",
-      "description": "Built on open-source models, today\u2019s AI agents can be tailored for unique workflows and business needs to boost productivity and return on investment."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T01:29:07.341846+00:00"
+  "fetched_at": "2025-11-25T03:05:43.444190+00:00"
 }
