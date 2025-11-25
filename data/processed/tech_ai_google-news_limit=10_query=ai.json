@@ -5,44 +5,24 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Nvidia-Google AI Chip Rivalry Escalates on Report of Meta Talks",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0FtcktKZTh1MzRmWjh2bFZxaFR5dWI4QWtTeC0yeTFjLWtxQ2k0Zy1DNVRFZkJlalY2WFBiV0pydHpFb1dFTDVHUGJMZVViVTBraDc2TFlLT1Q5cXZKQzVNQ3BQMWV3Q2VsNU9zTFB1a1FaTk9tV1U4bU1NbEV1blRQRUQ?oc=5",
-      "pub_date": 1764075557.0,
-      "article_url": "https://finance.yahoo.com/news/nvidia-shares-dip-google-appears-014603931.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/8h6yF5EElDlcmTt1_OlHXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/36dae82fb94fa44063186c1c8747020e",
-      "description": "Meta is in discussions to use the chips \u2014 known as tensor processing units, or TPUs \u2014 in data centers in 2027, according to the Information, which cited an unidentified person familiar with the talks.  Meta also may rent chips from Google\u2019s cloud division next year, the news outlet said."
+      "headline": "Nvidia name-checks Michael Burry in secret memo pushing back on AI bubble allegations",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVkhDS3o1MTRpUndSUTZDR0tpRkpxQXE4cHNiWHNyOGU5QVhEMnR1Q1Q5VUJyV3JxeGVZODI1RXRiNGZSa055aGtMWDhLRjdCNGFoWTVid25TZ3dWQVpkSEdHVlFpX3RUazhlM3lHZ3I0aHBISmtrTjFuQm5peGlmVFNhdHB5RGJ3X1ZkYUZJdGljOU1LYkV1d25OclptQdIBowFBVV95cUxQek1tNmNxRUg0bGpBM2FpUUpTazMyRUNIT3N2TUZCTmdMUmhxUzRiX1BJd3RERFVIR3RCMWJ0eVVPUWRqMURDRFN1RXZhVTBjVU9TWUhLUUhiTUlMc2RPZjNWeC1md3hzNGpiYlo4VWVGZjRkeDdESDFCbS1xS0pYUWNheVlaVm51enN3aldsbXlRaWdIbUhDeEg3YW02MlZzUkxz?oc=5",
+      "pub_date": 1764086125.0,
+      "article_url": "https://www.cnbc.com/2025/11/25/nvidia-pushes-back-on-charges-that-ai-investment-is-a-bubble.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/103218290-GettyImages-498516206.jpg?v=1764085630&w=1920&h=1080",
+      "description": "The chipmaker quietly circulated a private memo to analysts that explicitly name-checked investor Michael Burry and pushed back on many of his claims."
     },
     {
-      "headline": "I\u2019m a Professor. A.I. Has Changed My Classroom, but Not for the Worse.",
+      "headline": "Prosecutor Used Flawed A.I. to Keep a Man in Jail, His Lawyers Say",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1JDcTlTQlp3VVhmZURGLVNOR0JBVGZIVVhBZjEyWEJYQ2pySVpYdEhzdVVCZTZEVnBsMTVlM25LSGk5OUEwWmpvSUpYX2xPYXB6RHpSSHVZd1lZdHNLY0hSWTlreTI2ZG5vNjB5Rk9iZXNfTXZqN2JhSnFJSDlLenNyUElkVE1hRl9CUVBsaw?oc=5",
-      "pub_date": 1764064812.0,
-      "article_url": "https://www.nytimes.com/2025/11/25/magazine/ai-higher-education-students-teachers.html",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTElLZEUwanZERVp0MUNqenBTVTlNelZVVDgxTWxDNjNwbUhoa3ZPRnM0ZEFkM1Z1YmczaTdPcmZLZzJ4VDhMTHJoUGlUWVlNLUZOX0NSZ0EyY0pkV3VLRXduMHdzcEs3U3dPR3lsSnFQOW9NZnlJLWJmeTVJM3h6REFFdC1CTVltY05QSzRrcDNVQ3BJdHNnc29tMFJ5WV84ZE0zdHR3?oc=5",
+      "pub_date": 1764088522.0,
+      "article_url": "https://www.nytimes.com/2025/11/25/us/prosecutor-artificial-intelligence-errors-lawyers-california.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Your AI use policy is solving the wrong problem",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vdXVyVjdwX2JjbHQ5Ymdtall2WHcxeUhEOEZXT1J1OG5FTWwzc2NmRDhIY0ZHb2JPdEQtS0wxdHYteGZIR18wYTh6OXpkbkFSTW9kbkFJMTJLTHBLem42aFh2SUQ4SlJyQko2aVpYTjlvdW52Qzk3V2xqVkg?oc=5",
-      "pub_date": 1764090812.0,
-      "article_url": "https://www.fastcompany.com/91444253/ai-use-policy-solving-wrong-problem",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Anthropic's AI Safety Team Raises Alarm: AI That Designs Vaccines Could Just As Easily Be Used To Build Bioweapons",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdlQzU0U5TXlNOHltTUFhbDc3TzNYdW12WHQ5ZTYxRmJoY1BDclJEMnd0c2hrMmVxWjNpNmNzemhLRDI5X3ZmTEhaSzJobXowU3NLYzJkTWpfcjdrbUdpcEhpSFZMNEY5ZUpMUFZ1U1A3QnNRMU9BOHJDUGNFR2pHM1J3eHhVaXg1czdv?oc=5",
-      "pub_date": 1764090049.0,
-      "article_url": "https://www.yahoo.com/news/articles/anthropics-ai-safety-team-raises-170049340.html",
-      "image": "https://media.zenfs.com/en/Benzinga/1d010b323d4e2eb3906631c47e2ea314",
-      "description": "The same tools that allow artificial intelligence to help design life-saving vaccines could also be used to build bioweapons, Anthropic\u2019s head of the safety team said recently. Vaccines Or Bioweapons? Same Tech, Different Intentions \u201cWe focus on CBRN\u2014chemical, biological, radiological, nuclear,\u201d Logan Graham told CBS\u2019s \u201c60 Minutes.\u201d in an interview aired last week. \u201cAnd right now, we\u2019re at the stage of figuring out, can these models help somebody make one of those?\u201d He said Anthropic\u2019s Claude AI"
     },
     {
       "headline": "Trump signs executive order launching Genesis Mission AI project",
@@ -65,46 +45,66 @@
       "description": null
     },
     {
-      "headline": "The Genesis Mission To Harness AI For Innovation And Security",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSHdiLUJoODhGeV9aQjc0dW5PaXliSld6NmFhMXBhdFQxNGNfMXhRZUJfYXJZYlRVczV3alVFVGJWR3hqUUJ4Q1A5VGRJbjF6c3FtUVlEX0h3TFd3enFRWkNlU3dwcXg1S01vNFgtUHlXN1pWTDVEWEEwcUxweDN2eW1OY0NEajAtTmF2eDlTWUItcE96eGpVNzhVZFRwX1FrTHpYcU03bUtLaXhlTExwQWtGU0o?oc=5",
-      "pub_date": 1764085991.0,
-      "article_url": "https://www.forbes.com/sites/chuckbrooks/2025/11/25/the-genesis-mission-to-harness-ai-for-innovation-and-security/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6925cea30c9c52b9c10aac27/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "This Genesis Mission is a bold strategic move that treats science, data, and computing as essential parts of our national strength, not optional extras"
+      "headline": "U.S. Launches Apollo-Style Mission to Harness AI, Big Data for Scientific Discovery",
+      "source": "Scientific American",
+      "source_url": "https://www.scientificamerican.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzctSGFzNFVzeTZQNkRWT0RyMzFUcVR3RnhxYlRBVHMxak01N1JWR0dfdmx1c3pMblBsanJRUFhJSHBxdjBaWG5QR3BRdjh3WU1zbHBaQ2toalNUbGpNY000bG9MMV9YY0lSM0xFdVRCMlhYVHFOX3c3TTFFaGpjSnRtSXdjSk5VTEJHamJFa19FS1d1VmZqa2ZGblVjUWhzY0E?oc=5",
+      "pub_date": 1764094200.0,
+      "article_url": "https://www.scientificamerican.com/article/trump-orders-genesis-mission-to-advance-ai-breakthroughs/",
+      "image": "https://static.scientificamerican.com/dam/m/5b2cd6d284700d39/original/AI-exec-order.jpg?m=1764095340.836&w=1200",
+      "description": "A new federal initiative aims to accelerate scientific discovery by uniting artificial intelligence with large federal datasets"
+    },
+    {
+      "headline": "Google Further Encroaches on Nvidia\u2019s Turf With New AI Chip Push",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWNkaE5DQjFRZ0lZS0RIZjU2Nlp1NDEtQkR2N1JQckluRkE0OGRHU3pKN3B1eHFwNXktVzJvQlUyMU54OEpVeVRIc2xWMmhBTVFEMzNFN3FVMFppYldidi1lNVZBV2hXS080VXNZUlVBd1dtc3lXVnA3emladDhBeFFMQ3E2ZXBwRUltNmpUTDQ?oc=5",
+      "pub_date": 1764024180.0,
+      "article_url": "https://www.theinformation.com/articles/google-encroaches-nvidias-turf-new-ai-chip-push",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bain Dumps $2.3 Billion in Kioxia Stock--Just as AI Hype Starts to Crack",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ITEJoUnpTS3IxangtYVRKV3RwTTFyTUl3ZTYtZTdzb1hQYzNUQVZTOU9TRWZDaEI1NTJkWEFaODVWejlqQ0NUZVF4WWMzQ29BMGVxbDk1U0xJYlVQeFc0UDctS0tuSGNwUGF6Q0hzTjBONlBOR3pV?oc=5",
+      "pub_date": 1764093282.0,
+      "article_url": "https://finance.yahoo.com/news/bain-dumps-2-3-billion-175442412.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/JahaELneVA78q1GOAhEZ4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/us.finance.gurufocus/cbdfec544d469f13bc2b6056a3f86d8b",
+      "description": "A year after riding AI mania to a sixfold surge, Kioxia faces a harsh reality: Bain is heading for the exit."
     },
     {
       "headline": "\u2018Sovereign AI\u2019 Takes Off as Countries Seek to Avoid Overreliance on Superpowers",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPV0RRX3Y2cmhFSHc4M2RldjRZTGpjN0ZJam9ERFpZVm51RXk1UElZWGhaZW4yWDdrdlJtZjhhUGV5UnBJNkhQTU1MVm45eEhEd1M4a0ZOdkJkWGVUc1FHZ2t6TXYxUDhHS24xcTJxa2t3VzlZckpPVkE5RVdHRHZzSnN3NVdEdU5sQUN3SktFWm5ZXzVrQVN4RnBYZ2FhMEpsel9ZSjBUWGZVRWVRaTY2M1NEWjhHYTE2SDNvd1VwWEd5M25fYTRibHN3QmZBYjYwOE85ODlMYWhNRWs5d1VNbHoyQWFwc2tTZzVQOUFjUGlFUEdMSmY4VGhZOHJZcXlXRW1hcU5XdXIyZmhwSHc4VlljOWNxWFJwWUtGNkQyOEJ2Um1LdVdjLTRYMTVWQlFmOGJjNXpCdkxUTi1tQnBpYXFPckphSjV0VEhaNFVpMGhTaFdUdkxLcWFRQ2E1UVMySWlERkx0bm1aMHJYM3NQMlp0YWtrWVdqZlBOOXVQZzM3aTlrc05tbFNtTDhvU3pQakJabFYzYTVTc3dHclJNTVpBczNvbTJ0MURVOXJtYm9HQUlCalFocmxMa3Y?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQSFdLMngyRFZubWdlZDllQ2RBUURiTWJYWDZsT2dPcHVsY3BUMW1hM2I3RVBjc3JFa0h2Vl9obklTZ1NXQUFXbnJhRGQ0WXV4T1VqdDFfTmtlMTZ5bzNOQ21Oa2NJQ2RTcmpEN2J4b1NPQUtsY1JxMFhaVFZkNWJnMjVQWklhT01KSE5pVkJNeDJFbnNScmZIVDQtQlpzUDN4SjRERVp0dEdlTzhMaExrdEhTMjBYd1Q2V1Jzd0R1WlJCdjhoVERNN1RzMmw0T1dpc21FNGw5OGJfTExuZVZmeDAwZVdUY2NkZzQ1NXNCaklYRWJaTVF5OE5qNGpaakgzdGRHejRFVUlFT0lNUVc3N0tnMDZtQ2NvQ2F2QmlrdzVwWnEzTzBJOXdqVHBud0ZjSUpJRmlvWEZJNUt4cUQ2em1CNzlqWndOUk45bEdXUWlQWHV0X1gycVcxenZBeHJ0bEFPWlM4cktuMlBGZGVmMG9Fd09vbmZhQU9KVHpYZ2ZGYmdGRVhkT05kTThoMnJDa2haekxrRUlwcEcyMVoxU3Ewc1lIcDFuZVJVMlZKTFI3TU9NMnd3dGx5NHg?oc=5",
       "pub_date": 1764043200.0,
-      "article_url": "https://www.wsj.com/tech/ai/sovereign-ai-takes-off-as-countries-seek-to-avoid-overdependence-on-superpowers-6b1689f7?gaa_at=eafs&gaa_n=AWEtsqfDx0nAi6kNtkBb2G1Jb2nW1g3gD1wWh7-sWeNd6je1NzJFoZcgJkEF&gaa_ts=6925ea91&gaa_sig=EnfKUgLKZqtcSHqtkVLjnQho-Eyp59wOrSEcwDQF7-7kf_tWgWEV20LmQqTLZuN8w2_LLo-u-40IFIAqryWCmQ%3D%3D",
+      "article_url": "https://www.wsj.com/tech/ai/sovereign-ai-takes-off-as-countries-seek-to-avoid-overdependence-on-superpowers-6b1689f7?gaa_at=eafs&gaa_n=AWEtsqfciDH1vPwT40esqyuoMlB2VbcO1BZw7e9OMgQeGhY3A_9Qi1kirz_D&gaa_ts=6925fac5&gaa_sig=cjwwjZofAoBQiJ6h4graVfrg1lyHr9u4elNUr18jp_mvVlOjEOQgYmjiyiXWWF50AiJOgPx71DP4COnSsYMMsQ%3D%3D",
       "image": "https://images.wsj.net/im-60425344/social",
       "description": "South Korea and others believe their homegrown tech sectors are strong enough to build up their own AI capabilities."
     },
     {
-      "headline": "AI could replace 40% of American jobs, says report",
-      "source": "The Times",
-      "source_url": "https://www.thetimes.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeWJYN0pEeTFIMWtqWi10TDFDZWh2ZlRRYUdTcVJ6c2YxTTZZOFNsY3F0Y2Y4b1o2cVN6T1Z2dUJiRGRBSmdUcFM3Sk5wNWdjWGdBU3psUjJmMlBab1hOZEl5Yzk3WnNSNVkzd1B4OGhWTW5VTVJTZTdvMjJCUlpZNHl3em0wSVdBTWtWS205Um90TnpnbHpvYUdjUEtQS0JGN3NORmpuQ0pIUFVsczRxMy1R?oc=5",
-      "pub_date": 1764050400.0,
-      "article_url": "https://www.thetimes.com/business/economics/article/ai-could-replace-half-of-american-jobs-says-report-fbr8glxj2",
-      "image": "https://www.thetimes.com/imageserver/image/%2F2bcafed5-038a-4e13-b499-1d3aa529a3d5.jpg?crop=4000%2C2250%2C0%2C417&resize=1200",
-      "description": "McKinsey report finds that with today\u2019s technology, AI agents and robots are ready to automate about 57\u00a0per cent of work hours in the United States"
+      "headline": "AI Christian \u2018singer\u2019 Solomon Ray tops the charts, stirs ethical debate",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcnhZS0xqMll0ZlhKOWU3V0UxT0lmM19TeDY1SHl5dFVCMGRubkhCa1hld0VjUzNacHpvR1JGdWxJcEVqUTBYOUxkRWZ6OW5jSjAyV3NVclhlSEVuM18yMklOVnB5U0JDTWh5N0JCaEtsWmJxNlhEZlAzYmFfZ3FVZWI1RV9YLUtyQ2pJWWE2czNtajRFU3fSAZsBQVVfeXFMUE0tM3FwWjlhSEFYMDM5UGdEenF2R3lRQXhERXRpZkQ1T3FOZVViMHVzU0pUUko2MkhqRU9ySUMwZEkxa1RJNzJmMWlyZmxFQkFnem1tdURrU242S3QtbXVYOFlUeExBRklheDNMVlRDY010VnFXVTBuTU1YcUNpREo4UFhCeXQzX015R215WUVBdjNsNy16ZU9MZVU?oc=5",
+      "pub_date": 1764068580.0,
+      "article_url": "https://thehill.com/policy/technology/5620871-ai-christian-singer-tops-charts-stirs-debate/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Estimating AI productivity gains from Claude conversations",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13LXNtRmNxWU4tclNKZFVRWGp3c3VJQXlFVGF2bUV1elpaMlc0VklQVU5QdzRfbEp1cUtmcm1wYllCbWphUE82TTZtSW1YMWIyYld3bVVFcXcySG9qa0JuNHhRM1RPUmVmTDRzT3lvYnJ2dw?oc=5",
-      "pub_date": 1764076628.0,
-      "article_url": "https://www.anthropic.com/research/estimating-productivity-gains",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeBook&backgroundColor=olive",
-      "description": "Anthropic economic research on productivity gains"
+      "headline": "AI Slop Recipes Are Taking Over the Internet \u2014 And Thanksgiving Dinner",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdWdOQUhTYTNkUjVUenVBUlBKcHM5alJsdGg4TTdteTQxZVNac1hSaXpsMThfY0tEYlpuY3FqV2w1RHA0Mkt3SUpHX2NFekIxOWQxRmcyVVB1UkdYb29TYU5zaHB4a0M1YnhfTGlnQWhGRlh3aHdweExYWTZ0QmNqaE9taTFPLUphczc4ZExXdHNCdTgwTTdKUW93NG03UFpSSFRtTU5sRkg4NVFWam9waUwtUGFaRzJxR0dj?oc=5",
+      "pub_date": 1764083057.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-25/ai-slop-recipes-are-taking-over-the-internet-and-thanksgiving-dinner",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T17:28:11.828094+00:00"
+  "fetched_at": "2025-11-25T18:37:13.424028+00:00"
 }

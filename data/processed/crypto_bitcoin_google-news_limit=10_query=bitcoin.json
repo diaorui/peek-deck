@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin faces 3 big problems as the cryptocurrency struggles to rebound amid 30% slide from record highs",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTGNaUzJCWUo4SmZWQm5MTWE1XzlKa2NCMWpxUUcxVHhYVDd0bGdBeEg3M0pzcXlTZWpIZGFxRUNONmlkM0FCWFZfTkpGZU1aQ01EVWVpaWNLMlZpVG8zbjJRWWZWQjNXcWN5NHVsNzZ5V2VJLWVFZzVUQlZkNWlFNzVJazg2dERxMzVTbV95MWVkVklHVG5wT0dGQXVQbThIUDVNYjJyZlN6OXY1bU5MRW1NbFlYbUU2Uy1QZU5DMzZnejViTVBVcU94TWdUMlZ5RGhoRDJTUllXbkMwenJEUmNPbw?oc=5",
+      "pub_date": 1764050820.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-faces-3-big-problems-as-the-cryptocurrency-struggles-to-rebound-amid-30-slide-from-record-highs-213736236.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/j9TUOg8GIxjPxGeMD6MmjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/79dfbd80-c72c-11f0-bbfd-7afdd601f2f5",
+      "description": "Bitcoin headwinds mount as the token hovers around $86,000."
+    },
+    {
       "headline": "BlackRock's iShares bitcoin fund sees record exodus as crypto heads for worst month since 2022",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -13,16 +23,6 @@
       "article_url": "https://www.cnbc.com/2025/11/24/blackrocks-ishares-bitcoin-fund-sees-record-exodus-as-crypto-heads-for-worst-month-since-2022.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108182561-1754505738635-gettyimages-2225439721-img_8850.jpeg?v=1764026732&w=1920&h=1080",
       "description": "Blackrock's spot bitcoin ETF has so far seen $2.2 billion worth of outflows in November as its underlying crypto continues to crater."
-    },
-    {
-      "headline": "Bitcoin Price (BTC) News: $40B in ETF Volume Signals Institutional Capitulation",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZjl4R3p6YjlOYlhRUjBqM2JkcmRVNV80U0J4dG5ucVNQX05JRjFGbEV6UWdKSlVrclpHbXltRXoweWJMWWt3Q3Q4R2tsUHcxZVZIZExrUnVhVlR2UXg4TVpGWDR5TDBpeHhTdTV1MkJsRmNJb0NWZmc2UXdWWXF6WEQ1Y2twalZEampmZ09NMmlMSDFqTThmTDh1bGtwZXFNTEVEck1sUHpUbkQzSXB3T0o5SWZPVGRUb3lHUFljYk81MzM0LWJDSmRJdG12dG1RSlVhZE5ESQ?oc=5",
-      "pub_date": 1763962357.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/24/bitcoin-etfs-led-by-blackrock-s-ibit-see-record-usd40b-trading-volume-as-institutions-capitulate",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3417765811c38a57181abae66a079871b878e500-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The U.S.-listed spot bitcoin ETFs saw a record $40 billion in trading volume last week, with IBIT leading the way."
     },
     {
       "headline": "Bitcoin Funds Set for Worst Month as Investors Yank $3.5 Billion",
@@ -35,24 +35,24 @@
       "description": "Exchange-traded funds investing in Bitcoin are heading for their worst month of outflows since launching nearly two years ago, piling yet more pressure on a jaded crypto market."
     },
     {
-      "headline": "Bitcoin faces 3 big problems as the cryptocurrency struggles to rebound amid 30% slide from record highs",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTGNaUzJCWUo4SmZWQm5MTWE1XzlKa2NCMWpxUUcxVHhYVDd0bGdBeEg3M0pzcXlTZWpIZGFxRUNONmlkM0FCWFZfTkpGZU1aQ01EVWVpaWNLMlZpVG8zbjJRWWZWQjNXcWN5NHVsNzZ5V2VJLWVFZzVUQlZkNWlFNzVJazg2dERxMzVTbV95MWVkVklHVG5wT0dGQXVQbThIUDVNYjJyZlN6OXY1bU5MRW1NbFlYbUU2Uy1QZU5DMzZnejViTVBVcU94TWdUMlZ5RGhoRDJTUllXbkMwenJEUmNPbw?oc=5",
-      "pub_date": 1764050820.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-faces-3-big-problems-as-the-cryptocurrency-struggles-to-rebound-amid-30-slide-from-record-highs-213736236.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/j9TUOg8GIxjPxGeMD6MmjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/79dfbd80-c72c-11f0-bbfd-7afdd601f2f5",
-      "description": "Bitcoin headwinds mount as the token hovers around $86,000."
+      "headline": "Bitcoin Price (BTC) News: $40B in ETF Volume Signals Institutional Capitulation",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZjl4R3p6YjlOYlhRUjBqM2JkcmRVNV80U0J4dG5ucVNQX05JRjFGbEV6UWdKSlVrclpHbXltRXoweWJMWWt3Q3Q4R2tsUHcxZVZIZExrUnVhVlR2UXg4TVpGWDR5TDBpeHhTdTV1MkJsRmNJb0NWZmc2UXdWWXF6WEQ1Y2twalZEampmZ09NMmlMSDFqTThmTDh1bGtwZXFNTEVEck1sUHpUbkQzSXB3T0o5SWZPVGRUb3lHUFljYk81MzM0LWJDSmRJdG12dG1RSlVhZE5ESQ?oc=5",
+      "pub_date": 1763962357.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/24/bitcoin-etfs-led-by-blackrock-s-ibit-see-record-usd40b-trading-volume-as-institutions-capitulate",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3417765811c38a57181abae66a079871b878e500-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The U.S.-listed spot bitcoin ETFs saw a record $40 billion in trading volume last week, with IBIT leading the way."
     },
     {
-      "headline": "Strategy Silent on Bitcoin Holdings. Why It\u2019s a Big Deal for the Stock and Cryptos.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPaGtHSW9RbFJiamQ4Q09Wa1gzMC15aWF0TmN5NkhFUTNqUnVGNEs3TGUtN0QtM2VwcDJPZ0JTRXBoVW4tT01lWlJUaXg0VFRLZ3U0THViU29CcXdkbE1tdEJHRjAteXp5WGstNHMxemtGVTRRQVdIWmZEUGhiZFR1RlA1d0ZJYzVsb21SUUdtWDJMTG5RZ3JHbFo2eHM1MWh0OFd5OXNLMkF3aWFCb1liSFp5elpwWnlKSnhrLUZaMWpsbk51UkM5NVF3N0pZMTRrN3E3OWFiel9yWk5INlJKNVB0RmZ0QVNXcUVCUXNEQndlY2kySmNXbS1Zc09DcjNzRjVDRmVob3VWbDV1NEt3Z255Qnd3TVlQYWF1bTRvUE5UX2dKWmVJbWh0aGtiN0ltY3VPblVsWC1lOU1aZ2F4dXIyblNSNU9HcFFYcXhfTEMxbEozX2c1TUZNVVVTRlpaNTBKNkNaYVZXeVp5QkdOekwtMENsUENTdDBvWXFNNnB6WExhWW85TGd1bUJRNzc1dERhcA?oc=5",
-      "pub_date": 1764003120.0,
-      "article_url": "https://www.barrons.com/articles/strategy-stock-bitcoin-cryptos-microstrategy-176e8def?gaa_at=eafs&gaa_n=AWEtsqcjq3n__rV3phDDcmX4-sAqY3UM3xP6aZa7wJcBUg_6VgD6KO5Y2b97&gaa_ts=6925ea93&gaa_sig=xSURUt658WsD0v78bqu3pIG_t6os72jAt5Ml4jeqTFaVFbuImq8iDqZ_AprxU_DKHEieCcSTqxq6DnQyYO_smA%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "Michael Saylor's MSTR Appears to Have Broken Six-Week BTC Buy Streak",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFRfYVRBRUZJWnVVQ3gyeVY5X0ZwYy1kaTlESnRkNzlzdV8xWVFDZm95bVBXcl9HRHk5ZzdLejNWT29jUzF6SjBoLWNxUWpBeXRabkdSQkt3b3lIWjZJQlVpa1BFVTRqaUJhYWxSZFd5QUYwazJyRW1UbzQyT2toVjNDc0h5TUhXV3c4QUdTMFBoSGhFUU0yTXpqRzdtYk1CRUVn?oc=5",
+      "pub_date": 1763990874.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/24/strategy-apparently-paused-bitcoin-accumulation-last-week",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d66c28dbeddf1c6982599b72d1bc711e00f296ed-1079x1079.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The company's stock valuation sits near cycle lows as index exclusion chatter grows."
     },
     {
       "headline": "Will Bitcoin\u2019s Dive Threaten Michael Saylor\u2019s Strategy?",
@@ -65,12 +65,12 @@
       "description": "When your entire corporate game plan and the investor base you\u2019ve cultivated revolves around the rising price of bitcoin, a 35% tumble in a month is cause for alarm."
     },
     {
-      "headline": "Strategy's bitcoin premium heading toward 'crypto winter' lows, TD Cowen says",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOenBRSVItXzhMTUw3dnZESE9FdDhwQ2ZBT0g3YU5nM3g1Zk9ONnEzWlRidXIzVktvWEpoN1BsdTBORG9XeEtxSHJuRzR2Z3NTbU5ZaHdmN285QXFkMTk4Q1NlYUJPX3VMTjI1UXZJdkJUT1NpRjc3U0hReHRxSjAtQTB3UWMxMzA0cExKeHNFRVZjQdIBlwFBVV95cUxNTWYzTkY5WlpyOE9nQThITGR4UzU4X19oN2JIZml6Yzd1WUJyOGlwbmUxenhyX2pucXp2cXFPQmxGWkRXRjdTd2ZsS0lISWlDVTczSVU0RUJlaHF4OHlVZGFVUWdWOTEyYTJzQ0hFcThmV0h0SzVMT2NjejF2TzgybWdJRDA2SmVXZVl6dHN3c3Z5ckxLNXRV?oc=5",
-      "pub_date": 1764019447.0,
-      "article_url": "https://www.theblock.co/post/380249/strategy-bitcoin-premium-crypto-winter-lows-td-cowen",
+      "headline": "Strategy Silent on Bitcoin Holdings. Why the Stock Is Rising Anyway.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxPWUg1Y3cySzJIaGlRWDFPTTFYRGZKSzFqMTlMTFZ1RU1aZ0FDYzlJQ3BpU1h3M3FyRS1YWHVSNFJOMlVjNjM2WmZsTHh2TU1OdV9tY2xkWDRPUzYwVjVPWk5uU1JLamc1SkI3bFdxejVVTHhCX0trakVoQ1MySmF4aWZZTkc0dU53dElzMThIYnBvNEU0TEUyTEtHMG1Zb0hIZXQwTUFkMWxjQ0dNOXdnU2toME02aGwyMkpCNkVVYWM3ellZUXFlVXhYNldIVWNxUmRwTXNHZk5nUlhvbmFqWDV3WTVsbjAzUUlKUzM0VXNhLV9aUnhPUWlBcHpfV3RZVHRhRVhYaHNDa04xRGMyZlRfbjNHMjNValNNOUNNLXZWSlNnTnVNelBLdnc0Q3ZDTF9rRWNyc1hkNkhyak9HdkxyckU2NzhFQjVtbm56RUw5V3F1MXVOMzB0NDhTOTNFVXZiaElieVJOTU1aeTZfTVhDUk1jTzRoTEFQcGxja3RGb2xjWjFxQXFaWHZBSFRSMDEzeDNSUzlBTzR2VHc?oc=5",
+      "pub_date": 1764019020.0,
+      "article_url": "https://www.barrons.com/articles/mstr-stock-price-strategy-bitcoin-buy-microstrategy-176e8def?gaa_at=eafs&gaa_n=AWEtsqfMIzrkQn2YjMYZbGXTqyRJD9dVW0loYQk5fTHBkHm5jPf33NaY1ugB&gaa_ts=6925fac6&gaa_sig=-pZRNEPTSY0pW0-uFOPQvgCApTo_YsoRjXAoUtiLd2rNFDN9QjNViXGCWVEowEXZzdtJpJem8F-CBff40k2aJg%3D%3D",
       "image": null,
       "description": null
     },
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T17:28:03.640663+00:00"
+  "fetched_at": "2025-11-25T18:37:09.404588+00:00"
 }

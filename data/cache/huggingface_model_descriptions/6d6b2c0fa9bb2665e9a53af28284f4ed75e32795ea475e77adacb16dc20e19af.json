@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-11-25T18:37:18.136271+00:00",
+  "data": "HunyuanOCR is a lightweight 1B parameter VLM for complex multilingual document parsing, excelling in text spotting, information extraction, video subtitle extraction, and photo translation.",
+  "model_id": "tencent/HunyuanOCR"
+}
