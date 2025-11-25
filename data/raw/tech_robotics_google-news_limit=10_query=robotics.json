@@ -85,16 +85,6 @@
       "description": "A former engineer for Figure AI filed a lawsuit against the company, claiming he was unlawfully terminated after warning executives about product safety."
     },
     {
-      "headline": "The Droids Taking Over One of England\u2019s Strangest Towns",
-      "source": "New York Magazine",
-      "source_url": "https://nymag.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdlJwNG9KVGNpVVhjdmZuRHoyZTJqMmdUZVQzTWJTWFVNbFFkaS1wTmpTSU02TmZiTlUxR0ktczExUU5oWWZ6a09idy1IRk11b2R1RjRXTDRRcndmN3BHcUhlZU9DaENBckExUHlHekY4UGRpQ0RtVjZRNV9BaHo1OXNxZmxDVDA?oc=5",
-      "pub_date": 1763978409.0,
-      "article_url": "https://nymag.com/intelligencer/article/robots-taking-over-milton-keynes-uk.html",
-      "image": "https://pyxis.nymag.com/v1/imgs/9fb/deb/53f2fc3fc717a322a29f93cdf626698c75-Milton-Keynes-lede.1x.rsocial.w1200.jpg",
-      "description": "Want a glimpse of our robot-filled future? Just go to Milton Keynes."
-    },
-    {
       "headline": "Walt Disney Imagineering Brings \u2018Frozen\u2019 Olaf Robotic Character to Life",
       "source": "The Walt Disney Company",
       "source_url": "https://thewaltdisneycompany.com",
@@ -103,8 +93,18 @@
       "article_url": "https://thewaltdisneycompany.com/olaf-robotic-character/",
       "image": "https://thewaltdisneycompany.com/app/uploads/2025/11/SB200703-ModifierPressRes.jpg",
       "description": "On Monday, Walt Disney Imagineering (WDI) released the latest episode of its hit series, \u201cWe Call It Imagineering,\u201d taking audiences inside the global Research \u2026Read More"
+    },
+    {
+      "headline": "The Droids Taking Over One of England\u2019s Strangest Towns",
+      "source": "New York Magazine",
+      "source_url": "https://nymag.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdlJwNG9KVGNpVVhjdmZuRHoyZTJqMmdUZVQzTWJTWFVNbFFkaS1wTmpTSU02TmZiTlUxR0ktczExUU5oWWZ6a09idy1IRk11b2R1RjRXTDRRcndmN3BHcUhlZU9DaENBckExUHlHekY4UGRpQ0RtVjZRNV9BaHo1OXNxZmxDVDA?oc=5",
+      "pub_date": 1763978409.0,
+      "article_url": "https://nymag.com/intelligencer/article/robots-taking-over-milton-keynes-uk.html",
+      "image": "https://pyxis.nymag.com/v1/imgs/9fb/deb/53f2fc3fc717a322a29f93cdf626698c75-Milton-Keynes-lede.1x.rsocial.w1200.jpg",
+      "description": "Want a glimpse of our robot-filled future? Just go to Milton Keynes."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T10:45:59.953071+00:00"
+  "fetched_at": "2025-11-25T11:25:29.394084+00:00"
 }

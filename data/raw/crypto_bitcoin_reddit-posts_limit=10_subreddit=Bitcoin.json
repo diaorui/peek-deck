@@ -13,17 +13,6 @@
       "description": null
     },
     {
-      "title": "Always the same thing with BTC",
-      "author": "DardMiner1982",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p5weld/always_the_same_thing_with_btc/",
-      "published": 1764025956.0,
-      "thumbnail": "https://preview.redd.it/64r9jfeuea3g1.jpeg?width=640&crop=smart&auto=webp&s=3af86de1df05d9e0f582a455c39476c2e84dc1c3",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Crypto thieves waterboarded, sexually assaulted family in $1.6M heist",
       "author": "DangerPager69",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p5ujsc/crypto_thieves_waterboarded_sexually_assaulted/",
@@ -101,6 +90,17 @@
       "description": null
     },
     {
+      "title": "Always the same thing with BTC",
+      "author": "DardMiner1982",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p5weld/always_the_same_thing_with_btc/",
+      "published": 1764025956.0,
+      "thumbnail": "https://preview.redd.it/64r9jfeuea3g1.jpeg?width=640&crop=smart&auto=webp&s=3af86de1df05d9e0f582a455c39476c2e84dc1c3",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "WE\u2019RE IN BUSINESS!",
       "author": "sentientchimpman",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p5sfk9/were_in_business/",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-25T10:45:43.356230+00:00"
+  "fetched_at": "2025-11-25T11:25:13.000945+00:00"
 }
