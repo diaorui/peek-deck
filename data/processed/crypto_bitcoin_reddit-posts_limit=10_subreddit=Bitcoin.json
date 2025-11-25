@@ -24,6 +24,17 @@
       "description": null
     },
     {
+      "title": "What is going on with JP Morgan and crypto?",
+      "author": "ZombieSnack81",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p6ducf/what_is_going_on_with_jp_morgan_and_crypto/",
+      "published": 1764080932.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I keep seeing news on JP Morgan shorting MSTR and I don't quite understand it, or even if it's real. I'm also seeing reports JP Morgan is debanking clients, which appears to be real. Can someone explain what JP Morgan is up to? Are they trying to corner the crypto market or destabilize it more?"
+    },
+    {
       "title": "Do you believe your eyes?",
       "author": "Moist_Bass_5823",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p6d44o/do_you_believe_your_eyes/",
@@ -44,17 +55,6 @@
       "site_name": "New York Post",
       "favicon": "https://nypost.com/wp-content/themes/nypost/static/images/apple-icons/nypost/apple-icon.png",
       "description": "Thieves robbed British Columbia couple of $1.6 million worth of Bitcoin after a 13-hour ordeal during which they sexually assaulted and tortured them."
-    },
-    {
-      "title": "What is going on with JP Morgan and crypto?",
-      "author": "ZombieSnack81",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p6ducf/what_is_going_on_with_jp_morgan_and_crypto/",
-      "published": 1764080932.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I keep seeing news on JP Morgan shorting MSTR and I don't quite understand it, or even if it's real. I'm also seeing reports JP Morgan is debanking clients, which appears to be real. Can someone explain what JP Morgan is up to? Are they trying to corner the crypto market or destabilize it more?"
     },
     {
       "title": "50% for what?",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-25T15:31:59.345655+00:00"
+  "fetched_at": "2025-11-25T16:39:24.194761+00:00"
 }

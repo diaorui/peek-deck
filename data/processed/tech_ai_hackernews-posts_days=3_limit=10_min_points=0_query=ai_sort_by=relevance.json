@@ -9,7 +9,7 @@
       "url": "https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html",
       "hn_url": "https://news.ycombinator.com/item?id=46027833",
       "author": "bookofjoe",
-      "points": 488,
+      "points": 494,
       "num_comments": 598,
       "created_at": "2025-11-23T22:06:44Z",
       "object_id": "46027833",
@@ -33,6 +33,20 @@
       "site_name": null
     },
     {
+      "title": "Implications of AI to schools",
+      "url": "https://twitter.com/karpathy/status/1993010584175141038",
+      "hn_url": "https://news.ycombinator.com/item?id=46036878",
+      "author": "bilsbie",
+      "points": 301,
+      "num_comments": 335,
+      "created_at": "2025-11-24T17:51:02Z",
+      "object_id": "46036878",
+      "image": null,
+      "description": null,
+      "favicon": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+      "site_name": "X (formerly Twitter)"
+    },
+    {
       "title": "Terence Tao: At the Erdos problem website, AI assistance now becoming routine",
       "url": "https://mathstodon.xyz/@tao/115591487350860999",
       "hn_url": "https://news.ycombinator.com/item?id=46017972",
@@ -45,20 +59,6 @@
       "description": "Over at the Erdos problem website, AI assistance is now becoming routine.  Here is what happened recently regarding Erdos problem #367 https://www.erdosproblems.com/367 :\n\n1.  On Nov 20, Wouter van Doorn produced a (human-generated) disproof of the second part of this problem, contingent on a congruence identity that he thought was true, and was \"sure someoneone here is able to verify... does indeed hold\".\n\n2.  A few hours later, I posed this problem to Gemini Deepthink, which (after about ten minutes) produced a complete proof of the identity (and confirmed the entire argument): https://gemini.google.com/share/81a65aecfd70 .  The argument used some p-adic algebraic number theory which was overkill for this problem.  I then spent about half an hour converting the proof by hand into a more elementary proof, which I presented on the site.  I then remarked that the resulting proof should be within range of \"vibe formalizing\" in Lean.\n\n3.  Two days later, Boris Alexeev used the Aristotle tool from Harmonic to complete the Lean formalization, making sure to formalize the final statement by hand to guard against AI exploits.  This process took two to three hours, and the output can be found at https://borisalexeev.com/t/Erdos367.lean\n\nEDIT: after making this post, I decided to round things out by making AI literature searches on this problem, which (after about fifteen minutes) turned up some related literature on consecutive powerful numbers, but nothing directly relating to #367.  https://chatgpt.com/share/6921427d-9dc0-800e-b798-be8fc94a9240 https://gemini.google.com/share/0d296454bea0",
       "favicon": "https://mathstodon.xyz/packs/assets/apple-touch-icon-57x57-BsPGHSez.png",
       "site_name": "Mathstodon"
-    },
-    {
-      "title": "Implications of AI to schools",
-      "url": "https://twitter.com/karpathy/status/1993010584175141038",
-      "hn_url": "https://news.ycombinator.com/item?id=46036878",
-      "author": "bilsbie",
-      "points": 287,
-      "num_comments": 321,
-      "created_at": "2025-11-24T17:51:02Z",
-      "object_id": "46036878",
-      "image": null,
-      "description": null,
-      "favicon": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
-      "site_name": "X (formerly Twitter)"
     },
     {
       "title": "73% of AI startups are just prompt engineering",
@@ -79,8 +79,8 @@
       "url": "https://github.com/ocaml/ocaml/pull/14369",
       "hn_url": "https://news.ycombinator.com/item?id=46039274",
       "author": "theresistor",
-      "points": 222,
-      "num_comments": 99,
+      "points": 234,
+      "num_comments": 106,
       "created_at": "2025-11-24T21:03:22Z",
       "object_id": "46039274",
       "image": "https://opengraph.githubassets.com/f9a348201f077266a2109b8803c1e9517a12068a8a133f050a8278edb857918b/ocaml/ocaml/pull/14369",
@@ -145,7 +145,7 @@
       "site_name": "vibescaffold.dev"
     }
   ],
-  "total_hits": 438,
+  "total_hits": 454,
   "has_metadata": true,
-  "fetched_at": "2025-11-25T15:31:57.537634+00:00"
+  "fetched_at": "2025-11-25T16:39:22.829267+00:00"
 }

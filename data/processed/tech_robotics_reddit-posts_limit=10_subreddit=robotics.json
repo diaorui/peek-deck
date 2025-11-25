@@ -24,6 +24,17 @@
       "description": "From Dimensional OS: https://x.com/dimensionalos"
     },
     {
+      "title": "Rugged prototype to streamlined prototype",
+      "author": "NecessaryConstant535",
+      "url": "https://www.reddit.com/r/robotics/comments/1p6fnr0/rugged_prototype_to_streamlined_prototype/",
+      "published": 1764085207.0,
+      "thumbnail": "https://external-preview.redd.it/MTZvaHRyMmhhZjNnMZHPe-3rKAt6As-3JMcJ-YctuA4zQls2sakXcUJKLRFG.png?width=640&crop=smart&auto=webp&s=db5d93a065c3b64a724b56b98e341e087ad10b92",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Built a drone and a proprietary lowering mechanism. Ashamed to say how much time it took and theres still a lot of work left. Its fully autonomous tho, everything is contained within the drone, it doesn't need any communication link nor human operator"
+    },
+    {
       "title": "After 2 years, I'm open-sourcing the Rebelia Hand: From DIY files to a pre-assembled robot hand",
       "author": "venetrom",
       "url": "https://www.reddit.com/r/robotics/comments/1p69rij/after_2_years_im_opensourcing_the_rebelia_hand/",
@@ -46,15 +57,15 @@
       "description": "MotorWatt: DeepWay Company: https://ev.motorwatt.com/ev-manufacturers/deepway From Nic Cruz Patane on \ud835\udd4f: https://x.com/niccruzpatane/status/1992796505284161782"
     },
     {
-      "title": "How Can Robotics Teams Leverage the Egocentric-10K Dataset Effectively?",
-      "author": "Full_Piano_3448",
-      "url": "https://www.reddit.com/r/robotics/comments/1p66tua/how_can_robotics_teams_leverage_the_egocentric10k/",
-      "published": 1764057731.0,
-      "thumbnail": "https://preview.redd.it/pm1x4ek51d3g1.png?width=640&crop=smart&auto=webp&s=30202534c8b137251b010ab71c9012e233e685d6",
+      "title": "Building a sub-$200, highly functional 3D-printed SCARA robotic arm",
+      "author": "Yoni_bravo",
+      "url": "https://www.reddit.com/r/robotics/comments/1p6gqan/building_a_sub200_highly_functional_3dprinted/",
+      "published": 1764087577.0,
+      "thumbnail": "https://b.thumbs.redditmedia.com/YqcovefKQK_arp7VMPLBrrIEGlUx1QyRQpMZTDlyXnc.jpg",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "I\u2019ve been working on a SCARA robotic arm design that I\u2019m trying to keep under ~$200. It\u2019s entirely 3D-printed + off-the-shelf components, but I\u2019m aiming for features you usually only see on far more expensive arms. My goal is to build an accessible platform that\u2019s actually useful \u2014 not just a toy \u2014 and can serve as a solid base for anyone interested in getting into robotics in a meaningful way Planned features: PRRR SCARA configuration - simple kinematics, high stiffness for the weight High-accuracy motion using NEMA17 steppers + TMC2209 drivers Automatic tool-changer with magnetic pogo-pin connector Z-compensation module for tool contact detection + vision-assisted picking ESP32-based controller (FYSETC E4) running FluidNC firmware. Integrated top-view camera Comprehensive Web UI + full-feature control pendant ~0.3 m reach, target ~0.5 kg payload The idea is to push how far low-cost hardware + smart design can go. I think my industrial automation background and maker soul puts me in a good position to go for this thing. This is still early, but I\u2019d love feedback from anyone who has built robotic arms or worked with SCARA kinematics. If there are obvious pitfalls or design considerations I should watch out for \u2014 I\u2019m all ears. For more details please check my hackaday.io page - https://hackaday.io/project/204557-pr3-scara"
     },
     {
       "title": "Can someone help me with my code",
@@ -66,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I'm kinda new to this I don't know why this code doesn't work can someone help define right A2 define center A1 define left A0 define ENA 11 define IN1 10 define IN2 9 define ENB 6 define IN3 8 define IN4 7 int Speed = 150; void setup() { Serial.begin(9600); pinMode(right, INPUT); pinMode(center, INPUT); pinMode(left, INPUT); pinMode(ENA, OUTPUT); pinMode(IN1, OUTPUT); pinMode(IN2, OUTPUT); pinMode(ENB, OUTPUT); pinMode(IN3, OUTPUT); pinMode(IN4, OUTPUT); } void loop() { carChangeState(); } void carChangeState(){ bool leftS = digitalRead(left); bool centerS = digitalRead(center); bool rightS = digitalRead(right); int speedA = 0; int speedB = 0; if (centerS == 0) { speedA = Speed; speedB = Speed; } if (leftS == 1) { speedA = 0; } if (rightS == 1) { speedB = 0; } analogWrite(ENA, speedA); digitalWrite(IN1, HIGH); digitalWrite(IN2, LOW); analogWrite(ENB, speedB); digitalWrite(IN3, LOW); digitalWrite(IN4, HIGH); Serial.print(\"L: \"); Serial.print(leftS); Serial.print(\" | C: \"); Serial.print(centerS); Serial.print(\" | R: \"); Serial.print(rightS); Serial.print(\" | Speed A: \"); Serial.print(speedA); Serial.print(\" | Speed B: \"); Serial.println(speedB); }"
+    },
+    {
+      "title": "How Can Robotics Teams Leverage the Egocentric-10K Dataset Effectively?",
+      "author": "Full_Piano_3448",
+      "url": "https://www.reddit.com/r/robotics/comments/1p66tua/how_can_robotics_teams_leverage_the_egocentric10k/",
+      "published": 1764057731.0,
+      "thumbnail": "https://preview.redd.it/pm1x4ek51d3g1.png?width=640&crop=smart&auto=webp&s=30202534c8b137251b010ab71c9012e233e685d6",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Need help connecting my HukyLens2 to an arduino",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Trying to get some ideas to make a demonstration of its potential capabilities.. Or even just your thoughts on it's design! Thanks :) https://www.youtube.com/watch?v=qawYP6E3znw"
-    },
-    {
-      "title": "Line follower problem",
-      "author": "orpen_origin",
-      "url": "https://www.reddit.com/r/robotics/comments/1p5u8cu/line_follower_problem/",
-      "published": 1764020808.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Okay so i have a big problem. I am making a line follower robot for a competition wich is tomorrow and today everything stopped working. I was testing it yesterday and everything was fine but today i plugged my batteries in and nothing works. The wierd thing is that when i plug the USB cable into my PC suddenly everything starts working like normal. Please someone help. Update: today i woke up, plugged it in, ran for like 2 seconds before the same issue occured. So i dont know if this is a problem but the minus cable from the batteries(black cable) only reacts with the second motor and the plus cable(red cable) only works with the first motor. The competition starts in half an hour i am doomed"
-    },
-    {
-      "title": "MagicLab Z, a bipedal humanoid shows his agility",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1p4lg88/magiclab_z_a_bipedal_humanoid_shows_his_agility/",
-      "published": 1763900621.0,
-      "thumbnail": "https://external-preview.redd.it/czd4bHU5d3kwMDNnMblU5K_C_dAkX7Cdnie-bEA-6uVVUIN14c1W8w-oCHlT.png?width=640&crop=smart&auto=webp&s=6e0a66ef212462fa183644c24bcda242c9f3cb14",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "MagicLab website: https://www.magiclab.top/en From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1991895323246219551"
     }
   ],
-  "fetched_at": "2025-11-25T15:32:02.313784+00:00"
+  "fetched_at": "2025-11-25T16:39:26.837237+00:00"
 }

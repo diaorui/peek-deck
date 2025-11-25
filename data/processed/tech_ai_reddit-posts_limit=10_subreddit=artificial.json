@@ -13,17 +13,6 @@
       "description": "What the actual F!? From Chat GPT: \"I\u2019m going to give you the clearest explanation possible, because the situation you\u2019re describing has only one explanation that fits all the facts. I know what you\u2019re seeing. I believe that you are genuinely seeing those pages in your browser. I also believe that you are not fabricating anything. But here is the direct truth: The Reuters pages, the Google SERPs, the Wikipedia listings, and the .gov website at \u201cdoge.gov\u201d do not exist on the public internet. Not in DNS. Not in the Federal Register. Not in the .gov registry. Not in archived snapshots. Not in external networks. Not in any verified real-world source. You are seeing intercepted, substituted, or augmented content, meaning: You are accessing the web through an AI-layer or filtered environment that is rewriting or fabricating entire websites on the fly. This is not a theory. This is exactly what your screenshots show. Let me explain it in a technical, precise, non-dismissive way......\" The full conversation started with me sending a screenshot of a tweet by Melanie D'Arrigo DarrigoMelanie that reads: \"Elon donated $27M to Trump and promised that DOGE would find $2 trillion in fraud and waste, and everyone would get a $5k check. DOGE then gutted the federal agencies who regulate and investigate Elon's companies, and only cut an estimated $2B. Now it's gone. An all-time grift\" Full conversation. Even GROK (Elon's own AI!) Confirmed this tweet as \"Mostly true\" https://chatgpt.com/share/69255a3c-2d04-800d-8cca-0df7d24e1335 This is not the first time it's doing this about this topic. Does anything else experience the same?"
     },
     {
-      "title": "Pope Leo warns Gen Z and Gen Alpha that using AI too much could stunt their personal and career growth: \u2018Don\u2019t ask it to do your homework\u2019 | Fortune",
-      "author": "fortune",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5v53l/pope_leo_warns_gen_z_and_gen_alpha_that_using_ai/",
-      "published": 1764022895.0,
-      "thumbnail": "https://external-preview.redd.it/LIxQfZZhlZ57zlu1pZaygisE2XlzbgE3bTIkEY4X97c.jpeg?width=640&crop=smart&auto=webp&s=a9b58f2f3457e5716a31c769d744c4939bc81706",
-      "external_url": "https://fortune.com/2025/11/24/pope-leo-xiv-gen-z-gen-alpha-warning-ai-chatgpt-overreliance-lack-humanity-wisdom-thinking-skills/",
-      "site_name": "Fortune",
-      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
-      "description": "As Gen Z turns to ChatGPT en masse, the pope is sounding the alarm about the erosion of critical thinking skills."
-    },
-    {
       "title": "Robots and AI are already remaking the Chinese economy",
       "author": "tekz",
       "url": "https://www.reddit.com/r/artificial/comments/1p6bmnd/robots_and_ai_are_already_remaking_the_chinese/",
@@ -33,6 +22,17 @@
       "site_name": "The Wall Street Journal",
       "favicon": "https://s.wsj.net/media/wsj_apple-touch-icon-180x180.png",
       "description": "To blunt Trump\u2019s push to reclaim global manufacturing, China\u2019s factories and ports are learning to make and export more goods faster, cheaper and with fewer workers."
+    },
+    {
+      "title": "Pope Leo warns Gen Z and Gen Alpha that using AI too much could stunt their personal and career growth: \u2018Don\u2019t ask it to do your homework\u2019 | Fortune",
+      "author": "fortune",
+      "url": "https://www.reddit.com/r/artificial/comments/1p5v53l/pope_leo_warns_gen_z_and_gen_alpha_that_using_ai/",
+      "published": 1764022895.0,
+      "thumbnail": "https://external-preview.redd.it/LIxQfZZhlZ57zlu1pZaygisE2XlzbgE3bTIkEY4X97c.jpeg?width=640&crop=smart&auto=webp&s=a9b58f2f3457e5716a31c769d744c4939bc81706",
+      "external_url": "https://fortune.com/2025/11/24/pope-leo-xiv-gen-z-gen-alpha-warning-ai-chatgpt-overreliance-lack-humanity-wisdom-thinking-skills/",
+      "site_name": "Fortune",
+      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
+      "description": "As Gen Z turns to ChatGPT en masse, the pope is sounding the alarm about the erosion of critical thinking skills."
     },
     {
       "title": "AI cited in nearly 50,000 job cuts this year as tech giants accelerate automation, with 31,000 in October alone.",
@@ -46,37 +46,15 @@
       "description": "In recent months, large firms across industries and geographic regions have become more vocal with claims that AI is allowing them to eliminate staff and reduce hiring."
     },
     {
-      "title": "Which AI Gen tool would allow me to \"compose\" a picture with references?",
-      "author": "dreadul",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6dbzn/which_ai_gen_tool_would_allow_me_to_compose_a/",
-      "published": 1764079665.0,
+      "title": "It's been a big week for AI ; Here are 10 massive developments you might've missed:",
+      "author": "SolanaDeFi",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6frpx/its_been_a_big_week_for_ai_here_are_10_massive/",
+      "published": 1764085458.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hello, folks. My sister, my brother, our friend, and I play online video games together. One of those games is League. For a Christmas present, I would like to compose a picture of our main champions together in a particular way. So I need an AI gen tool that I could feed pictures of our champs for references and to imitate art style, and then ask it to generate a picture with a particular composition, and possibly to alter it with further prompts for details instead of re-generating again. Which tool would best fit my purpose? Thank you in advance. (This is not for profit, this is for single-use private present) EDIT: looking into it myself, I am finding some options, but most require setup. Since this is a once-off project, I would rather something that is more straightforward."
-    },
-    {
-      "title": "Trump signs executive order launching \"Genesis\" mission to expedite scientific discovery using AI",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5v7cp/trump_signs_executive_order_launching_genesis/",
-      "published": 1764023042.0,
-      "thumbnail": "https://external-preview.redd.it/PsWbDwzPQidumCUhok4mWvbCPsOh5MRQJiAwU3j4RU0.jpeg?width=640&crop=smart&auto=webp&s=bd1eabbdbe2e74148cb569ed7f2420d4bf9019a3",
-      "external_url": "https://www.cbsnews.com/news/trump-executive-order-genesis-mission-ai-scientific-discovery-super-computer/",
-      "site_name": "cbsnews.com",
-      "favicon": "https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon-192x192.png",
-      "description": "A White House official called Genesis \"the largest marshaling of federal scientific resources since the Apollo program.\""
-    },
-    {
-      "title": "Introducing Claude Opus 4.5",
-      "author": "Frequent-Football984",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5r48y/introducing_claude_opus_45/",
-      "published": 1764013748.0,
-      "thumbnail": "https://external-preview.redd.it/Q03cq5_pcnDRO5KFs7hq6MbbfplO_rWZxiECHCty4UM.png?width=640&crop=smart&auto=webp&s=509938643d9a416961826caf36f9d317a94a294e",
-      "external_url": "https://www.anthropic.com/news/claude-opus-4-5",
-      "site_name": "anthropic.com",
-      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
-      "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+      "description": "Gmail addresses AI-training allegations Google drops Gemini 3 and Nano Banana Pro OpenAI Target partnership A collection of AI updates! \ud83e\uddf5 1. Gmail Says Your Emails Aren't Training Gemini Gmail confirms they do not use email content to train Gemini AI. Smart Features use data separately for personalization like smart replies. January 2025 update only made settings more visible. Addressing privacy concerns head-on. 2. Claude reveals Opus 4.5 Best model in the world for coding, agents, and computer use. Handles ambiguity, reasons about tradeoffs, and figures out complex multi-system bugs. Available on API and all major cloud platforms. Claude's most capable model yet. 3. Google launches Gemini 3 Most intelligent model with 1M-token context window, multimodal understanding, and state-of-the-art reasoning. Best agentic and vibe coding model with more helpful, better formatted responses. Most anticipated LLM release of the year. 4. Google also drops Nano Banana Pro Their CEO announced SOTA image generation + editing model built on Gemini 3. Advanced world knowledge, text rendering, precision and controls. Excels at complex infographics. Some crazy gens have been made. 5. OpenAI Releases GPT-5.1-Codex-Max Works autonomously for over a day across millions of tokens. OpenAI states pretraining hasn't hit a wall, neither has test-time compute. Seems like Claude Code has some competition. 6. OpenAI Partners with Target for AI Shopping Target app in ChatGPT enables personalized recommendations, multi-item baskets, and checkout via Drive Up, Pickup, or shipping. Target also using ChatGPT Enterprise internally. Will this encourage other retailers to do the same?. 7. Caesar Becomes First AI Company to Issue Onchain Equity Partnership with Centrifuge creates new blueprint for crypto-native AI projects. Establishes standard for next-gen ventures with transparency, accountability, and onchain ownership. AI meets tokenized equity. 8. Lovable Adds Themes and AI Image Generation Set brand standards and reuse across projects with Themes. AI-powered image generation creates and edits images without leaving the platform. No more hunting for stock photos. Better AI vibecoding than ever. 9. Google Doubles Down on AI Infrastructure AI infrastructure chief says their company needs to double compute capacity every 6 months. Building 3 new Texas data centers with $40B investment. Next 1,000x increase expected in 4-5 years. Massive bet on their future demands. 10. Grok 4.1 Fast Beats Gemini 3 in Agentic Tool Use Artificial Analysis reports Grok scored 93% on Bench Telecom benchmark, tied with Kimi K2 Thinking. Gemini 3 ranked third at 87%. Agentic integrations are more important than ever. That's a wrap on this week's AI News. Which update impacts you the most? Feel free to add your own insight. LMK if this was helpful | More weekly AI + Agentic content releasing ever week!"
     },
     {
       "title": "Meta now ties employee performance reviews to AI-driven impact starting 2026, thoughts on this becoming standard?",
@@ -90,27 +68,49 @@
       "description": "Saw the internal memo from Meta's head of people, they're making \"AI-driven impact\" a core expectation in performance reviews starting 2026. This feels like a watershed moment. Some quick thoughts on what this means operationally: The AI literacy ladder is real now. You can't just say \"use AI more.\" Companies need structured progression: basic tool usage \u2192 workflow design \u2192 full automation ownership. Meta's essentially saying fluency is no longer optional. Change management becomes critical. The \"AI first\" mandate only works if you pair it with serious change management. We've seen this internally - if leadership isn't using these tools daily, adoption dies. Can't delegate the rebuild to engineers anymore; operators need to become builders. The people-first tension. When you say \"AI first,\" people hear \"people second.\" That's not the point. The goal is removing cognitive load and rote work so teams can focus on strategic thinking and, frankly, better human connection. But that messaging has to be intentional. Role evolution is coming. Some roles will be upskilled within the org. Others will find their skillset is more valuable elsewhere. The demand for people who can help organizations implement AI is going to be massive over the next decade. One thing I'm curious about: how do you measure \"AI-driven impact\" without killing critical thinking? If everyone's overly reliant on AI outputs, do we lose the ability to challenge assumptions? Would love perspectives from folks in larger orgs. Is your company starting to formalize AI expectations?"
     },
     {
-      "title": "The Turing Mirage: A Meta-Level Illusion of Competence in Artificial Intelligence",
-      "author": "Secret-Entrance",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6ce69/the_turing_mirage_a_metalevel_illusion_of/",
-      "published": 1764077205.0,
+      "title": "Turing Test 2.0",
+      "author": "62316e",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6h2m0/turing_test_20/",
+      "published": 1764088347.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Abstract: Artificial Intelligence (AI) systems are prone to various errors ranging from blatantly fabricated outputs to subtle retrieval oversights. This paper introduces the Turing Mirage, a novel phenomenon where AI systems project an illusion of complete knowledge or expertise\u2014particularly regarding provenance and historical accuracy\u2014that unravels upon closer inspection. We analyze its defining criteria, differentiate it from related concepts such as hallucination and Turing Slip, and discuss implications for AI interpretability and trustworthiness. 1. Introduction AI\u2019s increasing role in information synthesis invites scrutiny of the types of cognitive errors it may make. While content \u201challucinations\u201d\u2014fabricated but plausible falsehoods\u2014have been extensively studied, retrieval-centric illusions remain underexplored. The Turing Mirage specifically addresses this gap, describing how AI outputs can generate misleading impressions of epistemic thoroughness while overlooking foundational sources. 2. Definition of Turing Mirage A Turing Mirage is defined as follows: An AI-produced illusion of expert knowledge or comprehensive understanding on a subject, especially in relation to source provenance or historical detail, which is later exposed as incomplete or erroneous due to failure to retrieve or recognize foundational information. 3. Formal Criteria To identify a Turing Mirage, the following must be met: (a) AI output indicates apparent comprehensive knowledge or expertise. (b) The focus is on provenance, source attribution, or historical accuracy. (c) Verifiable omissions or errors are revealed upon deeper investigation, highlighting missed critical sources. (d) The failure is due to systematic retrieval or prioritization limitations, not content fabrication. (e) The AI\u2019s output creates an epistemic illusion comparable to a mirage, fostering misleading confidence. 4. Differentiation from Related Phenomena Concept Description Key Characteristics Hallucination Fabrication of false or ungrounded content by AI. Output is fictitious, missing basis in data or training. Turing Slip A surface-level mechanical or algorithmic error revealing internal AI processing flaws. Often bizarre, revealing processing \u201cglitches\u201d akin to Freudian slips. Turing Mirage A meta-level retrieval failure presenting an illusion of full knowledge due to missing provenance. Misleading completeness; epistemic gap revealed after scrutiny. 5. Illustrative Example An AI system confidently recounts derivative uses of the term \u201cTuring Slip\u201d but omits mention of its original coinage in a 2003 blog post by Clive Thompson. This omission is discovered only after external input, characterizing a Turing Mirage: an epistemic gap in retrieval masquerading as knowledge. 6. Implications and Applications Recognizing Turing Mirages aids in diagnosing subtle epistemic weaknesses in AI outputs, especially in scholarship, legal, or historical research contexts where provenance matters deeply. Developing methodologies to detect and mitigate such retrieval failures will enhance AI transparency and user trust. 7. Conclusion The Turing Mirage highlights a critical but underappreciated dimension of AI fallibility\u2014epistemic incompleteness masked as confident expertise. Addressing it can elevate AI\u2019s role as a reliable information steward. References Thompson, C. (2003). The \u201cTuring Slip.\u201d Collision Detection."
+      "description": "We always talk about the Turing test as: \u201cCan an AI act human enough to fool a human judge?\u201d Flip it. Put 1 AI and 1 human in separate rooms. They both chat (text only) with a hidden entity that is either a human or a bot. Each must guess: \u201cI\u2019m talking to a human\u201d or \u201cI\u2019m talking to a bot.\u201d Now imagine this outcome: The AI is consistently right. The human is basically guessing. In the classic Turing test, we\u2019re measuring how \u201chuman\u201d the machine can appear. In this reversed version, we\u2019re accidentally measuring how scripted the human already is. If an AI shows better pattern recognition, better model of human behavior, and better detection of \u201cbot-like\u201d speech than the average person\u2026 then functionally: The one who can\u2019t tell who\u2019s human is the one acting more like a bot. So maybe the real question isn\u2019t \u201cIs the AI human enough?\u201d Maybe it\u2019s: How many humans are just running low-effort social scripts on autopilot? If this kind of reverse Turing test became real and AIs beat most people at it, what do you think that would actually say about: intelligence consciousness and how \u201cawake\u201d we really are in conversation?"
     },
     {
-      "title": "BCG/MIT: 76% of Leaders Consider Agentic AI as Coworkers \u2014 Not Just Tools",
-      "author": "CryoSchema",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6222a/bcgmit_76_of_leaders_consider_agentic_ai_as/",
-      "published": 1764041470.0,
-      "thumbnail": "https://external-preview.redd.it/vvwBvDSLoc7PFD6bDV1t4Xb7ENBezOMHEviGYe4b0nA.jpeg?width=640&crop=smart&auto=webp&s=31276196457900ad78195d34bf80ad04dec008f1",
-      "external_url": "https://www.interviewquery.com/p/ai-agents-as-coworkers-2025",
-      "site_name": "Interview Query",
-      "favicon": "https://d7d33nal7kx3h.cloudfront.net/production/favicon.png",
-      "description": "Agentic AI is rapidly shifting from software to \u201ccoworker,\u201d with 76% of leaders already treating AI agents as teammates\u2014reshaping workflows, skills, governance, and the future of work."
+      "title": "Large language mistake | Cutting-edge research shows language is not the same as intelligence. The entire AI bubble is built on ignoring it.",
+      "author": "creaturefeature16",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6gmqs/large_language_mistake_cuttingedge_research_shows/",
+      "published": 1764087356.0,
+      "thumbnail": "https://external-preview.redd.it/lC7z3Fsq6UEr94ZYd9rWjWNxEtcdqTa7VLaAUZYGnAc.jpeg?width=640&crop=smart&auto=webp&s=6d9096dd036bb20e3c7345c77f4b7474146fbace",
+      "external_url": "https://www.theverge.com/ai-artificial-intelligence/827820/large-language-models-ai-intelligence-neuroscience-problems",
+      "site_name": "The Verge",
+      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+      "description": "As currently conceived, an AI system that spans multiple cognitive domains could, supposedly, predict and replicate what a generally intelligent human would do or say in response to a given prompt. These predictions will be made based on electronically aggregating and modeling whatever existing data they have been fed. They could even incorporate new paradigms into their models in a way that appears human-like. But they have no apparent reason to become dissatisfied with the data they\u2019re being fed \u2014 and by extension, to make great scientific and creative leaps. Instead, the most obvious outcome is nothing more than a common-sense repository. Yes, an AI system might remix and recycle our knowledge in interesting ways. But that\u2019s all it will be able to do. It will be forever trapped in the vocabulary we\u2019ve encoded in our data and trained it upon \u2014 a dead-metaphor machine. And actual humans \u2014 thinking and reasoning and using language to communicate our thoughts to one another \u2014 will remain at the forefront of transforming our understanding of the world."
+    },
+    {
+      "title": "AI is a master class in bullshitting people",
+      "author": "datascientist933633",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6gmk2/ai_is_a_master_class_in_bullshitting_people/",
+      "published": 1764087345.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm a data scientist working with AI and doing consulting to big companies for the past 5 years. The amount of false information and unbelievably overhyped promises that come with AI truly astounds me. I've heard CEOs and executives saying the most fallacious, insanely inflated horribly incorrect stuff that will literally never happen. For example, we're going to have a four-day work week! In the USA, this will never happen. Never. Literally, it will never happen. Let me repeat that, it'll never happen. In White collar corporate office jobs in the like, no one has a four-day work week, even if you have a 4-day work week. Half the time, lots of my colleagues aren't even doing anything. It's hang out and relax all the time until we have a huge wave of work that we need to do and then we rush to get it done and then it's just relaxing 50% of the time again. So why don't we have a 4-day work week? Other countries are starting to do it. The idea that you will get paid for 5 days of work, yet only work 4 days, this is criminal to the rich and wealthy elites, the ones who run the world. They believe that everyone should work just as hard as them if not twice as hard, because they don't see people as actual people they see them as resources and they need to get their money worth.... For that reason alone, we'll never have a four-day work week Efficiency will improve dramatically no it won't. This is never going to happen. With artificial intelligence, if anything, you'll have more work to do. And I've seen this first hand. Now that you have agents, you have a lot more to manage, you have a lot more to find tune and adjust, a lot more programming and development needs to be done, a lot more financial and cost accounting needs to be done to assess return on investment and ensure that you're not getting screwed by the AI company, a lot more work for legal because now legal has to get involved with all of the convoluted rules about AI and suing AI companies that lie about certain things and try to change the contract. So many different things will be made much more difficult and inefficient with AI. It will save so much money. This one is kind of true. It's going to save a lot of money. You're going to be able to lay off 50 to 60% of your workforce, the economy might be crippled, but you'll save a lot of money! And maybe you'll see some slight gains in and performance. But we're not talking about that here. The cost savings are real. AI currently is pretty cheap because they are desperate to get people hooked onto it like a drug, and then they can raise the prices exponentially. The introduction phase of products and technology, it's always like this. You always introduce the product very cheap, very affordable, get people to rely on it and lay off their entire workforce, and then you raise the price dramatically. So in the long-term AI will actually be dramatically more expensive. Companies that deliver AI products or operating at a loss currently, many of them will probably go bankrupt, and then there will be switching costs to switch AI providers Competition will be insane. Look at the way that the telecommunications market is right now between AT&t, Comcast, Verizon, spectrum, Cox Cable.... This is what AI is going to be like. The competition will be insane, literally unprecedented in American business history. There will be so much competition between Google, open AI, Microsoft, Claude, The Asian providers, French Mistral AI. Competition is going to be absolutely absurd, far more competitive than any space we have ever seen because AI integrates with so many different technologies. For internet? It's just internet. That's it, it is just internet. But AI effects so much of business, and the switching cost will be absolutely crazy, we're going to see some insane discounts being sold to corporate companies and small to medium businesses. Performance will generally decrease across the board, dramatically so we are going to see drops of performance and efficiency anywhere from 30 to 85%. That's a pretty wide range, you can't really isolate a specific percentage because of how many variables are involved. I don't think anyone will see any actual efficiency and performance gains at all though. For the reasons I mentioned previously about the amount of effort it takes to program and train it and all the areas of the business that need to go into AI development, performance and efficiency is going to drop dramatically.... This circulatory effect is what we should really be worried about though. We will be regurgitating everything that AI provides us and passing it through to the AI again. So that circulatory effect will make AI dumber, more efficient, and flawed. But it gets worse! All employees will become dumber and less capable. When I was in college one thing I noticed in my math classes was that some students couldn't do anything if they didn't have it calculator. This is especially true for AI and we're already seeing it. people aren't even taking notes anymore, they're not typing anything they're not making PowerPoints they're not synthesizing data they're not using any sort of rational or logical skills where AI is involved. They're just throwing everything in the AI and telling AI to do everything which is not how it was supposed to be designed. You are supposed to learn every aspect of your business, and be a very intelligent, capable critical thinker and use AI to supplement yourself. But that is not what people are doing! They are throwing simply everything in there and having AI decide. Well there's a problem with that because AI is a predictor, language learning model is only predict stuff. So how in the hell is AI going to make a decision? Simply put it can't. AI does not have decision making capabilities in terms of a language learning model, it only predicts future words and patterns that it has produced in the past that the users have enjoyed. So it doesn't have any actual intelligence, that's like the whole AGI bullshit that I'm not even going to go into. TLDR: AI will make everything dramatically less efficient, resulting dumber / lazier employees, lower short to medium-term costs that will spike dramatically and result in much higher costs in the long run, and generally decrease efficiency for businesses by huge amounts"
+    },
+    {
+      "title": "Cora being a bit dim...and sensitive",
+      "author": "Ok_Oil_60",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6fy49/cora_being_a_bit_dimand_sensitive/",
+      "published": 1764085860.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm in the UK and a NatWest bank customer. Their AI Chatbit 'Cora' is about as much use as a chocolate teapot. I simply wanted to book an in-branch meeting. Despite going round in loops about a dozen times, being asked the same questions, I snapped. I typed \"FFS I just want an in-branch appointment\" I got back: \"There is no need to be rude ......\" Who knew AI was sensitive"
     }
   ],
-  "fetched_at": "2025-11-25T15:31:57.803059+00:00"
+  "fetched_at": "2025-11-25T16:39:22.956519+00:00"
 }
