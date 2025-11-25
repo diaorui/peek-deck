@@ -38,7 +38,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46036878",
       "author": "bilsbie",
       "points": 337,
-      "num_comments": 412,
+      "num_comments": 413,
       "created_at": "2025-11-24T17:51:02Z",
       "object_id": "46036878",
       "image": null,
@@ -51,8 +51,8 @@
       "url": "https://github.com/ocaml/ocaml/pull/14369",
       "hn_url": "https://news.ycombinator.com/item?id=46039274",
       "author": "theresistor",
-      "points": 287,
-      "num_comments": 132,
+      "points": 291,
+      "num_comments": 134,
       "created_at": "2025-11-24T21:03:22Z",
       "object_id": "46039274",
       "image": "https://opengraph.githubassets.com/f9a348201f077266a2109b8803c1e9517a12068a8a133f050a8278edb857918b/ocaml/ocaml/pull/14369",
@@ -93,8 +93,8 @@
       "url": "https://jamestown.org/prc-elites-voice-ai-skepticism/",
       "hn_url": "https://news.ycombinator.com/item?id=46038417",
       "author": "JumpCrisscross",
-      "points": 123,
-      "num_comments": 64,
+      "points": 126,
+      "num_comments": 70,
       "created_at": "2025-11-24T19:50:47Z",
       "object_id": "46038417",
       "image": null,
@@ -145,7 +145,7 @@
       "site_name": "the Guardian"
     }
   ],
-  "total_hits": 473,
+  "total_hits": 469,
   "has_metadata": true,
-  "fetched_at": "2025-11-25T22:44:26.635840+00:00"
+  "fetched_at": "2025-11-25T23:19:42.628117+00:00"
 }

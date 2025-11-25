@@ -30,7 +30,7 @@
       "description": "A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language",
       "url": "https://github.com/liujuntao123/smart-excalidraw-next",
       "preview_image": "https://opengraph.githubassets.com/7dc6e7a2aa2e5f6261deb6fd2aab56f3f00fe2d57ae1127a3e15ec0557210a06/liujuntao123/smart-excalidraw-next",
-      "stars": 1997,
+      "stars": 1998,
       "stars_display": "2.0k",
       "forks": 250,
       "forks_display": "250",
@@ -50,7 +50,7 @@
       "description": "Gausian - Rust-based local video editor for AI video production",
       "url": "https://github.com/gausian-AI/Gausian_native_editor",
       "preview_image": "https://opengraph.githubassets.com/00b325081b4d8d90054b919e75ae8b0f8bb82d16befdd2579a46d96946d5088c/gausian-AI/Gausian_native_editor",
-      "stars": 1214,
+      "stars": 1215,
       "stars_display": "1.2k",
       "forks": 17,
       "forks_display": "17",
@@ -72,7 +72,7 @@
       "forks_display": "26",
       "language": "Go",
       "topics": [],
-      "updated_at": "2025-11-25T21:36:38Z"
+      "updated_at": "2025-11-25T23:11:38Z"
     },
     {
       "full_name": "f/git-rewrite-commits",
@@ -82,10 +82,10 @@
       "description": "AI-powered git commit message rewriter using Ollama or GPT",
       "url": "https://github.com/f/git-rewrite-commits",
       "preview_image": "https://opengraph.githubassets.com/c6b09847c72773387ee5104f29860f48c86cb236c664f2498a9824bd0f2f1b88/f/git-rewrite-commits",
-      "stars": 842,
-      "stars_display": "842",
-      "forks": 34,
-      "forks_display": "34",
+      "stars": 844,
+      "stars_display": "844",
+      "forks": 35,
+      "forks_display": "35",
       "language": "TypeScript",
       "topics": [
         "git",
@@ -117,8 +117,8 @@
       "description": "\ud83d\udc68\u200d\ud83c\udfeb ChatTutor: Visual and Interactive AI Tutor",
       "url": "https://github.com/HugeCatLab/ChatTutor",
       "preview_image": "https://opengraph.githubassets.com/e9157eb46672c03098222d401312ad77657411f4732f5747fb498b7aa7385f79/HugeCatLab/ChatTutor",
-      "stars": 727,
-      "stars_display": "727",
+      "stars": 728,
+      "stars_display": "728",
       "forks": 89,
       "forks_display": "89",
       "language": "TypeScript",
@@ -155,8 +155,8 @@
       "description": "EverMemOS is an open-source, enterprise-grade intelligent memory system. Our mission is to build AI memory that never forgets, making every conversation built on previous understanding.",
       "url": "https://github.com/EverMind-AI/EverMemOS",
       "preview_image": "https://opengraph.githubassets.com/fea5bac69284b6fc84ca2d9ce9d7c3999b01d406d1a1ee24250c634becff8d81/EverMind-AI/EverMemOS",
-      "stars": 706,
-      "stars_display": "706",
+      "stars": 709,
+      "stars_display": "709",
       "forks": 70,
       "forks_display": "70",
       "language": "Python",
@@ -184,6 +184,6 @@
   "search_query": "ai created:>2025-10-26",
   "days": 30,
   "limit": 10,
-  "total_count": 218526,
-  "fetched_at": "2025-11-25T21:57:38.207875+00:00"
+  "total_count": 218935,
+  "fetched_at": "2025-11-25T23:19:42.830889+00:00"
 }

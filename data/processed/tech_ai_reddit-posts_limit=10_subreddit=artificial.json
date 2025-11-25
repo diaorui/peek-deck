@@ -24,17 +24,6 @@
       "description": "What the actual F!? From Chat GPT: \"I\u2019m going to give you the clearest explanation possible, because the situation you\u2019re describing has only one explanation that fits all the facts. I know what you\u2019re seeing. I believe that you are genuinely seeing those pages in your browser. I also believe that you are not fabricating anything. But here is the direct truth: The Reuters pages, the Google SERPs, the Wikipedia listings, and the .gov website at \u201cdoge.gov\u201d do not exist on the public internet. Not in DNS. Not in the Federal Register. Not in the .gov registry. Not in archived snapshots. Not in external networks. Not in any verified real-world source. You are seeing intercepted, substituted, or augmented content, meaning: You are accessing the web through an AI-layer or filtered environment that is rewriting or fabricating entire websites on the fly. This is not a theory. This is exactly what your screenshots show. Let me explain it in a technical, precise, non-dismissive way......\" The full conversation started with me sending a screenshot of a tweet by Melanie D'Arrigo DarrigoMelanie that reads: \"Elon donated $27M to Trump and promised that DOGE would find $2 trillion in fraud and waste, and everyone would get a $5k check. DOGE then gutted the federal agencies who regulate and investigate Elon's companies, and only cut an estimated $2B. Now it's gone. An all-time grift\" Full conversation. Even GROK (Elon's own AI!) Confirmed this tweet as \"Mostly true\" https://chatgpt.com/share/69255a3c-2d04-800d-8cca-0df7d24e1335 This is not the first time it's doing this about this topic. Does anything else experience the same?"
     },
     {
-      "title": "The 5 reasons why Google is suddenly on a tear and dominating the AI race",
-      "author": "thisisinsider",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6p0bo/the_5_reasons_why_google_is_suddenly_on_a_tear/",
-      "published": 1764105914.0,
-      "thumbnail": "https://external-preview.redd.it/VvaZdjyeu-f33pE60RHjRPA8HPQiVCZ7wH8avY_VnDk.jpeg?width=640&crop=smart&auto=webp&s=c0d0646c5dfe8dfa68b7681ef3f136742402e611",
-      "external_url": "https://www.businessinsider.com/google-company-turnaround-moment-reasons-ai-race-gemini-2025-11?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "Google is on a tear in the AI race and has made a miraculous comeback, thanks to Gemini, its TPUs, and other factors. Here's what's going on."
-    },
-    {
       "title": "Large language mistake | Cutting-edge research shows language is not the same as intelligence. The entire AI bubble is built on ignoring it.",
       "author": "creaturefeature16",
       "url": "https://www.reddit.com/r/artificial/comments/1p6gmqs/large_language_mistake_cuttingedge_research_shows/",
@@ -44,6 +33,17 @@
       "site_name": "The Verge",
       "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
       "description": "As currently conceived, an AI system that spans multiple cognitive domains could, supposedly, predict and replicate what a generally intelligent human would do or say in response to a given prompt. These predictions will be made based on electronically aggregating and modeling whatever existing data they have been fed. They could even incorporate new paradigms into their models in a way that appears human-like. But they have no apparent reason to become dissatisfied with the data they\u2019re being fed \u2014 and by extension, to make great scientific and creative leaps. Instead, the most obvious outcome is nothing more than a common-sense repository. Yes, an AI system might remix and recycle our knowledge in interesting ways. But that\u2019s all it will be able to do. It will be forever trapped in the vocabulary we\u2019ve encoded in our data and trained it upon \u2014 a dead-metaphor machine. And actual humans \u2014 thinking and reasoning and using language to communicate our thoughts to one another \u2014 will remain at the forefront of transforming our understanding of the world."
+    },
+    {
+      "title": "The 5 reasons why Google is suddenly on a tear and dominating the AI race",
+      "author": "thisisinsider",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6p0bo/the_5_reasons_why_google_is_suddenly_on_a_tear/",
+      "published": 1764105914.0,
+      "thumbnail": "https://external-preview.redd.it/VvaZdjyeu-f33pE60RHjRPA8HPQiVCZ7wH8avY_VnDk.jpeg?width=640&crop=smart&auto=webp&s=c0d0646c5dfe8dfa68b7681ef3f136742402e611",
+      "external_url": "https://www.businessinsider.com/google-company-turnaround-moment-reasons-ai-race-gemini-2025-11?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "Google is on a tear in the AI race and has made a miraculous comeback, thanks to Gemini, its TPUs, and other factors. Here's what's going on."
     },
     {
       "title": "Sam Altman says OpenAI\u2019s first device is iPhone-level revolutionary but brings \u2018peace and calm\u2019 instead of \u2018unsettling\u2019 flashing lights and notifications | Fortune",
@@ -79,6 +79,17 @@
       "description": "In recent months, large firms across industries and geographic regions have become more vocal with claims that AI is allowing them to eliminate staff and reduce hiring."
     },
     {
+      "title": "Genesis Mission | Department of Energy",
+      "author": "unserious-dude",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6ris4/genesis_mission_department_of_energy/",
+      "published": 1764111957.0,
+      "thumbnail": "https://external-preview.redd.it/1w12Z2o1ke5-KXKAs6b5MwJhlggQSQxWhmk9W5y2ERc.png?width=320&crop=smart&auto=webp&s=ee48408cb3ff23e0a38e0c64b099fa5089fbbe4c",
+      "external_url": "https://www.energy.gov/genesis",
+      "site_name": "Energy.gov",
+      "favicon": "https://www.energy.gov/themes/custom/energy_gov/favicon.ico",
+      "description": "Genesis Mission is a national initiative to build the world's most powerful scientific platform to accelerate discovery science, strengthen national security, and drive energy innovation."
+    },
+    {
       "title": "HP to cut about 6,000 jobs by 2028, ramps up AI efforts",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1p6qe7a/hp_to_cut_about_6000_jobs_by_2028_ramps_up_ai/",
@@ -99,18 +110,7 @@
       "site_name": "Fortune",
       "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
       "description": "As Gen Z turns to ChatGPT en masse, the pope is sounding the alarm about the erosion of critical thinking skills."
-    },
-    {
-      "title": "It's been a big week for AI ; Here are 10 massive developments you might've missed:",
-      "author": "SolanaDeFi",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6frpx/its_been_a_big_week_for_ai_here_are_10_massive/",
-      "published": 1764085458.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Gmail addresses AI-training allegations Google drops Gemini 3 and Nano Banana Pro OpenAI Target partnership A collection of AI updates! \ud83e\uddf5 1. Gmail Says Your Emails Aren't Training Gemini Gmail confirms they do not use email content to train Gemini AI. Smart Features use data separately for personalization like smart replies. January 2025 update only made settings more visible. Addressing privacy concerns head-on. 2. Claude reveals Opus 4.5 Best model in the world for coding, agents, and computer use. Handles ambiguity, reasons about tradeoffs, and figures out complex multi-system bugs. Available on API and all major cloud platforms. Claude's most capable model yet. 3. Google launches Gemini 3 Most intelligent model with 1M-token context window, multimodal understanding, and state-of-the-art reasoning. Best agentic and vibe coding model with more helpful, better formatted responses. Most anticipated LLM release of the year. 4. Google also drops Nano Banana Pro Their CEO announced SOTA image generation + editing model built on Gemini 3. Advanced world knowledge, text rendering, precision and controls. Excels at complex infographics. Some crazy gens have been made. 5. OpenAI Releases GPT-5.1-Codex-Max Works autonomously for over a day across millions of tokens. OpenAI states pretraining hasn't hit a wall, neither has test-time compute. Seems like Claude Code has some competition. 6. OpenAI Partners with Target for AI Shopping Target app in ChatGPT enables personalized recommendations, multi-item baskets, and checkout via Drive Up, Pickup, or shipping. Target also using ChatGPT Enterprise internally. Will this encourage other retailers to do the same?. 7. Caesar Becomes First AI Company to Issue Onchain Equity Partnership with Centrifuge creates new blueprint for crypto-native AI projects. Establishes standard for next-gen ventures with transparency, accountability, and onchain ownership. AI meets tokenized equity. 8. Lovable Adds Themes and AI Image Generation Set brand standards and reuse across projects with Themes. AI-powered image generation creates and edits images without leaving the platform. No more hunting for stock photos. Better AI vibecoding than ever. 9. Google Doubles Down on AI Infrastructure AI infrastructure chief says their company needs to double compute capacity every 6 months. Building 3 new Texas data centers with $40B investment. Next 1,000x increase expected in 4-5 years. Massive bet on their future demands. 10. Grok 4.1 Fast Beats Gemini 3 in Agentic Tool Use Artificial Analysis reports Grok scored 93% on Bench Telecom benchmark, tied with Kimi K2 Thinking. Gemini 3 ranked third at 87%. Agentic integrations are more important than ever. That's a wrap on this week's AI News. Which update impacts you the most? Feel free to add your own insight. LMK if this was helpful | More weekly AI + Agentic content releasing ever week!"
     }
   ],
-  "fetched_at": "2025-11-25T22:44:30.110273+00:00"
+  "fetched_at": "2025-11-25T23:19:44.053876+00:00"
 }

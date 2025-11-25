@@ -45,24 +45,34 @@
       "description": "The lower Bitcoin tumbles, the less it looks like \"digital gold.\""
     },
     {
-      "headline": "The $1.7B Bitcoin Bet on Rally Above $100K, But Not Reaching New Record Highs",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWEVCaXVBYzdiMlVrOXVwOTc5anNLLWk5R3g5bjMxZFpYcU94aWhIbjFObENYMF96MTBUY016clFHRkNfWmEwTU9oVWtZbThheTNiZDBkaWdYQTRzNXIyU1A1ZjNYeEZHZnowU1VZYTV3X0RKbmZiVFVDbkhVUm9XSjhXMjZGTE9LdU5BRGZMbXVEZ0c5TkhLdzE5b1o2T2RDMFFTd09GYld0ZEZEamx3UXhnRGtCQ1ZKSkNVeFYwVEM2dw?oc=5",
-      "pub_date": 1764051199.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/25/the-usd1-7b-bitcoin-bet-on-rally-above-usd100k-but-not-reaching-new-record-highs",
-      "image": null,
-      "description": null
+      "headline": "Monad Rises After Airdrop While Bitcoin and Ethereum Droop",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldVg3emZSby1qdmZydUk4RE1RM3B2NGx0M3ZELTI4N0hMTmNmeGdrNzFqU0Roc2VoZzgzM05IaE9Da3lPVG8yV0dwSFNYUER5eEFrenFHblltamNqeXlLcEpGZFg0aHNWTEpHMU9IQU0wLUJnR0RhTFh1T21fbUnSAYcBQVVfeXFMTzVOa3hYanU5bTliVHBpYjYwNy10dHhnTjloTF85b2lvMmJZTm9sWXVMM3hiUmVIeGpvN25IaklyQnlWdndWYURYV0NHeVBCVDlDUWJxS3hrN0gtdWszakdYVkpDa3BwRFpRWk5taTZQdWtybU81bEZpS1E3NVAzMUdnekM1Tklv?oc=5",
+      "pub_date": 1764107946.0,
+      "article_url": "https://decrypt.co/350029/monad-rises-after-airdrop-bitcoin-ethereum-droop",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Chart4_green-gID_7.png",
+      "description": "The price of Monad\u2019s native cryptocurrency rose on Tuesday, following an anticipated airdrop that initially underwhelmed some speculators."
     },
     {
-      "headline": "Bitcoin Traders See Signs of Selloff Easing as Token Steadies",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWnYzdTdwd3JkaUxrM3FXRkVxRzJwWWRwZjlQR0ZZLW1Od3AtXzBXUEVneGJuQllscE53ajdBMkMyeURBeEw1VExFczI2elkwa1VmUWttcXM0Qm51VE1CQmdNQmhSTWtYcWVIZkdFQjVudUFmdzR1TEMxcnJkY2VQME9sQ1AyZEdLTi1UZXJvejNMaHBkVVBtWlhpanNpZXB5ay00ekRfZExwbmFqeUxKTzJzTVluUjQ?oc=5",
-      "pub_date": 1764092664.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-25/bitcoin-btc-traders-see-signs-of-selloff-easing-as-token-steadies",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRFKj8ldzpIE/v0/1200x800.jpg",
-      "description": "The intense selling pressure that has weighed on Bitcoin in recent weeks looks to be easing, raising hopes that the token\u2019s brutal slide is nearing an end."
+      "headline": "Is Jack Dorsey the Mysterious Satoshi Nakamoto? The Debate Rages On",
+      "source": "Investopedia",
+      "source_url": "https://www.investopedia.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcU8wdEdrakZGb205cWYyaFdodTZmS1N2aTE3Y0pjTk1raEhZcDhJWnRjMXBuYklpY3gxMExlUDZCUi1Nakx3YjZ3R20tYWxJT1RFT29DSmxHVUdnM3laYXZ1SnFYdEx4Q2ctcW9vOVJvRFB6eVkwc3dScjE2UUNnYU1oMDNvMGl4ZDV0ZlVna3ZvUVRFSWo4bEtKQUVMSDlxcTY4QkhMZkl1TndHUTFCaVBZMjZpWjMwazlPNnZ0V1Y?oc=5",
+      "pub_date": 1764106619.0,
+      "article_url": "https://www.investopedia.com/is-jack-dorsey-the-mysterious-satoshi-nakamoto-the-debate-rages-on-bitcoin-btc-crypto-11856934",
+      "image": "https://www.investopedia.com/thmb/l-1YMSAtsfyJMOe2OFag9SLJya8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1236804471-93247eab19b447f78106ee5abb6db98a.jpg",
+      "description": "A Seaport Research analyst recently revived an old theory that Block CEO Dorsey is the anonymous creator behind Bitcoin."
+    },
+    {
+      "headline": "Texas Becomes First U.S. State to Buy $5M of BlackRock\u2019s Spot Bitcoin ETF",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12cUFIYTl6QWpOVkNtUGd6Z2JucEtwdmZoTUs3OWt6a0k2ZFNzRjBDNnJYdnppT3o5NHhXSGhEOXhNek1ncDI5S2Nmc0xjMmNqcDkxbzJNUm1RaURJZHdpd05sYUNaYjkyS2ZUY2hWeUhQS3pI?oc=5",
+      "pub_date": 1764101561.0,
+      "article_url": "https://bitcoinmagazine.com/news/texas-buys-5m-of-spot-bitcoin-etf",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/11/Texas-Becomes-First-U.S.-State-to-Buy-10M-of-BlackRocks-Spot-Bitcoin-ETF.jpg",
+      "description": "The President of the Texas Blockchain Council said that Texas recently bought $5 million in Bitcoin ETFs on November 20."
     },
     {
       "headline": "Texas Becomes the First State to Buy Bitcoin \u2014 What Happens Next?",
@@ -75,36 +85,26 @@
       "description": "Texas becomes the first state to buy Bitcoin for its treasury, signaling a bold shift in government adoption."
     },
     {
-      "headline": "Monad Rises After Airdrop While Bitcoin and Ethereum Droop",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldVg3emZSby1qdmZydUk4RE1RM3B2NGx0M3ZELTI4N0hMTmNmeGdrNzFqU0Roc2VoZzgzM05IaE9Da3lPVG8yV0dwSFNYUER5eEFrenFHblltamNqeXlLcEpGZFg0aHNWTEpHMU9IQU0wLUJnR0RhTFh1T21fbUnSAYcBQVVfeXFMTzVOa3hYanU5bTliVHBpYjYwNy10dHhnTjloTF85b2lvMmJZTm9sWXVMM3hiUmVIeGpvN25IaklyQnlWdndWYURYV0NHeVBCVDlDUWJxS3hrN0gtdWszakdYVkpDa3BwRFpRWk5taTZQdWtybU81bEZpS1E3NVAzMUdnekM1Tklv?oc=5",
-      "pub_date": 1764107946.0,
-      "article_url": "https://decrypt.co/350029/monad-rises-after-airdrop-bitcoin-ethereum-droop",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Chart4_green-gID_7.png",
-      "description": "The price of Monad\u2019s native cryptocurrency rose on Tuesday, following an anticipated airdrop that initially underwhelmed some speculators."
+      "headline": "Texas Makes Historic $10M Bitcoin Treasury Purchase",
+      "source": "Bitbo",
+      "source_url": "https://bitbo.io",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4Z3RNMm1peFNtOW1id2RHSUpNQTZ2ZkJLMG9GZ2RKZ0RGT1V1MzJoR1RodjF1MUFEUWFxYjdDaktHaklSYWpOMlQ3RmZKTXhKcWx6RWVmNHBGT3hCSFdPMVJtOA?oc=5",
+      "pub_date": 1764096309.0,
+      "article_url": "https://bitbo.io/news/texas-bitcoin-treasury-reserve/",
+      "image": "https://bitbo.io/news/images/texas-flag.jpg",
+      "description": "Texas has become the first U.S. state to acquire $10 million in bitcoin for its treasury, using BlackRock\u2019s IBIT ETF as an initial entry point."
     },
     {
-      "headline": "Bitcoin mining in China rebounds, defying 2021 ban",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjY4QU9vbS1nM3VydFpkb2U4d0dKYXZjLXFqUzhSQUljbDRrejJfeDhINmQtckZlaTVKTWtsMFpWeG9sczBab1N2bFFWQUhFc0FjdlVhUDIzekl4bDZsZzdFSWdCSW9MOE5jeXBTUGtrRTBRTHRidjVsLWlkLXA3VEZLbXl6RERXaUVUcU1IbVlCdVBHTzJrQ3BNdFBZZ3N4cnhv?oc=5",
-      "pub_date": 1763975155.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/bitcoin-mining-china-rebounds-defying-2021-ban-2025-11-24/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Strategy Silent on Bitcoin Holdings. Why the Stock Is Rising Anyway.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxPMzhjYjJpNU1zdzlubnZnSTVub1lxaFJxU0YxR0JnQzZ4dURSU1dvOGFGRy0zV2JZV21PSzNhMVdIZ3pLOW1tMkJNd3ljc2xmMjExQUUxZVQxRGEtdy1qV0c4VllneGtDSDVCQXNZd05nSnVRUG5Ob2dESXRteDR1YzlSdDU3YTJodkJrb0wtRU5qLUVtclEyVGYtRGNrUWF0YmhKYXFxWGZ1UU9pdUYwVFpWM2dqNmFjRXlCTWRMYm5QSXFRZmdQVk1ZQnBMNkJTRF9TVzJ0ZlVLMngyTGtDc0pmVlltdnppR1E2WmN4ZlluTDJhUU1FTXpxZUpxeEU5bWlSSHJucmhWbl81RExVMEhhV3pkcU9WV3NsTXhJQlBCUXlON0xXRWg5ekR0R2RCVjNEWXJPTy1QZlhoWVoyQ0ZuTVhqcDVrX0Z1am41NHpHTXNSazNaMm9qcHVHTXN6aEliRGxEWjh5SC1hMk5PQ05IakVIWVR3bm05dnlLZUV6Q3J0cGgtN0FOTFNFLWllZi1WVm5qQjFSc0F5VXc?oc=5",
-      "pub_date": 1764019020.0,
-      "article_url": "https://www.barrons.com/articles/mstr-stock-price-strategy-bitcoin-buy-microstrategy-176e8def?gaa_at=eafs&gaa_n=AWEtsqeRMu8PMXIqVp4vpjOkEkFo7GRKzsh1nUV6lLdgtOJ9sOm2ENwVebZt&gaa_ts=692634cf&gaa_sig=0AJEpOw32J8JEm9P9GpfdVKomfdGiTT8IUkgToUwCovzVT9QvMnHDrt8C9Jf9ZMuodqja9tOX0AvptJiIY1ivQ%3D%3D",
+      "headline": "Bitcoin is in a bear market \u2014 why it\u2019s still too soon to buy",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQQW1kU1NEamQ1MlJxZ2xWT1lPblFYcG1oWGhrNmR4WFVtM1JVQ2RLdkQzam5aMmk2cGdZRFdXWXF3VU9ESjUwNHNtMzVkdXlyalBUcEIzMGg1cmE0V2pvSjFxMHRUeXdoSnMxVTZWMEFuSWVkS01PVUhwTVI3VXBGWVA2NzdyQXQ4ank2eWVMOGJGeWpUNW1SVi0wanNpV0RxUk03dlJMM2ptM3FYT1NfUlJIaVZTMDR6LWtzN0NyVXNBOHhuLU1Id253QUhJZDZCVzNpUmtZZnk0OXdmSVA1Y3lzUkQ1V19FZm55TVkwV0xfSm9FMmFod1d0cDByQ2h6Vi1MRFNzc3BkdmRSQmJObURnWmgzd0pXRTZMMHB3YU5wZ3owMGt2LVFjT0NENjNsOXF3b3Z0M1FkQmFtc1UtdEpHcHZ2LVU3Mjl3aXBBV2lMM3EyVlhielNEX2xYUFZobmNSdk5xWFo4YUNrVl9Ic2Y4VHQ0YkR2Y3RTRVdXeVJXY2pEbnFTMnNjd0NGeTVaRmVyM2R4V0dySTVTNzdoRndSM1VXWE9Td1NUNmJ6ZHY3QQ?oc=5",
+      "pub_date": 1764085500.0,
+      "article_url": "https://www.marketwatch.com/story/bitcoin-is-in-a-bear-market-and-its-still-overvalued-by-almost-40-e979e1ba?gaa_at=eafs&gaa_n=AWEtsqdeipdvoltijYxXUIVVKvgFvW7F0OMRFdRX9oYzp58G06JbWgdPg9AY&gaa_ts=69263d13&gaa_sig=cUF4Lb3Fw2nwr0xA3sAzcvOKB9XG9zypWAA7eqQJHRyOFHMxVXsOiCkdJE5xMr-JTLaRw4qogeY5HSUlIHDNsw%3D%3D",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T22:44:55.813954+00:00"
+  "fetched_at": "2025-11-25T23:20:05.200151+00:00"
 }
