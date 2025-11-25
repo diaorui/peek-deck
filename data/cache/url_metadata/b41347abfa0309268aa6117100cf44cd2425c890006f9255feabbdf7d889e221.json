@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-11-25T08:24:36.658572+00:00",
+  "data": {
+    "url": "https://github.com/ocaml/ocaml/pull/14369",
+    "title": "DWARF support for macOS and Linux by joelreymont \u00b7 Pull Request #14369 \u00b7 ocaml/ocaml",
+    "description": "DWARF v5 Debugging Support for OCaml Native Compiler\nThis PR adds DWARF v5 debug information to the OCaml native compiler, allowing proper source-level debugging in GDB and LLDB.\nWhat&#39;s Impleme...",
+    "image": "https://opengraph.githubassets.com/f9a348201f077266a2109b8803c1e9517a12068a8a133f050a8278edb857918b/ocaml/ocaml/pull/14369",
+    "favicon": "https://github.githubassets.com/favicons/favicon.png",
+    "site_name": "GitHub",
+    "author": null,
+    "keywords": null
+  }
+}
