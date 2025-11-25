@@ -10,7 +10,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46027833",
       "author": "bookofjoe",
       "points": 480,
-      "num_comments": 584,
+      "num_comments": 585,
       "created_at": "2025-11-23T22:06:44Z",
       "object_id": "46027833",
       "image": null,
@@ -23,7 +23,7 @@
       "url": "https://news.ycombinator.com/item?id=46029699",
       "hn_url": "https://news.ycombinator.com/item?id=46029699",
       "author": "pugworthy",
-      "points": 343,
+      "points": 344,
       "num_comments": 201,
       "created_at": "2025-11-24T02:25:39Z",
       "object_id": "46029699",
@@ -38,7 +38,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46017972",
       "author": "dwohnitmok",
       "points": 288,
-      "num_comments": 80,
+      "num_comments": 81,
       "created_at": "2025-11-22T20:27:41Z",
       "object_id": "46017972",
       "image": null,
@@ -65,8 +65,8 @@
       "url": "https://twitter.com/karpathy/status/1993010584175141038",
       "hn_url": "https://news.ycombinator.com/item?id=46036878",
       "author": "bilsbie",
-      "points": 166,
-      "num_comments": 170,
+      "points": 182,
+      "num_comments": 185,
       "created_at": "2025-11-24T17:51:02Z",
       "object_id": "46036878",
       "image": null,
@@ -93,8 +93,8 @@
       "url": "https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern",
       "hn_url": "https://news.ycombinator.com/item?id=46032513",
       "author": "singiamtel",
-      "points": 92,
-      "num_comments": 72,
+      "points": 93,
+      "num_comments": 73,
       "created_at": "2025-11-24T10:37:05Z",
       "object_id": "46032513",
       "image": "https://cds.cern.ch/images//file?size=medium",
@@ -145,7 +145,7 @@
       "site_name": "the Guardian"
     }
   ],
-  "total_hits": 385,
+  "total_hits": 384,
   "has_metadata": true,
-  "fetched_at": "2025-11-25T06:41:09.781823+00:00"
+  "fetched_at": "2025-11-25T07:27:40.990093+00:00"
 }

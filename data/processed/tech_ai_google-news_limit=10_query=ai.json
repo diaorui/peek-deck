@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Amazon to spend up to $50 billion on AI infrastructure for U.S. government",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRzAwNWwxUDJ3SGRvamJSNFdFV1lNQXFvanM5Z002YXAzV2psYW1fRUl0QWtGUDJHMXNrUE9DYjc0T3FtX0xWMEpUM1FHTHlOUjBNMFI3WkNFNjFNYWZQdzUtclRDVkxMcURYXzhoXzZxZkNhX1I2NXNTNjI1aFlncEZYRHo1aHhic1prRnBUWG9fSFNlT19vZ0RiYmJYYUNzTVZkLdIBqgFBVV95cUxNUENUOURTYmdMdFdvSE5qZFRWMXFSQ01wcnBKM3ZfMV9BeWpsV0phZzdsTUMtZGt6bmpLdXQ0enJyUnFzWVlZVnJncl9Hd3lfVms3R3ZxREx4VFVOQTJhVTlXakRoYW51dDZFMjgwZnp6UGNRRV9kNG1aUFhlSE1PVjdKci01aGpDa1AtQ3hNTkRIXzI3amVhRmhqbjZFQmtCeXNUQ2duczFrZw?oc=5",
-      "pub_date": 1764006647.0,
-      "article_url": "https://www.cnbc.com/2025/11/24/amazon-to-spend-up-to-50-billion-on-ai-services-for-us-government.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108214314-17609846542025-10-20t181828z_76548831_rc2ofhahwau7_rtrmadp_0_amazon-outages-aws.jpeg?v=1760984688&w=1920&h=1080",
-      "description": "The project will add 1.3 gigawatts of capacity across new data centers, with Amazon expected to break ground in 2026."
-    },
-    {
       "headline": "Amazon to invest up to $50 billion to expand AI and supercomputing infrastructure for US government agencies",
       "source": "About Amazon",
       "source_url": "https://www.aboutamazon.com",
@@ -23,6 +13,16 @@
       "article_url": "https://www.aboutamazon.com/news/company-news/amazon-ai-investment-us-federal-agencies",
       "image": "https://assets.aboutamazon.com/dims4/default/29a0af5/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc6%2Ff7%2F88fa6e81457bbb11c742465fe562%2Fabout-amazon-hero-aa-hero001-amazon-datacenter-bht-0318a-2-4715x2652.jpg",
       "description": "Federal agencies will gain access to Amazon SageMaker AI, Amazon Bedrock, Amazon Nova among other AI services from AWS."
+    },
+    {
+      "headline": "Amazon to spend up to $50 billion on AI infrastructure for U.S. government",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRzAwNWwxUDJ3SGRvamJSNFdFV1lNQXFvanM5Z002YXAzV2psYW1fRUl0QWtGUDJHMXNrUE9DYjc0T3FtX0xWMEpUM1FHTHlOUjBNMFI3WkNFNjFNYWZQdzUtclRDVkxMcURYXzhoXzZxZkNhX1I2NXNTNjI1aFlncEZYRHo1aHhic1prRnBUWG9fSFNlT19vZ0RiYmJYYUNzTVZkLdIBqgFBVV95cUxNUENUOURTYmdMdFdvSE5qZFRWMXFSQ01wcnBKM3ZfMV9BeWpsV0phZzdsTUMtZGt6bmpLdXQ0enJyUnFzWVlZVnJncl9Hd3lfVms3R3ZxREx4VFVOQTJhVTlXakRoYW51dDZFMjgwZnp6UGNRRV9kNG1aUFhlSE1PVjdKci01aGpDa1AtQ3hNTkRIXzI3amVhRmhqbjZFQmtCeXNUQ2duczFrZw?oc=5",
+      "pub_date": 1764006647.0,
+      "article_url": "https://www.cnbc.com/2025/11/24/amazon-to-spend-up-to-50-billion-on-ai-services-for-us-government.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108214314-17609846542025-10-20t181828z_76548831_rc2ofhahwau7_rtrmadp_0_amazon-outages-aws.jpeg?v=1760984688&w=1920&h=1080",
+      "description": "The project will add 1.3 gigawatts of capacity across new data centers, with Amazon expected to break ground in 2026."
     },
     {
       "headline": "Amazon Is Using Specialized AI Agents for Deep Bug Hunting",
@@ -35,26 +35,6 @@
       "description": "Born out of an internal hackathon, Amazon\u2019s Autonomous Threat Analysis system uses a variety of specialized AI agents to detect weaknesses and propose fixes to the company\u2019s platforms."
     },
     {
-      "headline": "Trump directs science agencies to embrace AI",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc1NoaE9hM3ZDbEQzeGNVdUl0azZCdmYzdkdMN0t6R29CSmRQbjdyRE1rX1JSX3ZGMFFFNUtTclNlNUpKMmJmYndJM1Z3bS14YXlGSmh1Zm45TDFiX2NQVzN1VmhqZllfX2VOQUFEQ2didDJZMC1RTXBwN0wtSmd2Y3FGTnRLYXNkYVZUZVQ0YTNTSHowM0JUSDBn?oc=5",
-      "pub_date": 1764021838.0,
-      "article_url": "https://www.politico.com/news/2025/11/24/trump-directs-science-agencies-to-embrace-ai-00667318",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Will AI Be This Holiday Shopping Season\u2019s Santa?",
-      "source": "Vogue",
-      "source_url": "https://www.vogue.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQktLRnJ5UnQyTEVpT2VKMWJyeW1PTUFGTEhULTNsZW1kU1VxMXZiaEVfVEgtT0VpeDd6eGlJRE1VRVM3Uko3dTgwU0s5cWtZS0lqc201WkgtempuLVRIU21wLTh0OFYtaUkzWUdaaW41TGFqZnZGbTFoTm8tVU84Z1JB?oc=5",
-      "pub_date": 1764048600.0,
-      "article_url": "https://www.vogue.com/article/will-ai-be-this-holiday-shopping-seasons-santa",
-      "image": "https://assets.vogue.com/photos/69249951d6521caff5f518a1/16:9/w_1280,c_limit/11-25-25-CHRISTMAS-AI-social-newsletter.jpg",
-      "description": "This year\u2019s Black Friday period will give brands and retailers their first real indication of how consumers are adapting to commerce-focused AI search \u2014\u00a0and whether it could be a boon for Christmas holiday sales."
-    },
-    {
       "headline": "Nvidia Shares Drop on Report of Google Challenge in AI Chips",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -63,16 +43,6 @@
       "article_url": "https://finance.yahoo.com/news/nvidia-shares-dip-google-appears-014603931.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/8h6yF5EElDlcmTt1_OlHXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/36dae82fb94fa44063186c1c8747020e",
       "description": "Meta is in discussions to use the chips \u2014 known as tensor processing units, or TPUs \u2014 in data centers in 2027, according to the Information, which cited an unidentified person familiar with the talks.  Meta also may rent chips from Google\u2019s cloud division next year, the news outlet said."
-    },
-    {
-      "headline": "Why Google\u2019s AI Wins Are Bad News for Nvidia Stock and the AI Trade",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOd3JtSEE2MlZsZlQ5RmF6WG9zRzZZTWdSQTBMYkN1Y2MyY21oMmV6NVFZZi05bVpxOS1PQmhaTWk5Ti1wQjhWRFlDYm0xNHZkM21vQkhZeHhXQXZGbTlyM0ktWU40WGJaLUtTWTBIRUVlanNBbTV3azhBYkNjYkdKdXlPUmIzWDZpc2ZHM2RiZ3RxVU5GUHRmbEhkenEwcV9yVVVxMFltSnF6UnZhZzBadzVwQUFiSkR0S2dEMVZIVTU4ajF6LTVjM1RMVWFWY2VzUmVRY0FRb090akh5THh1WTBad2NiSEQzcEtHWXRYUTVKbGZZY0ZjeUM5bXB6aW5DYTUtdkwxTTVKNHE0SWpNbmF5RUI2c1RxdWZja3ZCUVpKSWl5Wk1NUk44d2oycW9pa0RvemhUM3RKRGxEZ0dXZ0xkNEt1MHYzX19feE1JNkVUMWY0U0RfSjdZZmRucjg4ZFhiTy1jQVYzVFY2Q0tYcjJRRk01bkdlOTJJbQ?oc=5",
-      "pub_date": 1764020640.0,
-      "article_url": "https://www.barrons.com/articles/ai-google-nvidia-stock-tpu-84753c55?gaa_at=eafs&gaa_n=AWEtsqcnUFNzbTWm6SGL1rCVqXRZxxYSpTqahLnuQ9r-xtL8VHIlDbZmeaNu&gaa_ts=69255308&gaa_sig=d3hGZCzam1K7MT-jmo_JwijG0xyO7oBWQu3SJEyiQaO3RGcgBRiIQV5wQo0B0iYBpL_qlrQXWx4emmVir0tfuA%3D%3D",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Google Further Encroaches on Nvidia\u2019s Turf With New AI Chip Push",
@@ -85,26 +55,56 @@
       "description": null
     },
     {
-      "headline": "How the U.S. Economy Became Hooked on AI Spending",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNaFZWODVVUUJBWUV6bmEzSVJrem1YemtKT1c2WkxuTzhPU0I2S19wVUE3dDgtSGVUSEduV3M2M0dLY2NrbzBHYXVCdnVrSVVGcXg2cDFIb2RvUE5FSUthdWxOTkhxellfMFdDTzQxbXdfNXJsSFloak1tZy1uTkdDQVlPdE80QVM0ZUliWHowbklOREFEOWdaUTE2clZueE4xYndYNHVGRFVCZjMteXJUTy1SVndKcGVZRUZId0s1bkZDanI1c2tQYWU1dTlLOVFiNFRsOXJGOGpCVE83OVBzdDNhWW9fMkctRHVpSmUwVUR3RkhYUUN1Mzgxb1JlU0J5NXdSQXdEWkktZFpWS1pFSEpPa1ZKYzZFa1pHNHpWZ0FFZC01NFpyT3VZZkNELVdqYmpoMTJjbVVTTkJiOEItUHNVbDVLYkpSWTdkWDV3czZ4cFFORUlJRzBNc01DaG56U1RxT0E3QUNvQjg3YUNEaHNNYmZlYTNEeVNFcGJkNkN4SEczb1lDNVBhVFY4Rm02NFM0?oc=5",
-      "pub_date": 1763980200.0,
-      "article_url": "https://www.wsj.com/tech/ai/how-the-u-s-economy-became-hooked-on-ai-spending-4b6bc7ff?gaa_at=eafs&gaa_n=AWEtsqcHcyHUlBO4adhSBUBPXRc41wdHdPdn47apXaSGaqKQgnJodxregHyQ&gaa_ts=69255308&gaa_sig=7TC32CcpRIpax6S-kH3G8KAlJWeOutG-rh-1ITFOreJxIS2sDJ_0mwH6bMMWH3cZeXg24CGlqb0XiyQvO3XFtQ%3D%3D",
-      "image": "https://images.wsj.net/im-03915609/social",
-      "description": "Growth has been bolstered by data-center investment and stock-market wealth. A reversal could raise the risk of recession."
+      "headline": "Why Google\u2019s AI Wins Are Bad News for Nvidia Stock and the AI Trade",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPbU43MXdRWjF1ekkwRUdMSVBqVzRuUDU4S1Nna2dkR3BKUEFhMENVTU9JMGNnVjgzU2dBUE9QdEdNZUI0di1XYkZwNDRjVzZpQm85dlVUQkI1aERCSmRMNmRSem5vVWI2MGVTalNhRWlsVVZxdWVKakF0N0gwMGtkZUJIS0ZOaHdvSUlrd1R4Ukc4Tm0zWnk0VG1hV3NJdEZ1cTJFTWxnWDNiajZnSzZzTzFacy12MzhOb0txXzNTVlBqcmgwZ08tTGJvUnk5ZzQ3NXZJV19aclhoVFRSdUdQNmFWOUY2Si1BZWtQXzM1QkxuZmJiOVZEMmFKcmR4LVZMYWtvWHQ3OWpWWVFrenVrNWZBQThteHQwNklYSjIxZTV4eEdvVENmcGh6dmVpd2hiN0d5b3RsYlk1SXVSNkNoamRYUzdBUzh1R2hsZFZEdUctWlZVM2xUdGlBNzVZbG5aS3NUZi16bkVQaU9oM0NhdklyOEZvNDlrMWpHcQ?oc=5",
+      "pub_date": 1764020640.0,
+      "article_url": "https://www.barrons.com/articles/ai-google-nvidia-stock-tpu-84753c55?gaa_at=eafs&gaa_n=AWEtsqf0t1i9ot1M0OX12B4YGQV5zjcPTiTuEQQQCqGNybqToUv78CfaVKS_&gaa_ts=69255df0&gaa_sig=nV5Mw-iW_-pon-YF2-Utbxs_zQiMzwbv2wU_K5BnFo4q_m9XIzffHCHG2tNV7ltff2gKwgG7Pa_Kyekr-r411g%3D%3D",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Scientists say they've eliminated a major AI bottleneck \u2014 now they can process calculations 'at the speed of light'",
-      "source": "Live Science",
-      "source_url": "https://www.livescience.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbG1taXViUlFHT0FFYVh1SjdicV9oOGZzakhDUGtDM3Nvblc3X3RNdnFVb1QxOHFiaWp1T1B3UTg1N3VnSnNQamZyZjdUN0Qzc1RZS3VxMW1QRVJaZ3JwMHhfZ0NiVkVWLWNDeVo0ZGdHdjFRaXBzTEJsaWZRYXQ4aGNRWUNVeFVGYzZDLVF0Z2pDSzFxbk0xX3NncUpuSFdFNV80V1lwd2xfTlFrZzZhVkUxMXpMYzhUZ09mbzBTOUF3OW1LWVRDcnJ0NExLNlpadmxHVTI1M1JBa2FkajNna05BTkczT1BfZnI0LTlfVkk?oc=5",
-      "pub_date": 1763985600.0,
-      "article_url": "https://www.livescience.com/technology/computing/scientists-say-theyve-eliminated-a-major-ai-bottleneck-now-they-can-process-calculations-at-the-speed-of-light",
-      "image": "https://cdn.mos.cms.futurecdn.net/UaZw3uquibn4F6ZgG73mpT-1920-80.jpg",
-      "description": "A new architecture replaces traditional bottlenecks with a passive, single-shot light-speed operation that could become the foundational hardware for AGI, scientists argue."
+      "headline": "Physical AI is the next frontier in artificial intelligence and the geopolitical race for dominance",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaElGVkR2dXVYcTY0RGpBbmRLdFZvQ2xSLUFpVHFDZjlfMEgzY0hTVV9CVERFcVB4ZjdObE41OWdrNUxOdjRCa05PUy1Qbmg1NWs5VEl6SlBSU1g4dFdvc21KWlVQdmtZdDZaTHhUM2dfTG1mWmpXQXpCSnZUVXZqQjNLaGJuY1hYUzlUdFZwdE00NF95X0taSXVJZnVmQzNlaW5BRA?oc=5",
+      "pub_date": 1764054279.0,
+      "article_url": "https://www.cnbc.com/video/2025/11/25/physical-ai-is-the-next-frontier-in-artificial-intelligence.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108231469-17640530791764053077-42690013587-1080pnbcnews.jpg?v=1764053079&w=1920&h=1080",
+      "description": "CNBC's Elaine Yu visits Hangzhou-based company Manycore, and looks how AI is being used to train robots and other devices, and how this fits into the geopolitical race for AI dominance."
+    },
+    {
+      "headline": "Trump signs executive order launching Genesis Mission AI project",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjNCSXpKQ2ozYy1hd1hTQTRpV1ZBenRKX3pPWjhaYkprUnpPQy11bjUyN0ttc0NpVVZ5dFhfeW15WDlJeExST3lfRVdUdENVa3dMNnpxQzBxNmQ1b3ZYeW0xRHM4UHhmWFhreFF3TDVMeTJjRWU1YzRDUloySnZabzNXcVloRUJtSWNLUXZlLXhIV3hMVERGN2JkdzJGMjNBT19ORHdYandOWkZxZGp2aHVTejPSAVZBVV95cUxNek5OY1dBZUNReDkyQ3hMOWtFV2x3MzJiSkp0Rl9mOXZXRUNKYi04aW4zV0VhcEFyX0kwYWpncHQ3aXdQSkN6RFJSS3IwSGJoRlRvdnMtZw?oc=5",
+      "pub_date": 1764024780.0,
+      "article_url": "https://www.nbcnews.com/tech/tech-news/trump-signs-executive-order-launching-genesis-mission-ai-project-rcna245600",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251124-trump-rs-aae677.jpg",
+      "description": "The order announced the \u201cGenesis Mission\u201d for AI, a new federal push to mobilize the federal government's research and data to create artificial intelligence models."
+    },
+    {
+      "headline": "Trump Orders Construction of A.I. Platform to Use Troves of Government Data for Research",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOakdfYTFXLTRTdE14dHFtSHh5MTNRb0FVWnNJTTNJZVNzRHJPQW1XdWRpME1keXJzdGUwVlVVRmdrS0dPM1hlalh4WkswNzFjcFppY01LZXExbzltTmlHZGtyS3QyZjN3d0pyTTNUdGdRRmk1WHljc1FkN0dvSXBLeml3?oc=5",
+      "pub_date": 1764032770.0,
+      "article_url": "https://www.nytimes.com/2025/11/24/us/politics/trump-ai-executive-order.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Inside MAGA's growing fight to stop Trump's AI revolution",
+      "source": "ABC News",
+      "source_url": "https://abcnews.go.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ18zVHd5aHU0SW9LcWVfWjJld0ZrZjV3RmQyaVNRb0llcl9Dei1QRU9wcVo0MEZQVU1jVVdiWUQ0bXc5dE1VdmJ6QkEyNGJxdXZuX3phMTRUREpOZFhLQ1l5Q2Z4YVBpdGZLM2xrSFVEV1gxeXlQVEVlcXVjRGVLT201TnIxb1R6cnYtZUJJakxCVHJBN0hRRzdMVDFpZ9IBowFBVV95cUxPQVNZblB0RXhuYkZLd3FKSEx4eGhHRDRBTGR0Qmh2bm5xUXlibDR3eHBGSEZ5REFRU3RNdm1EdHNPaWVueHJYakZFZk92UUZ5bU45RFlvRTR6dlFXVW80cFhIMTdhLW9PajV6RE9PMXluOWZ4amotSGJ0MmN4NjlydG9BTWJvWHF0S05fS0R5bnc5Z29nczQ5WExyLUJ1dHduQkRB?oc=5",
+      "pub_date": 1764016908.0,
+      "article_url": "https://abcnews.go.com/US/inside-magas-growing-fight-stop-trumps-ai-revolution/story?id=127824351",
+      "image": "https://i.abcnewsfe.com/a/e2d7d898-26a0-4efd-8c4a-4d9095b3399d/bannon-gty-er-251124_1764010902064_hpMain_16x9.jpg?w=1600",
+      "description": "As President Trump pushes an extensive agenda for the advancement of AI, some of his most loyal supporters within the MAGA base are denouncing his efforts."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T06:41:35.795416+00:00"
+  "fetched_at": "2025-11-25T07:27:59.754028+00:00"
 }
