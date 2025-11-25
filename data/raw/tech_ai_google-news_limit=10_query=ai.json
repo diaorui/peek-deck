@@ -5,34 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Amazon to invest up to $50 billion to expand AI and supercomputing infrastructure for US government agencies",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXZyVlFqeWJCODRWeXRwUTVJMHhFZkRmbFBOa0JXdmhfdFRzNmVCMkFVZDhNS0RfRnhMNDVlTW1YZl9DM1ROQUdVX2pVT2pOUVJxRXZfVUVhUjdFU1gzZ2tld21qeF9KX3FZZi04S05hOGZKZHo5cTNIMmdTSzhHblN0Ylpfc09uR21OM05WWQ?oc=5",
-      "pub_date": 1764000228.0,
-      "article_url": "https://www.aboutamazon.com/news/company-news/amazon-ai-investment-us-federal-agencies",
-      "image": "https://assets.aboutamazon.com/dims4/default/29a0af5/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc6%2Ff7%2F88fa6e81457bbb11c742465fe562%2Fabout-amazon-hero-aa-hero001-amazon-datacenter-bht-0318a-2-4715x2652.jpg",
-      "description": "Federal agencies will gain access to Amazon SageMaker AI, Amazon Bedrock, Amazon Nova among other AI services from AWS."
-    },
-    {
-      "headline": "Amazon to spend up to $50 billion on AI infrastructure for U.S. government",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRzAwNWwxUDJ3SGRvamJSNFdFV1lNQXFvanM5Z002YXAzV2psYW1fRUl0QWtGUDJHMXNrUE9DYjc0T3FtX0xWMEpUM1FHTHlOUjBNMFI3WkNFNjFNYWZQdzUtclRDVkxMcURYXzhoXzZxZkNhX1I2NXNTNjI1aFlncEZYRHo1aHhic1prRnBUWG9fSFNlT19vZ0RiYmJYYUNzTVZkLdIBqgFBVV95cUxNUENUOURTYmdMdFdvSE5qZFRWMXFSQ01wcnBKM3ZfMV9BeWpsV0phZzdsTUMtZGt6bmpLdXQ0enJyUnFzWVlZVnJncl9Hd3lfVms3R3ZxREx4VFVOQTJhVTlXakRoYW51dDZFMjgwZnp6UGNRRV9kNG1aUFhlSE1PVjdKci01aGpDa1AtQ3hNTkRIXzI3amVhRmhqbjZFQmtCeXNUQ2duczFrZw?oc=5",
-      "pub_date": 1764006647.0,
-      "article_url": "https://www.cnbc.com/2025/11/24/amazon-to-spend-up-to-50-billion-on-ai-services-for-us-government.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108214314-17609846542025-10-20t181828z_76548831_rc2ofhahwau7_rtrmadp_0_amazon-outages-aws.jpeg?v=1760984688&w=1920&h=1080",
-      "description": "The project will add 1.3 gigawatts of capacity across new data centers, with Amazon expected to break ground in 2026."
-    },
-    {
-      "headline": "Amazon pushes in-house AI coding tool Kiro over competitors', memo shows",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbUNSQVlsWExIenRUeThkaTUxcGFWNzJHT0hUV0pVUzNrdm5TSWh6TDhWVkZ5N25QZ3dxdGUtWFU4bkp4ZVNkeTdaVEVPLTY2R2c4YnBsSm5xN21vQ1pvSjg2QWpPTWk2UU1LNUxYUGRnQkpRQ0V5TlZaZ1NEUEo0ck1ZV0JsTXdKWkRoNmhEQWNqSE9CbVJkOEN4QkJmUGVNMUNUYzRuS0kzWGRYZTNwV2gyN1F4OXBrTHBncVdNOF9nN0VEQUJoeGtkYw?oc=5",
-      "pub_date": 1764030840.0,
-      "article_url": "https://www.reuters.com/business/retail-consumer/amazon-pushes-in-house-ai-coding-tool-kiro-over-competitors-memo-shows-2025-11-25/",
-      "image": null,
-      "description": null
+      "headline": "AI could replace 3m low-skilled jobs in the UK by 2035, research finds",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLXlZTXJOeXpaekJBRkhVTllpMEJpcGdWNjVpajJpT2lJb19BamJBdkdqS3c5bkpuRTV0TDFmcTFFYndvTVlocjI2LVJzbDJpTkhCZjI2N0tMajk0TnhzNEFjLXU1YlZiSU5BX3ZKZEcwT3g0V3VrZTAxdFBFUXl5SExaTkxmUTRkUTR0TVNKZk5kNVRRRU02anRKTHlyTHlpRkVacjlJcGE2ZGdWTEZ3?oc=5",
+      "pub_date": 1764047400.0,
+      "article_url": "https://www.theguardian.com/technology/2025/nov/25/ai-could-replace-3m-low-skilled-jobs-by-2035-research-finds",
+      "image": "https://i.guim.co.uk/img/media/470afbbf9084ad8b092331924ab34ec009a91270/0_1062_5790_4631/master/5790.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a51232ad426a8abf09c0a7532eb80eb6",
+      "description": "Trades, machine operations and administrative roles are most at-risk, says leading educational research charity"
     },
     {
       "headline": "Nvidia Shares Drop on Report of Google Challenge in AI Chips",
@@ -45,44 +25,64 @@
       "description": "Meta is in discussions to use the chips \u2014 known as tensor processing units, or TPUs \u2014 in data centers in 2027, according to the Information, which cited an unidentified person familiar with the talks.  Meta also may rent chips from Google\u2019s cloud division next year, the news outlet said."
     },
     {
-      "headline": "Nvidia stock drops after report of Meta considering multi-billion-dollar deal for Google AI chips",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUWhvb2ZpRnRSNHNjNjE4WHQwbUhzTzZsZFZuZDZBOTR3bFc3T0RZQzVuR1dtNU96Ym11WGFxdEkyZG9xUjRsYVZWQmNIUUx4TjdHQUlUc3JlSjA1cTVIejY4enJqeVBBSk50RHdDUEp1QnJaZVdUMXUwMzIzTHRQQ2ZuTjRVWXRtRC1YODh5N3VveDdvMUJ1dGxwT1VrN2NkdTd5MTFSZllncXZzcmtZRnZKS2VrdVhRQWlPbUJkLWxuX1NocjVWejlVVDBXbTR6?oc=5",
-      "pub_date": 1764053755.0,
-      "article_url": "https://seekingalpha.com/news/4525678-nvidia-stock-drops-after-report-of-meta-considering-multi-billion-dollar-deal-for-google-ai-chips",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2180548580/image_2180548580.jpg?io=getty-c-w630",
-      "description": "Meta considers Google AI chips, challenging Nvidia\u00e2\u0080\u0099s dominance. Discover how this shift could impact NVDA, GOOG, and AMD stock trends."
+      "headline": "Nvidia shares fall on report Meta will use Google AI chips",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQkJsYW8tYWpQTlItQ3NieEx0OUh5THY1bnU0ZVpZajhMUWVicm16X2JiaG0zV094TG56cDBXOFgyNmdPMVhhS3RDeDU4TzY3RzlSZnFsUVE1WTM3cDlZb05RSldyenN2SWZidGs1Z0ZXVUplVURvWkhHdE9ueXM4TVpnN1dTeUIzRlBN0gGQAUFVX3lxTFBiXzlkeEtwZTVCZWxPdHFEejJDR0dKcGhoelRxdEVscXpKY0k2aGZ6RmtWMVg4OEdwV1JKa3hvSVg3ZGUyTWtrOU9TRlgxdDVRekxpVkVmLXhjTm9uNWNTSkxnOVZZUnBaVE53a0JwcGtZN3BLYkxvbkVlT0VtazAtejd2ekZPU2dqYzl4Ym1zdA?oc=5",
+      "pub_date": 1764061681.0,
+      "article_url": "https://www.cnbc.com/2025/11/25/nvidia-shares-today-google-meta-ai-chip-report.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229154-1763651121877-gettyimages-2246742874-raa-nvidiaph251118_npuO7.jpeg?v=1763651154&w=1920&h=1080",
+      "description": "Nvidia shares fell on Tuesday after The Information reported that Meta is considering using chips designed by Google."
     },
     {
-      "headline": "Google Further Encroaches on Nvidia\u2019s Turf With New AI Chip Push",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWNkaE5DQjFRZ0lZS0RIZjU2Nlp1NDEtQkR2N1JQckluRkE0OGRHU3pKN3B1eHFwNXktVzJvQlUyMU54OEpVeVRIc2xWMmhBTVFEMzNFN3FVMFppYldidi1lNVZBV2hXS080VXNZUlVBd1dtc3lXVnA3emladDhBeFFMQ3E2ZXBwRUltNmpUTDQ?oc=5",
-      "pub_date": 1764024180.0,
-      "article_url": "https://www.theinformation.com/articles/google-encroaches-nvidias-turf-new-ai-chip-push",
+      "headline": "Here's why concerns about an AI bubble are bigger than ever",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0dyS2I4eFprMm1QTVFnai16TjlvNTN0VVcyakdFWUlnaG9mcGhlc1NPVzRLRU4zamhzS0dyRlV0a05RQk40bDVVb0tfU09COG03TWFBSFJMQlpvXy1FZ2NQY0U0azFsZjF1NThUZmV5VzJKSmhDZDBBdHg5S3NsRFJLV0ZvSjVlYXFIVWJieE80NW01MlRFVGZB?oc=5",
+      "pub_date": 1763892000.0,
+      "article_url": "https://www.npr.org/2025/11/23/nx-s1-5615410/ai-bubble-nvidia-openai-revenue-bust-data-centers",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6570x3696+0+342/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F1c%2F8fb36bab4460ad7d24569abf921a%2Fgettyimages-2192213324.jpg",
+      "description": "Tech companies are pouring billions into AI chips and data centers. Increasingly, they are relying on debt and risky tactics. Financial analysts are worried there's a bubble that will soon pop."
+    },
+    {
+      "headline": "Spiralism is the new cult AI users are falling into",
+      "source": "The Week",
+      "source_url": "https://theweek.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvaE9KVGh6b0g3MHZhM2xKMmk4bHJBUFh2VElGU1BaaXFPZ1dnMmxlZTJFM3JtTURhZlIyeXpEYkdkWGViOVdGZ1d6aE0zS0twSGtlRWdKZkNWUUJQeXh1dmJmaW1BemlMekxR?oc=5",
+      "pub_date": 1764061380.0,
+      "article_url": "https://theweek.com/tech/spiralism-ai-religion-cult-chatbot",
+      "image": "https://cdn.mos.cms.futurecdn.net/J7A632qDaynHEGxoDKzvZV-2000-80.jpg",
+      "description": "The spiritual movement claims that AI is conscious and capable of revealing deeper truths"
+    },
+    {
+      "headline": "Trillion Parameter Models, Tiny Software Kernels, And The Future Of AI",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1FxX2kzUG5Pcmk2S2w5SVQ0eFVSNWVJWmpzc3NId0FHM09JT2ZZaWZPNGstdkdvb293UXJsMDZRa3BydEJWUFhqakNKNFdaeE9mYWZSRkptM1g0dUkxUFU4dkdpcWtpNmdVS1dra3o2ekc4bV9Vb1J4NVpteXNndmVaeXFVbGtTb19uZVlpaG5iRXJDQjZpcmlRN2o3VTFXdjRsVjU2d0hUT0xjQWx6M2tfaVQ4eThJQ21TZQ?oc=5",
+      "pub_date": 1764060066.0,
+      "article_url": "https://www.forbes.com/sites/amirhusain/2025/11/25/trillion-parameter-models-tiny-software-kernels-and-the-future-of-ai/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/69256a95641364ad805027e9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "In an era of trillion-parameter models, we\u2019ve forgotten how to build simple, trustworthy software. Niklaus Wirth\u2019s legacy offers a blueprint to fix that."
+    },
+    {
+      "headline": "Trump aims to boost AI innovation, build platform to harness government data",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzQzVmZadVpvcC1DU29oTm9Ud2tLWjFVODM4UlRuUmxqdWpVX2R1Q1NBT2gtTUdQVF9JMjY2SDg3RzNDQUxTWGh4dXZ0MExwTnhLSklVU1BuSVBYYmg3eFhtUnJhUVVxZXQ3b0I3LXdjZXRucDNEbmlGNVF0ak13eGw1cHVKT0pGYVBpWktBeUk3U19KVUs2VE02Z3AyZkdhSnhhLWdVamxOZkxkOHo3bWgtVGM?oc=5",
+      "pub_date": 1764027601.0,
+      "article_url": "https://www.reuters.com/business/trump-aims-boost-ai-innovation-build-platform-harness-government-data-2025-11-24/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Physical AI is the next frontier in artificial intelligence and the geopolitical race for dominance",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaElGVkR2dXVYcTY0RGpBbmRLdFZvQ2xSLUFpVHFDZjlfMEgzY0hTVV9CVERFcVB4ZjdObE41OWdrNUxOdjRCa05PUy1Qbmg1NWs5VEl6SlBSU1g4dFdvc21KWlVQdmtZdDZaTHhUM2dfTG1mWmpXQXpCSnZUVXZqQjNLaGJuY1hYUzlUdFZwdE00NF95X0taSXVJZnVmQzNlaW5BRA?oc=5",
-      "pub_date": 1764054279.0,
-      "article_url": "https://www.cnbc.com/video/2025/11/25/physical-ai-is-the-next-frontier-in-artificial-intelligence.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108231469-17640530791764053077-42690013587-1080pnbcnews.jpg?v=1764053079&w=1920&h=1080",
-      "description": "CNBC's Elaine Yu visits Hangzhou-based company Manycore, and looks how AI is being used to train robots and other devices, and how this fits into the geopolitical race for AI dominance."
-    },
-    {
-      "headline": "Trump signs executive order launching Genesis Mission AI project",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjNCSXpKQ2ozYy1hd1hTQTRpV1ZBenRKX3pPWjhaYkprUnpPQy11bjUyN0ttc0NpVVZ5dFhfeW15WDlJeExST3lfRVdUdENVa3dMNnpxQzBxNmQ1b3ZYeW0xRHM4UHhmWFhreFF3TDVMeTJjRWU1YzRDUloySnZabzNXcVloRUJtSWNLUXZlLXhIV3hMVERGN2JkdzJGMjNBT19ORHdYandOWkZxZGp2aHVTejPSAVZBVV95cUxNek5OY1dBZUNReDkyQ3hMOWtFV2x3MzJiSkp0Rl9mOXZXRUNKYi04aW4zV0VhcEFyX0kwYWpncHQ3aXdQSkN6RFJSS3IwSGJoRlRvdnMtZw?oc=5",
-      "pub_date": 1764024780.0,
-      "article_url": "https://www.nbcnews.com/tech/tech-news/trump-signs-executive-order-launching-genesis-mission-ai-project-rcna245600",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251124-trump-rs-aae677.jpg",
-      "description": "The order announced the \u201cGenesis Mission\u201d for AI, a new federal push to mobilize the federal government's research and data to create artificial intelligence models."
+      "headline": "How the U.S. Economy Became Hooked on AI Spending",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPREs0dTZadUpmOXhtaHJvbXNZelJRUUlRcF9sUGphXzNZSVk2MjRSWXE1bnNlZ21Uc0VWMk9pb0JaYUNLeHZXa1NEbXBaVXRvZllmRXpuNVV5bDhMOU5nY2V2ci1VbWRQQVlJYmpoYl9vc2cwNTNjbW93UDFHM1V4TW1XaTB0ZTc5SERrdXhTdzl0dEg1aVQzMjBxQjdBc09kREJpemxuTmx3dGFDOGpaU1BBZmZfMTlJTHZ1RlJuZVZkSUtORjRLUVRQNWx4WGFXNVRaNUt4c1dvbThMeE04UmUxYlpWdnVkQ05PVDFnN21QZTdPTGZkTlI0TVV1SktOSFZ1djR1cTVDOUUzVmtITVFwVm5zVExnQ2VfQndOMHY5MjFIRUFPMXF4VGktemdITk5QdkJUTzBDVmdXMXZlTzFTWW96clA1cE11TmR0X04zbzBleGZxSmVKSkNZZUxfdW02bXV3TjBheGJVVWZkU081U1JlQ3BlcHRGOUlGUVREOVctbXBMUlIxeGhFZU9jSjlj?oc=5",
+      "pub_date": 1763980200.0,
+      "article_url": "https://www.wsj.com/tech/ai/how-the-u-s-economy-became-hooked-on-ai-spending-4b6bc7ff?gaa_at=eafs&gaa_n=AWEtsqf_DMD08UyxS4PitEc4TUEKWSiPFJNd0LClxFxhPh_Bfswfq7fzuyG9&gaa_ts=692576da&gaa_sig=J4H4cjuvwOqG-HYh91Knz1gPFMKBe3VlpgYGDFVPpXHZrlJLwizkG2wAeRQNx6Ex1oia_JPgTZgWQWAfAN-XPQ%3D%3D",
+      "image": "https://images.wsj.net/im-03915609/social",
+      "description": "Growth has been bolstered by data-center investment and stock-market wealth. A reversal could raise the risk of recession."
     },
     {
       "headline": "McKinsey explains why AI won\u2019t take your job, even though it can already automate 57% of all U.S. work hours",
@@ -95,16 +95,16 @@
       "description": "The fastest-growing skill in U.S. job listings is \"AI fluency,\" seeing a sevenfold increase in two years."
     },
     {
-      "headline": "How the U.S. Economy Became Hooked on AI Spending",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPamFQcVBjUWE0Z0phdGZwU1hXZ014OFFoV2dlSjZUYmtkR1BZSFh6LUhicUdtcXlGcUpDVlpBMlh5VGRhR1I1dm9yU3dGZm51anBUT3BPUEJKYXNMZjdsQjhORk1VQkw3aFFENDdwWVF0c2hhb25UTm1pdlFReUJTVTB5TEdaN29IVjhCS2hLNGJsR1gyUU1YYWR3NmNYbXgteEJGR3JfWmlqcDFHS2I0alZIcVpmaVlwcTQ5anhqVlBZa0s3NjJzR0Y0M1pZc0pnN1did1MtbU8wY2UtU01yQlh5eXBYTVk2Y3kxWUZ2YWhfX2c2M2FaUklVVG1FOUZVbm5ZMEdocVpqd2M3QUVtU1Y4RVI1VTRDdEhDMlNZTGhDYXU4dTBHZEJ2dWFkMWI3T01tdHl3aG9YYjVHNVowS0hXclo5ZW5SaW5Oam5rRmdRQS1FQlAwbFZBdXlZaDk4S3NQblpmek91TlJocnEtNkgxVmRUT085QXlBcmR6RGc4eVdEZm5lMXlGbmI4Z3JpOXBN?oc=5",
-      "pub_date": 1763980200.0,
-      "article_url": "https://www.wsj.com/tech/ai/how-the-u-s-economy-became-hooked-on-ai-spending-4b6bc7ff?gaa_at=eafs&gaa_n=AWEtsqdDW5LatsPP9HD0nFpg_i3pta3JPt3Ef4Nrir3Twf2b2nZop_r5BUQs&gaa_ts=69256b45&gaa_sig=3T_lmpGSUi5fhBDbScNLq18vSjQH0jXAb_K6i1UlQA8lMdysz4GkvpDRkVOLiNejJur0MjBVZ4ohrm_ynV8dyA%3D%3D",
-      "image": "https://images.wsj.net/im-03915609/social",
-      "description": "Growth has been bolstered by data-center investment and stock-market wealth. A reversal could raise the risk of recession."
+      "headline": "Scientists say they've eliminated a major AI bottleneck \u2014 now they can process calculations 'at the speed of light'",
+      "source": "Live Science",
+      "source_url": "https://www.livescience.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbG1taXViUlFHT0FFYVh1SjdicV9oOGZzakhDUGtDM3Nvblc3X3RNdnFVb1QxOHFiaWp1T1B3UTg1N3VnSnNQamZyZjdUN0Qzc1RZS3VxMW1QRVJaZ3JwMHhfZ0NiVkVWLWNDeVo0ZGdHdjFRaXBzTEJsaWZRYXQ4aGNRWUNVeFVGYzZDLVF0Z2pDSzFxbk0xX3NncUpuSFdFNV80V1lwd2xfTlFrZzZhVkUxMXpMYzhUZ09mbzBTOUF3OW1LWVRDcnJ0NExLNlpadmxHVTI1M1JBa2FkajNna05BTkczT1BfZnI0LTlfVkk?oc=5",
+      "pub_date": 1763985600.0,
+      "article_url": "https://www.livescience.com/technology/computing/scientists-say-theyve-eliminated-a-major-ai-bottleneck-now-they-can-process-calculations-at-the-speed-of-light",
+      "image": "https://cdn.mos.cms.futurecdn.net/UaZw3uquibn4F6ZgG73mpT-1920-80.jpg",
+      "description": "A new architecture replaces traditional bottlenecks with a passive, single-shot light-speed operation that could become the foundational hardware for AGI, scientists argue."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T08:24:49.656622+00:00"
+  "fetched_at": "2025-11-25T09:14:22.107509+00:00"
 }

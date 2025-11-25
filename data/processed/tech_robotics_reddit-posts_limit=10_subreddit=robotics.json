@@ -90,17 +90,6 @@
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     },
     {
-      "title": "TEMAS Pick & Place | Aruco + AI Depthmap",
-      "author": "Big-Mulberry4600",
-      "url": "https://www.reddit.com/r/robotics/comments/1p5h29d/temas_pick_place_aruco_ai_depthmap/",
-      "published": 1763990915.0,
-      "thumbnail": "https://external-preview.redd.it/F4wDCIMIDWuU0R2jcayoDHSrVUAG3XbZcOHfcaqGE94.jpeg?width=320&crop=smart&auto=webp&s=5041baa1735e56529ceb1d7cc5254ccd9f17556a",
-      "external_url": "https://youtube.com/shorts/24reR1AUCiU?feature=share",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/33c3234b/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
       "title": "Trying to look for the closed form analytical solution for this Amazon bought robotic arm",
       "author": "hisenberg-up",
       "url": "https://www.reddit.com/r/robotics/comments/1p511g9/trying_to_look_for_the_closed_form_analytical/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "It claims to be a 6DOF but it looks like it only has 5DOF. First image shows the assembled arm, and second shows the transforms diagram. We are trying to find closed form inv kinematics solution and looking to see if that's possible or we will need to try for a numerical approach instead? Any suggestions appreciated."
+    },
+    {
+      "title": "TEMAS Pick & Place | Aruco + AI Depthmap",
+      "author": "Big-Mulberry4600",
+      "url": "https://www.reddit.com/r/robotics/comments/1p5h29d/temas_pick_place_aruco_ai_depthmap/",
+      "published": 1763990915.0,
+      "thumbnail": "https://external-preview.redd.it/F4wDCIMIDWuU0R2jcayoDHSrVUAG3XbZcOHfcaqGE94.jpeg?width=320&crop=smart&auto=webp&s=5041baa1735e56529ceb1d7cc5254ccd9f17556a",
+      "external_url": "https://youtube.com/shorts/24reR1AUCiU?feature=share",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/33c3234b/img/favicon.ico",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     }
   ],
-  "fetched_at": "2025-11-25T08:24:38.709243+00:00"
+  "fetched_at": "2025-11-25T09:14:02.840138+00:00"
 }
