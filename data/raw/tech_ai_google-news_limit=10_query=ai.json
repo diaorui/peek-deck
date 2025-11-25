@@ -15,14 +15,14 @@
       "description": "The project will add 1.3 gigawatts of capacity across new data centers, with Amazon expected to break ground in 2026."
     },
     {
-      "headline": "Amazon pushes in-house AI coding tool Kiro over competitors', memo shows",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbUNSQVlsWExIenRUeThkaTUxcGFWNzJHT0hUV0pVUzNrdm5TSWh6TDhWVkZ5N25QZ3dxdGUtWFU4bkp4ZVNkeTdaVEVPLTY2R2c4YnBsSm5xN21vQ1pvSjg2QWpPTWk2UU1LNUxYUGRnQkpRQ0V5TlZaZ1NEUEo0ck1ZV0JsTXdKWkRoNmhEQWNqSE9CbVJkOEN4QkJmUGVNMUNUYzRuS0kzWGRYZTNwV2gyN1F4OXBrTHBncVdNOF9nN0VEQUJoeGtkYw?oc=5",
-      "pub_date": 1764030840.0,
-      "article_url": "https://www.reuters.com/business/retail-consumer/amazon-pushes-in-house-ai-coding-tool-kiro-over-competitors-memo-shows-2025-11-25/",
-      "image": null,
-      "description": null
+      "headline": "Amazon to invest up to $50 billion to expand AI and supercomputing infrastructure for US government agencies",
+      "source": "About Amazon",
+      "source_url": "https://www.aboutamazon.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXZyVlFqeWJCODRWeXRwUTVJMHhFZkRmbFBOa0JXdmhfdFRzNmVCMkFVZDhNS0RfRnhMNDVlTW1YZl9DM1ROQUdVX2pVT2pOUVJxRXZfVUVhUjdFU1gzZ2tld21qeF9KX3FZZi04S05hOGZKZHo5cTNIMmdTSzhHblN0Ylpfc09uR21OM05WWQ?oc=5",
+      "pub_date": 1764000228.0,
+      "article_url": "https://www.aboutamazon.com/news/company-news/amazon-ai-investment-us-federal-agencies",
+      "image": "https://assets.aboutamazon.com/dims4/default/29a0af5/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc6%2Ff7%2F88fa6e81457bbb11c742465fe562%2Fabout-amazon-hero-aa-hero001-amazon-datacenter-bht-0318a-2-4715x2652.jpg",
+      "description": "Federal agencies will gain access to Amazon SageMaker AI, Amazon Bedrock, Amazon Nova among other AI services from AWS."
     },
     {
       "headline": "Amazon Is Using Specialized AI Agents for Deep Bug Hunting",
@@ -35,6 +35,46 @@
       "description": "Born out of an internal hackathon, Amazon\u2019s Autonomous Threat Analysis system uses a variety of specialized AI agents to detect weaknesses and propose fixes to the company\u2019s platforms."
     },
     {
+      "headline": "Trump directs science agencies to embrace AI",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc1NoaE9hM3ZDbEQzeGNVdUl0azZCdmYzdkdMN0t6R29CSmRQbjdyRE1rX1JSX3ZGMFFFNUtTclNlNUpKMmJmYndJM1Z3bS14YXlGSmh1Zm45TDFiX2NQVzN1VmhqZllfX2VOQUFEQ2didDJZMC1RTXBwN0wtSmd2Y3FGTnRLYXNkYVZUZVQ0YTNTSHowM0JUSDBn?oc=5",
+      "pub_date": 1764021838.0,
+      "article_url": "https://www.politico.com/news/2025/11/24/trump-directs-science-agencies-to-embrace-ai-00667318",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Will AI Be This Holiday Shopping Season\u2019s Santa?",
+      "source": "Vogue",
+      "source_url": "https://www.vogue.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQktLRnJ5UnQyTEVpT2VKMWJyeW1PTUFGTEhULTNsZW1kU1VxMXZiaEVfVEgtT0VpeDd6eGlJRE1VRVM3Uko3dTgwU0s5cWtZS0lqc201WkgtempuLVRIU21wLTh0OFYtaUkzWUdaaW41TGFqZnZGbTFoTm8tVU84Z1JB?oc=5",
+      "pub_date": 1764048600.0,
+      "article_url": "https://www.vogue.com/article/will-ai-be-this-holiday-shopping-seasons-santa",
+      "image": "https://assets.vogue.com/photos/69249951d6521caff5f518a1/16:9/w_1280,c_limit/11-25-25-CHRISTMAS-AI-social-newsletter.jpg",
+      "description": "This year\u2019s Black Friday period will give brands and retailers their first real indication of how consumers are adapting to commerce-focused AI search \u2014\u00a0and whether it could be a boon for Christmas holiday sales."
+    },
+    {
+      "headline": "Nvidia Shares Drop on Report of Google Challenge in AI Chips",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0FtcktKZTh1MzRmWjh2bFZxaFR5dWI4QWtTeC0yeTFjLWtxQ2k0Zy1DNVRFZkJlalY2WFBiV0pydHpFb1dFTDVHUGJMZVViVTBraDc2TFlLT1Q5cXZKQzVNQ3BQMWV3Q2VsNU9zTFB1a1FaTk9tV1U4bU1NbEV1blRQRUQ?oc=5",
+      "pub_date": 1764035160.0,
+      "article_url": "https://finance.yahoo.com/news/nvidia-shares-dip-google-appears-014603931.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/8h6yF5EElDlcmTt1_OlHXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/36dae82fb94fa44063186c1c8747020e",
+      "description": "Meta is in discussions to use the chips \u2014 known as tensor processing units, or TPUs \u2014 in data centers in 2027, according to the Information, which cited an unidentified person familiar with the talks.  Meta also may rent chips from Google\u2019s cloud division next year, the news outlet said."
+    },
+    {
+      "headline": "Why Google\u2019s AI Wins Are Bad News for Nvidia Stock and the AI Trade",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOd3JtSEE2MlZsZlQ5RmF6WG9zRzZZTWdSQTBMYkN1Y2MyY21oMmV6NVFZZi05bVpxOS1PQmhaTWk5Ti1wQjhWRFlDYm0xNHZkM21vQkhZeHhXQXZGbTlyM0ktWU40WGJaLUtTWTBIRUVlanNBbTV3azhBYkNjYkdKdXlPUmIzWDZpc2ZHM2RiZ3RxVU5GUHRmbEhkenEwcV9yVVVxMFltSnF6UnZhZzBadzVwQUFiSkR0S2dEMVZIVTU4ajF6LTVjM1RMVWFWY2VzUmVRY0FRb090akh5THh1WTBad2NiSEQzcEtHWXRYUTVKbGZZY0ZjeUM5bXB6aW5DYTUtdkwxTTVKNHE0SWpNbmF5RUI2c1RxdWZja3ZCUVpKSWl5Wk1NUk44d2oycW9pa0RvemhUM3RKRGxEZ0dXZ0xkNEt1MHYzX19feE1JNkVUMWY0U0RfSjdZZmRucjg4ZFhiTy1jQVYzVFY2Q0tYcjJRRk01bkdlOTJJbQ?oc=5",
+      "pub_date": 1764020640.0,
+      "article_url": "https://www.barrons.com/articles/ai-google-nvidia-stock-tpu-84753c55?gaa_at=eafs&gaa_n=AWEtsqcnUFNzbTWm6SGL1rCVqXRZxxYSpTqahLnuQ9r-xtL8VHIlDbZmeaNu&gaa_ts=69255308&gaa_sig=d3hGZCzam1K7MT-jmo_JwijG0xyO7oBWQu3SJEyiQaO3RGcgBRiIQV5wQo0B0iYBpL_qlrQXWx4emmVir0tfuA%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Google Further Encroaches on Nvidia\u2019s Turf With New AI Chip Push",
       "source": "The Information",
       "source_url": "https://www.theinformation.com",
@@ -45,66 +85,26 @@
       "description": null
     },
     {
-      "headline": "Why Google\u2019s AI Wins Are Bad News for Nvidia Stock and the AI Trade",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQb2NjaHJFVkhidnFQS1BnbElWbEI3eE50VTZnelRSdkFNS3dZV2E0YW5saWt4MU5DZENoTm9xZ1c4bFdCMWNTemVvdTVVSmpyYU5kYTcxVE5SOGVqa29RZHBKMFBFaFZ0NHlRLUpKWUVaelFSd0tPY05RSTVNYVNieWFBQ1doeG1ySVpoWXQ3U3NCQ1ptYV9ndEp3ZzB3N24ySzRXcW9DM3ZRa3dybW84NEJhdFlQdWdtaVBOVTQ1azZRTmk1OEc3eUliM19QZlpudG40SmJyN2FxcUk0VGxVXzlURGlNTUNXOEZnUzNCc0tsNGFpM2VuTTloZGFUMV9JdTUtdDhnVE9JQ3FrZ25IczVncVU0Z05vSzB5VkRTUUdfU0hvMzNkdHktQy00X0pvOEZ2dWlBVEVZRzI3TWRXaElFZ3NoTUthbFZmRE1tU3RBaXFxTDcybmxLNFRrTUdpUEhiVTE5Sm8yZ3psank2dDlLMEhKVVlEMWpUUA?oc=5",
-      "pub_date": 1764020640.0,
-      "article_url": "https://www.barrons.com/articles/ai-google-nvidia-stock-tpu-84753c55?gaa_at=eafs&gaa_n=AWEtsqfxqD1z93VGV4-NN0wQP7WR3M4oVxfDhufaMFYb2nRkNkMzzc7-gBZw&gaa_ts=69254232&gaa_sig=PDfMJuk4zmNtPL3tOnMLzsGTsRwuZh0S9H-EczTHmXwpJZmBS0PAt5ht75IhbsQnOMBRudE9wp0w2k1XZb1v3g%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Google In Talks To Offer Its AI Chips To Meta; Nvidia, AMD Fall",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYmhvYXBQeGJsTzEyX3RkcWExSHI1Tkw2T19WdmtwTDdCTnE3dWZEbUZmUVYxT25CV0l1NGFfdW1JYUdkLUNuazAxUmlyTWZEdmozUVhXU2xtZXF2RTNndU1vU3NSakFkSkZvcDZoS1RsQV92WUJ0UFp3M1FGMXFRcUZWMlNrY3hsdVpn?oc=5",
-      "pub_date": 1764032820.0,
-      "article_url": "https://www.investors.com/news/technology/google-in-talks-ai-chips-meta-nvidia-amd/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The case for and against AI-driven SEO in the zero-click era",
-      "source": "Digiday",
-      "source_url": "https://digiday.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjRvcWNrNWwzbFJvYVFOMWFnMndRSWpabXNkM3FVb25WR2tTRzdnMlNRTVlFTVR0aFJmdWFmNEkzX0ZQSXhoam45M0RWVHc0WkdmMGYwWEFuaDF3a09hR3RxNHBIMG1VbENNT29zQ1JIMFJLd1JSd2VwTnpZTEg2d2VkLS1tS0NFR2ItVFpJS3FvQnNveEE?oc=5",
-      "pub_date": 1764046893.0,
-      "article_url": "https://digiday.com/marketing/the-case-for-and-against-ai-driven-seo-in-the-zero-click-era/",
-      "image": "https://digiday.com/wp-content/uploads/sites/3/2025/09/ai-effects-digiday.jpg",
-      "description": "As generative AI reshapes search, marketers debate the value of committing (or overcommitting) to an AI SEO strategy."
-    },
-    {
-      "headline": "McKinsey explains why AI won\u2019t take your job, even though it can already automate 57% of all U.S. work hours",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaU0yell4RWJveXdvWEdzWHNvSWducmtXMUo0VlVNSk04U05FTGQ2QVdjUnUzUGZzbW9WNHNVNkVhMTdaQU5ScXJFSjJLc3ZvSzlZZEQ2QzQ4LWdrWVZuSFRySkpFZVg5Q3lqbExXWTM3dWlJSTJPU0o2MzJuZWxKRGppTGt4ZUl0bkJlU0VyZndXUHRhWWtZ?oc=5",
-      "pub_date": 1764046860.0,
-      "article_url": "https://fortune.com/2025/11/25/why-ai-wont-take-your-job-partnership-agents-robots-mckinsey/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-738777065-e1764023095316.jpg?resize=1200,600",
-      "description": "The fastest-growing skill in U.S. job listings is \"AI fluency,\" seeing a sevenfold increase in two years."
-    },
-    {
-      "headline": "\u2018Sovereign AI\u2019 Takes Off as Countries Seek to Avoid Overdependence on Superpowers",
+      "headline": "How the U.S. Economy Became Hooked on AI Spending",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNSXBOVWVHT0hJMUpmMThFdEk0Z21lUFRXYjFrWWJZVjBPVFFDQzNpVmNnYWpqR09fYUZGblhLLUJNYkl3VGl0UzlKNWxEbFhseFJGUFMtVS1US0pueE5Ra0E3MzZBamRSak5XYzl5VGh6cndJM29KVGhnUENIdm1PLTlyZmRmaUtMVEdFZjhQT2R1MVNRRjdIZ1ZkMVBJYUdqc2R3YUZSZU55QUZOUDhjUGllY3N5UW5VbktMSDRob3JxTlNZNzZBX1VuZ3NzaFJScXl1cEJtS3haTGYza1hxbUpkQzlDOV9tZmE0LUR6YmRJdjdOWUxLU0xxa0Z4cGYzWU9iU1U0cU5VTk15eWkyX0d0OUNFTTB6ZE8zXzdoSjgyNnR6SXg1dldOdWYzZUxhMVZJQ29rQ1pCVXNTdUpWWTBtdHExZXlpN2ZERDVjd2lqYXhnS2E5Q3FEWU9wSFZ0Nl9Fc1d6cGNsLUVmNkRzcDJnZ192aGJac2FXUlQ5Z3l2SXJrT3pZbGNWU0l0cXgwZXczSjltSU5RSHl6Qi1iVkpHVl9IZlRrQlEzY09nTFVScUpOSm1odnZDWDc?oc=5",
-      "pub_date": 1764043200.0,
-      "article_url": "https://www.wsj.com/tech/ai/sovereign-ai-takes-off-as-countries-seek-to-avoid-overdependence-on-superpowers-6b1689f7?gaa_at=eafs&gaa_n=AWEtsqd63cwkFhfntPPEQvIFyCXlzuM9TXiezIuvZyhRFOqV6g3y9ydFmT-N&gaa_ts=69254232&gaa_sig=MhfiXKXSz37CvoytOBVqHi88hO8XK07aa-dKMgXfX_Dff31NVRSuJ0Qoo6o7bahSDnIdB9X__kMUsKgVxAhHZQ%3D%3D",
-      "image": "https://images.wsj.net/im-60425344/social",
-      "description": "South Korea and others believe their homegrown tech sectors are strong enough to build up their own AI capabilities."
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNaFZWODVVUUJBWUV6bmEzSVJrem1YemtKT1c2WkxuTzhPU0I2S19wVUE3dDgtSGVUSEduV3M2M0dLY2NrbzBHYXVCdnVrSVVGcXg2cDFIb2RvUE5FSUthdWxOTkhxellfMFdDTzQxbXdfNXJsSFloak1tZy1uTkdDQVlPdE80QVM0ZUliWHowbklOREFEOWdaUTE2clZueE4xYndYNHVGRFVCZjMteXJUTy1SVndKcGVZRUZId0s1bkZDanI1c2tQYWU1dTlLOVFiNFRsOXJGOGpCVE83OVBzdDNhWW9fMkctRHVpSmUwVUR3RkhYUUN1Mzgxb1JlU0J5NXdSQXdEWkktZFpWS1pFSEpPa1ZKYzZFa1pHNHpWZ0FFZC01NFpyT3VZZkNELVdqYmpoMTJjbVVTTkJiOEItUHNVbDVLYkpSWTdkWDV3czZ4cFFORUlJRzBNc01DaG56U1RxT0E3QUNvQjg3YUNEaHNNYmZlYTNEeVNFcGJkNkN4SEczb1lDNVBhVFY4Rm02NFM0?oc=5",
+      "pub_date": 1763980200.0,
+      "article_url": "https://www.wsj.com/tech/ai/how-the-u-s-economy-became-hooked-on-ai-spending-4b6bc7ff?gaa_at=eafs&gaa_n=AWEtsqcHcyHUlBO4adhSBUBPXRc41wdHdPdn47apXaSGaqKQgnJodxregHyQ&gaa_ts=69255308&gaa_sig=7TC32CcpRIpax6S-kH3G8KAlJWeOutG-rh-1ITFOreJxIS2sDJ_0mwH6bMMWH3cZeXg24CGlqb0XiyQvO3XFtQ%3D%3D",
+      "image": "https://images.wsj.net/im-03915609/social",
+      "description": "Growth has been bolstered by data-center investment and stock-market wealth. A reversal could raise the risk of recession."
     },
     {
-      "headline": "Trump signs executive order launching Genesis Mission AI project",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjNCSXpKQ2ozYy1hd1hTQTRpV1ZBenRKX3pPWjhaYkprUnpPQy11bjUyN0ttc0NpVVZ5dFhfeW15WDlJeExST3lfRVdUdENVa3dMNnpxQzBxNmQ1b3ZYeW0xRHM4UHhmWFhreFF3TDVMeTJjRWU1YzRDUloySnZabzNXcVloRUJtSWNLUXZlLXhIV3hMVERGN2JkdzJGMjNBT19ORHdYandOWkZxZGp2aHVTejPSAVZBVV95cUxNek5OY1dBZUNReDkyQ3hMOWtFV2x3MzJiSkp0Rl9mOXZXRUNKYi04aW4zV0VhcEFyX0kwYWpncHQ3aXdQSkN6RFJSS3IwSGJoRlRvdnMtZw?oc=5",
-      "pub_date": 1764024780.0,
-      "article_url": "https://www.nbcnews.com/tech/tech-news/trump-signs-executive-order-launching-genesis-mission-ai-project-rcna245600",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251124-trump-rs-aae677.jpg",
-      "description": "The order announced the \u201cGenesis Mission\u201d for AI, a new federal push to mobilize the federal government's research and data to create artificial intelligence models."
+      "headline": "Scientists say they've eliminated a major AI bottleneck \u2014 now they can process calculations 'at the speed of light'",
+      "source": "Live Science",
+      "source_url": "https://www.livescience.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbG1taXViUlFHT0FFYVh1SjdicV9oOGZzakhDUGtDM3Nvblc3X3RNdnFVb1QxOHFiaWp1T1B3UTg1N3VnSnNQamZyZjdUN0Qzc1RZS3VxMW1QRVJaZ3JwMHhfZ0NiVkVWLWNDeVo0ZGdHdjFRaXBzTEJsaWZRYXQ4aGNRWUNVeFVGYzZDLVF0Z2pDSzFxbk0xX3NncUpuSFdFNV80V1lwd2xfTlFrZzZhVkUxMXpMYzhUZ09mbzBTOUF3OW1LWVRDcnJ0NExLNlpadmxHVTI1M1JBa2FkajNna05BTkczT1BfZnI0LTlfVkk?oc=5",
+      "pub_date": 1763985600.0,
+      "article_url": "https://www.livescience.com/technology/computing/scientists-say-theyve-eliminated-a-major-ai-bottleneck-now-they-can-process-calculations-at-the-speed-of-light",
+      "image": "https://cdn.mos.cms.futurecdn.net/UaZw3uquibn4F6ZgG73mpT-1920-80.jpg",
+      "description": "A new architecture replaces traditional bottlenecks with a passive, single-shot light-speed operation that could become the foundational hardware for AGI, scientists argue."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T05:29:44.668224+00:00"
+  "fetched_at": "2025-11-25T06:41:35.795416+00:00"
 }

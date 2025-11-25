@@ -5,24 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Ethereum Treasury News: BitMine (BMNR) Bought Nearly 70K ETH",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTVJXVk5NTy1uWUh0TVZvMDlYRERfdTFxdE8xOUYyMlJQUS1EVTRfUXl3UlQtaDFxX0haSTFzenROVTMtQ1pqUlBMTUhrelY2RmFlU2h2ZE9vT2N3SXdsd3hNVC1ad3FyN0hsOVpfSEJBWDZoLWRyOE8wUzlwZE5XamVvT01kUDQ3NW52VUlscG5UTHllVXA2aHNOMFowMmgtb1A0UW9hSGlYUEFURFRoSnZhRjROYWVDNWtNU2hMc1A?oc=5",
-      "pub_date": 1763995079.0,
-      "article_url": "https://www.coindesk.com/business/2025/11/24/bitmine-immersion-added-nearly-70k-ether-last-week-now-holding-3-of-eth-supply",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/13c2f3d8f4a14835d564bac5cf5d5cdd106bdcfd-1919x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The company increased its crypto holdings last week despite sitting on around $4 billion in unrealized losses on its ETH bet."
-    },
-    {
-      "headline": "'Privacy Is Hygiene,\u2019 Says Ethereum Creator Vitalik Buterin After Bank Data Leak",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUplRVB5VHN4WGM0S1o2c3VHN0ZEdWZyODIxdmh0WVRORC1ZLUpnWS1Pa3l2S2M5RTJXRkUzNEYwaGl0VFk0WU5pSmxMMGJVWGNqaktuS2xqeVlFVW9pV0pzdXBLV2xyLTA4NHdsTW5RT1NxZWlhN2t6NXY3Z0pYYm9YLTlYR0JNZXhpWnNuWENqM1IySjM3VnFuX3gyYlQzamd3XzF30gGuAUFVX3lxTE9SNUtCNUdaellrTU94eXZPLUR3SXdnVVpDOFV4M1VwcGE3NWgyRUdJVjJZbFRNZG13V3ZkV2RGMFBzdHpVZ0x3VFlyaEN4TktqNkhnUEp0Q2RTWXIta1U5WFA2TkNobmplNjJiVGZQYWhfTnhERWY2ZzJHS0JnVVgwSEhtX0k1WUFKZ0RjREp5QmQ3Ykhwc0NidWZDZzdFSUFJbG11TWZibW10akJDZw?oc=5",
-      "pub_date": 1764007525.0,
-      "article_url": "https://decrypt.co/349864/privacy-is-hygiene-says-ethereum-creator-vitalik-buterin-after-bank-data-leak",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/vitalik-buterin-ethereum-decrypt-style-05-1-gID_7.jpg",
-      "description": "A major security breach impacting U.S. banks has renewed debate on privacy as interest in crypto privacy tools and protocols grows."
+      "headline": "Largest Ethereum treasury BitMine invests another $200 million, addresses recent ETH price decline",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQUw1dU82dC1PaDBCTWlCN01taWc5RVVKNHRDaFBSZ0hBT3Jid1Q2WXFubXFzVWRCOUVBWHo2SnRzRk9aQVpGYkQtRlpTNVFDaXRFdDJFTWs4ZG44ZXlMM0Rrck1nMmlPTGZhVW5RSC0wSWp0a2tkY3JfLUJ4SFNqMlI0d3U1Yzdkbmo3ZEZwN3R0V0hBUWRlSUhzdFJzdDFyXzZPTFRyNExiaEQ5cDZXYmdqU0tRek10bnJjaVcxNmluRmpqcTktdndRM0fSAdIBQVVfeXFMTXQ3Vm1BM1pGYUh5bWN3cVY4bWRMdEw4WTZXbVhQLTFmVkRuN3ZYalpzQkwyVk1fZmJWSTJmbS1GNlZzX0FtdnBuZXotLTlfZTczTldlbTJrWHRiZ2JQczJyR3Iyb3A2Z25MQ3QwUXFOelRpX0tzcG5rc1k3SnhVeHlXLWh0ZmM2ZFJTZkRfQzE3SXdWNWFhNnZqNUJPd2xQcFBGVFR4Q2tvTjNhYjU5Qzh6TUZFeVN2YTRSVmlfdzNiOHZWVi1hWjdhR0lXSkp6SE9B?oc=5",
+      "pub_date": 1763994878.0,
+      "article_url": "https://www.theblock.co/post/380159/largest-ethereum-treasury-bitmine-invests-another-200-million-addresses-recent-eth-price-decline",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
@@ -43,6 +33,16 @@
       "article_url": "https://www.binance.com/en/square/post/32731404517313",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "'Privacy Is Hygiene,\u2019 Says Ethereum Creator Vitalik Buterin After Bank Data Leak",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLUplRVB5VHN4WGM0S1o2c3VHN0ZEdWZyODIxdmh0WVRORC1ZLUpnWS1Pa3l2S2M5RTJXRkUzNEYwaGl0VFk0WU5pSmxMMGJVWGNqaktuS2xqeVlFVW9pV0pzdXBLV2xyLTA4NHdsTW5RT1NxZWlhN2t6NXY3Z0pYYm9YLTlYR0JNZXhpWnNuWENqM1IySjM3VnFuX3gyYlQzamd3XzF30gGuAUFVX3lxTE9SNUtCNUdaellrTU94eXZPLUR3SXdnVVpDOFV4M1VwcGE3NWgyRUdJVjJZbFRNZG13V3ZkV2RGMFBzdHpVZ0x3VFlyaEN4TktqNkhnUEp0Q2RTWXIta1U5WFA2TkNobmplNjJiVGZQYWhfTnhERWY2ZzJHS0JnVVgwSEhtX0k1WUFKZ0RjREp5QmQ3Ykhwc0NidWZDZzdFSUFJbG11TWZibW10akJDZw?oc=5",
+      "pub_date": 1764007525.0,
+      "article_url": "https://decrypt.co/349864/privacy-is-hygiene-says-ethereum-creator-vitalik-buterin-after-bank-data-leak",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/vitalik-buterin-ethereum-decrypt-style-05-1-gID_7.jpg",
+      "description": "A major security breach impacting U.S. banks has renewed debate on privacy as interest in crypto privacy tools and protocols grows."
     },
     {
       "headline": "How Sharplink Is Reinventing Itself: Earnings, Ethereum, and the Future of Gaming",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T05:29:35.314676+00:00"
+  "fetched_at": "2025-11-25T06:41:27.578681+00:00"
 }
