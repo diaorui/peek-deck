@@ -5,16 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin plunges while gold rises, destroying the crypto \u2018safe haven\u2019 narrative",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaTZOb25aVW9ONjd1akdWcHdVdUQ1ai12Mm9tQ3NFNGlVbVk4VHV3SDFZbWNIZmxqTGdDd0prSHdyTHZHal9oVTdSUGREMERmZ09pSmJjcjhDaHdNUlBjdVZSSEFSUEU5Z0lPTUt1dE11OG5OTHZydHZGbVlneXhwR1pB?oc=5",
-      "pub_date": 1764073080.0,
-      "article_url": "https://fortune.com/2025/11/25/bitcoin-price-gold-safe-haven-narrative-over/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-1324553383.jpg?resize=1200,600",
-      "description": "The lower Bitcoin tumbles, the less it looks like \"digital gold.\""
-    },
-    {
       "headline": "BlackRock's iShares bitcoin fund sees record exodus as crypto heads for worst month since 2022",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -35,76 +25,86 @@
       "description": "Exchange-traded funds investing in Bitcoin are heading for their worst month of outflows since launching nearly two years ago, piling yet more pressure on a jaded crypto market."
     },
     {
-      "headline": "Bitcoin Erases 2025 Gains: Is $83,500 the Next Stop or $120K Recovery?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zUVNwTTQzUFduZi1VRWZTVWNIdk8zWWo2V29lTi1qeVIwSGtBbDhUWUNtdVZmbjhvUnNfRXB5azBqVTdCbnJkcEc2V054MEtvaHl1Q2Z1RmRlWHlaN1R4ZXdjRWtvNVVLYXJ4aGloTFpsRC1ZaVBLTlltR2Fqbms?oc=5",
-      "pub_date": 1764096408.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-erases-2025-gains-83-184648891.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/3EpxDG6t4AYjgVtEKnfv7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/24_7_wall_st__718/8f0c481fcbf5e68bad448d0b2ac15356",
-      "description": "Bitcoin (CRYPTO: BTC) has given back everything it gained in 2025. The rally started in early January and peaked at $126,000 on October 6, but the Bitcoin price erased all those gains over the past six weeks. ETF flows reversed, miners sold into weakness, and macro conditions turned against risk assets. BTC briefly touched $81,000 ... Bitcoin Erases 2025 Gains: Is $83,500 the Next Stop or $120K Recovery?"
+      "headline": "Texas Becomes First U.S. State to Buy $5M of BlackRock\u2019s Spot Bitcoin ETF",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12cUFIYTl6QWpOVkNtUGd6Z2JucEtwdmZoTUs3OWt6a0k2ZFNzRjBDNnJYdnppT3o5NHhXSGhEOXhNek1ncDI5S2Nmc0xjMmNqcDkxbzJNUm1RaURJZHdpd05sYUNaYjkyS2ZUY2hWeUhQS3pI?oc=5",
+      "pub_date": 1764101561.0,
+      "article_url": "https://bitcoinmagazine.com/news/texas-buys-5m-of-spot-bitcoin-etf",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/11/Texas-Becomes-First-U.S.-State-to-Buy-10M-of-BlackRocks-Spot-Bitcoin-ETF.jpg",
+      "description": "The President of the Texas Blockchain Council said that Texas recently bought $5 million in Bitcoin ETFs on November 20."
     },
     {
-      "headline": "Metaplanet Reveals Yet Another Move to Add to $2.7 Billion Bitcoin Stash, Taking $130M Loan",
+      "headline": "Bitcoin plunges while gold rises, destroying the crypto \u2018safe haven\u2019 narrative",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaTZOb25aVW9ONjd1akdWcHdVdUQ1ai12Mm9tQ3NFNGlVbVk4VHV3SDFZbWNIZmxqTGdDd0prSHdyTHZHal9oVTdSUGREMERmZ09pSmJjcjhDaHdNUlBjdVZSSEFSUEU5Z0lPTUt1dE11OG5OTHZydHZGbVlneXhwR1pB?oc=5",
+      "pub_date": 1764073080.0,
+      "article_url": "https://fortune.com/2025/11/25/bitcoin-price-gold-safe-haven-narrative-over/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-1324553383.jpg?resize=1200,600",
+      "description": "The lower Bitcoin tumbles, the less it looks like \"digital gold.\""
+    },
+    {
+      "headline": "Kraken Launches Bitcoin Rewards Debit Mastercard Ahead of Planned IPO",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRVNzY180UldlTF9fbmtRUE4xRm5qSmt1SGFVX1pVSXR5eG04V1BPb2p1eURaaTd4eXZrMEtVSkJpSC1mYlJXT3BsNnh5aVpieDVNOENHQnJwd0llZVJkMzZRNzhMOV80c09EM25sWnNYNUxGcFpsMGVLY21QOUNILUpEamLSAYwBQVVfeXFMUFJxckxOc2xqVDBtQnFteHpmdTZHM21Ud2p1TTZTWVg3ejhLNXdGSVJCazhZY2ZYVGJHSGI2RHloc0IyLWZDcEhiMm5VTnhFb3hNa05UaDNBZ2lwUmtCRW5McFJzdkxrNkZaOTNmeHZWWU02Y0hMN0tTQi1faW1iUGlSZkQxb3gtVWh2dUY?oc=5",
-      "pub_date": 1764096956.0,
-      "article_url": "https://decrypt.co/349997/metaplanet-reveals-move-buy-bitcoin-130-million-loan",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-15-gID_7.png",
-      "description": "Bitcoin treasury Metaplanet has announced a new plan to buy more BTC: Use its holdings as collateral to take a $130 million loan."
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNclNPQVc5QzVMb2NvWnZuMW53d2RtRTBtM2E0TjZTRlpYcjNGNlpwU3JfQlVROVJMV0VlN2pHSFJTN3h0SHVQSnlZU2ZIcDlyTF9Gd19pNEU2TkJMU0N5ODJYOFBYcXAyVlZBR0piU1BTaURUajAtUEVVQVVwVml5eS1BN1M3cDdubklIc09KVdIBlwFBVV95cUxPdGJHUXBCZWtBWGh0RUNWd2R4OF9oZG1QcWtudVlGUnNxREpWbFp0aDdQQV9aak51bFR3UThBR1QtU0hDQWdVeFlRSnRsbEdIVVNkeTFhcDFrSXBpWnJHSTV1RG03Z0lXVE8wTUNHdDhzb1N4UjY4NkVWdGFVcS1HWkZjam0yT0k4UGdfWWpFWEUwLW1wSFpz?oc=5",
+      "pub_date": 1764101774.0,
+      "article_url": "https://decrypt.co/349996/kraken-launches-bitcoin-rewards-debit-mastercard-planned-ipo",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/kraken-decrypt-style-01-gID_7.jpg",
+      "description": "Kraken unveiled a Bitcoin rewards Mastercard debit card that links to its peer-to-peer payments app, Krak."
     },
     {
-      "headline": "Metaplanet borrows another $130 million against its bitcoin holdings to buy more BTC",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sWUt3c1lLU2Z5ZDk4anBwRW9IQ3dQOE9ZeV9FWFk1S3lsNUxVajNGa3pIaGFVb2hibGowbFJmSFd4N0RqdG1PeGxnZ0hKNlRxSnlNcjhDTjJ1Q0gxaHdGSk1vUTBzQ3QtblZr0gFwQVVfeXFMUFBpWHB0a09kd19TeEtCRWlXN01PbkZIVVpKd3prVEQ3cTd6bnJUcDllZWVCekJzbE00b2czQ2VtMzJ6c2pGZ3RsdktyZG5uNzk1X0MwNklydk5Xa3JJUE0tRW12SEdWcDRlWjZjV0E4cw?oc=5",
-      "pub_date": 1764070213.0,
-      "article_url": "https://www.theblock.co/post/380347/metaplanet-bitcoin-loan",
+      "headline": "Bitcoin Tracks Stocks Higher With Crypto Traders Staying on Edge",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcmtUOXlSMW4wZHFUVDZ4UnpTbzFtdUlITUcyZnJRcUNTbUpMd3M0QzRwYjh5TW9LQk9SV052eG9pUzEzVzdSSlhSMm1xcklEMlk4YXVIZWpBN3BqZ1poTkNOeWlVVkowdDRKbkdsTHRXeF90eG5wcWdEZjNvU05RR1U3b1lNMjl6NjVLOGxpVmw?oc=5",
+      "pub_date": 1764009911.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-weakness-persists-crypto-steadies-174420489.html",
+      "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/60abe88dbd4f312902a6f373423a3152",
+      "description": "The original cryptocurrency began to recover over the weekend after slumping to a seven-month low of $80,554 on Friday.  The wider crypto market is in a pronounced slump despite surging institutional adoption and a series of policy wins pushed for by US President Donald Trump, who has embraced the industry.  Technology stocks drove an advance in global equities on Monday as traders kicked off a data-packed week more optimistic that the Federal Reserve will cut interest rates in December."
+    },
+    {
+      "headline": "Bitcoin mining in China rebounds, defying 2021 ban",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjY4QU9vbS1nM3VydFpkb2U4d0dKYXZjLXFqUzhSQUljbDRrejJfeDhINmQtckZlaTVKTWtsMFpWeG9sczBab1N2bFFWQUhFc0FjdlVhUDIzekl4bDZsZzdFSWdCSW9MOE5jeXBTUGtrRTBRTHRidjVsLWlkLXA3VEZLbXl6RERXaUVUcU1IbVlCdVBHTzJrQ3BNdFBZZ3N4cnhv?oc=5",
+      "pub_date": 1763975155.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/bitcoin-mining-china-rebounds-defying-2021-ban-2025-11-24/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Metaplanet Expands Use of BTC-Backed Financing With New $130M Draw",
+      "headline": "China Returns as Third Largest Bitcoin Mining Hub With a 14% Share: Reuters",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbkZDMEhWU0F0aThZX1JBdG11c2NibnpxX01lNzJKcWZKdmVPTUxlRzRrcFNmTzhGUF9YOE16b1dKSGlKRlNIN0ZBRVVTRFhDdC13amxnUG1TbnYwQjQ5OUozWm5KUFQ1S3lIMEZGaGpIZFRlUHhCaW1rVFIxRDdPb0h0ZmNwam1CQXBGR294M1YxcHZzT29GU1NvMEQ0aXgwLWtybzhzT2ZXTEREYnJXYlZuNl9xNFJuS3N0cVo2VHY?oc=5",
-      "pub_date": 1764068755.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/25/metaplanet-draws-usd130m-for-further-bitcoin-acquisitions-under-credit-facility",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGlhZk9YUGhmZVJDVEIyVFpZY1V2N1hSUjdPRXdJNm5sV3RoOS1RcnpleE1fUk1PZDdaczA0RWpzQXh1SHNWYl9nbHkwNk9KQVd0aE0tU2hvNHBmLWRfVlFNOWVvdWpsVjROQkQwZGlQcXh3Y3pBWjl6MUtXeEpjQkhicEhrUTFrX3VhX1htd3psTjZ0dmNLZmlWWUptY0RFZGJCb1laQTU5YXFxSkJROHJ2U3lLY2V3?oc=5",
+      "pub_date": 1763980960.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/24/china-returns-as-third-largest-bitcoin-mining-hub-with-a-14-share-reuters",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/604b0fc743ca409ef9b9240c3f4446fe92e312c3-1000x667.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "Underground activity expands as cheap power, miner demand and softer policy signals support a renewed mining push in key provinces in China."
+    },
+    {
+      "headline": "Eric Trump Gives A Sneak Peek Of American Bitcoin's Mining Facility, Calls It 'Living Proof' Of Tangible Nature Of Crypto",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9na0Q1bDBhUlU4c2VzR2VnMmdpLWRFRTFxUGpIT2t0eXlnWkFsSTFFRjQzbHNUeUVKRXV3RjNKY2RlVDlNY25LQ0hON1BJdFcwMEUtQmNudWlyQTVaMnJZOG9PaVJMQy0waFdxb3Q5NFppZkp4akVBQi01Q1dldw?oc=5",
+      "pub_date": 1764099065.0,
+      "article_url": "https://finance.yahoo.com/news/eric-trump-gives-sneak-peek-193105035.html",
+      "image": "https://media.zenfs.com/en/benzinga_79/d7ad00238d71d2170b3bfe4a4fa18638",
+      "description": "Eric Trump, co-founder of American Bitcoin Corp. (NASDAQ:ABTC), gave a virtual tour of the company\u2019s Bitcoin (CRYPTO: BTC) mining facility in Texas on Monday, Trump Shows \u2018Tangible\u2019 Crypto In a video posted on X, Trump showed around the facility, ..."
+    },
+    {
+      "headline": "Bitcoin Tries To Find Footing; JPMorgan Upgrades These 2 Miners, Cuts Targets For Others",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSlpHaF9ObkRkak16bGNYZV9icDg3LTEyVUJBbkNfTmFqVW9sRkZtU25ZdEtZVEZRYzZMdjdRVU1aZ3AtMzFBb0daSGFOVW5mUFlTekYzcVo3MjAyQnJfak5iMTBjUFVpNEM1LXN4VElpazQyMlRLRlNlWXQ1STNqQi12NmI3bjh4VU1aTzI1VFFUSHA3MFJkQWwyTzQ?oc=5",
+      "pub_date": 1764018480.0,
+      "article_url": "https://www.investors.com/news/bitcoin-jpmorgan-bitcoin-miners-cleanspark-cipher-iren-mara-riot/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin is in a bear market \u2014 why it\u2019s still too soon to buy",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPbGVZamVHSlNaV1BfRnRXYWRqWGxSMVpBQmdMcHltdWprYTl5NDktenpMSEdPNGVUcFpiaWVlQnVfei1EamprSElHMGEwOWFoZVVzYjZfbzlodXg2VTBGYmg1emdaV0hhUk1kSWN6Z0U0c1k3ZGlsVGVBb0dXaWFwb3dxTUhkWEgydHNuejdNTmdiSFkzLVlVSnFVOFNsSUdlM0tucTBtN3RBTGY2YVBrRlYzY19ZT1MtY3Vnd0ZyOWhqZjk3T0lGRHJ4YWp3aUNQLWo1S3ZUR3VYaHRNeHdBWnZwMEZ4YXItNkw4S1JuQkVZdUsxNHJsaTBnN3FCbHYwbUJGbEZsZUpGOTE3bjA2dGRkMnBnZElBenVJbV9yNTJzQko3UVRxMlhpTlBTeW84TzNsZ19LMnFYVVY2dk5IMmZmT3dnYWd5bVJCakN0Q1NuUzRydW1vVUdQZzBENUdVeU1KRzM4aV9iNklYT2hDQ1haMjJyTnhRVFZ5N2xJd2pxVENVUDBQSE45c2Y5S1pQRllYT1hvZ1duUXoxN3pUekI5ZEx3dzJtem1aLVZ4Ylc2UQ?oc=5",
-      "pub_date": 1764085500.0,
-      "article_url": "https://www.marketwatch.com/story/bitcoin-is-in-a-bear-market-and-its-still-overvalued-by-almost-40-e979e1ba?gaa_at=eafs&gaa_n=AWEtsqfP8rpl_htULaxSOSPI61rjq6-jf3Cm0aRSiYea3xSXvBqwCdAJg3aC&gaa_ts=69262100&gaa_sig=RSjrxIHJg5TcI-8x82jXHCOb_gd5RfxKVS966SV7LzY_vaQJuO7HT-f7xtmCzU-CaOzonSvS_i6M9m49IYxQlA%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Michael Saylor's MSTR Appears to Have Broken Six-Week BTC Buy Streak",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFRfYVRBRUZJWnVVQ3gyeVY5X0ZwYy1kaTlESnRkNzlzdV8xWVFDZm95bVBXcl9HRHk5ZzdLejNWT29jUzF6SjBoLWNxUWpBeXRabkdSQkt3b3lIWjZJQlVpa1BFVTRqaUJhYWxSZFd5QUYwazJyRW1UbzQyT2toVjNDc0h5TUhXV3c4QUdTMFBoSGhFUU0yTXpqRzdtYk1CRUVn?oc=5",
-      "pub_date": 1763990874.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/24/strategy-apparently-paused-bitcoin-accumulation-last-week",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d66c28dbeddf1c6982599b72d1bc711e00f296ed-1079x1079.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The company's stock valuation sits near cycle lows as index exclusion chatter grows."
-    },
-    {
-      "headline": "Will Bitcoin\u2019s Dive Threaten Michael Saylor\u2019s Strategy?",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLW5yOUNwS2N1REhJWnpYZVhleWxObW41b3AtWXlhZm1EeUd1TjhRMS1mdS1HMlVqaU9SaHQwTE8zdFBNWVNuNDVYaDl2TWhudUxzNWpLUnV3X1plN1JxekljSVdnUVJ4MDh2MHVBQmQyVV9WSUhWb1RubE9TWkgtLUhvZEZDc1doVU5KV3owbHZVbkhTNEF6WGx1ckZ5azc2UTJXLVo5eFUxOXF1?oc=5",
-      "pub_date": 1763996400.0,
-      "article_url": "https://www.forbes.com/sites/ninabambysheva/2025/11/24/will-bitcoins-dive-threaten-michael-saylors-strategy/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6920df2dced0591f9526df64/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "When your entire corporate game plan and the investor base you\u2019ve cultivated revolves around the rising price of bitcoin, a 35% tumble in a month is cause for alarm."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T21:20:15.366267+00:00"
+  "fetched_at": "2025-11-25T21:57:58.824604+00:00"
 }

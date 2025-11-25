@@ -8,9 +8,9 @@
       "description": "NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard",
       "url": "https://github.com/NoFxAiOS/nofx",
       "preview_image": "https://opengraph.githubassets.com/9ba5f7e4ca1bf7079776fe1839ddb80d9da0b7566fa37fb55e37e4870588c003/NoFxAiOS/nofx",
-      "stars": 8085,
+      "stars": 8087,
       "stars_display": "8.1k",
-      "forks": 2120,
+      "forks": 2121,
       "forks_display": "2.1k",
       "language": "Go",
       "topics": [
@@ -72,7 +72,7 @@
       "forks_display": "26",
       "language": "Go",
       "topics": [],
-      "updated_at": "2025-11-25T17:39:26Z"
+      "updated_at": "2025-11-25T21:36:38Z"
     },
     {
       "full_name": "f/git-rewrite-commits",
@@ -184,6 +184,6 @@
   "search_query": "ai created:>2025-10-26",
   "days": 30,
   "limit": 10,
-  "total_count": 218269,
-  "fetched_at": "2025-11-25T20:55:15.032667+00:00"
+  "total_count": 218526,
+  "fetched_at": "2025-11-25T21:57:38.207875+00:00"
 }

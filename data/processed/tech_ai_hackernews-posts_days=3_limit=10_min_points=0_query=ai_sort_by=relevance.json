@@ -10,7 +10,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46027833",
       "author": "bookofjoe",
       "points": 497,
-      "num_comments": 604,
+      "num_comments": 605,
       "created_at": "2025-11-23T22:06:44Z",
       "object_id": "46027833",
       "image": null,
@@ -38,7 +38,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46036878",
       "author": "bilsbie",
       "points": 337,
-      "num_comments": 409,
+      "num_comments": 412,
       "created_at": "2025-11-24T17:51:02Z",
       "object_id": "46036878",
       "image": null,
@@ -51,7 +51,7 @@
       "url": "https://github.com/ocaml/ocaml/pull/14369",
       "hn_url": "https://news.ycombinator.com/item?id=46039274",
       "author": "theresistor",
-      "points": 271,
+      "points": 284,
       "num_comments": 130,
       "created_at": "2025-11-24T21:03:22Z",
       "object_id": "46039274",
@@ -93,8 +93,8 @@
       "url": "https://jamestown.org/prc-elites-voice-ai-skepticism/",
       "hn_url": "https://news.ycombinator.com/item?id=46038417",
       "author": "JumpCrisscross",
-      "points": 109,
-      "num_comments": 43,
+      "points": 118,
+      "num_comments": 52,
       "created_at": "2025-11-24T19:50:47Z",
       "object_id": "46038417",
       "image": null,
@@ -145,7 +145,7 @@
       "site_name": "the Guardian"
     }
   ],
-  "total_hits": 472,
+  "total_hits": 473,
   "has_metadata": true,
-  "fetched_at": "2025-11-25T21:19:55.323322+00:00"
+  "fetched_at": "2025-11-25T21:57:38.085447+00:00"
 }
