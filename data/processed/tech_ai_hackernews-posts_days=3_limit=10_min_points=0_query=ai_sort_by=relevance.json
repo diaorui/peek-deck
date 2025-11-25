@@ -37,8 +37,8 @@
       "url": "https://twitter.com/karpathy/status/1993010584175141038",
       "hn_url": "https://news.ycombinator.com/item?id=46036878",
       "author": "bilsbie",
-      "points": 336,
-      "num_comments": 407,
+      "points": 337,
+      "num_comments": 409,
       "created_at": "2025-11-24T17:51:02Z",
       "object_id": "46036878",
       "image": null,
@@ -51,7 +51,7 @@
       "url": "https://github.com/ocaml/ocaml/pull/14369",
       "hn_url": "https://news.ycombinator.com/item?id=46039274",
       "author": "theresistor",
-      "points": 267,
+      "points": 271,
       "num_comments": 130,
       "created_at": "2025-11-24T21:03:22Z",
       "object_id": "46039274",
@@ -66,7 +66,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46024644",
       "author": "kllrnohj",
       "points": 242,
-      "num_comments": 201,
+      "num_comments": 202,
       "created_at": "2025-11-23T16:17:57Z",
       "object_id": "46024644",
       "image": null,
@@ -89,6 +89,20 @@
       "site_name": "arXiv.org"
     },
     {
+      "title": "PRC elites voice AI-skepticism",
+      "url": "https://jamestown.org/prc-elites-voice-ai-skepticism/",
+      "hn_url": "https://news.ycombinator.com/item?id=46038417",
+      "author": "JumpCrisscross",
+      "points": 109,
+      "num_comments": 43,
+      "created_at": "2025-11-24T19:50:47Z",
+      "object_id": "46038417",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "jamestown.org"
+    },
+    {
       "title": "General principles for the use of AI at CERN",
       "url": "https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern",
       "hn_url": "https://news.ycombinator.com/item?id=46032513",
@@ -101,20 +115,6 @@
       "description": "Artificial intelligence (AI) can be found at CERN in many contexts: embedded in devices, software products and cloud services procured by CERN, brought on-site by individuals or developed in-house. Following the approval of a CERN-wide AI strategy, these general principles are designed to promote the responsible and ethical use, development and deployment (collectively \u201cuse\u201d) of AI at CERN. They are technology neutral and apply to all AI technologies as they become available. The principles apply across all areas of CERN\u2019s activities, including: AI for scientific and technical research: data analysis, anomaly detection, simulation, predictive maintenance and optimisation of accelerator performance or detector operations, and AI for productivity and administrative use: document drafting, note taking, automated translation, language correction and enhancement, coding assistants, and workflow automation. General Principles\u00a0 CERN, members of its personnel, and anyone using CERN computing facilities shall ensure that AI is used in accordance with the following principles: Transparency and explainability: Document and communicate when and how AI is used, and how AI contributes to specific tasks or decisions. Responsibility and accountability: The use of AI, including its impact and resulting outputs throughout its lifecycle, must not displace ultimate human responsibility and accountability.\u00a0\u00a0 Lawfulness and conduct: The use of AI must be lawful, compliant with CERN\u2019s internal legal framework and respect third-party rights and CERN\u2019s Code of Conduct. Fairness, non-discrimination, and \u201cdo no harm\u201d: AI must be used in a way that promotes fairness and inclusiveness and prevents bias, discrimination and any other form of harm. Security and safety: AI must be adequately protected to reduce the likelihood and impact of cybersecurity incidents. AI must be used in a way that is safe, respects confidentiality, integrity and availability requirements, and prevents negative outcomes.\u00a0 Sustainability: The use of AI must be assessed with the goal of mitigating environmental and social risks and enhancing CERN's positive impact in relation to society and the environment. Human oversight: The use of AI must always remain under human control. Its functioning and outputs must be consistently and critically assessed and validated by a human.\u00a0 Data privacy: AI must be used in a manner that respects privacy and the protection of personal data. Non-military purposes: Any use of AI at CERN must be for non-military purposes only.",
       "favicon": "https://home.web.cern.ch/sites/default/themes/custom/cernpublic/favicon.ico",
       "site_name": "CERN"
-    },
-    {
-      "title": "PRC elites voice AI-skepticism",
-      "url": "https://jamestown.org/prc-elites-voice-ai-skepticism/",
-      "hn_url": "https://news.ycombinator.com/item?id=46038417",
-      "author": "JumpCrisscross",
-      "points": 96,
-      "num_comments": 40,
-      "created_at": "2025-11-24T19:50:47Z",
-      "object_id": "46038417",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "jamestown.org"
     },
     {
       "title": "Insurers retreat from AI cover as risk of multibillion-dollar claims mounts",
@@ -131,21 +131,21 @@
       "site_name": "ft.com"
     },
     {
-      "title": "Show HN: I built a wizard to turn ideas into AI coding agent-ready specs",
-      "url": "https://vibescaffold.dev/",
-      "hn_url": "https://news.ycombinator.com/item?id=46018229",
-      "author": "straydusk",
-      "points": 69,
-      "num_comments": 37,
-      "created_at": "2025-11-22T21:02:34Z",
-      "object_id": "46018229",
-      "image": null,
-      "description": "A friendly 4-step wizard that helps you define, design, and plan your next app idea with AI-powered spec generation.",
-      "favicon": "https://vibescaffold.dev/favicon.ico",
-      "site_name": "vibescaffold.dev"
+      "title": "Meet the AI workers who tell their friends and family to stay away from AI",
+      "url": "https://www.theguardian.com/technology/2025/nov/22/ai-workers-tell-family-stay-away",
+      "hn_url": "https://news.ycombinator.com/item?id=46027290",
+      "author": "breve",
+      "points": 62,
+      "num_comments": 23,
+      "created_at": "2025-11-23T21:01:26Z",
+      "object_id": "46027290",
+      "image": "https://i.guim.co.uk/img/media/2103be8be876262394e303cf374938ad30d7fcdc/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=508e507d9631c2cd6d0b1ca7040762e0",
+      "description": "When the people making AI seem trustworthy are the ones who trust it the least, it shows that incentives for speed are overtaking safety, experts say",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "site_name": "the Guardian"
     }
   ],
-  "total_hits": 471,
+  "total_hits": 472,
   "has_metadata": true,
-  "fetched_at": "2025-11-25T20:43:51.498383+00:00"
+  "fetched_at": "2025-11-25T21:19:55.323322+00:00"
 }

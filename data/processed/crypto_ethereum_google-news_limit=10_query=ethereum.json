@@ -15,16 +15,6 @@
       "description": null
     },
     {
-      "headline": "What will happen if bitcoin and ethereum hit key liquidation levels",
-      "source": "Sherwood News",
-      "source_url": "https://sherwood.news",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjVoQTBSSk1vbHJPQXZGdlk1SW1GZjdpN2JDODl0UmxyNFQxSG5oSUc5VEVoVGhsZFZfZ2w0ZzZnQVN6OWwycjdxZXctZ2stemY1cXFnaUVQT3RFMzV2QThwemdfVVJBcFVKQUdXX181SEM2TUF4dVluYVRXamRvQzUxN0g1LWs5NkFFcWd4V0FocGl4OS1MaXZNYUdYQQ?oc=5",
-      "pub_date": 1764091319.0,
-      "article_url": "https://sherwood.news/crypto/what-will-happen-if-bitcoin-and-ethereum-hit-key-liquidation-levels/",
-      "image": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/dv537008_businessman-pulling-a-dollar-sign.jpg?w=1600&auto=compress%2Cformat&cs=srgb",
-      "description": "Billions in forced liquidations have swept through crypto markets in Q4. Here are the major liquidation clusters on perpetuals protocol Hyperliquid..."
-    },
-    {
       "headline": "This 1 Key Stablecoin Trend Just Stalled -- Should Ethereum Investors Be Worried?",
       "source": "Nasdaq",
       "source_url": "https://www.nasdaq.com",
@@ -85,6 +75,16 @@
       "description": "Crypto surges today as Bitcoin hits $88,590, XRP jumps 8%, Ethereum rallies 2.1%. Fed rate cut odds at 82% drive recovery. My technical analysis, however, shows caution ahead."
     },
     {
+      "headline": "What will happen if bitcoin and ethereum hit key liquidation levels",
+      "source": "Sherwood News",
+      "source_url": "https://sherwood.news",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjVoQTBSSk1vbHJPQXZGdlk1SW1GZjdpN2JDODl0UmxyNFQxSG5oSUc5VEVoVGhsZFZfZ2w0ZzZnQVN6OWwycjdxZXctZ2stemY1cXFnaUVQT3RFMzV2QThwemdfVVJBcFVKQUdXX181SEM2TUF4dVluYVRXamRvQzUxN0g1LWs5NkFFcWd4V0FocGl4OS1MaXZNYUdYQQ?oc=5",
+      "pub_date": 1764091319.0,
+      "article_url": "https://sherwood.news/crypto/what-will-happen-if-bitcoin-and-ethereum-hit-key-liquidation-levels/",
+      "image": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/dv537008_businessman-pulling-a-dollar-sign.jpg?w=1600&auto=compress%2Cformat&cs=srgb",
+      "description": "Billions in forced liquidations have swept through crypto markets in Q4. Here are the major liquidation clusters on perpetuals protocol Hyperliquid..."
+    },
+    {
       "headline": "Ethereum Founder Buterin Warns Of New X Feature: Here\u2019s Why",
       "source": "Bitcoinist.com",
       "source_url": "https://bitcoinist.com",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T20:44:09.217280+00:00"
+  "fetched_at": "2025-11-25T21:20:12.354983+00:00"
 }

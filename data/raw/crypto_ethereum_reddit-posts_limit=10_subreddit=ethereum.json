@@ -13,17 +13,6 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
-      "title": "What\u2019s the biggest pain point you\u2019ve faced during a smart contract audit?",
-      "author": "SolidityScan",
-      "url": "https://www.reddit.com/r/ethereum/comments/1p6cta5/whats_the_biggest_pain_point_youve_faced_during_a/",
-      "published": 1764078320.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Every team hits different roadblocks when preparing for or going through a smart contract audit. For some it\u2019s documentation, for others it\u2019s test coverage, architecture decisions, upgradeability, or unexpected security issues that show up late. Curious to hear from other devs what\u2019s been the most challenging part of the audit process for you, and what would\u2019ve made it easier?"
-    },
-    {
       "title": "Once volume goes up the gas bill becomes a villain",
       "author": "stairwayfromheaven",
       "url": "https://www.reddit.com/r/ethereum/comments/1p6n7e7/once_volume_goes_up_the_gas_bill_becomes_a_villain/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "We\u2019re building a Web3 system and scaling transactions is painful. Gas fee spikes can wipe margins instantly. Curious what batching or optimization methods people here have used and whether you kept everything fully trustless."
+    },
+    {
+      "title": "What\u2019s the biggest pain point you\u2019ve faced during a smart contract audit?",
+      "author": "SolidityScan",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p6cta5/whats_the_biggest_pain_point_youve_faced_during_a/",
+      "published": 1764078320.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Every team hits different roadblocks when preparing for or going through a smart contract audit. For some it\u2019s documentation, for others it\u2019s test coverage, architecture decisions, upgradeability, or unexpected security issues that show up late. Curious to hear from other devs what\u2019s been the most challenging part of the audit process for you, and what would\u2019ve made it easier?"
     },
     {
       "title": "Are my crypto safe?",
@@ -112,5 +112,5 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     }
   ],
-  "fetched_at": "2025-11-25T20:43:54.692089+00:00"
+  "fetched_at": "2025-11-25T21:19:58.347285+00:00"
 }
