@@ -5,7 +5,7 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Nvidia shares fall 3% on report Meta will use Google AI chips",
+      "headline": "Nvidia shares fall 4% on report Meta will use Google AI chips",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQkJsYW8tYWpQTlItQ3NieEx0OUh5THY1bnU0ZVpZajhMUWVicm16X2JiaG0zV094TG56cDBXOFgyNmdPMVhhS3RDeDU4TzY3RzlSZnFsUVE1WTM3cDlZb05RSldyenN2SWZidGs1Z0ZXVUplVURvWkhHdE9ueXM4TVpnN1dTeUIzRlBN0gGQAUFVX3lxTFBiXzlkeEtwZTVCZWxPdHFEejJDR0dKcGhoelRxdEVscXpKY0k2aGZ6RmtWMVg4OEdwV1JKa3hvSVg3ZGUyTWtrOU9TRlgxdDVRekxpVkVmLXhjTm9uNWNTSkxnOVZZUnBaVE53a0JwcGtZN3BLYkxvbkVlT0VtazAtejd2ekZPU2dqYzl4Ym1zdA?oc=5",
@@ -25,6 +25,36 @@
       "description": null
     },
     {
+      "headline": "AI fraud bill seeks to criminalize deepfakes of federal officials",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVlQbGtSc2VmMXFJUEhHLTJoMm1MVVZINE5WTVRFSHptSU9NYVVqWDRwd1FZU2UybEk1OHVKRjNzbnI5YjM4ZWFaYlVxOHc1SFgxUTNYX01veDZZYWtmQ0g0YUxERkM1TDQwZ0FBblZkTktEeWVuVlByamxURkVienpHMXRXX2I4dkVhc2psWUc5TUFsM25vX3NnSWdiakhwb1BsUXdrTHNlejlJcnfSAVZBVV95cUxOMlYzSzRBZEtJdWluY0hRQmdwSnB3WDRhOWNLZzVTYXRsLXZJYVRBdGpKbTBCRUtpSEx4TFd3SnlwZWd6YjlRdGhQbDQ5RldNaFd0U2NZQQ?oc=5",
+      "pub_date": 1764083136.0,
+      "article_url": "https://www.nbcnews.com/tech/tech-news/ai-fraud-bill-seeks-criminalize-deepfakes-federal-officials-rcna245763",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251104-government-shutdown-capitol-lr-6cef1e.jpg",
+      "description": "The proposed legislation will seek to expand penalties and definitions for fraud to account for the new role of AI."
+    },
+    {
+      "headline": "Michael Burry, Peter Thiel, more investors bet against AI boom",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcTdGUFF2UU5vUUtWNFFoYkhfd3V6S05nTDdIN0I5Yzdud3c1TjkwTXNsSWsza0JLQXRKeTNya2xCMndhU1U2WUoteWkzWm5DY01lX0JqN3lLNW1LQ19hdXZVenVLMkhSdXZ1YzRTaVNrOUg5QzlVMF9Ua1M2WkhRcWd5SjlDdTA?oc=5",
+      "pub_date": 1764083001.0,
+      "article_url": "https://qz.com/ai-stocks-short-sellers-nvidia-palantir-michael-burry-peter-thiel",
+      "image": "https://qz.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2247156740.jpg",
+      "description": "No matter where the big dogs stand on the AI market, money managers advise investors to ignore the noise and speculation and focus on their own needs"
+    },
+    {
+      "headline": "\u2018Sovereign AI\u2019 Takes Off as Countries Seek to Avoid Overreliance on Superpowers",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNNFR3dkZ4Vi1MSHVybDRDX3FnNU4wcF9xdHBFVjFmaU9YLUVKRzNYOHpOUFBlWTZaT2RHMng5a1pWVjhEckg3d0g3T3h6c1RTbWFMTnlYbWtVVHZ5RGstZzhQNW8tUUNkZFQzc3FXU0sySFMyTXVyLWlFU3hXVnZEQmZ4RmhFSFRhMUZRSklzcGw2Z25XNFRyNzZRNWRUNFdHOFJTaUgwd0M5bE9Yc2t3bVBEdVo4WDUwTm02QldHZlZLdEE0SndQT1F0UC1JbXRqRVNxaWRnTlFNWHAxQ1hQX3FYOXNrWXVxWk9sVVh3WGQ0TnBKSHBZbGctSHlsVWlfUVJmcTRhOEwzWnFyYXQ4QTJRVnNQaEo1MDRNNkx6TG85ZlExaTItNGplc3lsazJERlUxU2pWbndJRDJGMjF1eVoybE5Ydmx2aWpYWTQwV1k5ajZUZklDbGtBMGhRcFVnd05oY0hpWDBMaFJabzVMbXZsUlZqMW1rS2oyYkVOZ0F6NEdGSGhQWkFZeUtkMEJGalpOM2RpWHY5dXFwUDJEb1VKRkUzZ0FId0JKZUN2dndMMUl5SUZFa2c2UWc?oc=5",
+      "pub_date": 1764043200.0,
+      "article_url": "https://www.wsj.com/tech/ai/sovereign-ai-takes-off-as-countries-seek-to-avoid-overdependence-on-superpowers-6b1689f7?gaa_at=eafs&gaa_n=AWEtsqd0NARlLyTC9zF5W2L0uoANwwFwp2ACQgjTz5OQA4p9NtfRtLAyhAvn&gaa_ts=6925cf70&gaa_sig=-AJbzEsDBHMlbcbye6cxED_RqEqNMpSR9HajNJ0-QCIl3fSqYRdXs3fy0Sm3gCHtPGVkrW8OQZ-26_56VNyKhQ%3D%3D",
+      "image": "https://images.wsj.net/im-60425344/social",
+      "description": "South Korea and others believe their homegrown tech sectors are strong enough to build up their own AI capabilities."
+    },
+    {
       "headline": "Trump signs executive order launching Genesis Mission AI project",
       "source": "NBC News",
       "source_url": "https://www.nbcnews.com",
@@ -39,72 +69,42 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOakdfYTFXLTRTdE14dHFtSHh5MTNRb0FVWnNJTTNJZVNzRHJPQW1XdWRpME1keXJzdGUwVlVVRmdrS0dPM1hlalh4WkswNzFjcFppY01LZXExbzltTmlHZGtyS3QyZjN3d0pyTTNUdGdRRmk1WHljc1FkN0dvSXBLeml3?oc=5",
-      "pub_date": 1764032770.0,
+      "pub_date": 1764034576.0,
       "article_url": "https://www.nytimes.com/2025/11/24/us/politics/trump-ai-executive-order.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Can CA protect its AI regulations from Trump\u2019s executive order?",
-      "source": "CalMatters",
-      "source_url": "https://calmatters.org",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNekIySExVNmNkNjFOaS1WX0JlSThlWm9nSlB5T0hDRGoyVTFTcjhDQktJYW5pM0VrTXBwTEpZbkpwSEM4RElQWGlvbjhndXZXYmJDU2d6LWVHbWxHY3ZhdzVVeXI2QVVTMnBIU0xONTg0QU5EUlZfMUIzOUpVblJadEtFeno3Tkk?oc=5",
-      "pub_date": 1764079200.0,
-      "article_url": "https://calmatters.org/newsletter/artificial-intelligence-trump-executive-order/",
-      "image": "https://i0.wp.com/calmatters.org/wp-content/uploads/2025/03/091824_Dreamforce_FM_CM_05.jpg?fit=2000%2C1333&ssl=1",
-      "description": "Trump is floating an executive order that would prohibit states, including California, from adopting their own artificial intelligence rules."
-    },
-    {
-      "headline": "Need help planning your Thanksgiving travels? Google AI has you covered!",
-      "source": "WXII",
-      "source_url": "https://www.wxii12.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWFgzaHc0NVBnYmsxVS1QNkY4Z200cmowa0F1MWxHRGRrNmt0ZlROSWptVS1GWFA3MnY5VUFaa3EtdXRFYWJKdERCRkhMTFJDbElEZVgyekVHaDIyMm1Pek1DY2p5b1cyQnkwczZTdy0ya2ZoakFiWWFBOWsyNEdGeDViM2Z2cURMUjhDNG5kUW4yUmhaQkVQMnpQaw?oc=5",
-      "pub_date": 1764078480.0,
-      "article_url": "https://www.wxii12.com/article/planning-thanksgiving-travels-google-ai-has-you-covered/69541809",
-      "image": "https://kubrick.htvapps.com/vidthumb/151f5d6e-c52d-4d9c-ae59-acf4ecf7392e/f30251ee-db06-401e-a4c2-9789526a1a60.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
-      "description": "Google's AI tools are designed to do the heavy lifting for us, from curating the perfect travel itinerary to finding the best deals."
-    },
-    {
-      "headline": "\u2018Sovereign AI\u2019 Takes Off as Countries Seek to Avoid Overreliance on Superpowers",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOZXN6a2EwOWEzSk5EU25XRWJiNHQzVkw1OXJOcDlMWTB3RXpSUVZ0QTdIdG9qS0xCSU9vSnBCbWNOSDFUVXM0Tkd6VE5zVkZHczBfZmphd241aU9yX0g0TF9LeU9JT0I5NXBHT0pYNkt4V3J0RFpuSUpkTGhManhzaW0yNU0tajVRZVdFWFllVFZOV2hnT2RhZHNKeXB0cnNiTVVWTVFFYlJrYVlYbTd6ZGZESkpuN0JKaW1QU1A0anBtMk4zQ1oyNDRsMzJSZFNibHVBVzhTRV9wZENnQkltUGVqVnJYeDVrSFFjWmt2akRqZ2UxemhvLU5lR0k0S1g2amtxdG9UOWR5RjVRcUQzM2pINEJGT05sbUt4T0FkYWR2dl83X2pkRlVyQ21MT2VPS2F5cmRVTVV1UUJ6OTNXVG12dGQxT3kxOVZ5TlRUNmJQWmFROVhGbnBnS3E1ZlBoS0FDU19KQTJDTllWbnRPamtMOVI5enRQaG1teHZLRTYzcW9SX05CVUNuZk9NcnZubUVxdFZWb1NqbGtQVi0yRG5vOUY5WVhTeFdCZHdpbFBqWnV5d1FVeTdJY3I?oc=5",
-      "pub_date": 1764043200.0,
-      "article_url": "https://www.wsj.com/tech/ai/sovereign-ai-takes-off-as-countries-seek-to-avoid-overdependence-on-superpowers-6b1689f7?gaa_at=eafs&gaa_n=AWEtsqemL5iigOdRDMB-TCLfkoqF1B3RGjRzA3moXFVsLSS2vg1vHR0TuMBu&gaa_ts=6925c0dd&gaa_sig=N1F_3RZp2azByisYZcfD2d3ZpxdwucOmfMEqgrrV_R4VrnansrdjXLrBNfhAI9byFzm-yghZl59nBKQD_A3XjA%3D%3D",
-      "image": "https://images.wsj.net/im-60425344/social",
-      "description": "South Korea and others believe their homegrown tech sectors are strong enough to build up their own AI capabilities."
-    },
-    {
-      "headline": "McKinsey explains why AI won\u2019t take your job, even though it can already automate 57% of all U.S. work hours",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaU0yell4RWJveXdvWEdzWHNvSWducmtXMUo0VlVNSk04U05FTGQ2QVdjUnUzUGZzbW9WNHNVNkVhMTdaQU5ScXJFSjJLc3ZvSzlZZEQ2QzQ4LWdrWVZuSFRySkpFZVg5Q3lqbExXWTM3dWlJSTJPU0o2MzJuZWxKRGppTGt4ZUl0bkJlU0VyZndXUHRhWWtZ?oc=5",
-      "pub_date": 1764046860.0,
-      "article_url": "https://fortune.com/2025/11/25/why-ai-wont-take-your-job-partnership-agents-robots-mckinsey/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-738777065-e1764023095316.jpg?resize=1200,600",
-      "description": "The fastest-growing skill in U.S. job listings is \"AI fluency,\" seeing a sevenfold increase in two years."
+      "headline": "Inside MAGA's growing fight to stop Trump's AI revolution",
+      "source": "ABC News",
+      "source_url": "https://abcnews.go.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ18zVHd5aHU0SW9LcWVfWjJld0ZrZjV3RmQyaVNRb0llcl9Dei1QRU9wcVo0MEZQVU1jVVdiWUQ0bXc5dE1VdmJ6QkEyNGJxdXZuX3phMTRUREpOZFhLQ1l5Q2Z4YVBpdGZLM2xrSFVEV1gxeXlQVEVlcXVjRGVLT201TnIxb1R6cnYtZUJJakxCVHJBN0hRRzdMVDFpZ9IBowFBVV95cUxPQVNZblB0RXhuYkZLd3FKSEx4eGhHRDRBTGR0Qmh2bm5xUXlibDR3eHBGSEZ5REFRU3RNdm1EdHNPaWVueHJYakZFZk92UUZ5bU45RFlvRTR6dlFXVW80cFhIMTdhLW9PajV6RE9PMXluOWZ4amotSGJ0MmN4NjlydG9BTWJvWHF0S05fS0R5bnc5Z29nczQ5WExyLUJ1dHduQkRB?oc=5",
+      "pub_date": 1764016908.0,
+      "article_url": "https://abcnews.go.com/US/inside-magas-growing-fight-stop-trumps-ai-revolution/story?id=127824351",
+      "image": "https://i.abcnewsfe.com/a/e2d7d898-26a0-4efd-8c4a-4d9095b3399d/bannon-gty-er-251124_1764010902064_hpMain_16x9.jpg?w=1600",
+      "description": "As President Trump pushes an extensive agenda for the advancement of AI, some of his most loyal supporters within the MAGA base are denouncing his efforts."
     },
     {
       "headline": "AI Christian \u2018singer\u2019 Solomon Ray tops the charts, stirs ethical debate",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcnhZS0xqMll0ZlhKOWU3V0UxT0lmM19TeDY1SHl5dFVCMGRubkhCa1hld0VjUzNacHpvR1JGdWxJcEVqUTBYOUxkRWZ6OW5jSjAyV3NVclhlSEVuM18yMklOVnB5U0JDTWh5N0JCaEtsWmJxNlhEZlAzYmFfZ3FVZWI1RV9YLUtyQ2pJWWE2czNtajRFU3fSAZsBQVVfeXFMUE0tM3FwWjlhSEFYMDM5UGdEenF2R3lRQXhERXRpZkQ1T3FOZVViMHVzU0pUUko2MkhqRU9ySUMwZEkxa1RJNzJmMWlyZmxFQkFnem1tdURrU242S3QtbXVYOFlUeExBRklheDNMVlRDY010VnFXVTBuTU1YcUNpREo4UFhCeXQzX015R215WUVBdjNsNy16ZU9MZVU?oc=5",
-      "pub_date": 1764068580.0,
-      "article_url": "https://thehill.com/policy/technology/5620871-ai-christian-singer-tops-charts-stirs-debate/",
+      "source": "NewsNation",
+      "source_url": "https://www.newsnationnow.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mamtBc2E4TDc3T2pUOWZERkVxVGMtZGZ2RDFEdTFKZlhYRlBzRy1aQVA1S2g3dGRadldiRkRpQzk2d2JvOXRCVWdwa0ZzcExCaTc0bU1TTklJWE9raGVNaVM0ZUZTaGpQLUJKMWNhdUl2YzMwenA5ZkVEZw?oc=5",
+      "pub_date": 1764019836.0,
+      "article_url": "https://www.newsnationnow.com/religion/solomon-ray-ai-christian-singer/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Europe loosens reins on AI \u2013 and US takes them off",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNldla1dVdlJCTUlKcUtwdzZlb292VndGRkExcEttWVNKaG1pVmtCcDI2WDBVdXBOVXVZZ0NPeVNNRm96YVBITEh4dWpXMEs3ZmY5VUtoNFlGVlQxdHlwYXl6MDRBbl9rYzlpb01UWFU2MUJ5LWtaUTU0d2dnaGk0Yi1KM1RFOEVSa0N5c190dTk?oc=5",
-      "pub_date": 1764076860.0,
-      "article_url": "https://www.theguardian.com/technology/2025/nov/24/us-europe-artificial-intelligence-ai",
-      "image": "https://i.guim.co.uk/img/media/ee07a32d49c887cd105777a2887d05733b4387ef/548_0_4182_3345/master/4182.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b9c81d809dece8068248799f611c51e4",
-      "description": "EU and US unshackle regulations in quest for growth, and is the AI bubble about to burst? Not yet, says Nvidia"
+      "headline": "Agents, robots, and us: Skill partnerships in the age of AI",
+      "source": "McKinsey & Company",
+      "source_url": "https://www.mckinsey.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGR5TllRdWM0VUFxX0o1TDk1bmp2eklMTDBkTjJlbUM5eXhkSGZBSEtfNzlUSy1FdnRiVno4Mkd5LWNITV9OODZKRVhiXzRGVjdSTmJYOXJmRWdHd1hqNDZzSmY0MzhGT25Ha291azBYNDFfNjROcjdRdDdHcW1jdHhFaGNVSkJlZTFVWDV1TjEtekhKRDktX2psMk4ycjA?oc=5",
+      "pub_date": 1764028800.0,
+      "article_url": "https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-skill-partnerships-in-the-age-of-ai",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T14:30:02.814737+00:00"
+  "fetched_at": "2025-11-25T15:32:20.613998+00:00"
 }

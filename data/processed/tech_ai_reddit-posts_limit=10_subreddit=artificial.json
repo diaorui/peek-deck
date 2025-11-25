@@ -46,6 +46,17 @@
       "description": "In recent months, large firms across industries and geographic regions have become more vocal with claims that AI is allowing them to eliminate staff and reduce hiring."
     },
     {
+      "title": "Which AI Gen tool would allow me to \"compose\" a picture with references?",
+      "author": "dreadul",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6dbzn/which_ai_gen_tool_would_allow_me_to_compose_a/",
+      "published": 1764079665.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hello, folks. My sister, my brother, our friend, and I play online video games together. One of those games is League. For a Christmas present, I would like to compose a picture of our main champions together in a particular way. So I need an AI gen tool that I could feed pictures of our champs for references and to imitate art style, and then ask it to generate a picture with a particular composition, and possibly to alter it with further prompts for details instead of re-generating again. Which tool would best fit my purpose? Thank you in advance. (This is not for profit, this is for single-use private present) EDIT: looking into it myself, I am finding some options, but most require setup. Since this is a once-off project, I would rather something that is more straightforward."
+    },
+    {
       "title": "Trump signs executive order launching \"Genesis\" mission to expedite scientific discovery using AI",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1p5v7cp/trump_signs_executive_order_launching_genesis/",
@@ -66,17 +77,6 @@
       "site_name": "anthropic.com",
       "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
       "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "title": "Which AI Gen tool would allow me to \"compose\" a picture with references?",
-      "author": "dreadul",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6dbzn/which_ai_gen_tool_would_allow_me_to_compose_a/",
-      "published": 1764079665.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hello, folks. My sister, my brother, our friend, and I play online video games together. One of those games is League. For a Christmas present, I would like to compose a picture of our main champions together in a particular way. So I need an AI gen tool that I could feed pictures of our champs for references and to imitate art style, and then ask it to generate a picture with a particular composition, and possibly to alter it with further prompts for details instead of re-generating again. Which tool would best fit my purpose? Thank you in advance. (This is not for profit, this is for single-use private present)"
     },
     {
       "title": "Meta now ties employee performance reviews to AI-driven impact starting 2026, thoughts on this becoming standard?",
@@ -112,5 +112,5 @@
       "description": "Agentic AI is rapidly shifting from software to \u201ccoworker,\u201d with 76% of leaders already treating AI agents as teammates\u2014reshaping workflows, skills, governance, and the future of work."
     }
   ],
-  "fetched_at": "2025-11-25T14:29:47.139888+00:00"
+  "fetched_at": "2025-11-25T15:31:57.803059+00:00"
 }

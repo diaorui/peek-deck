@@ -5,14 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Largest Ethereum treasury BitMine invests another $200 million, addresses recent ETH price decline",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQUw1dU82dC1PaDBCTWlCN01taWc5RVVKNHRDaFBSZ0hBT3Jid1Q2WXFubXFzVWRCOUVBWHo2SnRzRk9aQVpGYkQtRlpTNVFDaXRFdDJFTWs4ZG44ZXlMM0Rrck1nMmlPTGZhVW5RSC0wSWp0a2tkY3JfLUJ4SFNqMlI0d3U1Yzdkbmo3ZEZwN3R0V0hBUWRlSUhzdFJzdDFyXzZPTFRyNExiaEQ5cDZXYmdqU0tRek10bnJjaVcxNmluRmpqcTktdndRM0fSAdIBQVVfeXFMTXQ3Vm1BM1pGYUh5bWN3cVY4bWRMdEw4WTZXbVhQLTFmVkRuN3ZYalpzQkwyVk1fZmJWSTJmbS1GNlZzX0FtdnBuZXotLTlfZTczTldlbTJrWHRiZ2JQczJyR3Iyb3A2Z25MQ3QwUXFOelRpX0tzcG5rc1k3SnhVeHlXLWh0ZmM2ZFJTZkRfQzE3SXdWNWFhNnZqNUJPd2xQcFBGVFR4Q2tvTjNhYjU5Qzh6TUZFeVN2YTRSVmlfdzNiOHZWVi1hWjdhR0lXSkp6SE9B?oc=5",
-      "pub_date": 1763994878.0,
-      "article_url": "https://www.theblock.co/post/380159/largest-ethereum-treasury-bitmine-invests-another-200-million-addresses-recent-eth-price-decline",
-      "image": null,
-      "description": null
+      "headline": "Ethereum Treasury News: BitMine (BMNR) Bought Nearly 70K ETH",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTVJXVk5NTy1uWUh0TVZvMDlYRERfdTFxdE8xOUYyMlJQUS1EVTRfUXl3UlQtaDFxX0haSTFzenROVTMtQ1pqUlBMTUhrelY2RmFlU2h2ZE9vT2N3SXdsd3hNVC1ad3FyN0hsOVpfSEJBWDZoLWRyOE8wUzlwZE5XamVvT01kUDQ3NW52VUlscG5UTHllVXA2aHNOMFowMmgtb1A0UW9hSGlYUEFURFRoSnZhRjROYWVDNWtNU2hMc1A?oc=5",
+      "pub_date": 1763995079.0,
+      "article_url": "https://www.coindesk.com/business/2025/11/24/bitmine-immersion-added-nearly-70k-ether-last-week-now-holding-3-of-eth-supply",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/13c2f3d8f4a14835d564bac5cf5d5cdd106bdcfd-1919x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The company increased its crypto holdings last week despite sitting on around $4 billion in unrealized losses on its ETH bet."
     },
     {
       "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
@@ -48,9 +48,9 @@
       "headline": "Bitcoin, Ethereum, XRP Jump as Rebound Gathers Pace. Where Cryptos Go Next.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQNDBzQ0NxaUpVdVFBVm1QUExXZ2FTSmxpajEwcktSTGZDdlpYTVMtcjl5WVNDaTFLalJkZUV1eG84Tld4emRvVldtczd0VFRza2xuM0JtSU50Nmt3eVEtZmtkMy1XQkY4TFdpTzI1cUNrZVp3ZU8tVnBtNTlSemtPTkk2c0tzYnU3TTlfQ1JpNUpGempmNWlfby1HU2tsWG5pc0tJX1R2ajlkTXpJMktZMERYNGdOQ2pQTVFfZEVMYXpkcHpXMl9fSFZERWNBSkM2ZUxPTXNsWndGMHZwV1QzblJyNTJEQWhOVG85UFFLYlNMRV9ieU0wNV85Vl9PN0ZTZENyMWpMUk5CYk16OEFHeE1wVkRkUUp3VEdqcDB3NXVIUENmQTNnMDVlOWJ2bE9CeVlNRF8zUEN5RVdIMHFNbXlQb0Z1UlhWcDFhY3psczVvbmhwWXh6aE1KT3ZPSkZFRkRaMWNOOGtuWmhrTTA3Ri1tYmNmTG15NlFKeHlKTlM2bUlPY3hycw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPZzJaVEJ4N203ZmNrTVprZXZXY3ZVTXk5VEQ1T3F4M0tyTXM4Vms0d2RCSWtPZjcteG9LeHlZb1BOM1lqd1NTczEwYmcxZ2tLbGVBNFQ2blh1VEVSbVJkQXh4anJrX1I0M0dXdzJSSmJmLWRUU3VqY0JTc25nWUR6ZVA4VHRNTW0xZXlPX2ZlWXUwMzdJa3RIYkE1V2VEblJoaGxvQzBUeTN0VjhRazVmZGl4OXF6VXRCWld6dUVQemdubHdEd0ExN1Vjb2x0OHQ5enUwWHlmWkxXbWhoYlpneU1tUkxVUW5zZlhudU5zMS1HVmlINVFuRHhfRGVQUVJ1TjVNaUx5WTBocHBsSzVpWHpmQ1ByRUhBX2VSMXdsS2F1N0xGX0lvZ3c2dEVqOWI2OWVqVVkzX2tLRmsxSzFQdm92Z3lkZTdpajRUVF9TV0tQOWJwNmJnMHhZQV9rZ2dKb2VzaVBOR2VpLTdiZ3B4cWxYTGJ2UnRpSWozU0xLUVVJYjBGNkZLZQ?oc=5",
       "pub_date": 1764064980.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-rebound-dea5ac89?gaa_at=eafs&gaa_n=AWEtsqdYXESB9gVJcLqEGQnnIM8RF3m6NqbU7EcVHsbql3PE7wOWMQkYZvt5&gaa_ts=6925c0e0&gaa_sig=rG9DD8J7TiP96RvxLXj-6BSFs8xk7lzVM7XdGG-fsi01pC1aI2v3U4VCnJnOCd6yZK0U0SqkN6mHXoGi-1FGMQ%3D%3D",
+      "article_url": "https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-rebound-dea5ac89?gaa_at=eafs&gaa_n=AWEtsqcM_x3PegGi11V7lpAT3bUcBBaTyhsQA8pSJIs5lr_E2dIi1Xs99ihC&gaa_ts=6925cf73&gaa_sig=sPVg04J8PppPYxkrDjeAwa0av-97mHozjWq2O1uXneMRndtKwdqVJ2dmD0d7xENBrHTm3BHjq_0dZOPLezmtsQ%3D%3D",
       "image": null,
       "description": null
     },
@@ -95,16 +95,16 @@
       "description": "Ethereum remains under heavy pressure as the broader crypto market continues its correction. With the price losing key support levels and sentiment"
     },
     {
-      "headline": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC, ETH, and XRP rebound after recent downside pressure",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQXZkZ3hfSEZBcGZ4dWowLWxYY0MtWVRqNjc5bXFqRlp5YXROQU1VYVhKSU1zR0Z6a1dCdUdwOUlmdHEyV1FKN0hDR0NFa1RacGJBekpycE5uTXVwWnlpMm9mLUdoQUJ3MFB2R25HODRtVzBmdmZudVBKV3ZZTV83dEExZUwzTDd4VV9PT0xOQnRnamZlQU5aU0hiMDhSUU9kd091YWRqUE1sX01KcWhXX2I4MXZRdXZpZHlrZWppOXppMnFhWW1Vc3V5M2d2MmlROGRXeUR2S3gzR3R1MExCNTBWYzJqQ1VRU0g5LUlsbWxxVVnSAfgBQVVfeXFMTjk1TEdYSWhpZ1FvZDZBQVpxZWtLT1JZM25UYmVyczhTXy1iT3RtMjhBM1lRbUJrcWRWQnJKcUx6TE5EMUVpLUE2Qk9FNDhsQ3J0WjVNSEdBdTRtMFNSa2F5R3dKNG9oRlBVbXRNeEJ1TjJ3dFlhSExmMi15LXVTMFpzZnZTelZCNjJFSFVPbFFac0lBcWlUNXVSRjBXQlllZ0lyZEMzdkxNMWlGbzN3ckRidHpUa3p1VHctOTRJM1NuWGNqNUNKVGgyV0hteDdxaENRRHd2RTV6S3hxc09WZnl6ZXl1Rk0zU0YtQU96dUZOa01NWXg5X3o?oc=5",
-      "pub_date": 1763954208.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-rebound-after-recent-downside-pressure-202511240316",
-      "image": "https://editorial.fxsstatic.com/images/i/cryptos-coins_Medium.png",
-      "description": "Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) begin the week with a modest recovery on Monday after last week\u2019s massive correction. These top three cryptocurrencies are holding above their key support levels, suggesting recovery continuation."
+      "headline": "Ethereum Founder Buterin Warns Of New X Feature: Here\u2019s Why",
+      "source": "Bitcoinist.com",
+      "source_url": "https://bitcoinist.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jYjgwZVZoMUVDVGRhYl85TUFNRmEyOFU5dkFqRlRCZFVMX3R5UkhqOU1zN010SlB2SU1GRm9nVURpZkl6dk5UdndtaTUxdXdGd05uWkptV0gtdkF0MDBZQU5FMjgybTdib0I3MXVJcUY0ZHBIb05R0gF8QVVfeXFMT0tJd2RFQ294X1N0QUhOdGh0NG4zV2s0TUVpTzBKYU9BWFJJaW1lU3hTSmlEeHM4YV9tWjJDdUpWZ1ZBeHlwcXRSQW9SV256SGNTTndoWm8yRWc1XzZEZlN2QVI0RExGcmtDSTAtczNXUWpZQVQ1SmxuTjBnQg?oc=5",
+      "pub_date": 1764014401.0,
+      "article_url": "https://bitcoinist.com/ethereum-founder-buterin-warns-new-x-feature/",
+      "image": "https://bitcoinist.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-24-2025-11_29_59-AM-e1763980242935.png",
+      "description": "Ethereum co-founder Vitalik Buterin is sounding the alarm over X\u2019s new \u201cshow which country the account is from\u201d transparency tag, arguing that the feature"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T14:30:06.001991+00:00"
+  "fetched_at": "2025-11-25T15:32:19.889317+00:00"
 }

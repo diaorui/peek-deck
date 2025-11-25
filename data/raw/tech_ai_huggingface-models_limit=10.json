@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/tencent/HunyuanVideo-1.5.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png",
       "downloads": 1675,
-      "likes": 662,
+      "likes": 665,
       "pipeline_tag": "text-to-video",
       "num_parameters": null,
       "last_modified": "2025-11-24T13:55:44.000Z",
@@ -24,7 +24,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/facebook/sam3.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1592839207516-noauth.png",
       "downloads": 115448,
-      "likes": 640,
+      "likes": 641,
       "pipeline_tag": "mask-generation",
       "num_parameters": "859.9M",
       "last_modified": "2025-11-20T22:05:08.000Z",
@@ -114,7 +114,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/microsoft/Fara-7B.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1583646260758-5e64858c87403103f9f1055d.png",
       "downloads": 40,
-      "likes": 101,
+      "likes": 104,
       "pipeline_tag": null,
       "num_parameters": "8.3B",
       "last_modified": "2025-11-24T18:04:17.000Z",
@@ -152,5 +152,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-11-25T14:29:56.934916+00:00"
+  "fetched_at": "2025-11-25T15:32:09.077163+00:00"
 }
