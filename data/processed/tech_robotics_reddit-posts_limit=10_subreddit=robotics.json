@@ -35,17 +35,6 @@
       "description": "From Dimensional OS: https://x.com/dimensionalos"
     },
     {
-      "title": "After 2 years, I'm open-sourcing the Rebelia Hand: From DIY files to a pre-assembled robot hand",
-      "author": "venetrom",
-      "url": "https://www.reddit.com/r/robotics/comments/1p69rij/after_2_years_im_opensourcing_the_rebelia_hand/",
-      "published": 1764069004.0,
-      "thumbnail": "https://b.thumbs.redditmedia.com/uYcyp5osWT3c_NMwxc7DF2s_MsSonxX4r1fYMKW5mOw.jpg",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Rebelia Robotic Hand V2 After two years of development, I'm excited to launch the Rebelia Robotic Hand project and open-source all the design files! This is designed to be accessible at every level, with three paths to get one: DIY : For the true maker. Source the 3D-printed parts and hardware yourself using our provided BOM and files. Kit Version : We provide the validated 3D-printed parts and the hardware kit for easier assembly. Pre-Assembled : A ready-to-use, fully tested hand, perfect for developers and companies who want to integrate immediately. The project is a robust platform designed for real use, currently undergoing testing for CE Marking. Key Features & Specs: Automatic Self-Adaptive Grasp 5 DOF with a Rotatable Thumb High Payload: Up to 12 KG Safety Features: Automatic Calibration, Overload & Overtemp Protection Enhanced Grip: \"Hyper Grip\" with skin-safe silicone pads Weight: 650g The Story: From Prosthetics to Robotics The project began with a goal to create an affordable prosthetic hand. While the extreme certification costs made that path impossible for now, the core technology was too promising to abandon. I pivoted to creating a hand for the robotics community. The ultimate goal is that success with this robotic version will fund and enable the future development of a certified prosthetic version. Get Involved! We are actively looking for beta testers (both companies and developers) to put the Rebelia Hand through its paces and provide feedback. Beta partners will have special access to kit and assembled units. You can find the full project page, including all STL files, source code, and tutorials on Hackaday.io: https://hackaday.io/project/204373-rebelia-robotic-hand I welcome all your advice, suggestions, and questions below!"
-    },
-    {
       "title": "Building a sub-$200, highly functional 3D-printed SCARA robotic arm",
       "author": "Yoni_bravo",
       "url": "https://www.reddit.com/r/robotics/comments/1p6gqan/building_a_sub200_highly_functional_3dprinted/",
@@ -57,6 +46,17 @@
       "description": "I\u2019ve been working on a SCARA robotic arm design that I\u2019m trying to keep under ~$200. It\u2019s entirely 3D-printed + off-the-shelf components, but I\u2019m aiming for features you usually only see on far more expensive arms. My goal is to build an accessible platform that\u2019s actually useful \u2014 not just a toy \u2014 and can serve as a solid base for anyone interested in getting into robotics in a meaningful way Planned features: PRRR SCARA configuration - simple kinematics, high stiffness for the weight High-accuracy motion using NEMA17 steppers + TMC2209 drivers Automatic tool-changer with magnetic pogo-pin connector Z-compensation module for tool contact detection + vision-assisted picking ESP32-based controller (FYSETC E4) running FluidNC firmware. Integrated top-view camera Comprehensive Web UI + full-feature control pendant ~0.3 m reach, target ~0.5 kg payload The idea is to push how far low-cost hardware + smart design can go. I think my industrial automation background and maker soul puts me in a good position to go for this thing. This is still early, but I\u2019d love feedback from anyone who has built robotic arms or worked with SCARA kinematics. If there are obvious pitfalls or design considerations I should watch out for \u2014 I\u2019m all ears. For more details please check my hackaday.io page - https://hackaday.io/project/204557-pr3-scara"
     },
     {
+      "title": "After 2 years, I'm open-sourcing the Rebelia Hand: From DIY files to a pre-assembled robot hand",
+      "author": "venetrom",
+      "url": "https://www.reddit.com/r/robotics/comments/1p69rij/after_2_years_im_opensourcing_the_rebelia_hand/",
+      "published": 1764069004.0,
+      "thumbnail": "https://b.thumbs.redditmedia.com/uYcyp5osWT3c_NMwxc7DF2s_MsSonxX4r1fYMKW5mOw.jpg",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Rebelia Robotic Hand V2 After two years of development, I'm excited to launch the Rebelia Robotic Hand project and open-source all the design files! This is designed to be accessible at every level, with three paths to get one: DIY : For the true maker. Source the 3D-printed parts and hardware yourself using our provided BOM and files. Kit Version : We provide the validated 3D-printed parts and the hardware kit for easier assembly. Pre-Assembled : A ready-to-use, fully tested hand, perfect for developers and companies who want to integrate immediately. The project is a robust platform designed for real use, currently undergoing testing for CE Marking. Key Features & Specs: Automatic Self-Adaptive Grasp 5 DOF with a Rotatable Thumb High Payload: Up to 12 KG Safety Features: Automatic Calibration, Overload & Overtemp Protection Enhanced Grip: \"Hyper Grip\" with skin-safe silicone pads Weight: 650g The Story: From Prosthetics to Robotics The project began with a goal to create an affordable prosthetic hand. While the extreme certification costs made that path impossible for now, the core technology was too promising to abandon. I pivoted to creating a hand for the robotics community. The ultimate goal is that success with this robotic version will fund and enable the future development of a certified prosthetic version. Get Involved! We are actively looking for beta testers (both companies and developers) to put the Rebelia Hand through its paces and provide feedback. Beta partners will have special access to kit and assembled units. You can find the full project page, including all STL files, source code, and tutorials on Hackaday.io: https://hackaday.io/project/204373-rebelia-robotic-hand I welcome all your advice, suggestions, and questions below!"
+    },
+    {
       "title": "Unmanned fully autonomous heavy-duty electric trucks in China",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1p5flay/unmanned_fully_autonomous_heavyduty_electric/",
@@ -66,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": "MotorWatt: DeepWay Company: https://ev.motorwatt.com/ev-manufacturers/deepway From Nic Cruz Patane on \ud835\udd4f: https://x.com/niccruzpatane/status/1992796505284161782"
+    },
+    {
+      "title": "Does Memo from Sunday Robotics have a soul?",
+      "author": "Which_Trust_8107",
+      "url": "https://www.reddit.com/r/robotics/comments/1p6lbe3/does_memo_from_sunday_robotics_have_a_soul/",
+      "published": 1764097612.0,
+      "thumbnail": "https://external-preview.redd.it/6G_gGKx-4IDbgBZc_SQQ0YY0LF1APAeeuodLs2qAuwo.jpeg?width=640&crop=smart&auto=webp&s=e7288385f67af5fad218c118fa02a127f2669557",
+      "external_url": "https://andyfromthefuture.substack.com/p/does-memo-from-sunday-robotics-have",
+      "site_name": "andyfromthefuture.substack.com",
+      "favicon": null,
+      "description": "What do you think?"
     },
     {
       "title": "Can someone help me with my code",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "For context I'm connecting my HuskyLens2 to an Arduino. Im using the arduino ide to execute the script I'm uploading these two images to see that there is nothing wrong with the connectino. Im using an I2C connection and Im getting an error message for the following code. #include \"HUSKYLENS.h\" HUSKYLENS huskylens; void printResult(HUSKYLENSResult result); void setup() { Serial.begin(115200); Wire.begin(); while (!huskylens.begin(Wire)) { Serial.println(F(\"Begin failed!\")); Serial.println(F(\"1.Please recheck the \\\"Protocol Type\\\" in HUSKYLENS (General Settings>>Protocol Type>>I2C)\")); Serial.println(F(\"2.Please recheck the connection.\")); delay(100); } } Error: Begin failed! 1.Please recheck the \"Protocol Type\" in HUSKYLENS (General Settings>>Protocol Type>>I2C) 2.Please recheck the connection. https://preview.redd.it/q1vqru03vb3g1.jpg?width=4032&format=pjpg&auto=webp&s=7e7caec623e0db2a03450f1edc461bb55514c258 https://preview.redd.it/6eghhto3ub3g1.jpg?width=4032&format=pjpg&auto=webp&s=7dcb48002f3855bfec99405a5b22081cd2419e04 https://preview.redd.it/gtqilso3ub3g1.jpg?width=3024&format=pjpg&auto=webp&s=8459cd1ca7f731fe45c0cbae024382189db1127d"
-    },
-    {
-      "title": "What would you use it for?",
-      "author": "Full_Connection_2240",
-      "url": "https://www.reddit.com/r/robotics/comments/1p5a9r2/what_would_you_use_it_for/",
-      "published": 1763967347.0,
-      "thumbnail": "https://external-preview.redd.it/bHRveno5dGFrNTNnMb61BGwDxA7-g6hWmobDlhvn3S-_1A_ZWLymr3-wGxbP.png?width=640&crop=smart&auto=webp&s=3e5e940c5aea865058759e43bddfbd45be196e48",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Trying to get some ideas to make a demonstration of its potential capabilities.. Or even just your thoughts on it's design! Thanks :) https://www.youtube.com/watch?v=qawYP6E3znw"
     }
   ],
-  "fetched_at": "2025-11-25T18:36:54.137290+00:00"
+  "fetched_at": "2025-11-25T19:16:55.241259+00:00"
 }

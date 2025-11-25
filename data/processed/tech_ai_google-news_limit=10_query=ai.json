@@ -5,24 +5,44 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Nvidia name-checks Michael Burry in secret memo pushing back on AI bubble allegations",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVkhDS3o1MTRpUndSUTZDR0tpRkpxQXE4cHNiWHNyOGU5QVhEMnR1Q1Q5VUJyV3JxeGVZODI1RXRiNGZSa055aGtMWDhLRjdCNGFoWTVid25TZ3dWQVpkSEdHVlFpX3RUazhlM3lHZ3I0aHBISmtrTjFuQm5peGlmVFNhdHB5RGJ3X1ZkYUZJdGljOU1LYkV1d25OclptQdIBowFBVV95cUxQek1tNmNxRUg0bGpBM2FpUUpTazMyRUNIT3N2TUZCTmdMUmhxUzRiX1BJd3RERFVIR3RCMWJ0eVVPUWRqMURDRFN1RXZhVTBjVU9TWUhLUUhiTUlMc2RPZjNWeC1md3hzNGpiYlo4VWVGZjRkeDdESDFCbS1xS0pYUWNheVlaVm51enN3aldsbXlRaWdIbUhDeEg3YW02MlZzUkxz?oc=5",
-      "pub_date": 1764086125.0,
-      "article_url": "https://www.cnbc.com/2025/11/25/nvidia-pushes-back-on-charges-that-ai-investment-is-a-bubble.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/103218290-GettyImages-498516206.jpg?v=1764085630&w=1920&h=1080",
-      "description": "The chipmaker quietly circulated a private memo to analysts that explicitly name-checked investor Michael Burry and pushed back on many of his claims."
-    },
-    {
-      "headline": "Prosecutor Used Flawed A.I. to Keep a Man in Jail, His Lawyers Say",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTElLZEUwanZERVp0MUNqenBTVTlNelZVVDgxTWxDNjNwbUhoa3ZPRnM0ZEFkM1Z1YmczaTdPcmZLZzJ4VDhMTHJoUGlUWVlNLUZOX0NSZ0EyY0pkV3VLRXduMHdzcEs3U3dPR3lsSnFQOW9NZnlJLWJmeTVJM3h6REFFdC1CTVltY05QSzRrcDNVQ3BJdHNnc29tMFJ5WV84ZE0zdHR3?oc=5",
-      "pub_date": 1764088522.0,
-      "article_url": "https://www.nytimes.com/2025/11/25/us/prosecutor-artificial-intelligence-errors-lawyers-california.html",
+      "headline": "Google Further Encroaches on Nvidia\u2019s Turf With New AI Chip Push",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWNkaE5DQjFRZ0lZS0RIZjU2Nlp1NDEtQkR2N1JQckluRkE0OGRHU3pKN3B1eHFwNXktVzJvQlUyMU54OEpVeVRIc2xWMmhBTVFEMzNFN3FVMFppYldidi1lNVZBV2hXS080VXNZUlVBd1dtc3lXVnA3emladDhBeFFMQ3E2ZXBwRUltNmpUTDQ?oc=5",
+      "pub_date": 1764024180.0,
+      "article_url": "https://www.theinformation.com/articles/google-encroaches-nvidias-turf-new-ai-chip-push",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "I\u2019m a Professor. A.I. Has Changed My Classroom, but Not for the Worse.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1JDcTlTQlp3VVhmZURGLVNOR0JBVGZIVVhBZjEyWEJYQ2pySVpYdEhzdVVCZTZEVnBsMTVlM25LSGk5OUEwWmpvSUpYX2xPYXB6RHpSSHVZd1lZdHNLY0hSWTlreTI2ZG5vNjB5Rk9iZXNfTXZqN2JhSnFJSDlLenNyUElkVE1hRl9CUVBsaw?oc=5",
+      "pub_date": 1764064812.0,
+      "article_url": "https://www.nytimes.com/2025/11/25/magazine/ai-higher-education-students-teachers.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI\u2019s Ripple Effects Extend to Home Sales",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXk2UUxHYjYza3lwUWxtampzSGJBZzhkazFVVDFJOFlJMXoxZ3JqcHZaS1ZsbTktdTUyNzFoYlBON3FFWFNMRklIQnF0Q0xUMGl5dTdhcDJnY08tc3hwYTNDUVhFV0JXVV93eUZQTUQ3TnJaVDBDaC1MRmNsZGo5QXQ3c2ZBM3Z1c2xxc1NOb1l0bEtNalppR3lQTE5UUEJLSU5WT0YwUWZIVGRFbWNiWklaRHRHWmJZaU5fVDRTaU5EQQ?oc=5",
+      "pub_date": 1764095733.0,
+      "article_url": "https://www.bloomberg.com/news/newsletters/2025-11-25/ai-s-ripple-effects-on-economy-extend-to-home-sales-as-prices-stagnate",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The Reset: Your Hollywood Guide to an AI Bubble Burst",
+      "source": "TheWrap",
+      "source_url": "https://www.thewrap.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV2s2VlZMczdxYTVNU2x0b1YyZTZGNTRTV01nR0FSaXZYREpfR3Z2bGg0cjdpZW80b1hhcTlfdDZuZ25uSXJodjVxOHhrbzBFMW1pTDJKNDRqanhPdTZwa2dlNkZQcExqaHd0S2U3TlJWT3VtcGpqNXR3M0c3bElBNGl2RQ?oc=5",
+      "pub_date": 1764097200.0,
+      "article_url": "https://www.thewrap.com/the-reset-your-hollywood-guide-to-an-ai-bubble-burst/",
+      "image": "https://i0.wp.com/www.thewrap.com/wp-content/uploads/2025/11/GettyImages-2183146598.jpg?fit=2291%2C1309&quality=89&ssl=1",
+      "description": "Who's most exposed when the AI stock market rally finally comes to an end? See our recap here, from Netflix to Sony"
     },
     {
       "headline": "Trump signs executive order launching Genesis Mission AI project",
@@ -39,7 +59,7 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOakdfYTFXLTRTdE14dHFtSHh5MTNRb0FVWnNJTTNJZVNzRHJPQW1XdWRpME1keXJzdGUwVlVVRmdrS0dPM1hlalh4WkswNzFjcFppY01LZXExbzltTmlHZGtyS3QyZjN3d0pyTTNUdGdRRmk1WHljc1FkN0dvSXBLeml3?oc=5",
-      "pub_date": 1764034576.0,
+      "pub_date": 1764032770.0,
       "article_url": "https://www.nytimes.com/2025/11/24/us/politics/trump-ai-executive-order.html",
       "image": null,
       "description": null
@@ -55,32 +75,12 @@
       "description": "A new federal initiative aims to accelerate scientific discovery by uniting artificial intelligence with large federal datasets"
     },
     {
-      "headline": "Google Further Encroaches on Nvidia\u2019s Turf With New AI Chip Push",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWNkaE5DQjFRZ0lZS0RIZjU2Nlp1NDEtQkR2N1JQckluRkE0OGRHU3pKN3B1eHFwNXktVzJvQlUyMU54OEpVeVRIc2xWMmhBTVFEMzNFN3FVMFppYldidi1lNVZBV2hXS080VXNZUlVBd1dtc3lXVnA3emladDhBeFFMQ3E2ZXBwRUltNmpUTDQ?oc=5",
-      "pub_date": 1764024180.0,
-      "article_url": "https://www.theinformation.com/articles/google-encroaches-nvidias-turf-new-ai-chip-push",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bain Dumps $2.3 Billion in Kioxia Stock--Just as AI Hype Starts to Crack",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ITEJoUnpTS3IxangtYVRKV3RwTTFyTUl3ZTYtZTdzb1hQYzNUQVZTOU9TRWZDaEI1NTJkWEFaODVWejlqQ0NUZVF4WWMzQ29BMGVxbDk1U0xJYlVQeFc0UDctS0tuSGNwUGF6Q0hzTjBONlBOR3pV?oc=5",
-      "pub_date": 1764093282.0,
-      "article_url": "https://finance.yahoo.com/news/bain-dumps-2-3-billion-175442412.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/JahaELneVA78q1GOAhEZ4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/us.finance.gurufocus/cbdfec544d469f13bc2b6056a3f86d8b",
-      "description": "A year after riding AI mania to a sixfold surge, Kioxia faces a harsh reality: Bain is heading for the exit."
-    },
-    {
       "headline": "\u2018Sovereign AI\u2019 Takes Off as Countries Seek to Avoid Overreliance on Superpowers",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQSFdLMngyRFZubWdlZDllQ2RBUURiTWJYWDZsT2dPcHVsY3BUMW1hM2I3RVBjc3JFa0h2Vl9obklTZ1NXQUFXbnJhRGQ0WXV4T1VqdDFfTmtlMTZ5bzNOQ21Oa2NJQ2RTcmpEN2J4b1NPQUtsY1JxMFhaVFZkNWJnMjVQWklhT01KSE5pVkJNeDJFbnNScmZIVDQtQlpzUDN4SjRERVp0dEdlTzhMaExrdEhTMjBYd1Q2V1Jzd0R1WlJCdjhoVERNN1RzMmw0T1dpc21FNGw5OGJfTExuZVZmeDAwZVdUY2NkZzQ1NXNCaklYRWJaTVF5OE5qNGpaakgzdGRHejRFVUlFT0lNUVc3N0tnMDZtQ2NvQ2F2QmlrdzVwWnEzTzBJOXdqVHBud0ZjSUpJRmlvWEZJNUt4cUQ2em1CNzlqWndOUk45bEdXUWlQWHV0X1gycVcxenZBeHJ0bEFPWlM4cktuMlBGZGVmMG9Fd09vbmZhQU9KVHpYZ2ZGYmdGRVhkT05kTThoMnJDa2haekxrRUlwcEcyMVoxU3Ewc1lIcDFuZVJVMlZKTFI3TU9NMnd3dGx5NHg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOeTItNlRpTGM1Z0thTUc1QmNzLWhoVWRubkhjMGVzSWRqc2J1R3ZETkc0cDdGU1pCUWpvOFVVVTJvakVwMEJIV3ZsZ3dTVVBJejZYbVJvWGl5OXM3NDYzODhmTFlXQWRRZU9XaXQtUXUwQlNqbUVCSmJFbkNQMVZybzJLbnBmTWRPTEpNQldNX2lKWEJMWUtabzlQY1NUQlBGUU9GZFdoS0lKdWlyNjhBOUZBVTVwS3J2UDVvNVR3MVlxRGk4SFh1c2RZdkVka2xUUHVaaXJCUE1qTFFoU2NjaUNWVnJELS0zelVSRGRwWEpaZ1diSXZReWZjaEh2MEVDcGc1M1dhTFhmNldkQ3lPcjY2ZVZ4NlluY0w1MlNPbkR1US0yZjlQUVUtOGNwdGZ6c2dwVFdSeG1BMXY1RUM3LVpiOHF4M3Y2Ql9aQ282WUl0S1YxWGVrVGRvZ3RJRHlCRVFCYnV2ZHdWRFUyQ290VmZ0NGRTdHoyRmlqdlE2TVN1S2VqbGk1a3pBSG92LVgtSkFobnlUYVB3czQ5T0hpZC1DaFcybW9CU1IyQWVhWFpmVTFBdWRJWjhkTDM?oc=5",
       "pub_date": 1764043200.0,
-      "article_url": "https://www.wsj.com/tech/ai/sovereign-ai-takes-off-as-countries-seek-to-avoid-overdependence-on-superpowers-6b1689f7?gaa_at=eafs&gaa_n=AWEtsqfciDH1vPwT40esqyuoMlB2VbcO1BZw7e9OMgQeGhY3A_9Qi1kirz_D&gaa_ts=6925fac5&gaa_sig=cjwwjZofAoBQiJ6h4graVfrg1lyHr9u4elNUr18jp_mvVlOjEOQgYmjiyiXWWF50AiJOgPx71DP4COnSsYMMsQ%3D%3D",
+      "article_url": "https://www.wsj.com/tech/ai/sovereign-ai-takes-off-as-countries-seek-to-avoid-overdependence-on-superpowers-6b1689f7?gaa_at=eafs&gaa_n=AWEtsqcOkmbr6fXHBaDpdv-zH6ltaFQL0Ia3PnEUqNjR-9PkORmLB3Yi45Yx&gaa_ts=69260421&gaa_sig=BPdyffNniyjLWi2d6aCZW3fscIoUMIBL4gNzsJC1kpwj1oma7sINNHNmJbrXM5cq-N4FRadRdtQSJfz3M8D4AA%3D%3D",
       "image": "https://images.wsj.net/im-60425344/social",
       "description": "South Korea and others believe their homegrown tech sectors are strong enough to build up their own AI capabilities."
     },
@@ -95,16 +95,16 @@
       "description": null
     },
     {
-      "headline": "AI Slop Recipes Are Taking Over the Internet \u2014 And Thanksgiving Dinner",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdWdOQUhTYTNkUjVUenVBUlBKcHM5alJsdGg4TTdteTQxZVNac1hSaXpsMThfY0tEYlpuY3FqV2w1RHA0Mkt3SUpHX2NFekIxOWQxRmcyVVB1UkdYb29TYU5zaHB4a0M1YnhfTGlnQWhGRlh3aHdweExYWTZ0QmNqaE9taTFPLUphczc4ZExXdHNCdTgwTTdKUW93NG03UFpSSFRtTU5sRkg4NVFWam9waUwtUGFaRzJxR0dj?oc=5",
-      "pub_date": 1764083057.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-25/ai-slop-recipes-are-taking-over-the-internet-and-thanksgiving-dinner",
-      "image": null,
-      "description": null
+      "headline": "Deloitte just got caught again citing fabricated and AI-generated research\u2014this time in a million-dollar report for a Canadian provincial government",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNDl2OWNLaThMSUlmRlQwZDd4anA5QVdpN0ZIbUtLSnItMmZZaExEMVlPUHJUNmF0VUZwV19wSXp4b05RNVdqS044bWFieTRoYU9FRWtQcDVac3pBVlJQQXAyeFdyYk1mdzU4cDVBQ19XMktBYzlScEJPd2JkOWhNMmN2eG1RMTNNa0d4Qjg4NVczQVRrQWl3aEs5SFRENzFqSVZkM2hwaDloemVGWTNsWTlyRzZ4X29FZUtiVg?oc=5",
+      "pub_date": 1764068675.0,
+      "article_url": "https://fortune.com/2025/11/25/deloitte-caught-fabricated-ai-generated-research-million-dollar-report-canada-government/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2219338782-e1764016531575.jpg?resize=1200,600",
+      "description": "In a healthcare report aimed to address a nurse and doctor shortage, Deloitte cited several fake studies with real researchers\u2019 names attached."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T18:37:13.424028+00:00"
+  "fetched_at": "2025-11-25T19:17:07.085994+00:00"
 }
