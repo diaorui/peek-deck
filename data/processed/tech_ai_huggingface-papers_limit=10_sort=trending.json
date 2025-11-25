@@ -92,7 +92,7 @@
       "num_comments": 0,
       "published_at": "2024-10-08T04:00:12.000Z",
       "github_repo": "https://github.com/hkuds/lightrag",
-      "github_stars": 24324,
+      "github_stars": 24366,
       "project_page": null
     },
     {
@@ -164,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16334",
       "arxiv_url": "https://arxiv.org/abs/2511.16334",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16334.png",
-      "upvotes": 81,
+      "upvotes": 83,
       "num_comments": 2,
       "published_at": "2025-11-20T08:11:45.000Z",
       "github_repo": "https://github.com/EvolvingLMMs-Lab/OpenMMReasoner",
@@ -187,11 +187,11 @@
       "num_comments": 1,
       "published_at": "2025-10-26T01:49:38.000Z",
       "github_repo": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
-      "github_stars": 16537,
+      "github_stars": 16574,
       "project_page": "https://fapo-rl.github.io/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-25T14:48:28.994809+00:00"
+  "fetched_at": "2025-11-25T15:49:37.469715+00:00"
 }
