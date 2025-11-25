@@ -75,6 +75,16 @@
       "description": "A Chinese company says its AgiBot A2 robot walked from Suzhou to Shanghai, \"all while adhering to traffic regulations.\""
     },
     {
+      "headline": "Agents, robots, and us: Skill partnerships in the age of AI",
+      "source": "McKinsey & Company",
+      "source_url": "https://www.mckinsey.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGR5TllRdWM0VUFxX0o1TDk1bmp2eklMTDBkTjJlbUM5eXhkSGZBSEtfNzlUSy1FdnRiVno4Mkd5LWNITV9OODZKRVhiXzRGVjdSTmJYOXJmRWdHd1hqNDZzSmY0MzhGT25Ha291azBYNDFfNjROcjdRdDdHcW1jdHhFaGNVSkJlZTFVWDV1TjEtekhKRDktX2psMk4ycjA?oc=5",
+      "pub_date": 1764028800.0,
+      "article_url": "https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-skill-partnerships-in-the-age-of-ai",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Walt Disney Imagineering Brings \u2018Frozen\u2019 Olaf Robotic Character to Life",
       "source": "The Walt Disney Company",
       "source_url": "https://thewaltdisneycompany.com",
@@ -83,16 +93,6 @@
       "article_url": "https://thewaltdisneycompany.com/olaf-robotic-character/",
       "image": "https://thewaltdisneycompany.com/app/uploads/2025/11/SB200703-ModifierPressRes.jpg",
       "description": "On Monday, Walt Disney Imagineering (WDI) released the latest episode of its hit series, \u201cWe Call It Imagineering,\u201d taking audiences inside the global Research \u2026Read More"
-    },
-    {
-      "headline": "The Droids Taking Over One of England\u2019s Strangest Towns",
-      "source": "New York Magazine",
-      "source_url": "https://nymag.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdlJwNG9KVGNpVVhjdmZuRHoyZTJqMmdUZVQzTWJTWFVNbFFkaS1wTmpTSU02TmZiTlUxR0ktczExUU5oWWZ6a09idy1IRk11b2R1RjRXTDRRcndmN3BHcUhlZU9DaENBckExUHlHekY4UGRpQ0RtVjZRNV9BaHo1OXNxZmxDVDA?oc=5",
-      "pub_date": 1763978409.0,
-      "article_url": "https://nymag.com/intelligencer/article/robots-taking-over-milton-keynes-uk.html",
-      "image": "https://pyxis.nymag.com/v1/imgs/9fb/deb/53f2fc3fc717a322a29f93cdf626698c75-Milton-Keynes-lede.1x.rsocial.w1200.jpg",
-      "description": "Want a glimpse of our robot-filled future? Just go to Milton Keynes."
     },
     {
       "headline": "Launch of FoxLeague \u2014 A Major Milestone in AI Robotics Gaming",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T13:45:45.968555+00:00"
+  "fetched_at": "2025-11-25T14:30:22.543998+00:00"
 }

@@ -35,15 +35,15 @@
       "description": "To blunt Trump\u2019s push to reclaim global manufacturing, China\u2019s factories and ports are learning to make and export more goods faster, cheaper and with fewer workers."
     },
     {
-      "title": "Introducing Claude Opus 4.5",
-      "author": "Frequent-Football984",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5r48y/introducing_claude_opus_45/",
-      "published": 1764013748.0,
-      "thumbnail": "https://external-preview.redd.it/Q03cq5_pcnDRO5KFs7hq6MbbfplO_rWZxiECHCty4UM.png?width=640&crop=smart&auto=webp&s=509938643d9a416961826caf36f9d317a94a294e",
-      "external_url": "https://www.anthropic.com/news/claude-opus-4-5",
-      "site_name": "anthropic.com",
-      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
-      "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+      "title": "AI cited in nearly 50,000 job cuts this year as tech giants accelerate automation, with 31,000 in October alone.",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6cw85/ai_cited_in_nearly_50000_job_cuts_this_year_as/",
+      "published": 1764078533.0,
+      "thumbnail": "https://external-preview.redd.it/tUiA6XW7aVcHGw3xD1mT-fogOCWxMJeQTUj_lwHg6xQ.jpeg?width=640&crop=smart&auto=webp&s=7076a9c78d89b97a92efce4125cece5702f04325",
+      "external_url": "https://www.latimes.com/business/story/2025-11-20/ai-cited-in-close-to-50-000-job-cuts-as-tech-giants-accelerate-automation",
+      "site_name": "Los Angeles Times",
+      "favicon": "https://www.latimes.com/apple-touch-icon.png",
+      "description": "In recent months, large firms across industries and geographic regions have become more vocal with claims that AI is allowing them to eliminate staff and reduce hiring."
     },
     {
       "title": "Trump signs executive order launching \"Genesis\" mission to expedite scientific discovery using AI",
@@ -57,15 +57,26 @@
       "description": "A White House official called Genesis \"the largest marshaling of federal scientific resources since the Apollo program.\""
     },
     {
-      "title": "BCG/MIT: 76% of Leaders Consider Agentic AI as Coworkers \u2014 Not Just Tools",
-      "author": "CryoSchema",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6222a/bcgmit_76_of_leaders_consider_agentic_ai_as/",
-      "published": 1764041470.0,
-      "thumbnail": "https://external-preview.redd.it/vvwBvDSLoc7PFD6bDV1t4Xb7ENBezOMHEviGYe4b0nA.jpeg?width=640&crop=smart&auto=webp&s=31276196457900ad78195d34bf80ad04dec008f1",
-      "external_url": "https://www.interviewquery.com/p/ai-agents-as-coworkers-2025",
-      "site_name": "Interview Query",
-      "favicon": "https://d7d33nal7kx3h.cloudfront.net/production/favicon.png",
-      "description": "Agentic AI is rapidly shifting from software to \u201ccoworker,\u201d with 76% of leaders already treating AI agents as teammates\u2014reshaping workflows, skills, governance, and the future of work."
+      "title": "Introducing Claude Opus 4.5",
+      "author": "Frequent-Football984",
+      "url": "https://www.reddit.com/r/artificial/comments/1p5r48y/introducing_claude_opus_45/",
+      "published": 1764013748.0,
+      "thumbnail": "https://external-preview.redd.it/Q03cq5_pcnDRO5KFs7hq6MbbfplO_rWZxiECHCty4UM.png?width=640&crop=smart&auto=webp&s=509938643d9a416961826caf36f9d317a94a294e",
+      "external_url": "https://www.anthropic.com/news/claude-opus-4-5",
+      "site_name": "anthropic.com",
+      "favicon": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
+      "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "title": "Which AI Gen tool would allow me to \"compose\" a picture with references?",
+      "author": "dreadul",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6dbzn/which_ai_gen_tool_would_allow_me_to_compose_a/",
+      "published": 1764079665.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hello, folks. My sister, my brother, our friend, and I play online video games together. One of those games is League. For a Christmas present, I would like to compose a picture of our main champions together in a particular way. So I need an AI gen tool that I could feed pictures of our champs for references and to imitate art style, and then ask it to generate a picture with a particular composition, and possibly to alter it with further prompts for details instead of re-generating again. Which tool would best fit my purpose? Thank you in advance. (This is not for profit, this is for single-use private present)"
     },
     {
       "title": "Meta now ties employee performance reviews to AI-driven impact starting 2026, thoughts on this becoming standard?",
@@ -90,27 +101,16 @@
       "description": "Abstract: Artificial Intelligence (AI) systems are prone to various errors ranging from blatantly fabricated outputs to subtle retrieval oversights. This paper introduces the Turing Mirage, a novel phenomenon where AI systems project an illusion of complete knowledge or expertise\u2014particularly regarding provenance and historical accuracy\u2014that unravels upon closer inspection. We analyze its defining criteria, differentiate it from related concepts such as hallucination and Turing Slip, and discuss implications for AI interpretability and trustworthiness. 1. Introduction AI\u2019s increasing role in information synthesis invites scrutiny of the types of cognitive errors it may make. While content \u201challucinations\u201d\u2014fabricated but plausible falsehoods\u2014have been extensively studied, retrieval-centric illusions remain underexplored. The Turing Mirage specifically addresses this gap, describing how AI outputs can generate misleading impressions of epistemic thoroughness while overlooking foundational sources. 2. Definition of Turing Mirage A Turing Mirage is defined as follows: An AI-produced illusion of expert knowledge or comprehensive understanding on a subject, especially in relation to source provenance or historical detail, which is later exposed as incomplete or erroneous due to failure to retrieve or recognize foundational information. 3. Formal Criteria To identify a Turing Mirage, the following must be met: (a) AI output indicates apparent comprehensive knowledge or expertise. (b) The focus is on provenance, source attribution, or historical accuracy. (c) Verifiable omissions or errors are revealed upon deeper investigation, highlighting missed critical sources. (d) The failure is due to systematic retrieval or prioritization limitations, not content fabrication. (e) The AI\u2019s output creates an epistemic illusion comparable to a mirage, fostering misleading confidence. 4. Differentiation from Related Phenomena Concept Description Key Characteristics Hallucination Fabrication of false or ungrounded content by AI. Output is fictitious, missing basis in data or training. Turing Slip A surface-level mechanical or algorithmic error revealing internal AI processing flaws. Often bizarre, revealing processing \u201cglitches\u201d akin to Freudian slips. Turing Mirage A meta-level retrieval failure presenting an illusion of full knowledge due to missing provenance. Misleading completeness; epistemic gap revealed after scrutiny. 5. Illustrative Example An AI system confidently recounts derivative uses of the term \u201cTuring Slip\u201d but omits mention of its original coinage in a 2003 blog post by Clive Thompson. This omission is discovered only after external input, characterizing a Turing Mirage: an epistemic gap in retrieval masquerading as knowledge. 6. Implications and Applications Recognizing Turing Mirages aids in diagnosing subtle epistemic weaknesses in AI outputs, especially in scholarship, legal, or historical research contexts where provenance matters deeply. Developing methodologies to detect and mitigate such retrieval failures will enhance AI transparency and user trust. 7. Conclusion The Turing Mirage highlights a critical but underappreciated dimension of AI fallibility\u2014epistemic incompleteness masked as confident expertise. Addressing it can elevate AI\u2019s role as a reliable information steward. References Thompson, C. (2003). The \u201cTuring Slip.\u201d Collision Detection."
     },
     {
-      "title": "Amazon to spend up to $50 billion on AI infrastructure for U.S. government",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5r8w4/amazon_to_spend_up_to_50_billion_on_ai/",
-      "published": 1764014038.0,
-      "thumbnail": "https://external-preview.redd.it/if9k6bvAIV-nrdgivi7-t1wD5nW7DKebS1uehIm1aWs.jpeg?width=640&crop=smart&auto=webp&s=1172336be558086c3ed96542be3ccaa219d80ab9",
-      "external_url": "https://www.cnbc.com/2025/11/24/amazon-to-spend-up-to-50-billion-on-ai-services-for-us-government.html",
-      "site_name": "CNBC",
-      "favicon": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
-      "description": "The project will add 1.3 gigawatts of capacity across new data centers, with Amazon expected to break ground in 2026."
-    },
-    {
-      "title": "Nvidia Is Advertising Partnerships With Firms Partly Owned By The Chinese Communist Party",
-      "author": "forbes",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5j4rc/nvidia_is_advertising_partnerships_with_firms/",
-      "published": 1763996120.0,
-      "thumbnail": "https://external-preview.redd.it/3vd4BtHJSopQiafbUMqPgit1LKTzzloFxmBY3jtfOrk.jpeg?width=640&crop=smart&auto=webp&s=23e2d514823ad0683840662b06ab0565c9126f6e",
-      "external_url": "https://go.forbes.com/l8nhoy",
-      "site_name": "Forbes",
-      "favicon": "https://i.forbesimg.com/57X57-F.png",
-      "description": "The chipmaker\u2019s website touts its work with companies like ZTE, which has been effectively banned from selling its products in the U.S. over national security concerns."
+      "title": "BCG/MIT: 76% of Leaders Consider Agentic AI as Coworkers \u2014 Not Just Tools",
+      "author": "CryoSchema",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6222a/bcgmit_76_of_leaders_consider_agentic_ai_as/",
+      "published": 1764041470.0,
+      "thumbnail": "https://external-preview.redd.it/vvwBvDSLoc7PFD6bDV1t4Xb7ENBezOMHEviGYe4b0nA.jpeg?width=640&crop=smart&auto=webp&s=31276196457900ad78195d34bf80ad04dec008f1",
+      "external_url": "https://www.interviewquery.com/p/ai-agents-as-coworkers-2025",
+      "site_name": "Interview Query",
+      "favicon": "https://d7d33nal7kx3h.cloudfront.net/production/favicon.png",
+      "description": "Agentic AI is rapidly shifting from software to \u201ccoworker,\u201d with 76% of leaders already treating AI agents as teammates\u2014reshaping workflows, skills, governance, and the future of work."
     }
   ],
-  "fetched_at": "2025-11-25T13:45:26.807268+00:00"
+  "fetched_at": "2025-11-25T14:29:47.139888+00:00"
 }

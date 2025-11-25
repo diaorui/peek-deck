@@ -24,17 +24,6 @@
       "description": null
     },
     {
-      "title": "This Is Bitcoin's Last Dip Before $150,000 Breakout",
-      "author": "tradethefear",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p6049s/this_is_bitcoins_last_dip_before_150000_breakout/",
-      "published": 1764035910.0,
-      "thumbnail": "https://external-preview.redd.it/wjl6Ifoqqdr0ujM3dvAp7F56lhda36kdf379B1OUcEI.jpeg?width=320&crop=smart&auto=webp&s=ab4b6bebfd42c639f233ff14fa910a416dec0049",
-      "external_url": "https://youtube.com/watch?v=FPOJ0q97Zhk&si=U_wFrJxnOzByqHFj",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/33c3234b/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
       "title": "Crypto thieves waterboarded, sexually assaulted family in $1.6M heist",
       "author": "DangerPager69",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p5ujsc/crypto_thieves_waterboarded_sexually_assaulted/",
@@ -51,6 +40,17 @@
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p5uvgb/50_for_what/",
       "published": 1764022278.0,
       "thumbnail": "https://external-preview.redd.it/dHVlc3FrbW8zYTNnMat6dzoqhehDFEJgWDomZrmijvjQWGGSwjIChYaaz4zR.png?width=640&crop=smart&auto=webp&s=ca06c0427de1dfa5d2751668a293daddec2cbbf1",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Do you believe your eyes?",
+      "author": "Moist_Bass_5823",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p6d44o/do_you_believe_your_eyes/",
+      "published": 1764079116.0,
+      "thumbnail": "https://preview.redd.it/71fyyoywse3g1.jpeg?width=640&crop=smart&auto=webp&s=67822a93736247fa8c81dc75c91d319a9ab6fe0c",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-25T13:45:28.069294+00:00"
+  "fetched_at": "2025-11-25T14:29:47.424901+00:00"
 }
