@@ -13,17 +13,6 @@
       "description": null
     },
     {
-      "title": "Must've seen nothin",
-      "author": "unthocks",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p5yj50/mustve_seen_nothin/",
-      "published": 1764031520.0,
-      "thumbnail": "https://preview.redd.it/w595xv7dva3g1.jpeg?width=640&crop=smart&auto=webp&s=6ae70221a15c48dce8060bbb2419a4fde74615f0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "This Is Bitcoin's Last Dip Before $150,000 Breakout",
       "author": "tradethefear",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p6049s/this_is_bitcoins_last_dip_before_150000_breakout/",
@@ -101,6 +90,17 @@
       "description": "Just doing my part"
     },
     {
+      "title": "Must've seen nothin",
+      "author": "unthocks",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p5yj50/mustve_seen_nothin/",
+      "published": 1764031520.0,
+      "thumbnail": "https://preview.redd.it/w595xv7dva3g1.jpeg?width=640&crop=smart&auto=webp&s=6ae70221a15c48dce8060bbb2419a4fde74615f0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "\ud83d\ude05\ud83e\udd72",
       "author": "Lost_Capital3723",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p5p9ih/_/",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-25T12:23:50.413633+00:00"
+  "fetched_at": "2025-11-25T13:08:18.764729+00:00"
 }

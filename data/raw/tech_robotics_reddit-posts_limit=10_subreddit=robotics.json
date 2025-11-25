@@ -2,6 +2,17 @@
   "subreddit": "robotics",
   "posts": [
     {
+      "title": "Kyber Labs hand rotates a nut on a bolt at super high speed, fully in real time with no edits",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1p69bkz/kyber_labs_hand_rotates_a_nut_on_a_bolt_at_super/",
+      "published": 1764067423.0,
+      "thumbnail": "https://external-preview.redd.it/d2tzdmZmbHp0ZDNnMZt21T7gZIc6qgnt26ZnwmtkE82GCAbBQduNZc7moJzt.png?width=640&crop=smart&auto=webp&s=81c8be457a0852ae9a14189b4ecfa7fdec27537b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Kyber Labs on \ud835\udd4f : \"Our hand rotates a nut on a bolt at super high speed, fully in real time with no edits. This is possible because it\u2019s fully backdrivable and torque transparent so it adapts naturally to the nut. The result is simpler, more reliable manipulation for software and learning systems.\": https://x.com/KyberLabsRobots/status/1993060588789137785 Website: https://kyberlabs.ai"
+    },
+    {
       "title": "Fully autonomous robots commanded using human language",
       "author": "Cachee0",
       "url": "https://www.reddit.com/r/robotics/comments/1p5zfx8/fully_autonomous_robots_commanded_using_human/",
@@ -11,17 +22,6 @@
       "site_name": null,
       "favicon": null,
       "description": "From Dimensional OS: https://x.com/dimensionalos"
-    },
-    {
-      "title": "Kyber Labs hand rotates a nut on a bolt at super high speed, fully in real time with no edits",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1p69bkz/kyber_labs_hand_rotates_a_nut_on_a_bolt_at_super/",
-      "published": 1764067423.0,
-      "thumbnail": "https://external-preview.redd.it/d2tzdmZmbHp0ZDNnMZt21T7gZIc6qgnt26ZnwmtkE82GCAbBQduNZc7moJzt.png?width=640&crop=smart&auto=webp&s=81c8be457a0852ae9a14189b4ecfa7fdec27537b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Kyber Labs \ud835\udd4f: \"on Our hand rotates a nut on a bolt at super high speed, fully in real time with no edits. This is possible because it\u2019s fully backdrivable and torque transparent so it adapts naturally to the nut. The result is simpler, more reliable manipulation for software and learning systems.\": https://x.com/KyberLabsRobots/status/1993060588789137785?s=20 Website: https://kyberlabs.ai"
     },
     {
       "title": "After 2 years, I'm open-sourcing the Rebelia Hand: From DIY files to a pre-assembled robot hand",
@@ -112,5 +112,5 @@
       "description": "MagicLab website: https://www.magiclab.top/en From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1991895323246219551"
     }
   ],
-  "fetched_at": "2025-11-25T12:23:51.326890+00:00"
+  "fetched_at": "2025-11-25T13:08:21.681993+00:00"
 }
