@@ -82,8 +82,8 @@
       "description": "AI-powered git commit message rewriter using Ollama or GPT",
       "url": "https://github.com/f/git-rewrite-commits",
       "preview_image": "https://opengraph.githubassets.com/c6b09847c72773387ee5104f29860f48c86cb236c664f2498a9824bd0f2f1b88/f/git-rewrite-commits",
-      "stars": 841,
-      "stars_display": "841",
+      "stars": 842,
+      "stars_display": "842",
       "forks": 34,
       "forks_display": "34",
       "language": "TypeScript",
@@ -155,8 +155,8 @@
       "description": "EverMemOS is an open-source, enterprise-grade intelligent memory system. Our mission is to build AI memory that never forgets, making every conversation built on previous understanding.",
       "url": "https://github.com/EverMind-AI/EverMemOS",
       "preview_image": "https://opengraph.githubassets.com/fea5bac69284b6fc84ca2d9ce9d7c3999b01d406d1a1ee24250c634becff8d81/EverMind-AI/EverMemOS",
-      "stars": 704,
-      "stars_display": "704",
+      "stars": 705,
+      "stars_display": "705",
       "forks": 70,
       "forks_display": "70",
       "language": "Python",
@@ -184,6 +184,6 @@
   "search_query": "ai created:>2025-10-26",
   "days": 30,
   "limit": 10,
-  "total_count": 217669,
-  "fetched_at": "2025-11-25T18:36:50.261017+00:00"
+  "total_count": 217994,
+  "fetched_at": "2025-11-25T19:43:59.950605+00:00"
 }
