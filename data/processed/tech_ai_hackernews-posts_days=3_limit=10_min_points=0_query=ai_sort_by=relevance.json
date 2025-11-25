@@ -9,8 +9,8 @@
       "url": "https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html",
       "hn_url": "https://news.ycombinator.com/item?id=46027833",
       "author": "bookofjoe",
-      "points": 483,
-      "num_comments": 594,
+      "points": 484,
+      "num_comments": 595,
       "created_at": "2025-11-23T22:06:44Z",
       "object_id": "46027833",
       "image": null,
@@ -23,7 +23,7 @@
       "url": "https://news.ycombinator.com/item?id=46029699",
       "hn_url": "https://news.ycombinator.com/item?id=46029699",
       "author": "pugworthy",
-      "points": 347,
+      "points": 348,
       "num_comments": 205,
       "created_at": "2025-11-24T02:25:39Z",
       "object_id": "46029699",
@@ -37,8 +37,8 @@
       "url": "https://mathstodon.xyz/@tao/115591487350860999",
       "hn_url": "https://news.ycombinator.com/item?id=46017972",
       "author": "dwohnitmok",
-      "points": 288,
-      "num_comments": 81,
+      "points": 290,
+      "num_comments": 82,
       "created_at": "2025-11-22T20:27:41Z",
       "object_id": "46017972",
       "image": null,
@@ -65,8 +65,8 @@
       "url": "https://twitter.com/karpathy/status/1993010584175141038",
       "hn_url": "https://news.ycombinator.com/item?id=46036878",
       "author": "bilsbie",
-      "points": 224,
-      "num_comments": 258,
+      "points": 240,
+      "num_comments": 267,
       "created_at": "2025-11-24T17:51:02Z",
       "object_id": "46036878",
       "image": null,
@@ -89,6 +89,20 @@
       "site_name": "arXiv.org"
     },
     {
+      "title": "AI has a deep understanding of how this code works",
+      "url": "https://github.com/ocaml/ocaml/pull/14369",
+      "hn_url": "https://news.ycombinator.com/item?id=46039274",
+      "author": "theresistor",
+      "points": 115,
+      "num_comments": 37,
+      "created_at": "2025-11-24T21:03:22Z",
+      "object_id": "46039274",
+      "image": "https://opengraph.githubassets.com/f9a348201f077266a2109b8803c1e9517a12068a8a133f050a8278edb857918b/ocaml/ocaml/pull/14369",
+      "description": "DWARF v5 Debugging Support for OCaml Native Compiler\nThis PR adds DWARF v5 debug information to the OCaml native compiler, allowing proper source-level debugging in GDB and LLDB.\nWhat&#39;s Impleme...",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
+    },
+    {
       "title": "General principles for the use of AI at CERN",
       "url": "https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern",
       "hn_url": "https://news.ycombinator.com/item?id=46032513",
@@ -103,25 +117,11 @@
       "site_name": "CERN"
     },
     {
-      "title": "AI has a deep understanding of how this code works",
-      "url": "https://github.com/ocaml/ocaml/pull/14369",
-      "hn_url": "https://news.ycombinator.com/item?id=46039274",
-      "author": "theresistor",
-      "points": 84,
-      "num_comments": 21,
-      "created_at": "2025-11-24T21:03:22Z",
-      "object_id": "46039274",
-      "image": "https://opengraph.githubassets.com/f9a348201f077266a2109b8803c1e9517a12068a8a133f050a8278edb857918b/ocaml/ocaml/pull/14369",
-      "description": "DWARF v5 Debugging Support for OCaml Native Compiler\nThis PR adds DWARF v5 debug information to the OCaml native compiler, allowing proper source-level debugging in GDB and LLDB.\nWhat&#39;s Impleme...",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
-    },
-    {
       "title": "Insurers retreat from AI cover as risk of multibillion-dollar claims mounts",
       "url": "https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62",
       "hn_url": "https://news.ycombinator.com/item?id=46030360",
       "author": "gwintrob",
-      "points": 71,
+      "points": 72,
       "num_comments": 9,
       "created_at": "2025-11-24T04:22:12Z",
       "object_id": "46030360",
@@ -145,7 +145,7 @@
       "site_name": "vibescaffold.dev"
     }
   ],
-  "total_hits": 390,
+  "total_hits": 399,
   "has_metadata": true,
-  "fetched_at": "2025-11-25T11:25:11.402149+00:00"
+  "fetched_at": "2025-11-25T12:23:47.006446+00:00"
 }

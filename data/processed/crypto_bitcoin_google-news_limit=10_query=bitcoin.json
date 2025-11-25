@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Why Crypto\u2019s Slide Is Rattling Wall Street",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjliSG1IZGtkQVo3TVplOGI5R2RFV0pkQ2dLRk9pV3g4TFZ6SnBrUXQwdXB2MUJkcTF5VGpydDN3TzlENUplaGhONlpyMmg2RlRIV09ZSG9tRU9Wei0tMUlnbVZiQ1pHWmlXTEV2OUM4MGdudGhRSVc5dV9zQlB0QUEyMFV4UDE2YUM0ZQ?oc=5",
-      "pub_date": 1764006876.0,
-      "article_url": "https://www.nytimes.com/2025/11/24/business/dealbook/bitcoin-crypto-wall-street.html",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin faces 3 big problems as the cryptocurrency struggles to rebound amid 30% slide from record highs",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTGNaUzJCWUo4SmZWQm5MTWE1XzlKa2NCMWpxUUcxVHhYVDd0bGdBeEg3M0pzcXlTZWpIZGFxRUNONmlkM0FCWFZfTkpGZU1aQ01EVWVpaWNLMlZpVG8zbjJRWWZWQjNXcWN5NHVsNzZ5V2VJLWVFZzVUQlZkNWlFNzVJazg2dERxMzVTbV95MWVkVklHVG5wT0dGQXVQbThIUDVNYjJyZlN6OXY1bU5MRW1NbFlYbUU2Uy1QZU5DMzZnejViTVBVcU94TWdUMlZ5RGhoRDJTUllXbkMwenJEUmNPbw?oc=5",
+      "pub_date": 1764050820.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-faces-3-big-problems-as-the-cryptocurrency-struggles-to-rebound-amid-30-slide-from-record-highs-213736236.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/j9TUOg8GIxjPxGeMD6MmjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/79dfbd80-c72c-11f0-bbfd-7afdd601f2f5",
+      "description": "Bitcoin headwinds mount as the token hovers around $86,000."
     },
     {
       "headline": "BlackRock's iShares bitcoin fund sees record exodus as crypto heads for worst month since 2022",
@@ -45,12 +45,42 @@
       "description": "Investors have pulled $3.5 billion from the US-listed Bitcoin ETFs so far in November, almost equaling the previous monthly record for outflows of $3.6 billion set in February, according to data compiled by Bloomberg.  BlackRock Inc.\u2019s Bitcoin fund IBIT, which accounts for about 60% of the cohort\u2019s assets, has registered $2.2 billion in redemptions in November, meaning it will slump to its worst month barring a sharp reversal.  The outflows come with Bitcoin itself set for its worst monthly performance since the crypto industry collapse of 2022, a daisy chain of corporate failures punctuated by the downfall of Sam Bankman-Fried\u2019s FTX."
     },
     {
+      "headline": "Bitcoin plunges while gold rises, destroying the crypto \u2018safe haven\u2019 narrative",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaTZOb25aVW9ONjd1akdWcHdVdUQ1ai12Mm9tQ3NFNGlVbVk4VHV3SDFZbWNIZmxqTGdDd0prSHdyTHZHal9oVTdSUGREMERmZ09pSmJjcjhDaHdNUlBjdVZSSEFSUEU5Z0lPTUt1dE11OG5OTHZydHZGbVlneXhwR1pB?oc=5",
+      "pub_date": 1764073080.0,
+      "article_url": "https://fortune.com/2025/11/25/bitcoin-price-gold-safe-haven-narrative-over/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-1324553383.jpg?resize=1200,600",
+      "description": "The lower Bitcoin tumbles, the less it looks like \"digital gold.\""
+    },
+    {
+      "headline": "2 reasons the latest bitcoin meltdown will be harder to recover from than prior crashes",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmllRE04dzNXWlgydlNjLWNlZlZKZzNVU0p1SDRnZ2I3eTQ0ZzV4WkNRQWlqOThOQU1hS2RGZzhDN2FhVVNOVC1ELWZ2WjRLMFhxUUp0RHk5V2l4SXNvcnJFU0p0Y2dmeF9FWjlQcHVHcDFKeW9iVlZyMFB4U3U5RWxXczNOOW9EcjdOSnhYOU40SFRQTWlxb2RpaWJuZXlfN25kYmxPbXo3ZXc?oc=5",
+      "pub_date": 1764066600.0,
+      "article_url": "https://www.businessinsider.com/bitcoin-crash-reasons-why-different-from-prior-bear-market-declines-2025-11",
+      "image": "https://i.insider.com/6924aef489026fbb4d0e4c2e?width=1200&format=jpeg",
+      "description": "Bitcoin's current pullback, a more than 30% drop from recent highs, is different than prior declines, according to Deutsche Bank."
+    },
+    {
+      "headline": "Crypto Markets Today: BTC Price Rebounds, Altcoins Rally During Longer-Term Downturn",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZGJYdG4tVlBoTmR1bklIMlQ3c1NMVGRPNE40LVV1dlhnMnlkM1VzWjZUdF9fcWhFTHpwYTZJU1UxdkNmOF9hSS04N1hMbnlfWUdDRXhfQ216RHo1MGRfaXlfOVlXcFBfZWhrdndJQlprWFhNRGJlUVlCU29Gem4xcjEzYUx5cE5nbnFfM08yQ2EzSEtZU3hQVThsdFM4WWJyVlRaZ0RZdDIwd2JyeVBFX0IyVFloMGR5ZkxFR2NNcndZVVQtMWs4NkJn?oc=5",
+      "pub_date": 1764070566.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/25/crypto-markets-today-bitcoin-leads-rebound-as-altcoins-surge-despite-broader-downtrend",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Bitcoin Is Rebounding. Keep an Eye on This Level.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNT1MzcEJrcGhWb0FDQW9zLTdQdGQ1ZVNfbG53SHRVM1dZVXY5UVFBRG9hZ0RuM1MtaXFPWkdBUzR0bHJpY0tKUVFBQUFwaHN3RTdGNkxSbGI5UGxCZVpTNnFKbTBTNzU0cGgxWjVTdmRoTVpoSGZvMV93ZWVpS3BfeF9XYUp6LXZkZzh4N1RVZWJiUExQV0FIcEZvUmx2em1WOWQ0UmVNWDhIMXU1c3dGMUxGSlhwdnJhZVliM08xOE1XaDVJWllwMWxrRjQ0dEJsMW51Z0xQTkR6QUNWRmR0Z2l5cG9feFFTR0RZVkZDOWJnRFNzdEpwRnVXOHI0WlhlOEdRRGpPYzRMcEZzUVFWTU1DaXdwd3ptbWF3V1hZOVdZR0ZVTUtnb21GOUd0MFdDYTBPV3dmemNvTnJlandDdWlqb3RZX2EweGlSU1hwMTRpWmY3SXlkaTVyMm5URlRMTG5BaVZIeHUzYS1hb2l6cHBaUTB6Um0xZXUtYlEyQ2Q5dUZsSEQxOURLaGJCT21N?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNdjZSQVNueU02RWhrQ2hKTDdRWUw1SUR5Nkxaa0tBTWF3WHNfZ29zUk1JV0JkT0xSRDVQbVUweWxUS1pvZkFOUURhS0pNem82cWMweDJxemk2aWRCVVYwaE84NjJwZTd0V1VER0YzR1hoSmlzQkpjNTc3RExIU3dQZjdQS1J4dm5GVmJNNF9NLVVvWlZtRW52d3A1VzFlRWppRzlEa2k2Um04UFFOQjl2SlNGV2tRX1hqUW41SDFHU3d5dUxFUDZCRDY0bFpUc1FhZm5oMEJYVDhyMEFDX3ZPWDRsZ1FqTmdGN1VVamlCc29hUVdOM3ZBWjNKTTVNb1FFLUF2RzhncGdBWS1RXzg2b0tFbHFQNzdHWEdHQklZUmZ5U3g2Vnh2OXF0NkdjRE1FdEU3bmFVMVB1ZXNoRFhNUmp3TmYzTkZuOHlrNW53TzRYaUQyT2xCZG5YT2JtN1RNWTJHdVFsWWlIUkp6eG9RMXdOSnRhRlJ6c21Ya1VzdnJ3aUdRQXg1RVd2S0hSeEsx?oc=5",
       "pub_date": 1764016500.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rebound-a64296f2?gaa_at=eafs&gaa_n=AWEtsqfsuLZrt3wHPXGQjHBUw66RF990B7UIg_cfqqnrHsDvaQzER3S5Mf5Y&gaa_ts=6925959c&gaa_sig=TGHPSZwdjRqnvVkj08EPssPM2QhmSg9yLN0x9UyoHoQVA04RE0-rB2SPI0vagAHa5YZ0xo7xFN7t2WPQejcjlQ%3D%3D",
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rebound-a64296f2?gaa_at=eafs&gaa_n=AWEtsqe-UL7sNZ1dfSBGikMFF-5w7T022Fh-6yDNWVqxwBqHR8XlRF641UKE&gaa_ts=6925a357&gaa_sig=rKcecMt17X4YZNKZLQSw8psIyPdPdj_81iZXR8wPRa1y9oG8aAShGEK5dEWpRVud6R6YhCFYIhDI3dj7I-VHZg%3D%3D",
       "image": null,
       "description": null
     },
@@ -65,46 +95,16 @@
       "description": null
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP Jump as Rebound Gathers Pace. Where Cryptos Go Next.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQbXVxRkxUMFVYS0k4Nnk0S283RHIzTURIN0hwMFItOGc3d0d6eExqX2s4Vl9MT25NcU45RHJmbGRDbDQzSXZLZW5CSzJ2YlFJU1Z3YUk2YUliRnl5YWFtZWswcjBfVVRXb1BodklRa2ZXQkZ5a3pmZXlmcE5OZU1GelJJcHQ1b3NCMEFKZU9reWswdlJxVzNlODM4MlZIVmxpQUVfWEhub292SmVtcjVETnNqOFdFNUlKNnRKVDBrUExJaFJWU1JXc2V3Ty1FWFhHb19pRUU2Z2ZBM0RLS0Q3M3k1V25oeTlJZUhLdjFNQzNaT1Y3T0FBR1FobEdoOF9yTzg0MXE0bHhrZ2lVZnBaU2Y2OEUzSUNPNkFWRlJqeEVUR0d1Z1BzMzlhNFl0NlFmM1dMV1FUOTRCMDMtMFd2NXBRS1I4WFNXVHV3MkU4QTlwM3JKR29KanA4NmxQY190clBOc0JITVlIdDlSY25ZVjFDSnpVSFlWd3VVR0ViM09YYk80SER2Tw?oc=5",
-      "pub_date": 1764064980.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-rebound-dea5ac89?gaa_at=eafs&gaa_n=AWEtsqde5zPdU8IjuKfnPUa4hLS4VzMcR1AQlfajKp7mRD64F13Xs-G_ieCx&gaa_ts=6925959c&gaa_sig=jdQ5Ve5XU0xBo1icEQApO5AYHHrIpOonlq6LvIgYPMg-t7mCXncV4CppGZsRCEcnTkr2Fii8MfZIZn3gN0uX6g%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Faces $13.3B Monthly Options Expiry as BTC Trades Well Below Max Pain",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ3FBMm9SaFNPWlZOWkUxb28xUl9aVVlTcTBTMW9Ic0M3aGJGVkNJMUZuczc0ZGx0d0tHZ0ZtUW5xU2dyMFppWGNwQVVEU0dRb19mVnlNajQzTVRKVFdTT3lCdjUtay1hNjY2M21Bam8zeXBFNU1nLURULWx3ZWREblNQM2pwVHlVdC1WektzbW94d3M3UTExSUVFZFQxTTdwVkFneXI3dlA0UVkzR1hDcjdsbEFMRHdFWEZyVlJMWDY?oc=5",
-      "pub_date": 1764066229.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/25/bitcoin-faces-usd13-3b-monthly-options-expiry-as-btc-trades-well-below-max-pain",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Will Bitcoin\u2019s Dive Threaten Michael Saylor\u2019s Strategy?",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLW5yOUNwS2N1REhJWnpYZVhleWxObW41b3AtWXlhZm1EeUd1TjhRMS1mdS1HMlVqaU9SaHQwTE8zdFBNWVNuNDVYaDl2TWhudUxzNWpLUnV3X1plN1JxekljSVdnUVJ4MDh2MHVBQmQyVV9WSUhWb1RubE9TWkgtLUhvZEZDc1doVU5KV3owbHZVbkhTNEF6WGx1ckZ5azc2UTJXLVo5eFUxOXF1?oc=5",
-      "pub_date": 1763996400.0,
-      "article_url": "https://www.forbes.com/sites/ninabambysheva/2025/11/24/will-bitcoins-dive-threaten-michael-saylors-strategy/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6920df2dced0591f9526df64/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "When your entire corporate game plan and the investor base you\u2019ve cultivated revolves around the rising price of bitcoin, a 35% tumble in a month is cause for alarm."
-    },
-    {
-      "headline": "Michael Saylor's MSTR Appears to Have Broken Six-Week BTC Buy Streak",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFRfYVRBRUZJWnVVQ3gyeVY5X0ZwYy1kaTlESnRkNzlzdV8xWVFDZm95bVBXcl9HRHk5ZzdLejNWT29jUzF6SjBoLWNxUWpBeXRabkdSQkt3b3lIWjZJQlVpa1BFVTRqaUJhYWxSZFd5QUYwazJyRW1UbzQyT2toVjNDc0h5TUhXV3c4QUdTMFBoSGhFUU0yTXpqRzdtYk1CRUVn?oc=5",
-      "pub_date": 1763990874.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/24/strategy-apparently-paused-bitcoin-accumulation-last-week",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d66c28dbeddf1c6982599b72d1bc711e00f296ed-1079x1079.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The company's stock valuation sits near cycle lows as index exclusion chatter grows."
+      "headline": "Is XRP the Next Bitcoin?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0Y3Y0ZWNSRXhmZnlZcU5SRlVtNF83bjY5cVhIWEtJUXI3Y0JNMW55UTcySGRhcWpsTk9DcU5KRVNjMWF3aGlNRi1EM0J6LUtTZ1hIMFhnSGNMODlRRTRNTEpuTkdaeVlYXzZva1VZSnd5bGhJ?oc=5",
+      "pub_date": 1763964780.0,
+      "article_url": "https://www.fool.com/investing/2025/11/24/is-xrp-the-next-bitcoin/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843791%2Fbitcoin-coin-on-a-chip-1320779972.jpg&w=1200&op=resize",
+      "description": "Bitcoin's epic rally over the last decade has inspired some investors to seek the next breakout cryptocurrency candidate."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-25T11:25:43.163687+00:00"
+  "fetched_at": "2025-11-25T12:24:20.040088+00:00"
 }

@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-11-25T12:24:21.734535+00:00",
+  "data": "Fara-7B is a 7B parameter multimodal agentic SLM designed for computer use, capable of understanding screenshots and text to perform complex web tasks like booking and shopping by predicting thoughts and actions with grounded arguments.",
+  "model_id": "microsoft/Fara-7B"
+}
