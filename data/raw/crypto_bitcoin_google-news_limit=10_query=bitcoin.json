@@ -25,16 +25,6 @@
       "description": null
     },
     {
-      "headline": "Altcoins HYPE, WLFI, and ENA are Soaring as Bitcoin Cools",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU0RzYVEyVGY1b2ZEUU5pT19kanp4Nm1XcXZTdWJTejVSd3l4ZWlJbjExQlVPNEpIZ25FUy1HT0dyXzhFYTJmbzlsWV8yLWt2Y0tzV2plVldwQXhkaGJNRG1GNEw1UjlySHJuQ3VtNnlsY1F2WG11aDNrYXMyZVh2eEhEdlRTOXh60gGQAUFVX3lxTE9INV8zd19paF9MTFoyelNUUDhQVUIzTDBNOXRTQldlUnBad1JSaUVVNmlzdzA2Zmw0aFlLbW9BSEp3QnpOWlpoZjdYekFRVFdacm9DdHRyOEt4X28xQ3J3Nk1PMmNkeHU0Z2hPZU9rN0xlcXlPdHc1WGFDRGUtdnJjdUlueVJSWVVmSF9GamFncw?oc=5",
-      "pub_date": 1764151329.0,
-      "article_url": "https://decrypt.co/350060/altcoins-hype-wlfi-and-ena-are-soaring-as-bitcoin-cools",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png",
-      "description": "As Bitcoin stabilizes, coins like ENA and a Trump-linked token have surged on selective capital rotation into altcoins."
-    },
-    {
       "headline": "Will Bitcoin\u2019s Dive Threaten Michael Saylor\u2019s Strategy?",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -95,16 +85,26 @@
       "description": "JPMorgan has proposed a structured note that would allow investors to bet on the future price of Bitcoin via BlackRock's ETF."
     },
     {
-      "headline": "Bitcoin News: JPMorgan\u2019s IBIT-Linked Structured Note Aligns With BTC's 4-Year Halving Cycles",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN3UtWjRMMVZXT3djazZyR2c5d2thUDE5YkgyM05xWjVUckN0SF81T3RqTUVXaTNLWDhEa2tOTVNyUzIyNklpZzRFei1BWE1vaFhYUm9TVlN5bHhyUG4xYkhxQUF4Rm1naUdQOUtOVHpvNUplaTR0Vk1iSjU0RW9CWmVibzctS0xjaUREb3ZfOEVGYVlSSW9jWGwtb0M0eVF4a3E2cnpUZEdNR1JkMzlQSmZLTTFQNl85a2lFTDE3TGc1RlJtVU5Kc2toalFBYjg0X3c?oc=5",
-      "pub_date": 1764141042.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/26/bitcoin-dip-in-2026-surge-in-2028-jpmorgan-s-ibit-linked-structured-note-fits-halving-cycles",
+      "headline": "Eric Trump Gives A Sneak Peek Of American Bitcoin's Mining Facility, Calls It 'Living Proof' Of Tangible Nature Of Crypto",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9na0Q1bDBhUlU4c2VzR2VnMmdpLWRFRTFxUGpIT2t0eXlnWkFsSTFFRjQzbHNUeUVKRXV3RjNKY2RlVDlNY25LQ0hON1BJdFcwMEUtQmNudWlyQTVaMnJZOG9PaVJMQy0waFdxb3Q5NFppZkp4akVBQi01Q1dldw?oc=5",
+      "pub_date": 1764099065.0,
+      "article_url": "https://finance.yahoo.com/news/eric-trump-gives-sneak-peek-193105035.html",
+      "image": "https://media.zenfs.com/en/benzinga_79/d7ad00238d71d2170b3bfe4a4fa18638",
+      "description": "Eric Trump, co-founder of American Bitcoin Corp. (NASDAQ:ABTC), gave a virtual tour of the company\u2019s Bitcoin (CRYPTO: BTC) mining facility in Texas on Monday, Trump Shows \u2018Tangible\u2019 Crypto In a video posted on X, Trump showed around the facility, ..."
+    },
+    {
+      "headline": "Bitcoin Tries To Find Footing; JPMorgan Upgrades These 2 Miners, Cuts Targets For Others",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSlpHaF9ObkRkak16bGNYZV9icDg3LTEyVUJBbkNfTmFqVW9sRkZtU25ZdEtZVEZRYzZMdjdRVU1aZ3AtMzFBb0daSGFOVW5mUFlTekYzcVo3MjAyQnJfak5iMTBjUFVpNEM1LXN4VElpazQyMlRLRlNlWXQ1STNqQi12NmI3bjh4VU1aTzI1VFFUSHA3MFJkQWwyTzQ?oc=5",
+      "pub_date": 1764018480.0,
+      "article_url": "https://www.investors.com/news/bitcoin-jpmorgan-bitcoin-miners-cleanspark-cipher-iren-mara-riot/",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T11:21:52.585551+00:00"
+  "fetched_at": "2025-11-26T11:59:04.691654+00:00"
 }
