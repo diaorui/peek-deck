@@ -5,6 +5,16 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Better Crypto Buy: XRP (Ripple) vs. Ethereum",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWE85WTR3MXA1Qzg4TjdTSmdSZExSVkwtMkw4UWRuZlVkMEF2bWtnUHdZc0NNYXdFYnVjNHBBWjVOekllMl8xSlBIR3NiNl9kYmN2OE5NaGpfbHl5dmxLOWRaZDdpRjVwRG5VRzNDMUg3ZU5SbExZZGxvU2tNbkMtX2VmM0hvVlYz?oc=5",
+      "pub_date": 1764120060.0,
+      "article_url": "https://www.fool.com/investing/2025/11/25/xrp-vs-ethereum-crypto-comparison-2025/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F840357%2Fgettyimages-1402808568-1200x798-36b7a2e.jpg&w=1200&op=resize",
+      "description": "Is XRP or Ethereum the better pick for long-term investors?"
+    },
+    {
       "headline": "Largest Ethereum treasury BitMine invests another $200 million, addresses recent ETH price decline",
       "source": "theblock.co",
       "source_url": "https://www.theblock.co",
@@ -13,16 +23,6 @@
       "article_url": "https://www.theblock.co/post/380159/largest-ethereum-treasury-bitmine-invests-another-200-million-addresses-recent-eth-price-decline",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Monad Rises After Airdrop While Bitcoin and Ethereum Droop",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldVg3emZSby1qdmZydUk4RE1RM3B2NGx0M3ZELTI4N0hMTmNmeGdrNzFqU0Roc2VoZzgzM05IaE9Da3lPVG8yV0dwSFNYUER5eEFrenFHblltamNqeXlLcEpGZFg0aHNWTEpHMU9IQU0wLUJnR0RhTFh1T21fbUnSAYcBQVVfeXFMTzVOa3hYanU5bTliVHBpYjYwNy10dHhnTjloTF85b2lvMmJZTm9sWXVMM3hiUmVIeGpvN25IaklyQnlWdndWYURYV0NHeVBCVDlDUWJxS3hrN0gtdWszakdYVkpDa3BwRFpRWk5taTZQdWtybU81bEZpS1E3NVAzMUdnekM1Tklv?oc=5",
-      "pub_date": 1764107946.0,
-      "article_url": "https://decrypt.co/350029/monad-rises-after-airdrop-bitcoin-ethereum-droop",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Chart4_green-gID_7.png",
-      "description": "The price of Monad\u2019s native cryptocurrency rose on Tuesday, following an anticipated airdrop that initially underwhelmed some speculators."
     },
     {
       "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
@@ -35,14 +35,14 @@
       "description": "Bitcoin and Ethereum have impressive track records and sky-high future price targets."
     },
     {
-      "headline": "Better Crypto Buy: XRP (Ripple) vs. Ethereum",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWE85WTR3MXA1Qzg4TjdTSmdSZExSVkwtMkw4UWRuZlVkMEF2bWtnUHdZc0NNYXdFYnVjNHBBWjVOekllMl8xSlBIR3NiNl9kYmN2OE5NaGpfbHl5dmxLOWRaZDdpRjVwRG5VRzNDMUg3ZU5SbExZZGxvU2tNbkMtX2VmM0hvVlYz?oc=5",
-      "pub_date": 1764120060.0,
-      "article_url": "https://www.fool.com/investing/2025/11/25/xrp-vs-ethereum-crypto-comparison-2025/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F840357%2Fgettyimages-1402808568-1200x798-36b7a2e.jpg&w=1200&op=resize",
-      "description": "Is XRP or Ethereum the better pick for long-term investors?"
+      "headline": "Monad Rises After Airdrop While Bitcoin and Ethereum Droop",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldVg3emZSby1qdmZydUk4RE1RM3B2NGx0M3ZELTI4N0hMTmNmeGdrNzFqU0Roc2VoZzgzM05IaE9Da3lPVG8yV0dwSFNYUER5eEFrenFHblltamNqeXlLcEpGZFg0aHNWTEpHMU9IQU0wLUJnR0RhTFh1T21fbUnSAYcBQVVfeXFMTzVOa3hYanU5bTliVHBpYjYwNy10dHhnTjloTF85b2lvMmJZTm9sWXVMM3hiUmVIeGpvN25IaklyQnlWdndWYURYV0NHeVBCVDlDUWJxS3hrN0gtdWszakdYVkpDa3BwRFpRWk5taTZQdWtybU81bEZpS1E3NVAzMUdnekM1Tklv?oc=5",
+      "pub_date": 1764107946.0,
+      "article_url": "https://decrypt.co/350029/monad-rises-after-airdrop-bitcoin-ethereum-droop",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Chart4_green-gID_7.png",
+      "description": "The price of Monad\u2019s native cryptocurrency rose on Tuesday, following an anticipated airdrop that initially underwhelmed some speculators."
     },
     {
       "headline": "How Sharplink Is Reinventing Itself: Earnings, Ethereum, and the Future of Gaming",
@@ -75,6 +75,16 @@
       "description": null
     },
     {
+      "headline": "What will happen if bitcoin and ethereum hit key liquidation levels",
+      "source": "Sherwood News",
+      "source_url": "https://sherwood.news",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjVoQTBSSk1vbHJPQXZGdlk1SW1GZjdpN2JDODl0UmxyNFQxSG5oSUc5VEVoVGhsZFZfZ2w0ZzZnQVN6OWwycjdxZXctZ2stemY1cXFnaUVQT3RFMzV2QThwemdfVVJBcFVKQUdXX181SEM2TUF4dVluYVRXamRvQzUxN0g1LWs5NkFFcWd4V0FocGl4OS1MaXZNYUdYQQ?oc=5",
+      "pub_date": 1764091319.0,
+      "article_url": "https://sherwood.news/crypto/what-will-happen-if-bitcoin-and-ethereum-hit-key-liquidation-levels/",
+      "image": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/dv537008_businessman-pulling-a-dollar-sign.jpg?w=1600&auto=compress%2Cformat&cs=srgb",
+      "description": "Billions in forced liquidations have swept through crypto markets in Q4. Here are the major liquidation clusters on perpetuals protocol Hyperliquid..."
+    },
+    {
       "headline": "BitMine stock spikes as Ethereum reserves hit 60% of targeted level",
       "source": "Crypto Briefing",
       "source_url": "https://cryptobriefing.com",
@@ -93,18 +103,8 @@
       "article_url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-reclaims-87000-with-xrp-solana-ethereum-leading-gains/cL52gCYREXN",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "\u201c2026 Will Be the Gold Year for Ethereum\u2019s Privacy\u201d Reveals Key Head Executive",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOamNtakM4RTAxWVBDSXh2UXk4R0pHbFlXcHdxX2VocWZtNGdmUVZtd2ZTdmZfVkRiTTBLWTR3VDVRTzhIdE5VU3VMZUFUdmN4dEhRdXlnN1dZWDE1VXk1TkF5SGlRV0dEaWFJdnZVUWVHUDlNa3JhRC11VUtkelpHOHBrNDBLS21iUmFsX0xsVjZ5a21PSncwcjlxTE9Gcmdjd2R3eFZMMWE4M1JSZGU5NnRDUE45QVI4RzBya2ZwdEpDLTd1WURseDFoX1VMODgt?oc=5",
-      "pub_date": 1764082530.0,
-      "article_url": "https://www.tradingview.com/news/zycrypto:ce88d618b094b:0-2026-will-be-the-gold-year-for-ethereum-s-privacy-reveals-key-head-executive/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Brody emphasized that privacy has always been a foundational value of Ethereum. Yet, the urgency surrounding it has never been greater."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T01:58:58.089669+00:00"
+  "fetched_at": "2025-11-26T03:20:21.928998+00:00"
 }

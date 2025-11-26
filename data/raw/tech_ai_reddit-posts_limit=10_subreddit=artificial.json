@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "\u2018We are not Enron\u2019: Nvidia rejects AI bubble fears. Chip giant disputes claims that it is artificially inflating revenues.",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6hzmf/we_are_not_enron_nvidia_rejects_ai_bubble_fears/",
-      "published": 1764090364.0,
-      "thumbnail": "https://external-preview.redd.it/xlW1SQxK_oHdGt-ppPALnC78lnW-ffFG-p8yONXEgPE.jpeg?width=640&crop=smart&auto=webp&s=a763f07fa7b5e31b59b41c934bb420c8e8395cbf",
-      "external_url": "https://www.telegraph.co.uk/business/2025/11/25/we-are-not-enron-nvidia-rejects-ai-bubble-fears/",
-      "site_name": "The Telegraph",
-      "favicon": "https://www.telegraph.co.uk/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/core/resources/icons/apple-touch-icon-180x180.png",
-      "description": "Chip giant disputes claims that it is artificially inflating revenues"
-    },
-    {
       "title": "Large language mistake | Cutting-edge research shows language is not the same as intelligence. The entire AI bubble is built on ignoring it.",
       "author": "creaturefeature16",
       "url": "https://www.reddit.com/r/artificial/comments/1p6gmqs/large_language_mistake_cuttingedge_research_shows/",
@@ -22,6 +11,17 @@
       "site_name": "The Verge",
       "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
       "description": "As currently conceived, an AI system that spans multiple cognitive domains could, supposedly, predict and replicate what a generally intelligent human would do or say in response to a given prompt. These predictions will be made based on electronically aggregating and modeling whatever existing data they have been fed. They could even incorporate new paradigms into their models in a way that appears human-like. But they have no apparent reason to become dissatisfied with the data they\u2019re being fed \u2014 and by extension, to make great scientific and creative leaps. Instead, the most obvious outcome is nothing more than a common-sense repository. Yes, an AI system might remix and recycle our knowledge in interesting ways. But that\u2019s all it will be able to do. It will be forever trapped in the vocabulary we\u2019ve encoded in our data and trained it upon \u2014 a dead-metaphor machine. And actual humans \u2014 thinking and reasoning and using language to communicate our thoughts to one another \u2014 will remain at the forefront of transforming our understanding of the world."
+    },
+    {
+      "title": "\u2018We are not Enron\u2019: Nvidia rejects AI bubble fears. Chip giant disputes claims that it is artificially inflating revenues.",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6hzmf/we_are_not_enron_nvidia_rejects_ai_bubble_fears/",
+      "published": 1764090364.0,
+      "thumbnail": "https://external-preview.redd.it/xlW1SQxK_oHdGt-ppPALnC78lnW-ffFG-p8yONXEgPE.jpeg?width=640&crop=smart&auto=webp&s=a763f07fa7b5e31b59b41c934bb420c8e8395cbf",
+      "external_url": "https://www.telegraph.co.uk/business/2025/11/25/we-are-not-enron-nvidia-rejects-ai-bubble-fears/",
+      "site_name": "The Telegraph",
+      "favicon": "https://www.telegraph.co.uk/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/core/resources/icons/apple-touch-icon-180x180.png",
+      "description": "Chip giant disputes claims that it is artificially inflating revenues"
     },
     {
       "title": "The 5 reasons why Google is suddenly on a tear and dominating the AI race",
@@ -79,6 +79,17 @@
       "description": "In recent months, large firms across industries and geographic regions have become more vocal with claims that AI is allowing them to eliminate staff and reduce hiring."
     },
     {
+      "title": "My Take on Ilya's Interview: A path forward for RL",
+      "author": "PianistWinter8293",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6tm0o/my_take_on_ilyas_interview_a_path_forward_for_rl/",
+      "published": 1764117442.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A while back I posted on some fundamental problem facing the current paradigm and this got some negative backlash. In light of Ilya's latest interview, I think things have become more clear. The way RL is done currently is not enough to reach AGI. Researchers have to set up specific RL environments, which costs a lot of time and effort, just so models get good at these few specified axis. These axis now happen to be aligned with eval performance, giving this brittle feel to a models capabilities. This is something that cannot be fixed with scale, since the bottleneck is how many of these RL environments can be created, which is a product of human labor and not of scale. Remember though that before self-supervised we had the exact same scenario with supervised learning, where researchers had to manually setup learning environments. However, once we figured out how to utilize scale, we opened up all the developments we have now. We are thus now waiting for the self-supervised moment for RL. Ilya already hinted at this with evaluation functions, and drawing inspiration from biology we can find some plausible solutions. For example, when a dog gets a treat when doing a trick, he is more likely to perform that trick. This is similar to the RL we have now where actions that lead to reward are reinforced. The difference becomes clear when we add a clicker sound to the treat: at some point, the dog will feel rewarded just by the sound of the clicker alone, and you don't need the treats anymore. This mechanism is what us currently missing from the models. Thus, the idea is to instead of just enforcing pathways that led to the reward, also add a small reward signal to the path itself. If many paths happen to cross the same node, then this node will become so rewardable that it becomes similar to the original reward: it becomes a proxy for the original reward, just like the clicker became a proxy for food. The problem now is that the model can start reward hacking, just like the dog optimizes for the clicker eventhough it doesn't result in him earning any more food. To counteract this, we can use the same mechanism that forces dog trainers to once in a while give a treat after using the clicker a lot; we degrade reward signals from paths that don't lead to rewards. If done right, models could start with some innate rewards, just like humans have innate needs like warmth, food and sex. Then, the model learns proxies for these rewards, and proxies for proxies, until it learns very abstract rewards. It will start finding interests in things seemingly completely unrelated to its innate needs at first glance, but in the end benefit him through some complex network of proxies and relationships learned through this form of RL. The best part of all of this is that we only need humans to set the first couple innate signals, and the rest will grow with scale, making this a true breakthrough for the current brittleness of these model's capabilities."
+    },
+    {
       "title": "Ilya Sutskever's recent interview. Very interesting topics about AI models",
       "author": "Frequent-Football984",
       "url": "https://www.reddit.com/r/artificial/comments/1p6q4cr/ilya_sutskevers_recent_interview_very_interesting/",
@@ -90,27 +101,16 @@
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     },
     {
-      "title": "Genesis Mission | Department of Energy",
-      "author": "unserious-dude",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6ris4/genesis_mission_department_of_energy/",
-      "published": 1764111957.0,
-      "thumbnail": "https://external-preview.redd.it/1w12Z2o1ke5-KXKAs6b5MwJhlggQSQxWhmk9W5y2ERc.png?width=320&crop=smart&auto=webp&s=ee48408cb3ff23e0a38e0c64b099fa5089fbbe4c",
-      "external_url": "https://www.energy.gov/genesis",
-      "site_name": "Energy.gov",
-      "favicon": "https://www.energy.gov/themes/custom/energy_gov/favicon.ico",
-      "description": "Genesis Mission is a national initiative to build the world's most powerful scientific platform to accelerate discovery science, strengthen national security, and drive energy innovation."
-    },
-    {
-      "title": "Pope Leo warns Gen Z and Gen Alpha that using AI too much could stunt their personal and career growth: \u2018Don\u2019t ask it to do your homework\u2019 | Fortune",
-      "author": "fortune",
-      "url": "https://www.reddit.com/r/artificial/comments/1p5v53l/pope_leo_warns_gen_z_and_gen_alpha_that_using_ai/",
-      "published": 1764022895.0,
-      "thumbnail": "https://external-preview.redd.it/LIxQfZZhlZ57zlu1pZaygisE2XlzbgE3bTIkEY4X97c.jpeg?width=640&crop=smart&auto=webp&s=a9b58f2f3457e5716a31c769d744c4939bc81706",
-      "external_url": "https://fortune.com/2025/11/24/pope-leo-xiv-gen-z-gen-alpha-warning-ai-chatgpt-overreliance-lack-humanity-wisdom-thinking-skills/",
-      "site_name": "Fortune",
-      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
-      "description": "As Gen Z turns to ChatGPT en masse, the pope is sounding the alarm about the erosion of critical thinking skills."
+      "title": "LLMs do NOT think linearly\u2014they generate in parallel",
+      "author": "UniquelyPerfect34",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6x12q/llms_do_not_think_linearlythey_generate_in/",
+      "published": 1764127124.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Internally, LLMs work by: \u2022 embedding the entire prompt into high-dimensional vector space \u2022 performing massive parallel matrix operations \u2022 updating probabilities across thousands of dimensions simultaneously \u2022 selecting tokens based on a global pattern, not a linear chain The output is linear only because language is linear. The thinking behind the scenes is massively parallel inference."
     }
   ],
-  "fetched_at": "2025-11-26T01:58:35.568272+00:00"
+  "fetched_at": "2025-11-26T03:20:06.175763+00:00"
 }

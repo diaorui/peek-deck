@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "What Is Agentic A.I., and Would You Trust It to Book a Flight?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNThTN1UxWWdPN3RNVG00OUJhUWZSWWdYdjhuQVl4UERTZ0F4MklUcVhSTTA3ZFhaOTJaMzZ1OGtfVjNoMmo1ei10Wnp0VU9QSHJxWnZ3QXRWRm9FNlQ1QzJhc201OWhDYkZOQW1QbjBZYk1TdmJQOEhXMUs4T3VVNjUzdGc?oc=5",
+      "pub_date": 1764064954.0,
+      "article_url": "https://www.nytimes.com/2025/11/25/travel/what-is-agentic-ai-book-flights.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Nvidia stock falls 4% on report Meta will use Google AI chips",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -15,14 +25,44 @@
       "description": "Nvidia shares fell on Tuesday after The Information reported that Meta is considering using chips designed by Google."
     },
     {
-      "headline": "Nvidia shares fall on signs Google gaining upper hand in AI",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BOWxia1Rla2R6M0pPSXYyUjB5MnhzSW9lMGhDUUxyX2tIenloSHlxZ04tLXBWQ1FQT2hpY04tMjkxRXYzYnlNTG1ZdmZNZnBWZ1RUSzBRZ091dkdwelhpYkVkZGZUVVRjdDFwNjZvMTA?oc=5",
-      "pub_date": 1764084120.0,
-      "article_url": "https://www.ft.com/content/7d0cd87e-99b0-4411-b54f-f5b239af8e76",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F38fe4fe9-1093-4942-8401-9c8809c6adc0.jpg?source=next-barrier-page",
-      "description": "$115bn sell-off for chip group weighs on those linked to the company"
+      "headline": "Google, the Sleeping Giant in Global AI Race, Now \u2018Fully Awake\u2019",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnFiUmJ0QTNHYjRIN2hHREJPby1tV0tyZERCVUI0R1g3R3JDSG9ZRTI0bjNqRkI0YlF3OHdJbDN1dzZRWTY1Zm0xZFh6dFRPSElqWWkxSU95MmNnblM2WmtJX2MyOFJUT0VzbFJ6RFVqRkRiUU5PMy1Bd0VvWGRWRDE5cw?oc=5",
+      "pub_date": 1764106033.0,
+      "article_url": "https://finance.yahoo.com/news/google-sleeping-giant-global-ai-154215649.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/YRxIi5jOm8UVu2Zod0.MUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzc-/https://media.zenfs.com/en/bloomberg_holding_pen_162/865a35100ebede5e7fd4e26e839a729d",
+      "description": "Google\u2019s newest multi-purpose model, Gemini 3, won immediate praise for its capabilities in\u00a0reasoning and coding, as well as niche tasks that have tripped up\u00a0AI chatbots.  Google\u2019s cloud business, once an also-ran, is growing steadily, thanks in part to the global rush to develop AI services\u00a0and demand for compute.  A report on Monday that Meta Platforms Inc. is in talks to use Google\u2019s chips sent shares of its parent Alphabet Inc. soaring."
+    },
+    {
+      "headline": "Google's Nano Banana Pro is raising concerns over realistic AI image generation",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcG5XSjgxUGJkSEFhUkRRLVAxUGM1Tk5COXRlZU9USVhMV1cwTkloaTloZ1VhSUVacGlhTVJWUGpjdWZ5eE1EX3l4YXB5MHZrYTloZEp2eWdIbElPd09vSVNmMEZDNXNZaWFMelBTR1VFdk5iVG9HUHFvVEhvSW03alZocjhRQkg2Z1FyMUhHNzBJT2Q4anlBVzhab1VwTGFXaXp4SGlTNzctV2s4VGNJci1uX216aWlXY2lSLWdCMNIBZkFVX3lxTE92Z091RUc5WGtUSG5qUHdFcEZGYTVkZEgzQXFzUHh1UFNGMTVVRTlkQ3dxWG1VeFlVMkRvVkM3QlBrQ0JDUm9YeHVLT3NGWjNUd0ZhRFpraTl6SC03YjVyNHplbjE0Zw?oc=5",
+      "pub_date": 1764126175.0,
+      "article_url": "https://www.nbcnews.com/video/google-s-nano-banana-pro-is-raising-concerns-over-realistic-ai-image-generation-253032005621",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2025_11/1764125953258_now_topstory_google_nanobananapro_ai_251125_1920x1080-j3vbbi.jpg",
+      "description": "Google has launched its latest AI image generation and editing tool, called Nano Banana Pro. Some experts have raised concerns over the images appearing too realistic. NBC News\u2019 Erin McLaughlin tests the new AI generator and speaks with a content creator who teaches how to identify fake images."
+    },
+    {
+      "headline": "Asia Morning Briefing: Asia Wakes Up to an AI BTC-Nvidia Tailwind That\u2019s Already Starting to Sputter",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOblVqcUxfWk5TUjlNdm9Dc0tvSDVYV2lBbndRdnpTVDd0N2NybnFPTWdwMmlnWmJKbDl3SUFfZG5CNkxkb2M2VmwwTWktWThmRS1fY1d4TVJuaFZLOEw3c2xrZlY4Q00tTzBCOUFCV3Rkc3VKNHJVcWNBLU5hTERUcVhpNWZaMWpwSngyR0JueUh0UUYxd2lhLWM2Z3R4Mlc2MDIzYl9sVjl4OThJZFg1bjVzX0ZabUx5T05sd0NjRlo3c1hQMEtsUkoySC13RzRtYUM3cVdnR2k4Q2s?oc=5",
+      "pub_date": 1764122752.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/26/asia-morning-briefing-asia-wakes-up-to-an-ai-btc-nvidia-tailwind-that-s-already-starting-to-sputter",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "OpenAI cofounder says scaling compute is not enough to advance AI: 'It's back to the age of research again'",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORllPTDFmWkFnak1MSklTX0RpOWhCcHpxcWJfTTRDSkZUOFZZcGhsQ2pPRlR4cmJtc29BTGxNazFKSWpXcGRiZjdsZjhqZGVTampvSF9LX3ZwYWZCbUxySzI0WFJXa0MxOVdPRnk2Sm83QmdzUks3cGVaMnZPdFI2ZGNTY1ZQNC1jTzJHMDYwZl9DTVVzYmhJSVFZMHFSMUowb3VNUFVIX3ZkVGM?oc=5",
+      "pub_date": 1764123180.0,
+      "article_url": "https://www.businessinsider.com/openai-cofounder-ilya-sutskever-scaling-ai-age-of-research-dwarkesh-2025-11",
+      "image": "https://i.insider.com/692649d5abd5e944effb858c?width=1200&format=jpeg",
+      "description": "OpenAI co-founder Ilya Sutskever said during a \"Dwarkesh Podcast\" that companies need to find a productive way to use the massive amounts of compute."
     },
     {
       "headline": "Couple Rakes in $9 Billion as AI Circuit Board Shares Soar 530%",
@@ -35,76 +75,36 @@
       "description": null
     },
     {
-      "headline": "What Is Agentic A.I., and Would You Trust It to Book a Flight?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNThTN1UxWWdPN3RNVG00OUJhUWZSWWdYdjhuQVl4UERTZ0F4MklUcVhSTTA3ZFhaOTJaMzZ1OGtfVjNoMmo1ei10Wnp0VU9QSHJxWnZ3QXRWRm9FNlQ1QzJhc201OWhDYkZOQW1QbjBZYk1TdmJQOEhXMUs4T3VVNjUzdGc?oc=5",
-      "pub_date": 1764064954.0,
-      "article_url": "https://www.nytimes.com/2025/11/25/travel/what-is-agentic-ai-book-flights.html",
-      "image": null,
-      "description": null
+      "headline": "HP to cut about 6,000 jobs by 2028, ramps up AI efforts",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50bFNUY3ZNUnpsVlNoSS1OQzR0Y21fQnJfdWZYTGtQNjE2TU96Ri1VOUdTUmxWa3J1UXVvdm8wNmdUVlNHR05TSFQyUzYwSVk2TG9NNnJHaGd1OTZmWHBuUTVDa0NMV013?oc=5",
+      "pub_date": 1764109726.0,
+      "article_url": "https://www.cnn.com/2025/11/25/tech/hp-layoffs-ai-efforts",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1179053341.jpg?c=16x9&q=w_800,c_fill",
+      "description": "HP Inc said on Tuesday it expects to cut between 4,000 and 6,000 jobs globally by fiscal 2028 as part of a plan to streamline operations and adopt artificial intelligence to speed up product development, improve customer satisfaction and boost productivity."
     },
     {
-      "headline": "What QUALCOMM (QCOM)'s Data Center and AI Updates Mean for Shareholders",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tN2NtM2N2QUtIOUxnMmN2LUlmNUNrWS1zOUdnT3hJZDVmN28tNUJ3VEljV184c2E3UGhKbENBR1pOaHNuZ194QTczd3AzaElQWlhFLXhGZm9aUlJkOVFVOUMxSUtCd2diYUVtbW05aVA4dDBNTFV1MUJfU2NOSkU?oc=5",
-      "pub_date": 1764119340.0,
-      "article_url": "https://finance.yahoo.com/news/qualcomm-qcom-data-center-ai-010937555.html",
-      "image": "https://media.zenfs.com/en/simply_wall_st__316/d41c32d3c0fd3f81547cc0d2991903f5",
-      "description": "In recent days, Qualcomm has drawn attention due to renewed optimism in its diversified revenue streams, including strong non-Apple handset growth, guidance for low teens percentage growth in early FY2026, and updates on its data center strategy following the Alphawave acquisition. This has led to discussions that the market may have underestimated the company's potential in smart devices, automotive, data center, and AI-focused chip shipments. An interesting insight is that management's..."
+      "headline": "HP to slash up to 6,000 jobs by 2028 in massive AI transformation push",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS3JqYThza09mTW9keWFxS29MY3BFck5EWnZvSjM2SUFuMVBHU29FR0VXaWhSc05Dd3podWQyRWZTME9iQk9VajNqWFVRY25wbDVWemt5THNhT3g3UEo3UGJxZ2c0dl96UzJ4S1VDX09KN1gxSi1Cb1YzOVFXOTVVMGUyMmtYanlod1VWaGpyRVE2V3ZDYjkw0gGcAUFVX3lxTFBSVXdOMENGbExJSks4U2o1Y2JUSVV3emxBMUF6WE04N0VLQVVjYVUxWURjcmR3cFZYdG95cHRjV2FXVmE4N2FPZVo2Mm5zTGp0b3lDSVhiVm45Wk5LdHdrdnZidW9XamY1Y1JsdlZlOVlGNkRiMGN3OU9LSkNCakJzVC1RY3djUGV2dUFicmdHZnREQTdMSFRJUG1WRw?oc=5",
+      "pub_date": 1764124860.0,
+      "article_url": "https://www.foxbusiness.com/lifestyle/hp-slash-6000-jobs-2028-massive-ai-transformation-push",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/05/0/0/HP-iStock.jpg?ve=1&tl=1",
+      "description": "HP announced plans to cut 4,000 to 6,000 jobs by 2028 as part of an AI transformation push. Layoffs could affect up to 10% of the workforce at the PC and printer maker."
     },
     {
-      "headline": "\u2018Sovereign AI\u2019 Takes Off as Countries Seek to Avoid Overreliance on Superpowers",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxONFFkLUdkOVFtZndMQjlCX1FsUjJid3JYN1lQRWQ4RnFuRTdVWml3SW1YUXE2QzU4Q09lUnNkME1sbnpidFNsdGlPNno5Ulh2Tnd5Y2JjdnpqeVNVTkVFNVI3LTdVdDV0dnEwRkRYeVV5Z1BKT1BrZ3IwVFZZdjE2X2ZiSVhTd1dDbzdhdC1SNTREWHZmS3NyRjg3SF9wY2IyLVR0V3hVRkxHTV9oZHdHWWdGeGZzdFd1aHMxZGhnUXROOElkanJuUWdqQS1pTlUzTG1iU0pranAtVlZhSmtCQzl1emR2VE4tWVZXdzVRVFJLNnZKNklOcWF3cFJqbGFUY0tuVUU3MVVwaE82bV8xbFozQ0pDTGQxRXpjdEFEQ1pSV3kzODYtcnBSQXVseDRPVzh1ZGNjT211LUYwdHRtU1dnbE9IMVlPejBGM3c3enZ0Vk1LT3BxM1NHM1RXNXhHMjNvN0VhVl8tRFlPZ2lJX1g0R1lPVE5pQXNVc3h4Qld3a2V1dlBhakpyeUVVZmg1WFNHYXRzSERaRVpQM2VXaWlhSHJNSjU3WUxZdGZyZEE1V0xBSWFNR1R6YUc?oc=5",
-      "pub_date": 1764043200.0,
-      "article_url": "https://www.wsj.com/tech/ai/sovereign-ai-takes-off-as-countries-seek-to-avoid-overdependence-on-superpowers-6b1689f7?gaa_at=eafs&gaa_n=AWEtsqfM7dBariUK0HNB4fk3-3oQVIAIW_aP7EOTO5OoIYZzJ5gMfj_eujVL&gaa_ts=6926624c&gaa_sig=u9ds-K_Zqo39Y6xnpJ9fVCAyBIW04Y6N19p_PFC95KV1AfoIv9mkKWAX27ky_WIThCbBUNiApI0zEUGEIsbzCg%3D%3D",
-      "image": "https://images.wsj.net/im-60425344/social",
-      "description": "South Korea and others believe their homegrown tech sectors are strong enough to build up their own AI capabilities."
-    },
-    {
-      "headline": "AI could replace 40% of American jobs, says report",
-      "source": "The Times",
-      "source_url": "https://www.thetimes.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeWJYN0pEeTFIMWtqWi10TDFDZWh2ZlRRYUdTcVJ6c2YxTTZZOFNsY3F0Y2Y4b1o2cVN6T1Z2dUJiRGRBSmdUcFM3Sk5wNWdjWGdBU3psUjJmMlBab1hOZEl5Yzk3WnNSNVkzd1B4OGhWTW5VTVJTZTdvMjJCUlpZNHl3em0wSVdBTWtWS205Um90TnpnbHpvYUdjUEtQS0JGN3NORmpuQ0pIUFVsczRxMy1R?oc=5",
-      "pub_date": 1764050400.0,
-      "article_url": "https://www.thetimes.com/business/economics/article/ai-could-replace-half-of-american-jobs-says-report-fbr8glxj2",
-      "image": "https://www.thetimes.com/imageserver/image/%2F2bcafed5-038a-4e13-b499-1d3aa529a3d5.jpg?crop=4000%2C2250%2C0%2C417&resize=1200",
-      "description": "McKinsey report finds that with today\u2019s technology, AI agents and robots are ready to automate about 57\u00a0per cent of work hours in the United States"
-    },
-    {
-      "headline": "Is language the same as intelligence? The AI industry desperately needs it to be",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObkJ4VnYwNEpaRlNyUzhQMEMxSzdpX2RrTGhXRUZybGVJazlYT1N6Q2VVYVFtN3d5U2JKaXNzVkQtRWJnOW4tNkE2bWxRdDg4RmtZRmNxT0o5N09hUXk5T3RFUmdza3VCNHhtQmlJcnRtbXd1N0FZTXB2enV3RG9Tb1Rla2VKSmszdzY1ZWt3dXU1RXJGWjVRVW9qMFBldGRYSHYzQmk2YWg4Vm1pSVVGMEZBZDFaSG93WGc?oc=5",
-      "pub_date": 1764072000.0,
-      "article_url": "https://www.theverge.com/ai-artificial-intelligence/827820/large-language-models-ai-intelligence-neuroscience-problems",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258108_language_is_not_intelligence_CVirginia37.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "The AI boom is based on a fundamental mistake."
-    },
-    {
-      "headline": "AI Christian \u2018singer\u2019 Solomon Ray tops the charts, stirs ethical debate",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcnhZS0xqMll0ZlhKOWU3V0UxT0lmM19TeDY1SHl5dFVCMGRubkhCa1hld0VjUzNacHpvR1JGdWxJcEVqUTBYOUxkRWZ6OW5jSjAyV3NVclhlSEVuM18yMklOVnB5U0JDTWh5N0JCaEtsWmJxNlhEZlAzYmFfZ3FVZWI1RV9YLUtyQ2pJWWE2czNtajRFU3fSAZsBQVVfeXFMUE0tM3FwWjlhSEFYMDM5UGdEenF2R3lRQXhERXRpZkQ1T3FOZVViMHVzU0pUUko2MkhqRU9ySUMwZEkxa1RJNzJmMWlyZmxFQkFnem1tdURrU242S3QtbXVYOFlUeExBRklheDNMVlRDY010VnFXVTBuTU1YcUNpREo4UFhCeXQzX015R215WUVBdjNsNy16ZU9MZVU?oc=5",
-      "pub_date": 1764068580.0,
-      "article_url": "https://thehill.com/policy/technology/5620871-ai-christian-singer-tops-charts-stirs-debate/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Google, the sleeping giant in global AI race, now \u2018fully awake\u2019",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPamNpWFAxTW90a1UzdWQ2OUZZQlExeWVxSHByRVVBSERqbEx1ZEJXSXdwUmNUNF94eHhLaU1aYThfTUV0emRha3JSVnF3Y1dkRG5jcVk3bkRfNEw5WElOanc1X05ZZWZ0MnZHcEFxTFZDUzE2STN3dGRJUjZZak5CSkZxSXZYUQ?oc=5",
-      "pub_date": 1764108660.0,
-      "article_url": "https://fortune.com/2025/11/25/google-sleeping-giant-dark-horse-ai-race-gemini/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2233040179-e1764108637569.jpg?resize=1200,600",
-      "description": "\u201cGoogle has arguably always been the dark horse\u00a0in this AI race,\u201d said Neil Shah, analyst and cofounder at Counterpoint Research."
+      "headline": "HP puts a number on how many jobs it'll cut due to AI",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTlKQk9BWUpJcHVXOWthd1VRVUVUbXR0RjJxNHV2X1ItSXU3X24xeWRrb2EzVzJHNUdHcFJ6TFY2S0NVcHJ3RnpMYmlrcG1oOVI2UHNWNExTSGdpcTllYWlnM3hIcVZFclNqQmlxanRheEhaSmxFY0ExajdzNTNOWkxxTV8xTVZTNHBVR21ReExDZw?oc=5",
+      "pub_date": 1764112620.0,
+      "article_url": "https://www.businessinsider.com/hp-cut-between-thousands-jobs-due-to-ai-adoption-2025-11",
+      "image": "https://i.insider.com/69262189e1a9cbb014defc1f?width=1200&format=jpeg",
+      "description": "HP on Tuesday announced that it will be reducing its corporate head count by between 4,000 and 6,000 jobs due to the adoption of AI initiatives."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T01:58:54.660963+00:00"
+  "fetched_at": "2025-11-26T03:20:29.387774+00:00"
 }
