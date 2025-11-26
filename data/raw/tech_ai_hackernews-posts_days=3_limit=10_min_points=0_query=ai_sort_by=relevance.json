@@ -52,7 +52,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46039274",
       "author": "theresistor",
       "points": 306,
-      "num_comments": 140,
+      "num_comments": 141,
       "created_at": "2025-11-24T21:03:22Z",
       "object_id": "46039274",
       "image": "https://opengraph.githubassets.com/f9a348201f077266a2109b8803c1e9517a12068a8a133f050a8278edb857918b/ocaml/ocaml/pull/14369",
@@ -79,7 +79,7 @@
       "url": "https://jamestown.org/prc-elites-voice-ai-skepticism/",
       "hn_url": "https://news.ycombinator.com/item?id=46038417",
       "author": "JumpCrisscross",
-      "points": 142,
+      "points": 143,
       "num_comments": 82,
       "created_at": "2025-11-24T19:50:47Z",
       "object_id": "46038417",
@@ -94,7 +94,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46032513",
       "author": "singiamtel",
       "points": 100,
-      "num_comments": 77,
+      "num_comments": 78,
       "created_at": "2025-11-24T10:37:05Z",
       "object_id": "46032513",
       "image": "https://cds.cern.ch/images//file?size=medium",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 465,
   "has_metadata": true,
-  "fetched_at": "2025-11-26T05:10:44.697285+00:00"
+  "fetched_at": "2025-11-26T05:48:01.739351+00:00"
 }

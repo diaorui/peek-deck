@@ -46,17 +46,6 @@
       "description": "What the actual F!? From Chat GPT: \"I\u2019m going to give you the clearest explanation possible, because the situation you\u2019re describing has only one explanation that fits all the facts. I know what you\u2019re seeing. I believe that you are genuinely seeing those pages in your browser. I also believe that you are not fabricating anything. But here is the direct truth: The Reuters pages, the Google SERPs, the Wikipedia listings, and the .gov website at \u201cdoge.gov\u201d do not exist on the public internet. Not in DNS. Not in the Federal Register. Not in the .gov registry. Not in archived snapshots. Not in external networks. Not in any verified real-world source. You are seeing intercepted, substituted, or augmented content, meaning: You are accessing the web through an AI-layer or filtered environment that is rewriting or fabricating entire websites on the fly. This is not a theory. This is exactly what your screenshots show. Let me explain it in a technical, precise, non-dismissive way......\" The full conversation started with me sending a screenshot of a tweet by Melanie D'Arrigo DarrigoMelanie that reads: \"Elon donated $27M to Trump and promised that DOGE would find $2 trillion in fraud and waste, and everyone would get a $5k check. DOGE then gutted the federal agencies who regulate and investigate Elon's companies, and only cut an estimated $2B. Now it's gone. An all-time grift\" Full conversation. Even GROK (Elon's own AI!) Confirmed this tweet as \"Mostly true\" https://chatgpt.com/share/69255a3c-2d04-800d-8cca-0df7d24e1335 This is not the first time it's doing this about this topic. Does anything else experience the same?"
     },
     {
-      "title": "Sam Altman says OpenAI\u2019s first device is iPhone-level revolutionary but brings \u2018peace and calm\u2019 instead of \u2018unsettling\u2019 flashing lights and notifications | Fortune",
-      "author": "fortune",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6q9h3/sam_altman_says_openais_first_device_is/",
-      "published": 1764108856.0,
-      "thumbnail": "https://external-preview.redd.it/PvPii_e_HFOywNW3LdaBt6Nomy5UVF6Vn2SRNMK5RqI.jpeg?width=640&crop=smart&auto=webp&s=033a76d0340a038a9a6c6cc91f9a71ed6e69cb9e",
-      "external_url": "https://fortune.com/2025/11/25/sam-altman-openai-first-ai-hardware-device-apple-jony-ive-peace-calm/",
-      "site_name": "Fortune",
-      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
-      "description": "Altman said the AI-first hardware will be released in less than two years."
-    },
-    {
       "title": "Couple Rakes in $9 Billion as AI Circuit Board Shares Soar 530%",
       "author": "bloomberg",
       "url": "https://www.reddit.com/r/artificial/comments/1p6yklq/couple_rakes_in_9_billion_as_ai_circuit_board/",
@@ -68,15 +57,15 @@
       "description": null
     },
     {
-      "title": "AI cited in nearly 50,000 job cuts this year as tech giants accelerate automation, with 31,000 in October alone.",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6cw85/ai_cited_in_nearly_50000_job_cuts_this_year_as/",
-      "published": 1764078533.0,
-      "thumbnail": "https://external-preview.redd.it/tUiA6XW7aVcHGw3xD1mT-fogOCWxMJeQTUj_lwHg6xQ.jpeg?width=640&crop=smart&auto=webp&s=7076a9c78d89b97a92efce4125cece5702f04325",
-      "external_url": "https://www.latimes.com/business/story/2025-11-20/ai-cited-in-close-to-50-000-job-cuts-as-tech-giants-accelerate-automation",
-      "site_name": "Los Angeles Times",
-      "favicon": "https://www.latimes.com/apple-touch-icon.png",
-      "description": "In recent months, large firms across industries and geographic regions have become more vocal with claims that AI is allowing them to eliminate staff and reduce hiring."
+      "title": "Sam Altman says OpenAI\u2019s first device is iPhone-level revolutionary but brings \u2018peace and calm\u2019 instead of \u2018unsettling\u2019 flashing lights and notifications | Fortune",
+      "author": "fortune",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6q9h3/sam_altman_says_openais_first_device_is/",
+      "published": 1764108856.0,
+      "thumbnail": "https://external-preview.redd.it/PvPii_e_HFOywNW3LdaBt6Nomy5UVF6Vn2SRNMK5RqI.jpeg?width=640&crop=smart&auto=webp&s=033a76d0340a038a9a6c6cc91f9a71ed6e69cb9e",
+      "external_url": "https://fortune.com/2025/11/25/sam-altman-openai-first-ai-hardware-device-apple-jony-ive-peace-calm/",
+      "site_name": "Fortune",
+      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
+      "description": "Altman said the AI-first hardware will be released in less than two years."
     },
     {
       "title": "My Take on Ilya's Interview: A path forward for RL",
@@ -90,6 +79,17 @@
       "description": "A while back I posted on some fundamental problem facing the current paradigm and this got some negative backlash. In light of Ilya's latest interview, I think things have become more clear. The way RL is done currently is not enough to reach AGI. Researchers have to set up specific RL environments, which costs a lot of time and effort, just so models get good at these few specified axis. These axis now happen to be aligned with eval performance, giving this brittle feel to a models capabilities. This is something that cannot be fixed with scale, since the bottleneck is how many of these RL environments can be created, which is a product of human labor and not of scale. Remember though that before self-supervised we had the exact same scenario with supervised learning, where researchers had to manually setup learning environments. However, once we figured out how to utilize scale, we opened up all the developments we have now. We are thus now waiting for the self-supervised moment for RL. Ilya already hinted at this with evaluation functions, and drawing inspiration from biology we can find some plausible solutions. For example, when a dog gets a treat when doing a trick, he is more likely to perform that trick. This is similar to the RL we have now where actions that lead to reward are reinforced. The difference becomes clear when we add a clicker sound to the treat: at some point, the dog will feel rewarded just by the sound of the clicker alone, and you don't need the treats anymore. This mechanism is what us currently missing from the models. Thus, the idea is to instead of just enforcing pathways that led to the reward, also add a small reward signal to the path itself. If many paths happen to cross the same node, then this node will become so rewardable that it becomes similar to the original reward: it becomes a proxy for the original reward, just like the clicker became a proxy for food. The problem now is that the model can start reward hacking, just like the dog optimizes for the clicker eventhough it doesn't result in him earning any more food. To counteract this, we can use the same mechanism that forces dog trainers to once in a while give a treat after using the clicker a lot; we degrade reward signals from paths that don't lead to rewards. If done right, models could start with some innate rewards, just like humans have innate needs like warmth, food and sex. Then, the model learns proxies for these rewards, and proxies for proxies, until it learns very abstract rewards. It will start finding interests in things seemingly completely unrelated to its innate needs at first glance, but in the end benefit him through some complex network of proxies and relationships learned through this form of RL. The best part of all of this is that we only need humans to set the first couple innate signals, and the rest will grow with scale, making this a true breakthrough for the current brittleness of these model's capabilities."
     },
     {
+      "title": "AI cited in nearly 50,000 job cuts this year as tech giants accelerate automation, with 31,000 in October alone.",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6cw85/ai_cited_in_nearly_50000_job_cuts_this_year_as/",
+      "published": 1764078533.0,
+      "thumbnail": "https://external-preview.redd.it/tUiA6XW7aVcHGw3xD1mT-fogOCWxMJeQTUj_lwHg6xQ.jpeg?width=640&crop=smart&auto=webp&s=7076a9c78d89b97a92efce4125cece5702f04325",
+      "external_url": "https://www.latimes.com/business/story/2025-11-20/ai-cited-in-close-to-50-000-job-cuts-as-tech-giants-accelerate-automation",
+      "site_name": "Los Angeles Times",
+      "favicon": "https://www.latimes.com/apple-touch-icon.png",
+      "description": "In recent months, large firms across industries and geographic regions have become more vocal with claims that AI is allowing them to eliminate staff and reduce hiring."
+    },
+    {
       "title": "Robots and AI are already remaking the Chinese economy",
       "author": "tekz",
       "url": "https://www.reddit.com/r/artificial/comments/1p6bmnd/robots_and_ai_are_already_remaking_the_chinese/",
@@ -101,16 +101,16 @@
       "description": "To blunt Trump\u2019s push to reclaim global manufacturing, China\u2019s factories and ports are learning to make and export more goods faster, cheaper and with fewer workers."
     },
     {
-      "title": "Genesis Mission | Department of Energy",
-      "author": "unserious-dude",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6ris4/genesis_mission_department_of_energy/",
-      "published": 1764111957.0,
-      "thumbnail": "https://external-preview.redd.it/1w12Z2o1ke5-KXKAs6b5MwJhlggQSQxWhmk9W5y2ERc.png?width=320&crop=smart&auto=webp&s=ee48408cb3ff23e0a38e0c64b099fa5089fbbe4c",
-      "external_url": "https://www.energy.gov/genesis",
-      "site_name": "Energy.gov",
-      "favicon": "https://www.energy.gov/themes/custom/energy_gov/favicon.ico",
-      "description": "Genesis Mission is a national initiative to build the world's most powerful scientific platform to accelerate discovery science, strengthen national security, and drive energy innovation."
+      "title": "Ilya Sutskever's recent interview. Very interesting topics about AI models",
+      "author": "Frequent-Football984",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6q4cr/ilya_sutskevers_recent_interview_very_interesting/",
+      "published": 1764108527.0,
+      "thumbnail": "https://external-preview.redd.it/nRcpLlzl_JW9da7YsMtouMWxIsiwlxlrVHB-F9hxu0c.jpeg?width=320&crop=smart&auto=webp&s=d0ec9efe6184607acf68500688b3ad20d5a55d77",
+      "external_url": "https://www.youtube.com/watch?v=aR20FWCCjAs",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     }
   ],
-  "fetched_at": "2025-11-26T05:10:44.802976+00:00"
+  "fetched_at": "2025-11-26T05:48:01.954585+00:00"
 }

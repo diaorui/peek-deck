@@ -13,17 +13,6 @@
       "description": null
     },
     {
-      "title": "God-tier \ud83d\ude80",
-      "author": "MrMBTC",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p6ize5/godtier/",
-      "published": 1764092557.0,
-      "thumbnail": "https://preview.redd.it/0xfpj3uvwf3g1.jpeg?width=640&crop=smart&auto=webp&s=1eaa9bff6e7d667c362eb924fb85cc3ba549a4ec",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "I hit a milestone \ud83d\udc4f\ud83e\ude99",
       "author": "MoistGameplays",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p6nlzj/i_hit_a_milestone/",
@@ -57,11 +46,11 @@
       "description": "One domino at a time, Bitcoin will become self evident."
     },
     {
-      "title": "$89,000 Bitcoin Today vs Last Week",
-      "author": "SolidityScan",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p6g00b/89000_bitcoin_today_vs_last_week/",
-      "published": 1764085976.0,
-      "thumbnail": "https://preview.redd.it/jmkxxv89df3g1.png?width=640&crop=smart&auto=webp&s=eca9f908bb2a5218bb648d7f2fb89127b988c821",
+      "title": "God-tier \ud83d\ude80",
+      "author": "MrMBTC",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p6ize5/godtier/",
+      "published": 1764092557.0,
+      "thumbnail": "https://preview.redd.it/0xfpj3uvwf3g1.jpeg?width=640&crop=smart&auto=webp&s=1eaa9bff6e7d667c362eb924fb85cc3ba549a4ec",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -90,6 +79,17 @@
       "description": null
     },
     {
+      "title": "$89,000 Bitcoin Today vs Last Week",
+      "author": "SolidityScan",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p6g00b/89000_bitcoin_today_vs_last_week/",
+      "published": 1764085976.0,
+      "thumbnail": "https://preview.redd.it/jmkxxv89df3g1.png?width=640&crop=smart&auto=webp&s=eca9f908bb2a5218bb648d7f2fb89127b988c821",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "So which one is it?",
       "author": "Loud_Permission1903",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p6w1vd/so_which_one_is_it/",
@@ -112,5 +112,5 @@
       "description": "I keep seeing news on JP Morgan shorting MSTR and I don't quite understand it, or even if it's real. I'm also seeing reports JP Morgan is debanking clients, which appears to be real. Can someone explain what JP Morgan is up to? Are they trying to corner the crypto market or destabilize it more?"
     }
   ],
-  "fetched_at": "2025-11-26T05:10:46.113651+00:00"
+  "fetched_at": "2025-11-26T05:48:03.370673+00:00"
 }

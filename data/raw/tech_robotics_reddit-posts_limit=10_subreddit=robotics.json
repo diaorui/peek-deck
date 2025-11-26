@@ -46,6 +46,17 @@
       "description": "From Dimensional OS: https://x.com/dimensionalos"
     },
     {
+      "title": "For anyone who loves robots more than cocktails",
+      "author": "TheLostWanderer47",
+      "url": "https://www.reddit.com/r/robotics/comments/1p6yyma/for_anyone_who_loves_robots_more_than_cocktails/",
+      "published": 1764133092.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "If you\u2019re in Vegas for re:Invent and want something that\u2019s not another hotel ballroom social, there\u2019s a BattleBots Arena event happening. Real arena. Real bots. Real destruction. They\u2019re letting attendees meet the builders and even try out some of the arena hardware. Engineer-only RSVPs."
+    },
+    {
       "title": "Building a sub-$200, highly functional 3D-printed SCARA robotic arm",
       "author": "Yoni_bravo",
       "url": "https://www.reddit.com/r/robotics/comments/1p6gqan/building_a_sub200_highly_functional_3dprinted/",
@@ -66,17 +77,6 @@
       "site_name": "youtube.com",
       "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
-      "title": "For anyone who loves robots more than cocktails",
-      "author": "TheLostWanderer47",
-      "url": "https://www.reddit.com/r/robotics/comments/1p6yyma/for_anyone_who_loves_robots_more_than_cocktails/",
-      "published": 1764133092.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "If you\u2019re in Vegas for re:Invent and want something that\u2019s not another hotel ballroom social, there\u2019s a BattleBots Arena event happening. Real arena. Real bots. Real destruction. They\u2019re letting attendees meet the builders and even try out some of the arena hardware. Engineer-only RSVPs."
     },
     {
       "title": "After 2 years, I'm open-sourcing the Rebelia Hand: From DIY files to a pre-assembled robot hand",
@@ -112,5 +112,5 @@
       "description": "Trying to get some ideas to make a demonstration of its potential capabilities.. Or even just your thoughts on it's design! Thanks :) https://www.youtube.com/watch?v=qawYP6E3znw"
     }
   ],
-  "fetched_at": "2025-11-26T05:10:48.811793+00:00"
+  "fetched_at": "2025-11-26T05:48:06.286921+00:00"
 }
