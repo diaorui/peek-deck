@@ -5,26 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "The fatal flaw in using bitcoin as a currency",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZmNlenhZYzBTbGpueFNGeFB5eUxQeV9CR3k4OEwzUDBzXzhHNlAxNkVtZlVtaC1LeUxkZ1JWV3BxVEtzNGI1ZU1JOWw2UjdYSE41NnZsMmZ5N2VZWkF2bk5fQnJrd2ZLOHBxRUh6UXA?oc=5",
-      "pub_date": 1764133249.0,
-      "article_url": "https://www.ft.com/content/a18c310a-d533-4d03-bb25-53cb11337dd1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80fc2f5e-ea28-4dc9-ae18-6c879b6eb7a5.jpg?source=next-barrier-page",
-      "description": "There is a crypto parallel in the aftermath of Europe\u2019s 14th century bubonic plague"
-    },
-    {
-      "headline": "Bitcoin and Ether are Rolling Over. The Crypto Chaos Might Not Be Over",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV0Y0bm1wcFlIV2t6ZnZ2VGM2ZEo2UlM5RW9ZQVpCZVRHaDZTRmhPcFJNU0lxNmUwUlI4VzBURXVfa2JwOG80UWxQYnItMkx6Q09DWmYtc2tUQlRsVmJnM04tU19yVHdGdWRBNGtjckxoY0FXbmpmeVhwUzBCU1Z1dWVOZzZ2Zw?oc=5",
-      "pub_date": 1764166240.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-ether-rolling-over-crypto-141040266.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/3EpxDG6t4AYjgVtEKnfv7Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/24_7_wall_st__718/8f0c481fcbf5e68bad448d0b2ac15356",
-      "description": "There\u2019s a bit of a panic going on in the crypto markets, to say the least, with Bitcoin (CRYPTO:BTC) and Ether (CRYPTO:ETH) both tumbling by a high double-digit percentage in the past month. With Bitcoin hovering around $84,000, there\u2019s concern that more pain could be in the cards as the technical picture gets a bit ... Bitcoin and Ether are Rolling Over. The Crypto Chaos Might Not Be Over"
-    },
-    {
       "headline": "Economist Paul Krugman says Bitcoin's crash shows the 'unraveling of the Trump trade'",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -35,12 +15,72 @@
       "description": "The Trump family, with ample crypto ventures, has lost an estimated $1 billion from the monthlong cryptocurrency freefall."
     },
     {
-      "headline": "Bitcoin, Ethereum, XRP Jump as Rebound Gathers Pace. Where Cryptos Go Next.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxORTlNV3k0Rkk0SWJfcVJHWnNsWlFZTDE2c1YtOTNhOHN5dGFuYTZMSFYzd1VIejRvSGRFbWo3d19TOGpOWlpXSWNHNExYM2FVUGV3UlpZZ1E4QTRUZmpiQTNzWGxLY2pXMmNCa0RuaVlkOGdVN0pMb25vTWF4XzRpM3ZrY3NTVUJhS2pzRnRJdGEwb0ZOQ1RvWG9VTXREaXdfOWRZeDYzR2RnTms0T1lvS0o0RTNxVG1pcUo2Wnd6RW5SUGtMMmpSbzVqeDE1YUZrMFRLd2hIMzc4NTFRaDN6cWQ4eWZOZHk2ZGpsamtRTzFxVUU0dy1UWGFoLW1WR1ppRkxBa0Z4cENPdTRZcS0tcVlfMERGQVlSR1lsSnFVOFk3ODRmem9xcl84VW5yS0dRYjgxRDVtNG13NDBFTTBQSXZEM3dFVmdoZ3M4Ty1adGF2dVJiM185TnZjUE9wNUotVmVFdVpPZ2pucXQxVUNMSWUtVEVWT3YyVURHVnZUNXF1Z1d4NTBCVw?oc=5",
-      "pub_date": 1764064980.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-rebound-dea5ac89?gaa_at=eafs&gaa_n=AWEtsqdCi6fV_BagIGx5pw8APbTKyox73iy9mByXkOGUGr-a650PChbAVRS8&gaa_ts=692767c1&gaa_sig=m-MvY_XtcLuP0VqzNc1LAMITKM1m8nr_DvPAh05twOKneYZ1ASRQLos2cjuGSDuU34iBCuuXk1phkTrMf8cDQA%3D%3D",
+      "headline": "The fatal flaw in using bitcoin as a currency",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZmNlenhZYzBTbGpueFNGeFB5eUxQeV9CR3k4OEwzUDBzXzhHNlAxNkVtZlVtaC1LeUxkZ1JWV3BxVEtzNGI1ZU1JOWw2UjdYSE41NnZsMmZ5N2VZWkF2bk5fQnJrd2ZLOHBxRUh6UXA?oc=5",
+      "pub_date": 1764133219.0,
+      "article_url": "https://www.ft.com/content/a18c310a-d533-4d03-bb25-53cb11337dd1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80fc2f5e-ea28-4dc9-ae18-6c879b6eb7a5.jpg?source=next-barrier-page",
+      "description": "There is a crypto parallel in the aftermath of Europe\u2019s 14th century bubonic plague"
+    },
+    {
+      "headline": "Bitcoin rises alongside stocks ahead of Thanksgiving holiday: CNBC Crypto World",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzBlaTNFRjdDa2RoMW1lS0c2eHRWa3dmMTNzZXBTQVJ1b1pRaGpwQmxGNHJnQTlSOXVkZ3ItNFNwYWpUZXhWdjhpWHdBWlNhM0ZXNE5oYkp4NnpKWTd1dWVsbDZMODlncTdqWmdneUY0RGRwTTNjV3dGSFByQnpnZURueFhCaHg1TFhQU2VWR1ZKeWxaclowSXJtcDIxTnFHVVZPWFFLeGpSNWpzalhZTVc4V3IyRndoNWJwS2tn?oc=5",
+      "pub_date": 1764189382.0,
+      "article_url": "https://www.cnbc.com/video/2025/11/26/bitcoin-rises-alongside-stocks-ahead-of-thanksgiving-holiday-cnbc-crypto-world.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108232756-1126_CW_Thumb.jpg?v=1764189213&w=1920&h=1080",
+      "description": "On today's episode of CNBC Crypto World, digital currencies rise alongside gains on Wall Street. Plus, Robinhood acquires a prediction market platform formerly owned by FTX. And Cosmo Jiang of Pantera Capital breaks down the main drivers for the crypto market after the recent sell-off."
+    },
+    {
+      "headline": "S&P Downgrades USDT Over Increased Exposure to Bitcoin, Gold",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY1lnM1BSOEN2NnlEX1Y0djRDNEFOLVU2VVJja1VtdFdTbm1pZ2k5NlFtT2VJSTYxblp1ZFlpVWJiS2VZZVBvZ19iaHZUdUdZZEtvSzkxdGZyTDVyRy1Lcl9xOUFvUXNMVnpfYk5MVDBRUmZGM0hZem5mZENRLS1JZzY4ZWxxQUk?oc=5",
+      "pub_date": 1764167746.0,
+      "article_url": "https://www.ccn.com/news/business/sp-downgrades-usdt-over-bitcoin-gold-exposure/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "S&P Downgrades Tether's USDT Stability to 'Weak' Due to Bitcoin Backing Concerns",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWNRc3NWdW01M3UwWERrUTFJTThQU0p3dmlkdnUwSDV5ZmtrLTB1czQwSF9GMmYxeUU4bkxwYlpDNVUxMDlpME5qZUVtQV9KTE5PYTBvS2tJYTczcVR5Y05DNE1hei1paGl4ckh1OFN0YzJJalVUTmRfeTNiUEVsT2Z3blFaVUtu?oc=5",
+      "pub_date": 1764188886.0,
+      "article_url": "https://finance.yahoo.com/news/p-downgrades-tethers-usdt-stability-202806859.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/LKvqMsgObe4vkxwMulfS9Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/9c82dc1cff311759a26e56fa380774d3",
+      "description": "S&P Global Ratings has downgraded Tether's USDT, warning that the industry-leading stablecoin could suffer if Bitcoin's price crashes. Tether disagrees."
+    },
+    {
+      "headline": "Tether's USDT Downgraded to Weakest Level at S&P Global",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbG1DS25adlBzYktTSE03SjY4dHd2VDdTX0JlV2hTYnZGRi0ycnROaWFSZlRxVl9hV21LVEowRHlNakVINHpjZExQWjFURE1meHljcjBfZExTWGtfTExpUnQ0YmY1VDRacHBDTzkyNmNONHJKdXhlYzlfT2NKNE9uemthTzdQa0tKVjYtemo2R2pBUkpHSUJ4VlFvVE5pU3Jka2FISjdvanVtRW9sQWtmQjFubw?oc=5",
+      "pub_date": 1764177525.0,
+      "article_url": "https://www.coindesk.com/policy/2025/11/26/s-and-p-downgrades-tether-s-usdt-citing-falling-bitcoin-prices-as-risk",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "S&P Downgrades Tether's USDT Stability to 'Weak' Due to Bitcoin Backing Concerns",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTThzMUpMSUxlcEpJTThOQlJEZFNlZnF5QnRvTFNkazk0RkpZZTUzeWsyWWlkNExNM2xrWC1VcHBJS3NfSFBwSU1odEgxRWp5aTdlMkxtYlpydjUtOGZob0VYWFlYNzlrbjZocGladm1rSDlxN1FLMzAwSllKQktzNUZfdUR6UW9ITzY5OTVyY01NdUdIUlHSAZ4BQVVfeXFMTmhUX1RYX2VFQmdwdU9zaEpYYy12SUtkN3h1UXpPZF90UDhHWnBJcS1FakZ1TjlqQkhvVXNWbERFa3ljOFZlZVJTc1l3NVVncWp2blBodlhJQm9KMzlDTVB2VTZHOVJSRXUzd3FoV216azFSazNGQ2hvdldRRVhWamMwV2w1a1UxbkN3ZUxoNTdScl81WlZpS2lxMWhWdEE?oc=5",
+      "pub_date": 1764188886.0,
+      "article_url": "https://decrypt.co/350136/sp-downgrades-tether-usdt-stability-weak-bitcoin-backing-concerns",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/tether-usdt-decrypt-style-01-gID_7.png",
+      "description": "S&P Global Ratings has downgraded Tether's USDT, warning that the industry-leading stablecoin could suffer if Bitcoin's price crashes."
+    },
+    {
+      "headline": "Bitcoin Price (BTC) News: Regains $90K Ahead of Thanksgiving",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOWJxT1U2bEZvQVBsYzVoX2F0UDREbUJtcFM0NUtYdU00b1VlN3MyUjI3T0tGdXp6S1JqMHRvRmFLMmNHQjNDQjVPT25FMERXbnZGN3VQcVV3V3o5MzJkQklqT3dGclRNMVRrWnB3OTZpOHZuRjRLX3VzdkgxZEdPLVNQbkxqYjBMTlNfSWNySEl0dTNKLWcta1dsRm9lVExPZnUwMW8wX1ROZzFGa0l0LVNsbUZ2aTdQNUd3?oc=5",
+      "pub_date": 1764180530.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/26/bitcoin-re-takes-usd90k-in-break-from-typical-pre-thanksgiving-price-action",
       "image": null,
       "description": null
     },
@@ -55,56 +95,16 @@
       "description": "Bitcoin\u2019s latest downturn is exposing a fundamental shift as the dramatic price swings that once drew in retail risk-takers have softened, reflecting Wall Street\u2019s growing influence on crypto\u2019s market plumbing."
     },
     {
-      "headline": "JPMorgan's Bitcoin Structured Notes Offer Potentially Massive Returns\u2014If BTC Surges by 2028",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS2FscGtxX2hsUWdpMnFUU25mOFVzTWxlcGNROHdUWDlETmpJb1BGeEQ1XzNsczVWUjlUZWZRdW5OM0FEZ0d2OGw1M1BsVU9fTzFGUWNVYVpYMlJna1l6VGc0OWpDdlBBLWpLSW9NN196NGVyMUE5bEpoUldCbENVWmpiSERWbzgtUGZWeldRcw?oc=5",
-      "pub_date": 1764122700.0,
-      "article_url": "https://finance.yahoo.com/news/jpmorgans-bitcoin-structured-notes-offer-020526080.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/BC5zEiSBdb5Ymt5wOLgftQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/197f04006ff7234402103c56fa64d893",
-      "description": "The bank has an idea for a product that would allow investors to make big gains if the leading cryptocurrency soars."
-    },
-    {
-      "headline": "Bitcoin News: JPMorgan\u2019s IBIT-Linked Structured Note Aligns With BTC's 4-Year Halving Cycles",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN3UtWjRMMVZXT3djazZyR2c5d2thUDE5YkgyM05xWjVUckN0SF81T3RqTUVXaTNLWDhEa2tOTVNyUzIyNklpZzRFei1BWE1vaFhYUm9TVlN5bHhyUG4xYkhxQUF4Rm1naUdQOUtOVHpvNUplaTR0Vk1iSjU0RW9CWmVibzctS0xjaUREb3ZfOEVGYVlSSW9jWGwtb0M0eVF4a3E2cnpUZEdNR1JkMzlQSmZLTTFQNl85a2lFTDE3TGc1RlJtVU5Kc2toalFBYjg0X3c?oc=5",
-      "pub_date": 1764141042.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/26/bitcoin-dip-in-2026-surge-in-2028-jpmorgan-s-ibit-linked-structured-note-fits-halving-cycles",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "JPMorgan reveals new Bitcoin target amid market pullback",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMXE2ZVdQajVZN1hsTFlBMEVqYkZnT0hWY25YUlZGaE55TndGNzBod0xaWG9GQkd2SUdsUWdLanM4ZmdPQnlrX2hXS2ZfbExmektpRFYtMDUwNDBlMFUyOTM2QmE5Q3JKWlRwRFZ3d3I5N2JJZE5jY2Z2STVfVVJpMTVHWHczS2xLWEpEYll2WU5vSERhQjBuNUkwWDRjdw?oc=5",
-      "pub_date": 1764170735.0,
-      "article_url": "https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-target-amid-market-pullback",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Michael Saylor's MSTR Appears to Have Broken Six-Week BTC Buy Streak",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFRfYVRBRUZJWnVVQ3gyeVY5X0ZwYy1kaTlESnRkNzlzdV8xWVFDZm95bVBXcl9HRHk5ZzdLejNWT29jUzF6SjBoLWNxUWpBeXRabkdSQkt3b3lIWjZJQlVpa1BFVTRqaUJhYWxSZFd5QUYwazJyRW1UbzQyT2toVjNDc0h5TUhXV3c4QUdTMFBoSGhFUU0yTXpqRzdtYk1CRUVn?oc=5",
-      "pub_date": 1763990874.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/24/strategy-apparently-paused-bitcoin-accumulation-last-week",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d66c28dbeddf1c6982599b72d1bc711e00f296ed-1079x1079.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The company's stock valuation sits near cycle lows as index exclusion chatter grows."
-    },
-    {
-      "headline": "Strategy's bitcoin premium heading toward 'crypto winter' lows, TD Cowen says",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOenBRSVItXzhMTUw3dnZESE9FdDhwQ2ZBT0g3YU5nM3g1Zk9ONnEzWlRidXIzVktvWEpoN1BsdTBORG9XeEtxSHJuRzR2Z3NTbU5ZaHdmN285QXFkMTk4Q1NlYUJPX3VMTjI1UXZJdkJUT1NpRjc3U0hReHRxSjAtQTB3UWMxMzA0cExKeHNFRVZjQdIBlwFBVV95cUxNTWYzTkY5WlpyOE9nQThITGR4UzU4X19oN2JIZml6Yzd1WUJyOGlwbmUxenhyX2pucXp2cXFPQmxGWkRXRjdTd2ZsS0lISWlDVTczSVU0RUJlaHF4OHlVZGFVUWdWOTEyYTJzQ0hFcThmV0h0SzVMT2NjejF2TzgybWdJRDA2SmVXZVl6dHN3c3Z5ckxLNXRV?oc=5",
-      "pub_date": 1764019447.0,
-      "article_url": "https://www.theblock.co/post/380249/strategy-bitcoin-premium-crypto-winter-lows-td-cowen",
+      "headline": "Bitcoin, Ethereum, XRP Jump as Rebound Gathers Pace. Where Cryptos Go Next.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQcFFkZzNQcm51aTI0QTJFcThlY09oMU1qaWl1Mkh1MFFGY3hxSjVXYklXRVJtVDFxSDRuaG9VLUdpRGF4UTFRQkl0OEZGN3BHMWl4cHNaZGZmLXd1WmVOMDUzUGlHV21IMGpyTzZBcmpBQnV5R28weVZXWW9fQjRrNFhuVXN0aUlkTE1iXzdkTjB6WjZrSmJzTTdvLUh5eEF3OXBGUjFzUDBwek1DenVCY3J5bFUzU1M1WkZZSFNqZ0UyQ29kWE5iTVIyYU8zVlFYX2dDOUlCc01uZ1FncE4tV3JDOEJadk53Zl9GZ3RPMDlTck4tNjYwdVRfbjRzVGF5UHdoVUc0UndOWGhkZXhXc21pek55RFFrOTRxa2xTa3lYTHZlLUU2NHFWTXh0VFJKbml6SGY3cFo1QzVHV1NCLVRMaG9wU1NZeXhGSnpuMF9iNlRZVy1xZHdnMGRiZHFaZC1zYUdGX2dpa0RvSWhUSzJxbHRpUl9taEZ6Mm13Qm5SREU0MjZXSQ?oc=5",
+      "pub_date": 1764064980.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-rebound-dea5ac89?gaa_at=eafs&gaa_n=AWEtsqdxTbPwEsfSTwcnpQj6vmEGH3IrufDoa5jG9zgg_FeYbWRIeuxln9SU&gaa_ts=69277334&gaa_sig=Z6p6cBnKkeH8bNBSmaCOLpb5ZozWJZo98dsg9yVXXRhe095RcAfEQm0NG1Gq7Rxn6f067rgD8uIDHmdWxdOdTw%3D%3D",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T20:34:23.912913+00:00"
+  "fetched_at": "2025-11-26T21:23:31.627996+00:00"
 }

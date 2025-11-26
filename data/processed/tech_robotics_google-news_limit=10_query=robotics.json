@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Robots and AI Are Already Remaking the Chinese Economy",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNVGRfa1dYNjF2ZVJXOWxJZmFrVUt3UXVSRjF2MGlLQ2UwR0Z6M0hVcklZTjdKdF9aUU5vSkFDSzNOai1KZWhqeXZKRHRxOTFldWxfbE10UUQtU3FRd2VUTW1SeGd2SmNDVXNlVEN4c2tBTFRQN2wtSmkwbjMxTVpweHV1c185Y3YtQTNyb3VRT0xBODBVVldKSG5CclYzQm50b1phMEgwZ3dXMERNd0xubF9DNXBtZUdtVDctczRyMGhpSGVNMUl5ZVo2dzNEZC1WLWFXWGVpRlp5d3U5bUc3ZDhNVHNnYnJEMy1xazJGQ3FsdmxGanVXTzlicFRxb2tPZXFlSnk3WF95bTBhZ3pORWZhbEM4VlBnSElmTmJZRjZiY1cyRmUyUWhIV1hmdUd4VEE1aDZBRllvZGwxN3NTSFJKQVptYW8zdUF0S05HQ0IzcEl1RDNmWU5HTEZodDRlMTB6YlVLWGtwSGtFdVQxUXJpR0gyalFRcUE?oc=5",
-      "pub_date": 1764036000.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-robots-china-manufacturing-89ae1b42?gaa_at=eafs&gaa_n=AWEtsqdNYQ3MHr5F6UTsrgM3WfsTamjUxgcYFMTNboaJYIZsWmYy_6RDNUtZ&gaa_ts=692767c4&gaa_sig=sGGfmAp-f7e9Vw3oKmorkXxbUnk6NgY4y6_LVRQM6AR1i2fsJGK2OdRZ2-hUCw9GJULFqoKEP6jzvzaRjja5wg%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Video: Warehouse humanoid robots lift and sort objects on their own in real-time",
       "source": "Interesting Engineering",
       "source_url": "https://interestingengineering.com",
@@ -25,14 +15,24 @@
       "description": "Mentee Robotics released an uncut 18 minute video on showing two V3 MenteeBots autonomously moving boxes inside a warehouse."
     },
     {
-      "headline": "Tesla is bleeding AI talent to a small new robotics start-up",
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUTFBMXRyMGlCSXBwQVpQU09KTnpFTG1JdWQ1T2dtVC1OdXFOQWt3VEIxbXlWRUFvLWZzdVRSbEtZVmd6dGE4TXcwR1VFVDZOS0FQZGxIRWpUekZaejFITjMwNV9kQlBtaTJFVU8xcFZENi1TYUxVaFpBUk1JWnNXZXIyVm5CQ05lR2F6bQ?oc=5",
-      "pub_date": 1764017880.0,
-      "article_url": "https://electrek.co/2025/11/24/tesla-bleeding-ai-talent-small-new-robotics-start-up/",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/11/Sunday-Robotics-Tesla-engineers.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "description": "Tesla\u2019s AI and robotics divisions are facing a significant \u201cbrain drain\u201d as a stealth startup called Sunday Robotics emerges with..."
+      "headline": "Robots and AI Are Already Remaking the Chinese Economy",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNVXl4ckhvU1JWd2NxaEhrd1lVZjlyNzhiLXNrRjlLcVRMV016eXVYX1pwaS1uQWdvLW8yNzdfRnFrRFU1dnlhZFdKR0tTa2E2UzNsTzhZR2tGdVNyQmJPMTU3WFVMMHZHRFdjb2plZllSOEdkTU5lSEVWcmpwX2paVklmNGVQdTdoQ0stU0l0OGcwcnFFa1c1Q1pUVTc1ajJQcXdLOFgzd1NZeHNkeDU3OTk1NDNUR2ZvRWRlWWtBX1FPam9zVG5xSnZ1RFpieGx0T3FHLVp4VGR0d2h2eTBJWE1UUHFiSGN6NEo2RGRjMVExaDJLR211Z19Mc1c5aVFIS3E0dl84bGJiZTg0WlMybGZnbXpkazdjUUZKV1ByRmcwd29ZUmczUjBNZ0d1VmVFVzVhTHFIZkVYd01OZDVLeWdzNHFLZkdUOWRGTEx3ZVdHM3lRUTgxU19DalFKWTJtQTI0SkNGZVUzZ0FwMzljNlVneG1fSFVDelE?oc=5",
+      "pub_date": 1764036000.0,
+      "article_url": "https://www.wsj.com/tech/ai/ai-robots-china-manufacturing-89ae1b42?gaa_at=eafs&gaa_n=AWEtsqemYdpQQ1lTrTUYbwDCWi8JrMDUimwuCjur7GhG7T8My5u5wd2-RASi&gaa_ts=69277338&gaa_sig=mJponsAm5WNvUVyqJktM8qcK9bn1Qivr3V0-mMyn9iDdx1lGUa5UT_Qbu8_xeAxlEJJvlgBNqUmb7XWyw8PBVQ%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Embodied AI: China\u2019s Big Bet on Smart Robots",
+      "source": "carnegieendowment.org",
+      "source_url": "https://carnegieendowment.org",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONV9RdWdfSUw1Y19oUGRjclRlbzJ2VW1nbGVlM21mZnZzUjZrNXpZWG1XZnUxQ2hLTzZnMFJhakRaYXlESnl2UnBKVFQ5UUNfSUhjcTFKTVI3MzVDeWpEUWMwcXprcFFrTEM1SG9YYnhzNWFIalVRbWx6UTUtOHFkc2hSbVpPMUFudmdRUDJB?oc=5",
+      "pub_date": 1764000718.0,
+      "article_url": "https://carnegieendowment.org/research/2025/11/embodied-ai-china-smart-robots?lang=en",
+      "image": "https://carnegie-production-assets.s3.amazonaws.com/static/media/images/robot-ai-china-GettyImages-2244643683.jpg",
+      "description": "Beijing believes that true AI dominance will come from systems capable of autonomous operation in the physical world\u2014AI-powered robotics, or embodied AI."
     },
     {
       "headline": "Tesla accused of infringing robotics patents in new lawsuit",
@@ -45,24 +45,14 @@
       "description": "Tesla is being accused of infringing robotics patents by a company called Perrone Robotics, which is based out of Charlottesville, Virginia. The suit was filed in Alexandria, Virginia, and accuses Tesla of knowingly infringing upon five patents related to robotics systems for self-driving vehicles. The company said its founder, Paul Perrone, developed general-purpose robotics operating [\u2026]"
     },
     {
-      "headline": "Slipknot-gauged mechanical transmission and robotic operation",
-      "source": "Nature",
-      "source_url": "https://www.nature.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jcFlNV2ltSVlreWNEejB2SmNsUVZ4dUtFUHRLbkdtVjhQbW1raVl6SlpZbDRoVXhEb281azdyaDM5SHlId0YxTXlKbGdEaGJnZzNxQ2I2T1R6Q3FxeG1F?oc=5",
-      "pub_date": 1764178256.0,
-      "article_url": "https://www.nature.com/articles/s41586-025-09673-w",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09673-w/MediaObjects/41586_2025_9673_Fig1_HTML.png",
-      "description": "A mechano-intelligent transmission mechanism based on the slipknot delivers precise force signals for clinical practice and robotic operations such as minimally invasive surgery and tendon-driven robotics."
-    },
-    {
-      "headline": "Agile Robots acquires thyssenkrupp Automation Engineering",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQelA5OGxjZkNwSTZJWU90OG9tOVRkbkVuSDE3cHF4N3FuMnBXNC0yMUo4akp0Vk1fb3V6TlNmOWJqWkpJYXlrYUlCTUNwOGNjWTI1a21uazg4dkpRLTd4Nzc2N18xOHNTeHFtRG92Zk0yRklnaWVzQW83N21kYjJWRTNoVWFUVlVFci1May1TM1dsaHc?oc=5",
-      "pub_date": 1764177588.0,
-      "article_url": "https://www.therobotreport.com/agile-robots-acquires-thyssenkrupp-automation-engineering/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2025/11/TKAE_Site_Maschinenpark-copy.jpg",
-      "description": "thyssenkrupp Automation Engineering will provide automotive expertise and expand market access, says Agile Robots."
+      "headline": "Inside the Lab Teaching Robots to Make Coffee, Fold Laundry",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZW5FZ0p4TWVyenF6ek43ZF9DZ3ZoNFVJVEZ5dU14SnlzN1ZfY19KVUxVeDhNdUJzbi1XMjd3LU1Wd29JTXlxbkpfUk9GbUxvRHpOcGpnUVZkTmJsaUlIYUI0S3c0MmIxWG80SV9OSnJvdGl6VTIyVDA3dkU0alJ2d1BfQWt1TFFhZXdhRFM4VExpaEFiWjN1NEhMLXcxS29pZlVEUzJVOWFsY0VwbEg5T25R?oc=5",
+      "pub_date": 1764190833.0,
+      "article_url": "https://www.bloomberg.com/news/newsletters/2025-11-26/inside-the-lab-teaching-robots-to-make-coffee-fold-laundry",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Inside Glacier\u2019s mission to modernize recycling",
@@ -78,9 +68,9 @@
       "headline": "This $46 billion robotics stock is up nearly 40% after a big win. Could more gains be in store?",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNaTZNUkE3aUEzbk5HblFaUFBUc3MySjlERnpFd3cwMFlZcVFucUNCdUJod0xWdFltc2hFcmxPb01XNG51alJheDR0MDlidWVRcXcxbVlVUFdNcGdXUVZzRUZTYWpyZUNWck1Td2dxUmJyUzhWR1hkQURIZ3lEMXJQODJSaW5yeTlLTVNPQUZURlBza1g0N0ZqN2lqeUxyMnZ2cWhRNkZYdWU1Q2RJTVdlWExrOTd2RDlyQ3EyNGVHN0I4NjY5LWVNZVZfVUtEMXl5c1RBVHZhU1R3d05mQ09iZXdMS05fYkhpUnFpeExRTTF2MVBkemlNbjBlbW9TME56M1JGUUYxN3o1NVMwa2JTZXF5Wk45anVuQUQwVnk3VzlTanBiRHFickFIWUFUVHJqNjlBcDZ4QmtyMFlDUTV4dzliaGN3eEU3U3hLX3VhQXpfZE9yNVAxbWxEUDgyaVdkVnNORnk0azJSck5iZ216Y2RnVEN6MFNXQ2NNeEpsamJZRGRLUjJEUnhoMWhXcVoxTkF1ejNOeEl6aEEtS1NIcGkzZWxwLThlVUdUMjQyX3BxSFY2cnJDRjE2RW9DcG1DZFBBNThBbUR1NVk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOaHQ0ZnhMeS1EY2dJUGJyTVo2RlE2bjN3UWtsaEpqb1FNeEw3MHZWYnhzYXE5VW5RM1FoRzllNFFnWUYtT3ZYbzZhRlVMaDItMGU2T3htVTJBVjJpNUxnMElZTHdzektOanhxU2pCdEFNWHp4NTJ1aVpZX3NyZkR6TTZOV2NHU1hCMVBLRXR0Yk0yVTlmTVYzX2lDSnpRQ01JekZKVVJWdWpxNkhXeDV0NDFnYU42Z0NoT0R3N3UwZG5iMWpVRUx0V1dWR2lWM1NOQVliZkRQeHlCUnVyNVcyb2NURUpnZkctRktULU9fajdfRTkxdHdid0tVY2V5WENrV3V5cEZDX2NfTXZOQ2h2RnluTDdYQzU4QWNiNl8yTUV5Y2Z3THRlX1M0NkRYMkxCWnk4YUxFaEFFSGotUG9LVkdiT3dBdjVxQlpFQTJ1dXVuanIxUWhYeVdaTzBva3ZqOXBMMmZYc1UyMDBabkUwQmtUa2UyOHFsYnlHVTdMczhiMlVadjcyQkxQVTZ6Qjk0LWMtVS1SeERYZF9lY2FabmhiQVdjN0g3TjRGT2ZEakFBX2lTY1AwTENiNDVTYU1rN2wwSFdtYkdVeWM?oc=5",
       "pub_date": 1764103860.0,
-      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqfcNCrOtEDlAiboavwzI8N7DODr7S2GQub9nNS46ku9Q13P5ydtQcPR&gaa_ts=692767c4&gaa_sig=qrRDSgGiN15CFkstw0b-tBGFycvORtYPEM7CpOfGV-zMsUtQ70n5jUJg-8rmgzg6kblyN7ytaVVByx2VLWpZ_Q%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqe6E8A5f37XdMU6yKEnX_IrYRSxlkM0cjR5jT0X88V8oaT1DOskFDRp&gaa_ts=69277338&gaa_sig=wswX7kg1sn4IQIAbm-0bkdK_hj_9Vcl2-1bb6IrtbhSRfHDITgx46t7jqsyPfkqFBja5p16PSJnG6Ks4zVtICA%3D%3D",
       "image": null,
       "description": null
     },
@@ -95,6 +85,16 @@
       "description": "Already worth billions of dollars, the global surgical robotics market will double by 2029, according to a new MassDevice report."
     },
     {
+      "headline": "Tesla is bleeding AI talent to a small new robotics start-up",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUTFBMXRyMGlCSXBwQVpQU09KTnpFTG1JdWQ1T2dtVC1OdXFOQWt3VEIxbXlWRUFvLWZzdVRSbEtZVmd6dGE4TXcwR1VFVDZOS0FQZGxIRWpUekZaejFITjMwNV9kQlBtaTJFVU8xcFZENi1TYUxVaFpBUk1JWnNXZXIyVm5CQ05lR2F6bQ?oc=5",
+      "pub_date": 1764017880.0,
+      "article_url": "https://electrek.co/2025/11/24/tesla-bleeding-ai-talent-small-new-robotics-start-up/",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/11/Sunday-Robotics-Tesla-engineers.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "description": "Tesla\u2019s AI and robotics divisions are facing a significant \u201cbrain drain\u201d as a stealth startup called Sunday Robotics emerges with..."
+    },
+    {
       "headline": "Remote Robotics Could Widen Access to Stroke Treatment",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T20:34:33.429320+00:00"
+  "fetched_at": "2025-11-26T21:23:29.900622+00:00"
 }

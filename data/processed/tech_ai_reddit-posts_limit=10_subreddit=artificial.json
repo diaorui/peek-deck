@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "OpenAI says dead teen violated TOS when he used ChatGPT to plan suicide",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7i8r8/openai_says_dead_teen_violated_tos_when_he_used/",
+      "published": 1764188178.0,
+      "thumbnail": "https://external-preview.redd.it/ZJzNUtejLvTlT9K0tqHP72WSQjMM9XdqljbZbihFivg.jpeg?width=640&crop=smart&auto=webp&s=60b05d376319c4214a9ba8816e4b24eb385b9c59",
+      "external_url": "https://arstechnica.com/tech-policy/2025/11/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide/",
+      "site_name": "Ars Technica",
+      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+      "description": "OpenAI\u2019s response to teen suicide case is \u201cdisturbing,\u201d lawyer says."
+    },
+    {
       "title": "MIT study finds AI can already replace 11.7% of U.S. workforce",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1p7c303/mit_study_finds_ai_can_already_replace_117_of_us/",
@@ -57,17 +68,6 @@
       "description": null
     },
     {
-      "title": "OpenAI says dead teen violated TOS when he used ChatGPT to plan suicide",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7i8r8/openai_says_dead_teen_violated_tos_when_he_used/",
-      "published": 1764188178.0,
-      "thumbnail": "https://external-preview.redd.it/ZJzNUtejLvTlT9K0tqHP72WSQjMM9XdqljbZbihFivg.jpeg?width=640&crop=smart&auto=webp&s=60b05d376319c4214a9ba8816e4b24eb385b9c59",
-      "external_url": "https://arstechnica.com/tech-policy/2025/11/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide/",
-      "site_name": "Ars Technica",
-      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
-      "description": "OpenAI\u2019s response to teen suicide case is \u201cdisturbing,\u201d lawyer says."
-    },
-    {
       "title": "Uber headhunted PhDs to join 'Project Sandbox.' After a month, it said that their AI training contracts were over.",
       "author": "businessinsider",
       "url": "https://www.reddit.com/r/artificial/comments/1p7fz31/uber_headhunted_phds_to_join_project_sandbox/",
@@ -77,6 +77,17 @@
       "site_name": "Business Insider",
       "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
       "description": "Uber's Project Sandbox used contractors to train AI for Google. On Monday, Uber told some of them their work was over early."
+    },
+    {
+      "title": "Jeff Bezos\u2019 New AI Venture Quietly Acquired an Agentic Computing Startup",
+      "author": "wiredmagazine",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7j12e/jeff_bezos_new_ai_venture_quietly_acquired_an/",
+      "published": 1764190055.0,
+      "thumbnail": "https://external-preview.redd.it/lPSLOq-4AYPEVB9H_aKXcgln3szDEwj63XWDonvGPIE.jpeg?width=640&crop=smart&auto=webp&s=dd14b420c3f8ea1180a544f3c143628367232527",
+      "external_url": "https://www.wired.com/story/jeff-bezos-new-ai-company-acquired-agentic-computing-startup/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "Project Prometheus has raised over $6 billion in funding and hired over 100 employees, a handful of whom joined through its acquisition of General Agents, according to records and sources."
     },
     {
       "title": "Large language mistake | Cutting-edge research shows language is not the same as intelligence. The entire AI bubble is built on ignoring it.",
@@ -99,18 +110,7 @@
       "site_name": "Business Insider",
       "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
       "description": "Google is on a tear in the AI race and has made a miraculous comeback, thanks to Gemini, its TPUs, and other factors. Here's what's going on."
-    },
-    {
-      "title": "I might have done something",
-      "author": "Any-Beautiful-3524",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7ifgi/i_might_have_done_something/",
-      "published": 1764188619.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Ive been messing around on google gemini making games, there is one project that i have really been working hard on, that includes an entire narrative in the background. Domehow Gemini managed to enforce it so well that ChatGPT was able to perfectly identify the story, by going through the code"
     }
   ],
-  "fetched_at": "2025-11-26T20:34:06.129499+00:00"
+  "fetched_at": "2025-11-26T21:22:57.442358+00:00"
 }
