@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitcoin, Ethereum, XRP Jump as Rebound Gathers Pace. Where Cryptos Go Next.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPTnYzMjdFWFUtYTRlME5tY2xjb0RlLVd5S2N5V095N1IxaWJMdUFrbS1PeVRMd2o2MEo0Yk5pcEk3a2N3TmFDX3hMamlZZnJoSHE1LWZpMFdwb0JUQll5SERJWE94WGNfRHg3cTVjakkzdEVqa2pFRi1GemVkZjh4Q2ZRb2dmWDhzZjlHcGQyZHYzWWlvWWdjOVRHT0szUDdWZmpfQjBLYkR2ejJIczY2MkdsdXJUaExrV3ZzMUkxODRzQ29fVHo2S0tSR004Y2lmS2ppNFFxbEppTTBNNDVVMnlOeDBKWk5NNXBzVDZTdXlVVk9iY1NJT1hJUTIwU2NYeTNtSEtsS3lzNURJTHhFZ0twTnhCeGpCakx6M1g5Zlk1Y1dIQlY3V1BuSmNpT245a1hFOUxLdVJBbG9TWTl6Rk84NVNiWTBRelhkQXN3cU9ZRlJXcG5COGxYTGhfZGNXSTRqeGN4UVhYX3pEZktPOWsydDdzNnhydHdlU3hYUHFWMTNvQWNKbQ?oc=5",
-      "pub_date": 1764064980.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-rebound-dea5ac89?gaa_at=eafs&gaa_n=AWEtsqeMn49YrJlUWez-1BeBsYplIPduXlBBaKXauv3KL96NN36vn28M3VIw&gaa_ts=69278e56&gaa_sig=EhR4a-Ik69-iMOWh_92QcxiAPojwMmUyvf3ydNUON72VqYQL48MiVDLMzo7DVJfocUiLKWdNaRrItMltCuLyLA%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin Reclaims $90K Ahead of Thanksgiving as Ethereum, XRP Bounce Back",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
@@ -23,6 +13,36 @@
       "article_url": "https://decrypt.co/350151/bitcoin-reclaims-90k-ahead-thanksgiving-ethereum-xrp-bounce-back",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png",
       "description": "Bitcoin has broken above $90,000 per coin again, nearly a week after it dipped to a seven-month low of about $81,000."
+    },
+    {
+      "headline": "3 Reasons Why Bitmine Will Follow Ethereum's Rally (NYSE:BMNR)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc0pvWVNhRmgxRy1VTGV5TWJGSTVYb2JtMjJ0eFliVUwwRUVaTFNlRFAxMlpybXF5VTRZSnQ1VzRyU2FtUVU1TS10QnYyOHNYZE9pWkM0STZQb085eXpMN3VrU1hfNmV4djF4SENDSmduYndhS2lXMm1ycjRhdlpzUDMzREU4MnJfd0ZBQ0NTOUI3cmh2?oc=5",
+      "pub_date": 1764119070.0,
+      "article_url": "https://seekingalpha.com/article/4847723-3-reasons-why-bitmine-will-follow-ethereums-rally",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1336958337/image_1336958337.jpg?io=getty-c-w1536",
+      "description": "Bitmine Immersion Technologies (BMNR) is now rated Buy after a price drop. Learn about BMNR's ETH strategy, dividends, and growth potential."
+    },
+    {
+      "headline": "Why Ethereum Rose 3% Today, Despite Key Headwinds",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04UGFXRlBkdWMyYWhyM1RCMW0xenV4bHBhMEEwREtmckVMUUlxa1JmZTMzMGRPbHRPOVZPcWI0S1hlZjI2azBYSFNPeFNnV3RIOEdHNnpKUEZqU3lnd25yaW43NkRJMllkamJvM1o0endwTnBvWWtKXzhxbw?oc=5",
+      "pub_date": 1764198060.0,
+      "article_url": "https://finance.yahoo.com/news/why-ethereum-rose-3-today-230100012.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/WUWjK7r.FH_JsfhyLe5o1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/b02a684c517cee29ed96270534be74f5",
+      "description": "Ethereum's big daily move has strong rationale, and could continue into year end."
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP Jump as Rebound Gathers Pace. Where Cryptos Go Next.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNOWhQY05ONFdqcE9rWXlWTExXbWFBTW5HbG1PeHJTRmM2eTFFM3E5aWJZUXlpSzVPUFM1ZEd3cGZmOE1majVpWmhVYjBQYlRoTVRuaUYwS2N2cG80dWZrR3hGbVJXbDF3eDB2dVkyOVp0WnBjbjZiSU5hb0dLSFAxcDN5b2xmNi1XN0ZFM2FIb1BKVzZyNmVMZF9iTTYwYUI3RUx2U1NjMnRQS3RBcUhudEhCNkZ3WWUzdjNwYWcwV1B6QVNpaGRaV1EwMXFJWDlaNV9qenFJYUx1cU54Nk04M0Q0VmxydHFabGhsUEt3N0xEQUpNV1ZWRmtXSUsxZWJFRWFvbnhRWEJRazd5amlRZUhNYkdfa1pPUDBkSDhRR183R2xQenNodkJHZk5kVGRvd1BHRVpxcDVYeFZCUmw2YUpQdVZDejhDWUl6TjdLVXROY3JfLXdxQ1BJYWItZ1J4cUJFcWJiVHJtcmtTQ0MwX2k4R2JXbE8yNklONVgta09SM3J0cjRZSg?oc=5",
+      "pub_date": 1764064980.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-rebound-dea5ac89?gaa_at=eafs&gaa_n=AWEtsqf4ZwlGzf3y75e_dmpohfGVQcAcggrlBsLW55690Qik7KDEHkgcSOYL&gaa_ts=6927970f&gaa_sig=8-NJhIKK0DWXlJkyqogFeP-XDhutR4-gssyTp-p60Kxw3Dx0GeEIHLqJ44bOaDTBojAWwxjtfzH0hZnkcIj9AA%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Better Crypto Buy: XRP (Ripple) vs. Ethereum",
@@ -35,36 +55,6 @@
       "description": "Key PointsStablecoins have exploded in popularity and could become a multitrillion-dollar market, according to Citi Group."
     },
     {
-      "headline": "Ethereum (ETH) News: Tom Lee's BMNR Sitting on Major Losses",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOTMwNEpyNXljS0UtVjVHUE91ZnlBUnFmZktHalRMX0pFdmxqQWxaTF8zU0VoQ20zeHpEYmM5RVZwRmhpWkNJMXZtQkNybm5lTzRaTjVMVE14c09MdXBEa1VVZUZKNDd3OUNMU2JRRk5NbklmTW9fcmt4V2QtQlRCdERUemZ1aHFjSjYxSmNzV3NLWm5uOUE4eDk3SXc0WTNHeTRERTNIRFA0STR4S0FSOGpuNG1JQm1qc0VVYnN0UnB2SWdBMG94RzNBWWh4V0xaN003S0lEQ0UzOUhCdV9N?oc=5",
-      "pub_date": 1763748446.0,
-      "article_url": "https://www.coindesk.com/business/2025/11/21/bitmine-immersion-sitting-on-usd4b-unrealized-loss-on-ether-bet-as-analyst-warns-of-structural-issues",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why Ethereum Rose 3% Today, Despite Key Headwinds",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUHNDU2FRdk9BNWZ1eldBYS1MYVphQnpNMGVTd0t0NVdhcDZtcDFKNjlueXA3RHdWQlctNVN5NENFcEl0OU5SM0pIb0dIY1FZZlZDMjdoNVNEamoyQmk5NTIzUDY4OVFtc0FoaEU0XzFrX3J4V29RRndBMUpPejBRbnZFcmEyWWZVOFVjaVYzQ2F3OGxl?oc=5",
-      "pub_date": 1764198060.0,
-      "article_url": "https://www.fool.com/investing/2025/11/26/why-ethereum-rose-3-today-despite-key-headwinds/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844740%2Fethereum-virtual-money.jpg&w=1200&op=resize",
-      "description": "Ethereum's big daily move has strong rationale, and could continue into year end."
-    },
-    {
-      "headline": "Four reasons why Ethereum price remains bullish above $2,800",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVGxYMXFNZHJfLUFiVWVYSjQ1VUpId3NFOEZvRzNHYXVTbmIyOVljem0zY005X1didjFndzFGMzNzZ1JqVHNLd0pWcHJEcUwzMlhmYU5fRHJKdE1CS2lZVXAwbW1ROWM0ajd6T3Z1b2U0am5nYVAwNVRCZ0JuaE5WMW1qOTJNeVNVNVkyY0dHaW92M0JWLXc1NXpINFR0RWh3cXVkTG1aSkZlR1h4MUpzcWdSVFhZZmV4NC1GZHdiUHQ?oc=5",
-      "pub_date": 1764168189.0,
-      "article_url": "https://www.tradingview.com/news/cointelegraph:5afe3930a094b:0-four-reasons-why-ethereum-price-remains-bullish-above-2-800/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Ether BINANCE:ETHUSD price is up 11% since plunging below the $3,000 mark on Nov. 22, reclaiming key support levels. Analysts say that increased demand from institutions, coupled with the end of quantitative tightening, could lead to a recovery toward $3,600 next.Key takeaways:Ether\u2019s apparent dema\u2026"
-    },
-    {
       "headline": "How Sharplink Is Reinventing Itself: Earnings, Ethereum, and the Future of Gaming",
       "source": "cheddar.com",
       "source_url": "https://www.cheddar.com",
@@ -75,14 +65,14 @@
       "description": "Joseph Chalom breaks down Sharplink\u2019s latest earnings and why the company is pivoting from gaming to an Ethereum-powered future built on transparency."
     },
     {
-      "headline": "Why is Ethereum No Longer the Top Choice for Institutions?",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUXgyT3FITkIyS3VsVlNBeWN6V2NPVVpESzZsZWU5bmRuOVhqVVNsb1BxeG9uQXo0Sm1lU25KajNHODZaWXJfdGhWR3BHU1NXNUZVdmVud2FJT2hjU0ZvMmZEeXVyZ1JIM0dBaUxrMlVGemVoQXlfSTEwc2NNMzJDbEFHTEprUQ?oc=5",
-      "pub_date": 1764133200.0,
-      "article_url": "https://beincrypto.com/institutions-shift-from-ethereum-to-private-blockchains/",
-      "image": "https://assets.beincrypto.com/img/qgXoY3MeRxRvCUg7OlffJNxgoY8=/smart/ddd5977a1b7a4e488ed3ef6dd0b6dda2",
-      "description": "Institutions are leaving Ethereum for purpose-built blockchains offering privacy, speed, and compliance."
+      "headline": "What will happen if bitcoin and ethereum hit key liquidation levels",
+      "source": "Sherwood News",
+      "source_url": "https://sherwood.news",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjVoQTBSSk1vbHJPQXZGdlk1SW1GZjdpN2JDODl0UmxyNFQxSG5oSUc5VEVoVGhsZFZfZ2w0ZzZnQVN6OWwycjdxZXctZ2stemY1cXFnaUVQT3RFMzV2QThwemdfVVJBcFVKQUdXX181SEM2TUF4dVluYVRXamRvQzUxN0g1LWs5NkFFcWd4V0FocGl4OS1MaXZNYUdYQQ?oc=5",
+      "pub_date": 1764091319.0,
+      "article_url": "https://sherwood.news/crypto/what-will-happen-if-bitcoin-and-ethereum-hit-key-liquidation-levels/",
+      "image": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/dv537008_businessman-pulling-a-dollar-sign.jpg?w=1600&auto=compress%2Cformat&cs=srgb",
+      "description": "Billions in forced liquidations have swept through crypto markets in Q4. Here are the major liquidation clusters on perpetuals protocol Hyperliquid..."
     },
     {
       "headline": "LTIN, Solstice Staking, Bitcoin Suisse and Obol Launch Institutional-Grade Ethereum DVT Cluster",
@@ -95,16 +85,26 @@
       "description": "Vaduz, Germany, November 26th, 2025, ChainwireLiechtenstein Trust Integrity Network (&ldquo;LTIN&rdquo;), Solstice Staking AG..."
     },
     {
-      "headline": "Tom Lee Sticks To $7,000 Ethereum Price Target, But Only After A Dip To $2,500",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYXoxOHVvX3BRejlBUVMtQVpVbHNBMV9LNVIwSU1icFJmWXdJdTdRRXIwaC05RGVRZVptN0kzaW0tbFRjcktXNHVtQ0JNT29BV084c296U3RoSnUtQWtjX2FGQlJMWlRyWmc3MlhvUjVtREgtbXdXekg2Skk3UlZyMjg1ck8tSWxYQWtVamVXUi15LUdIOUlxYlI0Q21ZcE9jSGZvc0tmZXVLQ3JBbDJaNDdXV0lhYXRKLTVid2I4UzRqWFpabExpYkxkMDZFbmQ2?oc=5",
-      "pub_date": 1764093716.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/25/11/49065658/tom-lee-sticks-to-7000-ethereum-price-target-but-only-after-a-dip-to-2500",
-      "image": "https://cdn.benzinga.com/files/images/story/2025/11/25/Ethereum-Coin.jpeg?width=1200&height=800&fit=crop",
-      "description": "Tom Lee is sticking to his $7,000 to $9,000 Ethereum (CRYPTO: ETH) target, despite predicting a crash towards $2,500"
+      "headline": "Vitalik Buterin Charts \u2018Targeted Growth\u2019 as Ethereum Hits 60M Gas Limit Milestone",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVDl6VkN3Y1lvaDhKbTVpZnFleEt4Q2ZZZ3dYVzZWMW8wVmtJRzdLOVFVbXc4M2VqcThUQXpIcXJJSlBNcVpmMlFLYUdsbW1FNUtwSXZDeDBMMmU1RWFnRGhuak92MGtuWk9MejFkV29PaGFTcmhwYWI1RXJsQkFKWUFCeUF1YWRWcTk2eXpGLVpXMjhiNUZlNVc5MWowSkdmcmN2S2dZQ1hMc0Jkak1MNGJwTGVfY3BHVkJFcS1CZmhQVkFyVzhnRG01cUt5ckU4eG4tWkZR?oc=5",
+      "pub_date": 1764169311.0,
+      "article_url": "https://www.tradingview.com/news/coinpedia:596c85cb3094b:0-vitalik-buterin-charts-targeted-growth-as-ethereum-hits-60m-gas-limit-milestone/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ethereum just crossed a major milestone and Vitalik Buterin is already pointing to the next one.\u00a0After months of steady pressure from the community, the network is now running with a 60 million block gas limit, a full 2\u00d7 jump in just one year.\u00a0This shows up clearly in validator signaling, where sup\u2026"
+    },
+    {
+      "headline": "Why is Ethereum No Longer the Top Choice for Institutions?",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUXgyT3FITkIyS3VsVlNBeWN6V2NPVVpESzZsZWU5bmRuOVhqVVNsb1BxeG9uQXo0Sm1lU25KajNHODZaWXJfdGhWR3BHU1NXNUZVdmVud2FJT2hjU0ZvMmZEeXVyZ1JIM0dBaUxrMlVGemVoQXlfSTEwc2NNMzJDbEFHTEprUQ?oc=5",
+      "pub_date": 1764133200.0,
+      "article_url": "https://beincrypto.com/institutions-shift-from-ethereum-to-private-blockchains/",
+      "image": "https://assets.beincrypto.com/img/qgXoY3MeRxRvCUg7OlffJNxgoY8=/smart/ddd5977a1b7a4e488ed3ef6dd0b6dda2",
+      "description": "Institutions are leaving Ethereum for purpose-built blockchains offering privacy, speed, and compliance."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T23:19:06.470866+00:00"
+  "fetched_at": "2025-11-26T23:56:17.613274+00:00"
 }

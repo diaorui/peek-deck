@@ -46,17 +46,6 @@
       "description": "A security researcher discovered a major flaw in the coding product, the latest example of companies rushing out AI tools vulnerable to hacking."
     },
     {
-      "title": "David Sacks tried to kill state AI laws \u2014 and it blew up in his face | A leaked executive order draft reveals the tech billionaire making a power play to become America\u2019s AI policy gatekeeper.",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p76biv/david_sacks_tried_to_kill_state_ai_laws_and_it/",
-      "published": 1764159631.0,
-      "thumbnail": "https://external-preview.redd.it/4aIPe5CZb_WqmH0rKRKjxZJ5injfzBagTwZJPAENurg.jpeg?width=640&crop=smart&auto=webp&s=4b10fba6aa2c9ad07608c84949711e9021618629",
-      "external_url": "https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order",
-      "site_name": "The Verge",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "description": "A leaked executive order reveals that the tech billionaire would have become America\u2019s AI policy gatekeeper."
-    },
-    {
       "title": "Uber headhunted PhDs to join 'Project Sandbox.' After a month, it said that their AI training contracts were over.",
       "author": "businessinsider",
       "url": "https://www.reddit.com/r/artificial/comments/1p7fz31/uber_headhunted_phds_to_join_project_sandbox/",
@@ -66,6 +55,17 @@
       "site_name": "Business Insider",
       "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
       "description": "Uber's Project Sandbox used contractors to train AI for Google. On Monday, Uber told some of them their work was over early."
+    },
+    {
+      "title": "David Sacks tried to kill state AI laws \u2014 and it blew up in his face | A leaked executive order draft reveals the tech billionaire making a power play to become America\u2019s AI policy gatekeeper.",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p76biv/david_sacks_tried_to_kill_state_ai_laws_and_it/",
+      "published": 1764159631.0,
+      "thumbnail": "https://external-preview.redd.it/4aIPe5CZb_WqmH0rKRKjxZJ5injfzBagTwZJPAENurg.jpeg?width=640&crop=smart&auto=webp&s=4b10fba6aa2c9ad07608c84949711e9021618629",
+      "external_url": "https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order",
+      "site_name": "The Verge",
+      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+      "description": "A leaked executive order reveals that the tech billionaire would have become America\u2019s AI policy gatekeeper."
     },
     {
       "title": "Couple Rakes in $9 Billion as AI Circuit Board Shares Soar 530%",
@@ -112,5 +112,5 @@
       "description": "As currently conceived, an AI system that spans multiple cognitive domains could, supposedly, predict and replicate what a generally intelligent human would do or say in response to a given prompt. These predictions will be made based on electronically aggregating and modeling whatever existing data they have been fed. They could even incorporate new paradigms into their models in a way that appears human-like. But they have no apparent reason to become dissatisfied with the data they\u2019re being fed \u2014 and by extension, to make great scientific and creative leaps. Instead, the most obvious outcome is nothing more than a common-sense repository. Yes, an AI system might remix and recycle our knowledge in interesting ways. But that\u2019s all it will be able to do. It will be forever trapped in the vocabulary we\u2019ve encoded in our data and trained it upon \u2014 a dead-metaphor machine. And actual humans \u2014 thinking and reasoning and using language to communicate our thoughts to one another \u2014 will remain at the forefront of transforming our understanding of the world."
     }
   ],
-  "fetched_at": "2025-11-26T23:18:40.556921+00:00"
+  "fetched_at": "2025-11-26T23:55:53.171235+00:00"
 }

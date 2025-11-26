@@ -9,8 +9,8 @@
       "url": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
       "hn_url": "https://news.ycombinator.com/item?id=46055944",
       "author": "todsacerdoti",
-      "points": 460,
-      "num_comments": 691,
+      "points": 461,
+      "num_comments": 696,
       "created_at": "2025-11-26T10:08:20Z",
       "object_id": "46055944",
       "image": null,
@@ -61,6 +61,20 @@
       "site_name": "GitHub"
     },
     {
+      "title": "The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop",
+      "url": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
+      "hn_url": "https://news.ycombinator.com/item?id=46062504",
+      "author": "cyclecount",
+      "points": 196,
+      "num_comments": 78,
+      "created_at": "2025-11-26T21:25:36Z",
+      "object_id": "46062504",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google-Pixel-10-4-1152x648.jpg",
+      "description": "Google\u2019s Pixel 10 works with AirDrop, and other phones should follow later.",
+      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+      "site_name": "Ars Technica"
+    },
+    {
       "title": "PRC elites voice AI-skepticism",
       "url": "https://jamestown.org/prc-elites-voice-ai-skepticism/",
       "hn_url": "https://news.ycombinator.com/item?id=46038417",
@@ -73,20 +87,6 @@
       "description": null,
       "favicon": null,
       "site_name": "jamestown.org"
-    },
-    {
-      "title": "The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop",
-      "url": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
-      "hn_url": "https://news.ycombinator.com/item?id=46062504",
-      "author": "cyclecount",
-      "points": 161,
-      "num_comments": 54,
-      "created_at": "2025-11-26T21:25:36Z",
-      "object_id": "46062504",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google-Pixel-10-4-1152x648.jpg",
-      "description": "Google\u2019s Pixel 10 works with AirDrop, and other phones should follow later.",
-      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
-      "site_name": "Ars Technica"
     },
     {
       "title": "General principles for the use of AI at CERN",
@@ -107,8 +107,8 @@
       "url": "https://9to5google.com/2025/11/21/googles-airdrop-support-for-pixel-10-likely-exists-because-of-the-eus-apple-ruling/",
       "hn_url": "https://news.ycombinator.com/item?id=46062483",
       "author": "joejohnson",
-      "points": 80,
-      "num_comments": 7,
+      "points": 94,
+      "num_comments": 9,
       "created_at": "2025-11-26T21:24:09Z",
       "object_id": "46062483",
       "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Pro-XL-and-iPhone-17-Pro-Max-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
@@ -145,7 +145,7 @@
       "site_name": "The Verge"
     }
   ],
-  "total_hits": 507,
+  "total_hits": 508,
   "has_metadata": true,
-  "fetched_at": "2025-11-26T23:18:40.406517+00:00"
+  "fetched_at": "2025-11-26T23:55:52.979375+00:00"
 }

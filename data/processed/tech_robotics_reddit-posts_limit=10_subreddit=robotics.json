@@ -101,16 +101,16 @@
       "description": "I am trying to help my friend with a project he has to do for school and he doesnt know what kind of parts he needs, if you know what parts he needs and the name of them, thanks for your help Ps: for the coding what should he use? This is what he asked me: Im building a car with sensors that detect plastic and metal and can distinquish and sort them from trash to recyclables I need a script and coding for that Which i dont got yet The scripting and coding is the hardest part"
     },
     {
-      "title": "Building a block-based IDE for ROS2 (like Blockly/Scratch) - Would you use it? Is it still relevant with AI tools?",
-      "author": "Purple_Fee6414",
-      "url": "https://www.reddit.com/r/robotics/comments/1p79nol/building_a_blockbased_ide_for_ros2_like/",
-      "published": 1764168644.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm a robotics teacher (university + kids) and I'm considering building a visual block-based programming IDE for ROS2 - think Scratch/Blockly but specifically for robotics with ROS2. I know solutions like **Visual-ROS (Node-RED) and ROS-Blockly** exist, but they feel geared more toward ROS-agnostic flows or are stuck on ROS 1. Why? After teaching ROS2 to beginners for a while, I see the same struggles: the learning curve is steep. Students get lost in terminal commands, package structures, CMakeLists, launch files, etc. before they even get to the fun part - making robots do things. A visual tool could let them focus on concepts (nodes, topics, services) without the syntax overhead. I've got an early prototype that successfully integrates with ROS2, but before I invest more time building this out, I need honest feedback from actual ROS developers. Would you actually use this? Either for teaching, learning, or as a rapid prototyping tool for quickly sketching a system architecture? What features would make it genuinely valuable? Visual node graph creation? Drag-and-drop topic connections? Auto-generated launch files? Real-time visualization? Something else? 3.The AI Question: With tools like ChatGPT/Claude/Cursor getting better at writing code, do block-based tools still have a place? Or is this solving yesterday's problem? Platform Question: I'm building this for Windows first. I know most ROS developers use Ubuntu, but I'm thinking about students/teachers who want to learn ROS concepts without dual-booting or VM hassles. Is Windows support actually useful, or should I focus on Linux? Any honest feedback is appreciated\u2014even if it's \"don't build this.\" I'd rather know now than after months of development. Thanks!"
+      "title": "Flexion connects a robot brain to the Unitree G1 to research generalizable robot autonomy",
+      "author": "misbehavingwolf",
+      "url": "https://www.reddit.com/r/robotics/comments/1p76x40/flexion_connects_a_robot_brain_to_the_unitree_g1/",
+      "published": 1764161427.0,
+      "thumbnail": "https://external-preview.redd.it/fqwaaX2p5euZNxWE3eSXQLXotSsNzMg2D-GJhhi1aOQ.jpeg?width=320&crop=smart&auto=webp&s=703fd7c15164ec1ef14d48e633412f0f20f95a3d",
+      "external_url": "http://youtube.com/watch?v=tpwiCa33prA",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
+      "description": "This changed the way I looked at robots - it would be amazing to see this be attached to any robot, and you could just keep the body and repeatedly upgrade the autonomy stack's software and hardware too."
     }
   ],
-  "fetched_at": "2025-11-26T23:18:44.498629+00:00"
+  "fetched_at": "2025-11-26T23:55:57.132712+00:00"
 }
