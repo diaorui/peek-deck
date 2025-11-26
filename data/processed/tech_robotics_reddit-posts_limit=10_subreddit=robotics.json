@@ -57,6 +57,17 @@
       "description": "From Dimensional OS: https://x.com/dimensionalos"
     },
     {
+      "title": "Flexion connects a robot brain to the Unitree G1 to research generalizable robot autonomy",
+      "author": "misbehavingwolf",
+      "url": "https://www.reddit.com/r/robotics/comments/1p76x40/flexion_connects_a_robot_brain_to_the_unitree_g1/",
+      "published": 1764161427.0,
+      "thumbnail": "https://external-preview.redd.it/fqwaaX2p5euZNxWE3eSXQLXotSsNzMg2D-GJhhi1aOQ.jpeg?width=320&crop=smart&auto=webp&s=703fd7c15164ec1ef14d48e633412f0f20f95a3d",
+      "external_url": "http://youtube.com/watch?v=tpwiCa33prA",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
+      "description": "This changed the way I looked at robots - it would be amazing to see this be attached to any robot, and you could just keep the body and repeatedly upgrade the autonomy stack's software and hardware too. I could imagine an Uploaded Intelligence inhabiting a future control stack on some robot body..."
+    },
+    {
       "title": "Building a sub-$200, highly functional 3D-printed SCARA robotic arm",
       "author": "Yoni_bravo",
       "url": "https://www.reddit.com/r/robotics/comments/1p6gqan/building_a_sub200_highly_functional_3dprinted/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "MotorWatt: DeepWay Company: https://ev.motorwatt.com/ev-manufacturers/deepway From Nic Cruz Patane on \ud835\udd4f: https://x.com/niccruzpatane/status/1992796505284161782"
-    },
-    {
-      "title": "What would you use it for?",
-      "author": "Full_Connection_2240",
-      "url": "https://www.reddit.com/r/robotics/comments/1p5a9r2/what_would_you_use_it_for/",
-      "published": 1763967347.0,
-      "thumbnail": "https://external-preview.redd.it/bHRveno5dGFrNTNnMb61BGwDxA7-g6hWmobDlhvn3S-_1A_ZWLymr3-wGxbP.png?width=640&crop=smart&auto=webp&s=3e5e940c5aea865058759e43bddfbd45be196e48",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Trying to get some ideas to make a demonstration of its potential capabilities.. Or even just your thoughts on it's design! Thanks :) https://www.youtube.com/watch?v=qawYP6E3znw"
     }
   ],
-  "fetched_at": "2025-11-26T11:58:54.126521+00:00"
+  "fetched_at": "2025-11-26T13:00:14.562640+00:00"
 }
