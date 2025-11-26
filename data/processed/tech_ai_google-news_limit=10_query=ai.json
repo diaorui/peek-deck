@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Nvidia\u2019s Stock Is Sinking as Doubts About Its AI Dominance Grow",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcldKaHNDR0hVbzU2aUVheFhXTDJuQ1E5anBPUjE2QzBKVURjSEFoRDNYVFlwdWkwZVNuaXRnUmx3TnBFQm1yT09URkJTSHNnWmRMUG9zcExSQzcyektHTklPZ1NzT21qa1Ytclo4TjNOTlVvbjllQnZJSnp4U191ZmxkblpWT1dvYmpXN2Rnak4ybjBtR1BvVXhzdVZqQzVqWV9nTGY1VjFIV1h3NkpfX3E2dGk?oc=5",
+      "pub_date": 1764150453.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-26/nvidia-s-stock-is-sinking-as-doubts-about-its-ai-dominance-grow",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Nvidia says its GPUs are a 'generation ahead' of Google's AI chips",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -15,12 +25,12 @@
       "description": "It was in response to Wall Street's concern that Google's TPU chips could threaten Nvidia's dominance of the AI infrastructure industry on Tuesday."
     },
     {
-      "headline": "What Is Agentic A.I., and Would You Trust It to Book a Flight?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNThTN1UxWWdPN3RNVG00OUJhUWZSWWdYdjhuQVl4UERTZ0F4MklUcVhSTTA3ZFhaOTJaMzZ1OGtfVjNoMmo1ei10Wnp0VU9QSHJxWnZ3QXRWRm9FNlQ1QzJhc201OWhDYkZOQW1QbjBZYk1TdmJQOEhXMUs4T3VVNjUzdGc?oc=5",
-      "pub_date": 1764064954.0,
-      "article_url": "https://www.nytimes.com/2025/11/25/travel/what-is-agentic-ai-book-flights.html",
+      "headline": "As AI Stocks Like Nvidia Get Rattled, This Behind-The-Scenes Data Center Play Heats Up",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObVhzWEU4NDh0MGtyVjFIb0l3b2tOdGxOVTdzN21kQkJuRk5RTUtlUWNtaE9paEJyNGFONW9xS3d3OEphdnFQM3FsdTRXRm03ZDkwZG5MLTFWNmZ3bWgtWmVCak01TDJtd3dYbXFuR0xtWXlocjdUOGMyemd2Y1lNQXBRTmJma2p5blVTNVItLXRQU0Vwd0x2OG1NdElncFBxYy1jZ2t4SjJRN0c1WnQ2cGdZZVlLWjA2Qm5jYlZEaS04OWtNSERfbVdDODcxc1V0cEtpUzBrVE1rVVhuNG4wdlNTWWx0Zw?oc=5",
+      "pub_date": 1764162000.0,
+      "article_url": "https://www.investors.com/research/breakout-stocks-technical-analysis/spx-technologies-hvac-leaders-rides-ai-data-center-boom-nvidia-palantir-struggle/",
       "image": null,
       "description": null
     },
@@ -45,24 +55,24 @@
       "description": "A University of Pennsylvania professor said wage growth could slow as AI spreads, but smarter policy and investment could prevent a broader decline."
     },
     {
-      "headline": "China leapfrogs US in global market for \u2018open\u2019 AI models",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBMmo1Um5wNEw1aFFrb2s0OUVPeVhDbEQ4UHF5QVZ4eGhjNXJxRlI4UWRYWWFlWnZQampBNGhPUlpCWERmM1pNZXk2cWt1WGN6VFl3SFQ5Sm9qQ1FuVTdudUJNcTdZRjM2NEI5R2ZxR3U?oc=5",
-      "pub_date": 1764119725.0,
-      "article_url": "https://www.ft.com/content/931c8218-a9d7-4cbd-8b08-27516637ff41",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcc1c2257-5f64-48e3-923d-950c5c49e14e.jpg?source=next-barrier-page",
-      "description": "Beijing-backed technology gains ground as American giants hold fast to \u2018closed\u2019 AI strategies"
+      "headline": "Adecco says joint venture with Salesforce can help reduce AI bubble risks",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUS1xWGkxa1ZlTnQxUm1mNmZCUUtWWm9pa0hNdXotMEF0SDhzWFRsQU1Oc2tsazVSbmNhX1N0N1dYMjdhWTVIaUxYUFNjWnQwWTd5LUs3UHBQVGVHRnVPdnV0LUI3Sm9ydXhXd3Rnb3VsWFZ2VDlUcGNUX1hwbXMxSi15cHdpcjJVZXc?oc=5",
+      "pub_date": 1764158600.0,
+      "article_url": "https://finance.yahoo.com/news/adecco-says-joint-venture-salesforce-120320515.html",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/3ea2afa1f8eb8671ef5183bbc9037903",
+      "description": "(Reuters) -The chief executive of Adecco said on Wednesday that its joint venture with Salesforce, named r.Potential, could help \u200breduce the risk of an AI bubble by pushing companies into more concrete uses of \u200cthe technology.  The Swiss staffing group has already talked to 300 large clients who have expressed an interest in the platform, which is \u200cdesigned to guide business leaders in integrating artificial intelligence into the workplace, CEO Denis Machuel said, talking to reporters ahead of Adecco's investor day in London.  He added that companies struggle \u200cto navigate the supply of agents and AI, in a space where some valuations are \"quite high\"."
     },
     {
-      "headline": "HP to cut about 6,000 jobs by 2028, ramps up AI efforts",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50bFNUY3ZNUnpsVlNoSS1OQzR0Y21fQnJfdWZYTGtQNjE2TU96Ri1VOUdTUmxWa3J1UXVvdm8wNmdUVlNHR05TSFQyUzYwSVk2TG9NNnJHaGd1OTZmWHBuUTVDa0NMV013?oc=5",
-      "pub_date": 1764109726.0,
-      "article_url": "https://www.cnn.com/2025/11/25/tech/hp-layoffs-ai-efforts",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1179053341.jpg?c=16x9&q=w_800,c_fill",
-      "description": "HP Inc said on Tuesday it expects to cut between 4,000 and 6,000 jobs globally by fiscal 2028 as part of a plan to streamline operations and adopt artificial intelligence to speed up product development, improve customer satisfaction and boost productivity."
+      "headline": "What Is Agentic A.I., and Would You Trust It to Book a Flight?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNThTN1UxWWdPN3RNVG00OUJhUWZSWWdYdjhuQVl4UERTZ0F4MklUcVhSTTA3ZFhaOTJaMzZ1OGtfVjNoMmo1ei10Wnp0VU9QSHJxWnZ3QXRWRm9FNlQ1QzJhc201OWhDYkZOQW1QbjBZYk1TdmJQOEhXMUs4T3VVNjUzdGc?oc=5",
+      "pub_date": 1764064954.0,
+      "article_url": "https://www.nytimes.com/2025/11/25/travel/what-is-agentic-ai-book-flights.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "HP to slash up to 6,000 jobs by 2028 in massive AI transformation push",
@@ -75,6 +85,16 @@
       "description": "HP announced plans to cut 4,000 to 6,000 jobs by 2028 as part of an AI transformation push. Layoffs could affect up to 10% of the workforce at the PC and printer maker."
     },
     {
+      "headline": "HP to cut about 6,000 jobs by 2028, ramps up AI efforts",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50bFNUY3ZNUnpsVlNoSS1OQzR0Y21fQnJfdWZYTGtQNjE2TU96Ri1VOUdTUmxWa3J1UXVvdm8wNmdUVlNHR05TSFQyUzYwSVk2TG9NNnJHaGd1OTZmWHBuUTVDa0NMV013?oc=5",
+      "pub_date": 1764109726.0,
+      "article_url": "https://www.cnn.com/2025/11/25/tech/hp-layoffs-ai-efforts",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1179053341.jpg?c=16x9&q=w_800,c_fill",
+      "description": "HP Inc said on Tuesday it expects to cut between 4,000 and 6,000 jobs globally by fiscal 2028 as part of a plan to streamline operations and adopt artificial intelligence to speed up product development, improve customer satisfaction and boost productivity."
+    },
+    {
       "headline": "HP to sack up to six thousand staff under AI adoption plan, fresh round of cost-cutting",
       "source": "theregister.com",
       "source_url": "https://www.theregister.com",
@@ -83,28 +103,8 @@
       "article_url": "https://www.theregister.com/2025/11/26/hp_inc_q4_2025/",
       "image": "https://regmedia.co.uk/2020/10/26/fired.jpg",
       "description": ": Warns memory price explosion means PCs may have less RAM, or use low-cost parts"
-    },
-    {
-      "headline": "Mastiska Raises $10M Seed For Sovereign AI Chip Play in UAE",
-      "source": "EE Times",
-      "source_url": "https://www.eetimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTVlDMFR1U3g0T3VybnZJNC05M0UyNGFKdGJaeFRQVldMRm9tLWdMeTFaTUI2a3ZVTHlrRWg1MlZuN2JVYXN6bThHMkxXTHRoUzM5V2hpclQwVkt6WW9Gbk9WblNRaTd0dE41Y2RCbHdhWmRpcDEwdkdKYjlzQXRfcE83UXRMajlUamxF?oc=5",
-      "pub_date": 1764111661.0,
-      "article_url": "https://www.eetimes.com/mastiska-raises-10m-seed-for-sovereign-ai-chip-play-in-uae/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Warner Music Group settles lawsuit with AI music firm and launches joint venture",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwOFhfcTRIUnpnM2ZJNlZST3c1Rmg5UVpSNFBBOUZxWFZOSWYya1l0ZGNOLXpsb25qeWkxNE5QQjFYaXRZZFItMGRHQ1hBbURpX0lMSmhCNW9GUdIBX0FVX3lxTE5Gcko2ZWo1ZktFLWJwUE9MeS1xREpDdXQ4S3lVbXdrb3BFbFluT0ptMFRETV9FZW85QjlnSjhjbV83WTRidDJ3UTlyN1hOQ2JST3VZWHNVUWxXdkZLRUpN?oc=5",
-      "pub_date": 1764141691.0,
-      "article_url": "https://www.bbc.com/news/articles/cjdrl7lr039o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/aa43/live/057816b0-ca86-11f0-9aab-017b66a8f4aa.jpg",
-      "description": "The label is going into business with tech start-up Suno after settling a lawsuit against the company."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T13:00:24.251774+00:00"
+  "fetched_at": "2025-11-26T13:40:57.906071+00:00"
 }

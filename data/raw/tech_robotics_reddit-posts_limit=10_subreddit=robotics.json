@@ -46,6 +46,17 @@
       "description": "If you\u2019re in Vegas for re:Invent and want something that\u2019s not another hotel ballroom social, there\u2019s a BattleBots Arena event happening. Real arena. Real bots. Real destruction. They\u2019re letting attendees meet the builders and even try out some of the arena hardware. Engineer-only RSVPs."
     },
     {
+      "title": "Robotics Related Black Friday Deals?",
+      "author": "dan678",
+      "url": "https://www.reddit.com/r/robotics/comments/1p77yrj/robotics_related_black_friday_deals/",
+      "published": 1764164359.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I've looked at robotshop's black friday sale, but nothing really interested me. I figured I'd start a thread here to see if we can centralize and crowdsource some good deals. Please comment with any good deals you find! Sensors, actuators, compute, robot kits, software deals, etc."
+    },
+    {
       "title": "Fully autonomous robots commanded using human language",
       "author": "Cachee0",
       "url": "https://www.reddit.com/r/robotics/comments/1p5zfx8/fully_autonomous_robots_commanded_using_human/",
@@ -55,17 +66,6 @@
       "site_name": null,
       "favicon": null,
       "description": "From Dimensional OS: https://x.com/dimensionalos"
-    },
-    {
-      "title": "Flexion connects a robot brain to the Unitree G1 to research generalizable robot autonomy",
-      "author": "misbehavingwolf",
-      "url": "https://www.reddit.com/r/robotics/comments/1p76x40/flexion_connects_a_robot_brain_to_the_unitree_g1/",
-      "published": 1764161427.0,
-      "thumbnail": "https://external-preview.redd.it/fqwaaX2p5euZNxWE3eSXQLXotSsNzMg2D-GJhhi1aOQ.jpeg?width=320&crop=smart&auto=webp&s=703fd7c15164ec1ef14d48e633412f0f20f95a3d",
-      "external_url": "http://youtube.com/watch?v=tpwiCa33prA",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
-      "description": "This changed the way I looked at robots - it would be amazing to see this be attached to any robot, and you could just keep the body and repeatedly upgrade the autonomy stack's software and hardware too. I could imagine an Uploaded Intelligence inhabiting a future control stack on some robot body..."
     },
     {
       "title": "Building a sub-$200, highly functional 3D-printed SCARA robotic arm",
@@ -90,6 +90,17 @@
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     },
     {
+      "title": "Flexion connects a robot brain to the Unitree G1 to research generalizable robot autonomy",
+      "author": "misbehavingwolf",
+      "url": "https://www.reddit.com/r/robotics/comments/1p76x40/flexion_connects_a_robot_brain_to_the_unitree_g1/",
+      "published": 1764161427.0,
+      "thumbnail": "https://external-preview.redd.it/fqwaaX2p5euZNxWE3eSXQLXotSsNzMg2D-GJhhi1aOQ.jpeg?width=320&crop=smart&auto=webp&s=703fd7c15164ec1ef14d48e633412f0f20f95a3d",
+      "external_url": "http://youtube.com/watch?v=tpwiCa33prA",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
+      "description": "This changed the way I looked at robots - it would be amazing to see this be attached to any robot, and you could just keep the body and repeatedly upgrade the autonomy stack's software and hardware too."
+    },
+    {
       "title": "After 2 years, I'm open-sourcing the Rebelia Hand: From DIY files to a pre-assembled robot hand",
       "author": "venetrom",
       "url": "https://www.reddit.com/r/robotics/comments/1p69rij/after_2_years_im_opensourcing_the_rebelia_hand/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Rebelia Robotic Hand V2 After two years of development, I'm excited to launch the Rebelia Robotic Hand project and open-source all the design files! This is designed to be accessible at every level, with three paths to get one: DIY : For the true maker. Source the 3D-printed parts and hardware yourself using our provided BOM and files. Kit Version : We provide the validated 3D-printed parts and the hardware kit for easier assembly. Pre-Assembled : A ready-to-use, fully tested hand, perfect for developers and companies who want to integrate immediately. The project is a robust platform designed for real use, currently undergoing testing for CE Marking. Key Features & Specs: Automatic Self-Adaptive Grasp 5 DOF with a Rotatable Thumb High Payload: Up to 12 KG Safety Features: Automatic Calibration, Overload & Overtemp Protection Enhanced Grip: \"Hyper Grip\" with skin-safe silicone pads Weight: 650g The Story: From Prosthetics to Robotics The project began with a goal to create an affordable prosthetic hand. While the extreme certification costs made that path impossible for now, the core technology was too promising to abandon. I pivoted to creating a hand for the robotics community. The ultimate goal is that success with this robotic version will fund and enable the future development of a certified prosthetic version. Get Involved! We are actively looking for beta testers (both companies and developers) to put the Rebelia Hand through its paces and provide feedback. Beta partners will have special access to kit and assembled units. You can find the full project page, including all STL files, source code, and tutorials on Hackaday.io: https://hackaday.io/project/204373-rebelia-robotic-hand I welcome all your advice, suggestions, and questions below!"
-    },
-    {
-      "title": "Unmanned fully autonomous heavy-duty electric trucks in China",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1p5flay/unmanned_fully_autonomous_heavyduty_electric/",
-      "published": 1763986792.0,
-      "thumbnail": "https://external-preview.redd.it/d2Z3cGVuMm81NzNnMT8M5JoCU6oxLdoyS7Nt_nBT8Dw0lJy1WayBzYX4TZAc.png?width=640&crop=smart&auto=webp&s=d645315fffbdb379ac04a21ebc58867776c58d26",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "MotorWatt: DeepWay Company: https://ev.motorwatt.com/ev-manufacturers/deepway From Nic Cruz Patane on \ud835\udd4f: https://x.com/niccruzpatane/status/1992796505284161782"
     }
   ],
-  "fetched_at": "2025-11-26T13:00:14.562640+00:00"
+  "fetched_at": "2025-11-26T13:40:42.842012+00:00"
 }
