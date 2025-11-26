@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Nvidia\u2019s Stock Is Sinking as Doubts About Its AI Dominance Grow",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcldKaHNDR0hVbzU2aUVheFhXTDJuQ1E5anBPUjE2QzBKVURjSEFoRDNYVFlwdWkwZVNuaXRnUmx3TnBFQm1yT09URkJTSHNnWmRMUG9zcExSQzcyektHTklPZ1NzT21qa1Ytclo4TjNOTlVvbjllQnZJSnp4U191ZmxkblpWT1dvYmpXN2Rnak4ybjBtR1BvVXhzdVZqQzVqWV9nTGY1VjFIV1h3NkpfX3E2dGk?oc=5",
-      "pub_date": 1764150453.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-26/nvidia-s-stock-is-sinking-as-doubts-about-its-ai-dominance-grow",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Nvidia says its GPUs are a 'generation ahead' of Google's AI chips",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -23,56 +13,6 @@
       "article_url": "https://www.cnbc.com/2025/11/25/nvidia-says-its-gpus-are-a-generation-ahead-of-googles-ai-chips.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108229150-1763650981923-gettyimages-2246892165-AFP_84JG4JG.jpeg?v=1763651000&w=1920&h=1080",
       "description": "It was in response to Wall Street's concern that Google's TPU chips could threaten Nvidia's dominance of the AI infrastructure industry on Tuesday."
-    },
-    {
-      "headline": "As AI Stocks Like Nvidia Get Rattled, This Behind-The-Scenes Data Center Play Heats Up",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObVhzWEU4NDh0MGtyVjFIb0l3b2tOdGxOVTdzN21kQkJuRk5RTUtlUWNtaE9paEJyNGFONW9xS3d3OEphdnFQM3FsdTRXRm03ZDkwZG5MLTFWNmZ3bWgtWmVCak01TDJtd3dYbXFuR0xtWXlocjdUOGMyemd2Y1lNQXBRTmJma2p5blVTNVItLXRQU0Vwd0x2OG1NdElncFBxYy1jZ2t4SjJRN0c1WnQ2cGdZZVlLWjA2Qm5jYlZEaS04OWtNSERfbVdDODcxc1V0cEtpUzBrVE1rVVhuNG4wdlNTWWx0Zw?oc=5",
-      "pub_date": 1764162000.0,
-      "article_url": "https://www.investors.com/research/breakout-stocks-technical-analysis/spx-technologies-hvac-leaders-rides-ai-data-center-boom-nvidia-palantir-struggle/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI Is Coming for Your Toddler\u2019s Bedtime Story",
-      "source": "Mother Jones",
-      "source_url": "https://www.motherjones.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JbWVDdl9GdnhwZlN2QW1BZGlnckVOazRvbEt1d1h1Z2lpTUJJTTk2WVVJeENLa0ZBdGF4bVZFbW96aFVBT2QzUFZNb3VxT3YwWkYwd0R2cUhhazloQ1pJYlJPbjZLQjMyeGlKRUpYb1I5Zw?oc=5",
-      "pub_date": 1764161281.0,
-      "article_url": "https://www.motherjones.com/politics/2025/11/ai-childrens-books/",
-      "image": "https://www.motherjones.com/wp-content/uploads/2025/11/20251125_ai-childrens-book_2000.jpg?w=1200&h=630&crop=1",
-      "description": "Artificial intelligence poses an increasingly real threat to children\u2019s literature\u2014and children\u2019s learning."
-    },
-    {
-      "headline": "AI Pay Gains Could Peak Soon, but a Penn Professor Sees a Way Out",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMGxrdFZaZVJtdHR5NjZYSks1bjQwT0hPc1doelNObTYwOFNyUHF6OHRCY1JyOHBicFRBWkYweUIzRWUyTjQwNWstUi1MVktoNlBNOF9fZ3Jlbk1vWDFKWS1kekJYbU45aGtQSWVQNG9wdU53dGJVMG9UZW9PUmo1WUFUcUhkQktxRzZKbERNcEdXWDVfbWNBQXM3My1NTTlGNEtoWXdB?oc=5",
-      "pub_date": 1764160740.0,
-      "article_url": "https://www.businessinsider.com/ai-wage-gains-could-peak-soon-professor-on-solutions-investment-2025-11",
-      "image": "https://i.insider.com/6926d40ce1a9cbb014df0375?width=1200&format=jpeg",
-      "description": "A University of Pennsylvania professor said wage growth could slow as AI spreads, but smarter policy and investment could prevent a broader decline."
-    },
-    {
-      "headline": "Adecco says joint venture with Salesforce can help reduce AI bubble risks",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUS1xWGkxa1ZlTnQxUm1mNmZCUUtWWm9pa0hNdXotMEF0SDhzWFRsQU1Oc2tsazVSbmNhX1N0N1dYMjdhWTVIaUxYUFNjWnQwWTd5LUs3UHBQVGVHRnVPdnV0LUI3Sm9ydXhXd3Rnb3VsWFZ2VDlUcGNUX1hwbXMxSi15cHdpcjJVZXc?oc=5",
-      "pub_date": 1764158600.0,
-      "article_url": "https://finance.yahoo.com/news/adecco-says-joint-venture-salesforce-120320515.html",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/3ea2afa1f8eb8671ef5183bbc9037903",
-      "description": "(Reuters) -The chief executive of Adecco said on Wednesday that its joint venture with Salesforce, named r.Potential, could help \u200breduce the risk of an AI bubble by pushing companies into more concrete uses of \u200cthe technology.  The Swiss staffing group has already talked to 300 large clients who have expressed an interest in the platform, which is \u200cdesigned to guide business leaders in integrating artificial intelligence into the workplace, CEO Denis Machuel said, talking to reporters ahead of Adecco's investor day in London.  He added that companies struggle \u200cto navigate the supply of agents and AI, in a space where some valuations are \"quite high\"."
-    },
-    {
-      "headline": "What Is Agentic A.I., and Would You Trust It to Book a Flight?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNThTN1UxWWdPN3RNVG00OUJhUWZSWWdYdjhuQVl4UERTZ0F4MklUcVhSTTA3ZFhaOTJaMzZ1OGtfVjNoMmo1ei10Wnp0VU9QSHJxWnZ3QXRWRm9FNlQ1QzJhc201OWhDYkZOQW1QbjBZYk1TdmJQOEhXMUs4T3VVNjUzdGc?oc=5",
-      "pub_date": 1764064954.0,
-      "article_url": "https://www.nytimes.com/2025/11/25/travel/what-is-agentic-ai-book-flights.html",
-      "image": null,
-      "description": null
     },
     {
       "headline": "HP to slash up to 6,000 jobs by 2028 in massive AI transformation push",
@@ -85,6 +25,16 @@
       "description": "HP announced plans to cut 4,000 to 6,000 jobs by 2028 as part of an AI transformation push. Layoffs could affect up to 10% of the workforce at the PC and printer maker."
     },
     {
+      "headline": "Computer maker HP to cut up to 6,000 jobs by 2028 as it turns to AI",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc3kxanc1NGhBVk9NU1N1QzNtTm9OeW1aUEVWQWlQQjlldlJyUmdhWUNmbHg2NlZWd0dwVllTSXRval9YN24tSVpDNDhHbE5ody0yeVJoVjFva3gtSnRzX19wclZlc3JiUDFsOGV4OG96M1BsaXp2Sm9vdFVTQXQ2UmkyV1RZRWdvMWRnTThkWS02M1BZMDVZYmVaaTB2VlVBZENuejAyeXdVVV84ZFdrWmJOQ3p1cXB2ZVEtSw?oc=5",
+      "pub_date": 1764156840.0,
+      "article_url": "https://www.theguardian.com/business/2025/nov/26/computer-maker-hp-to-cut-up-to-6000-jobs-by-2028-as-it-turns-more-to-ai",
+      "image": "https://i.guim.co.uk/img/media/8513074aeb5de2e84ac7b50da86721f9699ab88d/358_107_4054_3245/master/4054.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd99af6115b23a2f773cb04edecfc12e",
+      "description": "US firm says plan to speed up product development and improve customer satisfaction would save $1bn a year"
+    },
+    {
       "headline": "HP to cut about 6,000 jobs by 2028, ramps up AI efforts",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
@@ -95,16 +45,66 @@
       "description": "HP Inc said on Tuesday it expects to cut between 4,000 and 6,000 jobs globally by fiscal 2028 as part of a plan to streamline operations and adopt artificial intelligence to speed up product development, improve customer satisfaction and boost productivity."
     },
     {
-      "headline": "HP to sack up to six thousand staff under AI adoption plan, fresh round of cost-cutting",
-      "source": "theregister.com",
-      "source_url": "https://www.theregister.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TX0xBemxqWTRDd3VDTE9iZDFOSXBEVjUta044eW83R3ZKaXhxMTJ4Um9ycjNscTFONUJZMjI4ZXZRVmNmSDRzdmxieTJib2E5XzYtdmhYSWhhV3BtUURpa1g2eDE?oc=5",
-      "pub_date": 1764128460.0,
-      "article_url": "https://www.theregister.com/2025/11/26/hp_inc_q4_2025/",
-      "image": "https://regmedia.co.uk/2020/10/26/fired.jpg",
-      "description": ": Warns memory price explosion means PCs may have less RAM, or use low-cost parts"
+      "headline": "World's central banks are wary of AI and struggling to quit the dollar, survey shows",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOVlZS2FyYmVrSzhXaFduYzZVaHI5aml6WTRuR1ZDNXF0QVZqTERTRnlFbVMwLVZNU3B0N2tfQ0NGOVVqN2JaYXdWdlB0U2pYQjhTa3NLUnl3bXBzUW9ydUVrU1lPLWtkTGFPUktlMlNINlZ4RnFrUklVSFZRSVJDSTZwODhlcFVHclNkdVdhT3Y4bkRsUWJjd2ZJS24xQXVaNE5rbzNtNExoZXktSVVXRUI3Xy11WmVzZzB2ZFlUdlpHRnAtbzdNYzRhQnBNWjBVVFBVYzlwVWhCbmt6ZUJsRTJRaw?oc=5",
+      "pub_date": 1764162337.0,
+      "article_url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/worlds-central-banks-are-wary-ai-struggling-quit-dollar-survey-shows-2025-11-26/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Goldman Sachs Spotlights Dividend Stocks Using AI \u2013 5 Strong Buys Now",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTVZTMUNJbEZGUWpDUGJmSFlPNWxYd09EMnhWakhEZHhTa2lzOUY3aFZQdHVKMW81RmJmclJPUkJXUmsyaUtfLTNhRXgwVE92Zm45NDBzbnVUS0xlY21fTkU4bDdHZEZxY19ENUVObC1FSlJXa3VSN3ZMRUc0U0t3ODFDYjc3OVRoWHFvcGF4NA?oc=5",
+      "pub_date": 1764164506.0,
+      "article_url": "https://finance.yahoo.com/news/goldman-sachs-spotlights-dividend-stocks-134146887.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ccbjUyTutUUsAVcZUF6DTg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/24_7_wall_st__718/b87b363be367011e376387e972cabda5",
+      "description": "Needless to say, over the last three years, the Artificial Intelligence explosion has been at the top of almost every investor\u2019s mind. Many have become wealthy, as stocks like NVIDIA and other top tech names soared in a rally some feel is reminiscent of the late 1990s dot-com boom and bust. Between billions being spent ... Goldman Sachs Spotlights Dividend Stocks Using AI \u2013 5 Strong Buys Now"
+    },
+    {
+      "headline": "What Is Agentic A.I., and Would You Trust It to Book a Flight?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNThTN1UxWWdPN3RNVG00OUJhUWZSWWdYdjhuQVl4UERTZ0F4MklUcVhSTTA3ZFhaOTJaMzZ1OGtfVjNoMmo1ei10Wnp0VU9QSHJxWnZ3QXRWRm9FNlQ1QzJhc201OWhDYkZOQW1QbjBZYk1TdmJQOEhXMUs4T3VVNjUzdGc?oc=5",
+      "pub_date": 1764064954.0,
+      "article_url": "https://www.nytimes.com/2025/11/25/travel/what-is-agentic-ai-book-flights.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Estimating AI productivity gains from Claude conversations",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13LXNtRmNxWU4tclNKZFVRWGp3c3VJQXlFVGF2bUV1elpaMlc0VklQVU5QdzRfbEp1cUtmcm1wYllCbWphUE82TTZtSW1YMWIyYld3bVVFcXcySG9qa0JuNHhRM1RPUmVmTDRzT3lvYnJ2dw?oc=5",
+      "pub_date": 1764076628.0,
+      "article_url": "https://www.anthropic.com/research/estimating-productivity-gains",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeBook&backgroundColor=olive",
+      "description": "Anthropic economic research on productivity gains"
+    },
+    {
+      "headline": "China leapfrogs US in global market for \u2018open\u2019 AI models",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBMmo1Um5wNEw1aFFrb2s0OUVPeVhDbEQ4UHF5QVZ4eGhjNXJxRlI4UWRYWWFlWnZQampBNGhPUlpCWERmM1pNZXk2cWt1WGN6VFl3SFQ5Sm9qQ1FuVTdudUJNcTdZRjM2NEI5R2ZxR3U?oc=5",
+      "pub_date": 1764119705.0,
+      "article_url": "https://www.ft.com/content/931c8218-a9d7-4cbd-8b08-27516637ff41",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcc1c2257-5f64-48e3-923d-950c5c49e14e.jpg?source=next-barrier-page",
+      "description": "Beijing-backed technology gains ground as American giants hold fast to \u2018closed\u2019 AI strategies"
+    },
+    {
+      "headline": "AI Agents Aren\u2019t Ready for Consumer-Facing Work\u2014But They Can Excel at Internal Processes",
+      "source": "Harvard Business Review",
+      "source_url": "https://hbr.org",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWZzS2FndXh6Q3FJT3FISnR2SE9FQlhUaGJ1S3d6VUQzSmVxeUw2SlFyTzZMZ0JpcldvbDlTeGpaaWh4Z2FEcjdLdGlYcEd4ejRfdFlNTzVVc1NFcWdEdTZNM0pKb0lqNEs2ZnJYU2pPSFpCWUREYkdjUFRkYThRWlE2aDJjbVpXMmxkdXhNQ08zamFHOFdqUTRlZGJCYml1b1hocVJtbkVaTDNfZHlfbg?oc=5",
+      "pub_date": 1763971200.0,
+      "article_url": "https://hbr.org/2025/11/ai-agents-arent-ready-for-consumer-facing-work-but-they-can-excel-at-internal-processes",
+      "image": "https://hbr.org/resources/images/article_assets/2025/11/Nov25_25_1940788444.jpg",
+      "description": "Companies can create value with agentic AI, but they often start in the wrong place. While it can be tempting to use agentic AI for customer-facing applications, those tend to be complex, messy, and unforgiving of errors\u2014not ideal for agentic AI. Back-end operations, however, are a better fit. A project at a European telecom illustrates what this looks like. Focusing on reducing the time and cost for service calls, the company was able to use agents to reduce resolution time by 60%, save more than a million euros on a recurring annual basis, and significantly improve the company\u2019s net promoter score. This example offers lessons for leaders, but also illuminates the common challenges they\u2019ll need to navigate in this process."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T13:40:57.906071+00:00"
+  "fetched_at": "2025-11-26T14:26:35.279835+00:00"
 }

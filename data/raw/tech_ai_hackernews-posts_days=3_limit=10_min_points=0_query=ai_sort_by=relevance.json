@@ -23,8 +23,8 @@
       "url": "https://twitter.com/karpathy/status/1993010584175141038",
       "hn_url": "https://news.ycombinator.com/item?id=46036878",
       "author": "bilsbie",
-      "points": 351,
-      "num_comments": 418,
+      "points": 352,
+      "num_comments": 419,
       "created_at": "2025-11-24T17:51:02Z",
       "object_id": "46036878",
       "image": null,
@@ -51,8 +51,8 @@
       "url": "https://github.com/ocaml/ocaml/pull/14369",
       "hn_url": "https://news.ycombinator.com/item?id=46039274",
       "author": "theresistor",
-      "points": 326,
-      "num_comments": 161,
+      "points": 330,
+      "num_comments": 163,
       "created_at": "2025-11-24T21:03:22Z",
       "object_id": "46039274",
       "image": "https://opengraph.githubassets.com/f9a348201f077266a2109b8803c1e9517a12068a8a133f050a8278edb857918b/ocaml/ocaml/pull/14369",
@@ -79,14 +79,28 @@
       "url": "https://jamestown.org/prc-elites-voice-ai-skepticism/",
       "hn_url": "https://news.ycombinator.com/item?id=46038417",
       "author": "JumpCrisscross",
-      "points": 158,
-      "num_comments": 93,
+      "points": 159,
+      "num_comments": 96,
       "created_at": "2025-11-24T19:50:47Z",
       "object_id": "46038417",
       "image": null,
       "description": null,
       "favicon": null,
       "site_name": "jamestown.org"
+    },
+    {
+      "title": "I don't care how well your \"AI\" works",
+      "url": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46055944",
+      "author": "todsacerdoti",
+      "points": 139,
+      "num_comments": 181,
+      "created_at": "2025-11-26T10:08:20Z",
+      "object_id": "46055944",
+      "image": null,
+      "description": null,
+      "favicon": "https://fokus.cool/favicon.png",
+      "site_name": "fokus.cool"
     },
     {
       "title": "General principles for the use of AI at CERN",
@@ -101,20 +115,6 @@
       "description": "Artificial intelligence (AI) can be found at CERN in many contexts: embedded in devices, software products and cloud services procured by CERN, brought on-site by individuals or developed in-house. Following the approval of a CERN-wide AI strategy, these general principles are designed to promote the responsible and ethical use, development and deployment (collectively \u201cuse\u201d) of AI at CERN. They are technology neutral and apply to all AI technologies as they become available. The principles apply across all areas of CERN\u2019s activities, including: AI for scientific and technical research: data analysis, anomaly detection, simulation, predictive maintenance and optimisation of accelerator performance or detector operations, and AI for productivity and administrative use: document drafting, note taking, automated translation, language correction and enhancement, coding assistants, and workflow automation. General Principles\u00a0 CERN, members of its personnel, and anyone using CERN computing facilities shall ensure that AI is used in accordance with the following principles: Transparency and explainability: Document and communicate when and how AI is used, and how AI contributes to specific tasks or decisions. Responsibility and accountability: The use of AI, including its impact and resulting outputs throughout its lifecycle, must not displace ultimate human responsibility and accountability.\u00a0\u00a0 Lawfulness and conduct: The use of AI must be lawful, compliant with CERN\u2019s internal legal framework and respect third-party rights and CERN\u2019s Code of Conduct. Fairness, non-discrimination, and \u201cdo no harm\u201d: AI must be used in a way that promotes fairness and inclusiveness and prevents bias, discrimination and any other form of harm. Security and safety: AI must be adequately protected to reduce the likelihood and impact of cybersecurity incidents. AI must be used in a way that is safe, respects confidentiality, integrity and availability requirements, and prevents negative outcomes.\u00a0 Sustainability: The use of AI must be assessed with the goal of mitigating environmental and social risks and enhancing CERN's positive impact in relation to society and the environment. Human oversight: The use of AI must always remain under human control. Its functioning and outputs must be consistently and critically assessed and validated by a human.\u00a0 Data privacy: AI must be used in a manner that respects privacy and the protection of personal data. Non-military purposes: Any use of AI at CERN must be for non-military purposes only.",
       "favicon": "https://home.web.cern.ch/sites/default/themes/custom/cernpublic/favicon.ico",
       "site_name": "CERN"
-    },
-    {
-      "title": "I don't care how well your \"AI\" works",
-      "url": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
-      "hn_url": "https://news.ycombinator.com/item?id=46055944",
-      "author": "todsacerdoti",
-      "points": 96,
-      "num_comments": 126,
-      "created_at": "2025-11-26T10:08:20Z",
-      "object_id": "46055944",
-      "image": null,
-      "description": null,
-      "favicon": "https://fokus.cool/favicon.png",
-      "site_name": "fokus.cool"
     },
     {
       "title": "Insurers retreat from AI cover as risk of multibillion-dollar claims mounts",
@@ -145,7 +145,7 @@
       "site_name": "the Guardian"
     }
   ],
-  "total_hits": 482,
+  "total_hits": 485,
   "has_metadata": true,
-  "fetched_at": "2025-11-26T13:40:38.427533+00:00"
+  "fetched_at": "2025-11-26T14:26:14.452549+00:00"
 }

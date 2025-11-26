@@ -35,17 +35,6 @@
       "description": "Built a drone and a proprietary lowering mechanism. Ashamed to say how much time it took and theres still a lot of work left. Its fully autonomous tho, everything is contained within the drone, it doesn't need any communication link nor human operator"
     },
     {
-      "title": "For anyone who loves robots more than cocktails",
-      "author": "TheLostWanderer47",
-      "url": "https://www.reddit.com/r/robotics/comments/1p6yyma/for_anyone_who_loves_robots_more_than_cocktails/",
-      "published": 1764133092.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "If you\u2019re in Vegas for re:Invent and want something that\u2019s not another hotel ballroom social, there\u2019s a BattleBots Arena event happening. Real arena. Real bots. Real destruction. They\u2019re letting attendees meet the builders and even try out some of the arena hardware. Engineer-only RSVPs."
-    },
-    {
       "title": "Robotics Related Black Friday Deals?",
       "author": "dan678",
       "url": "https://www.reddit.com/r/robotics/comments/1p77yrj/robotics_related_black_friday_deals/",
@@ -55,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I've looked at robotshop's black friday sale, but nothing really interested me. I figured I'd start a thread here to see if we can centralize and crowdsource some good deals. Please comment with any good deals you find! Sensors, actuators, compute, robot kits, software deals, etc."
+    },
+    {
+      "title": "For anyone who loves robots more than cocktails",
+      "author": "TheLostWanderer47",
+      "url": "https://www.reddit.com/r/robotics/comments/1p6yyma/for_anyone_who_loves_robots_more_than_cocktails/",
+      "published": 1764133092.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "If you\u2019re in Vegas for re:Invent and want something that\u2019s not another hotel ballroom social, there\u2019s a BattleBots Arena event happening. Real arena. Real bots. Real destruction. They\u2019re letting attendees meet the builders and even try out some of the arena hardware. Engineer-only RSVPs."
     },
     {
       "title": "Fully autonomous robots commanded using human language",
@@ -112,5 +112,5 @@
       "description": "Rebelia Robotic Hand V2 After two years of development, I'm excited to launch the Rebelia Robotic Hand project and open-source all the design files! This is designed to be accessible at every level, with three paths to get one: DIY : For the true maker. Source the 3D-printed parts and hardware yourself using our provided BOM and files. Kit Version : We provide the validated 3D-printed parts and the hardware kit for easier assembly. Pre-Assembled : A ready-to-use, fully tested hand, perfect for developers and companies who want to integrate immediately. The project is a robust platform designed for real use, currently undergoing testing for CE Marking. Key Features & Specs: Automatic Self-Adaptive Grasp 5 DOF with a Rotatable Thumb High Payload: Up to 12 KG Safety Features: Automatic Calibration, Overload & Overtemp Protection Enhanced Grip: \"Hyper Grip\" with skin-safe silicone pads Weight: 650g The Story: From Prosthetics to Robotics The project began with a goal to create an affordable prosthetic hand. While the extreme certification costs made that path impossible for now, the core technology was too promising to abandon. I pivoted to creating a hand for the robotics community. The ultimate goal is that success with this robotic version will fund and enable the future development of a certified prosthetic version. Get Involved! We are actively looking for beta testers (both companies and developers) to put the Rebelia Hand through its paces and provide feedback. Beta partners will have special access to kit and assembled units. You can find the full project page, including all STL files, source code, and tutorials on Hackaday.io: https://hackaday.io/project/204373-rebelia-robotic-hand I welcome all your advice, suggestions, and questions below!"
     }
   ],
-  "fetched_at": "2025-11-26T13:40:42.842012+00:00"
+  "fetched_at": "2025-11-26T14:26:18.894084+00:00"
 }
