@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "What Is Agentic A.I., and Would You Trust It to Book a Flight?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNThTN1UxWWdPN3RNVG00OUJhUWZSWWdYdjhuQVl4UERTZ0F4MklUcVhSTTA3ZFhaOTJaMzZ1OGtfVjNoMmo1ei10Wnp0VU9QSHJxWnZ3QXRWRm9FNlQ1QzJhc201OWhDYkZOQW1QbjBZYk1TdmJQOEhXMUs4T3VVNjUzdGc?oc=5",
+      "pub_date": 1764064954.0,
+      "article_url": "https://www.nytimes.com/2025/11/25/travel/what-is-agentic-ai-book-flights.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Nvidia says its GPUs are a 'generation ahead' of Google's AI chips",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -25,44 +35,24 @@
       "description": "Nvidia stock fell amid a report from The Information that Google is in talks with Meta for a big chip deal."
     },
     {
-      "headline": "Couple Rakes in $9 Billion as AI Circuit Board Shares Soar 530%",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVExFdlpQWjJNTWhPYjN5ZWRJMkkzc0FYV3VlTVlFY05ybGF4TXZuRnBsWWRCenBhZU1fdnN5QjZSR1pGX25tQXIzUk9McVRjTTQxWDNNNEkzRmtDcXUyQkxTSDV5N2dfNEk3c2F1TkpFZ0FlWWVlSFp5NnM5UzNyQVZpV3VhbHRuMUs1TEp6cjhoT3RyMk9SczZ6b05LeEF1Ym9zMWlwRHRrYWd1VURLS01R?oc=5",
-      "pub_date": 1764111617.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-25/couple-rakes-in-9-billion-as-ai-circuit-board-shares-soar-530",
+      "headline": "Nvidia shares fall on signs Google gaining upper hand in AI",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BOWxia1Rla2R6M0pPSXYyUjB5MnhzSW9lMGhDUUxyX2tIenloSHlxZ04tLXBWQ1FQT2hpY04tMjkxRXYzYnlNTG1ZdmZNZnBWZ1RUSzBRZ091dkdwelhpYkVkZGZUVVRjdDFwNjZvMTA?oc=5",
+      "pub_date": 1764084120.0,
+      "article_url": "https://www.ft.com/content/7d0cd87e-99b0-4411-b54f-f5b239af8e76",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F38fe4fe9-1093-4942-8401-9c8809c6adc0.jpg?source=next-barrier-page",
+      "description": "$115bn sell-off for chip group weighs on those linked to the company"
+    },
+    {
+      "headline": "While AI Targets Corner Offices, Hourly Workers Are Left Behind",
+      "source": "Fast Company",
+      "source_url": "https://www.fastcompany.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOTZhZzI5WTY2ZmY2TldKRnlWQ0Ywc3czd18yREFJRmh2RjU2UVhlNzRwRWprVk13V2kyaGpremhXQmVOdXNKR21URXY5Y0xmNThyQzhWM2hEVW9HbXhUdFctM3NjUHFXS3hZME1kMkdrQnBwbkJGMlRobThtRmRqa3N0WlZKYjIxSjF2LTNGek5LY2ZlcXZXZHoxcmpBR0hY?oc=5",
+      "pub_date": 1764137709.0,
+      "article_url": "https://www.fastcompany.com/91447631/while-ai-targets-corner-offices-hourly-workers-are-left-behind",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "What Is Agentic A.I., and Would You Trust It to Book a Flight?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNThTN1UxWWdPN3RNVG00OUJhUWZSWWdYdjhuQVl4UERTZ0F4MklUcVhSTTA3ZFhaOTJaMzZ1OGtfVjNoMmo1ei10Wnp0VU9QSHJxWnZ3QXRWRm9FNlQ1QzJhc201OWhDYkZOQW1QbjBZYk1TdmJQOEhXMUs4T3VVNjUzdGc?oc=5",
-      "pub_date": 1764064954.0,
-      "article_url": "https://www.nytimes.com/2025/11/25/travel/what-is-agentic-ai-book-flights.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Arena Group, BuzzFeed, USA Today Co, Vox Media join RSL\u2019s AI content licensing efforts",
-      "source": "Digiday",
-      "source_url": "https://digiday.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNEhRWDZ6V0tnVDh2eDNZZ29VQ2hucnBHTHdIWXVDbHhRXzE2LV9sakYyVWlzalJBSlk1QWNSOUhMVVBMNVBZZ1hFOXoyek45V0xodmZtT1prUjNOX3g0UTNRRndRMWFYLTBIcDhJWlNNY1J2RGYyc2VYQVViNGNGYTUzZFJPWkhaZzcxckJTVVJmNGxlQ0JUUk1sMUJmQ3Z1U2FmUGZGeUY5N3l4QlE?oc=5",
-      "pub_date": 1764133373.0,
-      "article_url": "https://digiday.com/media/arena-group-buzzfeed-usa-today-co-vox-media-join-rsls-ai-content-licensing-efforts/",
-      "image": "https://digiday.com/wp-content/uploads/sites/3/2025/09/ai-compensation-digiday.jpg",
-      "description": "Arena Group, BuzzFeed, USA Today Co and Vox Media are participating in the RSL Collective's efforts to license content to AI companies."
-    },
-    {
-      "headline": "How consumers are using AI to shop in 2025 \u2014 by the numbers",
-      "source": "Digiday",
-      "source_url": "https://digiday.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTTVZaHJnRk9iaDNTbUptOEZvV0E1RFFObkJqREhzX05DTXZiNnhLNzhhU2QxTlNfdVREMTl1Tzl2a0ZNcmt0OHFWRndQZlBUWnpoSHd2SXFSdXNjdXBkQ0dJRzRUbzFZaUF4bUxHNkc1ZHNYcm1JTkUxZXdlWWpLTzZycGFkRVZwY2NmTEY3NDJRZw?oc=5",
-      "pub_date": 1764133404.0,
-      "article_url": "https://digiday.com/marketing/how-consumers-are-using-ai-to-shop-in-2025-by-the-numbers/",
-      "image": "https://digiday.com/wp-content/uploads/sites/3/2025/11/brands-ai-positioning-digiday.jpg",
-      "description": "AI is reshaping the 2025 holiday shopping journey. Here's how brands are shifting SEO, budgets, and product data to be 'agent-ready.'"
     },
     {
       "headline": "HP to cut about 6,000 jobs by 2028, ramps up AI efforts",
@@ -95,6 +85,16 @@
       "description": "HP announced plans to cut 4,000 to 6,000 jobs by 2028 as part of an AI transformation push. Layoffs could affect up to 10% of the workforce at the PC and printer maker."
     },
     {
+      "headline": "Couple Rakes in $9 Billion as AI Circuit Board Shares Soar 530%",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVExFdlpQWjJNTWhPYjN5ZWRJMkkzc0FYV3VlTVlFY05ybGF4TXZuRnBsWWRCenBhZU1fdnN5QjZSR1pGX25tQXIzUk9McVRjTTQxWDNNNEkzRmtDcXUyQkxTSDV5N2dfNEk3c2F1TkpFZ0FlWWVlSFp5NnM5UzNyQVZpV3VhbHRuMUs1TEp6cjhoT3RyMk9SczZ6b05LeEF1Ym9zMWlwRHRrYWd1VURLS01R?oc=5",
+      "pub_date": 1764111617.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-25/couple-rakes-in-9-billion-as-ai-circuit-board-shares-soar-530",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Deloitte allegedly cited AI-generated research in a million-dollar report for a Canadian provincial government",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T05:48:17.965027+00:00"
+  "fetched_at": "2025-11-26T06:43:13.256380+00:00"
 }

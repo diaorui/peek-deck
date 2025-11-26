@@ -35,17 +35,6 @@
       "description": "Built a drone and a proprietary lowering mechanism. Ashamed to say how much time it took and theres still a lot of work left. Its fully autonomous tho, everything is contained within the drone, it doesn't need any communication link nor human operator"
     },
     {
-      "title": "Fully autonomous robots commanded using human language",
-      "author": "Cachee0",
-      "url": "https://www.reddit.com/r/robotics/comments/1p5zfx8/fully_autonomous_robots_commanded_using_human/",
-      "published": 1764034003.0,
-      "thumbnail": "https://external-preview.redd.it/YnIxem91YWoyYjNnMUL4fmj5eZqfL6BH7Tof4T7zO3TRp33vJeeMw_E4m1aW.png?width=640&crop=smart&auto=webp&s=45c4e79acc02477ced02da057aa5348e65a9a750",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "From Dimensional OS: https://x.com/dimensionalos"
-    },
-    {
       "title": "For anyone who loves robots more than cocktails",
       "author": "TheLostWanderer47",
       "url": "https://www.reddit.com/r/robotics/comments/1p6yyma/for_anyone_who_loves_robots_more_than_cocktails/",
@@ -55,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "If you\u2019re in Vegas for re:Invent and want something that\u2019s not another hotel ballroom social, there\u2019s a BattleBots Arena event happening. Real arena. Real bots. Real destruction. They\u2019re letting attendees meet the builders and even try out some of the arena hardware. Engineer-only RSVPs."
+    },
+    {
+      "title": "Fully autonomous robots commanded using human language",
+      "author": "Cachee0",
+      "url": "https://www.reddit.com/r/robotics/comments/1p5zfx8/fully_autonomous_robots_commanded_using_human/",
+      "published": 1764034003.0,
+      "thumbnail": "https://external-preview.redd.it/YnIxem91YWoyYjNnMUL4fmj5eZqfL6BH7Tof4T7zO3TRp33vJeeMw_E4m1aW.png?width=640&crop=smart&auto=webp&s=45c4e79acc02477ced02da057aa5348e65a9a750",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "From Dimensional OS: https://x.com/dimensionalos"
     },
     {
       "title": "Building a sub-$200, highly functional 3D-printed SCARA robotic arm",
@@ -112,5 +112,5 @@
       "description": "Trying to get some ideas to make a demonstration of its potential capabilities.. Or even just your thoughts on it's design! Thanks :) https://www.youtube.com/watch?v=qawYP6E3znw"
     }
   ],
-  "fetched_at": "2025-11-26T05:48:06.286921+00:00"
+  "fetched_at": "2025-11-26T06:43:00.214268+00:00"
 }
