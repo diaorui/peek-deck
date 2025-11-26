@@ -24,6 +24,17 @@
       "description": "Built a drone and a proprietary lowering mechanism. Ashamed to say how much time it took and theres still a lot of work left. Its fully autonomous tho, everything is contained within the drone, it doesn't need any communication link nor human operator"
     },
     {
+      "title": "I made a small half-humanoid for fun",
+      "author": "MRBBLQ",
+      "url": "https://www.reddit.com/r/robotics/comments/1p6u288/i_made_a_small_halfhumanoid_for_fun/",
+      "published": 1764118676.0,
+      "thumbnail": "https://external-preview.redd.it/N2Z0dWdiZmYyaTNnMa8SzFkTQ_ByUkQjY00jMMW4OABw48MRg-CaPAghg-co.png?width=640&crop=smart&auto=webp&s=9a4bcfa72bf4d4648a838bc86899054d67aac2eb",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi everyone, I just built this half-humanoid for human robot interaction research and figured it would be fun if I open-source it. You can find it here: https://github.com/Meet-Bebo/bebo_jr I included my print files, bom, onshape and even simulation files (urdf and mujoco). It also have a simple motion retargeting pipeline if you want to try teleop a simulated version with your webcam. I\u2019ve created a few test applications on this so far, from agents to home assistant plugin to spotify connect. I\u2019ll share more soon as I create the tutorials, but for now you can follow the repo for more progress updates. The next to-do is to create a motion diffusion policy for this from songs, so I can turn it into a hyper music player. If you have pointers on this, hmu. I\u2019d love to have feedback on the design of the robot and the functionalities as well. I did this project for learning and it\u2019s only been 2 weeks since I started, so I still have a lot of ground to cover."
+    },
+    {
       "title": "Fully autonomous robots commanded using human language",
       "author": "Cachee0",
       "url": "https://www.reddit.com/r/robotics/comments/1p5zfx8/fully_autonomous_robots_commanded_using_human/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "MagicLab website: https://www.magiclab.top/en From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1991895323246219551"
-    },
-    {
-      "title": "MenteeBots in a Warehouse Task",
-      "author": "TheMint_",
-      "url": "https://www.reddit.com/r/robotics/comments/1p5ul7q/menteebots_in_a_warehouse_task/",
-      "published": 1764021636.0,
-      "thumbnail": "https://external-preview.redd.it/mw7fBH4tvjVB5Ps3Ap0bqQXNjGtvzxWcwPSgfEGvQ-w.jpeg?width=320&crop=smart&auto=webp&s=ca160f34a74c111a1b8eba2b8fdefd431e7ad054",
-      "external_url": "https://youtu.be/QumzgbjcjiQ?si=z_oN7BvNQqn_Idmb",
-      "site_name": "youtu.be",
-      "favicon": "https://www.youtube.com/s/desktop/33c3234b/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     }
   ],
-  "fetched_at": "2025-11-25T23:56:49.442381+00:00"
+  "fetched_at": "2025-11-26T01:58:37.980977+00:00"
 }
