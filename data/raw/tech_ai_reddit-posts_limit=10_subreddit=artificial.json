@@ -24,6 +24,17 @@
       "description": "Nvidia applauds Google on its recent win, but the leading AI infrastructure company says it still \"offers greater performance\" than the rest."
     },
     {
+      "title": "Google\u2019s Hot New AI Coding Tool Was Hacked A Day After Launch",
+      "author": "forbes",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7bp8q/googles_hot_new_ai_coding_tool_was_hacked_a_day/",
+      "published": 1764173402.0,
+      "thumbnail": "https://external-preview.redd.it/d4fW3480YuwaM-1rjP6cRK2ijoJmqg1mljZzxwRz9vM.jpeg?width=640&crop=smart&auto=webp&s=353b205b96eef0e9019fdbaf69e77461cef81518",
+      "external_url": "https://go.forbes.com/YRA6PQ",
+      "site_name": "Forbes",
+      "favicon": "https://i.forbesimg.com/57X57-F.png",
+      "description": "A security researcher discovered a major flaw in the coding product, the latest example of companies rushing out AI tools vulnerable to hacking."
+    },
+    {
       "title": "David Sacks tried to kill state AI laws \u2014 and it blew up in his face | A leaked executive order draft reveals the tech billionaire making a power play to become America\u2019s AI policy gatekeeper.",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1p76biv/david_sacks_tried_to_kill_state_ai_laws_and_it/",
@@ -46,15 +57,15 @@
       "description": null
     },
     {
-      "title": "Google\u2019s Hot New AI Coding Tool Was Hacked A Day After Launch",
-      "author": "forbes",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7bp8q/googles_hot_new_ai_coding_tool_was_hacked_a_day/",
-      "published": 1764173402.0,
-      "thumbnail": "https://external-preview.redd.it/d4fW3480YuwaM-1rjP6cRK2ijoJmqg1mljZzxwRz9vM.jpeg?width=640&crop=smart&auto=webp&s=353b205b96eef0e9019fdbaf69e77461cef81518",
-      "external_url": "https://go.forbes.com/YRA6PQ",
-      "site_name": "Forbes",
-      "favicon": "https://i.forbesimg.com/57X57-F.png",
-      "description": "A security researcher discovered a major flaw in the coding product, the latest example of companies rushing out AI tools vulnerable to hacking."
+      "title": "Uber headhunted PhDs to join 'Project Sandbox.' After a month, it said that their AI training contracts were over.",
+      "author": "businessinsider",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7fz31/uber_headhunted_phds_to_join_project_sandbox/",
+      "published": 1764182956.0,
+      "thumbnail": "https://external-preview.redd.it/Vh4yniD2flbdFRSvEuyg3TdMsS1X7G37g4ZU6tfa1g4.jpeg?width=640&crop=smart&auto=webp&s=8407b8f9798a1c15bc89404c4437a358b94f2ba8",
+      "external_url": "https://www.businessinsider.com/uber-project-sandbox-shows-ai-training-contractors-the-door-2025-11?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "Uber's Project Sandbox used contractors to train AI for Google. On Monday, Uber told some of them their work was over early."
     },
     {
       "title": "Large language mistake | Cutting-edge research shows language is not the same as intelligence. The entire AI bubble is built on ignoring it.",
@@ -69,7 +80,7 @@
     },
     {
       "title": "The 5 reasons why Google is suddenly on a tear and dominating the AI race",
-      "author": "thisisinsider",
+      "author": "businessinsider",
       "url": "https://www.reddit.com/r/artificial/comments/1p6p0bo/the_5_reasons_why_google_is_suddenly_on_a_tear/",
       "published": 1764105914.0,
       "thumbnail": "https://external-preview.redd.it/VvaZdjyeu-f33pE60RHjRPA8HPQiVCZ7wH8avY_VnDk.jpeg?width=640&crop=smart&auto=webp&s=c0d0646c5dfe8dfa68b7681ef3f136742402e611",
@@ -99,18 +110,7 @@
       "site_name": "reuters.com",
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "\u2018We are not Enron\u2019: Nvidia rejects AI bubble fears. Chip giant disputes claims that it is artificially inflating revenues.",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6hzmf/we_are_not_enron_nvidia_rejects_ai_bubble_fears/",
-      "published": 1764090364.0,
-      "thumbnail": "https://external-preview.redd.it/xlW1SQxK_oHdGt-ppPALnC78lnW-ffFG-p8yONXEgPE.jpeg?width=640&crop=smart&auto=webp&s=a763f07fa7b5e31b59b41c934bb420c8e8395cbf",
-      "external_url": "https://www.telegraph.co.uk/business/2025/11/25/we-are-not-enron-nvidia-rejects-ai-bubble-fears/",
-      "site_name": "The Telegraph",
-      "favicon": "https://www.telegraph.co.uk/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/core/resources/icons/apple-touch-icon-180x180.png",
-      "description": "Chip giant disputes claims that it is artificially inflating revenues"
     }
   ],
-  "fetched_at": "2025-11-26T18:42:53.966337+00:00"
+  "fetched_at": "2025-11-26T19:18:36.099220+00:00"
 }
