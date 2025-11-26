@@ -15,26 +15,6 @@
       "description": "Is XRP or Ethereum the better pick for long-term investors?"
     },
     {
-      "headline": "Largest Ethereum treasury BitMine invests another $200 million, addresses recent ETH price decline",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQUw1dU82dC1PaDBCTWlCN01taWc5RVVKNHRDaFBSZ0hBT3Jid1Q2WXFubXFzVWRCOUVBWHo2SnRzRk9aQVpGYkQtRlpTNVFDaXRFdDJFTWs4ZG44ZXlMM0Rrck1nMmlPTGZhVW5RSC0wSWp0a2tkY3JfLUJ4SFNqMlI0d3U1Yzdkbmo3ZEZwN3R0V0hBUWRlSUhzdFJzdDFyXzZPTFRyNExiaEQ5cDZXYmdqU0tRek10bnJjaVcxNmluRmpqcTktdndRM0fSAdIBQVVfeXFMTXQ3Vm1BM1pGYUh5bWN3cVY4bWRMdEw4WTZXbVhQLTFmVkRuN3ZYalpzQkwyVk1fZmJWSTJmbS1GNlZzX0FtdnBuZXotLTlfZTczTldlbTJrWHRiZ2JQczJyR3Iyb3A2Z25MQ3QwUXFOelRpX0tzcG5rc1k3SnhVeHlXLWh0ZmM2ZFJTZkRfQzE3SXdWNWFhNnZqNUJPd2xQcFBGVFR4Q2tvTjNhYjU5Qzh6TUZFeVN2YTRSVmlfdzNiOHZWVi1hWjdhR0lXSkp6SE9B?oc=5",
-      "pub_date": 1763994878.0,
-      "article_url": "https://www.theblock.co/post/380159/largest-ethereum-treasury-bitmine-invests-another-200-million-addresses-recent-eth-price-decline",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin vs. Ethereum: Which Is More Likely to Be a Millionaire Maker?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeDZJQU1ZYmRrRGF4bEcwSE5lRkx3UHUtVllNOW42S21YWFRueUJNVkxjdUZ6ZFpVbGFfNWZJTFQzQkRIREY0bXFYOGJObG1DcVdEYU5VU1JHTk5XNWs3MExTZ0F2X0lScm5XTU1hWEluU09ndXVSLTEyWXNLZVgzVTRmRQ?oc=5",
-      "pub_date": 1763918100.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-vs-ethereum-more-likely-171500913.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/mL8QYt.1ZfmHOzQozBq1QQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/80e3e6dff18e3fdae3620ea8888e4a6e",
-      "description": "Bitcoin and Ethereum have impressive track records and sky-high future price targets."
-    },
-    {
       "headline": "Monad Rises After Airdrop While Bitcoin and Ethereum Droop",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
@@ -43,6 +23,36 @@
       "article_url": "https://decrypt.co/350029/monad-rises-after-airdrop-bitcoin-ethereum-droop",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Chart4_green-gID_7.png",
       "description": "The price of Monad\u2019s native cryptocurrency rose on Tuesday, following an anticipated airdrop that initially underwhelmed some speculators."
+    },
+    {
+      "headline": "Ethereum Treasury News: BitMine (BMNR) Bought Nearly 70K ETH",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTVJXVk5NTy1uWUh0TVZvMDlYRERfdTFxdE8xOUYyMlJQUS1EVTRfUXl3UlQtaDFxX0haSTFzenROVTMtQ1pqUlBMTUhrelY2RmFlU2h2ZE9vT2N3SXdsd3hNVC1ad3FyN0hsOVpfSEJBWDZoLWRyOE8wUzlwZE5XamVvT01kUDQ3NW52VUlscG5UTHllVXA2aHNOMFowMmgtb1A0UW9hSGlYUEFURFRoSnZhRjROYWVDNWtNU2hMc1A?oc=5",
+      "pub_date": 1763995079.0,
+      "article_url": "https://www.coindesk.com/business/2025/11/24/bitmine-immersion-added-nearly-70k-ether-last-week-now-holding-3-of-eth-supply",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/13c2f3d8f4a14835d564bac5cf5d5cdd106bdcfd-1919x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The company increased its crypto holdings last week despite sitting on around $4 billion in unrealized losses on its ETH bet."
+    },
+    {
+      "headline": "Offchain Labs challenges Vitalik's RISC-V proposal, says WASM better for Ethereum L1",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUZLbWdKaklRcFkya19mTlBVZldlUDA5czhfNXJBMGxnSW5Fd1BpOWJOWUVlRXpjTHMwSHhVbUdVX1NQMmYtTG9fY2xDdE56TXd4RVVvWGJMR1ZCaGxlcXFjMnY5OGJyTzVnWW1TM2tudlc3TklROXRIVEtIV01wS2M2MEg5aFhhXzlPV0htVlh3TmVTdklPdXc5X0tqX2dyX09zV0NTWUYwXzVSQXZQZE1ZdXhnZ0lqN2fSAb8BQVVfeXFMTTczOEZJaVFDYTlDNXMxcVBFM2thZDNNam95MHhmTnBaUXVHWnNSZnNsNzFkTlFFdzZDM2JONmxoTmNBMFVxNEt2ZXhXdUJnLTFEWGx1c2tLSE1UQk1BQzhldzNhMGc4bVNfd1E5STNEWGo4TDczQ1Z2NS1fQW5CaXlTWUJuajM5cW1WLXcxbWZGRUFUakIzS1VYRFBBUDlwZWEwa0VSV0VnQnJXQy1oN05BU0ZXYW9DSVQtRmFIdFE?oc=5",
+      "pub_date": 1763931335.0,
+      "article_url": "https://www.theblock.co/post/380070/offchain-labs-challenges-vitaliks-risc-v-proposal-says-wasm-better-for-ethereum-l1",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Solana\u2019s $2.85B Revenue Explosion: Why It Could Outperform Ethereum in 2026",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW05WUt3WXc2ZmRUcnpCME5zZTMzc19tVUs3OWlJZDhDaWxzSkQ1MmhLLXpsYVM4M3BXakRUQnlJY2JZQzQxeUhOVzBOMVJFSE9ONXlpQnE1UlpfVmpROHZlSEdGcFlqNFk1Tk1ENDFzel9jQ3l4QzI0eFV5Z1dUa2FiSzRUalU2ZTJMd1F3TnFTdElJUFJMUWkzZ01BbUxyLXFpVUc4RUREMVRBc0tLLWhTRTdSUUU?oc=5",
+      "pub_date": 1763979571.0,
+      "article_url": "https://247wallst.com/investing/2025/11/24/solanas-2-85b-revenue-explosion-why-it-could-outperform-ethereum-in-2026/",
+      "image": "https://247wallst.com/wp-content/uploads/2024/03/shutterstock-2051580854-huge-licensed-scaled.jpg",
+      "description": "Solana generated $2.85B in revenue vs Ethereum's declining fees. Will faster speeds and ETF momentum push SOL ahead of ETH in 2026?"
     },
     {
       "headline": "How Sharplink Is Reinventing Itself: Earnings, Ethereum, and the Future of Gaming",
@@ -93,18 +103,8 @@
       "article_url": "https://cryptobriefing.com/ethereum-accumulation-goal-bitmine-stock/",
       "image": "https://static.cryptobriefing.com/wp-content/uploads/2025/11/24215651/306d9100-2896-4292-b0e8-3a0fa980ff08-800x420.jpg",
       "description": "BitMine stock climbed nearly 20% as the company reached 60% of its Ethereum accumulation goal, now holding 3.6 million ETH or 3% of supply."
-    },
-    {
-      "headline": "Bitcoin Reclaims $87,000 With XRP, Solana And Ethereum Leading Gains \u2013 Trend Reversal May Be Short-Term, Says Analyst",
-      "source": "Stocktwits",
-      "source_url": "https://stocktwits.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTDFzV1hNdVZqUGVja2R1QlZLQ0tUSm4tZTRfbjBnWUFXaU41TjVSLUVzUTNUS3RTN0pSSUF0N21WV215OTRGSnNrcEtSd3NhREZKN0dSTnlpTVVsRjYtUjNvU29hNDFUSFI3UEdNbnBHRlRnYmttNjNDNUQ5a2RxQVNCck0tOC1KelZQWFZMSEpQMUNqRDBXcFhaNXMwMmtDR1VEYlppR1FnNnVmTWtQd0VQX2h3Y2VKaGhwZTNsamQ5VVNCbDVOSXl6bXIwZw?oc=5",
-      "pub_date": 1764071860.0,
-      "article_url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-reclaims-87000-with-xrp-solana-ethereum-leading-gains/cL52gCYREXN",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T03:20:21.928998+00:00"
+  "fetched_at": "2025-11-26T03:57:23.466387+00:00"
 }

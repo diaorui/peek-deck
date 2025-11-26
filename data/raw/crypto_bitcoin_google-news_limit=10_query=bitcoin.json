@@ -5,62 +5,12 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "BlackRock's iShares bitcoin fund sees record exodus as crypto heads for worst month since 2022",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYzk0dURxTXpoU1FKZVluSzgyMTJvZXdvMGFNeS10N0UzMjRhU094U1R3S2UtSGVfbXc2QnFfTkg3WFNyTHZCWEk2U0RCdFhvUm81Ylc0dEhEb0wtSEJPZVpMbGtnZkxmd2diVjNDcjBRSmh0U2RWcS1HVlVQUkpWa2REVGpNMkhFNGxkT3l2YmhLZXJDdkZ2b3Nxck5mRnl4alV3dHBPSE9CcDhfVWN4SkFSY2VZUUVqLWdTNk55Y1B4azRsWTNvWnNn0gHPAUFVX3lxTE9EMW0yQmxteDFFbTc2QjlwLXpRbWRhZl9vMFQ3V1BxWjRQVjlaQ3pOQk1qMml4OU5HaFdSTllQLUdVR0w3OS02cWZ3YV9meGRKTGtVa2pCSTloUGx2c3AzSnJSY0VTUW1fTHJUeGgxcEhwSzluT2JvcU5NY2lLRUV3R3VaNno3VnJNbFhnVXoyN1daWHNPeEZkUzNtNnZVMmZsRVNVWGctMlI0cUhHVU5yaWJCV3Y0akt4RGJQZDZIZUZyOGk2TGt0TmhJeTRMNA?oc=5",
-      "pub_date": 1764029940.0,
-      "article_url": "https://www.cnbc.com/2025/11/24/blackrocks-ishares-bitcoin-fund-sees-record-exodus-as-crypto-heads-for-worst-month-since-2022.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108182561-1754505738635-gettyimages-2225439721-img_8850.jpeg?v=1764026732&w=1920&h=1080",
-      "description": "Blackrock's spot bitcoin ETF has so far seen $2.2 billion worth of outflows in November as its underlying crypto continues to crater."
-    },
-    {
-      "headline": "Bitcoin Funds Set for Worst Month as Investors Yank $3.5 Billion",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQajdJdkhIeU1qQUFONUR1TW55bjAzMzJyODY0QW5TMzJTLWd2MjlCUzExR3RuR1h0WXNtQTFGbmJxSVk1NFZJcWJqZ3N4ampwSzZ1aTVXa2pBbnoxaE9WZnlCTVlwMkJSeEo3SkxBVzl6ZGl4TFg5ZWZDZy1QZTUyVTJjRUNpb2dQUFBvWUN5Wkp5WmJNTzdkQ2V3ajBjbFlpbGg2bnFFQmdHUzNRaV9VTWZfM245V3RiQ2c?oc=5",
-      "pub_date": 1763982795.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-24/bitcoin-btc-funds-set-for-worst-month-as-investors-yank-3-5-billion",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8gS4EdvPWfc/v1/1200x800.jpg",
-      "description": "Exchange-traded funds investing in Bitcoin are heading for their worst month of outflows since launching nearly two years ago, piling yet more pressure on a jaded crypto market."
-    },
-    {
-      "headline": "JPMorgan offers investors chance to win big if Bitcoin's price drops next year, but then rockets in 2028",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHR3Y0VlcVZvNmxfVEVlMTlOWGkxSmxpTDcxendPT2U1ekVZc2ItVmduY0JjS2lCd2Y3MDktaWE4Tk1WNXA5NlJ0bURYYmtEVTE4V0tiUEg0aUpKYUhaeV9EOFJobXg2TnBndEtwTzhzMVE1NmxNNXVBQU11SEVyQnp1cTU2NXYtREFYc0FCWTHSAZYBQVVfeXFMTlE1S2Rkamc3THRCYXNtYUJnZTVoWU03MnBfd19sdl9rUk1DQnhDQ3Z3X3dGVGlVWlc1VkNNeHJrMWtIaXlzSzMwOVZ2RjYxZkZmTVlpYlctUS1fT3hkNEFrOGdkMTNNQUJTOXd6czNHa2RQaHJGNVZzb21JYXNEYjVwSklmNE1HNDRLcldPU21IMlI1bHVB?oc=5",
-      "pub_date": 1764091877.0,
-      "article_url": "https://www.theblock.co/post/380262/jpmorgan-bitcoin-etf-blackrock-ibit-structured-note",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "The $1.7B Bitcoin Bet on Rally Above $100K, But Not Reaching New Record Highs",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWEVCaXVBYzdiMlVrOXVwOTc5anNLLWk5R3g5bjMxZFpYcU94aWhIbjFObENYMF96MTBUY016clFHRkNfWmEwTU9oVWtZbThheTNiZDBkaWdYQTRzNXIyU1A1ZjNYeEZHZnowU1VZYTV3X0RKbmZiVFVDbkhVUm9XSjhXMjZGTE9LdU5BRGZMbXVEZ0c5TkhLdzE5b1o2T2RDMFFTd09GYld0ZEZEamx3UXhnRGtCQ1ZKSkNVeFYwVEM2dw?oc=5",
       "pub_date": 1764051199.0,
       "article_url": "https://www.coindesk.com/markets/2025/11/25/the-usd1-7b-bitcoin-bet-on-rally-above-usd100k-but-not-reaching-new-record-highs",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin is in a bear market \u2014 why it\u2019s still too soon to buy",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNaGU4LWVHXy1fbU1ZeWYwUUNadGhzS0ZHTDFqQ3k2ZEJldEpQTl9KbVJKa1FZY0hRZkVoZnUwbjlKQjc0MGt0YmlwSU5Wb19HcklMMlFBWVpjYTU0SXB0azBjNlVmNVJsTXFKcURMbHJKWlhfUmJyU0VQdWlTOXZJT29SeGotbXVNdkl3VGNYaUpSZFl5X19lLUpKRXRCU21EQ0hMSjdveGF5VkpOOXNROHNpUEVITHZFN2d2UkZxUUtsU1dLQ192NDI4akVxTEtQYkVfcDhpM3NCN3FLSnZRWjZabnhsaENaM1htVzFIdTVMaEkyZzJHWUFCTGFJRkFMYUZieXhWWElGTGhFejdVVmQ3NmtJNWFRbUV2elpjd0FOSjJEWXBtOGJUc21CQmgxU3p2NEM1WENwZVNkZ0k5MENIUVRsTGEyMG1DWjFJN0RKUm5BX0NtTkRJWlRRZHpFWS0yb3FJaE5Ucm5YTjNSYkpIdVhKQjMtYWYzNWdHZ2I0MjUzZ01wU2l5Nm5Rb2lPbEdMMVF1X3psZnFqdDk5Qk1VV2RQYTVBbHhiWHp5dU8xUQ?oc=5",
-      "pub_date": 1764085500.0,
-      "article_url": "https://www.marketwatch.com/story/bitcoin-is-in-a-bear-market-and-its-still-overvalued-by-almost-40-e979e1ba?gaa_at=eafs&gaa_n=AWEtsqca7aayRRKiMQJfhNU1kyOvLO01NeGQ7_7y701MazgN4whmQk-5bs1B&gaa_ts=6926756a&gaa_sig=88_XMWSnBeDvq6UK4EsbZ8u3fxZn5qxZEE46EhOFgMsdoQZFtcWOY8oW8oOY1CmK7zXfuLmXC_lseIG8VWc-4A%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Asia Morning Briefing: Asia Wakes Up to an AI BTC-Nvidia Tailwind That\u2019s Already Starting to Sputter",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOblVqcUxfWk5TUjlNdm9Dc0tvSDVYV2lBbndRdnpTVDd0N2NybnFPTWdwMmlnWmJKbDl3SUFfZG5CNkxkb2M2VmwwTWktWThmRS1fY1d4TVJuaFZLOEw3c2xrZlY4Q00tTzBCOUFCV3Rkc3VKNHJVcWNBLU5hTERUcVhpNWZaMWpwSngyR0JueUh0UUYxd2lhLWM2Z3R4Mlc2MDIzYl9sVjl4OThJZFg1bjVzX0ZabUx5T05sd0NjRlo3c1hQMEtsUkoySC13RzRtYUM3cVdnR2k4Q2s?oc=5",
-      "pub_date": 1764122752.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/26/asia-morning-briefing-asia-wakes-up-to-an-ai-btc-nvidia-tailwind-that-s-already-starting-to-sputter",
       "image": null,
       "description": null
     },
@@ -73,6 +23,36 @@
       "article_url": "https://decrypt.co/350018/jpmorgan-bitcoin-structured-notes-potentially-massive-returns-btc-surges-2028",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/bitcoin-bull-decrypt-style-gID_7.jpg",
       "description": "JPMorgan has proposed a structured note that would allow investors to bet on the future price of Bitcoin via BlackRock's ETF."
+    },
+    {
+      "headline": "BlackRock's iShares bitcoin fund sees record exodus as crypto heads for worst month since 2022",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYzk0dURxTXpoU1FKZVluSzgyMTJvZXdvMGFNeS10N0UzMjRhU094U1R3S2UtSGVfbXc2QnFfTkg3WFNyTHZCWEk2U0RCdFhvUm81Ylc0dEhEb0wtSEJPZVpMbGtnZkxmd2diVjNDcjBRSmh0U2RWcS1HVlVQUkpWa2REVGpNMkhFNGxkT3l2YmhLZXJDdkZ2b3Nxck5mRnl4alV3dHBPSE9CcDhfVWN4SkFSY2VZUUVqLWdTNk55Y1B4azRsWTNvWnNn0gHPAUFVX3lxTE9EMW0yQmxteDFFbTc2QjlwLXpRbWRhZl9vMFQ3V1BxWjRQVjlaQ3pOQk1qMml4OU5HaFdSTllQLUdVR0w3OS02cWZ3YV9meGRKTGtVa2pCSTloUGx2c3AzSnJSY0VTUW1fTHJUeGgxcEhwSzluT2JvcU5NY2lLRUV3R3VaNno3VnJNbFhnVXoyN1daWHNPeEZkUzNtNnZVMmZsRVNVWGctMlI0cUhHVU5yaWJCV3Y0akt4RGJQZDZIZUZyOGk2TGt0TmhJeTRMNA?oc=5",
+      "pub_date": 1764029940.0,
+      "article_url": "https://www.cnbc.com/2025/11/24/blackrocks-ishares-bitcoin-fund-sees-record-exodus-as-crypto-heads-for-worst-month-since-2022.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108182561-1754505738635-gettyimages-2225439721-img_8850.jpeg?v=1764026732&w=1920&h=1080",
+      "description": "Blackrock's spot bitcoin ETF has so far seen $2.2 billion worth of outflows in November as its underlying crypto continues to crater."
+    },
+    {
+      "headline": "Texas Becomes First U.S. State to Buy $5M of BlackRock\u2019s Spot Bitcoin ETF",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12cUFIYTl6QWpOVkNtUGd6Z2JucEtwdmZoTUs3OWt6a0k2ZFNzRjBDNnJYdnppT3o5NHhXSGhEOXhNek1ncDI5S2Nmc0xjMmNqcDkxbzJNUm1RaURJZHdpd05sYUNaYjkyS2ZUY2hWeUhQS3pI?oc=5",
+      "pub_date": 1764101561.0,
+      "article_url": "https://bitcoinmagazine.com/news/texas-buys-5m-of-spot-bitcoin-etf",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/11/Texas-Becomes-First-U.S.-State-to-Buy-10M-of-BlackRocks-Spot-Bitcoin-ETF.jpg",
+      "description": "The President of the Texas Blockchain Council said that Texas recently bought $5 million in Bitcoin ETFs on November 20."
+    },
+    {
+      "headline": "JPMorgan offers investors chance to win big if Bitcoin's price drops next year, but then rockets in 2028",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHR3Y0VlcVZvNmxfVEVlMTlOWGkxSmxpTDcxendPT2U1ekVZc2ItVmduY0JjS2lCd2Y3MDktaWE4Tk1WNXA5NlJ0bURYYmtEVTE4V0tiUEg0aUpKYUhaeV9EOFJobXg2TnBndEtwTzhzMVE1NmxNNXVBQU11SEVyQnp1cTU2NXYtREFYc0FCWTHSAZYBQVVfeXFMTlE1S2Rkamc3THRCYXNtYUJnZTVoWU03MnBfd19sdl9rUk1DQnhDQ3Z3X3dGVGlVWlc1VkNNeHJrMWtIaXlzSzMwOVZ2RjYxZkZmTVlpYlctUS1fT3hkNEFrOGdkMTNNQUJTOXd6czNHa2RQaHJGNVZzb21JYXNEYjVwSklmNE1HNDRLcldPU21IMlI1bHVB?oc=5",
+      "pub_date": 1764091877.0,
+      "article_url": "https://www.theblock.co/post/380262/jpmorgan-bitcoin-etf-blackrock-ibit-structured-note",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin plunges while gold rises, destroying the crypto \u2018safe haven\u2019 narrative",
@@ -103,8 +83,28 @@
       "article_url": "https://www.investors.com/news/bitcoin-jpmorgan-bitcoin-miners-cleanspark-cipher-iren-mara-riot/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Why Analysts Are Split on Bitcoin Miner MARA's Prospects",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14TkNpWFhQUmxocUk3elV1Vm5NNmc2LXU5RWNGSkdTUGNaeURpNzM5THZhOG9fYWNhVWlubVZwUDVoMmlOcHdLTDdCNFlPaDZXdnFjUkVrc3Atcm5CcmVvN0hHMWo1NkVWT0ZwVElHNDl4MUtxLTd0NFdnTF82RVXSAYcBQVVfeXFMTm41M3JjSnZzNld3RkxHSlJRbmM0ZFk4ZGRYU1UwdUNTMTFreGxXVE1lanhBVG94eVM0R3dqNHdlNWI5TV9yYmh3VzZDVXFUQmNjemptVGtfeHJlbktVcEMzcFpkcjlQOGsydXdSeFpiQzA0WDF5WXVjaDllUTJZdFQyQlVIMXhr?oc=5",
+      "pub_date": 1764009942.0,
+      "article_url": "https://decrypt.co/349873/why-analysts-split-bitcoin-miner-maras-prospects",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png",
+      "description": "Analysts are divided on how well Bitcoin miner MARA Holdings will perform this year following the latest crash in crypto prices."
+    },
+    {
+      "headline": "JPMorgan issues new crypto stock ratings after MSCI backlash",
+      "source": "TheStreet",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTU1VLWRyMXNzNGZOa0JpUTltN2VCMUNLTDVYRDlmQ1E1OVdycXAtcnlrX3d0TG5BVlFDZlNPcjlSOUNPUzRfXzhTWXFyNkJGUEpuZko3RUF4Wm9YSV93amxESDFjSWoydy1sQ3VHRnVtcGpVWndOQjc3TXJDNU02VlIzNDlVVHpxejJmbFdBTWxreVhad1dYdjJZTQ?oc=5",
+      "pub_date": 1764014797.0,
+      "article_url": "https://www.thestreet.com/crypto/markets/jpmorgan-issues-new-crypto-ratings-after-msci-backlash",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T03:20:25.955614+00:00"
+  "fetched_at": "2025-11-26T03:57:25.035093+00:00"
 }
