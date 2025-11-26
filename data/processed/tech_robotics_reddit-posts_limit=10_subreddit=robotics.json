@@ -68,6 +68,17 @@
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     },
     {
+      "title": "For anyone who loves robots more than cocktails",
+      "author": "TheLostWanderer47",
+      "url": "https://www.reddit.com/r/robotics/comments/1p6yyma/for_anyone_who_loves_robots_more_than_cocktails/",
+      "published": 1764133092.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "If you\u2019re in Vegas for re:Invent and want something that\u2019s not another hotel ballroom social, there\u2019s a BattleBots Arena event happening. Real arena. Real bots. Real destruction. They\u2019re letting attendees meet the builders and even try out some of the arena hardware. Engineer-only RSVPs."
+    },
+    {
       "title": "After 2 years, I'm open-sourcing the Rebelia Hand: From DIY files to a pre-assembled robot hand",
       "author": "venetrom",
       "url": "https://www.reddit.com/r/robotics/comments/1p69rij/after_2_years_im_opensourcing_the_rebelia_hand/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Trying to get some ideas to make a demonstration of its potential capabilities.. Or even just your thoughts on it's design! Thanks :) https://www.youtube.com/watch?v=qawYP6E3znw"
-    },
-    {
-      "title": "MagicLab Z, a bipedal humanoid shows his agility",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1p4lg88/magiclab_z_a_bipedal_humanoid_shows_his_agility/",
-      "published": 1763900621.0,
-      "thumbnail": "https://external-preview.redd.it/czd4bHU5d3kwMDNnMblU5K_C_dAkX7Cdnie-bEA-6uVVUIN14c1W8w-oCHlT.png?width=640&crop=smart&auto=webp&s=6e0a66ef212462fa183644c24bcda242c9f3cb14",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "MagicLab website: https://www.magiclab.top/en From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1991895323246219551"
     }
   ],
-  "fetched_at": "2025-11-26T04:32:53.462557+00:00"
+  "fetched_at": "2025-11-26T05:10:48.811793+00:00"
 }

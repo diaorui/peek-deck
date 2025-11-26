@@ -23,7 +23,7 @@
       "url": "https://news.ycombinator.com/item?id=46029699",
       "hn_url": "https://news.ycombinator.com/item?id=46029699",
       "author": "pugworthy",
-      "points": 349,
+      "points": 350,
       "num_comments": 207,
       "created_at": "2025-11-24T02:25:39Z",
       "object_id": "46029699",
@@ -37,7 +37,7 @@
       "url": "https://twitter.com/karpathy/status/1993010584175141038",
       "hn_url": "https://news.ycombinator.com/item?id=46036878",
       "author": "bilsbie",
-      "points": 344,
+      "points": 345,
       "num_comments": 416,
       "created_at": "2025-11-24T17:51:02Z",
       "object_id": "46036878",
@@ -51,7 +51,7 @@
       "url": "https://github.com/ocaml/ocaml/pull/14369",
       "hn_url": "https://news.ycombinator.com/item?id=46039274",
       "author": "theresistor",
-      "points": 304,
+      "points": 306,
       "num_comments": 140,
       "created_at": "2025-11-24T21:03:22Z",
       "object_id": "46039274",
@@ -145,7 +145,7 @@
       "site_name": "migrantinsider.com"
     }
   ],
-  "total_hits": 464,
+  "total_hits": 465,
   "has_metadata": true,
-  "fetched_at": "2025-11-26T04:32:49.571691+00:00"
+  "fetched_at": "2025-11-26T05:10:44.697285+00:00"
 }
