@@ -24,17 +24,6 @@
       "description": null
     },
     {
-      "title": "David Sacks tried to kill state AI laws \u2014 and it blew up in his face | A leaked executive order draft reveals the tech billionaire making a power play to become America\u2019s AI policy gatekeeper.",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p76biv/david_sacks_tried_to_kill_state_ai_laws_and_it/",
-      "published": 1764159631.0,
-      "thumbnail": "https://external-preview.redd.it/4aIPe5CZb_WqmH0rKRKjxZJ5injfzBagTwZJPAENurg.jpeg?width=640&crop=smart&auto=webp&s=4b10fba6aa2c9ad07608c84949711e9021618629",
-      "external_url": "https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order",
-      "site_name": "The Verge",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "description": "A leaked executive order reveals that the tech billionaire would have become America\u2019s AI policy gatekeeper."
-    },
-    {
       "title": "MIT study finds AI can already replace 11.7% of U.S. workforce",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1p7c303/mit_study_finds_ai_can_already_replace_117_of_us/",
@@ -46,15 +35,15 @@
       "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
     },
     {
-      "title": "Google\u2019s Hot New AI Coding Tool Was Hacked A Day After Launch",
-      "author": "forbes",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7bp8q/googles_hot_new_ai_coding_tool_was_hacked_a_day/",
-      "published": 1764173402.0,
-      "thumbnail": "https://external-preview.redd.it/d4fW3480YuwaM-1rjP6cRK2ijoJmqg1mljZzxwRz9vM.jpeg?width=640&crop=smart&auto=webp&s=353b205b96eef0e9019fdbaf69e77461cef81518",
-      "external_url": "https://go.forbes.com/YRA6PQ",
-      "site_name": "Forbes",
-      "favicon": "https://i.forbesimg.com/57X57-F.png",
-      "description": "A security researcher discovered a major flaw in the coding product, the latest example of companies rushing out AI tools vulnerable to hacking."
+      "title": "David Sacks tried to kill state AI laws \u2014 and it blew up in his face | A leaked executive order draft reveals the tech billionaire making a power play to become America\u2019s AI policy gatekeeper.",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p76biv/david_sacks_tried_to_kill_state_ai_laws_and_it/",
+      "published": 1764159631.0,
+      "thumbnail": "https://external-preview.redd.it/4aIPe5CZb_WqmH0rKRKjxZJ5injfzBagTwZJPAENurg.jpeg?width=640&crop=smart&auto=webp&s=4b10fba6aa2c9ad07608c84949711e9021618629",
+      "external_url": "https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order",
+      "site_name": "The Verge",
+      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+      "description": "A leaked executive order reveals that the tech billionaire would have become America\u2019s AI policy gatekeeper."
     },
     {
       "title": "Large language mistake | Cutting-edge research shows language is not the same as intelligence. The entire AI bubble is built on ignoring it.",
@@ -110,7 +99,18 @@
       "site_name": "The Telegraph",
       "favicon": "https://www.telegraph.co.uk/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/core/resources/icons/apple-touch-icon-180x180.png",
       "description": "Chip giant disputes claims that it is artificially inflating revenues"
+    },
+    {
+      "title": "U.S. launches apollo-style mission to harness AI and big data for scientific discovery",
+      "author": "scientificamerican",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7cyb6/us_launches_apollostyle_mission_to_harness_ai_and/",
+      "published": 1764176223.0,
+      "thumbnail": "https://external-preview.redd.it/pJc4o-ACZLPvBATfsxdh8gdWO3SG855B_pYFYpIHzPg.jpeg?width=640&crop=smart&auto=webp&s=f77a833132804de386dd49b091501987c4a9ce1c",
+      "external_url": "https://www.scientificamerican.com/article/trump-orders-genesis-mission-to-advance-ai-breakthroughs/",
+      "site_name": "Scientific American",
+      "favicon": "https://www.scientificamerican.com/static/favicon.ico",
+      "description": "On Monday President Donald Trump signed an executive order aimed at accelerating science using artificial intelligence, an effort dubbed the \u201cGenesis Mission.\""
     }
   ],
-  "fetched_at": "2025-11-26T17:17:49.164519+00:00"
+  "fetched_at": "2025-11-26T17:50:44.067859+00:00"
 }
