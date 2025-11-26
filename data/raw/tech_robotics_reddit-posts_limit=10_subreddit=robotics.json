@@ -13,17 +13,6 @@
       "description": "Hi everyone, I just built this half-humanoid for human robot interaction research and figured it would be fun if I open-source it. You can find it here: https://github.com/Meet-Bebo/bebo_jr I included my print files, bom, onshape and even simulation files (urdf and mujoco). It also have a simple motion retargeting pipeline if you want to try teleop a simulated version with your webcam. I\u2019ve created a few test applications on this so far, from agents to home assistant plugin to spotify connect. I\u2019ll share more soon as I create the tutorials, but for now you can follow the repo for more progress updates. The next to-do is to create a motion diffusion policy for this from songs, so I can turn it into a hyper music player. If you have pointers on this, hmu. I\u2019d love to have feedback on the design of the robot and the functionalities as well. I did this project for learning and it\u2019s only been 2 weeks since I started, so I still have a lot of ground to cover."
     },
     {
-      "title": "Kyber Labs hand rotates a nut on a bolt at super high speed, fully in real time with no edits",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1p69bkz/kyber_labs_hand_rotates_a_nut_on_a_bolt_at_super/",
-      "published": 1764067423.0,
-      "thumbnail": "https://external-preview.redd.it/d2tzdmZmbHp0ZDNnMZt21T7gZIc6qgnt26ZnwmtkE82GCAbBQduNZc7moJzt.png?width=640&crop=smart&auto=webp&s=81c8be457a0852ae9a14189b4ecfa7fdec27537b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Kyber Labs on \ud835\udd4f : \"Our hand rotates a nut on a bolt at super high speed, fully in real time with no edits. This is possible because it\u2019s fully backdrivable and torque transparent so it adapts naturally to the nut. The result is simpler, more reliable manipulation for software and learning systems.\": https://x.com/KyberLabsRobots/status/1993060588789137785 Website: https://kyberlabs.ai"
-    },
-    {
       "title": "Are World Models the Future of Robotics?",
       "author": "Nibbana_0",
       "url": "https://www.reddit.com/r/robotics/comments/1p7bjzq/are_world_models_the_future_of_robotics/",
@@ -35,15 +24,15 @@
       "description": "Recently, I\u2019ve been researching about World Models, and I\u2019m increasingly convinced that humanoid robots will need strong world understanding to achieve task generalization and true zero-shot learning. I feel that World Models will play a crucial role in building general-purpose robots. What are your thoughts on this? Also, do you think robotics will eventually be dominated by World-Model-based approaches?"
     },
     {
-      "title": "Robotics Related Black Friday Deals?",
-      "author": "dan678",
-      "url": "https://www.reddit.com/r/robotics/comments/1p77yrj/robotics_related_black_friday_deals/",
-      "published": 1764164359.0,
-      "thumbnail": null,
+      "title": "Kyber Labs hand rotates a nut on a bolt at super high speed, fully in real time with no edits",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1p69bkz/kyber_labs_hand_rotates_a_nut_on_a_bolt_at_super/",
+      "published": 1764067423.0,
+      "thumbnail": "https://external-preview.redd.it/d2tzdmZmbHp0ZDNnMZt21T7gZIc6qgnt26ZnwmtkE82GCAbBQduNZc7moJzt.png?width=640&crop=smart&auto=webp&s=81c8be457a0852ae9a14189b4ecfa7fdec27537b",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I've looked at robotshop's black friday sale, but nothing really interested me. I figured I'd start a thread here to see if we can centralize and crowdsource some good deals. Please comment with any good deals you find! Sensors, actuators, compute, robot kits, software deals, etc."
+      "description": "Kyber Labs on \ud835\udd4f : \"Our hand rotates a nut on a bolt at super high speed, fully in real time with no edits. This is possible because it\u2019s fully backdrivable and torque transparent so it adapts naturally to the nut. The result is simpler, more reliable manipulation for software and learning systems.\": https://x.com/KyberLabsRobots/status/1993060588789137785 Website: https://kyberlabs.ai"
     },
     {
       "title": "Rugged prototype to streamlined prototype",
@@ -101,16 +90,27 @@
       "description": "From Dimensional OS: https://x.com/dimensionalos"
     },
     {
-      "title": "Flexion connects a robot brain to the Unitree G1 to research generalizable robot autonomy",
-      "author": "misbehavingwolf",
-      "url": "https://www.reddit.com/r/robotics/comments/1p76x40/flexion_connects_a_robot_brain_to_the_unitree_g1/",
-      "published": 1764161427.0,
-      "thumbnail": "https://external-preview.redd.it/fqwaaX2p5euZNxWE3eSXQLXotSsNzMg2D-GJhhi1aOQ.jpeg?width=320&crop=smart&auto=webp&s=703fd7c15164ec1ef14d48e633412f0f20f95a3d",
-      "external_url": "http://youtube.com/watch?v=tpwiCa33prA",
+      "title": "Building a sub-$200, highly functional 3D-printed SCARA robotic arm",
+      "author": "Yoni_bravo",
+      "url": "https://www.reddit.com/r/robotics/comments/1p6gqan/building_a_sub200_highly_functional_3dprinted/",
+      "published": 1764087577.0,
+      "thumbnail": "https://b.thumbs.redditmedia.com/YqcovefKQK_arp7VMPLBrrIEGlUx1QyRQpMZTDlyXnc.jpg",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019ve been working on a SCARA robotic arm design that I\u2019m trying to keep under ~$200. It\u2019s entirely 3D-printed + off-the-shelf components, but I\u2019m aiming for features you usually only see on far more expensive arms. My goal is to build an accessible platform that\u2019s actually useful \u2014 not just a toy \u2014 and can serve as a solid base for anyone interested in getting into robotics in a meaningful way Planned features: PRRR SCARA configuration - simple kinematics, high stiffness for the weight High-accuracy motion using NEMA17 steppers + TMC2209 drivers Automatic tool-changer with magnetic pogo-pin connector Z-compensation module for tool contact detection + vision-assisted picking ESP32-based controller (FYSETC E4) running FluidNC firmware. Integrated top-view camera Comprehensive Web UI + full-feature control pendant ~0.3 m reach, target ~0.5 kg payload The idea is to push how far low-cost hardware + smart design can go. I think my industrial automation background and maker soul puts me in a good position to go for this thing. This is still early, but I\u2019d love feedback from anyone who has built robotic arms or worked with SCARA kinematics. If there are obvious pitfalls or design considerations I should watch out for \u2014 I\u2019m all ears. For more details please check my hackaday.io page - https://hackaday.io/project/204557-pr3-scara"
+    },
+    {
+      "title": "I talked about robot learning with Prof. Sergey Levine of Physical intelligence and UC Berkeley in the backseat of a Waymo for our new video series: AI in Motion",
+      "author": "vincentvanhoucke",
+      "url": "https://www.reddit.com/r/robotics/comments/1p6qqhk/i_talked_about_robot_learning_with_prof_sergey/",
+      "published": 1764109997.0,
+      "thumbnail": "https://external-preview.redd.it/J1_Rp6f8Yr7tgzRD13uozQfhBpn8eDJMciI0ILwCQOo.jpeg?width=320&crop=smart&auto=webp&s=b44f1861d7c5318fd2996fcda15d6872b8d7b775",
+      "external_url": "https://www.youtube.com/watch?v=0CfMCOzmJZI",
       "site_name": "youtube.com",
       "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
-      "description": "This changed the way I looked at robots - it would be amazing to see this be attached to any robot, and you could just keep the body and repeatedly upgrade the autonomy stack's software and hardware too."
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     }
   ],
-  "fetched_at": "2025-11-26T17:50:48.543323+00:00"
+  "fetched_at": "2025-11-26T18:42:58.402258+00:00"
 }

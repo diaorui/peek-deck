@@ -20,7 +20,7 @@
         "ai-trading",
         "aitradingos"
       ],
-      "updated_at": "2025-11-25T12:32:12Z"
+      "updated_at": "2025-11-26T18:05:01Z"
     },
     {
       "full_name": "liujuntao123/smart-excalidraw-next",
@@ -30,7 +30,7 @@
       "description": "A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language",
       "url": "https://github.com/liujuntao123/smart-excalidraw-next",
       "preview_image": "https://opengraph.githubassets.com/7dc6e7a2aa2e5f6261deb6fd2aab56f3f00fe2d57ae1127a3e15ec0557210a06/liujuntao123/smart-excalidraw-next",
-      "stars": 2025,
+      "stars": 2026,
       "stars_display": "2.0k",
       "forks": 256,
       "forks_display": "256",
@@ -190,6 +190,6 @@
   "search_query": "ai created:>2025-10-27",
   "days": 30,
   "limit": 10,
-  "total_count": 218048,
-  "fetched_at": "2025-11-26T17:38:23.049222+00:00"
+  "total_count": 218459,
+  "fetched_at": "2025-11-26T18:42:53.999623+00:00"
 }

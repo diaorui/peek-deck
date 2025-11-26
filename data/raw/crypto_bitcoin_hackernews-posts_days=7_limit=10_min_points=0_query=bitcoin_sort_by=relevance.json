@@ -47,6 +47,20 @@
       "site_name": "Tom's Hardware"
     },
     {
+      "title": "Bitcoin isn't anonymous \u2013 investigators can trace transactions on the blockchain",
+      "url": "https://boingboing.net/2025/11/13/bitcoin-isnt-anonymous-investigators-can-trace-every-transaction-on-the-blockchain.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46060819",
+      "author": "jethronethro",
+      "points": 3,
+      "num_comments": 0,
+      "created_at": "2025-11-26T18:34:25Z",
+      "object_id": "46060819",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "boingboing.net"
+    },
+    {
       "title": "Bitcoin won't recover until there's a resolution to quantum elephant in the room",
       "url": "https://news.ycombinator.com/item?id=46002919",
       "hn_url": "https://news.ycombinator.com/item?id=46002919",
@@ -129,23 +143,9 @@
       "description": null,
       "favicon": null,
       "site_name": "axios.com"
-    },
-    {
-      "title": "Continuous Batching",
-      "url": "https://huggingface.co/blog/continuous_batching",
-      "hn_url": "https://news.ycombinator.com/item?id=46057352",
-      "author": "homarp",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2025-11-26T13:47:15Z",
-      "object_id": "46057352",
-      "image": "https://huggingface.co/blog/assets/continuous_batching/thumbnail.png",
-      "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
-      "favicon": "https://huggingface.co/favicon.ico",
-      "site_name": "huggingface.co"
     }
   ],
-  "total_hits": 11,
+  "total_hits": 12,
   "has_metadata": true,
-  "fetched_at": "2025-11-26T17:50:45.275362+00:00"
+  "fetched_at": "2025-11-26T18:42:59.390779+00:00"
 }
