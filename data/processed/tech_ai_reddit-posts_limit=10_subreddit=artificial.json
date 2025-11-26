@@ -35,6 +35,28 @@
       "description": "A leaked executive order reveals that the tech billionaire would have become America\u2019s AI policy gatekeeper."
     },
     {
+      "title": "MIT study finds AI can already replace 11.7% of U.S. workforce",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7c303/mit_study_finds_ai_can_already_replace_117_of_us/",
+      "published": 1764174261.0,
+      "thumbnail": "https://external-preview.redd.it/HwnpM9WtsIRKecGGVlcGR4tSTRZ1axmq4_Ifq-KqB18.jpeg?width=640&crop=smart&auto=webp&s=396ae2bd6295951d825acf6a71c339cd9700a613",
+      "external_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
+      "site_name": "CNBC",
+      "favicon": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
+      "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
+    },
+    {
+      "title": "Google\u2019s Hot New AI Coding Tool Was Hacked A Day After Launch",
+      "author": "forbes",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7bp8q/googles_hot_new_ai_coding_tool_was_hacked_a_day/",
+      "published": 1764173402.0,
+      "thumbnail": "https://external-preview.redd.it/d4fW3480YuwaM-1rjP6cRK2ijoJmqg1mljZzxwRz9vM.jpeg?width=640&crop=smart&auto=webp&s=353b205b96eef0e9019fdbaf69e77461cef81518",
+      "external_url": "https://go.forbes.com/YRA6PQ",
+      "site_name": "Forbes",
+      "favicon": "https://i.forbesimg.com/57X57-F.png",
+      "description": "A security researcher discovered a major flaw in the coding product, the latest example of companies rushing out AI tools vulnerable to hacking."
+    },
+    {
       "title": "Large language mistake | Cutting-edge research shows language is not the same as intelligence. The entire AI bubble is built on ignoring it.",
       "author": "creaturefeature16",
       "url": "https://www.reddit.com/r/artificial/comments/1p6gmqs/large_language_mistake_cuttingedge_research_shows/",
@@ -57,15 +79,15 @@
       "description": "Google is on a tear in the AI race and has made a miraculous comeback, thanks to Gemini, its TPUs, and other factors. Here's what's going on."
     },
     {
-      "title": "Google\u2019s Hot New AI Coding Tool Was Hacked A Day After Launch",
-      "author": "forbes",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7bp8q/googles_hot_new_ai_coding_tool_was_hacked_a_day/",
-      "published": 1764173402.0,
-      "thumbnail": "https://external-preview.redd.it/d4fW3480YuwaM-1rjP6cRK2ijoJmqg1mljZzxwRz9vM.jpeg?width=640&crop=smart&auto=webp&s=353b205b96eef0e9019fdbaf69e77461cef81518",
-      "external_url": "https://go.forbes.com/YRA6PQ",
-      "site_name": "Forbes",
-      "favicon": "https://i.forbesimg.com/57X57-F.png",
-      "description": "A security researcher discovered a major flaw in the coding product, the latest example of companies rushing out AI tools vulnerable to hacking."
+      "title": "Sam Altman says OpenAI\u2019s first device is iPhone-level revolutionary but brings \u2018peace and calm\u2019 instead of \u2018unsettling\u2019 flashing lights and notifications | Fortune",
+      "author": "fortune",
+      "url": "https://www.reddit.com/r/artificial/comments/1p6q9h3/sam_altman_says_openais_first_device_is/",
+      "published": 1764108856.0,
+      "thumbnail": "https://external-preview.redd.it/PvPii_e_HFOywNW3LdaBt6Nomy5UVF6Vn2SRNMK5RqI.jpeg?width=640&crop=smart&auto=webp&s=033a76d0340a038a9a6c6cc91f9a71ed6e69cb9e",
+      "external_url": "https://fortune.com/2025/11/25/sam-altman-openai-first-ai-hardware-device-apple-jony-ive-peace-calm/",
+      "site_name": "Fortune",
+      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
+      "description": "Altman said the AI-first hardware will be released in less than two years."
     },
     {
       "title": "Dozens of state attorneys general urge US Congress not to block AI laws",
@@ -79,17 +101,6 @@
       "description": null
     },
     {
-      "title": "Sam Altman says OpenAI\u2019s first device is iPhone-level revolutionary but brings \u2018peace and calm\u2019 instead of \u2018unsettling\u2019 flashing lights and notifications | Fortune",
-      "author": "fortune",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6q9h3/sam_altman_says_openais_first_device_is/",
-      "published": 1764108856.0,
-      "thumbnail": "https://external-preview.redd.it/PvPii_e_HFOywNW3LdaBt6Nomy5UVF6Vn2SRNMK5RqI.jpeg?width=640&crop=smart&auto=webp&s=033a76d0340a038a9a6c6cc91f9a71ed6e69cb9e",
-      "external_url": "https://fortune.com/2025/11/25/sam-altman-openai-first-ai-hardware-device-apple-jony-ive-peace-calm/",
-      "site_name": "Fortune",
-      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
-      "description": "Altman said the AI-first hardware will be released in less than two years."
-    },
-    {
       "title": "\u2018We are not Enron\u2019: Nvidia rejects AI bubble fears. Chip giant disputes claims that it is artificially inflating revenues.",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1p6hzmf/we_are_not_enron_nvidia_rejects_ai_bubble_fears/",
@@ -99,18 +110,7 @@
       "site_name": "The Telegraph",
       "favicon": "https://www.telegraph.co.uk/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/core/resources/icons/apple-touch-icon-180x180.png",
       "description": "Chip giant disputes claims that it is artificially inflating revenues"
-    },
-    {
-      "title": "MIT study finds AI can already replace 11.7% of U.S. workforce",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7c303/mit_study_finds_ai_can_already_replace_117_of_us/",
-      "published": 1764174261.0,
-      "thumbnail": "https://external-preview.redd.it/HwnpM9WtsIRKecGGVlcGR4tSTRZ1axmq4_Ifq-KqB18.jpeg?width=640&crop=smart&auto=webp&s=396ae2bd6295951d825acf6a71c339cd9700a613",
-      "external_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
-      "site_name": "CNBC",
-      "favicon": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
-      "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
     }
   ],
-  "fetched_at": "2025-11-26T16:33:30.167847+00:00"
+  "fetched_at": "2025-11-26T17:17:49.164519+00:00"
 }
