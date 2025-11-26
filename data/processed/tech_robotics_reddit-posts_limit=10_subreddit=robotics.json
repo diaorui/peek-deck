@@ -13,17 +13,6 @@
       "description": "Kyber Labs on \ud835\udd4f : \"Our hand rotates a nut on a bolt at super high speed, fully in real time with no edits. This is possible because it\u2019s fully backdrivable and torque transparent so it adapts naturally to the nut. The result is simpler, more reliable manipulation for software and learning systems.\": https://x.com/KyberLabsRobots/status/1993060588789137785 Website: https://kyberlabs.ai"
     },
     {
-      "title": "Rugged prototype to streamlined prototype",
-      "author": "NecessaryConstant535",
-      "url": "https://www.reddit.com/r/robotics/comments/1p6fnr0/rugged_prototype_to_streamlined_prototype/",
-      "published": 1764085207.0,
-      "thumbnail": "https://external-preview.redd.it/MTZvaHRyMmhhZjNnMZHPe-3rKAt6As-3JMcJ-YctuA4zQls2sakXcUJKLRFG.png?width=640&crop=smart&auto=webp&s=db5d93a065c3b64a724b56b98e341e087ad10b92",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Built a drone and a proprietary lowering mechanism. Ashamed to say how much time it took and theres still a lot of work left. Its fully autonomous tho, everything is contained within the drone, it doesn't need any communication link nor human operator"
-    },
-    {
       "title": "I made a small half-humanoid for fun",
       "author": "MRBBLQ",
       "url": "https://www.reddit.com/r/robotics/comments/1p6u288/i_made_a_small_halfhumanoid_for_fun/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hi everyone, I just built this half-humanoid for human robot interaction research and figured it would be fun if I open-source it. You can find it here: https://github.com/Meet-Bebo/bebo_jr I included my print files, bom, onshape and even simulation files (urdf and mujoco). It also have a simple motion retargeting pipeline if you want to try teleop a simulated version with your webcam. I\u2019ve created a few test applications on this so far, from agents to home assistant plugin to spotify connect. I\u2019ll share more soon as I create the tutorials, but for now you can follow the repo for more progress updates. The next to-do is to create a motion diffusion policy for this from songs, so I can turn it into a hyper music player. If you have pointers on this, hmu. I\u2019d love to have feedback on the design of the robot and the functionalities as well. I did this project for learning and it\u2019s only been 2 weeks since I started, so I still have a lot of ground to cover."
+    },
+    {
+      "title": "Rugged prototype to streamlined prototype",
+      "author": "NecessaryConstant535",
+      "url": "https://www.reddit.com/r/robotics/comments/1p6fnr0/rugged_prototype_to_streamlined_prototype/",
+      "published": 1764085207.0,
+      "thumbnail": "https://external-preview.redd.it/MTZvaHRyMmhhZjNnMZHPe-3rKAt6As-3JMcJ-YctuA4zQls2sakXcUJKLRFG.png?width=640&crop=smart&auto=webp&s=db5d93a065c3b64a724b56b98e341e087ad10b92",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Built a drone and a proprietary lowering mechanism. Ashamed to say how much time it took and theres still a lot of work left. Its fully autonomous tho, everything is contained within the drone, it doesn't need any communication link nor human operator"
     },
     {
       "title": "Fully autonomous robots commanded using human language",
@@ -57,17 +57,6 @@
       "description": "I\u2019ve been working on a SCARA robotic arm design that I\u2019m trying to keep under ~$200. It\u2019s entirely 3D-printed + off-the-shelf components, but I\u2019m aiming for features you usually only see on far more expensive arms. My goal is to build an accessible platform that\u2019s actually useful \u2014 not just a toy \u2014 and can serve as a solid base for anyone interested in getting into robotics in a meaningful way Planned features: PRRR SCARA configuration - simple kinematics, high stiffness for the weight High-accuracy motion using NEMA17 steppers + TMC2209 drivers Automatic tool-changer with magnetic pogo-pin connector Z-compensation module for tool contact detection + vision-assisted picking ESP32-based controller (FYSETC E4) running FluidNC firmware. Integrated top-view camera Comprehensive Web UI + full-feature control pendant ~0.3 m reach, target ~0.5 kg payload The idea is to push how far low-cost hardware + smart design can go. I think my industrial automation background and maker soul puts me in a good position to go for this thing. This is still early, but I\u2019d love feedback from anyone who has built robotic arms or worked with SCARA kinematics. If there are obvious pitfalls or design considerations I should watch out for \u2014 I\u2019m all ears. For more details please check my hackaday.io page - https://hackaday.io/project/204557-pr3-scara"
     },
     {
-      "title": "After 2 years, I'm open-sourcing the Rebelia Hand: From DIY files to a pre-assembled robot hand",
-      "author": "venetrom",
-      "url": "https://www.reddit.com/r/robotics/comments/1p69rij/after_2_years_im_opensourcing_the_rebelia_hand/",
-      "published": 1764069004.0,
-      "thumbnail": "https://b.thumbs.redditmedia.com/uYcyp5osWT3c_NMwxc7DF2s_MsSonxX4r1fYMKW5mOw.jpg",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Rebelia Robotic Hand V2 After two years of development, I'm excited to launch the Rebelia Robotic Hand project and open-source all the design files! This is designed to be accessible at every level, with three paths to get one: DIY : For the true maker. Source the 3D-printed parts and hardware yourself using our provided BOM and files. Kit Version : We provide the validated 3D-printed parts and the hardware kit for easier assembly. Pre-Assembled : A ready-to-use, fully tested hand, perfect for developers and companies who want to integrate immediately. The project is a robust platform designed for real use, currently undergoing testing for CE Marking. Key Features & Specs: Automatic Self-Adaptive Grasp 5 DOF with a Rotatable Thumb High Payload: Up to 12 KG Safety Features: Automatic Calibration, Overload & Overtemp Protection Enhanced Grip: \"Hyper Grip\" with skin-safe silicone pads Weight: 650g The Story: From Prosthetics to Robotics The project began with a goal to create an affordable prosthetic hand. While the extreme certification costs made that path impossible for now, the core technology was too promising to abandon. I pivoted to creating a hand for the robotics community. The ultimate goal is that success with this robotic version will fund and enable the future development of a certified prosthetic version. Get Involved! We are actively looking for beta testers (both companies and developers) to put the Rebelia Hand through its paces and provide feedback. Beta partners will have special access to kit and assembled units. You can find the full project page, including all STL files, source code, and tutorials on Hackaday.io: https://hackaday.io/project/204373-rebelia-robotic-hand I welcome all your advice, suggestions, and questions below!"
-    },
-    {
       "title": "I talked about robot learning with Prof. Sergey Levine of Physical intelligence and UC Berkeley in the backseat of a Waymo for our new video series: AI in Motion",
       "author": "vincentvanhoucke",
       "url": "https://www.reddit.com/r/robotics/comments/1p6qqhk/i_talked_about_robot_learning_with_prof_sergey/",
@@ -77,6 +66,17 @@
       "site_name": "youtube.com",
       "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+    },
+    {
+      "title": "After 2 years, I'm open-sourcing the Rebelia Hand: From DIY files to a pre-assembled robot hand",
+      "author": "venetrom",
+      "url": "https://www.reddit.com/r/robotics/comments/1p69rij/after_2_years_im_opensourcing_the_rebelia_hand/",
+      "published": 1764069004.0,
+      "thumbnail": "https://b.thumbs.redditmedia.com/uYcyp5osWT3c_NMwxc7DF2s_MsSonxX4r1fYMKW5mOw.jpg",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Rebelia Robotic Hand V2 After two years of development, I'm excited to launch the Rebelia Robotic Hand project and open-source all the design files! This is designed to be accessible at every level, with three paths to get one: DIY : For the true maker. Source the 3D-printed parts and hardware yourself using our provided BOM and files. Kit Version : We provide the validated 3D-printed parts and the hardware kit for easier assembly. Pre-Assembled : A ready-to-use, fully tested hand, perfect for developers and companies who want to integrate immediately. The project is a robust platform designed for real use, currently undergoing testing for CE Marking. Key Features & Specs: Automatic Self-Adaptive Grasp 5 DOF with a Rotatable Thumb High Payload: Up to 12 KG Safety Features: Automatic Calibration, Overload & Overtemp Protection Enhanced Grip: \"Hyper Grip\" with skin-safe silicone pads Weight: 650g The Story: From Prosthetics to Robotics The project began with a goal to create an affordable prosthetic hand. While the extreme certification costs made that path impossible for now, the core technology was too promising to abandon. I pivoted to creating a hand for the robotics community. The ultimate goal is that success with this robotic version will fund and enable the future development of a certified prosthetic version. Get Involved! We are actively looking for beta testers (both companies and developers) to put the Rebelia Hand through its paces and provide feedback. Beta partners will have special access to kit and assembled units. You can find the full project page, including all STL files, source code, and tutorials on Hackaday.io: https://hackaday.io/project/204373-rebelia-robotic-hand I welcome all your advice, suggestions, and questions below!"
     },
     {
       "title": "Unmanned fully autonomous heavy-duty electric trucks in China",
@@ -112,5 +112,5 @@
       "description": "MagicLab website: https://www.magiclab.top/en From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1991895323246219551"
     }
   ],
-  "fetched_at": "2025-11-26T03:57:10.035745+00:00"
+  "fetched_at": "2025-11-26T04:32:53.462557+00:00"
 }

@@ -15,6 +15,26 @@
       "description": "It was in response to Wall Street's concern that Google's TPU chips could threaten Nvidia's dominance of the AI infrastructure industry on Tuesday."
     },
     {
+      "headline": "Nvidia stock falls after report says Google, Meta in talks for multibillion-dollar AI chip deal",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS3pHRWswSHhVeUV1Rmp4eElha212ZUNtWm1BYncxRHJfV3VHWUNLM3lKcmllTkJXVFl5NEZBOWtLNUVqc3BnbnMwVWppTmdmcGJrUGk0MGZKWXdiVmR1QkszSUtfN29FNDlzR1VZaEs2bHBGMmdmYTkzTG5rU2NyMFd5ZUQ5Vk5GUEdtR1FTX0YyTTRGS3B3QzdiRHo1OHBkQXNJUXA0aU5KTEpxVUZOSThnR1k0cHJHTkZfNmNiaHBkODVrSXAzRTh0NndtNFNMRkVLenk5bw?oc=5",
+      "pub_date": 1764104776.0,
+      "article_url": "https://finance.yahoo.com/news/nvidia-stock-falls-after-report-says-google-meta-in-talks-for-multibillion-dollar-ai-chip-deal-143725770.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Ut82HrYC3kuhAtu6ecavJw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/aec4e4a0-be47-11f0-a96b-41f33604345d",
+      "description": "Nvidia stock fell amid a report from The Information that Google is in talks with Meta for a big chip deal."
+    },
+    {
+      "headline": "Couple Rakes in $9 Billion as AI Circuit Board Shares Soar 530%",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVExFdlpQWjJNTWhPYjN5ZWRJMkkzc0FYV3VlTVlFY05ybGF4TXZuRnBsWWRCenBhZU1fdnN5QjZSR1pGX25tQXIzUk9McVRjTTQxWDNNNEkzRmtDcXUyQkxTSDV5N2dfNEk3c2F1TkpFZ0FlWWVlSFp5NnM5UzNyQVZpV3VhbHRuMUs1TEp6cjhoT3RyMk9SczZ6b05LeEF1Ym9zMWlwRHRrYWd1VURLS01R?oc=5",
+      "pub_date": 1764111617.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-25/couple-rakes-in-9-billion-as-ai-circuit-board-shares-soar-530",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "What Is Agentic A.I., and Would You Trust It to Book a Flight?",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -23,6 +43,36 @@
       "article_url": "https://www.nytimes.com/2025/11/25/travel/what-is-agentic-ai-book-flights.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Trump Orders Construction of A.I. Platform to Use Troves of Government Data for Research",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOakdfYTFXLTRTdE14dHFtSHh5MTNRb0FVWnNJTTNJZVNzRHJPQW1XdWRpME1keXJzdGUwVlVVRmdrS0dPM1hlalh4WkswNzFjcFppY01LZXExbzltTmlHZGtyS3QyZjN3d0pyTTNUdGdRRmk1WHljc1FkN0dvSXBLeml3?oc=5",
+      "pub_date": 1764032770.0,
+      "article_url": "https://www.nytimes.com/2025/11/24/us/politics/trump-ai-executive-order.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Trump signs executive order launching Genesis Mission AI project",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS2VVakFMUG1vdkk3MGRBdk5UQXdRMmVNQy1sdkQ5V1ByRDI2aW9XaW5aOTlwWkZKYTRvSndlcGpTZDAtazM4clZENGFkZG9rQnlvQ0xiNE03NURva2RheUtTV2lhRTFTS3J6SXlWdm12alowTU13bUlXWXdZMU9kQ1lKdkJHaElBcDhleWw5OUk3WUpELW1fVk5BVFhBQnNkRTM1Rmxva1hiZjQ?oc=5",
+      "pub_date": 1764127448.0,
+      "article_url": "https://www.nbcnews.com/video/trump-signs-executive-order-launching-genesis-mission-ai-project-253034053537",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2025_11/1764127041670_now_staytuned_genesis_mission_ai_251125_1920x1080-gcifjp.jpg",
+      "description": "The White House plans to launch a new federal initiative to advance the nation's artificial intelligence research, development, and scientific application. NBC News\u2019 Jared Perlo explains the \u201cGenesis Mission,\u201d which is being compared to the Manhattan Project."
+    },
+    {
+      "headline": "U.S. Launches Apollo-Style Mission to Harness AI and Big Data for Scientific Discovery",
+      "source": "Scientific American",
+      "source_url": "https://www.scientificamerican.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzctSGFzNFVzeTZQNkRWT0RyMzFUcVR3RnhxYlRBVHMxak01N1JWR0dfdmx1c3pMblBsanJRUFhJSHBxdjBaWG5QR3BRdjh3WU1zbHBaQ2toalNUbGpNY000bG9MMV9YY0lSM0xFdVRCMlhYVHFOX3c3TTFFaGpjSnRtSXdjSk5VTEJHamJFa19FS1d1VmZqa2ZGblVjUWhzY0E?oc=5",
+      "pub_date": 1764094200.0,
+      "article_url": "https://www.scientificamerican.com/article/trump-orders-genesis-mission-to-advance-ai-breakthroughs/",
+      "image": "https://static.scientificamerican.com/dam/m/5b2cd6d284700d39/original/AI-exec-order.jpg?m=1764095340.836&w=1200",
+      "description": "A new federal initiative aims to accelerate scientific discovery by uniting artificial intelligence with large federal datasets"
     },
     {
       "headline": "HP to cut about 6,000 jobs by 2028, ramps up AI efforts",
@@ -53,58 +103,8 @@
       "article_url": "https://www.businessinsider.com/hp-cut-between-thousands-jobs-due-to-ai-adoption-2025-11",
       "image": "https://i.insider.com/69262189e1a9cbb014defc1f?width=1200&format=jpeg",
       "description": "HP on Tuesday announced that it will be reducing its corporate head count by between 4,000 and 6,000 jobs due to the adoption of AI initiatives."
-    },
-    {
-      "headline": "Trump Orders Construction of A.I. Platform to Use Troves of Government Data for Research",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOakdfYTFXLTRTdE14dHFtSHh5MTNRb0FVWnNJTTNJZVNzRHJPQW1XdWRpME1keXJzdGUwVlVVRmdrS0dPM1hlalh4WkswNzFjcFppY01LZXExbzltTmlHZGtyS3QyZjN3d0pyTTNUdGdRRmk1WHljc1FkN0dvSXBLeml3?oc=5",
-      "pub_date": 1764032770.0,
-      "article_url": "https://www.nytimes.com/2025/11/24/us/politics/trump-ai-executive-order.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Behind President Trump's signing of AI initiative",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHRFeWdVVmNzM2V2dUZvNUtVemNBa1Z3VXM4and2V2dEd2xaMkRaNnlQVzdLV01hcGM1dmdzSEtUU2FKX1NIc3ZyZzkydngwX0VlRkdIWmtBX3JqbUZhcml2NHdpd1g5ZV8tX21NbUdYeTZjWjBGWW14TWVTSTZ2bzFNSXFwVjM4ZEI1dGFVZEFYQ0V6MjVtcDljTEVaWkRJ0gFmQVVfeXFMUE0ycVZUbldYVl9QUUdiX0xYeEl6cWlycGtUVUdoVE1Ma25WVTF5LUZlM2g5b3NyRTFJQUNzR1ZMeXFadVZnd0ZRc1hnWmwyU3lmV1hZX3JvaGtBa2dZTWJlSzdGRDVn?oc=5",
-      "pub_date": 1764111558.0,
-      "article_url": "https://www.nbcnews.com/video/shorts/behind-president-trump-s-signing-of-ai-initiative-253011013951",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2025_11/vert_social.00_00_33_02.Still002-9gfzix.jpg",
-      "description": "NBC News\u2019 Jared Perlo speaks with \u201cHere\u2019s the Scoop\u201d co-host Yasmin Vossoughian about President Trump\u2019s executive order to boost AI innovation in the U.S., dubbed the \u201cGenesis Mission.\u201d"
-    },
-    {
-      "headline": "Trump signs executive order launching Genesis Mission AI project",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS2VVakFMUG1vdkk3MGRBdk5UQXdRMmVNQy1sdkQ5V1ByRDI2aW9XaW5aOTlwWkZKYTRvSndlcGpTZDAtazM4clZENGFkZG9rQnlvQ0xiNE03NURva2RheUtTV2lhRTFTS3J6SXlWdm12alowTU13bUlXWXdZMU9kQ1lKdkJHaElBcDhleWw5OUk3WUpELW1fVk5BVFhBQnNkRTM1Rmxva1hiZjQ?oc=5",
-      "pub_date": 1764127448.0,
-      "article_url": "https://www.nbcnews.com/video/trump-signs-executive-order-launching-genesis-mission-ai-project-253034053537",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2025_11/1764127041670_now_staytuned_genesis_mission_ai_251125_1920x1080-gcifjp.jpg",
-      "description": "The White House plans to launch a new federal initiative to advance the nation's artificial intelligence research, development, and scientific application. NBC News\u2019 Jared Perlo explains the \u201cGenesis Mission,\u201d which is being compared to the Manhattan Project."
-    },
-    {
-      "headline": "Couple Rakes in $9 Billion as AI Circuit Board Shares Soar 530%",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVExFdlpQWjJNTWhPYjN5ZWRJMkkzc0FYV3VlTVlFY05ybGF4TXZuRnBsWWRCenBhZU1fdnN5QjZSR1pGX25tQXIzUk9McVRjTTQxWDNNNEkzRmtDcXUyQkxTSDV5N2dfNEk3c2F1TkpFZ0FlWWVlSFp5NnM5UzNyQVZpV3VhbHRuMUs1TEp6cjhoT3RyMk9SczZ6b05LeEF1Ym9zMWlwRHRrYWd1VURLS01R?oc=5",
-      "pub_date": 1764111617.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-25/couple-rakes-in-9-billion-as-ai-circuit-board-shares-soar-530",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "\u2018Sovereign AI\u2019 Takes Off as Countries Seek to Avoid Overreliance on Superpowers",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOZFhEczZ0RXdHcmI2TXN1T3ROQXBoc01jRWlqUjR3RGYzMUNoWHdDX1BzaVhRU3VLMU43aVhjTzV1QWh3REQ4a2Y1ejhhX0d3ZzJlTGJNa3lrWWFNSDdjT2ZKZkxLT3hQeVhJbEpjVThNQWNVZ0M4OG0wSTFNMVYwMW9fSEFaUjZnRjFsSG9qbzA3dXlMYTFwSnNfeEQxSjdYQnBaYVhvRktqSEtVQnp0eFgtdHgtTGJPc2dITWxxZ3NIdmVOQnpQbG9BREpHS3d4V1QzQU81VTZteGZRVDdwV2dScnpCMW40amJ0enY4OUFoYkRSNDZESFZBVnVZZmstcHpENUFwak96SU5uNWtIUDVOakRHTTZnQnZtRUMteW1mMXUtWEJRVGhhT2VFWWpxa1JseXZZdkU5cGRxNzZtWWdqSG5uamtiQ2Zlcmp1VEctNkNTeWNXcnM4TVUwa0JMOWFROG1NQkRiV1ZNSS1RWXktZFhiN0xySnUxc1BSODBSd1Bfc0V3VGphYVVleFFWYUNUVFNRV085bGNDWmpMdktrbm9rdGkxaDY0RGxjWDZES0xlbjViLTRNMjA?oc=5",
-      "pub_date": 1764043200.0,
-      "article_url": "https://www.wsj.com/tech/ai/sovereign-ai-takes-off-as-countries-seek-to-avoid-overdependence-on-superpowers-6b1689f7?gaa_at=eafs&gaa_n=AWEtsqfuEH1GpQC_XQSr593f6Pg2rZZshfKVDS2XjXmpAMEVu6s2ehV7mZ_N&gaa_ts=69267e15&gaa_sig=_4Yh_071n3ceq8h4o4cPOk6sX6yZ_jZpkCzjJldpUxqtQhEk-fcG-fC8A82dLJa1d64dA0DF2C6oMzwPl3FChQ%3D%3D",
-      "image": "https://images.wsj.net/im-60425344/social",
-      "description": "South Korea and others believe their homegrown tech sectors are strong enough to build up their own AI capabilities."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T03:57:21.899503+00:00"
+  "fetched_at": "2025-11-26T04:33:04.339006+00:00"
 }
