@@ -2,6 +2,17 @@
   "subreddit": "robotics",
   "posts": [
     {
+      "title": "I'm building v1 from ultrakill!!!",
+      "author": "Own_Minimum8642",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7l8rt/im_building_v1_from_ultrakill/",
+      "published": 1764195362.0,
+      "thumbnail": "https://b.thumbs.redditmedia.com/qDjeHSb03qCwAwtLfV5xvZEiFsg6_HY2y_nTJP-T1WA.jpg",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Knucklebuster arm prototype test, its a test torso that i Will upgrade till It resembles v1. The arm has one nema 17 stepper motor in the upper arm and a nema 14 at the middle, maybe i'll use a Raspberry pi 5 with ai for controlling everything but, i'm open to suggestions!"
+    },
+    {
       "title": "Are World Models the Future of Robotics?",
       "author": "Nibbana_0",
       "url": "https://www.reddit.com/r/robotics/comments/1p7bjzq/are_world_models_the_future_of_robotics/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "If you\u2019re in Vegas for re:Invent and want something that\u2019s not another hotel ballroom social, there\u2019s a BattleBots Arena event happening. Real arena. Real bots. Real destruction. They\u2019re letting attendees meet the builders and even try out some of the arena hardware. Engineer-only RSVPs."
-    },
-    {
-      "title": "Fully autonomous robots commanded using human language",
-      "author": "Cachee0",
-      "url": "https://www.reddit.com/r/robotics/comments/1p5zfx8/fully_autonomous_robots_commanded_using_human/",
-      "published": 1764034003.0,
-      "thumbnail": "https://external-preview.redd.it/YnIxem91YWoyYjNnMUL4fmj5eZqfL6BH7Tof4T7zO3TRp33vJeeMw_E4m1aW.png?width=640&crop=smart&auto=webp&s=45c4e79acc02477ced02da057aa5348e65a9a750",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "From Dimensional OS: https://x.com/dimensionalos"
     }
   ],
-  "fetched_at": "2025-11-26T21:59:04.632254+00:00"
+  "fetched_at": "2025-11-26T22:43:52.486467+00:00"
 }

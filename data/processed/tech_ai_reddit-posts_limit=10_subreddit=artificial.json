@@ -79,6 +79,17 @@
       "description": "Uber's Project Sandbox used contractors to train AI for Google. On Monday, Uber told some of them their work was over early."
     },
     {
+      "title": "AI Companions Are the Next Interface",
+      "author": "karakitap",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7lh6n/ai_companions_are_the_next_interface/",
+      "published": 1764195940.0,
+      "thumbnail": "https://external-preview.redd.it/1Xm4MxJ3_2xSGYcsu2ytouWt2DjLVDFzZSvHAwmiUss.png?width=640&crop=smart&auto=webp&s=52214a2602b4b78a361fe8e24f58450708d96b95",
+      "external_url": "https://www.emotionmachine.com/blog/ai-companions-are-the-next-interface",
+      "site_name": "Emotion Machine",
+      "favicon": "https://www.emotionmachine.com/favicon.ico",
+      "description": "Computer interfaces have evolved from mainframes to smartphones. The next interface won't be hardware\u2014it will be AI companions that help us think clearly and restore coherence."
+    },
+    {
       "title": "Trying AI apps. Fountain photo shoot.",
       "author": "focusclickflash",
       "url": "https://www.reddit.com/r/artificial/comments/1p7jzjo/trying_ai_apps_fountain_photo_shoot/",
@@ -99,18 +110,7 @@
       "site_name": "WIRED",
       "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
       "description": "Project Prometheus has raised over $6 billion in funding and hired over 100 employees, a handful of whom joined through its acquisition of General Agents, according to records and sources."
-    },
-    {
-      "title": "Large language mistake | Cutting-edge research shows language is not the same as intelligence. The entire AI bubble is built on ignoring it.",
-      "author": "creaturefeature16",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6gmqs/large_language_mistake_cuttingedge_research_shows/",
-      "published": 1764087356.0,
-      "thumbnail": "https://external-preview.redd.it/lC7z3Fsq6UEr94ZYd9rWjWNxEtcdqTa7VLaAUZYGnAc.jpeg?width=640&crop=smart&auto=webp&s=6d9096dd036bb20e3c7345c77f4b7474146fbace",
-      "external_url": "https://www.theverge.com/ai-artificial-intelligence/827820/large-language-models-ai-intelligence-neuroscience-problems",
-      "site_name": "The Verge",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "description": "As currently conceived, an AI system that spans multiple cognitive domains could, supposedly, predict and replicate what a generally intelligent human would do or say in response to a given prompt. These predictions will be made based on electronically aggregating and modeling whatever existing data they have been fed. They could even incorporate new paradigms into their models in a way that appears human-like. But they have no apparent reason to become dissatisfied with the data they\u2019re being fed \u2014 and by extension, to make great scientific and creative leaps. Instead, the most obvious outcome is nothing more than a common-sense repository. Yes, an AI system might remix and recycle our knowledge in interesting ways. But that\u2019s all it will be able to do. It will be forever trapped in the vocabulary we\u2019ve encoded in our data and trained it upon \u2014 a dead-metaphor machine. And actual humans \u2014 thinking and reasoning and using language to communicate our thoughts to one another \u2014 will remain at the forefront of transforming our understanding of the world."
     }
   ],
-  "fetched_at": "2025-11-26T21:59:00.849799+00:00"
+  "fetched_at": "2025-11-26T22:43:49.765563+00:00"
 }

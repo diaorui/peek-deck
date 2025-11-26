@@ -5,20 +5,10 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitcoin, Ethereum, XRP Jump as Rebound Gathers Pace. Where Cryptos Go Next.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOVjhRS0x3UnF5em4tRTEwa2pNZFk4OGprZ1NJSE9rRlp5R1lQWkd1TmFMbWNPNHJpb1FUTjFBTDNUb1RCbF9fMzItVUxoMWx2TjNDYWNCVzlsUnBNTUt6VVBxaVUwb2VUYkk1X1BrLUE1NV9fUW1XazNZczA1X19PemlreFNrVW1id0xWUEQzaDVIc25nUHE2alQ3RWZhSl9Rc0dGM0EzM3gzRFBfYk9aLU5tVERTRHJUazV4ekFjNjR2bHpxdjRZR3hxVmpBeFpNTVhOd1NGWXlOSVF6VEFZeHR0amREaXZMdmJzU0FoR25XbFlabDh1VVdYUE9wVU9iTTBXU0ZSN3Fwai1yb09EcGxvdWQ5VnROSW5LNW91ckZYX0hjZzVQSWRnWDNzcC1taGFJMnd2N2VpRzVrRUJYcF9hWmU0UkswX2h2bHFva2J4LVdUcnFVWk1oSlUwNk9QMGpNcE5FcEtCZzU1Wnd2dU92SFZlc00wS2RXZWZuSGlYQWppWFBCNA?oc=5",
-      "pub_date": 1764064980.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-rebound-dea5ac89?gaa_at=eafs&gaa_n=AWEtsqeUd5HynAT2mN4vjps9dozxgUuaRsjegDgycVI9dam78QSQ7E5PYnDB&gaa_ts=69277bab&gaa_sig=PrQpowEP5COs1v8Rh5cIuhfaVmEMAqGjGyUzqCvA-hzwIhl6cE8hyB6PMmJfr_AAsuh1s2yWxVYHLVaqXc2PlA%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin Reclaims $90K Ahead of Thanksgiving as Ethereum, XRP Bounce Back",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZG9jcmVjRFkzaEFQNG1sRUp3OEVFaEYxVWFickpycWxFbkxXaHJXcFFiTWhsMzVGcjJqV0YwTlpYY3pMRWR4anVJU0JXUU8tWkdLOVVWVWNLd3VyWFdCdGwtcU1qQUd4WXpqM0hGQ1JKU3NnVkxjOXgxQWE3YzY4T043c0NHV3drT05XTlUyWkVqNnJS?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZG9jcmVjRFkzaEFQNG1sRUp3OEVFaEYxVWFickpycWxFbkxXaHJXcFFiTWhsMzVGcjJqV0YwTlpYY3pMRWR4anVJU0JXUU8tWkdLOVVWVWNLd3VyWFdCdGwtcU1qQUd4WXpqM0hGQ1JKU3NnVkxjOXgxQWE3YzY4T043c0NHV3drT05XTlUyWkVqNnJS0gGcAUFVX3lxTE5UaVFhSUhtV0FxdlhVODJGVTNFZkN3Z3Fnc0loWVNMbnlpZWV0cGFyV3hvbUk0R1hkRFA3Y2d0WGp4WXFDTmlDUWpqMFNqQnFkcFVYNDc3eS02Y19wZHQwOXc5VGdIQlRJMFB0ODE1bVczbkFkM3B1LVpwYjAyTGZ5VzhRelpWU0dCaWJWMUQybnRJdDdweTZVQ1d2Mg?oc=5",
       "pub_date": 1764183649.0,
       "article_url": "https://decrypt.co/350151/bitcoin-reclaims-90k-ahead-thanksgiving-ethereum-xrp-bounce-back",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png",
@@ -33,6 +23,16 @@
       "article_url": "https://www.fool.com/investing/2025/11/25/xrp-vs-ethereum-crypto-comparison-2025/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F840357%2Fgettyimages-1402808568-1200x798-36b7a2e.jpg&w=1200&op=resize",
       "description": "Is XRP or Ethereum the better pick for long-term investors?"
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP Jump as Rebound Gathers Pace. Where Cryptos Go Next.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOYUdwc3B3Vnd0cjVJTFc0SEhUbTdhSWt2RU9HUHl6MXl4c0dvdkc0TzkyLURwZjcyZHlZVHYxWFRUTldpaDg5Ym9tdGQ0VHVJRU1VUlI3UjJhaTBrMXA3OTVTYUgxSzhfNzhRUTZMV3lSQ0I4ODlNeTZjcGVOTG1XcmlCMTBNMmZzTy16TlU0Yk0tQXNCV2tjWDhfcENIaGo4RDRDTFowOUpIVTd1MlprUEswNVZudjVWZG9oQnVsQ0swUHJxOWxDdFI2b0U0eWhzazFzWjZCN3FGbC0zQVlpM3JJSzdDRUhfd2g4NFNzVmJWRmNueWtBamFmalduUjRkRkRPcnhWWjhoMEtVRmgwUEVPRkw5cW5DYnQ1NURCZ2V2RG1MM01TaGJkUHZVUm1ab2lxZTNxQVRNd1Uxdm44bUZnWTU0OWJ4b3NCeUpTSmJDUUhCWFFrNEVsM0t1SE1QUFJINWVrUlcwY3AwcG44d0tBOHhlTXNTbjBjQnB6NkdzY1ZWdk9XYw?oc=5",
+      "pub_date": 1764064980.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-rebound-dea5ac89?gaa_at=eafs&gaa_n=AWEtsqdVVJrec4r-l0UEwvsARRcSfXQ3vwbtvk1ZqpgUwLtNZ1waDx7RbGvF&gaa_ts=6927862b&gaa_sig=H0Pxk4Z40Kvw5-wCahqxwJ5U7VYTuq3AS4XoSJaivWc6HUewPWnrc5xP1yZi_dE27WeAtH7SmWje10nKtjsscQ%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Ethereum Treasury News: BitMine (BMNR) Bought Nearly 70K ETH",
@@ -75,6 +75,16 @@
       "description": "Joseph Chalom breaks down Sharplink\u2019s latest earnings and why the company is pivoting from gaming to an Ethereum-powered future built on transparency."
     },
     {
+      "headline": "Better Crypto Buy: XRP (Ripple) vs. Ethereum",
+      "source": "Nasdaq",
+      "source_url": "https://www.nasdaq.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QUmpjMFNQRzJEdmRMdXlnN2R0MnJTNWN4WEFrbUE2VXpKS09La3JjbTc5MjZRSE8wNHpNQnpRaktDeGFZWUxkbDJHcXUyZXBwQ283NHI4YVZ3QUtMNjVwTlhDaUNlc1BQRHNPWnl3UEtILTg0NU5Ed200MjY?oc=5",
+      "pub_date": 1764120060.0,
+      "article_url": "https://www.nasdaq.com/articles/better-crypto-buy-xrp-ripple-vs-ethereum",
+      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+      "description": "Key PointsStablecoins have exploded in popularity and could become a multitrillion-dollar market, according to Citi Group."
+    },
+    {
       "headline": "Why is Ethereum No Longer the Top Choice for Institutions?",
       "source": "BeInCrypto",
       "source_url": "https://beincrypto.com",
@@ -93,18 +103,8 @@
       "article_url": "https://markets.businessinsider.com/news/currencies/ltin-solstice-staking-bitcoin-suisse-and-obol-launch-institutional-grade-ethereum-dvt-cluster-1035597256",
       "image": "https://app.chainwire.org/storage/uploads/users/LTIN_resized_1200x720_1_1764104143h3WLv3G7TN.jpg",
       "description": "Vaduz, Germany, November 26th, 2025, ChainwireLiechtenstein Trust Integrity Network (&ldquo;LTIN&rdquo;), Solstice Staking AG..."
-    },
-    {
-      "headline": "Tom Lee Sticks To $7,000 Ethereum Price Target, But Only After A Dip To $2,500",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYXoxOHVvX3BRejlBUVMtQVpVbHNBMV9LNVIwSU1icFJmWXdJdTdRRXIwaC05RGVRZVptN0kzaW0tbFRjcktXNHVtQ0JNT29BV084c296U3RoSnUtQWtjX2FGQlJMWlRyWmc3MlhvUjVtREgtbXdXekg2Skk3UlZyMjg1ck8tSWxYQWtVamVXUi15LUdIOUlxYlI0Q21ZcE9jSGZvc0tmZXVLQ3JBbDJaNDdXV0lhYXRKLTVid2I4UzRqWFpabExpYkxkMDZFbmQ2?oc=5",
-      "pub_date": 1764093716.0,
-      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/25/11/49065658/tom-lee-sticks-to-7000-ethereum-price-target-but-only-after-a-dip-to-2500",
-      "image": "https://cdn.benzinga.com/files/images/story/2025/11/25/Ethereum-Coin.jpeg?width=1200&height=800&fit=crop",
-      "description": "Tom Lee is sticking to his $7,000 to $9,000 Ethereum (CRYPTO: ETH) target, despite predicting a crash towards $2,500"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T21:59:21.508755+00:00"
+  "fetched_at": "2025-11-26T22:44:12.038687+00:00"
 }
