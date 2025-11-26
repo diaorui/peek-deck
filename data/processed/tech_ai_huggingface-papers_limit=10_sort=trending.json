@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16719",
       "arxiv_url": "https://arxiv.org/abs/2511.16719",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16719.png",
-      "upvotes": 75,
+      "upvotes": 76,
       "num_comments": 2,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
@@ -31,11 +31,11 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 92,
+      "upvotes": 93,
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
-      "github_stars": 3732,
+      "github_stars": 3811,
       "project_page": "https://ai.meta.com/sam3d/"
     },
     {
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2511.18423",
       "arxiv_url": "https://arxiv.org/abs/2511.18423",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.18423.png",
-      "upvotes": 128,
+      "upvotes": 130,
       "num_comments": 2,
       "published_at": "2025-11-23T07:29:33.000Z",
       "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2511.10647",
       "arxiv_url": "https://arxiv.org/abs/2511.10647",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.10647.png",
-      "upvotes": 85,
+      "upvotes": 86,
       "num_comments": 4,
       "published_at": "2025-11-13T13:59:53.000Z",
       "github_repo": "https://github.com/ByteDance-Seed/depth-anything-3",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-26T09:11:43.013034+00:00"
+  "fetched_at": "2025-11-26T10:16:39.367689+00:00"
 }
