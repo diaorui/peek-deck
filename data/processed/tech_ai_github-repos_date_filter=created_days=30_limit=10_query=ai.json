@@ -20,7 +20,7 @@
         "ai-trading",
         "aitradingos"
       ],
-      "updated_at": "2025-11-26T19:41:12Z"
+      "updated_at": "2025-11-26T20:08:53Z"
     },
     {
       "full_name": "liujuntao123/smart-excalidraw-next",
@@ -66,8 +66,8 @@
       "description": "AI-powered git commit message rewriter using Ollama or GPT",
       "url": "https://github.com/f/git-rewrite-commits",
       "preview_image": "https://opengraph.githubassets.com/c6b09847c72773387ee5104f29860f48c86cb236c664f2498a9824bd0f2f1b88/f/git-rewrite-commits",
-      "stars": 930,
-      "stars_display": "930",
+      "stars": 931,
+      "stars_display": "931",
       "forks": 39,
       "forks_display": "39",
       "language": "TypeScript",
@@ -85,10 +85,10 @@
       "description": "\u4e00\u4e2a\u96c6\u5185\u5bb9\u7b56\u5212\u3001AI\u6587\u6848\u81ea\u52a8\u751f\u6210\u3001TTS \u6279\u91cf\u81ea\u52a8\u914d\u97f3\u3001(AI)\u56fe\u7247\u7d20\u6750\u5408\u6210\u3001ASR\u81ea\u52a8\u63d0\u53d6\u8bed\u8a00\u5b57\u5e55\u811a\u672c\u3001AI\u81ea\u7531\u521b\u4f5c\u4e8e\u4e00\u4f53\u7684(\u77ed\u89c6\u9891)\u751f\u6210\u5de5\u4f5c\u7ad9\u3002\u65b9\u4fbf\u7ba1\u7406\u6bcf\u671f\u7684\u89c6\u9891\u9879\u76ee\u3002",
       "url": "https://github.com/Norsico/Video-Materials-AutoGEN-Workstation",
       "preview_image": "https://opengraph.githubassets.com/0ca6ecdb80ca700af163d1d6071825efe12a7b8e56fcb982f95131834556cf81/Norsico/Video-Materials-AutoGEN-Workstation",
-      "stars": 886,
-      "stars_display": "886",
-      "forks": 180,
-      "forks_display": "180",
+      "stars": 887,
+      "stars_display": "887",
+      "forks": 181,
+      "forks_display": "181",
       "language": "Python",
       "topics": [],
       "updated_at": "2025-11-23T06:39:49Z"
@@ -117,8 +117,8 @@
       "description": "EverMemOS is an open-source, enterprise-grade intelligent memory system. Our mission is to build AI memory that never forgets, making every conversation built on previous understanding.",
       "url": "https://github.com/EverMind-AI/EverMemOS",
       "preview_image": "https://opengraph.githubassets.com/fea5bac69284b6fc84ca2d9ce9d7c3999b01d406d1a1ee24250c634becff8d81/EverMind-AI/EverMemOS",
-      "stars": 756,
-      "stars_display": "756",
+      "stars": 757,
+      "stars_display": "757",
       "forks": 76,
       "forks_display": "76",
       "language": "Python",
@@ -171,8 +171,8 @@
       "description": "\ud83d\udd02 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
       "url": "https://github.com/AnandChowdhary/continuous-claude",
       "preview_image": "https://opengraph.githubassets.com/f1dc250575e19a1dc20562052f20b234d495738cea1ea04f18fb43851f3999c5/AnandChowdhary/continuous-claude",
-      "stars": 680,
-      "stars_display": "680",
+      "stars": 682,
+      "stars_display": "682",
       "forks": 45,
       "forks_display": "45",
       "language": "Shell",
@@ -190,6 +190,6 @@
   "search_query": "ai created:>2025-10-27",
   "days": 30,
   "limit": 10,
-  "total_count": 218822,
-  "fetched_at": "2025-11-26T19:51:57.812364+00:00"
+  "total_count": 219057,
+  "fetched_at": "2025-11-26T20:57:07.446792+00:00"
 }
