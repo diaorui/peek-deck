@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-11-26T23:19:10.504390+00:00",
+  "data": "Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimized for speed and resource usage, achieving sub-second inference with 8 NFEs and fitting within 16GB VRAM. It excels at photorealistic generation, bilingual text rendering (English/Chinese), and strong instruction adherence, making it suitable for rapid content creation on consumer hardware.",
+  "model_id": "Tongyi-MAI/Z-Image-Turbo"
+}

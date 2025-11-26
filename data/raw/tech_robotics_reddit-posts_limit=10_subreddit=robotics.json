@@ -46,6 +46,17 @@
       "description": "Kyber Labs on \ud835\udd4f : \"Our hand rotates a nut on a bolt at super high speed, fully in real time with no edits. This is possible because it\u2019s fully backdrivable and torque transparent so it adapts naturally to the nut. The result is simpler, more reliable manipulation for software and learning systems.\": https://x.com/KyberLabsRobots/status/1993060588789137785 Website: https://kyberlabs.ai"
     },
     {
+      "title": "Custom robotics controller with ESP32 S3",
+      "author": "kr4shhhh",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7hkhf/custom_robotics_controller_with_esp32_s3/",
+      "published": 1764186615.0,
+      "thumbnail": "https://external-preview.redd.it/G7q-XRhjmDFn4Bp5qh57LY15kdunbvtt-m_kNsneLg8.jpeg?width=320&crop=smart&auto=webp&s=31790356a4ef64a851121003da3c4db7e3c4cd3e",
+      "external_url": "https://youtu.be/f70Bf-UjK0I",
+      "site_name": "youtu.be",
+      "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
+      "description": "I wanted to share this custom robotics controller that I built with my son. We used two ESP32 S3 chips that cooperate to control everything. One is responsible for the user interface stuff, and the other is dedicated to motor control. I\u2019ve used older ESP32 WROOM modules in the past. The native USB on the S3 is super nice. Kind of a shameless plug, but I figure lots of people out there are building similar things. Feedback is welcome!"
+    },
+    {
       "title": "Looking for ABB 6.05.02 the FULL version, software- School lost the entire FTP drive.",
       "author": "Traditional-Ad-1441",
       "url": "https://www.reddit.com/r/robotics/comments/1p7h8i4/looking_for_abb_60502_the_full_version_software/",
@@ -55,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hi ..need spot of help if anybody can help me find a version of the robotstudio the 6.05.02 version. I need the FULL zip, my school lost the ftp drive with it on there- abb has been no help on the old version, no clue why, anyway.. file will be like RobotStudio_6.05.02_Full.exe or .zip it will have the vision Ideally it will have these files in it. I know its a BIG ask but if anybody can help point me in the right direction, super appreciated. Will buy you a coffee to boot. Cheers peeps have a good holiday. abb.integratedvision.6.05.x.msi abb.smartgrippervision.6.05.x.msi abb.robotics.visioninterface.6.05.x.msi RSAddins.msi"
+    },
+    {
+      "title": "Kinematic closed loop chain-URDF",
+      "author": "ExactCompetition7680",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7lybs/kinematic_closed_loop_chainurdf/",
+      "published": 1764197133.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This is my hail Mary attempt, I would appreciate any lead on this. I am doing a dynamic simulation on a closed loop chain(double wishbone suspension) and been trying to use Isaac sim for that. I just cant convert the loop into urdf from solidworks. I tried matlab scripting(designing the peripheral parts and features is a pain using scripts and simscape(keep getting kinematic singularity error in joints). My best bet for physical modeling is isaac sim but getting the kinematic chain in there is the most difficult part. Please let me know you guys are facing similar issue or solved such issue. Thanks!"
     },
     {
       "title": "Rugged prototype to streamlined prototype",
@@ -79,17 +101,6 @@
       "description": "I am trying to help my friend with a project he has to do for school and he doesnt know what kind of parts he needs, if you know what parts he needs and the name of them, thanks for your help Ps: for the coding what should he use? This is what he asked me: Im building a car with sensors that detect plastic and metal and can distinquish and sort them from trash to recyclables I need a script and coding for that Which i dont got yet The scripting and coding is the hardest part"
     },
     {
-      "title": "Custom robotics controller with ESP32 S3",
-      "author": "kr4shhhh",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7hkhf/custom_robotics_controller_with_esp32_s3/",
-      "published": 1764186615.0,
-      "thumbnail": "https://external-preview.redd.it/G7q-XRhjmDFn4Bp5qh57LY15kdunbvtt-m_kNsneLg8.jpeg?width=320&crop=smart&auto=webp&s=31790356a4ef64a851121003da3c4db7e3c4cd3e",
-      "external_url": "https://youtu.be/f70Bf-UjK0I",
-      "site_name": "youtu.be",
-      "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
-      "description": "I wanted to share this custom robotics controller that I built with my son. We used two ESP32 S3 chips that cooperate to control everything. One is responsible for the user interface stuff, and the other is dedicated to motor control. I\u2019ve used older ESP32 WROOM modules in the past. The native USB on the S3 is super nice. Kind of a shameless plug, but I figure lots of people out there are building similar things. Feedback is welcome!"
-    },
-    {
       "title": "Building a block-based IDE for ROS2 (like Blockly/Scratch) - Would you use it? Is it still relevant with AI tools?",
       "author": "Purple_Fee6414",
       "url": "https://www.reddit.com/r/robotics/comments/1p79nol/building_a_blockbased_ide_for_ros2_like/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I'm a robotics teacher (university + kids) and I'm considering building a visual block-based programming IDE for ROS2 - think Scratch/Blockly but specifically for robotics with ROS2. I know solutions like **Visual-ROS (Node-RED) and ROS-Blockly** exist, but they feel geared more toward ROS-agnostic flows or are stuck on ROS 1. Why? After teaching ROS2 to beginners for a while, I see the same struggles: the learning curve is steep. Students get lost in terminal commands, package structures, CMakeLists, launch files, etc. before they even get to the fun part - making robots do things. A visual tool could let them focus on concepts (nodes, topics, services) without the syntax overhead. I've got an early prototype that successfully integrates with ROS2, but before I invest more time building this out, I need honest feedback from actual ROS developers. Would you actually use this? Either for teaching, learning, or as a rapid prototyping tool for quickly sketching a system architecture? What features would make it genuinely valuable? Visual node graph creation? Drag-and-drop topic connections? Auto-generated launch files? Real-time visualization? Something else? 3.The AI Question: With tools like ChatGPT/Claude/Cursor getting better at writing code, do block-based tools still have a place? Or is this solving yesterday's problem? Platform Question: I'm building this for Windows first. I know most ROS developers use Ubuntu, but I'm thinking about students/teachers who want to learn ROS concepts without dual-booting or VM hassles. Is Windows support actually useful, or should I focus on Linux? Any honest feedback is appreciated\u2014even if it's \"don't build this.\" I'd rather know now than after months of development. Thanks!"
-    },
-    {
-      "title": "For anyone who loves robots more than cocktails",
-      "author": "TheLostWanderer47",
-      "url": "https://www.reddit.com/r/robotics/comments/1p6yyma/for_anyone_who_loves_robots_more_than_cocktails/",
-      "published": 1764133092.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "If you\u2019re in Vegas for re:Invent and want something that\u2019s not another hotel ballroom social, there\u2019s a BattleBots Arena event happening. Real arena. Real bots. Real destruction. They\u2019re letting attendees meet the builders and even try out some of the arena hardware. Engineer-only RSVPs."
     }
   ],
-  "fetched_at": "2025-11-26T22:43:52.486467+00:00"
+  "fetched_at": "2025-11-26T23:18:44.498629+00:00"
 }

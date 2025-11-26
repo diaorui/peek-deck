@@ -8,9 +8,9 @@
       "description": "NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/gemini/claude)self-evolution, and real-time dashboard",
       "url": "https://github.com/NoFxAiOS/nofx",
       "preview_image": "https://opengraph.githubassets.com/9ba5f7e4ca1bf7079776fe1839ddb80d9da0b7566fa37fb55e37e4870588c003/NoFxAiOS/nofx",
-      "stars": 8119,
+      "stars": 8120,
       "stars_display": "8.1k",
-      "forks": 2140,
+      "forks": 2142,
       "forks_display": "2.1k",
       "language": "Go",
       "topics": [
@@ -68,8 +68,8 @@
       "preview_image": "https://opengraph.githubassets.com/c6b09847c72773387ee5104f29860f48c86cb236c664f2498a9824bd0f2f1b88/f/git-rewrite-commits",
       "stars": 932,
       "stars_display": "932",
-      "forks": 39,
-      "forks_display": "39",
+      "forks": 40,
+      "forks_display": "40",
       "language": "TypeScript",
       "topics": [
         "git",
@@ -171,8 +171,8 @@
       "description": "\ud83d\udd02 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
       "url": "https://github.com/AnandChowdhary/continuous-claude",
       "preview_image": "https://opengraph.githubassets.com/f1dc250575e19a1dc20562052f20b234d495738cea1ea04f18fb43851f3999c5/AnandChowdhary/continuous-claude",
-      "stars": 683,
-      "stars_display": "683",
+      "stars": 686,
+      "stars_display": "686",
       "forks": 45,
       "forks_display": "45",
       "language": "Shell",
@@ -190,6 +190,6 @@
   "search_query": "ai created:>2025-10-27",
   "days": 30,
   "limit": 10,
-  "total_count": 219259,
-  "fetched_at": "2025-11-26T21:59:00.967943+00:00"
+  "total_count": 219463,
+  "fetched_at": "2025-11-26T23:18:40.529513+00:00"
 }

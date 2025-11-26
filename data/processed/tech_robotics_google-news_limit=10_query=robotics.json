@@ -5,26 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Robots and AI Are Already Remaking the Chinese Economy",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOdVVZT2ZNaU5GX2lsNjk5TUhaS1BSRTRwM0JhTzEwM29nMHlKMVFfRHZRc3BJaHB3N3pWMEJ2RTlmdlMzenR2bmFuMWM1MHAzaC15VC1YQkFOZmZYbXlRcDdFRFNKUElGdWR0elhTRHBZTW9PYzJnbm5SMDVNOG5mMF9lRmtWUXNOYVlWT2VKWHFTeHU4ZGhHOXFCZnJ3U1l5dTNXdnMtZEVMbHlGT1pwV0NOLVJkaENRVG55d0NKNUlVQjNQRjVXN1ZCSkN3Yi13SHc5azhNWWNwa1VsV0dINkxzeW1weS01QWNWY1NrUUJyUjdkNmhYUzNNemhkMG9sWnRqWXR1bWdjMWJxaDQtb2RxandJQTJVakNBWDl2WU9OOXo4dW9VVUt5cE1YcjNoNWlNN1VlNUJieVhVdm9qSkc1M2RSRTV5NG4tb0IxelVHQTNuaGVyb2R4SmdQVThVb082QXVIQ183R3B1VWctUEFtTExFbnY4Smc?oc=5",
-      "pub_date": 1764036000.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-robots-china-manufacturing-89ae1b42?gaa_at=eafs&gaa_n=AWEtsqdF6QJ2oajr9a8ljgtwmA-LXmuJfrw-4k75TFJnDMlchJufvBmyac_D&gaa_ts=6927862c&gaa_sig=ctSfROoe1ZFotcX8wv2twB30Vw2dwkBPicOloD-G_6HGsXpPaoIDClsdmp_cdYWtm8O8j8kEtHiuh3idALk77g%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Tesla is bleeding AI talent to a small new robotics start-up",
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUTFBMXRyMGlCSXBwQVpQU09KTnpFTG1JdWQ1T2dtVC1OdXFOQWt3VEIxbXlWRUFvLWZzdVRSbEtZVmd6dGE4TXcwR1VFVDZOS0FQZGxIRWpUekZaejFITjMwNV9kQlBtaTJFVU8xcFZENi1TYUxVaFpBUk1JWnNXZXIyVm5CQ05lR2F6bQ?oc=5",
-      "pub_date": 1764017880.0,
-      "article_url": "https://electrek.co/2025/11/24/tesla-bleeding-ai-talent-small-new-robotics-start-up/",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/11/Sunday-Robotics-Tesla-engineers.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "description": "Tesla\u2019s AI and robotics divisions are facing a significant \u201cbrain drain\u201d as a stealth startup called Sunday Robotics emerges with..."
-    },
-    {
       "headline": "Tesla accused of infringing robotics patents in new lawsuit",
       "source": "Teslarati",
       "source_url": "https://www.teslarati.com",
@@ -35,12 +15,12 @@
       "description": "Tesla is being accused of infringing robotics patents by a company called Perrone Robotics, which is based out of Charlottesville, Virginia. The suit was filed in Alexandria, Virginia, and accuses Tesla of knowingly infringing upon five patents related to robotics systems for self-driving vehicles. The company said its founder, Paul Perrone, developed general-purpose robotics operating [\u2026]"
     },
     {
-      "headline": "Tesla sued for allegedly infringing robotics patents",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSjBpR0pSR2Y0eHg5NmNtU3JVNGJCLWZPcGRRdmFkSEUyeGx6dkFwUGQtNVFlSWdBWE42WjdXVVlxZkFfVEp4UFNKLVpRdmd6R2s2S1BkN1U1dzFmTzFrQ3U4a1kyVTBqbllBWFQzUW9rYnFPWHM3eFlUaU95QmlkMHdrNXQxa0d1QVUzVmpnb1B5WUNxdERtaXZma2Q3NWxYb2dZ?oc=5",
-      "pub_date": 1764020262.0,
-      "article_url": "https://www.reuters.com/legal/litigation/tesla-sued-allegedly-infringing-robotics-patents-2025-11-24/",
+      "headline": "Robots and AI Are Already Remaking the Chinese Economy",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOWUNKYVJKMEYtVFV0ZkZnVU1PaXVLdDlsaUxhWDRGQU54Zm5sVXRqNTF1VDRzaXhuUTNEYzc5UF9nVzRhMjZqWlBIbk5NY1l5MDA4MklPeEI4WGVKeVk2WERXRUtoR0RDTTZ5NWNDTUR0NFlRRmtZck5RQVhHRm5LMHlsdXlCWlNrWlRGb2tUaHU5dkI3ejFVbTROTzlQWUJMdDRpYU1mY2E2R2dEbUpNOVJrR3ZCMjFfTHhoSmJWblVfeV8tSW5YQ1BIUHpaeWpnNklhQlBaV1dpUEFsT1VmSVBrYUFkankwRUdJaGhqcTYxWk8wVkR5UXJBVWxiUnZDcnJTaXV3RkhmQ1VIM191cExvaUt5aE4wc1JZX0pXYk1CbFpoeFZINW9wd2tjQk1OcUZhUWRDalFTUk90ZDZhcTJJbUxCbDZJdFFxMHdTbldEZDRRTWgyemZtWUh5VVNCUk5xX3ZSYm40M3ZZUm1UaGJmcEhCMjhxenc?oc=5",
+      "pub_date": 1764036000.0,
+      "article_url": "https://www.wsj.com/tech/ai/ai-robots-china-manufacturing-89ae1b42?gaa_at=eafs&gaa_n=AWEtsqdKn5I508A_xrep2qWzz2hoHw1fEskqtAR2PUqvzLCzsf0HNXfR6oby&gaa_ts=69278e58&gaa_sig=PHyCaggrvu3SrVgIzJSHfloSOIsx0OCWLIXBbawSRlvvrL4rbznEzFzVQ5QP0GknWsZy8b2zCX_63xnh_hE8EA%3D%3D",
       "image": null,
       "description": null
     },
@@ -58,11 +38,21 @@
       "headline": "This $46 billion robotics stock is up nearly 40% after a big win. Could more gains be in store?",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPNExMT2VDZEg0aFdDV3Jia0lKLUhwQmdER3F0RHd2a0JRdmNsazk2eUljSE5YV0Vaalk4SHhZUlZNT0xlSmlnQy1MMHVCN1FLUGk2eTRoSXVVY2FRcWFNUHdSMlJzZ2VMUjZJTmxXc0pLal9JT2hDamNHRzdfNDEycDdOUkdZZEgyR3l3bExIQkh5M3RIWHF6Qk1RMUZmY0pPdGl3RUZZZmJNT3Q3M3U0SkxUWWVSelRRRGYwcE9LdUdQY2I1WVFVSU5SRFNhX3JaWThHY1QzVS1KelZkRjNtMTY3OWRqQkdUa3dQY0dWQzFJSFFNNDRaaWFKcFp4enQ2X2piRll3akMtZm4tMWl1dkJ1NU5vdU5SSzYzeDFyV1FQaW5UQnNUSzdDS1FRa083VWpRcV9GYnV4cTI2NFp5NzlSSkE1VFdTSVNiaV9acDBWVEJ4dlpSeEo5YWoyMjFuWFEwX0RTbmpQN0E3NXhJYU1Nb0JjcUNsVXNtd05id2dsYzFScGh4YVk3b3ZYdGg0NFpKNDBROXAxSktEUFZFQjR6SXFtdUtnb1paeGIwZS1lSmZWR243OXpRQXdsLUJrNV9KZDFka1JCWkU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNc0tfZTBFS1U2Y3ZxWFNQYUJrTlY5Q3pJYzhtV2VCdDFBZlFVcE9GTkRDeGhvNVdHcW4tVDNPc3B1UVFQUXJIYUtNV252M0VfbE1NbV91VDJySmZVX0VjQlY1NGRFR1dOOTBCczhKdGlnUmF1S0VFblNRWHdZUFpWSlNqZVN6Rnh5VG9iSDZYVDEtMGwzSEVja3R2TVQxTi0zeW8tMmtnU2ZYUGFXUjNGWGpmdU5TOTBoV3dFVlR4VS1xVG95Y1FRMGdpNjljdUtrUUhwSmYwaWpmMHVwdjlyM1hsX2N5YkxtaFYtR3V1X2hfX3NDWEEzdmtSTGMzRnZtNG9YLUdoV0h5RWw3dEM5MlByLTdWLXplYWlBY1M4eFJCUjdzbm1BZW8yamN0eS1HRFFLNjNwZUpyaEg3dDhjMG1yZ3JpV0JMNVVrUWJ6Y1ZuUmttV2tFN1lHX0I5V0NYbEVyVHBabGh2WHh2WkVBWDJhanFmeV80a3l1LXRrWGh6ZFIwcnFVNDNGRjVjVmY5VmdVQnhZbUprWlpKTFcyS2J2XzNpN2tfdDc3SlYzbWpuV1lwMkNHcGIySjBHbGROaERJcVFuenlQcHc?oc=5",
       "pub_date": 1764103860.0,
-      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqdaPrI4rrqdpj-jgqf0n1coFTlUqimo5MTtmrREOggt4UTds6Y3udbE&gaa_ts=6927862c&gaa_sig=bO1iuy3XXiqBnk9CANG5K6sZcBQIdRFcF77NDF4CE28kdMVZa6u1BWMSBp_PBa0WnGxS9VMnmAn2o3k5gTcS1A%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqdgMgkev74L4FHBfm4dQJU24VENgq9M56Viyiw7mdUIY6lY2mdmnzZJ&gaa_ts=69278e58&gaa_sig=SfevBRFcRY4dZtQWhhJ6-UNF5hm2vSTAJcIMoquj9E7jr5ZsKT6jx9j5HpcYRl2tfEjSflaK5uHUUnLyVmB4Ng%3D%3D",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Tesla is bleeding AI talent to a small new robotics start-up",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUTFBMXRyMGlCSXBwQVpQU09KTnpFTG1JdWQ1T2dtVC1OdXFOQWt3VEIxbXlWRUFvLWZzdVRSbEtZVmd6dGE4TXcwR1VFVDZOS0FQZGxIRWpUekZaejFITjMwNV9kQlBtaTJFVU8xcFZENi1TYUxVaFpBUk1JWnNXZXIyVm5CQ05lR2F6bQ?oc=5",
+      "pub_date": 1764017880.0,
+      "article_url": "https://electrek.co/2025/11/24/tesla-bleeding-ai-talent-small-new-robotics-start-up/",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/11/Sunday-Robotics-Tesla-engineers.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "description": "Tesla\u2019s AI and robotics divisions are facing a significant \u201cbrain drain\u201d as a stealth startup called Sunday Robotics emerges with..."
     },
     {
       "headline": "Remote Robotics Could Widen Access to Stroke Treatment",
@@ -95,16 +85,26 @@
       "description": "On Monday, Walt Disney Imagineering (WDI) released the latest episode of its hit series, \u201cWe Call It Imagineering,\u201d taking audiences inside the global Research \u2026Read More"
     },
     {
-      "headline": "ISRG vs. MDT: A High-Tech Robotics Faceoff in the Race for Leadership",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FdGNNWWxlLXJ1RGJUR0kzZ0N2QmFaaDJPYTduMzJkNDFVbUE5ZFk3Vk1DTW5PS0NWRHRzYVdLTU9NdW1fRTcwVFphX2FnUWZ2TXlZcGhraGstUUNyMkNVbzBBaWsyaHNGWkJyVGFEMGNUSl9vVmc?oc=5",
-      "pub_date": 1763990460.0,
-      "article_url": "https://finance.yahoo.com/news/isrg-vs-mdt-high-tech-132100334.html",
-      "image": "https://media.zenfs.com/en/zacks.com/81880a99f954ad6a8713d0d282dde701",
-      "description": "Intuitive Surgical's robotics surge and Medtronic's broad innovation push set the stage for a high-tech showdown in next-gen minimally invasive care."
+      "headline": "Video: Warehouse humanoid robots lift and sort objects on their own in real-time",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWW1Kb3RnRzJnX3gxSVJELXlxdWo5YkMzU2NKa1JwZEZoZ0VTNGRXQnNxaHlqMXllTm4taV94MGNhS0w4ZGdfVzJUMzkydjBxRk9RaF9hZnpScm5Dc09YRjVmRHFBT05pc092VzZVMVFsYmZTTzdLMmdYV0llZ05KNA?oc=5",
+      "pub_date": 1764075900.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robot-pair-32-boxes",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/IE-Photo-15-1.jpg",
+      "description": "Mentee Robotics released an uncut 18 minute video on showing two V3 MenteeBots autonomously moving boxes inside a warehouse."
+    },
+    {
+      "headline": "Austin-based Apptronik valuation hits $5B after new funding round",
+      "source": "Austin American-Statesman",
+      "source_url": "https://www.statesman.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWE9acUY5ZjlVWnozTFFkS2diYXh2WmNZbTdNVmtTa3FnNnFtUFlVZkc0WjZ4ODNNX3BxQ3NBQ2F2RDdfQUY2bkxZcTlhdUwxeGQxNkxqaFpDRTVpYkVYekFIRzlqTmJpeFJpQ0hwMTZxMjhIbENqME50UFczY0ZtV2dRM3RkZGR6NWprYVVnQXl2TFRLY3NtSGZkYmlzMGxWOUhqMWhWa2ZxNHJkbzFqaFJDcEdBUQ?oc=5",
+      "pub_date": 1764073647.0,
+      "article_url": "https://www.statesman.com/business/technology/article/austin-ai-apptronik-robotics-5-billion-valuation-21205264.php",
+      "image": "https://s.hdnux.com/photos/01/53/44/12/28197532/21/rawImage.jpg",
+      "description": "Backed by Mercedes and Google, Austin robotics startup Apptronik hits a $5B valuation and gears up for a production ramp of its Apollo humanoid."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T22:44:15.357688+00:00"
+  "fetched_at": "2025-11-26T23:19:08.828408+00:00"
 }
