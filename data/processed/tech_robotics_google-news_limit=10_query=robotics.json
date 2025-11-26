@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Robots and AI Are Already Remaking the Chinese Economy",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQNW1TcFBzZy0tNC1uTlRrbmJWUGFiVjJsNHFjM01La0dmbGFsVERtMWFCYVFfQ213OHd0ZDRNRG1JT0owTjRaeXNFNzU5Z3hLTjF1RHZWMDViWVZEQ2xTU1l4WEJ6SFlNdzBGN1JYTWdFS2laQndqYzNmOVozLVZ5ZmNYVzhkYkp1NXd1VVpuRGNFNDlQWUUycm1lM2hfREpsX0pUQ0JNMEkyWGdZbFNoOUVYX2V0QkNXbVB5aktad1NOMzA3QlBoazdRSjZFQVZXUmlSbEMzR3hIM0s3eXRWZy1UaFo1ai1vdjUxOHNjUklDalFrWjR5SzFUZE1jZmU1UnNPX3VqUm1WZ09kNnFfYURVT2liOUJwN0pzYWdmNWFCcWN2Rll1OVNiTWZnZlVueXdETDl1cmpZR2tldklTZ19PUTY0U1RSb2xoOVVjd1RLM2dxZEIteFlLZVFDTlN4cFc3QW4tVFlEaDhSR1BxNHBLaHhwUnVtdmc?oc=5",
-      "pub_date": 1764036000.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-robots-china-manufacturing-89ae1b42?gaa_at=eafs&gaa_n=AWEtsqewOqiw0_f8TuRgcm9gV_9Dmm79isaZWfc5nQxz55q2J-tkIHAad1cc&gaa_ts=69275612&gaa_sig=H_N7b_zX50osEVT43Oh5_FjgqFKXuzW2_YlwJWbUS-ZGRylr4lMCDe0wXh4-ilmu2PFbAWoEHW0iJl-FuIgIxw%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Video: Warehouse humanoid robots lift and sort objects on their own in real-time",
       "source": "Interesting Engineering",
       "source_url": "https://interestingengineering.com",
@@ -23,6 +13,16 @@
       "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robot-pair-32-boxes",
       "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/IE-Photo-15-1.jpg",
       "description": "Mentee Robotics released an uncut 18 minute video on showing two V3 MenteeBots autonomously moving boxes inside a warehouse."
+    },
+    {
+      "headline": "Robots and AI Are Already Remaking the Chinese Economy",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNU1JXcWNQeTJsMllfN0t1M3RjdHVXaTZsaV8tNHpCb3lGUWw1MjQwUVVlV1hKZU9KM05GTldUVmRBbW45S0l6T0dxc0ZocVppTzhzcjItUmVFcE8tbXVHM1VCVC1FdlhFVFdXY2FuWlJTQjd0RmFUTnhCSlNHOGxRMTJ3eUpwbXpwUmMtM21zYUVJX1JqaEtISGZLZUdYOW5DekotdWR2SmJkN3R6NDM5eUt1ODV1dFlXazdWM1VOczdjSThnOXJIT01VVnRxeHg3TTRjclp4QlFlS2E3NnI3d3JOYWc5X0FKMklzZVFZbE5OcEVLdlFGbFFPZkFUaW1keEE5RG0xTXRqZkNjUlVWZlNpbVhXZTZzcmJJcUQxbWlfOWVvdzU0TEF5WFJFWS13NHdyUXJEekdCS0dyUzFtbUNoRkRZTzR3MnVnVFFXTUNVQTlyNms0aXBTbHd0NjM2MWVhLW5xNzNMNzQwYkdZNjkzWGlqNm90Umc?oc=5",
+      "pub_date": 1764036000.0,
+      "article_url": "https://www.wsj.com/tech/ai/ai-robots-china-manufacturing-89ae1b42?gaa_at=eafs&gaa_n=AWEtsqcCyRewPKLsxXrOh1MHQadVs7JVndrVyH86IviNc5nrrnGCFQQDM68l&gaa_ts=69275de5&gaa_sig=S_ZIv_75615HxL5JEVnohFXk_DzOubp_yE_B5t01iSc31Br1C0OsXtT-Jxv8o-NywWPGcYSh1rq4dsK1YYDSUw%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Tesla is bleeding AI talent to a small new robotics start-up",
@@ -65,34 +65,14 @@
       "description": "Glacier's robots promise to help the circular economy become more efficient and to improve sustainability."
     },
     {
-      "headline": "This $46 billion robotics stock is up nearly 40% after a big win. Could more gains be in store?",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOeXktajNoT0RqdXJZRUYta1JaNm1Ea0JPbi1ON0xKLVhCc1p3YmZuVTFuRng5VmNMNHpHekJvUGEyOF9QUVhTem9jS09UQm1OTTEyZEhDZDNVU3JpTWNMOHJNRExrR1d6VGRsYlloVnBFV3VNWlNvNUVFTi1iTUI2bTFnaHZ4NkNmRFQtWGpfQ3cwd0t0ejZIdktXd0tPVVlBVUNzQmZUZEFCa2xlaU5faWtMemhOb0xObmZ5ZDNQNVM5TE9JN19JM0xuTXBrTTRKU3BvNWNaQlBjMG11bnBnWGtCUnVIQUlxdWJwVzREc3BoQ0pIQjQ5NWVrZ0ZPREFMMXdlUVQ1WE9FcXVEdHRENUN1Y2FMclVYakJlZGgxZ3Q5SDdSQ0xEYXAtYW1UQ0lWNEFGM1BJZHltRGNjazVMYkVuYm1zZnYwd3IxYlN0dV94UXgtSWdrS1Q3eWlKeEFEMThSbk1YblI3aWk1ajZSUTU3Nk5BcGdDa09LUWo2WkVsa2UtVHhOYXo1U3ppSXhkalJkM1pfWjIyWnlnaW1SXzAySlRnaHVNWEhoZkFhSERKWHVkUUM0cFdLQWNTV1BIUUltTVhybHZrTVk?oc=5",
-      "pub_date": 1764103860.0,
-      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqe_zfv1HkrnvVTxJkXnFZg1H96aII3EK1inGO_pnzOW1XdvpaZtZyAE&gaa_ts=69275612&gaa_sig=h_gjk-LwAeUt4SWuyY9bcURnkIE26ohdik3a3or6w2_e-lghabCIJr8SGNIcpiqFiD-kfDYPwWW5o2VYZXq8-w%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Surgical robotics market will double over the rest of the decade",
-      "source": "MassDevice",
-      "source_url": "https://www.massdevice.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRktZa0lfUFlrZzNHTDlJYjB1bFh0V3pHbHJUYzE0Q2d0cl9uRFRCMXBVbEFIMkFtQkdBT2p5UmpseWp4aEdLY1gybG1CVHVYUl91cUlhZlNHazJnRF9ocy0zeXY2a0I2UHUzaXVrVC1NcGhaUXVVYmxONHBSTmtDNWNJTEpZMnhmNF9DUjlweHYySVgwdEZN?oc=5",
-      "pub_date": 1764083674.0,
-      "article_url": "https://www.massdevice.com/surgical-robotics-market-will-double-over-the-rest-of-the-decade/",
-      "image": "https://wtwh-marketing.s3.amazonaws.com/wp-content/uploads/massdevice/2025/11/25100924/Medtech-Markets-Robotic-Surgery-Website-1.png",
-      "description": "Already worth billions of dollars, the global surgical robotics market will double by 2029, according to a new MassDevice report."
-    },
-    {
-      "headline": "Detroit Lakes' robotics team 'The Ants' crowned victor of third annual Unified competition",
-      "source": "Detroit Lakes Tribune",
-      "source_url": "https://www.dl-online.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGRiZFdiblJ6Q0t4cEkzT1MycDJZbnU1Nk8zbmFmVVZlbmZ3N0ZqSkFMbWRlTTFJRVdWbE80bmVvMThuc1ZkM201UmRRa1lKc3NGVFhyN1lSeU10YTBBSGs4MklsRnRyaGs2dWFfbWctdEhENUlvNk44LUQyT1hHRThtZ0pXVUNmWUhXaExvb0JuNS1BdFJJVDU4cjJjamhwOWJncTFhUQ?oc=5",
-      "pub_date": 1764180256.0,
-      "article_url": "https://www.dl-online.com/news/local/bemidji-high-school-hosts-3rd-annual-unified-robotics-competition-1",
-      "image": "https://cdn.forumcomm.com/dims4/default/6b372c4/2147483647/strip/true/crop/1224x817+0+0/resize/1597x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F44%2F20%2F382965184dd5906802dc9e9d465e%2Fdl-robotics.jpeg",
-      "description": "The \u201cLord of the Robots\" game was released at the end of September, giving the Detroit Lakes robotics team about six weeks to build and program their robots for the course."
+      "headline": "This Artificial Intelligence (AI) and Robotics Stock Has Crushed Nvidia and Palantir This Year. It Can Still Soar Higher.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWhnWk9CWlZ1aUUyV2ZGdDZIMnBraDJ1TkZHXzBRbUFROUE2RmZHZVdQcU00OFUyM3RWZTZ4NkZFMl9FT284ckpsY1g5a3FnRjZaTFJoc0RLSVIwVjZtVnViNnRqblpERW9ZRHZDUzNtWkdlaF9Ick90eEl5ckd0QjJ1SXBxaUNmWUphdExEUHM?oc=5",
+      "pub_date": 1764035340.0,
+      "article_url": "https://finance.yahoo.com/news/artificial-intelligence-ai-robotics-stock-014933768.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/V5wbi8SBoB6k2pVbBkLK2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/78df64ec51aac5e08e6c4a20b5434f2b",
+      "description": "Investors are looking beyond the biggest names in artificial intelligence (AI) for future growth. This company might be worth a look."
     },
     {
       "headline": "Remote Robotics Could Widen Access to Stroke Treatment",
@@ -103,8 +83,28 @@
       "article_url": "https://spectrum.ieee.org/remote-robotic-stroke-treatment-evt",
       "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62225322&width=1200&height=600&coordinates=0%2C84%2C0%2C141",
       "description": "Could telerobotics be the key to faster stroke treatment in rural areas? Soon, surgeons may perform lifesaving procedures from miles away."
+    },
+    {
+      "headline": "Soft robots harvest ambient heat for self-sustained motion",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSVB1YmlOcW1Md25SUlRvTmJYQkdnTkZfczlzaHU4V2JGRkd2UlNfdUlhNkNlWWstdkN0RVp6SXF3T25LRk5IUjRhcGczemNaX01qenR4RnA3bS13TF9nbDRDLU9TMlBDQlZoZFA0ZnlrbkJKVWhNalZzZVg0RjI5M3AwSDg?oc=5",
+      "pub_date": 1764071404.0,
+      "article_url": "https://techxplore.com/news/2025-11-soft-robots-harvest-ambient-sustained.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nominate a \u201cWomen Shaping the Future of Robotics in 2026\u201d",
+      "source": "International Federation of Robotics",
+      "source_url": "https://ifr.org",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5YTBUNVk5Q3Q4MmF5OVBQSDdheFpWbU8tY3FVNjc4Vkd2ay1BcGpiNHBOMFlLNjNUck9VODRRRzRrenIyT01RaEh0VHNGZFhEVlp6ZEtzQ0FnOFA4M2QwT1VpRzJqbGRmLTFEd285WFlBcmh0cFNZOGRVUQ?oc=5",
+      "pub_date": 1764149937.0,
+      "article_url": "https://ifr.org/ifr-press-releases/news/call-ifr-women-in-robotics-2026",
+      "image": "https://ifr.org/img/uploads/1.jpg",
+      "description": "IFR would like to give visibility and acknowledge Women in the Robotics industry that serve as a role model for the next generation.\nWe will - once again - select a list of 10 women to officially award as \u201cIFR's Women in Robotics: 10 Women Shaping the Future of Robotics\u201d in 2026."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T19:19:05.338922+00:00"
+  "fetched_at": "2025-11-26T19:52:23.520165+00:00"
 }

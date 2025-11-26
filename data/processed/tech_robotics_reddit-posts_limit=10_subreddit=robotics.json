@@ -57,6 +57,28 @@
       "description": "I'm a robotics teacher (university + kids) and I'm considering building a visual block-based programming IDE for ROS2 - think Scratch/Blockly but specifically for robotics with ROS2. I know solutions like **Visual-ROS (Node-RED) and ROS-Blockly** exist, but they feel geared more toward ROS-agnostic flows or are stuck on ROS 1. Why? After teaching ROS2 to beginners for a while, I see the same struggles: the learning curve is steep. Students get lost in terminal commands, package structures, CMakeLists, launch files, etc. before they even get to the fun part - making robots do things. A visual tool could let them focus on concepts (nodes, topics, services) without the syntax overhead. I've got an early prototype that successfully integrates with ROS2, but before I invest more time building this out, I need honest feedback from actual ROS developers. Would you actually use this? Either for teaching, learning, or as a rapid prototyping tool for quickly sketching a system architecture? What features would make it genuinely valuable? Visual node graph creation? Drag-and-drop topic connections? Auto-generated launch files? Real-time visualization? Something else? 3.The AI Question: With tools like ChatGPT/Claude/Cursor getting better at writing code, do block-based tools still have a place? Or is this solving yesterday's problem? Platform Question: I'm building this for Windows first. I know most ROS developers use Ubuntu, but I'm thinking about students/teachers who want to learn ROS concepts without dual-booting or VM hassles. Is Windows support actually useful, or should I focus on Linux? Any honest feedback is appreciated\u2014even if it's \"don't build this.\" I'd rather know now than after months of development. Thanks!"
     },
     {
+      "title": "Custom robotics controller with ESP32 S3",
+      "author": "kr4shhhh",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7hkhf/custom_robotics_controller_with_esp32_s3/",
+      "published": 1764186615.0,
+      "thumbnail": "https://external-preview.redd.it/G7q-XRhjmDFn4Bp5qh57LY15kdunbvtt-m_kNsneLg8.jpeg?width=320&crop=smart&auto=webp&s=31790356a4ef64a851121003da3c4db7e3c4cd3e",
+      "external_url": "https://youtu.be/f70Bf-UjK0I",
+      "site_name": "youtu.be",
+      "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
+      "description": "I wanted to share this custom robotics controller that I built with my son. We used two ESP32 S3 chips that cooperate to control everything. One is responsible for the user interface stuff, and the other is dedicated to motor control. I\u2019ve used older ESP32 WROOM modules in the past. The native USB on the S3 is super nice. Kind of a shameless plug, but I figure lots of people out there are building similar things. Feedback is welcome!"
+    },
+    {
+      "title": "Looking for ABB 6.05.02 the FULL version, software- School lost the entire FTP drive.",
+      "author": "Traditional-Ad-1441",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7h8i4/looking_for_abb_60502_the_full_version_software/",
+      "published": 1764185825.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi ..need spot of help if anybody can help me find a version of the robotstudio the 6.05.02 version. I need the FULL zip, my school lost the ftp drive with it on there- abb has been no help on the old version, no clue why, anyway.. file will be like RobotStudio_6.05.02_Full.exe or .zip it will have the vision Ideally it will have these files in it. I know its a BIG ask but if anybody can help point me in the right direction, super appreciated. Will buy you a coffee to boot. Cheers peeps have a good holiday. abb.integratedvision.6.05.x.msi abb.smartgrippervision.6.05.x.msi abb.robotics.visioninterface.6.05.x.msi RSAddins.msi"
+    },
+    {
       "title": "For anyone who loves robots more than cocktails",
       "author": "TheLostWanderer47",
       "url": "https://www.reddit.com/r/robotics/comments/1p6yyma/for_anyone_who_loves_robots_more_than_cocktails/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "From Dimensional OS: https://x.com/dimensionalos"
-    },
-    {
-      "title": "Building a sub-$200, highly functional 3D-printed SCARA robotic arm",
-      "author": "Yoni_bravo",
-      "url": "https://www.reddit.com/r/robotics/comments/1p6gqan/building_a_sub200_highly_functional_3dprinted/",
-      "published": 1764087577.0,
-      "thumbnail": "https://b.thumbs.redditmedia.com/YqcovefKQK_arp7VMPLBrrIEGlUx1QyRQpMZTDlyXnc.jpg",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019ve been working on a SCARA robotic arm design that I\u2019m trying to keep under ~$200. It\u2019s entirely 3D-printed + off-the-shelf components, but I\u2019m aiming for features you usually only see on far more expensive arms. My goal is to build an accessible platform that\u2019s actually useful \u2014 not just a toy \u2014 and can serve as a solid base for anyone interested in getting into robotics in a meaningful way Planned features: PRRR SCARA configuration - simple kinematics, high stiffness for the weight High-accuracy motion using NEMA17 steppers + TMC2209 drivers Automatic tool-changer with magnetic pogo-pin connector Z-compensation module for tool contact detection + vision-assisted picking ESP32-based controller (FYSETC E4) running FluidNC firmware. Integrated top-view camera Comprehensive Web UI + full-feature control pendant ~0.3 m reach, target ~0.5 kg payload The idea is to push how far low-cost hardware + smart design can go. I think my industrial automation background and maker soul puts me in a good position to go for this thing. This is still early, but I\u2019d love feedback from anyone who has built robotic arms or worked with SCARA kinematics. If there are obvious pitfalls or design considerations I should watch out for \u2014 I\u2019m all ears. For more details please check my hackaday.io page - https://hackaday.io/project/204557-pr3-scara"
-    },
-    {
-      "title": "I talked about robot learning with Prof. Sergey Levine of Physical intelligence and UC Berkeley in the backseat of a Waymo for our new video series: AI in Motion",
-      "author": "vincentvanhoucke",
-      "url": "https://www.reddit.com/r/robotics/comments/1p6qqhk/i_talked_about_robot_learning_with_prof_sergey/",
-      "published": 1764109997.0,
-      "thumbnail": "https://external-preview.redd.it/J1_Rp6f8Yr7tgzRD13uozQfhBpn8eDJMciI0ILwCQOo.jpeg?width=320&crop=smart&auto=webp&s=b44f1861d7c5318fd2996fcda15d6872b8d7b775",
-      "external_url": "https://www.youtube.com/watch?v=0CfMCOzmJZI",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     }
   ],
-  "fetched_at": "2025-11-26T19:18:39.230351+00:00"
+  "fetched_at": "2025-11-26T19:52:04.034038+00:00"
 }

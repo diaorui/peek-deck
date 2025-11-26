@@ -5,14 +5,34 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Bitcoin, Ethereum, XRP Jump as Rebound Gathers Pace. Where Cryptos Go Next.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNcTdBSXktZktGRFE0X19OV3dfY2hmdDNqZDFCeUdJZlNRZTMxcU1NLU5FU0hWMDVTelN6cHN2OXRSSEVFTzZLYW1TblBfeFFqNXMtVXZaLUxVTFFIZGN4cjJDVjN5YTFhdkZsVmloREVNYmZ3bGIwSUowRnlnMjVCWVNfTGs4aWN3Y1B2UGlSdVl6RFlxX1QxdWVBc29vUjVnTUNFMEcxOHBHWm92ZFl3dlphTG85S2VWMDlBNU1iYzA4NGYtMzl1b3p0eUx0R3VWck5qT1hnMjRBbVU4VW9OalNxVzFPcnU1b1Q2WS1JR05zVFVleDBWOVpLQS1feVM1RklqNk0xV2NDUDFTZVBuRFFqYWtpeThReGZ1amlDSXR3cEVVZXlKOUtfdnZrb1g1NWRJVFdZRFF3MkxWWG9XaWl0cTh5RXRyc3I1WmNNQjk5bjFDSW5UN2VyVlVwRVFrWWU1VEZpWkwtM3FtVldFZTNjbXVOLW9CMVpBbU1MZ01sMmJxNFVUUQ?oc=5",
+      "pub_date": 1764064980.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-rebound-dea5ac89?gaa_at=eafs&gaa_n=AWEtsqcD8O9Zf2eiaxtrZ9WBmvi8diJ5DnOGOnPrAgdEJp003rzolhL_YiiD&gaa_ts=69275de3&gaa_sig=vj3IkemZw8PxjKA0hy6OgwqjiN5UR7SM8fjIIFoDGQeo2tuMKRCZFm8BketHq9sOrHIelF8CjL6ZpOyxgPqJbQ%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Better Crypto Buy: XRP (Ripple) vs. Ethereum",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWE85WTR3MXA1Qzg4TjdTSmdSZExSVkwtMkw4UWRuZlVkMEF2bWtnUHdZc0NNYXdFYnVjNHBBWjVOekllMl8xSlBIR3NiNl9kYmN2OE5NaGpfbHl5dmxLOWRaZDdpRjVwRG5VRzNDMUg3ZU5SbExZZGxvU2tNbkMtX2VmM0hvVlYz?oc=5",
+      "source": "Nasdaq",
+      "source_url": "https://www.nasdaq.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QUmpjMFNQRzJEdmRMdXlnN2R0MnJTNWN4WEFrbUE2VXpKS09La3JjbTc5MjZRSE8wNHpNQnpRaktDeGFZWUxkbDJHcXUyZXBwQ283NHI4YVZ3QUtMNjVwTlhDaUNlc1BQRHNPWnl3UEtILTg0NU5Ed200MjY?oc=5",
       "pub_date": 1764120060.0,
-      "article_url": "https://www.fool.com/investing/2025/11/25/xrp-vs-ethereum-crypto-comparison-2025/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F840357%2Fgettyimages-1402808568-1200x798-36b7a2e.jpg&w=1200&op=resize",
-      "description": "Is XRP or Ethereum the better pick for long-term investors?"
+      "article_url": "https://www.nasdaq.com/articles/better-crypto-buy-xrp-ripple-vs-ethereum",
+      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+      "description": "Key PointsStablecoins have exploded in popularity and could become a multitrillion-dollar market, according to Citi Group."
+    },
+    {
+      "headline": "Bitcoin Reclaims $90K Ahead of Thanksgiving as Ethereum, XRP Bounce Back",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFpiNEpjSWNSUXJEd2F5MUpjbi1sSkFHeWtVUjdwejg4NjI5UUhLR0FKakMtOGNiQnZSYjE4ejBPYTRXTW53SEgydTM5YWtQNGtQNTNrMkZBbU81eU1JZHFvdEVVMndBUWVXazRaVmJqWXp5WHpMa0ZsV3BoLUJvdXZaV2pqeU41NTVBaEpn?oc=5",
+      "pub_date": 1764183649.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-reclaims-90k-ahead-thanksgiving-190049569.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ZxnuuyrbSiXG4_X11utDlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/2699847992f62b2b54a3834613a8bf2d",
+      "description": "Bitcoin has broken above $90,000 per coin again, nearly a week after it dipped to a seven-month low of about $81,000."
     },
     {
       "headline": "Tom Lee Says BitMine Holds 3% of Ethereum \u2014 What Happens When It Reaches 5%?",
@@ -25,46 +45,6 @@
       "description": null
     },
     {
-      "headline": "Vitalik Buterin: Ethereum\u2019s Growth Will Be \u201cLess Uniform\u201d as Gas Costs Face Targeted Adjustments",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeGdIWWFUZ29XZnlwYnpaZVZtSlNnN3hIbVUxLWhVbVBLYnNlSkk5Nlg2UEdiQWF5eFVwYUI0OXItbXo4RTR6ZXJpMW5OQmFheXdHSTB1ZTM3T2NlNEREaDRpU1RpZDg2b2F4UHJaUTFmZ1BSSmNBeDI3QzR5T3huVUp4Nkpwb0d0cXc?oc=5",
-      "pub_date": 1764176948.0,
-      "article_url": "https://finance.yahoo.com/news/vitalik-buterin-ethereum-growth-less-170908935.html",
-      "image": "https://media.zenfs.com/en/cryptonews_us_711/14afc984e3f340953bdbd97d89f43f42",
-      "description": "Just a year after developers\u2014led in part by Vitalik Buterin\u2019s push for scaling\u2014began advocating for higher gas limits, Ethereum is now operating with a 60 million block gas limit, doubling network capacity in only 12 months. Expect continued growth but more targeted / less uniform growth for next year.eg. one ..."
-    },
-    {
-      "headline": "Bitcoin and Ethereum Stall as Traders Brace for Holiday Volatility",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFRyRm5ldFdCWkg5T0U2TlRJcVFKdGxxOWJBc2lfcnpEMHZDanpvUDlKd1hhUzRQaHFnQUhlc09RMVQtYmtlNmJWbDBZd3ZlV3ZwLUVCRjQ4a0FMUW9FNGhBVmNJUVJxZzNxU2ZlUDlRTFpaZ21Bam9mTU1TdGVSZmpGYjliYXpZYlE?oc=5",
-      "pub_date": 1764172993.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-ethereum-stall-traders-brace-160313751.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/W_Z4QydcRqbg3fi692xnzw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/c1abe56ac36c36ccf98b6b0a1ec444f0",
-      "description": "Crypto markets stagnate as traders eye potential Thanksgiving volatility, with a $2B options bet signaling a capped Bitcoin rally."
-    },
-    {
-      "headline": "Bitcoin, Ethereum, XRP Jump as Rebound Gathers Pace. Where Cryptos Go Next.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPdDYzYXBKcG1QVWtxTFJCY3FPOFF6ZGpBM2RYRm0yYkZnVGhNUXJDZ0NSOHl3RTItZHpQczZyeWNXZk1obmd3VDNmc0hGaUJfYWVYeE1FRW9FRXJMSlcyZW83emFTRm1Yank0VmlCTkpNSE1TM3hpWk1nZnNfc3BCTzNzdlBzdHhvTEJ2eC1UckIxcG90aVYyb2pMdHMzU0hZUk9MWTh3ZjVvQnM0ME4ySGs0V1FJWGE1Tm4zdU9zLWpBdWV6bHdEYnFPT21tcUNaMExIOEZzamNVREVfQlFRYzJhQkpoSXpNSkF6UzBjTXNPSjY3NTR2MmNfamE3b2hURnJSYXRvakJwNTE4MnVuTzlrOER1TThJSkxfUnJRUV90RmItX0NuN0Ezdm1hSGNuWDNiTUZWMGd6RXhpR2pWUUpRcDhmUjNBdFBMOVNVNXc5ZFR2cFVUOHhieGhoMVBxTWlZXzlrZUN6aFRvTDJrVWlmdFBHTTIwR1JZRERyQzJvVzNqb2REbg?oc=5",
-      "pub_date": 1764064980.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-rebound-dea5ac89?gaa_at=eafs&gaa_n=AWEtsqclDAs35_DiT-s0ruINIpuTyE5jyljZ_AhiTI25rsPdjMLM3HeBghoj&gaa_ts=69275611&gaa_sig=mnB-Qbinz_L7ACIH_fqn7ByUD5STH_qQUSS3p3_-CBrnXLUNmMiwv67G8HO01zrRe16ngIvlbSi0U-2VLXXyYw%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin and Ethereum Stall as Traders Brace for Holiday Volatility",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WbFBmODc1S0x6NlQxanhYT05lNmFvTE43OXl4cUE5WV9jLXZuQUNnR3h4bUQ0X1NRRzY2T1h0UUR6a3UtUmlKdU5DV2lJLUxDaHE4REVZNk9LLTJuWDYyWXM0MV9CcnFZRTdTZHFKVzJkdTNNU1HSAX5BVV95cUxOOTNwZGRNaTZZcHNNSVE0eWJoVzJDTnhhSkJMUEhpWTVJbzUyS1VhMmZUTER3TXJCZ3JJUGkyZ1ZXYlFna0g5cmhIRjBPM1BKLWhJTFFLNmZhMXVtUFh4elRpdjlIM0tEYjhSdjVoYVdlOGVjb21yVkVabmFxOXc?oc=5",
-      "pub_date": 1764173149.0,
-      "article_url": "https://decrypt.co/350131/bitcoin-ethereum-stall-holiday-volatility",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png",
-      "description": "Bitcoin and Etehreum and the broader crypto market show modest declines before Thanksgiving as traders anticipate a December Fed rate cut."
-    },
-    {
       "headline": "Four reasons why Ethereum price remains bullish above $2,800",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -73,16 +53,6 @@
       "article_url": "https://www.tradingview.com/news/cointelegraph:5afe3930a094b:0-four-reasons-why-ethereum-price-remains-bullish-above-2-800/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "Ether BINANCE:ETHUSD price is up 11% since plunging below the $3,000 mark on Nov. 22, reclaiming key support levels. Analysts say that increased demand from institutions, coupled with the end of quantitative tightening, could lead to a recovery toward $3,600 next.Key takeaways:Ether\u2019s apparent dema\u2026"
-    },
-    {
-      "headline": "Better Crypto Buy: XRP (Ripple) vs. Ethereum",
-      "source": "Nasdaq",
-      "source_url": "https://www.nasdaq.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QUmpjMFNQRzJEdmRMdXlnN2R0MnJTNWN4WEFrbUE2VXpKS09La3JjbTc5MjZRSE8wNHpNQnpRaktDeGFZWUxkbDJHcXUyZXBwQ283NHI4YVZ3QUtMNjVwTlhDaUNlc1BQRHNPWnl3UEtILTg0NU5Ed200MjY?oc=5",
-      "pub_date": 1764120060.0,
-      "article_url": "https://www.nasdaq.com/articles/better-crypto-buy-xrp-ripple-vs-ethereum",
-      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-      "description": "Key PointsStablecoins have exploded in popularity and could become a multitrillion-dollar market, according to Citi Group."
     },
     {
       "headline": "How Sharplink Is Reinventing Itself: Earnings, Ethereum, and the Future of Gaming",
@@ -103,8 +73,38 @@
       "article_url": "https://beincrypto.com/institutions-shift-from-ethereum-to-private-blockchains/",
       "image": "https://assets.beincrypto.com/img/qgXoY3MeRxRvCUg7OlffJNxgoY8=/smart/ddd5977a1b7a4e488ed3ef6dd0b6dda2",
       "description": "Institutions are leaving Ethereum for purpose-built blockchains offering privacy, speed, and compliance."
+    },
+    {
+      "headline": "LTIN, Solstice Staking, Bitcoin Suisse and Obol Launch Institutional-Grade Ethereum DVT Cluster",
+      "source": "markets.businessinsider.com",
+      "source_url": "https://markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcmVJSDQ2TXFyTU16c0JsQnAtZVJ6dlZNYWNoZnFmMFVMUXVyMUFGQmJEN0ltX1hlWHFVRUNTZlRNTERZQm5SWkJXTnFoOHBKcU40TzdwOGRINFBrR0pBd3BwMDRFLWxWMl81amFVTkdmVDJIQTJ3eDNEM2VmcGdmT0dFRlJ2YlJVbzBxYnkxS0YzRHJWMURMMklocmhLMy1oUk83UGREN1pPaEZVMm9zcWxKSy1UdGtKRVhxZUNwNHhSV2RmTzd1XzFmQmNWbGpWT0hQaUNwN3FHREt0MWpNeFN3V2lFeUh5TmdWZQ?oc=5",
+      "pub_date": 1764167813.0,
+      "article_url": "https://markets.businessinsider.com/news/currencies/ltin-solstice-staking-bitcoin-suisse-and-obol-launch-institutional-grade-ethereum-dvt-cluster-1035597256",
+      "image": "https://app.chainwire.org/storage/uploads/users/LTIN_resized_1200x720_1_1764104143h3WLv3G7TN.jpg",
+      "description": "Vaduz, Germany, November 26th, 2025, ChainwireLiechtenstein Trust Integrity Network (&ldquo;LTIN&rdquo;), Solstice Staking AG..."
+    },
+    {
+      "headline": "Tom Lee Sticks To $7,000 Ethereum Price Target, But Only After A Dip To $2,500",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYXoxOHVvX3BRejlBUVMtQVpVbHNBMV9LNVIwSU1icFJmWXdJdTdRRXIwaC05RGVRZVptN0kzaW0tbFRjcktXNHVtQ0JNT29BV084c296U3RoSnUtQWtjX2FGQlJMWlRyWmc3MlhvUjVtREgtbXdXekg2Skk3UlZyMjg1ck8tSWxYQWtVamVXUi15LUdIOUlxYlI0Q21ZcE9jSGZvc0tmZXVLQ3JBbDJaNDdXV0lhYXRKLTVid2I4UzRqWFpabExpYkxkMDZFbmQ2?oc=5",
+      "pub_date": 1764093716.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/25/11/49065658/tom-lee-sticks-to-7000-ethereum-price-target-but-only-after-a-dip-to-2500",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/25/Ethereum-Coin.jpeg?width=1200&height=800&fit=crop",
+      "description": "Tom Lee is sticking to his $7,000 to $9,000 Ethereum (CRYPTO: ETH) target, despite predicting a crash towards $2,500"
+    },
+    {
+      "headline": "Bitcoin, Ethereum ETF Offers Dual Crypto Exposure",
+      "source": "ETF Trends",
+      "source_url": "https://www.etftrends.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWi1wMG9YcmljZENJYjVHOUJsMFJDcUR0MlZ5X29oaUFQNG1PYnV2V041bm1jVGlnY3FuSTVxTnF6TWVxcXgyTzAtTVlmb0xxa09TaHJhd3pWS2tGQV9kSm94UE5SS1Jjb09nZFhBQzAxRVhidllNUFJtSlZLODZoUWxlNDRvbURaXzk0dU11ZTc2WTg1N0twc1c2TmoyQ00?oc=5",
+      "pub_date": 1764080256.0,
+      "article_url": "https://www.etftrends.com/coinshares-content-hub/bitcoin-ethereum-etf-offers-dual-crypto-exposure/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T19:19:00.952551+00:00"
+  "fetched_at": "2025-11-26T19:52:21.489569+00:00"
 }
