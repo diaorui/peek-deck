@@ -2,17 +2,6 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "Kyber Labs hand rotates a nut on a bolt at super high speed, fully in real time with no edits",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1p69bkz/kyber_labs_hand_rotates_a_nut_on_a_bolt_at_super/",
-      "published": 1764067423.0,
-      "thumbnail": "https://external-preview.redd.it/d2tzdmZmbHp0ZDNnMZt21T7gZIc6qgnt26ZnwmtkE82GCAbBQduNZc7moJzt.png?width=640&crop=smart&auto=webp&s=81c8be457a0852ae9a14189b4ecfa7fdec27537b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Kyber Labs on \ud835\udd4f : \"Our hand rotates a nut on a bolt at super high speed, fully in real time with no edits. This is possible because it\u2019s fully backdrivable and torque transparent so it adapts naturally to the nut. The result is simpler, more reliable manipulation for software and learning systems.\": https://x.com/KyberLabsRobots/status/1993060588789137785 Website: https://kyberlabs.ai"
-    },
-    {
       "title": "I made a small half-humanoid for fun",
       "author": "MRBBLQ",
       "url": "https://www.reddit.com/r/robotics/comments/1p6u288/i_made_a_small_halfhumanoid_for_fun/",
@@ -22,6 +11,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hi everyone, I just built this half-humanoid for human robot interaction research and figured it would be fun if I open-source it. You can find it here: https://github.com/Meet-Bebo/bebo_jr I included my print files, bom, onshape and even simulation files (urdf and mujoco). It also have a simple motion retargeting pipeline if you want to try teleop a simulated version with your webcam. I\u2019ve created a few test applications on this so far, from agents to home assistant plugin to spotify connect. I\u2019ll share more soon as I create the tutorials, but for now you can follow the repo for more progress updates. The next to-do is to create a motion diffusion policy for this from songs, so I can turn it into a hyper music player. If you have pointers on this, hmu. I\u2019d love to have feedback on the design of the robot and the functionalities as well. I did this project for learning and it\u2019s only been 2 weeks since I started, so I still have a lot of ground to cover."
+    },
+    {
+      "title": "Kyber Labs hand rotates a nut on a bolt at super high speed, fully in real time with no edits",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1p69bkz/kyber_labs_hand_rotates_a_nut_on_a_bolt_at_super/",
+      "published": 1764067423.0,
+      "thumbnail": "https://external-preview.redd.it/d2tzdmZmbHp0ZDNnMZt21T7gZIc6qgnt26ZnwmtkE82GCAbBQduNZc7moJzt.png?width=640&crop=smart&auto=webp&s=81c8be457a0852ae9a14189b4ecfa7fdec27537b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Kyber Labs on \ud835\udd4f : \"Our hand rotates a nut on a bolt at super high speed, fully in real time with no edits. This is possible because it\u2019s fully backdrivable and torque transparent so it adapts naturally to the nut. The result is simpler, more reliable manipulation for software and learning systems.\": https://x.com/KyberLabsRobots/status/1993060588789137785 Website: https://kyberlabs.ai"
     },
     {
       "title": "Rugged prototype to streamlined prototype",
@@ -112,5 +112,5 @@
       "description": "Trying to get some ideas to make a demonstration of its potential capabilities.. Or even just your thoughts on it's design! Thanks :) https://www.youtube.com/watch?v=qawYP6E3znw"
     }
   ],
-  "fetched_at": "2025-11-26T08:24:36.443133+00:00"
+  "fetched_at": "2025-11-26T09:11:46.399426+00:00"
 }

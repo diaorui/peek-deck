@@ -50,12 +50,31 @@
       "hf_url": "https://huggingface.co/papers/2511.18423",
       "arxiv_url": "https://arxiv.org/abs/2511.18423",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.18423.png",
-      "upvotes": 127,
+      "upvotes": 128,
       "num_comments": 2,
       "published_at": "2025-11-23T07:29:33.000Z",
       "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
       "github_stars": 109,
       "project_page": "https://github.com/VectorSpaceLab/general-agentic-memory"
+    },
+    {
+      "id": "2410.05779",
+      "title": "LightRAG: Simple and Fast Retrieval-Augmented Generation",
+      "authors": "Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Retrieval-Augmented Generation (RAG) systems enhance large language models\n(LLMs) by integrating external knowledge sources, enabling more accurate and\ncontextually relevant responses tailored to user needs. However, existing RAG\nsystems have significant limitations, including reliance on flat data\nrepresentations and inadequate contextual awareness, which can lead to\nfragmented answers that fail to capture complex inter-dependencies. To address\nthese challenges, we propose LightRAG, which incorporates graph structures into\ntext indexing and retrieval processes. This innovative framework employs a\ndual-level retrieval system that enhances comprehensive information retrieval\nfrom both low-level and high-level knowledge discovery. Additionally, the\nintegration of graph structures with vector representations facilitates\nefficient retrieval of related entities and their relationships, significantly\nimproving response times while maintaining contextual relevance. This\ncapability is further enhanced by an incremental update algorithm that ensures\nthe timely integration of new data, allowing the system to remain effective and\nresponsive in rapidly changing data environments. Extensive experimental\nvalidation demonstrates considerable improvements in retrieval accuracy and\nefficiency compared to existing approaches. We have made our LightRAG\nopen-source and available at the link: https://github.com/HKUDS/LightRAG.",
+      "ai_summary": "LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.",
+      "hf_url": "https://huggingface.co/papers/2410.05779",
+      "arxiv_url": "https://arxiv.org/abs/2410.05779",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.05779.png",
+      "upvotes": 18,
+      "num_comments": 0,
+      "published_at": "2024-10-08T04:00:12.000Z",
+      "github_repo": "https://github.com/hkuds/lightrag",
+      "github_stars": 24448,
+      "project_page": null
     },
     {
       "id": "2510.14528",
@@ -74,25 +93,6 @@
       "published_at": "2025-10-16T06:18:48.000Z",
       "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
       "github_stars": 64958,
-      "project_page": null
-    },
-    {
-      "id": "2410.05779",
-      "title": "LightRAG: Simple and Fast Retrieval-Augmented Generation",
-      "authors": "Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Retrieval-Augmented Generation (RAG) systems enhance large language models\n(LLMs) by integrating external knowledge sources, enabling more accurate and\ncontextually relevant responses tailored to user needs. However, existing RAG\nsystems have significant limitations, including reliance on flat data\nrepresentations and inadequate contextual awareness, which can lead to\nfragmented answers that fail to capture complex inter-dependencies. To address\nthese challenges, we propose LightRAG, which incorporates graph structures into\ntext indexing and retrieval processes. This innovative framework employs a\ndual-level retrieval system that enhances comprehensive information retrieval\nfrom both low-level and high-level knowledge discovery. Additionally, the\nintegration of graph structures with vector representations facilitates\nefficient retrieval of related entities and their relationships, significantly\nimproving response times while maintaining contextual relevance. This\ncapability is further enhanced by an incremental update algorithm that ensures\nthe timely integration of new data, allowing the system to remain effective and\nresponsive in rapidly changing data environments. Extensive experimental\nvalidation demonstrates considerable improvements in retrieval accuracy and\nefficiency compared to existing approaches. We have made our LightRAG\nopen-source and available at the link: https://github.com/HKUDS/LightRAG.",
-      "ai_summary": "LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.",
-      "hf_url": "https://huggingface.co/papers/2410.05779",
-      "arxiv_url": "https://arxiv.org/abs/2410.05779",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.05779.png",
-      "upvotes": 18,
-      "num_comments": 0,
-      "published_at": "2024-10-08T04:00:12.000Z",
-      "github_repo": "https://github.com/hkuds/lightrag",
-      "github_stars": 24394,
       "project_page": null
     },
     {
@@ -126,7 +126,7 @@
       "hf_url": "https://huggingface.co/papers/2511.13720",
       "arxiv_url": "https://arxiv.org/abs/2511.13720",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.13720.png",
-      "upvotes": 55,
+      "upvotes": 56,
       "num_comments": 1,
       "published_at": "2025-11-17T13:59:57.000Z",
       "github_repo": "https://github.com/LTH14/JiT",
@@ -168,7 +168,7 @@
       "num_comments": 1,
       "published_at": "2025-10-26T01:49:38.000Z",
       "github_repo": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
-      "github_stars": 16589,
+      "github_stars": 16631,
       "project_page": "https://fapo-rl.github.io/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-26T07:53:43.047214+00:00"
+  "fetched_at": "2025-11-26T09:11:43.013034+00:00"
 }
