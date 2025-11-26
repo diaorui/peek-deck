@@ -23,8 +23,8 @@
       "url": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
       "hn_url": "https://news.ycombinator.com/item?id=46055944",
       "author": "todsacerdoti",
-      "points": 451,
-      "num_comments": 659,
+      "points": 454,
+      "num_comments": 661,
       "created_at": "2025-11-26T10:08:20Z",
       "object_id": "46055944",
       "image": null,
@@ -65,7 +65,7 @@
       "url": "https://github.com/ocaml/ocaml/pull/14369",
       "hn_url": "https://news.ycombinator.com/item?id=46039274",
       "author": "theresistor",
-      "points": 341,
+      "points": 343,
       "num_comments": 174,
       "created_at": "2025-11-24T21:03:22Z",
       "object_id": "46039274",
@@ -79,7 +79,7 @@
       "url": "https://jamestown.org/prc-elites-voice-ai-skepticism/",
       "hn_url": "https://news.ycombinator.com/item?id=46038417",
       "author": "JumpCrisscross",
-      "points": 169,
+      "points": 172,
       "num_comments": 101,
       "created_at": "2025-11-24T19:50:47Z",
       "object_id": "46038417",
@@ -93,7 +93,7 @@
       "url": "https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern",
       "hn_url": "https://news.ycombinator.com/item?id=46032513",
       "author": "singiamtel",
-      "points": 101,
+      "points": 102,
       "num_comments": 78,
       "created_at": "2025-11-24T10:37:05Z",
       "object_id": "46032513",
@@ -121,7 +121,7 @@
       "url": "https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders",
       "hn_url": "https://news.ycombinator.com/item?id=46057000",
       "author": "01-_-",
-      "points": 68,
+      "points": 70,
       "num_comments": 70,
       "created_at": "2025-11-26T13:05:33Z",
       "object_id": "46057000",
@@ -145,7 +145,7 @@
       "site_name": "the Guardian"
     }
   ],
-  "total_hits": 509,
+  "total_hits": 508,
   "has_metadata": true,
-  "fetched_at": "2025-11-26T19:51:57.446029+00:00"
+  "fetched_at": "2025-11-26T20:34:04.850151+00:00"
 }

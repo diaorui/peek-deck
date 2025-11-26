@@ -41,7 +41,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/black-forest-labs/FLUX.2-dev.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/633f7a8f4be90e06da248e0f/m5YoF33abJ09vcwFxt1Mj.png",
       "downloads": 59,
-      "likes": 522,
+      "likes": 525,
       "pipeline_tag": "image-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-25T22:59:47.000Z",
@@ -57,7 +57,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/tencent/HunyuanOCR.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png",
       "downloads": 626,
-      "likes": 407,
+      "likes": 410,
       "pipeline_tag": "image-text-to-text",
       "num_parameters": "996.2M",
       "last_modified": "2025-11-26T14:34:46.000Z",
@@ -162,6 +162,6 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-11-26T19:52:10.259354+00:00",
+  "fetched_at": "2025-11-26T20:34:15.397856+00:00",
   "has_descriptions": true
 }

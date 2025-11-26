@@ -57,6 +57,17 @@
       "description": null
     },
     {
+      "title": "OpenAI says dead teen violated TOS when he used ChatGPT to plan suicide",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7i8r8/openai_says_dead_teen_violated_tos_when_he_used/",
+      "published": 1764188178.0,
+      "thumbnail": "https://external-preview.redd.it/ZJzNUtejLvTlT9K0tqHP72WSQjMM9XdqljbZbihFivg.jpeg?width=640&crop=smart&auto=webp&s=60b05d376319c4214a9ba8816e4b24eb385b9c59",
+      "external_url": "https://arstechnica.com/tech-policy/2025/11/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide/",
+      "site_name": "Ars Technica",
+      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+      "description": "OpenAI\u2019s response to teen suicide case is \u201cdisturbing,\u201d lawyer says."
+    },
+    {
       "title": "Uber headhunted PhDs to join 'Project Sandbox.' After a month, it said that their AI training contracts were over.",
       "author": "businessinsider",
       "url": "https://www.reddit.com/r/artificial/comments/1p7fz31/uber_headhunted_phds_to_join_project_sandbox/",
@@ -90,27 +101,16 @@
       "description": "Google is on a tear in the AI race and has made a miraculous comeback, thanks to Gemini, its TPUs, and other factors. Here's what's going on."
     },
     {
-      "title": "Sam Altman says OpenAI\u2019s first device is iPhone-level revolutionary but brings \u2018peace and calm\u2019 instead of \u2018unsettling\u2019 flashing lights and notifications | Fortune",
-      "author": "fortune",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6q9h3/sam_altman_says_openais_first_device_is/",
-      "published": 1764108856.0,
-      "thumbnail": "https://external-preview.redd.it/PvPii_e_HFOywNW3LdaBt6Nomy5UVF6Vn2SRNMK5RqI.jpeg?width=640&crop=smart&auto=webp&s=033a76d0340a038a9a6c6cc91f9a71ed6e69cb9e",
-      "external_url": "https://fortune.com/2025/11/25/sam-altman-openai-first-ai-hardware-device-apple-jony-ive-peace-calm/",
-      "site_name": "Fortune",
-      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
-      "description": "Altman said the AI-first hardware will be released in less than two years."
-    },
-    {
-      "title": "AI Hub @ Company",
-      "author": "insurancepiss",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7hjh1/ai_hub_company/",
-      "published": 1764186548.0,
+      "title": "I might have done something",
+      "author": "Any-Beautiful-3524",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7ifgi/i_might_have_done_something/",
+      "published": 1764188619.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "We have an AI Hub and a AI director. The AI director might as well think AI stands for All Inclusive at some charter destination, but also as for funding for their crappy projects where the blind leads the blind and amputated. What are some failure based AI stories from your companies?"
+      "description": "Ive been messing around on google gemini making games, there is one project that i have really been working hard on, that includes an entire narrative in the background. Domehow Gemini managed to enforce it so well that ChatGPT was able to perfectly identify the story, by going through the code"
     }
   ],
-  "fetched_at": "2025-11-26T19:51:57.668654+00:00"
+  "fetched_at": "2025-11-26T20:34:06.129499+00:00"
 }
