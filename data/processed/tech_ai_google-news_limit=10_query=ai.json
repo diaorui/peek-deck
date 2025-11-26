@@ -5,6 +5,66 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "MIT study finds AI can already replace 11.7% of U.S. workforce",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUVibzRUdk5hYUE4WVk0eThiRWt3S2MzVGRCc0lfWkRsMU85bTBsYWJxX3RlYVc5ekhqcGJobDYtbEpJSmpvTERJU3k5VzhJSExIS3dmZ0w4dWpiRlpjZzk1RFBYR3JnNUFXZHpvYjZHYVRYM3pTaHZoNDU4TlpDbWRCMTE1ZGNPSHB5Qzh1a3NRNWw5Qkg1SEZ3WjJ4dDVIcC1ZeWNEQXZza1nSAbABQVVfeXFMUENGUGUxOV9sUEdJSWpyN2JmNU9DWk8wZEY2cFJ0N2RuRmxGVVVEcy12VlNjNGRQb1Jqa3dGNFZobV9CNmtIRF9KcHBzeFk4S1JmYUI4dFB2RFJhN0pJc0hKT2UzckJQZFlJamhoZnloczJyTnp0RkVKNmdVTzBzenFLUGtmQ2YyRmFwUHF1OE8tZUFCQTB5aWdQeVVpVWE2SjB6Z3dDaml0clJ3Rk1KeDk?oc=5",
+      "pub_date": 1764169201.0,
+      "article_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108232119-1764112994142-gettyimages-2209860667-AFP_42FT68T.jpeg?v=1764166052&w=1920&h=1080",
+      "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
+    },
+    {
+      "headline": "What Is Agentic A.I., and Would You Trust It to Book a Flight?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNThTN1UxWWdPN3RNVG00OUJhUWZSWWdYdjhuQVl4UERTZ0F4MklUcVhSTTA3ZFhaOTJaMzZ1OGtfVjNoMmo1ei10Wnp0VU9QSHJxWnZ3QXRWRm9FNlQ1QzJhc201OWhDYkZOQW1QbjBZYk1TdmJQOEhXMUs4T3VVNjUzdGc?oc=5",
+      "pub_date": 1764064954.0,
+      "article_url": "https://www.nytimes.com/2025/11/25/travel/what-is-agentic-ai-book-flights.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Popular AI chatbots have an alarming encryption flaw \u2014 meaning hackers may have easily intercepted messages",
+      "source": "Live Science",
+      "source_url": "https://www.livescience.com",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYjRpa0llWGxHcXJIT3pkWGJBbjljV2wyazRpaWtpWEdmUEVkT0J5aVpFZ2VSTjNDZ1kyaHRYek1DZzl1NWc1UXFXSnhVcGNTZU1meHJiOHRGdG1BUGl1YzhLOFRaRnVISTZmUmR0UmViZ2lwNjRCem1RM1c3OUowdEthWlZ2amJOQVJHaWNuUnZLdzJlTng1aTFTZ0hsX215V24xcWJZTG9XbE1DaUkyVG9MU3Jvallxd2tzeTI1T21MVzFoendsMWNHYWpfYjRGbm5tUmxYLU1ZRElGMFo0UmZ3bHotbVhtRXJnU1RKblNNS1BKd0lDUDBsWFI?oc=5",
+      "pub_date": 1764174600.0,
+      "article_url": "https://www.livescience.com/technology/artificial-intelligence/popular-ai-chatbots-have-an-alarming-encryption-flaw-meaning-hackers-may-have-easily-intercepted-messages",
+      "image": "https://cdn.mos.cms.futurecdn.net/2oPo4bNMa3ZaFewpeNDMsd-1600-80.png",
+      "description": "Cybersecurity researchers have uncovered a critical vulnerability in the architecture of large language models underpinning generative AI, but how dangerous is this flaw?"
+    },
+    {
+      "headline": "US Patent Office issues new guidelines for AI-assisted inventions",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU0JVcVdpT1phOUFKMG5hRERUVklNSGZwWVczcVZMdUlUVzNiLXR4dW9ud2FpN2JvNWtvMFgyQjZsWDBiWDIzRXVRZ3dWZzdJT2M0VmNpVkV3QWlYclAxS2QzSnpubzU5R1F4enVEYUVIX2puTUJvRUxpc1NVZU9rbjBjaGJOM1FxS1dxa2NTdjFxdnczR09Ld1FNekIxVjlnWUwzYjVwX0I3TnhkUEZQdDNpZ0Y?oc=5",
+      "pub_date": 1764173815.0,
+      "article_url": "https://www.reuters.com/legal/government/us-patent-office-issues-new-guidelines-ai-assisted-inventions-2025-11-26/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Black Friday tech shopping only gets more complicated with AI",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcGhaVDViMnhqODU5RHotTWlJa1dSWkh5UWNabHBOdmkxRllMUHRXYW10NTdWdXJ2d2dIUmd3eS1qSDdFNG54VkpjTndTOEc0OEk2RS1mbkp3emtySS0wSU40Mzg2cTRaUXZZSmw3S1RWS25KR1dmN0U0SVpXWUREQ29HdmVVV1BxN29JdnllQndDSlFrTTNEN3UyNmx0d0ZESTdGNGh5N3YtMUk?oc=5",
+      "pub_date": 1764173268.0,
+      "article_url": "https://finance.yahoo.com/news/black-friday-tech-shopping-only-gets-more-complicated-with-ai-160748226.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/vR.is0pAeLMkQqHehoUUtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/ec3a64a0-cad5-11f0-b76b-c371a845b22b",
+      "description": "Between tariffs and new AI tools, shopping for technology gifts this holiday season has rarely been more complicated."
+    },
+    {
+      "headline": "Nvidia is so spooked by Google\u2019s sudden AI comeback that it\u2019s posting on X to defend itself",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObWd1OVBYN0dpamhkeER0cjBHRGhlR2F6YU51dUZmejh3aDlzXzdSMHBQbTl6WlNfUy1OMkhIZmlwWlpsS0ZBOG1aN3JYRGZhZ2owN1JUSlRkdzVuNjRPVWRSdzZxaUtha1J6ZmdhY1Nla2pDQjdBQ0JpT1gxek1wYmVDUQ?oc=5",
+      "pub_date": 1764108101.0,
+      "article_url": "https://finance.yahoo.com/news/nvidia-spooked-google-sudden-ai-220141017.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/YVuZbaTd0HaWsDOBoasADA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/ccab1f6b7ad68b24e39e068769bbf7ab",
+      "description": "\u201cWe\u2019re delighted by Google\u2019s success,\u201d Nvidia said, perhaps passive aggressively."
+    },
+    {
       "headline": "Nvidia says its GPUs are a 'generation ahead' of Google's AI chips",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -15,24 +75,14 @@
       "description": "It was in response to Wall Street's concern that Google's TPU chips could threaten Nvidia's dominance of the AI infrastructure industry on Tuesday."
     },
     {
-      "headline": "Nvidia plays down competition fears over Google's AI chips",
-      "source": "BBC",
-      "source_url": "https://www.bbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2VHNKVE9XOW5VZlNUc0VtYzdFbklzM1JMSDBmRktzaHdpWndld09aT0lSVDdQektwVWQtTm1BbF84b0U1SkFCbXk3N0hVQVR6NDBKLUdyWE1sUdIBX0FVX3lxTE5lVDVFaWxxQ3NTZm5wRmlLeThLSGhJdFRQaHgxaDBhZW96WEc1NDF0V0hwWGcyaEpieXhiazE4N2I0Tl9udlhwN3BJZk94SkJWWkZaSlRxcmc3ZjB1eUNB?oc=5",
-      "pub_date": 1764160584.0,
-      "article_url": "https://www.bbc.com/news/articles/c7vme6rrqz5o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d7f4/live/fd848bf0-cabc-11f0-8830-713b9084fff8.jpg",
-      "description": "The world's most valuable company said it was still \"a generation ahead of the industry\"."
-    },
-    {
-      "headline": "Google, the Sleeping Giant in Global AI Race, Now \u2018Fully Awake\u2019",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNnFiUmJ0QTNHYjRIN2hHREJPby1tV0tyZERCVUI0R1g3R3JDSG9ZRTI0bjNqRkI0YlF3OHdJbDN1dzZRWTY1Zm0xZFh6dFRPSElqWWkxSU95MmNnblM2WmtJX2MyOFJUT0VzbFJ6RFVqRkRiUU5PMy1Bd0VvWGRWRDE5cw?oc=5",
-      "pub_date": 1764106033.0,
-      "article_url": "https://finance.yahoo.com/news/google-sleeping-giant-global-ai-154215649.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/YRxIi5jOm8UVu2Zod0.MUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Nzc-/https://media.zenfs.com/en/bloomberg_holding_pen_162/865a35100ebede5e7fd4e26e839a729d",
-      "description": "Google\u2019s newest multi-purpose model, Gemini 3, won immediate praise for its capabilities in\u00a0reasoning and coding, as well as niche tasks that have tripped up\u00a0AI chatbots.  Google\u2019s cloud business, once an also-ran, is growing steadily, thanks in part to the global rush to develop AI services\u00a0and demand for compute.  A report on Monday that Meta Platforms Inc. is in talks to use Google\u2019s chips sent shares of its parent Alphabet Inc. soaring."
+      "headline": "Google's AI Chip Aspirations Rocked AMD and Nvidia. How to Play Their Stocks Now.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNOEhoUjBRVFotYUlBenNOVjdzdEJ6a1l3VFlXWnNHV3BWQlhodDUzdXdRaGlFQ1c5TUdWUG5qSjVjQWpvTzlEbWt6R2ZfdWR6ZzRxaDRsTWdoTEVMZ2htVHhEZ1JMR2ZoVlJkNHZmSmFaRzFKUFRLaHVSUWFvY29QeDZZbUVzYXRTc2VhSEpiS0RPUFBPMXA4bnNlbUp4S3NoRDZkQ3ZqTUxvZmdIcC1RUWdfeG5WVjRQbUNjYWRCQ2MzQjZkdFZHWXFmSVMtb3d4VjZhRTF2eW1jSm1QRjRwZV8xdnRzTWwyeGx0MjhGWmM5ekxMMjkzekVaQnJuQWhSTGVLVjFCQ0picXpzem0tdzVySjBUb21HVlNOYzFIdURGbGVEazdXQkNOWG5ZbXdfUGN0V1B3TE1OUUZDdWlKaHVIRUozWHZFMkZjVi1SME1NdjZQQWlSZnJPMjdrTVg0VVNkbzJJTTczUFBMVWFiWmMyUS1SMTFTUEZ2Wg?oc=5",
+      "pub_date": 1764173040.0,
+      "article_url": "https://www.barrons.com/articles/nvidia-amd-google-ai-chips-71871e42?gaa_at=eafs&gaa_n=AWEtsqcS_YWYuuIqtOkteA5VRnsoefWZnCDqR-W0rKr4IPkJkglGj2uwZoGi&gaa_ts=69272f5a&gaa_sig=omItsUWJPyIrWmMW46yzHZGEw8J8Br5rd47Q8If5E3-od3PVgDmHwLGQliibeXuV28JAZkOAthF8wdl40TYLUA%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "HP to slash up to 6,000 jobs by 2028 in massive AI transformation push",
@@ -53,58 +103,8 @@
       "article_url": "https://www.cnn.com/2025/11/25/tech/hp-layoffs-ai-efforts",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1179053341.jpg?c=16x9&q=w_800,c_fill",
       "description": "HP Inc said on Tuesday it expects to cut between 4,000 and 6,000 jobs globally by fiscal 2028 as part of a plan to streamline operations and adopt artificial intelligence to speed up product development, improve customer satisfaction and boost productivity."
-    },
-    {
-      "headline": "Computer maker HP to cut up to 6,000 jobs by 2028 as it turns to AI",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc3kxanc1NGhBVk9NU1N1QzNtTm9OeW1aUEVWQWlQQjlldlJyUmdhWUNmbHg2NlZWd0dwVllTSXRval9YN24tSVpDNDhHbE5ody0yeVJoVjFva3gtSnRzX19wclZlc3JiUDFsOGV4OG96M1BsaXp2Sm9vdFVTQXQ2UmkyV1RZRWdvMWRnTThkWS02M1BZMDVZYmVaaTB2VlVBZENuejAyeXdVVV84ZFdrWmJOQ3p1cXB2ZVEtSw?oc=5",
-      "pub_date": 1764154440.0,
-      "article_url": "https://www.theguardian.com/business/2025/nov/26/computer-maker-hp-to-cut-up-to-6000-jobs-by-2028-as-it-turns-more-to-ai",
-      "image": "https://i.guim.co.uk/img/media/8513074aeb5de2e84ac7b50da86721f9699ab88d/358_107_4054_3245/master/4054.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd99af6115b23a2f773cb04edecfc12e",
-      "description": "US firm says plan to speed up product development and improve customer satisfaction would save $1bn a year"
-    },
-    {
-      "headline": "Progressive Caucus opposes push to add AI preemption provision to defense bill",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeExXU1Ffb1NFdTlzNm5TZEpvcDByYWh4Zk9sLS1GOHVDMnpoUkp2Y1hUYVFvTmFRanlKZG5iRHJZVjR2VFV3andfVHZrWkdoSkRWQ0w0aFVSN2hoRlZVWjJOMjREbnBnRHFoYnhLUGFYSHZvMDk0WUZQY1VtbWlfTHU1cGJnUjJzeGREWGhJWWtZWjJrc2o5Wnhtc0NZeEtDMFpTenFzeFBmZnhOX1g2b3pVYnhQXzQxWW5LVlQ2RjY5NWPSAcgBQVVfeXFMTzlzQkwyT2hEOVBYT2pfaXhzazhOQVF4cUhINHhURW9nb2VZb0s5bVp6YVo1UWtCSW5JNmdlbkhKbEJneWdoYUU0eDkyeUFxWWVzQWw2U0xPR2ZsbmtGdTl1VjUtRkZpTXhoQmNPM0dJRHlzbHFrMUNmRmM3aEZEdlpjQ1BjeUxmNTRsVHdLR2x0VEdieTJGb0VBelRoSV9zekVwSGJGLUZ3RGowdmtEZ3RqYmROcWFWY2JqWVQyalJEOTNDVktIRjM?oc=5",
-      "pub_date": 1764169200.0,
-      "article_url": "https://thehill.com/policy/technology/5623138-progressive-caucus-opposes-push-to-add-ai-preemption-provision-to-defense-bill/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "To get promoted in the age of AI and layoffs, young workers need upskilling\u2014and to take ownership\u2014career experts say",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNW9PWGFUUGtLd2tYZGM2Skk3b0FIdDNTc3hubzlrSVhRaE1QbVhlSzk5YXpaTUJndzh0c2pSQTY1eWhVOWl6b3otTUpoRmxOUmNMRE5QUUltRHRJaVducFlUeGF5RDJTWXBhSXVpcHhxbk9FSVZha1dfZzl3UWQ4UkJrY3psdFd6MDMyMFBUNTdVQm5tYUFBRjN3R3RaYUhfc3NQLWNpamQ0SEFzT0lhdmZzZVRPU0hjTUkyRW8xdzJqYTBKYmRqbWRn?oc=5",
-      "pub_date": 1764169200.0,
-      "article_url": "https://fortune.com/2025/11/26/next-level-leadership-tips-to-get-promoted-climb-ladder-avoid-layoffs-in-wake-of-ai-career-experts/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2192499143-e1764018483246.jpg?resize=1200,600",
-      "description": "As the job market tightens for entry-level work, young people who effectively harness the right mix of tech fluency, relationships, and initiative can become indispensable, according to experts."
-    },
-    {
-      "headline": "It\u2019s crunch time for Medicare open enrollment. Can AI help you pick a plan?",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxObEZHZTdQakFyRV9ZZk5KOXVrRjc2YnBqVUx0aXNNa3hXWWlrdjdWdlhFVG1WbWw2bi05dTdVLTI4RkVVOV9GLVR1aFdmNl96enRPZTYtelZjUXo3RzVVMlNEdjVvMmhudEFTSlQxMVZ4SWR4STRlcGwyMWYyOXRKLThlRW9aS1RrRWFCUXRPY0RxSlpCUWZ6aGpjbkF3TlBPM3lvenNJWTNyTlktY0dyc2lJQkg5RTFZNTVfNmhIRHk0ZFJsOGxibXhNOEotSkliY0h1eF9kanh0SjU1cS1GUHprc2NrN3pBQXNKa2p2eG4zd0xUNE5vVFpGT2xpTFpPWURCZXIzRERyTkdqQWMyMDB1cnhOYnVSalIzTGl4eGhNWGltZThHMVY1aUJmWXlwSUh0dnpnT0h2T3RlaUhKN0JfbGJlRnhnU0ota21Zc2JFZkVEUUxUY3c5WDFYT3lYYTEtNjhILVFIQ19vZEJIMEticlh4RnV0SHFFMC1BUWZlXzh1YlBrV3FiZFVOa1JlYXdyUU45dXdZQV9HMHR5c3E0N0F5UTBhMEpnVG1ES2pKdjZtWTROajhFTQ?oc=5",
-      "pub_date": 1764169200.0,
-      "article_url": "https://www.marketwatch.com/story/its-crunch-time-for-medicare-open-enrollment-can-ai-help-you-pick-a-plan-08d7b663?gaa_at=eafs&gaa_n=AWEtsqdpt7px-dggoHaB4fLwYSZ1OKZ2PrMyObaY1dBYDq6m-TI_84rFwYSj&gaa_ts=6927241f&gaa_sig=db-0AyAyYOujRhQv60fccOAsWShPjzUPFn1ssTa6kTbZfYt7ERKRvufJ7MUTmK5z3OGn3Bp-jWQVsH1p1CEhsA%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "What Is Agentic A.I., and Would You Trust It to Book a Flight?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNThTN1UxWWdPN3RNVG00OUJhUWZSWWdYdjhuQVl4UERTZ0F4MklUcVhSTTA3ZFhaOTJaMzZ1OGtfVjNoMmo1ei10Wnp0VU9QSHJxWnZ3QXRWRm9FNlQ1QzJhc201OWhDYkZOQW1QbjBZYk1TdmJQOEhXMUs4T3VVNjUzdGc?oc=5",
-      "pub_date": 1764064954.0,
-      "article_url": "https://www.nytimes.com/2025/11/25/travel/what-is-agentic-ai-book-flights.html",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T15:45:59.462679+00:00"
+  "fetched_at": "2025-11-26T16:33:53.837316+00:00"
 }

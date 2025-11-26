@@ -57,6 +57,17 @@
       "description": "I'm a robotics teacher (university + kids) and I'm considering building a visual block-based programming IDE for ROS2 - think Scratch/Blockly but specifically for robotics with ROS2. I know solutions like **Visual-ROS (Node-RED) and ROS-Blockly** exist, but they feel geared more toward ROS-agnostic flows or are stuck on ROS 1. Why? After teaching ROS2 to beginners for a while, I see the same struggles: the learning curve is steep. Students get lost in terminal commands, package structures, CMakeLists, launch files, etc. before they even get to the fun part - making robots do things. A visual tool could let them focus on concepts (nodes, topics, services) without the syntax overhead. I've got an early prototype that successfully integrates with ROS2, but before I invest more time building this out, I need honest feedback from actual ROS developers. Would you actually use this? Either for teaching, learning, or as a rapid prototyping tool for quickly sketching a system architecture? What features would make it genuinely valuable? Visual node graph creation? Drag-and-drop topic connections? Auto-generated launch files? Real-time visualization? Something else? 3.The AI Question: With tools like ChatGPT/Claude/Cursor getting better at writing code, do block-based tools still have a place? Or is this solving yesterday's problem? Platform Question: I'm building this for Windows first. I know most ROS developers use Ubuntu, but I'm thinking about students/teachers who want to learn ROS concepts without dual-booting or VM hassles. Is Windows support actually useful, or should I focus on Linux? Any honest feedback is appreciated\u2014even if it's \"don't build this.\" I'd rather know now than after months of development. Thanks!"
     },
     {
+      "title": "Are World Models the Future of Robotics?",
+      "author": "Nibbana_0",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7bjzq/are_world_models_the_future_of_robotics/",
+      "published": 1764173078.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Recently, I\u2019ve been researching about World Models, and I\u2019m increasingly convinced that humanoid robots will need strong world understanding to achieve task generalization and true zero-shot learning. I feel that World Models will play a crucial role in building general-purpose robots. What are your thoughts on this? Also, do you think robotics will eventually be dominated by World-Model-based approaches?"
+    },
+    {
       "title": "For anyone who loves robots more than cocktails",
       "author": "TheLostWanderer47",
       "url": "https://www.reddit.com/r/robotics/comments/1p6yyma/for_anyone_who_loves_robots_more_than_cocktails/",
@@ -99,18 +110,7 @@
       "site_name": "youtube.com",
       "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
       "description": "This changed the way I looked at robots - it would be amazing to see this be attached to any robot, and you could just keep the body and repeatedly upgrade the autonomy stack's software and hardware too."
-    },
-    {
-      "title": "I talked about robot learning with Prof. Sergey Levine of Physical intelligence and UC Berkeley in the backseat of a Waymo for our new video series: AI in Motion",
-      "author": "vincentvanhoucke",
-      "url": "https://www.reddit.com/r/robotics/comments/1p6qqhk/i_talked_about_robot_learning_with_prof_sergey/",
-      "published": 1764109997.0,
-      "thumbnail": "https://external-preview.redd.it/J1_Rp6f8Yr7tgzRD13uozQfhBpn8eDJMciI0ILwCQOo.jpeg?width=320&crop=smart&auto=webp&s=b44f1861d7c5318fd2996fcda15d6872b8d7b775",
-      "external_url": "https://www.youtube.com/watch?v=0CfMCOzmJZI",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     }
   ],
-  "fetched_at": "2025-11-26T15:28:49.846853+00:00"
+  "fetched_at": "2025-11-26T16:33:31.876769+00:00"
 }

@@ -24,6 +24,17 @@
       "description": "Here's the thing about Ethereum that nobody wants to admit: imagine paying for coffee with crypto and the barista instantly seeing your entire net worth. That's absolutely untenable, right? But that's literally how it works today if you don't have the tools and know-how to operate onchain PRIVATELY. Every transaction broadcasts your balance; every address you interact with is permastained as part of your public financial history; and most people try to \"fix\" this by creating a fresh wallet and funding it from Coinbase (not cypherpunk) or their main account (gg; no re) Congrats, you just created a permanent public link on Etherscan that anyone can follow. Creating a new wallet is easy. Funding it privately without linking it back to your identity? That's the hard part most tutorials skip. Good news is... there's a few tools and methods for protecting your safety and financial dignity! This is the type of info that shouldn't be gatekept, so here's 3 ways you can fund a new wallet address privately: Railgun (Zero-Knowledge) \u2013 Shield funds into a private pool via Railway Wallet, then unshield to any fresh 0x address. Takes ~1 hour for PPOI checks, but mathematically breaks the onchain link, and is compliant \ud83d\udc4d. Uses actual zero-knowledge proofs, not marketing BS. zkp2p (Bank \u2192 Crypto P2P) \u2013 Uses zkTLS to prove Venmo/CashApp/Wise/etc payments without exposing personal data. Funds can be designated straight to a new wallet. Zero crypto footprint in your banking app because it just looks like you're sending $ to a friend! OTC (Old School) \u2013 Cash-for-crypto with trusted peers. High risk, requires strict safety protocols (public meetups, locked rates, verify token contracts), but it's what early OGs did pre-CEX. Privacy shouldn't have to be explained. It's basic dignity. In this case, basic FINANCIAL dignity. Your net worth shouldnt be public info just because you want to use crypto. For my latest youtube video, I go into exactly all of this! I hope ppl find it helpful :) https://youtu.be/ppRz6Hqoics And honestly... does it bother anyone else that we've normalized broadcasting our entire financial lives just to buy a coffee?"
     },
     {
+      "title": "From Cattle to Crypto: How a Handful of Wyoming Officials Quietly Built a Global Stablecoin",
+      "author": "MinimumCountry9858",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p7azvb/from_cattle_to_crypto_how_a_handful_of_wyoming/",
+      "published": 1764171808.0,
+      "thumbnail": "https://external-preview.redd.it/lhsSbfoO979qKU-8fid1aDfsV6Y9Zw0hMklv0rbaXI8.jpeg?width=640&crop=smart&auto=webp&s=c93333f42f1fd30b174187be8bba37af23dcdda1",
+      "external_url": "https://www.disruptionbanking.com/2025/11/25/from-cattle-to-crypto-how-a-handful-of-wyoming-officials-quietly-built-a-global-stablecoin/",
+      "site_name": "Disruption Banking",
+      "favicon": "https://www.disruptionbanking.com/wp-content/uploads/2019/08/Logo1-300x300.png",
+      "description": "FRNT is using Ethereum. Wyoming wants to export the process they pioneered to other states interested in launching stable tokens. Could be big, if Ethereum is chosen as the go-to blockchain for state token commerce."
+    },
+    {
       "title": "are governance tokens for L2 infrastructure even worth holding long term?",
       "author": "Haunting_Celery9817",
       "url": "https://www.reddit.com/r/ethereum/comments/1p6zj9w/are_governance_tokens_for_l2_infrastructure_even/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "\ud83c\udf99\ufe0f The Fusaka Files #4 \u2014 Wallet Support & EIP-7951 with Alex Stokes The latest episode of The Fusaka Files is out! This time we dive into EIP-7951 and how it improves wallet UX and security in the upcoming Fusaka upgrade. Ethereum core dev Alex Stokes joins Paul Brody (EEA) and Pooja Ranjan (ECH) to break down: What EIP-7951 introduces Why the R1 curve matters for wallet onboarding How passkeys and new precompiles improve safety What enterprises should expect The long-term impact on ecosystem readiness \ud83d\udcc4 EIP Reference EIP-7951 \u2192 https://eips.ethereum.org/EIPS/eip-7951 \ud83c\udfa5 Watch the episode https://www.youtube.com/watch?v=KBYnFfGokuc If you\u2019re interested in wallet UX, cryptography, or the technical side of Fusaka, this one is worth your time. Happy to hear thoughts from wallet devs, rollup teams, or anyone preparing for fusaka-related changes!"
-    },
-    {
-      "title": "Pay gas fees using anonther wallet address?",
-      "author": "Ok_Independence2547",
-      "url": "https://www.reddit.com/r/ethereum/comments/1p5gd3f/pay_gas_fees_using_anonther_wallet_address/",
-      "published": 1763989050.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Okay, so I have a wallet that has been compromised and I can't sent any ETH to it. I still have USDC balance in it and I can't transfer. I figured that a smart contract is emptying my ETH and sending it to this address 0xf37A277d125F8D5b690F2078dD97BBC9aaC1ad4c. It's not a big amount but I want to get the funds that got stuck in my wallet."
     }
   ],
-  "fetched_at": "2025-11-26T15:28:48.353684+00:00"
+  "fetched_at": "2025-11-26T16:33:31.887074+00:00"
 }
