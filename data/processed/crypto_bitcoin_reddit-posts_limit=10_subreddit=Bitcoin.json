@@ -13,17 +13,6 @@
       "description": "\ud83e\udde1 A global currency already exists and it\u2019s bitcoin. A fixed supply zero inflation and fast settlement quietly moved it from a wild idea to an actual working standard. What\u2019s happening in South Africa is just one snapshot. Around ten percent of businesses there already take bitcoin, and the number keeps climbing as merchants try to stay relevant in a world that\u2019s clearly shifting."
     },
     {
-      "title": "I hit a milestone \ud83d\udc4f\ud83e\ude99",
-      "author": "MoistGameplays",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p6nlzj/i_hit_a_milestone/",
-      "published": 1764102744.0,
-      "thumbnail": "https://preview.redd.it/p0gftsa6rg3g1.png?width=640&crop=smart&auto=webp&s=2117fef400d4306866c0bc92ba2167598ddc936c",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I love the discount lately \ud83d\udc4f\ud83e\ude99 hope it drops more"
-    },
-    {
       "title": "Then & Now",
       "author": "unthocks",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p76lx4/then_now/",
@@ -44,6 +33,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "I hit a milestone \ud83d\udc4f\ud83e\ude99",
+      "author": "MoistGameplays",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p6nlzj/i_hit_a_milestone/",
+      "published": 1764102744.0,
+      "thumbnail": "https://preview.redd.it/p0gftsa6rg3g1.png?width=640&crop=smart&auto=webp&s=2117fef400d4306866c0bc92ba2167598ddc936c",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I love the discount lately \ud83d\udc4f\ud83e\ude99 hope it drops more"
     },
     {
       "title": "150k? Will be soon\u2026",
@@ -90,15 +90,15 @@
       "description": null
     },
     {
-      "title": "God-tier \ud83d\ude80",
-      "author": "MrMBTC",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p6ize5/godtier/",
-      "published": 1764092557.0,
-      "thumbnail": "https://preview.redd.it/0xfpj3uvwf3g1.jpeg?width=640&crop=smart&auto=webp&s=1eaa9bff6e7d667c362eb924fb85cc3ba549a4ec",
+      "title": "Is Bitcoin Mixing still a good idea?",
+      "author": "Hopeful_Context_6668",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p796uz/is_bitcoin_mixing_still_a_good_idea/",
+      "published": 1764167477.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "I\u2019ve been looking into different Bitcoin privacy tools lately and noticed a lot of mixed opinions about mixing services. Some people say it\u2019s outdated or risky, others claim it\u2019s still useful depending on the situation. Before diving deeper, I\u2019m trying to understand how the community sees it today and what the current sentiment is around mixing in general. Curious to hear real experiences and updated perspectives from people who\u2019ve been around longer."
     },
     {
       "title": "Yes! Shush \ud83e\udd2b",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-26T14:26:16.011834+00:00"
+  "fetched_at": "2025-11-26T14:58:39.460215+00:00"
 }

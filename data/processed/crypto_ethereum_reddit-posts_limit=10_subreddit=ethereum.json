@@ -112,5 +112,5 @@
       "description": "Okay, so I have a wallet that has been compromised and I can't sent any ETH to it. I still have USDC balance in it and I can't transfer. I figured that a smart contract is emptying my ETH and sending it to this address 0xf37A277d125F8D5b690F2078dD97BBC9aaC1ad4c. It's not a big amount but I want to get the funds that got stuck in my wallet."
     }
   ],
-  "fetched_at": "2025-11-26T14:26:17.426809+00:00"
+  "fetched_at": "2025-11-26T14:58:40.819439+00:00"
 }
