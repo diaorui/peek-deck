@@ -8,21 +8,11 @@
       "headline": "Robots and AI Are Already Remaking the Chinese Economy",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNMndiRU9GdFVKOFZSdjZCa0xjTXVHd2lFeGZvTjlseDJHN3pyZkRMQmxycVQ5a1M1ZGZtREY2cENXQ1NzT1p1ZUpWS2lpSjdCdEQ1RzZpVXVCalpETjM5WnJ5SGhqcGlQRF82X2xBVUx2THdpMERfZ21GdkZpSVZhMVJQNDFjV3dsNzJKVEpENnlpVHNYZnNPYjJ5U2I4QTZJZGpSUjJCZjk1S0Q2Q095WVEyaEV4Z09LdElORWdrMkhFS1hYeWJRWmFGU3dEc3N0VGJKUDRydDROLTRIM0JoeFNvUC10T3JVS1FqV0FlS3JqczRJNHZMV0FZdGhuZ3RNQkYyT2xJcUNDUTdpbXlUWUF5bW1jVW9JUVYzZEN2bWR2ZG9JYkJhV3ljbDlDbzdLNnlHS2NZdk1ZNTVNZl9zYmNLZVdaTTdVenUwWjBZYnZWblQwR2F5Qzk2ZVI3REdfb3dFMlZpVUtLb0xZR0lZalQ5Q3IyMnNSTVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNaF92elNFbDFGaDR5Q0pwcW1feHFJQnpiQjBacjdNQUMxZk5IZ2ZXZmpHa0NuYTRmMFQxblFrLTVjWGI0ekN3M3Bpa3JYZllXeFpEYTRzLV9FOUVrNzdlZklsdURodnFieVRXU3dHb0FlOWxKWElTSDRHbUxOQ1hxMlhSaHBZRWhMc0tYTHZMMFZpSVZwb3ZzeHgyQzdTRXkwMXY5TUI4WERJWkY3ZlhST3I4OUttRWhCT2xnNF8wQmI1V1ZGdnRXbVNkVFVFaGRqcndjc19uRWk2T1QyM0otMm5ZcV9xa0xfNlc3RUlJbTN5WWhSSEI3dmJJQkZod3YzSkc1bXo1UUYzb001UkVWbXpvQTJ6Q2R5bHk3OG5fS2R0ZXFDa2xWdkFaRHEzNENxemxkWjg1RUUxbUFZck1NRzJIc2lDci1pMlFLOHFsVDlzZkNHSVFLeFNkNlBMRzJkM1VLamxIZWJSWVh0a3hCUkVKNkRXZHFVN0E?oc=5",
       "pub_date": 1764036000.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-robots-china-manufacturing-89ae1b42?gaa_at=eafs&gaa_n=AWEtsqfJMkYXggkVL2_YJengVJxw3HNCr9DH4EyNa8fB1t6Ve4kGz2haX8xH&gaa_ts=69271925&gaa_sig=PFyO5um_f8PMumTVsj4lUl_GBSlMUrzcInFOHYVwB0s7RlYUUVBmWRolSH-GsbjSkOE7V0Xuy8OlSCKxo16krg%3D%3D",
+      "article_url": "https://www.wsj.com/tech/ai/ai-robots-china-manufacturing-89ae1b42?gaa_at=eafs&gaa_n=AWEtsqdL0cUcCxnH6vhwToZ2rdkh3FlkeL0uqZI_dR56P8rTlFylKOO_oecc&gaa_ts=69272423&gaa_sig=4HwZp02-TjkbrGK2CCO-EVHxillvb6ruBsLmsUdT06-6ylK6ezGuCU6TOcyiyOmbuWsSbuW4TlULStzbDIYO8A%3D%3D",
       "image": "https://images.wsj.net/im-45513338/social",
       "description": "China\u2019s factories and ports are learning to make and export more goods faster, cheaper and with fewer workers."
-    },
-    {
-      "headline": "Video: Warehouse humanoid robots lift and sort objects on their own in real-time",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWW1Kb3RnRzJnX3gxSVJELXlxdWo5YkMzU2NKa1JwZEZoZ0VTNGRXQnNxaHlqMXllTm4taV94MGNhS0w4ZGdfVzJUMzkydjBxRk9RaF9hZnpScm5Dc09YRjVmRHFBT05pc092VzZVMVFsYmZTTzdLMmdYV0llZ05KNA?oc=5",
-      "pub_date": 1764075900.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robot-pair-32-boxes",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/IE-Photo-15-1.jpg",
-      "description": "Mentee Robotics released an uncut 18 minute video on showing two V3 MenteeBots autonomously moving boxes inside a warehouse."
     },
     {
       "headline": "Embodied AI: China\u2019s Big Bet on Smart Robots",
@@ -33,6 +23,16 @@
       "article_url": "https://carnegieendowment.org/research/2025/11/embodied-ai-china-smart-robots?lang=en",
       "image": "https://carnegie-production-assets.s3.amazonaws.com/static/media/images/robot-ai-china-GettyImages-2244643683.jpg",
       "description": "Beijing believes that true AI dominance will come from systems capable of autonomous operation in the physical world\u2014AI-powered robotics, or embodied AI."
+    },
+    {
+      "headline": "Video: Warehouse humanoid robots lift and sort objects on their own in real-time",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWW1Kb3RnRzJnX3gxSVJELXlxdWo5YkMzU2NKa1JwZEZoZ0VTNGRXQnNxaHlqMXllTm4taV94MGNhS0w4ZGdfVzJUMzkydjBxRk9RaF9hZnpScm5Dc09YRjVmRHFBT05pc092VzZVMVFsYmZTTzdLMmdYV0llZ05KNA?oc=5",
+      "pub_date": 1764075900.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robot-pair-32-boxes",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/IE-Photo-15-1.jpg",
+      "description": "Mentee Robotics released an uncut 18 minute video on showing two V3 MenteeBots autonomously moving boxes inside a warehouse."
     },
     {
       "headline": "Tesla is bleeding AI talent to a small new robotics start-up",
@@ -55,6 +55,16 @@
       "description": "Flexion is using generative AI to build AI models that can automate tasks involving reasoning, writing, and creativity."
     },
     {
+      "headline": "This $46 billion robotics stock is up nearly 40% after a big win. Could more gains be in store?",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQd2JUSGYtbGNvZkNRZEM4UUxqdDNXa0wyRzRnc1FGT2V4TmRfR21MT1R2emkxc19JN241SXpqeXFUb1dhdS1rbjhVdUZjMklPQUFvUHpYYjFxaHBhQi0xSUI1eEZTX011RGpEV29UMDI1MTJBNnVJLVo3bDNpMVFhWTZySFV6c1RKUlIxM0kxRmd3bC1mZ1JvM3Nwam8yd0hTTEsyWHdfTFpxRGt1LXo5TW83VmxaM1hfSEI3Q2NCcE5ZTVEwQy1pV2NlZVEwS25aZ3h5TTh1UGZfVTY1Zm5JMHB1MFR3Y1BPVVBBVWptVHZ3MlhJM3VNZkoyd1J1OFNYbkdMUGNWWV9EaDlTOG1JbkdLMjcwTUg1VnVqMkQ5VjdyLURBQXhxYzdCTm1iaURBRE9BS0JUbU9tZVFnWkhKTFNpTmFicVhYODdwUERsMFhpOUZEeXZ6SDJPNFhUeTNVei1sWEV5QzVoVmIxTExNamdDeWVRbEZXRGtJemNQN2dYOVBpMjRLWEtKalpEUTQydlFQUjFIcmpyMS1FTlNQaFFDUnlpOWswX1NwRzVGMFBvUXFIMWpaRjBQaE5UcjZvcEZsWWEyVWkxWEE?oc=5",
+      "pub_date": 1764103860.0,
+      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqc5ldjLbnTefbvFer7TNcmXjvfYKLVwM_F-y5E4AMmDyvbnTGyMBf7-&gaa_ts=69272423&gaa_sig=yUAErXRhgfftoIGEsJwQxfZFhQKmabbbBK1asgfI1j2W-mSqeJids1dkltv8ssk5FgwOc6X3JmZEzA35-gK0HQ%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Surgical robotics market will double over the rest of the decade",
       "source": "MassDevice",
       "source_url": "https://www.massdevice.com",
@@ -63,26 +73,6 @@
       "article_url": "https://www.massdevice.com/surgical-robotics-market-will-double-over-the-rest-of-the-decade/",
       "image": "https://wtwh-marketing.s3.amazonaws.com/wp-content/uploads/massdevice/2025/11/25100924/Medtech-Markets-Robotic-Surgery-Website-1.png",
       "description": "Already worth billions of dollars, the global surgical robotics market will double by 2029, according to a new MassDevice report."
-    },
-    {
-      "headline": "This $46 billion robotics stock is up nearly 40% after a big win. Could more gains be in store?",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNU0VUUmV5NmxNRUVSMFJhNXR2NUZFMFRldFEwc251ajlzQVRRcEtJWms5VkVqSmJMM0FsM0JSSGY5RXltVzhZNFJ0U1dsUVVRd3R6UHBHM25ZSVlhcjg2ZTk3UF9uUlIwbjU0dXdpOVBicXZwUUdwSGJQN1RXWGQ1bzZxd2dYYklSY29nQ2VEWVJxTVREWWtlcHlsTThiUEkzbk55TGpVWGFqTmJHd1JsMnVJRzBQY3diZkx2OFVFQlhXTEIxV2lWU3QyMW8za0JQVVNFbUJqbTVWUUtKdWhfejJVRWpEakVGZ1JtVGs1Y2NhSzU0NzJBZlBQd0VwWFRhWVZRZnJQcDZyRUhwS290Uk5yRmxYMkZKV1AzbUdXRTV6b3hxY0s0ZnZyMFJ4dTVYU0pJMHhUZDM4bDA2T25JLVFZWW1qRTZZcFhYdTVHSHBCWExoZU5ITlU3YjVGRVY1MUJkTGxleXhleU5Pdm56dzNkYi1zOHBONzNkeld4aWNEampiUnJaQ2VYd3NYYkt5bmh0cnhkMXktaDk1WWRNUjM5UnVEM0ZQdC1kS2Q5ZGJqcndKZVBXZFBrUHpnaFNiaXZ0U2hrYTFHdDg?oc=5",
-      "pub_date": 1764103860.0,
-      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqe1OL-yXWG8q31k1nXHLTbTSAykZ5zOAp7rN5MuLZfaVMXv3OXUAk-7&gaa_ts=69271925&gaa_sig=v8ePaJw_Fj1T3HEZa1dmBbehFCn_Zo5JUzTkCUnpw-KHzlFuHTbPTlWSwQ98XOCZlU4cTAM81mZjuyEBK7HptQ%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Tesla sued for allegedly infringing robotics patents",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSjBpR0pSR2Y0eHg5NmNtU3JVNGJCLWZPcGRRdmFkSEUyeGx6dkFwUGQtNVFlSWdBWE42WjdXVVlxZkFfVEp4UFNKLVpRdmd6R2s2S1BkN1U1dzFmTzFrQ3U4a1kyVTBqbllBWFQzUW9rYnFPWHM3eFlUaU95QmlkMHdrNXQxa0d1QVUzVmpnb1B5WUNxdERtaXZma2Q3NWxYb2dZ?oc=5",
-      "pub_date": 1764020262.0,
-      "article_url": "https://www.reuters.com/legal/litigation/tesla-sued-allegedly-infringing-robotics-patents-2025-11-24/",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Remote Robotics Could Widen Access to Stroke Treatment",
@@ -103,8 +93,18 @@
       "article_url": "https://www.cbsnews.com/chicago/news/north-side-residents-petition-pause-to-delivery-robots/",
       "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/26/ea7c2273-cc71-4f18-ae29-3a61cd302db2/thumbnail/1200x630/a1e50d110a666ed067a785f815652a76/snapshot-2025-11-25t181748-090.jpg",
       "description": "Two companies, Serve Robotics and Cyan Robotics, are licensed in Chicago. The city said it's a pilot program that will assess benefits and risks."
+    },
+    {
+      "headline": "Tesla sued for allegedly infringing robotics patents",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSjBpR0pSR2Y0eHg5NmNtU3JVNGJCLWZPcGRRdmFkSEUyeGx6dkFwUGQtNVFlSWdBWE42WjdXVVlxZkFfVEp4UFNKLVpRdmd6R2s2S1BkN1U1dzFmTzFrQ3U4a1kyVTBqbllBWFQzUW9rYnFPWHM3eFlUaU95QmlkMHdrNXQxa0d1QVUzVmpnb1B5WUNxdERtaXZma2Q3NWxYb2dZ?oc=5",
+      "pub_date": 1764020262.0,
+      "article_url": "https://www.reuters.com/legal/litigation/tesla-sued-allegedly-infringing-robotics-patents-2025-11-24/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T14:59:08.126337+00:00"
+  "fetched_at": "2025-11-26T15:45:55.296387+00:00"
 }
