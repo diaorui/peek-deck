@@ -79,6 +79,17 @@
       "description": "Uber's Project Sandbox used contractors to train AI for Google. On Monday, Uber told some of them their work was over early."
     },
     {
+      "title": "Trying AI apps. Fountain photo shoot.",
+      "author": "focusclickflash",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7jzjo/trying_ai_apps_fountain_photo_shoot/",
+      "published": 1764192302.0,
+      "thumbnail": "https://external-preview.redd.it/aHp4eDkwcDE1bzNnMTyZ-j4lQV9KStDqzj-okt_jLIvzlESmaBaKi0VwZV03.png?width=640&crop=smart&auto=webp&s=4f7d499828f8a50cafc0ba57a83edfc84873bc54",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "If AI could be walked through every step it could work. But it still doesn't grasp full actions."
+    },
+    {
       "title": "Jeff Bezos\u2019 New AI Venture Quietly Acquired an Agentic Computing Startup",
       "author": "wiredmagazine",
       "url": "https://www.reddit.com/r/artificial/comments/1p7j12e/jeff_bezos_new_ai_venture_quietly_acquired_an/",
@@ -99,18 +110,7 @@
       "site_name": "The Verge",
       "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
       "description": "As currently conceived, an AI system that spans multiple cognitive domains could, supposedly, predict and replicate what a generally intelligent human would do or say in response to a given prompt. These predictions will be made based on electronically aggregating and modeling whatever existing data they have been fed. They could even incorporate new paradigms into their models in a way that appears human-like. But they have no apparent reason to become dissatisfied with the data they\u2019re being fed \u2014 and by extension, to make great scientific and creative leaps. Instead, the most obvious outcome is nothing more than a common-sense repository. Yes, an AI system might remix and recycle our knowledge in interesting ways. But that\u2019s all it will be able to do. It will be forever trapped in the vocabulary we\u2019ve encoded in our data and trained it upon \u2014 a dead-metaphor machine. And actual humans \u2014 thinking and reasoning and using language to communicate our thoughts to one another \u2014 will remain at the forefront of transforming our understanding of the world."
-    },
-    {
-      "title": "The 5 reasons why Google is suddenly on a tear and dominating the AI race",
-      "author": "businessinsider",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6p0bo/the_5_reasons_why_google_is_suddenly_on_a_tear/",
-      "published": 1764105914.0,
-      "thumbnail": "https://external-preview.redd.it/VvaZdjyeu-f33pE60RHjRPA8HPQiVCZ7wH8avY_VnDk.jpeg?width=640&crop=smart&auto=webp&s=c0d0646c5dfe8dfa68b7681ef3f136742402e611",
-      "external_url": "https://www.businessinsider.com/google-company-turnaround-moment-reasons-ai-race-gemini-2025-11?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "Google is on a tear in the AI race and has made a miraculous comeback, thanks to Gemini, its TPUs, and other factors. Here's what's going on."
     }
   ],
-  "fetched_at": "2025-11-26T21:22:57.442358+00:00"
+  "fetched_at": "2025-11-26T21:59:00.849799+00:00"
 }

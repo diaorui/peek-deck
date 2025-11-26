@@ -23,8 +23,8 @@
       "url": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
       "hn_url": "https://news.ycombinator.com/item?id=46055944",
       "author": "todsacerdoti",
-      "points": 457,
-      "num_comments": 673,
+      "points": 458,
+      "num_comments": 675,
       "created_at": "2025-11-26T10:08:20Z",
       "object_id": "46055944",
       "image": null,
@@ -65,8 +65,8 @@
       "url": "https://github.com/ocaml/ocaml/pull/14369",
       "hn_url": "https://news.ycombinator.com/item?id=46039274",
       "author": "theresistor",
-      "points": 345,
-      "num_comments": 175,
+      "points": 346,
+      "num_comments": 177,
       "created_at": "2025-11-24T21:03:22Z",
       "object_id": "46039274",
       "image": "https://opengraph.githubassets.com/f9a348201f077266a2109b8803c1e9517a12068a8a133f050a8278edb857918b/ocaml/ocaml/pull/14369",
@@ -80,7 +80,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46038417",
       "author": "JumpCrisscross",
       "points": 173,
-      "num_comments": 102,
+      "num_comments": 103,
       "created_at": "2025-11-24T19:50:47Z",
       "object_id": "46038417",
       "image": null,
@@ -121,7 +121,7 @@
       "url": "https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders",
       "hn_url": "https://news.ycombinator.com/item?id=46057000",
       "author": "01-_-",
-      "points": 71,
+      "points": 72,
       "num_comments": 70,
       "created_at": "2025-11-26T13:05:33Z",
       "object_id": "46057000",
@@ -145,7 +145,7 @@
       "site_name": "CNBC"
     }
   ],
-  "total_hits": 509,
+  "total_hits": 507,
   "has_metadata": true,
-  "fetched_at": "2025-11-26T21:22:55.928919+00:00"
+  "fetched_at": "2025-11-26T21:59:00.742098+00:00"
 }

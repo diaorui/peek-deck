@@ -5,48 +5,48 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Video: Warehouse humanoid robots lift and sort objects on their own in real-time",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWW1Kb3RnRzJnX3gxSVJELXlxdWo5YkMzU2NKa1JwZEZoZ0VTNGRXQnNxaHlqMXllTm4taV94MGNhS0w4ZGdfVzJUMzkydjBxRk9RaF9hZnpScm5Dc09YRjVmRHFBT05pc092VzZVMVFsYmZTTzdLMmdYV0llZ05KNA?oc=5",
-      "pub_date": 1764075900.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robot-pair-32-boxes",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/IE-Photo-15-1.jpg",
-      "description": "Mentee Robotics released an uncut 18 minute video on showing two V3 MenteeBots autonomously moving boxes inside a warehouse."
-    },
-    {
       "headline": "Robots and AI Are Already Remaking the Chinese Economy",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNVXl4ckhvU1JWd2NxaEhrd1lVZjlyNzhiLXNrRjlLcVRMV016eXVYX1pwaS1uQWdvLW8yNzdfRnFrRFU1dnlhZFdKR0tTa2E2UzNsTzhZR2tGdVNyQmJPMTU3WFVMMHZHRFdjb2plZllSOEdkTU5lSEVWcmpwX2paVklmNGVQdTdoQ0stU0l0OGcwcnFFa1c1Q1pUVTc1ajJQcXdLOFgzd1NZeHNkeDU3OTk1NDNUR2ZvRWRlWWtBX1FPam9zVG5xSnZ1RFpieGx0T3FHLVp4VGR0d2h2eTBJWE1UUHFiSGN6NEo2RGRjMVExaDJLR211Z19Mc1c5aVFIS3E0dl84bGJiZTg0WlMybGZnbXpkazdjUUZKV1ByRmcwd29ZUmczUjBNZ0d1VmVFVzVhTHFIZkVYd01OZDVLeWdzNHFLZkdUOWRGTEx3ZVdHM3lRUTgxU19DalFKWTJtQTI0SkNGZVUzZ0FwMzljNlVneG1fSFVDelE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPOGdmZWtramdOT0JHbWRqREI0VnBrTWo4dkFOcHBJODFzYTc4eXBYZWQ1SDFveHNMbVc0a285aFl4Q0ZMME1lZDltazFNLVQtRUw4R3JoNkpMMEFBZmtyeFJ3a2NMYkRYaUluMFZrYWtRcE9DRU9zMTU1dURWOXRKaFFrWkRqYmJXUGF6d2hrdWhIX0dTVXg3ZG5WOGRrclQxdF9NSGtiQmdTX2VjRUM5Tmdmb1NiMGpDRVJfbGVRZGxpRFBkQ29vVmNNenAwdTQ2T1AtQldxeXBOSGlmR2NFLUNDdUM4U2dMNFF4ekVnenF2VW9OZ1VSOGdSUUd0bERYTW4xYW5aRndFN0dZdlVvUVRacWg5NG0xTkZvRjhleEluV2htRzFzLW45VE45dTdsNWJWSGVObE9UT3lRSFVjMFZsQ1l1b2MzaEJHLVpEQWt1VzhNX2doTUN0NmZud3BnVUVZdy1QLWhiV0JOVmExVVQyazRlZXdsNXc?oc=5",
       "pub_date": 1764036000.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-robots-china-manufacturing-89ae1b42?gaa_at=eafs&gaa_n=AWEtsqemYdpQQ1lTrTUYbwDCWi8JrMDUimwuCjur7GhG7T8My5u5wd2-RASi&gaa_ts=69277338&gaa_sig=mJponsAm5WNvUVyqJktM8qcK9bn1Qivr3V0-mMyn9iDdx1lGUa5UT_Qbu8_xeAxlEJJvlgBNqUmb7XWyw8PBVQ%3D%3D",
+      "article_url": "https://www.wsj.com/tech/ai/ai-robots-china-manufacturing-89ae1b42?gaa_at=eafs&gaa_n=AWEtsqcYSabhKw2-tvoX6PoA6q7M5FGQizCV2IJt6YX49-bNPwISDkHZWHCF&gaa_ts=69277bac&gaa_sig=k06NDyqG4y9GJzHieHJhkWKzu4wjFuBWi_CzjAkDOvVHuSRRNL8KlBWBIDArSdlmacfFgcfUm0xqgpoKsQNSWQ%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Embodied AI: China\u2019s Big Bet on Smart Robots",
-      "source": "carnegieendowment.org",
-      "source_url": "https://carnegieendowment.org",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONV9RdWdfSUw1Y19oUGRjclRlbzJ2VW1nbGVlM21mZnZzUjZrNXpZWG1XZnUxQ2hLTzZnMFJhakRaYXlESnl2UnBKVFQ5UUNfSUhjcTFKTVI3MzVDeWpEUWMwcXprcFFrTEM1SG9YYnhzNWFIalVRbWx6UTUtOHFkc2hSbVpPMUFudmdRUDJB?oc=5",
-      "pub_date": 1764000718.0,
-      "article_url": "https://carnegieendowment.org/research/2025/11/embodied-ai-china-smart-robots?lang=en",
-      "image": "https://carnegie-production-assets.s3.amazonaws.com/static/media/images/robot-ai-china-GettyImages-2244643683.jpg",
-      "description": "Beijing believes that true AI dominance will come from systems capable of autonomous operation in the physical world\u2014AI-powered robotics, or embodied AI."
+      "headline": "Tesla is bleeding AI talent to a small new robotics start-up",
+      "source": "Electrek",
+      "source_url": "https://electrek.co",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUTFBMXRyMGlCSXBwQVpQU09KTnpFTG1JdWQ1T2dtVC1OdXFOQWt3VEIxbXlWRUFvLWZzdVRSbEtZVmd6dGE4TXcwR1VFVDZOS0FQZGxIRWpUekZaejFITjMwNV9kQlBtaTJFVU8xcFZENi1TYUxVaFpBUk1JWnNXZXIyVm5CQ05lR2F6bQ?oc=5",
+      "pub_date": 1764017880.0,
+      "article_url": "https://electrek.co/2025/11/24/tesla-bleeding-ai-talent-small-new-robotics-start-up/",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/11/Sunday-Robotics-Tesla-engineers.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "description": "Tesla\u2019s AI and robotics divisions are facing a significant \u201cbrain drain\u201d as a stealth startup called Sunday Robotics emerges with..."
     },
     {
       "headline": "Tesla accused of infringing robotics patents in new lawsuit",
       "source": "Teslarati",
       "source_url": "https://www.teslarati.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU1Vsc1hZZnNKMmhyWmtfQzRNVXhIeTNRNDdXUXZZWVpjemFmMTNNeTd3ekdaUkFHdlJ6dUVlTVFRcFZtaVB1YWxZSy1TYVgwcEpkSTVCUGQwaWtGRzk0RlBoTU1iZmJ1a0szV0hET1dMWXVtUHV2YTRzSjhxS1R4YTZiTFF2UU9nUzNv?oc=5",
-      "pub_date": 1764109078.0,
+      "pub_date": 1764107187.0,
       "article_url": "https://www.teslarati.com/tesla-accused-infringing-robotics-patents-in-new-lawsuit/",
       "image": "https://www.teslarati.com/wp-content/uploads/2017/04/tesla-logo-new-york-store-1000x600.jpg",
       "description": "Tesla is being accused of infringing robotics patents by a company called Perrone Robotics, which is based out of Charlottesville, Virginia. The suit was filed in Alexandria, Virginia, and accuses Tesla of knowingly infringing upon five patents related to robotics systems for self-driving vehicles. The company said its founder, Paul Perrone, developed general-purpose robotics operating [\u2026]"
     },
     {
+      "headline": "Tesla sued for allegedly infringing robotics patents",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSjBpR0pSR2Y0eHg5NmNtU3JVNGJCLWZPcGRRdmFkSEUyeGx6dkFwUGQtNVFlSWdBWE42WjdXVVlxZkFfVEp4UFNKLVpRdmd6R2s2S1BkN1U1dzFmTzFrQ3U4a1kyVTBqbllBWFQzUW9rYnFPWHM3eFlUaU95QmlkMHdrNXQxa0d1QVUzVmpnb1B5WUNxdERtaXZma2Q3NWxYb2dZ?oc=5",
+      "pub_date": 1764020262.0,
+      "article_url": "https://www.reuters.com/legal/litigation/tesla-sued-allegedly-infringing-robotics-patents-2025-11-24/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Inside the Lab Teaching Robots to Make Coffee, Fold Laundry",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZW5FZ0p4TWVyenF6ek43ZF9DZ3ZoNFVJVEZ5dU14SnlzN1ZfY19KVUxVeDhNdUJzbi1XMjd3LU1Wd29JTXlxbkpfUk9GbUxvRHpOcGpnUVZkTmJsaUlIYUI0S3c0MmIxWG80SV9OSnJvdGl6VTIyVDA3dkU0alJ2d1BfQWt1TFFhZXdhRFM4VExpaEFiWjN1NEhMLXcxS29pZlVEUzJVOWFsY0VwbEg5T25R?oc=5",
       "pub_date": 1764190833.0,
@@ -55,22 +55,12 @@
       "description": null
     },
     {
-      "headline": "Inside Glacier\u2019s mission to modernize recycling",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWM3eVlkTnJadVlnTF9qV3dSRW1FQmYwc2Zza1hRM3ZKYnFNMndZZWhQMnNUMEhXdndkTFdEZXBuTlZPbDJzOHJQWG1rcDJzbG5NQkljWHNnU09uLXVKYkRSY1VCUU51aXdtYVo0bE9jLWJoMkpVaVBhZlg4X1hFUDB0OVE?oc=5",
-      "pub_date": 1764182988.0,
-      "article_url": "https://www.therobotreport.com/inside-glaciers-mission-to-modernize-recycling/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2025/11/episode-223-featured.jpg",
-      "description": "Glacier's robots promise to help the circular economy become more efficient and to improve sustainability."
-    },
-    {
       "headline": "This $46 billion robotics stock is up nearly 40% after a big win. Could more gains be in store?",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOaHQ0ZnhMeS1EY2dJUGJyTVo2RlE2bjN3UWtsaEpqb1FNeEw3MHZWYnhzYXE5VW5RM1FoRzllNFFnWUYtT3ZYbzZhRlVMaDItMGU2T3htVTJBVjJpNUxnMElZTHdzektOanhxU2pCdEFNWHp4NTJ1aVpZX3NyZkR6TTZOV2NHU1hCMVBLRXR0Yk0yVTlmTVYzX2lDSnpRQ01JekZKVVJWdWpxNkhXeDV0NDFnYU42Z0NoT0R3N3UwZG5iMWpVRUx0V1dWR2lWM1NOQVliZkRQeHlCUnVyNVcyb2NURUpnZkctRktULU9fajdfRTkxdHdid0tVY2V5WENrV3V5cEZDX2NfTXZOQ2h2RnluTDdYQzU4QWNiNl8yTUV5Y2Z3THRlX1M0NkRYMkxCWnk4YUxFaEFFSGotUG9LVkdiT3dBdjVxQlpFQTJ1dXVuanIxUWhYeVdaTzBva3ZqOXBMMmZYc1UyMDBabkUwQmtUa2UyOHFsYnlHVTdMczhiMlVadjcyQkxQVTZ6Qjk0LWMtVS1SeERYZF9lY2FabmhiQVdjN0g3TjRGT2ZEakFBX2lTY1AwTENiNDVTYU1rN2wwSFdtYkdVeWM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQRUZ0ZENwUEZGcUZ3UEJEX08wdlhfMVRZYlBkelU0MnZZQ0pHWGJmZ1RjeWFsaGVTaHh6VlFHVVZGUDBfU1VCb1p1alkyamxWcVpGVkJnSF9wNTBmNTVOUUJRdTROdVZlbTc1SVhRRm92eWhERWI3ZXhRTmUyTm5vdXh0RWhrX213ZTVycHZUOHNiYjRPeS1tQnhZYmtYeExnTHZJZDZKcGw1Rk1iNVNvb3hVZlNETDcxc09zcEx3UEpoM2NmVFQ4Q1pNemFkOWZkdmFxTlN2T1htV3lBRnVYT2gwTThXUFZHMVZXck5EUl9KRk01TDE0NXVnMnlvRUFTRmN3QjNsYWdINTdYV3ZIUzNDQjdZSW1wM1dtc2Y5SDdjbzFiZVJBNVFJSEpOQXFCWV8wTDd6UUFiRlVGSFhnWVJ4S25nNGhCRmpUWXNJS0dmR0tQLUNIalQzYnAzbmhJU0JUTTFDZVJrODlDM3VES3QxRldWeG0yRnpvMGU5N3JVVHVRbHh4M3VUSUZud0ZISXV2cFBuNGtnWnZGNVVvek5pLXUwUkQwbFhoTTFYYUVLeTNGZDZtdnA1YmlMUkRLZ3UzRnlpVElUWkU?oc=5",
       "pub_date": 1764103860.0,
-      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqe6E8A5f37XdMU6yKEnX_IrYRSxlkM0cjR5jT0X88V8oaT1DOskFDRp&gaa_ts=69277338&gaa_sig=wswX7kg1sn4IQIAbm-0bkdK_hj_9Vcl2-1bb6IrtbhSRfHDITgx46t7jqsyPfkqFBja5p16PSJnG6Ks4zVtICA%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqfKTD1WPOYNEqIoT3SCt_AKA6eekJd_MIKPd1Gd8DG3gNoVoL1IJWRY&gaa_ts=69277bac&gaa_sig=gSjbSzV5s5ZC5X0K4Sq8X3VKd9wD1Uk4o4jMK9nNKGeUma0lEoQtizlVnj9Z8q82opIO1nBHg6E_p8K0rlYgjQ%3D%3D",
       "image": null,
       "description": null
     },
@@ -85,16 +75,6 @@
       "description": "Already worth billions of dollars, the global surgical robotics market will double by 2029, according to a new MassDevice report."
     },
     {
-      "headline": "Tesla is bleeding AI talent to a small new robotics start-up",
-      "source": "Electrek",
-      "source_url": "https://electrek.co",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUTFBMXRyMGlCSXBwQVpQU09KTnpFTG1JdWQ1T2dtVC1OdXFOQWt3VEIxbXlWRUFvLWZzdVRSbEtZVmd6dGE4TXcwR1VFVDZOS0FQZGxIRWpUekZaejFITjMwNV9kQlBtaTJFVU8xcFZENi1TYUxVaFpBUk1JWnNXZXIyVm5CQ05lR2F6bQ?oc=5",
-      "pub_date": 1764017880.0,
-      "article_url": "https://electrek.co/2025/11/24/tesla-bleeding-ai-talent-small-new-robotics-start-up/",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/11/Sunday-Robotics-Tesla-engineers.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "description": "Tesla\u2019s AI and robotics divisions are facing a significant \u201cbrain drain\u201d as a stealth startup called Sunday Robotics emerges with..."
-    },
-    {
       "headline": "Remote Robotics Could Widen Access to Stroke Treatment",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
@@ -103,8 +83,28 @@
       "article_url": "https://spectrum.ieee.org/remote-robotic-stroke-treatment-evt",
       "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62225322&width=1200&height=600&coordinates=0%2C84%2C0%2C141",
       "description": "Could telerobotics be the key to faster stroke treatment in rural areas? Soon, surgeons may perform lifesaving procedures from miles away."
+    },
+    {
+      "headline": "Hundreds of Chicago residents sign petition to pause robot delivery pilot program over safety concerns",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVlo4VG0wcnQ5MkRublN5VzVEcFNfRkVuYjZvX2QxMXdrNkgxbVBQaVdSaHRBZERpUEdOQll5dl9kRkF0Y1lqOTZUa1NSRXNPZnNqTnhWTlRIMl8wSkNZcXpjaUVpdE00WDBkMEpTb3BoMDctWFNDU0ZobE5xdndrNEM0QlFxRmNPWE5MTjFZTm5kaVZlclRN?oc=5",
+      "pub_date": 1764117240.0,
+      "article_url": "https://www.cbsnews.com/chicago/news/north-side-residents-petition-pause-to-delivery-robots/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/26/ea7c2273-cc71-4f18-ae29-3a61cd302db2/thumbnail/1200x630/a1e50d110a666ed067a785f815652a76/snapshot-2025-11-25t181748-090.jpg",
+      "description": "Two companies, Serve Robotics and Cyan Robotics, are licensed in Chicago. The city said it's a pilot program that will assess benefits and risks."
+    },
+    {
+      "headline": "Walt Disney Imagineering Brings \u2018Frozen\u2019 Olaf Robotic Character to Life",
+      "source": "The Walt Disney Company",
+      "source_url": "https://thewaltdisneycompany.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sM1M5MGJ3enJWOUhMQXF3SXlRVmdGOUVHRDJDZ0NOWlRjbUszaXl3bDIzOHg0UU5UZmxyRFhMa2FaOHFBb3lOV1VZTWVqSkI2YjM1MF9BS3k2NHEyUkg5WEpna0hZYWc?oc=5",
+      "pub_date": 1764003780.0,
+      "article_url": "https://thewaltdisneycompany.com/olaf-robotic-character/",
+      "image": "https://thewaltdisneycompany.com/app/uploads/2025/11/SB200703-ModifierPressRes.jpg",
+      "description": "On Monday, Walt Disney Imagineering (WDI) released the latest episode of its hit series, \u201cWe Call It Imagineering,\u201d taking audiences inside the global Research \u2026Read More"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T21:23:29.900622+00:00"
+  "fetched_at": "2025-11-26T21:59:27.463308+00:00"
 }
