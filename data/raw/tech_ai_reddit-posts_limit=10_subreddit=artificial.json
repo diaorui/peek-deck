@@ -79,6 +79,17 @@
       "description": "A while back I posted on some fundamental problem facing the current paradigm and this got some negative backlash. In light of Ilya's latest interview, I think things have become more clear. The way RL is done currently is not enough to reach AGI. Researchers have to set up specific RL environments, which costs a lot of time and effort, just so models get good at these few specified axis. These axis now happen to be aligned with eval performance, giving this brittle feel to a models capabilities. This is something that cannot be fixed with scale, since the bottleneck is how many of these RL environments can be created, which is a product of human labor and not of scale. Remember though that before self-supervised we had the exact same scenario with supervised learning, where researchers had to manually setup learning environments. However, once we figured out how to utilize scale, we opened up all the developments we have now. We are thus now waiting for the self-supervised moment for RL. Ilya already hinted at this with evaluation functions, and drawing inspiration from biology we can find some plausible solutions. For example, when a dog gets a treat when doing a trick, he is more likely to perform that trick. This is similar to the RL we have now where actions that lead to reward are reinforced. The difference becomes clear when we add a clicker sound to the treat: at some point, the dog will feel rewarded just by the sound of the clicker alone, and you don't need the treats anymore. This mechanism is what us currently missing from the models. Thus, the idea is to instead of just enforcing pathways that led to the reward, also add a small reward signal to the path itself. If many paths happen to cross the same node, then this node will become so rewardable that it becomes similar to the original reward: it becomes a proxy for the original reward, just like the clicker became a proxy for food. The problem now is that the model can start reward hacking, just like the dog optimizes for the clicker eventhough it doesn't result in him earning any more food. To counteract this, we can use the same mechanism that forces dog trainers to once in a while give a treat after using the clicker a lot; we degrade reward signals from paths that don't lead to rewards. If done right, models could start with some innate rewards, just like humans have innate needs like warmth, food and sex. Then, the model learns proxies for these rewards, and proxies for proxies, until it learns very abstract rewards. It will start finding interests in things seemingly completely unrelated to its innate needs at first glance, but in the end benefit him through some complex network of proxies and relationships learned through this form of RL. The best part of all of this is that we only need humans to set the first couple innate signals, and the rest will grow with scale, making this a true breakthrough for the current brittleness of these model's capabilities."
     },
     {
+      "title": "Singapore Firm\u2019s AI Teddy Bear Back on Sale After Shock Sex Talk",
+      "author": "bloomberg",
+      "url": "https://www.reddit.com/r/artificial/comments/1p748sy/singapore_firms_ai_teddy_bear_back_on_sale_after/",
+      "published": 1764152358.0,
+      "thumbnail": "https://external-preview.redd.it/okfSZH5ws7x8Cu0btJUogZXGrKIgUT7pa_0kumFZ9S0.jpeg?width=640&crop=smart&auto=webp&s=06146fb010cf8059e125a6cea33972c3da40405a",
+      "external_url": "https://www.bloomberg.com/news/articles/2025-11-26/singapore-firm-s-ai-teddy-bear-back-on-sale-after-shock-sex-talk",
+      "site_name": "bloomberg.com",
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Dell misses on revenue, offers strong fourth quarter forecast driven by AI sales",
       "author": "ControlCAD",
       "url": "https://www.reddit.com/r/artificial/comments/1p70l3u/dell_misses_on_revenue_offers_strong_fourth/",
@@ -99,18 +110,7 @@
       "site_name": "youtube.com",
       "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
-    },
-    {
-      "title": "AI cited in nearly 50,000 job cuts this year as tech giants accelerate automation, with 31,000 in October alone.",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6cw85/ai_cited_in_nearly_50000_job_cuts_this_year_as/",
-      "published": 1764078533.0,
-      "thumbnail": "https://external-preview.redd.it/tUiA6XW7aVcHGw3xD1mT-fogOCWxMJeQTUj_lwHg6xQ.jpeg?width=640&crop=smart&auto=webp&s=7076a9c78d89b97a92efce4125cece5702f04325",
-      "external_url": "https://www.latimes.com/business/story/2025-11-20/ai-cited-in-close-to-50-000-job-cuts-as-tech-giants-accelerate-automation",
-      "site_name": "Los Angeles Times",
-      "favicon": "https://www.latimes.com/apple-touch-icon.png",
-      "description": "In recent months, large firms across industries and geographic regions have become more vocal with claims that AI is allowing them to eliminate staff and reduce hiring."
     }
   ],
-  "fetched_at": "2025-11-26T09:52:14.840869+00:00"
+  "fetched_at": "2025-11-26T10:43:05.404214+00:00"
 }
