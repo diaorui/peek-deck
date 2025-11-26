@@ -79,6 +79,17 @@
       "description": "A while back I posted on some fundamental problem facing the current paradigm and this got some negative backlash. In light of Ilya's latest interview, I think things have become more clear. The way RL is done currently is not enough to reach AGI. Researchers have to set up specific RL environments, which costs a lot of time and effort, just so models get good at these few specified axis. These axis now happen to be aligned with eval performance, giving this brittle feel to a models capabilities. This is something that cannot be fixed with scale, since the bottleneck is how many of these RL environments can be created, which is a product of human labor and not of scale. Remember though that before self-supervised we had the exact same scenario with supervised learning, where researchers had to manually setup learning environments. However, once we figured out how to utilize scale, we opened up all the developments we have now. We are thus now waiting for the self-supervised moment for RL. Ilya already hinted at this with evaluation functions, and drawing inspiration from biology we can find some plausible solutions. For example, when a dog gets a treat when doing a trick, he is more likely to perform that trick. This is similar to the RL we have now where actions that lead to reward are reinforced. The difference becomes clear when we add a clicker sound to the treat: at some point, the dog will feel rewarded just by the sound of the clicker alone, and you don't need the treats anymore. This mechanism is what us currently missing from the models. Thus, the idea is to instead of just enforcing pathways that led to the reward, also add a small reward signal to the path itself. If many paths happen to cross the same node, then this node will become so rewardable that it becomes similar to the original reward: it becomes a proxy for the original reward, just like the clicker became a proxy for food. The problem now is that the model can start reward hacking, just like the dog optimizes for the clicker eventhough it doesn't result in him earning any more food. To counteract this, we can use the same mechanism that forces dog trainers to once in a while give a treat after using the clicker a lot; we degrade reward signals from paths that don't lead to rewards. If done right, models could start with some innate rewards, just like humans have innate needs like warmth, food and sex. Then, the model learns proxies for these rewards, and proxies for proxies, until it learns very abstract rewards. It will start finding interests in things seemingly completely unrelated to its innate needs at first glance, but in the end benefit him through some complex network of proxies and relationships learned through this form of RL. The best part of all of this is that we only need humans to set the first couple innate signals, and the rest will grow with scale, making this a true breakthrough for the current brittleness of these model's capabilities."
     },
     {
+      "title": "Dell misses on revenue, offers strong fourth quarter forecast driven by AI sales",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1p70l3u/dell_misses_on_revenue_offers_strong_fourth/",
+      "published": 1764138510.0,
+      "thumbnail": "https://external-preview.redd.it/2S8ZtXZ9yEXdkD29Zs5aL41PW0FqdPKvjD8bb27j1Qw.jpeg?width=640&crop=smart&auto=webp&s=1e811e692a35c11b42a313bdc27e389df69e7461",
+      "external_url": "https://www.cnbc.com/2025/11/25/dell-earnings-report-q3-2026.html",
+      "site_name": "CNBC",
+      "favicon": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
+      "description": "Dell is an important bellwether for the health of the AI infrastructure industry as one of the top vendors for systems based around Nvidia graphics processors."
+    },
+    {
       "title": "AI cited in nearly 50,000 job cuts this year as tech giants accelerate automation, with 31,000 in October alone.",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1p6cw85/ai_cited_in_nearly_50000_job_cuts_this_year_as/",
@@ -99,18 +110,7 @@
       "site_name": "The Wall Street Journal",
       "favicon": "https://s.wsj.net/media/wsj_apple-touch-icon-180x180.png",
       "description": "To blunt Trump\u2019s push to reclaim global manufacturing, China\u2019s factories and ports are learning to make and export more goods faster, cheaper and with fewer workers."
-    },
-    {
-      "title": "Dell misses on revenue, offers strong fourth quarter forecast driven by AI sales",
-      "author": "ControlCAD",
-      "url": "https://www.reddit.com/r/artificial/comments/1p70l3u/dell_misses_on_revenue_offers_strong_fourth/",
-      "published": 1764138510.0,
-      "thumbnail": "https://external-preview.redd.it/2S8ZtXZ9yEXdkD29Zs5aL41PW0FqdPKvjD8bb27j1Qw.jpeg?width=640&crop=smart&auto=webp&s=1e811e692a35c11b42a313bdc27e389df69e7461",
-      "external_url": "https://www.cnbc.com/2025/11/25/dell-earnings-report-q3-2026.html",
-      "site_name": "CNBC",
-      "favicon": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
-      "description": "Dell is an important bellwether for the health of the AI infrastructure industry as one of the top vendors for systems based around Nvidia graphics processors."
     }
   ],
-  "fetched_at": "2025-11-26T06:42:57.259885+00:00"
+  "fetched_at": "2025-11-26T07:27:27.297390+00:00"
 }

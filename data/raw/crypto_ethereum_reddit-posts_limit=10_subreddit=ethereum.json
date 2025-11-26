@@ -13,17 +13,6 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
-      "title": "Daily General Discussion November 25, 2025",
-      "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1p64v1p/daily_general_discussion_november_25_2025/",
-      "published": 1764050459.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
-    },
-    {
       "title": "are governance tokens for L2 infrastructure even worth holding long term?",
       "author": "Haunting_Celery9817",
       "url": "https://www.reddit.com/r/ethereum/comments/1p6zj9w/are_governance_tokens_for_l2_infrastructure_even/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "{\"document\":[{\"e\":\"par\",\"c\":[{\"e\":\"text\",\"t\":\"been thinking about this lately after watching what happened with some of the earlier L2 tokens. most of them pumped at launch and then just bled for months. now with more rollup frameworks launching like era and others, feels like we're gonna see a flood of new L2 governance tokens.\"}]},{\"e\":\"par\",\"c\":[{\"e\":\"text\",\"t\":\"my question is what's the actual value prop here? governance sounds cool but most token holders don't really participate in votes. and if the L2 is successful, the value accrues to the protocol through fees, but does that actually flow back to token holders in a meaningful way?\"}]},{\"e\":\"par\",\"c\":[{\"e\":\"text\",\"t\":\"looking at arb and op, the tokenomics seem more about incentivizing usage than rewarding holders. which makes sense for adoption but not great if you're buying the token as an investment.\"}]},{\"e\":\"par\",\"c\":[{\"e\":\"text\",\"t\":\"anyone actually participating in L2 governance or is everyone just hoping for airdrops and price pumps? trying to figure out if there's a legitimate reason to hold these long term or if they're just speculation plays.\"}]}]}"
+    },
+    {
+      "title": "Daily General Discussion November 25, 2025",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p64v1p/daily_general_discussion_november_25_2025/",
+      "published": 1764050459.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
       "title": "Once volume goes up the gas bill becomes a villain",
@@ -112,5 +112,5 @@
       "description": "Hi! I have a question about EIP-7702, please. If I upgrade my trusty old EOA address to enable smart contract functionalities using EIP-7702, does my address lose the ability to receive airdrops? I think technically it could still receive them, but I\u2019m afraid it won\u2019t be included in airdrop lists anymore. Thank you"
     }
   ],
-  "fetched_at": "2025-11-26T06:42:58.715710+00:00"
+  "fetched_at": "2025-11-26T07:27:30.147462+00:00"
 }

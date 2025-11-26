@@ -5,16 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "The $1.7B Bitcoin Bet on Rally Above $100K, But Not Reaching New Record Highs",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWEVCaXVBYzdiMlVrOXVwOTc5anNLLWk5R3g5bjMxZFpYcU94aWhIbjFObENYMF96MTBUY016clFHRkNfWmEwTU9oVWtZbThheTNiZDBkaWdYQTRzNXIyU1A1ZjNYeEZHZnowU1VZYTV3X0RKbmZiVFVDbkhVUm9XSjhXMjZGTE9LdU5BRGZMbXVEZ0c5TkhLdzE5b1o2T2RDMFFTd09GYld0ZEZEamx3UXhnRGtCQ1ZKSkNVeFYwVEM2dw?oc=5",
-      "pub_date": 1764051199.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/25/the-usd1-7b-bitcoin-bet-on-rally-above-usd100k-but-not-reaching-new-record-highs",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin plunges while gold rises, destroying the crypto \u2018safe haven\u2019 narrative",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -45,26 +35,6 @@
       "description": "Blackrock's spot bitcoin ETF has so far seen $2.2 billion worth of outflows in November as its underlying crypto continues to crater."
     },
     {
-      "headline": "Texas Becomes the First State to Buy Bitcoin \u2014 What Happens Next?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON3owalRlaU1wazAzNmVnOXE5WFFkdUpuMnh1aUVUQTVQT3NtSWZYMjdzdm5wcVZVS3U4YmJzeXRTWklIandacUthdzBVU3d0SmdqbUZ2LVgzNFRCVWhYdXZwTzBjdjlYSXpua19YQXpRMGJfMTUzYXdFZUZSc3RpNA?oc=5",
-      "pub_date": 1764108373.0,
-      "article_url": "https://finance.yahoo.com/news/texas-becomes-first-state-buy-220613225.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/PZ9a3f6RtzMXJ.TN2B2wQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/6790f10ba93ede3db94e7320c03f74df",
-      "description": "Texas becomes the first state to buy Bitcoin for its treasury, signaling a bold shift in government adoption."
-    },
-    {
-      "headline": "Texas Becomes First U.S. State to Buy $5M of BlackRock\u2019s Spot Bitcoin ETF",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12cUFIYTl6QWpOVkNtUGd6Z2JucEtwdmZoTUs3OWt6a0k2ZFNzRjBDNnJYdnppT3o5NHhXSGhEOXhNek1ncDI5S2Nmc0xjMmNqcDkxbzJNUm1RaURJZHdpd05sYUNaYjkyS2ZUY2hWeUhQS3pI?oc=5",
-      "pub_date": 1764101561.0,
-      "article_url": "https://bitcoinmagazine.com/news/texas-buys-5m-of-spot-bitcoin-etf",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/11/Texas-Becomes-First-U.S.-State-to-Buy-10M-of-BlackRocks-Spot-Bitcoin-ETF.jpg",
-      "description": "The President of the Texas Blockchain Council said that Texas recently bought $5 million in Bitcoin ETFs on November 20."
-    },
-    {
       "headline": "Will Bitcoin\u2019s Dive Threaten Michael Saylor\u2019s Strategy?",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -85,26 +55,56 @@
       "description": null
     },
     {
-      "headline": "Michael Saylor's MSTR Appears to Have Broken Six-Week BTC Buy Streak",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFRfYVRBRUZJWnVVQ3gyeVY5X0ZwYy1kaTlESnRkNzlzdV8xWVFDZm95bVBXcl9HRHk5ZzdLejNWT29jUzF6SjBoLWNxUWpBeXRabkdSQkt3b3lIWjZJQlVpa1BFVTRqaUJhYWxSZFd5QUYwazJyRW1UbzQyT2toVjNDc0h5TUhXV3c4QUdTMFBoSGhFUU0yTXpqRzdtYk1CRUVn?oc=5",
-      "pub_date": 1763990874.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/24/strategy-apparently-paused-bitcoin-accumulation-last-week",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d66c28dbeddf1c6982599b72d1bc711e00f296ed-1079x1079.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The company's stock valuation sits near cycle lows as index exclusion chatter grows."
+      "headline": "Bitcoin Has Regained Some Ground. Strategy's Michael Saylor 'Won't Back Down'",
+      "source": "Investopedia",
+      "source_url": "https://www.investopedia.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUdLbndDcmdVbGdIMjFVQkRnSDF6ZlN6andGQTUzclU4UVhHT0RoT0hTX2VvZ3lPbU55WEpMeUxaZk1uR0lheFcwdFVkUEJGV0pxUk9Qb3d2b3F4c1c5X3FVTnZ6aUExekNuQm1wRWVoLXdRak10VzlyZ2JRN0hHdXczeU1LbThRNlpOb0t6emhjcktlVkI5UnNDakJxN2VabVRwRDZsVGZlMXpLcWk4?oc=5",
+      "pub_date": 1764095125.0,
+      "article_url": "https://www.investopedia.com/bitcoin-has-regained-some-ground-strategys-michael-saylor-wont-back-down-11856067",
+      "image": "https://www.investopedia.com/thmb/EVb2AjBQlqtritD5qt2aL753Kvk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2247341573-fe6351e18275427896faff9466a485be.jpg",
+      "description": "The price of bitcoin has rebounded as investors have broadly been willing to take on more risk in recent sessions."
     },
     {
-      "headline": "JPMorgan offers investors chance to win big if Bitcoin's price drops next year, but then rockets in 2028",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHR3Y0VlcVZvNmxfVEVlMTlOWGkxSmxpTDcxendPT2U1ekVZc2ItVmduY0JjS2lCd2Y3MDktaWE4Tk1WNXA5NlJ0bURYYmtEVTE4V0tiUEg0aUpKYUhaeV9EOFJobXg2TnBndEtwTzhzMVE1NmxNNXVBQU11SEVyQnp1cTU2NXYtREFYc0FCWTHSAZYBQVVfeXFMTlE1S2Rkamc3THRCYXNtYUJnZTVoWU03MnBfd19sdl9rUk1DQnhDQ3Z3X3dGVGlVWlc1VkNNeHJrMWtIaXlzSzMwOVZ2RjYxZkZmTVlpYlctUS1fT3hkNEFrOGdkMTNNQUJTOXd6czNHa2RQaHJGNVZzb21JYXNEYjVwSklmNE1HNDRLcldPU21IMlI1bHVB?oc=5",
-      "pub_date": 1764091877.0,
-      "article_url": "https://www.theblock.co/post/380262/jpmorgan-bitcoin-etf-blackrock-ibit-structured-note",
+      "headline": "Bitcoin mining in China rebounds, defying 2021 ban",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjY4QU9vbS1nM3VydFpkb2U4d0dKYXZjLXFqUzhSQUljbDRrejJfeDhINmQtckZlaTVKTWtsMFpWeG9sczBab1N2bFFWQUhFc0FjdlVhUDIzekl4bDZsZzdFSWdCSW9MOE5jeXBTUGtrRTBRTHRidjVsLWlkLXA3VEZLbXl6RERXaUVUcU1IbVlCdVBHTzJrQ3BNdFBZZ3N4cnhv?oc=5",
+      "pub_date": 1763975155.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/bitcoin-mining-china-rebounds-defying-2021-ban-2025-11-24/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Tries To Find Footing; JPMorgan Upgrades These 2 Miners, Cuts Targets For Others",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSlpHaF9ObkRkak16bGNYZV9icDg3LTEyVUJBbkNfTmFqVW9sRkZtU25ZdEtZVEZRYzZMdjdRVU1aZ3AtMzFBb0daSGFOVW5mUFlTekYzcVo3MjAyQnJfak5iMTBjUFVpNEM1LXN4VElpazQyMlRLRlNlWXQ1STNqQi12NmI3bjh4VU1aTzI1VFFUSHA3MFJkQWwyTzQ?oc=5",
+      "pub_date": 1764018480.0,
+      "article_url": "https://www.investors.com/news/bitcoin-jpmorgan-bitcoin-miners-cleanspark-cipher-iren-mara-riot/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Why Analysts Are Split on Bitcoin Miner MARA's Prospects",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14TkNpWFhQUmxocUk3elV1Vm5NNmc2LXU5RWNGSkdTUGNaeURpNzM5THZhOG9fYWNhVWlubVZwUDVoMmlOcHdLTDdCNFlPaDZXdnFjUkVrc3Atcm5CcmVvN0hHMWo1NkVWT0ZwVElHNDl4MUtxLTd0NFdnTF82RVXSAYcBQVVfeXFMTm41M3JjSnZzNld3RkxHSlJRbmM0ZFk4ZGRYU1UwdUNTMTFreGxXVE1lanhBVG94eVM0R3dqNHdlNWI5TV9yYmh3VzZDVXFUQmNjemptVGtfeHJlbktVcEMzcFpkcjlQOGsydXdSeFpiQzA0WDF5WXVjaDllUTJZdFQyQlVIMXhr?oc=5",
+      "pub_date": 1764009942.0,
+      "article_url": "https://decrypt.co/349873/why-analysts-split-bitcoin-miner-maras-prospects",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png",
+      "description": "Analysts are divided on how well Bitcoin miner MARA Holdings will perform this year following the latest crash in crypto prices."
+    },
+    {
+      "headline": "JPMorgan issues new crypto stock ratings after MSCI backlash",
+      "source": "TheStreet",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTU1VLWRyMXNzNGZOa0JpUTltN2VCMUNLTDVYRDlmQ1E1OVdycXAtcnlrX3d0TG5BVlFDZlNPcjlSOUNPUzRfXzhTWXFyNkJGUEpuZko3RUF4Wm9YSV93amxESDFjSWoydy1sQ3VHRnVtcGpVWndOQjc3TXJDNU02VlIzNDlVVHpxejJmbFdBTWxreVhad1dYdjJZTQ?oc=5",
+      "pub_date": 1764014797.0,
+      "article_url": "https://www.thestreet.com/crypto/markets/jpmorgan-issues-new-crypto-ratings-after-msci-backlash",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T06:43:11.700107+00:00"
+  "fetched_at": "2025-11-26T07:27:41.482782+00:00"
 }

@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "What Is Agentic A.I., and Would You Trust It to Book a Flight?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNThTN1UxWWdPN3RNVG00OUJhUWZSWWdYdjhuQVl4UERTZ0F4MklUcVhSTTA3ZFhaOTJaMzZ1OGtfVjNoMmo1ei10Wnp0VU9QSHJxWnZ3QXRWRm9FNlQ1QzJhc201OWhDYkZOQW1QbjBZYk1TdmJQOEhXMUs4T3VVNjUzdGc?oc=5",
-      "pub_date": 1764064954.0,
-      "article_url": "https://www.nytimes.com/2025/11/25/travel/what-is-agentic-ai-book-flights.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Nvidia says its GPUs are a 'generation ahead' of Google's AI chips",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -35,22 +25,22 @@
       "description": "Nvidia stock fell amid a report from The Information that Google is in talks with Meta for a big chip deal."
     },
     {
-      "headline": "Nvidia shares fall on signs Google gaining upper hand in AI",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BOWxia1Rla2R6M0pPSXYyUjB5MnhzSW9lMGhDUUxyX2tIenloSHlxZ04tLXBWQ1FQT2hpY04tMjkxRXYzYnlNTG1ZdmZNZnBWZ1RUSzBRZ091dkdwelhpYkVkZGZUVVRjdDFwNjZvMTA?oc=5",
-      "pub_date": 1764084120.0,
-      "article_url": "https://www.ft.com/content/7d0cd87e-99b0-4411-b54f-f5b239af8e76",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F38fe4fe9-1093-4942-8401-9c8809c6adc0.jpg?source=next-barrier-page",
-      "description": "$115bn sell-off for chip group weighs on those linked to the company"
+      "headline": "Couple Rakes in $9 Billion as AI Circuit Board Shares Soar 530%",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVExFdlpQWjJNTWhPYjN5ZWRJMkkzc0FYV3VlTVlFY05ybGF4TXZuRnBsWWRCenBhZU1fdnN5QjZSR1pGX25tQXIzUk9McVRjTTQxWDNNNEkzRmtDcXUyQkxTSDV5N2dfNEk3c2F1TkpFZ0FlWWVlSFp5NnM5UzNyQVZpV3VhbHRuMUs1TEp6cjhoT3RyMk9SczZ6b05LeEF1Ym9zMWlwRHRrYWd1VURLS01R?oc=5",
+      "pub_date": 1764111617.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-25/couple-rakes-in-9-billion-as-ai-circuit-board-shares-soar-530",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "While AI Targets Corner Offices, Hourly Workers Are Left Behind",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOTZhZzI5WTY2ZmY2TldKRnlWQ0Ywc3czd18yREFJRmh2RjU2UVhlNzRwRWprVk13V2kyaGpremhXQmVOdXNKR21URXY5Y0xmNThyQzhWM2hEVW9HbXhUdFctM3NjUHFXS3hZME1kMkdrQnBwbkJGMlRobThtRmRqa3N0WlZKYjIxSjF2LTNGek5LY2ZlcXZXZHoxcmpBR0hY?oc=5",
-      "pub_date": 1764137709.0,
-      "article_url": "https://www.fastcompany.com/91447631/while-ai-targets-corner-offices-hourly-workers-are-left-behind",
+      "headline": "What Is Agentic A.I., and Would You Trust It to Book a Flight?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNThTN1UxWWdPN3RNVG00OUJhUWZSWWdYdjhuQVl4UERTZ0F4MklUcVhSTTA3ZFhaOTJaMzZ1OGtfVjNoMmo1ei10Wnp0VU9QSHJxWnZ3QXRWRm9FNlQ1QzJhc201OWhDYkZOQW1QbjBZYk1TdmJQOEhXMUs4T3VVNjUzdGc?oc=5",
+      "pub_date": 1764064954.0,
+      "article_url": "https://www.nytimes.com/2025/11/25/travel/what-is-agentic-ai-book-flights.html",
       "image": null,
       "description": null
     },
@@ -65,16 +55,6 @@
       "description": "HP Inc said on Tuesday it expects to cut between 4,000 and 6,000 jobs globally by fiscal 2028 as part of a plan to streamline operations and adopt artificial intelligence to speed up product development, improve customer satisfaction and boost productivity."
     },
     {
-      "headline": "HP puts a number on how many jobs it'll cut due to AI",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTlKQk9BWUpJcHVXOWthd1VRVUVUbXR0RjJxNHV2X1ItSXU3X24xeWRrb2EzVzJHNUdHcFJ6TFY2S0NVcHJ3RnpMYmlrcG1oOVI2UHNWNExTSGdpcTllYWlnM3hIcVZFclNqQmlxanRheEhaSmxFY0ExajdzNTNOWkxxTV8xTVZTNHBVR21ReExDZw?oc=5",
-      "pub_date": 1764112620.0,
-      "article_url": "https://www.businessinsider.com/hp-cut-between-thousands-jobs-due-to-ai-adoption-2025-11",
-      "image": "https://i.insider.com/69262189e1a9cbb014defc1f?width=1200&format=jpeg",
-      "description": "HP on Tuesday announced that it will be reducing its corporate head count by between 4,000 and 6,000 jobs due to the adoption of AI initiatives."
-    },
-    {
       "headline": "HP to slash up to 6,000 jobs by 2028 in massive AI transformation push",
       "source": "Fox Business",
       "source_url": "https://www.foxbusiness.com",
@@ -85,12 +65,22 @@
       "description": "HP announced plans to cut 4,000 to 6,000 jobs by 2028 as part of an AI transformation push. Layoffs could affect up to 10% of the workforce at the PC and printer maker."
     },
     {
-      "headline": "Couple Rakes in $9 Billion as AI Circuit Board Shares Soar 530%",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVExFdlpQWjJNTWhPYjN5ZWRJMkkzc0FYV3VlTVlFY05ybGF4TXZuRnBsWWRCenBhZU1fdnN5QjZSR1pGX25tQXIzUk9McVRjTTQxWDNNNEkzRmtDcXUyQkxTSDV5N2dfNEk3c2F1TkpFZ0FlWWVlSFp5NnM5UzNyQVZpV3VhbHRuMUs1TEp6cjhoT3RyMk9SczZ6b05LeEF1Ym9zMWlwRHRrYWd1VURLS01R?oc=5",
-      "pub_date": 1764111617.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-25/couple-rakes-in-9-billion-as-ai-circuit-board-shares-soar-530",
+      "headline": "HP puts a number on how many jobs it'll cut due to AI",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTlKQk9BWUpJcHVXOWthd1VRVUVUbXR0RjJxNHV2X1ItSXU3X24xeWRrb2EzVzJHNUdHcFJ6TFY2S0NVcHJ3RnpMYmlrcG1oOVI2UHNWNExTSGdpcTllYWlnM3hIcVZFclNqQmlxanRheEhaSmxFY0ExajdzNTNOWkxxTV8xTVZTNHBVR21ReExDZw?oc=5",
+      "pub_date": 1764112620.0,
+      "article_url": "https://www.businessinsider.com/hp-cut-between-thousands-jobs-due-to-ai-adoption-2025-11",
+      "image": "https://i.insider.com/69262189e1a9cbb014defc1f?width=1200&format=jpeg",
+      "description": "HP on Tuesday announced that it will be reducing its corporate head count by between 4,000 and 6,000 jobs due to the adoption of AI initiatives."
+    },
+    {
+      "headline": "Mastiska Raises $10M Seed For Sovereign AI Chip Play in UAE",
+      "source": "EE Times",
+      "source_url": "https://www.eetimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTVlDMFR1U3g0T3VybnZJNC05M0UyNGFKdGJaeFRQVldMRm9tLWdMeTFaTUI2a3ZVTHlrRWg1MlZuN2JVYXN6bThHMkxXTHRoUzM5V2hpclQwVkt6WW9Gbk9WblNRaTd0dE41Y2RCbHdhWmRpcDEwdkdKYjlzQXRfcE83UXRMajlUamxF?oc=5",
+      "pub_date": 1764111661.0,
+      "article_url": "https://www.eetimes.com/mastiska-raises-10m-seed-for-sovereign-ai-chip-play-in-uae/",
       "image": null,
       "description": null
     },
@@ -103,8 +93,18 @@
       "article_url": "https://fortune.com/2025/11/25/deloitte-caught-fabricated-ai-generated-research-million-dollar-report-canada-government/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2219338782-e1764016531575.jpg?resize=1200,600",
       "description": "In a healthcare report aimed to address a nurse and doctor shortage, Deloitte cited several fake studies with real researchers\u2019 names attached."
+    },
+    {
+      "headline": "AI Agents Aren\u2019t Ready for Consumer-Facing Work\u2014But They Can Excel at Internal Processes",
+      "source": "Harvard Business Review",
+      "source_url": "https://hbr.org",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWZzS2FndXh6Q3FJT3FISnR2SE9FQlhUaGJ1S3d6VUQzSmVxeUw2SlFyTzZMZ0JpcldvbDlTeGpaaWh4Z2FEcjdLdGlYcEd4ejRfdFlNTzVVc1NFcWdEdTZNM0pKb0lqNEs2ZnJYU2pPSFpCWUREYkdjUFRkYThRWlE2aDJjbVpXMmxkdXhNQ08zamFHOFdqUTRlZGJCYml1b1hocVJtbkVaTDNfZHlfbg?oc=5",
+      "pub_date": 1763971200.0,
+      "article_url": "https://hbr.org/2025/11/ai-agents-arent-ready-for-consumer-facing-work-but-they-can-excel-at-internal-processes",
+      "image": "https://hbr.org/resources/images/article_assets/2025/11/Nov25_25_1940788444.jpg",
+      "description": "Companies can create value with agentic AI, but they often start in the wrong place. While it can be tempting to use agentic AI for customer-facing applications, those tend to be complex, messy, and unforgiving of errors\u2014not ideal for agentic AI. Back-end operations, however, are a better fit. A project at a European telecom illustrates what this looks like. Focusing on reducing the time and cost for service calls, the company was able to use agents to reduce resolution time by 60%, save more than a million euros on a recurring annual basis, and significantly improve the company\u2019s net promoter score. This example offers lessons for leaders, but also illuminates the common challenges they\u2019ll need to navigate in this process."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T06:43:13.256380+00:00"
+  "fetched_at": "2025-11-26T07:28:00.632211+00:00"
 }
