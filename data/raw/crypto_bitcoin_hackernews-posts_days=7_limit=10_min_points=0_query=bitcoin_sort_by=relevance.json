@@ -89,6 +89,20 @@
       "site_name": "bitjson's blog"
     },
     {
+      "title": "OSMU Community member posts proof that certain Bitcoin mining pools are fugazi",
+      "url": "https://github.com/mweinberg/stratum-speed-test/tree/main/findings",
+      "hn_url": "https://news.ycombinator.com/item?id=46064373",
+      "author": "metaprinter",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2025-11-27T01:21:14Z",
+      "object_id": "46064373",
+      "image": "https://opengraph.githubassets.com/02cabf1417d119fde2cad2c671b06331f99ca5f47380cd0173411fa1059660ce/mweinberg/stratum-speed-test",
+      "description": "A simple script to test latency and stratum handshake speed to Bitcoin mining pool stratum servers. - mweinberg/stratum-speed-test",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
+    },
+    {
       "title": "Quantum computers will not steal your bitcoins, even if they can",
       "url": "https://bfswa.substack.com/p/quantum-computers-will-not-steal",
       "hn_url": "https://news.ycombinator.com/item?id=46057224",
@@ -129,23 +143,9 @@
       "description": null,
       "favicon": null,
       "site_name": "nytimes.com"
-    },
-    {
-      "title": "Crypto plunge wipes out nearly $400B in a week",
-      "url": "https://www.axios.com/2025/11/21/bitcoin-value-price-crypto-coin-sell-off",
-      "hn_url": "https://news.ycombinator.com/item?id=46006538",
-      "author": "doener",
-      "points": 3,
-      "num_comments": 0,
-      "created_at": "2025-11-21T17:22:23Z",
-      "object_id": "46006538",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "axios.com"
     }
   ],
-  "total_hits": 12,
+  "total_hits": 13,
   "has_metadata": true,
-  "fetched_at": "2025-11-26T23:55:54.287921+00:00"
+  "fetched_at": "2025-11-27T01:47:33.723320+00:00"
 }

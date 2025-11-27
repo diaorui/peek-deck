@@ -1,28 +1,6 @@
 {
   "repos": [
     {
-      "full_name": "NoFxAiOS/nofx",
-      "name": "nofx",
-      "owner": "NoFxAiOS",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/241546879?v=4",
-      "description": "NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/gemini/claude)self-evolution, and real-time dashboard",
-      "url": "https://github.com/NoFxAiOS/nofx",
-      "preview_image": "https://opengraph.githubassets.com/9ba5f7e4ca1bf7079776fe1839ddb80d9da0b7566fa37fb55e37e4870588c003/NoFxAiOS/nofx",
-      "stars": 8120,
-      "stars_display": "8.1k",
-      "forks": 2142,
-      "forks_display": "2.1k",
-      "language": "Go",
-      "topics": [
-        "agentic-ai",
-        "agentictrading",
-        "ai",
-        "ai-trading",
-        "aitradingos"
-      ],
-      "updated_at": "2025-11-26T20:08:53Z"
-    },
-    {
       "full_name": "liujuntao123/smart-excalidraw-next",
       "name": "smart-excalidraw-next",
       "owner": "liujuntao123",
@@ -30,7 +8,7 @@
       "description": "A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language",
       "url": "https://github.com/liujuntao123/smart-excalidraw-next",
       "preview_image": "https://opengraph.githubassets.com/7dc6e7a2aa2e5f6261deb6fd2aab56f3f00fe2d57ae1127a3e15ec0557210a06/liujuntao123/smart-excalidraw-next",
-      "stars": 2026,
+      "stars": 2027,
       "stars_display": "2.0k",
       "forks": 256,
       "forks_display": "256",
@@ -50,7 +28,7 @@
       "description": "Gausian - Rust-based local video editor for AI video production",
       "url": "https://github.com/gausian-AI/Gausian_native_editor",
       "preview_image": "https://opengraph.githubassets.com/00b325081b4d8d90054b919e75ae8b0f8bb82d16befdd2579a46d96946d5088c/gausian-AI/Gausian_native_editor",
-      "stars": 1220,
+      "stars": 1221,
       "stars_display": "1.2k",
       "forks": 17,
       "forks_display": "17",
@@ -66,8 +44,8 @@
       "description": "AI-powered git commit message rewriter using Ollama or GPT",
       "url": "https://github.com/f/git-rewrite-commits",
       "preview_image": "https://opengraph.githubassets.com/c6b09847c72773387ee5104f29860f48c86cb236c664f2498a9824bd0f2f1b88/f/git-rewrite-commits",
-      "stars": 932,
-      "stars_display": "932",
+      "stars": 937,
+      "stars_display": "937",
       "forks": 40,
       "forks_display": "40",
       "language": "TypeScript",
@@ -85,8 +63,8 @@
       "description": "\u4e00\u4e2a\u96c6\u5185\u5bb9\u7b56\u5212\u3001AI\u6587\u6848\u81ea\u52a8\u751f\u6210\u3001TTS \u6279\u91cf\u81ea\u52a8\u914d\u97f3\u3001(AI)\u56fe\u7247\u7d20\u6750\u5408\u6210\u3001ASR\u81ea\u52a8\u63d0\u53d6\u8bed\u8a00\u5b57\u5e55\u811a\u672c\u3001AI\u81ea\u7531\u521b\u4f5c\u4e8e\u4e00\u4f53\u7684(\u77ed\u89c6\u9891)\u751f\u6210\u5de5\u4f5c\u7ad9\u3002\u65b9\u4fbf\u7ba1\u7406\u6bcf\u671f\u7684\u89c6\u9891\u9879\u76ee\u3002",
       "url": "https://github.com/Norsico/Video-Materials-AutoGEN-Workstation",
       "preview_image": "https://opengraph.githubassets.com/0ca6ecdb80ca700af163d1d6071825efe12a7b8e56fcb982f95131834556cf81/Norsico/Video-Materials-AutoGEN-Workstation",
-      "stars": 888,
-      "stars_display": "888",
+      "stars": 894,
+      "stars_display": "894",
       "forks": 181,
       "forks_display": "181",
       "language": "Python",
@@ -107,23 +85,7 @@
       "forks_display": "26",
       "language": "Go",
       "topics": [],
-      "updated_at": "2025-11-26T21:23:16Z"
-    },
-    {
-      "full_name": "EverMind-AI/EverMemOS",
-      "name": "EverMemOS",
-      "owner": "EverMind-AI",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/229275294?v=4",
-      "description": "EverMemOS is an open-source, enterprise-grade intelligent memory system. Our mission is to build AI memory that never forgets, making every conversation built on previous understanding.",
-      "url": "https://github.com/EverMind-AI/EverMemOS",
-      "preview_image": "https://opengraph.githubassets.com/fea5bac69284b6fc84ca2d9ce9d7c3999b01d406d1a1ee24250c634becff8d81/EverMind-AI/EverMemOS",
-      "stars": 758,
-      "stars_display": "758",
-      "forks": 76,
-      "forks_display": "76",
-      "language": "Python",
-      "topics": [],
-      "updated_at": "2025-11-26T09:30:11Z"
+      "updated_at": "2025-11-27T01:28:19Z"
     },
     {
       "full_name": "xiamuceer-j/MuMuAINovel",
@@ -133,8 +95,8 @@
       "description": "\u4e00\u6b3e\u57fa\u4e8e AI \u7684\u667a\u80fd\u5c0f\u8bf4\u521b\u4f5c\u52a9\u624b\uff0c\u5e2e\u52a9\u4f60\u8f7b\u677e\u521b\u4f5c\u7cbe\u5f69\u6545\u4e8b",
       "url": "https://github.com/xiamuceer-j/MuMuAINovel",
       "preview_image": "https://opengraph.githubassets.com/96aa5e0ff15c368b60d113d16c8bdefef60479d55a085016e1b4c6bc907f030f/xiamuceer-j/MuMuAINovel",
-      "stars": 751,
-      "stars_display": "751",
+      "stars": 753,
+      "stars_display": "753",
       "forks": 152,
       "forks_display": "152",
       "language": "Python",
@@ -164,6 +126,28 @@
       "updated_at": "2025-11-25T20:09:19Z"
     },
     {
+      "full_name": "ZeroLu/awesome-nanobanana-pro",
+      "name": "awesome-nanobanana-pro",
+      "owner": "ZeroLu",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/7347148?v=4",
+      "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.",
+      "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
+      "preview_image": "https://opengraph.githubassets.com/0149e9dee040bdbc5bac27041b650c36eb840b6598bb203b6c4875d2fb75fad9/ZeroLu/awesome-nanobanana-pro",
+      "stars": 734,
+      "stars_display": "734",
+      "forks": 43,
+      "forks_display": "43",
+      "language": null,
+      "topics": [
+        "gemini",
+        "nanobanana",
+        "nanobanana-pro",
+        "nanobanana2",
+        "nanobananapro"
+      ],
+      "updated_at": "2025-11-26T03:57:04Z"
+    },
+    {
       "full_name": "AnandChowdhary/continuous-claude",
       "name": "continuous-claude",
       "owner": "AnandChowdhary",
@@ -171,8 +155,8 @@
       "description": "\ud83d\udd02 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
       "url": "https://github.com/AnandChowdhary/continuous-claude",
       "preview_image": "https://opengraph.githubassets.com/f1dc250575e19a1dc20562052f20b234d495738cea1ea04f18fb43851f3999c5/AnandChowdhary/continuous-claude",
-      "stars": 686,
-      "stars_display": "686",
+      "stars": 689,
+      "stars_display": "689",
       "forks": 45,
       "forks_display": "45",
       "language": "Shell",
@@ -184,12 +168,28 @@
         "continuous-ai"
       ],
       "updated_at": "2025-11-26T17:22:49Z"
+    },
+    {
+      "full_name": "gensyn-ai/codeassist",
+      "name": "codeassist",
+      "owner": "gensyn-ai",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/64313183?v=4",
+      "description": "A completely private and local AI coding assistant, developed by Gensyn. It helps you practice programming problems and train a novel assistant to help you code.",
+      "url": "https://github.com/gensyn-ai/codeassist",
+      "preview_image": "https://opengraph.githubassets.com/c7d66709cd39264681936d3c120e2b1605b8e26a06bdbd8ba0b810f453d82263/gensyn-ai/codeassist",
+      "stars": 678,
+      "stars_display": "678",
+      "forks": 118,
+      "forks_display": "118",
+      "language": "Python",
+      "topics": [],
+      "updated_at": "2025-11-13T14:23:42Z"
     }
   ],
   "query": "ai",
-  "search_query": "ai created:>2025-10-27",
+  "search_query": "ai created:>2025-10-28",
   "days": 30,
   "limit": 10,
-  "total_count": 219463,
-  "fetched_at": "2025-11-26T23:18:40.529513+00:00"
+  "total_count": 213190,
+  "fetched_at": "2025-11-27T01:47:32.350633+00:00"
 }

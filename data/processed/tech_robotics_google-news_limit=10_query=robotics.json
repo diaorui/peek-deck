@@ -5,64 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Tesla accused of infringing robotics patents in new lawsuit",
-      "source": "Teslarati",
-      "source_url": "https://www.teslarati.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU1Vsc1hZZnNKMmhyWmtfQzRNVXhIeTNRNDdXUXZZWVpjemFmMTNNeTd3ekdaUkFHdlJ6dUVlTVFRcFZtaVB1YWxZSy1TYVgwcEpkSTVCUGQwaWtGRzk0RlBoTU1iZmJ1a0szV0hET1dMWXVtUHV2YTRzSjhxS1R4YTZiTFF2UU9nUzNv?oc=5",
-      "pub_date": 1764108889.0,
-      "article_url": "https://www.teslarati.com/tesla-accused-infringing-robotics-patents-in-new-lawsuit/",
-      "image": "https://www.teslarati.com/wp-content/uploads/2017/04/tesla-logo-new-york-store-1000x600.jpg",
-      "description": "Tesla is being accused of infringing robotics patents by a company called Perrone Robotics, which is based out of Charlottesville, Virginia. The suit was filed in Alexandria, Virginia, and accuses Tesla of knowingly infringing upon five patents related to robotics systems for self-driving vehicles. The company said its founder, Paul Perrone, developed general-purpose robotics operating [\u2026]"
-    },
-    {
-      "headline": "Video: Warehouse humanoid robots lift and sort objects on their own in real-time",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWW1Kb3RnRzJnX3gxSVJELXlxdWo5YkMzU2NKa1JwZEZoZ0VTNGRXQnNxaHlqMXllTm4taV94MGNhS0w4ZGdfVzJUMzkydjBxRk9RaF9hZnpScm5Dc09YRjVmRHFBT05pc092VzZVMVFsYmZTTzdLMmdYV0llZ05KNA?oc=5",
-      "pub_date": 1764075900.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robot-pair-32-boxes",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/IE-Photo-15-1.jpg",
-      "description": "Mentee Robotics released an uncut 18 minute video on showing two V3 MenteeBots autonomously moving boxes inside a warehouse."
-    },
-    {
-      "headline": "Austin-based Apptronik valuation hits $5B after new funding round",
-      "source": "Austin American-Statesman",
-      "source_url": "https://www.statesman.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWE9acUY5ZjlVWnozTFFkS2diYXh2WmNZbTdNVmtTa3FnNnFtUFlVZkc0WjZ4ODNNX3BxQ3NBQ2F2RDdfQUY2bkxZcTlhdUwxeGQxNkxqaFpDRTVpYkVYekFIRzlqTmJpeFJpQ0hwMTZxMjhIbENqME50UFczY0ZtV2dRM3RkZGR6NWprYVVnQXl2TFRLY3NtSGZkYmlzMGxWOUhqMWhWa2ZxNHJkbzFqaFJDcEdBUQ?oc=5",
-      "pub_date": 1764073647.0,
-      "article_url": "https://www.statesman.com/business/technology/article/austin-ai-apptronik-robotics-5-billion-valuation-21205264.php",
-      "image": "https://s.hdnux.com/photos/01/53/44/12/28197532/21/rawImage.jpg",
-      "description": "Backed by Mercedes and Google, Austin robotics startup Apptronik hits a $5B valuation and gears up for a production ramp of its Apollo humanoid."
-    },
-    {
       "headline": "Robots and AI Are Already Remaking the Chinese Economy",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQUHlXVUlkdHY5X2F2emw5WUdrU25xRWp6c2JyLXBqT1dHbVJ1azJMNExJRk5VZVNoaWozVmlkbm5XeHpBSGE0YUdpRkoyUFd1V2xQZl92ZWtDRnBadm4xQVlPZ2h0eEZONWZiWUFaeHNnOHVmTVJzaDhEdnVLVkVxRG9WaThkd1pWUzdhSF9LaTNWT3FrMkpkT215MVlwZFNBX0JOd3dfcXNMQV84RVJHS3ZHWndyYm9aZE5UTlZnVTRnQmZ6bFdoY2NkSk1MenMzTGxsa1ctWEJFN2VmMDl5Z3FtdHFxQkM0QU1oTzVvU2otS2lYYnVkcWdtQkhXTTA5MkVfZEhiX2VmVjExazBPQjJmZURWX1RTZXNBR1ktOVZnZ095SWRjUnIwMHkzV2QzMXZKNjRMeGpHdHdxWVVDQ2ptaEZ6N3N2c2hjRVhSbFQzNTFURjV0UGEzTC1fT3duZXA5R0VYU25fNFpscXhOLWFRYzkzdmljV2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOLVRRTi12bE4yeTlQYTNzTXA0OXpWempaUGF5Tml5aWlpc3hUZUxaUjlMdDlBNFF4eXJGSXhuUGZyNmF1bndBMWYwak1BaTdLUHhIbGZsaU5pRzlKaHNMOV85cmRZOXJMTjdsbWVjeW5IX2FwVmc4UkY1WXRDazlRNWFMWXZXakhsd3lJRlJOc25ST29lN1lMVGN6M0pyRUdjbVdBTWtwY29kT0xDLU5oSklYN1E4eGlMaGtORDdMRXNnQmJuQmpzSGNwZ1UwWEJHOHRmSDdxaUpsRVU3S1pfWUpmQjFQRkJ2RFllSllkM0xhWVJYNklvR1RJdlJrU1BEbmdXSXFsTHJDVDVfTEJsenR5alFrU0pvWUpFWDVpd3FLUXR6WFpTT0Jncm4xUjI2VG1DZE1EY2Jnd211cWRzdUhPYUhXaDUyRVBtd09pUFBYcTg5eU92cDZwQmlXd05ZZktvR0VRa2Y0eGRYOHZHa0VzZDBuUU5BdFE?oc=5",
       "pub_date": 1764036000.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-robots-china-manufacturing-89ae1b42?gaa_at=eafs&gaa_n=AWEtsqeXsImRAgrfqo8zotQU0QOuawUepRsganX0kxg3ujGV4-9VvdAbLQo9&gaa_ts=69279711&gaa_sig=5CtYAKJzbigg06ScWpTxrENPDLr8UMPQOdBtwJF37oiguVZ_38VN3t3i3oXr1AeuDsmKp7DxGEnb8TfHZNI4Bw%3D%3D",
+      "article_url": "https://www.wsj.com/tech/ai/ai-robots-china-manufacturing-89ae1b42?gaa_at=eafs&gaa_n=AWEtsqc9sPWMS6g0mE9VUc2KOuew1OK_GBkDWv3zftVKNXYomvTDvdsTC54a&gaa_ts=6927b13a&gaa_sig=Kl9U0PL7iaEGB6B8md5AF1gcmW5_VMobYzk88BSdv2htwWonTU7WUxR2N36jm9RfpP0Bf7L8pPLj_qtYuXCrDg%3D%3D",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "This $46 billion robotics stock is up nearly 40% after a big win. Could more gains be in store?",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQUUhUY0dCSDVyakd4RjBIVXJ2aTJ4MXIycG5zSXcybGhJbkp2R3ZXRFlJS293OFY4Q0hHVGRCZkFyanNrQTNuQjgzREIzazlBcF9UbGd1SUJZMmZkdW80RHl2QWJHX0h6RTQ2QW94ZS1rekFzNzAycG5SZDRTX2lyWEpGY0JGOE1Xajc5c181Nmk3ZXZWemNId2FRdjIxc2JfNk0xQ0R2MElBZmdoYkhzY21DbFF1c0c0Ul9OUnNRSXZzZ3hycWFYRklBak5KR2E4RjU4aXBMa3A3X3liYUlhcW5hd0x3TUNtNnVDR2ZYZFloTnBrWnRXMTZwbndrQ2lWT25DSEIzRV80QktXZmtmNkxLSWJzNG82ZzlVRmpuLUtVSmFzdmE4QlVWQUlaaUtQVFVVd2Jsd29yTXJvUi11dW02VnNhMjA4NkNKazljNUFOd0ZfNXRxemx3RTBXR2wxc1BJb2w5QldmN2c5UlNaRXRFQ1ljeG5OV0ZUaENLZTE4UEVLTzJSd3lscFJTcFhncGJYODVuQVA1eURGSFFfNndUejhuaWtmQV9Ib0N4bXkxRllJaTVfZE1tWnRtWHpadXVzR0dJcTZvMTQ?oc=5",
-      "pub_date": 1764103860.0,
-      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqcNWMOFWvC2dkh-jbM53oWpk47LVwkULT_Dh8BN9_o0gvjgtEH6aptH&gaa_ts=69279711&gaa_sig=94NCY7VUwBFaly_WYcrxOHJ_64lCevstPQmA5ti155_DNKh9tBz88yJ04ZjKHTeUfxgcXsOUoIDef_GfG51ajw%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Surgical robotics market will double over the rest of the decade",
-      "source": "MassDevice",
-      "source_url": "https://www.massdevice.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRktZa0lfUFlrZzNHTDlJYjB1bFh0V3pHbHJUYzE0Q2d0cl9uRFRCMXBVbEFIMkFtQkdBT2p5UmpseWp4aEdLY1gybG1CVHVYUl91cUlhZlNHazJnRF9ocy0zeXY2a0I2UHUzaXVrVC1NcGhaUXVVYmxONHBSTmtDNWNJTEpZMnhmNF9DUjlweHYySVgwdEZN?oc=5",
-      "pub_date": 1764083674.0,
-      "article_url": "https://www.massdevice.com/surgical-robotics-market-will-double-over-the-rest-of-the-decade/",
-      "image": "https://wtwh-marketing.s3.amazonaws.com/wp-content/uploads/massdevice/2025/11/25100924/Medtech-Markets-Robotic-Surgery-Website-1.png",
-      "description": "Already worth billions of dollars, the global surgical robotics market will double by 2029, according to a new MassDevice report."
     },
     {
       "headline": "Tesla is bleeding AI talent to a small new robotics start-up",
@@ -75,6 +25,26 @@
       "description": "Tesla\u2019s AI and robotics divisions are facing a significant \u201cbrain drain\u201d as a stealth startup called Sunday Robotics emerges with..."
     },
     {
+      "headline": "Surgical robotics market will double over the rest of the decade",
+      "source": "MassDevice",
+      "source_url": "https://www.massdevice.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRktZa0lfUFlrZzNHTDlJYjB1bFh0V3pHbHJUYzE0Q2d0cl9uRFRCMXBVbEFIMkFtQkdBT2p5UmpseWp4aEdLY1gybG1CVHVYUl91cUlhZlNHazJnRF9ocy0zeXY2a0I2UHUzaXVrVC1NcGhaUXVVYmxONHBSTmtDNWNJTEpZMnhmNF9DUjlweHYySVgwdEZN?oc=5",
+      "pub_date": 1764083674.0,
+      "article_url": "https://www.massdevice.com/surgical-robotics-market-will-double-over-the-rest-of-the-decade/",
+      "image": "https://wtwh-marketing.s3.amazonaws.com/wp-content/uploads/massdevice/2025/11/25100924/Medtech-Markets-Robotic-Surgery-Website-1.png",
+      "description": "Already worth billions of dollars, the global surgical robotics market will double by 2029, according to a new MassDevice report."
+    },
+    {
+      "headline": "This $46 billion robotics stock is up nearly 40% after a big win. Could more gains be in store?",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQblIza2NPMFotRHd6Mm1jNWVBWVVOMW1tS0FPZVpjMnBJckFpWUpGTDFaaUhwVHBSMzJ6QnBqX08xYmFpT2JJTnQ1YWZ3UFRfdG1SY2ItaFNna0dBbzZjZzd3eU8xanV3RmRQOFdKbjQwYmxTZnlWQm5SV2tISXVvcVRPbUlQWXhUX3h0aVJERHlnNVJXX1U4djQyVG1aQ1NkeDVVRTI1U1NtbGpiUEdaNVVvc1B4cWw4Snc1eFU0aUdMcWZVRkxUazlZX0h4RG13TVpQWkhJZ2w5d3o5TzkwaG9wYm9tbDNEcFdtMlprb2FmZDMyZTdtN2w3TVFzZlZJNXRNQUpCN2hNWnl1RE5QMTNTejFUNWktaHIzeVBRTHdJd2pnQ1dIT1VrNGNPTkNiRnUwdTR4WUo2cjRBaVZCOFV4VXpBUXl1WlRDZXVBTmhRM09hU1JWMG01OFdHQnQ4S0NoYkZOOFk0OVdnMndUWHhHWHZ2SUJ4SGxSVkZRdDlJSE1oZHFFZXhKWU9tVHJQRzgyT243QkM0aDVOVGNNcE9mbWt4WUlzVDZIQnBCN24tTkthZkdHdEtwSnplOFRVdUFKR20yUF9TZGM?oc=5",
+      "pub_date": 1764103860.0,
+      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqcr35rYEzLuRbIKYwKIXNYwmj-kjnDDxbBTretksqIbS9TqZekvlykx&gaa_ts=6927b13a&gaa_sig=PKtjy5e-Mt-A9-jaD7iDCWcKv6pSN8_Zs0usPPJYUdi0R6RP5dx9tAh09Ca7kT3JYCy4-Vy56Vhcj7zSrcKUBQ%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Remote Robotics Could Widen Access to Stroke Treatment",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
@@ -83,6 +53,16 @@
       "article_url": "https://spectrum.ieee.org/remote-robotic-stroke-treatment-evt",
       "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62225322&width=1200&height=600&coordinates=0%2C84%2C0%2C141",
       "description": "Could telerobotics be the key to faster stroke treatment in rural areas? Soon, surgeons may perform lifesaving procedures from miles away."
+    },
+    {
+      "headline": "Tesla sued for allegedly infringing robotics patents",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSjBpR0pSR2Y0eHg5NmNtU3JVNGJCLWZPcGRRdmFkSEUyeGx6dkFwUGQtNVFlSWdBWE42WjdXVVlxZkFfVEp4UFNKLVpRdmd6R2s2S1BkN1U1dzFmTzFrQ3U4a1kyVTBqbllBWFQzUW9rYnFPWHM3eFlUaU95QmlkMHdrNXQxa0d1QVUzVmpnb1B5WUNxdERtaXZma2Q3NWxYb2dZ?oc=5",
+      "pub_date": 1764020262.0,
+      "article_url": "https://www.reuters.com/legal/litigation/tesla-sued-allegedly-infringing-robotics-patents-2025-11-24/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Hundreds of Chicago residents sign petition to pause robot delivery pilot program over safety concerns",
@@ -103,8 +83,28 @@
       "article_url": "https://thewaltdisneycompany.com/olaf-robotic-character/",
       "image": "https://thewaltdisneycompany.com/app/uploads/2025/11/SB200703-ModifierPressRes.jpg",
       "description": "On Monday, Walt Disney Imagineering (WDI) released the latest episode of its hit series, \u201cWe Call It Imagineering,\u201d taking audiences inside the global Research \u2026Read More"
+    },
+    {
+      "headline": "China to deploy battery-swapping humanoid robots for patrols along Vietnam border",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNGJJblFqN3NuQllWZy00UlItQVoxNFU1eENldnJUOW9QU2o4MktZdU9RV1l6NWVfa3NWallOOUxMQXNacl9YcFdMNTdvaDNfbFJ6MDNURkhaNXd4Vm0tWFREVWFBUUtuNWxuM1dKZGxiLUM2REJBRzlaVDBOVHhPNlNpLW8?oc=5",
+      "pub_date": 1764163920.0,
+      "article_url": "https://interestingengineering.com/innovation/ubtech-secures-us37-million-deal",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/Thumbnails-for-IE-articles-UBTech-China-Vietnam-Border.jpg",
+      "description": "China's UBTech Robotics has secured a 264 million yuan (US$37 million) contract to deploy industrial-grade humanoid robots on border."
+    },
+    {
+      "headline": "Rivian Is Following Tesla, Spins Up New AI And Robotics Startup",
+      "source": "Autoblog",
+      "source_url": "https://www.autoblog.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeUlTT3hXTTV3RnlVbzJ5SEozdFVRdUpNamVsRTd1Z2M1eXNLSEtmUGJPMDlZejNtT24wSExrZzVZTmhVNDlPOFE5WmtwV3BQYmUydGQ1ODh4MFFoYk1SUnl5dklieDJNYkdKa0M4Z1R2MnRnUEppU1BnS3NZRDRnRzlZRGI2bzRTSjlyelNlVG9DamRKMUVF?oc=5",
+      "pub_date": 1764010800.0,
+      "article_url": "https://www.autoblog.com/news/rivian-is-following-tesla-spins-up-new-ai-and-robotics-startup",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-26T23:56:20.151997+00:00"
+  "fetched_at": "2025-11-27T01:47:58.428533+00:00"
 }
