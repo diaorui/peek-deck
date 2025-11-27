@@ -25,16 +25,6 @@
       "description": "The Trump family, with ample crypto ventures, has lost an estimated $1 billion from the monthlong cryptocurrency freefall."
     },
     {
-      "headline": "Bitcoin Whales Return to Buying for the First Time Since August as Price Recovers Above $90K",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVzlCMUVBQm1uMWdBd1Q0eDlLeUhxTnZzQmVxNGU3QWdaZENaMkhsMHozTlFvZHhvNC13ZTVoRUdWcHdFcmV3c1RjSVBUT0JzNG8xVzFjVHBZaERPR3V1SEJ2eHM4cl95cXhXS3lXNWczWEJpOUt4RTBORXdGaVdwYVdxSGhkaTREX3JCYjh0SzQyYkZKcGM1VDRYTGhCb2tYZHl2Y3ZDQzBHODJxUkRpOFZVWFlvVk02X3QxSUFYV18zMTR2QmJVTlVENU8xTVdqMVVMTQ?oc=5",
-      "pub_date": 1764256538.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/27/bitcoin-whales-return-to-buying-for-the-first-time-since-august-as-price-recovers-above-usd90k",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Japanese Bitcoin treasury stocks soar after Metaplanet raises $130m loan to buy crypto",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -65,6 +55,16 @@
       "description": null
     },
     {
+      "headline": "Bitcoin Price Skyrockets Past $90,000 As BlackRock And JPMorgan Deepen Bitcoin Bets",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BRjJtS0N1d05qRmtaZlNfeHljclJ5TjFqWG9ad0R2c01qbkxQd21NY1ItNlVEUVRPc1FCQlFoeGRGbnRGLTU5NElJTGVCbW1xMEJ1WmlJcnJKUmQwejFzSmxQVUFCRWhVN2xfbGFWcHF6NUpCai1F?oc=5",
+      "pub_date": 1764183769.0,
+      "article_url": "https://bitcoinmagazine.com/news/bitcoin-price-skyrockets-past-90000",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/11/Bitcoin-Price-Skyrockets-Past-90000-as-BlackRock-and-JPMorgan-Deepen-Bitcoin-Bets-.jpg",
+      "description": "Bitcoin price ripped above $90,000 today on news of a new wave of Wall Street\u2013engineered crypto products."
+    },
+    {
       "headline": "JPMorgan's Bitcoin Structured Notes Offer Potentially Massive Returns\u2014If BTC Surges by 2028",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -75,14 +75,14 @@
       "description": "The bank has an idea for a product that would allow investors to make big gains if the leading cryptocurrency soars."
     },
     {
-      "headline": "Bitcoin Price Skyrockets Past $90,000 As BlackRock And JPMorgan Deepen Bitcoin Bets",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BRjJtS0N1d05qRmtaZlNfeHljclJ5TjFqWG9ad0R2c01qbkxQd21NY1ItNlVEUVRPc1FCQlFoeGRGbnRGLTU5NElJTGVCbW1xMEJ1WmlJcnJKUmQwejFzSmxQVUFCRWhVN2xfbGFWcHF6NUpCai1F?oc=5",
-      "pub_date": 1764183769.0,
-      "article_url": "https://bitcoinmagazine.com/news/bitcoin-price-skyrockets-past-90000",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/11/Bitcoin-Price-Skyrockets-Past-90000-as-BlackRock-and-JPMorgan-Deepen-Bitcoin-Bets-.jpg",
-      "description": "Bitcoin price ripped above $90,000 today on news of a new wave of Wall Street\u2013engineered crypto products."
+      "headline": "The fatal flaw in using bitcoin as a currency",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZmNlenhZYzBTbGpueFNGeFB5eUxQeV9CR3k4OEwzUDBzXzhHNlAxNkVtZlVtaC1LeUxkZ1JWV3BxVEtzNGI1ZU1JOWw2UjdYSE41NnZsMmZ5N2VZWkF2bk5fQnJrd2ZLOHBxRUh6UXA?oc=5",
+      "pub_date": 1764133249.0,
+      "article_url": "https://www.ft.com/content/a18c310a-d533-4d03-bb25-53cb11337dd1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80fc2f5e-ea28-4dc9-ae18-6c879b6eb7a5.jpg?source=next-barrier-page",
+      "description": "There is a crypto parallel in the aftermath of Europe\u2019s 14th century bubonic plague"
     },
     {
       "headline": "Why the pressure on bitcoin may linger into year-end",
@@ -95,16 +95,16 @@
       "description": "A bitcoin sell-off driven by investors that bought BTC at a premium will likely put pressure on the asset through the year's end, according to Compass Point."
     },
     {
-      "headline": "The fatal flaw in using bitcoin as a currency",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZmNlenhZYzBTbGpueFNGeFB5eUxQeV9CR3k4OEwzUDBzXzhHNlAxNkVtZlVtaC1LeUxkZ1JWV3BxVEtzNGI1ZU1JOWw2UjdYSE41NnZsMmZ5N2VZWkF2bk5fQnJrd2ZLOHBxRUh6UXA?oc=5",
-      "pub_date": 1764133249.0,
-      "article_url": "https://www.ft.com/content/a18c310a-d533-4d03-bb25-53cb11337dd1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80fc2f5e-ea28-4dc9-ae18-6c879b6eb7a5.jpg?source=next-barrier-page",
-      "description": "There is a crypto parallel in the aftermath of Europe\u2019s 14th century bubonic plague"
+      "headline": "Bitcoin Whales Return to Buying for the First Time Since August as Price Recovers Above $90K",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVzlCMUVBQm1uMWdBd1Q0eDlLeUhxTnZzQmVxNGU3QWdaZENaMkhsMHozTlFvZHhvNC13ZTVoRUdWcHdFcmV3c1RjSVBUT0JzNG8xVzFjVHBZaERPR3V1SEJ2eHM4cl95cXhXS3lXNWczWEJpOUt4RTBORXdGaVdwYVdxSGhkaTREX3JCYjh0SzQyYkZKcGM1VDRYTGhCb2tYZHl2Y3ZDQzBHODJxUkRpOFZVWFlvVk02X3QxSUFYV18zMTR2QmJVTlVENU8xTVdqMVVMTQ?oc=5",
+      "pub_date": 1764256538.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/27/bitcoin-whales-return-to-buying-for-the-first-time-since-august-as-price-recovers-above-usd90k",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T18:18:32.487520+00:00"
+  "fetched_at": "2025-11-27T18:57:10.553396+00:00"
 }

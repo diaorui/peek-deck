@@ -45,24 +45,14 @@
       "description": "Amazon Employees for Climate Justice says that over 1,000 workers have signed a petition raising \u201cserious concerns\u201d about the company\u2019s \u201caggressive rollout\u201d of artificial intelligence tools."
     },
     {
-      "headline": "How Microsoft\u2019s developers are using AI",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcXZUNko0RTJrNUFwV1pBN2Y0Q0VlemNXYTE1c1k2VExxYk9FcmVWWUhyWVUta0psbEVLbGVrYldFVE9yRDNfN3p0eWhCMGd5OHRpYkU4c0NlNTFmT0RMWnp5UkxjbnpONXRTMlROQ05YTm9DckxqTzMtUWhIVl9tRlMwdmRmdw?oc=5",
-      "pub_date": 1764262800.0,
-      "article_url": "https://www.theverge.com/tech/831379/microsoft-developer-ai-usage-stats-notepad",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "AI might not be transforming every job yet, but it\u2019s having a big impact on developers."
-    },
-    {
-      "headline": "Trump\u2019s data center embrace spurs energy and environment concerns",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTkFpNzA0aUZld1pyaDhCN1pDS1ZtWnFsVlR3aGROc05DOUhvRndydG5uZUI4LVFmcGNlUjk2cmt2ZEFrOS1qazdMOUsxYmFmZ3hwN3RGN29Pck9OZGJJMTVPd0JXaTI5OWt3eTlUcUdUODhKUndGWjRlSUNDNFdhcHp30gGHAUFVX3lxTE9GOGk0M2FzQzFwUWpFajVkMXZhdWhiRU9jeGw2WVhtTHFFTGNteGVVYmRoWVNSWlRFWGJPd1pjUm5QdTlGOWYxVmpVVGw0bHphNU9RbTRwNGxDZHF6aXlYdXE4OS1HeXdWZVREZThlZ1EzM2lXd1hidjljcXN0ODdmVnJzek96RQ?oc=5",
-      "pub_date": 1764262800.0,
-      "article_url": "https://thehill.com/policy/energy-environment/5624407-trump-ai-data-centers/",
-      "image": null,
-      "description": null
+      "headline": "A Budget To Reignite Britain\u2019s Spark - Including The AI Generation",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdFFsa1JUQ0lQV0MyMDZ4Rm05ejBOSHh6d0lLY1kyRlRpTlVTVTFwTmJHRkxOOW1fZk92RjN6OTlLaUI3OTJHdUxMejdjTS1rd19FcXhnRlpIWF9jaGNBOFc1ZlBaZjRhVGxEZkZWUW4ybHdKS3FSZUE2c2JpSTVnZGh6bVJxUzVnM1VKSXJlcDE2LWdrWV9FZXJtV2oxNnlkN1AteTdOd3dSSmZTUVRLakdYeHpDeXJ4ZTZLZHdaV2xHMnRLSVZrVw?oc=5",
+      "pub_date": 1764267516.0,
+      "article_url": "https://www.forbes.com/sites/lbsbusinessstrategyreview/2025/11/27/a-budget-to-reignite-britains-sparkincluding-the-ai-generation/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6928952f51f3d69f3402fe3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "With the 2025 Autumn Budget, I\u2019m cautiously optimistic the tide may be turning."
     },
     {
       "headline": "Investors expect AI use to soar. That\u2019s not happening",
@@ -73,6 +63,26 @@
       "article_url": "https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Stocks whipsaw as AI bubble fears, Fed uncertainty rattle Wall Street",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SZWtaSEdVbzRSQ255U1dOZ1BzeDJrRmdZSGMwTU4wUkdXek9HSHR2ekVfUEcwMnZPeVJlTVExMVpkb3RqNVcyc0NwUEVvd0RqbS1mMTNkc1hBcWhpSTVPN2hpZVliQnB5NlFYVVdCcm1lMHBIY2ZNcHJyNmMzZUnSAYQBQVVfeXFMTmFEUllXTk8xbTFvY0hLZFRnQklGRVFDdmNSUFpfS05iRjV0MnVlWE16ZGZ4Q2x2WjJjLWVxTFhlWHpyM292NWIxX1RMRmRyQ3ozY2RzTTNBT19iRHRuVEx5SDk3WGlZSGdsWFdzNEpCSjVBWWxpOFdRc1J4aUpEbjkxY1Vs?oc=5",
+      "pub_date": 1764241200.0,
+      "article_url": "https://thehill.com/policy/technology/5624075-ai-bubble-market-volatility/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "'The bubble is ahead of us': hedge fund exec says investors still don't get how big AI is",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYV9mU3dndXZwSm80aG54N0tQaGNocEEzX1NxTDFpZVIwcHZfNUVhWTJtT1dGWFZ4RENlbXlYUXllcF9KanFHSmctUUwwQzZGNGJzWXNneGJYQWRlaFZSaF9FUEdST3RrOS15NFhwdU51X09iRW1xa2ZWYlFRVWpOc3gzNEVSUHhmaXY2MDctTzVQeFgzTnBsWDR3?oc=5",
+      "pub_date": 1764244080.0,
+      "article_url": "https://www.businessinsider.com/hedge-fund-exec-bridgwater-ai-entering-dangerous-phase-2025-11",
+      "image": "https://i.insider.com/692827bc89026fbb4d0e8de4?width=1200&format=jpeg",
+      "description": "Bridgewater's Greg Jensen says the AI race is driving a global scramble for resources and distorting markets in ways investors aren't pricing in."
     },
     {
       "headline": "AI shopping wars: Walmart, Amazon, Target, Google, Meta, OpenAI unveil new tools",
@@ -93,18 +103,8 @@
       "article_url": "https://www.nytimes.com/2025/11/25/magazine/ai-higher-education-students-teachers.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Alibaba's AI glasses to rival Meta go on sale for $500",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUU8tS2xyM3VlM2NTcEJqOVJ0VGxtUzlhbnlUeklsSTRXUVRwN0x2LTU5QTBOUmNCZnVTVnd5MjBSU1ZPN1pYVzFaSDF3WmpGWnFSWUktd0gtT2o0dmFOWjhBSmZCckdwRDlfM1BLTVZMc2daLWZoVzVBb0dacnhnMDZxc0dkdU5jOGdiWNIBkgFBVV95cUxQNlBhUXk5OXBsU1JWeGdYcGxPbHhWR1pYdE9pZTVCaVAyVlBsRGVOVGY4aEcwcmNPaDVvLWRYaGxUMzAtWlh2TGdQMU1JNTZpOU1QRkIzamN5YzNHNERmMnFSeU1qalF6WWtlbVRaRDhUX1NJRlVNc19oQzFJNlpkTzJORTdtRTZZTWc0S3NKQ0lVUQ?oc=5",
-      "pub_date": 1764234427.0,
-      "article_url": "https://www.cnbc.com/2025/11/27/alibaba-quark-ai-glasses-go-on-sale-price-specs.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108177567-1753687050071-Alibaba_AI_glasses.jpg?v=1753690514&w=1920&h=1080",
-      "description": "Alibaba, like other tech giants such as Meta, are betting that smart glasses could be the next big consumer device after the smartphone."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T18:18:24.583795+00:00"
+  "fetched_at": "2025-11-27T18:57:10.450651+00:00"
 }

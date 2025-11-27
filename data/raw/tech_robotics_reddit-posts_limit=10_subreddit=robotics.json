@@ -35,6 +35,17 @@
       "description": null
     },
     {
+      "title": "Which robotics jobs to look out for and how to prepare for it?",
+      "author": "itzok27",
+      "url": "https://www.reddit.com/r/robotics/comments/1p87zbx/which_robotics_jobs_to_look_out_for_and_how_to/",
+      "published": 1764264572.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "DC motor or actuator type",
       "author": "dgtldan",
       "url": "https://www.reddit.com/r/robotics/comments/1p83z7t/dc_motor_or_actuator_type/",
@@ -55,17 +66,6 @@
       "site_name": null,
       "favicon": null,
       "description": "Knucklebuster arm prototype test, its a test torso that i Will upgrade till It resembles v1. The arm has one nema 17 stepper motor in the upper arm and a nema 14 at the middle, maybe i'll use a Raspberry pi 5 with ai for controlling everything but, i'm open to suggestions!"
-    },
-    {
-      "title": "Which robotics jobs to look out for and how to prepare for it?",
-      "author": "itzok27",
-      "url": "https://www.reddit.com/r/robotics/comments/1p87zbx/which_robotics_jobs_to_look_out_for_and_how_to/",
-      "published": 1764264572.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     },
     {
       "title": "Capstone project",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-27T18:18:15.541208+00:00"
+  "fetched_at": "2025-11-27T18:57:00.381361+00:00"
 }
