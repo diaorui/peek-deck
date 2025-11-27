@@ -48,11 +48,31 @@
       "headline": "Political consultant who sent AI robocalls says he won\u2019t pay voters, as ordered",
       "source": "The Hill",
       "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMmVmbkNoOWRuaHJ3MS1fVHZMWktTSVdoQXU3SjNqYWtpb0h1cmliLXh2eEJkeGYzUm5qWEg2czZMVDkybkpxTGlTY2FpRXRQeDlCZWR6RE5MeXR5b3VsX1h5OTg4YUVVQUFRZ2xRQzdyaXEwNHk2YkpWWGdIdHZBSFE0VGJCdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMmVmbkNoOWRuaHJ3MS1fVHZMWktTSVdoQXU3SjNqYWtpb0h1cmliLXh2eEJkeGYzUm5qWEg2czZMVDkybkpxTGlTY2FpRXRQeDlCZWR6RE5MeXR5b3VsX1h5OTg4YUVVQUFRZ2xRQzdyaXEwNHk2YkpWWGdIdHZBSFE0VGJCd9IBiwFBVV95cUxPV2REMjlPTERmclE1T1ZqVzRPVTYtc1JESFpoa01KMVctaHRrYk42a3VHODUyU2FDLVJfcVpXdGFhdDZjMDFLSU1xM3ZkNmtOUjNoVjVScWFOSlhXWkpuQzE2VUtwUkVrdWJZaUxpRlJJQjdtOGdQUEJFVmlUVjFyOGpMXzgweFpISnQ0?oc=5",
       "pub_date": 1764214560.0,
       "article_url": "https://thehill.com/regulation/court-battles/5624570-biden-ai-robocall-lawsuit/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Australia clamps downs on \u2018nudify\u2019 sites used for AI-generated child abuse",
+      "source": "Al Jazeera",
+      "source_url": "https://www.aljazeera.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM01SdzlFbWdaZWwyVTdJWlJRSjRKWkRUV2pyZHhJNzFyMFd2bmhaTTNNNkZzVF9XMTI5d055VS00SVI5eExvRVRvUDVINVJQb2dGanVNd21oWW16WnR0Xy02UzhDYTNwMERsbXZCQzVjX0ZkQzZXX1doNTNtX0hhcThwRHJOSkV3Xy1IM3ZxbjRKamJOQWJFNHgtM2lEdEhnX2ZSbUJtQ3lvTFF1enRETFdXR0XSAboBQVVfeXFMUDV6a085Mk1Pbm5wZEhUZWx3ZHVzUUhxUEpLM29DV1hSbmZFMXlrcUJYRVdrY1oyeDd5bmRTWUxXTWhWZXVTWnlESk9Sc3dUNFJrQWE5YW5DSXFQMVV0NjNQekJWbkFwMEgyRktsOG5JVVU4WTcwRnV0NWxIcGNDajNBbDNSaGg2RTRhMl9STEdJeXVPZ1YxWXNQb2JjYjc2dWI5ZFJlU2tFOTBhOXIyTFozTHNwWG85Sk5n?oc=5",
+      "pub_date": 1764216823.0,
+      "article_url": "https://www.aljazeera.com/news/2025/11/27/australia-clamps-downs-on-nudify-sites-used-for-ai-generated-child-abuse",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309045710712-1764211219_b0efde-1764216511.jpg?resize=1200%2C630&quality=80",
+      "description": "Three websites used to create abuse imagery had received 100,000 monthly visits from Australians, watchdog says."
+    },
+    {
+      "headline": "Google Brain founder Andrew Ng explains how he uses AI",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYWhBQkoyYjZxUThRQ3oyazB5QV9qMlJiSHptTk9JWi1XQ0Z2Rnd1ZTh3cGZqc3JrQm9sZUVvZms0OFpEQ1NkODlJSmktSC1mR0I0c2RiVlVXVll1Q0VnWXFtcU9wOUJiaWlzQ2NEOFBEUUgyQjAzWENjOExoZmc4MExrQTNReS1OQmNMcDYybDMzOHQ5VVMtXy1rUXZ1VVVFVUJPUG9fNA?oc=5",
+      "pub_date": 1764219660.0,
+      "article_url": "https://www.businessinsider.com/andrew-ng-brainstorm-ai-car-workflow-prompt-clause-openai-coding-2025-11",
+      "image": "https://i.insider.com/6927cd67abd5e944effba190?width=1200&format=jpeg",
+      "description": "Andrew Ng says he uses multiple AI models and long conversations to brainstorm while driving."
     },
     {
       "headline": "I\u2019m a Professor. A.I. Has Changed My Classroom, but Not for the Worse.",
@@ -83,28 +103,8 @@
       "article_url": "https://www.bbc.com/news/articles/c7vme6rrqz5o",
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d7f4/live/fd848bf0-cabc-11f0-8830-713b9084fff8.jpg",
       "description": "The world's most valuable company said it was still \"a generation ahead of the industry\"."
-    },
-    {
-      "headline": "Nvidia says its GPUs are a 'generation ahead' of Google's AI chips",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVG8zU3NmR0xkeDlaMmhNQThNZnN6MFZtV2VfbnNMT0ZYcVJFLUJiaENlTlRGNE9KMXZSdDhMZVdyT24wcE9JdWxJTWNVSFJpOEU1Vm03aXZwT2ZONnh5S1ZBeXFOOERIWVBBNlg5WnBPTVBfM2VSX29maU5UN2h2amlRVFIwN3BXdnNrVDItWHZaSDlLX2w2UF9TQzVUYVd5QUHSAacBQVVfeXFMTm9EMGExa2dMN1pKMWQ2MjZUc1hST2ZCNnFsYTFENlItc3plcm9rdjd1Y3RjLXFQZ2t2V0ZKWW1tLUNwRTRUZW1LbkpkR05JcnNteFk2MUNfcWFWZmJnQWp1RnVISzJMS3UwUk1SQTF0cU5welZqVVdvTElyS3dvS0tpVUlYOXNUOXRuREFnNG4xbzNORXRLaEtpSW1qSWtJLUx6bVJzeUE?oc=5",
-      "pub_date": 1764095391.0,
-      "article_url": "https://www.cnbc.com/2025/11/25/nvidia-says-its-gpus-are-a-generation-ahead-of-googles-ai-chips.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229150-1763650981923-gettyimages-2246892165-AFP_84JG4JG.jpeg?v=1763651000&w=1920&h=1080",
-      "description": "It was in response to Wall Street's concern that Google's TPU chips could threaten Nvidia's dominance of the AI infrastructure industry on Tuesday."
-    },
-    {
-      "headline": "Nvidia\u2019s Stock Is Sinking as Doubts About Its AI Dominance Grow",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaW5qQnJnZEJwTTlTTFVUcHloU0RvMDhRUUxHQnFBOUhHLUl0clhobXpmM2RtRWxQQmhLYUgzb0k4OEtOZE9Fc1JmNzZJQnJ5WXFDNWIzd1FTT2dXNmwxNmVReU1oWVI0cHE3eUdCcmgxc0R0X3dzRE5vVmVaRl9DN21n?oc=5",
-      "pub_date": 1764167827.0,
-      "article_url": "https://finance.yahoo.com/news/nvidia-stock-sinking-doubts-ai-094733779.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/jm4.6n7CUdCicymMeESqfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bloomberg_holding_pen_162/8cc48b20bb14818053e059ac721c1ec4",
-      "description": "Shares of the chipmaker fell 2.6% on Tuesday following a report suggesting that Alphabet Inc.\u2019s AI processors are gaining ground.  While the stock rose 2.2% on Wednesday, shares remain down 10% this month, erasing more than $500 billion in market value, as investors grow increasingly fearful of a bubble in AI spending as well as Nvidia\u2019s circular investments in startups like OpenAI that are also customers.  \u201cNvidia\u2019s valuation was really based on the idea that it would maintain its market share,\u201d said Adam Sarhan, chief executive officer of 50 Park Investments."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T04:41:41.300281+00:00"
+  "fetched_at": "2025-11-27T05:20:31.165700+00:00"
 }
