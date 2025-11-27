@@ -57,6 +57,28 @@
       "description": "Users are waking up to discover OpenAI leaked their data this morning via a faulty third-party plugin. Here's what you need to know."
     },
     {
+      "title": "The New AI Consciousness Paper, Boom, bubble, bust, boom: Why should AI be different? and many other AI links from Hacker News",
+      "author": "alexeestec",
+      "url": "https://www.reddit.com/r/artificial/comments/1p85t79/the_new_ai_consciousness_paper_boom_bubble_bust/",
+      "published": 1764259361.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone! I just sent issue #9 of the Hacker News x AI newsletter - a weekly roundup of the best AI links and the discussions around them from Hacker News. My initial validation goal was 100 subscribers in 10 issues/week; we are now 142, so I will continue sending this newsletter. See below some of the news (AI-generated description): The New AI Consciousness Paper A new paper tries to outline whether current AI systems show signs of \u201cconsciousness,\u201d sparking a huge debate over definitions and whether the idea even makes sense. HN link Boom, bubble, bust, boom: Why should AI be different? A zoomed-out look at whether AI is following a classic tech hype cycle or if this time really is different. Lots of thoughtful back-and-forth. HN link Google begins showing ads in AI Mode Google is now injecting ads directly into AI answers, raising concerns about trust, UX, and the future of search. HN link Why is OpenAI lying about the data it's collecting? A critical breakdown claiming OpenAI\u2019s data-collection messaging doesn\u2019t match reality, with strong technical discussion in the thread. HN link Stunning LLMs with invisible Unicode characters A clever trick uses hidden Unicode characters to confuse LLMs, leading to all kinds of jailbreak and security experiments. HN link If you want to receive the next issues, subscribe here."
+    },
+    {
+      "title": "Allianz to cut up to 1,800 jobs due to AI advances, says source",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p82a2n/allianz_to_cut_up_to_1800_jobs_due_to_ai_advances/",
+      "published": 1764250301.0,
+      "thumbnail": null,
+      "external_url": "https://www.reuters.com/business/world-at-work/allianz-cut-up-1800-jobs-due-ai-advances-says-source-2025-11-26/",
+      "site_name": "reuters.com",
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Anthropic CEO called to testify on Chinese AI cyberattack | \"For the first time, we are seeing a foreign adversary use a commercial AI to carry out nearly an entire cyber operation with minimal human involvement. That should concern every federal agency and every sector of critical infrastructure.\"",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1p826h5/anthropic_ceo_called_to_testify_on_chinese_ai/",
@@ -88,29 +110,7 @@
       "site_name": "Bloomberg.com",
       "favicon": "https://www.bloomberg.com/favicon-black.png",
       "description": "McKinsey &amp; Co. cut about 200 global tech jobs in the past week as the consulting firm joins rivals in using artificial intelligence to automate some positions."
-    },
-    {
-      "title": "So I Made An AI Cover Song Game You Can Play With Family Today! Have Fun!!",
-      "author": "latetothetable",
-      "url": "https://www.reddit.com/r/artificial/comments/1p862gu/so_i_made_an_ai_cover_song_game_you_can_play_with/",
-      "published": 1764259999.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Name That Cover So it's a pretty simple concept! You go in Party mode with friends and family, and you guys just try to guess the name of the original song. I played a more manual version of this like a week ago and my friends LOVED it so maybe your friends and family will love it too! Feel free to request songs and I'll try to add them ASAP, and if you like songs while logged in you can go back and listen to the AI covers in your profile. I'm totally down to hear any and all feedback! Also I'm fully aware the \"Songs of the Day\" mode is bugged on mobile and not working properly."
-    },
-    {
-      "title": "Popular AI chatbots have an alarming encryption flaw \u2014 meaning hackers may have easily intercepted messages",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7yoct/popular_ai_chatbots_have_an_alarming_encryption/",
-      "published": 1764238245.0,
-      "thumbnail": "https://external-preview.redd.it/A-emmtlMCjw-rX090Ar8GZLGKTj3nwOErcQnQk1JMsI.png?width=640&crop=smart&auto=webp&s=c01a64b1c9d5917136cee6d21665bb664e838962",
-      "external_url": "https://www.livescience.com/technology/artificial-intelligence/popular-ai-chatbots-have-an-alarming-encryption-flaw-meaning-hackers-may-have-easily-intercepted-messages",
-      "site_name": "Live Science",
-      "favicon": "https://vanilla.futurecdn.net/livescience/1479220/apple-touch-icon.png",
-      "description": "Cybersecurity researchers have uncovered a critical vulnerability in the architecture of large language models underpinning generative AI, but how dangerous is this flaw?"
     }
   ],
-  "fetched_at": "2025-11-27T16:23:57.419395+00:00"
+  "fetched_at": "2025-11-27T16:59:32.198402+00:00"
 }

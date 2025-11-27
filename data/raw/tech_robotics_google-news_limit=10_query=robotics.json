@@ -15,6 +15,16 @@
       "description": null
     },
     {
+      "headline": "China to deploy battery-swapping humanoid robots for patrols along Vietnam border",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNGJJblFqN3NuQllWZy00UlItQVoxNFU1eENldnJUOW9QU2o4MktZdU9RV1l6NWVfa3NWallOOUxMQXNacl9YcFdMNTdvaDNfbFJ6MDNURkhaNXd4Vm0tWFREVWFBUUtuNWxuM1dKZGxiLUM2REJBRzlaVDBOVHhPNlNpLW8?oc=5",
+      "pub_date": 1764163920.0,
+      "article_url": "https://interestingengineering.com/innovation/ubtech-secures-us37-million-deal",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/Thumbnails-for-IE-articles-UBTech-China-Vietnam-Border.jpg",
+      "description": "China's UBTech Robotics has secured a 264 million yuan (US$37 million) contract to deploy industrial-grade humanoid robots on border."
+    },
+    {
       "headline": "A humanoid robot-shaped bubble is forming, China warns",
       "source": "The Verge",
       "source_url": "https://www.theverge.com",
@@ -25,32 +35,22 @@
       "description": "There are few proven uses for humanoid robots, but that hasn\u2019t stopped investment pouring in."
     },
     {
-      "headline": "Robots and AI Are Already Remaking the Chinese Economy",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOSVRod2tSbTBFYTRkZ3VCTFdsRGFOS0dVcUkzbVR1WlAwVE9lZUQzSmR4eU1KZl9oeWhqb2wxMUVLM1dGbUh1SFoyajhfMVRETGM1c2Y5NGgyMHRnbEF3NW12WW5OOS1qVW5Pb0szVkhlT1JuNERfLUFMWWNZd1FKX1JUeXo1cUdhOUx0dEFYRUNDWjNxbEpWX2JrMnNqZjBQX1ZVQWYwbzliMGY5ckxqVWgxYlllQW1rcEFVekN2UEZRNmYtdmJmaHZxN3JmNmt3MnQ1ZDh3WjJLc0ZhRmdHWENaZWItUGVsV3AwTFd6NzlIdEtnZC1fUVFDeE81RllkZlB3dGVYZ1h6ME41YXRSUlZCUy1yTkp4YjkzX1IydkYzM1kwaEVlajdpWGpUay1henl1OFp0dDdCMXNaRHhBYVJTb0VPRHlmTjBZM3lXX1NTWDJYSmlHZkpJX2ZxRVF4LVNDRGdMS3JoSTNiVGlzTExnUC16bl9GclE?oc=5",
-      "pub_date": 1764036000.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-robots-china-manufacturing-89ae1b42?gaa_at=eafs&gaa_n=AWEtsqc30GixyOGXQlQ7stvIfROnKYu-L2mv7w0dFcGtKIWAVjooeYPmJo7l&gaa_ts=69287ea4&gaa_sig=UfHjcniWdCKbc4i1vMYPDXkWUN8S3W-vCPVIVUUe-ufdHIqyPnqFjvjVY0gmUd73V8hmEkVmQ96JxH1KkLMXbg%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "For This Engineer, Taking Deep Dives Is Part of the Job",
+      "headline": "Remote Robotics Could Widen Access to Stroke Treatment",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzcDE4aVQ5RklhQklLMlRubGllWjVhNVd3SUhhR01OcEN4eEI4T0IxVG10cHBtVG5RT05vYkoySnI0Y2NJSnZPa2w5RjZsYVZnbkJMcFFTeGZ0dmNGU3lvZDZUSHprbDRxQlBycndfaVVpV3M2bVhv0gGLAUFVX3lxTE1WWDNCZVR3Vk9yNTVDeWNrTkt6M3o3VHI5TkFNdzYwWXJURTUwXzNROHlUZ1E5R1VVQmdUUHlTXzlLZUVncUtHSlB6UzZFQ3k2eldsM3lRVFlVOGNHaVdBdkZaaW5tdktDRVgyZ3FETXFTUFhvcG1qSWQ3Y1dxOHZFTTdDOXRSY1FBQ3c?oc=5",
-      "pub_date": 1764248603.0,
-      "article_url": "https://spectrum.ieee.org/levi-unema-underwater-robotics-exploration",
-      "image": "https://spectrum.ieee.org/media-library/image.png?id=62218869&width=1200&height=600&coordinates=0%2C521%2C0%2C522",
-      "description": "What does it take to engineer robots that withstand ocean pressure? Levi Unema takes on the challenges of underwater exploration."
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZdHlKbC1HQTV1YkpYVnUyc2JpVmt6dlAtS2N4MXViT2VDWVQtS0Z4OUVKT01BS19MLXBaR3hwQU1QT2dKSVNYdFFFTnNpNmFVYjcyZlJQSER5cGEzbUlDbDQ1VnE1NHFKMXVVdnpR0gGCAUFVX3lxTE1HUjJoM2NJMW4wQmkwNUVzcFFoR3A1NGx6Y25UU3RFYWZweEJBR29QQlJDWUI2c2pFMnRtaVJGcjFFa2FsX1R6cXFzRUpfanBPelh1SDloWDNnTnNEY0M2aDJXeWNnTjlleUpxX0QxNGhoSTRVcHhudEdMaEhYOWROQlE?oc=5",
+      "pub_date": 1763994086.0,
+      "article_url": "https://spectrum.ieee.org/remote-robotic-stroke-treatment-evt",
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62225322&width=1200&height=600&coordinates=0%2C84%2C0%2C141",
+      "description": "Could telerobotics be the key to faster stroke treatment in rural areas? Soon, surgeons may perform lifesaving procedures from miles away."
     },
     {
       "headline": "This $46 billion robotics stock is up nearly 40% after a big win. Could more gains be in store?",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOUnZud1Zoa2cwdkVpSzh1MHctWlR1WnRYR1Nqem5pV3daYXBNZmFFU3RGeHFLRlhCUlNLT0ZJSVU3OVJibTU4R3g1QW1LV3dmVEZxSzFOQjNWN2ZpSkJBa19TTnBpZDZ0RFF1LUxmNjBSYlptc0RZWkd1UU1OR1A2cUlhUHk4UkV1UkpQalE5dkF4UW40U3JtY0dacUF0WUNQX3Q3TnM3OUhLZ0o1aXU5VGdHeC1kRkYyTmlpQ3l6Ylotb1B3VUhsc18zcnE4cTFvcVc1QXJEbTgzZE04RGhXSmVQaUZVZWJEUEFLcnJTeWlVYnJ4dmdzQmN0U3MxQzBoVGJ0cHJuZHpqUEVjYjdRa3ZObFNXbE50dDZUcDJ5QTNUUG5ZeElCMWduYVNlRFIxa18xN0Z6S1RqcFdIbnJhNlUyTU5xUTVEY2FiWjNVQWJfMmozZVlVQnRmXzNTLTdMTzE4dWVaT1B1TXBLLWx1TDl0MlJwc0RTNUw0b2pxbVBWUjkyZFBSdlZtRnVlZVZOcTdEX0RZUG53UlhpM01aX1FXSTdxZEFMVlZKbHllNnNfV1NsQTBkVElJdzRtb0R4aU83a2ZJdm83RTA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOWFNselRkNnFZckJGMXpsM2hYU2x0SWJsNGd0NU1rNEhFMmdLMlJ4WEtVODdFUDdaRzZfbm9hVUVIcHpiV21ybGlMMTVfc0J2bkVCVjc0SDBuRnpvYVgzSlFJazhIQnFfNko2dTBvQkVyLWR3dE9xTXkwNGVXQ3k0MDcydDBodkhBZ2gtdk96cUpPSlFkazdlbm9HcnFYd3g5QUhjeVZWWWNHc0VkbDY5NkV5WjQzdnAwN3B2NlpvdDBhMExXdWpRcUZ2WlFKV1JEMjhMNEUyQzVENzBBWWNRU2dMaWs2RUc1cG5KZDZIMXJJWkhVLWtJMEJDbUtLYW9LendoeUhHaEdLUG9kNmNOYVhqTF9McENhYk5NUTNnWlVXQTNhMWR1dTQ0eVBXRGZfaGl0QjE1bnExclcyVUFwSHBGQWJpbXlUX2JmVkdJblFVd3hlSkI4eUl4RVNaN2VnbWJwTlRUZGdIYjhpS2ZrbFVOblZ4d2ljLXR5dnBOM0tEVDJJa0wxaXdPNnBtSG1MbThWX0t1bzE2TGlRem0tanhKRGFYY0hSb2xKMG4xODZueWpObXVkZTJrUVRFS2dkc2x2dDJYQVdMVVU?oc=5",
       "pub_date": 1764103860.0,
-      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqccJM5CCKDANCVJBr9BN95zgkXF1xGxBOdAIu0Ro4_AZgnXjxMUyM9c&gaa_ts=69287ea4&gaa_sig=z1rEJpKIN9wWvfq-P0akDfOyN5I3TQzCkvzVBBZYuhcQRR1fATOkqwH3XunJt1LBVv_4jJskzGRDkZUDoZfb3w%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqdv7_QHrdrU59Xa0GO7j_Yrlx3IJ-pUi9gfyiQ2ywvvGyKEpkAaMkCm&gaa_ts=692886fa&gaa_sig=VuFE5txtt46vB_3jxOkv4jO8Rh5ZMYxu3K2pYrRSlYDUIByGXMZ0ivBaIHYgwwsOi1Tb6hjYsxZQO3meOZtrXQ%3D%3D",
       "image": null,
       "description": null
     },
@@ -95,16 +95,16 @@
       "description": "Explore Tesla, Inc.'s shift toward AI, robotics, and energy, Q3 2025 earnings, and updated price target. Click here to find out why TSLA stock is a Hold."
     },
     {
-      "headline": "Surgical robotics market will double over the rest of the decade",
-      "source": "MassDevice",
-      "source_url": "https://www.massdevice.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRktZa0lfUFlrZzNHTDlJYjB1bFh0V3pHbHJUYzE0Q2d0cl9uRFRCMXBVbEFIMkFtQkdBT2p5UmpseWp4aEdLY1gybG1CVHVYUl91cUlhZlNHazJnRF9ocy0zeXY2a0I2UHUzaXVrVC1NcGhaUXVVYmxONHBSTmtDNWNJTEpZMnhmNF9DUjlweHYySVgwdEZN?oc=5",
-      "pub_date": 1764083674.0,
-      "article_url": "https://www.massdevice.com/surgical-robotics-market-will-double-over-the-rest-of-the-decade/",
-      "image": "https://wtwh-marketing.s3.amazonaws.com/wp-content/uploads/massdevice/2025/11/25100924/Medtech-Markets-Robotic-Surgery-Website-1.png",
-      "description": "Already worth billions of dollars, the global surgical robotics market will double by 2029, according to a new MassDevice report."
+      "headline": "Xiaomi hires engineer from Tesla\u2019s Optimus team to lead robotic hand development",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGplRElVLTFhXzBBQnRSdVVGVWI5VnAzNkhSUkZKZkhrQ1FkVFU5OUZYMDA3QkNmaHVUS3lrZXFMTGI3cDF4MUphenZ4RjZDR25OSTNaVS0zaGlVUThkaXFqWk51SlVMNzVheDFzSFR2bHh3UXBVSUFLTUctaG1La0xKRDJlSTJWc0JNUFZmTWpYRXl5N0l2eXJxUmhWdm9aUlNNQWNQUE5Ka0dwZmplbUI5Y09oX0FDYmhj0gG7AUFVX3lxTE9FRFF1cEw0R2pnemd5bmxRYjAxVmc3b1hNMkpUWFBDU2duaFF1V0RhOVFFcVdxdkttdk8tT2NXSVlWRWhsdmtCLUc0cHJjVEthRURiZngydXNpZVNYU0U3V0lwS1ZKMGVUZDh6OGlOU3N4dHdNM2RLb01ST0N2SEd2MXJfaWJPQVZxX1BRT2ZCOC10NDB2bkJiU2tidXp5OWVFSXRsMGx0amw4aHRYeWJqQndIYkdTQkEzbFU?oc=5",
+      "pub_date": 1764241211.0,
+      "article_url": "https://www.scmp.com/tech/big-tech/article/3334353/xiaomi-seeks-helping-hand-former-tesla-engineer-robotics-development",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/27/c7c2eeae-93aa-41fe-8c68-839b08836073_d5c3b109.jpg?itok=IGr2noaV&v=1764232500",
+      "description": "Zach Lu Zeyu joins Xiaomi as lead of its dexterous hand research and development operations."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T16:24:23.619443+00:00"
+  "fetched_at": "2025-11-27T16:59:52.629096+00:00"
 }
