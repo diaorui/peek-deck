@@ -35,17 +35,6 @@
       "description": null
     },
     {
-      "title": "Security Flaws in DeepSeek-Generated Code Linked to Political Triggers | \"We found that when DeepSeek-R1 receives prompts containing topics the CCP likely considers politically sensitive, the likelihood of it producing code with severe security vulnerabilities increases by up to 50%.\"",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p83831/security_flaws_in_deepseekgenerated_code_linked/",
-      "published": 1764252879.0,
-      "thumbnail": null,
-      "external_url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-researchers-identify-hidden-vulnerabilities-ai-coded-software/",
-      "site_name": "crowdstrike.com",
-      "favicon": "https://www.crowdstrike.com/etc.clientlibs/crowdstrike/clientlibs/crowdstrike-common/resources/favicon.ico",
-      "description": "CrowdStrike researchers reveal how trigger words cause DeepSeek-R1 to generate vulnerable code\u2014exposing new AI-driven risks in software development."
-    },
-    {
       "title": "ChatGPT maker OpenAI confirms major data breach, exposing user's names, email addresses, and more \u2014 \"Transparency is important to us.\"",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1p85xzi/chatgpt_maker_openai_confirms_major_data_breach/",
@@ -57,15 +46,15 @@
       "description": "Users are waking up to discover OpenAI leaked their data this morning via a faulty third-party plugin. Here's what you need to know."
     },
     {
-      "title": "MIT study finds AI can already replace 11.7% of U.S. workforce",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7c303/mit_study_finds_ai_can_already_replace_117_of_us/",
-      "published": 1764174261.0,
-      "thumbnail": "https://external-preview.redd.it/HwnpM9WtsIRKecGGVlcGR4tSTRZ1axmq4_Ifq-KqB18.jpeg?width=640&crop=smart&auto=webp&s=396ae2bd6295951d825acf6a71c339cd9700a613",
-      "external_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
-      "site_name": "CNBC",
-      "favicon": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
-      "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
+      "title": "Security Flaws in DeepSeek-Generated Code Linked to Political Triggers | \"We found that when DeepSeek-R1 receives prompts containing topics the CCP likely considers politically sensitive, the likelihood of it producing code with severe security vulnerabilities increases by up to 50%.\"",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p83831/security_flaws_in_deepseekgenerated_code_linked/",
+      "published": 1764252879.0,
+      "thumbnail": null,
+      "external_url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-researchers-identify-hidden-vulnerabilities-ai-coded-software/",
+      "site_name": "crowdstrike.com",
+      "favicon": "https://www.crowdstrike.com/etc.clientlibs/crowdstrike/clientlibs/crowdstrike-common/resources/favicon.ico",
+      "description": "CrowdStrike researchers reveal how trigger words cause DeepSeek-R1 to generate vulnerable code\u2014exposing new AI-driven risks in software development."
     },
     {
       "title": "The New AI Consciousness Paper, Boom, bubble, bust, boom: Why should AI be different? and many other AI links from Hacker News",
@@ -79,6 +68,17 @@
       "description": "Hey everyone! I just sent issue #9 of the Hacker News x AI newsletter - a weekly roundup of the best AI links and the discussions around them from Hacker News. My initial validation goal was 100 subscribers in 10 issues/week; we are now 142, so I will continue sending this newsletter. See below some of the news (AI-generated description): The New AI Consciousness Paper A new paper tries to outline whether current AI systems show signs of \u201cconsciousness,\u201d sparking a huge debate over definitions and whether the idea even makes sense. HN link Boom, bubble, bust, boom: Why should AI be different? A zoomed-out look at whether AI is following a classic tech hype cycle or if this time really is different. Lots of thoughtful back-and-forth. HN link Google begins showing ads in AI Mode Google is now injecting ads directly into AI answers, raising concerns about trust, UX, and the future of search. HN link Why is OpenAI lying about the data it's collecting? A critical breakdown claiming OpenAI\u2019s data-collection messaging doesn\u2019t match reality, with strong technical discussion in the thread. HN link Stunning LLMs with invisible Unicode characters A clever trick uses hidden Unicode characters to confuse LLMs, leading to all kinds of jailbreak and security experiments. HN link If you want to receive the next issues, subscribe here."
     },
     {
+      "title": "MIT study finds AI can already replace 11.7% of U.S. workforce",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7c303/mit_study_finds_ai_can_already_replace_117_of_us/",
+      "published": 1764174261.0,
+      "thumbnail": "https://external-preview.redd.it/HwnpM9WtsIRKecGGVlcGR4tSTRZ1axmq4_Ifq-KqB18.jpeg?width=640&crop=smart&auto=webp&s=396ae2bd6295951d825acf6a71c339cd9700a613",
+      "external_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
+      "site_name": "CNBC",
+      "favicon": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
+      "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
+    },
+    {
       "title": "Anthropic CEO called to testify on Chinese AI cyberattack | \"For the first time, we are seeing a foreign adversary use a commercial AI to carry out nearly an entire cyber operation with minimal human involvement. That should concern every federal agency and every sector of critical infrastructure.\"",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1p826h5/anthropic_ceo_called_to_testify_on_chinese_ai/",
@@ -90,6 +90,17 @@
       "description": null
     },
     {
+      "title": "AI bubble theory, hear me out",
+      "author": "k_means_clusterfuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1p8ani3/ai_bubble_theory_hear_me_out/",
+      "published": 1764271224.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "A lot of people are speculating that the AI industry is an economic bubble and will soon burst. And a lot of attention has gone to a figure representing cyclical relationships between chip designers and AI companies. Some some people, notably Hank Green, mistake it for the entire ai industry, while missing Google, Anthropic, Moonshot, Alibaba, all the chinese noname labs. https://preview.redd.it/here-is-how-the-ai-bubble-is-being-created-per-bloomberg-v0-jxnlqgt8l4uf1.jpeg?auto=webp&s=9ae2e645c5fa513f5cc146a4de936ae667ca3c6c Now relevant to the discussion of bubble is whether or not AI will improve, and how much compute do we actually need? In this figure, you have to ask yourself, why is there so much investment in AI compute? Well here's the checkmate: * if ai keeps improving, you want to be sure to have the best ai * if ai doesn't keep improving, it means we rely on scale and that means we need to spend a lot of compute just to get somewhat useful ai systems. All in all, it seems good to have compute either way, when thinking from perspective of an ai company."
+    },
+    {
       "title": "AI is great at tasks but is not good at switching topics",
       "author": "PeatedW",
       "url": "https://www.reddit.com/r/artificial/comments/1p800qa/ai_is_great_at_tasks_but_is_not_good_at_switching/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Everyone talks about how Al can do almost anything now - code, design, generate images, write articles, analyse documents, do research. And yes, it is very good at these things . But here is something most people never mention: Al is amazing at doing tasks - but it is not always good at switching minds and you have guide it to do stuff for you. If you talk to an Al for a long time about one topic, and then suddenly change topic like a human would, it often keeps answering with the inertia of the previous topic. A kind of \"context momentum.\" The Al gets stuck in the mental mode of the previous conversation, even if you're asking something completely different. It is not because the model is bad, it is because human conversations are fluid...and Al is still learning how to let go of old context without losing coherence. This is one of those subtle limitations that people don't notice."
-    },
-    {
-      "title": "McKinsey Cuts About 200 Tech Jobs, Shifts More Roles to AI",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p82c9j/mckinsey_cuts_about_200_tech_jobs_shifts_more/",
-      "published": 1764250474.0,
-      "thumbnail": "https://external-preview.redd.it/tvBg-nWzfjdyybHdUdZADh8N54ZaqcJsYCmj2x4Qzoc.jpeg?width=640&crop=smart&auto=webp&s=eb4f9150f4474477438345146639851e96af446f",
-      "external_url": "https://www.bloomberg.com/news/articles/2025-11-26/mckinsey-cuts-about-200-tech-jobs-shifts-more-roles-to-ai",
-      "site_name": "Bloomberg.com",
-      "favicon": "https://www.bloomberg.com/favicon-black.png",
-      "description": "McKinsey &amp; Co. cut about 200 global tech jobs in the past week as the consulting firm joins rivals in using artificial intelligence to automate some positions."
     }
   ],
-  "fetched_at": "2025-11-27T18:56:56.213007+00:00"
+  "fetched_at": "2025-11-27T19:31:21.712218+00:00"
 }

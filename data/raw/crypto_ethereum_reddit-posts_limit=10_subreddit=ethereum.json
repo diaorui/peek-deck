@@ -13,6 +13,17 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
+      "title": "Need some help sending crypto privately to a colleague \ud83d\ude4f",
+      "author": "sami1371",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p872cz/need_some_help_sending_crypto_privately_to_a/",
+      "published": 1764262375.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I sold part of my business not long ago and got paid in eth. Now I need to send some of it to a colleague, but I\u2019d like to keep it private. No banks, no long forms, no kyc. I was thinking to change eth into xmr first and then send it, just to keep everything more confidential. The issue is, most swap platforms look like scams or ask for full registration even for small amounts. Can someone suggest a reliable decentralized exchange or swap service for eth to xmr that\u2019s fast and doesn\u2019t take huge fees?"
+    },
+    {
       "title": "Part One of Can I Pay With This? A stablecoin experiment in Buenos Aires.",
       "author": "Twelvemeatballs",
       "url": "https://www.reddit.com/r/ethereum/comments/1p85ooe/part_one_of_can_i_pay_with_this_a_stablecoin/",
@@ -33,17 +44,6 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Need some help sending crypto privately to a colleague \ud83d\ude4f",
-      "author": "sami1371",
-      "url": "https://www.reddit.com/r/ethereum/comments/1p872cz/need_some_help_sending_crypto_privately_to_a/",
-      "published": 1764262375.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I sold part of my business not long ago and got paid in eth. Now I need to send some of it to a colleague, but I\u2019d like to keep it private. No banks, no long forms, no kyc. I was thinking to change eth into xmr first and then send it, just to keep everything more confidential. The issue is, most swap platforms look like scams or ask for full registration even for small amounts. Can someone suggest a reliable decentralized exchange or swap service for eth to xmr that\u2019s fast and doesn\u2019t take huge fees?"
     },
     {
       "title": "Concentrated Liquidity (CL) Basics",
@@ -112,5 +112,5 @@
       "description": "FRNT is using Ethereum. Wyoming wants to export the process they pioneered to other states interested in launching stable tokens. Could be big, if Ethereum is chosen as the go-to blockchain for state token commerce."
     }
   ],
-  "fetched_at": "2025-11-27T18:56:58.997028+00:00"
+  "fetched_at": "2025-11-27T19:31:24.277812+00:00"
 }
