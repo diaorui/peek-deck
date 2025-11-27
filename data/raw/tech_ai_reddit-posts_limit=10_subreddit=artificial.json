@@ -13,6 +13,28 @@
       "description": "Mexico announced on Wednesday plans to build Coatlicue, a 314-petaflop supercomputer that will become Latin America's most powerful."
     },
     {
+      "title": "Security Flaws in DeepSeek-Generated Code Linked to Political Triggers | \"We found that when DeepSeek-R1 receives prompts containing topics the CCP likely considers politically sensitive, the likelihood of it producing code with severe security vulnerabilities increases by up to 50%.\"",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p83831/security_flaws_in_deepseekgenerated_code_linked/",
+      "published": 1764252879.0,
+      "thumbnail": null,
+      "external_url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-researchers-identify-hidden-vulnerabilities-ai-coded-software/",
+      "site_name": "crowdstrike.com",
+      "favicon": "https://www.crowdstrike.com/etc.clientlibs/crowdstrike/clientlibs/crowdstrike-common/resources/favicon.ico",
+      "description": "CrowdStrike researchers reveal how trigger words cause DeepSeek-R1 to generate vulnerable code\u2014exposing new AI-driven risks in software development."
+    },
+    {
+      "title": "ChatGPT maker OpenAI confirms major data breach, exposing user's names, email addresses, and more \u2014 \"Transparency is important to us.\"",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1p85xzi/chatgpt_maker_openai_confirms_major_data_breach/",
+      "published": 1764259691.0,
+      "thumbnail": "https://external-preview.redd.it/GXG5OBerEMkRkrU82EgRfCJW7YUbvcvbQfeN2k-2yDA.jpeg?width=640&crop=smart&auto=webp&s=505756936340f91355c53367d238d084c0f95e58",
+      "external_url": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/openai-confirms-major-data-breach-exposing-users-names-email-addresses-and-more-transparency-is-important-to-us",
+      "site_name": "Windows Central",
+      "favicon": "https://cdn.mos.cms.futurecdn.net/flexiimages/gvnkdor1vl1647264367.png",
+      "description": "Users are waking up to discover OpenAI leaked their data this morning via a faulty third-party plugin. Here's what you need to know."
+    },
+    {
       "title": "OpenAI says dead teen violated TOS when he used ChatGPT to plan suicide",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1p7i8r8/openai_says_dead_teen_violated_tos_when_he_used/",
@@ -35,17 +57,6 @@
       "description": null
     },
     {
-      "title": "Security Flaws in DeepSeek-Generated Code Linked to Political Triggers | \"We found that when DeepSeek-R1 receives prompts containing topics the CCP likely considers politically sensitive, the likelihood of it producing code with severe security vulnerabilities increases by up to 50%.\"",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p83831/security_flaws_in_deepseekgenerated_code_linked/",
-      "published": 1764252879.0,
-      "thumbnail": null,
-      "external_url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-researchers-identify-hidden-vulnerabilities-ai-coded-software/",
-      "site_name": "crowdstrike.com",
-      "favicon": "https://www.crowdstrike.com/etc.clientlibs/crowdstrike/clientlibs/crowdstrike-common/resources/favicon.ico",
-      "description": "CrowdStrike researchers reveal how trigger words cause DeepSeek-R1 to generate vulnerable code\u2014exposing new AI-driven risks in software development."
-    },
-    {
       "title": "A nuanced take on current progress",
       "author": "PianistWinter8293",
       "url": "https://www.reddit.com/r/artificial/comments/1p8blyw/a_nuanced_take_on_current_progress/",
@@ -57,17 +68,6 @@
       "description": "We've been hearing that AI might be in a bubble, that we might be hitting some wall. This all might be true, but yet there remains a large proportion of people that insist we are actually moving towards AGI rather quickly. These two diverging views can be explained by the high uncertainty around future predictions, its simply too hard to know and people tend to overestimate themselves such that they don't have to sit in the unknown. We see these scaling laws, these huge promises for further increases in compute, and we say okay this makes sense, more compute means more intelligence. Then we have the other side that says we are missing something fundamental: u can shoot 10x harder but if you are aiming in the wrong direction you will just stray further from the goal. We should realign ourselves towards real AI: continuous learning, smart designs, actual deep-rooted understanding instead of brute-forcing it. There are oversimplifications and misunderstandings from both sides. For one, that LLM's rely on simple rules and mechanisms doesn't exclude them from being complex or intelligent. One could argue evolution is actually a relatively simple game with simple rules, it's just that with the compute of the world over trillions of years we get these amazing results. Yet the AI optimist also often fails to see that current flaws won't certainly be solved by scale alone. Will hallucinations be solved by scale? Maybe. But certainly continual learning will not be solved by scale as it is an architectural limitation. With all attention and efforts going into AI we might expect rapid advancements such that things like continual learning will be solved. But we should again nuance ourselves and realize that a lot of investments are currently put into optimizing current architectures and systems. The maker of the transformer has even said that he believes this is wasted efforts, since we will soon realize a more efficient or better architecture and lose all this progress. Given all this uncertainty, lets sum up what we do know for a fact. For one, we know compute will increase over coming years, likely in an exponential fasion. We also know that ML research is highly dependent on compute for exploration, and that we therefore can expect a similar increase in ML advancements. The transformer might not be the end-all-be-all, and we might need some fundamental shifts before we get to human-replacing AI. One of my personal stronger takes is on reinforcement learning. Current systems are trained in a very labor-intensive way. We utilize scale to make machines better at specific tasks, but not to make them better at more tasks in total. To put it another way, if we can use scale to have AI get better over more dimensions of capabilities, instead of within the same fixed dimensions, then we can unlock general intelligent AI. To have this, we need to stop setting up RL environments for every task, and start finding RL algorithms that can generalize to any setting. Such methods do exist, and its just a question of which recipe of these methods will scale and solve this problem for us."
     },
     {
-      "title": "ChatGPT maker OpenAI confirms major data breach, exposing user's names, email addresses, and more \u2014 \"Transparency is important to us.\"",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1p85xzi/chatgpt_maker_openai_confirms_major_data_breach/",
-      "published": 1764259691.0,
-      "thumbnail": "https://external-preview.redd.it/GXG5OBerEMkRkrU82EgRfCJW7YUbvcvbQfeN2k-2yDA.jpeg?width=640&crop=smart&auto=webp&s=505756936340f91355c53367d238d084c0f95e58",
-      "external_url": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/openai-confirms-major-data-breach-exposing-users-names-email-addresses-and-more-transparency-is-important-to-us",
-      "site_name": "Windows Central",
-      "favicon": "https://cdn.mos.cms.futurecdn.net/flexiimages/gvnkdor1vl1647264367.png",
-      "description": "Users are waking up to discover OpenAI leaked their data this morning via a faulty third-party plugin. Here's what you need to know."
-    },
-    {
       "title": "The New AI Consciousness Paper, Boom, bubble, bust, boom: Why should AI be different? and many other AI links from Hacker News",
       "author": "alexeestec",
       "url": "https://www.reddit.com/r/artificial/comments/1p85t79/the_new_ai_consciousness_paper_boom_bubble_bust/",
@@ -77,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey everyone! I just sent issue #9 of the Hacker News x AI newsletter - a weekly roundup of the best AI links and the discussions around them from Hacker News. My initial validation goal was 100 subscribers in 10 issues/week; we are now 142, so I will continue sending this newsletter. See below some of the news (AI-generated description): The New AI Consciousness Paper A new paper tries to outline whether current AI systems show signs of \u201cconsciousness,\u201d sparking a huge debate over definitions and whether the idea even makes sense. HN link Boom, bubble, bust, boom: Why should AI be different? A zoomed-out look at whether AI is following a classic tech hype cycle or if this time really is different. Lots of thoughtful back-and-forth. HN link Google begins showing ads in AI Mode Google is now injecting ads directly into AI answers, raising concerns about trust, UX, and the future of search. HN link Why is OpenAI lying about the data it's collecting? A critical breakdown claiming OpenAI\u2019s data-collection messaging doesn\u2019t match reality, with strong technical discussion in the thread. HN link Stunning LLMs with invisible Unicode characters A clever trick uses hidden Unicode characters to confuse LLMs, leading to all kinds of jailbreak and security experiments. HN link If you want to receive the next issues, subscribe here."
+    },
+    {
+      "title": "Amazon Workers Issue Warning About Company\u2019s \u2018All-Costs-Justified\u2019 Approach to AI Development",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p82dsx/amazon_workers_issue_warning_about_companys/",
+      "published": 1764250594.0,
+      "thumbnail": "https://external-preview.redd.it/axxgvLBAktTpa_2X5uSfwwDgTHmcltaPgfzfmR2shu8.jpeg?width=640&crop=smart&auto=webp&s=04c5ae562c596f98bebd9552959b7bbc76e6f5ec",
+      "external_url": "https://www.wired.com/story/amazon-employees-open-letter-artificial-intelligence-layoffs/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "Amazon Employees for Climate Justice says that over 1,000 workers have signed a petition raising \u201cserious concerns\u201d about the company\u2019s \u201caggressive rollout\u201d of artificial intelligence tools."
     },
     {
       "title": "MIT study finds AI can already replace 11.7% of U.S. workforce",
@@ -99,18 +110,7 @@
       "site_name": "axios.com",
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "AI bubble theory, hear me out",
-      "author": "k_means_clusterfuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1p8ani3/ai_bubble_theory_hear_me_out/",
-      "published": 1764271224.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "A lot of people are speculating that the AI industry is an economic bubble and will soon burst. And a lot of attention has gone to a figure representing cyclical relationships between chip designers and AI companies. Some some people, notably Hank Green, mistake it for the entire ai industry, while missing Google, Anthropic, Moonshot, Alibaba, all the chinese noname labs. https://preview.redd.it/here-is-how-the-ai-bubble-is-being-created-per-bloomberg-v0-jxnlqgt8l4uf1.jpeg?auto=webp&s=9ae2e645c5fa513f5cc146a4de936ae667ca3c6c Now relevant to the discussion of bubble is whether or not AI will improve, and how much compute do we actually need? In this figure, you have to ask yourself, why is there so much investment in AI compute? Well here's the checkmate: * if ai keeps improving, you want to be sure to have the best ai * if ai doesn't keep improving, it means we rely on scale and that means we need to spend a lot of compute just to get somewhat useful ai systems. All in all, it seems good to have compute either way, when thinking from perspective of an ai company."
     }
   ],
-  "fetched_at": "2025-11-27T20:16:50.978529+00:00"
+  "fetched_at": "2025-11-27T20:57:36.505097+00:00"
 }

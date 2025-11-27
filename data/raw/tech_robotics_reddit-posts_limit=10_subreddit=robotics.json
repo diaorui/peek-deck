@@ -46,6 +46,17 @@
       "description": null
     },
     {
+      "title": "Slambot - My custom built 'diff-drive' ROS2 powered robot which does SLAM mapping and autonomous navigation.",
+      "author": "BenM100",
+      "url": "https://www.reddit.com/r/robotics/comments/1p802s8/slambot_my_custom_built_diffdrive_ros2_powered/",
+      "published": 1764243358.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "DC motor or actuator type",
       "author": "dgtldan",
       "url": "https://www.reddit.com/r/robotics/comments/1p83z7t/dc_motor_or_actuator_type/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Slambot - My custom built 'diff-drive' ROS2 powered robot which does SLAM mapping and autonomous navigation.",
-      "author": "BenM100",
-      "url": "https://www.reddit.com/r/robotics/comments/1p802s8/slambot_my_custom_built_diffdrive_ros2_powered/",
-      "published": 1764243358.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-11-27T20:16:55.005488+00:00"
+  "fetched_at": "2025-11-27T20:57:40.571462+00:00"
 }
