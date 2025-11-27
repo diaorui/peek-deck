@@ -33,6 +33,20 @@
       "site_name": "lielvilla.com"
     },
     {
+      "title": "Bitcoin isn't anonymous \u2013 investigators can trace transactions on the blockchain",
+      "url": "https://boingboing.net/2025/11/13/bitcoin-isnt-anonymous-investigators-can-trace-every-transaction-on-the-blockchain.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46060819",
+      "author": "jethronethro",
+      "points": 5,
+      "num_comments": 1,
+      "created_at": "2025-11-26T18:34:25Z",
+      "object_id": "46060819",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "boingboing.net"
+    },
+    {
       "title": "Solo miner scores a full Bitcoin block worth $270K despite 1 in 180M odds",
       "url": "https://www.tomshardware.com/tech-industry/cryptomining/hobbyist-miner-using-a-single-6-ths-asic-mines-full-bitcoin-block",
       "hn_url": "https://news.ycombinator.com/item?id=46028449",
@@ -45,20 +59,6 @@
       "description": "Solo miner controls roughly 0.0000007\u202f% of the Bitcoin network\u2019s hash\u2011power yet captures full block reward.",
       "favicon": "https://vanilla.futurecdn.net/tomshardware/1479220/apple-touch-icon.png",
       "site_name": "Tom's Hardware"
-    },
-    {
-      "title": "Bitcoin isn't anonymous \u2013 investigators can trace transactions on the blockchain",
-      "url": "https://boingboing.net/2025/11/13/bitcoin-isnt-anonymous-investigators-can-trace-every-transaction-on-the-blockchain.html",
-      "hn_url": "https://news.ycombinator.com/item?id=46060819",
-      "author": "jethronethro",
-      "points": 4,
-      "num_comments": 1,
-      "created_at": "2025-11-26T18:34:25Z",
-      "object_id": "46060819",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "boingboing.net"
     },
     {
       "title": "OSMU Community member posts proof that certain Bitcoin mining pools are fugazi",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 13,
   "has_metadata": true,
-  "fetched_at": "2025-11-27T06:52:02.569563+00:00"
+  "fetched_at": "2025-11-27T07:34:40.708329+00:00"
 }
