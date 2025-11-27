@@ -107,7 +107,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16043",
       "arxiv_url": "https://arxiv.org/abs/2511.16043",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16043.png",
-      "upvotes": 93,
+      "upvotes": 94,
       "num_comments": 3,
       "published_at": "2025-11-20T00:01:57.000Z",
       "github_repo": "https://github.com/aiming-lab/Agent0",
@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2511.18423",
       "arxiv_url": "https://arxiv.org/abs/2511.18423",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.18423.png",
-      "upvotes": 138,
+      "upvotes": 139,
       "num_comments": 2,
       "published_at": "2025-11-23T07:29:33.000Z",
       "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-27T16:47:06.829264+00:00"
+  "fetched_at": "2025-11-27T17:51:43.898516+00:00"
 }
