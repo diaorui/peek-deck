@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "AI can already do the work of 12% of America's workforce, MIT researchers find",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44UF9fODFDSXVRY0g2eGR2OUZDeWJNNXkyazdpTXBiaVFVcU1nazhnMU5FZjJOX3JIN09HZDgyM3RQa3pLV1B4RThrTUNtWEQ3YkRzOVo4YjMtdlFIWjh3aXk1Wk11RTVTck1TU3Y2X3BXYnYtSjBlWmR5Z09vZ2PSAYQBQVVfeXFMTWxzZTJtZkdtRk9TVG9rb2hoN2xqU2dJZXAxd3M4Yi1HTXl6NkVxeUtaeDFhN0JTU21IcVBLUXpLMUlKX2RvV3NVcVEwMDhqZmJWS0d3NGVtbXcxVFYybjdMeFhONnBHblhCT3otVXI1RjdrOWhzX2lOTE9EMHRicXdTMG1n?oc=5",
-      "pub_date": 1764197820.0,
-      "article_url": "https://www.cbsnews.com/news/ai-artificial-intelligence-workers-mit-study/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/26/1a6fc6cd-ea80-4468-977a-7a46e4002cbb/thumbnail/1200x630/c93034e11ba8c92f4d25914d01b97e08/gettyimages-2234175849.jpg",
-      "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
-    },
-    {
       "headline": "MIT study finds AI can already replace 11.7% of U.S. workforce",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -23,6 +13,16 @@
       "article_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108232119-1764112994142-gettyimages-2209860667-AFP_42FT68T.jpeg?v=1764166052&w=1920&h=1080",
       "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
+    },
+    {
+      "headline": "AI can already do the work of 12% of America's workforce, MIT researchers find",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44UF9fODFDSXVRY0g2eGR2OUZDeWJNNXkyazdpTXBiaVFVcU1nazhnMU5FZjJOX3JIN09HZDgyM3RQa3pLV1B4RThrTUNtWEQ3YkRzOVo4YjMtdlFIWjh3aXk1Wk11RTVTck1TU3Y2X3BXYnYtSjBlWmR5Z09vZ2PSAYQBQVVfeXFMTWxzZTJtZkdtRk9TVG9rb2hoN2xqU2dJZXAxd3M4Yi1HTXl6NkVxeUtaeDFhN0JTU21IcVBLUXpLMUlKX2RvV3NVcVEwMDhqZmJWS0d3NGVtbXcxVFYybjdMeFhONnBHblhCT3otVXI1RjdrOWhzX2lOTE9EMHRicXdTMG1n?oc=5",
+      "pub_date": 1764197820.0,
+      "article_url": "https://www.cbsnews.com/news/ai-artificial-intelligence-workers-mit-study/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/26/1a6fc6cd-ea80-4468-977a-7a46e4002cbb/thumbnail/1200x630/c93034e11ba8c92f4d25914d01b97e08/gettyimages-2234175849.jpg",
+      "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
     },
     {
       "headline": "MIT report: AI can already replace nearly 12% of the U.S. workforce",
@@ -35,32 +35,32 @@
       "description": "The window to treat AI as a distant future issue is closing."
     },
     {
-      "headline": "Amazon Workers Issue Warning About Company\u2019s \u2018All-Costs-Justified\u2019 Approach to AI Development",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDJiVENLeFJxeDNVZnBEWnVkSWgtcWdDV2ZSb2RRSXdmZDJCVS03NzVBYWw4TWwyRWttLUxweDduSDFhX01feTEteExzN3ZBUFVCeE5yVEhlSmc3NmczM0JJODFGN3dNb0VTMDduMnVzNTZ0OTh3LW0zVWJiWTgtWmZNSWVIVXh3ZGtQRGZqX09yODQ?oc=5",
-      "pub_date": 1764183840.0,
-      "article_url": "https://www.wired.com/story/amazon-employees-open-letter-artificial-intelligence-layoffs/",
-      "image": "https://media.wired.com/photos/692633a52a28299e7369f58a/191:100/w_1280,c_limit/Amazon-Employees-Sign-Letter-Objecting-to-Company-Use-of-AI-Business-2243392135.jpg",
-      "description": "Amazon Employees for Climate Justice says that over 1,000 workers have signed a petition raising \u201cserious concerns\u201d about the company\u2019s \u201caggressive rollout\u201d of artificial intelligence tools."
+      "headline": "How Google put together the pieces for its AI comeback",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0JLdVFlVTcyOHViMGdtWU5LcFZlNmJGbWl1SHZYTjNEd29fTDc0bFZ4Wk5FTWRVOEpqVXJHUG10Mi1PcEN0YnRrWkJhdURqTmJCRWRYOUREOGRhNktXVkZqQjNjdVhqa0w3M3ZzRldVUnJ3QkRQUzlxVEVfQWpvRU5PMUc5VW5pN2p6WGEzT0ZRSE1CUVHSAZsBQVVfeXFMTjBUa0dLUzZ6bEI2SWN4UThGWVVWcTUtX0ZKMEpTbl9mVktYbUxKeDVFWDk4M01kUGU0U0paZ28tRzczUmtnM0JVTGxVWW0yS1JqODh2TzZKT3M0ZTVoRG54QjlSMU1EU3UxeHJISkM1OEM3aDJPZUFlcVg1MDhOSGNsSUVHLVY3MFl5RmhUd1VnQnhoajRhTjFscVk?oc=5",
+      "pub_date": 1764244801.0,
+      "article_url": "https://www.cnbc.com/2025/11/27/how-google-put-together-the-pieces-for-its-ai-comeback.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108228511-1763577992035-gettyimages-2247381802-vcg111604745843.jpeg?v=1764184784&w=1920&h=1080",
+      "description": "The company's Gemini 3 and Ironwood AI chip are driving Wall Street's excitement behind Alphabet's AI comeback, but challenges remain."
     },
     {
-      "headline": "A.I. Can Do More of Your Shopping This Holiday Season",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYzlacEFHWFp5OWNOVTB2YkV1eXU2Wk1WaE1scHNQSDk3MkkyS25abWU1VWhJRTkzYVg1UDR1Z2wyRk9JUDlsUDlZWVB5Sm1BVEVoYWpZVk9VdkFlMjQzYmFIUlFBMF9rUkRtWXJnRi0yalhYamtXMnNUallvalIxeA?oc=5",
-      "pub_date": 1764064918.0,
-      "article_url": "https://www.nytimes.com/2025/11/25/technology/chatgpt-holiday-shopping.html",
+      "headline": "Investors expect AI use to soar. That\u2019s not happening",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkpHa2tpX01zLXh5eXdTS2NWUi1ra04xeHlpSHhXbkZWUHdLdUxib1c5T21UTlIwd3JBRS1mUGdUcnVvbmduV1h0UlZaOEJObDI5Q1hneEJVTTlfN2s1NmlMbjJmMkNoZ21XdUlySG9zc3lUYk9IcG11YTNjZGdSX3hMVDhaMGxVT0RlRmlrQUlQeS14LUFjLW9HSkU1Wkpwc3g1VXMyMno5SDhiX2cw?oc=5",
+      "pub_date": 1764174642.0,
+      "article_url": "https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening",
       "image": null,
       "description": null
     },
     {
-      "headline": "Teens Are Saying Tearful Goodbyes to Their AI Companions",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNSlB0ZUkyajhETnljQ0JDeWFTZDg4bU5HX2RFdEl2emdtekhRWkdleW9BUUlOMUo3Y1FLSE5YVDdBWjlwSk5GZTBORjlPSktRd19QQVBxR0tkZ29MQUlpc0xiVmFsSzh0N3RMYnJJbTZLYkVSLW1aRXdSbVpCTlNodjFyWTRnVkxBX0ItczF0N1J6cVVzbS1UOFF6OGttQndQd2hsaWlMbFl2ZkowZGUtNXRRa2kzTUxiSHhkazFfVklpakhQQXkyaWtjQ2phZ0R5cWllTWRoYjBGTHM4QWdKMFVNQjBudjRzeEs1ZUxQcUZRaXBvLWEwZy1lNTFEb0kwajNGc29BdlhKRF9IcnlEeVc0dzVoYlZHZk5CeDhkTFdBY09xOHpGS2RfYzNZeUNKN2xBZmd2ek5HSXF4dl9ieDRMcFgxRFA2R1hYQTUxY1J6WHNfTXFVdW1CdS1UdDZnank1eGZqbDV0OVBtN01CSjdySzRyM3FhR3AtY1RFX2tuc3B3Smc?oc=5",
-      "pub_date": 1764032400.0,
-      "article_url": "https://www.wsj.com/tech/ai/character-ai-teen-access-mental-health-4ec02a43?gaa_at=eafs&gaa_n=AWEtsqc09gXn-8kBguYctkdbytdge14xF2dOMhufq6c5OLLO2CJqt7WM01hV&gaa_ts=6928aa8c&gaa_sig=oMo0zzkbIfBJtc7UxRdKtXpWOuq7n4RzGW8BahSpuw1LnGM7bbBU2XL8Oq2dmIOGo7_EUk4Mcs-2C67FSFpH6Q%3D%3D",
+      "headline": "AI shopping wars: Walmart, Amazon, Target, Google, Meta, OpenAI unveil new tools",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhaTZDTnJsN2Z4SEg3Qk9paHduR1BySVJpTDdQYkwxVWtZWUcxRERfLVF6eDBzUzI1SmtCbmxRNi1hWEVHSVEydkV2NTNDNHBFOVRKRy1CNzFqcnByUTFfNmJreXBxVUwtSHp2X1U5d0w3YllxdGdnSmxSREd5VW8?oc=5",
+      "pub_date": 1764248557.0,
+      "article_url": "https://www.axios.com/2025/11/27/ai-shopping-tools-christmas-gifts-chatgpt",
       "image": null,
       "description": null
     },
@@ -75,12 +75,12 @@
       "description": "Breakthrough AI chatbots show promise in fighting hate speech by reducing belief in antisemitic conspiracy theories in new research study."
     },
     {
-      "headline": "Investors expect AI use to soar. That\u2019s not happening",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkpHa2tpX01zLXh5eXdTS2NWUi1ra04xeHlpSHhXbkZWUHdLdUxib1c5T21UTlIwd3JBRS1mUGdUcnVvbmduV1h0UlZaOEJObDI5Q1hneEJVTTlfN2s1NmlMbjJmMkNoZ21XdUlySG9zc3lUYk9IcG11YTNjZGdSX3hMVDhaMGxVT0RlRmlrQUlQeS14LUFjLW9HSkU1Wkpwc3g1VXMyMno5SDhiX2cw?oc=5",
-      "pub_date": 1764174642.0,
-      "article_url": "https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening",
+      "headline": "Teens Are Saying Tearful Goodbyes to Their AI Companions",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQS3ZHc2tyWllnaDV6eENfTkdwN0lEQWRuNlVVTV9oei1xblhQWXBxNTY0a09GZjNXNTRvRzRxTU5HbVU2RWhZMmFNeTBlQmNwd01Cc0lhakYtZk5vb3Z0X1VuWDhyVXJ1X29OUGtoZlJabjZVZmJZb2JQMkNIYUttaDZpb1FZd1dlaUVjS3pOdF91ZWVNYXhtT1JWT0ZKVFp1Yi14M0pxejlWOFE4MV9YSmJfRlBoeEpWX1FtQVVGZ0ZFWjFuckhGUG52Y2FkSThQeWF0SVNvc1UtaFpfbDJHX0cyMy1WUlAxVlYwdWRuNk4zbUEtSWhzb3NrcHVqTVl5NWVqUXRJM0c1ZkFKZzZ1NzBidkcwcXEwUVNDZFhIOEtEZU1CUWFPcG42Q01teVcwVjRmTDB5X3NyRVlDdnM2ZzdrYXg5dzZ6Q2ZPcHJiQldLX2hEdWIxdUM0bDhMdGZzazhVTjJPZ0Zsb3dsNjRtQmU0MnpkSnI5RXZUSmQtekNWQUkya1E?oc=5",
+      "pub_date": 1764032400.0,
+      "article_url": "https://www.wsj.com/tech/ai/character-ai-teen-access-mental-health-4ec02a43?gaa_at=eafs&gaa_n=AWEtsqfdcO7j0zgLwsJgviyDonkqh2YuxJEHUcj1nDwUbPyp0QtcI2RCF8PO&gaa_ts=6928b536&gaa_sig=AyeSHFika0Oe2LB1ZfzqzqfEqe9CLqEardCgynpk9wdg12VFU19OhwSkI25ceicXg6Aj-nYFsWS7A4RHVehvxg%3D%3D",
       "image": null,
       "description": null
     },
@@ -95,16 +95,16 @@
       "description": null
     },
     {
-      "headline": "AI shopping wars: Walmart, Amazon, Target, Google, Meta, OpenAI unveil new tools",
+      "headline": "How to talk to grandma about ChatGPT",
       "source": "Axios",
       "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhaTZDTnJsN2Z4SEg3Qk9paHduR1BySVJpTDdQYkwxVWtZWUcxRERfLVF6eDBzUzI1SmtCbmxRNi1hWEVHSVEydkV2NTNDNHBFOVRKRy1CNzFqcnByUTFfNmJreXBxVUwtSHp2X1U5d0w3YllxdGdnSmxSREd5VW8?oc=5",
-      "pub_date": 1764248557.0,
-      "article_url": "https://www.axios.com/2025/11/27/ai-shopping-tools-christmas-gifts-chatgpt",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CWEgxUngxVjA1SXhOQjR0UGl4RDctVkg0M3VVSm9FZGNoOEROVTFJQzZaVEhVVUVZckczUzlIRGstNzB1MlF1MXkxb3haWld1TzgzLTEydmx0b2E3eTc4bXNubUdySWk0TW0yUThlNFJkTk0t?oc=5",
+      "pub_date": 1764246748.0,
+      "article_url": "https://www.axios.com/2025/11/27/seniors-scams-chatgpt-sora-gemini",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T19:31:40.013306+00:00"
+  "fetched_at": "2025-11-27T20:17:09.689094+00:00"
 }
