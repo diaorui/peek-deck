@@ -101,16 +101,16 @@
       "description": "Built a drone and a proprietary lowering mechanism. Ashamed to say how much time it took and theres still a lot of work left. Its fully autonomous tho, everything is contained within the drone, it doesn't need any communication link nor human operator"
     },
     {
-      "title": "Help with a friend's project",
-      "author": "gamerpro322109",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7ikp7/help_with_a_friends_project/",
-      "published": 1764188951.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I am trying to help my friend with a project he has to do for school and he doesnt know what kind of parts he needs, if you know what parts he needs and the name of them, thanks for your help Ps: for the coding what should he use? This is what he asked me: Im building a car with sensors that detect plastic and metal and can distinquish and sort them from trash to recyclables I need a script and coding for that Which i dont got yet The scripting and coding is the hardest part"
+      "title": "Flexion connects a robot brain to the Unitree G1 to research generalizable robot autonomy",
+      "author": "misbehavingwolf",
+      "url": "https://www.reddit.com/r/robotics/comments/1p76x40/flexion_connects_a_robot_brain_to_the_unitree_g1/",
+      "published": 1764161427.0,
+      "thumbnail": "https://external-preview.redd.it/fqwaaX2p5euZNxWE3eSXQLXotSsNzMg2D-GJhhi1aOQ.jpeg?width=320&crop=smart&auto=webp&s=703fd7c15164ec1ef14d48e633412f0f20f95a3d",
+      "external_url": "http://youtube.com/watch?v=tpwiCa33prA",
+      "site_name": "youtube.com",
+      "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
+      "description": "This changed the way I looked at robots - it would be amazing to see this be attached to any robot, and you could just keep the body and repeatedly upgrade the autonomy stack's software and hardware too."
     }
   ],
-  "fetched_at": "2025-11-27T03:50:16.924899+00:00"
+  "fetched_at": "2025-11-27T04:41:27.782107+00:00"
 }

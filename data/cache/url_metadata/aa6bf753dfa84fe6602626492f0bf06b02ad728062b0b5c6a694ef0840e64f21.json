@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-11-27T04:41:25.316946+00:00",
+  "data": {
+    "url": "https://www.phoronix.com/news/AMD-ROCm-7.1.1",
+    "title": "AMD ROCm 7.1.1 Released With RHEL 10.1 Support, More Models Working On RDNA4",
+    "description": "Following the release of ROCm 7.1 from just under one month ago, ROCm 7.1.1 is now available with expanded Linux operating system support, continued Instinct MI350 series work, more large language models working on RDNA4 GPUs, and other enhancements.",
+    "image": "https://www.phoronix.net/image.php?id=2025&image=rocm_711",
+    "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
+    "site_name": null,
+    "author": null,
+    "keywords": "Phoronix, Linux Hardware Reviews, Linux hardware benchmarks, Linux server benchmarks, Linux benchmarking, Desktop Linux, Linux performance, Open Source graphics, Linux How To, Ubuntu benchmarks, Ubuntu hardware, Phoronix Test Suite"
+  }
+}

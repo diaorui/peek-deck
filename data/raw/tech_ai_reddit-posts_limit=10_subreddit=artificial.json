@@ -24,6 +24,17 @@
       "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
     },
     {
+      "title": "Uber headhunted PhDs to join 'Project Sandbox.' After a month, it said that their AI training contracts were over.",
+      "author": "businessinsider",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7fz31/uber_headhunted_phds_to_join_project_sandbox/",
+      "published": 1764182956.0,
+      "thumbnail": "https://external-preview.redd.it/Vh4yniD2flbdFRSvEuyg3TdMsS1X7G37g4ZU6tfa1g4.jpeg?width=640&crop=smart&auto=webp&s=8407b8f9798a1c15bc89404c4437a358b94f2ba8",
+      "external_url": "https://www.businessinsider.com/uber-project-sandbox-shows-ai-training-contractors-the-door-2025-11?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "Uber's Project Sandbox used contractors to train AI for Google. On Monday, Uber told some of them their work was over early."
+    },
+    {
       "title": "Google\u2019s Hot New AI Coding Tool Was Hacked A Day After Launch",
       "author": "forbes",
       "url": "https://www.reddit.com/r/artificial/comments/1p7bp8q/googles_hot_new_ai_coding_tool_was_hacked_a_day/",
@@ -46,15 +57,15 @@
       "description": "Nvidia applauds Google on its recent win, but the leading AI infrastructure company says it still \"offers greater performance\" than the rest."
     },
     {
-      "title": "Uber headhunted PhDs to join 'Project Sandbox.' After a month, it said that their AI training contracts were over.",
-      "author": "businessinsider",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7fz31/uber_headhunted_phds_to_join_project_sandbox/",
-      "published": 1764182956.0,
-      "thumbnail": "https://external-preview.redd.it/Vh4yniD2flbdFRSvEuyg3TdMsS1X7G37g4ZU6tfa1g4.jpeg?width=640&crop=smart&auto=webp&s=8407b8f9798a1c15bc89404c4437a358b94f2ba8",
-      "external_url": "https://www.businessinsider.com/uber-project-sandbox-shows-ai-training-contractors-the-door-2025-11?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "Uber's Project Sandbox used contractors to train AI for Google. On Monday, Uber told some of them their work was over early."
+      "title": "AMD ROCm 7.1.1 released with RHEL 10.1 support, more models working on RDNA4",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7sbcy/amd_rocm_711_released_with_rhel_101_support_more/",
+      "published": 1764215706.0,
+      "thumbnail": null,
+      "external_url": "https://www.phoronix.com/news/AMD-ROCm-7.1.1",
+      "site_name": "phoronix.com",
+      "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
+      "description": "Following the release of ROCm 7.1 from just under one month ago, ROCm 7.1.1 is now available with expanded Linux operating system support, continued Instinct MI350 series work, more large language models working on RDNA4 GPUs, and other enhancements."
     },
     {
       "title": "David Sacks tried to kill state AI laws \u2014 and it blew up in his face | A leaked executive order draft reveals the tech billionaire making a power play to become America\u2019s AI policy gatekeeper.",
@@ -99,18 +110,7 @@
       "site_name": "WIRED",
       "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
       "description": "Project Prometheus has raised over $6 billion in funding and hired over 100 employees, a handful of whom joined through its acquisition of General Agents, according to records and sources."
-    },
-    {
-      "title": "Large language mistake | Cutting-edge research shows language is not the same as intelligence. The entire AI bubble is built on ignoring it.",
-      "author": "creaturefeature16",
-      "url": "https://www.reddit.com/r/artificial/comments/1p6gmqs/large_language_mistake_cuttingedge_research_shows/",
-      "published": 1764087356.0,
-      "thumbnail": "https://external-preview.redd.it/lC7z3Fsq6UEr94ZYd9rWjWNxEtcdqTa7VLaAUZYGnAc.jpeg?width=640&crop=smart&auto=webp&s=6d9096dd036bb20e3c7345c77f4b7474146fbace",
-      "external_url": "https://www.theverge.com/ai-artificial-intelligence/827820/large-language-models-ai-intelligence-neuroscience-problems",
-      "site_name": "The Verge",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "description": "As currently conceived, an AI system that spans multiple cognitive domains could, supposedly, predict and replicate what a generally intelligent human would do or say in response to a given prompt. These predictions will be made based on electronically aggregating and modeling whatever existing data they have been fed. They could even incorporate new paradigms into their models in a way that appears human-like. But they have no apparent reason to become dissatisfied with the data they\u2019re being fed \u2014 and by extension, to make great scientific and creative leaps. Instead, the most obvious outcome is nothing more than a common-sense repository. Yes, an AI system might remix and recycle our knowledge in interesting ways. But that\u2019s all it will be able to do. It will be forever trapped in the vocabulary we\u2019ve encoded in our data and trained it upon \u2014 a dead-metaphor machine. And actual humans \u2014 thinking and reasoning and using language to communicate our thoughts to one another \u2014 will remain at the forefront of transforming our understanding of the world."
     }
   ],
-  "fetched_at": "2025-11-27T03:50:13.084745+00:00"
+  "fetched_at": "2025-11-27T04:41:25.317586+00:00"
 }

@@ -112,5 +112,5 @@
       "description": "\ud83c\udf99\ufe0f The Fusaka Files #4 \u2014 Wallet Support & EIP-7951 with Alex Stokes The latest episode of The Fusaka Files is out! This time we dive into EIP-7951 and how it improves wallet UX and security in the upcoming Fusaka upgrade. Ethereum core dev Alex Stokes joins Paul Brody (EEA) and Pooja Ranjan (ECH) to break down: What EIP-7951 introduces Why the R1 curve matters for wallet onboarding How passkeys and new precompiles improve safety What enterprises should expect The long-term impact on ecosystem readiness \ud83d\udcc4 EIP Reference EIP-7951 \u2192 https://eips.ethereum.org/EIPS/eip-7951 \ud83c\udfa5 Watch the episode https://www.youtube.com/watch?v=KBYnFfGokuc If you\u2019re interested in wallet UX, cryptography, or the technical side of Fusaka, this one is worth your time. Happy to hear thoughts from wallet devs, rollup teams, or anyone preparing for fusaka-related changes!"
     }
   ],
-  "fetched_at": "2025-11-27T03:50:15.581081+00:00"
+  "fetched_at": "2025-11-27T04:41:26.437315+00:00"
 }

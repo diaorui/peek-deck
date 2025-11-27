@@ -25,12 +25,12 @@
       "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
     },
     {
-      "headline": "MIT study finds AI is already capable of replacing 11.7% of U.S. workers",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUkh2T25IejZKSEU4SzlVUjVZQ0N0MUZwUnFCTERQWS15NlA4OHlXUHF1YmEtbUlSY2dQQUhxVjBmbWJRUi13NTcyMVVNS2ZDNmZrQ21YcUliZHFJY2RSRlhBMnBuLU44ZXc4VnVaVm9zM0o3c0ctVnhrZy05VHZqZkZ3YWtNTEZPaGV5Y1FCeWFNYW03U2w4d0E4UjQwdGtZR3ZMNy13MHZOTmM?oc=5",
-      "pub_date": 1764191586.0,
-      "article_url": "https://www.fastcompany.com/91450119/mit-study-finds-ai-is-already-capable-of-replacing-11-7-of-u-s-workers",
+      "headline": "MIT study says agentic AI can already replace 11% of the US workforce",
+      "source": "TechSpot",
+      "source_url": "https://www.techspot.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV2YxcTZTcWlCZjFmVDNGOGVMU3Y4Q3hTSGtCLU1nUzdsRE1oUDU2bGhDa1JOZU1oV3ZsS3h4ZjZlZFlVVDRMYmJ0c1REX0ZtRE1yTGdubEpLV1N1QmY4QU5rM2dQQVBfRWh5dlFJZUNIY1djb0FtQU1fUnlSbUk2NURtVFFaQXFWNDR5UmtR?oc=5",
+      "pub_date": 1764187980.0,
+      "article_url": "https://www.techspot.com/news/110407-new-mit-study-claims-agentic-ai-can-already.html",
       "image": null,
       "description": null
     },
@@ -48,7 +48,7 @@
       "headline": "Political consultant who sent AI robocalls says he won\u2019t pay voters, as ordered",
       "source": "The Hill",
       "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMmVmbkNoOWRuaHJ3MS1fVHZMWktTSVdoQXU3SjNqYWtpb0h1cmliLXh2eEJkeGYzUm5qWEg2czZMVDkybkpxTGlTY2FpRXRQeDlCZWR6RE5MeXR5b3VsX1h5OTg4YUVVQUFRZ2xRQzdyaXEwNHk2YkpWWGdIdHZBSFE0VGJCd9IBiwFBVV95cUxPV2REMjlPTERmclE1T1ZqVzRPVTYtc1JESFpoa01KMVctaHRrYk42a3VHODUyU2FDLVJfcVpXdGFhdDZjMDFLSU1xM3ZkNmtOUjNoVjVScWFOSlhXWkpuQzE2VUtwUkVrdWJZaUxpRlJJQjdtOGdQUEJFVmlUVjFyOGpMXzgweFpISnQ0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMmVmbkNoOWRuaHJ3MS1fVHZMWktTSVdoQXU3SjNqYWtpb0h1cmliLXh2eEJkeGYzUm5qWEg2czZMVDkybkpxTGlTY2FpRXRQeDlCZWR6RE5MeXR5b3VsX1h5OTg4YUVVQUFRZ2xRQzdyaXEwNHk2YkpWWGdIdHZBSFE0VGJCdw?oc=5",
       "pub_date": 1764214560.0,
       "article_url": "https://thehill.com/regulation/court-battles/5624570-biden-ai-robocall-lawsuit/",
       "image": null,
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T03:50:30.153574+00:00"
+  "fetched_at": "2025-11-27T04:41:41.300281+00:00"
 }
