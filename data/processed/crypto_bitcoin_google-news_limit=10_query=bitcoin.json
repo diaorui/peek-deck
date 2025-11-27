@@ -35,6 +35,16 @@
       "description": "Explosive growth has fueled Hyperliquid's rapid ascent over the past 12 months."
     },
     {
+      "headline": "The fatal flaw in using bitcoin as a currency",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZmNlenhZYzBTbGpueFNGeFB5eUxQeV9CR3k4OEwzUDBzXzhHNlAxNkVtZlVtaC1LeUxkZ1JWV3BxVEtzNGI1ZU1JOWw2UjdYSE41NnZsMmZ5N2VZWkF2bk5fQnJrd2ZLOHBxRUh6UXA?oc=5",
+      "pub_date": 1764133249.0,
+      "article_url": "https://www.ft.com/content/a18c310a-d533-4d03-bb25-53cb11337dd1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80fc2f5e-ea28-4dc9-ae18-6c879b6eb7a5.jpg?source=next-barrier-page",
+      "description": "There is a crypto parallel in the aftermath of Europe\u2019s 14th century bubonic plague"
+    },
+    {
       "headline": "JPMorgan reveals new Bitcoin target amid market pullback",
       "source": "TheStreet",
       "source_url": "https://www.thestreet.com",
@@ -63,16 +73,6 @@
       "article_url": "https://bitcoinmagazine.com/news/bitcoin-price-skyrockets-past-90000",
       "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/11/Bitcoin-Price-Skyrockets-Past-90000-as-BlackRock-and-JPMorgan-Deepen-Bitcoin-Bets-.jpg",
       "description": "Bitcoin price ripped above $90,000 today on news of a new wave of Wall Street\u2013engineered crypto products."
-    },
-    {
-      "headline": "The fatal flaw in using bitcoin as a currency",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZmNlenhZYzBTbGpueFNGeFB5eUxQeV9CR3k4OEwzUDBzXzhHNlAxNkVtZlVtaC1LeUxkZ1JWV3BxVEtzNGI1ZU1JOWw2UjdYSE41NnZsMmZ5N2VZWkF2bk5fQnJrd2ZLOHBxRUh6UXA?oc=5",
-      "pub_date": 1764133249.0,
-      "article_url": "https://www.ft.com/content/a18c310a-d533-4d03-bb25-53cb11337dd1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80fc2f5e-ea28-4dc9-ae18-6c879b6eb7a5.jpg?source=next-barrier-page",
-      "description": "There is a crypto parallel in the aftermath of Europe\u2019s 14th century bubonic plague"
     },
     {
       "headline": "SpaceX transfers $105 million in bitcoin to unmarked wallets: Arkham",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T16:59:45.246673+00:00"
+  "fetched_at": "2025-11-27T17:40:35.632397+00:00"
 }

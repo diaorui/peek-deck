@@ -57,6 +57,17 @@
       "description": "Knucklebuster arm prototype test, its a test torso that i Will upgrade till It resembles v1. The arm has one nema 17 stepper motor in the upper arm and a nema 14 at the middle, maybe i'll use a Raspberry pi 5 with ai for controlling everything but, i'm open to suggestions!"
     },
     {
+      "title": "Which robotics jobs to look out for and how to prepare for it?",
+      "author": "itzok27",
+      "url": "https://www.reddit.com/r/robotics/comments/1p87zbx/which_robotics_jobs_to_look_out_for_and_how_to/",
+      "published": 1764264572.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Capstone project",
       "author": "Rinzui__",
       "url": "https://www.reddit.com/r/robotics/comments/1p85q6y/capstone_project/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Are World Models the Future of Robotics?",
-      "author": "Nibbana_0",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7bjzq/are_world_models_the_future_of_robotics/",
-      "published": 1764173078.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Recently, I\u2019ve been researching about World Models, and I\u2019m increasingly convinced that humanoid robots will need strong world understanding to achieve task generalization and true zero-shot learning. I feel that World Models will play a crucial role in building general-purpose robots. What are your thoughts on this? Also, do you think robotics will eventually be dominated by World-Model-based approaches?"
     }
   ],
-  "fetched_at": "2025-11-27T16:59:34.814774+00:00"
+  "fetched_at": "2025-11-27T17:40:25.676383+00:00"
 }
