@@ -24,6 +24,17 @@
       "description": null
     },
     {
+      "title": "There are so many Ethereum casinos now, what's the best?",
+      "author": "theCBDGuy",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p7xnpp/there_are_so_many_ethereum_casinos_now_whats_the/",
+      "published": 1764234278.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I am looking for a casino where i can deposit my Ethereum to play games. If they don't KYC, that's cool. Only tell me the best ones that you might have played on. I was using Stake Rainbet before, but they are bad for my taste. Let me know!"
+    },
+    {
       "title": "Daily General Discussion November 26, 2025",
       "author": "EthereumDailyThread",
       "url": "https://www.reddit.com/r/ethereum/comments/1p703si/daily_general_discussion_november_26_2025/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "We\u2019re building a Web3 system and scaling transactions is painful. Gas fee spikes can wipe margins instantly. Curious what batching or optimization methods people here have used and whether you kept everything fully trustless."
-    },
-    {
-      "title": "What\u2019s the biggest pain point you\u2019ve faced during a smart contract audit?",
-      "author": "SolidityScan",
-      "url": "https://www.reddit.com/r/ethereum/comments/1p6cta5/whats_the_biggest_pain_point_youve_faced_during_a/",
-      "published": 1764078320.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Every team hits different roadblocks when preparing for or going through a smart contract audit. For some it\u2019s documentation, for others it\u2019s test coverage, architecture decisions, upgradeability, or unexpected security issues that show up late. Curious to hear from other devs what\u2019s been the most challenging part of the audit process for you, and what would\u2019ve made it easier?"
     }
   ],
-  "fetched_at": "2025-11-27T08:37:36.476411+00:00"
+  "fetched_at": "2025-11-27T09:27:19.695313+00:00"
 }

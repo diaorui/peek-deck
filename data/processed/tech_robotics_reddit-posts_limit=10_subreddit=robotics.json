@@ -46,6 +46,17 @@
       "description": "Recently, I\u2019ve been researching about World Models, and I\u2019m increasingly convinced that humanoid robots will need strong world understanding to achieve task generalization and true zero-shot learning. I feel that World Models will play a crucial role in building general-purpose robots. What are your thoughts on this? Also, do you think robotics will eventually be dominated by World-Model-based approaches?"
     },
     {
+      "title": "How do you even label unexpected behavior in the real world?",
+      "author": "Mtukufu",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7xg2l/how_do_you_even_label_unexpected_behavior_in_the/",
+      "published": 1764233469.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "It\u2019s fairly straightforward to label training data when everything happens in a clean, controlled environment. But once you step into real-world robotics, the situation becomes messy fast. There are weird edge cases, rare events, unexpected collisions, unpredictable human interactions, drifting sensors, and all kinds of unknowns that don\u2019t show up in simulation. Manually reviewing and labeling every single one of these anomalies is incredibly slow and resource-intensive. For those working with embodied AI, manipulation, locomotion, or autonomous navigation, how do you realistically keep up with labeling this chaotic real-world data? Are you using automated labeling tools, anomaly detectors, heuristics, synthetic augmentation, active learning, or just grinding through manual review? Curious to hear how other teams are approaching this."
+    },
+    {
       "title": "I made a small half-humanoid for fun",
       "author": "MRBBLQ",
       "url": "https://www.reddit.com/r/robotics/comments/1p6u288/i_made_a_small_halfhumanoid_for_fun/",
@@ -55,17 +66,6 @@
       "site_name": null,
       "favicon": null,
       "description": "Hi everyone, I just built this half-humanoid for human robot interaction research and figured it would be fun if I open-source it. You can find it here: https://github.com/Meet-Bebo/bebo_jr I included my print files, bom, onshape and even simulation files (urdf and mujoco). It also have a simple motion retargeting pipeline if you want to try teleop a simulated version with your webcam. I\u2019ve created a few test applications on this so far, from agents to home assistant plugin to spotify connect. I\u2019ll share more soon as I create the tutorials, but for now you can follow the repo for more progress updates. The next to-do is to create a motion diffusion policy for this from songs, so I can turn it into a hyper music player. If you have pointers on this, hmu. I\u2019d love to have feedback on the design of the robot and the functionalities as well. I did this project for learning and it\u2019s only been 2 weeks since I started, so I still have a lot of ground to cover."
-    },
-    {
-      "title": "This is not progress. This is not innovation. This is not the future we were promised. This is the systematic destruction of what it means to be human\u2014and they're selling it to you as \"amazing technology.\"",
-      "author": "Bubbly_Albatross2375",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7x3zg/this_is_not_progress_this_is_not_innovation_this/",
-      "published": 1764232191.0,
-      "thumbnail": "https://external-preview.redd.it/S3iokpQRej5HIKHP58pJ_ifpBNH8bekApLH07W5gmuk.jpeg?width=320&crop=smart&auto=webp&s=dd1c57fa2697d2ad9ca5ade5e42a077a0c766d61",
-      "external_url": "https://youtu.be/8gQvsOpvDNA",
-      "site_name": "youtu.be",
-      "favicon": "https://www.youtube.com/s/desktop/a444dc7a/img/favicon.ico",
-      "description": "While tech billionaires celebrate their AI breakthroughs and their stock prices soar... THEY CALL THIS INNOVATION. I call it what it is: the systematic dismantling of human agency, human work, human dignity, and human life. This isn't about being anti-technology. This is about being PRO-HUMAN. - Who profits when humans become obsolete? - What happens to dignity when work disappears? - Can we call it progress if it destroys communities? - Who's accountable when machines make fatal errors? - What does it mean to be human in a world that doesn't need us? The tech industry wants you to believe this is inevitable."
     },
     {
       "title": "Kinematic closed loop chain-URDF",
@@ -112,5 +112,5 @@
       "description": "Hi ..need spot of help if anybody can help me find a version of the robotstudio the 6.05.02 version. I need the FULL zip, my school lost the ftp drive with it on there- abb has been no help on the old version, no clue why, anyway.. file will be like RobotStudio_6.05.02_Full.exe or .zip it will have the vision Ideally it will have these files in it. I know its a BIG ask but if anybody can help point me in the right direction, super appreciated. Will buy you a coffee to boot. Cheers peeps have a good holiday. abb.integratedvision.6.05.x.msi abb.smartgrippervision.6.05.x.msi abb.robotics.visioninterface.6.05.x.msi RSAddins.msi"
     }
   ],
-  "fetched_at": "2025-11-27T08:37:39.414129+00:00"
+  "fetched_at": "2025-11-27T09:27:21.003400+00:00"
 }

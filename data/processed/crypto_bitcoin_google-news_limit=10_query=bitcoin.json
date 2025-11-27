@@ -75,16 +75,6 @@
       "description": null
     },
     {
-      "headline": "JPMorgan offers investors chance to win big if Bitcoin's price drops next year, but then rockets in 2028",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHR3Y0VlcVZvNmxfVEVlMTlOWGkxSmxpTDcxendPT2U1ekVZc2ItVmduY0JjS2lCd2Y3MDktaWE4Tk1WNXA5NlJ0bURYYmtEVTE4V0tiUEg0aUpKYUhaeV9EOFJobXg2TnBndEtwTzhzMVE1NmxNNXVBQU11SEVyQnp1cTU2NXYtREFYc0FCWTHSAZYBQVVfeXFMTlE1S2Rkamc3THRCYXNtYUJnZTVoWU03MnBfd19sdl9rUk1DQnhDQ3Z3X3dGVGlVWlc1VkNNeHJrMWtIaXlzSzMwOVZ2RjYxZkZmTVlpYlctUS1fT3hkNEFrOGdkMTNNQUJTOXd6czNHa2RQaHJGNVZzb21JYXNEYjVwSklmNE1HNDRLcldPU21IMlI1bHVB?oc=5",
-      "pub_date": 1764091877.0,
-      "article_url": "https://www.theblock.co/post/380262/jpmorgan-bitcoin-etf-blackrock-ibit-structured-note",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "JPMorgan's Bitcoin Structured Notes Offer Potentially Massive Returns\u2014If BTC Surges by 2028",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -93,6 +83,16 @@
       "article_url": "https://finance.yahoo.com/news/jpmorgans-bitcoin-structured-notes-offer-020526080.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/BC5zEiSBdb5Ymt5wOLgftQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/197f04006ff7234402103c56fa64d893",
       "description": "The bank has an idea for a product that would allow investors to make big gains if the leading cryptocurrency soars."
+    },
+    {
+      "headline": "JPMorgan offers investors chance to win big if Bitcoin's price drops next year, but then rockets in 2028",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHR3Y0VlcVZvNmxfVEVlMTlOWGkxSmxpTDcxendPT2U1ekVZc2ItVmduY0JjS2lCd2Y3MDktaWE4Tk1WNXA5NlJ0bURYYmtEVTE4V0tiUEg0aUpKYUhaeV9EOFJobXg2TnBndEtwTzhzMVE1NmxNNXVBQU11SEVyQnp1cTU2NXYtREFYc0FCWTHSAZYBQVVfeXFMTlE1S2Rkamc3THRCYXNtYUJnZTVoWU03MnBfd19sdl9rUk1DQnhDQ3Z3X3dGVGlVWlc1VkNNeHJrMWtIaXlzSzMwOVZ2RjYxZkZmTVlpYlctUS1fT3hkNEFrOGdkMTNNQUJTOXd6czNHa2RQaHJGNVZzb21JYXNEYjVwSklmNE1HNDRLcldPU21IMlI1bHVB?oc=5",
+      "pub_date": 1764091877.0,
+      "article_url": "https://www.theblock.co/post/380262/jpmorgan-bitcoin-etf-blackrock-ibit-structured-note",
+      "image": null,
+      "description": null
     },
     {
       "headline": "SpaceX transfers $105 million in bitcoin to unmarked wallets: Arkham",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T08:37:48.711409+00:00"
+  "fetched_at": "2025-11-27T09:27:31.667098+00:00"
 }
