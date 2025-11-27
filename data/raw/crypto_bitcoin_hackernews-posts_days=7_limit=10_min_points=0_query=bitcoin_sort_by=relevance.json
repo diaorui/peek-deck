@@ -61,6 +61,20 @@
       "site_name": "boingboing.net"
     },
     {
+      "title": "OSMU Community member posts proof that certain Bitcoin mining pools are fugazi",
+      "url": "https://github.com/mweinberg/stratum-speed-test/tree/main/findings",
+      "hn_url": "https://news.ycombinator.com/item?id=46064373",
+      "author": "metaprinter",
+      "points": 3,
+      "num_comments": 0,
+      "created_at": "2025-11-27T01:21:14Z",
+      "object_id": "46064373",
+      "image": "https://opengraph.githubassets.com/02cabf1417d119fde2cad2c671b06331f99ca5f47380cd0173411fa1059660ce/mweinberg/stratum-speed-test",
+      "description": "A simple script to test latency and stratum handshake speed to Bitcoin mining pool stratum servers. - mweinberg/stratum-speed-test",
+      "favicon": "https://github.githubassets.com/favicons/favicon.png",
+      "site_name": "GitHub"
+    },
+    {
       "title": "Bitcoin won't recover until there's a resolution to quantum elephant in the room",
       "url": "https://news.ycombinator.com/item?id=46002919",
       "hn_url": "https://news.ycombinator.com/item?id=46002919",
@@ -87,20 +101,6 @@
       "description": "Quantumroot vaults are now live on Bitcoin Cash's 6-months-ahead preview network. Contracts, testing suite, and transaction generation code now available.",
       "favicon": "https://blog.bitjson.com/content/images/size/w256h256/2021/04/bitjson-bitauth-favicon-1.png",
       "site_name": "bitjson's blog"
-    },
-    {
-      "title": "OSMU Community member posts proof that certain Bitcoin mining pools are fugazi",
-      "url": "https://github.com/mweinberg/stratum-speed-test/tree/main/findings",
-      "hn_url": "https://news.ycombinator.com/item?id=46064373",
-      "author": "metaprinter",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2025-11-27T01:21:14Z",
-      "object_id": "46064373",
-      "image": "https://opengraph.githubassets.com/02cabf1417d119fde2cad2c671b06331f99ca5f47380cd0173411fa1059660ce/mweinberg/stratum-speed-test",
-      "description": "A simple script to test latency and stratum handshake speed to Bitcoin mining pool stratum servers. - mweinberg/stratum-speed-test",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
     },
     {
       "title": "Quantum computers will not steal your bitcoins, even if they can",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 13,
   "has_metadata": true,
-  "fetched_at": "2025-11-27T01:47:33.723320+00:00"
+  "fetched_at": "2025-11-27T03:03:50.096803+00:00"
 }

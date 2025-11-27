@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16719",
       "arxiv_url": "https://arxiv.org/abs/2511.16719",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16719.png",
-      "upvotes": 79,
+      "upvotes": 80,
       "num_comments": 4,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2511.19900",
       "arxiv_url": "https://arxiv.org/abs/2511.19900",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.19900.png",
-      "upvotes": 36,
+      "upvotes": 37,
       "num_comments": 2,
       "published_at": "2025-11-24T23:15:14.000Z",
       "github_repo": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL",
@@ -126,7 +126,7 @@
       "hf_url": "https://huggingface.co/papers/2511.19861",
       "arxiv_url": "https://arxiv.org/abs/2511.19861",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.19861.png",
-      "upvotes": 21,
+      "upvotes": 24,
       "num_comments": 4,
       "published_at": "2025-11-24T22:00:42.000Z",
       "github_repo": "https://github.com/open-gigaai/giga-world-0",
@@ -183,7 +183,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16043",
       "arxiv_url": "https://arxiv.org/abs/2511.16043",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16043.png",
-      "upvotes": 87,
+      "upvotes": 88,
       "num_comments": 3,
       "published_at": "2025-11-20T00:01:57.000Z",
       "github_repo": "https://github.com/aiming-lab/Agent0",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-27T01:47:30.315362+00:00"
+  "fetched_at": "2025-11-27T03:03:49.754639+00:00"
 }
