@@ -19,50 +19,70 @@
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWMzY2bnNzV1Y4QWszYUd4V01JUTVZR1A4YThfUFd4OGdrT3JGV1dYNnBUVzZaalN5SHNFZnBDTTNiRVNpb1h3S3lYdE9qeDBvSENkUXY3b3B5MU1SU01IcUxEaHZaVjIzNTZsdERaWXQ?oc=5",
-      "pub_date": 1764219615.0,
+      "pub_date": 1764219640.0,
       "article_url": "https://www.ft.com/content/96fe9898-a3a4-4a33-be1d-da06bdb6cb2b",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4d92d536-db90-4f4d-9e72-8b3e8659d182.jpg?source=next-barrier-page",
       "description": "Alibaba and ByteDance shift development to south-east Asia to sidestep US curbs"
     },
     {
-      "headline": "China's tech giants move AI model training overseas to access Nvidia chips, FT reports",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYzVJeTN5ZTBJZzJ2UXk5ZjluTUxKZC11aDdmRmdGWEtVLUF4TVdrQjVlWHoyY0pGakxyWlFNLWhQa0UtRk5NYUNyWktGSFdUbDk4Q3VGQlJoQlpDSTJ5aXRyOUdQQXU0dllKa2ZraUF4dFctM2o3ZkpFR1NrN29QTEZsUDhuanNOSVdTeUQxQzEtUnY2WHpDSWVZMGpJZ2dNQmE1N2xQekhnai01aFppcXNtb1NUNHpxN1g0a0RyS0k3eHUz?oc=5",
-      "pub_date": 1764239291.0,
-      "article_url": "https://www.reuters.com/world/china/chinas-tech-giants-move-ai-model-training-overseas-tap-nvidia-chips-ft-reports-2025-11-27/",
+      "headline": "Nvidia says its GPUs are a 'generation ahead' of Google's AI chips",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVG8zU3NmR0xkeDlaMmhNQThNZnN6MFZtV2VfbnNMT0ZYcVJFLUJiaENlTlRGNE9KMXZSdDhMZVdyT24wcE9JdWxJTWNVSFJpOEU1Vm03aXZwT2ZONnh5S1ZBeXFOOERIWVBBNlg5WnBPTVBfM2VSX29maU5UN2h2amlRVFIwN3BXdnNrVDItWHZaSDlLX2w2UF9TQzVUYVd5QUHSAacBQVVfeXFMTm9EMGExa2dMN1pKMWQ2MjZUc1hST2ZCNnFsYTFENlItc3plcm9rdjd1Y3RjLXFQZ2t2V0ZKWW1tLUNwRTRUZW1LbkpkR05JcnNteFk2MUNfcWFWZmJnQWp1RnVISzJMS3UwUk1SQTF0cU5welZqVVdvTElyS3dvS0tpVUlYOXNUOXRuREFnNG4xbzNORXRLaEtpSW1qSWtJLUx6bVJzeUE?oc=5",
+      "pub_date": 1764095391.0,
+      "article_url": "https://www.cnbc.com/2025/11/25/nvidia-says-its-gpus-are-a-generation-ahead-of-googles-ai-chips.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229150-1763650981923-gettyimages-2246892165-AFP_84JG4JG.jpeg?v=1763651000&w=1920&h=1080",
+      "description": "It was in response to Wall Street's concern that Google's TPU chips could threaten Nvidia's dominance of the AI infrastructure industry on Tuesday."
+    },
+    {
+      "headline": "Nvidia Stock Could Be a Black Friday Bargain Amid Google AI Threat. Here\u2019s Why.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQOXlDYXVST0J3LS1wZ0VydHNadnBiVm5zRktDVlJlZUs4anNtbzBydzF4cktNUWdQZm53X3gzNm80Z0tGTTZFd1F2ZzN5dUF6ODJNSllrYTJXQjdoOXNRVmxIdzBuNTNtbm1xbG8tN24wNV9XaHUtaS1ES1JWSWdNalpheWhYTDYycGxJempHMGRUNkt5c3lQV3dsdDNyaEx0V29vSklwUUE0QThNUExVT1lKYVJjWF9LN3BCQnY0UUlBUEFWSFdKQVZ5NElpMjZ5OWUwTWVkLXJIRG1CWkFjS0Y3c3F0VFhCMVM0ZjdaNlU1eGRhMVdIMkZqTHg0NGM3TVBibTZjcWhzVlNnSFBYRURrSzFZYWMyU3RMRkRDMDduZ08yRjdEakdMSjFKT0xndlVfdE5lQnpFU2cwQW84VXBJVGY2X1MwMDNMbzFuSWRZYXN4UjgyWlJyVndmVUlOc21FMEN2T2t3OUxlWDN3TUdWVjFWNkdBcTJXUnNzS1JCUmloM3B5Vw?oc=5",
+      "pub_date": 1764244440.0,
+      "article_url": "https://www.barrons.com/articles/nvidia-stock-black-friday-google-ai-1814e46e?gaa_at=eafs&gaa_n=AWEtsqdZuGNWfSAVP1O3dyg9h0u1vxcYMjIF2n3Xos2wVGScD_HvmXL2TpkU&gaa_ts=692850e8&gaa_sig=EJ18-fxD6kWWSD6wJPUzQrXQshPHW4feaqF7A3F0nfELncIAX_RT2TDX2zIqhstAIFIp20eXTUU3JNFtm8jSEw%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "China tech giants move AI training offshore to tap Nvidia chips",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90Y2RLYXVDQlV3Z2dmbVEzWXJTeVlYYmx6VkRyekptYU92TmRUVG90VzZoZEVQdHM0eThUSjRZamhFVEREQUNMVlBoV1RpVnhZUHdmbU0wRFpJSXJMUm1kbWk4aTF5NjdmLVJhcklLVEdTVG8xcy1nbW9RNA?oc=5",
-      "pub_date": 1764242643.0,
-      "article_url": "https://finance.yahoo.com/news/china-tech-giants-move-ai-112403543.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/2XC7px0Mn1i0oR1GnLQvDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/semafor_310/a2b15a937a61d96630f40da7d0f53c17",
-      "description": "Alibaba and ByteDance are among the tech firms training their models in data centers in Southeast Asia using servers running on Nvidia\u2019s H20 chips."
+      "headline": "How to talk to grandma about ChatGPT",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CWEgxUngxVjA1SXhOQjR0UGl4RDctVkg0M3VVSm9FZGNoOEROVTFJQzZaVEhVVUVZckczUzlIRGstNzB1MlF1MXkxb3haWld1TzgzLTEydmx0b2E3eTc4bXNubUdySWk0TW0yUThlNFJkTk0t?oc=5",
+      "pub_date": 1764246748.0,
+      "article_url": "https://www.axios.com/2025/11/27/seniors-scams-chatgpt-sora-gemini",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "3 Top AI Stocks to Buy With $1,000",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qT2pGSW1Kak5iZ2tFd0prV0o3UFByTC15djJhczBfRFFHbGU2dm9vQjN0Wl9ub3BZRnBkNHlmSEVwMHJjNTFFZ2l4WGRwUW1ESENvSV9pQzRwRkpoRGNZdnA5dm1ndU9WNjRUNzJRUGp6WTg?oc=5",
-      "pub_date": 1764241200.0,
-      "article_url": "https://finance.yahoo.com/news/3-top-ai-stocks-buy-110000673.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/D3CEDFGek_sLmYbBcRWFzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/motleyfool.com/4a54bb9ca231fd91e26a432688d19461",
-      "description": "The AI race shows no signs of slowing down."
+      "headline": "My AI shopping assistants are stuck in the past",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN1Vla2ZlQ0dCZDNzR0N4UmRBTDdxTzFrRjhabXR1TE1PZUk3X2RiejhiemdVajU3Y0h2Zk8zMUhNcFhFT1JrN3lCOEl3eW93UDNENi1nRkRpOWpuVTRjcHcxTXdXU1JWb3pfZkVKTkhQTlc0OE12VWE3RmZiU2hqZGt5a3FCMFRwOXBGQmhaMDdJOHlBTkZOOWZ4XzNXQlRkcWxtUy1R?oc=5",
+      "pub_date": 1764246600.0,
+      "article_url": "https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258146_I_tried_shopping_with_these_AI_tools_and_it_was_TKTKTK_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "AI is shopping like it\u2019s 2023."
     },
     {
-      "headline": "Prediction: 2 AI Stocks Will Be Worth More Than Nvidia and Palantir Technologies Combined by 2030 (Hint: Not Apple)",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XRW13MlNwQzd2aVV2SUpsZ2RBa1JSZDR1V3RwMFRWOHIwMl9JUFl5N3JBR1QwTDZMUUlaZjVrX2NnUE9YVWlmVGI3YXBWU2VOZWpwRTJnX29PdmFNVWlMbmFRZVR6eUNxbkFYWUlYRUpYbDh1NXZKX0tHbFRSRzQ?oc=5",
-      "pub_date": 1764237000.0,
-      "article_url": "https://finance.yahoo.com/news/prediction-2-ai-stocks-worth-095000554.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/b2p2O0vONQfJSmIcfqdsQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/72ea3345fd9df160a29f073273ba1795",
-      "description": "Meta Platforms and Amazon could surpass the current combined market value of Nvidia and Palantir by the end of the decade."
+      "headline": "Signal\u2019s president warns AI agents are an existential threat to secure messaging apps",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR0xEZ05PSEJuYnA1STN4VnlvMTRER2FEek51ZDFCZmwtOUZSNkdtelNpbjQ3YlFhSUVQemdYWVppU0ctdTRUc2tDbUxpakVOYmgyRUEyaXBSRjJmd01KdWpLZ1F6cXh4YVRPQS1PdGduZ3lqSVhoTVpTTGwyUzdSWkFQcnE3RHktdTh6SFdOMTBKcm43ZkJReEpXREI2R2poSWQ0YVkwNXpidERBdF9FNHI1eVpYQXl6dzBTVA?oc=5",
+      "pub_date": 1764248400.0,
+      "article_url": "https://fortune.com/2025/11/27/ai-agents-are-an-existential-threat-to-secure-messaging-signals-president-whittaker-says/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2172292859.jpg?resize=1200,600",
+      "description": "Signal President Meredith Whittaker says consumers and businesses are unprepared for the security and privacy risks of AI agents."
+    },
+    {
+      "headline": "Investors expect AI use to soar. That\u2019s not happening",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkpHa2tpX01zLXh5eXdTS2NWUi1ra04xeHlpSHhXbkZWUHdLdUxib1c5T21UTlIwd3JBRS1mUGdUcnVvbmduV1h0UlZaOEJObDI5Q1hneEJVTTlfN2s1NmlMbjJmMkNoZ21XdUlySG9zc3lUYk9IcG11YTNjZGdSX3hMVDhaMGxVT0RlRmlrQUlQeS14LUFjLW9HSkU1Wkpwc3g1VXMyMno5SDhiX2cw?oc=5",
+      "pub_date": 1764174642.0,
+      "article_url": "https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Stocks whipsaw as AI bubble fears, Fed uncertainty rattle Wall Street",
@@ -75,36 +95,16 @@
       "description": null
     },
     {
-      "headline": "NFL Week 13 predictions by Microsoft Copilot AI for every game",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM19uU2w2d0kwMlVXbnZmZWM1Vm12M1k2b01qWU9VQmNVY2YteHd0eXUzczFUNC1aWUx5dXMxLUtBNTNySURjRm16RGV1QmJFU3lCbU9sV1Yya3JnbTRtRXE5ZHhpc0FsbkNiX05WV3pVaFJtUTg3RHN5ZkQtSFE2Q1htRGZveF9zR1VteFM2VFNqbEI1NHlWUjBTaFRQS3M?oc=5",
-      "pub_date": 1764241748.0,
-      "article_url": "https://www.usatoday.com/story/sports/nfl/2025/11/27/nfl-week-13-picks-predictions-ai/87470679007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/11/25/USAT/87472517007-devon-achane-dolphins-112525.jpg?crop=4001,2250,x502,y0&width=3200&height=1800&format=pjpg&auto=webp",
-      "description": "Microsoft Copilot had another winning week making NFL picks. Can the AI chatbot continue its success into Thanksgiving and Week 13?"
-    },
-    {
-      "headline": "'The bubble is ahead of us': hedge fund exec says investors still don't get how big AI is",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYV9mU3dndXZwSm80aG54N0tQaGNocEEzX1NxTDFpZVIwcHZfNUVhWTJtT1dGWFZ4RENlbXlYUXllcF9KanFHSmctUUwwQzZGNGJzWXNneGJYQWRlaFZSaF9FUEdST3RrOS15NFhwdU51X09iRW1xa2ZWYlFRVWpOc3gzNEVSUHhmaXY2MDctTzVQeFgzTnBsWDR3?oc=5",
-      "pub_date": 1764244080.0,
-      "article_url": "https://www.businessinsider.com/hedge-fund-exec-bridgwater-ai-entering-dangerous-phase-2025-11",
-      "image": "https://i.insider.com/692827bc89026fbb4d0e8de4?width=1200&format=jpeg",
-      "description": "Bridgewater's Greg Jensen says the AI race is driving a global scramble for resources and distorting markets in ways investors aren't pricing in."
-    },
-    {
-      "headline": "Investors expect AI use to soar. That\u2019s not happening",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkpHa2tpX01zLXh5eXdTS2NWUi1ra04xeHlpSHhXbkZWUHdLdUxib1c5T21UTlIwd3JBRS1mUGdUcnVvbmduV1h0UlZaOEJObDI5Q1hneEJVTTlfN2s1NmlMbjJmMkNoZ21XdUlySG9zc3lUYk9IcG11YTNjZGdSX3hMVDhaMGxVT0RlRmlrQUlQeS14LUFjLW9HSkU1Wkpwc3g1VXMyMno5SDhiX2cw?oc=5",
-      "pub_date": 1764174642.0,
-      "article_url": "https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening",
-      "image": null,
-      "description": null
+      "headline": "What bubble? The analysts and investors making the bull case for AI",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZdW9jdTZKYlhqbUdTbERKdUFnQmpKZXVRU1M5SGxXazRfLTd1RHdkaVYxS3Y2YndQTGllTDMyUDFOUzA0MVpaY3JCeHpwWGExbmg1UElhM1BtWWhubGxKZzV2Yjg5czNpazVqYWlSeWRtdw?oc=5",
+      "pub_date": 1764246659.0,
+      "article_url": "https://www.cnn.com/2025/11/27/tech/ai-bubble-analysts-bull-case",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243507246.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Chipmaker Nvidia posted yet another blockbuster earnings report this month."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T12:26:44.112827+00:00"
+  "fetched_at": "2025-11-27T13:09:18.698452+00:00"
 }

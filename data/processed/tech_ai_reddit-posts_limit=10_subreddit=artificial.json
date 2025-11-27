@@ -90,17 +90,6 @@
       "description": "Nvidia applauds Google on its recent win, but the leading AI infrastructure company says it still \"offers greater performance\" than the rest."
     },
     {
-      "title": "Popular AI chatbots have an alarming encryption flaw \u2014 meaning hackers may have easily intercepted messages",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7yoct/popular_ai_chatbots_have_an_alarming_encryption/",
-      "published": 1764238245.0,
-      "thumbnail": "https://external-preview.redd.it/A-emmtlMCjw-rX090Ar8GZLGKTj3nwOErcQnQk1JMsI.png?width=640&crop=smart&auto=webp&s=c01a64b1c9d5917136cee6d21665bb664e838962",
-      "external_url": "https://www.livescience.com/technology/artificial-intelligence/popular-ai-chatbots-have-an-alarming-encryption-flaw-meaning-hackers-may-have-easily-intercepted-messages",
-      "site_name": "Live Science",
-      "favicon": "https://vanilla.futurecdn.net/livescience/1479220/apple-touch-icon.png",
-      "description": "Cybersecurity researchers have uncovered a critical vulnerability in the architecture of large language models underpinning generative AI, but how dangerous is this flaw?"
-    },
-    {
       "title": "Google\u2019s Hot New AI Coding Tool Was Hacked A Day After Launch",
       "author": "forbes",
       "url": "https://www.reddit.com/r/artificial/comments/1p7bp8q/googles_hot_new_ai_coding_tool_was_hacked_a_day/",
@@ -110,7 +99,18 @@
       "site_name": "Forbes",
       "favicon": "https://i.forbesimg.com/57X57-F.png",
       "description": "A security researcher discovered a major flaw in the coding product, the latest example of companies rushing out AI tools vulnerable to hacking."
+    },
+    {
+      "title": "Popular AI chatbots have an alarming encryption flaw \u2014 meaning hackers may have easily intercepted messages",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7yoct/popular_ai_chatbots_have_an_alarming_encryption/",
+      "published": 1764238245.0,
+      "thumbnail": "https://external-preview.redd.it/A-emmtlMCjw-rX090Ar8GZLGKTj3nwOErcQnQk1JMsI.png?width=640&crop=smart&auto=webp&s=c01a64b1c9d5917136cee6d21665bb664e838962",
+      "external_url": "https://www.livescience.com/technology/artificial-intelligence/popular-ai-chatbots-have-an-alarming-encryption-flaw-meaning-hackers-may-have-easily-intercepted-messages",
+      "site_name": "Live Science",
+      "favicon": "https://vanilla.futurecdn.net/livescience/1479220/apple-touch-icon.png",
+      "description": "Cybersecurity researchers have uncovered a critical vulnerability in the architecture of large language models underpinning generative AI, but how dangerous is this flaw?"
     }
   ],
-  "fetched_at": "2025-11-27T12:26:26.031313+00:00"
+  "fetched_at": "2025-11-27T13:08:53.118089+00:00"
 }

@@ -1,6 +1,25 @@
 {
   "papers": [
     {
+      "id": "2306.08568",
+      "title": "WizardCoder: Empowering Code Large Language Models with Evol-Instruct",
+      "authors": "Ziyang Luo, Can Xu, Pu Zhao et al. (10 authors)",
+      "organization_name": "microsoft",
+      "organization_fullname": "Microsoft",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1583646260758-5e64858c87403103f9f1055d.png",
+      "summary": "Code Large Language Models (Code LLMs), such as StarCoder, have demonstrated\nexceptional performance in code-related tasks. However, most existing models\nare solely pre-trained on extensive raw code data without instruction\nfine-tuning. In this paper, we introduce WizardCoder, which empowers Code LLMs\nwith complex instruction fine-tuning, by adapting the Evol-Instruct method to\nthe domain of code. Through comprehensive experiments on four prominent code\ngeneration benchmarks, namely HumanEval, HumanEval+, MBPP, and DS-1000, we\nunveil the exceptional capabilities of our model. It surpasses all other\nopen-source Code LLMs by a substantial margin. Moreover, our model even\noutperforms the largest closed LLMs, Anthropic's Claude and Google's Bard, on\nHumanEval and HumanEval+. Our code, model weights, and data are public at\nhttps://github.com/nlpxucan/WizardLM",
+      "ai_summary": "WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct, outperforms other open-source and closed LLMs on several code generation benchmarks.",
+      "hf_url": "https://huggingface.co/papers/2306.08568",
+      "arxiv_url": "https://arxiv.org/abs/2306.08568",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2306.08568.png",
+      "upvotes": 28,
+      "num_comments": 1,
+      "published_at": "2023-06-14T11:18:48.000Z",
+      "github_repo": "https://github.com/nlpxucan/WizardLM",
+      "github_stars": 9461,
+      "project_page": null
+    },
+    {
       "id": "2511.16719",
       "title": "SAM 3: Segment Anything with Concepts",
       "authors": "Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)",
@@ -12,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16719",
       "arxiv_url": "https://arxiv.org/abs/2511.16719",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16719.png",
-      "upvotes": 82,
+      "upvotes": 83,
       "num_comments": 4,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
@@ -54,7 +73,7 @@
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
-      "github_stars": 3907,
+      "github_stars": 3958,
       "project_page": "https://ai.meta.com/sam3d/"
     },
     {
@@ -145,7 +164,7 @@
       "hf_url": "https://huggingface.co/papers/2511.18423",
       "arxiv_url": "https://arxiv.org/abs/2511.18423",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.18423.png",
-      "upvotes": 134,
+      "upvotes": 137,
       "num_comments": 2,
       "published_at": "2025-11-23T07:29:33.000Z",
       "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
@@ -170,28 +189,9 @@
       "github_repo": "https://github.com/open-gigaai/giga-world-0",
       "github_stars": 74,
       "project_page": "https://gigaworld0.github.io/"
-    },
-    {
-      "id": "2510.22543",
-      "title": "FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable\n  Reasoning",
-      "authors": "Yuyang Ding, Chi Zhang, Juntao Li et al. (6 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reasoning trajectories and\nexploit rollouts with correct answers as positive signals for policy\noptimization. However, these rollouts might involve flawed patterns such as\nanswer-guessing and jump-in-reasoning. Such flawed-positive rollouts are\nrewarded identically to fully correct ones, causing policy models to\ninternalize these unreliable reasoning patterns. In this work, we first conduct\na systematic study of flawed-positive rollouts in RL and find that they enable\nrapid capability gains during the early optimization stage, while constraining\nreasoning capability later by reinforcing unreliable patterns. Building on\nthese insights, we propose Flawed-Aware Policy Optimization (FAPO), which\npresents a parameter-free reward penalty for flawed-positive rollouts, enabling\nthe policy to leverage them as useful shortcuts in the warm-up stage, securing\nstable early gains, while gradually shifting optimization toward reliable\nreasoning in the later refinement stage. To accurately and comprehensively\ndetect flawed-positive rollouts, we introduce a generative reward model (GenRM)\nwith a process-level reward that precisely localizes reasoning errors.\nExperiments show that FAPO is effective in broad domains, improving outcome\ncorrectness, process reliability, and training stability without increasing the\ntoken budget.",
-      "ai_summary": "Flawed-Aware Policy Optimization (FAPO) enhances reinforcement learning with verifiable rewards by penalizing flawed-positive rollouts, improving reasoning capability and training stability in large language models.",
-      "hf_url": "https://huggingface.co/papers/2510.22543",
-      "arxiv_url": "https://arxiv.org/abs/2510.22543",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.22543.png",
-      "upvotes": 10,
-      "num_comments": 1,
-      "published_at": "2025-10-26T01:49:38.000Z",
-      "github_repo": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
-      "github_stars": 16722,
-      "project_page": "https://fapo-rl.github.io/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-27T11:51:38.581872+00:00"
+  "fetched_at": "2025-11-27T13:08:54.068347+00:00"
 }
