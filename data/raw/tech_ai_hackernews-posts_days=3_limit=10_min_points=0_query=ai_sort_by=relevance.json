@@ -37,7 +37,7 @@
       "url": "https://github.com/ocaml/ocaml/pull/14369",
       "hn_url": "https://news.ycombinator.com/item?id=46039274",
       "author": "theresistor",
-      "points": 349,
+      "points": 354,
       "num_comments": 182,
       "created_at": "2025-11-24T21:03:22Z",
       "object_id": "46039274",
@@ -51,8 +51,8 @@
       "url": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
       "hn_url": "https://news.ycombinator.com/item?id=46062504",
       "author": "cyclecount",
-      "points": 302,
-      "num_comments": 137,
+      "points": 322,
+      "num_comments": 147,
       "created_at": "2025-11-26T21:25:36Z",
       "object_id": "46062504",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google-Pixel-10-4-1152x648.jpg",
@@ -66,7 +66,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46038417",
       "author": "JumpCrisscross",
       "points": 176,
-      "num_comments": 106,
+      "num_comments": 107,
       "created_at": "2025-11-24T19:50:47Z",
       "object_id": "46038417",
       "image": null,
@@ -122,7 +122,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46057000",
       "author": "01-_-",
       "points": 72,
-      "num_comments": 71,
+      "num_comments": 72,
       "created_at": "2025-11-26T13:05:33Z",
       "object_id": "46057000",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ss_6151f4f1d8c8a80cf4e98f7381b775f3e405fb3b.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
@@ -136,7 +136,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46058361",
       "author": "tiahura",
       "points": 55,
-      "num_comments": 57,
+      "num_comments": 58,
       "created_at": "2025-11-26T15:32:06Z",
       "object_id": "46058361",
       "image": "https://image.cnbcfm.com/api/v1/image/108232119-1764112994142-gettyimages-2209860667-AFP_42FT68T.jpeg?v=1764166052&w=1920&h=1080",
@@ -145,7 +145,7 @@
       "site_name": "CNBC"
     }
   ],
-  "total_hits": 508,
+  "total_hits": 509,
   "has_metadata": true,
-  "fetched_at": "2025-11-27T03:03:48.860038+00:00"
+  "fetched_at": "2025-11-27T03:50:13.098841+00:00"
 }

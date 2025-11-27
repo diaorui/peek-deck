@@ -46,17 +46,6 @@
       "description": "Hi everyone, I just built this half-humanoid for human robot interaction research and figured it would be fun if I open-source it. You can find it here: https://github.com/Meet-Bebo/bebo_jr I included my print files, bom, onshape and even simulation files (urdf and mujoco). It also have a simple motion retargeting pipeline if you want to try teleop a simulated version with your webcam. I\u2019ve created a few test applications on this so far, from agents to home assistant plugin to spotify connect. I\u2019ll share more soon as I create the tutorials, but for now you can follow the repo for more progress updates. The next to-do is to create a motion diffusion policy for this from songs, so I can turn it into a hyper music player. If you have pointers on this, hmu. I\u2019d love to have feedback on the design of the robot and the functionalities as well. I did this project for learning and it\u2019s only been 2 weeks since I started, so I still have a lot of ground to cover."
     },
     {
-      "title": "anyone here know how to code and know how robots work? i need help, im willing to pay. Its a simple task, arduino related",
-      "author": "Uterus_Obliterator",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7qie9/anyone_here_know_how_to_code_and_know_how_robots/",
-      "published": 1764210074.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Im tasked to make a machine where it sends an sms when the arduino detects water via water sensor.,, my problem is the gsm isnt responding and i really need help asap"
-    },
-    {
       "title": "Custom robotics controller with ESP32 S3",
       "author": "kr4shhhh",
       "url": "https://www.reddit.com/r/robotics/comments/1p7hkhf/custom_robotics_controller_with_esp32_s3/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "Built a drone and a proprietary lowering mechanism. Ashamed to say how much time it took and theres still a lot of work left. Its fully autonomous tho, everything is contained within the drone, it doesn't need any communication link nor human operator"
+    },
+    {
+      "title": "Help with a friend's project",
+      "author": "gamerpro322109",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7ikp7/help_with_a_friends_project/",
+      "published": 1764188951.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I am trying to help my friend with a project he has to do for school and he doesnt know what kind of parts he needs, if you know what parts he needs and the name of them, thanks for your help Ps: for the coding what should he use? This is what he asked me: Im building a car with sensors that detect plastic and metal and can distinquish and sort them from trash to recyclables I need a script and coding for that Which i dont got yet The scripting and coding is the hardest part"
     }
   ],
-  "fetched_at": "2025-11-27T03:03:53.580416+00:00"
+  "fetched_at": "2025-11-27T03:50:16.924899+00:00"
 }
