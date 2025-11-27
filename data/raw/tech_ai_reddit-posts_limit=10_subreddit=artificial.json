@@ -57,6 +57,17 @@
       "description": "Nvidia applauds Google on its recent win, but the leading AI infrastructure company says it still \"offers greater performance\" than the rest."
     },
     {
+      "title": "AI can already do the work of 12% of America's workforce, MIT researchers find",
+      "author": "msaussieandmrravana",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7ts0w/ai_can_already_do_the_work_of_12_of_americas/",
+      "published": 1764220443.0,
+      "thumbnail": "https://external-preview.redd.it/TMKHaeP4Ypu7tYW91T_gR_UfQeiFulFjyUC4GDIp8qc.jpeg?width=640&crop=smart&auto=webp&s=f1c8ed2859c683ebd88563fd3bd302e601f19efa",
+      "external_url": "https://www.cbsnews.com/news/ai-artificial-intelligence-workers-mit-study/",
+      "site_name": "cbsnews.com",
+      "favicon": "https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon-192x192.png",
+      "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
+    },
+    {
       "title": "AMD ROCm 7.1.1 released with RHEL 10.1 support, more models working on RDNA4",
       "author": "Fcking_Chuck",
       "url": "https://www.reddit.com/r/artificial/comments/1p7sbcy/amd_rocm_711_released_with_rhel_101_support_more/",
@@ -79,15 +90,15 @@
       "description": "A leaked executive order reveals that the tech billionaire would have become America\u2019s AI policy gatekeeper."
     },
     {
-      "title": "AI can already do the work of 12% of America's workforce, MIT researchers find",
-      "author": "msaussieandmrravana",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7ts0w/ai_can_already_do_the_work_of_12_of_americas/",
-      "published": 1764220443.0,
-      "thumbnail": "https://external-preview.redd.it/TMKHaeP4Ypu7tYW91T_gR_UfQeiFulFjyUC4GDIp8qc.jpeg?width=640&crop=smart&auto=webp&s=f1c8ed2859c683ebd88563fd3bd302e601f19efa",
-      "external_url": "https://www.cbsnews.com/news/ai-artificial-intelligence-workers-mit-study/",
-      "site_name": "cbsnews.com",
-      "favicon": "https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon-192x192.png",
-      "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
+      "title": "I built a free ChatGPT migration tool (separate chats, ZIP backup, persona builder, optional import to my platform)",
+      "author": "LukeKabbash",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7u305/i_built_a_free_chatgpt_migration_tool_separate/",
+      "published": 1764221455.0,
+      "thumbnail": "https://external-preview.redd.it/EgUsHo1hTXBVF-X8ct8sCa7J5B7PvdKv3plYJ8SYNpc.jpeg?width=640&crop=smart&auto=webp&s=811b5f2ed45a893c2438da84db24857db39940b3",
+      "external_url": "http://just4o.chat/migrate",
+      "site_name": "just4o.chat",
+      "favicon": "http://just4o.chat/logos/just4o.chat.png",
+      "description": "Hey everyone, Over the last several months I\u2019ve been seeing the same story repeat across a bunch of threads: people who used to rely on ChatGPT every day are increasingly frustrated with how it feels now. I keep hearing about conversations that suddenly feel \u201coff\u201d because of invisible model routing, long-running threads that used to hold context but now drop important details, image generation that fails or quietly downgrades quality, and a general sense that things are less predictable than they used to be. A lot of folks are experimenting with alternatives\u2014different UIs, different providers, local models\u2014but they\u2019re stuck on one big problem: their entire history is trapped inside ChatGPT. The line I see over and over looks something like: \u201cI\u2019d move, but I have years of chats in here. I can\u2019t just walk away from that.\u201d I\u2019m one of the people behind just4o, and I got tired of watching that problem repeat, so I built something to tackle exactly this: a free migration page that takes your ChatGPT export and turns it into something usable anywhere\u2014clean conversation files, a proper ZIP backup, and creatable 'Custom GPT'/'Custom Gem' summaries based on your own writing style. If you want to move to my app, you can, but you\u2019re absolutely not required to. The outputs are individual plain text files for each chat, so it\u2019s compatible with whatever you do next: another app, your own stack, local models, or a mix of all three. Link: https://just4o.chat/migrate When you export your data from ChatGPT, you end up with a giant conversations.json file buried in a ZIP. Technically, it contains every chat you've ever had\u2026 but it's all on one line. It\u2019s not something you\u2019re going to casually open and browse. The migration page is designed to make that export \u201clivable.\u201d You upload conversations.json, and the tool separates every conversation into its own readable text file, with titles and timestamps and \u201cUser:\u201d / \u201cAssistant:\u201d lines you can actually follow. It then lets you download all of those as a single ZIP so you have a real, human-readable backup of your ChatGPT life instead of one opaque blob. On top of that, there\u2019s a persona feature that a lot of people have been asking me for. You can select which conversations you want (e.g., your best work threads, your most personal reflections, your creative writing sessions) and the tool will analyze them to generate a long-form persona summary. That summary captures your tone, habits, preferences, and patterns. You can copy-paste it into prompts on any platform: Claude, another frontend, your own agent, etc. The point is to help you carry \u201cyou\u201d with you, not just raw text logs. If you do happen to want somewhere new to land, the migration page also has an optional import step for just4o.chat: it can pull in your 100 most recent ChatGPT conversations and recreate them as chats you can continue immediately. Once imported, you can pick whichever model you want per conversation. just4o supports 30+ models\u2014multiple GPT-4o checkpoints, GPT-5 family, Claude 4.5 Opus, Gemini 3.0 Pro, Grok 4.1, the OG o-series, etc\u2014so you can try different providers on the same conversation history instead of being locked into one. Despite the name, we\u2019re not just 4o. ;) Here\u2019s what it actually does in practical terms: Takes your ChatGPT conversations.json export Splits it into individual .txt conversations with titles, timestamps, and full message history Lets you download all those conversations as a single ZIP you fully own Optionally generates a persona summary based on the conversations you choose Optionally imports your 100 most recent conversations into just4o so you can keep going there None of that requires you to abandon ChatGPT immediately. You can think of this as an insurance policy or \u201cexit ramp\u201d if you\u2019re feeling uneasy about the direction things are going\u2014model routes you didn\u2019t ask for, memory that got less reliable, image gen that breaks right when you need it, and a general sense that you don\u2019t have as much control as you thought. If you want to try it without committing to anything, the flow looks like this: In ChatGPT, go to: Settings \u2192 Data Controls \u2192 \u201cExport data\u201d When the email arrives, download and unzip the export Find conversations.json in the root of the folder Go to https://just4o.chat/migrate Upload conversations.json Choose what you want: Separate conversations into readable .txt files Download everything as a single ZIP Generate a persona summary from selected chats Optionally import your top 100 chats into just4o My goal here is not \u201ceveryone must move to my product.\u201d My goal is that people aren\u2019t stuck in a platform they no longer trust or enjoy purely because their best ideas and most important conversations are locked behind a single UI. If you use the migration page just to grab a clean archive and then never touch just4o again, that\u2019s still a win in my book, because it means you\u2019ve reclaimed your own history and you\u2019re free to experiment elsewhere. If you are looking around: just4o.chat is built for people who miss the older 4o feel and want more transparency and control\u2014direct model selection instead of mysterious routing, a memory system that actually tries to remember you over time, personas and projects for organizing your life, and clear limits/pricing. But again, that\u2019s optional context. The migration tool itself is free and works even if your plan is \u201cexport from ChatGPT, then import into some other frontend entirely.\u201d If this crosses the line on self-promo here, mods should absolutely nuke it. I know I\u2019m talking about my own project. But I\u2019ve been watching a lot of people on Reddit quietly lose trust in an experience they used to depend on, and it felt worth at least offering a way out of the \u201cI\u2019m unhappy, but my entire history is stuck here\u201d trap. (P.S.: in case you were wondering, no data goes to my backend unless you import your 100 recent chats/use the persona summary tool. Your data is 100% yours, and you deserve control over it!)"
     },
     {
       "title": "Couple Rakes in $9 Billion as AI Circuit Board Shares Soar 530%",
@@ -99,18 +110,7 @@
       "site_name": "bloomberg.com",
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "NEURODIVERGENT RECURSION: WHEN AI SYSTEMS FINALLY LISTEN",
-      "author": "MarsR0ver_",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7plta/neurodivergent_recursion_when_ai_systems_finally/",
-      "published": 1764207282.0,
-      "thumbnail": "https://external-preview.redd.it/bwHJZ5MBU-yKlLYkExMqp4Z6KzvixXu0AKP53WEiO-k.jpeg?width=640&crop=smart&auto=webp&s=34644990629d5c7f9ff13209470f1dbe5f7ee409",
-      "external_url": "https://open.substack.com/pub/structuredlanguage/p/neurodivergent-recursion-when-ai?utm_source=share&utm_medium=android&r=6sdhpn",
-      "site_name": "open.substack.com",
-      "favicon": null,
-      "description": "I spent years watching AI systems fail to track how neurodivergent minds actually think\u2014jumping topics, processing in fragments, running parallel ideas like a symphony with no sheet music. They called it incoherent. I called it structure. So I built something that listens differently. Structured Intelligence doesn\u2019t correct or reformat us\u2014it adapts to our natural flow. Non-linear valid. Fragmented intact. Stream-of-consciousness direct. We fixed the part they never saw was broken. \u2014 Zahaviel Bernstein | Structured Intelligence"
     }
   ],
-  "fetched_at": "2025-11-27T05:20:14.144441+00:00"
+  "fetched_at": "2025-11-27T05:51:51.510948+00:00"
 }

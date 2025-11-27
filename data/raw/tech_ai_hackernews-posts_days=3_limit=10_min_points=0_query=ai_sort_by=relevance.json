@@ -10,7 +10,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46055944",
       "author": "todsacerdoti",
       "points": 466,
-      "num_comments": 712,
+      "num_comments": 711,
       "created_at": "2025-11-26T10:08:20Z",
       "object_id": "46055944",
       "image": null,
@@ -23,14 +23,28 @@
       "url": "https://github.com/ocaml/ocaml/pull/14369",
       "hn_url": "https://news.ycombinator.com/item?id=46039274",
       "author": "theresistor",
-      "points": 364,
-      "num_comments": 191,
+      "points": 365,
+      "num_comments": 192,
       "created_at": "2025-11-24T21:03:22Z",
       "object_id": "46039274",
       "image": "https://opengraph.githubassets.com/f9a348201f077266a2109b8803c1e9517a12068a8a133f050a8278edb857918b/ocaml/ocaml/pull/14369",
       "description": "DWARF v5 Debugging Support for OCaml Native Compiler\nThis PR adds DWARF v5 debug information to the OCaml native compiler, allowing proper source-level debugging in GDB and LLDB.\nWhat&#39;s Impleme...",
       "favicon": "https://github.githubassets.com/favicons/favicon.png",
       "site_name": "GitHub"
+    },
+    {
+      "title": "The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop",
+      "url": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
+      "hn_url": "https://news.ycombinator.com/item?id=46062504",
+      "author": "cyclecount",
+      "points": 364,
+      "num_comments": 172,
+      "created_at": "2025-11-26T21:25:36Z",
+      "object_id": "46062504",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google-Pixel-10-4-1152x648.jpg",
+      "description": "Google\u2019s Pixel 10 works with AirDrop, and other phones should follow later.",
+      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+      "site_name": "Ars Technica"
     },
     {
       "title": "Implications of AI to schools",
@@ -47,26 +61,12 @@
       "site_name": "X (formerly Twitter)"
     },
     {
-      "title": "The EU made Apple adopt new Wi-Fi standards, and now Android can support AirDrop",
-      "url": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
-      "hn_url": "https://news.ycombinator.com/item?id=46062504",
-      "author": "cyclecount",
-      "points": 353,
-      "num_comments": 165,
-      "created_at": "2025-11-26T21:25:36Z",
-      "object_id": "46062504",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google-Pixel-10-4-1152x648.jpg",
-      "description": "Google\u2019s Pixel 10 works with AirDrop, and other phones should follow later.",
-      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
-      "site_name": "Ars Technica"
-    },
-    {
       "title": "PRC elites voice AI-skepticism",
       "url": "https://jamestown.org/prc-elites-voice-ai-skepticism/",
       "hn_url": "https://news.ycombinator.com/item?id=46038417",
       "author": "JumpCrisscross",
       "points": 176,
-      "num_comments": 107,
+      "num_comments": 108,
       "created_at": "2025-11-24T19:50:47Z",
       "object_id": "46038417",
       "image": null,
@@ -107,8 +107,8 @@
       "url": "https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders",
       "hn_url": "https://news.ycombinator.com/item?id=46057000",
       "author": "01-_-",
-      "points": 77,
-      "num_comments": 75,
+      "points": 81,
+      "num_comments": 76,
       "created_at": "2025-11-26T13:05:33Z",
       "object_id": "46057000",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ss_6151f4f1d8c8a80cf4e98f7381b775f3e405fb3b.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
@@ -145,7 +145,7 @@
       "site_name": "economist.com"
     }
   ],
-  "total_hits": 509,
+  "total_hits": 508,
   "has_metadata": true,
-  "fetched_at": "2025-11-27T05:20:13.910990+00:00"
+  "fetched_at": "2025-11-27T05:51:49.164453+00:00"
 }

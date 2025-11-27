@@ -13,6 +13,17 @@
       "description": null
     },
     {
+      "title": "butterfly robot!",
+      "author": "whatever_0709",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7u6wz/butterfly_robot/",
+      "published": 1764221817.0,
+      "thumbnail": "https://external-preview.redd.it/aXgxaXVwNzhscTNnMaWuVypsQZw8tQxTCTqrmEh27-F0ZqPtbYPuy9PrZqKq.png?width=640&crop=smart&auto=webp&s=f07f91e3da40f40d305f3317a8f3ccc81f8977ba",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Chinese students are out here creating machine-generated butterflies\u2026 Like\u2014this isn\u2019t nature anymore, it\u2019s engineering with \u2728vibes\u2728. I\u2019m officially impressed \ud83e\udd8b\ud83e\udd16"
+    },
+    {
       "title": "I'm building v1 from ultrakill!!!",
       "author": "Own_Minimum8642",
       "url": "https://www.reddit.com/r/robotics/comments/1p7l8rt/im_building_v1_from_ultrakill/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Built a drone and a proprietary lowering mechanism. Ashamed to say how much time it took and theres still a lot of work left. Its fully autonomous tho, everything is contained within the drone, it doesn't need any communication link nor human operator"
-    },
-    {
-      "title": "Flexion connects a robot brain to the Unitree G1 to research generalizable robot autonomy",
-      "author": "misbehavingwolf",
-      "url": "https://www.reddit.com/r/robotics/comments/1p76x40/flexion_connects_a_robot_brain_to_the_unitree_g1/",
-      "published": 1764161427.0,
-      "thumbnail": "https://external-preview.redd.it/fqwaaX2p5euZNxWE3eSXQLXotSsNzMg2D-GJhhi1aOQ.jpeg?width=320&crop=smart&auto=webp&s=703fd7c15164ec1ef14d48e633412f0f20f95a3d",
-      "external_url": "http://youtube.com/watch?v=tpwiCa33prA",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
-      "description": "This changed the way I looked at robots - it would be amazing to see this be attached to any robot, and you could just keep the body and repeatedly upgrade the autonomy stack's software and hardware too."
     }
   ],
-  "fetched_at": "2025-11-27T05:20:18.275082+00:00"
+  "fetched_at": "2025-11-27T05:51:53.295153+00:00"
 }
