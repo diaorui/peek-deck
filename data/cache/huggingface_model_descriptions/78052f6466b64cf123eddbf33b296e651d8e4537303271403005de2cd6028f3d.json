@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-11-27T15:26:35.859998+00:00",
+  "data": "DeepSeek-Math-V2 is a large language model specialized in mathematical reasoning and theorem proving, achieving state-of-the-art results on competitions like IMO and Putnam by employing a self-verification mechanism to ensure proof rigor.",
+  "model_id": "deepseek-ai/DeepSeek-Math-V2"
+}
