@@ -24,17 +24,6 @@
       "description": "Chinese students are out here creating machine-generated butterflies\u2026 Like\u2014this isn\u2019t nature anymore, it\u2019s engineering with \u2728vibes\u2728. I\u2019m officially impressed \ud83e\udd8b\ud83e\udd16"
     },
     {
-      "title": "I'm building v1 from ultrakill!!!",
-      "author": "Own_Minimum8642",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7l8rt/im_building_v1_from_ultrakill/",
-      "published": 1764195362.0,
-      "thumbnail": "https://b.thumbs.redditmedia.com/qDjeHSb03qCwAwtLfV5xvZEiFsg6_HY2y_nTJP-T1WA.jpg",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Knucklebuster arm prototype test, its a test torso that i Will upgrade till It resembles v1. The arm has one nema 17 stepper motor in the upper arm and a nema 14 at the middle, maybe i'll use a Raspberry pi 5 with ai for controlling everything but, i'm open to suggestions!"
-    },
-    {
       "title": "AgileX unveiled a robotic arm two days ago: NERO. 3KG payload + 7DOF arm at $2500 without hand",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1p7za49/agilex_unveiled_a_robotic_arm_two_days_ago_nero/",
@@ -46,6 +35,17 @@
       "description": "AgileX Robotics on \ud835\udd4f: https://x.com/AgilexRobotics/status/1993218134246076721 Website: https://global.agilex.ai/"
     },
     {
+      "title": "I'm building v1 from ultrakill!!!",
+      "author": "Own_Minimum8642",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7l8rt/im_building_v1_from_ultrakill/",
+      "published": 1764195362.0,
+      "thumbnail": "https://b.thumbs.redditmedia.com/qDjeHSb03qCwAwtLfV5xvZEiFsg6_HY2y_nTJP-T1WA.jpg",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Knucklebuster arm prototype test, its a test torso that i Will upgrade till It resembles v1. The arm has one nema 17 stepper motor in the upper arm and a nema 14 at the middle, maybe i'll use a Raspberry pi 5 with ai for controlling everything but, i'm open to suggestions!"
+    },
+    {
       "title": "Robotera L7 and Fourier GR-2",
       "author": "AcademicDimension957",
       "url": "https://www.reddit.com/r/robotics/comments/1p7ydx9/robotera_l7_and_fourier_gr2/",
@@ -55,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hi guys! I wanted to ask whether anyone has any experience with the Robotera L7 dexterous humanoid or the Fourier GR-2. Both seem quite dexterous (12 DoF hands) but I have heard mixed opinions especially for the Fourier GR-2's joint encoders. I would extremely appreciate any thoughts on those humanoids or if anyone has real world experience with them."
+    },
+    {
+      "title": "Slambot - My custom built 'diff-drive' ROS2 powered robot which does SLAM mapping and autonomous navigation.",
+      "author": "BenM100",
+      "url": "https://www.reddit.com/r/robotics/comments/1p802s8/slambot_my_custom_built_diffdrive_ros2_powered/",
+      "published": 1764243358.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Are World Models the Future of Robotics?",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "This is my hail Mary attempt, I would appreciate any lead on this. I am doing a dynamic simulation on a closed loop chain(double wishbone suspension) and been trying to use Isaac sim for that. I just cant convert the loop into urdf from solidworks. I tried matlab scripting(designing the peripheral parts and features is a pain using scripts and simscape(keep getting kinematic singularity error in joints). My best bet for physical modeling is isaac sim but getting the kinematic chain in there is the most difficult part. Please let me know you guys are facing similar issue or solved such issue. Thanks!"
-    },
-    {
-      "title": "Custom robotics controller with ESP32 S3",
-      "author": "kr4shhhh",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7hkhf/custom_robotics_controller_with_esp32_s3/",
-      "published": 1764186615.0,
-      "thumbnail": "https://external-preview.redd.it/G7q-XRhjmDFn4Bp5qh57LY15kdunbvtt-m_kNsneLg8.jpeg?width=320&crop=smart&auto=webp&s=31790356a4ef64a851121003da3c4db7e3c4cd3e",
-      "external_url": "https://youtu.be/f70Bf-UjK0I",
-      "site_name": "youtu.be",
-      "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
-      "description": "I wanted to share this custom robotics controller that I built with my son. We used two ESP32 S3 chips that cooperate to control everything. One is responsible for the user interface stuff, and the other is dedicated to motor control. I\u2019ve used older ESP32 WROOM modules in the past. The native USB on the S3 is super nice. Kind of a shameless plug, but I figure lots of people out there are building similar things. Feedback is welcome!"
     }
   ],
-  "fetched_at": "2025-11-27T10:59:25.846152+00:00"
+  "fetched_at": "2025-11-27T11:40:29.127522+00:00"
 }

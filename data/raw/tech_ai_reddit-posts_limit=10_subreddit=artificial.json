@@ -46,6 +46,28 @@
       "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
     },
     {
+      "title": "AI is great at tasks but is not good at switching topics",
+      "author": "PeatedW",
+      "url": "https://www.reddit.com/r/artificial/comments/1p800qa/ai_is_great_at_tasks_but_is_not_good_at_switching/",
+      "published": 1764243159.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Everyone talks about how Al can do almost anything now - code, design, generate images, write articles, analyse documents, do research. And yes, it is very good at these things . But here is something most people never mention: Al is amazing at doing tasks - but it is not always good at switching minds and you have guide it to do stuff for you. If you talk to an Al for a long time about one topic, and then suddenly change topic like a human would, it often keeps answering with the inertia of the previous topic. A kind of \"context momentum.\" The Al gets stuck in the mental mode of the previous conversation, even if you're asking something completely different. It is not because the model is bad, it is because human conversations are fluid...and Al is still learning how to let go of old context without losing coherence. This is one of those subtle limitations that people don't notice."
+    },
+    {
+      "title": "We\u2019re Treating GPUs Like Cars But AI Chips Age Like Milk",
+      "author": "Akkeri",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7zygb/were_treating_gpus_like_cars_but_ai_chips_age/",
+      "published": 1764242938.0,
+      "thumbnail": null,
+      "external_url": "https://ponderwall.com/index.php/2025/11/23/gpu-depreciation-ai-economics/",
+      "site_name": "ponderwall.com",
+      "favicon": "https://ponderwall.com/wp-content/uploads/2016/02/cropped-Thumbnail-180x180.jpg",
+      "description": "GPUs are wearing out faster than companies admit. High\u2011performance GPUs used for AI often become economically obsolete in 2\u20133 years, not the 5\u20136 years firms expect. This mismatch could be hiding huge costs and overstating profits. AI companies may be sitting on depreciating hardware while investors remain in the dark."
+    },
+    {
       "title": "Nvidia reminds everyone it's \"a generation ahead of the industry\" following reports of Meta and Google AI partnership",
       "author": "Tiny-Independent273",
       "url": "https://www.reddit.com/r/artificial/comments/1p763in/nvidia_reminds_everyone_its_a_generation_ahead_of/",
@@ -88,29 +110,7 @@
       "site_name": "phoronix.com",
       "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
       "description": "Following the release of ROCm 7.1 from just under one month ago, ROCm 7.1.1 is now available with expanded Linux operating system support, continued Instinct MI350 series work, more large language models working on RDNA4 GPUs, and other enhancements."
-    },
-    {
-      "title": "David Sacks tried to kill state AI laws \u2014 and it blew up in his face | A leaked executive order draft reveals the tech billionaire making a power play to become America\u2019s AI policy gatekeeper.",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p76biv/david_sacks_tried_to_kill_state_ai_laws_and_it/",
-      "published": 1764159631.0,
-      "thumbnail": "https://external-preview.redd.it/4aIPe5CZb_WqmH0rKRKjxZJ5injfzBagTwZJPAENurg.jpeg?width=640&crop=smart&auto=webp&s=4b10fba6aa2c9ad07608c84949711e9021618629",
-      "external_url": "https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order",
-      "site_name": "The Verge",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "description": "A leaked executive order reveals that the tech billionaire would have become America\u2019s AI policy gatekeeper."
-    },
-    {
-      "title": "OSX Grok Client",
-      "author": "watergoesdownhill",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7vc3p/osx_grok_client/",
-      "published": 1764225667.0,
-      "thumbnail": null,
-      "external_url": "https://github.com/jonclegg/grok-electron-client",
-      "site_name": "github.com",
-      "favicon": null,
-      "description": "I realize there are other electron wrappers, but for me, they didn't work. I had all kinds of problems with window management. This works for me, but please let me know if you have any issues. It is properly assigned for Apple, so you shouldn't have any security issues."
     }
   ],
-  "fetched_at": "2025-11-27T10:59:21.797514+00:00"
+  "fetched_at": "2025-11-27T11:40:27.868443+00:00"
 }
