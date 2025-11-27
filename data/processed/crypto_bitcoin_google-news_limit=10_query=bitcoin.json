@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin rises above $90,000 as cryptocurrency attempts recovery amid stock market gains",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb1Q0alJEcUdySjUwZmxfX2ZQaXBEU002eVhrVVo2VU5mZFA2aGpZWTB3c2xiZm5MNWpaZERudHVwZUh6aXJzdjdBRkp1VzBTMFNDT2ZOWmtLTHRYTF9DeGdLcy1Za1JucXp6aHJIU0tOczNWYTJ0TUlTZ0k2b3JpNlY5TUN1SXdkZTJfVjZTTWhuT2RJaF9sQ3ZsY0VoNzF4eTZ4RXhhTGFDNHFnaVZtUjF5R2hjaXhNYWdobC1rbWY3UGxmOFpIdmU3Zw?oc=5",
-      "pub_date": 1764185645.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-rises-above-90000-as-cryptocurrency-attempts-recovery-amid-stock-market-gains-193405385.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/.Z5tyxKY78q5nSzRFNKQXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ-/https://s.yimg.com/os/creatr-uploaded-images/2021-04/5af69a20-a8e5-11eb-bf7f-5f2e9fe992ce",
-      "description": "Bitcoin has struggled to bounce back meaningfully despite a price uptick on Wednesday."
+      "headline": "Bitcoin (BTC) Jumps Back Above $89,000 to Recoup Some Recent Losses",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNalZoOTJyaDdKRlBRRFp1MUFMVHI0VmZBUGRlYlFwSHFVX0xmTnJOcGRTSF9YMUhfUXZaVHo5R21VLXVldVdWUGEwY0FuZ085SnpNa3lMamVwSlJVQjRKQzk4N0V1UEhFZDFnNXlpZUoxU3Vxc0NRb2xPMV9oLTIzX0Fva2dMNmJmMmRLNENmZ2tVODVwQk5pSjFNa1JreUU2azBPOWI3ekdpaFl6elROMg?oc=5",
+      "pub_date": 1764193048.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-26/bitcoin-jumps-back-above-89-000-to-recoup-some-recent-losses",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i22DHpRV1w.k/v0/1200x800.jpg",
+      "description": "Bitcoin climbed above $90,000 for the first time in almost a week, clawing back ground after a more than a month-long selloff, as a broad rally in risk assets and easing volatility gave traders room to push higher."
     },
     {
       "headline": "Economist Paul Krugman says Bitcoin\u2019s crash shows the \u2018unraveling of the Trump trade\u2019",
@@ -25,6 +25,26 @@
       "description": "The Trump family, with ample crypto ventures, has lost an estimated $1 billion from the monthlong cryptocurrency freefall."
     },
     {
+      "headline": "Bitcoin Whales Return to Buying for the First Time Since August as Price Recovers Above $90K",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVzlCMUVBQm1uMWdBd1Q0eDlLeUhxTnZzQmVxNGU3QWdaZENaMkhsMHozTlFvZHhvNC13ZTVoRUdWcHdFcmV3c1RjSVBUT0JzNG8xVzFjVHBZaERPR3V1SEJ2eHM4cl95cXhXS3lXNWczWEJpOUt4RTBORXdGaVdwYVdxSGhkaTREX3JCYjh0SzQyYkZKcGM1VDRYTGhCb2tYZHl2Y3ZDQzBHODJxUkRpOFZVWFlvVk02X3QxSUFYV18zMTR2QmJVTlVENU8xTVdqMVVMTQ?oc=5",
+      "pub_date": 1764256538.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/27/bitcoin-whales-return-to-buying-for-the-first-time-since-august-as-price-recovers-above-usd90k",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Japanese Bitcoin treasury stocks soar after Metaplanet raises $130m loan to buy crypto",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkZicnRQWmZ2c0JGeFJlWlQzQ3lnSkhuTHhNU0lJbldBekEzb1BmYTBtdlNLSU5CNGhZb1lsaS1SZEJ1OFR2c09qejY0a2tubXp3NmtveEl3Skt4MURWWDBWWFdlalh1dlRYckJxVkhTZ3prRUZWUUMyeHRwUUlNU1BZZjlBak15WXdj?oc=5",
+      "pub_date": 1764262607.0,
+      "article_url": "https://finance.yahoo.com/news/japanese-bitcoin-treasury-stocks-soar-165647630.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/PSbVIdf.N3TEgle_QXmW_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU-/https://media.zenfs.com/en/dlnews_702/842bcc3bbc8590f5cf98cf072fc83265",
+      "description": "Metaplanet share prices up by almost 7% as company eyes more Bitcoin purchases. Rival Japanese Bitcoin treasury firms\u2019 share prices up as high as 7% above Nikkei index. Metaplanet loan issuer asks for anonymity."
+    },
+    {
       "headline": "The Crypto That's Outperforming Bitcoin and Up 35% for the Year",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -33,16 +53,6 @@
       "article_url": "https://finance.yahoo.com/news/crypto-thats-outperforming-bitcoin-35-154100972.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/dvTXf9mj7B0vfnj1lGAnsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/3c8a7a5d4e3389a8598e0605fb88f350",
       "description": "Explosive growth has fueled Hyperliquid's rapid ascent over the past 12 months."
-    },
-    {
-      "headline": "The fatal flaw in using bitcoin as a currency",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZmNlenhZYzBTbGpueFNGeFB5eUxQeV9CR3k4OEwzUDBzXzhHNlAxNkVtZlVtaC1LeUxkZ1JWV3BxVEtzNGI1ZU1JOWw2UjdYSE41NnZsMmZ5N2VZWkF2bk5fQnJrd2ZLOHBxRUh6UXA?oc=5",
-      "pub_date": 1764133249.0,
-      "article_url": "https://www.ft.com/content/a18c310a-d533-4d03-bb25-53cb11337dd1",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80fc2f5e-ea28-4dc9-ae18-6c879b6eb7a5.jpg?source=next-barrier-page",
-      "description": "There is a crypto parallel in the aftermath of Europe\u2019s 14th century bubonic plague"
     },
     {
       "headline": "JPMorgan reveals new Bitcoin target amid market pullback",
@@ -75,36 +85,26 @@
       "description": "Bitcoin price ripped above $90,000 today on news of a new wave of Wall Street\u2013engineered crypto products."
     },
     {
-      "headline": "SpaceX transfers $105 million in bitcoin to unmarked wallets: Arkham",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oejJ0Y1Q3aUQxWWxVZG9FaVEwYVZwRkZqRVpWT1ktUmZ3R21hRVJ5UkxObzhQX2hPdGhJdmFydHVrUF9paUd2cXEtRGtRQ2lpamlJS3k3aVVhMGJ0SldmeDIxT25zby1ZV1NqVEhZRdIBdEFVX3lxTE42NGFrUFBLTEdGLXpPM3JPelhvUE5GSjZWRGxDNmdkVmdWekYtc0V2NXphSWJRNzVkY0xZSF82REZ5WWRwazhjaC0xSF9UOFMwWUt3bF9ibnBTQzNiaGxld3NoRzNtczZGMlJTdkFpWnhwVVVG?oc=5",
-      "pub_date": 1764210279.0,
-      "article_url": "https://www.theblock.co/post/380651/spacex-105-million-bitcoin",
-      "image": null,
-      "description": null
+      "headline": "Why the pressure on bitcoin may linger into year-end",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU2RCY2plVkphcjFuR0xWWEtqTllKZTZhN0t4a2FUZzRHcm55QnlqT0xPUUFIUUdTZnU2TDFoRGk0WVBBblZkV3cyaG40b2dFdjZITTBLVHBFLXNFVHhSdGNoUVc5blRDT3FDdWlMTTNXQkNpTUpObS00eF9xRmhtVmpiWE9ROWtmanpZZmFVVGo1dVk?oc=5",
+      "pub_date": 1764187202.0,
+      "article_url": "https://www.cnbc.com/2025/11/26/why-the-pressure-on-bitcoin-may-linger-into-year-end.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229961-1763739028691-gettyimages-2247743566-img_6815.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "A bitcoin sell-off driven by investors that bought BTC at a premium will likely put pressure on the asset through the year's end, according to Compass Point."
     },
     {
-      "headline": "Strategy's Interest Costs Are About To Rise; How Low Can Bitcoin Whale Fall?",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSUlUZTlQdFV3ZUs4Ml9wYnBOVVpDZVFkSVBTLXRYY29NSDdDYmZJZnRfZGdCQTNvNEcxbEt6dHhDVzlvcWVMSjhSb1FycGZqYWRpUWlqOUtYb3JEWkIyODJsSlJUeHE1bldTN1FlWnJxQzVvM09jX2dOQUJVUnl3TmpHRW9wNks5VzhVZWdpRktzMkdqa0FfMw?oc=5",
-      "pub_date": 1764177840.0,
-      "article_url": "https://www.investors.com/news/mstr-stock-strategy-bitcoin-price-interest-costs-mnav-premium/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "107-year-old bank expects all MSCI indices to dump MicroStrategy",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWDVSdkxMRjJyVUtrZ1czdGF0STNtZVZkNlo3NnlJVlQ5N2lBTjluZHM3MU4xQTA3Ykw0Wk9IWDlVR3JWNzAxbnhjNWJDM3loR2RBM09KVl9JVnNxemtmM3RNOENFRFpKMEhFTXprX0JmWnhwT2Jka243SHdTbllrUW10VkQ1a18wei1oSVFxRXJ1a0R0S21BOUlhTmY1cDRWdlJQb1d2Uk8?oc=5",
-      "pub_date": 1764084600.0,
-      "article_url": "https://www.thestreet.com/crypto/markets/107-year-old-bank-expects-all-msci-indices-to-dump-microstrategy",
-      "image": null,
-      "description": null
+      "headline": "The fatal flaw in using bitcoin as a currency",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZmNlenhZYzBTbGpueFNGeFB5eUxQeV9CR3k4OEwzUDBzXzhHNlAxNkVtZlVtaC1LeUxkZ1JWV3BxVEtzNGI1ZU1JOWw2UjdYSE41NnZsMmZ5N2VZWkF2bk5fQnJrd2ZLOHBxRUh6UXA?oc=5",
+      "pub_date": 1764133249.0,
+      "article_url": "https://www.ft.com/content/a18c310a-d533-4d03-bb25-53cb11337dd1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80fc2f5e-ea28-4dc9-ae18-6c879b6eb7a5.jpg?source=next-barrier-page",
+      "description": "There is a crypto parallel in the aftermath of Europe\u2019s 14th century bubonic plague"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T17:40:35.632397+00:00"
+  "fetched_at": "2025-11-27T18:18:32.487520+00:00"
 }

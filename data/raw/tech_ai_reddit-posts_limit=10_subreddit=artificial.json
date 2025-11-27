@@ -35,17 +35,6 @@
       "description": "CrowdStrike researchers reveal how trigger words cause DeepSeek-R1 to generate vulnerable code\u2014exposing new AI-driven risks in software development."
     },
     {
-      "title": "ChatGPT maker OpenAI confirms major data breach, exposing user's names, email addresses, and more \u2014 \"Transparency is important to us.\"",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1p85xzi/chatgpt_maker_openai_confirms_major_data_breach/",
-      "published": 1764259691.0,
-      "thumbnail": "https://external-preview.redd.it/GXG5OBerEMkRkrU82EgRfCJW7YUbvcvbQfeN2k-2yDA.jpeg?width=640&crop=smart&auto=webp&s=505756936340f91355c53367d238d084c0f95e58",
-      "external_url": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/openai-confirms-major-data-breach-exposing-users-names-email-addresses-and-more-transparency-is-important-to-us",
-      "site_name": "Windows Central",
-      "favicon": "https://cdn.mos.cms.futurecdn.net/flexiimages/gvnkdor1vl1647264367.png",
-      "description": "Users are waking up to discover OpenAI leaked their data this morning via a faulty third-party plugin. Here's what you need to know."
-    },
-    {
       "title": "Allianz to cut up to 1,800 jobs due to AI advances, says source",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1p82a2n/allianz_to_cut_up_to_1800_jobs_due_to_ai_advances/",
@@ -55,6 +44,17 @@
       "site_name": "reuters.com",
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "ChatGPT maker OpenAI confirms major data breach, exposing user's names, email addresses, and more \u2014 \"Transparency is important to us.\"",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1p85xzi/chatgpt_maker_openai_confirms_major_data_breach/",
+      "published": 1764259691.0,
+      "thumbnail": "https://external-preview.redd.it/GXG5OBerEMkRkrU82EgRfCJW7YUbvcvbQfeN2k-2yDA.jpeg?width=640&crop=smart&auto=webp&s=505756936340f91355c53367d238d084c0f95e58",
+      "external_url": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/openai-confirms-major-data-breach-exposing-users-names-email-addresses-and-more-transparency-is-important-to-us",
+      "site_name": "Windows Central",
+      "favicon": "https://cdn.mos.cms.futurecdn.net/flexiimages/gvnkdor1vl1647264367.png",
+      "description": "Users are waking up to discover OpenAI leaked their data this morning via a faulty third-party plugin. Here's what you need to know."
     },
     {
       "title": "MIT study finds AI can already replace 11.7% of U.S. workforce",
@@ -112,5 +112,5 @@
       "description": "McKinsey &amp; Co. cut about 200 global tech jobs in the past week as the consulting firm joins rivals in using artificial intelligence to automate some positions."
     }
   ],
-  "fetched_at": "2025-11-27T17:40:21.330909+00:00"
+  "fetched_at": "2025-11-27T18:18:11.542233+00:00"
 }

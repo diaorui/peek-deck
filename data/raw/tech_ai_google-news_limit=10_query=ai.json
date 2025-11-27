@@ -55,36 +55,6 @@
       "description": "AI might not be transforming every job yet, but it\u2019s having a big impact on developers."
     },
     {
-      "headline": "Leonardo Unveils AI-Driven System to Defend Cities From Attack",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdWdNWDd4WDU2eWxGZmRIMkdDRjRGRDFkWmh0b1pNTXFFX1ZhdVM0V09GWGlnSmd0QnUxYy1WUjJoWU84dHJGY2w0VGVSY3NDMWtzYUoxWklvMmdSYnV6V005c3AyWDdYc01EbTU0MG9qNmVBdEVQUFBrSnJfRElOWUllbE9POS1kQi1aV1dqRVRjZlMxa2dCb01fUUdwZ2d4TTNoOWotQzNBLXFIX20tdDJwQQ?oc=5",
-      "pub_date": 1764260829.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-27/leonardo-unveils-ai-driven-system-to-defend-cities-from-attack",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why America\u2019s Power Grid Will Be Able To Withstand The $2.5 Trillion A.I. Datacenter Building Boom",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNM1BsYW9KelFGZUtZVXpDREJRVnhxSjNyWXh6YU55b2NoT2FQeUpfMHdaQzB1YnV3eHpIQ3FubUtPZXY4OXFaSFdoUkxjM3JDVHlwakZlVnp6ajhoanlWNHFnX0s4d0Qtby1HWlVNWU11ZG9qVkxncE83UnhrTndDWlhRaDVtazNhUTlpSXVScmVZV29VQW81SlZrSXJLTzNxTXdyb1M0blgwS1JRcGxvQ2JwanAxSkE0Z2V2SzlYVGg2bmVFelVxb0IyRndsUjNhb1ZDMUdkYnh4YlQ0eXRBeUZnWjJ4bGs?oc=5",
-      "pub_date": 1764243000.0,
-      "article_url": "https://www.forbes.com/sites/christopherhelman/2025/11/27/why-americas-power-grid-will-be-able-to-withstand-the-25-trillion-ai-datacenter-building-boom/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/69261bfd2e7fe54660b7695d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "The U.S. has plenty of options to meet the vast energy demands of A.I. From solar and batteries to natural gas and new nuclear, if there is a will there's a way."
-    },
-    {
-      "headline": "AI data center 'frenzy' is pushing up your electric bill \u2014 here's why",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeG5ILWVhZ0ljUDE2MG9HeUNFejE0X19mVzNLazkyN2ttbWoyNXhSQ29TZENHWERNNVVVS25McDNpeGtVS1hQVVRwTGEtX2haQVVKc3B2Z0VLT0x4eUFpVU41NnNoMUdVekRIdnktTUxOcFVhZDVTdjkzRzRhNE9OekQ5MzFyRVlMUDVZcm1xdXhHcnJ2c1h3SHBIcXNySHJmUTlZ0gGoAUFVX3lxTE9HNGVndW9QeUNwcDkwSDBSWUEwZFo2NzhFWFhLRHVIMGZiclRnaTl4WS1LMm0wUmJfOFp4QUtXZTdydUtmMk1oVGo4MTRmclJ2SGdMdGJrRUZBV3NybUJNejBSRmhoU0RpaFhteVJ1d1RGdURDSFBYZ2I5U1BMb09Cc2ktWjZEVXFRVUhmUjNmcnF6TF96YXByczB6UFF4WWpKZ1JfTHVKcQ?oc=5",
-      "pub_date": 1764162901.0,
-      "article_url": "https://www.cnbc.com/2025/11/26/ai-data-center-frenzy-is-pushing-up-your-electric-bill-heres-why.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229968-1763739290840-gettyimages-2236733569-STARGATE_DATA_CENTER.jpeg?v=1763739314&w=1920&h=1080",
-      "description": "Energy-hungry data centers that underpin artificial intelligence are contributing to higher residential electricity bills, say experts."
-    },
-    {
       "headline": "Trump\u2019s data center embrace spurs energy and environment concerns",
       "source": "The Hill",
       "source_url": "https://thehill.com",
@@ -103,8 +73,38 @@
       "article_url": "https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "AI shopping wars: Walmart, Amazon, Target, Google, Meta, OpenAI unveil new tools",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhaTZDTnJsN2Z4SEg3Qk9paHduR1BySVJpTDdQYkwxVWtZWUcxRERfLVF6eDBzUzI1SmtCbmxRNi1hWEVHSVEydkV2NTNDNHBFOVRKRy1CNzFqcnByUTFfNmJreXBxVUwtSHp2X1U5d0w3YllxdGdnSmxSREd5VW8?oc=5",
+      "pub_date": 1764250288.0,
+      "article_url": "https://www.axios.com/2025/11/27/ai-shopping-tools-christmas-gifts-chatgpt",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "I\u2019m a Professor. A.I. Has Changed My Classroom, but Not for the Worse.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1JDcTlTQlp3VVhmZURGLVNOR0JBVGZIVVhBZjEyWEJYQ2pySVpYdEhzdVVCZTZEVnBsMTVlM25LSGk5OUEwWmpvSUpYX2xPYXB6RHpSSHVZd1lZdHNLY0hSWTlreTI2ZG5vNjB5Rk9iZXNfTXZqN2JhSnFJSDlLenNyUElkVE1hRl9CUVBsaw?oc=5",
+      "pub_date": 1764064812.0,
+      "article_url": "https://www.nytimes.com/2025/11/25/magazine/ai-higher-education-students-teachers.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Alibaba's AI glasses to rival Meta go on sale for $500",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUU8tS2xyM3VlM2NTcEJqOVJ0VGxtUzlhbnlUeklsSTRXUVRwN0x2LTU5QTBOUmNCZnVTVnd5MjBSU1ZPN1pYVzFaSDF3WmpGWnFSWUktd0gtT2o0dmFOWjhBSmZCckdwRDlfM1BLTVZMc2daLWZoVzVBb0dacnhnMDZxc0dkdU5jOGdiWNIBkgFBVV95cUxQNlBhUXk5OXBsU1JWeGdYcGxPbHhWR1pYdE9pZTVCaVAyVlBsRGVOVGY4aEcwcmNPaDVvLWRYaGxUMzAtWlh2TGdQMU1JNTZpOU1QRkIzamN5YzNHNERmMnFSeU1qalF6WWtlbVRaRDhUX1NJRlVNc19oQzFJNlpkTzJORTdtRTZZTWc0S3NKQ0lVUQ?oc=5",
+      "pub_date": 1764234427.0,
+      "article_url": "https://www.cnbc.com/2025/11/27/alibaba-quark-ai-glasses-go-on-sale-price-specs.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108177567-1753687050071-Alibaba_AI_glasses.jpg?v=1753690514&w=1920&h=1080",
+      "description": "Alibaba, like other tech giants such as Meta, are betting that smart glasses could be the next big consumer device after the smartphone."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T17:40:47.468214+00:00"
+  "fetched_at": "2025-11-27T18:18:24.583795+00:00"
 }

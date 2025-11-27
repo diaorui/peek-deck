@@ -15,62 +15,12 @@
       "description": null
     },
     {
-      "headline": "China to deploy battery-swapping humanoid robots for patrols along Vietnam border",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNGJJblFqN3NuQllWZy00UlItQVoxNFU1eENldnJUOW9QU2o4MktZdU9RV1l6NWVfa3NWallOOUxMQXNacl9YcFdMNTdvaDNfbFJ6MDNURkhaNXd4Vm0tWFREVWFBUUtuNWxuM1dKZGxiLUM2REJBRzlaVDBOVHhPNlNpLW8?oc=5",
-      "pub_date": 1764163920.0,
-      "article_url": "https://interestingengineering.com/innovation/ubtech-secures-us37-million-deal",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/Thumbnails-for-IE-articles-UBTech-China-Vietnam-Border.jpg",
-      "description": "China's UBTech Robotics has secured a 264 million yuan (US$37 million) contract to deploy industrial-grade humanoid robots on border."
-    },
-    {
-      "headline": "A humanoid robot-shaped bubble is forming, China warns",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUd2xkcDVwUl82Nkc0djl2aldOU25oUEdzVGlPU0JmaHpqZmx2TDhqSEJ1Z0U1UHg1WjRFalNyT2N4Wk1LdURKNkxKWFFva0pfTUhKX0lVZ21IM3JJQ2FoOTJaVzdOTDZlTGtoUTlvQUd1eWk4b3c?oc=5",
-      "pub_date": 1764259069.0,
-      "article_url": "https://www.theverge.com/news/831451/china-humanoid-robotics-bubble",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2247204481.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-      "description": "There are few proven uses for humanoid robots, but that hasn\u2019t stopped investment pouring in."
-    },
-    {
       "headline": "Robots and AI Are Already Remaking the Chinese Economy",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPWHdSSVdyY3RBVmVuUFI5U19VdzBaa3E5eXZ0UkE1Ni1MMGNWVUhCUzRjN1lMWXNMMjhBbzVmT0pHZ1U1OUJGSEl1Q1FGYnJNZVZ4c0tLOTJSZllKNVBkSzAxTlQyTGY5Q1Z2X1M1OWhmYS03V0RNUWc3M2JsY1NuUGpWZFozSXA1cENpR3FDUXNsdzI2TVhGa05HX0FJTUM5TWZQNjBzMkwwUVRiQmRpUlNDWUJkeDBrWnc5V3MyVVI5NHlGRnlCellxcnM2NFdTb1lMMzZXOE9QamxjaTA5ME1lR2JZQnl2U1pqNHFkZElDVFNpY3VmMTB3N0F2RmxGeng2QXBDWWJqbGlnel9qUzgxSy14ZFJiVXRqT0V2QTdXSUZIWVNDQ1dYeGJ2QlRjdHZOYzJmMm1VZXI1cTVQZWVxZ1RQNThkSTVQOWhFV3FKelpiMVl6c0VESWtFYmVWMmhNcGtTdkh3eHRtOVRoY3JfY1FtSVFVZ1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQVTdHOHdSSUJ4VE9DS0U2WUpfZW54V0w5Uk9KUWIxUUk4VnhodUtiR1dfb3BMYm43dVoyNGl5OVhucG4xMUVuU0R3WjJGMEliQ3BwYzdiTDd3TDlpMFJxWUU0NTNZZDdsTnBQZlFoQXhRbEFEelRNdXZMeTFFTnN5WllCX3I0YU9lYzJqMkg0cnZoOGhtRW9jbklLb2J0R0FyZFhkS1Z6YVZrc1V3eXhIdWJFbngzWWR3QUM2RmdZamZ5TzZ3MnRleXNxekZISUFDdjVJNDRtWW4tM1hQVGJYN2dtd3Z0SWExZHVUMnlPRzYxZjlTVk8xRDJ2MGtLRkc4c1NJUHc3V1FpYmluR2tTT1UyU3BjdEdHaU5uejdmYktPTTFhTGtrZTJxRDVRMy1pSGkzSkRYOFQ1UFRMUXgtMHZCWDZ4MGFYcE1MdjZRVC1RMVhsc3d3d0N2aTNrbVdGaEp0eHd0T2xZalN5cXZHNUVOaE9SLWRHWUE?oc=5",
       "pub_date": 1764036000.0,
-      "article_url": "https://www.wsj.com/tech/ai/ai-robots-china-manufacturing-89ae1b42?gaa_at=eafs&gaa_n=AWEtsqc4kxvqrcCp7dF7n54DpeVas4kHqtjGxMKqu3bXIZ-hBAZY4xouXv_8&gaa_ts=6928908c&gaa_sig=nx1QgIjHrFhZoE6KuIGrdEsUKOGwJ6ROVBFXJ5m_EeZjq1ZBuUJXP2-cdHZhSurhzBuC7wKINmGTx3St5Q1z3A%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Remote Robotics Could Widen Access to Stroke Treatment",
-      "source": "IEEE Spectrum",
-      "source_url": "https://spectrum.ieee.org",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZdHlKbC1HQTV1YkpYVnUyc2JpVmt6dlAtS2N4MXViT2VDWVQtS0Z4OUVKT01BS19MLXBaR3hwQU1QT2dKSVNYdFFFTnNpNmFVYjcyZlJQSER5cGEzbUlDbDQ1VnE1NHFKMXVVdnpR0gGCAUFVX3lxTE1HUjJoM2NJMW4wQmkwNUVzcFFoR3A1NGx6Y25UU3RFYWZweEJBR29QQlJDWUI2c2pFMnRtaVJGcjFFa2FsX1R6cXFzRUpfanBPelh1SDloWDNnTnNEY0M2aDJXeWNnTjlleUpxX0QxNGhoSTRVcHhudEdMaEhYOWROQlE?oc=5",
-      "pub_date": 1763994086.0,
-      "article_url": "https://spectrum.ieee.org/remote-robotic-stroke-treatment-evt",
-      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=62225322&width=1200&height=600&coordinates=0%2C84%2C0%2C141",
-      "description": "Could telerobotics be the key to faster stroke treatment in rural areas? Soon, surgeons may perform lifesaving procedures from miles away."
-    },
-    {
-      "headline": "This $46 billion robotics stock is up nearly 40% after a big win. Could more gains be in store?",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPUW4zbmg2WXdWSEZ5SUFhX0s0ODM2R29kUmVFYkR4VjhHajF4eUtUUEJCM0cyYkdjUEFkWXhCdXlKVWZISnVCdlppT2M4cDFLb2FrSGdEWGdjMmFTNVpqS0dXbWR2U2NrSWpXUGdzMTRXVjAwN19BZEJMVTZWYzNQc3VZbDBpcFJRb1JEbS12bWZnX0oyeUZvWngtbk1JTVRQMTRDMVliXy0yTVNnZV80QU1YdGwyOGM3RkpQanhtOUhMc2dGUVdpSDcyZUNKdEdoR1M3dU9CbFF3b2U4YklpMi1fMDVUU0R4VDR3V0JEbkk4eUg3bGdReDc2NHF3b255M0xhcXlOWkV5dWxVc0hLZVdnX25aMEVOT3lmcnBtWW16ZWh0V0JsbncyM3BhU0VkMFdZN3QwWS1sczQ5cGo0a3BGdEFCVXpDdXlGNzZMQlZmN2k5Rk04Wk9idFdqT01rOWZva2R2NjBOdV9CYm9RN1RGS1FmT0xSZXZSeFJZakZ5c3VubVl1cTJNU3V1c19FNUt1ZmZoVEtFbVNVdzI3ZW93U3NBakc1RGw5dmcwcWhMUlhyWUhmMFBEV05ETmZiNWRYQkdaOUNrUUE?oc=5",
-      "pub_date": 1764103860.0,
-      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqcKSjvpvmp-NANK6vTAdLuT3abhkdODdlhsZuNgRsE58uk_Ld0exvZI&gaa_ts=6928908c&gaa_sig=6vEplA6jHbzoegOhAZErEYHDodvXlNkqimCWZZC9v_hES1h-_uCOqJR4_xHsBLXUw5_m_D7Cw--v9Pqpe4g3Iw%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Tesla sued for allegedly infringing robotics patents",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSjBpR0pSR2Y0eHg5NmNtU3JVNGJCLWZPcGRRdmFkSEUyeGx6dkFwUGQtNVFlSWdBWE42WjdXVVlxZkFfVEp4UFNKLVpRdmd6R2s2S1BkN1U1dzFmTzFrQ3U4a1kyVTBqbllBWFQzUW9rYnFPWHM3eFlUaU95QmlkMHdrNXQxa0d1QVUzVmpnb1B5WUNxdERtaXZma2Q3NWxYb2dZ?oc=5",
-      "pub_date": 1764020262.0,
-      "article_url": "https://www.reuters.com/legal/litigation/tesla-sued-allegedly-infringing-robotics-patents-2025-11-24/",
+      "article_url": "https://www.wsj.com/tech/ai/ai-robots-china-manufacturing-89ae1b42?gaa_at=eafs&gaa_n=AWEtsqf4X_jy-OdGtIiuor-ZJk2XkRD0l4CF10gfcCfcfcRt8MNSoNvxlsr2&gaa_ts=6928996b&gaa_sig=TLSBEj8rfxcAI0t4h40FxlcdfeVttcqc2Onq_3GQ3PaxNnKaiBnvUU7SvbexHtoHx9KukBJ7VGoBAVCDPS3OrA%3D%3D",
       "image": null,
       "description": null
     },
@@ -85,14 +35,14 @@
       "description": "Tesla\u2019s AI and robotics divisions are facing a significant \u201cbrain drain\u201d as a stealth startup called Sunday Robotics emerges with..."
     },
     {
-      "headline": "Surgical robotics market will double over the rest of the decade",
-      "source": "MassDevice",
-      "source_url": "https://www.massdevice.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRktZa0lfUFlrZzNHTDlJYjB1bFh0V3pHbHJUYzE0Q2d0cl9uRFRCMXBVbEFIMkFtQkdBT2p5UmpseWp4aEdLY1gybG1CVHVYUl91cUlhZlNHazJnRF9ocy0zeXY2a0I2UHUzaXVrVC1NcGhaUXVVYmxONHBSTmtDNWNJTEpZMnhmNF9DUjlweHYySVgwdEZN?oc=5",
-      "pub_date": 1764083674.0,
-      "article_url": "https://www.massdevice.com/surgical-robotics-market-will-double-over-the-rest-of-the-decade/",
-      "image": "https://wtwh-marketing.s3.amazonaws.com/wp-content/uploads/massdevice/2025/11/25100924/Medtech-Markets-Robotic-Surgery-Website-1.png",
-      "description": "Already worth billions of dollars, the global surgical robotics market will double by 2029, according to a new MassDevice report."
+      "headline": "This $46 billion robotics stock is up nearly 40% after a big win. Could more gains be in store?",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQMk9ZRklsaElCb01OSy1EemlMeUYwUnpXN2N2UUdGajJxSThOWlFpTlBpR1JqanRURzc3OEdmS0c0V2JKenVqYVRqaTlidW9UNHMzRjN3VFlIZFR5X3F6SEgwU1dMY1l5bEpZLUFPZmtFa2ZmSFdVOEoxa3NNT1FxQ1VnQkd4QlN3Rmp1b28yNldmUTl4a1U4V0stTi1EU2ZNUVJkZEo4UXc0QkFmaERDSWE4VjQ4RmxoWXJkMXVZMWppbHUwYWVqU2FzSlQxX2M2aVlxVERzZWgzcUw0RFdRWTlKNUpIZVZycVREWFRqYjAxUDVPYkxwa3I5VEc1UkM2dTFTaVFsZnhjRDJPOUZqVzlvVXZXTUJVSXE3aDNCRzl4bVlLeXplOXRaWGRqN0ZLUklJaEhLcnhqZ3lmcW5OUUZNRVhjc2dMd0NLQUJsMFczQmhuVjdJdmdMdnM1TVV4Sks1X0pZbTBNQXZhdG5mUFllM3o3b3gzSGxYQWl6MDRWdGRZZlhsd3R5NEU4eC0yUEdJV1lKMmdBdGlyQWxTMDBCUFV0RXFRemFNRjk0aEJObTRDX0RkSFExaG81OTFqOFJJZnh6cldNOVU?oc=5",
+      "pub_date": 1764103860.0,
+      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqd3AstevL4U1ydiPu0GgV3SFpubcK80NgQA7q3ZtOEajHa2yxeRGd-R&gaa_ts=6928996b&gaa_sig=YBj3wF6TXkh_WsUXkaD572fq30MrHJXQd_KLGZcEauK4kw6Zvi2KuF53sm5blp_13pqFbqHAwca2y7vWcv7YHw%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Tesla Execution On Robotics And AI Vision: A Must For Musk (NASDAQ:TSLA)",
@@ -103,8 +53,58 @@
       "article_url": "https://seekingalpha.com/article/4847993-tesla-execution-on-robotics-and-ai-vision-a-must-for-musk",
       "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2168974799/image_2168974799.jpg?io=getty-c-w1536",
       "description": "Explore Tesla, Inc.'s shift toward AI, robotics, and energy, Q3 2025 earnings, and updated price target. Click here to find out why TSLA stock is a Hold."
+    },
+    {
+      "headline": "Surgical robotics market will double over the rest of the decade",
+      "source": "MassDevice",
+      "source_url": "https://www.massdevice.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRktZa0lfUFlrZzNHTDlJYjB1bFh0V3pHbHJUYzE0Q2d0cl9uRFRCMXBVbEFIMkFtQkdBT2p5UmpseWp4aEdLY1gybG1CVHVYUl91cUlhZlNHazJnRF9ocy0zeXY2a0I2UHUzaXVrVC1NcGhaUXVVYmxONHBSTmtDNWNJTEpZMnhmNF9DUjlweHYySVgwdEZN?oc=5",
+      "pub_date": 1764083674.0,
+      "article_url": "https://www.massdevice.com/surgical-robotics-market-will-double-over-the-rest-of-the-decade/",
+      "image": "https://wtwh-marketing.s3.amazonaws.com/wp-content/uploads/massdevice/2025/11/25100924/Medtech-Markets-Robotic-Surgery-Website-1.png",
+      "description": "Already worth billions of dollars, the global surgical robotics market will double by 2029, according to a new MassDevice report."
+    },
+    {
+      "headline": "Ornamentation in the Age of Algorithms and Robotics: Can Technology Bring Back Architectural Detail?",
+      "source": "ArchDaily",
+      "source_url": "https://www.archdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT2VIWDZ6c1pRX0JwdmVxTUVUR09KREc5TTQ1UGVhbm1xREZWa1YzZmpCRTZYWTZZREJjeFlkQmJUdUd0dkltNmQ4bGRhTTVpX1ZSRGVkSnU4NDBxS0c0bkh0d2xaUHNkSTBURXdicEY3UUtZN0xNeGI2ODl4WHdoMGNuREtmS1pHbVhHZDhpSTRnWlNOWlNXZXpjX2Y0NVhvc1dLZEhOVURSakp4eTFTaUJlZjBPOXBUMmtnaDdtbnAteVNjNEdMZjlpM3A?oc=5",
+      "pub_date": 1764147600.0,
+      "article_url": "https://www.archdaily.com/1036298/ornamentation-in-the-age-of-algorithms-and-robotics-can-technology-bring-back-architectural-detail",
+      "image": "https://images.adsttc.com/media/images/6920/abf4/9d2d/f601/8869/3cce/large_jpg/ornamentation-in-the-age-of-algorithms-and-robotics-could-technology-allow-the-return-of-architectural-detail_3.jpg?1763748861",
+      "description": "Delve into the debate surrounding architectural ornamentation's return\u2014what does it mean for culture and design in today's society?"
+    },
+    {
+      "headline": "Hundreds of Chicago residents sign petition to pause robot delivery pilot program over safety concerns",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVlo4VG0wcnQ5MkRublN5VzVEcFNfRkVuYjZvX2QxMXdrNkgxbVBQaVdSaHRBZERpUEdOQll5dl9kRkF0Y1lqOTZUa1NSRXNPZnNqTnhWTlRIMl8wSkNZcXpjaUVpdE00WDBkMEpTb3BoMDctWFNDU0ZobE5xdndrNEM0QlFxRmNPWE5MTjFZTm5kaVZlclRN?oc=5",
+      "pub_date": 1764205616.0,
+      "article_url": "https://www.cbsnews.com/chicago/news/north-side-residents-petition-pause-to-delivery-robots/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/26/ea7c2273-cc71-4f18-ae29-3a61cd302db2/thumbnail/1200x630/a1e50d110a666ed067a785f815652a76/snapshot-2025-11-25t181748-090.jpg",
+      "description": "Two companies, Serve Robotics and Cyan Robotics, are licensed in Chicago. The city said it's a pilot program that will assess benefits and risks."
+    },
+    {
+      "headline": "Xiaomi hires engineer from Tesla\u2019s Optimus team to lead robotic hand development",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGplRElVLTFhXzBBQnRSdVVGVWI5VnAzNkhSUkZKZkhrQ1FkVFU5OUZYMDA3QkNmaHVUS3lrZXFMTGI3cDF4MUphenZ4RjZDR25OSTNaVS0zaGlVUThkaXFqWk51SlVMNzVheDFzSFR2bHh3UXBVSUFLTUctaG1La0xKRDJlSTJWc0JNUFZmTWpYRXl5N0l2eXJxUmhWdm9aUlNNQWNQUE5Ka0dwZmplbUI5Y09oX0FDYmhj0gG7AUFVX3lxTE9FRFF1cEw0R2pnemd5bmxRYjAxVmc3b1hNMkpUWFBDU2duaFF1V0RhOVFFcVdxdkttdk8tT2NXSVlWRWhsdmtCLUc0cHJjVEthRURiZngydXNpZVNYU0U3V0lwS1ZKMGVUZDh6OGlOU3N4dHdNM2RLb01ST0N2SEd2MXJfaWJPQVZxX1BRT2ZCOC10NDB2bkJiU2tidXp5OWVFSXRsMGx0amw4aHRYeWJqQndIYkdTQkEzbFU?oc=5",
+      "pub_date": 1764241211.0,
+      "article_url": "https://www.scmp.com/tech/big-tech/article/3334353/xiaomi-seeks-helping-hand-former-tesla-engineer-robotics-development",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/27/c7c2eeae-93aa-41fe-8c68-839b08836073_d5c3b109.jpg?itok=IGr2noaV&v=1764232500",
+      "description": "Zach Lu Zeyu joins Xiaomi as lead of its dexterous hand research and development operations."
+    },
+    {
+      "headline": "Slipknot-gauged mechanical transmission and robotic operation",
+      "source": "Nature",
+      "source_url": "https://www.nature.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jcFlNV2ltSVlreWNEejB2SmNsUVZ4dUtFUHRLbkdtVjhQbW1raVl6SlpZbDRoVXhEb281azdyaDM5SHlId0YxTXlKbGdEaGJnZzNxQ2I2T1R6Q3FxeG1F?oc=5",
+      "pub_date": 1764178256.0,
+      "article_url": "https://www.nature.com/articles/s41586-025-09673-w",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09673-w/MediaObjects/41586_2025_9673_Fig1_HTML.png",
+      "description": "A mechano-intelligent transmission mechanism based on the slipknot delivers precise force signals for clinical practice and robotic operations such as minimally invasive surgery and tendon-driven robotics."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T17:40:47.144811+00:00"
+  "fetched_at": "2025-11-27T18:18:37.847049+00:00"
 }
