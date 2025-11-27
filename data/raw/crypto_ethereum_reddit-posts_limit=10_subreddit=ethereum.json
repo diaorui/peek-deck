@@ -68,6 +68,17 @@
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     },
     {
+      "title": "EIP-8046: FOCIL with ranked transactions (FOCILR)",
+      "author": "AElowsson",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p7j8dd/eip8046_focil_with_ranked_transactions_focilr/",
+      "published": 1764190535.0,
+      "thumbnail": null,
+      "external_url": "https://eips.ethereum.org/EIPS/eip-8046",
+      "site_name": "Ethereum Improvement Proposals",
+      "favicon": "https://eips.ethereum.org/assets/images/favicon.png",
+      "description": "An introduction to this mechanism is provided here."
+    },
+    {
       "title": "You created a fresh ETH wallet for privacy? Cool. Now how are you funding it without linking it back to you?",
       "author": "haochizzle",
       "url": "https://www.reddit.com/r/ethereum/comments/1p77vmw/you_created_a_fresh_eth_wallet_for_privacy_cool/",
@@ -90,17 +101,6 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
-      "title": "EIP-8046: FOCIL with ranked transactions (FOCILR)",
-      "author": "AElowsson",
-      "url": "https://www.reddit.com/r/ethereum/comments/1p7j8dd/eip8046_focil_with_ranked_transactions_focilr/",
-      "published": 1764190535.0,
-      "thumbnail": null,
-      "external_url": "https://eips.ethereum.org/EIPS/eip-8046",
-      "site_name": "Ethereum Improvement Proposals",
-      "favicon": "https://eips.ethereum.org/assets/images/favicon.png",
-      "description": "An introduction to this mechanism is provided here."
-    },
-    {
       "title": "From Cattle to Crypto: How a Handful of Wyoming Officials Quietly Built a Global Stablecoin",
       "author": "MinimumCountry9858",
       "url": "https://www.reddit.com/r/ethereum/comments/1p7azvb/from_cattle_to_crypto_how_a_handful_of_wyoming/",
@@ -112,5 +112,5 @@
       "description": "FRNT is using Ethereum. Wyoming wants to export the process they pioneered to other states interested in launching stable tokens. Could be big, if Ethereum is chosen as the go-to blockchain for state token commerce."
     }
   ],
-  "fetched_at": "2025-11-27T23:18:35.778450+00:00"
+  "fetched_at": "2025-11-27T23:56:08.446367+00:00"
 }

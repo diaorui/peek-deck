@@ -35,6 +35,16 @@
       "description": "The window to treat AI as a distant future issue is closing."
     },
     {
+      "headline": "China's tech giants move AI model training overseas to access Nvidia chips, FT reports",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KOElNenB3Z2dQblhpb1BISXAxQTkyLXllSGVrNHY2LVd2TG4tb0J0OTE0T3F6eG9aQURKQklzS0gzUWdwVHAxMm9DTEduRmlDaWlMMEROVjJhYkJPQVBFUXFQTjVfVnlBSDFReWpYcll5bFFOU1BjUG1TV1U?oc=5",
+      "pub_date": 1764220980.0,
+      "article_url": "https://finance.yahoo.com/news/chinas-tech-giants-move-ai-052307498.html",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/dff25dfdc23a07408f2e62a11af65bd2",
+      "description": "Alibaba and ByteDance are among the tech firms training their newest large language models in Southeast Asian data centres, the report \u2060said, citing \u200ctwo people with direct knowledge of the matter.  Chinese companies rely on lease agreements for overseas \u200cdata centres owned and operated by non-Chinese entities, the newspaper said, noting that DeepSeek, which gathered a large stock of Nvidia chips before the US export bans, was an exception \u2060with its model being trained domestically."
+    },
+    {
       "headline": "How Google put together the pieces for its AI comeback",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -43,6 +53,16 @@
       "article_url": "https://www.cnbc.com/2025/11/27/how-google-put-together-the-pieces-for-its-ai-comeback.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108228511-1763577992035-gettyimages-2247381802-vcg111604745843.jpeg?v=1764184784&w=1920&h=1080",
       "description": "The company's Gemini 3 and Ironwood AI chip are driving Wall Street's excitement behind Alphabet's AI comeback, but challenges remain."
+    },
+    {
+      "headline": "Nvidia Stock Could Be a Black Friday Bargain Amid Google AI Threat. Here\u2019s Why.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPbWUyeW1IZzBBaXVPMmw4cW1WUE16R3ZQR3R4eV9Way12NmtFdHVfbXRJWEp3aDhrVjU2VGlrS05neW5Gb1V4S1lERXRTSktZUnV5NDQ2ZWx1el9EdkNSUS1SQ2x2LTZEN3NZX1lTSWFkcmxxQU8tYVBpSUluYk16eEhYRllic1hqWWFLN0RPRkNoaDl0eEo1UUswUG9sZVN3YUN5a1lnTHhaa2l2WFl2RFhLSTJDbzR5amZTeE44aFo1SXZkMHBxb3M2RnRCdzBhVnVfNENRTFpaM3dtaVM0VHkxaVY3NHRpc1FKZU40eHhmR1VoeE5aVWtFcWlZb1BENi1Udmh2aEs2NklzcGlSZ3V3dlBCaGlDMW5iMEF0ZGVsdE9qd3A1Um56ZkZaNGZZcFNwMHF6QkZUbUZzbW05VTczVUVDRWlZdlhOSFlsTU9ubmI4X19QejVaZkY4a1R4U2MtSTBIRVFQT1ZTaG5tUFFMOVhxWUlSV2pPTzc0SXM5R2VwVDB1Yw?oc=5",
+      "pub_date": 1764244440.0,
+      "article_url": "https://www.barrons.com/articles/nvidia-stock-black-friday-google-ai-1814e46e?gaa_at=eafs&gaa_n=AWEtsqfUprHxax_62inNMoLNufzEg11N4xlWh095621zjoGdDsQkCW_32WHm&gaa_ts=6928e898&gaa_sig=19u2b4trZ0oomPIzYhTZqWI_E5Xqu6sl1DahDrZ6z3qeR90BXQl27Pa83IMvXHBnh9HwPPcqry70lChItRSL8w%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "AI is upending the porn industry",
@@ -55,56 +75,36 @@
       "description": null
     },
     {
-      "headline": "It's never been easier to AI a Thanksgiving dinner table \u2014 just look at social media",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNWJXZ2dndWlKbVBUNjlIcVIwNElWa1ZucTVVM1V1ckJJclh6aE5MRzZHNHE1UnJwZ2o1ei1RSm9ha2d6U1RlZHpEUnNHOV9CVXRGR1VZNl9WTEF3NnA5SS05d2F0R1VkOFQ5TFZKZmxSeXBLOGpmSlZFNURMU0paRDVkZllaUm9VNTI5UmxUd01zcU5JS1BJWFpRZWlTU2RIdURz?oc=5",
-      "pub_date": 1764280620.0,
-      "article_url": "https://www.businessinsider.com/ai-thanksgiving-dinner-photos-rfk-jr-alex-jones-google-gemini-2025-11",
-      "image": "https://i.insider.com/6928c407e1a9cbb014df22d5?width=1200&format=jpeg",
-      "description": "As Google's Nano Banana Pro makes AI photos more realistic than ever, figures like RFK Jr. and Alex Jones tweeted AI-generated Thanksgiving portraits."
+      "headline": "Creator of AI actress Tilly Norwood addresses claims she'll 'steal jobs' from real stars",
+      "source": "Sky News",
+      "source_url": "https://news.sky.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONmNlTnk3NlY0WEl1Z1NDMWExeERQMU8xcXVQakxyNGsxS3Q1cmVISkNuLXpHQ0hjeWZFblh1QjZLOWRyblNQNWxtenJnaUxEMDFpM05aTzYzNTJPLXQ0XzZfSkJhX2k4U2dUNjlkeG9jaF80UVVNS0VZVWRIWF9LUkRlZkFucnFsQlJVR3VnZlViNURqUzFMOGNZVFVlTXlVUnE3ZFZSZTNESDhmeUVXZW5fN2I3d2FtLVN2VXVn?oc=5",
+      "pub_date": 1764284755.0,
+      "article_url": "https://news.sky.com/story/creator-of-ai-actress-tilly-norwood-addresses-claims-shell-steal-jobs-from-real-stars-13476326",
+      "image": "https://e3.365dm.com/25/11/1600x900/skynews-eline-velden_7094045.jpg?20251127222323",
+      "description": "An AI production studio has been roundly criticised by Hollywood - but its founder has insisted its creations will boost the entertainment industry, not hinder it."
     },
     {
-      "headline": "A.I. and the Trillion-Dollar Question",
+      "headline": "What bubble? The analysts and investors making the bull case for AI",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZdW9jdTZKYlhqbUdTbERKdUFnQmpKZXVRU1M5SGxXazRfLTd1RHdkaVYxS3Y2YndQTGllTDMyUDFOUzA0MVpaY3JCeHpwWGExbmg1UElhM1BtWWhubGxKZzV2Yjg5czNpazVqYWlSeWRtdw?oc=5",
+      "pub_date": 1764246659.0,
+      "article_url": "https://www.cnn.com/2025/11/27/tech/ai-bubble-analysts-bull-case",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243507246.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Chipmaker Nvidia posted yet another blockbuster earnings report this month."
+    },
+    {
+      "headline": "What Is Agentic A.I., and Would You Trust It to Book a Flight?",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVFaLVQzSURxQWxMUG4yNTlXcnhxa2c4cFl5ZkNhb1g5Z2RHVV9oenRXNlNRZ1VMZlNTSkxPY0xJTFVNOVJvQkNNYi0zcnZoV055N1dKSVZyR052NGpCTTd6YWlXVEs5NFpPLWhSZlZkaHlIZUtaMFl2YkNVbUs0SVVQakNQTUV0enQzZVJ0TFB5LUVqdE1F?oc=5",
-      "pub_date": 1764277665.0,
-      "article_url": "https://www.nytimes.com/2025/11/27/world/ai-valuations-markets-technology-hongkong-fire.html",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNThTN1UxWWdPN3RNVG00OUJhUWZSWWdYdjhuQVl4UERTZ0F4MklUcVhSTTA3ZFhaOTJaMzZ1OGtfVjNoMmo1ei10Wnp0VU9QSHJxWnZ3QXRWRm9FNlQ1QzJhc201OWhDYkZOQW1QbjBZYk1TdmJQOEhXMUs4T3VVNjUzdGc?oc=5",
+      "pub_date": 1764064955.0,
+      "article_url": "https://www.nytimes.com/2025/11/25/travel/what-is-agentic-ai-book-flights.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Stocks whipsaw as AI bubble fears, Fed uncertainty rattle Wall Street",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SZWtaSEdVbzRSQ255U1dOZ1BzeDJrRmdZSGMwTU4wUkdXek9HSHR2ekVfUEcwMnZPeVJlTVExMVpkb3RqNVcyc0NwUEVvd0RqbS1mMTNkc1hBcWhpSTVPN2hpZVliQnB5NlFYVVdCcm1lMHBIY2ZNcHJyNmMzZUnSAYQBQVVfeXFMTmFEUllXTk8xbTFvY0hLZFRnQklGRVFDdmNSUFpfS05iRjV0MnVlWE16ZGZ4Q2x2WjJjLWVxTFhlWHpyM292NWIxX1RMRmRyQ3ozY2RzTTNBT19iRHRuVEx5SDk3WGlZSGdsWFdzNEpCSjVBWWxpOFdRc1J4aUpEbjkxY1Vs?oc=5",
-      "pub_date": 1764241200.0,
-      "article_url": "https://thehill.com/policy/technology/5624075-ai-bubble-market-volatility/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "'Green light' away from AI trade: Two ETF executives see a key market shift underway",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTdud0hpenpCbDFLNVRsRXlsU0tYZVo5SW9fRU53QnJzR2FmT1JSa0NfX0stTEJsc1lCc1VIZFFJQzBJanBZenZwODk1ckIwLV9wMThXZFpMekxPY01YYk1uRy1nOEhHcEc2TUVpZV9ydFRxNXY1ZnZ3UVRPVDZuWk4zWW9YS3RSZXpTNURnX3FoOWFWR21WMGJueWx0SUF5QmFmNTJR0gGrAUFVX3lxTE9NcjdMVHdudEVHQndfX2Q0bzE2QTR6VDZ6WHpyWkt1Q19EVXdXd0xvNkZweXVudU1Ya0xhTnRNVkM0dXBkSnJsS05SV0VQUWR0MGlxSzJTckEwZlY2NGZIMWFpMlRRUFd1YVFKcFhsQVdSeGhxQ0p6a1M5M2ZHdXYwLUVNem5OZU0tMGJ2djNiXzZGZHJfT0lrVzdQX003aFFiMFVsNFlxSmxzTQ?oc=5",
-      "pub_date": 1764277201.0,
-      "article_url": "https://www.cnbc.com/2025/11/27/green-light-away-from-ai-trade-two-etf-ceos-see-a-key-market-shift.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108180547-1754063406081-IMG_8885.jpg?v=1754063887&w=1920&h=1080",
-      "description": "Markets may have entered a new cycle. Here's why."
-    },
-    {
-      "headline": "10 AI Stocks I'd Buy Right Now",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56UUlCeld2c2NBY1F4TlBucUFMZGhpQTlsQklZQW1HNEZKTnNDdFRvbXp2RWRlNktWTldlSWtpTXh4bTNTbExpUHdUckRnMzVjTEpkc0J0alRXUlhkMlRJRVR4c21oWl9xQVhWOHdOM19FMDBORjRmMHhfY0Q?oc=5",
-      "pub_date": 1764252000.0,
-      "article_url": "https://www.fool.com/investing/2025/11/27/10-ai-stocks-id-buy-right-now/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844696%2Fgettyimages-2157013127.jpg&w=1200&op=resize",
-      "description": "Artificial intelligence (AI) stocks have sold off significantly over the past 30 days, and while some names remain overvalued, several appear to be bargains for long-term investors."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T23:18:47.356365+00:00"
+  "fetched_at": "2025-11-27T23:56:24.502209+00:00"
 }

@@ -65,16 +65,6 @@
       "description": "There\u2019s a bit of a panic going on in the crypto markets, to say the least, with Bitcoin (CRYPTO:BTC) and Ether (CRYPTO:ETH) both tumbling by a high double-digit percentage in the past month. With Bitcoin hovering around $84,000, there\u2019s concern that more pain could be in the cards as the technical picture gets a bit ... Bitcoin and Ether are Rolling Over. The Crypto Chaos Might Not Be Over"
     },
     {
-      "headline": "Bitcoin Whales Return to Buying for the First Time Since August as Price Recovers Above $90K",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVzlCMUVBQm1uMWdBd1Q0eDlLeUhxTnZzQmVxNGU3QWdaZENaMkhsMHozTlFvZHhvNC13ZTVoRUdWcHdFcmV3c1RjSVBUT0JzNG8xVzFjVHBZaERPR3V1SEJ2eHM4cl95cXhXS3lXNWczWEJpOUt4RTBORXdGaVdwYVdxSGhkaTREX3JCYjh0SzQyYkZKcGM1VDRYTGhCb2tYZHl2Y3ZDQzBHODJxUkRpOFZVWFlvVk02X3QxSUFYV18zMTR2QmJVTlVENU8xTVdqMVVMTQ?oc=5",
-      "pub_date": 1764256538.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/27/bitcoin-whales-return-to-buying-for-the-first-time-since-august-as-price-recovers-above-usd90k",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "The fatal flaw in using bitcoin as a currency",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
@@ -83,6 +73,16 @@
       "article_url": "https://www.ft.com/content/a18c310a-d533-4d03-bb25-53cb11337dd1",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80fc2f5e-ea28-4dc9-ae18-6c879b6eb7a5.jpg?source=next-barrier-page",
       "description": "There is a crypto parallel in the aftermath of Europe\u2019s 14th century bubonic plague"
+    },
+    {
+      "headline": "Bitcoin Whales Return to Buying for the First Time Since August as Price Recovers Above $90K",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVzlCMUVBQm1uMWdBd1Q0eDlLeUhxTnZzQmVxNGU3QWdaZENaMkhsMHozTlFvZHhvNC13ZTVoRUdWcHdFcmV3c1RjSVBUT0JzNG8xVzFjVHBZaERPR3V1SEJ2eHM4cl95cXhXS3lXNWczWEJpOUt4RTBORXdGaVdwYVdxSGhkaTREX3JCYjh0SzQyYkZKcGM1VDRYTGhCb2tYZHl2Y3ZDQzBHODJxUkRpOFZVWFlvVk02X3QxSUFYV18zMTR2QmJVTlVENU8xTVdqMVVMTQ?oc=5",
+      "pub_date": 1764256538.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/27/bitcoin-whales-return-to-buying-for-the-first-time-since-august-as-price-recovers-above-usd90k",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Michael Saylor\u2019s Strategy is now worth less than the Bitcoin it owns",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T23:18:47.570528+00:00"
+  "fetched_at": "2025-11-27T23:56:20.366701+00:00"
 }
