@@ -2,6 +2,17 @@
   "subreddit": "artificial",
   "posts": [
     {
+      "title": "Mexico to build Latin America's most powerful 314-petaflop supercomputer",
+      "author": "sksarkpoes3",
+      "url": "https://www.reddit.com/r/artificial/comments/1p85s5y/mexico_to_build_latin_americas_most_powerful/",
+      "published": 1764259295.0,
+      "thumbnail": "https://external-preview.redd.it/Jx3Xh9MqOzxZaY5sAupk4RPwtwBZjc5d7LBF51nZeGk.jpeg?width=640&crop=smart&auto=webp&s=15d463ef41c2785466be21899eb42d4522dbc7ea",
+      "external_url": "https://interestingengineering.com/innovation/314-petaflop-mexico-powerful-supercomputer",
+      "site_name": "Interesting Engineering",
+      "favicon": "https://interestingengineering.com/icons/apple-icon-57x57.png?v=14",
+      "description": "Mexico announced on Wednesday plans to build Coatlicue, a 314-petaflop supercomputer that will become Latin America's most powerful."
+    },
+    {
       "title": "OpenAI says dead teen violated TOS when he used ChatGPT to plan suicide",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1p7i8r8/openai_says_dead_teen_violated_tos_when_he_used/",
@@ -24,17 +35,6 @@
       "description": "CrowdStrike researchers reveal how trigger words cause DeepSeek-R1 to generate vulnerable code\u2014exposing new AI-driven risks in software development."
     },
     {
-      "title": "Anthropic CEO called to testify on Chinese AI cyberattack | \"For the first time, we are seeing a foreign adversary use a commercial AI to carry out nearly an entire cyber operation with minimal human involvement. That should concern every federal agency and every sector of critical infrastructure.\"",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p826h5/anthropic_ceo_called_to_testify_on_chinese_ai/",
-      "published": 1764250016.0,
-      "thumbnail": "https://external-preview.redd.it/VfA-u8Rw9BFF-J5LqrKdMYeOZRTezU23-kBENUhAfPU.jpeg?width=640&crop=smart&auto=webp&s=00276678b3025136d24756c606db2b338a456e4f",
-      "external_url": "https://www.axios.com/2025/11/26/anthropic-google-cloud-quantum-xchange-house-homeland-hearing",
-      "site_name": "axios.com",
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "MIT study finds AI can already replace 11.7% of U.S. workforce",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1p7c303/mit_study_finds_ai_can_already_replace_117_of_us/",
@@ -44,6 +44,28 @@
       "site_name": "CNBC",
       "favicon": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
       "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
+    },
+    {
+      "title": "ChatGPT maker OpenAI confirms major data breach, exposing user's names, email addresses, and more \u2014 \"Transparency is important to us.\"",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1p85xzi/chatgpt_maker_openai_confirms_major_data_breach/",
+      "published": 1764259691.0,
+      "thumbnail": "https://external-preview.redd.it/GXG5OBerEMkRkrU82EgRfCJW7YUbvcvbQfeN2k-2yDA.jpeg?width=640&crop=smart&auto=webp&s=505756936340f91355c53367d238d084c0f95e58",
+      "external_url": "https://www.windowscentral.com/artificial-intelligence/openai-chatgpt/openai-confirms-major-data-breach-exposing-users-names-email-addresses-and-more-transparency-is-important-to-us",
+      "site_name": "Windows Central",
+      "favicon": "https://cdn.mos.cms.futurecdn.net/flexiimages/gvnkdor1vl1647264367.png",
+      "description": "Users are waking up to discover OpenAI leaked their data this morning via a faulty third-party plugin. Here's what you need to know."
+    },
+    {
+      "title": "Anthropic CEO called to testify on Chinese AI cyberattack | \"For the first time, we are seeing a foreign adversary use a commercial AI to carry out nearly an entire cyber operation with minimal human involvement. That should concern every federal agency and every sector of critical infrastructure.\"",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p826h5/anthropic_ceo_called_to_testify_on_chinese_ai/",
+      "published": 1764250016.0,
+      "thumbnail": "https://external-preview.redd.it/VfA-u8Rw9BFF-J5LqrKdMYeOZRTezU23-kBENUhAfPU.jpeg?width=640&crop=smart&auto=webp&s=00276678b3025136d24756c606db2b338a456e4f",
+      "external_url": "https://www.axios.com/2025/11/26/anthropic-google-cloud-quantum-xchange-house-homeland-hearing",
+      "site_name": "axios.com",
+      "favicon": null,
+      "description": null
     },
     {
       "title": "AI is great at tasks but is not good at switching topics",
@@ -68,26 +90,15 @@
       "description": "McKinsey &amp; Co. cut about 200 global tech jobs in the past week as the consulting firm joins rivals in using artificial intelligence to automate some positions."
     },
     {
-      "title": "Uber headhunted PhDs to join 'Project Sandbox.' After a month, it said that their AI training contracts were over.",
-      "author": "businessinsider",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7fz31/uber_headhunted_phds_to_join_project_sandbox/",
-      "published": 1764182956.0,
-      "thumbnail": "https://external-preview.redd.it/Vh4yniD2flbdFRSvEuyg3TdMsS1X7G37g4ZU6tfa1g4.jpeg?width=640&crop=smart&auto=webp&s=8407b8f9798a1c15bc89404c4437a358b94f2ba8",
-      "external_url": "https://www.businessinsider.com/uber-project-sandbox-shows-ai-training-contractors-the-door-2025-11?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "Uber's Project Sandbox used contractors to train AI for Google. On Monday, Uber told some of them their work was over early."
-    },
-    {
-      "title": "What happens when sentient AI intelligences outnumber human intelligences a million to 1?",
-      "author": "nnrain",
-      "url": "https://www.reddit.com/r/artificial/comments/1p84ks7/what_happens_when_sentient_ai_intelligences/",
-      "published": 1764256345.0,
+      "title": "So I Made An AI Cover Song Game You Can Play With Family Today! Have Fun!!",
+      "author": "latetothetable",
+      "url": "https://www.reddit.com/r/artificial/comments/1p862gu/so_i_made_an_ai_cover_song_game_you_can_play_with/",
+      "published": 1764259999.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Will it be possible to still align AI to humanity's benefit when humans will consist 0.00001% of the sentient intelligences on Earth?"
+      "description": "Name That Cover So it's a pretty simple concept! You go in Party mode with friends and family, and you guys just try to guess the name of the original song. I played a more manual version of this like a week ago and my friends LOVED it so maybe your friends and family will love it too! Feel free to request songs and I'll try to add them ASAP, and if you like songs while logged in you can go back and listen to the AI covers in your profile. I'm totally down to hear any and all feedback! Also I'm fully aware the \"Songs of the Day\" mode is bugged on mobile and not working properly."
     },
     {
       "title": "Popular AI chatbots have an alarming encryption flaw \u2014 meaning hackers may have easily intercepted messages",
@@ -99,18 +110,7 @@
       "site_name": "Live Science",
       "favicon": "https://vanilla.futurecdn.net/livescience/1479220/apple-touch-icon.png",
       "description": "Cybersecurity researchers have uncovered a critical vulnerability in the architecture of large language models underpinning generative AI, but how dangerous is this flaw?"
-    },
-    {
-      "title": "HP to Cut Up to 10% of Workforce as Part of AI Push",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p82k67/hp_to_cut_up_to_10_of_workforce_as_part_of_ai_push/",
-      "published": 1764251103.0,
-      "thumbnail": "https://external-preview.redd.it/YTiFtiNgyKJXg69cOL0-Sijb_kz4IM0VGKnp1jdIvXA.jpeg?width=640&crop=smart&auto=webp&s=d32fb458742d0633cb4ab11f9a23a540b455f96d",
-      "external_url": "https://www.wsj.com/tech/hp-to-cut-up-to-10-of-workforce-as-part-of-ai-push-a2c198da",
-      "site_name": "wsj.com",
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-11-27T15:26:13.834946+00:00"
+  "fetched_at": "2025-11-27T16:23:57.419395+00:00"
 }

@@ -57,6 +57,17 @@
       "description": "Knucklebuster arm prototype test, its a test torso that i Will upgrade till It resembles v1. The arm has one nema 17 stepper motor in the upper arm and a nema 14 at the middle, maybe i'll use a Raspberry pi 5 with ai for controlling everything but, i'm open to suggestions!"
     },
     {
+      "title": "Capstone project",
+      "author": "Rinzui__",
+      "url": "https://www.reddit.com/r/robotics/comments/1p85q6y/capstone_project/",
+      "published": 1764259170.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hello, can anyone please help me think larger? For my high school senior year capstone project, I am planning on making a device that accurately detects the flood inside the house, and when reached a certain threshold (water height), immediately (1), sends sms to the home owner, (2), immidiately turns off electricity inside the house. (3, extremely tentative) opens emergency exits, before shutting power. Here in the Philippines, city power takes hours to turn off the power in certain flooded areas, due to recent typhoons, floods can reach 3 ft in urban areas in as fast as 30 minutes. People are heavily prone to electrocution. Some homes even has no breaker system (they're called \"jumpers\", wherein they steal electricity from other homes.) I need something more innovative in addition to what's already in the table, our instructor gave us until march to finish the scientific paper and the main prototype. Any suggestions? Thanks in advance! -Rin"
+    },
+    {
       "title": "Robotera L7 and Fourier GR-2",
       "author": "AcademicDimension957",
       "url": "https://www.reddit.com/r/robotics/comments/1p7ydx9/robotera_l7_and_fourier_gr2/",
@@ -66,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hi guys! I wanted to ask whether anyone has any experience with the Robotera L7 dexterous humanoid or the Fourier GR-2. Both seem quite dexterous (12 DoF hands) but I have heard mixed opinions especially for the Fourier GR-2's joint encoders. I would extremely appreciate any thoughts on those humanoids or if anyone has real world experience with them."
+    },
+    {
+      "title": "What can I do to transition into the robotics industry?",
+      "author": "Early_Acanthisitta88",
+      "url": "https://www.reddit.com/r/robotics/comments/1p85gpi/what_can_i_do_to_transition_into_the_robotics/",
+      "published": 1764258522.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Slambot - My custom built 'diff-drive' ROS2 powered robot which does SLAM mapping and autonomous navigation.",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Recently, I\u2019ve been researching about World Models, and I\u2019m increasingly convinced that humanoid robots will need strong world understanding to achieve task generalization and true zero-shot learning. I feel that World Models will play a crucial role in building general-purpose robots. What are your thoughts on this? Also, do you think robotics will eventually be dominated by World-Model-based approaches?"
-    },
-    {
-      "title": "How do you even label unexpected behavior in the real world?",
-      "author": "Mtukufu",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7xg2l/how_do_you_even_label_unexpected_behavior_in_the/",
-      "published": 1764233469.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "It\u2019s fairly straightforward to label training data when everything happens in a clean, controlled environment. But once you step into real-world robotics, the situation becomes messy fast. There are weird edge cases, rare events, unexpected collisions, unpredictable human interactions, drifting sensors, and all kinds of unknowns that don\u2019t show up in simulation. Manually reviewing and labeling every single one of these anomalies is incredibly slow and resource-intensive. For those working with embodied AI, manipulation, locomotion, or autonomous navigation, how do you realistically keep up with labeling this chaotic real-world data? Are you using automated labeling tools, anomaly detectors, heuristics, synthetic augmentation, active learning, or just grinding through manual review? Curious to hear how other teams are approaching this."
-    },
-    {
-      "title": "I made a small half-humanoid for fun",
-      "author": "MRBBLQ",
-      "url": "https://www.reddit.com/r/robotics/comments/1p6u288/i_made_a_small_halfhumanoid_for_fun/",
-      "published": 1764118676.0,
-      "thumbnail": "https://external-preview.redd.it/N2Z0dWdiZmYyaTNnMa8SzFkTQ_ByUkQjY00jMMW4OABw48MRg-CaPAghg-co.png?width=640&crop=smart&auto=webp&s=9a4bcfa72bf4d4648a838bc86899054d67aac2eb",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi everyone, I just built this half-humanoid for human robot interaction research and figured it would be fun if I open-source it. You can find it here: https://github.com/Meet-Bebo/bebo_jr I included my print files, bom, onshape and even simulation files (urdf and mujoco). It also have a simple motion retargeting pipeline if you want to try teleop a simulated version with your webcam. I\u2019ve created a few test applications on this so far, from agents to home assistant plugin to spotify connect. I\u2019ll share more soon as I create the tutorials, but for now you can follow the repo for more progress updates. The next to-do is to create a motion diffusion policy for this from songs, so I can turn it into a hyper music player. If you have pointers on this, hmu. I\u2019d love to have feedback on the design of the robot and the functionalities as well. I did this project for learning and it\u2019s only been 2 weeks since I started, so I still have a lot of ground to cover."
     }
   ],
-  "fetched_at": "2025-11-27T15:26:16.516819+00:00"
+  "fetched_at": "2025-11-27T16:23:59.793424+00:00"
 }

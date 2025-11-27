@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "AI can already do the work of 12% of America's workforce, MIT researchers find",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44UF9fODFDSXVRY0g2eGR2OUZDeWJNNXkyazdpTXBiaVFVcU1nazhnMU5FZjJOX3JIN09HZDgyM3RQa3pLV1B4RThrTUNtWEQ3YkRzOVo4YjMtdlFIWjh3aXk1Wk11RTVTck1TU3Y2X3BXYnYtSjBlWmR5Z09vZ2PSAYQBQVVfeXFMTWxzZTJtZkdtRk9TVG9rb2hoN2xqU2dJZXAxd3M4Yi1HTXl6NkVxeUtaeDFhN0JTU21IcVBLUXpLMUlKX2RvV3NVcVEwMDhqZmJWS0d3NGVtbXcxVFYybjdMeFhONnBHblhCT3otVXI1RjdrOWhzX2lOTE9EMHRicXdTMG1n?oc=5",
-      "pub_date": 1764197820.0,
-      "article_url": "https://www.cbsnews.com/news/ai-artificial-intelligence-workers-mit-study/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/26/1a6fc6cd-ea80-4468-977a-7a46e4002cbb/thumbnail/1200x630/c93034e11ba8c92f4d25914d01b97e08/gettyimages-2234175849.jpg",
-      "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
-    },
-    {
       "headline": "MIT study finds AI can already replace 11.7% of U.S. workforce",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -23,6 +13,16 @@
       "article_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108232119-1764112994142-gettyimages-2209860667-AFP_42FT68T.jpeg?v=1764166052&w=1920&h=1080",
       "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
+    },
+    {
+      "headline": "AI can already do the work of 12% of America's workforce, MIT researchers find",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44UF9fODFDSXVRY0g2eGR2OUZDeWJNNXkyazdpTXBiaVFVcU1nazhnMU5FZjJOX3JIN09HZDgyM3RQa3pLV1B4RThrTUNtWEQ3YkRzOVo4YjMtdlFIWjh3aXk1Wk11RTVTck1TU3Y2X3BXYnYtSjBlWmR5Z09vZ2PSAYQBQVVfeXFMTWxzZTJtZkdtRk9TVG9rb2hoN2xqU2dJZXAxd3M4Yi1HTXl6NkVxeUtaeDFhN0JTU21IcVBLUXpLMUlKX2RvV3NVcVEwMDhqZmJWS0d3NGVtbXcxVFYybjdMeFhONnBHblhCT3otVXI1RjdrOWhzX2lOTE9EMHRicXdTMG1n?oc=5",
+      "pub_date": 1764197820.0,
+      "article_url": "https://www.cbsnews.com/news/ai-artificial-intelligence-workers-mit-study/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/26/1a6fc6cd-ea80-4468-977a-7a46e4002cbb/thumbnail/1200x630/c93034e11ba8c92f4d25914d01b97e08/gettyimages-2234175849.jpg",
+      "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
     },
     {
       "headline": "MIT report: AI can already replace nearly 12% of the U.S. workforce",
@@ -45,66 +45,66 @@
       "description": "Amazon Employees for Climate Justice says that over 1,000 workers have signed a petition raising \u201cserious concerns\u201d about the company\u2019s \u201caggressive rollout\u201d of artificial intelligence tools."
     },
     {
-      "headline": "AI is upending the porn industry",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZFJQTU1XOExNVGFCc25xZ1llOGRVTTRGUGtOTGRKWjhGYkV6S1RBNG4ySkQydFBDMUJvVHJkWU42OGI1Vk14cWtuS1BUdzVIZTQwQkFFeDlIbVQ3Z0tHZDltTWhpX0ZQelc5N29QQVZUdUxPOVZ4MDhFVXVEb1hMU2VqUFB4bWVNSGNF?oc=5",
-      "pub_date": 1764252394.0,
-      "article_url": "https://www.economist.com/international/2025/11/27/ai-is-upending-the-porn-industry",
-      "image": null,
-      "description": null
+      "headline": "Epic's Sweeney says platforms should stop tagging games made with AI",
+      "source": "GamesIndustry.biz",
+      "source_url": "https://www.gamesindustry.biz",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGsxRVkwZERsTkxSTVozZ1BReWVBVkJRaC1LMnduOFF2RmVwSXY3cGRVZFQ5SnlrejhHRDBrNU9mNTFyX0tVX1c5SVBoWWthS0xLaWN4em1vNE5HTXduVzV2bDdnQUl0MzM1NDItci0tdzcyU0dfYUx4QmFnalREUTlfQ3BLNXltS2MxNXJmNDlBazlmdjlVS3V3UVpDUQ?oc=5",
+      "pub_date": 1764257400.0,
+      "article_url": "https://www.gamesindustry.biz/epics-sweeney-says-platforms-should-stop-tagging-games-made-with-ai",
+      "image": "https://assetsio.gnwcdn.com/fortnite-brute-robot.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "description": "The CEO of Epic Games, Tim Sweeney, has argued that platforms like Steam should not label games that are made using AI."
     },
     {
-      "headline": "10 AI Stocks I'd Buy Right Now",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56UUlCeld2c2NBY1F4TlBucUFMZGhpQTlsQklZQW1HNEZKTnNDdFRvbXp2RWRlNktWTldlSWtpTXh4bTNTbExpUHdUckRnMzVjTEpkc0J0alRXUlhkMlRJRVR4c21oWl9xQVhWOHdOM19FMDBORjRmMHhfY0Q?oc=5",
-      "pub_date": 1764252000.0,
-      "article_url": "https://www.fool.com/investing/2025/11/27/10-ai-stocks-id-buy-right-now/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844696%2Fgettyimages-2157013127.jpg&w=1200&op=resize",
-      "description": "Artificial intelligence (AI) stocks have sold off significantly over the past 30 days, and while some names remain overvalued, several appear to be bargains for long-term investors."
+      "headline": "Epic boss Tim Sweeney thinks stores like Steam should stop labelling games as being made with AI: 'It makes no sense,' he says, because 'AI will be involved in nearly all future production'",
+      "source": "PC Gamer",
+      "source_url": "https://www.pcgamer.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOeDdDNTh3bGtNS21FdG5IRVo1T1Fwb1lYX2RPeENLc2hMZjV2WGVldTdPT1NENlhBLXJtWHU1b1RfRGh6X3NvUTJndE10cldZeGhDMW0yLUR0MGtsckZ5YzN1cFlQTTVYN2d2Tmx2bWprLW9VbWtUOWxrYmxmUEU5MFFYWWZaTUpiYzJRd0daNFlrUjZTM3VycW9aOUl5aS1aNUdVb2ZFMzlNU3VnU3VVRG9RSzFWcUFuYkE4NW45aUc5ZHpwTVo4S1l0R255Wm9idjg0cXM2bXVoMXhLbHlHamFpSHFrbWNhVGxxWkZjN3FXQ19PNFVDOTdqUlB0OTVtMmpleUgxVUtWQTlkd0hIa0xQRWZ0NUdOZFVWR2FYelNpX1puM0hxS0N1Znd6ZFZxVWJQRWtucWUyOU1ubjBQZg?oc=5",
+      "pub_date": 1764188018.0,
+      "article_url": "https://www.pcgamer.com/software/ai/epic-boss-tim-sweeney-thinks-stores-like-steam-should-stop-labelling-games-as-being-made-with-ai-it-makes-no-sense-he-says-because-ai-will-be-involved-in-nearly-all-future-production/",
+      "image": "https://cdn.mos.cms.futurecdn.net/h3f5g59boSWvw7EAoqRYRk-2560-80.jpg",
+      "description": "Don't need a notice if everyone's doing it."
     },
     {
-      "headline": "Microsoft CEO Satya Nadella Admits 'I Don't Have Warm Shells To Plug Into' \u2014 While OpenAI CEO Sam Altman Warns Cheap Energy Could Upend AI",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWlNSWXRtZHNGU1ZPX0dXUHhwM2NPWXU5NGtXbVpNTExFSF9OdHU4YXVaSUlQNlJIUi1vTUdNZ3o3MnN3U1FnemJUZTAxc3RRREt5ZlBpVjF6OFFMNGpRYUR6UEhObERlZUpoU0FfS0l3RUhBbW8zbUNNVDhGZDNiNlZBT21PRkE?oc=5",
-      "pub_date": 1764253826.0,
-      "article_url": "https://finance.yahoo.com/news/microsoft-ceo-satya-nadella-admits-143026640.html",
-      "image": "https://media.zenfs.com/en/Benzinga/9caa5ecf8e8159d11695db699bea6ffd",
-      "description": "Artificial intelligence may have hit an unexpected snag \u2014 there aren't enough powered data centers to keep up with the machines driving it. And now, Microsoft (NASDAQ:MSFT) has AI chips sitting idle because there's nowhere to plug them in. On the \"BG2Pod,\" a technology and investing podcast hosted by Brad Gerstner and Bill Gurley and featuring OpenAI CEO Sam Altman, Microsoft CEO Satya Nadella said the shortage of power has become the industry's biggest constraint. Don't Miss: The AI Marketing P"
+      "headline": "Opposing Steam's AI disclosures, Epic CEO Tim Sweeney says game stores should drop \"the AI tag\" because \"it makes no sense\" when \"AI will be involved in nearly all future production\"",
+      "source": "GamesRadar+",
+      "source_url": "https://www.gamesradar.com",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQRk1TTENPRmRQeFBOa0R5RmxGUzhyT1FDZzItbUdoVFhtOGdSaHBJWFN6WjZpX0x6SWxrbldhSk5ST2F6aTBRN3Z2bElPMWZ4aF96cjBabkxQSGVfdWlmaUtJbmtzbHNGSFhjOTdIVWRtd1hrUkVwQkgxcHpGTFVrZk12aXl5SGYtRkFpZGY0M1hEOFQwQkMtX0FoMzJ1Q1ZuN01FMERmN2h1UTZfWllKbzZQemgyaUx5MXRLTjFJdmpRQ204cVBoV2VMREJIQURUMm8wbjVSR2V5NE1BMGhEZTl3LWlQRXNHNjBYRUFwQWVmQ19Cd1ZBeXpfVE1YVUVxbHFPRDFCY0RQZGlzSjNaZm9KNm5iZGhueWpGTXJMb2QtMkdtM3BXRkZQdVI3MUh1NkE?oc=5",
+      "pub_date": 1764176076.0,
+      "article_url": "https://www.gamesradar.com/games/opposing-steams-ai-disclosures-epic-ceo-tim-sweeney-says-game-stores-should-drop-the-ai-tag-because-it-makes-no-sense-when-ai-will-be-involved-in-nearly-all-future-production/",
+      "image": "https://cdn.mos.cms.futurecdn.net/yK84RLTutLwtN4DZqdEemR-1920-80.jpg",
+      "description": "Steam has actually made AI disclosures even more prominent"
     },
     {
-      "headline": "AI shopping wars: Walmart, Amazon, Target, Google, Meta, OpenAI unveil new tools",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhaTZDTnJsN2Z4SEg3Qk9paHduR1BySVJpTDdQYkwxVWtZWUcxRERfLVF6eDBzUzI1SmtCbmxRNi1hWEVHSVEydkV2NTNDNHBFOVRKRy1CNzFqcnByUTFfNmJreXBxVUwtSHp2X1U5d0w3YllxdGdnSmxSREd5VW8?oc=5",
-      "pub_date": 1764248557.0,
-      "article_url": "https://www.axios.com/2025/11/27/ai-shopping-tools-christmas-gifts-chatgpt",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "China\u2019s tech giants take AI model training offshore to tap Nvidia chips",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWMzY2bnNzV1Y4QWszYUd4V01JUTVZR1A4YThfUFd4OGdrT3JGV1dYNnBUVzZaalN5SHNFZnBDTTNiRVNpb1h3S3lYdE9qeDBvSENkUXY3b3B5MU1SU01IcUxEaHZaVjIzNTZsdERaWXQ?oc=5",
-      "pub_date": 1764219640.0,
-      "article_url": "https://www.ft.com/content/96fe9898-a3a4-4a33-be1d-da06bdb6cb2b",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4d92d536-db90-4f4d-9e72-8b3e8659d182.jpg?source=next-barrier-page",
-      "description": "Alibaba and ByteDance shift development to south-east Asia to sidestep US curbs"
-    },
-    {
-      "headline": "China's tech giants move AI model training overseas to access Nvidia chips, FT reports",
+      "headline": "Alibaba starts selling Quark AI glasses in China, enters global wearables race",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYzVJeTN5ZTBJZzJ2UXk5ZjluTUxKZC11aDdmRmdGWEtVLUF4TVdrQjVlWHoyY0pGakxyWlFNLWhQa0UtRk5NYUNyWktGSFdUbDk4Q3VGQlJoQlpDSTJ5aXRyOUdQQXU0dllKa2ZraUF4dFctM2o3ZkpFR1NrN29QTEZsUDhuanNOSVdTeUQxQzEtUnY2WHpDSWVZMGpJZ2dNQmE1N2xQekhnai01aFppcXNtb1NUNHpxN1g0a0RyS0k3eHUz?oc=5",
-      "pub_date": 1764239291.0,
-      "article_url": "https://www.reuters.com/world/china/chinas-tech-giants-move-ai-model-training-overseas-tap-nvidia-chips-ft-reports-2025-11-27/",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0xjVjFWTi1UcFR0TW1WSmZQN3J3TTFzdEltNkFBYU8xUS1wc3JaRE1JbzlWS3lmUXFMUGlKNm92OTNGNk1YZmQ5WHVpNjBfaGJ5SlR5REYtWXVtMFI0UjZyR0VOUGxUN1JGNWpPSWR0ek5rZV9KLWhIaDVGVHBiR01PRGxJZXJSRDdURXNjZkwtQlZPQk5WSHgzRmZzOTZYSjl3WE1QRFZIRjAwMzBIcXZqdjhCcDJabTNOZ0c1NA?oc=5",
+      "pub_date": 1764239192.0,
+      "article_url": "https://www.reuters.com/world/china/alibaba-starts-selling-quark-ai-glasses-china-enters-global-wearables-race-2025-11-27/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Alibaba's AI glasses to rival Meta go on sale for $500",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUU8tS2xyM3VlM2NTcEJqOVJ0VGxtUzlhbnlUeklsSTRXUVRwN0x2LTU5QTBOUmNCZnVTVnd5MjBSU1ZPN1pYVzFaSDF3WmpGWnFSWUktd0gtT2o0dmFOWjhBSmZCckdwRDlfM1BLTVZMc2daLWZoVzVBb0dacnhnMDZxc0dkdU5jOGdiWNIBkgFBVV95cUxQNlBhUXk5OXBsU1JWeGdYcGxPbHhWR1pYdE9pZTVCaVAyVlBsRGVOVGY4aEcwcmNPaDVvLWRYaGxUMzAtWlh2TGdQMU1JNTZpOU1QRkIzamN5YzNHNERmMnFSeU1qalF6WWtlbVRaRDhUX1NJRlVNc19oQzFJNlpkTzJORTdtRTZZTWc0S3NKQ0lVUQ?oc=5",
+      "pub_date": 1764234427.0,
+      "article_url": "https://www.cnbc.com/2025/11/27/alibaba-quark-ai-glasses-go-on-sale-price-specs.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108177567-1753687050071-Alibaba_AI_glasses.jpg?v=1753690514&w=1920&h=1080",
+      "description": "Alibaba, like other tech giants such as Meta, are betting that smart glasses could be the next big consumer device after the smartphone."
+    },
+    {
+      "headline": "Tech giants bet consumers are finally ready to strap on smart glasses",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qb3FXczhlcVJLNzd5S1gyUHRra05WN2lzcnJhWThnQW93TENJUVlxaURZOGZib3VLeGJhT3VHajRqV0U1WDduNDAwRDQxMk5XUVdDSTNIUnkzeWFDeHFXZWVUYjJ6Z3JVNFJ5QWVnaUdaRElDU09uSzVSZ3rSAYIBQVVfeXFMTUlHMTNiRUNoN0RITkxCM0dja1c0LTBVczVyZ3Njek1lV3p0Z0dYd3VlUC1kbWFLU25MNzFKNmhmTDV4eFFIXzRURVd5Wll0V2RmNHRyenZMRGxXcEFwOFNsbkp3UnBqNUxlTVVIaWVuVlNrOTFuOXdKellGQjlRVEZ6QQ?oc=5",
+      "pub_date": 1764257925.0,
+      "article_url": "https://www.cbsnews.com/news/ai-glasses-alibaba-quark-qwen-meta-ray-ban/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/27/5340ac11-a3c0-49f5-9106-aaea81edc8f9/thumbnail/1200x630/e32275bce75988df4882b3aef4210326/gettyimages-2235445157.jpg",
+      "description": "Tech giants including Alibaba, Amazon and Meta are counting on AI as the \"killer app\" that convinces consumers to try smart glasses."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T15:26:32.863910+00:00"
+  "fetched_at": "2025-11-27T16:24:12.688122+00:00"
 }
