@@ -2,17 +2,6 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "butterfly robot!",
-      "author": "whatever_0709",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7u6wz/butterfly_robot/",
-      "published": 1764221817.0,
-      "thumbnail": "https://external-preview.redd.it/aXgxaXVwNzhscTNnMaWuVypsQZw8tQxTCTqrmEh27-F0ZqPtbYPuy9PrZqKq.png?width=640&crop=smart&auto=webp&s=f07f91e3da40f40d305f3317a8f3ccc81f8977ba",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Chinese students are out here creating machine-generated butterflies\u2026 Like\u2014this isn\u2019t nature anymore, it\u2019s engineering with \u2728vibes\u2728. I\u2019m officially impressed \ud83e\udd8b\ud83e\udd16"
-    },
-    {
       "title": "The pattern that VinciBot drew is actually quite neat.",
       "author": "GOLFJOY",
       "url": "https://www.reddit.com/r/robotics/comments/1p7qst0/the_pattern_that_vincibot_drew_is_actually_quite/",
@@ -24,6 +13,17 @@
       "description": null
     },
     {
+      "title": "butterfly robot!",
+      "author": "whatever_0709",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7u6wz/butterfly_robot/",
+      "published": 1764221817.0,
+      "thumbnail": "https://external-preview.redd.it/aXgxaXVwNzhscTNnMaWuVypsQZw8tQxTCTqrmEh27-F0ZqPtbYPuy9PrZqKq.png?width=640&crop=smart&auto=webp&s=f07f91e3da40f40d305f3317a8f3ccc81f8977ba",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Chinese students are out here creating machine-generated butterflies\u2026 Like\u2014this isn\u2019t nature anymore, it\u2019s engineering with \u2728vibes\u2728. I\u2019m officially impressed \ud83e\udd8b\ud83e\udd16"
+    },
+    {
       "title": "I'm building v1 from ultrakill!!!",
       "author": "Own_Minimum8642",
       "url": "https://www.reddit.com/r/robotics/comments/1p7l8rt/im_building_v1_from_ultrakill/",
@@ -33,6 +33,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Knucklebuster arm prototype test, its a test torso that i Will upgrade till It resembles v1. The arm has one nema 17 stepper motor in the upper arm and a nema 14 at the middle, maybe i'll use a Raspberry pi 5 with ai for controlling everything but, i'm open to suggestions!"
+    },
+    {
+      "title": "AgileX unveiled a robotic arm two days ago: NERO. 3KG payload + 7DOF arm at $2500 without hand",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7za49/agilex_unveiled_a_robotic_arm_two_days_ago_nero/",
+      "published": 1764240494.0,
+      "thumbnail": "https://external-preview.redd.it/b3lubTJ5YmM0czNnMfAbFN_26xAZ4PVGHITEzyJsbPuxAbz-n0ZhkXdGKWOP.png?width=640&crop=smart&auto=webp&s=3e7955140ce6a81a9ce73afcf5bb32dd1e75e0e0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "AgileX Robotics on \ud835\udd4f: https://x.com/AgilexRobotics/status/1993218134246076721 Website: https://global.agilex.ai/"
     },
     {
       "title": "Robotera L7 and Fourier GR-2",
@@ -99,18 +110,7 @@
       "site_name": "youtu.be",
       "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
       "description": "I wanted to share this custom robotics controller that I built with my son. We used two ESP32 S3 chips that cooperate to control everything. One is responsible for the user interface stuff, and the other is dedicated to motor control. I\u2019ve used older ESP32 WROOM modules in the past. The native USB on the S3 is super nice. Kind of a shameless plug, but I figure lots of people out there are building similar things. Feedback is welcome!"
-    },
-    {
-      "title": "Kyber Labs hand rotates a nut on a bolt at super high speed, fully in real time with no edits",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1p69bkz/kyber_labs_hand_rotates_a_nut_on_a_bolt_at_super/",
-      "published": 1764067423.0,
-      "thumbnail": "https://external-preview.redd.it/d2tzdmZmbHp0ZDNnMZt21T7gZIc6qgnt26ZnwmtkE82GCAbBQduNZc7moJzt.png?width=640&crop=smart&auto=webp&s=81c8be457a0852ae9a14189b4ecfa7fdec27537b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Kyber Labs on \ud835\udd4f : \"Our hand rotates a nut on a bolt at super high speed, fully in real time with no edits. This is possible because it\u2019s fully backdrivable and torque transparent so it adapts naturally to the nut. The result is simpler, more reliable manipulation for software and learning systems.\": https://x.com/KyberLabsRobots/status/1993060588789137785 Website: https://kyberlabs.ai"
     }
   ],
-  "fetched_at": "2025-11-27T10:27:41.124584+00:00"
+  "fetched_at": "2025-11-27T10:59:25.846152+00:00"
 }
