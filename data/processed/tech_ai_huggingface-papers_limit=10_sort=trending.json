@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2511.18423",
       "arxiv_url": "https://arxiv.org/abs/2511.18423",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.18423.png",
-      "upvotes": 135,
+      "upvotes": 134,
       "num_comments": 2,
       "published_at": "2025-11-23T07:29:33.000Z",
       "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
@@ -172,26 +172,26 @@
       "project_page": "https://gigaworld0.github.io/"
     },
     {
-      "id": "2509.00531",
-      "title": "MobiAgent: A Systematic Framework for Customizable Mobile Agents",
-      "authors": "Cheng Zhang, Erhu Feng, Xi Zhao et al. (10 authors)",
+      "id": "2510.22543",
+      "title": "FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable\n  Reasoning",
+      "authors": "Yuyang Ding, Chi Zhang, Juntao Li et al. (6 authors)",
       "organization_name": null,
       "organization_fullname": null,
       "organization_avatar": null,
-      "summary": "With the rapid advancement of Vision-Language Models (VLMs), GUI-based mobile\nagents have emerged as a key development direction for intelligent mobile\nsystems. However, existing agent models continue to face significant challenges\nin real-world task execution, particularly in terms of accuracy and efficiency.\nTo address these limitations, we propose MobiAgent, a comprehensive mobile\nagent system comprising three core components: the MobiMind-series agent\nmodels, the AgentRR acceleration framework, and the MobiFlow benchmarking\nsuite. Furthermore, recognizing that the capabilities of current mobile agents\nare still limited by the availability of high-quality data, we have developed\nan AI-assisted agile data collection pipeline that significantly reduces the\ncost of manual annotation. Compared to both general-purpose LLMs and\nspecialized GUI agent models, MobiAgent achieves state-of-the-art performance\nin real-world mobile scenarios.",
-      "ai_summary": "MobiAgent, a comprehensive mobile agent system, achieves state-of-the-art performance in real-world mobile scenarios through its MobiMind-series models, AgentRR framework, and MobiFlow benchmarking suite, while also reducing data annotation costs.",
-      "hf_url": "https://huggingface.co/papers/2509.00531",
-      "arxiv_url": "https://arxiv.org/abs/2509.00531",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2509.00531.png",
-      "upvotes": 6,
-      "num_comments": 2,
-      "published_at": "2025-08-30T11:24:47.000Z",
-      "github_repo": "https://github.com/IPADS-SAI/MobiAgent",
-      "github_stars": 809,
-      "project_page": null
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reasoning trajectories and\nexploit rollouts with correct answers as positive signals for policy\noptimization. However, these rollouts might involve flawed patterns such as\nanswer-guessing and jump-in-reasoning. Such flawed-positive rollouts are\nrewarded identically to fully correct ones, causing policy models to\ninternalize these unreliable reasoning patterns. In this work, we first conduct\na systematic study of flawed-positive rollouts in RL and find that they enable\nrapid capability gains during the early optimization stage, while constraining\nreasoning capability later by reinforcing unreliable patterns. Building on\nthese insights, we propose Flawed-Aware Policy Optimization (FAPO), which\npresents a parameter-free reward penalty for flawed-positive rollouts, enabling\nthe policy to leverage them as useful shortcuts in the warm-up stage, securing\nstable early gains, while gradually shifting optimization toward reliable\nreasoning in the later refinement stage. To accurately and comprehensively\ndetect flawed-positive rollouts, we introduce a generative reward model (GenRM)\nwith a process-level reward that precisely localizes reasoning errors.\nExperiments show that FAPO is effective in broad domains, improving outcome\ncorrectness, process reliability, and training stability without increasing the\ntoken budget.",
+      "ai_summary": "Flawed-Aware Policy Optimization (FAPO) enhances reinforcement learning with verifiable rewards by penalizing flawed-positive rollouts, improving reasoning capability and training stability in large language models.",
+      "hf_url": "https://huggingface.co/papers/2510.22543",
+      "arxiv_url": "https://arxiv.org/abs/2510.22543",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.22543.png",
+      "upvotes": 10,
+      "num_comments": 1,
+      "published_at": "2025-10-26T01:49:38.000Z",
+      "github_repo": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
+      "github_stars": 16722,
+      "project_page": "https://fapo-rl.github.io/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-27T09:44:44.083634+00:00"
+  "fetched_at": "2025-11-27T10:47:57.463092+00:00"
 }
