@@ -2,6 +2,17 @@
   "subreddit": "ethereum",
   "posts": [
     {
+      "title": "Daily General Discussion November 27, 2025",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p7umek/daily_general_discussion_november_27_2025/",
+      "published": 1764223250.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
+    },
+    {
       "title": "Daily General Discussion November 26, 2025",
       "author": "EthereumDailyThread",
       "url": "https://www.reddit.com/r/ethereum/comments/1p703si/daily_general_discussion_november_26_2025/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
-    },
-    {
-      "title": "The Fusaka Files #4 \u2014 Wallet Support & EIP-7951 with Alex Stokes",
-      "author": "poojaranjan19",
-      "url": "https://www.reddit.com/r/ethereum/comments/1p5iw64/the_fusaka_files_4_wallet_support_eip7951_with/",
-      "published": 1763995534.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "\ud83c\udf99\ufe0f The Fusaka Files #4 \u2014 Wallet Support & EIP-7951 with Alex Stokes The latest episode of The Fusaka Files is out! This time we dive into EIP-7951 and how it improves wallet UX and security in the upcoming Fusaka upgrade. Ethereum core dev Alex Stokes joins Paul Brody (EEA) and Pooja Ranjan (ECH) to break down: What EIP-7951 introduces Why the R1 curve matters for wallet onboarding How passkeys and new precompiles improve safety What enterprises should expect The long-term impact on ecosystem readiness \ud83d\udcc4 EIP Reference EIP-7951 \u2192 https://eips.ethereum.org/EIPS/eip-7951 \ud83c\udfa5 Watch the episode https://www.youtube.com/watch?v=KBYnFfGokuc If you\u2019re interested in wallet UX, cryptography, or the technical side of Fusaka, this one is worth your time. Happy to hear thoughts from wallet devs, rollup teams, or anyone preparing for fusaka-related changes!"
     }
   ],
-  "fetched_at": "2025-11-27T05:51:52.004822+00:00"
+  "fetched_at": "2025-11-27T06:52:04.287967+00:00"
 }

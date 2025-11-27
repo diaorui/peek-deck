@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitcoin, Ethereum, XRP Jump as Rebound Gathers Pace. Where Cryptos Go Next.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQbTFZb1kxNUpGSWhjWHQtZEI1YmRhRnF0eDgyZjRZeFI0Q2ZjMEZWT0E4aE9sTU1GVGg5WnZMaEpIdmYwYnlQS0FRYnd6Z1U4RktBMzZCWmJfM0N5aDR0bFBHTnVDV3JFWmJ1bjVtNll1dUtZenU0ZEl5RDZQZ0hYZW0xdjVSTDFhZy1TLW9nWDQ2RHRlbEE2OW9lRk9ZSFRveVVNNWZWRUlqZDhGaGE5RGNzWVVzSkl6a3p4cDBpYjR3cjItSHpGTFEwUTRZeXp3dC1fdDhtTXVITmEtdXpvbWVrSXkxRkYtZ0xNc1V6Um9ETWZpS1Z1MkJwcGFoamhxeGtmelJFWVJYWTFVa0pTU3I4YXJmMVJPT3N6MGNWSm5FYy00SHRkdzVWSWtHNWZ0OHhDQVdET3prblJDMWlVbVZZOWhQMlNBbi1kNmozZXQ5RG9UaTUzSEFQZnNLcEVQWDRzbjhwSS1pUlJXZ2pMeWVtdDdDcmYyc01FTHI5SURBRmpNNkZkQg?oc=5",
-      "pub_date": 1764064980.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-rebound-dea5ac89?gaa_at=eafs&gaa_n=AWEtsqdemgNjLXtOkUtalZShTKGEp3mGvshb7kRgEYOLFTNIHNpOY-p--BMx&gaa_ts=6927ea7b&gaa_sig=vbPhu7WBOyRlII-5IuJ6XcruWaJff08OWINy6prLwuDSGOOSWAhSDLPSqSNHMgmhlEJY_rDh4sxjfgabHpzRQg%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin and Ethereum Stall as Traders Brace for Holiday Volatility",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
@@ -23,6 +13,16 @@
       "article_url": "https://decrypt.co/350131/bitcoin-ethereum-stall-holiday-volatility",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png",
       "description": "Bitcoin and Etehreum and the broader crypto market show modest declines before Thanksgiving as traders anticipate a December Fed rate cut."
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP Jump as Rebound Gathers Pace. Where Cryptos Go Next.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQbmlpVUhkV0YwTFdnQzVEaW5FRTNYbEZRSF9vQ1ltNG83WjRiblNXZllOV0lCZk02VlF1QnlVWEk0cWR0SWZHNTVNaTBHOWI2SzdOUERiWF9BNWRRa2lBYkFBTXdGeVlDMGpsSkFBelp2TndObUNCb1p5ajVkb0hPb1hrTkY0cjVGdTZ0UWhiTmhYYXhrMHoxakZjcldyZ2NXQmJmamd6RFBvN2VlTkJST2lmZUtHZFZhb3ZhU0NzcV9oWm5fTU1wM3dOWWhFWTY1TW9vR0VDRFBaZGNfMHllWU1xckhhZzVXd0ZLVENzc3NSRHNPMkhZMExCcktnbk9iZWxvZUJ6endPaVdiXzFYQzN2alZtOVVkcU56dGVOYVBvTUE2LTRUbmUtQmRoM2JBb0hxa1prdEc0T2xTMUEyRFl0Zkg3SHBYMUpZZ0ExN3pkV2RiQXpETkFDY1UxQmNjMzRDclFkdlJmLUtHRGdJRWVhMFRXUWpzRHdZVUM3NmY1TzFPSENySA?oc=5",
+      "pub_date": 1764064980.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-rebound-dea5ac89?gaa_at=eafs&gaa_n=AWEtsqcBR3HVEUhDToyRUwZVvj3d9GlsLt3oP9SSMr91lue2jKI5dz89q6u1&gaa_ts=6927f897&gaa_sig=VBUPJVY52WbbhKPVaDCYip9wg2aQC7rnMeDhKU1x94YIoikgSQXGBpEjNAUdI0vCr20zNRUAU6Y6uiI8Y0XenA%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Hashed\u2019s Simon Kim Says Ethereum Is 57% Undervalued",
@@ -65,6 +65,36 @@
       "description": "Ethereum nears $3,000 but weak new investor demand threatens its recovery, even as long-term holders show rising confidence and stability."
     },
     {
+      "headline": "Four reasons why Ethereum price remains bullish above $2,800",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVGxYMXFNZHJfLUFiVWVYSjQ1VUpId3NFOEZvRzNHYXVTbmIyOVljem0zY005X1didjFndzFGMzNzZ1JqVHNLd0pWcHJEcUwzMlhmYU5fRHJKdE1CS2lZVXAwbW1ROWM0ajd6T3Z1b2U0am5nYVAwNVRCZ0JuaE5WMW1qOTJNeVNVNVkyY0dHaW92M0JWLXc1NXpINFR0RWh3cXVkTG1aSkZlR1h4MUpzcWdSVFhZZmV4NC1GZHdiUHQ?oc=5",
+      "pub_date": 1764168189.0,
+      "article_url": "https://www.tradingview.com/news/cointelegraph:5afe3930a094b:0-four-reasons-why-ethereum-price-remains-bullish-above-2-800/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ether BINANCE:ETHUSD price is up 11% since plunging below the $3,000 mark on Nov. 22, reclaiming key support levels. Analysts say that increased demand from institutions, coupled with the end of quantitative tightening, could lead to a recovery toward $3,600 next.Key takeaways:Ether\u2019s apparent dema\u2026"
+    },
+    {
+      "headline": "Why Ethereum Rose 3% Today, Despite Key Headwinds",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUHNDU2FRdk9BNWZ1eldBYS1MYVphQnpNMGVTd0t0NVdhcDZtcDFKNjlueXA3RHdWQlctNVN5NENFcEl0OU5SM0pIb0dIY1FZZlZDMjdoNVNEamoyQmk5NTIzUDY4OVFtc0FoaEU0XzFrX3J4V29RRndBMUpPejBRbnZFcmEyWWZVOFVjaVYzQ2F3OGxl?oc=5",
+      "pub_date": 1764198060.0,
+      "article_url": "https://www.fool.com/investing/2025/11/26/why-ethereum-rose-3-today-despite-key-headwinds/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844740%2Fethereum-virtual-money.jpg&w=1200&op=resize",
+      "description": "Ethereum's big daily move has strong rationale, and could continue into year end."
+    },
+    {
+      "headline": "Tom Lee Sticks To $7,000 Ethereum Price Target, But Only After A Dip To $2,500",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYXoxOHVvX3BRejlBUVMtQVpVbHNBMV9LNVIwSU1icFJmWXdJdTdRRXIwaC05RGVRZVptN0kzaW0tbFRjcktXNHVtQ0JNT29BV084c296U3RoSnUtQWtjX2FGQlJMWlRyWmc3MlhvUjVtREgtbXdXekg2Skk3UlZyMjg1ck8tSWxYQWtVamVXUi15LUdIOUlxYlI0Q21ZcE9jSGZvc0tmZXVLQ3JBbDJaNDdXV0lhYXRKLTVid2I4UzRqWFpabExpYkxkMDZFbmQ2?oc=5",
+      "pub_date": 1764093716.0,
+      "article_url": "https://www.benzinga.com/crypto/cryptocurrency/25/11/49065658/tom-lee-sticks-to-7000-ethereum-price-target-but-only-after-a-dip-to-2500",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/25/Ethereum-Coin.jpeg?width=1200&height=800&fit=crop",
+      "description": "Tom Lee is sticking to his $7,000 to $9,000 Ethereum (CRYPTO: ETH) target, despite predicting a crash towards $2,500"
+    },
+    {
       "headline": "What will happen if bitcoin and ethereum hit key liquidation levels",
       "source": "Sherwood News",
       "source_url": "https://sherwood.news",
@@ -73,38 +103,8 @@
       "article_url": "https://sherwood.news/crypto/what-will-happen-if-bitcoin-and-ethereum-hit-key-liquidation-levels/",
       "image": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/dv537008_businessman-pulling-a-dollar-sign.jpg?w=1600&auto=compress%2Cformat&cs=srgb",
       "description": "Billions in forced liquidations have swept through crypto markets in Q4. Here are the major liquidation clusters on perpetuals protocol Hyperliquid..."
-    },
-    {
-      "headline": "How Sharplink Is Reinventing Itself: Earnings, Ethereum, and the Future of Gaming",
-      "source": "cheddar.com",
-      "source_url": "https://www.cheddar.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcGh0Qk9HSW1ET0xkM3NUT21BdllxTTRMX3hoSGh6WGg3UTM2OGdjaExVeFFTOXVVOVZOOVFpUEZINWVRNGYxY3pxRFZYYlY1X1VpWC1BYklDNHF0VnRsYTAwemRlLTlnZzhxZzREMUNhYU05eWF5YnhQZVNsV1JnRk9HU2l5NmZodXRHaXd0YTlNMkhkUnUwb0VqUUJLb2VjcUFiMmxaUmtTTXdtOHc?oc=5",
-      "pub_date": 1764012142.0,
-      "article_url": "https://www.cheddar.com/media/how-sharplink-is-reinventing-itself-earnings-ethereum-and-the-future-of-gaming/",
-      "image": "https://www.armytimes.com/resizer/v2/https%3A%2F%2Fd3k85ws6durfp9.cloudfront.net%2F11-18-2025%2Ft_b05af3a7182b48328db800ee1b0fa467_name_GettyImages_951165896.jpg?width=1200&auth=2f90a30db862bad83cd3d6c29861192a551e3b3fa076bd2935cda20212061d48",
-      "description": "Joseph Chalom breaks down Sharplink\u2019s latest earnings and why the company is pivoting from gaming to an Ethereum-powered future built on transparency."
-    },
-    {
-      "headline": "LTIN, Solstice Staking, Bitcoin Suisse and Obol Launch Institutional-Grade Ethereum DVT Cluster",
-      "source": "markets.businessinsider.com",
-      "source_url": "https://markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcmVJSDQ2TXFyTU16c0JsQnAtZVJ6dlZNYWNoZnFmMFVMUXVyMUFGQmJEN0ltX1hlWHFVRUNTZlRNTERZQm5SWkJXTnFoOHBKcU40TzdwOGRINFBrR0pBd3BwMDRFLWxWMl81amFVTkdmVDJIQTJ3eDNEM2VmcGdmT0dFRlJ2YlJVbzBxYnkxS0YzRHJWMURMMklocmhLMy1oUk83UGREN1pPaEZVMm9zcWxKSy1UdGtKRVhxZUNwNHhSV2RmTzd1XzFmQmNWbGpWT0hQaUNwN3FHREt0MWpNeFN3V2lFeUh5TmdWZQ?oc=5",
-      "pub_date": 1764167813.0,
-      "article_url": "https://markets.businessinsider.com/news/currencies/ltin-solstice-staking-bitcoin-suisse-and-obol-launch-institutional-grade-ethereum-dvt-cluster-1035597256",
-      "image": "https://app.chainwire.org/storage/uploads/users/LTIN_resized_1200x720_1_1764104143h3WLv3G7TN.jpg",
-      "description": "Vaduz, Germany, November 26th, 2025, ChainwireLiechtenstein Trust Integrity Network (&ldquo;LTIN&rdquo;), Solstice Staking AG..."
-    },
-    {
-      "headline": "Tom Lee targets $2,500 as the exhaustion point for Ethereum sellers",
-      "source": "Crypto Briefing",
-      "source_url": "https://cryptobriefing.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YcHRrOV9Bd2JGQWNILUZTbEt6bmdHcTdNdGRDSjVUX2NtNE5pZGtJSnEtVm54bnQ1NThadEZad0lld3poWlpYemt3aFNUNllYYTJaZ21wZ1VnUjAxbDZKVXdFRDhQVldzWks1RzZ3?oc=5",
-      "pub_date": 1764177669.0,
-      "article_url": "https://cryptobriefing.com/ethereum-exhaustion-point-tom-lee/",
-      "image": "https://static.cryptobriefing.com/wp-content/uploads/2025/11/26121840/5523460e-caa4-452c-a116-7b573e744b68-800x420.jpg",
-      "description": "Tom Lee says Ethereum could fall to $2,500 before completing its current downturn, pointing to analysis from Tom DeMark."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T05:52:13.669799+00:00"
+  "fetched_at": "2025-11-27T06:52:23.263510+00:00"
 }
