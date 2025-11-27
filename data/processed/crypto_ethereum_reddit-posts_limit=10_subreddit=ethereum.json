@@ -24,15 +24,15 @@
       "description": null
     },
     {
-      "title": "There are so many Ethereum casinos now, what's the best?",
-      "author": "theCBDGuy",
-      "url": "https://www.reddit.com/r/ethereum/comments/1p7xnpp/there_are_so_many_ethereum_casinos_now_whats_the/",
-      "published": 1764234278.0,
+      "title": "EIP-8046: FOCIL with ranked transactions (FOCILR)",
+      "author": "AElowsson",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p7j8dd/eip8046_focil_with_ranked_transactions_focilr/",
+      "published": 1764190535.0,
       "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I am looking for a casino where i can deposit my Ethereum to play games. If they don't KYC, that's cool. Only tell me the best ones that you might have played on. I was using Stake Rainbet before, but they are bad for my taste. Let me know!"
+      "external_url": "https://eips.ethereum.org/EIPS/eip-8046",
+      "site_name": "Ethereum Improvement Proposals",
+      "favicon": "https://eips.ethereum.org/assets/images/favicon.png",
+      "description": "An introduction to this mechanism is provided here."
     },
     {
       "title": "Daily General Discussion November 26, 2025",
@@ -55,28 +55,6 @@
       "site_name": "youtu.be",
       "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
       "description": "Here's the thing about Ethereum that nobody wants to admit: imagine paying for coffee with crypto and the barista instantly seeing your entire net worth. That's absolutely untenable, right? But that's literally how it works today if you don't have the tools and know-how to operate onchain PRIVATELY. Every transaction broadcasts your balance; every address you interact with is permastained as part of your public financial history; and most people try to \"fix\" this by creating a fresh wallet and funding it from Coinbase (not cypherpunk) or their main account (gg; no re) Congrats, you just created a permanent public link on Etherscan that anyone can follow. Creating a new wallet is easy. Funding it privately without linking it back to your identity? That's the hard part most tutorials skip. Good news is... there's a few tools and methods for protecting your safety and financial dignity! This is the type of info that shouldn't be gatekept, so here's 3 ways you can fund a new wallet address privately: Railgun (Zero-Knowledge) \u2013 Shield funds into a private pool via Railway Wallet, then unshield to any fresh 0x address. Takes ~1 hour for PPOI checks, but mathematically breaks the onchain link, and is compliant \ud83d\udc4d. Uses actual zero-knowledge proofs, not marketing BS. zkp2p (Bank \u2192 Crypto P2P) \u2013 Uses zkTLS to prove Venmo/CashApp/Wise/etc payments without exposing personal data. Funds can be designated straight to a new wallet. Zero crypto footprint in your banking app because it just looks like you're sending $ to a friend! OTC (Old School) \u2013 Cash-for-crypto with trusted peers. High risk, requires strict safety protocols (public meetups, locked rates, verify token contracts), but it's what early OGs did pre-CEX. Privacy shouldn't have to be explained. It's basic dignity. In this case, basic FINANCIAL dignity. Your net worth shouldnt be public info just because you want to use crypto. For my latest youtube video, I go into exactly all of this! I hope ppl find it helpful :) https://youtu.be/ppRz6Hqoics And honestly... does it bother anyone else that we've normalized broadcasting our entire financial lives just to buy a coffee?"
-    },
-    {
-      "title": "EIP-8046: FOCIL with ranked transactions (FOCILR)",
-      "author": "AElowsson",
-      "url": "https://www.reddit.com/r/ethereum/comments/1p7j8dd/eip8046_focil_with_ranked_transactions_focilr/",
-      "published": 1764190535.0,
-      "thumbnail": null,
-      "external_url": "https://eips.ethereum.org/EIPS/eip-8046",
-      "site_name": "Ethereum Improvement Proposals",
-      "favicon": "https://eips.ethereum.org/assets/images/favicon.png",
-      "description": "An introduction to this mechanism is provided here."
-    },
-    {
-      "title": "Which site is best for crypto trading?",
-      "author": "993GTS",
-      "url": "https://www.reddit.com/r/ethereum/comments/1p7vkmp/which_site_is_best_for_crypto_trading/",
-      "published": 1764226499.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Which site is best for crypto trading? Which site is best for crypto trading? Which site is best for crypto trading?"
     },
     {
       "title": "From Cattle to Crypto: How a Handful of Wyoming Officials Quietly Built a Global Stablecoin",
@@ -110,7 +88,29 @@
       "site_name": null,
       "favicon": null,
       "description": "We\u2019re building a Web3 system and scaling transactions is painful. Gas fee spikes can wipe margins instantly. Curious what batching or optimization methods people here have used and whether you kept everything fully trustless."
+    },
+    {
+      "title": "What\u2019s the biggest pain point you\u2019ve faced during a smart contract audit?",
+      "author": "SolidityScan",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p6cta5/whats_the_biggest_pain_point_youve_faced_during_a/",
+      "published": 1764078320.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Every team hits different roadblocks when preparing for or going through a smart contract audit. For some it\u2019s documentation, for others it\u2019s test coverage, architecture decisions, upgradeability, or unexpected security issues that show up late. Curious to hear from other devs what\u2019s been the most challenging part of the audit process for you, and what would\u2019ve made it easier?"
+    },
+    {
+      "title": "Has anyone successfully created and integrated a smart contract for every day use?",
+      "author": "PrincesaBacana-1",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p5ocj5/has_anyone_successfully_created_and_integrated_a/",
+      "published": 1764007615.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Not for your own personal use, but for the communal use of many. I\u2019m thinking of trying one out with 30~ users."
     }
   ],
-  "fetched_at": "2025-11-27T09:27:19.695313+00:00"
+  "fetched_at": "2025-11-27T10:27:39.477104+00:00"
 }

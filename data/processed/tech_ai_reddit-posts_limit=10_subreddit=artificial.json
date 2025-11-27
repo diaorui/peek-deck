@@ -57,6 +57,17 @@
       "description": "Nvidia applauds Google on its recent win, but the leading AI infrastructure company says it still \"offers greater performance\" than the rest."
     },
     {
+      "title": "Popular AI chatbots have an alarming encryption flaw \u2014 meaning hackers may have easily intercepted messages",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7yoct/popular_ai_chatbots_have_an_alarming_encryption/",
+      "published": 1764238245.0,
+      "thumbnail": "https://external-preview.redd.it/A-emmtlMCjw-rX090Ar8GZLGKTj3nwOErcQnQk1JMsI.png?width=640&crop=smart&auto=webp&s=c01a64b1c9d5917136cee6d21665bb664e838962",
+      "external_url": "https://www.livescience.com/technology/artificial-intelligence/popular-ai-chatbots-have-an-alarming-encryption-flaw-meaning-hackers-may-have-easily-intercepted-messages",
+      "site_name": "Live Science",
+      "favicon": "https://vanilla.futurecdn.net/livescience/1479220/apple-touch-icon.png",
+      "description": "Cybersecurity researchers have uncovered a critical vulnerability in the architecture of large language models underpinning generative AI, but how dangerous is this flaw?"
+    },
+    {
       "title": "Google\u2019s Hot New AI Coding Tool Was Hacked A Day After Launch",
       "author": "forbes",
       "url": "https://www.reddit.com/r/artificial/comments/1p7bp8q/googles_hot_new_ai_coding_tool_was_hacked_a_day/",
@@ -99,18 +110,7 @@
       "site_name": "github.com",
       "favicon": null,
       "description": "I realize there are other electron wrappers, but for me, they didn't work. I had all kinds of problems with window management. This works for me, but please let me know if you have any issues. It is properly assigned for Apple, so you shouldn't have any security issues."
-    },
-    {
-      "title": "Jeff Bezos\u2019 New AI Venture Quietly Acquired an Agentic Computing Startup",
-      "author": "wiredmagazine",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7j12e/jeff_bezos_new_ai_venture_quietly_acquired_an/",
-      "published": 1764190055.0,
-      "thumbnail": "https://external-preview.redd.it/lPSLOq-4AYPEVB9H_aKXcgln3szDEwj63XWDonvGPIE.jpeg?width=640&crop=smart&auto=webp&s=dd14b420c3f8ea1180a544f3c143628367232527",
-      "external_url": "https://www.wired.com/story/jeff-bezos-new-ai-company-acquired-agentic-computing-startup/",
-      "site_name": "WIRED",
-      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
-      "description": "Project Prometheus has raised over $6 billion in funding and hired over 100 employees, a handful of whom joined through its acquisition of General Agents, according to records and sources."
     }
   ],
-  "fetched_at": "2025-11-27T09:27:17.091388+00:00"
+  "fetched_at": "2025-11-27T10:27:36.765688+00:00"
 }

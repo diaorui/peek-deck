@@ -35,6 +35,17 @@
       "description": "Knucklebuster arm prototype test, its a test torso that i Will upgrade till It resembles v1. The arm has one nema 17 stepper motor in the upper arm and a nema 14 at the middle, maybe i'll use a Raspberry pi 5 with ai for controlling everything but, i'm open to suggestions!"
     },
     {
+      "title": "Robotera L7 and Fourier GR-2",
+      "author": "AcademicDimension957",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7ydx9/robotera_l7_and_fourier_gr2/",
+      "published": 1764237175.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi guys! I wanted to ask whether anyone has any experience with the Robotera L7 dexterous humanoid or the Fourier GR-2. Both seem quite dexterous (12 DoF hands) but I have heard mixed opinions especially for the Fourier GR-2's joint encoders. I would extremely appreciate any thoughts on those humanoids or if anyone has real world experience with them."
+    },
+    {
       "title": "Are World Models the Future of Robotics?",
       "author": "Nibbana_0",
       "url": "https://www.reddit.com/r/robotics/comments/1p7bjzq/are_world_models_the_future_of_robotics/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Kyber Labs on \ud835\udd4f : \"Our hand rotates a nut on a bolt at super high speed, fully in real time with no edits. This is possible because it\u2019s fully backdrivable and torque transparent so it adapts naturally to the nut. The result is simpler, more reliable manipulation for software and learning systems.\": https://x.com/KyberLabsRobots/status/1993060588789137785 Website: https://kyberlabs.ai"
-    },
-    {
-      "title": "Looking for ABB 6.05.02 the FULL version, software- School lost the entire FTP drive.",
-      "author": "Traditional-Ad-1441",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7h8i4/looking_for_abb_60502_the_full_version_software/",
-      "published": 1764185825.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi ..need spot of help if anybody can help me find a version of the robotstudio the 6.05.02 version. I need the FULL zip, my school lost the ftp drive with it on there- abb has been no help on the old version, no clue why, anyway.. file will be like RobotStudio_6.05.02_Full.exe or .zip it will have the vision Ideally it will have these files in it. I know its a BIG ask but if anybody can help point me in the right direction, super appreciated. Will buy you a coffee to boot. Cheers peeps have a good holiday. abb.integratedvision.6.05.x.msi abb.smartgrippervision.6.05.x.msi abb.robotics.visioninterface.6.05.x.msi RSAddins.msi"
     }
   ],
-  "fetched_at": "2025-11-27T09:27:21.003400+00:00"
+  "fetched_at": "2025-11-27T10:27:41.124584+00:00"
 }
