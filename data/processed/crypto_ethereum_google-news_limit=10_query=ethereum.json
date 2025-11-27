@@ -5,14 +5,14 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitcoin and Ethereum Stall as Traders Brace for Holiday Volatility",
+      "headline": "Bitcoin Reclaims $90K Ahead of Thanksgiving as Ethereum, XRP Bounce Back",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WbFBmODc1S0x6NlQxanhYT05lNmFvTE43OXl4cUE5WV9jLXZuQUNnR3h4bUQ0X1NRRzY2T1h0UUR6a3UtUmlKdU5DV2lJLUxDaHE4REVZNk9LLTJuWDYyWXM0MV9CcnFZRTdTZHFKVzJkdTNNU1HSAX5BVV95cUxOOTNwZGRNaTZZcHNNSVE0eWJoVzJDTnhhSkJMUEhpWTVJbzUyS1VhMmZUTER3TXJCZ3JJUGkyZ1ZXYlFna0g5cmhIRjBPM1BKLWhJTFFLNmZhMXVtUFh4elRpdjlIM0tEYjhSdjVoYVdlOGVjb21yVkVabmFxOXc?oc=5",
-      "pub_date": 1764172993.0,
-      "article_url": "https://decrypt.co/350131/bitcoin-ethereum-stall-holiday-volatility",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png",
-      "description": "Bitcoin and Etehreum and the broader crypto market show modest declines before Thanksgiving as traders anticipate a December Fed rate cut."
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZG9jcmVjRFkzaEFQNG1sRUp3OEVFaEYxVWFickpycWxFbkxXaHJXcFFiTWhsMzVGcjJqV0YwTlpYY3pMRWR4anVJU0JXUU8tWkdLOVVWVWNLd3VyWFdCdGwtcU1qQUd4WXpqM0hGQ1JKU3NnVkxjOXgxQWE3YzY4T043c0NHV3drT05XTlUyWkVqNnJS0gGcAUFVX3lxTE5UaVFhSUhtV0FxdlhVODJGVTNFZkN3Z3Fnc0loWVNMbnlpZWV0cGFyV3hvbUk0R1hkRFA3Y2d0WGp4WXFDTmlDUWpqMFNqQnFkcFVYNDc3eS02Y19wZHQwOXc5VGdIQlRJMFB0ODE1bVczbkFkM3B1LVpwYjAyTGZ5VzhRelpWU0dCaWJWMUQybnRJdDdweTZVQ1d2Mg?oc=5",
+      "pub_date": 1764183649.0,
+      "article_url": "https://decrypt.co/350151/bitcoin-reclaims-90k-ahead-thanksgiving-ethereum-xrp-bounce-back",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png",
+      "description": "Bitcoin has broken above $90,000 per coin again, nearly a week after it dipped to a seven-month low of about $81,000."
     },
     {
       "headline": "Ethereum vs. Solana 2026: Which Blockchain Will Deliver Better Returns?",
@@ -23,6 +23,36 @@
       "article_url": "https://247wallst.com/investing/2025/11/26/ethereum-vs-solana-2026-which-blockchain-will-deliver-better-returns/",
       "image": "https://247wallst.com/wp-content/uploads/2024/04/shutterstock-1106739479-huge-licensed-scaled.jpg",
       "description": "Ethereum and Solana enter 2026 with diverging fundamentals. ETH relies on L2 scaling while SOL shows record activity and $476M ETF inflows."
+    },
+    {
+      "headline": "Here's What Could Happen With Ethereum in December",
+      "source": "Nasdaq",
+      "source_url": "https://www.nasdaq.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8taEVTTnA3bUZhWG1lYm1aeDVncjdQa2dxNWdYc25hY04xTzFQdHZWU1NZX0tWUXFQekZmTWU3VFQ0VnpWSTVmMS0tdXFzb21KVmtpZEE5bmNxNUdBVDY2S1ROQ29XWjlDR1NRSUdFSHdOUFFSWTBMeEFYMmZCUQ?oc=5",
+      "pub_date": 1764239400.0,
+      "article_url": "https://www.nasdaq.com/articles/heres-what-could-happen-ethereum-december",
+      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+      "description": "Key PointsEthereum has had a rough year."
+    },
+    {
+      "headline": "Tom Lee Says BitMine Holds 3% of Ethereum \u2014 What Happens When It Reaches 5%?",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMmE1Y25BOXNObnR2S2o2alhQN0M0X1NwbVA2bG4wVTI1dUdfVXg2bGVkM1FYdFp6Q2dyMVVnb1dsZ2ZlY1JWeFRJSFVLTkp0VzN3ck13a25wYzJJUWZwcFgyTTgwbUhNaE90cUExNU5zc2JNTm9tODJhRmZMN0llRHFpcmg?oc=5",
+      "pub_date": 1764086535.0,
+      "article_url": "https://www.ccn.com/news/crypto/tom-lee-says-bitmine-holds-ethereum-what-next/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Better Crypto Buy: XRP (Ripple) vs. Ethereum",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWE85WTR3MXA1Qzg4TjdTSmdSZExSVkwtMkw4UWRuZlVkMEF2bWtnUHdZc0NNYXdFYnVjNHBBWjVOekllMl8xSlBIR3NiNl9kYmN2OE5NaGpfbHl5dmxLOWRaZDdpRjVwRG5VRzNDMUg3ZU5SbExZZGxvU2tNbkMtX2VmM0hvVlYz?oc=5",
+      "pub_date": 1764120060.0,
+      "article_url": "https://www.fool.com/investing/2025/11/25/xrp-vs-ethereum-crypto-comparison-2025/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F840357%2Fgettyimages-1402808568-1200x798-36b7a2e.jpg&w=1200&op=resize",
+      "description": "Is XRP or Ethereum the better pick for long-term investors?"
     },
     {
       "headline": "Ethereum Treasury News: BitMine (BMNR) Bought Nearly 70K ETH",
@@ -55,16 +85,6 @@
       "description": null
     },
     {
-      "headline": "Tom Lee Says BitMine Holds 3% of Ethereum \u2014 What Happens When It Reaches 5%?",
-      "source": "CCN.com",
-      "source_url": "https://www.ccn.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMmE1Y25BOXNObnR2S2o2alhQN0M0X1NwbVA2bG4wVTI1dUdfVXg2bGVkM1FYdFp6Q2dyMVVnb1dsZ2ZlY1JWeFRJSFVLTkp0VzN3ck13a25wYzJJUWZwcFgyTTgwbUhNaE90cUExNU5zc2JNTm9tODJhRmZMN0llRHFpcmg?oc=5",
-      "pub_date": 1764086535.0,
-      "article_url": "https://www.ccn.com/news/crypto/tom-lee-says-bitmine-holds-ethereum-what-next/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Ethereum is Shifting into Turbo Mode: What to Expect from Next Week's Fusaka Upgrade",
       "source": "Binance",
       "source_url": "https://www.binance.com",
@@ -75,36 +95,16 @@
       "description": null
     },
     {
-      "headline": "Here's What Could Happen With Ethereum in December",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYmNySkJUdWp6VktoUE5IbU5YZXZPbVNOQjRDS1F3N0hTZmRnTllWRWRiS1VEN1dKLUlIMHVjREpkRWJLRmQxa0dKUjE5X1c0Mm1HSkRyWklLY1I4MnlfNUtwdDZjVm43ZkxSWUtIbnJZd2VsVjFFYkxRTVktN29iSE5mWmFjZk5idk5JUVA0OXFfdTk4eEFB?oc=5",
-      "pub_date": 1764239400.0,
-      "article_url": "https://www.fool.com/investing/2025/11/27/heres-what-could-happen-with-ethereum-in-december/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844063%2Fethereum-virtual-money.jpg&w=1200&op=resize",
-      "description": "It's a good time to have some extra capital on hand."
-    },
-    {
-      "headline": "Better Crypto Buy: XRP (Ripple) vs. Ethereum",
-      "source": "Nasdaq",
-      "source_url": "https://www.nasdaq.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QUmpjMFNQRzJEdmRMdXlnN2R0MnJTNWN4WEFrbUE2VXpKS09La3JjbTc5MjZRSE8wNHpNQnpRaktDeGFZWUxkbDJHcXUyZXBwQ283NHI4YVZ3QUtMNjVwTlhDaUNlc1BQRHNPWnl3UEtILTg0NU5Ed200MjY?oc=5",
-      "pub_date": 1764120060.0,
-      "article_url": "https://www.nasdaq.com/articles/better-crypto-buy-xrp-ripple-vs-ethereum",
-      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-      "description": "Key PointsStablecoins have exploded in popularity and could become a multitrillion-dollar market, according to Citi Group."
-    },
-    {
-      "headline": "Bitcoin, Ethereum, XRP Jump as Rebound Gathers Pace. Where Cryptos Go Next.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQQnMxOER5MkNmZ0NjMldDNVZMT0JWZkg0WXhLSnlMcHBpeEpfal92VUptTEFJeVpzN2pXUFY4c04yYUVubXJWdzZMYTlES0NwZVVLcDBMMWt5aUltb1NSa2t0QU9WWDVwLTFicV9NY01YUHFxSWRKWEZSZjNxZVltTzhob0p0a0Z0bVdMZF9weG5aRmpobEVSOVAyamNNaFphWllWR05INmh5VTh4VDR5QTltaV96U05YenlQSXJxSzk1b1FzVDZMTGpRRlF5dGxqZGhKMUF3R2lkVmNsNVpWWHN1MzdVNW1FSFdaeGhDTE0xRkJFblNSY3hKQTVtNm95Slhjd3pjQWhEMkZodFRjVUpiRmNBdkoySWYtQ0o1bzhKOUZOUHdzLVd2Ul9uaElobnhiT1I0ZnlwNC1OdFlZTGhOWVE5WF9iblQ3dkpPdWZWOHAwS0x4SlByNk5LM05aYWYtemRoQnhrcjRtd3c2blhmZy1RbGZNNDNtY29sbnZsLWpsVGF2ag?oc=5",
-      "pub_date": 1764064980.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-rebound-dea5ac89?gaa_at=eafs&gaa_n=AWEtsqfE9i0SCmFTXssNxMm1vqNkI2JbdnQd7Iy4P8fQa1UzMX-bcKa426ez&gaa_ts=69283c24&gaa_sig=2fvLC3v96HsVY0ErTsY8cgjRW1zDrua0rDSxy5K5FnVid261ZAzUrTIMi7muxkEsW_xDg2n9lDTTgJV2wnaEyw%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "Ethereum\u2019s Recovery to $3,000 Could Be Challenged by New Holders",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTEo1UjJTVTVOMVFaLUZlVUhKTlBYcEFVaHZxSU9GSjg0bW1UaC1aT0M4WXozOWNpOTNINGNnOUl2ZThwQkp5RDJiSmJMajRoM2ZsZGN3TVFtWHRoRG5mVVJyQVA2dFhZc1VpSng5b3RIdzJTMkNnTElOcDBtMHBJdw?oc=5",
+      "pub_date": 1763942028.0,
+      "article_url": "https://finance.yahoo.com/news/ethereum-recovery-3-000-could-235348096.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/O3UIXfe18RNq5wFGp7EzIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/beincrypto_us_662/b49a12973a36b30fbcf971c9d9b2cabd",
+      "description": "Ethereum nears $3,000 but weak new investor demand threatens its recovery, even as long-term holders show rising confidence and stability."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T11:40:44.758099+00:00"
+  "fetched_at": "2025-11-27T12:26:40.895233+00:00"
 }

@@ -46,6 +46,17 @@
       "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
     },
     {
+      "title": "You can do your Black Friday shopping on Newegg with AI chatbot Perplexity, thanks to new PayPal collaboration",
+      "author": "Tiny-Independent273",
+      "url": "https://www.reddit.com/r/artificial/comments/1p80mi0/you_can_do_your_black_friday_shopping_on_newegg/",
+      "published": 1764245218.0,
+      "thumbnail": "https://external-preview.redd.it/lTeh4RNyampJybky2IOMqVQ4cVJuekHuWpmbW5ouybs.jpeg?width=640&crop=smart&auto=webp&s=ea6b928e7d911e269c795d481c4ab9e7a8135e52",
+      "external_url": "https://www.pcguide.com/news/you-can-do-your-black-friday-shopping-on-newegg-with-ai-chatbot-perplexity-thanks-to-new-paypal-collaboration/",
+      "site_name": "PC Guide",
+      "favicon": "https://www.pcguide.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
+      "description": "Newegg products will now show up on Perplexity AI when you search for PC hardware, and you can buy them directly through the AI chat."
+    },
+    {
       "title": "AI is great at tasks but is not good at switching topics",
       "author": "PeatedW",
       "url": "https://www.reddit.com/r/artificial/comments/1p800qa/ai_is_great_at_tasks_but_is_not_good_at_switching/",
@@ -99,18 +110,7 @@
       "site_name": "Forbes",
       "favicon": "https://i.forbesimg.com/57X57-F.png",
       "description": "A security researcher discovered a major flaw in the coding product, the latest example of companies rushing out AI tools vulnerable to hacking."
-    },
-    {
-      "title": "AMD ROCm 7.1.1 released with RHEL 10.1 support, more models working on RDNA4",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7sbcy/amd_rocm_711_released_with_rhel_101_support_more/",
-      "published": 1764215706.0,
-      "thumbnail": null,
-      "external_url": "https://www.phoronix.com/news/AMD-ROCm-7.1.1",
-      "site_name": "phoronix.com",
-      "favicon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
-      "description": "Following the release of ROCm 7.1 from just under one month ago, ROCm 7.1.1 is now available with expanded Linux operating system support, continued Instinct MI350 series work, more large language models working on RDNA4 GPUs, and other enhancements."
     }
   ],
-  "fetched_at": "2025-11-27T11:40:27.868443+00:00"
+  "fetched_at": "2025-11-27T12:26:26.031313+00:00"
 }
