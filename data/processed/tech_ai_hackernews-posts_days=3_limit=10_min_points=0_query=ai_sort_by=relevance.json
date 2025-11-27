@@ -9,7 +9,7 @@
       "url": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
       "hn_url": "https://news.ycombinator.com/item?id=46062504",
       "author": "cyclecount",
-      "points": 566,
+      "points": 568,
       "num_comments": 295,
       "created_at": "2025-11-26T21:25:36Z",
       "object_id": "46062504",
@@ -37,8 +37,8 @@
       "url": "https://replaceyourboss.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=46072002",
       "author": "_tk_",
-      "points": 292,
-      "num_comments": 114,
+      "points": 335,
+      "num_comments": 131,
       "created_at": "2025-11-27T18:37:41Z",
       "object_id": "46072002",
       "image": "https://replaceyourboss.ai/OGImage.jpg",
@@ -51,8 +51,8 @@
       "url": "https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference",
       "hn_url": "https://news.ycombinator.com/item?id=46069048",
       "author": "vegasbrianc",
-      "points": 165,
-      "num_comments": 166,
+      "points": 196,
+      "num_comments": 169,
       "created_at": "2025-11-27T13:28:34Z",
       "object_id": "46069048",
       "image": "https://substackcdn.com/image/fetch/$s_!H_F9!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff173524-b98d-4a2b-9f77-7a130ad395a7_1024x1024.png",
@@ -61,32 +61,32 @@
       "site_name": "uncoveralpha.com"
     },
     {
-      "title": "Indie game developers have a new sales pitch: being 'AI free'",
-      "url": "https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders",
-      "hn_url": "https://news.ycombinator.com/item?id=46057000",
-      "author": "01-_-",
-      "points": 157,
-      "num_comments": 134,
-      "created_at": "2025-11-26T13:05:33Z",
-      "object_id": "46057000",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ss_6151f4f1d8c8a80cf4e98f7381b775f3e405fb3b.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "description": "\u201cWe can produce results that meet our quality standards without its assistance.\u201d",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "site_name": "The Verge"
-    },
-    {
       "title": "The current state of the theory that GPL propagates to AI models",
       "url": "https://shujisado.org/2025/11/27/gpl-propagates-to-ai-models-trained-on-gpl-code/",
       "hn_url": "https://news.ycombinator.com/item?id=46068777",
       "author": "jonymo",
-      "points": 151,
-      "num_comments": 185,
+      "points": 160,
+      "num_comments": 198,
       "created_at": "2025-11-27T12:48:12Z",
       "object_id": "46068777",
       "image": "https://shujisado.org/wp-content/uploads/2025/11/chatgpt-image-2025e5b9b411e69c8827e697a5-21_13_41.png",
       "description": "When GitHub Copilot was launched in 2021, the fact that its training data included a vast amount of Open Source code publicly available on GitHub attracted significant attention, sparking lively de\u2026",
       "favicon": "https://shujisado.org/wp-content/uploads/2025/01/cropped-41535474-sado-1.jpg?w=151",
       "site_name": "Open Source Guy"
+    },
+    {
+      "title": "Indie game developers have a new sales pitch: being 'AI free'",
+      "url": "https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders",
+      "hn_url": "https://news.ycombinator.com/item?id=46057000",
+      "author": "01-_-",
+      "points": 158,
+      "num_comments": 135,
+      "created_at": "2025-11-26T13:05:33Z",
+      "object_id": "46057000",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ss_6151f4f1d8c8a80cf4e98f7381b775f3e405fb3b.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "description": "\u201cWe can produce results that meet our quality standards without its assistance.\u201d",
+      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+      "site_name": "The Verge"
     },
     {
       "title": "AirDrop support for Pixel 10 likely exists because of the EU ruling",
@@ -145,7 +145,7 @@
       "site_name": "economist.com"
     }
   ],
-  "total_hits": 472,
+  "total_hits": 468,
   "has_metadata": true,
-  "fetched_at": "2025-11-27T21:37:05.605100+00:00"
+  "fetched_at": "2025-11-27T22:27:46.898489+00:00"
 }

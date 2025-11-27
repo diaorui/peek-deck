@@ -65,16 +65,6 @@
       "description": null
     },
     {
-      "headline": "\u2018People believe this stuff\u2019: AI is a new headache for air disaster investigators",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb2JQQ0J4Z25TcXk0c0Q3LTVsUE9fSHJhVE93c3V6N2JzTVZ4YVFySXIyNXg5aUtRZnpUTXNNenZmbGxhM3ozeUFxM3d2SEM3YnlCeXJPdktiWjFDZDFpeWY5YzlvazRFVTk1S0xXXzl6NURCdUlfRFRIOHJ5VXM1emNzSTN3M2k2ZHdJXzJPUnBQUzgwdHBoZTlmc2pYSm4teWZ3c1hCRms5OTV2MzFIM0ZoRHdRSFM0ZG1IWUFhUDI5QQ?oc=5",
-      "pub_date": 1764277200.0,
-      "article_url": "https://www.politico.com/news/2025/11/27/people-believe-this-stuff-ai-a-new-headache-for-air-disaster-investigators-00635068",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "'Green light' away from AI trade: Two ETF executives see a key market shift underway",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -95,16 +85,26 @@
       "description": "Chipmaker Nvidia posted yet another blockbuster earnings report this month."
     },
     {
-      "headline": "How to talk to grandma about ChatGPT",
+      "headline": "How to talk to grandma about AI",
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CWEgxUngxVjA1SXhOQjR0UGl4RDctVkg0M3VVSm9FZGNoOEROVTFJQzZaVEhVVUVZckczUzlIRGstNzB1MlF1MXkxb3haWld1TzgzLTEydmx0b2E3eTc4bXNubUdySWk0TW0yUThlNFJkTk0t?oc=5",
-      "pub_date": 1764246748.0,
+      "pub_date": 1764248515.0,
       "article_url": "https://www.axios.com/2025/11/27/seniors-scams-chatgpt-sora-gemini",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "AI chatbots shown effective against antisemitic conspiracies in new study",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjJNLUd1dDhUTFpINVF6U3dyOXhnT01BUEtKU1QteEZKNV9QQ21qVFZsd3ZsUUJuR2J3MkVQMjVfRFU4Z3M3X3AzTUpfR25qNXBONlVJa2ROdThsX2tGOE1MWTNlbEs1eE53bDdjNmFRN1lkY3JJOHdqWFZaMFdjUWhlSkZ5Y3BIVjR1eFZBckk3YUdkQnhPSWtkSkhiVjJ1dVZ0aXZmWkZRdFXSAbABQVVfeXFMTXRaZ1p4dU1zZXBrTFhPSnBfTm1hMlFRWXhrNWtLZTB3OU8ycUVUakR3VHgtR0tRbEtXQTBiQmpPWlk2MUk4bG1tZFpNWmNrRkM4N2tiUk1KblExc3UycFp4dDJNR0ZnNkJZX21KenpnaTVzUkRmTXF6SVByV2xnV052Ui1zdU90MXNITGE4Mm8zTlJEUXMxX242WFh3N0dDZzlRWTkybHFlakFsLWhvc0I?oc=5",
+      "pub_date": 1764271080.0,
+      "article_url": "https://www.foxbusiness.com/politics/ai-chatbots-shown-effective-against-antisemitic-conspiracies-new-study",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/11/0/0/iphone-hands-typing-1.jpg?ve=1&tl=1",
+      "description": "Breakthrough AI chatbots show promise in fighting hate speech by reducing belief in antisemitic conspiracy theories in new research study."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T21:37:28.479194+00:00"
+  "fetched_at": "2025-11-27T22:28:00.119623+00:00"
 }

@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2511.19900",
       "arxiv_url": "https://arxiv.org/abs/2511.19900",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.19900.png",
-      "upvotes": 41,
+      "upvotes": 42,
       "num_comments": 2,
       "published_at": "2025-11-24T23:15:14.000Z",
       "github_repo": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-27T21:23:49.062206+00:00"
+  "fetched_at": "2025-11-27T22:27:47.848014+00:00"
 }
