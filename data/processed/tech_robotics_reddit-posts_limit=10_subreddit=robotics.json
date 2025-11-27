@@ -112,5 +112,5 @@
       "description": "I wanted to share this custom robotics controller that I built with my son. We used two ESP32 S3 chips that cooperate to control everything. One is responsible for the user interface stuff, and the other is dedicated to motor control. I\u2019ve used older ESP32 WROOM modules in the past. The native USB on the S3 is super nice. Kind of a shameless plug, but I figure lots of people out there are building similar things. Feedback is welcome!"
     }
   ],
-  "fetched_at": "2025-11-27T13:44:07.432053+00:00"
+  "fetched_at": "2025-11-27T14:27:09.201865+00:00"
 }

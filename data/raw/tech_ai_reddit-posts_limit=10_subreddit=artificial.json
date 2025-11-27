@@ -35,6 +35,17 @@
       "description": null
     },
     {
+      "title": "Security Flaws in DeepSeek-Generated Code Linked to Political Triggers | \"We found that when DeepSeek-R1 receives prompts containing topics the CCP likely considers politically sensitive, the likelihood of it producing code with severe security vulnerabilities increases by up to 50%.\"",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p83831/security_flaws_in_deepseekgenerated_code_linked/",
+      "published": 1764252879.0,
+      "thumbnail": null,
+      "external_url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-researchers-identify-hidden-vulnerabilities-ai-coded-software/",
+      "site_name": "crowdstrike.com",
+      "favicon": "https://www.crowdstrike.com/etc.clientlibs/crowdstrike/clientlibs/crowdstrike-common/resources/favicon.ico",
+      "description": "CrowdStrike researchers reveal how trigger words cause DeepSeek-R1 to generate vulnerable code\u2014exposing new AI-driven risks in software development."
+    },
+    {
       "title": "McKinsey Cuts About 200 Tech Jobs, Shifts More Roles to AI",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1p82c9j/mckinsey_cuts_about_200_tech_jobs_shifts_more/",
@@ -44,17 +55,6 @@
       "site_name": "Bloomberg.com",
       "favicon": "https://www.bloomberg.com/favicon-black.png",
       "description": "McKinsey &amp; Co. cut about 200 global tech jobs in the past week as the consulting firm joins rivals in using artificial intelligence to automate some positions."
-    },
-    {
-      "title": "Allianz to cut up to 1,800 jobs due to AI advances, says source",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p82a2n/allianz_to_cut_up_to_1800_jobs_due_to_ai_advances/",
-      "published": 1764250301.0,
-      "thumbnail": null,
-      "external_url": "https://www.reuters.com/business/world-at-work/allianz-cut-up-1800-jobs-due-ai-advances-says-source-2025-11-26/",
-      "site_name": "reuters.com",
-      "favicon": null,
-      "description": null
     },
     {
       "title": "Uber headhunted PhDs to join 'Project Sandbox.' After a month, it said that their AI training contracts were over.",
@@ -68,6 +68,17 @@
       "description": "Uber's Project Sandbox used contractors to train AI for Google. On Monday, Uber told some of them their work was over early."
     },
     {
+      "title": "AI is great at tasks but is not good at switching topics",
+      "author": "PeatedW",
+      "url": "https://www.reddit.com/r/artificial/comments/1p800qa/ai_is_great_at_tasks_but_is_not_good_at_switching/",
+      "published": 1764243159.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Everyone talks about how Al can do almost anything now - code, design, generate images, write articles, analyse documents, do research. And yes, it is very good at these things . But here is something most people never mention: Al is amazing at doing tasks - but it is not always good at switching minds and you have guide it to do stuff for you. If you talk to an Al for a long time about one topic, and then suddenly change topic like a human would, it often keeps answering with the inertia of the previous topic. A kind of \"context momentum.\" The Al gets stuck in the mental mode of the previous conversation, even if you're asking something completely different. It is not because the model is bad, it is because human conversations are fluid...and Al is still learning how to let go of old context without losing coherence. This is one of those subtle limitations that people don't notice."
+    },
+    {
       "title": "Popular AI chatbots have an alarming encryption flaw \u2014 meaning hackers may have easily intercepted messages",
       "author": "Fcking_Chuck",
       "url": "https://www.reddit.com/r/artificial/comments/1p7yoct/popular_ai_chatbots_have_an_alarming_encryption/",
@@ -79,6 +90,17 @@
       "description": "Cybersecurity researchers have uncovered a critical vulnerability in the architecture of large language models underpinning generative AI, but how dangerous is this flaw?"
     },
     {
+      "title": "HP to Cut Up to 10% of Workforce as Part of AI Push",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p82k67/hp_to_cut_up_to_10_of_workforce_as_part_of_ai_push/",
+      "published": 1764251103.0,
+      "thumbnail": "https://external-preview.redd.it/YTiFtiNgyKJXg69cOL0-Sijb_kz4IM0VGKnp1jdIvXA.jpeg?width=640&crop=smart&auto=webp&s=d32fb458742d0633cb4ab11f9a23a540b455f96d",
+      "external_url": "https://www.wsj.com/tech/hp-to-cut-up-to-10-of-workforce-as-part-of-ai-push-a2c198da",
+      "site_name": "wsj.com",
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Amazon Workers Issue Warning About Company\u2019s \u2018All-Costs-Justified\u2019 Approach to AI Development",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1p82dsx/amazon_workers_issue_warning_about_companys/",
@@ -88,29 +110,7 @@
       "site_name": "WIRED",
       "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
       "description": "Amazon Employees for Climate Justice says that over 1,000 workers have signed a petition raising \u201cserious concerns\u201d about the company\u2019s \u201caggressive rollout\u201d of artificial intelligence tools."
-    },
-    {
-      "title": "AI can already do the work of 12% of America's workforce, MIT researchers find",
-      "author": "msaussieandmrravana",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7ts0w/ai_can_already_do_the_work_of_12_of_americas/",
-      "published": 1764220443.0,
-      "thumbnail": "https://external-preview.redd.it/TMKHaeP4Ypu7tYW91T_gR_UfQeiFulFjyUC4GDIp8qc.jpeg?width=640&crop=smart&auto=webp&s=f1c8ed2859c683ebd88563fd3bd302e601f19efa",
-      "external_url": "https://www.cbsnews.com/news/ai-artificial-intelligence-workers-mit-study/",
-      "site_name": "cbsnews.com",
-      "favicon": "https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon-192x192.png",
-      "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
-    },
-    {
-      "title": "You can do your Black Friday shopping on Newegg with AI chatbot Perplexity, thanks to new PayPal collaboration",
-      "author": "Tiny-Independent273",
-      "url": "https://www.reddit.com/r/artificial/comments/1p80mi0/you_can_do_your_black_friday_shopping_on_newegg/",
-      "published": 1764245218.0,
-      "thumbnail": "https://external-preview.redd.it/lTeh4RNyampJybky2IOMqVQ4cVJuekHuWpmbW5ouybs.jpeg?width=640&crop=smart&auto=webp&s=ea6b928e7d911e269c795d481c4ab9e7a8135e52",
-      "external_url": "https://www.pcguide.com/news/you-can-do-your-black-friday-shopping-on-newegg-with-ai-chatbot-perplexity-thanks-to-new-paypal-collaboration/",
-      "site_name": "PC Guide",
-      "favicon": "https://www.pcguide.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
-      "description": "Newegg products will now show up on Perplexity AI when you search for PC hardware, and you can buy them directly through the AI chat."
     }
   ],
-  "fetched_at": "2025-11-27T13:44:08.854432+00:00"
+  "fetched_at": "2025-11-27T14:27:10.476258+00:00"
 }

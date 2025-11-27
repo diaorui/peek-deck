@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin (BTC) Jumps Back Above $89,000 to Recoup Some Recent Losses",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNalZoOTJyaDdKRlBRRFp1MUFMVHI0VmZBUGRlYlFwSHFVX0xmTnJOcGRTSF9YMUhfUXZaVHo5R21VLXVldVdWUGEwY0FuZ085SnpNa3lMamVwSlJVQjRKQzk4N0V1UEhFZDFnNXlpZUoxU3Vxc0NRb2xPMV9oLTIzX0Fva2dMNmJmMmRLNENmZ2tVODVwQk5pSjFNa1JreUU2azBPOWI3ekdpaFl6elROMg?oc=5",
+      "pub_date": 1764193048.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-26/bitcoin-jumps-back-above-89-000-to-recoup-some-recent-losses",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i22DHpRV1w.k/v0/1200x800.jpg",
+      "description": "Bitcoin climbed above $90,000 for the first time in almost a week, clawing back ground after a more than a month-long selloff, as a broad rally in risk assets and easing volatility gave traders room to push higher."
+    },
+    {
       "headline": "Economist Paul Krugman says Bitcoin\u2019s crash shows the \u2018unraveling of the Trump trade\u2019",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -15,22 +25,12 @@
       "description": "The Trump family, with ample crypto ventures, has lost an estimated $1 billion from the monthlong cryptocurrency freefall."
     },
     {
-      "headline": "Crypto Markets Today: Bitcoin (BTC) Price Rally Reignites Year-End Optimism",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVnh4eDk4cHZzSmdWdjBhc294LXVsZzU2NEc4U1NBNDZEMWhKQXJhRnlSaXJib2Z6UElINTk2ZGxjRTRHVnVtd2xRc3lNUXZJMjE3MmJYSGFPSE1wV2F3VDl1R2dvaXhXTnVUeEN3Z0t4MDlnOXpmeW1wanppS3d4Z0VPOWV4cHA0bE02RXI2M0gwRHhfNHIxSzVGaGE1ZDhsY09UYjNhcjU2eHJ5T1JXTVZZU0hpNTRWQktfcEY2dk1xLWNlVmJMcA?oc=5",
-      "pub_date": 1764243219.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/27/crypto-markets-today-bitcoin-leads-broad-recovery-as-traders-eye-possible-santa-rally",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Nasdaq Heads for Best Thanksgiving Week Since 2008. How Bitcoin, Tech Can Drive More Gains.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNb25ZWVlJSzNuZ2pmVlliNFM5WHkwbVR6dHI4WHZaTURUYzRLV0thOTBQeWRmT2t2dUh6cU9TaGxWLXpGOHlHdGFMbGEyTno0ZDJuZ2lSWGJDakdFdWU0bjU4QWE1OFRDN3RuZVZYUUpoalNUX284cUtlUnBqTkRuV2VNWENkT1RJUVBiUUduTjlDQnM2U3hhVkpUOXNuZDR2c0l6V01XNG5IM0QwY1BVemFFZmoyTHFZYTVWTVJRUDlhblRMRnJESU1oVGU2ZnlBS21GQ0xfN3VYaWx2OVVYTmlwOU9DLTI5S2s5Q0lOMExHZHpkS1FOZEZ4OEo5b3V0NE1RejNUOFo0WHZTOHYtYTdITENoandlU3ZiMlFhM09nQ203Xy1YY3pnUXdSenZ4NV9nNWVMNFN4QmtONlJQejdoSXF2ZGFvXy1kQnI5ODdMWURDM0ViOExkRlB2UVhCNnhIc004UU0xbVRvZS1HcDBMNnZBdXJ6LUFTMlBKdmVOZmx0eFhrS3N2Y0hNUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQLVJGM1J4dW9LQUpLR0tEY0VjYzZxYVV0Q2V0VThCV1ZuakpiUGtTcDkxVzdHTG84cmx2dzBUVVhrRW9ucjNJWlFIaEZmU21qUnJISjlpSGk5ZU44SXFTQXZXNzBUVG8wdXduRE5QSWVmNHhjX2ZXdUUtWTlCcUNzM0NCcUZQdFBMVzV2VGpkdmFtS0I0aURYVFR2YmZLTjJIaTQ1UUR6SEhMQ21vUTd1VDNnOV8welNoVmpfR2tYUVo2ZDNoOHFpTTRBcm5IUEZ3X0R6SFAxVFI5UnpYZmhCaWJIVXZNNmMyWHp4ZW9pY2duLU94dnJwRXhCZml4eG1yZTVEdTQ4bzhmelI3UnA0NzJiZk1wOElQSmozenNYVE02VkNpNXRPZWRzRmNkVWpHc09jaUtROTJnNFQ1SVhNTjRwdVRmaDRnYnI1WE1pU25qOVZyRU5ocUVob1A3eHZQZ29zS2RHTnNkNEFNMVZoU21DQkFTRFFlYW9uSjJxTVBEc2k3RWstU1Q5NGxPZw?oc=5",
       "pub_date": 1764247440.0,
-      "article_url": "https://www.barrons.com/articles/nasdaq-tech-stocks-rally-bitcoin-crypto-313d5562?gaa_at=eafs&gaa_n=AWEtsqdzpavEkrKTkettxgXAPo3tRvMh2o6ivpSUCquJSpWP7BPUryKXSS10&gaa_ts=69285927&gaa_sig=QPDgv3yAe-Kxmws-2B_1zW6pU82_Ty9NTMtMhEnPKqu3yFgz42Yy8jo8D0TMJgEl_9SS3_u7_x5R4jRyTDe3MA%3D%3D",
+      "article_url": "https://www.barrons.com/articles/nasdaq-tech-stocks-rally-bitcoin-crypto-313d5562?gaa_at=eafs&gaa_n=AWEtsqcO-8-Mybma9YrSUtgkCy9qvmYCBgLP7f61vQvF0B0lDBda2wzsrEku&gaa_ts=6928633d&gaa_sig=DqnvTteXraREMve3TKg6EXHr4RYNgiwQgU4MT6Ij5Ph3G2SpBDAzF6WXgK477_e2RDJqAUNzQdakqqr1DMm6BQ%3D%3D",
       "image": null,
       "description": null
     },
@@ -45,6 +45,16 @@
       "description": "A bitcoin sell-off driven by investors that bought BTC at a premium will likely put pressure on the asset through the year's end, according to Compass Point."
     },
     {
+      "headline": "Tom Lee Cuts Bitcoin Price Prediction to $100K, Says Tether\u2019s Gold Buying Lifts BTC Outlook",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42RjZZLU9zUm1lODV5MllTaEh0QXRZUlFrLVZxdWFrRjBQUi1fSnhnQThSUGJfNGhfLVFsNDljajFpWnNOX2duYTV2aVppak9DVW5SaG14UnNOSmhKUFp5bWtxZFNPeV94VFpaVHEtTkdCZlNteFNIOXRaMWI?oc=5",
+      "pub_date": 1764234135.0,
+      "article_url": "https://finance.yahoo.com/news/tom-lee-cuts-bitcoin-price-090215262.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/c3TxmtTlnuzMrUa8NgNSjQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/16700d68e1de56b8d9201ef1d08c08d3",
+      "description": "Tom Lee has lowered his year-end Bitcoin target from $250,000 to \u201cabove $100,000.\" Lee says Tether's gold buying will help set a higher long-term price ..."
+    },
+    {
       "headline": "JPMorgan reveals new Bitcoin target amid market pullback",
       "source": "TheStreet",
       "source_url": "https://www.thestreet.com",
@@ -53,26 +63,6 @@
       "article_url": "https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-target-amid-market-pullback",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin Price Skyrockets Past $90,000 As BlackRock And JPMorgan Deepen Bitcoin Bets",
-      "source": "Bitcoin Magazine",
-      "source_url": "https://bitcoinmagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BRjJtS0N1d05qRmtaZlNfeHljclJ5TjFqWG9ad0R2c01qbkxQd21NY1ItNlVEUVRPc1FCQlFoeGRGbnRGLTU5NElJTGVCbW1xMEJ1WmlJcnJKUmQwejFzSmxQVUFCRWhVN2xfbGFWcHF6NUpCai1F?oc=5",
-      "pub_date": 1764183769.0,
-      "article_url": "https://bitcoinmagazine.com/news/bitcoin-price-skyrockets-past-90000",
-      "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/11/Bitcoin-Price-Skyrockets-Past-90000-as-BlackRock-and-JPMorgan-Deepen-Bitcoin-Bets-.jpg",
-      "description": "Bitcoin price ripped above $90,000 today on news of a new wave of Wall Street\u2013engineered crypto products."
-    },
-    {
-      "headline": "JPMorgan's Bitcoin Structured Notes Offer Potentially Massive Returns\u2014If BTC Surges by 2028",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS2FscGtxX2hsUWdpMnFUU25mOFVzTWxlcGNROHdUWDlETmpJb1BGeEQ1XzNsczVWUjlUZWZRdW5OM0FEZ0d2OGw1M1BsVU9fTzFGUWNVYVpYMlJna1l6VGc0OWpDdlBBLWpLSW9NN196NGVyMUE5bEpoUldCbENVWmpiSERWbzgtUGZWeldRcw?oc=5",
-      "pub_date": 1764122700.0,
-      "article_url": "https://finance.yahoo.com/news/jpmorgans-bitcoin-structured-notes-offer-020526080.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/BC5zEiSBdb5Ymt5wOLgftQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/197f04006ff7234402103c56fa64d893",
-      "description": "The bank has an idea for a product that would allow investors to make big gains if the leading cryptocurrency soars."
     },
     {
       "headline": "SpaceX transfers $105 million in bitcoin to unmarked wallets: Arkham",
@@ -95,16 +85,26 @@
       "description": "There is a crypto parallel in the aftermath of Europe\u2019s 14th century bubonic plague"
     },
     {
-      "headline": "Strategy's Interest Costs Are About To Rise; How Low Can Bitcoin Whale Fall?",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSUlUZTlQdFV3ZUs4Ml9wYnBOVVpDZVFkSVBTLXRYY29NSDdDYmZJZnRfZGdCQTNvNEcxbEt6dHhDVzlvcWVMSjhSb1FycGZqYWRpUWlqOUtYb3JEWkIyODJsSlJUeHE1bldTN1FlWnJxQzVvM09jX2dOQUJVUnl3TmpHRW9wNks5VzhVZWdpRktzMkdqa0FfMw?oc=5",
-      "pub_date": 1764177840.0,
-      "article_url": "https://www.investors.com/news/mstr-stock-strategy-bitcoin-price-interest-costs-mnav-premium/",
+      "headline": "Crypto Markets Today: Bitcoin (BTC) Price Rally Reignites Year-End Optimism",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVnh4eDk4cHZzSmdWdjBhc294LXVsZzU2NEc4U1NBNDZEMWhKQXJhRnlSaXJib2Z6UElINTk2ZGxjRTRHVnVtd2xRc3lNUXZJMjE3MmJYSGFPSE1wV2F3VDl1R2dvaXhXTnVUeEN3Z0t4MDlnOXpmeW1wanppS3d4Z0VPOWV4cHA0bE02RXI2M0gwRHhfNHIxSzVGaGE1ZDhsY09UYjNhcjU2eHJ5T1JXTVZZU0hpNTRWQktfcEY2dk1xLWNlVmJMcA?oc=5",
+      "pub_date": 1764243219.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/27/crypto-markets-today-bitcoin-leads-broad-recovery-as-traders-eye-possible-santa-rally",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Nasdaq ISE Seeks to Quadruple Trading Limits on BlackRock's Bitcoin ETF Options",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTm5Pa2xCeHVuZmVLc2FYazZZOGo3WThabUZnY1RvcmpKVFhCZnN4WkhuaEdyMDVNRC1fNENHdjlRRXVFUTlFVHBjcnRoZUFEdFp5OGxQMFExa3VTZXdiYlpNUWJDNHg1WWRzUTktWTNkcGdMQ2padjdDZVpmMURLNl95SjZuSnB3MmFPZ0pucmJmVzdJ0gGcAUFVX3lxTE5haXRYZm91ems3NjZReHJ3Zmh1NkpidzAxYWRvOGRMREZJb1dUQVQ1b0Y2OHhsWkY5OTBpUDVmOV9aRk9TVkp1aHJ5UWYyMXVJZnk3TFRxOHUtMTFqeHgtV0hvblQxbGM4MWJvVEROUVBCWUxCUG8wdFlkOGxIUnhDVE1Venk0U1ZHcEQ5TFdpV2piVDVEWTBDTVRoUg?oc=5",
+      "pub_date": 1764217357.0,
+      "article_url": "https://decrypt.co/350191/nasdaq-ise-seeks-quadruple-trading-limits-blackrocks-bitcoin-etf",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/larry-fink-blackrock-decrypt-style-03-gID_7.jpg",
+      "description": "The move marks a shift that would bring Bitcoin derivatives in line with major equities and deepen institutional access to the market."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T13:44:23.663406+00:00"
+  "fetched_at": "2025-11-27T14:27:25.083431+00:00"
 }
