@@ -2,17 +2,6 @@
   "subreddit": "Bitcoin",
   "posts": [
     {
-      "title": "My reaction to bitcoin hitting 91k today",
-      "author": "dim_discourse",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p7qx78/my_reaction_to_bitcoin_hitting_91k_today/",
-      "published": 1764211337.0,
-      "thumbnail": "https://preview.redd.it/gzdnxyo2qp3g1.gif?width=320&crop=smart&s=9930eb9dd776db29049744fcdc8582915bdc7a2e",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "me in 2007 instead of buying Bitcoin",
       "author": "popyubuntu",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p816pi/me_in_2007_instead_of_buying_bitcoin/",
@@ -22,6 +11,17 @@
       "site_name": null,
       "favicon": null,
       "description": "me in 2007 instead of buying Bitcoin"
+    },
+    {
+      "title": "My reaction to bitcoin hitting 91k today",
+      "author": "dim_discourse",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p7qx78/my_reaction_to_bitcoin_hitting_91k_today/",
+      "published": 1764211337.0,
+      "thumbnail": "https://preview.redd.it/gzdnxyo2qp3g1.gif?width=320&crop=smart&s=9930eb9dd776db29049744fcdc8582915bdc7a2e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Me after seeing the $26 profit i made from bitcoin in the past week",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-27T13:08:54.389920+00:00"
+  "fetched_at": "2025-11-27T13:44:03.031390+00:00"
 }

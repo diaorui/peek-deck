@@ -24,6 +24,39 @@
       "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
     },
     {
+      "title": "Anthropic CEO called to testify on Chinese AI cyberattack | \"For the first time, we are seeing a foreign adversary use a commercial AI to carry out nearly an entire cyber operation with minimal human involvement. That should concern every federal agency and every sector of critical infrastructure.\"",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p826h5/anthropic_ceo_called_to_testify_on_chinese_ai/",
+      "published": 1764250016.0,
+      "thumbnail": "https://external-preview.redd.it/VfA-u8Rw9BFF-J5LqrKdMYeOZRTezU23-kBENUhAfPU.jpeg?width=640&crop=smart&auto=webp&s=00276678b3025136d24756c606db2b338a456e4f",
+      "external_url": "https://www.axios.com/2025/11/26/anthropic-google-cloud-quantum-xchange-house-homeland-hearing",
+      "site_name": "axios.com",
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "McKinsey Cuts About 200 Tech Jobs, Shifts More Roles to AI",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p82c9j/mckinsey_cuts_about_200_tech_jobs_shifts_more/",
+      "published": 1764250474.0,
+      "thumbnail": "https://external-preview.redd.it/tvBg-nWzfjdyybHdUdZADh8N54ZaqcJsYCmj2x4Qzoc.jpeg?width=640&crop=smart&auto=webp&s=eb4f9150f4474477438345146639851e96af446f",
+      "external_url": "https://www.bloomberg.com/news/articles/2025-11-26/mckinsey-cuts-about-200-tech-jobs-shifts-more-roles-to-ai",
+      "site_name": "Bloomberg.com",
+      "favicon": "https://www.bloomberg.com/favicon-black.png",
+      "description": "McKinsey &amp; Co. cut about 200 global tech jobs in the past week as the consulting firm joins rivals in using artificial intelligence to automate some positions."
+    },
+    {
+      "title": "Allianz to cut up to 1,800 jobs due to AI advances, says source",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p82a2n/allianz_to_cut_up_to_1800_jobs_due_to_ai_advances/",
+      "published": 1764250301.0,
+      "thumbnail": null,
+      "external_url": "https://www.reuters.com/business/world-at-work/allianz-cut-up-1800-jobs-due-ai-advances-says-source-2025-11-26/",
+      "site_name": "reuters.com",
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Uber headhunted PhDs to join 'Project Sandbox.' After a month, it said that their AI training contracts were over.",
       "author": "businessinsider",
       "url": "https://www.reddit.com/r/artificial/comments/1p7fz31/uber_headhunted_phds_to_join_project_sandbox/",
@@ -33,6 +66,28 @@
       "site_name": "Business Insider",
       "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
       "description": "Uber's Project Sandbox used contractors to train AI for Google. On Monday, Uber told some of them their work was over early."
+    },
+    {
+      "title": "Popular AI chatbots have an alarming encryption flaw \u2014 meaning hackers may have easily intercepted messages",
+      "author": "Fcking_Chuck",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7yoct/popular_ai_chatbots_have_an_alarming_encryption/",
+      "published": 1764238245.0,
+      "thumbnail": "https://external-preview.redd.it/A-emmtlMCjw-rX090Ar8GZLGKTj3nwOErcQnQk1JMsI.png?width=640&crop=smart&auto=webp&s=c01a64b1c9d5917136cee6d21665bb664e838962",
+      "external_url": "https://www.livescience.com/technology/artificial-intelligence/popular-ai-chatbots-have-an-alarming-encryption-flaw-meaning-hackers-may-have-easily-intercepted-messages",
+      "site_name": "Live Science",
+      "favicon": "https://vanilla.futurecdn.net/livescience/1479220/apple-touch-icon.png",
+      "description": "Cybersecurity researchers have uncovered a critical vulnerability in the architecture of large language models underpinning generative AI, but how dangerous is this flaw?"
+    },
+    {
+      "title": "Amazon Workers Issue Warning About Company\u2019s \u2018All-Costs-Justified\u2019 Approach to AI Development",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p82dsx/amazon_workers_issue_warning_about_companys/",
+      "published": 1764250594.0,
+      "thumbnail": "https://external-preview.redd.it/axxgvLBAktTpa_2X5uSfwwDgTHmcltaPgfzfmR2shu8.jpeg?width=640&crop=smart&auto=webp&s=04c5ae562c596f98bebd9552959b7bbc76e6f5ec",
+      "external_url": "https://www.wired.com/story/amazon-employees-open-letter-artificial-intelligence-layoffs/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "Amazon Employees for Climate Justice says that over 1,000 workers have signed a petition raising \u201cserious concerns\u201d about the company\u2019s \u201caggressive rollout\u201d of artificial intelligence tools."
     },
     {
       "title": "AI can already do the work of 12% of America's workforce, MIT researchers find",
@@ -55,62 +110,7 @@
       "site_name": "PC Guide",
       "favicon": "https://www.pcguide.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
       "description": "Newegg products will now show up on Perplexity AI when you search for PC hardware, and you can buy them directly through the AI chat."
-    },
-    {
-      "title": "AI is great at tasks but is not good at switching topics",
-      "author": "PeatedW",
-      "url": "https://www.reddit.com/r/artificial/comments/1p800qa/ai_is_great_at_tasks_but_is_not_good_at_switching/",
-      "published": 1764243159.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Everyone talks about how Al can do almost anything now - code, design, generate images, write articles, analyse documents, do research. And yes, it is very good at these things . But here is something most people never mention: Al is amazing at doing tasks - but it is not always good at switching minds and you have guide it to do stuff for you. If you talk to an Al for a long time about one topic, and then suddenly change topic like a human would, it often keeps answering with the inertia of the previous topic. A kind of \"context momentum.\" The Al gets stuck in the mental mode of the previous conversation, even if you're asking something completely different. It is not because the model is bad, it is because human conversations are fluid...and Al is still learning how to let go of old context without losing coherence. This is one of those subtle limitations that people don't notice."
-    },
-    {
-      "title": "We\u2019re Treating GPUs Like Cars But AI Chips Age Like Milk",
-      "author": "Akkeri",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7zygb/were_treating_gpus_like_cars_but_ai_chips_age/",
-      "published": 1764242938.0,
-      "thumbnail": null,
-      "external_url": "https://ponderwall.com/index.php/2025/11/23/gpu-depreciation-ai-economics/",
-      "site_name": "ponderwall.com",
-      "favicon": "https://ponderwall.com/wp-content/uploads/2016/02/cropped-Thumbnail-180x180.jpg",
-      "description": "GPUs are wearing out faster than companies admit. High\u2011performance GPUs used for AI often become economically obsolete in 2\u20133 years, not the 5\u20136 years firms expect. This mismatch could be hiding huge costs and overstating profits. AI companies may be sitting on depreciating hardware while investors remain in the dark."
-    },
-    {
-      "title": "Nvidia reminds everyone it's \"a generation ahead of the industry\" following reports of Meta and Google AI partnership",
-      "author": "Tiny-Independent273",
-      "url": "https://www.reddit.com/r/artificial/comments/1p763in/nvidia_reminds_everyone_its_a_generation_ahead_of/",
-      "published": 1764158934.0,
-      "thumbnail": "https://external-preview.redd.it/VgNJe-IQFXOo8OTHrBmRxCjQ-Llh0eR3cDDDYWqTN1o.jpeg?width=640&crop=smart&auto=webp&s=0d5294deecd7a959bd36cccde321af524ff9a355",
-      "external_url": "https://www.pcguide.com/news/nvidia-reminds-everyone-its-a-generation-ahead-of-the-industry-following-reports-of-meta-and-google-ai-partnership/",
-      "site_name": "PC Guide",
-      "favicon": "https://www.pcguide.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
-      "description": "Nvidia applauds Google on its recent win, but the leading AI infrastructure company says it still \"offers greater performance\" than the rest."
-    },
-    {
-      "title": "Google\u2019s Hot New AI Coding Tool Was Hacked A Day After Launch",
-      "author": "forbes",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7bp8q/googles_hot_new_ai_coding_tool_was_hacked_a_day/",
-      "published": 1764173402.0,
-      "thumbnail": "https://external-preview.redd.it/d4fW3480YuwaM-1rjP6cRK2ijoJmqg1mljZzxwRz9vM.jpeg?width=640&crop=smart&auto=webp&s=353b205b96eef0e9019fdbaf69e77461cef81518",
-      "external_url": "https://go.forbes.com/YRA6PQ",
-      "site_name": "Forbes",
-      "favicon": "https://i.forbesimg.com/57X57-F.png",
-      "description": "A security researcher discovered a major flaw in the coding product, the latest example of companies rushing out AI tools vulnerable to hacking."
-    },
-    {
-      "title": "Popular AI chatbots have an alarming encryption flaw \u2014 meaning hackers may have easily intercepted messages",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7yoct/popular_ai_chatbots_have_an_alarming_encryption/",
-      "published": 1764238245.0,
-      "thumbnail": "https://external-preview.redd.it/A-emmtlMCjw-rX090Ar8GZLGKTj3nwOErcQnQk1JMsI.png?width=640&crop=smart&auto=webp&s=c01a64b1c9d5917136cee6d21665bb664e838962",
-      "external_url": "https://www.livescience.com/technology/artificial-intelligence/popular-ai-chatbots-have-an-alarming-encryption-flaw-meaning-hackers-may-have-easily-intercepted-messages",
-      "site_name": "Live Science",
-      "favicon": "https://vanilla.futurecdn.net/livescience/1479220/apple-touch-icon.png",
-      "description": "Cybersecurity researchers have uncovered a critical vulnerability in the architecture of large language models underpinning generative AI, but how dangerous is this flaw?"
     }
   ],
-  "fetched_at": "2025-11-27T13:08:53.118089+00:00"
+  "fetched_at": "2025-11-27T13:44:08.854432+00:00"
 }
