@@ -35,17 +35,6 @@
       "description": null
     },
     {
-      "title": "Hello everybody because of my recent interest in robotics I built a lfr (line follower robot)",
-      "author": "draken_kun69",
-      "url": "https://www.reddit.com/r/robotics/comments/1p8dv4h/hello_everybody_because_of_my_recent_interest_in/",
-      "published": 1764279804.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Now because I'm so intrigued in this side quest or gig I'm looking to explore even more in this nice. And post my exams I would be bored so I wanna build sm really crazy ass projects and want to start in this can someone provide me a roadmap or like how to start in this? Any help or guide would be helpful thanks."
-    },
-    {
       "title": "Which robotics jobs to look out for and how to prepare for it?",
       "author": "itzok27",
       "url": "https://www.reddit.com/r/robotics/comments/1p87zbx/which_robotics_jobs_to_look_out_for_and_how_to/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "Hello, can anyone please help me think larger? For my high school senior year capstone project, I am planning on making a device that accurately detects the flood inside the house, and when reached a certain threshold (water height), immediately (1), sends sms to the home owner, (2), immidiately turns off electricity inside the house. (3, extremely tentative) opens emergency exits, before shutting power. Here in the Philippines, city power takes hours to turn off the power in certain flooded areas, due to recent typhoons, floods can reach 3 ft in urban areas in as fast as 30 minutes. People are heavily prone to electrocution. Some homes even has no breaker system (they're called \"jumpers\", wherein they steal electricity from other homes.) I need something more innovative in addition to what's already in the table, our instructor gave us until march to finish the scientific paper and the main prototype. Any suggestions? Thanks in advance! -Rin"
+    },
+    {
+      "title": "Robotera L7 and Fourier GR-2",
+      "author": "AcademicDimension957",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7ydx9/robotera_l7_and_fourier_gr2/",
+      "published": 1764237175.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi guys! I wanted to ask whether anyone has any experience with the Robotera L7 dexterous humanoid or the Fourier GR-2. Both seem quite dexterous (12 DoF hands) but I have heard mixed opinions especially for the Fourier GR-2's joint encoders. I would extremely appreciate any thoughts on those humanoids or if anyone has real world experience with them."
     }
   ],
-  "fetched_at": "2025-11-27T22:27:52.125168+00:00"
+  "fetched_at": "2025-11-27T23:18:37.147911+00:00"
 }
