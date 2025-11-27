@@ -79,6 +79,17 @@
       "description": "Knucklebuster arm prototype test, its a test torso that i Will upgrade till It resembles v1. The arm has one nema 17 stepper motor in the upper arm and a nema 14 at the middle, maybe i'll use a Raspberry pi 5 with ai for controlling everything but, i'm open to suggestions!"
     },
     {
+      "title": "How do you even label unexpected behavior in the real world?",
+      "author": "Mtukufu",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7xg2l/how_do_you_even_label_unexpected_behavior_in_the/",
+      "published": 1764233469.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "It\u2019s fairly straightforward to label training data when everything happens in a clean, controlled environment. But once you step into real-world robotics, the situation becomes messy fast. There are weird edge cases, rare events, unexpected collisions, unpredictable human interactions, drifting sensors, and all kinds of unknowns that don\u2019t show up in simulation. Manually reviewing and labeling every single one of these anomalies is incredibly slow and resource-intensive. For those working with embodied AI, manipulation, locomotion, or autonomous navigation, how do you realistically keep up with labeling this chaotic real-world data? Are you using automated labeling tools, anomaly detectors, heuristics, synthetic augmentation, active learning, or just grinding through manual review? Curious to hear how other teams are approaching this."
+    },
+    {
       "title": "Capstone project",
       "author": "Rinzui__",
       "url": "https://www.reddit.com/r/robotics/comments/1p85q6y/capstone_project/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Hi guys! I wanted to ask whether anyone has any experience with the Robotera L7 dexterous humanoid or the Fourier GR-2. Both seem quite dexterous (12 DoF hands) but I have heard mixed opinions especially for the Fourier GR-2's joint encoders. I would extremely appreciate any thoughts on those humanoids or if anyone has real world experience with them."
-    },
-    {
-      "title": "What can I do to transition into the robotics industry?",
-      "author": "Early_Acanthisitta88",
-      "url": "https://www.reddit.com/r/robotics/comments/1p85gpi/what_can_i_do_to_transition_into_the_robotics/",
-      "published": 1764258522.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-11-27T20:57:40.571462+00:00"
+  "fetched_at": "2025-11-27T21:37:10.229223+00:00"
 }

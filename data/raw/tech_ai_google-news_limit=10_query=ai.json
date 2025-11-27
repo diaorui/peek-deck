@@ -45,24 +45,44 @@
       "description": "The company's Gemini 3 and Ironwood AI chip are driving Wall Street's excitement behind Alphabet's AI comeback, but challenges remain."
     },
     {
-      "headline": "Investors expect AI use to soar. That\u2019s not happening",
+      "headline": "AI is upending the porn industry",
       "source": "The Economist",
       "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkpHa2tpX01zLXh5eXdTS2NWUi1ra04xeHlpSHhXbkZWUHdLdUxib1c5T21UTlIwd3JBRS1mUGdUcnVvbmduV1h0UlZaOEJObDI5Q1hneEJVTTlfN2s1NmlMbjJmMkNoZ21XdUlySG9zc3lUYk9IcG11YTNjZGdSX3hMVDhaMGxVT0RlRmlrQUlQeS14LUFjLW9HSkU1Wkpwc3g1VXMyMno5SDhiX2cw?oc=5",
-      "pub_date": 1764174642.0,
-      "article_url": "https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZFJQTU1XOExNVGFCc25xZ1llOGRVTTRGUGtOTGRKWjhGYkV6S1RBNG4ySkQydFBDMUJvVHJkWU42OGI1Vk14cWtuS1BUdzVIZTQwQkFFeDlIbVQ3Z0tHZDltTWhpX0ZQelc5N29QQVZUdUxPOVZ4MDhFVXVEb1hMU2VqUFB4bWVNSGNF?oc=5",
+      "pub_date": 1764252394.0,
+      "article_url": "https://www.economist.com/international/2025/11/27/ai-is-upending-the-porn-industry",
       "image": null,
       "description": null
     },
     {
-      "headline": "Stocks whipsaw as AI bubble fears, Fed uncertainty rattle Wall Street",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SZWtaSEdVbzRSQ255U1dOZ1BzeDJrRmdZSGMwTU4wUkdXek9HSHR2ekVfUEcwMnZPeVJlTVExMVpkb3RqNVcyc0NwUEVvd0RqbS1mMTNkc1hBcWhpSTVPN2hpZVliQnB5NlFYVVdCcm1lMHBIY2ZNcHJyNmMzZUnSAYQBQVVfeXFMTmFEUllXTk8xbTFvY0hLZFRnQklGRVFDdmNSUFpfS05iRjV0MnVlWE16ZGZ4Q2x2WjJjLWVxTFhlWHpyM292NWIxX1RMRmRyQ3ozY2RzTTNBT19iRHRuVEx5SDk3WGlZSGdsWFdzNEpCSjVBWWxpOFdRc1J4aUpEbjkxY1Vs?oc=5",
-      "pub_date": 1764241200.0,
-      "article_url": "https://thehill.com/policy/technology/5624075-ai-bubble-market-volatility/",
+      "headline": "A.I. and the Trillion-Dollar Question",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVFaLVQzSURxQWxMUG4yNTlXcnhxa2c4cFl5ZkNhb1g5Z2RHVV9oenRXNlNRZ1VMZlNTSkxPY0xJTFVNOVJvQkNNYi0zcnZoV055N1dKSVZyR052NGpCTTd6YWlXVEs5NFpPLWhSZlZkaHlIZUtaMFl2YkNVbUs0SVVQakNQTUV0enQzZVJ0TFB5LUVqdE1F?oc=5",
+      "pub_date": 1764277665.0,
+      "article_url": "https://www.nytimes.com/2025/11/27/world/ai-valuations-markets-technology-hongkong-fire.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "\u2018People believe this stuff\u2019: AI is a new headache for air disaster investigators",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb2JQQ0J4Z25TcXk0c0Q3LTVsUE9fSHJhVE93c3V6N2JzTVZ4YVFySXIyNXg5aUtRZnpUTXNNenZmbGxhM3ozeUFxM3d2SEM3YnlCeXJPdktiWjFDZDFpeWY5YzlvazRFVTk1S0xXXzl6NURCdUlfRFRIOHJ5VXM1emNzSTN3M2k2ZHdJXzJPUnBQUzgwdHBoZTlmc2pYSm4teWZ3c1hCRms5OTV2MzFIM0ZoRHdRSFM0ZG1IWUFhUDI5QQ?oc=5",
+      "pub_date": 1764277200.0,
+      "article_url": "https://www.politico.com/news/2025/11/27/people-believe-this-stuff-ai-a-new-headache-for-air-disaster-investigators-00635068",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "'Green light' away from AI trade: Two ETF executives see a key market shift underway",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTdud0hpenpCbDFLNVRsRXlsU0tYZVo5SW9fRU53QnJzR2FmT1JSa0NfX0stTEJsc1lCc1VIZFFJQzBJanBZenZwODk1ckIwLV9wMThXZFpMekxPY01YYk1uRy1nOEhHcEc2TUVpZV9ydFRxNXY1ZnZ3UVRPVDZuWk4zWW9YS3RSZXpTNURnX3FoOWFWR21WMGJueWx0SUF5QmFmNTJR0gGrAUFVX3lxTE9NcjdMVHdudEVHQndfX2Q0bzE2QTR6VDZ6WHpyWkt1Q19EVXdXd0xvNkZweXVudU1Ya0xhTnRNVkM0dXBkSnJsS05SV0VQUWR0MGlxSzJTckEwZlY2NGZIMWFpMlRRUFd1YVFKcFhsQVdSeGhxQ0p6a1M5M2ZHdXYwLUVNem5OZU0tMGJ2djNiXzZGZHJfT0lrVzdQX003aFFiMFVsNFlxSmxzTQ?oc=5",
+      "pub_date": 1764277201.0,
+      "article_url": "https://www.cnbc.com/2025/11/27/green-light-away-from-ai-trade-two-etf-ceos-see-a-key-market-shift.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108180547-1754063406081-IMG_8885.jpg?v=1754063887&w=1920&h=1080",
+      "description": "Markets may have entered a new cycle. Here's why."
     },
     {
       "headline": "What bubble? The analysts and investors making the bull case for AI",
@@ -75,16 +95,6 @@
       "description": "Chipmaker Nvidia posted yet another blockbuster earnings report this month."
     },
     {
-      "headline": "I\u2019m a Professor. A.I. Has Changed My Classroom, but Not for the Worse.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1JDcTlTQlp3VVhmZURGLVNOR0JBVGZIVVhBZjEyWEJYQ2pySVpYdEhzdVVCZTZEVnBsMTVlM25LSGk5OUEwWmpvSUpYX2xPYXB6RHpSSHVZd1lZdHNLY0hSWTlreTI2ZG5vNjB5Rk9iZXNfTXZqN2JhSnFJSDlLenNyUElkVE1hRl9CUVBsaw?oc=5",
-      "pub_date": 1764064812.0,
-      "article_url": "https://www.nytimes.com/2025/11/25/magazine/ai-higher-education-students-teachers.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "How to talk to grandma about ChatGPT",
       "source": "Axios",
       "source_url": "https://www.axios.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.axios.com/2025/11/27/seniors-scams-chatgpt-sora-gemini",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "How Microsoft\u2019s developers are using AI",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcXZUNko0RTJrNUFwV1pBN2Y0Q0VlemNXYTE1c1k2VExxYk9FcmVWWUhyWVUta0psbEVLbGVrYldFVE9yRDNfN3p0eWhCMGd5OHRpYkU4c0NlNTFmT0RMWnp5UkxjbnpONXRTMlROQ05YTm9DckxqTzMtUWhIVl9tRlMwdmRmdw?oc=5",
-      "pub_date": 1764262800.0,
-      "article_url": "https://www.theverge.com/tech/831379/microsoft-developer-ai-usage-stats-notepad",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "AI might not be transforming every job yet, but it\u2019s having a big impact on developers."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T20:57:50.607650+00:00"
+  "fetched_at": "2025-11-27T21:37:28.479194+00:00"
 }

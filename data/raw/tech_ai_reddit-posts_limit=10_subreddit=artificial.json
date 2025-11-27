@@ -13,17 +13,6 @@
       "description": "Mexico announced on Wednesday plans to build Coatlicue, a 314-petaflop supercomputer that will become Latin America's most powerful."
     },
     {
-      "title": "Security Flaws in DeepSeek-Generated Code Linked to Political Triggers | \"We found that when DeepSeek-R1 receives prompts containing topics the CCP likely considers politically sensitive, the likelihood of it producing code with severe security vulnerabilities increases by up to 50%.\"",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p83831/security_flaws_in_deepseekgenerated_code_linked/",
-      "published": 1764252879.0,
-      "thumbnail": null,
-      "external_url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-researchers-identify-hidden-vulnerabilities-ai-coded-software/",
-      "site_name": "crowdstrike.com",
-      "favicon": "https://www.crowdstrike.com/etc.clientlibs/crowdstrike/clientlibs/crowdstrike-common/resources/favicon.ico",
-      "description": "CrowdStrike researchers reveal how trigger words cause DeepSeek-R1 to generate vulnerable code\u2014exposing new AI-driven risks in software development."
-    },
-    {
       "title": "ChatGPT maker OpenAI confirms major data breach, exposing user's names, email addresses, and more \u2014 \"Transparency is important to us.\"",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1p85xzi/chatgpt_maker_openai_confirms_major_data_breach/",
@@ -35,15 +24,15 @@
       "description": "Users are waking up to discover OpenAI leaked their data this morning via a faulty third-party plugin. Here's what you need to know."
     },
     {
-      "title": "OpenAI says dead teen violated TOS when he used ChatGPT to plan suicide",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7i8r8/openai_says_dead_teen_violated_tos_when_he_used/",
-      "published": 1764188178.0,
-      "thumbnail": "https://external-preview.redd.it/ZJzNUtejLvTlT9K0tqHP72WSQjMM9XdqljbZbihFivg.jpeg?width=640&crop=smart&auto=webp&s=60b05d376319c4214a9ba8816e4b24eb385b9c59",
-      "external_url": "https://arstechnica.com/tech-policy/2025/11/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide/",
-      "site_name": "Ars Technica",
-      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
-      "description": "OpenAI\u2019s response to teen suicide case is \u201cdisturbing,\u201d lawyer says."
+      "title": "Security Flaws in DeepSeek-Generated Code Linked to Political Triggers | \"We found that when DeepSeek-R1 receives prompts containing topics the CCP likely considers politically sensitive, the likelihood of it producing code with severe security vulnerabilities increases by up to 50%.\"",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p83831/security_flaws_in_deepseekgenerated_code_linked/",
+      "published": 1764252879.0,
+      "thumbnail": null,
+      "external_url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-researchers-identify-hidden-vulnerabilities-ai-coded-software/",
+      "site_name": "crowdstrike.com",
+      "favicon": "https://www.crowdstrike.com/etc.clientlibs/crowdstrike/clientlibs/crowdstrike-common/resources/favicon.ico",
+      "description": "CrowdStrike researchers reveal how trigger words cause DeepSeek-R1 to generate vulnerable code\u2014exposing new AI-driven risks in software development."
     },
     {
       "title": "Allianz to cut up to 1,800 jobs due to AI advances, says source",
@@ -55,6 +44,17 @@
       "site_name": "reuters.com",
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "OpenAI says dead teen violated TOS when he used ChatGPT to plan suicide",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7i8r8/openai_says_dead_teen_violated_tos_when_he_used/",
+      "published": 1764188178.0,
+      "thumbnail": "https://external-preview.redd.it/ZJzNUtejLvTlT9K0tqHP72WSQjMM9XdqljbZbihFivg.jpeg?width=640&crop=smart&auto=webp&s=60b05d376319c4214a9ba8816e4b24eb385b9c59",
+      "external_url": "https://arstechnica.com/tech-policy/2025/11/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide/",
+      "site_name": "Ars Technica",
+      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+      "description": "OpenAI\u2019s response to teen suicide case is \u201cdisturbing,\u201d lawyer says."
     },
     {
       "title": "A nuanced take on current progress",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-27T20:57:36.505097+00:00"
+  "fetched_at": "2025-11-27T21:37:05.809946+00:00"
 }
