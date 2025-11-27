@@ -15,54 +15,84 @@
       "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
     },
     {
+      "headline": "AI can already do the work of 12% of America's workforce, MIT researchers find",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44UF9fODFDSXVRY0g2eGR2OUZDeWJNNXkyazdpTXBiaVFVcU1nazhnMU5FZjJOX3JIN09HZDgyM3RQa3pLV1B4RThrTUNtWEQ3YkRzOVo4YjMtdlFIWjh3aXk1Wk11RTVTck1TU3Y2X3BXYnYtSjBlWmR5Z09vZ2PSAYQBQVVfeXFMTWxzZTJtZkdtRk9TVG9rb2hoN2xqU2dJZXAxd3M4Yi1HTXl6NkVxeUtaeDFhN0JTU21IcVBLUXpLMUlKX2RvV3NVcVEwMDhqZmJWS0d3NGVtbXcxVFYybjdMeFhONnBHblhCT3otVXI1RjdrOWhzX2lOTE9EMHRicXdTMG1n?oc=5",
+      "pub_date": 1764197820.0,
+      "article_url": "https://www.cbsnews.com/news/ai-artificial-intelligence-workers-mit-study/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/26/1a6fc6cd-ea80-4468-977a-7a46e4002cbb/thumbnail/1200x630/c93034e11ba8c92f4d25914d01b97e08/gettyimages-2234175849.jpg",
+      "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
+    },
+    {
+      "headline": "MIT study finds AI is already capable of replacing 11.7% of U.S. workers",
+      "source": "Fast Company",
+      "source_url": "https://www.fastcompany.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUkh2T25IejZKSEU4SzlVUjVZQ0N0MUZwUnFCTERQWS15NlA4OHlXUHF1YmEtbUlSY2dQQUhxVjBmbWJRUi13NTcyMVVNS2ZDNmZrQ21YcUliZHFJY2RSRlhBMnBuLU44ZXc4VnVaVm9zM0o3c0ctVnhrZy05VHZqZkZ3YWtNTEZPaGV5Y1FCeWFNYW03U2w4d0E4UjQwdGtZR3ZMNy13MHZOTmM?oc=5",
+      "pub_date": 1764191586.0,
+      "article_url": "https://www.fastcompany.com/91450119/mit-study-finds-ai-is-already-capable-of-replacing-11-7-of-u-s-workers",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China's tech giants move AI model training overseas to tap Nvidia chips, FT reports",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYzVJeTN5ZTBJZzJ2UXk5ZjluTUxKZC11aDdmRmdGWEtVLUF4TVdrQjVlWHoyY0pGakxyWlFNLWhQa0UtRk5NYUNyWktGSFdUbDk4Q3VGQlJoQlpDSTJ5aXRyOUdQQXU0dllKa2ZraUF4dFctM2o3ZkpFR1NrN29QTEZsUDhuanNOSVdTeUQxQzEtUnY2WHpDSWVZMGpJZ2dNQmE1N2xQekhnai01aFppcXNtb1NUNHpxN1g0a0RyS0k3eHUz?oc=5",
+      "pub_date": 1764220987.0,
+      "article_url": "https://www.reuters.com/world/china/chinas-tech-giants-move-ai-model-training-overseas-tap-nvidia-chips-ft-reports-2025-11-27/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia says its GPUs are a 'generation ahead' of Google's AI chips",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVG8zU3NmR0xkeDlaMmhNQThNZnN6MFZtV2VfbnNMT0ZYcVJFLUJiaENlTlRGNE9KMXZSdDhMZVdyT24wcE9JdWxJTWNVSFJpOEU1Vm03aXZwT2ZONnh5S1ZBeXFOOERIWVBBNlg5WnBPTVBfM2VSX29maU5UN2h2amlRVFIwN3BXdnNrVDItWHZaSDlLX2w2UF9TQzVUYVd5QUHSAacBQVVfeXFMTm9EMGExa2dMN1pKMWQ2MjZUc1hST2ZCNnFsYTFENlItc3plcm9rdjd1Y3RjLXFQZ2t2V0ZKWW1tLUNwRTRUZW1LbkpkR05JcnNteFk2MUNfcWFWZmJnQWp1RnVISzJMS3UwUk1SQTF0cU5welZqVVdvTElyS3dvS0tpVUlYOXNUOXRuREFnNG4xbzNORXRLaEtpSW1qSWtJLUx6bVJzeUE?oc=5",
+      "pub_date": 1764095391.0,
+      "article_url": "https://www.cnbc.com/2025/11/25/nvidia-says-its-gpus-are-a-generation-ahead-of-googles-ai-chips.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229150-1763650981923-gettyimages-2246892165-AFP_84JG4JG.jpeg?v=1763651000&w=1920&h=1080",
+      "description": "It was in response to Wall Street's concern that Google's TPU chips could threaten Nvidia's dominance of the AI infrastructure industry on Tuesday."
+    },
+    {
       "headline": "China\u2019s tech giants take AI model training offshore to tap Nvidia chips",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWMzY2bnNzV1Y4QWszYUd4V01JUTVZR1A4YThfUFd4OGdrT3JGV1dYNnBUVzZaalN5SHNFZnBDTTNiRVNpb1h3S3lYdE9qeDBvSENkUXY3b3B5MU1SU01IcUxEaHZaVjIzNTZsdERaWXQ?oc=5",
-      "pub_date": 1764219640.0,
+      "pub_date": 1764219615.0,
       "article_url": "https://www.ft.com/content/96fe9898-a3a4-4a33-be1d-da06bdb6cb2b",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4d92d536-db90-4f4d-9e72-8b3e8659d182.jpg?source=next-barrier-page",
       "description": "Alibaba and ByteDance shift development to south-east Asia to sidestep US curbs"
-    },
-    {
-      "headline": "CNBC's The China Connection newsletter: Foreign investors warm to China\u2019s cheaper AI valuations despite fears of a U.S. bubble",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeVFMMG9HNDhVcWNWNm9KTU5GS01mOElYRjlZQW9LLWlCb25XbW43RTY1aU9hcE43NGtKOEtGaU5SWHRTVTdORmtWMjRIN0dUY1N1dHVra25yT3VTNmJsVTZ5Tm1yb3lKaFhfQXFIcG5HVXM2QUV5RS1pdkZVYlRkd0VuUG0xRUp2R0JocU5TRGFSLTZKTWs4RVFxVVlwZ3VjbHk0SFBtTE1LVUlCOEd4MHV4dnNidFdEMWhoM2RVaGtZLV9TWkpsT1lKaUtnSnk00gHWAUFVX3lxTE9UTTBFQWVHME1tUlRoTEo3UnY4RzVMa1pWNWJtX2J4OW8xVnYtaXJoTHVZSzFIMDVMN0dVUmtKYW4wd05EVUNsT0cxYTR6bDZBeWVzYm9UWjFaaV9sVjYtN1JxZTlnMHVxeWpTN2R1Z1pZT2Z4RFFiLV9aYjJ2UDFtdHNGa1hxWmtJRWRRVHFKRmxtbVRoMWNqN2JodjN1azg1U3E3bEJQZjhSY2VYTnBsTFNkTS0yMndTSW84ZGdWLTF5d2UxYkRRYUg2QUxxb0w5c2oxb3c?oc=5",
-      "pub_date": 1764142234.0,
-      "article_url": "https://www.cnbc.com/2025/11/26/cnbc-china-connection-newsletter-capital-ai-sector-valuations-vc-us-bubble-nvidia-deepseek-chatgpt.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108230885-1763991320793-gettyimages-2222125433-CHINA_NOETIX_ROBOTICS.jpeg?v=1764205030&w=1920&h=1080",
-      "description": "For all the worries about a bubble in U.S. AI spending, capital flows into China's tech sector is far less, pushing startups to do more with less."
     },
     {
       "headline": "Alibaba starts selling Quark AI glasses in China, enters global wearables race",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0xjVjFWTi1UcFR0TW1WSmZQN3J3TTFzdEltNkFBYU8xUS1wc3JaRE1JbzlWS3lmUXFMUGlKNm92OTNGNk1YZmQ5WHVpNjBfaGJ5SlR5REYtWXVtMFI0UjZyR0VOUGxUN1JGNWpPSWR0ek5rZV9KLWhIaDVGVHBiR01PRGxJZXJSRDdURXNjZkwtQlZPQk5WSHgzRmZzOTZYSjl3WE1QRFZIRjAwMzBIcXZqdjhCcDJabTNOZ0c1NA?oc=5",
-      "pub_date": 1764223602.0,
+      "pub_date": 1764223560.0,
       "article_url": "https://www.reuters.com/world/china/alibaba-starts-selling-quark-ai-glasses-china-enters-global-wearables-race-2025-11-27/",
       "image": null,
       "description": null
     },
     {
-      "headline": "VC titan Marc Andreessen shares how to prompt AI like a pro",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMaldRNHpjN2x0WnFXRUxiVjZ1enpRYzZWNzdqT3VvUHZ1OUhLc0lVWlhac1FBNGFaQml5am5CMlJnSWMtQWxveWdzOXUtdEtzUTFzQ016am5HX3hfdzlTWVkxdmJoTWdialNGXzVQVUNxNWVsRnpsSnJuUWg?oc=5",
-      "pub_date": 1764225840.0,
-      "article_url": "https://www.businessinsider.com/marc-andreessen-how-to-prompt-ai-2025-11",
-      "image": "https://i.insider.com/682aabebc6ad288d1481436d?width=1200&format=jpeg",
-      "description": "Marc Andreessen says the right prompts can turn AI into the \"world's best coach.\""
+      "headline": "Big Tech wants AI to help with your holiday shopping. The tech has flashes of magic, but it won\u2019t replace Santa\u2014yet",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUdsTzJpTzNNWlJTUjRoYXZnTmJpcERXRlhMV0gxR0hwLW5ESmJvazl4SXFqWGFpSGpURl9USkctWWdnOVFfY1AwVWhSaUVmM1FwaXVmdGNUc1h3ZVd2ZWZPRFZQM2k4dGVucGs2V3VDMktUdEJ4WXFndWt2UjJOaUJROUUzLWRaeGRRSmdCV2xtdWM?oc=5",
+      "pub_date": 1764230400.0,
+      "article_url": "https://fortune.com/2025/11/27/ai-shopping-apps-chatgpt-perplexity-amazon-walmart-google/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2187365942-e1764178276702.jpg?resize=1200,600",
+      "description": "A flurry of new AI shopping assistants from OpenAI, Google, Perplexity, Amazon, Walmart, and Target promise to simplify gift-buying\u2014but there are still glitches, gaps, and plenty of holiday-season caveats."
     },
     {
-      "headline": "Alibaba Releases Quark Smart Glasses With Its Qwen AI Built In",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNFhlVzZyV29WN0NsaG5zQ1RRN1BCcUUwYTh3OWdLdC1WM1BvbWpTWmpoWGlZdjhIVFZvRG9zQjZRNlZSd21MMDhNRUdid1A4MFNwejh2bnE1dzdMN2ZlY2JoUEJyMmhTTW11ZmY1eWlveDdiZFFxZGVnU2pvNWxBdC1pdnZzUThMWG5PRF9OcTZhZ1FRdGQtZlFSNE9pWTZZQURsZjJvR1FYVG90bFFwcmtxZw?oc=5",
-      "pub_date": 1764223200.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-27/alibaba-releases-quark-smart-glasses-with-its-qwen-ai-built-in",
-      "image": null,
-      "description": null
+      "headline": "Does Baidu\u2019s AI Investment Justify Its 37% Rally in 2025?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSy1sX29BS09oYVVvLXh6YVNQWV9KS1BnOFdYUWZscVRpOWxib0Y5SEppcF9pMWZlam5KWnpEbUd0a2Ezd1Z0ZzdMWUlvTnEzejJpUk9uQVk2LVJJUDVCajh0anU2XzBELVFFWkJIbUFfd29EOXBzOE5nWi12eDJOY0N6NjY?oc=5",
+      "pub_date": 1764227520.0,
+      "article_url": "https://finance.yahoo.com/news/does-baidu-ai-investment-justify-071253693.html",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/6ddc1eebc0ae0570d413acd84bfde5dc",
+      "description": "Curious if Baidu is really a good deal or just another pricey tech play? You are not alone. A closer look at the numbers might surprise you. Baidu\u2019s stock has posted a 40.7% year-to-date gain and is up 37.2% over the past year, but dipped 9.6% in the last month. This reflects shifting market sentiment. Recent news has highlighted Baidu's ongoing advances in artificial intelligence, with increased investment in large language models and strategic partnerships capturing headlines. These..."
     },
     {
       "headline": "Investors expect AI use to soar. That\u2019s not happening",
@@ -73,38 +103,8 @@
       "article_url": "https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "I\u2019m a Professor. A.I. Has Changed My Classroom, but Not for the Worse.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1JDcTlTQlp3VVhmZURGLVNOR0JBVGZIVVhBZjEyWEJYQ2pySVpYdEhzdVVCZTZEVnBsMTVlM25LSGk5OUEwWmpvSUpYX2xPYXB6RHpSSHVZd1lZdHNLY0hSWTlreTI2ZG5vNjB5Rk9iZXNfTXZqN2JhSnFJSDlLenNyUElkVE1hRl9CUVBsaw?oc=5",
-      "pub_date": 1764064812.0,
-      "article_url": "https://www.nytimes.com/2025/11/25/magazine/ai-higher-education-students-teachers.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Jeff Bezos\u2019 New AI Venture Quietly Acquired an Agentic Computing Startup",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWks2T1BjbjVIdDFtY2kxVS01VzFQZmFIOGVLa1RlWDYwOUQ2ajNCSm9ZOGY2dnpuNFY3RXZ0dHk3bHFhVUNIazZTY1czYjd6UmhrNjFSWjM4OUZYMWx5aGR2dngySjBGdHl1ZEN5VzZjUWtMRHlrenpmNmRscC1sMVhVUDVmYXNQbk13N1dIakxWSEE?oc=5",
-      "pub_date": 1764187320.0,
-      "article_url": "https://www.wired.com/story/jeff-bezos-new-ai-company-acquired-agentic-computing-startup/",
-      "image": "https://media.wired.com/photos/69272ed366038ec4b91c51ee/191:100/w_1280,c_limit/GettyImages-2188276479.jpg",
-      "description": "Project Prometheus has raised over $6 billion in funding and hired over 100 employees, a handful of whom joined through its acquisition of General Agents, according to records and sources."
-    },
-    {
-      "headline": "California prosecutors\u2019 office used AI to file inaccurate motion in criminal case",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLVpLNHU0OXFZNVhoSloxTmthWEpmQmVKWEtaZGpNWUxndlByQ1diZFpkdGFpS1h4RmZLWl9icnFydS1lZ1FIMjlGSkJPNG5CTnQ0TWFuNmpJc0Q5YTdIWmdkTW5rdGQ1NmhUMkwzb1FBdGFKQzRFdEdtS2k4ZUtOTENPV0Nndw?oc=5",
-      "pub_date": 1764194460.0,
-      "article_url": "https://www.theguardian.com/us-news/2025/nov/26/prosecutor-ai-inaccurate-motion",
-      "image": "https://i.guim.co.uk/img/media/361e626f2c09365e1a21e51f0dda98fd9fcaa979/294_0_3083_2466/master/3083.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c12f411c3248fbb0e5a60b732080ce35",
-      "description": "Filing contained errors known as \u2018hallucinations\u2019, with attorneys arguing prosecutors\u2019 office used AI in other cases"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-27T07:35:02.447482+00:00"
+  "fetched_at": "2025-11-27T08:37:54.735762+00:00"
 }

@@ -2,17 +2,6 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "The pattern that VinciBot drew is actually quite neat.",
-      "author": "GOLFJOY",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7qst0/the_pattern_that_vincibot_drew_is_actually_quite/",
-      "published": 1764210953.0,
-      "thumbnail": "https://external-preview.redd.it/N2l6a291ZnlucDNnMez3N4RDINcBdSDKoxW2TRedPWOUKAKMNMM3ywAJOxMs.png?width=640&crop=smart&auto=webp&s=f9efda0c988798745e9256372844e1b660fc6182",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "butterfly robot!",
       "author": "whatever_0709",
       "url": "https://www.reddit.com/r/robotics/comments/1p7u6wz/butterfly_robot/",
@@ -22,6 +11,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Chinese students are out here creating machine-generated butterflies\u2026 Like\u2014this isn\u2019t nature anymore, it\u2019s engineering with \u2728vibes\u2728. I\u2019m officially impressed \ud83e\udd8b\ud83e\udd16"
+    },
+    {
+      "title": "The pattern that VinciBot drew is actually quite neat.",
+      "author": "GOLFJOY",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7qst0/the_pattern_that_vincibot_drew_is_actually_quite/",
+      "published": 1764210953.0,
+      "thumbnail": "https://external-preview.redd.it/N2l6a291ZnlucDNnMez3N4RDINcBdSDKoxW2TRedPWOUKAKMNMM3ywAJOxMs.png?width=640&crop=smart&auto=webp&s=f9efda0c988798745e9256372844e1b660fc6182",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "I'm building v1 from ultrakill!!!",
@@ -57,6 +57,28 @@
       "description": "Hi everyone, I just built this half-humanoid for human robot interaction research and figured it would be fun if I open-source it. You can find it here: https://github.com/Meet-Bebo/bebo_jr I included my print files, bom, onshape and even simulation files (urdf and mujoco). It also have a simple motion retargeting pipeline if you want to try teleop a simulated version with your webcam. I\u2019ve created a few test applications on this so far, from agents to home assistant plugin to spotify connect. I\u2019ll share more soon as I create the tutorials, but for now you can follow the repo for more progress updates. The next to-do is to create a motion diffusion policy for this from songs, so I can turn it into a hyper music player. If you have pointers on this, hmu. I\u2019d love to have feedback on the design of the robot and the functionalities as well. I did this project for learning and it\u2019s only been 2 weeks since I started, so I still have a lot of ground to cover."
     },
     {
+      "title": "This is not progress. This is not innovation. This is not the future we were promised. This is the systematic destruction of what it means to be human\u2014and they're selling it to you as \"amazing technology.\"",
+      "author": "Bubbly_Albatross2375",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7x3zg/this_is_not_progress_this_is_not_innovation_this/",
+      "published": 1764232191.0,
+      "thumbnail": "https://external-preview.redd.it/S3iokpQRej5HIKHP58pJ_ifpBNH8bekApLH07W5gmuk.jpeg?width=320&crop=smart&auto=webp&s=dd1c57fa2697d2ad9ca5ade5e42a077a0c766d61",
+      "external_url": "https://youtu.be/8gQvsOpvDNA",
+      "site_name": "youtu.be",
+      "favicon": "https://www.youtube.com/s/desktop/a444dc7a/img/favicon.ico",
+      "description": "While tech billionaires celebrate their AI breakthroughs and their stock prices soar... THEY CALL THIS INNOVATION. I call it what it is: the systematic dismantling of human agency, human work, human dignity, and human life. This isn't about being anti-technology. This is about being PRO-HUMAN. - Who profits when humans become obsolete? - What happens to dignity when work disappears? - Can we call it progress if it destroys communities? - Who's accountable when machines make fatal errors? - What does it mean to be human in a world that doesn't need us? The tech industry wants you to believe this is inevitable."
+    },
+    {
+      "title": "Kinematic closed loop chain-URDF",
+      "author": "ExactCompetition7680",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7lybs/kinematic_closed_loop_chainurdf/",
+      "published": 1764197133.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This is my hail Mary attempt, I would appreciate any lead on this. I am doing a dynamic simulation on a closed loop chain(double wishbone suspension) and been trying to use Isaac sim for that. I just cant convert the loop into urdf from solidworks. I tried matlab scripting(designing the peripheral parts and features is a pain using scripts and simscape(keep getting kinematic singularity error in joints). My best bet for physical modeling is isaac sim but getting the kinematic chain in there is the most difficult part. Please let me know you guys are facing similar issue or solved such issue. Thanks!"
+    },
+    {
       "title": "Custom robotics controller with ESP32 S3",
       "author": "kr4shhhh",
       "url": "https://www.reddit.com/r/robotics/comments/1p7hkhf/custom_robotics_controller_with_esp32_s3/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Hi ..need spot of help if anybody can help me find a version of the robotstudio the 6.05.02 version. I need the FULL zip, my school lost the ftp drive with it on there- abb has been no help on the old version, no clue why, anyway.. file will be like RobotStudio_6.05.02_Full.exe or .zip it will have the vision Ideally it will have these files in it. I know its a BIG ask but if anybody can help point me in the right direction, super appreciated. Will buy you a coffee to boot. Cheers peeps have a good holiday. abb.integratedvision.6.05.x.msi abb.smartgrippervision.6.05.x.msi abb.robotics.visioninterface.6.05.x.msi RSAddins.msi"
-    },
-    {
-      "title": "Kinematic closed loop chain-URDF",
-      "author": "ExactCompetition7680",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7lybs/kinematic_closed_loop_chainurdf/",
-      "published": 1764197133.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This is my hail Mary attempt, I would appreciate any lead on this. I am doing a dynamic simulation on a closed loop chain(double wishbone suspension) and been trying to use Isaac sim for that. I just cant convert the loop into urdf from solidworks. I tried matlab scripting(designing the peripheral parts and features is a pain using scripts and simscape(keep getting kinematic singularity error in joints). My best bet for physical modeling is isaac sim but getting the kinematic chain in there is the most difficult part. Please let me know you guys are facing similar issue or solved such issue. Thanks!"
-    },
-    {
-      "title": "Rugged prototype to streamlined prototype",
-      "author": "NecessaryConstant535",
-      "url": "https://www.reddit.com/r/robotics/comments/1p6fnr0/rugged_prototype_to_streamlined_prototype/",
-      "published": 1764085207.0,
-      "thumbnail": "https://external-preview.redd.it/MTZvaHRyMmhhZjNnMZHPe-3rKAt6As-3JMcJ-YctuA4zQls2sakXcUJKLRFG.png?width=640&crop=smart&auto=webp&s=db5d93a065c3b64a724b56b98e341e087ad10b92",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Built a drone and a proprietary lowering mechanism. Ashamed to say how much time it took and theres still a lot of work left. Its fully autonomous tho, everything is contained within the drone, it doesn't need any communication link nor human operator"
     }
   ],
-  "fetched_at": "2025-11-27T07:34:43.390072+00:00"
+  "fetched_at": "2025-11-27T08:37:39.414129+00:00"
 }

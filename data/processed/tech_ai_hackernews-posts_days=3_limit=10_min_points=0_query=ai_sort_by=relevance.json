@@ -9,8 +9,8 @@
       "url": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
       "hn_url": "https://news.ycombinator.com/item?id=46055944",
       "author": "todsacerdoti",
-      "points": 466,
-      "num_comments": 729,
+      "points": 467,
+      "num_comments": 730,
       "created_at": "2025-11-26T10:08:20Z",
       "object_id": "46055944",
       "image": null,
@@ -23,8 +23,8 @@
       "url": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
       "hn_url": "https://news.ycombinator.com/item?id=46062504",
       "author": "cyclecount",
-      "points": 403,
-      "num_comments": 183,
+      "points": 433,
+      "num_comments": 197,
       "created_at": "2025-11-26T21:25:36Z",
       "object_id": "46062504",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Google-Pixel-10-4-1152x648.jpg",
@@ -37,8 +37,8 @@
       "url": "https://github.com/ocaml/ocaml/pull/14369",
       "hn_url": "https://news.ycombinator.com/item?id=46039274",
       "author": "theresistor",
-      "points": 373,
-      "num_comments": 204,
+      "points": 375,
+      "num_comments": 213,
       "created_at": "2025-11-24T21:03:22Z",
       "object_id": "46039274",
       "image": "https://opengraph.githubassets.com/f9a348201f077266a2109b8803c1e9517a12068a8a133f050a8278edb857918b/ocaml/ocaml/pull/14369",
@@ -75,6 +75,20 @@
       "site_name": "jamestown.org"
     },
     {
+      "title": "Indie game developers have a new sales pitch: being 'AI free'",
+      "url": "https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders",
+      "hn_url": "https://news.ycombinator.com/item?id=46057000",
+      "author": "01-_-",
+      "points": 103,
+      "num_comments": 85,
+      "created_at": "2025-11-26T13:05:33Z",
+      "object_id": "46057000",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ss_6151f4f1d8c8a80cf4e98f7381b775f3e405fb3b.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "description": "\u201cWe can produce results that meet our quality standards without its assistance.\u201d",
+      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+      "site_name": "The Verge"
+    },
+    {
       "title": "General principles for the use of AI at CERN",
       "url": "https://home.web.cern.ch/news/official-news/knowledge-sharing/general-principles-use-ai-cern",
       "hn_url": "https://news.ycombinator.com/item?id=46032513",
@@ -94,7 +108,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46062483",
       "author": "joejohnson",
       "points": 99,
-      "num_comments": 9,
+      "num_comments": 10,
       "created_at": "2025-11-26T21:24:09Z",
       "object_id": "46062483",
       "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Pro-XL-and-iPhone-17-Pro-Max-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
@@ -103,25 +117,11 @@
       "site_name": "9to5Google"
     },
     {
-      "title": "Indie game developers have a new sales pitch: being 'AI free'",
-      "url": "https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders",
-      "hn_url": "https://news.ycombinator.com/item?id=46057000",
-      "author": "01-_-",
-      "points": 97,
-      "num_comments": 81,
-      "created_at": "2025-11-26T13:05:33Z",
-      "object_id": "46057000",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ss_6151f4f1d8c8a80cf4e98f7381b775f3e405fb3b.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "description": "\u201cWe can produce results that meet our quality standards without its assistance.\u201d",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "site_name": "The Verge"
-    },
-    {
       "title": "MIT study finds AI can replace 11.7% of U.S. workforce",
       "url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
       "hn_url": "https://news.ycombinator.com/item?id=46058361",
       "author": "tiahura",
-      "points": 56,
+      "points": 57,
       "num_comments": 59,
       "created_at": "2025-11-26T15:32:06Z",
       "object_id": "46058361",
@@ -145,7 +145,7 @@
       "site_name": "economist.com"
     }
   ],
-  "total_hits": 505,
+  "total_hits": 504,
   "has_metadata": true,
-  "fetched_at": "2025-11-27T07:34:39.500936+00:00"
+  "fetched_at": "2025-11-27T08:37:33.634237+00:00"
 }

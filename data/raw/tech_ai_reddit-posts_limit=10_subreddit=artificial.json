@@ -46,17 +46,6 @@
       "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
     },
     {
-      "title": "Google\u2019s Hot New AI Coding Tool Was Hacked A Day After Launch",
-      "author": "forbes",
-      "url": "https://www.reddit.com/r/artificial/comments/1p7bp8q/googles_hot_new_ai_coding_tool_was_hacked_a_day/",
-      "published": 1764173402.0,
-      "thumbnail": "https://external-preview.redd.it/d4fW3480YuwaM-1rjP6cRK2ijoJmqg1mljZzxwRz9vM.jpeg?width=640&crop=smart&auto=webp&s=353b205b96eef0e9019fdbaf69e77461cef81518",
-      "external_url": "https://go.forbes.com/YRA6PQ",
-      "site_name": "Forbes",
-      "favicon": "https://i.forbesimg.com/57X57-F.png",
-      "description": "A security researcher discovered a major flaw in the coding product, the latest example of companies rushing out AI tools vulnerable to hacking."
-    },
-    {
       "title": "Nvidia reminds everyone it's \"a generation ahead of the industry\" following reports of Meta and Google AI partnership",
       "author": "Tiny-Independent273",
       "url": "https://www.reddit.com/r/artificial/comments/1p763in/nvidia_reminds_everyone_its_a_generation_ahead_of/",
@@ -66,6 +55,17 @@
       "site_name": "PC Guide",
       "favicon": "https://www.pcguide.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
       "description": "Nvidia applauds Google on its recent win, but the leading AI infrastructure company says it still \"offers greater performance\" than the rest."
+    },
+    {
+      "title": "Google\u2019s Hot New AI Coding Tool Was Hacked A Day After Launch",
+      "author": "forbes",
+      "url": "https://www.reddit.com/r/artificial/comments/1p7bp8q/googles_hot_new_ai_coding_tool_was_hacked_a_day/",
+      "published": 1764173402.0,
+      "thumbnail": "https://external-preview.redd.it/d4fW3480YuwaM-1rjP6cRK2ijoJmqg1mljZzxwRz9vM.jpeg?width=640&crop=smart&auto=webp&s=353b205b96eef0e9019fdbaf69e77461cef81518",
+      "external_url": "https://go.forbes.com/YRA6PQ",
+      "site_name": "Forbes",
+      "favicon": "https://i.forbesimg.com/57X57-F.png",
+      "description": "A security researcher discovered a major flaw in the coding product, the latest example of companies rushing out AI tools vulnerable to hacking."
     },
     {
       "title": "AMD ROCm 7.1.1 released with RHEL 10.1 support, more models working on RDNA4",
@@ -112,5 +112,5 @@
       "description": "Project Prometheus has raised over $6 billion in funding and hired over 100 employees, a handful of whom joined through its acquisition of General Agents, according to records and sources."
     }
   ],
-  "fetched_at": "2025-11-27T07:34:39.535319+00:00"
+  "fetched_at": "2025-11-27T08:37:33.872953+00:00"
 }
