@@ -13,6 +13,17 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
+      "title": "Highlights from the All Core Developers Consensus (ACDC) Call #170",
+      "author": "Y_K_C_",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p8ohcl/highlights_from_the_all_core_developers_consensus/",
+      "published": 1764313582.0,
+      "thumbnail": "https://external-preview.redd.it/php-M-NLxCgSac5E4Dj2KndnspYHHF-ssha1g4RX4Us.jpeg?width=640&crop=smart&auto=webp&s=04992eed5e29f6a9028044f5370d1443bbc21a76",
+      "external_url": "https://etherworld.co/2025/11/27/highlights-from-the-all-core-developers-consensus-acdc-call-170/",
+      "site_name": "EtherWorld.co",
+      "favicon": "https://etherworld.co/favicon.png",
+      "description": "Ethereum developers juggle Fusaka launch, Glamsterdam finalization, & early Heka talks during ACDC #170."
+    },
+    {
       "title": "Daily General Discussion November 27, 2025",
       "author": "EthereumDailyThread",
       "url": "https://www.reddit.com/r/ethereum/comments/1p7umek/daily_general_discussion_november_27_2025/",
@@ -99,18 +110,7 @@
       "site_name": "youtu.be",
       "favicon": "https://www.youtube.com/s/desktop/9d55444e/img/favicon.ico",
       "description": "Here's the thing about Ethereum that nobody wants to admit: imagine paying for coffee with crypto and the barista instantly seeing your entire net worth. That's absolutely untenable, right? But that's literally how it works today if you don't have the tools and know-how to operate onchain PRIVATELY. Every transaction broadcasts your balance; every address you interact with is permastained as part of your public financial history; and most people try to \"fix\" this by creating a fresh wallet and funding it from Coinbase (not cypherpunk) or their main account (gg; no re) Congrats, you just created a permanent public link on Etherscan that anyone can follow. Creating a new wallet is easy. Funding it privately without linking it back to your identity? That's the hard part most tutorials skip. Good news is... there's a few tools and methods for protecting your safety and financial dignity! This is the type of info that shouldn't be gatekept, so here's 3 ways you can fund a new wallet address privately: Railgun (Zero-Knowledge) \u2013 Shield funds into a private pool via Railway Wallet, then unshield to any fresh 0x address. Takes ~1 hour for PPOI checks, but mathematically breaks the onchain link, and is compliant \ud83d\udc4d. Uses actual zero-knowledge proofs, not marketing BS. zkp2p (Bank \u2192 Crypto P2P) \u2013 Uses zkTLS to prove Venmo/CashApp/Wise/etc payments without exposing personal data. Funds can be designated straight to a new wallet. Zero crypto footprint in your banking app because it just looks like you're sending $ to a friend! OTC (Old School) \u2013 Cash-for-crypto with trusted peers. High risk, requires strict safety protocols (public meetups, locked rates, verify token contracts), but it's what early OGs did pre-CEX. Privacy shouldn't have to be explained. It's basic dignity. In this case, basic FINANCIAL dignity. Your net worth shouldnt be public info just because you want to use crypto. For my latest youtube video, I go into exactly all of this! I hope ppl find it helpful :) https://youtu.be/ppRz6Hqoics And honestly... does it bother anyone else that we've normalized broadcasting our entire financial lives just to buy a coffee?"
-    },
-    {
-      "title": "Daily General Discussion November 26, 2025",
-      "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1p703si/daily_general_discussion_november_26_2025/",
-      "published": 1764136842.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     }
   ],
-  "fetched_at": "2025-11-28T06:50:28.527575+00:00"
+  "fetched_at": "2025-11-28T07:32:12.570232+00:00"
 }

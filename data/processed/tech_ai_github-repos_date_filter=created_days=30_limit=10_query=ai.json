@@ -8,7 +8,7 @@
       "description": "A smart, powerful, and beautiful excalidraw drawing tool.Draw Professional Charts with Natural Language",
       "url": "https://github.com/liujuntao123/smart-excalidraw-next",
       "preview_image": "https://opengraph.githubassets.com/7dc6e7a2aa2e5f6261deb6fd2aab56f3f00fe2d57ae1127a3e15ec0557210a06/liujuntao123/smart-excalidraw-next",
-      "stars": 2080,
+      "stars": 2083,
       "stars_display": "2.1k",
       "forks": 260,
       "forks_display": "260",
@@ -28,10 +28,10 @@
       "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.",
       "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
       "preview_image": "https://opengraph.githubassets.com/0149e9dee040bdbc5bac27041b650c36eb840b6598bb203b6c4875d2fb75fad9/ZeroLu/awesome-nanobanana-pro",
-      "stars": 1560,
+      "stars": 1601,
       "stars_display": "1.6k",
-      "forks": 118,
-      "forks_display": "118",
+      "forks": 121,
+      "forks_display": "121",
       "language": null,
       "topics": [
         "gemini",
@@ -50,7 +50,7 @@
       "description": "Gausian - Rust-based local video editor for AI video production",
       "url": "https://github.com/gausian-AI/Gausian_native_editor",
       "preview_image": "https://opengraph.githubassets.com/00b325081b4d8d90054b919e75ae8b0f8bb82d16befdd2579a46d96946d5088c/gausian-AI/Gausian_native_editor",
-      "stars": 1229,
+      "stars": 1230,
       "stars_display": "1.2k",
       "forks": 17,
       "forks_display": "17",
@@ -66,8 +66,8 @@
       "description": "AI-powered git commit message rewriter using Ollama or GPT",
       "url": "https://github.com/f/git-rewrite-commits",
       "preview_image": "https://opengraph.githubassets.com/c6b09847c72773387ee5104f29860f48c86cb236c664f2498a9824bd0f2f1b88/f/git-rewrite-commits",
-      "stars": 964,
-      "stars_display": "964",
+      "stars": 965,
+      "stars_display": "965",
       "forks": 43,
       "forks_display": "43",
       "language": "TypeScript",
@@ -85,10 +85,10 @@
       "description": "\u4e00\u4e2a\u96c6\u5185\u5bb9\u7b56\u5212\u3001AI\u6587\u6848\u81ea\u52a8\u751f\u6210\u3001TTS \u6279\u91cf\u81ea\u52a8\u914d\u97f3\u3001(AI)\u56fe\u7247\u7d20\u6750\u5408\u6210\u3001ASR\u81ea\u52a8\u63d0\u53d6\u8bed\u8a00\u5b57\u5e55\u811a\u672c\u3001AI\u81ea\u7531\u521b\u4f5c\u4e8e\u4e00\u4f53\u7684(\u77ed\u89c6\u9891)\u751f\u6210\u5de5\u4f5c\u7ad9\u3002\u65b9\u4fbf\u7ba1\u7406\u6bcf\u671f\u7684\u89c6\u9891\u9879\u76ee\u3002",
       "url": "https://github.com/Norsico/Video-Materials-AutoGEN-Workstation",
       "preview_image": "https://opengraph.githubassets.com/0ca6ecdb80ca700af163d1d6071825efe12a7b8e56fcb982f95131834556cf81/Norsico/Video-Materials-AutoGEN-Workstation",
-      "stars": 939,
-      "stars_display": "939",
-      "forks": 186,
-      "forks_display": "186",
+      "stars": 941,
+      "stars_display": "941",
+      "forks": 188,
+      "forks_display": "188",
       "language": "Python",
       "topics": [],
       "updated_at": "2025-11-23T06:39:49Z"
@@ -117,10 +117,10 @@
       "description": "\u4e00\u6b3e\u57fa\u4e8e AI \u7684\u667a\u80fd\u5c0f\u8bf4\u521b\u4f5c\u52a9\u624b\uff0c\u5e2e\u52a9\u4f60\u8f7b\u677e\u521b\u4f5c\u7cbe\u5f69\u6545\u4e8b",
       "url": "https://github.com/xiamuceer-j/MuMuAINovel",
       "preview_image": "https://opengraph.githubassets.com/96aa5e0ff15c368b60d113d16c8bdefef60479d55a085016e1b4c6bc907f030f/xiamuceer-j/MuMuAINovel",
-      "stars": 777,
-      "stars_display": "777",
-      "forks": 156,
-      "forks_display": "156",
+      "stars": 778,
+      "stars_display": "778",
+      "forks": 158,
+      "forks_display": "158",
       "language": "Python",
       "topics": [],
       "updated_at": "2025-11-27T09:30:29Z"
@@ -148,6 +148,26 @@
       "updated_at": "2025-11-28T01:24:06Z"
     },
     {
+      "full_name": "glidea/banana-prompt-quicker",
+      "name": "banana-prompt-quicker",
+      "owner": "glidea",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/53204825?v=4",
+      "description": "\ud83c\udf4cAwesome Prompts; Nano Banana\uff1bBanana Pro; Gemini\uff1bAI Studio\uff1bPrompt Quickly [\u5546\u5e97\u7248\u672c 1.2.1\uff0c\u6700\u65b0\u7248\u672c 1.3.0+\uff0c\u53ef\u9009\u62e9\u672c\u5730\u5b89\u88c5\u62a2\u5148\u4f53\u9a8c\u65b0\u529f\u80fd\uff0c\u5177\u4f53\u7248\u672c\u5dee\u5f02\u89c1\u4e0b\u65b9 release note]",
+      "url": "https://github.com/glidea/banana-prompt-quicker",
+      "preview_image": "https://opengraph.githubassets.com/375bae68ecaebf0a1a49c1a03fbc952041dce80eafd55379af04e509b5155928/glidea/banana-prompt-quicker",
+      "stars": 712,
+      "stars_display": "712",
+      "forks": 59,
+      "forks_display": "59",
+      "language": "JavaScript",
+      "topics": [
+        "banana",
+        "gemini",
+        "prompt"
+      ],
+      "updated_at": "2025-11-28T06:04:43Z"
+    },
+    {
       "full_name": "AnandChowdhary/continuous-claude",
       "name": "continuous-claude",
       "owner": "AnandChowdhary",
@@ -168,32 +188,12 @@
         "continuous-ai"
       ],
       "updated_at": "2025-11-27T21:13:03Z"
-    },
-    {
-      "full_name": "glidea/banana-prompt-quicker",
-      "name": "banana-prompt-quicker",
-      "owner": "glidea",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/53204825?v=4",
-      "description": "\ud83c\udf4cAwesome Prompts; Nano Banana\uff1bBanana Pro; Gemini\uff1bAI Studio\uff1bPrompt Quickly [\u5546\u5e97\u7248\u672c 1.2.1\uff0c\u6700\u65b0\u7248\u672c 1.3.0+\uff0c\u53ef\u9009\u62e9\u672c\u5730\u5b89\u88c5\u62a2\u5148\u4f53\u9a8c\u65b0\u529f\u80fd\uff0c\u5177\u4f53\u7248\u672c\u5dee\u5f02\u89c1\u4e0b\u65b9 release note]",
-      "url": "https://github.com/glidea/banana-prompt-quicker",
-      "preview_image": "https://opengraph.githubassets.com/375bae68ecaebf0a1a49c1a03fbc952041dce80eafd55379af04e509b5155928/glidea/banana-prompt-quicker",
-      "stars": 709,
-      "stars_display": "709",
-      "forks": 59,
-      "forks_display": "59",
-      "language": "JavaScript",
-      "topics": [
-        "banana",
-        "gemini",
-        "prompt"
-      ],
-      "updated_at": "2025-11-28T06:04:43Z"
     }
   ],
   "query": "ai",
   "search_query": "ai created:>2025-10-29",
   "days": 30,
   "limit": 10,
-  "total_count": 214544,
-  "fetched_at": "2025-11-28T06:20:27.995523+00:00"
+  "total_count": 214989,
+  "fetched_at": "2025-11-28T07:32:07.876671+00:00"
 }
