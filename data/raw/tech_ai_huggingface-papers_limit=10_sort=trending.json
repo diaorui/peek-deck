@@ -92,7 +92,7 @@
       "num_comments": 2,
       "published_at": "2025-11-24T23:15:14.000Z",
       "github_repo": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL",
-      "github_stars": 544,
+      "github_stars": 581,
       "project_page": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL"
     },
     {
@@ -108,10 +108,29 @@
       "arxiv_url": "https://arxiv.org/abs/2511.16043",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16043.png",
       "upvotes": 95,
-      "num_comments": 3,
+      "num_comments": 4,
       "published_at": "2025-11-20T00:01:57.000Z",
       "github_repo": "https://github.com/aiming-lab/Agent0",
       "github_stars": 545,
+      "project_page": null
+    },
+    {
+      "id": "2510.14528",
+      "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
+      "authors": "Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)",
+      "organization_name": "PaddlePaddle",
+      "organization_fullname": "PaddlePaddle",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1654942635336-5f3ff69679c1ba4c353d0c5a.png",
+      "summary": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) that integrates a NaViT-style\ndynamic resolution visual encoder with the ERNIE-4.5-0.3B language model to\nenable accurate element recognition. This innovative model efficiently supports\n109 languages and excels in recognizing complex elements (e.g., text, tables,\nformulas, and charts), while maintaining minimal resource consumption. Through\ncomprehensive evaluations on widely used public benchmarks and in-house\nbenchmarks, PaddleOCR-VL achieves SOTA performance in both page-level document\nparsing and element-level recognition. It significantly outperforms existing\nsolutions, exhibits strong competitiveness against top-tier VLMs, and delivers\nfast inference speeds. These strengths make it highly suitable for practical\ndeployment in real-world scenarios.",
+      "ai_summary": "PaddleOCR-VL, a vision-language model combining NaViT-style visual encoder and ERNIE-4.5 language model, achieves state-of-the-art performance in document parsing with minimal resource consumption.",
+      "hf_url": "https://huggingface.co/papers/2510.14528",
+      "arxiv_url": "https://arxiv.org/abs/2510.14528",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14528.png",
+      "upvotes": 97,
+      "num_comments": 6,
+      "published_at": "2025-10-16T06:18:48.000Z",
+      "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
+      "github_stars": 65203,
       "project_page": null
     },
     {
@@ -134,25 +153,6 @@
       "project_page": null
     },
     {
-      "id": "2510.14528",
-      "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
-      "authors": "Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)",
-      "organization_name": "PaddlePaddle",
-      "organization_fullname": "PaddlePaddle",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1654942635336-5f3ff69679c1ba4c353d0c5a.png",
-      "summary": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) that integrates a NaViT-style\ndynamic resolution visual encoder with the ERNIE-4.5-0.3B language model to\nenable accurate element recognition. This innovative model efficiently supports\n109 languages and excels in recognizing complex elements (e.g., text, tables,\nformulas, and charts), while maintaining minimal resource consumption. Through\ncomprehensive evaluations on widely used public benchmarks and in-house\nbenchmarks, PaddleOCR-VL achieves SOTA performance in both page-level document\nparsing and element-level recognition. It significantly outperforms existing\nsolutions, exhibits strong competitiveness against top-tier VLMs, and delivers\nfast inference speeds. These strengths make it highly suitable for practical\ndeployment in real-world scenarios.",
-      "ai_summary": "PaddleOCR-VL, a vision-language model combining NaViT-style visual encoder and ERNIE-4.5 language model, achieves state-of-the-art performance in document parsing with minimal resource consumption.",
-      "hf_url": "https://huggingface.co/papers/2510.14528",
-      "arxiv_url": "https://arxiv.org/abs/2510.14528",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14528.png",
-      "upvotes": 97,
-      "num_comments": 6,
-      "published_at": "2025-10-16T06:18:48.000Z",
-      "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-      "github_stars": 65149,
-      "project_page": null
-    },
-    {
       "id": "2511.18423",
       "title": "General Agentic Memory Via Deep Research",
       "authors": "B. Y. Yan, Chaofan Li, Hongjin Qian et al. (5 authors)",
@@ -168,7 +168,7 @@
       "num_comments": 2,
       "published_at": "2025-11-23T07:29:33.000Z",
       "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
-      "github_stars": 246,
+      "github_stars": 250,
       "project_page": "https://github.com/VectorSpaceLab/general-agentic-memory"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-28T07:32:08.621855+00:00"
+  "fetched_at": "2025-11-28T08:54:11.511193+00:00"
 }
