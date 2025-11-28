@@ -15,16 +15,6 @@
       "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
     },
     {
-      "headline": "MIT report: AI can already replace nearly 12% of the U.S. workforce",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUndPWDZoWmh5UHEyUHdoY0ZoekVFWHRmX3E5UThHZmxUU0JNTE5lb2FfdXdMU1pLNmJTS09STGFlU3UtUG1ZeU94eW1mVEJHR25pQ1l5UnkxNEd4V0wwNzJuQzI1czJwQ1RFWGF6UlBQVk1pTzdldGVhRlpwRXRNcHgtRDY4cTJJTVZ6a0U5UFVhRURzWGVDOFd1Zw?oc=5",
-      "pub_date": 1764241380.0,
-      "article_url": "https://fortune.com/2025/11/27/mit-report-ai-can-already-replace-nearly-12-of-the-us-workforce/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236544323.jpg?resize=1200,600",
-      "description": "The window to treat AI as a distant future issue is closing."
-    },
-    {
       "headline": "AI can already do the work of 12% of America's workforce, MIT researchers find",
       "source": "CBS News",
       "source_url": "https://www.cbsnews.com",
@@ -33,6 +23,16 @@
       "article_url": "https://www.cbsnews.com/news/ai-artificial-intelligence-workers-mit-study/",
       "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/26/1a6fc6cd-ea80-4468-977a-7a46e4002cbb/thumbnail/1200x630/c93034e11ba8c92f4d25914d01b97e08/gettyimages-2234175849.jpg",
       "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
+    },
+    {
+      "headline": "MIT report: AI can already replace nearly 12% of the U.S. workforce",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUndPWDZoWmh5UHEyUHdoY0ZoekVFWHRmX3E5UThHZmxUU0JNTE5lb2FfdXdMU1pLNmJTS09STGFlU3UtUG1ZeU94eW1mVEJHR25pQ1l5UnkxNEd4V0wwNzJuQzI1czJwQ1RFWGF6UlBQVk1pTzdldGVhRlpwRXRNcHgtRDY4cTJJTVZ6a0U5UFVhRURzWGVDOFd1Zw?oc=5",
+      "pub_date": 1764241380.0,
+      "article_url": "https://fortune.com/2025/11/27/mit-report-ai-can-already-replace-nearly-12-of-the-us-workforce/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236544323.jpg?resize=1200,600",
+      "description": "The window to treat AI as a distant future issue is closing."
     },
     {
       "headline": "How Google put together the pieces for its AI comeback",
@@ -65,32 +65,12 @@
       "description": null
     },
     {
-      "headline": "AI-Powered companion robots help ease loneliness among the elderly in East Asia",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0JuaTgxX1JWdTNPNERPM1ZUemZGbk1QZmprZm5rMzh0SHdlMmFIQy1iTWZnZEdySGpPMEgzRjV1aXhHZ0x6cE1xLXF0WjlCMmNNR3lXaHZ2YWhEZEpwd0xoT1h0ZHhwQnhlZGNsdWh6RFRiUE50S2R5cWRGNHJPVEYwSG8xM3EzRFJnNjYyRll1NGxWeERNNEZjMDlLQjZiU2JmWUtR?oc=5",
-      "pub_date": 1764297840.0,
-      "article_url": "https://www.cnn.com/health/asias-aging-population-finds-comfort-care-in-robo-grandma-dolls-wellness-spc",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hyodol-photo-courtesy-of-hyodol-20251127180824458.png?c=16x9&q=w_800,c_fill",
-      "description": "A new wave of AI robot companions is moving beyond clinical tools to aid the elderly providing emotional support and critical reminders for meals, medication, and appointments."
-    },
-    {
       "headline": "Investors expect AI use to soar. That\u2019s not happening",
       "source": "The Economist",
       "source_url": "https://www.economist.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkpHa2tpX01zLXh5eXdTS2NWUi1ra04xeHlpSHhXbkZWUHdLdUxib1c5T21UTlIwd3JBRS1mUGdUcnVvbmduV1h0UlZaOEJObDI5Q1hneEJVTTlfN2s1NmlMbjJmMkNoZ21XdUlySG9zc3lUYk9IcG11YTNjZGdSX3hMVDhaMGxVT0RlRmlrQUlQeS14LUFjLW9HSkU1Wkpwc3g1VXMyMno5SDhiX2cw?oc=5",
       "pub_date": 1764174642.0,
       "article_url": "https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Pollution from coal plants was dropping. Then came Trump and AI.",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcENDUDVmSEUxaVZCZTkycXhHNXlZY0xKN1Q5eHdVbk00b203ZENhR29RNmRoZU9YNi1OelRBNnU0RHEzanQ1dlFrLWVnSTRiUkk5MXBKYy0wb1VzTmNkNmVWbXNzS2E0emp4YkxCVzUxVjl1eERiRnBvN1VGQWFlWll1TF9fY3lCWlFMR19iZjZfWVpNdk9Bb29vbGc4ZmFiUUFiSkxneTdsQ2xhTEE?oc=5",
-      "pub_date": 1764255600.0,
-      "article_url": "https://www.politico.com/news/2025/11/27/ai-gives-coal-plants-a-lifeline-as-trump-makes-them-dirtier-00661839",
       "image": null,
       "description": null
     },
@@ -103,8 +83,28 @@
       "article_url": "https://www.reuters.com/world/china/alibaba-starts-selling-quark-ai-glasses-china-enters-global-wearables-race-2025-11-27/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Tech giants bet consumers are finally ready to strap on smart glasses",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qb3FXczhlcVJLNzd5S1gyUHRra05WN2lzcnJhWThnQW93TENJUVlxaURZOGZib3VLeGJhT3VHajRqV0U1WDduNDAwRDQxMk5XUVdDSTNIUnkzeWFDeHFXZWVUYjJ6Z3JVNFJ5QWVnaUdaRElDU09uSzVSZ3rSAYIBQVVfeXFMTUlHMTNiRUNoN0RITkxCM0dja1c0LTBVczVyZ3Njek1lV3p0Z0dYd3VlUC1kbWFLU25MNzFKNmhmTDV4eFFIXzRURVd5Wll0V2RmNHRyenZMRGxXcEFwOFNsbkp3UnBqNUxlTVVIaWVuVlNrOTFuOXdKellGQjlRVEZ6QQ?oc=5",
+      "pub_date": 1764257880.0,
+      "article_url": "https://www.cbsnews.com/news/ai-glasses-alibaba-quark-qwen-meta-ray-ban/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/27/5340ac11-a3c0-49f5-9106-aaea81edc8f9/thumbnail/1200x630/e32275bce75988df4882b3aef4210326/gettyimages-2235445157.jpg",
+      "description": "Tech giants including Alibaba, Amazon and Meta are counting on AI as the \"killer app\" that convinces consumers to try smart glasses."
+    },
+    {
+      "headline": "Alibaba's AI glasses to rival Meta go on sale for $500",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUU8tS2xyM3VlM2NTcEJqOVJ0VGxtUzlhbnlUeklsSTRXUVRwN0x2LTU5QTBOUmNCZnVTVnd5MjBSU1ZPN1pYVzFaSDF3WmpGWnFSWUktd0gtT2o0dmFOWjhBSmZCckdwRDlfM1BLTVZMc2daLWZoVzVBb0dacnhnMDZxc0dkdU5jOGdiWNIBkgFBVV95cUxQNlBhUXk5OXBsU1JWeGdYcGxPbHhWR1pYdE9pZTVCaVAyVlBsRGVOVGY4aEcwcmNPaDVvLWRYaGxUMzAtWlh2TGdQMU1JNTZpOU1QRkIzamN5YzNHNERmMnFSeU1qalF6WWtlbVRaRDhUX1NJRlVNc19oQzFJNlpkTzJORTdtRTZZTWc0S3NKQ0lVUQ?oc=5",
+      "pub_date": 1764234427.0,
+      "article_url": "https://www.cnbc.com/2025/11/27/alibaba-quark-ai-glasses-go-on-sale-price-specs.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108177567-1753687050071-Alibaba_AI_glasses.jpg?v=1753690514&w=1920&h=1080",
+      "description": "Alibaba, like other tech giants such as Meta, are betting that smart glasses could be the next big consumer device after the smartphone."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T03:04:02.973141+00:00"
+  "fetched_at": "2025-11-28T03:50:26.229612+00:00"
 }

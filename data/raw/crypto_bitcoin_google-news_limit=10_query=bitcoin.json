@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin rises above $90,000 as cryptocurrency attempts recovery amid stock market gains",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb1Q0alJEcUdySjUwZmxfX2ZQaXBEU002eVhrVVo2VU5mZFA2aGpZWTB3c2xiZm5MNWpaZERudHVwZUh6aXJzdjdBRkp1VzBTMFNDT2ZOWmtLTHRYTF9DeGdLcy1Za1JucXp6aHJIU0tOczNWYTJ0TUlTZ0k2b3JpNlY5TUN1SXdkZTJfVjZTTWhuT2RJaF9sQ3ZsY0VoNzF4eTZ4RXhhTGFDNHFnaVZtUjF5R2hjaXhNYWdobC1rbWY3UGxmOFpIdmU3Zw?oc=5",
-      "pub_date": 1764185645.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-rises-above-90000-as-cryptocurrency-attempts-recovery-amid-stock-market-gains-193405385.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/.Z5tyxKY78q5nSzRFNKQXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ-/https://s.yimg.com/os/creatr-uploaded-images/2021-04/5af69a20-a8e5-11eb-bf7f-5f2e9fe992ce",
-      "description": "Bitcoin has struggled to bounce back meaningfully despite a price uptick on Wednesday."
+      "headline": "Bitcoin (BTC) Jumps Back Above $89,000 to Recoup Some Recent Losses",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNalZoOTJyaDdKRlBRRFp1MUFMVHI0VmZBUGRlYlFwSHFVX0xmTnJOcGRTSF9YMUhfUXZaVHo5R21VLXVldVdWUGEwY0FuZ085SnpNa3lMamVwSlJVQjRKQzk4N0V1UEhFZDFnNXlpZUoxU3Vxc0NRb2xPMV9oLTIzX0Fva2dMNmJmMmRLNENmZ2tVODVwQk5pSjFNa1JreUU2azBPOWI3ekdpaFl6elROMg?oc=5",
+      "pub_date": 1764193048.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-26/bitcoin-jumps-back-above-89-000-to-recoup-some-recent-losses",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i22DHpRV1w.k/v0/1200x800.jpg",
+      "description": "Bitcoin climbed above $90,000 for the first time in almost a week, clawing back ground after a more than a month-long selloff, as a broad rally in risk assets and easing volatility gave traders room to push higher."
     },
     {
       "headline": "Economist Paul Krugman says Bitcoin\u2019s crash shows the \u2018unraveling of the Trump trade\u2019",
@@ -45,32 +45,42 @@
       "description": null
     },
     {
-      "headline": "JPMorgan offers investors chance to win big if Bitcoin's price drops next year, but then rockets in 2028",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHR3Y0VlcVZvNmxfVEVlMTlOWGkxSmxpTDcxendPT2U1ekVZc2ItVmduY0JjS2lCd2Y3MDktaWE4Tk1WNXA5NlJ0bURYYmtEVTE4V0tiUEg0aUpKYUhaeV9EOFJobXg2TnBndEtwTzhzMVE1NmxNNXVBQU11SEVyQnp1cTU2NXYtREFYc0FCWTHSAZYBQVVfeXFMTlE1S2Rkamc3THRCYXNtYUJnZTVoWU03MnBfd19sdl9rUk1DQnhDQ3Z3X3dGVGlVWlc1VkNNeHJrMWtIaXlzSzMwOVZ2RjYxZkZmTVlpYlctUS1fT3hkNEFrOGdkMTNNQUJTOXd6czNHa2RQaHJGNVZzb21JYXNEYjVwSklmNE1HNDRLcldPU21IMlI1bHVB?oc=5",
-      "pub_date": 1764091877.0,
-      "article_url": "https://www.theblock.co/post/380262/jpmorgan-bitcoin-etf-blackrock-ibit-structured-note",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Anthony Scaramucci Cheers JPMorgan's New Bitcoin-Linked Offering, Says Market Is Missing Scale Of The 'Huge' Milestone",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS1Rwbjk2OVMzQzExSmVZWC1jSWt0NW9EYW9xNHg3d21obmpmUUxjRldkS0dkUGhGNVpqelp0dFJiMUxmUURzeEMzSzU5MU5iOFF3ajVLTzJrTGcteTdMODBxeGZLOVJlZzIwSHk2eWdDYXBpV2lhRGJVQjE4Z3VDWldPaV8zQ2tfMkZJcW9nY0JHV1k?oc=5",
-      "pub_date": 1764294840.0,
-      "article_url": "https://finance.yahoo.com/news/anthony-scaramucci-cheers-jpmorgans-bitcoin-015446948.html",
-      "image": "https://media.zenfs.com/en/benzinga_79/ce4d07cd68c4e642e737b3f623b73c8b",
-      "description": "Anthony Scaramucci, the founder of SkyBridge Capital, highlighted on Wednesday the significance of JPMorgan Chase & Co.'s (NYSE:JPM) move to offer a Bitcoin (CRYPTO: BTC)-backed bond. Scaramucci Cheers JPMorgan\u2019s Move In an X post, Scaramucci hailed ..."
-    },
-    {
       "headline": "Bitcoin Whales Return to Buying for the First Time Since August as Price Recovers Above $90K",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVzlCMUVBQm1uMWdBd1Q0eDlLeUhxTnZzQmVxNGU3QWdaZENaMkhsMHozTlFvZHhvNC13ZTVoRUdWcHdFcmV3c1RjSVBUT0JzNG8xVzFjVHBZaERPR3V1SEJ2eHM4cl95cXhXS3lXNWczWEJpOUt4RTBORXdGaVdwYVdxSGhkaTREX3JCYjh0SzQyYkZKcGM1VDRYTGhCb2tYZHl2Y3ZDQzBHODJxUkRpOFZVWFlvVk02X3QxSUFYV18zMTR2QmJVTlVENU8xTVdqMVVMTQ?oc=5",
       "pub_date": 1764256538.0,
       "article_url": "https://www.coindesk.com/markets/2025/11/27/bitcoin-whales-return-to-buying-for-the-first-time-since-august-as-price-recovers-above-usd90k",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Why the pressure on bitcoin may linger into year-end",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU2RCY2plVkphcjFuR0xWWEtqTllKZTZhN0t4a2FUZzRHcm55QnlqT0xPUUFIUUdTZnU2TDFoRGk0WVBBblZkV3cyaG40b2dFdjZITTBLVHBFLXNFVHhSdGNoUVc5blRDT3FDdWlMTTNXQkNpTUpObS00eF9xRmhtVmpiWE9ROWtmanpZZmFVVGo1dVk?oc=5",
+      "pub_date": 1764187202.0,
+      "article_url": "https://www.cnbc.com/2025/11/26/why-the-pressure-on-bitcoin-may-linger-into-year-end.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229961-1763739028691-gettyimages-2247743566-img_6815.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "A bitcoin sell-off driven by investors that bought BTC at a premium will likely put pressure on the asset through the year's end, according to Compass Point."
+    },
+    {
+      "headline": "The fatal flaw in using bitcoin as a currency",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZmNlenhZYzBTbGpueFNGeFB5eUxQeV9CR3k4OEwzUDBzXzhHNlAxNkVtZlVtaC1LeUxkZ1JWV3BxVEtzNGI1ZU1JOWw2UjdYSE41NnZsMmZ5N2VZWkF2bk5fQnJrd2ZLOHBxRUh6UXA?oc=5",
+      "pub_date": 1764133249.0,
+      "article_url": "https://www.ft.com/content/a18c310a-d533-4d03-bb25-53cb11337dd1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80fc2f5e-ea28-4dc9-ae18-6c879b6eb7a5.jpg?source=next-barrier-page",
+      "description": "There is a crypto parallel in the aftermath of Europe\u2019s 14th century bubonic plague"
+    },
+    {
+      "headline": "Bitcoin Surges Without Help From the U.S. Stock Market. Why That's a Good Sign for Cryptos.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOdnY5VFpQZFRycHJFcGRISER1ZlAtN25qVmJXYy1TblBqOXlaU2JmN3Y5cklhdzVyc1liWGFNZzBjcExfOWNpb1BDbVk4VGJZUDZEME1rUS1iTEtoZnBMX0trWjQwNVZjR3BGTUJSMkg0M2VDdEVxZlkwODFRMDNpMUl6Wm5Odkw0Q3JNcmdNRjdGLXR3NURhQVI2M0xJZTZNQTRXRmN5SUVDa0dTMS1MWGh2bnlMZUtLeGRaYlZ0dU9aUzVKcHVZS05Td1ZHNGNldy1UMlo3U2tPNzJBVUlXZVE3N3ZJeEE2OUNPV1ZoNVY1aHFjSkEzYnZadW9CRVE4NWVLQkNmbGJiY050enN2TzZvY09VaEV5eWpJTldMSi1NYnZscmNISDBkNWVqbFhiRTJsNzNuTU1YOURmUlJsX2xIT2FmdnJBVUdSaFg2NzhJWDlpS2pZeExIeVd5TjNzNHVKSU9xV1dPeldoWTFRa1QtUjl1R1B4RjF4TkE4dDhZYlNmV1hBRVBCTmxKZw?oc=5",
+      "pub_date": 1764242580.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-thanksgiving-88abf9ff?gaa_at=eafs&gaa_n=AWEtsqcTlxEiCwDZLvNaYcsY-kckO5kGbUQl2hHLFZPTn3WJBriKKjUXsVkr&gaa_ts=69291f79&gaa_sig=o3Mo62pBavkks7ZqEPcf4Sp1Sqe1Ix-Wwi7VpLoeCBL7RXugI1A6WXPjipFNBw8tB_TP0EfSOtoW_Byfk8WHdQ%3D%3D",
       "image": null,
       "description": null
     },
@@ -93,18 +103,8 @@
       "article_url": "https://www.theblock.co/post/380651/spacex-105-million-bitcoin",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bonk Teams Up With Bitcoin Capital to Launch ETP in Europe",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNXNLMDBGWGZ1cXdXaUhnX3RGYzlockZPWk5WdUhPUW5JRHgzTW5PWEFlQURuRlJ3NVo5T0Z6OWtrVUNFdlFUWlRpd0Fvc1ltczc4M1lzbENsa3dNd0VzcEJyeGh0QnlzOXBDY25lOUdQM3o4QWtWdGJldkJIYk93SlVBYWRjRUFPMjROMtIBlAFBVV95cUxPeXBrNUc4QTZ2aUJLMS0tWGlRQTViclFiRXZCSHhGcnMyRTU3aURsWm1kWGZRbnpVWWExbmxNTUtJcEp0T0pDREFIY0F2MFV4LUw1WTFEQTU0T19VbnIwWVpublJubWR4eWtTRmdPalIzNkNZY2hyZVdsdVZMZV9kWUV0eXZPV1RkbkZOTWQxUHNLenVn?oc=5",
-      "pub_date": 1764254344.0,
-      "article_url": "https://decrypt.co/350215/bonk-teams-up-with-bitcoin-capital-to-launch-etp-in-europe",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/bonk-decrypt-style-02-gID_7.jpg",
-      "description": "Investors can now trade Solana meme coin BONK as a regulated product on Switzerland's largest stock exchange."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T03:03:57.426824+00:00"
+  "fetched_at": "2025-11-28T03:50:31.699376+00:00"
 }
