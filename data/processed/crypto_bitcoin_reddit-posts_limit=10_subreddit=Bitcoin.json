@@ -13,17 +13,6 @@
       "description": "It's clear we gonna be gobbling up some gains here. HODL and you'll see your accounts get some stuffing with gains."
     },
     {
-      "title": "Happy Thanksgiving",
-      "author": "yoobermcruber",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p86g82/happy_thanksgiving/",
-      "published": 1764260900.0,
-      "thumbnail": "https://preview.redd.it/8urrq44ftt3g1.jpeg?width=640&crop=smart&auto=webp&s=5fa86004c4bc9efbf31a7d36432dedcd96722aa7",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Daily Bitcoin meme until BTC is at $200,000 #153 THE LAST ONE",
       "author": "moonlightvle",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p8bz05/daily_bitcoin_meme_until_btc_is_at_200000_153_the/",
@@ -66,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "me in 2007 instead of buying Bitcoin"
+    },
+    {
+      "title": "Happy Thanksgiving",
+      "author": "yoobermcruber",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p86g82/happy_thanksgiving/",
+      "published": 1764260900.0,
+      "thumbnail": "https://preview.redd.it/8urrq44ftt3g1.jpeg?width=640&crop=smart&auto=webp&s=5fa86004c4bc9efbf31a7d36432dedcd96722aa7",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Every Damn Time",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-28T03:50:14.225461+00:00"
+  "fetched_at": "2025-11-28T04:40:57.688937+00:00"
 }

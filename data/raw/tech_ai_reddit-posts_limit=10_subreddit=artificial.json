@@ -13,6 +13,17 @@
       "description": "Mexico announced on Wednesday plans to build Coatlicue, a 314-petaflop supercomputer that will become Latin America's most powerful."
     },
     {
+      "title": "Chinese startup founded by Google engineer claims to have developed its own TPU chip for AI \u2014 custom ASIC reportedly 1.5 times faster than Nvidia's A100 GPU from 2020, 42% more efficient",
+      "author": "seeebiscuit",
+      "url": "https://www.reddit.com/r/artificial/comments/1p8le8l/chinese_startup_founded_by_google_engineer_claims/",
+      "published": 1764303012.0,
+      "thumbnail": "https://external-preview.redd.it/hC5hKGtFjbA9pIJUsgLdxlOmEr-NX-ueFNCvTgQ_Ze8.jpeg?width=640&crop=smart&auto=webp&s=bcf265db2b41ec6682dd8b17be2fe6c9186ab1e0",
+      "external_url": "https://www.tomshardware.com/tech-industry/chinese-startup-founded-by-google-engineer-claims-to-have-developed-its-own-tpu-reportedly-1-5-times-faster-than-nvidias-a100-gpu-from-2020-42-percent-more-efficient",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1482179/apple-touch-icon.png",
+      "description": "It's allegedly 1.5 times the speed of Nvidia's A100 GPU from 2020."
+    },
+    {
       "title": "Dismantling AI Capitalism: the Commons as an Alternative to the Power Concentration of Big Tech",
       "author": "Constant-Site3776",
       "url": "https://www.reddit.com/r/artificial/comments/1p8fv8i/dismantling_ai_capitalism_the_commons_as_an/",
@@ -99,18 +110,7 @@
       "site_name": "ponderwall.com",
       "favicon": "https://ponderwall.com/wp-content/uploads/2016/02/cropped-Thumbnail-180x180.jpg",
       "description": "GPUs are wearing out faster than companies admit. High\u2011performance GPUs used for AI often become economically obsolete in 2\u20133 years, not the 5\u20136 years firms expect. This mismatch could be hiding huge costs and overstating profits. AI companies may be sitting on depreciating hardware while investors remain in the dark."
-    },
-    {
-      "title": "So I Made An AI Cover Song Game You Can Play With Family Today! Have Fun!!",
-      "author": "latetothetable",
-      "url": "https://www.reddit.com/r/artificial/comments/1p862gu/so_i_made_an_ai_cover_song_game_you_can_play_with/",
-      "published": 1764259999.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Name That Cover So it's a pretty simple concept! You go in Party mode with friends and family, and you guys just try to guess the name of the original song. I played a more manual version of this like a week ago and my friends LOVED it so maybe your friends and family will love it too! Feel free to request songs and I'll try to add them ASAP, and if you like songs while logged in you can go back and listen to the AI covers in your profile. I'm totally down to hear any and all feedback! Also I'm fully aware the \"Songs of the Day\" mode is bugged on mobile and not working properly."
     }
   ],
-  "fetched_at": "2025-11-28T03:50:12.811384+00:00"
+  "fetched_at": "2025-11-28T04:40:57.659239+00:00"
 }
