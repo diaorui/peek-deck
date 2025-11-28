@@ -35,7 +35,7 @@
       "num_comments": 4,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
-      "github_stars": 4503,
+      "github_stars": 4570,
       "project_page": "https://ai.meta.com/sam3/"
     },
     {
@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 95,
+      "upvotes": 96,
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
@@ -111,7 +111,7 @@
       "num_comments": 4,
       "published_at": "2025-11-20T00:01:57.000Z",
       "github_repo": "https://github.com/aiming-lab/Agent0",
-      "github_stars": 545,
+      "github_stars": 583,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-28T08:54:11.511193+00:00"
+  "fetched_at": "2025-11-28T10:10:58.690674+00:00"
 }

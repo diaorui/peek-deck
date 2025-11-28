@@ -2,6 +2,17 @@
   "subreddit": "robotics",
   "posts": [
     {
+      "title": "Paper Science Robotics: Scientists in Korea have developed a rollable robotic structure that is flexible enough to collapse into a compact hub, but also stiff enough to bear heavy loads like 3D printers when extended",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1p8qdje/paper_science_robotics_scientists_in_korea_have/",
+      "published": 1764320917.0,
+      "thumbnail": "https://external-preview.redd.it/dnEwMzlvenJyeTNnMUEIKFVhDF_nw1oJUllM0yZt-Ec7J3VLtNEjTVjN7EAy.png?width=640&crop=smart&auto=webp&s=ba3e0b5d77721c42931d9ed88ecd17edda6e3378",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Science Robotics: Foldable and rollable interlaced structure for deployable robotic systems: https://www.science.org/doi/10.1126/scirobotics.adv4696"
+    },
+    {
       "title": "Robot Dog Board Recommendation",
       "author": "p0tato___",
       "url": "https://www.reddit.com/r/robotics/comments/1p8im3x/robot_dog_board_recommendation/",
@@ -24,17 +35,6 @@
       "description": "Chinese students are out here creating machine-generated butterflies\u2026 Like\u2014this isn\u2019t nature anymore, it\u2019s engineering with \u2728vibes\u2728. I\u2019m officially impressed \ud83e\udd8b\ud83e\udd16"
     },
     {
-      "title": "Paper Science Robotics: Scientists in Korea have developed a rollable robotic structure that is flexible enough to collapse into a compact hub, but also stiff enough to bear heavy loads like 3D printers when extended",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1p8qdje/paper_science_robotics_scientists_in_korea_have/",
-      "published": 1764320917.0,
-      "thumbnail": "https://external-preview.redd.it/dnEwMzlvenJyeTNnMUEIKFVhDF_nw1oJUllM0yZt-Ec7J3VLtNEjTVjN7EAy.png?width=640&crop=smart&auto=webp&s=ba3e0b5d77721c42931d9ed88ecd17edda6e3378",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Science Robotics: https://www.science.org/doi/10.1126/scirobotics.adv4696"
-    },
-    {
       "title": "AgileX unveiled a robotic arm two days ago: NERO. 3KG payload + 7DOF arm at $2500 without hand",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1p7za49/agilex_unveiled_a_robotic_arm_two_days_ago_nero/",
@@ -44,6 +44,28 @@
       "site_name": null,
       "favicon": null,
       "description": "AgileX Robotics on \ud835\udd4f: https://x.com/AgilexRobotics/status/1993218134246076721 Website: https://global.agilex.ai/"
+    },
+    {
+      "title": "Seeking honest feedback: LLM-driven agentic robot with modular architecture and real-time motion generation",
+      "author": "TheSuperGreatDoctor",
+      "url": "https://www.reddit.com/r/robotics/comments/1p8qo6i/seeking_honest_feedback_llmdriven_agentic_robot/",
+      "published": 1764322059.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi r/robotics, I'm part of a team developing an AI agentic robot, and we're conducting early-stage research. We're looking for honest technical feedback from people who understand robotics systems, LLM integration, and hardware development. Core technical approach: LLM-driven streaming orchestration that enables reasoning-while-acting (not pre-scripted behavior trees) Memory-personality framework for dynamic character development Modular hardware architecture - the intelligence core can be ported across different physical platforms Multi-component coordination (limbs, displays, audio I/O) through parallel/sequential execution logic Current prototype: Quadruped desktop robot with 12 servo motors, multimodal I/O (camera, mic, speaker, display). The survey includes a technical preview video showing the system in action - real-time generative motion and natural language control, not cherry-picked demos. Why we're here: We need reality checks from practitioners. What we're really asking: Does this approach solve problems you actually care about? What are the deal-breakers or red flags? Where would you want extensibility vs. polish? Would you engage with an open development community around this? The survey (5-7 min) covers technical priorities, implementation concerns, pricing sensitivity, and community ecosystem interest. Survey Link: https://docs.google.com/forms/d/e/1FAIpQLScDLqMYeSSLKSowCh-Y3n-22_hiT6PWNiRyjuW3mgT67e4_QQ/viewform?usp=dialog This is genuine early research - critical feedback is more valuable than enthusiasm. Happy to discuss technical details in comments."
+    },
+    {
+      "title": "Career in Robotics / From software engineering to Robotics after 4 years",
+      "author": "StarThatScream",
+      "url": "https://www.reddit.com/r/robotics/comments/1p8pu9t/career_in_robotics_from_software_engineering_to/",
+      "published": 1764318829.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey, I love robotics hardware engineering, but I don't know calculus, mechanics, or physics yet. I'm also tired of writing computer programs, so I don't want to do the ML/AI/software side of robotics. Right now I'm zero in both hardware and software. Lol. I want to start with DIY projects and study some books on my own. To stay connected with the robotics industry, I'm spending more time in robotics subreddits and watch robotics content. So my question is: Is this a good plan to break into robotics hardware? What else should I be doing?"
     },
     {
       "title": "The pattern that VinciBot drew is actually quite neat.",
@@ -57,15 +79,15 @@
       "description": null
     },
     {
-      "title": "Career in Robotics / From software engineering to Robotics after 4 years",
-      "author": "StarThatScream",
-      "url": "https://www.reddit.com/r/robotics/comments/1p8pu9t/career_in_robotics_from_software_engineering_to/",
-      "published": 1764318829.0,
+      "title": "How to use Pepper?",
+      "author": "K1moon",
+      "url": "https://www.reddit.com/r/robotics/comments/1p8r0bi/how_to_use_pepper/",
+      "published": 1764323381.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hey, I love robotics hardware engineering, but I don't know calculus, mechanics, or physics yet. I'm also tired of writing computer programs, so I don't want to do the ML/AI/software side of robotics. Right now I'm zero in both hardware and software. Lol. I want to start with DIY projects and study some books on my own. To stay connected with the robotics industry, I'm spending more time in robotics subreddits and watch robotics content. So my question is: Is this a good plan to break into robotics hardware? What else should I be doing?"
+      "description": "I'm a university student, and I have to write a program for pepper, I'm following the guide contained in the softbanks robotics documentation, but all the links to download the python SDK are not working, can someone direct me?"
     },
     {
       "title": "How to you guys sell robot parts usually?",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "How do you even label unexpected behavior in the real world?",
-      "author": "Mtukufu",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7xg2l/how_do_you_even_label_unexpected_behavior_in_the/",
-      "published": 1764233469.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "It\u2019s fairly straightforward to label training data when everything happens in a clean, controlled environment. But once you step into real-world robotics, the situation becomes messy fast. There are weird edge cases, rare events, unexpected collisions, unpredictable human interactions, drifting sensors, and all kinds of unknowns that don\u2019t show up in simulation. Manually reviewing and labeling every single one of these anomalies is incredibly slow and resource-intensive. For those working with embodied AI, manipulation, locomotion, or autonomous navigation, how do you realistically keep up with labeling this chaotic real-world data? Are you using automated labeling tools, anomaly detectors, heuristics, synthetic augmentation, active learning, or just grinding through manual review? Curious to hear how other teams are approaching this."
-    },
-    {
-      "title": "DC motor or actuator type",
-      "author": "dgtldan",
-      "url": "https://www.reddit.com/r/robotics/comments/1p83z7t/dc_motor_or_actuator_type/",
-      "published": 1764254844.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I saw an actuator at a kids museum that was used for playing percussive instruments which looks like a DC driven motor or actuator, with a circular shape, and near silent operation. Each has a simple two wore interface with a partial heat sink on the body. About 2\u201d in diameter and 3/4\u201d depth. Unfortunately didn\u2019t take a picture! Any thoughts on what this type of actuator might be and a manufacturer? TIA"
     }
   ],
-  "fetched_at": "2025-11-28T09:20:24.762363+00:00"
+  "fetched_at": "2025-11-28T10:11:01.678290+00:00"
 }

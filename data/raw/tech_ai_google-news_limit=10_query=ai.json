@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "MIT report: AI can already replace nearly 12% of the U.S. workforce",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUndPWDZoWmh5UHEyUHdoY0ZoekVFWHRmX3E5UThHZmxUU0JNTE5lb2FfdXdMU1pLNmJTS09STGFlU3UtUG1ZeU94eW1mVEJHR25pQ1l5UnkxNEd4V0wwNzJuQzI1czJwQ1RFWGF6UlBQVk1pTzdldGVhRlpwRXRNcHgtRDY4cTJJTVZ6a0U5UFVhRURzWGVDOFd1Zw?oc=5",
-      "pub_date": 1764241380.0,
-      "article_url": "https://fortune.com/2025/11/27/mit-report-ai-can-already-replace-nearly-12-of-the-us-workforce/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236544323.jpg?resize=1200,600",
-      "description": "The window to treat AI as a distant future issue is closing."
-    },
-    {
       "headline": "MIT study finds AI can already replace 11.7% of U.S. workforce",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -23,16 +13,6 @@
       "article_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108232119-1764112994142-gettyimages-2209860667-AFP_42FT68T.jpeg?v=1764166052&w=1920&h=1080",
       "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
-    },
-    {
-      "headline": "AI can already do the work of 12% of America's workforce, MIT researchers find",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44UF9fODFDSXVRY0g2eGR2OUZDeWJNNXkyazdpTXBiaVFVcU1nazhnMU5FZjJOX3JIN09HZDgyM3RQa3pLV1B4RThrTUNtWEQ3YkRzOVo4YjMtdlFIWjh3aXk1Wk11RTVTck1TU3Y2X3BXYnYtSjBlWmR5Z09vZ2PSAYQBQVVfeXFMTWxzZTJtZkdtRk9TVG9rb2hoN2xqU2dJZXAxd3M4Yi1HTXl6NkVxeUtaeDFhN0JTU21IcVBLUXpLMUlKX2RvV3NVcVEwMDhqZmJWS0d3NGVtbXcxVFYybjdMeFhONnBHblhCT3otVXI1RjdrOWhzX2lOTE9EMHRicXdTMG1n?oc=5",
-      "pub_date": 1764197820.0,
-      "article_url": "https://www.cbsnews.com/news/ai-artificial-intelligence-workers-mit-study/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/26/1a6fc6cd-ea80-4468-977a-7a46e4002cbb/thumbnail/1200x630/c93034e11ba8c92f4d25914d01b97e08/gettyimages-2234175849.jpg",
-      "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
     },
     {
       "headline": "A.I. and the Trillion-Dollar Question",
@@ -65,12 +45,32 @@
       "description": null
     },
     {
-      "headline": "Nvidia Stock Could Be a Black Friday Bargain Amid Google AI Threat. Here\u2019s Why.",
+      "headline": "TPU Takes AI Trade By Storm. What to Know About Google\u2019s AI Chip.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOeHlCVWNVVUZXTmgxNUh3dGJpd2ktMk9ucXRZcm5tRldRYWhyWmI0TG1fbFY4dUtLLVFkeHlLaWlWeU1VSnZxaVdCWVhHOFlSbjExNWVJNnRXSnpOTGlmaWdaNVZabW55dHp0YmJ1bS1kS1JsUEJaYVBTUGRsaDNpY3FRU2VobHVodnYtQkxsaFZpU2lFQXBkM1JRdjg2N0IwUnJSaHJ3cmctY1J0WHo4bDY1Qjk1M2hXYnFSS3hiWThua19fTGkwZmVuc3Naa1ZrQVA2NXR6YU1UYUV2ZU9ta1pqcXpkQ2JzTlE0VnBOVjcxTlFiQ0RzdHJ4aHBpTVZRZkRFbzl1M2NwS1lKdFNWS29JRFk2VFVsaG9BeFhzem1FWGNlZXVGZjU4cDJ0ZkFaVkpla1NUTDJmTHN6RFJGWFZ5Szk1cW00clJSVGxSYnNrWVh1b0VmcHA4TUU3NnhvY01Ibnl2aG84RUpvb1d3SFZfejV1TkQ4b3huSjBJQ2cxcGg3TnZmMw?oc=5",
-      "pub_date": 1764244440.0,
-      "article_url": "https://www.barrons.com/articles/nvidia-stock-black-friday-google-ai-1814e46e?gaa_at=eafs&gaa_n=AWEtsqfitkzV3wITItCfK8bMePK16WBzCxpS5GgZyL9GLp8kLYmQDVEJkbJ1&gaa_ts=69296cd7&gaa_sig=pO5hn2lrh0ZHezp1xWAMlkBYZuK-Hnc2t7BUNDTNS_wvtN1zh5VOaK6DXzAG5RXJT8HxiQ85uaq6fPaIqC58BA%3D%3D",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQLUd4Zk54T1UtOTB2NVFMRlJfWGtjR1Z3WWxPWldmRVZmOVRSeEhaelg1U1o0a0dKYVU0YnM0cVJQWGRjS1ZJWU9WbDVPdXVnYzdkeExweVJlSkFSTlJaNnY4dXlDa0FTdDZaZ0NJdE81bTNLZ1NyWEJZQ2d4WHViSHNSMEJ5VUsxRnZlRzNKNVZNMlhYZW1QckNyY3BQZ1cxc2xLeUc1dkdZOTZvR0ZwazN3U2J1aUtqQ24tVWR6eHFrMXh3V3YxVEZ6R2FOWUg0cjgxMEhMMHFNTndaM2M4SXJEVlRtZHVTQmltTWM1REhId00xRzNMcmUwakVWaUZ4eHBYX3hVMk5Pd1VVcFQ3X3duUE5LYTRVcDduNzdSYnZjNjN4cUY5RklmblhzellVNHlZY0dRUi1tczRYUXBNcXRVVG4zMzNVdENkRWtjVzFRS0Uydy0wNDVodUJNZ1hleFhDUVU1cWR4ZXNKUHJoQWNiUzNNZ0NsVVU0MUNtVjlXNXI2RzdybmRiSVA0a3pLWnV2cDlRU3Bqcm1ObVA4eg?oc=5",
+      "pub_date": 1764315000.0,
+      "article_url": "https://www.barrons.com/articles/google-tpu-vs-nvidia-gpu-ai-stocks-93dc908f?mod=article_inline&gaa_at=eafs&gaa_n=AWEtsqft2a_-P3igZo7NxTg56OIjVFgSpHfMsbwdXoLS7n4TYLrP9zQ1st31&gaa_ts=692978b5&gaa_sig=gpF9m6y19aYVNirYLwmgsF4whRj-7DT3CCS9hC-X-XVjiisxnM68xPPfzWpg_x2lD7vO-MacbKhr3K4YPOVo8A%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "'We're going to see a lot of carnage': VC investor says AI boom will create giants \u2014 and topple overhyped startups",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdDJ3YnZqMlhkX3hpZkRTeDFFazB4eEZLOExUMmpnbDE5MHVhWHNINUF4cWYxVjc3Z0JaUUs5aHp6clprZTZoTlZTaHRWZ05HU2xRLUJ5N1VxSHF4cW1WZXppTjlPd3ZUUjZlWlluaWt2U1VKeEpJTmpNcW1aeE5Gb21fbHBkNkVWdmZJbUhYV1NqNGxQVTJtOVZpWTh1T2xmb0E?oc=5",
+      "pub_date": 1764323460.0,
+      "article_url": "https://www.businessinsider.com/ai-boom-huge-winners-wipe-out-overhyped-startups-vc-investor-2025-11",
+      "image": "https://i.insider.com/692843c0e1a9cbb014df1eb2?width=1200&format=jpeg",
+      "description": "The AI boom will create giants but topple some startups, says VC investor Mel Williams, as soaring valuations set the stage for a market correction."
+    },
+    {
+      "headline": "Taiwan raises 2025 GDP growth forecast on surge in AI demand",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZEVoSVZad1RoX3dlSFhENUdNSjJBZEpTTFo5Szktby1KWHhHTVI2OVU1NW5nUEUwczRiTTg3MUpfZDlsNHREc1JldS1BRjVNQjNkU0dWU3pJcmt3Z3NpbFl5Nk5JYnpPVk9sQWhUajB2cXk3UXNXY19IN195T1JJa0YzMERJcWtEaGtwYm9RdjhYOTByZUc3b2UxTno4SmtPNm81N2NrRktIdGJPSlE?oc=5",
+      "pub_date": 1764320837.0,
+      "article_url": "https://www.reuters.com/world/asia-pacific/taiwan-raises-2025-gdp-growth-forecast-surge-ai-demand-2025-11-28/",
       "image": null,
       "description": null
     },
@@ -79,32 +79,32 @@
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdWMxRDZ3Z1JpNXJna2NaUDdEVHJIRlBXZ1JudnhGTGp3M0VqSjlnUkJTU296anRzblR3XzhfSlNVQjEyYmJNbUtscUd6TnljWWdIb0pjbmFSdnBHREpxLWc3Z1ZRb2FfeHVwNzA4TEk2S3NpUndWcUNwRm16aUcwZ0c2YXFtYUxjRUVEdlkxbjB2RXEzRENyZFBOeFpxV0FqV2s2YWFNV2NVVndmaUE?oc=5",
-      "pub_date": 1764318934.0,
+      "pub_date": 1764320295.0,
       "article_url": "https://www.bloomberg.com/news/articles/2025-11-28/taiwan-raises-2026-growth-outlook-as-ai-boom-helps-exports",
       "image": null,
       "description": null
     },
     {
-      "headline": "Thinking the Thinkable on an AI Market Correction",
-      "source": "War on the Rocks",
-      "source_url": "https://warontherocks.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVjhBTURpSWwybXd4Q0Q1Y3lxMzk3dE9UNHVEbnNpN1ZsTGtaR0lLQ3NOaVBxSnJxUjF0QU0wVm5pVzVUaWpHV3ozVUZ3NTd3dEU2UVFLcnNnX1ZBbXp2eGd6a01ETlhPVFBPZ19YSDFWS0xUZk9jN0taVGhzcnVpRnhleEtSZGlUX28wMA?oc=5",
-      "pub_date": 1764318919.0,
-      "article_url": "https://warontherocks.com/2025/11/thinking-the-thinkable-on-an-ai-market-correction/",
-      "image": "https://warontherocks.com/wp-content/uploads/2025/11/57b3fc01-0bea-4a1d-a674-a1e218f3ee39.png?v=1764104719",
-      "description": "You\u2019re not hallucinating: AI \u201cbubble\u201d discourse is everywhere. Whether you\u2019re looking at Google Trends, reading the paper of record, listening to subject"
+      "headline": "The global AI race is supercharging Taiwan\u2019s economy. But many don\u2019t feel better off",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4MUJzamtWR1A4RTdzNjJPRlZ3Sm8yOUpES2ROcFBxTlk0cUpUYnkzS1pCR3JUX0dFeE92MDhxY19uTm5HUUZ1RFZlQ2F5RlZ1dFZYZS1ZTWh6WHpCLVdZSnR0ZFM5YWxveW5Fb2NWcU1vNkE?oc=5",
+      "pub_date": 1764319015.0,
+      "article_url": "https://www.cnn.com/2025/11/28/economy/taiwan-ai-economy-intl-hnk",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2247159003.jpg?c=16x9&q=w_800,c_fill",
+      "description": "For proof that an economy can thrive even under constant military threats from a powerful neighbor and amid US President Donald Trump\u2019s sweeping global tariffs, look no further than Taiwan."
     },
     {
-      "headline": "An OpenAI exec explains how his growing team helps companies move from AI hype to adoption",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPekFxbVVRMEFGSzJXTzQxX3otNjN1SGFuQUt4dXlmaW5TNzlmdjV1ZmxCVVRZNWxZbGs2a0FNTUhxSnJ3WWlNUC1GNHNmSXJCM2ZyTzFJX2FPQm5fT3lrNHFCWlhCZ0htM3BYMFNfallmYjNtYm5lVlQ4UmZxTDBOV2I1ZWFNc3dQTlNrdDZmUUxjeDhuVHJ1YkRKc09nQQ?oc=5",
-      "pub_date": 1764316800.0,
-      "article_url": "https://www.businessinsider.com/openai-forward-deployed-engineer-ai-adoption-colin-jarvis-2025-11",
-      "image": "https://i.insider.com/692941cb89026fbb4d0e9492?width=1200&format=jpeg",
-      "description": "OpenAI's head of forward-deployed engineering explains how his team works inside companies to turn AI into real deployments."
+      "headline": "AI boom has these blue-collar jobs on the rise",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvdTJWbmpJUTR2Umt1d2RENURSTF9STUkxRjlvTlBFeGc3dEh1Mi1pcjBEV2xVaDhjclZrbzlERnVOSjhMcjFxOGtR?oc=5",
+      "pub_date": 1764324069.0,
+      "article_url": "https://qz.com/ai-blue-collar-jobs",
+      "image": "https://qz.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/jason-richard-Hlhc8gQUW6I-unsplash.jpg",
+      "description": "From electricians to wind-turbine technicians, these skilled trades are in high demand and resistant to automation"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T09:20:46.248767+00:00"
+  "fetched_at": "2025-11-28T10:11:26.234628+00:00"
 }
