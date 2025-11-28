@@ -9,7 +9,7 @@
       "url": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
       "hn_url": "https://news.ycombinator.com/item?id=46062504",
       "author": "cyclecount",
-      "points": 583,
+      "points": 584,
       "num_comments": 306,
       "created_at": "2025-11-26T21:25:36Z",
       "object_id": "46062504",
@@ -38,7 +38,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46072002",
       "author": "_tk_",
       "points": 416,
-      "num_comments": 172,
+      "num_comments": 173,
       "created_at": "2025-11-27T18:37:41Z",
       "object_id": "46072002",
       "image": "https://replaceyourboss.ai/OGImage.jpg",
@@ -51,8 +51,8 @@
       "url": "https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference",
       "hn_url": "https://news.ycombinator.com/item?id=46069048",
       "author": "vegasbrianc",
-      "points": 386,
-      "num_comments": 283,
+      "points": 387,
+      "num_comments": 284,
       "created_at": "2025-11-27T13:28:34Z",
       "object_id": "46069048",
       "image": "https://substackcdn.com/image/fetch/$s_!H_F9!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff173524-b98d-4a2b-9f77-7a130ad395a7_1024x1024.png",
@@ -66,7 +66,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46068777",
       "author": "jonymo",
       "points": 208,
-      "num_comments": 287,
+      "num_comments": 288,
       "created_at": "2025-11-27T12:48:12Z",
       "object_id": "46068777",
       "image": "https://shujisado.org/wp-content/uploads/2025/11/chatgpt-image-2025e5b9b411e69c8827e697a5-21_13_41.png",
@@ -107,8 +107,8 @@
       "url": "https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1",
       "hn_url": "https://news.ycombinator.com/item?id=46077038",
       "author": "thm",
-      "points": 61,
-      "num_comments": 65,
+      "points": 76,
+      "num_comments": 82,
       "created_at": "2025-11-28T09:21:55Z",
       "object_id": "46077038",
       "image": null,
@@ -145,7 +145,7 @@
       "site_name": "GitHub"
     }
   ],
-  "total_hits": 432,
+  "total_hits": 418,
   "has_metadata": true,
-  "fetched_at": "2025-11-28T14:22:00.366759+00:00"
+  "fetched_at": "2025-11-28T14:52:46.388111+00:00"
 }
