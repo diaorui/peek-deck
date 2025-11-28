@@ -5,62 +5,72 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "How Google put together the pieces for its AI comeback",
+      "headline": "MIT study finds AI can already replace 11.7% of U.S. workforce",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0JLdVFlVTcyOHViMGdtWU5LcFZlNmJGbWl1SHZYTjNEd29fTDc0bFZ4Wk5FTWRVOEpqVXJHUG10Mi1PcEN0YnRrWkJhdURqTmJCRWRYOUREOGRhNktXVkZqQjNjdVhqa0w3M3ZzRldVUnJ3QkRQUzlxVEVfQWpvRU5PMUc5VW5pN2p6WGEzT0ZRSE1CUVHSAZsBQVVfeXFMTjBUa0dLUzZ6bEI2SWN4UThGWVVWcTUtX0ZKMEpTbl9mVktYbUxKeDVFWDk4M01kUGU0U0paZ28tRzczUmtnM0JVTGxVWW0yS1JqODh2TzZKT3M0ZTVoRG54QjlSMU1EU3UxeHJISkM1OEM3aDJPZUFlcVg1MDhOSGNsSUVHLVY3MFl5RmhUd1VnQnhoajRhTjFscVk?oc=5",
-      "pub_date": 1764244801.0,
-      "article_url": "https://www.cnbc.com/2025/11/27/how-google-put-together-the-pieces-for-its-ai-comeback.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108228511-1763577992035-gettyimages-2247381802-vcg111604745843.jpeg?v=1764184784&w=1920&h=1080",
-      "description": "The company's Gemini 3 and Ironwood AI chip are driving Wall Street's excitement behind Alphabet's AI comeback, but challenges remain."
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUVibzRUdk5hYUE4WVk0eThiRWt3S2MzVGRCc0lfWkRsMU85bTBsYWJxX3RlYVc5ekhqcGJobDYtbEpJSmpvTERJU3k5VzhJSExIS3dmZ0w4dWpiRlpjZzk1RFBYR3JnNUFXZHpvYjZHYVRYM3pTaHZoNDU4TlpDbWRCMTE1ZGNPSHB5Qzh1a3NRNWw5Qkg1SEZ3WjJ4dDVIcC1ZeWNEQXZza1nSAbABQVVfeXFMUENGUGUxOV9sUEdJSWpyN2JmNU9DWk8wZEY2cFJ0N2RuRmxGVVVEcy12VlNjNGRQb1Jqa3dGNFZobV9CNmtIRF9KcHBzeFk4S1JmYUI4dFB2RFJhN0pJc0hKT2UzckJQZFlJamhoZnloczJyTnp0RkVKNmdVTzBzenFLUGtmQ2YyRmFwUHF1OE8tZUFCQTB5aWdQeVVpVWE2SjB6Z3dDaml0clJ3Rk1KeDk?oc=5",
+      "pub_date": 1764169201.0,
+      "article_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108232119-1764112994142-gettyimages-2209860667-AFP_42FT68T.jpeg?v=1764166052&w=1920&h=1080",
+      "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
+    },
+    {
+      "headline": "How AI Is Rewriting The Rules Of Work, Leadership, And Human Potential",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMG02TGdwcTlMR2Z4OTF2ZmhUT1dwck54MHJyWlViZUhORXIyV0ViUzVqaHdOWXV6aVoxSE9rbEd1b0RibnhDT243bkVLNFJ4TS1DeWhNUWtieWFneHB2THRBRnZxNzBLVGVtb21ZNTBWWkZwaVZPWXQtTm8wWjBlZDQ5NjlOUjNYbFhzLUxOYTUxaWRINmZ2dmFVSmFBNk9kdjFuYXRTTEREMXhJbDJ6TTNJMVMxYjRQcEgxTzdB?oc=5",
+      "pub_date": 1764311374.0,
+      "article_url": "https://www.forbes.com/sites/bernardmarr/2025/11/28/how-ai-is-rewriting-the-rules-of-work-leadership-and-human-potential/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/692940dad70e3c5a12c541af/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "In this article and conversation with Fiverr CEO Micha Kaufman, we explore how AI is reshaping skills, leadership, and the value humans bring to work."
+    },
+    {
+      "headline": "MIT report: AI can already replace nearly 12% of the U.S. workforce",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUndPWDZoWmh5UHEyUHdoY0ZoekVFWHRmX3E5UThHZmxUU0JNTE5lb2FfdXdMU1pLNmJTS09STGFlU3UtUG1ZeU94eW1mVEJHR25pQ1l5UnkxNEd4V0wwNzJuQzI1czJwQ1RFWGF6UlBQVk1pTzdldGVhRlpwRXRNcHgtRDY4cTJJTVZ6a0U5UFVhRURzWGVDOFd1Zw?oc=5",
+      "pub_date": 1764241380.0,
+      "article_url": "https://fortune.com/2025/11/27/mit-report-ai-can-already-replace-nearly-12-of-the-us-workforce/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236544323.jpg?resize=1200,600",
+      "description": "The window to treat AI as a distant future issue is closing."
+    },
+    {
+      "headline": "MediaTek Shares Eye Best Week in 23 Years on Google AI Progress",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkVxOHhNYmoxbFhJaVRjZkZ3bjFCQlh6SkFyTHBlUXZmR2dtWHFCRDRjOXZLUUFFQnl6aXpsVmxvZll1VXRQTFl4RTdfU1RLQlFVaGtmTmVVaWs3WmswRGxnTFV1Y2tRazRLZG4td3VYX3djZ19PX09pVDQzVjR1c1ZPU1AtU3I5cmJSNUpUMlV1Mzd2QjE3RFB5cFpIUUdBZ292SVJvREZzdWNrTjhRZGtQMnQ?oc=5",
+      "pub_date": 1764300840.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-28/mediatek-shares-eye-best-week-in-23-years-on-google-ai-progress",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Nvidia Stock Could Be a Black Friday Bargain Amid Google AI Threat. Here\u2019s Why.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSnd2Ri1Hb1V0M2VmeDVwZVNYVE1DNWJGLUQwalgwQTlISzhBTHBROVY5T1ZOZXd5Tk5LTjZRWk9qRGZxTEptdEhPM0lZcFRSal8xbHpMcDQ5WVRjaXMxSFdNNjJmOG1sS1g4UWprVElESW9QZVJnMXM4emdKSjJsQ2FibGZIQUlXSVhSV2VySlBaMmZZSnV6c2RoX1dtUEEycTk1YTRJMHhtdDVLRFBtN1VFWHpzX1pKZHZRUlprNnpPLUtWekxwTjh4dEhhQ0U3bTVnR3RRUUZGTDBUX1VVNl80S3NGZmhXSFY5amNsR0FWLWlsZ01yN3RDcy03czc3WTNqaG4xWWt2RUJFVHdKRmMxVUVFNWdKYXR3OG51WXpVczJhSDQwTE9ZVmJIZlJia1JMTDgyZHExTXN3dFUtT00xdFNKaUxkM0FJM1lNNF9NV25vVjVrd0hRYm9OOWNmMmZ0aGVRYmk5WHhnQzk2eXpNSHU5SWhOR3VSWFI2aGtmTTczdTBxZA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPeUtDbXFWVVBoNG9JTEFJSjdpLTBlQVJVSFpySEpzUTBOVUtJbXJXcWM5dF9iaGFBbFY2NGpoTkFvdmVzOUN2UTZ1cTdBMHpNMmFDSERVbXBNblI4OUlUVnhITkdTaUE2blljWDJYdlRlZmZpTk5nU0hfY1J3RVMtMG1JcVVwU2dkWnBEb0xqa0hYOWctOHcyT2RvSzRzaDMtZmNSZ2hKbnk1QUJITmVlU0F6cmF2TllrS0x4WXJxTkxyOU1EaFRWUFR1NkJONjBPcHFjNURrLTFPanc5M0p5YU51c1o0WnZhQ044Z3JLQlhpWm16RDZsYWl6SVNiMm53RVY3RWp1cU1GMHU5YkNBVlA2YnRBYlgxSjlPTHFvSTZKTnNLQjJHT20yRlVOMXZHZngwYm50REowVDlsWGFLN09XdVRBVW9BbnhmODFvelZRYjVCWS1WUWNpZl93clhhNnVlaTk0WWpGQ2lhV2pjRUE2Z0hLMnN0WGtjc29xVlNfdXFPcWo4Sw?oc=5",
       "pub_date": 1764244440.0,
-      "article_url": "https://www.barrons.com/articles/nvidia-stock-black-friday-google-ai-1814e46e?gaa_at=eafs&gaa_n=AWEtsqcIIQyeL7Pn0KVuyORk7uqgT-pOUUdY1RIqYpQVZs8ybCTIDs7mSJFo&gaa_ts=69293bea&gaa_sig=MqciY24vwysvJ6kDCGakGa9ZHVNMuCJTQilv_YUZHDPhtre6AUT0bBpbsja-3fiHVK_k1ZNrM9p3ytNRYl5Cvw%3D%3D",
+      "article_url": "https://www.barrons.com/articles/nvidia-stock-black-friday-google-ai-1814e46e?gaa_at=eafs&gaa_n=AWEtsqfIAd4Uo3VTRtSWulyypOJmGRsXTP1zpIK22n7dxRmBaaevS1jZ16NA&gaa_ts=692949b4&gaa_sig=qeJiFaXSTDyqYOMRx5kMXZDeXCb-XjS3vWQ2WwX3v5XvqWphwlZX_7d_gXjfCNIKuUIVu5I-LZE4L7QyljdgkQ%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "China's tech giants move AI model training overseas to access Nvidia chips, FT reports",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYzVJeTN5ZTBJZzJ2UXk5ZjluTUxKZC11aDdmRmdGWEtVLUF4TVdrQjVlWHoyY0pGakxyWlFNLWhQa0UtRk5NYUNyWktGSFdUbDk4Q3VGQlJoQlpDSTJ5aXRyOUdQQXU0dllKa2ZraUF4dFctM2o3ZkpFR1NrN29QTEZsUDhuanNOSVdTeUQxQzEtUnY2WHpDSWVZMGpJZ2dNQmE1N2xQekhnai01aFppcXNtb1NUNHpxN1g0a0RyS0k3eHUz?oc=5",
-      "pub_date": 1764239291.0,
-      "article_url": "https://www.reuters.com/world/china/chinas-tech-giants-move-ai-model-training-overseas-tap-nvidia-chips-ft-reports-2025-11-27/",
-      "image": null,
-      "description": null
+      "headline": "Baidu is emerging as a major AI chip player in China to fill the Nvidia gap",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0loaG9seUp3cW82YXQyM2xWUDFXTGZ2QXR4MXVUMVVPN1d5VzA5UktYYmtNLU1BaHFvcFM0Y0lSbmN2eEtjX0pjQ3JBeUJObXNFT1FzUHdYWGNDekYyVFRwR2xGYzdXekFOUTBXV3h4REQ5LTBabW56VHp5dnFZcnNzWXZtVzh1UEJHUjdCUUxZcFpvWVVmbk93?oc=5",
+      "pub_date": 1764310853.0,
+      "article_url": "https://www.cnbc.com/2025/11/28/baidu-is-major-ai-chip-player-in-china-to-fill-nvidia-gap.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108233025-1764244459954-gettyimages-2226761556-tang-notitle250728_npWbw.jpeg?v=1764244509&w=1920&h=1080",
+      "description": "China's focus on pushing domestic chips could make Baidu's chip unit, Kunlunxin, a fast-growing business for the company."
     },
     {
-      "headline": "A.I. and the Trillion-Dollar Question",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQVFaLVQzSURxQWxMUG4yNTlXcnhxa2c4cFl5ZkNhb1g5Z2RHVV9oenRXNlNRZ1VMZlNTSkxPY0xJTFVNOVJvQkNNYi0zcnZoV055N1dKSVZyR052NGpCTTd6YWlXVEs5NFpPLWhSZlZkaHlIZUtaMFl2YkNVbUs0SVVQakNQTUV0enQzZVJ0TFB5LUVqdE1F?oc=5",
-      "pub_date": 1764277665.0,
-      "article_url": "https://www.nytimes.com/2025/11/27/world/ai-valuations-markets-technology-hongkong-fire.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Circular AI Deals Fuel Bubble Debate | Bloomberg Tech: Asia 11/28/25",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDZxQzN4UmI5SWhDSE03V3VtZjBtcGgybnFiVHBvQm40aGdEak5NX01td2lnVHc0WDZlWVlQc1A2dFEtR1JBVUVUNEdSdTA0dFJENExla1k4RVZ5YWF0VHZFbkpvME54dGNHdVFSczJUM3BZTTdjY2FlRFAtXzJlNno4WTl5WTZEMDl3?oc=5",
-      "pub_date": 1764304320.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2025-11-28/bloomberg-tech-asia-11-28-25-video",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Watch Asia in the AI Money Machine",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZHlDYTBjWk1Yc0NIUUZoNnJSc2NJQ3R4bEZEbUo2YS1BanEwTDE2bDRqXzlCNDI0akhFWWVzRGNEQWJnTDJRNjlnOFdDZ3Z2d1NwbFVCSU1Gbm0yZHJXbERFZnlDRVpxV0NRYzVaLWdyVXBncVNDbVExR2hUcVFCdVozaw?oc=5",
-      "pub_date": 1764307020.0,
-      "article_url": "https://www.bloomberg.com/news/videos/2025-11-28/asia-in-the-ai-money-machine",
+      "headline": "Inside the Shapeshifting AI Trade That Has the Stock Market Heading Higher Again",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPcl9NSDJ1NzhETHBBNG5fQkRMTXdmc1ZITmZObE1jaWVoTXQwM1dLREhIZnZmMW1kYlM4WjlVaEoxaW1NZUh4bW45VkI1a2ZDX3RBenFUTEV2MEduU2dCUHZ2RnBVZjVLTWdkUUh5UWs3ZmkyekEwc0tBNDI0dGJLMTM4RmN0b3A5eWM1THdqZ25IOVJQNVRQZ25LNTdSS2ZmMS02NU9EZ3RpQnFJdjVKOXZmZDRLdVlqLURkRXJMVG1nTEZFNWVCSUxjQ2JWVG1PWmpHMWc3Qkh2SURYVFFJeGFQTEhZaDBxbVczTC1kcEVzYjVnTmJEc1lFUWgxTEtQWF9LS1Y3WDJnbGtOTnhVQkxXMm02a1Q3YzdxR1VOMUJ2QXpXdGUxaHptQWFSZzZWZE9jMDBITG1UXzNlTTFpcFQzaEc3Wmh5THRjeUxvSnA2MFFLVGpwdFNSUkMxa01fY2xDOHhocm9zMkpUeWNma2lmWHcyWjl2eGxZWDZnMExrODhfeDZjMk9wVzdGcklXVFZ4U3JzSWp5QQ?oc=5",
+      "pub_date": 1764309600.0,
+      "article_url": "https://www.barrons.com/articles/shapeshifting-ai-trade-stock-market-higher-again-08d123fa?gaa_at=eafs&gaa_n=AWEtsqdEhd745d2lAqujZ_87Kq__5SurWnUkQ3wzMVaiGekUkBkttmxcwMHs&gaa_ts=692949b4&gaa_sig=A3YsMRSaRhNFB0xaul2cPW0AP96Becu8FAN_-UvL2Fn28ZbJsaBMLtj6V8R87flirR8Lt6eelb34Ocd3FVyfvw%3D%3D",
       "image": null,
       "description": null
     },
@@ -75,6 +85,16 @@
       "description": null
     },
     {
+      "headline": "Opinion | A.I. Is Marketing Itself as the Anti-A.I.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjNOS0duOU5rVGhRVUxhUXNyTzdWQmQwUUF4VmpJNVVoaXluZTBzcUYzVFJCMU4ybVRjTXI3eWRkQ1FYbmllblhuNHpBTF8yZ2FTS0hzeE1fTHluSUpjb3VTeVJVU1hYUFVTTzhzNk8wc2h5UXpVREk3MUtQU1RpblNGQ2o?oc=5",
+      "pub_date": 1764151311.0,
+      "article_url": "https://www.nytimes.com/2025/11/26/opinion/ais-anti-ai-marketing-strategy.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "What bubble? The analysts and investors making the bull case for AI",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
@@ -83,28 +103,8 @@
       "article_url": "https://www.cnn.com/2025/11/27/tech/ai-bubble-analysts-bull-case",
       "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243507246.jpg?c=16x9&q=w_800,c_fill",
       "description": "Chipmaker Nvidia posted yet another blockbuster earnings report this month."
-    },
-    {
-      "headline": "MIT report: AI can already replace nearly 12% of the U.S. workforce",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUndPWDZoWmh5UHEyUHdoY0ZoekVFWHRmX3E5UThHZmxUU0JNTE5lb2FfdXdMU1pLNmJTS09STGFlU3UtUG1ZeU94eW1mVEJHR25pQ1l5UnkxNEd4V0wwNzJuQzI1czJwQ1RFWGF6UlBQVk1pTzdldGVhRlpwRXRNcHgtRDY4cTJJTVZ6a0U5UFVhRURzWGVDOFd1Zw?oc=5",
-      "pub_date": 1764241380.0,
-      "article_url": "https://fortune.com/2025/11/27/mit-report-ai-can-already-replace-nearly-12-of-the-us-workforce/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236544323.jpg?resize=1200,600",
-      "description": "The window to treat AI as a distant future issue is closing."
-    },
-    {
-      "headline": "MIT study finds AI can already replace 11.7% of U.S. workforce",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUVibzRUdk5hYUE4WVk0eThiRWt3S2MzVGRCc0lfWkRsMU85bTBsYWJxX3RlYVc5ekhqcGJobDYtbEpJSmpvTERJU3k5VzhJSExIS3dmZ0w4dWpiRlpjZzk1RFBYR3JnNUFXZHpvYjZHYVRYM3pTaHZoNDU4TlpDbWRCMTE1ZGNPSHB5Qzh1a3NRNWw5Qkg1SEZ3WjJ4dDVIcC1ZeWNEQXZza1nSAbABQVVfeXFMUENGUGUxOV9sUEdJSWpyN2JmNU9DWk8wZEY2cFJ0N2RuRmxGVVVEcy12VlNjNGRQb1Jqa3dGNFZobV9CNmtIRF9KcHBzeFk4S1JmYUI4dFB2RFJhN0pJc0hKT2UzckJQZFlJamhoZnloczJyTnp0RkVKNmdVTzBzenFLUGtmQ2YyRmFwUHF1OE8tZUFCQTB5aWdQeVVpVWE2SjB6Z3dDaml0clJ3Rk1KeDk?oc=5",
-      "pub_date": 1764169201.0,
-      "article_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108232119-1764112994142-gettyimages-2209860667-AFP_42FT68T.jpeg?v=1764166052&w=1920&h=1080",
-      "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T05:51:58.900865+00:00"
+  "fetched_at": "2025-11-28T06:50:52.855299+00:00"
 }

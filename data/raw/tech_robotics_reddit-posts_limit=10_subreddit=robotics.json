@@ -112,5 +112,5 @@
       "description": "Knucklebuster arm prototype test, its a test torso that i Will upgrade till It resembles v1. The arm has one nema 17 stepper motor in the upper arm and a nema 14 at the middle, maybe i'll use a Raspberry pi 5 with ai for controlling everything but, i'm open to suggestions!"
     }
   ],
-  "fetched_at": "2025-11-28T05:51:40.405694+00:00"
+  "fetched_at": "2025-11-28T06:50:30.005168+00:00"
 }

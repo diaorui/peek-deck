@@ -25,6 +25,16 @@
       "description": "The Trump family, with ample crypto ventures, has lost an estimated $1 billion from the monthlong cryptocurrency freefall."
     },
     {
+      "headline": "How Will Crypto Market React to Over $15B in Bitcoin, ETH, XRP Options Expiry?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45NkVKZ0MxSDVsakZvZ1Azb2hpN3RhUVFUV0Z2OVJQdmVINFJRS3V4SThFM2RSZHFKLXlyOG14MGN1cVc3N0lSZElnSjJZdWx5Q0N6OEFXWElmRVppTkFsNVpzSmlGWThxYlNwaFhuRmFkRWtzeGNxX3kzaTgtd1k?oc=5",
+      "pub_date": 1764308940.0,
+      "article_url": "https://finance.yahoo.com/news/crypto-market-react-over-15b-054959586.html",
+      "image": "https://media.zenfs.com/en/coingape_360/000e7130f896cd03980d255cfaeb69de",
+      "description": "Crypto market participants are bracing for the monthly options expiry after a recent rebound in Bitcoin, Ethereum and XRP. Traders anticipate massive volatility as the crypto market still remains under \u2018extreme fear\u2019 sentiment. BTC price rebounded by more than 10% in a week amid massive buy-the-dip sentiment and a seasonal boost between Thanksgiving and Christmas."
+    },
+    {
       "headline": "JPMorgan reveals new Bitcoin target amid market pullback",
       "source": "TheStreet",
       "source_url": "https://www.thestreet.com",
@@ -35,22 +45,12 @@
       "description": null
     },
     {
-      "headline": "Bitcoin price rises as Trump may pick new Fed chair before Christmas",
-      "source": "Yahoo Finance UK",
-      "source_url": "https://uk.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMmk5VmpLMV9GTW1YeVJqQm1wUUdGbHhEVlFNRTdjWVVzSERaNmZPeGRaWW42OWZuOTgyVlh6SmdCMDd3cnQyMGVCdENZcDJYc0xDR2pLX3Zaa3NraC1WZzR1dGN0SGx6MVF1NlRCNVJHbTdGejNReFZ0cHcxUHFMenJaRDMyWnNKZjU3ci05LTRGenp2TUVielp3bw?oc=5",
-      "pub_date": 1764238498.0,
-      "article_url": "https://uk.finance.yahoo.com/news/bitcoin-crypto-price-trump-fed-chair-christmas-101457440.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/4DyriZZuOcrJ9NbfYu3Knw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/79b2ba50-cb6f-11f0-8f4e-e0dfb1036553",
-      "description": "Bitcoin price climbed sharply on Tuesday as expectations grow that president Donald Trump could name a more dovish Fed chair before Christmas."
-    },
-    {
-      "headline": "Bitcoin Whales Return to Buying for the First Time Since August as Price Recovers Above $90K",
+      "headline": "Hash Ribbon Flashes Signal That Often Marks Cyclical Bottoms for Bitcoin Price",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVzlCMUVBQm1uMWdBd1Q0eDlLeUhxTnZzQmVxNGU3QWdaZENaMkhsMHozTlFvZHhvNC13ZTVoRUdWcHdFcmV3c1RjSVBUT0JzNG8xVzFjVHBZaERPR3V1SEJ2eHM4cl95cXhXS3lXNWczWEJpOUt4RTBORXdGaVdwYVdxSGhkaTREX3JCYjh0SzQyYkZKcGM1VDRYTGhCb2tYZHl2Y3ZDQzBHODJxUkRpOFZVWFlvVk02X3QxSUFYV18zMTR2QmJVTlVENU8xTVdqMVVMTQ?oc=5",
-      "pub_date": 1764256538.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/27/bitcoin-whales-return-to-buying-for-the-first-time-since-august-as-price-recovers-above-usd90k",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORlgwQjdwWU9PS01kaVc1N08tUWZ4Q2h3S2xzYjJqMEl1d2tjVjhWbi0zVVd5OWhqXzFmS2tRMzZWNlluXzV0aVpnWHMtdnBkckRncjVYR0tTcHQ4eDRIZ0QxQTl3U0ZGMmlfOXowRjE2Y2Y3eTZGQ3dYOU93QVVIN1NJR00tZXFvaS1QRnlLVjR5c0NXTEFGMDMtMkRHb2FVQ2QtVERDdlhaRklna3hRN3Z4WEk0dzZmOHFDbGtrTQ?oc=5",
+      "pub_date": 1764260028.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/27/hash-ribbon-flashes-signal-that-often-marks-cyclical-bottoms-for-bitcoin-price",
       "image": null,
       "description": null
     },
@@ -78,21 +78,11 @@
       "headline": "Bitcoin Surges Without Help From the U.S. Stock Market. Why That's a Good Sign for Cryptos.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNSGhmUDI3U28wdUtsWjUyRzhQTVc5ZlFGbUtGU2JGOEFJUmFYMU1LZFo0ZjhUYll5UUw3NlhFWjlqQ1hTeHptVHpTeDN3WmhWaE53aDYzOWZiT0VDRXFzdWc0S0lPTmpJVTZjWjZmbkRmTUp2YmlzdjZDSXc1MmNZdjJKSGUyNXp1OS1iQ2FBNzI4cVh6bmJzVERlV2lfQTMwZ1pvcTg1UTVBT09oZ2dRWnFXbnN3V2o1MERkRG0zcWg5WHlCeVllLTFxVHh5VHBOX3V0MXVQT3AtRGhGU04zZFV5Y0JKc2d3TU93Mlk0b0JVcXhzN2VTTlhyYmNVcGpLUUY2a1lMYXFrWko1SjlGTFNEUklIM0pZNGtQbVpqRlNqYWpxb1paRjV0Tjl1ZTZpWFd4Y3V6dmlELXc4Y2h2U3hsdi1BZHhKWDVSMzZMXy1uc3RJdndsVHZ2eWU5VlZJMHNuRlNrOUVaU2c5VG5ZNXZ6ckFjMHVJd2pmN2I5c3FFNDhxZW53QlZUeDAydw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNMHI2SUhjeHN1cDNpbWs4VHpLZHRkV3dxeDlIT0YxclBXZkdsSUNQWG80TWF6SEkwLTdrR08zbExwaGxFOHp4Y2dLYnQ3c0Z2T3FFblFLclJjSmFUdzFkbGpObXM0NmJyNWcySjAyb3VtVTA1UmpFQ0l6bGstXzBfUnZ0NDZTdmUtN1FqVGo2WUlHQ1cwVVEyZkhkNVZPanR6TVJoNUhDWTdsVEtTTHRSSTJCOXNsYWRxN09xZ3JsVlJqbTAzS3A5dTBFUWNKT2ZlVHJBcFlEeUJxNUFJN0RZOE5SaHAzMUIwTDRaUFFza1NTUUQ2R1hWWDl3bGJpcm9LRUJ5QzBxV0dER1hKbzFjbVQ5SGZmcFhHTnVaajFXWWpSeGFtVnFZdFNXSUoxa1FPT2dlUV9IYW9fNWdrNGdLMjl3eWljY25PbVFxMGpIT3RyOFFvbzBuTjdtMG1vcWZxQllMdmhFVXNSOXpNRUhOam16NUxMMUowalI3TEFzSXppUFJla0JTVjg1cmZGUQ?oc=5",
       "pub_date": 1764242580.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-thanksgiving-88abf9ff?gaa_at=eafs&gaa_n=AWEtsqcfi_kjs4O_ChenrvBlMSi1RlAhZ2zo0JNelJdWW2Z__oxixfvOWS2o&gaa_ts=69293bec&gaa_sig=RS1q98r9BvUhE6mLZ4VcnNmrI72G0sIv3gRNqHEy0ZNfxlFdVDL03jpg__S6sgf_7Ap5rwctrgGFKtxupO-gDg%3D%3D",
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-thanksgiving-88abf9ff?gaa_at=eafs&gaa_n=AWEtsqdso87eIkXZyyW-1oCytyezf2hMc3pGgcoiMD63kGYj0ewY4np4gTAX&gaa_ts=692949b6&gaa_sig=ZlU7RHZXaRdjLiGpIWnGoLkFA1dU4ZQCOvvi8M9lkNu945qfqaLkIAjiQ-VOh99EeB488VBUvlZGKPr2sESfJw%3D%3D",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Athena Bitcoin Launches Black Friday Promotion to Save 10% on Bitcoin Purchases This Holiday Season",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ2dnSDdaVms3M2FhaF9BWm5qSGEwZFg0Yk9uaVR6bkcyRHBrNHFmMVJzc05pMWNBQ2ZhQ01CbEpCX3NfSDU5NEpMWFZ5d2N4NlJ3RTl4MWJYUHlhX3FPbXh1TE9FcHVVLUxFTGlES3ZkUjAta0I1N3YyLWhPUkVLVG1FM3NpSVczOTJLcmo4aGdMd194WE1FdVE1dW9fbUJBM011TTN0UEEtc2tZNm11eHNGQ2VVaW9QYUFSZ1VYNmx6eWdqWFBGR1lfeDI3ejhGenB2UHVlSmk2Yl9LdFRNakhkMXY?oc=5",
-      "pub_date": 1764307497.0,
-      "article_url": "https://www.usatoday.com/press-release/story/19490/athena-bitcoin-launches-black-friday-promotion-to-save-10-on-bitcoin-purchases-this-holiday-season/",
-      "image": "https://usatoday.xpr-gannett.com/wp-content/uploads/sites/3/2025/05/image-14.webp",
-      "description": "One-day promotion encourages consumers to consider Bitcoin as a unique and forward-thinking gift through accessible and safe kiosks MIAMI, FL / ACCESS Newswire / November 26, 2025 / Athena Bitcoin Global (OTCID:ABIT) (\u201cAthena\u201d or the \u201cCompany\u201d), the third largest global operator of Bitcoin kiosks and digital asset fintech solutions, today announced a special Black Friday [\u2026]"
     },
     {
       "headline": "Michael Saylor\u2019s Strategy is now worth less than the Bitcoin it owns",
@@ -103,8 +93,18 @@
       "article_url": "https://www.dlnews.com/articles/markets/strategy-is-worth-less-than-the-btc-it-owns/",
       "image": "https://www.dlnews.com/resizer/v2/M3VN5SFCNZBB5FS7CYGIDD7J6I.jpg?smart=true&auth=f52b3d2f1525690010e394a28915c562df064068fbc6c3d6f6dddc5a78e4620a&width=1200&height=630",
       "description": "Strategy\u2019s mNAV fell to 0.87, meaning the company is worth less than the Bitcoin it owns.  Analysts say it reflects lower Bitcoin performance expectations, not structural problems. The extreme premiums DATs commanded over the summer were unsustainable."
+    },
+    {
+      "headline": "SpaceX transfers $105 million in bitcoin to unmarked wallets: Arkham",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oejJ0Y1Q3aUQxWWxVZG9FaVEwYVZwRkZqRVpWT1ktUmZ3R21hRVJ5UkxObzhQX2hPdGhJdmFydHVrUF9paUd2cXEtRGtRQ2lpamlJS3k3aVVhMGJ0SldmeDIxT25zby1ZV1NqVEhZRdIBdEFVX3lxTE42NGFrUFBLTEdGLXpPM3JPelhvUE5GSjZWRGxDNmdkVmdWekYtc0V2NXphSWJRNzVkY0xZSF82REZ5WWRwazhjaC0xSF9UOFMwWUt3bF9ibnBTQzNiaGxld3NoRzNtczZGMlJTdkFpWnhwVVVG?oc=5",
+      "pub_date": 1764210279.0,
+      "article_url": "https://www.theblock.co/post/380651/spacex-105-million-bitcoin",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T05:52:04.452888+00:00"
+  "fetched_at": "2025-11-28T06:50:57.002603+00:00"
 }
