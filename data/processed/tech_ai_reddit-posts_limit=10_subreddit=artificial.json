@@ -57,6 +57,17 @@
       "description": "Users are waking up to discover OpenAI leaked their data this morning via a faulty third-party plugin. Here's what you need to know."
     },
     {
+      "title": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
+      "author": "wiredmagazine",
+      "url": "https://www.reddit.com/r/artificial/comments/1p8rqiw/poems_can_trick_ai_into_helping_you_make_a/",
+      "published": 1764326221.0,
+      "thumbnail": "https://external-preview.redd.it/pCU_L14NP5B0d5_n_QHNSysSeBYi7z_wBdVM9dGTEIA.jpeg?width=640&crop=smart&auto=webp&s=8fdf0c8d299e3e3249decddd43e5b18bc6196eb0",
+      "external_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
+    },
+    {
       "title": "Allianz to cut up to 1,800 jobs due to AI advances, says source",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1p82a2n/allianz_to_cut_up_to_1800_jobs_due_to_ai_advances/",
@@ -99,18 +110,7 @@
       "site_name": "Ars Technica",
       "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
       "description": "OpenAI\u2019s response to teen suicide case is \u201cdisturbing,\u201d lawyer says."
-    },
-    {
-      "title": "Amazon Workers Issue Warning About Company\u2019s \u2018All-Costs-Justified\u2019 Approach to AI Development",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p82dsx/amazon_workers_issue_warning_about_companys/",
-      "published": 1764250594.0,
-      "thumbnail": "https://external-preview.redd.it/axxgvLBAktTpa_2X5uSfwwDgTHmcltaPgfzfmR2shu8.jpeg?width=640&crop=smart&auto=webp&s=04c5ae562c596f98bebd9552959b7bbc76e6f5ec",
-      "external_url": "https://www.wired.com/story/amazon-employees-open-letter-artificial-intelligence-layoffs/",
-      "site_name": "WIRED",
-      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
-      "description": "Amazon Employees for Climate Justice says that over 1,000 workers have signed a petition raising \u201cserious concerns\u201d about the company\u2019s \u201caggressive rollout\u201d of artificial intelligence tools."
     }
   ],
-  "fetched_at": "2025-11-28T09:50:24.388476+00:00"
+  "fetched_at": "2025-11-28T10:38:49.863374+00:00"
 }
