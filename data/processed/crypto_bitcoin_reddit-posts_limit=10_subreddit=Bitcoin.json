@@ -35,17 +35,6 @@
       "description": "It's clear we gonna be gobbling up some gains here. HODL and you'll see your accounts get some stuffing with gains."
     },
     {
-      "title": "me in 2007 instead of buying Bitcoin",
-      "author": "popyubuntu",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p816pi/me_in_2007_instead_of_buying_bitcoin/",
-      "published": 1764247068.0,
-      "thumbnail": "https://preview.redd.it/zd4ic6pbos3g1.jpeg?width=320&crop=smart&auto=webp&s=cd763cf7f4da137f570617638ff484ffaf43db9c",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "me in 2007 instead of buying Bitcoin"
-    },
-    {
       "title": "Happy Thanksgiving",
       "author": "yoobermcruber",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p86g82/happy_thanksgiving/",
@@ -55,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "me in 2007 instead of buying Bitcoin",
+      "author": "popyubuntu",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p816pi/me_in_2007_instead_of_buying_bitcoin/",
+      "published": 1764247068.0,
+      "thumbnail": "https://preview.redd.it/zd4ic6pbos3g1.jpeg?width=320&crop=smart&auto=webp&s=cd763cf7f4da137f570617638ff484ffaf43db9c",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "me in 2007 instead of buying Bitcoin"
     },
     {
       "title": "Daily Bitcoin meme until BTC is at $200,000 #153 THE LAST ONE",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-28T08:31:44.877096+00:00"
+  "fetched_at": "2025-11-28T09:20:20.340685+00:00"
 }

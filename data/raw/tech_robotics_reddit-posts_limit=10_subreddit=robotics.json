@@ -24,6 +24,17 @@
       "description": "Chinese students are out here creating machine-generated butterflies\u2026 Like\u2014this isn\u2019t nature anymore, it\u2019s engineering with \u2728vibes\u2728. I\u2019m officially impressed \ud83e\udd8b\ud83e\udd16"
     },
     {
+      "title": "Paper Science Robotics: Scientists in Korea have developed a rollable robotic structure that is flexible enough to collapse into a compact hub, but also stiff enough to bear heavy loads like 3D printers when extended",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1p8qdje/paper_science_robotics_scientists_in_korea_have/",
+      "published": 1764320917.0,
+      "thumbnail": "https://external-preview.redd.it/dnEwMzlvenJyeTNnMUEIKFVhDF_nw1oJUllM0yZt-Ec7J3VLtNEjTVjN7EAy.png?width=640&crop=smart&auto=webp&s=ba3e0b5d77721c42931d9ed88ecd17edda6e3378",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Science Robotics: https://www.science.org/doi/10.1126/scirobotics.adv4696"
+    },
+    {
       "title": "AgileX unveiled a robotic arm two days ago: NERO. 3KG payload + 7DOF arm at $2500 without hand",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1p7za49/agilex_unveiled_a_robotic_arm_two_days_ago_nero/",
@@ -44,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Career in Robotics / From software engineering to Robotics after 4 years",
+      "author": "StarThatScream",
+      "url": "https://www.reddit.com/r/robotics/comments/1p8pu9t/career_in_robotics_from_software_engineering_to/",
+      "published": 1764318829.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey, I love robotics hardware engineering, but I don't know calculus, mechanics, or physics yet. I'm also tired of writing computer programs, so I don't want to do the ML/AI/software side of robotics. Right now I'm zero in both hardware and software. Lol. I want to start with DIY projects and study some books on my own. To stay connected with the robotics industry, I'm spending more time in robotics subreddits and watch robotics content. So my question is: Is this a good plan to break into robotics hardware? What else should I be doing?"
     },
     {
       "title": "How to you guys sell robot parts usually?",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I saw an actuator at a kids museum that was used for playing percussive instruments which looks like a DC driven motor or actuator, with a circular shape, and near silent operation. Each has a simple two wore interface with a partial heat sink on the body. About 2\u201d in diameter and 3/4\u201d depth. Unfortunately didn\u2019t take a picture! Any thoughts on what this type of actuator might be and a manufacturer? TIA"
-    },
-    {
-      "title": "I'm building v1 from ultrakill!!!",
-      "author": "Own_Minimum8642",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7l8rt/im_building_v1_from_ultrakill/",
-      "published": 1764195362.0,
-      "thumbnail": "https://b.thumbs.redditmedia.com/qDjeHSb03qCwAwtLfV5xvZEiFsg6_HY2y_nTJP-T1WA.jpg",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Knucklebuster arm prototype test, its a test torso that i Will upgrade till It resembles v1. The arm has one nema 17 stepper motor in the upper arm and a nema 14 at the middle, maybe i'll use a Raspberry pi 5 with ai for controlling everything but, i'm open to suggestions!"
-    },
-    {
-      "title": "Which robotics jobs to look out for and how to prepare for it?",
-      "author": "itzok27",
-      "url": "https://www.reddit.com/r/robotics/comments/1p87zbx/which_robotics_jobs_to_look_out_for_and_how_to/",
-      "published": 1764264572.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-11-28T08:31:47.605789+00:00"
+  "fetched_at": "2025-11-28T09:20:24.762363+00:00"
 }
