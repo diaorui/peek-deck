@@ -23,7 +23,7 @@
       "url": "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html",
       "hn_url": "https://news.ycombinator.com/item?id=46055944",
       "author": "todsacerdoti",
-      "points": 478,
+      "points": 479,
       "num_comments": 756,
       "created_at": "2025-11-26T10:08:20Z",
       "object_id": "46055944",
@@ -37,8 +37,8 @@
       "url": "https://replaceyourboss.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=46072002",
       "author": "_tk_",
-      "points": 386,
-      "num_comments": 162,
+      "points": 388,
+      "num_comments": 163,
       "created_at": "2025-11-27T18:37:41Z",
       "object_id": "46072002",
       "image": "https://replaceyourboss.ai/OGImage.jpg",
@@ -51,8 +51,8 @@
       "url": "https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference",
       "hn_url": "https://news.ycombinator.com/item?id=46069048",
       "author": "vegasbrianc",
-      "points": 302,
-      "num_comments": 232,
+      "points": 310,
+      "num_comments": 235,
       "created_at": "2025-11-27T13:28:34Z",
       "object_id": "46069048",
       "image": "https://substackcdn.com/image/fetch/$s_!H_F9!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff173524-b98d-4a2b-9f77-7a130ad395a7_1024x1024.png",
@@ -65,8 +65,8 @@
       "url": "https://shujisado.org/2025/11/27/gpl-propagates-to-ai-models-trained-on-gpl-code/",
       "hn_url": "https://news.ycombinator.com/item?id=46068777",
       "author": "jonymo",
-      "points": 193,
-      "num_comments": 257,
+      "points": 196,
+      "num_comments": 261,
       "created_at": "2025-11-27T12:48:12Z",
       "object_id": "46068777",
       "image": "https://shujisado.org/wp-content/uploads/2025/11/chatgpt-image-2025e5b9b411e69c8827e697a5-21_13_41.png",
@@ -145,7 +145,7 @@
       "site_name": "economist.com"
     }
   ],
-  "total_hits": 450,
+  "total_hits": 449,
   "has_metadata": true,
-  "fetched_at": "2025-11-28T04:40:56.127648+00:00"
+  "fetched_at": "2025-11-28T05:19:15.301083+00:00"
 }

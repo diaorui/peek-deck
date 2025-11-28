@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "MIT report: AI can already replace nearly 12% of the U.S. workforce",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUndPWDZoWmh5UHEyUHdoY0ZoekVFWHRmX3E5UThHZmxUU0JNTE5lb2FfdXdMU1pLNmJTS09STGFlU3UtUG1ZeU94eW1mVEJHR25pQ1l5UnkxNEd4V0wwNzJuQzI1czJwQ1RFWGF6UlBQVk1pTzdldGVhRlpwRXRNcHgtRDY4cTJJTVZ6a0U5UFVhRURzWGVDOFd1Zw?oc=5",
+      "pub_date": 1764241380.0,
+      "article_url": "https://fortune.com/2025/11/27/mit-report-ai-can-already-replace-nearly-12-of-the-us-workforce/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236544323.jpg?resize=1200,600",
+      "description": "The window to treat AI as a distant future issue is closing."
+    },
+    {
       "headline": "MIT study finds AI can already replace 11.7% of U.S. workforce",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -25,16 +35,6 @@
       "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
     },
     {
-      "headline": "MIT report: AI can already replace nearly 12% of the U.S. workforce",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUndPWDZoWmh5UHEyUHdoY0ZoekVFWHRmX3E5UThHZmxUU0JNTE5lb2FfdXdMU1pLNmJTS09STGFlU3UtUG1ZeU94eW1mVEJHR25pQ1l5UnkxNEd4V0wwNzJuQzI1czJwQ1RFWGF6UlBQVk1pTzdldGVhRlpwRXRNcHgtRDY4cTJJTVZ6a0U5UFVhRURzWGVDOFd1Zw?oc=5",
-      "pub_date": 1764241380.0,
-      "article_url": "https://fortune.com/2025/11/27/mit-report-ai-can-already-replace-nearly-12-of-the-us-workforce/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236544323.jpg?resize=1200,600",
-      "description": "The window to treat AI as a distant future issue is closing."
-    },
-    {
       "headline": "How Google put together the pieces for its AI comeback",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -43,6 +43,26 @@
       "article_url": "https://www.cnbc.com/2025/11/27/how-google-put-together-the-pieces-for-its-ai-comeback.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108228511-1763577992035-gettyimages-2247381802-vcg111604745843.jpeg?v=1764184784&w=1920&h=1080",
       "description": "The company's Gemini 3 and Ironwood AI chip are driving Wall Street's excitement behind Alphabet's AI comeback, but challenges remain."
+    },
+    {
+      "headline": "Nvidia's Latest Beat Proves AI Isn't Cooling Off Yet, but Is the Chipmaker Still the Best AI Play?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVBOdnpKeXZTMjhJUTVyQy1TSzdYcHZsdEtVX2NaSHJ0VUlTTkdXeG8wMmpWY0NUdlA0U1JhNF9nVFhORFpOVjZGRXhOcVhOaS05SEo2X09kb2lrWWJaOTBWRTdWUUlXUTVlZVk3dWR1R1N4c04zX1ZjTUctczNCQ2VzcGcwNlNqamJ2TTVEN19KZ25QVWl5TA?oc=5",
+      "pub_date": 1764252000.0,
+      "article_url": "https://www.fool.com/investing/2025/11/27/nvidias-latest-beat-proves-ai-isnt-cooling-off-yet/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843686%2Fnvidia-headquarters-outside-with-black-nvidia-sign-with-nvidia-logo.jpg&w=1200&op=resize",
+      "description": "The GPU leader delivered better-than-expected results, and its guidance suggests that its impressive growth is not over."
+    },
+    {
+      "headline": "Google\u2019s Gemini Upends AI Market; Nvidia, OpenAI, Musk Caught In The Shockwave",
+      "source": "livemint.com",
+      "source_url": "https://www.livemint.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWWl2X3JxNnpoV3lFR0EyWkpTYnVRUUNaVmNJZzJIeUZ2d1NsSHl6bFIwQ0xFUUF1bGpFeGxmTEVkNWNocVRzNUYtd2p4WkdNd1loVnhVV0k5M1lLVTVyZGRVN0NrejNyREp2d1RwWGNTV0pGVkZTS1dJNGlBNll3QkVEZzlxU1pibHdyM3lfeEI5R19rbGFIbGpnMXlSeHVCTFNtakJEcWFnMk5YaGdPZWE5eVlLd0NCYTZEakM3cV9UdGtONjZSYXVjeGNaUEhONkY1N1ZGZjBublMzRktWVE1n?oc=5",
+      "pub_date": 1764305798.0,
+      "article_url": "https://www.livemint.com/videos/companies/googles-gemini-upends-ai-market-nvidia-openai-musk-and-benioff-caught-in-the-shockwave-11764305718632.html",
+      "image": "https://www.livemint.com/lm-img/img/2025/11/28/600x338/hqdefault_1764305716766_1764305755357.jpg",
+      "description": "Google has officially flipped the AI game. With the launch of Gemini 3, Google has gone from underdog to industry dominator \u2014 shaking up the AI world and forcing rivals like Nvidia, OpenAI, Elon Musk\u2019s xAI, and even Salesforce CEO Marc Benioff to respond. This video breaks down how Google\u2019s all-out AI push is reshaping Big Tech: \u2022 How Gemini 3 challenges Nvidia\u2019s GPU dominance \u2022 What it means for OpenAI\u2019s ChatGPT ecosystem \u2022 Elon Musk\u2019s reaction and the \u201cGrok 4.20\u201d tease \u2022 Marc Benioff\u2019s viral \u201cHoly sh**\u201d moment \u2022 Why analysts say \u201cthe AI trade is splintering\u201d \u2022 Whether Google just triggered a full-scale AI arms race If Google continues at this pace, the entire AI landscape \u2014 from chips to cloud to consumer apps \u2014 is about to be rewritten. Buckle up."
     },
     {
       "headline": "A.I. and the Trillion-Dollar Question",
@@ -55,56 +75,36 @@
       "description": null
     },
     {
-      "headline": "MediaTek Shares Eye Best Week in 23 Years on Google AI Progress",
+      "headline": "Circular AI Deals Fuel Bubble Debate | Bloomberg Tech: Asia 11/28/25",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkVxOHhNYmoxbFhJaVRjZkZ3bjFCQlh6SkFyTHBlUXZmR2dtWHFCRDRjOXZLUUFFQnl6aXpsVmxvZll1VXRQTFl4RTdfU1RLQlFVaGtmTmVVaWs3WmswRGxnTFV1Y2tRazRLZG4td3VYX3djZ19PX09pVDQzVjR1c1ZPU1AtU3I5cmJSNUpUMlV1Mzd2QjE3RFB5cFpIUUdBZ292SVJvREZzdWNrTjhRZGtQMnQ?oc=5",
-      "pub_date": 1764300840.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-28/mediatek-shares-eye-best-week-in-23-years-on-google-ai-progress",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDZxQzN4UmI5SWhDSE03V3VtZjBtcGgybnFiVHBvQm40aGdEak5NX01td2lnVHc0WDZlWVlQc1A2dFEtR1JBVUVUNEdSdTA0dFJENExla1k4RVZ5YWF0VHZFbkpvME54dGNHdVFSczJUM3BZTTdjY2FlRFAtXzJlNno4WTl5WTZEMDl3?oc=5",
+      "pub_date": 1764304320.0,
+      "article_url": "https://www.bloomberg.com/news/videos/2025-11-28/bloomberg-tech-asia-11-28-25-video",
       "image": null,
       "description": null
     },
     {
-      "headline": "Investors expect AI use to soar. That\u2019s not happening",
+      "headline": "Overheard in the Media Agency Report: How Assembly, IPG, Horizon and others use AI and will spend on ads in 2026",
+      "source": "Digiday",
+      "source_url": "https://digiday.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdWduQnRKVjFBLVViSDVhSmE2UkRhajFTN0RuWE1VRV9qRVhOQU1NdnNzU2tyTnRrTWVlSnZXaE95WEhVSkN3RVpkeDdNRTZ5Z0xzRlNYaVRkY0M1UURJOUdrWmU4MXZjSVM5a3RuR20wWWNNc3pwb0gwV3owX0RpSjlsdFI2VnprV0trRlhqTE9fUXAxaF9ENmJ1RHFDQ09WcER4bmJSZmdHQ1VVOHZIY0p6akxhcUdNMDV2T2MtXy12bkszOXplSng5Nmg2eHAyWFV0UnBLaXNzY0k?oc=5",
+      "pub_date": 1764306227.0,
+      "article_url": "https://digiday.com/media-buying/overheard-in-the-media-agency-report-how-assembly-ipg-horizon-and-others-use-ai-and-will-spend-on-ads-in-2026/",
+      "image": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-marketer-digiday-1.jpg",
+      "description": "Assembly, IPG and Horizon execs discuss how the GDP and international sports could impact 2026 spend and how agencies and their clients are actually applying AI tools."
+    },
+    {
+      "headline": "MAGA is divided over the promise and perils of AI",
       "source": "The Economist",
       "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkpHa2tpX01zLXh5eXdTS2NWUi1ra04xeHlpSHhXbkZWUHdLdUxib1c5T21UTlIwd3JBRS1mUGdUcnVvbmduV1h0UlZaOEJObDI5Q1hneEJVTTlfN2s1NmlMbjJmMkNoZ21XdUlySG9zc3lUYk9IcG11YTNjZGdSX3hMVDhaMGxVT0RlRmlrQUlQeS14LUFjLW9HSkU1Wkpwc3g1VXMyMno5SDhiX2cw?oc=5",
-      "pub_date": 1764174642.0,
-      "article_url": "https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWFpxczY5WlJsbl9XeVZrQzBzWjhwOVNhN25sRWZMTGQyc2pnRVktdU5KMExWamhnUk14SWdPQ0hrdFY2NlA0bXI3OVVpcjFTT084b3RWZjZPcWJwUWY0ZVFYU1RTRkxPWmYxNWdVVF93ZzZhZlpOSEtXY0VwT1VETzV6VnRTNUJ0Zl9TdXZGTmdqY2h5Q05rMGNaTEJXN1d3cGc?oc=5",
+      "pub_date": 1764252394.0,
+      "article_url": "https://www.economist.com/united-states/2025/11/27/maga-is-divided-over-the-promise-and-perils-of-ai",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Alibaba starts selling Quark AI glasses in China, enters global wearables race",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0xjVjFWTi1UcFR0TW1WSmZQN3J3TTFzdEltNkFBYU8xUS1wc3JaRE1JbzlWS3lmUXFMUGlKNm92OTNGNk1YZmQ5WHVpNjBfaGJ5SlR5REYtWXVtMFI0UjZyR0VOUGxUN1JGNWpPSWR0ek5rZV9KLWhIaDVGVHBiR01PRGxJZXJSRDdURXNjZkwtQlZPQk5WSHgzRmZzOTZYSjl3WE1QRFZIRjAwMzBIcXZqdjhCcDJabTNOZ0c1NA?oc=5",
-      "pub_date": 1764239192.0,
-      "article_url": "https://www.reuters.com/world/china/alibaba-starts-selling-quark-ai-glasses-china-enters-global-wearables-race-2025-11-27/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Tech giants bet consumers are finally ready to strap on smart glasses",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qb3FXczhlcVJLNzd5S1gyUHRra05WN2lzcnJhWThnQW93TENJUVlxaURZOGZib3VLeGJhT3VHajRqV0U1WDduNDAwRDQxMk5XUVdDSTNIUnkzeWFDeHFXZWVUYjJ6Z3JVNFJ5QWVnaUdaRElDU09uSzVSZ3rSAYIBQVVfeXFMTUlHMTNiRUNoN0RITkxCM0dja1c0LTBVczVyZ3Njek1lV3p0Z0dYd3VlUC1kbWFLU25MNzFKNmhmTDV4eFFIXzRURVd5Wll0V2RmNHRyenZMRGxXcEFwOFNsbkp3UnBqNUxlTVVIaWVuVlNrOTFuOXdKellGQjlRVEZ6QQ?oc=5",
-      "pub_date": 1764257880.0,
-      "article_url": "https://www.cbsnews.com/news/ai-glasses-alibaba-quark-qwen-meta-ray-ban/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/27/5340ac11-a3c0-49f5-9106-aaea81edc8f9/thumbnail/1200x630/e32275bce75988df4882b3aef4210326/gettyimages-2235445157.jpg",
-      "description": "Tech giants including Alibaba, Amazon and Meta are counting on AI as the \"killer app\" that convinces consumers to try smart glasses."
-    },
-    {
-      "headline": "Alibaba's AI glasses to rival Meta go on sale for $500",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUU8tS2xyM3VlM2NTcEJqOVJ0VGxtUzlhbnlUeklsSTRXUVRwN0x2LTU5QTBOUmNCZnVTVnd5MjBSU1ZPN1pYVzFaSDF3WmpGWnFSWUktd0gtT2o0dmFOWjhBSmZCckdwRDlfM1BLTVZMc2daLWZoVzVBb0dacnhnMDZxc0dkdU5jOGdiWNIBkgFBVV95cUxQNlBhUXk5OXBsU1JWeGdYcGxPbHhWR1pYdE9pZTVCaVAyVlBsRGVOVGY4aEcwcmNPaDVvLWRYaGxUMzAtWlh2TGdQMU1JNTZpOU1QRkIzamN5YzNHNERmMnFSeU1qalF6WWtlbVRaRDhUX1NJRlVNc19oQzFJNlpkTzJORTdtRTZZTWc0S3NKQ0lVUQ?oc=5",
-      "pub_date": 1764234427.0,
-      "article_url": "https://www.cnbc.com/2025/11/27/alibaba-quark-ai-glasses-go-on-sale-price-specs.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108177567-1753687050071-Alibaba_AI_glasses.jpg?v=1753690514&w=1920&h=1080",
-      "description": "Alibaba, like other tech giants such as Meta, are betting that smart glasses could be the next big consumer device after the smartphone."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T04:41:09.385389+00:00"
+  "fetched_at": "2025-11-28T05:19:41.241287+00:00"
 }

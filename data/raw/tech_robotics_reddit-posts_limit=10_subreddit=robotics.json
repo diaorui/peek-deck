@@ -2,17 +2,6 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "butterfly robot!",
-      "author": "whatever_0709",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7u6wz/butterfly_robot/",
-      "published": 1764221817.0,
-      "thumbnail": "https://external-preview.redd.it/aXgxaXVwNzhscTNnMaWuVypsQZw8tQxTCTqrmEh27-F0ZqPtbYPuy9PrZqKq.png?width=640&crop=smart&auto=webp&s=f07f91e3da40f40d305f3317a8f3ccc81f8977ba",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Chinese students are out here creating machine-generated butterflies\u2026 Like\u2014this isn\u2019t nature anymore, it\u2019s engineering with \u2728vibes\u2728. I\u2019m officially impressed \ud83e\udd8b\ud83e\udd16"
-    },
-    {
       "title": "Robot Dog Board Recommendation",
       "author": "p0tato___",
       "url": "https://www.reddit.com/r/robotics/comments/1p8im3x/robot_dog_board_recommendation/",
@@ -22,6 +11,17 @@
       "site_name": null,
       "favicon": null,
       "description": "What board should I install on this robot dog I created, and what direction should I take in its development? Please leave a comment.\ud83d\ude3c\ud83d\udc4d"
+    },
+    {
+      "title": "butterfly robot!",
+      "author": "whatever_0709",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7u6wz/butterfly_robot/",
+      "published": 1764221817.0,
+      "thumbnail": "https://external-preview.redd.it/aXgxaXVwNzhscTNnMaWuVypsQZw8tQxTCTqrmEh27-F0ZqPtbYPuy9PrZqKq.png?width=640&crop=smart&auto=webp&s=f07f91e3da40f40d305f3317a8f3ccc81f8977ba",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Chinese students are out here creating machine-generated butterflies\u2026 Like\u2014this isn\u2019t nature anymore, it\u2019s engineering with \u2728vibes\u2728. I\u2019m officially impressed \ud83e\udd8b\ud83e\udd16"
     },
     {
       "title": "AgileX unveiled a robotic arm two days ago: NERO. 3KG payload + 7DOF arm at $2500 without hand",
@@ -112,5 +112,5 @@
       "description": "It\u2019s fairly straightforward to label training data when everything happens in a clean, controlled environment. But once you step into real-world robotics, the situation becomes messy fast. There are weird edge cases, rare events, unexpected collisions, unpredictable human interactions, drifting sensors, and all kinds of unknowns that don\u2019t show up in simulation. Manually reviewing and labeling every single one of these anomalies is incredibly slow and resource-intensive. For those working with embodied AI, manipulation, locomotion, or autonomous navigation, how do you realistically keep up with labeling this chaotic real-world data? Are you using automated labeling tools, anomaly detectors, heuristics, synthetic augmentation, active learning, or just grinding through manual review? Curious to hear how other teams are approaching this."
     }
   ],
-  "fetched_at": "2025-11-28T04:41:00.394861+00:00"
+  "fetched_at": "2025-11-28T05:19:19.471349+00:00"
 }
