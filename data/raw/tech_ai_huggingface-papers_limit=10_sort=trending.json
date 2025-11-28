@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16719",
       "arxiv_url": "https://arxiv.org/abs/2511.16719",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16719.png",
-      "upvotes": 87,
+      "upvotes": 86,
       "num_comments": 4,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 96,
+      "upvotes": 95,
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
@@ -70,7 +70,7 @@
       "arxiv_url": "https://arxiv.org/abs/2511.19575",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.19575.png",
       "upvotes": 15,
-      "num_comments": 2,
+      "num_comments": 3,
       "published_at": "2025-11-24T12:59:59.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/HunyuanOCR",
       "github_stars": 720,
@@ -92,7 +92,7 @@
       "num_comments": 2,
       "published_at": "2025-11-24T23:15:14.000Z",
       "github_repo": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL",
-      "github_stars": 581,
+      "github_stars": 596,
       "project_page": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-28T15:58:28.480420+00:00"
+  "fetched_at": "2025-11-28T17:10:19.836228+00:00"
 }
