@@ -46,17 +46,6 @@
       "description": "I want to make a huamnoid robot using otto diy 3d models, but i found it its really small. So i want to scale it up, what implicaitons i could have? I cant just scale it's size up and everything will work, right?"
     },
     {
-      "title": "AgileX unveiled a robotic arm two days ago: NERO. 3KG payload + 7DOF arm at $2500 without hand",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7za49/agilex_unveiled_a_robotic_arm_two_days_ago_nero/",
-      "published": 1764240494.0,
-      "thumbnail": "https://external-preview.redd.it/b3lubTJ5YmM0czNnMfAbFN_26xAZ4PVGHITEzyJsbPuxAbz-n0ZhkXdGKWOP.png?width=640&crop=smart&auto=webp&s=3e7955140ce6a81a9ce73afcf5bb32dd1e75e0e0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "AgileX Robotics on \ud835\udd4f: https://x.com/AgilexRobotics/status/1993218134246076721 Website: https://global.agilex.ai/"
-    },
-    {
       "title": "How to use Pepper?",
       "author": "K1moon",
       "url": "https://www.reddit.com/r/robotics/comments/1p8r0bi/how_to_use_pepper/",
@@ -66,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I'm a university student, and I have to write a program for pepper, I'm following the guide contained in the softbanks robotics documentation, but all the links to download the python SDK are not working, can someone direct me?"
+    },
+    {
+      "title": "AgileX unveiled a robotic arm two days ago: NERO. 3KG payload + 7DOF arm at $2500 without hand",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7za49/agilex_unveiled_a_robotic_arm_two_days_ago_nero/",
+      "published": 1764240494.0,
+      "thumbnail": "https://external-preview.redd.it/b3lubTJ5YmM0czNnMfAbFN_26xAZ4PVGHITEzyJsbPuxAbz-n0ZhkXdGKWOP.png?width=640&crop=smart&auto=webp&s=3e7955140ce6a81a9ce73afcf5bb32dd1e75e0e0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "AgileX Robotics on \ud835\udd4f: https://x.com/AgilexRobotics/status/1993218134246076721 Website: https://global.agilex.ai/"
     },
     {
       "title": "Made a package for 3D navigation (path planning + control) in ROS2.",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-28T13:18:44.752985+00:00"
+  "fetched_at": "2025-11-28T13:55:32.853276+00:00"
 }
