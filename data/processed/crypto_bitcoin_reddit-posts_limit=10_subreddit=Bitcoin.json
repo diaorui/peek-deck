@@ -90,17 +90,6 @@
       "description": "Wallet has around 1.1m bitcoin, no?"
     },
     {
-      "title": "Every Damn Time",
-      "author": "unthocks",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p8hv4p/every_damn_time/",
-      "published": 1764291782.0,
-      "thumbnail": "https://preview.redd.it/9fvkimx8dw3g1.jpeg?width=640&crop=smart&auto=webp&s=a3b019883382156ec0736121ea00a2786c088fcf",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Not much but now sitting at .01 bitcoin",
       "author": "SamFisherXboxOG",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p92ve2/not_much_but_now_sitting_at_01_bitcoin/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "I bought during when bitcoin was losing value at an alarming rate the past month and a half. I\u2019ll continue to buy. Not going crazy with trying to accumulate the currency just want to have some. Did anyone else buy the dip or continue buying as it dipped?"
+    },
+    {
+      "title": "Every Damn Time",
+      "author": "unthocks",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p8hv4p/every_damn_time/",
+      "published": 1764291782.0,
+      "thumbnail": "https://preview.redd.it/9fvkimx8dw3g1.jpeg?width=640&crop=smart&auto=webp&s=a3b019883382156ec0736121ea00a2786c088fcf",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     }
   ],
-  "fetched_at": "2025-11-28T20:30:54.152403+00:00"
+  "fetched_at": "2025-11-28T21:19:03.949781+00:00"
 }
