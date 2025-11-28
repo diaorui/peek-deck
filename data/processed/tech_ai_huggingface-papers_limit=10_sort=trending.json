@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2511.19900",
       "arxiv_url": "https://arxiv.org/abs/2511.19900",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.19900.png",
-      "upvotes": 43,
+      "upvotes": 44,
       "num_comments": 2,
       "published_at": "2025-11-24T23:15:14.000Z",
       "github_repo": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL",
@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16043",
       "arxiv_url": "https://arxiv.org/abs/2511.16043",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16043.png",
-      "upvotes": 95,
+      "upvotes": 96,
       "num_comments": 4,
       "published_at": "2025-11-20T00:01:57.000Z",
       "github_repo": "https://github.com/aiming-lab/Agent0",
@@ -187,11 +187,11 @@
       "num_comments": 1,
       "published_at": "2025-10-26T01:49:38.000Z",
       "github_repo": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
-      "github_stars": 16803,
+      "github_stars": 16819,
       "project_page": "https://fapo-rl.github.io/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-28T19:38:07.202887+00:00"
+  "fetched_at": "2025-11-28T20:44:56.683884+00:00"
 }
