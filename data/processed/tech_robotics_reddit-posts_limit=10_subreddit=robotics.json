@@ -35,6 +35,17 @@
       "description": "Chinese students are out here creating machine-generated butterflies\u2026 Like\u2014this isn\u2019t nature anymore, it\u2019s engineering with \u2728vibes\u2728. I\u2019m officially impressed \ud83e\udd8b\ud83e\udd16"
     },
     {
+      "title": "I want to size scale up Otto diy 3d models.",
+      "author": "Affectionate-Army458",
+      "url": "https://www.reddit.com/r/robotics/comments/1p8u24f/i_want_to_size_scale_up_otto_diy_3d_models/",
+      "published": 1764334221.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I want to make a huamnoid robot using otto diy 3d models, but i found it its really small. So i want to scale it up, what implicaitons i could have? I cant just scale it's size up and everything will work, right?"
+    },
+    {
       "title": "AgileX unveiled a robotic arm two days ago: NERO. 3KG payload + 7DOF arm at $2500 without hand",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1p7za49/agilex_unveiled_a_robotic_arm_two_days_ago_nero/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Slambot - My custom built 'diff-drive' ROS2 powered robot which does SLAM mapping and autonomous navigation.",
-      "author": "BenM100",
-      "url": "https://www.reddit.com/r/robotics/comments/1p802s8/slambot_my_custom_built_diffdrive_ros2_powered/",
-      "published": 1764243358.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-11-28T12:36:46.838034+00:00"
+  "fetched_at": "2025-11-28T13:18:44.752985+00:00"
 }

@@ -9,70 +9,50 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNVdGWUxSRko5TUpCeFRFcVhGcEVVYl9jVGlSaWJ4R0lyWENPMWQ1eFhHNkVwR2lRY0lvd3dGYlNDZ01FN0pDQU5QYWpjUmdvb2JUcm5YZE5XNjZXcE5NSVFsaXhNMkp5ejR4MDVCUGUtUFRxck5ldTE2Q0VJVURPS1A4TFBfSm12VllZeDQzNnJ0cXdrUzZV?oc=5",
-      "pub_date": 1764307575.0,
+      "pub_date": 1764307800.0,
       "article_url": "https://www.nytimes.com/2025/11/28/world/ai-valuations-markets-technology-hongkong-fire.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "How Google put together the pieces for its AI comeback",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0JLdVFlVTcyOHViMGdtWU5LcFZlNmJGbWl1SHZYTjNEd29fTDc0bFZ4Wk5FTWRVOEpqVXJHUG10Mi1PcEN0YnRrWkJhdURqTmJCRWRYOUREOGRhNktXVkZqQjNjdVhqa0w3M3ZzRldVUnJ3QkRQUzlxVEVfQWpvRU5PMUc5VW5pN2p6WGEzT0ZRSE1CUVHSAZsBQVVfeXFMTjBUa0dLUzZ6bEI2SWN4UThGWVVWcTUtX0ZKMEpTbl9mVktYbUxKeDVFWDk4M01kUGU0U0paZ28tRzczUmtnM0JVTGxVWW0yS1JqODh2TzZKT3M0ZTVoRG54QjlSMU1EU3UxeHJISkM1OEM3aDJPZUFlcVg1MDhOSGNsSUVHLVY3MFl5RmhUd1VnQnhoajRhTjFscVk?oc=5",
-      "pub_date": 1764244801.0,
-      "article_url": "https://www.cnbc.com/2025/11/27/how-google-put-together-the-pieces-for-its-ai-comeback.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108228511-1763577992035-gettyimages-2247381802-vcg111604745843.jpeg?v=1764184784&w=1920&h=1080",
-      "description": "The company's Gemini 3 and Ironwood AI chip are driving Wall Street's excitement behind Alphabet's AI comeback, but challenges remain."
+      "headline": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONlJpRmNBbjVJRDZnM3R6bXVuc0hoMkt2ZXIyTVpHVVB0X1NscjF1cWFtSktEeWpyRVJoRmV5N3pKYW53TmlWWVlSQ3l0aVVJMERQQmFTN2RTbDI1TW1MS2RsOEtJUklVamxYV2NFQlFsZ3hxck9fVzI4T0pHSWxDVkZkamhqTnhvRE10VWxxMA?oc=5",
+      "pub_date": 1764324000.0,
+      "article_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
+      "image": "https://media.wired.com/photos/6925f9abe38648aa0f225be3/191:100/w_1280,c_limit/sec-poetry-ai-nukes-517442570-522586638.jpg",
+      "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
     },
     {
-      "headline": "Baidu is emerging as a major AI chip player in China to fill the Nvidia gap",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0loaG9seUp3cW82YXQyM2xWUDFXTGZ2QXR4MXVUMVVPN1d5VzA5UktYYmtNLU1BaHFvcFM0Y0lSbmN2eEtjX0pjQ3JBeUJObXNFT1FzUHdYWGNDekYyVFRwR2xGYzdXekFOUTBXV3h4REQ5LTBabW56VHp5dnFZcnNzWXZtVzh1UEJHUjdCUUxZcFpvWVVmbk930gGfAUFVX3lxTE5mQ0N0ZW1SdnM1TWsyYzFXN1FvNHNKR1FqWEh1VGhya2NxQ1N0UXIwWXhBb2NjMWhsTlhRMWxsQm1JY0dVU296dHhqX1lLQm9YbXdQTGFtem5jaVJvY3hRRzZyOWxJellRRVZ3SDZZeHNBYXRsZWlJVGh0ZndHbnc5YnBQSEF1MkNqM2JLajh1MGlndzY5VUJrZkw1eU9ETQ?oc=5",
-      "pub_date": 1764310853.0,
-      "article_url": "https://www.cnbc.com/2025/11/28/baidu-is-major-ai-chip-player-in-china-to-fill-nvidia-gap.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108233025-1764244459954-gettyimages-2226761556-tang-notitle250728_npWbw.jpeg?v=1764244509&w=1920&h=1080",
-      "description": "China's focus on pushing domestic chips could make Baidu's chip unit, Kunlunxin, a fast-growing business for the company."
-    },
-    {
-      "headline": "Google Expands TPU Strategy With Nvidia-Style Financing to Secure AI Infrastructure",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3hpZFRxdExyRVdGMmdabnB2ZjVhVXBZeGVINGowNkdnUnlJWGpzV0lNdjE5OTdkYXFLZlhmNGNLX28xa0FuYV93MENIMHFDY295a2haSldFdWZmSWZvVF9JdVFQcmM5UUlmRDJTdU9qVWs4SXJkaFBaRFZxRVFXQW1oei1ETXc?oc=5",
-      "pub_date": 1764330064.0,
-      "article_url": "https://finance.yahoo.com/news/google-expands-tpu-strategy-nvidia-114104907.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/i8Ojxn8Wp_tplK8UxQVldQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/us.finance.gurufocus/abf59113b8e63072e6b39243cf53e632",
-      "description": "Tech giant deepens use of balance-sheet leverage to drive adoption of its AI chips."
-    },
-    {
-      "headline": "Why US Utility Stocks Are Falling After the AI Power Surge",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWFreWtreENWeHZMcktLX3ZFSVl6NVIxVDB4Vkl2NllmSjhRcGtqZmszVFlJdE05dFVWUUluQmxlOWFJS0lTdnozS1Bfc0JFX1U4bFB2NGR1ZVlKLTFPSEFqV2JOM3VZaldXUkxHVmxlanB3U0xpWXFwTmdsQjZKRlJqckNuOXV0RkdKeWEySlBTRF8xeDhNOGVnVGZEcEpjVkNTNDFERkdrWkE1TmJhbTBFTEZ5UDN2cDg5aDRObFo4MEVhdHNz?oc=5",
-      "pub_date": 1764329400.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-28/ai-boom-sends-utility-stocks-soaring-then-crashing-as-data-center-deals-stall",
+      "headline": "These stocks may benefit from a shift towards Google\u2019s highly specialized AI microchips",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxPVXp6QWZld0FkN3dwNDc0R251Q1Rxa2xBWGJPM1pfNEFEbl9XdHltY21SaFpyZ0lteUxSaWo2THR1SHhQRFZJNFdYbnRBWlF4N3Fiel9kT1VlNWpiRmhGZ05oUklSQmN5Z2NreHoyVWloMU8yMHBUc185ZUFjNWlWWmRnM2d5SzNqU3g3bGtqelVKdVUxQ3hlNkdfU0VxdU55TXdpLTdpTnM1aXg5Z1hkWU9xaXpKU1o4c2VUelJZQ20waDFTaWg4ZXlyS2NNZ1psSFRLeEt6dnp3MHA5WXJacGo2ZjhRazE1R1VtdkxNaUVVWlc0NUlvb040SWZVcFhZR1lKak45SzlnS3Y2LUdaLUJoaFBHRWRCTjRVeGdxaXQ3bHR6VGtIS0RTSVRFRWhDNmEwdFVzaGxBNWZCUlpMamhLMHBhMDBPREdCQjRWSkU4TzZBOHQ3cTBzcXc0LVdrbERTNkl4dk55LXRqMXY0cmhKektiOHpIeFBGQ0RVNWwwLU85OUZJRVVwSUxuSnVtRUtZUGw5QXJCc1ZiNUFtd2VKUjcwY0x6a2VZczZEQ2RlZm50OVg0MThOeWFqQURFTlVQMGpwQ1dpYkdVdUE?oc=5",
+      "pub_date": 1764333840.0,
+      "article_url": "https://www.marketwatch.com/story/these-stocks-may-benefit-from-a-shift-towards-googles-highly-specialized-ai-microchips-f3b51124?gaa_at=eafs&gaa_n=AWEtsqd_hp1cR3pa34vggk-mQJGM0MpEbzbb_8aLiAKyzKAKKnfiuXSrOUcz&gaa_ts=6929a4b3&gaa_sig=7KrxXVo1UGKHSkD5o1Ep9zAoEevSV1RLQYplSQwFdVnm7AmaG_Htezm8Bjw4slkJvvtMfzFH-GJZhw9xFeIT2w%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Five years after its debut, Google DeepMind's AlphaFold shows why science is AI's killer app",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWmdILTVwWWF1Tk5BZlg4SmtoaWowY01tVWVsazBEQzhNMU5sYUpnWWRMeVc5bXZ0d0RlXzRGSFJjUzUwcEcySTY1WU1CdnhSUl9wV1dRWDRrd1FKYnAzVXhhd000WDVpcklERFpEZ1dfcnVpRWc3ZWR0dXhtajJZR3R5bXoxZw?oc=5",
-      "pub_date": 1764332100.0,
-      "article_url": "https://fortune.com/2025/11/28/google-deepmind-alphafold-science-ai-killer-app/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2176921835-e1764328068614.jpg?resize=1200,600",
-      "description": "Google DeepMind's AlphaFold has transformed basic biochemical research over the past five years. Its impact on drug discovery, though, remains uncertain."
+      "headline": "Explainer: Keeping cool: heat a key challenge for data centers and AI",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTNzR21HUS1VWG53dG1CcVBINzdJRjlVNDJEanhPOURxem9jUUc3YTJGUDJOWWlHTTJQOGliTHcteEl0MjVwS1NGeFM3RFlSaEItcnFCLWlIaFlWTUUxbFdmZVNjZXNQSklKRWZkVGVOMUZFRmNJQVhSRHVNN3NsbkgwcWRzdGx0Z25yVlFzMXRvbDNWcVpB?oc=5",
+      "pub_date": 1764334852.0,
+      "article_url": "https://www.reuters.com/business/keeping-cool-heat-key-challenge-data-centers-ai-2025-11-28/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Here\u2019s a glimmer of hope about AI and jobs",
-      "source": "vox.com",
-      "source_url": "https://www.vox.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pRmdQZlltSDVMVzZCWGU3cFJfemxPSklyV0pvZVN3ZDlnLXl6YzR5bExNUkk5TndIWVpUclpsamF6bHJMSlIxM0RCamVxaU9yNE1tY0d0bHZMVXFIenFBdXR5NkdGQUc2RVVMWA?oc=5",
-      "pub_date": 1764330300.0,
-      "article_url": "https://www.vox.com/technology/470688/ai-jobs-chatgpt-bubble",
-      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/GettyImages-2188013015-copy.jpg?quality=90&strip=all&crop=0%2C5.4290400603788%2C100%2C89.141919879242&w=1200",
-      "description": "What history can teach us about the AI job apocalypse."
+      "headline": "6 companies that have signaled they are replacing human employees with AI",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2ROSlNIeUl1cFRzVTJGUzk3TjFkU2RDQktwdXQxemhxNDFPRVcxd1Z1S21uY00wN1RvSWdSOFYxZHhSX3FObU13bFMwSXZEWnVMTHFMUzNObnlRNTF5WWRDcWFUOG9XSjNiQjUzMkxDc2R0ZDJNQUI0dzZTcDRvSlY2TnljdE5rTU45LWRkaEwyU1VDbzFaWk42N093Ri1MMl9CRG5feVBRcDBhbHc?oc=5",
+      "pub_date": 1764334920.0,
+      "article_url": "https://www.businessinsider.com/list-companies-replacing-human-employees-with-ai-layoffs-workforce-reductions",
+      "image": "https://i.insider.com/69274dc789026fbb4d0e81cd?width=1200&format=jpeg",
+      "description": "Several companies have said AI is replacing human employees and enabling workforce reductions, including HP, IBM, and others."
     },
     {
       "headline": "AI is upending the porn industry",
@@ -85,6 +65,16 @@
       "description": null
     },
     {
+      "headline": "Baidu is emerging as a major AI chip player in China to fill the Nvidia gap",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0loaG9seUp3cW82YXQyM2xWUDFXTGZ2QXR4MXVUMVVPN1d5VzA5UktYYmtNLU1BaHFvcFM0Y0lSbmN2eEtjX0pjQ3JBeUJObXNFT1FzUHdYWGNDekYyVFRwR2xGYzdXekFOUTBXV3h4REQ5LTBabW56VHp5dnFZcnNzWXZtVzh1UEJHUjdCUUxZcFpvWVVmbk930gGfAUFVX3lxTE5mQ0N0ZW1SdnM1TWsyYzFXN1FvNHNKR1FqWEh1VGhya2NxQ1N0UXIwWXhBb2NjMWhsTlhRMWxsQm1JY0dVU296dHhqX1lLQm9YbXdQTGFtem5jaVJvY3hRRzZyOWxJellRRVZ3SDZZeHNBYXRsZWlJVGh0ZndHbnc5YnBQSEF1MkNqM2JLajh1MGlndzY5VUJrZkw1eU9ETQ?oc=5",
+      "pub_date": 1764310853.0,
+      "article_url": "https://www.cnbc.com/2025/11/28/baidu-is-major-ai-chip-player-in-china-to-fill-nvidia-gap.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108233025-1764244459954-gettyimages-2226761556-tang-notitle250728_npWbw.jpeg?v=1764244509&w=1920&h=1080",
+      "description": "China's focus on pushing domestic chips could make Baidu's chip unit, Kunlunxin, a fast-growing business for the company."
+    },
+    {
       "headline": "What bubble? The analysts and investors making the bull case for AI",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
@@ -95,16 +85,26 @@
       "description": "Chipmaker Nvidia posted yet another blockbuster earnings report this month."
     },
     {
-      "headline": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONlJpRmNBbjVJRDZnM3R6bXVuc0hoMkt2ZXIyTVpHVVB0X1NscjF1cWFtSktEeWpyRVJoRmV5N3pKYW53TmlWWVlSQ3l0aVVJMERQQmFTN2RTbDI1TW1MS2RsOEtJUklVamxYV2NFQlFsZ3hxck9fVzI4T0pHSWxDVkZkamhqTnhvRE10VWxxMA?oc=5",
-      "pub_date": 1764324000.0,
-      "article_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
-      "image": "https://media.wired.com/photos/6925f9abe38648aa0f225be3/191:100/w_1280,c_limit/sec-poetry-ai-nukes-517442570-522586638.jpg",
-      "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
+      "headline": "Here\u2019s a glimmer of hope about AI and jobs",
+      "source": "vox.com",
+      "source_url": "https://www.vox.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pRmdQZlltSDVMVzZCWGU3cFJfemxPSklyV0pvZVN3ZDlnLXl6YzR5bExNUkk5TndIWVpUclpsamF6bHJMSlIxM0RCamVxaU9yNE1tY0d0bHZMVXFIenFBdXR5NkdGQUc2RVVMWA?oc=5",
+      "pub_date": 1764330300.0,
+      "article_url": "https://www.vox.com/technology/470688/ai-jobs-chatgpt-bubble",
+      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/GettyImages-2188013015-copy.jpg?quality=90&strip=all&crop=0%2C5.4290400603788%2C100%2C89.141919879242&w=1200",
+      "description": "What history can teach us about the AI job apocalypse."
+    },
+    {
+      "headline": "Ranked: AI Hallucination Rates by Model",
+      "source": "Visual Capitalist",
+      "source_url": "https://www.visualcapitalist.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjg3RWRaWnMtYjlldmhhcThIYU13RDR4THpfaGkySXdZV0dkd1lIbERxdXozZk9WdExjRmNuc0ZjRlJKM1RkY2xZc0tlZDRlcUNoXzhzZTY0ZzcxZmZuS25yMGx3dmFOdUxGNjJ0WDEzbHFUX1huN281M1ZjVXp5eWhNeG9qcUpo?oc=5",
+      "pub_date": 1764258060.0,
+      "article_url": "https://www.visualcapitalist.com/sp/ter02-ranked-ai-hallucination-rates-by-model/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T12:37:06.880235+00:00"
+  "fetched_at": "2025-11-28T13:19:03.764622+00:00"
 }
