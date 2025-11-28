@@ -35,6 +35,16 @@
       "description": "The company's Gemini 3 and Ironwood AI chip are driving Wall Street's excitement behind Alphabet's AI comeback, but challenges remain."
     },
     {
+      "headline": "Baidu is emerging as a major AI chip player in China to fill the Nvidia gap",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0loaG9seUp3cW82YXQyM2xWUDFXTGZ2QXR4MXVUMVVPN1d5VzA5UktYYmtNLU1BaHFvcFM0Y0lSbmN2eEtjX0pjQ3JBeUJObXNFT1FzUHdYWGNDekYyVFRwR2xGYzdXekFOUTBXV3h4REQ5LTBabW56VHp5dnFZcnNzWXZtVzh1UEJHUjdCUUxZcFpvWVVmbk930gGfAUFVX3lxTE5mQ0N0ZW1SdnM1TWsyYzFXN1FvNHNKR1FqWEh1VGhya2NxQ1N0UXIwWXhBb2NjMWhsTlhRMWxsQm1JY0dVU296dHhqX1lLQm9YbXdQTGFtem5jaVJvY3hRRzZyOWxJellRRVZ3SDZZeHNBYXRsZWlJVGh0ZndHbnc5YnBQSEF1MkNqM2JLajh1MGlndzY5VUJrZkw1eU9ETQ?oc=5",
+      "pub_date": 1764310853.0,
+      "article_url": "https://www.cnbc.com/2025/11/28/baidu-is-major-ai-chip-player-in-china-to-fill-nvidia-gap.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108233025-1764244459954-gettyimages-2226761556-tang-notitle250728_npWbw.jpeg?v=1764244509&w=1920&h=1080",
+      "description": "China's focus on pushing domestic chips could make Baidu's chip unit, Kunlunxin, a fast-growing business for the company."
+    },
+    {
       "headline": "MediaTek Shares Eye Best Week in 23 Years on Google AI Progress",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -45,14 +55,24 @@
       "description": null
     },
     {
-      "headline": "TPU Takes AI Trade By Storm. What to Know About Google\u2019s AI Chip.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQLUd4Zk54T1UtOTB2NVFMRlJfWGtjR1Z3WWxPWldmRVZmOVRSeEhaelg1U1o0a0dKYVU0YnM0cVJQWGRjS1ZJWU9WbDVPdXVnYzdkeExweVJlSkFSTlJaNnY4dXlDa0FTdDZaZ0NJdE81bTNLZ1NyWEJZQ2d4WHViSHNSMEJ5VUsxRnZlRzNKNVZNMlhYZW1QckNyY3BQZ1cxc2xLeUc1dkdZOTZvR0ZwazN3U2J1aUtqQ24tVWR6eHFrMXh3V3YxVEZ6R2FOWUg0cjgxMEhMMHFNTndaM2M4SXJEVlRtZHVTQmltTWM1REhId00xRzNMcmUwakVWaUZ4eHBYX3hVMk5Pd1VVcFQ3X3duUE5LYTRVcDduNzdSYnZjNjN4cUY5RklmblhzellVNHlZY0dRUi1tczRYUXBNcXRVVG4zMzNVdENkRWtjVzFRS0Uydy0wNDVodUJNZ1hleFhDUVU1cWR4ZXNKUHJoQWNiUzNNZ0NsVVU0MUNtVjlXNXI2RzdybmRiSVA0a3pLWnV2cDlRU3Bqcm1ObVA4eg?oc=5",
-      "pub_date": 1764315000.0,
-      "article_url": "https://www.barrons.com/articles/google-tpu-vs-nvidia-gpu-ai-stocks-93dc908f?mod=article_inline&gaa_at=eafs&gaa_n=AWEtsqft2a_-P3igZo7NxTg56OIjVFgSpHfMsbwdXoLS7n4TYLrP9zQ1st31&gaa_ts=692978b5&gaa_sig=gpF9m6y19aYVNirYLwmgsF4whRj-7DT3CCS9hC-X-XVjiisxnM68xPPfzWpg_x2lD7vO-MacbKhr3K4YPOVo8A%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "Utah Gov. Spencer Cox says states should retain power to regulate AI",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbjdmbkVrenhiQkZjR19UNFJUd01QZURqT0hBRHBCQnJnOUswb0llVktxbE9ZTTF0ZnN4ajdidTVkQjFPdW1UOXdncnhkT2RNdm90NFphWDBwdU5SRVUtWVI5TFJKaFpZTmRseW9QVkQ5YURfcENMclFEdDZkalRLdkpnaVRzU3JXdlFna2lsZEQ2V3N6U2MxOTdiV3k0eWozQVhOSnJobnpoSElmelJFdVpR?oc=5",
+      "pub_date": 1764323455.0,
+      "article_url": "https://www.npr.org/2025/11/28/nx-s1-5620799/utah-gov-spencer-cox-says-states-should-retain-power-to-regulate-ai",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "description": "Utah Gov. Spencer Cox tells NPR's Steve Inskeep why he wants states to regulate artificial intelligence."
+    },
+    {
+      "headline": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONlJpRmNBbjVJRDZnM3R6bXVuc0hoMkt2ZXIyTVpHVVB0X1NscjF1cWFtSktEeWpyRVJoRmV5N3pKYW53TmlWWVlSQ3l0aVVJMERQQmFTN2RTbDI1TW1MS2RsOEtJUklVamxYV2NFQlFsZ3hxck9fVzI4T0pHSWxDVkZkamhqTnhvRE10VWxxMA?oc=5",
+      "pub_date": 1764324000.0,
+      "article_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
+      "image": "https://media.wired.com/photos/6925f9abe38648aa0f225be3/191:100/w_1280,c_limit/sec-poetry-ai-nukes-517442570-522586638.jpg",
+      "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
     },
     {
       "headline": "'We're going to see a lot of carnage': VC investor says AI boom will create giants \u2014 and topple overhyped startups",
@@ -65,46 +85,26 @@
       "description": "The AI boom will create giants but topple some startups, says VC investor Mel Williams, as soaring valuations set the stage for a market correction."
     },
     {
-      "headline": "Taiwan raises 2025 GDP growth forecast on surge in AI demand",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZEVoSVZad1RoX3dlSFhENUdNSjJBZEpTTFo5Szktby1KWHhHTVI2OVU1NW5nUEUwczRiTTg3MUpfZDlsNHREc1JldS1BRjVNQjNkU0dWU3pJcmt3Z3NpbFl5Nk5JYnpPVk9sQWhUajB2cXk3UXNXY19IN195T1JJa0YzMERJcWtEaGtwYm9RdjhYOTByZUc3b2UxTno4SmtPNm81N2NrRktIdGJPSlE?oc=5",
-      "pub_date": 1764320837.0,
-      "article_url": "https://www.reuters.com/world/asia-pacific/taiwan-raises-2025-gdp-growth-forecast-surge-ai-demand-2025-11-28/",
+      "headline": "AI is upending the porn industry",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZFJQTU1XOExNVGFCc25xZ1llOGRVTTRGUGtOTGRKWjhGYkV6S1RBNG4ySkQydFBDMUJvVHJkWU42OGI1Vk14cWtuS1BUdzVIZTQwQkFFeDlIbVQ3Z0tHZDltTWhpX0ZQelc5N29QQVZUdUxPOVZ4MDhFVXVEb1hMU2VqUFB4bWVNSGNF?oc=5",
+      "pub_date": 1764252394.0,
+      "article_url": "https://www.economist.com/international/2025/11/27/ai-is-upending-the-porn-industry",
       "image": null,
       "description": null
     },
     {
-      "headline": "Taiwan Raises 2026 Growth Outlook as AI Boom Helps Exports",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdWMxRDZ3Z1JpNXJna2NaUDdEVHJIRlBXZ1JudnhGTGp3M0VqSjlnUkJTU296anRzblR3XzhfSlNVQjEyYmJNbUtscUd6TnljWWdIb0pjbmFSdnBHREpxLWc3Z1ZRb2FfeHVwNzA4TEk2S3NpUndWcUNwRm16aUcwZ0c2YXFtYUxjRUVEdlkxbjB2RXEzRENyZFBOeFpxV0FqV2s2YWFNV2NVVndmaUE?oc=5",
-      "pub_date": 1764320295.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-28/taiwan-raises-2026-growth-outlook-as-ai-boom-helps-exports",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "The global AI race is supercharging Taiwan\u2019s economy. But many don\u2019t feel better off",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4MUJzamtWR1A4RTdzNjJPRlZ3Sm8yOUpES2ROcFBxTlk0cUpUYnkzS1pCR3JUX0dFeE92MDhxY19uTm5HUUZ1RFZlQ2F5RlZ1dFZYZS1ZTWh6WHpCLVdZSnR0ZFM5YWxveW5Fb2NWcU1vNkE?oc=5",
-      "pub_date": 1764319015.0,
-      "article_url": "https://www.cnn.com/2025/11/28/economy/taiwan-ai-economy-intl-hnk",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2247159003.jpg?c=16x9&q=w_800,c_fill",
-      "description": "For proof that an economy can thrive even under constant military threats from a powerful neighbor and amid US President Donald Trump\u2019s sweeping global tariffs, look no further than Taiwan."
-    },
-    {
-      "headline": "AI boom has these blue-collar jobs on the rise",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvdTJWbmpJUTR2Umt1d2RENURSTF9STUkxRjlvTlBFeGc3dEh1Mi1pcjBEV2xVaDhjclZrbzlERnVOSjhMcjFxOGtR?oc=5",
-      "pub_date": 1764324069.0,
-      "article_url": "https://qz.com/ai-blue-collar-jobs",
-      "image": "https://qz.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/jason-richard-Hlhc8gQUW6I-unsplash.jpg",
-      "description": "From electricians to wind-turbine technicians, these skilled trades are in high demand and resistant to automation"
+      "headline": "10 AI Stocks I'd Buy Right Now",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56UUlCeld2c2NBY1F4TlBucUFMZGhpQTlsQklZQW1HNEZKTnNDdFRvbXp2RWRlNktWTldlSWtpTXh4bTNTbExpUHdUckRnMzVjTEpkc0J0alRXUlhkMlRJRVR4c21oWl9xQVhWOHdOM19FMDBORjRmMHhfY0Q?oc=5",
+      "pub_date": 1764252000.0,
+      "article_url": "https://www.fool.com/investing/2025/11/27/10-ai-stocks-id-buy-right-now/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844696%2Fgettyimages-2157013127.jpg&w=1200&op=resize",
+      "description": "Artificial intelligence (AI) stocks have sold off significantly over the past 30 days, and while some names remain overvalued, several appear to be bargains for long-term investors."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T10:11:26.234628+00:00"
+  "fetched_at": "2025-11-28T10:52:26.601368+00:00"
 }
