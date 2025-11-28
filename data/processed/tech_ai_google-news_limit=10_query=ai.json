@@ -55,16 +55,6 @@
       "description": null
     },
     {
-      "headline": "Utah Gov. Spencer Cox says states should retain power to regulate AI",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbjdmbkVrenhiQkZjR19UNFJUd01QZURqT0hBRHBCQnJnOUswb0llVktxbE9ZTTF0ZnN4ajdidTVkQjFPdW1UOXdncnhkT2RNdm90NFphWDBwdU5SRVUtWVI5TFJKaFpZTmRseW9QVkQ5YURfcENMclFEdDZkalRLdkpnaVRzU3JXdlFna2lsZEQ2V3N6U2MxOTdiV3k0eWozQVhOSnJobnpoSElmelJFdVpR?oc=5",
-      "pub_date": 1764323455.0,
-      "article_url": "https://www.npr.org/2025/11/28/nx-s1-5620799/utah-gov-spencer-cox-says-states-should-retain-power-to-regulate-ai",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
-      "description": "Utah Gov. Spencer Cox tells NPR's Steve Inskeep why he wants states to regulate artificial intelligence."
-    },
-    {
       "headline": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
       "source": "WIRED",
       "source_url": "https://www.wired.com",
@@ -73,6 +63,16 @@
       "article_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
       "image": "https://media.wired.com/photos/6925f9abe38648aa0f225be3/191:100/w_1280,c_limit/sec-poetry-ai-nukes-517442570-522586638.jpg",
       "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
+    },
+    {
+      "headline": "Utah Gov. Spencer Cox says states should retain power to regulate AI",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbjdmbkVrenhiQkZjR19UNFJUd01QZURqT0hBRHBCQnJnOUswb0llVktxbE9ZTTF0ZnN4ajdidTVkQjFPdW1UOXdncnhkT2RNdm90NFphWDBwdU5SRVUtWVI5TFJKaFpZTmRseW9QVkQ5YURfcENMclFEdDZkalRLdkpnaVRzU3JXdlFna2lsZEQ2V3N6U2MxOTdiV3k0eWozQVhOSnJobnpoSElmelJFdVpR?oc=5",
+      "pub_date": 1764323455.0,
+      "article_url": "https://www.npr.org/2025/11/28/nx-s1-5620799/utah-gov-spencer-cox-says-states-should-retain-power-to-regulate-ai",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "description": "Utah Gov. Spencer Cox tells NPR's Steve Inskeep why he wants states to regulate artificial intelligence."
     },
     {
       "headline": "'We're going to see a lot of carnage': VC investor says AI boom will create giants \u2014 and topple overhyped startups",
@@ -95,16 +95,16 @@
       "description": null
     },
     {
-      "headline": "10 AI Stocks I'd Buy Right Now",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56UUlCeld2c2NBY1F4TlBucUFMZGhpQTlsQklZQW1HNEZKTnNDdFRvbXp2RWRlNktWTldlSWtpTXh4bTNTbExpUHdUckRnMzVjTEpkc0J0alRXUlhkMlRJRVR4c21oWl9xQVhWOHdOM19FMDBORjRmMHhfY0Q?oc=5",
-      "pub_date": 1764252000.0,
-      "article_url": "https://www.fool.com/investing/2025/11/27/10-ai-stocks-id-buy-right-now/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844696%2Fgettyimages-2157013127.jpg&w=1200&op=resize",
-      "description": "Artificial intelligence (AI) stocks have sold off significantly over the past 30 days, and while some names remain overvalued, several appear to be bargains for long-term investors."
+      "headline": "Stocks whipsaw as AI bubble fears, Fed uncertainty rattle Wall Street",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SZWtaSEdVbzRSQ255U1dOZ1BzeDJrRmdZSGMwTU4wUkdXek9HSHR2ekVfUEcwMnZPeVJlTVExMVpkb3RqNVcyc0NwUEVvd0RqbS1mMTNkc1hBcWhpSTVPN2hpZVliQnB5NlFYVVdCcm1lMHBIY2ZNcHJyNmMzZUnSAYQBQVVfeXFMTmFEUllXTk8xbTFvY0hLZFRnQklGRVFDdmNSUFpfS05iRjV0MnVlWE16ZGZ4Q2x2WjJjLWVxTFhlWHpyM292NWIxX1RMRmRyQ3ozY2RzTTNBT19iRHRuVEx5SDk3WGlZSGdsWFdzNEpCSjVBWWxpOFdRc1J4aUpEbjkxY1Vs?oc=5",
+      "pub_date": 1764241200.0,
+      "article_url": "https://thehill.com/policy/technology/5624075-ai-bubble-market-volatility/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T10:52:26.601368+00:00"
+  "fetched_at": "2025-11-28T11:29:56.749588+00:00"
 }
