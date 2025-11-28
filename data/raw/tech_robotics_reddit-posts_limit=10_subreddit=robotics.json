@@ -24,6 +24,17 @@
       "description": "What board should I install on this robot dog I created, and what direction should I take in its development? Please leave a comment.\ud83d\ude3c\ud83d\udc4d"
     },
     {
+      "title": "Getting rid of ~25 Nvidia Jetson TX2 Kits w/ Carrier Board, Camera Kit & Battery for robotics startups",
+      "author": "Mr-Ababe",
+      "url": "https://www.reddit.com/r/robotics/comments/1p95um5/getting_rid_of_25_nvidia_jetson_tx2_kits_w/",
+      "published": 1764363293.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Trying to sell ~25 TX2 kits at a good discount for an old robotics project I had. They consist of: Nvidia Jetson TX2 Carrier Board from Colorado Eng: https://coloradoengineering.com/products/x-carrier-nvidia-tegra-x2-carrier-module/ Leopard Imaging 3 camera kit https://leopardimaging.com/product/platform-partners/nvidia/agx-xavier-camera-kit/agx-xavier-mipi-camera-kits/li-xavier-kit-imx274-x/li-xavier-kit-imx274cs-t/ Li-Ion battery (76.96 WH) When i was prototyping this, I sure as hell wished we could get our hands on cheaper parts. Looking to sell to a small startup. PM me if interested! Comes with a full housing and heatsink for outdoor use."
+    },
+    {
       "title": "Design of Omni Wheels",
       "author": "Imaginary-End-1453",
       "url": "https://www.reddit.com/r/robotics/comments/1p9149m/design_of_omni_wheels/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Seeking honest feedback: LLM-driven agentic robot with modular architecture and real-time motion generation",
-      "author": "TheSuperGreatDoctor",
-      "url": "https://www.reddit.com/r/robotics/comments/1p8qo6i/seeking_honest_feedback_llmdriven_agentic_robot/",
-      "published": 1764322059.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi r/robotics, I'm part of a team developing an AI agentic robot, and we're conducting early-stage research. We're looking for honest technical feedback from people who understand robotics systems, LLM integration, and hardware development. Core technical approach: LLM-driven streaming orchestration that enables reasoning-while-acting (not pre-scripted behavior trees) Memory-personality framework for dynamic character development Modular hardware architecture - the intelligence core can be ported across different physical platforms Multi-component coordination (limbs, displays, audio I/O) through parallel/sequential execution logic Current prototype: Quadruped desktop robot with 12 servo motors, multimodal I/O (camera, mic, speaker, display). The survey includes a technical preview video showing the system in action - real-time generative motion and natural language control, not cherry-picked demos. Why we're here: We need reality checks from practitioners. What we're really asking: Does this approach solve problems you actually care about? What are the deal-breakers or red flags? Where would you want extensibility vs. polish? Would you engage with an open development community around this? The survey (5-7 min) covers technical priorities, implementation concerns, pricing sensitivity, and community ecosystem interest. Survey Link: https://docs.google.com/forms/d/e/1FAIpQLScDLqMYeSSLKSowCh-Y3n-22_hiT6PWNiRyjuW3mgT67e4_QQ/viewform?usp=dialog This is genuine early research - critical feedback is more valuable than enthusiasm. Happy to discuss technical details in comments."
     }
   ],
-  "fetched_at": "2025-11-28T20:30:57.234464+00:00"
+  "fetched_at": "2025-11-28T21:19:06.908904+00:00"
 }
