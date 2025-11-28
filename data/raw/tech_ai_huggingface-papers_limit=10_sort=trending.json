@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2511.19900",
       "arxiv_url": "https://arxiv.org/abs/2511.19900",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.19900.png",
-      "upvotes": 42,
+      "upvotes": 43,
       "num_comments": 2,
       "published_at": "2025-11-24T23:15:14.000Z",
       "github_repo": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL",
@@ -126,7 +126,7 @@
       "hf_url": "https://huggingface.co/papers/2510.14528",
       "arxiv_url": "https://arxiv.org/abs/2510.14528",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14528.png",
-      "upvotes": 97,
+      "upvotes": 98,
       "num_comments": 6,
       "published_at": "2025-10-16T06:18:48.000Z",
       "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-28T10:10:58.690674+00:00"
+  "fetched_at": "2025-11-28T11:12:49.108724+00:00"
 }
