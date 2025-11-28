@@ -15,14 +15,14 @@
       "description": null
     },
     {
-      "headline": "A humanoid robot-shaped bubble is forming, China warns",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUd2xkcDVwUl82Nkc0djl2aldOU25oUEdzVGlPU0JmaHpqZmx2TDhqSEJ1Z0U1UHg1WjRFalNyT2N4Wk1LdURKNkxKWFFva0pfTUhKX0lVZ21IM3JJQ2FoOTJaVzdOTDZlTGtoUTlvQUd1eWk4b3c?oc=5",
-      "pub_date": 1764259069.0,
-      "article_url": "https://www.theverge.com/news/831451/china-humanoid-robotics-bubble",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2247204481.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-      "description": "There are few proven uses for humanoid robots, but that hasn\u2019t stopped investment pouring in."
+      "headline": "China Warns of Bubble Risk in Booming Humanoid Robotics Industry",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa2pDZ0xacktoeEJrdTM0eDJ4NE9KTEREMUN5b1JjUnkzZHpEVlBoV0N4bU5WZEhBM1RrQklfVVFnRzlWMUFRdUxyck9rRHg5WkRGSVNOWFJSV0hkWW1WZk1wYVA0LTlXNngwaTBKUzFtamVZSW5IQm5HV3JSN0JQUHZUOA?oc=5",
+      "pub_date": 1764238085.0,
+      "article_url": "https://finance.yahoo.com/news/china-warns-bubble-risk-booming-100805286.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ZVfxPu5ia8wFnofX.hJtRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/e5b535e75e5b19b7199be431a88b2772",
+      "description": "\u201cFrontier industries have long grappled with the challenge of balancing the speed of growth against the risk of bubbles \u2014 an issue now confronting the humanoid robot sector as well,\u201d Li Chao, spokeswoman of the National Development and Reform Commission, said at a briefing in Beijing on Thursday.  More than 150 makers of humanoid robots are operating in China and their number is still rising, Li said."
     },
     {
       "headline": "Beijing flags humanoid robotics bubble risk as hype intensifies",
@@ -33,6 +33,16 @@
       "article_url": "https://interestingengineering.com/ai-robotics/china-humanoid-robotics-bubble-warning",
       "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/Untitled-design-2025-11-27T231729.618.jpg",
       "description": "While China positions humanoid robotics as a future growth engine, officials now fear the market may be overheating."
+    },
+    {
+      "headline": "UBTech humanoid robots to patrol China-Vietnam border crossings",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTEZKUktiVmxjQkYwQUtvX3h2bWpNZ18yYjI2XzMyVk8zZmpYOXdOQmo3R0lYakk1T09peE01MzJqYU90V0dncG5YSDMzTHlubnBpWlZXQjRQVFJULS1EbGxqLVJiS2RUZnZtTDFCNnRRTmFyZ2FpMVZ0b3dQZDlzQ01hV2NaMmt0cXdwN3RBcjRjeXd1Tjd3R3huUk10ZjVzMXdCSHhWTmRZVjJkVUtUWDEwcFVuQUdfa3piZU1Bb3JHUWRaQThVRllmbmdHLUHSAc8BQVVfeXFMTUNsZlN0T1hLbVl6djhXNHlZNVJQV1NyN2VzSGIzWl9sWldodVJTVUJkZHpWc3F1ZGt6eEhhcDZwR1h1YjQ5WTlTclMyeVZ4MlF3ZE9FYzliM2xDb3RjUVhvcHNNOVZCZklkdnF5ekk1YzJNcmcxb1FMQWdPd1Q4ekN3cXV2bC1sWHdTQ29tWjNfRGRFaXE2MEpIam1PYTdNMGpJLWxYc1lRcS0tVnR3ZGd2cnV5LTAwMVY3anB6cUdOSGNQQmNoWnQtQmtmY2dv?oc=5",
+      "pub_date": 1764072011.0,
+      "article_url": "https://www.scmp.com/tech/big-tech/article/3334081/ubtech-wins-us37-million-deal-deploy-humanoid-robots-china-vietnam-border-crossings",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/25/776e5702-53ac-4a3a-a2fb-a1ca327f6db9_07892497.jpg?itok=PFhXAw6v&v=1764061205",
+      "description": "The initiative features the industrial-grade Walker S2, billed as the world\u2019s first humanoid robot capable of replacing its own battery."
     },
     {
       "headline": "Video. Q&A: How will robotics shape our future? |Euronews Tech Talks Podcast",
@@ -65,34 +75,24 @@
       "description": "Tesla is being accused of infringing robotics patents by a company called Perrone Robotics, which is based out of Charlottesville, Virginia. The suit was filed in Alexandria, Virginia, and accuses Tesla of knowingly infringing upon five patents related to robotics systems for self-driving vehicles. The company said its founder, Paul Perrone, developed general-purpose robotics operating [\u2026]"
     },
     {
-      "headline": "Xiaomi hires engineer from Tesla\u2019s Optimus team to lead robotic hand development",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGplRElVLTFhXzBBQnRSdVVGVWI5VnAzNkhSUkZKZkhrQ1FkVFU5OUZYMDA3QkNmaHVUS3lrZXFMTGI3cDF4MUphenZ4RjZDR25OSTNaVS0zaGlVUThkaXFqWk51SlVMNzVheDFzSFR2bHh3UXBVSUFLTUctaG1La0xKRDJlSTJWc0JNUFZmTWpYRXl5N0l2eXJxUmhWdm9aUlNNQWNQUE5Ka0dwZmplbUI5Y09oX0FDYmhj0gG7AUFVX3lxTE9FRFF1cEw0R2pnemd5bmxRYjAxVmc3b1hNMkpUWFBDU2duaFF1V0RhOVFFcVdxdkttdk8tT2NXSVlWRWhsdmtCLUc0cHJjVEthRURiZngydXNpZVNYU0U3V0lwS1ZKMGVUZDh6OGlOU3N4dHdNM2RLb01ST0N2SEd2MXJfaWJPQVZxX1BRT2ZCOC10NDB2bkJiU2tidXp5OWVFSXRsMGx0amw4aHRYeWJqQndIYkdTQkEzbFU?oc=5",
-      "pub_date": 1764241211.0,
-      "article_url": "https://www.scmp.com/tech/big-tech/article/3334353/xiaomi-seeks-helping-hand-former-tesla-engineer-robotics-development",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/11/27/c7c2eeae-93aa-41fe-8c68-839b08836073_d5c3b109.jpg?itok=IGr2noaV&v=1764232500",
-      "description": "Zach Lu Zeyu joins Xiaomi as lead of its dexterous hand research and development operations."
-    },
-    {
       "headline": "This $46 billion robotics stock is up nearly 40% after a big win. Could more gains be in store?",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPV2FwdWs3SGJiT3RhX1RNV3VGZzRiSXFJOElIVzVlb1F4NWdhUDJxRlFEZGl4WHVab1BTel9wTkZEV0hkOUtVeGM4d09hM2ZjWGlkSGRpcmdTN0xYUmpsQjdUNkhmaHNlck80S19Xdnk0cnB3UFhxR0Z5YTU2UHU2cjd2S1l4bmdVRzdrbDBFVHhfZlRYSHpuTGRaQzFGc3hlLU5hRUk3NmJTVlYwMm9zVXloRnlTVENGSDB2bGZVcnlQOWlhWi1paW1TRzF2Z1pVQ0txaXdPVmt6X2o0VEN0S2VPRDJUbGxfTnltNkt6aDhxeGV1bE0zaC01WWMycEpXTFE0cllBQ3FPT0o4d09SVE1hVVB1MklrYUtxcEx2dWtCaUdjdnl5dkdwRjBXZmt2WGR1UldFd1g4SUdkbFRiSHp2VVR3MTVjTW92Yk8wYTFWdW82MmR1ZUoxZUZndU96NzYyTy1GeDRUWHpvNlV1R1Q1YU1fSElNYzU5NmNXNVVrcDFNVW83V3V6ZGFQaGdmS1FMbUlnTVVORUVYUW0yck9BX2hxTzVYLVptQzZJTnRhTVl1Z0NvcThtaHNBVklDWmVTUkhydFpzMGM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQMHpXd0hjbjlhN3dKVkR5SjNRWFU2SGF1Z05pTFROSElteV9aX0NYZ3hndFNxM0J1WkI5aGRyNTU1M0l0S0hfeVktMHdHa2RQUWZhRkpmamo4a2dib2JkXzVfUzNnU2E1QU15dzdBaHliZUhnMnRHb1lqWVRNUzRBQzd4cWp0VHNZYWV4YXNYeEY1QnBTVnB3bklpWlVmV0tHNmN1MDRQTkJ2Q3R6U1FjaGtOYTIya2RVOGF3anl5T2E4Z1J2TC00eVZUQ0VmZ0hFTktXQk1PTFJFN2ZaYzJRTThLMFRIMHRlbHdOVlN3aXhleF9qU09wLV9NRFMxcGxvSE03dktOQk9WX3lGeWx4TjBKUURpSFFWdjBKY3ZGX0pDOGVyV1ZjMWJUN0RCcUhzY1hYZVRFdjZSMkhrWVF6T3RXRjVtYnBaS2lUUlFDejVWb05kVFMzOFU1QWV0TXVKZnVMQmYyc1R6NW5QRXVLclpXdnRPdURWWThMUGFyRnctdFNwckRrelVERFEyNWZReFFJNWItbWpvUG9EQUp0dW5VTFVVaTFGMVRVeXk5ZHg3VENCSl9aclgtZFg4S3gtWW9tcE9MSnVwRDg?oc=5",
       "pub_date": 1764103860.0,
-      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqciu3eahkjW9v7QqrxnjlNCuaCffrU-EN7MJeqFZr8SqbyrTfXvWh6p&gaa_ts=69298b2f&gaa_sig=0KIRZcpZyY8SRBqtP5nY08qW8eLz50lE1p6_trS5dSXIi998binQmDnpmZi0Xd2GROQIKTqZtxkNBMT6_E3YMg%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/this-46-billion-robotics-stock-is-up-35-after-a-big-win-could-more-gains-be-in-store-97091579?gaa_at=eafs&gaa_n=AWEtsqemGH1O-X-WwoDs0pCF6iIf7ojBdJ6MfXTDylrj76Rfj59-uOgAqqpM&gaa_ts=69299ae3&gaa_sig=I8YVye1qe9BOs6a_2Cpoe6X8n1Zi95fZuhyCqGg-WJriCoL6dnGK2p9IidjvPkvTieQiOiGnC8uOK2cj2UvNDw%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Hundreds of Chicago residents sign petition to pause robot delivery pilot program over safety concerns",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVlo4VG0wcnQ5MkRublN5VzVEcFNfRkVuYjZvX2QxMXdrNkgxbVBQaVdSaHRBZERpUEdOQll5dl9kRkF0Y1lqOTZUa1NSRXNPZnNqTnhWTlRIMl8wSkNZcXpjaUVpdE00WDBkMEpTb3BoMDctWFNDU0ZobE5xdndrNEM0QlFxRmNPWE5MTjFZTm5kaVZlclRN?oc=5",
-      "pub_date": 1764205616.0,
-      "article_url": "https://www.cbsnews.com/chicago/news/north-side-residents-petition-pause-to-delivery-robots/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/11/26/ea7c2273-cc71-4f18-ae29-3a61cd302db2/thumbnail/1200x630/a1e50d110a666ed067a785f815652a76/snapshot-2025-11-25t181748-090.jpg",
-      "description": "Two companies, Serve Robotics and Cyan Robotics, are licensed in Chicago. The city said it's a pilot program that will assess benefits and risks."
+      "headline": "Bristol teen builds 'really cool' robotic hand from Lego",
+      "source": "BBC",
+      "source_url": "https://www.bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jSmI0UmhMak1qemdoVTAyTl9sV3o1M0xrVVM2Y0daWWtYS0U2QXRUMWRhV1B5UDdtWTltUGRmQ3hOUkpqSS1RVkpHVkZPUE9DTkFHaVF3WURmd9IBX0FVX3lxTE5hZzV0QlExMGNabzRZTlhEeVVrbmREUzd6bXMtTGlZZFhKZTBZbTc5UTZpTEVQSmY4UER4WkVUQlU0Z2psN1dLN2piWE01elZGQ2pPdksyb3o0ZFM2UUZZ?oc=5",
+      "pub_date": 1764137614.0,
+      "article_url": "https://www.bbc.com/news/articles/c04g1001z95o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/93e9/live/cfff24a0-c3bf-11f0-8318-3f3853f530dc.jpg",
+      "description": "Jared, from Bristol, started working on the robotic Lego hand aged 14, finishing it two years later."
     },
     {
       "headline": "Tesla Execution On Robotics And AI Vision: A Must For Musk (NASDAQ:TSLA)",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T11:30:05.749559+00:00"
+  "fetched_at": "2025-11-28T12:37:07.346954+00:00"
 }

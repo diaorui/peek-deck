@@ -13,6 +13,17 @@
       "description": "It's allegedly 1.5 times the speed of Nvidia's A100 GPU from 2020."
     },
     {
+      "title": "Anthropic's Jack Clark: We are like children in a dark room, but the creatures we see are AIs. Companies are spending a fortune trying to convince us AI is \"just a tool\" - just a pile of clothes on a chair. \"You're guaranteed to lose if you believe the creature isn't real.\" ... \"I am worried.\"",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1p8srk2/anthropics_jack_clark_we_are_like_children_in_a/",
+      "published": 1764329956.0,
+      "thumbnail": "https://external-preview.redd.it/eTIzc29kd3BpejNnMdGL5ms1ReCyxHbGSrBx8YAPEqiLyEexDlqHlJEtp2vW.png?width=640&crop=smart&auto=webp&s=a4fddac609d3a9b8d4bc931c54c24e06bf7dc27b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Mexico to build Latin America's most powerful 314-petaflop supercomputer",
       "author": "sksarkpoes3",
       "url": "https://www.reddit.com/r/artificial/comments/1p85s5y/mexico_to_build_latin_americas_most_powerful/",
@@ -68,17 +79,6 @@
       "description": "This article discusses the political economy of AI capitalism. It considers AI as a General Purpose Technology (GPT) and argues we need to investigate the power concentration of Big Tech. AI capitalism is characterised by the commodification of data, data extraction and a concentration in hiring of AI talent and compute capacity. This is behind Big Tech\u2019s unstoppable drive for growth, which leads to monopolisation and enclosure under the winner takes all principle. If we consider AI as a GPT\u2014technologies that alter society\u2019s economic and social structures\u2014we need to come up with alternatives in terms of ownership and governance. The commons is proposed as an alternative for thinking about how to organise AI development and how to distribute the value that can be derived from it. Using the commons framework is also a way of giving society a more prominent role in the debate about what we expect from AI and how we should approach it. Keywords: Artificial Intelligence (AI), AI capitalism, Political economy, Commodification, Extraction, Commons"
     },
     {
-      "title": "Anthropic's Jack Clark: We are like children in a dark room, but the creatures we see are AIs. Companies are spending a fortune trying to convince us AI is \"just a tool\" - just a pile of clothes on a chair. \"You're guaranteed to lose if you believe the creature isn't real.\" ... \"I am worried.\"",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p8srk2/anthropics_jack_clark_we_are_like_children_in_a/",
-      "published": 1764329956.0,
-      "thumbnail": "https://external-preview.redd.it/eTIzc29kd3BpejNnMdGL5ms1ReCyxHbGSrBx8YAPEqiLyEexDlqHlJEtp2vW.png?width=640&crop=smart&auto=webp&s=a4fddac609d3a9b8d4bc931c54c24e06bf7dc27b",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "ChatGPT maker OpenAI confirms major data breach, exposing user's names, email addresses, and more \u2014 \"Transparency is important to us.\"",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1p85xzi/chatgpt_maker_openai_confirms_major_data_breach/",
@@ -112,5 +112,5 @@
       "description": "CrowdStrike researchers reveal how trigger words cause DeepSeek-R1 to generate vulnerable code\u2014exposing new AI-driven risks in software development."
     }
   ],
-  "fetched_at": "2025-11-28T11:53:46.415661+00:00"
+  "fetched_at": "2025-11-28T12:36:42.618977+00:00"
 }
