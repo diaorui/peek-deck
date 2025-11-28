@@ -35,7 +35,7 @@
       "num_comments": 4,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
-      "github_stars": 4473,
+      "github_stars": 4503,
       "project_page": "https://ai.meta.com/sam3/"
     },
     {
@@ -111,7 +111,7 @@
       "num_comments": 3,
       "published_at": "2025-11-20T00:01:57.000Z",
       "github_repo": "https://github.com/aiming-lab/Agent0",
-      "github_stars": 510,
+      "github_stars": 545,
       "project_page": null
     },
     {
@@ -149,7 +149,7 @@
       "num_comments": 6,
       "published_at": "2025-10-16T06:18:48.000Z",
       "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-      "github_stars": 65132,
+      "github_stars": 65149,
       "project_page": null
     },
     {
@@ -168,7 +168,7 @@
       "num_comments": 2,
       "published_at": "2025-11-23T07:29:33.000Z",
       "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
-      "github_stars": 238,
+      "github_stars": 246,
       "project_page": "https://github.com/VectorSpaceLab/general-agentic-memory"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-27T23:33:21.700376+00:00"
+  "fetched_at": "2025-11-28T01:49:27.293729+00:00"
 }
