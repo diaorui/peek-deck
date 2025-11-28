@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "AI can already do the work of 12% of America's workforce, MIT researchers find",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44UF9fODFDSXVRY0g2eGR2OUZDeWJNNXkyazdpTXBiaVFVcU1nazhnMU5FZjJOX3JIN09HZDgyM3RQa3pLV1B4RThrTUNtWEQ3YkRzOVo4YjMtdlFIWjh3aXk1Wk11RTVTck1TU3Y2X3BXYnYtSjBlWmR5Z09vZ2PSAYQBQVVfeXFMTWxzZTJtZkdtRk9TVG9rb2hoN2xqU2dJZXAxd3M4Yi1HTXl6NkVxeUtaeDFhN0JTU21IcVBLUXpLMUlKX2RvV3NVcVEwMDhqZmJWS0d3NGVtbXcxVFYybjdMeFhONnBHblhCT3otVXI1RjdrOWhzX2lOTE9EMHRicXdTMG1n?oc=5",
-      "pub_date": 1764197820.0,
-      "article_url": "https://www.cbsnews.com/news/ai-artificial-intelligence-workers-mit-study/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/26/1a6fc6cd-ea80-4468-977a-7a46e4002cbb/thumbnail/1200x630/c93034e11ba8c92f4d25914d01b97e08/gettyimages-2234175849.jpg",
-      "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
-    },
-    {
       "headline": "MIT study finds AI can already replace 11.7% of U.S. workforce",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -35,44 +25,24 @@
       "description": "The window to treat AI as a distant future issue is closing."
     },
     {
-      "headline": "Nvidia says its GPUs are a 'generation ahead' of Google's AI chips",
+      "headline": "AI can already do the work of 12% of America's workforce, MIT researchers find",
+      "source": "CBS News",
+      "source_url": "https://www.cbsnews.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44UF9fODFDSXVRY0g2eGR2OUZDeWJNNXkyazdpTXBiaVFVcU1nazhnMU5FZjJOX3JIN09HZDgyM3RQa3pLV1B4RThrTUNtWEQ3YkRzOVo4YjMtdlFIWjh3aXk1Wk11RTVTck1TU3Y2X3BXYnYtSjBlWmR5Z09vZ2PSAYQBQVVfeXFMTWxzZTJtZkdtRk9TVG9rb2hoN2xqU2dJZXAxd3M4Yi1HTXl6NkVxeUtaeDFhN0JTU21IcVBLUXpLMUlKX2RvV3NVcVEwMDhqZmJWS0d3NGVtbXcxVFYybjdMeFhONnBHblhCT3otVXI1RjdrOWhzX2lOTE9EMHRicXdTMG1n?oc=5",
+      "pub_date": 1764197820.0,
+      "article_url": "https://www.cbsnews.com/news/ai-artificial-intelligence-workers-mit-study/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/26/1a6fc6cd-ea80-4468-977a-7a46e4002cbb/thumbnail/1200x630/c93034e11ba8c92f4d25914d01b97e08/gettyimages-2234175849.jpg",
+      "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
+    },
+    {
+      "headline": "How Google put together the pieces for its AI comeback",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVG8zU3NmR0xkeDlaMmhNQThNZnN6MFZtV2VfbnNMT0ZYcVJFLUJiaENlTlRGNE9KMXZSdDhMZVdyT24wcE9JdWxJTWNVSFJpOEU1Vm03aXZwT2ZONnh5S1ZBeXFOOERIWVBBNlg5WnBPTVBfM2VSX29maU5UN2h2amlRVFIwN3BXdnNrVDItWHZaSDlLX2w2UF9TQzVUYVd5QUHSAacBQVVfeXFMTm9EMGExa2dMN1pKMWQ2MjZUc1hST2ZCNnFsYTFENlItc3plcm9rdjd1Y3RjLXFQZ2t2V0ZKWW1tLUNwRTRUZW1LbkpkR05JcnNteFk2MUNfcWFWZmJnQWp1RnVISzJMS3UwUk1SQTF0cU5welZqVVdvTElyS3dvS0tpVUlYOXNUOXRuREFnNG4xbzNORXRLaEtpSW1qSWtJLUx6bVJzeUE?oc=5",
-      "pub_date": 1764095391.0,
-      "article_url": "https://www.cnbc.com/2025/11/25/nvidia-says-its-gpus-are-a-generation-ahead-of-googles-ai-chips.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229150-1763650981923-gettyimages-2246892165-AFP_84JG4JG.jpeg?v=1763651000&w=1920&h=1080",
-      "description": "It was in response to Wall Street's concern that Google's TPU chips could threaten Nvidia's dominance of the AI infrastructure industry on Tuesday."
-    },
-    {
-      "headline": "Nvidia Stock Could Be a Black Friday Bargain Amid Google AI Threat. Here\u2019s Why.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOakpLTlRNa280STJGR0MtOWw2VWEwZHRwN1UzYjFRcmpickJQUnFhT000Z3Z3Z0FPYTdFcGRPNXJ1aWVhREI3NU0xc19PODRXVU4yRXI0TEVFQ1NRRGpFcGxHTlViel8zc2w2LW04c0tncVRsWHJaLVFocUhBYndWU2lnMVpLR1YyaTZFU1UxWlhnby0yT0NTZlROZ25iU21TTHlxRGMwMTlYZExuWnNhaWVaUEtzekQtdnNQQjR3TTJNZ25ZMGo1OHVSeWR2MERxSV93Qi1OZkowTHN5aldCdkZKV1A5THpvWXR5NG0weWFZbE9RdVVYUVdmRGVEaDkxREtHS21ONGFVZ3Nna0NSNEJFa1gycGhTMmhsVWladDN6QzRRbFl0OFphZHV5VTVSSXJiMEJJNmZGdnR3b1Q2RzdnSUpCOUNIbFJidWdkeHhJOUE2RGQ3OVJRT0xIQXJVeGNOeVFpeU0xMFV0WXh2UFNpODBsS05WTy0zMjQzTGx5aEJGTk9SSg?oc=5",
-      "pub_date": 1764244440.0,
-      "article_url": "https://www.barrons.com/articles/nvidia-stock-black-friday-google-ai-1814e46e?gaa_at=eafs&gaa_n=AWEtsqdh3zOvIW_XH8EtdVbrY8w-wm071XSBAYt0TqbjfJ248DYfFaKta4O-&gaa_ts=6929032a&gaa_sig=OMPQswWRaQiQGGWExrr1x3z3J-Y-cQzha9l2ojyXPyhdMop1GB8XlbqvJh2RSu3TLsi_BOFYg_WmvBSwJoLHug%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "China's tech giants move AI model training overseas to access Nvidia chips, FT reports",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KOElNenB3Z2dQblhpb1BISXAxQTkyLXllSGVrNHY2LVd2TG4tb0J0OTE0T3F6eG9aQURKQklzS0gzUWdwVHAxMm9DTEduRmlDaWlMMEROVjJhYkJPQVBFUXFQTjVfVnlBSDFReWpYcll5bFFOU1BjUG1TV1U?oc=5",
-      "pub_date": 1764220980.0,
-      "article_url": "https://finance.yahoo.com/news/chinas-tech-giants-move-ai-052307498.html",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/dff25dfdc23a07408f2e62a11af65bd2",
-      "description": "Alibaba and ByteDance are among the tech firms training their newest large language models in Southeast Asian data centres, the report \u2060said, citing \u200ctwo people with direct knowledge of the matter.  Chinese companies rely on lease agreements for overseas \u200cdata centres owned and operated by non-Chinese entities, the newspaper said, noting that DeepSeek, which gathered a large stock of Nvidia chips before the US export bans, was an exception \u2060with its model being trained domestically."
-    },
-    {
-      "headline": "Investors expect AI use to soar. That\u2019s not happening",
-      "source": "The Economist",
-      "source_url": "https://www.economist.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkpHa2tpX01zLXh5eXdTS2NWUi1ra04xeHlpSHhXbkZWUHdLdUxib1c5T21UTlIwd3JBRS1mUGdUcnVvbmduV1h0UlZaOEJObDI5Q1hneEJVTTlfN2s1NmlMbjJmMkNoZ21XdUlySG9zc3lUYk9IcG11YTNjZGdSX3hMVDhaMGxVT0RlRmlrQUlQeS14LUFjLW9HSkU1Wkpwc3g1VXMyMno5SDhiX2cw?oc=5",
-      "pub_date": 1764174642.0,
-      "article_url": "https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening",
-      "image": null,
-      "description": null
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0JLdVFlVTcyOHViMGdtWU5LcFZlNmJGbWl1SHZYTjNEd29fTDc0bFZ4Wk5FTWRVOEpqVXJHUG10Mi1PcEN0YnRrWkJhdURqTmJCRWRYOUREOGRhNktXVkZqQjNjdVhqa0w3M3ZzRldVUnJ3QkRQUzlxVEVfQWpvRU5PMUc5VW5pN2p6WGEzT0ZRSE1CUVHSAZsBQVVfeXFMTjBUa0dLUzZ6bEI2SWN4UThGWVVWcTUtX0ZKMEpTbl9mVktYbUxKeDVFWDk4M01kUGU0U0paZ28tRzczUmtnM0JVTGxVWW0yS1JqODh2TzZKT3M0ZTVoRG54QjlSMU1EU3UxeHJISkM1OEM3aDJPZUFlcVg1MDhOSGNsSUVHLVY3MFl5RmhUd1VnQnhoajRhTjFscVk?oc=5",
+      "pub_date": 1764244801.0,
+      "article_url": "https://www.cnbc.com/2025/11/27/how-google-put-together-the-pieces-for-its-ai-comeback.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108228511-1763577992035-gettyimages-2247381802-vcg111604745843.jpeg?v=1764184784&w=1920&h=1080",
+      "description": "The company's Gemini 3 and Ironwood AI chip are driving Wall Street's excitement behind Alphabet's AI comeback, but challenges remain."
     },
     {
       "headline": "A.I. and the Trillion-Dollar Question",
@@ -85,6 +55,46 @@
       "description": null
     },
     {
+      "headline": "MediaTek Shares Eye Best Week in 23 Years on Google AI Progress",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkVxOHhNYmoxbFhJaVRjZkZ3bjFCQlh6SkFyTHBlUXZmR2dtWHFCRDRjOXZLUUFFQnl6aXpsVmxvZll1VXRQTFl4RTdfU1RLQlFVaGtmTmVVaWs3WmswRGxnTFV1Y2tRazRLZG4td3VYX3djZ19PX09pVDQzVjR1c1ZPU1AtU3I5cmJSNUpUMlV1Mzd2QjE3RFB5cFpIUUdBZ292SVJvREZzdWNrTjhRZGtQMnQ?oc=5",
+      "pub_date": 1764295920.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-28/mediatek-shares-eye-best-week-in-23-years-on-google-ai-progress",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI-Powered companion robots help ease loneliness among the elderly in East Asia",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0JuaTgxX1JWdTNPNERPM1ZUemZGbk1QZmprZm5rMzh0SHdlMmFIQy1iTWZnZEdySGpPMEgzRjV1aXhHZ0x6cE1xLXF0WjlCMmNNR3lXaHZ2YWhEZEpwd0xoT1h0ZHhwQnhlZGNsdWh6RFRiUE50S2R5cWRGNHJPVEYwSG8xM3EzRFJnNjYyRll1NGxWeERNNEZjMDlLQjZiU2JmWUtR?oc=5",
+      "pub_date": 1764297840.0,
+      "article_url": "https://www.cnn.com/health/asias-aging-population-finds-comfort-care-in-robo-grandma-dolls-wellness-spc",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/hyodol-photo-courtesy-of-hyodol-20251127180824458.png?c=16x9&q=w_800,c_fill",
+      "description": "A new wave of AI robot companions is moving beyond clinical tools to aid the elderly providing emotional support and critical reminders for meals, medication, and appointments."
+    },
+    {
+      "headline": "Investors expect AI use to soar. That\u2019s not happening",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkpHa2tpX01zLXh5eXdTS2NWUi1ra04xeHlpSHhXbkZWUHdLdUxib1c5T21UTlIwd3JBRS1mUGdUcnVvbmduV1h0UlZaOEJObDI5Q1hneEJVTTlfN2s1NmlMbjJmMkNoZ21XdUlySG9zc3lUYk9IcG11YTNjZGdSX3hMVDhaMGxVT0RlRmlrQUlQeS14LUFjLW9HSkU1Wkpwc3g1VXMyMno5SDhiX2cw?oc=5",
+      "pub_date": 1764174642.0,
+      "article_url": "https://www.economist.com/finance-and-economics/2025/11/26/investors-expect-ai-use-to-soar-thats-not-happening",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Pollution from coal plants was dropping. Then came Trump and AI.",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcENDUDVmSEUxaVZCZTkycXhHNXlZY0xKN1Q5eHdVbk00b203ZENhR29RNmRoZU9YNi1OelRBNnU0RHEzanQ1dlFrLWVnSTRiUkk5MXBKYy0wb1VzTmNkNmVWbXNzS2E0emp4YkxCVzUxVjl1eERiRnBvN1VGQWFlWll1TF9fY3lCWlFMR19iZjZfWVpNdk9Bb29vbGc4ZmFiUUFiSkxneTdsQ2xhTEE?oc=5",
+      "pub_date": 1764255600.0,
+      "article_url": "https://www.politico.com/news/2025/11/27/ai-gives-coal-plants-a-lifeline-as-trump-makes-them-dirtier-00661839",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Alibaba starts selling Quark AI glasses in China, enters global wearables race",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.reuters.com/world/china/alibaba-starts-selling-quark-ai-glasses-china-enters-global-wearables-race-2025-11-27/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Alibaba's AI glasses to rival Meta go on sale for $500",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUU8tS2xyM3VlM2NTcEJqOVJ0VGxtUzlhbnlUeklsSTRXUVRwN0x2LTU5QTBOUmNCZnVTVnd5MjBSU1ZPN1pYVzFaSDF3WmpGWnFSWUktd0gtT2o0dmFOWjhBSmZCckdwRDlfM1BLTVZMc2daLWZoVzVBb0dacnhnMDZxc0dkdU5jOGdiWNIBkgFBVV95cUxQNlBhUXk5OXBsU1JWeGdYcGxPbHhWR1pYdE9pZTVCaVAyVlBsRGVOVGY4aEcwcmNPaDVvLWRYaGxUMzAtWlh2TGdQMU1JNTZpOU1QRkIzamN5YzNHNERmMnFSeU1qalF6WWtlbVRaRDhUX1NJRlVNc19oQzFJNlpkTzJORTdtRTZZTWc0S3NKQ0lVUQ?oc=5",
-      "pub_date": 1764234427.0,
-      "article_url": "https://www.cnbc.com/2025/11/27/alibaba-quark-ai-glasses-go-on-sale-price-specs.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108177567-1753687050071-Alibaba_AI_glasses.jpg?v=1753690514&w=1920&h=1080",
-      "description": "Alibaba, like other tech giants such as Meta, are betting that smart glasses could be the next big consumer device after the smartphone."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T01:49:45.062087+00:00"
+  "fetched_at": "2025-11-28T03:04:02.973141+00:00"
 }

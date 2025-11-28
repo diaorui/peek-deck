@@ -13,6 +13,17 @@
       "description": "Chinese students are out here creating machine-generated butterflies\u2026 Like\u2014this isn\u2019t nature anymore, it\u2019s engineering with \u2728vibes\u2728. I\u2019m officially impressed \ud83e\udd8b\ud83e\udd16"
     },
     {
+      "title": "Robot Dog Board Recommendation",
+      "author": "p0tato___",
+      "url": "https://www.reddit.com/r/robotics/comments/1p8im3x/robot_dog_board_recommendation/",
+      "published": 1764294131.0,
+      "thumbnail": "https://b.thumbs.redditmedia.com/aWAx3TNuFjBky6DpoQsovRZCVNl-uW6Tzd0sg7mHFes.jpg",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "What board should I install on this robot dog I created, and what direction should I take in its development? Please leave a comment.\ud83d\ude3c\ud83d\udc4d"
+    },
+    {
       "title": "AgileX unveiled a robotic arm two days ago: NERO. 3KG payload + 7DOF arm at $2500 without hand",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1p7za49/agilex_unveiled_a_robotic_arm_two_days_ago_nero/",
@@ -35,21 +46,10 @@
       "description": null
     },
     {
-      "title": "Robot Dog Board Recommendation",
-      "author": "p0tato___",
-      "url": "https://www.reddit.com/r/robotics/comments/1p8im3x/robot_dog_board_recommendation/",
-      "published": 1764294131.0,
-      "thumbnail": "https://b.thumbs.redditmedia.com/aWAx3TNuFjBky6DpoQsovRZCVNl-uW6Tzd0sg7mHFes.jpg",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "What board should I install on this robot dog I created, and what direction should I take in its development? Please leave a comment.\ud83d\ude3c\ud83d\udc4d"
-    },
-    {
-      "title": "Which robotics jobs to look out for and how to prepare for it?",
-      "author": "itzok27",
-      "url": "https://www.reddit.com/r/robotics/comments/1p87zbx/which_robotics_jobs_to_look_out_for_and_how_to/",
-      "published": 1764264572.0,
+      "title": "Slambot - My custom built 'diff-drive' ROS2 powered robot which does SLAM mapping and autonomous navigation.",
+      "author": "BenM100",
+      "url": "https://www.reddit.com/r/robotics/comments/1p802s8/slambot_my_custom_built_diffdrive_ros2_powered/",
+      "published": 1764243358.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
@@ -57,10 +57,10 @@
       "description": null
     },
     {
-      "title": "Slambot - My custom built 'diff-drive' ROS2 powered robot which does SLAM mapping and autonomous navigation.",
-      "author": "BenM100",
-      "url": "https://www.reddit.com/r/robotics/comments/1p802s8/slambot_my_custom_built_diffdrive_ros2_powered/",
-      "published": 1764243358.0,
+      "title": "Which robotics jobs to look out for and how to prepare for it?",
+      "author": "itzok27",
+      "url": "https://www.reddit.com/r/robotics/comments/1p87zbx/which_robotics_jobs_to_look_out_for_and_how_to/",
+      "published": 1764264572.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
@@ -112,5 +112,5 @@
       "description": "Hello, can anyone please help me think larger? For my high school senior year capstone project, I am planning on making a device that accurately detects the flood inside the house, and when reached a certain threshold (water height), immediately (1), sends sms to the home owner, (2), immidiately turns off electricity inside the house. (3, extremely tentative) opens emergency exits, before shutting power. Here in the Philippines, city power takes hours to turn off the power in certain flooded areas, due to recent typhoons, floods can reach 3 ft in urban areas in as fast as 30 minutes. People are heavily prone to electrocution. Some homes even has no breaker system (they're called \"jumpers\", wherein they steal electricity from other homes.) I need something more innovative in addition to what's already in the table, our instructor gave us until march to finish the scientific paper and the main prototype. Any suggestions? Thanks in advance! -Rin"
     }
   ],
-  "fetched_at": "2025-11-28T01:49:32.043632+00:00"
+  "fetched_at": "2025-11-28T03:03:43.712799+00:00"
 }
