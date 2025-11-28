@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16719",
       "arxiv_url": "https://arxiv.org/abs/2511.16719",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16719.png",
-      "upvotes": 86,
+      "upvotes": 87,
       "num_comments": 4,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2511.19575",
       "arxiv_url": "https://arxiv.org/abs/2511.19575",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.19575.png",
-      "upvotes": 14,
+      "upvotes": 15,
       "num_comments": 2,
       "published_at": "2025-11-24T12:59:59.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/HunyuanOCR",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-28T14:52:46.248903+00:00"
+  "fetched_at": "2025-11-28T15:58:28.480420+00:00"
 }
