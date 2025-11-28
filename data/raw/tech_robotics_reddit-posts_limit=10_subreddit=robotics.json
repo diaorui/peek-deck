@@ -24,6 +24,17 @@
       "description": "What board should I install on this robot dog I created, and what direction should I take in its development? Please leave a comment.\ud83d\ude3c\ud83d\udc4d"
     },
     {
+      "title": "Design of Omni Wheels",
+      "author": "Imaginary-End-1453",
+      "url": "https://www.reddit.com/r/robotics/comments/1p9149m/design_of_omni_wheels/",
+      "published": 1764351929.0,
+      "thumbnail": "https://b.thumbs.redditmedia.com/tOaZe7yeCJvBSltTohdWvy7FB_EmdAWEJv-3cBLfHDU.jpg",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi! I'm extremely new to robotics but as part of a competition I was entering for amateur school students, we were planning on using omni wheels (not mecanum but instead the wheels with rollers patterned around). I (as I have some CAD experience) have been given the duty of designing these in Fusion 360, however, I'm not 100% sure on the attachment mechanism for the rollers and the pins. Taking some inspiration from a blog post (see image down below) I wanted to do a similar thing. However I have a few questions.... how are the rollers kept from moving along the axle pin and how is the axle pin made stable, I'm just not sure how to design it. Notes: even though I am taking inspiration from the diagram , I am not specifically talking about how it works in the diagram as I know that may be hard to diagnose, I am speaking more generally I have attempted something myself (see second photo) but the roller and roller pin was all one, which I realised wouldnt work as the dimensions for the pin fit exactly which would not allow it to rotate and if it was loose it would be useless. Sorry for my spaghetti ADHD writing! Any help appreciated! Thank youuuuuu. https://preview.redd.it/7zqu8v1vb14g1.png?width=1764&format=png&auto=webp&s=d0d0173042305196e65f9c4c981d93a11df82fce https://preview.redd.it/ota6d4g0c14g1.png?width=1090&format=png&auto=webp&s=ded73ccc834ff9e79e1357e2b730ad15f32cfbae"
+    },
+    {
       "title": "butterfly robot!",
       "author": "whatever_0709",
       "url": "https://www.reddit.com/r/robotics/comments/1p7u6wz/butterfly_robot/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Hi r/robotics, I'm part of a team developing an AI agentic robot, and we're conducting early-stage research. We're looking for honest technical feedback from people who understand robotics systems, LLM integration, and hardware development. Core technical approach: LLM-driven streaming orchestration that enables reasoning-while-acting (not pre-scripted behavior trees) Memory-personality framework for dynamic character development Modular hardware architecture - the intelligence core can be ported across different physical platforms Multi-component coordination (limbs, displays, audio I/O) through parallel/sequential execution logic Current prototype: Quadruped desktop robot with 12 servo motors, multimodal I/O (camera, mic, speaker, display). The survey includes a technical preview video showing the system in action - real-time generative motion and natural language control, not cherry-picked demos. Why we're here: We need reality checks from practitioners. What we're really asking: Does this approach solve problems you actually care about? What are the deal-breakers or red flags? Where would you want extensibility vs. polish? Would you engage with an open development community around this? The survey (5-7 min) covers technical priorities, implementation concerns, pricing sensitivity, and community ecosystem interest. Survey Link: https://docs.google.com/forms/d/e/1FAIpQLScDLqMYeSSLKSowCh-Y3n-22_hiT6PWNiRyjuW3mgT67e4_QQ/viewform?usp=dialog This is genuine early research - critical feedback is more valuable than enthusiasm. Happy to discuss technical details in comments."
-    },
-    {
-      "title": "How to you guys sell robot parts usually?",
-      "author": "Over-Pair7650",
-      "url": "https://www.reddit.com/r/robotics/comments/1p8lmmk/how_to_you_guys_sell_robot_parts_usually/",
-      "published": 1764303779.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-11-28T17:43:54.647268+00:00"
+  "fetched_at": "2025-11-28T18:29:44.849332+00:00"
 }
