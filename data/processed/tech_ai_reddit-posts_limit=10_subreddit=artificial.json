@@ -101,16 +101,16 @@
       "description": null
     },
     {
-      "title": "Security Flaws in DeepSeek-Generated Code Linked to Political Triggers | \"We found that when DeepSeek-R1 receives prompts containing topics the CCP likely considers politically sensitive, the likelihood of it producing code with severe security vulnerabilities increases by up to 50%.\"",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1p83831/security_flaws_in_deepseekgenerated_code_linked/",
-      "published": 1764252879.0,
+      "title": "If You Use AI, You Will Be Left Behind",
+      "author": "creaturefeature16",
+      "url": "https://www.reddit.com/r/artificial/comments/1p8wydf/if_you_use_ai_you_will_be_left_behind/",
+      "published": 1764342049.0,
       "thumbnail": null,
-      "external_url": "https://www.crowdstrike.com/en-us/blog/crowdstrike-researchers-identify-hidden-vulnerabilities-ai-coded-software/",
-      "site_name": "crowdstrike.com",
-      "favicon": "https://www.crowdstrike.com/etc.clientlibs/crowdstrike/clientlibs/crowdstrike-common/resources/favicon.ico",
-      "description": "CrowdStrike researchers reveal how trigger words cause DeepSeek-R1 to generate vulnerable code\u2014exposing new AI-driven risks in software development."
+      "external_url": "https://www.bcionescu.com/posts/if-you-use-ai-you-will-be-left-behind",
+      "site_name": "bcionescu.com",
+      "favicon": "https://www.bcionescu.com/favicon.ico",
+      "description": "Since ChatGPT blew up a few years ago, the phrase 'Learn to use AI, or be left behind' has been repeated adnauseum. I wonder how little experience someone must have with learning to seriously advance this idea."
     }
   ],
-  "fetched_at": "2025-11-28T14:41:11.399497+00:00"
+  "fetched_at": "2025-11-28T15:15:48.176179+00:00"
 }
