@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "MIT study finds AI can already replace 11.7% of U.S. workforce",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUVibzRUdk5hYUE4WVk0eThiRWt3S2MzVGRCc0lfWkRsMU85bTBsYWJxX3RlYVc5ekhqcGJobDYtbEpJSmpvTERJU3k5VzhJSExIS3dmZ0w4dWpiRlpjZzk1RFBYR3JnNUFXZHpvYjZHYVRYM3pTaHZoNDU4TlpDbWRCMTE1ZGNPSHB5Qzh1a3NRNWw5Qkg1SEZ3WjJ4dDVIcC1ZeWNEQXZza1nSAbABQVVfeXFMUENGUGUxOV9sUEdJSWpyN2JmNU9DWk8wZEY2cFJ0N2RuRmxGVVVEcy12VlNjNGRQb1Jqa3dGNFZobV9CNmtIRF9KcHBzeFk4S1JmYUI4dFB2RFJhN0pJc0hKT2UzckJQZFlJamhoZnloczJyTnp0RkVKNmdVTzBzenFLUGtmQ2YyRmFwUHF1OE8tZUFCQTB5aWdQeVVpVWE2SjB6Z3dDaml0clJ3Rk1KeDk?oc=5",
+      "pub_date": 1764169201.0,
+      "article_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108232119-1764112994142-gettyimages-2209860667-AFP_42FT68T.jpeg?v=1764166052&w=1920&h=1080",
+      "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
+    },
+    {
       "headline": "A.I. and the Trillion-Dollar Question",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -25,34 +35,34 @@
       "description": "The company's Gemini 3 and Ironwood AI chip are driving Wall Street's excitement behind Alphabet's AI comeback, but challenges remain."
     },
     {
+      "headline": "MediaTek Shares Eye Best Week in 23 Years on Google AI Progress",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkVxOHhNYmoxbFhJaVRjZkZ3bjFCQlh6SkFyTHBlUXZmR2dtWHFCRDRjOXZLUUFFQnl6aXpsVmxvZll1VXRQTFl4RTdfU1RLQlFVaGtmTmVVaWs3WmswRGxnTFV1Y2tRazRLZG4td3VYX3djZ19PX09pVDQzVjR1c1ZPU1AtU3I5cmJSNUpUMlV1Mzd2QjE3RFB5cFpIUUdBZ292SVJvREZzdWNrTjhRZGtQMnQ?oc=5",
+      "pub_date": 1764315120.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-28/mediatek-shares-eye-best-week-in-23-years-on-google-ai-progress",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "TPU Takes AI Trade By Storm. What to Know About Google\u2019s AI Chip.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxOWTdIZlkzSjAzeGdXZFVXVzAxaHc0aFJVZGxuTEJoZXF0dXEySERaQVc3NUhTWGp6djhlQzRSeEpmQWZHRmNfcVcyY3ZtVU40U2YtRW9tdVlDdjdSd3c3REtEUkpBbldZNVVRY0I2UHB2TUkya0cxQ2RFSUxjdTZiMEFiNF90RTBKeF94Ni1QeHpscWlmS1B4Ymt4OXAxalNaTTNXaDlhSHp3b0lla2huYjhtMnU0RDRJQ19Uaktrd3VSbFU2aVZ3SHlzTzNqWUhLbnluZHF0dWJRQ1RvUFBWWFNmdjk0b0xrU05ZNUc1Nks5Q3hWanUzaW1QRzY5ZVhjSlpvLXJIZGw3MG10YWUwcWk3VGtPSnYtQzBtUVlmQl9XU1pRY0pkbGJGc1hJeXU1UVRXNDBQc2F5LVlidTVTWURJTlUzNjMyNUtTOWVRU3BUdWFReXJwTGtpWjh0R0dyeGpURHhfak1rdFdWMzdmNVJ1OXNJNGFWR21LSUZfRXlzQ3ZROFp1NmdvczFRQU5EZGZoNTVYblRZTG9xQTNDcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxOU21fNTlHWVlsdzZMbjVxRDN6YVl5SUdyTkFmUHFFSEJwTUdoU1J1VVpRQXNiWFdKZWpvVUxkWTZGUWYyTEhfR05DWWo3NGtpQXJqSXNnRjdzUEFhdHhaV1FoUEpkWDBOOEx6M0h3dlBFSTFRbHF3NEUzNzIyclhEWktTNkY0akFNNndxMGFaYmx2eWpfQm5WOGliTGhnaWFhNGYzVks4TGk0eEtkdTREV285aGM4cjdJZnAzU2lPbm9xT29ET2pmMDh3cnVzNjk1bVBXeDVhMHk5amJGMlV3Z0VvNFRDYldJUkxsbl9aU1J5Z2VrWFBLcFpXUy1reElZQW94bXk3MWFULVpqTWhfNC0xaGRJQVAyWnJVa05oNXlTc1dOcVdNODdmeTFOVnZKU2ZIVGdSaHBoZlczVkNPUXNDZ2FQajB3M2lFTk8wb0JGU2dvUUdPWGRvZG56MjBUMFF3dWpDYVM2ckxSMmZIUWtPcUtSaEFLX0RYSjRUbkhSem01bFB1dXVsN3dFb3gtZXdsdE1YNktoSXRIS1Z6TQ?oc=5",
       "pub_date": 1764315000.0,
-      "article_url": "https://www.barrons.com/articles/google-tpu-vs-nvidia-gpu-ai-stocks-93dc908f?mod=article_inline&gaa_at=eafs&gaa_n=AWEtsqcw7ztUs1axUY9Jw3hFB2T6tRuia8rzwR9mfL-mt99Slvk7dytyroAo&gaa_ts=6929537a&gaa_sig=cv7GjEo7pfLvARgUbwbQ9CRXtruBhNUrrcYqwPxx_GPUd-8m0jaU3HyEpNM1lHlVMDmKcinAtA24wVoX4IdVMQ%3D%3D",
+      "article_url": "https://www.barrons.com/articles/google-tpu-vs-nvidia-gpu-ai-stocks-93dc908f?mod=article_inline&gaa_at=eafs&gaa_n=AWEtsqdxjwn2Wxc4x7_EdHbwMJyOR4fMu77ih4bXGuS6fI6rCOR_GWqp9FBO&gaa_ts=69296172&gaa_sig=Oj8VTRih_O05WTisEuMQd22jbzu6Xt4nfg9idXI6s7JYWTeHJLrSSM_TOX8BsCpCJWXXPSCI2qNNw2q_19mq_Q%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Japan to Spend $2 Billion on AI, Semiconductors in Extra Budget",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM3NiVmJXRjJXZW5WZlpXZkI4UnZQNi0wQVRpZnNQMWgtcVJCSHdBY3VaeGNrQ2pFb202ZlFkS19ubUFqLVBrd3p2TWstRUhURDE2ZXpNZGxRMHY2dFBYZDNMdEV0UEpDUmxwOE1BSy1NOEFpejdBVEM4M2J6a1NLbTlkTC1IMXdqY1NocUlYOHpSYWJPbHZhSkJLdjMxRDFsbWZCZ3pmNGpXZ1hCQk00WUxR?oc=5",
-      "pub_date": 1764312000.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-28/japan-to-spend-2-billion-on-ai-semiconductors-in-extra-budget",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Exclusive: Gravis Robotics raises $23M to tackle construction\u2019s labor shortage with AI-powered machines",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQm5vRDlCbTBCd0Nrc003SGxXa3otN1VTZkYwa0xuaUVoOXZocWVmaU5oaFA2LUNmd1FBRXBpUWtBS2xOb29QYVVnSE42QjN0NUFyWUh1MlkySFY0WmFwSGQ1bkw1RWNSSHhGc2hrRTYzeE1VWmM1Sl9IMlBzV1lmN2pTUTBEUzVIWUVYbTZ2dk1mUnVCQnpkUkZhWmFiXzh2WGYzTGdkNTFfbjZvc214TzktYw?oc=5",
-      "pub_date": 1764313200.0,
-      "article_url": "https://fortune.com/2025/11/28/gravis-robotics-fundraise-23m-construction-labor-shortage-ai-automation-equipment/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/09_Gravis_Ryan_and_Dominicjpg.jpeg?resize=1200,600",
-      "description": "The Swiss startup is aiming to automate construction equipment as the industry faces a severe shortage of skilled operators and surging demand."
+      "headline": "An OpenAI exec explains how his growing team helps companies move from AI hype to adoption",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPekFxbVVRMEFGSzJXTzQxX3otNjN1SGFuQUt4dXlmaW5TNzlmdjV1ZmxCVVRZNWxZbGs2a0FNTUhxSnJ3WWlNUC1GNHNmSXJCM2ZyTzFJX2FPQm5fT3lrNHFCWlhCZ0htM3BYMFNfallmYjNtYm5lVlQ4UmZxTDBOV2I1ZWFNc3dQTlNrdDZmUUxjeDhuVHJ1YkRKc09nQQ?oc=5",
+      "pub_date": 1764316800.0,
+      "article_url": "https://www.businessinsider.com/openai-forward-deployed-engineer-ai-adoption-colin-jarvis-2025-11",
+      "image": "https://i.insider.com/692941cb89026fbb4d0e9492?width=1200&format=jpeg",
+      "description": "OpenAI's head of forward-deployed engineering explains how his team works inside companies to turn AI into real deployments."
     },
     {
       "headline": "MAGA is divided over the promise and perils of AI",
@@ -75,36 +85,26 @@
       "description": "Chipmaker Nvidia posted yet another blockbuster earnings report this month."
     },
     {
-      "headline": "MIT study finds AI can already replace 11.7% of U.S. workforce",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUVibzRUdk5hYUE4WVk0eThiRWt3S2MzVGRCc0lfWkRsMU85bTBsYWJxX3RlYVc5ekhqcGJobDYtbEpJSmpvTERJU3k5VzhJSExIS3dmZ0w4dWpiRlpjZzk1RFBYR3JnNUFXZHpvYjZHYVRYM3pTaHZoNDU4TlpDbWRCMTE1ZGNPSHB5Qzh1a3NRNWw5Qkg1SEZ3WjJ4dDVIcC1ZeWNEQXZza1nSAbABQVVfeXFMUENGUGUxOV9sUEdJSWpyN2JmNU9DWk8wZEY2cFJ0N2RuRmxGVVVEcy12VlNjNGRQb1Jqa3dGNFZobV9CNmtIRF9KcHBzeFk4S1JmYUI4dFB2RFJhN0pJc0hKT2UzckJQZFlJamhoZnloczJyTnp0RkVKNmdVTzBzenFLUGtmQ2YyRmFwUHF1OE8tZUFCQTB5aWdQeVVpVWE2SjB6Z3dDaml0clJ3Rk1KeDk?oc=5",
-      "pub_date": 1764169201.0,
-      "article_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108232119-1764112994142-gettyimages-2209860667-AFP_42FT68T.jpeg?v=1764166052&w=1920&h=1080",
-      "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
+      "headline": "Ranked: AI Hallucination Rates by Model",
+      "source": "Visual Capitalist",
+      "source_url": "https://www.visualcapitalist.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjg3RWRaWnMtYjlldmhhcThIYU13RDR4THpfaGkySXdZV0dkd1lIbERxdXozZk9WdExjRmNuc0ZjRlJKM1RkY2xZc0tlZDRlcUNoXzhzZTY0ZzcxZmZuS25yMGx3dmFOdUxGNjJ0WDEzbHFUX1huN281M1ZjVXp5eWhNeG9qcUpo?oc=5",
+      "pub_date": 1764258060.0,
+      "article_url": "https://www.visualcapitalist.com/sp/ter02-ranked-ai-hallucination-rates-by-model/",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "MIT report: AI can already replace nearly 12% of the U.S. workforce",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUndPWDZoWmh5UHEyUHdoY0ZoekVFWHRmX3E5UThHZmxUU0JNTE5lb2FfdXdMU1pLNmJTS09STGFlU3UtUG1ZeU94eW1mVEJHR25pQ1l5UnkxNEd4V0wwNzJuQzI1czJwQ1RFWGF6UlBQVk1pTzdldGVhRlpwRXRNcHgtRDY4cTJJTVZ6a0U5UFVhRURzWGVDOFd1Zw?oc=5",
-      "pub_date": 1764241380.0,
-      "article_url": "https://fortune.com/2025/11/27/mit-report-ai-can-already-replace-nearly-12-of-the-us-workforce/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236544323.jpg?resize=1200,600",
-      "description": "The window to treat AI as a distant future issue is closing."
-    },
-    {
-      "headline": "AI can already do the work of 12% of America's workforce, MIT researchers find",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44UF9fODFDSXVRY0g2eGR2OUZDeWJNNXkyazdpTXBiaVFVcU1nazhnMU5FZjJOX3JIN09HZDgyM3RQa3pLV1B4RThrTUNtWEQ3YkRzOVo4YjMtdlFIWjh3aXk1Wk11RTVTck1TU3Y2X3BXYnYtSjBlWmR5Z09vZ2PSAYQBQVVfeXFMTWxzZTJtZkdtRk9TVG9rb2hoN2xqU2dJZXAxd3M4Yi1HTXl6NkVxeUtaeDFhN0JTU21IcVBLUXpLMUlKX2RvV3NVcVEwMDhqZmJWS0d3NGVtbXcxVFYybjdMeFhONnBHblhCT3otVXI1RjdrOWhzX2lOTE9EMHRicXdTMG1n?oc=5",
-      "pub_date": 1764197820.0,
-      "article_url": "https://www.cbsnews.com/news/ai-artificial-intelligence-workers-mit-study/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/26/1a6fc6cd-ea80-4468-977a-7a46e4002cbb/thumbnail/1200x630/c93034e11ba8c92f4d25914d01b97e08/gettyimages-2234175849.jpg",
-      "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
+      "headline": "Deepening our AI research partnership with Tel Aviv University",
+      "source": "The Keyword",
+      "source_url": "https://blog.google",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZmxiNUg5RzdQa2lrdURfUDk3djVUYU1jNW5OOWt0UGlDckJVX190T1BKdUpaSV9nRmlkTVdsNWJrbWl3S0V1QXYzRlFjakJwb05jZDlwT3JBWlNjdWRLeWdpbVRYZmx1S1g3dnJiY1hQQmphTEl1QXdHVUpLZDlnMlE4ZWpnNWoyMWptdTdFVXhJLVZJakdia1REZHFOUGZaMFZTdnEtY3I3REtzMjJsMi1qNERFdw?oc=5",
+      "pub_date": 1764231686.0,
+      "article_url": "https://blog.google/outreach-initiatives/google-org/deepening-our-ai-research-partnership-with-tel-aviv-university/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20251126-WA0007_Tj62OQg.width-1300.jpg",
+      "description": "Google and Tel Aviv University (TAU) have a history of substantial partnership. Formalized in 2020, the Google-TAU partnership has since led to successful collaborations\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T07:32:37.483072+00:00"
+  "fetched_at": "2025-11-28T08:32:06.254988+00:00"
 }
