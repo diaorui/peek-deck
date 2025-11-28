@@ -5,36 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "MIT report: AI can already replace nearly 12% of the U.S. workforce",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUndPWDZoWmh5UHEyUHdoY0ZoekVFWHRmX3E5UThHZmxUU0JNTE5lb2FfdXdMU1pLNmJTS09STGFlU3UtUG1ZeU94eW1mVEJHR25pQ1l5UnkxNEd4V0wwNzJuQzI1czJwQ1RFWGF6UlBQVk1pTzdldGVhRlpwRXRNcHgtRDY4cTJJTVZ6a0U5UFVhRURzWGVDOFd1Zw?oc=5",
-      "pub_date": 1764241380.0,
-      "article_url": "https://fortune.com/2025/11/27/mit-report-ai-can-already-replace-nearly-12-of-the-us-workforce/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236544323.jpg?resize=1200,600",
-      "description": "The window to treat AI as a distant future issue is closing."
-    },
-    {
-      "headline": "MIT study finds AI can already replace 11.7% of U.S. workforce",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUVibzRUdk5hYUE4WVk0eThiRWt3S2MzVGRCc0lfWkRsMU85bTBsYWJxX3RlYVc5ekhqcGJobDYtbEpJSmpvTERJU3k5VzhJSExIS3dmZ0w4dWpiRlpjZzk1RFBYR3JnNUFXZHpvYjZHYVRYM3pTaHZoNDU4TlpDbWRCMTE1ZGNPSHB5Qzh1a3NRNWw5Qkg1SEZ3WjJ4dDVIcC1ZeWNEQXZza1nSAbABQVVfeXFMUENGUGUxOV9sUEdJSWpyN2JmNU9DWk8wZEY2cFJ0N2RuRmxGVVVEcy12VlNjNGRQb1Jqa3dGNFZobV9CNmtIRF9KcHBzeFk4S1JmYUI4dFB2RFJhN0pJc0hKT2UzckJQZFlJamhoZnloczJyTnp0RkVKNmdVTzBzenFLUGtmQ2YyRmFwUHF1OE8tZUFCQTB5aWdQeVVpVWE2SjB6Z3dDaml0clJ3Rk1KeDk?oc=5",
-      "pub_date": 1764169201.0,
-      "article_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108232119-1764112994142-gettyimages-2209860667-AFP_42FT68T.jpeg?v=1764166052&w=1920&h=1080",
-      "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
-    },
-    {
-      "headline": "AI can already do the work of 12% of America's workforce, MIT researchers find",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44UF9fODFDSXVRY0g2eGR2OUZDeWJNNXkyazdpTXBiaVFVcU1nazhnMU5FZjJOX3JIN09HZDgyM3RQa3pLV1B4RThrTUNtWEQ3YkRzOVo4YjMtdlFIWjh3aXk1Wk11RTVTck1TU3Y2X3BXYnYtSjBlWmR5Z09vZ2PSAYQBQVVfeXFMTWxzZTJtZkdtRk9TVG9rb2hoN2xqU2dJZXAxd3M4Yi1HTXl6NkVxeUtaeDFhN0JTU21IcVBLUXpLMUlKX2RvV3NVcVEwMDhqZmJWS0d3NGVtbXcxVFYybjdMeFhONnBHblhCT3otVXI1RjdrOWhzX2lOTE9EMHRicXdTMG1n?oc=5",
-      "pub_date": 1764197820.0,
-      "article_url": "https://www.cbsnews.com/news/ai-artificial-intelligence-workers-mit-study/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/11/26/1a6fc6cd-ea80-4468-977a-7a46e4002cbb/thumbnail/1200x630/c93034e11ba8c92f4d25914d01b97e08/gettyimages-2234175849.jpg",
-      "description": "AI is swiftly reshaping America's labor market, performing many technical and cognitive tasks across a range of industries, study says."
-    },
-    {
       "headline": "How Google put together the pieces for its AI comeback",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -45,24 +15,24 @@
       "description": "The company's Gemini 3 and Ironwood AI chip are driving Wall Street's excitement behind Alphabet's AI comeback, but challenges remain."
     },
     {
-      "headline": "Nvidia's Latest Beat Proves AI Isn't Cooling Off Yet, but Is the Chipmaker Still the Best AI Play?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVBOdnpKeXZTMjhJUTVyQy1TSzdYcHZsdEtVX2NaSHJ0VUlTTkdXeG8wMmpWY0NUdlA0U1JhNF9nVFhORFpOVjZGRXhOcVhOaS05SEo2X09kb2lrWWJaOTBWRTdWUUlXUTVlZVk3dWR1R1N4c04zX1ZjTUctczNCQ2VzcGcwNlNqamJ2TTVEN19KZ25QVWl5TA?oc=5",
-      "pub_date": 1764252000.0,
-      "article_url": "https://www.fool.com/investing/2025/11/27/nvidias-latest-beat-proves-ai-isnt-cooling-off-yet/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843686%2Fnvidia-headquarters-outside-with-black-nvidia-sign-with-nvidia-logo.jpg&w=1200&op=resize",
-      "description": "The GPU leader delivered better-than-expected results, and its guidance suggests that its impressive growth is not over."
+      "headline": "Nvidia Stock Could Be a Black Friday Bargain Amid Google AI Threat. Here\u2019s Why.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOSnd2Ri1Hb1V0M2VmeDVwZVNYVE1DNWJGLUQwalgwQTlISzhBTHBROVY5T1ZOZXd5Tk5LTjZRWk9qRGZxTEptdEhPM0lZcFRSal8xbHpMcDQ5WVRjaXMxSFdNNjJmOG1sS1g4UWprVElESW9QZVJnMXM4emdKSjJsQ2FibGZIQUlXSVhSV2VySlBaMmZZSnV6c2RoX1dtUEEycTk1YTRJMHhtdDVLRFBtN1VFWHpzX1pKZHZRUlprNnpPLUtWekxwTjh4dEhhQ0U3bTVnR3RRUUZGTDBUX1VVNl80S3NGZmhXSFY5amNsR0FWLWlsZ01yN3RDcy03czc3WTNqaG4xWWt2RUJFVHdKRmMxVUVFNWdKYXR3OG51WXpVczJhSDQwTE9ZVmJIZlJia1JMTDgyZHExTXN3dFUtT00xdFNKaUxkM0FJM1lNNF9NV25vVjVrd0hRYm9OOWNmMmZ0aGVRYmk5WHhnQzk2eXpNSHU5SWhOR3VSWFI2aGtmTTczdTBxZA?oc=5",
+      "pub_date": 1764244440.0,
+      "article_url": "https://www.barrons.com/articles/nvidia-stock-black-friday-google-ai-1814e46e?gaa_at=eafs&gaa_n=AWEtsqcIIQyeL7Pn0KVuyORk7uqgT-pOUUdY1RIqYpQVZs8ybCTIDs7mSJFo&gaa_ts=69293bea&gaa_sig=MqciY24vwysvJ6kDCGakGa9ZHVNMuCJTQilv_YUZHDPhtre6AUT0bBpbsja-3fiHVK_k1ZNrM9p3ytNRYl5Cvw%3D%3D",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Google\u2019s Gemini Upends AI Market; Nvidia, OpenAI, Musk Caught In The Shockwave",
-      "source": "livemint.com",
-      "source_url": "https://www.livemint.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWWl2X3JxNnpoV3lFR0EyWkpTYnVRUUNaVmNJZzJIeUZ2d1NsSHl6bFIwQ0xFUUF1bGpFeGxmTEVkNWNocVRzNUYtd2p4WkdNd1loVnhVV0k5M1lLVTVyZGRVN0NrejNyREp2d1RwWGNTV0pGVkZTS1dJNGlBNll3QkVEZzlxU1pibHdyM3lfeEI5R19rbGFIbGpnMXlSeHVCTFNtakJEcWFnMk5YaGdPZWE5eVlLd0NCYTZEakM3cV9UdGtONjZSYXVjeGNaUEhONkY1N1ZGZjBublMzRktWVE1n?oc=5",
-      "pub_date": 1764305798.0,
-      "article_url": "https://www.livemint.com/videos/companies/googles-gemini-upends-ai-market-nvidia-openai-musk-and-benioff-caught-in-the-shockwave-11764305718632.html",
-      "image": "https://www.livemint.com/lm-img/img/2025/11/28/600x338/hqdefault_1764305716766_1764305755357.jpg",
-      "description": "Google has officially flipped the AI game. With the launch of Gemini 3, Google has gone from underdog to industry dominator \u2014 shaking up the AI world and forcing rivals like Nvidia, OpenAI, Elon Musk\u2019s xAI, and even Salesforce CEO Marc Benioff to respond. This video breaks down how Google\u2019s all-out AI push is reshaping Big Tech: \u2022 How Gemini 3 challenges Nvidia\u2019s GPU dominance \u2022 What it means for OpenAI\u2019s ChatGPT ecosystem \u2022 Elon Musk\u2019s reaction and the \u201cGrok 4.20\u201d tease \u2022 Marc Benioff\u2019s viral \u201cHoly sh**\u201d moment \u2022 Why analysts say \u201cthe AI trade is splintering\u201d \u2022 Whether Google just triggered a full-scale AI arms race If Google continues at this pace, the entire AI landscape \u2014 from chips to cloud to consumer apps \u2014 is about to be rewritten. Buckle up."
+      "headline": "China's tech giants move AI model training overseas to access Nvidia chips, FT reports",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYzVJeTN5ZTBJZzJ2UXk5ZjluTUxKZC11aDdmRmdGWEtVLUF4TVdrQjVlWHoyY0pGakxyWlFNLWhQa0UtRk5NYUNyWktGSFdUbDk4Q3VGQlJoQlpDSTJ5aXRyOUdQQXU0dllKa2ZraUF4dFctM2o3ZkpFR1NrN29QTEZsUDhuanNOSVdTeUQxQzEtUnY2WHpDSWVZMGpJZ2dNQmE1N2xQekhnai01aFppcXNtb1NUNHpxN1g0a0RyS0k3eHUz?oc=5",
+      "pub_date": 1764239291.0,
+      "article_url": "https://www.reuters.com/world/china/chinas-tech-giants-move-ai-model-training-overseas-tap-nvidia-chips-ft-reports-2025-11-27/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "A.I. and the Trillion-Dollar Question",
@@ -85,14 +55,14 @@
       "description": null
     },
     {
-      "headline": "Overheard in the Media Agency Report: How Assembly, IPG, Horizon and others use AI and will spend on ads in 2026",
-      "source": "Digiday",
-      "source_url": "https://digiday.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdWduQnRKVjFBLVViSDVhSmE2UkRhajFTN0RuWE1VRV9qRVhOQU1NdnNzU2tyTnRrTWVlSnZXaE95WEhVSkN3RVpkeDdNRTZ5Z0xzRlNYaVRkY0M1UURJOUdrWmU4MXZjSVM5a3RuR20wWWNNc3pwb0gwV3owX0RpSjlsdFI2VnprV0trRlhqTE9fUXAxaF9ENmJ1RHFDQ09WcER4bmJSZmdHQ1VVOHZIY0p6akxhcUdNMDV2T2MtXy12bkszOXplSng5Nmg2eHAyWFV0UnBLaXNzY0k?oc=5",
-      "pub_date": 1764306227.0,
-      "article_url": "https://digiday.com/media-buying/overheard-in-the-media-agency-report-how-assembly-ipg-horizon-and-others-use-ai-and-will-spend-on-ads-in-2026/",
-      "image": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-marketer-digiday-1.jpg",
-      "description": "Assembly, IPG and Horizon execs discuss how the GDP and international sports could impact 2026 spend and how agencies and their clients are actually applying AI tools."
+      "headline": "Watch Asia in the AI Money Machine",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZHlDYTBjWk1Yc0NIUUZoNnJSc2NJQ3R4bEZEbUo2YS1BanEwTDE2bDRqXzlCNDI0akhFWWVzRGNEQWJnTDJRNjlnOFdDZ3Z2d1NwbFVCSU1Gbm0yZHJXbERFZnlDRVpxV0NRYzVaLWdyVXBncVNDbVExR2hUcVFCdVozaw?oc=5",
+      "pub_date": 1764307020.0,
+      "article_url": "https://www.bloomberg.com/news/videos/2025-11-28/asia-in-the-ai-money-machine",
+      "image": null,
+      "description": null
     },
     {
       "headline": "MAGA is divided over the promise and perils of AI",
@@ -103,8 +73,38 @@
       "article_url": "https://www.economist.com/united-states/2025/11/27/maga-is-divided-over-the-promise-and-perils-of-ai",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "What bubble? The analysts and investors making the bull case for AI",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZdW9jdTZKYlhqbUdTbERKdUFnQmpKZXVRU1M5SGxXazRfLTd1RHdkaVYxS3Y2YndQTGllTDMyUDFOUzA0MVpaY3JCeHpwWGExbmg1UElhM1BtWWhubGxKZzV2Yjg5czNpazVqYWlSeWRtdw?oc=5",
+      "pub_date": 1764246659.0,
+      "article_url": "https://www.cnn.com/2025/11/27/tech/ai-bubble-analysts-bull-case",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2243507246.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Chipmaker Nvidia posted yet another blockbuster earnings report this month."
+    },
+    {
+      "headline": "MIT report: AI can already replace nearly 12% of the U.S. workforce",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUndPWDZoWmh5UHEyUHdoY0ZoekVFWHRmX3E5UThHZmxUU0JNTE5lb2FfdXdMU1pLNmJTS09STGFlU3UtUG1ZeU94eW1mVEJHR25pQ1l5UnkxNEd4V0wwNzJuQzI1czJwQ1RFWGF6UlBQVk1pTzdldGVhRlpwRXRNcHgtRDY4cTJJTVZ6a0U5UFVhRURzWGVDOFd1Zw?oc=5",
+      "pub_date": 1764241380.0,
+      "article_url": "https://fortune.com/2025/11/27/mit-report-ai-can-already-replace-nearly-12-of-the-us-workforce/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2236544323.jpg?resize=1200,600",
+      "description": "The window to treat AI as a distant future issue is closing."
+    },
+    {
+      "headline": "MIT study finds AI can already replace 11.7% of U.S. workforce",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUVibzRUdk5hYUE4WVk0eThiRWt3S2MzVGRCc0lfWkRsMU85bTBsYWJxX3RlYVc5ekhqcGJobDYtbEpJSmpvTERJU3k5VzhJSExIS3dmZ0w4dWpiRlpjZzk1RFBYR3JnNUFXZHpvYjZHYVRYM3pTaHZoNDU4TlpDbWRCMTE1ZGNPSHB5Qzh1a3NRNWw5Qkg1SEZ3WjJ4dDVIcC1ZeWNEQXZza1nSAbABQVVfeXFMUENGUGUxOV9sUEdJSWpyN2JmNU9DWk8wZEY2cFJ0N2RuRmxGVVVEcy12VlNjNGRQb1Jqa3dGNFZobV9CNmtIRF9KcHBzeFk4S1JmYUI4dFB2RFJhN0pJc0hKT2UzckJQZFlJamhoZnloczJyTnp0RkVKNmdVTzBzenFLUGtmQ2YyRmFwUHF1OE8tZUFCQTB5aWdQeVVpVWE2SjB6Z3dDaml0clJ3Rk1KeDk?oc=5",
+      "pub_date": 1764169201.0,
+      "article_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108232119-1764112994142-gettyimages-2209860667-AFP_42FT68T.jpeg?v=1764166052&w=1920&h=1080",
+      "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T05:19:41.241287+00:00"
+  "fetched_at": "2025-11-28T05:51:58.900865+00:00"
 }

@@ -79,6 +79,17 @@
       "description": null
     },
     {
+      "title": "How do you even label unexpected behavior in the real world?",
+      "author": "Mtukufu",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7xg2l/how_do_you_even_label_unexpected_behavior_in_the/",
+      "published": 1764233469.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "It\u2019s fairly straightforward to label training data when everything happens in a clean, controlled environment. But once you step into real-world robotics, the situation becomes messy fast. There are weird edge cases, rare events, unexpected collisions, unpredictable human interactions, drifting sensors, and all kinds of unknowns that don\u2019t show up in simulation. Manually reviewing and labeling every single one of these anomalies is incredibly slow and resource-intensive. For those working with embodied AI, manipulation, locomotion, or autonomous navigation, how do you realistically keep up with labeling this chaotic real-world data? Are you using automated labeling tools, anomaly detectors, heuristics, synthetic augmentation, active learning, or just grinding through manual review? Curious to hear how other teams are approaching this."
+    },
+    {
       "title": "DC motor or actuator type",
       "author": "dgtldan",
       "url": "https://www.reddit.com/r/robotics/comments/1p83z7t/dc_motor_or_actuator_type/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Knucklebuster arm prototype test, its a test torso that i Will upgrade till It resembles v1. The arm has one nema 17 stepper motor in the upper arm and a nema 14 at the middle, maybe i'll use a Raspberry pi 5 with ai for controlling everything but, i'm open to suggestions!"
-    },
-    {
-      "title": "How do you even label unexpected behavior in the real world?",
-      "author": "Mtukufu",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7xg2l/how_do_you_even_label_unexpected_behavior_in_the/",
-      "published": 1764233469.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "It\u2019s fairly straightforward to label training data when everything happens in a clean, controlled environment. But once you step into real-world robotics, the situation becomes messy fast. There are weird edge cases, rare events, unexpected collisions, unpredictable human interactions, drifting sensors, and all kinds of unknowns that don\u2019t show up in simulation. Manually reviewing and labeling every single one of these anomalies is incredibly slow and resource-intensive. For those working with embodied AI, manipulation, locomotion, or autonomous navigation, how do you realistically keep up with labeling this chaotic real-world data? Are you using automated labeling tools, anomaly detectors, heuristics, synthetic augmentation, active learning, or just grinding through manual review? Curious to hear how other teams are approaching this."
     }
   ],
-  "fetched_at": "2025-11-28T05:19:19.471349+00:00"
+  "fetched_at": "2025-11-28T05:51:40.405694+00:00"
 }
