@@ -13,17 +13,6 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
-      "title": "Ethereal news weekly #0 | Gas limit increased to 60M, Fusaka upgrade December 3, FOCIL not in Glamsterdam upgrade",
-      "author": "abcoathup",
-      "url": "https://www.reddit.com/r/ethereum/comments/1p8szlr/ethereal_news_weekly_0_gas_limit_increased_to_60m/",
-      "published": 1764330756.0,
-      "thumbnail": "https://external-preview.redd.it/2zyY6e5Mf5R63ELydbdrYjrz_yIBJn5i9-GpP66kmzM.jpeg?width=640&crop=smart&auto=webp&s=5a0bcc467e92ab01c45c72e2085e5e0169e799e6",
-      "external_url": "https://ethereal.news/ethereal-news-weekly-0/",
-      "site_name": "ethereal.news",
-      "favicon": "https://ethereal.news/favicon.svg",
-      "description": "Gas limit increased to 60M, Fusaka upgrade December 3, FOCIL not in Glamsterdam upgrade"
-    },
-    {
       "title": "Honest Opinions About Crypto Games",
       "author": "BodybuilderOk96",
       "url": "https://www.reddit.com/r/ethereum/comments/1p8twe2/honest_opinions_about_crypto_games/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "So crypto games have a bad rap in mainstream because of past scams. Also, a lot of them get criticized because of the poor gameplay quality, and because of the fact that they focus more on earning rather than the actual gameplay mechanics (which I agree with). However, using crypto seems beneficial because you can track all of the transactions on the blockchain online (nothing is hidden). If, for example, you do an esports type of tournament with a cash prize pool given to players, you can literally track how that pool is given to players on the blockchain. But without crypto, you have to trust the companies on how the pool is being distributed (because you don't know what their doing behind the scene). Also, the transaction fees with some crypto chains are pretty low (in the milli-cents, compared to using credit cards to buy in-game virtual currencies, like Fortnite VBucks)... But the fact that crypto games haven't taken off tells me that gamers really don't care about transparency and fees...They trust the centralized gaming companies/publishers, and are willing to pay premiums for skins and other in-game assets without being the true owners of those assets. As gamers, do you guys agree with this? Do you see any case where gamers would prefer to transition to crypto instead of traditional credit card systems?"
+    },
+    {
+      "title": "Ethereal news weekly #0 | Gas limit increased to 60M, Fusaka upgrade December 3, FOCIL not in Glamsterdam upgrade",
+      "author": "abcoathup",
+      "url": "https://www.reddit.com/r/ethereum/comments/1p8szlr/ethereal_news_weekly_0_gas_limit_increased_to_60m/",
+      "published": 1764330756.0,
+      "thumbnail": "https://external-preview.redd.it/2zyY6e5Mf5R63ELydbdrYjrz_yIBJn5i9-GpP66kmzM.jpeg?width=640&crop=smart&auto=webp&s=5a0bcc467e92ab01c45c72e2085e5e0169e799e6",
+      "external_url": "https://ethereal.news/ethereal-news-weekly-0/",
+      "site_name": "ethereal.news",
+      "favicon": "https://ethereal.news/favicon.svg",
+      "description": "Gas limit increased to 60M, Fusaka upgrade December 3, FOCIL not in Glamsterdam upgrade"
     },
     {
       "title": "Highlights from the All Core Developers Consensus (ACDC) Call #170",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-28T13:55:31.182481+00:00"
+  "fetched_at": "2025-11-28T14:41:14.073939+00:00"
 }

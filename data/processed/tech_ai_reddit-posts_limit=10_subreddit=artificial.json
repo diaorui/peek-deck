@@ -35,17 +35,6 @@
       "description": "Mexico announced on Wednesday plans to build Coatlicue, a 314-petaflop supercomputer that will become Latin America's most powerful."
     },
     {
-      "title": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
-      "author": "wiredmagazine",
-      "url": "https://www.reddit.com/r/artificial/comments/1p8rqiw/poems_can_trick_ai_into_helping_you_make_a/",
-      "published": 1764326221.0,
-      "thumbnail": "https://external-preview.redd.it/pCU_L14NP5B0d5_n_QHNSysSeBYi7z_wBdVM9dGTEIA.jpeg?width=640&crop=smart&auto=webp&s=8fdf0c8d299e3e3249decddd43e5b18bc6196eb0",
-      "external_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
-      "site_name": "WIRED",
-      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
-      "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
-    },
-    {
       "title": "Experts judge Digital Minds to be possible in principle, with a median probability estimate of 90%",
       "author": "willm8032",
       "url": "https://www.reddit.com/r/artificial/comments/1p8s6kp/experts_judge_digital_minds_to_be_possible_in/",
@@ -55,6 +44,17 @@
       "site_name": "The Partnership for Research Into Sentient Machines",
       "favicon": "https://images.squarespace-cdn.com/content/v1/67a5fecb009cf6236dc0d38c/bb387d65-f3bf-4d01-9ef7-d8097e0df000/favicon.ico?format=100w",
       "description": "Lucius Caviola is an Assistant Professor in the Social Science of AI at the University of Cambridge's Leverhulme Centre for the Future of Intelligence and a Research Associate in Psychology at Harvard University. His research explores how the potential arrival of conscious AI will reshape our social"
+    },
+    {
+      "title": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
+      "author": "wiredmagazine",
+      "url": "https://www.reddit.com/r/artificial/comments/1p8rqiw/poems_can_trick_ai_into_helping_you_make_a/",
+      "published": 1764326221.0,
+      "thumbnail": "https://external-preview.redd.it/pCU_L14NP5B0d5_n_QHNSysSeBYi7z_wBdVM9dGTEIA.jpeg?width=640&crop=smart&auto=webp&s=8fdf0c8d299e3e3249decddd43e5b18bc6196eb0",
+      "external_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
     },
     {
       "title": "EU Reaches Landmark Deal on World's First Comprehensive AI Act",
@@ -112,5 +112,5 @@
       "description": "CrowdStrike researchers reveal how trigger words cause DeepSeek-R1 to generate vulnerable code\u2014exposing new AI-driven risks in software development."
     }
   ],
-  "fetched_at": "2025-11-28T13:55:28.452552+00:00"
+  "fetched_at": "2025-11-28T14:41:11.399497+00:00"
 }
