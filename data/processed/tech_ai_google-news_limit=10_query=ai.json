@@ -5,66 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "A.I. and the Trillion-Dollar Question",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNVdGWUxSRko5TUpCeFRFcVhGcEVVYl9jVGlSaWJ4R0lyWENPMWQ1eFhHNkVwR2lRY0lvd3dGYlNDZ01FN0pDQU5QYWpjUmdvb2JUcm5YZE5XNjZXcE5NSVFsaXhNMkp5ejR4MDVCUGUtUFRxck5ldTE2Q0VJVURPS1A4TFBfSm12VllZeDQzNnJ0cXdrUzZV?oc=5",
-      "pub_date": 1764307575.0,
-      "article_url": "https://www.nytimes.com/2025/11/28/world/ai-valuations-markets-technology-hongkong-fire.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "'Green light' away from AI trade: Two ETF executives see a key market shift underway",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTdud0hpenpCbDFLNVRsRXlsU0tYZVo5SW9fRU53QnJzR2FmT1JSa0NfX0stTEJsc1lCc1VIZFFJQzBJanBZenZwODk1ckIwLV9wMThXZFpMekxPY01YYk1uRy1nOEhHcEc2TUVpZV9ydFRxNXY1ZnZ3UVRPVDZuWk4zWW9YS3RSZXpTNURnX3FoOWFWR21WMGJueWx0SUF5QmFmNTJR0gGrAUFVX3lxTE9NcjdMVHdudEVHQndfX2Q0bzE2QTR6VDZ6WHpyWkt1Q19EVXdXd0xvNkZweXVudU1Ya0xhTnRNVkM0dXBkSnJsS05SV0VQUWR0MGlxSzJTckEwZlY2NGZIMWFpMlRRUFd1YVFKcFhsQVdSeGhxQ0p6a1M5M2ZHdXYwLUVNem5OZU0tMGJ2djNiXzZGZHJfT0lrVzdQX003aFFiMFVsNFlxSmxzTQ?oc=5",
-      "pub_date": 1764277201.0,
-      "article_url": "https://www.cnbc.com/2025/11/27/green-light-away-from-ai-trade-two-etf-ceos-see-a-key-market-shift.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108180547-1754063406081-IMG_8885.jpg?v=1754063887&w=1920&h=1080",
-      "description": "Markets may have entered a new cycle. Here's why."
-    },
-    {
-      "headline": "Baidu is emerging as a major AI chip player in China to fill the Nvidia gap",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0loaG9seUp3cW82YXQyM2xWUDFXTGZ2QXR4MXVUMVVPN1d5VzA5UktYYmtNLU1BaHFvcFM0Y0lSbmN2eEtjX0pjQ3JBeUJObXNFT1FzUHdYWGNDekYyVFRwR2xGYzdXekFOUTBXV3h4REQ5LTBabW56VHp5dnFZcnNzWXZtVzh1UEJHUjdCUUxZcFpvWVVmbk930gGfAUFVX3lxTE5mQ0N0ZW1SdnM1TWsyYzFXN1FvNHNKR1FqWEh1VGhya2NxQ1N0UXIwWXhBb2NjMWhsTlhRMWxsQm1JY0dVU296dHhqX1lLQm9YbXdQTGFtem5jaVJvY3hRRzZyOWxJellRRVZ3SDZZeHNBYXRsZWlJVGh0ZndHbnc5YnBQSEF1MkNqM2JLajh1MGlndzY5VUJrZkw1eU9ETQ?oc=5",
-      "pub_date": 1764310853.0,
-      "article_url": "https://www.cnbc.com/2025/11/28/baidu-is-major-ai-chip-player-in-china-to-fill-nvidia-gap.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108233025-1764244459954-gettyimages-2226761556-tang-notitle250728_npWbw.jpeg?v=1764244509&w=1920&h=1080",
-      "description": "China's focus on pushing domestic chips could make Baidu's chip unit, Kunlunxin, a fast-growing business for the company."
-    },
-    {
-      "headline": "China's DeepSeek Releases New Open Source AI Model Amid Google's Gemini 3 Roll Out",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3dJa3cxX2ZqZFg4TWZ5Z3d4QXpFT3E4Zno4MTBJVUpKRXphcWZoRC16ZkdyR244dW5jUDJaOWxWd1hJTlRvNzFRRk5VeUtXZFRoWEdkdWhKaEc3OGdxWVNLdU1HNjNRWnRBUE1CS0FQdV9FZEIwWGwwcndMNVhYVGR3SFk4M0V0ZlozbTNwM2dRaHV0RjdrdTFpYVY0enN6eUUtMWE4aXA?oc=5",
-      "pub_date": 1764337800.0,
-      "article_url": "https://www.investors.com/news/technology/nvidia-stock-google-stock-deepseek-china-open-source-ai-models/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Why Google\u2019s custom AI chips are shaking up the tech industry",
-      "source": "New Scientist",
-      "source_url": "https://www.newscientist.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclN4a3hOMlpPVklDa1huNEtnc1h5Y18zV1BrblppWkpXbkRmWmozVHVwVXJERndIR1JEUFd2ZDk4VFZmSVZUbFoyQXpBNjZyMUs0MFdwM1dTTi1kdFhSV0VPSThmalNPSlRyWTBTSXBQTzVJTU82dlFzYTlDbGZ3TFdWay1PdHRLV2JIRXFOWHM2YVJObnR5X0tOMl9sSlJVZVZIZGxHR1dEZw?oc=5",
-      "pub_date": 1764345671.0,
-      "article_url": "https://www.newscientist.com/article/2506354-why-googles-custom-ai-chips-are-shaking-up-the-tech-industry/",
-      "image": "https://images.newscientist.com/wp-content/uploads/2025/11/28130712/SEI_275896064.jpg",
-      "description": "Google is reportedly in talks to sell its tensor processing units \u2013 a type of computer chip specially designed for AI \u2013 to other tech companies, a move that could unsettle the dominant chip-maker Nvidia"
-    },
-    {
-      "headline": "More than 1,000 Amazon workers warn rapid AI rollout threatens jobs and climate",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLWFfcC1vV2RJTWIxMzdITVRRWVdTY2sxQUNzRmpiUnpjcDdMcDNPc1Y2bE9SZ2wzaUx0cnpCZ1p4NmF0UkpKRHNBZlFGUkNhMmZzSEpab0RraGF0cktabTMwdXdlY2lkdV9VVVdqckRzUldBUTRUUVJyUHdTMDM2UQ?oc=5",
-      "pub_date": 1764337800.0,
-      "article_url": "https://www.theguardian.com/technology/2025/nov/28/amazon-ai-climate-change",
-      "image": "https://i.guim.co.uk/img/media/6de165ca4360d0ab477a2910029b933d916d9d02/92_0_4703_3763/master/4703.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b40cd58e096bb6e156b45715f04d754e",
-      "description": "Workers say the firm\u2019s \u2018warp-speed\u2019 approach fuels pressure, layoffs and rising emissions"
-    },
-    {
       "headline": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
       "source": "WIRED",
       "source_url": "https://www.wired.com",
@@ -73,16 +13,6 @@
       "article_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
       "image": "https://media.wired.com/photos/6925f9abe38648aa0f225be3/191:100/w_1280,c_limit/sec-poetry-ai-nukes-517442570-522586638.jpg",
       "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
-    },
-    {
-      "headline": "Here\u2019s a glimmer of hope about AI and jobs",
-      "source": "vox.com",
-      "source_url": "https://www.vox.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pRmdQZlltSDVMVzZCWGU3cFJfemxPSklyV0pvZVN3ZDlnLXl6YzR5bExNUkk5TndIWVpUclpsamF6bHJMSlIxM0RCamVxaU9yNE1tY0d0bHZMVXFIenFBdXR5NkdGQUc2RVVMWA?oc=5",
-      "pub_date": 1764330300.0,
-      "article_url": "https://www.vox.com/technology/470688/ai-jobs-chatgpt-bubble",
-      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/GettyImages-2188013015-copy.jpg?quality=90&strip=all&crop=0%2C5.4290400603788%2C100%2C89.141919879242&w=1200",
-      "description": "What history can teach us about the AI job apocalypse."
     },
     {
       "headline": "AI Adoption Rates Starting to Flatten Out",
@@ -95,6 +25,46 @@
       "description": "Data from the Census Bureau and Ramp shows that AI adoption rates are starting to flatten out across all firm..."
     },
     {
+      "headline": "'Green light' away from AI trade: Two ETF executives see a key market shift underway",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTdud0hpenpCbDFLNVRsRXlsU0tYZVo5SW9fRU53QnJzR2FmT1JSa0NfX0stTEJsc1lCc1VIZFFJQzBJanBZenZwODk1ckIwLV9wMThXZFpMekxPY01YYk1uRy1nOEhHcEc2TUVpZV9ydFRxNXY1ZnZ3UVRPVDZuWk4zWW9YS3RSZXpTNURnX3FoOWFWR21WMGJueWx0SUF5QmFmNTJR0gGrAUFVX3lxTE9NcjdMVHdudEVHQndfX2Q0bzE2QTR6VDZ6WHpyWkt1Q19EVXdXd0xvNkZweXVudU1Ya0xhTnRNVkM0dXBkSnJsS05SV0VQUWR0MGlxSzJTckEwZlY2NGZIMWFpMlRRUFd1YVFKcFhsQVdSeGhxQ0p6a1M5M2ZHdXYwLUVNem5OZU0tMGJ2djNiXzZGZHJfT0lrVzdQX003aFFiMFVsNFlxSmxzTQ?oc=5",
+      "pub_date": 1764277201.0,
+      "article_url": "https://www.cnbc.com/2025/11/27/green-light-away-from-ai-trade-two-etf-ceos-see-a-key-market-shift.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108180547-1754063406081-IMG_8885.jpg?v=1754063887&w=1920&h=1080",
+      "description": "Markets may have entered a new cycle. Here's why."
+    },
+    {
+      "headline": "Here\u2019s a glimmer of hope about AI and jobs",
+      "source": "vox.com",
+      "source_url": "https://www.vox.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pRmdQZlltSDVMVzZCWGU3cFJfemxPSklyV0pvZVN3ZDlnLXl6YzR5bExNUkk5TndIWVpUclpsamF6bHJMSlIxM0RCamVxaU9yNE1tY0d0bHZMVXFIenFBdXR5NkdGQUc2RVVMWA?oc=5",
+      "pub_date": 1764330300.0,
+      "article_url": "https://www.vox.com/technology/470688/ai-jobs-chatgpt-bubble",
+      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/GettyImages-2188013015-copy.jpg?quality=90&strip=all&crop=0%2C5.4290400603788%2C100%2C89.141919879242&w=1200",
+      "description": "What history can teach us about the AI job apocalypse."
+    },
+    {
+      "headline": "More than 1,000 Amazon workers warn rapid AI rollout threatens jobs and climate",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLWFfcC1vV2RJTWIxMzdITVRRWVdTY2sxQUNzRmpiUnpjcDdMcDNPc1Y2bE9SZ2wzaUx0cnpCZ1p4NmF0UkpKRHNBZlFGUkNhMmZzSEpab0RraGF0cktabTMwdXdlY2lkdV9VVVdqckRzUldBUTRUUVJyUHdTMDM2UQ?oc=5",
+      "pub_date": 1764337800.0,
+      "article_url": "https://www.theguardian.com/technology/2025/nov/28/amazon-ai-climate-change",
+      "image": "https://i.guim.co.uk/img/media/6de165ca4360d0ab477a2910029b933d916d9d02/92_0_4703_3763/master/4703.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b40cd58e096bb6e156b45715f04d754e",
+      "description": "Workers say the firm\u2019s \u2018warp-speed\u2019 approach fuels pressure, layoffs and rising emissions"
+    },
+    {
+      "headline": "A.I. and the Trillion-Dollar Question",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNVdGWUxSRko5TUpCeFRFcVhGcEVVYl9jVGlSaWJ4R0lyWENPMWQ1eFhHNkVwR2lRY0lvd3dGYlNDZ01FN0pDQU5QYWpjUmdvb2JUcm5YZE5XNjZXcE5NSVFsaXhNMkp5ejR4MDVCUGUtUFRxck5ldTE2Q0VJVURPS1A4TFBfSm12VllZeDQzNnJ0cXdrUzZV?oc=5",
+      "pub_date": 1764307575.0,
+      "article_url": "https://www.nytimes.com/2025/11/28/world/ai-valuations-markets-technology-hongkong-fire.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "MAGA is divided over the promise and perils of AI",
       "source": "The Economist",
       "source_url": "https://www.economist.com",
@@ -103,8 +73,38 @@
       "article_url": "https://www.economist.com/united-states/2025/11/27/maga-is-divided-over-the-promise-and-perils-of-ai",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Why US Utility Stocks Are Falling After the AI Power Surge",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWFreWtreENWeHZMcktLX3ZFSVl6NVIxVDB4Vkl2NllmSjhRcGtqZmszVFlJdE05dFVWUUluQmxlOWFJS0lTdnozS1Bfc0JFX1U4bFB2NGR1ZVlKLTFPSEFqV2JOM3VZaldXUkxHVmxlanB3U0xpWXFwTmdsQjZKRlJqckNuOXV0RkdKeWEySlBTRF8xeDhNOGVnVGZEcEpjVkNTNDFERkdrWkE1TmJhbTBFTEZ5UDN2cDg5aDRObFo4MEVhdHNz?oc=5",
+      "pub_date": 1764329400.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-28/ai-boom-sends-utility-stocks-soaring-then-crashing-as-data-center-deals-stall",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "China's DeepSeek Releases New Open Source AI Model Amid Google's Gemini 3 Roll Out",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3dJa3cxX2ZqZFg4TWZ5Z3d4QXpFT3E4Zno4MTBJVUpKRXphcWZoRC16ZkdyR244dW5jUDJaOWxWd1hJTlRvNzFRRk5VeUtXZFRoWEdkdWhKaEc3OGdxWVNLdU1HNjNRWnRBUE1CS0FQdV9FZEIwWGwwcndMNVhYVGR3SFk4M0V0ZlozbTNwM2dRaHV0RjdrdTFpYVY0enN6eUUtMWE4aXA?oc=5",
+      "pub_date": 1764337800.0,
+      "article_url": "https://www.investors.com/news/technology/nvidia-stock-google-stock-deepseek-china-open-source-ai-models/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "How OpenAI and Google see AI changing go-to-market strategies",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0Q2SmtSNU9tbVpuZTlDZ3dYWlJBSXhvVFBEWXRRYm1xenhHWE1zeGk5MDJwcTcwdE10b1VYNEhMVjI5MFhtZVgtWjBTcnVCQUVaWjd0TzV6eFBJd1JKZXpTdVotcTlidTNURGlqb25VQ3k4RF90dTFEbTlGbEpJX0tVMWNQTVd1M0dFc08wY1RiajZJUVlQbnJTMGw?oc=5",
+      "pub_date": 1764345600.0,
+      "article_url": "https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/gtm-disrupt-2025.jpeg?resize=1200,745",
+      "description": "AI is changing how investors and startups bring their products to market. Three experts offered their insights at TechCrunch Disrupt."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-28T16:34:12.423952+00:00"
+  "fetched_at": "2025-11-28T17:10:34.839930+00:00"
 }

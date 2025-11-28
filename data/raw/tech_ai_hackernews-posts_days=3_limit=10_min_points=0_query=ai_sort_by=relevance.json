@@ -9,7 +9,7 @@
       "url": "https://arstechnica.com/gadgets/2025/11/the-eu-made-apple-adopt-new-wi-fi-standards-and-now-android-can-support-airdrop/",
       "hn_url": "https://news.ycombinator.com/item?id=46062504",
       "author": "cyclecount",
-      "points": 585,
+      "points": 586,
       "num_comments": 306,
       "created_at": "2025-11-26T21:25:36Z",
       "object_id": "46062504",
@@ -37,7 +37,7 @@
       "url": "https://replaceyourboss.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=46072002",
       "author": "_tk_",
-      "points": 418,
+      "points": 420,
       "num_comments": 175,
       "created_at": "2025-11-27T18:37:41Z",
       "object_id": "46072002",
@@ -51,8 +51,8 @@
       "url": "https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference",
       "hn_url": "https://news.ycombinator.com/item?id=46069048",
       "author": "vegasbrianc",
-      "points": 391,
-      "num_comments": 288,
+      "points": 394,
+      "num_comments": 293,
       "created_at": "2025-11-27T13:28:34Z",
       "object_id": "46069048",
       "image": "https://substackcdn.com/image/fetch/$s_!H_F9!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff173524-b98d-4a2b-9f77-7a130ad395a7_1024x1024.png",
@@ -65,7 +65,7 @@
       "url": "https://shujisado.org/2025/11/27/gpl-propagates-to-ai-models-trained-on-gpl-code/",
       "hn_url": "https://news.ycombinator.com/item?id=46068777",
       "author": "jonymo",
-      "points": 210,
+      "points": 211,
       "num_comments": 290,
       "created_at": "2025-11-27T12:48:12Z",
       "object_id": "46068777",
@@ -93,14 +93,28 @@
       "url": "https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1",
       "hn_url": "https://news.ycombinator.com/item?id=46077038",
       "author": "thm",
-      "points": 117,
-      "num_comments": 126,
+      "points": 128,
+      "num_comments": 133,
       "created_at": "2025-11-28T09:21:55Z",
       "object_id": "46077038",
       "image": null,
       "description": null,
       "favicon": null,
       "site_name": "wsj.com"
+    },
+    {
+      "title": "A trillion dollars (potentially) wasted on gen-AI",
+      "url": "https://garymarcus.substack.com/p/a-trillion-dollars-is-a-terrible",
+      "hn_url": "https://news.ycombinator.com/item?id=46078407",
+      "author": "flail",
+      "points": 102,
+      "num_comments": 97,
+      "created_at": "2025-11-28T13:21:17Z",
+      "object_id": "46078407",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "garymarcus.substack.com"
     },
     {
       "title": "AirDrop support for Pixel 10 likely exists because of the EU ruling",
@@ -117,20 +131,6 @@
       "site_name": "9to5Google"
     },
     {
-      "title": "A trillion dollars (potentially) wasted on gen-AI",
-      "url": "https://garymarcus.substack.com/p/a-trillion-dollars-is-a-terrible",
-      "hn_url": "https://news.ycombinator.com/item?id=46078407",
-      "author": "flail",
-      "points": 94,
-      "num_comments": 89,
-      "created_at": "2025-11-28T13:21:17Z",
-      "object_id": "46078407",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "garymarcus.substack.com"
-    },
-    {
       "title": "MIT study finds AI can replace 11.7% of U.S. workforce",
       "url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
       "hn_url": "https://news.ycombinator.com/item?id=46058361",
@@ -145,7 +145,7 @@
       "site_name": "CNBC"
     }
   ],
-  "total_hits": 393,
+  "total_hits": 390,
   "has_metadata": true,
-  "fetched_at": "2025-11-28T16:33:57.612946+00:00"
+  "fetched_at": "2025-11-28T17:10:18.783569+00:00"
 }
