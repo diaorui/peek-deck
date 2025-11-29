@@ -38,9 +38,9 @@
       "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOQ1I0QURIWVZ4Y293Unh2T0ZNbm1IQzk4b05Kb051b0ZVVDhYNno1NG8wQ1VON3JDWGJ1UW9yUzA2d3FNSEpkdVh6WVZHZ2dIWC1wRnI1NjFlMGx2M1UxQlY5Xy1qazRqM1FmM0lBcVBnbHI0eWRNNldrcjFLRldfWlpPRlZwd0hrUHQ5TFhlY1BQUm95MGNGMWhmR1AzSFZQVUM3VHpFSE9fYVJvSkJmcGZ6ZFlINXc1bVY0U1pkYWRwYUFlQ1dGWnBwV3dIX1F2bFB2RDhvXzRlTklkSUMwZDZ3dm9IdEJ4V2ZBN2toeW1CbEstbkw3Z2VMa2hNVXhCd0tyNXJLYmcyVW91VnlQZko5R0xDY1VZd2kweGNCakdJY213bzVnUFhpbGU3YmswejA2ZU9hYm80ckJGNDZINno2b0JkOUxYRFZKT1BCbTlZX1lmcXdsRVZzRmpubGJWQ2JaTjZGekd4b29uWmVDMmFWaTVxNVhzcER1OGx0M2FITklY?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOWkQzZi15cFY5T1AzX0FWSEZMSVJ0OWdWelJ4dlBUVE5Xc1RJaG5OUXJzU0lNUnROVHpnRUdQR2xpbmFDX0F4S2ZWZlBIemFTMG1mb2JDRElyRE9CT0VhSG82OE9XVTMxbW84U05Zb3MzTC1XOE5UR2hGQzE3b1lRb0R4LTlCY3I3UUNOVDVVcDFsSUlFeTIybG1RbkJUblhaNm9iUWlQXy1xdEZuWS1XcnVDSjlMcHRIRXhaNWNFbmJFbFo2NXZDMDJHLXhBSXBnRG5ETVk3SjYxVGQ3R0M0TlBSb0NQbVdKcFV5cmd5UVRFdVpUcWw4cU44UjJOLUZMRmpmNFhuU3h2LUlRR01fY3hveWo1cUI0M3RPRmw5aUhRa1Y2dTZLQUpiZlAwVEtVWlRjaEswbmRMTUlueFpBR0lma1FxNngwdHZGbGY1Q1R3LXVRTm9DTkNUekJuUjVaSUFsWnNHaGxhVVZta05RN3d5VVhoWFNiM1ZrUi11ZFNicklt?oc=5",
       "pub_date": 1764352680.0,
-      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqcWswnioZT9dY_ayXYrQZPjoDSZbjdFgDVgU_0pbm0y-PIT7JjOHwlf&gaa_ts=692b5f5c&gaa_sig=xZCT-7K2T2H_Aj_t1uqEklFoDVhfLIsPdDgVwgRrrKt5RZt5u-HxsfmxcDwelutFY5kDErbep_g14LAVshq3pw%3D%3D",
+      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqdpWhNWCbfE4ic4VJN8sGzyVfHukxGRqg2jW9AfbaonnD0aQgOLKteK&gaa_ts=692b67f7&gaa_sig=TOrHdVKFW0uZ4ofxxJtYe3IF2FRDov8QUw1bz4NrpP8b_6JHBoMRHSBUnTNnqYfr3xm6a18AVaZ5jti2fEPBhA%3D%3D",
       "image": null,
       "description": null
     },
@@ -85,6 +85,16 @@
       "description": "Video. How is AI transforming robotics? Where will robotics be in 2030? In this episode of Euronews Tech Talks, we put these and more of your questions to Kai Olav Ellefsen, associate professor at the University of Oslo."
     },
     {
+      "headline": "Slipknot-gauged mechanical transmission and robotic operation",
+      "source": "Nature",
+      "source_url": "https://www.nature.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jcFlNV2ltSVlreWNEejB2SmNsUVZ4dUtFUHRLbkdtVjhQbW1raVl6SlpZbDRoVXhEb281azdyaDM5SHlId0YxTXlKbGdEaGJnZzNxQ2I2T1R6Q3FxeG1F?oc=5",
+      "pub_date": 1764178256.0,
+      "article_url": "https://www.nature.com/articles/s41586-025-09673-w",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-09673-w/MediaObjects/41586_2025_9673_Fig1_HTML.png",
+      "description": "A mechano-intelligent transmission mechanism based on the slipknot delivers precise force signals for clinical practice and robotic operations such as minimally invasive surgery and tendon-driven robotics."
+    },
+    {
       "headline": "A surgeon father and an artist son discover a common love: robots",
       "source": "Inquirer.com",
       "source_url": "https://www.inquirer.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.inquirer.com/arts/jake-gregory-weinstein-penn-robots-clankers-20251129.html",
       "image": "https://www.inquirer.com/resizer/v2/FGOVUEXRGZDZTLAH7OLXX76XAE.jpg?auth=4ec83c9ee2b73e92423e78e04ca58a5f0d75817327318909545225b8135bda9f&width=760&height=507&smart=true",
       "description": "Gregory Weinstein is a pioneer of robotics surgery. He builds Legos with his son Jake who, unsurprisingly, now designs his own robots on paper and sculpture."
-    },
-    {
-      "headline": "Surgical robotics market to double by 2029",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalBUOXBqWkJjUEpyOXZGMkprQ0VmMjlsclQ3aE9QVElXTGh3WXJDV3dPTzUta1ZnV1RDZHI1Y2pWSzRuZkVBM2g1VHNobUEyRDJIU1RycWkxbDVFQkJWUENOSmNNOGl0NjBoNmZzWmNsdllnajJ2ajVFaVBrclZTc2p4ckhVVHlr?oc=5",
-      "pub_date": 1764340243.0,
-      "article_url": "https://www.therobotreport.com/surgical-robotics-market-to-double-by-2029-report/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2025/11/surgical-robotics-report.jpg",
-      "description": "New report delivers detailed forecasts, market share insights, and competitive breakdowns about the global surgical robotics market."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T20:47:40.521377+00:00"
+  "fetched_at": "2025-11-29T21:24:22.601722+00:00"
 }
