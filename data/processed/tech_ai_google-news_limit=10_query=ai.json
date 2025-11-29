@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "N.Y. Law Could Set Stage for A.I. Regulation\u2019s Next \u2018Big Battleground\u2019",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTGE4ZS1zXzFNaHVkWXJQcHMzSWVRSFlQdHp4RTNqM3FGRkxkczlrX2pfMU9jSW9Od3V1X2pVRFBqZHZCYmhpZFdMX0pNc3gwaUp4SG80Q3hZdHZuYUk5Ni1KVTVsR2VlTi1QcVRBTWhQdWNsQTFONi1obS1OUXdYT3I1ckMwdnRldHFZaE9hSHhaMGFub0ZoYm1R?oc=5",
+      "pub_date": 1764403217.0,
+      "article_url": "https://www.nytimes.com/2025/11/29/nyregion/personalized-surveillance-pricing-ai-new-york.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "AI is taking jobs \u2014 here\u2019s Coursera CEO's No. 1 tip for grads to stay competitive",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -15,14 +25,14 @@
       "description": "\"They're [recruiters] going to be assessing your mindset and your traits as a human being more than your experience,\" Coursera's CEO told CNBC Make It."
     },
     {
-      "headline": "Two Gen Zers turned down millions from Elon Musk to build an AI based on the human brain\u2014and it's outperformed models from OpenAI and Anthropic",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWRSSjV1VU9XcTg3OWlxY2dkMTRZSWFYTkRjeWJXQVlXOXVkSXBSQXRfRVhrYVRlbENibUQtejUwUUVrMDZWb0E5NTJIVG45S1E1b3NpZXBjbzAzQlhPQWlQNXZOdllhVEVkbTVCTlA2ay1WbGVoLVlaMUhTRW8ycEVDb3ZraENrRGRFTDZoVGxQOUxfRW5BbmNGWkp0UzlVMUNN?oc=5",
-      "pub_date": 1764327900.0,
-      "article_url": "https://fortune.com/2025/11/28/sapient-intelligence-william-chen-guan-wang-turned-down-elon-musk-agi/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/54672477647_bfd1d00050_o-e1764185045333.jpg?resize=1200,600",
-      "description": "William Chen and Guan Wang believe they will be the first ones to build artificial general intelligence."
+      "headline": "Why Employees Don\u2019t Trust Your AI Strategy And How To Fix It",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXJkRkU0UERNUGlBMjRPUk96M2R1NV9RUjJvejJrVXRrT1I4WTFMTVJHYTdrZHUtUkhDUjl1LW9Fbks0SlNCT0Y3b2dBc1hfVVFCNkEwMFhYTXBiUUFGdmVnRjJsT284S0p6NnRtT25UQUVDbGR6TlZaNFB6Mm9SNThtVi03OTlHX2JFelRYTTZ1Vnk2Y1VZNDREM3NNRl9vTlFfN25TcWNnSmNRQkFxQUV0bXQ?oc=5",
+      "pub_date": 1764428526.0,
+      "article_url": "https://www.forbes.com/sites/kathleenwalch/2025/11/29/why-employees-dont-trust-your-ai-strategy-and-how-to-fix-it/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/692b0733a51bdb05d85d74ab/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "Employees don\u2019t trust corporate AI strategies, and it\u2019s slowing adoption. Here\u2019s how leaders can build trust and drive successful AI transformation."
     },
     {
       "headline": "Thousands of Amazon employees send open letter to CEO Andy Jassy; say: We\u2019re the workers who develop, tra",
@@ -35,34 +45,14 @@
       "description": "Tech News News: Over 1,000 Amazon employees have signed an open letter warning of dire consequences from the company's rapid AI development. They argue Amazon is sacr"
     },
     {
-      "headline": "Amazon workers warn \u2018warp-speed\u2019 AI push threatens democracy and the planet",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMlNKRXRaUm55aHc1cERtYWM5RVVIX0NhMENDdmxlLXpMV0VUcWdzRnU4bXNRVllmTlRmX2xHOUFqX3E5SEZBOFlTVF81eVFXeHZBWnpxcUI3d2NaLVlDVi0zNkFSMVNWOVFBaGVzeENTblNrQkpRWTR4eFJKbEhSQ3BObmgzWGJkYkg1MnNXYUhseDkzRmY0c05kMGExSnc5ZFRqeDhCVmVCWGtNVVBV?oc=5",
-      "pub_date": 1764356793.0,
-      "article_url": "https://www.fastcompany.com/91450846/amazon-workers-warn-warp-speed-ai-push-threatens-democracy-and-the-planet",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "More than 1,000 Amazon workers warn rapid AI rollout threatens jobs and climate",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLWFfcC1vV2RJTWIxMzdITVRRWVdTY2sxQUNzRmpiUnpjcDdMcDNPc1Y2bE9SZ2wzaUx0cnpCZ1p4NmF0UkpKRHNBZlFGUkNhMmZzSEpab0RraGF0cktabTMwdXdlY2lkdV9VVVdqckRzUldBUTRUUVJyUHdTMDM2UQ?oc=5",
-      "pub_date": 1764337800.0,
-      "article_url": "https://www.theguardian.com/technology/2025/nov/28/amazon-ai-climate-change",
-      "image": "https://i.guim.co.uk/img/media/6de165ca4360d0ab477a2910029b933d916d9d02/92_0_4703_3763/master/4703.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b40cd58e096bb6e156b45715f04d754e",
-      "description": "Workers say the firm\u2019s \u2018warp-speed\u2019 approach fuels pressure, layoffs and rising emissions"
-    },
-    {
-      "headline": "N.Y. Law Could Set Stage for A.I. Regulation\u2019s Next \u2018Big Battleground\u2019",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTGE4ZS1zXzFNaHVkWXJQcHMzSWVRSFlQdHp4RTNqM3FGRkxkczlrX2pfMU9jSW9Od3V1X2pVRFBqZHZCYmhpZFdMX0pNc3gwaUp4SG80Q3hZdHZuYUk5Ni1KVTVsR2VlTi1QcVRBTWhQdWNsQTFONi1obS1OUXdYT3I1ckMwdnRldHFZaE9hSHhaMGFub0ZoYm1R?oc=5",
-      "pub_date": 1764403217.0,
-      "article_url": "https://www.nytimes.com/2025/11/29/nyregion/personalized-surveillance-pricing-ai-new-york.html",
-      "image": null,
-      "description": null
+      "headline": "Two Gen Zers turned down millions from Elon Musk to build an AI based on the human brain\u2014and it's outperformed models from OpenAI and Anthropic",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWRSSjV1VU9XcTg3OWlxY2dkMTRZSWFYTkRjeWJXQVlXOXVkSXBSQXRfRVhrYVRlbENibUQtejUwUUVrMDZWb0E5NTJIVG45S1E1b3NpZXBjbzAzQlhPQWlQNXZOdllhVEVkbTVCTlA2ay1WbGVoLVlaMUhTRW8ycEVDb3ZraENrRGRFTDZoVGxQOUxfRW5BbmNGWkp0UzlVMUNN?oc=5",
+      "pub_date": 1764327900.0,
+      "article_url": "https://fortune.com/2025/11/28/sapient-intelligence-william-chen-guan-wang-turned-down-elon-musk-agi/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/54672477647_bfd1d00050_o-e1764185045333.jpg?resize=1200,600",
+      "description": "William Chen and Guan Wang believe they will be the first ones to build artificial general intelligence."
     },
     {
       "headline": "No, your favourite influencer hasn't got a dozen Dachshund dogs. It's just AI",
@@ -99,12 +89,22 @@
       "source": "DW",
       "source_url": "https://www.dw.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcEFFWUp0bWRQMFhsLXAteEJSckE5VzZXelhxdkF2cVdLak5NX1JGLXM2d0twdjlYS0xZZno3cnBoU2lIVUE3dHlmVE0tZ2NOVVliTjJrVUpZbzZ1Q1p0Q2lZUTZIV2k5eHlPZ1diSnBNZnlJVXI5eW1xZVJJMVBBc18tbkjSAYQBQVVfeXFMTWJlRmZzRVFKQlBuMFRuay00UTBYMjNnVzJJQW5zUjFJNGJFQ2pBZ3k2YkRiTC0zaDVtZjlpU2RqdFc5Q09vcHNheHpxV2JUX0huZFE3TF9UWDdWem56UGJFazVjSjRPdVJOdjFhQl94eG42TWlvM3F4cDF1ZXR5QTlDNnBN?oc=5",
-      "pub_date": 1764386207.0,
+      "pub_date": 1764341729.0,
       "article_url": "https://www.dw.com/en/germanys-industrial-titans-embrace-the-ai-age/a-74876661",
       "image": "https://static.dw.com/image/72177294_6.jpg",
       "description": "Siemens, BASF and VW have poured billions into AI to expand virtual factories, robot fleets and smart data centers. Catching up with the US and China will be a brutal feat, with thousands of jobs on the line."
+    },
+    {
+      "headline": "Will AI ever make big profits? Experts weigh in as bubble fears loom",
+      "source": "ABC News",
+      "source_url": "https://abcnews.go.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR3U1UEY0d3NrWmhXY3htOWVnOC1hWnFScWthQ2ozZ0pIdXlzbjItYVMwVVVYRy02VEVGUFRmY1JxMDdWYUYwU0JJYjFFVFZtMGJPRUFfOHFWd0wtT3M5aC00cEhyVzJiYUZMd3lsWV80Tk8zTGVvakZoSEY0d0t1TjFVNDZyckVvZHFRZVJhck41V1Ntc2NtckFmN0QxZ9IBowFBVV95cUxPb3NjellMU3F2ZkU3SjNPXzdmMFVoQktUZFViekxFb2RNZHZjdzVKdE5hdjg1WVhHLVFqcE5GdzFqS1VCNHJUXzd2SWF6WWVYajd5V0R4NjVkam1tOVFzdmZpMG5qTGMxSXV1T3pnLXpVejJubERIZlgwblVsWFlOSUVaR0pkVzJta3NnVm9EMzBEUnZrZ3o2TXRMMEllQ3NTTTNv?oc=5",
+      "pub_date": 1764356050.0,
+      "article_url": "https://abcnews.go.com/Business/ai-make-big-profits-experts-weigh-bubble-fears/story?id=127858140",
+      "image": "https://i.abcnewsfe.com/a/40e42138-e82f-4c35-a38b-2b29befe6b02/data-center-as-gmh-240508_1715180111066_hpMain_2_16x9.jpg?w=1600",
+      "description": "The U.S. economy has come to increasingly depend on the AI boom, despite risks."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T14:31:47.901206+00:00"
+  "fetched_at": "2025-11-29T15:21:01.334781+00:00"
 }

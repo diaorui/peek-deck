@@ -23,7 +23,7 @@
       "url": "https://replaceyourboss.ai/",
       "hn_url": "https://news.ycombinator.com/item?id=46072002",
       "author": "_tk_",
-      "points": 434,
+      "points": 435,
       "num_comments": 175,
       "created_at": "2025-11-27T18:37:41Z",
       "object_id": "46072002",
@@ -51,8 +51,8 @@
       "url": "https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action",
       "hn_url": "https://news.ycombinator.com/item?id=46083004",
       "author": "pyrophoenix",
-      "points": 391,
-      "num_comments": 116,
+      "points": 402,
+      "num_comments": 119,
       "created_at": "2025-11-28T21:40:21Z",
       "object_id": "46083004",
       "image": "https://www.airbus.com/sites/g/files/jlcbta136/files/styles/thumbnail/public/2025-09/airbus-sharing-default.png?itok=AqaYIUdZ",
@@ -65,8 +65,8 @@
       "url": "https://objectiveunclear.com/airloom.html",
       "hn_url": "https://news.ycombinator.com/item?id=46080289",
       "author": "azinman2",
-      "points": 239,
-      "num_comments": 74,
+      "points": 240,
+      "num_comments": 76,
       "created_at": "2025-11-28T16:49:12Z",
       "object_id": "46080289",
       "image": "https://objectiveunclear.com/images/airloom.png",
@@ -121,7 +121,7 @@
       "url": "https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/",
       "hn_url": "https://news.ycombinator.com/item?id=46079987",
       "author": "toomuchtodo",
-      "points": 182,
+      "points": 183,
       "num_comments": 142,
       "created_at": "2025-11-28T16:21:09Z",
       "object_id": "46079987",
@@ -136,7 +136,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46078407",
       "author": "flail",
       "points": 122,
-      "num_comments": 123,
+      "num_comments": 125,
       "created_at": "2025-11-28T13:21:17Z",
       "object_id": "46078407",
       "image": null,
@@ -145,7 +145,7 @@
       "site_name": "garymarcus.substack.com"
     }
   ],
-  "total_hits": 347,
+  "total_hits": 338,
   "has_metadata": true,
-  "fetched_at": "2025-11-29T14:31:34.001720+00:00"
+  "fetched_at": "2025-11-29T15:20:44.551402+00:00"
 }
