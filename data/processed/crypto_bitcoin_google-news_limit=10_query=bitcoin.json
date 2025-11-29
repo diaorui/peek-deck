@@ -5,26 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin rises above $90,000 as cryptocurrency attempts recovery amid stock market gains",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb1Q0alJEcUdySjUwZmxfX2ZQaXBEU002eVhrVVo2VU5mZFA2aGpZWTB3c2xiZm5MNWpaZERudHVwZUh6aXJzdjdBRkp1VzBTMFNDT2ZOWmtLTHRYTF9DeGdLcy1Za1JucXp6aHJIU0tOczNWYTJ0TUlTZ0k2b3JpNlY5TUN1SXdkZTJfVjZTTWhuT2RJaF9sQ3ZsY0VoNzF4eTZ4RXhhTGFDNHFnaVZtUjF5R2hjaXhNYWdobC1rbWY3UGxmOFpIdmU3Zw?oc=5",
-      "pub_date": 1764185645.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-rises-above-90000-as-cryptocurrency-attempts-recovery-amid-stock-market-gains-193405385.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/.Z5tyxKY78q5nSzRFNKQXQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjQ-/https://s.yimg.com/os/creatr-uploaded-images/2021-04/5af69a20-a8e5-11eb-bf7f-5f2e9fe992ce",
-      "description": "Bitcoin has struggled to bounce back meaningfully despite a price uptick on Wednesday."
-    },
-    {
-      "headline": "Crypto Markets Today: BTC Price Rises, but Faces Make-or-Break Resistance",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUHl2TnVCUTFRazdzS3hZV1RWN3ZVdUN6WU1QU0cwOEFqMnpDMjlvbHlzMkpndjVUbTJ4emhPTzFZRlFSSUtnZWxLQjRWTnR0YnprblRmZXoweERzTWwyeHFLMGJsamNkcTI0N2RSTDVtT2hUWVdXSDVQeno4d1BTS3dmWFotNVV1dUl1QTRaTFdHdzlZWXpMeDl3bWdTcm82a3lJVXZoSS1jOE0?oc=5",
-      "pub_date": 1764329616.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/28/crypto-markets-today-bitcoin-rebounds-but-downtrend-still-looms",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin set to rally back to $100,000, BTIG says",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -33,6 +13,26 @@
       "article_url": "https://www.cnbc.com/2025/11/28/bitcoin-set-to-rally-back-to-100000-btig-says.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108229960-1763739030339-gettyimages-2244475103-omarques_03112025_tech_9_of_15.jpeg?v=1763739082&w=1920&h=1080",
       "description": "Bitcoin is trading above $90,000 again, and the token could soon reclaim its $100,000 level, BTIG analysts said in a recent note to clients."
+    },
+    {
+      "headline": "Crypto Markets Today: Bitcoin (BTC) Price Rally Reignites Year-End Optimism",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVnh4eDk4cHZzSmdWdjBhc294LXVsZzU2NEc4U1NBNDZEMWhKQXJhRnlSaXJib2Z6UElINTk2ZGxjRTRHVnVtd2xRc3lNUXZJMjE3MmJYSGFPSE1wV2F3VDl1R2dvaXhXTnVUeEN3Z0t4MDlnOXpmeW1wanppS3d4Z0VPOWV4cHA0bE02RXI2M0gwRHhfNHIxSzVGaGE1ZDhsY09UYjNhcjU2eHJ5T1JXTVZZU0hpNTRWQktfcEY2dk1xLWNlVmJMcA?oc=5",
+      "pub_date": 1764243219.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/27/crypto-markets-today-bitcoin-leads-broad-recovery-as-traders-eye-possible-santa-rally",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Climbs to End Terrible Month for Cryptos. What History Says Happens Next.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQdE56X19HVWdYTTRmS1MwWlFFV1p3cHNoTU1lOUhxVVotUmI4Z1lSRm1BWmJtRDBnTFMzUFo0bDE3bGNNbVM2LXFYaldpdGNJQTdIOVg1TnU0UTJxOXhwdFBlLUd0X3dINEtxeEdUSXlsYmJveDVEREdFZm5CUlFsckt4eHNhSlJJRnF4YlB3V2F0UzhpSVZjbE9kTU9fY2FFY21LSHhCT3JIcTNBemRIcUpuVVFyT1VXNmxJckhlOG9oeUpsME5SaFFGSWlLalJGeHRaMDJKTDUzQWlrWENaY3ZlWFA1bzZScGJXMzFORFByNG01bWlkRmxJUHZoVExKRWFBNXN1OEF2cmdmVGxSQzBBWm5yek9MUUJpWDRCaTRQcEtQeEV6X2piS3llZUVXZDhoSXp1S05XX3lzaGJtMm1fLVI2S0tqcWRZS0JXU08zWFoyN2VfaEpwNlNkS2h4OUZtQUVJNE5lNU1QbVFnclZSM2ZnOFZTZG16OEJyTExodHdEdnRtV0ZZbWVHQQ?oc=5",
+      "pub_date": 1764335760.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-8cc13d60?gaa_at=eafs&gaa_n=AWEtsqfzhw6eR-IY96RJhxZ6Klu61QbKQyle8OAgYz7YBnMCxKJYp6LVfFY9&gaa_ts=692b5786&gaa_sig=tJD4-EqKrwDEJEeYQPIwTH2qukotJIOTh2c2kAhPcqIIVQtTqG4hSyu-y7BwqDAUPrTTCYt8jyC1wGhtmXf1-Q%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Opinion: Bitcoin is now the barometer for the buckwild U.S. economy, and it looks bad",
@@ -45,24 +45,24 @@
       "description": "The next Fed Reserve rate-setting meeting could offer a signpost to bitcoin\u2019s performance in 2026"
     },
     {
-      "headline": "BTC USD forecast 2025: Why Arthur Hayes predicts Bitcoin price will hit $250,000 by year-end & why $80,600",
-      "source": "The Economic Times",
-      "source_url": "https://m.economictimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOblRoMnFtV0hqWFhxazBYOC1XaUhvVXBJY1QwdjI1TG9mRlJvRGNUMEJDbFN4QWliTHBET3d6VndHdkVoLXF5bEVvbDRIcUR2LUpFMzcwcTlXemlFeENPVW80OXBsNmFFTlpyUlFxZS0zNXROWHlpd3dSVWVaZFdjU3FyZ2dDSjN1bXlkd3N1NHM5cjVNS09idDRPbThqRWpkYk1MYW1IS3o1cTNqWWF4Vmw0NF9QX1BoUHh5aW5rQzhvMUpRTXROekpKVUFKUjUxcGhITy1zdkFFNTNEQ1lEMGJCYVhTdTRMSFM5RkRoQVZMUVZSN3JhdnBZMDBxa0U1eU9iUXU1M3hUNDlzTUV3UjZmZkF5UXNkWUpNTVR0eW93VFhyeFVkS0ZGONIBsAJBVV95cUxOLWl5bnJuUWFiS3hKaW5MQnFJeXRUNEdySElxd0U0LWdGY3N4UXB5WkEwcDN0MmlqZHM4LVhuN19XeXU4d05Jd1JUemtXU1BNaWhyNDJvNnNKcWZOYUcwV0FaV21BZ0F4VWpHZzRLSlZNeGJPSnJPS0tmVHJjMmdrOE1CRk9QVFVBRmxGWlk5UUFQUEVqZko0dTBoT2taLU50dU1ZUWtUdnVLa1UycERreWkyVC0yUGttaE4tV3RkdEJFSmxrUUxXZXFlbUhvbmY5MjRLTUlKRDRmcmZMWjM0UFNSWlZYSTE0TFI2SkM1Rlp2UTRkOHJqM1pBbXBVLUNfLW1rcEFOSnluMFVPUkV6OGVFTHRUVkJGWURBNHBxa0xPM2w2RDhQQXh4clliaTQx?oc=5",
-      "pub_date": 1764433811.0,
-      "article_url": "https://m.economictimes.com/news/international/us/btc-usd-forecast-2025-why-arthur-hayes-predicts-bitcoin-price-will-hit-250000-by-year-end-why-80600-dip-marks-the-market-bottom/articleshow/125659869.cms",
-      "image": "https://img.etimg.com/thumb/msid-125660481,width-1200,height-630,imgsize-51972,overlay-economictimes/articleshow.jpg",
-      "description": "Bitcoin price prediction 2025: Bitcoin expert Arthur Hayes predicts a price increase to $250,000 by year-end 2025, attributing recent price movements to technical repositioning rather than institutional sell-offs. Learn more about Hayes' insights into Bitcoin's future and market trends."
-    },
-    {
-      "headline": "Bitcoin faces 3 headwinds as the cryptocurrency sits 28% below record high",
+      "headline": "Why Gold Shines at +55% While Bitcoin Tanks: The Great Divergence of 2025",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR25KMUVPU2NjUkxVeWt0VWYzQ3NkUGNFWUowZGVySjhjRmdEX1Jwd0txTUoyanBNRmxpX0JmSzNDNDE5NGZYWkV1TEdDZ1duLTk5RlYzbXVrdXNURWhKaVBKa0lLVmRyLVkzaUU2Q1RZaTRzYVRfM2ZfWHM3WUFzZXMtRzRKUGxRLTE5aWNzWTQ3d3hQR3BuVlRtZUk4Y21oU0QtUEdSVTBRWDh4S0JOVF9xU2JsUkswbWtB?oc=5",
-      "pub_date": 1764439313.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-faces-3-headwinds-as-the-cryptocurrency-sits-28-below-record-high-213736627.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/j9TUOg8GIxjPxGeMD6MmjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/79dfbd80-c72c-11f0-bbfd-7afdd601f2f5",
-      "description": "Bitcoin headwinds mount as the token hovers around $86,000."
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xNjZzaThsVHVtSUthd3dGSE1qalBYeDZ2bDhhYV93OEhFTjkzUHc2dUUwYjRsMWg4RXpNdW5lWDNPUVh3Q2pXZklxeUdaZUE3TFoxOE04eVZMUkxUblhTZlREcktZUEtWSFQ4VFd2R0lMNG1ieUo4X19n?oc=5",
+      "pub_date": 1764444523.0,
+      "article_url": "https://finance.yahoo.com/news/why-gold-shines-55-while-192843547.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/DOvmmEV28wNU59PKdDzU2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/24_7_wall_st__718/cd1809babf5aa3d4f18803b33aa9af02",
+      "description": "In 2025, precious metals and crypto took radically different paths. Gold closed the year up over 55%, its strongest performance in over a decade and the best return among all major asset classes. Bitcoin (CRYPTO: BTC), by contrast, slipped into bear market territory after a spectacular rally earlier in the year. BTC fell below $90,000 ... Why Gold Shines at +55% While Bitcoin Tanks: The Great Divergence of 2025"
+    },
+    {
+      "headline": "Biggest crash in history warning: Why Robert Kiyosaki urges buying Bitcoin (BTC USD), Ethereum (ETH), gold",
+      "source": "The Economic Times",
+      "source_url": "https://m.economictimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbXFQcmxxcktaUW1pNmNxSElfd29rNExHaXl6bEUtdkxnN3luMzF2TnJOOEpuQndzQ1RSVTBjZnNxbDFGOWQ0Z3loZjU1Zkl6YmNRbG5nTDJjbExRU0FGU2I1UzdOaWdVVFdjZUk0d0xjbVhXeDFtWlY2ZzBoUjhDNkxyTXE0OHl4V0dCSGpWUXVZVTEzU1FSVGNyS28tSlVRZUJ2OXVBSG1VeE9qcWFBdzhKVHZ1UUZ4MXFVSngyU2VidXFDbk5vaDBubjJvQXNtSkNPVy1tS3psODFfWXk5QUZja3lVQ1dlRS15aGNCNUxiUURoYzk1cDhYaUFRblRkSkt5R1BhZEtITWZJRmdmZzZaWDfSAZoCQVVfeXFMUGtBaWZmSlYwY0h4MHI3LVNaWUU5Q3JkUEFuZndYbFlUNXRRcE9Pa3ZfRF9XbzdjQVloeEdwX3g5bnJ3ZWZvSHVBQzVhMWpCMWlDNXQwemllcGlaTjVfRXRMTXdJZlAxSHNTOWU5R3NudUtjRlhRR25Hd3dkT3lCSEpDcXFjVzN4bnJoSldySVFjRGxEN0dKU1ZIUHhDY3Y3eUxrajZWWDZBUnRYZnVUQVNNbE10ZGZRY3hVUkk2YnJEZlB2VXB0UTZXOTZ3RTdWQmlEMFlvV0dmM0MyLXlYM2dnVkUzUXBxRjNLTEJ2eU1QbnFGcWRtcXhkQWxaTVhmLXJndW9xVWRRb2xRNXpzTGNQQzc5RVAzZDRn?oc=5",
+      "pub_date": 1764444620.0,
+      "article_url": "https://m.economictimes.com/news/international/us/biggest-crash-in-history-warning-why-robert-kiyosaki-urges-buying-bitcoin-btc-usd-ethereum-eth-gold-silver-now/articleshow/125663779.cms",
+      "image": "https://img.etimg.com/thumb/msid-125664211,width-1200,height-630,imgsize-87470,overlay-economictimes/articleshow.jpg",
+      "description": "Biggest market crash warning: Bestselling author Robert Kiyosaki warns investors of an imminent global financial crisis and urges them to invest in Bitcoin, Ethereum, gold, and silver before the market crash intensifies. Learn why he believes these assets are crucial for wealth protection."
     },
     {
       "headline": "21 Rules of Bitcoin",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T19:29:34.552723+00:00"
+  "fetched_at": "2025-11-29T20:14:14.959709+00:00"
 }

@@ -8,10 +8,10 @@
       "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.",
       "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
       "preview_image": "https://opengraph.githubassets.com/0149e9dee040bdbc5bac27041b650c36eb840b6598bb203b6c4875d2fb75fad9/ZeroLu/awesome-nanobanana-pro",
-      "stars": 2487,
+      "stars": 2519,
       "stars_display": "2.5k",
-      "forks": 190,
-      "forks_display": "190",
+      "forks": 193,
+      "forks_display": "193",
       "language": null,
       "topics": [
         "gemini",
@@ -30,10 +30,10 @@
       "description": "Gausian - Rust-based local video editor for AI video production",
       "url": "https://github.com/gausian-AI/Gausian_native_editor",
       "preview_image": "https://opengraph.githubassets.com/00b325081b4d8d90054b919e75ae8b0f8bb82d16befdd2579a46d96946d5088c/gausian-AI/Gausian_native_editor",
-      "stars": 1232,
+      "stars": 1234,
       "stars_display": "1.2k",
-      "forks": 17,
-      "forks_display": "17",
+      "forks": 18,
+      "forks_display": "18",
       "language": "Rust",
       "topics": [],
       "updated_at": "2025-11-19T07:47:20Z"
@@ -195,6 +195,6 @@
   "search_query": "ai created:>2025-10-30",
   "days": 30,
   "limit": 10,
-  "total_count": 218714,
-  "fetched_at": "2025-11-29T18:56:02.070402+00:00"
+  "total_count": 219062,
+  "fetched_at": "2025-11-29T20:13:54.387868+00:00"
 }

@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Colleges Are Preparing to Self-Lobotomize",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVNzSGpjUGpfekZmX0JpY3BHQU1KbkJQNE05Qk81Vi1WT3BIUHpScGx2enprZ1U2dDUweDF0MVRpc2RnRkdPM29HYUVWZWtqd1o0ejloZ242blVGY2lJQ1I1TEhweDd4Umk4bHlwb1ZKX1N3aGpXdnNBRXVaY0NYMUt1N3pLSTA?oc=5",
+      "pub_date": 1764417600.0,
+      "article_url": "https://www.theatlantic.com/ideas/2025/11/colleges-ai-education-students/685039/",
+      "image": "https://cdn.theatlantic.com/thumbor/DuI6ztNIdIeKfaY9I8NIsyHiw8U=/0x61:2876x1559/1200x625/media/img/mt/2025/11/2025_11_AI_school_/original.jpg",
+      "description": "The skills that students will need in an age of automation are precisely those that are eroded by inserting AI into the educational process."
+    },
+    {
       "headline": "N.Y. Law Could Set Stage for A.I. Regulation\u2019s Next \u2018Big Battleground\u2019",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -15,24 +25,44 @@
       "description": null
     },
     {
-      "headline": "AI is taking jobs \u2014 here\u2019s Coursera CEO's No. 1 tip for grads to stay competitive",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU3V1ZUxrcWRxNFJzMmpTQWk3WndkUTdfRk4wUi0zSUstQThhZTVNZzVSNnZ0cUZMTDVhY2JhSFRQLWxoY3dEdnFMdHltV3ViYnFOZG96MnBoYmF3U1pPOXR4VFJxeDFwNS04bkJJZC1BTnZzZEFPWXZBVGpSM3VLclZfclltZENQWnc5YWtITlRvekQ1RUFlT3NLY21BV3VMeE5jWEZhdlJqQdIBrwFBVV95cUxNNFFsbFJmejVQbEl0enI3NkIwSFVwSnhZUlZwd2FZQ0VQQWVGSmNaMjg4cGd1ZnNYa2F6QUtTeFlFX3A0Xzc3WTRtZGhEQ0FVdFZxeWxhd0hFTUxOMXFpQmVOMkc5ajRHSnFJVnI0TkpidTRidnJTc09IVnBtb3JMZ1k3cThIY0VoQW1HVlo5UENfT1hRbDFZY2lTbHJ0dnluTmtFZ05Lb20tNmlleGx3?oc=5",
-      "pub_date": 1764396201.0,
-      "article_url": "https://www.cnbc.com/2025/11/29/coursera-ceos-top-tips-for-grads-to-stay-competitive-as-ai-takes-jobs.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108232286-1764147921811-Greg_Hart_-_1_Chief_Executive_Officer_Coursera.jpg?v=1764148024&w=1920&h=1080",
-      "description": "\"They're [recruiters] going to be assessing your mindset and your traits as a human being more than your experience,\" Coursera's CEO told CNBC Make It."
+      "headline": "MIT Report Claims 11.7% of U.S. Labor Can Be Replaced with Existing AI",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTT3ptbE9LaFRqcGxWU3NRaUxaRGxzejRBZzNaUHUzOHRRWVNKeVZjVVhZc3p5dE50N0JfR0ktemFzR3BSOHBfdjZQc0gwWWxVNzFfcHl0VkJCN3MwbXBlMHlB?oc=5",
+      "pub_date": 1764443181.0,
+      "article_url": "https://gizmodo.com/replacement-study-mit-2000692601",
+      "image": "https://gizmodo.com/app/uploads/2025/11/empty-desk-1200x675.jpg",
+      "description": "The report notes that it has some limitations, but says \"policymakers cannot wait\" to act on its findings."
     },
     {
-      "headline": "The hottest new AI company is\u2026Google?",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02NDZpb2E5a2x5bC01ZDc5WGktaGdLZ2ZldnhTLXZLMmVHVlRUUGt0dnNIZWZvMm83d2U4VUxOWW5sblVubEd1Z3hqUE9UcExyR1BpUVMzeUF4STRDLVpMSzUtTGx0S2I0UVRVZUw0SjlYTHBpb2M1aHJ2dw?oc=5",
-      "pub_date": 1764417664.0,
-      "article_url": "https://www.cnn.com/2025/11/29/tech/ai-chips-google-gemini-3-tpu-nvidia",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2215580727-20251128180836519.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Google just threw another twist in the fast-changing AI race. And its biggest competitors are taking notice."
+      "headline": "25% of Warren Buffett's Portfolio Is Invested in These 3 Unstoppable AI Stocks",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaU9aclFnNkJhRVFFR1RIZWhBNlFYbk9LRTFENjlqa0x6bGRubVdKd2tBVjcyMjZidC03ejZoSENSdFhSR0R3YVhHZlVOMXRiOWIweWxBWmwxeTAtVW5naWxuT1NDdW5zN3dEanNQc3g3aEpEZXlsdHEtYkxwZmFsSWhvcFBReERGNXVJ?oc=5",
+      "pub_date": 1764407100.0,
+      "article_url": "https://finance.yahoo.com/news/25-warren-buffetts-portfolio-invested-090500432.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/v9Cnj0tju4bzD0JkaOlVmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/e5de53e45cf626974263607c340a65da",
+      "description": "These longtime market beaters are still at it."
+    },
+    {
+      "headline": "The 10 top AI stock picks for year-end, according to a Wall Street tech bull",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkQ5dGRJRFN2aW0zbU5aTWdXbXUwYnBIa1BUX2U1aVFwU2ZJTmphdi00QmRNeHI5UklHdmw1N3pCUndBTW51Z1JyUUdlVzRTTjk2UDc3ZVJFckViSEg2SWJHd1dYQlVmLS1ZQnRFRW9NMUNxLUlfTUd4V2x0V000RVdXeHBqQ0MtS3R0WW9iX1pMQnFZ?oc=5",
+      "pub_date": 1764411300.0,
+      "article_url": "https://www.businessinsider.com/top-10-ai-stock-picks-tech-stocks-pltr-google-msft-2025-11",
+      "image": "https://i.insider.com/69262d99e1a9cbb014defe50?width=1200&format=jpeg",
+      "description": "\"We believe this is a 1996 Moment...and NOT a 1999 Bubble Moment,\" said Wedbush analyst Dan Ives. He shared his top picks as markets head to year-end."
+    },
+    {
+      "headline": "Here's My Top Artificial Intelligence (AI) Stock to Buy in December (Hint: It's Not Broadcom)",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1hfcGFlblFFZW54eV80ZUY4NVpTX1VJMmREMjV5dU9kS3JYSWd2M1NMRzB6XzE0Zjd4WkVJQnNpa3BWd2sxbGZwTGN1XzRscndIM2x4d0JKV2hHLVVKQU9LN0c5QV9xaFVoaUxtNUpmZTJMZmpXRFVFMXZzYm9Xa1BBM3JMaXdOYWc?oc=5",
+      "pub_date": 1764444960.0,
+      "article_url": "https://finance.yahoo.com/news/heres-top-artificial-intelligence-ai-193600777.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/M87xFZfvmCVkhZPJCqDL6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/314417119be565760c7e1f36af259877",
+      "description": "This AI stock has shot up phenomenally in 2025, and it could soar even higher next year."
     },
     {
       "headline": "No, your favourite influencer hasn't got a dozen Dachshund dogs. It's just AI",
@@ -45,16 +75,6 @@
       "description": "There\u2019s a new social media trend taking over - influencers are using AI to add animals to their photos."
     },
     {
-      "headline": "Thousands of Amazon employees send open letter to CEO Andy Jassy; say: We\u2019re the workers who develop, tra",
-      "source": "The Times of India",
-      "source_url": "https://timesofindia.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNUkUtaFRENVN0aVdWT1FOWU1FODlEUS0zSG1ZM0dKZ0wzcFBZazQzVlZ3UWlsQk5NVTd1SklOSExwLWp1VUxYZWxLRG5sVEN6aEN3TS1EaXpVRnBFTHlTdDRFWl9BRmtHcG42TDI2a0ZMaC1ibVNSZlBmem1VM2JuX0ROaVRSUDJKbmI2aTJ3X3VVd3gxTTVIcEZKNjJQbjVrS0JIcDJZQUMwRHZrTWZJLUdmMGUxS2QxWEh3bEhWWVNWZE5DQV96bU1fVFBFUEhhVTJVOFBvOTlsN0hPaC1WYTNnT1F0cFQ2YmFjOHFKUG0tcFNvdnhNdEl3RG9UdFZzbENVajBtUzhrd25nRC1nTVVVdm5SVTFEVlZiZGJHUzBQSE9HTUV2OEFWRTN0Qk1MR0JJ0gG4AkFVX3lxTE1feHZVeWlYTHVocktaX1FjcU1leTRJcV9oMThwbTdvY01Hc2xrQUxTWHhCeXd5NVV2RnN3cTVRNk1UdDBTODl1ajFrS2hpNlZHeUlPQlRtX3lXZnQ4U0ZzbGc2UWNVZlVqSGhuOGlzMnc0M3NWTklTdE55MjBJZTZyRHNEVWx0dGd6a190ZG00czhEdXFqZ1ZwTHFKZ2s3R191X1BqRDhiTkpxWTloUUh6eS1kNEJ0QkZpM2tHS1ctTExGY0pCRUxnWDlMbEt6SmdkYjlyLUhVbzNGU3o1Tm5UaE84Z1I2THZMNGFidzhMRXRocGlZeml2NnJaSjdmVU50SUxmNjNhT0pkZWVxNElsYXE3U1hZREJIZ3kzMVhKRVpjNVBxNHduNnF0anJtOHVjQlI2YTdSZA?oc=5",
-      "pub_date": 1764361500.0,
-      "article_url": "https://timesofindia.indiatimes.com/technology/tech-news/thousands-of-amazon-employees-send-open-letter-to-ceo-andy-jassy-say-were-the-workers-who-develop-train-and-use-ai-so-we-have-/articleshow/125646835.cms",
-      "image": "https://static.toiimg.com/thumb/msid-125646821,width-1070,height-580,imgsize-53200,resizemode-75,overlay-toi_sw,pt-32,y_pad-500/photo.jpg",
-      "description": "Tech News News: Over 1,000 Amazon employees have signed an open letter warning of dire consequences from the company's rapid AI development. They argue Amazon is sacr"
-    },
-    {
       "headline": "Two Gen Zers turned down millions from Elon Musk to build an AI based on the human brain\u2014and it's outperformed models from OpenAI and Anthropic",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -65,46 +85,26 @@
       "description": "William Chen and Guan Wang believe they will be the first ones to build artificial general intelligence."
     },
     {
-      "headline": "AI is upending retirement planning",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fcEd2bmZ4MUxoSmx2R2V2eUhsMFZNVHRuUFpsUjhEQXBEeUNJTDZwTG5ISGN1dzRUZjhRcE9oMV95ZWJkcDFiWFdDVEdHNXZDOHVjWnFsemtlbjJDdEpGajlyaHpMcmFnRWxFYVdTMF9jY2F3Tm1mQTRILTc?oc=5",
-      "pub_date": 1764435484.0,
-      "article_url": "https://www.axios.com/2025/11/29/ai-bubble-retirement-financial-planning",
-      "image": null,
-      "description": null
+      "headline": "The hottest new AI company is\u2026Google?",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02NDZpb2E5a2x5bC01ZDc5WGktaGdLZ2ZldnhTLXZLMmVHVlRUUGt0dnNIZWZvMm83d2U4VUxOWW5sblVubEd1Z3hqUE9UcExyR1BpUVMzeUF4STRDLVpMSzUtTGx0S2I0UVRVZUw0SjlYTHBpb2M1aHJ2dw?oc=5",
+      "pub_date": 1764417664.0,
+      "article_url": "https://www.cnn.com/2025/11/29/tech/ai-chips-google-gemini-3-tpu-nvidia",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2215580727-20251128180836519.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Google just threw another twist in the fast-changing AI race. And its biggest competitors are taking notice."
     },
     {
-      "headline": "Jenna Ortega Says It\u2019s \u2018Very Easy to Be Terrified\u2019 of AI: \u2018It Feels Like We\u2019ve Opened Pandora\u2019s Box,\u2019 but \u2018There\u2019s Certain Things It\u2019s Just Not Able to Replicate\u2019",
-      "source": "Variety",
-      "source_url": "https://variety.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNam1tdlhfU1VsYUlISk1QMWdkbERkT09OdmtrTm00UjJ6Q0F0c1Jndk1BYUlGWVVNSUtYXzh0UXNxemFmbW1xZE1RRUNyd21sd3RDc253amZVZXBRc2xPLVpVQlEzQkhWZGpFMGhnci0zN0VZZlJHSHFCZ0FMZk5yODBxMEFReEVVUUlvTXJ1OC1RWnp3NXNaWA?oc=5",
-      "pub_date": 1764410100.0,
-      "article_url": "https://variety.com/2025/film/festivals/jenna-ortega-ai-film-easy-to-be-terrified-1236594676/",
-      "image": "https://variety.com/wp-content/uploads/2025/11/jenna.jpg?w=1000&h=563&crop=1",
-      "description": "Jenna Ortega sounded off on artificial intelligence at the Marrakech Film Festival, saying \"it's very easy to be terrified\" of it."
-    },
-    {
-      "headline": "Ukrainian drone pilots look to AI for battlefield edge",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWjZYcEFOOGFPbVA0NHhtSVgxT2dwT1VoVkNiNmtVQ3BUZXdPODRETDByQk9PM3hPQ3VZRVAwMEdGNlpWZEhKMU95RUFUQ1lmU3hDa2JXVHhRcVc4b1NwbkY0Tk1oMzZHeWpfeVN1ZnFsRTRlZHJKUmhUNS1MMk9aTVE4VUZGQkJBSkhmVlIxZnNaYkZTQmpfVmFIRmVBeFNMWl9FQ3BvOEZFLWZMM25R?oc=5",
-      "pub_date": 1764436721.0,
-      "article_url": "https://www.reuters.com/business/aerospace-defense/ukrainian-drone-pilots-look-ai-battlefield-edge-2025-11-29/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOdGxibFBtZGNXZDJaMk01TTYyYUpYYUFQLV9vWGppVTk5bEpXemNielM5TzBZd01uWWVpR3RNcjVjQ2FsRXdILUdqcHk1Tjl0Sk82VzZ5Q2E3NzNFbTBoX2dSa0hPYVFqeU5aaHBGaFhLX2pCT3RJMVp1RDVRQ1hpUFFtRDYzbGpCT29OMXJVWV9uZkptajdTQV93b0FGOFZCVGw5eTMzekVZbkVaMzRqWFZGSTRKVWZRYnpsWHNJOUhCcFA5dDVtVUpxSXA0SHRKcVBsQ05ySE1oajA1REJWWHBHRUNFTGU1d0xRVHJNQUEwNkNxQ0FyaFRqaG5EcDZUUVdHb0pJd0hNdGVjY2xrcVJ3Zk1WXzEtQ2lqd01YbEpDNnNHWGl6d3I2VE5XaHd1Q2tpZHphaXktNkk4RUxlS2ZqVkVhQ1VheDdUYm9DV1publFFc04wTjZoM0pOdG1nMXF1ckpKR2NjM1FKU0VDbVo5OVFwRVhmRzF0MjlQSjBlaWZ2d1NNWDFYbmpOd3FWTllSLWxUTEo0OWxQazItLXo3Z0VhbFJBakszR001UHM3dw?oc=5",
-      "pub_date": 1764295200.0,
-      "article_url": "https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1?gaa_at=eafs&gaa_n=AWEtsqfxpLgOilsMvwy0sTUi7Ayb9B8OmEu6hwWWdXZS8OTNUbk-FeTgBqRx&gaa_ts=692b4d16&gaa_sig=ZN47IJIIqRX5Sch-jpPhYF8jV8dRTaETsbKD8ZKVw3oOgQVtZgArV1CDDgmBouiyKP0nvg4xLEWA4Km1aquZWg%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "AI is taking jobs \u2014 here\u2019s Coursera CEO's No. 1 tip for grads to stay competitive",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU3V1ZUxrcWRxNFJzMmpTQWk3WndkUTdfRk4wUi0zSUstQThhZTVNZzVSNnZ0cUZMTDVhY2JhSFRQLWxoY3dEdnFMdHltV3ViYnFOZG96MnBoYmF3U1pPOXR4VFJxeDFwNS04bkJJZC1BTnZzZEFPWXZBVGpSM3VLclZfclltZENQWnc5YWtITlRvekQ1RUFlT3NLY21BV3VMeE5jWEZhdlJqQdIBrwFBVV95cUxNNFFsbFJmejVQbEl0enI3NkIwSFVwSnhZUlZwd2FZQ0VQQWVGSmNaMjg4cGd1ZnNYa2F6QUtTeFlFX3A0Xzc3WTRtZGhEQ0FVdFZxeWxhd0hFTUxOMXFpQmVOMkc5ajRHSnFJVnI0TkpidTRidnJTc09IVnBtb3JMZ1k3cThIY0VoQW1HVlo5UENfT1hRbDFZY2lTbHJ0dnluTmtFZ05Lb20tNmlleGx3?oc=5",
+      "pub_date": 1764396201.0,
+      "article_url": "https://www.cnbc.com/2025/11/29/coursera-ceos-top-tips-for-grads-to-stay-competitive-as-ai-takes-jobs.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108232286-1764147921811-Greg_Hart_-_1_Chief_Executive_Officer_Coursera.jpg?v=1764148024&w=1920&h=1080",
+      "description": "\"They're [recruiters] going to be assessing your mindset and your traits as a human being more than your experience,\" Coursera's CEO told CNBC Make It."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T19:29:40.491513+00:00"
+  "fetched_at": "2025-11-29T20:14:12.562657+00:00"
 }

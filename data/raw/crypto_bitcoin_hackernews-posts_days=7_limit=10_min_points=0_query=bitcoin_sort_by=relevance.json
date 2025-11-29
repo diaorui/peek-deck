@@ -122,7 +122,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46086920",
       "author": "kokau",
       "points": 37,
-      "num_comments": 9,
+      "num_comments": 10,
       "created_at": "2025-11-29T12:04:23Z",
       "object_id": "46086920",
       "image": "https://magiclip.io/assets/images/favicon.webp",
@@ -136,7 +136,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46083162",
       "author": "slederer",
       "points": 9,
-      "num_comments": 12,
+      "num_comments": 13,
       "created_at": "2025-11-28T22:00:51Z",
       "object_id": "46083162",
       "image": "https://bitmovin.com/wp-content/uploads/2025/11/Bitmovin_2025_Blog_Hackathon_Lessons-min-768x403.jpg",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 11,
   "has_metadata": true,
-  "fetched_at": "2025-11-29T19:29:22.648614+00:00"
+  "fetched_at": "2025-11-29T20:13:55.448651+00:00"
 }

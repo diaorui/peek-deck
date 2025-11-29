@@ -35,7 +35,7 @@
       "num_comments": 4,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
-      "github_stars": 4664,
+      "github_stars": 4694,
       "project_page": "https://ai.meta.com/sam3/"
     },
     {
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 97,
+      "upvotes": 98,
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
@@ -134,6 +134,25 @@
       "project_page": null
     },
     {
+      "id": "2511.16043",
+      "title": "Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning",
+      "authors": "Peng Xia, Kaide Zeng, Jiaqi Liu et al. (8 authors)",
+      "organization_name": "UNC-ChapelHill",
+      "organization_fullname": "University of North Carolina at Chapel Hill",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/669f9c85bd649dba3b88e581/H5uB8_MCewnMtxEUnAvTL.png",
+      "summary": "Large Language Model (LLM) Agents, often trained with Reinforcement Learning (RL), are constrained by a dependency on human-curated data, limiting scalability and tethering AI to human knowledge. Existing self-evolution frameworks offer an alternative but are typically restricted by the model's inherent capabilities and single-round interactions, hindering the development of complex curricula involving tool use or dynamic reasoning. We introduce Agent0, a fully autonomous framework that evolves high-performing agents without external data through multi-step co-evolution and seamless tool integration. Agent0 establishes a symbiotic competition between two agents initialized from the same base LLM: a curriculum agent that proposes increasingly challenging frontier tasks, and an executor agent that learns to solve them. We integrate external tools to enhance the executor's problem-solving capacity; this improvement, in turn, pressures the curriculum agent to construct more complex, tool-aware tasks. Through this iterative process, Agent0 establishes a self-reinforcing cycle that continuously produces high-quality curricula. Empirically, Agent0 substantially boosts reasoning capabilities, improving the Qwen3-8B-Base model by 18% on mathematical reasoning and 24% on general reasoning benchmarks. Code is available at https://github.com/aiming-lab/Agent0.",
+      "ai_summary": "Agent0, a self-evolving framework utilizing multi-step co-evolution and tool integration, enhances LLM reasoning capabilities without human-curated data.",
+      "hf_url": "https://huggingface.co/papers/2511.16043",
+      "arxiv_url": "https://arxiv.org/abs/2511.16043",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16043.png",
+      "upvotes": 97,
+      "num_comments": 4,
+      "published_at": "2025-11-20T00:01:57.000Z",
+      "github_repo": "https://github.com/aiming-lab/Agent0",
+      "github_stars": 654,
+      "project_page": null
+    },
+    {
       "id": "2511.18423",
       "title": "General Agentic Memory Via Deep Research",
       "authors": "B. Y. Yan, Chaofan Li, Hongjin Qian et al. (5 authors)",
@@ -151,25 +170,6 @@
       "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
       "github_stars": 373,
       "project_page": "https://github.com/VectorSpaceLab/general-agentic-memory"
-    },
-    {
-      "id": "2511.16043",
-      "title": "Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning",
-      "authors": "Peng Xia, Kaide Zeng, Jiaqi Liu et al. (8 authors)",
-      "organization_name": "UNC-ChapelHill",
-      "organization_fullname": "University of North Carolina at Chapel Hill",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/669f9c85bd649dba3b88e581/H5uB8_MCewnMtxEUnAvTL.png",
-      "summary": "Large Language Model (LLM) Agents, often trained with Reinforcement Learning (RL), are constrained by a dependency on human-curated data, limiting scalability and tethering AI to human knowledge. Existing self-evolution frameworks offer an alternative but are typically restricted by the model's inherent capabilities and single-round interactions, hindering the development of complex curricula involving tool use or dynamic reasoning. We introduce Agent0, a fully autonomous framework that evolves high-performing agents without external data through multi-step co-evolution and seamless tool integration. Agent0 establishes a symbiotic competition between two agents initialized from the same base LLM: a curriculum agent that proposes increasingly challenging frontier tasks, and an executor agent that learns to solve them. We integrate external tools to enhance the executor's problem-solving capacity; this improvement, in turn, pressures the curriculum agent to construct more complex, tool-aware tasks. Through this iterative process, Agent0 establishes a self-reinforcing cycle that continuously produces high-quality curricula. Empirically, Agent0 substantially boosts reasoning capabilities, improving the Qwen3-8B-Base model by 18% on mathematical reasoning and 24% on general reasoning benchmarks. Code is available at https://github.com/aiming-lab/Agent0.",
-      "ai_summary": "Agent0, a self-evolving framework utilizing multi-step co-evolution and tool integration, enhances LLM reasoning capabilities without human-curated data.",
-      "hf_url": "https://huggingface.co/papers/2511.16043",
-      "arxiv_url": "https://arxiv.org/abs/2511.16043",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16043.png",
-      "upvotes": 97,
-      "num_comments": 4,
-      "published_at": "2025-11-20T00:01:57.000Z",
-      "github_repo": "https://github.com/aiming-lab/Agent0",
-      "github_stars": 618,
-      "project_page": null
     },
     {
       "id": "2510.22543",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-29T18:56:02.870987+00:00"
+  "fetched_at": "2025-11-29T20:13:55.063763+00:00"
 }
