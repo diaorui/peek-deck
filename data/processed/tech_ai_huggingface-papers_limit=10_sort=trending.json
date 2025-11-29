@@ -16,7 +16,7 @@
       "num_comments": 1,
       "published_at": "2023-06-14T11:18:48.000Z",
       "github_repo": "https://github.com/nlpxucan/WizardLM",
-      "github_stars": 9460,
+      "github_stars": 9462,
       "project_page": null
     },
     {
@@ -54,7 +54,7 @@
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
-      "github_stars": 4098,
+      "github_stars": 4137,
       "project_page": "https://ai.meta.com/sam3d/"
     },
     {
@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2511.18423",
       "arxiv_url": "https://arxiv.org/abs/2511.18423",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.18423.png",
-      "upvotes": 141,
+      "upvotes": 142,
       "num_comments": 2,
       "published_at": "2025-11-23T07:29:33.000Z",
       "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-29T14:31:33.791537+00:00"
+  "fetched_at": "2025-11-29T15:35:57.028806+00:00"
 }
