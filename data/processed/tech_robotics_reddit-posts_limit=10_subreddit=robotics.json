@@ -24,6 +24,17 @@
       "description": "Hey everyone, Just wanted to share a short clip of my DIY robot, BaBot, in action. It\u2019s taken a lot of trial and error to get it to move smoothly, and I\u2019m still tweaking things, but I\u2019m really happy with how it turned out so far. Would love to hear any thoughts !"
     },
     {
+      "title": "Actuator/servo",
+      "author": "NoIntern2903",
+      "url": "https://www.reddit.com/r/robotics/comments/1p9xup1/actuatorservo/",
+      "published": 1764445370.0,
+      "thumbnail": "https://a.thumbs.redditmedia.com/YP9Klcl1OT6-6xAMhULhsiYLepWK0L5m_fJh0PPffe4.jpg",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Many in the RC community haven\u2019t been able to help a lot in these regards. Im struggling to get my servo programmed how I want it to for my RC snow plow and I\u2019m not sure how to program two actuators to act as my angle method so one comes in when the other pushes out and vice versa the other direction. Currently I\u2019m using an RC winch controller board on my RX to TX as my lift actuator and it works. When I tried to program two actuators to do as I wanted with the opposite wires tied together i think wires crossed and shorted the controller board. But I don\u2019t think ot could handle two actuators anyways. I\u2019m really wanting to keep this a simple build using a single battery if possible and on one TX. Any help appreciated. Pics are of my plow."
+    },
+    {
       "title": "Paper Science Robotics: Scientists in Korea have developed a rollable robotic structure that is flexible enough to collapse into a compact hub, but also stiff enough to bear heavy loads like 3D printers when extended",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1p8qdje/paper_science_robotics_scientists_in_korea_have/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "So i used an api to export a valid package for visualization on rviz2 and gazebo harmonic, but the .gszebo file runs with plugins which are deprecated. (That's a problem for the node&topics logic on Ros2jazzy) When i tried to migrate to an sdf file, scale woes complete wrong, enormous models i dont understand where is the problem, gazebo harmonic explicitly process the sdf file in meters while my models where exported in meters precisely. \u00bfIt's the stl format on harmonic+std giving me hard times or is fusion+stl? How can i import my meshes in to gazebo with this method, any other way to import my own models. Thank you for read."
-    },
-    {
-      "title": "Getting rid of ~25 Nvidia Jetson TX2 Kits w/ Carrier Board, Camera Kit & Battery for robotics startups",
-      "author": "Mr-Ababe",
-      "url": "https://www.reddit.com/r/robotics/comments/1p95um5/getting_rid_of_25_nvidia_jetson_tx2_kits_w/",
-      "published": 1764363293.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Trying to sell ~25 TX2 kits at a good discount for an old robotics project I had. They consist of: Nvidia Jetson TX2 Carrier Board from Colorado Eng: https://coloradoengineering.com/products/x-carrier-nvidia-tegra-x2-carrier-module/ Leopard Imaging 3 camera kit https://leopardimaging.com/product/platform-partners/nvidia/agx-xavier-camera-kit/agx-xavier-mipi-camera-kits/li-xavier-kit-imx274-x/li-xavier-kit-imx274cs-t/ Li-Ion battery (76.96 WH) When i was prototyping this, I sure as hell wished we could get our hands on cheaper parts. Looking to sell to a small startup. PM me if interested! Comes with a full housing and heatsink for outdoor use."
     }
   ],
-  "fetched_at": "2025-11-29T19:29:25.386357+00:00"
+  "fetched_at": "2025-11-29T20:13:59.043429+00:00"
 }
