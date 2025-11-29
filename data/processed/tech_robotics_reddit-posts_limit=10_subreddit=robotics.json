@@ -13,17 +13,6 @@
       "description": "From LimX Dynamics on \ud835\udd4f: https://x.com/LimX_Dynamics/status/1994408054989987939?s=20"
     },
     {
-      "title": "Paper Science Robotics: Scientists in Korea have developed a rollable robotic structure that is flexible enough to collapse into a compact hub, but also stiff enough to bear heavy loads like 3D printers when extended",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1p8qdje/paper_science_robotics_scientists_in_korea_have/",
-      "published": 1764320917.0,
-      "thumbnail": "https://external-preview.redd.it/dnEwMzlvenJyeTNnMUEIKFVhDF_nw1oJUllM0yZt-Ec7J3VLtNEjTVjN7EAy.png?width=640&crop=smart&auto=webp&s=ba3e0b5d77721c42931d9ed88ecd17edda6e3378",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Science Robotics: Foldable and rollable interlaced structure for deployable robotic systems: https://www.science.org/doi/10.1126/scirobotics.adv4696"
-    },
-    {
       "title": "Ball Balancing Robot",
       "author": "JohanLink",
       "url": "https://www.reddit.com/r/robotics/comments/1p9n1hd/ball_balancing_robot/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey everyone, Just wanted to share a short clip of my DIY robot, BaBot, in action. It\u2019s taken a lot of trial and error to get it to move smoothly, and I\u2019m still tweaking things, but I\u2019m really happy with how it turned out so far. Would love to hear any thoughts !"
+    },
+    {
+      "title": "Paper Science Robotics: Scientists in Korea have developed a rollable robotic structure that is flexible enough to collapse into a compact hub, but also stiff enough to bear heavy loads like 3D printers when extended",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1p8qdje/paper_science_robotics_scientists_in_korea_have/",
+      "published": 1764320917.0,
+      "thumbnail": "https://external-preview.redd.it/dnEwMzlvenJyeTNnMUEIKFVhDF_nw1oJUllM0yZt-Ec7J3VLtNEjTVjN7EAy.png?width=640&crop=smart&auto=webp&s=ba3e0b5d77721c42931d9ed88ecd17edda6e3378",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Science Robotics: Foldable and rollable interlaced structure for deployable robotic systems: https://www.science.org/doi/10.1126/scirobotics.adv4696"
     },
     {
       "title": "Family bot build?",
@@ -55,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "We\u2019ve published an anonymized case study describing how an AI-driven security framework (CAI + Model Context Protocol) performed a full-stack assessment on a fleet of 500 Autonomous Mobile Robots (AMRs). The evaluation correlates firmware analysis, IaC cloud configuration, FMS data, network traffic, web stack inspection, and live telemetry. Findings include systemic issues such as unauthenticated UDP position broadcasts and a stored XSS leading to session hijacking. Full case study: https://aliasrobotics.com/case-study-sublight-shipping-MCP.php (This is an anonymized real-world scenario; no vendor identity included.)"
+    },
+    {
+      "title": "RPLIDAR suddenly stopped working",
+      "author": "Candid-Scheme1835",
+      "url": "https://www.reddit.com/r/robotics/comments/1p9n6zn/rplidar_suddenly_stopped_working/",
+      "published": 1764417369.0,
+      "thumbnail": "https://preview.redd.it/984gwacjq64g1.jpeg?width=640&crop=smart&auto=webp&s=9bd3016a1e056f129ad9c7c16085ca410762b132",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Was working with SLAM on ROS2 and my RPLIDAR suddenly stopped working \u2014 only 2 points show up. Tried swapping cables, reconnecting, even tested in RoboStudio \u2014 same result. Red laser is on and flickering. Has anyone ever faced a similar issue? Did you manage to fix it?"
     },
     {
       "title": "KUKA Programming",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "What board should I install on this robot dog I created, and what direction should I take in its development? Please leave a comment.\ud83d\ude3c\ud83d\udc4d"
-    },
-    {
-      "title": "I want to size scale up Otto diy 3d models.",
-      "author": "Affectionate-Army458",
-      "url": "https://www.reddit.com/r/robotics/comments/1p8u24f/i_want_to_size_scale_up_otto_diy_3d_models/",
-      "published": 1764334221.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I want to make a huamnoid robot using otto diy 3d models, but i found it its really small. So i want to scale it up, what implicaitons i could have? I cant just scale it's size up and everything will work, right?"
     }
   ],
-  "fetched_at": "2025-11-29T11:55:54.276189+00:00"
+  "fetched_at": "2025-11-29T12:43:01.520819+00:00"
 }
