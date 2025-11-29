@@ -2,6 +2,17 @@
   "subreddit": "robotics",
   "posts": [
     {
+      "title": "Full-size humanoid hobot LimX's Oli walks over construction debris (standing 165 cm tall and weighing 55 kg)",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1p9lmwl/fullsize_humanoid_hobot_limxs_oli_walks_over/",
+      "published": 1764411688.0,
+      "thumbnail": "https://external-preview.redd.it/eWd4MjducHk4NjRnMft9vFA-FNFjTxs8E3afZ-EBB4QQysHN5Jqw62PmqkrM.png?width=640&crop=smart&auto=webp&s=3151f354db997dfe4fab3361aa6ac5e71edee6a0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "From LimX Dynamics on \ud835\udd4f: https://x.com/LimX_Dynamics/status/1994408054989987939?s=20"
+    },
+    {
       "title": "Paper Science Robotics: Scientists in Korea have developed a rollable robotic structure that is flexible enough to collapse into a compact hub, but also stiff enough to bear heavy loads like 3D printers when extended",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1p8qdje/paper_science_robotics_scientists_in_korea_have/",
@@ -11,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Science Robotics: Foldable and rollable interlaced structure for deployable robotic systems: https://www.science.org/doi/10.1126/scirobotics.adv4696"
+    },
+    {
+      "title": "Family bot build?",
+      "author": "Morgoroth37",
+      "url": "https://www.reddit.com/r/robotics/comments/1p9l3ya/family_bot_build/",
+      "published": 1764409766.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "How hard would it be to build something like this? Either from scratch or modifying an existing Traxxas Tenton rc car. I've tried looking at various options involving 3d printing and Arduino both of which I have some experience in, but I can't find anything that fits my parameters. Controlled over WiFi for range. Camera Can move around Extra points for microphone and speakers."
     },
     {
       "title": "Anonymized case study: autonomous security assessment of a 500-AMR fleet using AI + MCP",
@@ -33,17 +55,6 @@
       "site_name": null,
       "favicon": null,
       "description": "Hi guys. I have an upcoming project in school where I have to draw 3 letters using the KUKA arm and a marker. I created an autocad drawing of the 3 letters on a 60x30 grid. I wrote down the coordinates for every point. What I would like to know is, how can I program the arm so that it moves a certain distance between each coordinate. for example pt 1,0 and 0,1 are 10mm apart, same between 1,0 and 1,0. Thank you !!!"
-    },
-    {
-      "title": "Family bot build?",
-      "author": "Morgoroth37",
-      "url": "https://www.reddit.com/r/robotics/comments/1p9l3ya/family_bot_build/",
-      "published": 1764409766.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "How hard would it be to build something like this? Either from scratch or modifying an existing Traxxas Tenton rc car. I've tried looking at various options involving 3d printing and Arduino both of which I have some experience in, but I can't find anything that fits my parameters. Controlled over WiFi for range. Camera Can move around Extra points for microphone and speakers."
     },
     {
       "title": "Doubt on gazebo harmonic ros2 + fusion360",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I'm a university student, and I have to write a program for pepper, I'm following the guide contained in the softbanks robotics documentation, but all the links to download the python SDK are not working, can someone direct me?"
-    },
-    {
-      "title": "butterfly robot!",
-      "author": "whatever_0709",
-      "url": "https://www.reddit.com/r/robotics/comments/1p7u6wz/butterfly_robot/",
-      "published": 1764221817.0,
-      "thumbnail": "https://external-preview.redd.it/aXgxaXVwNzhscTNnMaWuVypsQZw8tQxTCTqrmEh27-F0ZqPtbYPuy9PrZqKq.png?width=640&crop=smart&auto=webp&s=f07f91e3da40f40d305f3317a8f3ccc81f8977ba",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Chinese students are out here creating machine-generated butterflies\u2026 Like\u2014this isn\u2019t nature anymore, it\u2019s engineering with \u2728vibes\u2728. I\u2019m officially impressed \ud83e\udd8b\ud83e\udd16"
     }
   ],
-  "fetched_at": "2025-11-29T10:09:52.280895+00:00"
+  "fetched_at": "2025-11-29T10:47:27.136984+00:00"
 }
