@@ -13,6 +13,17 @@
       "description": "It's allegedly 1.5 times the speed of Nvidia's A100 GPU from 2020."
     },
     {
+      "title": "Does anyone actually use \u201c\u2014\u201c when typing?",
+      "author": "owenwags_",
+      "url": "https://www.reddit.com/r/artificial/comments/1p9ghg0/does_anyone_actually_use_when_typing/",
+      "published": 1764393159.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I thinks it\u2019s become quite noticeable that AI uses \u2014 quite often in its writing. No when I see it, it always makes me wonder if AI was at least used in the process. I\u2019m curious, did any of you actually use this in non formal typing before AI?"
+    },
+    {
       "title": "Anthropic's Jack Clark: We are like children in a dark room, but the creatures we see are AIs. Companies are spending a fortune trying to convince us AI is \"just a tool\" - just a pile of clothes on a chair. \"You're guaranteed to lose if you believe the creature isn't real.\" ... \"I am worried.\"",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1p8srk2/anthropics_jack_clark_we_are_like_children_in_a/",
@@ -33,17 +44,6 @@
       "site_name": null,
       "favicon": null,
       "description": "MIT study finds AI can already replace 11.7% of U.S. workforce.[1] China\u2019s DeepSeek Releases New Open Source AI Model Amid Google\u2019s Gemini 3 Roll Out.[2] US Patent Office issues new guidelines for AI-assisted inventions.[3] OpenAI claims teen circumvented safety features before suicide that ChatGPT helped plan.[4] Sources: [1] https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html [2] https://www.investors.com/news/technology/nvidia-stock-google-stock-deepseek-china-open-source-ai-models/ [3] https://www.reuters.com/legal/government/us-patent-office-issues-new-guidelines-ai-assisted-inventions-2025-11-26/ [4] https://techcrunch.com/2025/11/26/openai-claims-teen-circumvented-safety-features-before-suicide-that-chatgpt-helped-plan/"
-    },
-    {
-      "title": "Does anyone actually use \u201c\u2014\u201c when typing?",
-      "author": "owenwags_",
-      "url": "https://www.reddit.com/r/artificial/comments/1p9ghg0/does_anyone_actually_use_when_typing/",
-      "published": 1764393159.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I thinks it\u2019s become quite noticeable that AI uses \u2014 quite often in its writing. No when I see it, it always makes me wonder if AI was at least used in the process. I\u2019m curious, did any of you actually use this in non formal typing before AI?"
     },
     {
       "title": "AI data centers' massive demand for aluminum is crushing the US aluminum industry",
@@ -112,5 +112,5 @@
       "description": "Hey everyone! I just launched OpenClaude.me - a platform that gives you completely free access to all Claude models including Opus 4.5, Sonnet 4.5, and Haiku 4.5. What makes this different from official Claude.ai? All models are available to everyone - No premium subscription needed for Opus 300K tokens daily limit on EACH model - You get full 300K on Opus, full 300K on Sonnet, and full 300K on Haiku. There's no fallback system where you run out on one model and get downgraded Web Search & Code Execution tools included for free Simple signup - Just email and password, no verification wait Mobile responsive - Works smoothly on phones How it works: Just sign up and start using any model you want. The 300K token limit resets daily at midnight. If you somehow manage to hit the limit, you can simply create a new account and keep going (though 300K is pretty generous for daily use). Quick note: Don't ask the AI which model it is - they usually give wrong answers when asked directly. Just test them yourself and you'll feel the difference in capabilities. Future plans: I'm planning to add more features based on your feedback. Eventually, there will be a premium version, but I promise - everything that's free now will stay free. Premium will just add improvements and Claude Code access with 100x the usage limits of official Claude Pro. Why am I sharing this? I want people to test it, use it, and give me as much feedback as possible so I can make this better. This is a community-driven project. Try it out: openclaude.me Let me know what you think!"
     }
   ],
-  "fetched_at": "2025-11-29T14:31:35.227575+00:00"
+  "fetched_at": "2025-11-29T15:20:44.692781+00:00"
 }
