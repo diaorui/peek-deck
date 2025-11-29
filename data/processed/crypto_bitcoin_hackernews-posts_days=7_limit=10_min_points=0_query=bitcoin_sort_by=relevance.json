@@ -122,7 +122,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46086920",
       "author": "kokau",
       "points": 37,
-      "num_comments": 10,
+      "num_comments": 18,
       "created_at": "2025-11-29T12:04:23Z",
       "object_id": "46086920",
       "image": "https://magiclip.io/assets/images/favicon.webp",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 11,
   "has_metadata": true,
-  "fetched_at": "2025-11-29T20:13:55.448651+00:00"
+  "fetched_at": "2025-11-29T20:47:18.256056+00:00"
 }
