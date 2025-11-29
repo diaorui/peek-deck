@@ -112,5 +112,5 @@
       "description": "So i used an api to export a valid package for visualization on rviz2 and gazebo harmonic, but the .gszebo file runs with plugins which are deprecated. (That's a problem for the node&topics logic on Ros2jazzy) When i tried to migrate to an sdf file, scale woes complete wrong, enormous models i dont understand where is the problem, gazebo harmonic explicitly process the sdf file in meters while my models where exported in meters precisely. \u00bfIt's the stl format on harmonic+std giving me hard times or is fusion+stl? How can i import my meshes in to gazebo with this method, any other way to import my own models. Thank you for read."
     }
   ],
-  "fetched_at": "2025-11-29T20:13:59.043429+00:00"
+  "fetched_at": "2025-11-29T20:47:21.409216+00:00"
 }
