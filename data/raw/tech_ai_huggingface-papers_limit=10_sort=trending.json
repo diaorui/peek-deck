@@ -187,11 +187,11 @@
       "num_comments": 1,
       "published_at": "2025-10-26T01:49:38.000Z",
       "github_repo": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
-      "github_stars": 16862,
+      "github_stars": 16883,
       "project_page": "https://fapo-rl.github.io/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-29T21:24:00.262995+00:00"
+  "fetched_at": "2025-11-29T22:26:59.010833+00:00"
 }
