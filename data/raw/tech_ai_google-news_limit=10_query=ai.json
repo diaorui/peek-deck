@@ -5,42 +5,12 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "AI Adoption Rates Starting to Flatten Out",
-      "source": "Apollo Academy",
-      "source_url": "https://www.apolloacademy.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1POGhsT2dhUU9jbmx1Y2xnVUdTYXkxXzdLYTZYOWlHemVXakZrdGFMUTBZck5ORWtqak1kU2RDRDJLcWQ4dWJ6Y0d6TXpsaVFobjVsdFdSSHMzeWpxeExBd1Z6TDNRQ2FlR2p4N2R0WXFOckN5MUNVXzl3X20?oc=5",
-      "pub_date": 1764327713.0,
-      "article_url": "https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/",
-      "image": "https://www.apolloacademy.com/wp-content/uploads/2025/11/Nov28-chart.jpg",
-      "description": "Data from the Census Bureau and Ramp shows that AI adoption rates are starting to flatten out across all firm..."
-    },
-    {
-      "headline": "Two Gen Zers turned down millions from Elon Musk to build an AI based on the human brain\u2014and it's outperformed models from OpenAI and Anthropic",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWRSSjV1VU9XcTg3OWlxY2dkMTRZSWFYTkRjeWJXQVlXOXVkSXBSQXRfRVhrYVRlbENibUQtejUwUUVrMDZWb0E5NTJIVG45S1E1b3NpZXBjbzAzQlhPQWlQNXZOdllhVEVkbTVCTlA2ay1WbGVoLVlaMUhTRW8ycEVDb3ZraENrRGRFTDZoVGxQOUxfRW5BbmNGWkp0UzlVMUNN?oc=5",
-      "pub_date": 1764327900.0,
-      "article_url": "https://fortune.com/2025/11/28/sapient-intelligence-william-chen-guan-wang-turned-down-elon-musk-agi/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/54672477647_bfd1d00050_o-e1764185045333.jpg?resize=1200,600",
-      "description": "William Chen and Guan Wang believe they will be the first ones to build artificial general intelligence."
-    },
-    {
-      "headline": "$150 Million AI Lobbying War Fuels The Fight Over Preemption",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2xrN1dEOUZsMl8zaC1qQkhfRnRiRllqRmJSYnVCOGliUmlHQm1GZDFVNE9GQ2M4dkhMZWNTalhKYUFxWWNPdm1hMGlwMlR0NzQtRmJUczE0d1ltT2lQeGo2Rm5ETXpINVpKSE5NODYwNmYyZ2lpOGpmSkU1VGk1QkFYRlFHM1NYMDllb1ItT1QzMUVOZVI5aF9NVjZyM2x0WWxfS1laanNKY0REaU1wS1B3?oc=5",
-      "pub_date": 1764383262.0,
-      "article_url": "https://www.forbes.com/sites/paulocarvao/2025/11/28/150-million-ai-lobbying-war-fuels-the-fight-over-preemption/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/69296b6af72de3e7d5ecd3d7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "The $150 million AI lobbying war is reshaping U.S. tech policy as coalitions clash over federal preemption, state authority and the future of AI regulation."
-    },
-    {
-      "headline": "A.I. and the Trillion-Dollar Question",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNVdGWUxSRko5TUpCeFRFcVhGcEVVYl9jVGlSaWJ4R0lyWENPMWQ1eFhHNkVwR2lRY0lvd3dGYlNDZ01FN0pDQU5QYWpjUmdvb2JUcm5YZE5XNjZXcE5NSVFsaXhNMkp5ejR4MDVCUGUtUFRxck5ldTE2Q0VJVURPS1A4TFBfSm12VllZeDQzNnJ0cXdrUzZV?oc=5",
-      "pub_date": 1764307800.0,
-      "article_url": "https://www.nytimes.com/2025/11/28/world/ai-valuations-markets-technology-hongkong-fire.html",
+      "headline": "Inside the Shapeshifting AI Trade That Has the Stock Market Heading Higher Again",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPLUhxY0JlR0ZVSmowWFVSXzdINXZTblREaGtyS21BRzFYTzI4MklmcDR0aDkzWjdrcUcwSFJaQ1RYLWRBRElZZWRjWkpYb1d1Yy04Z1NnRVdJYUoyM2N6U2o3TjhycmQ1Y1dkUW5ib0RUc21QTkV2RXNFb1NiNjJTQncyYXFzbjlCUkpVMnA4VWlEdHFheENKZ3RLdnJvUUNpODhxMENaYy1rcS0ySFpSZU44MVZjMHgzTFRLYWk2bUJmcFNHMHlwcEE4a1dHUWxCZ2tfWnBtWjZJMm01Z0dEaWh4LWpLcjFNazlSODN3dEpnZEFRT0pCUTBtb3JIQjhOUVVWX192bEwyMHNCUWVJdGFxVFJpZmFZQlY0aE42LXp3ZndxaTM4WDVEUE1ScUQxVmFoMHp4N3JJbmYyalF2bWltWFlMa3hJSUdCSjkxVU5zS0xKQ3V0WnZhZzZRRFdTTWJERlZuel9kWWphQ3Y4T2pROTh6RDJGV3dSV3ZxOTlyU1p1VEZUYm5oYXFWdlZUSlAwSVFVbFhXZw?oc=5",
+      "pub_date": 1764309600.0,
+      "article_url": "https://www.barrons.com/articles/shapeshifting-ai-trade-stock-market-higher-again-08d123fa?gaa_at=eafs&gaa_n=AWEtsqdcTTjqvtspmPymRb3wad5Jz7SqnNbXBINtt8Lfqn6ysncUn8An6ok-&gaa_ts=692a7a67&gaa_sig=30fuVWb6ZSR3637PHAhGVcQxEsvq2MezcqnNfzhFgz6pDa7OsfokaS8_xYOCjQl7M8tx5PyBHUMq0ETEO81Lpw%3D%3D",
       "image": null,
       "description": null
     },
@@ -55,46 +25,6 @@
       "description": "Palantir posted strong third-quarter earnings, but shares dropped 16% this month on valuation concerns and a short position from Michael Burry."
     },
     {
-      "headline": "After a teddy bear talked about kink, AI watchdogs are warning parents against smart toys",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNFNhZzBmVGdjbWlmN0N1R2JUTk5zRkNBeURvekdiMG1sS0tsZnRVV2NzUlNmVTA1bFcwVGY0SGpJSmZmZ1ZQNWdKYlBVNEJuYS1MYzlINVZndDQ2S2EwdFUxUDYyTlh0b29zNTNlWjY5MUFlUGZvZnRPQ3BSMU5ScVNhTEJBSlBET3RFY3dR?oc=5",
-      "pub_date": 1764353640.0,
-      "article_url": "https://www.theguardian.com/technology/2025/nov/28/artificial-intelligence-smart-toys",
-      "image": "https://i.guim.co.uk/img/media/42c0f54dfea88fcb538b1e9bf6ac0ad53997e5b6/399_0_4429_3543/master/4429.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3474ffa6e48609256a458f50a40519b5",
-      "description": "Advocates are fighting against the $16.7bn global smart-toy market, decrying surveillance and a lack of regulation"
-    },
-    {
-      "headline": "Man vs. machine: Who does better at spotting \u2018AI slop\u2019?",
-      "source": "WHYY",
-      "source_url": "https://whyy.org",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uRi1aNGEzVWlMaUlBN1daWk1NaGNWN1RoYUdZcVRtNV9SS0s0d1VQdVVHMmhGaHo2eHBZakxwQlJwRWd5UE9ZZk9VUENuNzg2M29wSnJZQldBTjZUb1JSVnFFcFktLUdnMGo2VlhGM2VuczFLc0xDMQ?oc=5",
-      "pub_date": 1764326851.0,
-      "article_url": "https://whyy.org/articles/penn-professor-tests-ai-vs-human-detection/",
-      "image": "https://whyy.org/wp-content/uploads/2025/01/university-pennsylvania-2023-12-15.jpg",
-      "description": "The widespread use of AI has sparked a dilemma for teachers and professors. How do you tell the difference between assignments written by students, and those written by a bot?"
-    },
-    {
-      "headline": "Will AI ever make big profits? Experts weigh in as bubble fears loom",
-      "source": "ABC News",
-      "source_url": "https://abcnews.go.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR3U1UEY0d3NrWmhXY3htOWVnOC1hWnFScWthQ2ozZ0pIdXlzbjItYVMwVVVYRy02VEVGUFRmY1JxMDdWYUYwU0JJYjFFVFZtMGJPRUFfOHFWd0wtT3M5aC00cEhyVzJiYUZMd3lsWV80Tk8zTGVvakZoSEY0d0t1TjFVNDZyckVvZHFRZVJhck41V1Ntc2NtckFmN0QxZ9IBowFBVV95cUxPb3NjellMU3F2ZkU3SjNPXzdmMFVoQktUZFViekxFb2RNZHZjdzVKdE5hdjg1WVhHLVFqcE5GdzFqS1VCNHJUXzd2SWF6WWVYajd5V0R4NjVkam1tOVFzdmZpMG5qTGMxSXV1T3pnLXpVejJubERIZlgwblVsWFlOSUVaR0pkVzJta3NnVm9EMzBEUnZrZ3o2TXRMMEllQ3NTTTNv?oc=5",
-      "pub_date": 1764356050.0,
-      "article_url": "https://abcnews.go.com/Business/ai-make-big-profits-experts-weigh-bubble-fears/story?id=127858140",
-      "image": "https://i.abcnewsfe.com/a/40e42138-e82f-4c35-a38b-2b29befe6b02/data-center-as-gmh-240508_1715180111066_hpMain_2_16x9.jpg?w=1600",
-      "description": "The U.S. economy has come to increasingly depend on the AI boom, despite risks."
-    },
-    {
-      "headline": "Inside the Shapeshifting AI Trade That Has the Stock Market Heading Higher Again",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQTFlfLXlhS2hoUG5ycmJoTUVYckN0YTB4c19xVC04ZmVrZWQtbzlqMGZIbHdkUTFxS1ZsRHRwdm5HN0J6LVpLcVRsMkpKRGlHMFdaYTg5dXhjQjdGbjZJcFItaWVIZXFRd3pJR1Yza3lCcnJqN18xODBFY3d0QmVsSnFpRmVGOVhVd25XUks4N3RnY1RJMXhrVkJraUx2cG1oVko5a3ktQXd4R3ZCU05FTVVVRWFiYklTXzNKYkZmUTUxZWg5eElfbEhIQUlPekVSRkFmR1JJT2gta205RzJDM0c5WHpYWTNqeXZnNVd2VzRtTEU3WlIzMy1OOExqNW9RbWJuYkZMejk3TW9LM2FNMms3azJSQVFrb0tVTkNaUDBNUkxURFl1N3BiZnNNd3hoMWdyWnNHRktqUkZDOGZWYk83RUdObXpuZ2xxdTBiSDJWZ3YtYU5LeWlSOEhONGM5R3cwNTJhbkYwQTRSVTJCNllwdlZHV2g2VFN6TzR6eW1TcjQzdGNIQ2NDdW9tWUFKaU41ZUZ4bEFqUQ?oc=5",
-      "pub_date": 1764309600.0,
-      "article_url": "https://www.barrons.com/articles/shapeshifting-ai-trade-stock-market-higher-again-08d123fa?gaa_at=eafs&gaa_n=AWEtsqfm2LWaunf7BV__t0F46OPj2CHXoY8HkzcDCIagzUUcrn3P9vt7MOnD&gaa_ts=692a6ca3&gaa_sig=8jIe669f6KdgAPuTIiiX_284ejlRaCgmONUu4puah8sJEign_7Z03e-Ndn3tUEYGldXvuwz_u45LFz8AAruGFQ%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "China's DeepSeek Releases New Open Source AI Model Amid Google's Gemini 3 Roll Out",
       "source": "Investor's Business Daily",
       "source_url": "https://www.investors.com",
@@ -103,8 +33,78 @@
       "article_url": "https://www.investors.com/news/technology/nvidia-stock-google-stock-deepseek-china-open-source-ai-models/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Two Gen Zers turned down millions from Elon Musk to build an AI based on the human brain\u2014and it's outperformed models from OpenAI and Anthropic",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWRSSjV1VU9XcTg3OWlxY2dkMTRZSWFYTkRjeWJXQVlXOXVkSXBSQXRfRVhrYVRlbENibUQtejUwUUVrMDZWb0E5NTJIVG45S1E1b3NpZXBjbzAzQlhPQWlQNXZOdllhVEVkbTVCTlA2ay1WbGVoLVlaMUhTRW8ycEVDb3ZraENrRGRFTDZoVGxQOUxfRW5BbmNGWkp0UzlVMUNN?oc=5",
+      "pub_date": 1764327900.0,
+      "article_url": "https://fortune.com/2025/11/28/sapient-intelligence-william-chen-guan-wang-turned-down-elon-musk-agi/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/54672477647_bfd1d00050_o-e1764185045333.jpg?resize=1200,600",
+      "description": "William Chen and Guan Wang believe they will be the first ones to build artificial general intelligence."
+    },
+    {
+      "headline": "Responsible AI: Make It Real, Not Just A Talking Point",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnVRR3hra0QwNmhBWWdYcllib0NadGVGaHEzVk1FN3NveVJOd01WbjRWZ285MFEyQTVNN1RoRU91U1N4b1hSSVhYeEFOV3Y1dVdsU0d0ZnRSY0J0YU9xV3Z2M3ZZQ3lkSDNfZmRjS3RGN0FLWXJ1RjRrb2lEVjNqZ0I4MkVmaDBfZG56cWJnUG1yX3FQWVg4eTFNZXhpWTBSa1M3OElmSy02dWM?oc=5",
+      "pub_date": 1764389351.0,
+      "article_url": "https://www.forbes.com/sites/joemckendrick/2025/11/28/responsible-ai-make-it-real-not-just-a-talking-point/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/692a7144f7bab1145d205491/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "Responsible AI isn\u2019t just feel-good thing, nor is it just a litigation-avoidance strategy. it\u2019s a growth strategy. It delivers tangible outcomes."
+    },
+    {
+      "headline": "MIT study finds AI can already replace 11.7% of U.S. workforce",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUVibzRUdk5hYUE4WVk0eThiRWt3S2MzVGRCc0lfWkRsMU85bTBsYWJxX3RlYVc5ekhqcGJobDYtbEpJSmpvTERJU3k5VzhJSExIS3dmZ0w4dWpiRlpjZzk1RFBYR3JnNUFXZHpvYjZHYVRYM3pTaHZoNDU4TlpDbWRCMTE1ZGNPSHB5Qzh1a3NRNWw5Qkg1SEZ3WjJ4dDVIcC1ZeWNEQXZza1nSAbABQVVfeXFMUENGUGUxOV9sUEdJSWpyN2JmNU9DWk8wZEY2cFJ0N2RuRmxGVVVEcy12VlNjNGRQb1Jqa3dGNFZobV9CNmtIRF9KcHBzeFk4S1JmYUI4dFB2RFJhN0pJc0hKT2UzckJQZFlJamhoZnloczJyTnp0RkVKNmdVTzBzenFLUGtmQ2YyRmFwUHF1OE8tZUFCQTB5aWdQeVVpVWE2SjB6Z3dDaml0clJ3Rk1KeDk?oc=5",
+      "pub_date": 1764169201.0,
+      "article_url": "https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108232119-1764112994142-gettyimages-2209860667-AFP_42FT68T.jpeg?v=1764166052&w=1920&h=1080",
+      "description": "Artificial intelligence can already replace 11.7% of the U.S. labor market, across finance, health care and professional services, according to MIT's study."
+    },
+    {
+      "headline": "More than 1,000 Amazon workers warn rapid AI rollout threatens jobs and climate",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLWFfcC1vV2RJTWIxMzdITVRRWVdTY2sxQUNzRmpiUnpjcDdMcDNPc1Y2bE9SZ2wzaUx0cnpCZ1p4NmF0UkpKRHNBZlFGUkNhMmZzSEpab0RraGF0cktabTMwdXdlY2lkdV9VVVdqckRzUldBUTRUUVJyUHdTMDM2UQ?oc=5",
+      "pub_date": 1764337800.0,
+      "article_url": "https://www.theguardian.com/technology/2025/nov/28/amazon-ai-climate-change",
+      "image": "https://i.guim.co.uk/img/media/6de165ca4360d0ab477a2910029b933d916d9d02/92_0_4703_3763/master/4703.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b40cd58e096bb6e156b45715f04d754e",
+      "description": "Workers say the firm\u2019s \u2018warp-speed\u2019 approach fuels pressure, layoffs and rising emissions"
+    },
+    {
+      "headline": "Bigger than COVID? The graph that explains why AI is going to be so huge",
+      "source": "Sky News",
+      "source_url": "https://news.sky.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQUFXN2ZwNnFHaG1CNjF6UVF1SVI1U2JrMkwtcTJQNHR6TzBtVTNWYlNrenlSNUlheTVPTTNGTllOenI4a3Z4N3VPSkJGUUUwU1QxSVFVdlhrdjRHTjZBamM0Y1ZhRllTM1huSmNiaG5iTmlZOXNuUElaRUhFRWRsdmNvc0NPZTd1VkE3c2tieXQzczhoRzMyM1JjSHVxcnRDaGExbmI3UmtHekU?oc=5",
+      "pub_date": 1764386552.0,
+      "article_url": "https://news.sky.com/story/bigger-than-covid-the-graph-that-explains-why-ai-is-going-to-be-so-huge-13476837",
+      "image": "https://e3.365dm.com/25/11/1600x900/skynews-manthorpe-ai_7095050.png?20251129030236",
+      "description": "Work by research firm Metr suggests AI is doubling capacity every seven months and that it's likely \"there's at least another five years of this\"."
+    },
+    {
+      "headline": "Fewer one night stands, more AI lovers: the data behind generation Z\u2019s sex lives",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUtpZkxsNzNqMUYxTk1DRUlrLUhMV0NBcU8tdWdYdGVHR0ZQZFUtcGl0R2ZkSHRaYzZxUnBVUjNReU1fLTBIQ3I0dktiandXdnBRaDVlYUVFVVVOSmMzaGtLSVJndGd1ZWZGcUE4NmlqdF8xRmNkZlMzOXpzRlVGZE5VSEpiWlRwYmlVQV8tNEk?oc=5",
+      "pub_date": 1764342120.0,
+      "article_url": "https://www.theguardian.com/us-news/datablog/2025/nov/28/gen-z-sex-dating-relationships",
+      "image": "https://i.guim.co.uk/img/media/86dad06d7e9fa549b123a2f37c61b436f318183b/777_0_6330_5068/master/6330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c2c02915743f0b6d14c1923ba37c267",
+      "description": "Shaped by lockdown and two Trump presidencies, gen Z are grappling with a lot in love, dating and the bedroom"
+    },
+    {
+      "headline": "AI data centers' massive demand for aluminum is crushing the US aluminum industry",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRHBzbkdIZWdacy1MU2diMHlZc1pyQ0dwNGVjejA0dS1WOUNZM01PYjZSWUxaR3I2SGJQcWptNDJ0Y2hscTJSMDAwZEhCcEZvSXdKMXdobUpfelNYbW4tTVR4bC1VNjUzTm1GbHhvZ1NlRjZZX0RpNmdVOVFyc1lySlo2NDBCemFWamZkdGZTSlpQTlE2Y0syZlpuOXdBenNlbjIwYlVKYVBSQWZheTFuc1N2cDVGd0xzbHozam1LOVk3Wkhu?oc=5",
+      "pub_date": 1764327635.0,
+      "article_url": "https://finance.yahoo.com/news/ai-data-centers-massive-demand-for-aluminum-is-crushing-the-us-aluminum-industry-110035572.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/716IpHlRlPBf2XiTFbOVgQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzQ-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/4b1bf890-bf18-11f0-bedf-817417df6858",
+      "description": "Aluminum plays a crucial role in data centers, electric vehicles, and a litany of other industries. But Big Tech's power demand is squeezing the aluminum industry's margins."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T03:32:07.758598+00:00"
+  "fetched_at": "2025-11-29T04:30:51.289484+00:00"
 }
