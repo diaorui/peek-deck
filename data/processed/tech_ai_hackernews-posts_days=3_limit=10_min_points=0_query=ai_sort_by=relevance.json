@@ -19,32 +19,32 @@
       "site_name": "Airbus"
     },
     {
-      "title": "Airloom \u2013 3D Flight Tracker",
-      "url": "https://objectiveunclear.com/airloom.html",
-      "hn_url": "https://news.ycombinator.com/item?id=46080289",
-      "author": "azinman2",
-      "points": 266,
-      "num_comments": 97,
-      "created_at": "2025-11-28T16:49:12Z",
-      "object_id": "46080289",
-      "image": "https://objectiveunclear.com/images/airloom.png",
-      "description": "Real-time 3D visualization of aircraft flight paths. Watch live flights with stunning ribbon trails across the sky.",
-      "favicon": "https://objectiveunclear.com/favicon.ico",
-      "site_name": "Air Loom"
-    },
-    {
       "title": "Don't push AI down our throats",
       "url": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
       "hn_url": "https://news.ycombinator.com/item?id=46098992",
       "author": "nutanc",
-      "points": 238,
-      "num_comments": 136,
+      "points": 269,
+      "num_comments": 157,
       "created_at": "2025-11-30T18:17:13Z",
       "object_id": "46098992",
       "image": null,
       "description": null,
       "favicon": null,
       "site_name": "gpt3experiments.substack.com"
+    },
+    {
+      "title": "Airloom \u2013 3D Flight Tracker",
+      "url": "https://objectiveunclear.com/airloom.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46080289",
+      "author": "azinman2",
+      "points": 266,
+      "num_comments": 99,
+      "created_at": "2025-11-28T16:49:12Z",
+      "object_id": "46080289",
+      "image": "https://objectiveunclear.com/images/airloom.png",
+      "description": "Real-time 3D visualization of aircraft flight paths. Watch live flights with stunning ribbon trails across the sky.",
+      "favicon": "https://objectiveunclear.com/favicon.ico",
+      "site_name": "Air Loom"
     },
     {
       "title": "Flight disruption warning as Airbus requests modifications to 6k planes",
@@ -65,7 +65,7 @@
       "url": "https://www.nature.com/articles/d41586-025-03506-6",
       "hn_url": "https://news.ycombinator.com/item?id=46088236",
       "author": "_____k",
-      "points": 210,
+      "points": 211,
       "num_comments": 131,
       "created_at": "2025-11-29T15:26:58Z",
       "object_id": "46088236",
@@ -94,7 +94,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46079987",
       "author": "toomuchtodo",
       "points": 191,
-      "num_comments": 150,
+      "num_comments": 151,
       "created_at": "2025-11-28T16:21:09Z",
       "object_id": "46079987",
       "image": "https://www.apolloacademy.com/wp-content/uploads/2025/11/Nov28-chart.jpg",
@@ -107,7 +107,7 @@
       "url": "https://scienceclock.com/exercise-may-protect-less-when-air-pollution-is-high-study-finds/",
       "hn_url": "https://news.ycombinator.com/item?id=46086624",
       "author": "ashishgupta2209",
-      "points": 186,
+      "points": 187,
       "num_comments": 73,
       "created_at": "2025-11-29T10:54:16Z",
       "object_id": "46086624",
@@ -122,7 +122,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46078407",
       "author": "flail",
       "points": 126,
-      "num_comments": 133,
+      "num_comments": 134,
       "created_at": "2025-11-28T13:21:17Z",
       "object_id": "46078407",
       "image": null,
@@ -145,7 +145,7 @@
       "site_name": "View from the Wing"
     }
   ],
-  "total_hits": 298,
+  "total_hits": 300,
   "has_metadata": true,
-  "fetched_at": "2025-11-30T22:00:21.279147+00:00"
+  "fetched_at": "2025-11-30T22:44:22.069369+00:00"
 }
