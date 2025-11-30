@@ -25,6 +25,16 @@
       "description": "Arthur Hayes warns that most layer 1 tokens face failure, predicting only Ethereum and Solana will remain viable in the long term."
     },
     {
+      "headline": "ETH News: Ethereum Developers Prep for Fusaka, Second Upgrade of 2025",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWTVNWG00Nm1CN2dwcllkc3loMjF2Ymw3MmdNdmQ5T0xvQzE1VEh2VGYxVGt3Slg4RG1ZYjdncVlwQ0ZpMWRMUmlhdUdtaG5BUDYwYUFXc21xbkZKOU9wUHVVbUNuZXRfS04yOFhDWXpFNk5CelpLZ3lQSFYwQXRnOC1mWUVMUE5QeUxvWmh5QUtxNVdIQkQ4SVBjVXVTY24t?oc=5",
+      "pub_date": 1764144000.0,
+      "article_url": "https://www.coindesk.com/tech/2025/11/26/ethereum-developers-prep-for-fusaka-second-upgrade-of-2025",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7dd683e48326c2ace004e4e6c4b4f6ff6c84c77-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The goal of the upgrade is to enable Ethereum to handle the large transaction throughput from the layer-2 chains that use the blockchain as their base layer."
+    },
+    {
       "headline": "Europe's largest asset manager Amundi tokenizes money market fund on Ethereum",
       "source": "theblock.co",
       "source_url": "https://www.theblock.co",
@@ -43,6 +53,26 @@
       "article_url": "https://finance.yahoo.com/news/tom-lee-lists-three-reasons-131715102.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/RcRGeKQQxno4TvMSmysFsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/de29a08ab7bd5fd956511abf5220cd23",
       "description": "Tom Lee believes Ethereum is positioned to win the crypto race, beating out other major players like Bitcoin. Lee forecasts a short-term dip to around ..."
+    },
+    {
+      "headline": "Ethereum Leverage Reset Complete \u2013 Time For Market Re-Accumulation?",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWGdBaFJDYjZ3NmRWcktXSlI1bTg3UGhiYW1VMWt1aFAtR2Y0ZDRycnZaN3JLeWNrUEJYU3RSS0RRckVQNVQ3VXVmbV9WZDRER3g1cG5Cd1Rwak41ZXlDSWpsdS01ZVVZSkd6Y21xMExiTlNtVlg5WXNpUzRJeWloaks2YWJBVDdFZFBFaGJOdEhEMkViVml6N1FEX01wRnMzRUg1dllOQnlWdW9KdkVPM2JveVFtRDR0ZExSZ1BkOA?oc=5",
+      "pub_date": 1764493256.0,
+      "article_url": "https://www.tradingview.com/news/newsbtc:31612045a094b:0-ethereum-leverage-reset-complete-time-for-market-re-accumulation/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ethereum presently trades around $3,000 following a broader crypto market rebound in the last week. During this time, the market\u2019s largest altcoin gained by 7.22%, providing a much-needed relief after an extended correction that dominated the majority of the last two months. As price stabilizes, cr\u2026"
+    },
+    {
+      "headline": "Tom Lee\u2019s $2,500 Ethereum Price Prediction Meets Fusaka Upgrade Timing: What Investors Should Know Before 2026",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTmhCYTZKeFhiWHdreUxlOEEwZzl6UTJsY2sxb0RMMXlhem9IRXdEdnd4b3NmZTRWOWtVVXNEdDdtRk43QzFFSHVTNFpyTTBIdzAwNkZhWF82NkdYZTZOUFhOUUdaN0txUFNjWkJOd1d0OEVVZVFvYk9qSUdjbkZDSlFkZC1NMDNWWUlxTHpCTEQ?oc=5",
+      "pub_date": 1764511112.0,
+      "article_url": "https://www.ccn.com/education/crypto/tom-lee-eth-2500-fusaka-upgrade-ethereum-recovery/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Vitalik Buterin Donates $765K in Ethereum to Privacy Messaging Apps",
@@ -65,16 +95,6 @@
       "description": null
     },
     {
-      "headline": "Ethereum Leverage Reset Complete \u2013 Time For Market Re-Accumulation?",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWGdBaFJDYjZ3NmRWcktXSlI1bTg3UGhiYW1VMWt1aFAtR2Y0ZDRycnZaN3JLeWNrUEJYU3RSS0RRckVQNVQ3VXVmbV9WZDRER3g1cG5Cd1Rwak41ZXlDSWpsdS01ZVVZSkd6Y21xMExiTlNtVlg5WXNpUzRJeWloaks2YWJBVDdFZFBFaGJOdEhEMkViVml6N1FEX01wRnMzRUg1dllOQnlWdW9KdkVPM2JveVFtRDR0ZExSZ1BkOA?oc=5",
-      "pub_date": 1764493256.0,
-      "article_url": "https://www.tradingview.com/news/newsbtc:31612045a094b:0-ethereum-leverage-reset-complete-time-for-market-re-accumulation/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Ethereum presently trades around $3,000 following a broader crypto market rebound in the last week. During this time, the market\u2019s largest altcoin gained by 7.22%, providing a much-needed relief after an extended correction that dominated the majority of the last two months. As price stabilizes, cr\u2026"
-    },
-    {
       "headline": "Tom Lee\u2019s Bitmine Just Bought $44 Million Of Ethereum, Bringing Weekly Total To $185 Million \u2013 BMNR Stock Climbs Amid ETH Recovery",
       "source": "Stocktwits",
       "source_url": "https://stocktwits.com",
@@ -83,28 +103,8 @@
       "article_url": "https://stocktwits.com/news-articles/markets/equity/tom-lee-bitmine-just-bought-44-million-of-ethereum-bmnr-stock-gains/cL5a45RRELk",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "RWA News: European Asset Manager Amundi Debuts Tokenized Share Class on Ethereum",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ1RIM0hmSmhSZXdMR2FXRWtWTlloYndadDBLMXRqZElkbUI5ZXU2UVltSnRIMHVjRmlkUEFXNmlJektCUlJHOEw5ZUo4Ty1sWFJvZktsUU9RbXhESUlIZ1hSWHBXdThtb2NsaUZHa2JNTjMtNWQ4c3Rmc3FxOVZrOVFlLWxvbU5PaE1ZWWlWblNoNjg4X0o0bEd4b0FuRGptRmthTkFPN3cydXVJTENZZEtJY3I?oc=5",
-      "pub_date": 1764362661.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/28/european-asset-manager-amundi-debuts-tokenized-share-class-on-ethereum",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Large cryptocurrencies mixed as Ethereum increases",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOQVdfUzYtQVM5cVRYMk83X2g3WlNFbzkxd2g3RW1zaHlKNEh6T0Etb00zQ29JNTRVTUNzQlI5QWY4aEdyUEM1VjQwSlVpdlZXUllXcGYwWVc3b1YyUGtzLVlIX2Vyc29uajF0aXNTdHpJc2JqSlJOT2hVWUhvYzVWaTVMc1hXR1AzWmc0RWcycnd0S2VFYTMtcUZyR1VhSkRRYzBYNk5sVFlNeFVkczE3S0pGeFpTS2dsN19yWE1OQ1NHZDcycVQwMng5cGwwTXdQWjg2Q1hLVk16Q2dvcl9jNVBXVkNmaV9CV2pqMWpQWjZEaUoyVWVNbUFiRkowdGJ6emJIbW1fOG54U0t4c2tTREhFb05xWDAzZUtuY3AtRENfTXVyUzVQSGsyMHVmYzQ0dUx3bEZlcnhxOFJkUEM0aWNnbktQS3R0Vmh3TUdnak4wZ0pxaWxMb1I3WWJrY2lCMHJUbU13a3BEZ29ZX2NfSG5NUVhtd0pBd3BHNWdwMU5pS0lTZDRfbndQcFcxdGVkU2JZbFo3cUNWUVZLNzVRUUdGZFY2bW5UaFdtQjk0RHJKSUhp?oc=5",
-      "pub_date": 1764342000.0,
-      "article_url": "https://www.marketwatch.com/data-news/large-cryptocurrencies-mixed-as-ethereum-increases-2d44796b-6512c9777c5b?gaa_at=eafs&gaa_n=AWEtsqe99Xd_sK59OTmZkC4soGUPJL50z9G33mHlji_BWX3nlgTFpFvRM6fL&gaa_ts=692c4d06&gaa_sig=PxZ8IW7fCiFp0Cq1s6Gnm9-PVDTpGHpWzGh7nkvuTn31bYE7BT6mS7E1gZkpGBFbrgNx3-2s6v2HwvnPe7TF_g%3D%3D",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T13:41:42.487943+00:00"
+  "fetched_at": "2025-11-30T14:12:57.637672+00:00"
 }

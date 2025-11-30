@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-11-30T14:12:50.220666+00:00",
+  "data": {
+    "url": "https://www.theguardian.com/technology/2025/nov/30/ai-poetry-safety-features-jailbreak",
+    "title": "AI\u2019s safety features can be circumvented with poetry, research finds",
+    "description": "Poems containing prompts for harmful content prove effective at duping large language models",
+    "image": "https://i.guim.co.uk/img/media/d1e92f8f9cdcdfaecedbb1a022ae3002a5f6b9c3/0_591_2832_2264/master/2832.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ef641cf144176dd005591011786ae62",
+    "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+    "site_name": "the Guardian",
+    "author": null,
+    "keywords": null
+  }
+}
