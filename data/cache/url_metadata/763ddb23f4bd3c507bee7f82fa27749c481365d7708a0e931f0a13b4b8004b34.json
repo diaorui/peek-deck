@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-11-25T03:05:30.678201+00:00",
+  "data": {
+    "url": "https://www.wired.com/story/amazon-autonomous-threat-analysis/",
+    "title": "Amazon Is Using Specialized AI Agents for Deep Bug Hunting",
+    "description": "Born out of an internal hackathon, Amazon\u2019s Autonomous Threat Analysis system uses a variety of specialized AI agents to detect weaknesses and propose fixes to the company\u2019s platforms.",
+    "image": "https://media.wired.com/photos/6920be92dadba95e94f9bc80/191:100/w_1280,c_limit/Amazon-Using-Specialized-AI-Agents-Security-2223553741.jpg",
+    "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+    "site_name": "WIRED",
+    "author": "Lily Hay Newman",
+    "keywords": "amazon,artificial intelligence,security,cybersecurity,hacking,machine learning,vulnerabilities"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://arxiv.org/abs/2511.15304?_bhlid=2737660779090fc8cfbd0311eec9ff9331060401",
+  "cached_at": "2025-11-22T05:15:57.301651",
+  "metadata": {
+    "url": "https://arxiv.org/abs/2511.15304?_bhlid=2737660779090fc8cfbd0311eec9ff9331060401",
+    "title": "Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models",
+    "description": "We present evidence that adversarial poetry functions as a universal single-turn jailbreak technique for Large Language Models (LLMs). Across 25 frontier proprietary and open-weight models, curated poetic prompts yielded high attack-success rates (ASR), with some providers exceeding 90%. Mapping prompts to MLCommons and EU CoP risk taxonomies shows that poetic attacks transfer across CBRN, manipulation, cyber-offence, and loss-of-control domains. Converting 1,200 MLCommons harmful prompts into verse via a standardized meta-prompt produced ASRs up to 18 times higher than their prose baselines. Outputs are evaluated using an ensemble of 3 open-weight LLM judges, whose binary safety assessments were validated on a stratified human-labeled subset. Poetic framing achieved an average jailbreak success rate of 62% for hand-crafted poems and approximately 43% for meta-prompt conversions (compared to non-poetic baselines), substantially outperforming non-poetic baselines and revealing a systematic vulnerability across model families and safety training approaches. These findings demonstrate that stylistic variation alone can circumvent contemporary safety mechanisms, suggesting fundamental limitations in current alignment methods and evaluation protocols.",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+    "site_name": "arXiv.org",
+    "author": null,
+    "keywords": null
+  }
+}

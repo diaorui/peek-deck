@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "ethereum",
+  "site": null,
+  "search_query": "ethereum",
+  "articles": [
+    {
+      "headline": "BitMine buys $44 million worth of Ethereum as Tom Lee gives bullish outlook",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4waG0wVlV4OGlIc2I0VlZxbS1QQmpwUE5sWGFjYnI1amY0d0FMWXRXcjNOMTRZT2o1MlJ3d3BVQzZ6dXRFeTY5LVF4YWhEanlidDl1ZmhzZnNPeFVKUDJGa2RRRGVQdXhveVNkT0dtNzgxUjhEVlZF0gF8QVVfeXFMTWV5RjZlYzJteEtxbHpycEdsQzYxRDdJaF9MWXlvZzB0VFNGaThnOXJkV3BoOFBUbmZUcnpSUmVfZUhEMWNmNEgtcUxHczBxNldSQ3IwSHZxRmFscmduRWU2bzR1R2pqdXZ6SG5UNHpybkx5OUZhZkxidVFRSg?oc=5",
+      "pub_date": 1764308237.0,
+      "article_url": "https://www.theblock.co/post/380746/bitmine-buys-44-million-ethereum",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Vitalik Buterin Donates $765K in Ethereum to Privacy Messaging Apps",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNG5JZW1JQ2pBYllVLWNnTWpMZ1h5aEY5NXpjZjVnQU5Pb0JMWmFTeGFYbGFGOVpGbldaWS1PY0pfSmtsX0tBbHBhbTRXY3lHWlhVUFV2bnMtc2YxVl85Um11Q1RIT1hJeDRVZDVZOE9zTmxiMnZOR2MwdlJhUklFbzVnMTdIb3VaNUJuODl2bjZrTm1TMExv0gGfAUFVX3lxTFBrT19QT29ZckYyX3Z2NENCVGNlZzRlME8yS290R0YwaFluM19RWm9lbTdkbVlWZWtLM1BDelBHMHFxSlkxNjlsSmxWQVo2U05kZlJnUUNJNVFXeDJwc0xPdDJab0RyN1U5a2d1RDMxSFREcHE0OS1Rc21udDZvODBXSjVPcWlwZ1k2UV9NTlFvcklTa3hfM2Y3R3BHNDRTTQ?oc=5",
+      "pub_date": 1764180120.0,
+      "article_url": "https://decrypt.co/350253/vitalik-buterin-donates-765k-in-ethereum-to-privacy-messaging-apps",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg",
+      "description": "Ethereum co-founder Vitalik Buterin supported two privacy messaging apps that are looking to break past sector leaders Signal and Telegram."
+    },
+    {
+      "headline": "Ethereum vs. Solana 2026: Which Blockchain Will Deliver Better Returns?",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0dUR1c0eFdpYlMwTzZiZnZDWHhWN3hpSjR4blRmVi1VMW0xX0tBQl82dDIyYnJXcjhsR3lZc3huZ3g5RVd3aG5HN1ZCdHFRWFdDbnVNaVBSVl9zQk9hM0hndlN4VjBMRU5FVERZS3dpTWNEVUI3SG9sZG1mOXFPVmxFREFfYkU?oc=5",
+      "pub_date": 1764173978.0,
+      "article_url": "https://finance.yahoo.com/news/ethereum-vs-solana-2026-blockchain-161938236.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/p.rE6dfgFSrj6SyxTgp7Yw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/24_7_wall_st__718/c446a843c2217451f6f7664922f3af97",
+      "description": "Ethereum (CRYPTO: ETH) and Solana (CRYPTO: SOL) approach 2026 with contrasting positions. Ethereum remains institutionalized, but its expansion relies entirely on Layer 2s rather than mainnet power. Solana, on the other hand, is coming off a year of record on-chain activity: 186% year-over-year revenue growth, and rising institutional interest through new ETFs. Both chains have ... Ethereum vs. Solana 2026: Which Blockchain Will Deliver Better Returns?"
+    },
+    {
+      "headline": "Large cryptocurrencies mixed as Ethereum increases",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOeHgwQ2JZeEZDQ181NTJlLWk0U1ZCWGg1d0hVY3RnZWxBYldBdzBwOER1RWc3Tk42YVNMYm9QZmQ0aUQ2WWRyNlZJNVJURG1Uam9yXzJUZEczdXFCN1JUWmVnTzZ1b25JeUNIeUFJSW5xQlk3a1pyS0ZBV2x4a2E0V1YydS10MzRseW1hSVdBRXVrNGo2eklyZDRGSVBwci1WUjhodmkzdDhwVXpnUUVKTVFjSEtjc2RWa3FJZzR5MlNzLU5EX1g1OHRSX3hvSkNqOVVaTGZHQTcyMmhxcDVtcnZBYnV1UmdzVWF3WVR5NmF6TDNlM25WQXF2N0pUZ1RqTUJJYWEyZFlhQzQxMU1ISFN3eTlkMldZNi0xQnR6aXRFZEFWck9sdHJxUmU4cVN5Xy1sRzFSOS1oVGhFWEJaLTdoX015WWJJWHZQRkZRMXRhd0pXckhibWRNMmpySG5WYXQ0X3pWY1hBQlNXMVpscXBTUXM1MFVST0VzQU93TmtjcGZ0QlZxM1hhdkRNTGNWNU9ETWk1Wlp1THJtUVp2QWxwcm1OVkJxZG40N3pwQXI1XzBn?oc=5",
+      "pub_date": 1764342000.0,
+      "article_url": "https://www.marketwatch.com/data-news/large-cryptocurrencies-mixed-as-ethereum-increases-2d44796b-6512c9777c5b?gaa_at=eafs&gaa_n=AWEtsqeFySr2ZwxTBqgVAbIKGFpK38FWQ7IJUYf0_uLqlushiJORDwo1ZZiK&gaa_ts=6929c799&gaa_sig=2HjpGYxA8P4mszqV7N96SPTCq-aBG2ZfLiwmPEkCBhP6LckW3qdozkOv36ppDUau_8Bo0NHr2NROq32hwO38IA%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Tom Lee Lists Three Reasons Why Ethereum Will Beat Bitcoin \u2014 But Can ETH Rally to $9,000?",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHRFM25HZTVhUGdzbXNaZXFYRDlGUWtwZHp2cGNuTTdlVFhjYWFFLWZpQkNCZU1pcS0wMnMtUzJfaURoaE1WWGFSM3lGeXpzTzVza185MEZmOTZfdlRWNHoyeGdUNllXRWlkS3JKaTNGai1xVExBWS1tLVRuNDlvdlhmMXJpb2ZiR25WWmFnelZKTmE2OWxVc2twTQ?oc=5",
+      "pub_date": 1764335835.0,
+      "article_url": "https://www.ccn.com/news/crypto/tom-lee-three-reasons-ethereum-beat-bitcoin-can-eth-rally-9000/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "How the Fusaka upgrade fits into Ethereum\u2019s long-term roadmap",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbHJ0VDhjcUxuNzNGVUZkeG45UV9VdjNzZ253OEdPN2pJWHM0dTVZa010STN3RVpacjJ6S3ZiRm9USzhLXzZfRTFsUkpESU9qWlNzbHduOTVuTnR2a3lGMDZyREU4bjlFaWtRU2d2emxodlIwSnlqMEtxS0sxdkxHNkxuMkhzdktDMHkxLWVBR2ZhWWF0NzJBa3BZUkVQVkRwQmY0a2dvR2NRa0dpQzVQb19SOGo4QmRNdFdtXzFtTTBHUnc?oc=5",
+      "pub_date": 1764308640.0,
+      "article_url": "https://www.tradingview.com/news/cointelegraph:3f90403a9094b:0-how-the-fusaka-upgrade-fits-into-ethereum-s-long-term-roadmap/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "What is Fusaka?  On Dec. 3, 2025, Ethereum will activate the Fusaka upgrade on mainnet, its second major hard fork of the year after Pectra in May.Rollups now carry the bulk of Ethereum transactions and fee revenue, yet they are still constrained by how much data they can post back to the layer 1 a\u2026"
+    },
+    {
+      "headline": "Better Crypto Buy: XRP (Ripple) vs. Ethereum",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWE85WTR3MXA1Qzg4TjdTSmdSZExSVkwtMkw4UWRuZlVkMEF2bWtnUHdZc0NNYXdFYnVjNHBBWjVOekllMl8xSlBIR3NiNl9kYmN2OE5NaGpfbHl5dmxLOWRaZDdpRjVwRG5VRzNDMUg3ZU5SbExZZGxvU2tNbkMtX2VmM0hvVlYz?oc=5",
+      "pub_date": 1764120060.0,
+      "article_url": "https://www.fool.com/investing/2025/11/25/xrp-vs-ethereum-crypto-comparison-2025/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F840357%2Fgettyimages-1402808568-1200x798-36b7a2e.jpg&w=1200&op=resize",
+      "description": "Is XRP or Ethereum the better pick for long-term investors?"
+    },
+    {
+      "headline": "SharpLink Gaming: How To Get Ethereum Exposure At A 17% Discount (NASDAQ:SBET)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWp2SmtOZGtzNkRXQndSdDBkNW1ETnRZZ01nb3Q4dVZxNG9XZE5PbEpfNElEejZXb3ZVa2lSaVdYQ1lzdHJ1NEh5d0l4WDBtWW83aTlaQ0dmNWJybEZaaEkzeEs2YWFBSHJmVnVfbDN0Zk9WMmd3Q0M1YmpVNXY0a0dfM01HVGpkbnp2ak1VeFdzOVFKWnJZOGw3OFJHNktRR0dha2FHdk1oNEJVZ3dlXw?oc=5",
+      "pub_date": 1764333532.0,
+      "article_url": "https://seekingalpha.com/article/4848497-sharplink-gaming-how-to-get-ethereum-exposure-at-a-17-percent-discount",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2171382770/image_2171382770.jpg?io=getty-c-w1536",
+      "description": "SharpLink Gaming offers exposure to Ethereum at a 17% discount to its net asset value, trading at 0.83x mNAV. Learn more about SBET stock here."
+    },
+    {
+      "headline": "Bitcoin Surges Without Help From the U.S. Stock Market. Why That's a Good Sign for Cryptos.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQMnJxYl9jWFRjY3M2RUQ5WGoyZVBHTXZoZTV1SzFYbmZnbXp2NTBTT3hNMjB0RUd0dERTdTNDTWUyT0hJWHhnei13RXAtaFdhTW90R2o2N3JTZXlVcEJWR3M1bWE2c1FaNjJYSGVaOU1Hc0RrVnh5WkxaOEhxRlhIUG1Fak9LSjNMaUhJV1VRaWpwbjdtcXRqS2NxTHEyYlJvbjdaUmZiY0l3YTZySHRfRDVRbDdWcHZCVjQ2NWNnSmdtYm5iNWt0MjIwX19RSUpYeFYyMjZsX19pdDNrX3NQZWdDQVl6MDV0SmtTQ0J3VEt3VXZWRExfNlhXSE01SmpCS3NhNUtWdEo0NmQxQ3pHWWtZbmtodUJhdEZEX3BUN18xdllieUtIVTAxcDhpOVF0Y2x6ZU85STZqZjduQnA4VzMwYTNOWk8tbS0wRS11alhMVHpvM01QUUdMZG5kbzBUSnZzRmU5TFFsQU1vS1FjaXFWeGNSYVYwSHBhM01CYUxWQnAyUlpQMDdlZWlEdw?oc=5",
+      "pub_date": 1764242580.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-thanksgiving-88abf9ff?gaa_at=eafs&gaa_n=AWEtsqcXNe0ZNkWSkzgdBcMRcQSlBocDn9maQaoQXwZ9tO3JQcLhRRGwXG6Y&gaa_ts=6929c799&gaa_sig=WD4Z69dtqJlg875kY_zkCsQtowppWtIagez28vXrXypiyYh_rYpPgDHQwsjZia7OZji3DI3HZu43cs_03hkBvQ%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Vitalik Buterin\u2019s 2026 roadmap \u2013 Inside Ethereum\u2019s 5x gas limit increase, \u2018targeted\u2019 upgrades",
+      "source": "AMBCrypto",
+      "source_url": "https://ambcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZVFLalVhMnJTU3RjXzRuQ2tjdkxLaERJenNydTZLMFlFVmczVW95MkJSZm82T1I2R0ZMWmJUNWJOeDNXMmNrcm9hRzRsb1cyUG5rZXU1R0R3UklGUU80aE5SdjVCc1M5NjVWSmRzc3FfRTBNQkdnR1pTZGViRmVSQnNMbHZmWjd0aVExY2pNZUtkOXZ5RnRRTk1HM1dRV0xBV19vaTJzWTg4LVhCb0HSAbMBQVVfeXFMTU1YS25MSlROZ0w0SWVPc1A3WjZBVEhrTEF0U1VNanVTUzU4SGNJXzZGRFNsWnhGdlNqdnBFS3FUVGFNdWtwY0hydm4zZG9VcDRWVXZYZFFheFVQYjRHM1hRQ01KWTZid0VvMHl1S3B3N1ZvalBzS3BwSVl3Y25QOUdoMmNLTnBmX1NJMmxVSk0yWDBkbTRqdlJNdGtUY3ptdFdNeWhpXzBMeDYwRnFwQlYyX00?oc=5",
+      "pub_date": 1764317700.0,
+      "article_url": "https://ambcrypto.com/vitalik-buterins-2026-roadmap-inside-ethereums-5x-gas-limit-increase-targeted-upgrades/",
+      "image": "https://ambcrypto.com/wp-content/uploads/2025/11/VitalikButerinEthereumFII-1000x600.jpg",
+      "description": "If adopted, Ethereum could further close the cost gap with Solana."
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2025-11-28T15:47:56.935524+00:00"
+}

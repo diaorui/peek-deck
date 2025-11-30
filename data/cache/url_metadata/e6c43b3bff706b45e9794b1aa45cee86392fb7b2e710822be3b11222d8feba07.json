@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-11-24T18:39:10.325522+00:00",
+  "data": {
+    "url": "https://mathstodon.xyz/@tao/115591487350860999",
+    "title": "Terence Tao (@tao@mathstodon.xyz)",
+    "description": "Over at the Erdos problem website, AI assistance is now becoming routine.  Here is what happened recently regarding Erdos problem #367 https://www.erdosproblems.com/367 :\n\n1.  On Nov 20, Wouter van Doorn produced a (human-generated) disproof of the second part of this problem, contingent on a congruence identity that he thought was true, and was \"sure someoneone here is able to verify... does indeed hold\".\n\n2.  A few hours later, I posed this problem to Gemini Deepthink, which (after about ten minutes) produced a complete proof of the identity (and confirmed the entire argument): https://gemini.google.com/share/81a65aecfd70 .  The argument used some p-adic algebraic number theory which was overkill for this problem.  I then spent about half an hour converting the proof by hand into a more elementary proof, which I presented on the site.  I then remarked that the resulting proof should be within range of \"vibe formalizing\" in Lean.\n\n3.  Two days later, Boris Alexeev used the Aristotle tool from Harmonic to complete the Lean formalization, making sure to formalize the final statement by hand to guard against AI exploits.  This process took two to three hours, and the output can be found at https://borisalexeev.com/t/Erdos367.lean\n\nEDIT: after making this post, I decided to round things out by making AI literature searches on this problem, which (after about fifteen minutes) turned up some related literature on consecutive powerful numbers, but nothing directly relating to #367.  https://chatgpt.com/share/6921427d-9dc0-800e-b798-be8fc94a9240 https://gemini.google.com/share/0d296454bea0",
+    "image": null,
+    "favicon": "https://mathstodon.xyz/packs/assets/apple-touch-icon-57x57-BsPGHSez.png",
+    "site_name": "Mathstodon",
+    "author": null,
+    "keywords": null
+  }
+}

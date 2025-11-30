@@ -1,0 +1,14 @@
+{
+  "url": "https://finance.yahoo.com/news/amd-powers-frontier-ai-training-140100841.html",
+  "cached_at": "2025-11-24T14:23:41.909402+00:00",
+  "metadata": {
+    "url": "https://finance.yahoo.com/news/amd-powers-frontier-ai-training-140100841.html",
+    "title": "AMD Powers Frontier AI Training for Zyphra",
+    "description": "News Highlights: Zyphra ZAYA1 becomes the first large-scale Mixture-of-Experts model trained entirely on AMD Instinct\u2122 MI300X GPUs, AMD Pensando\u2122 networking and ROCm open software.ZAYA1-base outperforms Llama-3-8B and OLMoE across multiple benchmarks and rivals the performance of Qwen3-4B and Gemma3-12B.Memory capacity of AMD Instinct MI300X helped Zyphra simplify its training capabilities, while achieving 10x faster model save times. SANTA CLARA, Calif., Nov. 24, 2025 (GLOBE NEWSWIRE) -- AMD (N",
+    "image": "https://media.zenfs.com/en/globenewswire.com/701ad71f57aa227c300d55d9cf75787e",
+    "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
+    "site_name": "Yahoo Finance",
+    "author": null,
+    "keywords": "AMD Instinct, training, model training, AMD platform"
+  }
+}

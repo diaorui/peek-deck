@@ -1,0 +1,230 @@
+{
+  "repos": [
+    {
+      "full_name": "rasbt/LLMs-from-scratch",
+      "name": "LLMs-from-scratch",
+      "owner": "rasbt",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/5618407?v=4",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "preview_image": "https://repository-images.githubusercontent.com/669879380/79da1d51-4ef9-4733-a61c-1d7851020d9a",
+      "stars": 79582,
+      "stars_display": "79.6k",
+      "forks": 11831,
+      "forks_display": "11.8k",
+      "language": "Jupyter Notebook",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "chatbot",
+        "chatgpt",
+        "deep-learning"
+      ],
+      "updated_at": "2025-11-23T16:53:50Z"
+    },
+    {
+      "full_name": "ray-project/ray",
+      "name": "ray",
+      "owner": "ray-project",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/22125274?v=4",
+      "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+      "url": "https://github.com/ray-project/ray",
+      "preview_image": "https://opengraph.githubassets.com/f7ac9ebd1d44a7aeb1d525064757ac8bf697e7fd66b4692c527e371c6f50cf53/ray-project/ray",
+      "stars": 39982,
+      "stars_display": "40.0k",
+      "forks": 6935,
+      "forks_display": "6.9k",
+      "language": "Python",
+      "topics": [
+        "data-science",
+        "deep-learning",
+        "deployment",
+        "distributed",
+        "hyperparameter-optimization"
+      ],
+      "updated_at": "2025-11-24T15:25:39Z"
+    },
+    {
+      "full_name": "deepset-ai/haystack",
+      "name": "haystack",
+      "owner": "deepset-ai",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/51827949?v=4",
+      "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+      "url": "https://github.com/deepset-ai/haystack",
+      "preview_image": "https://repository-images.githubusercontent.com/221654678/1b75a35c-3d70-4dbe-bd6f-56fcc6c809e6",
+      "stars": 23460,
+      "stars_display": "23.5k",
+      "forks": 2491,
+      "forks_display": "2.5k",
+      "language": "MDX",
+      "topics": [
+        "agent",
+        "agents",
+        "ai",
+        "gemini",
+        "generative-ai"
+      ],
+      "updated_at": "2025-11-24T15:14:47Z"
+    },
+    {
+      "full_name": "arc53/DocsGPT",
+      "name": "DocsGPT",
+      "owner": "arc53",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/103419759?v=4",
+      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "url": "https://github.com/arc53/DocsGPT",
+      "preview_image": "https://opengraph.githubassets.com/cf0cc62b022aa612e09157785c9b3cdabf5c1faa6b35d279c4675932e1cd958f/arc53/DocsGPT",
+      "stars": 17395,
+      "stars_display": "17.4k",
+      "forks": 1933,
+      "forks_display": "1.9k",
+      "language": "Python",
+      "topics": [
+        "agent-builder",
+        "agents",
+        "ai",
+        "chatgpt",
+        "docsgpt"
+      ],
+      "updated_at": "2025-11-24T10:44:19Z"
+    },
+    {
+      "full_name": "tensorzero/tensorzero",
+      "name": "tensorzero",
+      "owner": "tensorzero",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/148420822?v=4",
+      "description": "TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "preview_image": "https://repository-images.githubusercontent.com/829640443/26b7c5c4-c12c-4e89-beaf-a4233f1dac87",
+      "stars": 10593,
+      "stars_display": "10.6k",
+      "forks": 732,
+      "forks_display": "732",
+      "language": "Rust",
+      "topics": [
+        "ai",
+        "ai-engineering",
+        "anthropic",
+        "artificial-intelligence",
+        "deep-learning"
+      ],
+      "updated_at": "2025-11-24T15:18:11Z"
+    },
+    {
+      "full_name": "Netflix/metaflow",
+      "name": "metaflow",
+      "owner": "Netflix",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/913567?v=4",
+      "description": "Build, Manage and Deploy AI/ML Systems",
+      "url": "https://github.com/Netflix/metaflow",
+      "preview_image": "https://repository-images.githubusercontent.com/209120637/00b39080-1ddc-11ea-8710-59b484540700",
+      "stars": 9643,
+      "stars_display": "9.6k",
+      "forks": 934,
+      "forks_display": "934",
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "aws",
+        "azure",
+        "cost-optimization"
+      ],
+      "updated_at": "2025-11-22T01:44:27Z"
+    },
+    {
+      "full_name": "bentoml/BentoML",
+      "name": "BentoML",
+      "owner": "bentoml",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/49176046?v=4",
+      "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!",
+      "url": "https://github.com/bentoml/BentoML",
+      "preview_image": "https://repository-images.githubusercontent.com/178976529/fd846e6a-9e88-44c5-8b9f-be98823c39c1",
+      "stars": 8252,
+      "stars_display": "8.3k",
+      "forks": 890,
+      "forks_display": "890",
+      "language": "Python",
+      "topics": [
+        "ai-inference",
+        "deep-learning",
+        "generative-ai",
+        "inference-platform",
+        "llm"
+      ],
+      "updated_at": "2025-11-24T12:05:33Z"
+    },
+    {
+      "full_name": "evidentlyai/evidently",
+      "name": "evidently",
+      "owner": "evidentlyai",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/75031056?v=4",
+      "description": "Evidently is \u200b\u200ban open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+      "url": "https://github.com/evidentlyai/evidently",
+      "preview_image": "https://opengraph.githubassets.com/d95168632cd2eab60b655c44f67159166e65c4a4d5116d8af912d34f0dab05f4/evidentlyai/evidently",
+      "stars": 6851,
+      "stars_display": "6.9k",
+      "forks": 752,
+      "forks_display": "752",
+      "language": "Jupyter Notebook",
+      "topics": [
+        "data-drift",
+        "data-quality",
+        "data-science",
+        "data-validation",
+        "generative-ai"
+      ],
+      "updated_at": "2025-11-24T15:22:23Z"
+    },
+    {
+      "full_name": "zenml-io/zenml",
+      "name": "zenml",
+      "owner": "zenml-io",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/88676955?v=4",
+      "description": "ZenML \ud83d\ude4f: One AI Platform from Pipelines to Agents. https://zenml.io.",
+      "url": "https://github.com/zenml-io/zenml",
+      "preview_image": "https://repository-images.githubusercontent.com/314197645/b94e1480-3b95-11eb-9e12-c1eec6079bf6",
+      "stars": 5058,
+      "stars_display": "5.1k",
+      "forks": 555,
+      "forks_display": "555",
+      "language": "Python",
+      "topics": [
+        "agentops",
+        "agents",
+        "ai",
+        "automl",
+        "data-science"
+      ],
+      "updated_at": "2025-11-24T14:18:38Z"
+    },
+    {
+      "full_name": "strands-agents/sdk-python",
+      "name": "sdk-python",
+      "owner": "strands-agents",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/209155962?v=4",
+      "description": "A model-driven approach to building AI agents in just a few lines of code.",
+      "url": "https://github.com/strands-agents/sdk-python",
+      "preview_image": "https://opengraph.githubassets.com/178f7190a005c50a215217d913420425603c7674e596ae9e30adcf5d48f61623/strands-agents/sdk-python",
+      "stars": 4076,
+      "stars_display": "4.1k",
+      "forks": 497,
+      "forks_display": "497",
+      "language": "Python",
+      "topics": [
+        "agentic",
+        "agentic-ai",
+        "agents",
+        "ai",
+        "anthropic"
+      ],
+      "updated_at": "2025-11-24T07:30:53Z"
+    }
+  ],
+  "query": "ai machine-learning llm",
+  "search_query": "ai machine-learning llm pushed:>2025-11-21",
+  "days": 3,
+  "limit": 10,
+  "total_count": 145,
+  "fetched_at": "2025-11-24T15:29:42.822856+00:00"
+}

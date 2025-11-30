@@ -1,0 +1,116 @@
+{
+  "subreddit": "robotics",
+  "posts": [
+    {
+      "title": "Paper Science Robotics: Scientists in Korea have developed a rollable robotic structure that is flexible enough to collapse into a compact hub, but also stiff enough to bear heavy loads like 3D printers when extended",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1p8qdje/paper_science_robotics_scientists_in_korea_have/",
+      "published": 1764320917.0,
+      "thumbnail": "https://external-preview.redd.it/dnEwMzlvenJyeTNnMUEIKFVhDF_nw1oJUllM0yZt-Ec7J3VLtNEjTVjN7EAy.png?width=640&crop=smart&auto=webp&s=ba3e0b5d77721c42931d9ed88ecd17edda6e3378",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Science Robotics: Foldable and rollable interlaced structure for deployable robotic systems: https://www.science.org/doi/10.1126/scirobotics.adv4696"
+    },
+    {
+      "title": "Robot Dog Board Recommendation",
+      "author": "p0tato___",
+      "url": "https://www.reddit.com/r/robotics/comments/1p8im3x/robot_dog_board_recommendation/",
+      "published": 1764294131.0,
+      "thumbnail": "https://b.thumbs.redditmedia.com/aWAx3TNuFjBky6DpoQsovRZCVNl-uW6Tzd0sg7mHFes.jpg",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "What board should I install on this robot dog I created, and what direction should I take in its development? Please leave a comment.\ud83d\ude3c\ud83d\udc4d"
+    },
+    {
+      "title": "butterfly robot!",
+      "author": "whatever_0709",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7u6wz/butterfly_robot/",
+      "published": 1764221817.0,
+      "thumbnail": "https://external-preview.redd.it/aXgxaXVwNzhscTNnMaWuVypsQZw8tQxTCTqrmEh27-F0ZqPtbYPuy9PrZqKq.png?width=640&crop=smart&auto=webp&s=f07f91e3da40f40d305f3317a8f3ccc81f8977ba",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Chinese students are out here creating machine-generated butterflies\u2026 Like\u2014this isn\u2019t nature anymore, it\u2019s engineering with \u2728vibes\u2728. I\u2019m officially impressed \ud83e\udd8b\ud83e\udd16"
+    },
+    {
+      "title": "I want to size scale up Otto diy 3d models.",
+      "author": "Affectionate-Army458",
+      "url": "https://www.reddit.com/r/robotics/comments/1p8u24f/i_want_to_size_scale_up_otto_diy_3d_models/",
+      "published": 1764334221.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I want to make a huamnoid robot using otto diy 3d models, but i found it its really small. So i want to scale it up, what implicaitons i could have? I cant just scale it's size up and everything will work, right?"
+    },
+    {
+      "title": "How to use Pepper?",
+      "author": "K1moon",
+      "url": "https://www.reddit.com/r/robotics/comments/1p8r0bi/how_to_use_pepper/",
+      "published": 1764323381.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm a university student, and I have to write a program for pepper, I'm following the guide contained in the softbanks robotics documentation, but all the links to download the python SDK are not working, can someone direct me?"
+    },
+    {
+      "title": "AgileX unveiled a robotic arm two days ago: NERO. 3KG payload + 7DOF arm at $2500 without hand",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7za49/agilex_unveiled_a_robotic_arm_two_days_ago_nero/",
+      "published": 1764240494.0,
+      "thumbnail": "https://external-preview.redd.it/b3lubTJ5YmM0czNnMfAbFN_26xAZ4PVGHITEzyJsbPuxAbz-n0ZhkXdGKWOP.png?width=640&crop=smart&auto=webp&s=3e7955140ce6a81a9ce73afcf5bb32dd1e75e0e0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "AgileX Robotics on \ud835\udd4f: https://x.com/AgilexRobotics/status/1993218134246076721 Website: https://global.agilex.ai/"
+    },
+    {
+      "title": "Made a package for 3D navigation (path planning + control) in ROS2.",
+      "author": "InjuryDangerous8141",
+      "url": "https://www.reddit.com/r/robotics/comments/1p8s234/made_a_package_for_3d_navigation_path_planning/",
+      "published": 1764327426.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "The pattern that VinciBot drew is actually quite neat.",
+      "author": "GOLFJOY",
+      "url": "https://www.reddit.com/r/robotics/comments/1p7qst0/the_pattern_that_vincibot_drew_is_actually_quite/",
+      "published": 1764210953.0,
+      "thumbnail": "https://external-preview.redd.it/N2l6a291ZnlucDNnMez3N4RDINcBdSDKoxW2TRedPWOUKAKMNMM3ywAJOxMs.png?width=640&crop=smart&auto=webp&s=f9efda0c988798745e9256372844e1b660fc6182",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "Seeking honest feedback: LLM-driven agentic robot with modular architecture and real-time motion generation",
+      "author": "TheSuperGreatDoctor",
+      "url": "https://www.reddit.com/r/robotics/comments/1p8qo6i/seeking_honest_feedback_llmdriven_agentic_robot/",
+      "published": 1764322059.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hi r/robotics, I'm part of a team developing an AI agentic robot, and we're conducting early-stage research. We're looking for honest technical feedback from people who understand robotics systems, LLM integration, and hardware development. Core technical approach: LLM-driven streaming orchestration that enables reasoning-while-acting (not pre-scripted behavior trees) Memory-personality framework for dynamic character development Modular hardware architecture - the intelligence core can be ported across different physical platforms Multi-component coordination (limbs, displays, audio I/O) through parallel/sequential execution logic Current prototype: Quadruped desktop robot with 12 servo motors, multimodal I/O (camera, mic, speaker, display). The survey includes a technical preview video showing the system in action - real-time generative motion and natural language control, not cherry-picked demos. Why we're here: We need reality checks from practitioners. What we're really asking: Does this approach solve problems you actually care about? What are the deal-breakers or red flags? Where would you want extensibility vs. polish? Would you engage with an open development community around this? The survey (5-7 min) covers technical priorities, implementation concerns, pricing sensitivity, and community ecosystem interest. Survey Link: https://docs.google.com/forms/d/e/1FAIpQLScDLqMYeSSLKSowCh-Y3n-22_hiT6PWNiRyjuW3mgT67e4_QQ/viewform?usp=dialog This is genuine early research - critical feedback is more valuable than enthusiasm. Happy to discuss technical details in comments."
+    },
+    {
+      "title": "How to you guys sell robot parts usually?",
+      "author": "Over-Pair7650",
+      "url": "https://www.reddit.com/r/robotics/comments/1p8lmmk/how_to_you_guys_sell_robot_parts_usually/",
+      "published": 1764303779.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    }
+  ],
+  "fetched_at": "2025-11-28T15:47:34.905689+00:00"
+}

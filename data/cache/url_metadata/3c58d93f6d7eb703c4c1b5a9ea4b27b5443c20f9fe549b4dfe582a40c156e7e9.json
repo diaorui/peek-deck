@@ -1,0 +1,14 @@
+{
+  "url": "https://cocoindex.io/blogs/batching",
+  "cached_at": "2025-11-22T05:16:56.316239",
+  "metadata": {
+    "url": "https://cocoindex.io/blogs/batching",
+    "title": "Adaptive Batching - 5x throughput on your data pipelines | CocoIndex",
+    "description": "Discover how CocoIndex delivers automatic batch processing for GPU workloads and machine learning pipelines. Framework-level batching optimizes performance for text embeddings and other AI operations without configuration.",
+    "image": "https://cocoindex.io/blogs/assets/images/cover-1112ea89a7c41e08456b9f392f01e3f0.png",
+    "favicon": "https://cocoindex.io/blogs/img/favicon.ico",
+    "site_name": null,
+    "author": null,
+    "keywords": null
+  }
+}

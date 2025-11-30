@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-11-24T18:40:21.435563+00:00",
+  "data": "Kimi K2 Thinking is an open-source agentic LLM excelling in multi-step reasoning and stable tool-use across hundreds of sequential calls, featuring native INT4 quantization and a 256k context window for efficient, long-horizon task execution.",
+  "model_id": "moonshotai/Kimi-K2-Thinking"
+}

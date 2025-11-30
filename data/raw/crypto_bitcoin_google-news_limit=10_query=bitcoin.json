@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "bitcoin",
+  "site": null,
+  "search_query": "bitcoin",
+  "articles": [
+    {
+      "headline": "Bitcoin Surges Without Help From the U.S. Stock Market. Why That's a Good Sign for Cryptos.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNNF9CRkJsNXcxaGZLOHZtRl9yQnB5amNZV3V1bTZ5NW9UUC03dC1zVUU4eG1hRUJNOXJvNXBoX0daR2Q0V3pQUDJCdUdUNWJ1di1DMEhpa3puTEtpN05zU25zVDhnaUZWWE00dlRIOVR1cVhpTl9GdE5ib01DM3ExZGt3aVhuVW5jV1cySEkxOV82UVNWaHM3RldrM18weUc2WkExQUJLSUVYeXhNdjVrWTZyWFQyVlRuSjlWUjB4NGpnR3d0czV6X29ESzFjdUlDUXY4RC1DSzlsUlQtNThEa29SWlMycUlNVFJLMENoXzRlUnFKT3NjM2NsZ0JGUzgyckFfTFpiTXJkSGNvdGhQcjN0TUVNcjMya3Y3ZTFQT3RmSF9oSHVxS3l5UEotY2w3Z2pxT0pDVWhhMndranlGTmhhZFgwQjdpWkhzQXFhMGpFSWhhYmJpQ2pfZmo2Mzl2M0Z0VU9MM3doUFVmSDlfZDk5Y1JXWERnMVFJR1BMclJ1YXkxNE85SUhjZ1p3Zw?oc=5",
+      "pub_date": 1764242580.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-thanksgiving-88abf9ff?gaa_at=eafs&gaa_n=AWEtsqfxYDTL2cHk9KuUsi22i1tQd4ltfE5w4BkTm2Bcn0uU8LalglM8WA0K&gaa_ts=6929c797&gaa_sig=-sd3jWTfz1x4W00hujh6xKzzVYuu-um_0Ckwui4KlICk_c_F8V68hvslU9kXE9eXOHFNa2oWAoYEqiL1tNxQow%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin set to rally back to $100,000, BTIG says",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjZmS1ZfcTREb0pEbTM1WHRZQ0UyUldmS0h1b2d2eFIwcmZBNG9fTjJYQVBKT0RaSlJIQU5DNnFlaGJqSEE3RngzaG50b1JzcXBCdnJ3clBtZHBQbU11eHgwOTVud3dTSDJHc2Y3bUtxdnFVRFRqNWV3T3UwNzJ5VVRyc3VmLTJranc?oc=5",
+      "pub_date": 1764339461.0,
+      "article_url": "https://www.cnbc.com/2025/11/28/bitcoin-set-to-rally-back-to-100000-btig-says.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229960-1763739030339-gettyimages-2244475103-omarques_03112025_tech_9_of_15.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "Bitcoin is trading above $90,000 again, and the token could soon reclaim its $100,000 level, BTIG analysts said in a recent note to clients."
+    },
+    {
+      "headline": "Economist Paul Krugman says Bitcoin\u2019s crash shows the \u2018unraveling of the Trump trade\u2019",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDNKZFppR0RvX2k4Uk8ta2t3azhpN3VqMmZWSWpkTHJKNC1fQ2RSTjc0LVJHSEdLMDJOSHdtOUI5UHFPcFFLMVJrN3ZMUFhUdWVDOHY1V2tIZXVpdHhBeFdfYjVkUk9maF9oRHJJdEhTdGtWc1JRY3cwQ3VaUnVyNWlBSHBQU3pZc2lsMm8yVHc1QWZHeDIyeXFvZnJSdzlFQVQ3ZkMtYw?oc=5",
+      "pub_date": 1764185760.0,
+      "article_url": "https://fortune.com/2025/11/26/nobel-laureate-paul-krugman-bitcoin-meltdown-trump-approval-waning-power/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246770067-e1764178051768.jpg?resize=1200,600",
+      "description": "The Trump family, with ample crypto ventures, has lost an estimated $1 billion from the monthlong cryptocurrency freefall."
+    },
+    {
+      "headline": "JPMorgan reveals new Bitcoin target amid market pullback",
+      "source": "TheStreet",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMXE2ZVdQajVZN1hsTFlBMEVqYkZnT0hWY25YUlZGaE55TndGNzBod0xaWG9GQkd2SUdsUWdLanM4ZmdPQnlrX2hXS2ZfbExmektpRFYtMDUwNDBlMFUyOTM2QmE5Q3JKWlRwRFZ3d3I5N2JJZE5jY2Z2STVfVVJpMTVHWHczS2xLWEpEYll2WU5vSERhQjBuNUkwWDRjdw?oc=5",
+      "pub_date": 1764170735.0,
+      "article_url": "https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-target-amid-market-pullback",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "JPMorgan offers investors chance to win big if Bitcoin's price drops next year, but then rockets in 2028",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHR3Y0VlcVZvNmxfVEVlMTlOWGkxSmxpTDcxendPT2U1ekVZc2ItVmduY0JjS2lCd2Y3MDktaWE4Tk1WNXA5NlJ0bURYYmtEVTE4V0tiUEg0aUpKYUhaeV9EOFJobXg2TnBndEtwTzhzMVE1NmxNNXVBQU11SEVyQnp1cTU2NXYtREFYc0FCWTHSAZYBQVVfeXFMTlE1S2Rkamc3THRCYXNtYUJnZTVoWU03MnBfd19sdl9rUk1DQnhDQ3Z3X3dGVGlVWlc1VkNNeHJrMWtIaXlzSzMwOVZ2RjYxZkZmTVlpYlctUS1fT3hkNEFrOGdkMTNNQUJTOXd6czNHa2RQaHJGNVZzb21JYXNEYjVwSklmNE1HNDRLcldPU21IMlI1bHVB?oc=5",
+      "pub_date": 1764091877.0,
+      "article_url": "https://www.theblock.co/post/380262/jpmorgan-bitcoin-etf-blackrock-ibit-structured-note",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin News: JPMorgan\u2019s IBIT-Linked Structured Note Aligns With BTC's 4-Year Halving Cycles",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN3UtWjRMMVZXT3djazZyR2c5d2thUDE5YkgyM05xWjVUckN0SF81T3RqTUVXaTNLWDhEa2tOTVNyUzIyNklpZzRFei1BWE1vaFhYUm9TVlN5bHhyUG4xYkhxQUF4Rm1naUdQOUtOVHpvNUplaTR0Vk1iSjU0RW9CWmVibzctS0xjaUREb3ZfOEVGYVlSSW9jWGwtb0M0eVF4a3E2cnpUZEdNR1JkMzlQSmZLTTFQNl85a2lFTDE3TGc1RlJtVU5Kc2toalFBYjg0X3c?oc=5",
+      "pub_date": 1764141042.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/26/bitcoin-dip-in-2026-surge-in-2028-jpmorgan-s-ibit-linked-structured-note-fits-halving-cycles",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "The fatal flaw in using bitcoin as a currency",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZmNlenhZYzBTbGpueFNGeFB5eUxQeV9CR3k4OEwzUDBzXzhHNlAxNkVtZlVtaC1LeUxkZ1JWV3BxVEtzNGI1ZU1JOWw2UjdYSE41NnZsMmZ5N2VZWkF2bk5fQnJrd2ZLOHBxRUh6UXA?oc=5",
+      "pub_date": 1764133249.0,
+      "article_url": "https://www.ft.com/content/a18c310a-d533-4d03-bb25-53cb11337dd1",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80fc2f5e-ea28-4dc9-ae18-6c879b6eb7a5.jpg?source=next-barrier-page",
+      "description": "There is a crypto parallel in the aftermath of Europe\u2019s 14th century bubonic plague"
+    },
+    {
+      "headline": "Nasdaq Seeks to Boost Trading Cap for Options on Top Bitcoin ETF",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNG5DNEozbVRDR2xhZHcxLUxyTF9OSmt0djhaUTZyRXRzRUVHQlBYNlp5S0NDR010b0xDUkJ4ZTJ3X3J5NmtzZUxKMENMSzdxNURwenpXUHNNbFh1M1F3RHR6blN6Z2g3emJDYzktcTFDLVpaZ3NScWM0YXVla0tEaUZNU1NhSnp0OWlHMHZMcGx3TUhObHVCc0haTkR2YWpPRFFUb09BYjRzbllSZTh6aXNzUDU4dw?oc=5",
+      "pub_date": 1764238231.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-27/nasdaq-seeks-to-boost-trading-cap-for-options-on-top-bitcoin-etf",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibiVYjjXdZgU/v1/1200x800.jpg",
+      "description": "Nasdaq\u2019s International Securities Exchange proposed quadrupling the daily trading limit for options tied to BlackRock Inc.\u2019s iShares Bitcoin Trust ETF as demand from investors increases."
+    },
+    {
+      "headline": "BlackRock\u2019s Own Income Fund Lifts IBIT Stake 14% in Latest Filing",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSWEwamh2SUU3ZWdjemk2YW10WldhRkFCVzg5MUZ6VXFtV1Vlb0tWTUJheFY1Zk8tZFRNNFZqLXgwZUpSeGotZ3RiaHY4S19YMExXQTg3MEw3VkpMWGk2OEpVdzBmTFdVajFyT0h0eWh3RjRBWlJXZUhlV3hoMkFHbWFHUV81VzdlQ3VubWtpSldBSDZydlNFSko2N2VWN0ZfeXRGQg?oc=5",
+      "pub_date": 1764328159.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/28/blackrock-s-own-income-fund-boosts-bitcoin-etf-holdings-14",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nasdaq ISE Seeks to Quadruple Trading Limits on BlackRock's Bitcoin ETF Options",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTm5Pa2xCeHVuZmVLc2FYazZZOGo3WThabUZnY1RvcmpKVFhCZnN4WkhuaEdyMDVNRC1fNENHdjlRRXVFUTlFVHBjcnRoZUFEdFp5OGxQMFExa3VTZXdiYlpNUWJDNHg1WWRzUTktWTNkcGdMQ2padjdDZVpmMURLNl95SjZuSnB3MmFPZ0pucmJmVzdJ0gGcAUFVX3lxTE5haXRYZm91ems3NjZReHJ3Zmh1NkpidzAxYWRvOGRMREZJb1dUQVQ1b0Y2OHhsWkY5OTBpUDVmOV9aRk9TVkp1aHJ5UWYyMXVJZnk3TFRxOHUtMTFqeHgtV0hvblQxbGM4MWJvVEROUVBCWUxCUG8wdFlkOGxIUnhDVE1Venk0U1ZHcEQ5TFdpV2piVDVEWTBDTVRoUg?oc=5",
+      "pub_date": 1764217357.0,
+      "article_url": "https://decrypt.co/350191/nasdaq-ise-seeks-quadruple-trading-limits-blackrocks-bitcoin-etf",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/larry-fink-blackrock-decrypt-style-03-gID_7.jpg",
+      "description": "The move marks a shift that would bring Bitcoin derivatives in line with major equities and deepen institutional access to the market."
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2025-11-28T15:47:49.812838+00:00"
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Google News",
+  "query": "ai",
+  "site": null,
+  "search_query": "ai",
+  "articles": [
+    {
+      "headline": "A.I. and the Trillion-Dollar Question",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNVdGWUxSRko5TUpCeFRFcVhGcEVVYl9jVGlSaWJ4R0lyWENPMWQ1eFhHNkVwR2lRY0lvd3dGYlNDZ01FN0pDQU5QYWpjUmdvb2JUcm5YZE5XNjZXcE5NSVFsaXhNMkp5ejR4MDVCUGUtUFRxck5ldTE2Q0VJVURPS1A4TFBfSm12VllZeDQzNnJ0cXdrUzZV?oc=5",
+      "pub_date": 1764307800.0,
+      "article_url": "https://www.nytimes.com/2025/11/28/world/ai-valuations-markets-technology-hongkong-fire.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Poems Can Trick AI Into Helping You Make a Nuclear Weapon",
+      "source": "WIRED",
+      "source_url": "https://www.wired.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONlJpRmNBbjVJRDZnM3R6bXVuc0hoMkt2ZXIyTVpHVVB0X1NscjF1cWFtSktEeWpyRVJoRmV5N3pKYW53TmlWWVlSQ3l0aVVJMERQQmFTN2RTbDI1TW1MS2RsOEtJUklVamxYV2NFQlFsZ3hxck9fVzI4T0pHSWxDVkZkamhqTnhvRE10VWxxMA?oc=5",
+      "pub_date": 1764324000.0,
+      "article_url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
+      "image": "https://media.wired.com/photos/6925f9abe38648aa0f225be3/191:100/w_1280,c_limit/sec-poetry-ai-nukes-517442570-522586638.jpg",
+      "description": "It turns out all the guardrails in the world won\u2019t protect a chatbot from meter and rhyme."
+    },
+    {
+      "headline": "Greg Jensen Echoes Michael Burry on Nvidia Chips With a Fresh AI Twist",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOemRvMlJwbkxJb2M1Z2p5cVlVYWFBb2FQcmZwX0ZJN2VQRWtzYjNrQ1B1X0pINXhCQjVHUVpkX2R4V2xHb0xUbkE0VmFUX0hHNUFiak1jRGttcVpEUVhXaEFheWl4ZmF1cjJTR1MtbTY4aXdHOXNQNHUzUENwYXVKMlVQUmNmV0t3M09tcWR4ZUd5TDMtU2drRFRDcjU0UUJLbl9QeWpCYw?oc=5",
+      "pub_date": 1764344040.0,
+      "article_url": "https://www.businessinsider.com/greg-jensen-michael-burry-nvidia-chips-ai-depreciation-big-short-2025-11",
+      "image": "https://i.insider.com/6929bf6589026fbb4d0e9982?width=1200&format=jpeg",
+      "description": "Nvidia chips could power AI models that invent better chips, Bridgewater's Greg Jensen said."
+    },
+    {
+      "headline": "UAB physician and AI innovator may leave US due to parents\u2019 immigration limbo",
+      "source": "AL.com",
+      "source_url": "https://www.al.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXgweWF2dHgyM00yLWlfOHJrcWthTzlwRnNRR2ZFTFNtSHlrUXhUbEs5RkN4LXY4b1hjYzNha2ZkNjQ2ZzFxM2U2Wm8tRlNwcC1fdm9kc3p2dE1CZnowSXp6RUVaSEVGMlU2RFNZZEdLeUhtc3ZxSlEtdkQ0X0VJaVFnUWx0NGd1LVNzZGxOM2U5bHNjUnBFMHVELXl6bWZpS1l6djJnc1VweWhES3VBbVRkY9IBxwFBVV95cUxPZkRCRGJ6N3Jkd2Y0Mi1NY05IbVYwVnE5cWJUcU5tcUc2OURBd0tvR25Hc3IwTXNSMHVmRWRtcWNmMkxJVGU3bHdlOUV2TnpBYmxxVGVnR2hWZ25xd21ERUhEVXJQUXJRTldxSkpLbVJiTUMyOEQ4NVhGTC1aYkpqZDNCMUZNTFVUdm9ZRlBrdTlYNGVTSkNpbXE1WW5lTGdsQW9ReUh5cEJBWEFkbGJfWVB0TzBqRXMwVVRPdVJyMDZHTy1WS2c0?oc=5",
+      "pub_date": 1764343200.0,
+      "article_url": "https://www.al.com/news/2025/11/uab-physician-and-ai-innovator-may-leave-us-due-to-parents-immigration-limbo.html",
+      "image": "https://www.al.com/resizer/v2/KNNZFLV2IFGVJPH76PI3LWS75M.jpg?auth=9c1ca97f847224dfafadcc5c719892b65cfdb94f6250cbb8d0d7412c854ba4ae&width=1280&smart=true&quality=90",
+      "description": "Dr. Tlimat said his life feels like a roller coaster due to his parents\u2019 situation"
+    },
+    {
+      "headline": "Gemini is most 'empathetic' AI model, test shows",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZFRFYjlIWXJNUHhiVGl3WWxOaHRZN0N6blBRZlJBY0REYVVmZG94Y3NYTlJiWTNUd3Nxd2FfYnpPRjNuV2I4cHRKZU43dnM0SXBfX3AycVBwejZWNWhmMWFWaGxITDd6dFBBakZxUFJsZU9XSWZWWjRpdFBOcXdwWnl0MWtmTUZhUHc?oc=5",
+      "pub_date": 1764343272.0,
+      "article_url": "https://www.yahoo.com/news/articles/gemini-most-empathetic-ai-model-152112565.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/JLjQutwsj6EVW2Njus5htQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzQ7Y2Y9d2VicA--/https://media.zenfs.com/en/semafor_310/49ff070025608bf85327e0b1d0c40adb",
+      "description": "AI journaling app Rosebud tested 25 models across mental health-related scenarios."
+    },
+    {
+      "headline": "More than 1,000 Amazon workers warn rapid AI rollout threatens jobs and climate",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLWFfcC1vV2RJTWIxMzdITVRRWVdTY2sxQUNzRmpiUnpjcDdMcDNPc1Y2bE9SZ2wzaUx0cnpCZ1p4NmF0UkpKRHNBZlFGUkNhMmZzSEpab0RraGF0cktabTMwdXdlY2lkdV9VVVdqckRzUldBUTRUUVJyUHdTMDM2UQ?oc=5",
+      "pub_date": 1764337800.0,
+      "article_url": "https://www.theguardian.com/technology/2025/nov/28/amazon-ai-climate-change",
+      "image": "https://i.guim.co.uk/img/media/6de165ca4360d0ab477a2910029b933d916d9d02/92_0_4703_3763/master/4703.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b40cd58e096bb6e156b45715f04d754e",
+      "description": "Workers say the firm\u2019s \u2018warp-speed\u2019 approach fuels pressure, layoffs and rising emissions"
+    },
+    {
+      "headline": "'Green light' away from AI trade: Two ETF executives see a key market shift underway",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLTdud0hpenpCbDFLNVRsRXlsU0tYZVo5SW9fRU53QnJzR2FmT1JSa0NfX0stTEJsc1lCc1VIZFFJQzBJanBZenZwODk1ckIwLV9wMThXZFpMekxPY01YYk1uRy1nOEhHcEc2TUVpZV9ydFRxNXY1ZnZ3UVRPVDZuWk4zWW9YS3RSZXpTNURnX3FoOWFWR21WMGJueWx0SUF5QmFmNTJR0gGrAUFVX3lxTE9NcjdMVHdudEVHQndfX2Q0bzE2QTR6VDZ6WHpyWkt1Q19EVXdXd0xvNkZweXVudU1Ya0xhTnRNVkM0dXBkSnJsS05SV0VQUWR0MGlxSzJTckEwZlY2NGZIMWFpMlRRUFd1YVFKcFhsQVdSeGhxQ0p6a1M5M2ZHdXYwLUVNem5OZU0tMGJ2djNiXzZGZHJfT0lrVzdQX003aFFiMFVsNFlxSmxzTQ?oc=5",
+      "pub_date": 1764277201.0,
+      "article_url": "https://www.cnbc.com/2025/11/27/green-light-away-from-ai-trade-two-etf-ceos-see-a-key-market-shift.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108180547-1754063406081-IMG_8885.jpg?v=1754063887&w=1920&h=1080",
+      "description": "Markets may have entered a new cycle. Here's why."
+    },
+    {
+      "headline": "Pollution from coal plants was dropping. Then came Trump and AI.",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcENDUDVmSEUxaVZCZTkycXhHNXlZY0xKN1Q5eHdVbk00b203ZENhR29RNmRoZU9YNi1OelRBNnU0RHEzanQ1dlFrLWVnSTRiUkk5MXBKYy0wb1VzTmNkNmVWbXNzS2E0emp4YkxCVzUxVjl1eERiRnBvN1VGQWFlWll1TF9fY3lCWlFMR19iZjZfWVpNdk9Bb29vbGc4ZmFiUUFiSkxneTdsQ2xhTEE?oc=5",
+      "pub_date": 1764255600.0,
+      "article_url": "https://www.politico.com/news/2025/11/27/ai-gives-coal-plants-a-lifeline-as-trump-makes-them-dirtier-00661839",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI Adoption Rates Starting to Flatten Out",
+      "source": "Apollo Academy",
+      "source_url": "https://www.apolloacademy.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1POGhsT2dhUU9jbmx1Y2xnVUdTYXkxXzdLYTZYOWlHemVXakZrdGFMUTBZck5ORWtqak1kU2RDRDJLcWQ4dWJ6Y0d6TXpsaVFobjVsdFdSSHMzeWpxeExBd1Z6TDNRQ2FlR2p4N2R0WXFOckN5MUNVXzl3X20?oc=5",
+      "pub_date": 1764327713.0,
+      "article_url": "https://www.apolloacademy.com/ai-adoption-rates-starting-to-flatten-out/",
+      "image": "https://www.apolloacademy.com/wp-content/uploads/2025/11/Nov28-chart.jpg",
+      "description": "Data from the Census Bureau and Ramp shows that AI adoption rates are starting to flatten out across all firm..."
+    },
+    {
+      "headline": "Siemens\u2019 Push Into AI Extends to CEO\u2019s Workout Routine",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQlNwWXFEZTh3VXVQRlhEVDg5RmNlNFA3WmxoRVVaOHlXbTVkYmdMQlZCVFJnak4tNERIdVNLMzRvQU4tX2ROck1zV3lSbEVpYjdMZmpPQTU3dEVJQ2VPYk9ZcEtrc1JfZjJ2cUNZWHlsSlA2NS0wZ0lCRnJWWF85TGVsN2VKelpiRlFWWGZNeWg3dV85dURkb0VFejFKNlFOM3VVVGVuYw?oc=5",
+      "pub_date": 1764340718.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-28/siemens-push-into-ai-extends-to-ceo-s-workout-routine",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGzXeHM8jDxA/v0/1200x800.jpg",
+      "description": "Siemens AG\u2019s Chief Executive Officer Roland Busch is working hard to pivot the German industrial company to expand into artificial intelligence applications. He\u2019s also using the technology to share sports tips."
+    }
+  ],
+  "has_metadata": true,
+  "fetched_at": "2025-11-28T15:47:48.254077+00:00"
+}

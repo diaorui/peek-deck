@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-11-24T18:40:20.676969+00:00",
+  "data": "SAM 3D Objects reconstructs full 3D shape, texture, and layout from a single image, excelling in cluttered scenes and outperforming prior models in human preference tests. It is used for single or multi-object 3D generation from masked image inputs.",
+  "model_id": "facebook/sam-3d-objects"
+}

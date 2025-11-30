@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-11-26T21:23:00.219994+00:00",
+  "data": {
+    "url": "https://eips.ethereum.org/EIPS/eip-8046",
+    "title": "EIP-8046: FOCIL with ranked transactions (FOCILR)",
+    "description": "Ensure IL transactions that offer a higher ranking fee than competing transactions are included in the block. Burn the marginal ranking fee.",
+    "image": null,
+    "favicon": "https://eips.ethereum.org/assets/images/favicon.png",
+    "site_name": "Ethereum Improvement Proposals",
+    "author": null,
+    "keywords": null
+  }
+}
