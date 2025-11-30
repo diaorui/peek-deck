@@ -24,6 +24,28 @@
       "description": "Well, to be fair, he DOES have one month left. After that, will it OK to call him out for the grifter he is? Edit - Since there seem to be some people who aren't aware that this isn't the full interview where he said it: https://youtu.be/xXCBz_8hM9w?t=2772 Interviewer: \"What are you excited about in 2025? What's to come?\" Altman: \"AGI. Excited for that\"."
     },
     {
+      "title": "One-Minute Daily AI News 11/29/2025",
+      "author": "Excellent-Target-847",
+      "url": "https://www.reddit.com/r/artificial/comments/1pa9p2a/oneminute_daily_ai_news_11292025/",
+      "published": 1764478662.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "AI helps drive record $11.8 billion in Black Friday online spending.[1] StepFun AI Releases Step-Audio-R1: A New Audio LLM that Finally Benefits from Test Time Compute Scaling.[2] Musk\u2019s xAI to build small solar farm adjacent to Colossus data center.[3] Are you balding? There\u2019s an AI for that.[4] Sources; [1] https://www.reuters.com/business/retail-consumer/us-consumers-spent-118-billion-black-friday-says-adobe-analytics-2025-11-29/ [2] https://www.marktechpost.com/2025/11/29/stepfun-ai-releases-step-audio-r1-a-new-audio-llm-that-finally-benefits-from-test-time-compute-scaling/ [3] https://techcrunch.com/2025/11/26/musks-xai-to-build-small-solar-farm-adjacent-to-colossus-data-center/ [4] https://techcrunch.com/2025/11/26/are-you-balding-theres-an-ai-for-that/"
+    },
+    {
+      "title": "New Research Indicates Positive Results for an Intermediary Empathetic AI Bot To Help People Quicker",
+      "author": "am1ury",
+      "url": "https://www.reddit.com/r/artificial/comments/1pa9lht/new_research_indicates_positive_results_for_an/",
+      "published": 1764478340.0,
+      "thumbnail": "https://external-preview.redd.it/3pLM_AlKn6bBL4L8mL03AYoonDzQTQQH4gQtoW7Trzg.jpeg?width=216&crop=smart&auto=webp&s=fb6e66a1ca560f7e20f0aaa29fd8e6cedcf0b867",
+      "external_url": "https://doi.org/10.14293/PR2199.002402.v1",
+      "site_name": "ScienceOpen",
+      "favicon": "https://doi.org/favicon/so/apple-touch-icon.png",
+      "description": "<p xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" class=\"first\" dir=\"auto\" id=\"d442289e88\">This research details the creation, implementation, and rigorous analysis (N=5,400)\n            of Opened Mind, an advanced, multimodal AI system designed to provide empathetic mental\n            health support, especially for teens. It addresses common weaknesses in current digital\n            wellness tools, like scalability, accessibility, and data security. The setup uses\n            a zero-storage, client-side data system for maximum privacy. The core combines insights\n            from three input streams: Facial Action Units (FAUs), Vocal Patterns, and Written\n            Sentiment analysis. This emotional profile drives a Generative AI guided by the Emotion\n            Recognition Strategies (ERS) framework, translating clinical insights into actionable\n            responses. Tests covered 12 major languages (English, Spanish, French, German, Italian,\n            Portuguese, Russian, Hindi, Arabic, Japanese, Korean, and Mandarin), showing strong\n            performance with an 88% Macro F1-Score in cross-input emotion detection. Therapeutic\n            responses averaged 4.12/5.0 on the Compassion Index. Statistical checks, including\n            ANOVA and Chi-Squared tests, found no bias in effectiveness by language or interaction\n            mode (p &gt; 0.05). The emergency detection system also achieved 98% accuracy. These\n            findings confirm Opened Mind as a fair, globally viable, and ethical digital mental\n            health tool, ready for human trials.\n         </p>"
+    },
+    {
       "title": "Are you up to date on AI court cases?",
       "author": "Apprehensive_Sky1950",
       "url": "https://www.reddit.com/r/artificial/comments/1pa7rjp/are_you_up_to_date_on_ai_court_cases/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "AI data centers' massive demand for aluminum is crushing the US aluminum industry",
-      "author": "yahoofinance",
-      "url": "https://www.reddit.com/r/artificial/comments/1p8y39c/ai_data_centers_massive_demand_for_aluminum_is/",
-      "published": 1764344829.0,
-      "thumbnail": "https://external-preview.redd.it/z-nht86sCah1F4RXbb5IBQqKGlNgxRCY_RK5lAuaGkY.jpeg?width=640&crop=smart&auto=webp&s=4377d6bd4fc3d7c28471a76c9f7a50c467adf281",
-      "external_url": "http://finance.yahoo.com/news/ai-data-centers-massive-demand-for-aluminum-is-crushing-the-us-aluminum-industry-110035572.html",
-      "site_name": "Yahoo Finance",
-      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
-      "description": "The boom in metal-intensive technologies like data centers and electric vehicles has made it a prime time to be in the US aluminum business. Prices are booming. Part of that is because inside every data center are cooling units, server racks, radiators, and a litany of other pieces and parts made out of aluminum. No wonder demand is high. But data centers guzzle enormous amounts of power, and electricity prices are skyrocketing. In the US alone, electricity demand is expected to grow five to 10 times faster over the next 10 years than it did in the previous decade, per Bank of America. For aluminum smelters, this is a problem."
-    },
-    {
-      "title": "One-Minute Daily AI News 11/28/2025",
-      "author": "Excellent-Target-847",
-      "url": "https://www.reddit.com/r/artificial/comments/1p9h3x5/oneminute_daily_ai_news_11282025/",
-      "published": 1764395217.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "MIT study finds AI can already replace 11.7% of U.S. workforce.[1] China\u2019s DeepSeek Releases New Open Source AI Model Amid Google\u2019s Gemini 3 Roll Out.[2] US Patent Office issues new guidelines for AI-assisted inventions.[3] OpenAI claims teen circumvented safety features before suicide that ChatGPT helped plan.[4] Sources: [1] https://www.cnbc.com/2025/11/26/mit-study-finds-ai-can-already-replace-11point7percent-of-us-workforce.html [2] https://www.investors.com/news/technology/nvidia-stock-google-stock-deepseek-china-open-source-ai-models/ [3] https://www.reuters.com/legal/government/us-patent-office-issues-new-guidelines-ai-assisted-inventions-2025-11-26/ [4] https://techcrunch.com/2025/11/26/openai-claims-teen-circumvented-safety-features-before-suicide-that-chatgpt-helped-plan/"
     }
   ],
-  "fetched_at": "2025-11-30T04:21:00.378344+00:00"
+  "fetched_at": "2025-11-30T05:10:37.150356+00:00"
 }

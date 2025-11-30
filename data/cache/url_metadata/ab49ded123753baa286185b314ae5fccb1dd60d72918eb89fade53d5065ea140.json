@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-11-30T05:10:37.149554+00:00",
+  "data": {
+    "url": "https://doi.org/10.14293/PR2199.002402.v1",
+    "title": "<b>Opened Mind: A Cross-Modal, Multilingual Analysis of Empathetic AI</b> <br/>Evaluating the Impact of Emotion Acknowledgment Strategies (EAS) on Therapeutic and Empathetic Outcomes Across 12 Diverse Linguistic Contexts",
+    "description": "<p xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" class=\"first\" dir=\"auto\" id=\"d442289e88\">This research details the creation, implementation, and rigorous analysis (N=5,400)\n            of Opened Mind, an advanced, multimodal AI system designed to provide empathetic mental\n            health support, especially for teens. It addresses common weaknesses in current digital\n            wellness tools, like scalability, accessibility, and data security. The setup uses\n            a zero-storage, client-side data system for maximum privacy. The core combines insights\n            from three input streams: Facial Action Units (FAUs), Vocal Patterns, and Written\n            Sentiment analysis. This emotional profile drives a Generative AI guided by the Emotion\n            Recognition Strategies (ERS) framework, translating clinical insights into actionable\n            responses. Tests covered 12 major languages (English, Spanish, French, German, Italian,\n            Portuguese, Russian, Hindi, Arabic, Japanese, Korean, and Mandarin), showing strong\n            performance with an 88% Macro F1-Score in cross-input emotion detection. Therapeutic\n            responses averaged 4.12/5.0 on the Compassion Index. Statistical checks, including\n            ANOVA and Chi-Squared tests, found no bias in effectiveness by language or interaction\n            mode (p &gt; 0.05). The emergency detection system also achieved 98% accuracy. These\n            findings confirm Opened Mind as a fair, globally viable, and ethical digital mental\n            health tool, ready for human trials.\n         </p>",
+    "image": "https://www.scienceopen.com/document_file/051da2e0-56dd-4037-842e-8163c246853e/ScienceOpenPreprint/large.png",
+    "favicon": "https://doi.org/favicon/so/apple-touch-icon.png",
+    "site_name": "ScienceOpen",
+    "author": null,
+    "keywords": null
+  }
+}

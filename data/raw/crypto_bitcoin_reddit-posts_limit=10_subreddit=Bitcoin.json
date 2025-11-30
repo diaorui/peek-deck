@@ -24,6 +24,17 @@
       "description": "Another year, another headline: \u201cChina says Bitcoin has no legal status.\u201d Bro\u2026 they\u2019ve banned Bitcoin like 9 times already. Every cycle it\u2019s the same script: \u2022 China FUD \u2022 Panic headlines \u2022 \u201cSpeculation crackdown\u201d \u2022 And then\u2026 Number. Goes. Up. If a government with that level of control still feels threatened enough to repeat the same warning over and over\u2026 That tells you everything about Bitcoin\u2019s trajectory. I don\u2019t sell. I only buy. Let them ban it every month \u2014 the protocol doesn\u2019t care. Blocks keep coming in every 10 minutes. \u26a1\ufe0f What do you think: Classic FUD or something deeper this time?"
     },
     {
+      "title": "Bitcoin in the wild",
+      "author": "The_Finance_Pro",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pa5kyp/bitcoin_in_the_wild/",
+      "published": 1764466001.0,
+      "thumbnail": "https://preview.redd.it/dglqornbra4g1.jpeg?width=640&crop=smart&auto=webp&s=a35ba3ae9e6c09a426336d729b5182036bb1e125",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I saw this Bitcoin machine. Has anyone ever tried one like this? Was actually thinking of buying one. Does anyone have any experience with owning one?"
+    },
+    {
       "title": "TIL Bitfinex recovered ~$3 billion of customers stolen bitcoin and did not return it. \"As far as Bitfinex is concerned, we've made our customers whole.\" from Netflix documentary, \"Biggest Heist Ever\"",
       "author": "rgnet1",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p9th85/til_bitfinex_recovered_3_billion_of_customers/",
@@ -35,15 +46,15 @@
       "description": "tl;dr Hackers broke into Bitfinex in 2016 and stole 120,000 BTC ($75m at the time) directly from customer accounts. Law enforcement recovered 96,000 BTC in 2022, now worth $3.5bn. They returned a bulk of it back to Bitfinex. Bitfinex did not return the bitcoin to its customers, but instead provided them redeemable tokens for the value of the bitcoin at the time it was stolen. (Even worse: \"Redeemable as quickly as we can.\") I usually call people who yell \"not your keys, not your coins\" too alarmist. Exchanges must be held accountable. They are 100% not being held accountable. This should be a massive lawsuit to permanently determine that if bitcoin as property CAN be returned then it MUST be returned, not the value in dollars at time of loss. You can watch the slimy Bitfinex executive explain this directly at 1hr13 in the documentary, by the way."
     },
     {
-      "title": "Bitcoin in the wild",
-      "author": "The_Finance_Pro",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pa5kyp/bitcoin_in_the_wild/",
-      "published": 1764466001.0,
-      "thumbnail": "https://preview.redd.it/dglqornbra4g1.jpeg?width=640&crop=smart&auto=webp&s=a35ba3ae9e6c09a426336d729b5182036bb1e125",
+      "title": "\u201cIf I put $100 in Bitcoin in 2010 I\u2019d have $2.8B now.\u201d No.",
+      "author": "Apprehensive_Shoe_86",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pa9f7n/if_i_put_100_in_bitcoin_in_2010_id_have_28b_now_no/",
+      "published": 1764477772.0,
+      "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I saw this Bitcoin machine. Has anyone ever tried one like this? Was actually thinking of buying one. Does anyone have any experience with owning one?"
+      "description": "If you bought $100 of Bitcoin in 2010 and watched it go to: $1k \u2192 $100k \u2192 $1.7M and did nothing Then watched $1.7M go to $170k and still did nothing Then watched $170k go to $110M and still did nothing Then watched $110M wither to $18M and still did nothing Then watched $18M surge to $390M and still did nothing Then watched $390M deteriorate to $85M Then watched $85M climb to $1.6B and still did nothing Then watched $1.6B shrink to $390M and still did nothing Then watched $390M surge to $2.8B and then for some reason finally decided to do something\u2026 Then yes, $100 in 2010 would be worth $2.8B today."
     },
     {
       "title": "Three lessons from Bitcoin octopus \ud83d\udc19",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "The freedom you seek is in the dips you avoid.",
-      "author": "Available_Reveal4066",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p9scxh/the_freedom_you_seek_is_in_the_dips_you_avoid/",
-      "published": 1764431891.0,
-      "thumbnail": "https://preview.redd.it/ub1jxu8tx74g1.png?width=640&crop=smart&auto=webp&s=45c4b33935d8188bb23c1b05ed10a93518a4d7a0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-11-30T04:20:59.093134+00:00"
+  "fetched_at": "2025-11-30T05:10:35.848790+00:00"
 }
