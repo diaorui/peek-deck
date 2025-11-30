@@ -15,24 +15,14 @@
       "description": "There's no one way to be absolutely sure about a video's authenticity, but experts say there are some simple clues that can help."
     },
     {
-      "headline": "A history professor says AI didn't break college \u2014 it exposed how broken it already was",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb0MxZWJuNHJBSEQ1SWFzTUJQM0wwb2JZdmxkX04xWUhEY3E0UzZOT0VrZEY1MmV4Y2RFX0ZFSk1hUnpfazA4VGR1TU8wcUFLTEczeXVQM0ZWa2pwR1VJcHBlNFZ2dHRCY2pwMERnWU9NMmY3clJSSkZUX0x6UGFWeUlQaDBUdzlQUnNCRENuNGdhLU1LZUtwc0hJdFRIZw?oc=5",
-      "pub_date": 1764498900.0,
-      "article_url": "https://www.businessinsider.com/ai-didnt-break-college-it-exposed-broken-system-professor-2025-11",
-      "image": "https://i.insider.com/691de0b4abd5e944effb0582?width=1200&format=jpeg",
-      "description": "Steven Mintz says identical AI essays aren't a scandal but proof universities must reinvent how they teach and measure real learning."
-    },
-    {
-      "headline": "Google takes action to crack down on misuse of AI",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90YXlHU1hIZ3ZRUi1xYThMRTRTOWU3YnZJTWVrT21ZMGNCRG5YcFpBOWswTmd5S2hPeUloVk1mcmtLUHlrdnlNcmNpUVJaSDlsNE1CMUF3?oc=5",
-      "pub_date": 1764517661.0,
-      "article_url": "https://www.foxnews.com/video/6385763576112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c40cc7d-c90b-4890-81b9-a2e11dabe258/b9125632-9b6b-47ee-8d6d-cca449f97a42/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Google CEO Sundar Pichai joins 'Fox News Sunday' to discuss the risks of AI innovation, the crackdown on misuse, the future of the technology and more."
+      "headline": "Colleges Are Preparing to Self-Lobotomize",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVNzSGpjUGpfekZmX0JpY3BHQU1KbkJQNE05Qk81Vi1WT3BIUHpScGx2enprZ1U2dDUweDF0MVRpc2RnRkdPM29HYUVWZWtqd1o0ejloZ242blVGY2lJQ1I1TEhweDd4Umk4bHlwb1ZKX1N3aGpXdnNBRXVaY0NYMUt1N3pLSTA?oc=5",
+      "pub_date": 1764417600.0,
+      "article_url": "https://www.theatlantic.com/ideas/2025/11/colleges-ai-education-students/685039/",
+      "image": "https://cdn.theatlantic.com/thumbor/DuI6ztNIdIeKfaY9I8NIsyHiw8U=/0x61:2876x1559/1200x625/media/img/mt/2025/11/2025_11_AI_school_/original.jpg",
+      "description": "The skills that students will need in an age of automation are precisely those that are eroded by inserting AI into the educational process."
     },
     {
       "headline": "AI\u2019s safety features can be circumvented with poetry, research finds",
@@ -43,16 +33,6 @@
       "article_url": "https://www.theguardian.com/technology/2025/nov/30/ai-poetry-safety-features-jailbreak",
       "image": "https://i.guim.co.uk/img/media/d1e92f8f9cdcdfaecedbb1a022ae3002a5f6b9c3/0_591_2832_2264/master/2832.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ef641cf144176dd005591011786ae62",
       "description": "Poems containing prompts for harmful content prove effective at duping large language models"
-    },
-    {
-      "headline": "Colleges Are Preparing to Self-Lobotomize",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVNzSGpjUGpfekZmX0JpY3BHQU1KbkJQNE05Qk81Vi1WT3BIUHpScGx2enprZ1U2dDUweDF0MVRpc2RnRkdPM29HYUVWZWtqd1o0ejloZ242blVGY2lJQ1I1TEhweDd4Umk4bHlwb1ZKX1N3aGpXdnNBRXVaY0NYMUt1N3pLSTA?oc=5",
-      "pub_date": 1764417600.0,
-      "article_url": "https://www.theatlantic.com/ideas/2025/11/colleges-ai-education-students/685039/",
-      "image": "https://cdn.theatlantic.com/thumbor/DuI6ztNIdIeKfaY9I8NIsyHiw8U=/0x61:2876x1559/1200x625/media/img/mt/2025/11/2025_11_AI_school_/original.jpg",
-      "description": "The skills that students will need in an age of automation are precisely those that are eroded by inserting AI into the educational process."
     },
     {
       "headline": "More of Silicon Valley is building on free Chinese AI",
@@ -85,14 +65,14 @@
       "description": "Google just threw another twist in the fast-changing AI race. And its biggest competitors are taking notice."
     },
     {
-      "headline": "AI-assisted shopping is the talk of the holiday shopping season",
-      "source": "ABC News",
-      "source_url": "https://abcnews.go.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLS0xVDJ0QWw3am9iX3JqM0VNVjVsWHZTYWtpb3k0RDE0Wm0zLTlIWHlCd3ZEbko5SmoyeWVNbldUM1dKVEpJdVYwLXlDR3FoTExlNjZQWFlLajdRT0lTYTFXSDNNY2MxSEVjSnlsX1VYWWlBbVUyT0l2cFU2Z2xWYXB4a1lZU2toLUZ0UEdkeF8zR3QzM0lwSmVIMU9tcVZvcFIzYTZn0gGrAUFVX3lxTE4zZ3FlT0doQm5ObUpvcWxHdGZEbWY1RW9jRzZVVGFDaXNTZHZOSlZsMWdzTVNqcHdPbWxjb2xOcmJJbVJKeTY2WlBwTkhxUW1FRVdjUEEwaEZ6SjRQbUdhWXV1Z0xBZWdBVm41a2U1QUpCUmdFX1Y2bGlRaVVLRFlIUU9pZ2FtekVqM2JsVlh3NUo5bDRBWWR3TVk4X1RqbGpLdW5YREtta0xFdw?oc=5",
-      "pub_date": 1764499853.0,
-      "article_url": "https://abcnews.go.com/Technology/wireStory/ai-assisted-shopping-talk-holiday-shopping-season-127976859",
-      "image": "https://i.abcnewsfe.com/a/1b595f64-f4ca-43c6-b715-bb7d1bde3c41/wirestory_0722dce44b4a479ec4ce476bbd15dfa9_16x9.jpg?w=1600",
-      "description": "Major retail chains and tech companies are offering new or updated artificial intelligence tools in time for the holiday shopping season"
+      "headline": "A history professor says AI didn't break college \u2014 it exposed how broken it already was",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb0MxZWJuNHJBSEQ1SWFzTUJQM0wwb2JZdmxkX04xWUhEY3E0UzZOT0VrZEY1MmV4Y2RFX0ZFSk1hUnpfazA4VGR1TU8wcUFLTEczeXVQM0ZWa2pwR1VJcHBlNFZ2dHRCY2pwMERnWU9NMmY3clJSSkZUX0x6UGFWeUlQaDBUdzlQUnNCRENuNGdhLU1LZUtwc0hJdFRIZw?oc=5",
+      "pub_date": 1764498900.0,
+      "article_url": "https://www.businessinsider.com/ai-didnt-break-college-it-exposed-broken-system-professor-2025-11",
+      "image": "https://i.insider.com/691de0b4abd5e944effb0582?width=1200&format=jpeg",
+      "description": "Steven Mintz says identical AI essays aren't a scandal but proof universities must reinvent how they teach and measure real learning."
     },
     {
       "headline": "Leave me alone, AI",
@@ -103,8 +83,28 @@
       "article_url": "https://www.ft.com/content/1e93adc5-4186-4775-a289-d684865da2ce",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F96cb3133-9ced-4cb3-b839-7434d5e4194e.jpg?source=next-barrier-page",
       "description": "If I wanted your tedious advice on how to do the simplest thing online, I would have asked for it"
+    },
+    {
+      "headline": "AI-assisted shopping is the talk of the holiday shopping season",
+      "source": "ABC News",
+      "source_url": "https://abcnews.go.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLS0xVDJ0QWw3am9iX3JqM0VNVjVsWHZTYWtpb3k0RDE0Wm0zLTlIWHlCd3ZEbko5SmoyeWVNbldUM1dKVEpJdVYwLXlDR3FoTExlNjZQWFlLajdRT0lTYTFXSDNNY2MxSEVjSnlsX1VYWWlBbVUyT0l2cFU2Z2xWYXB4a1lZU2toLUZ0UEdkeF8zR3QzM0lwSmVIMU9tcVZvcFIzYTZn0gGrAUFVX3lxTE4zZ3FlT0doQm5ObUpvcWxHdGZEbWY1RW9jRzZVVGFDaXNTZHZOSlZsMWdzTVNqcHdPbWxjb2xOcmJJbVJKeTY2WlBwTkhxUW1FRVdjUEEwaEZ6SjRQbUdhWXV1Z0xBZWdBVm41a2U1QUpCUmdFX1Y2bGlRaVVLRFlIUU9pZ2FtekVqM2JsVlh3NUo5bDRBWWR3TVk4X1RqbGpLdW5YREtta0xFdw?oc=5",
+      "pub_date": 1764499853.0,
+      "article_url": "https://abcnews.go.com/Technology/wireStory/ai-assisted-shopping-talk-holiday-shopping-season-127976859",
+      "image": "https://i.abcnewsfe.com/a/1b595f64-f4ca-43c6-b715-bb7d1bde3c41/wirestory_0722dce44b4a479ec4ce476bbd15dfa9_16x9.jpg?w=1600",
+      "description": "Major retail chains and tech companies are offering new or updated artificial intelligence tools in time for the holiday shopping season"
+    },
+    {
+      "headline": "ChatGPT's third year rewrites the rules of work",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kenl0VkRuT2F2NVgxMGxQSG1Pak4wUGhPNkE0REZnQm9vSGdLeFVJUHJ5UzFhOUJmV2dCR1JGNFpjYzFLaGRGLUFzSXN2TVBTOFNQS2F1bW4wUUJLcmxYcFM5WkJkVUlm?oc=5",
+      "pub_date": 1764507668.0,
+      "article_url": "https://www.axios.com/2025/11/30/chatgpt-three-years-work",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T16:32:46.511752+00:00"
+  "fetched_at": "2025-11-30T17:25:34.884387+00:00"
 }
