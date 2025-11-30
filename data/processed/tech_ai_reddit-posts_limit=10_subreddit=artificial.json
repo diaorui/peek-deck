@@ -24,17 +24,6 @@
       "description": "Well, to be fair, he DOES have one month left. After that, will it OK to call him out for the grifter he is? Edit - Since there seem to be some people who aren't aware that this isn't the full interview where he said it: https://youtu.be/xXCBz_8hM9w?t=2772 Interviewer: \"What are you excited about in 2025? What's to come?\" Altman: \"AGI. Excited for that\"."
     },
     {
-      "title": "Is Humanity's Last Exam a benchmark that measures real intelligence for AGI?",
-      "author": "SpecialistBuffalo580",
-      "url": "https://www.reddit.com/r/artificial/comments/1paa4sf/is_humanitys_last_exam_a_benchmark_that_measures/",
-      "published": 1764480035.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "With Grok 4 and Gemini 3 the models have become really good at the known benchmarks like ARC-AGI and HLE. But is it really a proof of intelligence? Does acing these benchmarks truly show capabilities for original research and real understanding? I ask this because I saw an interview with Demis Hassabis from two months ago ans he said that AGI will come with 50 confidence between 5-10 years. He also called \"nonsense\" to the qualification \"PhD Level\" that some.people attribute to the models."
-    },
-    {
       "title": "One-Minute Daily AI News 11/29/2025",
       "author": "Excellent-Target-847",
       "url": "https://www.reddit.com/r/artificial/comments/1pa9p2a/oneminute_daily_ai_news_11292025/",
@@ -44,6 +33,17 @@
       "site_name": null,
       "favicon": null,
       "description": "AI helps drive record $11.8 billion in Black Friday online spending.[1] StepFun AI Releases Step-Audio-R1: A New Audio LLM that Finally Benefits from Test Time Compute Scaling.[2] Musk\u2019s xAI to build small solar farm adjacent to Colossus data center.[3] Are you balding? There\u2019s an AI for that.[4] Sources; [1] https://www.reuters.com/business/retail-consumer/us-consumers-spent-118-billion-black-friday-says-adobe-analytics-2025-11-29/ [2] https://www.marktechpost.com/2025/11/29/stepfun-ai-releases-step-audio-r1-a-new-audio-llm-that-finally-benefits-from-test-time-compute-scaling/ [3] https://techcrunch.com/2025/11/26/musks-xai-to-build-small-solar-farm-adjacent-to-colossus-data-center/ [4] https://techcrunch.com/2025/11/26/are-you-balding-theres-an-ai-for-that/"
+    },
+    {
+      "title": "Is Humanity's Last Exam a benchmark that measures real intelligence for AGI?",
+      "author": "SpecialistBuffalo580",
+      "url": "https://www.reddit.com/r/artificial/comments/1paa4sf/is_humanitys_last_exam_a_benchmark_that_measures/",
+      "published": 1764480035.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "With Grok 4 and Gemini 3 the models have become really good at the known benchmarks like ARC-AGI and HLE. But is it really a proof of intelligence? Does acing these benchmarks truly show capabilities for original research and real understanding? I ask this because I saw an interview with Demis Hassabis from two months ago ans he said that AGI will come with 50 confidence between 5-10 years. He also called \"nonsense\" to the qualification \"PhD Level\" that some.people attribute to the models."
     },
     {
       "title": "New Research Indicates Positive Results for an Intermediary Empathetic AI Bot To Help People Quicker",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-30T06:40:07.586599+00:00"
+  "fetched_at": "2025-11-30T07:20:07.170716+00:00"
 }

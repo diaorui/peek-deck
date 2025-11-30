@@ -49,7 +49,7 @@
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aWkdKN1VERjEyM0FwYW5zVWd6d21ST2dXcThWbUFmbHkyUTVKRmVhLWJVb042NmZpdmxaNDQ5T1FrZC1iRUJ5NE5ONU8tYWoyRGlyektIS3BZbmJPVElRcEFySTlrRGp0RlhwUllzck8?oc=5",
-      "pub_date": 1764478820.0,
+      "pub_date": 1764478843.0,
       "article_url": "https://www.ft.com/content/8881062d-ff4f-4454-8e9d-d992e8e2c4e3",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8a38dca5-77bc-4714-a19d-9cb036999e9e.jpg?source=next-barrier-page",
       "description": "Three years since the debut of ChatGPT, the $500bn start-up is facing significant challenges to its dominance in AI"
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T06:40:23.214138+00:00"
+  "fetched_at": "2025-11-30T07:20:20.007595+00:00"
 }
