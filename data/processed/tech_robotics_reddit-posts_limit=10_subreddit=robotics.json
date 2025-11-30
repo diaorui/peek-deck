@@ -13,6 +13,17 @@
       "description": "From LimX Dynamics on \ud835\udd4f: https://x.com/LimX_Dynamics/status/1994408054989987939?s=20"
     },
     {
+      "title": "For home robots, does a humanoid form factor actually make engineering sense?",
+      "author": "BigGirl367",
+      "url": "https://www.reddit.com/r/robotics/comments/1pa7742/for_home_robots_does_a_humanoid_form_factor/",
+      "published": 1764470863.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This is a strictly engineering-focused question \u2014 not about long-term predictions, consumer markets, or sci-fi use cases. Humanoids are getting a lot of visibility lately (Optimus, Unitree H1, XPeng, Atlas, etc.). It made me curious about the actual engineering trade-offs when the target environment is a typical home. From a design and controls standpoint, the two approaches seem to have very different constraints. Potential engineering advantages of humanoid designs: \u2022 human-height workspace \u2022 access to existing tools, handles, and switches \u2022 whole-body manipulation possibilities \u2022 able to navigate human-scale indoor layouts without modifying the environment Potential engineering advantages of non-humanoid mobile manipulators: \u2022 lower BOM and simpler actuation \u2022 fewer DOF \u2192 lower control complexity \u2022 wheels = far fewer failure modes \u2022 lower power requirements \u2022 easier to reach appliance-tier reliability \u2022 more predictable motion (pets/kids safe) You don\u2019t need to frame this in market terms \u2014 I\u2019m mostly trying to build a clearer mental model for ongoing work related to home-environment autonomy. A lot of current projects (mine included) are running into similar failure modes in manipulation, reliability, and task generalization, so I\u2019m curious how others here rank the practical constraints today. From an engineering standpoint, what seems like the real bottleneck right now? \u2022 manipulation robustness? \u2022 cost of reliable hardware? \u2022 locomotion complexity (balancing vs wheeled)? \u2022 or just the number of corner cases in household tasks? Would love to hear how people here think about current, real-world design constraints."
+    },
+    {
       "title": "Ball Balancing Robot",
       "author": "JohanLink",
       "url": "https://www.reddit.com/r/robotics/comments/1p9n1hd/ball_balancing_robot/",
@@ -57,6 +68,17 @@
       "description": "I'm working on a robotic arm project and I'm looking into using this planetary gearbox for a Nema 17 motor. https://preview.redd.it/0llh5gy8ua4g1.png?width=901&format=png&auto=webp&s=ecc0809169212c217ea7a276f67be90dd66b5077 https://preview.redd.it/jqqcigy8ua4g1.png?width=816&format=png&auto=webp&s=fb3e27aeb56050f4ab9138fee032c9471cc2b9b2 According to my calculations, the reduction is going to be 3:1 I think maybe it's not going to work well, not necessarily because they are planetary gears, but mostly because the ratio seems too low. What do you all think? Any experience with this or suggestions for better gearboxes for a Nema 17 in a robotic arm?"
     },
     {
+      "title": "How do you get one linear actuator to extend while the other retracts via the same switch simultaneously controlled?",
+      "author": "NoIntern2903",
+      "url": "https://www.reddit.com/r/robotics/comments/1pa7ati/how_do_you_get_one_linear_actuator_to_extend/",
+      "published": 1764471173.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Robotics guys seem better versed in actuators than RC guys. I\u2019m trying to make it so my RC snow plow has dual linear actuators to angle it left and right, however this works best using two. One to retract while the other extends, and vice versa in the other direction. I currently have another actuator lifting my plow. This is controlled via my trucks only ESC/receiver and using an RC4WD wired winch controller to control the actual lifting mechanism from my spektrum DX5rugged. This is plenty of power to achieve this, even with the angle. However what control module would I need, or what would I need to make this action work? I\u2019d prefer to ditch the servo sooner than later for my angle operation just due to it being jerkier in nature with less stability and control. Do I need a whole separate ESC to control this via my current receiver? Two ESCs with mixing? I\u2019m kind of lost on how to achieve this."
+    },
+    {
       "title": "RoboDK 3 diferent processes on the same piece",
       "author": "Next_Bathroom1376",
       "url": "https://www.reddit.com/r/robotics/comments/1pa0vpc/robodk_3_diferent_processes_on_the_same_piece/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey guys, I want to do a project where I investigate various control systems for a mobile robot and try and evaluate the optimal one in a given scenario. For example, an idea I had was to build a self-balancing robot (the inverted pendulum one), and place a glass of water on top, then experiment with various control systems such as PID, LQR, etc. Is it even possible to use these different control systems and figure out the best approach, or is PID tuning the best? Would this project be good to try out? Any advice would help as I am relatively new to control theory."
-    },
-    {
-      "title": "RPLIDAR suddenly stopped working",
-      "author": "Candid-Scheme1835",
-      "url": "https://www.reddit.com/r/robotics/comments/1p9n6zn/rplidar_suddenly_stopped_working/",
-      "published": 1764417369.0,
-      "thumbnail": "https://preview.redd.it/984gwacjq64g1.jpeg?width=640&crop=smart&auto=webp&s=9bd3016a1e056f129ad9c7c16085ca410762b132",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Was working with SLAM on ROS2 and my RPLIDAR suddenly stopped working \u2014 only 2 points show up. Tried swapping cables, reconnecting, even tested in RoboStudio \u2014 same result. Red laser is on and flickering. Has anyone ever faced a similar issue? Did you manage to fix it?"
-    },
-    {
-      "title": "Family bot build?",
-      "author": "Morgoroth37",
-      "url": "https://www.reddit.com/r/robotics/comments/1p9l3ya/family_bot_build/",
-      "published": 1764409766.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "How hard would it be to build something like this? Either from scratch or modifying an existing Traxxas Tenton rc car. I've tried looking at various options involving 3d printing and Arduino both of which I have some experience in, but I can't find anything that fits my parameters. Controlled over WiFi for range. Camera Can move around Extra points for microphone and speakers."
     }
   ],
-  "fetched_at": "2025-11-30T01:58:07.506845+00:00"
+  "fetched_at": "2025-11-30T03:40:40.884715+00:00"
 }

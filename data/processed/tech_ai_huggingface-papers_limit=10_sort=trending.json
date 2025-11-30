@@ -35,7 +35,7 @@
       "num_comments": 4,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
-      "github_stars": 4694,
+      "github_stars": 4707,
       "project_page": "https://ai.meta.com/sam3/"
     },
     {
@@ -77,25 +77,6 @@
       "project_page": null
     },
     {
-      "id": "2511.19900",
-      "title": "Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning",
-      "authors": "Jiaqi Liu, Kaiwen Xiong, Peng Xia et al. (9 authors)",
-      "organization_name": "UNC-ChapelHill",
-      "organization_fullname": "University of North Carolina at Chapel Hill",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/669f9c85bd649dba3b88e581/H5uB8_MCewnMtxEUnAvTL.png",
-      "summary": "Vision-language agents have achieved remarkable progress in a variety of multimodal reasoning tasks; however, their learning remains constrained by the limitations of human-annotated supervision. Recent self-rewarding approaches attempt to overcome this constraint by allowing models to act as their own critics or reward providers. Yet, purely text-based self-evaluation struggles to verify complex visual reasoning steps and often suffers from evaluation hallucinations. To address these challenges, inspired by recent advances in tool-integrated reasoning, we propose Agent0-VL, a self-evolving vision-language agent that achieves continual improvement with tool-integrated reasoning. Agent0-VL incorporates tool usage not only into reasoning but also into self-evaluation and self-repair, enabling the model to introspect, verify, and refine its reasoning through evidence-grounded analysis. It unifies two synergistic roles within a single LVLM: a Solver that performs multi-turn tool-integrated reasoning, and a Verifier that generates structured feedback and fine-grained self-rewards through tool-grounded critique. These roles interact through a Self-Evolving Reasoning Cycle, where tool-based verification and reinforcement learning jointly align the reasoning and evaluation distributions for stable self-improvement. Through this zero-external-reward evolution, Agent0-VL aligns its reasoning and verification behaviors without any human annotation or external reward models, achieving continual self-improvement. Experiments on geometric problem solving and visual scientific analysis show that Agent0-VL achieves an 12.5% improvement over the base model. Our code is available at https://github.com/aiming-lab/Agent0/Agent0-VL{this https URL}.",
-      "ai_summary": "Agent0-VL, a self-evolving vision-language agent, incorporates tool usage into both reasoning and self-evaluation, enabling continual improvement through evidence-grounded analysis and reinforcement learning.",
-      "hf_url": "https://huggingface.co/papers/2511.19900",
-      "arxiv_url": "https://arxiv.org/abs/2511.19900",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.19900.png",
-      "upvotes": 45,
-      "num_comments": 2,
-      "published_at": "2025-11-24T23:15:14.000Z",
-      "github_repo": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL",
-      "github_stars": 650,
-      "project_page": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL"
-    },
-    {
       "id": "2510.14528",
       "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
       "authors": "Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)",
@@ -111,8 +92,27 @@
       "num_comments": 6,
       "published_at": "2025-10-16T06:18:48.000Z",
       "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-      "github_stars": 65316,
+      "github_stars": 65347,
       "project_page": null
+    },
+    {
+      "id": "2511.19900",
+      "title": "Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning",
+      "authors": "Jiaqi Liu, Kaiwen Xiong, Peng Xia et al. (9 authors)",
+      "organization_name": "UNC-ChapelHill",
+      "organization_fullname": "University of North Carolina at Chapel Hill",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/669f9c85bd649dba3b88e581/H5uB8_MCewnMtxEUnAvTL.png",
+      "summary": "Vision-language agents have achieved remarkable progress in a variety of multimodal reasoning tasks; however, their learning remains constrained by the limitations of human-annotated supervision. Recent self-rewarding approaches attempt to overcome this constraint by allowing models to act as their own critics or reward providers. Yet, purely text-based self-evaluation struggles to verify complex visual reasoning steps and often suffers from evaluation hallucinations. To address these challenges, inspired by recent advances in tool-integrated reasoning, we propose Agent0-VL, a self-evolving vision-language agent that achieves continual improvement with tool-integrated reasoning. Agent0-VL incorporates tool usage not only into reasoning but also into self-evaluation and self-repair, enabling the model to introspect, verify, and refine its reasoning through evidence-grounded analysis. It unifies two synergistic roles within a single LVLM: a Solver that performs multi-turn tool-integrated reasoning, and a Verifier that generates structured feedback and fine-grained self-rewards through tool-grounded critique. These roles interact through a Self-Evolving Reasoning Cycle, where tool-based verification and reinforcement learning jointly align the reasoning and evaluation distributions for stable self-improvement. Through this zero-external-reward evolution, Agent0-VL aligns its reasoning and verification behaviors without any human annotation or external reward models, achieving continual self-improvement. Experiments on geometric problem solving and visual scientific analysis show that Agent0-VL achieves an 12.5% improvement over the base model. Our code is available at https://github.com/aiming-lab/Agent0/Agent0-VL{this https URL}.",
+      "ai_summary": "Agent0-VL, a self-evolving vision-language agent, incorporates tool usage into both reasoning and self-evaluation, enabling continual improvement through evidence-grounded analysis and reinforcement learning.",
+      "hf_url": "https://huggingface.co/papers/2511.19900",
+      "arxiv_url": "https://arxiv.org/abs/2511.19900",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.19900.png",
+      "upvotes": 45,
+      "num_comments": 2,
+      "published_at": "2025-11-24T23:15:14.000Z",
+      "github_repo": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL",
+      "github_stars": 670,
+      "project_page": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL"
     },
     {
       "id": "2410.05779",
@@ -134,25 +134,6 @@
       "project_page": null
     },
     {
-      "id": "2511.16043",
-      "title": "Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning",
-      "authors": "Peng Xia, Kaide Zeng, Jiaqi Liu et al. (8 authors)",
-      "organization_name": "UNC-ChapelHill",
-      "organization_fullname": "University of North Carolina at Chapel Hill",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/669f9c85bd649dba3b88e581/H5uB8_MCewnMtxEUnAvTL.png",
-      "summary": "Large Language Model (LLM) Agents, often trained with Reinforcement Learning (RL), are constrained by a dependency on human-curated data, limiting scalability and tethering AI to human knowledge. Existing self-evolution frameworks offer an alternative but are typically restricted by the model's inherent capabilities and single-round interactions, hindering the development of complex curricula involving tool use or dynamic reasoning. We introduce Agent0, a fully autonomous framework that evolves high-performing agents without external data through multi-step co-evolution and seamless tool integration. Agent0 establishes a symbiotic competition between two agents initialized from the same base LLM: a curriculum agent that proposes increasingly challenging frontier tasks, and an executor agent that learns to solve them. We integrate external tools to enhance the executor's problem-solving capacity; this improvement, in turn, pressures the curriculum agent to construct more complex, tool-aware tasks. Through this iterative process, Agent0 establishes a self-reinforcing cycle that continuously produces high-quality curricula. Empirically, Agent0 substantially boosts reasoning capabilities, improving the Qwen3-8B-Base model by 18% on mathematical reasoning and 24% on general reasoning benchmarks. Code is available at https://github.com/aiming-lab/Agent0.",
-      "ai_summary": "Agent0, a self-evolving framework utilizing multi-step co-evolution and tool integration, enhances LLM reasoning capabilities without human-curated data.",
-      "hf_url": "https://huggingface.co/papers/2511.16043",
-      "arxiv_url": "https://arxiv.org/abs/2511.16043",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16043.png",
-      "upvotes": 97,
-      "num_comments": 4,
-      "published_at": "2025-11-20T00:01:57.000Z",
-      "github_repo": "https://github.com/aiming-lab/Agent0",
-      "github_stars": 654,
-      "project_page": null
-    },
-    {
       "id": "2511.18423",
       "title": "General Agentic Memory Via Deep Research",
       "authors": "B. Y. Yan, Chaofan Li, Hongjin Qian et al. (5 authors)",
@@ -168,8 +149,27 @@
       "num_comments": 2,
       "published_at": "2025-11-23T07:29:33.000Z",
       "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
-      "github_stars": 373,
+      "github_stars": 398,
       "project_page": "https://github.com/VectorSpaceLab/general-agentic-memory"
+    },
+    {
+      "id": "2511.16043",
+      "title": "Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning",
+      "authors": "Peng Xia, Kaide Zeng, Jiaqi Liu et al. (8 authors)",
+      "organization_name": "UNC-ChapelHill",
+      "organization_fullname": "University of North Carolina at Chapel Hill",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/669f9c85bd649dba3b88e581/H5uB8_MCewnMtxEUnAvTL.png",
+      "summary": "Large Language Model (LLM) Agents, often trained with Reinforcement Learning (RL), are constrained by a dependency on human-curated data, limiting scalability and tethering AI to human knowledge. Existing self-evolution frameworks offer an alternative but are typically restricted by the model's inherent capabilities and single-round interactions, hindering the development of complex curricula involving tool use or dynamic reasoning. We introduce Agent0, a fully autonomous framework that evolves high-performing agents without external data through multi-step co-evolution and seamless tool integration. Agent0 establishes a symbiotic competition between two agents initialized from the same base LLM: a curriculum agent that proposes increasingly challenging frontier tasks, and an executor agent that learns to solve them. We integrate external tools to enhance the executor's problem-solving capacity; this improvement, in turn, pressures the curriculum agent to construct more complex, tool-aware tasks. Through this iterative process, Agent0 establishes a self-reinforcing cycle that continuously produces high-quality curricula. Empirically, Agent0 substantially boosts reasoning capabilities, improving the Qwen3-8B-Base model by 18% on mathematical reasoning and 24% on general reasoning benchmarks. Code is available at https://github.com/aiming-lab/Agent0.",
+      "ai_summary": "Agent0, a self-evolving framework utilizing multi-step co-evolution and tool integration, enhances LLM reasoning capabilities without human-curated data.",
+      "hf_url": "https://huggingface.co/papers/2511.16043",
+      "arxiv_url": "https://arxiv.org/abs/2511.16043",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16043.png",
+      "upvotes": 97,
+      "num_comments": 4,
+      "published_at": "2025-11-20T00:01:57.000Z",
+      "github_repo": "https://github.com/aiming-lab/Agent0",
+      "github_stars": 673,
+      "project_page": null
     },
     {
       "id": "2510.22543",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-30T01:58:03.851723+00:00"
+  "fetched_at": "2025-11-30T03:40:36.179611+00:00"
 }
