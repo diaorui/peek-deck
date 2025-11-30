@@ -45,14 +45,14 @@
       "description": null
     },
     {
-      "headline": "Leave me alone, AI",
+      "headline": "OpenAI\u2019s lead under pressure as rivals start to close the gap",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QY1dXaVJDRy1DWTlabnV5TmpBMUdWTGNid2hrYl82MjhtalJ5Q1U5RUNGUkNlbnFqN3E2MG91RzlxMnA0NU1mODJndFlWN3J6QjJrNk81Vk5oLXVZaHZQRDlLYTNRQWNnSnp1UWFDU0s?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aWkdKN1VERjEyM0FwYW5zVWd6d21ST2dXcThWbUFmbHkyUTVKRmVhLWJVb042NmZpdmxaNDQ5T1FrZC1iRUJ5NE5ONU8tYWoyRGlyektIS3BZbmJPVElRcEFySTlrRGp0RlhwUllzck8?oc=5",
       "pub_date": 1764478820.0,
-      "article_url": "https://www.ft.com/content/1e93adc5-4186-4775-a289-d684865da2ce",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F96cb3133-9ced-4cb3-b839-7434d5e4194e.jpg?source=next-barrier-page",
-      "description": "If I wanted your tedious advice on how to do the simplest thing online, I would have asked for it"
+      "article_url": "https://www.ft.com/content/8881062d-ff4f-4454-8e9d-d992e8e2c4e3",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8a38dca5-77bc-4714-a19d-9cb036999e9e.jpg?source=next-barrier-page",
+      "description": "Three years since the debut of ChatGPT, the $500bn start-up is facing significant challenges to its dominance in AI"
     },
     {
       "headline": "The hottest new AI company is\u2026Google?",
@@ -75,16 +75,6 @@
       "description": null
     },
     {
-      "headline": "AI is taking jobs \u2014 here\u2019s Coursera CEO's No. 1 tip for grads to stay competitive",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU3V1ZUxrcWRxNFJzMmpTQWk3WndkUTdfRk4wUi0zSUstQThhZTVNZzVSNnZ0cUZMTDVhY2JhSFRQLWxoY3dEdnFMdHltV3ViYnFOZG96MnBoYmF3U1pPOXR4VFJxeDFwNS04bkJJZC1BTnZzZEFPWXZBVGpSM3VLclZfclltZENQWnc5YWtITlRvekQ1RUFlT3NLY21BV3VMeE5jWEZhdlJqQdIBrwFBVV95cUxNNFFsbFJmejVQbEl0enI3NkIwSFVwSnhZUlZwd2FZQ0VQQWVGSmNaMjg4cGd1ZnNYa2F6QUtTeFlFX3A0Xzc3WTRtZGhEQ0FVdFZxeWxhd0hFTUxOMXFpQmVOMkc5ajRHSnFJVnI0TkpidTRidnJTc09IVnBtb3JMZ1k3cThIY0VoQW1HVlo5UENfT1hRbDFZY2lTbHJ0dnluTmtFZ05Lb20tNmlleGx3?oc=5",
-      "pub_date": 1764396201.0,
-      "article_url": "https://www.cnbc.com/2025/11/29/coursera-ceos-top-tips-for-grads-to-stay-competitive-as-ai-takes-jobs.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108232286-1764147921811-Greg_Hart_-_1_Chief_Executive_Officer_Coursera.jpg?v=1764148024&w=1920&h=1080",
-      "description": "\"They're [recruiters] going to be assessing your mindset and your traits as a human being more than your experience,\" Coursera's CEO told CNBC Make It."
-    },
-    {
       "headline": "Lawmakers to VA: Use AI to Help Prevent Veteran Suicide",
       "source": "Military.com",
       "source_url": "https://www.military.com",
@@ -93,6 +83,16 @@
       "article_url": "https://www.military.com/daily-news/investigations-and-features/2025/11/20/lawmakers-va-use-ai-help-prevent-veteran-suicide.html",
       "image": "https://images03.military.com/sites/default/files/styles/full/public/2025-11/suicide_1_.jpg",
       "description": "In passing next year's VA funding package, lawmakers encouraged the department to use AI more to help reduce veteran suicide risk."
+    },
+    {
+      "headline": "AI is taking jobs \u2014 here\u2019s Coursera CEO's No. 1 tip for grads to stay competitive",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU3V1ZUxrcWRxNFJzMmpTQWk3WndkUTdfRk4wUi0zSUstQThhZTVNZzVSNnZ0cUZMTDVhY2JhSFRQLWxoY3dEdnFMdHltV3ViYnFOZG96MnBoYmF3U1pPOXR4VFJxeDFwNS04bkJJZC1BTnZzZEFPWXZBVGpSM3VLclZfclltZENQWnc5YWtITlRvekQ1RUFlT3NLY21BV3VMeE5jWEZhdlJqQdIBrwFBVV95cUxNNFFsbFJmejVQbEl0enI3NkIwSFVwSnhZUlZwd2FZQ0VQQWVGSmNaMjg4cGd1ZnNYa2F6QUtTeFlFX3A0Xzc3WTRtZGhEQ0FVdFZxeWxhd0hFTUxOMXFpQmVOMkc5ajRHSnFJVnI0TkpidTRidnJTc09IVnBtb3JMZ1k3cThIY0VoQW1HVlo5UENfT1hRbDFZY2lTbHJ0dnluTmtFZ05Lb20tNmlleGx3?oc=5",
+      "pub_date": 1764396201.0,
+      "article_url": "https://www.cnbc.com/2025/11/29/coursera-ceos-top-tips-for-grads-to-stay-competitive-as-ai-takes-jobs.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108232286-1764147921811-Greg_Hart_-_1_Chief_Executive_Officer_Coursera.jpg?v=1764148024&w=1920&h=1080",
+      "description": "\"They're [recruiters] going to be assessing your mindset and your traits as a human being more than your experience,\" Coursera's CEO told CNBC Make It."
     },
     {
       "headline": "N.Y. Law Could Set Stage for A.I. Regulation\u2019s Next \u2018Big Battleground\u2019",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T05:47:49.736874+00:00"
+  "fetched_at": "2025-11-30T06:40:23.214138+00:00"
 }

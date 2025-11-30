@@ -68,6 +68,17 @@
       "description": null
     },
     {
+      "title": "Best countries for a robotics career (humanoids, drones, home robots) from 2026\u20132030?",
+      "author": "Kindly-Fix-7049",
+      "url": "https://www.reddit.com/r/robotics/comments/1paanag/best_countries_for_a_robotics_career_humanoids/",
+      "published": 1764481697.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "How do you get one linear actuator to extend while the other retracts via the same switch simultaneously controlled?",
       "author": "NoIntern2903",
       "url": "https://www.reddit.com/r/robotics/comments/1pa7ati/how_do_you_get_one_linear_actuator_to_extend/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Science Robotics: Foldable and rollable interlaced structure for deployable robotic systems: https://www.science.org/doi/10.1126/scirobotics.adv4696"
-    },
-    {
-      "title": "Controls project",
-      "author": "Proof-Assignment1770",
-      "url": "https://www.reddit.com/r/robotics/comments/1p9qy97/controls_project/",
-      "published": 1764428310.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey guys, I want to do a project where I investigate various control systems for a mobile robot and try and evaluate the optimal one in a given scenario. For example, an idea I had was to build a self-balancing robot (the inverted pendulum one), and place a glass of water on top, then experiment with various control systems such as PID, LQR, etc. Is it even possible to use these different control systems and figure out the best approach, or is PID tuning the best? Would this project be good to try out? Any advice would help as I am relatively new to control theory."
     }
   ],
-  "fetched_at": "2025-11-30T05:47:40.596688+00:00"
+  "fetched_at": "2025-11-30T06:40:11.956425+00:00"
 }
