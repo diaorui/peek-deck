@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Arthur Hayes Makes Concerning Prediction For Monad",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yTENFQ181bUpjcHEyaDFsYl9MXzByNXBPTUlKdjdLQjM4d0RXeWhlSmVqdE5IQ0pBMEVhUWdBdkdpbm9Ga2UwbFRxTERRenlkSDF5SUxDYW9tT05Ocy1ab1U3MA?oc=5",
-      "pub_date": 1764422100.0,
-      "article_url": "https://beincrypto.com/arthur-hayes-monad-prediction/",
-      "image": "https://assets.beincrypto.com/img/wDX8eierTIJVmazBtKD9hL6BbHA=/smart/b982f54329be499aa63ec5aa7f02aaf5",
-      "description": "BitMex co-founder expects most blockchains, like Monad, to fail, arguing that only Ethereum has institutional demand."
-    },
-    {
       "headline": "Arthur Hayes says most L1s outside Ethereum and Solana are headed to zero",
       "source": "Crypto Briefing",
       "source_url": "https://cryptobriefing.com",
@@ -55,6 +45,26 @@
       "description": "Tom Lee believes Ethereum is positioned to win the crypto race, beating out other major players like Bitcoin. Lee forecasts a short-term dip to around ..."
     },
     {
+      "headline": "Ethereum Leverage Reset Complete \u2013 Time For Market Re-Accumulation?",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWGdBaFJDYjZ3NmRWcktXSlI1bTg3UGhiYW1VMWt1aFAtR2Y0ZDRycnZaN3JLeWNrUEJYU3RSS0RRckVQNVQ3VXVmbV9WZDRER3g1cG5Cd1Rwak41ZXlDSWpsdS01ZVVZSkd6Y21xMExiTlNtVlg5WXNpUzRJeWloaks2YWJBVDdFZFBFaGJOdEhEMkViVml6N1FEX01wRnMzRUg1dllOQnlWdW9KdkVPM2JveVFtRDR0ZExSZ1BkOA?oc=5",
+      "pub_date": 1764493256.0,
+      "article_url": "https://www.tradingview.com/news/newsbtc:31612045a094b:0-ethereum-leverage-reset-complete-time-for-market-re-accumulation/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ethereum presently trades around $3,000 following a broader crypto market rebound in the last week. During this time, the market\u2019s largest altcoin gained by 7.22%, providing a much-needed relief after an extended correction that dominated the majority of the last two months. As price stabilizes, cr\u2026"
+    },
+    {
+      "headline": "Tom Lee\u2019s $2,500 Ethereum Price Prediction Meets Fusaka Upgrade Timing: What Investors Should Know Before 2026",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTmhCYTZKeFhiWHdreUxlOEEwZzl6UTJsY2sxb0RMMXlhem9IRXdEdnd4b3NmZTRWOWtVVXNEdDdtRk43QzFFSHVTNFpyTTBIdzAwNkZhWF82NkdYZTZOUFhOUUdaN0txUFNjWkJOd1d0OEVVZVFvYk9qSUdjbkZDSlFkZC1NMDNWWUlxTHpCTEQ?oc=5",
+      "pub_date": 1764511112.0,
+      "article_url": "https://www.ccn.com/education/crypto/tom-lee-eth-2500-fusaka-upgrade-ethereum-recovery/",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Fidelity\u2019s Tokenized Fund on Ethereum Crosses $250M",
       "source": "The Defiant",
       "source_url": "https://thedefiant.io",
@@ -75,26 +85,6 @@
       "description": "Ethereum co-founder Vitalik Buterin supported two privacy messaging apps that are looking to break past sector leaders Signal and Telegram."
     },
     {
-      "headline": "Ethereum Leverage Reset Complete \u2013 Time For Market Re-Accumulation?",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWGdBaFJDYjZ3NmRWcktXSlI1bTg3UGhiYW1VMWt1aFAtR2Y0ZDRycnZaN3JLeWNrUEJYU3RSS0RRckVQNVQ3VXVmbV9WZDRER3g1cG5Cd1Rwak41ZXlDSWpsdS01ZVVZSkd6Y21xMExiTlNtVlg5WXNpUzRJeWloaks2YWJBVDdFZFBFaGJOdEhEMkViVml6N1FEX01wRnMzRUg1dllOQnlWdW9KdkVPM2JveVFtRDR0ZExSZ1BkOA?oc=5",
-      "pub_date": 1764493256.0,
-      "article_url": "https://www.tradingview.com/news/newsbtc:31612045a094b:0-ethereum-leverage-reset-complete-time-for-market-re-accumulation/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Ethereum presently trades around $3,000 following a broader crypto market rebound in the last week. During this time, the market\u2019s largest altcoin gained by 7.22%, providing a much-needed relief after an extended correction that dominated the majority of the last two months. As price stabilizes, cr\u2026"
-    },
-    {
-      "headline": "BitMine buys $44 million worth of Ethereum as Tom Lee gives bullish outlook",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4waG0wVlV4OGlIc2I0VlZxbS1QQmpwUE5sWGFjYnI1amY0d0FMWXRXcjNOMTRZT2o1MlJ3d3BVQzZ6dXRFeTY5LVF4YWhEanlidDl1ZmhzZnNPeFVKUDJGa2RRRGVQdXhveVNkT0dtNzgxUjhEVlZF0gF8QVVfeXFMTWV5RjZlYzJteEtxbHpycEdsQzYxRDdJaF9MWXlvZzB0VFNGaThnOXJkV3BoOFBUbmZUcnpSUmVfZUhEMWNmNEgtcUxHczBxNldSQ3IwSHZxRmFscmduRWU2bzR1R2pqdXZ6SG5UNHpybkx5OUZhZkxidVFRSg?oc=5",
-      "pub_date": 1764308237.0,
-      "article_url": "https://www.theblock.co/post/380746/bitmine-buys-44-million-ethereum",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Tom Lee\u2019s Bitmine Just Bought $44 Million Of Ethereum, Bringing Weekly Total To $185 Million \u2013 BMNR Stock Climbs Amid ETH Recovery",
       "source": "Stocktwits",
       "source_url": "https://stocktwits.com",
@@ -103,8 +93,18 @@
       "article_url": "https://stocktwits.com/news-articles/markets/equity/tom-lee-bitmine-just-bought-44-million-of-ethereum-bmnr-stock-gains/cL5a45RRELk",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Large cryptocurrencies mixed as Ethereum increases",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxPY21mTGJqT29ubDB1Z2ZRdmhtclVseVNZWTlXMHFZNXQzcy1qSnNuTjBFYVp2ZDRDdENFV3ZKSi1XcHp6SVpFT3lNdzZuLXZTeDY4cVREYnhVWktza2psTEJxaUk3VjJpWXZfVlNQM3JKak9uQjlRY2o1Vkl0aTlQaUFVNXdJeHJaOElobC1TYjZlLS1SOUkwR2hYQmZOdG03cDNIOUNYa25Jb2RHcDA2b1JWdjFEQmpqaEszd0hOc05hRloyeWpYTUxVbzRCbnlPX0FvUnBFM2VFeERhRGxHa0U5SjNmVTZ1bTQ1YnBBVFJzRE5vVlMxQlFsX3hxZXdXSVpTUkVQa0hOTEFJYW05ZThVUENMV1MyeWxiNXZSeDgyV2luWGVndXRmXzVic0NSbzl0V3FQTFFzZlI3djBIV0gzT2c0WW1BcFNKYk92REtQT19uSXZPNWZoUEpiRW9HbURLMHJzeXJCRnVWazZiVndvc1JfVTFnTkl3OW1PRHJFRFhVS2U4UHY2TXg1aVd0VU9TbEh5a3c0N1BoVnlsQ09LZjBlMlVGY2VObjA4bXQ0NmQ4?oc=5",
+      "pub_date": 1764342000.0,
+      "article_url": "https://www.marketwatch.com/data-news/large-cryptocurrencies-mixed-as-ethereum-increases-2d44796b-6512c9777c5b?gaa_at=eafs&gaa_n=AWEtsqfVbT8Fvirkq071yZoLlI4gEgZ9J2MUYmnAVfWqkGYPdAmULlv3_Ewb&gaa_ts=692c64cc&gaa_sig=mYVPhyKVdJR9_TU-CDMS6Sir6WIcffzida5NCPDOJBZ5duiuQyNSVT8fwCmsPb5cdf_Os18piSZVkI6RdRsdew%3D%3D",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T14:45:18.124278+00:00"
+  "fetched_at": "2025-11-30T15:23:06.419064+00:00"
 }

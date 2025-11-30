@@ -35,17 +35,6 @@
       "description": "Well, to be fair, he DOES have one month left. After that, will it OK to call him out for the grifter he is? Edit - Since there seem to be some people who aren't aware that this isn't the full interview where he said it: https://youtu.be/xXCBz_8hM9w?t=2772 Interviewer: \"What are you excited about in 2025? What's to come?\" Altman: \"AGI. Excited for that\"."
     },
     {
-      "title": "Fear of AI-driven job displacement nearly doubles in a year: KPMG",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pah6ht/fear_of_aidriven_job_displacement_nearly_doubles/",
-      "published": 1764505852.0,
-      "thumbnail": "https://external-preview.redd.it/zpSTEzk6fR-GkrOTfby5tHCILKGfmK9PZqap0ot2NPY.jpeg?width=640&crop=smart&auto=webp&s=3f650ea66b8b0af34f9493e49807338e53719029",
-      "external_url": "https://finance.yahoo.com/news/fear-ai-driven-job-displacement-082338537.html",
-      "site_name": "Yahoo Finance",
-      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
-      "description": "The finding comes as two U.S. senators are pushing legislation that would require some AI-related layoffs\u00a0to be reported to the Labor Department."
-    },
-    {
       "title": "Are we in a GPT-4-style leap that evals can't see?",
       "author": "malderson",
       "url": "https://www.reddit.com/r/artificial/comments/1pajold/are_we_in_a_gpt4style_leap_that_evals_cant_see/",
@@ -55,6 +44,17 @@
       "site_name": "Martin Alderson",
       "favicon": "https://martinalderson.com/apple-touch-icon.png",
       "description": "Gemini 3 Pro's design capabilities and Opus 4.5's reduced babysitting needs represent a subtle but significant leap that traditional benchmarks completely miss."
+    },
+    {
+      "title": "Fear of AI-driven job displacement nearly doubles in a year: KPMG",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1pah6ht/fear_of_aidriven_job_displacement_nearly_doubles/",
+      "published": 1764505852.0,
+      "thumbnail": "https://external-preview.redd.it/zpSTEzk6fR-GkrOTfby5tHCILKGfmK9PZqap0ot2NPY.jpeg?width=640&crop=smart&auto=webp&s=3f650ea66b8b0af34f9493e49807338e53719029",
+      "external_url": "https://finance.yahoo.com/news/fear-ai-driven-job-displacement-082338537.html",
+      "site_name": "Yahoo Finance",
+      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
+      "description": "The finding comes as two U.S. senators are pushing legislation that would require some AI-related layoffs\u00a0to be reported to the Labor Department."
     },
     {
       "title": "One-Minute Daily AI News 11/29/2025",
@@ -112,5 +112,5 @@
       "description": "AI-powered shopping tools helped drive a surge in U.S. online spending on Black Friday, as shoppers bypassed crowded stores and turned to chatbots to compare prices and secure discounts amid concerns about tariff-driven price hikes.  U.\u200bS. shoppers spent a record $11.8 billion online, up 9.1% from 2024 on the year's biggest shopping day, according to Adobe Analytics,\u200c which tracks 1 trillion visits that shoppers make to online retail websites.  The holiday shopping season arrives amid tighter budgets, unemployment nearing a four-year high, U.S. consumer confidence sagging to a seven-month low and \u200cprice tags that have shoppers watching every dollar."
     }
   ],
-  "fetched_at": "2025-11-30T14:45:03.299600+00:00"
+  "fetched_at": "2025-11-30T15:22:45.862492+00:00"
 }

@@ -25,6 +25,26 @@
       "description": "The skills that students will need in an age of automation are precisely those that are eroded by inserting AI into the educational process."
     },
     {
+      "headline": "More of Silicon Valley is building on free Chinese AI",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcG9TS2JkaHFxTGxiWlZoSjlhZDYtOVZ5TFJRTW92VTNTUHg5WVl3d0ZaU2NWV050ejlWamdwSURGYkE1WWFSZU8wcVc1TDJ6VlZhem1SV1F2dkU1ZnZnZXJ6cFVlTXRES3J0MXMzWmpiRmtOMTdFWU9mSjlhVlhuaWpNWml1RVVDOXNCd3hSZXpUT3JJ0gFWQVVfeXFMTXlyQ210ZmVEM1BDd2xDTmh6bHBhMGJGd2RfV1JYcW1WdUJNVU8wR1ZpV1h4MUEzQzhhTzBXT2JFY2NQRDZYVG5KNTZ4cTBaS3NhQ2pFdnc?oc=5",
+      "pub_date": 1764515094.0,
+      "article_url": "https://www.nbcnews.com/tech/innovation/silicon-valley-building-free-chinese-ai-rcna242430",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251110-china-ai-startups-jg-98b34a.jpg",
+      "description": "AI startups are seeing record valuations, but many are building on a foundation of cheap, free-to-download Chinese AI models."
+    },
+    {
+      "headline": "Concerns mount surrounding risks of AI innovation",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02Ri1Hc0R4Y084RnU3UzlpZ2lKaHhJbkdlVUptNnNlTzBQSHhZQlp3OGtWU2xkLWZfemlGTUh3b2R0ZUFFZUg3Zl9GWEF2aEt1T29ScGV3?oc=5",
+      "pub_date": 1764514755.0,
+      "article_url": "https://www.foxnews.com/video/6385764316112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b2f600fc-7b0e-4ac5-b298-0af736691ab2/f52b405c-0cb5-405e-b345-f997d41a5434/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Sen. Dave McCormick, R-Pa., joined 'Fox News Sunday' to examine the rapid growth of AI, the growing pressure to stay ahead of China, the growing military tension between US and Venezuela and more."
+    },
+    {
       "headline": "AI\u2019s safety features can be circumvented with poetry, research finds",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
@@ -45,16 +65,6 @@
       "description": "Google just threw another twist in the fast-changing AI race. And its biggest competitors are taking notice."
     },
     {
-      "headline": "AI is taking jobs \u2014 here\u2019s Coursera CEO's No. 1 tip for grads to stay competitive",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU3V1ZUxrcWRxNFJzMmpTQWk3WndkUTdfRk4wUi0zSUstQThhZTVNZzVSNnZ0cUZMTDVhY2JhSFRQLWxoY3dEdnFMdHltV3ViYnFOZG96MnBoYmF3U1pPOXR4VFJxeDFwNS04bkJJZC1BTnZzZEFPWXZBVGpSM3VLclZfclltZENQWnc5YWtITlRvekQ1RUFlT3NLY21BV3VMeE5jWEZhdlJqQdIBrwFBVV95cUxNNFFsbFJmejVQbEl0enI3NkIwSFVwSnhZUlZwd2FZQ0VQQWVGSmNaMjg4cGd1ZnNYa2F6QUtTeFlFX3A0Xzc3WTRtZGhEQ0FVdFZxeWxhd0hFTUxOMXFpQmVOMkc5ajRHSnFJVnI0TkpidTRidnJTc09IVnBtb3JMZ1k3cThIY0VoQW1HVlo5UENfT1hRbDFZY2lTbHJ0dnluTmtFZ05Lb20tNmlleGx3?oc=5",
-      "pub_date": 1764396201.0,
-      "article_url": "https://www.cnbc.com/2025/11/29/coursera-ceos-top-tips-for-grads-to-stay-competitive-as-ai-takes-jobs.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108232286-1764147921811-Greg_Hart_-_1_Chief_Executive_Officer_Coursera.jpg?v=1764148024&w=1920&h=1080",
-      "description": "\"They're [recruiters] going to be assessing your mindset and your traits as a human being more than your experience,\" Coursera's CEO told CNBC Make It."
-    },
-    {
       "headline": "AI-assisted shopping is the talk of the holiday shopping season",
       "source": "ABC News",
       "source_url": "https://abcnews.go.com",
@@ -63,6 +73,16 @@
       "article_url": "https://abcnews.go.com/Technology/wireStory/ai-assisted-shopping-talk-holiday-shopping-season-127976859",
       "image": "https://i.abcnewsfe.com/a/1b595f64-f4ca-43c6-b715-bb7d1bde3c41/wirestory_0722dce44b4a479ec4ce476bbd15dfa9_16x9.jpg?w=1600",
       "description": "Major retail chains and tech companies are offering new or updated artificial intelligence tools in time for the holiday shopping season"
+    },
+    {
+      "headline": "AI is taking jobs \u2014 here\u2019s Coursera CEO's No. 1 tip for grads to stay competitive",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU3V1ZUxrcWRxNFJzMmpTQWk3WndkUTdfRk4wUi0zSUstQThhZTVNZzVSNnZ0cUZMTDVhY2JhSFRQLWxoY3dEdnFMdHltV3ViYnFOZG96MnBoYmF3U1pPOXR4VFJxeDFwNS04bkJJZC1BTnZzZEFPWXZBVGpSM3VLclZfclltZENQWnc5YWtITlRvekQ1RUFlT3NLY21BV3VMeE5jWEZhdlJqQdIBrwFBVV95cUxNNFFsbFJmejVQbEl0enI3NkIwSFVwSnhZUlZwd2FZQ0VQQWVGSmNaMjg4cGd1ZnNYa2F6QUtTeFlFX3A0Xzc3WTRtZGhEQ0FVdFZxeWxhd0hFTUxOMXFpQmVOMkc5ajRHSnFJVnI0TkpidTRidnJTc09IVnBtb3JMZ1k3cThIY0VoQW1HVlo5UENfT1hRbDFZY2lTbHJ0dnluTmtFZ05Lb20tNmlleGx3?oc=5",
+      "pub_date": 1764396201.0,
+      "article_url": "https://www.cnbc.com/2025/11/29/coursera-ceos-top-tips-for-grads-to-stay-competitive-as-ai-takes-jobs.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108232286-1764147921811-Greg_Hart_-_1_Chief_Executive_Officer_Coursera.jpg?v=1764148024&w=1920&h=1080",
+      "description": "\"They're [recruiters] going to be assessing your mindset and your traits as a human being more than your experience,\" Coursera's CEO told CNBC Make It."
     },
     {
       "headline": "ChatGPT's third year rewrites the rules of work",
@@ -83,28 +103,8 @@
       "article_url": "https://www.ft.com/content/1e93adc5-4186-4775-a289-d684865da2ce",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F96cb3133-9ced-4cb3-b839-7434d5e4194e.jpg?source=next-barrier-page",
       "description": "If I wanted your tedious advice on how to do the simplest thing online, I would have asked for it"
-    },
-    {
-      "headline": "Chinese hackers turned AI tools into an automated attack machine",
-      "source": "Fox News",
-      "source_url": "https://www.foxnews.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMy1GVWotODFseThORkdzdUhNME9HWmRTMkFadnBmZGtmeUUxZ3RkT3ZWc0NBUld6NFRTTlZBV3VLbGhEdERncmtiaVd5cDcybDZrZ19zSEtWQzZuWFpfaThqS1ltRDhsV1ZoeHdlZlVKR2xyWHh2ejFCYzN5MGYwVzNCN3VpSzA2QVZFdVFB0gGTAUFVX3lxTE9jMV9HSFpqRmU3cU5ublpEcFFfNXhzbGpQMGZqV3JsOGp4X2FGbjBLQlQ2TmdQb1pEek9oOV9HcnhvTm5HVzgtTzB3VTduWmdjNXFXTXVWdUlIUkxqOVBNTGw2NXhYY0FCUkVkTXhibF9xVFdKb0RjVGpoY0xXenUwRXAxdHQxRXdhMFE2VFQ5SkdWcw?oc=5",
-      "pub_date": 1764442858.0,
-      "article_url": "https://www.foxnews.com/tech/chinese-hackers-turned-ai-tools-automated-attack-machine",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/12/2-chinese-hackers-target-us-telecoms-what-you-need-to-know-to-protect-your-data-body.jpg",
-      "description": "Chinese hackers used Anthropic's Claude AI to launch autonomous cyberattacks on 30 organizations worldwide, marking a major shift in cybersecurity threats."
-    },
-    {
-      "headline": "Lawmakers to VA: Use AI to Help Prevent Veteran Suicide",
-      "source": "Military.com",
-      "source_url": "https://www.military.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSF9QM3lzRk9WU0wweDR1cG1vV1RUTDFOWk9HdzFZVVl3VVgyeDE0a2hhRzVPUUZhSHE4VGpNbGQyYjFFOWdtNFQzUlVJMWJlcWlnN0gyVzJWWVRYRW1KdG9HR291S0FGczdnajd5TE83ZkZ1bHpVRjRfakFjd0gtUDgta1N0VnZ3cm91ZDM4UExibEZVSUh2N0tGaVFhWTZDX3g5Qk9YVlpHT1pvQWgzbURVdXZFU0xGSFM4dUpZLUgtYUM4dDlF?oc=5",
-      "pub_date": 1764421650.0,
-      "article_url": "https://www.military.com/daily-news/investigations-and-features/2025/11/20/lawmakers-va-use-ai-help-prevent-veteran-suicide.html",
-      "image": "https://images03.military.com/sites/default/files/styles/full/public/2025-11/suicide_1_.jpg",
-      "description": "In passing next year's VA funding package, lawmakers encouraged the department to use AI more to help reduce veteran suicide risk."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T14:45:20.832624+00:00"
+  "fetched_at": "2025-11-30T15:23:01.575226+00:00"
 }

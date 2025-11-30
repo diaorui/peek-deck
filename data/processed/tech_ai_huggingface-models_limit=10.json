@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Tongyi-MAI/Z-Image-Turbo.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
       "downloads": 44531,
-      "likes": 1406,
+      "likes": 1408,
       "pipeline_tag": "text-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-28T13:15:09.000Z",
@@ -25,7 +25,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/black-forest-labs/FLUX.2-dev.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/633f7a8f4be90e06da248e0f/m5YoF33abJ09vcwFxt1Mj.png",
       "downloads": 171322,
-      "likes": 744,
+      "likes": 745,
       "pipeline_tag": "image-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-27T11:17:09.000Z",
@@ -41,7 +41,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/tencent/HunyuanOCR.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/5dd96eb166059660ed1ee413/Lp3m-XLpjQGwBItlvn69q.png",
       "downloads": 92907,
-      "likes": 531,
+      "likes": 532,
       "pipeline_tag": "image-text-to-text",
       "num_parameters": "996.2M",
       "last_modified": "2025-11-27T14:01:50.000Z",
@@ -97,6 +97,22 @@
       "description": "SAM 3 is a unified foundation model for promptable segmentation in images and videos, capable of detecting, segmenting, and tracking objects using text or visual prompts. It excels at exhaustively segmenting all instances of open-vocabulary concepts, achieving near-human performance on complex benchmarks."
     },
     {
+      "id": "Comfy-Org/z_image_turbo",
+      "author": "Comfy-Org",
+      "author_fullname": "Comfy Org",
+      "name": "z_image_turbo",
+      "url": "https://huggingface.co/Comfy-Org/z_image_turbo",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Comfy-Org/z_image_turbo.png",
+      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63462c815efccdc07f175568/3ZxGxVKftaTTjduryN7g7.png",
+      "downloads": 855039,
+      "likes": 270,
+      "pipeline_tag": null,
+      "num_parameters": null,
+      "last_modified": "2025-11-27T04:15:24.000Z",
+      "readme_content": "---\ntags:\n- diffusion-single-file\n- comfyui\n---\n\nWorkflows: https://comfyanonymous.github.io/ComfyUI_examples/z_image/",
+      "description": "z_image_turbo is a diffusion model designed for single-file image generation, likely integrated with ComfyUI workflows for advanced image synthesis tasks."
+    },
+    {
       "id": "tencent/HunyuanVideo-1.5",
       "author": "tencent",
       "author_fullname": "Tencent",
@@ -113,22 +129,6 @@
       "description": "HunyuanVideo-1.5 is a lightweight, 8.3B parameter text-to-video generation model offering state-of-the-art quality and motion coherence. It runs efficiently on consumer GPUs, making it accessible for generating creative videos from text or image prompts."
     },
     {
-      "id": "Comfy-Org/z_image_turbo",
-      "author": "Comfy-Org",
-      "author_fullname": "Comfy Org",
-      "name": "z_image_turbo",
-      "url": "https://huggingface.co/Comfy-Org/z_image_turbo",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Comfy-Org/z_image_turbo.png",
-      "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63462c815efccdc07f175568/3ZxGxVKftaTTjduryN7g7.png",
-      "downloads": 855039,
-      "likes": 269,
-      "pipeline_tag": null,
-      "num_parameters": null,
-      "last_modified": "2025-11-27T04:15:24.000Z",
-      "readme_content": "---\ntags:\n- diffusion-single-file\n- comfyui\n---\n\nWorkflows: https://comfyanonymous.github.io/ComfyUI_examples/z_image/",
-      "description": "z_image_turbo is a diffusion model designed for single-file image generation, likely integrated with ComfyUI workflows for advanced image synthesis tasks."
-    },
-    {
       "id": "Supertone/supertonic",
       "author": "Supertone",
       "author_fullname": "Supertone",
@@ -137,7 +137,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Supertone/supertonic.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/68ef1b2d04f0f03d81974536/XltzYlfCoWTzfqimzt5j7.png",
       "downloads": 12060,
-      "likes": 349,
+      "likes": 350,
       "pipeline_tag": "text-to-speech",
       "num_parameters": null,
       "last_modified": "2025-11-22T01:39:33.000Z",
@@ -153,7 +153,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/PrimeIntellect/INTELLECT-3.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/61e020e4a343274bb132e138/H2mcdPRWtl4iKLd-OYYBc.jpeg",
       "downloads": 1758,
-      "likes": 144,
+      "likes": 145,
       "pipeline_tag": "text-generation",
       "num_parameters": "106.9B",
       "last_modified": "2025-11-27T03:51:19.000Z",
@@ -162,6 +162,6 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-11-30T14:45:12.576137+00:00",
+  "fetched_at": "2025-11-30T15:22:57.387583+00:00",
   "has_descriptions": true
 }

@@ -31,7 +31,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16719",
       "arxiv_url": "https://arxiv.org/abs/2511.16719",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16719.png",
-      "upvotes": 93,
+      "upvotes": 94,
       "num_comments": 4,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
@@ -50,7 +50,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16624",
       "arxiv_url": "https://arxiv.org/abs/2511.16624",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 99,
+      "upvotes": 100,
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
@@ -69,7 +69,7 @@
       "hf_url": "https://huggingface.co/papers/2511.19575",
       "arxiv_url": "https://arxiv.org/abs/2511.19575",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.19575.png",
-      "upvotes": 16,
+      "upvotes": 17,
       "num_comments": 3,
       "published_at": "2025-11-24T12:59:59.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/HunyuanOCR",
@@ -111,7 +111,7 @@
       "num_comments": 0,
       "published_at": "2024-10-08T04:00:12.000Z",
       "github_repo": "https://github.com/hkuds/lightrag",
-      "github_stars": 24799,
+      "github_stars": 24831,
       "project_page": null
     },
     {
@@ -126,7 +126,7 @@
       "hf_url": "https://huggingface.co/papers/2511.19900",
       "arxiv_url": "https://arxiv.org/abs/2511.19900",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.19900.png",
-      "upvotes": 45,
+      "upvotes": 46,
       "num_comments": 2,
       "published_at": "2025-11-24T23:15:14.000Z",
       "github_repo": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL",
@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2511.18423",
       "arxiv_url": "https://arxiv.org/abs/2511.18423",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.18423.png",
-      "upvotes": 144,
+      "upvotes": 145,
       "num_comments": 2,
       "published_at": "2025-11-23T07:29:33.000Z",
       "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
@@ -187,11 +187,11 @@
       "num_comments": 1,
       "published_at": "2025-10-26T01:49:38.000Z",
       "github_repo": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
-      "github_stars": 16905,
+      "github_stars": 16938,
       "project_page": "https://fapo-rl.github.io/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-30T14:12:35.574132+00:00"
+  "fetched_at": "2025-11-30T15:22:46.696810+00:00"
 }
