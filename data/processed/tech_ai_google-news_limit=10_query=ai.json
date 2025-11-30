@@ -55,6 +55,16 @@
       "description": null
     },
     {
+      "headline": "Billionaire Bill Ackman May Be the Next Warren Buffett -- 2 AI Stocks Make Up 39% of His Portfolio (Hint: One Just Partnered With Nvidia)",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHNpb0QtZzZNR0w2ZWZMVU9wbjdhWUVVb3dzWFdPSE1VS2Rtbl9LRjZQeFYxd1ZuTzIzQVN6aEp3cVM5WTVubXpCOXNISlllZW9heE4yMlVidVF3eWNtM1o4VUhZQ2tjaFlvbTlsY19QVHR0cDRJTzhhZjNZTy03MzR0dTk?oc=5",
+      "pub_date": 1764491100.0,
+      "article_url": "https://finance.yahoo.com/news/billionaire-bill-ackman-may-next-082500091.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Mf_d2FmVcPIctLLJx.egcg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/63cf4020e37a8aabfb8ef5c3750a8980",
+      "description": "Bill Ackman, who outlined plans to create a modern Berkshire Hathaway earlier this year, has 39% of his portfolio split between Alphabet and Uber."
+    },
+    {
       "headline": "The hottest new AI company is\u2026Google?",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
@@ -69,7 +79,7 @@
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fcEd2bmZ4MUxoSmx2R2V2eUhsMFZNVHRuUFpsUjhEQXBEeUNJTDZwTG5ISGN1dzRUZjhRcE9oMV95ZWJkcDFiWFdDVEdHNXZDOHVjWnFsemtlbjJDdEpGajlyaHpMcmFnRWxFYVdTMF9jY2F3Tm1mQTRILTc?oc=5",
-      "pub_date": 1764438203.0,
+      "pub_date": 1764467054.0,
       "article_url": "https://www.axios.com/2025/11/29/ai-bubble-retirement-financial-planning",
       "image": null,
       "description": null
@@ -93,18 +103,8 @@
       "article_url": "https://www.nytimes.com/2025/11/29/nyregion/personalized-surveillance-pricing-ai-new-york.html",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "No, you can\u2019t get your AI to \u2018admit\u2019 to being sexist, but it probably is anyway",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSU40Rlp6UVJRai14TGdNMi1rOTlITEZ0akw0U2Q1V1g5SUJJbXczT3FLdThhSFotRzhnY3RTaVFhdnVrRm5heWdtSWZhczFfQW9xZWpzcldLTGJoZUhNV1JKWWw0LUhHeEYxUWd4UUNESVVGX2VpbDFIUmx5MXh1aEVHd2t3VVY4c2QxYTJNLTJaR0k2a01qbkRIQ3k1SlJMOW5jVQ?oc=5",
-      "pub_date": 1764432000.0,
-      "article_url": "https://techcrunch.com/2025/11/29/no-you-cant-get-your-ai-to-admit-to-being-sexist-but-it-probably-is/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/robot.jpg?resize=1200,600",
-      "description": "Though LLMs might not use explicitly biased language, they may infer your demographic data and display implicit biases, researchers say."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T08:42:41.633867+00:00"
+  "fetched_at": "2025-11-30T09:17:11.353404+00:00"
 }
