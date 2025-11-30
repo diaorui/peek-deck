@@ -15,16 +15,6 @@
       "description": null
     },
     {
-      "headline": "China\u2019s Robotics Stocks Face Investor Scrutiny Over Bubble Fears",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTjY4QlJmQVVZazdqekZRcWhjOXBuSFp3ZnZISzIwbW9vZEtYSE9qRzVxUmRuYS1ZSG12NzZXQVV2b05jcldFV0tLdGFWWjVKU24yZ2lZZ0JuSnpIbG1DTlo5eklfVlIwR25QN2ZMUkNia0c4Nk5RRmNPdE50SGN6YlRUU3BWMjVBQldaS1dTcmJpZWM2TzN4bjNLN3lxY0N4djQ4N2hiQWVTa1o1VDVraUF0V2R4QQ?oc=5",
-      "pub_date": 1764374400.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-29/china-s-robotics-stocks-face-investor-scrutiny-over-bubble-fears",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "China Warns of Bubble Risk in Booming Humanoid Robotics Industry",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -33,6 +23,16 @@
       "article_url": "https://finance.yahoo.com/news/china-warns-bubble-risk-booming-100805286.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/ZVfxPu5ia8wFnofX.hJtRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/e5b535e75e5b19b7199be431a88b2772",
       "description": "\u201cFrontier industries have long grappled with the challenge of balancing the speed of growth against the risk of bubbles \u2014 an issue now confronting the humanoid robot sector as well,\u201d Li Chao, spokeswoman of the National Development and Reform Commission, said at a briefing in Beijing on Thursday.  More than 150 makers of humanoid robots are operating in China and their number is still rising, Li said."
+    },
+    {
+      "headline": "China\u2019s Robotics Stocks Face Investor Scrutiny Over Bubble Fears",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTjY4QlJmQVVZazdqekZRcWhjOXBuSFp3ZnZISzIwbW9vZEtYSE9qRzVxUmRuYS1ZSG12NzZXQVV2b05jcldFV0tLdGFWWjVKU24yZ2lZZ0JuSnpIbG1DTlo5eklfVlIwR25QN2ZMUkNia0c4Nk5RRmNPdE50SGN6YlRUU3BWMjVBQldaS1dTcmJpZWM2TzN4bjNLN3lxY0N4djQ4N2hiQWVTa1o1VDVraUF0V2R4QQ?oc=5",
+      "pub_date": 1764374400.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-11-29/china-s-robotics-stocks-face-investor-scrutiny-over-bubble-fears",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Tesla loses some AI staff to a new robotics startup",
@@ -88,9 +88,9 @@
       "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPalBScjN3YUZkeEVIQi1pTExneEt4MUVFWUtxYzl0UFdQeTR0NUkxdm85U2U5UjNLYmpGU2FYYkpJY0hrWUczRS1JNUdRekxjSUxYLVhvclBmVXhtX0loeGxrc1FCejBVQUp5YlZoSEYybVEtTmRpbUlyd3J1eWtfRXRtQTB6RWtKMTBRQWpvZ2U4MXE0NmlZdGVkUDUtNlZlYmF4QlVsZklySkdlTVREaFVJVUtNNGVJT1RhS2JvYVlfR0Y1b1BTSmJGbHNZWDhQdmVUOHlMUk9ud0xQaFZsdXZubGZYZ1h1aDlIZXBkbXBZejRZREpMMUZoWUtFZ29ldFQxVTV5RG0zT1RRclM5cFVIYmFNTUtOMlBCNHdFU1NfLS1RNk5MUDRoaVV5cmJfWVJFblpYZHBpNGJDYlZmWlY3SG9SNVlneVoyaV94NkhOU0lPbFNXbldTTE1KRTNLOEJNQWx5N1JwdWgzTUVkenVRNE10X1VrdTVfbFZpQi0ybExL?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNcXlkZHVnQWYwUG1fQ05rWVdFX3Q4Umd5M0JQbFM2ckdneUtYSnNqbDBvZ1JWOWdMaVZMQ2pDUmJkWllMN0JsV2plT2EtWUYtSUNEOV96MDh6Zks5dEFPa2ZVenVwTWhlc1RqUEZweE1ydDVrSTFmQlN5djY0UmhVQ0pKSDhmNGU3YnhlOE9WMlNnckJjV2xQMEdqaXN2T1BsVW9hdUFZV0xxTExpZC1oRVhoSTNoeEI3UXBfaE5FbThodlBXQzlQOURHN1lDU1hWeUFhbGhxWWQyOFF0LWw4RTFnd3pSTE95c1pBeXNDcU9vbTZiQjhBdXh5aV9URkFaLUwxTUdTSEh4enJxMlUwb240U3k4cWNVenEwaU1sbGJBYzFvU3lBYVBxekVaSGRvNlJIOTRMajhBZ3BRZHNyT09UaTdkemFQVlRSdnNJcTd3QUk2VjdFZDBGNWhKWS04QmlhQ0FEVFNZbTJkSlFPVEJuTTEtM1VkY2s0OTRHRE9TS3lS?oc=5",
       "pub_date": 1764352680.0,
-      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqef8qTEXjus7UMSbp0B4dBv0eoFH2Nj8BMvM-cDNYSwwEPHa5lBMFmY&gaa_ts=692c17f3&gaa_sig=B43nLBVCriKg3YeIKPRCE5r5B1vq6KIX2VAkv8crOHOX6Y0nULf2wjlI9E7Xdi55EiznDab8kpY_yuR9vT-CGw%3D%3D",
+      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqex1SAWqkYZwHkKnLBNuO3SYFjBYwn0KYDIK38GRzuciNGLotmDk7cM&gaa_ts=692c223e&gaa_sig=IhKAVkKIz83sTCtd1uQsruMVsBdw41rRPFGi0le7KRujVnTSvTECenHl6sC_PjRq9XnU9lN-5oN6p5EdOuhn7A%3D%3D",
       "image": null,
       "description": null
     },
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T09:55:14.591808+00:00"
+  "fetched_at": "2025-11-30T10:39:10.715076+00:00"
 }
