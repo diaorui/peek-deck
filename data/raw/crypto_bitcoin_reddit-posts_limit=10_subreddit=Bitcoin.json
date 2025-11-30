@@ -35,17 +35,6 @@
       "description": "I saw this Bitcoin machine. Has anyone ever tried one like this? Was actually thinking of buying one. Does anyone have any experience with owning one?"
     },
     {
-      "title": "TIL Bitfinex recovered ~$3 billion of customers stolen bitcoin and did not return it. \"As far as Bitfinex is concerned, we've made our customers whole.\" from Netflix documentary, \"Biggest Heist Ever\"",
-      "author": "rgnet1",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p9th85/til_bitfinex_recovered_3_billion_of_customers/",
-      "published": 1764434656.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "tl;dr Hackers broke into Bitfinex in 2016 and stole 120,000 BTC ($75m at the time) directly from customer accounts. Law enforcement recovered 96,000 BTC in 2022, now worth $3.5bn. They returned a bulk of it back to Bitfinex. Bitfinex did not return the bitcoin to its customers, but instead provided them redeemable tokens for the value of the bitcoin at the time it was stolen. (Even worse: \"Redeemable as quickly as we can.\") I usually call people who yell \"not your keys, not your coins\" too alarmist. Exchanges must be held accountable. They are 100% not being held accountable. This should be a massive lawsuit to permanently determine that if bitcoin as property CAN be returned then it MUST be returned, not the value in dollars at time of loss. You can watch the slimy Bitfinex executive explain this directly at 1hr13 in the documentary, by the way."
-    },
-    {
       "title": "Important for new comers",
       "author": "Substantial_Car_7483",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pabouf/important_for_new_comers/",
@@ -55,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Bitcoin is not a get rich quick scheme. Its important to understand why it is what it is. This old picture cam across, so I thought to share it here. It has a deep meaning"
+    },
+    {
+      "title": "TIL Bitfinex recovered ~$3 billion of customers stolen bitcoin and did not return it. \"As far as Bitfinex is concerned, we've made our customers whole.\" from Netflix documentary, \"Biggest Heist Ever\"",
+      "author": "rgnet1",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p9th85/til_bitfinex_recovered_3_billion_of_customers/",
+      "published": 1764434656.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "tl;dr Hackers broke into Bitfinex in 2016 and stole 120,000 BTC ($75m at the time) directly from customer accounts. Law enforcement recovered 96,000 BTC in 2022, now worth $3.5bn. They returned a bulk of it back to Bitfinex. Bitfinex did not return the bitcoin to its customers, but instead provided them redeemable tokens for the value of the bitcoin at the time it was stolen. (Even worse: \"Redeemable as quickly as we can.\") I usually call people who yell \"not your keys, not your coins\" too alarmist. Exchanges must be held accountable. They are 100% not being held accountable. This should be a massive lawsuit to permanently determine that if bitcoin as property CAN be returned then it MUST be returned, not the value in dollars at time of loss. You can watch the slimy Bitfinex executive explain this directly at 1hr13 in the documentary, by the way."
     },
     {
       "title": "China banned Bitcoin again\u2026 must be bull season \ud83d\ude02",
@@ -112,5 +112,5 @@
       "description": "Have been doing DCA\u2019s for years. Excited for $200k. Just in case, working on a backup plan"
     }
   ],
-  "fetched_at": "2025-11-30T07:20:08.475770+00:00"
+  "fetched_at": "2025-11-30T07:54:07.081826+00:00"
 }

@@ -101,51 +101,9 @@
       "description": null,
       "favicon": null,
       "site_name": "nytimes.com"
-    },
-    {
-      "title": "Continuous Batching from First Principles",
-      "url": "https://huggingface.co/blog/continuous_batching",
-      "hn_url": "https://news.ycombinator.com/item?id=46046323",
-      "author": "jxmorris12",
-      "points": 2,
-      "num_comments": 0,
-      "created_at": "2025-11-25T14:58:15Z",
-      "object_id": "46046323",
-      "image": "https://huggingface.co/blog/assets/continuous_batching/thumbnail.png",
-      "description": "We\u2019re on a journey to advance and democratize artificial intelligence through open source and open science.",
-      "favicon": "https://huggingface.co/favicon.ico",
-      "site_name": "huggingface.co"
-    },
-    {
-      "title": "Show HN: I built Magiclip \u2013 an all-in-one AI studio",
-      "url": "https://magiclip.io/",
-      "hn_url": "https://news.ycombinator.com/item?id=46086920",
-      "author": "kokau",
-      "points": 40,
-      "num_comments": 18,
-      "created_at": "2025-11-29T12:04:23Z",
-      "object_id": "46086920",
-      "image": "https://magiclip.io/assets/images/favicon.webp",
-      "description": "Magiclip - AI-powered platform for creating viral short-form videos, with automatic subtitles, AI voice generation, and social media optimization.",
-      "favicon": "https://magiclip.io/assets/images/favicon.webp",
-      "site_name": "Magiclip"
-    },
-    {
-      "title": "A Tale of Two AI Failures: Debugging a Simple Bug with LLMs",
-      "url": "https://bitmovin.com/blog/hackathon-debugging-ai-tools-llms/",
-      "hn_url": "https://news.ycombinator.com/item?id=46083162",
-      "author": "slederer",
-      "points": 9,
-      "num_comments": 13,
-      "created_at": "2025-11-28T22:00:51Z",
-      "object_id": "46083162",
-      "image": "https://bitmovin.com/wp-content/uploads/2025/11/Bitmovin_2025_Blog_Hackathon_Lessons-min-768x403.jpg",
-      "description": "A subtle string formatting bug defeated two leading AI coding tools in completely different ways. Here\u2019s what their failures revealed during a recent Hackathon.",
-      "favicon": "https://bitmovin.com/wp-content/uploads/2023/11/bitmovin_favicon.svg",
-      "site_name": "Bitmovin"
     }
   ],
-  "total_hits": 11,
+  "total_hits": 7,
   "has_metadata": true,
-  "fetched_at": "2025-11-30T07:20:08.188094+00:00"
+  "fetched_at": "2025-11-30T07:54:06.996738+00:00"
 }

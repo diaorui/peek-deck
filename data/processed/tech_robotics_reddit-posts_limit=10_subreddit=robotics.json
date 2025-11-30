@@ -46,6 +46,17 @@
       "description": "I'm working on a robotic arm project and I'm looking into using this planetary gearbox for a Nema 17 motor. https://preview.redd.it/0llh5gy8ua4g1.png?width=901&format=png&auto=webp&s=ecc0809169212c217ea7a276f67be90dd66b5077 https://preview.redd.it/jqqcigy8ua4g1.png?width=816&format=png&auto=webp&s=fb3e27aeb56050f4ab9138fee032c9471cc2b9b2 According to my calculations, the reduction is going to be 3:1 I think maybe it's not going to work well, not necessarily because they are planetary gears, but mostly because the ratio seems too low. What do you all think? Any experience with this or suggestions for better gearboxes for a Nema 17 in a robotic arm?"
     },
     {
+      "title": "Why did they leave out Optimus?",
+      "author": "Director-on-reddit",
+      "url": "https://www.reddit.com/r/robotics/comments/1pacnqj/why_did_they_leave_out_optimus/",
+      "published": 1764489048.0,
+      "thumbnail": "https://preview.redd.it/yffi0fx9a84g1.jpeg?width=640&crop=smart&auto=webp&s=938cb82bc7b615758e2796f9b9c8dec22de22f3b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Actuator/servo",
       "author": "NoIntern2903",
       "url": "https://www.reddit.com/r/robotics/comments/1p9xup1/actuatorservo/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Hello, I need a simulation in RoboDK, 3 robots each with a different tool, to perform an operation on the same piece consecutively. The piece passes by each one on the conveyor. The simulation needs to be simple, nothing complicated. If there is anyone who can help me, write to me"
-    },
-    {
-      "title": "Paper Science Robotics: Scientists in Korea have developed a rollable robotic structure that is flexible enough to collapse into a compact hub, but also stiff enough to bear heavy loads like 3D printers when extended",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1p8qdje/paper_science_robotics_scientists_in_korea_have/",
-      "published": 1764320917.0,
-      "thumbnail": "https://external-preview.redd.it/dnEwMzlvenJyeTNnMUEIKFVhDF_nw1oJUllM0yZt-Ec7J3VLtNEjTVjN7EAy.png?width=640&crop=smart&auto=webp&s=ba3e0b5d77721c42931d9ed88ecd17edda6e3378",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Science Robotics: Foldable and rollable interlaced structure for deployable robotic systems: https://www.science.org/doi/10.1126/scirobotics.adv4696"
     }
   ],
-  "fetched_at": "2025-11-30T07:20:11.172466+00:00"
+  "fetched_at": "2025-11-30T07:54:09.627398+00:00"
 }

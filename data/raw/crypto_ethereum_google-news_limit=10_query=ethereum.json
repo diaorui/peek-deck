@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitcoin Reclaims $90K Ahead of Thanksgiving as Ethereum, XRP Bounce Back",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZG9jcmVjRFkzaEFQNG1sRUp3OEVFaEYxVWFickpycWxFbkxXaHJXcFFiTWhsMzVGcjJqV0YwTlpYY3pMRWR4anVJU0JXUU8tWkdLOVVWVWNLd3VyWFdCdGwtcU1qQUd4WXpqM0hGQ1JKU3NnVkxjOXgxQWE3YzY4T043c0NHV3drT05XTlUyWkVqNnJS0gGcAUFVX3lxTE5UaVFhSUhtV0FxdlhVODJGVTNFZkN3Z3Fnc0loWVNMbnlpZWV0cGFyV3hvbUk0R1hkRFA3Y2d0WGp4WXFDTmlDUWpqMFNqQnFkcFVYNDc3eS02Y19wZHQwOXc5VGdIQlRJMFB0ODE1bVczbkFkM3B1LVpwYjAyTGZ5VzhRelpWU0dCaWJWMUQybnRJdDdweTZVQ1d2Mg?oc=5",
-      "pub_date": 1764183649.0,
-      "article_url": "https://decrypt.co/350151/bitcoin-reclaims-90k-ahead-thanksgiving-ethereum-xrp-bounce-back",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png",
-      "description": "Bitcoin has broken above $90,000 per coin again, nearly a week after it dipped to a seven-month low of about $81,000."
-    },
-    {
       "headline": "Arthur Hayes says most L1s outside Ethereum and Solana are headed to zero",
       "source": "Crypto Briefing",
       "source_url": "https://cryptobriefing.com",
@@ -23,6 +13,16 @@
       "article_url": "https://cryptobriefing.com/layer-1-tokens-ethereum-solana/",
       "image": "https://static.cryptobriefing.com/wp-content/uploads/2025/11/29093409/1811668a-316c-44da-92ad-d8c8ecb4e5e5-800x420.jpg",
       "description": "Arthur Hayes warns that most layer 1 tokens face failure, predicting only Ethereum and Solana will remain viable in the long term."
+    },
+    {
+      "headline": "Europe's largest asset manager Amundi tokenizes money market fund on Ethereum",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGVLdDV6d1JSRTIzSGRuV3BxWGVKUVRvOHczenlXYlRjT0M0QXFzbm9JazhwcnNkZXRUSXpZaGZjMWtaMjhLMWhsUUlGeDNnQmQtX3BVTDBHSzVCNVRvWEp2YTVxWnRYT0RpVXAzaDh0M2pSd05pTUQzaVQtc1BLX3ZjZHp0Y0l5amfSAY8BQVVfeXFMTzRpS3Z4NnlBaVVVMkM1WDJJeWlLSmV5dklaNXEyRE9TQVRrT3BwNGt0bFd4T1dIajBTNGNWNWRocGRPUnlHT3dIVGNiQmlUbVhqX0Zubl9MWDZtMzFJQmVMNUlKMHo4anZOckdzVGU5VHlKWFEzdVFjX1I0R3Z2dU5TOXJmYlplMENOS3I5cW8?oc=5",
+      "pub_date": 1764333063.0,
+      "article_url": "https://www.theblock.co/post/380765/amundi-tokenizes-money-market-fund-on-ethereum",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Tom Lee Lists Three Reasons Why Ethereum Will Beat Bitcoin \u2014 But Can ETH Rally to $9,000?",
@@ -35,14 +35,14 @@
       "description": "Tom Lee believes Ethereum is positioned to win the crypto race, beating out other major players like Bitcoin. Lee forecasts a short-term dip to around ..."
     },
     {
-      "headline": "Europe's largest asset manager Amundi tokenizes money market fund on Ethereum",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGVLdDV6d1JSRTIzSGRuV3BxWGVKUVRvOHczenlXYlRjT0M0QXFzbm9JazhwcnNkZXRUSXpZaGZjMWtaMjhLMWhsUUlGeDNnQmQtX3BVTDBHSzVCNVRvWEp2YTVxWnRYT0RpVXAzaDh0M2pSd05pTUQzaVQtc1BLX3ZjZHp0Y0l5amfSAY8BQVVfeXFMTzRpS3Z4NnlBaVVVMkM1WDJJeWlLSmV5dklaNXEyRE9TQVRrT3BwNGt0bFd4T1dIajBTNGNWNWRocGRPUnlHT3dIVGNiQmlUbVhqX0Zubl9MWDZtMzFJQmVMNUlKMHo4anZOckdzVGU5VHlKWFEzdVFjX1I0R3Z2dU5TOXJmYlplMENOS3I5cW8?oc=5",
-      "pub_date": 1764333063.0,
-      "article_url": "https://www.theblock.co/post/380765/amundi-tokenizes-money-market-fund-on-ethereum",
-      "image": null,
-      "description": null
+      "headline": "Vitalik Buterin Donates $765K in Ethereum to Privacy Messaging Apps",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNG5JZW1JQ2pBYllVLWNnTWpMZ1h5aEY5NXpjZjVnQU5Pb0JMWmFTeGFYbGFGOVpGbldaWS1PY0pfSmtsX0tBbHBhbTRXY3lHWlhVUFV2bnMtc2YxVl85Um11Q1RIT1hJeDRVZDVZOE9zTmxiMnZOR2MwdlJhUklFbzVnMTdIb3VaNUJuODl2bjZrTm1TMExv0gGfAUFVX3lxTFBrT19QT29ZckYyX3Z2NENCVGNlZzRlME8yS290R0YwaFluM19RWm9lbTdkbVlWZWtLM1BDelBHMHFxSlkxNjlsSmxWQVo2U05kZlJnUUNJNVFXeDJwc0xPdDJab0RyN1U5a2d1RDMxSFREcHE0OS1Rc21udDZvODBXSjVPcWlwZ1k2UV9NTlFvcklTa3hfM2Y3R3BHNDRTTQ?oc=5",
+      "pub_date": 1764270062.0,
+      "article_url": "https://decrypt.co/350253/vitalik-buterin-donates-765k-in-ethereum-to-privacy-messaging-apps",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg",
+      "description": "Ethereum co-founder Vitalik Buterin supported two privacy messaging apps that are looking to break past sector leaders Signal and Telegram."
     },
     {
       "headline": "Fidelity\u2019s Tokenized Fund on Ethereum Crosses $250M",
@@ -75,36 +75,36 @@
       "description": null
     },
     {
-      "headline": "Crazy Ethereum Liquidity Crunch Spotted on OKX",
+      "headline": "Key facts: Ethereum ETFs reach $29 billion AUM; Hayes bullish on ETH",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQczZ5RWhtMEE4d25KTFk5WXp1dS11MXJyWmRvd1FfWko2d3hsTURXWVB4Q2NvRGRHbi1pVjctMldPalNiVDRHcWJTdFFaSk95TDVlY3I4Sk04WTZMM1RyVG5nN0g3M1BYOXNHU05fX2cwVjhWZlZjNUV3bGQ0SVRsSy1jT2czVlluY081dzZ0OXFnbWY5ZHNDOU00a3R1bHIzRjExNmFMTQ?oc=5",
-      "pub_date": 1764422400.0,
-      "article_url": "https://www.tradingview.com/news/u_today:d3b958069094b:0-crazy-ethereum-liquidity-crunch-spotted-on-okx/",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFFkeS1keExFZno0Q1RLLVFXa0NkLWNCMGg1bXcxOFNqZFkxU0JDanhqNFlWWFlxbUVrREVBblpfcHpabm9ncG5MMjl4REpSOEhIVzl6V1Atbnd5dFBUNU8wWnZRSzY1dWpmdDVMR0cxUkd3WUx1MndhWW1XZ3FLNlhBTkVPZE9tLWNVbVBxNTVNSjJSeU1Fd3drTXZfcWxyUE5rZGJIbUl1dlNvTmsyN3B5NEM4dnJCVmFHaDJBM1RKbXBMTUE?oc=5",
+      "pub_date": 1764460980.0,
+      "article_url": "https://www.tradingview.com/news/tradingview:c91f7c315c0bf:0-key-facts-ethereum-etfs-reach-29-billion-aum-hayes-bullish-on-eth/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "OKX exchange has\u00a0released its latest proof-of-reserve (PoR) report that shows a dip in users\u2019 Ethereum holdings. According to the report, assets like Bitcoin and Tether BINANCE:USDTUSD saw a significant jump, while Ethereum declined month-on-month.Ethereum liquidity crunch incoming?OKX released the\u2026"
+      "description": null
+    },
+    {
+      "headline": "How Undervalued Is Ethereum Really, and What\u2019s ETH\u2019s True Price Today?",
+      "source": "CryptoPotato",
+      "source_url": "https://cryptopotato.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQlVLWF9mazVNcEcySDRldHFaVTlkdk1aMzVnNUlIUVJDdHdpLTFuOTI4aHlIWks2eTFZVHVDVWJuc0tKWWxPLTBVVmdHaVhYcTE3ZE8zNEJmamwxNmdVRHJfQm45MUNmckxsSHEwOGY3LTN2WlZaRE5nSGFaeVpKN3FmWmlTc1lWMnFzYXBnMkRLYVBoampN?oc=5",
+      "pub_date": 1764416160.0,
+      "article_url": "https://cryptopotato.com/how-undervalued-is-ethereum-really-and-whats-eths-true-price-today/",
+      "image": "https://cryptopotato.com/wp-content/uploads/2025/06/Ethereum_Profit.jpg",
+      "description": "Does ETH trade below it's fair value?"
     },
     {
       "headline": "Large cryptocurrencies mixed as Ethereum increases",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOU3RQUVRsUi16d0F5TlRTdkdYYk1HdFNDaGdkU1VPMkhnbldCOEtYV2U3QVNEODQ0MTlXdHlZbThYamxYSFZqN29lYmxsX0F6TTBkWF9pLUliWWhsY3hfdmNoV2ZmUUdPUlhsVl9QNEpXekMzN3FmSDZkbWNIUThhenpnbDl5cGg1aVg5dEI4ak5XWkNlNUFfakphN1c5V0FFSkxsb0tSdVFSU0hmWEsxdGxpNlQzNlViNXBnR2hsWllDNFBkRWpBSFA1SWhjb0M3b0psQWIwNVNOOVQ0d2tndzRMQ2M0eTFHSk9SM0gtV1JFajRWb1A0VVo0SVUtRUlUN1luVWN1bWxzT2ZPa1dRVTlYWWdnaG5pTXBUQTJzQ0ZYVFZLSlIybXUzdE5CTlluTGRhc1J3eXplOWYzbDRFN1lOU1NfT2pKVk03b2RvZUtPSVBtWGZBYWJGV1g4TWZuNnVFcmtRZFQtVXZELVNjcVVXNzNtMzVJbEhRREtLbkxkUzk4Z3JkUnFYNFY4SUtDV09MSWJ4NlVEcElfRnZmX2RqUXJCeDVGYmk0RTVYSjNMeFgx?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQX0x1SUVBbHJodkU2bklDeXhYeXRtWm1ScnZmN05TT25LWEtPQ3lUZm9yemNTaEhvVFNkUHgtdTRGR1pfaTNnRWpBdy0yeGNBS3gyNmwyOGp5NG9FajB0VWRPLUl1LVVjR3Q1VUM4WWRMcV9id3dBRDJyblcwcVVnaFV3aHB0eHQxZkRTaEdrdEh3bXJ2Y3FMM1hQQWlhU2pKREFya1FydHNOTHo5WXczZ09IcHJCSENjM1MxdXZmbnVaNmxZcFItWElIcDB5VTB1alNneGFtQVlXVVJFUXdnNjlEb0NhcUlkelIxbFdnQUR6UDlSZDQ5OUp6aGZhVUZib0Y3ZWdZaHFuc3lmSk1ZZDBpVVE5WmZPbl94QXJWbDJPaU1XdWROdVdLMG03V2E0TjctYUVoMjZpaUxNXzVXeTVLVmJZQVBSS0hqeGhCMDNFanJOWGpELXV2TU5qcm10V0JwdXluXzVEd3NvSVhaR04xR0dkb2pvVzJVbFBjT2x5WnVMakRwQ2ZrbzRqVnZLTGRRZkpaRWRMYl9VQ3VKcmlESlRLN1VVTTRPU0ZPZTFldGVz?oc=5",
       "pub_date": 1764342000.0,
-      "article_url": "https://www.marketwatch.com/data-news/large-cryptocurrencies-mixed-as-ethereum-increases-2d44796b-6512c9777c5b?gaa_at=eafs&gaa_n=AWEtsqehesU8Fiqt0MMWL9ISTQDegMaMWeIG0K53M9ItOn4Hmjvg8jZ1SfVn&gaa_ts=692bf3ad&gaa_sig=FJ2CaMnwBgexCwm3lMMCP1BdCe8wSlpUSmDiSf74YvEcHMYZ6uaarbAERMjpNWxk8bhJMxGqe8Wtvd1r4bnB2w%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Best Altcoins to Buy Now: Ethereum Builds Momentum As DeepSnitch AI Presale Jumps 67% Ahead Of January Launch",
-      "source": "BlockchainReporter",
-      "source_url": "https://blockchainreporter.net",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMmQybC1laFVSc2RJY1AxWmZ4ZFZrLV81anBsT0U4VHgtRHZoM3c0V2RnNEY3V1ZwNDZMVGxXVzZXNEo1U1VjSGExNFFjTWpxSy1zYThvNVlDUG0yNVUxTUdWUkFGN0dkOVYxOVQxSnVpUXFWQW1GYTRtTF9OZTFMTWV2VE1MSFNHS19pN0Y2Y2dQNUE2UUZMV29xR2tQMzdWYWhaTGY5dGlTX2w0UDVRajlQTTV0TjdaQ3drRmpjTmNDMjlmMllFbW94NHJRWk9wdVZDbDJR?oc=5",
-      "pub_date": 1764438000.0,
-      "article_url": "https://blockchainreporter.net/best-altcoins-to-buy-now-ethereum-builds-momentum-as-deepsnitch-ai-presale-jumps-67-ahead-of-january-launch/",
+      "article_url": "https://www.marketwatch.com/data-news/large-cryptocurrencies-mixed-as-ethereum-increases-2d44796b-6512c9777c5b?gaa_at=eafs&gaa_n=AWEtsqepfaEJRzw36OmjovrzhOhIVCxA5sN7Vs9FIzlNyKsZhsV7hNUrvoZL&gaa_ts=692bfba3&gaa_sig=XE8MIF1k5ckfPBu9mN1Npo2gChT-oCSBPxKgbDTRcv2kzSa5FldTOHMg7bTYPzB6NXiDnPKQSF0ymIawygVHzA%3D%3D",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T07:20:27.174998+00:00"
+  "fetched_at": "2025-11-30T07:54:28.137851+00:00"
 }
