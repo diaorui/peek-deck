@@ -9,8 +9,8 @@
       "url": "https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action",
       "hn_url": "https://news.ycombinator.com/item?id=46083004",
       "author": "pyrophoenix",
-      "points": 489,
-      "num_comments": 165,
+      "points": 490,
+      "num_comments": 166,
       "created_at": "2025-11-28T21:40:21Z",
       "object_id": "46083004",
       "image": "https://www.airbus.com/sites/g/files/jlcbta136/files/styles/thumbnail/public/2025-09/airbus-sharing-default.png?itok=AqaYIUdZ",
@@ -75,20 +75,6 @@
       "site_name": "BBC News"
     },
     {
-      "title": "The current state of the theory that GPL propagates to AI models",
-      "url": "https://shujisado.org/2025/11/27/gpl-propagates-to-ai-models-trained-on-gpl-code/",
-      "hn_url": "https://news.ycombinator.com/item?id=46068777",
-      "author": "jonymo",
-      "points": 218,
-      "num_comments": 307,
-      "created_at": "2025-11-27T12:48:12Z",
-      "object_id": "46068777",
-      "image": "https://shujisado.org/wp-content/uploads/2025/11/chatgpt-image-2025e5b9b411e69c8827e697a5-21_13_41.png",
-      "description": "When GitHub Copilot was launched in 2021, the fact that its training data included a vast amount of Open Source code publicly available on GitHub attracted significant attention, sparking lively de\u2026",
-      "favicon": "https://shujisado.org/wp-content/uploads/2025/01/cropped-41535474-sado-1.jpg?w=151",
-      "site_name": "Open Source Guy"
-    },
-    {
       "title": "Tech Titans Amass Multimillion-Dollar War Chests to Fight AI Regulation",
       "url": "https://www.wsj.com/tech/ai/tech-titans-amass-multimillion-dollar-war-chests-to-fight-ai-regulation-88c600e1",
       "hn_url": "https://news.ycombinator.com/item?id=46077038",
@@ -107,7 +93,7 @@
       "url": "https://www.nature.com/articles/d41586-025-03506-6",
       "hn_url": "https://news.ycombinator.com/item?id=46088236",
       "author": "_____k",
-      "points": 197,
+      "points": 199,
       "num_comments": 128,
       "created_at": "2025-11-29T15:26:58Z",
       "object_id": "46088236",
@@ -143,9 +129,23 @@
       "description": "We all know exercise is good for us. It lowers the risk of heart disease, cancer, and early death, and keeps the body and mind in shape. But when the air you",
       "favicon": "https://scienceclock.com/wp-content/uploads/2025/09/ScienceClock2-300x300.png",
       "site_name": "LearnGupt"
+    },
+    {
+      "title": "A trillion dollars (potentially) wasted on gen-AI",
+      "url": "https://garymarcus.substack.com/p/a-trillion-dollars-is-a-terrible",
+      "hn_url": "https://news.ycombinator.com/item?id=46078407",
+      "author": "flail",
+      "points": 126,
+      "num_comments": 133,
+      "created_at": "2025-11-28T13:21:17Z",
+      "object_id": "46078407",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "garymarcus.substack.com"
     }
   ],
-  "total_hits": 318,
+  "total_hits": 319,
   "has_metadata": true,
-  "fetched_at": "2025-11-30T11:58:33.617819+00:00"
+  "fetched_at": "2025-11-30T12:52:36.582073+00:00"
 }

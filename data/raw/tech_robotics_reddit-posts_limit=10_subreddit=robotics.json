@@ -46,17 +46,6 @@
       "description": "Hey everyone, Just wanted to share a short clip of my DIY robot, BaBot, in action. It\u2019s taken a lot of trial and error to get it to move smoothly, and I\u2019m still tweaking things, but I\u2019m really happy with how it turned out so far. Would love to hear any thoughts !"
     },
     {
-      "title": "First live test of a laser-based local obstacle detection concept.",
-      "author": "Independent_Win_Alex",
-      "url": "https://www.reddit.com/r/robotics/comments/1pafmkr/first_live_test_of_a_laserbased_local_obstacle/",
-      "published": 1764500415.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This is an early experiment using a simple laser grid as a local sensing field. The rover is currently on a stand (wheels in the air) \u2014 this test focuses only on the reaction logic, not on traction or motion mechanics. How it works (basic concept): When the laser field is clear \u2014 the system allows movement. When an object enters the field \u2014 the reflected laser points appear. Once the reflection threshold is detected \u2014 motion is stopped immediately. When the obstacle is removed \u2014 movement resumes. This idea started very simply \u2014 from a regular laser pointer and curiosity about whether laser reflection can be used as a local navigation and safety layer without LIDAR. This is not a finished product. This is a raw engineering experiment \u2014 but it already demonstrates stable obstacle detection and reaction. Next steps: ground tests tuning reflection thresholds testing on moving platform combining with other sensors Sometimes innovation starts from the simplest experiments.video"
-    },
-    {
       "title": "Important fundamental topics for beginner",
       "author": "techhgal",
       "url": "https://www.reddit.com/r/robotics/comments/1pagic8/important_fundamental_topics_for_beginner/",
@@ -66,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey everyone! I am interested in switching fields into robotics and automation. I have a bachelor's in Information Technology (very similar to Computer Science, in my university). I am planning to apply for masters. Before that, I want to get the basics right. I know at least some part of all the following things, but I'd like to properly revise and get the fundamentals sorted. Are these things enough or am I missing any more important topics? I will mostly be applying for Robotics and Automation courses. -Mathematics for Robotics: Linear Algebra, Calculus, Differential Equations -Kinematics & Dynamics: Forward Kinematics, Inverse Kinematics, Jacobian Matrix, Rigid Body Dynamics -Control Systems: PID, Control Stability and Feedback -Sensors and Actuators -Robot Programming (Python and ROS) -Computer Vision: Basics, Image Processing, Object Detection -Path Planning and Navigation: Path Planning, Localization -Machine Learning in Robotics: Reinforcement Learning, Deep Learning -Mechatronics and Embedded Systems: Mechatronics, Embedded Systems, Sensor and Actuator Interfacing Multi-Robot Systems: Multi-Robot Coordination, Swarm Robotics Thanks!"
+    },
+    {
+      "title": "First live test of a laser-based local obstacle detection concept.",
+      "author": "Independent_Win_Alex",
+      "url": "https://www.reddit.com/r/robotics/comments/1pafmkr/first_live_test_of_a_laserbased_local_obstacle/",
+      "published": 1764500415.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This is an early experiment using a simple laser grid as a local sensing field. The rover is currently on a stand (wheels in the air) \u2014 this test focuses only on the reaction logic, not on traction or motion mechanics. How it works (basic concept): When the laser field is clear \u2014 the system allows movement. When an object enters the field \u2014 the reflected laser points appear. Once the reflection threshold is detected \u2014 motion is stopped immediately. When the obstacle is removed \u2014 movement resumes. This idea started very simply \u2014 from a regular laser pointer and curiosity about whether laser reflection can be used as a local navigation and safety layer without LIDAR. This is not a finished product. This is a raw engineering experiment \u2014 but it already demonstrates stable obstacle detection and reaction. Next steps: ground tests tuning reflection thresholds testing on moving platform combining with other sensors Sometimes innovation starts from the simplest experiments.video"
     },
     {
       "title": "Sunday AI like companies",
@@ -112,5 +112,5 @@
       "description": "Many in the RC community haven\u2019t been able to help a lot in these regards. Im struggling to get my servo programmed how I want it to for my RC snow plow and I\u2019m not sure how to program two actuators to act as my angle method so one comes in when the other pushes out and vice versa the other direction. Currently I\u2019m using an RC winch controller board on my RX to TX as my lift actuator and it works. When I tried to program two actuators to do as I wanted with the opposite wires tied together i think wires crossed and shorted the controller board. But I don\u2019t think ot could handle two actuators anyways. I\u2019m really wanting to keep this a simple build using a single battery if possible and on one TX. Any help appreciated. Pics are of my plow."
     }
   ],
-  "fetched_at": "2025-11-30T11:58:38.203019+00:00"
+  "fetched_at": "2025-11-30T12:52:41.867904+00:00"
 }
