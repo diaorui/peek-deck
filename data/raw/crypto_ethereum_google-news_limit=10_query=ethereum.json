@@ -45,6 +45,16 @@
       "description": null
     },
     {
+      "headline": "Ethereum Treasury News: BitMine (BMNR) Bought Nearly 70K ETH",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTVJXVk5NTy1uWUh0TVZvMDlYRERfdTFxdE8xOUYyMlJQUS1EVTRfUXl3UlQtaDFxX0haSTFzenROVTMtQ1pqUlBMTUhrelY2RmFlU2h2ZE9vT2N3SXdsd3hNVC1ad3FyN0hsOVpfSEJBWDZoLWRyOE8wUzlwZE5XamVvT01kUDQ3NW52VUlscG5UTHllVXA2aHNOMFowMmgtb1A0UW9hSGlYUEFURFRoSnZhRjROYWVDNWtNU2hMc1A?oc=5",
+      "pub_date": 1763995079.0,
+      "article_url": "https://www.coindesk.com/business/2025/11/24/bitmine-immersion-added-nearly-70k-ether-last-week-now-holding-3-of-eth-supply",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/13c2f3d8f4a14835d564bac5cf5d5cdd106bdcfd-1919x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The company increased its crypto holdings last week despite sitting on around $4 billion in unrealized losses on its ETH bet."
+    },
+    {
       "headline": "Tom Lee\u2019s Bitmine Just Bought $44 Million Of Ethereum, Bringing Weekly Total To $185 Million \u2013 BMNR Stock Climbs Amid ETH Recovery",
       "source": "Stocktwits",
       "source_url": "https://stocktwits.com",
@@ -53,16 +63,6 @@
       "article_url": "https://stocktwits.com/news-articles/markets/equity/tom-lee-bitmine-just-bought-44-million-of-ethereum-bmnr-stock-gains/cL5a45RRELk",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "BitMine and Bitcoin Miners' Stocks Surge as BTC, Ethereum Recover",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdmtXa3pkRTM1WllkNGlzdVdha0pFMUh1ZGZWNzI0UjlLUmhWaUNHZzNxb2o1VHdMX3pyWWhnUHNUZlZsUHJMSUhWQjJKOVVUNkNndzRVeFJQbVRMakpvbm13Y3M5cFBhWHNEd01PZlB6Y0NOOE8wN0JNYXZDUjRqa2VTdGdMVzR5?oc=5",
-      "pub_date": 1764354478.0,
-      "article_url": "https://finance.yahoo.com/news/bitmine-bitcoin-miners-stocks-surge-182758070.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/.8bjnll69AxPs.zQ1kt6NQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/a976184eaa7ca377c0061eeeb4cddf2e",
-      "description": "Crypto-related equities like BitMine and leading Bitcoin mining stocks are jumping as Bitcoin and Ethereum regain key levels."
     },
     {
       "headline": "Ethereum Leverage Reset Complete \u2013 Time For Market Re-Accumulation?",
@@ -75,16 +75,6 @@
       "description": "Ethereum presently trades around $3,000 following a broader crypto market rebound in the last week. During this time, the market\u2019s largest altcoin gained by 7.22%, providing a much-needed relief after an extended correction that dominated the majority of the last two months. As price stabilizes, cr\u2026"
     },
     {
-      "headline": "1 New Reason to Be Cautious About Buying Ethereum, Solana, and XRP Right Now",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaUtlTUl4dHM2OGItRy1XT3h6WVp4b3l2UXpnaHI4WjhJODljUEcySk9wYjBKY3V6WFRkdjgta21sMC1YQVZod3hpMDRjVTZpSkQ2RWItZ2xkc1dMTjJlNVpoeDhQazMzZmVwc1lleng0VHZlT0hMVFk0ODVZSHBNSVZjS1dVM3ZmTHJzNzVSS0stU2NzckVz?oc=5",
-      "pub_date": 1764521280.0,
-      "article_url": "https://www.fool.com/investing/2025/11/30/1-new-reason-to-be-cautious-about-buying-ethereum/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843801%2Fstanding-pair-of-investors-consider-tablet-and-computer.jpg&w=1200&op=resize",
-      "description": "If this widely touted growth driver peters out, it could spell big trouble."
-    },
-    {
       "headline": "Tom Lee Lists Three Reasons Why Ethereum Will Beat Bitcoin \u2014 But Can ETH Rally to $9,000?",
       "source": "CCN.com",
       "source_url": "https://www.ccn.com",
@@ -95,16 +85,26 @@
       "description": null
     },
     {
-      "headline": "Fidelity\u2019s Tokenized Fund on Ethereum Crosses $250M",
-      "source": "The Defiant",
-      "source_url": "https://thedefiant.io",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3lxM0dsdGVhV1VCU1IyTGo0M05CTEN2cnlpOTRYVEM0cjJCQU5yUDVsV3NyS1RwRnFqYkdib1AxQ3NmV2dTQ1J6Z2JJekRSa3ZsTnZBWGRnT3l5SEdaX0hleTg5UGZUSDctVjduYnhQbjhWQ2FrbGJlcXkxLVk1RGVOX1ZnbG9MSmVkUVRBd05kZlpyQzY0enZlbGs1V2s?oc=5",
-      "pub_date": 1764357244.0,
-      "article_url": "https://thedefiant.io/news/tradfi-and-fintech/fidelity-tokenized-rwa-fund-on-ethereum-hits-usd250m",
-      "image": null,
-      "description": null
+      "headline": "Arthur Hayes Predicts Collapse of Most Layer 1 Tokens Outside Ethereum and Solana",
+      "source": "Coinpaper",
+      "source_url": "https://coinpaper.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORnZXdk42bnJnNkJmdWhQSy01bm5BSnF0U3J3X3RZMHp5Nk82Y3NKQy1aS3hIczFoM3N1RnBpOTVEN1UyakYwOXpaNkUzY1JIVVVHX1FQdEpmLURVX3V6SmpkNmt2bG1UOGtrNDE0U0Vyb1QxR0M4TkVWWnYyTnMtMGkta3I5c1BoMG5fajBDdUpBSHJMamZ1ejdzS0dObHlNOXJUWWRhdS10Ul9vTmc?oc=5",
+      "pub_date": 1764445896.0,
+      "article_url": "https://coinpaper.com/12754/arthur-hayes-predicts-collapse-of-most-layer-1-tokens-outside-ethereum-and-solana",
+      "image": "https://res.coinpaper.com/coinpaper/image/upload/v1764445718/shutterstock_2108025419_f807a3ca1c.jpg",
+      "description": "Arthur Hayes warns most new L1s will fade, highlighting Ethereum and Solana as the only strong long-term blockchain contenders."
+    },
+    {
+      "headline": "1 New Reason to Be Cautious About Buying Ethereum, Solana, and XRP Right Now",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaUtlTUl4dHM2OGItRy1XT3h6WVp4b3l2UXpnaHI4WjhJODljUEcySk9wYjBKY3V6WFRkdjgta21sMC1YQVZod3hpMDRjVTZpSkQ2RWItZ2xkc1dMTjJlNVpoeDhQazMzZmVwc1lleng0VHZlT0hMVFk0ODVZSHBNSVZjS1dVM3ZmTHJzNzVSS0stU2NzckVz?oc=5",
+      "pub_date": 1764521280.0,
+      "article_url": "https://www.fool.com/investing/2025/11/30/1-new-reason-to-be-cautious-about-buying-ethereum/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843801%2Fstanding-pair-of-investors-consider-tablet-and-computer.jpg&w=1200&op=resize",
+      "description": "If this widely touted growth driver peters out, it could spell big trouble."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T19:30:03.171979+00:00"
+  "fetched_at": "2025-11-30T20:16:05.732744+00:00"
 }

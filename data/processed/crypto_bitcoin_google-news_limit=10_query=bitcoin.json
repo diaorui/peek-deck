@@ -5,34 +5,34 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin set to rally back to $100,000, BTIG says",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjZmS1ZfcTREb0pEbTM1WHRZQ0UyUldmS0h1b2d2eFIwcmZBNG9fTjJYQVBKT0RaSlJIQU5DNnFlaGJqSEE3RngzaG50b1JzcXBCdnJ3clBtZHBQbU11eHgwOTVud3dTSDJHc2Y3bUtxdnFVRFRqNWV3T3UwNzJ5VVRyc3VmLTJranc?oc=5",
+      "pub_date": 1764339461.0,
+      "article_url": "https://www.cnbc.com/2025/11/28/bitcoin-set-to-rally-back-to-100000-btig-says.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229960-1763739030339-gettyimages-2244475103-omarques_03112025_tech_9_of_15.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "Bitcoin is trading above $90,000 again, and the token could soon reclaim its $100,000 level, BTIG analysts said in a recent note to clients."
+    },
+    {
       "headline": "Where Will Leading Cryptocurrency Bitcoin Be in 5 Years?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMjgwaEVrWFE1OE9fZFA3QzU5TWZiZjFHZ2tOcnBqQmVPVVc0SnpVX3N3LWlUUEZjbkpQbXhfelNDV0daY2FMUzVRdUI5WGRvcVBHeTJSNUFIcVI1Tm5yQ3hpSlRZc0s0di1kMWxyd2pQS0pFaDlHUG9TX2ltUHo3YTRCX1lyOFdnR0thbw?oc=5",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3hqM1NkRHUyc0NnZ08zMzFNR2pKVEFKalMyTmlhNlBwdVFJSkpHWHlvbEpwWk1GbDlOVElsVWNKWXU4T1hnelVrSWk4TFdDSUhpbzF5X2xndkZoX1NlQ3lfTWozX1dLRjRQSDdPVklCV2I1OWVpVXgxUFQ5TkUtOTBJRGpuNUlSSmZvYWtPOTg?oc=5",
       "pub_date": 1764514800.0,
-      "article_url": "https://finance.yahoo.com/news/where-leading-cryptocurrency-bitcoin-5-150000296.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Gh7cGOhPC6Xk0JivUaMPzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/5b192ae17473cdde5e18dd0be56f37cb",
+      "article_url": "https://www.fool.com/investing/2025/11/30/leading-cryptocurrency-bitcoin-be-in-5-years/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843291%2Fgold-coins-with-bitcoin-logo-on-them.jpg&w=1200&op=resize",
       "description": "Bitcoin's price has shot up more than five-fold since late 2020."
     },
     {
-      "headline": "How Bitcoin Could Help You Retire a Multimillionaire",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT01SWWtTekFDOXpScWVOUkhwV2lfMjhUQU9SQVNzRzladkFFMlluSkktOWV0YU1KTEppSVNId282Wlk4UEZHYXRreFp3R1FwQVBiZzNCRHcweDVIaWpkcDlpUEJBUlpySGduWEZUcVpybkpVMWxza19Ybk5uREpzbUd6QUNIYnV5cWZyeXRwaEU4VGhX?oc=5",
-      "pub_date": 1764508740.0,
-      "article_url": "https://www.fool.com/investing/2025/11/30/how-bitcoin-could-help-you-retire-a-millionaire/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844242%2Fbitcoin-on-a-computer-chip.jpg&w=1200&op=resize",
-      "description": "If history is any guide, now is no time to give up on Bitcoin."
-    },
-    {
-      "headline": "'Shark Tank' Star Mark Cuban To Those Who Want To Get Rich, 'Throw A Hail Mary' & Invest 10% Max In Bitcoin. 'Pretend You've Already Lost Your Money'",
+      "headline": "Why Gold Is Winning Over Bitcoin in 2025: Liquidity, Trade, and Trust",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nNUJqVmRWYXR6WWQyZF9ucGpsLWJSeFBvVFlDTW5wYnJPZDBXcHUwejc4bUhVZDNiNkFWY1lFNGdDSTAxbWUzRmIxRU9UR0lzUkZFSnVPc3dVckVqc3l0YnozakhMTmxRQmdqdUktaW9BWElMQzZEZ3lPNHc?oc=5",
-      "pub_date": 1764520270.0,
-      "article_url": "https://finance.yahoo.com/news/shark-tank-star-mark-cuban-163110708.html",
-      "image": "https://media.zenfs.com/en/Benzinga/99bee950a7c16331032f9c6e0d6f6abd",
-      "description": "Who doesn't want to wake up a little\u2014maybe a lot\u2014richer? Back in 2017, billionaire entrepreneur and \"Shark Tank\" star Mark Cuban laid out a no-frills playbook for building wealth. His nine rules, shared in a Vanity Fair video, were exactly what you'd expect from someone who turned sweat equity into a billion-dollar payday: live cheap, build a cushion, avoid credit cards, and never stop learning. But one rule still stands out today for anyone with a high risk tolerance and a gambler's edge. Don't"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOHpwS2FCQjZMT09WajM2eU1XQ3dObXAyT2tJS2FQdVhtNEVjQ1ZHVHZLZ0huMmZxOHlaYW1PclZDUl9FalZ1Y09KTVhOYjM5d3Mza0NVZE9ucVFldEI4QS1jLTZWT1lHZG8wTEZJMnZjdkxJQUFOQ1ppcTR4TU1udw?oc=5",
+      "pub_date": 1764421200.0,
+      "article_url": "https://finance.yahoo.com/news/why-gold-winning-over-bitcoin-130000327.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/g6679zNX2tohlN3Kaq.uzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/coindesk_75/0b90e3e30c11dc57ccb8a071e0d225a0",
+      "description": "Despite ETF hype, central banks and asset allocators continue to choose gold over crypto for reserve and trade purposes."
     },
     {
       "headline": "Bitwise Analyst on Bitcoin: 'You\u2019re Not Even Remotely Bullish Enough'",
@@ -45,6 +45,16 @@
       "description": null
     },
     {
+      "headline": "MicroStrategy Admits a Bitcoin Sale Is Possible\u2014Here\u2019s When",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWlI3TlFnVFBoX2dEay1UT0R3Nzl4VlZrYUFjNlZpVDJhV3F2TTlWTll1ejBRSk1ZbWE0MlZXZEdLVmlJeTd0NVFYWnR5dl9QZ3RDSWwxaDROWWRLSkZWVm15NDNHNnBJQ2dBWFpmRDRwcjBVOFp1TXpmNXphOVM3MVpBVWVwSmwzQ3BuTnNnRVJpQQ?oc=5",
+      "pub_date": 1764525701.0,
+      "article_url": "https://finance.yahoo.com/news/microstrategy-admits-bitcoin-sale-possible-180141373.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/b8ufJl_iWe9wumvmLaV6Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/a8798a658c000d77bfc6d5492b55a286",
+      "description": "MicroStrategy CEO Phong Le reveals a hidden Bitcoin-sale trigger tied to mNAV and liquidity stress. A shift from \u201cnever sell\u201d stance?"
+    },
+    {
       "headline": "21 Rules of Bitcoin",
       "source": "x.com",
       "source_url": "https://x.com",
@@ -55,34 +65,24 @@
       "description": null
     },
     {
-      "headline": "Strategy Insiders Kept Buying Preferred Stock as Bitcoin Price Slid",
+      "headline": "Bitcoin Climbs to End Terrible Month for Cryptos. What History Says Happens Next.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOZ2gtcHRhTFQ0ZGV6ZVljcE5RekJuTm12NzQzdTE4X0lsTmVJTk0tdTl2YS1FbUpYa3BaZTQtZm9KWmJ5MURVUGU2RkRLOGFEMWMtbVVSZWdxbVFYMS1jZG8xNG1iNkV4b1F2YThhY25zREJ0TEFPU0RUdVJmN2R5bk5QOFVlejNIbFZJMTVIWEs2OE9tcWV1cjV6OU5lQWlVTmR4WkNpeW0wRjlVS1hra0dNQzB4QklyVnhkbXlLeXNsbEl0OXhMWnlFZU5lLWRYcnhGVjQ2eG0yeHlWbE9vSlBwWU1qSlN3OExnUGVHUjlqSjVRelQ1TUxDSFZVUERPSW1oRG1vYmZvT2RVcVpZWGM3WVpkTEV5V2lCUTlfWTFQbHpBUVdRUVA1QXVkRWNPV3AxNFJQM2tpUDRzWmZJMmFkaWtXS2RBSkZ0bEdLajBvenZOcHlMa3kxYWpObWhydzdiU1RLS1J5Y1RrbndySlBHTVdXaDF1QUh0QU9qTGRPaFpI?oc=5",
-      "pub_date": 1764487800.0,
-      "article_url": "https://www.barrons.com/articles/strategy-insiders-bitcoin-buying-79756b79?gaa_at=eafs&gaa_n=AWEtsqff73uJ_KmoKzfrEyDZdT9YNPs4sI4EespTJAGaUncA0UFI9l8QgfMS&gaa_ts=692c9e9c&gaa_sig=-MIrxkDpQoRBpAYl5LfiE-pMlGlrOk15lMLXtS2k7KP36px9Xwb3lGoMT1JdLdtwDsluGp-9oAIt8shuZ5XhGg%3D%3D",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNQmFzdnd3QWZwS1c3dW1ZeWNMMkJTZzRFeG54dW50ZURLRk5QWXpxV1YwV1JaM3N1Vl9OWGtOclZrMEdkbUVGV2Nsdi1YWUpWb1BtSllIRENrUEJVLWhVWDZyNDdFeG9NWUVuaHBXS1Mya1FIeVZrX18yUW5KajY4UHp2NWlTcEt3RWtMV0RsSzhFUDRoU1FfeWY2c1R2cWNoUlpJYTdTWkVXMnhfYU8xZENKbUJyWjNOYVlOMVI2ZzFlNGR5bWFMUVIzZ0FlaDQxSkhFdk5TSUNDMGRjb3pZYUpCR0hYejB6ZmNWLTVJVWx6Z3dHRkJWbG1waTBueEhRaXZUUWZVV1ZOSG80NEw5dWhfX2ptYzh4V3hEX05OSlBCTWVlaDR3Umtmanc1ZHJpQlptT09rT1dmbVZkLWJWbWtnekQ4TDRsS1Y5X01kdFM2UlEzTlpLMENJdU1Nd05VQk5sRlJITmhnemFwTU05bHpWOWRvZWlBZXA4QmFxdWRZOWdqN0R3RVpWWFBrZw?oc=5",
+      "pub_date": 1764335760.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-8cc13d60?gaa_at=eafs&gaa_n=AWEtsqdwx8_n1ZGQiEDhEy5yaI2DSe3CfeaHXJL7iiC18SrtZU-s2hY6TkGx&gaa_ts=692ca979&gaa_sig=Dqr3ARPnQdfw9_jL_hqzkNKFlKUBWmidmDGLAOxHPzDCMZv2xr4y-x4V-sW11UuyBUPnh5Q98cJsAQUl0Ls9eg%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Michael Saylor's MicroStrategy moves billions in Bitcoin",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVFZDWWlYdmZZN3RXU1ZTQVdOdTdEbzZOcnB3ektrZnNGZjlVMHdJQUhEeUwweHM4cHJ1RUhObG9fVmZibDgtM0JIT3QwM25tRDFMdGpvc2FMZWhGUy0yQlA3MURUUVhaZUNNOGpSSFVhbWJQQU1sV3lQZUdUVFpKR1M1M0w4NHRYMnBsZkRBSkY4blhHZFpLSjhBOEQ?oc=5",
-      "pub_date": 1764356450.0,
-      "article_url": "https://www.thestreet.com/crypto/trading/michael-saylors-microstrategy-moves-billions-in-bitcoin",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Strategy (MSTR) CEO Says His Firm Has 'More Flexibility Than Ever' to Keep Buying Bitcoin",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTjJaVTZ5SHZtN3lqVnR0ck0zb296VWZBdk9BRTd5UkJheUt5X0p6VEs3ZEhYSmJ5UllWUk5SWlBkelA1T2tIODI0NlFXazZKb1J0c0RvMWNjZzhtdEFmRjIxT1BRUTViMVVGRW0ybUdmNFF6VUNZVW4xZlZkLWdvai1LTThpWktqNXFTVTBJdGk3SVlNd2tNZXdJYjVPaUtwSXlHa196a2FVZ1A1c01CT2hrYWYyTFE4WF9SMkdPUjhjX3pEdHc?oc=5",
-      "pub_date": 1764440106.0,
-      "article_url": "https://www.coindesk.com/business/2025/11/29/strategy-ceo-equity-and-debt-flexibility-power-long-term-bitcoin-accumulation-plan",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/39980a370e79fb6757a4592dbc1af759fccf2a32-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "Strategy\u2019s CEO laid out how the bitcoin-heavy firm can keep accumulating crypto, even amid shifting market conditions."
+      "headline": "Opinion: Bitcoin is now the barometer for the buckwild U.S. economy, and it looks bad",
+      "source": "The Globe and Mail",
+      "source_url": "https://www.theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTHJTSG00aHdiY2hMWWRiT1pfQ0VaaGYwdkNHQjdEZkxiUmFNaUE2VU5Od0Z4MEpwNk54ck56RzI4ZWtEd192bF9HVnN0azZIT3RYUXBiNjYxYm5OalUtUkNYQzRPYzZrUjkzS2tCZHhEaDlENlVydk9ncVRsNjBXWXZjZldYRFV0MDBuT3Q4UzJzYm1pY1VIQktvQmtBeUZzaWxTWEFlLTN6WS1KSHNKNHF4MWFuZjdLelVJdDlPbk1zVm80LWc?oc=5",
+      "pub_date": 1764410400.0,
+      "article_url": "https://www.theglobeandmail.com/business/commentary/article-bitcoin-is-now-the-barometer-for-the-us-economy-and-it-doesnt-look/",
+      "image": "https://www.theglobeandmail.com/resizer/v2/PFVA5JTNDJFNTKJQFNVHZRDBLY.jpg?auth=18c50b3034ef23f4f9f3f64d081246543c7c3f53afbd19c8209c457ea0e27451&width=1200&height=800&quality=80&smart=true",
+      "description": "The next Fed Reserve rate-setting meeting could offer a signpost to bitcoin\u2019s performance in 2026"
     },
     {
       "headline": "Veteran fund manager says Bitcoin looks like Google in 2017",
@@ -95,16 +95,16 @@
       "description": null
     },
     {
-      "headline": "Bitcoin set to rally back to $100,000, BTIG says",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjZmS1ZfcTREb0pEbTM1WHRZQ0UyUldmS0h1b2d2eFIwcmZBNG9fTjJYQVBKT0RaSlJIQU5DNnFlaGJqSEE3RngzaG50b1JzcXBCdnJ3clBtZHBQbU11eHgwOTVud3dTSDJHc2Y3bUtxdnFVRFRqNWV3T3UwNzJ5VVRyc3VmLTJranc?oc=5",
-      "pub_date": 1764339461.0,
-      "article_url": "https://www.cnbc.com/2025/11/28/bitcoin-set-to-rally-back-to-100000-btig-says.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229960-1763739030339-gettyimages-2244475103-omarques_03112025_tech_9_of_15.jpeg?v=1763739082&w=1920&h=1080",
-      "description": "Bitcoin is trading above $90,000 again, and the token could soon reclaim its $100,000 level, BTIG analysts said in a recent note to clients."
+      "headline": "Crypto hoarding company shares under pressure as risk appetite wanes",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlo3NW9teTJCQnFiZDZNMnVYb3FiaU1rNHJjMHNuemU0UnduV0dUT0J0VlpkVE1QcnZTTGRMbVZTMTIxUWp6SW03MWlCTWotS0hpVVZGMGxxWkllMmhlc1BSMGFoZDRmRE1hWkdFbEZZaTIzNHR6ck9ZZ0x2ZktVM3haNEVqLXljanlwVU5Id3ZjWUFUYkFyX3ZxUXNUTVFHYnFXcGRqcThqY0ZsTTNJeHAtWm1XUHJYYWc?oc=5",
+      "pub_date": 1764326148.0,
+      "article_url": "https://www.reuters.com/business/finance/crypto-hoarding-company-shares-under-pressure-risk-appetite-wanes-2025-11-28/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T19:30:10.004424+00:00"
+  "fetched_at": "2025-11-30T20:16:10.861059+00:00"
 }
