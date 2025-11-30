@@ -73,7 +73,7 @@
       "num_comments": 3,
       "published_at": "2025-11-24T12:59:59.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/HunyuanOCR",
-      "github_stars": 774,
+      "github_stars": 810,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-30T08:22:24.273229+00:00"
+  "fetched_at": "2025-11-30T09:32:42.466958+00:00"
 }
