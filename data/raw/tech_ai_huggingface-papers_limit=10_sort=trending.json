@@ -16,7 +16,7 @@
       "num_comments": 1,
       "published_at": "2023-06-14T11:18:48.000Z",
       "github_repo": "https://github.com/nlpxucan/WizardLM",
-      "github_stars": 9463,
+      "github_stars": 9465,
       "project_page": null
     },
     {
@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2511.18423",
       "arxiv_url": "https://arxiv.org/abs/2511.18423",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.18423.png",
-      "upvotes": 145,
+      "upvotes": 146,
       "num_comments": 2,
       "published_at": "2025-11-23T07:29:33.000Z",
       "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-11-30T15:22:46.696810+00:00"
+  "fetched_at": "2025-11-30T16:32:34.285555+00:00"
 }

@@ -5,32 +5,12 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "21 Rules of Bitcoin",
-      "source": "x.com",
-      "source_url": "https://x.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5NHFLOXVTbnR1SGd0TkNtZVp2NDFaY0Z3V3h2dnExeHhkUVQwYy1sRDVoNXoyMTY3THJGSWVrOXgweDk5a2NNZjNfekNMY1pldm1wNDQxQWE2d1k?oc=5",
-      "pub_date": 1764423803.0,
-      "article_url": "https://x.com/saylor/status/1994764128901370349",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Strategy (MSTR) CEO Says His Firm Has 'More Flexibility Than Ever' to Keep Buying Bitcoin",
+      "headline": "Bitwise Analyst on Bitcoin: 'You\u2019re Not Even Remotely Bullish Enough'",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTjJaVTZ5SHZtN3lqVnR0ck0zb296VWZBdk9BRTd5UkJheUt5X0p6VEs3ZEhYSmJ5UllWUk5SWlBkelA1T2tIODI0NlFXazZKb1J0c0RvMWNjZzhtdEFmRjIxT1BRUTViMVVGRW0ybUdmNFF6VUNZVW4xZlZkLWdvai1LTThpWktqNXFTVTBJdGk3SVlNd2tNZXdJYjVPaUtwSXlHa196a2FVZ1A1c01CT2hrYWYyTFE4WF9SMkdPUjhjX3pEdHc?oc=5",
-      "pub_date": 1764440106.0,
-      "article_url": "https://www.coindesk.com/business/2025/11/29/strategy-ceo-equity-and-debt-flexibility-power-long-term-bitcoin-accumulation-plan",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/39980a370e79fb6757a4592dbc1af759fccf2a32-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "Strategy\u2019s CEO laid out how the bitcoin-heavy firm can keep accumulating crypto, even amid shifting market conditions."
-    },
-    {
-      "headline": "Michael Saylor's MicroStrategy moves billions in Bitcoin",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVFZDWWlYdmZZN3RXU1ZTQVdOdTdEbzZOcnB3ektrZnNGZjlVMHdJQUhEeUwweHM4cHJ1RUhObG9fVmZibDgtM0JIT3QwM25tRDFMdGpvc2FMZWhGUy0yQlA3MURUUVhaZUNNOGpSSFVhbWJQQU1sV3lQZUdUVFpKR1M1M0w4NHRYMnBsZkRBSkY4blhHZFpLSjhBOEQ?oc=5",
-      "pub_date": 1764356450.0,
-      "article_url": "https://www.thestreet.com/crypto/trading/michael-saylors-microstrategy-moves-billions-in-bitcoin",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaHNfQmlHeXRvVzlpeldwZHhwdmYzRU1IZU5LWTlhUmNNc2dsYk01M1dDb21VYTJjeGpqazBMc19qUG9nbVgyN1B4S0tqcHM3elAxZmlmZ1MxcTlEaTVESmlDZUVocG9uSFgyaFBCWTB4MFZveUpRVkRrWlZWeU5xVUdmdUNDVE9kY3ctclpXR0d5WVlkQ29mLWxDUkpVY3REQmdINEFFZExuZXJBSlJidVhSSkNNYi1HWVE5THhwcWtHX0Fha1dWZ2w4NkdSN3Q3WVo1MzFLbw?oc=5",
+      "pub_date": 1764433125.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/29/bitcoin-pricing-in-most-bearish-global-growth-outlook-since-covid-and-ftx-crash-bitwise-research",
       "image": null,
       "description": null
     },
@@ -55,56 +35,76 @@
       "description": "Bitcoin's price has shot up more than five-fold since late 2020."
     },
     {
-      "headline": "How Bitcoin Could Help You Retire a Multimillionaire",
+      "headline": "Russian investors flock to Bitcoin, Ethereum funds as crypto adoption gathers pace",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHpzQWwyQ2xYSkRzYk1mVEEyNGNMZUtoLUVCRmVTQTYwQkNieUFQZGVXMUg2OTd0M0V4Nlp2WDdOTWxwNzBneGFsWldpYVVTanlWemZpT19zX1pZVGdBbjZZRXdTTFBGT0c1Mk5lZ3pXTnNXU2N3cVdmQ0k2MTJ0WWJ5bmdwa0wzeHNlT2RNcHlydw?oc=5",
-      "pub_date": 1764508740.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-could-help-retire-multimillionaire-131900721.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/0bhiz5kJop6h9GJ0pqX7xw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/8847f8255fb5af04c96cd5b48b32d6cf",
-      "description": "If history is any guide, now is no time to give up on Bitcoin."
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaDNGalNTc0VzYURYZW5lRWtXTHItd0FIT3E5VXBNNmh6dTdnb3FOSVIxUTFrMTNrczVFMy02c1JHRENjTU9oekc0T1hzYmI2a1d3YV9RdW9Bb21iZGJETUVvNmVSZnZUUFFDMm51UlA2MDhnY2FTVW5sdE1CVS1UazNNT1V1cXBhOTR1a0lvTQ?oc=5",
+      "pub_date": 1764513552.0,
+      "article_url": "https://finance.yahoo.com/news/russian-investors-flock-bitcoin-ethereum-143912519.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/hq3Rdrsc6qfeQhLm6H9X1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU-/https://media.zenfs.com/en/dlnews_702/0c081dcfcc052285c5c5a56016f4993e",
+      "description": "Russians spend over $27 million on Bitcoin, Ethereum funds since June-July launch. Funds are operated by Moscow Exchange and based on BlackRock ETFs. Central bank \u2018unbothered\u2019 by sharp rise in popularity."
     },
     {
-      "headline": "U.S. Investors Are Buying the Dip as Bitcoin Hovers Above $90K",
+      "headline": "Is the Bitcoin Digital Asset Treasury Model Broken? Architect Partners Says No",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVC1xTVFTaEZRU1NNTmhXMjdTYzE0emYzUkstNjRPOTNnVThudXI0OHM4TWtxSTZWZ19STWZ1VDJXZGlSWXR6N2g5SVFpV05NSHhNQmhBZGpzblJIdk5SdC1LVEpoSzlqWkpjUFpLNzByYWVEMjllNktZN0czRUx1Rjdn?oc=5",
-      "pub_date": 1764508779.0,
-      "article_url": "https://finance.yahoo.com/news/u-investors-buying-dip-bitcoin-131939276.html",
-      "image": "https://media.zenfs.com/en/coinspeaker_us_106/b637dd14b26d93008ba5d55d684cd693",
-      "description": "Bitcoin (BTC) rebounded above $90,000 over the past week, as extreme fear sentiment and US capital flows showed signs of improvement. On Nov. 21, the BTC price fell below $81,000. With the recent shift, the asset is trading close to $91,000 at the time of writing. According to data provided ..."
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ2pyY1l1Q19ULTVNY2ItS1NIYndLLWZJaUdFQlNINi14UUJKTU5RU2JaYmEzcjJqeXZBUFhrcFNWb2V2WGRQYlh2emRhcjZpMkRmZG1PSTRWQUJBOEZpV01QU3ZyWFpfS0NkYTVKcWFxalJaNVBXT1ZKcXJsNEZzQ3VIMk16ZFV5NFE?oc=5",
+      "pub_date": 1764511200.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-digital-asset-treasury-model-140000377.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/l6DNVPLZ7fpy3hmcznrjgw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/coindesk_75/62da1fbac3e56733895040f213db8bc2",
+      "description": "A sharp market pullback has exposed which BTC-focused public companies can actually execute, and which were never built for volatility."
     },
     {
-      "headline": "Bitcoin Climbs to End Terrible Month for Cryptos. What History Says Happens Next.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNdDd3NVVZSUlaSnhuNWJBa3NidmtXdVpLUFZLdGRrcGVkNnF1T2VFWVZuanhpNG4zSWdXc0swSzlpTVV4SmxLV2FoMmdIVkR6UGlpSnotNDFYc1Vld3Y5UHczYTVrTjBkV09HU2hqMVMyRXIwcURiTElhd3pETFdLbHljQnduRjJOSW5lbVA2NEF0TnN3UXlndEtXdGZQOGtPV044b2lOOXVDUkVkMG10RExGa05jd1Y3aFZzeTRhbVVuSmRub2lvNmNHNFFhMjd6bUk2TlZaYnFlLVBYZGtwQlVKSXhNSm03MFY2cndSTDBZN0dFRC1iTG44V1U1aThJR0FKTk1PN3ppZHdCcG1ITVBPM2tkRF9uOHZrX1FoTERwbHlRU2RFbUdZd0Rla2xGdTJENFZuVmxFYXlLU0taN1I5cWJTNXpwNFFfazc1UTRiSU04MHQ3cnlLSFJsM3lRRDlmM1B5TFJ4YnFSU05vZVRRSUtvWTVGRi1Uc1BBY3BQZjBOblJpWnctTmVfZw?oc=5",
-      "pub_date": 1764335760.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-8cc13d60?gaa_at=eafs&gaa_n=AWEtsqcxke5cajyYtOIII1wtY5GYAMaOi2pui-af81ONtSd5XOqYfSJ17q8O&gaa_ts=692c6d2c&gaa_sig=ijJWL0IRwB65MjK8JkdrziRJj6nePRgYeLollSYFqrdzRGLPDpjDWL6EoIY0Y6iivYdQcYz6mWmhGK6SH1muCg%3D%3D",
+      "headline": "1 Reason I Will Never Sell Bitcoin",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcmhqX3ZSZDdlVEgxTm5xdDN5V3VITHhEc3VLSl9pdXpiVlN1dGZqb01Dck14cnZhaTBiVllYSjNORWxZTVZOQkYtQ0J4V0VqZlczeUdOQ01XSktKcU8tblZDTnRMUjRCTWFRUVBJb1YxS2lUNHdSbTA4R1lNMjRzMQ?oc=5",
+      "pub_date": 1764454200.0,
+      "article_url": "https://www.fool.com/investing/2025/11/29/1-reason-i-will-never-sell-block/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F842961%2Fgettyimages-2227814466-1200x540-cbfad9a.jpg&w=1200&op=resize",
+      "description": "Bitcoin has one advantage no other cryptocurrency can match."
+    },
+    {
+      "headline": "Spot bitcoin, ether ETFs recover momentum with first net-positive inflow week since October",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV21KYlA4OTlIempnWVcyaXBwTVlUZHJ4VUVTckozNnA2YXViYlptMWJjRkhkZEw5V3dsanVRbTNKNmphNFM1amFOTzR5QVl6WVlVMEVkTXByTl9OSEdQQkdJUHpZNzB6cDNXMV83REJhRkhFTnF2N29pRDItY1JudDJ4MUd4dE9tWkpTV0RzYWI2NEFzdTBVVUROZkRKMFZ1RE5zXzBjWGJqamJYM1FNOXctWm1PanFxSThJWG9xajlrbllt0gHKAUFVX3lxTE5Dd3BXdWFrWWZVaXduUUdGakw0dEJFajVycV9qU2lBc3VFLVdON0R4VXlPOTd2VnJEWFBWb2VxTm9JUHFYN20welpEYzFXTGdRbE9CSWpzSkx0czhqTXBiWjEteDlFc0E4dm1NSk04dmZ0Q3ZaWFdVaGk4MlBvVXkzQTlQS0ozN2EwUEQ0MDRvX1FKcWJ2bTk2SW9hRjc2alJPVXZJQnRZb2xLLU9ENzhRaU1FWEphS0V6Q2NhSWEyYjBjSWtMRTFKdWc?oc=5",
+      "pub_date": 1764441419.0,
+      "article_url": "https://www.theblock.co/post/380806/spot-bitcoin-ether-etfs-recover-momentum-with-first-net-positive-inflow-week-since-october",
       "image": null,
       "description": null
     },
     {
-      "headline": "Veteran fund manager says Bitcoin looks like Google in 2017",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR1ljU3lmM085MmVaTEpLNjFhTWwzYk1wTzRwTDRObTlMVk9VTmNkbHVpNXJfbDFsdG1xUGg3QS0zUVN3cXQxbDVPUTFYRG45dnFONEZaN2xsOFN5MndSc0dwUDJxWDF2RlU5ZXlKakllcGVXYU9uVWpZb3d2ejAxbm1leHE5ekZkZEp2SS1DRXhLMVdRdWRkLXRGdw?oc=5",
-      "pub_date": 1764341136.0,
-      "article_url": "https://www.thestreet.com/crypto/trading/veteran-fund-manager-bitcoin-looks-like-google-in-2017",
-      "image": null,
-      "description": null
+      "headline": "Stablecoin Giant Tether to Shutter Uruguay Bitcoin Mining Operation",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaE1uaGcwSG1HWklKeE1OQ3FJdS12ODl4dDc3UWRQX1hqbmxhZlQ0ei1paV8yLWNVRUdOMlh4Z3RLRDFoTHdubmVIV2Eyc3l6bVAwZ04yeUc5UDI0MzVDSEdnOU5BenlGQ3pidkRuWjE3akNBS3I3eEVGVWwySktZSU00V2U3ekFoNG9qNlRyRk9rcUgt0gGcAUFVX3lxTE5zRXlCTHVUSUNFb2EyaG54dUZJaEQwcDF3Q3M0eUpsOVV3MUtKeGNVMkVOdENha1NrOXZ2bUxadC1KVnoyLUgyQVdlYWJBdEUwb1dFQWxDYVd1NUZjRkNVblBOTTlGekxOd3VsS3lkZk5EZFloUFo3TkdGaklsTnExYXlwRWdkLWNuN00zQW1XZVVycjA5U3M3UFZKdg?oc=5",
+      "pub_date": 1764194387.0,
+      "article_url": "https://decrypt.co/350360/stablecoin-giant-tether-shutter-uruguay-bitcoin-mining-operation",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-conf-paolo-ardonio-tether-decrypt-style-gID_7.png",
+      "description": "USDT stablecoin issuer Tether is halting its Bitcoin mining operations in Uruguay due to high energy costs, local media has reported."
     },
     {
-      "headline": "Bitwise Analyst on Bitcoin: 'You\u2019re Not Even Remotely Bullish Enough'",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaHNfQmlHeXRvVzlpeldwZHhwdmYzRU1IZU5LWTlhUmNNc2dsYk01M1dDb21VYTJjeGpqazBMc19qUG9nbVgyN1B4S0tqcHM3elAxZmlmZ1MxcTlEaTVESmlDZUVocG9uSFgyaFBCWTB4MFZveUpRVkRrWlZWeU5xVUdmdUNDVE9kY3ctclpXR0d5WVlkQ29mLWxDUkpVY3REQmdINEFFZExuZXJBSlJidVhSSkNNYi1HWVE5THhwcWtHX0Fha1dWZ2w4NkdSN3Q3WVo1MzFLbw?oc=5",
-      "pub_date": 1764433125.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/29/bitcoin-pricing-in-most-bearish-global-growth-outlook-since-covid-and-ftx-crash-bitwise-research",
-      "image": null,
-      "description": null
+      "headline": "SEC Commissioner: Bitcoin Self-Custody Is a Fundamental Right",
+      "source": "Bitbo",
+      "source_url": "https://bitbo.io",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZZVJLTS1ERnVwVWg3N2dfTWd1bHFKM3NmcTBxUWoyeWttclpoM2llckRBeHRDR1FRZmFGbG01UU9fM0x3ajNwbjNueUlqc3ktSVZ4cXJCNWViS2R3M1U0LU1VOEw?oc=5",
+      "pub_date": 1764465911.0,
+      "article_url": "https://bitbo.io/news/sec-peirce-bitcoin-self-custody/",
+      "image": "https://bitbo.io/news/images/us-securities-and-exchange-commission.jpg",
+      "description": "SEC Commissioner Hester Peirce emphasized that self-custody of assets and financial privacy are fundamental rights, even as more Bitcoin holders shift to ETFs for convenience and tax benefits."
+    },
+    {
+      "headline": "Strategy will sell Bitcoin as \u2018last resort\u2019 if mNAV drops, capital is unavailable: CEO",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWWRScE5QUk9HalFra21rU0Z2dFQzTDU2bEdZSTVsR2ozRi1WNzJJT1llM2Y0cG9DbzQzZGZGWGt3SGozNmhVTUphRGh6ZUdKMmlOdXFCb2F5ZVNFdmtYMmJXNnNkaW05eW8zSUtsbFJPUm01cm9yUkV5RUw4Y2NyN3I2M2Mxb1Fpd1NBMldaZ2hXN2Y2a3d6QjhfdV8taURQQVdscTNRdnNLYUxjZ1ZvdWp4Y3ZLV19QNHM0cTd2cWl3c2lvbGNZaG1yUENYc0JQYUhaUmdRS0lNaHltdi1z?oc=5",
+      "pub_date": 1764497606.0,
+      "article_url": "https://www.tradingview.com/news/cointelegraph:46d735611094b:0-strategy-will-sell-bitcoin-as-last-resort-if-mnav-drops-capital-is-unavailable-ceo/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Strategy would consider selling Bitcoin only if its stock falls below net asset value and the company loses access to fresh capital, CEO Phong Le said in a recent interview.Le told the What Bitcoin Did show that if Strategy\u2019s multiple to net asset value (mNAV) were to slip under one and financing o\u2026"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T15:58:53.930303+00:00"
+  "fetched_at": "2025-11-30T16:32:55.912562+00:00"
 }

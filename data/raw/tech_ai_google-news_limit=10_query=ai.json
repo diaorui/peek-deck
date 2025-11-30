@@ -25,16 +25,6 @@
       "description": "Steven Mintz says identical AI essays aren't a scandal but proof universities must reinvent how they teach and measure real learning."
     },
     {
-      "headline": "\"Avatar: Fire and Ash\" director James Cameron on generative AI: \"That's horrifying to me\"",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMG9jRjNqdG0tSE9IOTM4Vlc3SmpaSVBtWktYME9GWWFBY2lhR1ZGQ2lGUFVPcWJ6dmZuVk1jckRScklDa2tlUzRFbEtaQURhN2FvMjFOLVg3ZW96cXdXTTktVUJnVzUwN1NzcXBUS3pzODBUSTV6VkRiMkJJckhHZmNjRzZMTzNTWVV3NVZMemctdmtEUjhLSy1kUkgtVkM5WDRnUnNRMHVnVWNiMkZ3ZmJn0gG3AUFVX3lxTFBtbFhNSVNsSHluckxxcWxXWGFwRU8tLW9EM0RzYW1PcUU4MXZ0Z2lYYkhqYXNDakFjb0J0QlRXRXpPaUU0aXBCUWttWjVTZS1jYUtNbFJLV0ZwWnFDSFBONHJMZ2Vldjd0eWI3cGZMZ0c5MDNzTTRlX1pJeDdNV19Wb0xFTFd5Uzh5YUlQWUk4WmRaaFZ2MklUdEptanpVRjlKblE2OC1odWlGd2NHSGlSSFhBRzV5VQ?oc=5",
-      "pub_date": 1764515656.0,
-      "article_url": "https://www.cbsnews.com/news/avatar-fire-and-ash-director-james-cameron-on-generative-ai-thats-horrifying-to-me/",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/11/30/1f3f25df-757c-4d92-b790-5ef3836244b7/thumbnail/1200x630/1963e5ec25e44cfc200b391faff1b19a/james-cameron-on-set-of-avatar-fire-and-ash1280.jpg",
-      "description": "The \"Avatar\" director, who uses performance capture to help create fantasy characters, has consistently raised the level of movie visual effects. But James Cameron believes using artificial intelligence to create a character and performance without an actor is \"horrifying.\""
-    },
-    {
       "headline": "Google takes action to crack down on misuse of AI",
       "source": "Fox News",
       "source_url": "https://www.foxnews.com",
@@ -45,16 +35,6 @@
       "description": "Google CEO Sundar Pichai joins 'Fox News Sunday' to discuss the risks of AI innovation, the crackdown on misuse, the future of the technology and more."
     },
     {
-      "headline": "Colleges Are Preparing to Self-Lobotomize",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVNzSGpjUGpfekZmX0JpY3BHQU1KbkJQNE05Qk81Vi1WT3BIUHpScGx2enprZ1U2dDUweDF0MVRpc2RnRkdPM29HYUVWZWtqd1o0ejloZ242blVGY2lJQ1I1TEhweDd4Umk4bHlwb1ZKX1N3aGpXdnNBRXVaY0NYMUt1N3pLSTA?oc=5",
-      "pub_date": 1764417600.0,
-      "article_url": "https://www.theatlantic.com/ideas/2025/11/colleges-ai-education-students/685039/",
-      "image": "https://cdn.theatlantic.com/thumbor/DuI6ztNIdIeKfaY9I8NIsyHiw8U=/0x61:2876x1559/1200x625/media/img/mt/2025/11/2025_11_AI_school_/original.jpg",
-      "description": "The skills that students will need in an age of automation are precisely those that are eroded by inserting AI into the educational process."
-    },
-    {
       "headline": "AI\u2019s safety features can be circumvented with poetry, research finds",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
@@ -63,6 +43,16 @@
       "article_url": "https://www.theguardian.com/technology/2025/nov/30/ai-poetry-safety-features-jailbreak",
       "image": "https://i.guim.co.uk/img/media/d1e92f8f9cdcdfaecedbb1a022ae3002a5f6b9c3/0_591_2832_2264/master/2832.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ef641cf144176dd005591011786ae62",
       "description": "Poems containing prompts for harmful content prove effective at duping large language models"
+    },
+    {
+      "headline": "Colleges Are Preparing to Self-Lobotomize",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVNzSGpjUGpfekZmX0JpY3BHQU1KbkJQNE05Qk81Vi1WT3BIUHpScGx2enprZ1U2dDUweDF0MVRpc2RnRkdPM29HYUVWZWtqd1o0ejloZ242blVGY2lJQ1I1TEhweDd4Umk4bHlwb1ZKX1N3aGpXdnNBRXVaY0NYMUt1N3pLSTA?oc=5",
+      "pub_date": 1764417600.0,
+      "article_url": "https://www.theatlantic.com/ideas/2025/11/colleges-ai-education-students/685039/",
+      "image": "https://cdn.theatlantic.com/thumbor/DuI6ztNIdIeKfaY9I8NIsyHiw8U=/0x61:2876x1559/1200x625/media/img/mt/2025/11/2025_11_AI_school_/original.jpg",
+      "description": "The skills that students will need in an age of automation are precisely those that are eroded by inserting AI into the educational process."
     },
     {
       "headline": "More of Silicon Valley is building on free Chinese AI",
@@ -103,8 +93,18 @@
       "article_url": "https://abcnews.go.com/Technology/wireStory/ai-assisted-shopping-talk-holiday-shopping-season-127976859",
       "image": "https://i.abcnewsfe.com/a/1b595f64-f4ca-43c6-b715-bb7d1bde3c41/wirestory_0722dce44b4a479ec4ce476bbd15dfa9_16x9.jpg?w=1600",
       "description": "Major retail chains and tech companies are offering new or updated artificial intelligence tools in time for the holiday shopping season"
+    },
+    {
+      "headline": "Leave me alone, AI",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QY1dXaVJDRy1DWTlabnV5TmpBMUdWTGNid2hrYl82MjhtalJ5Q1U5RUNGUkNlbnFqN3E2MG91RzlxMnA0NU1mODJndFlWN3J6QjJrNk81Vk5oLXVZaHZQRDlLYTNRQWNnSnp1UWFDU0s?oc=5",
+      "pub_date": 1764478843.0,
+      "article_url": "https://www.ft.com/content/1e93adc5-4186-4775-a289-d684865da2ce",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F96cb3133-9ced-4cb3-b839-7434d5e4194e.jpg?source=next-barrier-page",
+      "description": "If I wanted your tedious advice on how to do the simplest thing online, I would have asked for it"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T15:58:51.673229+00:00"
+  "fetched_at": "2025-11-30T16:32:46.511752+00:00"
 }
