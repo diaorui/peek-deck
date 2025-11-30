@@ -13,6 +13,17 @@
       "description": "This is a strictly engineering-focused question \u2014 not about long-term predictions, consumer markets, or sci-fi use cases. Humanoids are getting a lot of visibility lately (Optimus, Unitree H1, XPeng, Atlas, etc.). It made me curious about the actual engineering trade-offs when the target environment is a typical home. From a design and controls standpoint, the two approaches seem to have very different constraints. Potential engineering advantages of humanoid designs: \u2022 human-height workspace \u2022 access to existing tools, handles, and switches \u2022 whole-body manipulation possibilities \u2022 able to navigate human-scale indoor layouts without modifying the environment Potential engineering advantages of non-humanoid mobile manipulators: \u2022 lower BOM and simpler actuation \u2022 fewer DOF \u2192 lower control complexity \u2022 wheels = far fewer failure modes \u2022 lower power requirements \u2022 easier to reach appliance-tier reliability \u2022 more predictable motion (pets/kids safe) You don\u2019t need to frame this in market terms \u2014 I\u2019m mostly trying to build a clearer mental model for ongoing work related to home-environment autonomy. A lot of current projects (mine included) are running into similar failure modes in manipulation, reliability, and task generalization, so I\u2019m curious how others here rank the practical constraints today. From an engineering standpoint, what seems like the real bottleneck right now? \u2022 manipulation robustness? \u2022 cost of reliable hardware? \u2022 locomotion complexity (balancing vs wheeled)? \u2022 or just the number of corner cases in household tasks? Would love to hear how people here think about current, real-world design constraints."
     },
     {
+      "title": "Unitree R1 & G1 are showing off their skills together",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1paftdv/unitree_r1_g1_are_showing_off_their_skills/",
+      "published": 1764501084.0,
+      "thumbnail": "https://external-preview.redd.it/cXc1NGg0MzNuZDRnMTKOMTlUNUyjQprjxN6HIAw27V_NWy5ur8MFKoBmAQ83.png?width=640&crop=smart&auto=webp&s=4a1f30ca47fba10e94b8c084358fef36e43d28ff",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1994820845311832267"
+    },
+    {
       "title": "Full-size humanoid hobot LimX's Oli walks over construction debris (standing 165 cm tall and weighing 55 kg)",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1p9lmwl/fullsize_humanoid_hobot_limxs_oli_walks_over/",
@@ -33,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey everyone, Just wanted to share a short clip of my DIY robot, BaBot, in action. It\u2019s taken a lot of trial and error to get it to move smoothly, and I\u2019m still tweaking things, but I\u2019m really happy with how it turned out so far. Would love to hear any thoughts !"
+    },
+    {
+      "title": "First live test of a laser-based local obstacle detection concept.",
+      "author": "Independent_Win_Alex",
+      "url": "https://www.reddit.com/r/robotics/comments/1pafmkr/first_live_test_of_a_laserbased_local_obstacle/",
+      "published": 1764500415.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "This is an early experiment using a simple laser grid as a local sensing field. The rover is currently on a stand (wheels in the air) \u2014 this test focuses only on the reaction logic, not on traction or motion mechanics. How it works (basic concept): When the laser field is clear \u2014 the system allows movement. When an object enters the field \u2014 the reflected laser points appear. Once the reflection threshold is detected \u2014 motion is stopped immediately. When the obstacle is removed \u2014 movement resumes. This idea started very simply \u2014 from a regular laser pointer and curiosity about whether laser reflection can be used as a local navigation and safety layer without LIDAR. This is not a finished product. This is a raw engineering experiment \u2014 but it already demonstrates stable obstacle detection and reaction. Next steps: ground tests tuning reflection thresholds testing on moving platform combining with other sensors Sometimes innovation starts from the simplest experiments."
     },
     {
       "title": "Nema 17 Gearbox for Robotic Arm",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "How do you get one linear actuator to extend while the other retracts via the same switch simultaneously controlled?",
-      "author": "NoIntern2903",
-      "url": "https://www.reddit.com/r/robotics/comments/1pa7ati/how_do_you_get_one_linear_actuator_to_extend/",
-      "published": 1764471173.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Robotics guys seem better versed in actuators than RC guys. I\u2019m trying to make it so my RC snow plow has dual linear actuators to angle it left and right, however this works best using two. One to retract while the other extends, and vice versa in the other direction. I currently have another actuator lifting my plow. This is controlled via my trucks only ESC/receiver and using an RC4WD wired winch controller to control the actual lifting mechanism from my spektrum DX5rugged. This is plenty of power to achieve this, even with the angle. However what control module would I need, or what would I need to make this action work? I\u2019d prefer to ditch the servo sooner than later for my angle operation just due to it being jerkier in nature with less stability and control. Do I need a whole separate ESC to control this via my current receiver? Two ESCs with mixing? I\u2019m kind of lost on how to achieve this."
-    },
-    {
-      "title": "RoboDK 3 diferent processes on the same piece",
-      "author": "Next_Bathroom1376",
-      "url": "https://www.reddit.com/r/robotics/comments/1pa0vpc/robodk_3_diferent_processes_on_the_same_piece/",
-      "published": 1764453160.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hello, I need a simulation in RoboDK, 3 robots each with a different tool, to perform an operation on the same piece consecutively. The piece passes by each one on the conveyor. The simulation needs to be simple, nothing complicated. If there is anyone who can help me, write to me"
     }
   ],
-  "fetched_at": "2025-11-30T10:38:51.221521+00:00"
+  "fetched_at": "2025-11-30T11:23:23.192680+00:00"
 }

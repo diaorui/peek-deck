@@ -101,9 +101,23 @@
       "description": null,
       "favicon": null,
       "site_name": "nytimes.com"
+    },
+    {
+      "title": "Show HN: I built Magiclip \u2013 an all-in-one AI studio",
+      "url": "https://magiclip.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=46086920",
+      "author": "kokau",
+      "points": 41,
+      "num_comments": 20,
+      "created_at": "2025-11-29T12:04:23Z",
+      "object_id": "46086920",
+      "image": "https://magiclip.io/assets/images/favicon.webp",
+      "description": "Magiclip - AI-powered platform for creating viral short-form videos, with automatic subtitles, AI voice generation, and social media optimization.",
+      "favicon": "https://magiclip.io/assets/images/favicon.webp",
+      "site_name": "Magiclip"
     }
   ],
-  "total_hits": 7,
+  "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2025-11-30T10:38:47.930365+00:00"
+  "fetched_at": "2025-11-30T11:23:19.747464+00:00"
 }
