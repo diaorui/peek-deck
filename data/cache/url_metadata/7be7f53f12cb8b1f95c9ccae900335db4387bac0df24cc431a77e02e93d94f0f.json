@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-11-30T18:56:03.863273+00:00",
+  "data": {
+    "url": "https://arxiv.org/abs/2507.22900",
+    "title": "New Kid in the Classroom: Exploring Student Perceptions of AI Coding Assistants",
+    "description": "The arrival of AI coding assistants in educational settings presents a paradigm shift, introducing a \"new kid in the classroom\" for both students and instructors. Thus, understanding the perceptions of these key actors about this new dynamic is critical. This exploratory study contributes to this area by investigating how these tools are shaping the experiences of novice programmers in an introductory programming course. Through a two-part exam, we investigated student perceptions by first providing access to AI support for a programming task and then requiring an extension of the solution without it. We collected Likert-scale and open-ended responses from 20 students to understand their perceptions on the challenges they faced. Our findings reveal that students perceived AI tools as helpful for grasping code concepts and boosting their confidence during the initial development phase. However, a noticeable difficulty emerged when students were asked to work unaided, pointing to potential overreliance and gaps in foundational knowledge transfer. These insights highlight a critical need for new pedagogical approaches that integrate AI effectively while effectively enhancing core programming skills, rather than impersonating them.",
+    "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+    "site_name": "arXiv.org",
+    "author": null,
+    "keywords": null
+  }
+}

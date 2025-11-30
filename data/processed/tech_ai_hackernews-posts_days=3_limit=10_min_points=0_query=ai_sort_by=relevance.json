@@ -19,20 +19,6 @@
       "site_name": "Airbus"
     },
     {
-      "title": "AI CEO \u2013 Replace your boss before they replace you",
-      "url": "https://replaceyourboss.ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=46072002",
-      "author": "_tk_",
-      "points": 436,
-      "num_comments": 177,
-      "created_at": "2025-11-27T18:37:41Z",
-      "object_id": "46072002",
-      "image": "https://replaceyourboss.ai/OGImage.jpg",
-      "description": "Stop working for humans. AI CEO delivers algorithmic thought leadership, with instant decisions, and zero ego. Replace your boss before they replace you.",
-      "favicon": "https://replaceyourboss.ai/apple-touch-icon.png",
-      "site_name": "replaceyourboss.ai"
-    },
-    {
       "title": "Airloom \u2013 3D Flight Tracker",
       "url": "https://objectiveunclear.com/airloom.html",
       "hn_url": "https://news.ycombinator.com/item?id=46080289",
@@ -65,8 +51,8 @@
       "url": "https://www.nature.com/articles/d41586-025-03506-6",
       "hn_url": "https://news.ycombinator.com/item?id=46088236",
       "author": "_____k",
-      "points": 208,
-      "num_comments": 131,
+      "points": 210,
+      "num_comments": 130,
       "created_at": "2025-11-29T15:26:58Z",
       "object_id": "46088236",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-025-03506-6/d41586-025-03506-6_51767014.jpg",
@@ -143,9 +129,23 @@
       "description": "Aviation insiders say an airworthiness directive may soon require software updates across the Airbus A320 fleet after investigators linked a JetBlue incident\u2014where the aircraft entered a sudden uncommanded descent\u2014to a faulty ELAC computer. Any grounding is expected to be short and staggered, with airlines updating the systems plane-by-plane to avoid major disruption.",
       "favicon": "https://viewfromthewing.com/wp-content/themes/vftw/images/touch-icon-iphone.png",
       "site_name": "View from the Wing"
+    },
+    {
+      "title": "Student perceptions of AI coding assistants in learning",
+      "url": "https://arxiv.org/abs/2507.22900",
+      "hn_url": "https://news.ycombinator.com/item?id=46089546",
+      "author": "victorbuilds",
+      "points": 94,
+      "num_comments": 115,
+      "created_at": "2025-11-29T18:14:21Z",
+      "object_id": "46089546",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "description": "The arrival of AI coding assistants in educational settings presents a paradigm shift, introducing a \"new kid in the classroom\" for both students and instructors. Thus, understanding the perceptions of these key actors about this new dynamic is critical. This exploratory study contributes to this area by investigating how these tools are shaping the experiences of novice programmers in an introductory programming course. Through a two-part exam, we investigated student perceptions by first providing access to AI support for a programming task and then requiring an extension of the solution without it. We collected Likert-scale and open-ended responses from 20 students to understand their perceptions on the challenges they faced. Our findings reveal that students perceived AI tools as helpful for grasping code concepts and boosting their confidence during the initial development phase. However, a noticeable difficulty emerged when students were asked to work unaided, pointing to potential overreliance and gaps in foundational knowledge transfer. These insights highlight a critical need for new pedagogical approaches that integrate AI effectively while effectively enhancing core programming skills, rather than impersonating them.",
+      "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+      "site_name": "arXiv.org"
     }
   ],
   "total_hits": 303,
   "has_metadata": true,
-  "fetched_at": "2025-11-30T18:16:07.638276+00:00"
+  "fetched_at": "2025-11-30T18:56:03.863474+00:00"
 }

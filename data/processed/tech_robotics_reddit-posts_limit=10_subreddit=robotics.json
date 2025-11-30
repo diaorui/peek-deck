@@ -13,6 +13,17 @@
       "description": "From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1994820845311832267"
     },
     {
+      "title": "Should I do Robotics?",
+      "author": "stargamesYt",
+      "url": "https://www.reddit.com/r/robotics/comments/1paq01w/should_i_do_robotics/",
+      "published": 1764528444.0,
+      "thumbnail": "https://preview.redd.it/knfv4420xf4g1.jpeg?width=640&crop=smart&auto=webp&s=36164d284d3c30d65bb255de29aa3e01853d0594",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I'm currently a junior in Highschool which means I'm going to start applying to colleges soon and I'm really torn between cs, ece, and robotics as major. I currently do FRC which is the most fun thing I have ever done, and science olympiad where I compete in robotics events(I put a little picture of my robot in this post just because he's cute). So the problem I'm having is that I don't want to be restricted to just computer science or electrical engineering. I enjoy ever aspect of building robots from the mechanical to the CAD and I dont want to lose that but I'm unsure of what the job opportunities as a robotics engineer and whether I'm still going the be able to do all of these things. I also dont know what a robotics engineer does in the real field and if it's anything like what im doing right now. If anyone has any advice it would be greatly appreciated."
+    },
+    {
       "title": "For home robots, does a humanoid form factor actually make engineering sense?",
       "author": "BigGirl367",
       "url": "https://www.reddit.com/r/robotics/comments/1pa7742/for_home_robots_does_a_humanoid_form_factor/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Today I set up the Christmas tree. The hardest part was untangling last years knot of lights. A electrical cord with lights, all serated in a little plastic tree design, and perfectly designed for entangement and knotting. My 7 year old tried for half an hour and couldn't do it.It took me the whole hour I reckon. My question to the community; how would robotics go at a job like this? There's times when you just need to be gentle and pull, and others when you really do need to unknot it. It's as tricky as they come."
-    },
-    {
-      "title": "Actuator/servo",
-      "author": "NoIntern2903",
-      "url": "https://www.reddit.com/r/robotics/comments/1p9xup1/actuatorservo/",
-      "published": 1764445370.0,
-      "thumbnail": "https://a.thumbs.redditmedia.com/YP9Klcl1OT6-6xAMhULhsiYLepWK0L5m_fJh0PPffe4.jpg",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Many in the RC community haven\u2019t been able to help a lot in these regards. Im struggling to get my servo programmed how I want it to for my RC snow plow and I\u2019m not sure how to program two actuators to act as my angle method so one comes in when the other pushes out and vice versa the other direction. Currently I\u2019m using an RC winch controller board on my RX to TX as my lift actuator and it works. When I tried to program two actuators to do as I wanted with the opposite wires tied together i think wires crossed and shorted the controller board. But I don\u2019t think ot could handle two actuators anyways. I\u2019m really wanting to keep this a simple build using a single battery if possible and on one TX. Any help appreciated. Pics are of my plow."
     }
   ],
-  "fetched_at": "2025-11-30T18:16:11.916018+00:00"
+  "fetched_at": "2025-11-30T18:56:07.210796+00:00"
 }
