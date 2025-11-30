@@ -8,10 +8,10 @@
       "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.",
       "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
       "preview_image": "https://opengraph.githubassets.com/0149e9dee040bdbc5bac27041b650c36eb840b6598bb203b6c4875d2fb75fad9/ZeroLu/awesome-nanobanana-pro",
-      "stars": 3273,
+      "stars": 3298,
       "stars_display": "3.3k",
-      "forks": 257,
-      "forks_display": "257",
+      "forks": 258,
+      "forks_display": "258",
       "language": null,
       "topics": [
         "gemini",
@@ -199,6 +199,6 @@
   "search_query": "ai created:>2025-10-31",
   "days": 30,
   "limit": 10,
-  "total_count": 218507,
-  "fetched_at": "2025-11-30T17:40:04.933089+00:00"
+  "total_count": 218875,
+  "fetched_at": "2025-11-30T18:44:02.205678+00:00"
 }
