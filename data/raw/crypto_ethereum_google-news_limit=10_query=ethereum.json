@@ -85,16 +85,6 @@
       "description": "Ethereum co-founder Vitalik Buterin supported two privacy messaging apps that are looking to break past sector leaders Signal and Telegram."
     },
     {
-      "headline": "Arthur Hayes Predicts Collapse of Most Layer 1 Tokens Outside Ethereum and Solana",
-      "source": "Coinpaper",
-      "source_url": "https://coinpaper.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORnZXdk42bnJnNkJmdWhQSy01bm5BSnF0U3J3X3RZMHp5Nk82Y3NKQy1aS3hIczFoM3N1RnBpOTVEN1UyakYwOXpaNkUzY1JIVVVHX1FQdEpmLURVX3V6SmpkNmt2bG1UOGtrNDE0U0Vyb1QxR0M4TkVWWnYyTnMtMGkta3I5c1BoMG5fajBDdUpBSHJMamZ1ejdzS0dObHlNOXJUWWRhdS10Ul9vTmc?oc=5",
-      "pub_date": 1764445896.0,
-      "article_url": "https://coinpaper.com/12754/arthur-hayes-predicts-collapse-of-most-layer-1-tokens-outside-ethereum-and-solana",
-      "image": "https://res.coinpaper.com/coinpaper/image/upload/v1764445718/shutterstock_2108025419_f807a3ca1c.jpg",
-      "description": "Arthur Hayes warns most new L1s will fade, highlighting Ethereum and Solana as the only strong long-term blockchain contenders."
-    },
-    {
       "headline": "1 New Reason to Be Cautious About Buying Ethereum, Solana, and XRP Right Now",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.fool.com/investing/2025/11/30/1-new-reason-to-be-cautious-about-buying-ethereum/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843801%2Fstanding-pair-of-investors-consider-tablet-and-computer.jpg&w=1200&op=resize",
       "description": "If this widely touted growth driver peters out, it could spell big trouble."
+    },
+    {
+      "headline": "Fidelity\u2019s Tokenized Fund on Ethereum Crosses $250M",
+      "source": "The Defiant",
+      "source_url": "https://thedefiant.io",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3lxM0dsdGVhV1VCU1IyTGo0M05CTEN2cnlpOTRYVEM0cjJCQU5yUDVsV3NyS1RwRnFqYkdib1AxQ3NmV2dTQ1J6Z2JJekRSa3ZsTnZBWGRnT3l5SEdaX0hleTg5UGZUSDctVjduYnhQbjhWQ2FrbGJlcXkxLVk1RGVOX1ZnbG9MSmVkUVRBd05kZlpyQzY0enZlbGs1V2s?oc=5",
+      "pub_date": 1764357244.0,
+      "article_url": "https://thedefiant.io/news/tradfi-and-fintech/fidelity-tokenized-rwa-fund-on-ethereum-hits-usd250m",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T21:25:18.687401+00:00"
+  "fetched_at": "2025-11-30T22:00:37.490583+00:00"
 }

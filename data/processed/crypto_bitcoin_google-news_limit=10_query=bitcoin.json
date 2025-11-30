@@ -5,16 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin set to rally back to $100,000, BTIG says",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjZmS1ZfcTREb0pEbTM1WHRZQ0UyUldmS0h1b2d2eFIwcmZBNG9fTjJYQVBKT0RaSlJIQU5DNnFlaGJqSEE3RngzaG50b1JzcXBCdnJ3clBtZHBQbU11eHgwOTVud3dTSDJHc2Y3bUtxdnFVRFRqNWV3T3UwNzJ5VVRyc3VmLTJranc?oc=5",
-      "pub_date": 1764339461.0,
-      "article_url": "https://www.cnbc.com/2025/11/28/bitcoin-set-to-rally-back-to-100000-btig-says.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229960-1763739030339-gettyimages-2244475103-omarques_03112025_tech_9_of_15.jpeg?v=1763739082&w=1920&h=1080",
-      "description": "Bitcoin is trading above $90,000 again, and the token could soon reclaim its $100,000 level, BTIG analysts said in a recent note to clients."
-    },
-    {
       "headline": "Here's What History Says to Expect for Bitcoin in December",
       "source": "The Motley Fool",
       "source_url": "https://www.fool.com",
@@ -26,53 +16,33 @@
     },
     {
       "headline": "Where Will Leading Cryptocurrency Bitcoin Be in 5 Years?",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMjgwaEVrWFE1OE9fZFA3QzU5TWZiZjFHZ2tOcnBqQmVPVVc0SnpVX3N3LWlUUEZjbkpQbXhfelNDV0daY2FMUzVRdUI5WGRvcVBHeTJSNUFIcVI1Tm5yQ3hpSlRZc0s0di1kMWxyd2pQS0pFaDlHUG9TX2ltUHo3YTRCX1lyOFdnR0thbw?oc=5",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3hqM1NkRHUyc0NnZ08zMzFNR2pKVEFKalMyTmlhNlBwdVFJSkpHWHlvbEpwWk1GbDlOVElsVWNKWXU4T1hnelVrSWk4TFdDSUhpbzF5X2xndkZoX1NlQ3lfTWozX1dLRjRQSDdPVklCV2I1OWVpVXgxUFQ5TkUtOTBJRGpuNUlSSmZvYWtPOTg?oc=5",
       "pub_date": 1764514800.0,
-      "article_url": "https://finance.yahoo.com/news/where-leading-cryptocurrency-bitcoin-5-150000296.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Gh7cGOhPC6Xk0JivUaMPzA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/5b192ae17473cdde5e18dd0be56f37cb",
+      "article_url": "https://www.fool.com/investing/2025/11/30/leading-cryptocurrency-bitcoin-be-in-5-years/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843291%2Fgold-coins-with-bitcoin-logo-on-them.jpg&w=1200&op=resize",
       "description": "Bitcoin's price has shot up more than five-fold since late 2020."
     },
     {
-      "headline": "Bitwise Analyst on Bitcoin: 'You\u2019re Not Even Remotely Bullish Enough'",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaHNfQmlHeXRvVzlpeldwZHhwdmYzRU1IZU5LWTlhUmNNc2dsYk01M1dDb21VYTJjeGpqazBMc19qUG9nbVgyN1B4S0tqcHM3elAxZmlmZ1MxcTlEaTVESmlDZUVocG9uSFgyaFBCWTB4MFZveUpRVkRrWlZWeU5xVUdmdUNDVE9kY3ctclpXR0d5WVlkQ29mLWxDUkpVY3REQmdINEFFZExuZXJBSlJidVhSSkNNYi1HWVE5THhwcWtHX0Fha1dWZ2w4NkdSN3Q3WVo1MzFLbw?oc=5",
-      "pub_date": 1764433125.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/29/bitcoin-pricing-in-most-bearish-global-growth-outlook-since-covid-and-ftx-crash-bitwise-research",
+      "headline": "Bitcoin climbs back over $92K: 2026 looks 'really good' for BTC",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ0w0LXZNZjY3NjNFRE1iRER4cDZUWUEwN2xsa3YxeDJqMTVGcW04TXNSMjJ3NFc3QUlnSmlkcW42VFl4djVRXzgwbDgtY096aHFCaUh4M1ctdjhCalB1dU5WYUN4eGF4RGJ5QS1ZTmVVMXpLUURlRmhNYlFXYkR0ZA?oc=5",
+      "pub_date": 1764342958.0,
+      "article_url": "https://finance.yahoo.com/video/bitcoin-climbs-back-over-92k-151558857.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/b5KU9misU2liHI3OFIMijg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/40809bf0-cc6c-11f0-b67b-28a9600e04a9",
+      "description": "Marketgauge.com chief strategist Michele Schneider joins Yahoo Finance Markets and Data Editor Jared Blikre and Morning Brief host Julie Hyman to discuss bitcoin's (BTC-USD) recovery, also highlighting other cryptocurrencies to keep an eye on. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief."
+    },
+    {
+      "headline": "Bitcoin Climbs to End Terrible Month for Cryptos. What History Says Happens Next.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPRjhKZEl1R01TNzNzSjBGTE1xNXdjWFowRks3aWlXR0RpYXd4NWt3bmJneU83UDFMMU8wTW1nb1ZCZzVtN1dtTTVwTVplaFV5Vnh0Mll3bFB3SnE5d0hWeG9Jc19JdTVFLUYtZVNoRzZFRzZlOFc5T05DT1hGdHVTa2hoUXRBUnhrT3hDeGFOUVNMS1kzV2tLbGdtUkRqYWxaUWhYay1vZ1VQMFM3NzVfcTBvemdpWmpzS2ZIemVKeXQ2N24zODRxWkJ3ZS02X2VBNTBzNDFsZ3hpTGpOUHJWUTE5MUxOT2RMSkZtb0tucFdlQWdKaXhVTUZiNHN5d1BONkhSa2lyNjBfTjZfUGlkLVVPajhMZEh6WGp6YWRjTUVSaFFmMkxteTFZMFh5Ujd2Rk1DMGFxUS1WMEpmUk5xZmhDZW9DeWpmR3U0MjhWcEpQS2E2emwtZzJJUzk0QzRsZUl4aWY0VDA0ZFlvcTdnQm5zYnpyTndqclVSYTUwc1FMaU83cjZWeHpZSU1OQQ?oc=5",
+      "pub_date": 1764335760.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-8cc13d60?gaa_at=eafs&gaa_n=AWEtsqf68O_u2hBKZaGn2kK8vMGyKQMCxzuA3E6O0kblY8uax0ZfXRN5gHye&gaa_ts=692cc1fa&gaa_sig=HQFA2i7l3SNJVvNDGMj1-umLZUOfvbwPDIou2vCH6338HPkxptlcsZ2UXdfV8YJ5U2Pri9oxvC4Niafy5_hQVg%3D%3D",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Michael Saylor's MicroStrategy moves billions in Bitcoin",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1BFSTZjVzJNQ2NwRmY5bWplVEhkSndFSml2Wm1ENjBzRWU0eFM2d25haU03Ny1ZaDFWZm96NHAyZUFwQzlQa01xWVBKUmxCSEdPRWFLY1NleGg5Y2xpNjR0QlhKWTUzYVdhUFgwWmFMMWtrd0RqVHpDS3g5MV9ZN3ozNV9mTGFfMmFfZmF6OUZJS2Jn?oc=5",
-      "pub_date": 1764367250.0,
-      "article_url": "https://finance.yahoo.com/news/michael-saylors-microstrategy-moves-billions-220050534.html",
-      "image": "https://media.zenfs.com/en/thestreet_881/d1aa5494f6ca9d52fa64ef014153b18a",
-      "description": "The world's leading Bitcoin (BTC) treasury company, MicroStrategy (Nasdaq: MSTR), now rebranded to Strategy, has been moving billions in BTC. Led by co-founder and executive chairman Michael Saylor, Strategy is a software company that began accumulating Bitcoin in 2020. Now, it is the ..."
-    },
-    {
-      "headline": "MicroStrategy Admits a Bitcoin Sale Is Possible\u2014Here\u2019s When",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWlI3TlFnVFBoX2dEay1UT0R3Nzl4VlZrYUFjNlZpVDJhV3F2TTlWTll1ejBRSk1ZbWE0MlZXZEdLVmlJeTd0NVFYWnR5dl9QZ3RDSWwxaDROWWRLSkZWVm15NDNHNnBJQ2dBWFpmRDRwcjBVOFp1TXpmNXphOVM3MVpBVWVwSmwzQ3BuTnNnRVJpQQ?oc=5",
-      "pub_date": 1764525701.0,
-      "article_url": "https://finance.yahoo.com/news/microstrategy-admits-bitcoin-sale-possible-180141373.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/b8ufJl_iWe9wumvmLaV6Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/a8798a658c000d77bfc6d5492b55a286",
-      "description": "MicroStrategy CEO Phong Le reveals a hidden Bitcoin-sale trigger tied to mNAV and liquidity stress. A shift from \u201cnever sell\u201d stance?"
-    },
-    {
-      "headline": "Strategy (MSTR) CEO Says His Firm Has 'More Flexibility Than Ever' to Keep Buying Bitcoin",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTjJaVTZ5SHZtN3lqVnR0ck0zb296VWZBdk9BRTd5UkJheUt5X0p6VEs3ZEhYSmJ5UllWUk5SWlBkelA1T2tIODI0NlFXazZKb1J0c0RvMWNjZzhtdEFmRjIxT1BRUTViMVVGRW0ybUdmNFF6VUNZVW4xZlZkLWdvai1LTThpWktqNXFTVTBJdGk3SVlNd2tNZXdJYjVPaUtwSXlHa196a2FVZ1A1c01CT2hrYWYyTFE4WF9SMkdPUjhjX3pEdHc?oc=5",
-      "pub_date": 1764440106.0,
-      "article_url": "https://www.coindesk.com/business/2025/11/29/strategy-ceo-equity-and-debt-flexibility-power-long-term-bitcoin-accumulation-plan",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/39980a370e79fb6757a4592dbc1af759fccf2a32-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "Strategy\u2019s CEO laid out how the bitcoin-heavy firm can keep accumulating crypto, even amid shifting market conditions."
     },
     {
       "headline": "21 Rules of Bitcoin",
@@ -85,6 +55,26 @@
       "description": null
     },
     {
+      "headline": "Bitcoin set to rally back to $100,000, BTIG says",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjZmS1ZfcTREb0pEbTM1WHRZQ0UyUldmS0h1b2d2eFIwcmZBNG9fTjJYQVBKT0RaSlJIQU5DNnFlaGJqSEE3RngzaG50b1JzcXBCdnJ3clBtZHBQbU11eHgwOTVud3dTSDJHc2Y3bUtxdnFVRFRqNWV3T3UwNzJ5VVRyc3VmLTJranc?oc=5",
+      "pub_date": 1764339461.0,
+      "article_url": "https://www.cnbc.com/2025/11/28/bitcoin-set-to-rally-back-to-100000-btig-says.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229960-1763739030339-gettyimages-2244475103-omarques_03112025_tech_9_of_15.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "Bitcoin is trading above $90,000 again, and the token could soon reclaim its $100,000 level, BTIG analysts said in a recent note to clients."
+    },
+    {
+      "headline": "Bitcoin faces 3 headwinds as the cryptocurrency sits 28% below record high",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR25KMUVPU2NjUkxVeWt0VWYzQ3NkUGNFWUowZGVySjhjRmdEX1Jwd0txTUoyanBNRmxpX0JmSzNDNDE5NGZYWkV1TEdDZ1duLTk5RlYzbXVrdXNURWhKaVBKa0lLVmRyLVkzaUU2Q1RZaTRzYVRfM2ZfWHM3WUFzZXMtRzRKUGxRLTE5aWNzWTQ3d3hQR3BuVlRtZUk4Y21oU0QtUEdSVTBRWDh4S0JOVF9xU2JsUkswbWtB?oc=5",
+      "pub_date": 1764439313.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-faces-3-headwinds-as-the-cryptocurrency-sits-28-below-record-high-213736627.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/j9TUOg8GIxjPxGeMD6MmjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/79dfbd80-c72c-11f0-bbfd-7afdd601f2f5",
+      "description": "Bitcoin headwinds mount as the token hovers around $86,000."
+    },
+    {
       "headline": "Opinion: Bitcoin is now the barometer for the buckwild U.S. economy, and it looks bad",
       "source": "The Globe and Mail",
       "source_url": "https://www.theglobeandmail.com",
@@ -95,16 +85,26 @@
       "description": "The next Fed Reserve rate-setting meeting could offer a signpost to bitcoin\u2019s performance in 2026"
     },
     {
-      "headline": "Strategy Insiders Kept Buying Preferred Stock as Bitcoin Price Slid",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPSXNUWkxvSVRVblU1cXFiYWF1cW81VzVlc1BrQ1U1OUNWdVRibTdlWnc4WlE5SkhCcHM4aXI0bU1seHJ4cFQzeGNsMkVFV011U240OUN3a3J2aGgyYy0wVkNnYmRxSTVpZWMzNUhBN3lLQV9UTWxsZm4wSm16dE1hN3JhX2NJMGZFY29Uenh6QVpxR0JIWDZUU0s5REN1dWJOWFBTWEdrLXRMaXZfU1Z2c0RvN1JJVmxVbkJmSUVEWXpZS0MwbFZpdmoxU1pZM1hVNkdBRkUyYXBDdmtsTWozQ0xoTk9tOTE5eXFYNHpWWXJ5YjZDcmYyWkJBZW5OYmpxRHFjQmgtSnU0Mnp4dlI5dTZsQzZpQkwzMThhWHpEODRuY1o1Nm1kWXo3SmJHX1hpMVlXUmtJbS02a0w3Mm9xTmVNZFpMZklZNGhKNTNjUjJtc0VHSzFxZklac1pGWEhVOVBFejRuQWlBeU5YT29OaFlxMGhKNzJHLVQ4bEFOTmFUbV9u?oc=5",
-      "pub_date": 1764487800.0,
-      "article_url": "https://www.barrons.com/articles/strategy-insiders-bitcoin-buying-79756b79?gaa_at=eafs&gaa_n=AWEtsqf2kOw79AnYY1Tuu_p4GamKUCNOUy1ShkhIzStuIJkkAqKAiiMpiM6A&gaa_ts=692cb9b1&gaa_sig=y-80pEALK6i_gmdkvmF5MoZ8Vdo8-31C0ELuMiGMcAg2xm2osFom0AWKnQWStY8oTn3sfDKjHpOKeljFX28n3Q%3D%3D",
+      "headline": "Veteran fund manager says Bitcoin looks like Google in 2017",
+      "source": "TheStreet",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR1ljU3lmM085MmVaTEpLNjFhTWwzYk1wTzRwTDRObTlMVk9VTmNkbHVpNXJfbDFsdG1xUGg3QS0zUVN3cXQxbDVPUTFYRG45dnFONEZaN2xsOFN5MndSc0dwUDJxWDF2RlU5ZXlKakllcGVXYU9uVWpZb3d2ejAxbm1leHE5ekZkZEp2SS1DRXhLMVdRdWRkLXRGdw?oc=5",
+      "pub_date": 1764341136.0,
+      "article_url": "https://www.thestreet.com/crypto/trading/veteran-fund-manager-bitcoin-looks-like-google-in-2017",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Bitcoin Treasury Stocks: How to Read mNAV \u2014 and Why NYDIG Says It Falls Short",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWDR1aHREbkR0cHZ5Y2ZiS2FueFRuSjhTZm5vcXFuWlNoczV6NHpqYmFteHZiSERmVnJQeGlZREFjUHJFYlJ1YmI0dXlFd3RQb0NleUZBWnV6QU9MNFM5U000RzM0TTREZVoybVFjeEpPZV9RamR0YldzTzNFdVkwc2g1TnlkMXZfNzkzZFItWWlyTUFHM2lFZFVKckcxS1BiTmhzWW14WmRfUmx5RF9qbGs1dkFxSlozdXNmR21hX0RiQUd3b0RMUQ?oc=5",
+      "pub_date": 1764539240.0,
+      "article_url": "https://www.coindesk.com/business/2025/11/30/what-mnav-really-tells-you-about-bitcoin-treasury-companies-and-where-it-falls-short",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/cc06c4c652f423950a5aaefa52e4c4580148298a-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "A closer look at how markets price bitcoin treasury stocks\u2014and why NYDIG says the popular mNAV ratio might be more misleading than investors think."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-30T21:25:21.893183+00:00"
+  "fetched_at": "2025-11-30T22:00:41.740661+00:00"
 }
