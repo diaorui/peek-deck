@@ -79,17 +79,6 @@
       "description": "Robotics guys seem better versed in actuators than RC guys. I\u2019m trying to make it so my RC snow plow has dual linear actuators to angle it left and right, however this works best using two. One to retract while the other extends, and vice versa in the other direction. I currently have another actuator lifting my plow. This is controlled via my trucks only ESC/receiver and using an RC4WD wired winch controller to control the actual lifting mechanism from my spektrum DX5rugged. This is plenty of power to achieve this, even with the angle. However what control module would I need, or what would I need to make this action work? I\u2019d prefer to ditch the servo sooner than later for my angle operation just due to it being jerkier in nature with less stability and control. Do I need a whole separate ESC to control this via my current receiver? Two ESCs with mixing? I\u2019m kind of lost on how to achieve this."
     },
     {
-      "title": "Why did digit robot take off?",
-      "author": "animaleater666",
-      "url": "https://www.reddit.com/r/robotics/comments/1pa6uk7/why_did_digit_robot_take_off/",
-      "published": 1764469794.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I have seen many fails/humanoid robots turning out to be scams, overhyped, or teleoperated. Tesla bot, and neo for example. However I've repeatedly seen an autonomous robot digit, by agility robotics. And from the stuff I've seen, it seems pretty legit. They're in Amazon, and another distributor. My question is why were they able to make an autonomous humanoid robot, but a company like Tesla can't? Is digit overhyped aswell?"
-    },
-    {
       "title": "RoboDK 3 diferent processes on the same piece",
       "author": "Next_Bathroom1376",
       "url": "https://www.reddit.com/r/robotics/comments/1pa0vpc/robodk_3_diferent_processes_on_the_same_piece/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "Science Robotics: Foldable and rollable interlaced structure for deployable robotic systems: https://www.science.org/doi/10.1126/scirobotics.adv4696"
+    },
+    {
+      "title": "Controls project",
+      "author": "Proof-Assignment1770",
+      "url": "https://www.reddit.com/r/robotics/comments/1p9qy97/controls_project/",
+      "published": 1764428310.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey guys, I want to do a project where I investigate various control systems for a mobile robot and try and evaluate the optimal one in a given scenario. For example, an idea I had was to build a self-balancing robot (the inverted pendulum one), and place a glass of water on top, then experiment with various control systems such as PID, LQR, etc. Is it even possible to use these different control systems and figure out the best approach, or is PID tuning the best? Would this project be good to try out? Any advice would help as I am relatively new to control theory."
     }
   ],
-  "fetched_at": "2025-11-30T05:10:38.700451+00:00"
+  "fetched_at": "2025-11-30T05:47:40.596688+00:00"
 }

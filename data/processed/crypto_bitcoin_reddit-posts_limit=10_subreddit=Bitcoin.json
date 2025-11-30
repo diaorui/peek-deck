@@ -2,6 +2,17 @@
   "subreddit": "Bitcoin",
   "posts": [
     {
+      "title": "\u201cIf I put $100 in Bitcoin in 2010 I\u2019d have $2.8B now.\u201d No.",
+      "author": "Apprehensive_Shoe_86",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pa9f7n/if_i_put_100_in_bitcoin_in_2010_id_have_28b_now_no/",
+      "published": 1764477772.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "If you bought $100 of Bitcoin in 2010 and watched it go to: $1k \u2192 $100k \u2192 $1.7M and did nothing Then watched $1.7M go to $170k and still did nothing Then watched $170k go to $110M and still did nothing Then watched $110M wither to $18M and still did nothing Then watched $18M surge to $390M and still did nothing Then watched $390M deteriorate to $85M Then watched $85M climb to $1.6B and still did nothing Then watched $1.6B shrink to $390M and still did nothing Then watched $390M surge to $2.8B and then for some reason finally decided to do something\u2026 Then yes, $100 in 2010 would be worth $2.8B today."
+    },
+    {
       "title": "We are BITCOINERS!",
       "author": "MrMBTC",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p9wp5d/we_are_bitcoiners/",
@@ -46,17 +57,6 @@
       "description": "tl;dr Hackers broke into Bitfinex in 2016 and stole 120,000 BTC ($75m at the time) directly from customer accounts. Law enforcement recovered 96,000 BTC in 2022, now worth $3.5bn. They returned a bulk of it back to Bitfinex. Bitfinex did not return the bitcoin to its customers, but instead provided them redeemable tokens for the value of the bitcoin at the time it was stolen. (Even worse: \"Redeemable as quickly as we can.\") I usually call people who yell \"not your keys, not your coins\" too alarmist. Exchanges must be held accountable. They are 100% not being held accountable. This should be a massive lawsuit to permanently determine that if bitcoin as property CAN be returned then it MUST be returned, not the value in dollars at time of loss. You can watch the slimy Bitfinex executive explain this directly at 1hr13 in the documentary, by the way."
     },
     {
-      "title": "\u201cIf I put $100 in Bitcoin in 2010 I\u2019d have $2.8B now.\u201d No.",
-      "author": "Apprehensive_Shoe_86",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pa9f7n/if_i_put_100_in_bitcoin_in_2010_id_have_28b_now_no/",
-      "published": 1764477772.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "If you bought $100 of Bitcoin in 2010 and watched it go to: $1k \u2192 $100k \u2192 $1.7M and did nothing Then watched $1.7M go to $170k and still did nothing Then watched $170k go to $110M and still did nothing Then watched $110M wither to $18M and still did nothing Then watched $18M surge to $390M and still did nothing Then watched $390M deteriorate to $85M Then watched $85M climb to $1.6B and still did nothing Then watched $1.6B shrink to $390M and still did nothing Then watched $390M surge to $2.8B and then for some reason finally decided to do something\u2026 Then yes, $100 in 2010 would be worth $2.8B today."
-    },
-    {
       "title": "Three lessons from Bitcoin octopus \ud83d\udc19",
       "author": "Able-Upstairs-9875",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1p9q8zv/three_lessons_from_bitcoin_octopus/",
@@ -79,17 +79,6 @@
       "description": null
     },
     {
-      "title": "Black friday as a bitcoiner",
-      "author": "Shr00mBaloon",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1p9zi2n/black_friday_as_a_bitcoiner/",
-      "published": 1764449573.0,
-      "thumbnail": "https://preview.redd.it/3reykk5he94g1.png?width=640&crop=smart&auto=webp&s=3f7d44d1eacfd712135e7736e12c99afc21eaf25",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Practicing",
       "author": "CATG0D",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pa3qkb/practicing/",
@@ -99,6 +88,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Have been doing DCA\u2019s for years. Excited for $200k. Just in case, working on a backup plan"
+    },
+    {
+      "title": "Black friday as a bitcoiner",
+      "author": "Shr00mBaloon",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1p9zi2n/black_friday_as_a_bitcoiner/",
+      "published": 1764449573.0,
+      "thumbnail": "https://preview.redd.it/3reykk5he94g1.png?width=640&crop=smart&auto=webp&s=3f7d44d1eacfd712135e7736e12c99afc21eaf25",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "According to this pattern 2026 BTC will be extremely bullish and reach 1 million USD",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-11-30T05:10:35.848790+00:00"
+  "fetched_at": "2025-11-30T05:47:37.862388+00:00"
 }

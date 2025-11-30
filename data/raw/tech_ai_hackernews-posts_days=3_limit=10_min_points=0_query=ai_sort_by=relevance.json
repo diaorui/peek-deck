@@ -10,7 +10,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46083004",
       "author": "pyrophoenix",
       "points": 481,
-      "num_comments": 161,
+      "num_comments": 164,
       "created_at": "2025-11-28T21:40:21Z",
       "object_id": "46083004",
       "image": "https://www.airbus.com/sites/g/files/jlcbta136/files/styles/thumbnail/public/2025-09/airbus-sharing-default.png?itok=AqaYIUdZ",
@@ -65,7 +65,7 @@
       "url": "https://www.bbc.com/news/live/cvg4y6g74ert",
       "hn_url": "https://news.ycombinator.com/item?id=46082825",
       "author": "nrhrjrjrjtntbt",
-      "points": 227,
+      "points": 228,
       "num_comments": 103,
       "created_at": "2025-11-28T21:16:46Z",
       "object_id": "46082825",
@@ -121,7 +121,7 @@
       "url": "https://www.nature.com/articles/d41586-025-03506-6",
       "hn_url": "https://news.ycombinator.com/item?id=46088236",
       "author": "_____k",
-      "points": 185,
+      "points": 186,
       "num_comments": 125,
       "created_at": "2025-11-29T15:26:58Z",
       "object_id": "46088236",
@@ -136,7 +136,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46086624",
       "author": "ashishgupta2209",
       "points": 175,
-      "num_comments": 69,
+      "num_comments": 70,
       "created_at": "2025-11-29T10:54:16Z",
       "object_id": "46086624",
       "image": "https://scienceclock.com/wp-content/uploads/2025/11/a-woman-coughing-while-doing-exercise-because-of-air-pollution.png",
@@ -145,7 +145,7 @@
       "site_name": "LearnGupt"
     }
   ],
-  "total_hits": 316,
+  "total_hits": 315,
   "has_metadata": true,
-  "fetched_at": "2025-11-30T05:10:34.437731+00:00"
+  "fetched_at": "2025-11-30T05:47:36.541982+00:00"
 }
