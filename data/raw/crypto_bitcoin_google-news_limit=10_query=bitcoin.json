@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "21 Rules of Bitcoin",
+      "source": "x.com",
+      "source_url": "https://x.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5NHFLOXVTbnR1SGd0TkNtZVp2NDFaY0Z3V3h2dnExeHhkUVQwYy1sRDVoNXoyMTY3THJGSWVrOXgweDk5a2NNZjNfekNMY1pldm1wNDQxQWE2d1k?oc=5",
+      "pub_date": 1764423803.0,
+      "article_url": "https://x.com/saylor/status/1994764128901370349",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Bitcoin set to rally back to $100,000, BTIG says",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -15,12 +25,12 @@
       "description": "Bitcoin is trading above $90,000 again, and the token could soon reclaim its $100,000 level, BTIG analysts said in a recent note to clients."
     },
     {
-      "headline": "Bitcoin Price (BTC) News: Small Gains on Friday",
+      "headline": "Crypto Markets Today: BTC Price Rises, but Faces Make-or-Break Resistance",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQjIzZVd5bFZWMmhOem5OR2tuNzE2bjZiU215Qnp4WUZyM2hoN3N4SnJzXzJZUUM3Y3EwVUZweGQ5V0hrdzFheE5NSnFnVTBNZ1FxN3lEZFpuWndiQk8yUkhZT09UNm5yU3lFNDBvQnRhTmp4R0JTdDdJb01tTngyZmM5dUhDVlJ1RTlNMjBmUjJfZFZsVkhrXzNZS2t6ZlNjZWFsZDlMZzVJdHhY?oc=5",
-      "pub_date": 1764343397.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/28/crypto-miners-surge-as-bitcoin-climbs-and-fed-rate-cut-bets-rise",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUHl2TnVCUTFRazdzS3hZV1RWN3ZVdUN6WU1QU0cwOEFqMnpDMjlvbHlzMkpndjVUbTJ4emhPTzFZRlFSSUtnZWxLQjRWTnR0YnprblRmZXoweERzTWwyeHFLMGJsamNkcTI0N2RSTDVtT2hUWVdXSDVQeno4d1BTS3dmWFotNVV1dUl1QTRaTFdHdzlZWXpMeDl3bWdTcm82a3lJVXZoSS1jOE0?oc=5",
+      "pub_date": 1764329616.0,
+      "article_url": "https://www.coindesk.com/markets/2025/11/28/crypto-markets-today-bitcoin-rebounds-but-downtrend-still-looms",
       "image": null,
       "description": null
     },
@@ -28,31 +38,21 @@
       "headline": "Bitcoin Climbs to End Terrible Month for Cryptos. What History Says Happens Next.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQOXluenNoUzB3MGVHY1NVb0x0eUc1Z1kwb3hLNnBBTTFDcGJUZVN3em5uTHR5U2JneVltUUU4SEYzRzRGZDBFdVlla1J6aGctMUM0S1RyWFNwWmpnX1hHY1QtbE0wUXJjME9JeUdiZ1pjWjE4QWhvNHZGLWxnZDBOeklCc1JybDBnZ3pvcWp3eW9rWFJIWWtYSDM4UF8zTHY1anNoR0pwV0VYektZSXJ3UG1Wck5CWkRmMDQwMGREQUI1TDFYcV9VTW5yTmZRbXo0TUotcUdmdVp0N2xBNDdSbWdFZ3lPMHVxTUZxZ0tVS0RKMUk2WF8yVG90R2RVbjJ1TXNtSnFWai1vc1ExOFJNRVZXbm5DbWNZcllGMWFfS2xfOTFwVklVR3hUSkVEa3BSOEpRc2w5c19SNDF3bTNFQlhWS1JXWWF4cmM2Ql9VYVQ3dEF2ejM2TUo1UVBlbV9DY0lxUmZhMWZHYjQ0MjlCVHdoX3UxVG1zVk5xRUxvbXFCeHV5aTkyN01PN2hWZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNaTRXU2l1eFZxLVRjN2ZMRWJiQlhSY0IwbFRFRU1pSjNfMF9TLVhJODUzTU9QR3ZfTzJHTldiX0FGRFdfdk1pMWRuRVMtbFo1MU94cjdXOUVJS2E4ZDhQZUl2bFVRUWxkaGluMUU1c1NVdjZ6UFpFUm5CNlBVVlpTaTAwOFRoMHhRaUdJS2VKYWhBWldTN2JEajc0dldNZl9DZFlxaDhnNEVZQ09DYWRvSGtHN2ZyNEdtbnZ6SS1qRUhfS0RyVUFIX3VJcWhxLUFOMXl0bU9XUWw3MG1VZTB3MktPeWRMQlZEbjdPZ3RveHdzTkplLXo2MDZMYkVWTkJ4aHd3QWNTeUV2UlJjYWkzX19JMDROOGF6MmttMFNMTm1PYmFINUM3eXRLRWxlR2JyT25aVUw5WDRBOXBRZ3MwUFFzMlJMVE5OSWQ5VWVGOGhSMEJ2TVBubWJqNEZSd1MtTENOa3JwSkh4V3I0RW5BODFvc3Q4NTVBa3NrR3VQeHhuSVBOcXh3bXNjOHV5Zw?oc=5",
       "pub_date": 1764335760.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-8cc13d60?gaa_at=eafs&gaa_n=AWEtsqdK5Vc2y42u_rWDCHbpzQY--3HsZAmiL3IWSzGFcoP6y_9zxBSJCF2Z&gaa_ts=692b8b81&gaa_sig=KFyjU0tn21i3vF0v1lImPbKDW6oJlyq_LORxeNby8QqxyiL82Bc_bCh9WYY7gciw0g1RuynbZ_fSxT6N6nTcaQ%3D%3D",
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-crypto-rally-8cc13d60?gaa_at=eafs&gaa_n=AWEtsqdSUtPZlq9MqWxXgprKJCJ0QQVPzsB2dJiTV0aCWOgs0WK-V8OE8FcU&gaa_ts=692ba82f&gaa_sig=i_EMb81rl_0vBb_3iABKcCR2JC5iF2LXur0WmM3hidea-09QYgteeG1XTG9R2uuD_rP3MIUre6H1DOqzVw86hg%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Michael Saylor's MicroStrategy moves billions in Bitcoin",
+      "headline": "Bitcoin faces 3 headwinds as the cryptocurrency sits 28% below record high",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1BFSTZjVzJNQ2NwRmY5bWplVEhkSndFSml2Wm1ENjBzRWU0eFM2d25haU03Ny1ZaDFWZm96NHAyZUFwQzlQa01xWVBKUmxCSEdPRWFLY1NleGg5Y2xpNjR0QlhKWTUzYVdhUFgwWmFMMWtrd0RqVHpDS3g5MV9ZN3ozNV9mTGFfMmFfZmF6OUZJS2Jn?oc=5",
-      "pub_date": 1764367250.0,
-      "article_url": "https://finance.yahoo.com/news/michael-saylors-microstrategy-moves-billions-220050534.html",
-      "image": "https://media.zenfs.com/en/thestreet_881/d1aa5494f6ca9d52fa64ef014153b18a",
-      "description": "The world's leading Bitcoin (BTC) treasury company, MicroStrategy (Nasdaq: MSTR), now rebranded to Strategy, has been moving billions in BTC. Led by co-founder and executive chairman Michael Saylor, Strategy is a software company that began accumulating Bitcoin in 2020. Now, it is the ..."
-    },
-    {
-      "headline": "Inflation-hit Americans receive free $12,000 in crypto",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNUtJLTJOVjk1NnFfRVVmN2Z5THBpR3N0MXA0elZaUDhCV1d4UnJKNVQ3S2REWjh0b0d0Z01rbFZoS1pGMFBDd3dYcUFQdnpEQ0xaYVFJTW5aOWl1UEwwQTV3RzBTZktnSlp2QWxkMkRrZGJranJ3d1JxQ3VkOGlyaFJNRWhZQXNRV0tTZG9zZnBLVGVabThpOA?oc=5",
-      "pub_date": 1764452102.0,
-      "article_url": "https://www.thestreet.com/crypto/markets/inflation-hit-americans-receive-free-12000-in-crypto",
-      "image": null,
-      "description": null
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR25KMUVPU2NjUkxVeWt0VWYzQ3NkUGNFWUowZGVySjhjRmdEX1Jwd0txTUoyanBNRmxpX0JmSzNDNDE5NGZYWkV1TEdDZ1duLTk5RlYzbXVrdXNURWhKaVBKa0lLVmRyLVkzaUU2Q1RZaTRzYVRfM2ZfWHM3WUFzZXMtRzRKUGxRLTE5aWNzWTQ3d3hQR3BuVlRtZUk4Y21oU0QtUEdSVTBRWDh4S0JOVF9xU2JsUkswbWtB?oc=5",
+      "pub_date": 1764439313.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-faces-3-headwinds-as-the-cryptocurrency-sits-28-below-record-high-213736627.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/j9TUOg8GIxjPxGeMD6MmjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/79dfbd80-c72c-11f0-bbfd-7afdd601f2f5",
+      "description": "Bitcoin headwinds mount as the token hovers around $86,000."
     },
     {
       "headline": "Bitwise Analyst on Bitcoin: 'You\u2019re Not Even Remotely Bullish Enough'",
@@ -65,12 +65,22 @@
       "description": null
     },
     {
-      "headline": "21 Rules of Bitcoin",
-      "source": "x.com",
-      "source_url": "https://x.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5NHFLOXVTbnR1SGd0TkNtZVp2NDFaY0Z3V3h2dnExeHhkUVQwYy1sRDVoNXoyMTY3THJGSWVrOXgweDk5a2NNZjNfekNMY1pldm1wNDQxQWE2d1k?oc=5",
-      "pub_date": 1764423803.0,
-      "article_url": "https://x.com/saylor/status/1994764128901370349",
+      "headline": "Veteran fund manager says Bitcoin looks like Google in 2017",
+      "source": "TheStreet",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR1ljU3lmM085MmVaTEpLNjFhTWwzYk1wTzRwTDRObTlMVk9VTmNkbHVpNXJfbDFsdG1xUGg3QS0zUVN3cXQxbDVPUTFYRG45dnFONEZaN2xsOFN5MndSc0dwUDJxWDF2RlU5ZXlKakllcGVXYU9uVWpZb3d2ejAxbm1leHE5ekZkZEp2SS1DRXhLMVdRdWRkLXRGdw?oc=5",
+      "pub_date": 1764341136.0,
+      "article_url": "https://www.thestreet.com/crypto/trading/veteran-fund-manager-bitcoin-looks-like-google-in-2017",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Spot bitcoin, ether ETFs recover momentum with first net-positive inflow week since October",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV21KYlA4OTlIempnWVcyaXBwTVlUZHJ4VUVTckozNnA2YXViYlptMWJjRkhkZEw5V3dsanVRbTNKNmphNFM1amFOTzR5QVl6WVlVMEVkTXByTl9OSEdQQkdJUHpZNzB6cDNXMV83REJhRkhFTnF2N29pRDItY1JudDJ4MUd4dE9tWkpTV0RzYWI2NEFzdTBVVUROZkRKMFZ1RE5zXzBjWGJqamJYM1FNOXctWm1PanFxSThJWG9xajlrbllt0gHKAUFVX3lxTE5Dd3BXdWFrWWZVaXduUUdGakw0dEJFajVycV9qU2lBc3VFLVdON0R4VXlPOTd2VnJEWFBWb2VxTm9JUHFYN20welpEYzFXTGdRbE9CSWpzSkx0czhqTXBiWjEteDlFc0E4dm1NSk04dmZ0Q3ZaWFdVaGk4MlBvVXkzQTlQS0ozN2EwUEQ0MDRvX1FKcWJ2bTk2SW9hRjc2alJPVXZJQnRZb2xLLU9ENzhRaU1FWEphS0V6Q2NhSWEyYjBjSWtMRTFKdWc?oc=5",
+      "pub_date": 1764441419.0,
+      "article_url": "https://www.theblock.co/post/380806/spot-bitcoin-ether-etfs-recover-momentum-with-first-net-positive-inflow-week-since-october",
       "image": null,
       "description": null
     },
@@ -85,16 +95,6 @@
       "description": "In October, China accused the US of orchestrating $13 billion crypto hack from China-based LuBian, one of the largest hacks in history, on one of the A Chinese cybersecurity agency claims the U.S. orchestrated the $13 billion hack of LuBian, a major Bitcoin mining pool\u2014an incident only revealed after Arkham Intelligence exposed it in 2025.With the DOJ later indicting Chen Zhi and seizing the bitcoin, both countries are now clashing over one of crypto\u2019s most extraordinary and contested seizures."
     },
     {
-      "headline": "1 Reason I Will Never Sell Bitcoin",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcmhqX3ZSZDdlVEgxTm5xdDN5V3VITHhEc3VLSl9pdXpiVlN1dGZqb01Dck14cnZhaTBiVllYSjNORWxZTVZOQkYtQ0J4V0VqZlczeUdOQ01XSktKcU8tblZDTnRMUjRCTWFRUVBJb1YxS2lUNHdSbTA4R1lNMjRzMQ?oc=5",
-      "pub_date": 1764454200.0,
-      "article_url": "https://www.fool.com/investing/2025/11/29/1-reason-i-will-never-sell-block/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F842961%2Fgettyimages-2227814466-1200x540-cbfad9a.jpg&w=1200&op=resize",
-      "description": "Bitcoin has one advantage no other cryptocurrency can match."
-    },
-    {
       "headline": "Opinion: Bitcoin is now the barometer for the buckwild U.S. economy, and it looks bad",
       "source": "The Globe and Mail",
       "source_url": "https://www.theglobeandmail.com",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-11-29T23:55:59.413897+00:00"
+  "fetched_at": "2025-11-30T01:58:27.762992+00:00"
 }
