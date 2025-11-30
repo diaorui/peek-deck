@@ -79,6 +79,17 @@
       "description": "I just found out about Sunday AI and their approach to training robots which is giving gloves to humans. https://www.sunday.ai/ I\u2019m wondering if there are more companies that have taken this approach?"
     },
     {
+      "title": "Best countries for a robotics career (humanoids, drones, home robots) from 2026\u20132030?",
+      "author": "Kindly-Fix-7049",
+      "url": "https://www.reddit.com/r/robotics/comments/1paanag/best_countries_for_a_robotics_career_humanoids/",
+      "published": 1764481697.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Nema 17 Gearbox for Robotic Arm",
       "author": "Traditional_Scar_430",
       "url": "https://www.reddit.com/r/robotics/comments/1pa5x78/nema_17_gearbox_for_robotic_arm/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Today I set up the Christmas tree. The hardest part was untangling last years knot of lights. A electrical cord with lights, all serated in a little plastic tree design, and perfectly designed for entangement and knotting. My 7 year old tried for half an hour and couldn't do it.It took me the whole hour I reckon. My question to the community; how would robotics go at a job like this? There's times when you just need to be gentle and pull, and others when you really do need to unknot it. It's as tricky as they come."
-    },
-    {
-      "title": "Actuator/servo",
-      "author": "NoIntern2903",
-      "url": "https://www.reddit.com/r/robotics/comments/1p9xup1/actuatorservo/",
-      "published": 1764445370.0,
-      "thumbnail": "https://a.thumbs.redditmedia.com/YP9Klcl1OT6-6xAMhULhsiYLepWK0L5m_fJh0PPffe4.jpg",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Many in the RC community haven\u2019t been able to help a lot in these regards. Im struggling to get my servo programmed how I want it to for my RC snow plow and I\u2019m not sure how to program two actuators to act as my angle method so one comes in when the other pushes out and vice versa the other direction. Currently I\u2019m using an RC winch controller board on my RX to TX as my lift actuator and it works. When I tried to program two actuators to do as I wanted with the opposite wires tied together i think wires crossed and shorted the controller board. But I don\u2019t think ot could handle two actuators anyways. I\u2019m really wanting to keep this a simple build using a single battery if possible and on one TX. Any help appreciated. Pics are of my plow."
     }
   ],
-  "fetched_at": "2025-11-30T12:52:41.867904+00:00"
+  "fetched_at": "2025-11-30T13:41:25.506084+00:00"
 }
