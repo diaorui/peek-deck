@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.22699",
       "arxiv_url": "https://arxiv.org/abs/2511.22699",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22699.png",
-      "upvotes": 71,
+      "upvotes": 72,
       "num_comments": 1,
       "published_at": "2025-11-27T13:52:07.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
@@ -73,7 +73,7 @@
       "num_comments": 4,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
-      "github_stars": 4862,
+      "github_stars": 4891,
       "project_page": "https://ai.meta.com/sam3/"
     },
     {
@@ -130,7 +130,7 @@
       "num_comments": 2,
       "published_at": "2025-11-23T07:29:33.000Z",
       "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
-      "github_stars": 565,
+      "github_stars": 599,
       "project_page": "https://github.com/VectorSpaceLab/general-agentic-memory"
     },
     {
@@ -168,7 +168,7 @@
       "num_comments": 6,
       "published_at": "2025-10-16T06:18:48.000Z",
       "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-      "github_stars": 65471,
+      "github_stars": 65500,
       "project_page": null
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-01T21:43:17.633105+00:00"
+  "fetched_at": "2025-12-01T22:49:54.372489+00:00"
 }
