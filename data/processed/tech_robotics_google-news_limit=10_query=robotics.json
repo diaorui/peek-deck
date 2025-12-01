@@ -15,26 +15,6 @@
       "description": "Sunday Robotics came out of stealth mode last week and revealed a team stocked with Tesla alumni."
     },
     {
-      "headline": "Chinese model with high success rate helps humanoid robots adapt to tasks without training",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZG1rLWRaZVByem9hQnFTRUZNRS1FbTFISTFYbHIySHJ6bmt2U1EzOHFYN1A0S3FPTHN2VTZpYnYtTXdPWlpxMzdPTjhybjYtWjFsQnV0bUE2NVFWNE5mOTIxaUsweGM0eThoRkVZMldpTVdzUTNWdnJxYkY2eVliQS0zQVlPMXVBMkE?oc=5",
-      "pub_date": 1764429300.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/chinese-model-humanoid-robots-tasks",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/Wuhan-robot.jpg",
-      "description": "New Chinese robot logic framework lets humanoid robots reliably grasp unfamiliar objects with an 87% success rate."
-    },
-    {
-      "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQUlRGQnM2SUM2OTJDUmt6OE02aDhiNmt2LW85X0V0Q3hrNHcxQl9yelBTMmRnTlg4bnVzLWNQZ2lXSThlcGRfMUthSzgwWmVvbmYtYlFJMWpfYlM1cndycGhLQkFHSzVLUGI0bXdUMGFVRXFybzFhckRfLThnWXZJSFBpXzFjTTJxMTlkZHo4Ujh3RjU5Yk5JU2JJS1BHN25fUXJ3TmdvSmVFZ0M2V1B0MVZPdXJWRFBXaEEtZnRIU3VxNk1hSzRVajItX0JXRm93MEg4MVZQSmZaeW5XU0E3aFF5R1lIQkNmR0VXaGR3bUlLRWRkTGF0VHJleVNLb2QxaEdJMFRkWE9kOWp2UktLcTF4MlZDNXh6dUFaSHdWeEdiMWVnckpxV1RwRlBNX19tLWY5SXVFZTFFaG80TDNGa0h6WXJWOFFrcXZnbHRHVWJaUkN6ZXlzbWJEelNqRGl3VGxFMTlHaEdQMkNTRVNoQzFTX21xOWFlU1dXOHEzdUw4ajc1?oc=5",
-      "pub_date": 1764352680.0,
-      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqcN2BtYISeiPpbuAiS4jmMgjCkF25F0pPUO2nxbEmwCiSV8tWCUXbJm&gaa_ts=692d1707&gaa_sig=iBdqA2iijxkDr26Klubo9fe4H6JkVVxRr5EuqLSDAP4w7ZgVTJw3LrGiTw5QU_1HFjz2FLaTHeMQ304T7_UQOQ%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Video Friday: Disney\u2019s Robotic Olaf Makes His Debut",
       "source": "IEEE Spectrum",
       "source_url": "https://spectrum.ieee.org",
@@ -85,6 +65,36 @@
       "description": "Will TER's AI-fueled profits outshine SERV's bold growth bets as both robotics stocks head into a pivotal 2026?"
     },
     {
+      "headline": "Elon Musk teases a future run by robots",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45dGdfN2xGeXE0Z2xEWXFfUFhCdVRmTzFxVERpNkV5bzlPT01VeDYxQy12MEtLRTcxbGh1bzFvTmtHclpES2VrdnJxSjJjZVlBYjhSVG1qUmpacy1NSER5TmlnWnBXSzhVdHRPb0NiZFTSAXZBVV95cUxPVm10WE9VVjdCSTROQXFkYlJFWU1oV0FDZGlZZDF3OXlxVVpWVE05Q080UmY1NTlDWE5DUmtTYmZwV3lzUzdyLVhodEdfWnVxdEFHbTNleDlGYnZOYmtoXzhUMkkwMW9ERGJtcW9GMjF1eXJpRndR?oc=5",
+      "pub_date": 1764505813.0,
+      "article_url": "https://www.foxnews.com/tech/elon-musk-teases-future-run-robots",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/tesla-optimus-robot-002.jpg",
+      "description": "Viral video shared by Elon Musk shows Tesla's Optimus humanoid robots performing tasks from cooking to construction, garnering over 58.5 million views on social media."
+    },
+    {
+      "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPZnExaXNjenpsYmp6SWpqU3ZfbjVSQ3JuWlAwTEJ4emg5bEJJMW1CU1lCcTF0dEdQZm5Ydmg0UTFTTWlCVklZYzgwbUctRTVqcDlvcW5xX3UxRmVidk1zdFdKdS1DUlpoU1Nna2YyNTRzY2Y2ckdoTkJNVHJoTndIOFVCVnpHQVJ2UmJjMzBNb0tXWTd0RVY4MzdFa3ZTTHo2Q2xicnRvVDgwYmVQYVNoT0FPZFZzTXBHTURzeEdqcXNyYUZaS2ZaNXE3MnlUR2c0UVpNM3YzUUg2Tm5WdFpHRmVWNDJ4QmptUEd0NzNuLXFIZE1zWDJmNUJlanhOMlVVdHliVTJUeDdCczRyVW84NVc2RWJZU1FKMnVlTVdCdWFCbUZJbWc5Ti1wS01zRU0xbVNEWDlIckR2d0xIV2RUZ3hPU3RPemlBYWwzSW4xNmhlaUdrajl6REtPSEhWM1JhdE5NRHZaZ3pXRTg1SzczSWx4eE9pZFNPQ000MlByNF9KNTZz?oc=5",
+      "pub_date": 1764352680.0,
+      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqekyB0qjaQdmfceoN5w7hk6jhWquS-jHsFRsy4rm4e2syBnNuADYzja&gaa_ts=692d236d&gaa_sig=TOrNhoRnU7-0nXi4NqT9ZefEld8zJS16bkRmozq79VjNb7MbvP-HCF5tsktHLkudTUzsMxvqvSKP4GO_5yhUCg%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Chinese model with high success rate helps humanoid robots adapt to tasks without training",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZG1rLWRaZVByem9hQnFTRUZNRS1FbTFISTFYbHIySHJ6bmt2U1EzOHFYN1A0S3FPTHN2VTZpYnYtTXdPWlpxMzdPTjhybjYtWjFsQnV0bUE2NVFWNE5mOTIxaUsweGM0eThoRkVZMldpTVdzUTNWdnJxYkY2eVliQS0zQVlPMXVBMkE?oc=5",
+      "pub_date": 1764429300.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/chinese-model-humanoid-robots-tasks",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/Wuhan-robot.jpg",
+      "description": "New Chinese robot logic framework lets humanoid robots reliably grasp unfamiliar objects with an 87% success rate."
+    },
+    {
       "headline": "Robots learn to plan and adapt in real time with BrainBody-LLM AI tech",
       "source": "Interesting Engineering",
       "source_url": "https://interestingengineering.com",
@@ -93,18 +103,8 @@
       "article_url": "https://interestingengineering.com/ai-robotics/brainbody-llm-algorithms-make-robots-think",
       "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/BrainBody-LLM-algorithms.jpg",
       "description": "NYU engineers unveil a system that helps robots think through tasks and succeed in settings that usually trip them up."
-    },
-    {
-      "headline": "A surgeon father and an artist son discover a common love: robots",
-      "source": "Inquirer.com",
-      "source_url": "https://www.inquirer.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRnU5YXl1MGxLeGh5Q2otbmVfWGs2SWhJTEpEQ3d6LUVmZ3dXRWlaQjhLOUoyeHByQU82cUlUb0FPcWU5VExjU2x4RmNxY1g2dFZGZE5hVmk1Ni1weHJDY0N1NmRHQlM2RlJ3U2xPQUIwZXVXZGFMdlJFRFJ3MXRaT29SeTNGbFBsUHA0cjBxeDk?oc=5",
-      "pub_date": 1764410400.0,
-      "article_url": "https://www.inquirer.com/arts/jake-gregory-weinstein-penn-robots-clankers-20251129.html",
-      "image": "https://www.inquirer.com/resizer/v2/FGOVUEXRGZDZTLAH7OLXX76XAE.jpg?auth=4ec83c9ee2b73e92423e78e04ca58a5f0d75817327318909545225b8135bda9f&width=760&height=507&smart=true",
-      "description": "Gregory Weinstein is a pioneer of robotics surgery. He builds Legos with his son Jake who, unsurprisingly, now designs his own robots on paper and sculpture."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T04:03:34.708565+00:00"
+  "fetched_at": "2025-12-01T04:56:28.126623+00:00"
 }

@@ -23,8 +23,8 @@
       "url": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
       "hn_url": "https://news.ycombinator.com/item?id=46098992",
       "author": "nutanc",
-      "points": 369,
-      "num_comments": 274,
+      "points": 374,
+      "num_comments": 279,
       "created_at": "2025-11-30T18:17:13Z",
       "object_id": "46098992",
       "image": null,
@@ -38,7 +38,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46080289",
       "author": "azinman2",
       "points": 267,
-      "num_comments": 103,
+      "num_comments": 104,
       "created_at": "2025-11-28T16:49:12Z",
       "object_id": "46080289",
       "image": "https://objectiveunclear.com/images/airloom.png",
@@ -121,8 +121,8 @@
       "url": "https://www.erdosproblems.com/forum/thread/124#post-1892",
       "hn_url": "https://news.ycombinator.com/item?id=46094037",
       "author": "nl",
-      "points": 130,
-      "num_comments": 35,
+      "points": 140,
+      "num_comments": 37,
       "created_at": "2025-11-30T05:19:33Z",
       "object_id": "46094037",
       "image": null,
@@ -145,7 +145,7 @@
       "site_name": "garymarcus.substack.com"
     }
   ],
-  "total_hits": 306,
+  "total_hits": 309,
   "has_metadata": true,
-  "fetched_at": "2025-12-01T04:03:13.012677+00:00"
+  "fetched_at": "2025-12-01T04:56:03.196223+00:00"
 }

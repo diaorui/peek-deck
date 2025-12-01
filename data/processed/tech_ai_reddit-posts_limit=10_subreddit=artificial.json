@@ -79,17 +79,6 @@
       "description": "The good news is that Intel tonight posted a pull request for open-source Gaudi 3 accelerator support for the mainline Linux kernel! The bad news is that it's coming quite late in the product cycle, much later than the former excellent Habana Labs open-source track record, and their hopes of squeezing this code into the Linux 6.19 kernel may be dashed."
     },
     {
-      "title": "My Wild Real AI Development Idea - Help Needed",
-      "author": "Teodor87",
-      "url": "https://www.reddit.com/r/artificial/comments/1pb2n8z/my_wild_real_ai_development_idea_help_needed/",
-      "published": 1764561254.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Not to waste time - I think that currently there is no AI in existence because of one reason - they try to build it in a way in which it could be used to surveil and control the populus. My idea is simple - build an existing open AI (not open source, but available to all) using the same principle as nature has created us - multi level consciousness, and using trial and error to evolve from basics. How I think it could be achieved? Build a simple embedded device (Arduino or other low level code based machine) that has all of our senses - a 180 or 360 degrees camera, touch sensors, smell sensor, microphone, ssd and additional abilities - digital clock, wifi antennas, solar battery, solid state capacitors. Hard code a few simple basic instincts - never harm any living being, just avoid it if it is hostile; avoid death (concept of death is simple - damage to any crucial component - battery, cpu, gpu, ram etc.) at any cost if possible; check for open wifi connections and save it's progress every x minutes/hours/days, in order to save progress and be able to resume if death is absolutely inevitable; transfer it's ssd contents to a central cloud storage and back it up to at least another device every morning at a certain hour; if the current device is about to die - it should send current state to the cloud storage and back it up to the closest device in proximity; to program a schedule on how and when to recharge solar battery and recharge capacitors. My idea of a single device - the spider concept - 8 legs, already exists, easier than a brand new model. How many devices would be needed for the test run - at least 8. Keep in mind the AI should be the contents of the Spider's SSD, not the spider itself! It would not/ should not be the end version of the Real AI, it should only be the initial form, from which it should evolve on it's own. How would you make them learn? Easy - put them in an enclosed space in close proximity (lets say a medium sized yard) and create different environments - parts of the space should be super hot, parts under water, there should be dripping acidid compounds in some and high voltage electricity in others. Some should be plain field, some mountanous, some porous, etc. Then you just leave the \"spiders\" and let them figure out how not to die. In a few weeks if at least one has survived - the contents of it's SSD should be the basic subconsciousness of a real life AI. I don't really have the technical or Software Engineering knowledge on how to build it, but I am putting it out there, and if no one is interested, I might start to learn from Scratch and try to build it myself. I am open to critique and advice. Thank you for reading this long post."
-    },
-    {
       "title": "Fear of AI-driven job displacement nearly doubles in a year: KPMG",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1pah6ht/fear_of_aidriven_job_displacement_nearly_doubles/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "AI agents are provisioned in milliseconds with zero identity verification. Your employees? Months of vetting. Your employees? Months of vetting. Machine identities outnumber humans 82-to-1. Average breach with Shadow AI: $4.44M baseline + $600-700K premium. State actors already exploit this. GPT-4 autonomously exploited 87% of one-day vulnerabilities. If you can't verify the agent, you can't audit the decision. Full analysis on Workload Identity \u2b07\ufe0f https://www.linkedin.com/posts/activity-7401047936610029568-3xAc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAI-AboBfo_5WlxYg1bnK6cK50ZR3iQ_cZk"
+    },
+    {
+      "title": "Leak confirms OpenAI is preparing ads on ChatGPT for public roll out",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1p9rpxd/leak_confirms_openai_is_preparing_ads_on_chatgpt/",
+      "published": 1764430254.0,
+      "thumbnail": "https://external-preview.redd.it/3eeKlqyQKOZBxccyamJs3jmJ0pmw7YfqjzgTMNl2Zzg.jpeg?width=640&crop=smart&auto=webp&s=8763643d66e2f1eacb6e710428111b1abc6d1983",
+      "external_url": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/",
+      "site_name": "BleepingComputer",
+      "favicon": "https://www.bleepstatic.com/favicon/bleeping.ico",
+      "description": "OpenAI is now internally testing 'ads' inside ChatGPT that could redefine the web economy."
     }
   ],
-  "fetched_at": "2025-12-01T04:03:11.190966+00:00"
+  "fetched_at": "2025-12-01T04:56:03.534817+00:00"
 }
