@@ -92,7 +92,7 @@
       "num_comments": 3,
       "published_at": "2025-11-20T13:31:46.000Z",
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
-      "github_stars": 4201,
+      "github_stars": 4244,
       "project_page": "https://ai.meta.com/sam3d/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-01T09:46:30.048174+00:00"
+  "fetched_at": "2025-12-01T10:52:53.029746+00:00"
 }
