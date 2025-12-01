@@ -57,6 +57,17 @@
       "description": "Non-Paywall: https://archive.is/T8jcF"
     },
     {
+      "title": "Google CEO warns US AI regulations risk ceding edge to China",
+      "author": "JTHGraphics",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbfm42/google_ceo_warns_us_ai_regulations_risk_ceding/",
+      "published": 1764602765.0,
+      "thumbnail": null,
+      "external_url": "https://thinkautomated.io/news/pichai-warns-patchwork-us-ai-rules-risk-ceding-edge-to-china",
+      "site_name": "thinkautomated.io",
+      "favicon": "https://thinkautomated.io/logo.svg",
+      "description": "Sundar Pichai says a fast-growing patchwork of state AI laws could slow U.S. innovation and hand China an edge unless Congress sets clear national standards. Here\u2019s what he said, how the U.S. debate compares with Europe and China, and what automation leaders should do now."
+    },
+    {
       "title": "AI training has a big black market problem",
       "author": "businessinsider",
       "url": "https://www.reddit.com/r/artificial/comments/1pbjt8y/ai_training_has_a_big_black_market_problem/",
@@ -66,6 +77,17 @@
       "site_name": "Business Insider",
       "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
       "description": "A shadow market for AI training and data labeling accounts has emerged, with scammers selling Outlier, Mercor, and Surge AI accounts online."
+    },
+    {
+      "title": "Flock Uses Overseas Gig Workers to Build Its Surveillance AI",
+      "author": "wiredmagazine",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbi3rf/flock_uses_overseas_gig_workers_to_build_its/",
+      "published": 1764608338.0,
+      "thumbnail": "https://external-preview.redd.it/nNJTcufzmDPgqpf3Qg_4mdwrogcJF42ymcNHrF4adRw.jpeg?width=640&crop=smart&auto=webp&s=30d6094f031d551bbb943abf8870b20055f31746",
+      "external_url": "https://www.wired.com/story/flock-uses-overseas-gig-workers-to-build-its-surveillance-ai/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "An accidental leak revealed that Flock, which has cameras in thousands of US communities, is using workers in the Philippines to review and classify footage."
     },
     {
       "title": "Perplexity permabanned me in their official sub for citing their own documentation to expose \"Deep Research\" false advertising and massive downgrade.",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Recently, I've observed that responses from ChatGPT, Gemini, and Meta often redirect to paid services or commercial website links. Initially, when I used these models and asked for free alternatives to computer operating systems or cost-free places to visit, they provided excellent recommendations by searching platforms like Reddit and other popular online communities. However, now when I ask similar questions, I receive commercial results. For instance, when I inquire about free family-friendly parks, I receive responses suggesting paid options like, \u201cI couldn\u2019t find free places to visit, but you can enjoy a great family day at [location] for $20 per person.\u201d Similarly, when I ask for tech stores offering affordable laptops, the responses are like, \u201cI wouldn't recommend cheap laptops; consider these websites for quality and productive laptops: apple.com, bestbuy.com,\u201d etc. This shift is puzzling."
-    },
-    {
-      "title": "Flock Uses Overseas Gig Workers to Build Its Surveillance AI",
-      "author": "wiredmagazine",
-      "url": "https://www.reddit.com/r/artificial/comments/1pbi3rf/flock_uses_overseas_gig_workers_to_build_its/",
-      "published": 1764608338.0,
-      "thumbnail": "https://external-preview.redd.it/nNJTcufzmDPgqpf3Qg_4mdwrogcJF42ymcNHrF4adRw.jpeg?width=640&crop=smart&auto=webp&s=30d6094f031d551bbb943abf8870b20055f31746",
-      "external_url": "https://www.wired.com/story/flock-uses-overseas-gig-workers-to-build-its-surveillance-ai/",
-      "site_name": "WIRED",
-      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
-      "description": "An accidental leak revealed that Flock, which has cameras in thousands of US communities, is using workers in the Philippines to review and classify footage."
-    },
-    {
-      "title": "More of Silicon Valley is building on free Chinese AI",
-      "author": "boppinmule",
-      "url": "https://www.reddit.com/r/artificial/comments/1pbao22/more_of_silicon_valley_is_building_on_free/",
-      "published": 1764589461.0,
-      "thumbnail": "https://external-preview.redd.it/OmQhaJFYusd_6BoEAmpETVbmV-j9iUqnPAIX8zdt-yE.jpeg?width=640&crop=smart&auto=webp&s=349b2df57a77a2b5df77ab3b848267efef6e4117",
-      "external_url": "https://www.nbcnews.com/tech/innovation/silicon-valley-building-free-chinese-ai-rcna242430",
-      "site_name": "NBC News",
-      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
-      "description": "AI startups are seeing record valuations, but many are building on a foundation of cheap, free-to-download Chinese AI models."
     }
   ],
-  "fetched_at": "2025-12-01T18:55:01.910391+00:00"
+  "fetched_at": "2025-12-01T19:39:25.896245+00:00"
 }

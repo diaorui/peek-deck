@@ -5,16 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitcoin, ether fall sharply as crypto sell-off resumes",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
-      "pub_date": 1764574221.0,
-      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
-      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
-    },
-    {
       "headline": "Bitcoin, Ethereum, and XRP Crash Triggering $637M in Liquidations",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -33,6 +23,16 @@
       "article_url": "https://decrypt.co/350478/bitcoin-ethereum-xrp-etfs-bounce-back-brutal-month-crypto-funds",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/ETF2-gID_7.png",
       "description": "Crypto prices are falling again Monday, but Bitcoin, XRP, and Ethereum funds are coming off a strong week for flows following recent losses."
+    },
+    {
+      "headline": "Bitcoin, ether fall sharply as crypto sell-off resumes",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
+      "pub_date": 1764574221.0,
+      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
     },
     {
       "headline": "Ethereum News: BitMine (BMNR) Bought 97K in ETH Ahead of Fusaka Upgrade",
@@ -75,6 +75,16 @@
       "description": "Ethereum presently trades around $3,000 following a broader crypto market rebound in the last week. During this time, the market\u2019s largest altcoin gained by 7.22%, providing a much-needed relief after an extended correction that dominated the majority of the last two months. As price stabilizes, cr\u2026"
     },
     {
+      "headline": "Ethereum Price Near Cycle Bottom? A 28% Move Now Looms",
+      "source": "BeInCrypto",
+      "source_url": "https://beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jcENGQWg1aGZEa3ZuaXdRSzdzUDBZNUpUZGpUXzdsa0VNeGZ2RXQwZXFrYmFyRlVValROc2VKNG9BVEhQajBCdWQ5aFlaZzltTl8wYmF1Y1FiYUpRYzl2Y1dCTS10MTR6bFpQZXZBQTI?oc=5",
+      "pub_date": 1764565920.0,
+      "article_url": "https://beincrypto.com/ethereum-price-28-percent-bottom-signal/",
+      "image": "https://assets.beincrypto.com/img/ckycdvAPgz5vbaQi46k3_mBON0E=/smart/c04bd40749654320be7e15e39e9fe79c",
+      "description": "Ethereum price now shows a rare setup seen only near major bottoms. Is a 28% shakeout coming before the next rebound?"
+    },
+    {
       "headline": "Why Did Ethereum Drop? Crypto Crash Dents Ethereum Price Prediction for December",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.ccn.com/analysis/crypto/ethereum-december-prediction-eth-price/",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Ethereum Price Near Cycle Bottom? A 28% Move Now Looms",
-      "source": "BeInCrypto",
-      "source_url": "https://beincrypto.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jcENGQWg1aGZEa3ZuaXdRSzdzUDBZNUpUZGpUXzdsa0VNeGZ2RXQwZXFrYmFyRlVValROc2VKNG9BVEhQajBCdWQ5aFlaZzltTl8wYmF1Y1FiYUpRYzl2Y1dCTS10MTR6bFpQZXZBQTI?oc=5",
-      "pub_date": 1764565920.0,
-      "article_url": "https://beincrypto.com/ethereum-price-28-percent-bottom-signal/",
-      "image": "https://assets.beincrypto.com/img/ckycdvAPgz5vbaQi46k3_mBON0E=/smart/c04bd40749654320be7e15e39e9fe79c",
-      "description": "Ethereum price now shows a rare setup seen only near major bottoms. Is a 28% shakeout coming before the next rebound?"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T18:55:19.285024+00:00"
+  "fetched_at": "2025-12-01T19:39:41.973882+00:00"
 }

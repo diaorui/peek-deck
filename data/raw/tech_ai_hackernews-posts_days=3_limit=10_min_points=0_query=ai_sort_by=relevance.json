@@ -23,8 +23,8 @@
       "url": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
       "hn_url": "https://news.ycombinator.com/item?id=46098992",
       "author": "nutanc",
-      "points": 423,
-      "num_comments": 335,
+      "points": 425,
+      "num_comments": 339,
       "created_at": "2025-11-30T18:17:13Z",
       "object_id": "46098992",
       "image": null,
@@ -37,7 +37,7 @@
       "url": "https://www.bbc.com/news/live/cvg4y6g74ert",
       "hn_url": "https://news.ycombinator.com/item?id=46082825",
       "author": "nrhrjrjrjtntbt",
-      "points": 232,
+      "points": 233,
       "num_comments": 104,
       "created_at": "2025-11-28T21:16:46Z",
       "object_id": "46082825",
@@ -93,8 +93,8 @@
       "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
-      "points": 119,
-      "num_comments": 161,
+      "points": 129,
+      "num_comments": 175,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
@@ -107,7 +107,7 @@
       "url": "https://viewfromthewing.com/airbus-a320s-could-be-temporarily-grounded-worldwide-for-software-update-after-faulty-jetblue-computer-triggered-sudden-uncommanded-descent/",
       "hn_url": "https://news.ycombinator.com/item?id=46082296",
       "author": "JohannMac",
-      "points": 111,
+      "points": 112,
       "num_comments": 66,
       "created_at": "2025-11-28T20:06:52Z",
       "object_id": "46082296",
@@ -145,7 +145,7 @@
       "site_name": "Pete Warden's blog"
     }
   ],
-  "total_hits": 376,
+  "total_hits": 374,
   "has_metadata": true,
-  "fetched_at": "2025-12-01T18:55:01.844852+00:00"
+  "fetched_at": "2025-12-01T19:39:25.883489+00:00"
 }

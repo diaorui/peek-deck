@@ -5,12 +5,52 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Move Over, Computer Science. Students Are Flocking to New A.I. Majors.",
+      "headline": "College Students Choosing A.I. Majors Over Computer Science",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQzBCcTJWdGk2N3psSEtzUGdQekluQVdtSk04UV9hcTJuR3JYaWdxblhSUHQxUWMtT200UzM4Ykw5TlQ2cks3dkQ4WEVSM0NaSHlvOG11WTQwa3dSQ1d5NklwWTdDT0JrX2phTk5qZ3JNRHBsWFVLWWUySXY4c3pvaGZyMTQ0al9HckFz?oc=5",
       "pub_date": 1764602758.0,
       "article_url": "https://www.nytimes.com/2025/12/01/technology/college-computer-science-ai-boom.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "\u2018It\u2019s going much too fast\u2019: the inside story of the race to create the ultimate AI",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMEY4SE05SHRWdUhCVWZPZEdmLXVCUlpIckthU2phZ3hqelg4cEgzNEFtVi1aakdGaHFPei1naW5iZHVNTDFIY2JvVEJ6UW5kRkotMHFuelpRVVdReHp6VVVTcVFsdDZ6dlZrNHVrT2Q5ZF9kd3p1QWFDRUxrXzZjN0pMZElxLVFEaGRVUlpxYk0xcDN2cUFHMlUwWjJNVlBmQ3JwaHN3aFE4YUZGTnJyRThmY051SmNBRDd5VTI0UGFiNmVPX1NMOFN1b0dINWwzTDRuZFNQMkQ3T2Ez?oc=5",
+      "pub_date": 1764612660.0,
+      "article_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai",
+      "image": "https://i.guim.co.uk/img/media/3a0b9b3f8dd7ac48f7a548037c63002bc5661c22/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd918b07d627fc9aa7296acc6d16da0d",
+      "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
+    },
+    {
+      "headline": "AI construction boom creates six-figure jobs across the country",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XZk1hYkd3bnRuX3dvYzktNTdveXo4NUZzV3JQMDY1RDdlMkxfMjdaR0UycHRkd29tdXVSaDhwazlBX1I1cUJkbV8yb2p0Q2xwaU1oNU5aWmZwSGc?oc=5",
+      "pub_date": 1764616407.0,
+      "article_url": "https://www.foxbusiness.com/video/6385808601112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/be4780d1-109b-46fc-a667-0d104fcceb02/7907eebf-62ad-40ac-afcc-b00c9c3b4c2e/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "\u2018The Big Money Show\u2019 panel discusses how the A.I. construction boom is reshaping America\u2019s workforce, driving six-figure salaries for skilled trades and igniting a modern-day gold rush."
+    },
+    {
+      "headline": "Congress begins final session of 2025 with healthcare (and a dash of AI policy) on the docket",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd1pncnIxc0VLTWtqdnJ5MUNLR0JxVW5YZUxPWkd0ajd1SWZIcjdUQk1TUTZVaGxMQS1Zbnc5WGtWT1ptc1h1eE83Yjg3RkpvWGlxUEh6ZjNvOEppNFZDY0Z5VnRUVlA5czJ3WE9ndkNNeWlZb1ZpRUFqalVzVUNjM25hSTZSSUhyZVMzM3RBWWg2V0phcjE2UzE0UUFfZ09udkRKX1JpcmdRNi1Jd2p1c2NXTmI3c25LeGZ3c21Qc1NiZlR0NVBxUmt5TW1VcFoyUjBR?oc=5",
+      "pub_date": 1764613652.0,
+      "article_url": "https://finance.yahoo.com/news/congress-begins-final-session-of-2025-with-healthcare-and-a-dash-of-ai-policy-on-the-docket-182732290.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/KQdPmun7iPekWYrlbXWaew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/f5bbb960-ced2-11f0-b3c7-55512a36e9fc",
+      "description": "At the top of lawmakers' economic agenda is a promised vote on healthcare left over from the 43-day shutdown fight. Also being debated are two limited AI measures that have a last chance for action in 2025."
+    },
+    {
+      "headline": "What AI Bubble? Databricks Is in Talks to Fundraise at a $134 Billion Valuation",
+      "source": "Inc.com",
+      "source_url": "https://www.inc.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS2p0QVRsdmpuVzhUZGxTNU5OZDd4eXdZRUI4SWJUZFg5T0hCa1pWQk1HRFNITHJEdGFRX1Fmc1JQaDdfNW9zcDc5S05zRUtBVk5aZmxmWnNHNnBhSTMtb20zSVE2bkNlYWp0bElVMGIzVDFSLUt3U2JYbHdqRm1lUTZxNHJia3RaZDUzSDg4Z2pnckh4RXZwY05iV0hlNWNNNkhvX1ctSUZOdGI0a3VFekdKV29Edl83?oc=5",
+      "pub_date": 1764616885.0,
+      "article_url": "https://www.inc.com/jennifer-conrad/ai-bubble-databricks-fundraise-134-billion-valuation-snowflake-coreweave/91272464",
       "image": null,
       "description": null
     },
@@ -25,46 +65,6 @@
       "description": "Using artificial intelligence to identify Congressional districts where independent candidates could win, an organization called the Independent Center is aiming to disrupt the two-party system."
     },
     {
-      "headline": "Inside Alters AI: the Startup Using Advanced Graphics to Redefine Artist-Fan Connection",
-      "source": "USA Today",
-      "source_url": "https://www.usatoday.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVjUxMjZBbEZKNjhIbEFDOUNfUGp1ZHpmODFVMUJLSENjWHlWUWJfeDFNZWlheHpZeDNXTjY5MzVxYU9Kdkk1N3owblBFM05tbkMyU2Y0RDBtT1diTldJVmF1WWxEcWRvSXZ5bVdRUUNfVTQtSzQ0bXRHSkY2VU1GSXF5QWtmT1BxS0VyakdTSGFFazJaT0F1OTdYekdSNlBHeloyQUNUTFhaaTczTmwyRjlIN3VaRmFWQzBFUTh4dTFlZmNrSjB4WlR1Smp0amF2UE5RTTVhc2VEQ3dsaVFKSUhDU3ZJMmZmWEhYYm1tVlphS18tSC1PRnVvS1cydw?oc=5",
-      "pub_date": 1764612298.0,
-      "article_url": "https://www.usatoday.com/story/special/contributor-content/2025/12/01/inside-alters-ai-the-startup-using-advanced-graphics-to-redefine-artist-fan-connection/87552157007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/01/USAT/87552169007-image-1-35.jpg?crop=1599,899,x0,y0&width=1599&height=899&format=pjpg&auto=webp",
-      "description": "At its core, the platform uses cutting-edge graphical engines and proprietary AI models to generate digital twins with striking lifelike realism."
-    },
-    {
-      "headline": "Let It Die's sequel is almost here \u2014 and it's full of AI",
-      "source": "Polygon",
-      "source_url": "https://www.polygon.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YYXlVOUVDblk5WXFKbU84RUFEcFJaenhCWTBoS3VvV1VfbVhsSHNCTWRCNTNkMjRNUGNiTkxzdVRMbk5HSThEVVJ4RkQ3VW5iSG9acG0yNWhUaDFhd2JfdDlZWDk2UE9KYS1QNUR3YWlsUQ?oc=5",
-      "pub_date": 1764612420.0,
-      "article_url": "https://www.polygon.com/let-it-die-inferno-ai-generated-content/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/let-it-die-inferno.jpg?w=1600&h=900&fit=crop",
-      "description": "The sequel to 2016's free-to-play adventure uses generative AI for voices, music, and more"
-    },
-    {
-      "headline": "Musk says AI and robotics are 'only' things that can solve massive US debt crisis",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1g3dENUZF9tMlhfbDNZZlB5TmhpRjl1dFlDalM1bFNYVHJGdy1RUC1KTTNqM21DT3JWZ25wRGpBWENwaFI5SzBxQTBFQjhxNTJaNmRTdlhxdGpaRzY3dGs4Q2p1emdRNktzSHhFTUVKR1pYa1RJaUtOeE1QVzhxaGhQZVpaNjFfNm1LU0hFVTg3UmU0N19hbk5YYWZ4d2ExcG9wQ9IBqgFBVV95cUxQWFZ2dGFQZ05STHpLUjJYYld2RjZUYkNJZDJJR0NrdnJvcXJPZ0hRYWVVQ0dybEU1eU1Qa19HSTR3Q2ZiYkJFaDgydFJXSXMxUlRHa2dHeTNNUWh5SUd1Y09MOWNBcHdsYlpUZjllUXFGUjFBRU5DaGNFWTNOT1NmQUhadWZCZF9BQW0yc3pRVlllNTZtUHl4bXFMVXlBUTF6UkdTbHZmVElWUQ?oc=5",
-      "pub_date": 1764612660.0,
-      "article_url": "https://www.foxbusiness.com/economy/musk-says-ai-robotics-only-things-can-solve-massive-us-debt-crisis",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/0/0/Elon-Musk-12.jpg?ve=1&tl=1",
-      "description": "Elon Musk claims AI and robotics are the only solution to America's $38 trillion debt crisis, predicting dramatic economic changes within three years."
-    },
-    {
-      "headline": "\u2018It\u2019s going much too fast\u2019: the inside story of the race to create the ultimate AI",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMEY4SE05SHRWdUhCVWZPZEdmLXVCUlpIckthU2phZ3hqelg4cEgzNEFtVi1aakdGaHFPei1naW5iZHVNTDFIY2JvVEJ6UW5kRkotMHFuelpRVVdReHp6VVVTcVFsdDZ6dlZrNHVrT2Q5ZF9kd3p1QWFDRUxrXzZjN0pMZElxLVFEaGRVUlpxYk0xcDN2cUFHMlUwWjJNVlBmQ3JwaHN3aFE4YUZGTnJyRThmY051SmNBRDd5VTI0UGFiNmVPX1NMOFN1b0dINWwzTDRuZFNQMkQ3T2Ez?oc=5",
-      "pub_date": 1764603060.0,
-      "article_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai",
-      "image": "https://i.guim.co.uk/img/media/3a0b9b3f8dd7ac48f7a548037c63002bc5661c22/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd918b07d627fc9aa7296acc6d16da0d",
-      "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
-    },
-    {
       "headline": "The People Outsourcing Their Thinking to AI",
       "source": "The Atlantic",
       "source_url": "https://www.theatlantic.com",
@@ -73,6 +73,16 @@
       "article_url": "https://www.theatlantic.com/technology/2025/12/people-outsourcing-their-thinking-ai/685093/",
       "image": "https://cdn.theatlantic.com/thumbor/Llk9rk0EWzJeAoNISzv4UhoCgoo=/0x83:2000x1125/1200x625/media/img/mt/2025/11/2025_11_29_AI/original.png",
       "description": "Rise of the LLeMmings"
+    },
+    {
+      "headline": "Millions of Coders Love This AI Startup. Can It Last?",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQSjdZRnhUUnRYSHB1THpjdUpMUTZEekgzbkdDYldDTDBSQVRnZDNFRVRoVkctcGFyX0xuemFDQi11a2c5QnZvMkpRYUI3bnZwUXpvUFVNdEhUNVpyZ1Q0czRwOUVNWlpUZDNrS0JsMUgxOGR5UFlWNE5pZTNEekktRXhmOHFxMjc2RzB3aWFlbjc4Mlc3YklTUkdPTTdjTVp4MXpTZW1oRTR5OVdYVFVxcTBlOW1uNmU3YlY3V3V5cFRmVjYzeU1OSzhzbDZpVFg4MENINnUzRTA5Z05jMTNQN2FhN0xOR1Y3cjhEVEZEMElRSlFJYmR3OFFxQl8yNC1EOEdraDlPV1VQVUgwWjZKaGpaSXFjUWV2eEtZVk1QNEprQ19RLUVlUkNoNlVDQkNNYU5KeFZZNV9KU1FvTGlhMGhvUkh5bFZLVUFVZXc5WFBwd3VRWjJBczdicW11ejdaOFhvVk5RZEc1UlVmRnNqbmZfN2ZzZm5ZQkRCUGdVT1VjbTdua0RmUTV6bXU0LXdzWFZ6VVJNbw?oc=5",
+      "pub_date": 1764608400.0,
+      "article_url": "https://www.wsj.com/tech/ai/millions-of-coders-love-this-ai-startup-can-it-last-45b72441?gaa_at=eafs&gaa_n=AWEtsqdg2PgPhGCiRHgClstZmyGp4-sXJWIhyhlKHSVGE7ogdtC5-w93xYgX&gaa_ts=692df271&gaa_sig=qjOPyMAsb8Ed6rtw2BgfXytDD14dA5-vN5JgBzncP87_D9SBIYAgjT4mJIfhbbySty78q5k6gmeqBgOT6dCbwQ%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Top consultancies freeze starting salaries as AI threatens \u2018pyramid\u2019 model",
@@ -85,26 +95,16 @@
       "description": "Productivity gains from technology are spurring debate about reliance on large numbers of junior advisers"
     },
     {
-      "headline": "Nvidia's massive investments are shaping the AI bubble debate",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5peVhHdnVXMFR2Xy1BbzNmeUgwNXhnRGFrWnM4dWJGVTR4RHphQl83RFR1OTFaMUtIQ1NKY2l4RGd2OHZVSFVSOEQxYUxKNGl5eDBTd3pZRFExMVFIVDZ3eUpGUENJODBXYTQteVlmaTZUdGZuZTAzMHRwcw?oc=5",
-      "pub_date": 1764607109.0,
-      "article_url": "https://www.axios.com/2025/12/01/nvidia-ai-investments-openai-anthropic",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "SoftBank\u2019s Son \u2018Cried\u2019 About Nvidia Stake Sale to Fund AI Bets",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcWtsZ0pZQzNGWE5kWDl3aWpTN2xGaVhwSGlfc0JrOE1tRWdiVU9GWldGUFhZQV9WYnBQY1VQY0tlbkVPaHBGdEhlWUtRMFhxUFBGa2lNbHJReWlIdVgtc3gzOVNwRmkzb3hscVBiV3pNZEh1WXFGMTZsUmJkdnlPZTQ3TQ?oc=5",
-      "pub_date": 1764583041.0,
-      "article_url": "https://finance.yahoo.com/news/softbank-son-cried-nvidia-stake-095721630.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/EZINiF6NzNtfky_3rRjB4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/8aa5cc229d40394437ea44d17d96f7bf",
-      "description": "\u201cI was crying to sell Nvidia shares.\u201d  SoftBank has doubled down on its bets on AI through a flurry of projects that include a Stargate data center with Hon Hai Precision Industry Co., the acquisition of US chip designer Ampere Computing LLC, and plans to invest more in OpenAI by the end of this year."
+      "headline": "Runway rolls out new AI video model that beats Google, OpenAI in key benchmark",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFlHN25tUnNsYi04UVQ1bnUxQzA4c1B4dEtWdGVuVGVReGZEcnFYa05nT2tSSklBcWZKRGN5M2J4TjRRMjA4bUgwZTJBc25oV2JYZ29ESVRVLVlUZjhVbkdnZVdZUU9kY1NUbHlsRmlUdEkxdEVuTWRLRWZBa2xrM0x4bUnSAYoBQVVfeXFMUEZlRHI1S1JtdFdmVkZjNVEzX2VIVlQxTjdOWUZWalU1NnQxMlYtRFRMdGJtbEIzYlFBUm10ZjFlTkxmenAzYmhZNlpiVEV5TndlVHlBU01VSy14OVctUkFpVVFWdFFHTHZYMzFQMW8tM0pQZ0s0WUQ2bHg3MVhveGNxel9HdFN1RTZ3?oc=5",
+      "pub_date": 1764597627.0,
+      "article_url": "https://www.cnbc.com/2025/12/01/runway-gen-4-5-video-model-google-open-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108162827-1750712201805-gettyimages-2207801548-AA_04042025_2159477.jpeg?v=1764542788&w=1920&h=1080",
+      "description": "Gen 4.5, a new AI model that allows users to generate high-definition videos based on written prompts."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T18:55:18.002804+00:00"
+  "fetched_at": "2025-12-01T19:39:50.060736+00:00"
 }
