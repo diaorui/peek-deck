@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-12-01T16:39:49.296491+00:00",
+  "data": {
+    "url": "https://www.tradingview.com/news/cointelegraph:7150b7faf094b:0-eclipse-brings-solana-s-parallel-runtime-to-ethereum/",
+    "title": "Eclipse brings Solana's parallel runtime to Ethereum",
+    "description": "The majority of Ethereum rollups have converged on a single model, in which the EVM is still the execution engine. So parallel execution remains a vague ambition rather than a feature of most Ethereum L2s. Eclipse takes a different path. It brings the Solana Virtual Machine into an Ethereum-anchore\u2026",
+    "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+    "favicon": "https://static.tradingview.com/static/images/favicon/apple-touch-icon-180x180.png",
+    "site_name": "TradingView",
+    "author": null,
+    "keywords": null
+  }
+}

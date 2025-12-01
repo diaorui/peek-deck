@@ -9,20 +9,10 @@
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMEY4SE05SHRWdUhCVWZPZEdmLXVCUlpIckthU2phZ3hqelg4cEgzNEFtVi1aakdGaHFPei1naW5iZHVNTDFIY2JvVEJ6UW5kRkotMHFuelpRVVdReHp6VVVTcVFsdDZ6dlZrNHVrT2Q5ZF9kd3p1QWFDRUxrXzZjN0pMZElxLVFEaGRVUlpxYk0xcDN2cUFHMlUwWjJNVlBmQ3JwaHN3aFE4YUZGTnJyRThmY051SmNBRDd5VTI0UGFiNmVPX1NMOFN1b0dINWwzTDRuZFNQMkQ3T2Ez?oc=5",
-      "pub_date": 1764591000.0,
+      "pub_date": 1764603060.0,
       "article_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai",
       "image": "https://i.guim.co.uk/img/media/3a0b9b3f8dd7ac48f7a548037c63002bc5661c22/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd918b07d627fc9aa7296acc6d16da0d",
       "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
-    },
-    {
-      "headline": "Runway rolls out new AI video model that beats Google, OpenAI in key benchmark",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFlHN25tUnNsYi04UVQ1bnUxQzA4c1B4dEtWdGVuVGVReGZEcnFYa05nT2tSSklBcWZKRGN5M2J4TjRRMjA4bUgwZTJBc25oV2JYZ29ESVRVLVlUZjhVbkdnZVdZUU9kY1NUbHlsRmlUdEkxdEVuTWRLRWZBa2xrM0x4bUnSAYoBQVVfeXFMUEZlRHI1S1JtdFdmVkZjNVEzX2VIVlQxTjdOWUZWalU1NnQxMlYtRFRMdGJtbEIzYlFBUm10ZjFlTkxmenAzYmhZNlpiVEV5TndlVHlBU01VSy14OVctUkFpVVFWdFFHTHZYMzFQMW8tM0pQZ0s0WUQ2bHg3MVhveGNxel9HdFN1RTZ3?oc=5",
-      "pub_date": 1764597627.0,
-      "article_url": "https://www.cnbc.com/2025/12/01/runway-gen-4-5-video-model-google-open-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108162827-1750712201805-gettyimages-2207801548-AA_04042025_2159477.jpeg?v=1764542788&w=1920&h=1080",
-      "description": "Gen 4.5, a new AI model that allows users to generate high-definition videos based on written prompts."
     },
     {
       "headline": "College Students Choosing A.I. Majors Over Computer Science",
@@ -35,24 +25,34 @@
       "description": null
     },
     {
-      "headline": "How upcoming business leaders are using AI to prep for high-stakes deal negotiations\u2014and everyday interactions",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGwzRkVTZnVlUjVDeW1lMTFiRFM2Z0dwYnhXOHN2b0Nsbng2SUVTV2ZEaVJ6amxJa2Rmc2R1aXlnMmkxeW00MEJZWm9QR0VrTUlpMExzX3BCcW9YZ0hiODNjWWpuVmhYUWhKV1UtdkJpSm5DV0Y1VkVUc2xlSTR0VGY5dkd5cjFxWEpZNFVMRzFuVGJDb2JEM3VUOWM?oc=5",
-      "pub_date": 1764601200.0,
-      "article_url": "https://fortune.com/2025/12/01/upcoming-business-leaders-ai-deal-prep-everyday-interactionsprep/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2245748476-e1764181822145.jpg?resize=1200,600",
-      "description": "Students at American University\u2019s Kogod School of Business are learning how to use AI to sharpen the way they negotiate everything from job offers to high-stakes mergers."
+      "headline": "Amazon\u2019s AI chatbot Rufus drove sales on Black Friday",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYmtqdEFEUUtGM2pmLTVvQWdIY3k1ZzhUTTFWRHA5TkpIbE1VTHNPRlhBbTl0Qk5KQ0VPRkNzTjFmNTJTT0tPNDFKSE14RTBweEVIVDdMdlViNnVQLVFMXy1FQTFra0xIYW05Q051c3o2MUo2N3NSVkZOZ3ZnU3JIWWdDQ1VfSTJVZnFTRDloeVI?oc=5",
+      "pub_date": 1764606324.0,
+      "article_url": "https://techcrunch.com/2025/12/01/amazons-ai-chatbot-rufus-drove-sales-on-black-friday/",
+      "image": "https://techcrunch.com/wp-content/uploads/2015/07/shutterstock_197269526.jpg?w=1000",
+      "description": "On Black Friday, Amazon sessions that resulted in a sale were up 100% in the U.S. when the AI chatbot Rufus was used. They only increased by 20% when Rufus wasn't used."
     },
     {
-      "headline": "Sequoia Bets on AI Startup to Ease Wealth Advisers\u2019 Grunt Work",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYlFDZm5PY2pGeGZhT2p4U3dKWDVyS2hZYjlweF9SRmVPNnoxQVBTOHlyS1lhTFpQMzFtMGUyX2JBd0F4bkRMeHkyaFppd2lUdGZONkRiYmQ4WXhUdC03T2JrRGZGT0wxUnN4QllYb2szb1QzR2EwUldBOWZEMEdvbzYzMjZScm1nb3QzdVM2QmIyZG16WEMtOVhzTncybmxLVFFCdTgxNXc1bS1TaXcxNUtR?oc=5",
-      "pub_date": 1764601200.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-01/sequoia-bets-ai-startup-will-help-not-replace-wealth-advisers",
-      "image": null,
-      "description": null
+      "headline": "After Eliminating 25% Of Its Staff, The IRS Is Turning To AI Agents. 'It Would Be Negligence' Not To Use AI Tools",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdFpZbjR0SzFFd0ZuMFBvMTBEa3U3ZTlDQ1BhSHdScFdIczMxbVJ5TTJCd0V2VGkyZFBlTnlMUjFNaDNjRXM0TmxxX3hUTk0zRUItVE00YmtSZlRHOS1HRVhMSFFyRWJ3VGxieXlXWWtEY2FMTzdrSU1WbUhGQWFHN3BrVlg?oc=5",
+      "pub_date": 1764604113.0,
+      "article_url": "https://finance.yahoo.com/news/eliminating-25-staff-irs-turning-154833326.html",
+      "image": "https://media.zenfs.com/en/Benzinga/b7c53a248ae9e672b0f58dbf3facd3e4",
+      "description": "The IRS laid off or lost a quarter of its workforce between January and May, dropping from 103,000 to around 77,000 employees, according to the October Treasury Inspector General for Tax Administration report. Now, it\u2019s turning to artificial intelligence to help fill the gaps. The report says that the IRS has \u201cused AI to improve the efficiency and effectiveness of audits. For example, the IRS integrated statistical and machine-learning techniques into the process used to select tax returns for a"
+    },
+    {
+      "headline": "Runway says its new text-to-video AI generator has \u2018unprecedented\u2019 accuracy",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3cC1ORktqRXVPMnNtc2sxbm9LMHpWUEp6emNYZ3BmcVhEcFRhUUZWN1BpVUxhRDBFQjExMTdNSnJ0VE41d0JNbzdhX0ZCMUw4RDAwWHFTbjNSV0Z6NjlrUU9qM1MtZVdfNDFwZnU4TkFfUnRXVkhCX1RBWjdUSDg?oc=5",
+      "pub_date": 1764606128.0,
+      "article_url": "https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/runway-ai-snowman.png?quality=90&strip=all&crop=0%2C11.278359511344%2C98.61149893869%2C77.443280977312&w=1200",
+      "description": "Is it real or is it AI?"
     },
     {
       "headline": "An independent effort says AI is the secret to topple 2-party power in Congress",
@@ -65,34 +65,24 @@
       "description": "Using artificial intelligence to identify Congressional districts where independent candidates could win, an organization called the Independent Center is aiming to disrupt the two-party system."
     },
     {
-      "headline": "AI-powered children\u2019s toys are here, but are they safe?",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYb3VlX2JucGRPM2N4VVM3VXVEb3kwX0R6Vk8tMGF1bHZrWGZtRFJ3SDdGWjYxNlc3enRINFlnakJmYm81WDhGLWlLYjRvMDJObmYtRkZXUC1LYVZjdzAw?oc=5",
-      "pub_date": 1764583258.0,
-      "article_url": "https://www.cnn.com/2025/12/01/tech/ai-toys-safety",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ai-bear-16x9.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Teddy bears and stuffed plushies have long been a mainstay in toy collections. But today they don\u2019t talk back in a child\u2019s imagination \u2014 they talk through built-in AI chatbots."
+      "headline": "OpenAI takes stake in Thrive Holdings to help accelerate enterprise AI adoption",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80clpFZ1l1QkY5Wl9WR2tsblp3TEdpU1VHaWduVE5CZGxNaUtxRW1majBCZHhJNGlyWUZzYU53WkI3NHotU1dhZmNZaWNISVh1OF9NTHhGbU1obGlMM0hpZDZhUF9nX2tYQUxCajdPcWM5SF8zUEZVQkJ6LTJWWnfSAYQBQVVfeXFMTmxKT3J3V09VQWc2dEp3V2hrbzFNT2RQYlIxRWU4LTVoM202Snl5eHA1QVN2SHB0X01VQndhNEZjZGFMQ3Q5aUdJWjlHUUVwRzdORUJiTERTMnVvRjJKd1Y4cXpMenR5cWJYYlpzMFlneUx1RDVwZVduRndQUGtOOW1xR2Vv?oc=5",
+      "pub_date": 1764604693.0,
+      "article_url": "https://www.cnbc.com/2025/12/01/open-ai-thrive-holdings-enterprise-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108169200-1752008849105-Screenshot_2025-07-08_at_25326_PM.png?v=1752077337&w=1920&h=1080",
+      "description": "OpenAI will embed engineering, research and product teams within Thrive Holding's companies."
     },
     {
       "headline": "Why Bonds Won\u2019t Protect You From an AI Bubble",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPdDVfNFk1OF9fUnN1dHl6amIzektsckt5UVB6M3BxVm44Uy1Bd0tLRDA0UWVMLU5FdGxLZ1FVZFlyT1hpbFNQVC1pQ2tKVXlNMHdKOE5Dc3Nha0xOM2tEcmNaSnVma0dmbE9tZE92cXZFNTRoODdYaUdsTXJHRjNsOEFBSU81OXdJR1hMcERzTS1USkY4MWIzWjJvSWNLMHEwZlJKUFV2WWw5Z29GZTJrSjlHNHl6S3hnYlhCOU9PckpyRGV3QmRUSUhkMGFya3d3Qk8xZVZsQTdsdW9lTXNBR3k0aWM3SGtmNVdWUzRxeGRTeHlnZENGWFFxdFVIaGd5RnRqUTFCUFJDTW11N2JrRVc2N09hTkd5Z3VSZHFzMUVGZDNhaUdlTTJ2aGxvSzlULXNHdWg2el94MkEyQmhTY3BXVThGaWpMRnhNV3VvUlotTThoS05Zd0Jpb1J2V3NERURCbXpzZ2E4dV9RMmVMb3BvMUlPZ2J0dVJXQUdIdGJfMV82MGJfbXdBOEVkWUR6cFl5WVctcmdpbXM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPZWdyb0dCUWdwV2thTnpSNEpzM2JRQ3lwd3dTZlZ5Y1ZmUXFRTGRIN0lXUS1EWEZ2ZThlZ3RuZGx5c3Y0M2JEN0Z1ZXBNbVRpOTg2cGE3aGhSLW9OVXZIOEw0LV9zQ0pnQkRjZnItaTNSR1BOV3B4WkdSYXhxMHRiUnMwbnRBbXRLa0VJRk84UmtzVy1HZko5NWJhWHNZX3JHbU9xLWtydzRWZkd6U0gxZmxlajhKVUtiQ0I2akNSM2JjMThGVm9rTVJ2MTBCTXhkcXlzTEJRZEFHbjlpMUxxYzFydXN4Nk1PWmFwQ0dUemJYdjU1YV80TjNUSnc1NlY3OU5mTkFLQ0lzc01RNmFEZTFienpwVGVUeG5DT0M1Ny1fLVZxeDJwYnNuWTdIOTcyWmxvODI1cVVYVnVjS1kxUFVtWDFtdVA2T3BodVJ6UHp6TUkxdTBiNlZtT2ltV1RNanhGRWlzblJnclhRZUllcFBUUXhNZldFYXE1aDN6ZEdMVjExT18xLU90angxdndRR2RzbndFY24yam8?oc=5",
       "pub_date": 1764585000.0,
-      "article_url": "https://www.wsj.com/finance/investing/why-bonds-wont-protect-you-from-an-ai-bubble-f32084fb?gaa_at=eafs&gaa_n=AWEtsqeMcRRiMDhu0AG_jXEsDQsTAEBMs1J-44GYMJIn75xWmpsveqpQpTR0&gaa_ts=692db858&gaa_sig=SM4muD63mJFZDQ8L8xNRbnV5OXRXW9EkuGrNtEXx7ikjW73-Ko0n_is0Z58T7VdY1NsCT3mVI3FYIc9d003mjA%3D%3D",
+      "article_url": "https://www.wsj.com/finance/investing/why-bonds-wont-protect-you-from-an-ai-bubble-f32084fb?gaa_at=eafs&gaa_n=AWEtsqebGlbG0nNCr4SvttpvZ3SV9UqgxsevyLw7LrqUuJzp2hL74BXtTbOL&gaa_ts=692dc846&gaa_sig=jlVNqv63f_tgqfLjpdn_SM-4Ux2DQmhUG0_xUGSCI0gHWbVevWFgx3S9zv146s3SSeWkinAYApFGiB2lZkW27w%3D%3D",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "The People Outsourcing Their Thinking to AI",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWFhY1JvYmNPUnVkaURvVVZsRExPQk1Edzd4SUh6ODNvOTNUNXJjakp6NDUwTFZDdktGYy1EUHdpdUVOVDVVY0l6OGRWR2htUFMySmtoaW5FMGRWY1pON2JmNnJqZFF5NE5pZ2poMVFZNUdXb1czRV9TOF9nMUVIbGNRMy1vaDMwWU5aazREREhWODNjc1E?oc=5",
-      "pub_date": 1764592200.0,
-      "article_url": "https://www.theatlantic.com/technology/2025/12/people-outsourcing-their-thinking-ai/685093/",
-      "image": "https://cdn.theatlantic.com/thumbor/Llk9rk0EWzJeAoNISzv4UhoCgoo=/0x83:2000x1125/1200x625/media/img/mt/2025/11/2025_11_29_AI/original.png",
-      "description": "Rise of the LLeMmings"
     },
     {
       "headline": "Top consultancies freeze starting salaries as AI threatens \u2018pyramid\u2019 model",
@@ -103,8 +93,18 @@
       "article_url": "https://www.ft.com/content/2b15601b-8d02-4abe-a789-7862874042be",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe7da7fd3-4e13-46d8-ab31-b28970bcc0c5.jpg?source=next-barrier-page",
       "description": "Productivity gains from technology are spurring debate about reliance on large numbers of junior advisers"
+    },
+    {
+      "headline": "AI-powered children\u2019s toys are here, but are they safe?",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYb3VlX2JucGRPM2N4VVM3VXVEb3kwX0R6Vk8tMGF1bHZrWGZtRFJ3SDdGWjYxNlc3enRINFlnakJmYm81WDhGLWlLYjRvMDJObmYtRkZXUC1LYVZjdzAw?oc=5",
+      "pub_date": 1764583258.0,
+      "article_url": "https://www.cnn.com/2025/12/01/tech/ai-toys-safety",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ai-bear-16x9.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Teddy bears and stuffed plushies have long been a mainstay in toy collections. But today they don\u2019t talk back in a child\u2019s imagination \u2014 they talk through built-in AI chatbots."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T15:32:04.030995+00:00"
+  "fetched_at": "2025-12-01T16:39:54.432245+00:00"
 }
