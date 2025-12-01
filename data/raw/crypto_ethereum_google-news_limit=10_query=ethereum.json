@@ -25,6 +25,16 @@
       "description": "The firm has increased the pace of purchases from the previous week despite sitting on large unrealized losses on its Ethereum bet."
     },
     {
+      "headline": "News Explorer \u2014 Vanguard's Brokerage Platform to Offer Crypto ETFs, Including Bitcoin and Ethereum",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWjBUc3J6V1FRS01LQklyNVNXaXBPVFR3ckZRWHFTb2tXei1qNXNhVEtEQm9wYm1HdnhpaHpkaE9SS3NzMEJFak5la1BYaE1wc3lGVkNUdURoQVFaYUhtcm44ellDYThfdGVlaU9ZRk9OeEo0d2tsdjRXV28yVnA1eWZlcHI4aTFkLTBDZVNUd041eVBrZlNVenY3dnRtTGNUSlFDRERaTzRVdjVSU01na2FpRVVNb0ZjQy1kb3hRbHVoMlYyb1lPRjlnX0VURUE?oc=5",
+      "pub_date": 1764631217.0,
+      "article_url": "https://decrypt.co/news-explorer?pinned=1247561&title=vanguards-brokerage-platform-to-offer-crypto-etfs-including-bitcoin-and-ethereum",
+      "image": "https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-ethereum-decrypt-style-02-scaled-gID_7.jpg",
+      "description": "The next-generation media outlet navigating the intersection of culture and technology."
+    },
+    {
       "headline": "Ethereum Leverage Reset Complete \u2013 Time For Market Re-Accumulation?",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -33,6 +43,16 @@
       "article_url": "https://www.tradingview.com/news/newsbtc:31612045a094b:0-ethereum-leverage-reset-complete-time-for-market-re-accumulation/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "Ethereum presently trades around $3,000 following a broader crypto market rebound in the last week. During this time, the market\u2019s largest altcoin gained by 7.22%, providing a much-needed relief after an extended correction that dominated the majority of the last two months. As price stabilizes, cr\u2026"
+    },
+    {
+      "headline": "Ethereum spot ETFs post highest monthly outflow of $1.4 billion in November, breaking seven-month streak",
+      "source": "Sherwood News",
+      "source_url": "https://sherwood.news",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0lpZDgtVDJyX2VSVjE4TEVSUnhQOU1lR2Z2d0VGQjZ6dWdEX0g4ZTdJMndKRlNuTXJiUFJLcnplWnlmR2hhOUVobzVFRHREOFF6Q25mWnhaRHJSSjV0NVJ1Q00zbE9HWXJSWVdOUThvVWx1V1FUZDZOUkJSRVpVbDMwb3owQzlxZFNod0FPV08tc3lNeC02LUlTQW9tZ1U?oc=5",
+      "pub_date": 1764608840.0,
+      "article_url": "https://sherwood.news/crypto/ethereum-spot-etfs-post-highest-monthly-outflow-of-usd1-4-billion-in/",
+      "image": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/538709913_man-reeling-from-explosion.jpg?w=1600&auto=compress%2Cformat&cs=srgb",
+      "description": "Meanwhile, ethereum developers are preparing for the activation of Fusaka, the next network upgrade...."
     },
     {
       "headline": "Ethereum Falls 10% In Bearish Trade",
@@ -83,28 +103,8 @@
       "article_url": "https://coinpaper.com/12754/arthur-hayes-predicts-collapse-of-most-layer-1-tokens-outside-ethereum-and-solana",
       "image": "https://res.coinpaper.com/coinpaper/image/upload/v1764445718/shutterstock_2108025419_f807a3ca1c.jpg",
       "description": "Arthur Hayes warns most new L1s will fade, highlighting Ethereum and Solana as the only strong long-term blockchain contenders."
-    },
-    {
-      "headline": "Ethereum spot ETFs post highest monthly outflow of $1.4 billion in November, breaking seven-month streak",
-      "source": "Sherwood News",
-      "source_url": "https://sherwood.news",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0lpZDgtVDJyX2VSVjE4TEVSUnhQOU1lR2Z2d0VGQjZ6dWdEX0g4ZTdJMndKRlNuTXJiUFJLcnplWnlmR2hhOUVobzVFRHREOFF6Q25mWnhaRHJSSjV0NVJ1Q00zbE9HWXJSWVdOUThvVWx1V1FUZDZOUkJSRVpVbDMwb3owQzlxZFNod0FPV08tc3lNeC02LUlTQW9tZ1U?oc=5",
-      "pub_date": 1764608840.0,
-      "article_url": "https://sherwood.news/crypto/ethereum-spot-etfs-post-highest-monthly-outflow-of-usd1-4-billion-in/",
-      "image": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/538709913_man-reeling-from-explosion.jpg?w=1600&auto=compress%2Cformat&cs=srgb",
-      "description": "Meanwhile, ethereum developers are preparing for the activation of Fusaka, the next network upgrade...."
-    },
-    {
-      "headline": "Here\u2019s What\u2019s Driving The Bitcoin, Ethereum, And XRP Price Recovery",
-      "source": "Bitcoinist.com",
-      "source_url": "https://bitcoinist.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNWkybFZpUDJIdUdYT05UbzVPN29Qc0hRX0RWLTJqTl9aaHRSVkRERDNWMTAzRVVnNUtwWDZvMWRNTlV1Vnk5by1lTzM2LWdTN0hDd3NiblpqMmNTekVPdnFJZFhKdjNXa2RJUVVlS2dnNTdCeldoUUZsWFhtMENJMGVJNUxjOEJWMTl2MzhmRmjSAZYBQVVfeXFMTTlUQTUwNlB3VFRtajdwT1pVeDYwQ092cjNvREFDRUVnWmgwazBqaTVNZ3hNT2lLTTRHLVktTGxBYWNzMjJXTzl2Tjg1d0QyZDJjSU1ubG8xS244SElXb2NhbTlJb2pvT2RJQ1U5bDVWajJJOThhYzExYzJVZUJubHVXWnJab0hVUFhfT2JQazZCaTVEMkZR?oc=5",
-      "pub_date": 1764457204.0,
-      "article_url": "https://bitcoinist.com/heres-whats-driving-the-bitcoin-ethereum-and-xrp-price-recovery/",
-      "image": "https://bitcoinist.com/wp-content/uploads/2025/11/a_2fe5bb.jpg",
-      "description": "The Bitcoin, Ethereum, and XRP prices are showing signs of recovery as traders across regions take sharply different approaches to the latest price swings."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T22:38:09.384025+00:00"
+  "fetched_at": "2025-12-01T23:28:27.669333+00:00"
 }

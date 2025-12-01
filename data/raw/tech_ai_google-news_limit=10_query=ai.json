@@ -9,7 +9,7 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQzBCcTJWdGk2N3psSEtzUGdQekluQVdtSk04UV9hcTJuR3JYaWdxblhSUHQxUWMtT200UzM4Ykw5TlQ2cks3dkQ4WEVSM0NaSHlvOG11WTQwa3dSQ1d5NklwWTdDT0JrX2phTk5qZ3JNRHBsWFVLWWUySXY4c3pvaGZyMTQ0al9HckFz?oc=5",
-      "pub_date": 1764613413.0,
+      "pub_date": 1764602758.0,
       "article_url": "https://www.nytimes.com/2025/12/01/technology/college-computer-science-ai-boom.html",
       "image": null,
       "description": null
@@ -25,32 +25,52 @@
       "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
     },
     {
-      "headline": "Microsoft\u2019s Nadella: AI needs \u2018social permission\u2019 to consume so much energy",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGJUREdXaTJyOThTXzBvWUpWYjk1Q0NlOFEtRXlkTHg0OEdsa2ptSUJnNTl5ZmNDZF9SZmdCZTFZRlBaa05HNEdwQUhuYnJKT1dVV1VqdERsYjgtSG4yX3VZYlZlMVBnMENoeHJuV3lRaE9qaVRNdkpHZ2lhNFpxNHU0aXJWVHlFNVk2eTNtMWdZRko2RFhocWJJTWtBVVZjd0IxalduZ1pPZlFIeWZLUVU0SnFwd2lkN1lzLUM0MXY1TVI1dnNFS21R?oc=5",
-      "pub_date": 1764626761.0,
-      "article_url": "https://www.politico.com/news/2025/12/01/microsofts-nadella-says-ai-must-earn-social-permission-to-consume-so-much-energy-00671920",
-      "image": null,
-      "description": null
+      "headline": "Apple's artificial intelligence chief is stepping down, company says",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRM28yTHFBbHJXVVFKNURvZ0ZTV2lWNDJhUUFIakxNWTRfZUphZnozN2xMS3liSGdVQlFCeWktNXJpVlQ0WVBmNDlmbmh3Nl9NZlV5N0lHZHbSAV5BVV95cUxQRUZhVUF0SGZldlVtTUdyV2dkWmZsMy02MFdqWFhBTzYzV21DMHRjZ3dfemtpSUhjTXg3SnNhcmVUSW91YXgzc1ZEOVAyU3hPZVlFU21WVHdKVVJtejZn?oc=5",
+      "pub_date": 1764627863.0,
+      "article_url": "https://www.cnbc.com/2025/12/01/apple-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/105321445-1531249219810gettyimages-849703464.jpeg?v=1764627331&w=1920&h=1080",
+      "description": "Apple's AI chief is stepping down after experts say the company has fallen behind its peers when it comes to investing in AI data centers, chips and models."
     },
     {
       "headline": "Apple Artificial Intelligence Head to Leave After AI Struggles",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN1hvR1dZZTQ2UEpDWl8wVFgtYjRHN0RVTmRNNUtUOUJ2ODNYaEtqRF9qOXJ1cnRuekRJdlN4N2tOSmNpU0NkYmNlaEdSV3VHdWhQVzMzZkQ5ajZPcEpNSUJKNjZIV0JjV0hDWGQ1VTd3aWVlRFlBalFramJPeXF4X3dsYlo4akpPekZyUUp0dENBZUFrNHl0RGFudlhNVmNEMFg3cUhFQWZGTFlCWUhCQ0lUSQ?oc=5",
-      "pub_date": 1764627531.0,
+      "pub_date": 1764629702.0,
       "article_url": "https://www.bloomberg.com/news/articles/2025-12-01/apple-artificial-intelligence-head-to-leave-after-ai-struggles",
       "image": null,
       "description": null
     },
     {
-      "headline": "Opinion | Can the U.S. Trust AI With National Security?",
+      "headline": "Apple's AI chief is leaving and being replaced by a former Microsoft exec",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVNEeWwwbFRrcHpFeXZEa0ZJSFpGSEgyY1hzc09xYU9FaUkwa1p1V056MDNuMVZpN0lIbWpsdTA5eGViS3FOQ2R5Qmc1N3RmaE52ZVQtNDFEcy12V2NiSWd6U016N3ZhSUxsc3BKZlJhU3BBVWoxUlJRTnpWZlVtUXVLZEUxMXEyV083VHQ3N1ZIN1ZVRHZjaG85WWNZNFMyYjhsTQ?oc=5",
+      "pub_date": 1764628260.0,
+      "article_url": "https://www.businessinsider.com/apple-ai-chief-john-giannandrea-leaving-microsoft-exec-joining-2025-12",
+      "image": "https://i.insider.com/692e162204d0f0a114f13351?width=1200&format=jpeg",
+      "description": "John Giannandrea, Apple's AI chief, is leaving the company. Amar Subramanya is joining as vice president of AI."
+    },
+    {
+      "headline": "\u2018Nobody\u2019s Paying Attention,\u2019 But Consumers Are Already Trusting AI",
+      "source": "Newsweek",
+      "source_url": "https://www.newsweek.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOGh1M21ac0YwMTF3Yll6bmpEbWhuNEF6T0NKVDZ4MkJsUTRUbXBzSFpPODAzSVRmcmQ5d01TV29iSzFhRWNlRW9Kcm9fU29iUm1acUVfRWZCc2lZOTJsN1BtaTVhNGJhQnN5UjFxR3h5THhaR0xUZ3liSVhlTEhUZThWb3E1aUpVZ0pIWnFycGVlY1BJNVpoTzI5QmhsVDJhRVY3QQ?oc=5",
+      "pub_date": 1764629544.0,
+      "article_url": "https://www.newsweek.com/nw-ai/nobodys-paying-attention-but-consumers-are-already-trusting-ai-11137870",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2025/12/How-Is-AI-Reshaping-Business-Strategy.jpg?w=1200crop=1",
+      "description": "The striking comment from Gopi Kallayil revealed the gap between what people say about AI and how quickly they\u2019ve embraced it."
+    },
+    {
+      "headline": "Millions of Coders Love This AI Startup. Can It Last?",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNeHI4OFJCRzJhSWVrYU1pUjhNckxoQ29yZkstUGh5R1ZHeFhELVRKR2szeVJZNnlDQ2pIX2hmcnB1ZmVBWHdsRUtHZG5tNDJqbGktMFVuRnhwbkQtNXMxUXhzT2U4QUpJbDJ2dWExLVVoc2tuaFZsSkhtbVZFTFhVT29IMVltTllSblBVWU1panRhQ1BtOXFXcEtIWlo0SFRvaVFTSWd1MHlqWEFsNHNNV05nd3A4d2dDcGNralFGOGVmQUJxWUx5ZjJ2Y0YwSjhoT0NvcXJsZXJMa1pyMjFtb2ZMS2RJLWNrOVJvWE1wb0JXbE5POHFnSkx3ZDZYZmswWEZDeEl4MDZ1TW5pNDgwN1BsZDk1UEoyZ2xMQTNfRlkyVExXUGFKN3RkS0dEdml2MGVoSHNWNXFubFNqaWtHdDQ0SGJyRWo4MllmTUJXOWhxOHpkQTNuUXc4YXlLbExEdUZEU0JXU18zWTFob0pJRWlSeXV1d2JnM04zTVBUaWlRMkVFR3VfYTJyUWw?oc=5",
-      "pub_date": 1764624660.0,
-      "article_url": "https://www.wsj.com/opinion/can-the-u-s-trust-ai-with-national-security-b481ac43?gaa_at=eafs&gaa_n=AWEtsqeHH3USjDLX-3DBP9TEqpMKGbnv0lzh_F1-nR_pM-2vYAh16fNPSPhD&gaa_ts=692e1c44&gaa_sig=JFT-ediQg_f9Y1LoK03yHptRsiyfGzn_F0KN0Z6z4K8yZy4spQyN452sNBsGktWqrtaVUEFDcK4IM03NiAliaQ%3D%3D",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQX0pmNC0waWJZaG84MHFyRGpzTl9sVTcxbjd0S1RMYUg3aW4zVndFRkxOWlIydm03T0hESnVELS1rcGF5dThtVVRhaU1PRGxicVlGWUxQc0JDYzFtakFyYndEb0NPck5maXRkbjk1akRMczJiSGRfcEhkR2h1Q3Y5ZnJ6NzhGU08wcGdtcWxzSndJdS0yd1gyTERYelpITENLZHRjVmdqVEZtcFdma1h4RjQyTnFfU2xDX1NSalBZVXVNX09OVUI3TWt5NEs3SzRkNmMxT3VxU0NDREtZTXYzRlRXOFhENHdRdkFabHlWdHhSQUZNZXpaY25mMXY3eEYzSEdFZldmWUxpY3ZueXcxZGVtOFZSM1BKM2xQNGZXbzVKTE90bWtKM1BOOFNwcVkzY1IwQ0hCX25PNmRVdFhVeFhDbjZQdFhvVktrYkYwU1VNZkRNVmxmTUE0TVZ6LUNWZElJdXVmX2xodVJ1aUZZYVlOa2d3TTVNdlo4T0JuamdWWFVmdERNek40N2FqV3BBWUxCeWtYQQ?oc=5",
+      "pub_date": 1764608400.0,
+      "article_url": "https://www.wsj.com/tech/ai/millions-of-coders-love-this-ai-startup-can-it-last-45b72441?gaa_at=eafs&gaa_n=AWEtsqewMSUcK2K3l3VMA2jv1SAWhSxSwGDFOk8rEKEYGY6-VBtHFJwXgNe1&gaa_ts=692e280e&gaa_sig=j0wkoweinJhg3qyY94l4NhAgV5i3puvDI_r6vj110Dvo4cN2rHbZNhAIfLoKK2n_Wcen6TI1oV7mboA5a_91aA%3D%3D",
       "image": null,
       "description": null
     },
@@ -75,16 +95,6 @@
       "description": "Rise of the LLeMmings"
     },
     {
-      "headline": "Andrew Yang Warns AI May Wipe Out 40 Million US Jobs",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNanJvNU9iYXg0b1Brd2d6WWFJSXU5UXc0YTlMbURKVllTTWFJLVZZOFRYMXhrVHVXeTFqanJEeFFzd2RCZHFwZlJTM29LMmstTnZqNnBTWU01ZjI0cG5zUHBEUk5ZYU9EcWJpOU8wZXVCTGE2OGFMTFg1eGJiUTB4NzJIQUMxcDVfWE9PT3E2OA?oc=5",
-      "pub_date": 1764591720.0,
-      "article_url": "https://www.businessinsider.com/andrew-yang-ai-may-wipe-out-40-million-us-jobs-2025-12",
-      "image": "https://i.insider.com/692d7915e1a9cbb014df425c?width=1200&format=jpeg",
-      "description": "Andrew Yang said the AI jobs crisis has begun and warned that the US must prepare for massive disruption, including millions of workers displaced."
-    },
-    {
       "headline": "Runway rolls out new AI video model that beats Google, OpenAI in key benchmark",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.cnbc.com/2025/12/01/runway-gen-4-5-video-model-google-open-ai.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108162827-1750712201805-gettyimages-2207801548-AA_04042025_2159477.jpeg?v=1764542788&w=1920&h=1080",
       "description": "Gen 4.5, a new AI model that allows users to generate high-definition videos based on written prompts."
-    },
-    {
-      "headline": "Top consultancies freeze starting salaries as AI threatens \u2018pyramid\u2019 model",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVUtOcGs1QnBiQm1sU0YxVEhEWWVwakZYWW9NWFBob2tSdVcweTZRNktadjR0WDhPTzVhVElGVEFHcHpOa01zNFZxWEdlUThPd0k2Q1d0bExrZzhfbkZGRzIxV2U5aEkyRGxXUU9SM3A?oc=5",
-      "pub_date": 1764565228.0,
-      "article_url": "https://www.ft.com/content/2b15601b-8d02-4abe-a789-7862874042be",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe7da7fd3-4e13-46d8-ab31-b28970bcc0c5.jpg?source=next-barrier-page",
-      "description": "Productivity gains from technology are spurring debate about reliance on large numbers of junior advisers"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T22:38:20.703994+00:00"
+  "fetched_at": "2025-12-01T23:28:34.176638+00:00"
 }

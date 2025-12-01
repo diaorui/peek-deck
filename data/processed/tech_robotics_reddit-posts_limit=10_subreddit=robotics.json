@@ -112,5 +112,5 @@
       "description": "So I'm working on a passion project, creating a robot, specifically, the robot N from the series murder drones, I'm still learning in robotics, but my main plan is to have a basic chat robot, so it picks up my speech through a mic and I connect it to an AI chat system and it will then output a tts voice, additionally I'd like to have a screen of some sort that has images of expressions and those expressions will change based on the chat, I would like some tips or instructions of how I could do this. Later on in the project I'm going to have the limbs and body controlled with servos and I'd like to have the AI move and rotate the servos when I tell it to, this is all so new to me because I usually work with animatronics and not ai, so I need some tips like what hardware or software I need and how I can do this. Any help would be greatly appreciated!"
     }
   ],
-  "fetched_at": "2025-12-01T22:37:55.809346+00:00"
+  "fetched_at": "2025-12-01T23:28:15.005598+00:00"
 }

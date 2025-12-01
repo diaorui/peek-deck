@@ -9,8 +9,8 @@
       "url": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
       "hn_url": "https://news.ycombinator.com/item?id=46098992",
       "author": "nutanc",
-      "points": 426,
-      "num_comments": 342,
+      "points": 427,
+      "num_comments": 345,
       "created_at": "2025-11-30T18:17:13Z",
       "object_id": "46098992",
       "image": null,
@@ -23,8 +23,8 @@
       "url": "https://www.erdosproblems.com/forum/thread/124#post-1892",
       "hn_url": "https://news.ycombinator.com/item?id=46094037",
       "author": "nl",
-      "points": 231,
-      "num_comments": 85,
+      "points": 232,
+      "num_comments": 87,
       "created_at": "2025-11-30T05:19:33Z",
       "object_id": "46094037",
       "image": null,
@@ -65,8 +65,8 @@
       "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
-      "points": 137,
-      "num_comments": 202,
+      "points": 140,
+      "num_comments": 203,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
@@ -89,6 +89,20 @@
       "site_name": "arXiv.org"
     },
     {
+      "title": "Apple AI Chief Retiring After Siri Failure",
+      "url": "https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring-after-siri-failure/",
+      "hn_url": "https://news.ycombinator.com/item?id=46114144",
+      "author": "7777777phil",
+      "points": 85,
+      "num_comments": 81,
+      "created_at": "2025-12-01T22:22:56Z",
+      "object_id": "46114144",
+      "image": "https://images.macrumors.com/t/E2xFMSegpuYDB6sCT6_1vI991S8=/2500x/article-new/2025/03/Sad-Siri-Feature.jpg",
+      "description": "Apple AI chief John Giannandrea is stepping down from his position and retiring in spring 2026, Apple announced today. Giannandrea will serve as an advisor between now and 2026, with former Microsoft AI researcher Amar Subramanya set to take over as vice president of AI.",
+      "favicon": "https://images.macrumors.com/images-new/apple-touch-icon-blue.png",
+      "site_name": "MacRumors"
+    },
+    {
       "title": "I Know We're in an AI Bubble Because Nobody Wants Me",
       "url": "https://petewarden.com/2025/11/29/i-know-were-in-an-ai-bubble-because-nobody-wants-me-%f0%9f%98%ad/",
       "hn_url": "https://news.ycombinator.com/item?id=46086410",
@@ -107,7 +121,7 @@
       "url": "https://news.ycombinator.com/item?id=46095873",
       "hn_url": "https://news.ycombinator.com/item?id=46095873",
       "author": "pera",
-      "points": 66,
+      "points": 67,
       "num_comments": 23,
       "created_at": "2025-11-30T11:48:42Z",
       "object_id": "46095873",
@@ -129,23 +143,9 @@
       "description": "Consultancy\u2019s move to embrace artificial intelligence follows Disney\u2019s use of the term \u2018imagineers\u2019",
       "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
       "site_name": "the Guardian"
-    },
-    {
-      "title": "Show HN: I built Magiclip \u2013 an all-in-one AI studio",
-      "url": "https://magiclip.io/",
-      "hn_url": "https://news.ycombinator.com/item?id=46086920",
-      "author": "kokau",
-      "points": 41,
-      "num_comments": 22,
-      "created_at": "2025-11-29T12:04:23Z",
-      "object_id": "46086920",
-      "image": "https://magiclip.io/assets/images/favicon.webp",
-      "description": "Magiclip - AI-powered platform for creating viral short-form videos, with automatic subtitles, AI voice generation, and social media optimization.",
-      "favicon": "https://magiclip.io/assets/images/favicon.webp",
-      "site_name": "Magiclip"
     }
   ],
-  "total_hits": 378,
+  "total_hits": 376,
   "has_metadata": true,
-  "fetched_at": "2025-12-01T22:37:51.723485+00:00"
+  "fetched_at": "2025-12-01T23:28:12.072830+00:00"
 }
