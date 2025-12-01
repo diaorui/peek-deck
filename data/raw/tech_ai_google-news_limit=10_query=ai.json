@@ -15,14 +15,24 @@
       "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
     },
     {
-      "headline": "Top consultancies freeze starting salaries as AI threatens \u2018pyramid\u2019 model",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVUtOcGs1QnBiQm1sU0YxVEhEWWVwakZYWW9NWFBob2tSdVcweTZRNktadjR0WDhPTzVhVElGVEFHcHpOa01zNFZxWEdlUThPd0k2Q1d0bExrZzhfbkZGRzIxV2U5aEkyRGxXUU9SM3A?oc=5",
-      "pub_date": 1764565228.0,
-      "article_url": "https://www.ft.com/content/2b15601b-8d02-4abe-a789-7862874042be",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe7da7fd3-4e13-46d8-ab31-b28970bcc0c5.jpg?source=next-barrier-page",
-      "description": "Productivity gains from technology are spurring debate about reliance on large numbers of junior advisers"
+      "headline": "An independent effort says AI is the secret to topple two-party power in Congress",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFpBUmdMd2JCWkZhZE5TNU40V3Vlc2wxLUI3X2Z1X2hBajhLTlZYdFh1RFg3Q3Vob0k1bk0zenQ5NHhBRnRzZE1ZMmxpUVhMUldOemx6VTJxYlQ2dmxPeUVYLXlpcWZzdWFwdHhOMzlkTGZHUUg3Z3BOSW1NQkYxZEJSRDVpeWVQekd3VzBqOC11VEVuQUhLMGVB?oc=5",
+      "pub_date": 1764583200.0,
+      "article_url": "https://www.npr.org/2025/12/01/g-s1-98267/ai-independent-candidates-congress-two-party-control",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2024+0+232/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2F3d%2F7f56b150456e90265385306931b1%2Fglennharvey-2025-11-07-npr-f53.jpg",
+      "description": "Using artificial intelligence to identify Congressional districts where independent candidates could win, an organization called the Independent Center is aiming to disrupt the two-party system."
+    },
+    {
+      "headline": "The People Outsourcing Their Thinking to AI",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWFhY1JvYmNPUnVkaURvVVZsRExPQk1Edzd4SUh6ODNvOTNUNXJjakp6NDUwTFZDdktGYy1EUHdpdUVOVDVVY0l6OGRWR2htUFMySmtoaW5FMGRWY1pON2JmNnJqZFF5NE5pZ2poMVFZNUdXb1czRV9TOF9nMUVIbGNRMy1vaDMwWU5aazREREhWODNjc1E?oc=5",
+      "pub_date": 1764592200.0,
+      "article_url": "https://www.theatlantic.com/technology/2025/12/people-outsourcing-their-thinking-ai/685093/",
+      "image": "https://cdn.theatlantic.com/thumbor/Llk9rk0EWzJeAoNISzv4UhoCgoo=/0x83:2000x1125/1200x625/media/img/mt/2025/11/2025_11_29_AI/original.png",
+      "description": "Rise of the LLeMmings"
     },
     {
       "headline": "Opinion | How to Prepare Your Kids for the A.I. Revolution",
@@ -35,12 +45,22 @@
       "description": null
     },
     {
+      "headline": "Top consultancies freeze starting salaries as AI threatens \u2018pyramid\u2019 model",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVUtOcGs1QnBiQm1sU0YxVEhEWWVwakZYWW9NWFBob2tSdVcweTZRNktadjR0WDhPTzVhVElGVEFHcHpOa01zNFZxWEdlUThPd0k2Q1d0bExrZzhfbkZGRzIxV2U5aEkyRGxXUU9SM3A?oc=5",
+      "pub_date": 1764565228.0,
+      "article_url": "https://www.ft.com/content/2b15601b-8d02-4abe-a789-7862874042be",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe7da7fd3-4e13-46d8-ab31-b28970bcc0c5.jpg?source=next-barrier-page",
+      "description": "Productivity gains from technology are spurring debate about reliance on large numbers of junior advisers"
+    },
+    {
       "headline": "Why Bonds Won\u2019t Protect You From an AI Bubble",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNUm8xNEFoUFJkMzZYT3FyT2VXWUVSUFBfcGN1TmRna0lLOWtXR215SEtaMy1oUEJWVDZobURub01fRm9zWkNYNjFsMmY2QVZTVm1RcmhIcEZzZllvb0dhVG1iUmRramg3RUlSY0RubUwwUUxrM0hKSk1TNFJHWWcyRkFyOUUtbWlWYTh0Y3FmdVFFajlDWTFRZFZlTVozS3UtWEZVZFRHNllmbXlkZzlmQXo2cm9ua1I2bTZXSjg4QmRnQ21JY21nNkQ3SkRXMUphVUQ4M19DdWtUVEZCZUZNX0hlOWVlT1hKcHE1UEk3WE5ZUU9WSVVMekZiQWdwTWVWdDc4N0kzcEhkMjRYc05jOUhGZXhDQU94U0J6OURYRER6N3NiRGdrdWttXzNFUjZEN01wTElQVWI5UHMzcmVGa1pObzdpYm81Ynp0b0pha3V0dlBaUF9zWW5MZ3FpcFNmSzFfVXYwWjRRNU9PSmh2SjFXX3hfdnlLS0xiU19QQ2NlZHhac3lqZmZPSGJhSGJRYnI1SXF4X1R0MXM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOdzBfaXItTnMxWU8tTlU5cFBYWGVBOTFlTjhHd2JxNFR1SGk0SVJWeHRqdHZnMVBRWTNlX0R5YzV3Vmg1VS1ma2NSOWEwSkVjZVpVd3NFdlRNdGFPSlpsY0J0Z3YwaE1XV3hWMVdiVGRTMS1JeW55RGpyWDBnTXRCSkEydnlVWW5vVmR6eDlac20xbEhPeHNOR3d2NVJSMklkZHd2UU9SSEtybGtiODNTQU1WeUxlR295cnVVTE9uS21vUjNueUowZmE3NU1pbnJHQk0yVTdkbGdrd2t6MGIxMFBaNnZkdlhfWG5iMTJhZkFVQm5tUHZnZU9Jbkk4a3M0dXdpSlNUczl4emphclF0cVJ6am1VcVpjbHhlTGhRcTdydjBBb3FCSG9tZ2x6UzF0WGxJWXFSTkNldHVueDFoSzNGemJUUUtHa2J6QTBILW1aRFhVSWxhaExjQVRtTUpodUZJMzZIbzM2d19pZUpsY1IzckJsdUhYRVk2ckZPeUUyZG0zakJhbTRZVXJIYWQzN0pobHZJMnNIMVU?oc=5",
       "pub_date": 1764585000.0,
-      "article_url": "https://www.wsj.com/finance/investing/why-bonds-wont-protect-you-from-an-ai-bubble-f32084fb?gaa_at=eafs&gaa_n=AWEtsqfhwk-vqmsZp7jE7C3rVgddKfMOnLUUlwll1qFRERzeEwMzrE2X57tD&gaa_ts=692d85ab&gaa_sig=peTGM1wKQHcfTd27QQkEKxGvVPr99VeZ6EDlLJ4h6ofz-Rns09Z0EFhyznweRmM5l1sb_FNrnL2P0YF0ZfvpfA%3D%3D",
+      "article_url": "https://www.wsj.com/finance/investing/why-bonds-wont-protect-you-from-an-ai-bubble-f32084fb?gaa_at=eafs&gaa_n=AWEtsqfFbZ9GEiISeA9En_JOZ_QsY0D3ys4BR62GBGwGrWyETnwjLkOQsSLv&gaa_ts=692d91d6&gaa_sig=ADEj_hosP3UWD4f-ZFD98-3Byogs2ehnsu6_TiSI9FdWNEtFK6wQ11_3nq4hHLH8jU3FAEVWMZ2C97tlbx2gZA%3D%3D",
       "image": null,
       "description": null
     },
@@ -55,26 +75,6 @@
       "description": "AI startups are seeing record valuations, but many are building on a foundation of cheap, free-to-download Chinese AI models."
     },
     {
-      "headline": "Then vs. now: AI videos of Will Smith eating spaghetti show just how advanced the tech has gotten",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORTVoUmpFdTJOcmdVVlNqLTNacTU2bUR3YzZXN3p2OHhUVzR6YXdER09ublVKZzF2Nmh0cXJuaHdQU3ktcHRoS1hEZThBLTQ5QXJMQlJRY3g5dGpqZFVGN0M4bjlkVG1jSVFWZlU3LWZtMTU1MWN2YWxQU2ZtUjA2UzVrMXpDaGhOZ3kw?oc=5",
-      "pub_date": 1764583740.0,
-      "article_url": "https://www.businessinsider.com/will-smith-spaghetti-test-ai-video-progress-2025-12",
-      "image": "https://i.insider.com/6926320489026fbb4d0e6f32?width=1200&format=jpeg",
-      "description": "New AI models by the likes of OpenAI and Google show just how far AI video has come in a very short time."
-    },
-    {
-      "headline": "AI video slop is everywhere, take our quiz to try and spot it",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wQVB4SllpWktEZ3JKdm9NdnIzMkRsNTFjQTlrUk5WblZoVHN2RzRRWWhIRUw4ZVpwV3gtakFzTnBGbmJqb0p4cEpDaF9fOURDTEZYelg3cDExelU0UVk4Wm9QOHNoU08zLWYybXV4cEtPUENzNUVpVg?oc=5",
-      "pub_date": 1764496800.0,
-      "article_url": "https://www.npr.org/2025/11/30/nx-s1-5610951/fake-ai-videos-slop-quiz",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3413x1920+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F26%2Fd8%2F8d07ff7448408f48b63e5fb1bd4b%2Fai-video-quiz.jpg",
-      "description": "There's no one way to be absolutely sure about a video's authenticity, but experts say there are some simple clues that can help."
-    },
-    {
       "headline": "AI-powered children\u2019s toys are here, but are they safe?",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
@@ -85,26 +85,26 @@
       "description": "Teddy bears and stuffed plushies have long been a mainstay in toy collections. But today they don\u2019t talk back in a child\u2019s imagination \u2014 they talk through built-in AI chatbots."
     },
     {
-      "headline": "Podcast: Why the AI Bubble Still Has Room to Grow",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVNnTnI1Q1NMeVRaMVZfYnQwMkp6THIzN0ZpdVlhQlFTaFllaEJaWEtHbmdxcjNMeGhULUxXRkk1QjVtcmNDbWM4eGJSeDdZOGhNeWJIREVvR05GanM2Nml5NnBMVkR0QnkzdmFCWU4wVDVnRmtWdm41UkF6c2R0bmZzcHhxa2JiX21iSEdaRXkwdG1aczlhbXlUYUdQSGFT?oc=5",
-      "pub_date": 1764588363.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-01/podcast-why-the-ai-bubble-still-has-room-to-grow",
-      "image": null,
-      "description": null
+      "headline": "Then vs. now: AI videos of Will Smith eating spaghetti show just how advanced the tech has gotten",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORTVoUmpFdTJOcmdVVlNqLTNacTU2bUR3YzZXN3p2OHhUVzR6YXdER09ublVKZzF2Nmh0cXJuaHdQU3ktcHRoS1hEZThBLTQ5QXJMQlJRY3g5dGpqZFVGN0M4bjlkVG1jSVFWZlU3LWZtMTU1MWN2YWxQU2ZtUjA2UzVrMXpDaGhOZ3kw?oc=5",
+      "pub_date": 1764583740.0,
+      "article_url": "https://www.businessinsider.com/will-smith-spaghetti-test-ai-video-progress-2025-12",
+      "image": "https://i.insider.com/6926320489026fbb4d0e6f32?width=1200&format=jpeg",
+      "description": "New AI models by the likes of OpenAI and Google show just how far AI video has come in a very short time."
     },
     {
-      "headline": "AWS re:Invent 2025: Live updates on new AI innovations and more",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44MjlOYVluZ0ZoaElJa1luVkVESnZzTExyZDVIT1BWbUN6RkF6bmtWMWdkcE5CUHNQOU42bmxDOVRvTG9mUnlZOFlRTDlaOEVrYUJobkJEUjB5Xzc4eWJBalJGLUMySkQ1OE82dUtZTHMzSkZKeXIyLWc3dw?oc=5",
-      "pub_date": 1764558295.0,
-      "article_url": "https://www.aboutamazon.com/news/aws/aws-re-invent-2025-ai-news-updates",
-      "image": "https://assets.aboutamazon.com/dims4/default/3b7abc2/2147483647/strip/true/crop/2000x1000+0+0/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fbd%2F2d%2F1f6370a24d5986e95d9b33a540de%2Fabout-amazon-hero-riv24-d3-general-06285a.jpg",
-      "description": "News on agentic AI, Amazon Connect, and AWS Interconnect - multicloud are some of the latest announcements from Amazon\u2019s flagship AI and cloud event."
+      "headline": "SoftBank\u2019s Son \u2018Cried\u2019 About Nvidia Stake Sale to Fund AI Bets",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWJTZ3dVclUxUUhSS0JOcnVsUDNOQS1nQnZWMENYVFdPQ292Q1I5dDg3TjN2TFROTHc1NWNyVGIyTVpzVW1DbmpKVXBSa2wyVnVxMUJNU0tiTkdsRnV0TGl1YjhaMThKc0c4Y2o3U3dlSS14bllKQ3JMV281QnZxckpVMHBiZE9EeVhjNmVOU1FsLS1LWGc0VkJJU2FoeWp4eXNQMzIxdGdPSVV5aHRpdQ?oc=5",
+      "pub_date": 1764583041.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-01/softbank-s-son-cried-about-nvidia-stake-sale-to-fund-ai-bets",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T11:55:48.519029+00:00"
+  "fetched_at": "2025-12-01T12:47:38.131561+00:00"
 }

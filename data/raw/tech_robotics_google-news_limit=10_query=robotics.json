@@ -25,16 +25,6 @@
       "description": "How does Disney bring Olaf to life with robotics and AI? Step behind the scenes and see the magic of innovation in action."
     },
     {
-      "headline": "CN Energy Group (NASDAQ: CNEY) debuts PATHENBOT robotics platform for North American SME automation",
-      "source": "Stock Titan",
-      "source_url": "https://www.stocktitan.net",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzRRMHptaE1yN2ptUUdCeWZQVTFvSnZCMTY5QjNSUWtDMEVQSF9vbVJSV2NEcDlqYmNmVTA4TVZPZmxDYmFRbzUtRVMzQjdVZVlaV3ZPSl9iR1Y3MjVGZTN2Z2F6eFkycnh3ZENTQVFFMW00VWJ1alBJZ1M3blRYMWtBd2g1cHJXOUVidm1sbnJtZVRsVzVNaURncWlLTHdHSjlocUpRaUExR1hxQkwxajRNdVZRanptOW1XZ1RPSUY?oc=5",
-      "pub_date": 1764586500.0,
-      "article_url": "https://www.stocktitan.net/news/CNEY/cn-energy-group-inc-announces-launch-of-pathenbot-robotics-solutions-8clg2yncq3aa.html",
-      "image": "https://static.stocktitan.net/company-logo/cney-lg.png",
-      "description": "CN Energy\u2019s PATHENBOT unit launches a robotics solutions platform and official website to deliver customizable automation for North American SMEs."
-    },
-    {
       "headline": "China\u2019s Robotics Stocks Face Investor Scrutiny Over Bubble Fears",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -65,6 +55,16 @@
       "description": "The labor shortage isn't coming -- it's already here. And this fund owns the companies solving it."
     },
     {
+      "headline": "Video: China's marching humanoid robot 'army' sparks new debate",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQl9Vc1ZDSmFBS1hYNjJZdm8xSlRIdlNUTTZSY0R4enExU0Z0YzdjWjQySzhqUnVsaFBienc2bmRZUHZ0V1VGekRsRFFTejVqWWM1Yl9NVUptU2pubDBYZDRUWnBHS1dMd3M0VUFocFEwMHNIWXBhV2VjSnpkTGhscmNZYl9kTUtXdDdYMlBQNjFFQ2s?oc=5",
+      "pub_date": 1764592200.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/china-humanoid-robots-ubtech-global-debate",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Untitled-design.jpg",
+      "description": "UBTECH\u2019s synchronized humanoid robot video sparks global debate as critics question authenticity and the company defends it as real."
+    },
+    {
       "headline": "Popular AI models aren\u2019t ready to safely run robots, say CMU researchers",
       "source": "The Robot Report",
       "source_url": "https://www.therobotreport.com",
@@ -75,22 +75,12 @@
       "description": "CMU evaluated how robots using LLMs behave when they have access to personal information such as a person\u2019s gender, nationality, or religion."
     },
     {
-      "headline": "Humanoid robots will take over factory jobs within 5 years, Xiaomi CEO says",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1lWbWxGazduU0NwcUZucmN0MFN4YW9rZHNMSlpLOElYd2xHcjV2bkl6bkV0NUxxRUh0NGdKZTlCeTVRVVkyY3RfUVV6MlNoSnpWalotZnNSVFdBZVhhcG8ySzdYOTQwQnFuTzhiOTh5VG1uTWhySHBPbzB5cUdwWTI2RG1tYTVWcFJYZExxNmJQV0U?oc=5",
-      "pub_date": 1764581760.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robots-set-to-run-smart-factories",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/IE-Photo-59.jpg",
-      "description": "Xiaomi CEO Lei Jun says artificial intelligence will overhaul traditional industries within five years as humanoid robots move into core factory roles."
-    },
-    {
       "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNZlVwYkl2YzFnaTNOQVEydFRHNFpBbDRuZUNJS0x1Z1dwd0tIQktfUm1OV2hIODhiQlBTRno0SFpHMVN2QVFPME03UndFdHV5dDNRVWp6V2hCVUV4NURwc21QLXJ6UlVSNnIwS2pKanpoUWY2VWMyU2ZyamI0cnpBOUR2c0doYjdoY1AtNlAtR1IxUXJYWXZLWmV3eEVwWV9XRE9HZ0NaVjMyeHFvTk1DVUhaWEF6TXRydHRtMG9sbWdoMFg0aUlMZ01EYXEyU1pHdWRCYnNiM1BlaDBiZGNsYXAxX1JPMnlFaDVMQlNPYlZiNV93UFNWbGhKZEhuODRsWFdLUnowbU5uX2tPSm95SXltSFpPcXIwYmdZSUJuWGZCRk9LUVV1Tkc4Uml3cTg5VGpwZURMVVVTbm13WWw2c21mTTRTR1ZfWWtEWUlwMDFTUFo3Wm9tV2JkMzZQcXRJdHU1MGpXQ2hjOGNkdUd4SVVtamNFRWVucXVLOUNVZWFxRkdY?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOQkpsTXZ5QjZOZlZpcDJ6N2dmNFhUZGxsRTJlUnpTam1pN1RMb3hVc1Z6Z3JPZktxb1c5eXotV2RCU20tclVVSGw4aGxwMmsyMm9CbU5rSjdqUVBIUTdJTW5kY0NwN0p3OGkzMm9iN0FRbDlkUE9oeF9HYnVPZmpWSGJQWFYzRXFaZm5nYU9DQVc1WWUxXy01cUtyVk5VYnNCc3hsZEs4UW9CUWNRelJNUml1RzhNVlUwUTE5QjJDaG05RFRyNUN3ZEtWLVRMeEtNOTZGd21LbFVNNm1ielRjQkItdmVMRnZkaXJPd1BiLXVpMlQyZ3Vwc3N0X3JFNHFiZ1BEYmgza2kta1pvdmVSLTVyRUhEakZyNGl4QVpzd3dxS1BkeFV4ZTQ4blZjT3lIYWJidkpRcEF2MThTRVJURngtNWZvT2dLNFFPV291S2N4RUZNZk5YZGhGN25vQ3ZKS3RKUkppczFTb3hsXzl3T3g2RXY1THlEZ2pHTm1wTWt4S0I0?oc=5",
       "pub_date": 1764352680.0,
-      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqcf0Alos4sMgxqhu8s6c0oUEJFVgz4n5UIMF-7T0XlXrtRSspPWgDoI&gaa_ts=692d85b1&gaa_sig=8NEc5P5-9Am6-SCCtiv9xURo-2v81PvYDE_0_8C2cvkEMXhSfj7guqFGcaAF3aKXiIROLXB6aPRVY4S5eIZMBw%3D%3D",
+      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqdrMFEVtha0Bt_Oy6lbUPgnBGvCl3nnYXVdlikjA7d12JMjUlAMNE3p&gaa_ts=692d91da&gaa_sig=fRMn1bZ90ke2Yrxe2Rp2TL7ZbIsbyMeaptLMbrb9G2xoue2EAzHpLyUOl6n6TN7zEhJRvBTnAT6F-Ds2aFLTuQ%3D%3D",
       "image": null,
       "description": null
     },
@@ -103,8 +93,18 @@
       "article_url": "https://www.livemint.com/news/us-news/elon-musk-predicts-working-will-be-optional-within-10-20-years-due-to-ai-and-robotics-11764524461852.html",
       "image": "https://www.livemint.com/lm-img/img/2025/11/30/1600x900/logo/elon_musk_on_podcast_1764525187053_1764525193099.jpg",
       "description": "Elon Musk predicted that advances in AI and robotics could make work optional within the next 10 to 20 years. \u201cMy prediction is that, in the future, working will be optional. Advances in AI and robotics will bring us to a point where working is optional,\u201d he said on Nikhil Kamath\u2019s podcast."
+    },
+    {
+      "headline": "Robots learn to plan and adapt in real time with BrainBody-LLM AI tech",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc0NxMkRIRGNFYWVDcjR1VHVicDg1N0Y3b3lpVHhweXYwTjFtMUNPNXVwZHA5c2hlRmlyMllnMDlTbzRwdzNGMmJTWlJJOF95RWdYZ3dselR3ekZpSDRlOFRVdHdpdGd1NTlfN1VDVWR0cXRPSTdxWWY4RndOeWhBa01MXzNkLUhMQ18tM3d6WFFINjA?oc=5",
+      "pub_date": 1764517800.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/brainbody-llm-algorithms-make-robots-think",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/BrainBody-LLM-algorithms.jpg",
+      "description": "NYU engineers unveil a system that helps robots think through tasks and succeed in settings that usually trip them up."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T11:55:50.117307+00:00"
+  "fetched_at": "2025-12-01T12:47:38.004666+00:00"
 }
