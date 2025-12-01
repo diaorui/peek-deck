@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Epic boss Tim Sweeney thinks stores like Steam should stop labelling games as being made with AI: 'It makes no sense,' he says, because 'AI will be involved in nearly all future production'",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1pax65n/epic_boss_tim_sweeney_thinks_stores_like_steam/",
-      "published": 1764546057.0,
-      "thumbnail": "https://external-preview.redd.it/A2SZ69Ks9iyM_AxJpDKOjoR57HEajLQTgawYBX5ZkyE.jpeg?width=640&crop=smart&auto=webp&s=d62f58ea334dd99195b9db8b051f74f5dc802312",
-      "external_url": "https://www.pcgamer.com/software/ai/epic-boss-tim-sweeney-thinks-stores-like-steam-should-stop-labelling-games-as-being-made-with-ai-it-makes-no-sense-he-says-because-ai-will-be-involved-in-nearly-all-future-production/",
-      "site_name": "PC Gamer",
-      "favicon": "https://vanilla.futurecdn.net/pcgamer/1482179/apple-touch-icon.png",
-      "description": "Don't need a notice if everyone's doing it."
-    },
-    {
       "title": "Gemini 3 is pulling the same dynamic downgrade scam that ruined the GPT-5 launch",
       "author": "CantaloupeNo6326",
       "url": "https://www.reddit.com/r/artificial/comments/1pb1sr3/gemini_3_is_pulling_the_same_dynamic_downgrade/",
@@ -24,6 +13,17 @@
       "description": "I'm canceling my Google One AI Premium sub today. This is exactly the same garbage behavior OpenAI pulled, and I'm not falling for it again. We all know the drill by now. You pay for the Pro model, you start a chat, say hi, and it gives you a smart response. But the second you actually try to use the context window you paid for - like pasting a 3k word document or some code - the system silently panics over the compute cost and throttles you. It's a classic bait and switch. Instead of processing that context with the Pro model I'm paying twenty bucks a month for, it clearly kicks me down to a cheaper tier. It feels exactly like when GPT would silently swap users to the mini or light model after a couple of turns or if you pasted too much text. I fed it a 3,000 word PRD for a critique. I expected a rewrite that actually kept the details. Instead I got a 700 word summary that reads like it was written by the Flash model. It just gutted the entire document. It's not conciseness. It is dynamic compute throttling. They are advertising a Ferrari, but the moment you try to drive it on the highway they swap the engine for a Prius to save electricity. If I wanted Flash performance on my long documents, I'd use the free tier. Stop selling me Pro reasoning and then hot-swapping the model when the math gets expensive. Has anyone found a way around this or is it time to just go full local/Anthropic?"
     },
     {
+      "title": "Epic boss Tim Sweeney thinks stores like Steam should stop labelling games as being made with AI: 'It makes no sense,' he says, because 'AI will be involved in nearly all future production'",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1pax65n/epic_boss_tim_sweeney_thinks_stores_like_steam/",
+      "published": 1764546057.0,
+      "thumbnail": "https://external-preview.redd.it/A2SZ69Ks9iyM_AxJpDKOjoR57HEajLQTgawYBX5ZkyE.jpeg?width=640&crop=smart&auto=webp&s=d62f58ea334dd99195b9db8b051f74f5dc802312",
+      "external_url": "https://www.pcgamer.com/software/ai/epic-boss-tim-sweeney-thinks-stores-like-steam-should-stop-labelling-games-as-being-made-with-ai-it-makes-no-sense-he-says-because-ai-will-be-involved-in-nearly-all-future-production/",
+      "site_name": "PC Gamer",
+      "favicon": "https://vanilla.futurecdn.net/pcgamer/1482179/apple-touch-icon.png",
+      "description": "Don't need a notice if everyone's doing it."
+    },
+    {
       "title": "Perplexity permabanned me in their official sub for citing their own documentation to expose \"Deep Research\" false advertising and massive downgrade.",
       "author": "somnolentjam90",
       "url": "https://www.reddit.com/r/artificial/comments/1pawnrw/perplexity_permabanned_me_in_their_official_sub/",
@@ -33,17 +33,6 @@
       "site_name": null,
       "favicon": null,
       "description": "I am writing this as a warning to anyone paying for Perplexity Pro expecting the advertised \"Deep Research\" capabilities. TL;DR: I proved, using Perplexity's own active documentation and official launch blog, that their \"Deep Research\" agent is severely throttled and not meeting its contractual specifications. The community validated my findings (my post reached 280+ upvotes, 65 comments, 100+ shares, and reached the top of the sub's front page). Instead of addressing the issue, the moderators permanently banned me and removed the thread to silence the discussion. (EDIT: All references to the official sub, including the link to the original post, have been removed from this text to comply with Anti-Brigading Reddit Rules.) (EDIT 2: I have pinned the link to the original deleted thread on my user profile so you can verify the full context yourself.) The Full Story: I have been a Pro subscriber specifically for the \"Deep Research\" feature, which is sold as an \"Autonomous Agent\" that \"reads hundreds of sources\" and takes \"4-5 minutes\" to reason through complex tasks and deliver a comprehensive report. To prove that these are the official specs, I am providing both the current live links and archived snapshots from the Wayback Machine (to prove these have been the consistent standard for months and to prevent potential stealth edits). Official Help Center Documentation: [Current Live Link] | [Wayback Machine Snapshot (Sept 8, 2025)] Official Launch Blog: [Current Live Link] | [Wayback Machine Snapshot (Aug 2, 2025)] (Note: I attempted to capture fresh snapshots of the pages today to confirm their current state, but the Wayback Machine is returning errors/incomplete rendering for the new captures. The provided snapshots from Aug/Sept are the most recent stable versions and confirm these specs have been the published standard for months.) Recently (some months), the service degraded massively. My \"Deep Research\" queries were finishing in 30 seconds with only 10-15 sources, essentially behaving like a standard search wrapper but sold at a premium. I posted a detailed analysis on their official subreddit. I didn't attack anyone; I simply compared their Official Help Center Documentation and Launch Blog against the actual Product Output: Advertised Spec: \"Reads hundreds of sources\" / \"Takes 4-5 minutes\". Actual Reality: Reads ~10 sources / Takes ~30 seconds. The community rallied behind my post. 280+ upvotes, 65 comments, 100+ shares, and reached the top of the sub's front page. It became a hub for other users confirming the same throttling. It was a legitimate customer complaint backed by data. Today, I received a Permanent Ban and the thread got deleted. No warning. No explanation of which rule I broke. Just a permanent ban for the 'offense' of holding them accountable to their own written promises. The Takeaway: This confirms that Perplexity is likely throttling compute on their premium features to save costs and is using censorship to hide it. If you rely on Perplexity for your workflow, be careful. They will degrade the product you rely on without warning, and the moment you provide evidence of the decline, they will silence you rather than fix it."
-    },
-    {
-      "title": "Major AI conference flooded with peer reviews written fully by AI",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pagvc6/major_ai_conference_flooded_with_peer_reviews/",
-      "published": 1764504824.0,
-      "thumbnail": "https://external-preview.redd.it/yWK_5WsMyozKCEpUXd3fwjNG4G1iLCUmSOB7bllahkc.jpeg?width=640&crop=smart&auto=webp&s=c2c02bc6d89f599123dd40a04d5d265b7253fec5",
-      "external_url": "https://www.nature.com/articles/d41586-025-03506-6",
-      "site_name": "nature.com",
-      "favicon": "https://www.nature.com/static/images/favicons/nature/apple-touch-icon-f39cb19454.png",
-      "description": "Controversy has erupted after 21% of manuscript reviews for an international AI conference were found to be generated by artificial intelligence."
     },
     {
       "title": "I\u2019ve Spent Months Building CAELION \u2014 A Cognitive Architecture That Isn\u2019t an LLM. Here\u2019s the Core Idea.",
@@ -66,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Deepgram Launches Streaming Speech, Text, and Voice Agents on Amazon SageMaker AI.[1] AI video slop is everywhere, take our quiz to try and spot it.[2] More of Silicon Valley is building on free Chinese AI.[3] \u201cAvatar: Fire and Ash\u201d director James Cameron on generative AI: \u201cThat\u2019s horrifying to me\u201d.[4] Sources: [1] https://finance.yahoo.com/news/deepgram-launches-streaming-speech-text-030000576.html [2] https://www.npr.org/2025/11/30/nx-s1-5610951/fake-ai-videos-slop-quiz [3] https://www.nbcnews.com/tech/innovation/silicon-valley-building-free-chinese-ai-rcna242430 [4] https://www.cbsnews.com/news/avatar-fire-and-ash-director-james-cameron-on-generative-ai-thats-horrifying-to-me/"
+    },
+    {
+      "title": "Major AI conference flooded with peer reviews written fully by AI",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1pagvc6/major_ai_conference_flooded_with_peer_reviews/",
+      "published": 1764504824.0,
+      "thumbnail": "https://external-preview.redd.it/yWK_5WsMyozKCEpUXd3fwjNG4G1iLCUmSOB7bllahkc.jpeg?width=640&crop=smart&auto=webp&s=c2c02bc6d89f599123dd40a04d5d265b7253fec5",
+      "external_url": "https://www.nature.com/articles/d41586-025-03506-6",
+      "site_name": "nature.com",
+      "favicon": "https://www.nature.com/static/images/favicons/nature/apple-touch-icon-f39cb19454.png",
+      "description": "Controversy has erupted after 21% of manuscript reviews for an international AI conference were found to be generated by artificial intelligence."
     },
     {
       "title": "Had a realization today",
@@ -112,5 +112,5 @@
       "description": "The good news is that Intel tonight posted a pull request for open-source Gaudi 3 accelerator support for the mainline Linux kernel! The bad news is that it's coming quite late in the product cycle, much later than the former excellent Habana Labs open-source track record, and their hopes of squeezing this code into the Linux 6.19 kernel may be dashed."
     }
   ],
-  "fetched_at": "2025-12-01T07:40:37.168651+00:00"
+  "fetched_at": "2025-12-01T08:22:35.275125+00:00"
 }

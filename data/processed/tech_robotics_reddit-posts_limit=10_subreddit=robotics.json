@@ -2,6 +2,17 @@
   "subreddit": "robotics",
   "posts": [
     {
+      "title": "4 motors robot crawler",
+      "author": "Archyzone78",
+      "url": "https://www.reddit.com/r/robotics/comments/1pb5i5b/4_motors_robot_crawler/",
+      "published": 1764570281.0,
+      "thumbnail": "https://external-preview.redd.it/amY2Z2xyZWVkajRnMULQkZWGSBy3c28tdVgAGrLriXZPWTMuhC9kx0nPsjyM.png?width=640&crop=smart&auto=webp&s=dd34c9119218533ad3deeda9f9b344472567a210",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "fully autonomous robot with object following using a prompt",
       "author": "HudZah",
       "url": "https://www.reddit.com/r/robotics/comments/1payudz/fully_autonomous_robot_with_object_following/",
@@ -22,17 +33,6 @@
       "site_name": null,
       "favicon": null,
       "description": "From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1994820845311832267"
-    },
-    {
-      "title": "4 motors robot crawler",
-      "author": "Archyzone78",
-      "url": "https://www.reddit.com/r/robotics/comments/1pb5i5b/4_motors_robot_crawler/",
-      "published": 1764570281.0,
-      "thumbnail": "https://external-preview.redd.it/amY2Z2xyZWVkajRnMULQkZWGSBy3c28tdVgAGrLriXZPWTMuhC9kx0nPsjyM.png?width=640&crop=smart&auto=webp&s=dd34c9119218533ad3deeda9f9b344472567a210",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     },
     {
       "title": "fully autonomous robot with object following using a prompt",
@@ -112,5 +112,5 @@
       "description": "Hey everyone, Just wanted to share a short clip of my DIY robot, BaBot, in action. It\u2019s taken a lot of trial and error to get it to move smoothly, and I\u2019m still tweaking things, but I\u2019m really happy with how it turned out so far. Would love to hear any thoughts !"
     }
   ],
-  "fetched_at": "2025-12-01T07:40:41.106143+00:00"
+  "fetched_at": "2025-12-01T08:22:39.097286+00:00"
 }
