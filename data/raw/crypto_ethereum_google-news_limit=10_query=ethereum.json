@@ -25,6 +25,26 @@
       "description": "If this widely touted growth driver peters out, it could spell big trouble."
     },
     {
+      "headline": "BTC, ETH, XRP Price News: Bitcoin Drops to $87K Amid Yearn's yETH Exploit",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZmRWZTFLRXd2bUhLZW9lajhwSTVSOS1ZdFdUZnVUS0ZhT2JyVmtVVzJjdHNjUzlfcTRNcTM0RS11TGlEdlUwZlp6cTY4dkgtU09tWjNzd3lTRmNzVnU3S0F6RDZGQlQzY0JKdW9nbHlUSHM4b3JVeEhXcDNxYXhiZ1lKbmRjUmpMRHU1aU9iZmhXa2VyU2VJUEx2VFFPVm5TSndEYmo0VQ?oc=5",
+      "pub_date": 1764560700.0,
+      "article_url": "https://www.coindesk.com/markets/2025/12/01/bitcoin-ether-xrp-slide-as-december-begins-with-yearn-attack",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/25db3d30a9c7dba441732664498c65887047d7fe-1500x1001.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "Major cryptocurrencies fell early Monday, continuing the November downtrend."
+    },
+    {
+      "headline": "Why Bitcoin, Ethereum and XRP Are Suddenly Crashing Today?",
+      "source": "Coinpedia",
+      "source_url": "https://coinpedia.org",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSVJYMk50SmFycUlPelhJeFo2UGF0bnQzYmlyd292N3lEMmFfbU1xOTJ0aktfSnAxdGZ2UWtYYXpFYTI4eVlJMEFkcDZmUG93aWkwbFVXUjk4eU9WOFZnaXV3MUpyYkItelk4R0szZnZFOXhYRXRRZUI3ZEhiZzYxTnUzQ1I4dG5uelVua2dSSmxOajBPVGlSRS15Y201eHJOZjJleUZn?oc=5",
+      "pub_date": 1764558480.0,
+      "article_url": "https://coinpedia.org/news/crypto-crash-alert-why-bitcoin-ethereum-and-xrp-are-suddenly-crashing-today/",
+      "image": "https://image.coinpedia.org/wp-content/uploads/2025/06/09191011/Bitcoin-Ethereum-XRP-Price-Prediction-This-Week-Will-CPI-Data-Trigger-a-Crypto-Crash.webp",
+      "description": "The crypto market is under pressure again as the total market cap has dropped below $3 trillion, slipping to roughly $2.95 trillion. The downturn has"
+    },
+    {
       "headline": "Russian investors flock to Bitcoin, Ethereum funds as crypto adoption gathers pace",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -45,54 +65,14 @@
       "description": null
     },
     {
-      "headline": "Ethereum Treasury News: BitMine (BMNR) Bought Nearly 70K ETH",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTVJXVk5NTy1uWUh0TVZvMDlYRERfdTFxdE8xOUYyMlJQUS1EVTRfUXl3UlQtaDFxX0haSTFzenROVTMtQ1pqUlBMTUhrelY2RmFlU2h2ZE9vT2N3SXdsd3hNVC1ad3FyN0hsOVpfSEJBWDZoLWRyOE8wUzlwZE5XamVvT01kUDQ3NW52VUlscG5UTHllVXA2aHNOMFowMmgtb1A0UW9hSGlYUEFURFRoSnZhRjROYWVDNWtNU2hMc1A?oc=5",
-      "pub_date": 1763995079.0,
-      "article_url": "https://www.coindesk.com/business/2025/11/24/bitmine-immersion-added-nearly-70k-ether-last-week-now-holding-3-of-eth-supply",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/13c2f3d8f4a14835d564bac5cf5d5cdd106bdcfd-1919x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The company increased its crypto holdings last week despite sitting on around $4 billion in unrealized losses on its ETH bet."
-    },
-    {
-      "headline": "BitMine Immersion: Major Test Passed So Far (NYSE:BMNR)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZXZIazVCb3lHR01GLWt0T2haekVSZTJPUmNobGpFeHR0LURFRzNGUzdyREhHWGFlczVkU1pJbkgtT2JyTzQydFJBVFg0aTNrSXpPVUQzS24tQWJMNWNsMTFtcTR5NEhrb2xlU0FRX3dJQmFTRTFtQ3hCVVlKcFJxdkxNd3h5QUVOdW5B?oc=5",
-      "pub_date": 1764529200.0,
-      "article_url": "https://seekingalpha.com/article/4847709-bitmine-immersion-major-test-passed-so-far",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1336958337/image_1336958337.jpg?io=getty-c-w1536",
-      "description": "Bitmine Immersion Technologies has experienced a sharp decline amid a broader crypto selloff, despite its focus on Ethereum over Bitcoin. Read what could be next for this crypto company."
-    },
-    {
-      "headline": "Vitalik Buterin Donates $765K in Ethereum to Privacy Messaging Apps",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNG5JZW1JQ2pBYllVLWNnTWpMZ1h5aEY5NXpjZjVnQU5Pb0JMWmFTeGFYbGFGOVpGbldaWS1PY0pfSmtsX0tBbHBhbTRXY3lHWlhVUFV2bnMtc2YxVl85Um11Q1RIT1hJeDRVZDVZOE9zTmxiMnZOR2MwdlJhUklFbzVnMTdIb3VaNUJuODl2bjZrTm1TMExv0gGfAUFVX3lxTFBrT19QT29ZckYyX3Z2NENCVGNlZzRlME8yS290R0YwaFluM19RWm9lbTdkbVlWZWtLM1BDelBHMHFxSlkxNjlsSmxWQVo2U05kZlJnUUNJNVFXeDJwc0xPdDJab0RyN1U5a2d1RDMxSFREcHE0OS1Rc21udDZvODBXSjVPcWlwZ1k2UV9NTlFvcklTa3hfM2Y3R3BHNDRTTQ?oc=5",
-      "pub_date": 1764270062.0,
-      "article_url": "https://decrypt.co/350253/vitalik-buterin-donates-765k-in-ethereum-to-privacy-messaging-apps",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg",
-      "description": "Ethereum co-founder Vitalik Buterin supported two privacy messaging apps that are looking to break past sector leaders Signal and Telegram."
-    },
-    {
-      "headline": "Most Ethereum valuation models indicate ETH is undervalued: Analyst",
+      "headline": "Ethereum Price Falls Under $3,000, But Experts Say Supercycle Is Just \u2018Starting\u2019",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWWhzek1VTmpyQ2pPaGNGQ1pZeG52eldjQ0dJZFlHY2tWNlBGT1JVYzZkZGRveUt1cjhCYXJrT0hGbkpLT3JTWFJiUmdRR0N6bXRPd0dUZGE4azBlYldkb3lWN1Z4SjltMGt4c01yRTZYN3lvelJOQ0k5MTlhRU1Xb2xMMTNMUi1hUG9WaXRLMFpHbEw1RUVyUTNwZURFdURoQks3a0Nrbno2MUJXTmFxQUwySFB3U2g4ZE10MWE1MVVVUExQWDRCMG5B?oc=5",
-      "pub_date": 1764524964.0,
-      "article_url": "https://www.tradingview.com/news/cointelegraph:66fc23bbd094b:0-most-ethereum-valuation-models-indicate-eth-is-undervalued-analyst/",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNjRKVHpfeVZTcXd0VVB2Q1RHcklCV0dQMFJmZnI4VkszVEJWSHFYYlpjT3pZcVdiMllKRnhlV194dnJCOXJ2NU1EMjFMaGptQjdwUWZUUGQyNlFUcjZoWG5URlA0U2pBa3d5RHo5R3dvSnV2RXZqZHdXT1o2aWZoZDV1VUVJLUt0c2t1d1gtUVB1cW5LWkpSUTAzMV9SNGR3QzYwWlVUbXA0THozbzc5Mld1M1JGbnRCQkU4UGs5SC1OUmtYQks5VjhyeWdKUmVRc0E?oc=5",
+      "pub_date": 1764567480.0,
+      "article_url": "https://www.tradingview.com/news/coinpedia:59200b9bc094b:0-ethereum-price-falls-under-3-000-but-experts-say-supercycle-is-just-starting/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "The native token of the Ethereum network, Ether BINANCE:ETHUSD, is undervalued in nine out of 12 commonly used valuation models, according to Ki Young Ju, a market analyst and CEO of crypto market analysis platform CryptoQuant.A composite \u201cfair value\u201d using all 12 valuation models prices ETH at abo\u2026"
-    },
-    {
-      "headline": "Tom Lee Lists Three Reasons Why Ethereum Will Beat Bitcoin \u2014 But Can ETH Rally to $9,000?",
-      "source": "CCN.com",
-      "source_url": "https://www.ccn.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHRFM25HZTVhUGdzbXNaZXFYRDlGUWtwZHp2cGNuTTdlVFhjYWFFLWZpQkNCZU1pcS0wMnMtUzJfaURoaE1WWGFSM3lGeXpzTzVza185MEZmOTZfdlRWNHoyeGdUNllXRWlkS3JKaTNGai1xVExBWS1tLVRuNDlvdlhmMXJpb2ZiR25WWmFnelZKTmE2OWxVc2twTQ?oc=5",
-      "pub_date": 1764335835.0,
-      "article_url": "https://www.ccn.com/news/crypto/tom-lee-three-reasons-ethereum-beat-bitcoin-can-eth-rally-9000/",
-      "image": null,
-      "description": null
+      "description": "The cryptocurrency market has slipped into the red zone. Bitcoin has once again dipped below the $90k mark and Ethereum has crashed to $2800. Amid this tense situation, Sharplink CEO Joseph Chalom has opened up about a possible Ethereum supercycle.\u00a0In an interview with Milkroad, he said that a few\u2026"
     },
     {
       "headline": "Why Bitcoin, Ethereum, and XRP are falling?",
@@ -103,8 +83,28 @@
       "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-xrp-face-major-losses-as-december-begins-202512010500",
       "image": "https://editorial.fxsstatic.com/images/i/bitcoin-explodes-02_Medium.jpg",
       "description": "Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are off to a bearish start in December, with over 4% losses by press time on Monday. Bitcoin, Ethereum, and Ripple face renewed selling, risking further losses to $80,000 BTC, $2,100 ETH, and $1.90 XRP, respectively."
+    },
+    {
+      "headline": "Ethereum Dives Below $2,880 as Bears Tighten Their Grip on the Trend",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEo1SjVQbnplMWZqQXFiMjVKNFlXT2xHNnJCQVdaOWhOWnN1UWhrRUw1dzZrUHhiM2x6UFZCdFRvaDJmRmprVThxMFJCenNYUm5Ebk1Mck1kcUFUQXB2aFR1QjlreDRtRGY0VE44NmVnbVJkVE9iTmk1X1RwZVRrc29IV3c0MENBTjBXaVVLOHF5UDNSWi1kZmpYdkoySTRwWkU1UHBwSnMxcy13R2VBRVc3WlRmcXpDeTB1VU41NmN5WEE?oc=5",
+      "pub_date": 1764563280.0,
+      "article_url": "https://www.tradingview.com/news/newsbtc:901b7b463094b:0-ethereum-dives-below-2-880-as-bears-tighten-their-grip-on-the-trend/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ethereum price started a fresh decline below $2,950. ETH is down over 5%, trading below $2,880, and might continue to move down.Ethereum Price Dips Over 5%Ethereum price failed to stay above $3,000 and started a fresh decline, like Bitcoin. ETH price declined below $2,880 to enter a bearish zone.Th\u2026"
+    },
+    {
+      "headline": "Vitalik Buterin Donates $765K in Ethereum to Privacy Messaging Apps",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNG5JZW1JQ2pBYllVLWNnTWpMZ1h5aEY5NXpjZjVnQU5Pb0JMWmFTeGFYbGFGOVpGbldaWS1PY0pfSmtsX0tBbHBhbTRXY3lHWlhVUFV2bnMtc2YxVl85Um11Q1RIT1hJeDRVZDVZOE9zTmxiMnZOR2MwdlJhUklFbzVnMTdIb3VaNUJuODl2bjZrTm1TMExv0gGfAUFVX3lxTFBrT19QT29ZckYyX3Z2NENCVGNlZzRlME8yS290R0YwaFluM19RWm9lbTdkbVlWZWtLM1BDelBHMHFxSlkxNjlsSmxWQVo2U05kZlJnUUNJNVFXeDJwc0xPdDJab0RyN1U5a2d1RDMxSFREcHE0OS1Rc21udDZvODBXSjVPcWlwZ1k2UV9NTlFvcklTa3hfM2Y3R3BHNDRTTQ?oc=5",
+      "pub_date": 1764270062.0,
+      "article_url": "https://decrypt.co/350253/vitalik-buterin-donates-765k-in-ethereum-to-privacy-messaging-apps",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg",
+      "description": "Ethereum co-founder Vitalik Buterin supported two privacy messaging apps that are looking to break past sector leaders Signal and Telegram."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T06:54:13.408757+00:00"
+  "fetched_at": "2025-12-01T07:40:57.287710+00:00"
 }

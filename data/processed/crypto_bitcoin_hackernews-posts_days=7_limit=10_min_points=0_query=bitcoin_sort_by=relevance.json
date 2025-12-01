@@ -89,6 +89,20 @@
       "site_name": "nytimes.com"
     },
     {
+      "title": "Market Volatility Underscores Epic Buildup of Global Risk",
+      "url": "https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46104355",
+      "author": "zerosizedweasle",
+      "points": 2,
+      "num_comments": 1,
+      "created_at": "2025-12-01T06:57:48Z",
+      "object_id": "46104355",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "nytimes.com"
+    },
+    {
       "title": "Show HN: I built Magiclip \u2013 an all-in-one AI studio",
       "url": "https://magiclip.io/",
       "hn_url": "https://news.ycombinator.com/item?id=46086920",
@@ -117,7 +131,7 @@
       "site_name": "Bitmovin"
     }
   ],
-  "total_hits": 8,
+  "total_hits": 9,
   "has_metadata": true,
-  "fetched_at": "2025-12-01T06:53:57.170328+00:00"
+  "fetched_at": "2025-12-01T07:40:38.281304+00:00"
 }

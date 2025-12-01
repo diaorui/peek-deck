@@ -25,22 +25,22 @@
       "description": "How does Disney bring Olaf to life with robotics and AI? Step behind the scenes and see the magic of innovation in action."
     },
     {
+      "headline": "Robotics Actuators Market Size, Share & Growth Report by 2034",
+      "source": "Straits Research",
+      "source_url": "https://straitsresearch.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NdFRKM2ZUblpnTXMyWFAwV1N6QXRuenRSbldUTUp5Wm1mWU8xZDBJc1dUaVA4Njl4dGtDWVBvTUYxc0ljWGpzUXF4ZEt2OVkzRWc4X2JzdE5EaTRSZlBUMWMyTVEzdzg4WnNrcA?oc=5",
+      "pub_date": 1764571289.0,
+      "article_url": "https://straitsresearch.com/report/robotics-actuators-market",
+      "image": "https://straitsresearch.com/uploads/reports/robotics-actuators-market-57748.jpg",
+      "description": "The global robotics actuators market size is valued at USD 17.9 billion in 2025 and is estimated to reach USD 41.2 billion by 2034, growing at a CAGR of 10.3% during the forecast period."
+    },
+    {
       "headline": "China\u2019s Robotics Stocks Face Investor Scrutiny Over Bubble Fears",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTjY4QlJmQVVZazdqekZRcWhjOXBuSFp3ZnZISzIwbW9vZEtYSE9qRzVxUmRuYS1ZSG12NzZXQVV2b05jcldFV0tLdGFWWjVKU24yZ2lZZ0JuSnpIbG1DTlo5eklfVlIwR25QN2ZMUkNia0c4Nk5RRmNPdE50SGN6YlRUU3BWMjVBQldaS1dTcmJpZWM2TzN4bjNLN3lxY0N4djQ4N2hiQWVTa1o1VDVraUF0V2R4QQ?oc=5",
       "pub_date": 1764374400.0,
       "article_url": "https://www.bloomberg.com/news/articles/2025-11-29/china-s-robotics-stocks-face-investor-scrutiny-over-bubble-fears",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "China Warns of Bubble Risk in Booming Humanoid Robotics Industry",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMGt6MXR5NFNlck96c2NIZ0VNbUdmRVlyRk5ZMDV3YzNtM1ctcEtRVnUxVElLNGZablJTWHlxaW1uMXhZU2dhcWhUbzh5cWhicGZWSTR4c2lCSmV2b2gxWVN6VTUwZld4V0xRZlFuV0tjZUR5NTlWeGpJMWJvRnBHdTBUX0VjRFJSZzNoQU5wNHk5ZkhkRjRxb3VDQTA1VmlLV3UxSGR6M3VPNW5RTWtzV1BubkdWZw?oc=5",
-      "pub_date": 1764302580.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-11-27/china-warns-of-bubble-risk-in-booming-humanoid-robotics-industry",
       "image": null,
       "description": null
     },
@@ -53,6 +53,16 @@
       "article_url": "https://finance.yahoo.com/news/china-warns-bubble-risk-booming-100805286.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/ZVfxPu5ia8wFnofX.hJtRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/e5b535e75e5b19b7199be431a88b2772",
       "description": "\u201cFrontier industries have long grappled with the challenge of balancing the speed of growth against the risk of bubbles \u2014 an issue now confronting the humanoid robot sector as well,\u201d Li Chao, spokeswoman of the National Development and Reform Commission, said at a briefing in Beijing on Thursday.  More than 150 makers of humanoid robots are operating in China and their number is still rising, Li said."
+    },
+    {
+      "headline": "Beijing flags humanoid robotics bubble risk as hype intensifies",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZWdrdlJNazV3LWhMdXZaMFFOUEdVMjVyWGtjY3pRYzU0YVdxaXk4UHhpc2x4UmpzcWZwUWRrX20tMFNwSGw4QUN1Sjk4Wl9CYkNvRXpOemp6SUc1cXlmck5lQ3VZMnpTbmlWQXF0WjYwc2dUVXhPNW5vMzlOSDAwUHhxb3g3V0xFMmppUjhB?oc=5",
+      "pub_date": 1764270780.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/china-humanoid-robotics-bubble-warning",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/Untitled-design-2025-11-27T231729.618.jpg",
+      "description": "While China positions humanoid robotics as a future growth engine, officials now fear the market may be overheating."
     },
     {
       "headline": "Exclusive: Gravis Robotics raises $23M to tackle construction\u2019s labor shortage with AI-powered machines",
@@ -88,23 +98,13 @@
       "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNaXQ2bC0wZFRkdWY5T0k0dnhMNWZOVGE1UmpydFVsd0RRNFdoUmF4dWd0YlQ3emdtNmNVaEJXdVBCS1BaaDJvR0UwQlBtWWZqQjVPVWUxci12R3YxcmlIcnQ4aDdDQUVqSEtTTWFpT2d2b01hT2JmX0hwS2YtRE85OXJ0aGtLWWItbVJQbjNkcWxfaFRvMWdENmh5OGcwRmVKZVhiRUo3N21Gd0VFMHlWanAxYzh0ekx4S1d2QU5KNXpkWktsTDFySjFVcDVKaExJVmEyUF8yT09vRHdBY01DS016MzRmOHFlQlh1RUpLYkRGeTVKLWY4dlFoaGt4MVk2ZXZZS2JFdGlWN2FqWVhWQ24zT3FhMnBFRW1WZU4zWV9ydnlEa0FWY3JCa0d6a0Rsdkt4bTBvODg3WTBsUnNRMEVIZ1lVZEZVaUthS1dhazk5akxObENNdnJ6VkxDMnJCTzhFdDBKVVZPczRNUmlRbTFudjdlUDFGLW5lVmNhbFZ1amdp?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPT01BMFYyT0tudkJEcTlIUDVLSTYzWXN5UUNUaXlBYmdkSm4xTmw2dEZQUS1TdDJXa1RRUUNiZGR5UlpuM2hwU2NJWnUwSnRKb2lNbFpaYk9PaEFDbGpUeXVZdzUzVk9IUy1aaWhwUmVMbWUtMTB3U1JUeUNmZ1RqaFM5NFRZdWlCV1NNU0JkbkNaWEhnSVM2X1ctRm9MWDNrM1JNc01aSWtMRnIwZEQ1dHRyNjg1eDdvVWRPcUNhU2ZjcWJTM3B0c3dGc1JKZkZWSjExek10R1oyTThRZTY3eHdfU2hnV3Jad25EeUJhQUJOcUtVckVvTlU5UDJjcVRpalEtenNfUzlsT0tac3N6Z3pVRlFCbElBREFrMzBwRUVFVjRwYkI3SmoydnJWUHE0RnZQZlMwMHdTOFRNUkpYQWZ1WDdrUlZzSjRIYVpGRDNVUjRWTVdaaE5qSjZ2SWtXa25WTkVQdkVlMjBPblp6OGlkU3BpejBpUHQ0Mk5naEg4bnVZ?oc=5",
       "pub_date": 1764352680.0,
-      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqdnOXD-m_wyYNEDOdXG9si5f5k9K1FaZUYKUpJ3AoUHtpZqfD5xsIbM&gaa_ts=692d3f0b&gaa_sig=j-JI58wAiDb2upz8NPUdwg62cbywKvdF1khahNJ5sO10vA8KMWvZBwbXYt7MDysQ0OPvHubeGDiQlEQpPJIXhQ%3D%3D",
+      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqdgqqwNI_RficphJOmgVBVoZ-hwiRINyoUMYapBZlOPe3kKVcfHGP50&gaa_ts=692d49fc&gaa_sig=pGDUs2PR4ag0eLiDsSsAJApAB0Cgx4cD_t2Y_i-N90CTX_ptYmwMvfa-CZY6BcBCKUjuRfpukBCZMvePAMKq4w%3D%3D",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Robots learn to plan and adapt in real time with BrainBody-LLM AI tech",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc0NxMkRIRGNFYWVDcjR1VHVicDg1N0Y3b3lpVHhweXYwTjFtMUNPNXVwZHA5c2hlRmlyMllnMDlTbzRwdzNGMmJTWlJJOF95RWdYZ3dselR3ekZpSDRlOFRVdHdpdGd1NTlfN1VDVWR0cXRPSTdxWWY4RndOeWhBa01MXzNkLUhMQ18tM3d6WFFINjA?oc=5",
-      "pub_date": 1764517800.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/brainbody-llm-algorithms-make-robots-think",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/BrainBody-LLM-algorithms.jpg",
-      "description": "NYU engineers unveil a system that helps robots think through tasks and succeed in settings that usually trip them up."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T06:54:23.430338+00:00"
+  "fetched_at": "2025-12-01T07:41:00.276865+00:00"
 }

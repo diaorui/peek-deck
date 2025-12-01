@@ -5,42 +5,42 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "BTC, ETH, XRP Price News: Bitcoin Drops to $87K Amid Yearn's yETH Exploit",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZmRWZTFLRXd2bUhLZW9lajhwSTVSOS1ZdFdUZnVUS0ZhT2JyVmtVVzJjdHNjUzlfcTRNcTM0RS11TGlEdlUwZlp6cTY4dkgtU09tWjNzd3lTRmNzVnU3S0F6RDZGQlQzY0JKdW9nbHlUSHM4b3JVeEhXcDNxYXhiZ1lKbmRjUmpMRHU1aU9iZmhXa2VyU2VJUEx2VFFPVm5TSndEYmo0VQ?oc=5",
-      "pub_date": 1764560700.0,
-      "article_url": "https://www.coindesk.com/markets/2025/12/01/bitcoin-ether-xrp-slide-as-december-begins-with-yearn-attack",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/25db3d30a9c7dba441732664498c65887047d7fe-1500x1001.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "Major cryptocurrencies fell early Monday, continuing the November downtrend."
+      "headline": "Bitcoin Plunges to Below $88,000 in Risk-Off Start to December",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUdmTW5acmg0ZS1VQ1REN1NCSkNKMEdxaElrRFhGcWc1TUZFYVVwOWhXOUxNNTUwdklsWl9wVUJKRXBGQmdjcHFlMEljd1dEV3hZTTJna1NNdWY5ZTc5dm1QX2ZHX3ZoNllRaU9teTFJUFRkamg3b2U5d3l0emU1Qzg5c25OWlg3bzFsMHVOY0ctU0NMSk9UbHNRVE9OTzZocTJvSjZIVldQV0JaV1VOTC12YTVWQQ?oc=5",
+      "pub_date": 1764565200.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-01/bitcoin-btc-slides-to-below-88-000-in-risk-off-start-to-december",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJlucFPfEV8M/v0/1200x800.jpg",
+      "description": "Cryptocurrencies fell sharply on Monday, bringing fresh momentum to a wide-ranging selloff that appeared to have settled."
     },
     {
-      "headline": "4 US Economic Events to Shake Bitcoin Sentiment in First Week of December 2025",
+      "headline": "Bitcoin price today: plunges to $86k as Yearn Finance pool breach rattles markets",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNzlOS3ZfczV1MlZIS0hkOURVUGVqd0NsNzFCQ2puTTBid0RHblpmWUtpNkNrVkd2emo4UHdXbFBuQ1Y4N2RpZnNNWUgxLV9KTzRWNzMxc1RabUNRbl8zbmRQc0wxbXJoVjU0TzY5UVU0aWNxOWtpNXl0dDAxVUxSV2dTMXVHX3BzajNqbzdTU2VrYzQ1cTlxZXpSdEVDTEJxakVtenhIWEpSZnNjMVkzZl9iN0JEblhqcUc1ZzkwRXZMaEVsYmtWS3lwQkdxaUFQNG40Tw?oc=5",
+      "pub_date": 1764570186.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-plunges-to-86k-as-yearn-finance-pool-breach-rattles-markets-4382733",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Michael Saylor's MicroStrategy moves billions in Bitcoin",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vVzFrNXRyOVZvS0V2cEhLU3ZzdjFYaUlOVENMV1RXRXdvQmlVOGVrVno3NktHa0tNaXk2dG1JLWxaN3hfZDhybE96M2Ffc2w3U3paVVRsM3dMVjYtSGtSODFleUVfYUFPOWREaDlMdFRHNzVwV2h0VWJtbk8?oc=5",
-      "pub_date": 1764569460.0,
-      "article_url": "https://finance.yahoo.com/news/4-us-economic-events-shake-061127412.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ykLbNVb_.kJZYlp7CtSFhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/4f20517371d95b05328436dc4f253a2f",
-      "description": "Key US economic events, including Powell\u2019s speech, QT ending, jobs data, and PCE inflation, will drive Bitcoin volatility this week."
-    },
-    {
-      "headline": "Big Strategy (MSTR) News Coming Tomorrow?",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaUJBLS05b05YZUhoM0dySWVkVnJLY1ZTM3FPMC1EQXlRZndRZV9uUmlmTE0xbjhqSFJMVWw3cEVsX2lyUXFvbnE1aDRzaEMwSmFYenJhT19QNHJ0bEpTTWtRcC1xUnktbUFVTnE4MlYtLUgyZldvaTY3U3FGQ1pwbWF1aGp6Rk1HOG55NmVISVh6S0RwSkpsLUEtRDltZnNYOFkxY2FhSFRodHRjeW8xTUFfMml5UQ?oc=5",
-      "pub_date": 1764519029.0,
-      "article_url": "https://www.coindesk.com/markets/2025/11/30/michael-saylor-sunday-change-up-suggests-new-announcement-coming-monday",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/90d795e942cdee39b61bec3fd5250b0394ff9585-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The executive chairman of bitcoin treasury firm Strategy teased a switch from orange dots to green dots in what's become his routine cheeky Sunday X post."
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1BFSTZjVzJNQ2NwRmY5bWplVEhkSndFSml2Wm1ENjBzRWU0eFM2d25haU03Ny1ZaDFWZm96NHAyZUFwQzlQa01xWVBKUmxCSEdPRWFLY1NleGg5Y2xpNjR0QlhKWTUzYVdhUFgwWmFMMWtrd0RqVHpDS3g5MV9ZN3ozNV9mTGFfMmFfZmF6OUZJS2Jn?oc=5",
+      "pub_date": 1764367250.0,
+      "article_url": "https://finance.yahoo.com/news/michael-saylors-microstrategy-moves-billions-220050534.html",
+      "image": "https://media.zenfs.com/en/thestreet_881/d1aa5494f6ca9d52fa64ef014153b18a",
+      "description": "The world's leading Bitcoin (BTC) treasury company, MicroStrategy (Nasdaq: MSTR), now rebranded to Strategy, has been moving billions in BTC. Led by co-founder and executive chairman Michael Saylor, Strategy is a software company that began accumulating Bitcoin in 2020. Now, it is the ..."
     },
     {
       "headline": "Strategy Insiders Kept Buying Preferred Stock as Bitcoin Price Slid",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOZXh3dThXWlYybGhsVHlNT3hUNGw1M0hfWEluaTBJNlpsOWloc1EwWnhRbEdpbzI2eUR6ajgyWnU5VEMzMmFSSmMtbm5sclJMNTgwTHhBNmtwUFJwMnowNHNnU2d4X0hPcUlNeXhqOFlxd21LNFVRbEhmOTlaN1otVmNxV1FkbTdBc1hyRGxPMEw3SzJDd19BeGNERG5fdFV5dTdORDRrUngwQUJNSEFNZE0wSVZuajNSVGtEV2ZQWnVzajRjdFg5SWFsQlRaRHhsdmZ2OW5rTUpWXzM0dGFaMlVjRUlaU3JxRHFLVkFwMWJvaTNjZWdQOS1WbjI4Uktnb2htMW8taUdRempLM1MxRmE2RzB1TEo1YXZSVVllV0V5WEdHWGlKOXBPVHhCZzV6SmxXUnR6NHlrM0c4NUdlQ25NMEFYZEhFUWVMdmxXWHZyTmJNZ0xTdDd3RnQ5X0o5MU5DSENQcWdScTNfVXd3MlNBWmpLY2tyTW90WkFZNWtCVXlW?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPSjQ0cUEyWWFJWHFVZ1RKTVhQNWdvSk9zQUczbFFOOHhvOHNwb0dEMHhqVzFLY2k0N3lKaVcySVR0SDFYSkJjVFFjQUlESXdLWk01MEZBNVRkS1lVYUpOSGRoSUJMeThRS3NKQjhoNm1raks2RmVUSzRxN2d6NGRWWnVORDBVM1h3cXFYMndZeGRaM1JvVFp3RGIwZW5YYTJqMks0VGVXckIteTBnQmg3TzR2cVJ2QUl0akNBX2FpeFgyTFMwQ3lxNFFNa3hTcUVndUwxVUU4am02VzVxUGtSOUYtWTJlQ0JObzNwUk9DbWVFYXlMcW9tWFVxdS1fUDBudmdmaWU1dmxIUEo3UWYzS3R6cXAtQmd2eVJWRkFRa1Z2ZkFkUVJFZk1lalF1WUtmaFpLUGEtQ2l0RGxUd1ZrMHpNazhOekpQWjBOc2c0cmdfcjRJcUZ0dGgwb1FsR055LTFNc19ieFFrQUJLSHByZUFvNkVOenZmdnlqeVhXWm5iWUEz?oc=5",
       "pub_date": 1764487800.0,
-      "article_url": "https://www.barrons.com/articles/strategy-insiders-bitcoin-buying-79756b79?gaa_at=eafs&gaa_n=AWEtsqfTcweHEYqVppIN05IlJRzuoilsm3y3KpOoZaBagiqtkiHOz0BP2ncy&gaa_ts=692d3f08&gaa_sig=RvL_3loLcKaoWsK7goH4K1A5qa_gd-e2jpnmZF6T5mX8Bqm5YAioIFcuQUF-0jFQt6G8MROrTRe0iR1a0IPHGg%3D%3D",
+      "article_url": "https://www.barrons.com/articles/strategy-insiders-bitcoin-buying-79756b79?gaa_at=eafs&gaa_n=AWEtsqc-iF474Dc1P5kQ3Hvp7V0lU-6kcnN6TfmucMJx9o4vOQ2DngOUJPRh&gaa_ts=692d49f9&gaa_sig=xBjYuJaGhmf3tYbFFnvKNfB0n2HLVuKDSzprsjAPuFtFJjDuh1hZSo7i0q3uhSPKBDWumRaOsirhLU6p5tlDVw%3D%3D",
       "image": null,
       "description": null
     },
@@ -55,14 +55,14 @@
       "description": null
     },
     {
-      "headline": "BITCOIN TAKES A $4K NOSEDIVE, $139M LIQUIDATED IN MINUTES One minute it\u2019s chill at $91K, the next it\u2019s free-falling like someone yanked the rug mid-party. Traders were vibing, markets were calm, and then BOOM... $139 million in bets vanished in min",
-      "source": "x.com",
-      "source_url": "https://x.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oWnRtQjdVUFdhcEt2RV9jQWRsVkhHWnpONkZ2T1AyVHg3cWQ3bkYzV2UwV2N3cFloS0tHRndZVjJZZHIxRlQ2U2c3VTlQOXpGWkhGOUIxb1ptYWpwQUdPZGxn?oc=5",
-      "pub_date": 1764558004.0,
-      "article_url": "https://x.com/MarioNawfal/status/1995327006825705965",
-      "image": null,
-      "description": null
+      "headline": "Why Gold Shines at +55% While Bitcoin Tanks: The Great Divergence of 2025",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xNjZzaThsVHVtSUthd3dGSE1qalBYeDZ2bDhhYV93OEhFTjkzUHc2dUUwYjRsMWg4RXpNdW5lWDNPUVh3Q2pXZklxeUdaZUE3TFoxOE04eVZMUkxUblhTZlREcktZUEtWSFQ4VFd2R0lMNG1ieUo4X19n?oc=5",
+      "pub_date": 1764444523.0,
+      "article_url": "https://finance.yahoo.com/news/why-gold-shines-55-while-192843547.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/DOvmmEV28wNU59PKdDzU2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/24_7_wall_st__718/cd1809babf5aa3d4f18803b33aa9af02",
+      "description": "In 2025, precious metals and crypto took radically different paths. Gold closed the year up over 55%, its strongest performance in over a decade and the best return among all major asset classes. Bitcoin (CRYPTO: BTC), by contrast, slipped into bear market territory after a spectacular rally earlier in the year. BTC fell below $90,000 ... Why Gold Shines at +55% While Bitcoin Tanks: The Great Divergence of 2025"
     },
     {
       "headline": "Bitcoin set to rally back to $100,000, BTIG says",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T06:54:20.250402+00:00"
+  "fetched_at": "2025-12-01T07:41:00.171392+00:00"
 }

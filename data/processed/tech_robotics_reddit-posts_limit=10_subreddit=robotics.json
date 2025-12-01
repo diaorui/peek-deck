@@ -2,17 +2,6 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "Unitree R1 & G1 are showing off their skills together",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1paftdv/unitree_r1_g1_are_showing_off_their_skills/",
-      "published": 1764501084.0,
-      "thumbnail": "https://external-preview.redd.it/cXc1NGg0MzNuZDRnMTKOMTlUNUyjQprjxN6HIAw27V_NWy5ur8MFKoBmAQ83.png?width=640&crop=smart&auto=webp&s=4a1f30ca47fba10e94b8c084358fef36e43d28ff",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1994820845311832267"
-    },
-    {
       "title": "fully autonomous robot with object following using a prompt",
       "author": "HudZah",
       "url": "https://www.reddit.com/r/robotics/comments/1payudz/fully_autonomous_robot_with_object_following/",
@@ -24,15 +13,15 @@
       "description": null
     },
     {
-      "title": "fully autonomous robot with object following using a prompt",
-      "author": "HudZah",
-      "url": "https://www.reddit.com/r/robotics/comments/1payu3g/fully_autonomous_robot_with_object_following/",
-      "published": 1764550469.0,
-      "thumbnail": "https://external-preview.redd.it/bzhyaXB1emNxaDRnMdOz18-PxprpydyeRkxr2Df0ks0HOYWg5fZPLe7xGu53.png?width=640&crop=smart&auto=webp&s=13814da85e98e31558566a3858ad0283d2860cee",
+      "title": "Unitree R1 & G1 are showing off their skills together",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1paftdv/unitree_r1_g1_are_showing_off_their_skills/",
+      "published": 1764501084.0,
+      "thumbnail": "https://external-preview.redd.it/cXc1NGg0MzNuZDRnMTKOMTlUNUyjQprjxN6HIAw27V_NWy5ur8MFKoBmAQ83.png?width=640&crop=smart&auto=webp&s=4a1f30ca47fba10e94b8c084358fef36e43d28ff",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "From RoboHub\ud83e\udd16 on \ud835\udd4f: https://x.com/XRoboHub/status/1994820845311832267"
     },
     {
       "title": "4 motors robot crawler",
@@ -40,6 +29,17 @@
       "url": "https://www.reddit.com/r/robotics/comments/1pb5i5b/4_motors_robot_crawler/",
       "published": 1764570281.0,
       "thumbnail": "https://external-preview.redd.it/amY2Z2xyZWVkajRnMULQkZWGSBy3c28tdVgAGrLriXZPWTMuhC9kx0nPsjyM.png?width=640&crop=smart&auto=webp&s=dd34c9119218533ad3deeda9f9b344472567a210",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "fully autonomous robot with object following using a prompt",
+      "author": "HudZah",
+      "url": "https://www.reddit.com/r/robotics/comments/1payu3g/fully_autonomous_robot_with_object_following/",
+      "published": 1764550469.0,
+      "thumbnail": "https://external-preview.redd.it/bzhyaXB1emNxaDRnMdOz18-PxprpydyeRkxr2Df0ks0HOYWg5fZPLe7xGu53.png?width=640&crop=smart&auto=webp&s=13814da85e98e31558566a3858ad0283d2860cee",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -112,5 +112,5 @@
       "description": "Hey everyone, Just wanted to share a short clip of my DIY robot, BaBot, in action. It\u2019s taken a lot of trial and error to get it to move smoothly, and I\u2019m still tweaking things, but I\u2019m really happy with how it turned out so far. Would love to hear any thoughts !"
     }
   ],
-  "fetched_at": "2025-12-01T06:54:00.157064+00:00"
+  "fetched_at": "2025-12-01T07:40:41.106143+00:00"
 }
