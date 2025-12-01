@@ -15,9 +15,9 @@
     {
       "title": "fully autonomous robot with object following using a prompt",
       "author": "HudZah",
-      "url": "https://www.reddit.com/r/robotics/comments/1payu3g/fully_autonomous_robot_with_object_following/",
-      "published": 1764550469.0,
-      "thumbnail": "https://external-preview.redd.it/bzhyaXB1emNxaDRnMdOz18-PxprpydyeRkxr2Df0ks0HOYWg5fZPLe7xGu53.png?width=640&crop=smart&auto=webp&s=13814da85e98e31558566a3858ad0283d2860cee",
+      "url": "https://www.reddit.com/r/robotics/comments/1payudz/fully_autonomous_robot_with_object_following/",
+      "published": 1764550489.0,
+      "thumbnail": "https://external-preview.redd.it/MnkwcjMwNGpxaDRnMYQEronzxsk_pYpGYWAabTzuSsUm-gaOUeRMam4dibU2.png?width=640&crop=smart&auto=webp&s=c141644e48b0149733cbffb487bf2f75ec2e58ac",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -26,9 +26,9 @@
     {
       "title": "fully autonomous robot with object following using a prompt",
       "author": "HudZah",
-      "url": "https://www.reddit.com/r/robotics/comments/1payudz/fully_autonomous_robot_with_object_following/",
-      "published": 1764550489.0,
-      "thumbnail": "https://external-preview.redd.it/MnkwcjMwNGpxaDRnMYQEronzxsk_pYpGYWAabTzuSsUm-gaOUeRMam4dibU2.png?width=640&crop=smart&auto=webp&s=c141644e48b0149733cbffb487bf2f75ec2e58ac",
+      "url": "https://www.reddit.com/r/robotics/comments/1payu3g/fully_autonomous_robot_with_object_following/",
+      "published": 1764550469.0,
+      "thumbnail": "https://external-preview.redd.it/bzhyaXB1emNxaDRnMdOz18-PxprpydyeRkxr2Df0ks0HOYWg5fZPLe7xGu53.png?width=640&crop=smart&auto=webp&s=13814da85e98e31558566a3858ad0283d2860cee",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -112,5 +112,5 @@
       "description": "I'm working on a robotic arm project and I'm looking into using this planetary gearbox for a Nema 17 motor. https://preview.redd.it/0llh5gy8ua4g1.png?width=901&format=png&auto=webp&s=ecc0809169212c217ea7a276f67be90dd66b5077 https://preview.redd.it/jqqcigy8ua4g1.png?width=816&format=png&auto=webp&s=fb3e27aeb56050f4ab9138fee032c9471cc2b9b2 According to my calculations, the reduction is going to be 3:1 I think maybe it's not going to work well, not necessarily because they are planetary gears, but mostly because the ratio seems too low. What do you all think? Any experience with this or suggestions for better gearboxes for a Nema 17 in a robotic arm?"
     }
   ],
-  "fetched_at": "2025-12-01T02:27:27.887188+00:00"
+  "fetched_at": "2025-12-01T04:03:15.694406+00:00"
 }
