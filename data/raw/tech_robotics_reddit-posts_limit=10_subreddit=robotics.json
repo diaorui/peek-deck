@@ -2,17 +2,6 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "Demonstration of sanitation robots in Shenzhen last week",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1pb8geg/demonstration_of_sanitation_robots_in_shenzhen/",
-      "published": 1764581393.0,
-      "thumbnail": "https://external-preview.redd.it/bzE5czdsazNhazRnMZNmrQ2qSiOJZnjCQEc7estSYXQIA3irPB-JEHj5BZA9.png?width=640&crop=smart&auto=webp&s=92b1c04743b1792c22b374adc8e5adb8a376b211",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "From Tuo Liu on \ud835\udd4f: https://x.com/Robo_Tuo/status/1995314021281771644"
-    },
-    {
       "title": "First real test of my tabletop robots",
       "author": "Adventurous_Swan_712",
       "url": "https://www.reddit.com/r/robotics/comments/1pbhwpf/first_real_test_of_my_tabletop_robots/",
@@ -24,22 +13,22 @@
       "description": null
     },
     {
+      "title": "Demonstration of sanitation robots in Shenzhen last week",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1pb8geg/demonstration_of_sanitation_robots_in_shenzhen/",
+      "published": 1764581393.0,
+      "thumbnail": "https://external-preview.redd.it/bzE5czdsazNhazRnMZNmrQ2qSiOJZnjCQEc7estSYXQIA3irPB-JEHj5BZA9.png?width=640&crop=smart&auto=webp&s=92b1c04743b1792c22b374adc8e5adb8a376b211",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "From Tuo Liu on \ud835\udd4f: https://x.com/Robo_Tuo/status/1995314021281771644"
+    },
+    {
       "title": "4 motors robot crawler",
       "author": "Archyzone78",
       "url": "https://www.reddit.com/r/robotics/comments/1pb5i5b/4_motors_robot_crawler/",
       "published": 1764570281.0,
       "thumbnail": "https://external-preview.redd.it/amY2Z2xyZWVkajRnMULQkZWGSBy3c28tdVgAGrLriXZPWTMuhC9kx0nPsjyM.png?width=640&crop=smart&auto=webp&s=dd34c9119218533ad3deeda9f9b344472567a210",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "fully autonomous robot with object following using a prompt",
-      "author": "HudZah",
-      "url": "https://www.reddit.com/r/robotics/comments/1payudz/fully_autonomous_robot_with_object_following/",
-      "published": 1764550489.0,
-      "thumbnail": "https://external-preview.redd.it/MnkwcjMwNGpxaDRnMYQEronzxsk_pYpGYWAabTzuSsUm-gaOUeRMam4dibU2.png?width=640&crop=smart&auto=webp&s=c141644e48b0149733cbffb487bf2f75ec2e58ac",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -55,6 +44,17 @@
       "site_name": "Open Robotics Discourse",
       "favicon": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/4/4/4487d2db196c8ca556e8bfac980ed3850ba5cbd5_2_180x180.png",
       "description": "ROSCon 2025 Recordings Now Available   Hi Everyone,  Recordings from ROSCon 2025 are now available on our Vimeo account the ROSCon website, in the ROS Documentation, and in the list below. We\u2019re still waiting on talk slides, but we\u2019ll get those up just as soon as we can.  Big thanks to AMD for making our ROSCon 2025 live stream and video archive possible.  For your convenience here is a full list of available ROSCon 2025 talks and their presenters:   Opening Remarks & Guest of Honor \u2013 Geoff Bigg..."
+    },
+    {
+      "title": "fully autonomous robot with object following using a prompt",
+      "author": "HudZah",
+      "url": "https://www.reddit.com/r/robotics/comments/1payudz/fully_autonomous_robot_with_object_following/",
+      "published": 1764550489.0,
+      "thumbnail": "https://external-preview.redd.it/MnkwcjMwNGpxaDRnMYQEronzxsk_pYpGYWAabTzuSsUm-gaOUeRMam4dibU2.png?width=640&crop=smart&auto=webp&s=c141644e48b0149733cbffb487bf2f75ec2e58ac",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Unitree R1 & G1 are showing off their skills together",
@@ -112,5 +112,5 @@
       "description": "Hey fellow devs! For the past month I've been building a compact observability tool for ROS and I thought it would be wise to get some feedback from the community before building further. I've got a demo running on my local machine with some basic features like node/topic introspection, live telemetry/logs with filtering, play/pause, topic sub/pub and a chat with the context of the whole robots live state and logs to make it easier to get a grasp of whats happening. If anyones open to giving feedback based on the early prototype, I'd massively appreciate it, whether it is positive or negative, everything is welcome. Just let me know and I'll send the demo."
     }
   ],
-  "fetched_at": "2025-12-01T21:20:28.319156+00:00"
+  "fetched_at": "2025-12-01T21:54:02.196805+00:00"
 }

@@ -5,20 +5,6 @@
   "days": 3,
   "posts": [
     {
-      "title": "Airbus A320 \u2013 intense solar radiation may corrupt data critical for flight",
-      "url": "https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action",
-      "hn_url": "https://news.ycombinator.com/item?id=46083004",
-      "author": "pyrophoenix",
-      "points": 504,
-      "num_comments": 174,
-      "created_at": "2025-11-28T21:40:21Z",
-      "object_id": "46083004",
-      "image": "https://www.airbus.com/sites/g/files/jlcbta136/files/styles/thumbnail/public/2025-09/airbus-sharing-default.png?itok=AqaYIUdZ",
-      "description": "Analysis of a recent event involving an A320 Family aircraft has revealed that intense solar radiation may corrupt data critical. Read more.",
-      "favicon": "https://www.airbus.com/themes/custom/airbus_web_experience_ui/favicons/corporate/apple-touch-icon.png",
-      "site_name": "Airbus"
-    },
-    {
       "title": "Don't push AI down our throats",
       "url": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
       "hn_url": "https://news.ycombinator.com/item?id=46098992",
@@ -38,7 +24,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46094037",
       "author": "nl",
       "points": 230,
-      "num_comments": 83,
+      "num_comments": 84,
       "created_at": "2025-11-30T05:19:33Z",
       "object_id": "46094037",
       "image": null,
@@ -80,7 +66,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
       "points": 134,
-      "num_comments": 191,
+      "num_comments": 196,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
@@ -136,16 +122,30 @@
       "hn_url": "https://news.ycombinator.com/item?id=46105825",
       "author": "n1b0m",
       "points": 55,
-      "num_comments": 61,
+      "num_comments": 62,
       "created_at": "2025-12-01T10:41:14Z",
       "object_id": "46105825",
       "image": "https://i.guim.co.uk/img/media/adcd61d6e826f9dca934f3eef2452b135ad68f5b/19_0_2543_2033/master/2543.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ebbb935a14d8f1fd9c707bc68f612c1",
       "description": "Consultancy\u2019s move to embrace artificial intelligence follows Disney\u2019s use of the term \u2018imagineers\u2019",
       "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
       "site_name": "the Guardian"
+    },
+    {
+      "title": "Show HN: I built Magiclip \u2013 an all-in-one AI studio",
+      "url": "https://magiclip.io/",
+      "hn_url": "https://news.ycombinator.com/item?id=46086920",
+      "author": "kokau",
+      "points": 41,
+      "num_comments": 22,
+      "created_at": "2025-11-29T12:04:23Z",
+      "object_id": "46086920",
+      "image": "https://magiclip.io/assets/images/favicon.webp",
+      "description": "Magiclip - AI-powered platform for creating viral short-form videos, with automatic subtitles, AI voice generation, and social media optimization.",
+      "favicon": "https://magiclip.io/assets/images/favicon.webp",
+      "site_name": "Magiclip"
     }
   ],
-  "total_hits": 379,
+  "total_hits": 377,
   "has_metadata": true,
-  "fetched_at": "2025-12-01T21:20:25.581976+00:00"
+  "fetched_at": "2025-12-01T21:53:57.807768+00:00"
 }
