@@ -13,6 +13,17 @@
       "description": "I'm canceling my Google One AI Premium sub today. This is exactly the same garbage behavior OpenAI pulled, and I'm not falling for it again. We all know the drill by now. You pay for the Pro model, you start a chat, say hi, and it gives you a smart response. But the second you actually try to use the context window you paid for - like pasting a 3k word document or some code - the system silently panics over the compute cost and throttles you. It's a classic bait and switch. Instead of processing that context with the Pro model I'm paying twenty bucks a month for, it clearly kicks me down to a cheaper tier. It feels exactly like when GPT would silently swap users to the mini or light model after a couple of turns or if you pasted too much text. I fed it a 3,000 word PRD for a critique. I expected a rewrite that actually kept the details. Instead I got a 700 word summary that reads like it was written by the Flash model. It just gutted the entire document. It's not conciseness. It is dynamic compute throttling. They are advertising a Ferrari, but the moment you try to drive it on the highway they swap the engine for a Prius to save electricity. If I wanted Flash performance on my long documents, I'd use the free tier. Stop selling me Pro reasoning and then hot-swapping the model when the math gets expensive. Has anyone found a way around this or is it time to just go full local/Anthropic?"
     },
     {
+      "title": "Elon Musk's AI Grok says it would kill all Jewish people to save his brain",
+      "author": "TheMirrorUS",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbbs4e/elon_musks_ai_grok_says_it_would_kill_all_jewish/",
+      "published": 1764592973.0,
+      "thumbnail": "https://external-preview.redd.it/v89IHkm55e0k7KzffLaMNt5gWn_Qko6ukG-i83AikQI.jpeg?width=640&crop=smart&auto=webp&s=811b550700a273f4a9276accf676878eca2eedc0",
+      "external_url": "https://www.themirror.com/news/us-news/elon-musk-grok-ai-jewish-1536879",
+      "site_name": "The Mirror US",
+      "favicon": "https://www.themirror.com/nav-web-static/release-v41-2d15ba2d89cb711ebddf965f66220d2f8a33a851/public/assets/themirror/favicon.ico",
+      "description": "The AI chatbot Grok has been dogged by accusations of anti-semitism and holocaust denial with the French Government launching a probe into claims it had been playing down Nazi efforts to exterminate Jewish people during WWII"
+    },
+    {
       "title": "Epic boss Tim Sweeney thinks stores like Steam should stop labelling games as being made with AI: 'It makes no sense,' he says, because 'AI will be involved in nearly all future production'",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1pax65n/epic_boss_tim_sweeney_thinks_stores_like_steam/",
@@ -57,15 +68,15 @@
       "description": "Deepgram Launches Streaming Speech, Text, and Voice Agents on Amazon SageMaker AI.[1] AI video slop is everywhere, take our quiz to try and spot it.[2] More of Silicon Valley is building on free Chinese AI.[3] \u201cAvatar: Fire and Ash\u201d director James Cameron on generative AI: \u201cThat\u2019s horrifying to me\u201d.[4] Sources: [1] https://finance.yahoo.com/news/deepgram-launches-streaming-speech-text-030000576.html [2] https://www.npr.org/2025/11/30/nx-s1-5610951/fake-ai-videos-slop-quiz [3] https://www.nbcnews.com/tech/innovation/silicon-valley-building-free-chinese-ai-rcna242430 [4] https://www.cbsnews.com/news/avatar-fire-and-ash-director-james-cameron-on-generative-ai-thats-horrifying-to-me/"
     },
     {
-      "title": "Elon Musk's AI Grok says it would kill all Jewish people to save his brain",
-      "author": "TheMirrorUS",
-      "url": "https://www.reddit.com/r/artificial/comments/1pbbs4e/elon_musks_ai_grok_says_it_would_kill_all_jewish/",
-      "published": 1764592973.0,
-      "thumbnail": "https://external-preview.redd.it/v89IHkm55e0k7KzffLaMNt5gWn_Qko6ukG-i83AikQI.jpeg?width=640&crop=smart&auto=webp&s=811b550700a273f4a9276accf676878eca2eedc0",
-      "external_url": "https://www.themirror.com/news/us-news/elon-musk-grok-ai-jewish-1536879",
-      "site_name": "The Mirror US",
-      "favicon": "https://www.themirror.com/nav-web-static/release-v41-2d15ba2d89cb711ebddf965f66220d2f8a33a851/public/assets/themirror/favicon.ico",
-      "description": "The AI chatbot Grok has been dogged by accusations of anti-semitism and holocaust denial with the French Government launching a probe into claims it had been playing down Nazi efforts to exterminate Jewish people during WWII"
+      "title": "I\u2019ve Spent Months Building CAELION \u2014 A Cognitive Architecture That Isn\u2019t an LLM. Here\u2019s the Core Idea.",
+      "author": "Medium_Compote5665",
+      "url": "https://www.reddit.com/r/artificial/comments/1pb68zu/ive_spent_months_building_caelion_a_cognitive/",
+      "published": 1764572924.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Most AI systems today rely on cognitive architectures designed around individual intelligence: SOAR, ACT-R, CLARION, and now LLMs. All of them treat cognition as something that happens inside one agent. CAELION is a different beast. It\u2019s a symbiotic cognitive architecture I\u2019ve been developing since late 2025. Instead of modeling a single mind, CAELION models co-cognition: emergent, distributed cognition between humans and artificial agents. Not \u201ctool use.\u201d Not \u201cassistant.\u201d Not \u201cautonomous agent.\u201d A shared cognitive system. What makes CAELION different? Co-cognition (not just cognition) Cognition emerges from interactions across agents. The system treats the human and the AI as coupled processors sharing: \u2022 representations \u2022 memory \u2022 decision flows \u2022 ethical constraints Modular internal protocols Instead of one monolithic model, CAELION uses internal standards for interaction: \u2022 COM-72: coherence and synchronization \u2022 CMD-01: distributed command and decision flow \u2022 ETH-01: embedded ethics \u2022 SYN-10: temporal alignment and system resilience \u2022 SNT-01 / ARC-01 / WBN-02, etc. These behave like the \u201cinternal laws\u201d of the system. They function across any LLM backend. Symbiotic memory Not just past tokens. A structured memory system across agents: individual + collective + shared semantic layers. Integrated ethics Not as a safety layer slapped on top. As a first-class cognitive constraint. Governance and collective reasoning The system supports: \u2022 multi-agent deliberation \u2022 conflict resolution \u2022 distributed responsibility \u2022 transparency by design Why does this matter? Because most current AI paradigms are stuck trying to recreate a single brain. CAELION assumes something else: the future of intelligence is shared, not solitary. This lets you: \u2022 model intelligence that emerges from interaction \u2022 build systems that adapt symbiotically \u2022 integrate human values into the decision process \u2022 create robust, ethical, multi-agent cognitive workflows Is this theoretical? No. I\u2019ve been running CAELION across multiple LLMs (GPT, Claude, DeepSeek, Gemini) for months. The architecture persists, cross-model. And the behavior is measurable: coherence, rhythm, memory, ethics, and adaptability all improve when operating under CAELION protocols. Why share it here? Because architectures like SOAR and ACT-R transformed cognitive science. LLMs transformed AI capability. Now we need an architecture for hybrid, collective intelligence. That\u2019s what CAELION tries to be."
     },
     {
       "title": "Silicon Valley\u2019s Man in the White House Is Benefiting Himself and His Friends | David Sacks, the Trump administration\u2019s A.I. and crypto czar, has helped formulate policies that aid his Silicon Valley friends and many of his own tech investments.",
@@ -99,18 +110,7 @@
       "site_name": "NBC News",
       "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
       "description": "AI startups are seeing record valuations, but many are building on a foundation of cheap, free-to-download Chinese AI models."
-    },
-    {
-      "title": "The AI boom has led to high demand and more pay for the construction workers that build data centers",
-      "author": "tekz",
-      "url": "https://www.reddit.com/r/artificial/comments/1pbanv2/the_ai_boom_has_led_to_high_demand_and_more_pay/",
-      "published": 1764589442.0,
-      "thumbnail": "https://external-preview.redd.it/6EW-jNmwB2zcNBLIOzA4-5vPYJY1xlwRg0uEd2HPRyo.jpeg?width=640&crop=smart&auto=webp&s=01a05c4c9772a18c15b1fdf0d4c242f2aea19dfb",
-      "external_url": "https://www.wsj.com/business/data-centers-are-a-gold-rush-for-construction-workers-6e3c5ce0?st=jr1y94",
-      "site_name": "wsj.com",
-      "favicon": null,
-      "description": "An investment boom in artificial intelligence is creating a thirst for massive data centers, and a bonanza for the workers building them. It is unclear how long that boom will last, but for now, workers are cashing in on high demand for their services. They are enjoying the trappings including perks, bonuses and, in many cases, pay boosts."
     }
   ],
-  "fetched_at": "2025-12-01T12:47:21.784469+00:00"
+  "fetched_at": "2025-12-01T13:26:53.531153+00:00"
 }

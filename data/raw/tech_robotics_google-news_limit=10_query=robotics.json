@@ -25,6 +25,26 @@
       "description": "How does Disney bring Olaf to life with robotics and AI? Step behind the scenes and see the magic of innovation in action."
     },
     {
+      "headline": "US national debt: Telsa CEO Elon Musk says AI and robotics will solve crisis but lead to deflation",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOU85bUNRUEJuaDZPQkJTSlBiSlBUSVRoVE14cGV3ZzZPM1JIN3NNNTJiV3FBMFpKNDRkOGhWanFhUU5KaTlhM3BjSjY5MFNDSXluaUVzTmxRZHI2X1NoVEpTaVIwa2wtbzJiRkZqRzkwTm90VDhodEJpZ1pJUUFZMDlfcm9hUQ?oc=5",
+      "pub_date": 1764589800.0,
+      "article_url": "https://fortune.com/2025/12/01/elon-musk-national-debt-solved-ai-robotics-doge/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2246892105-e1764587975123.jpg?resize=1200,600",
+      "description": "After clashing with Trump on spending, Musk argues AI and robotics are the only path to easing record U.S. debt costs\u2014and may even trigger future deflation."
+    },
+    {
+      "headline": "'First robotics war': Defense Ministry shows how robotic systems used in Israel-Hamas war",
+      "source": "The Jerusalem Post",
+      "source_url": "https://www.jpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lRUctTXUtQThwTmM5b3dPU0dMQU1sdmM0NjFPY0ZMY3I4LTV3eHRTeTVmT1J0ZGtRX29QVE1GdU13cTk0RlcxY1V5SFZwakl5ZlQ4cE56TzNyczhxRDFlbEpmMA?oc=5",
+      "pub_date": 1764586742.0,
+      "article_url": "https://www.jpost.com/defense-and-tech/article-876822",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/478690",
+      "description": "The robotic systems have gotten much more diverse and standardized, being deployed in much higher volumes to assist with exploring Hamas tunnels, to save risking soldiers' lives from that process."
+    },
+    {
       "headline": "China\u2019s Robotics Stocks Face Investor Scrutiny Over Bubble Fears",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -35,14 +55,14 @@
       "description": null
     },
     {
-      "headline": "Exclusive: Gravis Robotics raises $23M to tackle construction\u2019s labor shortage with AI-powered machines",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQm5vRDlCbTBCd0Nrc003SGxXa3otN1VTZkYwa0xuaUVoOXZocWVmaU5oaFA2LUNmd1FBRXBpUWtBS2xOb29QYVVnSE42QjN0NUFyWUh1MlkySFY0WmFwSGQ1bkw1RWNSSHhGc2hrRTYzeE1VWmM1Sl9IMlBzV1lmN2pTUTBEUzVIWUVYbTZ2dk1mUnVCQnpkUkZhWmFiXzh2WGYzTGdkNTFfbjZvc214TzktYw?oc=5",
-      "pub_date": 1764313200.0,
-      "article_url": "https://fortune.com/2025/11/28/gravis-robotics-fundraise-23m-construction-labor-shortage-ai-automation-equipment/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/09_Gravis_Ryan_and_Dominicjpg.jpeg?resize=1200,600",
-      "description": "The Swiss startup is aiming to automate construction equipment as the industry faces a severe shortage of skilled operators and surging demand."
+      "headline": "CN Energy Group (NASDAQ: CNEY) debuts PATHENBOT robotics platform for North American SME automation",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzRRMHptaE1yN2ptUUdCeWZQVTFvSnZCMTY5QjNSUWtDMEVQSF9vbVJSV2NEcDlqYmNmVTA4TVZPZmxDYmFRbzUtRVMzQjdVZVlaV3ZPSl9iR1Y3MjVGZTN2Z2F6eFkycnh3ZENTQVFFMW00VWJ1alBJZ1M3blRYMWtBd2g1cHJXOUVidm1sbnJtZVRsVzVNaURncWlLTHdHSjlocUpRaUExR1hxQkwxajRNdVZRanptOW1XZ1RPSUY?oc=5",
+      "pub_date": 1764586500.0,
+      "article_url": "https://www.stocktitan.net/news/CNEY/cn-energy-group-inc-announces-launch-of-pathenbot-robotics-solutions-8clg2yncq3aa.html",
+      "image": "https://static.stocktitan.net/company-logo/cney-lg.png",
+      "description": "CN Energy\u2019s PATHENBOT unit launches a robotics solutions platform and official website to deliver customizable automation for North American SMEs."
     },
     {
       "headline": "Prediction: This Robotics ETF Will Outperform Over the Next 5 Years",
@@ -55,56 +75,36 @@
       "description": "The labor shortage isn't coming -- it's already here. And this fund owns the companies solving it."
     },
     {
-      "headline": "Video: China's marching humanoid robot 'army' sparks new debate",
+      "headline": "Chinese model with high success rate helps humanoid robots adapt to tasks without training",
       "source": "Interesting Engineering",
       "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQl9Vc1ZDSmFBS1hYNjJZdm8xSlRIdlNUTTZSY0R4enExU0Z0YzdjWjQySzhqUnVsaFBienc2bmRZUHZ0V1VGekRsRFFTejVqWWM1Yl9NVUptU2pubDBYZDRUWnBHS1dMd3M0VUFocFEwMHNIWXBhV2VjSnpkTGhscmNZYl9kTUtXdDdYMlBQNjFFQ2s?oc=5",
-      "pub_date": 1764592200.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/china-humanoid-robots-ubtech-global-debate",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Untitled-design.jpg",
-      "description": "UBTECH\u2019s synchronized humanoid robot video sparks global debate as critics question authenticity and the company defends it as real."
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZG1rLWRaZVByem9hQnFTRUZNRS1FbTFISTFYbHIySHJ6bmt2U1EzOHFYN1A0S3FPTHN2VTZpYnYtTXdPWlpxMzdPTjhybjYtWjFsQnV0bUE2NVFWNE5mOTIxaUsweGM0eThoRkVZMldpTVdzUTNWdnJxYkY2eVliQS0zQVlPMXVBMkE?oc=5",
+      "pub_date": 1764429300.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/chinese-model-humanoid-robots-tasks",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/Wuhan-robot.jpg",
+      "description": "New Chinese robot logic framework lets humanoid robots reliably grasp unfamiliar objects with an 87% success rate."
     },
     {
-      "headline": "Popular AI models aren\u2019t ready to safely run robots, say CMU researchers",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFU4VFpzM0N3UzRTblZ6YjFTd2w2cWUySldmeGVyZzVJTVdPQklSdGpjbGowbTBlNFZ6c0prdVlxaWZOV052SFctM0tpUm5oRkdJS0t6dEFwdVZvNTFFZXVXZ3FXdWtkUmxxaU5UOW96bG5XNGJkcHlMSmtlZ0MzRnVla3dfYjFUXzBxQ3dFTzZhOEFXbUJxSEJiYmJZRUJR?oc=5",
-      "pub_date": 1764515422.0,
-      "article_url": "https://www.therobotreport.com/popular-ai-models-arent-ready-safely-run-robots-say-cmu-researchers/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2025/11/AdobeStock_featured.jpg",
-      "description": "CMU evaluated how robots using LLMs behave when they have access to personal information such as a person\u2019s gender, nationality, or religion."
+      "headline": "Elon Musk teases a future run by robots",
+      "source": "Fox News",
+      "source_url": "https://www.foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45dGdfN2xGeXE0Z2xEWXFfUFhCdVRmTzFxVERpNkV5bzlPT01VeDYxQy12MEtLRTcxbGh1bzFvTmtHclpES2VrdnJxSjJjZVlBYjhSVG1qUmpacy1NSER5TmlnWnBXSzhVdHRPb0NiZFTSAXZBVV95cUxPVm10WE9VVjdCSTROQXFkYlJFWU1oV0FDZGlZZDF3OXlxVVpWVE05Q080UmY1NTlDWE5DUmtTYmZwV3lzUzdyLVhodEdfWnVxdEFHbTNleDlGYnZOYmtoXzhUMkkwMW9ERGJtcW9GMjF1eXJpRndR?oc=5",
+      "pub_date": 1764505813.0,
+      "article_url": "https://www.foxnews.com/tech/elon-musk-teases-future-run-robots",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/tesla-optimus-robot-002.jpg",
+      "description": "Viral video shared by Elon Musk shows Tesla's Optimus humanoid robots performing tasks from cooking to construction, garnering over 58.5 million views on social media."
     },
     {
       "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOQkpsTXZ5QjZOZlZpcDJ6N2dmNFhUZGxsRTJlUnpTam1pN1RMb3hVc1Z6Z3JPZktxb1c5eXotV2RCU20tclVVSGw4aGxwMmsyMm9CbU5rSjdqUVBIUTdJTW5kY0NwN0p3OGkzMm9iN0FRbDlkUE9oeF9HYnVPZmpWSGJQWFYzRXFaZm5nYU9DQVc1WWUxXy01cUtyVk5VYnNCc3hsZEs4UW9CUWNRelJNUml1RzhNVlUwUTE5QjJDaG05RFRyNUN3ZEtWLVRMeEtNOTZGd21LbFVNNm1ielRjQkItdmVMRnZkaXJPd1BiLXVpMlQyZ3Vwc3N0X3JFNHFiZ1BEYmgza2kta1pvdmVSLTVyRUhEakZyNGl4QVpzd3dxS1BkeFV4ZTQ4blZjT3lIYWJidkpRcEF2MThTRVJURngtNWZvT2dLNFFPV291S2N4RUZNZk5YZGhGN25vQ3ZKS3RKUkppczFTb3hsXzl3T3g2RXY1THlEZ2pHTm1wTWt4S0I0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOOGhjR1MxOFFyeWVndnplTk1CelBINlRhdGVybGN0c1hzb1Zqb0VGdmFZUDlwc05yWkRpaFB5Z2xSbzh6ZElIWTJJVEZ0OHo2dE9MQm1fN1F2MnEtRk5qVUVaSUtzazllLWtlRldDMVZyWDRMZ3pUY041cWNDcnU4NEdoQUJQZmpqc05vOTJyY2NHMGhKR08zVTN4LUFPQ2pLN1R2R2k0SlozLWsyUXhGeUlFSEhOcGNIR2k0QkZieC0zS0xTcmRsSDlheTJaV0lsTHdBQ1ZMdEVJU1dGZzIzamZJRHV0NzFsOWFITlk3SlpRX0MzT1I2eEJZTWtuYTJMWHNGZVNqdzFXZWtoUXNWYjQ5eE9EbXBEQjdjdDhnS280OVFGZVJibHZpSXlHV1JMZkU5Ylh2YmZHNDFpUU4zVVNjSl9BMC1UOWFnZHRHZ1NNVV9Gb1prbElFYWF2Y2UwWW5PUWdoeWg0VENNNjJXQ3U1czNjeVVScUNYUi03ckIySkw5?oc=5",
       "pub_date": 1764352680.0,
-      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqdrMFEVtha0Bt_Oy6lbUPgnBGvCl3nnYXVdlikjA7d12JMjUlAMNE3p&gaa_ts=692d91da&gaa_sig=fRMn1bZ90ke2Yrxe2Rp2TL7ZbIsbyMeaptLMbrb9G2xoue2EAzHpLyUOl6n6TN7zEhJRvBTnAT6F-Ds2aFLTuQ%3D%3D",
+      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqeW4pCKqVqsjJPj3gMNwYVkO02H6_zlp9A_UMkDltlw3TBQ5Pe-0Ky6&gaa_ts=692d9b25&gaa_sig=tyCZ_miTDkT-RFdtAj70QWdepI2MB0L7NeAuHhAqI9Fc9qOKK3-mEPu2SMD-HlqPiUjzD2VR-7hoU6vOT2hIqA%3D%3D",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Elon Musk predicts \u2018working will be optional\u2019 within 10\u201320 years due to AI and Robotics",
-      "source": "livemint.com",
-      "source_url": "https://www.livemint.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdEpWZlh2Nlg5elhPLXZLMzl2V2I4UUF6ZmdvMHE4REJjcnBGOWhLQmRobmRocVNLcWFSQ245Y3RFSUtpbktQRlZ6bmpmdzZWaG5MWE1xU2VfYUM4clhjLW96WGFDbEdISzlFcl9URjhVTnRrSVBhWEZ1bG1IOWFldWV5dFR0NkNnQnM0dGM5QjYyQWg0QVZGd1NWWUpWRF9XWE9vb0t3SkZzZDhqcFROQU82cTJBMU9QeUxHU3B6ZXhOTnltSzUtVloweWlNdGJqX0hTcWhOTkM3VlHSAeABQVVfeXFMTXY3RzhwTkZqZFFCcm5jZW1kZU1yNG94dUVXQU1wNUkybHlnQVRpZDYwWEtJNVV1V0hmQ0s3QVVxTndEcXMzbVFpUGN6Y2wwVHhtd3B6TmoyMmpjVkFycmY2RDJOLVNzcThGUGFXZXJ4alhJejBZSV9zZXRPczhjRmhxVkRkVXNrUGpra3hZc29zZUZfRFk1WkNrRlpTel9MdFU3blFtMkZNREQzeFZFbldHX01SdXZsQS1qZy0wMnU1Y1l1dXZ6U3lxbHlwbHl3djVQdF9heWtpYmlMNEh3TDg?oc=5",
-      "pub_date": 1764525225.0,
-      "article_url": "https://www.livemint.com/news/us-news/elon-musk-predicts-working-will-be-optional-within-10-20-years-due-to-ai-and-robotics-11764524461852.html",
-      "image": "https://www.livemint.com/lm-img/img/2025/11/30/1600x900/logo/elon_musk_on_podcast_1764525187053_1764525193099.jpg",
-      "description": "Elon Musk predicted that advances in AI and robotics could make work optional within the next 10 to 20 years. \u201cMy prediction is that, in the future, working will be optional. Advances in AI and robotics will bring us to a point where working is optional,\u201d he said on Nikhil Kamath\u2019s podcast."
-    },
-    {
-      "headline": "Robots learn to plan and adapt in real time with BrainBody-LLM AI tech",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc0NxMkRIRGNFYWVDcjR1VHVicDg1N0Y3b3lpVHhweXYwTjFtMUNPNXVwZHA5c2hlRmlyMllnMDlTbzRwdzNGMmJTWlJJOF95RWdYZ3dselR3ekZpSDRlOFRVdHdpdGd1NTlfN1VDVWR0cXRPSTdxWWY4RndOeWhBa01MXzNkLUhMQ18tM3d6WFFINjA?oc=5",
-      "pub_date": 1764517800.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/brainbody-llm-algorithms-make-robots-think",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/BrainBody-LLM-algorithms.jpg",
-      "description": "NYU engineers unveil a system that helps robots think through tasks and succeed in settings that usually trip them up."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T12:47:38.004666+00:00"
+  "fetched_at": "2025-12-01T13:27:20.887198+00:00"
 }

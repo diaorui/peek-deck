@@ -12,11 +12,30 @@
       "hf_url": "https://huggingface.co/papers/2511.22699",
       "arxiv_url": "https://arxiv.org/abs/2511.22699",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22699.png",
-      "upvotes": 56,
+      "upvotes": 59,
       "num_comments": 1,
       "published_at": "2025-11-27T13:52:07.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
       "github_stars": 3229,
+      "project_page": "https://tongyi-mai.github.io/Z-Image-blog/"
+    },
+    {
+      "id": "2511.22677",
+      "title": "Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield",
+      "authors": "Dongyang Liu, Peng Gao, David Liu et al. (11 authors)",
+      "organization_name": "Tongyi-MAI",
+      "organization_fullname": "Tongyi-MAI",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
+      "summary": "Diffusion model distillation has emerged as a powerful technique for creating efficient few-step and single-step generators. Among these, Distribution Matching Distillation (DMD) and its variants stand out for their impressive performance, which is widely attributed to their core mechanism of matching the student's output distribution to that of a pre-trained teacher model. In this work, we challenge this conventional understanding. Through a rigorous decomposition of the DMD training objective, we reveal that in complex tasks like text-to-image generation, where CFG is typically required for desirable few-step performance, the primary driver of few-step distillation is not distribution matching, but a previously overlooked component we identify as CFG Augmentation (CA). We demonstrate that this term acts as the core ``engine'' of distillation, while the Distribution Matching (DM) term functions as a ``regularizer'' that ensures training stability and mitigates artifacts. We further validate this decoupling by demonstrating that while the DM term is a highly effective regularizer, it is not unique; simpler non-parametric constraints or GAN-based objectives can serve the same stabilizing function, albeit with different trade-offs. This decoupling of labor motivates a more principled analysis of the properties of both terms, leading to a more systematic and in-depth understanding. This new understanding further enables us to propose principled modifications to the distillation process, such as decoupling the noise schedules for the engine and the regularizer, leading to further performance gains. Notably, our method has been adopted by the Z-Image ( https://github.com/Tongyi-MAI/Z-Image ) project to develop a top-tier 8-step image generation model, empirically validating the generalization and robustness of our findings.",
+      "ai_summary": "The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.",
+      "hf_url": "https://huggingface.co/papers/2511.22677",
+      "arxiv_url": "https://arxiv.org/abs/2511.22677",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22677.png",
+      "upvotes": 9,
+      "num_comments": 1,
+      "published_at": "2025-11-27T13:24:28.000Z",
+      "github_repo": "https://github.com/Tongyi-MAI/Z-Image/tree/main",
+      "github_stars": 3254,
       "project_page": "https://tongyi-mai.github.io/Z-Image-blog/"
     },
     {
@@ -126,11 +145,11 @@
       "hf_url": "https://huggingface.co/papers/2511.18423",
       "arxiv_url": "https://arxiv.org/abs/2511.18423",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.18423.png",
-      "upvotes": 148,
+      "upvotes": 149,
       "num_comments": 2,
       "published_at": "2025-11-23T07:29:33.000Z",
       "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
-      "github_stars": 524,
+      "github_stars": 565,
       "project_page": "https://github.com/VectorSpaceLab/general-agentic-memory"
     },
     {
@@ -149,7 +168,7 @@
       "num_comments": 6,
       "published_at": "2025-10-16T06:18:48.000Z",
       "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-      "github_stars": 65422,
+      "github_stars": 65471,
       "project_page": null
     },
     {
@@ -170,28 +189,9 @@
       "github_repo": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
       "github_stars": 16992,
       "project_page": "https://fapo-rl.github.io/"
-    },
-    {
-      "id": "2511.19900",
-      "title": "Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning",
-      "authors": "Jiaqi Liu, Kaiwen Xiong, Peng Xia et al. (9 authors)",
-      "organization_name": "UNC-ChapelHill",
-      "organization_fullname": "University of North Carolina at Chapel Hill",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/669f9c85bd649dba3b88e581/H5uB8_MCewnMtxEUnAvTL.png",
-      "summary": "Vision-language agents have achieved remarkable progress in a variety of multimodal reasoning tasks; however, their learning remains constrained by the limitations of human-annotated supervision. Recent self-rewarding approaches attempt to overcome this constraint by allowing models to act as their own critics or reward providers. Yet, purely text-based self-evaluation struggles to verify complex visual reasoning steps and often suffers from evaluation hallucinations. To address these challenges, inspired by recent advances in tool-integrated reasoning, we propose Agent0-VL, a self-evolving vision-language agent that achieves continual improvement with tool-integrated reasoning. Agent0-VL incorporates tool usage not only into reasoning but also into self-evaluation and self-repair, enabling the model to introspect, verify, and refine its reasoning through evidence-grounded analysis. It unifies two synergistic roles within a single LVLM: a Solver that performs multi-turn tool-integrated reasoning, and a Verifier that generates structured feedback and fine-grained self-rewards through tool-grounded critique. These roles interact through a Self-Evolving Reasoning Cycle, where tool-based verification and reinforcement learning jointly align the reasoning and evaluation distributions for stable self-improvement. Through this zero-external-reward evolution, Agent0-VL aligns its reasoning and verification behaviors without any human annotation or external reward models, achieving continual self-improvement. Experiments on geometric problem solving and visual scientific analysis show that Agent0-VL achieves an 12.5% improvement over the base model. Our code is available at https://github.com/aiming-lab/Agent0/Agent0-VL{this https URL}.",
-      "ai_summary": "Agent0-VL, a self-evolving vision-language agent, incorporates tool usage into both reasoning and self-evaluation, enabling continual improvement through evidence-grounded analysis and reinforcement learning.",
-      "hf_url": "https://huggingface.co/papers/2511.19900",
-      "arxiv_url": "https://arxiv.org/abs/2511.19900",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.19900.png",
-      "upvotes": 46,
-      "num_comments": 2,
-      "published_at": "2025-11-24T23:15:14.000Z",
-      "github_repo": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL",
-      "github_stars": 716,
-      "project_page": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-01T11:55:20.542726+00:00"
+  "fetched_at": "2025-12-01T13:26:54.417344+00:00"
 }

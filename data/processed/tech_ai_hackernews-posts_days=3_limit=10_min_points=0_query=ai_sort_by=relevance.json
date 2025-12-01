@@ -23,8 +23,8 @@
       "url": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
       "hn_url": "https://news.ycombinator.com/item?id=46098992",
       "author": "nutanc",
-      "points": 407,
-      "num_comments": 311,
+      "points": 408,
+      "num_comments": 315,
       "created_at": "2025-11-30T18:17:13Z",
       "object_id": "46098992",
       "image": null,
@@ -79,8 +79,8 @@
       "url": "https://www.erdosproblems.com/forum/thread/124#post-1892",
       "hn_url": "https://news.ycombinator.com/item?id=46094037",
       "author": "nl",
-      "points": 205,
-      "num_comments": 65,
+      "points": 209,
+      "num_comments": 71,
       "created_at": "2025-11-30T05:19:33Z",
       "object_id": "46094037",
       "image": null,
@@ -117,20 +117,6 @@
       "site_name": "LearnGupt"
     },
     {
-      "title": "A trillion dollars (potentially) wasted on gen-AI",
-      "url": "https://garymarcus.substack.com/p/a-trillion-dollars-is-a-terrible",
-      "hn_url": "https://news.ycombinator.com/item?id=46078407",
-      "author": "flail",
-      "points": 127,
-      "num_comments": 134,
-      "created_at": "2025-11-28T13:21:17Z",
-      "object_id": "46078407",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "garymarcus.substack.com"
-    },
-    {
       "title": "Airbus A320 Fly by wire corrupted by radiation in flight",
       "url": "https://viewfromthewing.com/airbus-a320s-could-be-temporarily-grounded-worldwide-for-software-update-after-faulty-jetblue-computer-triggered-sudden-uncommanded-descent/",
       "hn_url": "https://news.ycombinator.com/item?id=46082296",
@@ -143,9 +129,23 @@
       "description": "Aviation insiders say an airworthiness directive may soon require software updates across the Airbus A320 fleet after investigators linked a JetBlue incident\u2014where the aircraft entered a sudden uncommanded descent\u2014to a faulty ELAC computer. Any grounding is expected to be short and staggered, with airlines updating the systems plane-by-plane to avoid major disruption.",
       "favicon": "https://viewfromthewing.com/wp-content/themes/vftw/images/touch-icon-iphone.png",
       "site_name": "View from the Wing"
+    },
+    {
+      "title": "Student perceptions of AI coding assistants in learning",
+      "url": "https://arxiv.org/abs/2507.22900",
+      "hn_url": "https://news.ycombinator.com/item?id=46089546",
+      "author": "victorbuilds",
+      "points": 95,
+      "num_comments": 121,
+      "created_at": "2025-11-29T18:14:21Z",
+      "object_id": "46089546",
+      "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "description": "The arrival of AI coding assistants in educational settings presents a paradigm shift, introducing a \"new kid in the classroom\" for both students and instructors. Thus, understanding the perceptions of these key actors about this new dynamic is critical. This exploratory study contributes to this area by investigating how these tools are shaping the experiences of novice programmers in an introductory programming course. Through a two-part exam, we investigated student perceptions by first providing access to AI support for a programming task and then requiring an extension of the solution without it. We collected Likert-scale and open-ended responses from 20 students to understand their perceptions on the challenges they faced. Our findings reveal that students perceived AI tools as helpful for grasping code concepts and boosting their confidence during the initial development phase. However, a noticeable difficulty emerged when students were asked to work unaided, pointing to potential overreliance and gaps in foundational knowledge transfer. These insights highlight a critical need for new pedagogical approaches that integrate AI effectively while effectively enhancing core programming skills, rather than impersonating them.",
+      "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+      "site_name": "arXiv.org"
     }
   ],
-  "total_hits": 320,
+  "total_hits": 325,
   "has_metadata": true,
-  "fetched_at": "2025-12-01T12:47:14.909516+00:00"
+  "fetched_at": "2025-12-01T13:26:53.442468+00:00"
 }
