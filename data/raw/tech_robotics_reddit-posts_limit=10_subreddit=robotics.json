@@ -24,6 +24,17 @@
       "description": "From Tuo Liu on \ud835\udd4f: https://x.com/Robo_Tuo/status/1995314021281771644"
     },
     {
+      "title": "Hobbyist level robotics vs \"industry\" level robotics?",
+      "author": "JUD3Z",
+      "url": "https://www.reddit.com/r/robotics/comments/1pbqd9d/hobbyist_level_robotics_vs_industry_level_robotics/",
+      "published": 1764626665.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I read a few threads about how hobbyist level robotics doesn't require any complex skills that an employer would care about. I'm not necessarily interested in doing projects to break into the field, I'm just curious what's the difference between hobbyist level robotics vs \"industry\" level robotics? Like, what is one doing or using that the other isn't? (i.e. what kind of technologies and what specific skills) Someone made a comment on a different thread saying that employability in robotics/\"mechtronics\" requires knowledge across multiple fields, such as programming and circuitry - but I assumed that all robotics projects require programming, and possibly some custom circuitry (I'm also not sure what other hobbyists' are doing for their projects, so I don't know if people are doing things that don't require any coding.) I'm just curious what a \"serious\" robotics project is that something like an Arduino controlled robot arm isn't."
+    },
+    {
       "title": "4 motors robot crawler",
       "author": "Archyzone78",
       "url": "https://www.reddit.com/r/robotics/comments/1pb5i5b/4_motors_robot_crawler/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "So I'm working on a passion project, creating a robot, specifically, the robot N from the series murder drones, I'm still learning in robotics, but my main plan is to have a basic chat robot, so it picks up my speech through a mic and I connect it to an AI chat system and it will then output a tts voice, additionally I'd like to have a screen of some sort that has images of expressions and those expressions will change based on the chat, I would like some tips or instructions of how I could do this. Later on in the project I'm going to have the limbs and body controlled with servos and I'd like to have the AI move and rotate the servos when I tell it to, this is all so new to me because I usually work with animatronics and not ai, so I need some tips like what hardware or software I need and how I can do this. Any help would be greatly appreciated!"
-    },
-    {
-      "title": "Looking for feedback on a ROS observability/debugging tool",
-      "author": "One_Criticism_6156",
-      "url": "https://www.reddit.com/r/robotics/comments/1pawh0n/looking_for_feedback_on_a_ros/",
-      "published": 1764544219.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hey fellow devs! For the past month I've been building a compact observability tool for ROS and I thought it would be wise to get some feedback from the community before building further. I've got a demo running on my local machine with some basic features like node/topic introspection, live telemetry/logs with filtering, play/pause, topic sub/pub and a chat with the context of the whole robots live state and logs to make it easier to get a grasp of whats happening. If anyones open to giving feedback based on the early prototype, I'd massively appreciate it, whether it is positive or negative, everything is welcome. Just let me know and I'll send the demo."
     }
   ],
-  "fetched_at": "2025-12-01T21:54:02.196805+00:00"
+  "fetched_at": "2025-12-01T22:37:55.809346+00:00"
 }
