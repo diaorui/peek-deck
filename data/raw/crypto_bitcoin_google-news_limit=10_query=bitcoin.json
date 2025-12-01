@@ -5,22 +5,12 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq sink, bitcoin plummets in downbeat start to December",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdUV0Y1ZUR2RxMkZ1aVo1VjhycnNWU3JsZ2xCaEFzRGpTejB2OVoyMlR6RzdvS1pLTXQ2eFFIRUtjY2Nnakp6V3UwQjFDc0gtNUkxbXpJSTA5b2lqNzZNV3RJSExwamdyVVBLVnc0NXB2VGpVeDZ3ZkRQRWhDZTNQQlA2Sm5VMUIyQVVqSHl0d00xQ081MFFNZEdVcEd0dGNiSTd5NkhrZGdlS0Q5QmRUOFdVM3ZLX1NycFRJVk9rUnVHRG9BWmdTV0dWWTBVcXdvYW9RSU53?oc=5",
-      "pub_date": 1764613752.0,
-      "article_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-bitcoin-plummets-in-downbeat-start-to-december-011408608.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/lvmtNDwzV7lcqAQNJZd0kA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/6f40c5f0-a863-11f0-b3eb-c74a2e7e85d5",
-      "description": "Wall Street's strong late-November rebound looks set to hit a speed bump on the first trading day of December."
-    },
-    {
       "headline": "Stock Market Today: Dow, Nasdaq Decline; Bitcoin Trades Below $87,000 \u2014 Live Updates",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOZlpiV3NSQVpqQjJ5c0FKSVBhbzV4eEtMQW90aXFoUFU4LThocklGZ01Xbl80STIzOEFxdVRfZFBEckc4b2dVdzMtQ1pqbkx5a3BFclVRaUlTNGhCdUp3Z1hWRjAxb3VBQ2ZDWTdUbWV4azdkOS1sTXVkY3Njcm9wcnBQbUJlQ2cxRjNiem5jSXB1SlF4Y2xXUkxXQ3BobHhZNGRfYVY5OTIwMHp0RTBEcXRKS0tPRldXZ0Z1LXpwWWlPaVcxUVU3RThKaS02OFVtU0o4RDRCWUJzd3Z2YS0tUmg3Ymk5OWxJa2hEbFlILWEzSlFSVFRTU2pnVkRWT0NZTWFuVTQzRW5ORG5GRjNBdHJORHozaV9zT3B3TU5mR0lmNmF0cUotblN0Vlp6QVdXQzNMczVyaDU4SEwyN3J5QkVhekhISFE3ZnVFbkZZZ2VvZmd6ZGJidUVXN2MzMEdFNUs2S2p0WmU5c0ZjaFNpMXpOSW11LTFwU0Eyd19ZRnZfbXJiVFJIWkI4T2s?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQMGpxMmN5UU9vUTdvU09nejdicE9ncU1zcWVJTHNzTDh0NUVyOVhScnVvSGhLXzBNd2llQ1Z6dkhRQ2NESU80Nm1LREJOZ2xFdzhaTmxUOGZPUnpTZ1BvVEpxazNFNWdPZ2VCWFZuMEE1dWdESFEtQTJTaEhIM1NnMThBMFV1ME5McTZSdGpfZk5mbF84RnY5bnVuRUdXUjBVbUpvTy1vc1NwVnd0aWNpQ0hIbTk2N3pCZ3VrNHF1MzVvakllUEZMMi1mbWVlSVRlc2REWHZrVkJaOWRjeVVFWTZkM2pUUU1zYW5uUmx3NkJ0QkswdXVROURuNEVMUWR5QkNWQ3NXVDJYcTZ0ak9LcXFOUXJDRHo0ektaZGlJVS0xSTRqN3RYN21yd2pIeWprTkNlREIxVlFTbzhjajEyT0luQzY1ejhRaFE2akpUeGZ0NXViczdrZ2VhdDRVang5MjFFMndWSzBlY01xMGNvV19jTWRUYnVhSFlUTzI5ZEZWRW9kbXJtWERaMUg?oc=5",
       "pub_date": 1764616320.0,
-      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-01-2025?gaa_at=eafs&gaa_n=AWEtsqfoVaivDpsOST9pHaSzCGTszD_fWWmTg3VN6n8m4Qq7qe9I3HX746IF&gaa_ts=692df272&gaa_sig=PZesq2JpgQI3t_ze0_wNIh_oi3jXzeNJbORYxBJXUK0RWK97b3iXK1BCbGLE_D28I01Pry7-aquikc4Lll1Fbw%3D%3D",
+      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-01-2025?gaa_at=eafs&gaa_n=AWEtsqcfVFRGK7lcH-fJFTOStCGyLvi_lfYFHj-r9MK8XGRPIh6NsUf_W3p_&gaa_ts=692dfa6c&gaa_sig=zr-o204GRqRV4ttcrjfaAn0o9To56RH04GScsNM6IHJxf74ErLBYV2WyT1WmSfI6wVRoypnl_UTGsIjmpLDfmQ%3D%3D",
       "image": null,
       "description": null
     },
@@ -28,19 +18,29 @@
       "headline": "It\u2019s the Most Miserable Time of the Year for Shoppers and Bitcoin. There\u2019s a Link.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPN2JvNndPbTZvcnBCcFlRS2JpRlYtV29oakdfT2hUdzBsS29yNlVIV19FSWdkMFJRdldzdHd2ZEVicERfTGE3djFqYUZoMzBYZ0NVenc0QmJxZG10WGd0bmxrZDdyZmxub29EcWlTYmNJVG5tM2QtTE5FYjRaZkp5QUdSR2J0NFgwWkFQVWZqX3lSSm9UV3VCX1oyc1BjYmxoTDRibE9qTV80R2NISF9PdlZ0YjVjYmdxRkxnblo4a3ZFcE1hWDBLZWhZbTZUTzFkakVMQlN2SFRoRC1DZ0ZaaHJhR3BTTkVxcFpXSXZxeVFPOHVyMnA5a0t4bkptaTRIdVBmODdPSlJXSDN5NzZDb1lnZFJVV2ZRSHRidnZHX2RGdTlTcHpiREVqME5JNXZFYTRyY0RVLWdoVVF5RGlteFpQVmxYQ29LajM3QlRtTFN3TklBT1VVS1ZTLUg5cmtzcC0zYzZOdUE1NG9mWjFycEhJcXRhMlZkby1CZXg3eXJDWXlpOHNGN1g1V1N1UQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQRXV4ZGV3LXVhMkFvaWlmOUxqMVBwWklHUkxoSzVpZ0Vmdy1CZTJCT2k5MXljbUk5elNqQmlLWk1UVEViR1ZxZUQxVnBQVXFsbFNzMnRISFc4NDJKWDJQb1I5dlE3Y1NOTVBuZTRCQWdvdzlvUXNhUjhwd251V05Zaks5VnNiMnZXamJFbGJnbkV1OElDMUJsb0VRUEJQbUQzNnhVZGdWRlg1S3dSeU5ZRXR5VERyTFUxRHhINWhJX2xWWHhvU0NELUkxel90WWx0cmUxTjZYU1V3UnFFU1BMcERMaFhHN2hHQzh2SlBmMlRnWXIzT1IwZW4tRHZnbDFjSW92SEJ3OWZ0eHhUclpEdGVBTktSTjVmZzBJZjJCaXpPM05CLXRSYkdGckZpcEVLRkVZWXBfMllNNmJTSEZPMkctMmFSVmEzcVJQd3dMSXZTUXB0N043azd2ZE9ESnBCLXlXYzJROVgxdkpuQkJaQlY1aFotYlVOR2JrMVBCWXlubzdjcF9VQW1iQ05EQQ?oc=5",
       "pub_date": 1764616020.0,
-      "article_url": "https://www.barrons.com/articles/holiday-misery-shoppers-bitcoin-markets-3a675a49?gaa_at=eafs&gaa_n=AWEtsqdmO6yFY0mndw3VTrOjFO7BrcEyOB2DdBHo08dv6BbcM65gredEtoaq&gaa_ts=692df272&gaa_sig=yf9GxvbSwRn_EbFyQu8q_Z-n4hTmeB80ij3HuOdZ1fz688N87iPBoJB31_3bCPF1RYyQXSir0wBso8mN_K2CDw%3D%3D",
+      "article_url": "https://www.barrons.com/articles/holiday-misery-shoppers-bitcoin-markets-3a675a49?gaa_at=eafs&gaa_n=AWEtsqebnqLC-kkCUVlI83CJresVpmR0ZwRWerFoEm98RM-mxBtY80iWbsX_&gaa_ts=692dfa6c&gaa_sig=ibf7mreg9HWQfHd2ikegzC1e_ViMJ4sTPcko2vAqsRKnXSs9F9d6abYqppMN6fMYkMEVps5vGH3f6RrW2AWAqw%3D%3D",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Crypto remains on edge. That could be bad news for the stock market",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MSU5oSVVlZDhZblZIbmc4b2RwSDN4R09mV3piNXF6NmlETUtHOTVmWWlmUHh6TWI4TDhrV3A5b2Itb2phTHNtc3RQSkRpcHUxRTc1Ql9VY09MZkNocUsySndVMXkyTzJNV2l6RFNQWGZDQVZl?oc=5",
+      "pub_date": 1764612827.0,
+      "article_url": "https://www.cnn.com/2025/12/01/economy/us-stock-market-bitcoin-yen",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-14874315a.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Crypto had a rough November. The pain is persisting into December \u2014 and it could signal trouble ahead for the stock market."
     },
     {
       "headline": "Bitcoin is slumping again. Its biggest corporate owner admits it may have to sell if things get worse.",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNdEpHSWJQUGRSM0RkWVBXVTZodHFORjcxTDRtUzV5QWNJU2w5ekJBOUJYRkFmeEcyc084ZGpjbmFDRTZBWU5YR3RvNkVDWXNSdDA2WVEtWW5ySGtqM1lyUG1XakhMRTd5aUItalJFbUZRdU9EQXRaVTFHT1FWVGxDYThzQmg2c2Q3b2pBTTJ3enh6ZElpNzN4MExOel9qclhwRlVQQzNfR0Q0cG12NG1iQ0RucEJlczZXMVhpZTEtaVVOeUFnUEd3STd1eF9HRldJWng1clkxN1dCZmxEdjAxcG5zWVlfYWxsTjdFSFM3cWx3dFFlb29PTUkwYTI2emNEb3lyX0RwOGh5Z1hwd3hJVldtbklzR1p2N29rMkdfM2N2aXBIODFael9BSlV2TUpvLWlsUGhXZXVGSC1OS3pVVGZxb09iWXRkWkcyY0hBVEE2YUVVYjVxb09JaU03My1xQklDeDBvNzJ1SlJ6bnptRk9WQVY3OTFwUmhmS2JoUk1CLWc1YTlBbHhIUFQ3MnVWOW9XRV96eUJ2YW4yajU3ODNFSDE0U3JYOHJXZXh5T05FX0lURmJXbHZsWHBDN181VmF4a21QQ1VNRTJXZU9keVMtcVU3OVFfbS1oNDR3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQVnljb1JrNWFibHpQbFg4ZDRhMnU5eEFyT1kzTXl5MFR2TWxWVm0tcXFTMlBRMk91M3otdnRhNlFlcXpSNW4yc2dVSTNNb2V6NXlvZTlJNWdhSHRDSE1yTUdpVkZkNVFpUUJnNENsMnl3NTctd1Y1NW04NXpEYVJiQjdiZG91dUJ5RUNqMExCOHpUQThfcmhuVjVQcTlMS3RYOFNEUWp0U0dsaEcteFl5dnZGNk1oNTRBVWJSRGhFWFAzeVlFaTNPWGltQTNaZHN6S0ZidWQ0aGU3cXI2MHE3cHJpc29YUExBRnRyOTZ2cnFkMGRoYlAwcXdtN2Z5M3RuNzRpVjVwU0JhN2t5ZHFDNTFyVHBhUEFhbDNOU2Y2UmxNdzYxb2R4aGw2VFpWTHNPZW50YWEyeUZrNGRlcEd2V2gwZ2R0ZHEtaEtObm5Rc3AwMG5VaFpudHpoOWMwaEo5cW9LT0IwX3RjTDdncWNHYkpTS2V5eUJpZHEyaEZKdHNsWkxicFNfMmtRQWxHN1NHWkZjUkFwWjlFd092MndyaHVPWmREbnJhTEVuLXc2NTRwRlJ0QUtDZVY5aTRtWS1VV3YzRl9MbjY4d3EyaFFaLVBkSHZJb0F1Wi1QNUR3?oc=5",
       "pub_date": 1764585000.0,
-      "article_url": "https://www.marketwatch.com/story/bitcoins-slumping-again-the-biggest-corporate-owner-admits-it-may-have-to-sell-if-things-get-worse-ce77b7a3?gaa_at=eafs&gaa_n=AWEtsqeUy8UxfKT5FTHFsgZ8qoUWGBzCbzjm88nDIEuD1LZJYhcil24wERZO&gaa_ts=692df272&gaa_sig=Hp9QZJLmzWLuoohEtqG-xHr1sTVvNS1QsrzfXa50aMc6bG6HAHHXNWDORhnYUb847E4Jlm-0wBnBz-XmHq2F7w%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/bitcoins-slumping-again-the-biggest-corporate-owner-admits-it-may-have-to-sell-if-things-get-worse-ce77b7a3?gaa_at=eafs&gaa_n=AWEtsqdmYaL9azyH1Z8EMXXMjiHnH4SQ8OaCE2Yzz0Kfa4_z9IgQfNvVpAnD&gaa_ts=692dfa6c&gaa_sig=A7-ymmtlU-y6G3ZGQWd2i0WSx2gynjfkP1Tkl3UHh6eSeWhOkGHXfY8A_bQ3Av-igva5IKWiEba8E9sTEjlnmw%3D%3D",
       "image": null,
       "description": null
     },
@@ -55,56 +55,56 @@
       "description": null
     },
     {
-      "headline": "Bitcoin prices extend slide, falling below $85,000",
-      "source": "CBS News",
-      "source_url": "https://www.cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTGdKUm5qVnphcWJybFp4Q2xqU0tSVU1Mak43RlAxTVY5eXI2cVhuVHRjaGlGNl9ySGxqM05RV3JuZWhpckdoRF9hSzVGLWN1U2pnT0dsNFVWT2I3cHBqejhwaXJfd0wtYk1kWE9IOHRMWU10cU9obFd6Q0txNHpRS0tkcEswd9IBiwFBVV95cUxQZl9EbEtheHVwTVBWNEF4S0U3YmRpOTRZRGwwWEJSOXhmRmxLazFmdDlKdTJVZTFZdFlURGRPdUdnaDRYc29na2xjdkl1SnpiZER4RVVQRDVLUDhTcXAwVlFLQTZEMmFyb2ZlZ1J2anBGcEdvLWE5N3ppRjlHOTBEcGVnM1F4ZTFYeWtF?oc=5",
-      "pub_date": 1764611013.0,
-      "article_url": "https://www.cbsnews.com/news/bitcoin-price-86000-cryptocurrency-slide-november/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/08/15/e15e68c9-fdb3-4485-855f-5db3587f0016/thumbnail/1200x630/4d9f0684f85ef807ac891bec9495f856/gettyimages-2229395964-1.jpg",
-      "description": "Bitcoin has lost roughly a third of its value since Oct. 6, when the cryptocurrency hit a record high of nearly $125,000."
+      "headline": "Clay County residents have lost millions to a new scam. Bitcoin makes it hard to trace",
+      "source": "KCUR",
+      "source_url": "https://www.kcur.org",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM01rTzZSU01wZGZRSW1LQmstZ19yOS14YzBob3cyU3lORGxpZTR3eWpmZk9tbThldWJTZllqaGRFUzZlMlkxZGI3T21MbHBCTjJ1azF2emNKUmJIQlR0LWlEMVRQWDhiNHE5UjdraG5KVWQ5MG1HTUJwWk16UzIyLWZrTXJ3NDhDTDI5RlBYX2ZBeXA1dThLU052X3pLQWVZb0RlV3NqOHQ?oc=5",
+      "pub_date": 1764583360.0,
+      "article_url": "https://www.kcur.org/news/2025-12-01/bitcoin-cryptocurrency-atm-scam-clay-county-jury-duty-con-prosecutor",
+      "image": "https://npr.brightspotcdn.com/dims4/default/6004114/2147483647/strip/true/crop/2400x1260+0+286/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F29%2F0d%2F538b521c4e338426f7796295fa8e%2Fbitcoin-scam-illustration.jpg",
+      "description": "In the last two years, victims in Clay County have lost $3 million to scammers who fabricate fees for missing jury duty and other cons. The scammers then have them convert money into Bitcoin so it's hard to trace or recover."
     },
     {
-      "headline": "Bitcoin Mining Profitability Fell for Fourth Consecutive Month in November: JPMorgan",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUENfV3gtTW1XcU93MWZxZlJDRWpTLWQ0ZVVDc0hHNFRBN2RObWFkRUpfWTgyU2lRdGt6TTVwdHR4bzFIVnBIOWtSb09jREgyMkpJX3d2OEFsNHVaSDFaRzFGMmpBSDNhU0ZlYl9nMU4za25tUExJWDgwZGdtdUU3Q3A3czI4UmNEb3NpRmk4WTNteTVZSkt1R1J0S05Fd1NzRVFpaHBEWnF1bUpaNy04NGY4dlY4RnFqTFRCSlhWczUzcTdBd3c?oc=5",
-      "pub_date": 1764607569.0,
-      "article_url": "https://www.coindesk.com/markets/2025/12/01/bitcoin-mining-profitability-fell-for-fourth-consecutive-month-in-november-jpmorgan",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a944f5c40b9f1fece6ecb4c387377f37ae7134cc-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The average network hashrate fell 1% last month after hitting record highs in October."
-    },
-    {
-      "headline": "Bitcoin slides gain as investors lose appetite for crypto",
-      "source": "Euronews.com",
-      "source_url": "https://www.euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWTZPOTZKYklLU2JZYXF2UEFfcFhjUnFCOGtOZGtzN2RHNVlpS1QtWUUxQXdJTkxIWGs4WW02Wl9ac0UzVWhOSjA1RXJMNlZfcWMzcDh6NFkwTHhmd1BBTXFlX180TzhWZzMzUTBnX2pBdDNpWHR5a1hjNHhsa09CMEZOZ05uTHFxRnRfV1FScy1mOHBBLTc4Rl93WlVEd3R0bDRuN2E0bGdPNVBw?oc=5",
-      "pub_date": 1764590356.0,
-      "article_url": "https://www.euronews.com/business/2025/12/01/bitcoin-marks-deep-plunge-as-investors-lose-appetite-for-crypto",
-      "image": "https://images.euronews.com/articles/stories/09/56/72/45/1200x675_cmsv2_8162e403-db02-5b23-978d-b5b30d0ad9bd-9567245.jpg",
-      "description": "Bitcoin fell sharply on Monday, dipping below \u20ac75,000 per coin as the broader cryptocurrency market extended a steep decline that began after its record October peak."
-    },
-    {
-      "headline": "Peter Schiff Slams Bitcoin As \u2018Fake Asset\u2019 Amid Price Drop, Accuses CNBC of 'Hosting Bitcoin Shills\u2019",
-      "source": "CCN.com",
-      "source_url": "https://www.ccn.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTVdPT2Y3b1BnNVM2eFhVUDB0QU5Reld5MmxRdGVIX2VzZlNfRkJydVdfc0x3QndBaUFOaHI4YWhSRGpjcGUxM1RMcUJvdk1lTUR6S1c3WkdKSHBxYVctVFZBY3VMUFdOZHdoTUNpOUhPb1hRZjJtVDRacmd3U0xSOTVJUG5icmVFWnV1a3J3S0taNjNqYkxKdnBpLXBJclFueUlSMWJHc2FhR2dPemE2c01kSFc5TS1PWWVXeERudkMzWE1oOGM4?oc=5",
-      "pub_date": 1764599535.0,
-      "article_url": "https://www.ccn.com/news/crypto/peter-schiff-slams-bitcoin-as-fake-asset-amid-price-drop-accuses-cnbc-of-hosting-bitcoin-shills/",
+      "headline": "21 Rules of Bitcoin",
+      "source": "x.com",
+      "source_url": "https://x.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5NHFLOXVTbnR1SGd0TkNtZVp2NDFaY0Z3V3h2dnExeHhkUVQwYy1sRDVoNXoyMTY3THJGSWVrOXgweDk5a2NNZjNfekNMY1pldm1wNDQxQWE2d1k?oc=5",
+      "pub_date": 1764423803.0,
+      "article_url": "https://x.com/saylor/status/1994764128901370349",
       "image": null,
       "description": null
     },
     {
-      "headline": "Spot bitcoin, ether ETFs recover momentum with first net-positive inflow week since October",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV21KYlA4OTlIempnWVcyaXBwTVlUZHJ4VUVTckozNnA2YXViYlptMWJjRkhkZEw5V3dsanVRbTNKNmphNFM1amFOTzR5QVl6WVlVMEVkTXByTl9OSEdQQkdJUHpZNzB6cDNXMV83REJhRkhFTnF2N29pRDItY1JudDJ4MUd4dE9tWkpTV0RzYWI2NEFzdTBVVUROZkRKMFZ1RE5zXzBjWGJqamJYM1FNOXctWm1PanFxSThJWG9xajlrbllt0gHKAUFVX3lxTE5Dd3BXdWFrWWZVaXduUUdGakw0dEJFajVycV9qU2lBc3VFLVdON0R4VXlPOTd2VnJEWFBWb2VxTm9JUHFYN20welpEYzFXTGdRbE9CSWpzSkx0czhqTXBiWjEteDlFc0E4dm1NSk04dmZ0Q3ZaWFdVaGk4MlBvVXkzQTlQS0ozN2EwUEQ0MDRvX1FKcWJ2bTk2SW9hRjc2alJPVXZJQnRZb2xLLU9ENzhRaU1FWEphS0V6Q2NhSWEyYjBjSWtMRTFKdWc?oc=5",
-      "pub_date": 1764441419.0,
-      "article_url": "https://www.theblock.co/post/380806/spot-bitcoin-ether-etfs-recover-momentum-with-first-net-positive-inflow-week-since-october",
+      "headline": "Economist Paul Krugman says Bitcoin\u2019s crash shows the \u2018unraveling of the Trump trade\u2019",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDNKZFppR0RvX2k4Uk8ta2t3azhpN3VqMmZWSWpkTHJKNC1fQ2RSTjc0LVJHSEdLMDJOSHdtOUI5UHFPcFFLMVJrN3ZMUFhUdWVDOHY1V2tIZXVpdHhBeFdfYjVkUk9maF9oRHJJdEhTdGtWc1JRY3cwQ3VaUnVyNWlBSHBQU3pZc2lsMm8yVHc1QWZHeDIyeXFvZnJSdzlFQVQ3ZkMtYw?oc=5",
+      "pub_date": 1764185760.0,
+      "article_url": "https://fortune.com/2025/11/26/nobel-laureate-paul-krugman-bitcoin-meltdown-trump-approval-waning-power/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/11/GettyImages-2246770067-e1764178051768.jpg?resize=1200,600",
+      "description": "The Trump family, with ample crypto ventures, has lost an estimated $1 billion from the monthlong cryptocurrency freefall."
+    },
+    {
+      "headline": "Andrew Tate gets \u2018hyperliquidated\u2019 as Bitcoin crash wipes out his entire balance",
+      "source": "TheStreet",
+      "source_url": "https://www.thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMG1xRWFXRjRlWTBQR1UyTXJsajNUOU9RRGl4NVVwVWVaaUd4T3YycTB4MVRxVzUybV9COWhMSlFOd29QNDI5X0hSTlVsVDlkRnMxNDV1Yi1USy1LcXF0dG9oMXA0d0VtN0FFR1FMS2QyRGFLZnB5YkJCZENKYk4xZG8xcF9JakJxNEJEM21SenRoUGF0VFo5WVd5QTBwZUlxaVZ0WnQ1a0V4a2kxeFBGbg?oc=5",
+      "pub_date": 1763539200.0,
+      "article_url": "https://www.thestreet.com/crypto/markets/andrew-tate-gets-hyperliquidated-as-bitcoin-crash-wipes-entire-balance",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Bitcoin Price Skyrockets Past $90,000 As BlackRock And JPMorgan Deepen Bitcoin Bets",
+      "source": "Bitcoin Magazine",
+      "source_url": "https://bitcoinmagazine.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BRjJtS0N1d05qRmtaZlNfeHljclJ5TjFqWG9ad0R2c01qbkxQd21NY1ItNlVEUVRPc1FCQlFoeGRGbnRGLTU5NElJTGVCbW1xMEJ1WmlJcnJKUmQwejFzSmxQVUFCRWhVN2xfbGFWcHF6NUpCai1F?oc=5",
+      "pub_date": 1764183683.0,
+      "article_url": "https://bitcoinmagazine.com/news/bitcoin-price-skyrockets-past-90000",
+      "image": "https://bitcoinmagazine.com/wp-content/uploads/2025/11/Bitcoin-Price-Skyrockets-Past-90000-as-BlackRock-and-JPMorgan-Deepen-Bitcoin-Bets-.jpg",
+      "description": "Bitcoin price ripped above $90,000 today on news of a new wave of Wall Street\u2013engineered crypto products."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T19:39:55.772164+00:00"
+  "fetched_at": "2025-12-01T20:14:02.569744+00:00"
 }

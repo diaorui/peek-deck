@@ -9,7 +9,7 @@
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQzBCcTJWdGk2N3psSEtzUGdQekluQVdtSk04UV9hcTJuR3JYaWdxblhSUHQxUWMtT200UzM4Ykw5TlQ2cks3dkQ4WEVSM0NaSHlvOG11WTQwa3dSQ1d5NklwWTdDT0JrX2phTk5qZ3JNRHBsWFVLWWUySXY4c3pvaGZyMTQ0al9HckFz?oc=5",
-      "pub_date": 1764602758.0,
+      "pub_date": 1764613413.0,
       "article_url": "https://www.nytimes.com/2025/12/01/technology/college-computer-science-ai-boom.html",
       "image": null,
       "description": null
@@ -25,44 +25,64 @@
       "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
     },
     {
-      "headline": "AI construction boom creates six-figure jobs across the country",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XZk1hYkd3bnRuX3dvYzktNTdveXo4NUZzV3JQMDY1RDdlMkxfMjdaR0UycHRkd29tdXVSaDhwazlBX1I1cUJkbV8yb2p0Q2xwaU1oNU5aWmZwSGc?oc=5",
-      "pub_date": 1764616407.0,
-      "article_url": "https://www.foxbusiness.com/video/6385808601112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/be4780d1-109b-46fc-a667-0d104fcceb02/7907eebf-62ad-40ac-afcc-b00c9c3b4c2e/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "\u2018The Big Money Show\u2019 panel discusses how the A.I. construction boom is reshaping America\u2019s workforce, driving six-figure salaries for skilled trades and igniting a modern-day gold rush."
-    },
-    {
-      "headline": "Congress begins final session of 2025 with healthcare (and a dash of AI policy) on the docket",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd1pncnIxc0VLTWtqdnJ5MUNLR0JxVW5YZUxPWkd0ajd1SWZIcjdUQk1TUTZVaGxMQS1Zbnc5WGtWT1ptc1h1eE83Yjg3RkpvWGlxUEh6ZjNvOEppNFZDY0Z5VnRUVlA5czJ3WE9ndkNNeWlZb1ZpRUFqalVzVUNjM25hSTZSSUhyZVMzM3RBWWg2V0phcjE2UzE0UUFfZ09udkRKX1JpcmdRNi1Jd2p1c2NXTmI3c25LeGZ3c21Qc1NiZlR0NVBxUmt5TW1VcFoyUjBR?oc=5",
-      "pub_date": 1764613652.0,
-      "article_url": "https://finance.yahoo.com/news/congress-begins-final-session-of-2025-with-healthcare-and-a-dash-of-ai-policy-on-the-docket-182732290.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/KQdPmun7iPekWYrlbXWaew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/f5bbb960-ced2-11f0-b3c7-55512a36e9fc",
-      "description": "At the top of lawmakers' economic agenda is a promised vote on healthcare left over from the 43-day shutdown fight. Also being debated are two limited AI measures that have a last chance for action in 2025."
-    },
-    {
-      "headline": "What AI Bubble? Databricks Is in Talks to Fundraise at a $134 Billion Valuation",
-      "source": "Inc.com",
-      "source_url": "https://www.inc.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS2p0QVRsdmpuVzhUZGxTNU5OZDd4eXdZRUI4SWJUZFg5T0hCa1pWQk1HRFNITHJEdGFRX1Fmc1JQaDdfNW9zcDc5S05zRUtBVk5aZmxmWnNHNnBhSTMtb20zSVE2bkNlYWp0bElVMGIzVDFSLUt3U2JYbHdqRm1lUTZxNHJia3RaZDUzSDg4Z2pnckh4RXZwY05iV0hlNWNNNkhvX1ctSUZOdGI0a3VFekdKV29Edl83?oc=5",
-      "pub_date": 1764616885.0,
-      "article_url": "https://www.inc.com/jennifer-conrad/ai-bubble-databricks-fundraise-134-billion-valuation-snowflake-coreweave/91272464",
+      "headline": "Nvidia's massive investments are shaping the AI bubble debate",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5peVhHdnVXMFR2Xy1BbzNmeUgwNXhnRGFrWnM4dWJGVTR4RHphQl83RFR1OTFaMUtIQ1NKY2l4RGd2OHZVSFVSOEQxYUxKNGl5eDBTd3pZRFExMVFIVDZ3eUpGUENJODBXYTQteVlmaTZUdGZuZTAzMHRwcw?oc=5",
+      "pub_date": 1764608740.0,
+      "article_url": "https://www.axios.com/2025/12/01/nvidia-ai-investments-openai-anthropic",
       "image": null,
       "description": null
     },
     {
-      "headline": "An independent effort says AI is the secret to topple 2-party power in Congress",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFpBUmdMd2JCWkZhZE5TNU40V3Vlc2wxLUI3X2Z1X2hBajhLTlZYdFh1RFg3Q3Vob0k1bk0zenQ5NHhBRnRzZE1ZMmxpUVhMUldOemx6VTJxYlQ2dmxPeUVYLXlpcWZzdWFwdHhOMzlkTGZHUUg3Z3BOSW1NQkYxZEJSRDVpeWVQekd3VzBqOC11VEVuQUhLMGVB?oc=5",
-      "pub_date": 1764583200.0,
-      "article_url": "https://www.npr.org/2025/12/01/g-s1-98267/ai-independent-candidates-congress-two-party-control",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2024+0+232/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2F3d%2F7f56b150456e90265385306931b1%2Fglennharvey-2025-11-07-npr-f53.jpg",
-      "description": "Using artificial intelligence to identify Congressional districts where independent candidates could win, an organization called the Independent Center is aiming to disrupt the two-party system."
+      "headline": "SoftBank\u2019s Son \u2018Cried\u2019 About Nvidia Stake Sale to Fund AI Bets",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWJTZ3dVclUxUUhSS0JOcnVsUDNOQS1nQnZWMENYVFdPQ292Q1I5dDg3TjN2TFROTHc1NWNyVGIyTVpzVW1DbmpKVXBSa2wyVnVxMUJNU0tiTkdsRnV0TGl1YjhaMThKc0c4Y2o3U3dlSS14bllKQ3JMV281QnZxckpVMHBiZE9EeVhjNmVOU1FsLS1LWGc0VkJJU2FoeWp4eXNQMzIxdGdPSVV5aHRpdQ?oc=5",
+      "pub_date": 1764583041.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-01/softbank-s-son-cried-about-nvidia-stake-sale-to-fund-ai-bets",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Tech Voices: Nvidia-Synopsys; SoftBank CEO on Nvidia, AI; Shopify",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNVY4Z0E2X1RBMHQ0VnpuWDhRUUFlVE9CbjJKbUt5ZXBrTGFSNHRIX0JSb0ZnRGVzZnZwRXpsWG5FWU5JQmpYLXBLbksyOTB4LS1vRjlzLVlGbXFnaWFGNm1zZ2tXLXBTR2pPRUZJdEFOVGxxTUxsMUpGc2t6RHU1T1E2Ui1hRThsUDBDLU1NUzh1TlVKVVU5a0VpZlk3Z3pI?oc=5",
+      "pub_date": 1764616020.0,
+      "article_url": "https://seekingalpha.com/news/4527218-tech-voices-nvidia-synopsys-softbank-ceo-on-nvidia-ai-shopify",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412721464/image_1412721464.jpg?io=getty-c-w630",
+      "description": "Seeking Alpha's roundup of statements, announcements, and remarks that could impact the technology sector. Read more here"
+    },
+    {
+      "headline": "Construction workers are cashing in on the AI boom",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQUFwcFZrYVlWc3g5czNlODFWa0NCWjhUSlU5YVd3S0dMTDlEOUp3eGxqMUc0UmhCZnEyanA5eDZUbklPaXBWNXdLbDQzNkl3WDVkckhwMElvZ19TRWZyempCb2Z3aDhSLVRKZzJ0djFhM2p6YzFpZGQ2VXdSM1lncVpFZHZIMldJb0E?oc=5",
+      "pub_date": 1764616430.0,
+      "article_url": "https://finance.yahoo.com/news/construction-workers-cashing-ai-boom-191350821.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/CDD3JeKUiTUN2qE04DuPTg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_finance_785/1fc6e9c87d0669dc33e63f20fedc0076",
+      "description": "\"I pinch myself going to work every day,\" one 51-year-old says of his new supervisor role overseeing 200 workers at a data center site."
+    },
+    {
+      "headline": "Ryan Payne warns investors not to \u2018concentrate\u2019 assets in AI markets",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nUUFkY2wwSW5HYmpsMTRkNGpIb2NhN3ptclJGTnVCUFdPcUtBQTg1UWhYWUhwMWs4UTZlS24wWVJuMkRVbEZXbThwVEJPTTRKcE1CMjQ2c0VfVXM?oc=5",
+      "pub_date": 1764616613.0,
+      "article_url": "https://www.foxbusiness.com/video/6385808412112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/c1d2c07c-bf50-4371-8ce5-7c96a75ef7b9/437e54e2-bc72-4aed-9c5a-e1d56ee9d20b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Dominari Securities CEO Kyle Wool and Payne Capital Management President Ryan Payne discuss how rate cuts are impacting market sentiment, best investments during the holiday season and more on \u2018Mornings with Maria.\u2019"
+    },
+    {
+      "headline": "Millions of Coders Love This AI Startup. Can It Last?",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPaElVV2I3eHpxM2NEb3diRVB4czA0dXBwdERFSlpDVVJOYzRtVjE3SEowMW9Ya0pVc2dtNExGRHNINGNTN3F2TUx5cEdtUkJmRUg0T0FoRm52LXNiazZDaWt3NFlHX1JwYWFRbU5XcEYyOTVtQ3kzUlF0eFBvaFcwaEwzMEJsU0ZZWmZjR0QtTUpmRHNYQTBleDVvNDZXeVBkV2VBbGgxcUZlbXh6MlNmZVFieWIwUmR4eVpyNjZXa3NjOFNnQWxKOGE3bXRfRTVQVWZhbVMtaHdsQlRmTFJhUEFVTjd5Z0Q4dm1BbzY1ZTVpWEFhQTdQYzF2TGZFTVZWM0ZBQ01LWlBwWjZUS1Y0R1hqZmtLV3ZHSUJNeFZEZ1RIMkNodUlmV2dYeE50R3VheGd5VGlkcVZoM2JvMFExOXBZRENMc1BwNGxvVmw4Rmc5NlY2T2RmX05VYV9KQW5tYUVvWXRIWXNyQk1SWGtXcFdKSHNyeWR0ZU5TNkNtdGxEamQtcGhnVi1Fc0tGbUdUeE9XM1Fxcw?oc=5",
+      "pub_date": 1764608400.0,
+      "article_url": "https://www.wsj.com/tech/ai/millions-of-coders-love-this-ai-startup-can-it-last-45b72441?gaa_at=eafs&gaa_n=AWEtsqe2eykicNoeP13IxH_yY36nfNd-cdkbBAlltqBXoLHmUlJ_7btIg15Z&gaa_ts=692dfa6b&gaa_sig=_m43M3tkpst66H4_Lt-zP_KYK63-heTjkUTAkcPZr2C8juow3_kwAfNmdPDop8AC0njEiyQqosvz6eJgBI3E1A%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "The People Outsourcing Their Thinking to AI",
@@ -75,36 +95,16 @@
       "description": "Rise of the LLeMmings"
     },
     {
-      "headline": "Millions of Coders Love This AI Startup. Can It Last?",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQSjdZRnhUUnRYSHB1THpjdUpMUTZEekgzbkdDYldDTDBSQVRnZDNFRVRoVkctcGFyX0xuemFDQi11a2c5QnZvMkpRYUI3bnZwUXpvUFVNdEhUNVpyZ1Q0czRwOUVNWlpUZDNrS0JsMUgxOGR5UFlWNE5pZTNEekktRXhmOHFxMjc2RzB3aWFlbjc4Mlc3YklTUkdPTTdjTVp4MXpTZW1oRTR5OVdYVFVxcTBlOW1uNmU3YlY3V3V5cFRmVjYzeU1OSzhzbDZpVFg4MENINnUzRTA5Z05jMTNQN2FhN0xOR1Y3cjhEVEZEMElRSlFJYmR3OFFxQl8yNC1EOEdraDlPV1VQVUgwWjZKaGpaSXFjUWV2eEtZVk1QNEprQ19RLUVlUkNoNlVDQkNNYU5KeFZZNV9KU1FvTGlhMGhvUkh5bFZLVUFVZXc5WFBwd3VRWjJBczdicW11ejdaOFhvVk5RZEc1UlVmRnNqbmZfN2ZzZm5ZQkRCUGdVT1VjbTdua0RmUTV6bXU0LXdzWFZ6VVJNbw?oc=5",
-      "pub_date": 1764608400.0,
-      "article_url": "https://www.wsj.com/tech/ai/millions-of-coders-love-this-ai-startup-can-it-last-45b72441?gaa_at=eafs&gaa_n=AWEtsqdg2PgPhGCiRHgClstZmyGp4-sXJWIhyhlKHSVGE7ogdtC5-w93xYgX&gaa_ts=692df271&gaa_sig=qjOPyMAsb8Ed6rtw2BgfXytDD14dA5-vN5JgBzncP87_D9SBIYAgjT4mJIfhbbySty78q5k6gmeqBgOT6dCbwQ%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Top consultancies freeze starting salaries as AI threatens \u2018pyramid\u2019 model",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVUtOcGs1QnBiQm1sU0YxVEhEWWVwakZYWW9NWFBob2tSdVcweTZRNktadjR0WDhPTzVhVElGVEFHcHpOa01zNFZxWEdlUThPd0k2Q1d0bExrZzhfbkZGRzIxV2U5aEkyRGxXUU9SM3A?oc=5",
-      "pub_date": 1764565228.0,
-      "article_url": "https://www.ft.com/content/2b15601b-8d02-4abe-a789-7862874042be",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe7da7fd3-4e13-46d8-ab31-b28970bcc0c5.jpg?source=next-barrier-page",
-      "description": "Productivity gains from technology are spurring debate about reliance on large numbers of junior advisers"
-    },
-    {
-      "headline": "Runway rolls out new AI video model that beats Google, OpenAI in key benchmark",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFlHN25tUnNsYi04UVQ1bnUxQzA4c1B4dEtWdGVuVGVReGZEcnFYa05nT2tSSklBcWZKRGN5M2J4TjRRMjA4bUgwZTJBc25oV2JYZ29ESVRVLVlUZjhVbkdnZVdZUU9kY1NUbHlsRmlUdEkxdEVuTWRLRWZBa2xrM0x4bUnSAYoBQVVfeXFMUEZlRHI1S1JtdFdmVkZjNVEzX2VIVlQxTjdOWUZWalU1NnQxMlYtRFRMdGJtbEIzYlFBUm10ZjFlTkxmenAzYmhZNlpiVEV5TndlVHlBU01VSy14OVctUkFpVVFWdFFHTHZYMzFQMW8tM0pQZ0s0WUQ2bHg3MVhveGNxel9HdFN1RTZ3?oc=5",
-      "pub_date": 1764597627.0,
-      "article_url": "https://www.cnbc.com/2025/12/01/runway-gen-4-5-video-model-google-open-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108162827-1750712201805-gettyimages-2207801548-AA_04042025_2159477.jpeg?v=1764542788&w=1920&h=1080",
-      "description": "Gen 4.5, a new AI model that allows users to generate high-definition videos based on written prompts."
+      "headline": "An independent effort says AI is the secret to topple 2-party power in Congress",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFpBUmdMd2JCWkZhZE5TNU40V3Vlc2wxLUI3X2Z1X2hBajhLTlZYdFh1RFg3Q3Vob0k1bk0zenQ5NHhBRnRzZE1ZMmxpUVhMUldOemx6VTJxYlQ2dmxPeUVYLXlpcWZzdWFwdHhOMzlkTGZHUUg3Z3BOSW1NQkYxZEJSRDVpeWVQekd3VzBqOC11VEVuQUhLMGVB?oc=5",
+      "pub_date": 1764583200.0,
+      "article_url": "https://www.npr.org/2025/12/01/g-s1-98267/ai-independent-candidates-congress-two-party-control",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2024+0+232/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2F3d%2F7f56b150456e90265385306931b1%2Fglennharvey-2025-11-07-npr-f53.jpg",
+      "description": "Using artificial intelligence to identify Congressional districts where independent candidates could win, an organization called the Independent Center is aiming to disrupt the two-party system."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T19:39:50.060736+00:00"
+  "fetched_at": "2025-12-01T20:13:51.040526+00:00"
 }

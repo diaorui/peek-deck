@@ -45,16 +45,6 @@
       "description": "The firm has increased the pace of purchases from the previous week despite sitting on large unrealized losses on its Ethereum bet."
     },
     {
-      "headline": "Bitcoin craters below $86,000, Ethereum dips 7% in massive crypto wipeout",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjhSWDVTUWthWXhtQnV2WVA3eXB6UmhqNmdJUG5pa0hQN3Rod2hQN3c3dHNFdTBSSTdIdnJnY29oa1NYbjdVOVM2alpTVWpfSVk1ZkZNWFh4VlByVHJVUTVLWEZ0ZHdDaUxPVFJ3bUJrRFhCblJrRWluSkUwWHN5Z0tqVkdHX0VvTmlUSGlneFY0N09sUHFvSEhWbDZldy1RUTZj?oc=5",
-      "pub_date": 1764600720.0,
-      "article_url": "https://nypost.com/2025/12/01/business/bitcoin-craters-below-86000-ethereum-dips-7-in-crypto-wipeout/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116501926.jpg?quality=75&strip=all&w=1200",
-      "description": "Bitcoin slid as much as 6% to below $86,000 while Ethereum fared even worse, at one point dropping more than 7% to roughly $2,800."
-    },
-    {
       "headline": "Tom Lee Says Ethereum Firms Are \u2018Elite Of Wall Street\u2019 \u2014 Is His Bullish $9000 Prediction Possible?",
       "source": "CCN.com",
       "source_url": "https://www.ccn.com",
@@ -65,14 +55,24 @@
       "description": null
     },
     {
-      "headline": "Ethereum Leverage Reset Complete \u2013 Time For Market Re-Accumulation?",
+      "headline": "Eclipse brings Solana's parallel runtime to Ethereum",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWGdBaFJDYjZ3NmRWcktXSlI1bTg3UGhiYW1VMWt1aFAtR2Y0ZDRycnZaN3JLeWNrUEJYU3RSS0RRckVQNVQ3VXVmbV9WZDRER3g1cG5Cd1Rwak41ZXlDSWpsdS01ZVVZSkd6Y21xMExiTlNtVlg5WXNpUzRJeWloaks2YWJBVDdFZFBFaGJOdEhEMkViVml6N1FEX01wRnMzRUg1dllOQnlWdW9KdkVPM2JveVFtRDR0ZExSZ1BkOA?oc=5",
-      "pub_date": 1764493256.0,
-      "article_url": "https://www.tradingview.com/news/newsbtc:31612045a094b:0-ethereum-leverage-reset-complete-time-for-market-re-accumulation/",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUzhMNUgydktZVGhlb1o2ZjdTMy0zVTFpTEp2ODRZWjBqSmpVMWVJZHQyazBlMUlGYWQ0ZWJYeE1nTlZDaXVLMGpnbjFpS3pYYnJHR0VFNm9aSTlIaTFkXy1LanNFOWtYZHphdDB0MVRpNXVyNFNkb1V5VjVqdjZ2ZUlJaWFtcnlxYkdFd2RHbG1ZRS1KSnRNbnA1c1A4QmN2SmdQckh4Tm0yVE9Ta2FoSzc4VnNUSDA?oc=5",
+      "pub_date": 1764601200.0,
+      "article_url": "https://www.tradingview.com/news/cointelegraph:7150b7faf094b:0-eclipse-brings-solana-s-parallel-runtime-to-ethereum/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Ethereum presently trades around $3,000 following a broader crypto market rebound in the last week. During this time, the market\u2019s largest altcoin gained by 7.22%, providing a much-needed relief after an extended correction that dominated the majority of the last two months. As price stabilizes, cr\u2026"
+      "description": "The majority of Ethereum rollups have converged on a single model, in which the EVM is still the execution engine. So parallel execution remains a vague ambition rather than a feature of most Ethereum L2s. Eclipse takes a different path. It brings the Solana Virtual Machine into an Ethereum-anchore\u2026"
+    },
+    {
+      "headline": "bitcoin price ethereum price: Bitcoin and Ethereum Fall Sharply as Crypto Sell-off Resumes",
+      "source": "www.israelhayom.com",
+      "source_url": "https://www.israelhayom.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6RGlVVUltb1RDWGppTklRYzNWU1dNOWU5S3lrakszZWFHTXc2YlM0THBGQnhPLUZKZXk1MWpwNEFwdnZfdWRILUQtUVNXc0lVT2dfYktURkxHNGxUMGIwTWFwM2NFZWZfMmItSU5vRzR2ZGwxSHJCSmx1MUY?oc=5",
+      "pub_date": 1764595584.0,
+      "article_url": "https://www.israelhayom.com/2025/12/01/bitcoin-ethereum-crypto-sell-off/",
+      "image": "https://www.israelhayom.com/wp-content/uploads/2025/03/GettyImages-1302791678.jpg",
+      "description": "The current downturn in cryptocurrencies commenced once more on Monday, causing Bitcoin and Ethereum to experience steep declines, according to CNBC. This market movement coincides with a wider risk-off mood at the start of the new month. Ben Emons, founder and Chief Investment Officer of Fedwatch Advisors, stated that a massive $400 million exchange liquidation has generally been blamed for Monday's reversal. Experts warn that \"There is still a lot of leverage in Bitcoin out there\" due to the asset class's decentralized and opaque nature, which is leading to continued crypto sell-off pressure."
     },
     {
       "headline": "Ethereum Price Near Cycle Bottom? A 28% Move Now Looms",
@@ -85,26 +85,26 @@
       "description": "Ethereum price now shows a rare setup seen only near major bottoms. Is a 28% shakeout coming before the next rebound?"
     },
     {
-      "headline": "Why Did Ethereum Drop? Crypto Crash Dents Ethereum Price Prediction for December",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fZGxWeEt0cGhsTE90LXg0VDd3cnNmNUNNNEVkZ25CTDQzSWxmeTJ1VFVhbUMtT3VLa1ZKWmswems2TXN2bzgta3Fwbm1mdEYxR1N3QVJkQmVSWXZnanh0RTY5Tk5DenRfY3g0QTJRbW9aVXd1alZSNjBaSFpZb0U?oc=5",
-      "pub_date": 1764587466.0,
-      "article_url": "https://finance.yahoo.com/news/why-did-ethereum-drop-crypto-111106734.html",
-      "image": "https://media.zenfs.com/en/99bitcoins_us_315/006fc264ab49b0b999721b1d22b588c4",
-      "description": "The question on every trader\u2019s mind right now is simple: why did crypto crash while silver and gold launched into fresh territory? As Bitcoin price plunged from $92K range to the mid $80Ks, precious metals ripped to new all-time highs \u2013 triggering a wave of fear, forced liquidations, and talk ..."
-    },
-    {
-      "headline": "Ethereum\u2019s December Price Prediction \u2014 Why Is ETH Going Down and Will $2,800 Hold?",
-      "source": "CCN.com",
-      "source_url": "https://www.ccn.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNWlRWG5TNFhVZzVsWXNXRmh4bWhGT0xQMmVXcDZndlh2Mi1URXlOeHFqbXZIM2MxNXA4YWNoWDNnendVcHQ0M1NBVUhLRHVSX3NnVGVva3VrcloyTWdXa3dmd3FSTFcxbXZzQUxCVXhCYTZtVXZXQmRzd0hjUEdtOQ?oc=5",
-      "pub_date": 1764587835.0,
-      "article_url": "https://www.ccn.com/analysis/crypto/ethereum-december-prediction-eth-price/",
+      "headline": "Fidelity\u2019s Tokenized Fund on Ethereum Crosses $250M",
+      "source": "The Defiant",
+      "source_url": "https://thedefiant.io",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3lxM0dsdGVhV1VCU1IyTGo0M05CTEN2cnlpOTRYVEM0cjJCQU5yUDVsV3NyS1RwRnFqYkdib1AxQ3NmV2dTQ1J6Z2JJekRSa3ZsTnZBWGRnT3l5SEdaX0hleTg5UGZUSDctVjduYnhQbjhWQ2FrbGJlcXkxLVk1RGVOX1ZnbG9MSmVkUVRBd05kZlpyQzY0enZlbGs1V2s?oc=5",
+      "pub_date": 1764357244.0,
+      "article_url": "https://thedefiant.io/news/tradfi-and-fintech/fidelity-tokenized-rwa-fund-on-ethereum-hits-usd250m",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Ethereum Price Today Plunges Toward $2,800 as Crypto Market Crashes and Fusaka Upgrade Approaches",
+      "source": "ts2.tech",
+      "source_url": "https://ts2.tech",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3pXR0RVYV9jWFpKdXFDZlg3WXhIcDl2TmFEV1RUeGFCRmZ6dXZJMDVTM3pOVlQ2bVd4SUV2d3gyRkFBS3d4YW5hc2IxQksza3JhT2RLU1VPTU4zVHI0azZkNUtNUExJWHZxTUZwM2RRY0JZWF9YUG5ycUc1elROMmp4SzhTQVljYlUxNXk4RzFONDBMUVdLd1MyWU8tNUNfZk9yVFBYT2Nzb3ZmbWpjZFhneGdYNkE?oc=5",
+      "pub_date": 1764592610.0,
+      "article_url": "https://ts2.tech/en/ethereum-price-today-plunges-toward-2800-as-crypto-market-crashes-and-fusaka-upgrade-approaches/",
+      "image": "https://ts2.tech/wp-content/uploads/2025/10/ethereum-price-today-plunges-toward-2800-as-crypto-market-crashes-and-fusaka-upgrade-approaches-featured-1.jpg",
+      "description": "Ethereum Price Today Plunges Toward $2,800 as Crypto Market Crashes and Fusaka Upgrade Approaches - TechStock\u00b2"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T19:39:41.973882+00:00"
+  "fetched_at": "2025-12-01T20:13:47.578697+00:00"
 }

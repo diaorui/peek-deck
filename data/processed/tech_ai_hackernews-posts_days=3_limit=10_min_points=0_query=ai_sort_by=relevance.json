@@ -23,8 +23,8 @@
       "url": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
       "hn_url": "https://news.ycombinator.com/item?id=46098992",
       "author": "nutanc",
-      "points": 425,
-      "num_comments": 339,
+      "points": 426,
+      "num_comments": 340,
       "created_at": "2025-11-30T18:17:13Z",
       "object_id": "46098992",
       "image": null,
@@ -51,7 +51,7 @@
       "url": "https://www.erdosproblems.com/forum/thread/124#post-1892",
       "hn_url": "https://news.ycombinator.com/item?id=46094037",
       "author": "nl",
-      "points": 226,
+      "points": 227,
       "num_comments": 81,
       "created_at": "2025-11-30T05:19:33Z",
       "object_id": "46094037",
@@ -93,28 +93,14 @@
       "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
-      "points": 129,
-      "num_comments": 175,
+      "points": 131,
+      "num_comments": 182,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
       "description": "Though LLMs had a lot of promise, this has not been demonstrated in practice. The technology is essentially a failure, and a new AI winter is coming.",
       "favicon": "https://taranis.ie/content/images/size/w256h256/format/jpeg/2025/04/taranis-icon.jpg",
       "site_name": "Taranis"
-    },
-    {
-      "title": "Airbus A320 Fly by wire corrupted by radiation in flight",
-      "url": "https://viewfromthewing.com/airbus-a320s-could-be-temporarily-grounded-worldwide-for-software-update-after-faulty-jetblue-computer-triggered-sudden-uncommanded-descent/",
-      "hn_url": "https://news.ycombinator.com/item?id=46082296",
-      "author": "JohannMac",
-      "points": 112,
-      "num_comments": 66,
-      "created_at": "2025-11-28T20:06:52Z",
-      "object_id": "46082296",
-      "image": "https://viewfromthewing.com/wp-content/uploads/2017/04/20170328_155922_zpsy2cutwyw.jpg",
-      "description": "Aviation insiders say an airworthiness directive may soon require software updates across the Airbus A320 fleet after investigators linked a JetBlue incident\u2014where the aircraft entered a sudden uncommanded descent\u2014to a faulty ELAC computer. Any grounding is expected to be short and staggered, with airlines updating the systems plane-by-plane to avoid major disruption.",
-      "favicon": "https://viewfromthewing.com/wp-content/themes/vftw/images/touch-icon-iphone.png",
-      "site_name": "View from the Wing"
     },
     {
       "title": "Student perceptions of AI coding assistants in learning",
@@ -143,9 +129,23 @@
       "description": "I first got into deep learning in 2012, when AlexNet came out. I was CTO of Jetpac, a startup that aimed to provide information about bars, hotels, and restaurants by analyzing public photos, for e\u2026",
       "favicon": "https://secure.gravatar.com/blavatar/a924aa92ac9016bfe9c773a9e47ccf2fb84df9216b8ca936e25899edc1019dd1?s=114",
       "site_name": "Pete Warden's blog"
+    },
+    {
+      "title": "Ask HN: What is the purpose of all these AI spam comments?",
+      "url": "https://news.ycombinator.com/item?id=46082711",
+      "hn_url": "https://news.ycombinator.com/item?id=46082711",
+      "author": "GaryBluto",
+      "points": 81,
+      "num_comments": 49,
+      "created_at": "2025-11-28T20:58:15Z",
+      "object_id": "46082711",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": null
     }
   ],
-  "total_hits": 374,
+  "total_hits": 376,
   "has_metadata": true,
-  "fetched_at": "2025-12-01T19:39:25.883489+00:00"
+  "fetched_at": "2025-12-01T20:13:27.777798+00:00"
 }
