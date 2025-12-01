@@ -57,6 +57,28 @@
       "description": "Deepgram Launches Streaming Speech, Text, and Voice Agents on Amazon SageMaker AI.[1] AI video slop is everywhere, take our quiz to try and spot it.[2] More of Silicon Valley is building on free Chinese AI.[3] \u201cAvatar: Fire and Ash\u201d director James Cameron on generative AI: \u201cThat\u2019s horrifying to me\u201d.[4] Sources: [1] https://finance.yahoo.com/news/deepgram-launches-streaming-speech-text-030000576.html [2] https://www.npr.org/2025/11/30/nx-s1-5610951/fake-ai-videos-slop-quiz [3] https://www.nbcnews.com/tech/innovation/silicon-valley-building-free-chinese-ai-rcna242430 [4] https://www.cbsnews.com/news/avatar-fire-and-ash-director-james-cameron-on-generative-ai-thats-horrifying-to-me/"
     },
     {
+      "title": "More of Silicon Valley is building on free Chinese AI",
+      "author": "boppinmule",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbao22/more_of_silicon_valley_is_building_on_free/",
+      "published": 1764589461.0,
+      "thumbnail": "https://external-preview.redd.it/OmQhaJFYusd_6BoEAmpETVbmV-j9iUqnPAIX8zdt-yE.jpeg?width=640&crop=smart&auto=webp&s=349b2df57a77a2b5df77ab3b848267efef6e4117",
+      "external_url": "https://www.nbcnews.com/tech/innovation/silicon-valley-building-free-chinese-ai-rcna242430",
+      "site_name": "NBC News",
+      "favicon": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/apple-icon.png",
+      "description": "AI startups are seeing record valuations, but many are building on a foundation of cheap, free-to-download Chinese AI models."
+    },
+    {
+      "title": "The AI boom has led to high demand and more pay for the construction workers that build data centers",
+      "author": "tekz",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbanv2/the_ai_boom_has_led_to_high_demand_and_more_pay/",
+      "published": 1764589442.0,
+      "thumbnail": "https://external-preview.redd.it/6EW-jNmwB2zcNBLIOzA4-5vPYJY1xlwRg0uEd2HPRyo.jpeg?width=640&crop=smart&auto=webp&s=01a05c4c9772a18c15b1fdf0d4c242f2aea19dfb",
+      "external_url": "https://www.wsj.com/business/data-centers-are-a-gold-rush-for-construction-workers-6e3c5ce0?st=jr1y94",
+      "site_name": "wsj.com",
+      "favicon": null,
+      "description": "An investment boom in artificial intelligence is creating a thirst for massive data centers, and a bonanza for the workers building them. It is unclear how long that boom will last, but for now, workers are cashing in on high demand for their services. They are enjoying the trappings including perks, bonuses and, in many cases, pay boosts."
+    },
+    {
       "title": "Major AI conference flooded with peer reviews written fully by AI",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1pagvc6/major_ai_conference_flooded_with_peer_reviews/",
@@ -88,29 +110,7 @@
       "site_name": "PeakD",
       "favicon": "https://peakd.com/assets/favicons/apple-touch-icon-152x152.png",
       "description": "KEY FACTS: Telegram CEO Pavel Durov has officially launched Cocoon, a fully decentralized AI compute network built on ... by uyobong"
-    },
-    {
-      "title": "Had a realization today",
-      "author": "labor_anoymous",
-      "url": "https://www.reddit.com/r/artificial/comments/1pb15v2/had_a_realization_today/",
-      "published": 1764557018.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I've always noticed I'm like one step from being able to do something well. There's always some little shit step in my way that makes it impossible for me to finish what I want to do. But today I realized, AI basically helps me get over that step and allows me to do things that I understand the process of but can't do because I don't know every little thing I need to know. Like a bivariate regression, I didn't know exactly what to do, but the AI was like bam and now I'm over here doing bivariate regressions. Feel like a boss."
-    },
-    {
-      "title": "HuggingFace Omni Router comes to Claude Code",
-      "author": "AdditionalWeb107",
-      "url": "https://www.reddit.com/r/artificial/comments/1pau1ut/huggingface_omni_router_comes_to_claude_code/",
-      "published": 1764538165.0,
-      "thumbnail": "https://external-preview.redd.it/bjZuNm1lc29wZzRnMcZaR8l3ZypOYa0jltiPME5anhrZB-_aWXKEyKNtX2Sj.png?width=640&crop=smart&auto=webp&s=1826a4bd0e79f19c797de3c4cb81da519f0459ee",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "HelloI! I am part of the team behind Arch-Router (https://huggingface.co/katanemo/Arch-Router-1.5B), which is now being used by HuggingFace to power its HuggingChat experience. Arch-Rotuer is a 1.5B preference-aligned LLM router that guides model selection by matching queries to user-defined domains (e.g., travel) or action types (e.g., image editing). Offering a practical mechanism to encode preferences and subjective evaluation criteria in routing decisions. Today we are extending that approach to Claude Code via Arch Gateway[1], bringing multi-LLM access into a single CLI agent with two main benefits: Model Access: Use Claude Code alongside Grok, Mistral, Gemini, DeepSeek, GPT or local models via Ollama. Preference-aligned routing: Assign different models to specific coding tasks, such as \u2013 Code generation \u2013 Code reviews and comprehension \u2013 Architecture and system design \u2013 Debugging Sample config file to make it all work. llm_providers: # Ollama Models - model: ollama/gpt-oss:20b default: true base_url: http://host.docker.internal:11434 # OpenAI Models - model: openai/gpt-5-2025-08-07 access_key: $OPENAI_API_KEY routing_preferences: - name: code generation description: generating new code snippets, functions, or boilerplate based on user prompts or requirements - model: openai/gpt-4.1-2025-04-14 access_key: $OPENAI_API_KEY routing_preferences: - name: code understanding description: understand and explain existing code snippets, functions, or libraries Why not route based on public benchmarks? Most routers lean on performance metrics \u2014 public benchmarks like MMLU or MT-Bench, or raw latency/cost curves. The problem: they miss domain-specific quality, subjective evaluation criteria, and the nuance of what a \u201cgood\u201d response actually means for a particular user. They can be opaque, hard to debug, and disconnected from real developer needs. [1] Integrated natively via Arch: https://github.com/katanemo/archgw [2] Claude Code support: https://github.com/katanemo/archgw/tree/main/demos/use_cases/claude_code_router"
     }
   ],
-  "fetched_at": "2025-12-01T11:14:37.349466+00:00"
+  "fetched_at": "2025-12-01T11:55:25.450976+00:00"
 }
