@@ -35,7 +35,7 @@
       "num_comments": 4,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
-      "github_stars": 4760,
+      "github_stars": 4796,
       "project_page": "https://ai.meta.com/sam3/"
     },
     {
@@ -92,7 +92,7 @@
       "num_comments": 2,
       "published_at": "2025-11-23T07:29:33.000Z",
       "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
-      "github_stars": 485,
+      "github_stars": 524,
       "project_page": "https://github.com/VectorSpaceLab/general-agentic-memory"
     },
     {
@@ -130,7 +130,7 @@
       "num_comments": 6,
       "published_at": "2025-10-16T06:18:48.000Z",
       "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-      "github_stars": 65393,
+      "github_stars": 65422,
       "project_page": null
     },
     {
@@ -149,7 +149,7 @@
       "num_comments": 2,
       "published_at": "2025-11-24T23:15:14.000Z",
       "github_repo": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL",
-      "github_stars": 702,
+      "github_stars": 716,
       "project_page": "https://github.com/aiming-lab/Agent0/tree/main/Agent0-VL"
     },
     {
@@ -187,11 +187,11 @@
       "num_comments": 4,
       "published_at": "2025-11-20T00:01:57.000Z",
       "github_repo": "https://github.com/aiming-lab/Agent0",
-      "github_stars": 705,
+      "github_stars": 722,
       "project_page": null
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-01T04:03:11.405224+00:00"
+  "fetched_at": "2025-12-01T05:31:08.451316+00:00"
 }

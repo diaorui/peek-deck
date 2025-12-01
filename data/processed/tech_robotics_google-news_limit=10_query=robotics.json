@@ -75,16 +75,6 @@
       "description": "Viral video shared by Elon Musk shows Tesla's Optimus humanoid robots performing tasks from cooking to construction, garnering over 58.5 million views on social media."
     },
     {
-      "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPZnExaXNjenpsYmp6SWpqU3ZfbjVSQ3JuWlAwTEJ4emg5bEJJMW1CU1lCcTF0dEdQZm5Ydmg0UTFTTWlCVklZYzgwbUctRTVqcDlvcW5xX3UxRmVidk1zdFdKdS1DUlpoU1Nna2YyNTRzY2Y2ckdoTkJNVHJoTndIOFVCVnpHQVJ2UmJjMzBNb0tXWTd0RVY4MzdFa3ZTTHo2Q2xicnRvVDgwYmVQYVNoT0FPZFZzTXBHTURzeEdqcXNyYUZaS2ZaNXE3MnlUR2c0UVpNM3YzUUg2Tm5WdFpHRmVWNDJ4QmptUEd0NzNuLXFIZE1zWDJmNUJlanhOMlVVdHliVTJUeDdCczRyVW84NVc2RWJZU1FKMnVlTVdCdWFCbUZJbWc5Ti1wS01zRU0xbVNEWDlIckR2d0xIV2RUZ3hPU3RPemlBYWwzSW4xNmhlaUdrajl6REtPSEhWM1JhdE5NRHZaZ3pXRTg1SzczSWx4eE9pZFNPQ000MlByNF9KNTZz?oc=5",
-      "pub_date": 1764352680.0,
-      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqekyB0qjaQdmfceoN5w7hk6jhWquS-jHsFRsy4rm4e2syBnNuADYzja&gaa_ts=692d236d&gaa_sig=TOrNhoRnU7-0nXi4NqT9ZefEld8zJS16bkRmozq79VjNb7MbvP-HCF5tsktHLkudTUzsMxvqvSKP4GO_5yhUCg%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Chinese model with high success rate helps humanoid robots adapt to tasks without training",
       "source": "Interesting Engineering",
       "source_url": "https://interestingengineering.com",
@@ -93,6 +83,16 @@
       "article_url": "https://interestingengineering.com/ai-robotics/chinese-model-humanoid-robots-tasks",
       "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/11/Wuhan-robot.jpg",
       "description": "New Chinese robot logic framework lets humanoid robots reliably grasp unfamiliar objects with an 87% success rate."
+    },
+    {
+      "headline": "Opinion | Humanoid Robots Have a Long Way to Go",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOWkRJMHUyTndiNVpMVHJHd3g3cXVpTW1mWjMtUU1qQkNjam51Q19xM2NsbjZwNjhGQ0o5aElWRlQ1bTgxR2RmMmZOc2hnY0EyRDZrX2RIM1FnSW1vRjlzRV9pUmlId1oxbUloMjhYbVd0WGZxUjBYMEI0d2JteGdXYnBPTDk4cFVabVptT2x0U0xtdjY5bzNWWGdqWXpFOXJTSFBEU1cxVXNFQW1MVGxNVW5GX0pPT0ZEZUpScnZNWFpXZFNJMlEtd19VdlNRRkZ1R0M0aWx1WmVVQXZ4clVWelpFUEVSeGRQOU9jblNHcW51ZlNWZ2lkWkFZVTlHZXdnNVoxSGFsay1DeU94b180c1pNeDdmSmxtRVYwcE9XUjhQLXRVYjJaYWhxVWVzZGxRT1RFVllKUS1OTzFmZWJ2U012aTVVVDY3Y0hZY212UTlUZml0cldsRlJsd3lZODRiS3g5VXgxa2Qwc2FwVXhVd3dWYm1keW5DZ2tfa3dlOTFidjRk?oc=5",
+      "pub_date": 1764352680.0,
+      "article_url": "https://www.wsj.com/opinion/humanoid-robots-have-a-long-way-to-go-4ae1b4f2?gaa_at=eafs&gaa_n=AWEtsqcfYkwchgCgseaovFpuPMZw4J8gtR9QxWF6iWW4tbTuxlWf-bNesnZ8&gaa_ts=692d2ba4&gaa_sig=xSZs7kbZzKduuZpN3dag8nGJ5wumEGgtG-L4ar3qt08AjIw80DaRc0jwwbixaMSxxJ5qmP5-0b1iWJ3Y2z8kgg%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Robots learn to plan and adapt in real time with BrainBody-LLM AI tech",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T04:56:28.126623+00:00"
+  "fetched_at": "2025-12-01T05:31:30.909583+00:00"
 }

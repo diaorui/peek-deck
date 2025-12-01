@@ -85,16 +85,6 @@
       "description": "Ethereum co-founder Vitalik Buterin supported two privacy messaging apps that are looking to break past sector leaders Signal and Telegram."
     },
     {
-      "headline": "Tom Lee Lists Three Reasons Why Ethereum Will Beat Bitcoin \u2014 But Can ETH Rally to $9,000?",
-      "source": "CCN.com",
-      "source_url": "https://www.ccn.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHRFM25HZTVhUGdzbXNaZXFYRDlGUWtwZHp2cGNuTTdlVFhjYWFFLWZpQkNCZU1pcS0wMnMtUzJfaURoaE1WWGFSM3lGeXpzTzVza185MEZmOTZfdlRWNHoyeGdUNllXRWlkS3JKaTNGai1xVExBWS1tLVRuNDlvdlhmMXJpb2ZiR25WWmFnelZKTmE2OWxVc2twTQ?oc=5",
-      "pub_date": 1764335835.0,
-      "article_url": "https://www.ccn.com/news/crypto/tom-lee-three-reasons-ethereum-beat-bitcoin-can-eth-rally-9000/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Most Ethereum valuation models indicate ETH is undervalued: Analyst",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.tradingview.com/news/cointelegraph:66fc23bbd094b:0-most-ethereum-valuation-models-indicate-eth-is-undervalued-analyst/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "description": "The native token of the Ethereum network, Ether BINANCE:ETHUSD, is undervalued in nine out of 12 commonly used valuation models, according to Ki Young Ju, a market analyst and CEO of crypto market analysis platform CryptoQuant.A composite \u201cfair value\u201d using all 12 valuation models prices ETH at abo\u2026"
+    },
+    {
+      "headline": "Tom Lee Lists Three Reasons Why Ethereum Will Beat Bitcoin \u2014 But Can ETH Rally to $9,000?",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHRFM25HZTVhUGdzbXNaZXFYRDlGUWtwZHp2cGNuTTdlVFhjYWFFLWZpQkNCZU1pcS0wMnMtUzJfaURoaE1WWGFSM3lGeXpzTzVza185MEZmOTZfdlRWNHoyeGdUNllXRWlkS3JKaTNGai1xVExBWS1tLVRuNDlvdlhmMXJpb2ZiR25WWmFnelZKTmE2OWxVc2twTQ?oc=5",
+      "pub_date": 1764335835.0,
+      "article_url": "https://www.ccn.com/news/crypto/tom-lee-three-reasons-ethereum-beat-bitcoin-can-eth-rally-9000/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T04:56:20.769534+00:00"
+  "fetched_at": "2025-12-01T05:31:25.323190+00:00"
 }

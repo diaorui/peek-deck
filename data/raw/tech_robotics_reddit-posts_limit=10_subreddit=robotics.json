@@ -112,5 +112,5 @@
       "description": "I'm working on a robotic arm project and I'm looking into using this planetary gearbox for a Nema 17 motor. https://preview.redd.it/0llh5gy8ua4g1.png?width=901&format=png&auto=webp&s=ecc0809169212c217ea7a276f67be90dd66b5077 https://preview.redd.it/jqqcigy8ua4g1.png?width=816&format=png&auto=webp&s=fb3e27aeb56050f4ab9138fee032c9471cc2b9b2 According to my calculations, the reduction is going to be 3:1 I think maybe it's not going to work well, not necessarily because they are planetary gears, but mostly because the ratio seems too low. What do you all think? Any experience with this or suggestions for better gearboxes for a Nema 17 in a robotic arm?"
     }
   ],
-  "fetched_at": "2025-12-01T04:56:09.888265+00:00"
+  "fetched_at": "2025-12-01T05:31:13.362540+00:00"
 }
