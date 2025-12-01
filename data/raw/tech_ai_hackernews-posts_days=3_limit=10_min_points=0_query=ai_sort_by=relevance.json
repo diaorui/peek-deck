@@ -33,26 +33,12 @@
       "site_name": "gpt3experiments.substack.com"
     },
     {
-      "title": "Flight disruption warning as Airbus requests modifications to 6k planes",
-      "url": "https://www.bbc.com/news/live/cvg4y6g74ert",
-      "hn_url": "https://news.ycombinator.com/item?id=46082825",
-      "author": "nrhrjrjrjtntbt",
-      "points": 233,
-      "num_comments": 104,
-      "created_at": "2025-11-28T21:16:46Z",
-      "object_id": "46082825",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb36/live/6eaeafd0-cc99-11f0-8c06-f5d460985095.jpg",
-      "description": "The European aerospace giant said it had found that intense radiation from the Sun could corrupt data crucial to flight controls.",
-      "favicon": "https://static.files.bbci.co.uk/core/website/assets/static/icons/touch/news/touch-icon-36.413a37b227.png",
-      "site_name": "BBC News"
-    },
-    {
       "title": "AI just proved Erdos Problem #124",
       "url": "https://www.erdosproblems.com/forum/thread/124#post-1892",
       "hn_url": "https://news.ycombinator.com/item?id=46094037",
       "author": "nl",
-      "points": 227,
-      "num_comments": 82,
+      "points": 230,
+      "num_comments": 83,
       "created_at": "2025-11-30T05:19:33Z",
       "object_id": "46094037",
       "image": null,
@@ -94,7 +80,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
       "points": 134,
-      "num_comments": 184,
+      "num_comments": 191,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
@@ -131,21 +117,35 @@
       "site_name": "Pete Warden's blog"
     },
     {
-      "title": "Ask HN: What is the purpose of all these AI spam comments?",
-      "url": "https://news.ycombinator.com/item?id=46082711",
-      "hn_url": "https://news.ycombinator.com/item?id=46082711",
-      "author": "GaryBluto",
-      "points": 81,
-      "num_comments": 49,
-      "created_at": "2025-11-28T20:58:15Z",
-      "object_id": "46082711",
+      "title": "Tell HN: It's now impossible to disable all AI features in Firefox 145 (latest)",
+      "url": "https://news.ycombinator.com/item?id=46095873",
+      "hn_url": "https://news.ycombinator.com/item?id=46095873",
+      "author": "pera",
+      "points": 66,
+      "num_comments": 23,
+      "created_at": "2025-11-30T11:48:42Z",
+      "object_id": "46095873",
       "image": null,
       "description": null,
       "favicon": null,
       "site_name": null
+    },
+    {
+      "title": "Accenture dubs 800k staff 'reinventors' amid shift to AI",
+      "url": "https://www.theguardian.com/business/2025/dec/01/accenture-rebrands-staff-reinventors-ai-artificial-intelligence",
+      "hn_url": "https://news.ycombinator.com/item?id=46105825",
+      "author": "n1b0m",
+      "points": 55,
+      "num_comments": 61,
+      "created_at": "2025-12-01T10:41:14Z",
+      "object_id": "46105825",
+      "image": "https://i.guim.co.uk/img/media/adcd61d6e826f9dca934f3eef2452b135ad68f5b/19_0_2543_2033/master/2543.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ebbb935a14d8f1fd9c707bc68f612c1",
+      "description": "Consultancy\u2019s move to embrace artificial intelligence follows Disney\u2019s use of the term \u2018imagineers\u2019",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "site_name": "the Guardian"
     }
   ],
-  "total_hits": 380,
+  "total_hits": 379,
   "has_metadata": true,
-  "fetched_at": "2025-12-01T20:45:20.713697+00:00"
+  "fetched_at": "2025-12-01T21:20:25.581976+00:00"
 }

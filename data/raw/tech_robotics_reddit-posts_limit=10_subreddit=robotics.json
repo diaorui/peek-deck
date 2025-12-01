@@ -46,6 +46,17 @@
       "description": null
     },
     {
+      "title": "ROSCon 2025 Recordings Now Available! - Community News",
+      "author": "OpenRobotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1pbjqn8/roscon_2025_recordings_now_available_community/",
+      "published": 1764611884.0,
+      "thumbnail": "https://external-preview.redd.it/ZRxQSYvz7RK70LarVkZ0JsNr2rRueei96seBmDJoatU.gif?width=640&crop=smart&s=480960cabf1c914aa731ede8c40bec3c3fb4a693",
+      "external_url": "https://discourse.openrobotics.org/t/roscon-2025-recordings-now-available/51241",
+      "site_name": "Open Robotics Discourse",
+      "favicon": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/4/4/4487d2db196c8ca556e8bfac980ed3850ba5cbd5_2_180x180.png",
+      "description": "ROSCon 2025 Recordings Now Available   Hi Everyone,  Recordings from ROSCon 2025 are now available on our Vimeo account the ROSCon website, in the ROS Documentation, and in the list below. We\u2019re still waiting on talk slides, but we\u2019ll get those up just as soon as we can.  Big thanks to AMD for making our ROSCon 2025 live stream and video archive possible.  For your convenience here is a full list of available ROSCon 2025 talks and their presenters:   Opening Remarks & Guest of Honor \u2013 Geoff Bigg..."
+    },
+    {
       "title": "Unitree R1 & G1 are showing off their skills together",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1paftdv/unitree_r1_g1_are_showing_off_their_skills/",
@@ -66,17 +77,6 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "ROSCon 2025 Recordings Now Available! - Community News",
-      "author": "OpenRobotics",
-      "url": "https://www.reddit.com/r/robotics/comments/1pbjqn8/roscon_2025_recordings_now_available_community/",
-      "published": 1764611884.0,
-      "thumbnail": "https://external-preview.redd.it/ZRxQSYvz7RK70LarVkZ0JsNr2rRueei96seBmDJoatU.gif?width=640&crop=smart&s=480960cabf1c914aa731ede8c40bec3c3fb4a693",
-      "external_url": "https://discourse.openrobotics.org/t/roscon-2025-recordings-now-available/51241",
-      "site_name": "Open Robotics Discourse",
-      "favicon": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/4/4/4487d2db196c8ca556e8bfac980ed3850ba5cbd5_2_180x180.png",
-      "description": "ROSCon 2025 Recordings Now Available   Hi Everyone,  Recordings from ROSCon 2025 are now available on our Vimeo account the ROSCon website, in the ROS Documentation, and in the list below. We\u2019re still waiting on talk slides, but we\u2019ll get those up just as soon as we can.  Big thanks to AMD for making our ROSCon 2025 live stream and video archive possible.  For your convenience here is a full list of available ROSCon 2025 talks and their presenters:   Opening Remarks & Guest of Honor \u2013 Geoff Bigg..."
     },
     {
       "title": "running EdgeTAM to do persistent tracking and following on a robot",
@@ -112,5 +112,5 @@
       "description": "Hey fellow devs! For the past month I've been building a compact observability tool for ROS and I thought it would be wise to get some feedback from the community before building further. I've got a demo running on my local machine with some basic features like node/topic introspection, live telemetry/logs with filtering, play/pause, topic sub/pub and a chat with the context of the whole robots live state and logs to make it easier to get a grasp of whats happening. If anyones open to giving feedback based on the early prototype, I'd massively appreciate it, whether it is positive or negative, everything is welcome. Just let me know and I'll send the demo."
     }
   ],
-  "fetched_at": "2025-12-01T20:45:25.142205+00:00"
+  "fetched_at": "2025-12-01T21:20:28.319156+00:00"
 }

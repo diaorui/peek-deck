@@ -5,56 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitcoin, ether fall sharply as crypto sell-off resumes",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
-      "pub_date": 1764574221.0,
-      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
-      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
-    },
-    {
-      "headline": "Bitcoin craters below $86,000, Ethereum dips 7% in massive crypto wipeout",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjhSWDVTUWthWXhtQnV2WVA3eXB6UmhqNmdJUG5pa0hQN3Rod2hQN3c3dHNFdTBSSTdIdnJnY29oa1NYbjdVOVM2alpTVWpfSVk1ZkZNWFh4VlByVHJVUTVLWEZ0ZHdDaUxPVFJ3bUJrRFhCblJrRWluSkUwWHN5Z0tqVkdHX0VvTmlUSGlneFY0N09sUHFvSEhWbDZldy1RUTZj?oc=5",
-      "pub_date": 1764600720.0,
-      "article_url": "https://nypost.com/2025/12/01/business/bitcoin-craters-below-86000-ethereum-dips-7-in-crypto-wipeout/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116501926.jpg?quality=75&strip=all&w=1200",
-      "description": "Bitcoin slid as much as 6% to below $86,000 while Ethereum fared even worse, at one point dropping more than 7% to roughly $2,800."
-    },
-    {
-      "headline": "Why Bitcoin, Ethereum, and XRP are falling?",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ1ppcF9PTlBEVkd5NTQ5NVJ6NnJZM0hMNURab0pDZWxaenZPU1RBVlVMbzBHU2hmbWIyYlM4eTNSVEdnMFo4aWpTcFlQYnF6Y0RlMEJKbUhUTDBXTEI2TUhBTFRobHByV3pNYTZxaVVBMVNoNlV3WG1pSVJVQnJCaWh2d3dEV3drU29IM1VydzJsanBTendiaHA4QnNQQ3NONjhZVWVRYkdVSHpTWXNNRlVEbFRLMXNTbF9QTTRVbUdEd09iUk1kQUtZbDBWNFdXN292YWdGQdIB3AFBVV95cUxPcGhnbzI2QW8wM2tpcUN4WGFjNmRIeExHVUVPa1dUUlowVEZXckRRcnZqc3ctLWlNX2dCRFFsSGIyd1lOMVRYTXB1VG5US0g3SElBRGY3dDdUbnlYOWtRMThlRjVsNGhHbDdyZE1DMU9UWDNIcVFBMWNwMGVmUzV3T0V4S21ucHdtVWhybUlJMTRUTlVVQmdnaXhTdGRtOElRZHFlazlja2RuYTY5TEwyWklvMHYyZXJMNXhaZzNjc3AzRUxfQ245cG9PQ3p2TVlrc0EtNXRURi1acE5T?oc=5",
-      "pub_date": 1764565200.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-xrp-face-major-losses-as-december-begins-202512010500",
-      "image": "https://editorial.fxsstatic.com/images/i/bitcoin-explodes-02_Medium.jpg",
-      "description": "Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are off to a bearish start in December, with over 4% losses by press time on Monday. Bitcoin, Ethereum, and Ripple face renewed selling, risking further losses to $80,000 BTC, $2,100 ETH, and $1.90 XRP, respectively."
-    },
-    {
-      "headline": "Why Bitcoin, Ethereum and XRP Are Crashing While Stocks Hit All-Time Highs",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa3gyMjlhOVd0LXY5YjU0MGs0emllUmJ0VFdORElWV1BPQUpNank4UWo4ajBwYkdHTlBKU0E3S1AyaXVZQS1HdXZycFFDRG9FQUx4Yi16NlBkcnBLbVVRVGlMOFV3bXVuaTdPeUtJa2ZFMHdHOWU0cF9EVjB5RlVOSEpmemN4clRGRTZzbTRzNVdULVFaOXIxa1c1NXAxY2o2NEhWZkZERGtSUGxMU2NXNXRMY1ZGUWhybVlXZ3g1bEp6YWJuOWdFMzllb1RqZw?oc=5",
-      "pub_date": 1764600207.0,
-      "article_url": "https://www.tradingview.com/news/coinpedia:b3aa85d13094b:0-why-bitcoin-ethereum-and-xrp-are-crashing-while-stocks-hit-all-time-highs/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "The crypto market continues to slide, and even the biggest names like Bitcoin, Ethereum and XRP are unable to escape the intense selling pressure. While global markets stay relatively stable, with gold rising and the S&P 500 sitting near all-time highs, crypto has sharply moved in the opposite dire\u2026"
-    },
-    {
-      "headline": "Ethereum News: BitMine (BMNR) Bought 97K in ETH Ahead of Fusaka Upgrade",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSUlTNmRnVjlscGVzMXlxVWpxd1EwVHkwNWhxcVBka2JlaW9vMzEzZlFJVFdCVGlxa3I1Y0hzZUhab3FPOS1kT2JCa0t0b1c2V2Z2MGJNeE5OTHZ1QkxtelBEdzNXM0xyR21JN1JkdldwY1VfaGp5SURYU3FqblpHUmVjRUdmcHJkbV9lSlhXT3JWaExtalFJUUlTZm5Lc0JDN2REb25vLUpfc1B5emRuanZ4R19KUVoxTW1UdHFycUJDNk84S2JCYl84YVhrRWc?oc=5",
-      "pub_date": 1764599120.0,
-      "article_url": "https://www.coindesk.com/business/2025/12/01/tom-lee-s-bitmine-acquires-97k-eth-eyeing-fusaka-upgrade-fed-policy-as-positive-catalysts",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a06503e9de607f639801425df078631e0e62f12d-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The firm has increased the pace of purchases from the previous week despite sitting on large unrealized losses on its Ethereum bet."
-    },
-    {
       "headline": "Bitcoin, Ethereum, and XRP Crash Triggering $637M in Liquidations",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -63,16 +13,6 @@
       "article_url": "https://finance.yahoo.com/news/bitcoin-ethereum-xrp-crash-triggering-095331056.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/ly7._RAmZ3AmoH9Q85_u5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/d47b3cb386575b0d23d2abbef9ca49f3",
       "description": "A weekend crypto crash triggered $524M in liquidations, with fears over Tether's stability and DAT selling pressure acting as key catalysts."
-    },
-    {
-      "headline": "Tom Lee Says Ethereum Firms Are \u2018Elite Of Wall Street\u2019 \u2014 Is His Bullish $9000 Prediction Possible?",
-      "source": "CCN.com",
-      "source_url": "https://www.ccn.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmh3ZURwY1Z2ZFg0VjYwb0hoekVqeUJ6b1JYX183SWlvOUpLWXBMRjIwZkkzTnh2OTJpYUJ0NElVSlRwakgzLXo0cGRmODJSM3ZvNEhzS3lKbWlWMnZtVk13UzBLV0V1Y2Uza09kdWt1N2lqLW1YdUxYdXVtYXpJMmZnU0ZfM2hGTm80Y251NXBLM3oteUs2OEJCVnpkTzg2V2htVGdn?oc=5",
-      "pub_date": 1764594135.0,
-      "article_url": "https://www.ccn.com/news/crypto/tom-lee-claims-firms-building-ethereum-elite-wall-street-price-explode/",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Bitcoin, Ethereum and XRP ETFs Bounce Back After Brutal Month for Crypto Funds",
@@ -85,14 +25,14 @@
       "description": "Crypto prices are falling again Monday, but Bitcoin, XRP, and Ethereum funds are coming off a strong week for flows following recent losses."
     },
     {
-      "headline": "1 New Reason to Be Cautious About Buying Ethereum, Solana, and XRP Right Now",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaUtlTUl4dHM2OGItRy1XT3h6WVp4b3l2UXpnaHI4WjhJODljUEcySk9wYjBKY3V6WFRkdjgta21sMC1YQVZod3hpMDRjVTZpSkQ2RWItZ2xkc1dMTjJlNVpoeDhQazMzZmVwc1lleng0VHZlT0hMVFk0ODVZSHBNSVZjS1dVM3ZmTHJzNzVSS0stU2NzckVz?oc=5",
-      "pub_date": 1764521280.0,
-      "article_url": "https://www.fool.com/investing/2025/11/30/1-new-reason-to-be-cautious-about-buying-ethereum/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843801%2Fstanding-pair-of-investors-consider-tablet-and-computer.jpg&w=1200&op=resize",
-      "description": "If this widely touted growth driver peters out, it could spell big trouble."
+      "headline": "Bitcoin, ether fall sharply as crypto sell-off resumes",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
+      "pub_date": 1764574221.0,
+      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
     },
     {
       "headline": "Tom Lee's Ethereum DAT BitMine now holds 3% of the total ETH supply",
@@ -103,8 +43,68 @@
       "article_url": "https://www.theblock.co/post/380925/tom-lee-ethereum-dat-bitmine-two-thirds-goal",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Eclipse brings Solana's parallel runtime to Ethereum",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUzhMNUgydktZVGhlb1o2ZjdTMy0zVTFpTEp2ODRZWjBqSmpVMWVJZHQyazBlMUlGYWQ0ZWJYeE1nTlZDaXVLMGpnbjFpS3pYYnJHR0VFNm9aSTlIaTFkXy1LanNFOWtYZHphdDB0MVRpNXVyNFNkb1V5VjVqdjZ2ZUlJaWFtcnlxYkdFd2RHbG1ZRS1KSnRNbnA1c1A4QmN2SmdQckh4Tm0yVE9Ta2FoSzc4VnNUSDA?oc=5",
+      "pub_date": 1764601200.0,
+      "article_url": "https://www.tradingview.com/news/cointelegraph:7150b7faf094b:0-eclipse-brings-solana-s-parallel-runtime-to-ethereum/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "The majority of Ethereum rollups have converged on a single model, in which the EVM is still the execution engine. So parallel execution remains a vague ambition rather than a feature of most Ethereum L2s. Eclipse takes a different path. It brings the Solana Virtual Machine into an Ethereum-anchore\u2026"
+    },
+    {
+      "headline": "Ethereum Falls 10% In Bearish Trade",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUlPdUFCTGROTTdjdHgtTXNwc1FmXzlBSGhFYnV1aDdIWHh6NGFKUnBET0E4VUl5Y1hrR2YxbjZrSUl2dFFkZWdOYUc5YThfQVdlWnJISUZnYTFlc2xUMUZUS2NuVEdRTGpna2sxRE92ZEgtTVFmYWdNVUVKd0hQWXM4cGkzYVJkaEsyU3dKQ096S0hUWnZ6aQ?oc=5",
+      "pub_date": 1764605200.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/ethereum-falls-10-in-bearish-trade-4384214",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "bitcoin price ethereum price: Bitcoin and Ethereum Fall Sharply as Crypto Sell-off Resumes",
+      "source": "www.israelhayom.com",
+      "source_url": "https://www.israelhayom.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6RGlVVUltb1RDWGppTklRYzNWU1dNOWU5S3lrakszZWFHTXc2YlM0THBGQnhPLUZKZXk1MWpwNEFwdnZfdWRILUQtUVNXc0lVT2dfYktURkxHNGxUMGIwTWFwM2NFZWZfMmItSU5vRzR2ZGwxSHJCSmx1MUY?oc=5",
+      "pub_date": 1764595584.0,
+      "article_url": "https://www.israelhayom.com/2025/12/01/bitcoin-ethereum-crypto-sell-off/",
+      "image": "https://www.israelhayom.com/wp-content/uploads/2025/03/GettyImages-1302791678.jpg",
+      "description": "The current downturn in cryptocurrencies commenced once more on Monday, causing Bitcoin and Ethereum to experience steep declines, according to CNBC. This market movement coincides with a wider risk-off mood at the start of the new month. Ben Emons, founder and Chief Investment Officer of Fedwatch Advisors, stated that a massive $400 million exchange liquidation has generally been blamed for Monday's reversal. Experts warn that \"There is still a lot of leverage in Bitcoin out there\" due to the asset class's decentralized and opaque nature, which is leading to continued crypto sell-off pressure."
+    },
+    {
+      "headline": "Arthur Hayes Predicts Collapse of Most Layer 1 Tokens Outside Ethereum and Solana",
+      "source": "Coinpaper",
+      "source_url": "https://coinpaper.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORnZXdk42bnJnNkJmdWhQSy01bm5BSnF0U3J3X3RZMHp5Nk82Y3NKQy1aS3hIczFoM3N1RnBpOTVEN1UyakYwOXpaNkUzY1JIVVVHX1FQdEpmLURVX3V6SmpkNmt2bG1UOGtrNDE0U0Vyb1QxR0M4TkVWWnYyTnMtMGkta3I5c1BoMG5fajBDdUpBSHJMamZ1ejdzS0dObHlNOXJUWWRhdS10Ul9vTmc?oc=5",
+      "pub_date": 1764445896.0,
+      "article_url": "https://coinpaper.com/12754/arthur-hayes-predicts-collapse-of-most-layer-1-tokens-outside-ethereum-and-solana",
+      "image": "https://res.coinpaper.com/coinpaper/image/upload/v1764445718/shutterstock_2108025419_f807a3ca1c.jpg",
+      "description": "Arthur Hayes warns most new L1s will fade, highlighting Ethereum and Solana as the only strong long-term blockchain contenders."
+    },
+    {
+      "headline": "Ethereum spot ETFs post highest monthly outflow of $1.4 billion in November, breaking seven-month streak",
+      "source": "Sherwood News",
+      "source_url": "https://sherwood.news",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0lpZDgtVDJyX2VSVjE4TEVSUnhQOU1lR2Z2d0VGQjZ6dWdEX0g4ZTdJMndKRlNuTXJiUFJLcnplWnlmR2hhOUVobzVFRHREOFF6Q25mWnhaRHJSSjV0NVJ1Q00zbE9HWXJSWVdOUThvVWx1V1FUZDZOUkJSRVpVbDMwb3owQzlxZFNod0FPV08tc3lNeC02LUlTQW9tZ1U?oc=5",
+      "pub_date": 1764608840.0,
+      "article_url": "https://sherwood.news/crypto/ethereum-spot-etfs-post-highest-monthly-outflow-of-usd1-4-billion-in/",
+      "image": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/538709913_man-reeling-from-explosion.jpg?w=1600&auto=compress%2Cformat&cs=srgb",
+      "description": "Meanwhile, ethereum developers are preparing for the activation of Fusaka, the next network upgrade...."
+    },
+    {
+      "headline": "Ethereum Price Today Plunges Toward $2,800 as Crypto Market Crashes and Fusaka Upgrade Approaches",
+      "source": "ts2.tech",
+      "source_url": "https://ts2.tech",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3pXR0RVYV9jWFpKdXFDZlg3WXhIcDl2TmFEV1RUeGFCRmZ6dXZJMDVTM3pOVlQ2bVd4SUV2d3gyRkFBS3d4YW5hc2IxQksza3JhT2RLU1VPTU4zVHI0azZkNUtNUExJWHZxTUZwM2RRY0JZWF9YUG5ycUc1elROMmp4SzhTQVljYlUxNXk4RzFONDBMUVdLd1MyWU8tNUNfZk9yVFBYT2Nzb3ZmbWpjZFhneGdYNkE?oc=5",
+      "pub_date": 1764592610.0,
+      "article_url": "https://ts2.tech/en/ethereum-price-today-plunges-toward-2800-as-crypto-market-crashes-and-fusaka-upgrade-approaches/",
+      "image": "https://ts2.tech/wp-content/uploads/2025/10/ethereum-price-today-plunges-toward-2800-as-crypto-market-crashes-and-fusaka-upgrade-approaches-featured-1.jpg",
+      "description": "Ethereum Price Today Plunges Toward $2,800 as Crypto Market Crashes and Fusaka Upgrade Approaches - TechStock\u00b2"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T20:45:42.662007+00:00"
+  "fetched_at": "2025-12-01T21:20:46.141355+00:00"
 }
