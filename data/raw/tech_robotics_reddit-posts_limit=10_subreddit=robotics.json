@@ -57,6 +57,17 @@
       "description": "Hey fellow devs! For the past month I've been building a compact observability tool for ROS and I thought it would be wise to get some feedback from the community before building further. I've got a demo running on my local machine with some basic features like node/topic introspection, live telemetry/logs with filtering, play/pause, topic sub/pub and a chat with the context of the whole robots live state and logs to make it easier to get a grasp of whats happening. If anyones open to giving feedback based on the early prototype, I'd massively appreciate it, whether it is positive or negative, everything is welcome. Also let me know if you'd be open to trying it out. I'll send you a dm once the mvp is ready. https://reddit.com/link/1pawh0n/video/uwdum1dk8h4g1/player"
     },
     {
+      "title": "Anyone read any recent China humanoid & supply chain reports?",
+      "author": "Ok-Candidate-1964",
+      "url": "https://www.reddit.com/r/robotics/comments/1pb4vfw/anyone_read_any_recent_china_humanoid_supply/",
+      "published": 1764568110.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey all, I\u2019m trying to get my head around the latest research reports on China and hardware/AI: \u201cCity Researches China Humanoid\u201d 23 Nov 2025 \u201cSupply Chain Field Trip\u201d 7 Nov 2025 (Goldman Sachs) If anyone's read them , would love to discuss and share notes. Thanks!"
+    },
+    {
       "title": "For home robots, does a humanoid form factor actually make engineering sense?",
       "author": "BigGirl367",
       "url": "https://www.reddit.com/r/robotics/comments/1pa7742/for_home_robots_does_a_humanoid_form_factor/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "From LimX Dynamics on \ud835\udd4f: https://x.com/LimX_Dynamics/status/1994408054989987939?s=20"
-    },
-    {
-      "title": "Nema 17 Gearbox for Robotic Arm",
-      "author": "Traditional_Scar_430",
-      "url": "https://www.reddit.com/r/robotics/comments/1pa5x78/nema_17_gearbox_for_robotic_arm/",
-      "published": 1764467009.0,
-      "thumbnail": "https://a.thumbs.redditmedia.com/Zd26pKuDiU8Yi4Jzva1O6ez1ufWY-YYon6wZ3Id44X0.jpg",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I'm working on a robotic arm project and I'm looking into using this planetary gearbox for a Nema 17 motor. https://preview.redd.it/0llh5gy8ua4g1.png?width=901&format=png&auto=webp&s=ecc0809169212c217ea7a276f67be90dd66b5077 https://preview.redd.it/jqqcigy8ua4g1.png?width=816&format=png&auto=webp&s=fb3e27aeb56050f4ab9138fee032c9471cc2b9b2 According to my calculations, the reduction is going to be 3:1 I think maybe it's not going to work well, not necessarily because they are planetary gears, but mostly because the ratio seems too low. What do you all think? Any experience with this or suggestions for better gearboxes for a Nema 17 in a robotic arm?"
     }
   ],
-  "fetched_at": "2025-12-01T05:31:13.362540+00:00"
+  "fetched_at": "2025-12-01T06:21:45.523831+00:00"
 }

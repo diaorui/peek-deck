@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "\u2018Why is Bitcoin, crypto down?\u2019: Panic after sudden crash; \u2018risky start to December\u2019 | Hindustan Times",
-      "source": "Hindustan Times",
-      "source_url": "https://www.hindustantimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZkt1TUJaeWNQX0VyNjg2RV9ONXlrY1d2aEd3bmtsNmVhVURTZTNJWTNFbzlxU2NkSHJseEF6SFhUaHdBMDlTYVdNcGVtZ1N6WXhuQk9weUthT0NBa1RkVW0weEVjZWZXLVktVmhTZE02QVNRQUdMYV9BMElJRDZHNjFwT1RMRkljb0pKdG9McWZGV0dyeFJzRk84WURXZVdKcVlGcWQ3VEc4Zlc4eEVRZE5OWVFPRk1UQlVybW8yZnFoakI4UmRFRkVtQ2NKRnFkUXpwdTNtZ0R4MElEQllv0gHkAUFVX3lxTE8zYXFER1RuU0FsaUlRZTFrSkgtTzFzWk12ZmlMa3FuTXRCb094RTN5eXRwNXFqTHk1c2d2TmE1clNEVHQ0UHhQTk4xQ0pueE8xU0ZxcDBzN1Z0QV9lci05NVdxTXh2eG52NWVvTGFNd2ZVVzF4VXRDczJ5b1UtOUdLZ09Va2RydWRyMnZiUlhuZnVaWVk5SXMwZE5nMUlmWF9pVlFGOUtCTEEteWNSZS1FNlNhaHhybGJBcXo0S3pncGZ5WmtSZ3NiVjlsN1RKaFBfeGNaR1d5VGNfX2pTa0FMWGpueg?oc=5",
-      "pub_date": 1764551918.0,
-      "article_url": "https://www.hindustantimes.com/world-news/us-news/why-is-bitcoin-crypto-down-panic-after-sudden-crash-risky-start-to-december-101764550929511.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2025/12/01/1600x900/logo/Crypto_down_1764551824375_1764551825093.jpg",
-      "description": "Several investors on Sunday complained about a sudden crash in several cryptocurrencies, including Bitcoin and Dogecoin."
+      "headline": "BTC, XRP, ETH, ADA Plunge as Bitcoin Drop Liquidates $500 Million",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0hkTWw5STMzN2lGaTNCZ1dOODJfaUR2TThUZ19qak50UjN6cjNrYmlkNVBSbm1Cb0NFY1lkSm1ReHk0T3FpZEo2amxSVXV2OU5ZdEcwTm9yTDlSQXJiaERBY1QxZHFkQUFldy1BaDkzd1pYZDlxWll6VTdwMjRjZjNnWFA4WnVRQml2M2tTSkNZb2xTRDRKWmhxT2tpVGVHa0NYcWJLWGV2a3B3YXJUNWNLREJIVzM4WWt3?oc=5",
+      "pub_date": 1764565623.0,
+      "article_url": "https://www.coindesk.com/markets/2025/12/01/bitcoin-drop-ends-up-liquidating-usd500m-bullish-bets-in-early-asia-trading",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9730992bfef63e39d6fca7bbef61a9ea9d379012-1920x1252.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "Binance, Hyperliquid, and Bybit saw over $160 million in liquidations each, with longs making up almost 90% of the total."
     },
     {
       "headline": "Michael Saylor's MicroStrategy moves billions in Bitcoin",
@@ -38,11 +38,21 @@
       "headline": "Strategy Insiders Kept Buying Preferred Stock as Bitcoin Price Slid",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNNWp2ank2MnJrZ2FtLWtJby1qbU1yQ0hZV3dPWng1OW9sWllLS1I5RTRFTnhNRjd0NkhKVVJLVUFaWVpnaVk1WmNCeWlZOWgzWHYyaGRXamIwYUxYTlNLR1RDaUNkNXVseDZFWjhPaklXY0pjbXNvVHo0NGMtcnlWZnJnNmJpemlYbnp0blZ4QThzc1RXRVdsa0xXdGtIcnp6UHlSdHU5VHpwaVVXMzc5R3RlaTI2ZXJhaEpfakduTUtzbHVqYUxIcENtcUhPRTZ4T1EtZkN1VFZpcFVWR01fN3FvdHRmb3lHMG9IUXN3aTJSZ3lZc2hMVnUyMmhTTExFallnZlh6aENYWDhpWURrOFRLUXBCSzd5OUxpVUhsNTdaV1Ntd3BGQV9MbDByZXVnMUxTTUZvTlZCQnhvNTdoNlVHYmZZb1dVU2RHNnFsY2h2eDhVTlU0RzdsbVZNWFpRb29RZnFneGcyVFRmTW1BdzgtWjNMQzJKR2laU2EtQTJWOHJM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNU0VVVVRoWEp3TE5oNGpMLTVNdi1CU2VKMjlxYmhyNy1WQ3BHLTRzSlBfTFdITDhUOEkyeG5yYzlfaUM2cnZjWDk4bDR4NnAxVVU2VHd1ZE1MOG5qQV93NVAtRmN6OXJva2oxdmtpNGFwZVBKc3otZGpBWG1mMTNpS2tQUEplUGZXRTg3SHNrQnFBb0hDMklhRWRVNmJadTh5d1dCZ29rTHhqSm5zRmFxVmJKWEFFN0g2YnoxaGpfZjN4RDBtZzZoVUpmMWo2aElsR0M4VllpOHRIVzBHckZxNmd0Qm5QcjhUOHNZb3JCdkZMNU8wXzFlaTFjSUpNV0hqalBMdVZFMmdmZEhTT2hLQi1DejRfX01yQW9GM01EcG4xaXpDU0lGT0REdkJKcnRFOWp1djBoMU5RejR1MHFBeGprdmFiQjVoa0dIZ1RaQTZZQ04wVmtsNlVIYWprbnBXMkRRc2c5SGc4Sm5Fa1p5b1FNQlZoNGxHVHNBaFMzMHlJdkFO?oc=5",
       "pub_date": 1764487800.0,
-      "article_url": "https://www.barrons.com/articles/strategy-insiders-bitcoin-buying-79756b79?gaa_at=eafs&gaa_n=AWEtsqec0Up2A2X6qwrTUBVx8CzsJYfwCg8JiOQ4vE8BdNWgCYGrjpAne0rY&gaa_ts=692d2ba1&gaa_sig=rR6o0H5dG3-5Vake-SXFi4TNSA3xNr9z6O739SL-BxsstWAnkecCSu2RuufOudk8W0LObDoYCaVz-4S9zn5NMg%3D%3D",
+      "article_url": "https://www.barrons.com/articles/strategy-insiders-bitcoin-buying-79756b79?gaa_at=eafs&gaa_n=AWEtsqfo_IQuyg10QGymITojq2SZ0YJ_O4_I9NFeB7Ntw3JcmNDI3DB7mNRy&gaa_ts=692d377a&gaa_sig=TKw31ZJ_hkASdXUe16PVs6zepc1EWQs1GHvobI7hkWBJXvto9eVzz_eIX0jn8c4jBuwExgBCKVmiL0GJ5tXrFw%3D%3D",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Why Gold Shines at +55% While Bitcoin Tanks: The Great Divergence of 2025",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xNjZzaThsVHVtSUthd3dGSE1qalBYeDZ2bDhhYV93OEhFTjkzUHc2dUUwYjRsMWg4RXpNdW5lWDNPUVh3Q2pXZklxeUdaZUE3TFoxOE04eVZMUkxUblhTZlREcktZUEtWSFQ4VFd2R0lMNG1ieUo4X19n?oc=5",
+      "pub_date": 1764444523.0,
+      "article_url": "https://finance.yahoo.com/news/why-gold-shines-55-while-192843547.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/DOvmmEV28wNU59PKdDzU2w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/24_7_wall_st__718/cd1809babf5aa3d4f18803b33aa9af02",
+      "description": "In 2025, precious metals and crypto took radically different paths. Gold closed the year up over 55%, its strongest performance in over a decade and the best return among all major asset classes. Bitcoin (CRYPTO: BTC), by contrast, slipped into bear market territory after a spectacular rally earlier in the year. BTC fell below $90,000 ... Why Gold Shines at +55% While Bitcoin Tanks: The Great Divergence of 2025"
     },
     {
       "headline": "Bitcoin set to rally back to $100,000, BTIG says",
@@ -93,18 +103,8 @@
       "article_url": "https://www.thestreet.com/crypto/trading/veteran-fund-manager-bitcoin-looks-like-google-in-2017",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Why Bitcoin Bans Can\u2019t Insulate Stock Markets From Crypto Contagion",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbF9IWmF2cWJYZEVCcVFBMG9UUl8zLVNMdjBqRXBhY2h3d0VrRzlTRV9SWnZEUU4yeFdoYi1GMDRiNkxLcTBjYkZsUU1meENXVFdKSWxvV0YxUWFsZkxpVXZoMGlXekVBU3E0UlFUVzJZSG5oZ29YVlU0eHFKUjR2RFJHTG9iSGxQamFKNEFRNmcxd2lrLXdOWExXLXdXaENReU1UWEdRbTVGT3NpUlZfTm1CQU9nNDVJb0c4?oc=5",
-      "pub_date": 1764561004.0,
-      "article_url": "https://www.forbes.com/sites/boazsobrado/2025/11/30/why-bitcoin-bans-cant-insulate-stock-markets-from-crypto-contagion/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/692d049dfc1df76c4f78b370/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "Stock markets in countries that banned Bitcoin show the same crypto correlations as those that didn't, revealing the limits of Bitcoin bans."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T05:31:28.953084+00:00"
+  "fetched_at": "2025-12-01T06:22:01.902093+00:00"
 }

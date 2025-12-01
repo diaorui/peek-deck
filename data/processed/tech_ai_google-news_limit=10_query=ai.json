@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "More of Silicon Valley is building on free Chinese AI",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcG9TS2JkaHFxTGxiWlZoSjlhZDYtOVZ5TFJRTW92VTNTUHg5WVl3d0ZaU2NWV050ejlWamdwSURGYkE1WWFSZU8wcVc1TDJ6VlZhem1SV1F2dkU1ZnZnZXJ6cFVlTXRES3J0MXMzWmpiRmtOMTdFWU9mSjlhVlhuaWpNWml1RVVDOXNCd3hSZXpUT3JJ0gFWQVVfeXFMTXlyQ210ZmVEM1BDd2xDTmh6bHBhMGJGd2RfV1JYcW1WdUJNVU8wR1ZpV1h4MUEzQzhhTzBXT2JFY2NQRDZYVG5KNTZ4cTBaS3NhQ2pFdnc?oc=5",
-      "pub_date": 1764515094.0,
-      "article_url": "https://www.nbcnews.com/tech/innovation/silicon-valley-building-free-chinese-ai-rcna242430",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251110-china-ai-startups-jg-98b34a.jpg",
-      "description": "AI startups are seeing record valuations, but many are building on a foundation of cheap, free-to-download Chinese AI models."
-    },
-    {
       "headline": "AI\u2019s safety features can be circumvented with poetry, research finds",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
@@ -25,12 +15,22 @@
       "description": "Poems containing prompts for harmful content prove effective at duping large language models"
     },
     {
+      "headline": "More of Silicon Valley is building on free Chinese AI",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcG9TS2JkaHFxTGxiWlZoSjlhZDYtOVZ5TFJRTW92VTNTUHg5WVl3d0ZaU2NWV050ejlWamdwSURGYkE1WWFSZU8wcVc1TDJ6VlZhem1SV1F2dkU1ZnZnZXJ6cFVlTXRES3J0MXMzWmpiRmtOMTdFWU9mSjlhVlhuaWpNWml1RVVDOXNCd3hSZXpUT3JJ0gFWQVVfeXFMTXlyQ210ZmVEM1BDd2xDTmh6bHBhMGJGd2RfV1JYcW1WdUJNVU8wR1ZpV1h4MUEzQzhhTzBXT2JFY2NQRDZYVG5KNTZ4cTBaS3NhQ2pFdnc?oc=5",
+      "pub_date": 1764515094.0,
+      "article_url": "https://www.nbcnews.com/tech/innovation/silicon-valley-building-free-chinese-ai-rcna242430",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251110-china-ai-startups-jg-98b34a.jpg",
+      "description": "AI startups are seeing record valuations, but many are building on a foundation of cheap, free-to-download Chinese AI models."
+    },
+    {
       "headline": "America\u2019s Tariffs Jolted the Global Economy. Its AI Spending Is Helping Save It.",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNN281aFlPalJwQ05LX25ENXhiWnVDWnJWRXFlamFrU0taUHY0S1pQMGJBeEtGa2tlSlljODRXU0l0bU9qWlZ0cHlFU1hNNk5OV0ZUaFhCdHY3UmgyQ1JNeE1DM0s5eWpWYWVjWWptZ1VFb0tqNk9LOUNSZ3VRVXpuZHh3aVA0bUk2SE85RVY1UTliLTMwQU50bS14d005eEZydnNBZEFWZENkODIyNUROV2NKSVp6OXJXbmVwbEhydjYzaHJyblJNMElvQVZ1R0hxYmJ1ZVpvMzVVd1VhOEwxUjZYclpmZlc0S04xaWNDZ2xLbHRwWUdRRXNhaTI4NWg5bzZmMlcxWEZyYm4tank1VVk3YldmcFlCZFlZcDV6WjNlMW1nRWFOM0NlQnlOU1FQTnRIV2M1Vm1SVlNBTnkxQlNFNTN3eW4zWHRJM2V6ZjF1aDIta3MxLVNCZm1HU3lJVlJKQU1DeWtsbUdMd1N6ckRGRlM4a05wd3FGU3RfOUZDbFUycjBDN19TM0FERU4wY0J0bkVjb1dSRjhmLWFfQUZ1QVlLZUd4TFdCSHZ1LXY4Nm1Qc0w3VzNSSDVmM204Znc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPZTAwMFcxWmdVaU9iY3BIRFZvc3YwSmI1OFdHdDVxWDZFSkx0YTlGQjVLa1dCaXZPWmNGSXR0cno3YXNvWUstdHVvTUdKVmRDOFRkakRmS1g3bmxlYlhqemJkN2stVVc2WEZsOVpKRE5XQk9fQk5FanZNVEpRc2ZyUVQ4Z1FrbVhWbFo5Y21DUUF3Z3N2ZVNZbXRFLUlXanZRZk9ZOXBkZXA2SmZsdk1TZzA5dFM0LUdkOEVjYVBCXzczMUNZX01YSUNhU0YxdEpnRnVBMTJOTlFaRDh6YTZ1V0l3bjFaLVdmYTFzcDV3LXZ3R0h5WllRaks1cmFna3Fwc0xWalhEQW1VQW1OYzhNRS1yY0xibmNpeXptZTh1ZnA5YkR1V0V5S0E4cFZQdVJtaVFPMV9ObjFvQk1RUkNjZWFERHJrVFk1VWhic1lKSnFKT3VGMkEwX2xYTlJZUmw3YTF2azVpRktma2QyR3RRcEdFQzN4YUtOM2VUMnI4SVR3ZkpCNjFrd0pzQkNxMmEzRXhXS081U0dFY2NuLV9zMURhQi1hNU1PSzRLZ2wxZmsxMTNaWmV5NUhWOXhkYWswT3c?oc=5",
       "pub_date": 1764561600.0,
-      "article_url": "https://www.wsj.com/economy/trade/americas-tariffs-jolted-the-global-economy-its-ai-spending-is-helping-save-it-9be60ee0?gaa_at=eafs&gaa_n=AWEtsqf5f2YDC3lfMXzdLNm2mLcns7eHvbA7J_Yp6vzVtd0q7HqRuSq-Ipaz&gaa_ts=692d2b9f&gaa_sig=qHhovKRb24imIgg2C7__4Vc3g_YsFNiDIOfrGbW_pQry_78-zQAmOp9EwEHVj4UErt2oiNjHB6XekDtIjcbBLg%3D%3D",
+      "article_url": "https://www.wsj.com/economy/trade/americas-tariffs-jolted-the-global-economy-its-ai-spending-is-helping-save-it-9be60ee0?gaa_at=eafs&gaa_n=AWEtsqfoULugMP2CfpD9uz6k_IhCjNbSucA8ABO5D98c6rSYP_ABqUmlZZzK&gaa_ts=692d3778&gaa_sig=dDQTXGsWhSQ7TEJ8BQ7erzD82faYdkLdfqy8jXPSpbTN6UVzUEA_Na60eCriBB-rcqqT1PAIsVofKYsauHB7xA%3D%3D",
       "image": null,
       "description": null
     },
@@ -45,14 +45,14 @@
       "description": "Elon Musk says AI and robotics will solve the US debt crisis within three years by driving productivity beyond inflation."
     },
     {
-      "headline": "Top consultancies freeze starting salaries as AI threatens \u2018pyramid\u2019 model",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVUtOcGs1QnBiQm1sU0YxVEhEWWVwakZYWW9NWFBob2tSdVcweTZRNktadjR0WDhPTzVhVElGVEFHcHpOa01zNFZxWEdlUThPd0k2Q1d0bExrZzhfbkZGRzIxV2U5aEkyRGxXUU9SM3A?oc=5",
-      "pub_date": 1764565208.0,
-      "article_url": "https://www.ft.com/content/2b15601b-8d02-4abe-a789-7862874042be",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe7da7fd3-4e13-46d8-ab31-b28970bcc0c5.jpg?source=next-barrier-page",
-      "description": "Productivity gains from technology are spurring debate about reliance on large numbers of junior advisers"
+      "headline": "How AI\u2019s hit to publisher traffic is quietly rewiring media M&A",
+      "source": "Digiday",
+      "source_url": "https://digiday.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbG1qTC1IdENqRGYtZktUYjdMNEhpRGlNREdYTUZCOGg1bzRvMFVMZEt0U2RxTFpSYkJJcEkzbm5DWXMtdlJtaFVJOFVtRXI4YW5kOG9iTUlBYjI3VDNsYXloQjJPRHhhbS1ZaGFtZmpONWI4YUUzQnF3YVdhc3lkVi1DNkZCSUFSa2NTTUg5Vk1VZw?oc=5",
+      "pub_date": 1764565364.0,
+      "article_url": "https://digiday.com/media/how-ais-hit-to-publisher-traffic-is-quietly-rewiring-media-ma/",
+      "image": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-talking-digiday.jpg",
+      "description": "Publishers\u2019 AI-driven traffic declines are cooling M&A, stalling deals and lowering valuations. Some analysts are optimistic about 2026."
     },
     {
       "headline": "AI video slop is everywhere, take our quiz to try and spot it",
@@ -75,6 +75,16 @@
       "description": "The skills that students will need in an age of automation are precisely those that are eroded by inserting AI into the educational process."
     },
     {
+      "headline": "AI doesn\u2019t add up if you neglect the mathematicians",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JamNsTVRzNEM5UHkzSXQzbU9Pdjk1amxZa21BZVZkOEdfQ3k4WGZLSlVDU2FpbGJhT29CUjVMclJfU3J0bUlHbWN3R3IxUzV5M3pPQ1VIQVFOT3dlYUJwN09LWURVSG85U2RXQ0J6RFI?oc=5",
+      "pub_date": 1764518402.0,
+      "article_url": "https://www.ft.com/content/b05318d1-12e5-49f1-9950-47e8b0f809ae",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7a949be0-e5b3-4edf-9789-33bb80a5dbd2.jpg?source=next-barrier-page",
+      "description": "We are failing to invest in the mathematical community at a time when we need it more than ever"
+    },
+    {
       "headline": "ByteDance\u2019s TikTok Playbook Is Winning Consumer AI",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -93,18 +103,8 @@
       "article_url": "https://abcnews.go.com/Technology/wireStory/ai-assisted-shopping-talk-holiday-shopping-season-127976859",
       "image": "https://i.abcnewsfe.com/a/1b595f64-f4ca-43c6-b715-bb7d1bde3c41/wirestory_0722dce44b4a479ec4ce476bbd15dfa9_16x9.jpg?w=1600",
       "description": "Major retail chains and tech companies are offering new or updated artificial intelligence tools in time for the holiday shopping season"
-    },
-    {
-      "headline": "AI could be revolutionary, but don't \u2018lose your diversification,' this wealth advisor says",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcFByMUYtdGk5RXVmcjF6QTk4dnhhbnFtaXk4T1hBaXF6QVU5Wm0teFVWZ1ZPWlVEdE5tbFR0S2hIX3FiUHF1Zzd5ZUVVd2R2MHczYTZjcENBLTZpSkJWRHozZ1dwMkpQb0l5bVNZbm9tQTNQNkdzeDVPMHBnZGtNZ1NicGdvM3hQYWhnS0Vya19maWJzQjlHS2xwLTZFNDhTQlVWMk1JU1FXcjd3YkFr?oc=5",
-      "pub_date": 1764511138.0,
-      "article_url": "https://www.cnbc.com/2025/11/30/ai-could-be-revolutionary-but-dont-lose-your-diversification-advisor-says.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108183098-17545814312025-08-07t144959z_1133835741_rc2d2ga4tzvt_rtrmadp_0_usa-energy.jpeg?v=1754581481&w=1920&h=1080",
-      "description": "AI's impact has yet to be fully realized and investors shouldn't put all of their eggs in one basket, according to Eric Diton of The Wealth Alliance."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T05:31:29.435454+00:00"
+  "fetched_at": "2025-12-01T06:21:59.884354+00:00"
 }
