@@ -52,7 +52,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46094037",
       "author": "nl",
       "points": 227,
-      "num_comments": 81,
+      "num_comments": 82,
       "created_at": "2025-11-30T05:19:33Z",
       "object_id": "46094037",
       "image": null,
@@ -93,8 +93,8 @@
       "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
-      "points": 131,
-      "num_comments": 182,
+      "points": 134,
+      "num_comments": 184,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
@@ -145,7 +145,7 @@
       "site_name": null
     }
   ],
-  "total_hits": 376,
+  "total_hits": 380,
   "has_metadata": true,
-  "fetched_at": "2025-12-01T20:13:27.777798+00:00"
+  "fetched_at": "2025-12-01T20:45:20.713697+00:00"
 }

@@ -25,74 +25,64 @@
       "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
     },
     {
-      "headline": "Nvidia's massive investments are shaping the AI bubble debate",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5peVhHdnVXMFR2Xy1BbzNmeUgwNXhnRGFrWnM4dWJGVTR4RHphQl83RFR1OTFaMUtIQ1NKY2l4RGd2OHZVSFVSOEQxYUxKNGl5eDBTd3pZRFExMVFIVDZ3eUpGUENJODBXYTQteVlmaTZUdGZuZTAzMHRwcw?oc=5",
-      "pub_date": 1764608740.0,
-      "article_url": "https://www.axios.com/2025/12/01/nvidia-ai-investments-openai-anthropic",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "SoftBank\u2019s Son \u2018Cried\u2019 About Nvidia Stake Sale to Fund AI Bets",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWJTZ3dVclUxUUhSS0JOcnVsUDNOQS1nQnZWMENYVFdPQ292Q1I5dDg3TjN2TFROTHc1NWNyVGIyTVpzVW1DbmpKVXBSa2wyVnVxMUJNU0tiTkdsRnV0TGl1YjhaMThKc0c4Y2o3U3dlSS14bllKQ3JMV281QnZxckpVMHBiZE9EeVhjNmVOU1FsLS1LWGc0VkJJU2FoeWp4eXNQMzIxdGdPSVV5aHRpdQ?oc=5",
-      "pub_date": 1764583041.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-01/softbank-s-son-cried-about-nvidia-stake-sale-to-fund-ai-bets",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Tech Voices: Nvidia-Synopsys; SoftBank CEO on Nvidia, AI; Shopify",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNVY4Z0E2X1RBMHQ0VnpuWDhRUUFlVE9CbjJKbUt5ZXBrTGFSNHRIX0JSb0ZnRGVzZnZwRXpsWG5FWU5JQmpYLXBLbksyOTB4LS1vRjlzLVlGbXFnaWFGNm1zZ2tXLXBTR2pPRUZJdEFOVGxxTUxsMUpGc2t6RHU1T1E2Ui1hRThsUDBDLU1NUzh1TlVKVVU5a0VpZlk3Z3pI?oc=5",
-      "pub_date": 1764616020.0,
-      "article_url": "https://seekingalpha.com/news/4527218-tech-voices-nvidia-synopsys-softbank-ceo-on-nvidia-ai-shopify",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412721464/image_1412721464.jpg?io=getty-c-w630",
-      "description": "Seeking Alpha's roundup of statements, announcements, and remarks that could impact the technology sector. Read more here"
-    },
-    {
-      "headline": "Construction workers are cashing in on the AI boom",
+      "headline": "Nvidia takes $2 billion stake in Synopsys as AI deal spree accelerates",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQUFwcFZrYVlWc3g5czNlODFWa0NCWjhUSlU5YVd3S0dMTDlEOUp3eGxqMUc0UmhCZnEyanA5eDZUbklPaXBWNXdLbDQzNkl3WDVkckhwMElvZ19TRWZyempCb2Z3aDhSLVRKZzJ0djFhM2p6YzFpZGQ2VXdSM1lncVpFZHZIMldJb0E?oc=5",
-      "pub_date": 1764616430.0,
-      "article_url": "https://finance.yahoo.com/news/construction-workers-cashing-ai-boom-191350821.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/CDD3JeKUiTUN2qE04DuPTg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/techcrunch_finance_785/1fc6e9c87d0669dc33e63f20fedc0076",
-      "description": "\"I pinch myself going to work every day,\" one 51-year-old says of his new supervisor role overseeing 200 workers at a data center site."
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOU0tQkVfTWZ5RWhjdE5mVEFyQUwwTkZka2VSTmZWdEgtLVd0WXh3bGpra1VsX3BYQkVCNHFEYS1rRGJtVFJJTGxUWDREeXlEMURDUzZIOGFySDBzNWN0bTJRY1RlTWNXSUlQMnJscmRwNmRXQWZxOEo3Z1JjQnhrQg?oc=5",
+      "pub_date": 1764594324.0,
+      "article_url": "https://finance.yahoo.com/news/nvidia-invests-2-billion-chip-130524782.html",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/91c20570cdf1b5c6c035437b41eb31df",
+      "description": "Nvidia has invested $2 billion in chip design software maker Synopsys as part of an expanded multi-year tie-up to jointly develop new \u200btools for designing products across industries using its AI technology.  The deal, unveiled by the companies on Monday, \u200ccomes as Nvidia has carried out a range of investments, such as those in OpenAI and Anthropic, to try to cement its dominance in the \u200cartificial intelligence market.  The Synopsys deal is about shifting the work of several high-tech industries that are just starting to adopt AI away from central processing units used in the past and toward the graphics processing unit chips sold by Nvidia."
     },
     {
-      "headline": "Ryan Payne warns investors not to \u2018concentrate\u2019 assets in AI markets",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nUUFkY2wwSW5HYmpsMTRkNGpIb2NhN3ptclJGTnVCUFdPcUtBQTg1UWhYWUhwMWs4UTZlS24wWVJuMkRVbEZXbThwVEJPTTRKcE1CMjQ2c0VfVXM?oc=5",
-      "pub_date": 1764616613.0,
-      "article_url": "https://www.foxbusiness.com/video/6385808412112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/c1d2c07c-bf50-4371-8ce5-7c96a75ef7b9/437e54e2-bc72-4aed-9c5a-e1d56ee9d20b/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Dominari Securities CEO Kyle Wool and Payne Capital Management President Ryan Payne discuss how rate cuts are impacting market sentiment, best investments during the holiday season and more on \u2018Mornings with Maria.\u2019"
+      "headline": "NVIDIA (NVDA)\u2019s Latest AI GPUs Sustain Analyst Optimism",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLVjIxZ2M0cmZKcUNXUVY3M3Q1enBDenM4VDBGTWdaN1BDVlJIUXVmeXF3MXF3ckhrNVVHWVROemkwQkREU2xQdEp6WHdWS2Q1ZGFtRURseEl1ZmYxaWZRTDR1TFVwQmo4NFRqSTQwN0pIVThZQlc5cHF0cjg?oc=5",
+      "pub_date": 1764611244.0,
+      "article_url": "https://finance.yahoo.com/news/nvidia-nvda-latest-ai-gpus-174724209.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/SzlYR8UfNIBHwq0_sZZhhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/insidermonkey.com/3cdfc6984f75eb9c4dba5deb13ce85cf",
+      "description": "We recently published 10 Best Strong Buy AI Stocks to Invest In. NVIDIA Corporation (NASDAQ:NVDA) is one of the best consumer cyclical stocks. NVIDIA Corporation (NASDAQ:NVDA) is the firm that is at the center of the AI wave that\u2019s taken Wall Street by storm. This is because the firm\u2019s GPUs are the latest and most [\u2026]"
+    },
+    {
+      "headline": "Watch Nvidia Buys $2B of Synopsys Stock, DeepSeek Debuts New AI Models",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmhkcmN1ZkRsdmQwcGlzV0tHT1RxYVNjVFJrMUxPZi12Y1VhT1cxQ0VMU2RveS1xSU9sRy1ER2dxTko4Q08wT2hkd1U3ZUp1WnQxcmp3N1RjQ1pWOXQxX2xNVThTaUNGZkl1a0w2d0ZrajRydm13c200NGFvb3lfbHVTY0pYVjFicW9wbTFSNmFZMXhIN1R6UGhQcjNVTWNaUWxoVGNhdw?oc=5",
+      "pub_date": 1764618295.0,
+      "article_url": "https://www.bloomberg.com/news/videos/2025-12-01/nvidia-buys-2b-of-synopsys-deepseek-debuts-new-ai-video",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "WTF is multimodal AI for advertisers? | How AI models are enabling a new level of flexibility and precision in targeting",
+      "source": "Digiday",
+      "source_url": "https://digiday.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDbFpTZVhfa0hPS2VwdTIyUmN6MDJMZ2pXSHJtYmFySUFfX2N6M1JSTVBjekMtSHZIYWpIMXQ1WUlQeTRVQnREejBCSllEaXg4X0VYMmlybFdhdmtxcmVuSF8tT25FX0FXWFhPNzBGY0NfOV85SHc?oc=5",
+      "pub_date": 1764619996.0,
+      "article_url": "https://digiday.com/sponsored/wtf-is-multimodal-ai-for-advertisers/",
+      "image": "https://digiday.com/wp-content/uploads/sites/3/2025/11/Dstillery-WTF-03.jpg",
+      "description": "Discover how multimodal AI in advertising helps brands solve targeting challenges, unify data signals and unlock precise performance."
+    },
+    {
+      "headline": "FDA offers staff \u2018agentic AI\u2019 to support pre-market reviews, administrative tasks",
+      "source": "statnews.com",
+      "source_url": "https://www.statnews.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORHljbmVsUmh4czRUWU9DZk5xZzYtV1lMVHBhaG9rUXN5RE5XRXlSemlqX19vdl80R0VjQk5rNFBfMnpsZHFieTZzMzd2eGlwUUh6NzNoQUwwZmFtVDlEUHVXSFM5eTlZVmNaekpiTTBIeHcyMWJDdWlLNDZVYkdTSlpObnJWS2VxamJNUw?oc=5",
+      "pub_date": 1764619639.0,
+      "article_url": "https://www.statnews.com/2025/12/01/fda-announces-agentic-ai-elsa-pre-merket-review/",
+      "image": "https://www.statnews.com/wp-content/uploads/2025/12/AdobeStock_724862523-1024x576.jpeg",
+      "description": "The FDA is offering staff a broad set of agentic AI tools despite concerns that the technology can behave unpredictably"
     },
     {
       "headline": "Millions of Coders Love This AI Startup. Can It Last?",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPaElVV2I3eHpxM2NEb3diRVB4czA0dXBwdERFSlpDVVJOYzRtVjE3SEowMW9Ya0pVc2dtNExGRHNINGNTN3F2TUx5cEdtUkJmRUg0T0FoRm52LXNiazZDaWt3NFlHX1JwYWFRbU5XcEYyOTVtQ3kzUlF0eFBvaFcwaEwzMEJsU0ZZWmZjR0QtTUpmRHNYQTBleDVvNDZXeVBkV2VBbGgxcUZlbXh6MlNmZVFieWIwUmR4eVpyNjZXa3NjOFNnQWxKOGE3bXRfRTVQVWZhbVMtaHdsQlRmTFJhUEFVTjd5Z0Q4dm1BbzY1ZTVpWEFhQTdQYzF2TGZFTVZWM0ZBQ01LWlBwWjZUS1Y0R1hqZmtLV3ZHSUJNeFZEZ1RIMkNodUlmV2dYeE50R3VheGd5VGlkcVZoM2JvMFExOXBZRENMc1BwNGxvVmw4Rmc5NlY2T2RmX05VYV9KQW5tYUVvWXRIWXNyQk1SWGtXcFdKSHNyeWR0ZU5TNkNtdGxEamQtcGhnVi1Fc0tGbUdUeE9XM1Fxcw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQaEw4YlBYOGg1WFljT3lXbVZURm5GeDNZMlNwVExsXzB2Zk5wMmRiOHhVUUw4NUo3ZmJjVk5kRHJnQ2UtWFZJTWdhMW1haTAtOGg2Skd3eWo5UGpMZHZuWl9meTh2S2l2QzZ6WEZSbFhuN2pWdzdFaTVHMVN0UmRfZms5NklkYUJuMHBXY2Joc1o5SUV2Y3N6cVBhc0JyeFhOeGRvNWllRzh5eDI0SWdNUTA0YTlOSmRwV0d2VDBMbW9MUU9PcDQtc3ZfYk9UaEVkbkc4elE3Zkh1cVBvbkVYQVh6bElCTmNlWVd3c2RWWU9yeFpwdkdVQVNUMEJWX2FxM0c0bFhFVnhIS2VNZTE2UFh5a1BYX0s5RTE1aGlOaUp2MFB4a1U1ajNOd2ZLNFdRcVZqc1FzM213bDFPSUhpTXVxRXpHa2pISExwX2NaVTlCTkNCMHg1N253ckloemMtMzFnZ1NEOHFxbm5QbTN1a2N0SGwtMVdBMVkyZVphOGY1UEhhdWVnLWFyVVNJUU5xUEd3VEJwOA?oc=5",
       "pub_date": 1764608400.0,
-      "article_url": "https://www.wsj.com/tech/ai/millions-of-coders-love-this-ai-startup-can-it-last-45b72441?gaa_at=eafs&gaa_n=AWEtsqe2eykicNoeP13IxH_yY36nfNd-cdkbBAlltqBXoLHmUlJ_7btIg15Z&gaa_ts=692dfa6b&gaa_sig=_m43M3tkpst66H4_Lt-zP_KYK63-heTjkUTAkcPZr2C8juow3_kwAfNmdPDop8AC0njEiyQqosvz6eJgBI3E1A%3D%3D",
+      "article_url": "https://www.wsj.com/tech/ai/millions-of-coders-love-this-ai-startup-can-it-last-45b72441?gaa_at=eafs&gaa_n=AWEtsqdE1s7-R6A__ceNufkXGs4T4ZONnnSfgmmIlw3jdtDojYGH4Hk6pMok&gaa_ts=692e01e5&gaa_sig=7osByaPC--WsxvWTmveEgQxls45bNdiZv3QmY9K6mmiW2kjNrPYabxvO3vXYDB3BQR-bBQo-Qmj2BHiStq7v0A%3D%3D",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "The People Outsourcing Their Thinking to AI",
-      "source": "The Atlantic",
-      "source_url": "https://www.theatlantic.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWFhY1JvYmNPUnVkaURvVVZsRExPQk1Edzd4SUh6ODNvOTNUNXJjakp6NDUwTFZDdktGYy1EUHdpdUVOVDVVY0l6OGRWR2htUFMySmtoaW5FMGRWY1pON2JmNnJqZFF5NE5pZ2poMVFZNUdXb1czRV9TOF9nMUVIbGNRMy1vaDMwWU5aazREREhWODNjc1E?oc=5",
-      "pub_date": 1764592200.0,
-      "article_url": "https://www.theatlantic.com/technology/2025/12/people-outsourcing-their-thinking-ai/685093/",
-      "image": "https://cdn.theatlantic.com/thumbor/Llk9rk0EWzJeAoNISzv4UhoCgoo=/0x83:2000x1125/1200x625/media/img/mt/2025/11/2025_11_29_AI/original.png",
-      "description": "Rise of the LLeMmings"
     },
     {
       "headline": "An independent effort says AI is the secret to topple 2-party power in Congress",
@@ -103,8 +93,18 @@
       "article_url": "https://www.npr.org/2025/12/01/g-s1-98267/ai-independent-candidates-congress-two-party-control",
       "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2024+0+232/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2F3d%2F7f56b150456e90265385306931b1%2Fglennharvey-2025-11-07-npr-f53.jpg",
       "description": "Using artificial intelligence to identify Congressional districts where independent candidates could win, an organization called the Independent Center is aiming to disrupt the two-party system."
+    },
+    {
+      "headline": "The People Outsourcing Their Thinking to AI",
+      "source": "The Atlantic",
+      "source_url": "https://www.theatlantic.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWFhY1JvYmNPUnVkaURvVVZsRExPQk1Edzd4SUh6ODNvOTNUNXJjakp6NDUwTFZDdktGYy1EUHdpdUVOVDVVY0l6OGRWR2htUFMySmtoaW5FMGRWY1pON2JmNnJqZFF5NE5pZ2poMVFZNUdXb1czRV9TOF9nMUVIbGNRMy1vaDMwWU5aazREREhWODNjc1E?oc=5",
+      "pub_date": 1764592200.0,
+      "article_url": "https://www.theatlantic.com/technology/2025/12/people-outsourcing-their-thinking-ai/685093/",
+      "image": "https://cdn.theatlantic.com/thumbor/Llk9rk0EWzJeAoNISzv4UhoCgoo=/0x83:2000x1125/1200x625/media/img/mt/2025/11/2025_11_29_AI/original.png",
+      "description": "Rise of the LLeMmings"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T20:13:51.040526+00:00"
+  "fetched_at": "2025-12-01T20:45:51.909853+00:00"
 }
