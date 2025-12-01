@@ -112,5 +112,5 @@
       "description": "Hey fellow devs! For the past month I've been building a compact observability tool for ROS and I thought it would be wise to get some feedback from the community before building further. I've got a demo running on my local machine with some basic features like node/topic introspection, live telemetry/logs with filtering, play/pause, topic sub/pub and a chat with the context of the whole robots live state and logs to make it easier to get a grasp of whats happening. If anyones open to giving feedback based on the early prototype, I'd massively appreciate it, whether it is positive or negative, everything is welcome. Also let me know if you'd be open to trying it out. I'll send you a dm once the mvp is ready. https://reddit.com/link/1pawh0n/video/uwdum1dk8h4g1/player"
     }
   ],
-  "fetched_at": "2025-12-01T18:22:01.192925+00:00"
+  "fetched_at": "2025-12-01T18:55:06.100358+00:00"
 }

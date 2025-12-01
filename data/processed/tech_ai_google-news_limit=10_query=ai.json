@@ -5,14 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "\u2018It\u2019s going much too fast\u2019: the inside story of the race to create the ultimate AI",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMEY4SE05SHRWdUhCVWZPZEdmLXVCUlpIckthU2phZ3hqelg4cEgzNEFtVi1aakdGaHFPei1naW5iZHVNTDFIY2JvVEJ6UW5kRkotMHFuelpRVVdReHp6VVVTcVFsdDZ6dlZrNHVrT2Q5ZF9kd3p1QWFDRUxrXzZjN0pMZElxLVFEaGRVUlpxYk0xcDN2cUFHMlUwWjJNVlBmQ3JwaHN3aFE4YUZGTnJyRThmY051SmNBRDd5VTI0UGFiNmVPX1NMOFN1b0dINWwzTDRuZFNQMkQ3T2Ez?oc=5",
-      "pub_date": 1764603060.0,
-      "article_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai",
-      "image": "https://i.guim.co.uk/img/media/3a0b9b3f8dd7ac48f7a548037c63002bc5661c22/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd918b07d627fc9aa7296acc6d16da0d",
-      "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
+      "headline": "Move Over, Computer Science. Students Are Flocking to New A.I. Majors.",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQzBCcTJWdGk2N3psSEtzUGdQekluQVdtSk04UV9hcTJuR3JYaWdxblhSUHQxUWMtT200UzM4Ykw5TlQ2cks3dkQ4WEVSM0NaSHlvOG11WTQwa3dSQ1d5NklwWTdDT0JrX2phTk5qZ3JNRHBsWFVLWWUySXY4c3pvaGZyMTQ0al9HckFz?oc=5",
+      "pub_date": 1764602758.0,
+      "article_url": "https://www.nytimes.com/2025/12/01/technology/college-computer-science-ai-boom.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "An independent effort says AI is the secret to topple 2-party power in Congress",
@@ -25,16 +25,6 @@
       "description": "Using artificial intelligence to identify Congressional districts where independent candidates could win, an organization called the Independent Center is aiming to disrupt the two-party system."
     },
     {
-      "headline": "AI becomes a political wedge issue, creating odd bedfellows across parties",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZEpBYU5IYlZkajhFODVSazltdU90R3NsMnF3VVlPeHlKeWV0WVgzTkNUM19OUGVkUTBuc09JdmVqc0ZvT3cxM21FNG1TYnRXOWJ4NmN6cWhzWGItNlphUkFZSHB0STdpY3VLYU1ka28wdEgxVmVPT0oybHpHQjBFQVF4TVBoRERqd3MyOWhxdjB4S1dtV1FUedIBVkFVX3lxTE9JWmlBY2tMYmJSSTVyamYtVFloWDRlU1JDYkY0R0xDT2tzbk5qT3BmdUVDNnpTc2wxQ0VMaEl1WGdkWHIwMFlscDhsa05KQlg0aGJiS1RB?oc=5",
-      "pub_date": 1764611012.0,
-      "article_url": "https://www.nbcnews.com/politics/elections/ai-wedge-issue-midterms-2028-bedfellows-rcna244811",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251119-desantis-aoc-gk-874c9d.jpg",
-      "description": "MAGA media personality Steve Bannon described the fight on the right as one between populists and \"broligarchs\" in the tech industry."
-    },
-    {
       "headline": "Inside Alters AI: the Startup Using Advanced Graphics to Redefine Artist-Fan Connection",
       "source": "USA Today",
       "source_url": "https://www.usatoday.com",
@@ -43,16 +33,6 @@
       "article_url": "https://www.usatoday.com/story/special/contributor-content/2025/12/01/inside-alters-ai-the-startup-using-advanced-graphics-to-redefine-artist-fan-connection/87552157007/",
       "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/01/USAT/87552169007-image-1-35.jpg?crop=1599,899,x0,y0&width=1599&height=899&format=pjpg&auto=webp",
       "description": "At its core, the platform uses cutting-edge graphical engines and proprietary AI models to generate digital twins with striking lifelike realism."
-    },
-    {
-      "headline": "Is Fortnite using AI art in Chapter 7? Some fans certainly think so",
-      "source": "Polygon",
-      "source_url": "https://www.polygon.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjFaaDRBc2hQM1ZBT3puQW56bUxwSHBYUnpyV2JIMGtFVC00QVlUVXktZURMdFUzU3ZjWVZtN2NVQUNmQ0dVV2xoZTJuUzQyRVFiQ1ZzcVRCT2xOaXBaeVBlYXRONVZVQUxXdzRSSUQ5MDIyb2JOX1YtR1pESHU4YXlRWUIxa21Q?oc=5",
-      "pub_date": 1764610620.0,
-      "article_url": "https://www.polygon.com/fortnite-chapter-7-season-1-generative-ai-art-epic-games/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/chapter-seven-pacific-break-screenshot_008-1.jpg?w=1600&h=900&fit=crop",
-      "description": "Fans claim Epic Games is using generative AI art this season, though one artist has debunked a claim"
     },
     {
       "headline": "Let It Die's sequel is almost here \u2014 and it's full of AI",
@@ -65,14 +45,24 @@
       "description": "The sequel to 2016's free-to-play adventure uses generative AI for voices, music, and more"
     },
     {
-      "headline": "Fortnite fans start hunting for \u2018AI slop\u2019 after spotting alleged AI-generated artwork",
-      "source": "Video Games Chronicle",
-      "source_url": "https://www.videogameschronicle.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMzdnWmZKZzZaZndMekt5Zmp6T3FNajliS1BCak10bFBBR2hzeXJzMXkzUi1hQXFYdUVVWGdFTDRCMXp5Y1drZUNfaGlfQklnWjA1UWNVWHFPZm5vbGZzVXdmZ0twbzF0U2RNajV0SXVOWXpxZGZUWlR4YWctSkVXelhKTktmbzZxd3dOenRBcWVfa2xZN1o1WjhaUWNfVFk0SktNclE0ZTdOOU80WjhUWTExdVVyQlYwVk1GZjBPa3l6R3c?oc=5",
-      "pub_date": 1764590700.0,
-      "article_url": "https://www.videogameschronicle.com/news/fortnite-fans-start-hunting-for-ai-slop-after-spotting-alleged-ai-generated-artwork/",
-      "image": "https://www.videogameschronicle.com/files/2025/12/fortnite-chapter-seven-pacific-break-wingsuit.jpg",
-      "description": "Epic has yet to officially confirm whether any of the game\u2019s art was generated by AI\u2026"
+      "headline": "Musk says AI and robotics are 'only' things that can solve massive US debt crisis",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1g3dENUZF9tMlhfbDNZZlB5TmhpRjl1dFlDalM1bFNYVHJGdy1RUC1KTTNqM21DT3JWZ25wRGpBWENwaFI5SzBxQTBFQjhxNTJaNmRTdlhxdGpaRzY3dGs4Q2p1emdRNktzSHhFTUVKR1pYa1RJaUtOeE1QVzhxaGhQZVpaNjFfNm1LU0hFVTg3UmU0N19hbk5YYWZ4d2ExcG9wQ9IBqgFBVV95cUxQWFZ2dGFQZ05STHpLUjJYYld2RjZUYkNJZDJJR0NrdnJvcXJPZ0hRYWVVQ0dybEU1eU1Qa19HSTR3Q2ZiYkJFaDgydFJXSXMxUlRHa2dHeTNNUWh5SUd1Y09MOWNBcHdsYlpUZjllUXFGUjFBRU5DaGNFWTNOT1NmQUhadWZCZF9BQW0yc3pRVlllNTZtUHl4bXFMVXlBUTF6UkdTbHZmVElWUQ?oc=5",
+      "pub_date": 1764612660.0,
+      "article_url": "https://www.foxbusiness.com/economy/musk-says-ai-robotics-only-things-can-solve-massive-us-debt-crisis",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/0/0/Elon-Musk-12.jpg?ve=1&tl=1",
+      "description": "Elon Musk claims AI and robotics are the only solution to America's $38 trillion debt crisis, predicting dramatic economic changes within three years."
+    },
+    {
+      "headline": "\u2018It\u2019s going much too fast\u2019: the inside story of the race to create the ultimate AI",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMEY4SE05SHRWdUhCVWZPZEdmLXVCUlpIckthU2phZ3hqelg4cEgzNEFtVi1aakdGaHFPei1naW5iZHVNTDFIY2JvVEJ6UW5kRkotMHFuelpRVVdReHp6VVVTcVFsdDZ6dlZrNHVrT2Q5ZF9kd3p1QWFDRUxrXzZjN0pMZElxLVFEaGRVUlpxYk0xcDN2cUFHMlUwWjJNVlBmQ3JwaHN3aFE4YUZGTnJyRThmY051SmNBRDd5VTI0UGFiNmVPX1NMOFN1b0dINWwzTDRuZFNQMkQ3T2Ez?oc=5",
+      "pub_date": 1764603060.0,
+      "article_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai",
+      "image": "https://i.guim.co.uk/img/media/3a0b9b3f8dd7ac48f7a548037c63002bc5661c22/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd918b07d627fc9aa7296acc6d16da0d",
+      "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
     },
     {
       "headline": "The People Outsourcing Their Thinking to AI",
@@ -85,14 +75,14 @@
       "description": "Rise of the LLeMmings"
     },
     {
-      "headline": "Opinion | How to Prepare Your Kids for the A.I. Revolution",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkNFpMWGJsWDdLenRteG1LQjNETWVmekxXVVkzODBvMEZpYUlWUXoyUDlKYVhKeWMwTEVRUmx1aTZJN3Z1YTUwX0xDVkxNVkxoX3VoaXJKNml4RVd3MkVQR3JscWxIbkVtcXFxX0lLLW9VcGY5ZEE?oc=5",
-      "pub_date": 1764583260.0,
-      "article_url": "https://www.nytimes.com/2025/12/01/opinion/ai-parents-children.html",
-      "image": null,
-      "description": null
+      "headline": "Top consultancies freeze starting salaries as AI threatens \u2018pyramid\u2019 model",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVUtOcGs1QnBiQm1sU0YxVEhEWWVwakZYWW9NWFBob2tSdVcweTZRNktadjR0WDhPTzVhVElGVEFHcHpOa01zNFZxWEdlUThPd0k2Q1d0bExrZzhfbkZGRzIxV2U5aEkyRGxXUU9SM3A?oc=5",
+      "pub_date": 1764565228.0,
+      "article_url": "https://www.ft.com/content/2b15601b-8d02-4abe-a789-7862874042be",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe7da7fd3-4e13-46d8-ab31-b28970bcc0c5.jpg?source=next-barrier-page",
+      "description": "Productivity gains from technology are spurring debate about reliance on large numbers of junior advisers"
     },
     {
       "headline": "Nvidia's massive investments are shaping the AI bubble debate",
@@ -103,8 +93,18 @@
       "article_url": "https://www.axios.com/2025/12/01/nvidia-ai-investments-openai-anthropic",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "SoftBank\u2019s Son \u2018Cried\u2019 About Nvidia Stake Sale to Fund AI Bets",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcWtsZ0pZQzNGWE5kWDl3aWpTN2xGaVhwSGlfc0JrOE1tRWdiVU9GWldGUFhZQV9WYnBQY1VQY0tlbkVPaHBGdEhlWUtRMFhxUFBGa2lNbHJReWlIdVgtc3gzOVNwRmkzb3hscVBiV3pNZEh1WXFGMTZsUmJkdnlPZTQ3TQ?oc=5",
+      "pub_date": 1764583041.0,
+      "article_url": "https://finance.yahoo.com/news/softbank-son-cried-nvidia-stake-095721630.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/EZINiF6NzNtfky_3rRjB4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/8aa5cc229d40394437ea44d17d96f7bf",
+      "description": "\u201cI was crying to sell Nvidia shares.\u201d  SoftBank has doubled down on its bets on AI through a flurry of projects that include a Stargate data center with Hon Hai Precision Industry Co., the acquisition of US chip designer Ampere Computing LLC, and plans to invest more in OpenAI by the end of this year."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T18:22:15.423300+00:00"
+  "fetched_at": "2025-12-01T18:55:18.002804+00:00"
 }

@@ -24,7 +24,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46098992",
       "author": "nutanc",
       "points": 423,
-      "num_comments": 334,
+      "num_comments": 335,
       "created_at": "2025-11-30T18:17:13Z",
       "object_id": "46098992",
       "image": null,
@@ -51,8 +51,8 @@
       "url": "https://www.erdosproblems.com/forum/thread/124#post-1892",
       "hn_url": "https://news.ycombinator.com/item?id=46094037",
       "author": "nl",
-      "points": 225,
-      "num_comments": 80,
+      "points": 226,
+      "num_comments": 81,
       "created_at": "2025-11-30T05:19:33Z",
       "object_id": "46094037",
       "image": null,
@@ -93,8 +93,8 @@
       "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
-      "points": 113,
-      "num_comments": 136,
+      "points": 119,
+      "num_comments": 161,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
@@ -145,7 +145,7 @@
       "site_name": "Pete Warden's blog"
     }
   ],
-  "total_hits": 372,
+  "total_hits": 376,
   "has_metadata": true,
-  "fetched_at": "2025-12-01T18:21:57.436177+00:00"
+  "fetched_at": "2025-12-01T18:55:01.844852+00:00"
 }
