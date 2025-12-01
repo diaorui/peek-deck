@@ -25,14 +25,34 @@
       "description": "Poems containing prompts for harmful content prove effective at duping large language models"
     },
     {
-      "headline": "Opinion | How to Prepare Your Kids for the A.I. Revolution",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkNFpMWGJsWDdLenRteG1LQjNETWVmekxXVVkzODBvMEZpYUlWUXoyUDlKYVhKeWMwTEVRUmx1aTZJN3Z1YTUwX0xDVkxNVkxoX3VoaXJKNml4RVd3MkVQR3JscWxIbkVtcXFxX0lLLW9VcGY5ZEE?oc=5",
-      "pub_date": 1764583259.0,
-      "article_url": "https://www.nytimes.com/2025/12/01/opinion/ai-parents-children.html",
+      "headline": "Why Bonds Won\u2019t Protect You From an AI Bubble",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQa3pHZVUwbVQ2bnZTWG9wOWdkNVptREc0UnpqeTJLS2tlS2hLcEtuckppREZqNTRRR21zVEZJMk83WUF2N1gwMjNyTlZ3NlhUUk1QX25jVTI5b05IOVZ0WmRsX3MzTTRuYjlhckxqbGxwMDAxUkVrck42dVNrWUxJNzgySHk0ODBzckY0aTFHQjFNY1hNYlRkMlB2dmw0NzR4YXVaaG9aUDVFQXVtOTFGR2xSbXN3d0xZN1ppWktIX2xQUmE5aE43YnNGY1pLU3FSWElkLTB5SlVpU0ZaVkZZeGJnWkdjbDhSTTM2TV9Fb1FwY1BWSkpBVGxYN2ZJdTNlQ01MTHN1YUNzUWRZTzI4b0t0ZVljVy1uVEVYdXhrN3dxcE1pelZUVXRSN3c1dDhfUHUwUUxCQk1VS0pDZlJ1Uno4cWRyeGRhbmpCQ181cXZUekdBbXB3UzlyQ29MVXBpVmgzWjl4dm5HSFoyUjhrcGNGZk11TXVzWEo4ZlFMVGpCdHIxVlFXdG94Qk5XdHFyTXFfdFZrTWczb1k?oc=5",
+      "pub_date": 1764585000.0,
+      "article_url": "https://www.wsj.com/finance/investing/why-bonds-wont-protect-you-from-an-ai-bubble-f32084fb?gaa_at=eafs&gaa_n=AWEtsqeN2GpydH97NNN7T0Ok2NIHD0jjPX5jxBQ9gV-QXiIxE_R5TZ1JMSuD&gaa_ts=692d7c1f&gaa_sig=u2_QYDBSBPlAv_I-HQVDHCdh6p54jfYfFCn8GmFyoPzs7JUw0XvJD7AKwrLSEd2lvYEiL6mNPGdvX-QbNxyXqA%3D%3D",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "It\u2019s good business to be the U.S. AI and crypto czar",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUmcxUVB1SGRLbUpLSDAzLTZBQ182QVJFb1JMSTV4OW1jYlJJQmpwanBXWk5MVHNEb2hXUVdpQUhHbWoyTkk3WEUxQjRBMzZ3VWxyVVNZWWhGeGhxZG15REFPREJGakxtckc3WUJnZ3kyTEd4YTdMYjQ3Sm1OUm9MSGVWOElaVTZOd3c?oc=5",
+      "pub_date": 1764585540.0,
+      "article_url": "https://fortune.com/2025/12/01/its-good-business-to-be-the-u-s-ai-and-crypto-czar/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-2233064129.jpg?resize=1200,600",
+      "description": "The business of being an AI czar, Pat Gelsinger on Intel, Coupang data leak. Plus: Airbus, Black Friday, Databricks, Micron, Temasek."
+    },
+    {
+      "headline": "How elite business schools like Wharton are overhauling curriculum as AI reshapes Wall Street bankers' futures",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVhTOUFWb2dWOUp6b20ybVE2MGczY2poWGlQSlFDZnhTNHkzY0JlX3FLR3U4RTV3RzBZVmVxN0dUcldGVE40Um1EVnpjQTlncWRwQXU4ZVhJWFE2ZF9NaGNhbnk1VDhUOTNPOFRJcGZvMkJfckxMOXQwRzN5b21aQ1VNaXpiTElLNFliV2lrMDZ4RnRneVNHaXp0eU0?oc=5",
+      "pub_date": 1764585120.0,
+      "article_url": "https://www.businessinsider.com/ai-elite-business-schools-wharton-overhauling-curriculum-2025-11",
+      "image": "https://i.insider.com/6927602babd5e944effb99fb?width=1200&format=jpeg",
+      "description": "The University of Pennsylvania and Vanderbilt are revamping business education as AI transforms Wall Street."
     },
     {
       "headline": "An independent effort says AI is the secret to topple two-party power in Congress",
@@ -45,14 +65,14 @@
       "description": "Using artificial intelligence to identify Congressional districts where independent candidates could win, an organization called the Independent Center is aiming to disrupt the two-party system."
     },
     {
-      "headline": "How AI can help expand your creative potential",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ReG5ycXV0cHdqdEtzWTJYU25CeWx2eHNHTHlpWmI3UjZEd2xGc25TcTZ4WlQ5ejRaZ2djemFvZUtpb0gxb05GSQ?oc=5",
-      "pub_date": 1764583248.0,
-      "article_url": "https://qz.com/ai-creativity-tips",
-      "image": "https://qz.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/skye-studios-NDLLFxTELrU-unsplash%20(1).jpg",
-      "description": "Here's how AI can help creatives work faster and think bigger \u2014 without ceding creative control"
+      "headline": "Opinion | How to Prepare Your Kids for the A.I. Revolution",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkNFpMWGJsWDdLenRteG1LQjNETWVmekxXVVkzODBvMEZpYUlWUXoyUDlKYVhKeWMwTEVRUmx1aTZJN3Z1YTUwX0xDVkxNVkxoX3VoaXJKNml4RVd3MkVQR3JscWxIbkVtcXFxX0lLLW9VcGY5ZEE?oc=5",
+      "pub_date": 1764583259.0,
+      "article_url": "https://www.nytimes.com/2025/12/01/opinion/ai-parents-children.html",
+      "image": null,
+      "description": null
     },
     {
       "headline": "More of Silicon Valley is building on free Chinese AI",
@@ -65,16 +85,6 @@
       "description": "AI startups are seeing record valuations, but many are building on a foundation of cheap, free-to-download Chinese AI models."
     },
     {
-      "headline": "James Cameron Calls Idea Of Gen AI Replacing Actors \u201cHorrifying,\u201d Says Tech Will Make Human Creation More \u201cSacred\u201d",
-      "source": "deadline.com",
-      "source_url": "https://deadline.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOazhuNTJiUHlsNUxsSDBlV1VtcGk1bEJ4WWdidzJnMkU4ZHlmdlJ2QjFNbGlBQUExMHB2cjBvX1RTZElzTXI5NU04NUpmVGJCaVpkZFJ1UGpwaWNycmxseXVfNVdNbGlmYXg0UjU5eUpXRWJobEpmWl9fTGJlM2FiNV92bGcyem5Fb09zcGtLUVptZnBCd3UzbGpDOWk?oc=5",
-      "pub_date": 1764539520.0,
-      "article_url": "https://deadline.com/2025/11/james-cameron-gen-ai-horrifying-human-art-sacred-avatar-1236631387/",
-      "image": "https://deadline.com/wp-content/uploads/2025/03/James-Cameron.jpg?w=1024",
-      "description": "Though James Cameron said he sees gen AI as a potential tool for cost-effectiveness in filmmaking, the idea of it replacing actors is 'horrifying.'"
-    },
-    {
       "headline": "AI influencers are now boasting personalities, backstories and even making ill-advised decisions",
       "source": "New York Post",
       "source_url": "https://nypost.com",
@@ -85,26 +95,16 @@
       "description": "AI personalities\u00a0are convenient \u2013 even if they need to be programmed and coached on what to say. \u201cWe used to do campaigns [with humans],\u201d Garcia said. \u201cThis is different. [With humans] you have lim\u2026"
     },
     {
-      "headline": "America\u2019s Tariffs Jolted the Global Economy. Its AI Spending Is Helping Save It.",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxORlJoVGoxamxaZnpSTkhPWm5TS183VnVadmhuN09ETHFha1lZZWlFSkdLZlMyejZaSUpHRmRJR0NTd1RFcHJQVnlwcU9VR2Z6Yl80R1ZvMVluRXRlOTdxV2R0TXNqa0xYR2U2UmM1SzdiN3p1UzdjVUFSZEVjYUlZN1BKMGhwTXlRc2ZCVndvQ09sWkVsQWZDOTJlWk1ST29ZY1kwYWZwa3UzWkd3ZHNlWENCMXV6UGhSY2JSOWxoaXB6QktqTWJUTXYtVGs2UW1NQXZDaHQxR1gxUHB1QW9NT3lEZ1RsV1lBRUhLU2ZXRk82al9iY05TdFZLX05rNTJHQl9xdExyQjFCX3NkUXhBd1JlY291QXRoa1VmcmxweHZJS2FVMFVXQWhJTGZxdWU2STFMOU5INXhUM29Hem1XZWp6bFRYYm5wajBUVXJrckpqUlkybkJIQjdxUnBFSHZHS294NWZBNlNGaXY5c0JNdm5samozLTVTdVVNU19rX3EtUWh5V3JfcVN6ZjQtdEVWRm9uOGpydXZrMUxRd3dXbUxoQm9Vc2hndmF0SnlNY0FmLU5ER0tTaFhER1k5Y1hDU3c?oc=5",
-      "pub_date": 1764561600.0,
-      "article_url": "https://www.wsj.com/economy/trade/americas-tariffs-jolted-the-global-economy-its-ai-spending-is-helping-save-it-9be60ee0?gaa_at=eafs&gaa_n=AWEtsqeVEw1JelsWL1nNuDilGqJP8ICTMuh9PM1Dme_tk2zQE74ah9418LxU&gaa_ts=692d72a3&gaa_sig=k7vzFpy4tJ-acdWOeV8BZ56xUNgJprp58fJYJ8O82miqEm-lx3yf_n6s2wQmHALBiAVUSce3SQ-oIEAm1qRRCA%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI-assisted shopping is the talk of the holiday shopping season",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHc2a2J6SXhHQ3IzbEstNHpwd0pxMkpEd24yOWMtc0lzOEZGWVVEcU1tdHhTOU1HazdUaXUzeGVDcHlvNVVJbmxFd0RQMXlfY3RuVkVXTnVLNkhveF9FRjl5TkxKVU4zS0hGY2FPbXRNU2l3TklhUDFxNmJQWnRSX0Rmd0R0UFU3SFhiaG1BaFRITTY4Z0tLY29KeDZEOHhLb2doTDBOVmZYcGFF?oc=5",
-      "pub_date": 1764517320.0,
-      "article_url": "https://apnews.com/article/artificial-intelligence-holiday-shopping-chatgpt-0722dce44b4a479ec4ce476bbd15dfa9",
-      "image": "https://dims.apnews.com/dims4/default/e845f34/2147483647/strip/true/crop/2910x1637+0+151/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fba%2Fcd%2F83f3f457e4f65fdcd681f1861188%2F16a354b951004bbbb41acb33725a0d19",
-      "description": "Major retail chains and tech companies are offering new or updated artificial intelligence tools in time for the holiday shopping season."
+      "headline": "James Cameron Calls Idea Of Gen AI Replacing Actors \u201cHorrifying,\u201d Says Tech Will Make Human Creation More \u201cSacred\u201d",
+      "source": "deadline.com",
+      "source_url": "https://deadline.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOazhuNTJiUHlsNUxsSDBlV1VtcGk1bEJ4WWdidzJnMkU4ZHlmdlJ2QjFNbGlBQUExMHB2cjBvX1RTZElzTXI5NU04NUpmVGJCaVpkZFJ1UGpwaWNycmxseXVfNVdNbGlmYXg0UjU5eUpXRWJobEpmWl9fTGJlM2FiNV92bGcyem5Fb09zcGtLUVptZnBCd3UzbGpDOWk?oc=5",
+      "pub_date": 1764539520.0,
+      "article_url": "https://deadline.com/2025/11/james-cameron-gen-ai-horrifying-human-art-sacred-avatar-1236631387/",
+      "image": "https://deadline.com/wp-content/uploads/2025/03/James-Cameron.jpg?w=1024",
+      "description": "Though James Cameron said he sees gen AI as a potential tool for cost-effectiveness in filmmaking, the idea of it replacing actors is 'horrifying.'"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T10:34:38.539753+00:00"
+  "fetched_at": "2025-12-01T11:14:55.666931+00:00"
 }

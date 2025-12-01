@@ -5,32 +5,22 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin, Ethereum fall sharply as crypto sell-off resumes",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
-      "pub_date": 1764574221.0,
-      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
-      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
+      "headline": "Bitcoin Tumbles Back Below $90,000 as Crypto Traders Feel \u2018Extreme Fear\u2019",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNQnNKeF9aQ0E1NGFEVWxaZWdfRjBTT2xwOVpJX0k4NTRZc3NmcFVuZGdSR1dDN2JKeUlkOWdma1lzT045TmJkOF92NW55ZEVOZk11WWlzS18xdnhfR1JsazNPUHhhTG1aWHdSTVZOaGJWWWE0bzhscThTeWVnd2xTWF90VHpub3B0MFkzWWlPa0p3RkxTaFBBSXVlMERocGoxWTJMaWNCcGljNkRsdEIwWVlEUmV1N3ctNnBibVhZaTk0cXFkZFRBUndqR3VvZU5PVFAzRkpuSnZEM0tOMklodjFoSjlTNWV4RTF1SXhLSzhUbHFEM0hxUnAzR3YxUFRhaGoyX0E4eU5YWk4tWW1PMGExNXI1VlRjY0pqVzhCb0xheFV4QUdvaWIyVy1kWGZKWFRYVW5LTnE1TG1kMk9DcThPZDg5dXRuVE9Hd2kxUTFzcGJpVTBxQnQzVTNteVNiMlVWdVdPbE1ZWE5ZcEY1clktZTNpa05BaFA5NE4yYXVfUQ?oc=5",
+      "pub_date": 1764583500.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-crypto-ether-xrp-ccf23c85?gaa_at=eafs&gaa_n=AWEtsqdrie0gynIJC3kNYIYAI5plUcr-oDZIvQqJbhnYVIjGYW73g2kmGaAo&gaa_ts=692d7c20&gaa_sig=GpRayB6ge2SM_H4s4I6bE3zT3i8tq6qCtaQFtcyZw_hu64OsDLsijm_9TWiaKaZceXAmX61SAxFknjIqpV8I0Q%3D%3D",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Bitcoin Plunges to Below $86,000 in Risk-Off Start to December",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUdmTW5acmg0ZS1VQ1REN1NCSkNKMEdxaElrRFhGcWc1TUZFYVVwOWhXOUxNNTUwdklsWl9wVUJKRXBGQmdjcHFlMEljd1dEV3hZTTJna1NNdWY5ZTc5dm1QX2ZHX3ZoNllRaU9teTFJUFRkamg3b2U5d3l0emU1Qzg5c25OWlg3bzFsMHVOY0ctU0NMSk9UbHNRVE9OTzZocTJvSjZIVldQV0JaV1VOTC12YTVWQQ?oc=5",
-      "pub_date": 1764583419.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-01/bitcoin-btc-slides-to-below-88-000-in-risk-off-start-to-december",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJlucFPfEV8M/v0/1200x800.jpg",
-      "description": "Cryptocurrencies fell sharply on Monday, bringing fresh momentum to a wide-ranging selloff that appeared to have settled."
-    },
-    {
-      "headline": "Bitcoin drops 5% below $90,000; bearish factors rack up",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVUgzOWlhMW9jYVV3Z2hHMFJmSXpTaC1Tb0N3OE1WNXo2eU1MYTVEdWRDNGw4Zk1FVzdFZTIySVRNYTdoQWIwVXVTcnNrZmp1ejViMThIcHA5X3JfRDFTaHk2amlNcHNNNzBsWXRiSkhWNXM4UFBvYm5raEc4WWFxYmo2ZnpCeDdyTDBsa1JZU1loRnVQNXBtVFFXRGRwMDRUQXdBdXVxRVQyVVBr?oc=5",
-      "pub_date": 1764584443.0,
-      "article_url": "https://www.reuters.com/business/finance/bitcoin-falls-5-below-90000-investors-ditch-risk-assets-2025-12-01/",
+      "headline": "Bitcoin\u2019s slumping again. The biggest corporate owner admits it may have to sell if things get worse.",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQeVJVTDRldHFjeUJqVkVDdmJjWXpkZ0Q3Nko4RXA3dEdURTJraGd0MkRSUGFxcmhPUTA3Zmg4OUp5VXhHMTB2ZjQweEtCNTNXeVpJLTR3dHBxN1NpZWYtdFVzVHEzOWh3SWZtREZqUThIVE1tc2RvbFlmMWlIM1JtWDB4ek1tWldaemprWjcxX01tejZuZ2M1eVU1aDE2aWV4TEI0REJmVW5ZS2hDSXBRNlhQZGpQb0Z0V2wzTjJFSkx5VW9RamlpUEtBbDAxQUlhQTI1aFhnd0pTQWZuRlBWT3d1NkxMRXdZUDZaVDF1Wm1nUlZHQmZsWEY5RG5fVXJuZmdYX3lXUlVIcm5ubEJRakJ2cFoxMnNPQS1oamZ0Y2w3bEFRTldlaWRscHZSeGk4SV9qQzlXS3ZJN2NoaVoyMUZDMTN6cVYzS3pIbE1hUjg5MmlOTEFTN0dOQTBTYlRkaXdNUzZBSFR3bjJuX1QzWUpFaUtVVU5uMy1JLVpjOU14ZzZHdXZKQUh3aXdCTUhCcEZ5VWdjamFmTWpIR282ei1nRWVGOUItLVZ5a1FwdTlCY0JBNElNZ0RfZUhMU0JtUjV6TGlfTTdCOEhPTHNhNEh2YkQ4cGJaX1BJNU53?oc=5",
+      "pub_date": 1764585000.0,
+      "article_url": "https://www.marketwatch.com/story/bitcoins-slumping-again-the-biggest-corporate-owner-admits-it-may-have-to-sell-if-things-get-worse-ce77b7a3?gaa_at=eafs&gaa_n=AWEtsqdQ6_vW4ct8dkl1tlUEaviqZtA8DI3nCsSCP5p-Skorr_6aBV2GOUQ8&gaa_ts=692d7c20&gaa_sig=CFGhoLPC1pRbxwcl1E1nv5tVI3uwVCbC_tzY_VT-V6wKiAzGuQ-f_tph2OCxmCKWEZDipwu3XVai6Zt1hKg4_Q%3D%3D",
       "image": null,
       "description": null
     },
@@ -45,66 +35,76 @@
       "description": "A weekend crypto crash triggered $524M in liquidations, with fears over Tether's stability and DAT selling pressure acting as key catalysts."
     },
     {
-      "headline": "Spot bitcoin ETF outflows hit $3.5 billion in November, largest monthly outflow since February",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yUWJzdUdmWGVsblR5OXhCM2tRRnpUZ2lGRVBDR3RSTHlhQjhVN19rb2xuMjJHVWt2aUl5VHpOMEsxb05XblRsWU5GSmtRajVKZ3BOUmZ5b1prc2tYT3BMTzZQVG5LeElBLTJqVGIyWVFERHg3WGs1YtIBfkFVX3lxTE5NXzdlaGl4Q0VVNnlWbnB5dElzWEw0RHBKb1pGMXVYLWtudDZfd0RzTnF4QmlTVjhoQmcwQVlsWTYtRG1YbzVIWFZkeXVUN25pMmpsazdrNEhobWRVSkVpRDZQbUptanRwVnFCeUI4X2JKUjdGNVZ2dWhMS1M2Zw?oc=5",
-      "pub_date": 1764573372.0,
-      "article_url": "https://www.theblock.co/post/380847/spot-bitcoin-etf-outflow-november",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin ETFs Are Now BlackRock\u2019s Top Revenue Source, Exec Says",
+      "headline": "BTC, XRP, ETH, ADA Plunge as Bitcoin Drop Liquidates $500 Million",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkJqSjQtejAwZlozSFBJbE9qb1FzeXQzZEI1azQxeDR6RzJQTGdnRlpIVFpaYUtaRnI2TTNIZFdiMEZIcDZGWERJZVluTHh0ZllOb2ZkWHNWOGw2ajBKU2gzR2lfdlV5NEk4b0duVWJ2WHNwNlowYUd4eERpVEJjNFJiS2JMVHNHSmt4VHVjOWZHRjBiRDlNc1F6NVlBR3lLU3YzZVdVMnNldw?oc=5",
-      "pub_date": 1764449533.0,
-      "article_url": "https://www.coindesk.com/business/2025/11/29/bitcoin-etfs-are-now-blackrock-s-top-revenue-source-exec-says",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/07a827345ccc0e20ebc51a483d901d483c6fcf4f-1919x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The firm's US-listed spot bitcoin ETF IBIT, launched in January 2024, reached $70 billion in assets in record time and has generated hundreds of millions in fees."
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0hkTWw5STMzN2lGaTNCZ1dOODJfaUR2TThUZ19qak50UjN6cjNrYmlkNVBSbm1Cb0NFY1lkSm1ReHk0T3FpZEo2amxSVXV2OU5ZdEcwTm9yTDlSQXJiaERBY1QxZHFkQUFldy1BaDkzd1pYZDlxWll6VTdwMjRjZjNnWFA4WnVRQml2M2tTSkNZb2xTRDRKWmhxT2tpVGVHa0NYcWJLWGV2a3B3YXJUNWNLREJIVzM4WWt3?oc=5",
+      "pub_date": 1764565623.0,
+      "article_url": "https://www.coindesk.com/markets/2025/12/01/bitcoin-drop-ends-up-liquidating-usd500m-bullish-bets-in-early-asia-trading",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/9730992bfef63e39d6fca7bbef61a9ea9d379012-1920x1252.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "Binance, Hyperliquid, and Bybit saw over $160 million in liquidations each, with longs making up almost 90% of the total."
     },
     {
-      "headline": "Key facts: Bitcoin at $90,330; BlackRock ETFs lead revenue; IBIT sees $2.34B outflows",
+      "headline": "Bitcoin Meltdown: The Surprising Winner Rising From The Chaos",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjBDV19udWVKUF9rRWVkM3VUaEFraDlSVkxPVzE5SDZ1RW1MdVJ0Rjl5UWRKYWt4c2JDeGhXNW1yckdINEN5TDJlX210YXpYMzB6UG05cnlueVU2ZFZPVWh4eC1INzc3ZHgtcmxNZzlaZlhzeG5IMDc2N0U2T29lV0JJNHhmbE45RVM4bkczcEQtQTlSYTRrM3d0NEoyM2JTSDJxd3BkSVhXRmdDN1M2MXlPYVNHT2V4?oc=5",
+      "pub_date": 1764544103.0,
+      "article_url": "https://www.forbes.com/sites/robertdaugherty/2025/11/30/bitcoin-meltdown-the-surprising-winner-rising-from-the-chaos/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/692ccd4d4843c910bdf61ddd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "After a brutal crypto crash erased billions, investors are turning to stablecoins. See why Bitcoin fell, how Jamie Dimon views digital dollars, and what Web3 means next."
+    },
+    {
+      "headline": "Bitcoin slides below $86,500, wiping out $144 billion in crypto market cap",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HVFdiVHk0VUtQRmVRc1lvZzhDM3EtdDVPVzVweExBZnFWSW1PNWVkMHpKRUo2NnU1aUwzTnNtQXVTT2Y1cmR5bHFPOTJ6SHdWbXRONGZOMjBmdHNqb0ppYk9nV3N1NlRxeU0yNl9sSdIBdEFVX3lxTE5qbjFiR1F3bjN1NWJVaWlnbnBFSlhzOGF6ZkpPQXNMS0VreXRDZGxjSzJxQmYxNTM1WGhyUVZyRE5ZbFpNMnN6Q2hmbFNWdWtJRUsxbG5lZzFGUm1VR1hYM08xell2cWpOQlBiVnUwY2JCXzB1?oc=5",
+      "pub_date": 1764561771.0,
+      "article_url": "https://www.theblock.co/post/380835/bitcoin-slides-below-86500",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin\u2019s Price is Falling. Is Tether to Blame?",
+      "source": "Cryptonews",
+      "source_url": "https://cryptonews.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTdSZDhpXzJhNTJxYmJLa0NFeXMyRS1QdWotcG1VVVBNUnBqWEJkLVluS3pYYUdUSXFvMm43XzRqZlU3M01ldDNUazJMOHduUnA4QTE3V3d1R0tOUnk0SUI4V2tWWXZMdXdZQWFxTkIzYU1BdWRscjhfLUJLcEpPYkp4WjdSZw?oc=5",
+      "pub_date": 1764581408.0,
+      "article_url": "https://cryptonews.com/exclusives/bitcoins-price-is-falling-is-tether-to-blame/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Elon Musk Calls Bitcoin a 'Physics-Based Currency'",
+      "source": "Bitbo",
+      "source_url": "https://bitbo.io",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zMVFTSlVfWFlBc2xONGpWeUd2Nmp0V0htVWtiZVNsWHkta2lwYkstY0ljRk90SXpwVF9yYlJEbDJzWTEyVEZreS1pRXNnYjQyc2lZVWwxbndFU2Q4TGc?oc=5",
+      "pub_date": 1764527451.0,
+      "article_url": "https://bitbo.io/news/elon-musk-bitcoin-currency/",
+      "image": "https://bitbo.io/news/images/elon-musk.jpg",
+      "description": "Tesla CEO Elon Musk described bitcoin as a fundamental, energy-based currency and predicted that money could become obsolete in a future dominated by AI and robotics."
+    },
+    {
+      "headline": "Bitcoin Collapse Accelerates as Gains Vanish and Sellers Take Full Control",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUTNzWDdZUEdXUWEtVzNtU1F1ZXRRZDIzT3dOak1WVnBhaWN4SWVXakNKODNKYWhfUVBRd0hIdks5ZFhnV0owc1gzaDFfaC1FLXBLcFVka2pZM1JRWk1KZVBMMHV6d054dlpCTGNBeEhaZ0VSS19ZLUxEbFUwT1dPVHlXVE1wX1JNd2tlRm1UTkladGw2bDJ5RWpCY3o2dFo3VHJHdHRqaFNkWW9sSzY0TExrN2NIYURYVFFnOGZ2dDc0ZzI5YjR5SENaNTA2a19Jd0NjeTFjMDZkUQ?oc=5",
-      "pub_date": 1764547380.0,
-      "article_url": "https://www.tradingview.com/news/tradingview:df80cb09eb219:0-key-facts-bitcoin-at-90-330-blackrock-etfs-lead-revenue-ibit-sees-2-34b-outflows/",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbW00dTVfNS1yTVREdnBzMEVpb05teUc5aTlSNlNsRWlpTXNXNmlnb2hBaDRLaThZTldBS0Fob1FIZXBPWG1zbGYzS1RyZWxnQUhXNzMwMkZNQmswb2haQlBRdnkxc3h6U1l4OUdGb1VpV2NhT0g3WlpWMEVzdlRTTmgwbmhuYUdpZURLWWZHTUVsVXFPa0tIcXdNUlVIU2JFZVdDckdZS0g1SmU1aTV2VS1GNjRsVWZmNVV6LS01Vm0yc2YyNGJzaGt2M1I?oc=5",
+      "pub_date": 1764558960.0,
+      "article_url": "https://www.tradingview.com/news/newsbtc:5d62809e0094b:0-bitcoin-collapse-accelerates-as-gains-vanish-and-sellers-take-full-control/",
       "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": null
+      "description": "Bitcoin price started a fresh decline from $92,000. BTC is down over 5% and the bulls are struggling to keep the price above $86,500.Bitcoin Price Dips AgainBitcoin price failed to settle above the $92,000 resistance zone and started a fresh decline. BTC dipped sharply below $90,500 and $90,000.The\u2026"
     },
     {
-      "headline": "Here's What History Says to Expect for Bitcoin in December",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSFBiQkdDVTVmUFZQWVdic21peGZucmtpOGQ0VHM4cGV0QlI0RVVPbHlsQzFYdVZMMGp4UW42RXFTSjlOZUdOUl9jSGcwdVRGb0NuZVk5dGRKN3dqejNuN2xfYWg0X3JnQ19jX1dVSnc1QndzNmZKanlWdmZ0WXlkLVN3bkZhR2g1TDBZYWJ5UFBHOGRQdXpXdw?oc=5",
-      "pub_date": 1764523800.0,
-      "article_url": "https://www.fool.com/investing/2025/11/30/heres-what-history-says-to-expect-for-bitcoin-in-d/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843884%2Fbitcoin-rainbow-logo.jpg&w=1200&op=resize",
-      "description": "Having low expectations is a great way to feel pleasantly surprised more frequently."
-    },
-    {
-      "headline": "Strategy Insiders Kept Buying Preferred Stock as Bitcoin Price Slid",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNVHFVVjh3SU1ZZXI0UVZkbVMyemk2ZW9qZTEyb1VtaE5vX3RybDlHNnpqXy04M3ZueDc1Ynh6eUZzZDJ4cUpUVERwT01UZEdjV25LMWNvRW1JRk92b2g2M0QzRlo4cGJzOWdFMUhRdEdCUmp5R2RfWTZ3R2g0bzd3T3FiUmxaNGg4Ql9qbGQtTy1hNHZNaHA1RVNTQzMteXBodHp5Nl92N2U0aE04cHdnUGw0bG1LWXdaSHhidWJ2cTJxcjl5eE5IVDlTNEs2QmhVMDMxMWxBTFlpMVFRM0kwTTdvSkdtTW4wdGpQTXFIQmlIR2EwOEc2dDYtRW1rNjJTbTA2Z3puS2dMOC1Ha2xJMnJaM1RRcDNGSFFsN3RSM3c1NlF3aTdvY1JZSFN5MXpsUGFjRU90TDZxWDlUVWRza3Z2RjdYYVVGVHJUcFZMXzFmaktZcFJ4OTJKOUtPOS1LS014WWl3NVIwc1FCTVBFSVFoSHY0dzdTSWh2aDJXcEFyVnRv?oc=5",
-      "pub_date": 1764487800.0,
-      "article_url": "https://www.barrons.com/articles/strategy-insiders-bitcoin-buying-79756b79?gaa_at=eafs&gaa_n=AWEtsqfDumWGcyZGXR73M6nMu2DcykLEnhvRmz03haS0XuSwOGnXPcAfynqG&gaa_ts=692d72a4&gaa_sig=ogrWDS7O2ZLfoqUXWgaeI-4eUET8i2zW86sJZ6G3TA3CPAXS9PFEwZ4nMhq5oIapjvyMXA6ca7JSLAtGmv2fUQ%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "21 Rules of Bitcoin",
-      "source": "x.com",
-      "source_url": "https://x.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5NHFLOXVTbnR1SGd0TkNtZVp2NDFaY0Z3V3h2dnExeHhkUVQwYy1sRDVoNXoyMTY3THJGSWVrOXgweDk5a2NNZjNfekNMY1pldm1wNDQxQWE2d1k?oc=5",
-      "pub_date": 1764423803.0,
-      "article_url": "https://x.com/saylor/status/1994764128901370349",
-      "image": null,
-      "description": null
+      "headline": "1 Big New Red Flag for Bitcoin, and 1 New Reason to Buy the Dip",
+      "source": "Nasdaq",
+      "source_url": "https://www.nasdaq.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVk5XVENiNXlXTVVWQVEzbDBTbVlNRVRPS1VqdDRUclhVTHdyQURfNU5ocElaU2Nzc1pReUtFWkdYUnUtMmhVcEpDZ0ZLMHpfMVRXeHdaeUhscVI4YVg0RjhaOEhjM2xrS3FNQU9wMjBqUGJvTTYyWlYzN1Zsc1VuU2JYc3dfTWMzeWI0?oc=5",
+      "pub_date": 1764491400.0,
+      "article_url": "https://www.nasdaq.com/articles/1-big-new-red-flag-bitcoin-and-1-new-reason-buy-dip",
+      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+      "description": "Key PointsBitcoin's memory pool suggests the chain isn't getting used much right now."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T10:34:33.190494+00:00"
+  "fetched_at": "2025-12-01T11:15:11.138765+00:00"
 }
