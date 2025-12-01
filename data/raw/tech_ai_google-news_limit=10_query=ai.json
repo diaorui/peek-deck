@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "AI\u2019s safety features can be circumvented with poetry, research finds",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQVMtZVgxbHprSjR5Qlc2QUs5OTV6WERHdnpLaUZfYmF5UkMybUZCS2w2Y19oZXZMYmZQRTh1bVJrUWZaOHRobU5OWDloZUpjNGFfOTcta1haYTA4alZnYnFqM1VWSVgwX2xuX2tPV2ZFYlloV3hKUTZEcVlaWGRGQUl5aDdYXzV0OFFZSWxrNA?oc=5",
-      "pub_date": 1764511320.0,
-      "article_url": "https://www.theguardian.com/technology/2025/nov/30/ai-poetry-safety-features-jailbreak",
-      "image": "https://i.guim.co.uk/img/media/d1e92f8f9cdcdfaecedbb1a022ae3002a5f6b9c3/0_591_2832_2264/master/2832.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ef641cf144176dd005591011786ae62",
-      "description": "Poems containing prompts for harmful content prove effective at duping large language models"
-    },
-    {
       "headline": "More of Silicon Valley is building on free Chinese AI",
       "source": "NBC News",
       "source_url": "https://www.nbcnews.com",
@@ -25,14 +15,14 @@
       "description": "AI startups are seeing record valuations, but many are building on a foundation of cheap, free-to-download Chinese AI models."
     },
     {
-      "headline": "America\u2019s Tariffs Jolted the Global Economy. Its AI Spending Is Helping Save It.",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPZTAwMFcxWmdVaU9iY3BIRFZvc3YwSmI1OFdHdDVxWDZFSkx0YTlGQjVLa1dCaXZPWmNGSXR0cno3YXNvWUstdHVvTUdKVmRDOFRkakRmS1g3bmxlYlhqemJkN2stVVc2WEZsOVpKRE5XQk9fQk5FanZNVEpRc2ZyUVQ4Z1FrbVhWbFo5Y21DUUF3Z3N2ZVNZbXRFLUlXanZRZk9ZOXBkZXA2SmZsdk1TZzA5dFM0LUdkOEVjYVBCXzczMUNZX01YSUNhU0YxdEpnRnVBMTJOTlFaRDh6YTZ1V0l3bjFaLVdmYTFzcDV3LXZ3R0h5WllRaks1cmFna3Fwc0xWalhEQW1VQW1OYzhNRS1yY0xibmNpeXptZTh1ZnA5YkR1V0V5S0E4cFZQdVJtaVFPMV9ObjFvQk1RUkNjZWFERHJrVFk1VWhic1lKSnFKT3VGMkEwX2xYTlJZUmw3YTF2azVpRktma2QyR3RRcEdFQzN4YUtOM2VUMnI4SVR3ZkpCNjFrd0pzQkNxMmEzRXhXS081U0dFY2NuLV9zMURhQi1hNU1PSzRLZ2wxZmsxMTNaWmV5NUhWOXhkYWswT3c?oc=5",
-      "pub_date": 1764561600.0,
-      "article_url": "https://www.wsj.com/economy/trade/americas-tariffs-jolted-the-global-economy-its-ai-spending-is-helping-save-it-9be60ee0?gaa_at=eafs&gaa_n=AWEtsqfoULugMP2CfpD9uz6k_IhCjNbSucA8ABO5D98c6rSYP_ABqUmlZZzK&gaa_ts=692d3778&gaa_sig=dDQTXGsWhSQ7TEJ8BQ7erzD82faYdkLdfqy8jXPSpbTN6UVzUEA_Na60eCriBB-rcqqT1PAIsVofKYsauHB7xA%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "AI\u2019s safety features can be circumvented with poetry, research finds",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQVMtZVgxbHprSjR5Qlc2QUs5OTV6WERHdnpLaUZfYmF5UkMybUZCS2w2Y19oZXZMYmZQRTh1bVJrUWZaOHRobU5OWDloZUpjNGFfOTcta1haYTA4alZnYnFqM1VWSVgwX2xuX2tPV2ZFYlloV3hKUTZEcVlaWGRGQUl5aDdYXzV0OFFZSWxrNA?oc=5",
+      "pub_date": 1764511320.0,
+      "article_url": "https://www.theguardian.com/technology/2025/nov/30/ai-poetry-safety-features-jailbreak",
+      "image": "https://i.guim.co.uk/img/media/d1e92f8f9cdcdfaecedbb1a022ae3002a5f6b9c3/0_591_2832_2264/master/2832.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ef641cf144176dd005591011786ae62",
+      "description": "Poems containing prompts for harmful content prove effective at duping large language models"
     },
     {
       "headline": "Elon Musk says AI will end America's debt crisis within 3 years",
@@ -45,14 +35,24 @@
       "description": "Elon Musk says AI and robotics will solve the US debt crisis within three years by driving productivity beyond inflation."
     },
     {
-      "headline": "How AI\u2019s hit to publisher traffic is quietly rewiring media M&A",
-      "source": "Digiday",
-      "source_url": "https://digiday.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbG1qTC1IdENqRGYtZktUYjdMNEhpRGlNREdYTUZCOGg1bzRvMFVMZEt0U2RxTFpSYkJJcEkzbm5DWXMtdlJtaFVJOFVtRXI4YW5kOG9iTUlBYjI3VDNsYXloQjJPRHhhbS1ZaGFtZmpONWI4YUUzQnF3YVdhc3lkVi1DNkZCSUFSa2NTTUg5Vk1VZw?oc=5",
-      "pub_date": 1764565364.0,
-      "article_url": "https://digiday.com/media/how-ais-hit-to-publisher-traffic-is-quietly-rewiring-media-ma/",
-      "image": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-talking-digiday.jpg",
-      "description": "Publishers\u2019 AI-driven traffic declines are cooling M&A, stalling deals and lowering valuations. Some analysts are optimistic about 2026."
+      "headline": "Top consultancies freeze starting salaries as AI threatens \u2018pyramid\u2019 model",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVUtOcGs1QnBiQm1sU0YxVEhEWWVwakZYWW9NWFBob2tSdVcweTZRNktadjR0WDhPTzVhVElGVEFHcHpOa01zNFZxWEdlUThPd0k2Q1d0bExrZzhfbkZGRzIxV2U5aEkyRGxXUU9SM3A?oc=5",
+      "pub_date": 1764565208.0,
+      "article_url": "https://www.ft.com/content/2b15601b-8d02-4abe-a789-7862874042be",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe7da7fd3-4e13-46d8-ab31-b28970bcc0c5.jpg?source=next-barrier-page",
+      "description": "Productivity gains from technology are spurring debate about reliance on large numbers of junior advisers"
+    },
+    {
+      "headline": "Productivity Is Heading for a Slump. Why AI Won\u2019t Come to the Rescue.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNT0FOSFUwaEJpSndmbFc2V1BremRuS05FTm9FUFB1WXF0dlVRUnJ5TkFLT2NPWnNfZ0YzeWM0RVY2b2t6SkRWclI0UE0xZWdqRU8wMXFsZTBOQWhSemR5d2cwR2g3a0VFSU9TLUQyUFNtNFJxd3oyVS1PdzdsTWkyMVBZcTg0eXR0X085N0VRQ1VtSVdZVGlHTmQ2ekZuclRhQ0owYjVBS2FlNnVFT21kOFR0SGgtMU80UzZrMEdiQ0poVUEzTlBDdHoyOE53eU56RzZzS2dUQVZ2M3dQVE9ZOEVwMW9FWHJDeV9ieW8ybzNQN0Z0UHI5aTd4ckl2SWlZRC1TQmRJWi01ZmJkcWxFVHJUVWpmVURiYjNwZHNwOHpDQnlKM2ZmQXFJTmwwSFJxRHJkOWtVdnF5djE3cENwbTloUlZ5SVdBN2lFNzN5Z2Qzem80c21EX1ZRQWo5bGwzZFlyYzF6QkduYmJSOXQyZ0c5djRpa3NTenZseW1RRGNjYzBHTkhOUVNlTVk0N1hDX3otQnVSeC1xeF8t?oc=5",
+      "pub_date": 1764568800.0,
+      "article_url": "https://www.barrons.com/articles/productivity-ai-innovation-economy-inflation-labor-2b885625?gaa_at=eafs&gaa_n=AWEtsqdBdYrWUfrof79X4lPhZzjS68KDlXGUQOLKcfE3ubctgU4sjUHaFItf&gaa_ts=692d3f07&gaa_sig=vNgNjIRMzPBmiXmw-6jcyWEHwJM_CQ6ZtF9IDDDW8mNpz7cphoUbnVO6jaGyBCwYglXcZNfreimemrcoJ7MWXQ%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "AI video slop is everywhere, take our quiz to try and spot it",
@@ -75,14 +75,14 @@
       "description": "The skills that students will need in an age of automation are precisely those that are eroded by inserting AI into the educational process."
     },
     {
-      "headline": "AI doesn\u2019t add up if you neglect the mathematicians",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JamNsTVRzNEM5UHkzSXQzbU9Pdjk1amxZa21BZVZkOEdfQ3k4WGZLSlVDU2FpbGJhT29CUjVMclJfU3J0bUlHbWN3R3IxUzV5M3pPQ1VIQVFOT3dlYUJwN09LWURVSG85U2RXQ0J6RFI?oc=5",
-      "pub_date": 1764518402.0,
-      "article_url": "https://www.ft.com/content/b05318d1-12e5-49f1-9950-47e8b0f809ae",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7a949be0-e5b3-4edf-9789-33bb80a5dbd2.jpg?source=next-barrier-page",
-      "description": "We are failing to invest in the mathematical community at a time when we need it more than ever"
+      "headline": "America\u2019s Tariffs Jolted the Global Economy. Its AI Spending Is Helping Save It.",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNTHNHcFJnc2JBRzE0c2YyZnJZdEFlMGNuZ1U0anhncHlnbW5JRk9kcktuaE9EY2d6S2g1Rm0xUk1oYWxxdE5FLVA1LVZYODFEZy1UZ3JaYy15b3hTeG92Nk44RnZjdHRFOVU1Sk9CSkVxT1ZJeGZpMGhIOWUteDgzbkNac1F5anl3WGU2U2xkazJLTER3b2ZPblNsYmVJWFpMbzJOUTlKdjdIMHJZX2w1YXJVTVVfQmFiOTFtbFFMczNlSVdYYTU5NmZfaXBaczNfY2xfdzZjclI2RVE3dHRXMkdsb1JBS0VSYU9YR2Jqd0ZQemMzWTVES3RZaXBZeGVrU1VlMloyN3J2aHRTaXdyZXhJSDdheTcwaE1YX2Z0S0pRMU0tN2Zsa2hpbGtNd0FkejRxUFNZeG9ETEVjcXpxemUyb3FPTmhRT2VXT1plVG1KME0wNzNRM1ViYnZWc3lfYi1SY1Jlcnc2NUxwcm5mSWd3aF8wNHY1dmJKNXdaMjNFVnJOVFdkVGtuRjVBMHN6SWt2SFdhVVI4ejJTa2tOQlRHbjNhSGJwMjIyZnh2NUU3VXlVYURpS3lFQWQ1RW5ncmc?oc=5",
+      "pub_date": 1764561600.0,
+      "article_url": "https://www.wsj.com/economy/trade/americas-tariffs-jolted-the-global-economy-its-ai-spending-is-helping-save-it-9be60ee0?gaa_at=eafs&gaa_n=AWEtsqeN-pnA0b0VdYrScdyWzbwWir-LZ2PUtHIBt8O6qLzHCSlX6794eyDx&gaa_ts=692d3f07&gaa_sig=mvupEUHeTPgu5AmE3TDRSTB2wu9GLtmQ6iAiXut0z3jEv88EfeYZybx4VRaBN5nPBiDObxiWu109JwFYw7VgNA%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "ByteDance\u2019s TikTok Playbook Is Winning Consumer AI",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T06:21:59.884354+00:00"
+  "fetched_at": "2025-12-01T06:54:19.171526+00:00"
 }

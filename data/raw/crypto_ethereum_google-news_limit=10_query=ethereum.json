@@ -85,16 +85,6 @@
       "description": "The native token of the Ethereum network, Ether BINANCE:ETHUSD, is undervalued in nine out of 12 commonly used valuation models, according to Ki Young Ju, a market analyst and CEO of crypto market analysis platform CryptoQuant.A composite \u201cfair value\u201d using all 12 valuation models prices ETH at abo\u2026"
     },
     {
-      "headline": "Why Bitcoin, Ethereum, and XRP are falling?",
-      "source": "FXStreet",
-      "source_url": "https://www.fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ1ppcF9PTlBEVkd5NTQ5NVJ6NnJZM0hMNURab0pDZWxaenZPU1RBVlVMbzBHU2hmbWIyYlM4eTNSVEdnMFo4aWpTcFlQYnF6Y0RlMEJKbUhUTDBXTEI2TUhBTFRobHByV3pNYTZxaVVBMVNoNlV3WG1pSVJVQnJCaWh2d3dEV3drU29IM1VydzJsanBTendiaHA4QnNQQ3NONjhZVWVRYkdVSHpTWXNNRlVEbFRLMXNTbF9QTTRVbUdEd09iUk1kQUtZbDBWNFdXN292YWdGQQ?oc=5",
-      "pub_date": 1764565200.0,
-      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-xrp-face-major-losses-as-december-begins-202512010500",
-      "image": "https://editorial.fxsstatic.com/images/i/bitcoin-explodes-02_Medium.jpg",
-      "description": "Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are off to a bearish start in December, with over 4% losses by press time on Monday. Bitcoin, Ethereum, and Ripple face renewed selling, risking further losses to $80,000 BTC, $2,100 ETH, and $1.90 XRP, respectively."
-    },
-    {
       "headline": "Tom Lee Lists Three Reasons Why Ethereum Will Beat Bitcoin \u2014 But Can ETH Rally to $9,000?",
       "source": "CCN.com",
       "source_url": "https://www.ccn.com",
@@ -103,8 +93,18 @@
       "article_url": "https://www.ccn.com/news/crypto/tom-lee-three-reasons-ethereum-beat-bitcoin-can-eth-rally-9000/",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Why Bitcoin, Ethereum, and XRP are falling?",
+      "source": "FXStreet",
+      "source_url": "https://www.fxstreet.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ1ppcF9PTlBEVkd5NTQ5NVJ6NnJZM0hMNURab0pDZWxaenZPU1RBVlVMbzBHU2hmbWIyYlM4eTNSVEdnMFo4aWpTcFlQYnF6Y0RlMEJKbUhUTDBXTEI2TUhBTFRobHByV3pNYTZxaVVBMVNoNlV3WG1pSVJVQnJCaWh2d3dEV3drU29IM1VydzJsanBTendiaHA4QnNQQ3NONjhZVWVRYkdVSHpTWXNNRlVEbFRLMXNTbF9QTTRVbUdEd09iUk1kQUtZbDBWNFdXN292YWdGQQ?oc=5",
+      "pub_date": 1764565200.0,
+      "article_url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-xrp-face-major-losses-as-december-begins-202512010500",
+      "image": "https://editorial.fxsstatic.com/images/i/bitcoin-explodes-02_Medium.jpg",
+      "description": "Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are off to a bearish start in December, with over 4% losses by press time on Monday. Bitcoin, Ethereum, and Ripple face renewed selling, risking further losses to $80,000 BTC, $2,100 ETH, and $1.90 XRP, respectively."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-01T06:21:58.797127+00:00"
+  "fetched_at": "2025-12-01T06:54:13.408757+00:00"
 }

@@ -35,6 +35,17 @@
       "description": null
     },
     {
+      "title": "4 motors robot crawler",
+      "author": "Archyzone78",
+      "url": "https://www.reddit.com/r/robotics/comments/1pb5i5b/4_motors_robot_crawler/",
+      "published": 1764570281.0,
+      "thumbnail": "https://external-preview.redd.it/amY2Z2xyZWVkajRnMULQkZWGSBy3c28tdVgAGrLriXZPWTMuhC9kx0nPsjyM.png?width=640&crop=smart&auto=webp&s=dd34c9119218533ad3deeda9f9b344472567a210",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "running EdgeTAM to do persistent tracking and following on a robot",
       "author": "HudZah",
       "url": "https://www.reddit.com/r/robotics/comments/1payrg5/running_edgetam_to_do_persistent_tracking_and/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey everyone, Just wanted to share a short clip of my DIY robot, BaBot, in action. It\u2019s taken a lot of trial and error to get it to move smoothly, and I\u2019m still tweaking things, but I\u2019m really happy with how it turned out so far. Would love to hear any thoughts !"
-    },
-    {
-      "title": "Full-size humanoid hobot LimX's Oli walks over construction debris (standing 165 cm tall and weighing 55 kg)",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1p9lmwl/fullsize_humanoid_hobot_limxs_oli_walks_over/",
-      "published": 1764411688.0,
-      "thumbnail": "https://external-preview.redd.it/eWd4MjducHk4NjRnMft9vFA-FNFjTxs8E3afZ-EBB4QQysHN5Jqw62PmqkrM.png?width=640&crop=smart&auto=webp&s=3151f354db997dfe4fab3361aa6ac5e71edee6a0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "From LimX Dynamics on \ud835\udd4f: https://x.com/LimX_Dynamics/status/1994408054989987939?s=20"
     }
   ],
-  "fetched_at": "2025-12-01T06:21:45.523831+00:00"
+  "fetched_at": "2025-12-01T06:54:00.157064+00:00"
 }
