@@ -13,6 +13,17 @@
       "description": "Project page: https://seed.bytedance.com/en/gr_rl ArXiv: https://arxiv.org/abs/2512.01801"
     },
     {
+      "title": "Industrial Robots vs Cobots in High Volume Production - Are Cobots even relevant here?",
+      "author": "whynotabtn",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcdcul/industrial_robots_vs_cobots_in_high_volume/",
+      "published": 1764693828.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "All the research I've done comparing the two shows that industrial robots are far superior to cobots in high-volume production. Industrial robots have higher payload, better reach range, speed range, repeatability, and they meet cycle time goals better. It seems like cobots win on safety as no cages are required, are easier to program, and easier to redeploy. What even is the point of an industry - say, automotive manufacturing - adopting cobots? Some quality inspection work? Packaging? Deburring? What practical applications can justify the cost/ deployment/ maintenance costs of a cobot?"
+    },
+    {
       "title": "First real test of my tabletop robots",
       "author": "Adventurous_Swan_712",
       "url": "https://www.reddit.com/r/robotics/comments/1pbhwpf/first_real_test_of_my_tabletop_robots/",
@@ -57,15 +68,15 @@
       "description": "Hobby robotics has few apps to build a digital twin for inverse kinematics/simulation of custom robots. As far as I know the best we got is ROS2 which isn't worth the effort for most people who could write custom code in half the time it takes to learn how to install and set up ROS. Would you use unity to build a highly visual/intuitive interface to remotely control your custom bot? Through a serial port that is.."
     },
     {
-      "title": "CV API Library for Robotics (6D Pose \u2192 2D Detection \u2192 Point Clouds). Where do devs usually look for new tools?",
-      "author": "Open_Perspective_506",
-      "url": "https://www.reddit.com/r/robotics/comments/1pc29pt/cv_api_library_for_robotics_6d_pose_2d_detection/",
-      "published": 1764660298.0,
+      "title": "[Beta Release] AI Workbench for Educational Robotics",
+      "author": "ur-guy-sahith",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcdsqs/beta_release_ai_workbench_for_educational_robotics/",
+      "published": 1764694804.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "Hey everyone, I\u2019m working at a robotics / physical AI startup and we\u2019re getting ready to release step-by-step a developer-facing Computer Vision API library. It exposes a set of pretrained and finetunable models for robotics and automation use cases, including: 6D object pose estimation 2D/3D object detection Instance & semantic segmentation Anomaly detection Point cloud processing Model training / fine-tuning endpoints Deployment-ready inference APIs Our goal is to make it easier for CV/robotics engineers to prototype and deploy production-grade perception pipelines without having to stitch together dozens of repos. We want to share this with the community to: collect feedback, validate what\u2019s useful / not useful, understand real workflows, and iterate before a wider release. My question: Where would you recommend sharing tools like this to reach CV engineers and robotics developers? Any specific subreddits? Mailing lists or forums you rely on? Discord/Slack communities worth joining? Any niche places where perception folks hang out? If anyone here wants early access to try some of the APIs, drop a comment and I\u2019ll DM you. Thanks a lot, any guidance is appreciated!"
+      "description": "Hi everyone! I\u2019m part of FTC Team 9045 Greenhill Hornet Robotics. We\u2019ve been working on an AI tool that started as a helper for FTC teams, and we're trying to grow it into something useful for many educational robotics environments that use Java, computer vision, or real-time control loops. We\u2019re launching a beta version and would love feedback from yall! What the AI Workbench Does The tool functions as an AI programming assistant that can: - Generate or debug Java-based robot code Help set up autonomous routines, motion planning, and state machines - Explain control theory concepts - Build and analyze vision pipelines (AprilTags, object detection, etc.) - Provide structured diffs to improve or extend existing code - Assist new learners with foundational programming questions Although the training corpus is rooted in FTC materials (SDK, Road Runner, Limelight docs, etc), the tool behaves like a general robotics coding assistant capable of helping with: - PID control - Localization - Kinematics - Sensor fusion - Finite state machines - Vision processing - System architecture This is an early release, and we\u2019d genuinely appreciate any feedback yall might have. Everything runs server-side, so no user API keys are needed, and nothing sensitive is stored in the browser. Try it here: https://ai-ftc.vercel.app/workbench We\u2019re excited to push this further- and any feedback or critiques are hugely appreciated!"
     },
     {
       "title": "Chinese T800 Full-Size General Humanoid Robot Officially Launched to Disrupt",
@@ -79,6 +90,17 @@
       "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     },
     {
+      "title": "CV API Library for Robotics (6D Pose \u2192 2D Detection \u2192 Point Clouds). Where do devs usually look for new tools?",
+      "author": "Open_Perspective_506",
+      "url": "https://www.reddit.com/r/robotics/comments/1pc29pt/cv_api_library_for_robotics_6d_pose_2d_detection/",
+      "published": 1764660298.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone, I\u2019m working at a robotics / physical AI startup and we\u2019re getting ready to release step-by-step a developer-facing Computer Vision API library. It exposes a set of pretrained and finetunable models for robotics and automation use cases, including: 6D object pose estimation 2D/3D object detection Instance & semantic segmentation Anomaly detection Point cloud processing Model training / fine-tuning endpoints Deployment-ready inference APIs Our goal is to make it easier for CV/robotics engineers to prototype and deploy production-grade perception pipelines without having to stitch together dozens of repos. We want to share this with the community to: collect feedback, validate what\u2019s useful / not useful, understand real workflows, and iterate before a wider release. My question: Where would you recommend sharing tools like this to reach CV engineers and robotics developers? Any specific subreddits? Mailing lists or forums you rely on? Discord/Slack communities worth joining? Any niche places where perception folks hang out? If anyone here wants early access to try some of the APIs, drop a comment and I\u2019ll DM you. Thanks a lot, any guidance is appreciated!"
+    },
+    {
       "title": "Closed kinematic loop in gazebo",
       "author": "PuzzleheadedFloor749",
       "url": "https://www.reddit.com/r/robotics/comments/1pc1c4u/closed_kinematic_loop_in_gazebo/",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "How would I add closed kinematic loop for gazebo with multiple parents. I tried to make it with detachable joint plugin, but it's not working exactly... As the detachable plugin is not even being active. Could somebody help? What's the standard approach?"
-    },
-    {
-      "title": "4 motors robot crawler",
-      "author": "Archyzone78",
-      "url": "https://www.reddit.com/r/robotics/comments/1pb5i5b/4_motors_robot_crawler/",
-      "published": 1764570281.0,
-      "thumbnail": "https://external-preview.redd.it/amY2Z2xyZWVkajRnMULQkZWGSBy3c28tdVgAGrLriXZPWTMuhC9kx0nPsjyM.png?width=640&crop=smart&auto=webp&s=dd34c9119218533ad3deeda9f9b344472567a210",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "ROSCon 2025 Recordings Now Available! - Community News",
-      "author": "OpenRobotics",
-      "url": "https://www.reddit.com/r/robotics/comments/1pbjqn8/roscon_2025_recordings_now_available_community/",
-      "published": 1764611884.0,
-      "thumbnail": "https://external-preview.redd.it/ZRxQSYvz7RK70LarVkZ0JsNr2rRueei96seBmDJoatU.gif?width=640&crop=smart&s=480960cabf1c914aa731ede8c40bec3c3fb4a693",
-      "external_url": "https://discourse.openrobotics.org/t/roscon-2025-recordings-now-available/51241",
-      "site_name": "Open Robotics Discourse",
-      "favicon": "https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/4/4/4487d2db196c8ca556e8bfac980ed3850ba5cbd5_2_180x180.png",
-      "description": "ROSCon 2025 Recordings Now Available   Hi Everyone,  Recordings from ROSCon 2025 are now available on our Vimeo account the ROSCon website, in the ROS Documentation, and in the list below. We\u2019re still waiting on talk slides, but we\u2019ll get those up just as soon as we can.  Big thanks to AMD for making our ROSCon 2025 live stream and video archive possible.  For your convenience here is a full list of available ROSCon 2025 talks and their presenters:   Opening Remarks & Guest of Honor \u2013 Geoff Bigg..."
     }
   ],
-  "fetched_at": "2025-12-02T16:38:34.117548+00:00"
+  "fetched_at": "2025-12-02T17:32:13.832175+00:00"
 }

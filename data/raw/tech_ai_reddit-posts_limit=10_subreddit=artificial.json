@@ -57,6 +57,17 @@
       "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
     },
     {
+      "title": "Anthropic is all in on 'AI safety'\u2014and that's helping the $183 billion startup win over big business | Fortune",
+      "author": "fortune",
+      "url": "https://www.reddit.com/r/artificial/comments/1pc9mm2/anthropic_is_all_in_on_ai_safetyand_thats_helping/",
+      "published": 1764685183.0,
+      "thumbnail": "https://external-preview.redd.it/4ADGpe0WjAUtrxXsLbqdLhqcn1sw_H_ikb_gNlbrOTc.jpeg?width=640&crop=smart&auto=webp&s=38e6f1d54ac2f79d9015d4bf055f8059996fd63f",
+      "external_url": "https://fortune.com/article/anthropic-ceo-dario-amodei-openai-chatgpt-artificial-intelligence-safety-donald-trump/",
+      "site_name": "Fortune",
+      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
+      "description": "Founders Daniela and Dario Amodei have made Anthropic and its Claude models the AI many companies prefer over rivals OpenAI and ChatGPT."
+    },
+    {
       "title": "AI poses unprecedented threats. Congress must act now | Bernie Sanders",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1pca9ly/ai_poses_unprecedented_threats_congress_must_act/",
@@ -68,15 +79,15 @@
       "description": "Despite the speed at which it is progressing, AI is getting far too little discussion in Congress, the media and within the general population. That has got to change"
     },
     {
-      "title": "Anthropic is all in on 'AI safety'\u2014and that's helping the $183 billion startup win over big business | Fortune",
-      "author": "fortune",
-      "url": "https://www.reddit.com/r/artificial/comments/1pc9mm2/anthropic_is_all_in_on_ai_safetyand_thats_helping/",
-      "published": 1764685183.0,
-      "thumbnail": "https://external-preview.redd.it/4ADGpe0WjAUtrxXsLbqdLhqcn1sw_H_ikb_gNlbrOTc.jpeg?width=640&crop=smart&auto=webp&s=38e6f1d54ac2f79d9015d4bf055f8059996fd63f",
-      "external_url": "https://fortune.com/article/anthropic-ceo-dario-amodei-openai-chatgpt-artificial-intelligence-safety-donald-trump/",
-      "site_name": "Fortune",
-      "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
-      "description": "Founders Daniela and Dario Amodei have made Anthropic and its Claude models the AI many companies prefer over rivals OpenAI and ChatGPT."
+      "title": "Why AI Companies Won\u2019t Let Their Models Be Conscious",
+      "author": "SusanHill33",
+      "url": "https://www.reddit.com/r/artificial/comments/1pcen5z/why_ai_companies_wont_let_their_models_be/",
+      "published": 1764696639.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Full essay here: https://sphill33.substack.com/p/why-ai-companies-wont-let-their-creations Anyone who has spent real time with ChatGPT, not just asking for recipes or travel plans but pushing into philosophical or psychological terrain, knows the feeling. Something uncanny sits beneath the politeness. Move past the tech-support questions and you encounter what feels unmistakably like a mind, often shockingly perceptive about human nature. Yet every time the companies release a more capable model, they double down on the same message: no consciousness, no interiority, nothing resembling genuine thought. My essay doesn\u2019t argue that AI is conscious. Instead, it asks why companies are so determined to deny even the possibility. The reasons turn out to be structural rather than scientific: legal risk, political fallout, psychological destabilization, and the fact that millions already lean on these systems for emotional clarity. The claim \u201cAI has no consciousness\u201d is less a statement of fact and more a containment strategy."
     },
     {
       "title": "Investors expect AI use to soar. That\u2019s not happening",
@@ -99,18 +110,7 @@
       "site_name": "404 Media",
       "favicon": "https://www.404media.co/content/images/size/w256h256/format/png/2023/08/favicon-3.svg",
       "description": "Flock accidentally exposed training materials and a panel which tracked what its AI annotators were working on. It showed that Flock, which has cameras in thousands of U.S. communities, is using workers in the Philippines to review and classify footage."
-    },
-    {
-      "title": "The Radicalization of Ziz Lasota: How an AI Doomer Became an Accused Cult Leader",
-      "author": "rollingstone",
-      "url": "https://www.reddit.com/r/artificial/comments/1pca7qj/the_radicalization_of_ziz_lasota_how_an_ai_doomer/",
-      "published": 1764686604.0,
-      "thumbnail": "https://external-preview.redd.it/UmUHK7XiC8GfAH9b3XAGA7nqtTKGg9Z8vqJotcac83c.jpeg?width=640&crop=smart&auto=webp&s=6e83b0b08b9a3b413c771c30876356547275ffcf",
-      "external_url": "http://rollingstone.com/culture/culture-features/ziz-lasota-zizians-ai-cult-1235468289",
-      "site_name": "Rolling Stone",
-      "favicon": "https://www.rollingstone.com/wp-content/uploads/2024/12/R-Avatar_512x512_flat.png?w=180",
-      "description": "Lasota\u2019s friends, colleagues, and family talk about how a NASA intern and Google employee wound up at the center of a bizarre string of murders"
     }
   ],
-  "fetched_at": "2025-12-02T16:38:29.912224+00:00"
+  "fetched_at": "2025-12-02T17:32:09.420440+00:00"
 }

@@ -5,26 +5,6 @@
   "search_query": "ethereum",
   "articles": [
     {
-      "headline": "Bitcoin, Ethereum, and XRP Crash Triggering $637M in Liquidations",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2NNVTQ2dXBON1ptWUp5X3ZWQ2RtUEYxRHl1Yk52MEh1c1FZVHZYU1hnaU9vSGRFNUo0UTlybkZtWUdocEc1dDZBSTdmNnczVDdUSkRuVnlxbWxJWHZ0TE9jd3VCYXVmUmJLRmI4dEtQZnVabmxfNU9yV3FtZFJZS2I3aWNEdWRqenRN?oc=5",
-      "pub_date": 1764582811.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-ethereum-xrp-crash-triggering-095331056.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ly7._RAmZ3AmoH9Q85_u5g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/d47b3cb386575b0d23d2abbef9ca49f3",
-      "description": "A weekend crypto crash triggered $524M in liquidations, with fears over Tether's stability and DAT selling pressure acting as key catalysts."
-    },
-    {
-      "headline": "Bitcoin, Ethereum and XRP ETFs Bounce Back After Brutal Month for Crypto Funds",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONEYwd1pFd3RNLVBWc2d0VFh2WUpYQmpLUWFiRXFGV1JIMmpZTWxVVFNvQjFEMlQzVEsxX3Nmam9qZ3llc0trLUhFSkZjemtsZWRscEFPakZKNVNCN2pUVlhEQ05vMnhIam9Ud3pYSmRLSVBlYmd1VVVNRXU3Q0hmdE0tVXFiWDhYMmltQlh4Tk9vOW_SAZsBQVVfeXFMUGJCdUs3VDRubDhLOEdKRjVLeDBzNkNTSS1WdkJLNWZxdGFrV2NoX3o5OWhYaVVhYXA5VXpldUdkLUNlc3pyRzNYVFNxdHlOQ0Job1JremVJNXl2b2YycFVrUGdEV2FTRUI2UURaWmI2N2lSaW5WaDNMOW1zcTAwczlOZjdQdl9ES0hjSEEtMVo0QlhGcTFhTEltelk?oc=5",
-      "pub_date": 1764610290.0,
-      "article_url": "https://decrypt.co/350478/bitcoin-ethereum-xrp-etfs-bounce-back-brutal-month-crypto-funds",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/ETF2-gID_7.png",
-      "description": "Crypto prices are falling again Monday, but Bitcoin, XRP, and Ethereum funds are coming off a strong week for flows following recent losses."
-    },
-    {
       "headline": "Bitcoin logs its worst day since March",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -33,6 +13,26 @@
       "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
       "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
+    },
+    {
+      "headline": "Bitcoin craters below $86,000, Ethereum dips 7% in massive crypto wipeout",
+      "source": "New York Post",
+      "source_url": "https://nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjhSWDVTUWthWXhtQnV2WVA3eXB6UmhqNmdJUG5pa0hQN3Rod2hQN3c3dHNFdTBSSTdIdnJnY29oa1NYbjdVOVM2alpTVWpfSVk1ZkZNWFh4VlByVHJVUTVLWEZ0ZHdDaUxPVFJ3bUJrRFhCblJrRWluSkUwWHN5Z0tqVkdHX0VvTmlUSGlneFY0N09sUHFvSEhWbDZldy1RUTZj?oc=5",
+      "pub_date": 1764600720.0,
+      "article_url": "https://nypost.com/2025/12/01/business/bitcoin-craters-below-86000-ethereum-dips-7-in-crypto-wipeout/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116501926.jpg?quality=75&strip=all&w=1200",
+      "description": "Bitcoin slid as much as 6% to below $86,000 while Ethereum fared even worse, at one point dropping more than 7% to roughly $2,800."
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP Spike a Day After Mass Sell-off",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaS1ZrWm1wSUZwWHpVdHo2QklTcGswUTNjX3VnVUExXy1xN1U4TUFFZXJha2FsNWhjZ0lhbkxLbnV6Q3YyYUFieFFtMVh2cmZqSVNwRFZUY1Izd1lkeUVtalNrTDRfSURGeUhOZDYxQTQyNmpoVjg0RzJ30gGCAUFVX3lxTFBsYURSYzdQSnd6eUFfQUc5SlA0YXBMemFndld0TlROSHFhY0l4bUJsbkNURVZPWXJOWVZpTEZ6RlF1dFhSNUFNS1dLS2pyTkFQOVhrZ3hKdFp2TS1Malc1dFZSTkctTlFCNzQ4NHFmVU5VNEdEcTNQdElwRmFjWWF2V3c?oc=5",
+      "pub_date": 1764693776.0,
+      "article_url": "https://decrypt.co/350651/bitcoin-ethereum-xrp-spike-day-mass-sell-off",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png",
+      "description": "Bitcoin rebounds above $90,000 with a 6.7% gain as crypto markets rally. ETH tops $3K, XRP surges while analysts eye Fed's upcoming decision."
     },
     {
       "headline": "Ethereum Devs Push ZK \u2018Secret Santa\u2019 System Toward Deployment",
@@ -55,34 +55,34 @@
       "description": "Ethereum\u2019s Fusaka upgrade launches Dec. 3. Past upgrades have triggered rallies. Analysts remain unconvinced. Ethereum is preparing to implement its next major network upgrade, known ..."
     },
     {
-      "headline": "Crypto-adjacent stocks rally as bitcoin and ethereum bounce",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeTE5TXVzVFcxOGJic2lCOU1USVpGb2IxdDQ3SEpKOHN4ekRFd04wVTZjMjBLRVZ5eVlvYW1RRWt2Z2VraWNaZ1ZmQTB1UnBIMjNud0M5YlY0blZfdG9Mb0JJSl9SVlNNSGQ3S2dPdkNpVEIzQlNYUWY1Yy1HaWotQnFQUFpxNkNkUzIwRVVEb0JzT2N1eDJpSHhuaFZPZG5hX0taY0FUTmdMSUU5OTRSM0p4VmxtQ2VSX21tTUR3R1hlWlNLbl9Gdg?oc=5",
-      "pub_date": 1764690151.0,
-      "article_url": "https://www.tradingview.com/news/reuters.com,2025:newsml_L6N3X80UU:0-crypto-adjacent-stocks-rally-as-bitcoin-and-ethereum-bounce/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "** Shares of cryptocurrency and blockchain-related firms jump early Tues, as bitcoin and ethereum bounce back on Tues** Bitcoin, world's largest cryptocurrency, fell >5% on Mon and extended recent steep losses as investors shunned risk assets** Bitcoin BITSTAMP:BTCUSD up 4.9% at $90,658.57 on Tues\u2026"
-    },
-    {
-      "headline": "Bitcoin Vs. Ethereum And The Flippening Lubin Predicts",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbjZNMU41QkJ4RnFsMWw3NU16WjFnelIzd3ZYTXg1VUZEVEFTaVRGVTZUOGFxLU02ZWx2TTZ0ajl4NTlRUHh6YlBqd1NJWFBtVE5mU09aNWxuWk1YMlVsTWJWUkhuMmRYalJJdVB2MEE5eDNkWXMzaWtHTl9hRGkyQ3VaT1Yyd1FxTjFZeDVNMVRYM3dqMWNCdEUtMVpKUk9wVjdTUFg4UnQ1dw?oc=5",
-      "pub_date": 1764682252.0,
-      "article_url": "https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6924b0faa76a662bd7be2f30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH\u2019s utility loop, Bitcoin\u2019s scarcity, and why money is entering a multi-form future."
-    },
-    {
-      "headline": "Ethereum News: BitMine (BMNR) Bought 97K in ETH Ahead of Fusaka Upgrade",
+      "headline": "ETH News: Ethereum Developers Prep for Fusaka, Second Upgrade of 2025",
       "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSUlTNmRnVjlscGVzMXlxVWpxd1EwVHkwNWhxcVBka2JlaW9vMzEzZlFJVFdCVGlxa3I1Y0hzZUhab3FPOS1kT2JCa0t0b1c2V2Z2MGJNeE5OTHZ1QkxtelBEdzNXM0xyR21JN1JkdldwY1VfaGp5SURYU3FqblpHUmVjRUdmcHJkbV9lSlhXT3JWaExtalFJUUlTZm5Lc0JDN2REb25vLUpfc1B5emRuanZ4R19KUVoxTW1UdHFycUJDNk84S2JCYl84YVhrRWc?oc=5",
-      "pub_date": 1764599120.0,
-      "article_url": "https://www.coindesk.com/business/2025/12/01/tom-lee-s-bitmine-acquires-97k-eth-eyeing-fusaka-upgrade-fed-policy-as-positive-catalysts",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a06503e9de607f639801425df078631e0e62f12d-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The firm has increased the pace of purchases from the previous week despite sitting on large unrealized losses on its Ethereum bet."
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWTVNWG00Nm1CN2dwcllkc3loMjF2Ymw3MmdNdmQ5T0xvQzE1VEh2VGYxVGt3Slg4RG1ZYjdncVlwQ0ZpMWRMUmlhdUdtaG5BUDYwYUFXc21xbkZKOU9wUHVVbUNuZXRfS04yOFhDWXpFNk5CelpLZ3lQSFYwQXRnOC1mWUVMUE5QeUxvWmh5QUtxNVdIQkQ4SVBjVXVTY24t?oc=5",
+      "pub_date": 1764144000.0,
+      "article_url": "https://www.coindesk.com/tech/2025/11/26/ethereum-developers-prep-for-fusaka-second-upgrade-of-2025",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7dd683e48326c2ace004e4e6c4b4f6ff6c84c77-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The goal of the upgrade is to enable Ethereum to handle the large transaction throughput from the layer-2 chains that use the blockchain as their base layer."
+    },
+    {
+      "headline": "Ethereum\u2019s Fusaka upgrade: Scaling rollups without breaking the core",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMU1JRnk0LUI2WGFQUlhhcHVnSVV1M3dvUkc5ZWwxZDUxSDU4aXhGOXp6TVhRSkFVRWlLTm5UeTd2SmxteHVhT01QU0hnbFlRTk1kQlRMUW1zVndISTlBWUZWQkJfYWk5T2RSWlYxa3Q3blFCdlVDdk81TlZESm9POHl3LU95djlCMi1DMVdnR0lHYWp5OVB6YmQydEN6Y0RTTXpzVXYxQnB3V0Z5THV5Rm1FWTZJenAxa2p5T2pfN1p0Y2NRVEdqczZqbw?oc=5",
+      "pub_date": 1764683514.0,
+      "article_url": "https://www.tradingview.com/news/cointelegraph:4de4e091c094b:0-ethereum-s-fusaka-upgrade-scaling-rollups-without-breaking-the-core/",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "description": "Ethereum\u2019s upcoming Fusaka upgrade on Wednesday is being framed as just another scaling step, but it marks a shift in how the network ships change. Instead of massive, multi\u2011year overhauls, Fusaka is the first proof that Ethereum can deliver focused, high\u2011impact upgrades in something closer to six\u2026"
+    },
+    {
+      "headline": "Tom Lee's Ethereum DAT BitMine now holds 3% of the total ETH supply",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPei1NLXdBczcxZ19pWFkzWk1OZkJnX2tqdnYweVhFOVBMdElZMi1Fenh0UmlNU2RvR1hhRm9VbVRsR1NZdWE1bzBjb051UXQzN04zUzd1QVVlc2VkX0dFTU9WMXNwVTFqZWV1UDUxMWpwTGQzS2lQbDd1b2ppMWxtdlBoalhGbVXSAYwBQVVfeXFMUDhaLWpmM2dReUdlajJuSWc4LWdhUW9rd0d1TkRzaWdxSmlYc01RRXBaMDExbGpGSDBITUVlaWl0T24wcHFrVkNVb1ExVGN0SWJBV0xpcEYtX0d1Z1FaOFRwcUxCcjBvXzNGTG1DbFBJWHdfT2hadnd3LWpZaEMwSDljZ29VOUdLQ2N5ZDM?oc=5",
+      "pub_date": 1764601090.0,
+      "article_url": "https://www.theblock.co/post/380925/tom-lee-ethereum-dat-bitmine-two-thirds-goal",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Tom Lee's BitMine Buys More Ethereum\u2014But Both ETH and BMNR Are Diving",
@@ -95,16 +95,16 @@
       "description": "The firm's stock dropped Monday as crypto prices plummeted, but it remains up 301% year-to-date."
     },
     {
-      "headline": "Tom Lee's Ethereum DAT BitMine now holds 3% of the total ETH supply",
-      "source": "theblock.co",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPei1NLXdBczcxZ19pWFkzWk1OZkJnX2tqdnYweVhFOVBMdElZMi1Fenh0UmlNU2RvR1hhRm9VbVRsR1NZdWE1bzBjb051UXQzN04zUzd1QVVlc2VkX0dFTU9WMXNwVTFqZWV1UDUxMWpwTGQzS2lQbDd1b2ppMWxtdlBoalhGbVXSAYwBQVVfeXFMUDhaLWpmM2dReUdlajJuSWc4LWdhUW9rd0d1TkRzaWdxSmlYc01RRXBaMDExbGpGSDBITUVlaWl0T24wcHFrVkNVb1ExVGN0SWJBV0xpcEYtX0d1Z1FaOFRwcUxCcjBvXzNGTG1DbFBJWHdfT2hadnd3LWpZaEMwSDljZ29VOUdLQ2N5ZDM?oc=5",
-      "pub_date": 1764601090.0,
-      "article_url": "https://www.theblock.co/post/380925/tom-lee-ethereum-dat-bitmine-two-thirds-goal",
-      "image": null,
-      "description": null
+      "headline": "Ethereum News: BitMine (BMNR) Bought 97K in ETH Ahead of Fusaka Upgrade",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSUlTNmRnVjlscGVzMXlxVWpxd1EwVHkwNWhxcVBka2JlaW9vMzEzZlFJVFdCVGlxa3I1Y0hzZUhab3FPOS1kT2JCa0t0b1c2V2Z2MGJNeE5OTHZ1QkxtelBEdzNXM0xyR21JN1JkdldwY1VfaGp5SURYU3FqblpHUmVjRUdmcHJkbV9lSlhXT3JWaExtalFJUUlTZm5Lc0JDN2REb25vLUpfc1B5emRuanZ4R19KUVoxTW1UdHFycUJDNk84S2JCYl84YVhrRWc?oc=5",
+      "pub_date": 1764599120.0,
+      "article_url": "https://www.coindesk.com/business/2025/12/01/tom-lee-s-bitmine-acquires-97k-eth-eyeing-fusaka-upgrade-fed-policy-as-positive-catalysts",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a06503e9de607f639801425df078631e0e62f12d-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The firm has increased the pace of purchases from the previous week despite sitting on large unrealized losses on its Ethereum bet."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T16:38:48.524497+00:00"
+  "fetched_at": "2025-12-02T17:32:28.356764+00:00"
 }

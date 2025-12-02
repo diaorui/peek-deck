@@ -77,20 +77,6 @@
     {
       "title": "Market Volatility Underscores Epic Buildup of Global Risk",
       "url": "https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html",
-      "hn_url": "https://news.ycombinator.com/item?id=46047763",
-      "author": "zerosizedweasle",
-      "points": 4,
-      "num_comments": 0,
-      "created_at": "2025-11-25T16:52:07Z",
-      "object_id": "46047763",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "nytimes.com"
-    },
-    {
-      "title": "Market Volatility Underscores Epic Buildup of Global Risk",
-      "url": "https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html",
       "hn_url": "https://news.ycombinator.com/item?id=46104355",
       "author": "zerosizedweasle",
       "points": 2,
@@ -101,9 +87,23 @@
       "description": null,
       "favicon": null,
       "site_name": "nytimes.com"
+    },
+    {
+      "title": "A Tale of Two AI Failures: Debugging a Simple Bug with LLMs",
+      "url": "https://bitmovin.com/blog/hackathon-debugging-ai-tools-llms/",
+      "hn_url": "https://news.ycombinator.com/item?id=46083162",
+      "author": "slederer",
+      "points": 9,
+      "num_comments": 17,
+      "created_at": "2025-11-28T22:00:51Z",
+      "object_id": "46083162",
+      "image": "https://bitmovin.com/wp-content/uploads/2025/11/Bitmovin_2025_Blog_Hackathon_Lessons-min-768x403.jpg",
+      "description": "A subtle string formatting bug defeated two leading AI coding tools in completely different ways. Here\u2019s what their failures revealed during a recent Hackathon.",
+      "favicon": "https://bitmovin.com/wp-content/uploads/2023/11/bitmovin_favicon.svg",
+      "site_name": "Bitmovin"
     }
   ],
   "total_hits": 7,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T16:38:31.305520+00:00"
+  "fetched_at": "2025-12-02T17:32:10.465414+00:00"
 }

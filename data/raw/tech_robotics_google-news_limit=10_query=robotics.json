@@ -25,13 +25,13 @@
       "description": "Speaking on entrepreneur Nikhil Kamath\u2019s podcast, Musk predicted that machines will soon handle most forms of labor, leaving humans to work only if they choose to."
     },
     {
-      "headline": "US national debt: Telsa CEO Elon Musk says AI and robotics will solve crisis but lead to deflation",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOU85bUNRUEJuaDZPQkJTSlBiSlBUSVRoVE14cGV3ZzZPM1JIN3NNNTJiV3FBMFpKNDRkOGhWanFhUU5KaTlhM3BjSjY5MFNDSXluaUVzTmxRZHI2X1NoVEpTaVIwa2wtbzJiRkZqRzkwTm90VDhodEJpZ1pJUUFZMDlfcm9hUQ?oc=5",
-      "pub_date": 1764589800.0,
-      "article_url": "https://fortune.com/2025/12/01/elon-musk-national-debt-solved-ai-robotics-doge/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2246892105-e1764587975123.jpg?resize=1200,600",
+      "headline": "Elon Musk says only AI and robotics can solve the \u2018insanely high\u2019 $38 trillion national debt crisis\u2014but it would cause \u2018significant deflation\u2019",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aVWE3a0ZlSS1ybzFHeHMtOVRBR1ZFR2NrMDVFNlQyQmlSS1M2ckNvLTNWTmIxY2RvVEwtRXdJWTNLREJnSHZsSWpIRmpmQzNJTXRraG5xZmpSbXVoakE3eTNmUlVuUFIwb0FUa0MwOXJxXzcxOGZV?oc=5",
+      "pub_date": 1764589828.0,
+      "article_url": "https://finance.yahoo.com/news/elon-musk-says-only-ai-115028916.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/7FWJfnvXdVBS8sxSy2wrVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/73caa90b186d62913aa074d6abf08b56",
       "description": "After clashing with Trump on spending, Musk argues AI and robotics are the only path to easing record U.S. debt costs\u2014and may even trigger future deflation."
     },
     {
@@ -43,6 +43,16 @@
       "article_url": "https://www.jpost.com/defense-and-tech/article-876822",
       "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/478690",
       "description": "The robotic systems have gotten much more diverse and standardized, being deployed in much higher volumes to assist with exploring Hamas tunnels, to save risking soldiers' lives from that process."
+    },
+    {
+      "headline": "Automation revolution: robotics VC funding in Europe",
+      "source": "Financier Worldwide",
+      "source_url": "https://www.financierworldwide.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbFpONTFxd0lPU0YyN3ZDUmtEd1ZzUmM1OGRXbFNSQS1PNGZ4bUtGRVpDcTNsQWE0cnJxd1BoVVdtZWI5ZG5jdGZ6enAwS1JwbTlMb1hKVnJwR1cydHREdW03UTAwV0s2NjdGWXJtMzRxNjU2YnRyLTU2aWEzeVQzam9kTnNTZlBXYmxCd1hadw?oc=5",
+      "pub_date": 1764691266.0,
+      "article_url": "https://www.financierworldwide.com/automation-revolution-robotics-vc-funding-in-europe",
+      "image": null,
+      "description": "Explore the surge in robotics VC funding across Europe and its impact on automation and innovation."
     },
     {
       "headline": "Top 10 robotics developments of November 2025",
@@ -93,18 +103,8 @@
       "article_url": "https://futurism.com/robots-and-machines/china-officially-scared-robots-bubble",
       "image": "https://futurism.com/wp-content/uploads/2025/12/china-officially-scared-robots-bubble.jpg?w=1200",
       "description": "Chinese officials are warning that the country's humanoid robotics industry could be forming a massive bubble."
-    },
-    {
-      "headline": "Artificial tendons give muscle-powered robots a boost",
-      "source": "MIT News",
-      "source_url": "https://news.mit.edu",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTkcwWjNrc09uMlBRQ051eHJTOVBYQlRyTGhhT2tkU081OFNIN2tfSFJ0OWhKQWo1OFd1Zzc2MDRHZUtOb3Z4QVlVZEtDUVM5N0hWdVJmdmh2OHlETVhNbzJlMWZ4QU9Cd3FQWTJteURkcVh0d29JQ0pNV1l3c2dGLUlsUU5pOEJWckE?oc=5",
-      "pub_date": 1764601200.0,
-      "article_url": "https://news.mit.edu/2025/artificial-tendons-give-muscle-powered-robots-boost-1201",
-      "image": "https://news.mit.edu/sites/default/files/images/202512/MIT-ArtificialTendons-01-press.jpg",
-      "description": "MIT engineers developed artificial tendons that could connect robotic skeletons and biological muscle tissue. Made from tough and flexible hydrogel, the tendons could be used in various bio-hybrid robots."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T16:38:50.129821+00:00"
+  "fetched_at": "2025-12-02T17:32:31.626208+00:00"
 }
