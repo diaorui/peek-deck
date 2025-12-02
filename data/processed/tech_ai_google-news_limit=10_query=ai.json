@@ -5,44 +5,24 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Silicon Valley Builds Amazon and Gmail Copycats to Train A.I. Agents",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWl9QamdibTJhWWUzUkcxOW1md29TZWY1VW1BRW1NejZ2eXZFMEx6OUJFbkJMQ05fNk94VmxfTDZCYjNkRTRfRDZlb2I2Wk9MSHhnR2lFNHQxUWlsaFNjV0VUNEdpOWdHcmRpU1hQdEVrTWlUeENLRkJiYVZJSnBNZFNhNFdrN1dBVFctdXFSWEk?oc=5",
-      "pub_date": 1764669637.0,
-      "article_url": "https://www.nytimes.com/2025/12/02/technology/artificial-intelligence-amazon-gmail.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Amazon Releases AI Agents It Says Can Work for Days at a Time",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNdUtRNkR0WExxbFVIUzhFRFViMEdWMnFnbGxhdUlkRDNnM1E0ajR0TE9rS3o3N1pnejF3bzFTOWNDSW9JTzZyN2E5d2RDLU52bjRFcjZrVkc2ODQxaUJ5eDZjTXZiYWQyZWN6MTcwbWs2MnNBWUZhSjdhLTFJRlBWMjBiSXRlbWdKbDJaRlY1Qk9BSnVGeFNGUFd6d1RJOGpQc1BnYVNxQzF2ZkxUSmcwT3BNOHNjd2dOMXFxY2ZfekZ4YVFBNllERURaUWpOcGs4eHZidER1UDhxbWpLMTJhaHBSN05yZ05UamtaMGQzaWtJUG1mUFAxajZFZ2VPM0pDTXAzY0NYSlJSY1Q5V290bFJFZTFsNkw0T2d6eXdHQTFyZVRQTnhabWlwSl9QYkZFbFF2ZEczT1N4QnNQdkxDSWpSVUR1dENIcnRPZHBpR0Yzay0tT0hWeWFoZ19yNkgxdEtqekZLS2FpUjVLczR2N0pzbV9UNVBCYnIyS0dtTzJZUE1xN2Y3WlpLcURCdENsNEswUjB4a24yWjNmSHR5ay1wblF4QQ?oc=5",
-      "pub_date": 1764699360.0,
-      "article_url": "https://www.wsj.com/articles/amazon-releases-ai-agents-it-says-can-work-for-days-at-a-time-79c82902?gaa_at=eafs&gaa_n=AWEtsqcgkSQk6rx4XAaCb-Tdb8aMfG3UxksRQYh58aLt1MxEQOg4jzxQxXGf&gaa_ts=692f6fea&gaa_sig=bTykX7Wa-gXrw9rnD02MHURlgEtXkZzehXFZvfjJEsBRxBKDJGEA2WhRtx1PkQZnHrPvYsWJFQauaoO5-V6RQw%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Google tests merging AI Overviews with AI Mode",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMDY1TU9ROTBYcmRkN3AxTFBTOHJ4a1FENEwtRFNUOU1xQlYtTnlvaWR5U3EwQzdieTFwU25tVEJiUTd6RXhsZUhVQ1FFb080QmRjcWxrZEhGekpOdHZCeGZSU1QyamExWkZ0UWVIZkpobWg2bUtWLW5PTUdoN1Vfbm1pclNOYWUz?oc=5",
-      "pub_date": 1764714394.0,
-      "article_url": "https://techcrunch.com/2025/12/02/google-tests-merging-ai-overviews-with-ai-mode/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
-      "description": "Google is testing how to make it easier to move from search to an AI chat in a new global test."
-    },
-    {
       "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQekZBQVpOazlaNDJoMDlvcXdJV1JwZC1ZZTBqa0U2cmhzOXNhRWNQbFNTUnFXUkdxNEhhUDA1VlYxakp4Tm90Qk1abklMTVluODA1U1REOUQ1anR4N2UzRXd1Mkh5MVJ2dlFEWTNvS0pFTFVfa3hqMnNtNU1qaUE0UTYzUUdjX3VSLU5CS2w5Rkk4SDh6bDlzMGdoZTc5RlIxNDRWYy1QN3diNGV2ZDl6WUNQZVZ3cjY0RDJSSjExSW9YVTZPYm9DdWpnWUJyVTVRMkdhWm90OFRYTjR2Y3h4LWVDcUVBRy1DckRtWTlwODE3Mm92MDNyQ19wRTI1aDAtQlpKa1U0cTFUOHJKdXBLTjJlX1BnbGFkcGhDY2JkTjc3Q244ZjkzUTNmb3kyS1VyMF9tcWZBdlRqVjVDQlpNUkNhSmI5QmtpZkxXVVZVZXBSV3RtVzR3NWFCelJTV2Nxc0ZpblhNX0d5b180NGtSQnhCYkNiX0NmOXplQU85bVYwSDRtVXZ2aEhOSUY4ZWozUnpJMEhwTGpxOG9ZV3JtVFJNY3Vwbl9nMWhtSUN2U0hXY29uRktnbmlFYzU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNMnFRbHF1ZTVMOEcwT2UwUzVTYTlyZUtSWWQ2TGttQ2hGSDViT2t4VGxWaDVKZ2o0TkQ0bWs1UkdpZVFQLUxCMnViSElHanVQNWs4YkVfWWVZVFhDNHlzamF1NjYyYVpEVzBWb1JWU1lzeHUyemV0YmpUSzlqZ0FrblZCS2E2OHBVSFJkcThXOUdKWnotSndYVHB5TXF0U0hnVFZwcjhaTlJkZGpBVUQ1S29QWFlLNGVjcHhJTThyelNzVVJqZDdkMFBocVUxRXhaMlJJenl2QkgyVjdNME9lVnBnd1RpTTFnRVFUYVp0czBfVUVuRUl5VUdZNVJUYmV0Mndmelg5MHNaektWOEV0TFd5RmhIckk2M2VxWGhPSGQ5djhaSXRrNWNKdEdwUlRfaDFMZGw0VkFER1k1OFJUdjJiUHJySWJTandrT3ZzY3NqaDZaUHgwVHpJV2JSdEk4N3dXQnJtaklHbFl4WU5OMlhIcGpGNTJiYTRRTUh0R0R5NWlUYkpLSHQySlptc2lkY3pyZVBqam5yczUtS3VTZUU2Uk9laURkMmpmX0ZfMzQ5WWZiaURqVVlXeno?oc=5",
       "pub_date": 1764656820.0,
-      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqeToWtsAedH_DFFTSPopzJgiXFqlLMDdubgye0epvZzEZ4QD9CqE3Do&gaa_ts=692f6fea&gaa_sig=q3-XiVnDMymGRfnirWWWKojKYcOFAAeq0XAy9aBzCt83e5O0NNOhndQXcpZiNF_NU1LmuQ1KHvryECrpiAdG1Q%3D%3D",
+      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqdb0XH4Sl8Htk5yUObxP3oTvcNbsn_W9F9_Qwdj3XT47sage5MuUdKF&gaa_ts=692f7903&gaa_sig=fWbNs3zfmE9Du7t8aVmJDmEk2rnRra5TLf4tH5pwBIDOK8qE36656O3flS3Y8IihrZemp1obYDrVGcH0F0s9Hg%3D%3D",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "OpenAI CEO declares \u201ccode red\u201d as Gemini gains 200 million users in 3 months",
+      "source": "Ars Technica",
+      "source_url": "https://arstechnica.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZW04QXcxR2RySjA0SkdJYjhZN0VRS3FxQ003OWRuUUJGT2ZaUlBGMHpRZlNPdkx4UTB1RGZXZ0pjZXVSVnp0bzRJZDNZWS1IdkdRUXhfeVRMZ2FaMDlIWjBXdW93X1pMUW41YVhIc2p3SVJ4RkxxRHkwbUEtSHFnRHNTdTNQRk9GeFl0QUpGU0xEVkJwSXlrdlNZaTEzejJSZU5DTnRQYzNjbVVZWnln?oc=5",
+      "pub_date": 1764715329.0,
+      "article_url": "https://arstechnica.com/ai/2025/12/openai-ceo-declares-code-red-as-gemini-gains-200-million-users-in-3-months/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/aaltman_crop-1152x648.jpg",
+      "description": "Three years after Google sounded alarm bells over ChatGPT, the tables have turned."
     },
     {
       "headline": "OpenAI is under pressure as Google, Anthropic gain ground",
@@ -55,6 +35,56 @@
       "description": "Sam Altman reportedly sent a memo to his staffers outlining a \"code red\" effort to improve ChatGPT."
     },
     {
+      "headline": "Silicon Valley Builds Amazon and Gmail Copycats to Train A.I. Agents",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWl9QamdibTJhWWUzUkcxOW1md29TZWY1VW1BRW1NejZ2eXZFMEx6OUJFbkJMQ05fNk94VmxfTDZCYjNkRTRfRDZlb2I2Wk9MSHhnR2lFNHQxUWlsaFNjV0VUNEdpOWdHcmRpU1hQdEVrTWlUeENLRkJiYVZJSnBNZFNhNFdrN1dBVFctdXFSWEk?oc=5",
+      "pub_date": 1764669637.0,
+      "article_url": "https://www.nytimes.com/2025/12/02/technology/artificial-intelligence-amazon-gmail.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team",
+      "source": "About Amazon",
+      "source_url": "https://www.aboutamazon.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnMtZDFfUTgxYllfVHhUcHJoNlUxVzBCVnd5SW9ySG95dEd2QjBaeW50a3Z3Rjk3TnFLMDFNaGdRQUxXX0FMSkVGQzY1WXVkOGZHdjNfclFMdkU0WC1XTWxUN0xtU012N2VxRXY3SC1acmtwYlRGWXAyVC1rVk1EUUl3Slo?oc=5",
+      "pub_date": 1764691197.0,
+      "article_url": "https://www.aboutamazon.com/news/aws/amazon-ai-frontier-agents-autonomous-kiro",
+      "image": "https://assets.aboutamazon.com/dims4/default/2cb6e15/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff0%2Fc7%2Fe0cff167432b9d05bbd70532d0de%2Faa-frontier-agents-riv-hero-2.jpg",
+      "description": "The first three frontier agents revolutionize how you build, secure, and operate software"
+    },
+    {
+      "headline": "Amazon previews 3 AI agents, including \u2018Kiro\u2019 that can code on its own for days",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHNsR2l5NHVBUVRSWWhNSHVzeUd2MEpQaUEtQzJCX09MVVNkcV9lbTdaRW14bkZ5bU1yb1pHUHliZ1d0NEFET3g1ZzlwNDBHaGpYYW9LblJtSnpraURxbHhTeWJpV20tMkJHSEJuZVJMTmJkMFMyX1JVZVU4Q09XMjllcThUQmtOZjRCb3o4c0I1RnJIVlljU2FZY0NaRkZ4NHdZYUlfeWo2cjRRdmJSVg?oc=5",
+      "pub_date": 1764713881.0,
+      "article_url": "https://techcrunch.com/2025/12/02/amazon-previews-3-ai-agents-including-kiro-that-can-code-on-its-own-for-days/",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1065679054.jpg?resize=1200,849",
+      "description": "Amazon Web Services on Tuesday announced three new AI agents it calls \"Frontier agents\" for coding, security, and DevOps."
+    },
+    {
+      "headline": "Amazon Rushes Out Latest AI Chip to Take On Nvidia, Google",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb01rLU5JUHhzUkVVa0NqY05udGhGdXlCWWxuRTY4aWxySFNUUjVYNThyZHJHTk16LVB2cGhEUTJYNzMzUHVidEk3aXR1STZJaXNRZVhMVm1WVTMxYTFEUnJqUzdRVGdzbDZ5T21hQUk2YUpkY3lMbmplY1pCSEdXeEY1Q29kaW9pRnFwQk1ObjJGTlFZckVtYzhkVUNxVEYtSWQ3OHA2Y2ltNG5zQjd3cEdRbmg?oc=5",
+      "pub_date": 1764707803.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/amazon-rushes-latest-ai-chip-to-market-to-take-on-nvidia-google",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "A 'seismic' Nvidia shift, AI chip shortages and how it's threatening to hike gadget prices",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzVJeVpWbWtQc2tfNGVzcHJHdWJXVUt1a3lZOTBRRDFhRDBOTWNCb0FpeDlpVlNKdUdSQzQ5UmJuMklJTGZFODFqSTJuM2xhN2tnLUd4ZUFkUW9kVHFIT3M5a2d5NnRRTnllTmRxZUFNVjk1OHVkLUozSzZWT2FCbkFIWF94cVNZc1N6OFFVSXRDMWRscy1hQmdHR1ozVUZmZG9R0gGoAUFVX3lxTFBaYlhKUUlQRWluSGJJUmFQTHBGdl9TYWxHdzg1QlZZMHp6RkltUTFZTmswYm1jWlNKemNyeTJOVDZyaF9tbzk5aEpmNE1KWjlpTnNHUTgxR0RTWW9hdnlxQUVMd21TSl9ZS21BaFBrVGIxV3U0M2ptUmY3elZsMFRvb1Boc25sSjRQVkt5TmhjalVPWmp5SmF2cjM3WlhmM3RHdWFmdlBfUg?oc=5",
+      "pub_date": 1764657008.0,
+      "article_url": "https://www.cnbc.com/2025/12/02/nvidia-shift-ai-chip-shortages-threatening-to-hike-gadget-prices.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108233306-1764322289679-gettyimages-2241962168-ECP_fc1300561.jpeg?v=1764322377&w=1920&h=1080",
+      "description": "The AI infrastructure buildout is creating shortages of components including various types of chips that are also used in consumer electronics."
+    },
+    {
       "headline": "Google creates \"code red\" emergency for its AI rivals scrambling to keep up",
       "source": "Axios",
       "source_url": "https://www.axios.com",
@@ -65,46 +95,16 @@
       "description": null
     },
     {
-      "headline": "Google is experimentally replacing news headlines with AI clickbait nonsense",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZFo5TTBJQndRR0ZWdGxERDNZc3cwVUZJdUl1TzhuS0dCMFNjMmtDX1pkX3U3Q05lZ1M4NmNHOE5mTjhXeXd4UEIwdWRkNGZIRlJraXRVZkFaa2cwOXFSMWRkRjNrMlVVNzBwNXRkNzNNN3F1REpyNjlWTVEyTi1LdkxIeTJLVEhjWEFsUU1xTlFDOEhmOTBkWV9VRWZEWER2ZHhFWVVuWG5hdw?oc=5",
-      "pub_date": 1764713661.0,
-      "article_url": "https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Screenshot_20251128_003150_One-UI-Home.jpg?quality=90&strip=all&crop=0,24.575313571133,100,50.849372857735",
-      "description": "\u201cBG3 players exploit children.\u201d"
-    },
-    {
-      "headline": "Scalise says GOP leaders \u2018looking at other places\u2019 for AI preemption as NDAA push stalls",
-      "source": "The Hill",
-      "source_url": "https://thehill.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZEN3SUcyQm10N3NIaWtjWHZ3QVh2V1F1SXdBd1J5RTRzUWJhSDluNE9xOUdHV2NkaHJuaF9XXzN5c0I4SmNaQmNWbHJEbmJkVUNpRUpKT0YzUkR6UXFZSk5oVFgwMjlTY0tuNy1McVNSMUtweGc1V0F0dVNycFg0MUt4ZXRQUdIBiwFBVV95cUxQLXNfNDZNMkJieERrVGhrNVdLdmZyZ2N0dkJZdGE0NGtWaTZtYWxBLUExUzBQalZEekdhUW5tQ3BzUHBBMTNGYXRRRXF1VnpuLTE5bDVQYzhEUHNpZjVqYlBWZWUyYlFNZEw4M2J1UV9MZmFsY1o0M2hiMEpRcUV5MVR3ZjN3RUlvVkdF?oc=5",
-      "pub_date": 1764714060.0,
-      "article_url": "https://thehill.com/policy/technology/5630709-ai-preemption-republican-leaders/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Oracle Credit Fear Gauge Hits Highest Since 2009 on AI Bubble Fears",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbnhSZUZuUFFNdW9wU3JOSHdEUVJubzB4NkxQZVNlVkNPeUZSMWdTcDBuLU0yYkJ1M3k3RDFHd3lVRzBUa2F2Zk5PRDc4V0VKU0tZWG1XVm42STVoa3ZyS0FnRXBneFZVeFRTeDhmZXpHaFJCdklCUExyeVFabU0wb2dYeFdsZW1PdFJjS2lfT2RuOXNzd204OVVteVF6VUhabXR2amx3bi1UNFByTHRicm5iaUp4eGFFN2c?oc=5",
-      "pub_date": 1764713934.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/oracle-credit-fear-gauge-hits-highest-since-2009-on-ai-bubble-fears",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "\u2018The biggest decision yet\u2019: Jared Kaplan on allowing AI to train itself",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3htZDNHeEE0aWl3cGMtbU1mVnV4TDY4QjllanlEODAwSFdfYWZybVFXdjFWVmxpeGZvVGlwUENwd1JjU1VXcW5tMVYxRGVTclB1MnFKcnMzVDRxWTNHRnBnT1RFNEl2UjJYRkdpcU1hb2JFNkt1ZWF2a1hNLThYNVRmU1I4eTRrVTFSSTlMTDFxRnNZUE5PNVZsM01QeFo5TDYwb0dOb3JYdkEtZlRoWFB4aDdLQQ?oc=5",
-      "pub_date": 1764679020.0,
-      "article_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/02/jared-kaplan-artificial-intelligence-train-itself",
-      "image": "https://i.guim.co.uk/img/media/5f1dbff127345154bf57ef7a554a4727975d1c3e/0_848_3091_2471/master/3091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6daf53e3bf38527380051f2157a5fb94",
-      "description": "Anthropic\u2019s chief scientist says AI autonomy could spark a beneficial \u2018intelligence explosion\u2019 \u2013 or be the moment humans lose control"
+      "headline": "Indiana state website hosted AI deepfake porn instructions",
+      "source": "IndyStar",
+      "source_url": "https://www.indystar.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOazQzb0JYaVdjZzJuS0FUYnJsSEZMekJPUVlEN3VqU3E4dXdOanBRdFhnQXRESHRDVjR4QUNPNTdXT1hFSTh0d3ctSU5kV1lqVlJGTk5PQUg5ckdTZDgwcHJaQUcwZFNrMWZfWnRMWDEtenlYOEh4WDM5QjFxdWtJZGNzcTMxQXc5bkFXRFZrenQ0eDFOT0habGJyWkxsZV8yUjFxZnNsN1NFek8tNGc5WGFaV3BJVkd0Rmc?oc=5",
+      "pub_date": 1764716400.0,
+      "article_url": "https://www.indystar.com/story/news/2025/12/02/indiana-state-website-hosted-ai-deepfake-porn-instructions/87574172007/",
+      "image": "https://www.indystar.com/gcdn/authoring/authoring-images/2025/12/02/PIND/87573718007-ingov-ai.png?crop=563,316,x0,y0&width=563&height=316&format=pjpg&auto=webp",
+      "description": "The Indiana Department of Health has been working with the state's IT department to scrub Google search results of the uploaded content."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T22:47:44.795232+00:00"
+  "fetched_at": "2025-12-02T23:26:15.243732+00:00"
 }

@@ -112,5 +112,5 @@
       "description": "We\u2019ve all run into at least one Solidity bug that took way longer than it should\u2019ve. Sometimes it\u2019s a storage layout issue, sometimes it\u2019s proxies behaving weirdly, an inheritance quirk, calldata alignment, math edge cases, or a subtle security assumption that only shows up under certain conditions. Curious to hear from other devs what\u2019s the toughest or most confusing bug you\u2019ve had to debug in a smart contract, and how did you finally track it down?"
     }
   ],
-  "fetched_at": "2025-12-02T22:47:05.947084+00:00"
+  "fetched_at": "2025-12-02T23:25:54.910597+00:00"
 }
