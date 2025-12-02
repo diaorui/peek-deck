@@ -65,7 +65,7 @@
       "url": "https://scienceclock.com/exercise-may-protect-less-when-air-pollution-is-high-study-finds/",
       "hn_url": "https://news.ycombinator.com/item?id=46086624",
       "author": "ashishgupta2209",
-      "points": 187,
+      "points": 188,
       "num_comments": 73,
       "created_at": "2025-11-29T10:54:16Z",
       "object_id": "46086624",
@@ -79,8 +79,8 @@
       "url": "https://red.anthropic.com/2025/smart-contracts/",
       "hn_url": "https://news.ycombinator.com/item?id=46115214",
       "author": "bpierre",
-      "points": 180,
-      "num_comments": 96,
+      "points": 182,
+      "num_comments": 99,
       "created_at": "2025-12-01T23:44:51Z",
       "object_id": "46115214",
       "image": null,
@@ -93,8 +93,8 @@
       "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
-      "points": 166,
-      "num_comments": 234,
+      "points": 167,
+      "num_comments": 235,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
@@ -117,20 +117,6 @@
       "site_name": "arXiv.org"
     },
     {
-      "title": "I Know We're in an AI Bubble Because Nobody Wants Me",
-      "url": "https://petewarden.com/2025/11/29/i-know-were-in-an-ai-bubble-because-nobody-wants-me-%f0%9f%98%ad/",
-      "hn_url": "https://news.ycombinator.com/item?id=46086410",
-      "author": "iparaskev",
-      "points": 85,
-      "num_comments": 62,
-      "created_at": "2025-11-29T10:08:24Z",
-      "object_id": "46086410",
-      "image": "https://secure.gravatar.com/blavatar/a924aa92ac9016bfe9c773a9e47ccf2fb84df9216b8ca936e25899edc1019dd1?s=200&ts=1764550772",
-      "description": "I first got into deep learning in 2012, when AlexNet came out. I was CTO of Jetpac, a startup that aimed to provide information about bars, hotels, and restaurants by analyzing public photos, for e\u2026",
-      "favicon": "https://secure.gravatar.com/blavatar/a924aa92ac9016bfe9c773a9e47ccf2fb84df9216b8ca936e25899edc1019dd1?s=114",
-      "site_name": "Pete Warden's blog"
-    },
-    {
       "title": "Tell HN: It's now impossible to disable all AI features in Firefox 145 (latest)",
       "url": "https://news.ycombinator.com/item?id=46095873",
       "hn_url": "https://news.ycombinator.com/item?id=46095873",
@@ -143,9 +129,23 @@
       "description": null,
       "favicon": null,
       "site_name": null
+    },
+    {
+      "title": "Accenture dubs 800k staff 'reinventors' amid shift to AI",
+      "url": "https://www.theguardian.com/business/2025/dec/01/accenture-rebrands-staff-reinventors-ai-artificial-intelligence",
+      "hn_url": "https://news.ycombinator.com/item?id=46105825",
+      "author": "n1b0m",
+      "points": 57,
+      "num_comments": 62,
+      "created_at": "2025-12-01T10:41:14Z",
+      "object_id": "46105825",
+      "image": "https://i.guim.co.uk/img/media/adcd61d6e826f9dca934f3eef2452b135ad68f5b/19_0_2543_2033/master/2543.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ebbb935a14d8f1fd9c707bc68f612c1",
+      "description": "Consultancy\u2019s move to embrace artificial intelligence follows Disney\u2019s use of the term \u2018imagineers\u2019",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "site_name": "the Guardian"
     }
   ],
-  "total_hits": 402,
+  "total_hits": 404,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T09:43:01.385948+00:00"
+  "fetched_at": "2025-12-02T10:32:36.406322+00:00"
 }

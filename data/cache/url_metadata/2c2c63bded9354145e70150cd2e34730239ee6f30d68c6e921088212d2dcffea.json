@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-12-02T10:32:55.553348+00:00",
+  "data": {
+    "url": "https://finance.yahoo.com/news/ethereum-privacy-upgrade-hides-transaction-093804417.html",
+    "title": "Ethereum\u2019s Privacy Upgrade Hides Transaction Details Like a Secret Santa Game",
+    "description": "Distributed Lab researchers have published a breakthrough protocol demonstrating how Ethereum can implement privacy-preserving games while maintaining participant confidentiality and correctness.The ZK Secret Santa (ZKSS) system uses zero-knowledge proofs to establish gift sender-receiver relationships without revealing identities, addressing fundamental challenges in executing private transactions on public blockchains.The timing proves significant ...",
+    "image": "https://media.zenfs.com/en/cryptonews_us_711/17bc7a3fa93e18915f9b901d491b3432",
+    "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
+    "site_name": "Yahoo Finance",
+    "author": null,
+    "keywords": "Ethereum, Vitalik Buterin, private transactions, ZK Secret Santa, privacy technology, zero-knowledge proofs"
+  }
+}
