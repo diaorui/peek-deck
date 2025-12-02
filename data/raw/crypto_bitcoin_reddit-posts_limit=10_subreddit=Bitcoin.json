@@ -90,17 +90,6 @@
       "description": "I used to stress over every price movement. One day I just said: \u201cForget trying to time anything\u2026 I\u2019m only buying from now on.\u201d Haven\u2019t looked back since."
     },
     {
-      "title": "I finally did it!",
-      "author": "NothingBetterToDoYES",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pbsqjw/i_finally_did_it/",
-      "published": 1764632460.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I finally got to 0.1 BTC across multiple wallets, not here to brag but to share with the community. It takes time bit you can get there, keep pushing, ignore the chaos and just stack. \ud83e\udee1"
-    },
-    {
       "title": "The creator must be Bitcoiner!",
       "author": "unthocks",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pbwasa/the_creator_must_be_bitcoiner/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "I finally did it!",
+      "author": "NothingBetterToDoYES",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pbsqjw/i_finally_did_it/",
+      "published": 1764632460.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I finally got to 0.1 BTC across multiple wallets, not here to brag but to share with the community. It takes time bit you can get there, keep pushing, ignore the chaos and just stack. \ud83e\udee1"
     }
   ],
-  "fetched_at": "2025-12-02T06:22:21.530246+00:00"
+  "fetched_at": "2025-12-02T06:53:25.856939+00:00"
 }
