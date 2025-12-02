@@ -55,16 +55,6 @@
       "description": null
     },
     {
-      "headline": "Chinese schools offer \u2018embodied intelligence\u2019 courses to aid robotics industry",
-      "source": "South China Morning Post",
-      "source_url": "https://www.scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdmRRM2tUVkFhYjBLbnAzUWdtbGREYlZ3RkdWTElBR3dXeEVldmFJeDJTU0pHTGNMMmJiTlFmcjBxNVJ6OWNmaDNtdXVpUENvU0dtaHF3UGQ4X3VmVnRqY3FOQ1dUWlNUb0djVi1tOTFfOGt2ZTZBd2Z3S1JGeDk1UXhfdzZzWWo4TE9pSzAzaGZHelFNcE1JaXFCWjJfd2NuR1BfMFgybU9FU01FZ0VfRnpQYlFJM0xoOG9xZ29CeC03LWllbnVOelI1d9IBywFBVV95cUxQS0YwMElyQ2ZiazhRX3FWa0lWUlNZM3pXamxVaWhUZDZzR1hMYnhxOEc4aGg3N0hfbkt6VW1XY09va1l4VWtJeXRvZ2R6WUo5R1p2R1dnSHQzU3BjaGs2VG5xS05PeEcyUENQUDhLV1JsZjBja3JORVRhT2szbTRQN2xBRnczeWpDbGMtcGYzVTVKSGlBeXpYLU9ybkJxWG5kY01QSndJZFRXanlmekdOVXRfdnJnRHdTTlg1Wk9IODlOUzNiTVk5N1F0VQ?oc=5",
-      "pub_date": 1764630012.0,
-      "article_url": "https://www.scmp.com/tech/policy/article/3334779/top-chinese-universities-offer-courses-embodied-intelligence-aid-robotics-industry",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/12/01/ed068441-092e-4fbf-b4ab-5a8a28b86a20_992ae625.jpg?itok=95UPh6ws&v=1764582667",
-      "description": "Shanghai Jiao Tong University and Zhejiang University are among seven schools that plan to offer \u2018embodied intelligence\u2019 as a new major."
-    },
-    {
       "headline": "Tesla loses some AI staff to a new robotics startup",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -73,6 +63,16 @@
       "article_url": "https://www.businessinsider.com/tesla-loses-ai-staff-startup-sunday-robotics-2025-11",
       "image": "https://i.insider.com/692a04f3e1a9cbb014df2eb3?width=1200&format=jpeg",
       "description": "Sunday Robotics came out of stealth mode last week and revealed a team stocked with Tesla alumni."
+    },
+    {
+      "headline": "Chinese schools offer \u2018embodied intelligence\u2019 courses to aid robotics industry",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdmRRM2tUVkFhYjBLbnAzUWdtbGREYlZ3RkdWTElBR3dXeEVldmFJeDJTU0pHTGNMMmJiTlFmcjBxNVJ6OWNmaDNtdXVpUENvU0dtaHF3UGQ4X3VmVnRqY3FOQ1dUWlNUb0djVi1tOTFfOGt2ZTZBd2Z3S1JGeDk1UXhfdzZzWWo4TE9pSzAzaGZHelFNcE1JaXFCWjJfd2NuR1BfMFgybU9FU01FZ0VfRnpQYlFJM0xoOG9xZ29CeC03LWllbnVOelI1d9IBywFBVV95cUxQS0YwMElyQ2ZiazhRX3FWa0lWUlNZM3pXamxVaWhUZDZzR1hMYnhxOEc4aGg3N0hfbkt6VW1XY09va1l4VWtJeXRvZ2R6WUo5R1p2R1dnSHQzU3BjaGs2VG5xS05PeEcyUENQUDhLV1JsZjBja3JORVRhT2szbTRQN2xBRnczeWpDbGMtcGYzVTVKSGlBeXpYLU9ybkJxWG5kY01QSndJZFRXanlmekdOVXRfdnJnRHdTTlg1Wk9IODlOUzNiTVk5N1F0VQ?oc=5",
+      "pub_date": 1764630012.0,
+      "article_url": "https://www.scmp.com/tech/policy/article/3334779/top-chinese-universities-offer-courses-embodied-intelligence-aid-robotics-industry",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/12/01/ed068441-092e-4fbf-b4ab-5a8a28b86a20_992ae625.jpg?itok=95UPh6ws&v=1764582667",
+      "description": "Shanghai Jiao Tong University and Zhejiang University are among seven schools that plan to offer \u2018embodied intelligence\u2019 as a new major."
     },
     {
       "headline": "One million robots drive Amazon\u2019s operation during holidays",
@@ -95,16 +95,16 @@
       "description": "CN Energy\u2019s PATHENBOT unit launches a robotics solutions platform and official website to deliver customizable automation for North American SMEs."
     },
     {
-      "headline": "iRobot debt acquired by contract manufacturer as bankruptcy looms",
-      "source": "The Robot Report",
-      "source_url": "https://www.therobotreport.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1Z2c3hKQi1SMThWS0ZRX3JzQWx2OE0yNlRiSGNFaFFWQktIdkNBV0FIeWhTbXZZZjlvd05PQ2J0QXR0dEZfSTdNaXUyZWk5MGhYNDNDQjVVMWtBZ01OeGMzSTRmNWNiNTMzTzg1MXEzcXBqYV9pb25IR1E1OEFLTzJ1R1U0T04wOTlLdmFUZWRuVWM3SmpGMVBEa0ZNZw?oc=5",
-      "pub_date": 1764628543.0,
-      "article_url": "https://www.therobotreport.com/irobot-debt-acquired-by-contract-manufacturer-as-bankruptcy-looms/",
-      "image": "https://www.therobotreport.com/wp-content/uploads/2025/12/iRobot_model_2025.jpg",
-      "description": "iRobot negotiations with another potential acquirer fell through, and its main creditor has set a deadline of Jan. 15 for certain conditions."
+      "headline": "Singapore must develop robotics, AI talent pipeline to stay competitive: National Robotics Programme",
+      "source": "CNA",
+      "source_url": "https://www.channelnewsasia.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSDBkOEJlU1J2NFFhSEtSZEVGSjNMU3paeUlrRnI3WlB4Q1hUN21tWWZYWUNLMURkUmh4X0pzS21tcDM2MWNKREU3dTN2ak1obXNtb1lGZ21nQ1V3Zjc5a0tzeEFJdVdGLVVzTUpDYWp5TUgyR1lNSmd2dkkzOGd4LVdWRFMzTkJCWndCX1JhYjVqT2lGTFZWbldWNV9kOTJ4SnNJOF9zc1lNamhNeWlOUm5fajdIaU16Y0NkbldKQVNaa19TeDNUdDZyT292NWhoVWtF?oc=5",
+      "pub_date": 1764577376.0,
+      "article_url": "https://www.channelnewsasia.com/singapore/robotics-artificial-intelligence-tech-talent-singapore-labour-manpower-competition-jobs-5499491",
+      "image": "https://dam.mediacorp.sg/image/upload/s--DLfY-PSV--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/12/01/screenshot_2025-12-01_153839_0.png?itok=qPjyK67C",
+      "description": "This push comes as the country positions itself to secure a share of the global robotics landscape."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T04:33:06.464244+00:00"
+  "fetched_at": "2025-12-02T05:19:10.286571+00:00"
 }
