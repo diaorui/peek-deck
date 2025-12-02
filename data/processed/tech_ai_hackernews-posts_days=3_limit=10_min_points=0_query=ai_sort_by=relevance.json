@@ -52,7 +52,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46114144",
       "author": "7777777phil",
       "points": 190,
-      "num_comments": 5,
+      "num_comments": 6,
       "created_at": "2025-12-01T22:22:56Z",
       "object_id": "46114144",
       "image": "https://images.macrumors.com/t/E2xFMSegpuYDB6sCT6_1vI991S8=/2500x/article-new/2025/03/Sad-Siri-Feature.jpg",
@@ -79,8 +79,8 @@
       "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
-      "points": 147,
-      "num_comments": 223,
+      "points": 149,
+      "num_comments": 225,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
@@ -93,7 +93,7 @@
       "url": "https://red.anthropic.com/2025/smart-contracts/",
       "hn_url": "https://news.ycombinator.com/item?id=46115214",
       "author": "bpierre",
-      "points": 112,
+      "points": 126,
       "num_comments": 66,
       "created_at": "2025-12-01T23:44:51Z",
       "object_id": "46115214",
@@ -147,5 +147,5 @@
   ],
   "total_hits": 383,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T03:55:52.517729+00:00"
+  "fetched_at": "2025-12-02T04:32:48.966843+00:00"
 }

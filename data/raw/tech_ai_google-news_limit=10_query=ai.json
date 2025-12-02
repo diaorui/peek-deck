@@ -5,14 +5,14 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Apple\u2019s A.I. Chief, Who Failed to Deliver a Smarter Siri, Is Retiring",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3IwazlPbjFfRXRYUVQyX2FCZ1NDOFprdGg3VW5oelQ1aXNUazRrMjlreFB1NVFGUmxidWtwS1htWTFyLXdYb0cza2NtUjd3N2JVeUtCdy0tSGR5Q0Q1NloyZHQwdDdsWkFjeHdfU3NHNFpUT2N4TzFhamI0ZTFtU0hQTGUwQQ?oc=5",
-      "pub_date": 1764641705.0,
-      "article_url": "https://www.nytimes.com/2025/12/01/business/apple-ai-john-giannandrea-siri.html",
-      "image": null,
-      "description": null
+      "headline": "Apple names former Microsoft, Google exec to succeed retiring AI chief",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRM28yTHFBbHJXVVFKNURvZ0ZTV2lWNDJhUUFIakxNWTRfZUphZnozN2xMS3liSGdVQlFCeWktNXJpVlQ0WVBmNDlmbmh3Nl9NZlV5N0lHZHbSAV5BVV95cUxQRUZhVUF0SGZldlVtTUdyV2dkWmZsMy02MFdqWFhBTzYzV21DMHRjZ3dfemtpSUhjTXg3SnNhcmVUSW91YXgzc1ZEOVAyU3hPZVlFU21WVHdKVVJtejZn?oc=5",
+      "pub_date": 1764627863.0,
+      "article_url": "https://www.cnbc.com/2025/12/01/apple-ai.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/105321445-1531249219810gettyimages-849703464.jpeg?v=1764627331&w=1920&h=1080",
+      "description": "Apple's AI chief is stepping down after experts say the company has fallen behind its peers when it comes to investing in AI data centers, chips and models."
     },
     {
       "headline": "Siri-us setback: Apple\u2019s AI chief steps down as company lags behind rivals",
@@ -25,24 +25,14 @@
       "description": "Amar Subramanya will replace John Giannandrea after firm has struggled to catch up with AI rollouts by competitors"
     },
     {
-      "headline": "Apple names former Microsoft, Google exec to succeed retiring AI chief",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRM28yTHFBbHJXVVFKNURvZ0ZTV2lWNDJhUUFIakxNWTRfZUphZnozN2xMS3liSGdVQlFCeWktNXJpVlQ0WVBmNDlmbmh3Nl9NZlV5N0lHZHbSAV5BVV95cUxQRUZhVUF0SGZldlVtTUdyV2dkWmZsMy02MFdqWFhBTzYzV21DMHRjZ3dfemtpSUhjTXg3SnNhcmVUSW91YXgzc1ZEOVAyU3hPZVlFU21WVHdKVVJtejZn?oc=5",
-      "pub_date": 1764627863.0,
-      "article_url": "https://www.cnbc.com/2025/12/01/apple-ai.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/105321445-1531249219810gettyimages-849703464.jpeg?v=1764627331&w=1920&h=1080",
-      "description": "Apple's AI chief is stepping down after experts say the company has fallen behind its peers when it comes to investing in AI data centers, chips and models."
-    },
-    {
-      "headline": "AI is Destroying the University and Learning Itself",
-      "source": "Home \u2767 Current Affairs",
-      "source_url": "https://www.currentaffairs.org",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWC05OW1Qd3drT0hIcGZUcFZPT1Z4LXVCaE5hXzJNRmx0dk8xYkJ5bGZuZzcwVlRiVUxqdlNmS1RYeGQwSklGYjJxT1NNcTZYclhGUjY0LUtSZDZNRnp2bDBIRWkxRTkxTDA2UXdhSDhvdFAwbURwUWVhQWZQazhKdG4yV0I2WFdGZXFtdlN6YVk?oc=5",
-      "pub_date": 1764624084.0,
-      "article_url": "https://www.currentaffairs.org/news/ai-is-destroying-the-university-and-learning-itself",
-      "image": "https://www.currentaffairs.org/hubfs/Issue%2056%20Online%20Images/Issue56-Chatversity-Online-Image.jpg",
-      "description": "Students use AI to write papers, professors use AI to grade them, degrees become meaningless, and tech companies make fortunes. Welcome to the death of higher education."
+      "headline": "Apple's AI chief abruptly steps down",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQzRjNzJ6MG9nZzNYQ2RrdHVfNlhRYklRa1k5YVkyRTBhZGVCYm1jSFFuUFdjSk1QTkdrUzhMS29wOVlyY1B6ZGhBZFFNcnEzb1JrQzliQjVKVWphVE9rdjJDMXZ0VDFoZUxVRGo3OEdwNm9VbHlWQkJxWmhxMTZZbDFsSlRPcW1pX194djY0anFBUdIBVkFVX3lxTE9Uc0NKZ1JyWE8zbnM3bkRfeS03dTE1S3BBdjJnRHVxclJISnRHY1lfbkFUY29VWGpZN0NxT29NWlRNMHVuQ2dNWVhDY3VGMDhxOTI1NjhR?oc=5",
+      "pub_date": 1764631413.0,
+      "article_url": "https://www.nbcnews.com/business/business-news/apples-ai-chief-abruptly-steps-rcna246877",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251201-John-Giannandrea-ew-558p-edc3b0.jpg",
+      "description": "The unexpected change comes as the world's second-largest public company struggles to compete in the AI revolution."
     },
     {
       "headline": "College Students Choosing A.I. Majors Over Computer Science",
@@ -55,42 +45,22 @@
       "description": null
     },
     {
-      "headline": "I\u2019m a Professor. A.I. Has Changed My Classroom, but Not for the Worse.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1JDcTlTQlp3VVhmZURGLVNOR0JBVGZIVVhBZjEyWEJYQ2pySVpYdEhzdVVCZTZEVnBsMTVlM25LSGk5OUEwWmpvSUpYX2xPYXB6RHpSSHVZd1lZdHNLY0hSWTlreTI2ZG5vNjB5Rk9iZXNfTXZqN2JhSnFJSDlLenNyUElkVE1hRl9CUVBsaw?oc=5",
-      "pub_date": 1764064812.0,
-      "article_url": "https://www.nytimes.com/2025/11/25/magazine/ai-higher-education-students-teachers.html",
-      "image": null,
-      "description": null
+      "headline": "To Address Disability Caregiver Crisis, Feds Look To AI",
+      "source": "Disability Scoop",
+      "source_url": "https://www.disabilityscoop.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEdOUldPam50UEJUVTczdUlvVkt4ZURScFdVcGRvdjN3bS1sLVVJazlzNGRJMDhWNURTMU5qOFZrZFQyZDJrRUNlNXdfWVZYNzJDV3RzNTdkUXN2V1dtbGFVanRqZVRxdzR4OElGMFRmNXg4WWtSQndReFJjQ1EyeVdlR0VDYVVfRDhPdWM0ZVJVWTNZb0pEemRMVjQwOVRXNXdVbUJZaw?oc=5",
+      "pub_date": 1764649498.0,
+      "article_url": "https://www.disabilityscoop.com/2025/12/02/to-address-disability-caregiver-crisis-feds-look-to-ai/31755/",
+      "image": "https://www.disabilityscoop.com/wp-content/uploads/2015/07/ds150729_adults_b.jpg",
+      "description": "Federal health officials are launching a multimillion-dollar competition to attract new ideas for how technology can transform caregiving for people with disabilities and others."
     },
     {
-      "headline": "SoftBank\u2019s Son \u2018Cried\u2019 About Nvidia Stake Sale to Fund AI Bets",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcWtsZ0pZQzNGWE5kWDl3aWpTN2xGaVhwSGlfc0JrOE1tRWdiVU9GWldGUFhZQV9WYnBQY1VQY0tlbkVPaHBGdEhlWUtRMFhxUFBGa2lNbHJReWlIdVgtc3gzOVNwRmkzb3hscVBiV3pNZEh1WXFGMTZsUmJkdnlPZTQ3TQ?oc=5",
-      "pub_date": 1764583041.0,
-      "article_url": "https://finance.yahoo.com/news/softbank-son-cried-nvidia-stake-095721630.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/EZINiF6NzNtfky_3rRjB4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/8aa5cc229d40394437ea44d17d96f7bf",
-      "description": "\u201cI was crying to sell Nvidia shares.\u201d  SoftBank has doubled down on its bets on AI through a flurry of projects that include a Stargate data center with Hon Hai Precision Industry Co., the acquisition of US chip designer Ampere Computing LLC, and plans to invest more in OpenAI by the end of this year."
-    },
-    {
-      "headline": "Nvidia takes $2 billion stake in Synopsys as AI deal spree accelerates",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFBIZWxrLXVyLWFIYi00OUtBRS0td2Fsb25SZjNpQ01mY3VOVkhOX1hScG1ibDZXNXBoV3BqZXI3UnJqWExsRW9sYXg1Rk5SQ19HOHNFZWcwbGlFMEVtWmV6VkdMejVLZU5jM3I1Nmd6eTBRMWtyQURyLUxlQUVNRjlCTzRnM0g0N1NtT2o5ZXBscVZmajdFeFFnVXVfeDRPS1BYb1lDaWhpbmpMRVlV?oc=5",
-      "pub_date": 1764614788.0,
-      "article_url": "https://www.reuters.com/technology/nvidia-invests-2-billion-chip-design-software-provider-synopsys-2025-12-01/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Fanuc Shares Surge on Agreement With Nvidia to Integrate AI",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdHg0V0N5M2FCamVzYWNTbG9lTDFpLWVCM014OEZCcURnUHdQRGxqd2RHOWdTdkJkX2NhWkEweHBMWVZoa01ZNi1ZNGxZbm5pNzR3ME1vQzB5aW1LclRlUG5aWkh6TXJlc1VGRUFVclc5MGZBYm9FSU5MaVNHelBENW9FU21EVE5tRnlkdnNYVFplNVdPVHBnYnNNa2pJUm5WS0NqWFU2dUdzREh4T2Zz?oc=5",
-      "pub_date": 1764642720.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/fanuc-shares-surge-on-agreement-with-nvidia-to-integrate-ai",
+      "headline": "Marvell In Advanced Talks for Buy Celestial AI in Multibillion Deal",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMks1SGpiMlRIRTF0bGR1Y3NGYnk1N3JuS3hDc19sMmFvNjhDUUpLTWVCMkhWLVBPcEh5SVZaX2RaejY4R0xYVzF6Z0xMZDdYNUFSYVBHaVdsLW5jazI1OVd5V3ZTR2NDOWFTYkt6UW1pM1R4azk4N3ZYTnBjb1h4WnkxbU5oclNySkdmSTFqUlVFOTVNQllycS16SzJCUQ?oc=5",
+      "pub_date": 1764649440.0,
+      "article_url": "https://www.theinformation.com/articles/marvell-advanced-talks-buy-celestial-ai-multibillion-deal",
       "image": null,
       "description": null
     },
@@ -103,8 +73,38 @@
       "article_url": "https://www.cleveland.com/nation/2025/12/ohio-man-admits-using-ai-to-create-child-pornography.html",
       "image": "https://www.cleveland.com/resizer/v2/USS7EDNUONGTDHNGXXAICEJKMQ.jpg?auth=deef991e13b576955fec2bf40f0ebd4b127c50e8a5e6672e837d29b29e1cec8e&width=1280&smart=true&quality=90",
       "description": "Austin Pittman, 35, faces up to 35 years in prison after admitting to distributing real child pornography and using artificial intelligence to alter images of children."
+    },
+    {
+      "headline": "Millions of Coders Love This AI Startup. Can It Last?",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNNlU1TXJPdzBkTEVtYXVOSTNsa2V1Q0VyYTBCaE9aT0JxajRKaENjUlhPNk1ST3NKV1BWSndaN2pueDljUzRuOE9ua0JvTTh5TVZKVGx6UzN1WTVVaEJaV3A0TXlCdGFMTEx2LWQ0QzJGeGRrSEp1TEtidUhHSDFSTUNtclZ4ZnpHTV9mbzAwcUxQWXlZV19PbVd1ZVBtUXU2blFEQllMc2tqRDEwNjV3MVQ1WDdkUEJKZWxuamlyenhDdWM1NHRRcUVCb1JDUHZidDNqSjRJVnI4TVk0SENrbGhRMGNUenpmck1COXlmamh4MDVQUUJ1ZjMtN0t4b0JzekpxcjM2YmN2MjhJaXpBNmUxVG1JUmIyck5xMDNZLUZsWEVSMGhpNEFsbUxESnkwTFBELThYWG83T2lBcm9Ha3gzWF91Y18xa0pneW5WMFZwQlN5RGl2T2VkazFtR1hsMTdKSXRmQ0ZaRHJYbm5vR055SWhsOVhZNlRZS24tUHRvM2Q3OEw2V1V5dzJjU1ZiTmRTd0I3WQ?oc=5",
+      "pub_date": 1764608400.0,
+      "article_url": "https://www.wsj.com/tech/ai/millions-of-coders-love-this-ai-startup-can-it-last-45b72441?gaa_at=eafs&gaa_n=AWEtsqeplKQ8cv0NN1dgohNrWtLojW2npa3rjuy-HdMVDRRH__yuiHj1jAYW&gaa_ts=692e6f74&gaa_sig=lPaHEMaLIJ4xXVQFYT3r4JTdsIDRylpxoXHe5mB1tEnk1HDyHtNU9iKArUrLWL4UxvTiU3VwgafC9vpw-iuBEw%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "An independent effort says AI is the secret to topple 2-party power in Congress",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFpBUmdMd2JCWkZhZE5TNU40V3Vlc2wxLUI3X2Z1X2hBajhLTlZYdFh1RFg3Q3Vob0k1bk0zenQ5NHhBRnRzZE1ZMmxpUVhMUldOemx6VTJxYlQ2dmxPeUVYLXlpcWZzdWFwdHhOMzlkTGZHUUg3Z3BOSW1NQkYxZEJSRDVpeWVQekd3VzBqOC11VEVuQUhLMGVB?oc=5",
+      "pub_date": 1764583200.0,
+      "article_url": "https://www.npr.org/2025/12/01/g-s1-98267/ai-independent-candidates-congress-two-party-control",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2024+0+232/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2F3d%2F7f56b150456e90265385306931b1%2Fglennharvey-2025-11-07-npr-f53.jpg",
+      "description": "Using artificial intelligence to identify Congressional districts where independent candidates could win, an organization called the Independent Center is aiming to disrupt the two-party system."
+    },
+    {
+      "headline": "\u2018It\u2019s going much too fast\u2019: the inside story of the race to create the ultimate AI",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMEY4SE05SHRWdUhCVWZPZEdmLXVCUlpIckthU2phZ3hqelg4cEgzNEFtVi1aakdGaHFPei1naW5iZHVNTDFIY2JvVEJ6UW5kRkotMHFuelpRVVdReHp6VVVTcVFsdDZ6dlZrNHVrT2Q5ZF9kd3p1QWFDRUxrXzZjN0pMZElxLVFEaGRVUlpxYk0xcDN2cUFHMlUwWjJNVlBmQ3JwaHN3aFE4YUZGTnJyRThmY051SmNBRDd5VTI0UGFiNmVPX1NMOFN1b0dINWwzTDRuZFNQMkQ3T2Ez?oc=5",
+      "pub_date": 1764634320.0,
+      "article_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai",
+      "image": "https://i.guim.co.uk/img/media/3a0b9b3f8dd7ac48f7a548037c63002bc5661c22/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd918b07d627fc9aa7296acc6d16da0d",
+      "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T03:56:17.944596+00:00"
+  "fetched_at": "2025-12-02T04:33:13.119146+00:00"
 }

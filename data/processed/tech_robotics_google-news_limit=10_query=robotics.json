@@ -55,16 +55,6 @@
       "description": null
     },
     {
-      "headline": "Tesla loses some AI staff to a new robotics startup",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGRMV2h4bHplanZsNFpIS1BiNXJTQ21WSjZNZlJ1ZHBaR0Nqb3R2N1dsX1hwbmdVc3J2SmFvUUNBYlFFbGt5QjB0VTByTE9TWkpDTXoteUlrWmNIYlNrX2pjTHlmZ2U5ek96VEZaTkNyVlRSdkNpUmZTU1FNenRQM05QZXBZQTNRR1NtRQ?oc=5",
-      "pub_date": 1764373860.0,
-      "article_url": "https://www.businessinsider.com/tesla-loses-ai-staff-startup-sunday-robotics-2025-11",
-      "image": "https://i.insider.com/692a04f3e1a9cbb014df2eb3?width=1200&format=jpeg",
-      "description": "Sunday Robotics came out of stealth mode last week and revealed a team stocked with Tesla alumni."
-    },
-    {
       "headline": "Chinese schools offer \u2018embodied intelligence\u2019 courses to aid robotics industry",
       "source": "South China Morning Post",
       "source_url": "https://www.scmp.com",
@@ -73,6 +63,16 @@
       "article_url": "https://www.scmp.com/tech/policy/article/3334779/top-chinese-universities-offer-courses-embodied-intelligence-aid-robotics-industry",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/12/01/ed068441-092e-4fbf-b4ab-5a8a28b86a20_992ae625.jpg?itok=95UPh6ws&v=1764582667",
       "description": "Shanghai Jiao Tong University and Zhejiang University are among seven schools that plan to offer \u2018embodied intelligence\u2019 as a new major."
+    },
+    {
+      "headline": "Tesla loses some AI staff to a new robotics startup",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGRMV2h4bHplanZsNFpIS1BiNXJTQ21WSjZNZlJ1ZHBaR0Nqb3R2N1dsX1hwbmdVc3J2SmFvUUNBYlFFbGt5QjB0VTByTE9TWkpDTXoteUlrWmNIYlNrX2pjTHlmZ2U5ek96VEZaTkNyVlRSdkNpUmZTU1FNenRQM05QZXBZQTNRR1NtRQ?oc=5",
+      "pub_date": 1764373860.0,
+      "article_url": "https://www.businessinsider.com/tesla-loses-ai-staff-startup-sunday-robotics-2025-11",
+      "image": "https://i.insider.com/692a04f3e1a9cbb014df2eb3?width=1200&format=jpeg",
+      "description": "Sunday Robotics came out of stealth mode last week and revealed a team stocked with Tesla alumni."
     },
     {
       "headline": "One million robots drive Amazon\u2019s operation during holidays",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T03:56:12.910231+00:00"
+  "fetched_at": "2025-12-02T04:33:06.464244+00:00"
 }
