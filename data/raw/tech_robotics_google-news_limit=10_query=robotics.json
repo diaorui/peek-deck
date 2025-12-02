@@ -5,34 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "'First robotics war': Defense Ministry shows how robotic systems used in Israel-Hamas War",
-      "source": "The Jerusalem Post",
-      "source_url": "https://www.jpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lRUctTXUtQThwTmM5b3dPU0dMQU1sdmM0NjFPY0ZMY3I4LTV3eHRTeTVmT1J0ZGtRX29QVE1GdU13cTk0RlcxY1V5SFZwakl5ZlQ4cE56TzNyczhxRDFlbEpmMA?oc=5",
-      "pub_date": 1764620730.0,
-      "article_url": "https://www.jpost.com/defense-and-tech/article-876822",
-      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/478690",
-      "description": "The robotic systems have gotten much more diverse and standardized, being deployed in much higher volumes to assist with exploring Hamas tunnels, to save risking soldiers' lives from that process."
-    },
-    {
-      "headline": "Tesla loses some AI staff to a new robotics startup",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGRMV2h4bHplanZsNFpIS1BiNXJTQ21WSjZNZlJ1ZHBaR0Nqb3R2N1dsX1hwbmdVc3J2SmFvUUNBYlFFbGt5QjB0VTByTE9TWkpDTXoteUlrWmNIYlNrX2pjTHlmZ2U5ek96VEZaTkNyVlRSdkNpUmZTU1FNenRQM05QZXBZQTNRR1NtRQ?oc=5",
-      "pub_date": 1764373860.0,
-      "article_url": "https://www.businessinsider.com/tesla-loses-ai-staff-startup-sunday-robotics-2025-11",
-      "image": "https://i.insider.com/692a04f3e1a9cbb014df2eb3?width=1200&format=jpeg",
-      "description": "Sunday Robotics came out of stealth mode last week and revealed a team stocked with Tesla alumni."
-    },
-    {
-      "headline": "Elon Musk claims America's 'insanely high' $38T debt crisis can only be solved by AI, robotics",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLVlta0RJaHdfZzdoZnAyak9FZ0E2bWpwZkJQTHZZUFYxVmZwWjVDcFNQR3lBSmh5WkoxNDhRUWsydDdhNGhxZlNrajZwVlpxZm43aVVfUmx3eW1fbXlrUUJhTF9jNGdUZFdrWllpUk5xRTRsaGo4eDR6cENtcXgwalNHbV9jZEFOT0R5T2RDek5hSkJESkVRWllJczdwZDhXNmk5ZXAteE0tZGtGMTVwY1Y5bmU1U1RSSEdvZ1dvTTRtSzVsWUlrUQ?oc=5",
-      "pub_date": 1764637020.0,
-      "article_url": "https://nypost.com/2025/12/01/business/elon-musk-claims-americas-insanely-high-38t-debt-crisis-can-only-be-solved-by-ai-robotics/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/elon-musk-ai-debt.jpg?quality=75&strip=all&1764614212&w=1200",
-      "description": "Musk said that because AI and robotics could lead to a significant increase in output, it would likely lead to deflation \u2013 which is the\u00a0opposite of inflation\u00a0and results in a decrease in the price \u2026"
+      "headline": "Musk says AI and robotics are 'only' things that can solve massive US debt crisis",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1g3dENUZF9tMlhfbDNZZlB5TmhpRjl1dFlDalM1bFNYVHJGdy1RUC1KTTNqM21DT3JWZ25wRGpBWENwaFI5SzBxQTBFQjhxNTJaNmRTdlhxdGpaRzY3dGs4Q2p1emdRNktzSHhFTUVKR1pYa1RJaUtOeE1QVzhxaGhQZVpaNjFfNm1LU0hFVTg3UmU0N19hbk5YYWZ4d2ExcG9wQ9IBqgFBVV95cUxQWFZ2dGFQZ05STHpLUjJYYld2RjZUYkNJZDJJR0NrdnJvcXJPZ0hRYWVVQ0dybEU1eU1Qa19HSTR3Q2ZiYkJFaDgydFJXSXMxUlRHa2dHeTNNUWh5SUd1Y09MOWNBcHdsYlpUZjllUXFGUjFBRU5DaGNFWTNOT1NmQUhadWZCZF9BQW0yc3pRVlllNTZtUHl4bXFMVXlBUTF6UkdTbHZmVElWUQ?oc=5",
+      "pub_date": 1764612660.0,
+      "article_url": "https://www.foxbusiness.com/economy/musk-says-ai-robotics-only-things-can-solve-massive-us-debt-crisis",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/0/0/Elon-Musk-12.jpg?ve=1&tl=1",
+      "description": "Elon Musk claims AI and robotics are the only solution to America's $38 trillion debt crisis, predicting dramatic economic changes within three years."
     },
     {
       "headline": "US national debt: Telsa CEO Elon Musk says AI and robotics will solve crisis but lead to deflation",
@@ -55,6 +35,16 @@
       "description": "Speaking on entrepreneur Nikhil Kamath\u2019s podcast, Musk predicted that machines will soon handle most forms of labor, leaving humans to work only if they choose to."
     },
     {
+      "headline": "'First robotics war': Defense Ministry shows how robotic systems used in Israel-Hamas War",
+      "source": "The Jerusalem Post",
+      "source_url": "https://www.jpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lRUctTXUtQThwTmM5b3dPU0dMQU1sdmM0NjFPY0ZMY3I4LTV3eHRTeTVmT1J0ZGtRX29QVE1GdU13cTk0RlcxY1V5SFZwakl5ZlQ4cE56TzNyczhxRDFlbEpmMA?oc=5",
+      "pub_date": 1764620730.0,
+      "article_url": "https://www.jpost.com/defense-and-tech/article-876822",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/478690",
+      "description": "The robotic systems have gotten much more diverse and standardized, being deployed in much higher volumes to assist with exploring Hamas tunnels, to save risking soldiers' lives from that process."
+    },
+    {
       "headline": "China Warns of Bubble Risk in Booming Humanoid Robotics Industry",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
@@ -65,24 +55,14 @@
       "description": null
     },
     {
-      "headline": "China Is Officially Scared of Robots",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHBvU2RNd1c2dEFlcGNuNGNtUkh5UkNCYzA2aWdjNlRtSWNHOWFaZXpzbjRQTjk3NEt6QnhUZ3FVTFZER2JkVlNnZE9JNFU1OXNESXRsc19VYVpmTEtSRGx6VndRSGxfN082elJfeTZjWWltOUJ0TjNGTjg4azFiU3c0OEs?oc=5",
-      "pub_date": 1764623460.0,
-      "article_url": "https://futurism.com/robots-and-machines/china-officially-scared-robots-bubble",
-      "image": "https://futurism.com/wp-content/uploads/2025/12/china-officially-scared-robots-bubble.jpg?w=1200",
-      "description": "Chinese officials are warning that the country's humanoid robotics industry could be forming a massive bubble."
-    },
-    {
-      "headline": "Video: Sci-fi-like march of China\u2019s humanoid robot \u2018army\u2019 sparks debate in US",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQl9Vc1ZDSmFBS1hYNjJZdm8xSlRIdlNUTTZSY0R4enExU0Z0YzdjWjQySzhqUnVsaFBienc2bmRZUHZ0V1VGekRsRFFTejVqWWM1Yl9NVUptU2pubDBYZDRUWnBHS1dMd3M0VUFocFEwMHNIWXBhV2VjSnpkTGhscmNZYl9kTUtXdDdYMlBQNjFFQ2s?oc=5",
-      "pub_date": 1764592200.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/china-humanoid-robots-ubtech-global-debate",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Untitled-design.jpg",
-      "description": "UBTECH\u2019s synchronized humanoid robot video sparks global debate as critics question authenticity and the company defends it as real."
+      "headline": "Tesla loses some AI staff to a new robotics startup",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGRMV2h4bHplanZsNFpIS1BiNXJTQ21WSjZNZlJ1ZHBaR0Nqb3R2N1dsX1hwbmdVc3J2SmFvUUNBYlFFbGt5QjB0VTByTE9TWkpDTXoteUlrWmNIYlNrX2pjTHlmZ2U5ek96VEZaTkNyVlRSdkNpUmZTU1FNenRQM05QZXBZQTNRR1NtRQ?oc=5",
+      "pub_date": 1764373860.0,
+      "article_url": "https://www.businessinsider.com/tesla-loses-ai-staff-startup-sunday-robotics-2025-11",
+      "image": "https://i.insider.com/692a04f3e1a9cbb014df2eb3?width=1200&format=jpeg",
+      "description": "Sunday Robotics came out of stealth mode last week and revealed a team stocked with Tesla alumni."
     },
     {
       "headline": "Chinese schools offer \u2018embodied intelligence\u2019 courses to aid robotics industry",
@@ -95,6 +75,16 @@
       "description": "Shanghai Jiao Tong University and Zhejiang University are among seven schools that plan to offer \u2018embodied intelligence\u2019 as a new major."
     },
     {
+      "headline": "One million robots drive Amazon\u2019s operation during holidays",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTJJSmNPMEc2WEhkR3gzcGRzSkFFQXZiY1Q0d0t0dktsbGozZUZxckxWVWhFUGtPQWpUS1FhZXlrOXdFLWx4TlotajRqOHp5cFp0LU9VX01GRmsxVF9ZWHZxNzVaVDJZZ1c0NXROSUpGa3dXYVFxWjRPU2FfNDU5d0pR?oc=5",
+      "pub_date": 1764599932.0,
+      "article_url": "https://www.cnn.com/2025/12/01/world/video/amazon-robotics-change-warehouses",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22160871-1875959-3660000002-still.jpg?c=16x9&q=w_800,c_fill",
+      "description": "CNN News Central\u2019s Sara Sidner speaks with Amazon Robotics VP about technology driving Amazon\u2019s holiday rush"
+    },
+    {
       "headline": "CN Energy Group (NASDAQ: CNEY) debuts PATHENBOT robotics platform for North American SME automation",
       "source": "Stock Titan",
       "source_url": "https://www.stocktitan.net",
@@ -103,8 +93,18 @@
       "article_url": "https://www.stocktitan.net/news/CNEY/cn-energy-group-inc-announces-launch-of-pathenbot-robotics-solutions-8clg2yncq3aa.html",
       "image": "https://static.stocktitan.net/company-logo/cney-lg.png",
       "description": "CN Energy\u2019s PATHENBOT unit launches a robotics solutions platform and official website to deliver customizable automation for North American SMEs."
+    },
+    {
+      "headline": "iRobot debt acquired by contract manufacturer as bankruptcy looms",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1Z2c3hKQi1SMThWS0ZRX3JzQWx2OE0yNlRiSGNFaFFWQktIdkNBV0FIeWhTbXZZZjlvd05PQ2J0QXR0dEZfSTdNaXUyZWk5MGhYNDNDQjVVMWtBZ01OeGMzSTRmNWNiNTMzTzg1MXEzcXBqYV9pb25IR1E1OEFLTzJ1R1U0T04wOTlLdmFUZWRuVWM3SmpGMVBEa0ZNZw?oc=5",
+      "pub_date": 1764628543.0,
+      "article_url": "https://www.therobotreport.com/irobot-debt-acquired-by-contract-manufacturer-as-bankruptcy-looms/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2025/12/iRobot_model_2025.jpg",
+      "description": "iRobot negotiations with another potential acquirer fell through, and its main creditor has set a deadline of Jan. 15 for certain conditions."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T02:58:43.777125+00:00"
+  "fetched_at": "2025-12-02T03:56:12.910231+00:00"
 }

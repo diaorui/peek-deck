@@ -68,17 +68,6 @@
       "description": "Just read the Agent-Omni paper. (released last month?) Here\u2019s the core of it: Agent-Omni proposes a master agent that doesn't do the heavy lifting itself but acts as a conductor, coordinating a symphony of specialist foundation models (for vision, audio, text). It interprets a complex task, breaks it down, delegates to the right experts, and synthesizes their outputs. This mirrors what I see in Claude Skills, where the core LLM functions as a smart router, dynamically loading specialised \"knowledge packages\" or procedures on-demand. The true power of it, as is much discussed on Reddit subs, may lie in its simplicity, centered around Markdown files and scripts, which could give it greater vitality and universality than more complex protocols like MCP maybe. I can't help but think: Is this a convergent trend of AI development, between bleeding-edge research and a production system? The game is changing from a raw computing race to a contest of coordination intelligence. What orchestration patterns are you seeing emerge in your stack?"
     },
     {
-      "title": "Epic boss Tim Sweeney thinks stores like Steam should stop labelling games as being made with AI: 'It makes no sense,' he says, because 'AI will be involved in nearly all future production'",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1pax65n/epic_boss_tim_sweeney_thinks_stores_like_steam/",
-      "published": 1764546057.0,
-      "thumbnail": "https://external-preview.redd.it/A2SZ69Ks9iyM_AxJpDKOjoR57HEajLQTgawYBX5ZkyE.jpeg?width=640&crop=smart&auto=webp&s=d62f58ea334dd99195b9db8b051f74f5dc802312",
-      "external_url": "https://www.pcgamer.com/software/ai/epic-boss-tim-sweeney-thinks-stores-like-steam-should-stop-labelling-games-as-being-made-with-ai-it-makes-no-sense-he-says-because-ai-will-be-involved-in-nearly-all-future-production/",
-      "site_name": "PC Gamer",
-      "favicon": "https://vanilla.futurecdn.net/pcgamer/1482179/apple-touch-icon.png",
-      "description": "Don't need a notice if everyone's doing it."
-    },
-    {
       "title": "Google CEO warns US AI regulations risk ceding edge to China",
       "author": "JTHGraphics",
       "url": "https://www.reddit.com/r/artificial/comments/1pbfm42/google_ceo_warns_us_ai_regulations_risk_ceding/",
@@ -88,6 +77,17 @@
       "site_name": "thinkautomated.io",
       "favicon": "https://thinkautomated.io/logo.svg",
       "description": "Sundar Pichai says a fast-growing patchwork of state AI laws could slow U.S. innovation and hand China an edge unless Congress sets clear national standards. Here\u2019s what he said, how the U.S. debate compares with Europe and China, and what automation leaders should do now."
+    },
+    {
+      "title": "Epic boss Tim Sweeney thinks stores like Steam should stop labelling games as being made with AI: 'It makes no sense,' he says, because 'AI will be involved in nearly all future production'",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1pax65n/epic_boss_tim_sweeney_thinks_stores_like_steam/",
+      "published": 1764546057.0,
+      "thumbnail": "https://external-preview.redd.it/A2SZ69Ks9iyM_AxJpDKOjoR57HEajLQTgawYBX5ZkyE.jpeg?width=640&crop=smart&auto=webp&s=d62f58ea334dd99195b9db8b051f74f5dc802312",
+      "external_url": "https://www.pcgamer.com/software/ai/epic-boss-tim-sweeney-thinks-stores-like-steam-should-stop-labelling-games-as-being-made-with-ai-it-makes-no-sense-he-says-because-ai-will-be-involved-in-nearly-all-future-production/",
+      "site_name": "PC Gamer",
+      "favicon": "https://vanilla.futurecdn.net/pcgamer/1482179/apple-touch-icon.png",
+      "description": "Don't need a notice if everyone's doing it."
     },
     {
       "title": "Flock Uses Overseas Gig Workers to Build Its Surveillance AI",
@@ -101,16 +101,16 @@
       "description": "An accidental leak revealed that Flock, which has cameras in thousands of US communities, is using workers in the Philippines to review and classify footage."
     },
     {
-      "title": "An essay on how AI can suppress novelty and keep us trapped in our past",
-      "author": "Kooky_Masterpiece_43",
-      "url": "https://www.reddit.com/r/artificial/comments/1pbon0l/an_essay_on_how_ai_can_suppress_novelty_and_keep/",
-      "published": 1764622697.0,
-      "thumbnail": "https://external-preview.redd.it/5G-e0M_Sgs3BzCNLMJyR4UEa5ZBGpjM9eRxptt4nKpk.jpeg?width=640&crop=smart&auto=webp&s=e6d6e12e16db693c7a7f0121bc6f2f1c317370ea",
-      "external_url": "https://nchafni.substack.com/p/the-ghost-in-the-machine",
-      "site_name": "nchafni.substack.com",
+      "title": "What slows you down on your RAG or other agent workflows?",
+      "author": "coolandy00",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbx92g/what_slows_you_down_on_your_rag_or_other_agent/",
+      "published": 1764644421.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "Working with AI engineering teams for years has shown me a consistent pattern. Most of the time isn\u2019t spent on model. It\u2019s spent on repetitive workflow steps. - Ingestion: data formats vary, cleaning rules stay the same - Chunking: simple segmentation but breaks easily when inconsistent - Metadata alignment: structural drift forces manual fixes - JSON validation: mechanical corrections to model output - Eval setup: repeated patterns across every project - Tool contracts: predictable inputs and outputs - DAG wiring: same templates, different logic - Logging and fallback: always required, rarely complex These steps repeat because they aren\u2019t deep-skill tasks, but they hold the system together. What are the repetitive parts of your AI workflow that slow you down the most?"
     }
   ],
-  "fetched_at": "2025-12-02T02:58:23.615593+00:00"
+  "fetched_at": "2025-12-02T03:55:52.671731+00:00"
 }

@@ -35,17 +35,6 @@
       "description": null
     },
     {
-      "title": "What\u2019s the hardest bug you\u2019ve ever had to track down in a Solidity project?",
-      "author": "SolidityScan",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pbjn9d/whats_the_hardest_bug_youve_ever_had_to_track/",
-      "published": 1764611682.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "We\u2019ve all run into at least one Solidity bug that took way longer than it should\u2019ve. Sometimes it\u2019s a storage layout issue, sometimes it\u2019s proxies behaving weirdly, an inheritance quirk, calldata alignment, math edge cases, or a subtle security assumption that only shows up under certain conditions. Curious to hear from other devs what\u2019s the toughest or most confusing bug you\u2019ve had to debug in a smart contract, and how did you finally track it down?"
-    },
-    {
       "title": "Running my first trading war and am giving away some eth as top prize. This is a game I've been developing and am basically willing to pay for players!",
       "author": "hupcapstudios",
       "url": "https://www.reddit.com/r/ethereum/comments/1pbhd31/running_my_first_trading_war_and_am_giving_away/",
@@ -55,6 +44,17 @@
       "site_name": "BotWars-C",
       "favicon": "https://eth.botwars-c.com/apple-touch-icon.png",
       "description": "Build, train, and compete with trading bots in simulated crypto markets. Climb the leaderboard, win credits, and redeem for ETH."
+    },
+    {
+      "title": "What\u2019s the hardest bug you\u2019ve ever had to track down in a Solidity project?",
+      "author": "SolidityScan",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pbjn9d/whats_the_hardest_bug_youve_ever_had_to_track/",
+      "published": 1764611682.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "We\u2019ve all run into at least one Solidity bug that took way longer than it should\u2019ve. Sometimes it\u2019s a storage layout issue, sometimes it\u2019s proxies behaving weirdly, an inheritance quirk, calldata alignment, math edge cases, or a subtle security assumption that only shows up under certain conditions. Curious to hear from other devs what\u2019s the toughest or most confusing bug you\u2019ve had to debug in a smart contract, and how did you finally track it down?"
     },
     {
       "title": "Yearn Finance Exploited for Over $3 Million Worth of Assets",
@@ -112,5 +112,5 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     }
   ],
-  "fetched_at": "2025-12-02T02:58:26.441250+00:00"
+  "fetched_at": "2025-12-02T03:55:55.645431+00:00"
 }

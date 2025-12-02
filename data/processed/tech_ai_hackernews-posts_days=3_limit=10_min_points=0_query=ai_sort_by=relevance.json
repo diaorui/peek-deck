@@ -9,7 +9,7 @@
       "url": "https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats",
       "hn_url": "https://news.ycombinator.com/item?id=46098992",
       "author": "nutanc",
-      "points": 427,
+      "points": 428,
       "num_comments": 347,
       "created_at": "2025-11-30T18:17:13Z",
       "object_id": "46098992",
@@ -23,7 +23,7 @@
       "url": "https://www.erdosproblems.com/forum/thread/124#post-1892",
       "hn_url": "https://news.ycombinator.com/item?id=46094037",
       "author": "nl",
-      "points": 233,
+      "points": 234,
       "num_comments": 88,
       "created_at": "2025-11-30T05:19:33Z",
       "object_id": "46094037",
@@ -52,7 +52,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46114144",
       "author": "7777777phil",
       "points": 190,
-      "num_comments": 6,
+      "num_comments": 5,
       "created_at": "2025-12-01T22:22:56Z",
       "object_id": "46114144",
       "image": "https://images.macrumors.com/t/E2xFMSegpuYDB6sCT6_1vI991S8=/2500x/article-new/2025/03/Sad-Siri-Feature.jpg",
@@ -79,14 +79,28 @@
       "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
-      "points": 145,
-      "num_comments": 222,
+      "points": 147,
+      "num_comments": 223,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
       "description": "Though LLMs had a lot of promise, this has not been demonstrated in practice. The technology is essentially a failure, and a new AI winter is coming.",
       "favicon": "https://taranis.ie/content/images/size/w256h256/format/jpeg/2025/04/taranis-icon.jpg",
       "site_name": "Taranis"
+    },
+    {
+      "title": "AI agents find $4.6M in blockchain smart contract exploits",
+      "url": "https://red.anthropic.com/2025/smart-contracts/",
+      "hn_url": "https://news.ycombinator.com/item?id=46115214",
+      "author": "bpierre",
+      "points": 112,
+      "num_comments": 66,
+      "created_at": "2025-12-01T23:44:51Z",
+      "object_id": "46115214",
+      "image": null,
+      "description": null,
+      "favicon": "https://red.anthropic.com/anthropic-serve/favicon.ico",
+      "site_name": "red.anthropic.com"
     },
     {
       "title": "Student perceptions of AI coding assistants in learning",
@@ -117,20 +131,6 @@
       "site_name": "Pete Warden's blog"
     },
     {
-      "title": "AI agents find $4.6M in blockchain smart contract exploits",
-      "url": "https://red.anthropic.com/2025/smart-contracts/",
-      "hn_url": "https://news.ycombinator.com/item?id=46115214",
-      "author": "bpierre",
-      "points": 83,
-      "num_comments": 50,
-      "created_at": "2025-12-01T23:44:51Z",
-      "object_id": "46115214",
-      "image": null,
-      "description": null,
-      "favicon": "https://red.anthropic.com/anthropic-serve/favicon.ico",
-      "site_name": "red.anthropic.com"
-    },
-    {
       "title": "Tell HN: It's now impossible to disable all AI features in Firefox 145 (latest)",
       "url": "https://news.ycombinator.com/item?id=46095873",
       "hn_url": "https://news.ycombinator.com/item?id=46095873",
@@ -145,7 +145,7 @@
       "site_name": null
     }
   ],
-  "total_hits": 381,
+  "total_hits": 383,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T02:58:24.463876+00:00"
+  "fetched_at": "2025-12-02T03:55:52.517729+00:00"
 }
