@@ -5,12 +5,52 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Silicon Valley Builds Amazon and Gmail Copycats to Train A.I. Agents",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWl9QamdibTJhWWUzUkcxOW1md29TZWY1VW1BRW1NejZ2eXZFMEx6OUJFbkJMQ05fNk94VmxfTDZCYjNkRTRfRDZlb2I2Wk9MSHhnR2lFNHQxUWlsaFNjV0VUNEdpOWdHcmRpU1hQdEVrTWlUeENLRkJiYVZJSnBNZFNhNFdrN1dBVFctdXFSWEk?oc=5",
+      "pub_date": 1764669637.0,
+      "article_url": "https://www.nytimes.com/2025/12/02/technology/artificial-intelligence-amazon-gmail.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Amazon Releases AI Agents It Says Can Work for Days at a Time",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQbzlJSGV1eFR1Y2hFWVJpb2UwNmNYM2FsMWZLYk5YdWdUQmZBUzBOTURXbE85RlhOWEswTGJpaWozc0NIM3BBbXdUYTR5M1VLYXhEaXl0ak5qc0oxc1l3VUFsakRrYjBjYlZqU2k4N0Z4STVvMExVekc1SHJvSmNIa29oYTFnSzhGNmVNZVRpNTVPVTgwMzU5Wm80b0lqeDhaUEplVExNRWRKOTdaYkNLMEpSRlhhRVA5dDgwN1Z0ZWs2RlZEMG9KOGZUZzA5NE1Ndk11d295VXVIOU1yb0F1RnpqVEpTUkI4NktfNkZHRG5NT1cyZWF4eHBQYTVMUm1lWFI0MXpsbnRCYm9tb3BTNm04aGtmLTlNVmVkSHVzdmtrUDRuQWFTXzRMTWkyR3JfVWNpYVEwMklqZDhfLXlWMV9PR3VlZVdwUTVpNl9DcTZRd3RncnA0a3FKUVpPZWVPQTZRY1pYaHNvVmdubzlNZkkwQzhGYzFwYTk5dko0YUJia01hTk5lcGdvYjI0Y1FwNVA2WTFkazNjSnNtZVF1RWtUOXBYZw?oc=5",
+      "pub_date": 1764699360.0,
+      "article_url": "https://www.wsj.com/articles/amazon-releases-ai-agents-it-says-can-work-for-days-at-a-time-79c82902?gaa_at=eafs&gaa_n=AWEtsqdYG4C17f9GYmScrPQRs8-MjTmLMzNDKCeQh7_zVSK34rwE3bOYV_gR&gaa_ts=692f5d41&gaa_sig=UVqgQ1Nu5Cl1GqiK-mKsa9PMJNN-zINb6_L_BxTRCZ4Sb-PksUDhTzhWMQNQiO8nXbKfrXGxkxJABUx2zrwEIQ%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AWS CEO unveils new frontier agent AI tools, details push to eliminate \u2018tech debt\u2019 or",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1OVJRLVlzWHo2OE1YMkFkZktIaTFaMHByeHBuN0ZxM0c4T3d1T0JmdTdUVi10VGVqWVd6Wnk1bjNOSENSazVPWkNHSktNTklMd3ZwMEk1RG5pcFE?oc=5",
+      "pub_date": 1764709338.0,
+      "article_url": "https://www.foxbusiness.com/video/6385864857112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/f03cafd2-aeb9-4c6e-8569-71fb0ff9b675/9ffe0e92-624e-48b4-945a-7d9ea37b9cef/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Amazon Web Services (AWS) CEO Matt Garman discusses the company\u2019s latest artificial intelligence launches, including Nova Forge and Trainium chips, on \u2018The Claman Countdown.\u2019"
+    },
+    {
       "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOZEw4YWRRNDJ2RXhieXE4TVJhOUtHQmxoQnByWG1EQ0tVQTAzTzhJMkFudmFNbXpRakNWb0pQa3VHTy1IYVZ0WGh0TFNTQkpSeElTWmMtU3paelhvS3o4d0prVktRNDU1QVRCMHJXVFdXdjVpY3c0YlFpTzc1TkFrR2J0a0xNUFBDZUdDNklFbklES1ZDVUNBaVNyZVVvWXYxMTZDNlJsMk9PYVREZnpvcTZXRHQydlpDN29lcF9ramFGWjdiWi1tWUgyUnRINkgtT1NMYjJybFluaDc1RjVickZwdDhKekVGZVRPejZtVHVaTThUX0syZG5ZSWVTLXpsZy04RHZsS0ZxZ3NidTFxekFNbklZZGlKelRvNERzS0xlaGxLRFdmaXU3V0Z5MFVxTUw0dXo3NjBnMWo5Yi1iRkFsNHdSaXFfMUNQN2V4eTliRE1qV0FEaThCem5IbXRUQWFNRTFqVVZ3TVRHcnhVMl83QldIQkd6dFRHNjBiR05id3Y2WG9LN3BERThFdWIwcng3SHY3ajNmNk9FbVIzRno3dUdpSzgzcE52ZC1HLU5kdHptZm8taEl6NHI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNRGZfazZHOVIzb3A4aUFodS04dk9jZ3BJd09rS2dLUXVKaF9uWXpNdHlJYXBjSUQwQUJYWVE0ZUludmJOblN1bUdPOTNxR0VQaVRxYTR1MFJUWG1DQTl4X3BLLUdoRHpEZkVhMDN3QU5fS1FxQnQ3bmdzazZucEdWbnprZ0JCVTM0SzgyX3RWQ25hTDdkZ1F0YkRlbWZ1N1VUeWZCYTJXVGc0R2xiQ1lHZUIzR0J4Y3pqd0FkRGYzRVlpRElWSi1feFFUWGdHOXRvYjUwV2dVSVZsTGtLZXoxVmFLZktlUS1wVExyc1A1bGlSWVZZU2dXb1FpcGl2QWdCbzg0b0RJMFZtTzJxSm5MejJtUzZza1cyX09QRXM1aFBqMWhLVXRySUktUXFpbjB0YmdVYzlBc0pQMk54aVVrUXFWeEFRUnUySmlxV1FUZGxyRWNXdjFRWHdXWklCbjR1VVQxcTRDYmVicTdpa2dXVkJkYnBzMTF4YUZUTjFKbUNjWTVfU1VaMng4V3RsZ2RVYTZMdmtuV2UxN2hza2NlZ1hLYnY4SDU3MWhNODF6bjNzTDFlLXNlVlZVbUc?oc=5",
       "pub_date": 1764656820.0,
-      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqfgCnSiG1vMRCfsLUEMKiZx7Tc5OLw4i8YLtpr0J6NGj1MHEQz8Mas_&gaa_ts=692f5017&gaa_sig=IqTnuhYlwFYBX6tp3CJLdTuMnlZY-pCwW65iFKK9Fjqw2a2GjpYDkpLIgxr5dXLpCREVU_ELSNaAtzP2ZPhrmA%3D%3D",
+      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqfsgtolE-fnAT0OHiDuXJbX58WBqQgVtGWSlOuE2zF1vtJkEOscgQ6K&gaa_ts=692f5d41&gaa_sig=vl5VH4GKLZl5eIu2XDxS8mRED1Ki6RzBg5b62MgQEhO23Kj40Pzk_jYEatGIG1JrMq5-h30izzAQ2iUuHALzxg%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Accenture and OpenAI accelerate enterprise AI success",
+      "source": "OpenAI",
+      "source_url": "https://openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8za3lRc2phaEUySGtpMTRwMDFNXzR4bFZ3TVZQdTFDRHZxMktJSHFZSGV1MzdIR0JOMHc4NE5ERDhpM3NQMWVhSmdGT0tXRUdBNWRXVG1lRlJKSm8?oc=5",
+      "pub_date": 1764594543.0,
+      "article_url": "https://openai.com/index/accenture-partnership/",
       "image": null,
       "description": null
     },
@@ -25,74 +65,24 @@
       "description": "Google\u2019s own \u2018code red\u2019 response to ChatGPT has started paying off."
     },
     {
-      "headline": "OpenAI developing new AI model \u2018Garlic\u2019 amid Google's AI success: report",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWTY5QU9sSENuTUctd0I2dC0wcXFzNmZXSUNPUDIwTnZyZHpfb08tM3Z5S1RnMG5YTTAxUGdhOHdQTjhMUUlmanF2TDVsdzA1OUt4aXRTSXEtQTB5bVpGMHpJc3ltMTNJa2VLak5BMTNkdEN4eDh5TC1iZ1ZNMGdpbGV6VkJrZFYzX3AxZEJzaTlnRTdmSnlPbW5LZnhPQUpk?oc=5",
-      "pub_date": 1764689306.0,
-      "article_url": "https://seekingalpha.com/news/4527661-openai-developing-new-ai-model-garlic-amid-googles-ai-success",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2238615578/image_2238615578.jpg?io=getty-c-w630",
-      "description": "Microsoft (MSFT)-backed OpenAI (OPENAI) is developing a large language model dubbed Garlic to counter Google's recent gains in AI development."
-    },
-    {
-      "headline": "Silicon Valley Builds Amazon and Gmail Copycats to Train A.I. Agents",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWl9QamdibTJhWWUzUkcxOW1md29TZWY1VW1BRW1NejZ2eXZFMEx6OUJFbkJMQ05fNk94VmxfTDZCYjNkRTRfRDZlb2I2Wk9MSHhnR2lFNHQxUWlsaFNjV0VUNEdpOWdHcmRpU1hQdEVrTWlUeENLRkJiYVZJSnBNZFNhNFdrN1dBVFctdXFSWEk?oc=5",
-      "pub_date": 1764669637.0,
-      "article_url": "https://www.nytimes.com/2025/12/02/technology/artificial-intelligence-amazon-gmail.html",
+      "headline": "Watch Luma AI Eyes International Expansion",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcXlUV05ZU0lQdWZFTWVsNlI1WDBJTTZ6OVBEbTNUbXpEOWtZa2VBMVpaNkVfQXBRazNlQ1JjdkgwWkVmdVZaYmRXcWxoSXNmbFpubUlnMi10c21Qa3JVQ1ZWSmIwWHozaDBYZ0FJVGJNMGJhV2ZxT0JpSU0yT0VYSThCTDU2ZzlSYkFQVWZGdi1zUFJTZ2c?oc=5",
+      "pub_date": 1764709498.0,
+      "article_url": "https://www.bloomberg.com/news/videos/2025-12-02/luma-ai-eyes-international-expansion-video",
       "image": null,
       "description": null
     },
     {
-      "headline": "Amazon Releases AI Agents It Says Can Work for Days at a Time",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPMU94RUZYcm5hdHZwZzd1bGZuWFFqb3F5dXFXTnFnYzNTM0MxNmZvTnJhQi1Ha1pHSjJZYWFLWm9MVmJudlFGYWFHRlBGeThxRlljcVdNN2JUOXFzQzZiVFM4ZEcxLVdqUTFOb2p5OFNsSV94cTZYOWhiMGdPZFlGRW5ReFZFbzhKMGpCN3NQdDVXM0xUSUNPSHpPMGpVWXBjb2Y3d0pCNkx6WUxYS3B1NXU0OTdZREZwcHlFMGtmUktzeFBlSzFjdjFfZWUtajVGdk82YmJZTXdZd1dBdl84bzhNVFlNTEJISzhYVkRXWi12Nkg3U0hkQVJLN19aZWV3Y3ItY0htblZhUFI0Wm45aHF3OVd6ZFFiTFllT0RMcEZ5Y3A4al90a0ppX0ZkbzhWcUFudnk0cFFXelpqUDU4T2ZSeWxaVzk5VVNRTlhzZVh6Z0dUWVNmbHo3MGdMcjdjRU81amlpSWwtMjhMamtiV1I5bzlhOUtfUl9vc3UzNlVGMnlsSXhZUF9HRTNVZjVBQ2h6SmQwVlpxdmVKTXRmUXJ3ME5IZw?oc=5",
-      "pub_date": 1764699360.0,
-      "article_url": "https://www.wsj.com/articles/amazon-releases-ai-agents-it-says-can-work-for-days-at-a-time-79c82902?gaa_at=eafs&gaa_n=AWEtsqc-OpD6ZkvqvmOlQnj1hZNH9iG9QTdo57w-Ie8qhTIOdCh_msFNxoac&gaa_ts=692f5017&gaa_sig=FY30-Zsu_Vq-s1pIZXMWPjBegRTP5sK1uzBwtiJy6aqWf_GAmHbyAFkjK1ziCUe1-RUAUBaunMrJmKdcQ-xD8g%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Amazon introduces new frontier Nova models, a pioneering Nova Forge service for organizations to build their own models, and Nova Act for building agents",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnV5Y2I1Ykk3bW9rNUh6dUwtU09nMXFuWU5SenFvc0hZQ2RIZEFIYXEwWVgyTGl1b3BqNm8tdHpaWWw3bkw1Sm11REhrVXZxV1dMQnB0dDMzX3NXSGNPSHkxcVQ0ZVdaZE1ZbWdOQWJPS01PMFc1X2xidnB2dXMyWldjZjk?oc=5",
-      "pub_date": 1764691197.0,
-      "article_url": "https://www.aboutamazon.com/news/aws/aws-agentic-ai-amazon-bedrock-nova-models",
-      "image": "https://assets.aboutamazon.com/dims4/default/61b7a71/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F95%2Fdc%2Fc004987040dcafbd49d49a6e5bbc%2Fabout-amazon-hero-nova-forge-hero1-2000x1125.jpg",
-      "description": "Key takeaways"
-    },
-    {
-      "headline": "Amazon Quietly Rolls Back Its AI Anime Dubs After Massive Backlash",
-      "source": "Gizmodo",
-      "source_url": "https://gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XVGkybmg5bWlzQk5oQXF2Vy1SY3BaM19OSU9yQ1lZZ3dKM2NFY3VWZjFibGRLeV9DTWVwMy01QnNCbnVFaElvd3F2Yi1mSTg2bVN0dndSZWw1Zk1ZWW1sVmlNQmVncS0wNkNMdWIwN1ZoTmVlX3c?oc=5",
-      "pub_date": 1764705634.0,
-      "article_url": "https://gizmodo.com/amazon-anime-ai-dub-backlash-removal-2000694695",
-      "image": "https://gizmodo.com/app/uploads/2025/12/no-game-no-life-zero-1200x675.jpg",
-      "description": "As quickly as they arrived, many of Prime Video's controversial generated dubs have been removed from the streamer."
-    },
-    {
-      "headline": "OECD warns tariffs, AI will test resilience of the global economy",
-      "source": "Al Jazeera",
-      "source_url": "https://www.aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUV9CaXd4VHN5SC1FSmswX1BYX1h2ZUowT19jRk4wSi1PMks4bkk0T05GdGtuRXlvRzZESmxsSTF4ODdyVUtfRmFZMTdpUDNaVFpHQmNyVU4yT0FBUjl0Q3JQQVUwSXFHaTlzS2lNQU5oR2pTbEUtcGZJZHo4dDFQODg0N2FyMTdjNUxwSVZfNE9RTl82d1oyUVlkbHVqamJHZkhwWGcxRnc4dVpi0gGyAUFVX3lxTE1RQTlQb1BNalpzOVVtUzhvYXhmNmg4NG9sRFFNdGNWeVdaME5wdzRlLWVybWNnVDN1ZFg2LW9DYWk0RFlNX1YyTjNmR0RCbFJ6bEo0LWFhNFRTR3lYY2djZjAzUTZrSXVmdDFFS3F4V0l0bHlDeTFBZjhIRkhmd1ozYVlsVEQtS2xYRGRBTWY3aTVRM2dWb2xId1pLOS0xWldnVjVEdFdidkprT0IyNmx6Wnc?oc=5",
-      "pub_date": 1764704475.0,
-      "article_url": "https://www.aljazeera.com/economy/2025/12/2/oecd-warns-tariffs-ai-will-test-resilience-of-the-global-economy",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2025/12/2025-06-04T142345Z_564611551_RC2PVEAKJ9CE_RTRMADP_3_OECD-ECONOMY-1-1764701954.jpg?resize=1920%2C1440",
-      "description": "The organisation warns that President Donald Trump has put US fiscal policy on an unsustainable trajectory."
-    },
-    {
-      "headline": "Vultr to invest $1 billion in Ohio AI cluster using AMD chips",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdGkzM0o4N25ZQlJtbFJicDZsa0p5WWx5U2xoblRscklwU1pBTFpnTVFiVy0tenQtMW80LTdtNnp1VHBmNXZTeDQ3NmVtLU1KSDZqZDBoaHhTQkEtd0JkQWRMR0JXeTN3dTd5bThmVE5sRG1LY29GcXFBQS0wLTJxemRrRGZyaE1Zdm55ZWFlWnkxblBRMk9wWmI2VHNfampL?oc=5",
-      "pub_date": 1764705308.0,
-      "article_url": "https://www.reuters.com/business/vultr-invest-1-billion-ohio-ai-cluster-using-amd-chips-2025-12-02/",
-      "image": null,
-      "description": null
+      "headline": "'Pro-human AI': Utah Gov. Cox annoucnes new AI innaitive at tech conference",
+      "source": "The Salt Lake Tribune",
+      "source_url": "https://www.sltrib.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1acF9DTU9HTXNtVFRWd2ZqaHBzaW1nX2dJU09nYUNMU21LNzUtejhYTS1Dcjl3WU9kcWh4ZWktVUpDZnVDaXdRYkR4cWViV2pLbk0xWjVsT2xiY1Y5X2dTR3laXzdpQnl1SEI4ZjBvUVU2RUVrcFNGdE1Ua1NKdXM?oc=5",
+      "pub_date": 1764709258.0,
+      "article_url": "https://www.sltrib.com/news/politics/2025/12/02/pro-human-ai-utah-gov-cox/",
+      "image": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2FISOWECWQ7BA6TGWKCGBUBFPTGA.jpg?auth=c0d698d73a35d1e63d7dcdf91122f5cc12a42fddfa728b102e3b9513683be77a&width=1200",
+      "description": "Gov. Cox told a gathering of policymakers and tech leaders Tuesday that as AI seeps further into daily life, \u201cWe have to apply Utah values to this new technology.\u201d"
     },
     {
       "headline": "\u2018The biggest decision yet\u2019: Jared Kaplan on allowing AI to train itself",
@@ -103,8 +93,18 @@
       "article_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/02/jared-kaplan-artificial-intelligence-train-itself",
       "image": "https://i.guim.co.uk/img/media/5f1dbff127345154bf57ef7a554a4727975d1c3e/0_848_3091_2471/master/3091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6daf53e3bf38527380051f2157a5fb94",
       "description": "Anthropic\u2019s chief scientist says AI autonomy could spark a beneficial \u2018intelligence explosion\u2019 \u2013 or be the moment humans lose control"
+    },
+    {
+      "headline": "Elon Musk lists his three most important ingredients for AI",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSDI3aFlmU25vdm5mcUd2LVJ2MFRTWUkxMzNlUVQzWE5lRWdBN1d4NGRNdnpRdXU4eTBBVndQRkViY3o2Y3Rmb1EwVjZVN0lTeWNWM3A3SHVvN2pnZkIzMXJtdk92YUxnTVpVUDZ6OTUtdlNWNWMybVdfMG1Mb2FLSU1oRmo0TmotSkhTUmItb1J3dl91ei1peENsVUlxd9IBowFBVV95cUxPV1Q3MXNqajIybm05cndybDNjOTdzdUozOEkzWmdfQWI0MldGOUlzS0tGYktvMHl1TlFQS3o2VW5ZbW83dmg0N09mQzJtd3h6WFlRX3dpVFRucFVhNk45Yk1MM05IQXBDUmJ1TDJEdkNKN1diekl2TUJscFREcm1EMU9pRS1TSjc3TUNPblFseTd0Y0pHR3FmR09YLUFualRDVFJv?oc=5",
+      "pub_date": 1764691060.0,
+      "article_url": "https://www.cnbc.com/2025/12/02/elon-musk-lists-his-three-most-important-ingredients-for-ai-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108228375-1763570599577-108228375-1763570145468-gettyimages-2246882306-US_SAUDI.jpg?v=1763570607&w=1920&h=1080",
+      "description": "\"You can make an AI go insane if you force it to believe things that aren't true because it will lead to conclusions that are also bad,\" Elon Musk said."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T20:31:50.288872+00:00"
+  "fetched_at": "2025-12-02T21:28:03.762058+00:00"
 }

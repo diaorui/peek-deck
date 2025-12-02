@@ -19,6 +19,20 @@
       "site_name": "gpt3experiments.substack.com"
     },
     {
+      "title": "OpenAI declares 'code red' as Google catches up in AI race",
+      "url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
+      "hn_url": "https://news.ycombinator.com/item?id=46121870",
+      "author": "goplayoutside",
+      "points": 256,
+      "num_comments": 315,
+      "created_at": "2025-12-02T15:00:16Z",
+      "object_id": "46121870",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "Google\u2019s own \u2018code red\u2019 response to ChatGPT has started paying off.",
+      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
+      "site_name": "The Verge"
+    },
+    {
       "title": "AI just proved Erdos Problem #124",
       "url": "https://www.erdosproblems.com/forum/thread/124#post-1892",
       "hn_url": "https://news.ycombinator.com/item?id=46094037",
@@ -38,7 +52,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46115214",
       "author": "bpierre",
       "points": 207,
-      "num_comments": 118,
+      "num_comments": 119,
       "created_at": "2025-12-01T23:44:51Z",
       "object_id": "46115214",
       "image": null,
@@ -66,7 +80,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
       "points": 189,
-      "num_comments": 270,
+      "num_comments": 271,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
@@ -75,25 +89,11 @@
       "site_name": "Taranis"
     },
     {
-      "title": "OpenAI declares 'code red' as Google catches up in AI race",
-      "url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
-      "hn_url": "https://news.ycombinator.com/item?id=46121870",
-      "author": "goplayoutside",
-      "points": 180,
-      "num_comments": 216,
-      "created_at": "2025-12-02T15:00:16Z",
-      "object_id": "46121870",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "Google\u2019s own \u2018code red\u2019 response to ChatGPT has started paying off.",
-      "favicon": "https://www.theverge.com/static-assets/icons/apple-touch-icon.png",
-      "site_name": "The Verge"
-    },
-    {
       "title": "How Brian Eno Created Ambient 1: Music for Airports (2019)",
       "url": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/",
       "hn_url": "https://news.ycombinator.com/item?id=46118722",
       "author": "dijksterhuis",
-      "points": 174,
+      "points": 176,
       "num_comments": 88,
       "created_at": "2025-12-02T07:46:47Z",
       "object_id": "46118722",
@@ -107,8 +107,8 @@
       "url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
       "hn_url": "https://news.ycombinator.com/item?id=46124324",
       "author": "nabla9",
-      "points": 101,
-      "num_comments": 122,
+      "points": 110,
+      "num_comments": 149,
       "created_at": "2025-12-02T18:10:23Z",
       "object_id": "46124324",
       "image": "https://i.insider.com/692dc1a9abd5e944effbcd59?width=1200&format=jpeg",
@@ -131,21 +131,21 @@
       "site_name": null
     },
     {
-      "title": "Accenture dubs 800k staff 'reinventors' amid shift to AI",
-      "url": "https://www.theguardian.com/business/2025/dec/01/accenture-rebrands-staff-reinventors-ai-artificial-intelligence",
-      "hn_url": "https://news.ycombinator.com/item?id=46105825",
-      "author": "n1b0m",
-      "points": 57,
-      "num_comments": 63,
-      "created_at": "2025-12-01T10:41:14Z",
-      "object_id": "46105825",
-      "image": "https://i.guim.co.uk/img/media/adcd61d6e826f9dca934f3eef2452b135ad68f5b/19_0_2543_2033/master/2543.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ebbb935a14d8f1fd9c707bc68f612c1",
-      "description": "Consultancy\u2019s move to embrace artificial intelligence follows Disney\u2019s use of the term \u2018imagineers\u2019",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "site_name": "the Guardian"
+      "title": "AI Is Destroying the University and Learning Itself",
+      "url": "https://www.currentaffairs.org/news/ai-is-destroying-the-university-and-learning-itself",
+      "hn_url": "https://news.ycombinator.com/item?id=46121833",
+      "author": "speckx",
+      "points": 58,
+      "num_comments": 41,
+      "created_at": "2025-12-02T14:57:44Z",
+      "object_id": "46121833",
+      "image": "https://www.currentaffairs.org/hubfs/Issue%2056%20Online%20Images/Issue56-Chatversity-Online-Image.jpg",
+      "description": "Students use AI to write papers, professors use AI to grade them, degrees become meaningless, and tech companies make fortunes. Welcome to the death of higher education.",
+      "favicon": "https://www.currentaffairs.org/hubfs/favicon.png",
+      "site_name": "currentaffairs.org"
     }
   ],
-  "total_hits": 472,
+  "total_hits": 483,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T20:31:16.300170+00:00"
+  "fetched_at": "2025-12-02T21:27:26.241643+00:00"
 }
