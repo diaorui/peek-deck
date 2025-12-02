@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.22699",
       "arxiv_url": "https://arxiv.org/abs/2511.22699",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22699.png",
-      "upvotes": 98,
+      "upvotes": 99,
       "num_comments": 2,
       "published_at": "2025-11-27T13:52:07.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
@@ -73,7 +73,7 @@
       "num_comments": 4,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
-      "github_stars": 4942,
+      "github_stars": 4984,
       "project_page": "https://ai.meta.com/sam3/"
     },
     {
@@ -96,6 +96,25 @@
       "project_page": null
     },
     {
+      "id": "2510.14528",
+      "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
+      "authors": "Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)",
+      "organization_name": "PaddlePaddle",
+      "organization_fullname": "PaddlePaddle",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1654942635336-5f3ff69679c1ba4c353d0c5a.png",
+      "summary": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) that integrates a NaViT-style\ndynamic resolution visual encoder with the ERNIE-4.5-0.3B language model to\nenable accurate element recognition. This innovative model efficiently supports\n109 languages and excels in recognizing complex elements (e.g., text, tables,\nformulas, and charts), while maintaining minimal resource consumption. Through\ncomprehensive evaluations on widely used public benchmarks and in-house\nbenchmarks, PaddleOCR-VL achieves SOTA performance in both page-level document\nparsing and element-level recognition. It significantly outperforms existing\nsolutions, exhibits strong competitiveness against top-tier VLMs, and delivers\nfast inference speeds. These strengths make it highly suitable for practical\ndeployment in real-world scenarios.",
+      "ai_summary": "PaddleOCR-VL, a vision-language model combining NaViT-style visual encoder and ERNIE-4.5 language model, achieves state-of-the-art performance in document parsing with minimal resource consumption.",
+      "hf_url": "https://huggingface.co/papers/2510.14528",
+      "arxiv_url": "https://arxiv.org/abs/2510.14528",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14528.png",
+      "upvotes": 99,
+      "num_comments": 6,
+      "published_at": "2025-10-16T06:18:48.000Z",
+      "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
+      "github_stars": 65589,
+      "project_page": null
+    },
+    {
       "id": "2511.19575",
       "title": "HunyuanOCR Technical Report",
       "authors": "Hunyuan Vision Team, Pengyuan Lyu, Xingyu Wan et al. (26 authors)",
@@ -115,44 +134,6 @@
       "project_page": null
     },
     {
-      "id": "2510.14528",
-      "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B\n  Ultra-Compact Vision-Language Model",
-      "authors": "Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)",
-      "organization_name": "PaddlePaddle",
-      "organization_fullname": "PaddlePaddle",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1654942635336-5f3ff69679c1ba4c353d0c5a.png",
-      "summary": "In this report, we propose PaddleOCR-VL, a SOTA and resource-efficient model\ntailored for document parsing. Its core component is PaddleOCR-VL-0.9B, a\ncompact yet powerful vision-language model (VLM) that integrates a NaViT-style\ndynamic resolution visual encoder with the ERNIE-4.5-0.3B language model to\nenable accurate element recognition. This innovative model efficiently supports\n109 languages and excels in recognizing complex elements (e.g., text, tables,\nformulas, and charts), while maintaining minimal resource consumption. Through\ncomprehensive evaluations on widely used public benchmarks and in-house\nbenchmarks, PaddleOCR-VL achieves SOTA performance in both page-level document\nparsing and element-level recognition. It significantly outperforms existing\nsolutions, exhibits strong competitiveness against top-tier VLMs, and delivers\nfast inference speeds. These strengths make it highly suitable for practical\ndeployment in real-world scenarios.",
-      "ai_summary": "PaddleOCR-VL, a vision-language model combining NaViT-style visual encoder and ERNIE-4.5 language model, achieves state-of-the-art performance in document parsing with minimal resource consumption.",
-      "hf_url": "https://huggingface.co/papers/2510.14528",
-      "arxiv_url": "https://arxiv.org/abs/2510.14528",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14528.png",
-      "upvotes": 99,
-      "num_comments": 6,
-      "published_at": "2025-10-16T06:18:48.000Z",
-      "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
-      "github_stars": 65532,
-      "project_page": null
-    },
-    {
-      "id": "2511.18423",
-      "title": "General Agentic Memory Via Deep Research",
-      "authors": "B. Y. Yan, Chaofan Li, Hongjin Qian et al. (5 authors)",
-      "organization_name": "BAAI",
-      "organization_fullname": "Beijing Academy of Artificial Intelligence",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1664511063789-632c234f42c386ebd2710434.png",
-      "summary": "Memory is critical for AI agents, yet the widely-adopted static memory, aiming to create readily available memory in advance, is inevitably subject to severe information loss. To address this limitation, we propose a novel framework called general agentic memory (GAM). GAM follows the principle of \"just-in time (JIT) compilation\" where it focuses on creating optimized contexts for its client at runtime while keeping only simple but useful memory during the offline stage. To this end, GAM employs a duo-design with the following components. 1) Memorizer, which highlights key historical information using a lightweight memory, while maintaining complete historical information within a universal page-store. 2) Researcher, which retrieves and integrates useful information from the page-store for its online request guided by the pre-constructed memory. This design allows GAM to effectively leverage the agentic capabilities and test-time scalability of frontier large language models (LLMs), while also facilitating end-to-end performance optimization through reinforcement learning. In our experimental study, we demonstrate that GAM achieves substantial improvement on various memory-grounded task completion scenarios against existing memory systems.",
-      "ai_summary": "GAM, a novel framework that employs JIT compilation principles, improves memory efficiency and task completion by leveraging a lightweight memorizer and researcher in conjunction with reinforcement learning.",
-      "hf_url": "https://huggingface.co/papers/2511.18423",
-      "arxiv_url": "https://arxiv.org/abs/2511.18423",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.18423.png",
-      "upvotes": 150,
-      "num_comments": 2,
-      "published_at": "2025-11-23T07:29:33.000Z",
-      "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
-      "github_stars": 617,
-      "project_page": "https://github.com/VectorSpaceLab/general-agentic-memory"
-    },
-    {
       "id": "2511.16624",
       "title": "SAM 3D: 3Dfy Anything in Images",
       "authors": "SAM 3D Team, Xingyu Chen, Fu-Jen Chu et al. (23 authors)",
@@ -170,6 +151,25 @@
       "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
       "github_stars": 4316,
       "project_page": "https://ai.meta.com/sam3d/"
+    },
+    {
+      "id": "2511.18423",
+      "title": "General Agentic Memory Via Deep Research",
+      "authors": "B. Y. Yan, Chaofan Li, Hongjin Qian et al. (5 authors)",
+      "organization_name": "BAAI",
+      "organization_fullname": "Beijing Academy of Artificial Intelligence",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1664511063789-632c234f42c386ebd2710434.png",
+      "summary": "Memory is critical for AI agents, yet the widely-adopted static memory, aiming to create readily available memory in advance, is inevitably subject to severe information loss. To address this limitation, we propose a novel framework called general agentic memory (GAM). GAM follows the principle of \"just-in time (JIT) compilation\" where it focuses on creating optimized contexts for its client at runtime while keeping only simple but useful memory during the offline stage. To this end, GAM employs a duo-design with the following components. 1) Memorizer, which highlights key historical information using a lightweight memory, while maintaining complete historical information within a universal page-store. 2) Researcher, which retrieves and integrates useful information from the page-store for its online request guided by the pre-constructed memory. This design allows GAM to effectively leverage the agentic capabilities and test-time scalability of frontier large language models (LLMs), while also facilitating end-to-end performance optimization through reinforcement learning. In our experimental study, we demonstrate that GAM achieves substantial improvement on various memory-grounded task completion scenarios against existing memory systems.",
+      "ai_summary": "GAM, a novel framework that employs JIT compilation principles, improves memory efficiency and task completion by leveraging a lightweight memorizer and researcher in conjunction with reinforcement learning.",
+      "hf_url": "https://huggingface.co/papers/2511.18423",
+      "arxiv_url": "https://arxiv.org/abs/2511.18423",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.18423.png",
+      "upvotes": 150,
+      "num_comments": 2,
+      "published_at": "2025-11-23T07:29:33.000Z",
+      "github_repo": "https://github.com/VectorSpaceLab/general-agentic-memory",
+      "github_stars": 626,
+      "project_page": "https://github.com/VectorSpaceLab/general-agentic-memory"
     },
     {
       "id": "2510.22543",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-02T14:52:06.560275+00:00"
+  "fetched_at": "2025-12-02T15:57:32.617099+00:00"
 }

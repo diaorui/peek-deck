@@ -24,17 +24,6 @@
       "description": "AI powered by free energy will replace humans everywhere!"
     },
     {
-      "title": "Elon Musk's AI Grok says it would kill all Jewish people to save his brain",
-      "author": "TheMirrorUS",
-      "url": "https://www.reddit.com/r/artificial/comments/1pbbs4e/elon_musks_ai_grok_says_it_would_kill_all_jewish/",
-      "published": 1764592973.0,
-      "thumbnail": "https://external-preview.redd.it/v89IHkm55e0k7KzffLaMNt5gWn_Qko6ukG-i83AikQI.jpeg?width=640&crop=smart&auto=webp&s=811b550700a273f4a9276accf676878eca2eedc0",
-      "external_url": "https://www.themirror.com/news/us-news/elon-musk-grok-ai-jewish-1536879",
-      "site_name": "The Mirror US",
-      "favicon": "https://www.themirror.com/nav-web-static/release-v41-2d15ba2d89cb711ebddf965f66220d2f8a33a851/public/assets/themirror/favicon.ico",
-      "description": "The AI chatbot Grok has been dogged by accusations of anti-semitism and holocaust denial with the French Government launching a probe into claims it had been playing down Nazi efforts to exterminate Jewish people during WWII"
-    },
-    {
       "title": "\u2018The biggest decision yet\u2019 - Allowing AI to train itself | Anthropic\u2019s chief scientist says AI autonomy could spark a beneficial \u2018intelligence explosion\u2019 \u2013 or be the moment humans lose control",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1pcacci/the_biggest_decision_yet_allowing_ai_to_train/",
@@ -44,6 +33,17 @@
       "site_name": "the Guardian",
       "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
       "description": "Anthropic\u2019s chief scientist says AI autonomy could spark a beneficial \u2018intelligence explosion\u2019 \u2013 or be the moment humans lose control"
+    },
+    {
+      "title": "Elon Musk's AI Grok says it would kill all Jewish people to save his brain",
+      "author": "TheMirrorUS",
+      "url": "https://www.reddit.com/r/artificial/comments/1pbbs4e/elon_musks_ai_grok_says_it_would_kill_all_jewish/",
+      "published": 1764592973.0,
+      "thumbnail": "https://external-preview.redd.it/v89IHkm55e0k7KzffLaMNt5gWn_Qko6ukG-i83AikQI.jpeg?width=640&crop=smart&auto=webp&s=811b550700a273f4a9276accf676878eca2eedc0",
+      "external_url": "https://www.themirror.com/news/us-news/elon-musk-grok-ai-jewish-1536879",
+      "site_name": "The Mirror US",
+      "favicon": "https://www.themirror.com/nav-web-static/release-v41-2d15ba2d89cb711ebddf965f66220d2f8a33a851/public/assets/themirror/favicon.ico",
+      "description": "The AI chatbot Grok has been dogged by accusations of anti-semitism and holocaust denial with the French Government launching a probe into claims it had been playing down Nazi efforts to exterminate Jewish people during WWII"
     },
     {
       "title": "\u2018It\u2019s going much too fast\u2019: the inside story of the race to create the ultimate AI | In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it",
@@ -112,5 +112,5 @@
       "description": "Founders Daniela and Dario Amodei have made Anthropic and its Claude models the AI many companies prefer over rivals OpenAI and ChatGPT."
     }
   ],
-  "fetched_at": "2025-12-02T15:16:21.772263+00:00"
+  "fetched_at": "2025-12-02T15:57:32.924121+00:00"
 }

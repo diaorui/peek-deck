@@ -112,5 +112,5 @@
       "description": "I have the following questions regarding ERC3643 tokens, widely known as RWAs: Say for NVDAonThe asset value is determined from the NVDA stock, right? But how is the value of the NVDAon token changing on non-trading days(Weekends & holidays)? Can the value of the NVDAon(the RWA) Becomes zero if all of the holders withdraw their holdings, just like any standard ERC-20 token? If the value of the ERC3643 token is pegged with the underlying asset, then how are they different from each other, but with this much larger margin? ( As of 1.12.2025, NVDAon is 174.80 & NVDA is 176.98). This means their value is being determined based on their traded value?"
     }
   ],
-  "fetched_at": "2025-12-02T15:16:21.882973+00:00"
+  "fetched_at": "2025-12-02T15:57:35.869258+00:00"
 }

@@ -5,16 +5,6 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "US stocks hold steady as bond yields and bitcoin stabilize",
-      "source": "WRAL",
-      "source_url": "https://www.wral.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVm1NWEhrV0kzclFVcDB4LVpiUkQ2VThydjdINndWM3pxeFhTRFJQR1VqcnRWUURsclJ6NC1TcEl1ODB5dUpMOFlZU05CVXh4VzJibUhtbGhSZDlWMVVDRi1wcTRmb0pXYkNZbXEtM0t3cm12TThhaHlNMGcwcTRVaWxxZl9kUEFIUkFRS2JrOWdpZmczd1JmMG5n?oc=5",
-      "pub_date": 1764686352.0,
-      "article_url": "https://www.wral.com/news/ap/e1058-us-stocks-hold-steady-as-bond-yields-and-bitcoin-stabilize/",
-      "image": "https://images.wral.com/7f37aa1f-f8f3-504a-9546-f70475725fe0?w=1200&h=630",
-      "description": "The U.S. stock market is holding relatively steady as both bond yields and bitcoin stabilize. The S&P 500 rose 0.3% in early trading Tuesday, coming off its first loss in six days. The Dow Jones Industrial Average climbed 139 points, or 0.3%, and the Nasdaq composite rose 0.4%. MongoDB soared aft..."
-    },
-    {
       "headline": "Bonds and bitcoin find some footing, stocks eke out gains",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
@@ -25,24 +15,24 @@
       "description": null
     },
     {
-      "headline": "Wall Street holds stronger as bond yields and bitcoin stabilize",
-      "source": "The Press Democrat",
-      "source_url": "https://www.pressdemocrat.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjNXcVlMdkZYQUFyenB6eVo4RHVKM1V0dzlWa1ExLUNnZU5OVzkyV3VRTjR2QmlENmtTM2VpaFY3Q0c5Mjh3TUxibk1iWURON20tNDVPRGo4ejF6TGxWTktmUkRaQURHb04xUlNNNW42b0F0Z2o2WVVHdE5uY3dUOUZFWGhvMExfdkNRc3R5cUY4VXZQN1JWQUUtNXZ3Q0pSX2R5SW5qclY?oc=5",
-      "pub_date": 1764687373.0,
-      "article_url": "https://www.pressdemocrat.com/2025/12/02/wall-street-holds-stronger-as-bond-yields-and-bitcoin-stabilize/",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2025/12/Financial_Markets_Wall_Street_88924.jpg?w=1024&h=682",
-      "description": "The stock market got some help from the bond market, where Treasury yields were mixed following jumps the day before."
+      "headline": "Bitcoin logs its worst day since March",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
+      "pub_date": 1764574221.0,
+      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
     },
     {
-      "headline": "Bitcoin rebounds, ETFs take hit, BofA recommends crypto: 3 Things",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM2JYV2ZQR1ZLZEI1cHFmN3NSY1VvVW4teThTcVRkbDhoaUY4OE4wcXliMXVCLXpiUHA3ZVVndE5ucy1wZHlndEd5azc2dlE2ZnlNd1hleEdTdlZtbDFCbVQ4MTd2RHFiN0Jack5KRXZ0WU13ZC0xRmlibU9RUmlQSFd5WQ?oc=5",
-      "pub_date": 1764684506.0,
-      "article_url": "https://finance.yahoo.com/video/bitcoin-rebounds-etfs-hit-bofa-140826729.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/722xrdbYSPVQEoF7PEGmkg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/39116ab0-cf88-11f0-8b79-4e042caa7994",
-      "description": "US stock futures (ES=F, NQ=F, YM=F) are rising in Tuesday's pre-market trading as bitcoin (BTC-USD) bounces back above $87,000 per token. As bitcoin's recent volatility has dragged crypto stocks lower, particularly hitting Strategy's (MSTR) ETFs in 2025. Bank of America (BAC) is recommending that its wealth management clients should have 4% of their portfolio allocated into crypto. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief."
+      "headline": "Wall Street holds stronger as bond yields and bitcoin stabilize",
+      "source": "AP News",
+      "source_url": "https://apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRXF0eGs4RzR4NkhDckZGV3BJYUVxLXNrQ0RDeXF6a2hNSUsyWU9zdzN4UWRfYU93STdiRU5WTmloQUZGR19udUp6cG1raUg3OEsycUVUUDFNdDBNTVhJMW50RXRqV2NaV1huXzREUEQzM1Fmdk5XbzE2Sk4wQ2dlTFpRcTUwV2FPXzhrVm5BYkNfck54Z1VHUUdNNV9aNkZad3c?oc=5",
+      "pub_date": 1764686760.0,
+      "article_url": "https://apnews.com/article/stocks-markets-rates-bitcoin-cyber-trump-e1058c781c79d8860eb1ee70db21dc7c",
+      "image": "https://dims.apnews.com/dims4/default/d523c89/2147483647/strip/true/crop/5160x2903+0+269/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa7%2F20%2Fe0a3a5691f995abde41f3c8a1b70%2Fb53cef6e60e14f9fa83dd8afa4d7703c",
+      "description": "The U.S. stock market is holding stronger as both bond yields and bitcoin stabilize. The S&amp;P 500 rose 0.5% Tuesday, coming off its first loss in six days."
     },
     {
       "headline": "'Big Short' investor Michael Burry says bitcoin is the 'tulip bulb of our time'",
@@ -55,42 +45,22 @@
       "description": "The investor said seeing the blockchain-based currency hit $100,000 was \"the most ridiculous thing.\""
     },
     {
-      "headline": "Stocks Rebound as Bitcoin Steadies; Boeing Jumps on FCF Forecast",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnQ2YnhMZzIzdGdmZ2hYc0Z5bExjeExPUnBzSjhqbE5kd3ZzMmp6Z2s2dzFLTDVKMTM3a21UT2dXa09jdnZucDZlZGR0MW9hUUFGZlp2bzVuRlFQbXZkcmlKX0VrUm9ydm92cERlS0tlaURUSVZRRXkwTXp2ZTdUNUNJU1JfSVEyRlowY25Na21pSkl4dXpneW1Gb2JtYVJQQTFpbWpHQTRVUUdYUTFtUnZPVEU?oc=5",
-      "pub_date": 1764686224.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/stocks-rebound-as-bitcoin-steadies-boeing-jumps-on-fcf-forecast",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im.iz76h.EJk/v1/1200x800.jpg",
-      "description": "Stocks clawed back some ground as investors\u2019 rush out of riskier assets eased, helped by a pause in the slide of Bitcoin that tempered the risk-off mood."
-    },
-    {
-      "headline": "Bitcoin falls again after weak November as bearish sentiment goes on",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVUgzOWlhMW9jYVV3Z2hHMFJmSXpTaC1Tb0N3OE1WNXo2eU1MYTVEdWRDNGw4Zk1FVzdFZTIySVRNYTdoQWIwVXVTcnNrZmp1ejViMThIcHA5X3JfRDFTaHk2amlNcHNNNzBsWXRiSkhWNXM4UFBvYm5raEc4WWFxYmo2ZnpCeDdyTDBsa1JZU1loRnVQNXBtVFFXRGRwMDRUQXdBdXVxRVQyVVBr?oc=5",
-      "pub_date": 1764627155.0,
-      "article_url": "https://www.reuters.com/business/finance/bitcoin-falls-5-below-90000-investors-ditch-risk-assets-2025-12-01/",
+      "headline": "Strategy, the Bitcoin-Buying Company, Raises $1.44 Billion to Weather Crypto Downturn",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOdDk5Wk1IV0RRTWZrLXJ4c1FnbFNpSmw3YmVsbEZyMGZMYzBSRmx3SnBXb1N5STlCSjZCZEplREFvX0pKNzE1cG8ydzhXU3hhWHlsSWJSelV5Tjc0UEk3MW1HcjJnVGMxSExvdklXUUQtckRRS3Fmdkd4bWNsWDd5ZUV4MWFvYndhOEUxMXZFV3ZobUNQQ0lJSE5ranViOUxkUDFpSTRLeHVSRTlzR0FfRHJQdkhzaXpxckJPeVo4WjVmcTVPN1BoVzRjYVZpMDR3cHc2R0c1SFF3blpKc2R2Z1dHN1BETkpMYllXZHIzZXR0Q0Q2d0tRVnk1dnNCTTR0YnREalZkTFl4a0tLSEdkUjg5UHllRV9VX3pnMnAwMnNpdkVVbl83aDR5MlNEOE9ER0ZiNVNwY2FVMDJFdHNNUXUxVVZJNms3UEFBMUktSHRiQkJtTGFWY0NJMFNlckVqMHlHUE5renFhTHExQm13SExCYVVVdndJQ3I0VGhSck1DNVY3OFBMM1Q4NnAtMWctQmt6a2Q5N25yUWZKRlE4M1NJeUgycXljX0Y0cVRkOEJVTHRidnRCVA?oc=5",
+      "pub_date": 1764626940.0,
+      "article_url": "https://www.wsj.com/business/strategy-cuts-outlook-establishes-1-44-billion-reserve-amid-bitcoin-selloff-020019d4?gaa_at=eafs&gaa_n=AWEtsqdI00ClohpT0AMZOqBGASe2zis03fgMfKyl-mnLA1eeh2WPxOXs9vuj&gaa_ts=692f0ff1&gaa_sig=t4lmcpu4ab3OlfFt6Cinh0EpC7PDe79pW4Xl5OOQSVZGEfqsXbrRtDEwnKmgzuld5INmwJw3nRneLCjACgJWGg%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Tech stocks linked to Bitcoin take a battering as crypto traders brace for Strategy to breach danger threshold",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xTGVDUlhBcU13TGxFZFlPZFoxOHkzVUNvTmhISjlYZWR0LTI5S0JmVDBZdW1aakVkQ2paVkxPbkFQREN1RlN6YmdYQlltYllVZXBtdWlldWlrN3pFZmd6c0RWWmRjT3hWY0hvd3hCMDlJZVZCZl92dTBjUTI?oc=5",
-      "pub_date": 1764677040.0,
-      "article_url": "https://fortune.com/2025/12/02/stocks-bitcoin-strategy-ratio-market-cap/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2217027772.jpg?resize=1200,600",
-      "description": "Michael Saylor\u2019s Strategy, the leading Bitcoin treasury company, now has a stock market cap worth less than the Bitcoin it holds."
-    },
-    {
-      "headline": "Strategy, the Bitcoin-Buying Company, Raises $1.44 Billion to Weather Crypto Downturn",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQNFFCS1BRbXU3LUlpUEhjdko4c1RQaXQ5QlRhcXdpRXZ0NzFKeDJwYjYwdldpUXdsdHA4dHZnUEFCNC1YbzRhUmwyNF9scVM3VEh5RzJUOTUwM0tDY0tyNFV0VkhLQXlOc3hFMTBGRHcyWVNSLU0tZFhRdHlSOGJ3TW5FOVlqVHJwWUNJLTZHcldEZ3NXZlpXZk5Qb3NZSHljTHVHZmpNOUFrOFMxYlR2UXB5VHZSTkdYSklCZGlUcEtYdlAwSjdMNXFWRnlHaXhJbTVxemhaRkd5YldxS2NqZjZObUxWZy1IbEtfYUlTMHhkMS1qMjVDbHpRZFEybUJLekdfY2dtanpnUUFISzUzeDFjMXlwYWFrSFZKYmlIVzJIbmFha05rNVZpOXdtN3BXeFhUa0hSRWJsdnpabjBGcGl2THREV2d4Y3R2bmtOeVZ0dF9RRm1ldE90T3hyZnM2eGZRMnd1TGdudUNDNlJLX0VhUUVDLXJSa1hneWRDbk1jdmtsdjF2d1hIaHZNazlsSHVJcnNlOExWM0lGS3U5ZWtES2VJNzFZMkNoLW81SDRCV1UtU3lKQw?oc=5",
-      "pub_date": 1764626940.0,
-      "article_url": "https://www.wsj.com/business/strategy-cuts-outlook-establishes-1-44-billion-reserve-amid-bitcoin-selloff-020019d4?gaa_at=eafs&gaa_n=AWEtsqeh3OT3xb_1uSlF8lsX3QnaDVtvUgNKbPGVTd7Pm0uGAnQE2iZbyiGo&gaa_ts=692f0648&gaa_sig=Gn2tISWsxI0rh1d78YTGj494voox8ilZ9r9TPZGwIOs3sDNdHFYfn3-VDjYVnSpkvhs-LQFmCvTiIhxQneISow%3D%3D",
+      "headline": "Bitcoin is slumping again. Its biggest corporate owner admits it may have to sell if things get worse.",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQX0pKRjBoWjhwTFlkVEFTdnFNdUFndUh3UmVwVmY0bnBySno0c2pJZC1Pck0zeDVHczFoRXd1TjQyTUNvLXlrTXpTOHpmbWNZMXRaX24xQUpCVGtWckRDUVhTSkVxcFRnaU15UlZRV1U4U3ZqaTItbWJ0Mm90UXNVTUVTakdCWVctbHFvVEtjY0NhUmw0bmZ0SXFadWk4bGZiczhnMHdSYkRiZFhrc0syWTBLS2lWdWJGdHlDY0o2bGgwSm81c1FBZmtSRWV5amVpTWozWDl4S2hITWtDaWdyUXM1ZFFPVkZ0c0VfZmRuWFJRMWMtcVNkaUxHMmhoaVVXNmtraFVOOERkbXEteWtSZGFDU1NILUVvTUkwNDlqbmxjeFB6UlBTV2w0OEF2dHRrMDhvMG5jcUZiT2JZSDdyQnRhODdWUFA3UjBEQ2JYYV9QMUNBWmotTk9WTWRBOWRnN0FTckZjakViOFdiODNub2ZRSy0ybnlBcm5CQWZtNFB1QUxYdjNYcUJVejBReTc2RkgwQzRGblFfQ21iMVduaUgzNmJvazl4bGtTdmt0YldQUGZKT1pZNjJBQnFaM1d3cnowbmhyaG9MYzVJdV9tMG1fLXZjcWtmZTNXdVVn?oc=5",
+      "pub_date": 1764585000.0,
+      "article_url": "https://www.marketwatch.com/story/bitcoins-slumping-again-the-biggest-corporate-owner-admits-it-may-have-to-sell-if-things-get-worse-ce77b7a3?gaa_at=eafs&gaa_n=AWEtsqcUoMxVCCBABCi6ARhGTyB2kBmQyC7UhagDMGq4-Lvi4JTDUv8HPcu9&gaa_ts=692f0ff1&gaa_sig=r6c-z2TLA83AjBSk9ZjhXtD4QRLLFrcjKw0zr2lZ0i4eRzGX3Cl99jSiP8VUbSdbP0GFsodlG4rycYgC_cWjQg%3D%3D",
       "image": null,
       "description": null
     },
@@ -103,8 +73,38 @@
       "article_url": "https://www.bloomberg.com/opinion/articles/2025-12-02/bitcoin-price-michael-saylor-strategy-hype-machine-is-glitching-out",
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imhh7Ve4_ul4/v1/1200x800.jpg",
       "description": "Here\u2019s how Michael Saylor\u2019s Bitcoin treasury company Strategy Inc. is supposed to work: The firm raises funds to buy Bitcoin; that buying drives up the price of Bitcoin; the share price of Strategy follows suit. Rinse and repeat. The trade, helped along by the utter self-belief of Saylor as a hype capitalist on par with OpenAI Inc.\u2019s Sam Altman, has been so lucrative it has spawned dozens of imitators hoping to capture the same \u201cinfinite money glitch,\u201d like a cheat code on a video game."
+    },
+    {
+      "headline": "Stock market today: Dow, S&P 500, Nasdaq slide as bitcoin tumbles to kick off December",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXRIdXY5NTBuZk5CMG5XcU9iSWFTWkNBSGljRzdBRmNxdDAzS2x3Sk1lTzU5U0JNUmVYaTR0QmZ5TFRPc3R1WFhkNm9JX215TThZampKd0p2N292Qm1heU94M2VaMHdRcEM5RXNrcE05M1BZTnFGdU1laWZHOVFXcUU3X0JBN2MtQkstQ0lXRkVUZzBTcU03ZjdCcy1qcmFSc21YNjFmN1M5dGd0aTRJdU1MN1NBd25UbmlWb0xkLVoyQ3hlUWpyRUROdXhNZw?oc=5",
+      "pub_date": 1764623005.0,
+      "article_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-bitcoin-tumbles-to-kick-off-december-210035496.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/lvmtNDwzV7lcqAQNJZd0kA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/6f40c5f0-a863-11f0-b3eb-c74a2e7e85d5",
+      "description": "Wall Street's strong late-November rebound looked set to hit a speed bump on the first trading day of December."
+    },
+    {
+      "headline": "Stock Market Today: Nasdaq Leads Gains; Dow Wavers; Bitcoin Holds Below $90,000 \u2014 Live Updates",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPQ0JfSmxEM203eUFwRkpzOTB1U1M2ZERZMF9mc1BQQ3NfdFlZU3h6ZU5ERklTV1d5RTFTUDROMFo0djlsNVRBN3E1TTFQRWJ5UFhsMVRMQ2ZYUzRkMDl5UDZKbFlDVnJTMFR6dk90aHJURnJXbVJ0WVJxQzFlazlGdkVUREJ1VU5vWl9Fb0NrM2VFQU5OelhYUmRhLUdsY1NpcGU3bXNaUmpYeDgzZVdCeTFkWk9tQVAwa2NnVUY1U0NyOGItc3NhUWowRW5aX1d0TXhmRk4xYkY0YjBYekk2RHhoUjJQMVJmRFpqVEFGdXFpZVcyX19LRmY5U0hueEwwek8wOF9NTEd5Sk1tZGcwdmVTTjZCTU0wWVVmUGFyNWpoZXZ1TlVWZC1BdEp5c3BjQXZkcmxDRC1heTdPcmFGZ0Zfb1VYSU1wYjhUUXJZWjhIN1o1U0sybXR5Ql93LVMwV0lZU1UzblRtZE5Lcy1ud2p5WmlwWTlacy0yZHdIazltZ3IzU282WnNjX0g?oc=5",
+      "pub_date": 1764688620.0,
+      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-02-2025?gaa_at=eafs&gaa_n=AWEtsqd0IxskdGcX8mq2hQNtv7Y4FyA61xhnygRGkuVuDGocr7Kh5AO3RS_7&gaa_ts=692f0ff1&gaa_sig=Bo08TQAavPeDPbY1eGzAiB-zed28rmJw3_GvZhFlaxmT0cZscyjvQVSKgRgV0bG94Tdr2j_PkU5kh_a-9jTo-g%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Stock Market Today: Dow, S&P 500 and Nasdaq rebound higher; silver slumps, bitcoin rises",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxPMW9FQkVWMWJXekdOZlZRSjA2elcwbXFUNmxaNWlxQzd1X0Y5NWJUYkpMdERsZkIxUWI1UDRBdGlURGRpZnpBaVUtS2dQTnRzbGtKV0l5VDkxX2xQaFlYaDdUSU02dnJWR1h6bHpISXhFQ1o3YUlrRkpic1FnemxYMWd1MVBqbm1jbjJNTEp6LTRiZHA1Y0Jvb2p3SThyLVJLRG5rQy1zUWM5SVRQcHFqQzhUbmdtYmswVlM3ZTV5Z25PdHpQdHJiaWZVclNDZDlNSm1lSjVySmxaODZQUTRCTUh6Zk10U19ZQVVsYW1iTmV6WjJWaWNXN0t1eWlqZkNnWlZOTzJFR1huZFVGbnY5aWNDLUItc0pUZ2xBMW5ESmFGN1FENTNZMk5qalIxRGp0WnVqVEc5dDlpVVJfanJTbTg2a1l3REh2V01YWDJ3VjJ0TGRIQnRscE1VVC1RbzZBemtUVHR5R0wxU3N4NThENEFlR2ItX3dHTU1qQmViYy1kRFd2dER2al9aSVZrZFhRaFpSVTJCUFlTT19WbUtOLXIwYjZMZUY0ZUFSMEo0NGlDV3R6TDdwc2RXOW1paUlCdmVlT3MzU2FvZ1lYR1RjU2h6V3dCR24tMnlN?oc=5",
+      "pub_date": 1764687240.0,
+      "article_url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-for-cautious-start-after-427-point-blue-chip-decline?gaa_at=eafs&gaa_n=AWEtsqdtgyIfG8bxt3w79qUv6RNJvgDN6zHsfBRAT5yfQMyDtS7KYghh5L6t&gaa_ts=692f0ff1&gaa_sig=mJdf6KN1oCfhq-o2Epmi3TFte1VQVB9Gjkh09G3X-zawY6iZ0Pl9pY3wRyfF4Ga4Dkh9GEuBv2RcoVvv006wwA%3D%3D",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-02T15:16:46.217827+00:00"
+  "fetched_at": "2025-12-02T15:58:08.602883+00:00"
 }
