@@ -10,7 +10,7 @@
       "hn_url": "https://news.ycombinator.com/item?id=46098992",
       "author": "nutanc",
       "points": 427,
-      "num_comments": 346,
+      "num_comments": 347,
       "created_at": "2025-11-30T18:17:13Z",
       "object_id": "46098992",
       "image": null,
@@ -23,8 +23,8 @@
       "url": "https://www.erdosproblems.com/forum/thread/124#post-1892",
       "hn_url": "https://news.ycombinator.com/item?id=46094037",
       "author": "nl",
-      "points": 232,
-      "num_comments": 87,
+      "points": 233,
+      "num_comments": 88,
       "created_at": "2025-11-30T05:19:33Z",
       "object_id": "46094037",
       "image": null,
@@ -47,6 +47,20 @@
       "site_name": "nature.com"
     },
     {
+      "title": "Apple AI chief John Giannandrea is retiring in spring 2026",
+      "url": "https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring-after-siri-failure/",
+      "hn_url": "https://news.ycombinator.com/item?id=46114144",
+      "author": "7777777phil",
+      "points": 190,
+      "num_comments": 6,
+      "created_at": "2025-12-01T22:22:56Z",
+      "object_id": "46114144",
+      "image": "https://images.macrumors.com/t/E2xFMSegpuYDB6sCT6_1vI991S8=/2500x/article-new/2025/03/Sad-Siri-Feature.jpg",
+      "description": "Apple AI chief John Giannandrea is stepping down from his position and retiring in spring 2026, Apple announced today. Giannandrea will serve as an advisor between now and 2026, with former Microsoft AI researcher Amar Subramanya set to take over as vice president of AI.",
+      "favicon": "https://images.macrumors.com/images-new/apple-touch-icon-blue.png",
+      "site_name": "MacRumors"
+    },
+    {
       "title": "High air pollution could diminish exercise benefits by half \u2013 study",
       "url": "https://scienceclock.com/exercise-may-protect-less-when-air-pollution-is-high-study-finds/",
       "hn_url": "https://news.ycombinator.com/item?id=46086624",
@@ -61,26 +75,12 @@
       "site_name": "LearnGupt"
     },
     {
-      "title": "Apple AI chief John Giannandrea is retiring in spring 2026",
-      "url": "https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring-after-siri-failure/",
-      "hn_url": "https://news.ycombinator.com/item?id=46114144",
-      "author": "7777777phil",
-      "points": 165,
-      "num_comments": 191,
-      "created_at": "2025-12-01T22:22:56Z",
-      "object_id": "46114144",
-      "image": "https://images.macrumors.com/t/E2xFMSegpuYDB6sCT6_1vI991S8=/2500x/article-new/2025/03/Sad-Siri-Feature.jpg",
-      "description": "Apple AI chief John Giannandrea is stepping down from his position and retiring in spring 2026, Apple announced today. Giannandrea will serve as an advisor between now and 2026, with former Microsoft AI researcher Amar Subramanya set to take over as vice president of AI.",
-      "favicon": "https://images.macrumors.com/images-new/apple-touch-icon-blue.png",
-      "site_name": "MacRumors"
-    },
-    {
       "title": "A new AI winter is coming?",
       "url": "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/",
       "hn_url": "https://news.ycombinator.com/item?id=46109534",
       "author": "voxleone",
-      "points": 141,
-      "num_comments": 214,
+      "points": 145,
+      "num_comments": 222,
       "created_at": "2025-12-01T16:42:15Z",
       "object_id": "46109534",
       "image": "https://taranis.ie/content/images/2025/10/ai-has-failed-copy.jpg",
@@ -117,11 +117,25 @@
       "site_name": "Pete Warden's blog"
     },
     {
+      "title": "AI agents find $4.6M in blockchain smart contract exploits",
+      "url": "https://red.anthropic.com/2025/smart-contracts/",
+      "hn_url": "https://news.ycombinator.com/item?id=46115214",
+      "author": "bpierre",
+      "points": 83,
+      "num_comments": 50,
+      "created_at": "2025-12-01T23:44:51Z",
+      "object_id": "46115214",
+      "image": null,
+      "description": null,
+      "favicon": "https://red.anthropic.com/anthropic-serve/favicon.ico",
+      "site_name": "red.anthropic.com"
+    },
+    {
       "title": "Tell HN: It's now impossible to disable all AI features in Firefox 145 (latest)",
       "url": "https://news.ycombinator.com/item?id=46095873",
       "hn_url": "https://news.ycombinator.com/item?id=46095873",
       "author": "pera",
-      "points": 67,
+      "points": 68,
       "num_comments": 23,
       "created_at": "2025-11-30T11:48:42Z",
       "object_id": "46095873",
@@ -129,23 +143,9 @@
       "description": null,
       "favicon": null,
       "site_name": null
-    },
-    {
-      "title": "Accenture dubs 800k staff 'reinventors' amid shift to AI",
-      "url": "https://www.theguardian.com/business/2025/dec/01/accenture-rebrands-staff-reinventors-ai-artificial-intelligence",
-      "hn_url": "https://news.ycombinator.com/item?id=46105825",
-      "author": "n1b0m",
-      "points": 55,
-      "num_comments": 62,
-      "created_at": "2025-12-01T10:41:14Z",
-      "object_id": "46105825",
-      "image": "https://i.guim.co.uk/img/media/adcd61d6e826f9dca934f3eef2452b135ad68f5b/19_0_2543_2033/master/2543.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ebbb935a14d8f1fd9c707bc68f612c1",
-      "description": "Consultancy\u2019s move to embrace artificial intelligence follows Disney\u2019s use of the term \u2018imagineers\u2019",
-      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
-      "site_name": "the Guardian"
     }
   ],
-  "total_hits": 378,
+  "total_hits": 381,
   "has_metadata": true,
-  "fetched_at": "2025-12-02T01:21:41.455764+00:00"
+  "fetched_at": "2025-12-02T02:58:24.463876+00:00"
 }

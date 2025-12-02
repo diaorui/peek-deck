@@ -12,8 +12,8 @@
       "hf_url": "https://huggingface.co/papers/2511.22699",
       "arxiv_url": "https://arxiv.org/abs/2511.22699",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22699.png",
-      "upvotes": 74,
-      "num_comments": 1,
+      "upvotes": 78,
+      "num_comments": 2,
       "published_at": "2025-11-27T13:52:07.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
       "github_stars": 3377,
@@ -32,7 +32,7 @@
       "arxiv_url": "https://arxiv.org/abs/2511.22677",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22677.png",
       "upvotes": 11,
-      "num_comments": 1,
+      "num_comments": 2,
       "published_at": "2025-11-27T13:24:28.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image/tree/main",
       "github_stars": 3387,
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2511.19575",
       "arxiv_url": "https://arxiv.org/abs/2511.19575",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.19575.png",
-      "upvotes": 18,
+      "upvotes": 19,
       "num_comments": 3,
       "published_at": "2025-11-24T12:59:59.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/HunyuanOCR",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-02T01:21:41.307999+00:00"
+  "fetched_at": "2025-12-02T02:58:24.396947+00:00"
 }
