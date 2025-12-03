@@ -5,37 +5,17 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNN21tZUs1N09Qem13NF84TXhPc0sxd1JNYWY2SzdUa3BoX19iYk51WUxuVHl4YWFjczZqOGVzdExLSEs2bTFEcDU1R0tsWVZnOFlEQ19nRG43dVBXSXIwbUpMVXRvUHBjZFY3dlVKNk5uNVR2UlRRQldlNHJldlBVcmtxSENibTh5bjUtbmxfNFhsT1BjWFp0REoxWTJFTlBnUVBNazNzV0ZBd0FIVDZkWVoyWkhnNS02WjNYbnVIV2Jub1dibHNORnExOWx4bTBweS1yVElxdVpqMS16WFkyUnR2V3A5Z1BOSXRNa1RTbVJMUFlTcGtFSFU4aTgtNWJLMnZ2VU51ZFlrVDA1SVktWlVrS1lDWDF3ZWtPaDlVYWFKR0hfVHBrZG8xWWtaaTNPLUZVRlhLU25RVnpWcnV0aGQwa0lWS01taTU4SURjUS1jVWNUaGJtQ3k3bEdnZXRnTURFVXRzMUFiRlNpUlEtTDFCOGJKU2FMZ21qN0ZZVmlOaHVNLTdnRUhiSi1wTjJROEhveUVmdGg5dEFQQWo4cm9uNU1PbDlXNXBYRnNBQUl5UDZnUEZTa1dBOU4?oc=5",
-      "pub_date": 1764656820.0,
-      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqcKw4o7a_2SO4TWJQsgPJUMAwlhN5xRBuf3aSkZGjHe7drCGrdLb6AC&gaa_ts=6930105d&gaa_sig=USjHzVElIXqRfEwEdCcN0AmGNtTSUMNVKnMkQZlZmUEJl8eLiVLDwMU-B1oVPakrkOGvIgXercGdKJ-pEyzCJQ%3D%3D",
+      "headline": "The AI frenzy is driving a memory chip supply crisis",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb24zbTlISHhiN3MwUFFvYWVSaGNpeUx0NFNEODR0eldqZHV0YnZQSFhPZFhsOGFlaDJTR1h4Y3FOdjdlWnBhQXc2VjdrbG9xSHVqMzdib1I0WFJBTkY2QWNUMTVQNkMwRUNpSkV0MldVUTd0NzczWWJJWVg2T0pmRHQzUjc1a0Z2cGVvaGJvdHFlQ19EdmJJOF9XRWFLd2xY?oc=5",
+      "pub_date": 1764731700.0,
+      "article_url": "https://www.reuters.com/world/china/ai-frenzy-is-driving-new-global-supply-chain-crisis-2025-12-03/",
       "image": null,
       "description": null
     },
     {
-      "headline": "OpenAI declares \u2018code red\u2019 as Google catches up in AI race",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtMkQwcnZCa05fMFpnbWh5dzdaWUFodDdKaDB5N2N6THhRdVNnWU5NY3dqNHVsZU0yWVJ1ZmZPOXo4UFpGSXk1bnpCNnF2ODl3TGFEajUzMHBiRjRIbE1JUE5pQzJsMnRDY2RpcQ?oc=5",
-      "pub_date": 1764675607.0,
-      "article_url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "Google\u2019s own \u2018code red\u2019 response to ChatGPT has started paying off."
-    },
-    {
-      "headline": "Google creates \"code red\" scramble for its AI rivals",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IMmZZUTM1RllYVk9EbFd1OGIyWVZ6Uk16NnFVWGZ5QmEtSlBQT01FeEdmSkxxTTNuSkdDbFkwMUNfVTNBTHBFWTZ6N1RsR3FwanlhU2FtNFAxWEM5a2ZUNjhjV3psOVh5eDJN?oc=5",
-      "pub_date": 1764718676.0,
-      "article_url": "https://www.axios.com/2025/12/02/googles-pressure-ai-rivals",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Amazon introduces new frontier Nova models, a pioneering Nova Forge service for organizations to build their own models, and Nova Act for building agents",
+      "headline": "Meet new Amazon Nova AI models that help build highly reliable AI agents",
       "source": "About Amazon",
       "source_url": "https://www.aboutamazon.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnV5Y2I1Ykk3bW9rNUh6dUwtU09nMXFuWU5SenFvc0hZQ2RIZEFIYXEwWVgyTGl1b3BqNm8tdHpaWWw3bkw1Sm11REhrVXZxV1dMQnB0dDMzX3NXSGNPSHkxcVQ0ZVdaZE1ZbWdOQWJPS01PMFc1X2xidnB2dXMyWldjZjk?oc=5",
@@ -45,14 +25,24 @@
       "description": "Key takeaways"
     },
     {
-      "headline": "Is AI slopifying the job market? (Two Indicators) : Planet Money",
-      "source": "NPR",
-      "source_url": "https://www.npr.org",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUVlUb1V4cG1SU1V6MkVtUVVhTmE2NGladEFNNWhaaDN5TXVjMkpkN2hPRmt5RjlDTHNlQURkSVhrUnFIQVZhaUZBekJMTi1MM0hxUGhMZ1pkUWVYU01kTU8xRm8xRjF3bk5rQjRZTzBnLU5YV2poREdqM25uWDFnOU9CVmFydDJ6?oc=5",
-      "pub_date": 1764748800.0,
-      "article_url": "https://www.npr.org/2025/12/03/nx-s1-5629273/ai-job-search-recruiters-entry-level",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F38%2Fd7%2F7dfa17aa4b3685f3b997b9d05cd2%2F7d8d3847-191d-4630-9a2b-bb51f79f81f1.jpeg",
-      "description": "Vote for us in NPR\u2019s People\u2019s Choice Awards: npr.org/peopleschoice\u00a0AI is already reshaping how people find work. Fewer entry-level jobs, robot recruiters, and ever-changing new skill requirements all add up to a new, daunting landscape for humans trying to find dignified work.Today on the show: two stories from the edges of a changing labor market. First we\u2019ll assess claims that AI is causing a white collar job apocalypse. What does the data actually say? We meet an economist who has found one small but fascinating way to measure the impact of AI on workers.\u00a0Then, we go face-to-face, or at least voice-to-voice, with AI. We meet a robot recruiter for a job interview and find cause to ask, \u2018When might that actually be preferable to a human recruiter?\u2019Pre-order the Planet Money book and get a free gift. /\u00a0 Subscribe to Planet Money+Listen free: Apple Podcasts, Spotify, the NPR app or anywhere you get podcasts.Facebook / Instagram / TikTok / Our weekly Newsletter.The original Indicator episodes were hosted by Wailin Wong, Darian Woods, and Adrian Ma. They were produced by Cooper Katz McKim and engineered by Robert Rodriguez and Debbie Daughtry. They were fact checked by Sierra Juarez. They were edited by Paddy Hirsch and Kate Concannon."
+      "headline": "Commandos, Snipers, Drones, AI: 5-Layer Security Ring For Putin In India",
+      "source": "NDTV",
+      "source_url": "https://www.ndtv.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUS0wRWhibWkxX1BjREZOUTQ5M1gzUG13WWtkdmpEYm5xRXkwT1V4aE5JalFZSDJ0RnMxM0lwUVNxSzd2dEZlVTB6QUlsNDdCbjBiVzVMMWJhbzNMMFFVQmJtZ19rejhIMUhiWW5Tci1NSjlMSVhmR2JrdWx5N2Z3NVFudlo1b3d0aWJQdWFwWEN1SXUwM3BCX2NoS01DMko4Qy1QQVk1UkU0OFFGdG9BbTJlSHZtMzZjQlZkTGlFTFFJYUnSAcsBQVVfeXFMTnhHWGFobmhmRzdwWlJ2cFM0d0VfbG5hM3hXUWx3WGt1NGRIcEdjS2h4S2ZERGcyOXBzbnBrZXhXVjNFcUFpakdUcnRWNHVMRnNHdGgxdGpWTFpwcnRsSjdpbks2REV5clREWFdpTkttY0lNeTdGZGdJQXNnOWR5Z1owdzFNeWJyMVFzNFUyeE5FV3ZEcUFDYmg2bU4tUFdVemlyVWNLd01iRVNhaHk4OTJxX2k1MHlpX09MVnRreHVBLWt4NVh6TkFhYU0?oc=5",
+      "pub_date": 1764752795.0,
+      "article_url": "https://www.ndtv.com/world-news/putin-india-trip-commandos-snipers-drones-ai-5-layer-security-ring-for-putin-in-india-9742851",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI is making robo-advisors smarter. Is that a good thing?",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxcU1ibDh5UnFIR2t5M0lUQUptS0podGw4dGZOWVNlaElPUWM2bHJXVnM2bm9RakhOdGpZT2UwN090TTBtb09LTlFPY2RBMUtRdDlJV29jRlo1bkxDdklkUEdoYkpTRk82ZGQ3eW5jZVpCYldY?oc=5",
+      "pub_date": 1764756043.0,
+      "article_url": "https://qz.com/robo-advisors-smarter-cheaper-with-ai-for-investors",
+      "image": "https://qz.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1917134691.jpg",
+      "description": "AI robo-advisors are on the rise. But having a platform manage your money may not be the right move for your situation, experts say"
     },
     {
       "headline": "AI Is Everywhere. Will Honolulu Voters Get To Set Limits?",
@@ -65,26 +55,6 @@
       "description": "Artificial intelligence is already widely used in city government. Some residents want to see the charter updated to require more transparency."
     },
     {
-      "headline": "69% Global Executives Predict AI Agents will Reshape Business in 2026, According to DeepL Research",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRkIzLVdiTWVtMmZGTnAtcXJMM3luZUg0Qk56SHVVSG1sOU1Lb0liS00yMTVvRTh5bktkYTNQLXRtZUVRMGlvdi1RZGF4TGdab2t2aEJzbHdNOUZhNWZqOU9aOXowb2pobUR5a3VtN1FaMEhVbFNLRDM1ME8yZ2NQWFliVQ?oc=5",
-      "pub_date": 1764756000.0,
-      "article_url": "https://finance.yahoo.com/news/69-global-executives-predict-ai-100000131.html",
-      "image": "https://media.zenfs.com/en/prnewswire.com/eaf1c9153f2959ce013f204bf91450b3",
-      "description": "The age of the AI agent has arrived. New research from DeepL, a global AI product and research company, reveals that 2026 will mark a decisive shift from AI experimentation to agentic automation with a majority (69%) of global business leaders expecting agentic AI to transform their operations in the year ahead."
-    },
-    {
-      "headline": "The AI frenzy is driving a memory chip supply crisis",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb24zbTlISHhiN3MwUFFvYWVSaGNpeUx0NFNEODR0eldqZHV0YnZQSFhPZFhsOGFlaDJTR1h4Y3FOdjdlWnBhQXc2VjdrbG9xSHVqMzdib1I0WFJBTkY2QWNUMTVQNkMwRUNpSkV0MldVUTd0NzczWWJJWVg2T0pmRHQzUjc1a0Z2cGVvaGJvdHFlQ19EdmJJOF9XRWFLd2xY?oc=5",
-      "pub_date": 1764731700.0,
-      "article_url": "https://www.reuters.com/world/china/ai-frenzy-is-driving-new-global-supply-chain-crisis-2025-12-03/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "How AI Is Transforming Work at Anthropic",
       "source": "Anthropic",
       "source_url": "https://www.anthropic.com",
@@ -95,6 +65,16 @@
       "description": "How AI Is Transforming Work at Anthropic"
     },
     {
+      "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOby1wYjRKNzI3Mjg3Nlh5eGJQazJSaHVQMkwzcEFuSHVZNlFzaGE4TXVLclhuU3cteHl0VDhTTG1NUGdza0xlZEZvaExnZ1JRcHVOV1hXUmxWWEJSS2FIR1pIQTVuNTJWZnpjblBidDAzVWVSTndHcExtb1FyZjV2bzI4TktNUmlqQkpWUWE4Yncxb1Q4Vm1iYzlNNFJodXBxNmR6WHJQRmdVYlF0cjlJNlM4S042WURXZktEb0tDazYxbnE0cEFSaWZmVm81WjRzX2xvZFpaUnVMTDEwaW40SGQ1a3F5QXlnT0tjSHFyTTdWbjZSbkdUSkcybndXb3NIa05RUFJPRmtiNjd6UFJaVGNYTURmRWxZdDdnLXAtTG5odFJUR0JOcHBaWVN5MzhzZ1Buc3NXVTlQZ0RPaW9yNEdIei1QX2xvenBoSmphY1JhcXk1a2xqVVRNeU9ETHVGcDdyUmVnNGhOaEtnT2ZtQlZoMzRWMU93WHlReDlEWG44bzVqS2tWM1dzUGVaaHhaQTVaWHNRelY1RjU3NWxiWjVUSUtmbnZPY3ZRUWlFcTJia0VSblBCYWJHYmY?oc=5",
+      "pub_date": 1764656820.0,
+      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqf1k9GRrmqWrfr8oTVmcYpgSlQYUUGTddYYd6XHRwreckoCdnK_ceb0&gaa_ts=69301802&gaa_sig=SjecGH3w7qdKqSy5lScOm4mJ1KrRCqXhvA4stJwnFDB9qEf87ZMrXOgQYOXM89Zb1k_14PkuQham-JPlVmd7eA%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "IBM CEO says there is 'no way' spending trillions on AI data centers will pay off at today's infrastructure costs",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -103,8 +83,28 @@
       "article_url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
       "image": "https://i.insider.com/692dc1a9abd5e944effbcd59?width=1200&format=jpeg",
       "description": "IBM CEO Arvind Krishna walked through some napkin math on Big Tech's AI data center spending \u2014\u00a0and raised some doubts on if it'll prove profitable."
+    },
+    {
+      "headline": "\u2018The biggest decision yet\u2019: Jared Kaplan on allowing AI to train itself",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3htZDNHeEE0aWl3cGMtbU1mVnV4TDY4QjllanlEODAwSFdfYWZybVFXdjFWVmxpeGZvVGlwUENwd1JjU1VXcW5tMVYxRGVTclB1MnFKcnMzVDRxWTNHRnBnT1RFNEl2UjJYRkdpcU1hb2JFNkt1ZWF2a1hNLThYNVRmU1I4eTRrVTFSSTlMTDFxRnNZUE5PNVZsM01QeFo5TDYwb0dOb3JYdkEtZlRoWFB4aDdLQQ?oc=5",
+      "pub_date": 1764680160.0,
+      "article_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/02/jared-kaplan-artificial-intelligence-train-itself",
+      "image": "https://i.guim.co.uk/img/media/5f1dbff127345154bf57ef7a554a4727975d1c3e/0_848_3091_2471/master/3091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6daf53e3bf38527380051f2157a5fb94",
+      "description": "Anthropic\u2019s chief scientist says AI autonomy could spark a beneficial \u2018intelligence explosion\u2019 \u2013 or be the moment humans lose control"
+    },
+    {
+      "headline": "YouTube's new AI deepfake tracking tool is alarming experts and creators",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaU5XMEJBNGlJTXdONE5odDJ4Q1JjVEVlNDJrdUUzZFU0dThsVi1CWU1iTXZQSk1KX0t3cFRibExCTnlaSGRXX3JZdF9zMHdjcmhUd2V5Z0ZlSVFQa0NlWDNDSDFxMWkxeTVSczZxWXRpaVlkUTBhN3dqYktGSVdFQWNwRmdNUdIBiwFBVV95cUxQbTJnQkJ1Vi14dE1sbk1LVy1oblI3SEN3cmhrRWY5UGZ4VE9HcVUtckgwcDhRdEt5VzlLbWtPSXlQVGZlMTFZY3FsbC1rSjRFNjVrbGU0RmFDTFlmeGQwWk1MMXRwX3E0OWdORkVjRlJMMWZOSlgtc05PMlh6Q3oydTMycEhNbTZKby1V?oc=5",
+      "pub_date": 1764676801.0,
+      "article_url": "https://www.cnbc.com/2025/12/02/youtube-ai-biometric-data-creator-deepfake.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108231894-1764095127352-behind_the_scenes_2.JPEG?v=1764650315&w=1920&h=1080",
+      "description": "A YouTube tool that uses creators' biometrics to remove AI-generated videos also allows Google to train its AI models on that sensitive data, experts told CNBC."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T10:11:58.791800+00:00"
+  "fetched_at": "2025-12-03T10:44:40.882590+00:00"
 }

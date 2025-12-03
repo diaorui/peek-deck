@@ -5,16 +5,6 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Musk says AI and robotics are 'only' things that can solve massive US debt crisis",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1g3dENUZF9tMlhfbDNZZlB5TmhpRjl1dFlDalM1bFNYVHJGdy1RUC1KTTNqM21DT3JWZ25wRGpBWENwaFI5SzBxQTBFQjhxNTJaNmRTdlhxdGpaRzY3dGs4Q2p1emdRNktzSHhFTUVKR1pYa1RJaUtOeE1QVzhxaGhQZVpaNjFfNm1LU0hFVTg3UmU0N19hbk5YYWZ4d2ExcG9wQ9IBqgFBVV95cUxQWFZ2dGFQZ05STHpLUjJYYld2RjZUYkNJZDJJR0NrdnJvcXJPZ0hRYWVVQ0dybEU1eU1Qa19HSTR3Q2ZiYkJFaDgydFJXSXMxUlRHa2dHeTNNUWh5SUd1Y09MOWNBcHdsYlpUZjllUXFGUjFBRU5DaGNFWTNOT1NmQUhadWZCZF9BQW0yc3pRVlllNTZtUHl4bXFMVXlBUTF6UkdTbHZmVElWUQ?oc=5",
-      "pub_date": 1764612660.0,
-      "article_url": "https://www.foxbusiness.com/economy/musk-says-ai-robotics-only-things-can-solve-massive-us-debt-crisis",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/0/0/Elon-Musk-12.jpg?ve=1&tl=1",
-      "description": "Elon Musk claims AI and robotics are the only solution to America's $38 trillion debt crisis, predicting dramatic economic changes within three years."
-    },
-    {
       "headline": "Former Stryker robotics leader named CEO at Olympus\u2019 Swan EndoSurgical robotics play",
       "source": "MassDevice",
       "source_url": "https://www.massdevice.com",
@@ -23,6 +13,36 @@
       "article_url": "https://www.massdevice.com/former-stryker-leader-ceo-swan-endosurgical-olympus/",
       "image": "https://wtwh-marketing.s3.amazonaws.com/wp-content/uploads/massdevice/2025/12/02121755/Erik-Todd-Swan-Endosurgical.jpg",
       "description": "Swan EndoSurgical announced today that it has appointed longtime Stryker robotics leader Erik Todd as its CEO."
+    },
+    {
+      "headline": "Humanoid robots will take over factory jobs within 5 years, Xiaomi CEO says",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1lWbWxGazduU0NwcUZucmN0MFN4YW9rZHNMSlpLOElYd2xHcjV2bkl6bkV0NUxxRUh0NGdKZTlCeTVRVVkyY3RfUVV6MlNoSnpWalotZnNSVFdBZVhhcG8ySzdYOTQwQnFuTzhiOTh5VG1uTWhySHBPbzB5cUdwWTI2RG1tYTVWcFJYZExxNmJQV0U?oc=5",
+      "pub_date": 1764581760.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robots-set-to-run-smart-factories",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/IE-Photo-59.jpg",
+      "description": "Xiaomi CEO Lei Jun says artificial intelligence will overhaul traditional industries within five years as humanoid robots move into core factory roles."
+    },
+    {
+      "headline": "China Is Officially Scared of Robots",
+      "source": "Futurism",
+      "source_url": "https://futurism.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHBvU2RNd1c2dEFlcGNuNGNtUkh5UkNCYzA2aWdjNlRtSWNHOWFaZXpzbjRQTjk3NEt6QnhUZ3FVTFZER2JkVlNnZE9JNFU1OXNESXRsc19VYVpmTEtSRGx6VndRSGxfN082elJfeTZjWWltOUJ0TjNGTjg4azFiU3c0OEs?oc=5",
+      "pub_date": 1764623460.0,
+      "article_url": "https://futurism.com/robots-and-machines/china-officially-scared-robots-bubble",
+      "image": "https://futurism.com/wp-content/uploads/2025/12/china-officially-scared-robots-bubble.jpg?w=1200",
+      "description": "Chinese officials are warning that the country's humanoid robotics industry could be forming a massive bubble."
+    },
+    {
+      "headline": "Renesas, Sumitomo Heavy join Japan team building humanoid robots",
+      "source": "Nikkei Asia",
+      "source_url": "https://asia.nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzgwaHJ1a2NJdXRJRl9OeEZjaVp4M0RCMko5dUhUMTNTZlViam5VNGYyME0zTlliZlJ5NkwyOW5CUDVweWc4MUxscm9GeHpWQWdyZDN2ekhjdmFpbDFzajF0b1pUMjdDSmhGVU91c2E5amZQMEdEbFBfUkZDcEJtcWttclI3V01CMHNMRldQOWdRRTg4RVhFbExsb19UU1poZC02TV91aWYzemc?oc=5",
+      "pub_date": 1764707940.0,
+      "article_url": "https://asia.nikkei.com/business/technology/renesas-sumitomo-heavy-join-japan-team-building-humanoid-robots",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F6%2F1%2F11771686-1-eng-GB%2Fc61d4d73bf29-2025-02-28T010558Z_504169885_RC21WCA0MWCD_RTRMADP_3_ASIA-POPULATION-JAPAN-ROBOTS.JPG?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
+      "description": "Project targets mass production by 2027 as Japan lags China and US"
     },
     {
       "headline": "Vision-native AI opportunities: a precursor to intelligent robotics",
@@ -45,14 +65,14 @@
       "description": "November 2025 started with the Robotics Startup Radar and continued with news from important players in the robotics industry."
     },
     {
-      "headline": "Robotics \u2018changing the nature of what people are doing.\u2019 Amazon Robotics chief on new AI tech in warehouses.",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTJJSmNPMEc2WEhkR3gzcGRzSkFFQXZiY1Q0d0t0dktsbGozZUZxckxWVWhFUGtPQWpUS1FhZXlrOXdFLWx4TlotajRqOHp5cFp0LU9VX01GRmsxVF9ZWHZxNzVaVDJZZ1c0NXROSUpGa3dXYVFxWjRPU2FfNDU5d0pR?oc=5",
-      "pub_date": 1764599932.0,
-      "article_url": "https://www.cnn.com/2025/12/01/world/video/amazon-robotics-change-warehouses",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22160871-1875959-3660000002-still.jpg?c=16x9&q=w_800,c_fill",
-      "description": "CNN News Central\u2019s Sara Sidner speaks with Amazon Robotics VP about technology driving Amazon\u2019s holiday rush"
+      "headline": "Musk says AI and robotics are 'only' things that can solve massive US debt crisis",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1g3dENUZF9tMlhfbDNZZlB5TmhpRjl1dFlDalM1bFNYVHJGdy1RUC1KTTNqM21DT3JWZ25wRGpBWENwaFI5SzBxQTBFQjhxNTJaNmRTdlhxdGpaRzY3dGs4Q2p1emdRNktzSHhFTUVKR1pYa1RJaUtOeE1QVzhxaGhQZVpaNjFfNm1LU0hFVTg3UmU0N19hbk5YYWZ4d2ExcG9wQ9IBqgFBVV95cUxQWFZ2dGFQZ05STHpLUjJYYld2RjZUYkNJZDJJR0NrdnJvcXJPZ0hRYWVVQ0dybEU1eU1Qa19HSTR3Q2ZiYkJFaDgydFJXSXMxUlRHa2dHeTNNUWh5SUd1Y09MOWNBcHdsYlpUZjllUXFGUjFBRU5DaGNFWTNOT1NmQUhadWZCZF9BQW0yc3pRVlllNTZtUHl4bXFMVXlBUTF6UkdTbHZmVElWUQ?oc=5",
+      "pub_date": 1764612660.0,
+      "article_url": "https://www.foxbusiness.com/economy/musk-says-ai-robotics-only-things-can-solve-massive-us-debt-crisis",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/0/0/Elon-Musk-12.jpg?ve=1&tl=1",
+      "description": "Elon Musk claims AI and robotics are the only solution to America's $38 trillion debt crisis, predicting dramatic economic changes within three years."
     },
     {
       "headline": "Does Serve Robotics' Vayu Acquisition Advance Autonomy and Efficiency?",
@@ -75,36 +95,16 @@
       "description": "Seven Chinese universities plan to launch an \"embodied intelligence\" major as Beijing races to build a pipeline of robotics and AI talent."
     },
     {
-      "headline": "Doubts on China\u2019s robotics strength a result of lacking \u2018understanding on manufacturing capabilities,\u2019 Chinese firm responds to US peer\u2019s fake video claim",
-      "source": "Global Times",
-      "source_url": "https://www.globaltimes.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MaFE1UTdJdlJWV3ZkS1RqcUwzZ3cyZ01vNU9Sd0xadmd5dEdxU2laTFZYNFhEb0hpcGgyOFNfa3V2R0lSX25lNVNmZkJhNmpIRnZiMUFmV0RmRy1MTXJsRHRn?oc=5",
-      "pub_date": 1764497820.0,
-      "article_url": "https://www.globaltimes.cn/page/202511/1349396.shtml",
-      "image": "https://www.globaltimes.cn/Portals/0/attachment/2025/2025-11-28/f9f2e23a-4fd7-459b-acb2-afe3beee75b8.jpeg",
-      "description": "A Chinese robotics company recently released a video depicting its production and delivery of full-size industrial humanoid robots, the video, with a futurist view similar to scenes displayed in sci-fi movie"
-    },
-    {
-      "headline": "China Is Officially Scared of Robots",
-      "source": "Futurism",
-      "source_url": "https://futurism.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHBvU2RNd1c2dEFlcGNuNGNtUkh5UkNCYzA2aWdjNlRtSWNHOWFaZXpzbjRQTjk3NEt6QnhUZ3FVTFZER2JkVlNnZE9JNFU1OXNESXRsc19VYVpmTEtSRGx6VndRSGxfN082elJfeTZjWWltOUJ0TjNGTjg4azFiU3c0OEs?oc=5",
-      "pub_date": 1764623460.0,
-      "article_url": "https://futurism.com/robots-and-machines/china-officially-scared-robots-bubble",
-      "image": "https://futurism.com/wp-content/uploads/2025/12/china-officially-scared-robots-bubble.jpg?w=1200",
-      "description": "Chinese officials are warning that the country's humanoid robotics industry could be forming a massive bubble."
-    },
-    {
-      "headline": "Humanoid robots will take over factory jobs within 5 years, Xiaomi CEO says",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1lWbWxGazduU0NwcUZucmN0MFN4YW9rZHNMSlpLOElYd2xHcjV2bkl6bkV0NUxxRUh0NGdKZTlCeTVRVVkyY3RfUVV6MlNoSnpWalotZnNSVFdBZVhhcG8ySzdYOTQwQnFuTzhiOTh5VG1uTWhySHBPbzB5cUdwWTI2RG1tYTVWcFJYZExxNmJQV0U?oc=5",
-      "pub_date": 1764581760.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robots-set-to-run-smart-factories",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/IE-Photo-59.jpg",
-      "description": "Xiaomi CEO Lei Jun says artificial intelligence will overhaul traditional industries within five years as humanoid robots move into core factory roles."
+      "headline": "'First robotics war': Defense Ministry shows how robotic systems used in Israel-Hamas War",
+      "source": "The Jerusalem Post",
+      "source_url": "https://www.jpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lRUctTXUtQThwTmM5b3dPU0dMQU1sdmM0NjFPY0ZMY3I4LTV3eHRTeTVmT1J0ZGtRX29QVE1GdU13cTk0RlcxY1V5SFZwakl5ZlQ4cE56TzNyczhxRDFlbEpmMA?oc=5",
+      "pub_date": 1764620730.0,
+      "article_url": "https://www.jpost.com/defense-and-tech/article-876822",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/478690",
+      "description": "The robotic systems have gotten much more diverse and standardized, being deployed in much higher volumes to assist with exploring Hamas tunnels, to save risking soldiers' lives from that process."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T10:11:55.837695+00:00"
+  "fetched_at": "2025-12-03T10:44:34.810457+00:00"
 }

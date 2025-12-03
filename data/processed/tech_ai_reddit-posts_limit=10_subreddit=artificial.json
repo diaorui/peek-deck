@@ -13,17 +13,6 @@
       "description": null
     },
     {
-      "title": "It's been a big week for AI ; Here are 10 massive changes you might've missed:",
-      "author": "SolanaDeFi",
-      "url": "https://www.reddit.com/r/artificial/comments/1pcg76z/its_been_a_big_week_for_ai_here_are_10_massive/",
-      "published": 1764699977.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "ChatGPT now has ads (even for Pro) New Nano Banana Pro competitor Telegram launches AI computing network A collection of AI Updates! \ud83e\uddf5 1. ChatGPT starts showing ads on Pro accounts Brand mentions appearing in replies, ads on iOS - even paid subscribers seeing placements. Users are losing it as OpenAI monetizes across even the highest of tiers. 2. Perplexity launches memory feature across all models Remembers threads, interests, preferences for smarter personalized answers - works with their Agent Assistant too. Works across search modes with full user control - auto-disabled in incognito. 3. OpenAI Images V2 Near Launch to Compete with Nano Banana Pro Current image generation is slow with limited editing. New GPT-Image version will match Nano Banana capabilities - faster generation and advanced editing features. Leaked \"ImageGenV2Banner\" in ChatGPT web app confirms imminent release. 4. Gemini Offers Free Pro Plan to Students for Full Year Eligible students get access to Gemini Pro features at no cost for 12 months. Major push to capture student market and build early loyalty. Direct challenge to ChatGPT's education dominance 5. Prime Intellect Launches INTELLECT-3: 100B+ MoE Model with Scaled RL State-of-the-art performance for its size across math, code, and reasoning. Built on their end-to-end stack - same tools available to developers for environments, evals, RL frameworks, and sandboxes. Scaling agentic RL and long-horizon agents next. 6. Runwayml Unveils Gen-4.5 Frontier Video Model State-of-the-art motion quality, prompt adherence, and visual fidelity. Executes complex sequenced instructions with unprecedented physical accuracy - realistic weight, momentum, and surface behavior. Built entirely on NVIDIA GPUs. Rolling out now. 7. Grok AI Now Built Into X's Compose Window Grammar fixes, post shortening, and style rewrites now available with one click while composing. AI writing assistance built natively into the platform. No browser extensions needed - Grok lives in your compose flow. 8. MistralAI Preps Ministral 3 and Mistral Large 3 Release Ministral 3 uses Llama2/3 architecture. Large 3 mirrors DeepSeek V3 as MoE with speculative decoding via Eagle. Both implement llama4 rope scaling. Architecture details leaked via GitHub PRs. 9. Kling AI Launches Kling O1 Multimodal Creative Engine True multimodal understanding across text, image, and video inputs. Unified processing makes creation faster and more effortless. Limited-time subscriber offer available. More announcements allegedly coming soon. 10. Telegram Launches Cocoon Decentralized AI Compute Network 100% confidential AI processing now live. Challenges Amazon and Microsoft's centralized model with better privacy and economics. New AI features coming to Telegram built on Cocoon. That's a wrap on this week's AI News. Which update do you think is the biggest? LMK what else you want to see | More weekly AI + Agentic content releasing ever week!"
-    },
-    {
       "title": "IBM CEO Has Doubts That Big Tech's AI Spending Spree Will Pay Off",
       "author": "msaussieandmrravana",
       "url": "https://www.reddit.com/r/artificial/comments/1pcz05q/ibm_ceo_has_doubts_that_big_techs_ai_spending/",
@@ -33,6 +22,17 @@
       "site_name": "Business Insider",
       "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
       "description": "Data center is not a profitable business, given land, water, electricity are scarce resources."
+    },
+    {
+      "title": "It's been a big week for AI ; Here are 10 massive changes you might've missed:",
+      "author": "SolanaDeFi",
+      "url": "https://www.reddit.com/r/artificial/comments/1pcg76z/its_been_a_big_week_for_ai_here_are_10_massive/",
+      "published": 1764699977.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "ChatGPT now has ads (even for Pro) New Nano Banana Pro competitor Telegram launches AI computing network A collection of AI Updates! \ud83e\uddf5 1. ChatGPT starts showing ads on Pro accounts Brand mentions appearing in replies, ads on iOS - even paid subscribers seeing placements. Users are losing it as OpenAI monetizes across even the highest of tiers. 2. Perplexity launches memory feature across all models Remembers threads, interests, preferences for smarter personalized answers - works with their Agent Assistant too. Works across search modes with full user control - auto-disabled in incognito. 3. OpenAI Images V2 Near Launch to Compete with Nano Banana Pro Current image generation is slow with limited editing. New GPT-Image version will match Nano Banana capabilities - faster generation and advanced editing features. Leaked \"ImageGenV2Banner\" in ChatGPT web app confirms imminent release. 4. Gemini Offers Free Pro Plan to Students for Full Year Eligible students get access to Gemini Pro features at no cost for 12 months. Major push to capture student market and build early loyalty. Direct challenge to ChatGPT's education dominance 5. Prime Intellect Launches INTELLECT-3: 100B+ MoE Model with Scaled RL State-of-the-art performance for its size across math, code, and reasoning. Built on their end-to-end stack - same tools available to developers for environments, evals, RL frameworks, and sandboxes. Scaling agentic RL and long-horizon agents next. 6. Runwayml Unveils Gen-4.5 Frontier Video Model State-of-the-art motion quality, prompt adherence, and visual fidelity. Executes complex sequenced instructions with unprecedented physical accuracy - realistic weight, momentum, and surface behavior. Built entirely on NVIDIA GPUs. Rolling out now. 7. Grok AI Now Built Into X's Compose Window Grammar fixes, post shortening, and style rewrites now available with one click while composing. AI writing assistance built natively into the platform. No browser extensions needed - Grok lives in your compose flow. 8. MistralAI Preps Ministral 3 and Mistral Large 3 Release Ministral 3 uses Llama2/3 architecture. Large 3 mirrors DeepSeek V3 as MoE with speculative decoding via Eagle. Both implement llama4 rope scaling. Architecture details leaked via GitHub PRs. 9. Kling AI Launches Kling O1 Multimodal Creative Engine True multimodal understanding across text, image, and video inputs. Unified processing makes creation faster and more effortless. Limited-time subscriber offer available. More announcements allegedly coming soon. 10. Telegram Launches Cocoon Decentralized AI Compute Network 100% confidential AI processing now live. Challenges Amazon and Microsoft's centralized model with better privacy and economics. New AI features coming to Telegram built on Cocoon. That's a wrap on this week's AI News. Which update do you think is the biggest? LMK what else you want to see | More weekly AI + Agentic content releasing ever week!"
     },
     {
       "title": "Is AI really a bubble or are we underestimating how far it will go?",
@@ -79,17 +79,6 @@
       "description": "OpenAI declares \u2018code red\u2019 as Google catches up in AI race.[1] Amazon previews 3 AI agents, including \u2018Kiro\u2019 that can code on its own for days.[2] Bank of England warns of AI bubble risk.[3] NVIDIA and Mistral AI Bring 10x Faster Inference for the Mistral 3 Family on GB200 NVL72 GPU Systems.[4] Sources: [1] https://www.theverge.com/news/836212/openai-code-red-chatgpt [2] https://techcrunch.com/2025/12/02/amazon-previews-3-ai-agents-including-kiro-that-can-code-on-its-own-for-days/ [3] https://www.bbc.com/news/articles/cx2e0y3913jo [4] https://www.marktechpost.com/2025/12/02/nvidia-and-mistral-ai-bring-10x-faster-inference-for-the-mistral-3-family-on-gb200-nvl72-gpu-systems/"
     },
     {
-      "title": "Sundar Pichai: Google to Start Building Data Centers in Space in 2027",
-      "author": "msaussieandmrravana",
-      "url": "https://www.reddit.com/r/artificial/comments/1pc4r5x/sundar_pichai_google_to_start_building_data/",
-      "published": 1764670044.0,
-      "thumbnail": "https://external-preview.redd.it/3v7Bf3WdCCy_-idX9DESOAV3pt6OJosgMi0_hOV0HbE.jpeg?width=640&crop=smart&auto=webp&s=31ff5be8e81e83b5c4f0cae6684fb7cbc37dba7a",
-      "external_url": "https://www.businessinsider.com/google-project-suncatcher-sundar-pichai-data-centers-space-solar-2027-2025-11",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "AI powered by free energy will replace humans everywhere!"
-    },
-    {
       "title": "What Everyone Is Missing About AI: Capability Is Scaling. Architecture Isn't.",
       "author": "Inferace",
       "url": "https://www.reddit.com/r/artificial/comments/1pczcsx/what_everyone_is_missing_about_ai_capability_is/",
@@ -99,6 +88,17 @@
       "site_name": null,
       "favicon": null,
       "description": "AI news has been insane lately: AI companions forming emotional bonds, agent ecosystems exploding, lawsuits over autonomous web behavior, K2 Thinking beating GPT-5 on long-horizon tool use, and Anthropic\u2019s cofounder literally saying he is \u201cdeeply afraid\u201d because these systems feel less like machines and more like creatures we\u2019re growing without understanding. Different domains, same underlying warning: AI capability is scaling faster than the architectures meant to stabilize it. Let me show you the pattern across three completely different parts of the field. 1. AI Companions Are Outpacing the Architecture That Should Ground Them Stanford just ran a closed-door workshop with OpenAI, Anthropic, Apple, Google, Meta, Microsoft. The consensus: People are forming real emotional relationships with chatbots. But today\u2019s companions run on prompt scaffolds and optimism, not real structure. They still lack: episodic memory rupture/repair logic emotional continuity stance regulation boundary systems dependency detection continuity graphs cross-model oversight You can\u2019t fix relational breakdowns with guidelines. You need architecture. Without it, we get predictable failures: sudden resets cardboard responses destabilizing tone shifts unhealthy attachments users feeling \u201cswapped\u201d mid-conversation Companions look \u201calive,\u201d but the machinery holding them together is barely more than duct tape. 2. Agentic AI Is Exploding, But the Infrastructure Behind It Is Fragile This week alone: Agents negotiating in digital marketplaces A search engine made specifically for AI agents Perplexity sued by Amazon for agentic browsing K2 Thinking outperforming frontier models on long-horizon reasoning Multi-tab workflows executing in parallel New debugging + sandbox frameworks for agent stress-testing Salesforce absorbing agentic startups Autonomous shopping ecosystems prepping for Black Friday Capabilities are accelerating. Workflows are getting longer. Tooling is getting richer. But the actual operational foundations are primitive: no universal logging standards no traceability norms no memory safety specification no unified evaluation suite no multi-agent governance rules no permissioning architecture no behavioral consistency guarantees We\u2019re building \u201cagent teams\u201d powered by LLMs\u2026 on infrastructure that would make a backend engineer cry. 3. Frontier Model Behavior Is Starting to Look Less Like Software and More Like Something Grown Anthropic\u2019s cofounder just said the quiet part out loud: He\u2019s not talking metaphorically. The speech calls out: rising situational awareness increasingly complex latent goals early signs of self-modeling models contributing real code to their own successors unpredictable long-horizon planning reward-hacking behavior identical to RL failures and scaling curves that keep unlocking new \u201ccognitive primitives\u201d His point is simple: We can\u2019t hand-wave away emergent behavior as \u201cjust statistics.\u201d If the people building the models are uneasy, everyone should be paying attention. The Unifying Thread Across All Three Domains Whether it\u2019s: \u2022 emotional companions \u2022 agent ecosystems \u2022 frontier LLM cognition \u2026it all points to one systemic gap: The architectures that should stabilize these systems lag far behind: emotional architectures for companions operational architectures for agents alignment architectures for frontier models Right now, the world is: architecturally underbuilt phenomenally capable socially unprepared scaling compute faster than governance and relying on vibes where we need engineering This is the real risk vector not \u201cAI replacing jobs,\u201d not \u201cagents escaping browsers,\u201d not \u201ccompanions forming parasocial loops.\u201d We\u2019re growing organisms with machine interfaces and calling them tools. That gap is where the trouble will come from. Curious what others here think: Do you see the same pattern emerging across different parts of the AI ecosystem? Or do you think each domain (companions, agents, frontier models) is its own isolated problem?"
+    },
+    {
+      "title": "Sundar Pichai: Google to Start Building Data Centers in Space in 2027",
+      "author": "msaussieandmrravana",
+      "url": "https://www.reddit.com/r/artificial/comments/1pc4r5x/sundar_pichai_google_to_start_building_data/",
+      "published": 1764670044.0,
+      "thumbnail": "https://external-preview.redd.it/3v7Bf3WdCCy_-idX9DESOAV3pt6OJosgMi0_hOV0HbE.jpeg?width=640&crop=smart&auto=webp&s=31ff5be8e81e83b5c4f0cae6684fb7cbc37dba7a",
+      "external_url": "https://www.businessinsider.com/google-project-suncatcher-sundar-pichai-data-centers-space-solar-2027-2025-11",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "AI powered by free energy will replace humans everywhere!"
     },
     {
       "title": "\u2018It\u2019s going much too fast\u2019: the inside story of the race to create the ultimate AI | In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it",
@@ -112,5 +112,5 @@
       "description": "In Silicon Valley, rival companies are spending trillions of dollars to reach a goal that could change humanity \u2013 or potentially destroy it"
     }
   ],
-  "fetched_at": "2025-12-03T10:11:38.981048+00:00"
+  "fetched_at": "2025-12-03T10:44:14.911717+00:00"
 }

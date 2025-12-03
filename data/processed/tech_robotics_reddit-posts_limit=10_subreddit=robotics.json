@@ -68,6 +68,17 @@
       "description": "Young operators remotely guide robots through thousands of everyday tasks, generating the scarce data needed to teach machines how to work in the real world."
     },
     {
+      "title": "Hello I'm new here and is this idea possible?",
+      "author": "notsomeoneyouknowof",
+      "url": "https://www.reddit.com/r/robotics/comments/1pd0kyr/hello_im_new_here_and_is_this_idea_possible/",
+      "published": 1764757245.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Me and my friend have this idea that we would turn a vacuum roomba or something (open for alternatives), into basically something that can see and talk. We were thinking of putting speakers and cameras and somehow make it work, as for the voice we were thinking of using a Teto voicebank I'd also like to say we have no experience about these so I hope for some really detailed insights, we are also open for any suggestions as long as we could make this idea (or something similar) be brought to life!"
+    },
+    {
       "title": "Looking for a Coding Robot",
       "author": "Ill_Start6386",
       "url": "https://www.reddit.com/r/robotics/comments/1pcqymd/looking_for_a_coding_robot/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "All the research I've done comparing the two shows that industrial robots are far superior to cobots in high-volume production. Industrial robots have higher payload, better reach range, speed range, repeatability, and they meet cycle time goals better. It seems like cobots win on safety as no cages are required, are easier to program, and easier to redeploy. What even is the point of an industry - say, automotive manufacturing - adopting cobots? Some quality inspection work? Packaging? Deburring? What practical applications can justify the cost/ deployment/ maintenance costs of a cobot?"
-    },
-    {
-      "title": "Amazing Hand - A 8-DOF 3D-printable open-source robotic hand for prototyping and research - CNX Software",
-      "author": "GreatPretender1894",
-      "url": "https://www.reddit.com/r/robotics/comments/1pcu0ug/amazing_hand_a_8dof_3dprintable_opensource/",
-      "published": 1764734139.0,
-      "thumbnail": "https://external-preview.redd.it/ie_mUGeGXA_vZK05i6r27ZNzkFYzU9PN7qBgiOX3M8g.jpeg?width=640&crop=smart&auto=webp&s=0655d68ad5760bdcafa6bfe0909b34a7c8d451fb",
-      "external_url": "https://www.cnx-software.com/2025/12/02/amazing-hand-a-8-dof-3d-printable-open-source-robotic-hand-for-prototyping-and-research/",
-      "site_name": "CNX Software - Embedded Systems News",
-      "favicon": "https://www.cnx-software.com/wp-content/uploads/2021/04/cropped-CNX-Software-Square-Logo-Light-Grey-1-180x180.png",
-      "description": "First time I see an arm with four fingers. Open source with kit available."
     }
   ],
-  "fetched_at": "2025-12-03T10:11:42.746566+00:00"
+  "fetched_at": "2025-12-03T10:44:19.138637+00:00"
 }
