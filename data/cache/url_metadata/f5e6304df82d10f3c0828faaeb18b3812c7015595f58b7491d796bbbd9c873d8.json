@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-12-03T19:57:30.073609+00:00",
+  "data": {
+    "url": "https://finance.yahoo.com/news/nvidia-servers-speed-ai-models-173320148.html",
+    "title": "Nvidia servers speed up AI models from China's Moonshoot AI and others tenfold",
+    "description": "Nvidia on Wednesday published new data showing that its latest artificial\u00a0intelligence server can improve the performance \u200bof new models - including two popular ones from China - by 10 times.  The \u200cdata comes as the AI world has shifted its focus from training AI models, where Nvidia dominates \u200cthe market, to putting them to use for millions of users, where Nvidia faces far more competition from rivals such as Advanced Micro Devices and Cerebras.  Nvidia's data focused on what are known as mixture-of-expert AI models.",
+    "image": "https://media.zenfs.com/en/reuters-finance.com/01a870f5a643b9531d6f751ffb56d456",
+    "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
+    "site_name": "Yahoo Finance",
+    "author": null,
+    "keywords": "Nvidia, open source model"
+  }
+}

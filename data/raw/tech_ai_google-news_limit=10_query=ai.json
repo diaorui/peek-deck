@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOeC10MHpZbVI2MGFjNkFVLXcyYld4cGtrWWdtQmpNUmdSS1JYaWZuemxXczJXSkdwa0pWN0k4SVR3cnAtSkFFV1NWTmYzbzRBb01mbmlRUXdZVDdzTVh2YXY5dXgwbENTdWlmMmU4ZXJ3Ymw0VU16MmZYMTlGMnpFWFNkMmE2OEM1RFJJZnctbFBUTnhYUUxuX1E0SFdxVU5KQ1V1cEhfUmwzMkJCRTVyR3piS3NiTWdOYUdBM3JkQ0FTQmc5dzBtemhfMXJoTFBNX0ZIMmk1T1E3TmJMS0Z3RVh0NzVUTWo1cG83S3J2OHRWZEx0QjR6VWNoVWZHTmVSTElwQkZUTlVGMjhWSzJGaHVHdmw1SDFwWGFDNGgzb1I1TVlpamlUNVlOR1FsRFRnX21WTDc2aDZ6VERDOEdjdXQ1bEViOFdZUzBXODJfbXlXeTBVMEtTckdNZlFubm5aeWVhSk9xSFplOE1YVXlXdllPbl8weVlvUTRGLXoxV29wNVRGbTJRYXNtajI4cURDbFFweTh3RzRVdUJZbGNGZGwzeXlYbWJaeUk4eXR6b0JsTF9LYWR0eHd2VE0?oc=5",
-      "pub_date": 1764656820.0,
-      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqePCmp8E7jmDdXwqM8QqHujuP21QnYaPuY1u4ByxrQAHNuBtHIkXo-K&gaa_ts=6930909c&gaa_sig=KpIh5imKxwW7fv4DIW7YfYSnraM0IJatiYNjBw4GxdXnCY52UbLzwbaTc2J00Oq_7qEsImOLE8hWaxc5cRhGVA%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Microsoft Lowers AI Software Growth Targets as Customers Resist Newer Products",
       "source": "The Information",
       "source_url": "https://www.theinformation.com",
@@ -55,56 +45,66 @@
       "description": null
     },
     {
-      "headline": "Former Intel CEO: Big AI firms are funding themselves \u2014 and that's not real demand",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON3dqR0JzTFR5T0R2U3hvNVpwMkcyN3JKSzVpbkZNRm80OEdsdVdPTWNBdzJkMkN5U084Tk45cDB1N3poUzBoMUstRmtqcld3UzR0ZGM3NUIycnZ1RUZKTEQtLUdfdlhJc2lvVEJhQ2JPR21kdUFCNlJjSGJsTi01YnExV01tRVlVWGhoTHJVRHFYX2Y0YXNIUjM3RXh6VVZsVV91QzlRM2dzdDA0bi1qUnFOOEZ1dmdsMHFHV2dEV3dfYTg?oc=5",
-      "pub_date": 1764787368.0,
-      "article_url": "https://finance.yahoo.com/news/former-intel-ceo-big-ai-firms-are-funding-themselves--and-thats-not-real-demand-184248523.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/PpDHshR9mvnxNii2gYZ44g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/f0e4fd20-2258-11ef-bebd-b31346ff1b97",
-      "description": "Pat Gelsinger, former Intel CEO, warns that the quality of AI revenue is weaker when companies use their own balance sheets to backstop deals."
+      "headline": "Bank of America says we're in an AI 'air pocket,' not a bubble, propelled by data center capex",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjRGYUdBZnRZcGtLS3FqR1VxQ2F6RHVOMW4yQUg3RTdFeGNTeC1jTF96Y3VXQURzejhNZFdUYV8zVmE4dVB1dVF6bHBXbmRtRzQ1Rllha24taEJmdzJhU0kwcW5wOW8ydzNhUGJtbG1mZTdOZ0ZMX28zQnY5SDBOSDVBdVRCaDlTMEV1bHlUZEpaQzk0ZlYw?oc=5",
+      "pub_date": 1764791280.0,
+      "article_url": "https://fortune.com/2025/12/03/is-ai-a-bubble-bofa-says-air-pocket-in-2026-data-center-debt/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2246163679-e1764790626275.jpg?resize=1200,600",
+      "description": "\u201cIs this 2000? Are we in a bubble? No,\u201d BofA\u2019s strategy chief Savita Subramanian said. \u201cWill AI continue in unfettered leadership? No.\u201d"
     },
     {
-      "headline": "How CMOs Can Balance AI, Creators And Brand Safety",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLW1jVzBpbUlfTDFVS2tGQ0dqZ3lfeHZTZlhkeWV1RER1eWVBcUM5UlRkTFBpc1FaS1EwaUtvb0gwODNGSER3QVE4OUQ4UmplUkx4VVNhTmJxUXJRbncwcHNaMkJXTVVYbEMzNkY2eFR2b1JYSmlPdzdhejA0NGgwVVhZUVpUTUxGdGNVYkw5bS1vOEtHTG5ycXJn?oc=5",
-      "pub_date": 1764787556.0,
-      "article_url": "https://www.forbes.com/sites/cmo/2025/12/03/how-cmos-can-balance-ai-creators-and-brand-safety/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/693084f6c3436bd9db759e4f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "Also in the Forbes CMO newsletter: Meet the 30 Under 30 marketing honorees, holiday shopping gets off to a record-setting start, Google\u2019s AI image generator goes viral."
-    },
-    {
-      "headline": "Why Enterprise AI Superusers Are Going Best-of-Suite",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUjB6ckdFa2ZZeVNkSHp0cTNQdDF0U0NyNExQSHZOa3hESTh1bUFEVS02dEdFNVg2bHdFaFdWbXhnVklVSzRGU1Zid09hTWlEZmo0WW53Z1Z0cTRWQzNwME5UT2haeENueGhCSlB2THktTnhwb2hVYjdBcVVJMU51aFlvYXd2QXNwSG9xZg?oc=5",
-      "pub_date": 1764789180.0,
-      "article_url": "https://www.businessinsider.com/why-enterprise-ai-superusers-are-going-best-of-suite",
-      "image": "https://i.insider.com/6908e05cc007ca8c27381f59?width=1200&format=jpeg",
-      "description": "SAP's Stephan de Barse on switching to the suite mindset for AI-powered enterprise success."
-    },
-    {
-      "headline": "How AI Is Transforming Work at Anthropic",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFBSaEZtOG1ieHpOdldrNVJEeGRCMEtJVmpNU1hOMHVNV1NldWJ1T3RuQlhTZXpkckk2akpUWFhqbGtabXRURFJiNDR4aG9YUjhUSzFadkZaYUJPNElQcDR4SkU2bHIyQkg3VDdmMWZ0eFM5ak52MThpcklEdVNfVg?oc=5",
-      "pub_date": 1764703349.0,
-      "article_url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Keyboard&backgroundColor=cactus",
-      "description": "How AI Is Transforming Work at Anthropic"
-    },
-    {
-      "headline": "The AI frenzy is driving a memory chip supply crisis",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb24zbTlISHhiN3MwUFFvYWVSaGNpeUx0NFNEODR0eldqZHV0YnZQSFhPZFhsOGFlaDJTR1h4Y3FOdjdlWnBhQXc2VjdrbG9xSHVqMzdib1I0WFJBTkY2QWNUMTVQNkMwRUNpSkV0MldVUTd0NzczWWJJWVg2T0pmRHQzUjc1a0Z2cGVvaGJvdHFlQ19EdmJJOF9XRWFLd2xY?oc=5",
-      "pub_date": 1764731700.0,
-      "article_url": "https://www.reuters.com/world/china/ai-frenzy-is-driving-new-global-supply-chain-crisis-2025-12-03/",
+      "headline": "Logitech CEO Says AI Devices Are Solutions Looking for Problems",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2FvNkhYMllZS3E4MFA1Q0VvcE5qcnREcDJVcUc0alljWEY1NEdSV09YU2hhN1MxR0RoV1dCMnZOVDdMSGY2eDlsMl9uV1BrOFZhRGlkVlJ1ZmgtTFB4MkNLb2E1Z1RhZnNxaXJodTl0bGExX3NiUVNWRWcyTzd0a1h2LTVWek1PMVM4RDYyb1BJdWNJeFBIMC1lQ19xNmNmVXlhaEhaV3dZM0ZJeUFvSGJnd3k?oc=5",
+      "pub_date": 1764789300.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-03/logitech-ceo-says-ai-devices-are-solutions-looking-for-problems",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Open-source framework enables addition of AI to software without prompt engineering",
+      "source": "Tech Xplore",
+      "source_url": "https://techxplore.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRzY0a3RrQmlra3M4amZYbk51SDIyclh4bkkyM1QzVjJZZFFHYzZPWDZVa1pvZTVkRGFjcTRRQVhIdkJodVpIUS1iUGgtamlmWWctRFdGT1dmQkJDUlBWc2NzeFhmZVlPOXV3QW5DUjlISzlNRUEtZW1TSXoyQlRadmJGdw?oc=5",
+      "pub_date": 1764791665.0,
+      "article_url": "https://techxplore.com/news/2025-12-source-framework-enables-addition-ai.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia CEO to Joe Rogan: Nobody \"really knows\" AI's national security implications",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51LThyeXBKakU0enRadWlCMHdaMUp4aWRKMVVSUU1uU1g1OG1YamxiSm5BdXlzQ0tnSzNYQzNlTTlYY2U0eDRDdkc2bGJBSUtyNjNoV0luT1V4S3dGbjhxdWh0WmJKRnNSUEdVNW95S1U4eVMxMGo3SA?oc=5",
+      "pub_date": 1764787365.0,
+      "article_url": "https://www.axios.com/2025/12/03/joe-rogan-jensen-huang-podcast-trump",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia servers speed up AI models from China's Moonshoot AI and others tenfold",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUkJtTG14UzNTNXNFd3BKUUNNcGlmRTluRXpKRUVjV3RsM2JaaDRDUHVBWXdRcHVPMVFaRWVnRGRfRWdRTWQ5M3Yxc0ZlUnJZYTVPVHVZZDUwRUxNdEMwZUZlZU1KZFJna0V3cTE5bHFwRWVBdDlLRW1scFRsSjZjS1JR?oc=5",
+      "pub_date": 1764783794.0,
+      "article_url": "https://finance.yahoo.com/news/nvidia-servers-speed-ai-models-173320148.html",
+      "image": "https://media.zenfs.com/en/reuters-finance.com/01a870f5a643b9531d6f751ffb56d456",
+      "description": "Nvidia on Wednesday published new data showing that its latest artificial\u00a0intelligence server can improve the performance \u200bof new models - including two popular ones from China - by 10 times.  The \u200cdata comes as the AI world has shifted its focus from training AI models, where Nvidia dominates \u200cthe market, to putting them to use for millions of users, where Nvidia faces far more competition from rivals such as Advanced Micro Devices and Cerebras.  Nvidia's data focused on what are known as mixture-of-expert AI models."
+    },
+    {
+      "headline": "The stock market believes Google is now winning the AI race over OpenAI, Nvidia",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDYwSjNPR2lYYVluejhGd2FKQ1BxS1lvQlJHRXgyWFhaY0lybzl1bGREeUlsX3pLbThCQTRMeWZycWU3aEpZaTJ0ZVdjNHhxUzR0TDJuUEJWUmFIb09tNEhYVi05TW5VTDVrQTJIZVIzZ2xENHdCTXNQMmQ3WmF1WXNEa1Jxbzk0M3hKeWpiTExjTjVwTlBXNTNIa2o2blpHTkk5T2g0akZvMGFXcmVhN3R6aXhqUQ?oc=5",
+      "pub_date": 1764704282.0,
+      "article_url": "https://www.cnbc.com/2025/12/02/the-stock-market-believes-google-is-now-winning-the-ai-race-over-openai-nvidia.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108226487-1763160850994-gettyimages-2246181054-GOOGLE_DATA.jpeg?v=1763160898&w=1920&h=1080",
+      "description": "\"Now, Gemini/TPU stocks trade at a premium relative to ChatGPT/GPU peers for the first time in nearly a decade,\" Wells Fargo's Ohsung Kwon said."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T19:19:11.544316+00:00"
+  "fetched_at": "2025-12-03T19:57:30.074167+00:00"
 }

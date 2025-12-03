@@ -25,6 +25,16 @@
       "description": "American Bitcoin Corp\u2019s shares fell from $2.39 to $1.90 after closing in what some are calling \u2018crypto winter\u2019"
     },
     {
+      "headline": "BlackRock's Surge in Crypto: Bitcoin ETFs Now Its Top Revenue Driver",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQzhFQWZ3Q1lYcldxRUl4RzZhR1ZtcFE2aWE5QnFNRVF3RnFIYURDYUdZNy15VzhkcWVOYmFMNWNNQklhVlhicFhRMGd0bU1yZEdPZlFxdjd6ekg5OHB5OUVtOVYzaTVDY2RYdVJFY2pkNWhteWhxTFJCWHZHM2R2d2xJdFI0VUlTV2c?oc=5",
+      "pub_date": 1764596160.0,
+      "article_url": "https://finance.yahoo.com/news/blackrocks-surge-crypto-bitcoin-etfs-133600713.html",
+      "image": "https://media.zenfs.com/en/zacks.com/edb25d10e45af60c5d4a41341d213d75",
+      "description": "Bitcoin ETFs have become BLK's top revenue driver, with IBIT assets soaring past many legacy funds since launch in January 2024."
+    },
+    {
       "headline": "Video: BlackRock C.E.O. Calls Bitcoin an \u2018Asset of Fear\u2019",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -45,22 +55,42 @@
       "description": "Larry Fink, once a proud crypto skeptic, has evolved his views as his firm, BlackRock, has become a leader in the industry."
     },
     {
-      "headline": "\u2018Faster Than Most Expect\u2019\u2014BlackRock CEO Issues \u2018Enormous\u2019 Price Prediction As Bitcoin Suddenly Soars Toward $2 Trillion",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUl9PYjJBY1BHalI3R3JKZ1I1NVZNYk0xendIX1pBWTZxZGpBNmM5bXdBUFp5d085ZWpPUGY2V3pHeUZrX0xQdFVIX2JJSjNUb3dXTUhLYkx2Z2kzUDNndzFlTFFWck1jYmRQNHQ3dGlrT1JSczhSd0hPdGVoS0pHU2Nvbnc2cC1wMU5DTThMeEhLNXVWWExyQkQzd2xfMmtoRkpOUy1ENkZldkpaQVhkTXNlWkJKTUhlaEUzaDFXdEliZk9Ra3ZFUHlHbjEzWkt0NW9fd2lxeGJQWnllaEkzaTBlU3RhTG1qSWtpU3ZFUUtTX3VrRmVWTUpScUZuMmM?oc=5",
-      "pub_date": 1764767287.0,
-      "article_url": "https://www.forbes.com/sites/digital-assets/2025/12/03/faster-than-most-expect-blackrock-ceo-issues-enormous-price-prediction-as-bitcoin-suddenly-soars-toward-2-trillion/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/68ce62c731907dbb97ed44ac/0x0.jpg?format=jpg&crop=2284,1284,x143,y0,safe&height=900&width=1600&fit=bounds",
-      "description": "The chief executive of the world\u2019s largest asset manager BlackRock has predicted the \u201cenormous growth\u201d of crypto-based tokenization in coming years..."
+      "headline": "Strategy CEO Says Reserve Reduces Pressure to Sell Bitcoin",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHk4V1ktaDhvd3Vzb0Q0WWZOclVYSEFzSVVVVmJxZWZvLU1IWVktdmJqTjNuNlR0TDhhRzNJS29iTU1BTkVvZTBxaWZkZGdLZGpqano4OHdoMnBOTzFvOVQwYk1TeF8yVnVVTkhrX0ZfVWZNYWlLMTR4TnhLSVVYTjFDMGU0MlMxMmJZWUIxYjdLaXMzNERTaHlDNi1LeEVGQ2NnVGxIZFBmMHVvZUJfX1BR?oc=5",
+      "pub_date": 1764703795.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/strategy-ceo-sees-reserve-used-to-make-payments-in-perpetuity",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Tech stocks linked to Bitcoin take a battering as crypto traders brace for Strategy to breach danger threshold",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xTGVDUlhBcU13TGxFZFlPZFoxOHkzVUNvTmhISjlYZWR0LTI5S0JmVDBZdW1aakVkQ2paVkxPbkFQREN1RlN6YmdYQlltYllVZXBtdWlldWlrN3pFZmd6c0RWWmRjT3hWY0hvd3hCMDlJZVZCZl92dTBjUTI?oc=5",
+      "pub_date": 1764677040.0,
+      "article_url": "https://fortune.com/2025/12/02/stocks-bitcoin-strategy-ratio-market-cap/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2217027772.jpg?resize=1200,600",
+      "description": "Michael Saylor\u2019s Strategy, the leading Bitcoin treasury company, now has a stock market cap worth less than the Bitcoin it holds."
+    },
+    {
+      "headline": "Strategy, the Bitcoin-Buying Company, Raises $1.44 Billion to Weather Crypto Downturn",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOU0JWV05zWGI2elVJZ0hGSm1ERlB5N2N0NURqMU5xc1ZWLVBPMFk3eUIzTGwtQ1NwVGtuLUF0SUszaFhsLUk1UnVBMEVIM0Z2a1lZOHIzNnVfanZEWS1MVWZmdHRWNzFXSHo2V3hsMDhnRFNyMWtNQm1WZmE5YVR2aUw3WDB2d3l1dDZucEFPVXhxYU1YWWZFLW1DTnRzT1FRTmktVnhHcEs1dXBJMU1ILWNwUm9XU2VZYk9GLU1pMks2LVpWNUxSU2lHVlk1NzhvNFk2N3RWWDZyd1Y2RGJsV3pLSWc1VG9XRkRVR0tVSmRHQlQ1SUtFSElVT0Q3dUVYQUx0LTQ1anBUNVZVRS1HQXd2cVVjcXBLSDk2UUdGRHlLWUdidmFXQkZjZ0ZleDM1NlVhNXVya1ZlN2pnRmdJSDZjT2lndFVSZ0VkWFdiM1FIX3dOVXkxMzRxOVlJUlZmN3FuUWljdF9MVS1WbGRYbllMZEZUaTJqRlh1R0xxaWRjSFlSR3B3aHk0elF1b1c3Z2ZUNU12cGJIREVBNDVzc0VOTDNJNUFid0FsTEtzRWJLQWtTTlNvWA?oc=5",
+      "pub_date": 1764626940.0,
+      "article_url": "https://www.wsj.com/business/strategy-cuts-outlook-establishes-1-44-billion-reserve-amid-bitcoin-selloff-020019d4?gaa_at=eafs&gaa_n=AWEtsqeXqjehJHxc1uBWTbVp7c4Mv89AkcOAWi7kpfduNJAgO3Mygt-AqGtK&gaa_ts=69309992&gaa_sig=5zxQRXCDv_nIgnd8PB-mjAG0Y1s97bkj_upl_r9fwd54niqMOsdpz6gctG6svJI-I9txKf5Cr8E1IMhy7ZQgig%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Harvard\u2019s Big Wager on Bitcoin Came Right Before the Bust",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPUUFXSGRjY3BLb0dFVFRVY2JOejBBWkF4YjZMcnZoSHJfbTJadU5LSy0zdTFfX2g5UThkSEJMLUZmbFF5QzFVYkxadDFTLUtJRnNCLXN4REpZUnpMeWFuR3p2Q2RxYmJiUGJaNklydHFFajh3ZVhIaHFOMm5xTFdyMm1rR1lSdmJLUURDR3laMzAxb1hYSUJ3Z0JleEZnYnRHSjFGbi12T2taVTdTdVdhSlJ0MWVVVzdqVWVnMjN6ZmhqZVlIUGdreGxZcHNldmsxbDVxZHFybGdSa25sMjVCdmNfc0hQd2FuM0Q5LXVvaGZ2NVh2NmR4T3RoZGdDZTdJVFVBREhTcXlQMU5QTm82NjFNQWx5cktyLVo0Z2czVnc3N2ZkQU1UZ09PTHU1V1I0QXF4V1YwZ0RUZC05VW5XZGQ5aE05RXp0VEhKQVRuTU5FQ2lFX3RpdE1hTTVtcEdqdDkzVWZtX2RKNVYxVklDQkxpanIyOWtjUmpMOVZWbjVwbjQ2OENTN0xrN18taWM1VWxDdWRuSEZ4aVI3UjJVV2hkYmg4NXppT1ZR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxON0t0WHRDcDgyUUw4aG1jY3NxNktxbTJvdjlubVJORXRlNzFZVW52ZHVZVDJ0VUxKOFZuVmdDaFZ5TWNhT3FtOUxUclBBY2J1eWtMZlZFR2dQdjY5QmtFbDBib0NFRU5ULV9NUDRtR2l0NmRFUmlrTVZWOG1ETEliSTQ1OXE5dkpUdm5nX3o2V09uYUR3OFVGeVVQSGZ2OFdTNF9mcFRSMGE2OHd3c1pNaEIzb1JiRVpSU2NSRDJNMWpkZkFPQW9jOTZnLXV2VlR5dUNMXzFvSVVCaGk1b3VJb1ZRLWNSbnItYzJIbW1BRDZTR3U2U3VwS0F2M0k0dVdQa3Z1OUpJRDAxYnpyMC1kQTFfbDJ3ck9qMllMdDltN1o5YlJhaEVLdlpneDNKNW1yazFPeGxac2lUTlJvczBhZU5oNVl4djg3aV9aMWJDNmZJTEpIZkNfM3NvR2Y2M1VWc1FVZ1A4eDc1R1B2cmNVVl8yLU9ueUZ3SG1DanhwcVNiaTk4QTRyaURSeHVzUE1DX2hqUlZLcEVfQWotRlA5RkhCNFVsa0wxX3Aw?oc=5",
       "pub_date": 1764716700.0,
-      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqcFUWR3AlJLgdSyJv599ZlCr0sqUgrirODMVTbEwkjoWNkDD9obvft8&gaa_ts=6930909d&gaa_sig=_yVKxGCu1deue3ckRKDvTvMPQUH6ynEakkqMuy0k7t92yB5IUEqkM2B5gWbPaKjdUHxX9vtRPrQAQ5jbjT-EKg%3D%3D",
+      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqcql60T81Pic1P2gTH4FCRTKMMa_4N4R_Ea-DIQykDaLorHMxKC1XvY&gaa_ts=69309992&gaa_sig=HxagGZyK0GgNGzQH-p4Tnj_ATiwRHYUtJcFMNY1-ddxAaGT742gyXhKf2vUd7_aswzT05Q1PeNt8D2N4aEVHvQ%3D%3D",
       "image": null,
       "description": null
     },
@@ -68,43 +98,13 @@
       "headline": "Stocks Rise as Bitcoin Bleeding Stops",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNZkl0UTRZRk9iUG10ZUJmWkpkVUVQSVFzcjNlUUVac0FUZnZQeTdwckJoLUFuNkIwWnJ1NW41bGhISVpPR1JFRFFrMy05QVBqNkNVZVR6X3BJcmx5VkpBX2dKamdmX2tQM3Y2OHhWbExnRkxXT1NDZXBRbTlQN2tDN0pMZHNPdFZPVmIzeXNhRF9VMHQ1LW4tMDJZOGtaa2FCd2VIX2lZOEV3QllWOXZSZ1R0VjNsc25ScW5aYkJpUTA2RzlpbHl5UUhrUzMxSWRfdGtFVXVqRTVXUTJBM0ZfbFBGdGtHVHB0dmFnNmFLMENMeEVYejRPbVlLc29yOFpIMHV5UjZWeHI5dFozZWFUYzMySnhjdHRLajdoVmtGZ2RZV1IwVWRXWnE0Q3lQbWctNDFtQmhRYzlHRnZYUkFrZ05xNFpkbDJjUlBvT1VqM1JHOFdQNTVyM29DcV9DeTNoVFN0WDlwQXlPUWlUbnRCcGlSM2IxRWtqY0xOV3hGLXJTQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPWE15Rk82bUZYbmRtSDliZVdrOGh6bGI4UVQyaDhlT3dZbjVKN2VRMDVhdkpVeTkySTZEbHZJVU5lXzFBVTdmdTdjTjhBaWZBZ3VrYlhSeFM5NEVkcFgtWEdLTFg3djFRRUJQRGMwZ0lyVlFYMXMtQTJEZVZROFFxQWVFcWI4a1g1LUF4enNVekhTdFFfQ29GMDR0cDlyc0dSSWpWNWF2MUc2dHF2TmpwTXlkRGtaV0NROU03THMwcFFoZVdFdkNjRm5hUHZlV20zZERyYTh5V0QwRTR0ZlcyY213TkVleGpjMTdVQjJ5RTlqRVB5aExrWWNYcGtuSlJQYm5faEh5SWhUVDYtSHBIcTEwVlBIUjJsYWRGRXBMLV9hZmN5QWZrZFlKcUliT0VHdm5ZaU5mempTek5nd0dlY195YUVFLTBCZkd5UnNocWxxcEF6R01Xc2NwamZydFNsaEU1WWw3VDVtQThGX2N6dTM0clR4Wl9vcWxoR1lUWV9kUQ?oc=5",
       "pub_date": 1764722760.0,
-      "article_url": "https://www.barrons.com/articles/stocks-today-apple-record-high-3a5f8a5a?gaa_at=eafs&gaa_n=AWEtsqfwuXC7lRgazs15jwpAfWA74XGHnWNE7nOp1umsZwavjUGko6JL1jVW&gaa_ts=6930909d&gaa_sig=DllhVSqmki5oT34pGgbPE54Bod23DVnvGSI8ScAu1Te9Tf4s3GGVcd7px7UsTm6Rq6ujOlLHRB3gXvarRij7wg%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "'Big Short' investor Michael Burry says bitcoin is the 'tulip bulb of our time'",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMUZNU05tdlNLMHZicUZHbkFQTmNGTGxKVnZNS092WldHUlVIM2tLMFB6c0JRNHY1S3k3ZTNLV3pPX0pMWTlIcnhmdTVySTBJbTB1OUlSS0ZGdFBFbGV0WDBla0VmQ2NPN3J2MEs2M2lvN3dRME5XbTFzR05GZUwwa1dNSGtRSFNrWG52RkpJaVdsZw?oc=5",
-      "pub_date": 1764685740.0,
-      "article_url": "https://www.businessinsider.com/michael-burry-bitcoin-price-tulip-bulb-big-short-2025-12",
-      "image": "https://i.insider.com/692ef04371107c9f34572830?width=1200&format=jpeg",
-      "description": "The investor said seeing the blockchain-based currency hit $100,000 was \"the most ridiculous thing.\""
-    },
-    {
-      "headline": "Investor Michael Burry Slams Bitcoin As 'Worth Nothing' Amid Price Rebound",
-      "source": "CCN.com",
-      "source_url": "https://www.ccn.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1JPb0RYS2NXbE05NkJYdjlqbndHZ2xXZlhhZWo2M1F3bXBZSHRYangweU5KNjVxZmdpNnlfNk9vM3BvM2I4azhoeG9KQ1ZHeEM2eVE5TnhxLWpkWkZSZkZtZHdVX3B1Vm1mN282LW11Tkc2TklQS2V4VHJfT19BaDYzcjRfNFpWLUR0ZmN3?oc=5",
-      "pub_date": 1764760222.0,
-      "article_url": "https://www.ccn.com/news/crypto/famed-investor-michael-burry-slams-bitcoin-worthless/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Opinion: For these big players, bitcoin investing is all about power",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxPWVhseE5QS3Z0MXI1T0NUWkRlREFGa0kxRWxscmVOMFU5cFVnejFjVEFPQURLZmVTOUlaMVViaVpFWXh6bWJadWVaN09jZmJqaVhJdmhaOEEyVUpxYXFwLUgzSjhyb29aTjBBTkJXSzRxRTFEaldDR0FRU1FWMmJyY0k3NkwzSzRiZ2hMNnVrMnBxcjR2WXZkdGp1RWFiVDFTZUxYZDRqa1NfSlg2cmV6LUROWmNzS0RQLXdPMXhIbGE4b0JOSU1FWFFIRGR0RWk2MXNGVm1paXZORk93TFdSTFlkMGs3eFFaZVFHQTBoamlJdUtIRmVxUzR5TzVQRW1DdDd3TTJjbDVaTFBOamp3X3pRNGpzcDhoVTVxOXloQVNOZTNib1V5azRTY2RPcHlUeFQ3TkZ0Z0lvQ1h5ejBZRWpGVFRPQ2lvbnVCV1hMQkxKNFJOWHlpNnEyMmdIQTUxVllvbXJ5amxzT1gwQWo1aUVkVXJoUTJBdjY4M2NFM01EQ3c3Ny1QR2VJeXdvSnN3NzBXTVpZUlJMbVJEUWVpTWJMWjVGZTVnb2FEWmk1OFBpZzgz?oc=5",
-      "pub_date": 1764679800.0,
-      "article_url": "https://www.marketwatch.com/story/bitcoin-still-has-one-thing-going-for-it-that-investors-are-missing-d2988d9b?gaa_at=eafs&gaa_n=AWEtsqfD-nVvnxUyOqintw01Iz8580RYnhvt-7Hma1c6zMPgXKkPvUhzn1DE&gaa_ts=6930909d&gaa_sig=IVQm9OsN809ImvfytVwrLGzJRyeLFoV5q1-e6QumwL7xyI0kmn3W16mGUAqVF95j8wLkXfVCBKlXXx6wKnMvRw%3D%3D",
+      "article_url": "https://www.barrons.com/articles/stocks-today-apple-record-high-3a5f8a5a?gaa_at=eafs&gaa_n=AWEtsqfil68cwBLnwVH2Fj957GE-UfPTDwmfjUpfus6UxZnGrHBAfPe_N6_l&gaa_ts=69309992&gaa_sig=K2Oua2Z0er2DRtnTbRX9iT-b-5BLJSON9JuQQ9LDr2Pjakqwv80lbaZSb-LU3cBorOEKt86x6hpxurtiMwI-ww%3D%3D",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T19:19:23.418307+00:00"
+  "fetched_at": "2025-12-03T19:57:30.680936+00:00"
 }

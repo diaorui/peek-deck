@@ -46,6 +46,17 @@
       "description": "From EngineAI on \ud835\udd4f: https://x.com/engineairobot/status/1996165785056919634?s=20"
     },
     {
+      "title": "Optimus: Next-Generation Highly Flexible Hand",
+      "author": "AlbatrossHummingbird",
+      "url": "https://www.reddit.com/r/robotics/comments/1pde8o5/optimus_nextgeneration_highly_flexible_hand/",
+      "published": 1764790874.0,
+      "thumbnail": "https://external-preview.redd.it/ZDlxMTY2amJsMTVnMdymnC4DYzDl4nmRFCa29adQLOgOJIM-qnPuk14K7m8J.png?width=640&crop=smart&auto=webp&s=01bded19c440d58e06b168d941a5c4acfb9a52f9",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "I\u2019m building a browser-based robotics playground (open source). You can test robots with zero setup.",
       "author": "Silly_Asparagus_76",
       "url": "https://www.reddit.com/r/robotics/comments/1pcwp3c/im_building_a_browserbased_robotics_playground/",
@@ -68,17 +79,6 @@
       "description": "Been working on this dog for 2 months. Finally modelled the dogs body dynamics. This is where all the trigonometry,triangles and laws of cosiness that I learnt in high school came to use. Its remote controlled I will open source the code once the robot is complete. If anybody has any queries do dm me\ud83d\ude42"
     },
     {
-      "title": "New video, Optimus running. Looking way smoother now!",
-      "author": "AlbatrossHummingbird",
-      "url": "https://www.reddit.com/r/robotics/comments/1pcm1tm/new_video_optimus_running_looking_way_smoother_now/",
-      "published": 1764713079.0,
-      "thumbnail": "https://external-preview.redd.it/OGZ3cHp4Z3o1djRnMZtT1cI8u5hSVYJJ8bJ_LbGeT_t5WDj3OAKPszcxmQqg.png?width=640&crop=smart&auto=webp&s=b8bb0d900e82171ab90eb2762270f41578a44522",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Not sure if that's version 2 or 3, maybe someone can elaborate in the comments."
-    },
-    {
       "title": "Is there any ROBOTICS complete course??",
       "author": "Lumpy-Cucumber-5895",
       "url": "https://www.reddit.com/r/robotics/comments/1pd6r2e/is_there_any_robotics_complete_course/",
@@ -90,6 +90,17 @@
       "description": "Hey, I'm a newbie in robotics and I want to build my career in robotics. I have very little time since I'm in my 3rd year, so I need a structured course. I've heard good things about \"The Construct,\" but its masterclass starts on March 2nd and it's quite expensive. Are there any other good options, or another way to get free access?"
     },
     {
+      "title": "New video, Optimus running. Looking way smoother now!",
+      "author": "AlbatrossHummingbird",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcm1tm/new_video_optimus_running_looking_way_smoother_now/",
+      "published": 1764713079.0,
+      "thumbnail": "https://external-preview.redd.it/OGZ3cHp4Z3o1djRnMZtT1cI8u5hSVYJJ8bJ_LbGeT_t5WDj3OAKPszcxmQqg.png?width=640&crop=smart&auto=webp&s=b8bb0d900e82171ab90eb2762270f41578a44522",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Not sure if that's version 2 or 3, maybe someone can elaborate in the comments."
+    },
+    {
       "title": "Rodney Brooks on why so much humanoid hype feels like theater",
       "author": "Responsible-Grass452",
       "url": "https://www.reddit.com/r/robotics/comments/1pd9sil/rodney_brooks_on_why_so_much_humanoid_hype_feels/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "His take is that a lot of what we see online right now is carefully staged. Preplanned motions, rehearsed scenes, and very little of the real complexity that comes with unstructured environments. The gap between a controlled demo and an actual deployable product is huge, and he seems worried that people are starting to confuse the two. He also pointed out that most of the systems shown in flashy videos still struggle with the basics. Reliable manipulation. Robust sensing. Working without a team of engineers one room away. None of that makes it into marketing clips, of course. So the public sees a humanoid walking and carrying a box, and assumes the market is further along than it really is."
-    },
-    {
-      "title": "Robotics Kit for Husband?",
-      "author": "Top_Special_8061",
-      "url": "https://www.reddit.com/r/robotics/comments/1pd5r3c/robotics_kit_for_husband/",
-      "published": 1764772362.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I do not know much about any of this (so sorry). My husband asked for a robotics kit for Christmas. I have no idea what to look for or purchase. He's been into Raspberry Pi for a couple of years now and I'm afraid to get him something he already has or that isn't challenging enough for him. Please help! Links would be great."
     }
   ],
-  "fetched_at": "2025-12-03T19:18:53.154513+00:00"
+  "fetched_at": "2025-12-03T19:57:05.910846+00:00"
 }

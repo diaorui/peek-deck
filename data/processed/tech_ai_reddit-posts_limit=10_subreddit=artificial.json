@@ -24,6 +24,17 @@
       "description": "A report from The Information that said Microsoft is struggling to sell some of its AI tools to customers sent the stock tumbling."
     },
     {
+      "title": "Microsoft slashes AI sales growth targets as customers resist unproven agents",
+      "author": "arstechnica",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdcr4z/microsoft_slashes_ai_sales_growth_targets_as/",
+      "published": 1764787632.0,
+      "thumbnail": "https://external-preview.redd.it/TvF53GlxmK0FtmcdZm78zL11AVb5VsM-vgGiVCu2_wI.jpeg?width=640&crop=smart&auto=webp&s=2a8188b56fc23f6d8f48ef738c97741754201e35",
+      "external_url": "http://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents",
+      "site_name": "Ars Technica",
+      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+      "description": "Report: Microsoft declared \u201cthe era of AI agents\u201d in May, but enterprise customers aren\u2019t buying."
+    },
+    {
       "title": "Border troops getting replaced by robots",
       "author": "msaussieandmrravana",
       "url": "https://www.reddit.com/r/artificial/comments/1pczmey/border_troops_getting_replaced_by_robots/",
@@ -46,17 +57,6 @@
       "description": "OpenAI's AI-powered ChatGPT is down worldwide with users receiving errors when attempting to access chats, with no reasons currently given."
     },
     {
-      "title": "Microsoft slashes AI sales growth targets as customers resist unproven agents",
-      "author": "arstechnica",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdcr4z/microsoft_slashes_ai_sales_growth_targets_as/",
-      "published": 1764787632.0,
-      "thumbnail": "https://external-preview.redd.it/TvF53GlxmK0FtmcdZm78zL11AVb5VsM-vgGiVCu2_wI.jpeg?width=640&crop=smart&auto=webp&s=2a8188b56fc23f6d8f48ef738c97741754201e35",
-      "external_url": "http://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents",
-      "site_name": "Ars Technica",
-      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
-      "description": "Report: Microsoft declared \u201cthe era of AI agents\u201d in May, but enterprise customers aren\u2019t buying."
-    },
-    {
       "title": "IBM CEO Has Doubts That Big Tech's AI Spending Spree Will Pay Off",
       "author": "msaussieandmrravana",
       "url": "https://www.reddit.com/r/artificial/comments/1pcz05q/ibm_ceo_has_doubts_that_big_techs_ai_spending/",
@@ -66,6 +66,17 @@
       "site_name": "Business Insider",
       "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
       "description": "Data center is not a profitable business, given land, water, electricity are scarce resources."
+    },
+    {
+      "title": "Micron ends Crucial consumer SSD and RAM line, shifts focus to AI and enterprise",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdd29l/micron_ends_crucial_consumer_ssd_and_ram_line/",
+      "published": 1764788292.0,
+      "thumbnail": "https://external-preview.redd.it/JwnHD4WOV0s9aNA4vTLqUdc_KKpyC7kWtk1LCmNzgPg.jpeg?width=640&crop=smart&auto=webp&s=ebc556dc044abb87c66a13d59006b15fef21f01a",
+      "external_url": "https://videocardz.com/newz/micron-kills-off-crucial-cosnumer-brand-to-focus-on-ai-and-enterprise",
+      "site_name": "videocardz.com",
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Kling 2.6 Just Dropped: First Text to Video Model With Built in Audio & 1080p Output",
@@ -90,27 +101,16 @@
       "description": "Lately I noticed I\u2019ve worked a bunch of AI stuff into my daily workflow without even planning to. I draft things with a model, clean them up myself, then run them through a detector that gives actual sentence level notes so I can fix any stiff sounding parts. Curious what everyone else is using day to day. What stuck and what did you drop?"
     },
     {
-      "title": "Is AI really a bubble or are we underestimating how far it will go?",
-      "author": "Lecord",
-      "url": "https://www.reddit.com/r/artificial/comments/1pcvxx7/is_ai_really_a_bubble_or_are_we_underestimating/",
-      "published": 1764740052.0,
+      "title": "Why are they forcing AI onto us through TVs?",
+      "author": "Ok_Personality6148",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdeaao/why_are_they_forcing_ai_onto_us_through_tvs/",
+      "published": 1764790974.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I keep seeing people say that AI is a bubble or that it\u2019s overhyped, but every time I use AI tools I seriously don\u2019t get how people believe that. To me it feels like AI is already capable of doing a huge part of many jobs, including some in healthcare like basic analysis, documentation, nutrition planning, explanations, x-rays, etc. And if it keeps improving even a bit, it seems obvious that a lot of tasks could be automated. So I\u2019m wondering why some people are so convinced it\u2019s a bubble that will \u201cburst.\u201d Is it fear of job loss? Just media exaggeration? Real technical limits I\u2019m not aware of? Or just general skepticism? I want to understand the other side. Do you think AI is actually going to collapse, or do you think it\u2019s going to keep growing and eventually replace certain roles or reduce the number of workers needed? Curious to hear different perspectives, especially from people who think AI is overhyped."
-    },
-    {
-      "title": "Micron ends Crucial consumer SSD and RAM line, shifts focus to AI and enterprise",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdd29l/micron_ends_crucial_consumer_ssd_and_ram_line/",
-      "published": 1764788292.0,
-      "thumbnail": "https://external-preview.redd.it/JwnHD4WOV0s9aNA4vTLqUdc_KKpyC7kWtk1LCmNzgPg.jpeg?width=640&crop=smart&auto=webp&s=ebc556dc044abb87c66a13d59006b15fef21f01a",
-      "external_url": "https://videocardz.com/newz/micron-kills-off-crucial-cosnumer-brand-to-focus-on-ai-and-enterprise",
-      "site_name": "videocardz.com",
-      "favicon": null,
-      "description": null
+      "description": "I was recently shopping around for a new TV and was 'aomewhat' surprised to see all these AI TV models. I say somewhat because everyone is putting AI into everything right now but I thought a TV could be left alone. Is this going to be the next 3D? Will it have a moment then die a death or will the march of AI continue to infect everything regardless of whether there's a use case or not? Curious to hear people's thoughts."
     }
   ],
-  "fetched_at": "2025-12-03T19:18:54.923056+00:00"
+  "fetched_at": "2025-12-03T19:57:01.673987+00:00"
 }
