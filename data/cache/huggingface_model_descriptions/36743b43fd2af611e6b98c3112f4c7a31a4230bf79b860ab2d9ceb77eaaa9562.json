@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-12-03T13:21:22.694791+00:00",
+  "data": "Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.",
+  "model_id": "alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union"
+}

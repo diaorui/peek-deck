@@ -13,17 +13,6 @@
       "description": "Videoshows a driverless Waymo entering a police felony stop perimeter in Downtown LA. The Incident: The vehicle navigated just a few feet from officers during a tense standoff while a suspect was on the ground. The Failure: The planner technically worked (it didn't hit anyone) but it completely failed to read the room. It highlights that current AVs have zero concept of danger or social context beyond basic geometry. Outcome: Passengers were safe, but officers had to shout commands at a car that couldn't understand the urgency. Source : NBC News \ud83d\udd17: https://www.google.com/amp/s/www.nbcnews.com/news/amp/rcna246994"
     },
     {
-      "title": "I\u2019m building a browser-based robotics playground (open source). You can test robots with zero setup.",
-      "author": "Silly_Asparagus_76",
-      "url": "https://www.reddit.com/r/robotics/comments/1pcwp3c/im_building_a_browserbased_robotics_playground/",
-      "published": 1764742597.0,
-      "thumbnail": "https://external-preview.redd.it/OHRobHR2ZmtseDRnMVhn10-Nc1-9KriehFOzrubxZY11FK4j-7-Mf4lOMvGA.png?width=640&crop=smart&auto=webp&s=71a081a0112389c9327782bec9d6515fec72cadb",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019m making a small open-source robotics playground that runs in the browser. It started as a fun idea and somehow turned into a physics sandbox where you can drive robots without installing anything. I want to add a few more robot types, but I\u2019m not sure what would actually be fun or interesting to try. What robots should I add next? Just curious what people here would enjoy testing."
-    },
-    {
       "title": "GITAI is designing robots that can maintain themselves on the Moon or Mars",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Website: https://gitai.tech/ On \ud835\udd4f: https://x.com/GITAI_HQ"
+    },
+    {
+      "title": "I\u2019m building a browser-based robotics playground (open source). You can test robots with zero setup.",
+      "author": "Silly_Asparagus_76",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcwp3c/im_building_a_browserbased_robotics_playground/",
+      "published": 1764742597.0,
+      "thumbnail": "https://external-preview.redd.it/OHRobHR2ZmtseDRnMVhn10-Nc1-9KriehFOzrubxZY11FK4j-7-Mf4lOMvGA.png?width=640&crop=smart&auto=webp&s=71a081a0112389c9327782bec9d6515fec72cadb",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019m making a small open-source robotics playground that runs in the browser. It started as a fun idea and somehow turned into a physics sandbox where you can drive robots without installing anything. I want to add a few more robot types, but I\u2019m not sure what would actually be fun or interesting to try. What robots should I add next? Just curious what people here would enjoy testing."
     },
     {
       "title": "New video, Optimus running. Looking way smoother now!",
@@ -112,5 +112,5 @@
       "description": "I want to make my ride on lawn mower remote control. My plan is to use stepper motors for steering and speed control lever actuation and hopefully use my drone controller(elrs, boxer) and a flight controller to connect reciever and send signal to stepper controllers. I think my main question here is: are there software programs similar to betaflight that allow my to load firmware to my fc and control/program it in a different way then you would do for a drone. And second question: does this sound feasable, and are there better methods of achieving this."
     }
   ],
-  "fetched_at": "2025-12-03T12:31:08.300434+00:00"
+  "fetched_at": "2025-12-03T13:21:04.720638+00:00"
 }
