@@ -45,14 +45,14 @@
       "description": "November 2025 started with the Robotics Startup Radar and continued with news from important players in the robotics industry."
     },
     {
-      "headline": "China's top universities plan to roll out 'embodied intelligence' majors to fuel Beijing's robotics push",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWJYVkZTUkI2cnE0UWNSUjN2RS1Qd1RLeVVKVmNxYkpfdnczSVVBN0lHalZMelJYSTZzM21KMHBxY1ZLRjZsaG54aGhYLWw5VUplZHdSMXpBWnNhYjRkRHpTY2VlUGVwVG0wYWp4XzlwcjR1eTVhWHY4ak0tN0c5U2VqMFhPY3psRG5GX2V6eTJpZU1ISjdhVVZ0TjFjaW5SdGNBbUp1UXpSaG13YTBBUDVieUQ?oc=5",
-      "pub_date": 1764738480.0,
-      "article_url": "https://www.businessinsider.com/china-embodied-intelligence-major-universities-robotics-talent-ai-zhejiang-2025-12",
-      "image": "https://i.insider.com/692fb4247ecd1d1da662d15e?width=1200&format=jpeg",
-      "description": "Seven Chinese universities plan to launch an \"embodied intelligence\" major as Beijing races to build a pipeline of robotics and AI talent."
+      "headline": "Robotics \u2018changing the nature of what people are doing.\u2019 Amazon Robotics chief on new AI tech in warehouses.",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTJJSmNPMEc2WEhkR3gzcGRzSkFFQXZiY1Q0d0t0dktsbGozZUZxckxWVWhFUGtPQWpUS1FhZXlrOXdFLWx4TlotajRqOHp5cFp0LU9VX01GRmsxVF9ZWHZxNzVaVDJZZ1c0NXROSUpGa3dXYVFxWjRPU2FfNDU5d0pR?oc=5",
+      "pub_date": 1764599932.0,
+      "article_url": "https://www.cnn.com/2025/12/01/world/video/amazon-robotics-change-warehouses",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22160871-1875959-3660000002-still.jpg?c=16x9&q=w_800,c_fill",
+      "description": "CNN News Central\u2019s Sara Sidner speaks with Amazon Robotics VP about technology driving Amazon\u2019s holiday rush"
     },
     {
       "headline": "Does Serve Robotics' Vayu Acquisition Advance Autonomy and Efficiency?",
@@ -65,14 +65,14 @@
       "description": "SERV's Vayu acquisition sharpens its autonomy roadmap, boosting AI capabilities, operational efficiency and long-term delivery leadership."
     },
     {
-      "headline": "Robotics \u2018changing the nature of what people are doing.\u2019 Amazon Robotics chief on new AI tech in warehouses.",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTJJSmNPMEc2WEhkR3gzcGRzSkFFQXZiY1Q0d0t0dktsbGozZUZxckxWVWhFUGtPQWpUS1FhZXlrOXdFLWx4TlotajRqOHp5cFp0LU9VX01GRmsxVF9ZWHZxNzVaVDJZZ1c0NXROSUpGa3dXYVFxWjRPU2FfNDU5d0pR?oc=5",
-      "pub_date": 1764599932.0,
-      "article_url": "https://www.cnn.com/2025/12/01/world/video/amazon-robotics-change-warehouses",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22160871-1875959-3660000002-still.jpg?c=16x9&q=w_800,c_fill",
-      "description": "CNN News Central\u2019s Sara Sidner speaks with Amazon Robotics VP about technology driving Amazon\u2019s holiday rush"
+      "headline": "China's top universities plan to roll out 'embodied intelligence' majors to fuel Beijing's robotics push",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWJYVkZTUkI2cnE0UWNSUjN2RS1Qd1RLeVVKVmNxYkpfdnczSVVBN0lHalZMelJYSTZzM21KMHBxY1ZLRjZsaG54aGhYLWw5VUplZHdSMXpBWnNhYjRkRHpTY2VlUGVwVG0wYWp4XzlwcjR1eTVhWHY4ak0tN0c5U2VqMFhPY3psRG5GX2V6eTJpZU1ISjdhVVZ0TjFjaW5SdGNBbUp1UXpSaG13YTBBUDVieUQ?oc=5",
+      "pub_date": 1764738480.0,
+      "article_url": "https://www.businessinsider.com/china-embodied-intelligence-major-universities-robotics-talent-ai-zhejiang-2025-12",
+      "image": "https://i.insider.com/692fb4247ecd1d1da662d15e?width=1200&format=jpeg",
+      "description": "Seven Chinese universities plan to launch an \"embodied intelligence\" major as Beijing races to build a pipeline of robotics and AI talent."
     },
     {
       "headline": "Doubts on China\u2019s robotics strength a result of lacking \u2018understanding on manufacturing capabilities,\u2019 Chinese firm responds to US peer\u2019s fake video claim",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T09:33:37.092096+00:00"
+  "fetched_at": "2025-12-03T10:11:55.837695+00:00"
 }

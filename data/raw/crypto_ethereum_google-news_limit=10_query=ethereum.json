@@ -15,14 +15,14 @@
       "description": "Bitcoin rebounds above $90,000 with a 6.7% gain as crypto markets rally. ETH tops $3K, XRP surges while analysts eye Fed's upcoming decision."
     },
     {
-      "headline": "Ripple (XRP) ETFs Reign Supreme as Total Inflows Surpass Bitcoin, Ethereum Funds",
-      "source": "CryptoPotato",
-      "source_url": "https://cryptopotato.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbVVpSk9VcWpucDY3T25RdDZFWUVDX1JIOW16YmEtaHg3R2Rkbjc2TlZiRkN5ZmVxandNaXduYmZ3azJWd0dIWUNNVm1RdWRfXzRaY1lOWE1PVDN6SEFEVzczLXVJODh3UHNFcG1ianNlcHlVamdsTHpqcFRGNWJsT0RqSHVhNlh0YlA5cUZHUlFQdGliV2pJblRsWVAtWnhUanpwckZB?oc=5",
-      "pub_date": 1764678530.0,
-      "article_url": "https://cryptopotato.com/ripple-xrp-etfs-reign-supreme-as-total-inflows-surpass-bitcoin-ethereum-funds/",
-      "image": "https://cryptopotato.com/wp-content/uploads/2025/11/Ripple_ETF.jpg",
-      "description": "In the meantime, the DOGE ETFs continue to see no action."
+      "headline": "Vanguard to Allow Bitcoin, Ethereum and XRP ETF Trading in Major Crypto Pivot",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSDljREtzVTQyZGlqSWNkY0dFNlZfMGFOWXNXR3BSZ2Z6eXh3M0xwaUoyZ1ZGNTBuZHFIWVpGTXhHblhEUDRyQVpYRmJUSGhKVzRuRUx5cEVRWXczeFlkVm5wcjVNb2g0U1V4b3lvQTd6NFRnX2FQcTFHOU44ZHktQWtmVVk1WUwx?oc=5",
+      "pub_date": 1764629428.0,
+      "article_url": "https://finance.yahoo.com/news/vanguard-allow-bitcoin-ethereum-xrp-225028664.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/hXrdldpry5a21Xch5OqnSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/4eea251eb4eefbfb54f2898888037206",
+      "description": "Vanguard will allow trading of crypto-focused ETFs and mutual funds on its brokerage platform, ending years of resistance."
     },
     {
       "headline": "Bitcoin logs its worst day since March",
@@ -39,7 +39,7 @@
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVHg0YTBhdy1wSmNGMlMxdmpjYTVXZFgxT0dabzZNWE42T0dlRmxUcEhwNnVLNzM4VmhyN1J5cTduNUdmQ2M2cldmVDd1bTVCZDVibUE5aVMxcWVrcGNTVWhNMFAtdTc3Yk9ucnVzYzlRODBybFRhMlV5Y2dZUDlZaUJoekJyd0JudG1wSHhHVnpoMWRo0gGcAUFVX3lxTE5DV0M5SnRNYmF3bjJqdlFoZERCczRkRlJVQ1FWcnh3WkNWTWVXS1R1UUhuUktYTUtFMDNjVXdLU3VhMGdsRFhOQUJ5dnJVUWZ0bHlaTmVzdUs4TDdIMEh1QnFrbkd2SjdiUzRCcFVhVzk1WU9JcXBZYXV2RHd4NUVHclZqUV8wRnJjc0hic055ZVpRNzZoMk1qb1hlbw?oc=5",
-      "pub_date": 1764737018.0,
+      "pub_date": 1764741966.0,
       "article_url": "https://decrypt.co/350728/ethereum-whale-buying-steps-up-market-rebound-heavy-liquidations",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
       "description": "Large holders resumed sizeable Ethereum purchases this week as crypto prices recovered sharply from Monday\u2019s wipeout."
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T09:33:35.148522+00:00"
+  "fetched_at": "2025-12-03T10:11:54.411341+00:00"
 }

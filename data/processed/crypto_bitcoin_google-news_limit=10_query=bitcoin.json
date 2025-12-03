@@ -15,26 +15,6 @@
       "description": "Wall Street is eyeing a comeback as the flight from risk starts to cool."
     },
     {
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq sink, bitcoin plummets in downbeat start to December",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdUV0Y1ZUR2RxMkZ1aVo1VjhycnNWU3JsZ2xCaEFzRGpTejB2OVoyMlR6RzdvS1pLTXQ2eFFIRUtjY2Nnakp6V3UwQjFDc0gtNUkxbXpJSTA5b2lqNzZNV3RJSExwamdyVVBLVnc0NXB2VGpVeDZ3ZkRQRWhDZTNQQlA2Sm5VMUIyQVVqSHl0d00xQ081MFFNZEdVcEd0dGNiSTd5NkhrZGdlS0Q5QmRUOFdVM3ZLX1NycFRJVk9rUnVHRG9BWmdTV0dWWTBVcXdvYW9RSU53?oc=5",
-      "pub_date": 1764613752.0,
-      "article_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-bitcoin-plummets-in-downbeat-start-to-december-011408608.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/lvmtNDwzV7lcqAQNJZd0kA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-10/6f40c5f0-a863-11f0-b3eb-c74a2e7e85d5",
-      "description": "Wall Street's strong late-November rebound looks set to hit a speed bump on the first trading day of December."
-    },
-    {
-      "headline": "Bitcoin Rebounds Off Lows, Rising Above $91,000",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxQbkp6SnpYb0dBNjZfZ05WWEVjX2NLUEt2ZFg1Vlc2Rmk5c1BRSE5kNVh3alhDUktGd2NfUGhvelBDR0dJY3hQbzJDbERMeUFyWENOYmFCNEZTVUlMMk90b3VhLU9qQlZveVU0YU1nWC1Tek1pb1JfRHh2bGl0NGtOWlpDUjZpSmI5T3JqcnZoWmZHajFZTnNILS1na0dkNnVPamVsT3U5MGl0TEVXSXhxSFJiblYxRUdSaEtYakg5dW9ObTZxWTlCM0xhd0FSeF82bnZKYWswUTNSUm9xZFVrdGVYQUJDV3UzRHh6dFhoMjAxQmtlSnVpMTVfUDB5cm9NRjBhYmExWU1FdnFONFYyN05ieWhyOWhIb09CNXp5VnpGN0QzSjlxazl3WkFXdjMtWFl4MGluODQ1aXpRVldGZlBaR1ZuTjZrNE4zTHVyRTQtRHBhZm1hLUhwTVptX19PblpHMWFoSmFLczNFc3l4SXlKTzNmWTEydVRKZURXY0F0clUyaXhMWXlXQmJiT1lBLXY4VUZMdlB4Sk54VVlFMk9ET0JqN0NTdjU4RDJuT25pMW1jVUgtSHlQWHZYRk9RWDlQbVFOdmhXNHlmb1lTb3lVa1NJTHZ4VTRraHJUNnNpNU0wYWc?oc=5",
-      "pub_date": 1764664380.0,
-      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-02-2025/card/bitcoin-rebounds-off-lows-hitting-90-000-KdjDmRT8dpAKaWd81I8V?gaa_at=eafs&gaa_n=AWEtsqcnMUaTg5Cbwh9esB_TjGFlr7mA53J_mg4EJLGLrysxtUEVQLfXsL7K&gaa_ts=69300763&gaa_sig=t85an58qXf_DloYQJtpg_rCCOdXszg9ieGf9YGHusbocBykslukPe_8JdhjUAKgjzGupFpyn_U-hOIfdRObT3w%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Bitcoin faithful prepare for a bitter winter",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
@@ -43,6 +23,66 @@
       "article_url": "https://www.ft.com/content/c235d775-cb39-475f-b11c-e5883d59ff56",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2eb59d00-95aa-4b42-a221-5062022529b6.jpg?source=next-barrier-page",
       "description": "The flywheel is difficult to maintain if crypto\u2019s animal spirits turn out to have been durably damped down"
+    },
+    {
+      "headline": "Strategy, the Bitcoin-Buying Company, Raises $1.44 Billion to Weather Crypto Downturn",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQaUtISTVmbHM4Ulk3RHVlZlNzU0gwbk1YUWFuZVlCX2hSajVRa3VVRDNCN0Y4ZHFJNDhJVmxMUlhYWXd2RW1Wc0tCMnFXMURTNHBuRVpJZHhDVDlRTWEyZXI4QnNsUE9Wdm1NZERwQlRsZE96R2U1T2EyZ2VzdFJZd203MDNPMjBwMExyM1h3SDRCanJpZFpHTXRqNHZnMVlJZ0FwdllVY0pfbF9pY0NTSE5wcHEzWDZnb3A0T0cyLWlPMTVybnAwcnJPQ2hzOXpiY3YxMDRZanRERE9MTk1ZVHVqNV8xWk8xT2x5SS0zMjVnTmhfSFd0bG9WRHFWa3hySDR5RGs2OWdsbXNtYWxyOXZkc2ltMVVkSkNFak9ER0NFT1dhRUM3Ty15Tmxkd2wxN3BUZlEzMmlYNmNISG1YaXZZRHZ6MTRFR3RXdFFaZ0hTZ1ZTZzU5MU4wZWMxLTZTamVTOHh1dW12Y1dtZkxEcjFWakRXcXp4QnJ6UERmVzNIazZXQ1VjSU9aRWdkdURSbk1UNHNwMmJ3Y09aTnk2THRxSjJpX3lIM2JGbTR2Q1VmNWl5akl4bg?oc=5",
+      "pub_date": 1764626940.0,
+      "article_url": "https://www.wsj.com/business/strategy-cuts-outlook-establishes-1-44-billion-reserve-amid-bitcoin-selloff-020019d4?gaa_at=eafs&gaa_n=AWEtsqeeT0iZY48aGxBBEs3r1LI04BbwvFnwnv08F_Yyn6LYP1rcIJP-hyUP&gaa_ts=6930105f&gaa_sig=LnLwVzl2fSHlOygyNyqPGOU9RBg9YZrzLSuMA3aohVU8ipxpHG-tXt5snnxfpbEePpkkTWBqKpWxaOajgL23Gw%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Strategy CEO Says Reserve Reduces Pressure to Sell Bitcoin",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHk4V1ktaDhvd3Vzb0Q0WWZOclVYSEFzSVVVVmJxZWZvLU1IWVktdmJqTjNuNlR0TDhhRzNJS29iTU1BTkVvZTBxaWZkZGdLZGpqano4OHdoMnBOTzFvOVQwYk1TeF8yVnVVTkhrX0ZfVWZNYWlLMTR4TnhLSVVYTjFDMGU0MlMxMmJZWUIxYjdLaXMzNERTaHlDNi1LeEVGQ2NnVGxIZFBmMHVvZUJfX1BR?oc=5",
+      "pub_date": 1764703795.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/strategy-ceo-sees-reserve-used-to-make-payments-in-perpetuity",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Michael Saylor Just Revealed When He\u2019ll Sell Bitcoin \u2014 It May Be Sooner Than You Think",
+      "source": "CCN.com",
+      "source_url": "https://www.ccn.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXotSGNLTG5HVlg5U1Z2Y0doNEdpbWk5aXZGWG1POU9TZ1M0TlJra00ycUV3STNmdnhjU3VDM3BJNk1XWG1iYnUyeU5WNUF6QVVXOGR3c0xqWE9kMUVRWkZEQlJDT0hzcWpSRjBrc3AtMGdESmlzVFFvRFVoaDM4bC0xaXFpUXBTTGk4b3Ixa1pCSUNZZ3BSaDlSVW1ma0lQLVdXSmFOMA?oc=5",
+      "pub_date": 1764751191.0,
+      "article_url": "https://www.ccn.com/news/crypto/michael-saylor-reveals-strategy-sell-bitcoin-mstr-outperform-all-stocks/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin rebounds above $90,000; Marvell spikes - what\u2019s moving markets",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWDdfamx2SUdVenJ0Ujk2M3VLUzBUeVNoekUyQmNWd1NHUWJWU2ppc3pnRDBNNXh5bGN2cGE5LWhTR1BFQ0kteEZPQUEtdDlndWVUZ2VqcFU4Zjh6TEM0N0syenJtSFRUVUc4RF9GSzRXTkxPZDNhMnJzcXpiS0ZncEwySGlXdXg1VWkyc2daMHh5YkdLTHhGdzFWLUxZY2I3SWhrdzh1Vjc5dEQyMWtmWUhXM1dLaXhi?oc=5",
+      "pub_date": 1764751725.0,
+      "article_url": "https://www.investing.com/news/economy-news/bitcoin-rebounds-above-90000-marvell-spikes--whats-moving-markets-4387533",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin\u2019s Sky-High Prices Have Not Panned Out",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLV80ZjAtYy1HdlV4aVRkWXk0Rk0tOWtSM3JGNHpOVThqZEZpMGR3ZUMzR2xXVExaVXlZQnpoRE9LU0ZkT1F2WXlVbDBTbzdka1p0cW91RlRSWjBGRkpPWkY2dmVrV3NRTUdCZG9XR1dFZldZWVFlVmt3d3MyS01VTzFWUnJIb2RJWlpKclFOaw?oc=5",
+      "pub_date": 1764756143.0,
+      "article_url": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Jumps Back Above $90,000 After Bruising Selloff",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnl1U0Y1bG5MRW1yQ2VrWEhpbVdWR3JzTFBuZ2I2WEZ4bGhZWE42S05ZNWtWNW1LbExfSDBBMmhMOHYzNGF4YmxIZ3Nhd1pjRXNpcUlMX2xiaG8zUHl5Sk9lWWtyQWhyS19MM1E4SzhMYlR3dEVIQ0hOTjRhYTBZZ2d5bUFrMkkzZE5uV245RmpvV2ZMc0g5QkZwa0ZzbjRVYmE1UEhYWC1yWFdRcGtV?oc=5",
+      "pub_date": 1764711512.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/crypto-markets-steady-as-indicators-point-to-weak-sentiment",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Eric Trump\u2019s cryptocurrency firm tumbles nearly 40% amid \u2018crypto winter\u2019",
@@ -63,48 +103,8 @@
       "article_url": "https://www.ft.com/content/18e3bfc1-c2aa-49a0-8c6d-a37255a23017",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc5b7856b-9d31-43fa-96a0-0e88766916a1.jpg?source=next-barrier-page",
       "description": "Company\u2019s shares plummet as investors cash out at end of lock-up period"
-    },
-    {
-      "headline": "Bitcoin sell-off halts Trump family's crypto windfall",
-      "source": "ABC News",
-      "source_url": "https://abcnews.go.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmlWMDNZVUtjS1dsWHFyaTdfMnhSMTEta1J0WGZDTlJ0czUxcFlJeV95Y0pUSGRVZG0tSmE3MlVxMDNGb1pBZjlWOF9uZXlZVlJncTRldWtaMDRRMm5NelRQN216N0I1YldHSVNja0Nsb3FpUDliZk12aTVaZEd6TVkzaW1FeUZRcWtBcWl2WkhTS1JGbExzUDFIRFlnUdIBowFBVV95cUxQVGxtTWthQ3gxRS1QUUpYZFd0RTB0OXVPYm5STk1sLWJPUzZLeGRhVUM0NzBfcm1IaGdqdVNESG9leWZpTHpkUDFsaEpDbG94d0FjOTlpRGNZOFZDWF9ZeGhNMkRzRHNzOHpDVGNZQWNDamdQR0R2Ni1PVkhtVmpsQUpyZHdLVzgxelQwNzU3RmFkMXNOOXB3UmFRV1IzUGItc2Q4?oc=5",
-      "pub_date": 1764696059.0,
-      "article_url": "https://abcnews.go.com/US/bitcoin-sell-off-halts-trump-familys-crypto-windfall/story?id=128035773",
-      "image": "https://i.abcnewsfe.com/a/cb51083f-cd27-4bf8-8f01-4b848cd3d681/donald-trump-5-ap-gmh-251201_1764611758255_hpMain_16x9.jpg?w=1600",
-      "description": "Due to a recent downturn in bitcoin, the Trump family has had roughly a billion dollars of their net worth erased in just a matter of weeks, according to estimates."
-    },
-    {
-      "headline": "Bitcoin Jumps Back Above $90,000 After Bruising Selloff",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnl1U0Y1bG5MRW1yQ2VrWEhpbVdWR3JzTFBuZ2I2WEZ4bGhZWE42S05ZNWtWNW1LbExfSDBBMmhMOHYzNGF4YmxIZ3Nhd1pjRXNpcUlMX2xiaG8zUHl5Sk9lWWtyQWhyS19MM1E4SzhMYlR3dEVIQ0hOTjRhYTBZZ2d5bUFrMkkzZE5uV245RmpvV2ZMc0g5QkZwa0ZzbjRVYmE1UEhYWC1yWFdRcGtV?oc=5",
-      "pub_date": 1764711512.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/crypto-markets-steady-as-indicators-point-to-weak-sentiment",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "'Big Short' investor Michael Burry says bitcoin is the 'tulip bulb of our time'",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMUZNU05tdlNLMHZicUZHbkFQTmNGTGxKVnZNS092WldHUlVIM2tLMFB6c0JRNHY1S3k3ZTNLV3pPX0pMWTlIcnhmdTVySTBJbTB1OUlSS0ZGdFBFbGV0WDBla0VmQ2NPN3J2MEs2M2lvN3dRME5XbTFzR05GZUwwa1dNSGtRSFNrWG52RkpJaVdsZw?oc=5",
-      "pub_date": 1764685740.0,
-      "article_url": "https://www.businessinsider.com/michael-burry-bitcoin-price-tulip-bulb-big-short-2025-12",
-      "image": "https://i.insider.com/692ef04371107c9f34572830?width=1200&format=jpeg",
-      "description": "The investor said seeing the blockchain-based currency hit $100,000 was \"the most ridiculous thing.\""
-    },
-    {
-      "headline": "Strategy, the Bitcoin-Buying Company, Raises $1.44 Billion to Weather Crypto Downturn",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOMUs4ZUd3ZWhUaFRxNG5wOXU3b0hCS0tNMEVJeUtJUkROWW93Rzk1eE1PaVM4dHkwVWhycDY1eEhPY2huWXBaTk9acmJWdkJzY1lTekFpQlotVFlSTGd4Q012cjhIYTA2R0pSVl9ZV1N3MUprWkJ3VWpHMWlEQUVFNXo2bXN2bXhhRHF4UkRGa2RTdjlIUkcyTGNEYW1MdzlpMEdsVFBjOE1aREpLVGpCOXBBdXo5NV9ZQ000b3RWc001S1hYenFXUGlSSU0zbWRCZERzWmhUSGJFQnpBQWpFV1VsaHYyY1hQRnNTQmVGU2FRQVpzb3pwaUZ3ZkU5Q2Z6aGJSdmloRVUwY2NfUHp0WnZuTjkyZkt2RjlnV0JBRVdwbzRHRG9HWHdqdzdJNzhXZjF0RThOaHBiZjJpQVF0RnIwczNVT0YyUVhRblVuakJrSlpYR1BLa19PUU0yX2ljNWxXSEpzSWU4S2tqRWJvRTd1emt3TkFDZE9haG5aajZXbm9pMW9QdWpIZG9HbFhIUUNXUGRWdkhBX2R6SjJUNHRMY0NHWmliaXEtazRYS2ZUd2lvSDNEaQ?oc=5",
-      "pub_date": 1764626940.0,
-      "article_url": "https://www.wsj.com/business/strategy-cuts-outlook-establishes-1-44-billion-reserve-amid-bitcoin-selloff-020019d4?gaa_at=eafs&gaa_n=AWEtsqeYtiQW7Iev9HizGijpkPMwoWsADZp0ATzeT2QoP-L-epbjrpqe6OAk&gaa_ts=69300763&gaa_sig=II-rOQzlhfaitWCr9WUDnTdQTDD1MzdeUQQx2s8w-lS9OXF5Ht7vyw9LnpXitlhLqwWz-3wM5pXqJdeYlfj5cg%3D%3D",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T09:33:45.087257+00:00"
+  "fetched_at": "2025-12-03T10:12:08.395431+00:00"
 }
