@@ -33,6 +33,20 @@
       "site_name": "GitHub"
     },
     {
+      "title": "Bitcoin's Sky-High Prices Have Not Panned Out",
+      "url": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
+      "hn_url": "https://news.ycombinator.com/item?id=46132636",
+      "author": "fleahunter",
+      "points": 2,
+      "num_comments": 2,
+      "created_at": "2025-12-03T10:06:20Z",
+      "object_id": "46132636",
+      "image": null,
+      "description": null,
+      "favicon": null,
+      "site_name": "nytimes.com"
+    },
+    {
       "title": "Open Source Bitcoin Halving Countdown Clock",
       "url": "https://bitcoinhalvingcountdown.com",
       "hn_url": "https://news.ycombinator.com/item?id=46107608",
@@ -45,20 +59,6 @@
       "description": "Track the next Bitcoin halving event with live countdown and real-time block updates",
       "favicon": "https://bitcoinhalvingcountdown.com/favicon.ico",
       "site_name": "bitcoinhalvingcountdown.com"
-    },
-    {
-      "title": "Bitcoin's Sky-High Prices Have Not Panned Out",
-      "url": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
-      "hn_url": "https://news.ycombinator.com/item?id=46132636",
-      "author": "fleahunter",
-      "points": 1,
-      "num_comments": 2,
-      "created_at": "2025-12-03T10:06:20Z",
-      "object_id": "46132636",
-      "image": null,
-      "description": null,
-      "favicon": null,
-      "site_name": "nytimes.com"
     },
     {
       "title": "Wasabi: Open-source, privacy preserving Bitcoin wallet",
@@ -89,6 +89,20 @@
       "site_name": "nytimes.com"
     },
     {
+      "title": "Retail-trader Eric Jackson says the crypto bear market is a maximum opportunity",
+      "url": "https://www.businessinsider.com/bitcoin-price-eric-jackson-bullish-ethereum-crypto-btc-eth-ai-2025-12",
+      "hn_url": "https://news.ycombinator.com/item?id=46135976",
+      "author": "miniruntimeb",
+      "points": 2,
+      "num_comments": 1,
+      "created_at": "2025-12-03T15:57:03Z",
+      "object_id": "46135976",
+      "image": "https://i.insider.com/693059b004d0f0a114f15117?width=1200&format=jpeg",
+      "description": "Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever been. His bullish outlook drew swift pushback from a famous short-seller.",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "site_name": "Business Insider"
+    },
+    {
       "title": "Market Volatility Underscores Epic Buildup of Global Risk",
       "url": "https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html",
       "hn_url": "https://news.ycombinator.com/item?id=46126556",
@@ -101,20 +115,6 @@
       "description": null,
       "favicon": null,
       "site_name": "nytimes.com"
-    },
-    {
-      "title": "Retail-trader Eric Jackson says the crypto bear market is a maximum opportunity",
-      "url": "https://www.businessinsider.com/bitcoin-price-eric-jackson-bullish-ethereum-crypto-btc-eth-ai-2025-12",
-      "hn_url": "https://news.ycombinator.com/item?id=46135976",
-      "author": "miniruntimeb",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2025-12-03T15:57:03Z",
-      "object_id": "46135976",
-      "image": "https://i.insider.com/693059b004d0f0a114f15117?width=1200&format=jpeg",
-      "description": "Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever been. His bullish outlook drew swift pushback from a famous short-seller.",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "site_name": "Business Insider"
     },
     {
       "title": "A Tale of Two AI Failures: Debugging a Simple Bug with LLMs",
@@ -133,5 +133,5 @@
   ],
   "total_hits": 9,
   "has_metadata": true,
-  "fetched_at": "2025-12-03T16:17:31.219619+00:00"
+  "fetched_at": "2025-12-03T16:49:47.470627+00:00"
 }

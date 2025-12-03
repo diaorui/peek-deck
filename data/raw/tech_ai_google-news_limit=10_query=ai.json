@@ -35,42 +35,52 @@
       "description": "Microsoft stock sank after a report that multiple sales teams for the company's Azure Foundry product missed growth goals in the last fiscal year."
     },
     {
-      "headline": "Microsoft Stock Slips On Report Customers Resisting AI Products",
+      "headline": "Microsoft AI wants all its employees to be AI native by the end of the fiscal year, says VP of design Liz Danzico",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSVpaVEJlTURpdXRrakVTVkVlTmxGSWV3cWZrYURETmNCTzFvZkR3a3EzOGUtTXk5N0xBOEFyS3VTMEh5STIwZ29ZaHk5RW1PZXB0Q3BSSmhGbEd1YnQtOE9YdzBnOEN5SlU3b1lpNXZuR1ZGcm9nY2h4TmFhYmZtY0dzWGxWdWdGbW44?oc=5",
+      "pub_date": 1764780060.0,
+      "article_url": "https://fortune.com/2025/12/03/microsoft-employees-ai-native-vp-design-liz-danzico/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/54959054281_51a906ef7b_o-e1764779589589.jpg?resize=1200,600",
+      "description": "Danzico noted that she helped put together an in-house AI course for the division's employees, to a \"tremendously positive\" positive response."
+    },
+    {
+      "headline": "Salesforce's AI story: Why the market isn't buying it",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpdms5QU95UklCVk9iS3kxVGZjRTVwcGNZVC1NSmNKTlN3VnFScjJzcVBBbkpvYmE0anE0cFBzVTVWNzJFN09kM2VvTHdLRDh6SlpnRDdHX0ZocFJyVlE4MW92d25aVURSblRROEtR?oc=5",
+      "pub_date": 1764779786.0,
+      "article_url": "https://qz.com/ai-bubble-fears-salesforce-stock-historic-lows",
+      "image": "https://qz.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2046169150.jpg",
+      "description": "Investors aren't sold on Salesforce AI. Shares are low, growth is slowing, and bubble fears are turning a cloud giant into a value stock"
+    },
+    {
+      "headline": "Amazon Details Cloud AI Game Plan. Why Its Stock Could Be 'Different AI Winner.'",
       "source": "Investor's Business Daily",
       "source_url": "https://www.investors.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXlOLTlOR0dLWmk0RHZsY0NsSWVOT1MzYUpFeDAtVGs5aTFDMFlmY1FWdzMtT3czb2xMX2RyQkN3ZlVqdlEzdDd4REJvckFGSWpHaXVTU09OZ0VKY3dzWGJYdXEyZFZQeFBWRWtfdVZvYzFvaUN1OXh0MXpjdVZxOWdxc19CMFVFZm83a0RRWEtEbUpsNEF1U2tDRQ?oc=5",
-      "pub_date": 1764775920.0,
-      "article_url": "https://www.investors.com/news/technology/microsoft-stock-msft-customer-resistance-ai-software/",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONEl5ZFVpYVRjYmI0ZGJJRHYwVldOT0hWWms3bW5PVzFWSUxvSFAxVGxEVXQzaEhoZmdWcE8yNHo5b2xiNUc1dFVBS0Rod0JfX0pLejJTdDMtWGZJUFBJTmtvak05b3BJZXlaVllROWxEUzVadGhlMEFldHV0eFFVM2RWWFhSM2Fm?oc=5",
+      "pub_date": 1764778140.0,
+      "article_url": "https://www.investors.com/news/technology/amazon-stock-reinvent-ai-winner-google/",
       "image": null,
       "description": null
     },
     {
-      "headline": "The AI Rights Project: Empowering Students, Creators and Citizens in the AI Age",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUnhVS19QaVR6cmhrZThDSGdEakFYeHl6eVh1dnM4WVVNSWtfaFlJUHU2dGFjNW5EVU1ORzBzMHlTYkxlQVNaRXNKVXhkVWpWSmhiV2ljMXg4MkRmaWpjejJRYlVEQ241SXk2WkFxVG5XbUFhZ3h4ZEVpdUM0SHI3VlNaVFlEZlZldDUw?oc=5",
-      "pub_date": 1764776700.0,
-      "article_url": "https://finance.yahoo.com/news/ai-rights-project-empowering-students-154500569.html",
-      "image": "https://media.zenfs.com/en/globenewswire.com/8d6bc3312c22469105a4dfccbce257e8",
-      "description": "Jim Ko Founder and Executive Director, The AI Rights Project PHOENIX, Dec. 03, 2025 (GLOBE NEWSWIRE) -- The AI Rights Project today announced its official launch as an independent public-education and policy initiative dedicated to helping students, creators and citizens understand and assert their rights in the AI age. As artificial intelligence rapidly reshapes how people learn, work and create\u2014often faster than laws or public understanding can adapt\u2014the Project fills a critical gap by helping"
+      "headline": "How AI Is Transforming Work at Anthropic",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFBSaEZtOG1ieHpOdldrNVJEeGRCMEtJVmpNU1hOMHVNV1NldWJ1T3RuQlhTZXpkckk2akpUWFhqbGtabXRURFJiNDR4aG9YUjhUSzFadkZaYUJPNElQcDR4SkU2bHIyQkg3VDdmMWZ0eFM5ak52MThpcklEdVNfVg?oc=5",
+      "pub_date": 1764703349.0,
+      "article_url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Keyboard&backgroundColor=cactus",
+      "description": "How AI Is Transforming Work at Anthropic"
     },
     {
-      "headline": "The big GOP plan to overhaul U.S. AI rules is hitting a wall",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fQVZnLTZxbFNpbWg0U1kzNGFwRnJIZEQ1Z0FXSXdTZVBPcDVpcG1uQ3h3b0JzN2VOUXBkR0FaOC1BM1FIdm4wWC1maHBXQTVERzZZbFZKZXg2eTg?oc=5",
-      "pub_date": 1764777162.0,
-      "article_url": "https://qz.com/gop-state-ai-regulation-ban-ndaa",
-      "image": "https://qz.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/US%20Capitol-2.jpg",
-      "description": "A ban on state AI rules is fizzling out again, after blowback from conservatives like Sen. Josh Hawley and Rep. Marjorie Taylor Greene"
-    },
-    {
-      "headline": "S&P Takes on AI Debt Deals and Crypto Giants",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQURKVExIekNiNnUxVkZhVWJFQlRxb1gtNmVvZzA5MTZzWHI4QW03b1RWNDV2dXRVSnN2c2drNTdpdW1McVljUnQ4RFdsYWFpRUJOSGVpVC1HNmZsbVR0OU5zekZySDc2OXRaczJsM2psSFg5NVRFS2JTWjZrbXNhQWhEQQ?oc=5",
-      "pub_date": 1764777600.0,
-      "article_url": "https://www.theinformation.com/articles/s-p-takes-ai-debt-deals-crypto-giants",
+      "headline": "The AI frenzy is driving a memory chip supply crisis",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb24zbTlISHhiN3MwUFFvYWVSaGNpeUx0NFNEODR0eldqZHV0YnZQSFhPZFhsOGFlaDJTR1h4Y3FOdjdlWnBhQXc2VjdrbG9xSHVqMzdib1I0WFJBTkY2QWNUMTVQNkMwRUNpSkV0MldVUTd0NzczWWJJWVg2T0pmRHQzUjc1a0Z2cGVvaGJvdHFlQ19EdmJJOF9XRWFLd2xY?oc=5",
+      "pub_date": 1764731700.0,
+      "article_url": "https://www.reuters.com/world/china/ai-frenzy-is-driving-new-global-supply-chain-crisis-2025-12-03/",
       "image": null,
       "description": null
     },
@@ -85,26 +95,16 @@
       "description": null
     },
     {
-      "headline": "The AI frenzy is driving a memory chip supply crisis",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb24zbTlISHhiN3MwUFFvYWVSaGNpeUx0NFNEODR0eldqZHV0YnZQSFhPZFhsOGFlaDJTR1h4Y3FOdjdlWnBhQXc2VjdrbG9xSHVqMzdib1I0WFJBTkY2QWNUMTVQNkMwRUNpSkV0MldVUTd0NzczWWJJWVg2T0pmRHQzUjc1a0Z2cGVvaGJvdHFlQ19EdmJJOF9XRWFLd2xY?oc=5",
-      "pub_date": 1764731700.0,
-      "article_url": "https://www.reuters.com/world/china/ai-frenzy-is-driving-new-global-supply-chain-crisis-2025-12-03/",
+      "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNNlhVSHBZNWxoTkdTQUhEWHBRd21Wd2diNmNzVXd4S1UwbXRSaVdfN0Y4ai1zV29iQ291dFJ1RjVwOWN4d0FSUkpnRUxvaG54dWZuWEg3R0JJdVJwTm9YbnBOdVhwYjRBVDFESTdSZzM4WlM5b0ZzQk9GSE43bEctMkQtSTFQNUZhWUNRSkN4Y0gyNEFoM0YzWnlDNlJ3N1pjUFE5MHRWNlNwVV9sMThRdC0ycDhhRnNPdWQzQXFWRmVOa05UdHBXaW5pTzVaOXlmQlpyNDd6aGZ6SHVybEFUTnRkVWtOSHV5WS14Q1ZPVGVhWmpVbWJCcDIxcnFjS3dTVWZuaFFFR25YZk1kYzBMQ3pFUW5Ib1c3Q2ZYNTBRd1ZmZGJETEQ1Zk9IeEFtZ1NuNy1mM3F2Rk5EMmhDeFV4djE5dHNKcFd0REp1ZXlERTZiSkxaSXFrNjNXams1dDVjX2w1amJkM0E2N0kwdjVIN3Fwbm94RUcwbGZzRmJLdFlISU1oV3BtU3Bkd2tjVmRCek9rcFFudDBlX2pST3FmQlNyN3l2LXhRU09oRGZBTDRuQUNsTV9tc2hrSHc?oc=5",
+      "pub_date": 1764656820.0,
+      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqd6rl0PXp27C8E-vtBAdlvh3AOS2byuCVRiaWy9v8df0kJlrvqPFpHQ&gaa_ts=69306dad&gaa_sig=-wDDyIG7z6OrlyG3LGBN9GljMqKp6rnuQe8XEOGMN0KlEUvRQatQShJxsg29Dr9TS_ihI7pEuXJN_UzomFzK6w%3D%3D",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "How AI Is Transforming Work at Anthropic",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFBSaEZtOG1ieHpOdldrNVJEeGRCMEtJVmpNU1hOMHVNV1NldWJ1T3RuQlhTZXpkckk2akpUWFhqbGtabXRURFJiNDR4aG9YUjhUSzFadkZaYUJPNElQcDR4SkU2bHIyQkg3VDdmMWZ0eFM5ak52MThpcklEdVNfVg?oc=5",
-      "pub_date": 1764703349.0,
-      "article_url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Keyboard&backgroundColor=cactus",
-      "description": "How AI Is Transforming Work at Anthropic"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T16:17:53.681055+00:00"
+  "fetched_at": "2025-12-03T16:50:12.995284+00:00"
 }
