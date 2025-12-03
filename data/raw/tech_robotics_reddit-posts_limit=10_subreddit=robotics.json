@@ -57,17 +57,6 @@
       "description": "From EngineAI on \ud835\udd4f: https://x.com/engineairobot/status/1996165785056919634?s=20"
     },
     {
-      "title": "I\u2019m building a browser-based robotics playground (open source). You can test robots with zero setup.",
-      "author": "Silly_Asparagus_76",
-      "url": "https://www.reddit.com/r/robotics/comments/1pcwp3c/im_building_a_browserbased_robotics_playground/",
-      "published": 1764742597.0,
-      "thumbnail": "https://external-preview.redd.it/OHRobHR2ZmtseDRnMVhn10-Nc1-9KriehFOzrubxZY11FK4j-7-Mf4lOMvGA.png?width=640&crop=smart&auto=webp&s=71a081a0112389c9327782bec9d6515fec72cadb",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I\u2019m making a small open-source robotics playground that runs in the browser. It started as a fun idea and somehow turned into a physics sandbox where you can drive robots without installing anything. I want to add a few more robot types, but I\u2019m not sure what would actually be fun or interesting to try. What robots should I add next? Just curious what people here would enjoy testing."
-    },
-    {
       "title": "My Robot Dog",
       "author": "doppler07",
       "url": "https://www.reddit.com/r/robotics/comments/1pda1f8/my_robot_dog/",
@@ -88,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "I\u2019m building a browser-based robotics playground (open source). You can test robots with zero setup.",
+      "author": "Silly_Asparagus_76",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcwp3c/im_building_a_browserbased_robotics_playground/",
+      "published": 1764742597.0,
+      "thumbnail": "https://external-preview.redd.it/OHRobHR2ZmtseDRnMVhn10-Nc1-9KriehFOzrubxZY11FK4j-7-Mf4lOMvGA.png?width=640&crop=smart&auto=webp&s=71a081a0112389c9327782bec9d6515fec72cadb",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019m making a small open-source robotics playground that runs in the browser. It started as a fun idea and somehow turned into a physics sandbox where you can drive robots without installing anything. I want to add a few more robot types, but I\u2019m not sure what would actually be fun or interesting to try. What robots should I add next? Just curious what people here would enjoy testing."
     },
     {
       "title": "Is there any ROBOTICS complete course??",
@@ -112,5 +112,5 @@
       "description": "His take is that a lot of what we see online right now is carefully staged. Preplanned motions, rehearsed scenes, and very little of the real complexity that comes with unstructured environments. The gap between a controlled demo and an actual deployable product is huge, and he seems worried that people are starting to confuse the two. He also pointed out that most of the systems shown in flashy videos still struggle with the basics. Reliable manipulation. Robust sensing. Working without a team of engineers one room away. None of that makes it into marketing clips, of course. So the public sees a humanoid walking and carrying a box, and assumes the market is further along than it really is."
     }
   ],
-  "fetched_at": "2025-12-03T21:01:48.156919+00:00"
+  "fetched_at": "2025-12-03T21:39:20.488268+00:00"
 }

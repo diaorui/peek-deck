@@ -46,17 +46,6 @@
       "description": null
     },
     {
-      "title": "ChatGPT is down worldwide, conversations disappeared for users",
-      "author": "msaussieandmrravana",
-      "url": "https://www.reddit.com/r/artificial/comments/1pd1jll/chatgpt_is_down_worldwide_conversations/",
-      "published": 1764760719.0,
-      "thumbnail": null,
-      "external_url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-disappeared-for-users/amp/",
-      "site_name": "bleepingcomputer.com",
-      "favicon": "https://www.bleepingcomputer.com/favicon.ico",
-      "description": "OpenAI's AI-powered ChatGPT is down worldwide with users receiving errors when attempting to access chats, with no reasons currently given."
-    },
-    {
       "title": "Micron stops selling memory to consumers as demand spikes from AI chips",
       "author": "Doug24",
       "url": "https://www.reddit.com/r/artificial/comments/1pdepwf/micron_stops_selling_memory_to_consumers_as/",
@@ -66,6 +55,17 @@
       "site_name": "CNBC",
       "favicon": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/favicon.ico",
       "description": "Demand driven by the AI infrastructure boom is creating shortages for certain products like memory."
+    },
+    {
+      "title": "ChatGPT is down worldwide, conversations disappeared for users",
+      "author": "msaussieandmrravana",
+      "url": "https://www.reddit.com/r/artificial/comments/1pd1jll/chatgpt_is_down_worldwide_conversations/",
+      "published": 1764760719.0,
+      "thumbnail": null,
+      "external_url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-disappeared-for-users/amp/",
+      "site_name": "bleepingcomputer.com",
+      "favicon": "https://www.bleepingcomputer.com/favicon.ico",
+      "description": "OpenAI's AI-powered ChatGPT is down worldwide with users receiving errors when attempting to access chats, with no reasons currently given."
     },
     {
       "title": "IBM CEO Has Doubts That Big Tech's AI Spending Spree Will Pay Off",
@@ -112,5 +112,5 @@
       "description": "Lately I noticed I\u2019ve worked a bunch of AI stuff into my daily workflow without even planning to. I draft things with a model, clean them up myself, then run them through a detector that gives actual sentence level notes so I can fix any stiff sounding parts. Curious what everyone else is using day to day. What stuck and what did you drop?"
     }
   ],
-  "fetched_at": "2025-12-03T21:01:45.388007+00:00"
+  "fetched_at": "2025-12-03T21:39:16.639241+00:00"
 }

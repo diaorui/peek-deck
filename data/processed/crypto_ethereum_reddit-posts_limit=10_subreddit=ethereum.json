@@ -35,6 +35,17 @@
       "description": "# EIP-7918 in Fusaka: 3 reasons and 1 trick  Tonight, Fusaka goes live and Ethereum updates its blob"
     },
     {
+      "title": "Protocol Guild | Q4 2025 Membership Audit",
+      "author": "PeterAugur",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pdgmut/protocol_guild_q4_2025_membership_audit/",
+      "published": 1764796288.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Our membership has concluded its latest quarterly audit of funded members as of Nov 19 2025. This 14th consecutive update reaffirms our institution\u2019s consistency and ability to self-regulate. The member registry now includes a number of new contributor accounts as well as new alumni, and weight changes; creating a representative body of the developers and maintainers who work on client implementations, research, and upgrade delivery. Protocol Guild\u2019s membership is now 184, with a net increase of 8 (+4.5%) members from 176 of last quarter. This quarter, the membership update was processed onchain via Protocol Guild\u2019s new Agora-based DAO contracts. Readers will find a comprehensive list of the changeset below. Working Groups Added: zkEVM Working Group #400 Read more at blog post here Removed: Portal Working Group #423 New Members (23 total) Working Group New Members Lighthouse Josh King #420 Prysm Bastin #416, Chris Karabats #429 zkEVM Thomas Coratger #444, Cody #440, Sophia #439, TingHan Jian #438 P2P Ra\u00fal Kripalani #428, Marco Munizaga #425 Reth Roman Hodul\u00e1k #426 Nethermind Marcos Maceo (part-time) #422, Maksim Menshikov #410 Testing Carson #390, Felix Hoffmann #406 Specs & Coordination Marc Garreau #408, Nixo #407 Statelessness Wei Han Ng #404, Carlos Perez #401 Mechanism Design Maria Silva #399 Security Antoine James #395, Yassine Ferhane #397 Prototyping Jihoon Song #392 New Alumni Members (14 Total) Protocol Guild members who move on to other work are considered \u2018Alumni\u2019 at the conclusion of their membership. We are grateful for their stewarding contributions to the world computer over the years and wish them well. Working Group New Alumni Architecture Dankrad #446 Lighthouse Paul Hauner #419, Mehdi #418, Adrian #417 Prysm Taran #445, Raul Jordan #412 Portal Piper #423 Reth Roman Krasiuk #402 Cryptography Mark Simkin #441 Prototyping shemnon #393 Mechanism Design Davide Crapis #398 EthereumJS am1r021 #437 DAS Dmitriy Ryajov #414, Leonardo Bautista-Gomez #405 Weight & Status Changes (9 Total) Change Type Updates Weight Increases Shoham Chakraborty (Erigon): 0.5 \u2192 1 #433, Marc Holt (Erigon): 0.5 \u2192 1 #432, Marc Harvey-Hill (Nethermind): 0.5 \u2192 1 #421, Artiom: 0.5 \u2192 1 #403 Weight Decreases Federico Gimenez: 1 \u2192 0.5 #430, Alexey Shekhirin: 1 \u2192 0.5 #427, Ayman Bouchareb: 1 \u2192 0.5 #394, Damian Orzechowski: 1 \u2192 0.5 #409, Scottypoi: 1 \u2192 0.5 #431 Affiliation Updates Moved Pawe\u0142 Bylica to Erigon #389 The next audit will begin in January 2026 and should be fully reflected in our active membership by mid-February."
+    },
+    {
       "title": "Exclusive Look Inside a Compromised North Korean APT Machine Linked to The Biggest Heist in History",
       "author": "Malwarebeasts",
       "url": "https://www.reddit.com/r/ethereum/comments/1pd49bo/exclusive_look_inside_a_compromised_north_korean/",
@@ -66,17 +77,6 @@
       "site_name": null,
       "favicon": null,
       "description": "Only in crypto can someone ship a whole new state architecture onto Ethereum mainnet and the collective reaction is basically \u201ccool anyway who\u2019s getting the next airdrop.\u201d Anoma quietly deployed the Resource Machine and it\u2019s honestly wild how little attention it\u2019s getting. Here\u2019s the part people are already getting wrong Anoma is NOT a privacy project. Yes it has privacy baked in. Yes it uses commitments and nullifiers. Yes it uses a zkVM. But the whole point isn\u2019t \u201cZcash on Ethereum.\u201d It\u2019s that Anoma is introducing a completely different state model that just happens to make privacy possible but it goes so much further. This thing isn\u2019t a rollup. It\u2019s not a coprocessor. It\u2019s not an \u201cL2 but with extra steps.\u201d It\u2019s a parallel state machine living on Ethereum. A second way to define and verify state transitions. Like if the EVM suddenly had a strange, overpowered cousin that grew up reading Zerocash papers and lifting weights with RISC0. Instead of giant mutable smart contracts, everything becomes tiny immutable resources verified with commitments and nullifiers. Off chain computation. On chain verification. Millions of private micro-objects instead of one giant public diary. The EVM suddenly looks like a 2006 Nintendo DS sitting next to this thing. And the apps you can build aren\u2019t vaporware. They\u2019re what our industry desperately needs NOW: Private swaps that still use Uniswap liquidity A private Gitcoin where your conditions stay hidden Dark pools without liquidation snipers breathing down your neck Private payments across any EVM chain like it\u2019s nothing Again none of this makes Anoma \u201ca privacy project.\u201d That\u2019s like calling Ethereum \u201ca database project.\u201d Privacy is just a side effect of the state model. The real unlock is intent-centric apps, parallel execution, flexible off-chain computation, and a verification-first design that makes the EVM look hilariously outdated. But the timeline is still spreadsheeting loyalty points like it\u2019s Web2 airline rewards season. Not telling you to buy anything. Just saying a parallel state machine literally booted up inside Ethereum and most people won\u2019t realize what that means until they see it at a multibillion FDV and suddenly \u201cremember hearing about it early.\u201d https://ethresear.ch/t/the-anoma-protocol-adapter-is-live-on-ethereum/23466"
-    },
-    {
-      "title": "Protocol Guild's Q4 2025 Membership Audit",
-      "author": "PeterAugur",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pdbw2j/protocol_guilds_q4_2025_membership_audit/",
-      "published": 1764785817.0,
-      "thumbnail": null,
-      "external_url": "https://x.com/ProtocolGuild/status/1996277966624702729?s=20",
-      "site_name": "X (formerly Twitter)",
-      "favicon": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
-      "description": null
     },
     {
       "title": "Poll (for signaling purposes only) for portmanteau for Heka + Bogot\u00e1 upgrade",
@@ -112,5 +112,5 @@
       "description": "For several years I've been using the combination of frame.sh + brave browser plugin, backed by the Lattice1 hardware wallet. This combo works basically fine, but it seems there is not much development going on. I really did not follow ethereum ecosystem changes in recent years. Are there other/newer projects I should have a look at? Especially frame.sh always feels somewhat clumsy to use - I would love to have something that feels more integrated into my desktop."
     }
   ],
-  "fetched_at": "2025-12-03T21:01:46.755932+00:00"
+  "fetched_at": "2025-12-03T21:39:19.192565+00:00"
 }
