@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "Why Does A.I. Write Like \u2026 That?",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOMFdmZlBiR0hQRlBMTkJyd1NoQ1R4dTZsUTFIUlJQQXFOd3ZRNG1MWWFMZ1NlMFhTTUdweXZLWmcwbTVVQmRJM2JweWlUalkwSGM3RDlOQmFzYlI5UFluUTBPajJXLWxNekR6eDhSLVI5X2owOWJmNHlR?oc=5",
+      "pub_date": 1764756054.0,
+      "article_url": "https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Microsoft Lowers AI Software Sales Quotas as Customers Resist Newer Products",
       "source": "The Information",
       "source_url": "https://www.theinformation.com",
@@ -13,16 +23,6 @@
       "article_url": "https://www.theinformation.com/articles/microsoft-lowers-ai-software-sales-quotas-customers-resist-newer-products",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Microsoft lowers AI software sales quota as customers resist new products, The Information reports",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQem5HdVNmWmZRT194Y0VsTkJQLURoU3lTaHVpZWYtWDlYZmpXOUs2d09WeUJCSGZvYy14MmNpN01BS2tPUkt1TW9FeFY1MC1kTFhxTWRrYjA1ZHZTNHd1M0YySUdfNzZoQm9jM1M4R1BTOGxuaVJSSWVPeFFqYndNUFV5Zk9JYk0?oc=5",
-      "pub_date": 1764772895.0,
-      "article_url": "https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/6f18ec98d8371aa28c130bea8170a867",
-      "description": "Multiple divisions at Microsoft have lowered sales growth targets for certain artificial intelligence products after many \u200bsales staff missed goals in the fiscal year that \u200cended in June, The Information reported on Wednesday.  It is rare for Microsoft to \u200clower quotas for specific products, the report said, citing two salespeople in the Azure cloud unit.  Lower sales growth goals for Microsoft's AI products are likely to fans fears about \u200breal-world adoption of AI as an MIT study from earlier \u200cthis year had found that only about 5% of AI projects advance beyond the pilot stage."
     },
     {
       "headline": "Microsoft stock sinks on report AI product sales are missing growth goals",
@@ -35,34 +35,44 @@
       "description": "Microsoft stock sank after a report that multiple sales teams for the company's Azure Foundry product missed growth goals in the last fiscal year."
     },
     {
-      "headline": "Why Does A.I. Write Like \u2026 That?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOMFdmZlBiR0hQRlBMTkJyd1NoQ1R4dTZsUTFIUlJQQXFOd3ZRNG1MWWFMZ1NlMFhTTUdweXZLWmcwbTVVQmRJM2JweWlUalkwSGM3RDlOQmFzYlI5UFluUTBPajJXLWxNekR6eDhSLVI5X2owOWJmNHlR?oc=5",
-      "pub_date": 1764756054.0,
-      "article_url": "https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html",
+      "headline": "Microsoft Stock Slips On Report Customers Resisting AI Products",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXlOLTlOR0dLWmk0RHZsY0NsSWVOT1MzYUpFeDAtVGs5aTFDMFlmY1FWdzMtT3czb2xMX2RyQkN3ZlVqdlEzdDd4REJvckFGSWpHaXVTU09OZ0VKY3dzWGJYdXEyZFZQeFBWRWtfdVZvYzFvaUN1OXh0MXpjdVZxOWdxc19CMFVFZm83a0RRWEtEbUpsNEF1U2tDRQ?oc=5",
+      "pub_date": 1764775920.0,
+      "article_url": "https://www.investors.com/news/technology/microsoft-stock-msft-customer-resistance-ai-software/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Feted By Joe Rogan, Collabing With Snoop Dogg: Meet Yonatan Dor, The Viral AI Filmmaker Who Has Hollywood In His Sights",
-      "source": "Deadline",
-      "source_url": "https://deadline.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0JnbzhFempMdnpNd3RTdlJkUkhCMS1yTmlJeFVoQ1dONWdZazdVcG9wenZpZzhSVWM5ZVpnMml3cWNvOGpLQVhSVVczOTBxVzhIZkJ0Uy0yUnl2OWk2bWVldU1lNS1IbjJrU3ZOUjRwZWJQQndyZkxLcG9adVlVNThLSTVFRVdONENPb1cwMnh1VmNLeEl2MWl2OVlSVEk?oc=5",
-      "pub_date": 1764774000.0,
-      "article_url": "https://deadline.com/2025/12/the-dor-brothers-interview-hollywood-joe-rogan-snoop-dogg-1236634355/",
-      "image": "https://deadline.com/wp-content/uploads/2025/12/Screenshot-2025-12-03-at-12.47.42.png?w=1024",
-      "description": "AI filmmaker Yonatan Dor, co-founder of The Dor Brothers, is targeting Hollywood after his viral videos were endorsed by Joe Rogan and Snoop Dogg."
+      "headline": "The AI Rights Project: Empowering Students, Creators and Citizens in the AI Age",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUnhVS19QaVR6cmhrZThDSGdEakFYeHl6eVh1dnM4WVVNSWtfaFlJUHU2dGFjNW5EVU1ORzBzMHlTYkxlQVNaRXNKVXhkVWpWSmhiV2ljMXg4MkRmaWpjejJRYlVEQ241SXk2WkFxVG5XbUFhZ3h4ZEVpdUM0SHI3VlNaVFlEZlZldDUw?oc=5",
+      "pub_date": 1764776700.0,
+      "article_url": "https://finance.yahoo.com/news/ai-rights-project-empowering-students-154500569.html",
+      "image": "https://media.zenfs.com/en/globenewswire.com/8d6bc3312c22469105a4dfccbce257e8",
+      "description": "Jim Ko Founder and Executive Director, The AI Rights Project PHOENIX, Dec. 03, 2025 (GLOBE NEWSWIRE) -- The AI Rights Project today announced its official launch as an independent public-education and policy initiative dedicated to helping students, creators and citizens understand and assert their rights in the AI age. As artificial intelligence rapidly reshapes how people learn, work and create\u2014often faster than laws or public understanding can adapt\u2014the Project fills a critical gap by helping"
     },
     {
-      "headline": "Jeff Zucker Is Bullish That AI Can Bring Down Production Costs",
-      "source": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZDIyVGVSWWJjenNHaS10WE1kU0dUVThxNjJFQVdFNWVIYlBkVFBDeW9LUmFveVF1Y2d3VVpadFBFNXdqVmN1NXVwbTRQX05zdER3X3RESjA3bGhsOWRad2ZNdnZRZjh5S2tGV3Y2ME9LVnZQX3pNMDZtWXF4VEVteFJhcEtGQUpBQ211NUtQRHVOMFMyRjBDWWJ6ckM5ZDFOS0hSRVdTcF81c015RTZ3Nnhuc3c1WHJSTWpqTkR4LUswdGZC?oc=5",
-      "pub_date": 1764774085.0,
-      "article_url": "https://www.hollywoodreporter.com/business/business-news/jeff-zucker-redbird-imi-news-assault-consolidation-ai-wbd-1236440868/",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2018/03/jeff_zucker_-_headshot_-_h_-_2016.jpg?w=1280&h=721&crop=1",
-      "description": "The CEO of RedBird IMI, and former CNN chief, also predicts more consolidation but says \"I don't think it's the end of legacy media at all\" during a Content London keynote chat."
+      "headline": "The big GOP plan to overhaul U.S. AI rules is hitting a wall",
+      "source": "qz.com",
+      "source_url": "https://qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fQVZnLTZxbFNpbWg0U1kzNGFwRnJIZEQ1Z0FXSXdTZVBPcDVpcG1uQ3h3b0JzN2VOUXBkR0FaOC1BM1FIdm4wWC1maHBXQTVERzZZbFZKZXg2eTg?oc=5",
+      "pub_date": 1764777162.0,
+      "article_url": "https://qz.com/gop-state-ai-regulation-ban-ndaa",
+      "image": "https://qz.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/US%20Capitol-2.jpg",
+      "description": "A ban on state AI rules is fizzling out again, after blowback from conservatives like Sen. Josh Hawley and Rep. Marjorie Taylor Greene"
+    },
+    {
+      "headline": "S&P Takes on AI Debt Deals and Crypto Giants",
+      "source": "The Information",
+      "source_url": "https://www.theinformation.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQURKVExIekNiNnUxVkZhVWJFQlRxb1gtNmVvZzA5MTZzWHI4QW03b1RWNDV2dXRVSnN2c2drNTdpdW1McVljUnQ4RFdsYWFpRUJOSGVpVC1HNmZsbVR0OU5zekZySDc2OXRaczJsM2psSFg5NVRFS2JTWjZrbXNhQWhEQQ?oc=5",
+      "pub_date": 1764777600.0,
+      "article_url": "https://www.theinformation.com/articles/s-p-takes-ai-debt-deals-crypto-giants",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Live updates: The Hill's AI in America Summit",
@@ -75,14 +85,14 @@
       "description": null
     },
     {
-      "headline": "Top AI companies\u2019 safety practices fall short, says new report",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUXh6bE5PY25HREU3U21qamxMWXBiek9VM3J1WHl0R1hfVlpsRUVqNlcwRGxqMUx3MGd2emJOZGsxSndpRGk1M3JaOGczaDZjWXVwdnk5V3Nsaml0Wnh1YnRFQ0J2VV9ZRnNVN0xFMmtxbUZFdlFOb1dDc0R6NmtKNzBjb2RvLXJKWE1RZk1nS1ZtWl9kWkhqM2pCM2d0dy00VllSekVQZWpQQnRDZVFB0gFWQVVfeXFMT2RTSnVoSVZBVDQtcXBHTHBFdG05VlNHa1MtTWNPTUE3SG9Gbnk5bDAxZFB3a09MRWNGTnRtZUdDZ2lhNWdaeVB2TVEtTEFrUlYyb0lDQ0E?oc=5",
-      "pub_date": 1764770440.0,
-      "article_url": "https://www.nbcnews.com/tech/tech-news/top-ai-companies-safety-practices-fall-short-says-new-report-rcna246143",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251001-open-ai-vl-119p-115a9c.jpg",
-      "description": "Independent experts said in the report that powerful AI systems face critical gaps in safety protocols even though capabilities continue to increase."
+      "headline": "The AI frenzy is driving a memory chip supply crisis",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb24zbTlISHhiN3MwUFFvYWVSaGNpeUx0NFNEODR0eldqZHV0YnZQSFhPZFhsOGFlaDJTR1h4Y3FOdjdlWnBhQXc2VjdrbG9xSHVqMzdib1I0WFJBTkY2QWNUMTVQNkMwRUNpSkV0MldVUTd0NzczWWJJWVg2T0pmRHQzUjc1a0Z2cGVvaGJvdHFlQ19EdmJJOF9XRWFLd2xY?oc=5",
+      "pub_date": 1764731700.0,
+      "article_url": "https://www.reuters.com/world/china/ai-frenzy-is-driving-new-global-supply-chain-crisis-2025-12-03/",
+      "image": null,
+      "description": null
     },
     {
       "headline": "How AI Is Transforming Work at Anthropic",
@@ -93,18 +103,8 @@
       "article_url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
       "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Keyboard&backgroundColor=cactus",
       "description": "How AI Is Transforming Work at Anthropic"
-    },
-    {
-      "headline": "The AI frenzy is driving a memory chip supply crisis",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb24zbTlISHhiN3MwUFFvYWVSaGNpeUx0NFNEODR0eldqZHV0YnZQSFhPZFhsOGFlaDJTR1h4Y3FOdjdlWnBhQXc2VjdrbG9xSHVqMzdib1I0WFJBTkY2QWNUMTVQNkMwRUNpSkV0MldVUTd0NzczWWJJWVg2T0pmRHQzUjc1a0Z2cGVvaGJvdHFlQ19EdmJJOF9XRWFLd2xY?oc=5",
-      "pub_date": 1764731700.0,
-      "article_url": "https://www.reuters.com/world/china/ai-frenzy-is-driving-new-global-supply-chain-crisis-2025-12-03/",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T15:34:02.577960+00:00"
+  "fetched_at": "2025-12-03T16:17:53.681055+00:00"
 }

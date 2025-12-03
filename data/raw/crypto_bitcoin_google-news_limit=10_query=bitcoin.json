@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Jumps Back Above $90,000 After Bruising Selloff",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnl1U0Y1bG5MRW1yQ2VrWEhpbVdWR3JzTFBuZ2I2WEZ4bGhZWE42S05ZNWtWNW1LbExfSDBBMmhMOHYzNGF4YmxIZ3Nhd1pjRXNpcUlMX2xiaG8zUHl5Sk9lWWtyQWhyS19MM1E4SzhMYlR3dEVIQ0hOTjRhYTBZZ2d5bUFrMkkzZE5uV245RmpvV2ZMc0g5QkZwa0ZzbjRVYmE1UEhYWC1yWFdRcGtV?oc=5",
-      "pub_date": 1764711512.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/crypto-markets-steady-as-indicators-point-to-weak-sentiment",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin logs its worst day since March",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
+      "pub_date": 1764574221.0,
+      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
+      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
     },
     {
       "headline": "Eric Trump\u2019s cryptocurrency firm tumbles nearly 40% amid \u2018crypto winter\u2019",
@@ -25,34 +25,24 @@
       "description": "American Bitcoin Corp\u2019s shares fell from $2.39 to $1.90 after closing in what some are calling \u2018crypto winter\u2019"
     },
     {
-      "headline": "Bitcoin rebounds after drawdown reaches 20%. Is the crypto winter over or just starting?",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWGNwQllQd0NBbFllUFg2VEJCS1Q2eVcyU2o3WmFmaUM1VnBYRU8xWmdoaGFrUVJOWDM5REYyMnlpRTFTMkE4Y3lHQWUtUzF3QWpYcWdTUjQ1MVZ0NGdHcVFVUkFqeGdBODJXRTdOV2tKYjZ6U1BPeXZjQzd3N1lXYkVTeUNJZmlyR0FhdlZqVDV3UzlBd184dWFTLUhyel90cldGOEMtNkx1NXdGbHBnb3ZXdHFmVnh1aUx2MHF0UnF4T2JzX2c?oc=5",
-      "pub_date": 1764697113.0,
-      "article_url": "https://www.cnbc.com/2025/12/02/bitcoin-rebounds-after-drawdown-hits-20percent-is-the-crypto-winter-over-or-just-starting-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108235237-1764691114308-gettyimages-2248882811-EL_SALVADOR_BITCOIN.jpeg?v=1764691135&w=1920&h=1080",
-      "description": "Bitcoin could lose about 80% of its value if it follows its previous bear-market patterns, analysts said. But they're uncertain a crypto winter has started."
+      "headline": "Hedge fund manager Eric Jackson calls crypto bear market a 'maximum' buying opportunity",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ1REYjI5TnItRVctNlktMnFxaWpFY25NLVhZTldFblg1NUpHWjFpbE52QnRtT1EwSjdPcHZ4MnZqNkZqR0NoUXBGT1M0alJvTzk1Yl9qMlBJNDlRRGFDeUltZlBvODI1Mkw3ejBfVWdyRWxfWTg4SWtEb3BvcTNwb1FpRnRqdUFCVjdCRTZtdVg3N193Zi1RVWJOSEk4YnJJV3hV?oc=5",
+      "pub_date": 1764776340.0,
+      "article_url": "https://www.businessinsider.com/bitcoin-price-eric-jackson-bullish-ethereum-crypto-btc-eth-ai-2025-12",
+      "image": "https://i.insider.com/693059b004d0f0a114f15117?width=1200&format=jpeg",
+      "description": "Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever been. His bullish outlook drew swift pushback from a famous short-seller."
     },
     {
       "headline": "Bitcoin Rises Above $90,000. Why Traders Are Bracing For Another Big Drop.",
       "source": "Barron's",
       "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNSVFLUE1xYVNSaXJOaDNISDRxM2JJNVV0UWlsUEpYa000bUQ4NkZCcS1qNURiYVRobDAzcFNJOE52bi1WbDN3bDczdTZmczBQWENfQlZrRzVFcHBMaUc3THVXNXQ2c2phcktHaTEwWVM4N3hpTXZVYko4MWlaZGRoYWpkVkF4a1VUamJ3R0ZMU192QnFnd2d3ZFFUX3M1T2hDdVViYmlXVmYwV0RMNzA5ZWtoSTF0Sno3QVdkMlRVMUxzY25td2xYX0ZCRFl4M0hYOWhBalNPZlIyTGQzcUdUdUNCams3VnZUYjZMNV9fUnRuS19USkQ5TFVJZVdoR1NGQlZ1NEFtWldxUF9EaG93ZE8ycE1wb0FxVW9LYk10SENIMW5vYUpsbG5JTEVjbWxsZUNDQXBzckpFLWhJbzVpT01qaGxDUmtqc0hGLWNnQlJ0TE50akRQeTVVWk5xbWdTZTZqOUtSV29fQTN1RGozeWdvZnNZTHE0T3RrNGw2OVV1dWN2c3lXc0RpVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNczU1YzBFQk94R2lrRzd0aDZEa2RGX21xTWg1X3BWeXZtZERvcURHTGR0NV95TXE3QUVWdkhoT1EwVGNSZ252dFdlNjVPZ09aTWM5b2RiSTVLZVlKdWpzbUUxS0E5dy0yWGV1UEl4U0xiS0ZELWVvMkc4bXVaVjNvY3NQZXVGeUpaNFN5T3kteEw2RlZlSGJkVWFKc0Z6WFU3bzNSZmhmWlRoYkwzWXhfczItcElUcHIwTjJKZEVjLTB6QlpBNjF0cExxN1M2UUR0X0ZTeVZBZWFoVVBqdG9iTXlkbWE1RmJabXE0bS1kaGF6WjcyRlJnVE5XT0sybmQ3RDRyTEhBLVYyaklWR0pVbEtEWUtHLUo3Vm9BZFFyQUVqVlBROHRaUlNZMTZfcklhdDJUdUQ2Z21tSnNvSHhnNl9MNmUyZ0VMMkc3TzVtaGlUNExiTlp2TF9ZSlFIQkRMZm8xSGEtMktDaXlDMzdMVlNYU1pQanVwamItU0g0YVFjOXZoblVRQmQ0SQ?oc=5",
       "pub_date": 1764706920.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-today-selloff-ether-xrp-9118e5ec?gaa_at=eafs&gaa_n=AWEtsqfXlGEXAZyEmZTexgWrORtuzuDbZG1_6qEq7rt1CUrHhN8NpaRmAIEu&gaa_ts=69305bda&gaa_sig=E0Gq_2MjD2gs0dTX9Ajv4RbaeLB7lTeg8BJPF2VOjWb7kGJm8dgH7L_6o9R60PdhFKd9d-WvlfFzqbyt2Z-PXw%3D%3D",
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-today-selloff-ether-xrp-9118e5ec?gaa_at=eafs&gaa_n=AWEtsqdU_gdahi6eZRIx-Qua80mbsW0hvk4mPlaSrhsbF9LP5OP0iGK7oRWQ&gaa_ts=6930661d&gaa_sig=oNY7yIw9gJ81bnITPrg7b5e2w3MG3IRPCFAKCHix4HPIrQp5Cr4laAlLM_AhZG4erdZQAifpdP6XTJ1M48J4BA%3D%3D",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "'Big Short' investor Michael Burry says bitcoin is the 'tulip bulb of our time'",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMUZNU05tdlNLMHZicUZHbkFQTmNGTGxKVnZNS092WldHUlVIM2tLMFB6c0JRNHY1S3k3ZTNLV3pPX0pMWTlIcnhmdTVySTBJbTB1OUlSS0ZGdFBFbGV0WDBla0VmQ2NPN3J2MEs2M2lvN3dRME5XbTFzR05GZUwwa1dNSGtRSFNrWG52RkpJaVdsZw?oc=5",
-      "pub_date": 1764685740.0,
-      "article_url": "https://www.businessinsider.com/michael-burry-bitcoin-price-tulip-bulb-big-short-2025-12",
-      "image": "https://i.insider.com/692ef04371107c9f34572830?width=1200&format=jpeg",
-      "description": "The investor said seeing the blockchain-based currency hit $100,000 was \"the most ridiculous thing.\""
     },
     {
       "headline": "Vanguard has a change of heart on crypto, lists Bitcoin and other ETFs",
@@ -85,26 +75,36 @@
       "description": "Bitcoin prices climbed above $92,000 as investors responded to the news that Vanguard will allow investors to trade crypto exchange-traded funds and mutual funds."
     },
     {
-      "headline": "Wall Street holds steadier as bond yields and bitcoin stabilize",
-      "source": "AP News",
-      "source_url": "https://apnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRXF0eGs4RzR4NkhDckZGV3BJYUVxLXNrQ0RDeXF6a2hNSUsyWU9zdzN4UWRfYU93STdiRU5WTmloQUZGR19udUp6cG1raUg3OEsycUVUUDFNdDBNTVhJMW50RXRqV2NaV1huXzREUEQzM1Fmdk5XbzE2Sk4wQ2dlTFpRcTUwV2FPXzhrVm5BYkNfck54Z1VHUUdNNV9aNkZad3c?oc=5",
-      "pub_date": 1764716040.0,
-      "article_url": "https://apnews.com/article/stocks-markets-rates-bitcoin-cyber-trump-e1058c781c79d8860eb1ee70db21dc7c",
-      "image": "https://dims.apnews.com/dims4/default/d523c89/2147483647/strip/true/crop/5160x2903+0+269/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa7%2F20%2Fe0a3a5691f995abde41f3c8a1b70%2Fb53cef6e60e14f9fa83dd8afa4d7703c",
-      "description": "The U.S. stock market is holding stronger as both bond yields and bitcoin stabilize. The S&amp;P 500 rose 0.5% Tuesday, coming off its first loss in six days."
+      "headline": "\u2018Faster Than Most Expect\u2019\u2014BlackRock CEO Issues \u2018Enormous\u2019 Price Prediction As Bitcoin Suddenly Soars Toward $2 Trillion",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUl9PYjJBY1BHalI3R3JKZ1I1NVZNYk0xendIX1pBWTZxZGpBNmM5bXdBUFp5d085ZWpPUGY2V3pHeUZrX0xQdFVIX2JJSjNUb3dXTUhLYkx2Z2kzUDNndzFlTFFWck1jYmRQNHQ3dGlrT1JSczhSd0hPdGVoS0pHU2Nvbnc2cC1wMU5DTThMeEhLNXVWWExyQkQzd2xfMmtoRkpOUy1ENkZldkpaQVhkTXNlWkJKTUhlaEUzaDFXdEliZk9Ra3ZFUHlHbjEzWkt0NW9fd2lxeGJQWnllaEkzaTBlU3RhTG1qSWtpU3ZFUUtTX3VrRmVWTUpScUZuMmM?oc=5",
+      "pub_date": 1764767287.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2025/12/03/faster-than-most-expect-blackrock-ceo-issues-enormous-price-prediction-as-bitcoin-suddenly-soars-toward-2-trillion/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/68ce62c731907dbb97ed44ac/0x0.jpg?format=jpg&crop=2284,1284,x143,y0,safe&height=900&width=1600&fit=bounds",
+      "description": "The chief executive of the world\u2019s largest asset manager BlackRock has predicted the \u201cenormous growth\u201d of crypto-based tokenization in coming years..."
     },
     {
-      "headline": "Bitcoin champion Strategy launches \u2018dollar reserve\u2019 amid crypto sell-off",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ZjJOQ0l2ZENwaS14dEFBc0h2REhzb0FhSmpzZEV3bzZ2LW4tVVpRejlWRjE2YXdBQ2xfbGRWNTVHSURQX0lzVGhiYmRsZXZ1WGRJenZzQks0cE1KWWplN21iczQwanVhTThZdTZ3cHI?oc=5",
-      "pub_date": 1764605779.0,
-      "article_url": "https://www.ft.com/content/b7fdf1c7-c819-4687-8827-a5e3efd39a13",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc178d9f1-5d03-46ac-8af0-895b393bf964.jpg?source=next-barrier-page",
-      "description": "Shares tumble as group warns of loss of up to $5.5bn if digital asset prices do not rebound"
+      "headline": "Stock Market News, Dec. 2, 2025: Bitcoin Rebounds, Stocks Move Higher",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOazBzQUtuWEZieUp6TjlQZFAxTHJsQ2JWUlphVS1nbGtzSTJKU2lGamdQc3RlU0I2NHpDUnB3d3ZtZ191Nkk0YUd2VnpTMWRtTjFiTklnakVDaXEwTWwxV21QVVZRQ3VGSWFpVHZPalkyc0Z3VkxIcDQxNFhCbmdWaWRmNFhJZVhNdEhHc0lRcl9tbDZfSmR3cE1lWEZhVy1zODk2Zkx6OXJoYWpsVEdiOVo5cm9BNU1tM01XWndOdHRPQUtYOXNkM25UX3Z2M0w4SmVCTG1RZHN1NG1fNkFTamJkdGdyeUw3YzB3d1gwNmNEUnJDSFRMandhVzhMMVlMLXBTbG1BV1JuY1dwa2hrXzlydXVhQkFydGZPQU10WkFfMnN0SHVraTRabzV0SGpEd0tWQ2hZbm9YNk1KbWFtajN6OGNUczJ4aTBGU2JYM3BZdjMtVVNBaWlacVZpWGw0RjZWZ21IczN3UUh5TTRUVVBTLURha1lzNEtUeDB1eFpJWGZFdzF6YWVVOUQ?oc=5",
+      "pub_date": 1764736380.0,
+      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-02-2025?gaa_at=eafs&gaa_n=AWEtsqeET4nyJYSMoN3PCVLqEl52zlSFPExSBG11Ea_YdLP6B0t0jeLE4uD-&gaa_ts=6930661d&gaa_sig=z_umCSfa-45RIN52BMzL-X4shOCOhbCbve3GlHa-jMHnwj3dvn3FyjWjEZLn24gTOFoKqyxFwBadFei3h4fHAg%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin rockets back above $90,000",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHhXbDROdzZ1TlVncTBjTFhKR3hjbVJTTkhTS1NhOGgtQmxyRnlwRUZrQm9DMTVieWVUQ1lwQzFBWlVtX0prcC1uTm5Cd1FQclp0VTd1WWRuYVZTaDMyQUJ6YlF1X1RoZlNlLUl0VEF3bWwzZWFNVTAxMUtqRTVVbi1LVkpoNnFXMkJhb1lxVmVhSE41d2pfQktmbDdiajNRNTRXNmVaWWN2OEFLdjk1LXgtQ2NTdGhkTWRseVNxdmdMNVJLU2Vn?oc=5",
+      "pub_date": 1764718326.0,
+      "article_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-bitcoin-rockets-back-above-90000-210121108.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ZCO2o4qppSRSiPuX3v69qA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-12/441224f0-2925-11ea-96ff-875256a153fc",
+      "description": "Wall Street is eyeing a comeback as the flight from risk starts to cool."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T15:34:02.043698+00:00"
+  "fetched_at": "2025-12-03T16:17:53.071246+00:00"
 }

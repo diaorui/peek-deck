@@ -1,25 +1,6 @@
 {
   "papers": [
     {
-      "id": "2511.22677",
-      "title": "Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield",
-      "authors": "Dongyang Liu, Peng Gao, David Liu et al. (11 authors)",
-      "organization_name": "Tongyi-MAI",
-      "organization_fullname": "Tongyi-MAI",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
-      "summary": "Diffusion model distillation has emerged as a powerful technique for creating efficient few-step and single-step generators. Among these, Distribution Matching Distillation (DMD) and its variants stand out for their impressive performance, which is widely attributed to their core mechanism of matching the student's output distribution to that of a pre-trained teacher model. In this work, we challenge this conventional understanding. Through a rigorous decomposition of the DMD training objective, we reveal that in complex tasks like text-to-image generation, where CFG is typically required for desirable few-step performance, the primary driver of few-step distillation is not distribution matching, but a previously overlooked component we identify as CFG Augmentation (CA). We demonstrate that this term acts as the core ``engine'' of distillation, while the Distribution Matching (DM) term functions as a ``regularizer'' that ensures training stability and mitigates artifacts. We further validate this decoupling by demonstrating that while the DM term is a highly effective regularizer, it is not unique; simpler non-parametric constraints or GAN-based objectives can serve the same stabilizing function, albeit with different trade-offs. This decoupling of labor motivates a more principled analysis of the properties of both terms, leading to a more systematic and in-depth understanding. This new understanding further enables us to propose principled modifications to the distillation process, such as decoupling the noise schedules for the engine and the regularizer, leading to further performance gains. Notably, our method has been adopted by the Z-Image ( https://github.com/Tongyi-MAI/Z-Image ) project to develop a top-tier 8-step image generation model, empirically validating the generalization and robustness of our findings.",
-      "ai_summary": "The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.",
-      "hf_url": "https://huggingface.co/papers/2511.22677",
-      "arxiv_url": "https://arxiv.org/abs/2511.22677",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22677.png",
-      "upvotes": 15,
-      "num_comments": 2,
-      "published_at": "2025-11-27T13:24:28.000Z",
-      "github_repo": "https://github.com/Tongyi-MAI/Z-Image/tree/main",
-      "github_stars": 4037,
-      "project_page": "https://tongyi-mai.github.io/Z-Image-blog/"
-    },
-    {
       "id": "2511.22699",
       "title": "Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer",
       "authors": "Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)",
@@ -36,6 +17,25 @@
       "published_at": "2025-11-27T13:52:07.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
       "github_stars": 4173,
+      "project_page": "https://tongyi-mai.github.io/Z-Image-blog/"
+    },
+    {
+      "id": "2511.22677",
+      "title": "Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield",
+      "authors": "Dongyang Liu, Peng Gao, David Liu et al. (11 authors)",
+      "organization_name": "Tongyi-MAI",
+      "organization_fullname": "Tongyi-MAI",
+      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
+      "summary": "Diffusion model distillation has emerged as a powerful technique for creating efficient few-step and single-step generators. Among these, Distribution Matching Distillation (DMD) and its variants stand out for their impressive performance, which is widely attributed to their core mechanism of matching the student's output distribution to that of a pre-trained teacher model. In this work, we challenge this conventional understanding. Through a rigorous decomposition of the DMD training objective, we reveal that in complex tasks like text-to-image generation, where CFG is typically required for desirable few-step performance, the primary driver of few-step distillation is not distribution matching, but a previously overlooked component we identify as CFG Augmentation (CA). We demonstrate that this term acts as the core ``engine'' of distillation, while the Distribution Matching (DM) term functions as a ``regularizer'' that ensures training stability and mitigates artifacts. We further validate this decoupling by demonstrating that while the DM term is a highly effective regularizer, it is not unique; simpler non-parametric constraints or GAN-based objectives can serve the same stabilizing function, albeit with different trade-offs. This decoupling of labor motivates a more principled analysis of the properties of both terms, leading to a more systematic and in-depth understanding. This new understanding further enables us to propose principled modifications to the distillation process, such as decoupling the noise schedules for the engine and the regularizer, leading to further performance gains. Notably, our method has been adopted by the Z-Image ( https://github.com/Tongyi-MAI/Z-Image ) project to develop a top-tier 8-step image generation model, empirically validating the generalization and robustness of our findings.",
+      "ai_summary": "The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.",
+      "hf_url": "https://huggingface.co/papers/2511.22677",
+      "arxiv_url": "https://arxiv.org/abs/2511.22677",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22677.png",
+      "upvotes": 15,
+      "num_comments": 2,
+      "published_at": "2025-11-27T13:24:28.000Z",
+      "github_repo": "https://github.com/Tongyi-MAI/Z-Image/tree/main",
+      "github_stars": 4194,
       "project_page": "https://tongyi-mai.github.io/Z-Image-blog/"
     },
     {
@@ -153,6 +153,25 @@
       "project_page": "https://ai.meta.com/sam3d/"
     },
     {
+      "id": "2508.03680",
+      "title": "Agent Lightning: Train ANY AI Agents with Reinforcement Learning",
+      "authors": "Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "We present Agent Lightning, a flexible and extensible framework that enables\nReinforcement Learning (RL)-based training of Large Language Models (LLMs) for\nany AI agent. Unlike existing methods that tightly couple RL training with\nagent or rely on sequence concatenation with masking, Agent Lightning achieves\ncomplete decoupling between agent execution and training, allowing seamless\nintegration with existing agents developed via diverse ways (e.g., using\nframeworks like LangChain, OpenAI Agents SDK, AutoGen, and building from\nscratch) with almost ZERO code modifications. By formulating agent execution as\nMarkov decision process, we define an unified data interface and propose a\nhierarchical RL algorithm, LightningRL, which contains a credit assignment\nmodule, allowing us to decompose trajectories generated by ANY agents into\ntraining transition. This enables RL to handle complex interaction logic, such\nas multi-agent scenarios and dynamic workflows. For the system design, we\nintroduce a Training-Agent Disaggregation architecture, and brings agent\nobservability frameworks into agent runtime, providing a standardized agent\nfinetuning interface. Experiments across text-to-SQL, retrieval-augmented\ngeneration, and math tool-use tasks demonstrate stable, continuous\nimprovements, showcasing the framework's potential for real-world agent\ntraining and deployment.",
+      "ai_summary": "Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.",
+      "hf_url": "https://huggingface.co/papers/2508.03680",
+      "arxiv_url": "https://arxiv.org/abs/2508.03680",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.03680.png",
+      "upvotes": 120,
+      "num_comments": 6,
+      "published_at": "2025-08-05T13:50:13.000Z",
+      "github_repo": "https://github.com/microsoft/agent-lightning",
+      "github_stars": 9309,
+      "project_page": "https://www.microsoft.com/en-us/research/project/agent-lightning/"
+    },
+    {
       "id": "2511.19575",
       "title": "HunyuanOCR Technical Report",
       "authors": "Hunyuan Vision Team, Pengyuan Lyu, Xingyu Wan et al. (26 authors)",
@@ -168,30 +187,11 @@
       "num_comments": 3,
       "published_at": "2025-11-24T12:59:59.000Z",
       "github_repo": "https://github.com/Tencent-Hunyuan/HunyuanOCR",
-      "github_stars": 1017,
+      "github_stars": 1042,
       "project_page": null
-    },
-    {
-      "id": "2510.22543",
-      "title": "FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable\n  Reasoning",
-      "authors": "Yuyang Ding, Chi Zhang, Juntao Li et al. (6 authors)",
-      "organization_name": null,
-      "organization_fullname": null,
-      "organization_avatar": null,
-      "summary": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a\npromising paradigm for enhancing the reasoning capabilities of large language\nmodels (LLMs). In this context, models explore reasoning trajectories and\nexploit rollouts with correct answers as positive signals for policy\noptimization. However, these rollouts might involve flawed patterns such as\nanswer-guessing and jump-in-reasoning. Such flawed-positive rollouts are\nrewarded identically to fully correct ones, causing policy models to\ninternalize these unreliable reasoning patterns. In this work, we first conduct\na systematic study of flawed-positive rollouts in RL and find that they enable\nrapid capability gains during the early optimization stage, while constraining\nreasoning capability later by reinforcing unreliable patterns. Building on\nthese insights, we propose Flawed-Aware Policy Optimization (FAPO), which\npresents a parameter-free reward penalty for flawed-positive rollouts, enabling\nthe policy to leverage them as useful shortcuts in the warm-up stage, securing\nstable early gains, while gradually shifting optimization toward reliable\nreasoning in the later refinement stage. To accurately and comprehensively\ndetect flawed-positive rollouts, we introduce a generative reward model (GenRM)\nwith a process-level reward that precisely localizes reasoning errors.\nExperiments show that FAPO is effective in broad domains, improving outcome\ncorrectness, process reliability, and training stability without increasing the\ntoken budget.",
-      "ai_summary": "Flawed-Aware Policy Optimization (FAPO) enhances reinforcement learning with verifiable rewards by penalizing flawed-positive rollouts, improving reasoning capability and training stability in large language models.",
-      "hf_url": "https://huggingface.co/papers/2510.22543",
-      "arxiv_url": "https://arxiv.org/abs/2510.22543",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.22543.png",
-      "upvotes": 10,
-      "num_comments": 1,
-      "published_at": "2025-10-26T01:49:38.000Z",
-      "github_repo": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
-      "github_stars": 17128,
-      "project_page": "https://fapo-rl.github.io/"
     }
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-03T14:58:30.872511+00:00"
+  "fetched_at": "2025-12-03T16:17:28.798971+00:00"
 }

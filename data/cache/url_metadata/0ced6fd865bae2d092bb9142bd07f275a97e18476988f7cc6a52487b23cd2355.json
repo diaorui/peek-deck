@@ -1,0 +1,13 @@
+{
+  "cached_at": "2025-12-03T16:17:49.778601+00:00",
+  "data": {
+    "url": "https://news.mit.edu/2025/new-control-system-teaches-soft-robots-art-staying-safe-1202",
+    "title": "New control system teaches soft robots the art of staying safe",
+    "description": "System developed by researchers at MIT CSAIL and LIDS uses rigorous mathematics to ensure robots flex, adapt, and interact with people and objects in a safe and precise way. It helps robots remain flexible and responsive while mathematically guaranteeing they won\u2019t exceed safe force limits.",
+    "image": "https://news.mit.edu/sites/default/files/images/202511/mit-csail-Contact-Aware.jpg",
+    "favicon": "https://news.mit.edu/themes/mit/assets/img/favicon/apple-touch-icon.png",
+    "site_name": "MIT News | Massachusetts Institute of Technology",
+    "author": null,
+    "keywords": "MIT CSAIL, MIT LIDS, MIT IDSS, MIT MechE, MIT CEE, Soft robots, Nonlinear control theory, Contact-aware safety, Robot manipulation, High-order control barrier functions (HOCBF), Higher-order control Lyapunov functions (HOCLF), Safe robots, Differentiable simulators, Differentiable Conservative Separating Axis Theorem (DCSAT), kinematics, robot caregivers, Continuum soft manipulators, Gioele Zardini, Kiwan Wong, Wei Xiao, Maximilian St\u00f6lzle, Daniela Rus"
+  }
+}
