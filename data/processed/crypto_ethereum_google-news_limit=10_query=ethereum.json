@@ -35,34 +35,14 @@
       "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
     },
     {
-      "headline": "What Is the Fusaka Upgrade: Ethereum's Next Hard Fork",
-      "source": "CoinGecko",
-      "source_url": "https://www.coingecko.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RMUlDWWMzcjc0UlBlS0VOR0ticlRRRFowWFE0aGZTX0I5eFlheklRdGdfU1FpbkxNV1VtMTZ6aUEwa3ZmbGZyQlp6ejA5eEVYR3FKUlQ3NXBZNTdVQnVKVC1jeTNpRzdGbU5QQ0gxc3k?oc=5",
-      "pub_date": 1764659950.0,
-      "article_url": "https://www.coingecko.com/learn/what-is-ethereum-fusaka-upgrade",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Ethereum gets huge mainnet upgrade tomorrow - Here's why you should care about ETH's 'sloping side road'",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3hndkpQN3lEOHFPRTVhd0E1eE5NRkZ5endCZlNOVm01am1DRF83QkwxcU1yM1hPOXpJaTBBbVhmX1FmVk5RU0EybzZ3ajZaYU5XbkVweWp6cHFBMnhmaG5XcWxhd3JLYkJJM0NDMVprRUVMMllEeEFKX3FVcmlvWWlDelk1QV9RQnhQMWs0aG5ZS1IzMDFqcEZlOGhiZjloaE1Nd1BEdw?oc=5",
-      "pub_date": 1764686100.0,
-      "article_url": "https://cryptoslate.com/huge-ethereum-upgrade-goes-live-tomorrow-heres-why-you-should-care-about-fusaka/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2025/10/ethereum-fusaka-.jpg",
-      "description": "Mainnet activates at 21:49 UTC, and BPO forks on Dec. 9 and Jan. 7 lift blob capacity."
-    },
-    {
-      "headline": "How High Could Ethereum Price Go When Fusaka Launches? History Gives a Clue",
+      "headline": "Ethereum Whale Buying Steps Up as Market Rebounds From Heavy Liquidations",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUTBHTmJ6N2Q3SVVOQXAzcFp0RzhhNVkyRmk4RkRmMjFPb1Z6V3BReE1RZW5wVTBLTVcyTFo1UDV2OUk0aVA3OHUxWm03bldiMktqZFFYeHVTNjR5b1RsXzNPcG12dWMzenI0VmxKbkxDWkZYMDR0Q3hkZ0lJOHRzNVprNks?oc=5",
-      "pub_date": 1764685935.0,
-      "article_url": "https://finance.yahoo.com/news/high-could-ethereum-price-fusaka-143215170.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/7wit.kxnhFJxV2kfuxPg2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/c1651528d292b18e57fe435fffeb9237",
-      "description": "Ethereum\u2019s Fusaka upgrade launches Dec. 3. Past upgrades have triggered rallies. Analysts remain unconvinced. Ethereum is preparing to implement its next major network upgrade, known ..."
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOU9xeU9CbEVEMEh3dXBZOHNZUlc4TVY0aG83dGR3cmRNeGlhWnEyNU5pczF6UGZiUUpleTFHNG5UeHZtaF9GcVJnQzVWclhiVFBQTlQwRDV0TGJPc2RSbDRnZ1ZUc1kxNW9Vb2tIUEFLUjkyTGY2bEJ6X2JXX0tDTnI1NXNHbzA?oc=5",
+      "pub_date": 1764735000.0,
+      "article_url": "https://finance.yahoo.com/news/ethereum-whale-buying-steps-market-041059020.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/vhSgQYOGDIHfV7STIvTMlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/1c345f35e6d24f5a754c8f904a5827ff",
+      "description": "Large holders resumed sizeable Ethereum purchases this week as crypto prices recovered sharply from Monday\u2019s wipeout."
     },
     {
       "headline": "Ethereum treasuries collapse 80% as the trade unwinds, Bitwise warns",
@@ -103,8 +83,28 @@
       "article_url": "https://finance.yahoo.com/news/tom-lees-bitmine-buys-more-175616532.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/1lr32EBn0RgV4TnQuzC0XA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/decrypt_157/5201a6b2bb2edb9ec8114206f138c99c",
       "description": "The firm's stock dropped Monday as crypto prices plummeted, but it remains up 301% year-to-date."
+    },
+    {
+      "headline": "Tom Lee's Ethereum DAT BitMine now holds 3% of the total ETH supply",
+      "source": "theblock.co",
+      "source_url": "https://www.theblock.co",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPei1NLXdBczcxZ19pWFkzWk1OZkJnX2tqdnYweVhFOVBMdElZMi1Fenh0UmlNU2RvR1hhRm9VbVRsR1NZdWE1bzBjb051UXQzN04zUzd1QVVlc2VkX0dFTU9WMXNwVTFqZWV1UDUxMWpwTGQzS2lQbDd1b2ppMWxtdlBoalhGbVXSAYwBQVVfeXFMUDhaLWpmM2dReUdlajJuSWc4LWdhUW9rd0d1TkRzaWdxSmlYc01RRXBaMDExbGpGSDBITUVlaWl0T24wcHFrVkNVb1ExVGN0SWJBV0xpcEYtX0d1Z1FaOFRwcUxCcjBvXzNGTG1DbFBJWHdfT2hadnd3LWpZaEMwSDljZ29VOUdLQ2N5ZDM?oc=5",
+      "pub_date": 1764601090.0,
+      "article_url": "https://www.theblock.co/post/380925/tom-lee-ethereum-dat-bitmine-two-thirds-goal",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Ethereum News: BitMine (BMNR) Bought 97K in ETH Ahead of Fusaka Upgrade",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSUlTNmRnVjlscGVzMXlxVWpxd1EwVHkwNWhxcVBka2JlaW9vMzEzZlFJVFdCVGlxa3I1Y0hzZUhab3FPOS1kT2JCa0t0b1c2V2Z2MGJNeE5OTHZ1QkxtelBEdzNXM0xyR21JN1JkdldwY1VfaGp5SURYU3FqblpHUmVjRUdmcHJkbV9lSlhXT3JWaExtalFJUUlTZm5Lc0JDN2REb25vLUpfc1B5emRuanZ4R19KUVoxTW1UdHFycUJDNk84S2JCYl84YVhrRWc?oc=5",
+      "pub_date": 1764599120.0,
+      "article_url": "https://www.coindesk.com/business/2025/12/01/tom-lee-s-bitmine-acquires-97k-eth-eyeing-fusaka-upgrade-fed-policy-as-positive-catalysts",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/a06503e9de607f639801425df078631e0e62f12d-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The firm has increased the pace of purchases from the previous week despite sitting on large unrealized losses on its Ethereum bet."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T03:49:16.679158+00:00"
+  "fetched_at": "2025-12-03T04:46:19.779042+00:00"
 }

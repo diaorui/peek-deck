@@ -9,8 +9,8 @@
       "url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
       "hn_url": "https://news.ycombinator.com/item?id=46121870",
       "author": "goplayoutside",
-      "points": 496,
-      "num_comments": 575,
+      "points": 518,
+      "num_comments": 604,
       "created_at": "2025-12-02T15:00:16Z",
       "object_id": "46121870",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
@@ -37,8 +37,8 @@
       "url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
       "hn_url": "https://news.ycombinator.com/item?id=46124324",
       "author": "nabla9",
-      "points": 297,
-      "num_comments": 387,
+      "points": 329,
+      "num_comments": 424,
       "created_at": "2025-12-02T18:10:23Z",
       "object_id": "46124324",
       "image": "https://i.insider.com/692dc1a9abd5e944effbcd59?width=1200&format=jpeg",
@@ -107,14 +107,28 @@
       "url": "https://reverbmachine.com/blog/deconstructing-brian-eno-music-for-airports/",
       "hn_url": "https://news.ycombinator.com/item?id=46118722",
       "author": "dijksterhuis",
-      "points": 187,
-      "num_comments": 94,
+      "points": 189,
+      "num_comments": 97,
       "created_at": "2025-12-02T07:46:47Z",
       "object_id": "46118722",
       "image": "https://media.reverbmachine.com/2019/07/brian-eno-music-for-airports-1024x341.jpg",
       "description": "In 1978, Brian Eno released Ambient 1: Music for Airports, a landmark album in ambient and electronic music. Although it wasn't the first ambient",
       "favicon": "https://reverbmachine.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
       "site_name": "Reverb Machine"
+    },
+    {
+      "title": "Ecosia: The greenest AI is here",
+      "url": "https://blog.ecosia.org/ecosia-ai/",
+      "hn_url": "https://news.ycombinator.com/item?id=46126964",
+      "author": "doener",
+      "points": 82,
+      "num_comments": 48,
+      "created_at": "2025-12-02T21:14:38Z",
+      "object_id": "46126964",
+      "image": "https://blog.ecosia.org/content/images/size/w1200/2025/10/AI-Launch-3.jpg",
+      "description": "We\u2019re building the world\u2019s greenest AI. Find out how we\u2019re harnessing new technology while continuing our mission of putting people and the planet first.",
+      "favicon": "https://blog.ecosia.org/content/images/size/w256h256/2024/06/apple-touch-icon.png?v=2.0.1",
+      "site_name": "The Ecosia Blog"
     },
     {
       "title": "Tell HN: It's now impossible to disable all AI features in Firefox 145 (latest)",
@@ -129,23 +143,9 @@
       "description": null,
       "favicon": null,
       "site_name": null
-    },
-    {
-      "title": "Ecosia: The greenest AI is here",
-      "url": "https://blog.ecosia.org/ecosia-ai/",
-      "hn_url": "https://news.ycombinator.com/item?id=46126964",
-      "author": "doener",
-      "points": 71,
-      "num_comments": 41,
-      "created_at": "2025-12-02T21:14:38Z",
-      "object_id": "46126964",
-      "image": "https://blog.ecosia.org/content/images/size/w1200/2025/10/AI-Launch-3.jpg",
-      "description": "We\u2019re building the world\u2019s greenest AI. Find out how we\u2019re harnessing new technology while continuing our mission of putting people and the planet first.",
-      "favicon": "https://blog.ecosia.org/content/images/size/w256h256/2024/06/apple-touch-icon.png?v=2.0.1",
-      "site_name": "The Ecosia Blog"
     }
   ],
   "total_hits": 495,
   "has_metadata": true,
-  "fetched_at": "2025-12-03T03:48:59.390398+00:00"
+  "fetched_at": "2025-12-03T04:46:01.672640+00:00"
 }

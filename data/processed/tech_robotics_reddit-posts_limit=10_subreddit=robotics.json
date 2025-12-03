@@ -57,6 +57,17 @@
       "description": "The 11 year old is pretty smart and wants one of those robot arms. She has done some robotics and coding at school and wants to go into some type of engineering. I don\u2019t like buying cheap stuff and I also don\u2019t like buying something that she will build and be done with it. I guess what I\u2019m looking for is some modular building kits to ultimately get her a robot arm type system that she can also modify over time. My goal is to stay $150 or less on the initial purchase and then it have options that she can add to this and have it grow along with her skills in doing this. I can\u2019t find any shops around here anymore that could even help me with this and online has too many of these in such a wide price range I have no clue where to start. Maybe that is also a possibility to have books that she can read that could guide her through years of growing and learning with this. Any help would be appreciated."
     },
     {
+      "title": "Amazing Hand - A 8-DOF 3D-printable open-source robotic hand for prototyping and research - CNX Software",
+      "author": "GreatPretender1894",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcu0ug/amazing_hand_a_8dof_3dprintable_opensource/",
+      "published": 1764734139.0,
+      "thumbnail": "https://external-preview.redd.it/ie_mUGeGXA_vZK05i6r27ZNzkFYzU9PN7qBgiOX3M8g.jpeg?width=640&crop=smart&auto=webp&s=0655d68ad5760bdcafa6bfe0909b34a7c8d451fb",
+      "external_url": "https://www.cnx-software.com/2025/12/02/amazing-hand-a-8-dof-3d-printable-open-source-robotic-hand-for-prototyping-and-research/",
+      "site_name": "CNX Software - Embedded Systems News",
+      "favicon": "https://www.cnx-software.com/wp-content/uploads/2021/04/cropped-CNX-Software-Square-Logo-Light-Grey-1-180x180.png",
+      "description": "First time I see an arm with four fingers. Open source with kit available."
+    },
+    {
       "title": "Inside China\u2019s Robot Training Factory: Where Humanoids Learn to Work",
       "author": "GreatPretender1894",
       "url": "https://www.reddit.com/r/robotics/comments/1pctstu/inside_chinas_robot_training_factory_where/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey all, As the title says, I love robotics and working close to hardware, but I really dislike heavy algorithm development. I\u2019m comfortable with Python, C++, ROS2, and Linux. What junior-friendly roles could someone like me aim for? Best,"
-    },
-    {
-      "title": "How do you guys handle crash forensics on AMRs in \"WiFi Dead Zones\"? Is rosbag_snapshot enough",
-      "author": "kbbhatia",
-      "url": "https://www.reddit.com/r/robotics/comments/1pcin67/how_do_you_guys_handle_crash_forensics_on_amrs_in/",
-      "published": 1764705344.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Hi everyone, I manage a fleet of robots in a warehouse environment where the network is terrible (lots of steel, random dead zones). We keep hitting the same issue: The robot gets into a bad state, the navigation stack fails, or it hits an E-stop. Because it\u2019s in a dead zone, we can't stream the logs. By the time we physically get to the robot, we\u2019ve often lost the context of why it failed. I\u2019m currently prototyping a custom \"Black Box\" crash recorder to solve this, but I wanted to sanity check my approach with the community before I go too deep into the weeds. The concept I\u2019m building: Instead of logging everything to disk (which kills our SD cards) or streaming (which kills bandwidth), I\u2019m building a background agent that: Keeps the last 30-60 seconds of topics in a RAM ring buffer. Monitors the system for specific \"triggers\" (e.g., Nav2 failures, prolonged stagnation, or fatal error logs). Dumps the RAM buffer to an MCAP file only when a crash is detected. Queues the file for upload once the robot eventually finds WiFi. My questions for you: 1. Has anyone else implemented \"Shadow Buffering\" to avoid OOM kills on Jetsons? Is it overkill? False Positives: For those who have tried automated crash detection\u2014is it better to trigger on specific error codes, or just waiting for the robot to stop moving for $X$ seconds? I want to avoid filling the disk with \"fake\" crashes. The Viewer: We are currently just looking at raw MCAP files. Is there a better lightweight way to visualize these \"short\" crash clips without building a full custom dashboard? Any need of this type of product in market? Thanks!!"
     }
   ],
-  "fetched_at": "2025-12-03T03:49:05.391745+00:00"
+  "fetched_at": "2025-12-03T04:46:08.032301+00:00"
 }

@@ -13,17 +13,6 @@
       "description": "Only in crypto can someone ship a whole new state architecture onto Ethereum mainnet and the collective reaction is basically \u201ccool anyway who\u2019s getting the next airdrop.\u201d Anoma quietly deployed the Resource Machine and it\u2019s honestly wild how little attention it\u2019s getting. Here\u2019s the part people are already getting wrong Anoma is NOT a privacy project. Yes it has privacy baked in. Yes it uses commitments and nullifiers. Yes it uses a zkVM. But the whole point isn\u2019t \u201cZcash on Ethereum.\u201d It\u2019s that Anoma is introducing a completely different state model that just happens to make privacy possible but it goes so much further. This thing isn\u2019t a rollup. It\u2019s not a coprocessor. It\u2019s not an \u201cL2 but with extra steps.\u201d It\u2019s a parallel state machine living on Ethereum. A second way to define and verify state transitions. Like if the EVM suddenly had a strange, overpowered cousin that grew up reading Zerocash papers and lifting weights with RISC0. Instead of giant mutable smart contracts, everything becomes tiny immutable resources verified with commitments and nullifiers. Off chain computation. On chain verification. Millions of private micro-objects instead of one giant public diary. The EVM suddenly looks like a 2006 Nintendo DS sitting next to this thing. And the apps you can build aren\u2019t vaporware. They\u2019re what our industry desperately needs NOW: Private swaps that still use Uniswap liquidity A private Gitcoin where your conditions stay hidden Dark pools without liquidation snipers breathing down your neck Private payments across any EVM chain like it\u2019s nothing Again none of this makes Anoma \u201ca privacy project.\u201d That\u2019s like calling Ethereum \u201ca database project.\u201d Privacy is just a side effect of the state model. The real unlock is intent-centric apps, parallel execution, flexible off-chain computation, and a verification-first design that makes the EVM look hilariously outdated. But the timeline is still spreadsheeting loyalty points like it\u2019s Web2 airline rewards season. Not telling you to buy anything. Just saying a parallel state machine literally booted up inside Ethereum and most people won\u2019t realize what that means until they see it at a multibillion FDV and suddenly \u201cremember hearing about it early.\u201d https://ethresear.ch/t/the-anoma-protocol-adapter-is-live-on-ethereum/23466"
     },
     {
-      "title": "Daily General Discussion December 02, 2025",
-      "author": "EthereumDailyThread",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pc0uyk/daily_general_discussion_december_02_2025/",
-      "published": 1764655258.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
-    },
-    {
       "title": "What utility can ethereum or ETH provide to the average person today?",
       "author": "hau5keeping",
       "url": "https://www.reddit.com/r/ethereum/comments/1pck131/what_utility_can_ethereum_or_eth_provide_to_the/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Why should the average person be excited about ethereum and/or ETH? What specific real world use cases are available to the average person today?"
+    },
+    {
+      "title": "Daily General Discussion December 02, 2025",
+      "author": "EthereumDailyThread",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pc0uyk/daily_general_discussion_december_02_2025/",
+      "published": 1764655258.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
       "title": "never NOT a good day to be converting people into self-custody",
@@ -112,5 +112,5 @@
       "description": "The Yearn Finance yETH vault was exploited for over $3 million. The attacker leveraged a dust attack combined with a flash loan to destabilize the underlying pool. In this case, the locus of the root cause was a flawed mathematical singularity in the _calc_supplyfunction that implemented the Newton-Raphson solver. The attacker submitted dust or small amount of liqudity into the skewed pool, causing the _calc_supplyfunction to diverge which forced the contract to incorrectly calculate the pool\u2019s value as infinite. As a result, the attacker was able to practically mint millions of dollars worth of liquidity share for a bare-minimum cost."
     }
   ],
-  "fetched_at": "2025-12-03T03:49:02.128757+00:00"
+  "fetched_at": "2025-12-03T04:46:05.090200+00:00"
 }

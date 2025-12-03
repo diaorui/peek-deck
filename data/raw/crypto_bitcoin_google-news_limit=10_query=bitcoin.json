@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin Jumps Back Above $90,000 After Bruising Selloff",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnl1U0Y1bG5MRW1yQ2VrWEhpbVdWR3JzTFBuZ2I2WEZ4bGhZWE42S05ZNWtWNW1LbExfSDBBMmhMOHYzNGF4YmxIZ3Nhd1pjRXNpcUlMX2xiaG8zUHl5Sk9lWWtyQWhyS19MM1E4SzhMYlR3dEVIQ0hOTjRhYTBZZ2d5bUFrMkkzZE5uV245RmpvV2ZMc0g5QkZwa0ZzbjRVYmE1UEhYWC1yWFdRcGtV?oc=5",
-      "pub_date": 1764711512.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/crypto-markets-steady-as-indicators-point-to-weak-sentiment",
-      "image": null,
-      "description": null
+      "headline": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin rockets back above $90,000",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHhXbDROdzZ1TlVncTBjTFhKR3hjbVJTTkhTS1NhOGgtQmxyRnlwRUZrQm9DMTVieWVUQ1lwQzFBWlVtX0prcC1uTm5Cd1FQclp0VTd1WWRuYVZTaDMyQUJ6YlF1X1RoZlNlLUl0VEF3bWwzZWFNVTAxMUtqRTVVbi1LVkpoNnFXMkJhb1lxVmVhSE41d2pfQktmbDdiajNRNTRXNmVaWWN2OEFLdjk1LXgtQ2NTdGhkTWRseVNxdmdMNVJLU2Vn?oc=5",
+      "pub_date": 1764718326.0,
+      "article_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-bitcoin-rockets-back-above-90000-210121108.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ZCO2o4qppSRSiPuX3v69qA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-12/441224f0-2925-11ea-96ff-875256a153fc",
+      "description": "Wall Street is eyeing a comeback as the flight from risk starts to cool."
     },
     {
       "headline": "Stock market today: Dow, S&P 500, Nasdaq slide as bitcoin tumbles to kick off December",
@@ -25,24 +25,14 @@
       "description": "Wall Street's strong late-November rebound looked set to hit a speed bump on the first trading day of December."
     },
     {
-      "headline": "Stock market today: Dow, S&P 500, Nasdaq step higher as bitcoin surges in broad bounce back",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOXhrNk5JMHp6VDQ2dEJxRVZ2My1wendpR1JnREplWDVwRndjc2VMNWRzX0dZa0lQY1Y3akhjUW1RYjRyNXBrVDFPSVZvRmRBNnpXVjNONUdzZVZpTmNRTXpDNVY1V0RLVXg2TkRHLWUwYzNTMW5VeE1tTjk3NmZwdmM0c2MzY3NyMFRCQ29BQUVsV09nVFpTR0VaTkxfSWo2c1FhdS16ajM1aWhqeFhNZ2Q3eXJ2ZVJCZ3hqblV0UklTVW5kVTF1WVhhd19aQ0Q3ZDNpXw?oc=5",
-      "pub_date": 1764706870.0,
-      "article_url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-step-higher-as-bitcoin-surges-in-broad-bounce-back-143326837.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/ZCO2o4qppSRSiPuX3v69qA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-images/2019-12/441224f0-2925-11ea-96ff-875256a153fc",
-      "description": "Wall Street is eyeing a comeback as the flight from risk starts to cool."
-    },
-    {
-      "headline": "Bitcoin Rebounds Off Lows, Rising Above $91,000",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNOE9xVG9YaFdKbDhhd0VhMHZWWm15bTJ6WDc1U2R6RkVPV01fdVBKT0xkYlRmOWx0MEtKOG9XZ0R5enVLeXJzVmZEcTNpMVVmdGFJX2NPY09JWHJtWGZIZ0ozWWVjREFrU3JYNEsySW5OOG5oWFpJYkJMdmViYk5VWkdwLVIzVmZSRUU0ajJfQ3JNUzhuUWRyXzViMWNJN19fS2xNcm1wcHMzb1g0eUZ3aWF0YzIySUZ0ZTF2Y0VYMlV0bldHYnN1ZXFqcEtXM3hHTFBzR2RhSm52NGxyUUdmY05HSGhtZzlIWENJOTJNcEoxUDFZUmpYNG5HRkk4TjMySlMwdzVvSGxQRVlSdnpsMEktb3dhTFFlWkJXdGV1ZkxKVjI2QjlaUVBzQjRYYkpiWFZQbW05dHRidFRCZy0xYnBsWnRFVWRKaXo5MnhhMzBEZ2w5a0FsN2ZQM0VQYlhvRFF2TFB4NkYyN3pZQ2ZSWDVUV255dnk2RlROZG9GTjJJN1ZBbzBVYTg4SDIzSWFKeTNyek9KcTA2UFJlY0dOa1NLcHFRVml2Tk14Z2hBX1ZkdGNjWlV3TlFXUzNnbmZaV2lXVHIyeGRXTVpNR3VmSkhEcHo1TzNDQU5EZVBuT1R4ZHJXR3c?oc=5",
-      "pub_date": 1764664380.0,
-      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-02-2025/card/bitcoin-rebounds-off-lows-hitting-90-000-KdjDmRT8dpAKaWd81I8V?gaa_at=eafs&gaa_n=AWEtsqfnQBUYCjyLLtgs1LW_Lk0iWEKUspJc2LArkaqTYHQLt0N9uZPAqqqL&gaa_ts=692fb6ae&gaa_sig=GtEc3uqM6XlFVF7Cs_yMHfidlCl-WlA-hVn4dXhweay1wh-B1g-FdlOLwVC9kwmk4ePq0xjBonRYezak2ZAN4w%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "Stocks close higher as bitcoin bounces back above $90,000, tech rallies",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxc19lSHdzY3dHTHhYZ19oYzR6Q1FDY3ZEZVo4azBWeG1IdWNqZ19HMFlUcW5HbXRibU02OXZNQ0htNDJzdU5MQl9vQjR3Ri0zOFpQZExNUjRjRDYzVjQ5X1ZCeHZZZy1mRG45U01jUV9QRExLeDVn0gF8QVVfeXFMT291YzBUTXhhZFM2Tkg2Ukl1Ry1pcGlpWmlUZzVvaW83bUJtZndZS3NoUGMzMTkwS3p1SHYtTDhnZFlNa0hPMXFrTEt6cm1GTUZCWXJiOGJZZ3A0bUNNYWlUd2V3R083dVNPZFZYNm5naVJ0X1V6b0ExR0xwcA?oc=5",
+      "pub_date": 1764706500.0,
+      "article_url": "https://www.cnbc.com/2025/12/01/stock-market-today-live-updates.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108235248-1764691437169-gettyimages-2249564340-anotherday155733818_bvc8mgvu.jpeg?v=1764691476&w=1920&h=1080",
+      "description": "Traders recovered some of the ground lost in the previous session."
     },
     {
       "headline": "Bitcoin sell-off halts Trump family's crypto windfall",
@@ -75,6 +65,16 @@
       "description": "Yahoo Finance's John Hyland tracks today's top moving stocks and biggest market stories in this Market Minute, including President Trump stating he will announce the next Federal Reserve chair in early 2026, American Bitcoin (ABTC) stock plunging by nearly 40%, and Instacart (CART) \u2014 which operates as Maplebear, Inc. \u2014 stock drops on Amazon's (AMZN) offering of ultra-fast deliveries. Catch Yahoo Finance's full interview with American Bitcoin co-founder and chief strategy officer Eric Trump from our 2025 Invest conference in November. Stay up to date on the latest market action, minute-by-minute, with&nbsp;Yahoo Finance's Market Minute."
     },
     {
+      "headline": "Bitcoin Jumps Back Above $90,000 After Bruising Selloff",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnl1U0Y1bG5MRW1yQ2VrWEhpbVdWR3JzTFBuZ2I2WEZ4bGhZWE42S05ZNWtWNW1LbExfSDBBMmhMOHYzNGF4YmxIZ3Nhd1pjRXNpcUlMX2xiaG8zUHl5Sk9lWWtyQWhyS19MM1E4SzhMYlR3dEVIQ0hOTjRhYTBZZ2d5bUFrMkkzZE5uV245RmpvV2ZMc0g5QkZwa0ZzbjRVYmE1UEhYWC1yWFdRcGtV?oc=5",
+      "pub_date": 1764711512.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/crypto-markets-steady-as-indicators-point-to-weak-sentiment",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Vanguard has a change of heart on crypto, lists Bitcoin and other ETFs",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -88,9 +88,9 @@
       "headline": "Vanguard finally dips a toe into crypto waters as bitcoin rebounds above $91,000",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNSzc5V1BLbzQ4ay1OM3liRkF4MUxmWTFTTlB0UWtrcU9CZXYzSE9WbjBobWVmY2g0dGxhUTE5SV9TV1BCNGxQVHd3OFJHZ3RvT2VsVFVhZmlWdlFuU25BemdSTHhIRjg3bVg1cHZta3NkNWRpOUc5d0otUVppVWswODcxWU9DUFJZTlN1cWVvYkhyenpoY1Myc2RRR1h5QnNCcGxxT1N0LWVPbjFOSWZfckl2amFKbTRMaW1Ec0N6cWhJWmhpaWZTU2dpZTNzNXQzamN2ZW9kbWtOYjZ0dF9WNExWMGQwVWFaSWdCZEFpYUo4eVNDRTNYdm9LRFpxSktzc0wyNnpGekc5dXpEUmNzMmVseHp5djUwdW1jd2ktMW54Rnc1Z2tFS1NENnVTQzlZLV92R055eElPSTNPRTNTOVdkSnN4RXNrMW5IUlQyVnhNVUZZczNwdHVhcWtPa3JjVnRJWnkteFJqX2NyeXJqVFZKY3JPVGFXVlBOOWg0R1pRdVFSRTV1MEhZcnJ5dzhWSDZ5M3F1VUNSS1RJNlk0R3h5c1dQRDNYUU9ScUo1WmxJa2M?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOUVhqM0FIUlhyd3VHOUxaTEowWjNUc0laYWdnOExTUDZmYlIyazhLdGQ2V1VuTzF5RkpNYVpsbjJabnR3NjBtMTBfc1l3LVdqRlpnZzgyWlNTTHVmOEMtU3lkcnhIeWFuRkZwTk9SejZYbUxXSWVzZGh5X1R2VGo3M0pHQUh6ZmFjaEdJYk9ITWVHdXdzckNpZG80cFZZdnozN0pnNl9NaDRpS25Odk1iN2FDUDBIMXlUMnA0enNXOFZkdnFxTm5DUUdkekkyY2lvMWU3QVNPVjBZXzZ6R2J6d2lUWjNZOHFoVl9qc3R3R0hhb09lNVE1QjVQa1VOVHNWdjg5OGdQSm1FS3piOC0tYWVBcXRCVUFFTjZONEFWZF9Ca2JXYW5IZDN3RHAtRmZZUzBtQXctcmVMbFEyb0FCMDNfMnNjR18yOUNLMEt1QnlabndHLUMwbmt5ZE83OUhfdzU2dWttVGtweFN4VE9PSXhmMHpqeTVCM2UzVUNLeHFPTXBtdWZfM0VEY1lISXgzSUlzdDd0RGZQZVNTNUgwdVkzMHdEQmUxYi1IbXR1RUdpcmc?oc=5",
       "pub_date": 1764670860.0,
-      "article_url": "https://www.marketwatch.com/story/vanguard-finally-dips-a-toe-into-crypto-waters-after-bitcoin-slump-58e9191d?gaa_at=eafs&gaa_n=AWEtsqfUch8zorp3OFS7c5dI6PMLUkZFj9YRZr8Y6U_AXIC3j4ksZnuaODqh&gaa_ts=692fb6ae&gaa_sig=V1rQ4P_CisiLQ5Xc3FA9Lycw07XHLGFZoqPINSmH5_-rOLicyVhck_mz3nOOQnBca6wg0GFCXRQ-Yyryga1uiw%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/vanguard-finally-dips-a-toe-into-crypto-waters-after-bitcoin-slump-58e9191d?gaa_at=eafs&gaa_n=AWEtsqdQl28AFueyzEPFyBdnkATDh1vxldXBmDxWib3k-VfXL8wXoCuz-LK1&gaa_ts=692fc40e&gaa_sig=jhPwgDw6eEhe6jS3dcTaUUJcnGxF5GeDiv232Ajlqtqn7ZQbeQkFCTr-eh33-lbZt91hy2j-oySpJtLWXKbe0g%3D%3D",
       "image": null,
       "description": null
     },
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T03:49:21.270583+00:00"
+  "fetched_at": "2025-12-03T04:46:22.283526+00:00"
 }
