@@ -79,17 +79,6 @@
       "description": "Me and my friend have this idea that we would turn a vacuum roomba or something (open for alternatives), into basically something that can see and talk. We were thinking of putting speakers and cameras and somehow make it work, as for the voice we were thinking of using a Teto voicebank I'd also like to say we have no experience about these so I hope for some really detailed insights, we are also open for any suggestions as long as we could make this idea (or something similar) be brought to life!"
     },
     {
-      "title": "Looking for a Coding Robot",
-      "author": "Ill_Start6386",
-      "url": "https://www.reddit.com/r/robotics/comments/1pcqymd/looking_for_a_coding_robot/",
-      "published": 1764725597.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "The 11 year old is pretty smart and wants one of those robot arms. She has done some robotics and coding at school and wants to go into some type of engineering. I don\u2019t like buying cheap stuff and I also don\u2019t like buying something that she will build and be done with it. I guess what I\u2019m looking for is some modular building kits to ultimately get her a robot arm type system that she can also modify over time. My goal is to stay $150 or less on the initial purchase and then it have options that she can add to this and have it grow along with her skills in doing this. I can\u2019t find any shops around here anymore that could even help me with this and online has too many of these in such a wide price range I have no clue where to start. Maybe that is also a possibility to have books that she can read that could guide her through years of growing and learning with this. Any help would be appreciated."
-    },
-    {
       "title": "First robotics project: I want to make my lawnmower remote control",
       "author": "VegetableDistrict576",
       "url": "https://www.reddit.com/r/robotics/comments/1pct4rl/first_robotics_project_i_want_to_make_my/",
@@ -99,6 +88,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I want to make my ride on lawn mower remote control. My plan is to use stepper motors for steering and speed control lever actuation and hopefully use my drone controller(elrs, boxer) and a flight controller to connect reciever and send signal to stepper controllers. I think my main question here is: are there software programs similar to betaflight that allow my to load firmware to my fc and control/program it in a different way then you would do for a drone. And second question: does this sound feasable, and are there better methods of achieving this."
+    },
+    {
+      "title": "Looking for a Coding Robot",
+      "author": "Ill_Start6386",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcqymd/looking_for_a_coding_robot/",
+      "published": 1764725597.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "The 11 year old is pretty smart and wants one of those robot arms. She has done some robotics and coding at school and wants to go into some type of engineering. I don\u2019t like buying cheap stuff and I also don\u2019t like buying something that she will build and be done with it. I guess what I\u2019m looking for is some modular building kits to ultimately get her a robot arm type system that she can also modify over time. My goal is to stay $150 or less on the initial purchase and then it have options that she can add to this and have it grow along with her skills in doing this. I can\u2019t find any shops around here anymore that could even help me with this and online has too many of these in such a wide price range I have no clue where to start. Maybe that is also a possibility to have books that she can read that could guide her through years of growing and learning with this. Any help would be appreciated."
     },
     {
       "title": "Industrial Robots vs Cobots in High Volume Production - Are Cobots even relevant here?",
@@ -112,5 +112,5 @@
       "description": "All the research I've done comparing the two shows that industrial robots are far superior to cobots in high-volume production. Industrial robots have higher payload, better reach range, speed range, repeatability, and they meet cycle time goals better. It seems like cobots win on safety as no cages are required, are easier to program, and easier to redeploy. What even is the point of an industry - say, automotive manufacturing - adopting cobots? Some quality inspection work? Packaging? Deburring? What practical applications can justify the cost/ deployment/ maintenance costs of a cobot?"
     }
   ],
-  "fetched_at": "2025-12-03T10:44:19.138637+00:00"
+  "fetched_at": "2025-12-03T11:25:18.618370+00:00"
 }

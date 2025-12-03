@@ -15,14 +15,34 @@
       "description": "Wall Street is eyeing a comeback as the flight from risk starts to cool."
     },
     {
-      "headline": "Bitcoin faithful prepare for a bitter winter",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55WUQ2VWlaOG1GcXFJSF9XZXM5NHJiNnNkbWZ5UVNucXJHU183UzJabUNBSXNfRmo5QkZnZHN5LW9fYTFnR3kxUUV0ZkxOYUtwakw0SHpBNk9aOFJXTEQ5aWxLdEtZa3hKVEkzazJEYmg?oc=5",
-      "pub_date": 1764738026.0,
-      "article_url": "https://www.ft.com/content/c235d775-cb39-475f-b11c-e5883d59ff56",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2eb59d00-95aa-4b42-a221-5062022529b6.jpg?source=next-barrier-page",
-      "description": "The flywheel is difficult to maintain if crypto\u2019s animal spirits turn out to have been durably damped down"
+      "headline": "Eric Trump\u2019s cryptocurrency firm tumbles nearly 40% amid \u2018crypto winter\u2019",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMF9ZM0dIaXQxNDBTTG5EMDNPdmZ2MHZ3VTlEdVVkTHBsdWdxSk9Kb01laUI5dUxwUUZpQ0h4ZmItSDVuZlZWS0c3dzFFZUJoS0dnQ1dRajkyMEVYZzFiY191ZTd2NS1GcnVnaGZ3dFFqVUVGTENpZm9wME5RWEtUVlpWdWRndmcy?oc=5",
+      "pub_date": 1764719520.0,
+      "article_url": "https://www.theguardian.com/us-news/2025/dec/02/eric-trump-american-bitcoin-stock",
+      "image": "https://i.guim.co.uk/img/media/b9846a8768ae5431482b533afb80aa1de551edac/296_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=36e5233dc4d06552ce00cb225268dda8",
+      "description": "American Bitcoin Corp\u2019s shares fell from $2.39 to $1.90 after closing in what some are calling \u2018crypto winter\u2019"
+    },
+    {
+      "headline": "Trump Family Crypto Promotions Are Faring Even Worse Than Bitcoin",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU3hLdGR3cDVGQl9WZWRmVTVNdWlNVjVYa01jb0wtVjJsS1NwdUV4UWtrc2lXVmpDbl9kb19VaWNTVUpVcDVDeHJCcWZ4U3BkVERHcDJOMWd2MXFUOWl2amZzcFN5bjZkdHRlX1J3Qk1oNFlKME1ZU1hDYjBmYUp6cDdGRkJRbWFQTjg4SzIyTXpyM3RlcU5ZS1JBbkZlcjkwbnF4aHN3R0NYaXBINm5NbnFHYWpHb1NGYk9Z?oc=5",
+      "pub_date": 1764759984.0,
+      "article_url": "https://www.bloomberg.com/news/newsletters/2025-12-03/trump-family-crypto-promotions-are-faring-even-worse-than-bitcoin",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPBki5ZDGIBo/v0/1200x800.jpg",
+      "description": "Market data as of 06:03 am EST. Market data may be delayed depending on provider agreements."
+    },
+    {
+      "headline": "Eric Trump-Linked American Bitcoin Stock Crashes 40% as Lockup Ends",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbmdUNDE2eXczMXpYeDVXUlRmc0hHa3Z2a2RULTJQeFozN3I4T1ItQ1VTVmhNeEV1STlxSVZkVTVxYmd5ZTdnTWdIdDdlb2tqbF9OYmw1aVNmaXlObmlqd2ZJNk5mTlhDRndISmtjX0RmaUlSZmFNNURWRkVteFpfTHFVWUdTdXc?oc=5",
+      "pub_date": 1764755233.0,
+      "article_url": "https://finance.yahoo.com/news/eric-trump-linked-american-bitcoin-094713335.html",
+      "image": "https://media.zenfs.com/en/cryptonews_us_711/a78215856605065af9943a0748147e5a",
+      "description": "Shares of American Bitcoin, the mining and accumulation firm co-founded by Eric Trump and Donald Trump Jr., tumbled sharply on Tuesday after a portion of the company\u2019s stock was released from its lockup period. Key Takeaways: American Bitcoin shares plunged nearly 50% after newly unlocked stock hit the market following ..."
     },
     {
       "headline": "Bitcoin\u2019s Sky-High Prices Have Not Panned Out",
@@ -35,44 +55,14 @@
       "description": null
     },
     {
-      "headline": "Stock Market Today: Dow Futures, Bitcoin Edge Higher \u2014 Live Updates",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPT1pOakRRYTFDQTZ3U2xxam5NQVRtek1UUElTQ0tkTGQ1NldNYzRuRUcyMHFSUWstMFFGUUI2QTVZSU1aWjVIc3JBb21iTmc5S01pQnFCZmxjcU1fampLbzdsZzVCY3hhQ1JlVHlpRUl0cVg1bzJkYXFkUkFNNHBZSFVVSHIxU0NyTEVPQldKOF9Rd1RlUE5ISlQ5VHFidFI2bkw1bmdrYzZNX1lXWnNpUkp5TlladzJtdEJfcE5wc055NjY5M0VqMmViTVZCOW1tSzQ5bnQwbHdhaGZNWl9TTVdPM1NZd2FRdEdqWVlzRTUwN1NaSUEyd2kwdFVSSk5VOUw0SXdzQXl3ZEFRdUMxb043LVlidGV4V3FVdmV0d1d4N1hwdjAyUEtDT2xTX3dqdU1JTDVrQzZmRFZEV2JzU0RDWllTOWZDZXNQcmZ2eWlwenJGRTJqaUxJbC1td08yaUI0bmNjVEctWk1RU1dMeUlsVmo4bFdaanBJTTVUUUE1WTVxZ2pjSUxoWGw?oc=5",
-      "pub_date": 1764756660.0,
-      "article_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-03-2025?gaa_at=eafs&gaa_n=AWEtsqezn7xpE3pj_SQpQS0GnVJZtqOT-vvVhAlN4h-2o2ZGXlyMD4pgU3uh&gaa_ts=69301803&gaa_sig=PPdqn_Z8lSSbykzwr69IO0Gtw2gmpctE_4yIct-VLFF7bFlvBzPeYrUMF555yU2bcdnzouacOfW-byd0l4jDbQ%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Bitcoin Rises Above $90,000. Why Traders Are Bracing For Another Big Drop.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxORmt4MHJSWlpwd0RkTTZmWDRra21idU5pZi1DLTlMUldReGUwc05VR1RZOGRRRTJtM0xWYWp6eG9jRFFaaU8tTkRaQ0tFSllfQTZxb0h2cERTeF93LWtKWGFhNjhtWndrTUZUMzhJc2FDYmcxSEJQd09mZDNMZ29tWThhOFlTaG5EY3dUNy12SVlQTTBxU0FzekxZZjlSay1SVW5oWmRmcDExOWFlSDBCUUF3ZzNXWHNvT1hJVjZESWRFY25sM0ViMWlqQUhRSjE4aS1KT3ZDV0VLeHl3YXE1cnFaXzloOE00dGp3VVN0SndhcU5mWWpON09ScVBIdlNXLVFBbkRCUl9NektCTE5hVGNtMVp0VHlLRV9HamZQbFYyVjBlZGlnd0FXT2NJQnR2OGhaUER0WDA5dEEyT0tvTk80eDN1OXVPWjhyMmY1TEZqYk12UDNvX0Nyb2F3c0trQXdmbUdaOFZOMWpZUTNzTTE2d1hkVHFlYlFSc0FJSElNa25BUHhrQVh1VQ?oc=5",
-      "pub_date": 1764706920.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-price-today-selloff-ether-xrp-9118e5ec?gaa_at=eafs&gaa_n=AWEtsqcTFcwQje9eSc7uDWOPcrqZboBDghadsH_EazhH-Kbj2nx354W4RVr1&gaa_ts=69301803&gaa_sig=V8pBKCbLnoyc0aRcpxr5_YrbkX7H8mq2IWYEZSEVBTS_u-xLtzRZ3s2XAaQvoj3mQKmdW_yvZv0URs-tqBHE7A%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "BTC, XRP, ETH, SOL News: Ether Bear Trap Confirmed, Bitcoin, XRP Eye Breakout",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMEVmOXp4blVrTmZxRDlHckxJaU80Z05aVm5KSXdEYXF1V3dkX1F3NVJjVjAxeHNpdUZ2cHBka2pQYTU5dXkzSXZYQzNXT1hQY0lyVXh0MGdQMVZabjFjSlIyMk9BY1Q4SzhaeU1UcWIyMkRkZXl2bG5FTnBuUTlBYU1hYTJWTkI1M2k5QUNuQ3RibWp0dlB0anNjcVdmc3pscDNJMnlDcXQwbXVIMExhZmJJOVFkLWNaOEFmdjBaVjA?oc=5",
-      "pub_date": 1764737793.0,
-      "article_url": "https://www.coindesk.com/markets/2025/12/03/ether-bear-trap-confirmed-as-bitcoin-probes-friday-high-xrp-eyes-usd2-30-hurdle",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/d5646c439de12ffa75596d174196acfefaedd782-1919x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "Ether looks north after a confirmed bear trap."
-    },
-    {
-      "headline": "Bitcoin, Ethereum, XRP Surge. Why the Crypto Rebound Has Reached a Key Moment.",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPNldEazBxUDRDUHNaX1FueENkZ2VqcWRSSTNRYmZUMUdOb182ZnRYUUl3VThJV1gzbTctMUFjanpTbVZMbVN6Q1NmWW93TUR1M0Yzcmo1N242QjhQMHhKYmtzcnhDZFh0Z2JUX1FuLU43cm1QWWh5YzlRbjJjRHlBVS1PWmV3NDl6S1V5OWgyUFV4Vk5DMVdYVWtnWXZNV1BIOGtYdkdBNUhrOHUwQ0VDaFM3cTY1TVlTM2FjcnhyQVVUZFlOS3RfUFVXMEJUS2J4Wi1fT0ZBV3ZyQXJic0VKU0JUcmtXcExCc1FsSHp3S29IQ1JCTVZEZHUyQ21QWklaMzhqNDJRR3RQMHpwWmNhcEE5S1FEa0VIV0E1VWpzRzFtNVVZcEQ0MFFJcTFUYjVqZXpmRVhlbGFCY3phOVVwbm9yXzJkOGNYWV9NdlV5Rk5xOGZvbnlpWEVRUThXbDA4TFdXZnZGNUhDRGIxX1QwdFlONi1oU0pGN3BHd25XRTlSSXJ5WDNrT2FNSUZ6Q0FJ?oc=5",
-      "pub_date": 1764757200.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-ethereum-xrp-price-crypto-rebound-1944a313?gaa_at=eafs&gaa_n=AWEtsqcBn-94B8XOW6WTS32idlI-iMoAET1G3oWD4AYiqmTQyLmB4nruMK2m&gaa_ts=69301803&gaa_sig=PXnSr84lrp102XaVkw0Df3ayQ-RjXJhxJcLL7OBor03b9xjMVt6uHft1-YwFlQTBnYjQdVAQjiVXrmUBCOX4Iw%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "Bitcoin Short-Term Holder Shakeout Could Accelerate Recovery Above Key Level",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNGdVWVZUYTFzX1AyZmNJcFZnSWRmaXpkMjkzamZzX1RFb09sb0QtWkYtNXBLYVVxY1Q4UFZpLXh2Zmcwa3lhVEhpNGNZVjdSZF9HbVJGbHBwVTU4U2hVUFhWYjF2RDZkSTBhcmtCTE9IeU1FVmo3NElSVzQxMTVoMkZydWk5U2laZC1kMl9lTGdGcDBoUkhjbUIxSXMwT2syem5WSNIBrAFBVV95cUxQMG45cFZIcnFHV0hsa05zT1JVZC0wemlmSER0LUFUcldjYTFsTUVpcWRxQ21FRERtSG9qbHJLaXotNEFJZHpxb3NuOGhuSUZDWVFCY0ppOWZSSG9mNTZDSXEwYUNvWDVNMGhkTlMtMWxIQWlMZkpTeTAxS1R3QkNFQkJNMXBwQnVFYWpJSG5nRlp3NWFhdHdHcWZ3QV96N3prYW1FeHpnNVdQdV9R?oc=5",
+      "pub_date": 1764757381.0,
+      "article_url": "https://decrypt.co/350741/bitcoin-short-term-holder-shakeout-could-accelerate-recovery-above-key-level",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg",
+      "description": "A breakout above $93,000 could trigger a short squeeze, analysts say\u2014accelerating Bitcoin\u2019s recovery amid short-term holder capitulation."
     },
     {
       "headline": "Bitcoin Jumps Back Above $90,000 After Bruising Selloff",
@@ -85,26 +75,36 @@
       "description": null
     },
     {
-      "headline": "Eric Trump\u2019s cryptocurrency firm tumbles nearly 40% amid \u2018crypto winter\u2019",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMF9ZM0dIaXQxNDBTTG5EMDNPdmZ2MHZ3VTlEdVVkTHBsdWdxSk9Kb01laUI5dUxwUUZpQ0h4ZmItSDVuZlZWS0c3dzFFZUJoS0dnQ1dRajkyMEVYZzFiY191ZTd2NS1GcnVnaGZ3dFFqVUVGTENpZm9wME5RWEtUVlpWdWRndmcy?oc=5",
-      "pub_date": 1764719520.0,
-      "article_url": "https://www.theguardian.com/us-news/2025/dec/02/eric-trump-american-bitcoin-stock",
-      "image": "https://i.guim.co.uk/img/media/b9846a8768ae5431482b533afb80aa1de551edac/296_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=36e5233dc4d06552ce00cb225268dda8",
-      "description": "American Bitcoin Corp\u2019s shares fell from $2.39 to $1.90 after closing in what some are calling \u2018crypto winter\u2019"
-    },
-    {
-      "headline": "Trump sons\u2019 bitcoin venture sheds almost 40% of its value in crypto turmoil",
+      "headline": "Bitcoin faithful prepare for a bitter winter",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIX1B3MWlFY1JTVkFxREhBeExnazVTWTRYajVYdXRDbFZfMmlsc193YVhxN2l0dGNLZWswUkJBWTN2WUp6NEdGOW9TM1Q3TVVxNC1MNWtPUWRQTGRHRW5rOVRNWWJhTWZ0UXN6QzZZTDc?oc=5",
-      "pub_date": 1764703910.0,
-      "article_url": "https://www.ft.com/content/18e3bfc1-c2aa-49a0-8c6d-a37255a23017",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc5b7856b-9d31-43fa-96a0-0e88766916a1.jpg?source=next-barrier-page",
-      "description": "Company\u2019s shares plummet as investors cash out at end of lock-up period"
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55WUQ2VWlaOG1GcXFJSF9XZXM5NHJiNnNkbWZ5UVNucXJHU183UzJabUNBSXNfRmo5QkZnZHN5LW9fYTFnR3kxUUV0ZkxOYUtwakw0SHpBNk9aOFJXTEQ5aWxLdEtZa3hKVEkzazJEYmg?oc=5",
+      "pub_date": 1764738048.0,
+      "article_url": "https://www.ft.com/content/c235d775-cb39-475f-b11c-e5883d59ff56",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2eb59d00-95aa-4b42-a221-5062022529b6.jpg?source=next-barrier-page",
+      "description": "The flywheel is difficult to maintain if crypto\u2019s animal spirits turn out to have been durably damped down"
+    },
+    {
+      "headline": "'Big Short' investor Michael Burry says bitcoin is the 'tulip bulb of our time'",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMUZNU05tdlNLMHZicUZHbkFQTmNGTGxKVnZNS092WldHUlVIM2tLMFB6c0JRNHY1S3k3ZTNLV3pPX0pMWTlIcnhmdTVySTBJbTB1OUlSS0ZGdFBFbGV0WDBla0VmQ2NPN3J2MEs2M2lvN3dRME5XbTFzR05GZUwwa1dNSGtRSFNrWG52RkpJaVdsZw?oc=5",
+      "pub_date": 1764685740.0,
+      "article_url": "https://www.businessinsider.com/michael-burry-bitcoin-price-tulip-bulb-big-short-2025-12",
+      "image": "https://i.insider.com/692ef04371107c9f34572830?width=1200&format=jpeg",
+      "description": "The investor said seeing the blockchain-based currency hit $100,000 was \"the most ridiculous thing.\""
+    },
+    {
+      "headline": "Vanguard has a change of heart on crypto, lists Bitcoin and other ETFs",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLU5maUtfOHExRXp4aDkxdGRjUHZmQUIzRGJ5RnIwMnZwNVU3RzhDUmNtUjRvM3A0UE9TSzdtZWpaRG16R25UeFpuc2xkYkw5Zi1rRGEzM1plOHpjQktJeEJZUXFpN0FzakczTEI5NWo3NTJQRW9zY3NpMDE3emJFajZfM1ZiMU82QkVYeHZzTEY0T1JrTzlBcWoySGNiQU45U3V3?oc=5",
+      "pub_date": 1764711840.0,
+      "article_url": "https://fortune.com/2025/12/02/vanguard-has-a-change-of-heart-on-crypto-lists-bitcoin-and-other-etfs/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-1772102313-e1764708480251.jpg?resize=1200,600",
+      "description": "The brokerage firm, long averse to crypto, will let traders buy and sell blockchain-wrapped funds."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T10:44:47.094535+00:00"
+  "fetched_at": "2025-12-03T11:25:33.191575+00:00"
 }
