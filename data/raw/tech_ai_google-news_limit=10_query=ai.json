@@ -5,74 +5,64 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Amazon introduces new frontier Nova models, a pioneering Nova Forge service for organizations to build their own models, and Nova Act for building agents",
-      "source": "About Amazon",
-      "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnV5Y2I1Ykk3bW9rNUh6dUwtU09nMXFuWU5SenFvc0hZQ2RIZEFIYXEwWVgyTGl1b3BqNm8tdHpaWWw3bkw1Sm11REhrVXZxV1dMQnB0dDMzX3NXSGNPSHkxcVQ0ZVdaZE1ZbWdOQWJPS01PMFc1X2xidnB2dXMyWldjZjk?oc=5",
-      "pub_date": 1764691197.0,
-      "article_url": "https://www.aboutamazon.com/news/aws/aws-agentic-ai-amazon-bedrock-nova-models",
-      "image": "https://assets.aboutamazon.com/dims4/default/61b7a71/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F95%2Fdc%2Fc004987040dcafbd49d49a6e5bbc%2Fabout-amazon-hero-nova-forge-hero1-2000x1125.jpg",
-      "description": "Key takeaways"
-    },
-    {
       "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNYzBkd1VtQWhSQVlzM2FmbXV1VTU5R1dyaV92WmkxMnVldHNUYnZwMllocHU3RGp2SC1hVFl3WjFDZUY0ZG50RktxdkpSd2RnMGlDd1ZJUzRkMlljanZHREFTRnh3dl9EZ1B4OF9COUdDVVhTSE9VM2hScUppYVFuVDZYOWpqc2VaWmQ3YmpwdVFSdGN5enRoTjJrc1J1bFpKRjJ6NWNxYjZTaVU4bDZwNkV2cVFUc2VYbldIaFFmWjh5Zmt5am1HZndDUENHRTBqTGdFTTBpVGUyejVHeUN5UUhJNGVGTlNDeldNQlFidlBJbWZtVmJ1cHlMWkdFdTExUk14UHQ5VHRlVjVxRzNFejJEeWw5amFhd0dGbzFvMFlJbXR2cEVpUzRfX2FOQVVIS0hlR2ZYU2xYRlVLSkV2YUNya0J3d3VZX3NMV3ZBQmVnU3Zack1WRWIyeGd4Mzk4ajAwS3VBdFQtODJ1TDFTaGFUVklWLXpQckdocWNobEI4Mm9WZkI3WDRDanhHeVBJUzc4UnFiODFKNklMOXpfZDYwZ3JaeFhXOS10a1FudnJVWFlyaTBIQ0pJa1k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNZ3ZBNnllM2ljMTZ0Wmsyemh6cmlXYVZvQWhzT210Z19jamw3MVA5ajVYNUg1SVNEdG1iODFydThaNU9QVVRLWUhJbTVwLTNOVG8zb0NFbTFHYnhkZkFQM1JvYkxlSzN4eGN5NXBDNlZGRWlXbnZGblBFdThoc2Qyb2RDaFE0ejlFTWlEeEtiMDA5aTdybXhjY3FDT3RpU3JrWnVtMHdqZGpMTVNBelhPbnk4eUtXTkZOTklyQ3ktdmp4bWFZVWJFTUtaS2pUc0dLbWJvaVFBd0ZJRnA0WG1kbElyT05NQWNYcnphWmZOcV9KLTZhWFpIcjZyd2M5SjQzUUpJdjFCeVUzWmpJT1FRcUtSWjQ0OFJFLThMUWwtSVJmQnI2M0hGMTd4VVZ4Zl8tTU1rZ1RucVJTLTM3Z3I5SWp6STBwMTBObC1pb1puUzRVcTBFbkdHOTFqY3pLMjc5ZE1RNS05QnRYX0tXblVlNVZwYlJicDExc1c2Y1Fla0pjN2tObkxFZGNsbmhzR19qbjRQS19GdlJUSFR1QVFPbWRZa2VRZnhzRjhLbGlSQWt1Tjd0YURTbWdqSXE?oc=5",
       "pub_date": 1764656820.0,
-      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqcZRvYDlrVxGklRHriXcBRhr66u_AuEelvAxqprtd-uszm_e3SpyfDI&gaa_ts=692fea93&gaa_sig=CDBCUuA70tl_imouVWh2UNrZ5rznAZ-W6Goo5p6xwGGTEHrP9AI1H5FCXWwt0v0SyxnJ0TbLoFDX3ikan0f2rw%3D%3D",
+      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqdi64iwfoxokY_2QHVWZ-1hKd9qejiwd0W4F7KfUUSz0WPV5B8CyLVT&gaa_ts=692ffaa5&gaa_sig=NXngBMzbzo9a-0_UBwIY7f-IdqG_MCg1FL9MF3xAtws_qKFp2n1Kcl-dzmnDpUUfzjE11oPMXEpHnvjcl53pJg%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "OpenAI is under pressure as Google, Anthropic gain ground",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLNVRNMm12WWxsSng3WGxjOVB3bGRrRmJhZjBrMFhpVHRkRXk3Q0ZFTTRpZ1hHREFlYjNTUUtlaUdaQzdvWlNFWFZIa2FaaXdndUh1OUVQMXh4TUZLNlZnd19BMlpScUpHTnhYWDFZNWhnUS1FNTZjczdB0gF_QVVfeXFMTlI5Zy1PMm5UcVFiVFEzT0QwcGl4WFJhNU5jb0VfZEhrN0hWel95ZFpGVG9FUEk1Qzl3U3Bidkp2ZzhMVmtQaFExd2FBcjVNMUtNMnRwQV90QXlncms5QW1tM19SeVFBZ3V6Z1Jabkxkd3J3cEVHNmh3Wmpac3JqOA?oc=5",
-      "pub_date": 1764690966.0,
-      "article_url": "https://www.cnbc.com/2025/12/02/open-ai-code-red-google-anthropic.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108187812-1764696032432-108187812-1755581084982-gettyimages-2225624138-US_FEDERAL_RESERVE.jpeg?v=1764696049&w=1920&h=1080",
-      "description": "Sam Altman reportedly sent a memo to his staffers outlining a \"code red\" effort to improve ChatGPT."
+      "headline": "Silicon Valley Builds Amazon and Gmail Copycats to Train A.I. Agents",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWl9QamdibTJhWWUzUkcxOW1md29TZWY1VW1BRW1NejZ2eXZFMEx6OUJFbkJMQ05fNk94VmxfTDZCYjNkRTRfRDZlb2I2Wk9MSHhnR2lFNHQxUWlsaFNjV0VUNEdpOWdHcmRpU1hQdEVrTWlUeENLRkJiYVZJSnBNZFNhNFdrN1dBVFctdXFSWEk?oc=5",
+      "pub_date": 1764669637.0,
+      "article_url": "https://www.nytimes.com/2025/12/02/technology/artificial-intelligence-amazon-gmail.html",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "OpenAI declares \u2018code red\u2019 as Google catches up in AI race",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtMkQwcnZCa05fMFpnbWh5dzdaWUFodDdKaDB5N2N6THhRdVNnWU5NY3dqNHVsZU0yWVJ1ZmZPOXo4UFpGSXk1bnpCNnF2ODl3TGFEajUzMHBiRjRIbE1JUE5pQzJsMnRDY2RpcQ?oc=5",
-      "pub_date": 1764675607.0,
-      "article_url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "Google\u2019s own \u2018code red\u2019 response to ChatGPT has started paying off."
+      "headline": "Is AI slopifying the job market? (Two Indicators) : Planet Money",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUVlUb1V4cG1SU1V6MkVtUVVhTmE2NGladEFNNWhaaDN5TXVjMkpkN2hPRmt5RjlDTHNlQURkSVhrUnFIQVZhaUZBekJMTi1MM0hxUGhMZ1pkUWVYU01kTU8xRm8xRjF3bk5rQjRZTzBnLU5YV2poREdqM25uWDFnOU9CVmFydDJ6?oc=5",
+      "pub_date": 1764748800.0,
+      "article_url": "https://www.npr.org/2025/12/03/nx-s1-5629273/ai-job-search-recruiters-entry-level",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F38%2Fd7%2F7dfa17aa4b3685f3b997b9d05cd2%2F7d8d3847-191d-4630-9a2b-bb51f79f81f1.jpeg",
+      "description": "Vote for us in NPR\u2019s People\u2019s Choice Awards: npr.org/peopleschoice\u00a0AI is already reshaping how people find work. Fewer entry-level jobs, robot recruiters, and ever-changing new skill requirements all add up to a new, daunting landscape for humans trying to find dignified work.Today on the show: two stories from the edges of a changing labor market. First we\u2019ll assess claims that AI is causing a white collar job apocalypse. What does the data actually say? We meet an economist who has found one small but fascinating way to measure the impact of AI on workers.\u00a0Then, we go face-to-face, or at least voice-to-voice, with AI. We meet a robot recruiter for a job interview and find cause to ask, \u2018When might that actually be preferable to a human recruiter?\u2019Pre-order the Planet Money book and get a free gift. /\u00a0 Subscribe to Planet Money+Listen free: Apple Podcasts, Spotify, the NPR app or anywhere you get podcasts.Facebook / Instagram / TikTok / Our weekly Newsletter.The original Indicator episodes were hosted by Wailin Wong, Darian Woods, and Adrian Ma. They were produced by Cooper Katz McKim and engineered by Robert Rodriguez and Debbie Daughtry. They were fact checked by Sierra Juarez. They were edited by Paddy Hirsch and Kate Concannon."
     },
     {
-      "headline": "Anti-immigrant material among AI-generated content getting billions of views on TikTok",
+      "headline": "AI-manipulated images of 'flood relief train' in Thailand mislead online",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWtURlVVdTRoS0lsSDVCT1pickh2U1JkVXZ3NmNYMVRxbnY4M0FvZU5FM3V4djcyQ1JJWlpJTnVKVHlXazVyRWhEOThKYkJPb1JiRTU0QjZSalA1MnF1anBrcjFFdEZzcXIySllPUVFaeVprUDZTZ2lFSTNmS0VpUkowdVlwTWNUMW82NVBB?oc=5",
+      "pub_date": 1764748080.0,
+      "article_url": "https://www.yahoo.com/news/articles/ai-manipulated-images-flood-relief-074841725.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/ZWS1k7ybUL9MLeskj1VGkw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NTE7Y2Y9d2VicA--/https://media.zenfs.com/en/afp_factcheck_us_713/fb88fcb7e2925661ca624bc4b8555a3b",
+      "description": "Severe flooding in southern Thailand has killed at least 267 people, with most of the fatalities reported from Hat Yai, the kingdom's largest city in the south. But altered images of relief vehicles transported by train shared online are in fact AI-generated. Google's detection tool indicated the images were created with its AI model, while AFP found parts of the fabricated visuals were overlaid onto unrelated train videos."
+    },
+    {
+      "headline": "Why a new data center in your area could change your electricity bill : Short Wave",
+      "source": "NPR",
+      "source_url": "https://www.npr.org",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN0FycHYyVl9NVTRqbG16SGZmLVVmRDVCOXVHQzgtUEQ0LUwzQWRYVy1BRWdPb0FHODJJSUYtTjVRTXVOYndDN2NaX0NvVlUwTE9UcnJZSS1Nam1uazhMVkN2LVlpX01tcmw3cUhQN1dRNVpyMFplUTRhODUxWXRaVHRMLW0?oc=5",
+      "pub_date": 1764748800.0,
+      "article_url": "https://www.npr.org/2025/12/03/nx-s1-5626900/ai-data-center-cost-electric-bill",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3456x1944+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc5%2F15%2Fa5a59dab4b67ae599b9a0e8c4caa%2F99812dd8-b4ad-45b5-9738-be7975a15a02.jpg",
+      "description": "Electricity bills are on track to rise an average of 8 percent nationwide by 2030 according to a June analysis from Carnegie Mellon University and North Carolina State University. The culprits? Data centers and cryptocurrency mining. Bills could rise as much as 25 percent in places like Virginia. Science writer Dan Charles explains why electric utilities are adding the cost of data center buildings to their customers\u2019 bills while the data companies pay nothing upfront.\u00a0Read the full June analysis here.To listen to more on the environmental impact of data centers, check out our two-part reported series:-\u00a0Why the true water footprint of AI is so elusive-\u00a0How tech companies could shrink AI's climate footprintInterested in how technology affects everyday life? Email us your question at shortwave@npr.org.Listen to every episode of Short Wave sponsor-free and support our work at NPR by signing up for Short Wave+ at plus.npr.org/shortwave."
+    },
+    {
+      "headline": "\u2018The biggest decision yet\u2019: Jared Kaplan on allowing AI to train itself",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVUJTVUFRSVJ2MmxhOTlXZWp5MkZKZWlBM2ZJYXd3dzVtRjVBM1pSeWczZ21OLWZsS0U5X3pxcXl0eEVPZ2JnczFCNTZKcEhaQUduem8tVk05U0U2TTVFdDJUZzBrNjk5dG5kaXZIUExQS1dPVzFoRWppOGVOQWZadkVKeTZnUlhXVk5RcXhlRzVrWUZYSlozNXl4d0dtdWFBTmV5TmYyeVdWMGstX0xYWmhIRGhhT2JnODlPVDE1LWVicnBCZzZ2Tnk0R1lyVFMtTWJN?oc=5",
-      "pub_date": 1764741600.0,
-      "article_url": "https://www.theguardian.com/technology/2025/dec/03/anti-immigrant-material-among-ai-generated-content-getting-billions-of-views-on-tiktok",
-      "image": "https://i.guim.co.uk/img/media/c26191b2e18591b811f9deee523fc9f25b68ccd8/408_681_1679_1343/master/1679.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06ae146bab9ebd11dda9cd0b0ea9f531",
-      "description": "Researchers uncovered 354 AI-focused accounts that had accumulated 4.5bn views in a month"
-    },
-    {
-      "headline": "Healthify upgrades its AI assistant Ria with real-time conversation capabilities",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOTB1QXR2eVZoZkQ2TkJUUnJRTE5RUVJYMS1aOXltYWVrdm42bDF2ak5WaVNyN3RTZDVod1FRTkpRMVVnWUEyWTh6QkRFSkY3Tmd4RWppODNIeUs3Mm5KNnowWVBzbzdKQy1ad3diLTZFM2tNbU8tV1ZGYUUwMm1XV2hHeVJlWVBKXzJyYjlpdXMtVm9uRUZHZzlPLS1pRVlZc0QtaEtRbDFtZlZqTjVldzFycHlFZw?oc=5",
-      "pub_date": 1764745200.0,
-      "article_url": "https://techcrunch.com/2025/12/02/healthify-upgrades-its-ai-assistant-ria-with-real-time-conversation-capabilities/",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/1.-16x9-Primary-Banner.jpeg?resize=1200,675",
-      "description": "Healtify is adding live conversation capabilities to its AI assistant, powered by OpenAI's realtime APIs"
-    },
-    {
-      "headline": "Should AI Have Free Speech?",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ3dVcTVVRS1Za0xjb01IeXhpX3RQYWl2eVFlWjlTS25MczVTa3BQNWlpSXZkQ1VET0c1WXlUT1hxbEdka1NnR0FMMmRjUmJZY3VLbDlzdXNnTkJfeGk0eUtmeFl2M1d1X0UyOUh6elNJbkd4Zk83ZGs3Mk5TZFVHZXdWbDI4dw?oc=5",
-      "pub_date": 1764743404.0,
-      "article_url": "https://www.forbes.com/sites/bernardmarr/2025/12/03/should-ai-have-free-speech/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/692fd8b4e494443de0b76abf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "AI systems are already shaping what we see and believe, from politics to business. What it means for the future of free speech?"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3htZDNHeEE0aWl3cGMtbU1mVnV4TDY4QjllanlEODAwSFdfYWZybVFXdjFWVmxpeGZvVGlwUENwd1JjU1VXcW5tMVYxRGVTclB1MnFKcnMzVDRxWTNHRnBnT1RFNEl2UjJYRkdpcU1hb2JFNkt1ZWF2a1hNLThYNVRmU1I4eTRrVTFSSTlMTDFxRnNZUE5PNVZsM01QeFo5TDYwb0dOb3JYdkEtZlRoWFB4aDdLQQ?oc=5",
+      "pub_date": 1764680160.0,
+      "article_url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/02/jared-kaplan-artificial-intelligence-train-itself",
+      "image": "https://i.guim.co.uk/img/media/5f1dbff127345154bf57ef7a554a4727975d1c3e/0_848_3091_2471/master/3091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6daf53e3bf38527380051f2157a5fb94",
+      "description": "Anthropic\u2019s chief scientist says AI autonomy could spark a beneficial \u2018intelligence explosion\u2019 \u2013 or be the moment humans lose control"
     },
     {
       "headline": "How AI Is Transforming Work at Anthropic",
@@ -89,7 +79,7 @@
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb24zbTlISHhiN3MwUFFvYWVSaGNpeUx0NFNEODR0eldqZHV0YnZQSFhPZFhsOGFlaDJTR1h4Y3FOdjdlWnBhQXc2VjdrbG9xSHVqMzdib1I0WFJBTkY2QWNUMTVQNkMwRUNpSkV0MldVUTd0NzczWWJJWVg2T0pmRHQzUjc1a0Z2cGVvaGJvdHFlQ19EdmJJOF9XRWFLd2xY?oc=5",
-      "pub_date": 1764731700.0,
+      "pub_date": 1764731756.0,
       "article_url": "https://www.reuters.com/world/china/ai-frenzy-is-driving-new-global-supply-chain-crisis-2025-12-03/",
       "image": null,
       "description": null
@@ -103,8 +93,18 @@
       "article_url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
       "image": "https://i.insider.com/692dc1a9abd5e944effbcd59?width=1200&format=jpeg",
       "description": "IBM CEO Arvind Krishna walked through some napkin math on Big Tech's AI data center spending \u2014\u00a0and raised some doubts on if it'll prove profitable."
+    },
+    {
+      "headline": "Amazon Releases AI Agents It Says Can Work for Days at a Time",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOdWZheUFMRHdENjJ2YlAyZnI5YThlalRuN1p2dWNvOGJUd0RkbjVad2hUc0J2TVFiVUNXOUpqaFRvaW9hYVNZSUd3ZFZfc29ZNFJRUWEwaXpZMFZzci1oMVpSbnhucG56SlJ6TzF2X1dXYlhYOFJTQVNrZWU1cWlPSm1JOU54c2k0UDJneTF1NEl0czZTUDZhamdNSHhFZ1hQSWFZbWpRcHp0WlZjdEtPN0Z5NDhsRV9MaXA4U19hOTZEa1drOEk2cXczNWpTMHBOMkhRTXowLVlZUnh2VGVfVE5NZlVjRjR6LUl3Zm9xVGo4RWxnNGxYY1hwb1NGTl83eUppLURYSU5XdGxWNVF3VEw5U3N4Tm15UEo3NkRZV2Y1SC1QTG9WUjVUa2VxMHgwclNtd2NoSmNXa0tjWXQwYmJOMGZlWWp4RHMzbWNCN0NvclY1TlpVUTd0OGdzeUU3RHRiTks1NmM2c3hsMzhSWkdWOVhsMHgtVGYxX3EtRC1JeWxYRk5EQVYtMGVXUVo1TURaTmpWdS1aMmNiemItMFFQd2tPZw?oc=5",
+      "pub_date": 1764699360.0,
+      "article_url": "https://www.wsj.com/articles/amazon-releases-ai-agents-it-says-can-work-for-days-at-a-time-79c82902?gaa_at=eafs&gaa_n=AWEtsqcbXJpGYb2G3pPUU4DNnyCBTT7WByn8vwH_oBvii0jxvI7gb-eoOFqq&gaa_ts=692ffaa5&gaa_sig=UNPpPCyKcEDesHtyh_zHw83Jl9q4VRTnwEigj1UZYVYwBFU-OVF6jfOPJaNsKkep4Q5D8JfJvhUnVgPUpQblxg%3D%3D",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T07:30:48.104575+00:00"
+  "fetched_at": "2025-12-03T08:39:26.262204+00:00"
 }

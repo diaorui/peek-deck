@@ -2,17 +2,6 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "New video, Optimus running. Looking way smoother now!",
-      "author": "AlbatrossHummingbird",
-      "url": "https://www.reddit.com/r/robotics/comments/1pcm1tm/new_video_optimus_running_looking_way_smoother_now/",
-      "published": 1764713079.0,
-      "thumbnail": "https://external-preview.redd.it/OGZ3cHp4Z3o1djRnMZtT1cI8u5hSVYJJ8bJ_LbGeT_t5WDj3OAKPszcxmQqg.png?width=640&crop=smart&auto=webp&s=b8bb0d900e82171ab90eb2762270f41578a44522",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Not sure if that's version 2 or 3, maybe someone can elaborate in the comments."
-    },
-    {
       "title": "I\u2019m building a browser-based robotics playground (open source). You can test robots with zero setup.",
       "author": "Silly_Asparagus_76",
       "url": "https://www.reddit.com/r/robotics/comments/1pcwp3c/im_building_a_browserbased_robotics_playground/",
@@ -22,6 +11,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I\u2019m making a small open-source robotics playground that runs in the browser. It started as a fun idea and somehow turned into a physics sandbox where you can drive robots without installing anything. I want to add a few more robot types, but I\u2019m not sure what would actually be fun or interesting to try. What robots should I add next? Just curious what people here would enjoy testing."
+    },
+    {
+      "title": "New video, Optimus running. Looking way smoother now!",
+      "author": "AlbatrossHummingbird",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcm1tm/new_video_optimus_running_looking_way_smoother_now/",
+      "published": 1764713079.0,
+      "thumbnail": "https://external-preview.redd.it/OGZ3cHp4Z3o1djRnMZtT1cI8u5hSVYJJ8bJ_LbGeT_t5WDj3OAKPszcxmQqg.png?width=640&crop=smart&auto=webp&s=b8bb0d900e82171ab90eb2762270f41578a44522",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Not sure if that's version 2 or 3, maybe someone can elaborate in the comments."
     },
     {
       "title": "Any ideas why urdf-stl looking incorrect in FoxGlove but correct in RVIZ2?",
@@ -68,6 +68,17 @@
       "description": "All the research I've done comparing the two shows that industrial robots are far superior to cobots in high-volume production. Industrial robots have higher payload, better reach range, speed range, repeatability, and they meet cycle time goals better. It seems like cobots win on safety as no cages are required, are easier to program, and easier to redeploy. What even is the point of an industry - say, automotive manufacturing - adopting cobots? Some quality inspection work? Packaging? Deburring? What practical applications can justify the cost/ deployment/ maintenance costs of a cobot?"
     },
     {
+      "title": "Inside China\u2019s Robot Training Factory: Where Humanoids Learn to Work",
+      "author": "GreatPretender1894",
+      "url": "https://www.reddit.com/r/robotics/comments/1pctstu/inside_chinas_robot_training_factory_where/",
+      "published": 1764733499.0,
+      "thumbnail": "https://external-preview.redd.it/zqij42YEOUkK573YxCiBOsTzthGa7TikScFmfbM-ljU.jpeg?width=640&crop=smart&auto=webp&s=2b3e5dfd5755bdaf6499a227daabffa9505cdaf7",
+      "external_url": "https://www.sixthtone.com/news/1017920",
+      "site_name": "#SixthTone",
+      "favicon": "https://www.sixthtone.com/favicon.ico",
+      "description": "Young operators remotely guide robots through thousands of everyday tasks, generating the scarce data needed to teach machines how to work in the real world."
+    },
+    {
       "title": "First robotics project: I want to make my lawnmower remote control",
       "author": "VegetableDistrict576",
       "url": "https://www.reddit.com/r/robotics/comments/1pct4rl/first_robotics_project_i_want_to_make_my/",
@@ -90,17 +101,6 @@
       "description": "First time I see an arm with four fingers. Open source with kit available."
     },
     {
-      "title": "Inside China\u2019s Robot Training Factory: Where Humanoids Learn to Work",
-      "author": "GreatPretender1894",
-      "url": "https://www.reddit.com/r/robotics/comments/1pctstu/inside_chinas_robot_training_factory_where/",
-      "published": 1764733499.0,
-      "thumbnail": "https://external-preview.redd.it/zqij42YEOUkK573YxCiBOsTzthGa7TikScFmfbM-ljU.jpeg?width=640&crop=smart&auto=webp&s=2b3e5dfd5755bdaf6499a227daabffa9505cdaf7",
-      "external_url": "https://www.sixthtone.com/news/1017920",
-      "site_name": "#SixthTone",
-      "favicon": "https://www.sixthtone.com/favicon.ico",
-      "description": "Young operators remotely guide robots through thousands of everyday tasks, generating the scarce data needed to teach machines how to work in the real world."
-    },
-    {
       "title": "This Giving Tuesday support the OSRF Build Farm (the infrastructure building your ROS binary packages) by becoming a Build Farm Backer [details inside]",
       "author": "OpenRobotics",
       "url": "https://www.reddit.com/r/robotics/comments/1pch51k/this_giving_tuesday_support_the_osrf_build_farm/",
@@ -112,5 +112,5 @@
       "description": "\ud83e\uddd1\u200d\ud83c\udf3e The OSRF\u2019s Build Farm produces the ROS and Gazebo binary packages that are downloaded over 500,000,000+ times every year! The scale of the Open Source Robotics Foundation's infrastructure is massive: \ud83d\ude9c 95,000+ unique packages produced as of October 2024 \ud83d\udc2e 5000+ unique Debian packages in the last 30 days \ud83d\udc11 1500+ unique Gazebo Build Farm jobs \ud83d\udc16 600+ PR testing jobs in November 2025 \ud83d\udc10 500+ unique Gazebo CI job in the past 30 days \ud83d\udc14 400+ CI builds in the past 30 days \ud83d\udc25 100+ PR testing jobs in the past 30 days \ud83e\udd5a 63 hours of testing for ros-core packages every night It takes a dedicated team of Build Farmers and significant cloud resources to build, test, and deliver the binaries that power robots around the world. If you have ever saved time by downloading a ROS or Gazebo binary package instead of compiling it from source, we would love your support! Full details on Open Robotics Discourse."
     }
   ],
-  "fetched_at": "2025-12-03T07:30:28.320194+00:00"
+  "fetched_at": "2025-12-03T08:39:03.107474+00:00"
 }
