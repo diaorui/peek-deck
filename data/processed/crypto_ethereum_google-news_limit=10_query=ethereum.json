@@ -45,16 +45,6 @@
       "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
     },
     {
-      "headline": "Ethereum Whale Buying Steps Up as Market Rebounds From Heavy Liquidations",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOU9xeU9CbEVEMEh3dXBZOHNZUlc4TVY0aG83dGR3cmRNeGlhWnEyNU5pczF6UGZiUUpleTFHNG5UeHZtaF9GcVJnQzVWclhiVFBQTlQwRDV0TGJPc2RSbDRnZ1ZUc1kxNW9Vb2tIUEFLUjkyTGY2bEJ6X2JXX0tDTnI1NXNHbzA?oc=5",
-      "pub_date": 1764735000.0,
-      "article_url": "https://finance.yahoo.com/news/ethereum-whale-buying-steps-market-041059020.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/vhSgQYOGDIHfV7STIvTMlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/1c345f35e6d24f5a754c8f904a5827ff",
-      "description": "Large holders resumed sizeable Ethereum purchases this week as crypto prices recovered sharply from Monday\u2019s wipeout."
-    },
-    {
       "headline": "News Explorer \u2014 Whales Are Buying the Ethereum Dip Amid Crypto Market Rebound",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
@@ -63,6 +53,36 @@
       "article_url": "https://decrypt.co/news-explorer?pinned=1248935&title=whales-are-buying-the-ethereum-dip-amid-crypto-market-rebound",
       "image": "https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
       "description": "The next-generation media outlet navigating the intersection of culture and technology."
+    },
+    {
+      "headline": "Ethereum gets huge mainnet upgrade tomorrow - Here's why you should care about ETH's 'sloping side road'",
+      "source": "CryptoSlate",
+      "source_url": "https://cryptoslate.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN3hndkpQN3lEOHFPRTVhd0E1eE5NRkZ5endCZlNOVm01am1DRF83QkwxcU1yM1hPOXpJaTBBbVhmX1FmVk5RU0EybzZ3ajZaYU5XbkVweWp6cHFBMnhmaG5XcWxhd3JLYkJJM0NDMVprRUVMMllEeEFKX3FVcmlvWWlDelk1QV9RQnhQMWs0aG5ZS1IzMDFqcEZlOGhiZjloaE1Nd1BEdw?oc=5",
+      "pub_date": 1764686100.0,
+      "article_url": "https://cryptoslate.com/huge-ethereum-upgrade-goes-live-tomorrow-heres-why-you-should-care-about-fusaka/",
+      "image": "https://cryptoslate.com/wp-content/uploads/2025/10/ethereum-fusaka-.jpg",
+      "description": "Mainnet activates at 21:49 UTC, and BPO forks on Dec. 9 and Jan. 7 lift blob capacity."
+    },
+    {
+      "headline": "What Is the Fusaka Upgrade: Ethereum's Next Hard Fork",
+      "source": "CoinGecko",
+      "source_url": "https://www.coingecko.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RMUlDWWMzcjc0UlBlS0VOR0ticlRRRFowWFE0aGZTX0I5eFlheklRdGdfU1FpbkxNV1VtMTZ6aUEwa3ZmbGZyQlp6ejA5eEVYR3FKUlQ3NXBZNTdVQnVKVC1jeTNpRzdGbU5QQ0gxc3k?oc=5",
+      "pub_date": 1764659950.0,
+      "article_url": "https://www.coingecko.com/learn/what-is-ethereum-fusaka-upgrade",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "How High Could Ethereum Price Go When Fusaka Launches? History Gives a Clue",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUTBHTmJ6N2Q3SVVOQXAzcFp0RzhhNVkyRmk4RkRmMjFPb1Z6V3BReE1RZW5wVTBLTVcyTFo1UDV2OUk0aVA3OHUxWm03bldiMktqZFFYeHVTNjR5b1RsXzNPcG12dWMzenI0VmxKbkxDWkZYMDR0Q3hkZ0lJOHRzNVprNks?oc=5",
+      "pub_date": 1764685935.0,
+      "article_url": "https://finance.yahoo.com/news/high-could-ethereum-price-fusaka-143215170.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/7wit.kxnhFJxV2kfuxPg2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/c1651528d292b18e57fe435fffeb9237",
+      "description": "Ethereum\u2019s Fusaka upgrade launches Dec. 3. Past upgrades have triggered rallies. Analysts remain unconvinced. Ethereum is preparing to implement its next major network upgrade, known ..."
     },
     {
       "headline": "Ethereum treasuries collapse 80% as the trade unwinds, Bitwise warns",
@@ -83,28 +103,8 @@
       "article_url": "https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/",
       "image": "https://imageio.forbes.com/specials-images/imageserve/6924b0faa76a662bd7be2f30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "description": "Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH\u2019s utility loop, Bitcoin\u2019s scarcity, and why money is entering a multi-form future."
-    },
-    {
-      "headline": "Why Ethereum Is Gaining Today",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTlCRUlhQVpVRkl6LXd2Ri1HQlRyek90aDVIY2IzTkt0RExKMEdOLXhRUHp4ejJzZWJCSXBKZ2VjbWMzUWhBVmg0QmNCOVFFWjdXbl8wODZ5Vm1INldpdFJra2ZPT3BjV3YyVWZWLUlZcXFsR2JMN0JkQnFPbUxBb2FQZHluUDl2?oc=5",
-      "pub_date": 1764708360.0,
-      "article_url": "https://www.fool.com/investing/2025/12/02/why-ethereum-is-gaining-fed-vice-chair/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845234%2Feth.jpg&w=1200&op=resize",
-      "description": "Stablecoin regulation is moving forward."
-    },
-    {
-      "headline": "Ethereum Devs Push ZK \u2018Secret Santa\u2019 System Toward Deployment",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzRaT09BbXFQQVk0UmY3aWZvQ1dxd3dERWdscDVvNzBLazYtNngyUlYtQTBhZW1qTmt0Y2xaUVpOOFU2VnRnZ3A1cGd0UFByZExKMjVxTzVmM0lybDI2bGRoWTlxeGhEajJxNmlOWHVJdld3clpmQUhvWC1YVDRYMnJQc0NGNFVrQjQzRjdFWjhFc1puQk85dExsNk44NmVRcWc?oc=5",
-      "pub_date": 1764660669.0,
-      "article_url": "https://www.coindesk.com/tech/2025/12/02/ethereum-devs-push-zk-secret-santa-system-toward-deployment",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/b88d3548e2bf6ce1a9780df7e901bda3d36597f8-1920x1080.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The proposed protocol uses zero-knowledge proofs to verify sender\u2013receiver relationships without revealing identities."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T06:41:29.313925+00:00"
+  "fetched_at": "2025-12-03T07:30:42.085535+00:00"
 }

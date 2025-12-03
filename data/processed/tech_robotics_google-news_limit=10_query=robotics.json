@@ -25,6 +25,16 @@
       "description": "Swan EndoSurgical announced today that it has appointed longtime Stryker robotics leader Erik Todd as its CEO."
     },
     {
+      "headline": "Vision-native AI opportunities: a precursor to intelligent robotics",
+      "source": "Bessemer Venture Partners",
+      "source_url": "https://www.bvp.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzFVRjdYd0R3Y2ViWlVrNnliektsOVZaWVFWNmZuM2oyWFMwMFBzUjJmYWxzVVRlRWdlU19wX1pIMzRBVnIwNlZhaFZ5MFYzalVydzRjRFpiZ0M5dlViZlZ2NENsSTBOS2M1X3pHX3ZnNHEzZ1IxbWNrMTZTV1ZWRHhVa0hvQi1sd1NSY2lNcFZXWHZsRVpr?oc=5",
+      "pub_date": 1764695182.0,
+      "article_url": "https://www.bvp.com/atlas/vision-native-ai-opportunities-a-precursor-to-intelligent-robotics",
+      "image": "https://www.bvp.com/assets/uploads/2025/12/ATLAS_Vision-Native-AI_1600x900_final-min.png",
+      "description": "As AI advances into the real world of robotics and automation, we\u2019re seeing a turning point for physical AI \u2014 1X\u2019s NEO Home Robot can now adapt to new environments in real-time, Physical Intelligence\u2019s Pi0 became the first robot to fold laundry with human-level dexterity straight from a hamper, and Tesla\u2019s Optimus is performing complex [\u2026]"
+    },
+    {
       "headline": "Top 10 robotics developments of November 2025",
       "source": "The Robot Report",
       "source_url": "https://www.therobotreport.com",
@@ -45,16 +55,6 @@
       "description": "Seven Chinese universities plan to launch an \"embodied intelligence\" major as Beijing races to build a pipeline of robotics and AI talent."
     },
     {
-      "headline": "Robotics \u2018changing the nature of what people are doing.\u2019 Amazon Robotics chief on new AI tech in warehouses.",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTJJSmNPMEc2WEhkR3gzcGRzSkFFQXZiY1Q0d0t0dktsbGozZUZxckxWVWhFUGtPQWpUS1FhZXlrOXdFLWx4TlotajRqOHp5cFp0LU9VX01GRmsxVF9ZWHZxNzVaVDJZZ1c0NXROSUpGa3dXYVFxWjRPU2FfNDU5d0pR?oc=5",
-      "pub_date": 1764599932.0,
-      "article_url": "https://www.cnn.com/2025/12/01/world/video/amazon-robotics-change-warehouses",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22160871-1875959-3660000002-still.jpg?c=16x9&q=w_800,c_fill",
-      "description": "CNN News Central\u2019s Sara Sidner speaks with Amazon Robotics VP about technology driving Amazon\u2019s holiday rush"
-    },
-    {
       "headline": "Does Serve Robotics' Vayu Acquisition Advance Autonomy and Efficiency?",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -65,34 +65,34 @@
       "description": "SERV's Vayu acquisition sharpens its autonomy roadmap, boosting AI capabilities, operational efficiency and long-term delivery leadership."
     },
     {
-      "headline": "Vision-native AI opportunities: a precursor to intelligent robotics",
-      "source": "Bessemer Venture Partners",
-      "source_url": "https://www.bvp.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzFVRjdYd0R3Y2ViWlVrNnliektsOVZaWVFWNmZuM2oyWFMwMFBzUjJmYWxzVVRlRWdlU19wX1pIMzRBVnIwNlZhaFZ5MFYzalVydzRjRFpiZ0M5dlViZlZ2NENsSTBOS2M1X3pHX3ZnNHEzZ1IxbWNrMTZTV1ZWRHhVa0hvQi1sd1NSY2lNcFZXWHZsRVpr?oc=5",
-      "pub_date": 1764695182.0,
-      "article_url": "https://www.bvp.com/atlas/vision-native-ai-opportunities-a-precursor-to-intelligent-robotics",
-      "image": "https://www.bvp.com/assets/uploads/2025/12/ATLAS_Vision-Native-AI_1600x900_final-min.png",
-      "description": "As AI advances into the real world of robotics and automation, we\u2019re seeing a turning point for physical AI \u2014 1X\u2019s NEO Home Robot can now adapt to new environments in real-time, Physical Intelligence\u2019s Pi0 became the first robot to fold laundry with human-level dexterity straight from a hamper, and Tesla\u2019s Optimus is performing complex [\u2026]"
+      "headline": "Robotics \u2018changing the nature of what people are doing.\u2019 Amazon Robotics chief on new AI tech in warehouses.",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbTJJSmNPMEc2WEhkR3gzcGRzSkFFQXZiY1Q0d0t0dktsbGozZUZxckxWVWhFUGtPQWpUS1FhZXlrOXdFLWx4TlotajRqOHp5cFp0LU9VX01GRmsxVF9ZWHZxNzVaVDJZZ1c0NXROSUpGa3dXYVFxWjRPU2FfNDU5d0pR?oc=5",
+      "pub_date": 1764599932.0,
+      "article_url": "https://www.cnn.com/2025/12/01/world/video/amazon-robotics-change-warehouses",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/still-22160871-1875959-3660000002-still.jpg?c=16x9&q=w_800,c_fill",
+      "description": "CNN News Central\u2019s Sara Sidner speaks with Amazon Robotics VP about technology driving Amazon\u2019s holiday rush"
     },
     {
-      "headline": "Humanoid robots will take over factory jobs within 5 years, Xiaomi CEO says",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1lWbWxGazduU0NwcUZucmN0MFN4YW9rZHNMSlpLOElYd2xHcjV2bkl6bkV0NUxxRUh0NGdKZTlCeTVRVVkyY3RfUVV6MlNoSnpWalotZnNSVFdBZVhhcG8ySzdYOTQwQnFuTzhiOTh5VG1uTWhySHBPbzB5cUdwWTI2RG1tYTVWcFJYZExxNmJQV0U?oc=5",
-      "pub_date": 1764581760.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robots-set-to-run-smart-factories",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/IE-Photo-59.jpg",
-      "description": "Xiaomi CEO Lei Jun says artificial intelligence will overhaul traditional industries within five years as humanoid robots move into core factory roles."
+      "headline": "Doubts on China\u2019s robotics strength a result of lacking \u2018understanding on manufacturing capabilities,\u2019 Chinese firm responds to US peer\u2019s fake video claim",
+      "source": "Global Times",
+      "source_url": "https://www.globaltimes.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MaFE1UTdJdlJWV3ZkS1RqcUwzZ3cyZ01vNU9Sd0xadmd5dEdxU2laTFZYNFhEb0hpcGgyOFNfa3V2R0lSX25lNVNmZkJhNmpIRnZiMUFmV0RmRy1MTXJsRHRn?oc=5",
+      "pub_date": 1764497820.0,
+      "article_url": "https://www.globaltimes.cn/page/202511/1349396.shtml",
+      "image": "https://www.globaltimes.cn/Portals/0/attachment/2025/2025-11-28/f9f2e23a-4fd7-459b-acb2-afe3beee75b8.jpeg",
+      "description": "A Chinese robotics company recently released a video depicting its production and delivery of full-size industrial humanoid robots, the video, with a futurist view similar to scenes displayed in sci-fi movie"
     },
     {
-      "headline": "Renesas, Sumitomo Heavy join Japan team building humanoid robots",
-      "source": "Nikkei Asia",
-      "source_url": "https://asia.nikkei.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzgwaHJ1a2NJdXRJRl9OeEZjaVp4M0RCMko5dUhUMTNTZlViam5VNGYyME0zTlliZlJ5NkwyOW5CUDVweWc4MUxscm9GeHpWQWdyZDN2ekhjdmFpbDFzajF0b1pUMjdDSmhGVU91c2E5amZQMEdEbFBfUkZDcEJtcWttclI3V01CMHNMRldQOWdRRTg4RVhFbExsb19UU1poZC02TV91aWYzemc?oc=5",
-      "pub_date": 1764707940.0,
-      "article_url": "https://asia.nikkei.com/business/technology/renesas-sumitomo-heavy-join-japan-team-building-humanoid-robots",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F8%2F6%2F1%2F11771686-1-eng-GB%2Fc61d4d73bf29-2025-02-28T010558Z_504169885_RC21WCA0MWCD_RTRMADP_3_ASIA-POPULATION-JAPAN-ROBOTS.JPG?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
-      "description": "Project targets mass production by 2027 as Japan lags China and US"
+      "headline": "China Is Officially Scared of Robots",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPak1relpvWGRILXFhcU54QVNIbkQwRnQyYXFpRWtfNVNFTG9VV3RjZGo2Z1RRakNWSWVJRnR5T2FfcUw1TDVraklqLV8xR19acVRZMkhRR1RjNFJoc05TMXhZYWtCTTJoT2RQbDVjT1NjZDR6SWstWGpEcWI5Q0pIZ21R?oc=5",
+      "pub_date": 1764623460.0,
+      "article_url": "https://finance.yahoo.com/news/china-officially-scared-robots-211100896.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/16SYD2DsWgV0b05hzq8trA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzA-/https://media.zenfs.com/en/futurism_981/63e0a38248c0ab35d4f450123ce5d723",
+      "description": "It's just way too much."
     },
     {
       "headline": "'First robotics war': Defense Ministry shows how robotic systems used in Israel-Hamas War",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T06:41:33.223519+00:00"
+  "fetched_at": "2025-12-03T07:30:46.546473+00:00"
 }

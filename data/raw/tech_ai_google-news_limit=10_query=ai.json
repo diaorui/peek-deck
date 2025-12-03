@@ -5,22 +5,22 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "AWS unveils frontier agents, a new class of AI agents that work as an extension of your software development team",
+      "headline": "Amazon introduces new frontier Nova models, a pioneering Nova Forge service for organizations to build their own models, and Nova Act for building agents",
       "source": "About Amazon",
       "source_url": "https://www.aboutamazon.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRnMtZDFfUTgxYllfVHhUcHJoNlUxVzBCVnd5SW9ySG95dEd2QjBaeW50a3Z3Rjk3TnFLMDFNaGdRQUxXX0FMSkVGQzY1WXVkOGZHdjNfclFMdkU0WC1XTWxUN0xtU012N2VxRXY3SC1acmtwYlRGWXAyVC1rVk1EUUl3Slo?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnV5Y2I1Ykk3bW9rNUh6dUwtU09nMXFuWU5SenFvc0hZQ2RIZEFIYXEwWVgyTGl1b3BqNm8tdHpaWWw3bkw1Sm11REhrVXZxV1dMQnB0dDMzX3NXSGNPSHkxcVQ0ZVdaZE1ZbWdOQWJPS01PMFc1X2xidnB2dXMyWldjZjk?oc=5",
       "pub_date": 1764691197.0,
-      "article_url": "https://www.aboutamazon.com/news/aws/amazon-ai-frontier-agents-autonomous-kiro",
-      "image": "https://assets.aboutamazon.com/dims4/default/2cb6e15/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Ff0%2Fc7%2Fe0cff167432b9d05bbd70532d0de%2Faa-frontier-agents-riv-hero-2.jpg",
-      "description": "The first three frontier agents revolutionize how you build, secure, and operate software"
+      "article_url": "https://www.aboutamazon.com/news/aws/aws-agentic-ai-amazon-bedrock-nova-models",
+      "image": "https://assets.aboutamazon.com/dims4/default/61b7a71/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F95%2Fdc%2Fc004987040dcafbd49d49a6e5bbc%2Fabout-amazon-hero-nova-forge-hero1-2000x1125.jpg",
+      "description": "Key takeaways"
     },
     {
       "headline": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQenF0REljYzNGYUxLTHp6RXVCVUtack5jZ3JXS0VGd1l6MV9hRC1nd1NNOHZvQ1gxeXlIRWt4WHNtWmdrdm5rUWxsQklpdzJoVzBId0RYQnZNbm43ZVNiVDlURjQtRm5zQlNfYWhmNEx6aDh0eHdRUmVsdG9lTWNIc3lEN3JIdnoyY0RQOXlFQ1F4eTRxLWMwSGJCN25YVTRZZHByc3VqZDlPZXNmYVNHaTJ3a0V1eVVIdURaQ19yeDlkZTVpdDNPRDhLd2hUMDFqc1UxNGtuUmFZc1VFNEhydDdmY2h5Tlc0MmdnTUxRMkN1X3NmSnNwc3ZLX2FVZmlnTjA2YjBXd2hDdGtZUWRHcGVJYlE4d2tZRzJmOHpnT0EtVWVtWl84b3FxMXUxWnRybUdhVmZJY0tXVlp2TkdaRGZGSFV4VGNuNDN2bDE4NDgteWs3dTJVeUo3ZXFNQ0ZqeGwtUDJLMmo4eVpxemVWd1dMS3RZd190R1J2M3otRmFsMDN2Wk9lcF9zUFNqWVUxNzBIYXJZWU9rQWQydTZ0WXB2bFFFaGx2OXAyZDdyQWtQUFpKMXdDVVVqbXQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNYzBkd1VtQWhSQVlzM2FmbXV1VTU5R1dyaV92WmkxMnVldHNUYnZwMllocHU3RGp2SC1hVFl3WjFDZUY0ZG50RktxdkpSd2RnMGlDd1ZJUzRkMlljanZHREFTRnh3dl9EZ1B4OF9COUdDVVhTSE9VM2hScUppYVFuVDZYOWpqc2VaWmQ3YmpwdVFSdGN5enRoTjJrc1J1bFpKRjJ6NWNxYjZTaVU4bDZwNkV2cVFUc2VYbldIaFFmWjh5Zmt5am1HZndDUENHRTBqTGdFTTBpVGUyejVHeUN5UUhJNGVGTlNDeldNQlFidlBJbWZtVmJ1cHlMWkdFdTExUk14UHQ5VHRlVjVxRzNFejJEeWw5amFhd0dGbzFvMFlJbXR2cEVpUzRfX2FOQVVIS0hlR2ZYU2xYRlVLSkV2YUNya0J3d3VZX3NMV3ZBQmVnU3Zack1WRWIyeGd4Mzk4ajAwS3VBdFQtODJ1TDFTaGFUVklWLXpQckdocWNobEI4Mm9WZkI3WDRDanhHeVBJUzc4UnFiODFKNklMOXpfZDYwZ3JaeFhXOS10a1FudnJVWFlyaTBIQ0pJa1k?oc=5",
       "pub_date": 1764656820.0,
-      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqdgvWBtk1E9OI0EQR80YE_FEek9FRc1Zk03yv3O06k2MNghIWqV5a2u&gaa_ts=692fdf0b&gaa_sig=rgFmw5BTNJKpfReocQSolJBdaQPrtiz5YjvhXzTmanGa7yYT9c-Rtaka6MwUW8LXnTQXuj4ZwS_vLqpvTuy16w%3D%3D",
+      "article_url": "https://www.wsj.com/tech/ai/openais-altman-declares-code-red-to-improve-chatgpt-as-google-threatens-ai-lead-7faf5ea6?gaa_at=eafs&gaa_n=AWEtsqcZRvYDlrVxGklRHriXcBRhr66u_AuEelvAxqprtd-uszm_e3SpyfDI&gaa_ts=692fea93&gaa_sig=CDBCUuA70tl_imouVWh2UNrZ5rznAZ-W6Goo5p6xwGGTEHrP9AI1H5FCXWwt0v0SyxnJ0TbLoFDX3ikan0f2rw%3D%3D",
       "image": null,
       "description": null
     },
@@ -45,34 +45,44 @@
       "description": "Google\u2019s own \u2018code red\u2019 response to ChatGPT has started paying off."
     },
     {
-      "headline": "Start-ups promise to help vibe coders catch the AI bugs",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5OFkxbndyanladTlwYkp1aHRDR0d2Mll1TXc3azNoMDFaSXpJaFNPUmNDMjU2VHNCQ24ybVpral91Z2JBaGEzS2xHUkZsbF9kbFFLTzIyZHZIRWVJN3hET0tLamlxY2pTc1UtdUVfZjE?oc=5",
-      "pub_date": 1764738058.0,
-      "article_url": "https://www.ft.com/content/613bf123-b99a-4d18-b6d8-1ab453a8f2c6",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feab9bdf9-7fcb-449b-9e00-58c8133f9964.jpg?source=next-barrier-page",
-      "description": "Trading firm Jane Street leads $105mn investment in testing group Antithesis as AI-generated software proliferates"
+      "headline": "Anti-immigrant material among AI-generated content getting billions of views on TikTok",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVUJTVUFRSVJ2MmxhOTlXZWp5MkZKZWlBM2ZJYXd3dzVtRjVBM1pSeWczZ21OLWZsS0U5X3pxcXl0eEVPZ2JnczFCNTZKcEhaQUduem8tVk05U0U2TTVFdDJUZzBrNjk5dG5kaXZIUExQS1dPVzFoRWppOGVOQWZadkVKeTZnUlhXVk5RcXhlRzVrWUZYSlozNXl4d0dtdWFBTmV5TmYyeVdWMGstX0xYWmhIRGhhT2JnODlPVDE1LWVicnBCZzZ2Tnk0R1lyVFMtTWJN?oc=5",
+      "pub_date": 1764741600.0,
+      "article_url": "https://www.theguardian.com/technology/2025/dec/03/anti-immigrant-material-among-ai-generated-content-getting-billions-of-views-on-tiktok",
+      "image": "https://i.guim.co.uk/img/media/c26191b2e18591b811f9deee523fc9f25b68ccd8/408_681_1679_1343/master/1679.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06ae146bab9ebd11dda9cd0b0ea9f531",
+      "description": "Researchers uncovered 354 AI-focused accounts that had accumulated 4.5bn views in a month"
     },
     {
-      "headline": "Anthropic Studied Its Own Engineers to See How AI Is Changing Work",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPek9JenExT0p0YWdwa05aZDV2Y0QzUV81bW1YeWRHOU1OY1J5aFpnSlF0U3FlQTZXd3QyRXVkWnR6aGI4WmkyY1RTQnpLNzk1WjVqOTVHamt0NUpyY015anowdnJWRUVzX0pqR2ZwQkl2aUpveUVYTUV2U1BPcHZwcEVfYU1uR1dJNTN2bWprazFUNlA5b0ZTZTdMc1QzUzN0?oc=5",
-      "pub_date": 1764739380.0,
-      "article_url": "https://www.businessinsider.com/anthropic-studied-own-engineers-for-how-ai-is-changing-work-2025-12",
-      "image": "https://i.insider.com/6925aedc89026fbb4d0e582b?width=1200&format=jpeg",
-      "description": "Anthropic employees said they feel more productive but are worried about skill atrophy, changing social dynamics, and other issues."
+      "headline": "Healthify upgrades its AI assistant Ria with real-time conversation capabilities",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOTB1QXR2eVZoZkQ2TkJUUnJRTE5RUVJYMS1aOXltYWVrdm42bDF2ak5WaVNyN3RTZDVod1FRTkpRMVVnWUEyWTh6QkRFSkY3Tmd4RWppODNIeUs3Mm5KNnowWVBzbzdKQy1ad3diLTZFM2tNbU8tV1ZGYUUwMm1XV2hHeVJlWVBKXzJyYjlpdXMtVm9uRUZHZzlPLS1pRVlZc0QtaEtRbDFtZlZqTjVldzFycHlFZw?oc=5",
+      "pub_date": 1764745200.0,
+      "article_url": "https://techcrunch.com/2025/12/02/healthify-upgrades-its-ai-assistant-ria-with-real-time-conversation-capabilities/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/1.-16x9-Primary-Banner.jpeg?resize=1200,675",
+      "description": "Healtify is adding live conversation capabilities to its AI assistant, powered by OpenAI's realtime APIs"
     },
     {
-      "headline": "Svedka\u2019s First Super Bowl Ad Will Be Made Primarily With AI",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOeENpc0NnSzlZRGxoNTdETVlJRV9scWhLWXlkQm9uSDBBM0lyT0NMdXRUVF9NRVJZbW4zNC1abVBHVmZMRWdJazU1UW8xSzk3Tmh4bDRJM1NmY2FYajljYlBDS0VhNGVXYWllejdnNGxRcENyMldxQTFnVm5EWEFOS2tCT3FIMng0UWQtbmZDMWkxUjU3NWxzRUlRZmtHZnJaM19LZ292WE5SaTd0UFhLWWthWHA2X0FranRVNldlU3lzNzVkenBjQjlXQ1BCY3BhTXI5VTFiYU5sX0puZ0dyb0J4SjR4N29EcVBWdVhqX0VLUkNJbWdrYkJzZ1hyck5ZMC1jNHRDdGFyOXpGeUJ0ZG83R2tUVm5FWEZTVzM5dGJLVXhsX29rSmpSeDdEMnRKRzN2UVdkLU9mV3EtMXY5RTlReVcxQS1iMnpGZkJaaHF6d2gtMF9wa1Vyd2ZQSG5xWE9WNS00X2RJU1VFN2JWMWNwblRrdFVXemhVUHRxSUYxWlRDNXR0Uk9GYThDOGE4eVg4bWJvaTRoU3FkNzYwUmVR?oc=5",
-      "pub_date": 1764738060.0,
-      "article_url": "https://www.wsj.com/articles/svedkas-first-super-bowl-ad-will-be-made-primarily-with-ai-c2662f5e?gaa_at=eafs&gaa_n=AWEtsqeCO_DjhrxpGaP7gQjmBu6HCoLYz_wMk5oUe2REcWObqf7wck0TbXnG&gaa_ts=692fdf0b&gaa_sig=xcbBWxqgHp93hfpL9TVYMCIac36N1ziPaXBJyKki17GyPbjhyy1V1lmzEe8H4sWvgDgNKcceuP2pRrpnyJ9u2w%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "Should AI Have Free Speech?",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ3dVcTVVRS1Za0xjb01IeXhpX3RQYWl2eVFlWjlTS25MczVTa3BQNWlpSXZkQ1VET0c1WXlUT1hxbEdka1NnR0FMMmRjUmJZY3VLbDlzdXNnTkJfeGk0eUtmeFl2M1d1X0UyOUh6elNJbkd4Zk83ZGs3Mk5TZFVHZXdWbDI4dw?oc=5",
+      "pub_date": 1764743404.0,
+      "article_url": "https://www.forbes.com/sites/bernardmarr/2025/12/03/should-ai-have-free-speech/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/692fd8b4e494443de0b76abf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "AI systems are already shaping what we see and believe, from politics to business. What it means for the future of free speech?"
+    },
+    {
+      "headline": "How AI Is Transforming Work at Anthropic",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFBSaEZtOG1ieHpOdldrNVJEeGRCMEtJVmpNU1hOMHVNV1NldWJ1T3RuQlhTZXpkckk2akpUWFhqbGtabXRURFJiNDR4aG9YUjhUSzFadkZaYUJPNElQcDR4SkU2bHIyQkg3VDdmMWZ0eFM5ak52MThpcklEdVNfVg?oc=5",
+      "pub_date": 1764703349.0,
+      "article_url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Keyboard&backgroundColor=cactus",
+      "description": "How AI Is Transforming Work at Anthropic"
     },
     {
       "headline": "The AI frenzy is driving a memory chip supply crisis",
@@ -85,26 +95,16 @@
       "description": null
     },
     {
-      "headline": "AI poses unprecedented threats. Congress must act now | Bernie Sanders",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbG41cklGVklNN0xadzNiMTJzbDVLdXBFUzVYVVBvcWN6c0Y5SGVlczlGSGlYNjFoYmw4TjNTMnM1NHg2ZXBnb3dudHI5N3BTNXJnTjEyOGJKQVYtTVpXTUlRQ0RJYjFpWXktQjNFY0U4RW8yTTZuUWUzT253TmdXOUdia0VodHRTWjlMVEVFc2M3SG0wSGx2Wjd3?oc=5",
-      "pub_date": 1764704220.0,
-      "article_url": "https://www.theguardian.com/commentisfree/2025/dec/02/artificial-intelligence-threats-congress",
-      "image": "https://i.guim.co.uk/img/media/d5f050a59b5a3faef404017bd9070cf6c1efdada/612_0_6839_5473/master/6839.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=9d70b028c0746b7c99348ec2d466b48e",
-      "description": "Despite the speed at which it is progressing, AI is getting far too little discussion in Congress, the media and within the general population. That has got to change"
-    },
-    {
-      "headline": "YouTube's new AI deepfake tracking tool is alarming experts and creators",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaU5XMEJBNGlJTXdONE5odDJ4Q1JjVEVlNDJrdUUzZFU0dThsVi1CWU1iTXZQSk1KX0t3cFRibExCTnlaSGRXX3JZdF9zMHdjcmhUd2V5Z0ZlSVFQa0NlWDNDSDFxMWkxeTVSczZxWXRpaVlkUTBhN3dqYktGSVdFQWNwRmdNUdIBiwFBVV95cUxQbTJnQkJ1Vi14dE1sbk1LVy1oblI3SEN3cmhrRWY5UGZ4VE9HcVUtckgwcDhRdEt5VzlLbWtPSXlQVGZlMTFZY3FsbC1rSjRFNjVrbGU0RmFDTFlmeGQwWk1MMXRwX3E0OWdORkVjRlJMMWZOSlgtc05PMlh6Q3oydTMycEhNbTZKby1V?oc=5",
-      "pub_date": 1764676801.0,
-      "article_url": "https://www.cnbc.com/2025/12/02/youtube-ai-biometric-data-creator-deepfake.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108231894-1764095127352-behind_the_scenes_2.JPEG?v=1764650315&w=1920&h=1080",
-      "description": "A YouTube tool that uses creators' biometrics to remove AI-generated videos also allows Google to train its AI models on that sensitive data, experts told CNBC."
+      "headline": "IBM CEO says there is 'no way' spending trillions on AI data centers will pay off at today's infrastructure costs",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTGRfbUV0U1k1YU1mRG5YR2ttQXh5M21VM3lSRFRjUlZvaW1CaEdka2VXaHdGWmdCbUV5dU5SeW9hOVQ4dnFuV0JUUFVQY1dtS2FXbnIyMUVmQjdRZWZHZjRnWGNUWTNEMk5JV2xPTlJwcTZqUmpERV91aDBUZHlXQW9FUzgwRktKT2N3OUIzRQ?oc=5",
+      "pub_date": 1764671400.0,
+      "article_url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
+      "image": "https://i.insider.com/692dc1a9abd5e944effbcd59?width=1200&format=jpeg",
+      "description": "IBM CEO Arvind Krishna walked through some napkin math on Big Tech's AI data center spending \u2014\u00a0and raised some doubts on if it'll prove profitable."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T06:41:38.143229+00:00"
+  "fetched_at": "2025-12-03T07:30:48.104575+00:00"
 }
