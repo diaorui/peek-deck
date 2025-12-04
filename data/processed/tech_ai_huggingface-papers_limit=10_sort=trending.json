@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.22699",
       "arxiv_url": "https://arxiv.org/abs/2511.22699",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22699.png",
-      "upvotes": 130,
+      "upvotes": 131,
       "num_comments": 2,
       "published_at": "2025-11-27T13:52:07.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
@@ -73,7 +73,7 @@
       "num_comments": 0,
       "published_at": "2024-10-08T04:00:12.000Z",
       "github_repo": "https://github.com/hkuds/lightrag",
-      "github_stars": 25295,
+      "github_stars": 25354,
       "project_page": null
     },
     {
@@ -88,7 +88,7 @@
       "hf_url": "https://huggingface.co/papers/2511.16719",
       "arxiv_url": "https://arxiv.org/abs/2511.16719",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16719.png",
-      "upvotes": 102,
+      "upvotes": 103,
       "num_comments": 4,
       "published_at": "2025-11-20T13:59:56.000Z",
       "github_repo": "https://github.com/facebookresearch/sam3",
@@ -107,7 +107,7 @@
       "hf_url": "https://huggingface.co/papers/2510.14528",
       "arxiv_url": "https://arxiv.org/abs/2510.14528",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2510.14528.png",
-      "upvotes": 101,
+      "upvotes": 102,
       "num_comments": 6,
       "published_at": "2025-10-16T06:18:48.000Z",
       "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
@@ -145,7 +145,7 @@
       "hf_url": "https://huggingface.co/papers/2508.03680",
       "arxiv_url": "https://arxiv.org/abs/2508.03680",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.03680.png",
-      "upvotes": 120,
+      "upvotes": 121,
       "num_comments": 6,
       "published_at": "2025-08-05T13:50:13.000Z",
       "github_repo": "https://github.com/microsoft/agent-lightning",
@@ -168,7 +168,7 @@
       "num_comments": 1,
       "published_at": "2025-10-26T01:49:38.000Z",
       "github_repo": "https://github.com/volcengine/verl/tree/main/recipe/fapo",
-      "github_stars": 17176,
+      "github_stars": 17206,
       "project_page": "https://fapo-rl.github.io/"
     },
     {
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-04T13:01:49.989972+00:00"
+  "fetched_at": "2025-12-04T14:32:00.370182+00:00"
 }

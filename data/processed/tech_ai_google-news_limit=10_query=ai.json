@@ -5,84 +5,54 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Microsoft stock sinks on report AI product sales are missing growth goals",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0V0RZZGFkbG9BYlJrd2tFeWV0U0ZDcXBYV21OUlpPWXliUlBKT0ZSclhtR3RVMmZGQmNQbGo4M0dpRTFMSXE1eWd1OUtCN29lWjFKMzd5ZXRjU1MzSHBlN21pcjk3WE5qU2hfaUE1Uzd1ZFFBWTlQVNIBfkFVX3lxTE54UmNkTWRBLUllLW9TdHB1dkJpN01SaGQ2S3pIelowZkd2MEx4RWJoLVZmYkVhZE5PNnBpRnRzamZsd3ZZZFJUazhjclJMRWxrQ3VwVVV2SnRpRDJDeW9NVXdyeENWc3cyMENOelNZZVZudVBYR3FGSUxGNjJJZw?oc=5",
-      "pub_date": 1764774216.0,
-      "article_url": "https://www.cnbc.com/2025/12/03/microsoft-stock-ai-foundry-sales.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108147619-1747681492573-gettyimages-2215431528-AFP_47CD63U.jpeg?v=1764772737&w=1920&h=1080",
-      "description": "Microsoft stock sank after a report that multiple sales teams for the company's Azure Foundry product missed growth goals in the last fiscal year."
-    },
-    {
-      "headline": "Microsoft dip creates latest excuse for investors to doubt AI trade",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81djQ4LXkxNGJIblBzb1ZfZ05MZUhraERKb21tblE5Ni12ekVTUUF5aFM2LUQ3NHBWUjhiNjlwLVhPY2tFRExpb1gtdU56Y3U1bzJIZVJNaEd5UG1TWGNUNklWWUc2ZDZqVDBCZlRrSQ?oc=5",
-      "pub_date": 1764849644.0,
-      "article_url": "https://www.axios.com/2025/12/04/ai-stocks-microsoft-investors",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Microsoft denies report of lowering targets for AI software sales growth",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQem5HdVNmWmZRT194Y0VsTkJQLURoU3lTaHVpZWYtWDlYZmpXOUs2d09WeUJCSGZvYy14MmNpN01BS2tPUkt1TW9FeFY1MC1kTFhxTWRrYjA1ZHZTNHd1M0YySUdfNzZoQm9jM1M4R1BTOGxuaVJSSWVPeFFqYndNUFV5Zk9JYk0?oc=5",
-      "pub_date": 1764771331.0,
-      "article_url": "https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/6f18ec98d8371aa28c130bea8170a867",
-      "description": "Multiple divisions at Microsoft have lowered sales growth targets for certain artificial intelligence products after many \u200bsales staff missed goals in the fiscal year that \u200cended in June, The Information reported on Wednesday.  It is rare for Microsoft to \u200clower quotas for specific products, the report said, citing two salespeople in the Azure cloud unit.  Lower sales growth goals for Microsoft's AI products are likely to fans fears about \u200breal-world adoption of AI as an MIT study from earlier \u200cthis year had found that only about 5% of AI projects advance beyond the pilot stage."
-    },
-    {
-      "headline": "Not a 'bubble,' but maybe an 'air pocket': Wall Street says it's time to reset the AI narrative",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQkY2OGxESjNHa29OcEVLbFlVRDlLbmhTdTZQRDAxRFYtUEdJczNSZ0FJMVp3MmxrTDU0U0RwRHJXajdzR1hvbTJ4Zk5pd1NxUGtrREZLVXBqTzAtYjFUOERTeVBaaXY3Qy1zV3hXRWlVN294eXByejB1eGlBUFdjd3BzVXlPWWlwakxPVFNBZmRxaXpST2FNVVVjOHlXT21EZF9sZWJqekY0UHN5MHZTb2pRUi1hVHhfeEczWXdBVS03T05zS1V5NEZJNjFJSnc?oc=5",
-      "pub_date": 1764829380.0,
-      "article_url": "https://finance.yahoo.com/news/not-a-bubble-but-maybe-an-air-pocket-wall-street-says-its-time-to-reset-the-ai-narrative-165125153.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/H0EaRfcf1kN6uqB8tlL_Hw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDI-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/770379a0-9589-11f0-be7e-d22d61f4aec0",
-      "description": "Two of Wall Street\u2019s biggest firms say the AI boom isn\u2019t a bubble, arguing real spending and earnings support the stock market rally even as near-term risks emerge."
-    },
-    {
-      "headline": "Harvey, a Maker of A.I. Legal Software, Raises $160 Million",
+      "headline": "As Hochul Considers an A.I. Bill, Its Sponsor Throws Her a Fund-Raiser",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kRmhvQy1qbUp2NkhrOWpIR2EyWjhWZnFOdnpHTk1MbV9lNHJwS3RKRVdpNGFLbkR1WGRQVXNXb2JlbFh0TXpJa3pMRFlxSDJYLTVkN0Q1TVpBd0J3dEFRZDI1UEoyZF9JM1dVNzZWZWE3WU1NQnNhcG9YeFIwZw?oc=5",
-      "pub_date": 1764853523.0,
-      "article_url": "https://www.nytimes.com/2025/12/04/business/dealbook/harvey-legal-ai.html",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpSEZadkZwTzhvaTJsTDhXOWxDVHo2X0YtTWk1XzV5cGNDUEFFMk1fYkJLR0pkNWE0U0lHSmJONURRS3R1SkhOOEhuMFFsQmwxVC0yZWhCTC12dlhBNHRIcmpadTlMQkY1SEUzdjVSZFpVbWgxLXBkRg?oc=5",
+      "pub_date": 1764854541.0,
+      "article_url": "https://www.nytimes.com/2025/12/04/nyregion/hochul-ai-bill-bores.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Gen Z wants more personalized responses from chatbots",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObElDWlQwT1ZIMWJwZWFjdm5ZdHYyWS1Vb0ZtWkNjNHpDUzVCTmROYkowb3g0b1ZrRVJieVJtQ0JNRVNmdEU4R2lEd0kxM1Ryb1FRX3JxUTRBMy1GWXRHTkdnNmlqY0ZBbGp2Z3ZqX1QxQTJGdVlJdzFfM1FnR3ZLUVliMzQ?oc=5",
-      "pub_date": 1764853222.0,
-      "article_url": "https://www.axios.com/2025/12/04/google-workspace-workers-want-personalized-ai",
+      "headline": "Blue Origin unveils space part made entirely by AI with the help of a little-known startup",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSFZVdHBYT25FSkRacjlkTkFyUXk5TVVSenZfUEJlWURSX3ZfLWFvT1lvSm9rX2Njc0dTeEhkdG1BVS1IWW9IcWh2X3R3VUhyd0pid3lhYmliSjFyaFNsbTdwOFRCMUxnSjZTSWUxUm1uRTVSZHM4TGoteFhtOFlkMlZLRUlKb3MwaDFSWWNR0gGTAUFVX3lxTE5nSkF0MjVrYTRWYzN5dWxkUGkyM0dEWnk4Zl9TNmhGZFVaQXRpWUh2REZ3V0pQb05uQTFKY21qTkFWRC1rX3FBMDdtUHNoaVpya2UxNUhNR2U1cGtOSkYzSFBrYmV1eFFRdHhhWnZlWGhyQ0JsRDh0SlgwSkQ4MDNFUUtkc3JqVWV0b2ZVel9FMlBfRQ?oc=5",
+      "pub_date": 1764797690.0,
+      "article_url": "https://www.cnbc.com/2025/12/03/istari-digital-ai-blue-origins-moon-dust-battery.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108043684-1728073333933-new-glenn-integrated-tank-test-roll-out-05.jpg?v=1728073387&w=1920&h=1080",
+      "description": "Istari Digital CEO Will Roper was assistant secretary of the Air Force under President Donald Trump's first term and worked with Space Force."
+    },
+    {
+      "headline": "We all pay the price for Amazon\u2019s AI push",
+      "source": "The Hill",
+      "source_url": "https://thehill.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkN2diVWdGX0R0bFFtWTJnVXVjdFM1RGZlNllKNGgxTjBXRC0tVkVUdVFIWnBHck0xUmFoTjA5b0QzUXNUR1poQzlDYm5QektZTktueFF3NF9oMUJuZFMtZFlMQk9qOVlNWUZZZC1yYWhGUk9ORXpNYy1JQWZ2Zw?oc=5",
+      "pub_date": 1764856800.0,
+      "article_url": "https://thehill.com/opinion/technology/5630482-big-tech-climate-dystopia/",
       "image": null,
       "description": null
     },
     {
-      "headline": "Google VP says the AI revolution is just a matter of time: It's a 'native part' of how Gen Z works",
+      "headline": "Yahoo is using AI to recap football games in real time",
+      "source": "The Verge",
+      "source_url": "https://www.theverge.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmlKMnloSHZ0N1pQeWlXcmh3V0tJUFU5MnZlSFh0VFpGRlMtUmhnMThQM2MyY3RVSXhYLXloWWwyWEFSaHJvZmtOWU10TVFqdnVwUVJZS3IwX0dGRERjYnowdS1zbzY0OU1zTjlyMWNUM0IzTEoxem1DbW9uLUx3anhtVTVjX2tDVHc4bzI3MFNTTmNf?oc=5",
+      "pub_date": 1764857116.0,
+      "article_url": "https://www.theverge.com/ai-artificial-intelligence/837950/yahoo-sports-game-breakdowns-ai",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Yahoo-Sports-Game-Breakdowns.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "description": "It\u2019s more than a normal box score"
+    },
+    {
+      "headline": "I built the first iPhone with Steve Jobs. The AI industry is at risk of repeating an early smartphone mistake",
       "source": "Fortune",
       "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcDVyUld5RFFyX1dBeDdZWmFjS0lDUFhPckt5d1dybWxVNkE5N2pQdUFVVTA0M3R5RFpEUmtKMkYyYTNjTFYzMkZabjFyd3lDQTVKbjZqbjRtQjdKMEZyLVIyYm91ZndxWmtBOE9wWlk4V2ZNTzVSTTdJYWtIajRSUml0aHNVR1FJeGtUQm1NR2Mwbmt0MFhoNnpsTGJZSDRwVnV5R05pcklSUERkZjBPa1FSRGREc3NvMFI0?oc=5",
-      "pub_date": 1764853200.0,
-      "article_url": "https://fortune.com/2025/12/04/ai-revolution-just-matter-of-time-gen-z-native-users-google-vp-workspace-yulie-kwon-kim/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-527878748-e1764797904726.jpg?resize=1200,600",
-      "description": "\"A lot of the Gen Zers are really using it in ways that are very native,\" says Yulie Kwon Kim, VP of Product at Google Workspace."
-    },
-    {
-      "headline": "Alphabet\u2019s AI Chips Are a Potential $900 Billion \u2018Secret Sauce\u2019",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHVMd3A4Snd1V01XTkhoM1ZsMl9Sbi1sVDJMUlJjck9jekoxOG95NkNCSGR4akZ5dzNhZzFhTl94bWx5YXF1ck5oMGpmNHlyLTg0ZjVUbjBwMXFzRzFHbHpCWml1dGV6U2VxOHVHLWhUQ2RSTHI5STM3UXl6QTRZZ2xCVjBpLTJDVWh1WDFNQ3JSOTBOazNram9PNUpoZk9kRFNWa05wRXFLb1Vyb2pLSw?oc=5",
-      "pub_date": 1764845298.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-04/alphabet-s-ai-chips-are-a-potential-900-billion-secret-sauce",
-      "image": null,
-      "description": null
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWFBFdEl5ZFRyM3pWMEF0czBWR3J4MkhUYVdlTEExVzd5T1N6NGkzRzA1S182S3p5Q1hmbXhXRVJHOUpxOHJVZWU5TGZ0anJ4SVJ1RV9oVDk4SFZMc0hlSUh2ZHJ1R2xpS2RXem5NbWU3bjdfVWNsVnl0ODFrUEk1SHNRVmtNdGwxYW5BVG5kdUFJRUtlY291eExR?oc=5",
+      "pub_date": 1764857100.0,
+      "article_url": "https://fortune.com/2025/12/04/i-built-smartphone-iphone-with-steve-jobs-ai-repeating-mistake/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/nest-founder-headshot.png?resize=1200,600",
+      "description": "When I was at Apple, we didn\u2019t just launch the smartphone era\u2014we built an ecosystem."
     },
     {
       "headline": "How AI Is Transforming Work at Anthropic",
@@ -95,16 +65,46 @@
       "description": "How AI Is Transforming Work at Anthropic"
     },
     {
-      "headline": "Nvidia servers speed up AI models from China's Moonshoot AI and others tenfold",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlZGeWtQd2wyblh4MjJKTElXSnpxd3FlT2dsUHg4YTRSQWF0SkFOTnJfUjFHeEtQZ0g1OXJkZ29wNmZHdXZWM0h0UE0xaXRoSXRzLWI4NFdxMHo3MFFHMk90cGZmZVFmbGZ1Q0hXX1FKWGF0Z2Q4SmlrVnByc3NjZkpkdnNCcU9mT1RoMjBsQjVoUXFMR0NyUlVMQzctZmhwVFhXbUlOMEhqSkg4MGNMZGhmdzdiZDg?oc=5",
-      "pub_date": 1764846418.0,
-      "article_url": "https://www.reuters.com/world/china/nvidia-servers-speed-up-ai-models-chinas-moonshoot-ai-others-tenfold-2025-12-03/",
+      "headline": "Alphabet\u2019s AI Chips Are a Potential $900 Billion \u2018Secret Sauce\u2019",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT0lJWEs5TXRqaTVZeDc1SXpNekM1UHJULTFhR3B2ckI2alIxMlowRVFpUTNQZk5lMUZwLUVsVXhNY0tDbXRtRlJkNlQ1RHpLYVVleDl6M2g0X01GaUFncWR2cm16VzJtYjRsclloZjB2eWJsdXhOMHIxQW1TSjVVQ2RkTQ?oc=5",
+      "pub_date": 1764845298.0,
+      "article_url": "https://finance.yahoo.com/news/alphabet-ai-chips-potential-900-104818985.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/xBn1DbqoZjRQC.L7OW30Yw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/7ff7a186e259c6ed59dd390e8792f3ce",
+      "description": "The success of Alphabet\u2019s tensor processing unit, or TPU, chips is a primary reason for the stock\u2019s 31% fourth-quarter rally, which is the tenth best performance in the S&P 500 Index.  The TPUs were always seen as a major strength internally, accelerating growth for the company\u2019s cloud-computing business."
+    },
+    {
+      "headline": "AI Pioneer LeCun Says Meta Won\u2019t Invest in \u2018World Model\u2019 Startup",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNak9wNjh1bnpHekUwc09aamI1a2QyLVRkS0s0WExxU3JNa2wtQ3R3cTRjaVNXc3FxcnIxTlp4U0VlLTZLS1MxV1VPSnRaMHVJWVV5SFJpZVR1aGo3cVhGVkdmZlF3eGhIRlJ2TVVGNE5yT1A0Q0ljc2xjQm8wdXBBTWg0SUFEMktBZFg0WE9CNmx4RDVLODFkUVktQkFPNE1qUDhkUHdwNTdFWHluUHFwQS1Raw?oc=5",
+      "pub_date": 1764851931.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-04/ai-pioneer-lecun-says-meta-won-t-invest-in-world-model-startup",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "EU launches antitrust probe into Meta over use of AI in WhatsApp",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdmNsV1NuRzB0WGtsMmRYS2JfWlhfdzZhMlZvUnZmTjVnYndHLXpxUEJZNGRtWlhIcnJLdTkwenBpUjctTE1wWFJqM2VrOEM4U3NTSzhtTkhYQVdYUTcwc3lfcG1NMjE2Z3JHYUZ2MllwZ1hiaXdUX09HUFNjZElKbGVSX1BPZmxVVC16aGdGcEkwaHU2ZGRsbEo3ZGlmQnB4Y05aejFkSkFDN1k1RGlnMGtkWDdCZDNuOHJ0aF9jcFU4TXcwR09oeXd5OHUzaDdmODZ6V2U4Mlh4ODg?oc=5",
+      "pub_date": 1764849775.0,
+      "article_url": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-launch-antitrust-probe-into-meta-over-use-ai-whatsapp-ft-reports-2025-12-04/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Meta faces Europe antitrust investigation over WhatsApp AI policy",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVEZZR19TYk9oYVJ5ZkhNQ2xxMTN5SWFwNVdFY0lubmM4M2ZIS1JBeDNha0hUOGNyYkh5ek10MnRwdXpNYjRybjlQUXlHUDNLMHRaLXgzZTI5Skx6alJJRkFUSllJMW5aeVFpV2JyWTFPd1MzV3g0NjZLOUlCSzdHb2Y0dENfQ0lDSUhfSXVTeTRoLXVVMXMtal9lS0s2OThoekxBRk5n0gGrAUFVX3lxTFBfV3RNeFNoVHRDbEthVmVydXdMNmdQWTh2aUgyZHI4LTc3dTg4OTlCVnpaQXYxdmc4YnZVT0V3Z0p6Zl9VVzVfS0M5TDFFS084Yk5iUjJ6U2dNVXpRYmJxSFI2VnVKOHFEaTZoeWx0a0NuNHM5bXZkMHd0SndxWXkwQVNqbUt1V3BLV0FBbGZfaXBxb2luaV9XdUdTWHJoVG9TUFQ0OGd3OTBNVQ?oc=5",
+      "pub_date": 1764843603.0,
+      "article_url": "https://www.cnbc.com/2025/12/04/meta-faces-europe-antitrust-investigation-over-whatsapp-ai-rollout.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108197774-17576213652025-09-11t200415z_955202248_rc2vpgaeanxv_rtrmadp_0_meta-results.jpeg?v=1757621403&w=1920&h=1080",
+      "description": "The European bloc has launched an antitrust investigation into the social media giant over its WhatsApp AI policy."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T13:46:01.844042+00:00"
+  "fetched_at": "2025-12-04T14:32:25.349638+00:00"
 }
