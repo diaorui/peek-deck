@@ -57,6 +57,17 @@
       "description": "Researchers uncovered 354 AI-focused accounts that had accumulated 4.5bn views in a month"
     },
     {
+      "title": "OpenAI loses fight to keep ChatGPT logs secret in copyright case",
+      "author": "msaussieandmrravana",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdxw5b/openai_loses_fight_to_keep_chatgpt_logs_secret_in/",
+      "published": 1764848537.0,
+      "thumbnail": null,
+      "external_url": "https://www.reuters.com/legal/government/openai-loses-fight-keep-chatgpt-logs-secret-copyright-case-2025-12-03/",
+      "site_name": "reuters.com",
+      "favicon": null,
+      "description": "AI stole all contents and code written by humans."
+    },
+    {
       "title": "Billionaires are building bunkers out of fear of societal collapse: \"I know a lot of AI CEOs who have cancelled all public appearances, especially in the wake of Charlie Kirk. They think there's gonna be a wave of anti-AI sentiment next year.\"",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1pd2j6h/billionaires_are_building_bunkers_out_of_fear_of/",
@@ -66,6 +77,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Full interview with Stability AI founder Emad Mostaque."
+    },
+    {
+      "title": "Grok is down today",
+      "author": "msaussieandmrravana",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdxsjq/grok_is_down_today/",
+      "published": 1764848208.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Getting this error: Grok is experiencing server related issues. We are working on restoring service as quickly as possible."
     },
     {
       "title": "Should AI feel?",
@@ -88,29 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Hey everyone, I am trying to implement an AI Agent in my work to automatically create a project plan. This usually takes a lot of time and I have to manually adapt the plan several times during a project. Obviously, once the agent is set I will have an efficiency boost. But my question ist how you could potentially measure an efficiency increase and how to academically prove this to scale it to different projects. The only 3 options to gain hard facts at the moment are: 1. Measure the total time that I spend with manual plan creation VS. The time that an Ai needs 2. the implementation time of an Ai agent (prompting, programming, api, data etc) 3. Create a cost-benefit-calculation with the information from 1 and 2 4. Use the calculation for scaling in other projects My question to you: Am I missing any option or would you generally measure efficiency gains with Ai agents in another way?"
-    },
-    {
-      "title": "Border troops getting replaced by robots",
-      "author": "msaussieandmrravana",
-      "url": "https://www.reddit.com/r/artificial/comments/1pczmey/border_troops_getting_replaced_by_robots/",
-      "published": 1764753558.0,
-      "thumbnail": "https://external-preview.redd.it/bHBvdXhhc2NpeTRnMT_RZvUTpuXUUHWTIg8M4yRuEpeAGpLY0kwZmsOSsO2r.png?width=640&crop=smart&auto=webp&s=2e6ed45e60eaecb784fb25cc111fceb82f850024",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "Built a small conversational AI experiment\u2026.unexpected user responses",
-      "author": "One-Ice7086",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdt3gj/built_a_small_conversational_ai/",
-      "published": 1764830472.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I made a simple conversational AI to test dialogue handling and shared it with a few people. What surprised me is how quickly they started having long, emotionally heavy conversations with it instead of just testing features. Is this kind of high-emotion engagement common with conversational agents? Curious if others building dialog systems have seen the same pattern."
     }
   ],
-  "fetched_at": "2025-12-04T11:16:49.167690+00:00"
+  "fetched_at": "2025-12-04T11:47:13.604194+00:00"
 }
