@@ -13,6 +13,17 @@
       "description": "\u201cIs this 2000? Are we in a bubble? No,\u201d BofA\u2019s strategy chief Savita Subramanian said. \u201cWill AI continue in unfettered leadership? No.\u201d"
     },
     {
+      "title": "Popular RAM brand Crucial axed, so its owners can focus on \"faster-growing segments\" like AI",
+      "author": "Tiny-Independent273",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdyaiz/popular_ram_brand_crucial_axed_so_its_owners_can/",
+      "published": 1764849844.0,
+      "thumbnail": "https://external-preview.redd.it/ouQdCwCVbHckpQ7eAiWKkfakSImuJ2bh4Cls5200cLM.jpeg?width=640&crop=smart&auto=webp&s=e00ad65819ba523a3d41beacf9017c3e6d25bb41",
+      "external_url": "https://www.pcguide.com/news/popular-ram-brand-crucial-axed-so-its-owners-can-focus-on-faster-growing-segments-like-ai/",
+      "site_name": "PC Guide",
+      "favicon": "https://www.pcguide.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
+      "description": "Micron has confirmed that it is exiting the Crucial consumer business so it can focus on what it calls \u201cfaster-growing segments.\""
+    },
+    {
       "title": "Microsoft's reported sales struggles are a warning that huge AI spending might take a while to pay off",
       "author": "businessinsider",
       "url": "https://www.reddit.com/r/artificial/comments/1pdb7ml/microsofts_reported_sales_struggles_are_a_warning/",
@@ -68,17 +79,6 @@
       "description": "AI stole all contents and code written by humans."
     },
     {
-      "title": "Billionaires are building bunkers out of fear of societal collapse: \"I know a lot of AI CEOs who have cancelled all public appearances, especially in the wake of Charlie Kirk. They think there's gonna be a wave of anti-AI sentiment next year.\"",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pd2j6h/billionaires_are_building_bunkers_out_of_fear_of/",
-      "published": 1764763960.0,
-      "thumbnail": "https://external-preview.redd.it/aXlnamJsZTlkejRnMcyi1Tg4bfuxFKJWkKxm1v1ZfXAnfUDVwMflnfREIbFI.png?width=640&crop=smart&auto=webp&s=b02601227356e889bcd3b0138243c410ad808cc8",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Full interview with Stability AI founder Emad Mostaque."
-    },
-    {
       "title": "Grok is down today",
       "author": "msaussieandmrravana",
       "url": "https://www.reddit.com/r/artificial/comments/1pdxsjq/grok_is_down_today/",
@@ -90,15 +90,15 @@
       "description": "Getting this error: Grok is experiencing server related issues. We are working on restoring service as quickly as possible."
     },
     {
-      "title": "Should AI feel?",
-      "author": "RikusLategan",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdx08w/should_ai_feel/",
-      "published": 1764845460.0,
-      "thumbnail": null,
+      "title": "Billionaires are building bunkers out of fear of societal collapse: \"I know a lot of AI CEOs who have cancelled all public appearances, especially in the wake of Charlie Kirk. They think there's gonna be a wave of anti-AI sentiment next year.\"",
+      "author": "MetaKnowing",
+      "url": "https://www.reddit.com/r/artificial/comments/1pd2j6h/billionaires_are_building_bunkers_out_of_fear_of/",
+      "published": 1764763960.0,
+      "thumbnail": "https://external-preview.redd.it/aXlnamJsZTlkejRnMcyi1Tg4bfuxFKJWkKxm1v1ZfXAnfUDVwMflnfREIbFI.png?width=640&crop=smart&auto=webp&s=b02601227356e889bcd3b0138243c410ad808cc8",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "After reading this study (https://arxiv.org/html/2508.10286v2), I started wondering about the differing opinions on what people accept as real versus emulated emotion in AI. What concrete milestones or architectures would convince you that AI emotions are more than mimicry? We talk a lot about how AI \u201cunderstands\u201d emotions, but that\u2019s mostly mimicry\u2014pattern-matching and polite responses. What would it take for AI to actually have emotions, and why should we care? Internal states: Not just detecting your mood\u2014AI would need its own affective states that persist and change decisions across contexts. Embodiment: Emotions are tied to bodily signals (stress, energy, pain). Simulated \u201cphysiology\u201d could create richer, non-scripted behavior. Memory: Emotions aren\u2019t isolated. AI needs long-term emotional associations to learn from experience. Ethical alignment: Emotions like \u201ccompassion\u201d or \u201cguilt\u201d could help AI prioritize human safety over pure optimization. The motivation: better care, safer decisions, and more human-centered collaboration. Critics say it\u2019s just mimicry. Supporters argue that if internal states reliably shape behavior, it\u2019s \u201creal enough\u201d to matter. Question: If we could build AI that truly felt, should we? Where do you draw the line between simulation and experience?"
+      "description": "Full interview with Stability AI founder Emad Mostaque."
     },
     {
       "title": "How to measure AI automation efficiency gains?",
@@ -112,5 +112,5 @@
       "description": "Hey everyone, I am trying to implement an AI Agent in my work to automatically create a project plan. This usually takes a lot of time and I have to manually adapt the plan several times during a project. Obviously, once the agent is set I will have an efficiency boost. But my question ist how you could potentially measure an efficiency increase and how to academically prove this to scale it to different projects. The only 3 options to gain hard facts at the moment are: 1. Measure the total time that I spend with manual plan creation VS. The time that an Ai needs 2. the implementation time of an Ai agent (prompting, programming, api, data etc) 3. Create a cost-benefit-calculation with the information from 1 and 2 4. Use the calculation for scaling in other projects My question to you: Am I missing any option or would you generally measure efficiency gains with Ai agents in another way?"
     }
   ],
-  "fetched_at": "2025-12-04T11:47:13.604194+00:00"
+  "fetched_at": "2025-12-04T13:01:51.577425+00:00"
 }

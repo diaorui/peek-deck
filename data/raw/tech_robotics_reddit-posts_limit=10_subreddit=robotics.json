@@ -2,6 +2,17 @@
   "subreddit": "robotics",
   "posts": [
     {
+      "title": "Snake oil or basic hydraulics?",
+      "author": "Narasimhan_Balaji",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdvtrs/snake_oil_or_basic_hydraulics/",
+      "published": 1764840975.0,
+      "thumbnail": "https://external-preview.redd.it/c2l3Zmp5d3hwNTVnMQx2qOEkCcs55ppPA3hWRZ9b_PEFTZobXdS-GCoL6cnC.png?width=640&crop=smart&auto=webp&s=95e99dc04b0aec91f76fafd433aaed342789a23c",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "How is this even possible without a motor or hydraulics as the post claims? I can clearly see the hydraulic hoses on the upper part of the exo skeleton. While the lower part is just plain addition without any active peripherals. Is this just plain manually powered hydraulics + some servo motors? or some new tech?!"
+    },
+    {
       "title": "Optimus: Next-Generation Highly Flexible Hand",
       "author": "AlbatrossHummingbird",
       "url": "https://www.reddit.com/r/robotics/comments/1pde8o5/optimus_nextgeneration_highly_flexible_hand/",
@@ -24,15 +35,15 @@
       "description": "Videoshows a driverless Waymo entering a police felony stop perimeter in Downtown LA. The Incident: The vehicle navigated just a few feet from officers during a tense standoff while a suspect was on the ground. The Failure: The planner technically worked (it didn't hit anyone) but it completely failed to read the room. It highlights that current AVs have zero concept of danger or social context beyond basic geometry. Outcome: Passengers were safe, but officers had to shout commands at a car that couldn't understand the urgency. Source : NBC News \ud83d\udd17: https://www.google.com/amp/s/www.nbcnews.com/news/amp/rcna246994"
     },
     {
-      "title": "Snake oil or basic hydraulics?",
-      "author": "Narasimhan_Balaji",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdvtrs/snake_oil_or_basic_hydraulics/",
-      "published": 1764840975.0,
-      "thumbnail": "https://external-preview.redd.it/c2l3Zmp5d3hwNTVnMQx2qOEkCcs55ppPA3hWRZ9b_PEFTZobXdS-GCoL6cnC.png?width=640&crop=smart&auto=webp&s=95e99dc04b0aec91f76fafd433aaed342789a23c",
+      "title": "A comparison of Figure 03, EngineAI T800, and Tesla Optimus running",
+      "author": "heart-aroni",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdy9mn/a_comparison_of_figure_03_engineai_t800_and_tesla/",
+      "published": 1764849765.0,
+      "thumbnail": "https://external-preview.redd.it/MzJ0MW50cGZnNjVnMeHfc8HEPZjy1jF6CEoikLt2YRP45U6zCVh8Ohy2O7jN.png?width=640&crop=smart&auto=webp&s=9d5b374f63f785bf03a43178fe6110a9e373d9ec",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "How is this even possible without a motor or hydraulics as the post claims? I can clearly see the hydraulic hoses on the upper part of the exo skeleton. While the lower part is just plain addition without any active peripherals. Is this just plain manually powered hydraulics + some servo motors? or some new tech?!"
+      "description": null
     },
     {
       "title": "Pi0 worked for a entire day",
@@ -68,17 +79,6 @@
       "description": "I\u2019m building an open\u2011source, web based simulator, and as a quick platform test I put together a simple pizza delivery game! Under the hood it runs browser\u2011side physics, basic path planning, and sensor mocking, so it\u2019s easy to extend into robot tasks. What do you think? !!!"
     },
     {
-      "title": "Unitree H2 (1.8m) humanoid robot boxing test shows full force impact and balance control",
-      "author": "BuildwithVignesh",
-      "url": "https://www.reddit.com/r/robotics/comments/1pd9avr/unitree_h2_18m_humanoid_robot_boxing_test_shows/",
-      "published": 1764780291.0,
-      "thumbnail": "https://external-preview.redd.it/MzhnMm1rM3VwMDVnMYc4-QeJkNLDnpzJh8OpQtUMhqj7iXJ0VSOwXmWEFOdE.png?width=640&crop=smart&auto=webp&s=81b593abfba0c4e0f92da519a713b58e458e4919",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Unitree Robotics: Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall reliability of the robot, please do not attempt to replicate this. Please use robots in a friendly manner. Source : YT(Unitree Robotics) \ud83d\udd17 : https://youtu.be/kjJeQZECPcQ?si=rsmZHVdMuBLagHHN"
-    },
-    {
       "title": "Another close up of Optimus new flexible hand",
       "author": "AlbatrossHummingbird",
       "url": "https://www.reddit.com/r/robotics/comments/1pdg7yo/another_close_up_of_optimus_new_flexible_hand/",
@@ -90,27 +90,27 @@
       "description": null
     },
     {
-      "title": "EngineAI T800 behind the scenes footage",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1pd24zj/engineai_t800_behind_the_scenes_footage/",
-      "published": 1764762692.0,
-      "thumbnail": "https://external-preview.redd.it/NDBlY3RjOHQ4ejRnMU5v6Me89HyCP120k0bbSksqn5ZwLC4Kxj0wApZX8OIn.png?width=640&crop=smart&auto=webp&s=cce533560cfc0f74e6a14682741c92eb52c55097",
+      "title": "Unitree H2 (1.8m) humanoid robot boxing test shows full force impact and balance control",
+      "author": "BuildwithVignesh",
+      "url": "https://www.reddit.com/r/robotics/comments/1pd9avr/unitree_h2_18m_humanoid_robot_boxing_test_shows/",
+      "published": 1764780291.0,
+      "thumbnail": "https://external-preview.redd.it/MzhnMm1rM3VwMDVnMYc4-QeJkNLDnpzJh8OpQtUMhqj7iXJ0VSOwXmWEFOdE.png?width=640&crop=smart&auto=webp&s=81b593abfba0c4e0f92da519a713b58e458e4919",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "From EngineAI on \ud835\udd4f: https://x.com/engineairobot/status/1996165785056919634?s=20"
+      "description": "Unitree Robotics: Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall reliability of the robot, please do not attempt to replicate this. Please use robots in a friendly manner. Source : YT(Unitree Robotics) \ud83d\udd17 : https://youtu.be/kjJeQZECPcQ?si=rsmZHVdMuBLagHHN"
     },
     {
-      "title": "Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:",
-      "author": "shadrack_CK",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdxo1t/here_is_an_apples_to_apples_comparison_video_of/",
-      "published": 1764847786.0,
-      "thumbnail": "https://external-preview.redd.it/ZXFyNnBrYWthNjVnMZic-YAL2FrbG_LahCho4nLawiVY0IxB1oL25EA8EEnf.png?width=640&crop=smart&auto=webp&s=a3f734b42d1aaff8fe44a188560a007b1b91ae2b",
+      "title": "FrodoBots are open-sourcing their Earth Rover platform with Hugging Face and SIGRobotics. Integrated hardware (electronics, software, 3D files) with LeRobotHF. 7,000 hours of driving data from 40+ cities, curated by UC Berkeley researchers",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdyxrf/frodobots_are_opensourcing_their_earth_rover/",
+      "published": 1764851866.0,
+      "thumbnail": "https://external-preview.redd.it/c3hsM3dqM3ZrNjVnMaS3elVkj0zTZvQ6WmPdQtW9RmL483_VaSiTUGjSckaC.png?width=640&crop=smart&auto=webp&s=3d96839915a00ed6b35dc7ebea58feddbad23dcd",
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": null
+      "description": "From FrodoBots on \ud835\udd4f: https://x.com/frodobots/status/1996263341392908448 Website: https://www.frodobots.ai/ Shop (EarthRover Mini+ $255): https://shop.frodobots.com/ Doc on Hugging Face: https://huggingface.co/docs/lerobot/earthrover_mini_plus Dataset curated with UCBerkeley researchers: https://huggingface.co/datasets/frodobots/Berkeley-FrodoBots-7K"
     }
   ],
-  "fetched_at": "2025-12-04T11:47:13.048247+00:00"
+  "fetched_at": "2025-12-04T13:01:55.421471+00:00"
 }

@@ -5,6 +5,20 @@
   "days": 7,
   "posts": [
     {
+      "title": "\u20bfOSS Challenge 2026 \u2013 Start Your Career in Bitcoin Open Source Software",
+      "url": "https://bosschallenge.xyz",
+      "hn_url": "https://news.ycombinator.com/item?id=46146551",
+      "author": "jrakibi",
+      "points": 5,
+      "num_comments": 1,
+      "created_at": "2025-12-04T11:49:45Z",
+      "object_id": "46146551",
+      "image": "https://bosschallenge.xyz/img/boss-challenge.png",
+      "description": "\u20bfOSS Challenge - start your career in bitcoin open source",
+      "favicon": "https://bosschallenge.xyz/favicon.ico",
+      "site_name": "bosschallenge.xyz"
+    },
+    {
       "title": "Bitcoin's Sky-High Prices Have Not Panned Out",
       "url": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
       "hn_url": "https://news.ycombinator.com/item?id=46132636",
@@ -103,7 +117,7 @@
       "site_name": "nytimes.com"
     }
   ],
-  "total_hits": 7,
+  "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2025-12-04T11:47:10.368433+00:00"
+  "fetched_at": "2025-12-04T13:01:52.769209+00:00"
 }
