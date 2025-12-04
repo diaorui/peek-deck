@@ -13,6 +13,17 @@
       "description": null
     },
     {
+      "title": "Marc Raibert on Why Robotics Needs More Transparency",
+      "author": "Responsible-Grass452",
+      "url": "https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/",
+      "published": 1764878463.0,
+      "thumbnail": "https://external-preview.redd.it/czZ0M2RhcXZrODVnMXDFs25VAGMQ7jD7P7IJtotqHhQXTfEBoVTtdkOU5sNG.png?width=640&crop=smart&auto=webp&s=1ce77a3ba16429df69e330a6878c87a7c4a26597",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin."
+    },
+    {
       "title": "A comparison of Figure 03, EngineAI T800, and Tesla Optimus running",
       "author": "heart-aroni",
       "url": "https://www.reddit.com/r/robotics/comments/1pdy9mn/a_comparison_of_figure_03_engineai_t800_and_tesla/",
@@ -33,17 +44,6 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Marc Raibert on Why Robotics Needs More Transparency",
-      "author": "Responsible-Grass452",
-      "url": "https://www.reddit.com/r/robotics/comments/1pea59d/marc_raibert_on_why_robotics_needs_more/",
-      "published": 1764878463.0,
-      "thumbnail": "https://external-preview.redd.it/czZ0M2RhcXZrODVnMXDFs25VAGMQ7jD7P7IJtotqHhQXTfEBoVTtdkOU5sNG.png?width=640&crop=smart&auto=webp&s=1ce77a3ba16429df69e330a6878c87a7c4a26597",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin."
     },
     {
       "title": "Optimus: Next-Generation Highly Flexible Hand",
@@ -112,5 +112,5 @@
       "description": "Hi everyone! At Hugging Face / LeRobot, one of our goals is to make strong, accessible VLA models available to the whole robotics community. Today we\u2019re excited to announce X-VLA in LeRobot, a new soft-prompted robot foundation model that can generalize across embodiments, sensors, and action spaces. We\u2019re releasing 6 checkpoints, including a pretrained base model and a cloth-folding checkpoint that hits 100% success for two straight hours. There is also an uncut 2-hour folding run powered entirely by X-VLA (video + checkpoints). You can check it out here: \ud83d\udc49 https://x.com/jadechoghari/status/1996639961366548597 If you want to try it yourself, you can fine-tune X-VLA on any dataset, with any action dimension, directly through LeRobot: https://huggingface.co/collections/lerobot/xvla Happy tinkering, and would love feedback from the community! \ud83e\uddf5\ud83e\udd16 Docs/Blog: https://huggingface.co/docs/lerobot/en/xvlaPaper from Tsinghua: https://arxiv.org/abs/2510.10274 https://preview.redd.it/fzhq2qd7b85g1.png?width=2282&format=png&auto=webp&s=51d9ae8f9481bd3f0537eda6b6e2ee1d29f1e76a"
     }
   ],
-  "fetched_at": "2025-12-04T20:56:20.991466+00:00"
+  "fetched_at": "2025-12-04T21:39:32.886037+00:00"
 }
