@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Tongyi-MAI/Z-Image-Turbo.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
       "downloads": 135731,
-      "likes": 2058,
+      "likes": 2059,
       "pipeline_tag": "text-to-image",
       "num_parameters": null,
       "last_modified": "2025-12-02T11:54:58.000Z",
@@ -24,7 +24,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V3.2.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/6538815d1bdb3c40db94fbfa/xMBly9PUMphrFVMxLX4kq.png",
       "downloads": 8690,
-      "likes": 705,
+      "likes": 706,
       "pipeline_tag": "text-generation",
       "num_parameters": "685.4B",
       "last_modified": "2025-12-01T11:04:59.000Z",
@@ -61,12 +61,12 @@
       "readme_content": "---\nlicense: apache-2.0\nlibrary_name: transformers\nbase_model:\n  - deepseek-ai/DeepSeek-Math-V2\n---\n\n<!-- markdownlint-disable first-line-h1 -->\n<!-- markdownlint-disable html -->\n<!-- markdownlint-disable no-duplicate-header -->\n\n<div align=\"center\">\n  <img src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true\" width=\"60%\" alt=\"DeepSeek-V3\" />\n</div>\n<hr>\n<div align=\"center\" style=\"line-height: 1;\">\n  <a href=\"https://www.deepseek.com/\"><img alt=\"Homepage\"\n    src=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/badge.svg?raw=true\"/></a>\n  <a href=\"https://chat.deepseek.com/\"><img alt=\"Chat\"\n    src=\"https://img.shields.io/badge/\ud83e\udd16%20Chat-DeepSeek%20V3-536af5?color=536af5&logoColor=white\"/></a>\n  <a href=\"https://huggingface.co/deepseek-ai\"><img alt=\"Hugging Face\"\n    src=\"https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DeepSeek%20AI-ffc107?color=ffc107&logoColor=white\"/></a>\n  <br>\n  <a href=\"https://discord.gg/Tc7c45Zzu5\"><img alt=\"Discord\"\n    src=\"https://img.shields.io/badge/Discord-DeepSeek%20AI-7289da?logo=discord&logoColor=white&color=7289da\"/></a>\n  <a href=\"https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/qr.jpeg?raw=true\"><img alt=\"Wechat\"\n    src=\"https://img.shields.io/badge/WeChat-DeepSeek%20AI-brightgreen?logo=wechat&logoColor=white\"/></a>\n  <a href=\"https://twitter.com/deepseek_ai\"><img alt=\"Twitter Follow\"\n    src=\"https://img.shields.io/badge/Twitter-deepseek_ai-white?logo=x&logoColor=white\"/></a>\n  <br>\n  <a href=\"LICENSE\" style=\"margin: 2px;\">\n    <img alt=\"License\" src=\"https://img.shields.io/badge/License-Apache 2.0-f5de53?&color=f5de53\" style=\"display: inline-block; vertical-align: middle;\"/>\n  </a>\n  <br>\n</div>\n\n# DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning\n\n## 1. Introduction\n\nLarge language models have made significant progress in mathematical reasoning, which serves as an important testbed for AI and could impact scientific research if further advanced.\nBy scaling reasoning with reinforcement learning that rewards correct final answers, LLMs have improved from poor performance to saturating quantitative reasoning competitions like AIME and HMMT in one year.\nHowever, this approach faces fundamental limitations.\nPursuing higher final answer accuracy doesn't address a key issue: correct answers don't guarantee correct reasoning.\nMoreover, many mathematical tasks like theorem proving require rigorous step-by-step derivation rather than numerical answers, making final answer rewards inapplicable.\nTo push the limits of deep reasoning, we believe it is necessary to verify the comprehensiveness and rigor of mathematical reasoning.\nSelf-verification is particularly important for scaling test-time compute, especially for open problems without known solutions.\nTowards self-verifiable mathematical reasoning, we investigate how to train an accurate and faithful LLM-based verifier for theorem proving.\nWe then train a proof generator using the verifier as the reward model, and incentivize the generator to identify and resolve as many issues as possible in their own proofs before finalizing them.\nTo maintain the generation-verification gap as the generator becomes stronger, we propose to scale verification compute to automatically label new hard-to-verify proofs, creating training data to further improve the verifier.\nOur resulting model, DeepSeekMath-V2, demonstrates strong theorem-proving capabilities, achieving gold-level scores on IMO 2025 and CMO 2024 and a near-perfect 118/120 on Putnam 2024 with scaled test-time compute.\nWhile much work remains, these results suggest that self-verifiable mathematical reasoning is a feasible research direction that may help develop more capable mathematical AI systems.\n\n## 2. Evaluation Results\n\nBelow are evaluation results on [IMO-ProofBench](https://github.com/google-deepmind/superhuman/tree/main/imobench) (developed by the DeepMind team behind DeepThink IMO-Gold) and recent mathematics competitions including IMO 2025, CMO 2024, and Putnam 2024.\n\n**IMO-ProofBench**\n\n<p align=\"center\">\n  <img width=\"100%\" src=\"https://raw.githubusercontent.com/deepseek-ai/DeepSeek-Math-V2/refs/heads/main/figures/IMO-ProofBench.png\">\n</p>\n\n\n---\n\n**Mathematics Competitions**\n\n<p align=\"center\">\n  <img width=41%\" src=\"https://raw.githubusercontent.com/deepseek-ai/DeepSeek-Math-V2/refs/heads/main/figures/Competitions.png\">\n</p>\n\n## 4. Quick Start\n\nDeepSeekMath-V2 is built on top of DeepSeek-V3.2-Exp-Base.\nFor inference support, please refer to [the DeepSeek-V3.2-Exp github repository](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp).\n\n## 6. License\nThis repository and the model weights are licensed under [the Apache License, Version 2.0 (Apache 2.0)](LICENSE).\n\n## 7. Citation\n\n```\n@misc{deepseek-math-v2,\n  author = {Zhihong Shao, Yuxiang Luo, Chengda Lu, Z.Z. Ren, Jiewen Hu, Tian Ye, Zhibin Gou, Shirong Ma, Xiaokang Zhang},\n  title = {DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning},\n  year = {2025},\n}\n```\n\n## 8. Contact\n\nIf you have any questions, please raise an issue or contact us at [service@deepseek.com](mailto:service@deepseek.com).\n"
     },
     {
-      "id": "nvidia/Orchestrator-8B",
+      "id": "nvidia/Nemotron-Orchestrator-8B",
       "author": "nvidia",
       "author_fullname": "NVIDIA",
-      "name": "Orchestrator-8B",
-      "url": "https://huggingface.co/nvidia/Orchestrator-8B",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/nvidia/Orchestrator-8B.png",
+      "name": "Nemotron-Orchestrator-8B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Orchestrator-8B",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/nvidia/Nemotron-Orchestrator-8B.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1613114437487-60262a8e0703121c822a80b6.png",
       "downloads": 2092,
       "likes": 308,
@@ -84,7 +84,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/black-forest-labs/FLUX.2-dev.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/633f7a8f4be90e06da248e0f/m5YoF33abJ09vcwFxt1Mj.png",
       "downloads": 188613,
-      "likes": 880,
+      "likes": 881,
       "pipeline_tag": "image-to-image",
       "num_parameters": null,
       "last_modified": "2025-11-27T11:17:09.000Z",
@@ -99,7 +99,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1650342890988-623c6253389748c9f72ca287.png",
       "downloads": 0,
-      "likes": 226,
+      "likes": 227,
       "pipeline_tag": null,
       "num_parameters": null,
       "last_modified": "2025-12-02T06:54:47.000Z",
@@ -114,7 +114,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Comfy-Org/z_image_turbo.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63462c815efccdc07f175568/3ZxGxVKftaTTjduryN7g7.png",
       "downloads": 1674013,
-      "likes": 353,
+      "likes": 354,
       "pipeline_tag": null,
       "num_parameters": null,
       "last_modified": "2025-11-27T04:15:24.000Z",
@@ -152,5 +152,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-12-04T20:22:17.160637+00:00"
+  "fetched_at": "2025-12-04T20:56:28.032417+00:00"
 }

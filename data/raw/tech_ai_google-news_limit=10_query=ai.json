@@ -5,6 +5,16 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "A.I. Deal Making Is Getting Faster and Faster",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TSjFLSXphajFfQzhFWnBHWXFRLUFuUXZJMTFHNGVLNml0XzhGaFVNM1RyOThqWWMzUjFKVDlYWDRfUEk3cXAxelB3RnM0OHQ2RktPeTZycDFZSE54aW1IR3M5LXhlVXBxaDRzc0w5aGVNYXllRVBINDlRRU4?oc=5",
+      "pub_date": 1764865810.0,
+      "article_url": "https://www.nytimes.com/2025/12/04/technology/ai-deal-making-faster.html",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "\u2018Godfather of AI\u2019 says Bill Gates and Elon Musk are right about the future of work\u2014but he predicts mass unemployment is on its way",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -15,32 +25,62 @@
       "description": "While tech leaders paint a positive future where work is optional thanks to AI, the \u2018Godfather of AI\u2019 Geoffrey Hinton warns they\u2019re \u201cbetting on AI replacing a lot of workers.\u201d"
     },
     {
+      "headline": "Prediction: In 5 Years, Many Artificial Intelligence (AI) Investors Will Regret Not Doing This",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPREJIc3g1TmExb0Rka1hveF9jWW5fX2UxSkl1OUJfcVR2WEtmVzcwOTFqTTFmWVNyc050bm9CMTlrQ0pDbmNnUWFsdUt5Uk5TRHI5aXNYSzJmZzNqRDZBa1ZBeEpIVXhkTDRsSXVIelNCVnd0MGM3UDRhRm1IQ3pIQTRVOXg4dmc?oc=5",
+      "pub_date": 1764880440.0,
+      "article_url": "https://finance.yahoo.com/news/prediction-5-years-many-artificial-203400739.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/7mSyD3dazkNYQ6U2Sww8QA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/103f64079931d085613857e1759125fa",
+      "description": "The CEO of one tech giant recently admitted that no company will be immune if the artificial intelligence (AI) bubble bursts."
+    },
+    {
+      "headline": "Alphabet\u2019s AI Chips Are a Potential $900 Billion \u2018Secret Sauce\u2019",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHVMd3A4Snd1V01XTkhoM1ZsMl9Sbi1sVDJMUlJjck9jekoxOG95NkNCSGR4akZ5dzNhZzFhTl94bWx5YXF1ck5oMGpmNHlyLTg0ZjVUbjBwMXFzRzFHbHpCWml1dGV6U2VxOHVHLWhUQ2RSTHI5STM3UXl6QTRZZ2xCVjBpLTJDVWh1WDFNQ3JSOTBOazNram9PNUpoZk9kRFNWa05wRXFLb1Vyb2pLSw?oc=5",
+      "pub_date": 1764860791.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-04/alphabet-s-ai-chips-are-a-potential-900-billion-secret-sauce",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Nvidia Stock Rises. CEO Jensen Huang Just Won the AI Chip Restriction Battle.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOUnhqOEJYNU13NXlLbTRJcEdTVmV3QmdmUmlySzlLZjZSNUNrV1c2ekdvMTAzTWtncWswZEludThnOTFCdU5Jek1jVDU0TURxdzgwWjh2aHI3aVZuMjNQVFd4bm9iUUxNOHU5S21yc1A5YldUb3g0MVNyY0lXWFZSeUVJN0Znd2NrYkpWdktBem16eXF6UlhOdS1fRVFha2hDclhaTVphd0xFTkMzZ3BOSlhkWkUtbVR0QUN6OC02a2FZaExaYXRSYktWbl82ZWhXOEQzcHc5Xy1scGVvUWZaT2JRcWNCdi1SRlBYeWlGeWZaT2VQR1Y2UEcySVBDZ1VndjZmd0xmNzR5NGZlWldna3J4LVJMMVdqREFzTDFqazlUYVN5U0NXVFNZbktEZjl1OUhKdzNIck1MOFN6WlRlb2NON2NyMHI2U1M5QzlVNWh5QWNGRFpwaVpfZFBXSEprdnFMT09fYkJfVFpDU1E5ODh5SEw4SEJGM1EtZVFPUm8ydWI1UFB3REtRWDdmbHNOeHh3REYtbjdIaFFWNFdTR0hhMktzajQ?oc=5",
+      "pub_date": 1764864960.0,
+      "article_url": "https://www.barrons.com/articles/nvidia-stock-price-jensen-huang-china-ai-chip-restrictions-85b95052?gaa_at=eafs&gaa_n=AWEtsqdCIig5W3F-6WAV8QskljuEw_XMFufGNSJTzgYXwazsdlOz90P48CMY&gaa_ts=6931f8f3&gaa_sig=ipzQpxXZs_7ImpjuIfekAXcECmakCjpJlsqB-CEJW7PROqjdw8I6CXFI8JitwqXYd-aAySgRixTozpnhgyJYig%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Senators unveil bill to keep Trump from easing curbs on AI chip sales to China",
+      "source": "South China Morning Post",
+      "source_url": "https://www.scmp.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSzN5RGx4Nkl4blhVWUFfOV96YkxYVjFOUzkxNDltSjZQbHFDbDFtaWJ0ZWxPdEF5OE5wSmZXald3aUJOT0hWX2ZzaHFoTDZ6TnlEVkt0NVRnTHV1QVhCU3dkRDgyYXNLMzRmaDl6OW1Kd1ZrZno3WGl0amZLcTFPQUticmlqUWppQ3U4NmxTRGZUQnBEclZwN2dfWkMzM3drUGxXTXNzZGFuaFNFS3RMdTZhbF9XbUZWd3NPMU51ZndjUGFtOV9OclNCZThxUdIBzgFBVV95cUxPeExCLWkxbnlvTkVKdTVTVktZRzdxTlVIb0k3TUE0Zm9DVjNZQ1EzNzljeUlpbHZBSXNzaTlOMjhJakJ1OGhOOEdIV1NhRjZSOXNTTFBiVG1QVmVVUkFDNEFCSC1meHhfekxtNlVyUDBUOERwUEhHUTBhN21lWWo4VDRlZkxELThzdGFsMjVVc1prNkNHb0dOVDFKZGt2UmJJcHRZUDNRblZWVzlqN0R4X2VJMWVsMk9hZjhEbHhDakFyLUphNERVZFRfM3NGZw?oc=5",
+      "pub_date": 1764881138.0,
+      "article_url": "https://www.scmp.com/news/world/united-states-canada/article/3335255/senators-unveil-bill-keep-trump-easing-curbs-ai-chip-sales-china",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2025/12/05/98fcb201-be91-41e8-8c15-c845bb312d25_10b7c155.jpg?itok=oupXkvxP&v=1764880564",
+      "description": "The SAFE CHIPS Act is a rare effort led in part by Trump\u2019s own party to stop him from further relaxing tech export restrictions on Beijing."
+    },
+    {
+      "headline": "Anthropic CEO weighs in on AI bubble talk and risk-taking among competitors",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ3ZvOGtUREdqbnU3WmxPRVVaSWRRUmxGelVIRlVMSGNXcjNLR1VfVEI5TFkyY2R4MFBRY2pyNmkxYWNKLVlpcm1PMGJoWjlkaDBwQmJwdk9JdmtNcWV4S0pQX2trYUgtX0w1UEM5S2hXejFVZkM2X0dNQ09EbVhBWnVPaUtYUEpwODExUEQtdkdITkVBYTZQR1ZPYzRZMUtmWDFyTkdPUkpoaU9JeHVr?oc=5",
+      "pub_date": 1764879779.0,
+      "article_url": "https://techcrunch.com/2025/12/04/anthropic-ceo-weighs-in-on-ai-bubble-talk-and-risk-taking-among-competitors/",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/amodei-at-dealbook-2025.png?resize=1200,675",
+      "description": "Anthropic's CEO shared his thoughts on the economics of AI and the risk-taking of competitors, saying some were \"YOLO-ing\" with regard to spending."
+    },
+    {
       "headline": "How AI is rewiring childhood",
       "source": "The Economist",
       "source_url": "https://www.economist.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEODhlSTI5VGZ6amg1clNjeDRwTWQ3RDFXWGFtWW9DYXlNRGN3b25UdE0xSko2aktmRWJqSTY2SzlQM1ZBY2RpMWpObkhzZTdHMkVwVjRuazVmQjJ0ZjNyOXdBLVJIRGlxeG1jWUhyS3AwX3B4ekJkdFpER0YxQQ?oc=5",
       "pub_date": 1764847921.0,
       "article_url": "https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Delayed PCE inflation report, AI boom could shape 2026 economy, says experts",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBadGdPTFRNY1pRaXlaUGd1STFieTFaTlhycE1rOE5CTzl1S3VGMmExdG5JaTYxbHlVc0FFUDIwejczT25OaXQxUTE0bjJoV1RiancxUllaaEc1NUU?oc=5",
-      "pub_date": 1764877829.0,
-      "article_url": "https://www.foxbusiness.com/video/6385969367112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d9dc3a59-c3d2-4288-8640-0f9ad89e50cc/134bd79c-165d-4b1f-81c0-2adf9544f9f1/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Citi head of U.S. equity trading strategy Stuart Kaiser and Lonski Group founder John Lonski tell \u2018Mornings with Maria\u2019 how a delayed PCE inflation report and the rapid rise of AI could influence the path of the U.S. economy heading into 2026."
-    },
-    {
-      "headline": "A.I. Deal Making Is Getting Faster and Faster",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TSjFLSXphajFfQzhFWnBHWXFRLUFuUXZJMTFHNGVLNml0XzhGaFVNM1RyOThqWWMzUjFKVDlYWDRfUEk3cXAxelB3RnM0OHQ2RktPeTZycDFZSE54aW1IR3M5LXhlVXBxaDRzc0w5aGVNYXllRVBINDlRRU4?oc=5",
-      "pub_date": 1764865810.0,
-      "article_url": "https://www.nytimes.com/2025/12/04/technology/ai-deal-making-faster.html",
       "image": null,
       "description": null
     },
@@ -63,48 +103,8 @@
       "article_url": "https://www.ft.com/content/45615c0a-952d-49b6-b2e0-c35d3826768f",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F76180ea3-b738-4223-ab13-ac6df21ea7f1.jpg?source=next-barrier-page",
       "description": "China\u2019s favouring of small and cheap models such as DeepSeek could prove to be the better bet"
-    },
-    {
-      "headline": "AI chatbots used inaccurate information to change political opinions: Study",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR0dPZUNRWWNKandkcWZ0VnZic1MtWUlibHlBY1JoWjdkOFQ5RkxMdEZhSlI4QllDTEhRSlZveU44OGpxV1NtWWdrc0dFZkdqZ2dLNzhpcnIzMVkwcFQ2RmdLYzN6WG55VmxhUTk3alUwODRLVUZTX2F0RkV5UGNPZVYxSmpERzRNdXZiWjNtMGFUTFlTU0RfNWpyUFdDc3NabjVPREt5d3J4NVh3bDFMWkZ3WWpxN0ZHQjJiY9IBVkFVX3lxTFBUWUtkVlREVDlieGNzNTlna3lhcTNGNzJfd3NLQl9jNmRtV0txWkkxWDVBcTd2ZU5VRWJ6alVwekdNS2I2WENiMklwX0ZlX0RDTVNZdjVn?oc=5",
-      "pub_date": 1764874834.0,
-      "article_url": "https://www.nbcnews.com/tech/tech-news/ai-chatbots-used-inaccurate-information-change-political-opinions-stud-rcna247085",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251204-ai-political-chatbot-jg-97efd8.jpg",
-      "description": "A paper published in the journal Science found that chatbots become more persuasive when they share large amounts of information."
-    },
-    {
-      "headline": "Voters\u2019 minds are hard to change. AI chatbots are surprisingly good at it.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMWdfRlRQMXpPVnVKMkx2YW5xckFVdzJhX2IyOEVWdzlMdmlBZVFpUUhWRkMyNVVjVGFoMmJvbkZ6Ym9RdFNQSzY1Z1M0b2RSbE5sazBEWjFyVmpyU05Vcjk1aFA0SzVVb1laRERqX1hqamYyd3Q0RlJ4T0YtZGtDdGllYUx1OHZVemc?oc=5",
-      "pub_date": 1764875187.0,
-      "article_url": "https://www.washingtonpost.com/technology/2025/12/04/ai-chatbot-election-campaign/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "AI can influence voters' minds. What does that mean for democracy?",
-      "source": "New Scientist",
-      "source_url": "https://www.newscientist.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2dqS0F5Sk43b25VYklDMTFkOHQxa3dPeHRMeTN6U2doWi1rUUdkUVl2eWNkNGJIdWwwUVZRM3JDMkUxSlRBLTFpbmprbEVKWnZxMG9yZmtfajdyRUxxaU9Qek9oRE1DSWhNVThVZDJ2S0R5LWtDN19RYkNnU1M0QVhtczRaUlByMWNEU0xQeXhzekM3SlBqMnVvWXMyUkxkWGlwVnlucWVRVUdiTVE?oc=5",
-      "pub_date": 1764874901.0,
-      "article_url": "https://www.newscientist.com/article/2507178-ai-can-influence-voters-minds-what-does-that-mean-for-democracy/",
-      "image": "https://images.newscientist.com/wp-content/uploads/2025/12/04162231/SEI_276790066.jpg",
-      "description": "Voters change their opinions after interacting with an AI chatbot \u2013 but, encouragingly, it seems that AIs rely on facts to influence people"
-    },
-    {
-      "headline": "Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PSmZZSTRVTU92b1JfN2l3UjB3cG53bGY5dk9oRUhwaDMtS0lvanpTY05meDJCWUVBQU1iaWJ0Q09OMHJyTWp2UUZZYW84SXlpTjNVNjdYUGtSdVJ1RHBsM2dR?oc=5",
-      "pub_date": 1764867544.0,
-      "article_url": "https://www.anthropic.com/news/anthropic-interviewer",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Reflection&backgroundColor=sky",
-      "description": "What 1,250 professionals told us about working with AI"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T20:22:46.173630+00:00"
+  "fetched_at": "2025-12-04T20:56:39.676795+00:00"
 }
