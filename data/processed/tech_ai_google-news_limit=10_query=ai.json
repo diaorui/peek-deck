@@ -5,6 +5,36 @@
   "search_query": "ai",
   "articles": [
     {
+      "headline": "EU launches antitrust probe into Meta over use of AI in WhatsApp",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdmNsV1NuRzB0WGtsMmRYS2JfWlhfdzZhMlZvUnZmTjVnYndHLXpxUEJZNGRtWlhIcnJLdTkwenBpUjctTE1wWFJqM2VrOEM4U3NTSzhtTkhYQVdYUTcwc3lfcG1NMjE2Z3JHYUZ2MllwZ1hiaXdUX09HUFNjZElKbGVSX1BPZmxVVC16aGdGcEkwaHU2ZGRsbEo3ZGlmQnB4Y05aejFkSkFDN1k1RGlnMGtkWDdCZDNuOHJ0aF9jcFU4TXcwR09oeXd5OHUzaDdmODZ6V2U4Mlh4ODg?oc=5",
+      "pub_date": 1764847007.0,
+      "article_url": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-launch-antitrust-probe-into-meta-over-use-ai-whatsapp-ft-reports-2025-12-04/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Meta faces Europe antitrust investigation over WhatsApp AI policy",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVEZZR19TYk9oYVJ5ZkhNQ2xxMTN5SWFwNVdFY0lubmM4M2ZIS1JBeDNha0hUOGNyYkh5ek10MnRwdXpNYjRybjlQUXlHUDNLMHRaLXgzZTI5Skx6alJJRkFUSllJMW5aeVFpV2JyWTFPd1MzV3g0NjZLOUlCSzdHb2Y0dENfQ0lDSUhfSXVTeTRoLXVVMXMtal9lS0s2OThoekxBRk5n0gGrAUFVX3lxTFBfV3RNeFNoVHRDbEthVmVydXdMNmdQWTh2aUgyZHI4LTc3dTg4OTlCVnpaQXYxdmc4YnZVT0V3Z0p6Zl9VVzVfS0M5TDFFS084Yk5iUjJ6U2dNVXpRYmJxSFI2VnVKOHFEaTZoeWx0a0NuNHM5bXZkMHd0SndxWXkwQVNqbUt1V3BLV0FBbGZfaXBxb2luaV9XdUdTWHJoVG9TUFQ0OGd3OTBNVQ?oc=5",
+      "pub_date": 1764843603.0,
+      "article_url": "https://www.cnbc.com/2025/12/04/meta-faces-europe-antitrust-investigation-over-whatsapp-ai-rollout.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108197774-17576213652025-09-11t200415z_955202248_rc2vpgaeanxv_rtrmadp_0_meta-results.jpeg?v=1757621403&w=1920&h=1080",
+      "description": "The European bloc has launched an antitrust investigation into the social media giant over its WhatsApp AI policy."
+    },
+    {
+      "headline": "EU Opens Antitrust Probe Into Meta Platforms Over WhatsApp AI Policy",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNQjlhZ19jRzJPRXBnT1FSaWxFWkR3eFhiTUxTMlptZ1hTVnE0TWdaNFNfNlNLSEY5UEh6ZEFBdzNUY3FwdHI4VngyODZmOFkzbWRLcWN4U2R2YTZibWx6dFhEdGtTSmFUSTVrTU9OZFQxS2NsRnU5QXBCRjliN19YcGNqaXR6Nkloal9qcVJkelBEa2VuWGYzc2tOM3pJN0lCWlFvUHpBNXloQzB1MjBKMXRVd1VoMjBBMVhsS0FhaXdyYm9LN3M3dThZdHJ6dlV3S3BXcENxMzlST3Bnd1RmWE1UTjY4LW94N0pqNEs2WHdfOWpjTHRpalBSSVd6TzhoT1dSbzY2V084Xzh2X3pGQXhGWkRpVTFUOW4wdElQMndtUHNKTmkyUGJwVUF4UFJaNGJKRzQ5THFQalFMT0RWeDQ4dFRlZE1DUDBMQU41MjZmOE5kUnlSMUQ3TGRlQXhEQ25QM1cxY2VjYXo2MmJKYzhiR1hieVF0eFlTd1RINTliengyX1hnaGpVUEFmZFNlYWYxRUVlcGNaZWNUVEIzT1pPamRUOGFlbnc?oc=5",
+      "pub_date": 1764846240.0,
+      "article_url": "https://www.wsj.com/tech/eu-opens-antitrust-probe-into-meta-platforms-over-whatsapp-ai-policy-f01f6826?gaa_at=eafs&gaa_n=AWEtsqf1qUgFvTB8W2tcjGS94GMgv5W6WDeOwop8qAVj1wYjeG64j6_yaLWf&gaa_ts=69317aef&gaa_sig=gUNzBJ1ViuyeN3-kU7Azf4ldb1ncE3E8Sjzycvs0glHICd3KFfl4KcRWVbkD9weZOU1pmICokVqjaGn2OpVl-A%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Microsoft Lowers Sales Staff\u2019s Growth Targets For Newer AI Software",
       "source": "The Information",
       "source_url": "https://www.theinformation.com",
@@ -35,54 +65,24 @@
       "description": "Multiple divisions at Microsoft have lowered sales growth targets for certain artificial intelligence products after many \u200bsales staff missed goals in the fiscal year that \u200cended in June, The Information reported on Wednesday.  It is rare for Microsoft to \u200clower quotas for specific products, the report said, citing two salespeople in the Azure cloud unit.  Lower sales growth goals for Microsoft's AI products are likely to fans fears about \u200breal-world adoption of AI as an MIT study from earlier \u200cthis year had found that only about 5% of AI projects advance beyond the pilot stage."
     },
     {
-      "headline": "Nvidia servers speed up AI models from China's Moonshoot AI and others tenfold",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlZGeWtQd2wyblh4MjJKTElXSnpxd3FlT2dsUHg4YTRSQWF0SkFOTnJfUjFHeEtQZ0g1OXJkZ29wNmZHdXZWM0h0UE0xaXRoSXRzLWI4NFdxMHo3MFFHMk90cGZmZVFmbGZ1Q0hXX1FKWGF0Z2Q4SmlrVnByc3NjZkpkdnNCcU9mT1RoMjBsQjVoUXFMR0NyUlVMQzctZmhwVFhXbUlOMEhqSkg4MGNMZGhmdzdiZDg?oc=5",
-      "pub_date": 1764799000.0,
-      "article_url": "https://www.reuters.com/world/china/nvidia-servers-speed-up-ai-models-chinas-moonshoot-ai-others-tenfold-2025-12-03/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "German Watchdog Warns Banks of AI Industry Concentration Risks",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeC1YVWJBNTA4aHdOSmVXaEJQUXlFWENQMEtHR3pzN2J4R05iZEtPak82MDZMRTV0ejZ6alBFU2N2NFp1MzdUT0thaUtTNmprS09mVXNfcTdCQU5VamdFX1Z6Rk9BUXlaWnE5Uk84b0ZPN05YVnhYLXNXWmRKX25JZFQ4Z2RmcUVCSHhGVko1WDdlaEpMR1lYN011SWJsY3RQTHNvTlVOMS1FVzAwYzk1eXlhdw?oc=5",
-      "pub_date": 1764840000.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-04/german-watchdog-warns-banks-of-ai-industry-concentration-risks",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4i2WLF.sJc0/v1/1200x800.jpg",
-      "description": "Germany\u2019s financial watchdog warned the country\u2019s banks that they face risks from the increasingly opaque ties between companies driving the artificial intelligence boom."
-    },
-    {
-      "headline": "Forget Palantir, another AI stock is up 180% in 2025",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMF8waHpER0JsWmNWVWJUV1F5N2Jxd2xTMDVRdS1Mc3pjQnhQVGdBQWpUNGIzSm1leDFLU2lvbmFLeE1wMWZNc0xKbTZZeU91LWd4aTBNZmJ2UFpMbVNUN1BpTmNrRUxMVHBPVGdmeXZ1Q085LWYtVG1zcEhxN0FvZDFSck81Y0FRS3JPM2dDZG1KMTBuZkRVQg?oc=5",
-      "pub_date": 1764771957.0,
-      "article_url": "https://www.thestreet.com/investing/stocks/forget-palantir-another-ai-stock-is-up-180-in-2025",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "10 AI Stocks Worth Buying Right Now",
+      "headline": "Alphabet\u2019s AI Chips Are a Potential $900 Billion \u2018Secret Sauce\u2019",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmaDQwb2NrOVdYTG01T0xLcFVxZlZRY0hNaFVBc01GTTNhNUxyTXp6b29rM2UwNGhtdGptczFuNHpFS05DcngzeVdJQTFQQ3hHX3N3MkdNOEs3dUphazBwZWJTUDUwR19BVlRUa3VtazIxeXU3LU5zTDU5dw?oc=5",
-      "pub_date": 1764846300.0,
-      "article_url": "https://finance.yahoo.com/news/10-ai-stocks-worth-buying-110500167.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/jTT_A0fWHGm1rk0S78q8Tw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDU-/https://media.zenfs.com/en/motleyfool.com/a922579ef0f4c1a19a9aa2f63dd9aaa4",
-      "description": "Building an artificial intelligence (AI) portfolio means looking beyond the obvious megacap names."
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT0lJWEs5TXRqaTVZeDc1SXpNekM1UHJULTFhR3B2ckI2alIxMlowRVFpUTNQZk5lMUZwLUVsVXhNY0tDbXRtRlJkNlQ1RHpLYVVleDl6M2g0X01GaUFncWR2cm16VzJtYjRsclloZjB2eWJsdXhOMHIxQW1TSjVVQ2RkTQ?oc=5",
+      "pub_date": 1764845298.0,
+      "article_url": "https://finance.yahoo.com/news/alphabet-ai-chips-potential-900-104818985.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/xBn1DbqoZjRQC.L7OW30Yw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/7ff7a186e259c6ed59dd390e8792f3ce",
+      "description": "The success of Alphabet\u2019s tensor processing unit, or TPU, chips is a primary reason for the stock\u2019s 31% fourth-quarter rally, which is the tenth best performance in the S&P 500 Index.  The TPUs were always seen as a major strength internally, accelerating growth for the company\u2019s cloud-computing business."
     },
     {
-      "headline": "Opinion: AI needs power desperately. Here\u2019s how to invest in companies profiting from the pain.",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPaGRyemdFYlYyTktIQlR1eHFNZFFmZWZid0MtWmM5SzV6OTViOEE0NzZaNmoyc1VLanBvb2hubTkxYzRIOWR5NDdpTVNRQWt0Rm1UdTg0SDVvT3k4enBoLXhsWjh4aW9kMlZxeUJlN1U4amdVaGoxY2t5UnBvZC1yaXIyTmpTVV9mUk1tdFIweVI5VnV6bWZIUGJicWMwckpYdUV4aURJWENGbThjcGI5cmJKcWsycDNfMGZvQXQ2WG9pdGJZM21FWGxFTGdCQzg5RVNhU3phSXNrMkl5Qm5qWVZoMUsyUFRoWUhWT1owQkI0bmJPOGk3TER2ajlRbk9xajRpTG9saHk1WXd1bWhpeFRaN2xiNW5IM1Y3dG5vTmxLdmE4aWNiQkZscFZTTHJsNThLNS1USTRlejRBbldCVjdHNFNIcXFKOFFFUXVSLUNCRTNBb3lndy1xQ2dzOGE5SlJhMWNxUldYcXYtSEhua0JrVkFaZXVSMlZlWUs2dXdWb2tncjZiR3VlWW85REszLVNMbzBxVG5HX0RWYjRHaVh4WG1XbTk5bGJhRlhQTTBmd1NrT29TdF9MSVpZamt4VXd3S0I5NTM5QQ?oc=5",
-      "pub_date": 1764795420.0,
-      "article_url": "https://www.marketwatch.com/story/ai-needs-power-desperately-heres-how-to-invest-in-companies-profiting-from-the-pain-f10c0d53?gaa_at=eafs&gaa_n=AWEtsqeb4URluJDGhGQTEd7KjOLsyAnkWgJW-WQNUowqLgO3o3gBCqHexe3_&gaa_ts=69317124&gaa_sig=0brJJZ78CZl2gnPjmQPf2E3tviqYJp2KdkT7VfsDEwAemlohHE-fnApQb3sJrDtnSmUmIvgY9bKVM-N63IVXSw%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "CEOs are making the business case for AI\u2014and dispelling talk of a bubble",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbXNJS1J1QVBXVkhZalFraHJHM21iRzB0YWo3RkVBckEtNWFhRUF1X0FwUWtoZzF2SHl1aHRndDBDek8xMlFzbDFyUGgtUnd3WnM4c3lTWDRqWDNySmQ5eTBBTEFqUHpaNWMyY0U1RWhlTEdTOVhMVjc0T3Jkemlia1FQd1NzNUk?oc=5",
+      "pub_date": 1764846420.0,
+      "article_url": "https://fortune.com/2025/12/04/nyt-dealbook-summit-ceos-ai-business-case-bubble/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2249757163-e1764846138915.jpg?resize=1200,600",
+      "description": "Also: All the news and watercooler chat from Fortune."
     },
     {
       "headline": "A father of four raised $4.5 million to help fuel the US manufacturing 'renaissance' with AI. Read his pitch deck.",
@@ -95,16 +95,16 @@
       "description": "Y Combinator graduate Kenneth Cassel has raised $4.5 million to boost US manufacturing with an AI-driven factory."
     },
     {
-      "headline": "How AI Is Transforming Work at Anthropic",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFBSaEZtOG1ieHpOdldrNVJEeGRCMEtJVmpNU1hOMHVNV1NldWJ1T3RuQlhTZXpkckk2akpUWFhqbGtabXRURFJiNDR4aG9YUjhUSzFadkZaYUJPNElQcDR4SkU2bHIyQkg3VDdmMWZ0eFM5ak52MThpcklEdVNfVg?oc=5",
-      "pub_date": 1764703349.0,
-      "article_url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Keyboard&backgroundColor=cactus",
-      "description": "How AI Is Transforming Work at Anthropic"
+      "headline": "As Hochul Considers an A.I. Bill, Its Sponsor Throws Her a Fund-Raiser",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpSEZadkZwTzhvaTJsTDhXOWxDVHo2X0YtTWk1XzV5cGNDUEFFMk1fYkJLR0pkNWE0U0lHSmJONURRS3R1SkhOOEhuMFFsQmwxVC0yZWhCTC12dlhBNHRIcmpadTlMQkY1SEUzdjVSZFpVbWgxLXBkRg?oc=5",
+      "pub_date": 1764835205.0,
+      "article_url": "https://www.nytimes.com/2025/12/04/nyregion/hochul-ai-bill-bores.html",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T11:17:17.324824+00:00"
+  "fetched_at": "2025-12-04T11:58:57.100473+00:00"
 }

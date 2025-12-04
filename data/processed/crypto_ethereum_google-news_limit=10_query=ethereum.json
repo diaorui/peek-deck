@@ -65,16 +65,6 @@
       "description": "Bitcoin slid as much as 6% to below $86,000 while Ethereum fared even worse, at one point dropping more than 7% to roughly $2,800."
     },
     {
-      "headline": "Better Buy in 2026: Ethereum or Solana?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdDQ1MTJuNnI3QWZQeEZHYUlCb0FvOVduRjRFSWREcVY2Wjc5TkV6WVJzRHFoN2ZtWWtNeFdpMFB4STZmZGJCU2N1R1RjQXFnQVNVZEtRVlAxOG1YeWRnOUd5X3JqcEpkaGljU0phY044S2VHRldWMUtZMmlTMFdwMVRVS2E2aG8?oc=5",
-      "pub_date": 1764841980.0,
-      "article_url": "https://www.fool.com/investing/2025/12/04/better-buy-in-2026-ethereum-or-solana/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845042%2Fan-investor-looking-at-a-chart-on-their-computer-screen-while-holding-a-smartphone.jpg&w=1200&op=resize",
-      "description": "Ethereum and Solana are battling for leadership in the decentralized revolution."
-    },
-    {
       "headline": "Bitcoin Vs. Ethereum And The Flippening Lubin Predicts",
       "source": "Forbes",
       "source_url": "https://www.forbes.com",
@@ -83,6 +73,16 @@
       "article_url": "https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/",
       "image": "https://imageio.forbes.com/specials-images/imageserve/6924b0faa76a662bd7be2f30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "description": "Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH\u2019s utility loop, Bitcoin\u2019s scarcity, and why money is entering a multi-form future."
+    },
+    {
+      "headline": "Better Buy in 2026: Ethereum or Solana?",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdDQ1MTJuNnI3QWZQeEZHYUlCb0FvOVduRjRFSWREcVY2Wjc5TkV6WVJzRHFoN2ZtWWtNeFdpMFB4STZmZGJCU2N1R1RjQXFnQVNVZEtRVlAxOG1YeWRnOUd5X3JqcEpkaGljU0phY044S2VHRldWMUtZMmlTMFdwMVRVS2E2aG8?oc=5",
+      "pub_date": 1764841980.0,
+      "article_url": "https://www.fool.com/investing/2025/12/04/better-buy-in-2026-ethereum-or-solana/",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845042%2Fan-investor-looking-at-a-chart-on-their-computer-screen-while-holding-a-smartphone.jpg&w=1200&op=resize",
+      "description": "Ethereum and Solana are battling for leadership in the decentralized revolution."
     },
     {
       "headline": "Ethereum Crashes 45% From $4,950 Peak: Why Layer 2s Are Killing ETH\u2019s Value",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T11:17:07.899343+00:00"
+  "fetched_at": "2025-12-04T11:58:54.640240+00:00"
 }
