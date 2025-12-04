@@ -45,14 +45,44 @@
       "description": "Two of Wall Street\u2019s biggest firms say the AI boom isn\u2019t a bubble, arguing real spending and earnings support the stock market rally even as near-term risks emerge."
     },
     {
-      "headline": "EU to Begin Probe Into WhatsApp AI Features Rollout, FT Says",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3cxbWtORW5zU3daVHJhZVd4RVZFcXZYN0pQbFplT1JEV0w3Vmw1dEd1LWxOcG9fX1c1UUdFX0NjM2c3QjVEU1lzTjJEM3luU09KYUgzbzBSbmJ6UEhDdnBMWURpNnRwMjNBXzRVU3FDVUV2N19waDNxWXBVWWNrb1N2U0xicWlWT2JIOHh2ZzRYaVZFYy1ReVEtRTg2V3NfdjVBb1MyeTRoendDeGdF?oc=5",
-      "pub_date": 1764826200.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-04/eu-to-begin-probe-into-whatsapp-ai-features-rollout-ft-says",
+      "headline": "Why Michael Burry thinks the AI bubble will unravel",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGljTTROeFZzZ1hnanU5cldFQ0RMV293U1pwU1VpRWxLVmFXYThZMGpZNk5sQkw5dEFJSVhFYk5EMTNEZUZBUGRwYW52aDB6eVhnWEV3dWNlRkFnRy1KSEhYOEwwcEFTalQzbnVCbk9KMEtCMm5YNTlqN2gwYnVnMkNGbEFDaXhiTFMxYkRpWWNLQQ?oc=5",
+      "pub_date": 1764783813.0,
+      "article_url": "https://www.cnbc.com/2025/12/03/why-michael-burry-thinks-the-ai-bubble-will-unravel.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/106091765-1566479308096gettyimages-498562218.jpeg?v=1764031869&w=1920&h=1080",
+      "description": "The AI-driven market may fall before businesses' expenditures on the technology do, Burry said."
+    },
+    {
+      "headline": "Bank of America says we\u2019re in an AI \u2018air pocket,\u2019 not a bubble, propelled by data center capex",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjRGYUdBZnRZcGtLS3FqR1VxQ2F6RHVOMW4yQUg3RTdFeGNTeC1jTF96Y3VXQURzejhNZFdUYV8zVmE4dVB1dVF6bHBXbmRtRzQ1Rllha24taEJmdzJhU0kwcW5wOW8ydzNhUGJtbG1mZTdOZ0ZMX28zQnY5SDBOSDVBdVRCaDlTMEV1bHlUZEpaQzk0ZlYw?oc=5",
+      "pub_date": 1764791280.0,
+      "article_url": "https://fortune.com/2025/12/03/is-ai-a-bubble-bofa-says-air-pocket-in-2026-data-center-debt/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2246163679-e1764790626275.jpg?resize=1200,600",
+      "description": "\u201cIs this 2000? Are we in a bubble? No,\u201d BofA\u2019s strategy chief Savita Subramanian said. \u201cWill AI continue in unfettered leadership? No.\u201d"
+    },
+    {
+      "headline": "As Hochul Considers an A.I. Bill, Its Sponsor Throws Her a Fund-Raiser",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpSEZadkZwTzhvaTJsTDhXOWxDVHo2X0YtTWk1XzV5cGNDUEFFMk1fYkJLR0pkNWE0U0lHSmJONURRS3R1SkhOOEhuMFFsQmwxVC0yZWhCTC12dlhBNHRIcmpadTlMQkY1SEUzdjVSZFpVbWgxLXBkRg?oc=5",
+      "pub_date": 1764835205.0,
+      "article_url": "https://www.nytimes.com/2025/12/04/nyregion/hochul-ai-bill-bores.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "How AI Is Shaping Team Dynamics And What Organizations Are Missing",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaGtERkNhZTMzcklsNWpONlA4ZmRqM3RQSF93MW9mTUQ1cVBqRUllM3d4aGlBUWFnYklqVklqM2NlM05TeVVORTNYaHZ2QWMzbVNhWFZIVkxTM1pYOGMxQkF2Umh2bGxDNm9nWm5sdW1qYmJfMWJsQ3NSNi1veU5pNU51UldtSVhxUHJRZzZIckk0dFN5VW51T096dmRqamxfeDltRHMzbVlsckpITEJaWGpCR196aG5zaFptbWRn?oc=5",
+      "pub_date": 1764835200.0,
+      "article_url": "https://www.forbes.com/sites/dianehamilton/2025/12/04/how-ai-is-shaping-team-dynamics-and-what-organizations-are-missing/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/68b9a414c3996320f1f4e0d5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "AI is reshaping how teams communicate, interpret intent, and stay connected. Leaders who understand the behavioral impact will strengthen trust and improve collaboration."
     },
     {
       "headline": "China\u2019s censorship and surveillance were already intense. AI is turbocharging those systems",
@@ -65,16 +95,6 @@
       "description": "Chinese authorities are using artificial intelligence to turbocharge surveillance and censorship, with the technology predicting public demonstrations and monitoring prison inmates, according to a new report."
     },
     {
-      "headline": "Fortanix Teams with HPE and NVIDIA to Embed Confidential Computing in AI Factories",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0FhYWNBVUFqVlRZaGE2dTZIZllqNWRhZmVzVUt5d0NvRk81ZkdyUWxOanNNMWxGRWJEd3pNVHlaUUFsb01ERlJjcW9RdG9xUHIwQmdNcmw0UU0xTzlFbXdqV2taWENqMWpoZnZiMndRUmVZUlozbEMyY3pTdHl2S2N3SQ?oc=5",
-      "pub_date": 1764831600.0,
-      "article_url": "https://finance.yahoo.com/news/fortanix-teams-hpe-nvidia-embed-070000533.html",
-      "image": "https://media.zenfs.com/en/business-wire.com/4cb477b639bad132d72364c1a0bc8c63",
-      "description": "SANTA CLARA, Calif., December 04, 2025--Fortanix\u00ae Inc., a global leader in data security for an AI world, today announced its hyper-secure platform \u2013 Armet AI \u2013 can be deployed on HPE\u2019s AI solutions, combining secure infrastructure and accelerated computing for scalable, production-ready AI. Global enterprises can leverage HPE ProLiant Compute DL380a Gen12 servers and NVIDIA RTX PRO\u2122 6000 Blackwell Server Edition GPUs to build and run secure, scalable AI workloads on-premises, in the cloud and i"
-    },
-    {
       "headline": "How AI Is Transforming Work at Anthropic",
       "source": "Anthropic",
       "source_url": "https://www.anthropic.com",
@@ -83,28 +103,8 @@
       "article_url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
       "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Keyboard&backgroundColor=cactus",
       "description": "How AI Is Transforming Work at Anthropic"
-    },
-    {
-      "headline": "Why Does A.I. Write Like \u2026 That?",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOMFdmZlBiR0hQRlBMTkJyd1NoQ1R4dTZsUTFIUlJQQXFOd3ZRNG1MWWFMZ1NlMFhTTUdweXZLWmcwbTVVQmRJM2JweWlUalkwSGM3RDlOQmFzYlI5UFluUTBPajJXLWxNekR6eDhSLVI5X2owOWJmNHlR?oc=5",
-      "pub_date": 1764756055.0,
-      "article_url": "https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Dartmouth Announces AI Partnership With Anthropic and AWS",
-      "source": "Dartmouth",
-      "source_url": "https://home.dartmouth.edu",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNFFPUjRPMFhDcERlZmUzYTJBYjJBSXhyY3BqS09hbXh3dHFodjVYVEYtYWlWRnAzS3o4cUpaeWEzU2Q0TFJPY2s0aG0yNHRZUV91Y05uUXhCUFNkX0FUYk1CTDVPN0xZQXltNWpmYmxId21rMXBJUTA5UkZlWnJXelFFMjVRMHJSWWt1emk1a0RFZkpkbFVR?oc=5",
-      "pub_date": 1764792540.0,
-      "article_url": "https://home.dartmouth.edu/news/2025/12/dartmouth-announces-ai-partnership-anthropic-and-aws",
-      "image": "https://home.dartmouth.edu/sites/home/files/styles/16_9_lg/public/2025-12/Baker_Spire.png?h=c6980913&itok=4rLU0OPp",
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T07:30:04.267564+00:00"
+  "fetched_at": "2025-12-04T08:34:02.960769+00:00"
 }

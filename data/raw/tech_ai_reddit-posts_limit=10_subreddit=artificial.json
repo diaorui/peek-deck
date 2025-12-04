@@ -57,6 +57,17 @@
       "description": "Full interview with Stability AI founder Emad Mostaque."
     },
     {
+      "title": "Anti-immigrant material among AI-generated content getting billions of views on TikTok",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1pduq42/antiimmigrant_material_among_aigenerated_content/",
+      "published": 1764836556.0,
+      "thumbnail": "https://external-preview.redd.it/gc-S3CffAXHWvte7VxwxPcFWp7MXdfgP3hQOBB_fW-g.jpeg?width=640&crop=smart&auto=webp&s=c3f88d8a29a23eb38dda06ffed8d15bc42f06ef9",
+      "external_url": "https://www.theguardian.com/technology/2025/dec/03/anti-immigrant-material-among-ai-generated-content-getting-billions-of-views-on-tiktok",
+      "site_name": "the Guardian",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "description": "Researchers uncovered 354 AI-focused accounts that had accumulated 4.5bn views in a month"
+    },
+    {
       "title": "Border troops getting replaced by robots",
       "author": "msaussieandmrravana",
       "url": "https://www.reddit.com/r/artificial/comments/1pczmey/border_troops_getting_replaced_by_robots/",
@@ -68,26 +79,15 @@
       "description": null
     },
     {
-      "title": "What is the point of ChatGPT subscription?",
-      "author": "msaussieandmrravana",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdqldc/what_is_the_point_of_chatgpt_subscription/",
-      "published": 1764822384.0,
+      "title": "The future of prompt engineering is collaborative - built a social platform to prove it",
+      "author": "zmilesbruce",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdtyrd/the_future_of_prompt_engineering_is_collaborative/",
+      "published": 1764833665.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "I pay for ChatGPT Plus and asked it about Windows BitLocker. It showed me an ad to shop at Target. This is how you lose users. ChatGPT response (excerpt) ChatGPT 5.1 Thinking You can: \u2022 Try to enable Core isolation / Memory integrity for extra protection. \u2022 Improve firmware settings (Secure Boot, UEFI, virtualization) so Windows stops saying \u201cStandard hardware security not supported.\u201d For actual drive encryption: \u2022 Look in Settings \u2192 Privacy & security \u2192 Device encryption. \u2022 If it\u2019s there, use it. \u2022 If not, your realistic options are upgrade to Pro (BitLocker) or use VeraCrypt/other third-party encryption. If you want, tell me your laptop model and I can suggest what to flip in BIOS and what\u2019s realistically possible (e.g., whether Modern Standby / Device Encryption is likely supported). Shop for home and groceries \u2014 Connect Target By BenjaminDEKR"
-    },
-    {
-      "title": "\u201cGirl You Barely Speak English\u201d \u2014 Critics Slam Melania\u2019s $25 Spanish AI Audiobook as a Gimmick",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdtvw1/girl_you_barely_speak_english_critics_slam/",
-      "published": 1764833360.0,
-      "thumbnail": null,
-      "external_url": "https://dailyglitch.com/girl-you-barely-speak-english-critics-slam-melanias-25-spanish-ai-audiobook-as-a-gimmick/",
-      "site_name": "\ud835\udc13\ud835\udc07\ud835\udc04 \ud835\udc03\ud835\udc00\ud835\udc08\ud835\udc0b\ud835\udc18 \ud835\udc06\ud835\udc0b\ud835\udc08\ud835\udc13\ud835\udc02\ud835\udc07",
-      "favicon": "https://dailyglitch.com/wp-content/uploads/2025/08/site-icon.png",
-      "description": "Profiting off a robot"
+      "description": "Unpopular opinion: Hoarding prompts is holding back the entire field of prompt engineering. Hear me out. The best breakthroughs in tech came from open collaboration: Open source revolutionized software arXiv accelerated AI research GitHub made coding social But prompt engineering? We're all working in silos, reinventing the wheel, losing incredible work to private note apps. This is my attempt to change that: thepromptspace The Thesis: Prompt engineering becomes exponentially better when it's: Social - Learn from the best, share your discoveries Collaborative - Build on each other's work (with credit) Documented - Track what works, what fails, and why Accessible - Lower the barrier for newcomers Platform Architecture: Think of it as the creative layer for AI: 1. Social Discovery Follow top prompt engineers Trending prompts and techniques Topic-based communities (coding, research, creative writing) Upvoting and quality signals 2. Collaboration Infrastructure Remix and fork prompts (like GitHub repos) Attribution chains (know who contributed what) Co-creation on complex prompt workflows Comments and discussions on techniques 3. Knowledge Management Version control for prompt iterations A/B testing documentation Tags, categories, and searchability Cross-references between related prompts 4. Portfolio & Reputation Showcase your best prompt engineering work Build reputation in the community Get discovered by teams hiring prompt engineers Monetize your expertise (coming soon) Real-World Use Cases: Research: Share your chain-of-thought templates that improve reasoning Engineering: Collaborate on production-grade system prompts Education: Learn advanced techniques from top practitioners Innovation: Discover cutting-edge methods you'd never find alone Why This Matters for Prompt Engineering: Accelerated learning - See what works without months of trial and error Standardization - Community consensus on best practices Innovation - Build on proven foundations instead of starting from scratch Recognition - Prompt engineers deserve credit for their craft Future-proofing - As AI evolves, our collective knowledge evolves with it Technical Features: Multi-model support (test across different LLMs) Prompt templating with variables Performance tracking and analytics Export to code/API Private workspaces + public sharing Rich markdown and formatting What I'm Building Toward: A world where the best prompt engineering techniques are: Open and accessible Properly attributed Continuously improved by the community Rewarding for creators Link: ThePromptSpace Challenge for this community: Take your best prompt. Share it on thepromptspace. See if the community can make it even better through collaboration. I believe the future of prompt engineering is social. Who's with me?"
     },
     {
       "title": "Built a small conversational AI experiment\u2026.unexpected user responses",
@@ -112,5 +112,5 @@
       "description": "OpenAI's AI-powered ChatGPT is down worldwide with users receiving errors when attempting to access chats, with no reasons currently given."
     }
   ],
-  "fetched_at": "2025-12-04T07:29:49.807858+00:00"
+  "fetched_at": "2025-12-04T08:33:44.497444+00:00"
 }
