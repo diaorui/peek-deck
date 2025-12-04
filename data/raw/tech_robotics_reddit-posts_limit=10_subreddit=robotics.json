@@ -46,17 +46,6 @@
       "description": null
     },
     {
-      "title": "Optimus: Next-Generation Highly Flexible Hand",
-      "author": "AlbatrossHummingbird",
-      "url": "https://www.reddit.com/r/robotics/comments/1pde8o5/optimus_nextgeneration_highly_flexible_hand/",
-      "published": 1764790874.0,
-      "thumbnail": "https://external-preview.redd.it/ZDlxMTY2amJsMTVnMdymnC4DYzDl4nmRFCa29adQLOgOJIM-qnPuk14K7m8J.png?width=640&crop=smart&auto=webp&s=01bded19c440d58e06b168d941a5c4acfb9a52f9",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Pi0 worked for a entire day",
       "author": "drgoldenpants",
       "url": "https://www.reddit.com/r/robotics/comments/1pdjp2c/pi0_worked_for_a_entire_day/",
@@ -66,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "https://www.pi.website/blog/pistar06 New way to add RL to imitation learning After training with Recap, \u03c0*0.6 can make various espresso drinks from 5:30am to 11:30pm"
+    },
+    {
+      "title": "Optimus: Next-Generation Highly Flexible Hand",
+      "author": "AlbatrossHummingbird",
+      "url": "https://www.reddit.com/r/robotics/comments/1pde8o5/optimus_nextgeneration_highly_flexible_hand/",
+      "published": 1764790874.0,
+      "thumbnail": "https://external-preview.redd.it/ZDlxMTY2amJsMTVnMdymnC4DYzDl4nmRFCa29adQLOgOJIM-qnPuk14K7m8J.png?width=640&crop=smart&auto=webp&s=01bded19c440d58e06b168d941a5c4acfb9a52f9",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Robot Arm Item-Picking Demo in a Simulated Supermarket Scene",
@@ -112,5 +112,5 @@
       "description": "Hi everyone! At Hugging Face / LeRobot, one of our goals is to make strong, accessible VLA models available to the whole robotics community. Today we\u2019re excited to announce X-VLA in LeRobot, a new soft-prompted robot foundation model that can generalize across embodiments, sensors, and action spaces. We\u2019re releasing 6 checkpoints, including a pretrained base model and a cloth-folding checkpoint that hits 100% success for two straight hours. There is also an uncut 2-hour folding run powered entirely by X-VLA (video + checkpoints). You can check it out here: \ud83d\udc49 https://x.com/jadechoghari/status/1996639961366548597 If you want to try it yourself, you can fine-tune X-VLA on any dataset, with any action dimension, directly through LeRobot: https://huggingface.co/collections/lerobot/xvla Happy tinkering, and would love feedback from the community! \ud83e\uddf5\ud83e\udd16 Docs/Blog: https://huggingface.co/docs/lerobot/en/xvlaPaper from Tsinghua: https://arxiv.org/abs/2510.10274 https://preview.redd.it/fzhq2qd7b85g1.png?width=2282&format=png&auto=webp&s=51d9ae8f9481bd3f0537eda6b6e2ee1d29f1e76a"
     }
   ],
-  "fetched_at": "2025-12-04T22:09:49.863528+00:00"
+  "fetched_at": "2025-12-04T22:46:44.795581+00:00"
 }

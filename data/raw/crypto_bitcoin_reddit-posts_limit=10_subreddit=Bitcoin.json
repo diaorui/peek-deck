@@ -13,17 +13,6 @@
       "description": null
     },
     {
-      "title": "full speed",
-      "author": "Repulsive-Box-6516",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/",
-      "published": 1764868320.0,
-      "thumbnail": "https://preview.redd.it/09jtf1imz75g1.png?width=640&crop=smart&auto=webp&s=9c5a632623d86d478ce52111d55bbe14e4a58122",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "\ud83e\udde1 Thank You Satoshi, for Bitcoin",
       "author": "DardMiner1982",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pe3pvv/thank_you_satoshi_for_bitcoin/",
@@ -33,6 +22,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Sometimes we forget the obvious: without Satoshi, BTC wouldn\u2019t exist and our entire crypto journey wouldn\u2019t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. \ud83d\ude80"
+    },
+    {
+      "title": "full speed",
+      "author": "Repulsive-Box-6516",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/",
+      "published": 1764868320.0,
+      "thumbnail": "https://preview.redd.it/09jtf1imz75g1.png?width=640&crop=smart&auto=webp&s=9c5a632623d86d478ce52111d55bbe14e4a58122",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Bitcoin in 2025",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-12-04T22:09:47.307979+00:00"
+  "fetched_at": "2025-12-04T22:46:40.758545+00:00"
 }
