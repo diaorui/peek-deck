@@ -39,50 +39,40 @@
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQkY2OGxESjNHa29OcEVLbFlVRDlLbmhTdTZQRDAxRFYtUEdJczNSZ0FJMVp3MmxrTDU0U0RwRHJXajdzR1hvbTJ4Zk5pd1NxUGtrREZLVXBqTzAtYjFUOERTeVBaaXY3Qy1zV3hXRWlVN294eXByejB1eGlBUFdjd3BzVXlPWWlwakxPVFNBZmRxaXpST2FNVVVjOHlXT21EZF9sZWJqekY0UHN5MHZTb2pRUi1hVHhfeEczWXdBVS03T05zS1V5NEZJNjFJSnc?oc=5",
-      "pub_date": 1764801837.0,
+      "pub_date": 1764829380.0,
       "article_url": "https://finance.yahoo.com/news/not-a-bubble-but-maybe-an-air-pocket-wall-street-says-its-time-to-reset-the-ai-narrative-165125153.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/H0EaRfcf1kN6uqB8tlL_Hw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDI-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/770379a0-9589-11f0-be7e-d22d61f4aec0",
       "description": "Two of Wall Street\u2019s biggest firms say the AI boom isn\u2019t a bubble, arguing real spending and earnings support the stock market rally even as near-term risks emerge."
-    },
-    {
-      "headline": "Why Michael Burry thinks the AI bubble will unravel",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGljTTROeFZzZ1hnanU5cldFQ0RMV293U1pwU1VpRWxLVmFXYThZMGpZNk5sQkw5dEFJSVhFYk5EMTNEZUZBUGRwYW52aDB6eVhnWEV3dWNlRkFnRy1KSEhYOEwwcEFTalQzbnVCbk9KMEtCMm5YNTlqN2gwYnVnMkNGbEFDaXhiTFMxYkRpWWNLQQ?oc=5",
-      "pub_date": 1764783813.0,
-      "article_url": "https://www.cnbc.com/2025/12/03/why-michael-burry-thinks-the-ai-bubble-will-unravel.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/106091765-1566479308096gettyimages-498562218.jpeg?v=1764031869&w=1920&h=1080",
-      "description": "The AI-driven market may fall before businesses' expenditures on the technology do, Burry said."
-    },
-    {
-      "headline": "Anthropic\u2019s AI bubble \u2018YOLO\u2019 warning",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QNHhIOE1GVXk0dHk2Y1V6RWhxekhtemEwUTJwekhZUFJkSXFBMXJ0M1pRVkw3d1Bnay1YVGRkdzVfUXJNMTFKZUFCc1RGSWZoaThjTHlrZEJrQzhkdlZiaHNpaWVkTDZlT0kyVl9NdTJHd0ZP?oc=5",
-      "pub_date": 1764798300.0,
-      "article_url": "https://www.theverge.com/column/837779/anthropic-ai-bubble-warning",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-2249804453.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "\ufeffDario Amodei appears to take shots at OpenAI\u2019s \u2018YOLOing\u2019 and big, circular deals."
-    },
-    {
-      "headline": "EU to launch antitrust probe into Meta over use of AI in WhatsApp, FT reports",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdmNsV1NuRzB0WGtsMmRYS2JfWlhfdzZhMlZvUnZmTjVnYndHLXpxUEJZNGRtWlhIcnJLdTkwenBpUjctTE1wWFJqM2VrOEM4U3NTSzhtTkhYQVdYUTcwc3lfcG1NMjE2Z3JHYUZ2MllwZ1hiaXdUX09HUFNjZElKbGVSX1BPZmxVVC16aGdGcEkwaHU2ZGRsbEo3ZGlmQnB4Y05aejFkSkFDN1k1RGlnMGtkWDdCZDNuOHJ0aF9jcFU4TXcwR09oeXd5OHUzaDdmODZ6V2U4Mlh4ODg?oc=5",
-      "pub_date": 1764825180.0,
-      "article_url": "https://www.reuters.com/sustainability/boards-policy-regulation/eu-launch-antitrust-probe-into-meta-over-use-ai-whatsapp-ft-reports-2025-12-04/",
-      "image": null,
-      "description": null
     },
     {
       "headline": "EU to Begin Probe Into WhatsApp AI Features Rollout, FT Says",
       "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3cxbWtORW5zU3daVHJhZVd4RVZFcXZYN0pQbFplT1JEV0w3Vmw1dEd1LWxOcG9fX1c1UUdFX0NjM2c3QjVEU1lzTjJEM3luU09KYUgzbzBSbmJ6UEhDdnBMWURpNnRwMjNBXzRVU3FDVUV2N19waDNxWXBVWWNrb1N2U0xicWlWT2JIOHh2ZzRYaVZFYy1ReVEtRTg2V3NfdjVBb1MyeTRoendDeGdF?oc=5",
-      "pub_date": 1764825060.0,
+      "pub_date": 1764826200.0,
       "article_url": "https://www.bloomberg.com/news/articles/2025-12-04/eu-to-begin-probe-into-whatsapp-ai-features-rollout-ft-says",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "China\u2019s censorship and surveillance were already intense. AI is turbocharging those systems",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWnk0bEpta2Z5Nm1Oa3JpNU5tRlZVeVJDOFM5WElFdGlQMjFkRk81YWxSb1NGS0RhZHVLNmdFZ1hDU1A4ZFJzdWRzS3Y1eUdCQTdIeTJURVNHVnRqQkRzRHMzc1ZJaVJGQzJBb0o3VWhhRXFnZUNScWs4TGZNUE1oTHhZOGF6ZmpkSjk5Q1NR?oc=5",
+      "pub_date": 1764830363.0,
+      "article_url": "https://www.cnn.com/2025/12/04/china/china-ai-censorship-surveillance-report-intl-hnk",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap24310378419264.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Chinese authorities are using artificial intelligence to turbocharge surveillance and censorship, with the technology predicting public demonstrations and monitoring prison inmates, according to a new report."
+    },
+    {
+      "headline": "Fortanix Teams with HPE and NVIDIA to Embed Confidential Computing in AI Factories",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0FhYWNBVUFqVlRZaGE2dTZIZllqNWRhZmVzVUt5d0NvRk81ZkdyUWxOanNNMWxGRWJEd3pNVHlaUUFsb01ERlJjcW9RdG9xUHIwQmdNcmw0UU0xTzlFbXdqV2taWENqMWpoZnZiMndRUmVZUlozbEMyY3pTdHl2S2N3SQ?oc=5",
+      "pub_date": 1764831600.0,
+      "article_url": "https://finance.yahoo.com/news/fortanix-teams-hpe-nvidia-embed-070000533.html",
+      "image": "https://media.zenfs.com/en/business-wire.com/4cb477b639bad132d72364c1a0bc8c63",
+      "description": "SANTA CLARA, Calif., December 04, 2025--Fortanix\u00ae Inc., a global leader in data security for an AI world, today announced its hyper-secure platform \u2013 Armet AI \u2013 can be deployed on HPE\u2019s AI solutions, combining secure infrastructure and accelerated computing for scalable, production-ready AI. Global enterprises can leverage HPE ProLiant Compute DL380a Gen12 servers and NVIDIA RTX PRO\u2122 6000 Blackwell Server Edition GPUs to build and run secure, scalable AI workloads on-premises, in the cloud and i"
     },
     {
       "headline": "How AI Is Transforming Work at Anthropic",
@@ -103,8 +93,18 @@
       "article_url": "https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Dartmouth Announces AI Partnership With Anthropic and AWS",
+      "source": "Dartmouth",
+      "source_url": "https://home.dartmouth.edu",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNFFPUjRPMFhDcERlZmUzYTJBYjJBSXhyY3BqS09hbXh3dHFodjVYVEYtYWlWRnAzS3o4cUpaeWEzU2Q0TFJPY2s0aG0yNHRZUV91Y05uUXhCUFNkX0FUYk1CTDVPN0xZQXltNWpmYmxId21rMXBJUTA5UkZlWnJXelFFMjVRMHJSWWt1emk1a0RFZkpkbFVR?oc=5",
+      "pub_date": 1764792540.0,
+      "article_url": "https://home.dartmouth.edu/news/2025/12/dartmouth-announces-ai-partnership-anthropic-and-aws",
+      "image": "https://home.dartmouth.edu/sites/home/files/styles/16_9_lg/public/2025-12/Baker_Spire.png?h=c6980913&itok=4rLU0OPp",
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T06:42:44.388975+00:00"
+  "fetched_at": "2025-12-04T07:30:04.267564+00:00"
 }

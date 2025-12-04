@@ -15,16 +15,6 @@
       "description": "Fusaka represents what some describe as Ethereum\u2019s first real step into key data sampling and capacity mechanisms it has sought for a decade."
     },
     {
-      "headline": "Ethereum Is Jumping Today-Here's Why",
-      "source": "Nasdaq",
-      "source_url": "https://www.nasdaq.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iWGpldHgyMXZmeGkzdy1WTWtJZXNOQ3BCcjd4czFHMnhCcjNOeHpaLU5NczRXY3FSbng5QlE2OGZWejRGemI0T21tWjNTSnVyYl9ZbEtkMXBDM3pQNEtEUWNOLXcwNXJIS0tQaDNlRGx2QQ?oc=5",
-      "pub_date": 1764791640.0,
-      "article_url": "https://www.nasdaq.com/articles/ethereum-jumping-today-heres-why",
-      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-      "description": "Key PointsEthereum receives a major update today that should improve its ability to scale."
-    },
-    {
       "headline": "News Explorer \u2014 Ethereum's Fusaka Upgrade Goes Live as ETH Price Spikes",
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
@@ -33,16 +23,6 @@
       "article_url": "https://decrypt.co/news-explorer?pinned=1250155&title=ethereums-fusaka-upgrade-goes-live-as-eth-price-spikes",
       "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-01-gID_7.png",
       "description": "The next-generation media outlet navigating the intersection of culture and technology."
-    },
-    {
-      "headline": "Ethereum treasuries collapse 80% as the trade unwinds, Bitwise warns",
-      "source": "dlnews.com",
-      "source_url": "https://www.dlnews.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcm1oSndpSkMtNHVYUWhWSmttOWctZGx2MU5XWHpZRHM1eVg2OW9Ya2Fad19VSjNrZFQ0cFJWejdWaHVHallNazF6U2hVVFpIS1hUOTBuYV9DblJFeHFTVkN4VldFbTQtSUxXVU9Felkwek1EZ3gwS2lZakhHZF93MTZDTXdoNkNfN3prM3RhY0JURGVEM3J1dHRUOEktaHFz?oc=5",
-      "pub_date": 1764711230.0,
-      "article_url": "https://www.dlnews.com/articles/markets/ethereum-treasuries-collapse-as-trade-unwinds-says-bitwise/",
-      "image": "https://www.dlnews.com/resizer/v2/MPEPQUOL3BG5RFGZW4KB37BBSM.jpg?smart=true&auth=a42a36bcfa9bc94558b2a068230a2ebe8e0e75a6a30d4afce6ccb29818df153b&width=1200&height=630",
-      "description": "Ethereum treasury purchases fell to 370,000 ETH in November from 1.97 million in August. Bitwise says the treasury model is unwinding as smaller players struggle to survive. Bitmine holds more Ether than all other digital asset treasuries combined."
     },
     {
       "headline": "Bitcoin craters below $86,000, Ethereum dips 7% in massive crypto wipeout",
@@ -73,6 +53,26 @@
       "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
       "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
+    },
+    {
+      "headline": "Ethereum Is Jumping Today-Here's Why",
+      "source": "Nasdaq",
+      "source_url": "https://www.nasdaq.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iWGpldHgyMXZmeGkzdy1WTWtJZXNOQ3BCcjd4czFHMnhCcjNOeHpaLU5NczRXY3FSbng5QlE2OGZWejRGemI0T21tWjNTSnVyYl9ZbEtkMXBDM3pQNEtEUWNOLXcwNXJIS0tQaDNlRGx2QQ?oc=5",
+      "pub_date": 1764791640.0,
+      "article_url": "https://www.nasdaq.com/articles/ethereum-jumping-today-heres-why",
+      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+      "description": "Key PointsEthereum receives a major update today that should improve its ability to scale."
+    },
+    {
+      "headline": "Ethereum treasuries collapse 80% as the trade unwinds, Bitwise warns",
+      "source": "dlnews.com",
+      "source_url": "https://www.dlnews.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcm1oSndpSkMtNHVYUWhWSmttOWctZGx2MU5XWHpZRHM1eVg2OW9Ya2Fad19VSjNrZFQ0cFJWejdWaHVHallNazF6U2hVVFpIS1hUOTBuYV9DblJFeHFTVkN4VldFbTQtSUxXVU9Felkwek1EZ3gwS2lZakhHZF93MTZDTXdoNkNfN3prM3RhY0JURGVEM3J1dHRUOEktaHFz?oc=5",
+      "pub_date": 1764711230.0,
+      "article_url": "https://www.dlnews.com/articles/markets/ethereum-treasuries-collapse-as-trade-unwinds-says-bitwise/",
+      "image": "https://www.dlnews.com/resizer/v2/MPEPQUOL3BG5RFGZW4KB37BBSM.jpg?smart=true&auth=a42a36bcfa9bc94558b2a068230a2ebe8e0e75a6a30d4afce6ccb29818df153b&width=1200&height=630",
+      "description": "Ethereum treasury purchases fell to 370,000 ETH in November from 1.97 million in August. Bitwise says the treasury model is unwinding as smaller players struggle to survive. Bitmine holds more Ether than all other digital asset treasuries combined."
     },
     {
       "headline": "Ethereum Crashes 45% From $4,950 Peak: Why Layer 2s Are Killing ETH\u2019s Value",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T06:42:44.244229+00:00"
+  "fetched_at": "2025-12-04T07:30:04.356023+00:00"
 }

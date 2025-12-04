@@ -5,24 +5,14 @@
   "search_query": "robotics",
   "articles": [
     {
-      "headline": "Robotics Stocks Surged on Wednesday. Here's Why.",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3JKTDJVUFNXTkJheVFDZGJvWTV0c0tUU1AyTVFoc1VtdG9CWm1sQ08zSHpoaWZGWS1aWVM2QjN1amFrUWgtYnpuUWo1Q2VzQ1JFem8yUTJ2N3N6d2hXV3M4dFctQnZlLU03RHFlYnNmaXNVWnBNZGx0NHVYV1A5M2JqVm16VFBNUUxFYWRtOWQ?oc=5",
-      "pub_date": 1764819360.0,
-      "article_url": "https://www.fool.com/investing/2025/12/03/robotics-stocks-why-up-trump-executive-order/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845559%2Frobotics-stocks-serv-stock-rr-stock-humanoid-robots-stocks-tsla-nvda.jpg&w=1200&op=resize",
-      "description": "Pure-play robotics stocks, such as Richtech Robotics and Serve Robotics, soared on Wednesday, and non-pure plays, including Tesla, also received a boost from reports that President Trump is considering actions to accelerate the development of robots in the U.S."
-    },
-    {
-      "headline": "Traders jump into iRobot and Serve Robotics ahead of the White House's robotics announcement (IRBT:NASDAQ)",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa0J1YWwtNTZaclZWSUU3Y09NZktBMkVpNy0yMnVFa3o2Q1FoMkk5RE9ldmI3amRMMGFnUlhSNHRLYzY3VmxoejctdXdFNWgtcGdSZEQ0allrT09LNWJyUkJmeEFCdVQ0WHQ0R2RyYWFCVUdoYXZfRTlUVDVJYXZ1NElJclQ2Njl3QnZsdDFkTVJvNTRUOTlDeTQ5R0lMcGU0Y2UySnZucHlSMFNCS3ExWWIyaTk5bWUyLVdZRlptWjh3QmdldGVCYWV3?oc=5",
-      "pub_date": 1764775985.0,
-      "article_url": "https://seekingalpha.com/news/4528144-traders-jump-into-irobot-and-server-robotics-ahead-of-the-white-houses-robotics-announcement",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/464631118/image_464631118.jpg?io=getty-c-w630",
-      "description": "iRobot (IRBT) stock surged 31% amid White House robotics support, but volatility remains high."
+      "headline": "After AI push, Trump administration is now looking to robots",
+      "source": "Politico",
+      "source_url": "https://www.politico.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODlWRm96ekx1MlBkMnZOcE5zMm9ZRkZjVTI1YlNiNm9wS1BNTGJNMDV0RmphQlhFeF9wdEx5UWI1RjRzZGp5UlRZNTloa3RGd241ZTlkRXpYR0hYdXRmYzJBdXROSk5BNUdSeFdhaUhFcmdOOUpuVHBVdjh5a1FONkpGbV96czczRmc?oc=5",
+      "pub_date": 1764775036.0,
+      "article_url": "https://www.politico.com/news/2025/12/03/trump-administration-ai-robotics-00674204",
+      "image": null,
+      "description": null
     },
     {
       "headline": "MIT\u2019s AI Robotics Lab Director Is Building People-Centered Robots",
@@ -35,14 +25,14 @@
       "description": "From Romania to MIT, Daniela Rus is redefining robotics to enhance human capabilities. What's her secret to giving people 'superpowers'?"
     },
     {
-      "headline": "After AI push, Trump administration is now looking to robots",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODlWRm96ekx1MlBkMnZOcE5zMm9ZRkZjVTI1YlNiNm9wS1BNTGJNMDV0RmphQlhFeF9wdEx5UWI1RjRzZGp5UlRZNTloa3RGd241ZTlkRXpYR0hYdXRmYzJBdXROSk5BNUdSeFdhaUhFcmdOOUpuVHBVdjh5a1FONkpGbV96czczRmc?oc=5",
-      "pub_date": 1764775165.0,
-      "article_url": "https://www.politico.com/news/2025/12/03/trump-administration-ai-robotics-00674204",
-      "image": null,
-      "description": null
+      "headline": "Former Stryker robotics leader named CEO at Olympus\u2019 Swan EndoSurgical robotics play",
+      "source": "MassDevice",
+      "source_url": "https://www.massdevice.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNzBtV1pfZHdJYWJJdjJMUXZoempDcE85dzhGbnRYM0I2RW55TDdYb19qUE1tOWdyQnV2WGNMR0VUUFBYSXN4bnNsSmg1NXJ1S3Y1di10M25KbHp4UzJfaEJyU0FJOXdBVGJJZ0JGQWJNanhvSDY1a09Fenl5eEkzSlpiV0p5Zw?oc=5",
+      "pub_date": 1764699075.0,
+      "article_url": "https://www.massdevice.com/former-stryker-leader-ceo-swan-endosurgical-olympus/",
+      "image": "https://wtwh-marketing.s3.amazonaws.com/wp-content/uploads/massdevice/2025/12/02121755/Erik-Todd-Swan-Endosurgical.jpg",
+      "description": "Swan EndoSurgical announced today that it has appointed longtime Stryker robotics leader Erik Todd as its CEO."
     },
     {
       "headline": "Vision-native AI opportunities: a precursor to intelligent robotics",
@@ -55,26 +45,6 @@
       "description": "As AI advances into the real world of robotics and automation, we\u2019re seeing a turning point for physical AI \u2014 1X\u2019s NEO Home Robot can now adapt to new environments in real-time, Physical Intelligence\u2019s Pi0 became the first robot to fold laundry with human-level dexterity straight from a hamper, and Tesla\u2019s Optimus is performing complex [\u2026]"
     },
     {
-      "headline": "Robotics stocks jolted higher by report the Trump administration is going \u201call in\u201d to boost the industry",
-      "source": "Sherwood News",
-      "source_url": "https://sherwood.news",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVk1rRld3bE1ReTZpLTVIVE8xV25vT2lJVlUtV1hhY2xkR3MzMEZyVVR2X21fMGE5WWdaQ3NtUnZqREdyX1NHNTJLUlR1S3lpa0Njc19CRmFMTXNVVUpRdy1aZnpMckdzMm9oNHgtTGt3Vy1CWW5jSEJoVTZGN3dyYS1OYXdQenByTEFENXBVakNQMGdVak9tNDd5aUoxaE5fTFZLNTRkLWV1MmVGTjB2VUlIVm5OSFZncDNNRHdGVUk?oc=5",
-      "pub_date": 1764774058.0,
-      "article_url": "https://sherwood.news/markets/robotics-stocks-jolted-higher-by-report-the-trump-administration-is-going-all-in-on-industry/",
-      "image": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2249707402_tokyo-japan-a-unitree-robotic-dog-is-demonstrated-during-the-international-robot-exhibition.jpg?auto=compress%2Cformat&cs=srgb",
-      "description": "Supporting robotics is the natural evolution of supporting AI...."
-    },
-    {
-      "headline": "Former Stryker robotics leader named CEO at Olympus\u2019 Swan EndoSurgical robotics play",
-      "source": "MassDevice",
-      "source_url": "https://www.massdevice.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNzBtV1pfZHdJYWJJdjJMUXZoempDcE85dzhGbnRYM0I2RW55TDdYb19qUE1tOWdyQnV2WGNMR0VUUFBYSXN4bnNsSmg1NXJ1S3Y1di10M25KbHp4UzJfaEJyU0FJOXdBVGJJZ0JGQWJNanhvSDY1a09Fenl5eEkzSlpiV0p5Zw?oc=5",
-      "pub_date": 1764699075.0,
-      "article_url": "https://www.massdevice.com/former-stryker-leader-ceo-swan-endosurgical-olympus/",
-      "image": "https://wtwh-marketing.s3.amazonaws.com/wp-content/uploads/massdevice/2025/12/02121755/Erik-Todd-Swan-Endosurgical.jpg",
-      "description": "Swan EndoSurgical announced today that it has appointed longtime Stryker robotics leader Erik Todd as its CEO."
-    },
-    {
       "headline": "Marine robotics firm will resume deep-sea search for MH370 plane that vanished a decade ago",
       "source": "CNN",
       "source_url": "https://www.cnn.com",
@@ -85,16 +55,6 @@
       "description": "Malaysia\u2019s transport ministry said Wednesday that a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace."
     },
     {
-      "headline": "Tesla stock rises after Trump administration signals robotics push",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVHVwOEUzT0tzdkxNbmRtNUM5MzAxTzNxLVFjVHNkbVNwN3c0bUdtcV9HdWQyYkZjLU96a2ZDU1IzX1RvcWdCeHdsNXVpeXpSUWJLczlLcmRkeGtHQkFySklLN3A1MG42ZDJLVFNMendvbVRMR0hGOGVlM04xczBzcm5BYXVJS01KYTRfMkxTWWVOanA3bTZFQU9yV0NKN19KQlUtUWRqRVZObEx3dW9wN1U5Y2U4V1lZUUJadmFaYUE?oc=5",
-      "pub_date": 1764768474.0,
-      "article_url": "https://www.investing.com/news/stock-market-news/tesla-stock-rises-after-trump-administration-signals-robotics-push-4388466",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Micropolis AI Robotics (NYSE: MCRP) inks Saudi LOI, eyes up to 500 robots over two years",
       "source": "Stock Titan",
       "source_url": "https://www.stocktitan.net",
@@ -103,8 +63,48 @@
       "article_url": "https://www.stocktitan.net/news/MCRP/micropolis-ai-robotics-and-qss-robotics-sign-letter-of-intent-to-fzpc0oc60asv.html",
       "image": "https://www.stocktitan.net/news_covers/Micropolis_AI_Robotics_and_QSS_Robotics_Sign_Letter_of_Intent_to_Procure_500_Robots_and_Expand_Auton_943263.png",
       "description": "Micropolis AI Robotics signs a Saudi LOI with QSS Robotics, planning pilots with the Ministry of Interior and ARAMCO starting December 20, 2025."
+    },
+    {
+      "headline": "Musk says AI and robotics are 'only' things that can solve massive US debt crisis",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1g3dENUZF9tMlhfbDNZZlB5TmhpRjl1dFlDalM1bFNYVHJGdy1RUC1KTTNqM21DT3JWZ25wRGpBWENwaFI5SzBxQTBFQjhxNTJaNmRTdlhxdGpaRzY3dGs4Q2p1emdRNktzSHhFTUVKR1pYa1RJaUtOeE1QVzhxaGhQZVpaNjFfNm1LU0hFVTg3UmU0N19hbk5YYWZ4d2ExcG9wQ9IBqgFBVV95cUxQWFZ2dGFQZ05STHpLUjJYYld2RjZUYkNJZDJJR0NrdnJvcXJPZ0hRYWVVQ0dybEU1eU1Qa19HSTR3Q2ZiYkJFaDgydFJXSXMxUlRHa2dHeTNNUWh5SUd1Y09MOWNBcHdsYlpUZjllUXFGUjFBRU5DaGNFWTNOT1NmQUhadWZCZF9BQW0yc3pRVlllNTZtUHl4bXFMVXlBUTF6UkdTbHZmVElWUQ?oc=5",
+      "pub_date": 1764612660.0,
+      "article_url": "https://www.foxbusiness.com/economy/musk-says-ai-robotics-only-things-can-solve-massive-us-debt-crisis",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/0/0/Elon-Musk-12.jpg?ve=1&tl=1",
+      "description": "Elon Musk claims AI and robotics are the only solution to America's $38 trillion debt crisis, predicting dramatic economic changes within three years."
+    },
+    {
+      "headline": "EY rolls out physical AI platform, opens EY.ai Lab, and names global robotics lead",
+      "source": "The Robot Report",
+      "source_url": "https://www.therobotreport.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMTNTZUZ4eF9FN0UyUDloX3lJd0tMZVZFS3JFcFBWLUdLMlQtYjduSjZlcWtka1RYMjZoMi1ROXEyMUVoNVpuOUZQTklnb2hvc2d5SEpDSklCWTQ0cHhvREd1Vm1McDJqczRldDRENkY0Z0pEbkV0aS1VVm8xdUdIOFIyWU5JVVpfZEdNbVl1MGdoS3VFbnIweDhOU2g3UDlEUjJLUWJwR0pYb0lEZ05nQw?oc=5",
+      "pub_date": 1764763543.0,
+      "article_url": "https://www.therobotreport.com/ey-rolls-out-physical-ai-platform-opens-ey-ai-lab-appoints-global-robotics-lead/",
+      "image": "https://www.therobotreport.com/wp-content/uploads/2025/12/ey-engineer-checking-robotics-workshop.jpg",
+      "description": "EY does not make robots, but it is working on a platform and a lab to help companies simulate and manage physical AI."
+    },
+    {
+      "headline": "MIT engineers design an aerial microrobot that can fly as fast as a bumblebee",
+      "source": "MIT News",
+      "source_url": "https://news.mit.edu",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2h0ZEhpSC1TUHV0UEpGcHZEeUxXQVNzVXlnblhZYXNiRlJZZ1JIbjN1YmdJbi1OSnhjcHVPNHloaC1nUU9FSGRKZnNMazM5TUR5aFpPU3duYzZjaWRIMno2NF9saDBKa3RDakxMVVFhZnBXOHRHSnFWYmYxdTFHMGp1U0ltREZVRWY4eXdxcl9uZw?oc=5",
+      "pub_date": 1764788400.0,
+      "article_url": "https://news.mit.edu/2025/mit-engineers-design-aerial-microrobot-fly-like-bumblebee-1203",
+      "image": "https://news.mit.edu/sites/default/files/images/202512/MIT-MicroRobot-Learning-01-press.jpg",
+      "description": "MIT researchers developed an aerial microrobot that can fly with speed and agility comparable to real insects. The research opens the door to future bug-sized robots that could aid in search-and-rescue missions."
+    },
+    {
+      "headline": "'First robotics war': Defense Ministry shows how robotic systems used in Israel-Hamas War",
+      "source": "The Jerusalem Post",
+      "source_url": "https://www.jpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lRUctTXUtQThwTmM5b3dPU0dMQU1sdmM0NjFPY0ZMY3I4LTV3eHRTeTVmT1J0ZGtRX29QVE1GdU13cTk0RlcxY1V5SFZwakl5ZlQ4cE56TzNyczhxRDFlbEpmMA?oc=5",
+      "pub_date": 1764620730.0,
+      "article_url": "https://www.jpost.com/defense-and-tech/article-876822",
+      "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/478690",
+      "description": "The robotic systems have gotten much more diverse and standardized, being deployed in much higher volumes to assist with exploring Hamas tunnels, to save risking soldiers' lives from that process."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T06:42:42.535478+00:00"
+  "fetched_at": "2025-12-04T07:30:07.023383+00:00"
 }

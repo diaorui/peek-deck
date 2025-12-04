@@ -35,6 +35,17 @@
       "description": null
     },
     {
+      "title": "300 years from now wouldn't 90% of Bitcoins eventually end up being permanently lost?",
+      "author": "GodblessBTC",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pdsa0w/300_years_from_now_wouldnt_90_of_bitcoins/",
+      "published": 1764827664.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "It's basic math. Every year thousands of bitcoins are sent to the wrong addresses, owners with cold wallets die, and private keys are lost forever. Right now over 4 million bitcoins are estimated to be lost forever and every year that number rises. So eventually say 300-400 years from now if 90% of Bitcoins end up being permanently lost what happens to the network security if so little transactions are being performed? Wouldn't this decrease the hash rate by A LOT since miners wouldn't make a lot of money from transaction fees?"
+    },
+    {
       "title": "No one knows, stay humble stack sats",
       "author": "unthocks",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pdnyt1/no_one_knows_stay_humble_stack_sats/",
@@ -79,17 +90,6 @@
       "description": null
     },
     {
-      "title": "300 years from now wouldn't 90% of Bitcoins eventually end up being permanently lost?",
-      "author": "GodblessBTC",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pdsa0w/300_years_from_now_wouldnt_90_of_bitcoins/",
-      "published": 1764827664.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "It's basic math. Every year thousands of bitcoins are sent to the wrong addresses, owners with cold wallets die, and private keys are lost forever. Right now over 4 million bitcoins are estimated to be lost forever and every year that number rises. So eventually say 300-400 years from now if 90% of Bitcoins end up being permanently lost what happens to the network security if so little transactions are being performed? Wouldn't this decrease the hash rate by A LOT since miners wouldn't make a lot of money from transaction fees?"
-    },
-    {
       "title": "Paying off my credit card debt",
       "author": "ouhZach",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pdoqpl/paying_off_my_credit_card_debt/",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-12-04T06:42:24.958120+00:00"
+  "fetched_at": "2025-12-04T07:29:49.831476+00:00"
 }

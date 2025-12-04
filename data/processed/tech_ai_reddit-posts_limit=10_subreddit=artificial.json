@@ -68,6 +68,28 @@
       "description": null
     },
     {
+      "title": "What is the point of ChatGPT subscription?",
+      "author": "msaussieandmrravana",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdqldc/what_is_the_point_of_chatgpt_subscription/",
+      "published": 1764822384.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I pay for ChatGPT Plus and asked it about Windows BitLocker. It showed me an ad to shop at Target. This is how you lose users. ChatGPT response (excerpt) ChatGPT 5.1 Thinking You can: \u2022 Try to enable Core isolation / Memory integrity for extra protection. \u2022 Improve firmware settings (Secure Boot, UEFI, virtualization) so Windows stops saying \u201cStandard hardware security not supported.\u201d For actual drive encryption: \u2022 Look in Settings \u2192 Privacy & security \u2192 Device encryption. \u2022 If it\u2019s there, use it. \u2022 If not, your realistic options are upgrade to Pro (BitLocker) or use VeraCrypt/other third-party encryption. If you want, tell me your laptop model and I can suggest what to flip in BIOS and what\u2019s realistically possible (e.g., whether Modern Standby / Device Encryption is likely supported). Shop for home and groceries \u2014 Connect Target By BenjaminDEKR"
+    },
+    {
+      "title": "\u201cGirl You Barely Speak English\u201d \u2014 Critics Slam Melania\u2019s $25 Spanish AI Audiobook as a Gimmick",
+      "author": "esporx",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdtvw1/girl_you_barely_speak_english_critics_slam/",
+      "published": 1764833360.0,
+      "thumbnail": null,
+      "external_url": "https://dailyglitch.com/girl-you-barely-speak-english-critics-slam-melanias-25-spanish-ai-audiobook-as-a-gimmick/",
+      "site_name": "\ud835\udc13\ud835\udc07\ud835\udc04 \ud835\udc03\ud835\udc00\ud835\udc08\ud835\udc0b\ud835\udc18 \ud835\udc06\ud835\udc0b\ud835\udc08\ud835\udc13\ud835\udc02\ud835\udc07",
+      "favicon": "https://dailyglitch.com/wp-content/uploads/2025/08/site-icon.png",
+      "description": "Profiting off a robot"
+    },
+    {
       "title": "Built a small conversational AI experiment\u2026.unexpected user responses",
       "author": "One-Ice7086",
       "url": "https://www.reddit.com/r/artificial/comments/1pdt3gj/built_a_small_conversational_ai/",
@@ -88,29 +110,7 @@
       "site_name": "bleepingcomputer.com",
       "favicon": "https://www.bleepingcomputer.com/favicon.ico",
       "description": "OpenAI's AI-powered ChatGPT is down worldwide with users receiving errors when attempting to access chats, with no reasons currently given."
-    },
-    {
-      "title": "Annoying AI Customer Service",
-      "author": "Actual_Bat5457",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdrgag/annoying_ai_customer_service/",
-      "published": 1764825023.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "It feels like everytime you go on any website or make a call to a company for help with a product or want to report a website issue or simply need help recovering an account but you are only ever are answered by AI customer service. A lot of companies have turned to using AI as customer service help but it has many issues that can render it completely useless like being unable to grasp complex issues, questions, simply sending you a link to solve issues, or not understanding what you are communicating. Often times when you have issues with the AI customer service you are almost completely unable to get in contact with an actual person who can help and or are told to do the same things over and over again by the bot. I wish companies would simply realize that humans are way more efficient and qualified to provide customer service especially because it creates jobs and makes it so that issues can be resolved instead of just sit and marinate over time."
-    },
-    {
-      "title": "What is the point of ChatGPT subscription?",
-      "author": "msaussieandmrravana",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdqldc/what_is_the_point_of_chatgpt_subscription/",
-      "published": 1764822384.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "I pay for ChatGPT Plus and asked it about Windows BitLocker. It showed me an ad to shop at Target. This is how you lose users. ChatGPT response (excerpt) ChatGPT 5.1 Thinking You can: \u2022 Try to enable Core isolation / Memory integrity for extra protection. \u2022 Improve firmware settings (Secure Boot, UEFI, virtualization) so Windows stops saying \u201cStandard hardware security not supported.\u201d For actual drive encryption: \u2022 Look in Settings \u2192 Privacy & security \u2192 Device encryption. \u2022 If it\u2019s there, use it. \u2022 If not, your realistic options are upgrade to Pro (BitLocker) or use VeraCrypt/other third-party encryption. If you want, tell me your laptop model and I can suggest what to flip in BIOS and what\u2019s realistically possible (e.g., whether Modern Standby / Device Encryption is likely supported). Shop for home and groceries \u2014 Connect Target By BenjaminDEKR"
     }
   ],
-  "fetched_at": "2025-12-04T06:42:23.533374+00:00"
+  "fetched_at": "2025-12-04T07:29:49.807858+00:00"
 }
