@@ -12,7 +12,7 @@
       "hf_url": "https://huggingface.co/papers/2511.22699",
       "arxiv_url": "https://arxiv.org/abs/2511.22699",
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.22699.png",
-      "upvotes": 126,
+      "upvotes": 127,
       "num_comments": 2,
       "published_at": "2025-11-27T13:52:07.000Z",
       "github_repo": "https://github.com/Tongyi-MAI/Z-Image",
@@ -96,6 +96,25 @@
       "project_page": "https://ai.meta.com/sam3/"
     },
     {
+      "id": "2412.20138",
+      "title": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "authors": "Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)",
+      "organization_name": null,
+      "organization_fullname": null,
+      "organization_avatar": null,
+      "summary": "Significant progress has been made in automated problem-solving using\nsocieties of agents powered by large language models (LLMs). In finance,\nefforts have largely focused on single-agent systems handling specific tasks or\nmulti-agent frameworks independently gathering data. However, the multi-agent\nsystems' potential to replicate real-world trading firms' collaborative\ndynamics remains underexplored. TradingAgents proposes a novel stock trading\nframework inspired by trading firms, featuring LLM-powered agents in\nspecialized roles such as fundamental analysts, sentiment analysts, technical\nanalysts, and traders with varied risk profiles. The framework includes Bull\nand Bear researcher agents assessing market conditions, a risk management team\nmonitoring exposure, and traders synthesizing insights from debates and\nhistorical data to make informed decisions. By simulating a dynamic,\ncollaborative trading environment, this framework aims to improve trading\nperformance. Detailed architecture and extensive experiments reveal its\nsuperiority over baseline models, with notable improvements in cumulative\nreturns, Sharpe ratio, and maximum drawdown, highlighting the potential of\nmulti-agent LLM frameworks in financial trading. TradingAgents is available at\nhttps://github.com/TauricResearch/TradingAgents.",
+      "ai_summary": "A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.",
+      "hf_url": "https://huggingface.co/papers/2412.20138",
+      "arxiv_url": "https://arxiv.org/abs/2412.20138",
+      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2412.20138.png",
+      "upvotes": 14,
+      "num_comments": 0,
+      "published_at": "2024-12-28T07:54:06.000Z",
+      "github_repo": "https://github.com/tauricresearch/tradingagents",
+      "github_stars": 26054,
+      "project_page": null
+    },
+    {
       "id": "2510.14528",
       "title": "PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model",
       "authors": "Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)",
@@ -113,25 +132,6 @@
       "github_repo": "https://github.com/PaddlePaddle/PaddleOCR",
       "github_stars": 65717,
       "project_page": null
-    },
-    {
-      "id": "2511.16624",
-      "title": "SAM 3D: 3Dfy Anything in Images",
-      "authors": "SAM 3D Team, Xingyu Chen, Fu-Jen Chu et al. (23 authors)",
-      "organization_name": "facebook",
-      "organization_fullname": "AI at Meta",
-      "organization_avatar": "https://cdn-uploads.huggingface.co/production/uploads/1592839207516-noauth.png",
-      "summary": "We present SAM 3D, a generative model for visually grounded 3D object reconstruction, predicting geometry, texture, and layout from a single image. SAM 3D excels in natural images, where occlusion and scene clutter are common and visual recognition cues from context play a larger role. We achieve this with a human- and model-in-the-loop pipeline for annotating object shape, texture, and pose, providing visually grounded 3D reconstruction data at unprecedented scale. We learn from this data in a modern, multi-stage training framework that combines synthetic pretraining with real-world alignment, breaking the 3D \"data barrier\". We obtain significant gains over recent work, with at least a 5:1 win rate in human preference tests on real-world objects and scenes. We will release our code and model weights, an online demo, and a new challenging benchmark for in-the-wild 3D object reconstruction.",
-      "ai_summary": "SAM 3D is a generative model that reconstructs 3D objects from single images using a multi-stage training framework that includes synthetic pretraining and real-world alignment, achieving high performance in human preference tests.",
-      "hf_url": "https://huggingface.co/papers/2511.16624",
-      "arxiv_url": "https://arxiv.org/abs/2511.16624",
-      "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2511.16624.png",
-      "upvotes": 104,
-      "num_comments": 3,
-      "published_at": "2025-11-20T13:31:46.000Z",
-      "github_repo": "https://github.com/facebookresearch/sam-3d-objects",
-      "github_stars": 4387,
-      "project_page": "https://ai.meta.com/sam3d/"
     },
     {
       "id": "2508.03680",
@@ -193,5 +193,5 @@
   ],
   "limit": 10,
   "sort": "trending",
-  "fetched_at": "2025-12-04T06:42:24.325916+00:00"
+  "fetched_at": "2025-12-04T07:44:35.362481+00:00"
 }
