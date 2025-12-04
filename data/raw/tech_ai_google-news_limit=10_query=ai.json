@@ -45,16 +45,6 @@
       "description": null
     },
     {
-      "headline": "YouTube's new AI deepfake tracking tool is alarming experts and creators",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaU5XMEJBNGlJTXdONE5odDJ4Q1JjVEVlNDJrdUUzZFU0dThsVi1CWU1iTXZQSk1KX0t3cFRibExCTnlaSGRXX3JZdF9zMHdjcmhUd2V5Z0ZlSVFQa0NlWDNDSDFxMWkxeTVSczZxWXRpaVlkUTBhN3dqYktGSVdFQWNwRmdNUdIBiwFBVV95cUxQbTJnQkJ1Vi14dE1sbk1LVy1oblI3SEN3cmhrRWY5UGZ4VE9HcVUtckgwcDhRdEt5VzlLbWtPSXlQVGZlMTFZY3FsbC1rSjRFNjVrbGU0RmFDTFlmeGQwWk1MMXRwX3E0OWdORkVjRlJMMWZOSlgtc05PMlh6Q3oydTMycEhNbTZKby1V?oc=5",
-      "pub_date": 1764676801.0,
-      "article_url": "https://www.cnbc.com/2025/12/02/youtube-ai-biometric-data-creator-deepfake.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108231894-1764095127352-behind_the_scenes_2.JPEG?v=1764650315&w=1920&h=1080",
-      "description": "A YouTube tool that uses creators' biometrics to remove AI-generated videos also allows Google to train its AI models on that sensitive data, experts told CNBC."
-    },
-    {
       "headline": "How AI Is Transforming Work at Anthropic",
       "source": "Anthropic",
       "source_url": "https://www.anthropic.com",
@@ -75,16 +65,6 @@
       "description": "Two of Wall Street\u2019s biggest firms say the AI boom isn\u2019t a bubble, arguing real spending and earnings support the stock market rally even as near-term risks emerge."
     },
     {
-      "headline": "Nvidia servers speed up AI models from China's Moonshoot AI and others tenfold",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlZGeWtQd2wyblh4MjJKTElXSnpxd3FlT2dsUHg4YTRSQWF0SkFOTnJfUjFHeEtQZ0g1OXJkZ29wNmZHdXZWM0h0UE0xaXRoSXRzLWI4NFdxMHo3MFFHMk90cGZmZVFmbGZ1Q0hXX1FKWGF0Z2Q4SmlrVnByc3NjZkpkdnNCcU9mT1RoMjBsQjVoUXFMR0NyUlVMQzctZmhwVFhXbUlOMEhqSkg4MGNMZGhmdzdiZDg?oc=5",
-      "pub_date": 1764799000.0,
-      "article_url": "https://www.reuters.com/world/china/nvidia-servers-speed-up-ai-models-chinas-moonshoot-ai-others-tenfold-2025-12-03/",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Major AI companies fail safety test for superintelligence",
       "source": "qz.com",
       "source_url": "https://qz.com",
@@ -103,8 +83,28 @@
       "article_url": "https://www.wired.com/story/tecent-3d-models-video-game-design-artificial-intelligence/",
       "image": "https://media.wired.com/photos/692f7438359d941921890935/191:100/w_1280,c_limit/AI-Lab-Tencents-Hunyuan-Models-Business.jpg",
       "description": "The Chinese video game giant Tencent is now building some of the world\u2019s best 3D AI models. This could have implications far outside gaming."
+    },
+    {
+      "headline": "Dartmouth Announces AI Partnership With Anthropic and AWS",
+      "source": "Dartmouth",
+      "source_url": "https://home.dartmouth.edu",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNFFPUjRPMFhDcERlZmUzYTJBYjJBSXhyY3BqS09hbXh3dHFodjVYVEYtYWlWRnAzS3o4cUpaeWEzU2Q0TFJPY2s0aG0yNHRZUV91Y05uUXhCUFNkX0FUYk1CTDVPN0xZQXltNWpmYmxId21rMXBJUTA5UkZlWnJXelFFMjVRMHJSWWt1emk1a0RFZkpkbFVR?oc=5",
+      "pub_date": 1764792540.0,
+      "article_url": "https://home.dartmouth.edu/news/2025/12/dartmouth-announces-ai-partnership-anthropic-and-aws",
+      "image": "https://home.dartmouth.edu/sites/home/files/styles/16_9_lg/public/2025-12/Baker_Spire.png?h=c6980913&itok=4rLU0OPp",
+      "description": null
+    },
+    {
+      "headline": "Nvidia servers speed up AI models from China's Moonshoot AI and others tenfold",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlZGeWtQd2wyblh4MjJKTElXSnpxd3FlT2dsUHg4YTRSQWF0SkFOTnJfUjFHeEtQZ0g1OXJkZ29wNmZHdXZWM0h0UE0xaXRoSXRzLWI4NFdxMHo3MFFHMk90cGZmZVFmbGZ1Q0hXX1FKWGF0Z2Q4SmlrVnByc3NjZkpkdnNCcU9mT1RoMjBsQjVoUXFMR0NyUlVMQzctZmhwVFhXbUlOMEhqSkg4MGNMZGhmdzdiZDg?oc=5",
+      "pub_date": 1764799000.0,
+      "article_url": "https://www.reuters.com/world/china/nvidia-servers-speed-up-ai-models-chinas-moonshoot-ai-others-tenfold-2025-12-03/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T03:49:26.479370+00:00"
+  "fetched_at": "2025-12-04T04:47:28.375617+00:00"
 }

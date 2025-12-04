@@ -2,17 +2,6 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "Waymo self-driving car enters active police standoff with passenger inside",
-      "author": "BuildwithVignesh",
-      "url": "https://www.reddit.com/r/robotics/comments/1pcz5ba/waymo_selfdriving_car_enters_active_police/",
-      "published": 1764751715.0,
-      "thumbnail": "https://external-preview.redd.it/dGsxcHM0MXdjeTRnMQzCE-oKnmX0A0tzj78iO1FrgUK3uFro-tgp7j8i7UI-.png?width=640&crop=smart&auto=webp&s=6c04322bd908a9bd161244d22c7a57aae89950a5",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Videoshows a driverless Waymo entering a police felony stop perimeter in Downtown LA. The Incident: The vehicle navigated just a few feet from officers during a tense standoff while a suspect was on the ground. The Failure: The planner technically worked (it didn't hit anyone) but it completely failed to read the room. It highlights that current AVs have zero concept of danger or social context beyond basic geometry. Outcome: Passengers were safe, but officers had to shout commands at a car that couldn't understand the urgency. Source : NBC News \ud83d\udd17: https://www.google.com/amp/s/www.nbcnews.com/news/amp/rcna246994"
-    },
-    {
       "title": "Optimus: Next-Generation Highly Flexible Hand",
       "author": "AlbatrossHummingbird",
       "url": "https://www.reddit.com/r/robotics/comments/1pde8o5/optimus_nextgeneration_highly_flexible_hand/",
@@ -22,6 +11,17 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Waymo self-driving car enters active police standoff with passenger inside",
+      "author": "BuildwithVignesh",
+      "url": "https://www.reddit.com/r/robotics/comments/1pcz5ba/waymo_selfdriving_car_enters_active_police/",
+      "published": 1764751715.0,
+      "thumbnail": "https://external-preview.redd.it/dGsxcHM0MXdjeTRnMQzCE-oKnmX0A0tzj78iO1FrgUK3uFro-tgp7j8i7UI-.png?width=640&crop=smart&auto=webp&s=6c04322bd908a9bd161244d22c7a57aae89950a5",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Videoshows a driverless Waymo entering a police felony stop perimeter in Downtown LA. The Incident: The vehicle navigated just a few feet from officers during a tense standoff while a suspect was on the ground. The Failure: The planner technically worked (it didn't hit anyone) but it completely failed to read the room. It highlights that current AVs have zero concept of danger or social context beyond basic geometry. Outcome: Passengers were safe, but officers had to shout commands at a car that couldn't understand the urgency. Source : NBC News \ud83d\udd17: https://www.google.com/amp/s/www.nbcnews.com/news/amp/rcna246994"
     },
     {
       "title": "GITAI is designing robots that can maintain themselves on the Moon or Mars",
@@ -57,11 +57,33 @@
       "description": "Unitree Robotics: Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall reliability of the robot, please do not attempt to replicate this. Please use robots in a friendly manner. Source : YT(Unitree Robotics) \ud83d\udd17 : https://youtu.be/kjJeQZECPcQ?si=rsmZHVdMuBLagHHN"
     },
     {
+      "title": "accidentally built a web robotics simulator pizza delivery game inside lamo",
+      "author": "Silly_Asparagus_76",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdpf11/accidentally_built_a_web_robotics_simulator_pizza/",
+      "published": 1764818909.0,
+      "thumbnail": "https://external-preview.redd.it/N2ZwNm05a2xyMzVnMSuzBBq0MNDBjvBnGXjUEPQYROcQZE3dpG1jZAeklLv9.png?width=640&crop=smart&auto=webp&s=32f82bbc18afa15d30db97fda875aa51ec06516b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I\u2019m building an open\u2011source, web based simulator, and as a quick platform test I put together a simple pizza delivery game! Under the hood it runs browser\u2011side physics, basic path planning, and sensor mocking, so it\u2019s easy to extend into robot tasks. What do you think? !!!"
+    },
+    {
       "title": "Another close up of Optimus new flexible hand",
       "author": "AlbatrossHummingbird",
       "url": "https://www.reddit.com/r/robotics/comments/1pdg7yo/another_close_up_of_optimus_new_flexible_hand/",
       "published": 1764795338.0,
       "thumbnail": "https://external-preview.redd.it/M3pmcnZ1NWx5MTVnMRGOH0pOqmmGNLMm6x_-78GW-TxQE2BlRQrYaR8uoDMg.png?width=640&crop=smart&auto=webp&s=f8ba3f1bfd988bb69094fdbb5230a3bdc97a5f4e",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
+      "title": "NVIDIA CEO Jensen Huang on Tesla Optimus:",
+      "author": "shadrack_CK",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdlhe3/nvidia_ceo_jensen_huang_on_tesla_optimus/",
+      "published": 1764808089.0,
+      "thumbnail": "https://external-preview.redd.it/d3dkYng5dGkwMzVnMbbwpuX7-8VsNfH7A1Nkx7tYaacnBWHQ7beSZgJeeMS3.png?width=640&crop=smart&auto=webp&s=9b1ad9070dc7c886bfe880136fb2334af155f91f",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -79,28 +101,6 @@
       "description": "From EngineAI on \ud835\udd4f: https://x.com/engineairobot/status/1996165785056919634?s=20"
     },
     {
-      "title": "NVIDIA CEO Jensen Huang on Tesla Optimus:",
-      "author": "shadrack_CK",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdlhe3/nvidia_ceo_jensen_huang_on_tesla_optimus/",
-      "published": 1764808089.0,
-      "thumbnail": "https://external-preview.redd.it/d3dkYng5dGkwMzVnMbbwpuX7-8VsNfH7A1Nkx7tYaacnBWHQ7beSZgJeeMS3.png?width=640&crop=smart&auto=webp&s=9b1ad9070dc7c886bfe880136fb2334af155f91f",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "My Robot Dog",
-      "author": "doppler07",
-      "url": "https://www.reddit.com/r/robotics/comments/1pda1f8/my_robot_dog/",
-      "published": 1764781863.0,
-      "thumbnail": "https://external-preview.redd.it/bGV4a212YWN1MDVnMWUWjaeK5hXOBd8FvHKc5cwQ_ZXRvAAQoc_yITuvpEpb.png?width=640&crop=smart&auto=webp&s=8b6893b864dd9f64a51f7d52b6369711a0ab9f39",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Been working on this dog for 2 months. Finally modelled the dogs body dynamics. This is where all the trigonometry,triangles and laws of cosiness that I learnt in high school came to use. Its remote controlled I will open source the code once the robot is complete. If anybody has any queries do dm me\ud83d\ude42"
-    },
-    {
       "title": "It might be dumb, but I bought a welding robot for fun.",
       "author": "JunctionRunner",
       "url": "https://www.reddit.com/r/robotics/comments/1pdl77j/it_might_be_dumb_but_i_bought_a_welding_robot_for/",
@@ -112,5 +112,5 @@
       "description": "I've wanted to mess around with robotics for a loooong time, but it's not an easy sort of thing around here and small scale hobby stuff just doesn't seem that useful to me. Found a pretty good deal on this thing so I'll be diving in headfirst with minimal planning. My original plan was to look into making my own resolver to digital converters and motor drive solution, however, with the cost of RDC chips, it might actually be more feasible and affordable to try and find a used pendant, and work on putting the controls from the cabinet into something smaller, lighter and more reasonable. Time will tell, going to be a long and big project but that's what I've been craving."
     }
   ],
-  "fetched_at": "2025-12-04T03:49:16.227225+00:00"
+  "fetched_at": "2025-12-04T04:47:16.218676+00:00"
 }

@@ -2,17 +2,6 @@
   "subreddit": "artificial",
   "posts": [
     {
-      "title": "Microsoft slashes AI sales growth targets as customers resist unproven agents",
-      "author": "arstechnica",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdcr4z/microsoft_slashes_ai_sales_growth_targets_as/",
-      "published": 1764787632.0,
-      "thumbnail": "https://external-preview.redd.it/TvF53GlxmK0FtmcdZm78zL11AVb5VsM-vgGiVCu2_wI.jpeg?width=640&crop=smart&auto=webp&s=2a8188b56fc23f6d8f48ef738c97741754201e35",
-      "external_url": "http://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents",
-      "site_name": "Ars Technica",
-      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
-      "description": "Report: Microsoft declared \u201cthe era of AI agents\u201d in May, but enterprise customers aren\u2019t buying."
-    },
-    {
       "title": "Microsoft's reported sales struggles are a warning that huge AI spending might take a while to pay off",
       "author": "businessinsider",
       "url": "https://www.reddit.com/r/artificial/comments/1pdb7ml/microsofts_reported_sales_struggles_are_a_warning/",
@@ -33,6 +22,17 @@
       "site_name": "Fortune",
       "favicon": "https://fortune.com/icons/favicons/apple-touch-icon.png",
       "description": "\u201cIs this 2000? Are we in a bubble? No,\u201d BofA\u2019s strategy chief Savita Subramanian said. \u201cWill AI continue in unfettered leadership? No.\u201d"
+    },
+    {
+      "title": "Microsoft slashes AI sales growth targets as customers resist unproven agents",
+      "author": "arstechnica",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdcr4z/microsoft_slashes_ai_sales_growth_targets_as/",
+      "published": 1764787632.0,
+      "thumbnail": "https://external-preview.redd.it/TvF53GlxmK0FtmcdZm78zL11AVb5VsM-vgGiVCu2_wI.jpeg?width=640&crop=smart&auto=webp&s=2a8188b56fc23f6d8f48ef738c97741754201e35",
+      "external_url": "http://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents",
+      "site_name": "Ars Technica",
+      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-300x300.png",
+      "description": "Report: Microsoft declared \u201cthe era of AI agents\u201d in May, but enterprise customers aren\u2019t buying."
     },
     {
       "title": "Micron stops selling memory to consumers as demand spikes from AI chips",
@@ -79,6 +79,17 @@
       "description": "OpenAI's AI-powered ChatGPT is down worldwide with users receiving errors when attempting to access chats, with no reasons currently given."
     },
     {
+      "title": "What is the point of ChatGPT subscription?",
+      "author": "msaussieandmrravana",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdqldc/what_is_the_point_of_chatgpt_subscription/",
+      "published": 1764822384.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I pay for ChatGPT Plus and asked it about Windows BitLocker. It showed me an ad to shop at Target. This is how you lose users. ChatGPT response (excerpt) ChatGPT 5.1 Thinking You can: \u2022 Try to enable Core isolation / Memory integrity for extra protection. \u2022 Improve firmware settings (Secure Boot, UEFI, virtualization) so Windows stops saying \u201cStandard hardware security not supported.\u201d For actual drive encryption: \u2022 Look in Settings \u2192 Privacy & security \u2192 Device encryption. \u2022 If it\u2019s there, use it. \u2022 If not, your realistic options are upgrade to Pro (BitLocker) or use VeraCrypt/other third-party encryption. If you want, tell me your laptop model and I can suggest what to flip in BIOS and what\u2019s realistically possible (e.g., whether Modern Standby / Device Encryption is likely supported). Shop for home and groceries \u2014 Connect Target By BenjaminDEKR"
+    },
+    {
       "title": "An AI model trained on prison phone calls now looks for planned crimes in those calls",
       "author": "esporx",
       "url": "https://www.reddit.com/r/artificial/comments/1pdik70/an_ai_model_trained_on_prison_phone_calls_now/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Lately I noticed I\u2019ve worked a bunch of AI stuff into my daily workflow without even planning to. I draft things with a model, clean them up myself, then run them through a detector that gives actual sentence level notes so I can fix any stiff sounding parts. Curious what everyone else is using day to day. What stuck and what did you drop?"
-    },
-    {
-      "title": "Micron ends Crucial consumer SSD and RAM line, shifts focus to AI and enterprise",
-      "author": "esporx",
-      "url": "https://www.reddit.com/r/artificial/comments/1pdd29l/micron_ends_crucial_consumer_ssd_and_ram_line/",
-      "published": 1764788292.0,
-      "thumbnail": "https://external-preview.redd.it/JwnHD4WOV0s9aNA4vTLqUdc_KKpyC7kWtk1LCmNzgPg.jpeg?width=640&crop=smart&auto=webp&s=ebc556dc044abb87c66a13d59006b15fef21f01a",
-      "external_url": "https://videocardz.com/newz/micron-kills-off-crucial-cosnumer-brand-to-focus-on-ai-and-enterprise",
-      "site_name": "videocardz.com",
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-12-04T03:49:12.424704+00:00"
+  "fetched_at": "2025-12-04T04:47:11.936104+00:00"
 }

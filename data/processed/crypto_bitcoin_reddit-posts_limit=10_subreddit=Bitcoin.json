@@ -35,17 +35,6 @@
       "description": null
     },
     {
-      "title": "Don\u2019t take your eye off the ball!",
-      "author": "Leading_Confection32",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pd2nj0/dont_take_your_eye_off_the_ball/",
-      "published": 1764764338.0,
-      "thumbnail": "https://preview.redd.it/xqb0umpfez4g1.jpeg?width=640&crop=smart&auto=webp&s=9a25551835541cf3303147c0809defbbe666d4c1",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Food is optional DCAing is not",
       "author": "spacticity",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pdhw1k/food_is_optional_dcaing_is_not/",
@@ -57,11 +46,11 @@
       "description": null
     },
     {
-      "title": "Your choice.",
-      "author": "MrMBTC",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pd4mzj/your_choice/",
-      "published": 1764769713.0,
-      "thumbnail": "https://preview.redd.it/rmkqbczeuz4g1.jpeg?width=640&crop=smart&auto=webp&s=a31c1bf3c826b286afd94c6581eedf776042b86d",
+      "title": "Don\u2019t take your eye off the ball!",
+      "author": "Leading_Confection32",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pd2nj0/dont_take_your_eye_off_the_ball/",
+      "published": 1764764338.0,
+      "thumbnail": "https://preview.redd.it/xqb0umpfez4g1.jpeg?width=640&crop=smart&auto=webp&s=9a25551835541cf3303147c0809defbbe666d4c1",
       "external_url": null,
       "site_name": null,
       "favicon": null,
@@ -90,6 +79,17 @@
       "description": null
     },
     {
+      "title": "Your choice.",
+      "author": "MrMBTC",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pd4mzj/your_choice/",
+      "published": 1764769713.0,
+      "thumbnail": "https://preview.redd.it/rmkqbczeuz4g1.jpeg?width=640&crop=smart&auto=webp&s=a31c1bf3c826b286afd94c6581eedf776042b86d",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Yep...this says it all!!!",
       "author": "tdubz22",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pdlz58/yepthis_says_it_all/",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-12-04T03:49:13.691678+00:00"
+  "fetched_at": "2025-12-04T04:47:13.303415+00:00"
 }
