@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin logs its worst day since March",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDEyTWhRdWI3azBaRDlNelZXc1JSV0RlTmpqbUFiMkNXNThYWndnb1Q5VnNmTHZsVS0wam55SHhsVktzWFcyanB4R1VBZU9iVzVrU19CVXROQkhFZmk4bTU0aUlpbk9UTm5VMUlkQ2V5bkZhWnFaQ0dETEZXWkdQRlpzSEV3RHhDWWF4bkNoeE54QUplb1RWWDBB0gGfAUFVX3lxTE1RRDdQMHFJQjZxU2RWUFBjallpR3U1OExtU01XOUM4RDAyWGcxaFpMNnJlNlFUblVhQkFMSlk4cjZsRnpUYU5KcjRPaUQyOE5RTHdnQjkzdzlVMEtuMzBhejBxbklZTTVGeXNxRlNESWo3RGZ2d0E0QWQwZlNfRDE0Z2xNV0tGOE9NLWpIWUdNSkxjLTJTMkVvMEJubmxUaw?oc=5",
-      "pub_date": 1764574221.0,
-      "article_url": "https://www.cnbc.com/2025/12/01/bitcoin-ethereum-fall-sharply-as-crypto-sell-off-resumes-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108229962-1763739028767-gettyimages-2247743577-img_6811.jpeg?v=1763739082&w=1920&h=1080",
-      "description": "Bitcoin and Ethereum saw heavy selling at the start of a new month, resuming the recent turbulence in digital assets."
+      "headline": "Bitcoin Jumps Back Above $90,000 After Bruising Selloff",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnl1U0Y1bG5MRW1yQ2VrWEhpbVdWR3JzTFBuZ2I2WEZ4bGhZWE42S05ZNWtWNW1LbExfSDBBMmhMOHYzNGF4YmxIZ3Nhd1pjRXNpcUlMX2xiaG8zUHl5Sk9lWWtyQWhyS19MM1E4SzhMYlR3dEVIQ0hOTjRhYTBZZ2d5bUFrMkkzZE5uV245RmpvV2ZMc0g5QkZwa0ZzbjRVYmE1UEhYWC1yWFdRcGtV?oc=5",
+      "pub_date": 1764711512.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/crypto-markets-steady-as-indicators-point-to-weak-sentiment",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Larry Fink softens crypto stance as BlackRock boasts biggest US bitcoin ETF: 'My thought process has evolved'",
@@ -45,26 +45,6 @@
       "description": "The chief executive of the world\u2019s largest asset manager BlackRock has predicted the \u201cenormous growth\u201d of crypto-based tokenization in coming years..."
     },
     {
-      "headline": "Bitcoin Miners Hunted After Stealing $1 Billion of Electricity From Malaysia Grid",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU2ZvZUpWaDFYdHZMdFJZQ3RxUmlpdnN4NHdVMXItdWFBQmJJY2o1c0NNMkpTMjVXZnJYdFRKX25ob2g3Z3J3cDZDSlJ1c19FMjAyYXdka2ZQemx3NU9BUUQ1TVFrMlBUU3JKQzdRODJFY1duY2pJak9Mc2JWSDU5NW5qbUNTWnM0VVJxODNjUEJlZHFTOUlmc3R1d3oyalZrZTZGRUMzQXVJaDRlc2VYNG5CSG1jbS1lOHhMd1VZNi1mZHpD?oc=5",
-      "pub_date": 1764799212.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-03/bitcoin-btc-miners-hunted-after-stealing-1-billion-power-from-malaysia-grid",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip2YHmlTMy04/v1/1200x799.jpg",
-      "description": "Cracking down on illegal Bitcoin mining gangs has become a cat-and-mouse game in Malaysia."
-    },
-    {
-      "headline": "Bitcoin is a 'risk barometer,' CIO says",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uOGIxeVFha3FSWk9GVzlWYlVuS0lmZ1dtaDFEOG82Z1pZUXpIa0dEQ083RUxjTG1ZQVl4cWZTeDZwMUFLVUpma0l1aHBVdU1iaFdoU2dnVGN1V0k?oc=5",
-      "pub_date": 1764802981.0,
-      "article_url": "https://www.foxbusiness.com/video/6385921108112",
-      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/c1c3560b-8306-4b93-9b56-c5064b422fb6/570c6701-c50e-42ab-835e-b9f6d341f55e/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-      "description": "Cresset Chief Investment Officer Jack Ablin discusses anticipated December rate decision,  President Donald Trump's Fed chair pick, Bitcoin's performance and more on 'Making Money.'"
-    },
-    {
       "headline": "Bitcoin Surges, Trump-Owned Miner Rebounds After Insider Sales",
       "source": "Investor's Business Daily",
       "source_url": "https://www.investors.com",
@@ -85,26 +65,46 @@
       "description": null
     },
     {
-      "headline": "Bitcoin sell-off halts Trump family's crypto windfall",
-      "source": "ABC News",
-      "source_url": "https://abcnews.go.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmlWMDNZVUtjS1dsWHFyaTdfMnhSMTEta1J0WGZDTlJ0czUxcFlJeV95Y0pUSGRVZG0tSmE3MlVxMDNGb1pBZjlWOF9uZXlZVlJncTRldWtaMDRRMm5NelRQN216N0I1YldHSVNja0Nsb3FpUDliZk12aTVaZEd6TVkzaW1FeUZRcWtBcWl2WkhTS1JGbExzUDFIRFlnUdIBowFBVV95cUxQVGxtTWthQ3gxRS1QUUpYZFd0RTB0OXVPYm5STk1sLWJPUzZLeGRhVUM0NzBfcm1IaGdqdVNESG9leWZpTHpkUDFsaEpDbG94d0FjOTlpRGNZOFZDWF9ZeGhNMkRzRHNzOHpDVGNZQWNDamdQR0R2Ni1PVkhtVmpsQUpyZHdLVzgxelQwNzU3RmFkMXNOOXB3UmFRV1IzUGItc2Q4?oc=5",
-      "pub_date": 1764696059.0,
-      "article_url": "https://abcnews.go.com/US/bitcoin-sell-off-halts-trump-familys-crypto-windfall/story?id=128035773",
-      "image": "https://i.abcnewsfe.com/a/cb51083f-cd27-4bf8-8f01-4b848cd3d681/donald-trump-5-ap-gmh-251201_1764611758255_hpMain_16x9.jpg?w=1600",
-      "description": "Due to a recent downturn in bitcoin, the Trump family has had roughly a billion dollars of their net worth erased in just a matter of weeks, according to estimates."
+      "headline": "Bitcoin is a 'risk barometer,' CIO says",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uOGIxeVFha3FSWk9GVzlWYlVuS0lmZ1dtaDFEOG82Z1pZUXpIa0dEQ083RUxjTG1ZQVl4cWZTeDZwMUFLVUpma0l1aHBVdU1iaFdoU2dnVGN1V0k?oc=5",
+      "pub_date": 1764802981.0,
+      "article_url": "https://www.foxbusiness.com/video/6385921108112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/c1c3560b-8306-4b93-9b56-c5064b422fb6/570c6701-c50e-42ab-835e-b9f6d341f55e/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Cresset Chief Investment Officer Jack Ablin discusses anticipated December rate decision,  President Donald Trump's Fed chair pick, Bitcoin's performance and more on 'Making Money.'"
     },
     {
-      "headline": "Strategy CEO Says Reserve Reduces Pressure to Sell Bitcoin",
-      "source": "Bloomberg",
+      "headline": "Bitcoin Miners Hunted After Stealing $1 Billion of Electricity From Malaysia Grid",
+      "source": "Bloomberg.com",
       "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHk4V1ktaDhvd3Vzb0Q0WWZOclVYSEFzSVVVVmJxZWZvLU1IWVktdmJqTjNuNlR0TDhhRzNJS29iTU1BTkVvZTBxaWZkZGdLZGpqano4OHdoMnBOTzFvOVQwYk1TeF8yVnVVTkhrX0ZfVWZNYWlLMTR4TnhLSVVYTjFDMGU0MlMxMmJZWUIxYjdLaXMzNERTaHlDNi1LeEVGQ2NnVGxIZFBmMHVvZUJfX1BR?oc=5",
-      "pub_date": 1764703795.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/strategy-ceo-sees-reserve-used-to-make-payments-in-perpetuity",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU2ZvZUpWaDFYdHZMdFJZQ3RxUmlpdnN4NHdVMXItdWFBQmJJY2o1c0NNMkpTMjVXZnJYdFRKX25ob2g3Z3J3cDZDSlJ1c19FMjAyYXdka2ZQemx3NU9BUUQ1TVFrMlBUU3JKQzdRODJFY1duY2pJak9Mc2JWSDU5NW5qbUNTWnM0VVJxODNjUEJlZHFTOUlmc3R1d3oyalZrZTZGRUMzQXVJaDRlc2VYNG5CSG1jbS1lOHhMd1VZNi1mZHpD?oc=5",
+      "pub_date": 1764799212.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-03/bitcoin-btc-miners-hunted-after-stealing-1-billion-power-from-malaysia-grid",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip2YHmlTMy04/v1/1200x799.jpg",
+      "description": "Cracking down on illegal Bitcoin mining gangs has become a cat-and-mouse game in Malaysia."
+    },
+    {
+      "headline": "Strategy, the Bitcoin-Buying Company, Raises $1.44 Billion to Weather Crypto Downturn",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNZ0lucC1SQUREakp4dWFnMEdSSENWbUVwa1hqbTZaUGUyTUV0TENmTUdyeG5DaUQxZ0k2ei16ZXh5WmlrdV96VjFWd1dtNWdFYVMxUDlKZGdQVm5wTjc1c0kxWjlBTjl5aTBoVEhDcjVES2kwcmE0alpCQ0dwYWhGdHVwUlIzWDk3dzdRWHF2cTdNTThySGpzb0E0Vk9sR09uYTh1WmpRdG9jLW5HUGFZUDdqdTVoUmctTlhwRXRxZU9HNXJGQ1dYUElJeGhfY251bmxtMXloWWRTNERYTFdWX1hqT0lQaWs2SkpVTXZveGY2cGtxZDlIVWRRNVdhMldkUGQxLUNab3ZPMHhQMXh1UURBb0ROQ0tVN2ROV1lFRWZzNHh1ZXlMYW9WTmtLVkdONHVWNm5XMFhrUmNzZER6MEo0aVJpRmE4SVg3aERkVFVVbDlDSHRqMDl6UWRRd0tWN2NiWGxJdVFMcmtTQVltMlJmRW40ZjNuU2Vub09ybnp2a0EwZUtBQ0RyLWdQek5wUG5SM3VsTWhfekY1d0QxaXFfTTRvbm1VbVhSM3MzNFo5R2xGNlVhQg?oc=5",
+      "pub_date": 1764626940.0,
+      "article_url": "https://www.wsj.com/business/strategy-cuts-outlook-establishes-1-44-billion-reserve-amid-bitcoin-selloff-020019d4?gaa_at=eafs&gaa_n=AWEtsqfStmJqEfUfwjhqm2QrLOR2Cb0wVE-RpXffOuuXxNj1vQ7nkeWxl1F1&gaa_ts=6930e02e&gaa_sig=lvsk9WbXyy8BK-0hqOHM5gEyt5ewoZgGLMjm1gPa9DhDygLUgKcL3MRw8Kg_ymziPt751EodwAjZK4fqREh06w%3D%3D",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "A Huge Bitcoin Bar and Steakhouse Is Opening in DC",
+      "source": "Washingtonian",
+      "source_url": "https://washingtonian.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWE3RC1qZjVNLUdIcUhLNDZROUVxc01pUGVJSUZQMzBMY241Szk0bE5LdEFEc2VkeEJnSEFoU2tNZXVDc2ozcVp2aVBERWJMOXpXUTFjbmV4b0hhN1Z2NkU1MUhkamJMNlVqdDBTZG5EZVBjbzdtVHZieWxMdWNkdFRtSTVYei1QVDlWSk10LWktUQ?oc=5",
+      "pub_date": 1764790452.0,
+      "article_url": "https://washingtonian.com/2025/12/03/a-huge-bitcoin-bar-and-steakhouse-is-opening-in-dc/",
+      "image": "https://washingtonian.com/wp-content/uploads/2025/12/PubKey-DC-shrine-horizontal-Credit-Chris-Bryan.jpeg",
+      "description": "PubKey expands from New York with a podcast studio, event space, and more."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T23:26:17.077503+00:00"
+  "fetched_at": "2025-12-04T00:59:03.145918+00:00"
 }

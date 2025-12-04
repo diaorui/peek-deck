@@ -5,7 +5,7 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "Microsoft Lowers AI Software Growth Targets as Customers Resist Newer Products",
+      "headline": "Microsoft Lowers Sales Staff\u2019s Growth Targets For Newer AI Software",
       "source": "The Information",
       "source_url": "https://www.theinformation.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0dMQ0RMU0p3Q1g1UUg1RGJ1REhOT2lraGgzaExWQm55TU5QVFNRQkxYZTZHNnBzV1dsaE5qY1N4T0ZJMUVfQXhJSFBMa01BNkhiaDdjYVlhRVVLVHdyUC0ycHRaS19PbHRkM2ZoVDhBeG15ZWRuZlRkZ2xCNHlfX2JpX3hWMlF0czlsTVVjZmpMSEJET1NTdzdhNnM0UVF5TlI2Y0lDOHhGZm95SVVhb2k1QQ?oc=5",
@@ -45,6 +45,56 @@
       "description": null
     },
     {
+      "headline": "Wikipedia seeks more AI licensing deals similar to Google tie-up, co-founder Wales says",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdWE5ZkNjckFnTFRyNEt1MkhyZVI1SzJxdHc2WWtoU2MxQ3phOHlseEdYRXdfMmFmX0lueEZndWYwczVFNG9qZjVkM0NRMzJ0ZGliQVhWR3lFSHl6MGVVbzZuLXJnMHdtLWtxanVFTnVnanNQMjJfajNMNmxpa2FPdlNHckNvOGd0d1c2cTdfcjB2VV9PbEIzbG4wb1JKaF9oOFZxa1ducllYbEhFZS0tMXJQWW9JOEQtTnFyc0hqSlAwOU01ZDlNd3hocWFjamxnWU5n?oc=5",
+      "pub_date": 1764806552.0,
+      "article_url": "https://www.reuters.com/business/media-telecom/wikipedia-seeks-more-ai-licensing-deals-similar-google-tie-up-co-founder-wales-2025-12-04/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Snowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzLVRMME1KM01Pcl9qS3BsTjNLM0lGWUFKYk5Yem80TkxPWTAwN2NnVjBpQjA1N0lpNGJhY05wdEh1T1d5a2FOdXUxSncycTU2WFJlSzhId2FudUV6MUc1dVRUTFVLc2hIZlN1dTVCUmhmcTVTZUtNeGxYRQ?oc=5",
+      "pub_date": 1764806468.0,
+      "article_url": "https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeLine&backgroundColor=sky",
+      "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "headline": "AWS simplifies model customization to help customers build faster, more efficient AI agents",
+      "source": "About Amazon",
+      "source_url": "https://www.aboutamazon.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSlVxbFo2R1poLUE0UGpBanhxNDJhRmZKcjVrcnFtV21yS19hMFc1Unlvbi1DVFJIRHlud3FrRXlpdVRYSW15cEFPNVAwbmhjeGIwOF9Cb1JXQnpTUzJBVEU4QjlSbFBoaG9nbGNNZG1wcFptWEZObTQyNzBvVTk5d1ZsYi11bWtrM25zd2tB?oc=5",
+      "pub_date": 1764779397.0,
+      "article_url": "https://www.aboutamazon.com/news/aws/amazon-sagemaker-ai-amazon-bedrock-aws-ai-agents",
+      "image": "https://assets.aboutamazon.com/dims4/default/d823885/2147483647/strip/true/crop/2000x1000+0+44/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2Fc3%2F3b%2Fbfa624864172be0393e6dcfcade0%2Faa-amazon-bedrock-sagemaker-ai-2000x1125.jpg",
+      "description": "Amazon Bedrock and Amazon SageMaker AI put advanced model customization into the hands of any developer, while reducing costs and improving performance."
+    },
+    {
+      "headline": "Amazon challenges competitors with on-premises Nvidia \u2018AI Factories\u2019",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQck0yMkdUMzdCNldOT1NmWnBHNDVJZnFnOTdsTkFaRFc0ZURXVVRRX2JsVVVwWVR2TFVJVkV3eXZDY0twdURGWWp5X1YtMkFPOHJSM2dEc2lQOVR4V2NnbzdhM3FveWZaQnBNWFpRMk9nMzI5OTU0dk5sU01Od3IyallSSm8ydHYyajB3UXN0eHVLWE1fSGc?oc=5",
+      "pub_date": 1764722580.0,
+      "article_url": "https://finance.yahoo.com/news/amazon-challenges-competitors-premises-nvidia-004337664.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/7fy1kLfQMMxlMaH5g4u5Sw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/techcrunch_finance_785/549b2099ae1577b4f87859d62bb7d493",
+      "description": "If the product name sounds familiar, it should. It's a collab with Nvidia that combines AWS tech with the chip maker's tech."
+    },
+    {
+      "headline": "Amazon hopes to jump start its AI coding tool Kiro by giving it away to startups",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTRjY0I4MzhZMGtXajlvZDhSV0FoT0ZxQi1ud0VQZXZIM0JMYktOQkNzeTVjUlJxMDZWejlyVmowVVRaSFotZjNmMkhiN0pyOWxRZi15bkJfMUc2UWdYODI1c0EwZDZpeGFmaXk0OXR0N0Y1a01wNVdNSXBzUlZ0WUtwbk8tV0NXazVSWW5QV2xSQzJGQWxBUHVNQzRWWXp6b3A1eTRfYVR3VGZPaE51ZW1iNU5EZw?oc=5",
+      "pub_date": 1764806114.0,
+      "article_url": "https://techcrunch.com/2025/12/03/amazon-hopes-to-jump-start-its-ai-coding-tool-kiro-by-giving-it-away-to-startups/",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/03/students-typing-on-laptops-GettyImages_1513744777.jpeg?w=1200",
+      "description": "Can Kiro win the hearts of startup founders above the many AI coding tools they already have? Amazon hopes a free year will tempt them."
+    },
+    {
       "headline": "Not a 'bubble,' but maybe an 'air pocket': Wall Street says it's time to reset the AI narrative",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -53,58 +103,8 @@
       "article_url": "https://finance.yahoo.com/news/not-a-bubble-but-maybe-an-air-pocket-wall-street-says-its-time-to-reset-the-ai-narrative-165125153.html",
       "image": "https://s.yimg.com/ny/api/res/1.2/H0EaRfcf1kN6uqB8tlL_Hw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDI-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/770379a0-9589-11f0-be7e-d22d61f4aec0",
       "description": "Two of Wall Street\u2019s biggest firms say the AI boom isn\u2019t a bubble, arguing real spending and earnings support the stock market rally even as near-term risks emerge."
-    },
-    {
-      "headline": "Trump Is Taking 3 Steps Backward in the AI Race",
-      "source": "Politico",
-      "source_url": "https://www.politico.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLXd2a0dYamxwVERCYWpNRHk1M05mTW1GXzFaZHNJTVF3bGhLX1pnZ254RFd6WU9YVXZYblo1eTdzcDlCMVFsTzYzMjI1UkxLN0hYQjk0TGp1aDkwWVN2V3I3R29NeE4tX1pueGJtT1Z4Z0dLSjF0dFZnNHpWUmVQTkJRWmRNT1pSWVdlaVdrM0ZTaGRWbmI0cUtSMEt0ay15ZzdxVW9YaHYzeHNUTUF4M0NtMmdaaXAzcFdtdHdn?oc=5",
-      "pub_date": 1764782051.0,
-      "article_url": "https://www.politico.com/news/magazine/2025/12/03/what-the-trump-administration-is-getting-right-and-wrong-on-ai-00674211",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "How AI Is Transforming Work at Anthropic",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFBSaEZtOG1ieHpOdldrNVJEeGRCMEtJVmpNU1hOMHVNV1NldWJ1T3RuQlhTZXpkckk2akpUWFhqbGtabXRURFJiNDR4aG9YUjhUSzFadkZaYUJPNElQcDR4SkU2bHIyQkg3VDdmMWZ0eFM5ak52MThpcklEdVNfVg?oc=5",
-      "pub_date": 1764703349.0,
-      "article_url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Keyboard&backgroundColor=cactus",
-      "description": "How AI Is Transforming Work at Anthropic"
-    },
-    {
-      "headline": "The AI frenzy is driving a memory chip supply crisis",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb24zbTlISHhiN3MwUFFvYWVSaGNpeUx0NFNEODR0eldqZHV0YnZQSFhPZFhsOGFlaDJTR1h4Y3FOdjdlWnBhQXc2VjdrbG9xSHVqMzdib1I0WFJBTkY2QWNUMTVQNkMwRUNpSkV0MldVUTd0NzczWWJJWVg2T0pmRHQzUjc1a0Z2cGVvaGJvdHFlQ19EdmJJOF9XRWFLd2xY?oc=5",
-      "pub_date": 1764731700.0,
-      "article_url": "https://www.reuters.com/world/china/ai-frenzy-is-driving-new-global-supply-chain-crisis-2025-12-03/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Want to Shop With AI? Here\u2019s How to Start",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOOU9SRE9UMXAyQVRkVThGN1pDTTZacFNVYWt4WDBvOUR2VHhUVTNUWGJFZ2l4TFB6Q3NMUnNhUGNkemNZVEFYbVNvUkpKbG5pOE9RTnBUdTZjaFpFSFJfX0JqSURlRm1xYTlLNkZtdTRrcnA1QVFHbEVwbC1vYlBXcFR0RTNkTng2WTFnZkxqb2RWYkpWZ3ctaHBKNml5YlBxVHE1X2xCWEhiLUlxeFVENFhMX2hqUEplTE9uS2VSOWtZTFl5bGlteEJHa3NuYmphRHhUU3ZMT2k5TTB5Z0RuZDJleU1mUnRla2lnazVXekFJT294bGt0SkQxV01OVFFwT2lCUU9DYVlNZS0zMnVfMVBfX1I3WkNodFdiYkJXUG5DWmgxbVIwdHFyTkRLU19vYzAwYkZKdmlJRUlPY1hTWWVScWlWYTZ4aGVLXzNEaG1RNnBkcThLMGRySGNsVWtic2p5S2k4WGhJZS1TMHhzbWRsWjI?oc=5",
-      "pub_date": 1764770503.0,
-      "article_url": "https://www.wsj.com/tech/ai/shop-with-ai-how-to-start-bc19c27f?gaa_at=eafs&gaa_n=AWEtsqdql5pEHJ03Wh_ZObZ2U2x5ivuTLzr7AUIgmvjkt06TJTvdXJuvR3aP&gaa_ts=6930ca87&gaa_sig=KDlkaEFFD7mKK0jel5pIuqpPm4HQCr6OsNmFQRmMV0pxSZc6d8TKyYt31aPqbW_RpZHIxxXsxQQgMn42UsX17g%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Major AI companies fail safety test for superintelligence",
-      "source": "qz.com",
-      "source_url": "https://qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMXMwekFjaDh4T05qMGVSeHYzZTh5eE5UX1Z1Y2ZNdDAwSUZMVVVSSGZSdVlmd3FNX2NUZEJ2cW9JcktzcTh3WlhfSHlob0VvazFickxuNkxIbnNBUXdxY25qbmpRbGgwa0NaQ0Q4aUhKWjZRSUNTRmdqaXFIZEVEODc1cWYyWmxPNXF3?oc=5",
-      "pub_date": 1764769142.0,
-      "article_url": "https://qz.com/ai-companies-fail-existential-safety-test-as-capabilities-race-ahead",
-      "image": "https://qz.com/cdn-cgi/image/width=300,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2247155184.jpg",
-      "description": "A sweeping safety review shows leading AI companies advancing toward superhuman systems without guardrails to stop catastrophic failure"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T23:26:15.703983+00:00"
+  "fetched_at": "2025-12-04T00:59:04.529165+00:00"
 }

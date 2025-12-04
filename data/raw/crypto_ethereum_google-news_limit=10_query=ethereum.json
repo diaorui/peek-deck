@@ -5,6 +5,26 @@
   "search_query": "ethereum",
   "articles": [
     {
+      "headline": "Bitcoin craters below $86,000, Ethereum dips 7% in massive crypto wipeout",
+      "source": "New York Post",
+      "source_url": "https://nypost.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjhSWDVTUWthWXhtQnV2WVA3eXB6UmhqNmdJUG5pa0hQN3Rod2hQN3c3dHNFdTBSSTdIdnJnY29oa1NYbjdVOVM2alpTVWpfSVk1ZkZNWFh4VlByVHJVUTVLWEZ0ZHdDaUxPVFJ3bUJrRFhCblJrRWluSkUwWHN5Z0tqVkdHX0VvTmlUSGlneFY0N09sUHFvSEhWbDZldy1RUTZj?oc=5",
+      "pub_date": 1764600720.0,
+      "article_url": "https://nypost.com/2025/12/01/business/bitcoin-craters-below-86000-ethereum-dips-7-in-crypto-wipeout/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116501926.jpg?quality=75&strip=all&w=1200",
+      "description": "Bitcoin slid as much as 6% to below $86,000 while Ethereum fared even worse, at one point dropping more than 7% to roughly $2,800."
+    },
+    {
+      "headline": "Bitcoin, Ethereum, XRP Spike a Day After Mass Sell-off",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaS1ZrWm1wSUZwWHpVdHo2QklTcGswUTNjX3VnVUExXy1xN1U4TUFFZXJha2FsNWhjZ0lhbkxLbnV6Q3YyYUFieFFtMVh2cmZqSVNwRFZUY1Izd1lkeUVtalNrTDRfSURGeUhOZDYxQTQyNmpoVjg0RzJ30gGCAUFVX3lxTFBsYURSYzdQSnd6eUFfQUc5SlA0YXBMemFndld0TlROSHFhY0l4bUJsbkNURVZPWXJOWVZpTEZ6RlF1dFhSNUFNS1dLS2pyTkFQOVhrZ3hKdFp2TS1Malc1dFZSTkctTlFCNzQ4NHFmVU5VNEdEcTNQdElwRmFjWWF2V3c?oc=5",
+      "pub_date": 1764693776.0,
+      "article_url": "https://decrypt.co/350651/bitcoin-ethereum-xrp-spike-day-mass-sell-off",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Bitcoin-decrypt-style-21-gID_7.png",
+      "description": "Bitcoin rebounds above $90,000 with a 6.7% gain as crypto markets rally. ETH tops $3K, XRP surges while analysts eye Fed's upcoming decision."
+    },
+    {
       "headline": "Bitcoin logs its worst day since March",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
@@ -25,24 +45,14 @@
       "description": "At the center of the upgrade is PeerDAS, a system that lets validators check slices of data rather than entire \u201cblobs,\u201d reducing costs and computational load"
     },
     {
-      "headline": "Ethereum Whale Buying Steps Up as Market Rebounds From Heavy Liquidations",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVHg0YTBhdy1wSmNGMlMxdmpjYTVXZFgxT0dabzZNWE42T0dlRmxUcEhwNnVLNzM4VmhyN1J5cTduNUdmQ2M2cldmVDd1bTVCZDVibUE5aVMxcWVrcGNTVWhNMFAtdTc3Yk9ucnVzYzlRODBybFRhMlV5Y2dZUDlZaUJoekJyd0JudG1wSHhHVnpoMWRo0gGcAUFVX3lxTE5DV0M5SnRNYmF3bjJqdlFoZERCczRkRlJVQ1FWcnh3WkNWTWVXS1R1UUhuUktYTUtFMDNjVXdLU3VhMGdsRFhOQUJ5dnJVUWZ0bHlaTmVzdUs4TDdIMEh1QnFrbkd2SjdiUzRCcFVhVzk1WU9JcXBZYXV2RHd4NUVHclZqUV8wRnJjc0hic055ZVpRNzZoMk1qb1hlbw?oc=5",
-      "pub_date": 1764791771.0,
-      "article_url": "https://decrypt.co/350728/ethereum-whale-buying-steps-up-market-rebound-heavy-liquidations",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
-      "description": "Large holders resumed sizeable Ethereum purchases this week as crypto prices recovered sharply from Monday\u2019s wipeout."
-    },
-    {
-      "headline": "Bitcoin and Ethereum Price Fall Offers \u2018Attractive' Entry, Says Tom Lee, Predicts BTC ATH Next Month",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW5LQUk5Zk55TFcxdlFqVkc2LVJYTFhWdU5LZGUxVjdFWHB2dFpPTUYxb1hMYzBJZ0k5OHJOT0ZuN3I5Q2JqbnRxOGozS1M2Ujgxd05XTkh1RllxQ3EtczJmckVTWk9YNFU3MzV2M01iZDZDZ3BrRFNiaHRqX1hUQXpWcFNvQTg?oc=5",
-      "pub_date": 1764668154.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-ethereum-price-fall-offers-093554015.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/c0UY4QLSXNfMqv3Sm9B_QQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/fc775726129380c33e1402bee8518dae",
-      "description": "Fundstrat\u2019s Tom Lee and Mark Newton remain bullish on Bitcoin and Ethereum despite recent sharp declines. Ethereum and Bitcoin face near-term volatility. Both analysts still ..."
+      "headline": "Ethereum Fusaka upgrade goes live, bringing eightfold increase in \u2018blob\u2019 capacity",
+      "source": "Currently.com",
+      "source_url": "https://currently.att.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcndRUFViUU5HOXVTaXhEdkk1Qm95YXhDX3RvOWxzZ2J1Q1lfdm14Nnl5M2JoUFpTc3hLUGx0Q2hvUHNUTFp5cmNIMXd3TVhid2d0WGd5OW16cFk2UUp3ZFdsS29ZU3pZaHV6MnJSbmEtN1JSS05zZzlKQURKZXZZZzk1dF9BNmpCd1pWMQ?oc=5",
+      "pub_date": 1764799828.0,
+      "article_url": "https://currently.att.yahoo.com/att/ethereum-fusaka-upgrade-goes-live-221028219.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/R14fJPTZiFB6v09Km8pDxg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03ODU7Y2Y9d2VicA--/https://media.zenfs.com/en/dlnews_702/63f10311378f09e544c79cb0c713d018",
+      "description": "Ethereum underwent its second major upgrade of the year on Wednesday. The upgrade, Fusaka, further reduces the cost of transactions on layer 2 blockchains. A minor upgrade will follow on December 9."
     },
     {
       "headline": "Ethereum treasuries collapse 80% as the trade unwinds, Bitwise warns",
@@ -65,14 +75,24 @@
       "description": "Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH\u2019s utility loop, Bitcoin\u2019s scarcity, and why money is entering a multi-form future."
     },
     {
-      "headline": "Bitcoin craters below $86,000, Ethereum dips 7% in massive crypto wipeout",
-      "source": "New York Post",
-      "source_url": "https://nypost.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjhSWDVTUWthWXhtQnV2WVA3eXB6UmhqNmdJUG5pa0hQN3Rod2hQN3c3dHNFdTBSSTdIdnJnY29oa1NYbjdVOVM2alpTVWpfSVk1ZkZNWFh4VlByVHJVUTVLWEZ0ZHdDaUxPVFJ3bUJrRFhCblJrRWluSkUwWHN5Z0tqVkdHX0VvTmlUSGlneFY0N09sUHFvSEhWbDZldy1RUTZj?oc=5",
-      "pub_date": 1764600720.0,
-      "article_url": "https://nypost.com/2025/12/01/business/bitcoin-craters-below-86000-ethereum-dips-7-in-crypto-wipeout/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/116501926.jpg?quality=75&strip=all&w=1200",
-      "description": "Bitcoin slid as much as 6% to below $86,000 while Ethereum fared even worse, at one point dropping more than 7% to roughly $2,800."
+      "headline": "Ethereum Whale Buying Steps Up as Market Rebounds From Heavy Liquidations",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVHg0YTBhdy1wSmNGMlMxdmpjYTVXZFgxT0dabzZNWE42T0dlRmxUcEhwNnVLNzM4VmhyN1J5cTduNUdmQ2M2cldmVDd1bTVCZDVibUE5aVMxcWVrcGNTVWhNMFAtdTc3Yk9ucnVzYzlRODBybFRhMlV5Y2dZUDlZaUJoekJyd0JudG1wSHhHVnpoMWRo0gGcAUFVX3lxTE5DV0M5SnRNYmF3bjJqdlFoZERCczRkRlJVQ1FWcnh3WkNWTWVXS1R1UUhuUktYTUtFMDNjVXdLU3VhMGdsRFhOQUJ5dnJVUWZ0bHlaTmVzdUs4TDdIMEh1QnFrbkd2SjdiUzRCcFVhVzk1WU9JcXBZYXV2RHd4NUVHclZqUV8wRnJjc0hic055ZVpRNzZoMk1qb1hlbw?oc=5",
+      "pub_date": 1764791771.0,
+      "article_url": "https://decrypt.co/350728/ethereum-whale-buying-steps-up-market-rebound-heavy-liquidations",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg",
+      "description": "Large holders resumed sizeable Ethereum purchases this week as crypto prices recovered sharply from Monday\u2019s wipeout."
+    },
+    {
+      "headline": "Ethereum Crashes 45% From $4,950 Peak: Why Layer 2s Are Killing ETH\u2019s Value",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORndpWjVXNHJDQzJfMlA2aFZ0OTRvTVZ0U1lVWXROU3E2Smsza09IOE5Bc2xWSTZGUFVaTXhGbko0ekN3ZjlsUkplOFA2dGRLNXIyekRmNXFUQjRrcXBfWG9qOE4tRzV3UVZuZWtKMDRMWUxsNk10WlNWcndaTGc0cEJfczNEUm96ZmxRQkg5TGNMdmEtTzYwUGE3bWdJcWxUSTR6N2hVcXpwNUJNZ2hHaDN1YXA?oc=5",
+      "pub_date": 1764780355.0,
+      "article_url": "https://247wallst.com/investing/2025/12/03/ethereum-crashes-45-from-4950-peak-why-layer-2s-are-killing-eths-value/",
+      "image": "https://247wallst.com/wp-content/uploads/2025/12/shutterstock-1680257149-huge-licensed-scaled.jpg",
+      "description": "Ethereum crashed 45% from $4,950 as Layer 2s drain mainnet fees and ETF outflows hit $1.4B in November. Can ETH return to its peak in 2026?"
     },
     {
       "headline": "Why Ethereum Is Gaining Today",
@@ -83,28 +103,8 @@
       "article_url": "https://www.fool.com/investing/2025/12/02/why-ethereum-is-gaining-fed-vice-chair/",
       "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845234%2Feth.jpg&w=1200&op=resize",
       "description": "Stablecoin regulation is moving forward."
-    },
-    {
-      "headline": "Inside Vitalik\u2019s 256 ETH grants: When Ethereum falls, privacy rises",
-      "source": "CryptoSlate",
-      "source_url": "https://cryptoslate.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTmRjeDZRMDVIdGxDN3ZjTWVDTllYWDF4TGhyZHBhZ2VFQ3hlanVIOUtJNmJSZ3RubS1jdG5BTk1IQ1JxWk5ySjNMblBkSHZPZkdNd2hWRlRSdEJ6M3Y1T25zRUZtdDNDQmRLOEdveFZEU1Z6WGdBcE8yNWx1QTFYcVE0U21ISFNudjdNdA?oc=5",
-      "pub_date": 1764709500.0,
-      "article_url": "https://cryptoslate.com/inside-vitaliks-256-eth-grants-when-eth-falls-privacy-rises/",
-      "image": "https://cryptoslate.com/wp-content/uploads/2025/11/ethereum-privacy.jpg",
-      "description": "Vitalik sent 256 ETH in grants to Session and SimpleX, two metadata-resistant messaging protocols. We explore why."
-    },
-    {
-      "headline": "Tom Lee Says Ethereum Firms Are \u2018Elite Of Wall Street\u2019 \u2014 Is His Bullish $9000 Prediction Possible?",
-      "source": "CCN.com",
-      "source_url": "https://www.ccn.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmh3ZURwY1Z2ZFg0VjYwb0hoekVqeUJ6b1JYX183SWlvOUpLWXBMRjIwZkkzTnh2OTJpYUJ0NElVSlRwakgzLXo0cGRmODJSM3ZvNEhzS3lKbWlWMnZtVk13UzBLV0V1Y2Uza09kdWt1N2lqLW1YdUxYdXVtYXpJMmZnU0ZfM2hGTm80Y251NXBLM3oteUs2OEJCVnpkTzg2V2htVGdn?oc=5",
-      "pub_date": 1764594135.0,
-      "article_url": "https://www.ccn.com/news/crypto/tom-lee-claims-firms-building-ethereum-elite-wall-street-price-explode/",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-03T23:26:14.367798+00:00"
+  "fetched_at": "2025-12-04T00:59:02.304883+00:00"
 }

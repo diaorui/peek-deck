@@ -2,17 +2,6 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "GITAI is designing robots that can maintain themselves on the Moon or Mars",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/",
-      "published": 1764764059.0,
-      "thumbnail": "https://external-preview.redd.it/bWR1Y2UxZ2FjejRnMehQ1aaS4XjeqQ-tkOafX_QGfxfKAAmw--YdRyc3L3ph.png?width=640&crop=smart&auto=webp&s=c1a08a56d08595a514bbc79301ded1792a6c73d9",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Website: https://gitai.tech/ On \ud835\udd4f: https://x.com/GITAI_HQ"
-    },
-    {
       "title": "Waymo self-driving car enters active police standoff with passenger inside",
       "author": "BuildwithVignesh",
       "url": "https://www.reddit.com/r/robotics/comments/1pcz5ba/waymo_selfdriving_car_enters_active_police/",
@@ -35,6 +24,17 @@
       "description": null
     },
     {
+      "title": "GITAI is designing robots that can maintain themselves on the Moon or Mars",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/",
+      "published": 1764764059.0,
+      "thumbnail": "https://external-preview.redd.it/bWR1Y2UxZ2FjejRnMehQ1aaS4XjeqQ-tkOafX_QGfxfKAAmw--YdRyc3L3ph.png?width=640&crop=smart&auto=webp&s=c1a08a56d08595a514bbc79301ded1792a6c73d9",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Website: https://gitai.tech/ On \ud835\udd4f: https://x.com/GITAI_HQ"
+    },
+    {
       "title": "Unitree H2 (1.8m) humanoid robot boxing test shows full force impact and balance control",
       "author": "BuildwithVignesh",
       "url": "https://www.reddit.com/r/robotics/comments/1pd9avr/unitree_h2_18m_humanoid_robot_boxing_test_shows/",
@@ -46,17 +46,6 @@
       "description": "Unitree Robotics: Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall reliability of the robot, please do not attempt to replicate this. Please use robots in a friendly manner. Source : YT(Unitree Robotics) \ud83d\udd17 : https://youtu.be/kjJeQZECPcQ?si=rsmZHVdMuBLagHHN"
     },
     {
-      "title": "EngineAI T800 behind the scenes footage",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/robotics/comments/1pd24zj/engineai_t800_behind_the_scenes_footage/",
-      "published": 1764762692.0,
-      "thumbnail": "https://external-preview.redd.it/NDBlY3RjOHQ4ejRnMU5v6Me89HyCP120k0bbSksqn5ZwLC4Kxj0wApZX8OIn.png?width=640&crop=smart&auto=webp&s=cce533560cfc0f74e6a14682741c92eb52c55097",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "From EngineAI on \ud835\udd4f: https://x.com/engineairobot/status/1996165785056919634?s=20"
-    },
-    {
       "title": "Another close up of Optimus new flexible hand",
       "author": "AlbatrossHummingbird",
       "url": "https://www.reddit.com/r/robotics/comments/1pdg7yo/another_close_up_of_optimus_new_flexible_hand/",
@@ -66,6 +55,28 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Pi0 worked for a entire day",
+      "author": "drgoldenpants",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdjp2c/pi0_worked_for_a_entire_day/",
+      "published": 1764803539.0,
+      "thumbnail": "https://external-preview.redd.it/OXE2azkweDdtMjVnMUDnGq3QNGwXnAWzx6NNgwjNH9GfBK1kx4uRQGpYEO_C.png?width=640&crop=smart&auto=webp&s=a287bc81dfb34bbc53da2244a9ebf2ead24bcce0",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "https://www.pi.website/blog/pistar06 New way to add RL to imitation learning After training with Recap, \u03c0*0.6 can make various espresso drinks from 5:30am to 11:30pm"
+    },
+    {
+      "title": "EngineAI T800 behind the scenes footage",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/robotics/comments/1pd24zj/engineai_t800_behind_the_scenes_footage/",
+      "published": 1764762692.0,
+      "thumbnail": "https://external-preview.redd.it/NDBlY3RjOHQ4ejRnMU5v6Me89HyCP120k0bbSksqn5ZwLC4Kxj0wApZX8OIn.png?width=640&crop=smart&auto=webp&s=cce533560cfc0f74e6a14682741c92eb52c55097",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "From EngineAI on \ud835\udd4f: https://x.com/engineairobot/status/1996165785056919634?s=20"
     },
     {
       "title": "My Robot Dog",
@@ -90,27 +101,16 @@
       "description": "I\u2019m making a small open-source robotics playground that runs in the browser. It started as a fun idea and somehow turned into a physics sandbox where you can drive robots without installing anything. I want to add a few more robot types, but I\u2019m not sure what would actually be fun or interesting to try. What robots should I add next? Just curious what people here would enjoy testing."
     },
     {
-      "title": "Rodney Brooks on why so much humanoid hype feels like theater",
-      "author": "Responsible-Grass452",
-      "url": "https://www.reddit.com/r/robotics/comments/1pd9sil/rodney_brooks_on_why_so_much_humanoid_hype_feels/",
-      "published": 1764781345.0,
-      "thumbnail": "https://external-preview.redd.it/bHlxejdsYWpzMDVnMQR3IFtpoPwxezT-P5uSzZso-R_Z6gc3RcX6HTu4SMj9.png?width=640&crop=smart&auto=webp&s=7990271a4472877c2815f405eff03c4255b2f32a",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "His take is that a lot of what we see online right now is carefully staged. Preplanned motions, rehearsed scenes, and very little of the real complexity that comes with unstructured environments. The gap between a controlled demo and an actual deployable product is huge, and he seems worried that people are starting to confuse the two. He also pointed out that most of the systems shown in flashy videos still struggle with the basics. Reliable manipulation. Robust sensing. Working without a team of engineers one room away. None of that makes it into marketing clips, of course. So the public sees a humanoid walking and carrying a box, and assumes the market is further along than it really is."
-    },
-    {
-      "title": "Pi0 worked for a entire day",
-      "author": "drgoldenpants",
-      "url": "https://www.reddit.com/r/robotics/comments/1pdjp2c/pi0_worked_for_a_entire_day/",
-      "published": 1764803539.0,
-      "thumbnail": "https://external-preview.redd.it/OXE2azkweDdtMjVnMUDnGq3QNGwXnAWzx6NNgwjNH9GfBK1kx4uRQGpYEO_C.png?width=640&crop=smart&auto=webp&s=a287bc81dfb34bbc53da2244a9ebf2ead24bcce0",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "https://www.pi.website/blog/pistar06 New way to add RL to imitation learning After training with Recap, \u03c0*0.6 can make various espresso drinks from 5:30am to 11:30pm"
+      "title": "It might be dumb, but I bought a welding robot for fun.",
+      "author": "JunctionRunner",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdl77j/it_might_be_dumb_but_i_bought_a_welding_robot_for/",
+      "published": 1764807358.0,
+      "thumbnail": "https://external-preview.redd.it/Kd1Di_WPQLKl81_emvzUAocb0y_gSQksbWFZMEFn6Mc.jpeg?width=320&crop=smart&auto=webp&s=5e60a5765ae8f10c5420ef3292d61ebfef2412c5",
+      "external_url": "https://youtu.be/l7lgXzlTKZ4",
+      "site_name": "youtu.be",
+      "favicon": "https://www.youtube.com/s/desktop/9123e71c/img/favicon.ico",
+      "description": "I've wanted to mess around with robotics for a loooong time, but it's not an easy sort of thing around here and small scale hobby stuff just doesn't seem that useful to me. Found a pretty good deal on this thing so I'll be diving in headfirst with minimal planning. My original plan was to look into making my own resolver to digital converters and motor drive solution, however, with the cost of RDC chips, it might actually be more feasible and affordable to try and find a used pendant, and work on putting the controls from the cabinet into something smaller, lighter and more reasonable. Time will tell, going to be a long and big project but that's what I've been craving."
     }
   ],
-  "fetched_at": "2025-12-03T23:26:00.580844+00:00"
+  "fetched_at": "2025-12-04T00:58:49.802800+00:00"
 }
