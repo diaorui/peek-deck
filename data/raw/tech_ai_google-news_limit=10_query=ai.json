@@ -15,72 +15,32 @@
       "description": "While tech leaders paint a positive future where work is optional thanks to AI, the \u2018Godfather of AI\u2019 Geoffrey Hinton warns they\u2019re \u201cbetting on AI replacing a lot of workers.\u201d"
     },
     {
-      "headline": "As Hochul Considers an A.I. Bill, Its Sponsor Throws Her a Fund-Raiser",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpSEZadkZwTzhvaTJsTDhXOWxDVHo2X0YtTWk1XzV5cGNDUEFFMk1fYkJLR0pkNWE0U0lHSmJONURRS3R1SkhOOEhuMFFsQmwxVC0yZWhCTC12dlhBNHRIcmpadTlMQkY1SEUzdjVSZFpVbWgxLXBkRg?oc=5",
-      "pub_date": 1764835205.0,
-      "article_url": "https://www.nytimes.com/2025/12/04/nyregion/hochul-ai-bill-bores.html",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Google\u2019s AI model is getting really good at spoofing phone photos",
-      "source": "The Verge",
-      "source_url": "https://www.theverge.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEFYU1hCNkZXMDRwdjYzamJYU3BNZ0p2SzNNNEY0OFAxNmMtRUl1cGg4RjF1ZjJ0TWJTbEsxOVNDQnFka1RmLWljVkpvbnlpRy0zZDZqUks5cUNOVTNSbGk3VkVRdS1wUWotYTRLZ2p6LU12cGdjQTlFLXBoMm54eGJpTU12M3hPZjJlRw?oc=5",
-      "pub_date": 1764873900.0,
-      "article_url": "https://www.theverge.com/report/837971/google-nano-banana-pro-realistic-phone-photos",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ai-label-4.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "description": "We\u2019re cooked."
-    },
-    {
-      "headline": "AI chatbots used inaccurate information to change political opinions: study",
-      "source": "NBC News",
-      "source_url": "https://www.nbcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR0dPZUNRWWNKandkcWZ0VnZic1MtWUlibHlBY1JoWjdkOFQ5RkxMdEZhSlI4QllDTEhRSlZveU44OGpxV1NtWWdrc0dFZkdqZ2dLNzhpcnIzMVkwcFQ2RmdLYzN6WG55VmxhUTk3alUwODRLVUZTX2F0RkV5UGNPZVYxSmpERzRNdXZiWjNtMGFUTFlTU0RfNWpyUFdDc3NabjVPREt5d3J4NVh3bDFMWkZ3WWpxN0ZHQjJiY9IBVkFVX3lxTFBUWUtkVlREVDlieGNzNTlna3lhcTNGNzJfd3NLQl9jNmRtV0txWkkxWDVBcTd2ZU5VRWJ6alVwekdNS2I2WENiMklwX0ZlX0RDTVNZdjVn?oc=5",
-      "pub_date": 1764874834.0,
-      "article_url": "https://www.nbcnews.com/tech/tech-news/ai-chatbots-used-inaccurate-information-change-political-opinions-stud-rcna247085",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251204-ai-political-chatbot-jg-97efd8.jpg",
-      "description": "A paper published in the journal Science found that chatbots become more persuasive when they share large amounts of information."
-    },
-    {
-      "headline": "Microsoft drops AI sales targets in half after salespeople miss their quotas",
-      "source": "Ars Technica",
-      "source_url": "https://arstechnica.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUW9fUGs4N3VLa3d5NGJYVmtxeFNIWVdEVVZuNE84N29DLUtmTlV6OHpVYWNiSFFPSjB5TEphQ3RVVlBKNXNqbkZqM2NtZTNrdGdLNk43QWl4S3JNSk9WQ0lJd05LOHVlcFJlNGVzV2I1U0dQVHYyb1dDNUdlWEZOaXZvXzc4WDhtbGRpc2NZMGNjTWxIMnZoanVRS0VJMko3SGNWNTZJS2JDdjR1RFl3Z1NIaw?oc=5",
-      "pub_date": 1764786246.0,
-      "article_url": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/dartboard_missed-1152x648.jpg",
-      "description": "Report: Microsoft declared \u201cthe era of AI agents\u201d in May, but enterprise customers aren\u2019t buying."
-    },
-    {
-      "headline": "Microsoft stock sinks on report AI product sales are missing growth goals",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0V0RZZGFkbG9BYlJrd2tFeWV0U0ZDcXBYV21OUlpPWXliUlBKT0ZSclhtR3RVMmZGQmNQbGo4M0dpRTFMSXE1eWd1OUtCN29lWjFKMzd5ZXRjU1MzSHBlN21pcjk3WE5qU2hfaUE1Uzd1ZFFBWTlQVNIBfkFVX3lxTE54UmNkTWRBLUllLW9TdHB1dkJpN01SaGQ2S3pIelowZkd2MEx4RWJoLVZmYkVhZE5PNnBpRnRzamZsd3ZZZFJUazhjclJMRWxrQ3VwVVV2SnRpRDJDeW9NVXdyeENWc3cyMENOelNZZVZudVBYR3FGSUxGNjJJZw?oc=5",
-      "pub_date": 1764774216.0,
-      "article_url": "https://www.cnbc.com/2025/12/03/microsoft-stock-ai-foundry-sales.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108147619-1747681492573-gettyimages-2215431528-AFP_47CD63U.jpeg?v=1764772737&w=1920&h=1080",
-      "description": "Microsoft stock sank after a report that multiple sales teams for the company's Azure Foundry product missed growth goals in the last fiscal year."
-    },
-    {
-      "headline": "Microsoft Wants to Sell Software Subscriptions\u2014to AI Agents; AWS\u2019 AI Fallback Plan",
-      "source": "The Information",
-      "source_url": "https://www.theinformation.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkNOQWpNTlNNQndCTGs1bXNnaG9KaXZkdVBKclJYYmNKU1l5bElzQWNHbVB2NlRRbm1lX3NpN00xUmxmVlJFN1hnNGItdmFxZEZ2X0NsOUpha1pybVpEcWk5NDVNald2LVBoU1pDRlNHams1VnZYS084MUtHY0tHVFRWSHRVQ0g2S1gzTmVqSG1GeVp0UzMyZERJYlp0STlrSVpwMFZQSVprT3ctRC1KQ0JLdmc?oc=5",
-      "pub_date": 1764873840.0,
-      "article_url": "https://www.theinformation.com/articles/microsoft-wants-sell-software-subscriptions-ai-agents-aws-ai-fallback-plan",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "How AI is rewiring childhood",
       "source": "The Economist",
       "source_url": "https://www.economist.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEODhlSTI5VGZ6amg1clNjeDRwTWQ3RDFXWGFtWW9DYXlNRGN3b25UdE0xSko2aktmRWJqSTY2SzlQM1ZBY2RpMWpObkhzZTdHMkVwVjRuazVmQjJ0ZjNyOXdBLVJIRGlxeG1jWUhyS3AwX3B4ekJkdFpER0YxQQ?oc=5",
       "pub_date": 1764847921.0,
       "article_url": "https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Delayed PCE inflation report, AI boom could shape 2026 economy, says experts",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBadGdPTFRNY1pRaXlaUGd1STFieTFaTlhycE1rOE5CTzl1S3VGMmExdG5JaTYxbHlVc0FFUDIwejczT25OaXQxUTE0bjJoV1RiancxUllaaEc1NUU?oc=5",
+      "pub_date": 1764877829.0,
+      "article_url": "https://www.foxbusiness.com/video/6385969367112",
+      "image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d9dc3a59-c3d2-4288-8640-0f9ad89e50cc/134bd79c-165d-4b1f-81c0-2adf9544f9f1/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "description": "Citi head of U.S. equity trading strategy Stuart Kaiser and Lonski Group founder John Lonski tell \u2018Mornings with Maria\u2019 how a delayed PCE inflation report and the rapid rise of AI could influence the path of the U.S. economy heading into 2026."
+    },
+    {
+      "headline": "A.I. Deal Making Is Getting Faster and Faster",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TSjFLSXphajFfQzhFWnBHWXFRLUFuUXZJMTFHNGVLNml0XzhGaFVNM1RyOThqWWMzUjFKVDlYWDRfUEk3cXAxelB3RnM0OHQ2RktPeTZycDFZSE54aW1IR3M5LXhlVXBxaDRzc0w5aGVNYXllRVBINDlRRU4?oc=5",
+      "pub_date": 1764865810.0,
+      "article_url": "https://www.nytimes.com/2025/12/04/technology/ai-deal-making-faster.html",
       "image": null,
       "description": null
     },
@@ -103,8 +63,48 @@
       "article_url": "https://www.ft.com/content/45615c0a-952d-49b6-b2e0-c35d3826768f",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F76180ea3-b738-4223-ab13-ac6df21ea7f1.jpg?source=next-barrier-page",
       "description": "China\u2019s favouring of small and cheap models such as DeepSeek could prove to be the better bet"
+    },
+    {
+      "headline": "AI chatbots used inaccurate information to change political opinions: Study",
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR0dPZUNRWWNKandkcWZ0VnZic1MtWUlibHlBY1JoWjdkOFQ5RkxMdEZhSlI4QllDTEhRSlZveU44OGpxV1NtWWdrc0dFZkdqZ2dLNzhpcnIzMVkwcFQ2RmdLYzN6WG55VmxhUTk3alUwODRLVUZTX2F0RkV5UGNPZVYxSmpERzRNdXZiWjNtMGFUTFlTU0RfNWpyUFdDc3NabjVPREt5d3J4NVh3bDFMWkZ3WWpxN0ZHQjJiY9IBVkFVX3lxTFBUWUtkVlREVDlieGNzNTlna3lhcTNGNzJfd3NLQl9jNmRtV0txWkkxWDVBcTd2ZU5VRWJ6alVwekdNS2I2WENiMklwX0ZlX0RDTVNZdjVn?oc=5",
+      "pub_date": 1764874834.0,
+      "article_url": "https://www.nbcnews.com/tech/tech-news/ai-chatbots-used-inaccurate-information-change-political-opinions-stud-rcna247085",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251204-ai-political-chatbot-jg-97efd8.jpg",
+      "description": "A paper published in the journal Science found that chatbots become more persuasive when they share large amounts of information."
+    },
+    {
+      "headline": "Voters\u2019 minds are hard to change. AI chatbots are surprisingly good at it.",
+      "source": "The Washington Post",
+      "source_url": "https://www.washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMWdfRlRQMXpPVnVKMkx2YW5xckFVdzJhX2IyOEVWdzlMdmlBZVFpUUhWRkMyNVVjVGFoMmJvbkZ6Ym9RdFNQSzY1Z1M0b2RSbE5sazBEWjFyVmpyU05Vcjk1aFA0SzVVb1laRERqX1hqamYyd3Q0RlJ4T0YtZGtDdGllYUx1OHZVemc?oc=5",
+      "pub_date": 1764875187.0,
+      "article_url": "https://www.washingtonpost.com/technology/2025/12/04/ai-chatbot-election-campaign/",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "AI can influence voters' minds. What does that mean for democracy?",
+      "source": "New Scientist",
+      "source_url": "https://www.newscientist.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2dqS0F5Sk43b25VYklDMTFkOHQxa3dPeHRMeTN6U2doWi1rUUdkUVl2eWNkNGJIdWwwUVZRM3JDMkUxSlRBLTFpbmprbEVKWnZxMG9yZmtfajdyRUxxaU9Qek9oRE1DSWhNVThVZDJ2S0R5LWtDN19RYkNnU1M0QVhtczRaUlByMWNEU0xQeXhzekM3SlBqMnVvWXMyUkxkWGlwVnlucWVRVUdiTVE?oc=5",
+      "pub_date": 1764874901.0,
+      "article_url": "https://www.newscientist.com/article/2507178-ai-can-influence-voters-minds-what-does-that-mean-for-democracy/",
+      "image": "https://images.newscientist.com/wp-content/uploads/2025/12/04162231/SEI_276790066.jpg",
+      "description": "Voters change their opinions after interacting with an AI chatbot \u2013 but, encouragingly, it seems that AIs rely on facts to influence people"
+    },
+    {
+      "headline": "Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PSmZZSTRVTU92b1JfN2l3UjB3cG53bGY5dk9oRUhwaDMtS0lvanpTY05meDJCWUVBQU1iaWJ0Q09OMHJyTWp2UUZZYW84SXlpTjNVNjdYUGtSdVJ1RHBsM2dR?oc=5",
+      "pub_date": 1764867544.0,
+      "article_url": "https://www.anthropic.com/news/anthropic-interviewer",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Reflection&backgroundColor=sky",
+      "description": "What 1,250 professionals told us about working with AI"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T19:27:33.124883+00:00"
+  "fetched_at": "2025-12-04T20:22:46.173630+00:00"
 }
