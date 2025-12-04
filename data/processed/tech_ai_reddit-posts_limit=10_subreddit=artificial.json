@@ -79,6 +79,17 @@
       "description": "Researchers uncovered 354 AI-focused accounts that had accumulated 4.5bn views in a month"
     },
     {
+      "title": "What is the point of ChatGPT subscription?",
+      "author": "msaussieandmrravana",
+      "url": "https://www.reddit.com/r/artificial/comments/1pdqldc/what_is_the_point_of_chatgpt_subscription/",
+      "published": 1764822384.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I pay for ChatGPT Plus and asked it about Windows BitLocker. It showed me an ad to shop at Target. This is how you lose users. ChatGPT response (excerpt) ChatGPT 5.1 Thinking You can: \u2022 Try to enable Core isolation / Memory integrity for extra protection. \u2022 Improve firmware settings (Secure Boot, UEFI, virtualization) so Windows stops saying \u201cStandard hardware security not supported.\u201d For actual drive encryption: \u2022 Look in Settings \u2192 Privacy & security \u2192 Device encryption. \u2022 If it\u2019s there, use it. \u2022 If not, your realistic options are upgrade to Pro (BitLocker) or use VeraCrypt/other third-party encryption. If you want, tell me your laptop model and I can suggest what to flip in BIOS and what\u2019s realistically possible (e.g., whether Modern Standby / Device Encryption is likely supported). Shop for home and groceries \u2014 Connect Target By BenjaminDEKR"
+    },
+    {
       "title": "The future of prompt engineering is collaborative - built a social platform to prove it",
       "author": "zmilesbruce",
       "url": "https://www.reddit.com/r/artificial/comments/1pdtyrd/the_future_of_prompt_engineering_is_collaborative/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "I made a simple conversational AI to test dialogue handling and shared it with a few people. What surprised me is how quickly they started having long, emotionally heavy conversations with it instead of just testing features. Is this kind of high-emotion engagement common with conversational agents? Curious if others building dialog systems have seen the same pattern."
-    },
-    {
-      "title": "ChatGPT is down worldwide, conversations disappeared for users",
-      "author": "msaussieandmrravana",
-      "url": "https://www.reddit.com/r/artificial/comments/1pd1jll/chatgpt_is_down_worldwide_conversations/",
-      "published": 1764760719.0,
-      "thumbnail": null,
-      "external_url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-disappeared-for-users/amp/",
-      "site_name": "bleepingcomputer.com",
-      "favicon": "https://www.bleepingcomputer.com/favicon.ico",
-      "description": "OpenAI's AI-powered ChatGPT is down worldwide with users receiving errors when attempting to access chats, with no reasons currently given."
     }
   ],
-  "fetched_at": "2025-12-04T09:28:49.702459+00:00"
+  "fetched_at": "2025-12-04T09:59:32.036828+00:00"
 }

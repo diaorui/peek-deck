@@ -65,6 +65,16 @@
       "description": "CEO calls for more use of nuclear power as data center energy demand surges"
     },
     {
+      "headline": "AI Can Tell Us Something About Credit Market Weakness",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1lKX2JVbGtUR3U4SHRMTi1Fc3M3SmQ1bjh2S190dlZjNlZFeTBHclFqV1RvSl8zWTFabkhxc0tzTWEtSEpvU2FnX3A1OHFhNUlZTUUwdGEzcFhlOTNHWWx2ejRhT2xxQkZ0ZWZ3OVFwQnhMZTJwODZ5ZEZXZU0tLXNOaFN1YWFYRG5ValZLam5kMGE3Z05WeGVvS0lob1RqNFlEYklPYw?oc=5",
+      "pub_date": 1764838813.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-04/ai-can-tell-us-something-about-credit-market-weakness",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "As Hochul Considers an A.I. Bill, Its Sponsor Throws Her a Fund-Raiser",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -85,16 +95,6 @@
       "description": "British Olympic and Paralympic athletes are to be offered a new form of artificial intelligence-based protection from online abuse."
     },
     {
-      "headline": "Japanese Football Star-Turned-Venture Capitalist Keisuke Honda Is Hot On AI",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaUdBN0RLS005dzhXT0JQMzJtZkN4c1FfNlVCOERUOWwwdjVRX1dqdDMwTTFVS3l4elBIc3M4NkFFc3I0R2RKZUl6UHlic1RmOW5GODY3ZHFQYU1hNUN5SW1QSlhiQzlvYXU3WTdxRjNHRzV4N3Z3QUh3MDZnTHFpN2xtZU1BMkwtd1FfOEZpazBKdkN5aDJ1OXRwT3lhN2lHc3F6NTdoUnRYNmVQWkFVa0VRSV9xSXpLdlpCaTlPWFpCMWs?oc=5",
-      "pub_date": 1764835251.0,
-      "article_url": "https://www.forbes.com/sites/johnkang/2025/12/04/japanese-football-star-turned-venture-capitalist-keisuke-honda-is-hot-on-ai/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/69313795fd995ffa357f6f96/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "After raising $100 million, Honda\u2019s low-profile VC firm, X&KSK, has invested in a maker of AI-powered humanoids and a nuclear fusion startup."
-    },
-    {
       "headline": "How AI Is Transforming Work at Anthropic",
       "source": "Anthropic",
       "source_url": "https://www.anthropic.com",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T09:29:03.550747+00:00"
+  "fetched_at": "2025-12-04T09:59:49.362320+00:00"
 }

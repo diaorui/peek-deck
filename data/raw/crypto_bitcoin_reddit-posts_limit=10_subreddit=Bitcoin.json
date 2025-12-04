@@ -24,17 +24,6 @@
       "description": "What\u2019s the price you think we\u2019d be trading at by then?"
     },
     {
-      "title": "A Year of DCAing",
-      "author": "reemoo1",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pdf762/a_year_of_dcaing/",
-      "published": 1764793014.0,
-      "thumbnail": "https://preview.redd.it/400rmo9pr15g1.jpeg?width=640&crop=smart&auto=webp&s=15231701998ce483cfc6d4d11f8060d9484e8331",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "300 years from now wouldn't 90% of Bitcoins eventually end up being permanently lost?",
       "author": "GodblessBTC",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pdsa0w/300_years_from_now_wouldnt_90_of_bitcoins/",
@@ -44,6 +33,17 @@
       "site_name": null,
       "favicon": null,
       "description": "It's basic math. Every year thousands of bitcoins are sent to the wrong addresses, owners with cold wallets die, and private keys are lost forever. Right now over 4 million bitcoins are estimated to be lost forever and every year that number rises. So eventually say 300-400 years from now if 90% of Bitcoins end up being permanently lost what happens to the network security if so little transactions are being performed? Wouldn't this decrease the hash rate by A LOT since miners wouldn't make a lot of money from transaction fees?"
+    },
+    {
+      "title": "A Year of DCAing",
+      "author": "reemoo1",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pdf762/a_year_of_dcaing/",
+      "published": 1764793014.0,
+      "thumbnail": "https://preview.redd.it/400rmo9pr15g1.jpeg?width=640&crop=smart&auto=webp&s=15231701998ce483cfc6d4d11f8060d9484e8331",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "No one knows, stay humble stack sats",
@@ -66,6 +66,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Same goes with everything in life, the decision to learn is in you. It's not an IQ test, it's an ego test. Bitcoin is as Bitcoin did and does regardless."
+    },
+    {
+      "title": "The 4 year cycle is dead. Long live the super-cycle.",
+      "author": "B1ggusDckus",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pdu5wd/the_4_year_cycle_is_dead_long_live_the_supercycle/",
+      "published": 1764834421.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Last cycle people were claiming at the top of the euphoria that a super-cycle is about to start. I was very sceptic about that idea, because you know it's always gonna crash. However, this time is different. The market never gone through a phase of euphoria. In fact, all price increases were very reasonable and related to real-live adoption. Now the question is, how can the market crash if it hasn't been through the phase of euphoria? The answer is very simple: It won't. There will be no big crash this time. Welcome to the super-cycle."
     },
     {
       "title": "Food is optional DCAing is not",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": "Should have done this a long time ago\u2026 finally pulling out some BTC to pay off my credit card debt. Been paying interest, stupidly, for too long. Just wanted to let everyone know because now that I finally did it the price will probably go up tomorrow. Feels good to be debt free though! Cheers"
-    },
-    {
-      "title": "Don\u2019t take your eye off the ball!",
-      "author": "Leading_Confection32",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pd2nj0/dont_take_your_eye_off_the_ball/",
-      "published": 1764764338.0,
-      "thumbnail": "https://preview.redd.it/xqb0umpfez4g1.jpeg?width=640&crop=smart&auto=webp&s=9a25551835541cf3303147c0809defbbe666d4c1",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
     }
   ],
-  "fetched_at": "2025-12-04T09:28:48.459590+00:00"
+  "fetched_at": "2025-12-04T09:59:33.249057+00:00"
 }

@@ -112,5 +112,5 @@
       "description": "Hi, I'm currently working on a machine that can remove screws from laptops. It's based on this 2D CNC plotter (https://www.youtube.com/watch?v=CW3tCkms7oM&pp=ygUYaG9tZXdvcmsgd3JpdGluZyBtYWNoaW5l2AaKA9IHCQkiCgGHKiGM7w%3D%3D) I'm using a custom trained YOLOV11n model to get virtual coordinates of the screws, but how am I supposed to convert these virtual coordinates into real,actual coordinates in my motion plane so that I can send the relevant GRBL commands? Thanks a lot!"
     }
   ],
-  "fetched_at": "2025-12-04T09:28:52.196457+00:00"
+  "fetched_at": "2025-12-04T09:59:35.775288+00:00"
 }

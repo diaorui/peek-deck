@@ -35,16 +35,6 @@
       "description": "Swan EndoSurgical announced today that it has appointed longtime Stryker robotics leader Erik Todd as its CEO."
     },
     {
-      "headline": "Marine robotics firm will resume deep-sea search for MH370 plane that vanished a decade ago",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1picF9fSUIxWGE2V1N3STA3SXBfSEhsamx1ZmktdUZYbTlQZE5HVG02UXlrOG01LWhrVktmb0hKTE5fY1NoRFZJSU5ZRm5jWjFldVhEcXl5TEozY2FxeTFyNDFyYzZiZXpVZG1BQlRpd2YzZWlUdHRQT016THhXU09fRQ?oc=5",
-      "pub_date": 1764790058.0,
-      "article_url": "https://www.cnn.com/2025/12/03/asia/malaysia-mh370-robotics-search-latam-intl",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap25337141334699.jpg?c=16x9&q=w_800,c_fill",
-      "description": "Malaysia\u2019s transport ministry said Wednesday that a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace."
-    },
-    {
       "headline": "Vision-native AI opportunities: a precursor to intelligent robotics",
       "source": "Bessemer Venture Partners",
       "source_url": "https://www.bvp.com",
@@ -55,6 +45,16 @@
       "description": "As AI advances into the real world of robotics and automation, we\u2019re seeing a turning point for physical AI \u2014 1X\u2019s NEO Home Robot can now adapt to new environments in real-time, Physical Intelligence\u2019s Pi0 became the first robot to fold laundry with human-level dexterity straight from a hamper, and Tesla\u2019s Optimus is performing complex [\u2026]"
     },
     {
+      "headline": "Marine robotics firm will resume deep-sea search for MH370 plane that vanished a decade ago",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1picF9fSUIxWGE2V1N3STA3SXBfSEhsamx1ZmktdUZYbTlQZE5HVG02UXlrOG01LWhrVktmb0hKTE5fY1NoRFZJSU5ZRm5jWjFldVhEcXl5TEozY2FxeTFyNDFyYzZiZXpVZG1BQlRpd2YzZWlUdHRQT016THhXU09fRQ?oc=5",
+      "pub_date": 1764790058.0,
+      "article_url": "https://www.cnn.com/2025/12/03/asia/malaysia-mh370-robotics-search-latam-intl",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap25337141334699.jpg?c=16x9&q=w_800,c_fill",
+      "description": "Malaysia\u2019s transport ministry said Wednesday that a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace."
+    },
+    {
       "headline": "Micropolis AI Robotics (NYSE: MCRP) inks Saudi LOI, eyes up to 500 robots over two years",
       "source": "Stock Titan",
       "source_url": "https://www.stocktitan.net",
@@ -63,6 +63,16 @@
       "article_url": "https://www.stocktitan.net/news/MCRP/micropolis-ai-robotics-and-qss-robotics-sign-letter-of-intent-to-fzpc0oc60asv.html",
       "image": "https://www.stocktitan.net/news_covers/Micropolis_AI_Robotics_and_QSS_Robotics_Sign_Letter_of_Intent_to_Procure_500_Robots_and_Expand_Auton_943263.png",
       "description": "Micropolis AI Robotics signs a Saudi LOI with QSS Robotics, planning pilots with the Ministry of Interior and ARAMCO starting December 20, 2025."
+    },
+    {
+      "headline": "Humanoid robots will take over factory jobs within 5 years, Xiaomi CEO says",
+      "source": "Interesting Engineering",
+      "source_url": "https://interestingengineering.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1lWbWxGazduU0NwcUZucmN0MFN4YW9rZHNMSlpLOElYd2xHcjV2bkl6bkV0NUxxRUh0NGdKZTlCeTVRVVkyY3RfUVV6MlNoSnpWalotZnNSVFdBZVhhcG8ySzdYOTQwQnFuTzhiOTh5VG1uTWhySHBPbzB5cUdwWTI2RG1tYTVWcFJYZExxNmJQV0U?oc=5",
+      "pub_date": 1764581760.0,
+      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robots-set-to-run-smart-factories",
+      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/IE-Photo-59.jpg",
+      "description": "Xiaomi CEO Lei Jun says artificial intelligence will overhaul traditional industries within five years as humanoid robots move into core factory roles."
     },
     {
       "headline": "Musk says AI and robotics are 'only' things that can solve massive US debt crisis",
@@ -85,16 +95,6 @@
       "description": "EY does not make robots, but it is working on a platform and a lab to help companies simulate and manage physical AI."
     },
     {
-      "headline": "Humanoid robots will take over factory jobs within 5 years, Xiaomi CEO says",
-      "source": "Interesting Engineering",
-      "source_url": "https://interestingengineering.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1lWbWxGazduU0NwcUZucmN0MFN4YW9rZHNMSlpLOElYd2xHcjV2bkl6bkV0NUxxRUh0NGdKZTlCeTVRVVkyY3RfUVV6MlNoSnpWalotZnNSVFdBZVhhcG8ySzdYOTQwQnFuTzhiOTh5VG1uTWhySHBPbzB5cUdwWTI2RG1tYTVWcFJYZExxNmJQV0U?oc=5",
-      "pub_date": 1764581760.0,
-      "article_url": "https://interestingengineering.com/ai-robotics/humanoid-robots-set-to-run-smart-factories",
-      "image": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/IE-Photo-59.jpg",
-      "description": "Xiaomi CEO Lei Jun says artificial intelligence will overhaul traditional industries within five years as humanoid robots move into core factory roles."
-    },
-    {
       "headline": "MIT engineers design an aerial microrobot that can fly as fast as a bumblebee",
       "source": "MIT News",
       "source_url": "https://news.mit.edu",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T09:29:06.883192+00:00"
+  "fetched_at": "2025-12-04T09:59:49.526741+00:00"
 }
