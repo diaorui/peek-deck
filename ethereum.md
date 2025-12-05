@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T05:49:42.664317+00:00'
+updated: '2025-12-05T06:00:23.917370+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 05:49 UTC  
+**Last Updated:** December 05, 2025 at 06:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** +5.5%  
+**24h:** -1.1%  
+**7d:** +5.6%  
 **30d:** -4.9%  
 **90d:** -26.9%  
 **1y:** -21.0%  
@@ -150,7 +150,7 @@ Our membership has concluded its latest quarterly audit of funded members as of 
 
 **[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -206,7 +206,7 @@ Yahoo Finance • 2d ago
 
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -266,7 +266,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 47 • 💬 109 • ⏱️ 5:52 • 14h ago
+👁️ 1K • 👍 47 • 💬 109 • ⏱️ 5:52 • 15h ago
 
 ---
 
