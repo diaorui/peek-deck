@@ -5,14 +5,34 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin is down nearly 30% from its record high \u2014 history shows that's normal",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEJ2RTlPdVN0dFI0OHdRNnNXVHNoM0lOYnhEcEhwZzhBaFVJVUZoemNMQTlGd0FRQUthRUg3R1A2Qk9hUjF2YjQ3QkhnTnZlWmQzUkI3VzlwZUtuaVRwODNVRHdtZGJ4MHI0RjFuU3h4eU1CakdWRXZKZWZhQTk4cEs5WnhhZ0VpcHNEMDRuY2tkc2RNZmtYeW5CU1hSNjd5UWx6WFpnZmJxNDRYYlJ30gG0AUFVX3lxTE96c3dMRGlhdDBZUlZsaUxjbExCeFpJcDFLVmxzQVRKWjltRU41YWNZenA2cGVwaHEyMXJha3AySjVod1BpMG1QN1V5Tzd4cWlnejZSNVpJOGN3Y1M2bVQ3dnVDQjh2OGQ2TUprR21PR0x3X2MxS0FGZkVoVXY1RDdhTXd2N3M2T1VQMTVMZ0RrT0tJQUhKRGtzWjFkYnQ4TWxJc3hNUmxMN1pTUVc0WmhsVXdGaA?oc=5",
-      "pub_date": 1764847662.0,
-      "article_url": "https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108235234-1764690993224-gettyimages-2247341381-AFP_84UC93G.jpeg?v=1764691074&w=1920&h=1080",
-      "description": "In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger."
+      "headline": "Solana, XRP, ETH Extend Losses as Bitcoin\u2019s $91K Support Back in Focus",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGNEWTVoNVk4ZDl6NTIwOTJJTWhPRXdHZWZVYkkxX0ZOOF9sSEtZRUUwc0wwTk5iRnpEOWZWUmk1ejFhem5xRWVoRTV3UUlreGVlaHhDUXAwdFphQ1BJaU5ZZnlxS185RmZfNng2VjUycFVJZ3VhRGZRSDFuYnpDNzN6N0ExT1RfLWRDQlFjUnBYcmw2Ml9vSThBdXpEazh0RjR5c2h2cElYY09ENFl5MEJTQ3c?oc=5",
+      "pub_date": 1764914321.0,
+      "article_url": "https://www.coindesk.com/markets/2025/12/05/solana-xrp-eth-extend-losses-as-bitcoin-s-usd91k-support-back-in-focus",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/181148f5c39f60293705e8d02619029fe9b70222-1280x914.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
+      "description": "The one-month chart shows BTC still locked inside a descending structure from early November\u2019s highs, with the latest rebound producing another lower high."
+    },
+    {
+      "headline": "Bitcoin Rises Above $90,000. Why Traders Are Bracing For Another Big Drop.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOaWVLbTF1Nk9aWUxpajJqb2s0TnU5U2pkRWJKZXEzVVYtS3J1WU4xS0xqdVoydUpSUUhHZ2tJdlNpVWg1NExvVExnT1d2eFpHMVZUNzBYYlZtbExxRkR0NFpKaE0yaS1IdE1salJ6bjF5S0VXUnhjekRUTzBOTEkySkN2WFBjQ2dJZDZNZFp4ZlM4ZWhMSGNWdXRuUTdnNTdmSHo0NzBudEhmMXhvZU5wdElIY2xuZHJ6WXRhWFRRWVZSSHRnYm9DYlhEbXVkcUpNcjc3Q25Id250cTFfNEVueGFJVWRKV0ZERnl4ajA2SHBsSUxkZUcySHN6VWNTbmR1WGh6NXczb29iV2RUQXNhZGZZY3pzUTRMbmJQS2x3dEFkRnFoeHV1bW9td3JRNWJ4b1ZTWHQzdHlaaGVHN2FHNGkyRVBiQ2wwNW53eE1mUjlkWGpvdC03UVNQd3dZOWJrY2dJdEZoSEFhdjJUNkxmaGp2VDJfTS1aSmt0X3BmNmJxSGNQNFZyV083Yw?oc=5",
+      "pub_date": 1764706920.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-price-today-selloff-ether-xrp-9118e5ec?gaa_at=eafs&gaa_n=AWEtsqfa3lJVJmh7LkLLCJF99F3gYBu45YjDq_I6FMUHBowMgwCygMIbOWdn&gaa_ts=6932ba6c&gaa_sig=B4fgfsCssKDzdJRgz_70rylep01XuK0Ub_q5kbcwe8f6GdKxYoxtCs1PgY99NgwMZUqY-UzhI3gDSdgaKVoT3A%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Bitcoin Exchange Supply Nears 5-year Low After $2 Billion Buy This Week",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcm9CQ3RQWV91eldmVC1ZelV5d3M0Q2JPQXg1US02MkV1OE4ydHlCdUxXUndFWjFwYXFiWnd4LThzRXNrWVNBUzQ3dzJySGNMalhpMi1CSlN4cEFRSGNXQXNhXzBoeXRveHdiREdtb2wtcGxrZlg4U0xYWGtqRUNsV29LRQ?oc=5",
+      "pub_date": 1764920400.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-exchange-supply-nears-5-074002583.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/jWaZJj1Fq0JqIPxTk4yaiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/fac7a43c3df82c31410379340c023ae5",
+      "description": "Bitcoin exchange reserves hit a 5-year low after $2 billion in buying, but price still struggles under key resistance."
     },
     {
       "headline": "Bitcoin has plunged. Strategy Inc is an early victim",
@@ -21,16 +41,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVVLNjBiR1dlcW10dk9OQW9maXBmRWUzYlpXc2pyaVRscWpJUXBTODNyV0psc0ZQeGlfcnhHS1hpM25fMGJKWDdQSnFBRHc1eG1TdUozTEUzbTAtaU9HcGJOd0VhSGd0aW4wTlJCWTFHYTdJbWN2aWI5T3F4UVNBVFpQeXBTcHR4bmFHcmlIaFI1MFZLRU1Ic3FEMVhoOEh6WENOLTlackJOckZ5YkRz?oc=5",
       "pub_date": 1764843881.0,
       "article_url": "https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Strategy CEO Says Reserve Reduces Pressure to Sell Bitcoin",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHk4V1ktaDhvd3Vzb0Q0WWZOclVYSEFzSVVVVmJxZWZvLU1IWVktdmJqTjNuNlR0TDhhRzNJS29iTU1BTkVvZTBxaWZkZGdLZGpqano4OHdoMnBOTzFvOVQwYk1TeF8yVnVVTkhrX0ZfVWZNYWlLMTR4TnhLSVVYTjFDMGU0MlMxMmJZWUIxYjdLaXMzNERTaHlDNi1LeEVGQ2NnVGxIZFBmMHVvZUJfX1BR?oc=5",
-      "pub_date": 1764703795.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-02/strategy-ceo-sees-reserve-used-to-make-payments-in-perpetuity",
       "image": null,
       "description": null
     },
@@ -45,14 +55,14 @@
       "description": "Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts."
     },
     {
-      "headline": "BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTdZWU9ZcTloV3RIeW44R3E2aUNYUmFUX3NnUEZ3Uzk0c3ZRdldRakIxbHRrX2JmYk5TX1ZQYW1rYkg1YXlNeVMyRTdWcWllblJsRllkNi1GT0Q4V0FtSkd0bkM1T21rVk1ka2p5Rmx5QkZUd2tBWHBZYkE2bHJvOGc1U3c2UUZhNk96X1hEb3VLVUpfckJiOVBqZHVyT3BGb2liM2hvd2tZNl9tMjktQk1Xd2FHSDd3M2sxbnd1czk?oc=5",
-      "pub_date": 1764922300.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imggtXTZHkQE/v0/1200x800.jpg",
-      "description": "BlackRock Inc.\u2019s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world\u2019s largest cryptocurrency remains subdued even as prices stabilize."
+      "headline": "Bitcoin\u2019s biggest booster Michael Saylor fights to stave off an $8 billion collapse and being the first major crypto domino to fall",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3ZmSFVXZU80X3k0LU1TZ3UyYlB1MHl5QUNvdVhaUUFvZ3V3bnlfOUxJY2FNODNnR2dKT0JtS0hCNGluVXN6aG0xZTZMN05tdFFhb25FWXgzOEZfM3JoZGw2Vm5iUDczT0J5WHFxcktYWWlmWG5saFVGYVNXMHdPeVNwa1MwdkJienk0VA?oc=5",
+      "pub_date": 1764780516.0,
+      "article_url": "https://finance.yahoo.com/news/bitcoin-biggest-booster-michael-saylor-164836645.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/FL24d8aJvPqLv_JDWpEY3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/97b3e1f462be391d2bad2e12ad194263",
+      "description": "A rule change could force Saylor's company to sell some of its $650 billion holdings\u2014but crypto veterans say Strategy will be just fine."
     },
     {
       "headline": "Video: BlackRock C.E.O. Calls Bitcoin an \u2018Asset of Fear\u2019",
@@ -75,36 +85,26 @@
       "description": "BlackRock\u2019s ETF now owns 3.9% of all existing Bitcoin, more than Strategy."
     },
     {
-      "headline": "Bitcoin Exchange Supply Nears 5-year Low After $2 Billion Buy This Week",
+      "headline": "They \u2018Bought More\u2019\u2014BlackRock CEO Reveals Sovereign Fund Bitcoin Price Bombshell Alongside A Stark Trump Warning",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTDFXNVJNb19SeG9ZTmRkYnZQeXZ5eHpISGtPYUdFakhINEVEUXRYS0RVZGNTTE9WaGN3NmRJWFdmbFdZUlp4UGNhNUlFNno0YjdsbWJTdXVTcHpHZHZmT3lpMXVMWGNmU29MTG1GQzNGdFloMkFlMkxZZ3lKb2NRWkhwU1ZVV1NVcXlsdE5kcXlkZVB6NFVjNlByOW1LbkozWEhOUXdlazZSbFY5amlTT0ZFWDBpN1J4allaczdNZnRaZWRlUFpKVVdTSGlqVXV4UXhucDZoX2ZONHJpeEZhTktBazl3Q1h5VEFoNUFXVWV6WGFPX21tZXRDNGozUlU?oc=5",
+      "pub_date": 1764851820.0,
+      "article_url": "https://www.forbes.com/sites/digital-assets/2025/12/04/faster-than-most-expect-blackrock-ceo-issues-enormous-price-prediction-as-bitcoin-suddenly-soars-toward-2-trillion/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/68ce62c731907dbb97ed44ac/0x0.jpg?format=jpg&crop=2284,1284,x143,y0,safe&height=900&width=1600&fit=bounds",
+      "description": "The chief executive of the world\u2019s largest asset manager BlackRock has predicted the \u201cenormous growth\u201d of crypto-based tokenization in coming years..."
+    },
+    {
+      "headline": "Woori Bank Becomes First in Korea to Display Bitcoin Prices in Trading Room",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcm9CQ3RQWV91eldmVC1ZelV5d3M0Q2JPQXg1US02MkV1OE4ydHlCdUxXUndFWjFwYXFiWnd4LThzRXNrWVNBUzQ3dzJySGNMalhpMi1CSlN4cEFRSGNXQXNhXzBoeXRveHdiREdtb2wtcGxrZlg4U0xYWGtqRUNsV29LRQ?oc=5",
-      "pub_date": 1764920400.0,
-      "article_url": "https://finance.yahoo.com/news/bitcoin-exchange-supply-nears-5-074002583.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/jWaZJj1Fq0JqIPxTk4yaiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/fac7a43c3df82c31410379340c023ae5",
-      "description": "Bitcoin exchange reserves hit a 5-year low after $2 billion in buying, but price still struggles under key resistance."
-    },
-    {
-      "headline": "A New Era Begins: CFTC Approves Spot Bitcoin On Regulated US Markets",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWkRyVmdwMW1mNjA3YmM5Z3gyeHJEaUlzZ18tZDlIRElFWkktSS1zZ3l2bl85QVl3c1pLY1lDZXIyUGJ5UFE5OHNjaThUQlZLU1FiY2hoTm1jTGl1VUFGbkZZNENxTGdUUV91VjJBV0g0ZWFvZUdkWVplZTV4NHczYnd1YU1IXzRQLXhYN2pDRmMzSlpSWTIyRjJlR1FrT09NbWRMQktJQklSQmEtVTk2aTgtdi1uelRHZk9heXh1MG1NSkE?oc=5",
-      "pub_date": 1764925240.0,
-      "article_url": "https://www.tradingview.com/news/newsbtc:0bd3c1dca094b:0-a-new-era-begins-cftc-approves-spot-bitcoin-on-regulated-us-markets/",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "description": "Regulators in Washington on Thursday cleared a major step that lets Americans trade spot Bitcoin and other cryptocurrencies on federally registered exchanges for the first time.According to the Commodity Futures Trading Commission, listed spot crypto products may now be offered on exchanges registe\u2026"
-    },
-    {
-      "headline": "Those Sky-High Bitcoin Prices Everyone Said Were Here to Stay? They Left.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLV80ZjAtYy1HdlV4aVRkWXk0Rk0tOWtSM3JGNHpOVThqZEZpMGR3ZUMzR2xXVExaVXlZQnpoRE9LU0ZkT1F2WXlVbDBTbzdka1p0cW91RlRSWjBGRkpPWkY2dmVrV3NRTUdCZG9XR1dFZldZWVFlVmt3d3MyS01VTzFWUnJIb2RJWlpKclFOaw?oc=5",
-      "pub_date": 1764756144.0,
-      "article_url": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
-      "image": null,
-      "description": null
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeE51Z3dWNS1RRzVadUdBdWpTNjJHdnhkcDBvV3lCQV9qZlAxM1g3LWNuOXljNl9aVWNEYk5XUk5QdkdfZnlHbDZqcW92NDZneDQ5VG9SU2dOQ0ozZ2JQWGo0X3B3Y2htTm1DUHJITzczSTRyeTlCem1JcUUwT2pKa1V3?oc=5",
+      "pub_date": 1764920700.0,
+      "article_url": "https://finance.yahoo.com/news/woori-bank-becomes-first-korea-074526421.html",
+      "image": "https://media.zenfs.com/en/cryptonews_us_711/4309fa420fc0062dfbd0701c71eec0e0",
+      "description": "Woori Bank has begun displaying Bitcoin prices inside its main trading room in Seoul, placing the cryptocurrency alongside core financial indicators such as the won\u2013dollar exchange rate and stock market data. Key Takeaways: Woori Bank is the first Korean commercial bank to display Bitcoin prices in its main trading room. ..."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T09:52:06.449431+00:00"
+  "fetched_at": "2025-12-05T10:42:05.995339+00:00"
 }
