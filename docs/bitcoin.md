@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T05:49:42.658347+00:00'
+updated: '2025-12-05T06:00:23.911998+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 05:49 UTC  
+**Last Updated:** December 05, 2025 at 06:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,8 +44,8 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** +1.4%  
+**24h:** -1.4%  
+**7d:** +1.3%  
 **30d:** -9.2%  
 **90d:** -17.4%  
 **1y:** -7.7%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[We have no idea how bad things have really gotten.](https://www.reddit.com/r/Bitcoin/comments/1pebeih/we_have_no_idea_how_bad_things_have_really_gotten/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Im only up 3000% now
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ Im only up 3000% now
 
 💀
 
-15h ago
+16h ago
 
 ---
 
@@ -113,7 +113,7 @@ Im only up 3000% now
 
 **[Bitcoin in 2025](https://www.reddit.com/r/Bitcoin/comments/1pe1yxx/bitcoin_in_2025/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -229,7 +229,7 @@ The Wall Street Journal • 2d ago
 
 ₿OSS Challenge - start your career in bitcoin open source
 
-⬆️ 6 • 💬 1 • 17h ago • [bosschallenge.xyz](https://bosschallenge.xyz)
+⬆️ 6 • 💬 1 • 18h ago • [bosschallenge.xyz](https://bosschallenge.xyz)
 
 ---
 
@@ -317,7 +317,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 2K • 💬 142 • ⏱️ 23:27 • 4h ago
+👁️ 14K • 👍 2K • 💬 142 • ⏱️ 23:27 • 5h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin #Crypto #Finance The Federal Reserve has officially ended quantitative t
 
 📺 The Wolf Of All Streets
 
-👁️ 23K • 👍 877 • 💬 270 • ⏱️ 35:57 • 14h ago
+👁️ 23K • 👍 877 • 💬 270 • ⏱️ 35:57 • 15h ago
 
 ---
 

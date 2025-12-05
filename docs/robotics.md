@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T05:49:42.667538+00:00'
+updated: '2025-12-05T06:00:23.920305+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 05:49 UTC  
+**Last Updated:** December 05, 2025 at 06:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Art installation draws attention for its robot dogs with famous faces](https://www.reddit.com/r/robotics/comments/1pe56c3/art_installation_draws_attention_for_its_robot/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 4h ago
 
 ---
 
 **[PLA logistics brigade member delivering supplies to frontline positions with the new standard passive exoskeleton during combat training.](https://www.reddit.com/r/robotics/comments/1pen0qf/pla_logistics_brigade_member_delivering_supplies/)**
 
-15m ago
+26m ago
 
 ---
 
@@ -72,7 +72,7 @@ Hi everyone, My husband is a mechanical engineer and has found his niche in robo
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=NAcanWv_2Z8) • 4m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=NAcanWv_2Z8) • 15m ago
 
 ---
 
@@ -80,7 +80,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hello redditors, I am robotics engineer visiting China for the first time trying to meet vendors for parts procurement and also I want to use this time to meet and explore other vendors. I would be visiting Beijing, Guangdong, Shanghai and Shenzhen. Also let me know if I should meet any other company in any other area. I have worked on quadrupeds, drones, manipulators, mobile robots, underwater robots, iot, AI/ML for robotics and Reinforcement Learning Thanks in advance
 
-25m ago
+36m ago
 
 ---
 
@@ -88,7 +88,7 @@ Hello redditors, I am robotics engineer visiting China for the first time trying
 
 Hello redditors, I am robotics engineer visiting China for the first time trying to meet vendors for parts procurement and also I want to use this time to meet and explore other vendors. I would be visiting Beijing, Guangdong, Shanghai and Shenzhen. Also let me know if I should meet any other company in any other area. I have worked on quadrupeds, drones, manipulators, mobile robots, underwater robots, iot, AI/ML for robotics and Reinforcement Learning Thanks in advance
 
-25m ago
+36m ago
 
 ---
 
@@ -158,7 +158,7 @@ Nasdaq • 1d ago
 
 The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
 
-Barchart.com • 10h ago
+Barchart.com • 11h ago
 
 ---
 

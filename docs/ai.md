@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T05:49:42.649921+00:00'
+updated: '2025-12-05T06:00:23.904293+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- news
 - videos
 - repositories
-- news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 05:49 UTC  
+**Last Updated:** December 05, 2025 at 06:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
 
-🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 7h ago
+🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 8h ago
 
 ---
 
@@ -53,7 +53,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 **[Florida teacher who used AI to make child pornography of students gets 135-year sentence](https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 9h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 10h ago
 
 ---
 
@@ -75,7 +75,7 @@ Micron has confirmed that it is exiting the Crucial consumer business so it can 
 
 Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRED’s Big Interview event if AI is a bubble, company said “Emphatically, from my perspective, no.”
 
-🔗 [WIRED](https://www.wired.com/story/big-interview-event-lisa-su-amd/) • 10h ago
+🔗 [WIRED](https://www.wired.com/story/big-interview-event-lisa-su-amd/) • 11h ago
 
 ---
 
@@ -99,7 +99,7 @@ Our RAG stack degraded slowly over months. Text-shape differences created differ
 
 Google is experimentally replacing news headlines with AI clickbait nonsense.[1] AI chatbots used inaccurate information to change people’s political opinions, study finds.[2] Watch ‘The Thinking Game,’ a documentary about Google DeepMind, for free on YouTube.[3] Meta centralizes Facebook and Instagram support, tests AI support assistant.[4] Sources: [1] https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense [2] https://www.nbcnews.com/tech/tech-news/ai-chatbots-used-inaccurate-information-change-political-opinions-stud-rcna247085 [3] https://blog.google/technology/google-deepmind/the-thinking-game/ [4] https://techcrunch.com/2025/12/04/meta-centralizes-facebook-and-instagram-support-tests-ai-support-assistant/
 
-5m ago
+16m ago
 
 ---
 
@@ -129,7 +129,7 @@ The Economist • 18h ago
 
 **[On Pope Leo’s Visit to Lebanon and Turkey, A.I. Was a Frequent Concern](https://www.nytimes.com/2025/12/05/world/asia/pope-leo-lebanon-turkey-ai-technology.html)**
 
-The New York Times • 48m ago
+The New York Times • 59m ago
 
 ---
 
@@ -149,13 +149,13 @@ Barron's • 8h ago
 
 The boom makes it hard for competitors to step away from a treadmill of continuous acceleration.
 
-Foreign Policy • 46m ago
+Foreign Policy • 57m ago
 
 ---
 
 **[Chinese AI Chip Maker Moore Threads Makes Strong Debut After $1 Billion IPO](https://www.wsj.com/tech/chinese-ai-chip-maker-moore-threads-makes-strong-debut-after-1-billion-ipo-e9a43a13?gaa_at=eafs&gaa_n=AWEtsqfRtFHSyaVqlSoveRvdBjHyEWWRBFsJKO-HEHlG-qnk0-zf-XDv1_Gk&gaa_ts=693275dd&gaa_sig=qT6N4hL9msm3OO13XiLZKPZAsrdiAdqfuaaNnxw78wvLURKl94rZ4AwKIuwO3rEPZytC4ViJxibht7FLcFSv_Q%3D%3D)**
 
-The Wall Street Journal • 56m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Wall Street Journal • 56m ago
 
 What 1,250 professionals told us about working with AI
 
-Anthropic • 12h ago
+Anthropic • 13h ago
 
 ---
 
@@ -245,7 +245,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 230 • 💬 189 • 8h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 230 • 💬 189 • 9h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -355,7 +355,7 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 144K • 👍 551 • 💬 29 • ⏱️ 8:09 • 18h ago
+👁️ 144K • 👍 551 • 💬 29 • ⏱️ 8:09 • 19h ago
 
 ---
 
@@ -674,7 +674,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 819 • 🔱 42 • 16m ago
+⭐ 819 • 🔱 42 • 26m ago
 
 ---
 
