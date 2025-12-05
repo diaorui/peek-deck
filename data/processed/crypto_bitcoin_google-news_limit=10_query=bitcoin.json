@@ -5,44 +5,64 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "4 reasons why bitcoin is slogging through an epic plunge",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX0ZwQ2ZJR1FQWkhxcC1xaTcwWmxQUE9YQlJOOGtmdWJnazBvSzJpZTNaZVM3RGdzME1KSmdsSmJMb0N2TDl6bTZMUFpVSnFSUTNWTk5ZZHFQVEtabDQ2RmUzcm5mOXFPLTJHaXh0NEplMXRoSHJHN2lhZF91RzFpXzhrNkhaOHZKVWxtMExBVGJfUThvRlR5UU5vM00tNFNIYlFUcTJOWTNxekg3d0E?oc=5",
-      "pub_date": 1764671100.0,
-      "article_url": "https://www.businessinsider.com/bitcoin-price-crash-explained-headwinds-hurting-crypto-market-outlook-2025-12",
-      "image": "https://i.insider.com/692e03407ecd1d1da662b675?width=1024&format=jpeg",
-      "description": "There are a few reasons why this sell-off in bitcoin feels different than ones past."
+      "headline": "Bitcoin Price Alert: Bitcoin Breaks Major Resistance - Next Stop $100,000?",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQWRjeC1rSFAxWG0xVUVlSmhDelRVTTNQZ19wVi1saWhoM2ZKbUl0TmZFdUhwUlp3YlV5STlhWVdVNVhkd1doN2p4QmMtamhLekVTVUk5aWhDb2ZxZVl3VFNIYTFobTMzb1B1a3lMQnd1a2N5ZW5SaV9VOWZ3MUQ4TmFHYWRjM3JsOENVM09sREJ2UW1WWkhDRm8zeTJ1UXFEQjBMeDBZcHF2VWYwV2c?oc=5",
+      "pub_date": 1764825900.0,
+      "article_url": "https://seekingalpha.com/article/4850125-bitcoin-price-alert-bitcoin-breaks-major-resistance-next-stop-100000",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1329055819/image_1329055819.jpg?io=getty-c-w1536",
+      "description": "Bitcoin (BTC-USD) has successfully rebounded, passing the $93,000 price point market participants have been watching. After several weeks of falling prices, this price reversal seems strong."
     },
     {
-      "headline": "'Big Short' investor Michael Burry says bitcoin is the 'tulip bulb of our time'",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMUZNU05tdlNLMHZicUZHbkFQTmNGTGxKVnZNS092WldHUlVIM2tLMFB6c0JRNHY1S3k3ZTNLV3pPX0pMWTlIcnhmdTVySTBJbTB1OUlSS0ZGdFBFbGV0WDBla0VmQ2NPN3J2MEs2M2lvN3dRME5XbTFzR05GZUwwa1dNSGtRSFNrWG52RkpJaVdsZw?oc=5",
-      "pub_date": 1764685740.0,
-      "article_url": "https://www.businessinsider.com/michael-burry-bitcoin-price-tulip-bulb-big-short-2025-12",
-      "image": "https://i.insider.com/692ef04371107c9f34572830?width=1200&format=jpeg",
-      "description": "The investor said seeing the blockchain-based currency hit $100,000 was \"the most ridiculous thing.\""
+      "headline": "Bitcoin sell-off halts Trump family's crypto windfall",
+      "source": "ABC News",
+      "source_url": "https://abcnews.go.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmlWMDNZVUtjS1dsWHFyaTdfMnhSMTEta1J0WGZDTlJ0czUxcFlJeV95Y0pUSGRVZG0tSmE3MlVxMDNGb1pBZjlWOF9uZXlZVlJncTRldWtaMDRRMm5NelRQN216N0I1YldHSVNja0Nsb3FpUDliZk12aTVaZEd6TVkzaW1FeUZRcWtBcWl2WkhTS1JGbExzUDFIRFlnUdIBowFBVV95cUxQVGxtTWthQ3gxRS1QUUpYZFd0RTB0OXVPYm5STk1sLWJPUzZLeGRhVUM0NzBfcm1IaGdqdVNESG9leWZpTHpkUDFsaEpDbG94d0FjOTlpRGNZOFZDWF9ZeGhNMkRzRHNzOHpDVGNZQWNDamdQR0R2Ni1PVkhtVmpsQUpyZHdLVzgxelQwNzU3RmFkMXNOOXB3UmFRV1IzUGItc2Q4?oc=5",
+      "pub_date": 1764696059.0,
+      "article_url": "https://abcnews.go.com/US/bitcoin-sell-off-halts-trump-familys-crypto-windfall/story?id=128035773",
+      "image": "https://i.abcnewsfe.com/a/cb51083f-cd27-4bf8-8f01-4b848cd3d681/donald-trump-5-ap-gmh-251201_1764611758255_hpMain_16x9.jpg?w=1600",
+      "description": "Due to a recent downturn in bitcoin, the Trump family has had roughly a billion dollars of their net worth erased in just a matter of weeks, according to estimates."
     },
     {
-      "headline": "Market choppiness, US yield curves, bitcoin: Trading Takeaways",
+      "headline": "Trump sons\u2019 bitcoin venture sheds almost 40% of its value in crypto turmoil",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIX1B3MWlFY1JTVkFxREhBeExnazVTWTRYajVYdXRDbFZfMmlsc193YVhxN2l0dGNLZWswUkJBWTN2WUp6NEdGOW9TM1Q3TVVxNC1MNWtPUWRQTGRHRW5rOVRNWWJhTWZ0UXN6QzZZTDc?oc=5",
+      "pub_date": 1764703910.0,
+      "article_url": "https://www.ft.com/content/18e3bfc1-c2aa-49a0-8c6d-a37255a23017",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc5b7856b-9d31-43fa-96a0-0e88766916a1.jpg?source=next-barrier-page",
+      "description": "Company\u2019s shares plummet as investors cash out at end of lock-up period"
+    },
+    {
+      "headline": "Trump's Crypto Universe Just Crashed--and American Bitcoin Took the First Hit",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0JiN2t5ZVFpUjFGbVBBYWRSaEJfbVhySUk0QnpzVWFSX3BVTUpxS2VtQnVQM0dFYVhwZlVUeVJGNlJEYTNiM3hWbnNzMVZVekVIbVk5dkVRODhGODM2c0NfSVlSajRJZlhPaXgxelJpRVlCNmVHbHNudXE0dkQ0WHVDUHMwSm8?oc=5",
-      "pub_date": 1764887100.0,
-      "article_url": "https://finance.yahoo.com/video/market-choppiness-us-yield-curves-222500145.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/dXNGxveIfT0ZXCp9XlPWZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/ed140000-d15d-11f0-8175-e409983d3ed0",
-      "description": "US stocks (^DJI, ^IXIC, ^GSPC) close Thursday's session slightly mixed with the Nasdaq Composite rising 0.22%.&nbsp; Yahoo Finance markets and data editor Jared Blikre breaks down the biggest market themes from today\u2019s trading day, including seasonal volatility ahead of the Santa Claus rally window, steepening yield curves, and the latest price action in bitcoin (BTC-USD). To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend."
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaE1pM3hnQ1ZMY0FlVVcwUTdzX0c4WWN0Y3psYzgyOEV6S2JVOFZMT0xGdldoeVRpcmVrUWJEd0dLM2VIVG9rQk5yZHg3eU9wSEpUMmVPZExtbTh0c1NqR1M5dEZfczh6eGs2cWFhREdIMjZoaGVmYmtWWnN4LWtpZzg2VHd5MXZt?oc=5",
+      "pub_date": 1764772528.0,
+      "article_url": "https://finance.yahoo.com/news/trumps-crypto-universe-just-crashed-143528119.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Qpvwtsgs3wqWjA_qSjfm0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/us.finance.gurufocus/fbaa0e585f3a84843ef3ff5b0c9aac53",
+      "description": "A lightning-fast plunge in American Bitcoin ignites fresh worries about the unraveling of Trump-linked digital assets."
     },
     {
-      "headline": "Ripple CEO Brad Garlinghouse Expects Bitcoin to Hit $180K Next Year",
+      "headline": "Peter Schiff\u2019s Bitcoin Comment at CZ Debate Is Logically Flawed",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUGt5Ump2TC1VQnAxZ1lVSjJjOFVNdmF0U3JuNHFkQlVnT3FFeVEyOEVnSkcxazFZN2wzMkppSUw2YXRLWFNQbEZna2k5M2tERm5sb3J3Q0JsbXhrTEZOMjBaYVh0dExQQ3hrS3VpOUx2LWNYR3ExS1JYTXFSd2NGZDE4X0I5R1o3NWc?oc=5",
-      "pub_date": 1764885885.0,
-      "article_url": "https://finance.yahoo.com/news/ripple-ceo-brad-garlinghouse-expects-220445666.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/zcz1HmsdVs0jUl1Mtm16cg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_157/ff693ba7953146701ed98218c626e5de",
-      "description": "Ripple CEO Brad Garlinghouse thinks Bitcoin will be trading at $180,000 at the close of 2026, nearly double the current price."
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmtfUVpWN0RSYU9NN0I5TEFRbjlYUjI0QVhYVVFYZDkxdkVDMVBFZFE4Nl9hd2tFTGNmQnFKNEcxOE44a01tZm9LX1lQd2FLLUhqWlo0Szd5cUpHTGk3N2MxMEpfcEs0VWdRVHVjTC16cFV3YjBTWWRPLTgwczhCM2xB?oc=5",
+      "pub_date": 1764892308.0,
+      "article_url": "https://finance.yahoo.com/news/peter-schiff-bitcoin-cz-debate-235148983.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/z_KV0mCdU.940HBWeO4g1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/05f5911394bb4e5162cae2fc92eaf859",
+      "description": "Peter Schiff\u2019s Bitcoin claim at the CZ debate faces analytical pushback. Here\u2019s why his argument is fundamentally flawed."
+    },
+    {
+      "headline": "Ripple CEO Says Bitcoin Can Hit $180,000 By End Of 2026",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ucy01UmlPcnhrc3lyQzFpRGpCM051QzlFWW1mTmg2a3FBY0N4bWVtd1lxZTAtNEIzM05WQkpsVjB5V29jaUs5RzdYT3Z2M2ZOTUFNOWRfZzhyRXJTRXhPeWMyQ0lvaG9NWXJ5WmlmRDhIVGRNc2dwTlgwRUpCdw?oc=5",
+      "pub_date": 1764894660.0,
+      "article_url": "https://finance.yahoo.com/news/ripple-ceo-says-bitcoin-hit-003116022.html",
+      "image": "https://media.zenfs.com/en/benzinga_79/bf66b990e7312e2b6d1aa79b663ba7ad",
+      "description": "Ripple (CRYPTO: XRP) CEO Brad Garlinghouse argues the bearish mood around Bitcoin (CRYPTO: BTC) is temporary and completely out of sync with the structural tailwinds supporting the market. What Happened: Speaking at Binance Blockchain Week 2025, ..."
     },
     {
       "headline": "Bitcoin has plunged. Strategy Inc is an early victim",
@@ -65,24 +85,14 @@
       "description": null
     },
     {
-      "headline": "Video: BlackRock C.E.O. Calls Bitcoin an \u2018Asset of Fear\u2019",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNemkwbnVmYy1RczRGQ3A4cmlUdy1UbEkzR09RVkNHZnBMN2phVmE4MVBQclNJeFVtRFNDMko2MjdZeGIwZ214VHJaSXh4WldhT011c2dsNWMxRThvSFh1WjJiYTROMVdjOWJXUlAzSW5qODJWMW44Mmp3aC1nWUtFMlNOMVN0S0xBZDVCYUwxaWhNMEl1djM1NW9jQjNsRy1ub043Z0U1WU1FcFpCT2JlNzgwYw?oc=5",
-      "pub_date": 1764781993.0,
-      "article_url": "https://www.nytimes.com/video/business/dealbook/100000010562120/blackrock-ceo-calls-bitcoin-an-asset-of-fear.html",
-      "image": "https://static01.nyt.com/images/2025/12/03/multimedia/03dealbook-summit-armstrong-fink-wckh/03dealbook-summit-armstrong-fink-wckh-facebookJumbo.jpg?video-overlay",
-      "description": "Larry Fink, the chief executive of BlackRock, dismissed concerns about the long-term value of cryptocurrency."
-    },
-    {
-      "headline": "Larry Fink softens crypto stance as BlackRock boasts biggest US bitcoin ETF: 'My thought process has evolved'",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUnM4NWxpRmUwNzVLcS1SNjN1WHVvamNrSHBmd0U3RGtuaGZZV3JyUzFVaW5EamxtM3pqbC02cUFpczVaekw1WEdfeDJacDMyWVppQTJxS29aSnNSUjJ5Tms5R041eTI5UnlscTQ0elRQQnJFMkt1UDZYYjY3S3NoN0NvY3Q1TWFmcmJ1YWhRUk9TWWVEdEhnTVBxdEZDOE91QVRpam8wbllzREl4YTFFWnRYNE84LTNGTHBqb2k2TTZteFhBUlBlYTM0YnM2TlNwSWhMd0c1MVRlU2JBRjYtN1N0TktHRXc?oc=5",
-      "pub_date": 1764787749.0,
-      "article_url": "https://finance.yahoo.com/news/larry-fink-softens-crypto-stance-as-blackrock-boasts-biggest-us-bitcoin-etf-my-thought-process-has-evolved-184909682.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/LCqYj_OUyWeEiQelje7S9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/3d8e6010-d074-11f0-b5df-33145c765fcd",
-      "description": "Larry Fink, once a proud crypto skeptic, has evolved his views as his firm, BlackRock, has become a leader in the industry."
+      "headline": "With bitcoin down to around $92,000, should you rethink how much crypto to own? Here\u2019s what experts say.",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQaTcyTkVEak9USGo2VGdPM2tVSkFqVTlwb3dDVmtERGxmVi1NUFd3WHlVelBVcndROXh1QzVKWDEwaHExSWZNOHZEVWNnZ28zOFg3THRUVDYwb0lXX2psdmhNM2ZMekVJajlPZlVZSEROX0ZwT3dRMm9Land0elBoby13S0dvUWVMMk5kRU0zdXNwblNHX2tyWkdmUllXVUdONHg3VVRDaW5jOXZrV1NtbjA4RXJ1NlVVZ3dGWWt3V2Mxa2FhR1pUWmNJU0RLaktwWl9LdWtRLXBUYzV4clhsdGx6MW5Ya0kwVTZsOWxEZTRnZmhMblFkeklna1QzdVEwVTBXek9HTWhTZ1hYb0FSVVk2WXRmTnRIV2RLTWdsQ1B4RF9BRjZwMGtEbk8yaG5HNlBtMEJMbm40cTJ0c3BibFJOZW5Xa2hoR0cya2EzQUlJZGg1Uy1vNEg5MndnTXpOdk9wSk52bnk0YzdocXQ2aVVQXzlINmhYMnRsdmRZSmNfMGhxdjV6RUg2X2dFN0FOQ1d2T051aDV1ZURpOWV2ckpUNm1PNmJXeFg4Nm82dWMxa3FJMHlrYVF5S0V3QkJza0F2SGZyS19XMlRqa0k3eGw5bFplZFVqYmk5Q3NsNA?oc=5",
+      "pub_date": 1764880980.0,
+      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqcV4uvqag95oi8QIwK-SgzSgXW0AePIPCrlo3UJZT_y_RvskKRwuBkl&gaa_ts=69323481&gaa_sig=7EZ-S_TptV4RyuTo2K7NLVigd-AwIWfxKPauZjaeyXoK_sGtIyxI47_QOSoGgXHQvrQFm6DW7OUd-_28czt_Og%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Michael Saylor\u2019s Strategy may have BlackRock to thank for the 11% rise in Bitcoin",
@@ -93,18 +103,8 @@
       "article_url": "https://fortune.com/2025/12/04/bitcoin-price-michael-saylor-strategy-blackrock/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2025/02/GettyImages-1491618289-e1739538790764.jpg?resize=1200,600",
       "description": "BlackRock\u2019s ETF now owns 3.9% of all existing Bitcoin, more than Strategy."
-    },
-    {
-      "headline": "Bitcoin could reach $170,000 if it trades like gold, says JPMorgan strategist",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOaWNUQjFfVV8xdld3Q0xkY2lLNnlEVjBNOEZvVklSRG91QmE5aGNjWHNiZEZCRkllS2tlaXhQaGR1WVhpdjdUSXQyelk2N2tDQk5wMFF3N2RiZW1uTVltTnBzS0FQcnY1SXJaM1BUT25Ua09zR2tITXM5NGRpTTdhdW5UcmxBRzE1RDcwUFlLNnVfek5EbEluY1FMeTVuV1VpVUlidjFWYW1wZFJyQ1VvNlBmTTdXU0ZLRmZ6SVppLTFsUXR2YUxuU1lnMkQtaE5ESlhEam1DWUctQ0JXR2tLcUpGdjk3dHpQaEdSWEt6a2pRX1FjRVVhdEJzR0ViT0tkc3ZwbDZTVEtHUmVFYU1HTmpPUWZySDl2UktJXzBsT0hhV2RFNm5mMEYzbm9hbnZXazVrQnhvODktUG8zS3g2RTc4UTdfcVQxN0h3NUxwYm1lbzBxXzF2ejJwN2N3RHFPaWgzVk9TNElNT2xJeWFycXc0aTctV0w3MHpVSHBMMFZHMmZUcTA1QlBTZFF4S2JMenFFeTF5NkVjWlJYREh1ZUs4cW5sZ0xGWkZBNkt2a1FPeE91WE5wbnlwX2RuYWs?oc=5",
-      "pub_date": 1764845040.0,
-      "article_url": "https://www.marketwatch.com/story/bitcoin-could-reach-170-000-if-it-trades-like-gold-says-jpmorgan-strategist-962b90a7?gaa_at=eafs&gaa_n=AWEtsqdP1iwWyxy3jsGMx97U0Bc8V3Ax_KFtMrBfbcZpnyQyaLj1lZTFFJUS&gaa_ts=69321c2c&gaa_sig=L1IZEA5xegxJm-Dmd5ZaYnff1YZj9Ds5wJkJuA3V1CHfNL2tyINtThF8uVR_HIk0dyTsTeUe921T_vqsArrGkQ%3D%3D",
-      "image": null,
-      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T23:26:54.112072+00:00"
+  "fetched_at": "2025-12-05T01:12:28.090606+00:00"
 }

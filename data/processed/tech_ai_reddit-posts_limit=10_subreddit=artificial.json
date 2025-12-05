@@ -13,6 +13,17 @@
       "description": "Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology."
     },
     {
+      "title": "This guy built an AI for your ear that you talk to and it literally changes what you hear",
+      "author": "Ridwann",
+      "url": "https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/",
+      "published": 1764883111.0,
+      "thumbnail": "https://external-preview.redd.it/c2ZkZXVzaGM3OTVnMXYWqHRPQJQy5HYl_GIhe4VMsJqw1Xgh7K0Xsyj_aZwx.png?width=640&crop=smart&auto=webp&s=af6d2b28199fb58b00d7b478e470ca758cc985f2",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "\"Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have.\" -Bernie Sanders",
       "author": "MetaKnowing",
       "url": "https://www.reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/",
@@ -31,17 +42,6 @@
       "thumbnail": null,
       "external_url": "https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/",
       "site_name": "wfla.com",
-      "favicon": null,
-      "description": null
-    },
-    {
-      "title": "This guy built an AI for your ear that you talk to and it literally changes what you hear",
-      "author": "Ridwann",
-      "url": "https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/",
-      "published": 1764883111.0,
-      "thumbnail": "https://external-preview.redd.it/c2ZkZXVzaGM3OTVnMXYWqHRPQJQy5HYl_GIhe4VMsJqw1Xgh7K0Xsyj_aZwx.png?width=640&crop=smart&auto=webp&s=af6d2b28199fb58b00d7b478e470ca758cc985f2",
-      "external_url": null,
-      "site_name": null,
       "favicon": null,
       "description": null
     },
@@ -79,6 +79,17 @@
       "description": "The U.S. Department of Health and Human Services has outlined a new strategy to expand its use of artificial intelligence."
     },
     {
+      "title": "Embedding Drift silently broke our RAG",
+      "author": "coolandy00",
+      "url": "https://www.reddit.com/r/artificial/comments/1pefrm6/embedding_drift_silently_broke_our_rag/",
+      "published": 1764892052.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Our RAG stack degraded slowly over months. Text-shape differences created different embedding vectors Hidden characters slipped in from OCR Partial updates mixed old and new embeddings Incremental index rebuilds drifted from ground truth Retrieval looked random at times, but the retriever wasn\u2019t the problem. We enforced a consistent embedding pipeline: Canonical preprocessing that never changes silently Full re-embeddings instead of patching Version-pinned embedding model Stable index rebuild rules tied to segmentation changes Impact: Retrieval reliability improved immediately Embedding clusters became predictable Fewer \u201cmysterious RAG failures\u201d Debug time dropped dramatically Have you seen embedding drift show up in long-running systems?"
+    },
+    {
       "title": "Bank of America predicts an 'air pocket,' not an AI bubble, fueled by mountains of debt piling up from the data center rush | Fortune",
       "author": "fortune",
       "url": "https://www.reddit.com/r/artificial/comments/1pdi0q7/bank_of_america_predicts_an_air_pocket_not_an_ai/",
@@ -90,27 +101,16 @@
       "description": "\u201cIs this 2000? Are we in a bubble? No,\u201d BofA\u2019s strategy chief Savita Subramanian said. \u201cWill AI continue in unfettered leadership? No.\u201d"
     },
     {
-      "title": "Countering China\u2019s Challenge to American AI Leadership",
-      "author": "HooverInstitution",
-      "url": "https://www.reddit.com/r/artificial/comments/1pef7qq/countering_chinas_challenge_to_american_ai/",
-      "published": 1764890645.0,
+      "title": "Need help picking an AI",
+      "author": "valardohaerisx",
+      "url": "https://www.reddit.com/r/artificial/comments/1pefew8/need_help_picking_an_ai/",
+      "published": 1764891142.0,
       "thumbnail": null,
-      "external_url": "https://www.foreign.senate.gov/imo/media/doc/5c78c941-bd21-2468-1d2c-957537481348/120225_Chhabra_Testimony.pdf",
-      "site_name": "foreign.senate.gov",
-      "favicon": "https://www.foreign.senate.gov/favicon.ico",
-      "description": null
-    },
-    {
-      "title": "Extremists could use AI to make bioweapons capable of sparking future pandemics, tech experts warn",
-      "author": "MetaKnowing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pe5j2f/extremists_could_use_ai_to_make_bioweapons/",
-      "published": 1764868146.0,
-      "thumbnail": null,
-      "external_url": "https://www.euronews.com/health/2025/12/03/extremists-could-use-ai-to-make-bioweapons-capable-of-sparking-future-pandemics-tech-exper",
-      "site_name": "euronews",
-      "favicon": "https://www.euronews.com/apple-touch-icon.png",
-      "description": "Existing and emerging AI tools could technically be used to create a bioweapon capable of starting a pandemic, experts said."
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "I have used CHATGPT for several months and I think that at would have been perfect for this task but now that I want to do it, it seems they have completely throttled it's capabilities. It used to pretty much only offer to make me PDFS and now it says it can't. Essentially: I run a very small business. I want to automate a simple task. I want to upload a pdf of a completed work order and I want Ai to take information from that work order and populate it onto an invoice template. And then provide me a pdf that has a copy of the work order and the invoice with the information filled out. What should I use to do this?"
     }
   ],
-  "fetched_at": "2025-12-04T23:26:33.848457+00:00"
+  "fetched_at": "2025-12-05T01:12:03.888226+00:00"
 }

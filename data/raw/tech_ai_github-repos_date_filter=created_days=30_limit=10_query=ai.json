@@ -8,10 +8,10 @@
       "description": "\ud83d\ude80 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.",
       "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
       "preview_image": "https://opengraph.githubassets.com/0149e9dee040bdbc5bac27041b650c36eb840b6598bb203b6c4875d2fb75fad9/ZeroLu/awesome-nanobanana-pro",
-      "stars": 4939,
-      "stars_display": "4.9k",
-      "forks": 380,
-      "forks_display": "380",
+      "stars": 4950,
+      "stars_display": "5.0k",
+      "forks": 379,
+      "forks_display": "379",
       "language": null,
       "topics": [
         "gemini",
@@ -30,7 +30,7 @@
       "description": "\ud83c\udf4cAwesome Prompts; Nano Banana\uff1bBanana Pro; Gemini\uff1bAI Studio\uff1bPrompt Quickly [\u5546\u5e97\u7248\u672c 1.3.0\uff0c\u6700\u65b0\u7248\u672c 1.4.0+\uff0c\u53ef\u9009\u62e9\u672c\u5730\u5b89\u88c5\u62a2\u5148\u4f53\u9a8c\u65b0\u529f\u80fd\uff0c\u5177\u4f53\u7248\u672c\u5dee\u5f02\u89c1\u4e0b\u65b9 release note]",
       "url": "https://github.com/glidea/banana-prompt-quicker",
       "preview_image": "https://opengraph.githubassets.com/375bae68ecaebf0a1a49c1a03fbc952041dce80eafd55379af04e509b5155928/glidea/banana-prompt-quicker",
-      "stars": 1261,
+      "stars": 1270,
       "stars_display": "1.3k",
       "forks": 116,
       "forks_display": "116",
@@ -66,32 +66,16 @@
       "description": "AI-powered git commit message rewriter using Ollama or GPT",
       "url": "https://github.com/f/git-rewrite-commits",
       "preview_image": "https://opengraph.githubassets.com/c6b09847c72773387ee5104f29860f48c86cb236c664f2498a9824bd0f2f1b88/f/git-rewrite-commits",
-      "stars": 987,
-      "stars_display": "987",
-      "forks": 44,
-      "forks_display": "44",
+      "stars": 994,
+      "stars_display": "994",
+      "forks": 45,
+      "forks_display": "45",
       "language": "TypeScript",
       "topics": [
         "git",
         "pre-commit-hook"
       ],
       "updated_at": "2025-11-29T14:20:01Z"
-    },
-    {
-      "full_name": "openpcc/openpcc",
-      "name": "openpcc",
-      "owner": "openpcc",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/234499499?v=4",
-      "description": "An open-source framework for verifiably private AI inference",
-      "url": "https://github.com/openpcc/openpcc",
-      "preview_image": "https://opengraph.githubassets.com/4acf135e6614606a5661d4d1f713eb557440d5c07e4aca815689212299e9300b/openpcc/openpcc",
-      "stars": 883,
-      "stars_display": "883",
-      "forks": 27,
-      "forks_display": "27",
-      "language": "Go",
-      "topics": [],
-      "updated_at": "2025-12-04T22:45:25Z"
     },
     {
       "full_name": "Ryandonofrio3/osgrep",
@@ -153,28 +137,6 @@
       "updated_at": "2025-11-30T17:39:20Z"
     },
     {
-      "full_name": "HugeCatLab/ChatTutor",
-      "name": "ChatTutor",
-      "owner": "HugeCatLab",
-      "owner_avatar": "https://avatars.githubusercontent.com/u/245437208?v=4",
-      "description": "\ud83d\udc68\u200d\ud83c\udfeb ChatTutor: Visual and Interactive AI Tutor",
-      "url": "https://github.com/HugeCatLab/ChatTutor",
-      "preview_image": "https://opengraph.githubassets.com/e9157eb46672c03098222d401312ad77657411f4732f5747fb498b7aa7385f79/HugeCatLab/ChatTutor",
-      "stars": 746,
-      "stars_display": "746",
-      "forks": 95,
-      "forks_display": "95",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "ai-education",
-        "education",
-        "llm",
-        "stem"
-      ],
-      "updated_at": "2025-12-02T15:46:25Z"
-    },
-    {
       "full_name": "Hugo-Dz/spritefusion-pixel-snapper",
       "name": "spritefusion-pixel-snapper",
       "owner": "Hugo-Dz",
@@ -194,12 +156,50 @@
         "pixel-art"
       ],
       "updated_at": "2025-11-25T18:22:52Z"
+    },
+    {
+      "full_name": "Zleap-AI/SAG",
+      "name": "SAG",
+      "owner": "Zleap-AI",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/239856193?v=4",
+      "description": "SAG - SQL\u9a71\u52a8\u7684RAG\u5f15\u64ce \u00b7 \u67e5\u8be2\u65f6\u81ea\u52a8\u6784\u5efa\u77e5\u8bc6\u56fe\u8c31 | SQL-Driven RAG Engine \u00b7 Automatically Build Knowledge Graph During Querying",
+      "url": "https://github.com/Zleap-AI/SAG",
+      "preview_image": "https://opengraph.githubassets.com/d69c3a3459df3344a794364f9b77e0fba1d1aebe7813f23952fcac697bf515c6/Zleap-AI/SAG",
+      "stars": 677,
+      "stars_display": "677",
+      "forks": 14,
+      "forks_display": "14",
+      "language": "Python",
+      "topics": [
+        "ai",
+        "data-engineering",
+        "fastapi",
+        "graphrag",
+        "information-retrieval"
+      ],
+      "updated_at": "2025-11-19T07:03:51Z"
+    },
+    {
+      "full_name": "Doriandarko/kimi-writer",
+      "name": "kimi-writer",
+      "owner": "Doriandarko",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/1247180?v=4",
+      "description": "AI writing agent powered by kimi-k2-thinking - autonomously creates novels and stories with deep reasoning",
+      "url": "https://github.com/Doriandarko/kimi-writer",
+      "preview_image": "https://opengraph.githubassets.com/9e8d453fa02ead6e181a9460ad2ee3313a62ad64072929e444cf7fc468225e61/Doriandarko/kimi-writer",
+      "stars": 487,
+      "stars_display": "487",
+      "forks": 106,
+      "forks_display": "106",
+      "language": "Python",
+      "topics": [],
+      "updated_at": "2025-11-08T18:48:32Z"
     }
   ],
   "query": "ai",
-  "search_query": "ai created:>2025-11-04",
+  "search_query": "ai created:>2025-11-05",
   "days": 30,
   "limit": 10,
-  "total_count": 222046,
-  "fetched_at": "2025-12-04T23:41:49.510331+00:00"
+  "total_count": 214634,
+  "fetched_at": "2025-12-05T01:12:05.517721+00:00"
 }

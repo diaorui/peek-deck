@@ -24,6 +24,17 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
+      "title": "\ud83d\ude80 Ethereum Fusaka is Live: The \u201cUnsung Hero\u201d Upgrade You Need to Know About",
+      "author": "confusedcoin",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pe4hqt/ethereum_fusaka_is_live_the_unsung_hero_upgrade/",
+      "published": 1764865827.0,
+      "thumbnail": null,
+      "external_url": "https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2",
+      "site_name": "vamshi.medium.com",
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "Sony launches Stablecoin! \ud83c\udfae USDSC lists on Ethereum L2!",
       "author": "renkure",
       "url": "https://www.reddit.com/r/ethereum/comments/1pdxj1w/sony_launches_stablecoin_usdsc_lists_on_ethereum/",
@@ -35,15 +46,15 @@
       "description": null
     },
     {
-      "title": "\ud83d\ude80 Ethereum Fusaka is Live: The \u201cUnsung Hero\u201d Upgrade You Need to Know About",
-      "author": "confusedcoin",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pe4hqt/ethereum_fusaka_is_live_the_unsung_hero_upgrade/",
-      "published": 1764865827.0,
-      "thumbnail": null,
-      "external_url": "https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2",
-      "site_name": "vamshi.medium.com",
-      "favicon": null,
-      "description": null
+      "title": "Highlights from the All Core Developers Execution (ACDE) Call #225",
+      "author": "Y_K_C_",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pego5o/highlights_from_the_all_core_developers_execution/",
+      "published": 1764894384.0,
+      "thumbnail": "https://external-preview.redd.it/K1RcM0LAadD7-6wwPZdTDKsNMd1iU6IoBFkKvn3bc54.png?width=640&crop=smart&auto=webp&s=539183c7c9064c060e9a9f3e9986f6338b07c25e",
+      "external_url": "https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/",
+      "site_name": "EtherWorld.co",
+      "favicon": "https://etherworld.co/content/images/size/w256h256/2023/03/new-logo--3--2.png",
+      "description": "A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade."
     },
     {
       "title": "Fusaka Infographic \ud83e\udd93 13 EIPs, one massive ethereum upgrade!",
@@ -99,18 +110,7 @@
       "site_name": "HackMD",
       "favicon": "https://notes.ethereum.org/apple-touch-icon.png",
       "description": "# EIP-7918 in Fusaka: 3 reasons and 1 trick  Tonight, Fusaka goes live and Ethereum updates its blob"
-    },
-    {
-      "title": "Exclusive Look Inside a Compromised North Korean APT Machine Linked to The Biggest Heist in History",
-      "author": "Malwarebeasts",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pd49bo/exclusive_look_inside_a_compromised_north_korean/",
-      "published": 1764768782.0,
-      "thumbnail": "https://external-preview.redd.it/Zyv5xLAnliqLcCyJOvBBBgrFFxh8yUbyLSh7_wRfszw.png?width=640&crop=smart&auto=webp&s=d05fa89fa6bb25cee8e0c18fe028e700f9275df2",
-      "external_url": "https://www.infostealers.com/article/exclusive-look-inside-a-compromised-north-korean-apt-machine-linked-to-the-biggest-heist-in-history/",
-      "site_name": "InfoStealers",
-      "favicon": "https://www.infostealers.com/wp-content/uploads/2023/08/favicon-300x300.png",
-      "description": "Recently, Hudson Rock analyzed a unique infection from a LummaC2 infostealer log. The victim wasn't a corporate employee or an unsuspecting consumer. The victim was a high-level threat actor operating a sophisticated malware development rig."
     }
   ],
-  "fetched_at": "2025-12-04T23:26:34.123218+00:00"
+  "fetched_at": "2025-12-05T01:12:09.046179+00:00"
 }

@@ -5,16 +5,6 @@
   "search_query": "ai",
   "articles": [
     {
-      "headline": "A.I. Deal Making Is Getting Faster and Faster",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TSjFLSXphajFfQzhFWnBHWXFRLUFuUXZJMTFHNGVLNml0XzhGaFVNM1RyOThqWWMzUjFKVDlYWDRfUEk3cXAxelB3RnM0OHQ2RktPeTZycDFZSE54aW1IR3M5LXhlVXBxaDRzc0w5aGVNYXllRVBINDlRRU4?oc=5",
-      "pub_date": 1764865810.0,
-      "article_url": "https://www.nytimes.com/2025/12/04/technology/ai-deal-making-faster.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "\u2018Godfather of AI\u2019 says Bill Gates and Elon Musk are right about the future of work\u2014but he predicts mass unemployment is on its way",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -25,34 +15,44 @@
       "description": "While tech leaders paint a positive future where work is optional thanks to AI, the \u2018Godfather of AI\u2019 Geoffrey Hinton warns they\u2019re \u201cbetting on AI replacing a lot of workers.\u201d"
     },
     {
-      "headline": "Exclusive: Palo Alto CEO say AI demands a new focus on threat detection",
-      "source": "Axios",
-      "source_url": "https://www.axios.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJRTU5WEh5QTJFSTQxX0VESkx5SWJoVmJOT25Gd1NrSVN4U1FnWFZmNVkySENVcUJXbWhhV1E2ZTFqNWtTQ0Ryc1cwQlZpMUlLbkxJcEpnYjRwNFlGeXQ0QVVlck5NTXNTbDFHYk1pcGdlb0ZCNC05eQ?oc=5",
-      "pub_date": 1764890032.0,
-      "article_url": "https://www.axios.com/2025/12/04/nikesh-arora-ai-cybersecurity-trends",
+      "headline": "A.I. Deal Making Is Getting Faster and Faster",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TSjFLSXphajFfQzhFWnBHWXFRLUFuUXZJMTFHNGVLNml0XzhGaFVNM1RyOThqWWMzUjFKVDlYWDRfUEk3cXAxelB3RnM0OHQ2RktPeTZycDFZSE54aW1IR3M5LXhlVXBxaDRzc0w5aGVNYXllRVBINDlRRU4?oc=5",
+      "pub_date": 1764865810.0,
+      "article_url": "https://www.nytimes.com/2025/12/04/technology/ai-deal-making-faster.html",
       "image": null,
       "description": null
     },
     {
-      "headline": "Some AI stocks that trade at a reasonable price, according to Citigroup",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVZkdmg0d1p2RjQxWEs4c0VnMWU2cndDcTJVWm1SZVpwZ2tNeE9qMVhJZ0dmUHk4SmxyaUIwb0pDaFZlbkZKRGJIWUdJTUdBX1hfbjRaZVQ3ZlN4Zzc3OHpaWWQ2MHR0OW81eGFLNEo1X3BlQU5ZbWk0eXpSREVDal9LSHhZVE52MWJ0Sy0zSjl2U1NDWjNYcElLNUNGX2lsVkdobnM1a1RBTDA?oc=5",
-      "pub_date": 1764888133.0,
-      "article_url": "https://www.cnbc.com/2025/12/04/some-ai-stocks-that-trade-at-a-reasonable-price-according-to-citigroup.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108218632-1761751680797-gettyimages-2240390282-porzycki-brandsan251012_npUSM.jpeg?v=1764880059&w=1920&h=1080",
-      "description": "Citigroup's \"AI at a Reasonable Price\" basket offers an avenue for individuals into AI using a diversified set of stocks, such as Meta, Eaton and Adobe."
+      "headline": "Exclusive: AI customers demand responsible development, Microsoft exec says",
+      "source": "Axios",
+      "source_url": "https://www.axios.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45bmx6RmVDdm9tMTgtdXBkTDVVN1NPRGVBTTE2Vl9NbWpaMlpDTGtzaGpoUFBydXJ4QlhrTmRKMlcyZ2syaldHTjk1M3I5Smhla0Etb09qcFhNTXZqLWtfNmgyTVF6bklzb0hRVW9SWF80ZVZF?oc=5",
+      "pub_date": 1764894138.0,
+      "article_url": "https://www.axios.com/2025/12/05/ai-microsoft-evolution-sarah-bird",
+      "image": null,
+      "description": null
     },
     {
-      "headline": "Can AI Look at Your Retina and Diagnose Alzheimer\u2019s? Eric Topol Hopes So",
-      "source": "WIRED",
-      "source_url": "https://www.wired.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxNlNXU2Jwa3BzWWhhU24zbC16RjZfaC1HUFdIajFKRDZ5NVlFQmIzWVJ5ZmFQUzF2RHJESHp6QkNVbWthZDRlTXZtQi1RWVNpY1Y3eGY0cHV5T09iRU9QbTVRbkg2TUUyTFdkTmh4dG0wSXd5OW42ODZCWQ?oc=5",
-      "pub_date": 1764889860.0,
-      "article_url": "https://www.wired.com/story/big-interview-event-eric-topol-super-agers/",
-      "image": "https://media.wired.com/photos/6931f5996919b9776a454f2c/191:100/w_1280,c_limit/Dr-Eric-Topol-Big-Interview-2025-1.jpg",
-      "description": "The author of Super Agers believes AI could bring big changes to the world of medicine."
+      "headline": "Artificial Intelligence: Some colleges, universities use AI to help with applications in the college admissions process",
+      "source": "ABC11",
+      "source_url": "https://abc11.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaHFkaFBNRzdRcml6RDhhMDk3WWZlQVFsa0MzNkVkZjlFeHNOMkVic3poRDRkTF9aUmF4WVVHbWhCNEVYemRCTlFLdWY5dE5kbzF4UzV5bF8weGg3a0dXTnN1LVdJRklQS2pmdGpncVFBVDBTbkR4UkFxZnlMbzFMeGpMSFhzV1hJUTNlSWd1UHVGMzFHSWM5M3FFY2JTWDNSMWpDUEpjQzRnNFdRYmNDajVQaVhQcEdRRU80SnltaGYtSFlwWGlsTDF30gHPAUFVX3lxTE9sbWFndzZMejEwbnBqTzlfSWdQYXJkbGxPTDluOC05QUlEbjVaLThYRFFodlQ3bFZXUHViWHhNX1kzbU1DZ3p3U0hMYnZjTHEtYUhjU0xoSnJ3RFBocDc4UFBubE4zeFlfVUI2T2JtT1F5THlqRTIybzVkSk5HeWIzbEVNdjByNEE3OUZfWWNPdnpLTHRtOFpuTHYxREtQcUpRUTJVeHY1R2EwUGR1Nkp3cFVQNER1d3lKR1ExbkVZb2loM2NzSmh3S1N4aUVLdw?oc=5",
+      "pub_date": 1764896365.0,
+      "article_url": "https://abc11.com/post/artificial-intelligence-colleges-universities-use-ai-help-applications-college-admissions-process/18251082/",
+      "image": "https://cdn.abcotvs.com/dip/images/16772390_061725-wtvd-ai-therapy-vid.jpg?w=1600",
+      "description": "The college application process is changing and some universities say artificial intelligence in the process."
+    },
+    {
+      "headline": "Sam Altman eyes rocket company to take on Elon Musk in space race",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUnUzNUJCZHItMXNEbGczMW0yRWpFeUk5LWZHdE5KWTU1RmR5TDJYbjdwUmdYUElQM0VETURBNkl0Uy1CU3RYVkk1RHFVMTVuNVlRVW1mUDd2R1J4YTFzSVBMSEVMS3ZhTUN3bG9oY0VsYzFzQ1pSV2pJR2lIeWVTU1BSUHZOUjB2aXppWVplSjBXYVRJZXF3ZlhKOGxOcklyN2RmYkhB0gGrAUFVX3lxTE5JbmNobGk2UVBpRmkyekh4NFE0eUtmTTNMQmZrc0F0T1ZFVXotMGEwQ3RqdDdtS0RydV96VHpyZ3RMU0lkeVpGSVBNTG5QNlh4Qks2LUswM1NCM05la1RPUjNRQmFWQzhQWldXdUFYYk0wOHVNSkRydzBHVG9lY1dRZHZMdDFTWk56aG5IRzMtc2V1YU5ySU1RVTBVZ3FzcWVXLVFsY2JmV3VJZw?oc=5",
+      "pub_date": 1764894180.0,
+      "article_url": "https://www.foxbusiness.com/fox-news-air-space/sam-altman-eyes-rocket-company-take-elon-musk-space-race",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/01/0/0/musk_altman-split.jpg?ve=1&tl=1",
+      "description": "Sam Altman approached rocket maker Stoke Space over potential multibillion-dollar investment as OpenAI CEO expands into space technology sector."
     },
     {
       "headline": "How AI is rewiring childhood",
@@ -75,36 +75,36 @@
       "description": "What 1,250 professionals told us about working with AI"
     },
     {
-      "headline": "Google\u2019s AI Nano Banana Pro accused of generating racialised \u2018white saviour\u2019 visuals",
+      "headline": "The AI boom is heralding a new gold rush in the American west",
       "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRUxTazhTM0JodDdrYjU5cVNwY01NaXVLbVZEV1B3X0dCaEFlNnQ3QVhfczFXMzQzX1hDWENEU2VkWm9YaV93UzFoaXFzMFhXSXJkNzV2SEE0cVJXMXBnMDdPeFU5dG00b3A3UHh4S1B1MUczZGNHaThFWmxKOVJqNzBvOGpra3hNZi1tSnFzR2pzUjBTejZQZXhNc04tZEVaelZuUGhCQjFNeTlu?oc=5",
-      "pub_date": 1764877560.0,
-      "article_url": "https://www.theguardian.com/technology/2025/dec/04/google-ai-nano-banana-pro-racialised-white-saviour-images",
-      "image": "https://i.guim.co.uk/img/media/72ff830e88835664983a84f949aafadcf8282484/0_175_1024_819/master/1024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ad6f4dae83684f5283b484d5ef1d4c0",
-      "description": "Research finds tool depicts white women surrounded by black children when prompted about humanitarian aid in Africa"
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBneVRydDFuam1rcEpvX2YxN25wM181dENRS1dwdE96Xzdja1g5aC1saUh5S3lwSGhOc0JLdy13SG91UVhseWhPSEJSSjY3b0trZ3lxd19UelBwclNOVmNfZ1NQM25vRGtRS2gxUVlUak9taTRhOU9JTkJKRkpfUQ?oc=5",
+      "pub_date": 1764879780.0,
+      "article_url": "https://www.theguardian.com/technology/2025/dec/04/nevada-ai-data-centers",
+      "image": "https://i.guim.co.uk/img/media/98b1dc3ef8182910c8dc25f71f49cdb364619a90/426_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3038117c30becf03294ba8e66858bb5",
+      "description": "Once home to gold and prospectors, the Nevada desert is now the site of a new kind of expansion: tech datacenters"
     },
     {
-      "headline": "The US may be running the wrong AI race",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52QzFKUXpCX09iY0hhVG1OYVRKcXJ1ZDFrcWtZSXNpNmNWYUlQWWVoRFFPTHpnU1ZkSVpXb3NGeHdXN0dFZDhpUjBvQWtRY29ZRWhCcmlqdnNLZS0wajU5Rm52VVpfYnZiNFFlR0JIUmU?oc=5",
-      "pub_date": 1764859498.0,
-      "article_url": "https://www.ft.com/content/45615c0a-952d-49b6-b2e0-c35d3826768f",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F76180ea3-b738-4223-ab13-ac6df21ea7f1.jpg?source=next-barrier-page",
-      "description": "China\u2019s favouring of small and cheap models such as DeepSeek could prove to be the better bet"
-    },
-    {
-      "headline": "Exclusive | The Math Legend Who Just Left Academia\u2014for an AI Startup Run by a 24-Year-Old",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQZUNKNXpVRllpR1dZTTczMlA0WEZfT29yM1lXR2trNk9OYk5GLVNPbGRuSm5pSkJZaFowTlBCSVNrQ3NNeWV0X2RtOVlQMGNqU2wxWTdZUVRaeUZyaWpaMWh4RERTdzdKYjhqQUVLOXBWdWNfTVljS1IwbEdxSGlUMjdvZTdoSW1TT1BrWDVDMzNHaUhzR016SmZDSm9FWEdzYThiV1VCcmVGSC1IMW1fa2xnTmZuNlcyT2hEZ3FjS2ZHcUtLX3ktdlo2MzZ1cVVCT0NZbGQ3VGRaa1dvM3c0YjVHdHEzMDJUbU52bzN6eHdNano1R2dzSU43MHAzVVpTa2V4aFQ5aXU2V2ctS0lreGpRc1k0NjV0b1BxYkpzVS1UQ21oT0NHc0xYX0dJTGpuZ0V4VEZkU0N2UEt1TWF6VUFsUndBZDZta3oxVjNOX1FxN2lqaGpBaEZnU0hLYm9qY3VPQ0o4UENfRjB2OG9CZmN0SGVuRXMyWFgxY1hWUTVtRHBLQVE?oc=5",
-      "pub_date": 1764827469.0,
-      "article_url": "https://www.wsj.com/tech/ai/math-ken-ono-carina-hong-axiom-startup-649bc417?gaa_at=eafs&gaa_n=AWEtsqf5A27IgTVT1IR7HtpmjtaPRRZQNz3PvXjc2zRFDxcZjnwdQW8b2dQc&gaa_ts=69321c2a&gaa_sig=2ioVF-735dqhzq9khrCuA9hGIEphNFr8WvCOPIjW-B2Vgi4iMMEfGao5iRc1EVs6kjFaCyCpMMBl1fO2MPUcmA%3D%3D",
+      "headline": "The Rise of AI Reasoning Models Comes With A Big Energy Tradeoff",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWhfeHdGVGs3a0FfYm9uT0dqamlnRThwOXZ3cDR6aHphRHdNcnktWUZINjBFak9FTEJmVHF5VTRtNmt4ZjNvM2QtT0NDdnBzWncxWXVOVGhmWTJmY0laSGl6TVlIU1ZjNGgzTlFITmd3TVdYa1QxRkt1M0NaTWt0VW5jOHVabHJOWEJDUFEyWXI0VklxNloyMkZNUVEwQUZCMENLVU5hMHZKclZ2ZVphMDFidlNwdw?oc=5",
+      "pub_date": 1764871302.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-04/the-rise-of-ai-reasoning-models-comes-with-a-big-energy-tradeoff",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLVhRT3BCTnJuajdOa1BQeHJTZmNWMzZVbmM0UWZNeU1CSGJsbk51TUY5X19hTkhoMU0wcVBYaWZuUk52ejJvbkNzQzh6UVNOdWpnRXV5QmVhV2NpMjBxSUJqSmNsWjNFeGkycF9sZUZmcjdrMkZ5RFVXaFdMRG9ZRUt5YWJ3WXlkTlVJWENRNzRMbDI2SXVkNkJsTDJaZjl0azRSRTkyVUw0OENqM3NuVW9jbEo0bTM3SFhtVmpfeF83cG1FVm9IdQ?oc=5",
+      "pub_date": 1764870154.0,
+      "article_url": "https://www.forbes.com/sites/annatong/2025/12/04/this-24-year-old-built-a-multibillion-dollar-ai-training-empire-in-eight-months/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/693133eaa5dc0082dddd0368/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "description": "Ali Ansari\u2019s decision to turn micro1\u2019s AI recruitment assistant into a data labeling business spiked the company\u2019s valuation from $80 million to $2.5 billion."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-04T23:26:56.443900+00:00"
+  "fetched_at": "2025-12-05T01:12:29.703117+00:00"
 }
