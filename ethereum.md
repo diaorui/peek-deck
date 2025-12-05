@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T17:29:24.521598+00:00'
+updated: '2025-12-05T17:45:45.356813+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 17:29 UTC  
+**Last Updated:** December 05, 2025 at 17:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.0%  
-**7d:** +0.9%  
-**30d:** -9.1%  
-**90d:** -30.1%  
-**1y:** -24.5%  
+**24h:** -3.6%  
+**7d:** +1.1%  
+**30d:** -8.9%  
+**90d:** -30.0%  
+**1y:** -24.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $366.50B
+**Market Cap:** $364.16B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.6%
+-39.0%
 
 **All-Time Low:** $0.43
-+701594.5%
++697049.3%
 
 ---
 
@@ -88,7 +88,7 @@ Trump crypto empire falls faster than bitcoin
 
 saw some questions about production web3 gaming setups so figured i'd share our full stack, we run a multiplayer game with about 10k active players. frontend: unity for game client, react for web dashboard smart contracts: solidity, hardhat for development, foundry for testing infrastructure: caldera for rollup deployment, alchemy for backup rpc calls, the graph for indexing monitoring: tenderly for transaction monitoring, sentry for error tracking deployment: github actions for ci/cd, vercel for web hosting analytics: mixpanel for user analytics, dune for on chain analytics The infrastructure piece was the biggest decision, we initially tried deploying our own rollup but it was a nightmare, switched to managed solution and shipped way faster. deployment was straightforward and support has been solid when we needed it. The biggest cost is actually alchemy for backup rpc even though we have our own nodes, turns out redundancy is worth it when you have paying users. whole stack runs about $800-1000 per month. We use both hardhat and foundry because hardhat for deployment scripts and foundry for testing since its way faster. mostly standard ethereum tools, game specific stuff is all in unity not on chain. Im happy to answer questions about any of these choices or tradeoffs we made.
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ saw some questions about production web3 gaming setups so figured i'd share our 
 
 Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 5h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 6h ago
 
 ---
 
@@ -162,6 +162,14 @@ The Block • 20h ago
 
 ---
 
+**[Ethereum RSI Now Under Spotlight: What Charts Suggest for ETH’s Future](https://vocal.media/trader/ethereum-rsi-now-under-spotlight-what-charts-suggest-for-eth-s-future)**
+
+Analyzing Ethereum’s RSI Trends to Predict Potential Price Moves and Market Sentiment
+
+vocal.media • 1h ago
+
+---
+
 **[Bitmine stock jumps 15% as Tom Lee scoops up $150m more Ethereum](https://www.dlnews.com/articles/markets/bitmine-stock-jumps-15-percent-as-tom-lee-snaps-up-150-in-ethereum/)**
 
 Bitmine is the second-largest crypto treasury company, behind only Strategy.   The latest investment comes amid a major upgrade to the Ethereum network. Investors overwhelmingly expect macro tailwinds in December.
@@ -216,12 +224,6 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Price Could Herald a 170% Surge if History Repeats. Trader Declares ‘You Know What’s Coming’](https://www.tipranks.com/news/ethereum-price-could-herald-a-170-surge-if-history-repeats-trader-declares-you-know-whats-coming)**
-
-TipRanks • 5h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
@@ -232,7 +234,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 4K • 💬 417 • ⏱️ 11:16 • 15h ago
+👁️ 56K • 👍 4K • 💬 417 • ⏱️ 11:16 • 16h ago
 
 ---
 
@@ -252,7 +254,7 @@ Ethereum is finally showing signs of a major reversal, and the charts suggest th
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 114 • 2h ago
+👁️ 1K • 👍 114 • 3h ago
 
 ---
 
@@ -272,7 +274,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 282 • 👍 24 • 💬 176 • ⏱️ 5:24 • 3h ago
+👁️ 282 • 👍 24 • 💬 176 • ⏱️ 5:24 • 4h ago
 
 ---
 
