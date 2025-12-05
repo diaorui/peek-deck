@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T11:45:27.809170+00:00'
+updated: '2025-12-05T11:56:46.556113+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - videos
-- social
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 11:45 UTC  
+**Last Updated:** December 05, 2025 at 11:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** +4.3%  
-**30d:** -6.0%  
-**90d:** -27.8%  
-**1y:** -21.9%  
+**24h:** -1.2%  
+**7d:** +4.8%  
+**30d:** -5.5%  
+**90d:** -27.4%  
+**1y:** -21.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $379.08B
+**Market Cap:** $378.20B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.5%
+-36.6%
 
 **All-Time Low:** $0.43
-+725270.1%
++723609.5%
 
 ---
 
@@ -97,6 +97,14 @@ I had over $123,000 on Nexo, holding NEXO tokens, Platinum status, and I was par
 A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
 
 🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 11h ago
+
+---
+
+**[Ethereal news weekly #1 | 🦓 Fusaka upgrade live on mainnet ⚠️ Client diversity: Lighthouse 55% 🎂 Beacon chain 5th anniversary](https://www.reddit.com/r/ethereum/comments/1pesttx/ethereal_news_weekly_1_fusaka_upgrade_live_on/)**
+
+Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary
+
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 20m ago
 
 ---
 
@@ -136,14 +144,6 @@ Ethereum is actively working to address the blockchain trilemma, a core challeng
 
 ---
 
-**[Daily General Discussion December 03, 2025](https://www.reddit.com/r/ethereum/comments/1pcwf5g/daily_general_discussion_december_03_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -162,11 +162,11 @@ dlnews.com • 1d ago
 
 ---
 
-**[Tom Lee's Bitmine Doubles Down on Ethereum Purchases as ETH Price Recovers Over $3,200](https://finance.yahoo.com/news/tom-lees-bitmine-doubles-down-084315649.html)**
+**[IMF Warns Stablecoins Pose Financial Stability Risks as Cross-Border Flows Surpass Bitcoin and Ethereum](https://finance.yahoo.com/news/imf-warns-stablecoins-pose-financial-100000826.html)**
 
-Bitmine added another $130 million in ETH on Dec. 5. The firm now holds over 3.7 million ETH, valued at roughly $18 billion. Chairman Tom ...
+IMF warns as stablecoin flows surpass BTC and ETH, raising global financial stability and dollarization risks.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -175,14 +175,6 @@ Yahoo Finance • 3h ago
 Key PointsEthereum's newest upgrade, Fusaka, is here.
 
 Nasdaq • 1h ago
-
----
-
-**[IMF Warns Stablecoins Pose Financial Stability Risks as Cross-Border Flows Surpass Bitcoin and Ethereum](https://finance.yahoo.com/news/imf-warns-stablecoins-pose-financial-100000826.html)**
-
-IMF warns as stablecoin flows surpass BTC and ETH, raising global financial stability and dollarization risks.
-
-Yahoo Finance • 1h ago
 
 ---
 
@@ -223,6 +215,12 @@ CryptoSlate • 1d ago
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
 Seeking Alpha • 7h ago
+
+---
+
+**[Ethereum edges higher as Wall Street returns on fresh inflows and corporate buying](https://www.thestreet.com/crypto/trading/ethereum-edges-higher-as-wall-street-returns-on-fresh-inflows-and-corporate-buying)**
+
+TheStreet • 18h ago
 
 ---
 
@@ -286,7 +284,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 58 • 💬 145 • ⏱️ 5:52 • 20h ago
+👁️ 1K • 👍 58 • 💬 145 • ⏱️ 5:52 • 21h ago
 
 ---
 
