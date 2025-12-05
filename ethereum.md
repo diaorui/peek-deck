@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T09:52:17.590424+00:00'
+updated: '2025-12-05T10:14:58.129505+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 09:52 UTC  
+**Last Updated:** December 05, 2025 at 10:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** +4.1%  
-**30d:** -6.2%  
-**90d:** -27.9%  
-**1y:** -22.1%  
+**24h:** -1.6%  
+**7d:** +4.8%  
+**30d:** -5.5%  
+**90d:** -27.4%  
+**1y:** -21.5%  
 
 ---
 
@@ -80,7 +80,7 @@ Trump crypto empire falls faster than bitcoin
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -150,7 +150,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 1h ago
 
 Bitmine is the second-largest crypto treasury company, behind only Strategy.   The latest investment comes amid a major upgrade to the Ethereum network. Investors overwhelmingly expect macro tailwinds in December.
 
-dlnews.com • 23h ago
+dlnews.com • 1d ago
 
 ---
 
@@ -182,7 +182,7 @@ dlnews.com • 23h ago
 
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
-cheddar.com • 12h ago
+cheddar.com • 13h ago
 
 ---
 
@@ -206,7 +206,7 @@ Forbes • 2d ago
 
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
-Seeking Alpha • 5h ago
+Seeking Alpha • 6h ago
 
 ---
 
@@ -256,7 +256,7 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 52K • 👍 2K • 💬 366 • ⏱️ 27:33 • 15h ago
+👁️ 52K • 👍 2K • 💬 366 • ⏱️ 27:33 • 16h ago
 
 ---
 
@@ -266,7 +266,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 3K • 👍 308 • 💬 96 • ⏱️ 31:23 • 28m ago
+👁️ 3K • 👍 308 • 💬 96 • ⏱️ 31:23 • 51m ago
 
 ---
 

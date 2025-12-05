@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T09:52:17.575828+00:00'
+updated: '2025-12-05T10:14:58.114990+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- social
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 09:52 UTC  
+**Last Updated:** December 05, 2025 at 10:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -67,7 +67,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRED’s Big Interview event if AI is a bubble, company said “Emphatically, from my perspective, no.”
 
-🔗 [WIRED](https://www.wired.com/story/big-interview-event-lisa-su-amd/) • 14h ago
+🔗 [WIRED](https://www.wired.com/story/big-interview-event-lisa-su-amd/) • 15h ago
 
 ---
 
@@ -75,7 +75,7 @@ Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRE
 
 Micron has confirmed that it is exiting the Crucial consumer business so it can focus on what it calls “faster-growing segments."
 
-🔗 [PC Guide](https://www.pcguide.com/news/popular-ram-brand-crucial-axed-so-its-owners-can-focus-on-faster-growing-segments-like-ai/) • 21h ago
+🔗 [PC Guide](https://www.pcguide.com/news/popular-ram-brand-crucial-axed-so-its-owners-can-focus-on-faster-growing-segments-like-ai/) • 22h ago
 
 ---
 
@@ -107,7 +107,7 @@ Our RAG stack degraded slowly over months. Text-shape differences created differ
 
 👋 Après douze années passées chez Meta, Yann LeCun a fait le grand saut. Le mois dernier, il a annoncé qu'il quittait le géant des réseaux sociaux pour lancer sa propre start-up en vue de créer une nouvelle génération de systèmes d'intelligence artificielle. Dans cette aventure, encore relativement nébuleuse, « Meta est un partenaire, ce n'est pas un investisseur », a déclaré Yann LeCun, ce jeudi, lors de l'événement AI Pulse organisé par Scaleway à Paris. 🧠 Le chercheur français fait figure de parrain de l'IA moderne et a été récompensé du prix Turing en 2018. Il mobilise actuellement des fonds pour lancer sa start-up autour du concept d'« intelligence avancée » basée sur le monde physique et les « world models », en opposition aux grands modèles génératifs sur lesquels parient actuellement les géants américains de la tech. 💡 Les explications de Joséphine Boone
 
-🔗 [linkedin.com](https://www.linkedin.com/posts/les-echos_lex-directeur-scientifique-de-meta-sappr%25C3%25AAte-activity-7402587567272910848-h34L?utm_source%3Dshare%26utm_medium%3Dmember_ios%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4) • 1h ago
+🔗 [linkedin.com](https://www.linkedin.com/posts/les-echos_lex-directeur-scientifique-de-meta-sappr%25C3%25AAte-activity-7402587567272910848-h34L?utm_source%3Dshare%26utm_medium%3Dmember_ios%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4) • 2h ago
 
 ---
 
@@ -119,7 +119,7 @@ Our RAG stack degraded slowly over months. Text-shape differences created differ
 
 While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Economist • 22h ago
 
 **[Cristiano Ronaldo Invests in Perplexity AI, Enters Partnership](https://www.bloomberg.com/news/articles/2025-12-05/cristiano-ronaldo-invests-in-perplexity-ai-enters-partnership-misnf0af)**
 
-Bloomberg.com • 37m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -139,7 +139,7 @@ Bloomberg.com • 37m ago
 
 AI companies are spending eye-watering amounts of money on infrastructure and training to improve AI. Many investors are getting nervous. Beyond the short term financial markets, tech experts say the AI revolution is real, but the economic impacts may be longer term.
 
-CBC • 52m ago
+CBC • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ CBC • 52m ago
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-Business Insider • 22m ago
+Business Insider • 44m ago
 
 ---
 
@@ -171,13 +171,13 @@ Forbes • 16h ago
 
 James Daunt says booksellers instinctively have "disdain" for AI but it could be sold if clearly labelled.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
 **[Exclusive | The Math Legend Who Just Left Academia—for an AI Startup Run by a 24-Year-Old](https://www.wsj.com/tech/ai/math-ken-ono-carina-hong-axiom-startup-649bc417?gaa_at=eafs&gaa_n=AWEtsqczre7gI-n44gTpMZxYs3sXW3l1GYtPV-f7NhpaRkUwoWmymoFs0T5M&gaa_ts=6932aeb8&gaa_sig=0ksLLvSzGHEuQeLiENKqHfQojGkIrF-ZQjC6SCk8rSMRFPZYgVyH8wFxqahggmmic4gTg8yhFzmXuOVuMydkfw%3D%3D)**
 
-The Wall Street Journal • 19h ago
+The Wall Street Journal • 20h ago
 
 ---
 
@@ -251,7 +251,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 236 • 💬 195 • 12h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 236 • 💬 195 • 13h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -341,7 +341,7 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 198K • 👍 693 • 💬 46 • ⏱️ 8:09 • 22h ago
+👁️ 198K • 👍 693 • 💬 46 • ⏱️ 8:09 • 23h ago
 
 ---
 
@@ -371,7 +371,7 @@ AI #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle
 
 📺 Θαύμα Προφητείας Θεών
 
-👁️ 6K • 👍 101 • 💬 1 • ⏱️ 0:11 • 4h ago
+👁️ 6K • 👍 101 • 💬 1 • ⏱️ 0:11 • 5h ago
 
 ---
 
@@ -638,7 +638,7 @@ Flawed-Aware Policy Optimization (FAPO) enhances reinforcement learning with ver
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.1k • 🔱 389 • 6h ago
+⭐ 5.1k • 🔱 389 • 7h ago
 
 ---
 
@@ -648,7 +648,7 @@ Flawed-Aware Policy Optimization (FAPO) enhances reinforcement learning with ver
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.4k • 🔱 121 • 23h ago
+⭐ 1.4k • 🔱 121 • 1d ago
 
 ---
 
@@ -678,7 +678,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 820 • 🔱 42 • 3h ago
+⭐ 820 • 🔱 42 • 4h ago
 
 ---
 
@@ -688,7 +688,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 798 • 🔱 102 • 10h ago
+⭐ 798 • 🔱 102 • 11h ago
 
 ---
 
