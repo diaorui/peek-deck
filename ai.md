@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T14:51:45.626767+00:00'
+updated: '2025-12-05T15:13:23.121025+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - news
-- repositories
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 14:51 UTC  
+**Last Updated:** December 05, 2025 at 15:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
 
-🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 16h ago
+🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 17h ago
 
 ---
 
@@ -57,7 +57,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
 
-🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 2h ago
+🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 3h ago
 
 ---
 
@@ -83,7 +83,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/HoDQPmPJkAk?si=7l6pfGjQNMtu7V4_) • 3h ago
+🔗 [youtube.com](https://youtube.com/shorts/HoDQPmPJkAk?si=7l6pfGjQNMtu7V4_) • 4h ago
 
 ---
 
@@ -91,7 +91,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRED’s Big Interview event if AI is a bubble, company said “Emphatically, from my perspective, no.”
 
-🔗 [WIRED](https://www.wired.com/story/big-interview-event-lisa-su-amd/) • 19h ago
+🔗 [WIRED](https://www.wired.com/story/big-interview-event-lisa-su-amd/) • 20h ago
 
 ---
 
@@ -131,7 +131,7 @@ Reuters • 1h ago
 
 The New York Times sued the AI startup Perplexity on Friday, alleging it repeatedly violated the Times’ copyright protections by distributing its work to Perplexity users without permission or a deal with the paper.
 
-TheWrap • 45m ago
+TheWrap • 1h ago
 
 ---
 
@@ -139,13 +139,13 @@ TheWrap • 45m ago
 
 While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
 **[Exclusive: Meta strikes multiple AI deals with news publishers](https://www.axios.com/2025/12/05/meta-ai-deals-news-publishers)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Axios • 1h ago
 
 The platform has secured seven multi-year AI content licensing deals with publishers including CNN, Fox News, People Inc., USA Today Co for Llama.
 
-Digiday • 13m ago
+Digiday • 35m ago
 
 ---
 
@@ -161,7 +161,7 @@ Digiday • 13m ago
 
 Discover how Meta AI's new partnerships with top news outlets bring you more real-time, diverse news coverage.
 
-Seeking Alpha • 58m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Seeking Alpha • 58m ago
 
 How GenAI can ease holiday shopping stress, support frontline staff, and why kindness still matters this season.
 
-Forbes • 20m ago
+Forbes • 41m ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 1h ago
 
 **[How AI is rewiring childhood | Dec 6th 2025](https://www.economist.com/weeklyedition/2025-12-06)**
 
-The Economist • 9m ago
+The Economist • 31m ago
 
 ---
 
@@ -219,7 +219,7 @@ IBM CEO Arvind Krishna walked through some napkin math on Big Tech's AI data cen
 
 Google’s own ‘code red’ response to ChatGPT has started paying off.
 
-⬆️ 812 • 💬 918 • 2d ago • [The Verge](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
+⬆️ 812 • 💬 918 • 3d ago • [The Verge](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
 
 ---
 
@@ -251,7 +251,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 239 • 💬 198 • 17h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 239 • 💬 198 • 18h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -579,18 +579,6 @@ WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct
 
 ---
 
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 22 • 💬 0 • ⭐ 25,390 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
-
----
-
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
@@ -600,6 +588,18 @@ A multi-agent framework using large language models for stock trading simulates 
 ▲ 14 • 💬 0 • ⭐ 26,181 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 22 • 💬 0 • ⭐ 25,407 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -641,7 +641,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.1k • 🔱 391 • 11h ago
+⭐ 5.1k • 🔱 391 • 12h ago
 
 ---
 
@@ -681,7 +681,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 821 • 🔱 42 • 8h ago
+⭐ 822 • 🔱 42 • 9h ago
 
 ---
 
@@ -691,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 802 • 🔱 102 • 46m ago
+⭐ 808 • 🔱 103 • 40m ago
 
 ---
 
@@ -721,7 +721,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 703 • 🔱 14 • 16d ago
+⭐ 704 • 🔱 14 • 16d ago
 
 ---
 
@@ -731,7 +731,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 488 • 🔱 40 • 2d ago
+⭐ 490 • 🔱 40 • 2d ago
 
 ---
 

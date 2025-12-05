@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T14:51:45.641425+00:00'
+updated: '2025-12-05T15:13:23.135566+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
 - cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 14:51 UTC  
+**Last Updated:** December 05, 2025 at 15:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.4%  
-**7d:** +3.5%  
-**30d:** -6.7%  
-**90d:** -28.2%  
-**1y:** -22.4%  
+**24h:** -0.7%  
+**7d:** +5.1%  
+**30d:** -5.3%  
+**90d:** -27.2%  
+**1y:** -21.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -150,7 +150,7 @@ Ethereum is actively working to address the blockchain trilemma, a core challeng
 
 **[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 2h ago
 
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
-Seeking Alpha • 10h ago
+Seeking Alpha • 11h ago
 
 ---
 
@@ -198,13 +198,13 @@ Nasdaq • 1d ago
 
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
-cheddar.com • 17h ago
+cheddar.com • 18h ago
 
 ---
 
 **[Ethereum Price Could Herald a 170% Surge if History Repeats. Trader Declares ‘You Know What’s Coming’](https://www.tipranks.com/news/ethereum-price-could-herald-a-170-surge-if-history-repeats-trader-declares-you-know-whats-coming)**
 
-TipRanks • 2h ago
+TipRanks • 3h ago
 
 ---
 
@@ -264,7 +264,7 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 60K • 👍 2K • 💬 416 • ⏱️ 27:33 • 20h ago
+👁️ 60K • 👍 2K • 💬 416 • ⏱️ 27:33 • 21h ago
 
 ---
 
