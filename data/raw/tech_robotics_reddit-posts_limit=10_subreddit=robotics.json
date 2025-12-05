@@ -79,17 +79,6 @@
       "description": "Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin."
     },
     {
-      "title": "Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.",
-      "author": "jabestimmt",
-      "url": "https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/",
-      "published": 1764917767.0,
-      "thumbnail": "https://external-preview.redd.it/dHVtNTAxMzh3YjVnMY8hunvne-G1istBpMnnp_zGAnVmB3Gp1Lacn2gJ41YC.png?width=640&crop=smart&auto=webp&s=bc12e5929a11a7fc356697681205c441ddb0ca61",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "A potentially highly efficient image and video tokenizer for LLMs/VLAs.",
       "author": "9cheng",
       "url": "https://www.reddit.com/r/robotics/comments/1peo0w3/a_potentially_highly_efficient_image_and_video/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "Any genuinely promising robotics applications in construction?",
+      "author": "chari_md",
+      "url": "https://www.reddit.com/r/robotics/comments/1peq7b7/any_genuinely_promising_robotics_applications_in/",
+      "published": 1764924737.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Humanoid robotics is getting cheaper, smarter, and a lot more capable at moving through the world. But construction sites are a different beast with uneven terrain, unpredictable workflows, and tasks that vary wildly from day to day. I\u2019m curious whether robotics aimed specifically at construction has kept up. Not the glossy demo videos, but actual sector-focused systems that show real progress on tasks like material handling, layout, inspections, drilling, or repetitive onsite work. It actually feels like construction is one of the few fields where purpose-built robots should make far more sense than humanoids. Most site tasks don\u2019t need a human-shaped form factor at all. Are there ad hoc or specialized robots that feel like a real breakthrough, or is the field still stuck in research prototypes?"
     }
   ],
-  "fetched_at": "2025-12-05T14:51:23.644767+00:00"
+  "fetched_at": "2025-12-05T15:37:59.920465+00:00"
 }
