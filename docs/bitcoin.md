@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T11:45:27.803199+00:00'
+updated: '2025-12-05T11:56:46.550122+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - videos
-- social
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 11:45 UTC  
+**Last Updated:** December 05, 2025 at 11:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** +0.5%  
-**30d:** -10.0%  
-**90d:** -18.1%  
-**1y:** -8.5%  
+**24h:** -2.0%  
+**7d:** +0.6%  
+**30d:** -9.9%  
+**90d:** -18.2%  
+**1y:** -8.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1825.67B
+**Market Cap:** $1822.84B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.4%
+-27.5%
 
 **All-Time Low:** $67.81
-+134807.8%
++134608.7%
 
 ---
 
@@ -91,17 +91,25 @@ Im only up 3000% now
 
 ---
 
-**[Found this invoice in my old email](https://www.reddit.com/r/Bitcoin/comments/1pe0mlp/found_this_invoice_in_my_old_email/)**
+**[Just sold, prepare for a new ATH](https://www.reddit.com/r/Bitcoin/comments/1pesll2/just_sold_prepare_for_a_new_ath/)**
 
-💀
+I finally sold all my bitcoin, it would be a shame if it pumps now, right? I really really hope it doesn't!! 😉 🙏🙏
 
-21h ago
+33m ago
 
 ---
 
 **[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
 
 18h ago
+
+---
+
+**[Found this invoice in my old email](https://www.reddit.com/r/Bitcoin/comments/1pe0mlp/found_this_invoice_in_my_old_email/)**
+
+💀
+
+22h ago
 
 ---
 
@@ -113,7 +121,7 @@ Im only up 3000% now
 
 **[Bitcoin in 2025](https://www.reddit.com/r/Bitcoin/comments/1pe1yxx/bitcoin_in_2025/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -121,7 +129,7 @@ Im only up 3000% now
 
 Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT… and so is Marjorie Greene 🫣
 
-6h ago
+7h ago
 
 ---
 
@@ -138,12 +146,6 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our entire crypto journey wouldn’t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. 🚀
 
 19h ago
-
----
-
-**[Cant stop, won't stop Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pelu4f/cant_stop_wont_stop_bitcoin/)**
-
-7h ago
 
 ---
 
@@ -167,29 +169,33 @@ Fortune • 2d ago
 
 ---
 
-**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqf3hlUAZl1Ujf0JO5L5NibYKSzKkcfNcRzvv5CrQqdhVLYUYoAIm38J&gaa_ts=6932c31f&gaa_sig=0AqBb4oS1hhsik8CX3KcizM52SYisHGMwcigYvxejy7lklUP6SiFovjYCjOtkp7QSws_jzx9nSGm7id6dLLOrQ%3D%3D)**
+**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqdzhsfza3b0MVzNncCzN3bS8y0cNA8MKL4z4NVZ7HJXLaNB_Z0KaOLQ&gaa_ts=6932cbec&gaa_sig=u8I_EN6A4G7XxsZHDxs1K3YYWhEyOgRZcSeXgr2AdGDLfPM5mCtKx9C9-YVGT99iAhpor11_lp1Y4l_zoxCBcw%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
 ---
 
-**[Tom Lee Says Bitcoin Adoption Could Rise ‘200 Times,’ Predicts End of the Four-Year Cycle](https://finance.yahoo.com/news/tom-lee-says-bitcoin-adoption-114850760.html)**
+**[Solana, XRP, ETH Extend Losses as Bitcoin’s $91K Support Back in Focus](https://www.coindesk.com/markets/2025/12/05/solana-xrp-eth-extend-losses-as-bitcoin-s-usd91k-support-back-in-focus)**
 
-Bitcoin adoption could rise “200 times” if global retirement savers allocate even modestly, Tom Lee said. Lee predicts the traditional four-year Bitcoin cycle is ending. ...
+The one-month chart shows BTC still locked inside a descending structure from early November’s highs, with the latest rebound producing another lower high.
 
-Yahoo Finance • 23h ago
-
----
-
-**[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
-
-The Economist • 1d ago
+CoinDesk • 5h ago
 
 ---
 
-**[Bitcoin’s Predicted Sky-High Prices Have Not Panned Out](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
+**[Bitcoin Hits Two-Week High in Cautious Crypto Market Recovery](https://finance.yahoo.com/news/bitcoin-hits-two-week-high-071352153.html)**
 
-The New York Times • 2d ago
+The original cryptocurrency rose as much as 2.6% to about $93,965, its highest intraday level since Nov. 17.  The digital assets market remains on shaky ground after a bruising selloff that began in early October, just days after Bitcoin hit a record of over $126,000.  “Bitcoin fans will be rightly cautious about this rally in the cryptocurrency, having seen so many false dawns in recent months, but it looks like the recovery in stock market risk appetite is finally leaching across into the crypto space,” Chris Beauchamp, UK chief market analyst at investment and trading platform IG, said in a note.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[IMF Warns Stablecoins Pose Financial Stability Risks as Cross-Border Flows Surpass Bitcoin and Ethereum](https://finance.yahoo.com/news/imf-warns-stablecoins-pose-financial-100000826.html)**
+
+IMF warns as stablecoin flows surpass BTC and ETH, raising global financial stability and dollarization risks.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -197,31 +203,27 @@ The New York Times • 2d ago
 
 JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
 
-Business Insider • 17h ago
+Business Insider • 18h ago
 
 ---
 
-**[Video: BlackRock C.E.O. Calls Bitcoin an ‘Asset of Fear’](https://www.nytimes.com/video/business/dealbook/100000010562120/blackrock-ceo-calls-bitcoin-an-asset-of-fear.html)**
+**[JPMorgan says Strategy's resilience is key to bitcoin's price direction in the near term](https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook)**
 
-Larry Fink, the chief executive of BlackRock, dismissed concerns about the long-term value of cryptocurrency.
-
-The New York Times • 1d ago
+The Block • 13h ago
 
 ---
 
-**[Larry Fink softens crypto stance as BlackRock boasts biggest US bitcoin ETF: 'My thought process has evolved'](https://finance.yahoo.com/news/larry-fink-softens-crypto-stance-as-blackrock-boasts-biggest-us-bitcoin-etf-my-thought-process-has-evolved-184909682.html)**
+**[Bitcoin Price Could Hit $170K — But Strategy ‘Resilience’ Is Vital: JPMorgan](https://finance.yahoo.com/news/bitcoin-price-could-hit-170k-110608523.html)**
 
-Larry Fink, once a proud crypto skeptic, has evolved his views as his firm, BlackRock, has become a leader in the industry.
+JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 50m ago
 
 ---
 
-**[Michael Saylor’s Strategy may have BlackRock to thank for the 11% rise in Bitcoin](https://fortune.com/2025/12/04/bitcoin-price-michael-saylor-strategy-blackrock/)**
+**[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
-BlackRock’s ETF now owns 3.9% of all existing Bitcoin, more than Strategy.
-
-Fortune • 23h ago
+The Economist • 1d ago
 
 ---
 
@@ -233,7 +235,7 @@ Fortune • 23h ago
 
 ₿OSS Challenge - start your career in bitcoin open source
 
-⬆️ 6 • 💬 1 • 23h ago • [bosschallenge.xyz](https://bosschallenge.xyz)
+⬆️ 6 • 💬 1 • 1d ago • [bosschallenge.xyz](https://bosschallenge.xyz)
 
 ---
 
@@ -341,7 +343,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 3K • 💬 255 • ⏱️ 23:27 • 10h ago
+👁️ 31K • 👍 3K • 💬 255 • ⏱️ 23:27 • 11h ago
 
 ---
 
@@ -351,7 +353,7 @@ As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and t
 
 📺 Swan Bitcoin
 
-👁️ 51K • 👍 2K • 💬 241 • ⏱️ 18:48 • 13h ago
+👁️ 51K • 👍 2K • 💬 241 • ⏱️ 18:48 • 14h ago
 
 ---
 
@@ -361,7 +363,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 493 • 💬 27 • ⏱️ 9:41 • 6h ago
+👁️ 7K • 👍 493 • 💬 27 • ⏱️ 9:41 • 7h ago
 
 ---
 
