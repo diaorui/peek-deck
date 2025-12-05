@@ -5,14 +5,14 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "Bitcoin is down nearly 30% from its record high \u2014 history shows that's normal",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEJ2RTlPdVN0dFI0OHdRNnNXVHNoM0lOYnhEcEhwZzhBaFVJVUZoemNMQTlGd0FRQUthRUg3R1A2Qk9hUjF2YjQ3QkhnTnZlWmQzUkI3VzlwZUtuaVRwODNVRHdtZGJ4MHI0RjFuU3h4eU1CakdWRXZKZWZhQTk4cEs5WnhhZ0VpcHNEMDRuY2tkc2RNZmtYeW5CU1hSNjd5UWx6WFpnZmJxNDRYYlJ30gG0AUFVX3lxTE96c3dMRGlhdDBZUlZsaUxjbExCeFpJcDFLVmxzQVRKWjltRU41YWNZenA2cGVwaHEyMXJha3AySjVod1BpMG1QN1V5Tzd4cWlnejZSNVpJOGN3Y1M2bVQ3dnVDQjh2OGQ2TUprR21PR0x3X2MxS0FGZkVoVXY1RDdhTXd2N3M2T1VQMTVMZ0RrT0tJQUhKRGtzWjFkYnQ4TWxJc3hNUmxMN1pTUVc0WmhsVXdGaA?oc=5",
-      "pub_date": 1764847662.0,
-      "article_url": "https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108235234-1764690993224-gettyimages-2247341381-AFP_84UC93G.jpeg?v=1764691074&w=1920&h=1080",
-      "description": "In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger."
+      "headline": "Tom Lee Says Bitcoin Adoption Could Rise \u2018200 Times,\u2019 Predicts End of the Four-Year Cycle",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdHlkUVlOVHdsRVFYd3pwREh4WXFWMVl1WXNBUTRxZlpDejk5RnF6bzlTMXNaajcwdXBZcW9kSmNVbVU5NEViRG56UjNsUU9OVlI0dUpjTEpzampkckRTa0lCckZ5VEZhVVFpUmg3MTEyVVBwVEQ5Y0lOZ0Utcloyag?oc=5",
+      "pub_date": 1764848930.0,
+      "article_url": "https://finance.yahoo.com/news/tom-lee-says-bitcoin-adoption-114850760.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/wsmNby4YAmDPqCT9diyyhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/dcddf4aed30ca2e97ff1581582667dd2",
+      "description": "Bitcoin adoption could rise \u201c200 times\u201d if global retirement savers allocate even modestly, Tom Lee said. Lee predicts the traditional four-year Bitcoin cycle is ending. ..."
     },
     {
       "headline": "Bitcoin has plunged. Strategy Inc is an early victim",
@@ -23,36 +23,6 @@
       "article_url": "https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin (BTC) Price News: Bulls Face Key Test at $93K",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUFtUUZPZXBvR0FxYTh4aTRaR1YxcWxvRHJGLU1YcWdoZ1dqaDhZVTE1OWhxMnZaWkNYR21aMXNOYzRZeFlhai1Zc1FXYUswTjkweWpsdWxVRmpIQmlqNjVVUkZfdEQwZ2wzb3M5V1ViSmg5MWkwbzdvU0ZXY29wTGhXMUVmMG9WQ3NUbExJbmVUYmU5Q2E5Unhxc0h5MTNWd3hxMWd6NnRfTXV0WU1qWk1wM2ljRmhZSGhPVm5yRktBMFc2RkI0Ug?oc=5",
-      "pub_date": 1764800467.0,
-      "article_url": "https://www.coindesk.com/markets/2025/12/03/crypto-rally-stumbles-bitcoin-slips-back-to-usd92k-as-microsoft-lowers-ai-sales-goals",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/600ea7deef0c237a3e3a263759c0ab9719f15643-2246x1188.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "Bitcoin shot up 10% in two days, but it's stalling at around the 2025 yearly open."
-    },
-    {
-      "headline": "Bitcoin Drops, Ethereum Plummets: Inside the Latest Crypto Swing With Tony Edward",
-      "source": "cheddar.com",
-      "source_url": "https://www.cheddar.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTVmU0xYbUpQR2ZuTkJmUW5laWVVTzNRWmROaV90N1pKWDM2NzVGU3QwM2pCMHkzbU1kQnNuei1xSHVtVzBicTd4YlZxR3FhaDhBcmRZZzBQeWdUbnd4M0pwcml5UVI5ZFRTVDAyT2Via2xNYm1wTDJCSk13LUkwdkxmeWpmaVdfS0lkUndVWDYxZndVbmFSbHZtZ291N0dMVmJPMDVSdnVWM3RZR1RF?oc=5",
-      "pub_date": 1764882090.0,
-      "article_url": "https://www.cheddar.com/media/bitcoin-drops-ethereum-plummets-inside-the-latest-crypto-swing-with-tony-edward/",
-      "image": "https://www.armytimes.com/resizer/v2/https%3A%2F%2Fd3k85ws6durfp9.cloudfront.net%2F12-04-2025%2Ft_45411740f6d845718216e5084da325ac_name_GettyImages_1949242392.jpg?width=1200&auth=739acda4878c2a3de6385a8d35c657cd02961264fe44edcf5adbab972b158712",
-      "description": "Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market."
-    },
-    {
-      "headline": "Here's How Much Bitcoin, XRP, Ether, Solana May Move on Friday's Inflation Report",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40bW9Obmk4cDd3a2FuUmx2VFR4U2p1OTQyM1dPSWpKd1FxSHg4YXZfLTB1TThoc2FXczY2RHROYklzY09OVEN3aVhIQVhiUXVwNU85aGJlUXFrUmdZdWZEMEFiVlhKRHh4OUNGWDBrNE5QSHRqc3cza044X2hhcFk?oc=5",
-      "pub_date": 1764907200.0,
-      "article_url": "https://finance.yahoo.com/news/heres-much-bitcoin-xrp-ether-040015107.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/w.29KNJAPYAkfo6iEkK9sg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTg-/https://media.zenfs.com/en/coindesk_75/7a694d3d9a94d9bffd41cfc207fe9bed",
-      "description": "A softer inflation report could lower the 10-year Treasury yield and support cryptocurrencies."
     },
     {
       "headline": "Precious Metals Soar, Bitcoin Stalls as Investors Hedge Fed 'Policy Error'",
@@ -78,9 +48,49 @@
       "headline": "With bitcoin down to around $92,000, should you rethink how much crypto to own? Here\u2019s what experts say.",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPdzhxUVNBQmd6RFNWY2VCeEpHelNNMS02Mk9RSXZJd2xwVm5HN2RIVG5iaktKY3lxM000ZHM2bWFUNTYyQ1FTLVlFUTBKMTBScnBJc05wMzF0YmlBaXgyS3pIN0pPenlyLXAzWUZnMlZaVjdDNDRQUkZQdG9OS25hNm40cDFlanB4TDVfdUxtaDZsYnpnSVkwYjNNa3F2Q1lIZ2dkWndhcFdnTUZfWGhNZHE5d0JSWExIRjgyT0N0R21XZnJ6dTFreU00Nnd1ZXpIQlZzWmptamE5UXc5RmJYTzMzbm94d2lUQ2huaEd4YmJGZWNPa29jRUhjRnBJQ3BXOE9CdjB4bXdnckpuRE9wLWdOdlZNdTAxTmpDWk1paWFyUU5mRzdHcF9uSHVuTXZqV3lINHNXc0wxQzNZZHpTQkxKRThsY3BOWDVrTXFFWmJMLTk1Nks0NnRQOUh1NDltNkRWLTh1dE1hbGtpM0hCR3lHWTBhNVVmYkZxdFZnMEtlZ3ZiR012NXNyRWtCV2kxanA3aFpHMV9VSWpsc1ZDQXRrMk1ZdUJZR09XWlJyeGYyNWZiRk9FVDhkdi15dVV2VmtZY1ZqaTR4eC1jTVVEVTV5SXFSMHlLNmtaeTl3NA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPTUd1TUVzNUEzLXp4Zk14XzZZbzgyek9ianlvUVNudUFXVlc2dzRCX2JHSGZ3WTZTc2ZTMGdnMU1fUTZuM2JrcjVuUndRcWcyLTZSR2JtYk16S0dYQ0FTSW0tajNPbUFjUUotdlRRMk96NUhpcVNMVHpJaDVBTU12R2VSaHR1Sk9XUzVENGl1dVdCcm53azJWQzNzeGJmWEMzckUzRGNWVXVTWEVPNEFaQ2MxZjdpNG9rUzhmbUhXbmQtVEJZWmRtSWNObGJQVjRMbXpDa3gycGhhbHJHa0JaSjNLQXBkY0pzcFZ2bEZ4bmtXdVY5eUtwZ2l4SE9nZEdNX0pINFJTeV83RW9ZRVduZ0JQclNUcWI4eEVJTGhidDJiejF1a09yQmZmUkhWenp2QWVwcGhxUDJaUUZPTjduakFGVEc0UEZVN1VSVmpxd014SjZ4bTBYTUFHT2oyVV9Ta3NWNDllX3l0QjhzbWJhLThocDM0YjZTdWp1eUZRd1lpcFB5XzAtRDFBdHUwS0lSX0xNclhNZW9LaDFvdjhReEx4eFljQmNFdHFwVEh1Qnp1bkpvdjVlNV9ZbWhtVUtzdjBDNGRSNUhIX0dMMDh0dm84emZxMDdlUTZvV3VDVQ?oc=5",
       "pub_date": 1764880980.0,
-      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqemApEMCsK2_KyZsVZoG0ZkABwckkT7mf_87PmTpLpswSa7gQWBSThQ&gaa_ts=693282f2&gaa_sig=xcWuxtBuOQovxK4HObBnbS0Ctm-7T9XV4sIaPlbGB4elwnJc02mVePPhcNDsH0k9RBwQiuREu9CkaQ95mrJD5A%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqd1GLvs4B-lOXY8PXqHTXvW_Q-QablTLv7MpaIP_5vaErs6tDAIJeCC&gaa_ts=69328da0&gaa_sig=Zne2o4wNlDdb1WXplSIh_7j36vVpFWproi_GldzIWlgF6NJNhoFVwGWoUQvaqenFmTAadmxC-gpkYJh8av3Bxw%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Why JPMorgan says bitcoin could rocket to $170,000 in the coming months",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2c4WWkwZ1hoR0YtNGVDOEdjSnEwQU1GR0I4S21TSXZEekVHYUdpdmRiMVMzQ05NQU42TExCSUhfX3otTEdPMXRYS3pscy02Sk5HSjA0VVlKYVAxQ1R2QkVRanZyLUdIcV8waDVVM25oUTlwSzVhYzZsVUs0QVdpMjVnYjVVYWl0UFVPbnFWcXd1ckRmM3BTRms0QjI?oc=5",
+      "pub_date": 1764870360.0,
+      "article_url": "https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12",
+      "image": "https://i.insider.com/69319bec7ecd1d1da662e9ed?width=1200&format=jpeg",
+      "description": "JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term."
+    },
+    {
+      "headline": "Michael Saylor\u2019s Strategy may have BlackRock to thank for the 11% rise in Bitcoin",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclRPQVBtSmI1RG5mTndDZHFTYXVSNFRkbno4OTVsQ1pEWUJZRFJmdzgzX1JYNS0xTV9MUjR2LWdCNDhwMnZaT0RCWnE5LWNWbkQ0YXNvUVhRaGUyOU92TkEtX0Z4UkloTFlPRE9zVWphVUZ2b0d0b3E4eFJVNUlHbnBmbWtKZw?oc=5",
+      "pub_date": 1764850620.0,
+      "article_url": "https://fortune.com/2025/12/04/bitcoin-price-michael-saylor-strategy-blackrock/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/02/GettyImages-1491618289-e1739538790764.jpg?resize=1200,600",
+      "description": "BlackRock\u2019s ETF now owns 3.9% of all existing Bitcoin, more than Strategy."
+    },
+    {
+      "headline": "A Huge Bitcoin Bar and Steakhouse Is Opening in DC",
+      "source": "Washingtonian",
+      "source_url": "https://washingtonian.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWE3RC1qZjVNLUdIcUhLNDZROUVxc01pUGVJSUZQMzBMY241Szk0bE5LdEFEc2VkeEJnSEFoU2tNZXVDc2ozcVp2aVBERWJMOXpXUTFjbmV4b0hhN1Z2NkU1MUhkamJMNlVqdDBTZG5EZVBjbzdtVHZieWxMdWNkdFRtSTVYei1QVDlWSk10LWktUQ?oc=5",
+      "pub_date": 1764790452.0,
+      "article_url": "https://washingtonian.com/2025/12/03/a-huge-bitcoin-bar-and-steakhouse-is-opening-in-dc/",
+      "image": "https://washingtonian.com/wp-content/uploads/2025/12/PubKey-DC-shrine-horizontal-Credit-Chris-Bryan.jpeg",
+      "description": "PubKey expands from New York with a podcast studio, event space, and more."
+    },
+    {
+      "headline": "Harvard\u2019s Big Wager on Bitcoin Came Right Before the Bust",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPV1BkWThMSDVlbElaWEpaVS1tMmpqN0FUcjV3eGNrdUFGZXJVMjV0bDh2M20zRktPRGpjQkxiZDBkOTJFZ1R3bVN2SGN5Njh0V3ktREx5NVBTUWlJNUVrNXg5bDZkUWFDOXlXVUVMcEhra1FZU1Z6NUhrSnliN0YxdzRaUVJib1dreW1BTndEVzBmVnZyMUN6azR3akk5c0lKQnQ5OEN3TkxqeUM0TV9KaXJ2WG1IZnB4ZlA4VkxkbmJrbi1Sa1NvQkZpUUJGTk9ldExJenJnNFRhQ2RsQU5FVGxSYWxNVmhjUWhHSGFrS1RVaXV6WGc3OWpjODR1eGxuWXhBeHdSZmhzakFSNFFZS1BZQUU0cVVLelEzLWg2clR6Q2F4YTJ4cFNUaXVIWmNCdFM3Z1QyZ1pCUG91b2d4VHJJSXdZOEoyVXFXSFdTVm5Rc2lQWTQwa0xUR242YnM5a050RXFIRmE2dWEwNGQ5Y29MY0xnTnY5c2dxUXRNREtTLUF4Z05OcVFfbDNPMW1MN3dpb0FiZ0lOOGNRUmtIcUZLWmtOM3JoWFc4?oc=5",
+      "pub_date": 1764716700.0,
+      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqcMWjQOCt6fjjrKTJCQr4McEbh-ng7uGi7qStBecjZ8tz5enD_6bm7R&gaa_ts=69328da0&gaa_sig=sd_4kkBRJmGh9_VyshcVFEP6jI9VXNS44eZWCnvVDtMgJgWF8pvvqpDfg5DO-upxnyYIpEpnXmcmdBROoTjv8g%3D%3D",
       "image": null,
       "description": null
     },
@@ -93,18 +103,8 @@
       "article_url": "https://www.theblock.co/post/381442/jpmorgan-strategy-bitcoin-price-outlook",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Michael Saylor\u2019s Strategy may have BlackRock to thank for the 11% rise in Bitcoin",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclRPQVBtSmI1RG5mTndDZHFTYXVSNFRkbno4OTVsQ1pEWUJZRFJmdzgzX1JYNS0xTV9MUjR2LWdCNDhwMnZaT0RCWnE5LWNWbkQ0YXNvUVhRaGUyOU92TkEtX0Z4UkloTFlPRE9zVWphVUZ2b0d0b3E4eFJVNUlHbnBmbWtKZw?oc=5",
-      "pub_date": 1764850620.0,
-      "article_url": "https://fortune.com/2025/12/04/bitcoin-price-michael-saylor-strategy-blackrock/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/02/GettyImages-1491618289-e1739538790764.jpg?resize=1200,600",
-      "description": "BlackRock\u2019s ETF now owns 3.9% of all existing Bitcoin, more than Strategy."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T06:45:26.262244+00:00"
+  "fetched_at": "2025-12-05T07:30:59.353222+00:00"
 }

@@ -15,14 +15,14 @@
       "description": "While tech leaders paint a positive future where work is optional thanks to AI, the \u2018Godfather of AI\u2019 Geoffrey Hinton warns they\u2019re \u201cbetting on AI replacing a lot of workers.\u201d"
     },
     {
-      "headline": "The AI boom is heralding a new gold rush in the American west",
-      "source": "The Guardian",
-      "source_url": "https://www.theguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBneVRydDFuam1rcEpvX2YxN25wM181dENRS1dwdE96Xzdja1g5aC1saUh5S3lwSGhOc0JLdy13SG91UVhseWhPSEJSSjY3b0trZ3lxd19UelBwclNOVmNfZ1NQM25vRGtRS2gxUVlUak9taTRhOU9JTkJKRkpfUQ?oc=5",
-      "pub_date": 1764879780.0,
-      "article_url": "https://www.theguardian.com/technology/2025/dec/04/nevada-ai-data-centers",
-      "image": "https://i.guim.co.uk/img/media/98b1dc3ef8182910c8dc25f71f49cdb364619a90/426_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3038117c30becf03294ba8e66858bb5",
-      "description": "Once home to gold and prospectors, the Nevada desert is now the site of a new kind of expansion: tech datacenters"
+      "headline": "Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PSmZZSTRVTU92b1JfN2l3UjB3cG53bGY5dk9oRUhwaDMtS0lvanpTY05meDJCWUVBQU1iaWJ0Q09OMHJyTWp2UUZZYW84SXlpTjNVNjdYUGtSdVJ1RHBsM2dR?oc=5",
+      "pub_date": 1764867544.0,
+      "article_url": "https://www.anthropic.com/news/anthropic-interviewer",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Reflection&backgroundColor=sky",
+      "description": "What 1,250 professionals told us about working with AI"
     },
     {
       "headline": "England World Cup draw: Could AI help Thomas Tuchel win 2026 tournament?",
@@ -35,16 +35,6 @@
       "description": "BBC Sport hears from inside the England setup about how artificial intelligence is powering plans for next summer's World Cup."
     },
     {
-      "headline": "On Pope Leo\u2019s Visit to Lebanon and Turkey, A.I. Was a Frequent Concern",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaG5lVmJrN3pOQUU0cG5Db29vMGRUTXU0WGEwMWk4Um1EM2FodG5hVXZvMkhOZ1RpNU1LQVNjSmg3RjYwZEtYZTNkM2ZtSnlqWFhoWm5EU1piYThHN2xMbUs1NUt2Q2tXVGUtUnc1bXJsZGlNS25zM0F6eWd6b256MEZpQ1RxY3hmdGsyVmNoNktDUQ?oc=5",
-      "pub_date": 1764910862.0,
-      "article_url": "https://www.nytimes.com/2025/12/05/world/asia/pope-leo-lebanon-turkey-ai-technology.html",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "The Godmother of AI says she is disappointed by AI's messaging: It's either 'doomsday' or 'total utopian'",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -53,6 +43,16 @@
       "article_url": "https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12",
       "image": "https://i.insider.com/693265e971107c9f3457646e?width=1200&format=jpeg",
       "description": "Fei-Fei Li said that this \"extreme rhetoric\" is filling tech discourse and misinforming  people outside Silicon Valley."
+    },
+    {
+      "headline": "AI is reshaping work. It could also spark an entrepreneurial boom",
+      "source": "Fast Company",
+      "source_url": "https://www.fastcompany.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXZJeC1Nb0REazliVHhmLWJRcmtuV0FKZlVLYXJFcWoxcTJhNDFuaW0tWUUtMGRsM0VnY013MFUwTUpsSmpBZTFDZGdxeTY5V3UwclNuVUJPcGFGZGtSVDh3Y081T3ZzWVJ6NDdOTjVJai03QVdvUUxLVkxYYjNFYnZNczFyOF8y?oc=5",
+      "pub_date": 1764918417.0,
+      "article_url": "https://www.fastcompany.com/91452382/ai-could-spark-the-next-entrepreneurial-boom",
+      "image": null,
+      "description": null
     },
     {
       "headline": "How AI is rewiring childhood",
@@ -69,10 +69,20 @@
       "source": "Axios",
       "source_url": "https://www.axios.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oZnByUVZiNWpMdjI3MnRiZmdLYktfTjdKcjFIV25HaU5vMkt3aHhSZk1kUjhKSkhKcDhDak41Z2dEdTgxeWRWbUx1NlgwQnRMcmpsSkdLTzFBOXl2dTJPcVQxR3FJamdaWG9FUA?oc=5",
-      "pub_date": 1764897803.0,
+      "pub_date": 1764897823.0,
       "article_url": "https://www.axios.com/2025/12/05/ai-hassabis-agi-risks-pdoom",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "The AI boom is heralding a new gold rush in the American west",
+      "source": "The Guardian",
+      "source_url": "https://www.theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBneVRydDFuam1rcEpvX2YxN25wM181dENRS1dwdE96Xzdja1g5aC1saUh5S3lwSGhOc0JLdy13SG91UVhseWhPSEJSSjY3b0trZ3lxd19UelBwclNOVmNfZ1NQM25vRGtRS2gxUVlUak9taTRhOU9JTkJKRkpfUQ?oc=5",
+      "pub_date": 1764879780.0,
+      "article_url": "https://www.theguardian.com/technology/2025/dec/04/nevada-ai-data-centers",
+      "image": "https://i.guim.co.uk/img/media/98b1dc3ef8182910c8dc25f71f49cdb364619a90/426_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3038117c30becf03294ba8e66858bb5",
+      "description": "Once home to gold and prospectors, the Nevada desert is now the site of a new kind of expansion: tech datacenters"
     },
     {
       "headline": "This 24 Year Old Built A Multibillion-Dollar AI Training Empire In Eight Months",
@@ -85,26 +95,16 @@
       "description": "Ali Ansari\u2019s decision to turn micro1\u2019s AI recruitment assistant into a data labeling business spiked the company\u2019s valuation from $80 million to $2.5 billion."
     },
     {
-      "headline": "Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI",
-      "source": "Anthropic",
-      "source_url": "https://www.anthropic.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PSmZZSTRVTU92b1JfN2l3UjB3cG53bGY5dk9oRUhwaDMtS0lvanpTY05meDJCWUVBQU1iaWJ0Q09OMHJyTWp2UUZZYW84SXlpTjNVNjdYUGtSdVJ1RHBsM2dR?oc=5",
-      "pub_date": 1764867544.0,
-      "article_url": "https://www.anthropic.com/news/anthropic-interviewer",
-      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Reflection&backgroundColor=sky",
-      "description": "What 1,250 professionals told us about working with AI"
-    },
-    {
-      "headline": "The Rise of AI Reasoning Models Comes With A Big Energy Tradeoff",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWhfeHdGVGs3a0FfYm9uT0dqamlnRThwOXZ3cDR6aHphRHdNcnktWUZINjBFak9FTEJmVHF5VTRtNmt4ZjNvM2QtT0NDdnBzWncxWXVOVGhmWTJmY0laSGl6TVlIU1ZjNGgzTlFITmd3TVdYa1QxRkt1M0NaTWt0VW5jOHVabHJOWEJDUFEyWXI0VklxNloyMkZNUVEwQUZCMENLVU5hMHZKclZ2ZVphMDFidlNwdw?oc=5",
-      "pub_date": 1764871302.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-04/the-rise-of-ai-reasoning-models-comes-with-a-big-energy-tradeoff",
+      "headline": "A.I. Deal Making Is Getting Faster and Faster",
+      "source": "The New York Times",
+      "source_url": "https://www.nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TSjFLSXphajFfQzhFWnBHWXFRLUFuUXZJMTFHNGVLNml0XzhGaFVNM1RyOThqWWMzUjFKVDlYWDRfUEk3cXAxelB3RnM0OHQ2RktPeTZycDFZSE54aW1IR3M5LXhlVXBxaDRzc0w5aGVNYXllRVBINDlRRU4?oc=5",
+      "pub_date": 1764865810.0,
+      "article_url": "https://www.nytimes.com/2025/12/04/technology/ai-deal-making-faster.html",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T06:45:17.171435+00:00"
+  "fetched_at": "2025-12-05T07:30:53.468039+00:00"
 }

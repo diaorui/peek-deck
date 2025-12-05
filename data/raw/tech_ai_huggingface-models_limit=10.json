@@ -9,7 +9,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Tongyi-MAI/Z-Image-Turbo.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/64379d79fac5ea753f1c10f3/fxHO6QoYjdv9_LTyiUD3g.jpeg",
       "downloads": 135731,
-      "likes": 2083,
+      "likes": 2084,
       "pipeline_tag": "text-to-image",
       "num_parameters": null,
       "last_modified": "2025-12-02T11:54:58.000Z",
@@ -69,7 +69,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/nvidia/Nemotron-Orchestrator-8B.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1613114437487-60262a8e0703121c822a80b6.png",
       "downloads": 2092,
-      "likes": 320,
+      "likes": 321,
       "pipeline_tag": "text-generation",
       "num_parameters": "8.2B",
       "last_modified": "2025-12-02T06:56:58.000Z",
@@ -114,7 +114,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/apple/starflow.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1653390727490-5dd96eb166059660ed1ee413.jpeg",
       "downloads": 0,
-      "likes": 200,
+      "likes": 202,
       "pipeline_tag": null,
       "num_parameters": null,
       "last_modified": "2025-12-02T01:12:08.000Z",
@@ -129,7 +129,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/microsoft/VibeVoice-Realtime-0.5B.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/1583646260758-5e64858c87403103f9f1055d.png",
       "downloads": 0,
-      "likes": 188,
+      "likes": 195,
       "pipeline_tag": "text-to-speech",
       "num_parameters": "1.0B",
       "last_modified": "2025-12-05T01:45:28.000Z",
@@ -144,7 +144,7 @@
       "thumbnail": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Comfy-Org/z_image_turbo.png",
       "avatar": "https://cdn-avatars.huggingface.co/v1/production/uploads/63462c815efccdc07f175568/3ZxGxVKftaTTjduryN7g7.png",
       "downloads": 1674013,
-      "likes": 357,
+      "likes": 358,
       "pipeline_tag": null,
       "num_parameters": null,
       "last_modified": "2025-11-27T04:15:24.000Z",
@@ -152,5 +152,5 @@
     }
   ],
   "limit": 10,
-  "fetched_at": "2025-12-05T06:45:13.258954+00:00"
+  "fetched_at": "2025-12-05T07:30:46.758593+00:00"
 }
