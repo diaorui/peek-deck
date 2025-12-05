@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T17:45:45.342140+00:00'
+updated: '2025-12-05T17:56:32.372483+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 17:45 UTC  
+**Last Updated:** December 05, 2025 at 17:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 33m ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 44m ago
 
 ---
 
@@ -57,7 +57,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
 
-🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 5h ago
+🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
 
-🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 19h ago
+🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 20h ago
 
 ---
 
@@ -77,7 +77,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 **[Florida teacher who used AI to make child pornography of students gets 135-year sentence](https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 21h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 22h ago
 
 ---
 
@@ -85,7 +85,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
 
-19m ago
+30m ago
 
 ---
 
@@ -123,7 +123,7 @@ The New York Times • 4h ago
 
 **[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
 
-The Washington Post • 13m ago
+The Washington Post • 24m ago
 
 ---
 
@@ -135,7 +135,7 @@ Reuters • 1h ago
 
 **[Senators propose bill locking in current AI chip export controls](https://thehill.com/policy/technology/5635658-safe-chips-act-ai-export-control/)**
 
-The Hill • 10m ago
+The Hill • 21m ago
 
 ---
 
@@ -143,7 +143,7 @@ The Hill • 10m ago
 
 Parloa, a German startup developing artificial intelligence for customer service, is looking to raise new funding that would significantly increase its valuation from May, according to people familiar with the matter.
 
-Bloomberg.com • 54m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -241,7 +241,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 244 • 💬 200 • 20h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 244 • 💬 200 • 21h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -279,7 +279,7 @@ Connor Leahy discusses the motivations of AGI corporations, how modern AI is "gr
 
 📺 Future of Life Institute
 
-👁️ 17K • 👍 983 • 💬 305 • ⏱️ 15:40 • 1d ago
+👁️ 18K • 👍 1K • 💬 323 • ⏱️ 15:40 • 1d ago
 
 ---
 
@@ -289,17 +289,17 @@ AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments w
 
 📺 The Diary Of A CEO
 
-👁️ 604K • 👍 15K • 💬 3K • ⏱️ 2:04:06 • 1d ago
+👁️ 624K • 👍 15K • 💬 3K • ⏱️ 2:04:06 • 1d ago
 
 ---
 
-**[This New AI Literally Does EVERYTHING and It Feels Like Magic](https://www.youtube.com/watch?v=1yhAcAbYOd4)**
+**[The threats from AI are real | Sen. Bernie Sanders](https://www.youtube.com/watch?v=K3qS345gAWI)**
 
-This New AI literally does everything — slides, sites, brand kits, emails, calls, docs, real tasks — and it just hit a billion-dollar ...
+The threats from unchecked AI are real — worker displacement, corporate surveillance, invasion of privacy, environmental ...
 
-📺 AI Revolution
+📺 Senator Bernie Sanders
 
-👁️ 12K • 👍 481 • 💬 34 • ⏱️ 8:37 • 20h ago
+👁️ 429K • 👍 31K • 💬 7K • ⏱️ 15:03 • 2d ago
 
 ---
 
@@ -309,7 +309,7 @@ Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford
 
 📺 The Daily Show
 
-👁️ 535K • 👍 13K • 💬 791 • ⏱️ 4:58 • 1d ago
+👁️ 562K • 👍 14K • 💬 824 • ⏱️ 4:58 • 1d ago
 
 ---
 
@@ -319,27 +319,7 @@ OpenAI has declared a "code red" as Google threatens to unseat the AI industry's
 
 📺 CBS News
 
-👁️ 508K • 👍 6K • 💬 1K • ⏱️ 4:59 • 2d ago
-
----
-
-**[The AI bubble bursts in California: mass layoffs and sky-high rents | @visualeconomiken](https://www.youtube.com/watch?v=Ly1Gp9-y5-8)**
-
-Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous videos! ⬇️ Why Are Japanese Companies ...
-
-📺 VisualEconomik EN
-
-👁️ 83K • 👍 3K • 💬 288 • ⏱️ 15:46 • 2d ago
-
----
-
-**[Pocket Option Full Trading Session with AI TRADING BOT for Binary Options](https://www.youtube.com/watch?v=Zz8QIKnvp0A)**
-
-Pocket Option Full Trading Session with AI TRADING BOT for Binary Options Link - in chat ⚠️ Disclaimer Trading binary ...
-
-📺 AITRADINGGG v2
-
-👁️ 5K • 👍 605 • 3h ago
+👁️ 512K • 👍 6K • 💬 1K • ⏱️ 4:59 • 2d ago
 
 ---
 
@@ -349,7 +329,27 @@ The past few days pushed AI in every direction at once. OpenAI quietly tested a 
 
 📺 AI Revolution
 
-👁️ 45K • 👍 1K • 💬 74 • ⏱️ 17:26 • 1d ago
+👁️ 46K • 👍 1K • 💬 75 • ⏱️ 17:26 • 1d ago
+
+---
+
+**[The AI bubble bursts in California: mass layoffs and sky-high rents | @visualeconomiken](https://www.youtube.com/watch?v=Ly1Gp9-y5-8)**
+
+Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous videos! ⬇️ Why Are Japanese Companies ...
+
+📺 VisualEconomik EN
+
+👁️ 85K • 👍 3K • 💬 291 • ⏱️ 15:46 • 2d ago
+
+---
+
+**[Pocket Option Full Trading Session with AI TRADING BOT for Binary Options](https://www.youtube.com/watch?v=9IKSkyP0HcM)**
+
+Pocket Option Full Trading Session with AI TRADING BOT for Binary Options Link - in chat ⚠️ Disclaimer Trading binary ...
+
+📺 AITRADINGGG v2
+
+👁️ 5K • 👍 630 • 1h ago
 
 ---
 
@@ -359,7 +359,7 @@ DeepAgent just rolled out a finance upgrade that feels like a real shift. This v
 
 📺 AI Revolution
 
-👁️ 14K • 👍 600 • 💬 50 • ⏱️ 8:59 • 2d ago
+👁️ 14K • 👍 606 • 💬 50 • ⏱️ 8:59 • 2d ago
 
 ---
 
@@ -369,7 +369,7 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 295K • 👍 976 • 💬 51 • ⏱️ 8:09 • 1d ago
+👁️ 330K • 👍 1K • 💬 51 • ⏱️ 8:09 • 1d ago
 
 ---
 
@@ -679,7 +679,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 822 • 🔱 42 • 11h ago
+⭐ 822 • 🔱 42 • 12h ago
 
 ---
 
@@ -689,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 814 • 🔱 103 • 1h ago
+⭐ 814 • 🔱 103 • 2h ago
 
 ---
 
