@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T21:32:44.538777+00:00'
+updated: '2025-12-05T21:45:21.969452+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- news
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 21:32 UTC  
+**Last Updated:** December 05, 2025 at 21:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,19 +61,19 @@ An AI image generator startup’s database was left accessible to the open inter
 
 ---
 
+**[Using AI as a "blandness detector" instead of a content generator](https://www.reddit.com/r/artificial/comments/1pf6ca7/using_ai_as_a_blandness_detector_instead_of_a/)**
+
+Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: "Does this sound like a reasonable, balanced take?" If AI enthusiastically agrees → you've written something probable. Consensus. Average. If AI hedges or pushes back → you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: 🧉 Where am I being too generic? 🧉 Where am I hiding behind vague language? 🧉 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way—as a detector rather than generator.
+
+53m ago
+
+---
+
 **[Meta eyes budget cuts for its metaverse group as CEO Mark Zuckerberg doubles down on AI](https://www.reddit.com/r/artificial/comments/1peczz9/meta_eyes_budget_cuts_for_its_metaverse_group_as/)**
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
 
 🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 23h ago
-
----
-
-**[Using AI as a "blandness detector" instead of a content generator](https://www.reddit.com/r/artificial/comments/1pf6ca7/using_ai_as_a_blandness_detector_instead_of_a/)**
-
-Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: "Does this sound like a reasonable, balanced take?" If AI enthusiastically agrees → you've written something probable. Consensus. Average. If AI hedges or pushes back → you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: 🧉 Where am I being too generic? 🧉 Where am I hiding behind vague language? 🧉 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way—as a detector rather than generator.
-
-40m ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 11h ago
 
 Parents who lost their daughter to suicide say Character.AI chatbots led her down a dark and sexually explicit path. Sharyn Alfonsi investigates the scale and dangers of what's unfolding inside this rapidly growing AI technology.
 
-CBS News • 57m ago
+CBS News • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Wall Street Journal • 1h ago
 
 **[This crazy chart shows just how much cash OpenAI is burning as it chases AI profits](https://www.marketwatch.com/story/this-crazy-chart-shows-just-how-much-cash-openai-is-burning-as-it-chases-ai-profits-81e7ffef?gaa_at=eafs&gaa_n=AWEtsqcNtwm1YDikQlD4m3e7iMeFzFPfmek3IQ6CytQM0zWr4M4XynZYe7Ie&gaa_ts=69334ecf&gaa_sig=lpCaAdGl9LU4GdBVg5yGsHQ0HY3ke5gzuSYzHVnBi8pmW7dVExlx6Z_xtiXgmZ58lx4ogyoPZloyNgJrlxw7Ew%3D%3D)**
 
-MarketWatch • 53m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 6h ago
 
 Limitless said it shares Meta's vision of bringing personal superintelligence to everyone.
 
-TechCrunch • 30m ago
+TechCrunch • 43m ago
 
 ---
 
@@ -177,7 +177,7 @@ TechCrunch • 30m ago
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-The Atlantic • 23h ago
+The Atlantic • 1d ago
 
 ---
 
@@ -205,7 +205,7 @@ Fortune • 1d ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 943 • 💬 1045 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 943 • 💬 1047 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -249,19 +249,19 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 ---
 
+**[Gemini 3 Pro: the frontier of vision AI](https://news.ycombinator.com/item?id=46163308)**
+
+Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
+
+⬆️ 201 • 💬 93 • 5h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+
+---
+
 **[State of AI: An Empirical 100T Token Study with OpenRouter](https://news.ycombinator.com/item?id=46154022)**
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
 ⬆️ 200 • 💬 92 • 23h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
-
----
-
-**[Gemini 3 Pro: the frontier of vision AI](https://news.ycombinator.com/item?id=46163308)**
-
-Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
-
-⬆️ 168 • 💬 70 • 5h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -389,7 +389,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,128 • 3d ago
+⬇️ 152,916 • ❤️ 2,130 • 3d ago
 
 ---
 
@@ -437,7 +437,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 283 • 19h ago
+⬇️ 12,984 • ❤️ 284 • 19h ago
 
 ---
 
@@ -469,7 +469,7 @@ DeepSeek-Math-V2 is a large language model specialized in mathematical reasoning
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 217 • 3d ago
+⬇️ 0 • ❤️ 218 • 3d ago
 
 ---
 

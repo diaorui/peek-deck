@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T21:32:44.547362+00:00'
+updated: '2025-12-05T21:45:21.978116+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 21:32 UTC  
+**Last Updated:** December 05, 2025 at 21:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,24 +47,24 @@ Live Bitcoin monitoring dashboard
 **24h:** -3.3%  
 **7d:** -1.8%  
 **30d:** -12.0%  
-**90d:** -19.9%  
+**90d:** -20.0%  
 **1y:** -10.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1783.58B
+**Market Cap:** $1781.98B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.1%
+-29.2%
 
 **All-Time Low:** $67.81
-+131775.8%
++131604.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[They are not ready.](https://www.reddit.com/r/Bitcoin/comments/1pf4g5g/they_are_not_ready/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Im only up 3000% now
 
 **[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -219,7 +219,7 @@ Investing.com • 6h ago
 
 Shark Tank star investor Kevin O’Leary has warned he doesn’t expected the Federal Reserve to cut interest rates next month...
 
-Forbes • 7h ago
+Forbes • 8h ago
 
 ---
 
