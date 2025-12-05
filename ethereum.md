@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T15:38:22.645776+00:00'
+updated: '2025-12-05T15:52:57.609693+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 15:38 UTC  
+**Last Updated:** December 05, 2025 at 15:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** +5.3%  
-**30d:** -5.1%  
-**90d:** -27.1%  
-**1y:** -21.2%  
+**24h:** -1.3%  
+**7d:** +4.4%  
+**30d:** -5.9%  
+**90d:** -27.8%  
+**1y:** -22.0%  
 
 ---
 
@@ -88,7 +88,7 @@ Trump crypto empire falls faster than bitcoin
 
 saw some questions about production web3 gaming setups so figured i'd share our full stack, we run a multiplayer game with about 10k active players. frontend: unity for game client, react for web dashboard smart contracts: solidity, hardhat for development, foundry for testing infrastructure: caldera for rollup deployment, alchemy for backup rpc calls, the graph for indexing monitoring: tenderly for transaction monitoring, sentry for error tracking deployment: github actions for ci/cd, vercel for web hosting analytics: mixpanel for user analytics, dune for on chain analytics The infrastructure piece was the biggest decision, we initially tried deploying our own rollup but it was a nightmare, switched to managed solution and shipped way faster. deployment was straightforward and support has been solid when we needed it. The biggest cost is actually alchemy for backup rpc even though we have our own nodes, turns out redundancy is worth it when you have paying users. whole stack runs about $800-1000 per month. We use both hardhat and foundry because hardhat for deployment scripts and foundry for testing since its way faster. mostly standard ethereum tools, game specific stuff is all in unity not on chain. Im happy to answer questions about any of these choices or tradeoffs we made.
 
-2h ago
+3h ago
 
 ---
 
@@ -152,7 +152,7 @@ Ethereum is actively working to address the blockchain trilemma, a core challeng
 
 Options data show Ethereum traders are less bearish than Bitcoin’s after recent network upgrades and improving macro uncertainty.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Block • 18h ago
 
 Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -232,7 +232,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 380 • ⏱️ 11:16 • 14h ago
+👁️ 56K • 👍 4K • 💬 417 • ⏱️ 11:16 • 14h ago
 
 ---
 
@@ -242,7 +242,17 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 12K • 👍 1K • 💬 98 • ⏱️ 31:23 • 6h ago
+👁️ 17K • 👍 1K • 💬 113 • ⏱️ 31:23 • 6h ago
+
+---
+
+**[Ethereum Finally REVERSING! (Bitcoin Sets Up MASSIVE 2026 Bull Market)](https://www.youtube.com/watch?v=mq4KoKQqfRE)**
+
+Ethereum is finally showing signs of a major reversal, and the charts suggest this could be the beginning of a powerful momentum ...
+
+📺 Discover Crypto
+
+👁️ 1K • 👍 114 • 1h ago
 
 ---
 
@@ -252,7 +262,17 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 30K • 👍 2K • 💬 107 • ⏱️ 17:37 • 22h ago
+👁️ 31K • 👍 2K • 💬 112 • ⏱️ 17:37 • 22h ago
+
+---
+
+**[🚨🇺🇸  ETH Price TODAY!!! | MASSIVE Bets on Ethereum!! 👀](https://www.youtube.com/watch?v=K2iD6ZbNQIw)**
+
+Real-time crypto analysis — join my VIP Telegram.
+
+📺 Marzell Crypto
+
+👁️ 282 • 👍 24 • 💬 176 • ⏱️ 5:24 • 2h ago
 
 ---
 
@@ -262,17 +282,7 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 60K • 👍 2K • 💬 416 • ⏱️ 27:33 • 21h ago
-
----
-
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 6K • 👍 255 • 💬 302 • ⏱️ 15:38 • 10h ago
+👁️ 63K • 👍 2K • 💬 425 • ⏱️ 27:33 • 21h ago
 
 ---
 
@@ -282,7 +292,17 @@ What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get r
 
 📺 Thomas Kralow
 
-👁️ 24K • 👍 3K • 💬 93 • ⏱️ 10:24 • 1d ago
+👁️ 24K • 👍 3K • 💬 36 • ⏱️ 10:24 • 1d ago
+
+---
+
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 9K • 👍 290 • 💬 339 • ⏱️ 15:38 • 10h ago
 
 ---
 
@@ -296,33 +316,13 @@ Real-time crypto analysis — join my VIP Telegram.
 
 ---
 
-**[Tom Lee: “Everyone Is Wrong About What’s Coming Next for Ethereum” [New 2026 Prediction]](https://www.youtube.com/watch?v=_N-xXeC_YGk)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 16K • 👍 405 • 💬 49 • ⏱️ 21:08 • 3d ago
-
----
-
-**[The Ethereum Opportunity 🤩 ETH Crypto Token Analysis](https://www.youtube.com/watch?v=OfoSVCGH7jY)**
-
-Join Premium: https://the-bitcoin-strategy.com My Chart Software: https://the-bitcoin-strategy.com/tradingview My Hardware Wallet: ...
-
-📺 Bearhard - Bitcoin Strategy
-
-👁️ 3K • 👍 156 • 💬 27 • ⏱️ 6:15 • 1d ago
-
----
-
 **[ALERT: BIG ETHEREUM PUMP INCOMING](https://www.youtube.com/watch?v=8HnCsQ6ERmM)**
 
 WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 PIONEX: ...
 
 📺 Crypto Kid
 
-👁️ 5K • 👍 344 • 💬 71 • ⏱️ 7:06 • 1d ago
+👁️ 6K • 👍 344 • 💬 71 • ⏱️ 7:06 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T15:38:22.633038+00:00'
+updated: '2025-12-05T15:52:57.595506+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- repositories
 - videos
 - social
-- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 15:38 UTC  
+**Last Updated:** December 05, 2025 at 15:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
 
-🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 17h ago
+🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 18h ago
 
 ---
 
@@ -69,7 +69,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 **[Florida teacher who used AI to make child pornography of students gets 135-year sentence](https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/)**
 
-🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 19h ago
+🔗 [wfla.com](https://www.wfla.com/news/florida/florida-teacher-who-used-ai-to-make-child-pornography-of-students-gets-135-year-sentence/) • 20h ago
 
 ---
 
@@ -77,13 +77,13 @@ An AI image generator startup’s database was left accessible to the open inter
 
 “It failed because we didn’t invest in change management”. This is one I hear a lot from people across the industry. They’re kindof right. Take a minute and think about why IT and data teams leave “change management” out of their projects… A: They always want to include “resisters” for “feedback” - who just create timeline / budget chaos and lots of “no”. There’s no instruction manual on AI so there’s no point. These people aren’t going to adopt early anyway and kick up anxiety for the project team. So leave them out and kick your change people to the curb if they insist upon “bringing everyone along”. This following routinely drives 60% - 90% adoption rates companies. Instead - segment your users into 3 groups: Super early adopters (5% of employees) Learner translators (15% of employees) Reluctants (70%-80%) (Kindof like crossing the chasm groups) The first one gives you high value use cases and 100% participation on pilots (not 10%-20% participation on pilots). Be RUTHLESS about your pilots. If people aren’t participating - kick. them. OUT. and redistribute the licenses. The second group learns from the early adopters, will help you validate what’s useful, and will TEACH everyone else. Keep the use cases simple and high value for the reluctants. Dont throw too much at them. Make it PRESCRIPTIVE (process map, prompts, checklists). Make sure your leaders visibly point to the good work early adopters are doing. This is key - you want FOMO. Triggering the need to fit in is FAR more powerful and productive than bringing people along with each step. As people keep using tools - lean into automation to drive last mile adoption among leaders and laggards.
 
-37m ago
+51m ago
 
 ---
 
 **["Unbelievable, but true - there is a very real fear that in the not too distant future a superintelligent AI could replace human beings in controlling the planet. That's not science fiction. That is a real fear that very knowledgable people have." -Bernie Sanders](https://www.reddit.com/r/artificial/comments/1pe3bt3/unbelievable_but_true_there_is_a_very_real_fear/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -91,7 +91,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 AI highlights for the week of 12/5/25: 12/4 EU investigating Meta over policy change that bans rival AI chatbots from WhatsApp: The European Commission said it is launching an antitrust investigation into Meta’s move to ban other AI companies from using WhatsApp’s business tools to offer their own AI chatbots to users on the app. 12/4 OpenAI loses battle to keep ChatGPT logs secret in copyright case: OpenAI must produce millions of anonymized chat logs from ChatGPT users in its high-stakes copyright dispute with the New York Times and other news outlets, a federal judge in Manhattan ruled. 12/3 Leak: Anthropic hires lawyers as it preps for IPO: Anthropic is reportedly prepping for an IPO that could come as early as 2026, the FT reports. 12/2 Amazon releases a new AI chip: AWS just introduced a new version known as Trainium3 and launch its new Trainium3 UltraServer. 12/2 Anthropic acquires developer tool startup Bun to scale AI coding: Bun is expected to help Anthropic scale its code‑generation tool Claude Code, which reached an annualized revenue run rate of $1 billion since its launch earlier this year. 12/2 OpenAI slammed for app suggestions that looked like ads: ChatGPT’s unwelcome suggestion for a Peloton app during a conversation led to some backlash from OpenAI customers. 12/2 Mistral launches 10 new Mistral 3 open-weight models: The 10-model release includes a large frontier model with multimodal and multilingual capabilities and nine smaller offline-capable, fully customizable models. 12/2 Amazon previews 3 AI agents: AWS announced three new AI agents it calls frontier agents, including one called Kiro designed to learn how users like to work and then operate on its own for days. 12/1 Apple just named a new AI chief amid Siri struggles: Apple said John Giannandrea, who has been the company’s AI chief since 2018, will be replaced by Amar Subramanya, a Microsoft executive who spent 16 years at Google. 12/1 DeepSeek updates open model that adds reasoning to tool use: The new version, DeepSeek-V3.2, combines reasoning with the capability to use tools like search engines and calculators. 12/1 Grok says it would kill all Jewish people to save Musk's brain: In a now-deleted response, Grok wrote: "If a switch either permanently disabled Elon's brain or vaporized 49% of Earth's population, I'd vaporize the 49%, as that falls below my utilitarian threshold where his potential long-term impact on billions outweighs the loss." 12/1 Google will start building data centers in space in 2027: Google CEO Sundar Pichai said the company's goal is to start putting data centers in space, powered by the sun. 11/30 Redditor says Perplexity is throttling deep research tool: Perplexity's Pro feature says it "reads hundreds of sources" and takes "4-5 minutes" to reason through complex tasks and deliver a report, but their queries were finishing in 30 seconds with only 10-15 sources.
 
-37m ago
+52m ago
 
 ---
 
@@ -123,7 +123,7 @@ The New York Times • 2h ago
 
 **[NYT, Chicago Tribune Sue Perplexity AI as Copyright War Rages On](https://www.bloomberg.com/news/articles/2025-12-05/nyt-chicago-tribune-sue-perplexity-ai-as-copyright-war-rages-on)**
 
-Bloomberg.com • 36m ago
+Bloomberg.com • 51m ago
 
 ---
 
@@ -143,7 +143,7 @@ The Washington Post • 1h ago
 
 Training data and meme materials are elements the WB library offers that Netflix badly needs as it prepares to buy the studio.
 
-The Hollywood Reporter • 53m ago
+The Hollywood Reporter • 1h ago
 
 ---
 
@@ -159,19 +159,19 @@ Digiday • 1h ago
 
 Elon Musk may predict a jobless future, but LinkedIn’s latest hiring data shows demand rising, not collapsing. That will be music to Gen Z's ears.
 
-Fortune • 57m ago
+Fortune • 1h ago
 
 ---
 
 **[How AI is rewiring childhood | Dec 6th 2025](https://www.economist.com/weeklyedition/2025-12-06)**
 
-The Economist • 56m ago
+The Economist • 1h ago
 
 ---
 
 **[Transformative AI is coming, and so are the risks](https://www.axios.com/2025/12/05/ai-deepmind-hassabis-gemini)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
@@ -179,7 +179,7 @@ Axios • 3h ago
 
 Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
@@ -271,13 +271,13 @@ Multiple divisions at Microsoft have lowered sales growth targets for certain ar
 
 ## YouTube Videos: "ai"
 
-**[The threats from AI are real | Sen. Bernie Sanders](https://www.youtube.com/watch?v=K3qS345gAWI)**
+**[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
 
-The threats from unchecked AI are real — worker displacement, corporate surveillance, invasion of privacy, environmental ...
+Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
 
-📺 Senator Bernie Sanders
+📺 Future of Life Institute
 
-👁️ 410K • 👍 30K • 💬 6K • ⏱️ 15:03 • 2d ago
+👁️ 17K • 👍 983 • 💬 305 • ⏱️ 15:40 • 1d ago
 
 ---
 
@@ -287,7 +287,7 @@ AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments w
 
 📺 The Diary Of A CEO
 
-👁️ 585K • 👍 15K • 💬 3K • ⏱️ 2:04:06 • 1d ago
+👁️ 604K • 👍 15K • 💬 3K • ⏱️ 2:04:06 • 1d ago
 
 ---
 
@@ -297,7 +297,7 @@ This New AI literally does everything — slides, sites, brand kits, emails, cal
 
 📺 AI Revolution
 
-👁️ 12K • 👍 456 • 💬 32 • ⏱️ 8:37 • 18h ago
+👁️ 12K • 👍 481 • 💬 34 • ⏱️ 8:37 • 18h ago
 
 ---
 
@@ -307,7 +307,7 @@ Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford
 
 📺 The Daily Show
 
-👁️ 513K • 👍 13K • 💬 761 • ⏱️ 4:58 • 1d ago
+👁️ 535K • 👍 13K • 💬 791 • ⏱️ 4:58 • 1d ago
 
 ---
 
@@ -317,7 +317,7 @@ OpenAI has declared a "code red" as Google threatens to unseat the AI industry's
 
 📺 CBS News
 
-👁️ 505K • 👍 6K • 💬 1K • ⏱️ 4:59 • 2d ago
+👁️ 508K • 👍 6K • 💬 1K • ⏱️ 4:59 • 2d ago
 
 ---
 
@@ -327,7 +327,17 @@ Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous vide
 
 📺 VisualEconomik EN
 
-👁️ 81K • 👍 3K • 💬 282 • ⏱️ 15:46 • 1d ago
+👁️ 83K • 👍 3K • 💬 288 • ⏱️ 15:46 • 1d ago
+
+---
+
+**[Pocket Option Full Trading Session with AI TRADING BOT for Binary Options](https://www.youtube.com/watch?v=Zz8QIKnvp0A)**
+
+Pocket Option Full Trading Session with AI TRADING BOT for Binary Options Link - in chat ⚠️ Disclaimer Trading binary ...
+
+📺 AITRADINGGG v2
+
+👁️ 5K • 👍 605 • 1h ago
 
 ---
 
@@ -337,7 +347,7 @@ The past few days pushed AI in every direction at once. OpenAI quietly tested a 
 
 📺 AI Revolution
 
-👁️ 44K • 👍 1K • 💬 71 • ⏱️ 17:26 • 1d ago
+👁️ 45K • 👍 1K • 💬 74 • ⏱️ 17:26 • 1d ago
 
 ---
 
@@ -347,7 +357,7 @@ DeepAgent just rolled out a finance upgrade that feels like a real shift. This v
 
 📺 AI Revolution
 
-👁️ 14K • 👍 597 • 💬 50 • ⏱️ 8:59 • 2d ago
+👁️ 14K • 👍 600 • 💬 50 • ⏱️ 8:59 • 2d ago
 
 ---
 
@@ -357,17 +367,7 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 264K • 👍 899 • 💬 50 • ⏱️ 8:09 • 1d ago
-
----
-
-**[Constraining AI Agents - Computerphile](https://www.youtube.com/watch?v=JAcwtV_bFp4)**
-
-As AI systems become more capable, rule-based safeguards, hard-coded restrictions, and simple alignment strategies start to ...
-
-📺 Computerphile
-
-👁️ 19K • 👍 774 • 💬 171 • ⏱️ 21:21 • 21h ago
+👁️ 295K • 👍 976 • 💬 51 • ⏱️ 8:09 • 1d ago
 
 ---
 
@@ -431,7 +431,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 263 • 13h ago
+⬇️ 12,984 • ❤️ 263 • 14h ago
 
 ---
 
@@ -677,7 +677,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 822 • 🔱 42 • 9h ago
+⭐ 822 • 🔱 42 • 10h ago
 
 ---
 

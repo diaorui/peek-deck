@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T15:38:22.648548+00:00'
+updated: '2025-12-05T15:52:57.612889+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 15:38 UTC  
+**Last Updated:** December 05, 2025 at 15:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -102,7 +102,7 @@ Since 10 years ago, I have been thinking about the following question in my spar
 
 Humanoid robotics is getting cheaper, smarter, and a lot more capable at moving through the world. But construction sites are a different beast with uneven terrain, unpredictable workflows, and tasks that vary wildly from day to day. I’m curious whether robotics aimed specifically at construction has kept up. Not the glossy demo videos, but actual sector-focused systems that show real progress on tasks like material handling, layout, inspections, drilling, or repetitive onsite work. It actually feels like construction is one of the few fields where purpose-built robots should make far more sense than humanoids. Most site tasks don’t need a human-shaped form factor at all. Are there ad hoc or specialized robots that feel like a real breakthrough, or is the field still stuck in research prototypes?
 
-6h ago
+7h ago
 
 ---
 
@@ -136,7 +136,7 @@ Yahoo Finance Singapore • 1h ago
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
-MIT News • 38m ago
+MIT News • 52m ago
 
 ---
 
@@ -150,7 +150,7 @@ Investor's Business Daily • 18h ago
 
 The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
 
-Barchart.com • 20h ago
+Barchart.com • 21h ago
 
 ---
 
@@ -196,7 +196,27 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 43K • 👍 378 • 💬 186 • ⏱️ 2:30 • 2d ago
+👁️ 48K • 👍 407 • 💬 205 • ⏱️ 2:30 • 2d ago
+
+---
+
+**[AI Humanoid Robot Activated in 2025 — Reacts Like a Real Human in Silicon Valley Lab](https://www.youtube.com/watch?v=bjUcx-S0-ks)**
+
+In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot and apply a breakthrough synthetic skin.
+
+📺 AI Robot Lab
+
+👁️ 6K • 👍 68 • ⏱️ 0:19 • 2h ago
+
+---
+
+**[ChatGPT in a real robot does what experts warned.](https://www.youtube.com/watch?v=byQmJ9x0RWA)**
+
+Chat GPT inside a robot. Can we trust AI? Use code insideai at https://incogni.com/insideai to get an exclusive 60% off Please ...
+
+📺 InsideAI
+
+👁️ 516K • 👍 21K • 💬 3K • ⏱️ 14:58 • 4d ago
 
 ---
 
@@ -206,7 +226,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 84K • 💬 536 • ⏱️ 1:21 • 2d ago
+👁️ 85K • 💬 551 • ⏱️ 1:21 • 2d ago
 
 ---
 
@@ -214,17 +234,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 AI . Robot
 
-👁️ 493K • 👍 6K • 💬 230 • ⏱️ 0:27 • 6d ago
-
----
-
-**[Humanoid Overloads With Emotions – Robot Girl Sensor Test Goes Wrong 🤖⚠️](https://www.youtube.com/watch?v=FMYhwvafLig)**
-
-The emotion sensor test didn't go as planned. The robot girl gets overwhelmed and reacts in a way no one expected. Like for ...
-
-📺 AI Robot Reality
-
-👁️ 31K • 👍 186 • 💬 7 • ⏱️ 0:15 • 1d ago
+👁️ 500K • 👍 6K • 💬 235 • ⏱️ 0:27 • 6d ago
 
 ---
 
@@ -234,7 +244,7 @@ In a high-end robotics lab in Silicon Valley, engineers activate and calibrate a
 
 📺 AI Robot Lab
 
-👁️ 48K • 👍 603 • 💬 7 • ⏱️ 0:29 • 2d ago
+👁️ 49K • 👍 633 • 💬 7 • ⏱️ 0:29 • 2d ago
 
 ---
 
@@ -244,17 +254,7 @@ Which one is the most humanlike? First, Tesla shared a 5-second clip of its Opti
 
 📺 Kalil 4.0
 
-👁️ 19K • 👍 132 • 💬 30 • ⏱️ 0:14 • 18h ago
-
----
-
-**[AI Humanoid Robot Awakens for the First Time at an LA Tech Expo #HumanoidRobot #AIrobot](https://www.youtube.com/watch?v=6l8elhGM6cE)**
-
-Inside a high-security robotics lab in Los Angeles, a next-gen humanoid robot is activated for the very first time. Engineers run final ...
-
-📺 AI Robot Lab
-
-👁️ 302K • 👍 2K • 💬 25 • ⏱️ 0:34 • 2d ago
+👁️ 22K • 👍 147 • 💬 30 • ⏱️ 0:14 • 18h ago
 
 ---
 
@@ -262,25 +262,27 @@ Inside a high-security robotics lab in Los Angeles, a next-gen humanoid robot is
 
 📺 Robotics
 
-👁️ 334K • 👍 3K • 💬 40 • ⏱️ 0:25 • 4d ago
+👁️ 335K • 👍 3K • 💬 40 • ⏱️ 0:25 • 4d ago
 
 ---
 
-**[Humanoid robot Vol.149: Robotics Lab](https://www.youtube.com/watch?v=mVAHi_eB8Mc)**
+**[Inside the Viral IRON Robot Everyone Thought Was Human | What The Future](https://www.youtube.com/watch?v=bEKH2eblWBk)**
 
-AI #stablediffusion #AIart #humanoid #scifi #robot #futuretech.
+XPeng's new humanoid robot, IRON, went viral after the company cut it open on stage to prove it wasn't a human in disguise.
 
-📺 ROBOT HUMANOID AI
+📺 CNET
 
-👁️ 9K • 👍 117 • ⏱️ 0:25 • 22h ago
+👁️ 539K • 👍 3K • 💬 536 • ⏱️ 5:04 • 5d ago
 
 ---
 
-**[New Humanoid ‘Jena’ Unveiled at the 2025 Robot Expo. #robotics #humanoidrobot #robot #ai](https://www.youtube.com/watch?v=XVHKg1DNMg4)**
+**[Humanoid Overloads With Emotions – Robot Girl Sensor Test Goes Wrong 🤖⚠️](https://www.youtube.com/watch?v=FMYhwvafLig)**
 
-📺 AI . Robot
+The emotion sensor test didn't go as planned. The robot girl gets overwhelmed and reacts in a way no one expected. Like for ...
 
-👁️ 388K • 👍 4K • 💬 42 • ⏱️ 0:19 • 4d ago
+📺 AI Robot Reality
+
+👁️ 31K • 👍 187 • 💬 7 • ⏱️ 0:15 • 1d ago
 
 ---
 
