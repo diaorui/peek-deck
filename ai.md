@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T21:56:45.749696+00:00'
+updated: '2025-12-05T22:23:47.232683+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
-- news
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 21:56 UTC  
+**Last Updated:** December 05, 2025 at 22:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 4h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 5h ago
 
 ---
 
@@ -49,7 +49,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 8h ago
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 9h ago
 
 ---
 
@@ -58,6 +58,12 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
 
 🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 10h ago
+
+---
+
+**[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
+
+1h ago
 
 ---
 
@@ -85,14 +91,6 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 ---
 
-**[The scariest scenario unfolding before our eyes - a case of fake "Dr. Avi Loeb" YouTube channel](https://www.reddit.com/r/artificial/comments/1pf3igs/the_scariest_scenario_unfolding_before_our_eyes_a/)**
-
-So, the defining moment everyone's been dreading, has actually happened .. and basically nobody noticed! We have a channel stealing the identity of a person who happens to be a respected public figure and a top level scientist, still online, spreading false information and fooling people. https://youtu.be/_bOF-yCspps?si=tT0d0Fqq6Rds1Zp6
-
-2h ago
-
----
-
 **[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
 
 1d ago
@@ -109,7 +107,7 @@ So, the defining moment everyone's been dreading, has actually happened .. and b
 
 AI highlights for the week of 12/5/25: 12/4 EU investigating Meta over policy change that bans rival AI chatbots from WhatsApp: The European Commission said it is launching an antitrust investigation into Meta’s move to ban other AI companies from using WhatsApp’s business tools to offer their own AI chatbots to users on the app. 12/4 OpenAI loses battle to keep ChatGPT logs secret in copyright case: OpenAI must produce millions of anonymized chat logs from ChatGPT users in its high-stakes copyright dispute with the New York Times and other news outlets, a federal judge in Manhattan ruled. 12/3 Leak: Anthropic hires lawyers as it preps for IPO: Anthropic is reportedly prepping for an IPO that could come as early as 2026, the FT reports. 12/2 Amazon releases a new AI chip: AWS just introduced a new version known as Trainium3 and launch its new Trainium3 UltraServer. 12/2 Anthropic acquires developer tool startup Bun to scale AI coding: Bun is expected to help Anthropic scale its code‑generation tool Claude Code, which reached an annualized revenue run rate of $1 billion since its launch earlier this year. 12/2 OpenAI slammed for app suggestions that looked like ads: ChatGPT’s unwelcome suggestion for a Peloton app during a conversation led to some backlash from OpenAI customers. 12/2 Mistral launches 10 new Mistral 3 open-weight models: The 10-model release includes a large frontier model with multimodal and multilingual capabilities and nine smaller offline-capable, fully customizable models. 12/2 Amazon previews 3 AI agents: AWS announced three new AI agents it calls frontier agents, including one called Kiro designed to learn how users like to work and then operate on its own for days. 12/1 Apple just named a new AI chief amid Siri struggles: Apple said John Giannandrea, who has been the company’s AI chief since 2018, will be replaced by Amar Subramanya, a Microsoft executive who spent 16 years at Google. 12/1 DeepSeek updates open model that adds reasoning to tool use: The new version, DeepSeek-V3.2, combines reasoning with the capability to use tools like search engines and calculators. 12/1 Grok says it would kill all Jewish people to save Musk's brain: In a now-deleted response, Grok wrote: "If a switch either permanently disabled Elon's brain or vaporized 49% of Earth's population, I'd vaporize the 49%, as that falls below my utilitarian threshold where his potential long-term impact on billions outweighs the loss." 12/1 Google will start building data centers in space in 2027: Google CEO Sundar Pichai said the company's goal is to start putting data centers in space, powered by the sun. 11/30 Redditor says Perplexity is throttling deep research tool: Perplexity's Pro feature says it "reads hundreds of sources" and takes "4-5 minutes" to reason through complex tasks and deliver a report, but their queries were finishing in 30 seconds with only 10-15 sources.
 
-6h ago
+7h ago
 
 ---
 
@@ -121,13 +119,13 @@ AI highlights for the week of 12/5/25: 12/4 EU investigating Meta over policy ch
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-The Keyword • 5h ago
+The Keyword • 6h ago
 
 ---
 
 **[Opinion | A.I. Technology Needs the Bubble to Burst](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -141,13 +139,13 @@ CNBC • 2h ago
 
 **[Meta acquires AI-wearables startup Limitless](https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
 **[Meta Platforms Buys AI-Device Maker Limitless](https://www.wsj.com/tech/meta-platforms-buys-ai-device-maker-limitless-d2649827?gaa_at=eafs&gaa_n=AWEtsqfYjlJHN1zpeKnjNuSP6XnLNQbyvW6E-yJfd-iivK4RoFdD1GVi5l40&gaa_ts=69335888&gaa_sig=g3BpC8t2JV9LgRGJZRPAlUICeAT430utEjR81mjkkP8OwL7fmwKHL6PdHn4N9YyYhUFPMFqdtOsnLQXLj2nU6w%3D%3D)**
 
-The Wall Street Journal • 47m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -185,7 +183,7 @@ The Atlantic • 1d ago
 
 Nonprofit Future of Life Institute gave low grades to AI firms including OpenAI, Anthropic, Google and Meta due to concerns about how the companies are handling AI safety.
 
-Los Angeles Times • 10h ago
+Los Angeles Times • 11h ago
 
 ---
 
@@ -205,7 +203,7 @@ Los Angeles Times • 10h ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 943 • 💬 1047 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 945 • 💬 1048 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -213,7 +211,7 @@ A post about everyone in Seattle hating AI.
 
 Update: This post received a large amount of attention on Hacker News — see the discussion thread.
 
-⬆️ 805 • 💬 283 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
+⬆️ 805 • 💬 284 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
 
 ---
 
@@ -221,7 +219,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 671 • 💬 638 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 673 • 💬 638 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -229,7 +227,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 424 • 💬 331 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 424 • 💬 332 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -253,7 +251,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 201 • 💬 93 • 5h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 232 • 💬 109 • 6h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -283,7 +281,7 @@ Connor Leahy discusses the motivations of AGI corporations, how modern AI is "gr
 
 📺 Future of Life Institute
 
-👁️ 18K • 👍 1K • 💬 349 • ⏱️ 15:40 • 1d ago
+👁️ 19K • 👍 1K • 💬 363 • ⏱️ 15:40 • 1d ago
 
 ---
 
@@ -293,7 +291,7 @@ AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments w
 
 📺 The Diary Of A CEO
 
-👁️ 647K • 👍 16K • 💬 3K • ⏱️ 2:04:06 • 1d ago
+👁️ 666K • 👍 16K • 💬 3K • ⏱️ 2:04:06 • 1d ago
 
 ---
 
@@ -303,7 +301,7 @@ The threats from unchecked AI are real — worker displacement, corporate survei
 
 📺 Senator Bernie Sanders
 
-👁️ 443K • 👍 32K • 💬 7K • ⏱️ 15:03 • 2d ago
+👁️ 454K • 👍 32K • 💬 7K • ⏱️ 15:03 • 2d ago
 
 ---
 
@@ -313,37 +311,7 @@ Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford
 
 📺 The Daily Show
 
-👁️ 592K • 👍 14K • 💬 852 • ⏱️ 4:58 • 1d ago
-
----
-
-**[OpenAI declares &quot;code red&quot; as Google threatens its artificial intelligence lead, WSJ reports](https://www.youtube.com/watch?v=ZheT7hQIf08)**
-
-OpenAI has declared a "code red" as Google threatens to unseat the AI industry's early leader, according to the Wall Street ...
-
-📺 CBS News
-
-👁️ 517K • 👍 6K • 💬 1K • ⏱️ 4:59 • 2d ago
-
----
-
-**[AI Exploded This Week: GPT 5.2, DeepSeek 3.2, Kling 2.6, Mistral 3, Trainium 3...](https://www.youtube.com/watch?v=KeqO2KM6CTk)**
-
-The past few days pushed AI in every direction at once. OpenAI quietly tested a new Memory Search system inside ChatGPT, ...
-
-📺 AI Revolution
-
-👁️ 47K • 👍 1K • 💬 75 • ⏱️ 17:26 • 1d ago
-
----
-
-**[The AI bubble bursts in California: mass layoffs and sky-high rents | @visualeconomiken](https://www.youtube.com/watch?v=Ly1Gp9-y5-8)**
-
-Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous videos! ⬇️ Why Are Japanese Companies ...
-
-📺 VisualEconomik EN
-
-👁️ 86K • 👍 3K • 💬 293 • ⏱️ 15:46 • 2d ago
+👁️ 614K • 👍 15K • 💬 882 • ⏱️ 4:58 • 1d ago
 
 ---
 
@@ -353,7 +321,37 @@ Pocket Option Full Trading Session with AI TRADING BOT for Binary Options Link -
 
 📺 AITRADINGGG v2
 
-👁️ 4K • 👍 630 • 2h ago
+👁️ 6K • 👍 627 • 2h ago
+
+---
+
+**[AI Exploded This Week: GPT 5.2, DeepSeek 3.2, Kling 2.6, Mistral 3, Trainium 3...](https://www.youtube.com/watch?v=KeqO2KM6CTk)**
+
+The past few days pushed AI in every direction at once. OpenAI quietly tested a new Memory Search system inside ChatGPT, ...
+
+📺 AI Revolution
+
+👁️ 49K • 👍 1K • 💬 75 • ⏱️ 17:26 • 1d ago
+
+---
+
+**[The AI bubble bursts in California: mass layoffs and sky-high rents | @visualeconomiken](https://www.youtube.com/watch?v=Ly1Gp9-y5-8)**
+
+Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous videos! ⬇️ Why Are Japanese Companies ...
+
+📺 VisualEconomik EN
+
+👁️ 87K • 👍 3K • 💬 294 • ⏱️ 15:46 • 2d ago
+
+---
+
+**[The NEW way to build $100,000 AI Systems (Gemini 3.0)](https://www.youtube.com/watch?v=8JW1vEdLswk)**
+
+ALL Systems: https://www.skool.com/aiautomationsbyjack 🎙️ Glaido: https://glaido-beta.paperform.co/ n8n: ...
+
+📺 Jack Roberts
+
+👁️ 4K • 👍 253 • 💬 10 • ⏱️ 35:33 • 6h ago
 
 ---
 
@@ -363,17 +361,17 @@ With headlines of an imminent job apocalypse, code red for ChatGPT and recursive
 
 📺 AI Explained
 
-👁️ 12K • 👍 879 • 💬 181 • ⏱️ 20:16 • 5h ago
+👁️ 19K • 👍 1K • 💬 241 • ⏱️ 20:16 • 5h ago
 
 ---
 
-**[John Lennox Exposes AI Connection to the Antichrist (And It&#39;s Disturbing)](https://www.youtube.com/watch?v=pFPrcAdr09c)**
+**[Stonehenge Mystery Finally Solved by AI and It’s TERRIFYING](https://www.youtube.com/watch?v=86EMgaF393Y)**
 
-Is Artificial Intelligence paving the way for the fulfillment of Biblical prophecy? In this video, Oxford mathematician and Christian ...
+Stonehenge Mystery Finally Solved by AI and It's TERRIFYING An advanced AI system has just finished analyzing five thousand ...
 
-📺 Elijah Zielke
+📺 The Curious Mind
 
-👁️ 8K • 👍 297 • 💬 79 • ⏱️ 23:53 • 1d ago
+👁️ 9K • 👍 217 • ⏱️ 24:15 • 1d ago
 
 ---
 
@@ -389,7 +387,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,130 • 3d ago
+⬇️ 152,916 • ❤️ 2,131 • 3d ago
 
 ---
 
@@ -485,13 +483,15 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 ---
 
-**[Mistral-Large-3-675B-Instruct-2512](https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512)**
+**[Ovis-Image-7B](https://huggingface.co/AIDC-AI/Ovis-Image-7B)**
 
-*Mistral AI_*
+*AIDC-AI*
 
-Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.
+Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high-fidelity text rendering in diverse layouts and fonts. It excels at generating legible text in complex prompts like posters and logos, offering near-frontier text rendering capabilities on accessible hardware.
 
-⬇️ 247 • ❤️ 159 • 2d ago
+`text-to-image`
+
+⬇️ 1,775 • ❤️ 159 • 2d ago
 
 ---
 
@@ -643,7 +643,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.1k • 🔱 392 • 18h ago
+⭐ 5.1k • 🔱 392 • 19h ago
 
 ---
 
@@ -683,7 +683,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 825 • 🔱 103 • 24m ago
+⭐ 825 • 🔱 103 • 51m ago
 
 ---
 

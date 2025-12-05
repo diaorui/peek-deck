@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T21:56:45.763968+00:00'
+updated: '2025-12-05T22:23:47.247328+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 21:56 UTC  
+**Last Updated:** December 05, 2025 at 22:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.1%  
+**24h:** -3.6%  
 **7d:** +1.0%  
 **30d:** -9.0%  
 **90d:** -30.1%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $365.30B
+**Market Cap:** $364.59B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.8%
+-38.9%
 
 **All-Time Low:** $0.43
-+699044.8%
++698162.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -196,7 +196,7 @@ Nasdaq • 1d ago
 
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
-Seeking Alpha • 17h ago
+Seeking Alpha • 18h ago
 
 ---
 
@@ -234,7 +234,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 4K • 💬 507 • ⏱️ 11:16 • 20h ago
+👁️ 69K • 👍 4K • 💬 541 • ⏱️ 11:16 • 20h ago
 
 ---
 
@@ -244,7 +244,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 701 • 👍 32 • 💬 216 • ⏱️ 5:24 • 8h ago
+👁️ 900 • 👍 33 • 💬 264 • ⏱️ 5:24 • 8h ago
 
 ---
 
@@ -254,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 153 • 💬 2 • ⏱️ 5:20 • 6h ago
+👁️ 2K • 👍 170 • 💬 21 • ⏱️ 5:20 • 7h ago
 
 ---
 
@@ -264,7 +264,17 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 22K • 👍 2K • 💬 133 • ⏱️ 31:23 • 12h ago
+👁️ 23K • 👍 2K • 💬 159 • ⏱️ 31:23 • 13h ago
+
+---
+
+**[Ethereum in CRISIS After MASSIVE Crypto Update](https://www.youtube.com/watch?v=l5rNGCFV7oU)**
+
+Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydfi.Bitboy.Deals Telegram Group - Get ...
+
+📺 BitBoy X
+
+👁️ 2K • 👍 192 • ⏱️ 25:41 • 5h ago
 
 ---
 
@@ -274,7 +284,17 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 34K • 👍 2K • 💬 116 • ⏱️ 17:37 • 1d ago
+👁️ 35K • 👍 2K • 💬 117 • ⏱️ 17:37 • 1d ago
+
+---
+
+**[Ethereum Finally REVERSING! (Bitcoin Sets Up MASSIVE 2026 Bull Market)](https://www.youtube.com/watch?v=mq4KoKQqfRE)**
+
+Ethereum is finally showing signs of a major reversal, and the charts suggest this could be the beginning of a powerful momentum ...
+
+📺 Discover Crypto
+
+👁️ 6K • 👍 414 • 💬 98 • ⏱️ 59:34 • 5h ago
 
 ---
 
@@ -284,27 +304,7 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 69K • 👍 2K • 💬 434 • ⏱️ 27:33 • 1d ago
-
----
-
-**[BREAKING : ETH to $22K - Ethereum Fusaka Upgrade!](https://www.youtube.com/watch?v=y_aYcH8fwrQ)**
-
-The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was designed to in ways that improve scalability, ...
-
-📺 Altcoin Buzz
-
-👁️ 1K • 👍 111 • 💬 271 • ⏱️ 9:21 • 8h ago
-
----
-
-**[ETHEREUM MASSIVE BULLISH PATTERN FORMING!!! [TAKE NOTE BEFORE IT&#39;S TOO LATE]](https://www.youtube.com/watch?v=8NyrXJ_eW0A)**
-
-Ethereum ($ETH) is forming a Head and Shoulders Pattern on the larger time frames. This is potentially a very bullish sign and ...
-
-📺 Coin Bureau Trading
-
-👁️ 1K • 👍 109 • 💬 14 • ⏱️ 7:43 • 8h ago
+👁️ 71K • 👍 2K • 💬 442 • ⏱️ 27:33 • 1d ago
 
 ---
 
@@ -314,7 +314,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 12K • 👍 354 • 💬 378 • ⏱️ 15:38 • 16h ago
+👁️ 14K • 👍 373 • 💬 436 • ⏱️ 15:38 • 17h ago
 
 ---
 
@@ -324,7 +324,7 @@ What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get r
 
 📺 Thomas Kralow
 
-👁️ 25K • 👍 3K • 💬 38 • ⏱️ 10:24 • 1d ago
+👁️ 25K • 👍 3K • 💬 39 • ⏱️ 10:24 • 1d ago
 
 ---
 
