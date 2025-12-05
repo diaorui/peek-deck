@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-12-05T05:11:18.273728+00:00",
+  "data": "VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimized for streaming input and long-form generation, achieving first audible speech in ~300ms. It's ideal for building real-time TTS services, narrating live data, and enabling LLMs to speak concurrently with text generation.",
+  "model_id": "microsoft/VibeVoice-Realtime-0.5B"
+}

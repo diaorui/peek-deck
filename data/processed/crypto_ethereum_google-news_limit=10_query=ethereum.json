@@ -75,26 +75,6 @@
       "description": "Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market."
     },
     {
-      "headline": "Ethereum Is Jumping Today-Here's Why",
-      "source": "Nasdaq",
-      "source_url": "https://www.nasdaq.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iWGpldHgyMXZmeGkzdy1WTWtJZXNOQ3BCcjd4czFHMnhCcjNOeHpaLU5NczRXY3FSbng5QlE2OGZWejRGemI0T21tWjNTSnVyYl9ZbEtkMXBDM3pQNEtEUWNOLXcwNXJIS0tQaDNlRGx2QQ?oc=5",
-      "pub_date": 1764791640.0,
-      "article_url": "https://www.nasdaq.com/articles/ethereum-jumping-today-heres-why",
-      "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-      "description": "Key PointsEthereum receives a major update today that should improve its ability to scale."
-    },
-    {
-      "headline": "Bitcoin Vs. Ethereum And The Flippening Lubin Predicts",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbjZNMU41QkJ4RnFsMWw3NU16WjFnelIzd3ZYTXg1VUZEVEFTaVRGVTZUOGFxLU02ZWx2TTZ0ajl4NTlRUHh6YlBqd1NJWFBtVE5mU09aNWxuWk1YMlVsTWJWUkhuMmRYalJJdVB2MEE5eDNkWXMzaWtHTl9hRGkyQ3VaT1Yyd1FxTjFZeDVNMVRYM3dqMWNCdEUtMVpKUk9wVjdTUFg4UnQ1dw?oc=5",
-      "pub_date": 1764682252.0,
-      "article_url": "https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6924b0faa76a662bd7be2f30/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "description": "Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH\u2019s utility loop, Bitcoin\u2019s scarcity, and why money is entering a multi-form future."
-    },
-    {
       "headline": "Why Ethereum Is Gaining Today",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -103,8 +83,28 @@
       "article_url": "https://finance.yahoo.com/news/why-ethereum-gaining-today-204636059.html",
       "image": "https://media.zenfs.com/en/motleyfool.com/310cc4ae9f8db60010a48b0e54aeb4ae",
       "description": "Stablecoin regulation is moving forward."
+    },
+    {
+      "headline": "ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYWo3MHl5UmJrOWR5S2lvNm1YcFhISHNrbGx1T1FnOFpEVGFLMzdGSmxpRHUzV1NfSlo1ek5mcEFBemp5T3NCcFY0UWdUVmxpNnVRaVJKWVdGbTJ0a3Z6cDdPR1oyRGpaV0dIUEdJdDJuY184LWNTOTdjRDUtYmRaQ2ZxOUZCRUotcm1wcVZ3?oc=5",
+      "pub_date": 1764907044.0,
+      "article_url": "https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1176138147/image_1176138147.jpg?io=getty-c-w1536",
+      "description": "Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here."
+    },
+    {
+      "headline": "Ethereum Crashes 45% From $4,950 Peak: Why Layer 2s Are Killing ETH\u2019s Value",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORndpWjVXNHJDQzJfMlA2aFZ0OTRvTVZ0U1lVWXROU3E2Smsza09IOE5Bc2xWSTZGUFVaTXhGbko0ekN3ZjlsUkplOFA2dGRLNXIyekRmNXFUQjRrcXBfWG9qOE4tRzV3UVZuZWtKMDRMWUxsNk10WlNWcndaTGc0cEJfczNEUm96ZmxRQkg5TGNMdmEtTzYwUGE3bWdJcWxUSTR6N2hVcXpwNUJNZ2hHaDN1YXA?oc=5",
+      "pub_date": 1764780355.0,
+      "article_url": "https://247wallst.com/investing/2025/12/03/ethereum-crashes-45-from-4950-peak-why-layer-2s-are-killing-eths-value/",
+      "image": "https://247wallst.com/wp-content/uploads/2025/12/shutterstock-1680257149-huge-licensed-scaled.jpg",
+      "description": "Ethereum crashed 45% from $4,950 as Layer 2s drain mainnet fees and ETF outflows hit $1.4B in November. Can ETH return to its peak in 2026?"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T04:26:35.806270+00:00"
+  "fetched_at": "2025-12-05T05:11:08.870026+00:00"
 }

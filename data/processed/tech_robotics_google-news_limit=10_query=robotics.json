@@ -45,16 +45,6 @@
       "description": "In recent days, reports that the Trump administration is preparing an executive order and broader initiatives to accelerate U.S. robotics development have put Richtech Robotics in the spotlight, alongside news of Commerce Secretary Howard Lutnick meeting with industry CEOs. Richtech Robotics also announced a collaboration with NomadGo to integrate AI into inventory management, highlighting how policy momentum and product innovation are converging around the company\u2019s automation..."
     },
     {
-      "headline": "3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer",
-      "source": "Barchart.com",
-      "source_url": "https://www.barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2FRSlhFd1FTcV9vdGVSSUJSdGdGcTIyQk9fclVjd1NfV0ViNFJmMWJxVVNKdkNMV0c1cVRralNWTklKVFJiWUtnckNKdWk3NUJwMkhUR2tQZVdrYW5wMnFhMndZZFlUb0ZqY1A3LUgzUkpBV0o4SGJPcm1jQUFYTVJ5dVMwdXpDZVdwS0hTck1ibkoyTU5ZaTdMbEItaG9BRGx0Y3gzUFBPTURjdkE?oc=5",
-      "pub_date": 1764874317.0,
-      "article_url": "https://www.barchart.com/story/news/36461441/3-robotics-stocks-to-buy-now-ahead-of-a-white-house-game-changer",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/A%20concept%20image%20of%20space_%20Image%20by%20Canities%20via%20Shutterstock_.jpg",
-      "description": "The Trump administration is pushing for robotics as a critical industry to bring back production to the United States."
-    },
-    {
       "headline": "Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run",
       "source": "Investor's Business Daily",
       "source_url": "https://www.investors.com",
@@ -73,6 +63,16 @@
       "article_url": "https://www.nasdaq.com/articles/robotics-stocks-surged-wednesday-heres-why",
       "image": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
       "description": "Key PointsPresident Trump is reportedly considering signing an executive order in the new year to accelerate the development of robots in the U.S."
+    },
+    {
+      "headline": "3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer",
+      "source": "Barchart.com",
+      "source_url": "https://www.barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2FRSlhFd1FTcV9vdGVSSUJSdGdGcTIyQk9fclVjd1NfV0ViNFJmMWJxVVNKdkNMV0c1cVRralNWTklKVFJiWUtnckNKdWk3NUJwMkhUR2tQZVdrYW5wMnFhMndZZFlUb0ZqY1A3LUgzUkpBV0o4SGJPcm1jQUFYTVJ5dVMwdXpDZVdwS0hTck1ibkoyTU5ZaTdMbEItaG9BRGx0Y3gzUFBPTURjdkE?oc=5",
+      "pub_date": 1764874317.0,
+      "article_url": "https://www.barchart.com/story/news/36461441/3-robotics-stocks-to-buy-now-ahead-of-a-white-house-game-changer",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/A%20concept%20image%20of%20space_%20Image%20by%20Canities%20via%20Shutterstock_.jpg",
+      "description": "The Trump administration is pushing for robotics as a critical industry to bring back production to the United States."
     },
     {
       "headline": "Former Stryker robotics leader named CEO at Olympus\u2019 Swan EndoSurgical robotics play",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T04:26:37.125093+00:00"
+  "fetched_at": "2025-12-05T05:11:09.885530+00:00"
 }
