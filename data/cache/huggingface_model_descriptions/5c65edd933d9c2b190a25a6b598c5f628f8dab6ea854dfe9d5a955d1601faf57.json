@@ -1,0 +1,5 @@
+{
+  "cached_at": "2025-12-05T21:15:20.413138+00:00",
+  "data": "Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.",
+  "model_id": "mistralai/Mistral-Large-3-675B-Instruct-2512"
+}

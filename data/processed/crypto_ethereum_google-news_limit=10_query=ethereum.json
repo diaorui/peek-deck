@@ -89,7 +89,7 @@
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPejNGdTMxbmswLUkwaWk3Y216UXQ2dWluWU0wMk1jNTRJd1Y2b0tfWE5FM3JoUmlzTFJoZExBM3dMZVVLSmp5d0tmeXpLTk9OT3lFa3k4VTlzUjdqckIwZDdHajBKTS1QVUZmT2lJUkUyWTh6aWFJZ2lYaFNRV1pfSNIBiAFBVV95cUxOZ29YM0kzUkVlT1V0dFVQYjJrVjdMZHZocTJTYkNEYjNQMk51dDA4UVlYdnZubVNKYjBKb0tOOWt4cGRXQXNxNUVSYlYyUGtLWG5VWFowVzN4Y1FFblRrQmozdjkwekJsVFAtVDZxby15M1UyVFhYOXZialRvNHVMNzk5UWZhNEtq?oc=5",
-      "pub_date": 1764825052.0,
+      "pub_date": 1764825151.0,
       "article_url": "https://decrypt.co/350883/ethereum-price-swells-as-fusaka-upgrade-goes-live",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-decrypt-style-01-gID_7.png",
       "description": "Fusaka represents what some describe as Ethereum\u2019s first real step into key data sampling and capacity mechanisms it has sought for a decade."
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T20:40:46.793934+00:00"
+  "fetched_at": "2025-12-05T21:15:08.648269+00:00"
 }
