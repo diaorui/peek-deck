@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T11:19:21.513615+00:00'
+updated: '2025-12-05T11:34:39.009566+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- social
 - cryptocurrency
 - news
-- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 11:19 UTC  
+**Last Updated:** December 05, 2025 at 11:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** +5.2%  
-**30d:** -5.2%  
-**90d:** -27.1%  
-**1y:** -21.2%  
+**24h:** -1.8%  
+**7d:** +4.3%  
+**30d:** -6.0%  
+**90d:** -27.8%  
+**1y:** -21.9%  
 
 ---
 
@@ -96,7 +96,7 @@ I had over $123,000 on Nexo, holding NEXO tokens, Platinum status, and I was par
 
 A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 10h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 11h ago
 
 ---
 
@@ -110,13 +110,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[🚀 Ethereum Fusaka is Live: The “Unsung Hero” Upgrade You Need to Know About](https://www.reddit.com/r/ethereum/comments/1pe4hqt/ethereum_fusaka_is_live_the_unsung_hero_upgrade/)**
 
-🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 18h ago
+🔗 [vamshi.medium.com](https://vamshi.medium.com/ethereum-fusaka-is-live-the-unsung-hero-upgrade-you-need-to-know-about-40d8ca39bce2) • 19h ago
 
 ---
 
 **[Sony launches Stablecoin! 🎮 USDSC lists on Ethereum L2!](https://www.reddit.com/r/ethereum/comments/1pdxj1w/sony_launches_stablecoin_usdsc_lists_on_ethereum/)**
 
-🔗 [ecency.com](https://ecency.com/@pichat/sony-launches-stablecoin-usdsc-lists-on-ethereum-l2-9sh) • 23h ago
+🔗 [ecency.com](https://ecency.com/@pichat/sony-launches-stablecoin-usdsc-lists-on-ethereum-l2-9sh) • 1d ago
 
 ---
 
@@ -246,7 +246,7 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 25K • 👍 2K • 💬 109 • ⏱️ 17:37 • 17h ago
+👁️ 25K • 👍 2K • 💬 109 • ⏱️ 17:37 • 18h ago
 
 ---
 
@@ -266,7 +266,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 3K • 👍 308 • 💬 96 • ⏱️ 31:23 • 1h ago
+👁️ 3K • 👍 308 • 💬 96 • ⏱️ 31:23 • 2h ago
 
 ---
 
@@ -316,7 +316,7 @@ The Ethereum network has fundamentally changed as of December 3rd. In this deep 
 
 📺 Wall Street Stockcast
 
-👁️ 4K • 👍 122 • 💬 17 • ⏱️ 10:55 • 19h ago
+👁️ 4K • 👍 122 • 💬 17 • ⏱️ 10:55 • 20h ago
 
 ---
 

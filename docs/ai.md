@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T11:19:21.499181+00:00'
+updated: '2025-12-05T11:34:38.995134+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - social
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 11:19 UTC  
+**Last Updated:** December 05, 2025 at 11:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -83,7 +83,7 @@ Micron has confirmed that it is exiting the Crucial consumer business so it can 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/HoDQPmPJkAk?si=7l6pfGjQNMtu7V4_) • 15m ago
+🔗 [youtube.com](https://youtube.com/shorts/HoDQPmPJkAk?si=7l6pfGjQNMtu7V4_) • 30m ago
 
 ---
 
@@ -99,7 +99,7 @@ Our RAG stack degraded slowly over months. Text-shape differences created differ
 
 The U.S. Department of Health and Human Services has outlined a new strategy to expand its use of artificial intelligence.
 
-🔗 [AP News](https://apnews.com/article/hhs-rfk-jr-health-ai-trump-4b4e2dd2e26105310c58c75c6df17b08) • 12h ago
+🔗 [AP News](https://apnews.com/article/hhs-rfk-jr-health-ai-trump-4b4e2dd2e26105310c58c75c6df17b08) • 13h ago
 
 ---
 
@@ -125,7 +125,7 @@ Fortune • 19h ago
 
 **[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
 
-The Economist • 23h ago
+The Economist • 1d ago
 
 ---
 
@@ -133,7 +133,7 @@ The Economist • 23h ago
 
 The Taiwanese company has increasingly moved into the AI infrastructure space in recent times
 
-CNBC • 37m ago
+CNBC • 53m ago
 
 ---
 
@@ -145,7 +145,7 @@ Axios • 1h ago
 
 **[AI bubble to be short-lived, rebound stronger, NTT DATA chief says](https://www.reuters.com/world/asia-pacific/ai-bubble-be-short-lived-rebound-stronger-ntt-data-chief-says-2025-12-05/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Reuters • 1h ago
 
 Mentions of an "AI bubble" surged 740% this quarter, appearing in 42 earnings calls and investor conferences as executives fielded the same question.
 
-Business Insider • 49m ago
+Business Insider • 1h ago
 
 ---
 
@@ -241,7 +241,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 408 • 💬 305 • 19h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 408 • 💬 305 • 20h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -265,7 +265,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 187 • 💬 84 • 12h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 187 • 💬 84 • 13h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -359,7 +359,7 @@ Can Kling O1 beat Google's Nano Banana in cinematic storytelling? Two major upda
 
 📺 AI Video School
 
-👁️ 9K • 👍 542 • 💬 38 • ⏱️ 12:26 • 19h ago
+👁️ 9K • 👍 542 • 💬 38 • ⏱️ 12:26 • 20h ago
 
 ---
 

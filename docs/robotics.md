@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T11:19:21.516859+00:00'
+updated: '2025-12-05T11:34:39.012767+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 11:19 UTC  
+**Last Updated:** December 05, 2025 at 11:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is the Volonaut Airbike, a prototype by Polish inventor Tomasz Patan. Mechanism: Jet-powered vertical take-off and landing (VTOL). Control: Uses an advanced stabilization system to assist the rider's balance during precision maneuvers. Specs: Carbon fiber frame (30kg), top speed ~100km/h (capped) and flight time ~10 mins. Source: Volonaut 🔗 : https://youtu.be/4b0Laxsj_z0?si=8loRPWJWr4v622ii
 
-1h ago
+2h ago
 
 ---
 
@@ -62,7 +62,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[PLA logistics brigade member delivering supplies to frontline positions with the new standard passive exoskeleton during combat training.](https://www.reddit.com/r/robotics/comments/1pen0qf/pla_logistics_brigade_member_delivering_supplies/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -78,7 +78,7 @@ Marc Raibert talks about how robotics demos usually show only the polished succe
 
 Since 10 years ago, I have been thinking about the following question in my spare time, mostly as an intellectual challenge just for fun: if you are an engineer tasked to design the visual system of an organism, what would you do? This question is too big, so I worked one small step at a time and see how far I can get. I have summarized my decade journey in the following note: https://arxiv.org/abs/2210.13004 Probably the most interesting part is the last part of the note where I proposed a loss function to learn image patches representation using unsupervised learning. The learned representation is a natural binary vector, rather than typical real vectors or binary vectors from quantization of real vectors. Very preliminary experiments show that it is much more efficient than the representation learned by CNN using supervised learning. Practically, I’m thinking this could be used as an image/video tokenizer for LLMs or related models. However, due to growing family responsibilities, I now have less time to pursue this line of research as a hobby. So I’m posting it here in case anyone finds it interesting or useful.
 
-4h ago
+5h ago
 
 ---
 
@@ -100,7 +100,7 @@ Humanoid robotics is getting cheaper, smarter, and a lot more capable at moving 
 
 **[Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:](https://www.reddit.com/r/robotics/comments/1pdxo1t/here_is_an_apples_to_apples_comparison_video_of/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -126,7 +126,7 @@ IEEE Spectrum • 1d ago
 
 Defense forces "want a hundred percent reliability and the AI is just not there," Ark Robotics' founder and CEO told Business Insider.
 
-Business Insider • 34m ago
+Business Insider • 49m ago
 
 ---
 
@@ -250,7 +250,7 @@ Pure-play robotics stock Symbotic (SYM) has had a wild ride in 2025, soaring to 
 
 📺 Sydney McKenna
 
-👁️ 11K • 👍 1K • 💬 91 • ⏱️ 1:00 • 19h ago
+👁️ 11K • 👍 1K • 💬 91 • ⏱️ 1:00 • 20h ago
 
 ---
 
