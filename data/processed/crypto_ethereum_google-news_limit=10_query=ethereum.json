@@ -25,16 +25,6 @@
       "description": null
     },
     {
-      "headline": "Tom Lee Claims Ethereum Will Hit $62,000 in Next Few Months, Ramps up Bitcoin Call to $250,000",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xbHBCQXh0RXRuM0tPWVRDZjZHZlpMancwZXlMaUxKc0RJR1piZkpkejdaTHFwN3NJZUR1bXhMOUNKX1RwQU1tOV8zQmtXbGMtRnJySzF2QUo1WElVNGZrWkpNNlJQOEJMT1VuMV9lVUt5ZXpLQUZQZXNwN2VlQQ?oc=5",
-      "pub_date": 1764935534.0,
-      "article_url": "https://finance.yahoo.com/news/tom-lee-claims-ethereum-hit-115214887.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Rbn04qF5k5kK..T54hka3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/881e692bb476dc63d3193d71a945d4fe",
-      "description": "Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ..."
-    },
-    {
       "headline": "Bitmine stock jumps 15% as Tom Lee scoops up $150m more Ethereum",
       "source": "dlnews.com",
       "source_url": "https://www.dlnews.com",
@@ -53,6 +43,16 @@
       "article_url": "https://www.theblock.co/post/381302/bitmine-150-million-eth",
       "image": null,
       "description": null
+    },
+    {
+      "headline": "Tom Lee Claims Ethereum Will Hit $62,000 in Next Few Months, Ramps up Bitcoin Call to $250,000",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xbHBCQXh0RXRuM0tPWVRDZjZHZlpMancwZXlMaUxKc0RJR1piZkpkejdaTHFwN3NJZUR1bXhMOUNKX1RwQU1tOV8zQmtXbGMtRnJySzF2QUo1WElVNGZrWkpNNlJQOEJMT1VuMV9lVUt5ZXpLQUZQZXNwN2VlQQ?oc=5",
+      "pub_date": 1764935534.0,
+      "article_url": "https://finance.yahoo.com/news/tom-lee-claims-ethereum-hit-115214887.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Rbn04qF5k5kK..T54hka3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/ccn_928/881e692bb476dc63d3193d71a945d4fe",
+      "description": "Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ..."
     },
     {
       "headline": "ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)",
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T16:20:35.628750+00:00"
+  "fetched_at": "2025-12-05T17:01:06.119166+00:00"
 }
