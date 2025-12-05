@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T09:52:17.584323+00:00'
+updated: '2025-12-05T10:14:58.123420+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 09:52 UTC  
+**Last Updated:** December 05, 2025 at 10:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** +0.4%  
-**30d:** -10.0%  
-**90d:** -18.1%  
-**1y:** -8.5%  
+**24h:** -1.5%  
+**7d:** +0.6%  
+**30d:** -9.9%  
+**90d:** -18.0%  
+**1y:** -8.4%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Im only up 3000% now
 
-7h ago
+8h ago
 
 ---
 
@@ -95,13 +95,13 @@ Im only up 3000% now
 
 💀
 
-19h ago
+20h ago
 
 ---
 
 **[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -113,7 +113,7 @@ Im only up 3000% now
 
 **[Bitcoin in 2025](https://www.reddit.com/r/Bitcoin/comments/1pe1yxx/bitcoin_in_2025/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -121,7 +121,7 @@ Im only up 3000% now
 
 Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our entire crypto journey wouldn’t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. 🚀
 
-17h ago
+18h ago
 
 ---
 
@@ -175,7 +175,7 @@ Bloomberg.com • 2d ago
 
 Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 18h ago
 
 BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -215,13 +215,13 @@ Yahoo Finance • 2h ago
 
 Regulators in Washington on Thursday cleared a major step that lets Americans trade spot Bitcoin and other cryptocurrencies on federally registered exchanges for the first time.According to the Commodity Futures Trading Commission, listed spot crypto products may now be offered on exchanges registe…
 
-TradingView • 51m ago
+TradingView • 1h ago
 
 ---
 
 **[Those Sky-High Bitcoin Prices Everyone Said Were Here to Stay? They Left.](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
 
-The New York Times • 1d ago
+The New York Times • 2d ago
 
 ---
 
@@ -247,7 +247,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 **[Bitcoin's Sky-High Prices Have Not Panned Out](https://news.ycombinator.com/item?id=46132636)**
 
-⬆️ 3 • 💬 2 • 1d ago • [nytimes.com](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)
+⬆️ 3 • 💬 2 • 2d ago • [nytimes.com](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)
 
 ---
 
@@ -311,7 +311,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 232 • ⏱️ 23:27 • 8h ago
+👁️ 28K • 👍 2K • 💬 232 • ⏱️ 23:27 • 9h ago
 
 ---
 
@@ -331,7 +331,7 @@ Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break dow
 
 📺 Anthony Pompliano
 
-👁️ 17K • 👍 669 • 💬 1 • ⏱️ 28:20 • 11h ago
+👁️ 17K • 👍 669 • 💬 1 • ⏱️ 28:20 • 12h ago
 
 ---
 
@@ -341,7 +341,7 @@ Platform I Trade on http://ckenny.com/joinBC Free Strategy Course https://ckenny
 
 📺 Conor Kenny
 
-👁️ 5K • 👍 475 • 💬 196 • ⏱️ 22:03 • 3h ago
+👁️ 5K • 👍 475 • 💬 196 • ⏱️ 22:03 • 4h ago
 
 ---
 
@@ -381,7 +381,7 @@ Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (
 
 📺 MegaWhale Crypto
 
-👁️ 4K • 👍 325 • 💬 174 • ⏱️ 20:47 • 8h ago
+👁️ 4K • 👍 325 • 💬 174 • ⏱️ 20:47 • 9h ago
 
 ---
 
@@ -401,7 +401,7 @@ Bitcoin #Crypto #Finance The Federal Reserve has officially ended quantitative t
 
 📺 The Wolf Of All Streets
 
-👁️ 24K • 👍 898 • 💬 318 • ⏱️ 35:57 • 18h ago
+👁️ 24K • 👍 898 • 💬 318 • ⏱️ 35:57 • 19h ago
 
 ---
 

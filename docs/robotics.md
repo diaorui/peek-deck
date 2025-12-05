@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T09:52:17.593728+00:00'
+updated: '2025-12-05T10:14:58.132784+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 09:52 UTC  
+**Last Updated:** December 05, 2025 at 10:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Art installation draws attention for its robot dogs with famous faces](https://www.reddit.com/r/robotics/comments/1pe56c3/art_installation_draws_attention_for_its_robot/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 7h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 8h ago
 
 ---
 
@@ -50,7 +50,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 This is the Volonaut Airbike, a prototype by Polish inventor Tomasz Patan. Mechanism: Jet-powered vertical take-off and landing (VTOL). Control: Uses an advanced stabilization system to assist the rider's balance during precision maneuvers. Specs: Carbon fiber frame (30kg), top speed ~100km/h (capped) and flight time ~10 mins. Source: Volonaut 🔗 : https://youtu.be/4b0Laxsj_z0?si=8loRPWJWr4v622ii
 
-18m ago
+40m ago
 
 ---
 
@@ -62,7 +62,7 @@ This is the Volonaut Airbike, a prototype by Polish inventor Tomasz Patan. Mecha
 
 **[Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.](https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -70,7 +70,7 @@ This is the Volonaut Airbike, a prototype by Polish inventor Tomasz Patan. Mecha
 
 Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin.
 
-13h ago
+14h ago
 
 ---
 
@@ -86,7 +86,7 @@ Since 10 years ago, I have been thinking about the following question in my spar
 
 A world tour of today’s most advanced humanoid robots and their capabilities.
 
-13m ago
+35m ago
 
 ---
 
@@ -94,7 +94,7 @@ A world tour of today’s most advanced humanoid robots and their capabilities.
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/nzflxCHT4vw?si=-5HRhvsVT8sEiVIO) • 53m ago
+🔗 [youtu.be](https://youtu.be/nzflxCHT4vw?si=-5HRhvsVT8sEiVIO) • 1h ago
 
 ---
 
@@ -142,7 +142,7 @@ CBS News • 12h ago
 
 **[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
 
 ---
 
@@ -174,7 +174,7 @@ Bessemer Venture Partners • 2d ago
 
 Serve Robotics is a lesser-known play on Trump’s emerging pro‑robotics agenda, pairing triple‑digit revenue growth, expanding partnerships, and strong cash reserves.
 
-Barchart.com • 12h ago
+Barchart.com • 13h ago
 
 ---
 
@@ -182,7 +182,7 @@ Barchart.com • 12h ago
 
 Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
 
-MLive.com • 13h ago
+MLive.com • 14h ago
 
 ---
 
@@ -244,7 +244,7 @@ Pure-play robotics stock Symbotic (SYM) has had a wild ride in 2025, soaring to 
 
 📺 Chip Stock Investor
 
-👁️ 3K • 👍 139 • 💬 7 • ⏱️ 14:23 • 18h ago
+👁️ 3K • 👍 139 • 💬 7 • ⏱️ 14:23 • 19h ago
 
 ---
 
