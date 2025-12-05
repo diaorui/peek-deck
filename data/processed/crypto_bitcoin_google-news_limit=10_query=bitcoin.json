@@ -5,34 +5,24 @@
   "search_query": "bitcoin",
   "articles": [
     {
-      "headline": "BTC price: Bitcoin is seeing a trend that hasn't happened since 2014. Here's why crypto markets are so unusual right now",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR2otOUEwVVVMUVc4VUZpYWRGYWxteWFnbXpEZEM2R2VqcUxhVG4tbmxMYWFjR3dzUGdIMHdHS1dOV1RnRkh4X0RieVh0UkNtQmFPN2txa3hWeXRMYWswSWRzN3NFcmZQLVZWc0VEeEJxX1hNaFV1aWNRWlZGQTEySml5Y1dodEhEQk9ENkhUOG1pVDJRbDRTVGZlYk4yYnZVTmkwbmRBS1FQUFpxWUVMcThoSk4ySndBZnFVdWZINENWckF6SWZWNXRYdUN1U1FZQTlwdFNlZlk0V21HQnpuYjJJZDBwUXNLQXEtRmZaNnNRc2c?oc=5",
-      "pub_date": 1764958924.0,
-      "article_url": "https://www.fastcompany.com/91455649/bitcoin-btc-price-crypto-market-splitting-off-stock-market-trend-hasnt-happened-since-2014-why-markets-are-unusual-right-now",
+      "headline": "Bitcoin Is Set for First Yearly Split From Stocks in a Decade",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0FxY2xJOEhqZlpPcXhpMGNLeVNETW82SzZrb3pnUzV1aWhtd3BSZUhjS0lnQXRMMkw4OVNXcDJKcWExdm1wZmhsS1luSF84TnlRUHpVYXEtVDJTWGZValBIY2xkRzFmUDZjcW1FZDM5OW04T2RmamF6V09nRmstZGVFejNXTVd1WWhKdUZDNFVhZHp4Y1pLT0lhdUc1bXR2Y2h2S1FZbUl5THhWY1pqNDNtRlk?oc=5",
+      "pub_date": 1764953942.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-is-breaking-from-stock-rally-for-first-time-in-a-decade",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irr5w8CCs0i8/v0/1200x800.jpg",
+      "description": "The S&amp;P 500 has climbed more than 16% in 2025, while Bitcoin is down 3% \u2014 the first time since 2014 that stocks have rallied while the token is down, according to data compiled by Bloomberg."
+    },
+    {
+      "headline": "Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNU3ZrY18ya2hmcVRQOHlkQUtoR2tZQWEwMVZIQWFIOXliSkt1Ym4zUW5kOC1MQ1NTbDU5MUkxQmZYWDVZYUdKNlRlVkdodjBkbDd1LXh6cDB3VGtac3FEY29CYTZOejlXV24tOGR2ejhkaGROR1FJMlZQTHV2ekNqcmR4THJJZ1RMRmdKUjRDME8zV1NmMWhSX1R2aUN2YlhMeU9DS2Rva3hTMDU0a1FXX0FQNVdyU2xaSURDZG9yRTZsVU1TUDJoWm9sR3hiVFpWZUpTcDZnR2NBODJIdEo5N1FCZ0o4WC1sa3ZPdHB0UnhDTGpuS3lJRkxsSV8zelprV2FiSlJoZmF3bHF0WWRwcHN0X2VZRjI4ZlFNZTNQZ3JQTXZod1hRaEFVX2tHTzVYbkRQZDAzRDBCRDM0SVVFblNlb2ZVMlE2M1FiUUFvamw4aENqb0dmellFOTQyU0luZHB1bnlSd3FtUm40amVQQ0lFQmNXN2Y4N2c?oc=5",
+      "pub_date": 1764770640.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqd-NumkNWAvS02o4mPZ_mPhE28xyUaZCPe_VQj_k2e3xv6F39pP88FC&gaa_ts=69336a91&gaa_sig=zdPLlIEJ0E_ujc4aMFCABqAQeFtz6Be0LrfzVutqFICzscfcybL3QxX-wCy6Moj4lWWDIOSNxGdbtXu8Oqcn9A%3D%3D",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Solana, XRP, ETH Extend Losses as Bitcoin\u2019s $91K Support Back in Focus",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGNEWTVoNVk4ZDl6NTIwOTJJTWhPRXdHZWZVYkkxX0ZOOF9sSEtZRUUwc0wwTk5iRnpEOWZWUmk1ejFhem5xRWVoRTV3UUlreGVlaHhDUXAwdFphQ1BJaU5ZZnlxS185RmZfNng2VjUycFVJZ3VhRGZRSDFuYnpDNzN6N0ExT1RfLWRDQlFjUnBYcmw2Ml9vSThBdXpEazh0RjR5c2h2cElYY09ENFl5MEJTQ3c?oc=5",
-      "pub_date": 1764914321.0,
-      "article_url": "https://www.coindesk.com/markets/2025/12/05/solana-xrp-eth-extend-losses-as-bitcoin-s-usd91k-support-back-in-focus",
-      "image": "https://cdn.sanity.io/images/s3y3vcno/production/181148f5c39f60293705e8d02619029fe9b70222-1280x914.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg",
-      "description": "The one-month chart shows BTC still locked inside a descending structure from early November\u2019s highs, with the latest rebound producing another lower high."
-    },
-    {
-      "headline": "Bitcoin down for 2025 while S&P 500 is up \u2014 a first since 2014",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqQ3VCMXctTGhvRUFGQnp1S29xVFdVUThzenR3Wk5hdVdsN19LMWFmRDNGU3RtVzdyRHZYaGVGNUhLd2pPMTRIc1phNUJKMFhWb256S3hJMEM4UXE4OWZtQnJ3Y2ZEeDRDN3BreExZa2c5SG5RYWZ1OHhGQkM?oc=5",
-      "pub_date": 1764971741.0,
-      "article_url": "https://finance.yahoo.com/video/bitcoin-down-2025-while-p-215541104.html",
-      "image": "https://s.yimg.com/ny/api/res/1.2/dA57ZVW0mBHwzHhJPiJrbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/d5571df0-d223-11f0-96ff-d053e8bf63fc",
-      "description": "Bitcoin (BTC-USD) is on track to record a yearly decline for 2025, while the S&P 500 (^GSPC) sees gains for the same period. This would mark the first split in crypto and equity performance since 2014, according to Bloomberg. Yahoo Finance Senior Reporter Ines Ferr\u00e9 examines the phenomenon and how precious metal prices (GC=F, SI=F) play a part. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime."
     },
     {
       "headline": "Bitcoin has plunged. Strategy Inc is an early victim",
@@ -65,6 +55,16 @@
       "description": "A rule change could force Saylor's company to sell some of its $650 billion holdings\u2014but crypto veterans say Strategy will be just fine."
     },
     {
+      "headline": "Bitcoin is down nearly 30% from its record high \u2014 history shows that's normal",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSEJ2RTlPdVN0dFI0OHdRNnNXVHNoM0lOYnhEcEhwZzhBaFVJVUZoemNMQTlGd0FRQUthRUg3R1A2Qk9hUjF2YjQ3QkhnTnZlWmQzUkI3VzlwZUtuaVRwODNVRHdtZGJ4MHI0RjFuU3h4eU1CakdWRXZKZWZhQTk4cEs5WnhhZ0VpcHNEMDRuY2tkc2RNZmtYeW5CU1hSNjd5UWx6WFpnZmJxNDRYYlJ30gG0AUFVX3lxTE96c3dMRGlhdDBZUlZsaUxjbExCeFpJcDFLVmxzQVRKWjltRU41YWNZenA2cGVwaHEyMXJha3AySjVod1BpMG1QN1V5Tzd4cWlnejZSNVpJOGN3Y1M2bVQ3dnVDQjh2OGQ2TUprR21PR0x3X2MxS0FGZkVoVXY1RDdhTXd2N3M2T1VQMTVMZ0RrT0tJQUhKRGtzWjFkYnQ4TWxJc3hNUmxMN1pTUVc0WmhsVXdGaA?oc=5",
+      "pub_date": 1764847662.0,
+      "article_url": "https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108235234-1764690993224-gettyimages-2247341381-AFP_84UC93G.jpeg?v=1764691074&w=1920&h=1080",
+      "description": "In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger."
+    },
+    {
       "headline": "Bitcoin\u2019s Predicted Sky-High Prices Have Not Panned Out",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -75,36 +75,36 @@
       "description": null
     },
     {
-      "headline": "BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTdZWU9ZcTloV3RIeW44R3E2aUNYUmFUX3NnUEZ3Uzk0c3ZRdldRakIxbHRrX2JmYk5TX1ZQYW1rYkg1YXlNeVMyRTdWcWllblJsRllkNi1GT0Q4V0FtSkd0bkM1T21rVk1ka2p5Rmx5QkZUd2tBWHBZYkE2bHJvOGc1U3c2UUZhNk96X1hEb3VLVUpfckJiOVBqZHVyT3BGb2liM2hvd2tZNl9tMjktQk1Xd2FHSDd3M2sxbnd1czk?oc=5",
-      "pub_date": 1764949677.0,
-      "article_url": "https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imggtXTZHkQE/v0/1200x800.jpg",
-      "description": "BlackRock Inc.\u2019s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world\u2019s largest cryptocurrency remains subdued even as prices stabilize."
+      "headline": "With bitcoin down to around $92,000, should you rethink how much crypto to own? Here\u2019s what experts say.",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxQb25TVVdlM0Zyb1ZQR25tb1pvMFpNNVYzU0tBS3NNRWx5MmpVcEppRlFOY3R5VnNFX3AwQk43QkJnN0tmMEF6em0tMDk5elZhMDdFVnk4N3ctRV9CYWFvLWhHaWhXa0MyMGdMLWpWQTBfbmVuNXR6M1NPRnlfOHRsMmlhdGVtMGNRTDRERVpqOWhyaDFOMktHUU5VZkVDcWhEcGJWZlB4eTFjejl6T2ZpMWc1MVlYTXZBdC1nS2p0aHdPM0M0OUpjaXN0U0M5cjlmMzVFTjhNZ1JZNGVBWnNoamdwMUVwUUx2S2Fyd1VvZllpbU9LRUpndGNDMkFVcEJuYVF5djFOdjZsTFNZUnlJeXl5LUMxQ285N1RwZGVJdy1aWGVnV2UzMnhHVl9ucXRJcy0waDB5aGJteDJVb0ZKc1hnQWtMYTM3OC1NMnEySU9tOGF1bWhIaHN0RHhjb2lmanp5OWg2VHNQYkI0QTdpLURRdHhWQ3B2a3VNdzhBc04yaVRXTTZKeXd3dGVudm9ZbXFIWi1OLS1GNFcyTGRIeEVlSEl6QkxnMTREb0ctNnYwYXctZlBRU0hkMU9CY0ludjczalhMZmJfMWNIOEJSaHQ1ZVN4WkFEUmZCMFMwOA?oc=5",
+      "pub_date": 1764880980.0,
+      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqdCOUtKg4EiDnWboNV9kkH9sbEmjojQGOqudb55EnsHjSUkOLZgPNu2&gaa_ts=69336a91&gaa_sig=fcAFVSai4LPrxw6vNpXvLG6Uk1I59tSczA28StPKbF0gdRmyJMYdYudYUxxiuH3vpdx9T_9qOpUGIFeWfiSHsg%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Harvard\u2019s Big Wager on Bitcoin Came Right Before the Bust",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPbUNudnd1SlZYUXpTeXh2YkFXX19nS2FCV2RvcVl3OUtVejhNR1AyT2M1LTduaFcxbWdOdDlORmJyM0VMUWU1YlY2TTNMUWFXc3A5YXZXUUhfemo2YnQzdFFybE15RFRBUk92UHppZDZRQk1IbWs2WjVOZ0MxcUNLZGRHRlZIS1NfaUt5aFhwSUJVbEg3NjNqZHlKS1FYcGhLRU5COEkxOUVoc01rSmJQWlEwVHh0X1JaeTF4djdLUjdpY19PSWdLbkxRQ00tTzJNYWFjclNWWXdocktCbElRM19vUk1NSUVPaWFVWTFrd3dXTDdoOWFHX0xMd0w0TmN5YVkzTDYwbGxZcDZzQjUySWw1X3RHTHZ5TkxZQVk0VldQakZuUmZTckRiLXVJc1M5NEc5VF80OXdZdUF1VThhMWhsUDRkNlBwOEI3VEQwQWxWUVdvVUczckpRc0pEdDAtYWtmb3RyREdaVWhfOWxzLU54OFN3X1NCY0xKaUhuRFhVSjVObWdBUGVaTjZNaHRWN1c0eGxNZjl4TWo0aDNVYUx2UVlPLVFpU0pZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOdnRqclZsc1QxVTlKYl9qcndGbjY1aDhzX1cwOGF0Smc5SURhV2R1Szh6dm45UzFuRlpqRGFVcHE4cEhZZUpEdkhRaWRjakhRZjRTUmZ0YWdzbTlGaUtMQkVZcUJxQmFNaE9VQlI2RURNRHBDQ3VTcXNraFNDbzNCd2pWQ0tNRk5BVHlLWE9Ra3RiVGxwSHZhdnVEQnM5MjhrbzVUY2I5SUVpWjQ2VXZ4emdmellrb0t5aVRydlFKZVhsaU5KVlVTb0FCTXo3QlBURFliZjVSdUZuc2VJLWVtQl91NmV0d1NEQkE0VnFVaVh2LUg2TnFpTkxoUFJmSzdQQktmVmpySHRZWm5JVFU0alB1cmg4UndwWGt0WkhKT2pncVdTTVVRUy1abkJBenBUSWIyeTVIb2xUdERQR1llQjNxc21DNi0xdHhjMV90SUlFSmktTFNHOXZqdWZrcW5mcjZZN1RTUGxHdEVLTHpkTi14a0tYd2pBMnVKSl9CNlhxcHA4NzVDLU5HNkdkR18tazZtN1JDQnFWcVU2MTFaQlZyVzNycHNfSWhn?oc=5",
       "pub_date": 1764716700.0,
-      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqcRcw2q-x341elCFusAuP2rM-QbatBb7-jKUYYSYhELWgAwGHpTFTfX&gaa_ts=69336301&gaa_sig=lmhncs3NPH7a6pH9SQvJklfIKrIBmCUbcgBawr5uhvycwtruDEV3yKCw0tU88AlCpE7cMjtuqGh8B8vUHBcKXg%3D%3D",
+      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqdbo-15c63H4ur2UckjD5eE8u4nJTx2mWKQe6wE94AfYuVmwZrPEYlH&gaa_ts=69336a91&gaa_sig=FFo4Y-HBK2g8h9MF6oSsMzRWK_t6Qy0pTZDgHW0jgFItkZL_WdoJvTKHJDc5Y9ruSk_0vL2VaL9f9nZwgpSupQ%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Spot bitcoin ETFs see $195 million exit, largest daily outflow in 2 weeks",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5naTlSRjhHRTRtaHZybGpPRjdURWFjaEVyVnYzTm5RX3hZUVpQa1B0WWwxYmU4Tm9sMUdKVkFBdU5XNDUtWmJVbXpISmd1ck9oQmxHajdWbTJsc0lWNFNZb2kwZi0wbExOOVFlaWNpNVBVdzRpZllCQVloWDJZYnPSAYQBQVVfeXFMTk1qdkJBeG1Kajd0OFN6VjhWeVNGeWhTUWFnYmdoS0s5R1o2dG95aUpidkh6eWFINDNSd09Db3BOS0lpbFlOSkV6VkRjYUxIQkd3Nm15SVVwTzNGYjUwbjhBbmt4bVZLZ19Dc0ZCRkg1QTZDYzF3LXBOa3dGNWN6Mmk5RWRQ?oc=5",
-      "pub_date": 1764916938.0,
-      "article_url": "https://www.theblock.co/post/381473/spot-bitcoin-etfs-see-195-million-exit",
+      "headline": "Bitcoin price today: slides to $90k ahead of PCE inflation, potential Fed cut",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWDlZb1pnZnpnWm4tZmRaNVdJd0R5Sk9hblNoaGMzWUM0YVJnMHJmNGpNeFY2eW8wYnBxRy1ZSDNEVGNMLWtpbHFsTmt5czEtdVhyMmtrM0ZPYXhrdEdFT1lEQ3REYzhaU0kyczlEQWt4bjNWVjE4WUJXaExJaURGczhWMnZsNElJS0N6Q0daYmVHaENyeFRpLU1VWG9sTEEzdmJGNDE0cmdDVWUzV2F3XzdyZEZMWk00OXJnUWdCcDhZdGdEbjZpSzJhRQ?oc=5",
+      "pub_date": 1764946945.0,
+      "article_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-dips-to-92k-ahead-of-pce-inflation-potential-fed-cut-4392545",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-05T22:41:22.030226+00:00"
+  "fetched_at": "2025-12-05T23:13:46.040009+00:00"
 }

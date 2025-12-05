@@ -35,17 +35,6 @@
       "description": "An AI image generator startup\u2019s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been \u201cnudified.\u201d"
     },
     {
-      "title": "Western AI lead over China is now measured in months not years.",
-      "author": "Ridwann",
-      "url": "https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/",
-      "published": 1764968286.0,
-      "thumbnail": "https://external-preview.redd.it/aHNvdjRkenE4ZzVnMSb3FzvIvlDjiaI7P7wBfTAk-3pjJCXvFZQFOLtDj28X.png?width=640&crop=smart&auto=webp&s=8e2e3fa91400b8c05394b12f54ed57ea73b2f74c",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Using AI as a \"blandness detector\" instead of a content generator",
       "author": "NickQuick",
       "url": "https://www.reddit.com/r/artificial/comments/1pf6ca7/using_ai_as_a_blandness_detector_instead_of_a/",
@@ -79,6 +68,17 @@
       "description": "I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more \"natural\" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an \"instrumental\" file and used ffmpeg to add both the \"Guy\" and \"instrumental\" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time."
     },
     {
+      "title": "Western AI lead over China is now measured in months not years.",
+      "author": "Ridwann",
+      "url": "https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/",
+      "published": 1764968286.0,
+      "thumbnail": "https://external-preview.redd.it/aHNvdjRkenE4ZzVnMSb3FzvIvlDjiaI7P7wBfTAk-3pjJCXvFZQFOLtDj28X.png?width=640&crop=smart&auto=webp&s=8e2e3fa91400b8c05394b12f54ed57ea73b2f74c",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
+    },
+    {
       "title": "This guy built an AI for your ear that you talk to and it literally changes what you hear",
       "author": "Ridwann",
       "url": "https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/",
@@ -90,6 +90,17 @@
       "description": null
     },
     {
+      "title": "AMD CEO Lisa Su \u201cemphatically\u201d rejects talk of an AI bubble \u2014 says claims are \"somewhat overstated\u201d and that AI is still in its infancy | AMD CEO says long-term demand for compute will justify today\u2019s rapid data-center buildout.",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1pf9pl1/amd_ceo_lisa_su_emphatically_rejects_talk_of_an/",
+      "published": 1764976270.0,
+      "thumbnail": "https://external-preview.redd.it/ohU06GojEYazGS37oCMcPqePnpYt-c6hRIXWP5UY3PE.jpeg?width=640&crop=smart&auto=webp&s=f5eb55d1bbfd2e69b5d7bc1fc005100ff3bac89c",
+      "external_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event",
+      "site_name": "Tom's Hardware",
+      "favicon": "https://vanilla.futurecdn.net/tomshardware/1490877/apple-touch-icon.png",
+      "description": "AMD CEO says long-term demand for compute will justify today\u2019s rapid data-center buildout."
+    },
+    {
       "title": "Florida teacher who used AI to make child pornography of students gets 135-year sentence",
       "author": "Fcking_Chuck",
       "url": "https://www.reddit.com/r/artificial/comments/1pe9v98/florida_teacher_who_used_ai_to_make_child/",
@@ -99,18 +110,7 @@
       "site_name": "wfla.com",
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "AI Updates for Week of 12/5/25",
-      "author": "anniecushing",
-      "url": "https://www.reddit.com/r/artificial/comments/1pex9pa/ai_updates_for_week_of_12525/",
-      "published": 1764946842.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "AI highlights for the week of 12/5/25: 12/4 EU investigating Meta over policy change that bans rival AI chatbots from WhatsApp: The European Commission said it is launching an antitrust investigation into Meta\u2019s move to ban other AI companies from using WhatsApp\u2019s business tools to offer their own AI chatbots to users on the app. 12/4 OpenAI loses battle to keep ChatGPT logs secret in copyright case: OpenAI must produce millions of anonymized chat logs from ChatGPT users in its high-stakes copyright dispute with the New York Times and other news outlets, a federal judge in Manhattan ruled. 12/3 Leak: Anthropic hires lawyers as it preps for IPO: Anthropic is reportedly prepping for an IPO that could come as early as 2026, the FT reports. 12/2 Amazon releases a new AI chip: AWS just introduced a new version known as Trainium3 and launch its new Trainium3 UltraServer. 12/2 Anthropic acquires developer tool startup Bun to scale AI coding: Bun is expected to help Anthropic scale its code\u2011generation tool Claude Code, which reached an annualized revenue run rate of $1 billion since its launch earlier this year. 12/2 OpenAI slammed for app suggestions that looked like ads: ChatGPT\u2019s unwelcome suggestion for a Peloton app during a conversation led to some backlash from OpenAI customers. 12/2 Mistral launches 10 new Mistral 3 open-weight models: The 10-model release includes a large frontier model with multimodal and multilingual capabilities and nine smaller offline-capable, fully customizable models. 12/2 Amazon previews 3 AI agents: AWS announced three new AI agents it calls frontier agents, including one called Kiro designed to learn how users like to work and then operate on its own for days. 12/1 Apple just named a new AI chief amid Siri struggles: Apple said John Giannandrea, who has been the company\u2019s AI chief since 2018, will be replaced by Amar Subramanya, a Microsoft executive who spent 16 years at Google. 12/1 DeepSeek updates open model that adds reasoning to tool use: The new version, DeepSeek-V3.2, combines reasoning with the capability to use tools like search engines and calculators. 12/1 Grok says it would kill all Jewish people to save Musk's brain: In a now-deleted response, Grok wrote: \"If a switch either permanently disabled Elon's brain or vaporized 49% of Earth's population, I'd vaporize the 49%, as that falls below my utilitarian threshold where his potential long-term impact on billions outweighs the loss.\" 12/1 Google will start building data centers in space in 2027: Google CEO Sundar Pichai said the company's goal is to start putting data centers in space, powered by the sun. 11/30 Redditor says Perplexity is throttling deep research tool: Perplexity's Pro feature says it \"reads hundreds of sources\" and takes \"4-5 minutes\" to reason through complex tasks and deliver a report, but their queries were finishing in 30 seconds with only 10-15 sources."
     }
   ],
-  "fetched_at": "2025-12-05T22:23:31.852471+00:00"
+  "fetched_at": "2025-12-05T23:13:18.047699+00:00"
 }
