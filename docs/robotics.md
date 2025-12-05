@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T14:51:45.644698+00:00'
+updated: '2025-12-05T15:13:23.138783+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 14:51 UTC  
+**Last Updated:** December 05, 2025 at 15:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper 
 
 **[Art installation draws attention for its robot dogs with famous faces](https://www.reddit.com/r/robotics/comments/1pe56c3/art_installation_draws_attention_for_its_robot/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -58,7 +58,7 @@ AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 12h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 13h ago
 
 ---
 
@@ -80,13 +80,13 @@ For a long time, many robotics teams believed that real robot interaction data w
 
 Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin.
 
-18h ago
+19h ago
 
 ---
 
 **[Beeple just put Musk, Zuck and Bezos heads on robot dogs that literally shit NFTs at Art Basel. We are so cooked.](https://www.reddit.com/r/robotics/comments/1peofci/beeple_just_put_musk_zuck_and_bezos_heads_on/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -126,7 +126,7 @@ IEEE Spectrum • 1d ago
 
 Earlier this week, reports that the White House is considering an executive order to accelerate growth in the U.S. robotics industry prompted intense investor focus on iRobot and other robotics-linked companies, even as iRobot continues to grapple with liquidity pressures, declining revenue, and a high risk of bankruptcy. The news also highlighted how potential federal support may primarily target industrial robotics and advanced manufacturing, raising questions about how directly...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -142,7 +142,7 @@ Yahoo Finance • 3h ago
 
 The Physical AI Market is accelerating as breakthroughs in robotics, computer vision, and edge AI enable smarter autonomous systems, with the U.S. segment rising from USD 1.52 billion in 2025E to USD 14.13 billion by 2033 amid strong innovation and growing automation adoption.Austin, Dec. 05, 2025 (GLOBE NEWSWIRE) -- The Physical AI Market Size is valued at USD 5.23 Billion in 2025E and is expected to reach USD 49.73 Billion by 2033 and grow at a CAGR of 32.53% during the forecast period. Rapid
 
-Yahoo Finance Singapore • 21m ago
+Yahoo Finance Singapore • 43m ago
 
 ---
 
@@ -150,7 +150,7 @@ Yahoo Finance Singapore • 21m ago
 
 Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 5h ago
 
 ---
 
@@ -172,7 +172,7 @@ Nasdaq • 1d ago
 
 **[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
 
-Investor's Business Daily • 17h ago
+Investor's Business Daily • 18h ago
 
 ---
 
@@ -180,7 +180,7 @@ Investor's Business Daily • 17h ago
 
 The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
 
-Barchart.com • 19h ago
+Barchart.com • 20h ago
 
 ---
 
@@ -194,7 +194,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 43K • 👍 378 • 💬 186 • ⏱️ 2:30 • 1d ago
+👁️ 43K • 👍 378 • 💬 186 • ⏱️ 2:30 • 2d ago
 
 ---
 
@@ -242,7 +242,7 @@ Which one is the most humanlike? First, Tesla shared a 5-second clip of its Opti
 
 📺 Kalil 4.0
 
-👁️ 19K • 👍 132 • 💬 30 • ⏱️ 0:14 • 17h ago
+👁️ 19K • 👍 132 • 💬 30 • ⏱️ 0:14 • 18h ago
 
 ---
 

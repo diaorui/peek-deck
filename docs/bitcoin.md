@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T14:51:45.635362+00:00'
+updated: '2025-12-05T15:13:23.129509+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 14:51 UTC  
+**Last Updated:** December 05, 2025 at 15:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,352.77
+### $91,067.10
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.3%  
-**7d:** -1.0%  
-**30d:** -11.3%  
-**90d:** -19.3%  
-**1y:** -9.8%  
+**24h:** -1.2%  
+**7d:** +0.4%  
+**30d:** -10.1%  
+**90d:** -18.2%  
+**1y:** -8.6%  
 
 ---
 
@@ -101,13 +101,13 @@ I finally sold all my bitcoin, it would be a shame if it pumps now, right? I rea
 
 Im only up 3000% now
 
-12h ago
+13h ago
 
 ---
 
 **[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
 
-32m ago
+54m ago
 
 ---
 
@@ -121,7 +121,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 **[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -141,7 +141,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 **[Bitcoin in 2025](https://www.reddit.com/r/Bitcoin/comments/1pe1yxx/bitcoin_in_2025/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -153,7 +153,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 The one-month chart shows BTC still locked inside a descending structure from early November’s highs, with the latest rebound producing another lower high.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 8h ago
 
 Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
 
-Yahoo Finance • 22m ago
+Yahoo Finance • 44m ago
 
 ---
 
@@ -183,7 +183,7 @@ The Economist • 1d ago
 
 Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 1d ago
 
 JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -319,7 +319,7 @@ Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break dow
 
 📺 Anthony Pompliano
 
-👁️ 19K • 👍 771 • 💬 1 • ⏱️ 28:20 • 16h ago
+👁️ 19K • 👍 771 • 💬 1 • ⏱️ 28:20 • 17h ago
 
 ---
 
@@ -329,7 +329,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 3K • 💬 272 • ⏱️ 23:27 • 13h ago
+👁️ 34K • 👍 3K • 💬 272 • ⏱️ 23:27 • 14h ago
 
 ---
 
@@ -359,7 +359,7 @@ Bitcoin #Crypto #Finance The Federal Reserve has officially ended quantitative t
 
 📺 The Wolf Of All Streets
 
-👁️ 25K • 👍 915 • 💬 366 • ⏱️ 35:57 • 23h ago
+👁️ 25K • 👍 915 • 💬 366 • ⏱️ 35:57 • 1d ago
 
 ---
 
