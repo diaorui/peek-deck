@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T17:45:45.360055+00:00'
+updated: '2025-12-05T17:56:32.390224+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 17:45 UTC  
+**Last Updated:** December 05, 2025 at 17:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Arthur C. Clarke said "Any sufficiently advanced technology is indistinguishable from magic". This is the perfect example of that. We are taking a magical map that previously could only exist in a magical world and bringing it to life using robots, DeepStream, and multiple A6000 GPUs!
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=dO32ImnsX-4) • 10m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=dO32ImnsX-4) • 21m ago
 
 ---
 
@@ -138,7 +138,7 @@ Yahoo Finance Singapore • 3h ago
 
 Wise is building a team of experts in Silicon Valley to unify KUKA's software systems and apply AI to more robots.
 
-The Robot Report • 45m ago
+The Robot Report • 56m ago
 
 ---
 
@@ -168,7 +168,7 @@ Investor's Business Daily • 20h ago
 
 The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
 
-Barchart.com • 22h ago
+Barchart.com • 23h ago
 
 ---
 
@@ -198,7 +198,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 48K • 👍 407 • 💬 205 • ⏱️ 2:30 • 2d ago
+👁️ 52K • 👍 425 • 💬 217 • ⏱️ 2:30 • 2d ago
 
 ---
 
@@ -208,17 +208,7 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 AI Robot Lab
 
-👁️ 6K • 👍 68 • ⏱️ 0:19 • 4h ago
-
----
-
-**[ChatGPT in a real robot does what experts warned.](https://www.youtube.com/watch?v=byQmJ9x0RWA)**
-
-Chat GPT inside a robot. Can we trust AI? Use code insideai at https://incogni.com/insideai to get an exclusive 60% off Please ...
-
-📺 InsideAI
-
-👁️ 516K • 👍 21K • 💬 3K • ⏱️ 14:58 • 5d ago
+👁️ 16K • 👍 120 • 💬 1 • ⏱️ 0:19 • 5h ago
 
 ---
 
@@ -228,43 +218,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 85K • 💬 551 • ⏱️ 1:21 • 2d ago
-
----
-
-**[Live Unboxing of the AI Humanoid Robot. #robotics #humanoidrobot #robot #ai](https://www.youtube.com/watch?v=k0cHshXI6dc)**
-
-📺 AI . Robot
-
-👁️ 500K • 👍 6K • 💬 235 • ⏱️ 0:27 • 6d ago
-
----
-
-**[AI Robot Girl Calibration Reveals Her New Emotional Upgrade #AIrobot #Robotgirl](https://www.youtube.com/watch?v=F3bsD3rrodE)**
-
-In a high-end robotics lab in Silicon Valley, engineers activate and calibrate a next-gen AI Humanoid Robot Girl. As her synthetic ...
-
-📺 AI Robot Lab
-
-👁️ 49K • 👍 633 • 💬 7 • ⏱️ 0:29 • 2d ago
-
----
-
-**[Tesla Optimus vs. Figure 03 vs. EngineAI T800](https://www.youtube.com/watch?v=jNZrmIjI6EA)**
-
-Which one is the most humanlike? First, Tesla shared a 5-second clip of its Optimus humanoid robot running the EV maker's ...
-
-📺 Kalil 4.0
-
-👁️ 22K • 👍 147 • 💬 30 • ⏱️ 0:14 • 20h ago
-
----
-
-**[Humanoid AI Girlfriend Robot Enters the Market #robot #shorts #humanoidrobot](https://www.youtube.com/watch?v=L_XDzIzz6o8)**
-
-📺 Robotics
-
-👁️ 335K • 👍 3K • 💬 40 • ⏱️ 0:25 • 4d ago
+👁️ 87K • 💬 562 • ⏱️ 1:21 • 2d ago
 
 ---
 
@@ -274,17 +228,63 @@ XPeng's new humanoid robot, IRON, went viral after the company cut it open on st
 
 📺 CNET
 
-👁️ 539K • 👍 3K • 💬 536 • ⏱️ 5:04 • 5d ago
+👁️ 540K • 👍 3K • 💬 538 • ⏱️ 5:04 • 5d ago
 
 ---
 
-**[Humanoid Overloads With Emotions – Robot Girl Sensor Test Goes Wrong 🤖⚠️](https://www.youtube.com/watch?v=FMYhwvafLig)**
+**[MobED | Robotics LAB | Hyundai Motor Group](https://www.youtube.com/watch?v=WfaYrxCwad0)**
 
-The emotion sensor test didn't go as planned. The robot girl gets overwhelmed and reacts in a way no one expected. Like for ...
+Go Anywhere, Do anything, For everyone : MobED Learn more ...
 
-📺 AI Robot Reality
+📺 Hyundai Motor Group
 
-👁️ 31K • 👍 187 • 💬 7 • ⏱️ 0:15 • 1d ago
+👁️ 60K • 👍 539 • 💬 34 • ⏱️ 3:01 • 2d ago
+
+---
+
+**[Tesla Optimus vs. Figure 03 vs. EngineAI T800](https://www.youtube.com/watch?v=jNZrmIjI6EA)**
+
+Which one is the most humanlike? First, Tesla shared a 5-second clip of its Optimus humanoid robot running the EV maker's ...
+
+📺 Kalil 4.0
+
+👁️ 25K • 👍 157 • 💬 31 • ⏱️ 0:14 • 20h ago
+
+---
+
+**[AI Humanoid Robot Awakens for the First Time at an LA Tech Expo #HumanoidRobot #AIrobot](https://www.youtube.com/watch?v=6l8elhGM6cE)**
+
+Inside a high-security robotics lab in Los Angeles, a next-gen humanoid robot is activated for the very first time. Engineers run final ...
+
+📺 AI Robot Lab
+
+👁️ 342K • 👍 3K • 💬 26 • ⏱️ 0:34 • 3d ago
+
+---
+
+**[This Robot Girl Tried To Sell Me A Wife At Tech Expo](https://www.youtube.com/watch?v=UBF3X1ASuug)**
+
+I Asked Robot Receptionist About My Wife And Got This Response All visuals created with AI video generators and Human Edited ...
+
+📺 SYN:THETIC_BLOOD
+
+👁️ 553K • 👍 7K • 💬 183 • ⏱️ 0:16 • 2d ago
+
+---
+
+**[New Humanoid ‘Jena’ Unveiled at the 2025 Robot Expo. #robotics #humanoidrobot #robot #ai](https://www.youtube.com/watch?v=XVHKg1DNMg4)**
+
+📺 AI . Robot
+
+👁️ 392K • 👍 4K • 💬 42 • ⏱️ 0:19 • 4d ago
+
+---
+
+**[Humanoid AI Girlfriend Robot Enters the Market #robot #shorts #humanoidrobot](https://www.youtube.com/watch?v=L_XDzIzz6o8)**
+
+📺 Robotics
+
+👁️ 337K • 👍 3K • 💬 40 • ⏱️ 0:25 • 4d ago
 
 ---
 

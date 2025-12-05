@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T17:45:45.350759+00:00'
+updated: '2025-12-05T17:56:32.380921+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 17:45 UTC  
+**Last Updated:** December 05, 2025 at 17:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,847.04
+### $89,411.28
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.5%  
-**7d:** -2.0%  
-**30d:** -12.2%  
-**90d:** -20.1%  
-**1y:** -10.7%  
+**24h:** -3.2%  
+**7d:** -1.7%  
+**30d:** -11.9%  
+**90d:** -19.9%  
+**1y:** -10.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -113,13 +113,13 @@ Im only up 3000% now
 
 Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT… and so is Marjorie Greene 🫣
 
-12h ago
+13h ago
 
 ---
 
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
-9m ago
+20m ago
 
 ---
 
@@ -127,7 +127,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 Hi I’m new to this. I don’t have a lot of money to put into it but wanted to start with 100. It’s ok ?
 
-42m ago
+53m ago
 
 ---
 
@@ -153,13 +153,13 @@ Hi I’m new to this. I don’t have a lot of money to put into it but wanted to
 
 The digital asset has rarely deviated so cleanly from other risk assets even during past crypto winters.  Earlier this year, Bitcoin notched a record high above $126,000.  Bitcoin appears to be ending the week on a down note, dropping as much as 4.4% to $88,135 on Friday.
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 57m ago
 
 ---
 
 **[Bitcoin is set for first yearly split from stocks in a decade](https://www.msn.com/en-us/money/markets/bitcoin-is-set-for-first-yearly-split-from-stocks-in-decade/ar-AA1RMKxN)**
 
-MSN • 20m ago
+MSN • 31m ago
 
 ---
 
@@ -207,7 +207,7 @@ MarketWatch • 21h ago
 
 BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -297,63 +297,13 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin: A Different Kind of Bear Market?](https://www.youtube.com/watch?v=5txYvyuM4uE)**
+**[Bitcoin investors...Get Ready For Inflation Numbers and the Fed!](https://www.youtube.com/watch?v=RmFwVDHzkis)**
 
-Is Bitcoin in a different type of bear market? Let's discuss what a bear market may look like coming from a non-euphoric top.
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 Benjamin Cowen
+📺 CryptosRUs
 
-👁️ 30K • 👍 3K • 💬 194 • ⏱️ 15:38 • 6h ago
-
----
-
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 9K • 👍 290 • 💬 339 • ⏱️ 15:38 • 12h ago
-
----
-
-**[A New Dangerous Era Starts [Crypto Holders Be Ready]](https://www.youtube.com/watch?v=RvyvISqMMko)**
-
-Trump, Bitcoin, stocks, and crypto updates ! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT ...
-
-📺 Lark Davis
-
-👁️ 10K • 👍 684 • 💬 119 • ⏱️ 52:39 • 5h ago
-
----
-
-**[Bitcoin Live Trading: Next BTC Rebound or Next Crash Pause? EP1844](https://www.youtube.com/watch?v=xRWjf6BiwyI)**
-
-Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.cryptolifer.com Pionex: Best Bot Platform ...
-
-📺 Crypto Lifer
-
-👁️ 2K • 👍 300 • 5h ago
-
----
-
-**[Tom Lee: &quot;The Ethereum Price Is About To Get Out Of Control&quot;](https://www.youtube.com/watch?v=ufxKb5GmsSg)**
-
-LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
-
-📺 Altcoin Daily
-
-👁️ 56K • 👍 4K • 💬 417 • ⏱️ 11:16 • 16h ago
-
----
-
-**[What Big Banks Aren&#39;t Telling You About Bitcoin](https://www.youtube.com/watch?v=LIJrvnHmxj8)**
-
-As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and the biggest banks on earth are quietly buying every major ...
-
-📺 Swan Bitcoin
-
-👁️ 58K • 👍 3K • 💬 277 • ⏱️ 18:48 • 19h ago
+👁️ 14K • 👍 1K • 💬 271 • ⏱️ 10:13 • 3h ago
 
 ---
 
@@ -363,7 +313,57 @@ Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break dow
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 826 • 💬 2 • ⏱️ 28:20 • 19h ago
+👁️ 22K • 👍 865 • 💬 27 • ⏱️ 28:20 • 19h ago
+
+---
+
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 10K • 👍 326 • 💬 363 • ⏱️ 15:38 • 12h ago
+
+---
+
+**[What Big Banks Aren&#39;t Telling You About Bitcoin](https://www.youtube.com/watch?v=LIJrvnHmxj8)**
+
+As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and the biggest banks on earth are quietly buying every major ...
+
+📺 Swan Bitcoin
+
+👁️ 61K • 👍 3K • 💬 322 • ⏱️ 18:48 • 20h ago
+
+---
+
+**[&quot;The Bitcoin Collapse Has Started!&quot; Do NOT Be Fooled!!](https://www.youtube.com/watch?v=MqdAC_se7vY)**
+
+I'm Selling EVERYTHING!” Why Tom Crown Is Cashing Out of Bitcoin 50% deposit bonus on first $100 on WEEX: ...
+
+📺 Altcoin Daily
+
+👁️ 65K • 👍 3K • 💬 412 • ⏱️ 17:04 • 1d ago
+
+---
+
+**[Tom Lee: &quot;Ethereum Could Go To $62,000 Within A Few Months&quot;](https://www.youtube.com/watch?v=ufxKb5GmsSg)**
+
+LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
+
+📺 Altcoin Daily
+
+👁️ 61K • 👍 4K • 💬 481 • ⏱️ 11:16 • 16h ago
+
+---
+
+**[Crypto Alert: Here&#39;s What Bitcoin Is Signalling Now](https://www.youtube.com/watch?v=1SvvvzpgDME)**
+
+Crypto update - Bitcoin is unprecedented territory Bybit $30000 Bonus: https://bit.ly/Bybit-ZG My Top Centralised Exchange (No ...
+
+📺 MoneyZG
+
+👁️ 6K • 👍 598 • 💬 197 • ⏱️ 11:07 • 3h ago
 
 ---
 
@@ -373,17 +373,17 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 3K • 💬 301 • ⏱️ 23:27 • 16h ago
+👁️ 40K • 👍 3K • 💬 304 • ⏱️ 23:27 • 17h ago
 
 ---
 
-**[Bitcoin&#39;s Obvious Entry Zone... (Historical Data Shows)](https://www.youtube.com/watch?v=9r2rMzstyOM)**
+**[Bitcoin Hesitates As The Fed Prepares To Flood Markets! What&#39;s Next?](https://www.youtube.com/watch?v=4aAnKyuf_Vw)**
 
-Claim 50% deposit bonus + $100 BONUS!
+Bitcoin #Crypto #Finance The Federal Reserve has officially ended quantitative tightening, preparing to inject trillions in new ...
 
-📺 Crypto Goos
+📺 The Wolf Of All Streets
 
-👁️ 699 • 👍 41 • 💬 117 • ⏱️ 12:23 • 8h ago
+👁️ 26K • 👍 931 • 💬 383 • ⏱️ 35:57 • 1d ago
 
 ---
 
@@ -393,7 +393,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 10K • 👍 589 • 💬 69 • ⏱️ 9:41 • 12h ago
+👁️ 10K • 👍 613 • 💬 67 • ⏱️ 9:41 • 13h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T17:45:45.356813+00:00'
+updated: '2025-12-05T17:56:32.386946+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 17:45 UTC  
+**Last Updated:** December 05, 2025 at 17:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.6%  
-**7d:** +1.1%  
-**30d:** -8.9%  
-**90d:** -30.0%  
-**1y:** -24.3%  
+**24h:** -3.4%  
+**7d:** +1.5%  
+**30d:** -8.4%  
+**90d:** -29.6%  
+**1y:** -23.9%  
 
 ---
 
@@ -152,7 +152,7 @@ Ethereum is actively working to address the blockchain trilemma, a core challeng
 
 Options data show Ethereum traders are less bearish than Bitcoin’s after recent network upgrades and improving macro uncertainty.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -188,7 +188,7 @@ The Block • 1d ago
 
 Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -228,13 +228,23 @@ Decrypt • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee: &quot;The Ethereum Price Is About To Get Out Of Control&quot;](https://www.youtube.com/watch?v=ufxKb5GmsSg)**
+**[🚨🇺🇸  ETH Price TODAY!!! | MASSIVE Bets on Ethereum!! 👀](https://www.youtube.com/watch?v=K2iD6ZbNQIw)**
+
+Real-time crypto analysis — join my VIP Telegram.
+
+📺 Marzell Crypto
+
+👁️ 450 • 👍 28 • 💬 176 • ⏱️ 5:24 • 4h ago
+
+---
+
+**[Tom Lee: &quot;Ethereum Could Go To $62,000 Within A Few Months&quot;](https://www.youtube.com/watch?v=ufxKb5GmsSg)**
 
 LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 4K • 💬 417 • ⏱️ 11:16 • 16h ago
+👁️ 61K • 👍 4K • 💬 481 • ⏱️ 11:16 • 16h ago
 
 ---
 
@@ -244,17 +254,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 17K • 👍 1K • 💬 113 • ⏱️ 31:23 • 8h ago
-
----
-
-**[Ethereum Finally REVERSING! (Bitcoin Sets Up MASSIVE 2026 Bull Market)](https://www.youtube.com/watch?v=mq4KoKQqfRE)**
-
-Ethereum is finally showing signs of a major reversal, and the charts suggest this could be the beginning of a powerful momentum ...
-
-📺 Discover Crypto
-
-👁️ 1K • 👍 114 • 3h ago
+👁️ 20K • 👍 2K • 💬 126 • ⏱️ 31:23 • 8h ago
 
 ---
 
@@ -264,17 +264,27 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 31K • 👍 2K • 💬 112 • ⏱️ 17:37 • 1d ago
+👁️ 33K • 👍 2K • 💬 115 • ⏱️ 17:37 • 1d ago
 
 ---
 
-**[🚨🇺🇸  ETH Price TODAY!!! | MASSIVE Bets on Ethereum!! 👀](https://www.youtube.com/watch?v=K2iD6ZbNQIw)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=_UZYmLMT0KU)**
 
-Real-time crypto analysis — join my VIP Telegram.
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Marzell Crypto
+📺 More Crypto Online
 
-👁️ 282 • 👍 24 • 💬 176 • ⏱️ 5:24 • 4h ago
+👁️ 1K • 👍 135 • 💬 6 • ⏱️ 5:20 • 2h ago
+
+---
+
+**[RIGHT ON THE EDGE!!! BITCOIN &amp; ETH XRP ! (Live Bitcoin Crypto Trading &amp; Analysis)](https://www.youtube.com/watch?v=jddogpINTZk)**
+
+ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasper WEEX LOWEST FEES NO KYC   ...
+
+📺 Jayson Casper
+
+👁️ 1K • 👍 191 • 1h ago
 
 ---
 
@@ -284,7 +294,7 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 63K • 👍 2K • 💬 425 • ⏱️ 27:33 • 23h ago
+👁️ 66K • 👍 2K • 💬 430 • ⏱️ 27:33 • 23h ago
 
 ---
 
@@ -294,37 +304,27 @@ What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get r
 
 📺 Thomas Kralow
 
-👁️ 24K • 👍 3K • 💬 36 • ⏱️ 10:24 • 1d ago
+👁️ 25K • 👍 3K • 💬 38 • ⏱️ 10:24 • 1d ago
 
 ---
 
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
+**[$20,000 Ethereum? Tom Lee’s &quot;Insane&quot; 2026 Prediction Explained](https://www.youtube.com/watch?v=Hk2jEx_EPyk)**
 
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+Wall Street legend Tom Lee has just made his most "insane" prediction yet: Ethereum could rip to $20000 in 2026. While most ...
 
-📺 Library Of Wealth
+📺 Wall Street Stockcast
 
-👁️ 9K • 👍 290 • 💬 339 • ⏱️ 15:38 • 12h ago
-
----
-
-**[🚨 ETH in December To SURGE | Charts &amp; History AGREE](https://www.youtube.com/watch?v=jJ_5Lv0dESU)**
-
-Real-time crypto analysis — join my VIP Telegram.
-
-📺 Marzell Crypto
-
-👁️ 1K • 👍 55 • 💬 138 • ⏱️ 5:52 • 1d ago
+👁️ 226 • 👍 17 • 💬 13 • ⏱️ 8:42 • 5h ago
 
 ---
 
-**[ALERT: BIG ETHEREUM PUMP INCOMING](https://www.youtube.com/watch?v=8HnCsQ6ERmM)**
+**[Ethereum in CRISIS After MASSIVE Crypto Update](https://www.youtube.com/watch?v=l5rNGCFV7oU)**
 
-WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 PIONEX: ...
+Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydfi.Bitboy.Deals Telegram Group - Get ...
 
-📺 Crypto Kid
+📺 BitBoy X
 
-👁️ 6K • 👍 344 • 💬 71 • ⏱️ 7:06 • 1d ago
+👁️ 711 • 👍 118 • ⏱️ 25:41 • 56m ago
 
 ---
 
