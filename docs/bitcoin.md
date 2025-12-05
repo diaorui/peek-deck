@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T17:29:24.515605+00:00'
+updated: '2025-12-05T17:45:45.350759+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 17:29 UTC  
+**Last Updated:** December 05, 2025 at 17:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,024.90
+### $88,847.04
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.6%  
-**7d:** -2.1%  
-**30d:** -12.3%  
-**90d:** -20.2%  
-**1y:** -10.8%  
+**24h:** -3.5%  
+**7d:** -2.0%  
+**30d:** -12.2%  
+**90d:** -20.1%  
+**1y:** -10.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1773.88B
+**Market Cap:** $1776.14B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.5%
+-29.4%
 
 **All-Time Low:** $67.81
-+131032.6%
++131180.0%
 
 ---
 
@@ -83,15 +83,15 @@ Rank #1
 
 ---
 
-**[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
-
-3h ago
-
----
-
 **[Did my part , thanks](https://www.reddit.com/r/Bitcoin/comments/1pez7nm/did_my_part_thanks/)**
 
 1h ago
+
+---
+
+**[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
+
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ Im only up 3000% now
 
 **[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -114,6 +114,20 @@ Im only up 3000% now
 Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying into IBIT… and so is Marjorie Greene 🫣
 
 12h ago
+
+---
+
+**[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
+
+9m ago
+
+---
+
+**[I just get 100$ of btc](https://www.reddit.com/r/Bitcoin/comments/1pf0gru/i_just_get_100_of_btc/)**
+
+Hi I’m new to this. I don’t have a lot of money to put into it but wanted to start with 100. It’s ok ?
+
+42m ago
 
 ---
 
@@ -131,35 +145,35 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 ---
 
-**[My first order - Proud owner of 0.01099277 BTCs.](https://www.reddit.com/r/Bitcoin/comments/1peh19z/my_first_order_proud_owner_of_001099277_btcs/)**
-
-16h ago
-
----
-
-**[Bitcoin in 2025](https://www.reddit.com/r/Bitcoin/comments/1pe1yxx/bitcoin_in_2025/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin Is Set for First Yearly Split From Stocks in Decade](https://finance.yahoo.com/news/bitcoin-set-first-yearly-split-141041017.html)**
+
+The digital asset has rarely deviated so cleanly from other risk assets even during past crypto winters.  Earlier this year, Bitcoin notched a record high above $126,000.  Bitcoin appears to be ending the week on a down note, dropping as much as 4.4% to $88,135 on Friday.
+
+Yahoo Finance • 46m ago
+
+---
+
+**[Bitcoin is set for first yearly split from stocks in a decade](https://www.msn.com/en-us/money/markets/bitcoin-is-set-for-first-yearly-split-from-stocks-in-decade/ar-AA1RMKxN)**
+
+MSN • 20m ago
+
+---
+
+**[Bitcoin Rebounds Off Lows, Rising Above $91,000](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-02-2025/card/bitcoin-rebounds-off-lows-hitting-90-000-KdjDmRT8dpAKaWd81I8V?gaa_at=eafs&gaa_n=AWEtsqfiQBjvhhMa4PuF3bqrgHKSe884TUQ7fmLOd3tATZbSegbZVjCKy0fT&gaa_ts=69331db1&gaa_sig=qaeSFTULttQ-oxpSwsoiJ4YgwnYLzPcuCSowHxW3qkuH2JLvCMTnj61mjwLKj1LGunr--PKaXFtyRmUjmMdTqA%3D%3D)**
+
+The Wall Street Journal • 2d ago
+
+---
 
 **[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
 
 Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
 
 Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin Is Set for First Yearly Split From Stocks in a Decade](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-is-breaking-from-stock-rally-for-first-time-in-a-decade)**
-
-The S&amp;P 500 has climbed more than 16% in 2025, while Bitcoin is down 3% — the first time since 2014 that stocks have rallied while the token is down, according to data compiled by Bloomberg.
-
-Bloomberg.com • 3h ago
 
 ---
 
@@ -179,41 +193,27 @@ CNBC • 1d ago
 
 **[Analyst cuts 60% price target for popular Bitcoin stock](https://www.thestreet.com/crypto/markets/analyst-cuts-60-price-target-for-popular-bitcoin-stock)**
 
-TheStreet • 4h ago
+TheStreet • 5h ago
 
 ---
 
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqfT9UavNbTh3WAMm9dcUSHrIxASJSI9aEkxAajHQxQpLa_T985R1hDd&gaa_ts=69331346&gaa_sig=sdJf9tEPqp_ZObOl8ldNvhiiWS9oqpEGCoaBcPoyEsMEj9lvXId2fnxi4KeSuM3SNyaMkbyEOEEFm7OGovQFGA%3D%3D)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqdaTJxsEEHCYBnMAa_UKYXJiDb9iCGjfiN3b-EkHvLnavlATxqVqkji&gaa_ts=69331db1&gaa_sig=PQeeWSGA1pixfND1xUNw9XHLNgSBBYXoQfBdphs2rsGypaGjnqax9z9MXqch2lmRXY0zEnUCq9T4z6f0VuVzPg%3D%3D)**
 
-MarketWatch • 20h ago
+MarketWatch • 21h ago
 
 ---
 
-**[BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run](https://finance.yahoo.com/news/blackrock-bitcoin-etf-sheds-2-081140067.html)**
+**[BlackRock Bitcoin ETF Sheds $2.7 Billion in Record Outflows Run](https://www.bloomberg.com/news/articles/2025-12-05/blackrock-bitcoin-btc-etf-loses-2-7-billion-in-longest-outflows-run-ibit)**
 
-Investors yanked more than $2.7 billion from the exchange-traded fund over the five weeks to Nov. 28, according to data compiled by Bloomberg.  The IBIT fund oversees more than $71 billion in assets and has served as the flagship vehicle for traditional investors seeking exposure to Bitcoin.  The sustained period of outflows aligns with Bitcoin’s slide into a bear market following a severe liquidation event in early October, which kicked off a more than $1 trillion wipeout in crypto market value.
+BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
 
-Yahoo Finance • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[Spot bitcoin ETFs see $195 million exit, largest daily outflow in 2 weeks](https://www.theblock.co/post/381473/spot-bitcoin-etfs-see-195-million-exit)**
 
-The Block • 10h ago
-
----
-
-**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqcTfLgxx0fEnbozm8fZEqYkTSkv1El0NEpPa0gSU2fY5M2kv2tAmLAW&gaa_ts=69331346&gaa_sig=v8XYUZIgJXwd7Li3G0sH3Tpisiwcv4z3Skqn2YY-mZIQMUvFZPq8mWVItMbcDIhNqRPZ0XWNnoEZwD_nuDXJLw%3D%3D)**
-
-The Wall Street Journal • 2d ago
-
----
-
-**[Why bitcoin could shoot to $170,000 in the next year, according to JPMorgan](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
-
-JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
-
-Business Insider • 23h ago
+The Block • 11h ago
 
 ---
 
@@ -333,7 +333,7 @@ Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.c
 
 📺 Crypto Lifer
 
-👁️ 2K • 👍 300 • 4h ago
+👁️ 2K • 👍 300 • 5h ago
 
 ---
 
@@ -343,7 +343,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 4K • 💬 417 • ⏱️ 11:16 • 15h ago
+👁️ 56K • 👍 4K • 💬 417 • ⏱️ 11:16 • 16h ago
 
 ---
 

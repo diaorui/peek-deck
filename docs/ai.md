@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T17:29:24.507324+00:00'
+updated: '2025-12-05T17:45:45.342140+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 17:29 UTC  
+**Last Updated:** December 05, 2025 at 17:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -42,6 +42,14 @@ AI news, discussions, and developments
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
 🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 4h ago
+
+---
+
+**['Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win'](https://www.reddit.com/r/artificial/comments/1pf0p2w/godfather_of_ai_geoffrey_hinton_says_google_is/)**
+
+Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
+
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 33m ago
 
 ---
 
@@ -73,11 +81,11 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 ---
 
-**[“Change Management” doesn’t work on AI adoption.](https://www.reddit.com/r/artificial/comments/1pexa5f/change_management_doesnt_work_on_ai_adoption/)**
+**[This tech is just wild](https://www.reddit.com/r/artificial/comments/1pf123f/this_tech_is_just_wild/)**
 
-“It failed because we didn’t invest in change management”. This is one I hear a lot from people across the industry. They’re kindof right. Take a minute and think about why IT and data teams leave “change management” out of their projects… A: They always want to include “resisters” for “feedback” - who just create timeline / budget chaos and lots of “no”. There’s no instruction manual on AI so there’s no point. These people aren’t going to adopt early anyway and kick up anxiety for the project team. So leave them out and kick your change people to the curb if they insist upon “bringing everyone along”. This following routinely drives 60% - 90% adoption rates companies. Instead - segment your users into 3 groups: Super early adopters (5% of employees) Learner translators (15% of employees) Reluctants (70%-80%) (Kindof like crossing the chasm groups) The first one gives you high value use cases and 100% participation on pilots (not 10%-20% participation on pilots). Be RUTHLESS about your pilots. If people aren’t participating - kick. them. OUT. and redistribute the licenses. The second group learns from the early adopters, will help you validate what’s useful, and will TEACH everyone else. Keep the use cases simple and high value for the reluctants. Dont throw too much at them. Make it PRESCRIPTIVE (process map, prompts, checklists). Make sure your leaders visibly point to the good work early adopters are doing. This is key - you want FOMO. Triggering the need to fit in is FAR more powerful and productive than bringing people along with each step. As people keep using tools - lean into automation to drive last mile adoption among leaders and laggards.
+I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
 
-2h ago
+19m ago
 
 ---
 
@@ -103,14 +111,6 @@ Meta is paying a slate of major publishers for real‑time access so Meta AI can
 
 ---
 
-**[Comparing AI Risks - Anders Sandberg #ai #aiRisk #aiSafety](https://www.reddit.com/r/artificial/comments/1pesahk/comparing_ai_risks_anders_sandberg_ai_airisk/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://youtube.com/shorts/HoDQPmPJkAk?si=7l6pfGjQNMtu7V4_) • 6h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -121,43 +121,29 @@ The New York Times • 4h ago
 
 ---
 
-**[New York Times sues Perplexity AI for 'illegal' copying of content](https://www.reuters.com/legal/litigation/new-york-times-sues-perplexity-ai-infringing-copyright-works-2025-12-05/)**
-
-Reuters • 50m ago
-
----
-
-**[NYT, Chicago Tribune Sue Perplexity AI as Copyright War Rages On](https://www.bloomberg.com/news/articles/2025-12-05/nyt-chicago-tribune-sue-perplexity-ai-as-copyright-war-rages-on)**
-
-Bloomberg.com • 53m ago
-
----
-
 **[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
 
-The Washington Post • 1h ago
+The Washington Post • 13m ago
 
 ---
 
-**[Before Your Doctor Uses AI to Record Your Visits, Ask These Questions](https://www.wsj.com/health/wellness/doctor-visit-ai-302b765b?gaa_at=eafs&gaa_n=AWEtsqclON4pP53ZLJEsvqKN1AVdRe-8pQe8tDNo_Zz1wEUgQi_6rzloZPJk&gaa_ts=69331344&gaa_sig=sgIW3kNpHN5tkaQhpIYohN_R7319YxKaaIN6O92V9jJLw2tKqx1e3GqXoImyJ6BCqYMEdspCfAanGj6i2WPzzA%3D%3D)**
+**[AI credit concerns playing out differently in investment grade and high yield, Goldman says](https://www.reuters.com/business/ai-credit-concerns-playing-out-differently-investment-grade-high-yield-goldman-2025-12-05/)**
 
-The Wall Street Journal • 1h ago
-
----
-
-**[Here’s What You Should Know About Launching an AI Startup](https://www.wired.com/story/artificial-intelligence-startups-daydream-fashion-recommendations/)**
-
-AI startups say the promise of turning dazzling models into useful products is harder than anyone expected. Three founders discuss what it takes.
-
-WIRED • 1h ago
+Reuters • 1h ago
 
 ---
 
-**[New research from Google Workspace reveals how young leaders are using AI at work.](https://blog.google/products/workspace/young-leaders-survey-ai/)**
+**[Senators propose bill locking in current AI chip export controls](https://thehill.com/policy/technology/5635658-safe-chips-act-ai-export-control/)**
 
-Google Workspace has released findings from our second survey that looks at how people aged 22-39 are using AI at work. Commissioned by Workspace in partnership with the…
+The Hill • 10m ago
 
-The Keyword • 57m ago
+---
+
+**[AI Startup Parloa Said to Seek $200 Million in New Funding Round](https://www.bloomberg.com/news/articles/2025-12-05/ai-startup-parloa-said-to-seek-200-million-in-new-funding-round)**
+
+Parloa, a German startup developing artificial intelligence for customer service, is looking to raise new funding that would significantly increase its valuation from May, according to people familiar with the matter.
+
+Bloomberg.com • 54m ago
 
 ---
 
@@ -173,7 +159,7 @@ Fortune • 1d ago
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-The Atlantic • 19h ago
+The Atlantic • 20h ago
 
 ---
 
@@ -181,7 +167,21 @@ The Atlantic • 19h ago
 
 Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
 
-Forbes • 23h ago
+Forbes • 1d ago
+
+---
+
+**[Transformative AI is coming, and so are the risks](https://www.axios.com/2025/12/05/ai-deepmind-hassabis-gemini)**
+
+Axios • 5h ago
+
+---
+
+**[England World Cup draw: Could AI help Thomas Tuchel win 2026 tournament?](https://www.bbc.com/sport/football/articles/cj0e7y754zpo)**
+
+BBC Sport hears from inside the England setup about how artificial intelligence is powering plans for next summer's World Cup.
+
+BBC • 11h ago
 
 ---
 
@@ -193,7 +193,7 @@ Forbes • 23h ago
 
 : Zig prez complains about 'vibe-scheduling' after safe sleep bug goes unaddressed for eons
 
-⬆️ 1047 • 💬 605 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
+⬆️ 1048 • 💬 605 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
 
 ---
 
@@ -201,7 +201,7 @@ Forbes • 23h ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 940 • 💬 1038 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 942 • 💬 1040 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -209,7 +209,7 @@ A post about everyone in Seattle hating AI.
 
 IBM CEO Arvind Krishna walked through some napkin math on Big Tech's AI data center spending — and raised some doubts on if it'll prove profitable.
 
-⬆️ 838 • 💬 940 • 2d ago • [Business Insider](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
+⬆️ 838 • 💬 942 • 2d ago • [Business Insider](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)
 
 ---
 
@@ -217,7 +217,7 @@ IBM CEO Arvind Krishna walked through some napkin math on Big Tech's AI data cen
 
 Update: This post received a large amount of attention on Hacker News — see the discussion thread.
 
-⬆️ 804 • 💬 281 • 1d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
+⬆️ 804 • 💬 281 • 2d ago • [Alex Schapiro](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)
 
 ---
 
@@ -225,7 +225,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 649 • 💬 601 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 656 • 💬 614 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -233,7 +233,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 418 • 💬 325 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 419 • 💬 326 • 1d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -241,7 +241,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 243 • 💬 198 • 20h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 244 • 💬 200 • 20h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -339,7 +339,7 @@ Pocket Option Full Trading Session with AI TRADING BOT for Binary Options Link -
 
 📺 AITRADINGGG v2
 
-👁️ 5K • 👍 605 • 2h ago
+👁️ 5K • 👍 605 • 3h ago
 
 ---
 
@@ -385,7 +385,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,120 • 3d ago
+⬇️ 152,916 • ❤️ 2,122 • 3d ago
 
 ---
 
@@ -409,7 +409,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 3,773 • ❤️ 506 • 4d ago
+⬇️ 3,773 • ❤️ 507 • 4d ago
 
 ---
 
@@ -433,7 +433,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 271 • 15h ago
+⬇️ 12,984 • ❤️ 274 • 16h ago
 
 ---
 
@@ -699,7 +699,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 772 • 🔱 54 • 4d ago
+⭐ 772 • 🔱 54 • 5d ago
 
 ---
 

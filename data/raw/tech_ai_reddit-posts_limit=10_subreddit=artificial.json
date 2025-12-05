@@ -13,6 +13,17 @@
       "description": "Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits."
     },
     {
+      "title": "'Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win'",
+      "author": "ControlCAD",
+      "url": "https://www.reddit.com/r/artificial/comments/1pf0p2w/godfather_of_ai_geoffrey_hinton_says_google_is/",
+      "published": 1764954736.0,
+      "thumbnail": "https://external-preview.redd.it/K6l-hKqU8rET0QiCcByCNrFtZZFQ5aJmdFv4jGMJFbg.jpeg?width=640&crop=smart&auto=webp&s=187099d0199fd8374caad5ee911eb19dc3793c71",
+      "external_url": "https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12",
+      "site_name": "Business Insider",
+      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+      "description": "Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was \"surprising than it's taken this long\" for Google to catch OpenAI."
+    },
+    {
       "title": "Huge Trove of Nude Images Leaked by AI Image Generator Startup\u2019s Exposed Database",
       "author": "wiredmagazine",
       "url": "https://www.reddit.com/r/artificial/comments/1pet67v/huge_trove_of_nude_images_leaked_by_ai_image/",
@@ -57,15 +68,15 @@
       "description": null
     },
     {
-      "title": "\u201cChange Management\u201d doesn\u2019t work on AI adoption.",
-      "author": "karriesully",
-      "url": "https://www.reddit.com/r/artificial/comments/1pexa5f/change_management_doesnt_work_on_ai_adoption/",
-      "published": 1764946867.0,
+      "title": "This tech is just wild",
+      "author": "chlorculo",
+      "url": "https://www.reddit.com/r/artificial/comments/1pf123f/this_tech_is_just_wild/",
+      "published": 1764955563.0,
       "thumbnail": null,
       "external_url": null,
       "site_name": null,
       "favicon": null,
-      "description": "\u201cIt failed because we didn\u2019t invest in change management\u201d. This is one I hear a lot from people across the industry. They\u2019re kindof right. Take a minute and think about why IT and data teams leave \u201cchange management\u201d out of their projects\u2026 A: They always want to include \u201cresisters\u201d for \u201cfeedback\u201d - who just create timeline / budget chaos and lots of \u201cno\u201d. There\u2019s no instruction manual on AI so there\u2019s no point. These people aren\u2019t going to adopt early anyway and kick up anxiety for the project team. So leave them out and kick your change people to the curb if they insist upon \u201cbringing everyone along\u201d. This following routinely drives 60% - 90% adoption rates companies. Instead - segment your users into 3 groups: Super early adopters (5% of employees) Learner translators (15% of employees) Reluctants (70%-80%) (Kindof like crossing the chasm groups) The first one gives you high value use cases and 100% participation on pilots (not 10%-20% participation on pilots). Be RUTHLESS about your pilots. If people aren\u2019t participating - kick. them. OUT. and redistribute the licenses. The second group learns from the early adopters, will help you validate what\u2019s useful, and will TEACH everyone else. Keep the use cases simple and high value for the reluctants. Dont throw too much at them. Make it PRESCRIPTIVE (process map, prompts, checklists). Make sure your leaders visibly point to the good work early adopters are doing. This is key - you want FOMO. Triggering the need to fit in is FAR more powerful and productive than bringing people along with each step. As people keep using tools - lean into automation to drive last mile adoption among leaders and laggards."
+      "description": "I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more \"natural\" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an \"instrumental\" file and used ffmpeg to add both the \"Guy\" and \"instrumental\" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time."
     },
     {
       "title": "AI Updates for Week of 12/5/25",
@@ -99,18 +110,7 @@
       "site_name": "thinkautomated.io",
       "favicon": "https://thinkautomated.io/logo.svg",
       "description": "Meta is paying a slate of major publishers for real\u2011time access so Meta AI can answer news questions with citations and links\u2014reversing years of retreat from news on Facebook while pushing for grounded, more trustworthy AI responses."
-    },
-    {
-      "title": "Comparing AI Risks - Anders Sandberg #ai #aiRisk #aiSafety",
-      "author": "adam_ford",
-      "url": "https://www.reddit.com/r/artificial/comments/1pesahk/comparing_ai_risks_anders_sandberg_ai_airisk/",
-      "published": 1764932655.0,
-      "thumbnail": "https://external-preview.redd.it/rzBEB72kf7tqa9k009mPicQqfzoMQRxnGTr5U3WsgU4.jpeg?width=320&crop=smart&auto=webp&s=5d1a8e4a7eed108817272e349a4b0576fb25d2ed",
-      "external_url": "https://youtube.com/shorts/HoDQPmPJkAk?si=7l6pfGjQNMtu7V4_",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/db7db827/img/favicon.ico",
-      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
     }
   ],
-  "fetched_at": "2025-12-05T17:00:49.897912+00:00"
+  "fetched_at": "2025-12-05T17:45:17.111551+00:00"
 }
