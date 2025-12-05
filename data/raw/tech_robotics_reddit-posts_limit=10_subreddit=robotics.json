@@ -2,17 +2,6 @@
   "subreddit": "robotics",
   "posts": [
     {
-      "title": "\"Volonaut\" Airbike: Jet-powered hoverbike landing with advanced stabilization (Prototype Demo)",
-      "author": "BuildwithVignesh",
-      "url": "https://www.reddit.com/r/robotics/comments/1pequkz/volonaut_airbike_jetpowered_hoverbike_landing/",
-      "published": 1764927240.0,
-      "thumbnail": "https://external-preview.redd.it/bXpjZXM4Z3R1YzVnMYmws2aqjNo7FWNnYlGMXzjowgQGo8kGrcVFwJs_fSXA.png?width=640&crop=smart&auto=webp&s=9be9686837a689089ebc2baa9128c643f8ed13bc",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "This is the Volonaut Airbike, a prototype by Polish inventor Tomasz Patan. Mechanism: Jet-powered vertical take-off and landing (VTOL). Control: Uses an advanced stabilization system to assist the rider's balance during precision maneuvers. Specs: Carbon fiber frame (30kg), top speed ~100km/h (capped) and flight time ~10 mins. Source: Volonaut \ud83d\udd17 : https://youtu.be/4b0Laxsj_z0?si=8loRPWJWr4v622ii"
-    },
-    {
       "title": "AGIBOT D1 Pro",
       "author": "Nunki08",
       "url": "https://www.reddit.com/r/robotics/comments/1peuynn/agibot_d1_pro/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": "Marc Raibert talks about how robotics demos usually show only the polished successes, even though most of the real progress comes from the failures. The awkward grasps, strange edge cases, and completely unexpected behaviors are where engineers learn the most. He points out that hiding all of that creates a distorted picture of what robotics development actually looks like. What makes his take interesting is that it comes from someone who helped define the modern era of legged robots. Raibert has been around long enough to see how public perception shifts when the shiny videos overshadow the grind behind them. His push for more openness feels less like criticism and more like a reminder of what drew so many people into robotics in the first place: the problem solving, the iteration, and the weird in-between moments where breakthroughs usually begin."
+    },
+    {
+      "title": "Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:",
+      "author": "shadrack_CK",
+      "url": "https://www.reddit.com/r/robotics/comments/1pdxo1t/here_is_an_apples_to_apples_comparison_video_of/",
+      "published": 1764847786.0,
+      "thumbnail": "https://external-preview.redd.it/ZXFyNnBrYWthNjVnMZic-YAL2FrbG_LahCho4nLawiVY0IxB1oL25EA8EEnf.png?width=640&crop=smart&auto=webp&s=a3f734b42d1aaff8fe44a188560a007b1b91ae2b",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     }
   ],
-  "fetched_at": "2025-12-05T21:45:13.379367+00:00"
+  "fetched_at": "2025-12-05T22:23:35.931387+00:00"
 }

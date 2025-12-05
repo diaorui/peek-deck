@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T21:56:45.758038+00:00'
+updated: '2025-12-05T22:23:47.241189+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 21:56 UTC  
+**Last Updated:** December 05, 2025 at 22:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,221.10
+### $89,138.35
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.3%  
-**7d:** -1.8%  
-**30d:** -12.0%  
-**90d:** -19.9%  
-**1y:** -10.5%  
+**24h:** -3.5%  
+**7d:** -2.2%  
+**30d:** -12.4%  
+**90d:** -20.3%  
+**1y:** -10.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1781.98B
+**Market Cap:** $1779.03B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.2%
+-29.3%
 
 **All-Time Low:** $67.81
-+131604.8%
++131399.8%
 
 ---
 
@@ -95,23 +95,23 @@ Rank #1
 
 ---
 
-**[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
-
-3h ago
-
----
-
 **[Weak hands and overleveraged tourists panic-sell every dip. Try HODLing](https://www.reddit.com/r/Bitcoin/comments/1pf5aef/weak_hands_and_overleveraged_tourists_panicsell/)**
 
 Charts like this always remind me why time in the market beats timing the market. Short-term traders panic on every red candle, but the data is brutally simple: the longer you hold Bitcoin, the lower your chances of losing money, dropping to basically 0% after 3+ years. Most of the fear comes from weak hands and over-leveraged gamblers who treat volatility like a threat instead of a feature. Meanwhile, patient holders just keep stacking and waiting. I watched this morning a Bitget live streamer bought 2 $BTC and i think this will be a gold in the next halving... Bitcoin rewards conviction, not panic.
 
-1h ago
+2h ago
+
+---
+
+**[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
+
+4h ago
 
 ---
 
 **[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -119,7 +119,7 @@ Charts like this always remind me why time in the market beats timing the market
 
 Most people let their wallet software generate their private key, which is totally fine but Bitcoin doesn’t require a computer to create one. A Bitcoin private key is just a 256-bit number… And a fair coin flip produces 1 bit of entropy. So in theory (and in practice), you can generate a completely valid, secure Bitcoin private key by doing: Heads = 1 Tails = 0 The math is simple. 256 coin flips is 2^256 potential outcomes. Once you have your 256-bit binary sequence, you can convert it offline into: hex format WIF private key or even a BIP39 seed phrase All without touching the internet. You could also do this with dice, a dice roll is roughly 2.585 bits of entropy. Therefore 99-100 dice rolls will give you enough entropy for a 256 bit private key. This works because Bitcoin’s security comes from math. I mean how could you not love Bitcoin!
 
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +127,7 @@ Most people let their wallet software generate their private key, which is total
 
 Hi I’m new to this. I don’t have a lot of money to put into it but wanted to start with 100. It’s ok ?
 
-4h ago
+5h ago
 
 ---
 
@@ -135,13 +135,13 @@ Hi I’m new to this. I don’t have a lot of money to put into it but wanted to
 
 Im only up 3000% now
 
-19h ago
+20h ago
 
 ---
 
-**[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
+**[Do not fear the volatility of the journey; fear the slow decay of staying behind.](https://www.reddit.com/r/Bitcoin/comments/1pf6zmn/do_not_fear_the_volatility_of_the_journey_fear/)**
 
-18h ago
+1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bloomberg.com • 3h ago
 
 Bitcoin bear market ending sooner than USD charts suggest – Gold ratio already hit 350DMA breakdown and key Fib support; accumulation zone here.
 
-Bitcoin Magazine • 7h ago
+Bitcoin Magazine • 8h ago
 
 ---
 
@@ -307,7 +307,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 317 • ⏱️ 10:13 • 7h ago
+👁️ 25K • 👍 1K • 💬 415 • ⏱️ 10:13 • 7h ago
 
 ---
 
@@ -317,17 +317,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 12K • 👍 354 • 💬 378 • ⏱️ 15:38 • 16h ago
-
----
-
-**[Bitcoin: A Different Kind of Bear Market?](https://www.youtube.com/watch?v=5txYvyuM4uE)**
-
-Is Bitcoin in a different type of bear market? Let's discuss what a bear market may look like coming from a non-euphoric top.
-
-📺 Benjamin Cowen
-
-👁️ 59K • 👍 4K • 💬 315 • ⏱️ 15:38 • 10h ago
+👁️ 14K • 👍 373 • 💬 436 • ⏱️ 15:38 • 17h ago
 
 ---
 
@@ -337,7 +327,17 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 4K • 👍 745 • 💬 147 • ⏱️ 10:23 • 4h ago
+👁️ 10K • 👍 1K • 💬 235 • ⏱️ 10:23 • 5h ago
+
+---
+
+**[Bitcoin: A Different Kind of Bear Market?](https://www.youtube.com/watch?v=5txYvyuM4uE)**
+
+Is Bitcoin in a different type of bear market? Let's discuss what a bear market may look like coming from a non-euphoric top.
+
+📺 Benjamin Cowen
+
+👁️ 68K • 👍 5K • 💬 344 • ⏱️ 15:38 • 10h ago
 
 ---
 
@@ -347,7 +347,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 383 • 💬 266 • ⏱️ 5:50 • 4h ago
+👁️ 7K • 👍 436 • 💬 286 • ⏱️ 5:50 • 5h ago
 
 ---
 
@@ -357,17 +357,17 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 42K • 👍 3K • 💬 313 • ⏱️ 23:27 • 21h ago
+👁️ 44K • 👍 4K • 💬 331 • ⏱️ 23:27 • 21h ago
 
 ---
 
-**[Crypto Alert: Here&#39;s What Bitcoin Is Signalling Now](https://www.youtube.com/watch?v=1SvvvzpgDME)**
+**[WAIT: JP Morgan is STILL predicting $170,000 Bitcoin in 2026?! | EP 1392](https://www.youtube.com/watch?v=sU3cb55xCGo)**
 
-Crypto update - Bitcoin is unprecedented territory Bybit $30000 Bonus: https://bit.ly/Bybit-ZG My Top Centralised Exchange (No ...
+After FUDing bitcoin and Strategy JP Morgan analysts are still predicting the 4 year cycle is over?
 
-📺 MoneyZG
+📺 Simply Bitcoin
 
-👁️ 10K • 👍 751 • 💬 202 • ⏱️ 11:07 • 7h ago
+👁️ 6K • 👍 343 • 💬 185 • ⏱️ 1:34:16 • 2h ago
 
 ---
 
@@ -377,17 +377,7 @@ In today's video, Miles Deutscher breaks down why Bitcoin's reaction to fear is 
 
 📺 Miles Deutscher Finance
 
-👁️ 2K • 👍 144 • 💬 151 • ⏱️ 49:07 • 5h ago
-
----
-
-**[A New Dangerous Era Starts [Crypto Holders Be Ready]](https://www.youtube.com/watch?v=RvyvISqMMko)**
-
-Trump, Bitcoin, stocks, and crypto updates ! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT ...
-
-📺 Lark Davis
-
-👁️ 16K • 👍 814 • 💬 128 • ⏱️ 52:39 • 9h ago
+👁️ 2K • 👍 168 • 💬 239 • ⏱️ 49:07 • 6h ago
 
 ---
 
@@ -397,7 +387,17 @@ Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break dow
 
 📺 Anthony Pompliano
 
-👁️ 23K • 👍 895 • 💬 27 • ⏱️ 28:20 • 23h ago
+👁️ 24K • 👍 915 • 💬 27 • ⏱️ 28:20 • 1d ago
+
+---
+
+**[Brian Armstrong and Larry Fink Are Not Worried About Another Crypto Winter](https://www.youtube.com/watch?v=HeFwIsrtgVQ)**
+
+Watch all of the day's interviews: https://www.youtube.com/playlist?list=PLN09HiJl-9wVJ2hDvfQd3JAJd7kG8aGfT Brian ...
+
+📺 New York Times Events
+
+👁️ 74K • 👍 2K • 💬 91 • ⏱️ 34:35 • 1d ago
 
 ---
 

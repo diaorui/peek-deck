@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T21:56:45.767205+00:00'
+updated: '2025-12-05T22:23:47.250577+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 21:56 UTC  
+**Last Updated:** December 05, 2025 at 22:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -31,14 +31,6 @@ Robotics research and industry news
 ---
 
 ## Reddit: r/robotics
-
-**["Volonaut" Airbike: Jet-powered hoverbike landing with advanced stabilization (Prototype Demo)](https://www.reddit.com/r/robotics/comments/1pequkz/volonaut_airbike_jetpowered_hoverbike_landing/)**
-
-This is the Volonaut Airbike, a prototype by Polish inventor Tomasz Patan. Mechanism: Jet-powered vertical take-off and landing (VTOL). Control: Uses an advanced stabilization system to assist the rider's balance during precision maneuvers. Specs: Carbon fiber frame (30kg), top speed ~100km/h (capped) and flight time ~10 mins. Source: Volonaut 🔗 : https://youtu.be/4b0Laxsj_z0?si=8loRPWJWr4v622ii
-
-12h ago
-
----
 
 **[AGIBOT D1 Pro](https://www.reddit.com/r/robotics/comments/1peuynn/agibot_d1_pro/)**
 
@@ -66,7 +58,7 @@ For a long time, many robotics teams believed that real robot interaction data w
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 19h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=VoytjBgpG28) • 20h ago
 
 ---
 
@@ -74,7 +66,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ROS News for the Week of December 2nd, 2025     ROSCon 2025 videos are now available! If you want a quick summary of the event I put together ROSCon 2025 Recap for the OpenCV Weekly Webinar.       For Giving Tuesday we put together a new campaign for ROS users to become a become a Build Farm Backer. If you’ve every saved a few minutes by running sudo apt install ros-kilted-* instead of compiling from source we would love it if you helped cover our compute costs. Also, for the first time ever, we...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-2nd-2025/51298) • 1h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-2nd-2025/51298) • 2h ago
 
 ---
 
@@ -108,6 +100,12 @@ Marc Raibert talks about how robotics demos usually show only the polished succe
 
 ---
 
+**[Here is an apples to apples comparison video of the Tesla Optimus and Figure robots both running:](https://www.reddit.com/r/robotics/comments/1pdxo1t/here_is_an_apples_to_apples_comparison_video_of/)**
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "robotics"
@@ -136,7 +134,7 @@ Investor's Business Daily • 1d ago
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
-MIT News • 6h ago
+MIT News • 7h ago
 
 ---
 
@@ -176,7 +174,7 @@ Fierce Biotech • 2d ago
 
 Robots struggle with dishes because real-world manipulation, safety, cost, and data lag behind human-evolved dexterity.
 
-Forbes • 5h ago
+Forbes • 6h ago
 
 ---
 
@@ -196,7 +194,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 55K • 👍 442 • 💬 220 • ⏱️ 2:30 • 2d ago
+👁️ 56K • 👍 450 • 💬 224 • ⏱️ 2:30 • 2d ago
 
 ---
 
@@ -206,7 +204,7 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 AI Robot Lab
 
-👁️ 32K • 👍 166 • 💬 4 • ⏱️ 0:19 • 9h ago
+👁️ 41K • 👍 207 • 💬 6 • ⏱️ 0:19 • 9h ago
 
 ---
 
@@ -216,17 +214,17 @@ Chat GPT inside a robot. Can we trust AI? Use code insideai at https://incogni.c
 
 📺 InsideAI
 
-👁️ 531K • 👍 22K • 💬 3K • ⏱️ 14:58 • 5d ago
+👁️ 539K • 👍 22K • 💬 3K • ⏱️ 14:58 • 5d ago
 
 ---
 
-**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
+**[Robots dance, clean and rescue toy cats at expo in Japan | REUTERS](https://www.youtube.com/watch?v=ZJ1YgkcJNew)**
 
-Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
+Humanoid robots showed off rescue skills, dance moves and household tasks at Tokyo's 2025 International Robot Exhibition, ...
 
-📺 Unitree Robotics
+📺 Reuters
 
-👁️ 430K • 👍 1K • 💬 275 • ⏱️ 1:06 • 2d ago
+👁️ 4K • 👍 28 • ⏱️ 2:31 • 2d ago
 
 ---
 
@@ -236,7 +234,27 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 89K • 💬 568 • ⏱️ 1:21 • 2d ago
+👁️ 90K • 💬 575 • ⏱️ 1:21 • 2d ago
+
+---
+
+**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
+
+Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
+
+📺 Unitree Robotics
+
+👁️ 433K • 👍 1K • 💬 276 • ⏱️ 1:06 • 2d ago
+
+---
+
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=_MgTHoFYPDs)**
+
+At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+
+📺 Humanoid Robot 🤖
+
+👁️ 61K • 👍 336 • 💬 3 • ⏱️ 0:19 • 17h ago
 
 ---
 
@@ -246,7 +264,7 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 8K • 👍 167 • 💬 105 • ⏱️ 4:05 • 23h ago
+👁️ 9K • 👍 173 • 💬 107 • ⏱️ 4:05 • 23h ago
 
 ---
 
@@ -256,7 +274,7 @@ XPeng's new humanoid robot, IRON, went viral after the company cut it open on st
 
 📺 CNET
 
-👁️ 540K • 👍 3K • 💬 541 • ⏱️ 5:04 • 5d ago
+👁️ 541K • 👍 3K • 💬 543 • ⏱️ 5:04 • 5d ago
 
 ---
 
@@ -264,27 +282,7 @@ XPeng's new humanoid robot, IRON, went viral after the company cut it open on st
 
 📺 AI . Robot
 
-👁️ 394K • 👍 4K • 💬 42 • ⏱️ 0:19 • 4d ago
-
----
-
-**[AI Humanoid Robot Awakens for the First Time at an LA Tech Expo #HumanoidRobot #AIrobot](https://www.youtube.com/watch?v=6l8elhGM6cE)**
-
-Inside a high-security robotics lab in Los Angeles, a next-gen humanoid robot is activated for the very first time. Engineers run final ...
-
-📺 AI Robot Lab
-
-👁️ 373K • 👍 3K • 💬 27 • ⏱️ 0:34 • 3d ago
-
----
-
-**[MobED | Robotics LAB | Hyundai Motor Group](https://www.youtube.com/watch?v=WfaYrxCwad0)**
-
-Go Anywhere, Do anything, For everyone : MobED Learn more ...
-
-📺 Hyundai Motor Group
-
-👁️ 62K • 👍 584 • 💬 35 • ⏱️ 3:01 • 2d ago
+👁️ 395K • 👍 4K • 💬 42 • ⏱️ 0:19 • 4d ago
 
 ---
 
