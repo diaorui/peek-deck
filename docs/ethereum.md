@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T12:52:17.673801+00:00'
+updated: '2025-12-05T13:27:56.706029+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 12:52 UTC  
+**Last Updated:** December 05, 2025 at 13:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** +4.7%  
-**30d:** -5.6%  
-**90d:** -27.5%  
-**1y:** -21.6%  
+**24h:** -0.5%  
+**7d:** +4.4%  
+**30d:** -5.8%  
+**90d:** -27.7%  
+**1y:** -21.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $377.67B
+**Market Cap:** $377.76B
 Rank #2
 
 **Circulating Supply:** 120,695,422 ETH
@@ -62,7 +62,7 @@ No max supply
 -36.7%
 
 **All-Time Low:** $0.43
-+722593.2%
++722429.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Trump crypto empire falls faster than bitcoin
 
 I had over $123,000 on Nexo, holding NEXO tokens, Platinum status, and I was part of their Private Clients program with the portfolio boost. On October 10th, 2025, around 23:00 CET, the Nexo app completely stopped working for me. I couldn’t add USDT, swap, manage my loan, nothing. I was literally inside the app trying to fix it, and I have screen-time proof showing it was frozen. At 23:12 I suddenly got an email saying my LTV changed to 76.92%. At 23:20 I got another email telling me my collateral had been fully liquidated. When I finally managed to get back into the app at 00:26 CET, everything was gone. My entire $123K portfolio was wiped out while I was stuck watching the app glitch out. This isn’t even the first time something like this has happened. Coinfomania reported in April 2025 that Nexo had already been accused of unfair liquidations worth $10 million. People were saying the same thing back then: the app wasn’t working and they only got two emails before losing everything. Nexo is registered in the Cayman Islands and acts like it’s untouchable. They ignore EU and US courts and even ignore letters from lawyers who represent affected users. And Antoni Trenchev is nowhere to be found. When Binance had system issues, they actually compensated their users. Nexo stayed silent. They didn’t just liquidate me, they took everything while their own platform was offline. Since my situation happened, a lot of people have reached out with almost identical stories. Same timeline, same type of outage, same zero response from Nexo. At this point it’s obvious we won’t get anywhere alone. If you had a similar experience, we need to organize together and take collective action. Nexo isn’t giving anyone answers on their own. #Nexo #CryptoScam #DeFi #NexoDown #CryptoJustice
 
-5h ago
+6h ago
 
 ---
 
@@ -96,7 +96,7 @@ I had over $123,000 on Nexo, holding NEXO tokens, Platinum status, and I was par
 
 saw some questions about production web3 gaming setups so figured i'd share our full stack, we run a multiplayer game with about 10k active players. frontend: unity for game client, react for web dashboard smart contracts: solidity, hardhat for development, foundry for testing infrastructure: caldera for rollup deployment, alchemy for backup rpc calls, the graph for indexing monitoring: tenderly for transaction monitoring, sentry for error tracking deployment: github actions for ci/cd, vercel for web hosting analytics: mixpanel for user analytics, dune for on chain analytics The infrastructure piece was the biggest decision, we initially tried deploying our own rollup but it was a nightmare, switched to managed solution and shipped way faster. deployment was straightforward and support has been solid when we needed it. The biggest cost is actually alchemy for backup rpc even though we have our own nodes, turns out redundancy is worth it when you have paying users. whole stack runs about $800-1000 per month. We use both hardhat and foundry because hardhat for deployment scripts and foundry for testing since its way faster. mostly standard ethereum tools, game specific stuff is all in unity not on chain. Im happy to answer questions about any of these choices or tradeoffs we made.
 
-7m ago
+43m ago
 
 ---
 
@@ -104,7 +104,7 @@ saw some questions about production web3 gaming setups so figured i'd share our 
 
 A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 12h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 13h ago
 
 ---
 
@@ -150,7 +150,7 @@ a wonderful fusaka day to you all - original post if you want to help boost on t
 
 **[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -170,6 +170,14 @@ Yahoo Finance • 1h ago
 
 ---
 
+**[Ethereum Options Traders More Bullish Than Bitcoin Counterparts: Analysts](https://finance.yahoo.com/news/ethereum-options-traders-more-bullish-124727264.html)**
+
+Options data show Ethereum traders are less bearish than Bitcoin’s after recent network upgrades and improving macro uncertainty.
+
+Yahoo Finance • 40m ago
+
+---
+
 **[Bitmine stock jumps 15% as Tom Lee scoops up $150m more Ethereum](https://www.dlnews.com/articles/markets/bitmine-stock-jumps-15-percent-as-tom-lee-snaps-up-150-in-ethereum/)**
 
 Bitmine is the second-largest crypto treasury company, behind only Strategy.   The latest investment comes amid a major upgrade to the Ethereum network. Investors overwhelmingly expect macro tailwinds in December.
@@ -182,7 +190,7 @@ dlnews.com • 1d ago
 
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
-cheddar.com • 15h ago
+cheddar.com • 16h ago
 
 ---
 
@@ -214,13 +222,7 @@ CryptoSlate • 1d ago
 
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
-Seeking Alpha • 8h ago
-
----
-
-**[Bitcoin and Ethereum Price Fall Offers ‘Attractive' Entry, Says Tom Lee, Predicts BTC ATH Next Month](https://www.ccn.com/news/crypto/bitcoin-and-ethereum-price-fall-offers-attractive-entry-says-tom-lee-predicts-btc-ath-next-month/)**
-
-CCN.com • 3d ago
+Seeking Alpha • 9h ago
 
 ---
 
@@ -244,7 +246,7 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 28K • 👍 2K • 💬 101 • ⏱️ 17:37 • 19h ago
+👁️ 28K • 👍 2K • 💬 101 • ⏱️ 17:37 • 20h ago
 
 ---
 
@@ -254,7 +256,7 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 7K • 👍 773 • 💬 70 • ⏱️ 31:23 • 3h ago
+👁️ 7K • 👍 773 • 💬 70 • ⏱️ 31:23 • 4h ago
 
 ---
 
@@ -264,7 +266,7 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 57K • 👍 2K • 💬 384 • ⏱️ 27:33 • 18h ago
+👁️ 57K • 👍 2K • 💬 384 • ⏱️ 27:33 • 19h ago
 
 ---
 
@@ -274,7 +276,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 187 • 💬 278 • ⏱️ 15:38 • 7h ago
+👁️ 4K • 👍 187 • 💬 278 • ⏱️ 15:38 • 8h ago
 
 ---
 
@@ -304,7 +306,7 @@ Bitcoin steadied near weekly highs as concerns ease, but most altcoins remain we
 
 📺 Paul Barron Network
 
-👁️ 27K • 👍 1K • 💬 131 • ⏱️ 32:14 • 16h ago
+👁️ 27K • 👍 1K • 💬 131 • ⏱️ 32:14 • 17h ago
 
 ---
 

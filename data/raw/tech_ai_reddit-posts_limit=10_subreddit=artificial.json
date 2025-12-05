@@ -79,6 +79,28 @@
       "description": "Lisa Su leads Nvidia\u2019s biggest rival in the AI chip market. When asked at WIRED\u2019s Big Interview event if AI is a bubble, company said \u201cEmphatically, from my perspective, no.\u201d"
     },
     {
+      "title": "A new AI winter is coming?, We're losing our voice to LLMs, The Junior Hiring Crisis and many other AI news from Hacker News",
+      "author": "alexeestec",
+      "url": "https://www.reddit.com/r/artificial/comments/1peuxj4/a_new_ai_winter_is_coming_were_losing_our_voice/",
+      "published": 1764940967.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": "Hey everyone, here is the 10th issue of Hacker News x AI newsletter, a newsletter I started 10 weeks ago as an experiment to see if there is an audience for such content. This is a weekly AI related links from Hacker News and the discussions around them. AI CEO demo that lets an LLM act as your boss, triggering debate about automating management, labor, and whether agents will replace workers or executives first. Link to HN Tooling to spin up always-on AI agents that coordinate as a simulated organization, with questions about emergent behavior, reliability, and where human oversight still matters. Link to HN Thread on AI-driven automation of work, from \u201cagents doing 90% of your job\u201d to macro fears about AGI, unemployment, population collapse, and calls for global governance of GPU farms and AGI research. Link to HN Debate over AI replacing CEOs and other \u201csoft\u201d roles, how capital might adopt AI-CEO-as-a-service, and the ethical/economic implications of AI owners, governance, and capitalism with machine leadership. Link to HN If you want to subscribe to this newsletter, you can do it here: https://hackernewsai.com/"
+    },
+    {
+      "title": "AI Slop Is Ruining Reddit for Everyone",
+      "author": "wiredmagazine",
+      "url": "https://www.reddit.com/r/artificial/comments/1peuwb5/ai_slop_is_ruining_reddit_for_everyone/",
+      "published": 1764940874.0,
+      "thumbnail": "https://external-preview.redd.it/LNaKJp8rllZicGcGW35EJt0t1ua-MUEB2YC7x6Q3Guc.jpeg?width=640&crop=smart&auto=webp&s=4616f386de6c4aaf86df76bc642c6ecc42dff549",
+      "external_url": "https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/",
+      "site_name": "WIRED",
+      "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "description": "Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits."
+    },
+    {
       "title": "Popular RAM brand Crucial axed, so its owners can focus on \"faster-growing segments\" like AI",
       "author": "Tiny-Independent273",
       "url": "https://www.reddit.com/r/artificial/comments/1pdyaiz/popular_ram_brand_crucial_axed_so_its_owners_can/",
@@ -88,29 +110,7 @@
       "site_name": "PC Guide",
       "favicon": "https://www.pcguide.com/wp-content/uploads/fbrfg/apple-touch-icon.png",
       "description": "Micron has confirmed that it is exiting the Crucial consumer business so it can focus on what it calls \u201cfaster-growing segments.\""
-    },
-    {
-      "title": "Embedding Drift silently broke our RAG",
-      "author": "coolandy00",
-      "url": "https://www.reddit.com/r/artificial/comments/1pefrm6/embedding_drift_silently_broke_our_rag/",
-      "published": 1764892052.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": "Our RAG stack degraded slowly over months. Text-shape differences created different embedding vectors Hidden characters slipped in from OCR Partial updates mixed old and new embeddings Incremental index rebuilds drifted from ground truth Retrieval looked random at times, but the retriever wasn\u2019t the problem. We enforced a consistent embedding pipeline: Canonical preprocessing that never changes silently Full re-embeddings instead of patching Version-pinned embedding model Stable index rebuild rules tied to segmentation changes Impact: Retrieval reliability improved immediately Embedding clusters became predictable Fewer \u201cmysterious RAG failures\u201d Debug time dropped dramatically Have you seen embedding drift show up in long-running systems?"
-    },
-    {
-      "title": "US health department unveils strategy to expand its adoption of AI technology",
-      "author": "GregWilson23",
-      "url": "https://www.reddit.com/r/artificial/comments/1pee1wf/us_health_department_unveils_strategy_to_expand/",
-      "published": 1764887670.0,
-      "thumbnail": "https://external-preview.redd.it/XDpgQq9jsit3NJvvjSglgxCtt5C-VzbSKbfY4ukrGpA.jpeg?width=640&crop=smart&auto=webp&s=d1ded6e30d9694c7d4003ea23031539026fa8b15",
-      "external_url": "https://apnews.com/article/hhs-rfk-jr-health-ai-trump-4b4e2dd2e26105310c58c75c6df17b08",
-      "site_name": "AP News",
-      "favicon": "https://apnews.com/apple-touch-icon.png",
-      "description": "The U.S. Department of Health and Human Services has outlined a new strategy to expand its use of artificial intelligence."
     }
   ],
-  "fetched_at": "2025-12-05T12:51:36.945464+00:00"
+  "fetched_at": "2025-12-05T13:27:29.947858+00:00"
 }

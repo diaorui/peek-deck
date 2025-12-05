@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T12:52:17.667866+00:00'
+updated: '2025-12-05T13:27:56.699986+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 12:52 UTC  
+**Last Updated:** December 05, 2025 at 13:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,417.51
+### $90,961.95
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** +0.5%  
-**30d:** -10.0%  
-**90d:** -18.1%  
-**1y:** -8.4%  
+**24h:** -1.1%  
+**7d:** -0.1%  
+**30d:** -10.5%  
+**90d:** -18.5%  
+**1y:** -9.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1820.61B
+**Market Cap:** $1816.98B
 Rank #1
 
 **Circulating Supply:** 19,957,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.6%
+-27.9%
 
 **All-Time Low:** $67.81
-+134428.8%
++134045.4%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Im only up 3000% now
 
-10h ago
+11h ago
 
 ---
 
@@ -95,13 +95,19 @@ Im only up 3000% now
 
 I finally sold all my bitcoin, it would be a shame if it pumps now, right? I really really hope it doesn't!! 😉 🙏🙏
 
-1h ago
+2h ago
+
+---
+
+**[The most expensive mistake is always selling your BTC](https://www.reddit.com/r/Bitcoin/comments/1peu9r7/the_most_expensive_mistake_is_always_selling_your/)**
+
+36m ago
 
 ---
 
 **[full speed](https://www.reddit.com/r/Bitcoin/comments/1pe5lv5/full_speed/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -109,13 +115,7 @@ I finally sold all my bitcoin, it would be a shame if it pumps now, right? I rea
 
 💀
 
-22h ago
-
----
-
-**[My first order - Proud owner of 0.01099277 BTCs.](https://www.reddit.com/r/Bitcoin/comments/1peh19z/my_first_order_proud_owner_of_001099277_btcs/)**
-
-12h ago
+23h ago
 
 ---
 
@@ -127,9 +127,15 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 ---
 
+**[My first order - Proud owner of 0.01099277 BTCs.](https://www.reddit.com/r/Bitcoin/comments/1peh19z/my_first_order_proud_owner_of_001099277_btcs/)**
+
+12h ago
+
+---
+
 **[Bitcoin in 2025](https://www.reddit.com/r/Bitcoin/comments/1pe1yxx/bitcoin_in_2025/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -141,14 +147,6 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 ---
 
-**[🧡 Thank You Satoshi, for Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pe3pvv/thank_you_satoshi_for_bitcoin/)**
-
-Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our entire crypto journey wouldn’t even have started.Thank you for Bitcoin, the silent revolution changing the world block by block. 🚀
-
-20h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -157,17 +155,19 @@ Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our e
 
 BlackRock Inc.’s iShares Bitcoin Trust recorded its longest streak of weekly withdrawals since debuting in January 2024, in a sign that institutional appetite for the world’s largest cryptocurrency remains subdued even as prices stabilize.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Spot bitcoin ETFs see $195 million exit, largest daily outflow in 2 weeks](https://www.theblock.co/post/381473/spot-bitcoin-etfs-see-195-million-exit)**
+**[Bitcoin ETFs Just Shed $194 Million—Highest in Two Weeks](https://decrypt.co/351065/bitcoin-etfs-just-shed-194-million-highest-in-two-weeks)**
 
-The Block • 6h ago
+Analysts argue this could mean institutional investors are continuing to unwind leveraged positions and basis trades.
+
+Decrypt • 1h ago
 
 ---
 
-**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqecH3OVKt9g0sF2D0mhk5YrxaNgpgJ4MDbb8c77ALNZ8OIfcnCdTI-o&gaa_ts=6932d8dd&gaa_sig=DAOOcl9Y8fChftCBzFpH_wv3pQ2RrmNAaU12iISoL27UXjf8L2A1nO5bgvux7eJJFDUENNMf94nTQJyt0AB2eg%3D%3D)**
+**[Harvard’s Big Wager on Bitcoin Came Right Before the Bust](https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqcz7GNyyudTZx2jt40TRcYTYbUx5LgvjyZj_Ow9P_-184tPqjmMThHr&gaa_ts=6932e146&gaa_sig=oGQ1gJm_Xu3tZN-s2OEolvhPPp1GRXCnqVpYk9eMqNXgFcocS1pqML19NZurZ9vVWI5CcETN3WeFDrvSg6rSbg%3D%3D)**
 
 The Wall Street Journal • 2d ago
 
@@ -181,7 +181,7 @@ CNBC • 1d ago
 
 ---
 
-**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
+**[Why bitcoin could shoot to $170,000 in the next year, according to JPMorgan](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
 
 JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
 
@@ -199,7 +199,7 @@ The Block • 14h ago
 
 JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -207,21 +207,21 @@ Yahoo Finance • 1h ago
 
 The one-month chart shows BTC still locked inside a descending structure from early November’s highs, with the latest rebound producing another lower high.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Bitcoin rebounds after drawdown hits 20%. Is the crypto winter over or just starting?](https://www.cnbc.com/2025/12/02/bitcoin-rebounds-after-drawdown-hits-20percent-is-the-crypto-winter-over-or-just-starting-.html)**
+**[Bitcoin Hits Two-Week High But Crypto Sentiment Remains Fragile](https://www.bloomberg.com/news/articles/2025-12-03/bitcoin-price-btc-hits-two-week-high-as-crypto-sentiment-remains-fragile)**
 
-Bitcoin could lose about 80% of its value if it follows its previous bear-market patterns, analysts said. But they're uncertain a crypto winter has started.
+Bitcoin extended a tentative rebound on Wednesday, climbing to a two-week high as traders look for signs that the wider crypto market may be regaining its footing after a prolonged selloff.
 
-CNBC • 2d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin, XRP Fall as Crypto Rebound Stalls. Why It May Quickly Restart.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-fed-pce-6e68daba?gaa_at=eafs&gaa_n=AWEtsqcOu1TPl2pALLjKFTxQnvCPs5vaUDR7_u8j4ZTMZiq85XXvHVg0ivBB&gaa_ts=6932d8dd&gaa_sig=2PhPVqVl9rCF_XbWux5GIT4evvCeJKUE3qji0P_t6n_5ZgETLZDhE3lrM7CTJo3ksDvfXOGB1av54cpSsBjngw%3D%3D)**
+**[Bitcoin Falls as Crypto Rebound Stalls. Why It May Quickly Restart.](https://www.barrons.com/articles/bitcoin-xrp-ethereum-crypto-fed-pce-6e68daba?gaa_at=eafs&gaa_n=AWEtsqfYNHxT9xoSKKeZHvudqYmudo0yRjcDYWstSYXEOtLisjmeHGHFgCIH&gaa_ts=6932e146&gaa_sig=VraNfG7CTRj1gAN2-Olo_vav35gRAAFaN3bxo-uUjuWM6Dssr06kxmLIjipsV9h0cCNV2l1Bq1Nh-YgK3NWqAw%3D%3D)**
 
-Barron's • 8m ago
+Barron's • 43m ago
 
 ---
 
@@ -311,7 +311,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 187 • 💬 278 • ⏱️ 15:38 • 7h ago
+👁️ 4K • 👍 187 • 💬 278 • ⏱️ 15:38 • 8h ago
 
 ---
 
@@ -341,7 +341,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 31K • 👍 3K • 💬 255 • ⏱️ 23:27 • 11h ago
+👁️ 31K • 👍 3K • 💬 255 • ⏱️ 23:27 • 12h ago
 
 ---
 
@@ -371,7 +371,7 @@ Platform I Trade on http://ckenny.com/joinBC Free Strategy Course https://ckenny
 
 📺 Conor Kenny
 
-👁️ 8K • 👍 600 • 💬 65 • ⏱️ 22:03 • 6h ago
+👁️ 8K • 👍 600 • 💬 65 • ⏱️ 22:03 • 7h ago
 
 ---
 
@@ -391,7 +391,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 2K • 💬 336 • ⏱️ 47:51 • 21h ago
+👁️ 30K • 👍 2K • 💬 336 • ⏱️ 47:51 • 22h ago
 
 ---
 
@@ -401,7 +401,7 @@ Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (
 
 📺 MegaWhale Crypto
 
-👁️ 5K • 👍 346 • 💬 204 • ⏱️ 20:47 • 11h ago
+👁️ 5K • 👍 346 • 💬 204 • ⏱️ 20:47 • 12h ago
 
 ---
 

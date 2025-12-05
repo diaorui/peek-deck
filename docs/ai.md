@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T12:52:17.659585+00:00'
+updated: '2025-12-05T13:27:56.691521+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 12:52 UTC  
+**Last Updated:** December 05, 2025 at 13:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 **[This guy built an AI for your ear that you talk to and it literally changes what you hear](https://www.reddit.com/r/artificial/comments/1pec5an/this_guy_built_an_ai_for_your_ear_that_you_talk/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -61,7 +61,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 An AI image generator startup’s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been “nudified.”
 
-🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 56m ago
+🔗 [WIRED](https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/) • 1h ago
 
 ---
 
@@ -75,7 +75,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/HoDQPmPJkAk?si=7l6pfGjQNMtu7V4_) • 1h ago
+🔗 [youtube.com](https://youtube.com/shorts/HoDQPmPJkAk?si=7l6pfGjQNMtu7V4_) • 2h ago
 
 ---
 
@@ -83,7 +83,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Lisa Su leads Nvidia’s biggest rival in the AI chip market. When asked at WIRED’s Big Interview event if AI is a bubble, company said “Emphatically, from my perspective, no.”
 
-🔗 [WIRED](https://www.wired.com/story/big-interview-event-lisa-su-amd/) • 17h ago
+🔗 [WIRED](https://www.wired.com/story/big-interview-event-lisa-su-amd/) • 18h ago
+
+---
+
+**[A new AI winter is coming?, We're losing our voice to LLMs, The Junior Hiring Crisis and many other AI news from Hacker News](https://www.reddit.com/r/artificial/comments/1peuxj4/a_new_ai_winter_is_coming_were_losing_our_voice/)**
+
+Hey everyone, here is the 10th issue of Hacker News x AI newsletter, a newsletter I started 10 weeks ago as an experiment to see if there is an audience for such content. This is a weekly AI related links from Hacker News and the discussions around them. AI CEO demo that lets an LLM act as your boss, triggering debate about automating management, labor, and whether agents will replace workers or executives first. Link to HN Tooling to spin up always-on AI agents that coordinate as a simulated organization, with questions about emergent behavior, reliability, and where human oversight still matters. Link to HN Thread on AI-driven automation of work, from “agents doing 90% of your job” to macro fears about AGI, unemployment, population collapse, and calls for global governance of GPU farms and AGI research. Link to HN Debate over AI replacing CEOs and other “soft” roles, how capital might adopt AI-CEO-as-a-service, and the ethical/economic implications of AI owners, governance, and capitalism with machine leadership. Link to HN If you want to subscribe to this newsletter, you can do it here: https://hackernewsai.com/
+
+5m ago
+
+---
+
+**[AI Slop Is Ruining Reddit for Everyone](https://www.reddit.com/r/artificial/comments/1peuwb5/ai_slop_is_ruining_reddit_for_everyone/)**
+
+Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
+
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 6m ago
 
 ---
 
@@ -95,22 +111,6 @@ Micron has confirmed that it is exiting the Crucial consumer business so it can 
 
 ---
 
-**[Embedding Drift silently broke our RAG](https://www.reddit.com/r/artificial/comments/1pefrm6/embedding_drift_silently_broke_our_rag/)**
-
-Our RAG stack degraded slowly over months. Text-shape differences created different embedding vectors Hidden characters slipped in from OCR Partial updates mixed old and new embeddings Incremental index rebuilds drifted from ground truth Retrieval looked random at times, but the retriever wasn’t the problem. We enforced a consistent embedding pipeline: Canonical preprocessing that never changes silently Full re-embeddings instead of patching Version-pinned embedding model Stable index rebuild rules tied to segmentation changes Impact: Retrieval reliability improved immediately Embedding clusters became predictable Fewer “mysterious RAG failures” Debug time dropped dramatically Have you seen embedding drift show up in long-running systems?
-
-13h ago
-
----
-
-**[US health department unveils strategy to expand its adoption of AI technology](https://www.reddit.com/r/artificial/comments/1pee1wf/us_health_department_unveils_strategy_to_expand/)**
-
-The U.S. Department of Health and Human Services has outlined a new strategy to expand its use of artificial intelligence.
-
-🔗 [AP News](https://apnews.com/article/hhs-rfk-jr-health-ai-trump-4b4e2dd2e26105310c58c75c6df17b08) • 14h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -119,21 +119,19 @@ The U.S. Department of Health and Human Services has outlined a new strategy to 
 
 While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
-**[Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/news/anthropic-interviewer)**
+**[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
 
-What 1,250 professionals told us about working with AI
-
-Anthropic • 19h ago
+The Washington Post • 25m ago
 
 ---
 
-**[Transformative AI is coming, and so are the risks](https://www.axios.com/2025/12/05/ai-deepmind-hassabis-gemini)**
+**[Exclusive: Meta strikes multiple AI deals with news publishers](https://www.axios.com/2025/12/05/meta-ai-deals-news-publishers)**
 
-Axios • 1h ago
+Axios • 28m ago
 
 ---
 
@@ -141,25 +139,29 @@ Axios • 1h ago
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-WIRED • 52m ago
+WIRED • 1h ago
 
 ---
 
-**[Wall Street Races to Cut Its Risk From AI’s Borrowing Binge](https://www.bloomberg.com/news/articles/2025-12-05/wall-street-races-to-cut-its-risk-from-ai-s-borrowing-binge)**
+**[Dr. Michio Kaku on AI's 'double-edged sword' and job displacement fears](https://www.foxnews.com/video/6386032064112)**
 
-Bloomberg.com • 1h ago
+Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial intelligence, including scenarios where AI resorts to blackmail, on 'The Story.'
 
----
-
-**[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
-
-The Economist • 1d ago
+Fox News • 57m ago
 
 ---
 
-**[Opinion | A.I. Technology Needs the Bubble to Burst](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
+**[How AI is rewiring childhood | Dec 6th 2025](https://www.economist.com/weeklyedition/2025-12-06)**
 
-The New York Times • 2h ago
+The Economist • 26m ago
+
+---
+
+**[Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/news/anthropic-interviewer)**
+
+What 1,250 professionals told us about working with AI
+
+Anthropic • 20h ago
 
 ---
 
@@ -171,17 +173,17 @@ Forbes • 19h ago
 
 ---
 
+**[Opinion | A.I. Technology Needs the Bubble to Burst](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
+
+The New York Times • 3h ago
+
+---
+
 **[‘It was about degrading someone completely’: the story of Mr DeepFakes – the world’s most notorious AI porn site](https://www.theguardian.com/society/ng-interactive/2025/dec/05/it-was-about-degrading-someone-completely-the-story-of-mr-deepfakes-the-worlds-most-notorious-ai-porn-site)**
 
 The hobbyists who helped build this site created technology that has been used to humiliate countless women. Why didn’t governments step in and stop them?
 
-The Guardian • 4h ago
-
----
-
-**[ChatGPT started the AI race. Now its lead is looking shaky.](https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/)**
-
-The Washington Post • 1h ago
+The Guardian • 5h ago
 
 ---
 
@@ -193,7 +195,7 @@ The Washington Post • 1h ago
 
 : Zig prez complains about 'vibe-scheduling' after safe sleep bug goes unaddressed for eons
 
-⬆️ 1046 • 💬 603 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
+⬆️ 1047 • 💬 603 • 2d ago • [theregister.com](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
 
 ---
 
@@ -201,7 +203,7 @@ The Washington Post • 1h ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 932 • 💬 1034 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 934 • 💬 1034 • 1d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -233,7 +235,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 597 • 💬 556 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 603 • 💬 557 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -241,7 +243,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 410 • 💬 309 • 21h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 410 • 💬 312 • 21h ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -249,7 +251,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 238 • 💬 197 • 15h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 238 • 💬 197 • 16h ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -257,7 +259,7 @@ The aircraft was completely destroyed after a spare part bought at an air show i
 
 Looking at actual token demand growth, infrastructure utilization, and capacity constraints - the economics don't match the 2000s playbook like people assume
 
-⬆️ 233 • 💬 189 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
+⬆️ 234 • 💬 190 • 2d ago • [Martin Alderson](https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/)
 
 ---
 
@@ -265,7 +267,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 189 • 💬 90 • 14h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 190 • 💬 91 • 15h ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -349,7 +351,7 @@ AI #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle
 
 📺 Θαύμα Προφητείας Θεών
 
-👁️ 25K • 👍 118 • 💬 1 • ⏱️ 0:11 • 7h ago
+👁️ 25K • 👍 118 • 💬 1 • ⏱️ 0:11 • 8h ago
 
 ---
 
@@ -359,7 +361,7 @@ https://twitch.tv/ThePrimeagen - I Stream on Twitch https://twitter.com/terminal
 
 📺 ThePrimeTime
 
-👁️ 185K • 👍 7K • 💬 946 • ⏱️ 5:29 • 2d ago
+👁️ 185K • 👍 7K • 💬 946 • ⏱️ 5:29 • 3d ago
 
 ---
 
@@ -385,7 +387,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,103 • 3d ago
+⬇️ 152,916 • ❤️ 2,105 • 3d ago
 
 ---
 
@@ -397,7 +399,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 13,541 • ❤️ 719 • 4d ago
+⬇️ 13,541 • ❤️ 720 • 4d ago
 
 ---
 
@@ -409,7 +411,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 3,773 • ❤️ 503 • 4d ago
+⬇️ 3,773 • ❤️ 505 • 4d ago
 
 ---
 
@@ -437,16 +439,6 @@ DeepSeek-Math-V2 is a large language model specialized in mathematical reasoning
 
 ---
 
-**[Z-Image-Turbo-Fun-Controlnet-Union](https://huggingface.co/alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union)**
-
-*Alibaba-PAI*
-
-Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
-
-⬇️ 0 • ❤️ 236 • 3d ago
-
----
-
 **[VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)**
 
 *Microsoft*
@@ -455,7 +447,17 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 236 • 11h ago
+⬇️ 12,984 • ❤️ 241 • 11h ago
+
+---
+
+**[Z-Image-Turbo-Fun-Controlnet-Union](https://huggingface.co/alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union)**
+
+*Alibaba-PAI*
+
+Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
+
+⬇️ 0 • ❤️ 236 • 3d ago
 
 ---
 
@@ -467,7 +469,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 192,451 • ❤️ 888 • 8d ago
+⬇️ 192,451 • ❤️ 890 • 8d ago
 
 ---
 
@@ -477,7 +479,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 209 • 3d ago
+⬇️ 0 • ❤️ 210 • 3d ago
 
 ---
 
@@ -487,7 +489,7 @@ STARFlow is a state-of-the-art transformer autoregressive flow model for high-qu
 
 z_image_turbo is a diffusion model designed for single-file image generation, likely integrated with ComfyUI workflows for advanced image synthesis tasks.
 
-⬇️ 1,857,463 • ❤️ 362 • 8d ago
+⬇️ 1,857,463 • ❤️ 364 • 8d ago
 
 ---
 
@@ -517,7 +519,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 18 • 💬 2 • ⭐ 4,659 • 7d ago
+▲ 18 • 💬 2 • ⭐ 4,659 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -639,7 +641,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.1k • 🔱 391 • 9h ago
+⭐ 5.1k • 🔱 391 • 10h ago
 
 ---
 
@@ -679,7 +681,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 821 • 🔱 42 • 6h ago
+⭐ 821 • 🔱 42 • 7h ago
 
 ---
 
@@ -689,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 802 • 🔱 102 • 51s ago
+⭐ 802 • 🔱 102 • 36m ago
 
 ---
 
