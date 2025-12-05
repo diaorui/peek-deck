@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T11:34:39.003567+00:00'
+updated: '2025-12-05T11:45:27.803199+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 11:34 UTC  
+**Last Updated:** December 05, 2025 at 11:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** +0.4%  
-**30d:** -10.1%  
-**90d:** -18.2%  
-**1y:** -8.6%  
+**24h:** -2.1%  
+**7d:** +0.5%  
+**30d:** -10.0%  
+**90d:** -18.1%  
+**1y:** -8.5%  
 
 ---
 
@@ -87,7 +87,7 @@ Im only up 3000% now
 
 **[Bitcoin can fix this?](https://www.reddit.com/r/Bitcoin/comments/1pekul0/bitcoin_can_fix_this/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -107,7 +107,7 @@ Im only up 3000% now
 
 **[My first order - Proud owner of 0.01099277 BTCs.](https://www.reddit.com/r/Bitcoin/comments/1peh19z/my_first_order_proud_owner_of_001099277_btcs/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -241,7 +241,7 @@ Fortune • 23h ago
 
 Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin will cure everything
 
-⬆️ 5 • 💬 0 • 21h ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
+⬆️ 5 • 💬 0 • 22h ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
 
 ---
 
@@ -297,7 +297,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 **[Bacillus Safensis LG01 Highlights Its Prospects in Biotechnology and Biocontrol](https://news.ycombinator.com/item?id=46149605)**
 
-⬆️ 1 • 💬 0 • 18h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
+⬆️ 1 • 💬 0 • 19h ago • [mdpi.com](https://www.mdpi.com/2076-2607/13/11/2605)
 
 ---
 
@@ -305,13 +305,43 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ## YouTube Videos: "bitcoin"
 
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 4K • 👍 187 • 💬 278 • ⏱️ 15:38 • 6h ago
+
+---
+
+**[BITCOIN &amp; ALTCOINS: Time is Running Out (important)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=il0rvpKiKHQ)**
+
+BITCOIN & ALTCOINS: Time is Running Out (important)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 106 • 💬 112 • ⏱️ 19:02 • 1h ago
+
+---
+
+**[Tom Lee: &quot;The Ethereum Price Is About To Get Out Of Control&quot;](https://www.youtube.com/watch?v=ufxKb5GmsSg)**
+
+LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
+
+📺 Altcoin Daily
+
+👁️ 45K • 👍 3K • 💬 355 • ⏱️ 11:16 • 10h ago
+
+---
+
 **[Every Major Bank Just Pivoted to Bitcoin… They Know What’s Coming!](https://www.youtube.com/watch?v=3rSaeVkFY4Q)**
 
 Every major economy is hitting the debt wall simultaneously. A global reset is coming—fast, systemic, and total. BlackRock ...
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 232 • ⏱️ 23:27 • 10h ago
+👁️ 31K • 👍 3K • 💬 255 • ⏱️ 23:27 • 10h ago
 
 ---
 
@@ -321,47 +351,7 @@ As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and t
 
 📺 Swan Bitcoin
 
-👁️ 47K • 👍 2K • 💬 202 • ⏱️ 18:48 • 13h ago
-
----
-
-**[What Happens to Bitcoin When the Fed Finally Cuts?](https://www.youtube.com/watch?v=nrSuqkGl1t4)**
-
-Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break down the growing divisions inside the Federal ...
-
-📺 Anthony Pompliano
-
-👁️ 17K • 👍 669 • 💬 1 • ⏱️ 28:20 • 13h ago
-
----
-
-**[BITCOIN - YOU NEED TO SEE THIS!!!!](https://www.youtube.com/watch?v=I4SIVE1j1wo)**
-
-Platform I Trade on http://ckenny.com/joinBC Free Strategy Course https://ckenny.com/whopCK ⚠️ DISCLAIMER – READ ...
-
-📺 Conor Kenny
-
-👁️ 5K • 👍 475 • 💬 196 • ⏱️ 22:03 • 5h ago
-
----
-
-**[&quot;The Bitcoin Collapse Has Started!&quot; Do NOT Be Fooled!!](https://www.youtube.com/watch?v=MqdAC_se7vY)**
-
-I'm Selling EVERYTHING!” Why Tom Crown Is Cashing Out of Bitcoin 50% deposit bonus on first $100 on WEEX: ...
-
-📺 Altcoin Daily
-
-👁️ 64K • 👍 3K • 💬 398 • ⏱️ 17:04 • 1d ago
-
----
-
-**[Trump&#39;s Fed Pick FINALLY REVEALS What&#39;s Coming for Bitcoin &amp; CRYPTO](https://www.youtube.com/watch?v=Lc0L5TA-Zrw)**
-
-Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapitalventure.ai Trump basically just confirmed who ...
-
-📺 Dan Gambardello
-
-👁️ 24K • 👍 1K • 💬 435 • ⏱️ 10:02 • 1d ago
+👁️ 51K • 👍 2K • 💬 241 • ⏱️ 18:48 • 13h ago
 
 ---
 
@@ -371,17 +361,27 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 411 • 💬 78 • ⏱️ 9:41 • 6h ago
+👁️ 7K • 👍 493 • 💬 27 • ⏱️ 9:41 • 6h ago
 
 ---
 
-**[Bitcoin (BTC): Don’t Be FOOLED! The Worst Is Still Coming! (WATCH ASAP)](https://www.youtube.com/watch?v=xpaxj2mwejQ)**
+**[BITCOIN - YOU NEED TO SEE THIS!!!!](https://www.youtube.com/watch?v=I4SIVE1j1wo)**
 
-Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (Non-KYC) 15% off trading fees + ...
+Platform I Trade on http://ckenny.com/joinBC Free Strategy Course https://ckenny.com/whopCK ⚠️ DISCLAIMER – READ ...
 
-📺 MegaWhale Crypto
+📺 Conor Kenny
 
-👁️ 4K • 👍 325 • 💬 174 • ⏱️ 20:47 • 10h ago
+👁️ 8K • 👍 600 • 💬 65 • ⏱️ 22:03 • 5h ago
+
+---
+
+**[🚨 BTC &amp; ETH: I AM WARNING YOU AGAIN!!!! LISTEN THIS TIME!!!!!](https://www.youtube.com/watch?v=na9LpJZqDyY)**
+
+What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get ready now!!! AI Trading Club: ...
+
+📺 Thomas Kralow
+
+👁️ 23K • 👍 3K • 💬 92 • ⏱️ 10:24 • 1d ago
 
 ---
 
@@ -391,17 +391,17 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 328 • ⏱️ 47:51 • 20h ago
+👁️ 30K • 👍 2K • 💬 336 • ⏱️ 47:51 • 20h ago
 
 ---
 
-**[Bitcoin Hesitates As The Fed Prepares To Flood Markets! What&#39;s Next?](https://www.youtube.com/watch?v=4aAnKyuf_Vw)**
+**[Bitcoin (BTC): Don’t Be FOOLED! The Worst Is Still Coming! (WATCH ASAP)](https://www.youtube.com/watch?v=xpaxj2mwejQ)**
 
-Bitcoin #Crypto #Finance The Federal Reserve has officially ended quantitative tightening, preparing to inject trillions in new ...
+Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (Non-KYC) 15% off trading fees + ...
 
-📺 The Wolf Of All Streets
+📺 MegaWhale Crypto
 
-👁️ 24K • 👍 898 • 💬 318 • ⏱️ 35:57 • 20h ago
+👁️ 5K • 👍 346 • 💬 204 • ⏱️ 20:47 • 10h ago
 
 ---
 

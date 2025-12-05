@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-05T11:34:38.995134+00:00'
+updated: '2025-12-05T11:45:27.794779+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- videos
 - repositories
+- news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 05, 2025 at 11:34 UTC  
+**Last Updated:** December 05, 2025 at 11:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -83,7 +83,7 @@ Micron has confirmed that it is exiting the Crucial consumer business so it can 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/HoDQPmPJkAk?si=7l6pfGjQNMtu7V4_) • 30m ago
+🔗 [youtube.com](https://youtube.com/shorts/HoDQPmPJkAk?si=7l6pfGjQNMtu7V4_) • 41m ago
 
 ---
 
@@ -133,7 +133,7 @@ The Economist • 1d ago
 
 The Taiwanese company has increasingly moved into the AI infrastructure space in recent times
 
-CNBC • 53m ago
+CNBC • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ BBC • 11h ago
 
 Ali Ansari’s decision to turn micro1’s AI recruitment assistant into a data labeling business spiked the company’s valuation from $80 million to $2.5 billion.
 
-Forbes • 17h ago
+Forbes • 18h ago
 
 ---
 
@@ -273,23 +273,13 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 
 ## YouTube Videos: "ai"
 
-**[AI Expert: (Warning) 2030 Might Be The Point Of No Return! We&#39;ve Been Lied To About AI!](https://www.youtube.com/watch?v=P7Y-fynYsgE)**
+**[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
 
-AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments won't regulate, how AGI could replace humans ...
+Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
 
-📺 The Diary Of A CEO
+📺 Future of Life Institute
 
-👁️ 545K • 👍 14K • 💬 3K • ⏱️ 2:04:06 • 1d ago
-
----
-
-**[OpenAI declares &quot;code red&quot; as Google threatens its artificial intelligence lead, WSJ reports](https://www.youtube.com/watch?v=ZheT7hQIf08)**
-
-OpenAI has declared a "code red" as Google threatens to unseat the AI industry's early leader, according to the Wall Street ...
-
-📺 CBS News
-
-👁️ 500K • 👍 6K • 💬 1K • ⏱️ 4:59 • 2d ago
+👁️ 15K • 👍 912 • 💬 273 • ⏱️ 15:40 • 21h ago
 
 ---
 
@@ -299,7 +289,17 @@ The threats from unchecked AI are real — worker displacement, corporate survei
 
 📺 Senator Bernie Sanders
 
-👁️ 397K • 👍 29K • 💬 6K • ⏱️ 15:03 • 2d ago
+👁️ 403K • 👍 29K • 💬 6K • ⏱️ 15:03 • 2d ago
+
+---
+
+**[An AI Expert Warning: 6 People Are (Quietly) Deciding Humanity’s Future! We Must Act Now!](https://www.youtube.com/watch?v=P7Y-fynYsgE)**
+
+AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments won't regulate, how AGI could replace humans ...
+
+📺 The Diary Of A CEO
+
+👁️ 567K • 👍 14K • 💬 3K • ⏱️ 2:04:06 • 1d ago
 
 ---
 
@@ -309,7 +309,17 @@ Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford
 
 📺 The Daily Show
 
-👁️ 473K • 👍 12K • 💬 720 • ⏱️ 4:58 • 22h ago
+👁️ 491K • 👍 12K • 💬 736 • ⏱️ 4:58 • 23h ago
+
+---
+
+**[OpenAI declares &quot;code red&quot; as Google threatens its artificial intelligence lead, WSJ reports](https://www.youtube.com/watch?v=ZheT7hQIf08)**
+
+OpenAI has declared a "code red" as Google threatens to unseat the AI industry's early leader, according to the Wall Street ...
+
+📺 CBS News
+
+👁️ 503K • 👍 6K • 💬 1K • ⏱️ 4:59 • 2d ago
 
 ---
 
@@ -319,17 +329,7 @@ Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous vide
 
 📺 VisualEconomik EN
 
-👁️ 77K • 👍 2K • 💬 267 • ⏱️ 15:46 • 1d ago
-
----
-
-**[Meta falls for the AI trick](https://www.youtube.com/watch?v=yqrp2uK9LY4)**
-
-https://twitch.tv/ThePrimeagen - I Stream on Twitch https://twitter.com/terminaldotshop - Want to order coffee over SSH? ssh ...
-
-📺 ThePrimeTime
-
-👁️ 184K • 👍 7K • 💬 945 • ⏱️ 5:29 • 2d ago
+👁️ 79K • 👍 2K • 💬 274 • ⏱️ 15:46 • 1d ago
 
 ---
 
@@ -339,27 +339,7 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 198K • 👍 693 • 💬 46 • ⏱️ 8:09 • 1d ago
-
----
-
-**[This AI Just Crossed a New Intelligence Line: It Took Over Finance](https://www.youtube.com/watch?v=hzAAzUyILNU)**
-
-DeepAgent just rolled out a finance upgrade that feels like a real shift. This version runs seven connected workflows that behave ...
-
-📺 AI Revolution
-
-👁️ 14K • 👍 593 • 💬 49 • ⏱️ 8:59 • 2d ago
-
----
-
-**[Cinematic AI Tutorial Showdown: Kling O1 vs. Nano Banana (Google Flow)](https://www.youtube.com/watch?v=kRlbbKZIMFU)**
-
-Can Kling O1 beat Google's Nano Banana in cinematic storytelling? Two major updates are changing the landscape of AI video ...
-
-📺 AI Video School
-
-👁️ 9K • 👍 542 • 💬 38 • ⏱️ 12:26 • 20h ago
+👁️ 229K • 👍 796 • 💬 49 • ⏱️ 8:09 • 1d ago
 
 ---
 
@@ -369,7 +349,27 @@ AI #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle
 
 📺 Θαύμα Προφητείας Θεών
 
-👁️ 6K • 👍 101 • 💬 1 • ⏱️ 0:11 • 6h ago
+👁️ 25K • 👍 118 • 💬 1 • ⏱️ 0:11 • 6h ago
+
+---
+
+**[Meta falls for the AI trick](https://www.youtube.com/watch?v=yqrp2uK9LY4)**
+
+https://twitch.tv/ThePrimeagen - I Stream on Twitch https://twitter.com/terminaldotshop - Want to order coffee over SSH? ssh ...
+
+📺 ThePrimeTime
+
+👁️ 185K • 👍 7K • 💬 946 • ⏱️ 5:29 • 2d ago
+
+---
+
+**[An Eggplant Tree Born in the Desert | #ai #eggplant #hippo](https://www.youtube.com/watch?v=s71X2h1ve_4)**
+
+An Eggplant Tree Born in the Desert | #ai #eggplant #hippo In this emotional desert story, an old grandmother is driving a tractor ...
+
+📺 FeeliMals
+
+👁️ 65K • 💬 1 • ⏱️ 0:25 • 8h ago
 
 ---
 
@@ -495,20 +495,6 @@ z_image_turbo is a diffusion model designed for single-file image generation, li
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 18 • 💬 2 • ⭐ 4,561 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
 *Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
@@ -517,9 +503,49 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 137 • 💬 2 • ⭐ 4,635 • 7d ago
+▲ 139 • 💬 2 • ⭐ 4,635 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 18 • 💬 2 • ⭐ 4,659 • 7d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation](https://huggingface.co/papers/2512.04678)**
+
+*Yunhong Lu, Yanhong Zeng, Haobo Li et al. (12 authors)*
+
+The paper introduces Reward Forcing, which enhances video generation by updating sink tokens with EMA-Sink and using Rewarded Distribution Matching Distillation to prioritize dynamic content.
+
+▲ 30 • 💬 2 • ⭐ 70 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.04678) • [💻 code](https://github.com/JaydenLyh/Reward-Forcing) • [🔗 project](https://reward-forcing.github.io/)
+
+---
+
+**[PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing](https://huggingface.co/papers/2512.02589)**
+
+*Junyi Hou, Andre Lin Huikai, Nuo Chen et al. (5 authors)*
+
+🏢 National University of Singapore
+
+PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
+
+▲ 21 • 💬 1 • ⭐ 176 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
 ---
 
@@ -589,40 +615,16 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 ---
 
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
-*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
 
-Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 121 • 💬 6 • ⭐ 9,379 • 4mo ago
+▲ 135 • 💬 2 • ⭐ 49,906 • 2mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
-
----
-
-**[MinerU: An Open-Source Solution for Precise Document Content Extraction](https://huggingface.co/papers/2409.18839)**
-
-*Bin Wang, Chao Xu, Xiaomeng Zhao et al. (18 authors)*
-
-MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
-
-▲ 32 • 💬 4 • ⭐ 49,897 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
-
----
-
-**[FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable
-  Reasoning](https://huggingface.co/papers/2510.22543)**
-
-*Yuyang Ding, Chi Zhang, Juntao Li et al. (6 authors)*
-
-Flawed-Aware Policy Optimization (FAPO) enhances reinforcement learning with verifiable rewards by penalizing flawed-positive rollouts, improving reasoning capability and training stability in large language models.
-
-▲ 10 • 💬 1 • ⭐ 17,229 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.22543) • [💻 code](https://github.com/volcengine/verl/tree/main/recipe/fapo) • [🔗 project](https://fapo-rl.github.io/)
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -646,7 +648,7 @@ Flawed-Aware Policy Optimization (FAPO) enhances reinforcement learning with ver
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.5k • 🔱 123 • 1d ago
+⭐ 1.5k • 🔱 124 • 1d ago
 
 ---
 
@@ -706,7 +708,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 744 • 🔱 19 • 9d ago
+⭐ 745 • 🔱 19 • 9d ago
 
 ---
 
@@ -716,7 +718,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 699 • 🔱 14 • 16d ago
+⭐ 700 • 🔱 14 • 16d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-05T11:34:39.009566+00:00'
+updated: '2025-12-05T11:45:27.809170+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 11:34 UTC  
+**Last Updated:** December 05, 2025 at 11:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Trump crypto empire falls faster than bitcoin
 
-🔗 [𝐓𝐇𝐄 𝐃𝐀𝐈𝐋𝐘 𝐆𝐋𝐈𝐓𝐂𝐇](https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/) • 21h ago
+🔗 [𝐓𝐇𝐄 𝐃𝐀𝐈𝐋𝐘 𝐆𝐋𝐈𝐓𝐂𝐇](https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/) • 22h ago
 
 ---
 
@@ -166,7 +166,7 @@ dlnews.com • 1d ago
 
 Bitmine added another $130 million in ETH on Dec. 5. The firm now holds over 3.7 million ETH, valued at roughly $18 billion. Chairman Tom ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 39K • 👍 3K • 💬 326 • ⏱️ 11:16 • 9h ago
+👁️ 45K • 👍 3K • 💬 355 • ⏱️ 11:16 • 10h ago
 
 ---
 
@@ -246,17 +246,7 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 25K • 👍 2K • 💬 109 • ⏱️ 17:37 • 18h ago
-
----
-
-**[Tom Lee: The Crypto SUPERCYCLE Is Still Alive... &amp; Ethereum Is Going to LEAD!](https://www.youtube.com/watch?v=PtCcS9c-GP4)**
-
-Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why he believes the crypto supercycle is still ...
-
-📺 Binance
-
-👁️ 52K • 👍 2K • 💬 366 • ⏱️ 27:33 • 17h ago
+👁️ 28K • 👍 2K • 💬 101 • ⏱️ 17:37 • 18h ago
 
 ---
 
@@ -266,7 +256,27 @@ GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): ht
 
 📺 Ivan on Tech
 
-👁️ 3K • 👍 308 • 💬 96 • ⏱️ 31:23 • 2h ago
+👁️ 7K • 👍 773 • 💬 70 • ⏱️ 31:23 • 2h ago
+
+---
+
+**[Tom Lee: The Crypto SUPERCYCLE Is Still Alive... &amp; Ethereum Is Going to LEAD!](https://www.youtube.com/watch?v=PtCcS9c-GP4)**
+
+Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why he believes the crypto supercycle is still ...
+
+📺 Binance
+
+👁️ 57K • 👍 2K • 💬 384 • ⏱️ 27:33 • 17h ago
+
+---
+
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 4K • 👍 187 • 💬 278 • ⏱️ 15:38 • 6h ago
 
 ---
 
@@ -276,7 +286,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 53 • 💬 114 • ⏱️ 5:52 • 20h ago
+👁️ 1K • 👍 58 • 💬 145 • ⏱️ 5:52 • 20h ago
 
 ---
 
@@ -286,37 +296,17 @@ What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get r
 
 📺 Thomas Kralow
 
-👁️ 23K • 👍 3K • 💬 93 • ⏱️ 10:24 • 1d ago
+👁️ 23K • 👍 3K • 💬 92 • ⏱️ 10:24 • 1d ago
 
 ---
 
-**[These Levels Decide Everything for Ethereum Now](https://www.youtube.com/watch?v=WKfvr4xlONs)**
+**[Ethereum Leads Rally📈Technical Analysis @TimWarrenTrades](https://www.youtube.com/watch?v=rO3ZorrJ-ps)**
 
-Ethereum (ETH) is approaching a critical point, and the next major move could define the trend for the months ahead. In this video ...
+Bitcoin steadied near weekly highs as concerns ease, but most altcoins remain weak. Market shows early signs of recovery ...
 
-📺 HKCM GLOBAL
+📺 Paul Barron Network
 
-👁️ 1K • 👍 136 • 💬 6 • ⏱️ 10:00 • 18h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ZeU2mtYr0Ok)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 181 • 💬 11 • ⏱️ 5:41 • 10h ago
-
----
-
-**[Fusaka Is Live: Why The Ethereum Burn Rate Just Doubled.](https://www.youtube.com/watch?v=iifblt4mU7o)**
-
-The Ethereum network has fundamentally changed as of December 3rd. In this deep dive, we break down the immediate impact of ...
-
-📺 Wall Street Stockcast
-
-👁️ 4K • 👍 122 • 💬 17 • ⏱️ 10:55 • 20h ago
+👁️ 27K • 👍 1K • 💬 131 • ⏱️ 32:14 • 15h ago
 
 ---
 
@@ -327,6 +317,16 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 📺 Crypto Nutshell
 
 👁️ 16K • 👍 405 • 💬 46 • ⏱️ 21:08 • 2d ago
+
+---
+
+**[Fusaka Is Live: Why The Ethereum Burn Rate Just Doubled.](https://www.youtube.com/watch?v=iifblt4mU7o)**
+
+The Ethereum network has fundamentally changed as of December 3rd. In this deep dive, we break down the immediate impact of ...
+
+📺 Wall Street Stockcast
+
+👁️ 4K • 👍 123 • 💬 17 • ⏱️ 10:55 • 20h ago
 
 ---
 
