@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-05T11:34:39.012767+00:00'
+updated: '2025-12-05T11:45:27.812378+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 05, 2025 at 11:34 UTC  
+**Last Updated:** December 05, 2025 at 11:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -126,7 +126,7 @@ IEEE Spectrum • 1d ago
 
 Defense forces "want a hundred percent reliability and the AI is just not there," Ark Robotics' founder and CEO told Business Insider.
 
-Business Insider • 49m ago
+Business Insider • 1h ago
 
 ---
 
@@ -142,7 +142,7 @@ Yahoo Finance • 16h ago
 
 Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be listening. Yasmin Khorram, economic policy reporter for Politico, joins CBS News to discuss her article on the topic.
 
-CBS News • 13h ago
+CBS News • 14h ago
 
 ---
 
@@ -188,23 +188,31 @@ Seeking Alpha • 1h ago
 
 ## YouTube Videos: "robotics"
 
-**[Tesla’s Running Robot: Optimus Just Took a Huge Step Forward](https://www.youtube.com/watch?v=xE_gPhwzQAc)**
-
-Tesla just showed its Optimus humanoid robot running in the laboratory, and it looks a lot closer to a real life sci fi moment than a ...
-
-📺 DPCcars
-
-👁️ 37K • 👍 328 • 💬 156 • ⏱️ 2:30 • 1d ago
-
----
-
 **[ChatGPT in a real robot does what experts warned.](https://www.youtube.com/watch?v=byQmJ9x0RWA)**
 
 Chat GPT inside a robot. Can we trust AI? Use code insideai at https://incogni.com/insideai to get an exclusive 60% off Please ...
 
 📺 InsideAI
 
-👁️ 502K • 👍 20K • 💬 3K • ⏱️ 14:58 • 4d ago
+👁️ 506K • 👍 20K • 💬 3K • ⏱️ 14:58 • 4d ago
+
+---
+
+**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
+
+Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
+
+📺 Unitree Robotics
+
+👁️ 110K • 👍 1K • 💬 257 • ⏱️ 1:06 • 2d ago
+
+---
+
+**[Live Unboxing of the AI Humanoid Robot. #robotics #humanoidrobot #robot #ai](https://www.youtube.com/watch?v=k0cHshXI6dc)**
+
+📺 AI . Robot
+
+👁️ 487K • 👍 6K • 💬 229 • ⏱️ 0:27 • 5d ago
 
 ---
 
@@ -214,15 +222,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 81K • 💬 519 • ⏱️ 1:21 • 2d ago
-
----
-
-**[Live Unboxing of the AI Humanoid Robot. #robotics #humanoidrobot #robot #ai](https://www.youtube.com/watch?v=k0cHshXI6dc)**
-
-📺 AI . Robot
-
-👁️ 482K • 👍 6K • 💬 228 • ⏱️ 0:27 • 5d ago
+👁️ 82K • 💬 527 • ⏱️ 1:21 • 2d ago
 
 ---
 
@@ -232,7 +232,27 @@ In a high-end robotics lab in Silicon Valley, engineers activate and calibrate a
 
 📺 AI Robot Lab
 
-👁️ 45K • 👍 560 • 💬 6 • ⏱️ 0:29 • 1d ago
+👁️ 47K • 👍 579 • 💬 6 • ⏱️ 0:29 • 1d ago
+
+---
+
+**[Humanoid robot Vol.149: Robotics Lab](https://www.youtube.com/watch?v=mVAHi_eB8Mc)**
+
+AI #stablediffusion #AIart #humanoid #scifi #robot #futuretech.
+
+📺 ROBOT HUMANOID AI
+
+👁️ 7K • 👍 94 • ⏱️ 0:25 • 19h ago
+
+---
+
+**[Humanoid robots attentively feed babies and care for them!](https://www.youtube.com/watch?v=qLHweaRvF84)**
+
+Humanoid robots attentively feed babies and care for them! #ai #robot #humanoidrobot #futuristic #robotics #technology ...
+
+📺 NUROBIQ
+
+👁️ 39K • 👍 335 • 💬 3 • ⏱️ 0:10 • 4d ago
 
 ---
 
@@ -242,45 +262,25 @@ Pure-play robotics stock Symbotic (SYM) has had a wild ride in 2025, soaring to 
 
 📺 Chip Stock Investor
 
-👁️ 3K • 👍 139 • 💬 7 • ⏱️ 14:23 • 20h ago
+👁️ 3K • 👍 144 • 💬 9 • ⏱️ 14:23 • 20h ago
 
 ---
 
-**[HOW is this real?! 👀😳 Robosen G1 Soundwave, link in bio #transformers #robosen #soundwave #robot](https://www.youtube.com/watch?v=hWEjeVDo8CY)**
+**[New Humanoid ‘Jena’ Unveiled at the 2025 Robot Expo. #robotics #humanoidrobot #robot #ai](https://www.youtube.com/watch?v=XVHKg1DNMg4)**
 
-📺 Sydney McKenna
+📺 AI . Robot
 
-👁️ 11K • 👍 1K • 💬 91 • ⏱️ 1:00 • 20h ago
-
----
-
-**[Humanoid Overloads With Emotions – Robot Girl Sensor Test Goes Wrong 🤖⚠️](https://www.youtube.com/watch?v=FMYhwvafLig)**
-
-The emotion sensor test didn't go as planned. The robot girl gets overwhelmed and reacts in a way no one expected. Like for ...
-
-📺 AI Robot Reality
-
-👁️ 31K • 👍 185 • 💬 7 • ⏱️ 0:15 • 1d ago
+👁️ 387K • 👍 4K • 💬 42 • ⏱️ 0:19 • 3d ago
 
 ---
 
-**[MobED | Robotics LAB | Hyundai Motor Group](https://www.youtube.com/watch?v=WfaYrxCwad0)**
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo](https://www.youtube.com/watch?v=JfOMxe8zbxo)**
 
-Go Anywhere, Do anything, For everyone : MobED Learn more ...
+robots #irc #humanoid At the latest tech expo, a man shows off his brand new robot girlfriend. From futuristic design to human-like ...
 
-📺 Hyundai Motor Group
+📺 She Shorts AI
 
-👁️ 52K • 👍 371 • 💬 31 • ⏱️ 3:01 • 2d ago
-
----
-
-**[Inside the Viral IRON Robot Everyone Thought Was Human | What The Future](https://www.youtube.com/watch?v=bEKH2eblWBk)**
-
-XPeng's new humanoid robot, IRON, went viral after the company cut it open on stage to prove it wasn't a human in disguise.
-
-📺 CNET
-
-👁️ 537K • 👍 3K • 💬 534 • ⏱️ 5:04 • 4d ago
+👁️ 1.8M • 👍 10K • 💬 19 • ⏱️ 0:11 • 4d ago
 
 ---
 
