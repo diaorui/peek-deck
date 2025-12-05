@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-05T11:19:21.507619+00:00'
+updated: '2025-12-05T11:34:39.003567+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- social
 - cryptocurrency
 - news
-- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 05, 2025 at 11:19 UTC  
+**Last Updated:** December 05, 2025 at 11:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** +0.5%  
-**30d:** -10.0%  
-**90d:** -18.1%  
-**1y:** -8.5%  
+**24h:** -2.0%  
+**7d:** +0.4%  
+**30d:** -10.1%  
+**90d:** -18.2%  
+**1y:** -8.6%  
 
 ---
 
@@ -129,7 +129,7 @@ Looks like the Senator from Pennsylvania is buying the dip on Bitcoin by buying 
 
 .2 next, just wanted to share with someone
 
-12h ago
+13h ago
 
 ---
 
@@ -143,7 +143,7 @@ Sometimes we forget the obvious: without Satoshi, BTC wouldn’t exist and our e
 
 **[Cant stop, won't stop Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pelu4f/cant_stop_wont_stop_bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -391,7 +391,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 328 • ⏱️ 47:51 • 19h ago
+👁️ 30K • 👍 1K • 💬 328 • ⏱️ 47:51 • 20h ago
 
 ---
 
