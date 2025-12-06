@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T21:27:33.680616+00:00'
+updated: '2025-12-06T21:41:45.193491+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 21:27 UTC  
+**Last Updated:** December 06, 2025 at 21:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,6 +61,14 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 ---
 
+**[How are Americans using AI? Evidence from a nationwide survey | Brookings](https://www.reddit.com/r/artificial/comments/1pfv1kr/how_are_americans_using_ai_evidence_from_a/)**
+
+Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
+
+🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 4h ago
+
+---
+
 **[Just used Gemini for a solo DND session…](https://www.reddit.com/r/artificial/comments/1pfscbo/just_used_gemini_for_a_solo_dnd_session/)**
 
 … and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
@@ -69,11 +77,19 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 ---
 
-**[How are Americans using AI? Evidence from a nationwide survey | Brookings](https://www.reddit.com/r/artificial/comments/1pfv1kr/how_are_americans_using_ai_evidence_from_a/)**
+**[Ai is terrible but good at the same time](https://www.reddit.com/r/artificial/comments/1pg0bdn/ai_is_terrible_but_good_at_the_same_time/)**
 
-Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
+It's like Chatgpt doesn't give a crap about humanity But Grok is a lifesaver
 
-🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 3h ago
+22m ago
+
+---
+
+**[Could OpenAI’s financial future hinge on teens making deepfakes?](https://www.reddit.com/r/artificial/comments/1pg00rb/could_openais_financial_future_hinge_on_teens/)**
+
+If a new California ballot measure passes, it could block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO. To justify its massive valuation without Wall Street, OpenAI may lean even more heavily on engagement on its consumer-facing platforms, like Sora2. Instrumental and Ekō's recent research into how Sora2 enables harm shows why this could be a bad idea. For everybody.
+
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 35m ago
 
 ---
 
@@ -85,19 +101,11 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 ---
 
-**[Could OpenAI’s financial future hinge on teens making deepfakes?](https://www.reddit.com/r/artificial/comments/1pg00rb/could_openais_financial_future_hinge_on_teens/)**
-
-If a new California ballot measure passes, it could block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO. To justify its massive valuation without Wall Street, OpenAI may lean even more heavily on engagement on its consumer-facing platforms, like Sora2. Instrumental and Ekō's recent research into how Sora2 enables harm shows why this could be a bad idea. For everybody.
-
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 21m ago
-
----
-
 **[The Prompt I’ve Been Using to Stop Wasting My Workday](https://www.reddit.com/r/artificial/comments/1pfz7ol/the_prompt_ive_been_using_to_stop_wasting_my/)**
 
 Lately I’ve been trying to get my days under control because I kept doing that thing where you “work all day” but somehow… get nothing important done. 😅 I started using this daily planning prompt, and it’s actually helped me stop winging my schedule and start planning based on how much energy I actually have and what truly matters. Sharing it here in case it helps someone else: Help me plan my workday effectively. Today's date: [Date] Work hours available: [Start time - End time] Energy level today: [High/Medium/Low] Must-do tasks: [Task with deadline/importance] [Task with deadline/importance] [Task with deadline/importance] Should-do tasks: [Task] [Task] Nice-to-do tasks: [Task] [Task] Meetings/commitments: ● [Time]: [Meeting/commitment] ● [Time]: [Meeting/commitment] Context: ● My peak productivity time: [When you work best] ● Types of work I do: [Deep work, meetings, admin, creative, etc.] ● Current biggest project: [What's most important this week] Create an optimized schedule that: Time Block Schedule: [Hour by hour breakdown considering energy levels and task types] Task Sequence: Why this order makes sense (considering priority, energy, dependencies) Focus Strategies: ● Batching similar tasks ● Protecting deep work time ● Handling interruptions ● When to take breaks Evening Reflection Prompts: Questions to ask myself at end of day to improve tomorrow Make it: ● Realistic (includes buffer time) ● Energy-optimized (hard tasks when fresh) ● Flexible (can adjust if things shift) What it gives back A simple time-blocked schedule, the order to tackle tasks (with actual reasoning), focus strategies, and a few reflection questions so you don’t end the day wondering where your time went. It’s not “productivity guru” complicated, it just keeps you honest about your energy and priorities instead of cramming everything into the same to-do list. If you want more prompts like this, I’ve got a small prompt library, just let me know if you want it. 👍
 
-56m ago
+1h ago
 
 ---
 
@@ -106,16 +114,6 @@ Lately I’ve been trying to get my days under control because I kept doing that
 RAG failures often look mysterious: Relevant info appears missing, unrelated chunks show up, top-k results wobble week to week. Based on what we observed the real culprit is usually your metadata tags no longer describe the chunks you actually embedded. It usually is caused under below circumstances: Exporters change section structure Headings shift position Chunk boundaries drift after ingestion changes Metadata applied before segmentation Mixed historical snapshots in the same index When sections, headings, boundaries, metadata, index entries stop lining up, the entire retrieval layer becomes nondeterministic. Do you version your segmentation logic and metadata maps?
 
 1h ago
-
----
-
-**[#ai | Christophe Barraud](https://www.reddit.com/r/artificial/comments/1pfwu13/ai_christophe_barraud/)**
-
-🇺🇸 Highest Number of S&P 500 Earnings Calls Citing “hashtag
-#AI” Over The Past 10 Years - Factset
-https://lnkd.in/eSSM_TYR
-
-🔗 [linkedin.com](https://www.linkedin.com/posts/christophe-barraud-68870620_ai-activity-7403103677776883713-pP17?utm_medium%3Dios_app%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4%26utm_source%3Dsocial_share_send%26utm_campaign%3Dshare_via) • 2h ago
 
 ---
 
@@ -131,33 +129,9 @@ The Guardian • 6h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqf9CXxPSlUxVvnp4vmwVGmMy1bVsrCfNUohBenIp1HzM2oayJHOV_1y&gaa_ts=69349ea1&gaa_sig=s9Csj4aPY_vYEFQVcDTF6hxGUX6K_RhghKKtjw0ir8WyKK5GZ0HWZClUTz8rZr-ZXzIFvMj8Krt-oxcmlFukUQ%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcWo6G0gdjQQOYPOkPDooZWlOT8RsX3o2dzW90Q10V2jrDBt5VMaTPa&gaa_ts=6934a672&gaa_sig=TEMwneIHB-4owG_Ijjg0uPacoZGuEhfy-_uhT5YvRupkPDePG3nBnCFDS0W2ILcPWRRDe5GBhSP718VSaBLxrA%3D%3D)**
 
 The Wall Street Journal • 4h ago
-
----
-
-**[Western Digital (WDC): Reassessing Valuation After ESOP Offering, AI Storage Tailwinds, and Capital Return Moves](https://finance.yahoo.com/news/western-digital-wdc-reassessing-valuation-200723581.html)**
-
-Western Digital (WDC) just put a fresh spotlight on its stock by filing a roughly $1.11 billion shelf registration tied to an 8 million share ESOP offering, which blends potential dilution with stronger employee alignment. See our latest analysis for Western Digital. The ESOP filing lands on top of an already powerful move, with the share price at $168.89 after a 1 year to date share price return of about 173 percent and a 1 year total shareholder return above 215 percent. This suggests...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Make 2026 Resolutions Stick With Smarter, Flexible AI Help](https://www.forbes.com/sites/ronschmelzer/2025/12/06/make-2026-resolutions-stick-with-smarter-flexible-ai-help/)**
-
-AI tools available right now can analyze your schedule, energy levels, past attempts and realistic constraints to build resolutions that actually fit your life.
-
-Forbes • 1h ago
-
----
-
-**[Farmland owner says AI data center ‘better for community goals’ in Michigan town](https://www.mlive.com/news/ann-arbor/2025/12/farmland-owner-says-ai-data-center-better-for-community-goals-in-michigan-town.html)**
-
-Despite vocal opposition, the Van Gilder family says many silent supporters are "rooting for them behind the curtain" as Howell Township prepares for a crucial vote.
-
-MLive.com • 1h ago
 
 ---
 
@@ -199,6 +173,28 @@ Scientific American • 9h ago
 
 ---
 
+**[Jeep's AI-generated talking animals signify change in auto industry](https://www.freep.com/story/money/cars/chrysler/2025/12/06/jeep-ai-generated-marketing-campaign-ads/87217350007/)**
+
+Jeep is one of the first automakers to fully leverage AI image generation in its marketing materials.
+
+Detroit Free Press • 5h ago
+
+---
+
+**[The Strange Disappearance of an Anti-AI Activist](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/)**
+
+Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
+
+The Atlantic • 2d ago
+
+---
+
+**[Johns Hopkins Study Challenges Billion-Dollar AI Models](https://scitechdaily.com/?p=503026)**
+
+SciTechDaily • 20h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -215,7 +211,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 531 • 💬 273 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 533 • 💬 276 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -231,7 +227,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 369 • 💬 209 • 20h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 369 • 💬 210 • 20h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -263,7 +259,7 @@ Welcome to the slop era.
 
 A live AI-driven countdown to the potential burst of the AI market bubble. Updated daily with market sentiment analysis.
 
-⬆️ 77 • 💬 35 • 1d ago • [pop-the-bubble.xyz](https://pop-the-bubble.xyz/)
+⬆️ 77 • 💬 35 • 2d ago • [pop-the-bubble.xyz](https://pop-the-bubble.xyz/)
 
 ---
 
@@ -279,7 +275,7 @@ Rodents in northern Germany were spotted using two different hunting strategies 
 
 Wall Street lends billions to AI companies while using credit derivatives and sophisticated bonds to hedge against potential bubble risks.
 
-⬆️ 71 • 💬 85 • 1d ago • [Rolling Out](https://rollingout.com/2025/12/05/wall-street-protects-itself-ai-bubble/)
+⬆️ 71 • 💬 86 • 1d ago • [Rolling Out](https://rollingout.com/2025/12/05/wall-street-protects-itself-ai-bubble/)
 
 ---
 
@@ -343,7 +339,7 @@ From Capitol Hill to the back of an Uber in Dubai — this week showed just how 
 
 📺 CNBC Television
 
-👁️ 23K • 👍 240 • 💬 30 • ⏱️ 22:41 • 21h ago
+👁️ 23K • 👍 240 • 💬 30 • ⏱️ 22:41 • 22h ago
 
 ---
 
@@ -363,7 +359,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 61K • 👍 1K • 💬 303 • ⏱️ 12:07 • 20h ago
+👁️ 61K • 👍 1K • 💬 303 • ⏱️ 12:07 • 21h ago
 
 ---
 
@@ -399,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,186 • 4d ago
+⬇️ 169,515 • ❤️ 2,187 • 4d ago
 
 ---
 
@@ -435,7 +431,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 355 • 1d ago
+⬇️ 20,067 • ❤️ 357 • 1d ago
 
 ---
 
@@ -467,7 +463,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 229 • 4d ago
+⬇️ 0 • ❤️ 230 • 4d ago
 
 ---
 
@@ -702,7 +698,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 25m ago
+⭐ 826 • 🔱 43 • 39m ago
 
 ---
 

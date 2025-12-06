@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T21:27:33.698451+00:00'
+updated: '2025-12-06T21:41:45.211433+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 21:27 UTC  
+**Last Updated:** December 06, 2025 at 21:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,12 +48,6 @@ Zhongqing CEO Receives the Challenge of T800
 
 ---
 
-**[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
-
-4h ago
-
----
-
 **[autonomous navigation system.](https://www.reddit.com/r/robotics/comments/1pfxa2m/autonomous_navigation_system/)**
 
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
@@ -62,17 +56,23 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 ---
 
+**[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
+
+4h ago
+
+---
+
 **[A Deep Dive into Actuators for Humanoid Robotics](https://www.reddit.com/r/robotics/comments/1pfxwqs/a_deep_dive_into_actuators_for_humanoid_robotics/)**
 
 https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
-1h ago
+2h ago
 
 ---
 
 **[Robot dance Arduino](https://www.reddit.com/r/robotics/comments/1pfijsr/robot_dance_arduino/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -112,11 +112,11 @@ Im working on an electric knee assist exoskeleton and i have a 450 rpm 24V 15kg*
 
 ## Google News: "robotics"
 
-**[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
+**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://www.barchart.com/story/news/36461441/3-robotics-stocks-to-buy-now-ahead-of-a-white-house-game-changer)**
 
-Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
+The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
 
-Seeking Alpha • 1d ago
+Barchart.com • 2d ago
 
 ---
 
@@ -139,14 +139,6 @@ Investor's Business Daily • 2d ago
 From Romania to MIT, Daniela Rus is redefining robotics to enhance human capabilities. What's her secret to giving people 'superpowers'?
 
 IEEE Spectrum • 3d ago
-
----
-
-**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
-
-Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
-
-MLive.com • 2d ago
 
 ---
 
@@ -186,7 +178,15 @@ Fierce Biotech • 3d ago
 
 MIT-backed Pickle Robot Company debuts AI-powered systems that autonomously unload trucks and ease one of logistics’ toughest jobs.
 
-Interesting Engineering • 22h ago
+Interesting Engineering • 23h ago
+
+---
+
+**[This Robotic Surgery Legend Is Pouring $100 Million Into Next-Gen Medical Startups](https://www.forbes.com/sites/amyfeldman/2025/12/03/robotic-surgery-legend-fred-moll-is-pouring-100-million-into-next-gen-medical-startups/)**
+
+Fred Moll, the cofounder of $200 billion Intuitive Surgical, has invested in some 15 companies building robots that could help make both complex and common surgeries more accessible to everyone.
+
+Forbes • 1d ago
 
 ---
 
@@ -230,7 +230,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 61K • 👍 1K • 💬 303 • ⏱️ 12:07 • 20h ago
+👁️ 61K • 👍 1K • 💬 303 • ⏱️ 12:07 • 21h ago
 
 ---
 

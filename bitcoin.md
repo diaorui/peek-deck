@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T21:27:33.689138+00:00'
+updated: '2025-12-06T21:41:45.202019+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
 - videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 21:27 UTC  
+**Last Updated:** December 06, 2025 at 21:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -1.3%  
-**30d:** -13.7%  
-**90d:** -20.1%  
-**1y:** -10.5%  
+**24h:** +0.5%  
+**7d:** -1.1%  
+**30d:** -13.6%  
+**90d:** -20.0%  
+**1y:** -10.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1788.19B
+**Market Cap:** $1785.74B
 Rank #1
 
 **Circulating Supply:** 19,958,481 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-29.0%
 
 **All-Time Low:** $67.81
-+132028.0%
++131889.4%
 
 ---
 
@@ -105,7 +105,7 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 **[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -113,7 +113,7 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 Burnsish?
 
-43m ago
+57m ago
 
 ---
 
@@ -127,7 +127,7 @@ Burnsish?
 
 I'm sure you have all heard this a million times before but this is my story. In 2015 I researched the crap out of Bitcoin and came to the conclusion that it had a lot of potential. I purchased 10 Bitcoins for $225 a piece through Coinbase. I then stored the Bitcoin in a cold wallet and put the address on a piece of paper in my safe. I told myself that I was going to forget I even bought the Bitcoins and that I wasn't going to take that piece of paper out of the safe for 20 years, and at that time it would either be worthless or potentially worth a lot of money. In January of 2017, the price of Bitcoin skyrocketed to over $1,000. I had made almost five times my money in a very short time. $10,000 was real money to me at the time as I had kids nearing College age, a lot of bills to pay, etc. As the price of Bitcoin hit almost $1,200 I was feeling very rich. But just as soon as it went to $1,200, it crashed all the way back below 800. I felt as though I had been wiped out almost overnight, as my Bitcoin lost almost a third of its value. Almost as soon as the price crashed below $800, it went back up to $1000. At that time I did what I said I would never do. I took the Bitcoin wallet address out of my safe, put it back in my coinbase account and sold for $1,000 per Bitcoin, turning my less than $2,500 investment into a cool $10 grand. Fast forward to earlier this year when Bitcoin hit $125,000. Talk about a lot of regrets selling those 10 Bitcoin. But I also remembered I still had my coinbase account. Much to my surprise I learned that I had a few sats still in my account. Coinbase had given me a dollar worth of bitcoin when I opened the account and at the time Bitcoin was $225. That $1 worth of bitcoin they gave me was now worth over $550, lol. They also gave me another dollar worth of bitcoin for completing a transaction online which I did. The price at that time was around $250. So I was extremely surprised and grateful to see that my $2 worth of free bitcoin was now worth over $1,000. I am now almost 60 years old and approaching retirement. Up until the last couple of months I had done no crypto investing since my first Bitcoin purchase. The money I received from selling my Bitcoin I invested into hard assets such as silver which I really have enjoyed stacking. But stacking silver was a lot more fun when the price was under $25 an ounce. Tom Lee is now saying that retirees are going to start piling into Bitcoin as an alternative asset class. Although I am not yet retired, I feel as though I am living proof of his thesis. I think I have more conviction in Bitcoin now at $90,000 than I did at $225. Even though my Bitcoin Holdings now are a mere fraction of what I had previously, my dollar amount invested is much higher. I am really enjoying stacking crypto now and watching my balances grow. I am investing weekly in Bitcoin through my Strike account. I believe the value of Bitcoin will be significantly higher in the years to come. Good luck everyone!
 
-4h ago
+5h ago
 
 ---
 
@@ -137,9 +137,11 @@ I'm sure you have all heard this a million times before but this is my story. In
 
 ---
 
-**[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
+**[Just used my workplace fidelity 401k to get a loan for smash buying](https://www.reddit.com/r/Bitcoin/comments/1pfyq08/just_used_my_workplace_fidelity_401k_to_get_a/)**
 
-1d ago
+just took out a Fidelity 401k loan from my workplace to smash buy. Feel free to ask me any questions if other people are thinking about it. Instead of dca ing the next 5 years, I'll dca back into my 401k
+
+1h ago
 
 ---
 
@@ -151,35 +153,41 @@ I'm sure you have all heard this a million times before but this is my story. In
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
-**[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
+**[Is Bitcoin About to Break Its Last Surviving Valuation Model?](https://www.coindesk.com/markets/2025/12/05/how-much-longer-until-we-consider-the-bitcoin-power-law-model-invalid)**
 
-The Economist • 2d ago
+As the gap between spot bitcoin price and the power law widens, investors are left questioning whether mean reversion is coming or if another cornerstone model is approaching its end.
+
+CoinDesk • 6h ago
+
+---
+
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeyySswXvJbYHBhflOcpqFbksFpUCYMj3fKIuoptTW_jXIH3FVAs_FD&gaa_ts=6934a674&gaa_sig=CxDenMW5F_4twprUuR9jRqoInxImVqgjiU2AWgmNHh2SrMAvHCxXKOplT0ALsVixigkigZGcaEyrtEaCaDLj9g%3D%3D)**
+
+MarketWatch • 2d ago
+
+---
+
+**[Bitcoin Is Set for First Yearly Split From Stocks in a Decade](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-is-breaking-from-stock-rally-for-first-time-in-a-decade)**
+
+The S&amp;P 500 has climbed more than 16% in 2025, while Bitcoin is down 3% — the first time since 2014 that stocks have rallied while the token is down, according to data compiled by Bloomberg.
+
+Bloomberg.com • 1d ago
 
 ---
 
 **[MSTR Stock: Strategy, The Bitcoin Whale, Is Wall Street's Biggest Mistake](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 4h ago
 
 ---
 
-**[Why Michael Saylor's Strategy could hold the key for the whole bitcoin market](https://www.cnbc.com/2025/12/04/why-michael-saylors-strategy-could-hold-the-key-for-the-whole-bitcoin-market.html)**
+**[Bring Bitcoin Mining into Your Office Without Noise, Heat, or Hassle](https://www.entrepreneur.com/money-finance/bring-bitcoin-mining-into-your-office-without-noise-heat/500383)**
 
-Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts.
-
-CNBC • 2d ago
-
----
-
-**[Bitcoin mining stocks MARA, CleanSpark rise as network difficulty eases](https://finance.yahoo.com/news/bitcoin-mining-stocks-mara-cleanspark-162439390.html)**
-
-Publicly traded bitcoin miners saw a split in weekly returns, with some operators edging higher while others slipped, as the sector continued to absorb record-low hashprice levels driven by escalating…
-
-Yahoo Finance • 1d ago
+Entrepreneur • 4h ago
 
 ---
 
@@ -199,25 +207,17 @@ Yahoo Finance • 3h ago
 
 ---
 
-**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
+**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
 
-In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
-
-CNBC • 2d ago
+TheStreet • 1d ago
 
 ---
 
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeq8aLekGSWuSEkNEWqWbkWfI3V4gfx5HdCf8SjJ35_EWMNOgceSRqR&gaa_ts=69349ea3&gaa_sig=U6ZOIIiWpB_NCNzNF-6NgCAsQS48le3MBu-SXdZk5vt2nMmGH4Xw1xhhXho_046CxQ1hvNivXBzck9unin4EvA%3D%3D)**
+**[Bitcoin Price Could Hit $170K — But Strategy ‘Resilience’ Is Vital: JPMorgan](https://finance.yahoo.com/news/bitcoin-price-could-hit-170k-110608523.html)**
 
-MarketWatch • 2d ago
+JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
 
----
-
-**[Is Bitcoin About to Break Its Last Surviving Valuation Model?](https://www.coindesk.com/markets/2025/12/05/how-much-longer-until-we-consider-the-bitcoin-power-law-model-invalid)**
-
-As the gap between spot bitcoin price and the power law widens, investors are left questioning whether mean reversion is coming or if another cornerstone model is approaching its end.
-
-CoinDesk • 6h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -293,7 +293,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 10K • 👍 543 • 💬 392 • ⏱️ 9:08 • 20h ago
+👁️ 10K • 👍 543 • 💬 392 • ⏱️ 9:08 • 21h ago
 
 ---
 
@@ -343,7 +343,7 @@ We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 252 • 💬 58 • ⏱️ 5:59 • 4h ago
+👁️ 3K • 👍 252 • 💬 58 • ⏱️ 5:59 • 5h ago
 
 ---
 
