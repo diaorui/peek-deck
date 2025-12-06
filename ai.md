@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T22:34:28.024992+00:00'
+updated: '2025-12-06T22:46:13.705279+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - videos
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 22:34 UTC  
+**Last Updated:** December 06, 2025 at 22:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,19 @@ It's like Chatgpt doesn't give a crap about humanity But Grok is a lifesaver
 
 ---
 
-**[AI deepfakes of real doctors spreading health misinformation on social media | Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects](https://www.reddit.com/r/artificial/comments/1pfqevl/ai_deepfakes_of_real_doctors_spreading_health/)**
-
-Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
-
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 8h ago
-
----
-
 **["Godmother of AI" Fei-Fei Li disappointed by AI's messaging: Either doomsday or total utopian](https://www.reddit.com/r/artificial/comments/1pflyfu/godmother_of_ai_feifei_li_disappointed_by_ais/)**
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
 🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 12h ago
+
+---
+
+**[AI deepfakes of real doctors spreading health misinformation on social media | Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects](https://www.reddit.com/r/artificial/comments/1pfqevl/ai_deepfakes_of_real_doctors_spreading_health/)**
+
+Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
+
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 8h ago
 
 ---
 
@@ -89,7 +89,7 @@ If a new California ballot measure passes, it could block OpenAI’s conversion 
 
 Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
 
-🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 4h ago
+🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 5h ago
 
 ---
 
@@ -129,31 +129,37 @@ The Guardian • 7h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqd1_K8WN5DVOT6VVpBzMyXtIfEuoQ6OAlKIOI5U2yyElOXZtY9sdE8u&gaa_ts=6934adfd&gaa_sig=7np5xisRa5zpg1fCk3L5iGNbo4c8gv9SU8AoysAO-QVDtD838oQOCz-_4r7Dvlx2YQTNJq9kYaRfaO39SgBwkA%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqdlqvqHZ_CqfR6QsjRfnb7nLbM1LdRzswo1WyHM4sE50LcKZ7m9YLq1&gaa_ts=6934b5a4&gaa_sig=Kr7ZrhliXy-u-_MBL9V-OGGC7rmfxj2E7s8oMcuY69TggjZC8phSHUww4ddqUBNpycSh5MBCBcea2tq-d363LA%3D%3D)**
 
 The Wall Street Journal • 5h ago
 
 ---
 
-**[‘Godfather of AI’ says Bill Gates and Elon Musk are right about the future of work—but he predicts mass unemployment is on its way](https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/)**
+**[Nvidia CEO says U.S. data centers take 3 years, but China 'can build a hospital in a weekend'](https://fortune.com/2025/12/06/nvidia-ceo-jensen-huang-ai-race-china-data-centers-construct-us/)**
 
-While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
+China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
 
-Fortune • 2d ago
+Fortune • 4h ago
+
+---
+
+**[Nvidia’s CEO says AI adoption will be gradual, but when it does hit, we may all end up making robot clothing](https://fortune.com/2025/12/06/nvidia-jensen-huang-ai-adoption-creep-gradual-robot-clothing/)**
+
+Jobs that consist entirely of routine tasks are most at risk of AI disruption, Huang said.
+
+Fortune • 10h ago
+
+---
+
+**[Nvidia’s CEO says AI adoption will be gradual, but when it does hit, we may all end up making robot clothing](https://www.msn.com/en-us/news/technology/nvidia-s-ceo-says-ai-adoption-will-be-gradual-but-when-it-does-hit-we-may-all-end-up-making-robot-clothing/ar-AA1RQi3X)**
+
+MSN • 4h ago
 
 ---
 
 **[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
 
 The New York Times • 1d ago
-
----
-
-**[Can AI help forecasters better predict destructive hurricanes?](https://abcnews.go.com/US/ai-forecasters-predict-destructive-hurricanes/story?id=128083437)**
-
-AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
-
-ABC News • 12h ago
 
 ---
 
@@ -165,6 +171,14 @@ The Keyword • 1d ago
 
 ---
 
+**[Can AI help forecasters better predict destructive hurricanes?](https://abcnews.go.com/US/ai-forecasters-predict-destructive-hurricanes/story?id=128083437)**
+
+AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
+
+ABC News • 12h ago
+
+---
+
 **[Are We Seeing the First Steps Toward AI Superintelligence?](https://www.scientificamerican.com/article/how-close-are-todays-ai-models-to-agi-and-to-self-improving-into/)**
 
 Today’s leading AI models can already write and refine their own software. The question is whether that self-improvement can ever snowball into true superintelligence
@@ -173,25 +187,11 @@ Scientific American • 10h ago
 
 ---
 
-**[The Strange Disappearance of an Anti-AI Activist](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/)**
+**[How a 24-year-old Stanford Ph.D. dropout lured some of Meta's brightest minds to join her AI math startup](https://www.businessinsider.com/axiom-math-stanford-dropout-meta-ai-researchers-startup-2025-12)**
 
-Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
+24-year-old Axiom Math founder Carina Hong wooed top Meta researchers in a competitive AI talent market.
 
-The Atlantic • 2d ago
-
----
-
-**[Jeep's AI-generated talking animals signify change in auto industry](https://www.freep.com/story/money/cars/chrysler/2025/12/06/jeep-ai-generated-marketing-campaign-ads/87217350007/)**
-
-Jeep is one of the first automakers to fully leverage AI image generation in its marketing materials.
-
-Detroit Free Press • 6h ago
-
----
-
-**[Johns Hopkins Study Challenges Billion-Dollar AI Models](https://scitechdaily.com/?p=503026)**
-
-SciTechDaily • 20h ago
+Business Insider • 12h ago
 
 ---
 
@@ -211,7 +211,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 535 • 💬 277 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 542 • 💬 277 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -219,7 +219,7 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 432 • 💬 333 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 433 • 💬 333 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -227,7 +227,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 373 • 💬 210 • 21h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 375 • 💬 212 • 21h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -395,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,188 • 4d ago
+⬇️ 169,515 • ❤️ 2,191 • 4d ago
 
 ---
 
@@ -407,7 +407,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 18,140 • ❤️ 748 • 5d ago
+⬇️ 18,140 • ❤️ 749 • 5d ago
 
 ---
 
@@ -441,7 +441,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 252 • 4d ago
+⬇️ 0 • ❤️ 254 • 4d ago
 
 ---
 
@@ -453,7 +453,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,530 • ❤️ 348 • 4d ago
+⬇️ 2,530 • ❤️ 349 • 4d ago
 
 ---
 
@@ -463,7 +463,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 230 • 4d ago
+⬇️ 0 • ❤️ 231 • 4d ago
 
 ---
 
