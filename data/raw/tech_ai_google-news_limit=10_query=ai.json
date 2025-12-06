@@ -25,6 +25,16 @@
       "description": null
     },
     {
+      "headline": "AI Stocks Are a Bet on the Future. Markets Are Ignoring the Now.",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOakNqMUhWRFB6U3llTThRMWhXU0tYWU5nWGN0UVYyMHVjN2hsbGlqUERQdWtpWXVYbkpqckR3QXF0RUhlU05Wb2dheXhTcll2YkxHNnFNS04yR1d4aW1ibXFQLUJsS2tRSi1pdWNQNUs2cEEzUW1OT1JJQWphRFpMLUJpdkVIeWJDbThQUnBwSC1JellsTHVFSFVmaXNPWlVjRTBOQWxkQnhNd2g5OGd4eTBLT2NlSGEwQ05DZUdmaWtwTGxJQ0txR0NoUXJxNnJvQ3Nla2N0SU1feHJkWFF4RERfM0FyNUljTjRXbm1ZN0FfaXd1WEE4akVROXZpSjdoSlJMVF81eVZJUzlsaHNna1A0bmJhN2tXcmhRWGdCc01ZWVJXRDZneGk3cUhpTmM3dlRvcFNVc3NyQ2ktWjJTclg4Q1BlUGh3NFRRSUw0QWdGZWVTaTJoNnd0RVBncTRValhJNjlfVEY3Y3N1Qml1Q3I1R1lvVWs?oc=5",
+      "pub_date": 1765004400.0,
+      "article_url": "https://www.barrons.com/articles/ai-stocks-market-price-b6350469?gaa_at=eafs&gaa_n=AWEtsqcVtDWmQ0GGM4B2MCf0ay_HBB7HJMx34NJXvbrOjJ7gJCB8JWQe2zQh&gaa_ts=6933dac3&gaa_sig=8Rx-Qjledzz127V1447PlSKwQ6m-TYhF7c0Be64lEiuEpsQD7eliyGUSxFOibaMPnh6p44VKu6NJMiuvpzH9Ig%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "\u2018Godfather of AI\u2019 says Bill Gates and Elon Musk are right about the future of work\u2014but he predicts mass unemployment is on its way",
       "source": "Fortune",
       "source_url": "https://fortune.com",
@@ -35,6 +45,26 @@
       "description": "While tech leaders paint a positive future where work is optional thanks to AI, the \u2018Godfather of AI\u2019 Geoffrey Hinton warns they\u2019re \u201cbetting on AI replacing a lot of workers.\u201d"
     },
     {
+      "headline": "How AI is rewiring childhood",
+      "source": "The Economist",
+      "source_url": "https://www.economist.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEODhlSTI5VGZ6amg1clNjeDRwTWQ3RDFXWGFtWW9DYXlNRGN3b25UdE0xSko2aktmRWJqSTY2SzlQM1ZBY2RpMWpObkhzZTdHMkVwVjRuazVmQjJ0ZjNyOXdBLVJIRGlxeG1jWUhyS3AwX3B4ekJkdFpER0YxQQ?oc=5",
+      "pub_date": 1764847921.0,
+      "article_url": "https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI",
+      "source": "Anthropic",
+      "source_url": "https://www.anthropic.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PSmZZSTRVTU92b1JfN2l3UjB3cG53bGY5dk9oRUhwaDMtS0lvanpTY05meDJCWUVBQU1iaWJ0Q09OMHJyTWp2UUZZYW84SXlpTjNVNjdYUGtSdVJ1RHBsM2dR?oc=5",
+      "pub_date": 1764867544.0,
+      "article_url": "https://www.anthropic.com/news/anthropic-interviewer",
+      "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Reflection&backgroundColor=sky",
+      "description": "What 1,250 professionals told us about working with AI"
+    },
+    {
       "headline": "A safety report card ranks AI company efforts to protect humanity",
       "source": "Los Angeles Times",
       "source_url": "https://www.latimes.com",
@@ -43,36 +73,6 @@
       "article_url": "https://www.latimes.com/entertainment-arts/business/story/2025-12-05/ai-artificial-intelligence-company-scorecard-ranks-safety-humanity",
       "image": "https://ca-times.brightspotcdn.com/dims4/default/571d8f3/2147483647/strip/true/crop/4564x2396+0+323/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2Fff%2Fe32c277e4854a26d2d77424aebe4%2F2235057505.jpg",
       "description": "Nonprofit Future of Life Institute gave low grades to AI firms including OpenAI, Anthropic, Google and Meta due to concerns about how the companies are handling AI safety."
-    },
-    {
-      "headline": "ChatGPT started the AI race. Now its lead is looking shaky.",
-      "source": "The Washington Post",
-      "source_url": "https://www.washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOem8wQjlxQVN2RUZIbW1udnlkZmhzSmFGVkx2bHU3clE1dFN6T096NXN6bmNZLWpWMGM0Y1VEUEVKMy1JWkFjN3pEUWc4bmZvTng4RWQ1Y0xQWmszVFpDbWNYRlpIcmRiR2VYZnNmUzhESHpaQ2lPUlp1cF9fcHNWeFNpeldpRU5MU05n?oc=5",
-      "pub_date": 1764957600.0,
-      "article_url": "https://www.washingtonpost.com/technology/2025/12/05/chatgpt-ai-gemini-competition/",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "'Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win'",
-      "source": "Business Insider",
-      "source_url": "https://www.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNakdsN043Y1JNMEtXWmlURHBUTFJXcm13Ql9lUy11NFNRWlFVcllJWVU1em1PWS1SMnRPV3V1U1FPZHU5YlE3TE92a241MlE5T1Y0enFDdTJ1X05NNFpYT0pjUEJLRmJvSWFlclZJRDNpODY1ajhUOUVGaVV3VVZEeVA2UHNEX042cVN2Zm9WbXRDV1pFUVV2aA?oc=5",
-      "pub_date": 1764927000.0,
-      "article_url": "https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12",
-      "image": "https://i.insider.com/6931c1337ecd1d1da662ef9f?width=1200&format=jpeg",
-      "description": "Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was \"surprising than it's taken this long\" for Google to catch OpenAI."
-    },
-    {
-      "headline": "Apple May Win the AI Race. How It Could Beat Meta, Microsoft, and OpenAI",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQelNJSTZQZE5PMWFtZWh5aThwa3pOd3Q4SFpyVFp3QkZYc19qN1Z5eWtYUGlOVUk5bEM0b3NTSmFSd1g4VlplVFRuVG9UbHlzMklGeF9ubGFRX3lzcEh2ZkZiUG4wNm9fWTNqZExUR1UzSlktaXd3enJmWXl6d1AzVzh6T1FIRVlnUzVtZWRlcUdUeGFJUFhlOXVWZXM0dWNpbmdDSzVsX2lDZDZ2QmRiMjBnWll0TWk1VlJDZ0ptUEJ6NXkwZ1hLRFQtRUhHNmZfc3liaFo5TmZQRGEwa3lKRzlqc2VfMXFud2RoclZ3T1BNN1JCeHJ3Nms1a2Q3RGtQMk9DTlQ2eUwxTUk3X0R0S3pfM0ZadWt2RTFHNkJ5SXFpQXRUdDZ2Ym5EMFNVa0kxU1pYTUFjaDZNaTNwTXItOTJxOHZCOUprMFNrOFlsektyaldwWjE0WDJIMzhOMlFJWTU2N3pBX3dRa1Frbk9rTWd3ZXBjOUtUbmxJRGNRNHNfTzJONTNnT0h1dHItVnVtLXc?oc=5",
-      "pub_date": 1764941400.0,
-      "article_url": "https://www.barrons.com/articles/apple-stock-price-ai-meta-microsoft-openai-22561075?gaa_at=eafs&gaa_n=AWEtsqeIOXI5qU2Pl7dkkUGsA95DvATHa-plRKMuvOWs3i-_B4m3gPVIjHxe&gaa_ts=6933d112&gaa_sig=OWtMmMTYULVcOB2EPUjinV4XYGMYq4vEGKKAK7kfq-xBM8oWZa_cUgODbg98PUzw8NsjFVrmklp3ljN9epqXeg%3D%3D",
-      "image": null,
-      "description": null
     },
     {
       "headline": "Meta acquiring AI wearable company Limitless",
@@ -95,16 +95,16 @@
       "description": null
     },
     {
-      "headline": "Meta Platforms Buys AI Device Maker Limitless",
-      "source": "The Wall Street Journal",
-      "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNV1FQLUFnOHhINWx3QnhBMlVZYXpHOXdab3BUZllvWDdpWWd5ZGdDWU1BQW9vVHZ5WFRyamFtalZKMm96bDgzVlc3RzM5Z2NQQ3NRM1pTbWtDUW5ZcFhaTi1iQWdEOGVITE5PZEFpeTl5bVNsSWN5RGNTdXUtbzZhZXpYbXZrOE50VHBzMUVTNHdyRldobHNkMVQ1Q3BlMm1BNU9KNWJlR3F2TUdPMV80cnlBNFBpd3lfNTgzRDg5OFRKSExpcHpIWFp6bTVlVXczZDlLTmZyY0RuandJTHRQMFpVMWN1WjVsbjBXT21wNG0wdHlNc2ttN2l4S3IydjEweUY4TWNEbmYzTXEtOTU4ZFJiZzFpUDV2X3hCQTNwSU5iMzZLOExQbjVCcjJRUjJwR2Rtdkl0YUJMZHVYMDU5dWRFLXFoSWFtVWZ4QkczZ01PZXJPbzNEdkptVHJRcmRTaGR0YThtMEVVQ2dqX1l0cXdmaWxUMk9ldGV2LXFIZmk1R3dnX2JaTnlOTQ?oc=5",
-      "pub_date": 1764972480.0,
-      "article_url": "https://www.wsj.com/tech/meta-platforms-buys-ai-device-maker-limitless-d2649827?gaa_at=eafs&gaa_n=AWEtsqfdzHAzU0rU0o4x6YzHWWJbUSI_mLEfrarBmmW2db3dlZCAMT7Bf2Tc&gaa_ts=6933d112&gaa_sig=0e5kdEJp6y6EyG0pbZOXwFzz1L-lrCIYmJxmebt91tGAnHpNMjxEfbimnHp2-Zd8zI9_SpGCh2FQNq6jFxaPtA%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "Meta acquires AI device startup Limitless",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0Q1aUl6MWRtZHBWWlZwdkdWTmtTYVprS2NaOE5MdWZkVGNhNmFFSFU5ZWhaSXU0ZS0zbWIteHVZbHZxVTh1UUxPem9xTExWZTZMR01RMHRPRWpKSHZ0UzA0UWtSV3NVZVBSR0VfOWZqOGdXZ2pjcXhWc3h2MW1tdkJ3?oc=5",
+      "pub_date": 1764968533.0,
+      "article_url": "https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/04/Limitless-pendant.jpg?resize=1200,675",
+      "description": "Limitless said it shares Meta's vision of bringing personal superintelligence to everyone."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-06T06:31:01.756468+00:00"
+  "fetched_at": "2025-12-06T07:12:17.113546+00:00"
 }

@@ -13,17 +13,6 @@
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
     },
     {
-      "title": "The wait is over! \ud83c\udfa5 All talks from the #EIPSummit at Devconnect Argentina are now live on the ECH Institute YouTube channel. \ud83c\udde6\ud83c\uddf7\u2728 From gas repricing to AI data standards, this is your masterclass on how Ethereum evolves. A thread of all sessions \ud83d\udc47\ud83e\uddf5",
-      "author": "AkashKshirsagar",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pfgpoi/the_wait_is_over_all_talks_from_the_eipsummit_at/",
-      "published": 1764996744.0,
-      "thumbnail": null,
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Revising ERC-2535 Diamonds to Simplify and Improve the Terminology",
       "author": "mudgen",
       "url": "https://www.reddit.com/r/ethereum/comments/1pfgiab/revising_erc2535_diamonds_to_simplify_and_improve/",
@@ -33,6 +22,17 @@
       "site_name": "Fellowship of Ethereum Magicians",
       "favicon": "https://ethereum-magicians.org/uploads/default/optimized/2X/3/3a633db8b362151a5dd196670cef12dc5deafc05_2_180x180.png",
       "description": "My post on X about it is here: https://x.com/mudgen/status/1997162259986973052"
+    },
+    {
+      "title": "The wait is over! \ud83c\udfa5 All talks from the #EIPSummit at Devconnect Argentina are now live on the ECH Institute YouTube channel. \ud83c\udde6\ud83c\uddf7\u2728 From gas repricing to AI data standards, this is your masterclass on how Ethereum evolves. A thread of all sessions \ud83d\udc47\ud83e\uddf5",
+      "author": "AkashKshirsagar",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pfgpoi/the_wait_is_over_all_talks_from_the_eipsummit_at/",
+      "published": 1764996744.0,
+      "thumbnail": null,
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "Part Six of \"Can I Pay With This?\": Trustless, My Ass",
@@ -55,6 +55,17 @@
       "site_name": null,
       "favicon": null,
       "description": "Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/"
+    },
+    {
+      "title": "Odysee has integrated Wander Connect for the CLabs team for the Arweave ecosystem.",
+      "author": "jharmomy",
+      "url": "https://www.reddit.com/r/ethereum/comments/1pfiq9r/odysee_has_integrated_wander_connect_for_the/",
+      "published": 1765003681.0,
+      "thumbnail": null,
+      "external_url": "https://help.odysee.tv/category-monetization/wander/",
+      "site_name": "help.odysee.tv",
+      "favicon": "https://help.odysee.tv/img/favicon-spaceman.png",
+      "description": "How to install the Wander Wallet browser extension?"
     },
     {
       "title": "The wait is over! \ud83c\udfa5 All talks from the #EIPSummit at Devconnect Argentina are now live on the ECH Institute YouTube channel. \ud83c\udde6\ud83c\uddf7\u2728 From gas repricing to AI data standards, this is your masterclass on how Ethereum evolves. A thread of all sessions \ud83d\udc47\ud83e\uddf5",
@@ -99,18 +110,7 @@
       "site_name": "ethereal.news",
       "favicon": "https://ethereal.news/favicon.svg",
       "description": "Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary"
-    },
-    {
-      "title": "Highlights from the All Core Developers Execution (ACDE) Call #225",
-      "author": "Y_K_C_",
-      "url": "https://www.reddit.com/r/ethereum/comments/1pego5o/highlights_from_the_all_core_developers_execution/",
-      "published": 1764894384.0,
-      "thumbnail": "https://external-preview.redd.it/K1RcM0LAadD7-6wwPZdTDKsNMd1iU6IoBFkKvn3bc54.png?width=640&crop=smart&auto=webp&s=539183c7c9064c060e9a9f3e9986f6338b07c25e",
-      "external_url": "https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/",
-      "site_name": "EtherWorld.co",
-      "favicon": "https://etherworld.co/content/images/size/w256h256/2023/03/new-logo--3--2.png",
-      "description": "A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade."
     }
   ],
-  "fetched_at": "2025-12-06T06:30:41.755428+00:00"
+  "fetched_at": "2025-12-06T07:12:03.876410+00:00"
 }
