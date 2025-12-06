@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T23:23:05.357100+00:00'
+updated: '2025-12-06T23:37:11.998719+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 23:23 UTC  
+**Last Updated:** December 06, 2025 at 23:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,13 +66,13 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
-3h ago
+4h ago
 
 ---
 
 **[Robot dance Arduino](https://www.reddit.com/r/robotics/comments/1pfijsr/robot_dance_arduino/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -250,7 +250,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 64K • 👍 1K • 💬 310 • ⏱️ 12:07 • 22h ago
+👁️ 64K • 👍 1K • 💬 310 • ⏱️ 12:07 • 23h ago
 
 ---
 

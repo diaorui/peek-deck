@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T23:23:05.329377+00:00'
+updated: '2025-12-06T23:37:11.980502+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - news
-- videos
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 23:23 UTC  
+**Last Updated:** December 06, 2025 at 23:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -105,7 +105,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 Lately I’ve been trying to get my days under control because I kept doing that thing where you “work all day” but somehow… get nothing important done. 😅 I started using this daily planning prompt, and it’s actually helped me stop winging my schedule and start planning based on how much energy I actually have and what truly matters. Sharing it here in case it helps someone else: Help me plan my workday effectively. Today's date: [Date] Work hours available: [Start time - End time] Energy level today: [High/Medium/Low] Must-do tasks: [Task with deadline/importance] [Task with deadline/importance] [Task with deadline/importance] Should-do tasks: [Task] [Task] Nice-to-do tasks: [Task] [Task] Meetings/commitments: ● [Time]: [Meeting/commitment] ● [Time]: [Meeting/commitment] Context: ● My peak productivity time: [When you work best] ● Types of work I do: [Deep work, meetings, admin, creative, etc.] ● Current biggest project: [What's most important this week] Create an optimized schedule that: Time Block Schedule: [Hour by hour breakdown considering energy levels and task types] Task Sequence: Why this order makes sense (considering priority, energy, dependencies) Focus Strategies: ● Batching similar tasks ● Protecting deep work time ● Handling interruptions ● When to take breaks Evening Reflection Prompts: Questions to ask myself at end of day to improve tomorrow Make it: ● Realistic (includes buffer time) ● Energy-optimized (hard tasks when fresh) ● Flexible (can adjust if things shift) What it gives back A simple time-blocked schedule, the order to tackle tasks (with actual reasoning), focus strategies, and a few reflection questions so you don’t end the day wondering where your time went. It’s not “productivity guru” complicated, it just keeps you honest about your energy and priorities instead of cramming everything into the same to-do list. If you want more prompts like this, I’ve got a small prompt library, just let me know if you want it. 👍
 
-2h ago
+3h ago
 
 ---
 
@@ -329,7 +329,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 64K • 👍 1K • 💬 310 • ⏱️ 12:07 • 22h ago
+👁️ 64K • 👍 1K • 💬 310 • ⏱️ 12:07 • 23h ago
 
 ---
 
@@ -369,7 +369,7 @@ From Capitol Hill to the back of an Uber in Dubai — this week showed just how 
 
 📺 CNBC Television
 
-👁️ 25K • 👍 256 • 💬 30 • ⏱️ 22:41 • 23h ago
+👁️ 25K • 👍 256 • 💬 30 • ⏱️ 22:41 • 1d ago
 
 ---
 
@@ -559,20 +559,6 @@ The paper introduces Reward Forcing, which enhances video generation by updating
 
 ---
 
-**[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
-
-*Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
-
-🏢 AI at Meta
-
-Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
-
-▲ 105 • 💬 4 • ⭐ 5,317 • 16d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
-
----
-
 **[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
 
 *Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
@@ -582,6 +568,20 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 ▲ 22 • 💬 0 • ⭐ 25,461 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
+**[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
+
+*Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
+
+🏢 AI at Meta
+
+Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
+
+▲ 105 • 💬 4 • ⭐ 5,330 • 16d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
 ---
 
@@ -649,7 +649,7 @@ WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.3k • 🔱 407 • 1d ago
+⭐ 5.3k • 🔱 408 • 1d ago
 
 ---
 
@@ -689,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 906 • 🔱 107 • 10h ago
+⭐ 908 • 🔱 107 • 11h ago
 
 ---
 
@@ -699,7 +699,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 2h ago
+⭐ 826 • 🔱 43 • 9m ago
 
 ---
 
@@ -719,7 +719,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 783 • 🔱 54 • 6d ago
+⭐ 784 • 🔱 54 • 6d ago
 
 ---
 
@@ -729,7 +729,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 738 • 🔱 14 • 17d ago
+⭐ 739 • 🔱 14 • 17d ago
 
 ---
 
@@ -739,7 +739,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 670 • 🔱 226 • 16h ago
+⭐ 671 • 🔱 227 • 16h ago
 
 ---
 

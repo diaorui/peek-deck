@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T23:23:05.344495+00:00'
+updated: '2025-12-06T23:37:11.989206+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 23:23 UTC  
+**Last Updated:** December 06, 2025 at 23:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -1.8%  
-**30d:** -14.2%  
-**90d:** -20.5%  
-**1y:** -10.9%  
+**24h:** -0.0%  
+**7d:** -1.6%  
+**30d:** -14.0%  
+**90d:** -20.3%  
+**1y:** -10.7%  
 
 ---
 
@@ -101,19 +101,19 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 **[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Man thats a brutal reminder😭](https://www.reddit.com/r/Bitcoin/comments/1pfm5h0/man_thats_a_brutal_reminder/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -127,7 +127,7 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 I'm sure you have all heard this a million times before but this is my story. In 2015 I researched the crap out of Bitcoin and came to the conclusion that it had a lot of potential. I purchased 10 Bitcoins for $225 a piece through Coinbase. I then stored the Bitcoin in a cold wallet and put the address on a piece of paper in my safe. I told myself that I was going to forget I even bought the Bitcoins and that I wasn't going to take that piece of paper out of the safe for 20 years, and at that time it would either be worthless or potentially worth a lot of money. In January of 2017, the price of Bitcoin skyrocketed to over $1,000. I had made almost five times my money in a very short time. $10,000 was real money to me at the time as I had kids nearing College age, a lot of bills to pay, etc. As the price of Bitcoin hit almost $1,200 I was feeling very rich. But just as soon as it went to $1,200, it crashed all the way back below 800. I felt as though I had been wiped out almost overnight, as my Bitcoin lost almost a third of its value. Almost as soon as the price crashed below $800, it went back up to $1000. At that time I did what I said I would never do. I took the Bitcoin wallet address out of my safe, put it back in my coinbase account and sold for $1,000 per Bitcoin, turning my less than $2,500 investment into a cool $10 grand. Fast forward to earlier this year when Bitcoin hit $125,000. Talk about a lot of regrets selling those 10 Bitcoin. But I also remembered I still had my coinbase account. Much to my surprise I learned that I had a few sats still in my account. Coinbase had given me a dollar worth of bitcoin when I opened the account and at the time Bitcoin was $225. That $1 worth of bitcoin they gave me was now worth over $550, lol. They also gave me another dollar worth of bitcoin for completing a transaction online which I did. The price at that time was around $250. So I was extremely surprised and grateful to see that my $2 worth of free bitcoin was now worth over $1,000. I am now almost 60 years old and approaching retirement. Up until the last couple of months I had done no crypto investing since my first Bitcoin purchase. The money I received from selling my Bitcoin I invested into hard assets such as silver which I really have enjoyed stacking. But stacking silver was a lot more fun when the price was under $25 an ounce. Tom Lee is now saying that retirees are going to start piling into Bitcoin as an alternative asset class. Although I am not yet retired, I feel as though I am living proof of his thesis. I think I have more conviction in Bitcoin now at $90,000 than I did at $225. Even though my Bitcoin Holdings now are a mere fraction of what I had previously, my dollar amount invested is much higher. I am really enjoying stacking crypto now and watching my balances grow. I am investing weekly in Bitcoin through my Strike account. I believe the value of Bitcoin will be significantly higher in the years to come. Good luck everyone!
 
-6h ago
+7h ago
 
 ---
 
@@ -153,7 +153,7 @@ just took out a Fidelity 401k loan from my workplace to smash buy. Feel free to 
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -189,7 +189,7 @@ CNBC • 2d ago
 
 Coinbase says the crypto market is entering a December recovery phase as liquidity improves and macro conditions turn more supportive.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -315,7 +315,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 11K • 👍 546 • 💬 238 • ⏱️ 9:08 • 22h ago
+👁️ 11K • 👍 546 • 💬 238 • ⏱️ 9:08 • 23h ago
 
 ---
 
@@ -335,7 +335,7 @@ We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 298 • 💬 29 • ⏱️ 5:59 • 6h ago
+👁️ 4K • 👍 298 • 💬 29 • ⏱️ 5:59 • 7h ago
 
 ---
 
