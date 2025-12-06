@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T18:24:56.671704+00:00'
+updated: '2025-12-06T18:47:34.797873+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 18:24 UTC  
+**Last Updated:** December 06, 2025 at 18:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 … and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
 
-🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 45m ago
+🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 1h ago
 
 ---
 
@@ -113,7 +113,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 If you use AI for writing, have you found a way for it to capture your voice so that the output doesn’t sound like it was written by artificial intelligence?
 
-🔗 [nytimes.com](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html?smid%3Dnytcore-ios-share) • 5h ago
+🔗 [nytimes.com](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html?smid%3Dnytcore-ios-share) • 6h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 3h ago
 
 China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
 
-Fortune • 11m ago
+Fortune • 34m ago
 
 ---
 
@@ -185,7 +185,7 @@ The Atlantic • 1d ago
 
 Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -285,43 +285,23 @@ Rodents in northern Germany were spotted using two different hunting strategies 
 
 ## YouTube Videos: "ai"
 
+**[I Bought Ai SCAM Products to see what shows up](https://www.youtube.com/watch?v=q9IrO-A4x4Y)**
+
+Thank you to Disney Dreamlight Valley for sponsoring this video! Click here to start your own adventure ...
+
+📺 HopeScope
+
+👁️ 171K • 👍 11K • 💬 833 • ⏱️ 34:23 • 3h ago
+
+---
+
 **[An AI Expert Warning: 6 People Are (Quietly) Deciding Humanity’s Future! We Must Act Now!](https://www.youtube.com/watch?v=P7Y-fynYsgE)**
 
 AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments won't regulate, how AGI could replace humans ...
 
 📺 The Diary Of A CEO
 
-👁️ 791K • 👍 19K • 💬 4K • ⏱️ 2:04:06 • 2d ago
-
----
-
-**[Grok 4.2: Elon Musk’s Most Powerful AI Model Yet](https://www.youtube.com/watch?v=jev8--FbvBg)**
-
-Join the BitBiased AI newsletter: https://bitbiased.ai/ Grok 4.2 is about to flip the AI world upside down. Elon Musk's xAI team is ...
-
-📺 BitBiasedAI
-
-👁️ 12K • 👍 359 • 💬 38 • ⏱️ 15:14 • 23h ago
-
----
-
-**[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
-
-Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
-
-📺 Future of Life Institute
-
-👁️ 27K • 👍 1K • 💬 523 • ⏱️ 15:40 • 2d ago
-
----
-
-**[They Summoned Something That Can&#39;t Be Controlled: The AI Warning From 1904](https://www.youtube.com/watch?v=h6efTA8z1UI)**
-
-Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the demon." Everyone laughed. Nobody's laughing ...
-
-📺 End Times Productions
-
-👁️ 104K • 👍 7K • 💬 2K • ⏱️ 34:02 • 1d ago
+👁️ 806K • 👍 19K • 💬 4K • ⏱️ 2:04:06 • 2d ago
 
 ---
 
@@ -331,7 +311,7 @@ From Capitol Hill to the back of an Uber in Dubai — this week showed just how 
 
 📺 CNBC Television
 
-👁️ 19K • 👍 215 • 💬 28 • ⏱️ 22:41 • 18h ago
+👁️ 21K • 👍 227 • 💬 28 • ⏱️ 22:41 • 19h ago
 
 ---
 
@@ -341,17 +321,27 @@ The race to unlock the secret to a longer life is on - and two sisters from a Ca
 
 📺 BBC News
 
-👁️ 11K • 👍 378 • 💬 158 • ⏱️ 8:08 • 9h ago
+👁️ 13K • 👍 430 • 💬 182 • ⏱️ 8:08 • 9h ago
 
 ---
 
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
+**[They Summoned Something That Can&#39;t Be Controlled: The AI Warning From 1904](https://www.youtube.com/watch?v=h6efTA8z1UI)**
 
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
+Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the demon." Everyone laughed. Nobody's laughing ...
 
-📺 AI Revolution
+📺 End Times Productions
 
-👁️ 47K • 👍 1K • 💬 250 • ⏱️ 12:07 • 17h ago
+👁️ 107K • 👍 7K • 💬 2K • ⏱️ 34:02 • 1d ago
+
+---
+
+**[Ronny Chieng Investigates the Promises of AI, the Most Expensive Circle Jerk Ever | The Daily Show](https://www.youtube.com/watch?v=RcPthlvzMY8)**
+
+Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford of the Institute for AI Policy and Strategy to ...
+
+📺 The Daily Show
+
+👁️ 757K • 👍 17K • 💬 993 • ⏱️ 4:58 • 2d ago
 
 ---
 
@@ -365,23 +355,31 @@ The past few days pushed AI in every direction at once. OpenAI quietly tested a 
 
 ---
 
-**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=6DIFQm4MXYI)**
+**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
 
-Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
 
-📺 Impossible AIs
+📺 AI Revolution
 
-👁️ 532K • 👍 2K • 💬 67 • ⏱️ 8:09 • 2d ago
+👁️ 52K • 👍 1K • 💬 283 • ⏱️ 12:07 • 18h ago
 
 ---
 
-**[Giraffe waters pumpkin plant 😭 #ai #women #old man #orange #Pumpkin #aistory #aivideo #popular](https://www.youtube.com/watch?v=SZtJkgxz0PE)**
+**[Grok 4.2: Elon Musk’s Most Powerful AI Model Yet](https://www.youtube.com/watch?v=jev8--FbvBg)**
 
-Giraffe waters pumpkin plant #ai #women #old man #orange #Pumpkin #aistory #aivideo #popular.
+Join the BitBiased AI newsletter: https://bitbiased.ai/ Grok 4.2 is about to flip the AI world upside down. Elon Musk's xAI team is ...
 
-📺 Ai story 3.0
+📺 BitBiasedAI
 
-👁️ 6K • 👍 155 • 💬 10 • ⏱️ 1:03 • 5h ago
+👁️ 13K • 👍 365 • 💬 39 • ⏱️ 15:14 • 23h ago
+
+---
+
+**[Google’s new AI is SCARY](https://www.youtube.com/watch?v=costtl_9kDE)**
+
+📺 Ben Esherick
+
+👁️ 32K • 👍 5K • 💬 208 • ⏱️ 0:38 • 1h ago
 
 ---
 
@@ -701,7 +699,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 824 • 🔱 43 • 12h ago
+⭐ 824 • 🔱 43 • 13h ago
 
 ---
 

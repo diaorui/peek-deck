@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T18:24:56.680122+00:00'
+updated: '2025-12-06T18:47:34.806257+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 18:24 UTC  
+**Last Updated:** December 06, 2025 at 18:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,725.16
+### $89,632.51
 
 ---
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[Man thats a brutal reminder😭](https://www.reddit.com/r/Bitcoin/comments/1pfm5h0/man_thats_a_brutal_reminder/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -125,13 +125,13 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 I'm sure you have all heard this a million times before but this is my story. In 2015 I researched the crap out of Bitcoin and came to the conclusion that it had a lot of potential. I purchased 10 Bitcoins for $225 a piece through Coinbase. I then stored the Bitcoin in a cold wallet and put the address on a piece of paper in my safe. I told myself that I was going to forget I even bought the Bitcoins and that I wasn't going to take that piece of paper out of the safe for 20 years, and at that time it would either be worthless or potentially worth a lot of money. In January of 2017, the price of Bitcoin skyrocketed to over $1,000. I had made almost five times my money in a very short time. $10,000 was real money to me at the time as I had kids nearing College age, a lot of bills to pay, etc. As the price of Bitcoin hit almost $1,200 I was feeling very rich. But just as soon as it went to $1,200, it crashed all the way back below 800. I felt as though I had been wiped out almost overnight, as my Bitcoin lost almost a third of its value. Almost as soon as the price crashed below $800, it went back up to $1000. At that time I did what I said I would never do. I took the Bitcoin wallet address out of my safe, put it back in my coinbase account and sold for $1,000 per Bitcoin, turning my less than $2,500 investment into a cool $10 grand. Fast forward to earlier this year when Bitcoin hit $125,000. Talk about a lot of regrets selling those 10 Bitcoin. But I also remembered I still had my coinbase account. Much to my surprise I learned that I had a few sats still in my account. Coinbase had given me a dollar worth of bitcoin when I opened the account and at the time Bitcoin was $225. That $1 worth of bitcoin they gave me was now worth over $550, lol. They also gave me another dollar worth of bitcoin for completing a transaction online which I did. The price at that time was around $250. So I was extremely surprised and grateful to see that my $2 worth of free bitcoin was now worth over $1,000. I am now almost 60 years old and approaching retirement. Up until the last couple of months I had done no crypto investing since my first Bitcoin purchase. The money I received from selling my Bitcoin I invested into hard assets such as silver which I really have enjoyed stacking. But stacking silver was a lot more fun when the price was under $25 an ounce. Tom Lee is now saying that retirees are going to start piling into Bitcoin as an alternative asset class. Although I am not yet retired, I feel as though I am living proof of his thesis. I think I have more conviction in Bitcoin now at $90,000 than I did at $225. Even though my Bitcoin Holdings now are a mere fraction of what I had previously, my dollar amount invested is much higher. I am really enjoying stacking crypto now and watching my balances grow. I am investing weekly in Bitcoin through my Strike account. I believe the value of Bitcoin will be significantly higher in the years to come. Good luck everyone!
 
-1h ago
+2h ago
 
 ---
 
 **[They are always not ready](https://www.reddit.com/r/Bitcoin/comments/1pfvd6m/they_are_always_not_ready/)**
 
-32m ago
+54m ago
 
 ---
 
@@ -139,7 +139,7 @@ I'm sure you have all heard this a million times before but this is my story. In
 
 I have never purchased any cryptocurrency; I am more of a stock market person, just wanted to ask the community what your thoughts are on this theory, given that it is a highly speculative asset. The thing is, the other day I did some analysis and, looking at the second image, during the 12 months leading up to the midterms, there is usually a drawdown in the S&P 500, followed by a recovery. Edit: the table was published by Longview Economics on November 28, 2025. In 2026, it seems that both things will coincide (the run-up to the midterms and the $BTC 4-year cycle theory), hence my curiosity.
 
-20h ago
+21h ago
 
 ---
 
@@ -151,13 +151,13 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
 **[MSTR Stock: Strategy, The Bitcoin Whale, Is Wall Street's Favorite Stock — By Far](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 4h ago
 
 ---
 
@@ -287,23 +287,23 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin &amp; AI Just Hit A MAJOR Inflection Point](https://www.youtube.com/watch?v=FpQ7qHwOp5U)**
-
-Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience, and he also writes a Substack ...
-
-📺 Anthony Pompliano
-
-👁️ 7K • 👍 897 • ⏱️ 48:57 • 4h ago
-
----
-
 **[Bitcoin and These Crypto Are Preparing For Something HUGE](https://www.youtube.com/watch?v=jsAIPevdhMQ)**
 
 Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
 📺 CryptosRus Extra
 
-👁️ 10K • 👍 521 • 💬 399 • ⏱️ 9:08 • 17h ago
+👁️ 10K • 👍 534 • 💬 395 • ⏱️ 9:08 • 18h ago
+
+---
+
+**[Bitcoin &amp; AI Just Hit A MAJOR Inflection Point](https://www.youtube.com/watch?v=FpQ7qHwOp5U)**
+
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience, and he also writes a Substack ...
+
+📺 Anthony Pompliano
+
+👁️ 17K • 👍 1K • 💬 65 • ⏱️ 48:57 • 4h ago
 
 ---
 
@@ -313,17 +313,17 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 29K • 👍 2K • 💬 413 • ⏱️ 10:23 • 1d ago
+👁️ 31K • 👍 2K • 💬 434 • ⏱️ 10:23 • 1d ago
 
 ---
 
-**[Bitcoin: A Different Kind of Bear Market?](https://www.youtube.com/watch?v=5txYvyuM4uE)**
+**[WAIT: JP Morgan is STILL predicting $170,000 Bitcoin in 2026?! | EP 1392](https://www.youtube.com/watch?v=sU3cb55xCGo)**
 
-Is Bitcoin in a different type of bear market? Let's discuss what a bear market may look like coming from a non-euphoric top.
+After FUDing bitcoin and Strategy JP Morgan analysts are still predicting the 4 year cycle is over?
 
-📺 Benjamin Cowen
+📺 Simply Bitcoin
 
-👁️ 102K • 👍 6K • 💬 425 • ⏱️ 15:38 • 1d ago
+👁️ 10K • 👍 442 • 💬 68 • ⏱️ 1:34:16 • 23h ago
 
 ---
 
@@ -333,17 +333,17 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bit
 
 📺 CNBC Television
 
-👁️ 11K • 👍 106 • 💬 153 • ⏱️ 4:01 • 22h ago
+👁️ 12K • 👍 108 • 💬 153 • ⏱️ 4:01 • 22h ago
 
 ---
 
-**[Bitcoin investors...Get Ready For Inflation Numbers and the Fed!](https://www.youtube.com/watch?v=RmFwVDHzkis)**
+**[Bitcoin: A Different Kind of Bear Market?](https://www.youtube.com/watch?v=5txYvyuM4uE)**
 
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+Is Bitcoin in a different type of bear market? Let's discuss what a bear market may look like coming from a non-euphoric top.
 
-📺 CryptosRUs
+📺 Benjamin Cowen
 
-👁️ 32K • 👍 2K • 💬 428 • ⏱️ 10:13 • 1d ago
+👁️ 105K • 👍 7K • 💬 431 • ⏱️ 15:38 • 1d ago
 
 ---
 
@@ -353,7 +353,17 @@ As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and t
 
 📺 Swan Bitcoin
 
-👁️ 75K • 👍 3K • 💬 247 • ⏱️ 18:48 • 1d ago
+👁️ 76K • 👍 3K • 💬 251 • ⏱️ 18:48 • 1d ago
+
+---
+
+**[Bitcoin investors...Get Ready For Inflation Numbers and the Fed!](https://www.youtube.com/watch?v=RmFwVDHzkis)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 33K • 👍 2K • 💬 437 • ⏱️ 10:13 • 1d ago
 
 ---
 
@@ -363,27 +373,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 19K • 👍 452 • 💬 405 • ⏱️ 15:38 • 1d ago
+👁️ 20K • 👍 474 • 💬 405 • ⏱️ 15:38 • 1d ago
 
 ---
 
-**[What Happens to Bitcoin When the Fed Finally Cuts?](https://www.youtube.com/watch?v=nrSuqkGl1t4)**
+**[XRP is the Next Bitcoin😨🚨](https://www.youtube.com/watch?v=gHDfJMgAsyo)**
 
-Darius Dale is the Founder & CEO of 42 Macro. In this conversation, we break down the growing divisions inside the Federal ...
+ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
 
-📺 Anthony Pompliano
+📺 Crypto Cam
 
-👁️ 26K • 👍 960 • 💬 27 • ⏱️ 28:20 • 1d ago
-
----
-
-**[Did Saylor Just Bulletproof His Bitcoin Strategy?](https://www.youtube.com/watch?v=g5ncKRO0gPE)**
-
-Michael Saylor just sold MSTR stock to fund a $1.44 billion cash reserve for Strategy — and it completely changes the risk profile ...
-
-📺 Swan Bitcoin
-
-👁️ 17K • 👍 650 • 💬 48 • ⏱️ 2:10 • 2d ago
+👁️ 21K • 👍 778 • 💬 117 • ⏱️ 0:36 • 17h ago
 
 ---
 

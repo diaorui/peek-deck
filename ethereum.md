@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T18:24:56.686111+00:00'
+updated: '2025-12-06T18:47:34.812222+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 18:24 UTC  
+**Last Updated:** December 06, 2025 at 18:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
+**24h:** +0.4%  
 **7d:** +2.0%  
 **30d:** -11.2%  
-**90d:** -29.2%  
+**90d:** -29.3%  
 **1y:** -23.8%  
 
 ---
@@ -88,7 +88,7 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 Teranode from Craig Wright who it has been known since 2015 was Satoshi is scaling in a way that respects the Nakamoto consensus (that he invented...), by parallelizing things under the singular central authority, in such a way that everything done below the "miner" is internally trusted. This is exactly how scaling has to be done to avoid splitting the consensus and introducing things like "random sampling", and it seems everyone is missing that. Apparently this was not allowed to be posted, some word triggered a filter, I will append to it gradually to see what word.
 
-just now
+23m ago
 
 ---
 
@@ -96,7 +96,7 @@ just now
 
 My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 13h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 14h ago
 
 ---
 
@@ -238,7 +238,17 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 89K • 👍 5K • 💬 483 • ⏱️ 11:16 • 1d ago
+👁️ 91K • 👍 5K • 💬 482 • ⏱️ 11:16 • 1d ago
+
+---
+
+**[ETH Ethereum Indicators Suggest Massive PUMP Incoming](https://www.youtube.com/watch?v=kUvROUeb6ac)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 131 • 👍 17 • 💬 23 • ⏱️ 12:08 • 1h ago
 
 ---
 
@@ -248,7 +258,7 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 42K • 👍 2K • 💬 139 • ⏱️ 17:37 • 2d ago
+👁️ 43K • 👍 2K • 💬 144 • ⏱️ 17:37 • 2d ago
 
 ---
 
@@ -258,7 +268,7 @@ BITCOIN & ALTCOIN REVERSAL LOADING... (Prepare Now)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 5K • 👍 313 • 💬 161 • ⏱️ 21:34 • 7h ago
+👁️ 7K • 👍 345 • 💬 156 • ⏱️ 21:34 • 8h ago
 
 ---
 
@@ -268,27 +278,7 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 87K • 👍 3K • 💬 486 • ⏱️ 27:33 • 2d ago
-
----
-
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 19K • 👍 452 • 💬 405 • ⏱️ 15:38 • 1d ago
-
----
-
-**[The &quot;Sovereign&quot; Secret: The US Govt&#39;s 60,000 ETH Stash (They Aren&#39;t Selling)](https://www.youtube.com/watch?v=LDK8imAvRAk)**
-
-The "Sovereign" Secret: The US Govt's 60000 ETH Stash Everyone is talking about the "Strategic Bitcoin Reserve." But they are ...
-
-📺 Wall Street Stockcast
-
-👁️ 209 • 👍 15 • 💬 1 • ⏱️ 7:40 • 5h ago
+👁️ 89K • 👍 3K • 💬 489 • ⏱️ 27:33 • 2d ago
 
 ---
 
@@ -298,7 +288,17 @@ The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was
 
 📺 Altcoin Buzz
 
-👁️ 3K • 👍 145 • 💬 199 • ⏱️ 9:21 • 1d ago
+👁️ 3K • 👍 146 • 💬 197 • ⏱️ 9:21 • 1d ago
+
+---
+
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 20K • 👍 474 • 💬 405 • ⏱️ 15:38 • 1d ago
 
 ---
 
@@ -308,27 +308,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 161 • 💬 17 • ⏱️ 5:46 • 15h ago
+👁️ 3K • 👍 166 • 💬 16 • ⏱️ 5:46 • 15h ago
 
 ---
 
-**[🚨 BTC &amp; ETH: I AM WARNING YOU AGAIN!!!! LISTEN THIS TIME!!!!!](https://www.youtube.com/watch?v=na9LpJZqDyY)**
+**[The &quot;Sovereign&quot; Secret: The US Govt&#39;s 60,000 ETH Stash (They Aren&#39;t Selling)](https://www.youtube.com/watch?v=LDK8imAvRAk)**
 
-What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get ready now!!! AI Trading Club: ...
+The "Sovereign" Secret: The US Govt's 60000 ETH Stash Everyone is talking about the "Strategic Bitcoin Reserve." But they are ...
 
-📺 Thomas Kralow
+📺 Wall Street Stockcast
 
-👁️ 27K • 👍 3K • 💬 40 • ⏱️ 10:24 • 2d ago
+👁️ 289 • 👍 15 • 💬 1 • ⏱️ 7:40 • 6h ago
 
 ---
 
-**[Ethereum in CRISIS After MASSIVE Crypto Update](https://www.youtube.com/watch?v=l5rNGCFV7oU)**
+**[🚨🇺🇸  ETH Price TODAY!!! | MASSIVE Bets on Ethereum!! 👀](https://www.youtube.com/watch?v=K2iD6ZbNQIw)**
 
-Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydfi.Bitboy.Deals Telegram Group - Get ...
+Real-time crypto analysis — join my VIP Telegram.
 
-📺 BitBoy X
+📺 Marzell Crypto
 
-👁️ 4K • 👍 252 • ⏱️ 25:41 • 1d ago
+👁️ 2K • 👍 38 • 💬 133 • ⏱️ 5:24 • 1d ago
 
 ---
 
