@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T15:52:23.088031+00:00'
+updated: '2025-12-06T16:15:47.794219+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- repositories
 - videos
 - news
-- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 15:52 UTC  
+**Last Updated:** December 06, 2025 at 16:15 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 5h ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 6h ago
 
 ---
 
@@ -57,15 +57,15 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 22h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 23h ago
 
 ---
 
-**[Looking back on the practical use of AI in 2025](https://www.reddit.com/r/artificial/comments/1pfr9jp/looking_back_on_the_practical_use_of_ai_in_2025/)**
+**[Just used Gemini for a solo DND session…](https://www.reddit.com/r/artificial/comments/1pfscbo/just_used_gemini_for_a_solo_dnd_session/)**
 
-Hey all, amidst all the downsides of AI this past year - be it environmental worries, slop in music and art, AI enshittification, GPU/RAM prices increasing - I wanted to discuss about what's how WE are using AI, among a general look at changes on a larger scale. Personally, it feels like I haven't really felt a huge difference within the stuff I use which is just the basic stuff like GPT / Gemini. However, one change for me was that I've been using it for language learning which I've felt has been quite useful. On a general level, I feel like I've been seeing some practical applications that improved considerably this year compared to last years. An example I've seen recently is in health, where AI imaging can catch breast cancer way earlier and with higher accuracy. Another is in programming, where it feels like there's a huge rise in "Vibes Coding" with even sites like Bolt/v0. Now I'm not gonna pretend like I know how any of these work, but I do think it's interesting how there's a practical use for AI in these fields now. What about for you guys? Has AI gotten better or worse this year, and where did you actually feel the difference?
+… and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
 
-52m ago
+29m ago
 
 ---
 
@@ -73,15 +73,15 @@ Hey all, amidst all the downsides of AI this past year - be it environmental wor
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 9h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 10h ago
 
 ---
 
-**[Why is everyone so focused on generative AI when neural networks exist](https://www.reddit.com/r/artificial/comments/1pfmyfz/why_is_everyone_so_focused_on_generative_ai_when/)**
+**[Looking back on the practical use of AI in 2025](https://www.reddit.com/r/artificial/comments/1pfr9jp/looking_back_on_the_practical_use_of_ai_in_2025/)**
 
-I'm just curious about the differences, I'm not super educated on this, and I figured this place would know more than me
+Hey all, amidst all the downsides of AI this past year - be it environmental worries, slop in music and art, AI enshittification, GPU/RAM prices increasing - I wanted to discuss about what's how WE are using AI, among a general look at changes on a larger scale. Personally, it feels like I haven't really felt a huge difference within the stuff I use which is just the basic stuff like GPT / Gemini. However, one change for me was that I've been using it for language learning which I've felt has been quite useful. On a general level, I feel like I've been seeing some practical applications that improved considerably this year compared to last years. An example I've seen recently is in health, where AI imaging can catch breast cancer way earlier and with higher accuracy. Another is in programming, where it feels like there's a huge rise in "Vibes Coding" with even sites like Bolt/v0. Now I'm not gonna pretend like I know how any of these work, but I do think it's interesting how there's a practical use for AI in these fields now. What about for you guys? Has AI gotten better or worse this year, and where did you actually feel the difference?
 
-4h ago
+1h ago
 
 ---
 
@@ -103,7 +103,7 @@ If you use AI for writing, have you found a way for it to capture your voice so 
 
 **[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -123,7 +123,7 @@ An AI image generator startup’s database was left accessible to the open inter
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 50m ago
+The Guardian • 1h ago
 
 ---
 
@@ -131,29 +131,15 @@ The Guardian • 50m ago
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-The Keyword • 23h ago
+The Keyword • 1d ago
 
 ---
 
-**[Which Artificial Intelligence (AI) Stocks Are Billionaires Buying the Most?](https://www.fool.com/investing/2025/12/06/which-artificial-intelligence-ai-stocks-are-billio/)**
+**[Jeep's AI-generated talking animals signify change in auto industry](https://www.freep.com/story/money/cars/chrysler/2025/12/06/jeep-ai-generated-marketing-campaign-ads/87217350007/)**
 
-Two AI stocks especially stand out.
+Jeep is one of the first automakers to fully leverage AI image generation in its marketing materials.
 
-The Motley Fool • 9h ago
-
----
-
-**[Buy the dip in this AI 'neocloud' and don't believe bubble 'conspiracy theories,' says Freedom Capital's Meeks](https://www.cnbc.com/2025/12/05/buy-the-dip-in-this-ai-neocloud-says-freedom-capitals-paul-meeks.html)**
-
-Veteran tech analyst Paul Meeks said that CoreWeave's backstop from Nvidia could absorb "any extra capacity for seven years" given their GPU partnership.
-
-CNBC • 22h ago
-
----
-
-**[These 10 fast-growing AI stocks may offer the best bang for your buck](https://www.marketwatch.com/story/these-10-fast-growing-ai-stocks-may-offer-the-best-bang-for-your-buck-8b6205ef?gaa_at=eafs&gaa_n=AWEtsqd3K4oiTaFOE9sAQK4HC7sEHuvPrYaR1qPPe9-hNIrB1WW_Rg17SQB1&gaa_ts=69345200&gaa_sig=CNU95H_LbfNkVFaPsRgyC3Yn7LCfcYYHpPpkBRbXX99TIIiMwBVb42aEmYLYsB8Jq4HyliY0hDQp20Ss0INHiw%3D%3D)**
-
-MarketWatch • 1h ago
+Detroit Free Press • 24m ago
 
 ---
 
@@ -183,7 +169,7 @@ The New York Times • 1d ago
 
 While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
 
-Fortune • 1d ago
+Fortune • 2d ago
 
 ---
 
@@ -191,7 +177,23 @@ Fortune • 1d ago
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-ABC News • 5h ago
+ABC News • 6h ago
+
+---
+
+**[Meta acquiring AI wearable company Limitless](https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html)**
+
+Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
+
+CNBC • 20h ago
+
+---
+
+**[Meta buys AI pendant start-up Limitless to expand hardware push](https://www.ft.com/content/a1a7adab-506e-4623-8f7a-0b7c94c8d6b4)**
+
+Deal indicates Zuckerberg is exploring other types of artificial intelligence-powered devices beyond smart glasses
+
+Financial Times • 18h ago
 
 ---
 
@@ -219,7 +221,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 689 • 💬 652 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 689 • 💬 653 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -227,7 +229,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 498 • 💬 255 • 23h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 501 • 💬 257 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -243,7 +245,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 342 • 💬 198 • 14h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 346 • 💬 199 • 14h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -251,7 +253,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 247 • 💬 203 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 248 • 💬 203 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -267,7 +269,7 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 
 Welcome to the slop era.
 
-⬆️ 95 • 💬 171 • 22h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
+⬆️ 96 • 💬 172 • 22h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 
 ---
 
@@ -339,7 +341,7 @@ Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous vide
 
 📺 VisualEconomik EN
 
-👁️ 92K • 👍 3K • 💬 308 • ⏱️ 15:46 • 2d ago
+👁️ 92K • 👍 3K • 💬 308 • ⏱️ 15:46 • 3d ago
 
 ---
 
@@ -359,7 +361,7 @@ Giraffe waters pumpkin plant #ai #women #old man #orange #Pumpkin #aistory #aivi
 
 📺 Ai story 3.0
 
-👁️ 3K • 👍 79 • 💬 8 • ⏱️ 1:03 • 2h ago
+👁️ 3K • 👍 79 • 💬 8 • ⏱️ 1:03 • 3h ago
 
 ---
 
@@ -369,7 +371,7 @@ Grandmother rescues the Girl and builds Gold water slide for her #ai #water #sav
 
 📺 Ai Animated Dream 
 
-👁️ 19K • 👍 169 • ⏱️ 0:22 • 5h ago
+👁️ 19K • 👍 169 • ⏱️ 0:22 • 6h ago
 
 ---
 
@@ -395,7 +397,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,175 • 4d ago
+⬇️ 169,515 • ❤️ 2,177 • 4d ago
 
 ---
 
@@ -709,7 +711,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 806 • 🔱 22 • 1h ago
+⭐ 806 • 🔱 22 • 2h ago
 
 ---
 
@@ -739,7 +741,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 640 • 🔱 215 • 8h ago
+⭐ 640 • 🔱 215 • 9h ago
 
 ---
 
