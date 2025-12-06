@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T19:44:09.980107+00:00'
+updated: '2025-12-06T19:55:17.213417+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 19:44 UTC  
+**Last Updated:** December 06, 2025 at 19:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 … and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
 
-3h ago
+4h ago
 
 ---
 
@@ -81,7 +81,7 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 13h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 14h ago
 
 ---
 
@@ -91,7 +91,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 #AI” Over The Past 10 Years - Factset
 https://lnkd.in/eSSM_TYR
 
-🔗 [linkedin.com](https://www.linkedin.com/posts/christophe-barraud-68870620_ai-activity-7403103677776883713-pP17?utm_medium%3Dios_app%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4%26utm_source%3Dsocial_share_send%26utm_campaign%3Dshare_via) • 52m ago
+🔗 [linkedin.com](https://www.linkedin.com/posts/christophe-barraud-68870620_ai-activity-7403103677776883713-pP17?utm_medium%3Dios_app%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4%26utm_source%3Dsocial_share_send%26utm_campaign%3Dshare_via) • 1h ago
 
 ---
 
@@ -698,7 +698,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 824 • 🔱 43 • 13h ago
+⭐ 824 • 🔱 43 • 14h ago
 
 ---
 

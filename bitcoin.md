@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T19:44:09.988416+00:00'
+updated: '2025-12-06T19:55:17.221899+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 19:44 UTC  
+**Last Updated:** December 06, 2025 at 19:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -1.1%  
-**30d:** -13.6%  
-**90d:** -20.0%  
-**1y:** -10.3%  
+**24h:** -0.1%  
+**7d:** -1.5%  
+**30d:** -13.9%  
+**90d:** -20.3%  
+**1y:** -10.6%  
 
 ---
 
@@ -125,7 +125,7 @@ I'm sure you have all heard this a million times before but this is my story. In
 
 **[They are always not ready](https://www.reddit.com/r/Bitcoin/comments/1pfvd6m/they_are_always_not_ready/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -139,7 +139,7 @@ I'm sure you have all heard this a million times before but this is my story. In
 
 I have never purchased any cryptocurrency; I am more of a stock market person, just wanted to ask the community what your thoughts are on this theory, given that it is a highly speculative asset. The thing is, the other day I did some analysis and, looking at the second image, during the 12 months leading up to the midterms, there is usually a drawdown in the S&P 500, followed by a recovery. Edit: the table was published by Longview Economics on November 28, 2025. In 2026, it seems that both things will coincide (the run-up to the midterms and the $BTC 4-year cycle theory), hence my curiosity.
 
-21h ago
+22h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 1d ago
 
 “It’s clearly run by the syndicate."
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -383,7 +383,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Crypto Cam
 
-👁️ 21K • 👍 778 • 💬 117 • ⏱️ 0:36 • 18h ago
+👁️ 21K • 👍 778 • 💬 117 • ⏱️ 0:36 • 19h ago
 
 ---
 
