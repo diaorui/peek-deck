@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin Is Starting to Look Like a Digital Tulip",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ2RTbzYzeFJtNU4wM0xOUkdGU3BSMFVoQnhCRmIzMHRRLXFZVnd5cWdBWEhfckNEYW9fYnczMkxBaF93dmJCQ3hwbW1mRHdRRDlHbFNLRFFvS1JNNEZrcXNxbGowQ0hXamZldTVOQWExVEdxNXBvclBSMElLbkE3a3FMck0wb25IbW9aVzlhZ1hRZW9ETFhnVVpLTS16U1hnX2dMYjRYaU8zZ0pUTnJ2blprOA?oc=5",
+      "pub_date": 1765002600.0,
+      "article_url": "https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIOW_wvRENWw/v1/1200x791.jpg",
+      "description": "It\u2019s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold."
+    },
+    {
       "headline": "ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
@@ -45,14 +55,14 @@
       "description": "A rule change could force Saylor's company to sell some of its $650 billion holdings\u2014but crypto veterans say Strategy will be just fine."
     },
     {
-      "headline": "Bitcoin Is Starting to Look Like a Digital Tulip",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ2RTbzYzeFJtNU4wM0xOUkdGU3BSMFVoQnhCRmIzMHRRLXFZVnd5cWdBWEhfckNEYW9fYnczMkxBaF93dmJCQ3hwbW1mRHdRRDlHbFNLRFFvS1JNNEZrcXNxbGowQ0hXamZldTVOQWExVEdxNXBvclBSMElLbkE3a3FMck0wb25IbW9aVzlhZ1hRZW9ETFhnVVpLTS16U1hnX2dMYjRYaU8zZ0pUTnJ2blprOA?oc=5",
-      "pub_date": 1765002600.0,
-      "article_url": "https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIOW_wvRENWw/v1/1200x791.jpg",
-      "description": "It\u2019s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold."
+      "headline": "Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?",
+      "source": "Barron's",
+      "source_url": "https://www.barrons.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOSWN4TU5FSm13d2hJdG9yQVJ6S212aXBnb2ZSWWZxb3FsWC1KQVo2QUtKZ3NQd2RQTjFWY3pLUk5OWTlPalBVOW9Oc25yOWhUQXNMUGR2Q0tBQ0hlRW9IX200N2RGVF9IYmVpUklyUkVQUnphUFRWUFREVHVONU9NVnhWbjhMOXZYRk92bjNsRjJaeTFOV01KOWJVYjZ1YlR5b3lJeF85aUtoN1lJQVhZSVJKeVNJNXdLX3FHS0Z0YzNwTHhVckRMVnB4Z00tSmtReEsxVVkyZC1ranh4cV9tOUU1RHRRYVQ3Y3pQY0ZhOU92eE5YUGtVZHdtM3U5Tlg3WWI0SG5OQVM3RTIwYmV1VnVHMG1vdXNsanN4U3MzRDhGS3ZFNjJya0ZqYWY3ZkIzMUhOUkFZWm5oNG45QmlZa1FPdHV1WEswWDhaZXNqUWszam5WR2lUekNoaE53c19LVGxhd2tkRzBuUEZ2enZraHR3MWU5Vm80Q0E?oc=5",
+      "pub_date": 1764770640.0,
+      "article_url": "https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqf9uCtVo9kEsVwtR82NCJ63L-eGkRTJHJ7L5f1z-urfrA-ipML67j97&gaa_ts=6933eff8&gaa_sig=-sWTT3g3nTppf1feexEBwv49o3EiAVEjWvH5pwEiXVULCNGUefa63Q-Ny4e4n1RvWtPNE0diLwZBvhYTm4Ii8Q%3D%3D",
+      "image": null,
+      "description": null
     },
     {
       "headline": "Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million\u2014While Stocks Rise",
@@ -75,36 +85,26 @@
       "description": "In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger."
     },
     {
-      "headline": "Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?",
-      "source": "Barron's",
-      "source_url": "https://www.barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQdGdlQ2t0ZHQ0cUdWLVc1UHlOUUpfTTF5U0x4dXF0eDVyamVDbGthemJnTnE5VDdGMkQ4bi1yZXdVRHZVNTE3OHlqWVdBUkh5VXF4Q254N00xOGc1d284NUlmbHJBSjNSOFZnTHZDS01BSXQ5VUtDd3NPWFFQQnVYTXpIUG5DZ2t4WHJKRDJHVkp2Z1hXQW9fVHI1WkdBOGNlZzMwT2puTDUzV25BYkdwdWpXcFQ2MVB1WUJlWnhXdkpDZnhHdDRLMllkOEZrRUJSd2tPRVVSTFBzNDg1R3FZWE5Ebnp0ZDdfUXQ3ZEdSdTl4bVZ6RUtMUDVNOFdDZjVwMGg3NlFvdm1rTlpQV1c5bENlY19oT01xS3NkNkhsSmVNVi1XbUlqaHNrUGYyTUNjVThONEs0RXdRX2owcTZiblhocFdkZXVVcUE1OG1vX0QtLVRXQzJWV0hZWno4Z0YwN013dXVxdldsX1lubUY4SUFhNGRhcFZ0TlE?oc=5",
-      "pub_date": 1764770640.0,
-      "article_url": "https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqeZUIWAOLae8OmxIDIZq7xGcAigrf421uESU20gPWWL_jJlsfJq0EPS&gaa_ts=6933e44b&gaa_sig=JT9xeuzCSdxeXjio1zTGCUzfFOQ_U8bp4PX0YtIxi0QIALmUd5QbLUi8Q-p9AUpAp1L9GpiM_TdmM3WyHAbaNg%3D%3D",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "With bitcoin down to around $92,000, should you rethink how much crypto to own? Here\u2019s what experts say.",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxORTBHMHpoNHRvdnRmY3FTRWRBOHFTWmZrTC03LVppVjBqN2x0ak9OZHNqRGdfX2xUNmk3blVyeFg4RDdyb3p2NHp2QUNPY2d1M01ybHRGeWN1MTJtbHV1ckppSVlfdl9pV01lbEV5ZnFvUW05dFZ4dW5KUVRrc0dReENUQi1qZWZSNnpWYVJWT1FFdlVfVmtXVFp3SkxNOFg2ZDBjbFFWNjNzZHFXWkFwLUZ0LTRaMnFQdENKNUU2aEtuUHFDVENtUWZqcUwtOVR5V2c0U3R2WHJEdldYWUhCN1I2TEU2eUs4OFRSbmpnSjZlVVdnamEwRWZkZXNwcWEyakVmYUlBSWhnUXc2U0pRTmZQdWhVRHM0TlhhNXNoTHoyeGRNTjVRalRwSk9YOUZKSDVDNFRzanZvR1cwdWxRRGp0S2FfTm9ZdFp2OEVsMTA3ZXljZFk5LVFHcEZ4WGs5WjMwSVlPVHVEQ3VVQk5vTWpNYXJ0SVZyWWp5bDlmek1mR1oyb0RDOUlqSjAxNEV1bkpVMXZzRlB3dlhDM1EzZVpvUmw0VFpEMVJIa2FFalM3VUlFbUI3Zk1YT05yMGQ1bGEyVDFpVVRKSFEyYklFaUJLTzlrdHlNNjhZcEVySQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxPaEdVSFNEdTlkbjFEbkdHOEFEQVV4eF83dUJpaFY3Z2lZd3h4V3RIUHdtYU4yRDkyMXJDRXIwOXJvR0UxbUh2VE1kTnVvOS15a09LS0xNekZjMGdiYlk5VVZqeG55ME1QUF8wM0k1aVg2aHh6VHI5RjNMcDl0VFhqM0dpbWtOb1Y4TVNkZDBzeUhXQW9Ud2F5VElaeHRqUHRZNEMyVGdGZEdmeUVCYWlyeWpIU3N0VGFpSVlWTTBzaEIxaGdtaFdJbEZ4NmgwNUtnVUVDTVBBZU41SjFJZmRRc1BCb1JkWHB6TEMwZWhxbjJ6Y3M2VjZubzhJT010dmlPMjBrOE9tdDVWSldrdWNoTW1rcGtlTkRTN2ZIaHFmeDR1bGpfNlJobExzUWM4d3REVWNsY2EtUmhqbVg0blR1czc4QjVSNnVsVnRiNFpvSTNob3hVZ3JfT3drdUI4c0Y2U04tOWdOR1FoVlh0QXdQTnNyRjlLekRnaGZSTWM3emdkQnQ4VlB0SnZmN0RncVBoMWI1YTlIWTF1aXFtZ1pMZkliRVRxOUx6UTJQOUQtRVdINGNjMlptMzFzdE5zTUJNM1pyd1RBaFpnTW9BREM0M0gyQ3FnOWRiTFZCcXlnMA?oc=5",
       "pub_date": 1764880980.0,
-      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqcIaAxdQZG3l-qBBYfjYV2ropmr9xGKlyUXekZ3w7kvuvpr-hr242jw&gaa_ts=6933e44b&gaa_sig=q_9m1P9ASb6hdojvCxNSkGvDKGBBkrGKTvITx2AjT0uP4lUVuj20GT_b-Qu0aRGDT_2AIL5_hZCbTd6ch0o9ug%3D%3D",
+      "article_url": "https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqest7JB11Vx-vHNYohXDYZeo3pn01xN-qgn0ukbqN_RY-dcxUx1mI1t&gaa_ts=6933eff8&gaa_sig=Pu2T9CAbuuykUA2fRLy89VkcJWAGCU2V-vae8SzqhBmiUdXOgai6M12e6OdoZGE7EFidft3W_cxqdQMxO1FIYA%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "Those Sky-High Bitcoin Prices Everyone Said Were Here to Stay? They Left.",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLV80ZjAtYy1HdlV4aVRkWXk0Rk0tOWtSM3JGNHpOVThqZEZpMGR3ZUMzR2xXVExaVXlZQnpoRE9LU0ZkT1F2WXlVbDBTbzdka1p0cW91RlRSWjBGRkpPWkY2dmVrV3NRTUdCZG9XR1dFZldZWVFlVmt3d3MyS01VTzFWUnJIb2RJWlpKclFOaw?oc=5",
-      "pub_date": 1764756144.0,
-      "article_url": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
+      "headline": "Harvard\u2019s Big Wager on Bitcoin Came Right Before the Bust",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOaWtVYjdtTjlYY0dDSHpDVElGc25wb2pXaHJHYXVxMVhEY1A3Y2dQVm9oUjMtVkExN1pzVFlYMG5BMThPUkhsWU4wWGMyUkpEbnRFS29MU3JSWjN0bDVNZG1BZVQ1NENsYXdlcHRTNzJuSU02QzVjbXpDYW1PajhwQ054cGw1Z0RPeWZVNHhjcGhHalhhYnUtb05oNUFFTnJwSmNMRmk5eVVMS3dCQmZkVWNkSHNkVWp1U2RVTi1ETUVOZEN1REk4dUpfaTJxU05nY29NUEJKbWxPSFRQYW8tcHFDRDFTMnZ2Yy1Gc3UyZE9TSEUtaWRTamRXeXR1enpmOWdlRVRCckotWGRjR21vSkhlV3BfOXBzbmtXMWJMY29XNkxHcWRXR1VTTk9GbWVfMm9qVXY5aHRobkUzWUZwcXdtZ0ZLOUdXZ0xqUWRpTzJmUmNrdU1sR2dMYmQ1RzlRYWxCUlp6dmZjLXdZYjd3aEJYZGRLeDdIRjVuakFObmR1bmE1VTRxTUJ6RUlnZHFXRGNSUURHbU85a2F4MC1yc3dZSXdsVG94SkNr?oc=5",
+      "pub_date": 1764716700.0,
+      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqfPMmmqf4rxLtyvvLO9dKfd5H3iY3hGP2Ev8EbtQ1UZotgmIXBM39VB&gaa_ts=6933eff8&gaa_sig=3lMidQqcaVvwtbe2Febg4gUyx5_y9MyE8EHtyKK_zMqMXtsbS52xdnNIEFLKhB5ZNEZ1gigxzDacoeV5FxxpRg%3D%3D",
       "image": null,
       "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-06T07:53:05.237926+00:00"
+  "fetched_at": "2025-12-06T08:42:55.772668+00:00"
 }
