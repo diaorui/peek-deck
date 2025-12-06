@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T18:58:36.410632+00:00'
+updated: '2025-12-06T19:21:14.647545+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 18:58 UTC  
+**Last Updated:** December 06, 2025 at 19:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,632.51
+### $89,443.13
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
-**7d:** -0.8%  
-**30d:** -13.4%  
-**90d:** -19.8%  
-**1y:** -10.1%  
+**24h:** +0.3%  
+**7d:** -1.0%  
+**30d:** -13.5%  
+**90d:** -19.9%  
+**1y:** -10.2%  
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s simple and beginner-friendly but I moved to Value Averaging this cycle, and the results have been way better. Most people know DCA because it’s simple: buy the same amount every week.But when you’re trying to get better prices and make the market’s volatility work for you, Value Averaging is a much stronger method. Let me show you exactly how it played out using real BTC price action from 2024–2025. Rule I Followed Every 15% drop in BTC : Buy. First Buy = $1,000 Second Buy = $2,000 Third Buy = 3000$ Continues..... BTC gave three clean 30% corrections this cycle, so this rule activated six times. Drawdown 1 — March 2024 (-30%) BTC dropped twice by 15%, so we can bought: $1,000 ( Buy 01 ) $2,000 ( Buy 02 ) Later, when BTC reached what I marked as “Top 3,” these were the gains: $1,000 → +95% = +$950 $2,000 → +131% = +$2,620 Total = $3,570 profit Drawdown 2 — December 2024 (-30%) Same plan again: $1,000 ( Buy 03 ) $2000 ( Buy 04 ) During the recovery toward Top 3, three positions were still showing: +$950 ( Buy 01 ) +$2620 ( Buy 02 ) +$330 ( Buy 03 ) +$1140 ( Buy 04 ) Total = $5,040 profit Current Drawdown — 2025 July–Oct (-30%) This is where we are right now. Two more buys triggered: Buy 05: $1,000 → currently –14% Buy 06: $2,000 → currently breakeven These are fresh buys, so it’s totally normal that they haven’t recovered yet. Total Structure 6 total buys – 3 × $1,000 – 3 × $2,000 Total invested = $9,000 Right now, even though BTC is still in a ~30% decline: Three positions remain in profit ($420 + $1,300 + $260) One is slightly negative (–$140) Two are at breakeven Overall: still profitable during a drawdown. Why This Beats DCA for Me DCA buys at every price expensive, cheap, doesn’t matter. Value Averaging waits for discounts. You buy more when BTC is cheaper Your average cost drops fast Strong assets recover and reward the early buys Drawdowns become opportunities instead of pain Your risk is distributed intelligently no guessing bottoms. no chasing tops.Just reacting to 15% dips the same way, every time. This is the whole point:
 
-5h ago
+6h ago
 
 ---
 
@@ -111,7 +111,7 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 **[OK, I get the pattern now.](https://www.reddit.com/r/Bitcoin/comments/1pfot4f/ok_i_get_the_pattern_now/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 1d ago
 
 Please provide the article text so I can generate an SEO-friendly meta description for you.
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -301,7 +301,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 17K • 👍 1K • 💬 65 • ⏱️ 48:57 • 4h ago
+👁️ 17K • 👍 1K • 💬 65 • ⏱️ 48:57 • 5h ago
 
 ---
 
@@ -331,7 +331,7 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bit
 
 📺 CNBC Television
 
-👁️ 12K • 👍 108 • 💬 153 • ⏱️ 4:01 • 22h ago
+👁️ 12K • 👍 108 • 💬 153 • ⏱️ 4:01 • 23h ago
 
 ---
 

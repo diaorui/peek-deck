@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T18:58:36.402190+00:00'
+updated: '2025-12-06T19:21:14.639220+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - repositories
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 18:58 UTC  
+**Last Updated:** December 06, 2025 at 19:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 8h ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 9h ago
 
 ---
 
@@ -49,7 +49,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 4h ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 5h ago
 
 ---
 
@@ -91,7 +91,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 #AI” Over The Past 10 Years - Factset
 https://lnkd.in/eSSM_TYR
 
-🔗 [linkedin.com](https://www.linkedin.com/posts/christophe-barraud-68870620_ai-activity-7403103677776883713-pP17?utm_medium%3Dios_app%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4%26utm_source%3Dsocial_share_send%26utm_campaign%3Dshare_via) • 6m ago
+🔗 [linkedin.com](https://www.linkedin.com/posts/christophe-barraud-68870620_ai-activity-7403103677776883713-pP17?utm_medium%3Dios_app%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4%26utm_source%3Dsocial_share_send%26utm_campaign%3Dshare_via) • 29m ago
 
 ---
 
@@ -99,7 +99,7 @@ https://lnkd.in/eSSM_TYR
 
 Hey all, amidst all the downsides of AI this past year - be it environmental worries, slop in music and art, AI enshittification, GPU/RAM prices increasing - I wanted to discuss about what's how WE are using AI, among a general look at changes on a larger scale. Personally, it feels like I haven't really felt a huge difference within the stuff I use which is just the basic stuff like GPT / Gemini. However, one change for me was that I've been using it for language learning which I've felt has been quite useful. On a general level, I feel like I've been seeing some practical applications that improved considerably this year compared to last years. An example I've seen recently is in health, where AI imaging can catch breast cancer way earlier and with higher accuracy. Another is in programming, where it feels like there's a huge rise in "Vibes Coding" with even sites like Bolt/v0. Now I'm not gonna pretend like I know how any of these work, but I do think it's interesting how there's a practical use for AI in these fields now. What about for you guys? Has AI gotten better or worse this year, and where did you actually feel the difference?
 
-3h ago
+4h ago
 
 ---
 
@@ -127,13 +127,13 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
 **[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqePXA7YGWF83_ouoo1sXUeuj7Qe8aPCMQC17WGvX9cuoQqy3B0ix4bq&gaa_ts=69348047&gaa_sig=xIxTHRTEJ867eDJkfOaakgv9O6OzkxRhMe57L7xqLEOzgNEpH03k-yd-oe8yxNQ2UXAqh5ELvR6DxhtfQ21EEg%3D%3D)**
 
-The Wall Street Journal • 1h ago
+The Wall Street Journal • 2h ago
 
 ---
 
@@ -141,13 +141,13 @@ The Wall Street Journal • 1h ago
 
 Amanda Askell, a member of Anthropic's technical team and a trained philosopher, shared some pro-tips for getting the most of AI chatbots.
 
-Business Insider • 16m ago
+Business Insider • 39m ago
 
 ---
 
 **[AI goes from tool to teammate: Amazon Web Services SVP Colleen Aubrey on the dawn of agentic work](https://www.geekwire.com/2025/ai-goes-from-tool-to-teammate-amazon-web-services-svp-colleen-aubrey-on-the-dawn-of-agentic-work/)**
 
-GeekWire • 35m ago
+GeekWire • 57m ago
 
 ---
 
@@ -155,7 +155,7 @@ GeekWire • 35m ago
 
 China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
 
-Fortune • 45m ago
+Fortune • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Keyword • 1d ago
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-ABC News • 8h ago
+ABC News • 9h ago
 
 ---
 
@@ -185,7 +185,7 @@ ABC News • 8h ago
 
 Today’s leading AI models can already write and refine their own software. The question is whether that self-improvement can ever snowball into true superintelligence
 
-Scientific American • 6h ago
+Scientific American • 7h ago
 
 ---
 
@@ -237,7 +237,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 360 • 💬 206 • 17h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 360 • 💬 206 • 18h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -321,7 +321,7 @@ The race to unlock the secret to a longer life is on - and two sisters from a Ca
 
 📺 BBC News
 
-👁️ 13K • 👍 430 • 💬 182 • ⏱️ 8:08 • 9h ago
+👁️ 13K • 👍 430 • 💬 182 • ⏱️ 8:08 • 10h ago
 
 ---
 
@@ -708,7 +708,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 810 • 🔱 22 • 4h ago
+⭐ 810 • 🔱 22 • 5h ago
 
 ---
 
@@ -738,7 +738,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 656 • 🔱 218 • 11h ago
+⭐ 656 • 🔱 218 • 12h ago
 
 ---
 
