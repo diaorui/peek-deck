@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T20:50:24.575100+00:00'
+updated: '2025-12-06T21:08:06.332487+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 20:50 UTC  
+**Last Updated:** December 06, 2025 at 21:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
-9h ago
+10h ago
 
 ---
 
@@ -50,21 +50,21 @@ Zhongqing CEO Receives the Challenge of T800
 
 **[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
 
-3h ago
-
----
-
-**[A Deep Dive into Actuators for Humanoid Robotics](https://www.reddit.com/r/robotics/comments/1pfxwqs/a_deep_dive_into_actuators_for_humanoid_robotics/)**
-
-https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
-
-1h ago
+4h ago
 
 ---
 
 **[autonomous navigation system.](https://www.reddit.com/r/robotics/comments/1pfxa2m/autonomous_navigation_system/)**
 
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
+
+1h ago
+
+---
+
+**[A Deep Dive into Actuators for Humanoid Robotics](https://www.reddit.com/r/robotics/comments/1pfxwqs/a_deep_dive_into_actuators_for_humanoid_robotics/)**
+
+https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
 1h ago
 
@@ -88,7 +88,7 @@ Meet Octoid, the squishy robot that changes from blue to green to red.
 
 I’m an elementary school special education teacher and I’ll be coaching an after school robotics club for our 4th and 5th grade students after the new year. Whoever wants to sign up. I’ve never 1) done an after school club or 2) done anything with robotics or coding. My district is providing a day of training for it once we get back from winter break. But I’m asking you all for any tips, tricks, or suggestions! Thank you!
 
-45m ago
+1h ago
 
 ---
 
@@ -112,11 +112,11 @@ Im working on an electric knee assist exoskeleton and i have a 450 rpm 24V 15kg*
 
 ## Google News: "robotics"
 
-**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://www.barchart.com/story/news/36461441/3-robotics-stocks-to-buy-now-ahead-of-a-white-house-game-changer)**
+**[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
 
-The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
+Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
 
-Barchart.com • 2d ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -130,7 +130,7 @@ MIT News • 1d ago
 
 **[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
 
-Investor's Business Daily • 1d ago
+Investor's Business Daily • 2d ago
 
 ---
 
@@ -154,7 +154,7 @@ MLive.com • 2d ago
 
 USPS Boise facility gets four robotic arms to help process 220,000 packages daily during holiday rush, allowing redeployment of workers to areas needing human touch.
 
-KTVB • 14h ago
+KTVB • 15h ago
 
 ---
 
@@ -166,14 +166,6 @@ CNN • 3d ago
 
 ---
 
-**[Olympus-backed robotics startup Swan EndoSurgical taps Stryker vet for CEO](https://www.fiercebiotech.com/medtech/olympus-backed-swan-endosurgical-names-stryker-vet-erik-todd-ceo)**
-
-Swan EndoSurgical, a gastrointestinal startup launched by Olympus and Revival Healthcare Capital earlier this year, has named former Stryker executive Erik Todd as its CEO. | Swan EndoSurgical, formed by Olympus and Revival Healthcare Capital this year, named former Stryker executive Erik Todd as CEO.
-
-Fierce Biotech • 3d ago
-
----
-
 **[Melonee Wise to lead KUKA’s new software and AI organization](https://www.therobotreport.com/melonee-wise-leads-kuka-new-software-ai-organization/)**
 
 Wise is building a team of experts in Silicon Valley to unify KUKA's software systems and apply AI to more robots.
@@ -182,9 +174,19 @@ The Robot Report • 1d ago
 
 ---
 
-**[Classical Indian dance inspires new ways to teach robots how to use their hands](https://techxplore.com/news/2025-12-classical-indian-ways-robots.html)**
+**[Olympus-backed robotics startup Swan EndoSurgical taps Stryker vet for CEO](https://www.fiercebiotech.com/medtech/olympus-backed-swan-endosurgical-names-stryker-vet-erik-todd-ceo)**
 
-Tech Xplore • 2d ago
+Swan EndoSurgical, a gastrointestinal startup launched by Olympus and Revival Healthcare Capital earlier this year, has named former Stryker executive Erik Todd as its CEO. | Swan EndoSurgical, formed by Olympus and Revival Healthcare Capital this year, named former Stryker executive Erik Todd as CEO.
+
+Fierce Biotech • 3d ago
+
+---
+
+**[One-armed robot uses generative AI to unload 1,500 boxes an hour in extreme heat](https://interestingengineering.com/ai-robotics/pickle-robot-mit-ai-truck-unloading-automation)**
+
+MIT-backed Pickle Robot Company debuts AI-powered systems that autonomously unload trucks and ease one of logistics’ toughest jobs.
+
+Interesting Engineering • 22h ago
 
 ---
 
@@ -198,7 +200,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 2K • 👍 54 • 💬 12 • ⏱️ 1:03 • 4h ago
+👁️ 2K • 👍 54 • 💬 12 • ⏱️ 1:03 • 5h ago
 
 ---
 

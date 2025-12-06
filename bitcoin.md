@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T20:50:24.565807+00:00'
+updated: '2025-12-06T21:08:06.323340+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 20:50 UTC  
+**Last Updated:** December 06, 2025 at 21:08 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,560.46
+### $89,576.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -1.1%  
-**30d:** -13.6%  
-**90d:** -19.9%  
-**1y:** -10.3%  
+**24h:** +0.4%  
+**7d:** -1.3%  
+**30d:** -13.8%  
+**90d:** -20.1%  
+**1y:** -10.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1783.62B
+**Market Cap:** $1788.19B
 Rank #1
 
-**Circulating Supply:** 19,958,459 BTC
+**Circulating Supply:** 19,958,481 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-28.9%
 
 **All-Time Low:** $67.81
-+131824.5%
++132028.0%
 
 ---
 
@@ -89,17 +89,11 @@ Rank #1
 
 ---
 
-**[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
-
-12h ago
-
----
-
 **[I Use Value Averaging Instead of DCA - Here’s Why It Works Better](https://www.reddit.com/r/Bitcoin/comments/1pfovap/i_use_value_averaging_instead_of_dca_heres_why_it/)**
 
 You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s simple and beginner-friendly but I moved to Value Averaging this cycle, and the results have been way better. Most people know DCA because it’s simple: buy the same amount every week.But when you’re trying to get better prices and make the market’s volatility work for you, Value Averaging is a much stronger method. Let me show you exactly how it played out using real BTC price action from 2024–2025. Rule I Followed Every 15% drop in BTC : Buy. First Buy = $1,000 Second Buy = $2,000 Third Buy = 3000$ Continues..... BTC gave three clean 30% corrections this cycle, so this rule activated six times. Drawdown 1 — March 2024 (-30%) BTC dropped twice by 15%, so we can bought: $1,000 ( Buy 01 ) $2,000 ( Buy 02 ) Later, when BTC reached what I marked as “Top 3,” these were the gains: $1,000 → +95% = +$950 $2,000 → +131% = +$2,620 Total = $3,570 profit Drawdown 2 — December 2024 (-30%) Same plan again: $1,000 ( Buy 03 ) $2000 ( Buy 04 ) During the recovery toward Top 3, three positions were still showing: +$950 ( Buy 01 ) +$2620 ( Buy 02 ) +$330 ( Buy 03 ) +$1140 ( Buy 04 ) Total = $5,040 profit Current Drawdown — 2025 July–Oct (-30%) This is where we are right now. Two more buys triggered: Buy 05: $1,000 → currently –14% Buy 06: $2,000 → currently breakeven These are fresh buys, so it’s totally normal that they haven’t recovered yet. Total Structure 6 total buys – 3 × $1,000 – 3 × $2,000 Total invested = $9,000 Right now, even though BTC is still in a ~30% decline: Three positions remain in profit ($420 + $1,300 + $260) One is slightly negative (–$140) Two are at breakeven Overall: still profitable during a drawdown. Why This Beats DCA for Me DCA buys at every price expensive, cheap, doesn’t matter. Value Averaging waits for discounts. You buy more when BTC is cheaper Your average cost drops fast Strong assets recover and reward the early buys Drawdowns become opportunities instead of pain Your risk is distributed intelligently no guessing bottoms. no chasing tops.Just reacting to 15% dips the same way, every time. This is the whole point:
 
-7h ago
+8h ago
 
 ---
 
@@ -109,9 +103,23 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 ---
 
+**[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
+
+12h ago
+
+---
+
+**[Mega-rare Simpsons pattern emerging...](https://www.reddit.com/r/Bitcoin/comments/1pfzi8q/megarare_simpsons_pattern_emerging/)**
+
+Burnsish?
+
+23m ago
+
+---
+
 **[They are always not ready](https://www.reddit.com/r/Bitcoin/comments/1pfvd6m/they_are_always_not_ready/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -125,19 +133,13 @@ I'm sure you have all heard this a million times before but this is my story. In
 
 **[OK, I get the pattern now.](https://www.reddit.com/r/Bitcoin/comments/1pfot4f/ok_i_get_the_pattern_now/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
 1d ago
-
----
-
-**[Let bitcoin fix this 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1pfsdtp/let_bitcoin_fix_this/)**
-
-5h ago
 
 ---
 
@@ -173,9 +175,9 @@ CNBC • 2d ago
 
 ---
 
-**[Bitcoin Is Set for First Yearly Split From Stocks in Decade](https://finance.yahoo.com/news/bitcoin-set-first-yearly-split-141041017.html)**
+**[Bitcoin mining stocks MARA, CleanSpark rise as network difficulty eases](https://finance.yahoo.com/news/bitcoin-mining-stocks-mara-cleanspark-162439390.html)**
 
-The digital asset has rarely deviated so cleanly from other risk assets even during past crypto winters.  Earlier this year, Bitcoin notched a record high above $126,000.  Bitcoin appears to be ending the week on a down note, dropping as much as 4.4% to $88,135 on Friday.
+Publicly traded bitcoin miners saw a split in weekly returns, with some operators edging higher while others slipped, as the sector continued to absorb record-low hashprice levels driven by escalating…
 
 Yahoo Finance • 1d ago
 
@@ -189,14 +191,6 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Bitcoin mining stocks MARA, CleanSpark rise as network difficulty eases](https://finance.yahoo.com/news/bitcoin-mining-stocks-mara-cleanspark-162439390.html)**
-
-Publicly traded bitcoin miners saw a split in weekly returns, with some operators edging higher while others slipped, as the sector continued to absorb record-low hashprice levels driven by escalating…
-
-Yahoo Finance • 1d ago
-
----
-
 **[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://finance.yahoo.com/news/bitcoin-miners-run-stealing-1-174500657.html)**
 
 “It’s clearly run by the syndicate."
@@ -205,15 +199,25 @@ Yahoo Finance • 3h ago
 
 ---
 
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqdhJwwAtrjo39uk2BG2L_o9qgTtEm7ZoCzrOddoxgnjq94gwhIMKyus&gaa_ts=693493ce&gaa_sig=To8b4ss1mlQLmEDirIbSC7waoDYcXLPlmqp7JuwkIKjtGhf3HfsIAdRsdLEgNn5e7kxohMdfH3J6pJKiqTq9yA%3D%3D)**
+**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
+
+In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
+
+CNBC • 2d ago
+
+---
+
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeq8aLekGSWuSEkNEWqWbkWfI3V4gfx5HdCf8SjJ35_EWMNOgceSRqR&gaa_ts=69349ea3&gaa_sig=U6ZOIIiWpB_NCNzNF-6NgCAsQS48le3MBu-SXdZk5vt2nMmGH4Xw1xhhXho_046CxQ1hvNivXBzck9unin4EvA%3D%3D)**
 
 MarketWatch • 2d ago
 
 ---
 
-**[Popular Bitcoin company faces potential 10-year ban](https://www.thestreet.com/crypto/business/popular-bitcoin-company-faces-10-year-ban)**
+**[Is Bitcoin About to Break Its Last Surviving Valuation Model?](https://www.coindesk.com/markets/2025/12/05/how-much-longer-until-we-consider-the-bitcoin-power-law-model-invalid)**
 
-TheStreet • 2d ago
+As the gap between spot bitcoin price and the power law widens, investors are left questioning whether mean reversion is coming or if another cornerstone model is approaching its end.
+
+CoinDesk • 6h ago
 
 ---
 
@@ -309,7 +313,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 26K • 👍 2K • 💬 65 • ⏱️ 48:57 • 6h ago
+👁️ 26K • 👍 2K • 💬 65 • ⏱️ 48:57 • 7h ago
 
 ---
 
@@ -319,7 +323,7 @@ Bitcoin volatility is collapsing, institutions are flooding in, and the entire m
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 362 • 💬 59 • ⏱️ 40:36 • 3h ago
+👁️ 5K • 👍 362 • 💬 59 • ⏱️ 40:36 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T20:50:24.557325+00:00'
+updated: '2025-12-06T21:08:06.315017+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 20:50 UTC  
+**Last Updated:** December 06, 2025 at 21:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,23 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 14h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 15h ago
+
+---
+
+**[Could OpenAI’s financial future hinge on teens making deepfakes?](https://www.reddit.com/r/artificial/comments/1pg00rb/could_openais_financial_future_hinge_on_teens/)**
+
+If a new California ballot measure passes, it could block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO. To justify its massive valuation without Wall Street, OpenAI may lean even more heavily on engagement on its consumer-facing platforms, like Sora2. Instrumental and Ekō's recent research into how Sora2 enables harm shows why this could be a bad idea. For everybody.
+
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 1m ago
+
+---
+
+**[The Prompt I’ve Been Using to Stop Wasting My Workday](https://www.reddit.com/r/artificial/comments/1pfz7ol/the_prompt_ive_been_using_to_stop_wasting_my/)**
+
+Lately I’ve been trying to get my days under control because I kept doing that thing where you “work all day” but somehow… get nothing important done. 😅 I started using this daily planning prompt, and it’s actually helped me stop winging my schedule and start planning based on how much energy I actually have and what truly matters. Sharing it here in case it helps someone else: Help me plan my workday effectively. Today's date: [Date] Work hours available: [Start time - End time] Energy level today: [High/Medium/Low] Must-do tasks: [Task with deadline/importance] [Task with deadline/importance] [Task with deadline/importance] Should-do tasks: [Task] [Task] Nice-to-do tasks: [Task] [Task] Meetings/commitments: ● [Time]: [Meeting/commitment] ● [Time]: [Meeting/commitment] Context: ● My peak productivity time: [When you work best] ● Types of work I do: [Deep work, meetings, admin, creative, etc.] ● Current biggest project: [What's most important this week] Create an optimized schedule that: Time Block Schedule: [Hour by hour breakdown considering energy levels and task types] Task Sequence: Why this order makes sense (considering priority, energy, dependencies) Focus Strategies: ● Batching similar tasks ● Protecting deep work time ● Handling interruptions ● When to take breaks Evening Reflection Prompts: Questions to ask myself at end of day to improve tomorrow Make it: ● Realistic (includes buffer time) ● Energy-optimized (hard tasks when fresh) ● Flexible (can adjust if things shift) What it gives back A simple time-blocked schedule, the order to tackle tasks (with actual reasoning), focus strategies, and a few reflection questions so you don’t end the day wondering where your time went. It’s not “productivity guru” complicated, it just keeps you honest about your energy and priorities instead of cramming everything into the same to-do list. If you want more prompts like this, I’ve got a small prompt library, just let me know if you want it. 👍
+
+36m ago
 
 ---
 
@@ -89,7 +105,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 RAG failures often look mysterious: Relevant info appears missing, unrelated chunks show up, top-k results wobble week to week. Based on what we observed the real culprit is usually your metadata tags no longer describe the chunks you actually embedded. It usually is caused under below circumstances: Exporters change section structure Headings shift position Chunk boundaries drift after ingestion changes Metadata applied before segmentation Mixed historical snapshots in the same index When sections, headings, boundaries, metadata, index entries stop lining up, the entire retrieval layer becomes nondeterministic. Do you version your segmentation logic and metadata maps?
 
-47m ago
+1h ago
 
 ---
 
@@ -99,23 +115,7 @@ RAG failures often look mysterious: Relevant info appears missing, unrelated chu
 #AI” Over The Past 10 Years - Factset
 https://lnkd.in/eSSM_TYR
 
-🔗 [linkedin.com](https://www.linkedin.com/posts/christophe-barraud-68870620_ai-activity-7403103677776883713-pP17?utm_medium%3Dios_app%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4%26utm_source%3Dsocial_share_send%26utm_campaign%3Dshare_via) • 1h ago
-
----
-
-**[Looking back on the practical use of AI in 2025](https://www.reddit.com/r/artificial/comments/1pfr9jp/looking_back_on_the_practical_use_of_ai_in_2025/)**
-
-Hey all, amidst all the downsides of AI this past year - be it environmental worries, slop in music and art, AI enshittification, GPU/RAM prices increasing - I wanted to discuss about what's how WE are using AI, among a general look at changes on a larger scale. Personally, it feels like I haven't really felt a huge difference within the stuff I use which is just the basic stuff like GPT / Gemini. However, one change for me was that I've been using it for language learning which I've felt has been quite useful. On a general level, I feel like I've been seeing some practical applications that improved considerably this year compared to last years. An example I've seen recently is in health, where AI imaging can catch breast cancer way earlier and with higher accuracy. Another is in programming, where it feels like there's a huge rise in "Vibes Coding" with even sites like Bolt/v0. Now I'm not gonna pretend like I know how any of these work, but I do think it's interesting how there's a practical use for AI in these fields now. What about for you guys? Has AI gotten better or worse this year, and where did you actually feel the difference?
-
-5h ago
-
----
-
-**[AI and the Rise of Content Density Resolution](https://www.reddit.com/r/artificial/comments/1pfu0dl/ai_and_the_rise_of_content_density_resolution/)**
-
-AI is quietly changing the way we read. It’s not just helping us produce content—it’s sharpening our ability to sense the difference between writing that has real depth and writing that only performs depth on the surface. Many people are experiencing something like an upgrade in “content density resolution,” the ability to feel how many layers of reasoning, structure, and judgment are actually embedded in a piece of text. Before AI, we often mistook length for complexity or jargon for expertise because there was no clear baseline to compare against. Now, after encountering enough AI-generated text—with its smooth surfaces, single-layer logic, and predictable patterns—the contrast makes genuine density more visible than ever. As this contrast sharpens, reading in the AI era begins to feel like switching from 720p to 4K. Flat content is instantly recognizable. Shallow arguments reveal themselves within a few sentences. Emotional bait looks transparent instead of persuasive. At the same time, the rare instances of multi-layer reasoning, compressed insight, or non-linear structure stand out like a different species of writing. AI unintentionally trains our perception simply by presenting a vast quantity of material that shares the same low-density signature. The moment you notice that some writing “moves differently,” that it carries internal tension or layered judgment, your density resolution has already shifted. This leads to a future where the real competition in content isn’t about volume, speed, or aesthetics—it’s about layers. AI can generate endless text, but it cannot easily reproduce the structural depth of human reasoning. Even casual users now report that AI has made it easier to “see through” many posts, articles, or videos they used to find convincing. And if you can already explain—or at least feel—why certain writing hits harder, lasts longer in your mind, or seems structurally alive, it means your perception is evolving. AI may automate creation, but it is upgrading human discernment, and this perceptual shift may become one of the most significant side effects of the AI era.
-
-3h ago
+🔗 [linkedin.com](https://www.linkedin.com/posts/christophe-barraud-68870620_ai-activity-7403103677776883713-pP17?utm_medium%3Dios_app%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4%26utm_source%3Dsocial_share_send%26utm_campaign%3Dshare_via) • 2h ago
 
 ---
 
@@ -127,13 +127,21 @@ AI is quietly changing the way we read. It’s not just helping us produce conte
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqdyKXuN5ZjPXX8WvIxT1L9rYMmv9j34p-dVO7ogVnQ2BI_tce_X0hW-&gaa_ts=693493e5&gaa_sig=Cbbpg67WYsNtjUxKmWZKQSWv-xiJItcyKXQJRawjCN2jnFAe3e69liew3isWXe_k6n-lYf2nOSXDjAiclj0WXw%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqf9CXxPSlUxVvnp4vmwVGmMy1bVsrCfNUohBenIp1HzM2oayJHOV_1y&gaa_ts=69349ea1&gaa_sig=s9Csj4aPY_vYEFQVcDTF6hxGUX6K_RhghKKtjw0ir8WyKK5GZ0HWZClUTz8rZr-ZXzIFvMj8Krt-oxcmlFukUQ%3D%3D)**
 
 The Wall Street Journal • 3h ago
+
+---
+
+**[Western Digital (WDC): Reassessing Valuation After ESOP Offering, AI Storage Tailwinds, and Capital Return Moves](https://finance.yahoo.com/news/western-digital-wdc-reassessing-valuation-200723581.html)**
+
+Western Digital (WDC) just put a fresh spotlight on its stock by filing a roughly $1.11 billion shelf registration tied to an 8 million share ESOP offering, which blends potential dilution with stronger employee alignment. See our latest analysis for Western Digital. The ESOP filing lands on top of an already powerful move, with the share price at $168.89 after a 1 year to date share price return of about 173 percent and a 1 year total shareholder return above 215 percent. This suggests...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -141,7 +149,15 @@ The Wall Street Journal • 3h ago
 
 AI tools available right now can analyze your schedule, energy levels, past attempts and realistic constraints to build resolutions that actually fit your life.
 
-Forbes • 43m ago
+Forbes • 1h ago
+
+---
+
+**[Farmland owner says AI data center ‘better for community goals’ in Michigan town](https://www.mlive.com/news/ann-arbor/2025/12/farmland-owner-says-ai-data-center-better-for-community-goals-in-michigan-town.html)**
+
+Despite vocal opposition, the Van Gilder family says many silent supporters are "rooting for them behind the curtain" as Howell Township prepares for a crucial vote.
+
+MLive.com • 1h ago
 
 ---
 
@@ -159,9 +175,9 @@ The New York Times • 1d ago
 
 ---
 
-**[Gemini 3 Pro: the frontier of vision AI](https://blog.google/technology/developers/gemini-3-pro-vision/)**
+**[The latest AI news we announced in November](https://blog.google/technology/ai/google-ai-updates-november-2025/)**
 
-Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
+Here are Google’s latest AI updates from November 2025
 
 The Keyword • 1d ago
 
@@ -171,7 +187,7 @@ The Keyword • 1d ago
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-ABC News • 10h ago
+ABC News • 11h ago
 
 ---
 
@@ -179,23 +195,7 @@ ABC News • 10h ago
 
 Today’s leading AI models can already write and refine their own software. The question is whether that self-improvement can ever snowball into true superintelligence
 
-Scientific American • 8h ago
-
----
-
-**[The Strange Disappearance of an Anti-AI Activist](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/)**
-
-Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
-
-The Atlantic • 1d ago
-
----
-
-**[Jeep's AI-generated talking animals signify change in auto industry](https://www.freep.com/story/money/cars/chrysler/2025/12/06/jeep-ai-generated-marketing-campaign-ads/87217350007/)**
-
-Jeep is one of the first automakers to fully leverage AI image generation in its marketing materials.
-
-Detroit Free Press • 4h ago
+Scientific American • 9h ago
 
 ---
 
@@ -215,7 +215,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 528 • 💬 273 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 531 • 💬 273 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -231,7 +231,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 363 • 💬 209 • 19h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 369 • 💬 209 • 19h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -239,7 +239,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 248 • 💬 204 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 248 • 💬 204 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -255,7 +255,7 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 
 Welcome to the slop era.
 
-⬆️ 97 • 💬 178 • 1d ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
+⬆️ 97 • 💬 179 • 1d ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 
 ---
 
@@ -279,7 +279,7 @@ Rodents in northern Germany were spotted using two different hunting strategies 
 
 Wall Street lends billions to AI companies while using credit derivatives and sophisticated bonds to hedge against potential bubble risks.
 
-⬆️ 70 • 💬 85 • 1d ago • [Rolling Out](https://rollingout.com/2025/12/05/wall-street-protects-itself-ai-bubble/)
+⬆️ 71 • 💬 85 • 1d ago • [Rolling Out](https://rollingout.com/2025/12/05/wall-street-protects-itself-ai-bubble/)
 
 ---
 
@@ -293,7 +293,7 @@ The race to unlock the secret to a longer life is on - and two sisters from a Ca
 
 📺 BBC News
 
-👁️ 14K • 👍 465 • 💬 197 • ⏱️ 8:08 • 11h ago
+👁️ 14K • 👍 465 • 💬 197 • ⏱️ 8:08 • 12h ago
 
 ---
 
@@ -303,7 +303,7 @@ subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianB
 
 📺 yikes
 
-👁️ 50K • 👍 4K • 💬 759 • ⏱️ 21:06 • 4h ago
+👁️ 50K • 👍 4K • 💬 759 • ⏱️ 21:06 • 5h ago
 
 ---
 
@@ -399,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,185 • 4d ago
+⬇️ 169,515 • ❤️ 2,186 • 4d ago
 
 ---
 
@@ -423,7 +423,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 4,718 • ❤️ 520 • 5d ago
+⬇️ 4,718 • ❤️ 521 • 5d ago
 
 ---
 
@@ -435,7 +435,17 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 353 • 1d ago
+⬇️ 20,067 • ❤️ 355 • 1d ago
+
+---
+
+**[Z-Image-Turbo-Fun-Controlnet-Union](https://huggingface.co/alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union)**
+
+*Alibaba-PAI*
+
+Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
+
+⬇️ 0 • ❤️ 252 • 4d ago
 
 ---
 
@@ -447,17 +457,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,530 • ❤️ 347 • 4d ago
-
----
-
-**[Z-Image-Turbo-Fun-Controlnet-Union](https://huggingface.co/alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union)**
-
-*Alibaba-PAI*
-
-Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
-
-⬇️ 0 • ❤️ 252 • 4d ago
+⬇️ 2,530 • ❤️ 348 • 4d ago
 
 ---
 
@@ -742,7 +742,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 662 • 🔱 221 • 13h ago
+⭐ 662 • 🔱 221 • 14h ago
 
 ---
 
