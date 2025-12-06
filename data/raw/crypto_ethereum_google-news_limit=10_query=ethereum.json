@@ -9,7 +9,7 @@
       "source": "Decrypt",
       "source_url": "https://decrypt.co",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQXNzYVJTYkF4QTBzOWNHNHZrM0VXZ3d0d0lxakNBMGR1NHVHemlTZWRRS3FZUXB0T2JfN3NiMy1qeUN5OTBmcEtSTC11MHBJa3JTa0F0Z2JSVWpvMjNRcUdzUVhKRHlfWS0yS0d6NVU4alF1Z2dHamR0X1hCTjhxempsU1REalhDSDY3WXFKUXZoNWs1Z21v0gGfAUFVX3lxTFBTSnJnRDdodkZfdExCUTdRTW9WbzJBYVZoZGRKNFNpZ2R3dVJZYlFMMlFiYVk1Rmc4N18xTHQxLVNLMDdnMnJvZl9hU09OSU1lMHZIcmlNWlM2bnJxYmVwaDh3R0lFcExVX3RhdjZJdWJ0NlZGQWVmcDRLeHo0dmN3Ym1YTTRnd1lTX2JrY3ozaDdPVXFyenNxQi1FOGx4Yw?oc=5",
-      "pub_date": 1764957370.0,
+      "pub_date": 1764835200.0,
       "article_url": "https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise",
       "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
       "description": "Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000\u2014all while major stock indices stay green."
@@ -25,22 +25,22 @@
       "description": "Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ..."
     },
     {
-      "headline": "BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target",
-      "source": "TipRanks",
-      "source_url": "https://www.tipranks.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUUlPZVlTQ1pNLWsxdE5ETWt0N3lTQWZrZ2k0S0FWbDlDM3oyTTIyZFBkX2V6a3F6Nk1oYUhTR3J5NVgxRlhMS3lVWjN4dUJ1NFFEeFJPVi05MTQ3czIxT0JEaWZuWHJCbWFuTDJJSlFrOFVKUVBFbEhsejBmSU13alpiUnZKUV9WSElmS2JOaGV5VmVlRTUwbUlMRTU3YTI1UXpfcG5fd0Q?oc=5",
-      "pub_date": 1764941483.0,
-      "article_url": "https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target",
-      "image": null,
-      "description": null
-    },
-    {
       "headline": "Ethereum treasury firm BitMine adds $150 million in ETH as DAT buying dries up",
       "source": "The Block",
       "source_url": "https://www.theblock.co",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04Sm9BQWlWNElmVEdKUVpyU0pmT2FBb2w2VlNXZEk2RUlqb3JFQWRwczBkejhsQkJaWFh5T3FVUEp0cjlkRjQzVlRFZGRDaG4yWnp4ZTFTaHBUUW9meGVVVk5leWRqa2p6ZzJv0gFwQVVfeXFMTVlLamVEYXRvaEFuTFMzVjU0X3VCTmI3Z01fb2pyX2RmUDBvd0tfX0dOaERHaHBxSV9uVVZpRGVBUy1LMWg0aVlsUUcwUzgtUFh1OFJScWRtSnE0XzRRbThqWXFseXNHQkxCQzFCQjh4Sw?oc=5",
       "pub_date": 1764836325.0,
       "article_url": "https://www.theblock.co/post/381302/bitmine-150-million-eth",
+      "image": null,
+      "description": null
+    },
+    {
+      "headline": "BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUUlPZVlTQ1pNLWsxdE5ETWt0N3lTQWZrZ2k0S0FWbDlDM3oyTTIyZFBkX2V6a3F6Nk1oYUhTR3J5NVgxRlhMS3lVWjN4dUJ1NFFEeFJPVi05MTQ3czIxT0JEaWZuWHJCbWFuTDJJSlFrOFVKUVBFbEhsejBmSU13alpiUnZKUV9WSElmS2JOaGV5VmVlRTUwbUlMRTU3YTI1UXpfcG5fd0Q?oc=5",
+      "pub_date": 1764941483.0,
+      "article_url": "https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target",
       "image": null,
       "description": null
     },
@@ -106,5 +106,5 @@
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-06T09:21:08.075377+00:00"
+  "fetched_at": "2025-12-06T09:58:56.568519+00:00"
 }

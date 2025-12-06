@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T09:47:47.447400+00:00'
+updated: '2025-12-06T09:59:00.707773+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 09:47 UTC  
+**Last Updated:** December 06, 2025 at 09:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -62,6 +62,14 @@ Hella everyone! I've been building this drone as my own personal test on my engi
 
 ---
 
+**[Knee assist exoskeleton motor](https://www.reddit.com/r/robotics/comments/1pfl5ee/knee_assist_exoskeleton_motor/)**
+
+Im working on an electric knee assist exoskeleton and i have a 450 rpm 24V 15kg*cm³ motor and i was wondering if it would be sufficient to show a noticeable difference for an average sized person when using the exoskeleton or will I need to use two motors.
+
+36m ago
+
+---
+
 **[Art installation draws attention for its robot dogs with famous faces](https://www.reddit.com/r/robotics/comments/1pe56c3/art_installation_draws_attention_for_its_robot/)**
 
 1d ago
@@ -98,14 +106,6 @@ ROS News for the Week of December 2nd, 2025     ROSCon 2025 videos are now avail
 
 ---
 
-**[Making a Marauder's Map from Harry Potter](https://www.reddit.com/r/robotics/comments/1pf1agl/making_a_marauders_map_from_harry_potter/)**
-
-Arthur C. Clarke said "Any sufficiently advanced technology is indistinguishable from magic". This is the perfect example of that. We are taking a magical map that previously could only exist in a magical world and bringing it to life using robots, DeepStream, and multiple A6000 GPUs!
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=dO32ImnsX-4) • 16h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -126,14 +126,6 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[DEEP Robotics Robot Dogs Safeguard the 15th National Games, Achieving Integrated Inspection and Early Warning in Practice](https://finance.yahoo.com/news/deep-robotics-robot-dogs-safeguard-045500753.html)**
-
-HANGZHOU, CN / ACCESS Newswire / December 5, 2025 / From November 9th to 21st, 2025, the 15th National Games of the People's Republic of China (hereinafter referred to as the "National Games") were grandly held in Guangzhou. While public attention ...
-
-Yahoo Finance • 4h ago
-
----
-
 **[Fanuc (TSE:6954) Valuation After Nvidia Physical AI Robotics Deal and Recent Share Price Surge](https://finance.yahoo.com/news/fanuc-tse-6954-valuation-nvidia-070745387.html)**
 
 Fanuc (TSE:6954) just jumped nearly 13% after unveiling a collaboration with Nvidia to build industrial robots powered by physical AI, a move that immediately sharpened investor focus on its long term growth story. See our latest analysis for Fanuc. That surge has come on top of already strong momentum, with a 7 day share price return of 18.0% and a 90 day share price return of 44.3%. The 1 year total shareholder return of 52.4% signals investors are steadily warming to Fanuc as physical AI...
@@ -150,17 +142,25 @@ MIT News • 18h ago
 
 ---
 
+**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
+
+Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
+
+MLive.com • 1d ago
+
+---
+
 **[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
 
 Investor's Business Daily • 1d ago
 
 ---
 
-**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
+**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://www.barchart.com/story/news/36461441/3-robotics-stocks-to-buy-now-ahead-of-a-white-house-game-changer)**
 
-Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
+The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
 
-MLive.com • 1d ago
+Barchart.com • 1d ago
 
 ---
 
@@ -276,7 +276,7 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 AI Robot Lab
 
-👁️ 99K • 👍 381 • 💬 10 • ⏱️ 0:19 • 20h ago
+👁️ 99K • 👍 381 • 💬 10 • ⏱️ 0:19 • 21h ago
 
 ---
 
