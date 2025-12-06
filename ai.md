@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T22:56:53.931864+00:00'
+updated: '2025-12-06T23:23:05.329377+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 22:56 UTC  
+**Last Updated:** December 06, 2025 at 23:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Ai is terrible but good at the same time](https://www.reddit.com/r/artificial/comments/1pg0bdn/ai_is_terrible_but_good_at_the_same_time/)**
+**[AI deepfakes of real doctors spreading health misinformation on social media | Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects](https://www.reddit.com/r/artificial/comments/1pfqevl/ai_deepfakes_of_real_doctors_spreading_health/)**
 
-It's like Chatgpt doesn't give a crap about humanity But Grok is a lifesaver
+Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-1h ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 9h ago
 
 ---
 
@@ -49,15 +49,15 @@ It's like Chatgpt doesn't give a crap about humanity But Grok is a lifesaver
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 12h ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 13h ago
 
 ---
 
-**[AI deepfakes of real doctors spreading health misinformation on social media | Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects](https://www.reddit.com/r/artificial/comments/1pfqevl/ai_deepfakes_of_real_doctors_spreading_health/)**
+**[Could OpenAI’s financial future hinge on teens making deepfakes?](https://www.reddit.com/r/artificial/comments/1pg00rb/could_openais_financial_future_hinge_on_teens/)**
 
-Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
+If a new California ballot measure passes, it could block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO. To justify its massive valuation without Wall Street, OpenAI may lean even more heavily on engagement on its consumer-facing platforms, like Sora2. Instrumental and Ekō's recent research into how Sora2 enables harm shows why this could be a bad idea. For everybody.
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 8h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 2h ago
 
 ---
 
@@ -66,14 +66,6 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
 🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 1d ago
-
----
-
-**[Could OpenAI’s financial future hinge on teens making deepfakes?](https://www.reddit.com/r/artificial/comments/1pg00rb/could_openais_financial_future_hinge_on_teens/)**
-
-If a new California ballot measure passes, it could block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO. To justify its massive valuation without Wall Street, OpenAI may lean even more heavily on engagement on its consumer-facing platforms, like Sora2. Instrumental and Ekō's recent research into how Sora2 enables harm shows why this could be a bad idea. For everybody.
-
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 1h ago
 
 ---
 
@@ -90,6 +82,14 @@ If a new California ballot measure passes, it could block OpenAI’s conversion 
 Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
 
 🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 5h ago
+
+---
+
+**[Ai is terrible but good at the same time](https://www.reddit.com/r/artificial/comments/1pg0bdn/ai_is_terrible_but_good_at_the_same_time/)**
+
+It's like Chatgpt doesn't give a crap about humanity But Grok is a lifesaver
+
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ Lately I’ve been trying to get my days under control because I kept doing that
 
 RAG failures often look mysterious: Relevant info appears missing, unrelated chunks show up, top-k results wobble week to week. Based on what we observed the real culprit is usually your metadata tags no longer describe the chunks you actually embedded. It usually is caused under below circumstances: Exporters change section structure Headings shift position Chunk boundaries drift after ingestion changes Metadata applied before segmentation Mixed historical snapshots in the same index When sections, headings, boundaries, metadata, index entries stop lining up, the entire retrieval layer becomes nondeterministic. Do you version your segmentation logic and metadata maps?
 
-2h ago
+3h ago
 
 ---
 
@@ -125,13 +125,21 @@ RAG failures often look mysterious: Relevant info appears missing, unrelated chu
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqdlqvqHZ_CqfR6QsjRfnb7nLbM1LdRzswo1WyHM4sE50LcKZ7m9YLq1&gaa_ts=6934b5a4&gaa_sig=Kr7ZrhliXy-u-_MBL9V-OGGC7rmfxj2E7s8oMcuY69TggjZC8phSHUww4ddqUBNpycSh5MBCBcea2tq-d363LA%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqdD68wHOhheusU-JSrZK1WpjTxJudArUuSxQ5wacRj0mzSLTq2s30ua&gaa_ts=6934be47&gaa_sig=0N2CTcaUnL_MJxXvDVAO8yAxklrsg1FDptVY33nCE8mW6Ppo2TTZ-plSyVEkiwnl2d7w5xKND10Qpp7jnDSgcw%3D%3D)**
 
-The Wall Street Journal • 5h ago
+The Wall Street Journal • 6h ago
+
+---
+
+**[Why Okta (OKTA) Is Up 6.9% After Q3 Beat And AI Security Traction - And What's Next](https://finance.yahoo.com/news/why-okta-okta-6-9-220911623.html)**
+
+In the past week, Okta reported third‑quarter 2025 results with revenue of US$742 million and net income of US$43 million, alongside nine‑month revenue of US$2.16 billion and net income of US$172 million, while also issuing fiscal 2026 revenue guidance of US$2.91 billion at around 11% year‑over‑year growth. Beyond the headline beat and raised outlook, management emphasized traction in AI‑focused identity and security products, with over 100 customers already engaged, suggesting these newer...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -139,27 +147,21 @@ The Wall Street Journal • 5h ago
 
 China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
 
-Fortune • 4h ago
-
----
-
-**[Nvidia’s CEO says AI adoption will be gradual, but when it does hit, we may all end up making robot clothing](https://fortune.com/2025/12/06/nvidia-jensen-huang-ai-adoption-creep-gradual-robot-clothing/)**
-
-Jobs that consist entirely of routine tasks are most at risk of AI disruption, Huang said.
-
-Fortune • 10h ago
-
----
-
-**[Nvidia’s CEO says AI adoption will be gradual, but when it does hit, we may all end up making robot clothing](https://www.msn.com/en-us/news/technology/nvidia-s-ceo-says-ai-adoption-will-be-gradual-but-when-it-does-hit-we-may-all-end-up-making-robot-clothing/ar-AA1RQi3X)**
-
-MSN • 4h ago
+Fortune • 5h ago
 
 ---
 
 **[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
 
 The New York Times • 1d ago
+
+---
+
+**[Can AI help forecasters better predict destructive hurricanes?](https://abcnews.go.com/US/ai-forecasters-predict-destructive-hurricanes/story?id=128083437)**
+
+AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
+
+ABC News • 13h ago
 
 ---
 
@@ -171,11 +173,11 @@ The Keyword • 1d ago
 
 ---
 
-**[Can AI help forecasters better predict destructive hurricanes?](https://abcnews.go.com/US/ai-forecasters-predict-destructive-hurricanes/story?id=128083437)**
+**[Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/news/anthropic-interviewer)**
 
-AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
+What 1,250 professionals told us about working with AI
 
-ABC News • 12h ago
+Anthropic • 2d ago
 
 ---
 
@@ -183,15 +185,15 @@ ABC News • 12h ago
 
 Today’s leading AI models can already write and refine their own software. The question is whether that self-improvement can ever snowball into true superintelligence
 
-Scientific American • 10h ago
+Scientific American • 11h ago
 
 ---
 
-**[How a 24-year-old Stanford Ph.D. dropout lured some of Meta's brightest minds to join her AI math startup](https://www.businessinsider.com/axiom-math-stanford-dropout-meta-ai-researchers-startup-2025-12)**
+**[The Strange Disappearance of an Anti-AI Activist](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/)**
 
-24-year-old Axiom Math founder Carina Hong wooed top Meta researchers in a competitive AI talent market.
+Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-Business Insider • 12h ago
+The Atlantic • 2d ago
 
 ---
 
@@ -211,7 +213,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 542 • 💬 277 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 542 • 💬 279 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -227,7 +229,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 375 • 💬 212 • 21h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 380 • 💬 213 • 22h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -251,7 +253,7 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 
 Welcome to the slop era.
 
-⬆️ 97 • 💬 179 • 1d ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
+⬆️ 97 • 💬 180 • 1d ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 
 ---
 
@@ -337,7 +339,7 @@ Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial i
 
 📺 Fox News Clips
 
-👁️ 15K • 👍 325 • 💬 137 • ⏱️ 6:22 • 22h ago
+👁️ 15K • 👍 325 • 💬 137 • ⏱️ 6:22 • 23h ago
 
 ---
 
@@ -347,7 +349,7 @@ The race to unlock the secret to a longer life is on - and two sisters from a Ca
 
 📺 BBC News
 
-👁️ 16K • 👍 496 • 💬 204 • ⏱️ 8:08 • 13h ago
+👁️ 16K • 👍 496 • 💬 204 • ⏱️ 8:08 • 14h ago
 
 ---
 
@@ -357,7 +359,7 @@ World-leading AI scientist Professor Stuart Russell issues one of the most urgen
 
 📺 The Diary Of A CEO Clips
 
-👁️ 39K • 👍 1K • 💬 383 • ⏱️ 21:18 • 3h ago
+👁️ 39K • 👍 1K • 💬 383 • ⏱️ 21:18 • 4h ago
 
 ---
 
@@ -405,7 +407,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 18,140 • ❤️ 749 • 5d ago
+⬇️ 18,140 • ❤️ 750 • 5d ago
 
 ---
 
@@ -429,7 +431,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 357 • 1d ago
+⬇️ 20,067 • ❤️ 360 • 1d ago
 
 ---
 
@@ -451,7 +453,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,530 • ❤️ 349 • 4d ago
+⬇️ 2,530 • ❤️ 351 • 4d ago
 
 ---
 
@@ -697,7 +699,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 1h ago
+⭐ 826 • 🔱 43 • 2h ago
 
 ---
 
@@ -707,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 811 • 🔱 21 • 8h ago
+⭐ 811 • 🔱 21 • 9h ago
 
 ---
 
@@ -737,7 +739,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 670 • 🔱 226 • 15h ago
+⭐ 670 • 🔱 226 • 16h ago
 
 ---
 

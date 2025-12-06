@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T22:56:53.947906+00:00'
+updated: '2025-12-06T23:23:05.357100+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 22:56 UTC  
+**Last Updated:** December 06, 2025 at 23:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
-11h ago
+12h ago
 
 ---
 
@@ -44,7 +44,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 Zhongqing CEO Receives the Challenge of T800
 
-10h ago
+11h ago
 
 ---
 
@@ -52,13 +52,13 @@ Zhongqing CEO Receives the Challenge of T800
 
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
 
-3h ago
+4h ago
 
 ---
 
 **[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
 Meet Octoid, the squishy robot that changes from blue to green to red.
 
-🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 6h ago
+🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Meet Octoid, the squishy robot that changes from blue to green to red.
 
 I’m an elementary school special education teacher and I’ll be coaching an after school robotics club for our 4th and 5th grade students after the new year. Whoever wants to sign up. I’ve never 1) done an after school club or 2) done anything with robotics or coding. My district is providing a day of training for it once we get back from winter break. But I’m asking you all for any tips, tricks, or suggestions! Thank you!
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’m an elementary school special education teacher and I’ll be coaching an a
 
 https://youtu.be/UAlm8Z4mfpU
 
-23h ago
+1d ago
 
 ---
 
@@ -104,7 +104,7 @@ https://youtu.be/UAlm8Z4mfpU
 
 Im working on an electric knee assist exoskeleton and i have a 450 rpm 24V 15kg*cm³ motor and i was wondering if it would be sufficient to show a noticeable difference for an average sized person when using the exoskeleton or will I need to use two motors.
 
-13h ago
+14h ago
 
 ---
 
@@ -150,14 +150,6 @@ KTVB • 17h ago
 
 ---
 
-**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
-
-Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
-
-MLive.com • 2d ago
-
----
-
 **[Marine robotics firm will resume deep-sea search for MH370 plane that vanished a decade ago](https://www.cnn.com/2025/12/03/asia/malaysia-mh370-robotics-search-latam-intl)**
 
 Malaysia’s transport ministry said Wednesday that a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace.
@@ -171,6 +163,14 @@ CNN • 3d ago
 Swan EndoSurgical, a gastrointestinal startup launched by Olympus and Revival Healthcare Capital earlier this year, has named former Stryker executive Erik Todd as its CEO. | Swan EndoSurgical, formed by Olympus and Revival Healthcare Capital this year, named former Stryker executive Erik Todd as CEO.
 
 Fierce Biotech • 3d ago
+
+---
+
+**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
+
+Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
+
+MLive.com • 2d ago
 
 ---
 
@@ -200,7 +200,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 3K • 👍 70 • 💬 19 • ⏱️ 1:03 • 6h ago
+👁️ 3K • 👍 70 • 💬 19 • ⏱️ 1:03 • 7h ago
 
 ---
 
@@ -230,7 +230,7 @@ Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hosting
 
 📺 Fin Tek
 
-👁️ 42K • 👍 2K • 💬 172 • ⏱️ 21:31 • 21h ago
+👁️ 42K • 👍 2K • 💬 172 • ⏱️ 21:31 • 22h ago
 
 ---
 
