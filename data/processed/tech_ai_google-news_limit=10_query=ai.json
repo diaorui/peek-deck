@@ -55,6 +55,16 @@
       "description": "Country songwriter Breland says songs created with AI should be labeled as such and money made off them should go to grants for human artists."
     },
     {
+      "headline": "Nvidia vs. Everybody Else: Competition Mounts Against the Top AI Chip Company",
+      "source": "The Wall Street Journal",
+      "source_url": "https://www.wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOcUU1R2ozV2xMNGRYcEhLV2tPd0dVcUtSUU9YU1FHQzhjdGlJQW4temdRX2Vvek9TdnhtSE1UaklvVGJCc2MzV2Raejc3R1I2UnBsR2p1S3p1TktJSWgzN1BSQTNVcXRRS0hleEluMmw1NGRKdmxoWHZLY2NrSnVCZHI5REVtR2xqa1lVc3dCOGdvNHVpNlVyYUlmTU9pNm5CVm10aFZmZ0FuN0YyVW1CYVoxZ0MxUWVCUHVBVi1hY2luRlRYWUVIZ0JiU1hVTmN4UmVSMFRFaWQweGN4RThwOFhjdmJnejEzWjFOSVhDSVVNYlVwM3ZCS3BqZ0RtN1lxVXhQdmIxaXhSUE9hNUZIbVRtWjNoY0FmcVM1MXdfZVZ5Q1cxN1Z4dkJqa0I1TGJidGtCd05UUk1aNGJxelNNcUhwRU1HY3VNeTVHb1VKd1M3RE5qdEtDdV96a2NlVVBZWVpzRTRjcEliaVRIaG8tazhYU1RYc09DTVVnWnBVVUZJalVNY0xZc0RITTdFNW1BSTYtLWZMcDNOQW8?oc=5",
+      "pub_date": 1765009892.0,
+      "article_url": "https://www.wsj.com/tech/ai/nvidia-ai-chips-competitors-amd-broadcom-google-amazon-6729c65a?gaa_at=eafs&gaa_n=AWEtsqdpBfX_FhGZBB-j9fwDMCDRdMwjUj0UD4paDOCOoRISjnfg9E-OgbdD&gaa_ts=693462fb&gaa_sig=4xuN60ntmkCGXymA9Kw4g9fU6P1QxgGW9qRoDoOuyb3Jn1edShmNifZyChryB4BgBH0gnhB5dB3RM_4lA5jNPw%3D%3D",
+      "image": null,
+      "description": null
+    },
+    {
       "headline": "Opinion | Don\u2019t Fear the A.I. Bubble Bursting",
       "source": "The New York Times",
       "source_url": "https://www.nytimes.com",
@@ -93,18 +103,8 @@
       "article_url": "https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html",
       "image": "https://image.cnbcfm.com/api/v1/image/108219443-17618392362025-09-18t012656z_736652099_rc20uga8mamw_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1761839305&w=1920&h=1080",
       "description": "Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant."
-    },
-    {
-      "headline": "Meta buys AI pendant start-up Limitless to expand hardware push",
-      "source": "Financial Times",
-      "source_url": "https://www.ft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ScU9uR3dkOGx2UFdPaWo0Z0NDVHhvVEFDcjBzcUM4b3ZVcTJ2dWUyVFo0bTFpeDd6aDE4NmRIUkwxZUFYcjQzSWxhLXA3U3pMaERiN1lQTlJTWHdsdVlVUWthREh5MFgxT0NWaEs4S1U?oc=5",
-      "pub_date": 1764972283.0,
-      "article_url": "https://www.ft.com/content/a1a7adab-506e-4623-8f7a-0b7c94c8d6b4",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F144cdc23-a3b2-40e8-a10b-c43ab8cedd28.png?source=next-barrier-page",
-      "description": "Deal indicates Zuckerberg is exploring other types of artificial intelligence-powered devices beyond smart glasses"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-06T16:15:39.897836+00:00"
+  "fetched_at": "2025-12-06T16:53:31.904239+00:00"
 }

@@ -90,17 +90,6 @@
       "description": "I have never purchased any cryptocurrency; I am more of a stock market person, just wanted to ask the community what your thoughts are on this theory, given that it is a highly speculative asset. The thing is, the other day I did some analysis and, looking at the second image, during the 12 months leading up to the midterms, there is usually a drawdown in the S&P 500, followed by a recovery. Edit: the table was published by Longview Economics on November 28, 2025. In 2026, it seems that both things will coincide (the run-up to the midterms and the $BTC 4-year cycle theory), hence my curiosity."
     },
     {
-      "title": "\ud83d\udc40",
-      "author": "unthocks",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/",
-      "published": 1764988194.0,
-      "thumbnail": "https://preview.redd.it/m03e2nh1wh5g1.jpeg?width=640&crop=smart&auto=webp&s=3564091afcd7b87ec1b30e9d9643a8deee34f987",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Think For Yourself",
       "author": "suuperfli",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/",
@@ -110,7 +99,18 @@
       "site_name": null,
       "favicon": null,
       "description": null
+    },
+    {
+      "title": "\ud83d\udc40",
+      "author": "unthocks",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/",
+      "published": 1764988194.0,
+      "thumbnail": "https://preview.redd.it/m03e2nh1wh5g1.jpeg?width=640&crop=smart&auto=webp&s=3564091afcd7b87ec1b30e9d9643a8deee34f987",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     }
   ],
-  "fetched_at": "2025-12-06T16:15:27.219033+00:00"
+  "fetched_at": "2025-12-06T16:53:14.391478+00:00"
 }
