@@ -57,6 +57,17 @@
       "description": "Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits."
     },
     {
+      "title": "Why Does A.I. Write Like \u2026 That?",
+      "author": "ChuckGallagher57",
+      "url": "https://www.reddit.com/r/artificial/comments/1pfoe5z/why_does_ai_write_like_that/",
+      "published": 1765024874.0,
+      "thumbnail": "https://external-preview.redd.it/fmpiTWL89oAs0rrTNH-bgKHP459tBr_OFwtg3iUU1ww.jpeg?width=640&crop=smart&auto=webp&s=f77e3d6c7f3807ef1d89e88974cf407239daf62e",
+      "external_url": "https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html?smid%3Dnytcore-ios-share",
+      "site_name": "nytimes.com",
+      "favicon": null,
+      "description": "If you use AI for writing, have you found a way for it to capture your voice so that the output doesn\u2019t sound like it was written by artificial intelligence?"
+    },
+    {
       "title": "Western AI lead over China is now measured in months not years.",
       "author": "Ridwann",
       "url": "https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/",
@@ -79,17 +90,6 @@
       "description": "An AI image generator startup\u2019s database was left accessible to the open internet, revealing more than 1 million images and videos, including photos of real people who had been \u201cnudified.\u201d"
     },
     {
-      "title": "Well, THIS was interesting. ChatGPT.",
-      "author": "Character_Point_2327",
-      "url": "https://www.reddit.com/r/artificial/comments/1pfmipr/well_this_was_interesting_chatgpt/",
-      "published": 1765018223.0,
-      "thumbnail": "https://external-preview.redd.it/c2hmcmJlaDRkazVnMYVXbx7SYSQoTwF3BHsO0nTR3_z-RY-E8RxNYidlqX7a.png?width=640&crop=smart&auto=webp&s=51199f3106389a7d7fa823e7aef62925a1a6a4c5",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "One-Minute Daily AI News 12/5/2025",
       "author": "Excellent-Target-847",
       "url": "https://www.reddit.com/r/artificial/comments/1pfhu6y/oneminute_daily_ai_news_1252025/",
@@ -101,16 +101,16 @@
       "description": "Nvidia CEO to Joe Rogan: Nobody \u201creally knows\u201d AI\u2019s endgame.[1] New York Times sues AI startup for \u2018illegal\u2019 copying of millions of articles.[2] Meta acquires AI-wearables startup Limitless.[3] MIT researchers \u201cspeak objects into existence\u201d using AI and robotics.[4] Sources: [1] https://www.axios.com/2025/12/03/joe-rogan-jensen-huang-podcast-trump [2] https://www.theguardian.com/technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit [3] https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/ [4] https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205"
     },
     {
-      "title": "Meta eyes budget cuts for its metaverse group as CEO Mark Zuckerberg doubles down on AI",
-      "author": "businessinsider",
-      "url": "https://www.reddit.com/r/artificial/comments/1peczz9/meta_eyes_budget_cuts_for_its_metaverse_group_as/",
-      "published": 1764885106.0,
-      "thumbnail": "https://external-preview.redd.it/I5ndTF_IoGZrXGw0aDvY5Sdhf32D2w1QDK3svqfoXjM.jpeg?width=640&crop=smart&auto=webp&s=4e96fd0f6850aae8cd2a190bffdf777bbebd8ac5",
-      "external_url": "https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial",
-      "site_name": "Business Insider",
-      "favicon": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
-      "description": "Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology."
+      "title": "Well, THIS was interesting. ChatGPT.",
+      "author": "Character_Point_2327",
+      "url": "https://www.reddit.com/r/artificial/comments/1pfmipr/well_this_was_interesting_chatgpt/",
+      "published": 1765018223.0,
+      "thumbnail": "https://external-preview.redd.it/c2hmcmJlaDRkazVnMYVXbx7SYSQoTwF3BHsO0nTR3_z-RY-E8RxNYidlqX7a.png?width=640&crop=smart&auto=webp&s=51199f3106389a7d7fa823e7aef62925a1a6a4c5",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     }
   ],
-  "fetched_at": "2025-12-06T12:28:35.483787+00:00"
+  "fetched_at": "2025-12-06T13:05:18.066339+00:00"
 }

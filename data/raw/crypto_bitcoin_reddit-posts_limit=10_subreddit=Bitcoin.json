@@ -24,17 +24,6 @@
       "description": null
     },
     {
-      "title": "Think For Yourself",
-      "author": "suuperfli",
-      "url": "https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/",
-      "published": 1764981771.0,
-      "thumbnail": "https://preview.redd.it/701eb17ych5g1.png?width=640&crop=smart&auto=webp&s=10386ef6725bb5a5a178638aa3f8c6e498006b29",
-      "external_url": null,
-      "site_name": null,
-      "favicon": null,
-      "description": null
-    },
-    {
       "title": "Just a good reminder for all off you guys...",
       "author": "Glittering_Lie3436",
       "url": "https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/",
@@ -55,6 +44,17 @@
       "site_name": null,
       "favicon": null,
       "description": "I have never purchased any cryptocurrency; I am more of a stock market person, just wanted to ask the community what your thoughts are on this theory, given that it is a highly speculative asset. The thing is, the other day I did some analysis and, looking at the second image, during the 12 months leading up to the midterms, there is usually a drawdown in the S&P 500, followed by a recovery. Edit: the table was published by Longview Economics on November 28, 2025. In 2026, it seems that both things will coincide (the run-up to the midterms and the $BTC 4-year cycle theory), hence my curiosity."
+    },
+    {
+      "title": "Think For Yourself",
+      "author": "suuperfli",
+      "url": "https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/",
+      "published": 1764981771.0,
+      "thumbnail": "https://preview.redd.it/701eb17ych5g1.png?width=640&crop=smart&auto=webp&s=10386ef6725bb5a5a178638aa3f8c6e498006b29",
+      "external_url": null,
+      "site_name": null,
+      "favicon": null,
+      "description": null
     },
     {
       "title": "The most expensive mistake is always selling your BTC",
@@ -112,5 +112,5 @@
       "description": null
     }
   ],
-  "fetched_at": "2025-12-06T12:28:36.748354+00:00"
+  "fetched_at": "2025-12-06T13:05:15.414344+00:00"
 }
