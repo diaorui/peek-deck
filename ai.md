@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T21:52:22.287869+00:00'
+updated: '2025-12-06T22:13:33.695827+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
+- news
 - repositories
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 21:52 UTC  
+**Last Updated:** December 06, 2025 at 22:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**["Godmother of AI" Fei-Fei Li disappointed by AI's messaging: Either doomsday or total utopian](https://www.reddit.com/r/artificial/comments/1pflyfu/godmother_of_ai_feifei_li_disappointed_by_ais/)**
+**[Ai is terrible but good at the same time](https://www.reddit.com/r/artificial/comments/1pg0bdn/ai_is_terrible_but_good_at_the_same_time/)**
 
-Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
+It's like Chatgpt doesn't give a crap about humanity But Grok is a lifesaver
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 11h ago
+54m ago
 
 ---
 
@@ -53,6 +53,14 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 ---
 
+**["Godmother of AI" Fei-Fei Li disappointed by AI's messaging: Either doomsday or total utopian](https://www.reddit.com/r/artificial/comments/1pflyfu/godmother_of_ai_feifei_li_disappointed_by_ais/)**
+
+Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
+
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 11h ago
+
+---
+
 **['Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win'](https://www.reddit.com/r/artificial/comments/1pf0p2w/godfather_of_ai_geoffrey_hinton_says_google_is/)**
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
@@ -61,11 +69,11 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 ---
 
-**[How are Americans using AI? Evidence from a nationwide survey | Brookings](https://www.reddit.com/r/artificial/comments/1pfv1kr/how_are_americans_using_ai_evidence_from_a/)**
+**[Could OpenAI’s financial future hinge on teens making deepfakes?](https://www.reddit.com/r/artificial/comments/1pg00rb/could_openais_financial_future_hinge_on_teens/)**
 
-Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
+If a new California ballot measure passes, it could block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO. To justify its massive valuation without Wall Street, OpenAI may lean even more heavily on engagement on its consumer-facing platforms, like Sora2. Instrumental and Ekō's recent research into how Sora2 enables harm shows why this could be a bad idea. For everybody.
 
-🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 4h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 1h ago
 
 ---
 
@@ -77,19 +85,11 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 ---
 
-**[Ai is terrible but good at the same time](https://www.reddit.com/r/artificial/comments/1pg0bdn/ai_is_terrible_but_good_at_the_same_time/)**
+**[How are Americans using AI? Evidence from a nationwide survey | Brookings](https://www.reddit.com/r/artificial/comments/1pfv1kr/how_are_americans_using_ai_evidence_from_a/)**
 
-It's like Chatgpt doesn't give a crap about humanity But Grok is a lifesaver
+Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
 
-32m ago
-
----
-
-**[Could OpenAI’s financial future hinge on teens making deepfakes?](https://www.reddit.com/r/artificial/comments/1pg00rb/could_openais_financial_future_hinge_on_teens/)**
-
-If a new California ballot measure passes, it could block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO. To justify its massive valuation without Wall Street, OpenAI may lean even more heavily on engagement on its consumer-facing platforms, like Sora2. Instrumental and Ekō's recent research into how Sora2 enables harm shows why this could be a bad idea. For everybody.
-
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 45m ago
+🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 4h ago
 
 ---
 
@@ -97,7 +97,7 @@ If a new California ballot measure passes, it could block OpenAI’s conversion 
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 15h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 16h ago
 
 ---
 
@@ -113,7 +113,7 @@ Lately I’ve been trying to get my days under control because I kept doing that
 
 RAG failures often look mysterious: Relevant info appears missing, unrelated chunks show up, top-k results wobble week to week. Based on what we observed the real culprit is usually your metadata tags no longer describe the chunks you actually embedded. It usually is caused under below circumstances: Exporters change section structure Headings shift position Chunk boundaries drift after ingestion changes Metadata applied before segmentation Mixed historical snapshots in the same index When sections, headings, boundaries, metadata, index entries stop lining up, the entire retrieval layer becomes nondeterministic. Do you version your segmentation logic and metadata maps?
 
-1h ago
+2h ago
 
 ---
 
@@ -125,11 +125,11 @@ RAG failures often look mysterious: Relevant info appears missing, unrelated chu
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcWo6G0gdjQQOYPOkPDooZWlOT8RsX3o2dzW90Q10V2jrDBt5VMaTPa&gaa_ts=6934a672&gaa_sig=TEMwneIHB-4owG_Ijjg0uPacoZGuEhfy-_uhT5YvRupkPDePG3nBnCFDS0W2ILcPWRRDe5GBhSP718VSaBLxrA%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqd1_K8WN5DVOT6VVpBzMyXtIfEuoQ6OAlKIOI5U2yyElOXZtY9sdE8u&gaa_ts=6934adfd&gaa_sig=7np5xisRa5zpg1fCk3L5iGNbo4c8gv9SU8AoysAO-QVDtD838oQOCz-_4r7Dvlx2YQTNJq9kYaRfaO39SgBwkA%3D%3D)**
 
 The Wall Street Journal • 4h ago
 
@@ -149,19 +149,19 @@ The New York Times • 1d ago
 
 ---
 
-**[The latest AI news we announced in November](https://blog.google/technology/ai/google-ai-updates-november-2025/)**
-
-Here are Google’s latest AI updates from November 2025
-
-The Keyword • 1d ago
-
----
-
 **[Can AI help forecasters better predict destructive hurricanes?](https://abcnews.go.com/US/ai-forecasters-predict-destructive-hurricanes/story?id=128083437)**
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-ABC News • 11h ago
+ABC News • 12h ago
+
+---
+
+**[Gemini 3 Pro: the frontier of vision AI](https://blog.google/technology/developers/gemini-3-pro-vision/)**
+
+Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
+
+The Keyword • 1d ago
 
 ---
 
@@ -169,15 +169,7 @@ ABC News • 11h ago
 
 Today’s leading AI models can already write and refine their own software. The question is whether that self-improvement can ever snowball into true superintelligence
 
-Scientific American • 9h ago
-
----
-
-**[Jeep's AI-generated talking animals signify change in auto industry](https://www.freep.com/story/money/cars/chrysler/2025/12/06/jeep-ai-generated-marketing-campaign-ads/87217350007/)**
-
-Jeep is one of the first automakers to fully leverage AI image generation in its marketing materials.
-
-Detroit Free Press • 6h ago
+Scientific American • 10h ago
 
 ---
 
@@ -186,6 +178,14 @@ Detroit Free Press • 6h ago
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
 The Atlantic • 2d ago
+
+---
+
+**[Jeep's AI-generated talking animals signify change in auto industry](https://www.freep.com/story/money/cars/chrysler/2025/12/06/jeep-ai-generated-marketing-campaign-ads/87217350007/)**
+
+Jeep is one of the first automakers to fully leverage AI image generation in its marketing materials.
+
+Detroit Free Press • 6h ago
 
 ---
 
@@ -211,7 +211,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 533 • 💬 276 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 535 • 💬 277 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -227,7 +227,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 369 • 💬 210 • 20h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 373 • 💬 210 • 20h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -259,7 +259,7 @@ Welcome to the slop era.
 
 A live AI-driven countdown to the potential burst of the AI market bubble. Updated daily with market sentiment analysis.
 
-⬆️ 77 • 💬 35 • 2d ago • [pop-the-bubble.xyz](https://pop-the-bubble.xyz/)
+⬆️ 78 • 💬 35 • 2d ago • [pop-the-bubble.xyz](https://pop-the-bubble.xyz/)
 
 ---
 
@@ -289,7 +289,7 @@ The race to unlock the secret to a longer life is on - and two sisters from a Ca
 
 📺 BBC News
 
-👁️ 14K • 👍 465 • 💬 197 • ⏱️ 8:08 • 12h ago
+👁️ 14K • 👍 465 • 💬 197 • ⏱️ 8:08 • 13h ago
 
 ---
 
@@ -299,7 +299,7 @@ subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianB
 
 📺 yikes
 
-👁️ 50K • 👍 4K • 💬 759 • ⏱️ 21:06 • 5h ago
+👁️ 50K • 👍 4K • 💬 759 • ⏱️ 21:06 • 6h ago
 
 ---
 
@@ -395,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,187 • 4d ago
+⬇️ 169,515 • ❤️ 2,188 • 4d ago
 
 ---
 
@@ -698,7 +698,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 50m ago
+⭐ 826 • 🔱 43 • 1h ago
 
 ---
 
@@ -738,7 +738,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 666 • 🔱 224 • 14h ago
+⭐ 666 • 🔱 224 • 15h ago
 
 ---
 

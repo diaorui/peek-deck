@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T21:52:22.296647+00:00'
+updated: '2025-12-06T22:13:33.704249+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 21:52 UTC  
+**Last Updated:** December 06, 2025 at 22:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,459.04
+### $89,417.69
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -1.3%  
-**30d:** -13.7%  
-**90d:** -20.1%  
-**1y:** -10.4%  
+**24h:** +0.2%  
+**7d:** -1.4%  
+**30d:** -13.9%  
+**90d:** -20.2%  
+**1y:** -10.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1785.74B
+**Market Cap:** $1784.29B
 Rank #1
 
-**Circulating Supply:** 19,958,481 BTC
+**Circulating Supply:** 19,958,503 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-29.1%
 
 **All-Time Low:** $67.81
-+131889.4%
++131696.2%
 
 ---
 
@@ -76,6 +76,14 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
+
+**[Mega-rare Simpsons pattern emerging...](https://www.reddit.com/r/Bitcoin/comments/1pfzi8q/megarare_simpsons_pattern_emerging/)**
+
+Burnsish?
+
+1h ago
+
+---
 
 **[13 years ago Bitcoin was $13.36 and we were still playing PS2 💔](https://www.reddit.com/r/Bitcoin/comments/1pfp765/13_years_ago_bitcoin_was_1336_and_we_were_still/)**
 
@@ -93,7 +101,7 @@ Rank #1
 
 You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s simple and beginner-friendly but I moved to Value Averaging this cycle, and the results have been way better. Most people know DCA because it’s simple: buy the same amount every week.But when you’re trying to get better prices and make the market’s volatility work for you, Value Averaging is a much stronger method. Let me show you exactly how it played out using real BTC price action from 2024–2025. Rule I Followed Every 15% drop in BTC : Buy. First Buy = $1,000 Second Buy = $2,000 Third Buy = 3000$ Continues..... BTC gave three clean 30% corrections this cycle, so this rule activated six times. Drawdown 1 — March 2024 (-30%) BTC dropped twice by 15%, so we can bought: $1,000 ( Buy 01 ) $2,000 ( Buy 02 ) Later, when BTC reached what I marked as “Top 3,” these were the gains: $1,000 → +95% = +$950 $2,000 → +131% = +$2,620 Total = $3,570 profit Drawdown 2 — December 2024 (-30%) Same plan again: $1,000 ( Buy 03 ) $2000 ( Buy 04 ) During the recovery toward Top 3, three positions were still showing: +$950 ( Buy 01 ) +$2620 ( Buy 02 ) +$330 ( Buy 03 ) +$1140 ( Buy 04 ) Total = $5,040 profit Current Drawdown — 2025 July–Oct (-30%) This is where we are right now. Two more buys triggered: Buy 05: $1,000 → currently –14% Buy 06: $2,000 → currently breakeven These are fresh buys, so it’s totally normal that they haven’t recovered yet. Total Structure 6 total buys – 3 × $1,000 – 3 × $2,000 Total invested = $9,000 Right now, even though BTC is still in a ~30% decline: Three positions remain in profit ($420 + $1,300 + $260) One is slightly negative (–$140) Two are at breakeven Overall: still profitable during a drawdown. Why This Beats DCA for Me DCA buys at every price expensive, cheap, doesn’t matter. Value Averaging waits for discounts. You buy more when BTC is cheaper Your average cost drops fast Strong assets recover and reward the early buys Drawdowns become opportunities instead of pain Your risk is distributed intelligently no guessing bottoms. no chasing tops.Just reacting to 15% dips the same way, every time. This is the whole point:
 
-8h ago
+9h ago
 
 ---
 
@@ -109,17 +117,9 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 ---
 
-**[Mega-rare Simpsons pattern emerging...](https://www.reddit.com/r/Bitcoin/comments/1pfzi8q/megarare_simpsons_pattern_emerging/)**
-
-Burnsish?
-
-1h ago
-
----
-
 **[They are always not ready](https://www.reddit.com/r/Bitcoin/comments/1pfvd6m/they_are_always_not_ready/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -133,7 +133,7 @@ I'm sure you have all heard this a million times before but this is my story. In
 
 **[OK, I get the pattern now.](https://www.reddit.com/r/Bitcoin/comments/1pfot4f/ok_i_get_the_pattern_now/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -141,7 +141,7 @@ I'm sure you have all heard this a million times before but this is my story. In
 
 just took out a Fidelity 401k loan from my workplace to smash buy. Feel free to ask me any questions if other people are thinking about it. Instead of dca ing the next 5 years, I'll dca back into my 401k
 
-1h ago
+2h ago
 
 ---
 
@@ -157,45 +157,17 @@ Bloomberg.com • 15h ago
 
 ---
 
-**[Is Bitcoin About to Break Its Last Surviving Valuation Model?](https://www.coindesk.com/markets/2025/12/05/how-much-longer-until-we-consider-the-bitcoin-power-law-model-invalid)**
+**[Is bitcoin really digital gold? In 2025, the leading crypto has failed to answer that question](https://www.cnbc.com/2025/12/05/bitcoin-digital-gold-crypto-store-of-value.html)**
 
-As the gap between spot bitcoin price and the power law widens, investors are left questioning whether mean reversion is coming or if another cornerstone model is approaching its end.
+Bitcoin's big drop from a record price has led to questions about crypto's correlation to the broader market, and what it really represents in a portfolio.
 
-CoinDesk • 6h ago
-
----
-
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqeyySswXvJbYHBhflOcpqFbksFpUCYMj3fKIuoptTW_jXIH3FVAs_FD&gaa_ts=6934a674&gaa_sig=CxDenMW5F_4twprUuR9jRqoInxImVqgjiU2AWgmNHh2SrMAvHCxXKOplT0ALsVixigkigZGcaEyrtEaCaDLj9g%3D%3D)**
-
-MarketWatch • 2d ago
+CNBC • 1d ago
 
 ---
 
-**[Bitcoin Is Set for First Yearly Split From Stocks in a Decade](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-is-breaking-from-stock-rally-for-first-time-in-a-decade)**
+**[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
-The S&amp;P 500 has climbed more than 16% in 2025, while Bitcoin is down 3% — the first time since 2014 that stocks have rallied while the token is down, according to data compiled by Bloomberg.
-
-Bloomberg.com • 1d ago
-
----
-
-**[MSTR Stock: Strategy, The Bitcoin Whale, Is Wall Street's Biggest Mistake](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
-
-Investor's Business Daily • 4h ago
-
----
-
-**[Bring Bitcoin Mining into Your Office Without Noise, Heat, or Hassle](https://www.entrepreneur.com/money-finance/bring-bitcoin-mining-into-your-office-without-noise-heat/500383)**
-
-Entrepreneur • 4h ago
-
----
-
-**[Bitcoin Miners Hunted After Stealing $1 Billion of Electricity From Malaysia Grid](https://www.bloomberg.com/news/articles/2025-12-03/bitcoin-btc-miners-hunted-after-stealing-1-billion-power-from-malaysia-grid)**
-
-Cracking down on illegal Bitcoin mining gangs has become a cat-and-mouse game in Malaysia.
-
-Bloomberg.com • 2d ago
+The Economist • 2d ago
 
 ---
 
@@ -204,6 +176,14 @@ Bloomberg.com • 2d ago
 “It’s clearly run by the syndicate."
 
 Yahoo Finance • 4h ago
+
+---
+
+**[Is Bitcoin About to Break Its Last Surviving Valuation Model?](https://www.coindesk.com/markets/2025/12/05/how-much-longer-until-we-consider-the-bitcoin-power-law-model-invalid)**
+
+As the gap between spot bitcoin price and the power law widens, investors are left questioning whether mean reversion is coming or if another cornerstone model is approaching its end.
+
+CoinDesk • 7h ago
 
 ---
 
@@ -218,6 +198,28 @@ TheStreet • 1d ago
 JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
+
+JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
+
+Business Insider • 2d ago
+
+---
+
+**[Should You Buy Bitcoin While It's Under $100,000?](https://www.fool.com/investing/2025/12/05/should-you-buy-bitcoin-while-its-under-100000/)**
+
+Bitcoin may be down 30% from its all-time high in October, but the long-term outlook remains unchanged.
+
+The Motley Fool • 20h ago
+
+---
+
+**[Bring Bitcoin Mining into Your Office Without Noise, Heat, or Hassle](https://www.entrepreneur.com/money-finance/bring-bitcoin-mining-into-your-office-without-noise-heat/500383)**
+
+Entrepreneur • 5h ago
 
 ---
 
@@ -313,7 +315,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 26K • 👍 2K • 💬 65 • ⏱️ 48:57 • 7h ago
+👁️ 26K • 👍 2K • 💬 65 • ⏱️ 48:57 • 8h ago
 
 ---
 
@@ -323,7 +325,7 @@ Bitcoin volatility is collapsing, institutions are flooding in, and the entire m
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 362 • 💬 59 • ⏱️ 40:36 • 4h ago
+👁️ 5K • 👍 362 • 💬 59 • ⏱️ 40:36 • 5h ago
 
 ---
 
