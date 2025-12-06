@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T19:21:14.639220+00:00'
+updated: '2025-12-06T19:33:27.960440+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
 - repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 19:21 UTC  
+**Last Updated:** December 06, 2025 at 19:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,6 +61,14 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 ---
 
+**[Just used Gemini for a solo DND session…](https://www.reddit.com/r/artificial/comments/1pfscbo/just_used_gemini_for_a_solo_dnd_session/)**
+
+… and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
+
+3h ago
+
+---
+
 **[How are Americans using AI? Evidence from a nationwide survey | Brookings](https://www.reddit.com/r/artificial/comments/1pfv1kr/how_are_americans_using_ai_evidence_from_a/)**
 
 Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
@@ -77,21 +85,13 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 ---
 
-**[Just used Gemini for a solo DND session…](https://www.reddit.com/r/artificial/comments/1pfscbo/just_used_gemini_for_a_solo_dnd_session/)**
-
-… and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
-
-3h ago
-
----
-
 **[#ai | Christophe Barraud](https://www.reddit.com/r/artificial/comments/1pfwu13/ai_christophe_barraud/)**
 
 🇺🇸 Highest Number of S&P 500 Earnings Calls Citing “hashtag
 #AI” Over The Past 10 Years - Factset
 https://lnkd.in/eSSM_TYR
 
-🔗 [linkedin.com](https://www.linkedin.com/posts/christophe-barraud-68870620_ai-activity-7403103677776883713-pP17?utm_medium%3Dios_app%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4%26utm_source%3Dsocial_share_send%26utm_campaign%3Dshare_via) • 29m ago
+🔗 [linkedin.com](https://www.linkedin.com/posts/christophe-barraud-68870620_ai-activity-7403103677776883713-pP17?utm_medium%3Dios_app%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4%26utm_source%3Dsocial_share_send%26utm_campaign%3Dshare_via) • 41m ago
 
 ---
 
@@ -131,7 +131,7 @@ The Guardian • 4h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqePXA7YGWF83_ouoo1sXUeuj7Qe8aPCMQC17WGvX9cuoQqy3B0ix4bq&gaa_ts=69348047&gaa_sig=xIxTHRTEJ867eDJkfOaakgv9O6OzkxRhMe57L7xqLEOzgNEpH03k-yd-oe8yxNQ2UXAqh5ELvR6DxhtfQ21EEg%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqfs1_RtkcjnZpuYJ_-Ig9GtVEoUPU9eb11phy6irYs96AKmQOV5frIX&gaa_ts=69348876&gaa_sig=uERaA_dP8W1r3sdxffE_2U5tnUlhpEm4CBY2o9vTpz0wZB1StYTckXoXTrOwJsnO2lL2Uob-2arItqC6335Q8A%3D%3D)**
 
 The Wall Street Journal • 2h ago
 
@@ -141,13 +141,7 @@ The Wall Street Journal • 2h ago
 
 Amanda Askell, a member of Anthropic's technical team and a trained philosopher, shared some pro-tips for getting the most of AI chatbots.
 
-Business Insider • 39m ago
-
----
-
-**[AI goes from tool to teammate: Amazon Web Services SVP Colleen Aubrey on the dawn of agentic work](https://www.geekwire.com/2025/ai-goes-from-tool-to-teammate-amazon-web-services-svp-colleen-aubrey-on-the-dawn-of-agentic-work/)**
-
-GeekWire • 57m ago
+Business Insider • 51m ago
 
 ---
 
@@ -156,6 +150,12 @@ GeekWire • 57m ago
 China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
 
 Fortune • 1h ago
+
+---
+
+**[AI goes from tool to teammate: Amazon Web Services SVP Colleen Aubrey on the dawn of agentic work](https://www.geekwire.com/2025/ai-goes-from-tool-to-teammate-amazon-web-services-svp-colleen-aubrey-on-the-dawn-of-agentic-work/)**
+
+GeekWire • 1h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Atlantic • 1d ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 951 • 💬 1056 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 951 • 💬 1057 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -221,7 +221,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 522 • 💬 267 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 524 • 💬 272 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -237,7 +237,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 360 • 💬 206 • 18h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 362 • 💬 206 • 18h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -261,7 +261,7 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 
 Welcome to the slop era.
 
-⬆️ 97 • 💬 175 • 1d ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
+⬆️ 97 • 💬 177 • 1d ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 
 ---
 
@@ -291,7 +291,7 @@ Thank you to Disney Dreamlight Valley for sponsoring this video! Click here to s
 
 📺 HopeScope
 
-👁️ 171K • 👍 11K • 💬 833 • ⏱️ 34:23 • 3h ago
+👁️ 171K • 👍 11K • 💬 833 • ⏱️ 34:23 • 4h ago
 
 ---
 
@@ -395,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,182 • 4d ago
+⬇️ 169,515 • ❤️ 2,184 • 4d ago
 
 ---
 
@@ -431,7 +431,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 348 • 1d ago
+⬇️ 20,067 • ❤️ 349 • 1d ago
 
 ---
 
@@ -443,7 +443,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,530 • ❤️ 345 • 4d ago
+⬇️ 2,530 • ❤️ 346 • 4d ago
 
 ---
 
@@ -688,7 +688,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 889 • 🔱 106 • 6h ago
+⭐ 889 • 🔱 106 • 7h ago
 
 ---
 

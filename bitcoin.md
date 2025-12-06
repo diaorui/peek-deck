@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T19:21:14.647545+00:00'
+updated: '2025-12-06T19:33:27.968856+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 19:21 UTC  
+**Last Updated:** December 06, 2025 at 19:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -1.0%  
-**30d:** -13.5%  
-**90d:** -19.9%  
-**1y:** -10.2%  
+**24h:** +0.2%  
+**7d:** -1.1%  
+**30d:** -13.6%  
+**90d:** -20.0%  
+**1y:** -10.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1788.17B
+**Market Cap:** $1786.61B
 Rank #1
 
 **Circulating Supply:** 19,958,450 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-29.1%
 
 **All-Time Low:** $67.81
-+132069.3%
++131768.5%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[13 years ago Bitcoin was $13.36 and we were still playing PS2 💔](https://www.reddit.com/r/Bitcoin/comments/1pfp765/13_years_ago_bitcoin_was_1336_and_we_were_still/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Man thats a brutal reminder😭](https://www.reddit.com/r/Bitcoin/comments/1pfm5h0/man_thats_a_brutal_reminder/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -105,19 +105,13 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 **[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
 
-11h ago
+12h ago
 
 ---
 
 **[OK, I get the pattern now.](https://www.reddit.com/r/Bitcoin/comments/1pfot4f/ok_i_get_the_pattern_now/)**
 
 6h ago
-
----
-
-**[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
-
-1d ago
 
 ---
 
@@ -132,6 +126,12 @@ I'm sure you have all heard this a million times before but this is my story. In
 **[They are always not ready](https://www.reddit.com/r/Bitcoin/comments/1pfvd6m/they_are_always_not_ready/)**
 
 1h ago
+
+---
+
+**[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
+
+1d ago
 
 ---
 
@@ -151,7 +151,7 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -183,17 +183,33 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[DigitalBridge, Sezzle jump, American Bitcoin, WRB slide: week's financials wrap](https://seekingalpha.com/news/4529092-digitalbridge-sezzle-jump-american-bitcoin-wrb-slide-weeks-financials-wrap)**
+**[Bitcoin Miners Hunted After Stealing $1 Billion of Electricity From Malaysia Grid](https://www.bloomberg.com/news/articles/2025-12-03/bitcoin-btc-miners-hunted-after-stealing-1-billion-power-from-malaysia-grid)**
 
-Please provide the article text so I can generate an SEO-friendly meta description for you.
+Cracking down on illegal Bitcoin mining gangs has become a cat-and-mouse game in Malaysia.
 
-Seeking Alpha • 4h ago
+Bloomberg.com • 2d ago
 
 ---
 
-**[Those Sky-High Bitcoin Prices Everyone Said Were Here to Stay? They Left.](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
+**[Bitcoin mining stocks MARA, CleanSpark rise as network difficulty eases](https://finance.yahoo.com/news/bitcoin-mining-stocks-mara-cleanspark-162439390.html)**
 
-The New York Times • 3d ago
+Publicly traded bitcoin miners saw a split in weekly returns, with some operators edging higher while others slipped, as the sector continued to absorb record-low hashprice levels driven by escalating…
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://finance.yahoo.com/news/bitcoin-miners-run-stealing-1-174500657.html)**
+
+“It’s clearly run by the syndicate."
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Popular Bitcoin company faces potential 10-year ban](https://www.thestreet.com/crypto/business/popular-bitcoin-company-faces-10-year-ban)**
+
+TheStreet • 1d ago
 
 ---
 
@@ -202,20 +218,6 @@ The New York Times • 3d ago
 Bitcoin may be down 30% from its all-time high in October, but the long-term outlook remains unchanged.
 
 The Motley Fool • 17h ago
-
----
-
-**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
-
-TheStreet • 23h ago
-
----
-
-**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
-
-JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
-
-Business Insider • 2d ago
 
 ---
 
@@ -291,7 +293,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 10K • 👍 534 • 💬 395 • ⏱️ 9:08 • 18h ago
+👁️ 10K • 👍 534 • 💬 395 • ⏱️ 9:08 • 19h ago
 
 ---
 
@@ -321,7 +323,7 @@ After FUDing bitcoin and Strategy JP Morgan analysts are still predicting the 4 
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 442 • 💬 68 • ⏱️ 1:34:16 • 23h ago
+👁️ 10K • 👍 442 • 💬 68 • ⏱️ 1:34:16 • 1d ago
 
 ---
 
