@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T17:32:06.781360+00:00'
+updated: '2025-12-06T17:43:23.037682+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 17:32 UTC  
+**Last Updated:** December 06, 2025 at 17:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 AI is quietly changing the way we read. It’s not just helping us produce content—it’s sharpening our ability to sense the difference between writing that has real depth and writing that only performs depth on the surface. Many people are experiencing something like an upgrade in “content density resolution,” the ability to feel how many layers of reasoning, structure, and judgment are actually embedded in a piece of text. Before AI, we often mistook length for complexity or jargon for expertise because there was no clear baseline to compare against. Now, after encountering enough AI-generated text—with its smooth surfaces, single-layer logic, and predictable patterns—the contrast makes genuine density more visible than ever. As this contrast sharpens, reading in the AI era begins to feel like switching from 720p to 4K. Flat content is instantly recognizable. Shallow arguments reveal themselves within a few sentences. Emotional bait looks transparent instead of persuasive. At the same time, the rare instances of multi-layer reasoning, compressed insight, or non-linear structure stand out like a different species of writing. AI unintentionally trains our perception simply by presenting a vast quantity of material that shares the same low-density signature. The moment you notice that some writing “moves differently,” that it carries internal tension or layered judgment, your density resolution has already shifted. This leads to a future where the real competition in content isn’t about volume, speed, or aesthetics—it’s about layers. AI can generate endless text, but it cannot easily reproduce the structural depth of human reasoning. Even casual users now report that AI has made it easier to “see through” many posts, articles, or videos they used to find convincing. And if you can already explain—or at least feel—why certain writing hits harder, lasts longer in your mind, or seems structurally alive, it means your perception is evolving. AI may automate creation, but it is upgrading human discernment, and this perceptual shift may become one of the most significant side effects of the AI era.
 
-34m ago
+46m ago
 
 ---
 
@@ -105,7 +105,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 If you use AI for writing, have you found a way for it to capture your voice so that the output doesn’t sound like it was written by artificial intelligence?
 
-🔗 [nytimes.com](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html?smid%3Dnytcore-ios-share) • 4h ago
+🔗 [nytimes.com](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html?smid%3Dnytcore-ios-share) • 5h ago
 
 ---
 
@@ -145,7 +145,7 @@ Detroit Free Press • 1h ago
 
 **[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcZ4YzVpl-J8Q5c5yRkBosZ8nU4TRE3Qay6NrZvk22adrmMg6jVVlRP&gaa_ts=69346bfc&gaa_sig=4drHF9eOWyyAjXQ4Ud6zZcaOBpGD0b9sijrrZZS4BiNKG67-2CgY4Plq2qA_TG6JojbudxwuEleUBjTNDMkePg%3D%3D)**
 
-The Wall Street Journal • 15m ago
+The Wall Street Journal • 26m ago
 
 ---
 
@@ -329,7 +329,7 @@ From Capitol Hill to the back of an Uber in Dubai — this week showed just how 
 
 📺 CNBC Television
 
-👁️ 19K • 👍 215 • 💬 28 • ⏱️ 22:41 • 17h ago
+👁️ 19K • 👍 215 • 💬 28 • ⏱️ 22:41 • 18h ago
 
 ---
 
@@ -349,7 +349,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 47K • 👍 1K • 💬 250 • ⏱️ 12:07 • 16h ago
+👁️ 47K • 👍 1K • 💬 250 • ⏱️ 12:07 • 17h ago
 
 ---
 
@@ -719,7 +719,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 779 • 🔱 54 • 5d ago
+⭐ 779 • 🔱 54 • 6d ago
 
 ---
 
