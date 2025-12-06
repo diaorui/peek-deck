@@ -112,5 +112,5 @@
       "description": "Most discourse around AI writing is about using it to generate content faster. I've been experimenting with the opposite: using AI to identify when my content is too generic. The test is simple. Paste your core argument into ChatGPT with: \"Does this sound like a reasonable, balanced take?\" If AI enthusiastically agrees \u2192 you've written something probable. Consensus. Average. If AI hedges or pushes back \u2192 you've found an edge. Something that doesn't match the 10,000 similar takes in its training data. The logic: AI outputs probability. It's trained on the aggregate of human writing. So enthusiastic agreement means your idea is statistically common. And statistically common = forgettable. I've started using AI exclusively as adversarial QA on my drafts: Act as a cynical, skeptical critic. Tear this apart: \ud83e\uddc9 Where am I being too generic? \ud83e\uddc9 Where am I hiding behind vague language? \ud83e\uddc9 What am I afraid to say directly? Write the draft yourself. Let AI attack it. Revise based on the critique. The draft stays human. The critique is AI. The revision is human again. Curious if anyone else is using AI this way\u2014as a detector rather than generator."
     }
   ],
-  "fetched_at": "2025-12-06T08:42:27.755595+00:00"
+  "fetched_at": "2025-12-06T09:20:50.342244+00:00"
 }
