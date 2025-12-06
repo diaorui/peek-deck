@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T07:12:29.086480+00:00'
+updated: '2025-12-06T07:29:57.061701+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
+- videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 07:12 UTC  
+**Last Updated:** December 06, 2025 at 07:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,052.47
+### $3,034.76
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.8%  
-**7d:** +1.6%  
-**30d:** -11.5%  
-**90d:** -29.5%  
-**1y:** -24.1%  
+**24h:** -3.9%  
+**7d:** +1.5%  
+**30d:** -11.6%  
+**90d:** -29.6%  
+**1y:** -24.2%  
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 How to install the Wander Wallet browser extension?
 
-🔗 [help.odysee.tv](https://help.odysee.tv/category-monetization/wander/) • 24m ago
+🔗 [help.odysee.tv](https://help.odysee.tv/category-monetization/wander/) • 41m ago
 
 ---
 
@@ -252,7 +252,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 601 • 👍 53 • 💬 4 • ⏱️ 5:46 • 3h ago
+👁️ 601 • 👍 53 • 💬 4 • ⏱️ 5:46 • 4h ago
 
 ---
 
@@ -292,7 +292,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 5K • 👍 886 • 2h ago
+👁️ 5K • 👍 886 • 3h ago
 
 ---
 

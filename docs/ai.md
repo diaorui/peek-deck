@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T07:12:29.071967+00:00'
+updated: '2025-12-06T07:29:57.048972+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- social
+- repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 07:12 UTC  
+**Last Updated:** December 06, 2025 at 07:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 17h ago
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 18h ago
 
 ---
 
@@ -95,7 +95,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
 
-13h ago
+14h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 21h ago
 
 **[AI Stocks Are a Bet on the Future. Markets Are Ignoring the Now.](https://www.barrons.com/articles/ai-stocks-market-price-b6350469?gaa_at=eafs&gaa_n=AWEtsqcVtDWmQ0GGM4B2MCf0ay_HBB7HJMx34NJXvbrOjJ7gJCB8JWQe2zQh&gaa_ts=6933dac3&gaa_sig=8Rx-Qjledzz127V1447PlSKwQ6m-TYhF7c0Be64lEiuEpsQD7eliyGUSxFOibaMPnh6p44VKu6NJMiuvpzH9Ig%3D%3D)**
 
-Barron's • 12m ago
+Barron's • 29m ago
 
 ---
 
@@ -239,7 +239,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 416 • 💬 212 • 14h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 416 • 💬 212 • 15h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -263,7 +263,7 @@ Looking at actual token demand growth, infrastructure utilization, and capacity 
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 221 • 💬 130 • 5h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 221 • 💬 130 • 6h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -365,7 +365,7 @@ A poor little girl always dreamed of flying. Today, her loving Dadaji takes her 
 
 📺 AI GANESHA 
 
-👁️ 11K • ⏱️ 0:31 • 4h ago
+👁️ 11K • ⏱️ 0:31 • 5h ago
 
 ---
 
