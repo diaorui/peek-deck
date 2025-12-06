@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T19:55:17.213417+00:00'
+updated: '2025-12-06T20:22:15.115189+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 19:55 UTC  
+**Last Updated:** December 06, 2025 at 20:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 9h ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 5h ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 6h ago
 
 ---
 
@@ -85,6 +85,14 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 ---
 
+**[Metadata-Chunk Misalignment: has this happened to you?](https://www.reddit.com/r/artificial/comments/1pfyjug/metadatachunk_misalignment_has_this_happened_to/)**
+
+RAG failures often look mysterious: Relevant info appears missing, unrelated chunks show up, top-k results wobble week to week. Based on what we observed the real culprit is usually your metadata tags no longer describe the chunks you actually embedded. It usually is caused under below circumstances: Exporters change section structure Headings shift position Chunk boundaries drift after ingestion changes Metadata applied before segmentation Mixed historical snapshots in the same index When sections, headings, boundaries, metadata, index entries stop lining up, the entire retrieval layer becomes nondeterministic. Do you version your segmentation logic and metadata maps?
+
+19m ago
+
+---
+
 **[#ai | Christophe Barraud](https://www.reddit.com/r/artificial/comments/1pfwu13/ai_christophe_barraud/)**
 
 🇺🇸 Highest Number of S&P 500 Earnings Calls Citing “hashtag
@@ -99,7 +107,7 @@ https://lnkd.in/eSSM_TYR
 
 Hey all, amidst all the downsides of AI this past year - be it environmental worries, slop in music and art, AI enshittification, GPU/RAM prices increasing - I wanted to discuss about what's how WE are using AI, among a general look at changes on a larger scale. Personally, it feels like I haven't really felt a huge difference within the stuff I use which is just the basic stuff like GPT / Gemini. However, one change for me was that I've been using it for language learning which I've felt has been quite useful. On a general level, I feel like I've been seeing some practical applications that improved considerably this year compared to last years. An example I've seen recently is in health, where AI imaging can catch breast cancer way earlier and with higher accuracy. Another is in programming, where it feels like there's a huge rise in "Vibes Coding" with even sites like Bolt/v0. Now I'm not gonna pretend like I know how any of these work, but I do think it's interesting how there's a practical use for AI in these fields now. What about for you guys? Has AI gotten better or worse this year, and where did you actually feel the difference?
 
-4h ago
+5h ago
 
 ---
 
@@ -107,15 +115,7 @@ Hey all, amidst all the downsides of AI this past year - be it environmental wor
 
 AI is quietly changing the way we read. It’s not just helping us produce content—it’s sharpening our ability to sense the difference between writing that has real depth and writing that only performs depth on the surface. Many people are experiencing something like an upgrade in “content density resolution,” the ability to feel how many layers of reasoning, structure, and judgment are actually embedded in a piece of text. Before AI, we often mistook length for complexity or jargon for expertise because there was no clear baseline to compare against. Now, after encountering enough AI-generated text—with its smooth surfaces, single-layer logic, and predictable patterns—the contrast makes genuine density more visible than ever. As this contrast sharpens, reading in the AI era begins to feel like switching from 720p to 4K. Flat content is instantly recognizable. Shallow arguments reveal themselves within a few sentences. Emotional bait looks transparent instead of persuasive. At the same time, the rare instances of multi-layer reasoning, compressed insight, or non-linear structure stand out like a different species of writing. AI unintentionally trains our perception simply by presenting a vast quantity of material that shares the same low-density signature. The moment you notice that some writing “moves differently,” that it carries internal tension or layered judgment, your density resolution has already shifted. This leads to a future where the real competition in content isn’t about volume, speed, or aesthetics—it’s about layers. AI can generate endless text, but it cannot easily reproduce the structural depth of human reasoning. Even casual users now report that AI has made it easier to “see through” many posts, articles, or videos they used to find convincing. And if you can already explain—or at least feel—why certain writing hits harder, lasts longer in your mind, or seems structurally alive, it means your perception is evolving. AI may automate creation, but it is upgrading human discernment, and this perceptual shift may become one of the most significant side effects of the AI era.
 
-2h ago
-
----
-
-**[AI Slop Is Ruining Reddit for Everyone](https://www.reddit.com/r/artificial/comments/1peuwb5/ai_slop_is_ruining_reddit_for_everyone/)**
-
-Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
-
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 1d ago
+3h ago
 
 ---
 
@@ -127,35 +127,29 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqfs1_RtkcjnZpuYJ_-Ig9GtVEoUPU9eb11phy6irYs96AKmQOV5frIX&gaa_ts=69348876&gaa_sig=uERaA_dP8W1r3sdxffE_2U5tnUlhpEm4CBY2o9vTpz0wZB1StYTckXoXTrOwJsnO2lL2Uob-2arItqC6335Q8A%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqdyKXuN5ZjPXX8WvIxT1L9rYMmv9j34p-dVO7ogVnQ2BI_tce_X0hW-&gaa_ts=693493e5&gaa_sig=Cbbpg67WYsNtjUxKmWZKQSWv-xiJItcyKXQJRawjCN2jnFAe3e69liew3isWXe_k6n-lYf2nOSXDjAiclj0WXw%3D%3D)**
 
-The Wall Street Journal • 2h ago
-
----
-
-**[Anthropic's resident philosopher shares her tips to create the best AI prompts](https://www.businessinsider.com/anthropic-philosopher-amanda-askell-tips-ai-prompting-whispering-claude-2025-12)**
-
-Amanda Askell, a member of Anthropic's technical team and a trained philosopher, shared some pro-tips for getting the most of AI chatbots.
-
-Business Insider • 1h ago
+The Wall Street Journal • 3h ago
 
 ---
 
-**[Nvidia CEO says U.S. data centers take 3 years, but China 'can build a hospital in a weekend'](https://fortune.com/2025/12/06/nvidia-ceo-jensen-huang-ai-race-china-data-centers-construct-us/)**
+**[Make 2026 Resolutions Stick With Smarter, Flexible AI Help](https://www.forbes.com/sites/ronschmelzer/2025/12/06/make-2026-resolutions-stick-with-smarter-flexible-ai-help/)**
 
-China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
+AI tools available right now can analyze your schedule, energy levels, past attempts and realistic constraints to build resolutions that actually fit your life.
 
-Fortune • 1h ago
+Forbes • 15m ago
 
 ---
 
-**[AI goes from tool to teammate: Amazon Web Services SVP Colleen Aubrey on the dawn of agentic work](https://www.geekwire.com/2025/ai-goes-from-tool-to-teammate-amazon-web-services-svp-colleen-aubrey-on-the-dawn-of-agentic-work/)**
+**[‘Godfather of AI’ says Bill Gates and Elon Musk are right about the future of work—but he predicts mass unemployment is on its way](https://fortune.com/2025/12/04/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-thanks-to-big-tech-replacing-workers-with-ai-senator-bernie-sanders-bill-gates-elon-musk-predictions-probably-right/)**
 
-GeekWire • 1h ago
+While tech leaders paint a positive future where work is optional thanks to AI, the ‘Godfather of AI’ Geoffrey Hinton warns they’re “betting on AI replacing a lot of workers.”
+
+Fortune • 2d ago
 
 ---
 
@@ -177,7 +171,7 @@ The Keyword • 1d ago
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-ABC News • 9h ago
+ABC News • 10h ago
 
 ---
 
@@ -185,7 +179,7 @@ ABC News • 9h ago
 
 Today’s leading AI models can already write and refine their own software. The question is whether that self-improvement can ever snowball into true superintelligence
 
-Scientific American • 7h ago
+Scientific American • 8h ago
 
 ---
 
@@ -197,17 +191,17 @@ The Atlantic • 1d ago
 
 ---
 
+**[Jeep's AI-generated talking animals signify change in auto industry](https://www.freep.com/story/money/cars/chrysler/2025/12/06/jeep-ai-generated-marketing-campaign-ads/87217350007/)**
+
+Jeep is one of the first automakers to fully leverage AI image generation in its marketing materials.
+
+Detroit Free Press • 4h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
-
-**[Everyone in Seattle hates AI](https://news.ycombinator.com/item?id=46138952)**
-
-A post about everyone in Seattle hating AI.
-
-⬆️ 951 • 💬 1057 • 3d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
-
----
 
 **[How elites could shape mass preferences as AI reduces persuasion costs](https://news.ycombinator.com/item?id=46145180)**
 
@@ -221,7 +215,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 524 • 💬 272 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 528 • 💬 273 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -237,7 +231,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 362 • 💬 206 • 18h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 363 • 💬 209 • 19h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -261,7 +255,7 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 
 Welcome to the slop era.
 
-⬆️ 97 • 💬 177 • 1d ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
+⬆️ 97 • 💬 178 • 1d ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 
 ---
 
@@ -278,6 +272,14 @@ A live AI-driven countdown to the potential burst of the AI market bubble. Updat
 Rodents in northern Germany were spotted using two different hunting strategies at major urban bat hibernation sites
 
 ⬆️ 72 • 💬 12 • 1d ago • [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/)
+
+---
+
+**[Wall Street races to protect itself from AI bubble](https://news.ycombinator.com/item?id=46165122)**
+
+Wall Street lends billions to AI companies while using credit derivatives and sophisticated bonds to hedge against potential bubble risks.
+
+⬆️ 70 • 💬 85 • 1d ago • [Rolling Out](https://rollingout.com/2025/12/05/wall-street-protects-itself-ai-bubble/)
 
 ---
 
@@ -321,7 +323,7 @@ The race to unlock the secret to a longer life is on - and two sisters from a Ca
 
 📺 BBC News
 
-👁️ 13K • 👍 430 • 💬 182 • ⏱️ 8:08 • 10h ago
+👁️ 13K • 👍 430 • 💬 182 • ⏱️ 8:08 • 11h ago
 
 ---
 
@@ -379,7 +381,7 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Grok 4.2 is about to fli
 
 📺 Ben Esherick
 
-👁️ 32K • 👍 5K • 💬 208 • ⏱️ 0:38 • 2h ago
+👁️ 32K • 👍 5K • 💬 208 • ⏱️ 0:38 • 3h ago
 
 ---
 
@@ -395,7 +397,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,184 • 4d ago
+⬇️ 169,515 • ❤️ 2,185 • 4d ago
 
 ---
 
@@ -407,7 +409,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 18,140 • ❤️ 747 • 5d ago
+⬇️ 18,140 • ❤️ 748 • 5d ago
 
 ---
 
@@ -419,7 +421,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 4,718 • ❤️ 519 • 5d ago
+⬇️ 4,718 • ❤️ 520 • 5d ago
 
 ---
 
@@ -431,7 +433,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 349 • 1d ago
+⬇️ 20,067 • ❤️ 353 • 1d ago
 
 ---
 
@@ -443,7 +445,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,530 • ❤️ 346 • 4d ago
+⬇️ 2,530 • ❤️ 347 • 4d ago
 
 ---
 
@@ -463,7 +465,7 @@ Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million im
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 228 • 4d ago
+⬇️ 0 • ❤️ 229 • 4d ago
 
 ---
 
@@ -513,7 +515,7 @@ Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 145 • 💬 3 • ⭐ 4,794 • 9d ago
+▲ 145 • 💬 3 • ⭐ 4,976 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -591,7 +593,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 14 • 💬 0 • ⭐ 26,215 • 11mo ago
+▲ 14 • 💬 0 • ⭐ 26,244 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -632,7 +634,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 135 • 💬 2 • ⭐ 49,954 • 2mo ago
+▲ 136 • 💬 2 • ⭐ 49,954 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -648,7 +650,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.2k • 🔱 406 • 1d ago
+⭐ 5.2k • 🔱 407 • 1d ago
 
 ---
 
@@ -688,7 +690,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 889 • 🔱 106 • 7h ago
+⭐ 895 • 🔱 106 • 7h ago
 
 ---
 
@@ -698,7 +700,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 824 • 🔱 43 • 14h ago
+⭐ 825 • 🔱 43 • 14h ago
 
 ---
 
@@ -708,7 +710,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 810 • 🔱 22 • 5h ago
+⭐ 810 • 🔱 21 • 6h ago
 
 ---
 
@@ -718,7 +720,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 781 • 🔱 54 • 6d ago
+⭐ 783 • 🔱 54 • 6d ago
 
 ---
 
@@ -728,7 +730,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 732 • 🔱 14 • 17d ago
+⭐ 735 • 🔱 14 • 17d ago
 
 ---
 
@@ -738,7 +740,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 656 • 🔱 218 • 12h ago
+⭐ 662 • 🔱 221 • 13h ago
 
 ---
 

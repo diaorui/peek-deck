@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T19:55:17.221899+00:00'
+updated: '2025-12-06T20:22:15.122523+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- videos
 - social
 - cryptocurrency
-- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 19:55 UTC  
+**Last Updated:** December 06, 2025 at 20:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** -1.5%  
-**30d:** -13.9%  
-**90d:** -20.3%  
-**1y:** -10.6%  
+**24h:** +0.5%  
+**7d:** -1.2%  
+**30d:** -13.7%  
+**90d:** -20.0%  
+**1y:** -10.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1786.61B
+**Market Cap:** $1783.62B
 Rank #1
 
-**Circulating Supply:** 19,958,450 BTC
+**Circulating Supply:** 19,958,459 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.1%
+-29.0%
 
 **All-Time Low:** $67.81
-+131768.5%
++131824.5%
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s simple and beginner-friendly but I moved to Value Averaging this cycle, and the results have been way better. Most people know DCA because it’s simple: buy the same amount every week.But when you’re trying to get better prices and make the market’s volatility work for you, Value Averaging is a much stronger method. Let me show you exactly how it played out using real BTC price action from 2024–2025. Rule I Followed Every 15% drop in BTC : Buy. First Buy = $1,000 Second Buy = $2,000 Third Buy = 3000$ Continues..... BTC gave three clean 30% corrections this cycle, so this rule activated six times. Drawdown 1 — March 2024 (-30%) BTC dropped twice by 15%, so we can bought: $1,000 ( Buy 01 ) $2,000 ( Buy 02 ) Later, when BTC reached what I marked as “Top 3,” these were the gains: $1,000 → +95% = +$950 $2,000 → +131% = +$2,620 Total = $3,570 profit Drawdown 2 — December 2024 (-30%) Same plan again: $1,000 ( Buy 03 ) $2000 ( Buy 04 ) During the recovery toward Top 3, three positions were still showing: +$950 ( Buy 01 ) +$2620 ( Buy 02 ) +$330 ( Buy 03 ) +$1140 ( Buy 04 ) Total = $5,040 profit Current Drawdown — 2025 July–Oct (-30%) This is where we are right now. Two more buys triggered: Buy 05: $1,000 → currently –14% Buy 06: $2,000 → currently breakeven These are fresh buys, so it’s totally normal that they haven’t recovered yet. Total Structure 6 total buys – 3 × $1,000 – 3 × $2,000 Total invested = $9,000 Right now, even though BTC is still in a ~30% decline: Three positions remain in profit ($420 + $1,300 + $260) One is slightly negative (–$140) Two are at breakeven Overall: still profitable during a drawdown. Why This Beats DCA for Me DCA buys at every price expensive, cheap, doesn’t matter. Value Averaging waits for discounts. You buy more when BTC is cheaper Your average cost drops fast Strong assets recover and reward the early buys Drawdowns become opportunities instead of pain Your risk is distributed intelligently no guessing bottoms. no chasing tops.Just reacting to 15% dips the same way, every time. This is the whole point:
 
-6h ago
+7h ago
 
 ---
 
@@ -109,9 +109,9 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 ---
 
-**[OK, I get the pattern now.](https://www.reddit.com/r/Bitcoin/comments/1pfot4f/ok_i_get_the_pattern_now/)**
+**[They are always not ready](https://www.reddit.com/r/Bitcoin/comments/1pfvd6m/they_are_always_not_ready/)**
 
-6h ago
+2h ago
 
 ---
 
@@ -123,9 +123,9 @@ I'm sure you have all heard this a million times before but this is my story. In
 
 ---
 
-**[They are always not ready](https://www.reddit.com/r/Bitcoin/comments/1pfvd6m/they_are_always_not_ready/)**
+**[OK, I get the pattern now.](https://www.reddit.com/r/Bitcoin/comments/1pfot4f/ok_i_get_the_pattern_now/)**
 
-2h ago
+7h ago
 
 ---
 
@@ -135,11 +135,9 @@ I'm sure you have all heard this a million times before but this is my story. In
 
 ---
 
-**[Are you concerned about Bitcoin's 4-year cycle?](https://www.reddit.com/r/Bitcoin/comments/1pf7oou/are_you_concerned_about_bitcoins_4year_cycle/)**
+**[Let bitcoin fix this 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1pfsdtp/let_bitcoin_fix_this/)**
 
-I have never purchased any cryptocurrency; I am more of a stock market person, just wanted to ask the community what your thoughts are on this theory, given that it is a highly speculative asset. The thing is, the other day I did some analysis and, looking at the second image, during the 12 months leading up to the midterms, there is usually a drawdown in the S&P 500, followed by a recovery. Edit: the table was published by Longview Economics on November 28, 2025. In 2026, it seems that both things will coincide (the run-up to the midterms and the $BTC 4-year cycle theory), hence my curiosity.
-
-22h ago
+4h ago
 
 ---
 
@@ -161,9 +159,9 @@ The Economist • 2d ago
 
 ---
 
-**[MSTR Stock: Strategy, The Bitcoin Whale, Is Wall Street's Favorite Stock — By Far](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
+**[MSTR Stock: Strategy, The Bitcoin Whale, Is Wall Street's Biggest Mistake](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 2h ago
 
 ---
 
@@ -207,17 +205,15 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Popular Bitcoin company faces potential 10-year ban](https://www.thestreet.com/crypto/business/popular-bitcoin-company-faces-10-year-ban)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqdhJwwAtrjo39uk2BG2L_o9qgTtEm7ZoCzrOddoxgnjq94gwhIMKyus&gaa_ts=693493ce&gaa_sig=To8b4ss1mlQLmEDirIbSC7waoDYcXLPlmqp7JuwkIKjtGhf3HfsIAdRsdLEgNn5e7kxohMdfH3J6pJKiqTq9yA%3D%3D)**
 
-TheStreet • 1d ago
+MarketWatch • 1d ago
 
 ---
 
-**[Should You Buy Bitcoin While It's Under $100,000?](https://www.fool.com/investing/2025/12/05/should-you-buy-bitcoin-while-its-under-100000/)**
+**[Popular Bitcoin company faces potential 10-year ban](https://www.thestreet.com/crypto/business/popular-bitcoin-company-faces-10-year-ban)**
 
-Bitcoin may be down 30% from its all-time high in October, but the long-term outlook remains unchanged.
-
-The Motley Fool • 18h ago
+TheStreet • 1d ago
 
 ---
 
@@ -303,7 +299,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 17K • 👍 1K • 💬 65 • ⏱️ 48:57 • 5h ago
+👁️ 17K • 👍 1K • 💬 65 • ⏱️ 48:57 • 6h ago
 
 ---
 
@@ -333,7 +329,7 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bit
 
 📺 CNBC Television
 
-👁️ 12K • 👍 108 • 💬 153 • ⏱️ 4:01 • 23h ago
+👁️ 12K • 👍 108 • 💬 153 • ⏱️ 4:01 • 1d ago
 
 ---
 
