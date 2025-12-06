@@ -5,6 +5,16 @@
   "search_query": "bitcoin",
   "articles": [
     {
+      "headline": "Bitcoin Options Show Traders Hunkering Down for Crypto Winter",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOektJWGdWMmJ0a1FkMWZUa2ZaY3dWZGhCaE5uZ2lPdHB3R2xvX0FPMUV3enNsVGdfLUY5NDhreWpEUkhuOTVqSkpLQzBtVl80MHVzRlRUcnFVZFFXUUIxUEN4RWljWGNsYWV1OEY5SW5QU1lBUTBQQ3ppejB3cUVzZ0ozWWhsRGlWUEZRSkpBYi1jdmhOSlFpMWhtV1Y3Nl92NjdWR250VkxrWTNtZFVlM05B?oc=5",
+      "pub_date": 1764970187.0,
+      "article_url": "https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-options-show-traders-hunkering-down-for-crypto-winter",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9Ao6tC9Pe58/v0/1200x800.jpg",
+      "description": "Bitcoin options are showing that traders are betting that the largest cryptocurrency will remain mired in its current trading range in the wake of the fourth-quarter downturn that has cut more than $1 trillion in value from the digital asset market."
+    },
+    {
       "headline": "BTC price: Bitcoin is seeing a trend that hasn't happened since 2014. Here's why crypto markets are so unusual right now",
       "source": "Fast Company",
       "source_url": "https://www.fastcompany.com",
@@ -13,16 +23,6 @@
       "article_url": "https://www.fastcompany.com/91455649/bitcoin-btc-price-crypto-market-splitting-off-stock-market-trend-hasnt-happened-since-2014-why-markets-are-unusual-right-now",
       "image": null,
       "description": null
-    },
-    {
-      "headline": "Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million\u2014While Stocks Rise",
-      "source": "Decrypt",
-      "source_url": "https://decrypt.co",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQXNzYVJTYkF4QTBzOWNHNHZrM0VXZ3d0d0lxakNBMGR1NHVHemlTZWRRS3FZUXB0T2JfN3NiMy1qeUN5OTBmcEtSTC11MHBJa3JTa0F0Z2JSVWpvMjNRcUdzUVhKRHlfWS0yS0d6NVU4alF1Z2dHamR0X1hCTjhxempsU1REalhDSDY3WXFKUXZoNWs1Z21v0gGfAUFVX3lxTFBTSnJnRDdodkZfdExCUTdRTW9WbzJBYVZoZGRKNFNpZ2R3dVJZYlFMMlFiYVk1Rmc4N18xTHQxLVNLMDdnMnJvZl9hU09OSU1lMHZIcmlNWlM2bnJxYmVwaDh3R0lFcExVX3RhdjZJdWJ0NlZGQWVmcDRLeHo0dmN3Ym1YTTRnd1lTX2JrY3ozaDdPVXFyenNxQi1FOGx4Yw?oc=5",
-      "pub_date": 1764957370.0,
-      "article_url": "https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise",
-      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg",
-      "description": "Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000\u2014all while major stock indices stay green."
     },
     {
       "headline": "ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025",
@@ -88,23 +88,23 @@
       "headline": "Harvard\u2019s Big Wager on Bitcoin Came Right Before the Bust",
       "source": "The Wall Street Journal",
       "source_url": "https://www.wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQS0JEdHRwTURUU1d5SkQ2aXl6NWM3eGdBdVVOaEdqNlV4WkRlMWVpVlBtQXhtSlByNHFXYnJ2c3c2SWlUak9NVGdpNlFudWlKMjdORlZJU3BqR05ObEI3OWxYT1RwNENpZFBWbnFSdzV5NlktNVFHS2oxX0FkM2xZVGNhWm9LOFEyOFlIUmQybm9TUHpWNnJBak1hTGVPOVc5dkh5dE9vMHR6blBONHRCNWhXVGZMVHd5R1RqTnRVeVdQaVljTHVrV2FHSUpmNzZiWnoxSm5VbGJHYmNZQzlxbnEweVYtT1kwSUxISm5rdzhQVkdLTWpZVFdpaDg2bXN0THpSQU5SSlRuMUJ0MXVCbm9KZVlGclJzZzRubkQ4bWJrUU9BV2lzODU0RnM5RkxPdXRoQlNTZXRad0F0YkNzR0M1NkY5RDh3VEJtcjVQaUJUY09qQmFLT25XNFlpZFNvYmh1NUgxQlZJTXVrY2UxSHJua3JqSTl0Ymxqd19IbVh2bWJscEc3NGZJYUpVNHdfNjVTcmtDQUN3dkowTGpTaHpZWnk4bGpIZXNJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOZ3FsTmZvSlFKbkJZR0x4cTJVVlpYZFIzSWpOZGJLeS1SX2R4SFVZNXhDVVlnODd5RllSZ285Tk8zZjloMm1QZk92MENNMmk5QUpfWHJWMjFhYnF2T3c3bnh6TDgzeDZjbUVqYlVtTktzLWFjSHZYOVVmTnd6YjVybFVMOXptVnhEeVVsRVdVWFQ4U0g3WEc3OXYtai1qZFRlWUFXMFJld1ZTV2k3WEF3WXl4RS0xRDdwYkh2aGhPa0lTTWpwLVBRaDg3TFlmR2RQeC1mdU5FdjRaN1NqOWVjS3FNQ0N5azZlbE9vVEVSNk1Hbnd3TkVvaFRUa1kzOW16aVl4NHBZU0JObFdHVDRNTVc2amtTMTdPM00wbnFSZm9mc3VYR0JJVGtJSG55eXpzZ3VyNmhoOVZ2V3dwbDF4eTAzM0NvYklCTmNsSmRKb2pfOVVGc1VmOTR0TVBvZzhDdHpvSlRCTy02Y2pScGVFeE1Sd1pzbU5RVWdFbXYwYjhhaVlITlJDQkVTb2xqOEVOVjNuTlNwVk5XMjFkUHlLUmhyb2loTnRlY1R3?oc=5",
       "pub_date": 1764716700.0,
-      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqcMdhu7TWeEmzwuU7C6Z3s5K0NczOayHw3qIW_24ptdqn0X56aQTh87&gaa_ts=6933c26b&gaa_sig=fbvD7XL7LwNADdvKBhSTINwp5n12QSjE-2CVzBMs7wf-7-vk0OpEL6mVx-0egikbd7XIScml48zRQ7oYpAtQog%3D%3D",
+      "article_url": "https://www.wsj.com/us-news/education/harvards-big-wager-on-bitcoin-came-right-before-the-bust-ef80be76?gaa_at=eafs&gaa_n=AWEtsqeJY3PwyFWfUEvRaMtkglpl_nMe7cncqxbnzW3qDXJ5zwf8NdfNOKdc&gaa_ts=6933d0e1&gaa_sig=Xsw8lIDeTomKy2M9j65is5TRETi_H-0R_brknhbfHNSzfc1PbHdcZpR-6xaQlqC-j9fTHwRPM--kSxIqTNKI-w%3D%3D",
       "image": null,
       "description": null
     },
     {
-      "headline": "JPMorgan reveals new Bitcoin price if it trades like gold",
-      "source": "TheStreet",
-      "source_url": "https://www.thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM25Qc1hyb1JaWDJnNzFrUzYxSEdGZU5UZVpKNFVOeVIxRU9sYTJab1NLZXFWeWh6M2l1WUloaWZSYWhJaUhLVGRfd3FfWjkwN05BMFhXcWxtWm9VNnJMa1ZlTmNIUnR6QnlYN0dqRlZERmtjZDNDV1lVYjFjRkFBOERNaEQxZ3daQlRTcDFuenl5Z3c1OTl4MmRZOEtCRzg?oc=5",
-      "pub_date": 1764963309.0,
-      "article_url": "https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold",
-      "image": null,
-      "description": null
+      "headline": "Indiana Lawmaker Pushes for Bitcoin in Pensions, Crypto Payment Protections",
+      "source": "Decrypt",
+      "source_url": "https://decrypt.co",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmp5U3pJazEtUDlWNkIyMk1sOWZKalItLW5VUUY2OUpMLWZfNzNqQk5KTUR0ajV3aU41RnpQNTJNbkwyRWJYcGcyMkVEaFdhMmdkNU1fN3YxeEpubVByN1h5OXhjMUoyUE9ZR2F6WjBncXFpWUNGcXpCV3lDdXdIM1RZMG02cUJ4aUZ6R0NPc1o0WEx5RHJMNdIBoAFBVV95cUxONHlsLTQxcjZIaW1vZWc4ZmgzWndzRHlyYUZPNm1PNjlVdzdXUjQ4N0x3VTRoWmdwa3dRRm1QZVJIS0F4Ylp4ajd4VWI2UDVZeWdUbHNnbDRseG1pUUZYNTMybjhQSzFXMnVLblRxc2hWYTMxNWZVMzVDcldqaFo3c0F5RFBDSDJRUHlzT2QxWDNjMDg0M25GcUtWaDRPdFB4?oc=5",
+      "pub_date": 1764952811.0,
+      "article_url": "https://decrypt.co/351112/indiana-lawmaker-pushes-bitcoin-pensions-crypto-payment-protections",
+      "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/bitcoin-america-decrypt-style-02-gID_7.png",
+      "description": "A lawmaker in Indiana introduced legislation that would broaden access to Bitcoin and crypto exposure for savers in the Midwestern state."
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-06T05:28:33.150720+00:00"
+  "fetched_at": "2025-12-06T06:30:58.690563+00:00"
 }

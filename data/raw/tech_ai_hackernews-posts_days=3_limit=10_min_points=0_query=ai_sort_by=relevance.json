@@ -23,8 +23,8 @@
       "url": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
       "hn_url": "https://news.ycombinator.com/item?id=46138952",
       "author": "mips_avatar",
-      "points": 946,
-      "num_comments": 1051,
+      "points": 950,
+      "num_comments": 1052,
       "created_at": "2025-12-03T19:37:25Z",
       "object_id": "46138952",
       "image": null,
@@ -51,7 +51,7 @@
       "url": "https://arxiv.org/abs/2512.04047",
       "hn_url": "https://news.ycombinator.com/item?id=46145180",
       "author": "50kIters",
-      "points": 679,
+      "points": 681,
       "num_comments": 645,
       "created_at": "2025-12-04T08:38:17Z",
       "object_id": "46145180",
@@ -79,8 +79,8 @@
       "url": "https://blog.google/technology/developers/gemini-3-pro-vision/",
       "hn_url": "https://news.ycombinator.com/item?id=46163308",
       "author": "xnx",
-      "points": 393,
-      "num_comments": 198,
+      "points": 407,
+      "num_comments": 203,
       "created_at": "2025-12-05T16:15:10Z",
       "object_id": "46163308",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiAFVAI_Wagtial_RD1-V01.width-1300.png",
@@ -117,6 +117,20 @@
       "site_name": "Martin Alderson"
     },
     {
+      "title": "YouTube caught making AI-edits to videos and adding misleading AI summaries",
+      "url": "https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg",
+      "hn_url": "https://news.ycombinator.com/item?id=46169554",
+      "author": "mystraline",
+      "points": 212,
+      "num_comments": 127,
+      "created_at": "2025-12-06T01:15:48Z",
+      "object_id": "46169554",
+      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/07/05/Skz1mlnepO/Skz1mlnepO_1_105_1000_563_0_large.jpg",
+      "description": "Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation",
+      "favicon": "https://www.ynetnews.com/images/favicon/favicon_2.ico",
+      "site_name": "ynetglobal"
+    },
+    {
       "title": "State of AI: An Empirical 100T Token Study with OpenRouter",
       "url": "https://openrouter.ai/state-of-ai",
       "hn_url": "https://news.ycombinator.com/item?id=46154022",
@@ -129,23 +143,9 @@
       "description": "An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.",
       "favicon": "https://openrouter.ai/favicon.ico",
       "site_name": "OpenRouter"
-    },
-    {
-      "title": "YouTube caught making AI-edits to videos and adding misleading AI summaries",
-      "url": "https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg",
-      "hn_url": "https://news.ycombinator.com/item?id=46169554",
-      "author": "mystraline",
-      "points": 191,
-      "num_comments": 113,
-      "created_at": "2025-12-06T01:15:48Z",
-      "object_id": "46169554",
-      "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/07/05/Skz1mlnepO/Skz1mlnepO_1_105_1000_563_0_large.jpg",
-      "description": "Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation",
-      "favicon": "https://www.ynetnews.com/images/favicon/favicon_2.ico",
-      "site_name": "ynetglobal"
     }
   ],
   "total_hits": 559,
   "has_metadata": true,
-  "fetched_at": "2025-12-06T05:28:07.298495+00:00"
+  "fetched_at": "2025-12-06T06:30:39.071316+00:00"
 }
