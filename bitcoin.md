@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T20:38:59.174586+00:00'
+updated: '2025-12-06T20:50:24.565807+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 20:38 UTC  
+**Last Updated:** December 06, 2025 at 20:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,443.13
+### $89,560.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -1.2%  
-**30d:** -13.7%  
-**90d:** -20.1%  
-**1y:** -10.4%  
+**24h:** +0.6%  
+**7d:** -1.1%  
+**30d:** -13.6%  
+**90d:** -19.9%  
+**1y:** -10.3%  
 
 ---
 
@@ -137,7 +137,7 @@ I'm sure you have all heard this a million times before but this is my story. In
 
 **[Let bitcoin fix this 🤷‍♂️](https://www.reddit.com/r/Bitcoin/comments/1pfsdtp/let_bitcoin_fix_this/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Economist • 2d ago
 
 **[MSTR Stock: Strategy, The Bitcoin Whale, Is Wall Street's Biggest Mistake](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -201,13 +201,13 @@ Yahoo Finance • 1d ago
 
 “It’s clearly run by the syndicate."
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqdhJwwAtrjo39uk2BG2L_o9qgTtEm7ZoCzrOddoxgnjq94gwhIMKyus&gaa_ts=693493ce&gaa_sig=To8b4ss1mlQLmEDirIbSC7waoDYcXLPlmqp7JuwkIKjtGhf3HfsIAdRsdLEgNn5e7kxohMdfH3J6pJKiqTq9yA%3D%3D)**
 
-MarketWatch • 1d ago
+MarketWatch • 2d ago
 
 ---
 
@@ -275,7 +275,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 **[Market Volatility Underscores Epic Buildup of Global Risk](https://news.ycombinator.com/item?id=46126556)**
 
-⬆️ 1 • 💬 3 • 3d ago • [nytimes.com](https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html)
+⬆️ 1 • 💬 3 • 4d ago • [nytimes.com](https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html)
 
 ---
 
@@ -289,17 +289,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 10K • 👍 534 • 💬 395 • ⏱️ 9:08 • 20h ago
-
----
-
-**[Bitcoin &amp; AI Just Hit A MAJOR Inflection Point](https://www.youtube.com/watch?v=FpQ7qHwOp5U)**
-
-Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience, and he also writes a Substack ...
-
-📺 Anthony Pompliano
-
-👁️ 17K • 👍 1K • 💬 65 • ⏱️ 48:57 • 6h ago
+👁️ 10K • 👍 543 • 💬 392 • ⏱️ 9:08 • 20h ago
 
 ---
 
@@ -309,7 +299,27 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 31K • 👍 2K • 💬 434 • ⏱️ 10:23 • 1d ago
+👁️ 32K • 👍 2K • 💬 389 • ⏱️ 10:23 • 1d ago
+
+---
+
+**[Bitcoin &amp; AI Just Hit A MAJOR Inflection Point](https://www.youtube.com/watch?v=FpQ7qHwOp5U)**
+
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience, and he also writes a Substack ...
+
+📺 Anthony Pompliano
+
+👁️ 26K • 👍 2K • 💬 65 • ⏱️ 48:57 • 6h ago
+
+---
+
+**[Samson Mow: The TRUTH about What&#39;s Happening to Bitcoin&#39;s PRICE!](https://www.youtube.com/watch?v=LIqWS5were0)**
+
+Bitcoin volatility is collapsing, institutions are flooding in, and the entire market structure is changing fast. Samson Mow breaks ...
+
+📺 Simply Bitcoin
+
+👁️ 5K • 👍 362 • 💬 59 • ⏱️ 40:36 • 3h ago
 
 ---
 
@@ -319,27 +329,17 @@ After FUDing bitcoin and Strategy JP Morgan analysts are still predicting the 4 
 
 📺 Simply Bitcoin
 
-👁️ 10K • 👍 442 • 💬 68 • ⏱️ 1:34:16 • 1d ago
+👁️ 10K • 👍 444 • 💬 68 • ⏱️ 1:34:16 • 1d ago
 
 ---
 
-**[Strategy CEO: Still able to raise money in a bitcoin down cycle](https://www.youtube.com/watch?v=JWWr6s6ooVs)**
+**[BITCOIN BEAR MARKET IS DEAD! Gold&#39;s Secret Signal Confirms BULL RUN!](https://www.youtube.com/watch?v=HkCXQqkE1BE)**
 
-Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bitcoin, the long-term thesis for Strategy and much ...
+We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow grind up for a year, finally a year long mega bull ...
 
-📺 CNBC Television
+📺 Discover Crypto
 
-👁️ 12K • 👍 108 • 💬 153 • ⏱️ 4:01 • 1d ago
-
----
-
-**[Bitcoin: A Different Kind of Bear Market?](https://www.youtube.com/watch?v=5txYvyuM4uE)**
-
-Is Bitcoin in a different type of bear market? Let's discuss what a bear market may look like coming from a non-euphoric top.
-
-📺 Benjamin Cowen
-
-👁️ 105K • 👍 7K • 💬 431 • ⏱️ 15:38 • 1d ago
+👁️ 3K • 👍 252 • 💬 58 • ⏱️ 5:59 • 4h ago
 
 ---
 
@@ -349,37 +349,37 @@ As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and t
 
 📺 Swan Bitcoin
 
-👁️ 76K • 👍 3K • 💬 251 • ⏱️ 18:48 • 1d ago
+👁️ 77K • 👍 3K • 💬 252 • ⏱️ 18:48 • 1d ago
 
 ---
 
-**[Bitcoin investors...Get Ready For Inflation Numbers and the Fed!](https://www.youtube.com/watch?v=RmFwVDHzkis)**
+**[Strategy CEO: Still able to raise money in a bitcoin down cycle](https://www.youtube.com/watch?v=JWWr6s6ooVs)**
 
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bitcoin, the long-term thesis for Strategy and much ...
 
-📺 CryptosRUs
+📺 CNBC Television
 
-👁️ 33K • 👍 2K • 💬 437 • ⏱️ 10:13 • 1d ago
-
----
-
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 20K • 👍 474 • 💬 405 • ⏱️ 15:38 • 1d ago
+👁️ 12K • 👍 110 • 💬 167 • ⏱️ 4:01 • 1d ago
 
 ---
 
-**[XRP is the Next Bitcoin😨🚨](https://www.youtube.com/watch?v=gHDfJMgAsyo)**
+**[Bitcoin: A Different Kind of Bear Market?](https://www.youtube.com/watch?v=5txYvyuM4uE)**
 
-ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
+Is Bitcoin in a different type of bear market? Let's discuss what a bear market may look like coming from a non-euphoric top.
 
-📺 Crypto Cam
+📺 Benjamin Cowen
 
-👁️ 21K • 👍 778 • 💬 117 • ⏱️ 0:36 • 19h ago
+👁️ 107K • 👍 7K • 💬 435 • ⏱️ 15:38 • 1d ago
+
+---
+
+**[Every Major Bank Just Pivoted to Bitcoin… They Know What’s Coming!](https://www.youtube.com/watch?v=3rSaeVkFY4Q)**
+
+Every major economy is hitting the debt wall simultaneously. A global reset is coming—fast, systemic, and total. BlackRock ...
+
+📺 Simply Bitcoin
+
+👁️ 53K • 👍 4K • 💬 299 • ⏱️ 23:27 • 1d ago
 
 ---
 

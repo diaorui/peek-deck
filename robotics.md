@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T20:38:59.183932+00:00'
+updated: '2025-12-06T20:50:24.575100+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 20:38 UTC  
+**Last Updated:** December 06, 2025 at 20:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ Meet Octoid, the squishy robot that changes from blue to green to red.
 
 I’m an elementary school special education teacher and I’ll be coaching an after school robotics club for our 4th and 5th grade students after the new year. Whoever wants to sign up. I’ve never 1) done an after school club or 2) done anything with robotics or coding. My district is providing a day of training for it once we get back from winter break. But I’m asking you all for any tips, tricks, or suggestions! Thank you!
 
-34m ago
+45m ago
 
 ---
 
@@ -184,7 +184,7 @@ The Robot Report • 1d ago
 
 **[Classical Indian dance inspires new ways to teach robots how to use their hands](https://techxplore.com/news/2025-12-classical-indian-ways-robots.html)**
 
-Tech Xplore • 1d ago
+Tech Xplore • 2d ago
 
 ---
 
@@ -198,7 +198,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 596 • 👍 32 • 💬 4 • ⏱️ 1:03 • 4h ago
+👁️ 2K • 👍 54 • 💬 12 • ⏱️ 1:03 • 4h ago
 
 ---
 
@@ -208,7 +208,7 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 13K • 👍 286 • 💬 151 • ⏱️ 4:05 • 1d ago
+👁️ 14K • 👍 298 • 💬 154 • ⏱️ 4:05 • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 66K • 👍 525 • 💬 259 • ⏱️ 2:30 • 3d ago
+👁️ 67K • 👍 532 • 💬 264 • ⏱️ 2:30 • 3d ago
 
 ---
 
@@ -228,7 +228,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 52K • 👍 1K • 💬 283 • ⏱️ 12:07 • 20h ago
+👁️ 61K • 👍 1K • 💬 303 • ⏱️ 12:07 • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ In 2025 Silicon Valley, a next-gen AI Spider Quadruped Robot reveals a completel
 
 📺 AI Robot Lab
 
-👁️ 7K • 👍 114 • 💬 1 • ⏱️ 0:25 • 5h ago
+👁️ 10K • 👍 135 • 💬 1 • ⏱️ 0:25 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 100K • 💬 611 • ⏱️ 1:21 • 3d ago
+👁️ 100K • 💬 616 • ⏱️ 1:21 • 3d ago
 
 ---
 
@@ -260,33 +260,33 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 ---
 
-**[AI Humanoid Robot Activated in 2025 — Reacts Like a Real Human in Silicon Valley Lab](https://www.youtube.com/watch?v=bjUcx-S0-ks)**
-
-In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot and apply a breakthrough synthetic skin.
-
-📺 AI Robot Lab
-
-👁️ 112K • 👍 442 • 💬 11 • ⏱️ 0:19 • 1d ago
-
----
-
 **[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=_MgTHoFYPDs)**
 
 At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
 
 📺 Humanoid Robot 🤖
 
-👁️ 98K • 👍 497 • 💬 5 • ⏱️ 0:19 • 1d ago
+👁️ 99K • 👍 502 • 💬 5 • ⏱️ 0:19 • 1d ago
 
 ---
 
-**[ChatGPT in a real robot does what experts warned.](https://www.youtube.com/watch?v=byQmJ9x0RWA)**
+**[AI Humanoid Robot Activated in 2025 — Reacts Like a Real Human in Silicon Valley Lab](https://www.youtube.com/watch?v=bjUcx-S0-ks)**
 
-Chat GPT inside a robot. Can we trust AI? Use code insideai at https://incogni.com/insideai to get an exclusive 60% off Please ...
+In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot and apply a breakthrough synthetic skin.
 
-📺 InsideAI
+📺 AI Robot Lab
 
-👁️ 615K • 👍 25K • 💬 3K • ⏱️ 14:58 • 6d ago
+👁️ 113K • 👍 453 • 💬 12 • ⏱️ 0:19 • 1d ago
+
+---
+
+**[Viral Art Exhibit Shows Musk, Zuckerberg and Bezos as Creepy Robot Dogs](https://www.youtube.com/watch?v=tFfR0uQXl7w)**
+
+Famed artist Beeple's newest spectacle, “Regular Animals,” has billionaire-tech-titan robot dogs pooping out NFTs, stopping ...
+
+📺 New York Post
+
+👁️ 7K • 👍 116 • 💬 78 • ⏱️ 2:06 • 1d ago
 
 ---
 

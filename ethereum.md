@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T20:38:59.180671+00:00'
+updated: '2025-12-06T20:50:24.571877+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 20:38 UTC  
+**Last Updated:** December 06, 2025 at 20:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.7%  
+**24h:** +0.8%  
 **7d:** +1.6%  
 **30d:** -11.5%  
 **90d:** -29.5%  
@@ -96,7 +96,7 @@ Teranode from Craig Wright who it has been known since 2015 was Satoshi is scali
 
 My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 15h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 16h ago
 
 ---
 
@@ -232,23 +232,33 @@ AMBCrypto • 4h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee Has Gone Insane (ethereum).](https://www.youtube.com/watch?v=ufxKb5GmsSg)**
-
-LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
-
-📺 Altcoin Daily
-
-👁️ 91K • 👍 5K • 💬 482 • ⏱️ 11:16 • 1d ago
-
----
-
 **[ETH Ethereum Indicators Suggest Massive PUMP Incoming](https://www.youtube.com/watch?v=kUvROUeb6ac)**
 
 Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
 📺 C-Zar Gets Crypto 
 
-👁️ 131 • 👍 17 • 💬 23 • ⏱️ 12:08 • 3h ago
+👁️ 252 • 👍 26 • 💬 24 • ⏱️ 12:08 • 3h ago
+
+---
+
+**[Tom Lee Has Gone Insane (ethereum).](https://www.youtube.com/watch?v=ufxKb5GmsSg)**
+
+LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
+
+📺 Altcoin Daily
+
+👁️ 93K • 👍 5K • 💬 483 • ⏱️ 11:16 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=upL0gqEO3HQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 117 • 💬 7 • ⏱️ 5:03 • 3h ago
 
 ---
 
@@ -258,17 +268,17 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 43K • 👍 2K • 💬 144 • ⏱️ 17:37 • 2d ago
+👁️ 44K • 👍 2K • 💬 144 • ⏱️ 17:37 • 2d ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN REVERSAL LOADING... (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=iePIlGVy0ls)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=dCPiEWlAbHo)**
 
-BITCOIN & ALTCOIN REVERSAL LOADING... (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 Crypto World
+📺 Catherine's place
 
-👁️ 7K • 👍 345 • 💬 156 • ⏱️ 21:34 • 9h ago
+👁️ 37K • 👍 3K • 5h ago
 
 ---
 
@@ -278,27 +288,17 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 89K • 👍 3K • 💬 489 • ⏱️ 27:33 • 2d ago
+👁️ 90K • 👍 3K • 💬 485 • ⏱️ 27:33 • 2d ago
 
 ---
 
-**[BREAKING : ETH to $22K - Ethereum Fusaka Upgrade!](https://www.youtube.com/watch?v=y_aYcH8fwrQ)**
+**[BITCOIN &amp; ALTCOIN REVERSAL LOADING... (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=iePIlGVy0ls)**
 
-The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was designed to in ways that improve scalability, ...
+BITCOIN & ALTCOIN REVERSAL LOADING... (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
 
-📺 Altcoin Buzz
+📺 Crypto World
 
-👁️ 3K • 👍 146 • 💬 197 • ⏱️ 9:21 • 1d ago
-
----
-
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 20K • 👍 474 • 💬 405 • ⏱️ 15:38 • 1d ago
+👁️ 8K • 👍 371 • 💬 155 • ⏱️ 21:34 • 10h ago
 
 ---
 
@@ -308,27 +308,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 166 • 💬 16 • ⏱️ 5:46 • 17h ago
+👁️ 3K • 👍 167 • 💬 10 • ⏱️ 5:46 • 17h ago
 
 ---
 
-**[The &quot;Sovereign&quot; Secret: The US Govt&#39;s 60,000 ETH Stash (They Aren&#39;t Selling)](https://www.youtube.com/watch?v=LDK8imAvRAk)**
+**[SUPER CRYPTO 2026 ALPHA WHAT BIG MONEY IS DOING BITCOIN AND ETHEREUM ONLY ](https://www.youtube.com/watch?v=5DBhFTv_Fvw)**
 
-The "Sovereign" Secret: The US Govt's 60000 ETH Stash Everyone is talking about the "Strategic Bitcoin Reserve." But they are ...
+SECRET CRYPTO 2026 ALPHA WHAT BIG MONEY IS DOING Support The O Show with Ref Links: ✨ Learn more about the ...
 
-📺 Wall Street Stockcast
+📺 CryptoWendyO
 
-👁️ 289 • 👍 15 • 💬 1 • ⏱️ 7:40 • 8h ago
+👁️ 1K • 👍 200 • 💬 5 • ⏱️ 8:01 • 2h ago
 
 ---
 
-**[🚨🇺🇸  ETH Price TODAY!!! | MASSIVE Bets on Ethereum!! 👀](https://www.youtube.com/watch?v=K2iD6ZbNQIw)**
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
 
-Real-time crypto analysis — join my VIP Telegram.
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
 
-📺 Marzell Crypto
+📺 Library Of Wealth
 
-👁️ 2K • 👍 38 • 💬 133 • ⏱️ 5:24 • 1d ago
+👁️ 20K • 👍 481 • 💬 404 • ⏱️ 15:38 • 1d ago
 
 ---
 

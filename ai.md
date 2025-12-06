@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T20:38:59.166185+00:00'
+updated: '2025-12-06T20:50:24.557325+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- videos
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 20:38 UTC  
+**Last Updated:** December 06, 2025 at 20:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 … and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
 
-4h ago
+5h ago
 
 ---
 
@@ -73,7 +73,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
 
-🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 2h ago
+🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 3h ago
 
 ---
 
@@ -89,7 +89,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 RAG failures often look mysterious: Relevant info appears missing, unrelated chunks show up, top-k results wobble week to week. Based on what we observed the real culprit is usually your metadata tags no longer describe the chunks you actually embedded. It usually is caused under below circumstances: Exporters change section structure Headings shift position Chunk boundaries drift after ingestion changes Metadata applied before segmentation Mixed historical snapshots in the same index When sections, headings, boundaries, metadata, index entries stop lining up, the entire retrieval layer becomes nondeterministic. Do you version your segmentation logic and metadata maps?
 
-36m ago
+47m ago
 
 ---
 
@@ -141,7 +141,7 @@ The Wall Street Journal • 3h ago
 
 AI tools available right now can analyze your schedule, energy levels, past attempts and realistic constraints to build resolutions that actually fit your life.
 
-Forbes • 32m ago
+Forbes • 43m ago
 
 ---
 
@@ -287,13 +287,23 @@ Wall Street lends billions to AI companies while using credit derivatives and so
 
 ## YouTube Videos: "ai"
 
-**[I Bought Ai SCAM Products to see what shows up](https://www.youtube.com/watch?v=q9IrO-A4x4Y)**
+**[Can AI crack the process of aging? | BBC News](https://www.youtube.com/watch?v=yRDek-pGcwE)**
 
-Thank you to Disney Dreamlight Valley for sponsoring this video! Click here to start your own adventure ...
+The race to unlock the secret to a longer life is on - and two sisters from a Cambridge start-up might be closer than anyone else.
 
-📺 HopeScope
+📺 BBC News
 
-👁️ 171K • 👍 11K • 💬 833 • ⏱️ 34:23 • 5h ago
+👁️ 14K • 👍 465 • 💬 197 • ⏱️ 8:08 • 11h ago
+
+---
+
+**[I Recreated Impossible AI Foods](https://www.youtube.com/watch?v=wJHRAXKdqZM)**
+
+subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianBlack @zealous @KingSammelot ...
+
+📺 yikes
+
+👁️ 50K • 👍 4K • 💬 759 • ⏱️ 21:06 • 4h ago
 
 ---
 
@@ -303,27 +313,17 @@ AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments w
 
 📺 The Diary Of A CEO
 
-👁️ 806K • 👍 19K • 💬 4K • ⏱️ 2:04:06 • 2d ago
+👁️ 820K • 👍 19K • 💬 4K • ⏱️ 2:04:06 • 2d ago
 
 ---
 
-**[The AI pressure cooker: OpenAI, Nvidia and Google all on the move](https://www.youtube.com/watch?v=BYnTk3l6sfs)**
+**[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
 
-From Capitol Hill to the back of an Uber in Dubai — this week showed just how much pressure the AI race is under. OpenAI's Sam ...
+Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
 
-📺 CNBC Television
+📺 Future of Life Institute
 
-👁️ 21K • 👍 227 • 💬 28 • ⏱️ 22:41 • 21h ago
-
----
-
-**[Can AI crack the process of aging? | BBC News](https://www.youtube.com/watch?v=yRDek-pGcwE)**
-
-The race to unlock the secret to a longer life is on - and two sisters from a Cambridge start-up might be closer than anyone else.
-
-📺 BBC News
-
-👁️ 13K • 👍 430 • 💬 182 • ⏱️ 8:08 • 11h ago
+👁️ 28K • 👍 1K • 💬 537 • ⏱️ 15:40 • 2d ago
 
 ---
 
@@ -333,17 +333,17 @@ Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the
 
 📺 End Times Productions
 
-👁️ 107K • 👍 7K • 💬 2K • ⏱️ 34:02 • 1d ago
+👁️ 109K • 👍 7K • 💬 2K • ⏱️ 34:02 • 1d ago
 
 ---
 
-**[Ronny Chieng Investigates the Promises of AI, the Most Expensive Circle Jerk Ever | The Daily Show](https://www.youtube.com/watch?v=RcPthlvzMY8)**
+**[The AI pressure cooker: OpenAI, Nvidia and Google all on the move](https://www.youtube.com/watch?v=BYnTk3l6sfs)**
 
-Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford of the Institute for AI Policy and Strategy to ...
+From Capitol Hill to the back of an Uber in Dubai — this week showed just how much pressure the AI race is under. OpenAI's Sam ...
 
-📺 The Daily Show
+📺 CNBC Television
 
-👁️ 757K • 👍 17K • 💬 993 • ⏱️ 4:58 • 2d ago
+👁️ 23K • 👍 240 • 💬 30 • ⏱️ 22:41 • 21h ago
 
 ---
 
@@ -353,7 +353,7 @@ The past few days pushed AI in every direction at once. OpenAI quietly tested a 
 
 📺 AI Revolution
 
-👁️ 55K • 👍 1K • 💬 81 • ⏱️ 17:26 • 2d ago
+👁️ 56K • 👍 1K • 💬 81 • ⏱️ 17:26 • 2d ago
 
 ---
 
@@ -363,25 +363,27 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 52K • 👍 1K • 💬 283 • ⏱️ 12:07 • 20h ago
+👁️ 61K • 👍 1K • 💬 303 • ⏱️ 12:07 • 20h ago
 
 ---
 
-**[Grok 4.2: Elon Musk’s Most Powerful AI Model Yet](https://www.youtube.com/watch?v=jev8--FbvBg)**
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=6DIFQm4MXYI)**
 
-Join the BitBiased AI newsletter: https://bitbiased.ai/ Grok 4.2 is about to flip the AI world upside down. Elon Musk's xAI team is ...
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
 
-📺 BitBiasedAI
+📺 Impossible AIs
 
-👁️ 13K • 👍 365 • 💬 39 • ⏱️ 15:14 • 1d ago
+👁️ 560K • 👍 2K • 💬 69 • ⏱️ 8:09 • 2d ago
 
 ---
 
-**[Google’s new AI is SCARY](https://www.youtube.com/watch?v=costtl_9kDE)**
+**[AI Has Gone Too Far](https://www.youtube.com/watch?v=CTF73mW8kcE)**
 
-📺 Ben Esherick
+Another heaping of AI Slop, this time involving Franklin the Turtle, Japanese game developers and the blatant copyright abuse of ...
 
-👁️ 32K • 👍 5K • 💬 208 • ⏱️ 0:38 • 3h ago
+📺 Dolan Darkest
+
+👁️ 255K • 👍 14K • 💬 2K • ⏱️ 2:28 • 1d ago
 
 ---
 
@@ -700,7 +702,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 825 • 🔱 43 • 14h ago
+⭐ 825 • 🔱 43 • 15h ago
 
 ---
 
