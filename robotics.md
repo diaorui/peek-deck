@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T19:33:27.978322+00:00'
+updated: '2025-12-06T19:44:09.997645+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 19:33 UTC  
+**Last Updated:** December 06, 2025 at 19:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,13 +58,13 @@ Zhongqing CEO Receives the Challenge of T800
 
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
 
-23m ago
+33m ago
 
 ---
 
 **[Robot dance Arduino](https://www.reddit.com/r/robotics/comments/1pfijsr/robot_dance_arduino/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -228,7 +228,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 52K • 👍 1K • 💬 283 • ⏱️ 12:07 • 18h ago
+👁️ 52K • 👍 1K • 💬 283 • ⏱️ 12:07 • 19h ago
 
 ---
 
@@ -238,7 +238,7 @@ In 2025 Silicon Valley, a next-gen AI Spider Quadruped Robot reveals a completel
 
 📺 AI Robot Lab
 
-👁️ 7K • 👍 114 • 💬 1 • ⏱️ 0:25 • 4h ago
+👁️ 7K • 👍 114 • 💬 1 • ⏱️ 0:25 • 5h ago
 
 ---
 

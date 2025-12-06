@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T19:33:27.960440+00:00'
+updated: '2025-12-06T19:44:09.980107+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 19:33 UTC  
+**Last Updated:** December 06, 2025 at 19:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
 
-🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 1h ago
+🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 2h ago
 
 ---
 
@@ -91,7 +91,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 #AI” Over The Past 10 Years - Factset
 https://lnkd.in/eSSM_TYR
 
-🔗 [linkedin.com](https://www.linkedin.com/posts/christophe-barraud-68870620_ai-activity-7403103677776883713-pP17?utm_medium%3Dios_app%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4%26utm_source%3Dsocial_share_send%26utm_campaign%3Dshare_via) • 41m ago
+🔗 [linkedin.com](https://www.linkedin.com/posts/christophe-barraud-68870620_ai-activity-7403103677776883713-pP17?utm_medium%3Dios_app%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4%26utm_source%3Dsocial_share_send%26utm_campaign%3Dshare_via) • 52m ago
 
 ---
 
@@ -141,7 +141,7 @@ The Wall Street Journal • 2h ago
 
 Amanda Askell, a member of Anthropic's technical team and a trained philosopher, shared some pro-tips for getting the most of AI chatbots.
 
-Business Insider • 51m ago
+Business Insider • 1h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Atlantic • 1d ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 951 • 💬 1057 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 951 • 💬 1057 • 3d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -311,7 +311,7 @@ From Capitol Hill to the back of an Uber in Dubai — this week showed just how 
 
 📺 CNBC Television
 
-👁️ 21K • 👍 227 • 💬 28 • ⏱️ 22:41 • 19h ago
+👁️ 21K • 👍 227 • 💬 28 • ⏱️ 22:41 • 20h ago
 
 ---
 
@@ -361,7 +361,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 52K • 👍 1K • 💬 283 • ⏱️ 12:07 • 18h ago
+👁️ 52K • 👍 1K • 💬 283 • ⏱️ 12:07 • 19h ago
 
 ---
 

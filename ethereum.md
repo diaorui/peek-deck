@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T19:33:27.975029+00:00'
+updated: '2025-12-06T19:44:09.994451+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - videos
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 19:33 UTC  
+**Last Updated:** December 06, 2025 at 19:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -96,7 +96,7 @@ Teranode from Craig Wright who it has been known since 2015 was Satoshi is scali
 
 My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 14h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 15h ago
 
 ---
 
