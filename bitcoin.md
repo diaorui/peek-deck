@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T18:47:34.806257+00:00'
+updated: '2025-12-06T18:58:36.410632+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- social
 - cryptocurrency
 - videos
-- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 18:47 UTC  
+**Last Updated:** December 06, 2025 at 18:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -1.0%  
-**30d:** -13.5%  
-**90d:** -19.9%  
-**1y:** -10.2%  
+**24h:** +0.0%  
+**7d:** -0.8%  
+**30d:** -13.4%  
+**90d:** -19.8%  
+**1y:** -10.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1791.45B
+**Market Cap:** $1788.17B
 Rank #1
 
-**Circulating Supply:** 19,958,421 BTC
+**Circulating Supply:** 19,958,450 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.8%
+-28.9%
 
 **All-Time Low:** $67.81
-+132235.9%
++132069.3%
 
 ---
 
@@ -131,7 +131,7 @@ I'm sure you have all heard this a million times before but this is my story. In
 
 **[They are always not ready](https://www.reddit.com/r/Bitcoin/comments/1pfvd6m/they_are_always_not_ready/)**
 
-54m ago
+1h ago
 
 ---
 
@@ -155,53 +155,15 @@ Bloomberg.com • 12h ago
 
 ---
 
-**[MSTR Stock: Strategy, The Bitcoin Whale, Is Wall Street's Favorite Stock — By Far](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
-
-Investor's Business Daily • 4h ago
-
----
-
-**[Analyst cuts 60% price target for popular Bitcoin stock](https://www.thestreet.com/crypto/markets/analyst-cuts-60-price-target-for-popular-bitcoin-stock)**
-
-TheStreet • 1d ago
-
----
-
-**[Jim Cramer Notes Strategy’s Transformation into a “Bitcoin Accumulation Machine Fueled by Borrowed Money”](https://finance.yahoo.com/news/jim-cramer-notes-strategy-transformation-034534866.html)**
-
-Strategy Inc (NASDAQ:MSTR) is one of the stocks Jim Cramer recently looked at. Cramer mentioned the stock during the episode and said: “In this business, nothing’s harder than spotting bottoms… What matters the most here is not Bitcoin itself, but a company called Strategy run by Michael Saylor, a Bitcoin evangelist who’s adopted what I […]
-
-Yahoo Finance • 1d ago
-
----
-
-**[Professor Coin: When Bitcoin Sneezes—How Crypto and Equities Caught the Same Cold](https://finance.yahoo.com/news/professor-coin-bitcoin-sneezes-crypto-150102611.html)**
-
-Academic literature finds that during periods of economic stress, correlations and spillovers between cryptocurrencies and equities spike.
-
-Yahoo Finance • 3h ago
-
----
-
-**[DigitalBridge, Sezzle jump, American Bitcoin, WRB slide: week's financials wrap](https://seekingalpha.com/news/4529092-digitalbridge-sezzle-jump-american-bitcoin-wrb-slide-weeks-financials-wrap)**
-
-Please provide the article text so I can generate an SEO-friendly meta description for you.
-
-Seeking Alpha • 3h ago
-
----
-
-**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
-
-In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
-
-CNBC • 2d ago
-
----
-
 **[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
 The Economist • 2d ago
+
+---
+
+**[MSTR Stock: Strategy, The Bitcoin Whale, Is Wall Street's Favorite Stock — By Far](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
+
+Investor's Business Daily • 4h ago
 
 ---
 
@@ -213,11 +175,47 @@ CNBC • 2d ago
 
 ---
 
-**[Bitcoin’s biggest booster Michael Saylor fights to stave off an $8 billion collapse and being the first major crypto domino to fall](https://finance.yahoo.com/news/bitcoin-biggest-booster-michael-saylor-164836645.html)**
+**[Bitcoin Is Set for First Yearly Split From Stocks in Decade](https://finance.yahoo.com/news/bitcoin-set-first-yearly-split-141041017.html)**
 
-A rule change could force Saylor's company to sell some of its $650 billion holdings—but crypto veterans say Strategy will be just fine.
+The digital asset has rarely deviated so cleanly from other risk assets even during past crypto winters.  Earlier this year, Bitcoin notched a record high above $126,000.  Bitcoin appears to be ending the week on a down note, dropping as much as 4.4% to $88,135 on Friday.
 
-Yahoo Finance • 3d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[DigitalBridge, Sezzle jump, American Bitcoin, WRB slide: week's financials wrap](https://seekingalpha.com/news/4529092-digitalbridge-sezzle-jump-american-bitcoin-wrb-slide-weeks-financials-wrap)**
+
+Please provide the article text so I can generate an SEO-friendly meta description for you.
+
+Seeking Alpha • 3h ago
+
+---
+
+**[Those Sky-High Bitcoin Prices Everyone Said Were Here to Stay? They Left.](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)**
+
+The New York Times • 3d ago
+
+---
+
+**[Should You Buy Bitcoin While It's Under $100,000?](https://www.fool.com/investing/2025/12/05/should-you-buy-bitcoin-while-its-under-100000/)**
+
+Bitcoin may be down 30% from its all-time high in October, but the long-term outlook remains unchanged.
+
+The Motley Fool • 17h ago
+
+---
+
+**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
+
+TheStreet • 23h ago
+
+---
+
+**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
+
+JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
+
+Business Insider • 2d ago
 
 ---
 
@@ -383,7 +381,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Crypto Cam
 
-👁️ 21K • 👍 778 • 💬 117 • ⏱️ 0:36 • 17h ago
+👁️ 21K • 👍 778 • 💬 117 • ⏱️ 0:36 • 18h ago
 
 ---
 

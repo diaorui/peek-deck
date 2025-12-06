@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T18:47:34.797873+00:00'
+updated: '2025-12-06T18:58:36.402190+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- videos
 - social
+- repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 18:47 UTC  
+**Last Updated:** December 06, 2025 at 18:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,14 +61,6 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 ---
 
-**[Just used Gemini for a solo DND session…](https://www.reddit.com/r/artificial/comments/1pfscbo/just_used_gemini_for_a_solo_dnd_session/)**
-
-… and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
-
-3h ago
-
----
-
 **[How are Americans using AI? Evidence from a nationwide survey | Brookings](https://www.reddit.com/r/artificial/comments/1pfv1kr/how_are_americans_using_ai_evidence_from_a/)**
 
 Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
@@ -81,7 +73,25 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 12h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 13h ago
+
+---
+
+**[Just used Gemini for a solo DND session…](https://www.reddit.com/r/artificial/comments/1pfscbo/just_used_gemini_for_a_solo_dnd_session/)**
+
+… and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
+
+3h ago
+
+---
+
+**[#ai | Christophe Barraud](https://www.reddit.com/r/artificial/comments/1pfwu13/ai_christophe_barraud/)**
+
+🇺🇸 Highest Number of S&P 500 Earnings Calls Citing “hashtag
+#AI” Over The Past 10 Years - Factset
+https://lnkd.in/eSSM_TYR
+
+🔗 [linkedin.com](https://www.linkedin.com/posts/christophe-barraud-68870620_ai-activity-7403103677776883713-pP17?utm_medium%3Dios_app%26rcm%3DACoAAAHBpPUBz5vsJIG9ZEW1Pj1iuALxjrpN7f4%26utm_source%3Dsocial_share_send%26utm_campaign%3Dshare_via) • 6m ago
 
 ---
 
@@ -97,7 +107,7 @@ Hey all, amidst all the downsides of AI this past year - be it environmental wor
 
 AI is quietly changing the way we read. It’s not just helping us produce content—it’s sharpening our ability to sense the difference between writing that has real depth and writing that only performs depth on the surface. Many people are experiencing something like an upgrade in “content density resolution,” the ability to feel how many layers of reasoning, structure, and judgment are actually embedded in a piece of text. Before AI, we often mistook length for complexity or jargon for expertise because there was no clear baseline to compare against. Now, after encountering enough AI-generated text—with its smooth surfaces, single-layer logic, and predictable patterns—the contrast makes genuine density more visible than ever. As this contrast sharpens, reading in the AI era begins to feel like switching from 720p to 4K. Flat content is instantly recognizable. Shallow arguments reveal themselves within a few sentences. Emotional bait looks transparent instead of persuasive. At the same time, the rare instances of multi-layer reasoning, compressed insight, or non-linear structure stand out like a different species of writing. AI unintentionally trains our perception simply by presenting a vast quantity of material that shares the same low-density signature. The moment you notice that some writing “moves differently,” that it carries internal tension or layered judgment, your density resolution has already shifted. This leads to a future where the real competition in content isn’t about volume, speed, or aesthetics—it’s about layers. AI can generate endless text, but it cannot easily reproduce the structural depth of human reasoning. Even casual users now report that AI has made it easier to “see through” many posts, articles, or videos they used to find convincing. And if you can already explain—or at least feel—why certain writing hits harder, lasts longer in your mind, or seems structurally alive, it means your perception is evolving. AI may automate creation, but it is upgrading human discernment, and this perceptual shift may become one of the most significant side effects of the AI era.
 
-1h ago
+2h ago
 
 ---
 
@@ -109,23 +119,9 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 ---
 
-**[Why Does A.I. Write Like … That?](https://www.reddit.com/r/artificial/comments/1pfoe5z/why_does_ai_write_like_that/)**
-
-If you use AI for writing, have you found a way for it to capture your voice so that the output doesn’t sound like it was written by artificial intelligence?
-
-🔗 [nytimes.com](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html?smid%3Dnytcore-ios-share) • 6h ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqdIWWi1PlKA4syDVEiUHACzSPV_WjOxskf0KsaNmZE2kFLJAHWQ415_&gaa_ts=69347867&gaa_sig=MSC9-BYLTUCcfMFCLK_OiWF4-ULDNMLTbt9882VnKzankcLb0ARceEvjjOwPzKYV2vJwr1WJorUCSux1jhlfYQ%3D%3D)**
-
-The Wall Street Journal • 1h ago
-
----
 
 **[Artificial intelligence research has a slop problem, academics say: ‘It’s a mess’](https://www.theguardian.com/technology/2025/dec/06/ai-research-papers)**
 
@@ -135,11 +131,31 @@ The Guardian • 3h ago
 
 ---
 
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqePXA7YGWF83_ouoo1sXUeuj7Qe8aPCMQC17WGvX9cuoQqy3B0ix4bq&gaa_ts=69348047&gaa_sig=xIxTHRTEJ867eDJkfOaakgv9O6OzkxRhMe57L7xqLEOzgNEpH03k-yd-oe8yxNQ2UXAqh5ELvR6DxhtfQ21EEg%3D%3D)**
+
+The Wall Street Journal • 1h ago
+
+---
+
+**[Anthropic's resident philosopher shares her tips to create the best AI prompts](https://www.businessinsider.com/anthropic-philosopher-amanda-askell-tips-ai-prompting-whispering-claude-2025-12)**
+
+Amanda Askell, a member of Anthropic's technical team and a trained philosopher, shared some pro-tips for getting the most of AI chatbots.
+
+Business Insider • 16m ago
+
+---
+
+**[AI goes from tool to teammate: Amazon Web Services SVP Colleen Aubrey on the dawn of agentic work](https://www.geekwire.com/2025/ai-goes-from-tool-to-teammate-amazon-web-services-svp-colleen-aubrey-on-the-dawn-of-agentic-work/)**
+
+GeekWire • 35m ago
+
+---
+
 **[Nvidia CEO says U.S. data centers take 3 years, but China 'can build a hospital in a weekend'](https://fortune.com/2025/12/06/nvidia-ceo-jensen-huang-ai-race-china-data-centers-construct-us/)**
 
 China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
 
-Fortune • 34m ago
+Fortune • 45m ago
 
 ---
 
@@ -181,22 +197,6 @@ The Atlantic • 1d ago
 
 ---
 
-**[Meta acquiring AI wearable company Limitless](https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html)**
-
-Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
-
-CNBC • 23h ago
-
----
-
-**[Meta buys AI pendant start-up Limitless to expand hardware push](https://www.ft.com/content/a1a7adab-506e-4623-8f7a-0b7c94c8d6b4)**
-
-Deal indicates Zuckerberg is exploring other types of artificial intelligence-powered devices beyond smart glasses
-
-Financial Times • 20h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -213,7 +213,7 @@ A post about everyone in Seattle hating AI.
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 690 • 💬 653 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 691 • 💬 654 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -221,7 +221,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 519 • 💬 267 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 522 • 💬 267 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -229,7 +229,7 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 431 • 💬 333 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 432 • 💬 333 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -245,7 +245,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 248 • 💬 203 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 248 • 💬 204 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
@@ -371,7 +371,7 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Grok 4.2 is about to fli
 
 📺 BitBiasedAI
 
-👁️ 13K • 👍 365 • 💬 39 • ⏱️ 15:14 • 23h ago
+👁️ 13K • 👍 365 • 💬 39 • ⏱️ 15:14 • 1d ago
 
 ---
 
@@ -379,7 +379,7 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Grok 4.2 is about to fli
 
 📺 Ben Esherick
 
-👁️ 32K • 👍 5K • 💬 208 • ⏱️ 0:38 • 1h ago
+👁️ 32K • 👍 5K • 💬 208 • ⏱️ 0:38 • 2h ago
 
 ---
 
@@ -395,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,181 • 4d ago
+⬇️ 169,515 • ❤️ 2,182 • 4d ago
 
 ---
 
@@ -407,7 +407,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 18,140 • ❤️ 746 • 5d ago
+⬇️ 18,140 • ❤️ 747 • 5d ago
 
 ---
 
@@ -431,7 +431,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 347 • 1d ago
+⬇️ 20,067 • ❤️ 348 • 1d ago
 
 ---
 
@@ -475,7 +475,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 196,425 • ❤️ 908 • 9d ago
+⬇️ 196,425 • ❤️ 909 • 9d ago
 
 ---
 
@@ -625,17 +625,16 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 ---
 
-**[WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://huggingface.co/papers/2306.08568)**
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
-*Ziyang Luo, Can Xu, Pu Zhao et al. (10 authors)*
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
 
-🏢 Microsoft
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct, outperforms other open-source and closed LLMs on several code generation benchmarks.
+▲ 135 • 💬 2 • ⭐ 49,954 • 2mo ago
 
-▲ 31 • 💬 2 • ⭐ 9,470 • 30mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2306.08568) • [💻 code](https://github.com/nlpxucan/WizardLM)
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -689,7 +688,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 885 • 🔱 105 • 6h ago
+⭐ 889 • 🔱 106 • 6h ago
 
 ---
 
@@ -719,7 +718,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 780 • 🔱 54 • 6d ago
+⭐ 781 • 🔱 54 • 6d ago
 
 ---
 
@@ -729,7 +728,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 731 • 🔱 14 • 17d ago
+⭐ 732 • 🔱 14 • 17d ago
 
 ---
 
@@ -739,7 +738,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 653 • 🔱 218 • 11h ago
+⭐ 656 • 🔱 218 • 11h ago
 
 ---
 
