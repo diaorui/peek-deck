@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T21:41:45.211433+00:00'
+updated: '2025-12-06T21:52:22.306083+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 21:41 UTC  
+**Last Updated:** December 06, 2025 at 21:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -240,7 +240,7 @@ In 2025 Silicon Valley, a next-gen AI Spider Quadruped Robot reveals a completel
 
 📺 AI Robot Lab
 
-👁️ 10K • 👍 135 • 💬 1 • ⏱️ 0:25 • 6h ago
+👁️ 10K • 👍 135 • 💬 1 • ⏱️ 0:25 • 7h ago
 
 ---
 

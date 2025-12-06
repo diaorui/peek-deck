@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T21:41:45.208134+00:00'
+updated: '2025-12-06T21:52:22.302786+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 21:41 UTC  
+**Last Updated:** December 06, 2025 at 21:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is Part Seven of the eight-part series: Can I Pay With This: A stablecoin experiment in Buenos Aires. Thank you to the Ethereum Foundation and the EV Mavericks for their support, without which this experiment could never have happened. Table of Contents Part One: Decentralized or Destitute <-- New? Start here. Money, monkeys and mild terror Part Two: First Contact with Reality KYC on a hostel bunk bed Part Three: WE ACCEPT BITCOIN (sort of) Worst title for an Ethereum subreddit ever Part Four: Eighteen Ways to Pay for Ice Cream Stablecoins, FX hell and a missing keyboard Part Five: Going Bankless From tourist shop hack to cueva contact Part Six: Trustless, My Ass Trading with the Blue Man Custodial Services <-- You are here Having successfully beaten my Decentralized or Destitute challenge with my dignity mostly intact, I consider fleeing Buenos Aires before Microcentro rewires my nervous system. I'm dangerously close to falling in love with the city but that might just be a side effect of the long-term exposure to exhaust and capybara memes. I find a cheap flight to Jujuy. My brain floods with visions of hiking in the Andes with my pockets full of pesos. I'll drink some wine, I'll pet a llama, maybe I'll even do some writing. But traditional finance fails me. The airline refuses my cards. All of them. Cryptocards, debit cards, credit card from a reputable European bank. Declined and denied with a vague error and a customer service bot which repeatedly tells me that foreign cards are not a problem and I should check that I entered my card details correctly. I have half a dozen new apps on my phone to pay with stablecoins. I've gone through the KYC and been accepted for most of them, so that I can test them one-by-one. Mostly they work well. I don't even need to put money in them in advance; once I know what I want to buy, I can quickly move stablecoins into the app and they appear immediately. But the apps are no use to me for paying for online purchases; I need a person with a terminal generating a QR code to use them. There's third-party aggregator that looks like it scraped the flight off of Google but actually allows me to pay for the flight. Just one catch: no luggage. Not even a carry on. They suggest that I buy extras separately, from the airline that cannot manage a card transaction. Fine. I don't need luggage. I strip my belongings down to the essentials. There's a storage company that operates on some sort of decentralized custody protocol for personal belongings. You book online, get the address of a location somewhere in your chosen neighbourhood, and give them all of your earthly possessions. My assigned drop point is a phone shop in San Telmo, crammed with AI-art cases and knockoff chargers. I give them my number and hand them my suitcase. All I can do is trust that the shop is still here when I return. I take the bus to the airport wearing three layers of clothing, a spare set of underwear shoved into my handbag. I have both phones, Kindle, tablet and keyboard and a tangle of cables tucked into my hoodie pockets, looking like one of those street vendors who open up their coat and show you a wide range of goods. At the airport, I unpack everything to pass through security. I need three trays. After I pack myself back up, a man with a wand points out that I have a cable trailing behind me. At the gate, the Argentines start forming a queue an hour before boarding, pure social contract magic. I stay seated like a savage until I see our plane pull up to the gate and dump its last cargo of tourists and gauchos. I squish into the middle seat and try to keep my hoodie spilling over the sides, redistributing items until I finally get the seatbelt over my middle. I do not exhale for the entire two hour flight. The airport is not in San Salvador and the bus to Tilcara, my chosen destination, is. I purchase a shuttle ticket and wait outside to stand in the rain until it is full and we are ready to go. The bus station is impossibly clean and bright. A woman at an information booth appears improbably happy to see me, checks the time and tells me which bus company has a bus leaving next which will stop at Ticara. The woman at the bus company is less happy to see me but, after realizing that I blatantly don't have a clue what I am doing, writes helpful notes in the margins of my ticket: bus will arrive in 40 minutes, somewhere between bay 08 and 13, it will say Humahuaca on the front and Evelia on the side. I ask if they take QR payments. She points out that there is a 10% discount for cash for the ticket. I pay cash. Forty minutes later, I wedge myself into my bus seat, attempting to take off my hoodie in a way that does not tip all of my electronics on the floor. And then we drive. The windows fog up and all I can see outside is black rain. I am desperate not to fall asleep and end up in some abandoned village where they've never heard of Ethereum or vowels. It's past eleven when the bus pulls into Tilcara. A cracked parking lot. A couple of guys loitering with intent. I check my phone: a 25-minute walk to the hostel, which I had glibly told the hostel would be easy as I have no bags. The air is thin and every road heads uphill. I can't find any street signs. The paved road quickly deteriorates into a dirt track. Shop shutters rattle closed as I walk past. When I manage to make eye contact with anyone, I get a dead stare. Every time I check my phone map, it tells me that I've gone the wrong way. Again. I should have stayed in Buenos Aires, I think. I loved every millimeter of Buenos Aires. People mostly smiled at me, said hello. There were coffee shops and restaurants and street lights. Here, there's just dirt and altitude. Defiantly, I mutter buenas noches under my breath at the next person coming towards me. She nods, replies. Shit. Am I supposed to be greeting people? Two turns from my hostel, the road dips downhill. Somewhere along the way, I climbed up a hill I didn't need to. I curse the Andean gods and keep walking. Finally, I arrive, punch in the code, and crash into my bed. It's midnight. I sleep like the dead. And then, morning. It's like someone rewired Tilcara overnight. It's beautiful. Still dusty and crumbling but golden in the morning light with misty black and red mountains creating a backdrop that looks like a motivational poster. I discover that street signs do exist, just not where you'd expect, hand painted onto walls and fences at random heights as you walk down the road. I scan the restaurant chalkboards, making mental lists of all the dishes I want to try, then pause, not quite emotionally ready to consider Llama al Malbec for my special evening meal. Maybe tomorrow. The locals have stern faces carved from stone until I whisper buen día, at which point they smile and greet me. I try it louder. Everyone seems happy to see me. Some even ask que tál?, how are you?, and actually seem to expect an answer. I respond with a slump and a wheeze, universal code for every road in this town is uphill and I am dying. I am met with laughter, sympathy and one invitation to a cold beer (I should have said yes). The hotel also gives a 10% discount for paying in cash, so I use up the rest of the pesos from Blue. I ask the woman if she knows where I can buy pesos in Tilcara. There are two Western Unions in town and a gift shop called Native Art who will exchange dollars for pesos. But what about stablecoins? She stares at me blankly. Never mind, I tell her. It doesn't matter anymore. And it really doesn't. Next up is the conclusion: Apparently I Did It Wrong ("You should have just used X, bro.")
 
-9m ago
+20m ago
 
 ---
 
@@ -112,7 +112,7 @@ My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
 1️⃣ From Research to Reality – An EIP’s Journey with Pooja Ranjan The summit kicks off by bridging the gap between abstract research and deployed code. A must-watch for understanding the EIP Process. 📺 Watch it here: https://youtu.be/wH76j1BDZkc #Ethereum #EIP #EthereumGovernance #EthCommunity 2️⃣ Don’t just use Ethereum: help shape it! with Jochem Brouwer Jochem argues that providing feedback on EIP drafts is a civic duty. Silence leads to consensus bugs. Learn how to break the silence on the Magicians forum. 📺 Watch it here: https://youtu.be/ZVHHsKS6Kxo #Ethereum #EIPSummit #EIPs 3️⃣ From Draft to Inclusion: A Proposal’s Journey with Jihoon Song Writing the EIP is only 5% of the work. The hard part is convincing people to consider it. Jihoon shows how to talk to the right people and handle the Core Dev meetings to get your idea accepted. 📺 Watch it here: https://youtu.be/i8HO-bAivno #EIPSummit #EIPs #EIPProcess #CoreDev 4️⃣ From Specification to Syncing a Node: Ensuring Upgrade Readiness with Parithosh Jayanthi How do you test a $500B+ network without breaking it? Inside the industrial supply chain of Ethereum testing: from Hive unit tests to mainnet Shadow Forks. 🏗️ 📺 Watch it here : https://youtu.be/9yTrzNCd0Gk #Testing #Devnets #ShadowForks 5️⃣ Code is Law: Avoiding Spec-ulation for Faster Forks with danceratopz & raxhvl The propose accelerating Ethereum forks by tightly coupling EIP markdown with executable specs, ensuring every text change is instantly verified by code to eliminate ambiguity. 📺 Watch: https://youtu.be/h5sUMWD9Yus #Ethereum #SpecReview #Testing 6️⃣ EIP-8007: A major update to EVM gas prices with Maria Inês Silva A quick explainer on why Meta EIP listing all related EIPs matters. How authors propose to reshapes gas pricing, and what this means for developers, performance & future upgrades. 📺 Watch: https://youtu.be/HpRNP8tc0lY #EIP8007 #EVM #GasCosts #GasPricing 7️⃣ From Idea to EIP: A First-Time Author’s Journey with German Abal How a first-time contributor turns an idea into a real EIP - from drafting to reviews, feedback loops, and working with editors. 📺 Watch here: https://youtu.be/WcGYlzUChUE #EIPEditors #EthGovernance #EthereumStandards 8️⃣ ERCs in Focus - ERC-8028: AI Assets On-Chain with Thiru The video explains how ERC-8028 anchors AI data on-chain using DAT, enabling trust, provenance, and verifiable AI workflows. A simple breakdown of why this ERC matters for the future of AI + Ethereum standards. 📺 Watch: https://youtu.be/RaeBZiE0rDA #ERC8028 #ERCs #AIonChain #DAT 9️⃣ Meet EIP Editor Sam Wilson He breaks down what EIP editors do, how proposals are reviewed, and how Ethereum standards keep evolving. 📺 Watch: https://youtu.be/YHZviU19di0 #EIPEditors #EIPProcess #EthereumStandards 🔟 The Final Episode - ERC-1202: Voting Interface with Victor Zhou See how ERC-1202 enables flexible, on-chain voting mechanisms for DAOs & governance tools. A clean walkthrough of the standard, design choices, and real-world use cases. 📺 Watch: https://youtu.be/_szGTp49L5E #ERC1202 #OnChainVoting #GovernanceTech The EIP Summit was more than just talks; it was a call to action. Ethereum needs authors, reviewers, and testers. Special thanks to all speakers and the ECH Institute team! 😸 #Ethereum #Devconnect #EIPs #Web3
 
-16h ago
+17h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 117 • 💬 7 • ⏱️ 5:03 • 3h ago
+👁️ 1K • 👍 117 • 💬 7 • ⏱️ 5:03 • 4h ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN & ALTCOIN REVERSAL LOADING... (Prepare Now)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 8K • 👍 371 • 💬 155 • ⏱️ 21:34 • 10h ago
+👁️ 8K • 👍 371 • 💬 155 • ⏱️ 21:34 • 11h ago
 
 ---
 

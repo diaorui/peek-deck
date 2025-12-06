@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T21:41:45.202019+00:00'
+updated: '2025-12-06T21:52:22.296647+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 21:41 UTC  
+**Last Updated:** December 06, 2025 at 21:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,576.58
+### $89,459.04
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -1.1%  
-**30d:** -13.6%  
-**90d:** -20.0%  
-**1y:** -10.3%  
+**24h:** +0.4%  
+**7d:** -1.3%  
+**30d:** -13.7%  
+**90d:** -20.1%  
+**1y:** -10.4%  
 
 ---
 
@@ -113,7 +113,7 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 Burnsish?
 
-57m ago
+1h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bloomberg.com • 2d ago
 
 “It’s clearly run by the syndicate."
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -353,7 +353,7 @@ As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and t
 
 📺 Swan Bitcoin
 
-👁️ 77K • 👍 3K • 💬 252 • ⏱️ 18:48 • 1d ago
+👁️ 77K • 👍 3K • 💬 252 • ⏱️ 18:48 • 2d ago
 
 ---
 

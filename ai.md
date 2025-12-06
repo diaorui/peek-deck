@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T21:41:45.193491+00:00'
+updated: '2025-12-06T21:52:22.287869+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 21:41 UTC  
+**Last Updated:** December 06, 2025 at 21:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 … and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
 
-5h ago
+6h ago
 
 ---
 
@@ -81,7 +81,7 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 It's like Chatgpt doesn't give a crap about humanity But Grok is a lifesaver
 
-22m ago
+32m ago
 
 ---
 
@@ -89,7 +89,7 @@ It's like Chatgpt doesn't give a crap about humanity But Grok is a lifesaver
 
 If a new California ballot measure passes, it could block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO. To justify its massive valuation without Wall Street, OpenAI may lean even more heavily on engagement on its consumer-facing platforms, like Sora2. Instrumental and Ekō's recent research into how Sora2 enables harm shows why this could be a bad idea. For everybody.
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 35m ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 45m ago
 
 ---
 
@@ -177,7 +177,7 @@ Scientific American • 9h ago
 
 Jeep is one of the first automakers to fully leverage AI image generation in its marketing materials.
 
-Detroit Free Press • 5h ago
+Detroit Free Press • 6h ago
 
 ---
 
@@ -698,7 +698,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 39m ago
+⭐ 826 • 🔱 43 • 50m ago
 
 ---
 
