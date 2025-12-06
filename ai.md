@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T12:28:56.279504+00:00'
+updated: '2025-12-06T13:05:41.589178+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 12:28 UTC  
+**Last Updated:** December 06, 2025 at 13:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ I'm just curious about the differences, I'm not super educated on this, and I fi
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 6h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 7h ago
 
 ---
 
@@ -77,9 +77,17 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 ---
 
+**[Why Does A.I. Write Like … That?](https://www.reddit.com/r/artificial/comments/1pfoe5z/why_does_ai_write_like_that/)**
+
+If you use AI for writing, have you found a way for it to capture your voice so that the output doesn’t sound like it was written by artificial intelligence?
+
+🔗 [nytimes.com](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html?smid%3Dnytcore-ios-share) • 24m ago
+
+---
+
 **[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -91,25 +99,17 @@ An AI image generator startup’s database was left accessible to the open inter
 
 ---
 
-**[Well, THIS was interesting. ChatGPT.](https://www.reddit.com/r/artificial/comments/1pfmipr/well_this_was_interesting_chatgpt/)**
-
-1h ago
-
----
-
 **[One-Minute Daily AI News 12/5/2025](https://www.reddit.com/r/artificial/comments/1pfhu6y/oneminute_daily_ai_news_1252025/)**
 
 Nvidia CEO to Joe Rogan: Nobody “really knows” AI’s endgame.[1] New York Times sues AI startup for ‘illegal’ copying of millions of articles.[2] Meta acquires AI-wearables startup Limitless.[3] MIT researchers “speak objects into existence” using AI and robotics.[4] Sources: [1] https://www.axios.com/2025/12/03/joe-rogan-jensen-huang-podcast-trump [2] https://www.theguardian.com/technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit [3] https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/ [4] https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205
 
-6h ago
+7h ago
 
 ---
 
-**[Meta eyes budget cuts for its metaverse group as CEO Mark Zuckerberg doubles down on AI](https://www.reddit.com/r/artificial/comments/1peczz9/meta_eyes_budget_cuts_for_its_metaverse_group_as/)**
+**[Well, THIS was interesting. ChatGPT.](https://www.reddit.com/r/artificial/comments/1pfmipr/well_this_was_interesting_chatgpt/)**
 
-Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse losses and renewed focus on AI technology.
-
-🔗 [Business Insider](https://www.businessinsider.com/meta-job-cuts-metaverse-reality-labs-ai-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 1d ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ ABC News • 2h ago
 
 24-year-old Axiom Math founder Carina Hong wooed top Meta researchers in a competitive AI talent market.
 
-Business Insider • 2h ago
+Business Insider • 3h ago
 
 ---
 
@@ -151,7 +151,7 @@ Business Insider • 2h ago
 
 Nvidia is the world's largest company, and it gets most of its revenue from AI spending.
 
-Yahoo Finance • 38m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Motley Fool • 6h ago
 
 Key PointsDemand for Palantir's software tools has ushered in a wave of accelerated revenue and profit growth.
 
-Nasdaq • 12h ago
+Nasdaq • 13h ago
 
 ---
 
@@ -183,15 +183,13 @@ Fortune • 1d ago
 
 Students are using AI tools more than ever. An Angelo State University professor designed a way to figure out if his students were using artificial intelligence on a recent paper.We speak with Will Teague, who says students are sacrificing their own agency to artificial intelligence. For sponsor-free episodes of Consider This, sign up for Consider This+ via Apple Podcasts or at plus.npr.org. Email us at considerthis@npr.org.This episode was produced by Henry Larson and Karen Zamora, with additional reporting by Ayana Archie and Lee V. Gaines. It was edited by Justine Kenin and Courtney Dorning. Our executive producer is Sami Yenigun.
 
-NPR • 14h ago
+NPR • 15h ago
 
 ---
 
-**[Meta acquiring AI wearable company Limitless](https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html)**
+**[New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html)**
 
-Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
-
-CNBC • 16h ago
+The New York Times • 20h ago
 
 ---
 
@@ -203,7 +201,7 @@ CNBC • 16h ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 950 • 💬 1054 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 950 • 💬 1055 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -219,7 +217,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 687 • 💬 651 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 688 • 💬 652 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -227,7 +225,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 477 • 💬 237 • 20h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 481 • 💬 240 • 20h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -243,7 +241,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 322 • 💬 175 • 11h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 328 • 💬 181 • 11h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -259,7 +257,7 @@ The aircraft was completely destroyed after a spare part bought at an air show i
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 203 • 💬 93 • 1d ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 204 • 💬 93 • 1d ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -275,7 +273,7 @@ Multiple divisions at Microsoft have lowered sales growth targets for certain ar
 
 Welcome to the slop era.
 
-⬆️ 91 • 💬 170 • 18h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
+⬆️ 91 • 💬 171 • 19h ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 
 ---
 
@@ -309,7 +307,7 @@ From Capitol Hill to the back of an Uber in Dubai — this week showed just how 
 
 📺 CNBC Television
 
-👁️ 16K • 👍 186 • 💬 25 • ⏱️ 22:41 • 12h ago
+👁️ 16K • 👍 186 • 💬 25 • ⏱️ 22:41 • 13h ago
 
 ---
 
@@ -319,7 +317,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 38K • 👍 1K • 💬 203 • ⏱️ 12:07 • 11h ago
+👁️ 38K • 👍 1K • 💬 203 • ⏱️ 12:07 • 12h ago
 
 ---
 
@@ -339,7 +337,7 @@ Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford
 
 📺 The Daily Show
 
-👁️ 727K • 👍 16K • 💬 954 • ⏱️ 4:58 • 1d ago
+👁️ 727K • 👍 16K • 💬 954 • ⏱️ 4:58 • 2d ago
 
 ---
 
@@ -349,7 +347,7 @@ Horse saved apple plants from drying up by watering it #ai #apple #tree #horse.
 
 📺 Toonify Ai 2.0
 
-👁️ 18K • 👍 327 • ⏱️ 0:28 • 10h ago
+👁️ 18K • 👍 327 • ⏱️ 0:28 • 11h ago
 
 ---
 
@@ -369,7 +367,7 @@ Grandmother rescues the Girl and builds Gold water slide for her #ai #water #sav
 
 📺 Ai Animated Dream 
 
-👁️ 9K • 👍 98 • ⏱️ 0:22 • 2h ago
+👁️ 9K • 👍 98 • ⏱️ 0:22 • 3h ago
 
 ---
 
@@ -395,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,165 • 4d ago
+⬇️ 169,515 • ❤️ 2,169 • 4d ago
 
 ---
 
@@ -419,7 +417,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 4,718 • ❤️ 517 • 5d ago
+⬇️ 4,718 • ❤️ 516 • 5d ago
 
 ---
 
@@ -431,7 +429,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 324 • 1d ago
+⬇️ 20,067 • ❤️ 325 • 1d ago
 
 ---
 
@@ -453,7 +451,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 249 • 4d ago
+⬇️ 0 • ❤️ 250 • 4d ago
 
 ---
 
@@ -475,7 +473,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 196,425 • ❤️ 906 • 9d ago
+⬇️ 196,425 • ❤️ 907 • 9d ago
 
 ---
 
@@ -487,19 +485,17 @@ DeepSeek-Math-V2 is a large language model specialized in mathematical reasoning
 
 `text-generation` `685.4B`
 
-⬇️ 8,960 • ❤️ 637 • 9d ago
+⬇️ 8,960 • ❤️ 636 • 9d ago
 
 ---
 
-**[Ovis-Image-7B](https://huggingface.co/AIDC-AI/Ovis-Image-7B)**
+**[Mistral-Large-3-675B-Instruct-2512](https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512)**
 
-*AIDC-AI*
+*Mistral AI_*
 
-Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high-fidelity text rendering in diverse layouts and fonts. It excels at generating legible text in complex prompts like posters and logos, offering near-frontier text rendering capabilities on accessible hardware.
+Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.
 
-`text-to-image`
-
-⬇️ 1,849 • ❤️ 163 • 3d ago
+⬇️ 274 • ❤️ 160 • 3d ago
 
 ---
 
@@ -691,7 +687,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 848 • 🔱 104 • 5m ago
+⭐ 848 • 🔱 104 • 42m ago
 
 ---
 
@@ -701,7 +697,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 824 • 🔱 43 • 6h ago
+⭐ 824 • 🔱 43 • 7h ago
 
 ---
 
@@ -741,7 +737,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 608 • 🔱 208 • 5h ago
+⭐ 608 • 🔱 208 • 6h ago
 
 ---
 

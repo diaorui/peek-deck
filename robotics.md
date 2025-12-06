@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T12:28:56.297358+00:00'
+updated: '2025-12-06T13:05:41.605137+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 12:28 UTC  
+**Last Updated:** December 06, 2025 at 13:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
-1h ago
+2h ago
 
 ---
 
@@ -44,13 +44,13 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 Zhongqing CEO Receives the Challenge of T800
 
-18m ago
+55m ago
 
 ---
 
 **[Robot dance Arduino](https://www.reddit.com/r/robotics/comments/1pfijsr/robot_dance_arduino/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -102,7 +102,7 @@ For a long time, many robotics teams believed that real robot interaction data w
 
 **[Chat Interface for Isaac Sim](https://www.reddit.com/r/robotics/comments/1pfa7jb/chat_interface_for_isaac_sim/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -130,7 +130,7 @@ IEEE Spectrum • 2d ago
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
-MIT News • 21h ago
+MIT News • 22h ago
 
 ---
 
@@ -156,6 +156,14 @@ Stock Titan • 1d ago
 
 ---
 
+**[Melonee Wise to lead KUKA’s new software and AI organization](https://www.therobotreport.com/melonee-wise-leads-kuka-new-software-ai-organization/)**
+
+Wise is building a team of experts in Silicon Valley to unify KUKA's software systems and apply AI to more robots.
+
+The Robot Report • 20h ago
+
+---
+
 **[Olympus-backed robotics startup Swan EndoSurgical taps Stryker vet for CEO](https://www.fiercebiotech.com/medtech/olympus-backed-swan-endosurgical-names-stryker-vet-erik-todd-ceo)**
 
 Swan EndoSurgical, a gastrointestinal startup launched by Olympus and Revival Healthcare Capital earlier this year, has named former Stryker executive Erik Todd as its CEO. | Swan EndoSurgical, formed by Olympus and Revival Healthcare Capital this year, named former Stryker executive Erik Todd as CEO.
@@ -170,19 +178,11 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Marine robotics firm will resume deep-sea search for MH370 plane that vanished a decade ago](https://www.cnn.com/2025/12/03/asia/malaysia-mh370-robotics-search-latam-intl)**
-
-Malaysia’s transport ministry said Wednesday that a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace.
-
-CNN • 2d ago
-
----
-
 **[Video: Crawling humanoid robot shocks the internet with its animal-like moves](https://interestingengineering.com/ai-robotics/crawling-humanoid-robot-shocks-the-internet)**
 
 Humanoid robot drops to all fours, crawling with uncanny speed and flexibility, showing robots can move beyond human-like motion.
 
-Interesting Engineering • 23h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -216,7 +216,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 38K • 👍 1K • 💬 203 • ⏱️ 12:07 • 11h ago
+👁️ 38K • 👍 1K • 💬 203 • ⏱️ 12:07 • 12h ago
 
 ---
 
@@ -234,7 +234,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 AI . Robot
 
-👁️ 1.2M • 👍 7K • 💬 43 • ⏱️ 0:17 • 1d ago
+👁️ 1.2M • 👍 7K • 💬 43 • ⏱️ 0:17 • 2d ago
 
 ---
 
@@ -264,7 +264,7 @@ Famed artist Beeple's newest spectacle, “Regular Animals,” has billionaire-t
 
 📺 New York Post
 
-👁️ 5K • 👍 99 • 💬 65 • ⏱️ 2:06 • 22h ago
+👁️ 5K • 👍 99 • 💬 65 • ⏱️ 2:06 • 23h ago
 
 ---
 
@@ -274,7 +274,7 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 AI Robot Lab
 
-👁️ 109K • 👍 416 • 💬 11 • ⏱️ 0:19 • 23h ago
+👁️ 109K • 👍 416 • 💬 11 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -282,7 +282,7 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
 
-👁️ 26K • 👍 274 • 💬 9 • ⏱️ 0:14 • 23h ago
+👁️ 26K • 👍 274 • 💬 9 • ⏱️ 0:14 • 1d ago
 
 ---
 
