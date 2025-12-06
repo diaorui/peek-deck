@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T20:22:15.115189+00:00'
+updated: '2025-12-06T20:38:59.166185+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- news
 - videos
 - social
-- news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 20:22 UTC  
+**Last Updated:** December 06, 2025 at 20:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -89,7 +89,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 RAG failures often look mysterious: Relevant info appears missing, unrelated chunks show up, top-k results wobble week to week. Based on what we observed the real culprit is usually your metadata tags no longer describe the chunks you actually embedded. It usually is caused under below circumstances: Exporters change section structure Headings shift position Chunk boundaries drift after ingestion changes Metadata applied before segmentation Mixed historical snapshots in the same index When sections, headings, boundaries, metadata, index entries stop lining up, the entire retrieval layer becomes nondeterministic. Do you version your segmentation logic and metadata maps?
 
-19m ago
+36m ago
 
 ---
 
@@ -141,7 +141,7 @@ The Wall Street Journal • 3h ago
 
 AI tools available right now can analyze your schedule, energy levels, past attempts and realistic constraints to build resolutions that actually fit your life.
 
-Forbes • 15m ago
+Forbes • 32m ago
 
 ---
 
@@ -293,7 +293,7 @@ Thank you to Disney Dreamlight Valley for sponsoring this video! Click here to s
 
 📺 HopeScope
 
-👁️ 171K • 👍 11K • 💬 833 • ⏱️ 34:23 • 4h ago
+👁️ 171K • 👍 11K • 💬 833 • ⏱️ 34:23 • 5h ago
 
 ---
 
@@ -313,7 +313,7 @@ From Capitol Hill to the back of an Uber in Dubai — this week showed just how 
 
 📺 CNBC Television
 
-👁️ 21K • 👍 227 • 💬 28 • ⏱️ 22:41 • 20h ago
+👁️ 21K • 👍 227 • 💬 28 • ⏱️ 22:41 • 21h ago
 
 ---
 
@@ -363,7 +363,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 52K • 👍 1K • 💬 283 • ⏱️ 12:07 • 19h ago
+👁️ 52K • 👍 1K • 💬 283 • ⏱️ 12:07 • 20h ago
 
 ---
 
@@ -690,7 +690,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 895 • 🔱 106 • 7h ago
+⭐ 895 • 🔱 106 • 8h ago
 
 ---
 

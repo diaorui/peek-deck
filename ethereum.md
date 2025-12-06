@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T20:22:15.127711+00:00'
+updated: '2025-12-06T20:38:59.180671+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 20:22 UTC  
+**Last Updated:** December 06, 2025 at 20:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
-**7d:** +1.4%  
-**30d:** -11.6%  
-**90d:** -29.6%  
-**1y:** -24.2%  
+**24h:** +0.7%  
+**7d:** +1.6%  
+**30d:** -11.5%  
+**90d:** -29.5%  
+**1y:** -24.1%  
 
 ---
 
@@ -88,7 +88,7 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 Teranode from Craig Wright who it has been known since 2015 was Satoshi is scaling in a way that respects the Nakamoto consensus (that he invented...), by parallelizing things under the singular central authority, in such a way that everything done below the "miner" is internally trusted. This is exactly how scaling has to be done to avoid splitting the consensus and introducing things like "random sampling", and it seems everyone is missing that. “One of the key concepts in Teranode is sharding; and when I say sharding, I am not talking about the same thing Vitalik talks about when he talks about sharding and splitting the work among many untrustable parties. [Instead,] we are talking about inside the boundaries of Teranode, where everything is trusted,” The good thing about this, is that you can "shard" below the already existing protocol. You can likely introduce internal sharding mechanisms, that can become sophisticated enough that the "subnodes" (or "shard validators") can publicly talk to one another and exchange "subblocks" (whose Merkle roots are Merkled together into the actual transaction root in the block header signed by the validator or "master validator"). Any "cross-shard" verification can possibly be done internally mostly, as every other "master validator" with their "sub validators" will verify everything. No "random samples" as Gavin Wood is doing in JAM in Polkadot or delegating validators to separate shards as Vitalik Buterins's approach has been is needed. Everything internal to the "block of authority" can simply trust everything else there. The "internal" parts, can even be geographically distributed. A sub-validator on one shard on one side of the world, another on another side of the world. There is no bandwidth bottlenecks. It might be possible to simply shard Ethereum internally, but in a "public" way where internal parts communicate, but once they have signed off on a block it all appears very similar to how it would appear in the single-threaded version. At least for a simple account-based payment system it seems doing so would be easy. For one with state, even there, contract addresses will cluster in patricia merkle trie and maybe changes on one subnode are relatively easily sent to the "master node" that can keep track of the state trie and sign the block. I wrote a bit about this idea on my substack, see How to scale Nakamoto consensus and the social centralization paradigm.
 
-1h ago
+2h ago
 
 ---
 
@@ -318,7 +318,7 @@ The "Sovereign" Secret: The US Govt's 60000 ETH Stash Everyone is talking about 
 
 📺 Wall Street Stockcast
 
-👁️ 289 • 👍 15 • 💬 1 • ⏱️ 7:40 • 7h ago
+👁️ 289 • 👍 15 • 💬 1 • ⏱️ 7:40 • 8h ago
 
 ---
 
