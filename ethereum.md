@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T17:54:12.813390+00:00'
+updated: '2025-12-06T18:24:56.686111+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- social
 - news
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 17:54 UTC  
+**Last Updated:** December 06, 2025 at 18:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +1.9%  
+**24h:** +0.5%  
+**7d:** +2.0%  
 **30d:** -11.2%  
-**90d:** -29.3%  
-**1y:** -23.9%  
+**90d:** -29.2%  
+**1y:** -23.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $368.66B
+**Market Cap:** $368.65B
 Rank #2
 
 **Circulating Supply:** 120,695,414 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.2%
+-38.3%
 
 **All-Time Low:** $0.43
-+706246.0%
++704807.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 million from Ethereum traders in a blindingly fast fraud.
 
-🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 1h ago
+🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 2h ago
+
+---
+
+**[Teranode and how to shard Ethereum without splitting the consensus mechanism](https://www.reddit.com/r/ethereum/comments/1pfw5pu/teranode_and_how_to_shard_ethereum_without/)**
+
+Teranode from Craig Wright who it has been known since 2015 was Satoshi is scaling in a way that respects the Nakamoto consensus (that he invented...), by parallelizing things under the singular central authority, in such a way that everything done below the "miner" is internally trusted. This is exactly how scaling has to be done to avoid splitting the consensus and introducing things like "random sampling", and it seems everyone is missing that. Apparently this was not allowed to be posted, some word triggered a filter, I will append to it gradually to see what word.
+
+just now
 
 ---
 
@@ -140,14 +148,6 @@ Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5
 
 ---
 
-**[Highlights from the All Core Developers Execution (ACDE) Call #225](https://www.reddit.com/r/ethereum/comments/1pego5o/highlights_from_the_all_core_developers_execution/)**
-
-A comprehensive breakdown of ACDE #225 detailing Fusaka incident analysis, Glamsterdam scoping decisions, FOCIL process debates, and the roadmap toward the Heka upgrade.
-
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/04/highlights-from-the-all-core-developers-execution-acde-call-225/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -168,17 +168,17 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum treasury firm BitMine adds $150 million in ETH as DAT buying dries up](https://www.theblock.co/post/381302/bitmine-150-million-eth)**
+**[Industry Leader Shares Why Ethereum Price Will Reach $12,000](https://www.tradingview.com/news/newsbtc:a204c146d094b:0-industry-leader-shares-why-ethereum-price-will-reach-12-000/)**
 
-The Block • 2d ago
+Industry leader Tom Lee has shared how the Ethereum price could reach $12,000 within the next few months. He based his prediction on the Bitcoin price action and how ETH could match the flagship crypto on a potential run to the upside. Tom Lee Explains How The Ethereum Price Could Rally To $12,000S…
+
+TradingView • 3h ago
 
 ---
 
-**[Tom Lee’s BitMine Extends Ethereum Bet With $200 Million in Two Days](https://finance.yahoo.com/news/tom-lee-bitmine-extends-ethereum-142458129.html)**
+**[Ethereum treasury firm BitMine adds $150 million in ETH as DAT buying dries up](https://www.theblock.co/post/381302/bitmine-150-million-eth)**
 
-BitMine bought nearly $200 million worth of Ethereum in the last two days, widening its lead as the largest single holder of ETH.
-
-Yahoo Finance • 3h ago
+The Block • 2d ago
 
 ---
 
@@ -212,19 +212,19 @@ cheddar.com • 1d ago
 
 ---
 
+**[While Ethereum whales rotate, XRP data shows a fatal concentration flaw that leaves one group holding the bag.](https://cryptoslate.com/ethereum-xrp-whales-concentration-risk/)**
+
+We quantify how much old supply just moved and why now.
+
+CryptoSlate • 3d ago
+
+---
+
 **[$4B in Bitcoin and Ethereum options set to expire](https://cryptobriefing.com/4-billion-btc-eth-options-expiry-impact/)**
 
 Around $4 billion in Bitcoin and Ethereum options contracts will expire today, potentially impacting market volatility.
 
 Crypto Briefing • 1d ago
-
----
-
-**[Bitcoin holds in bullish consolidation as Ethereum drives Altcoin momentum](https://www.kitco.com/opinion/2025-12-05/bitcoin-holds-bullish-consolidation-ethereum-drives-altcoin-momentum)**
-
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
-
-KITCO • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 87K • 👍 3K • 💬 486 • ⏱️ 27:33 • 1d ago
+👁️ 87K • 👍 3K • 💬 486 • ⏱️ 27:33 • 2d ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 161 • 💬 17 • ⏱️ 5:46 • 14h ago
+👁️ 3K • 👍 161 • 💬 17 • ⏱️ 5:46 • 15h ago
 
 ---
 
