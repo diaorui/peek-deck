@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T07:12:29.080408+00:00'
+updated: '2025-12-06T07:29:57.056480+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 07:12 UTC  
+**Last Updated:** December 06, 2025 at 07:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
-**7d:** -1.0%  
-**30d:** -13.5%  
-**90d:** -19.9%  
-**1y:** -10.2%  
+**24h:** -2.8%  
+**7d:** -1.1%  
+**30d:** -13.6%  
+**90d:** -20.0%  
+**1y:** -10.3%  
 
 ---
 
@@ -119,19 +119,19 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 **[Got to 0.1 !!](https://www.reddit.com/r/Bitcoin/comments/1pf2id0/got_to_01/)**
 
-12h ago
+13h ago
 
 ---
 
 **[👀](https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/)**
 
-4h ago
+5h ago
 
 ---
 
 **[POV: You’re the only one who actually got a deal on Black Friday.](https://www.reddit.com/r/Bitcoin/comments/1pew8t1/pov_youre_the_only_one_who_actually_got_a_deal_on/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -179,7 +179,7 @@ Yahoo Finance • 2d ago
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
-Bloomberg.com • 42m ago
+Bloomberg.com • 59m ago
 
 ---
 
@@ -343,7 +343,7 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 87K • 👍 6K • 💬 405 • ⏱️ 15:38 • 19h ago
+👁️ 87K • 👍 6K • 💬 405 • ⏱️ 15:38 • 20h ago
 
 ---
 
