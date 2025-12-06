@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T09:37:03.507753+00:00'
+updated: '2025-12-06T09:47:47.429640+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 09:37 UTC  
+**Last Updated:** December 06, 2025 at 09:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -145,7 +145,7 @@ Nasdaq • 10h ago
 
 These companies were great investments before the artificial intelligence (AI) boom and should remain worthy long-term holds for the foreseeable future.
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -191,7 +191,7 @@ NPR • 12h ago
 
 Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -701,7 +701,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 823 • 🔱 42 • 3h ago
+⭐ 823 • 🔱 42 • 4h ago
 
 ---
 

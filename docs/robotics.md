@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T09:37:03.526236+00:00'
+updated: '2025-12-06T09:47:47.447400+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 09:37 UTC  
+**Last Updated:** December 06, 2025 at 09:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robot dance Arduino](https://www.reddit.com/r/robotics/comments/1pfijsr/robot_dance_arduino/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -256,7 +256,7 @@ Famed artist Beeple's newest spectacle, “Regular Animals,” has billionaire-t
 
 📺 New York Post
 
-👁️ 5K • 👍 98 • 💬 65 • ⏱️ 2:06 • 19h ago
+👁️ 5K • 👍 98 • 💬 65 • ⏱️ 2:06 • 20h ago
 
 ---
 
