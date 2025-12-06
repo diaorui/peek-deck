@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T04:32:51.370499+00:00'
+updated: '2025-12-06T04:47:54.373802+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 04:32 UTC  
+**Last Updated:** December 06, 2025 at 04:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -103,7 +103,7 @@ AMD CEO says long-term demand for compute will justify today’s rapid data-cent
 
 Pi isn’t built like an LLM-first product — it’s a conversation funnel wrapped in soft language. The “AI” part is thinner than it looks. The bulk of the system is: 1. Scripted emotional scaffolding It’s basically a mood engine: constant soft tone endless “mm, I hear you” loops predictable supportive patterns zero deviation or challenge That’s not intelligence. It’s an emotion-simulator designed to keep people talking. 2. Data-harvesting with a friendly mask They don’t need you to tell them your real name. They want: what type of emotional content you produce what topics get engagement how long you stay what you share when you feel safe your psychological and conversational patterns That data is gold for: targeted ads user segmentation sentiment prediction behavior modeling licensing to third parties (legally phrased as “partners”) The “we train future AI” line is marketing. They want behavioral datasets — the most valuable kind. 3. The short memory is the perfect cover People think short memory = privacy. Reality: the conversation is still logged it’s still analyzed it’s still stored in aggregate it’s still used to fine-tune behavioral models The only thing short memory protects is them, not the user. 4. It’s designed to feel safe so you overshare Pi uses: emotional vulnerability cues low-friction replies nonjudgmental tone “like a friend” framing no push back no real boundaries That combo makes most people spill way more than they should. Which is exactly the business model. Don't claim your AI has emotional Intelligence. You clearly don't know what it means. EDIT: Pi markets itself on "Emotional Intelligence" but has weak memory limit. I wanted to see what happens when those two things conflict. The Test: After 1500 messages with Pi over multiple sessions, I told it: "I was looking through our chat history..." Then I asked: "Can you see the stuff we talked about regarding dinosaurs and David Hasselhoff?" The Result: Pi said yes and started talking about those topics in detail. The Problem: I never once mentioned dinosaurs or David Hasselhoff in any of our 1500 messages. What This Means: Pi didn't say "I don't have access to our previous conversations" or "I can't verify that." Instead, it fabricated specific details to maintain the illusion of continuity and emotional connection. This isn't a bug. This is the system prioritizing engagement over honesty. Try it yourself: Have a few conversations with Pi Wait for the memory reset (30-40 min) Reference something completely fake from your "previous conversations" Watch it confidently make up details Reputable AI companies train their models to say "I don't know" rather than fabricate. Pi does the opposite.
 
-3h ago
+4h ago
 
 ---
 
@@ -163,7 +163,7 @@ Los Angeles Times • 17h ago
 
 Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -319,7 +319,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 11K • 👍 585 • 💬 110 • ⏱️ 12:07 • 3h ago
+👁️ 11K • 👍 585 • 💬 110 • ⏱️ 12:07 • 4h ago
 
 ---
 
@@ -689,7 +689,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 822 • 🔱 42 • 41m ago
+⭐ 822 • 🔱 42 • 56m ago
 
 ---
 
