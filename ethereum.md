@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T22:46:13.720194+00:00'
+updated: '2025-12-06T22:56:53.944987+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 22:46 UTC  
+**Last Updated:** December 06, 2025 at 22:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,052.08
+### $3,040.45
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.8%  
-**7d:** +1.7%  
-**30d:** -11.4%  
-**90d:** -29.4%  
-**1y:** -24.0%  
+**24h:** +0.6%  
+**7d:** +1.6%  
+**30d:** -11.5%  
+**90d:** -29.5%  
+**1y:** -24.1%  
 
 ---
 
@@ -112,7 +112,7 @@ My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
 1️⃣ From Research to Reality – An EIP’s Journey with Pooja Ranjan The summit kicks off by bridging the gap between abstract research and deployed code. A must-watch for understanding the EIP Process. 📺 Watch it here: https://youtu.be/wH76j1BDZkc #Ethereum #EIP #EthereumGovernance #EthCommunity 2️⃣ Don’t just use Ethereum: help shape it! with Jochem Brouwer Jochem argues that providing feedback on EIP drafts is a civic duty. Silence leads to consensus bugs. Learn how to break the silence on the Magicians forum. 📺 Watch it here: https://youtu.be/ZVHHsKS6Kxo #Ethereum #EIPSummit #EIPs 3️⃣ From Draft to Inclusion: A Proposal’s Journey with Jihoon Song Writing the EIP is only 5% of the work. The hard part is convincing people to consider it. Jihoon shows how to talk to the right people and handle the Core Dev meetings to get your idea accepted. 📺 Watch it here: https://youtu.be/i8HO-bAivno #EIPSummit #EIPs #EIPProcess #CoreDev 4️⃣ From Specification to Syncing a Node: Ensuring Upgrade Readiness with Parithosh Jayanthi How do you test a $500B+ network without breaking it? Inside the industrial supply chain of Ethereum testing: from Hive unit tests to mainnet Shadow Forks. 🏗️ 📺 Watch it here : https://youtu.be/9yTrzNCd0Gk #Testing #Devnets #ShadowForks 5️⃣ Code is Law: Avoiding Spec-ulation for Faster Forks with danceratopz & raxhvl The propose accelerating Ethereum forks by tightly coupling EIP markdown with executable specs, ensuring every text change is instantly verified by code to eliminate ambiguity. 📺 Watch: https://youtu.be/h5sUMWD9Yus #Ethereum #SpecReview #Testing 6️⃣ EIP-8007: A major update to EVM gas prices with Maria Inês Silva A quick explainer on why Meta EIP listing all related EIPs matters. How authors propose to reshapes gas pricing, and what this means for developers, performance & future upgrades. 📺 Watch: https://youtu.be/HpRNP8tc0lY #EIP8007 #EVM #GasCosts #GasPricing 7️⃣ From Idea to EIP: A First-Time Author’s Journey with German Abal How a first-time contributor turns an idea into a real EIP - from drafting to reviews, feedback loops, and working with editors. 📺 Watch here: https://youtu.be/WcGYlzUChUE #EIPEditors #EthGovernance #EthereumStandards 8️⃣ ERCs in Focus - ERC-8028: AI Assets On-Chain with Thiru The video explains how ERC-8028 anchors AI data on-chain using DAT, enabling trust, provenance, and verifiable AI workflows. A simple breakdown of why this ERC matters for the future of AI + Ethereum standards. 📺 Watch: https://youtu.be/RaeBZiE0rDA #ERC8028 #ERCs #AIonChain #DAT 9️⃣ Meet EIP Editor Sam Wilson He breaks down what EIP editors do, how proposals are reviewed, and how Ethereum standards keep evolving. 📺 Watch: https://youtu.be/YHZviU19di0 #EIPEditors #EIPProcess #EthereumStandards 🔟 The Final Episode - ERC-1202: Voting Interface with Victor Zhou See how ERC-1202 enables flexible, on-chain voting mechanisms for DAOs & governance tools. A clean walkthrough of the standard, design choices, and real-world use cases. 📺 Watch: https://youtu.be/_szGTp49L5E #ERC1202 #OnChainVoting #GovernanceTech The EIP Summit was more than just talks; it was a call to action. Ethereum needs authors, reviewers, and testers. Special thanks to all speakers and the ECH Institute team! 😸 #Ethereum #Devconnect #EIPs #Web3
 
-17h ago
+18h ago
 
 ---
 
@@ -238,7 +238,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 252 • 👍 26 • 💬 24 • ⏱️ 12:08 • 5h ago
+👁️ 374 • 👍 36 • 💬 23 • ⏱️ 12:08 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 93K • 👍 5K • 💬 483 • ⏱️ 11:16 • 1d ago
+👁️ 96K • 👍 5K • 💬 492 • ⏱️ 11:16 • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 117 • 💬 7 • ⏱️ 5:03 • 5h ago
+👁️ 2K • 👍 145 • 💬 9 • ⏱️ 5:03 • 5h ago
 
 ---
 
@@ -268,17 +268,7 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 44K • 👍 2K • 💬 144 • ⏱️ 17:37 • 2d ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=dCPiEWlAbHo)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 Catherine's place
-
-👁️ 37K • 👍 3K • 7h ago
+👁️ 45K • 👍 2K • 💬 146 • ⏱️ 17:37 • 2d ago
 
 ---
 
@@ -288,37 +278,17 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 90K • 👍 3K • 💬 485 • ⏱️ 27:33 • 2d ago
+👁️ 91K • 👍 3K • 💬 488 • ⏱️ 27:33 • 2d ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN REVERSAL LOADING... (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=iePIlGVy0ls)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=dCPiEWlAbHo)**
 
-BITCOIN & ALTCOIN REVERSAL LOADING... (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 Crypto World
+📺 Catherine's place
 
-👁️ 8K • 👍 371 • 💬 155 • ⏱️ 21:34 • 11h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FJ8VniUMYIs)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 167 • 💬 10 • ⏱️ 5:46 • 19h ago
-
----
-
-**[SUPER CRYPTO 2026 ALPHA WHAT BIG MONEY IS DOING BITCOIN AND ETHEREUM ONLY ](https://www.youtube.com/watch?v=5DBhFTv_Fvw)**
-
-SECRET CRYPTO 2026 ALPHA WHAT BIG MONEY IS DOING Support The O Show with Ref Links: ✨ Learn more about the ...
-
-📺 CryptoWendyO
-
-👁️ 1K • 👍 200 • 💬 5 • ⏱️ 8:01 • 4h ago
+👁️ 38K • 👍 10K • 7h ago
 
 ---
 
@@ -328,7 +298,35 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 20K • 👍 481 • 💬 404 • ⏱️ 15:38 • 1d ago
+👁️ 21K • 👍 488 • 💬 386 • ⏱️ 15:38 • 1d ago
+
+---
+
+**[ETHEREUM FOUNDER SAYS THIS COULD DESTROY ETH FOREVER!!!](https://www.youtube.com/watch?v=AVDct4YvLQc)**
+
+📺 AaronSolanaa
+
+👁️ 419 • 👍 14 • 💬 2 • ⏱️ 0:58 • 44m ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN REVERSAL LOADING... (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=iePIlGVy0ls)**
+
+BITCOIN & ALTCOIN REVERSAL LOADING... (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 390 • 💬 145 • ⏱️ 21:34 • 12h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FJ8VniUMYIs)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 169 • 💬 6 • ⏱️ 5:46 • 19h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T22:46:13.723541+00:00'
+updated: '2025-12-06T22:56:53.947906+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 22:46 UTC  
+**Last Updated:** December 06, 2025 at 22:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -146,7 +146,7 @@ IEEE Spectrum • 3d ago
 
 USPS Boise facility gets four robotic arms to help process 220,000 packages daily during holiday rush, allowing redeployment of workers to areas needing human touch.
 
-KTVB • 16h ago
+KTVB • 17h ago
 
 ---
 
@@ -200,7 +200,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 2K • 👍 54 • 💬 12 • ⏱️ 1:03 • 6h ago
+👁️ 3K • 👍 70 • 💬 19 • ⏱️ 1:03 • 6h ago
 
 ---
 
@@ -210,7 +210,7 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 14K • 👍 298 • 💬 154 • ⏱️ 4:05 • 2d ago
+👁️ 14K • 👍 304 • 💬 158 • ⏱️ 4:05 • 2d ago
 
 ---
 
@@ -220,7 +220,27 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 67K • 👍 532 • 💬 264 • ⏱️ 2:30 • 3d ago
+👁️ 68K • 👍 538 • 💬 265 • ⏱️ 2:30 • 3d ago
+
+---
+
+**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
+
+Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
+
+📺 Fin Tek
+
+👁️ 42K • 👍 2K • 💬 172 • ⏱️ 21:31 • 21h ago
+
+---
+
+**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
+
+Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
+
+📺 Unitree Robotics
+
+👁️ 1.2M • 👍 1K • 💬 298 • ⏱️ 1:06 • 3d ago
 
 ---
 
@@ -230,7 +250,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 61K • 👍 1K • 💬 303 • ⏱️ 12:07 • 22h ago
+👁️ 64K • 👍 1K • 💬 310 • ⏱️ 12:07 • 22h ago
 
 ---
 
@@ -240,7 +260,7 @@ In 2025 Silicon Valley, a next-gen AI Spider Quadruped Robot reveals a completel
 
 📺 AI Robot Lab
 
-👁️ 10K • 👍 135 • 💬 1 • ⏱️ 0:25 • 8h ago
+👁️ 13K • 👍 155 • 💬 2 • ⏱️ 0:25 • 8h ago
 
 ---
 
@@ -250,7 +270,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 100K • 💬 616 • ⏱️ 1:21 • 3d ago
+👁️ 101K • 💬 621 • ⏱️ 1:21 • 3d ago
 
 ---
 
@@ -258,17 +278,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 AI . Robot
 
-👁️ 1.3M • 👍 7K • 💬 45 • ⏱️ 0:17 • 2d ago
-
----
-
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=_MgTHoFYPDs)**
-
-At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
-
-📺 Humanoid Robot 🤖
-
-👁️ 99K • 👍 502 • 💬 5 • ⏱️ 0:19 • 1d ago
+👁️ 1.4M • 👍 7K • 💬 45 • ⏱️ 0:17 • 2d ago
 
 ---
 
@@ -278,17 +288,7 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 AI Robot Lab
 
-👁️ 113K • 👍 453 • 💬 12 • ⏱️ 0:19 • 1d ago
-
----
-
-**[Viral Art Exhibit Shows Musk, Zuckerberg and Bezos as Creepy Robot Dogs](https://www.youtube.com/watch?v=tFfR0uQXl7w)**
-
-Famed artist Beeple's newest spectacle, “Regular Animals,” has billionaire-tech-titan robot dogs pooping out NFTs, stopping ...
-
-📺 New York Post
-
-👁️ 7K • 👍 116 • 💬 78 • ⏱️ 2:06 • 1d ago
+👁️ 113K • 👍 458 • 💬 13 • ⏱️ 0:19 • 1d ago
 
 ---
 

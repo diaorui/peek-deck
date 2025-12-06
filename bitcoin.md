@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T22:46:13.713971+00:00'
+updated: '2025-12-06T22:56:53.939489+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 22:46 UTC  
+**Last Updated:** December 06, 2025 at 22:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -1.2%  
-**30d:** -13.7%  
-**90d:** -20.0%  
-**1y:** -10.4%  
+**24h:** +0.2%  
+**7d:** -1.4%  
+**30d:** -13.9%  
+**90d:** -20.2%  
+**1y:** -10.6%  
 
 ---
 
@@ -119,7 +119,7 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 **[They are always not ready](https://www.reddit.com/r/Bitcoin/comments/1pfvd6m/they_are_always_not_ready/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -287,33 +287,13 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin and These Crypto Are Preparing For Something HUGE](https://www.youtube.com/watch?v=jsAIPevdhMQ)**
+**[I Doubled My Bitcoin Buys. Here is WHY.](https://www.youtube.com/watch?v=8r-YIulIAE4)**
 
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is WHY... The links below may include affiliate links, ...
 
-📺 CryptosRus Extra
+📺 Digital Asset News
 
-👁️ 10K • 👍 543 • 💬 392 • ⏱️ 9:08 • 22h ago
-
----
-
-**[bitcoin is about to change forever (and nobody even realises)](https://www.youtube.com/watch?v=fE1XaJjBwkg)**
-
-bitcoin is having some massive changes and I see nobody talking about them. future is bright fam Check out Casa's free guide on ...
-
-📺 BTC Isla
-
-👁️ 32K • 👍 2K • 💬 389 • ⏱️ 10:23 • 1d ago
-
----
-
-**[Bitcoin &amp; AI Just Hit A MAJOR Inflection Point](https://www.youtube.com/watch?v=FpQ7qHwOp5U)**
-
-Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience, and he also writes a Substack ...
-
-📺 Anthony Pompliano
-
-👁️ 26K • 👍 2K • 💬 65 • ⏱️ 48:57 • 8h ago
+👁️ 8K • 👍 707 • 💬 77 • ⏱️ 21:52 • 4h ago
 
 ---
 
@@ -323,17 +303,27 @@ Bitcoin volatility is collapsing, institutions are flooding in, and the entire m
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 362 • 💬 59 • ⏱️ 40:36 • 5h ago
+👁️ 8K • 👍 468 • 💬 75 • ⏱️ 40:36 • 5h ago
 
 ---
 
-**[WAIT: JP Morgan is STILL predicting $170,000 Bitcoin in 2026?! | EP 1392](https://www.youtube.com/watch?v=sU3cb55xCGo)**
+**[Bitcoin and These Crypto Are Preparing For Something HUGE](https://www.youtube.com/watch?v=jsAIPevdhMQ)**
 
-After FUDing bitcoin and Strategy JP Morgan analysts are still predicting the 4 year cycle is over?
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 Simply Bitcoin
+📺 CryptosRus Extra
 
-👁️ 10K • 👍 444 • 💬 68 • ⏱️ 1:34:16 • 1d ago
+👁️ 11K • 👍 546 • 💬 238 • ⏱️ 9:08 • 22h ago
+
+---
+
+**[Bitcoin &amp; AI Just Hit A MAJOR Inflection Point](https://www.youtube.com/watch?v=FpQ7qHwOp5U)**
+
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience, and he also writes a Substack ...
+
+📺 Anthony Pompliano
+
+👁️ 34K • 👍 2K • 💬 65 • ⏱️ 48:57 • 8h ago
 
 ---
 
@@ -343,17 +333,17 @@ We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 252 • 💬 58 • ⏱️ 5:59 • 6h ago
+👁️ 4K • 👍 298 • 💬 29 • ⏱️ 5:59 • 6h ago
 
 ---
 
-**[What Big Banks Aren&#39;t Telling You About Bitcoin](https://www.youtube.com/watch?v=LIJrvnHmxj8)**
+**[Banks Declare WAR on Bitcoin Users ⚠️ Jack Mallers Debanked — Your Money Isn’t Safe](https://www.youtube.com/watch?v=Y2p1yq8CYik)**
 
-As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and the biggest banks on earth are quietly buying every major ...
+Tangem ▻ Black Friday Deals!!* Special Discount: *30% Off + $10 in FREE BTC!* ⚡   *Limited Time!* — before Dec 9 2025!
 
-📺 Swan Bitcoin
+📺 Crypto Casey
 
-👁️ 77K • 👍 3K • 💬 252 • ⏱️ 18:48 • 2d ago
+👁️ 25K • 👍 2K • 💬 301 • ⏱️ 12:50 • 9h ago
 
 ---
 
@@ -363,7 +353,17 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bit
 
 📺 CNBC Television
 
-👁️ 12K • 👍 110 • 💬 167 • ⏱️ 4:01 • 1d ago
+👁️ 12K • 👍 112 • 💬 121 • ⏱️ 4:01 • 1d ago
+
+---
+
+**[What Big Banks Aren&#39;t Telling You About Bitcoin](https://www.youtube.com/watch?v=LIJrvnHmxj8)**
+
+As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and the biggest banks on earth are quietly buying every major ...
+
+📺 Swan Bitcoin
+
+👁️ 78K • 👍 3K • 💬 255 • ⏱️ 18:48 • 2d ago
 
 ---
 
@@ -373,7 +373,7 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 107K • 👍 7K • 💬 435 • ⏱️ 15:38 • 1d ago
+👁️ 110K • 👍 7K • 💬 442 • ⏱️ 15:38 • 1d ago
 
 ---
 
@@ -383,7 +383,7 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 53K • 👍 4K • 💬 299 • ⏱️ 23:27 • 1d ago
+👁️ 53K • 👍 4K • 💬 295 • ⏱️ 23:27 • 1d ago
 
 ---
 

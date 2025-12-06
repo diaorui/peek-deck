@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T22:46:13.705279+00:00'
+updated: '2025-12-06T22:56:53.931864+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- repositories
 - news
 - videos
-- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 22:46 UTC  
+**Last Updated:** December 06, 2025 at 22:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ If a new California ballot measure passes, it could block OpenAI’s conversion 
 
 … and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 16h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 17h ago
 
 ---
 
@@ -283,43 +283,21 @@ Wall Street lends billions to AI companies while using credit derivatives and so
 
 ## YouTube Videos: "ai"
 
-**[Can AI crack the process of aging? | BBC News](https://www.youtube.com/watch?v=yRDek-pGcwE)**
-
-The race to unlock the secret to a longer life is on - and two sisters from a Cambridge start-up might be closer than anyone else.
-
-📺 BBC News
-
-👁️ 14K • 👍 465 • 💬 197 • ⏱️ 8:08 • 13h ago
-
----
-
-**[I Recreated Impossible AI Foods](https://www.youtube.com/watch?v=wJHRAXKdqZM)**
-
-subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianBlack @zealous @KingSammelot ...
-
-📺 yikes
-
-👁️ 50K • 👍 4K • 💬 759 • ⏱️ 21:06 • 6h ago
-
----
-
-**[An AI Expert Warning: 6 People Are (Quietly) Deciding Humanity’s Future! We Must Act Now!](https://www.youtube.com/watch?v=P7Y-fynYsgE)**
-
-AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments won't regulate, how AGI could replace humans ...
-
-📺 The Diary Of A CEO
-
-👁️ 820K • 👍 19K • 💬 4K • ⏱️ 2:04:06 • 2d ago
-
----
-
 **[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
 
 Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
 
 📺 Future of Life Institute
 
-👁️ 28K • 👍 1K • 💬 537 • ⏱️ 15:40 • 2d ago
+👁️ 29K • 👍 2K • 💬 552 • ⏱️ 15:40 • 2d ago
+
+---
+
+**[REAL VS A.I. COMPILATION 😂](https://www.youtube.com/watch?v=4fIDsqbkXco)**
+
+📺 Bob Reese
+
+👁️ 6.0M • 👍 170K • 💬 1K • ⏱️ 1:02 • 20h ago
 
 ---
 
@@ -329,27 +307,17 @@ Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the
 
 📺 End Times Productions
 
-👁️ 109K • 👍 7K • 💬 2K • ⏱️ 34:02 • 1d ago
+👁️ 110K • 👍 7K • 💬 2K • ⏱️ 34:02 • 1d ago
 
 ---
 
-**[The AI pressure cooker: OpenAI, Nvidia and Google all on the move](https://www.youtube.com/watch?v=BYnTk3l6sfs)**
+**[An AI Expert Warning: 6 People Are (Quietly) Deciding Humanity’s Future! We Must Act Now!](https://www.youtube.com/watch?v=P7Y-fynYsgE)**
 
-From Capitol Hill to the back of an Uber in Dubai — this week showed just how much pressure the AI race is under. OpenAI's Sam ...
+AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments won't regulate, how AGI could replace humans ...
 
-📺 CNBC Television
+📺 The Diary Of A CEO
 
-👁️ 23K • 👍 240 • 💬 30 • ⏱️ 22:41 • 23h ago
-
----
-
-**[AI Exploded This Week: GPT 5.2, DeepSeek 3.2, Kling 2.6, Mistral 3, Trainium 3...](https://www.youtube.com/watch?v=KeqO2KM6CTk)**
-
-The past few days pushed AI in every direction at once. OpenAI quietly tested a new Memory Search system inside ChatGPT, ...
-
-📺 AI Revolution
-
-👁️ 56K • 👍 1K • 💬 81 • ⏱️ 17:26 • 2d ago
+👁️ 834K • 👍 19K • 💬 4K • ⏱️ 2:04:06 • 2d ago
 
 ---
 
@@ -359,27 +327,57 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 61K • 👍 1K • 💬 303 • ⏱️ 12:07 • 22h ago
+👁️ 64K • 👍 1K • 💬 310 • ⏱️ 12:07 • 22h ago
 
 ---
 
-**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=6DIFQm4MXYI)**
+**[AI DOOMSDAY?: Joe Rogan challenges tech CEO](https://www.youtube.com/watch?v=5y5gTgEc9Vc)**
 
-Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial intelligence, including scenarios where AI resorts to ...
 
-📺 Impossible AIs
+📺 Fox News Clips
 
-👁️ 560K • 👍 2K • 💬 69 • ⏱️ 8:09 • 2d ago
+👁️ 15K • 👍 325 • 💬 137 • ⏱️ 6:22 • 22h ago
 
 ---
 
-**[AI Has Gone Too Far](https://www.youtube.com/watch?v=CTF73mW8kcE)**
+**[Can AI crack the process of aging? | BBC News](https://www.youtube.com/watch?v=yRDek-pGcwE)**
 
-Another heaping of AI Slop, this time involving Franklin the Turtle, Japanese game developers and the blatant copyright abuse of ...
+The race to unlock the secret to a longer life is on - and two sisters from a Cambridge start-up might be closer than anyone else.
 
-📺 Dolan Darkest
+📺 BBC News
 
-👁️ 255K • 👍 14K • 💬 2K • ⏱️ 2:28 • 1d ago
+👁️ 16K • 👍 496 • 💬 204 • ⏱️ 8:08 • 13h ago
+
+---
+
+**[AI Insider WARNS: “This Ends Much Worse Than You Think”](https://www.youtube.com/watch?v=dnkRXYmmgX0)**
+
+World-leading AI scientist Professor Stuart Russell issues one of the most urgent warnings ever given on this channel. After five ...
+
+📺 The Diary Of A CEO Clips
+
+👁️ 39K • 👍 1K • 💬 383 • ⏱️ 21:18 • 3h ago
+
+---
+
+**[The AI pressure cooker: OpenAI, Nvidia and Google all on the move](https://www.youtube.com/watch?v=BYnTk3l6sfs)**
+
+From Capitol Hill to the back of an Uber in Dubai — this week showed just how much pressure the AI race is under. OpenAI's Sam ...
+
+📺 CNBC Television
+
+👁️ 25K • 👍 256 • 💬 30 • ⏱️ 22:41 • 23h ago
+
+---
+
+**[Future of Education: How to Get Ahead before AI Changes Everything](https://www.youtube.com/watch?v=eaZ2R1K-SjQ)**
+
+Download the FREE Guide + Prompts: 20 Ways to Boost Your Professional Value with AI: https://clickhubspot.com/6aac42 00:00 ...
+
+📺 Silicon Valley Girl
+
+👁️ 13K • 👍 625 • 💬 45 • ⏱️ 20:50 • 1d ago
 
 ---
 
