@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T23:37:11.995329+00:00'
+updated: '2025-12-06T23:48:29.701672+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 23:37 UTC  
+**Last Updated:** December 06, 2025 at 23:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +1.3%  
-**30d:** -11.8%  
-**90d:** -29.7%  
-**1y:** -24.3%  
+**24h:** +0.5%  
+**7d:** +1.5%  
+**30d:** -11.6%  
+**90d:** -29.6%  
+**1y:** -24.2%  
 
 ---
 
@@ -104,7 +104,7 @@ Teranode from Craig Wright who it has been known since 2015 was Satoshi is scali
 
 My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 18h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 19h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 145 • 💬 9 • ⏱️ 5:03 • 5h ago
+👁️ 2K • 👍 145 • 💬 9 • ⏱️ 5:03 • 6h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN & ALTCOIN REVERSAL LOADING... (Prepare Now)!!! - Bitcoin News Today, Eth
 
 📺 Crypto World
 
-👁️ 9K • 👍 390 • 💬 145 • ⏱️ 21:34 • 12h ago
+👁️ 9K • 👍 390 • 💬 145 • ⏱️ 21:34 • 13h ago
 
 ---
 

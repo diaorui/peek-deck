@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T23:37:11.989206+00:00'
+updated: '2025-12-06T23:48:29.695567+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 23:37 UTC  
+**Last Updated:** December 06, 2025 at 23:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,075.20
+### $89,051.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** -1.6%  
-**30d:** -14.0%  
-**90d:** -20.3%  
-**1y:** -10.7%  
+**24h:** -0.2%  
+**7d:** -1.8%  
+**30d:** -14.2%  
+**90d:** -20.5%  
+**1y:** -10.9%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Burnsish?
 
-2h ago
+3h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Economist • 2d ago
 
 **[MSTR Stock: Strategy, The Bitcoin Whale, Is Wall Street's Biggest Mistake](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 6h ago
 
 ---
 

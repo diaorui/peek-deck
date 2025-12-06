@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T23:37:11.980502+00:00'
+updated: '2025-12-06T23:48:29.686618+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- social
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 23:37 UTC  
+**Last Updated:** December 06, 2025 at 23:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 … and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
 
-7h ago
+8h ago
 
 ---
 
@@ -81,7 +81,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
 
-🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 5h ago
+🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 6h ago
 
 ---
 
@@ -299,7 +299,7 @@ Connor Leahy discusses the motivations of AGI corporations, how modern AI is "gr
 
 📺 Bob Reese
 
-👁️ 6.0M • 👍 170K • 💬 1K • ⏱️ 1:02 • 20h ago
+👁️ 6.0M • 👍 170K • 💬 1K • ⏱️ 1:02 • 21h ago
 
 ---
 
@@ -699,7 +699,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 9m ago
+⭐ 826 • 🔱 43 • 20m ago
 
 ---
 
