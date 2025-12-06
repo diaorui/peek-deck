@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T03:01:18.191682+00:00'
+updated: '2025-12-06T03:47:58.937833+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 03:01 UTC  
+**Last Updated:** December 06, 2025 at 03:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper for scientific research and education but also an eye-catcher for entertainment companionship and commercial demonstrations～ 3.5m/s fast running, 1-2 hours battery life, IP54 dustproof & waterproof, durable and easy to use!: https://x.com/AgiBot_zhiyuan/status/1996928040182464537
 
-13h ago
+14h ago
 
 ---
 
@@ -44,7 +44,7 @@ AGIBOT on 𝕏: AGIBOT D1 Pro/Edu Quadruped Robot is not only a reliable helper 
 
 https://youtu.be/UAlm8Z4mfpU
 
-3h ago
+4h ago
 
 ---
 
@@ -56,15 +56,7 @@ https://youtu.be/UAlm8Z4mfpU
 
 **[Chat Interface for Isaac Sim](https://www.reddit.com/r/robotics/comments/1pfa7jb/chat_interface_for_isaac_sim/)**
 
-3h ago
-
----
-
-**[Making a Marauder's Map from Harry Potter](https://www.reddit.com/r/robotics/comments/1pf1agl/making_a_marauders_map_from_harry_potter/)**
-
-Arthur C. Clarke said "Any sufficiently advanced technology is indistinguishable from magic". This is the perfect example of that. We are taking a magical map that previously could only exist in a magical world and bringing it to life using robots, DeepStream, and multiple A6000 GPUs!
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=dO32ImnsX-4) • 9h ago
+4h ago
 
 ---
 
@@ -80,7 +72,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 For a long time, many robotics teams believed that real robot interaction data was the only reliable foundation for training generalist manipulation models. But real-world data collection is extremely expensive, slow, and fundamentally limited by human labor. Recent results suggest the landscape is changing. Three industry signals stand out: 1. InternData-A1: Synthetic data beats the strongest real-world dataset Shanghai AI Lab’s new paper InternData-A1 (Nov 2025, arXiv) is the first to show that pure simulation data can match or outperform the best real-robot dataset used to train Pi0. The dataset is massive: 630k+ trajectories 7,434 hours 401M frames 4 robot embodiments, 18 skill types, 70 tasks $0.003 per trajectory generation cost One 8×RTX4090 workstation → 200+ hours of robot data per day Results: On RoboTwin2.0 (49 bimanual tasks): +5–6% success over Pi0 On 9 real-world tasks: +6.2% success Sim-to-Real: 1,600 synthetic samples ≈ 200 real samples (≈8:1 efficiency) The long-held “simulation quality discount” is shrinking fast. 2. GEN-0 exposes the economic impossibility of scaling real-world teleoperation Cross-validated numbers show: Human teleoperation cost per trajectory: $2–$10 Hardware systems: $30k–$40k 1 billion trajectories → $2–10 billion GEN-0’s own scaling law predicts that laundry alone would require 1B interactions for strong performance. https://preview.redd.it/qd8pkcdpfd5g1.png?width=556&format=png&auto=webp&s=1df2607476d3e63f5ca32edae1bf7319d97f1176 Even with Tesla-level resources, this is not feasible. That’s why GEN-0 relies on distributed UMI collection across thousands of sites instead of traditional teleoperation. 3. Tesla’s Optimus shifts dramatically: from mocap → human video imitation Timeline: 2022–2024: Tesla used full-body mocap suits + VR teleop; operators wore ~30 lb rigs, walked 7 hours/day, paid up to $48/hr. May 21, 2025: Tesla confirms:“Optimus is now learning new tasks directly from human videos.” June 2025: Tesla transitions to a vision-only approach, dropping mocap entirely. Their demo showed Optimus performing tasks like trash disposal, vacuuming, cabinet/microwave use, stirring, tearing paper towels, sorting industrial parts — all claimed to be controlled by a single end-to-end network. 4. So is real robot data obsolete? Not exactly. These developments indicate a shift, not a disappearance: Synthetic data (InternData-A1) is now strong enough to pre-train generalist policies Distributed real data (GEN-0) remains critical for grounding and calibration Pure video imitation (Tesla) offers unmatched scalability but still needs validation for fine manipulation All major approaches still rely on a small amount of real data for fine-tuning or evaluation Open Questions: Where do you think the field is heading? A synthetic-first paradigm? Video-only learning at scale? Hybrid pipelines mixing sim, video, and small real datasets? Or something entirely new? Curious to hear perspectives from researchers, roboticists, and anyone training embodied agents.
 
-15h ago
+16h ago
 
 ---
 
@@ -88,13 +80,21 @@ For a long time, many robotics teams believed that real robot interaction data w
 
 ROS News for the Week of December 2nd, 2025     ROSCon 2025 videos are now available! If you want a quick summary of the event I put together ROSCon 2025 Recap for the OpenCV Weekly Webinar.       For Giving Tuesday we put together a new campaign for ROS users to become a become a Build Farm Backer. If you’ve every saved a few minutes by running sudo apt install ros-kilted-* instead of compiling from source we would love it if you helped cover our compute costs. Also, for the first time ever, we...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-2nd-2025/51298) • 6h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-december-2nd-2025/51298) • 7h ago
+
+---
+
+**[Making a Marauder's Map from Harry Potter](https://www.reddit.com/r/robotics/comments/1pf1agl/making_a_marauders_map_from_harry_potter/)**
+
+Arthur C. Clarke said "Any sufficiently advanced technology is indistinguishable from magic". This is the perfect example of that. We are taking a magical map that previously could only exist in a magical world and bringing it to life using robots, DeepStream, and multiple A6000 GPUs!
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=dO32ImnsX-4) • 10h ago
 
 ---
 
 **[PLA logistics brigade member delivering supplies to frontline positions with the new standard passive exoskeleton during combat training.](https://www.reddit.com/r/robotics/comments/1pen0qf/pla_logistics_brigade_member_delivering_supplies/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -102,7 +102,7 @@ ROS News for the Week of December 2nd, 2025     ROSCon 2025 videos are now avail
 
 Since 10 years ago, I have been thinking about the following question in my spare time, mostly as an intellectual challenge just for fun: if you are an engineer tasked to design the visual system of an organism, what would you do? This question is too big, so I worked one small step at a time and see how far I can get. I have summarized my decade journey in the following note: https://arxiv.org/abs/2210.13004 Probably the most interesting part is the last part of the note where I proposed a loss function to learn image patches representation using unsupervised learning. The learned representation is a natural binary vector, rather than typical real vectors or binary vectors from quantization of real vectors. Very preliminary experiments show that it is much more efficient than the representation learned by CNN using supervised learning. Practically, I’m thinking this could be used as an image/video tokenizer for LLMs or related models. However, due to growing family responsibilities, I now have less time to pursue this line of research as a hobby. So I’m posting it here in case anyone finds it interesting or useful.
 
-20h ago
+21h ago
 
 ---
 
@@ -148,6 +148,14 @@ Investor's Business Daily • 1d ago
 
 ---
 
+**[Massimo Group (NASDAQ: MAMO) forms AI robotics division to enter global automation and smart-systems markets](https://www.stocktitan.net/news/MAMO/massimo-group-announces-formation-of-ai-robotics-division-expanding-p08w84pho0qe.html)**
+
+Massimo Group forms Massimo AI Technology to develop industrial automation and logistics robotics, aiming to diversify revenue and expand beyond powersports and EVs.
+
+Stock Titan • 1d ago
+
+---
+
 **[Vision-native AI opportunities: a precursor to intelligent robotics](https://www.bvp.com/atlas/vision-native-ai-opportunities-a-precursor-to-intelligent-robotics)**
 
 As AI advances into the real world of robotics and automation, we’re seeing a turning point for physical AI — 1X’s NEO Home Robot can now adapt to new environments in real-time, Physical Intelligence’s Pi0 became the first robot to fold laundry with human-level dexterity straight from a hamper, and Tesla’s Optimus is performing complex […]
@@ -172,14 +180,6 @@ BBC • 1d ago
 
 ---
 
-**[Marine robotics firm will resume deep-sea search for MH370 plane that vanished a decade ago](https://www.cnn.com/2025/12/03/asia/malaysia-mh370-robotics-search-latam-intl)**
-
-Malaysia’s transport ministry said Wednesday that a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace.
-
-CNN • 2d ago
-
----
-
 **[Video: US humanoid robot nears human jogging pace in new running demo](https://interestingengineering.com/ai-robotics/figure-humanoid-nears-human-jogging-pace)**
 
 Figure AI CEO Brett Adcock dropped a short, electrifying video on social media, teasing the extraordinary speed and agility of Figure 03 humanoid robot.
@@ -192,33 +192,23 @@ Interesting Engineering • 18h ago
 
 ## YouTube Videos: "robotics"
 
-**[ChatGPT in a real robot does what experts warned.](https://www.youtube.com/watch?v=byQmJ9x0RWA)**
-
-Chat GPT inside a robot. Can we trust AI? Use code insideai at https://incogni.com/insideai to get an exclusive 60% off Please ...
-
-📺 InsideAI
-
-👁️ 553K • 👍 22K • 💬 3K • ⏱️ 14:58 • 5d ago
-
----
-
 **[Tesla’s Running Robot: Optimus Just Took a Huge Step Forward](https://www.youtube.com/watch?v=xE_gPhwzQAc)**
 
 Tesla just showed its Optimus humanoid robot running in the laboratory, and it looks a lot closer to a real life sci fi moment than a ...
 
 📺 DPCcars
 
-👁️ 58K • 👍 467 • 💬 229 • ⏱️ 2:30 • 2d ago
+👁️ 59K • 👍 475 • 💬 238 • ⏱️ 2:30 • 2d ago
 
 ---
 
-**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
+**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
 
-Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
+Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
 
-📺 Unitree Robotics
+📺 Fin Tek
 
-👁️ 444K • 👍 1K • 💬 280 • ⏱️ 1:06 • 2d ago
+👁️ 4K • 👍 327 • 💬 116 • ⏱️ 21:31 • 2h ago
 
 ---
 
@@ -228,7 +218,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 92K • 💬 577 • ⏱️ 1:21 • 2d ago
+👁️ 93K • 💬 585 • ⏱️ 1:21 • 2d ago
 
 ---
 
@@ -238,7 +228,15 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 70K • 👍 374 • 💬 4 • ⏱️ 0:19 • 22h ago
+👁️ 78K • 👍 414 • 💬 5 • ⏱️ 0:19 • 22h ago
+
+---
+
+**[Purchased the newly released 2025 humanoid robot. #robotics #ai #humanoidrobot #airobot](https://www.youtube.com/watch?v=NJeenJ276ug)**
+
+📺 AI . Robot
+
+👁️ 1.0M • 👍 6K • 💬 41 • ⏱️ 0:17 • 1d ago
 
 ---
 
@@ -248,7 +246,27 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 10K • 👍 196 • 💬 121 • ⏱️ 4:05 • 1d ago
+👁️ 10K • 👍 214 • 💬 127 • ⏱️ 4:05 • 1d ago
+
+---
+
+**[Viral Art Exhibit Shows Musk, Zuckerberg and Bezos as Creepy Robot Dogs](https://www.youtube.com/watch?v=tFfR0uQXl7w)**
+
+Famed artist Beeple's newest spectacle, “Regular Animals,” has billionaire-tech-titan robot dogs pooping out NFTs, stopping ...
+
+📺 New York Post
+
+👁️ 5K • 👍 94 • 💬 64 • ⏱️ 2:06 • 14h ago
+
+---
+
+**[ChatGPT in a real robot does what experts warned.](https://www.youtube.com/watch?v=byQmJ9x0RWA)**
+
+Chat GPT inside a robot. Can we trust AI? Use code insideai at https://incogni.com/insideai to get an exclusive 60% off Please ...
+
+📺 InsideAI
+
+👁️ 560K • 👍 23K • 💬 3K • ⏱️ 14:58 • 5d ago
 
 ---
 
@@ -258,7 +276,7 @@ In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot 
 
 📺 AI Robot Lab
 
-👁️ 65K • 👍 279 • 💬 9 • ⏱️ 0:19 • 14h ago
+👁️ 79K • 👍 321 • 💬 9 • ⏱️ 0:19 • 14h ago
 
 ---
 
@@ -268,25 +286,7 @@ XPeng's new humanoid robot, IRON, went viral after the company cut it open on st
 
 📺 CNET
 
-👁️ 542K • 👍 3K • 💬 543 • ⏱️ 5:04 • 5d ago
-
----
-
-**[New Humanoid ‘Jena’ Unveiled at the 2025 Robot Expo. #robotics #humanoidrobot #robot #ai](https://www.youtube.com/watch?v=XVHKg1DNMg4)**
-
-📺 AI . Robot
-
-👁️ 396K • 👍 4K • 💬 45 • ⏱️ 0:19 • 4d ago
-
----
-
-**[AI Humanoid Robot Awakens for the First Time at an LA Tech Expo #HumanoidRobot #AIrobot](https://www.youtube.com/watch?v=6l8elhGM6cE)**
-
-Inside a high-security robotics lab in Los Angeles, a next-gen humanoid robot is activated for the very first time. Engineers run final ...
-
-📺 AI Robot Lab
-
-👁️ 414K • 👍 3K • 💬 32 • ⏱️ 0:34 • 3d ago
+👁️ 543K • 👍 3K • 💬 544 • ⏱️ 5:04 • 5d ago
 
 ---
 

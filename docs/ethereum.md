@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T03:01:18.188421+00:00'
+updated: '2025-12-06T03:47:58.934497+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- news
+- cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 03:01 UTC  
+**Last Updated:** December 06, 2025 at 03:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.6%  
-**7d:** +1.1%  
-**30d:** -11.9%  
-**90d:** -29.8%  
-**1y:** -24.4%  
+**24h:** -4.2%  
+**7d:** +1.6%  
+**30d:** -11.5%  
+**90d:** -29.5%  
+**1y:** -24.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $365.68B
+**Market Cap:** $366.88B
 Rank #2
 
 **Circulating Supply:** 120,695,414 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.8%
+-38.5%
 
 **All-Time Low:** $0.43
-+699324.2%
++702001.0%
 
 ---
 
@@ -96,7 +96,7 @@ Trump crypto empire falls faster than bitcoin
 
 saw some questions about production web3 gaming setups so figured i'd share our full stack, we run a multiplayer game with about 10k active players. frontend: unity for game client, react for web dashboard smart contracts: solidity, hardhat for development, foundry for testing infrastructure: caldera for rollup deployment, alchemy for backup rpc calls, the graph for indexing monitoring: tenderly for transaction monitoring, sentry for error tracking deployment: github actions for ci/cd, vercel for web hosting analytics: mixpanel for user analytics, dune for on chain analytics The infrastructure piece was the biggest decision, we initially tried deploying our own rollup but it was a nightmare, switched to managed solution and shipped way faster. deployment was straightforward and support has been solid when we needed it. The biggest cost is actually alchemy for backup rpc even though we have our own nodes, turns out redundancy is worth it when you have paying users. whole stack runs about $800-1000 per month. We use both hardhat and foundry because hardhat for deployment scripts and foundry for testing since its way faster. mostly standard ethereum tools, game specific stuff is all in unity not on chain. Im happy to answer questions about any of these choices or tradeoffs we made.
 
-14h ago
+15h ago
 
 ---
 
@@ -104,7 +104,7 @@ saw some questions about production web3 gaming setups so figured i'd share our 
 
 Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary
 
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 15h ago
+🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 16h ago
 
 ---
 
@@ -172,15 +172,13 @@ Yahoo Finance • 15h ago
 
 **[BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target](https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target)**
 
-TipRanks • 13h ago
+TipRanks • 14h ago
 
 ---
 
-**[Bitmine stock jumps 15% as Tom Lee scoops up $150m more Ethereum](https://www.dlnews.com/articles/markets/bitmine-stock-jumps-15-percent-as-tom-lee-snaps-up-150-in-ethereum/)**
+**[Ethereum treasury firm BitMine adds $150 million in ETH as DAT buying dries up](https://www.theblock.co/post/381302/bitmine-150-million-eth)**
 
-Bitmine is the second-largest crypto treasury company, behind only Strategy.   The latest investment comes amid a major upgrade to the Ethereum network. Investors overwhelmingly expect macro tailwinds in December.
-
-dlnews.com • 1d ago
+The Block • 1d ago
 
 ---
 
@@ -192,11 +190,9 @@ Nasdaq • 1d ago
 
 ---
 
-**[Ethereum Price Swells as Fusaka Upgrade Goes Live](https://decrypt.co/350883/ethereum-price-swells-as-fusaka-upgrade-goes-live)**
+**[Ethereum Launches Fusaka Upgrade to Make Network More Scalable](https://thedefiant.io/news/blockchains/ethereum-launches-fusaka-upgrade-to-make-network-more-scalable)**
 
-Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade.
-
-Decrypt • 1d ago
+The Defiant • 2d ago
 
 ---
 
@@ -216,11 +212,11 @@ cheddar.com • 1d ago
 
 ---
 
-**[Bitcoin Vs. Ethereum And The Flippening Lubin Predicts](https://www.forbes.com/sites/jonegilsson/2025/12/02/bitcoin-vs-ethereum-and-the-flippening-lubin-predicts/)**
+**[Why Ethereum Is Gaining Today](https://www.fool.com/investing/2025/12/02/why-ethereum-is-gaining-fed-vice-chair/)**
 
-Joe Lubin predicts Ethereum will flip Bitcoin. This analysis explains ETH’s utility loop, Bitcoin’s scarcity, and why money is entering a multi-form future.
+Stablecoin regulation is moving forward.
 
-Forbes • 3d ago
+The Motley Fool • 3d ago
 
 ---
 
@@ -234,7 +230,17 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 75K • 👍 4K • 💬 438 • ⏱️ 11:16 • 1d ago
+👁️ 78K • 👍 4K • 💬 462 • ⏱️ 11:16 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=FJ8VniUMYIs)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 137 • 👍 16 • 💬 3 • ⏱️ 5:46 • 31m ago
 
 ---
 
@@ -244,7 +250,7 @@ Real-time crypto analysis — join my VIP Telegram.
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 36 • 💬 129 • ⏱️ 5:24 • 13h ago
+👁️ 1K • 👍 37 • 💬 130 • ⏱️ 5:24 • 14h ago
 
 ---
 
@@ -254,47 +260,7 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 37K • 👍 2K • 💬 122 • ⏱️ 17:37 • 1d ago
-
----
-
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 16K • 👍 392 • 💬 316 • ⏱️ 15:38 • 21h ago
-
----
-
-**[Ethereum in CRISIS After MASSIVE Crypto Update](https://www.youtube.com/watch?v=l5rNGCFV7oU)**
-
-Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydfi.Bitboy.Deals Telegram Group - Get ...
-
-📺 BitBoy X
-
-👁️ 3K • 👍 219 • ⏱️ 25:41 • 10h ago
-
----
-
-**[BREAKING: ETHEREUM AT $62,000 IN THE COMING MONTHS‼️‼️‼️](https://www.youtube.com/watch?v=4goziUGIYHY)**
-
-GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners ...
-
-📺 Ivan on Tech
-
-👁️ 24K • 👍 2K • 💬 125 • ⏱️ 31:23 • 17h ago
-
----
-
-**[Ethereum Finally REVERSING! (Bitcoin Sets Up MASSIVE 2026 Bull Market)](https://www.youtube.com/watch?v=mq4KoKQqfRE)**
-
-Ethereum is finally showing signs of a major reversal, and the charts suggest this could be the beginning of a powerful momentum ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 431 • 💬 13 • ⏱️ 59:34 • 10h ago
+👁️ 37K • 👍 2K • 💬 125 • ⏱️ 17:37 • 1d ago
 
 ---
 
@@ -308,13 +274,43 @@ What a huge trap on bitcoin, ethereum and the rest of crypto!!! Beware and get r
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=_UZYmLMT0KU)**
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
 
-📺 More Crypto Online
+📺 Library Of Wealth
 
-👁️ 3K • 👍 185 • 💬 5 • ⏱️ 5:20 • 12h ago
+👁️ 16K • 👍 405 • 💬 340 • ⏱️ 15:38 • 22h ago
+
+---
+
+**[BREAKING: ETHEREUM AT $62,000 IN THE COMING MONTHS‼️‼️‼️](https://www.youtube.com/watch?v=4goziUGIYHY)**
+
+GET TRAINED BY ME: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners ...
+
+📺 Ivan on Tech
+
+👁️ 24K • 👍 2K • 💬 125 • ⏱️ 31:23 • 18h ago
+
+---
+
+**[ETH Ethereum Price Prediction: 5th of December](https://www.youtube.com/watch?v=eGcX64tTJGI)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 343 • 👍 29 • 💬 4 • ⏱️ 7:09 • 8h ago
+
+---
+
+**[Ethereum in CRISIS After MASSIVE Crypto Update](https://www.youtube.com/watch?v=l5rNGCFV7oU)**
+
+Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydfi.Bitboy.Deals Telegram Group - Get ...
+
+📺 BitBoy X
+
+👁️ 3K • 👍 228 • ⏱️ 25:41 • 10h ago
 
 ---
 
@@ -324,7 +320,7 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 75K • 👍 3K • 💬 453 • ⏱️ 27:33 • 1d ago
+👁️ 77K • 👍 3K • 💬 457 • ⏱️ 27:33 • 1d ago
 
 ---
 
