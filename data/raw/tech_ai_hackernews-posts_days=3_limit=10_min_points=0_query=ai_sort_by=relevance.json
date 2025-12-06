@@ -51,8 +51,8 @@
       "url": "https://blog.google/technology/developers/gemini-3-pro-vision/",
       "hn_url": "https://news.ycombinator.com/item?id=46163308",
       "author": "xnx",
-      "points": 490,
-      "num_comments": 252,
+      "points": 498,
+      "num_comments": 255,
       "created_at": "2025-12-05T16:15:10Z",
       "object_id": "46163308",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiAFVAI_Wagtial_RD1-V01.width-1300.png",
@@ -79,8 +79,8 @@
       "url": "https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg",
       "hn_url": "https://news.ycombinator.com/item?id=46169554",
       "author": "mystraline",
-      "points": 339,
-      "num_comments": 194,
+      "points": 342,
+      "num_comments": 198,
       "created_at": "2025-12-06T01:15:48Z",
       "object_id": "46169554",
       "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/07/05/Skz1mlnepO/Skz1mlnepO_1_105_1000_563_0_large.jpg",
@@ -117,20 +117,6 @@
       "site_name": "OpenRouter"
     },
     {
-      "title": "Microsoft lowers AI software growth targets",
-      "url": "https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html",
-      "hn_url": "https://news.ycombinator.com/item?id=46135388",
-      "author": "ramoz",
-      "points": 129,
-      "num_comments": 97,
-      "created_at": "2025-12-03T15:11:58Z",
-      "object_id": "46135388",
-      "image": "https://media.zenfs.com/en/reuters-finance.com/6f18ec98d8371aa28c130bea8170a867",
-      "description": "Multiple divisions at Microsoft have lowered sales growth targets for certain artificial intelligence products after many \u200bsales staff missed goals in the fiscal year that \u200cended in June, The Information reported on Wednesday.  It is rare for Microsoft to \u200clower quotas for specific products, the report said, citing two salespeople in the Azure cloud unit.  Lower sales growth goals for Microsoft's AI products are likely to fans fears about \u200breal-world adoption of AI as an MIT study from earlier \u200cthis year had found that only about 5% of AI projects advance beyond the pilot stage.",
-      "favicon": "https://s.yimg.com/cv/apiv2/default/finance/favicon-180x180.png",
-      "site_name": "Yahoo Finance"
-    },
-    {
       "title": "The AI Backlash Is Here: Why Public Patience with Tech Giants Is Running Out",
       "url": "https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425",
       "hn_url": "https://news.ycombinator.com/item?id=46164419",
@@ -143,9 +129,23 @@
       "description": "Welcome to the slop era.",
       "favicon": "https://www.newsweek.com/apple-touch-icon.png",
       "site_name": "Newsweek"
+    },
+    {
+      "title": "Countdown until the AI bubble bursts",
+      "url": "https://pop-the-bubble.xyz/",
+      "hn_url": "https://news.ycombinator.com/item?id=46153332",
+      "author": "tapematch",
+      "points": 77,
+      "num_comments": 35,
+      "created_at": "2025-12-04T21:27:36Z",
+      "object_id": "46153332",
+      "image": "https://pop-the-bubble.xyz/icon.png",
+      "description": "A live AI-driven countdown to the potential burst of the AI market bubble. Updated daily with market sentiment analysis.",
+      "favicon": "https://pop-the-bubble.xyz/apple-touch-icon.png",
+      "site_name": "pop-the-bubble.xyz"
     }
   ],
-  "total_hits": 524,
+  "total_hits": 523,
   "has_metadata": true,
-  "fetched_at": "2025-12-06T15:01:00.847367+00:00"
+  "fetched_at": "2025-12-06T15:40:46.816584+00:00"
 }

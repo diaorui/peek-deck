@@ -75,20 +75,6 @@
       "site_name": "bitcoinhalvingcountdown.com"
     },
     {
-      "title": "Wasabi: Open-source, privacy preserving Bitcoin wallet",
-      "url": "https://github.com/WalletWasabi/WalletWasabi",
-      "hn_url": "https://news.ycombinator.com/item?id=46088334",
-      "author": "kekqqq",
-      "points": 1,
-      "num_comments": 0,
-      "created_at": "2025-11-29T15:39:17Z",
-      "object_id": "46088334",
-      "image": "https://repository-images.githubusercontent.com/55341469/4a105f00-6604-11e9-916e-2bb864f60ec8",
-      "description": "Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac. - WalletWasabi/WalletWasabi",
-      "favicon": "https://github.githubassets.com/favicons/favicon.png",
-      "site_name": "GitHub"
-    },
-    {
       "title": "Market Volatility Underscores Epic Buildup of Global Risk",
       "url": "https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html",
       "hn_url": "https://news.ycombinator.com/item?id=46104355",
@@ -131,7 +117,7 @@
       "site_name": "nytimes.com"
     }
   ],
-  "total_hits": 9,
+  "total_hits": 8,
   "has_metadata": true,
-  "fetched_at": "2025-12-06T15:01:02.086475+00:00"
+  "fetched_at": "2025-12-06T15:40:46.511237+00:00"
 }

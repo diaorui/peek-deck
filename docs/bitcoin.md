@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T15:26:57.650860+00:00'
+updated: '2025-12-06T15:41:11.980450+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 15:26 UTC  
+**Last Updated:** December 06, 2025 at 15:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
+**24h:** +0.9%  
 **7d:** -0.9%  
 **30d:** -13.4%  
-**90d:** -19.8%  
-**1y:** -10.1%  
+**90d:** -19.7%  
+**1y:** -10.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1797.89B
+**Market Cap:** $1789.68B
 Rank #1
 
 **Circulating Supply:** 19,958,365 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.6%
+-28.9%
 
 **All-Time Low:** $67.81
-+132665.1%
++132138.6%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,13 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 **[Just a good reminder for all off you guys...](https://www.reddit.com/r/Bitcoin/comments/1pf1bim/just_a_good_reminder_for_all_off_you_guys/)**
 
-21h ago
+22h ago
+
+---
+
+**[13 years ago Bitcoin was $13.36 and we were still playing PS2 💔](https://www.reddit.com/r/Bitcoin/comments/1pfp765/13_years_ago_bitcoin_was_1336_and_we_were_still/)**
+
+2h ago
 
 ---
 
@@ -123,21 +129,15 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 ---
 
-**[13 years ago Bitcoin was $13.36 and we were still playing PS2 💔](https://www.reddit.com/r/Bitcoin/comments/1pfp765/13_years_ago_bitcoin_was_1336_and_we_were_still/)**
-
-2h ago
-
----
-
-**[Just a normal day in the market.](https://www.reddit.com/r/Bitcoin/comments/1pfquzs/just_a_normal_day_in_the_market/)**
-
-46m ago
-
----
-
 **[Think For Yourself](https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/)**
 
 14h ago
+
+---
+
+**[👀](https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/)**
+
+13h ago
 
 ---
 
@@ -149,7 +149,35 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
+
+---
+
+**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
+
+Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Scam so convincing victim ignores police, puts thousands into Cryptocurrency ATM](https://fox8.com/news/scam-artist-so-convincing-elderly-victim-ignores-police-pleas-to-stop-puts-thousands-into-cryptocurrency-atm/)**
+
+FOX 8 News • 2h ago
+
+---
+
+**[DigitalBridge, Sezzle jump, American Bitcoin, WRB slide: week's financials wrap](https://www.msn.com/en-us/money/markets/digitalbridge-sezzle-jump-american-bitcoin-wrb-slide-week-s-financials-wrap/ar-AA1RQhs6?ocid=finance-verthp-feeds)**
+
+MSN • 12m ago
+
+---
+
+**[Professor Coin: When Bitcoin Sneezes—How Crypto and Equities Caught the Same Cold](https://finance.yahoo.com/news/professor-coin-bitcoin-sneezes-crypto-150102611.html)**
+
+Academic literature finds that during periods of economic stress, correlations and spillovers between cryptocurrencies and equities spike.
+
+Yahoo Finance • 40m ago
 
 ---
 
@@ -173,43 +201,17 @@ TheStreet • 1d ago
 
 ---
 
-**[Bitcoin in ₿ahrain](https://x.com/saylor/status/1997263322916495478)**
-
-x.com • 4h ago
-
----
-
-**[Scam so convincing victim ignores police, puts thousands into Cryptocurrency ATM](https://fox8.com/news/scam-artist-so-convincing-elderly-victim-ignores-police-pleas-to-stop-puts-thousands-into-cryptocurrency-atm/)**
-
-FOX 8 News • 2h ago
-
----
-
-**[Got $500? 3 Cryptocurrencies to Buy and Hold for Decades](https://www.fool.com/investing/2025/12/06/got-500-3-cryptocurrencies-to-buy-and-hold-for-dec/)**
-
-These three coins could form the backbone of your crypto portfolio.
-
-The Motley Fool • 4h ago
-
----
-
-**[Bitcoin Is Set for First Yearly Split From Stocks in Decade](https://finance.yahoo.com/news/bitcoin-set-first-yearly-split-141041017.html)**
-
-The digital asset has rarely deviated so cleanly from other risk assets even during past crypto winters.  Earlier this year, Bitcoin notched a record high above $126,000.  Bitcoin appears to be ending the week on a down note, dropping as much as 4.4% to $88,135 on Friday.
-
-Yahoo Finance • 22h ago
-
----
-
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqee2_cigV7dcoThtsk6vUR9OtftOiRtdta2tig-i3qTofPzyORjKp_6&gaa_ts=693448b1&gaa_sig=nWxp3HLTE466iHv4pFDSwJORqQTlUe-obRvbxoH-O1GB7KCD9Cv_oD2ntUYIwVTw_tYCL_SU7v84BG4p0QoQPg%3D%3D)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqepZg4QWadODNrFrr7tsn9kPHwWu51oBBHtrMyaZWCQUptJQPkw6Cq1&gaa_ts=69345202&gaa_sig=uJ17e_RnESTiaZrDt7h6VBzozpjBLk08gPgFompaXLxkiN2EQbuWMNK47SALiBLw_RgNGA3QD1nhPkAHmvJeaQ%3D%3D)**
 
 MarketWatch • 1d ago
 
 ---
 
-**[Bitcoin, XRP Price Rebounds. Why Are Cryptos Back Up Today?](https://www.barrons.com/articles/bitcoin-xrp-crypto-price-1944a313?gaa_at=eafs&gaa_n=AWEtsqd180vEQwxe6T_N0_k9qrivwCajvsUxDQhDsYhyi0kv2KVdLXG_ifJr&gaa_ts=693448b1&gaa_sig=52GyfMbNm-TYEWbuPpOshEfpl9TESCY07P-iPmM8EbbFKP8yyxvxD7wwug327ToQ09ujositsQ-uGLohd3aMUw%3D%3D)**
+**[Is Bitcoin About to Break Its Last Surviving Valuation Model?](https://www.coindesk.com/markets/2025/12/05/how-much-longer-until-we-consider-the-bitcoin-power-law-model-invalid)**
 
-Barron's • 3d ago
+As the gap between spot bitcoin price and the power law widens, investors are left questioning whether mean reversion is coming or if another cornerstone model is approaching its end.
+
+CoinDesk • 40m ago
 
 ---
 
@@ -252,14 +254,6 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 Track the next Bitcoin halving event with live countdown and real-time block updates
 
 ⬆️ 2 • 💬 0 • 5d ago • [bitcoinhalvingcountdown.com](https://bitcoinhalvingcountdown.com)
-
----
-
-**[Wasabi: Open-source, privacy preserving Bitcoin wallet](https://news.ycombinator.com/item?id=46088334)**
-
-Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac. - WalletWasabi/WalletWasabi
-
-⬆️ 1 • 💬 0 • 6d ago • [GitHub](https://github.com/WalletWasabi/WalletWasabi)
 
 ---
 
@@ -313,7 +307,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 9K • 👍 504 • 💬 388 • ⏱️ 9:08 • 14h ago
+👁️ 9K • 👍 504 • 💬 388 • ⏱️ 9:08 • 15h ago
 
 ---
 

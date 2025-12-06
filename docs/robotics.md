@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T15:26:57.660236+00:00'
+updated: '2025-12-06T15:41:11.989852+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 15:26 UTC  
+**Last Updated:** December 06, 2025 at 15:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Zhongqing CEO Receives the Challenge of T800
 
 **[Robot dance Arduino](https://www.reddit.com/r/robotics/comments/1pfijsr/robot_dance_arduino/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -67,6 +67,14 @@ https://youtu.be/UAlm8Z4mfpU
 Im working on an electric knee assist exoskeleton and i have a 450 rpm 24V 15kg*cm³ motor and i was wondering if it would be sufficient to show a noticeable difference for an average sized person when using the exoskeleton or will I need to use two motors.
 
 6h ago
+
+---
+
+**[Unified Autonomy Stack - Open-Source Release](https://www.reddit.com/r/robotics/comments/1pfs13u/unified_autonomy_stack_opensource_release/)**
+
+Dear community, The Unified Autonomy Stack targets generalization across robot morphologies and operational domains. We’re excited to open-source the Unified Autonomy Stack - a step toward a common blueprint for autonomy across robot configurations in the air, on land (and soon at sea). The stack centers on three broadly applicable modules: Perception: a multi-modal SLAM system fusing LiDAR, radar, vision, and IMU, complemented by VLM-based scene reasoning for object-level understanding and mission context. Planning: multi-stage planners enabling safe navigation, autonomous exploration, and efficient inspection planning in complex environments. Navigation & Multi-layered Safety: combining map-based collision avoidance and reactive navigation — including (a) Neural SDF-based NMPC (ensuring collision-free motion even in unknown or perceptually degraded spaces), (b) Exteroceptive Deep RL, and (c) Control Barrier Function-based safety filters. Validated extensively on rotary-wing and ground robots such as multirotors and legged robots (while several of its modules are also tested on fixed-wing aircraft and underwater ROVs), the stack has demonstrated resilient autonomy in GPS-denied and challenging field conditions. To support adoption, we additionally release UniPilot, a reference hardware design integrating a full sensing suite, time-synchronization electronics, and high-performance compute capable of running the entire stack with room for further development. This open-source release marks a step toward a unified autonomy blueprint spanning air, land, and sea. Repository: https://github.com/ntnu-arl/unified_autonomy_stack Documentation: https://ntnu-arl.github.io/unified_autonomy_stack/ We hope you find this useful for your research!
+
+8m ago
 
 ---
 
@@ -92,17 +100,11 @@ Hella everyone! I've been building this drone as my own personal test on my engi
 
 ---
 
-**[Are we witnessing the end of “real robot data” as the foundation of Embodied AI? Recent results from InternData-A1, GEN-0, and Tesla suggest a shift. (Original post by Felicia)](https://www.reddit.com/r/robotics/comments/1pessi4/are_we_witnessing_the_end_of_real_robot_data_as/)**
+**[Making a Marauder's Map from Harry Potter](https://www.reddit.com/r/robotics/comments/1pf1agl/making_a_marauders_map_from_harry_potter/)**
 
-For a long time, many robotics teams believed that real robot interaction data was the only reliable foundation for training generalist manipulation models. But real-world data collection is extremely expensive, slow, and fundamentally limited by human labor. Recent results suggest the landscape is changing. Three industry signals stand out: 1. InternData-A1: Synthetic data beats the strongest real-world dataset Shanghai AI Lab’s new paper InternData-A1 (Nov 2025, arXiv) is the first to show that pure simulation data can match or outperform the best real-robot dataset used to train Pi0. The dataset is massive: 630k+ trajectories 7,434 hours 401M frames 4 robot embodiments, 18 skill types, 70 tasks $0.003 per trajectory generation cost One 8×RTX4090 workstation → 200+ hours of robot data per day Results: On RoboTwin2.0 (49 bimanual tasks): +5–6% success over Pi0 On 9 real-world tasks: +6.2% success Sim-to-Real: 1,600 synthetic samples ≈ 200 real samples (≈8:1 efficiency) The long-held “simulation quality discount” is shrinking fast. 2. GEN-0 exposes the economic impossibility of scaling real-world teleoperation Cross-validated numbers show: Human teleoperation cost per trajectory: $2–$10 Hardware systems: $30k–$40k 1 billion trajectories → $2–10 billion GEN-0’s own scaling law predicts that laundry alone would require 1B interactions for strong performance. https://preview.redd.it/qd8pkcdpfd5g1.png?width=556&format=png&auto=webp&s=1df2607476d3e63f5ca32edae1bf7319d97f1176 Even with Tesla-level resources, this is not feasible. That’s why GEN-0 relies on distributed UMI collection across thousands of sites instead of traditional teleoperation. 3. Tesla’s Optimus shifts dramatically: from mocap → human video imitation Timeline: 2022–2024: Tesla used full-body mocap suits + VR teleop; operators wore ~30 lb rigs, walked 7 hours/day, paid up to $48/hr. May 21, 2025: Tesla confirms:“Optimus is now learning new tasks directly from human videos.” June 2025: Tesla transitions to a vision-only approach, dropping mocap entirely. Their demo showed Optimus performing tasks like trash disposal, vacuuming, cabinet/microwave use, stirring, tearing paper towels, sorting industrial parts — all claimed to be controlled by a single end-to-end network. 4. So is real robot data obsolete? Not exactly. These developments indicate a shift, not a disappearance: Synthetic data (InternData-A1) is now strong enough to pre-train generalist policies Distributed real data (GEN-0) remains critical for grounding and calibration Pure video imitation (Tesla) offers unmatched scalability but still needs validation for fine manipulation All major approaches still rely on a small amount of real data for fine-tuning or evaluation Open Questions: Where do you think the field is heading? A synthetic-first paradigm? Video-only learning at scale? Hybrid pipelines mixing sim, video, and small real datasets? Or something entirely new? Curious to hear perspectives from researchers, roboticists, and anyone training embodied agents.
+Arthur C. Clarke said "Any sufficiently advanced technology is indistinguishable from magic". This is the perfect example of that. We are taking a magical map that previously could only exist in a magical world and bringing it to life using robots, DeepStream, and multiple A6000 GPUs!
 
-1d ago
-
----
-
-**[Chat Interface for Isaac Sim](https://www.reddit.com/r/robotics/comments/1pfa7jb/chat_interface_for_isaac_sim/)**
-
-15h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=dO32ImnsX-4) • 22h ago
 
 ---
 
@@ -140,14 +142,6 @@ Investor's Business Daily • 1d ago
 
 ---
 
-**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
-
-Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
-
-MLive.com • 1d ago
-
----
-
 **[Marine robotics firm will resume deep-sea search for MH370 plane that vanished a decade ago](https://www.cnn.com/2025/12/03/asia/malaysia-mh370-robotics-search-latam-intl)**
 
 Malaysia’s transport ministry said Wednesday that a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace.
@@ -169,6 +163,14 @@ The Robot Report • 22h ago
 Swan EndoSurgical, a gastrointestinal startup launched by Olympus and Revival Healthcare Capital earlier this year, has named former Stryker executive Erik Todd as its CEO. | Swan EndoSurgical, formed by Olympus and Revival Healthcare Capital this year, named former Stryker executive Erik Todd as CEO.
 
 Fierce Biotech • 3d ago
+
+---
+
+**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
+
+Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
+
+MLive.com • 1d ago
 
 ---
 

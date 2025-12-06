@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T15:26:57.656969+00:00'
+updated: '2025-12-06T15:41:11.986520+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 15:26 UTC  
+**Last Updated:** December 06, 2025 at 15:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,26 +43,26 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** -0.3%  
-**7d:** +1.3%  
-**30d:** -11.7%  
-**90d:** -29.7%  
-**1y:** -24.3%  
+**7d:** +1.6%  
+**30d:** -11.5%  
+**90d:** -29.5%  
+**1y:** -24.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $368.98B
+**Market Cap:** $366.14B
 Rank #2
 
 **Circulating Supply:** 120,695,414 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.2%
+-38.6%
 
 **All-Time Low:** $0.43
-+705532.4%
++700862.4%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 10h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 11h ago
 
 ---
 
@@ -158,19 +158,17 @@ Decrypt • 2d ago
 
 ---
 
-**[Ethereum Is Jumping Today-Here's Why](https://www.nasdaq.com/articles/ethereum-jumping-today-heres-why)**
-
-Key PointsEthereum receives a major update today that should improve its ability to scale.
-
-Nasdaq • 2d ago
-
----
-
 **[Tom Lee Claims Ethereum Will Hit $62,000 in Next Few Months, Ramps up Bitcoin Call to $250,000](https://finance.yahoo.com/news/tom-lee-claims-ethereum-hit-115214887.html)**
 
 Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum treasury firm BitMine adds $150 million in ETH as DAT buying dries up](https://www.theblock.co/post/381302/bitmine-150-million-eth)**
+
+The Block • 2d ago
 
 ---
 
@@ -182,23 +180,11 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Ethereum treasury firm BitMine adds $150 million in ETH as DAT buying dries up](https://www.theblock.co/post/381302/bitmine-150-million-eth)**
+**[Better Buy in 2026: Ethereum or Solana?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-solana)**
 
-The Block • 2d ago
+Key PointsDecentralized applications run on smart contracts, which automate their functions and ensure they can't be manipulated by humans.
 
----
-
-**[WisdomTree first to market with Ethereum staking fund using Lido's stETH](https://www.theblock.co/post/381549/wisdomtree-first-market-ethereum-staking-fund-lido-steth)**
-
-The Block • 22h ago
-
----
-
-**[Better Buy in 2026: Ethereum or Solana?](https://www.fool.com/investing/2025/12/04/better-buy-in-2026-ethereum-or-solana/)**
-
-Ethereum and Solana are battling for leadership in the decentralized revolution.
-
-The Motley Fool • 2d ago
+Nasdaq • 2d ago
 
 ---
 
@@ -221,6 +207,22 @@ Seeking Alpha • 1d ago
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
 cheddar.com • 1d ago
+
+---
+
+**[$4B in Bitcoin and Ethereum options set to expire](https://cryptobriefing.com/4-billion-btc-eth-options-expiry-impact/)**
+
+Around $4 billion in Bitcoin and Ethereum options contracts will expire today, potentially impacting market volatility.
+
+Crypto Briefing • 1d ago
+
+---
+
+**[Bitcoin holds in bullish consolidation as Ethereum drives Altcoin momentum](https://www.kitco.com/opinion/2025-12-05/bitcoin-holds-bullish-consolidation-ethereum-drives-altcoin-momentum)**
+
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+
+KITCO • 1d ago
 
 ---
 
@@ -314,7 +316,7 @@ The "Sovereign" Secret: The US Govt's 60000 ETH Stash Everyone is talking about 
 
 📺 Wall Street Stockcast
 
-👁️ 107 • 👍 8 • ⏱️ 7:40 • 2h ago
+👁️ 107 • 👍 8 • ⏱️ 7:40 • 3h ago
 
 ---
 
