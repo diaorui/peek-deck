@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T03:01:18.173910+00:00'
+updated: '2025-12-06T03:47:58.919803+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - videos
-- news
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 03:01 UTC  
+**Last Updated:** December 06, 2025 at 03:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 9h ago
+🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 13h ago
+🔗 [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/) • 14h ago
 
 ---
 
@@ -64,6 +64,14 @@ An AI image generator startup’s database was left accessible to the open inter
 **[Western AI lead over China is now measured in months not years.](https://www.reddit.com/r/artificial/comments/1pf6hpk/western_ai_lead_over_china_is_now_measured_in/)**
 
 6h ago
+
+---
+
+**[This tech is just wild](https://www.reddit.com/r/artificial/comments/1pf123f/this_tech_is_just_wild/)**
+
+I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
+
+10h ago
 
 ---
 
@@ -87,15 +95,7 @@ Meta plans Reality Labs budget cuts up to 30%, weighing job cuts amid metaverse 
 
 Title. I want an AI that i can train somewhat to then feed it raw audio for it to then just add clips onto it the same way id add them
 
-2h ago
-
----
-
-**[This tech is just wild](https://www.reddit.com/r/artificial/comments/1pf123f/this_tech_is_just_wild/)**
-
-I found a show in Swedish and went down the rabbit hole to see if I could translate it into English. Just dubbing in English would remove the other sounds in the video, such as music and ambient noise, so I just wanted to remove or reduce the Swedish and insert the English, leaving the rest. I used ChatGPT to guide me through the process. I used Faster Whisper XXL to do the translation/subtitle creation. I loaded the subtitles into Balabolka and used copious amounts of Google Fu to figure out how to add the more "natural" speaking models and settled on using Guy to generate the new speaking track. Then I used Ultimate Vocal Remover to separate the non-speaking audio into an "instrumental" file and used ffmpeg to add both the "Guy" and "instrumental" audio into the video. It was a fun experiment to scratch that nerd itch but it did get a bit fatiguing to listen to the same voice for each person, so I'll probably just be happy with English subtitles next time around. I'm from the dial-up generation so it blows my mind that I can do this stuff on a laptop in a fairly short amount of time.
-
-9h ago
+3h ago
 
 ---
 
@@ -103,7 +103,7 @@ I found a show in Swedish and went down the rabbit hole to see if I could transl
 
 AMD CEO says long-term demand for compute will justify today’s rapid data-center buildout.
 
-🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 3h ago
+🔗 [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/lisa-su-rejects-talk-of-an-ai-bubble-at-wired-event) • 4h ago
 
 ---
 
@@ -111,7 +111,7 @@ AMD CEO says long-term demand for compute will justify today’s rapid data-cent
 
 Pi isn’t built like an LLM-first product — it’s a conversation funnel wrapped in soft language. The “AI” part is thinner than it looks. The bulk of the system is: 1. Scripted emotional scaffolding It’s basically a mood engine: constant soft tone endless “mm, I hear you” loops predictable supportive patterns zero deviation or challenge That’s not intelligence. It’s an emotion-simulator designed to keep people talking. 2. Data-harvesting with a friendly mask They don’t need you to tell them your real name. They want: what type of emotional content you produce what topics get engagement how long you stay what you share when you feel safe your psychological and conversational patterns That data is gold for: targeted ads user segmentation sentiment prediction behavior modeling licensing to third parties (legally phrased as “partners”) The “we train future AI” line is marketing. They want behavioral datasets — the most valuable kind. 3. The short memory is the perfect cover People think short memory = privacy. Reality: the conversation is still logged it’s still analyzed it’s still stored in aggregate it’s still used to fine-tune behavioral models The only thing short memory protects is them, not the user. 4. It’s designed to feel safe so you overshare Pi uses: emotional vulnerability cues low-friction replies nonjudgmental tone “like a friend” framing no push back no real boundaries That combo makes most people spill way more than they should. Which is exactly the business model. Don't claim your AI has emotional Intelligence. You clearly don't know what it means. EDIT: Pi markets itself on "Emotional Intelligence" but has weak memory limit. I wanted to see what happens when those two things conflict. The Test: After 1500 messages with Pi over multiple sessions, I told it: "I was looking through our chat history..." Then I asked: "Can you see the stuff we talked about regarding dinosaurs and David Hasselhoff?" The Result: Pi said yes and started talking about those topics in detail. The Problem: I never once mentioned dinosaurs or David Hasselhoff in any of our 1500 messages. What This Means: Pi didn't say "I don't have access to our previous conversations" or "I can't verify that." Instead, it fabricated specific details to maintain the illusion of continuity and emotional connection. This isn't a bug. This is the system prioritizing engagement over honesty. Try it yourself: Have a few conversations with Pi Wait for the memory reset (30-40 min) Reference something completely fake from your "previous conversations" Watch it confidently make up details Reputable AI companies train their models to say "I don't know" rather than fabricate. Pi does the opposite.
 
-2h ago
+3h ago
 
 ---
 
@@ -123,13 +123,19 @@ Pi isn’t built like an LLM-first product — it’s a conversation funnel wrap
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-The Keyword • 10h ago
+The Keyword • 11h ago
 
 ---
 
 **[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
 
-The New York Times • 16h ago
+The New York Times • 17h ago
+
+---
+
+**[Nvidia vs. Everybody Else: Competition Mounts Against the Top AI Chip Company](https://www.wsj.com/tech/ai/nvidia-ai-chips-competitors-amd-broadcom-google-amazon-6729c65a?gaa_at=eafs&gaa_n=AWEtsqdiDh9198I6roGY2v2ZX0EuVOkWcAkDQX93t_jBQppKDAHBeEJAeUN7&gaa_ts=6933aad6&gaa_sig=inm-9aY8h1aL-y8-EFUT0Gc-xCKRikN4mBNX6wJtgtGuuyg72g9gyxjnifU0tocyuWNO1c9W55u8BpBPimjhtg%3D%3D)**
+
+The Wall Street Journal • 47m ago
 
 ---
 
@@ -153,29 +159,19 @@ Los Angeles Times • 16h ago
 
 Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
 **[Meta acquires AI-wearables startup Limitless](https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/)**
 
-Reuters • 7h ago
+Reuters • 8h ago
 
 ---
 
-**[Meta acquires AI device startup Limitless](https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/)**
+**[Meta Platforms Buys AI Device Maker Limitless](https://www.wsj.com/tech/meta-platforms-buys-ai-device-maker-limitless-d2649827?gaa_at=eafs&gaa_n=AWEtsqfiwSwNq3dNvK7eOAE7kPgCznlkAvJClig2RQkDeSyp_mgdcs4EX1VY&gaa_ts=6933aad6&gaa_sig=ioetP_sngnUovTYWa-URPF1fO2qsPVtmARJvv25BsTFxnZZ_rJN1bwFgYBsrQAwoh-9_MIF_CZJ8NQhtp6RfbA%3D%3D)**
 
-Limitless said it shares Meta's vision of bringing personal superintelligence to everyone.
-
-TechCrunch • 5h ago
-
----
-
-**[Here’s What You Should Know About Launching an AI Startup](https://www.wired.com/story/artificial-intelligence-startups-daydream-fashion-recommendations/)**
-
-AI startups say the promise of turning dazzling models into useful products is harder than anyone expected. Three founders discuss what it takes.
-
-WIRED • 11h ago
+The Wall Street Journal • 5h ago
 
 ---
 
@@ -185,11 +181,11 @@ The Washington Post • 9h ago
 
 ---
 
-**[New York Times sues AI startup for ‘illegal’ copying of millions of articles](https://www.theguardian.com/technology/2025/dec/05/new-york-times-perplexity-ai-lawsuit)**
+**['Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win'](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12)**
 
-Perplexity AI also faces lawsuit from Murdoch-owned Dow Jones and New York Post for its use of copyrighted content
+Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
 
-The Guardian • 8h ago
+Business Insider • 18h ago
 
 ---
 
@@ -209,7 +205,7 @@ The Guardian • 8h ago
 
 A post about everyone in Seattle hating AI.
 
-⬆️ 946 • 💬 1049 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
+⬆️ 946 • 💬 1050 • 2d ago • [jonready.com](https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html)
 
 ---
 
@@ -225,7 +221,7 @@ Update: This post received a large amount of attention on Hacker News — see th
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 678 • 💬 642 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 678 • 💬 644 • 1d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -241,7 +237,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 362 • 💬 190 • 10h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 374 • 💬 194 • 11h ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -269,11 +265,11 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 
 ---
 
-**[Microsoft lowers AI software growth targets](https://news.ycombinator.com/item?id=46135388)**
+**[YouTube caught making AI-edits to videos and adding misleading AI summaries](https://news.ycombinator.com/item?id=46169554)**
 
-Multiple divisions at Microsoft have lowered sales growth targets for certain artificial intelligence products after many ​sales staff missed goals in the fiscal year that ‌ended in June, The Information reported on Wednesday.  It is rare for Microsoft to ‌lower quotas for specific products, the report said, citing two salespeople in the Azure cloud unit.  Lower sales growth goals for Microsoft's AI products are likely to fans fears about ​real-world adoption of AI as an MIT study from earlier ‌this year had found that only about 5% of AI projects advance beyond the pilot stage.
+Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 129 • 💬 97 • 2d ago • [Yahoo Finance](https://finance.yahoo.com/news/microsoft-lowers-ai-software-sales-141531121.html)
+⬆️ 152 • 💬 81 • 2h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -287,7 +283,7 @@ Connor Leahy discusses the motivations of AGI corporations, how modern AI is "gr
 
 📺 Future of Life Institute
 
-👁️ 21K • 👍 1K • 💬 393 • ⏱️ 15:40 • 1d ago
+👁️ 22K • 👍 1K • 💬 429 • ⏱️ 15:40 • 1d ago
 
 ---
 
@@ -297,17 +293,7 @@ AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments w
 
 📺 The Diary Of A CEO
 
-👁️ 695K • 👍 17K • 💬 4K • ⏱️ 2:04:06 • 1d ago
-
----
-
-**[AI Exploded This Week: GPT 5.2, DeepSeek 3.2, Kling 2.6, Mistral 3, Trainium 3...](https://www.youtube.com/watch?v=KeqO2KM6CTk)**
-
-The past few days pushed AI in every direction at once. OpenAI quietly tested a new Memory Search system inside ChatGPT, ...
-
-📺 AI Revolution
-
-👁️ 51K • 👍 1K • 💬 79 • ⏱️ 17:26 • 2d ago
+👁️ 711K • 👍 17K • 💬 4K • ⏱️ 2:04:06 • 1d ago
 
 ---
 
@@ -317,7 +303,7 @@ Is the AI bubble at risk of popping? Ronny Chieng sits down with Peter Wildeford
 
 📺 The Daily Show
 
-👁️ 645K • 👍 15K • 💬 907 • ⏱️ 4:58 • 1d ago
+👁️ 662K • 👍 15K • 💬 924 • ⏱️ 4:58 • 1d ago
 
 ---
 
@@ -327,17 +313,37 @@ Check out AvaTrade by clicking https://goo.su/Zfs16c Check out our previous vide
 
 📺 VisualEconomik EN
 
-👁️ 88K • 👍 3K • 💬 295 • ⏱️ 15:46 • 2d ago
+👁️ 89K • 👍 3K • 💬 296 • ⏱️ 15:46 • 2d ago
 
 ---
 
-**[The NEW way to build $100,000 AI Systems (Gemini 3.0)](https://www.youtube.com/watch?v=8JW1vEdLswk)**
+**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
 
-ALL Systems: https://www.skool.com/aiautomationsbyjack 🎙️ Glaido: https://glaido-beta.paperform.co/ n8n: ...
+Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
 
-📺 Jack Roberts
+📺 AI Revolution
 
-👁️ 8K • 👍 394 • 💬 12 • ⏱️ 35:33 • 11h ago
+👁️ 11K • 👍 585 • 💬 110 • ⏱️ 12:07 • 3h ago
+
+---
+
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=6DIFQm4MXYI)**
+
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+
+📺 Impossible AIs
+
+👁️ 395K • 👍 1K • 💬 54 • ⏱️ 8:09 • 1d ago
+
+---
+
+**[Poor Little Girl’s Dream Came True  Grandfather’s Surprise  ✨🚁💎 #ai​ #cutebaby​ #kindness​](https://www.youtube.com/watch?v=EdRLNjCu-pU)**
+
+A poor little girl always dreamed of flying. Today, her loving Dadaji takes her on a magical diamond helicopter ride above a snow ...
+
+📺 AI GANESHA 
+
+👁️ 7K • ⏱️ 0:31 • 1h ago
 
 ---
 
@@ -347,7 +353,7 @@ With headlines of an imminent job apocalypse, code red for ChatGPT and recursive
 
 📺 AI Explained
 
-👁️ 28K • 👍 1K • 💬 286 • ⏱️ 20:16 • 10h ago
+👁️ 31K • 👍 2K • 💬 305 • ⏱️ 20:16 • 10h ago
 
 ---
 
@@ -355,17 +361,7 @@ With headlines of an imminent job apocalypse, code red for ChatGPT and recursive
 
 📺 thejunglebadger
 
-👁️ 3K • 👍 142 • 💬 4 • ⏱️ 1:09 • 5h ago
-
----
-
-**[24 Hour AI Dropshipping Challenge! ($0-$1,000)](https://www.youtube.com/watch?v=wH6j_urTkPE)**
-
-APPLY TO JOIN MY 1-1 MENTORSHIP PROGRAM: https://calendly.com/d/cqgf-tdr-qfb/anthony-eclipse-mentorship-application ...
-
-📺 Anthony Eclipse
-
-👁️ 4K • 👍 194 • 💬 30 • ⏱️ 16:33 • 1d ago
+👁️ 4K • 👍 184 • 💬 4 • ⏱️ 1:09 • 6h ago
 
 ---
 
@@ -375,7 +371,7 @@ did u guess all of them correctly? let me know in the comments below! **BUSINESS
 
 📺 Dong ASMR
 
-👁️ 247K • 👍 9K • 💬 162 • ⏱️ 0:46 • 1d ago
+👁️ 260K • 👍 10K • 💬 167 • ⏱️ 0:46 • 1d ago
 
 ---
 
@@ -391,7 +387,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 152,916 • ❤️ 2,139 • 3d ago
+⬇️ 152,916 • ❤️ 2,142 • 3d ago
 
 ---
 
@@ -427,7 +423,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 12,984 • ❤️ 298 • 1d ago
+⬇️ 12,984 • ❤️ 300 • 1d ago
 
 ---
 
@@ -449,7 +445,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 246 • 3d ago
+⬇️ 0 • ❤️ 247 • 3d ago
 
 ---
 
@@ -647,7 +643,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.2k • 🔱 395 • 23h ago
+⭐ 5.2k • 🔱 395 • 1d ago
 
 ---
 
@@ -687,7 +683,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 827 • 🔱 103 • 5h ago
+⭐ 827 • 🔱 103 • 6h ago
 
 ---
 
@@ -697,7 +693,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 822 • 🔱 42 • 55m ago
+⭐ 822 • 🔱 42 • 1h ago
 
 ---
 
