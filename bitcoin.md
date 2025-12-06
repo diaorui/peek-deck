@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T21:08:06.323340+00:00'
+updated: '2025-12-06T21:27:33.689138+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 21:08 UTC  
+**Last Updated:** December 06, 2025 at 21:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** +0.4%  
 **7d:** -1.3%  
-**30d:** -13.8%  
+**30d:** -13.7%  
 **90d:** -20.1%  
 **1y:** -10.5%  
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[13 years ago Bitcoin was $13.36 and we were still playing PS2 💔](https://www.reddit.com/r/Bitcoin/comments/1pfp765/13_years_ago_bitcoin_was_1336_and_we_were_still/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Man thats a brutal reminder😭](https://www.reddit.com/r/Bitcoin/comments/1pfm5h0/man_thats_a_brutal_reminder/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -99,7 +99,7 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 **[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -113,7 +113,7 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 Burnsish?
 
-23m ago
+43m ago
 
 ---
 
