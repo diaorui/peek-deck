@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T23:48:29.686618+00:00'
+updated: '2025-12-06T23:59:39.205727+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- news
 - videos
 - social
-- news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 23:48 UTC  
+**Last Updated:** December 06, 2025 at 23:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -77,11 +77,25 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 ---
 
+**[Hello again...GRADIUS](https://www.reddit.com/r/artificial/comments/1pg3kjh/hello_againgradius/)**
+
+16m ago
+
+---
+
 **[How are Americans using AI? Evidence from a nationwide survey | Brookings](https://www.reddit.com/r/artificial/comments/1pfv1kr/how_are_americans_using_ai_evidence_from_a/)**
 
 Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
 
 🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 6h ago
+
+---
+
+**[As of now, which model is best for each of these roles in a process chain](https://www.reddit.com/r/artificial/comments/1pg39f6/as_of_now_which_model_is_best_for_each_of_these/)**
+
+1) Strategist 2) Researcher 3) Coder 4) Analyst 5) Critic 6) Fixer 7) Teacher-Documenter 8) Final output Assembler/Presenter
+
+30m ago
 
 ---
 
@@ -97,23 +111,7 @@ It's like Chatgpt doesn't give a crap about humanity But Grok is a lifesaver
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 17h ago
-
----
-
-**[The Prompt I’ve Been Using to Stop Wasting My Workday](https://www.reddit.com/r/artificial/comments/1pfz7ol/the_prompt_ive_been_using_to_stop_wasting_my/)**
-
-Lately I’ve been trying to get my days under control because I kept doing that thing where you “work all day” but somehow… get nothing important done. 😅 I started using this daily planning prompt, and it’s actually helped me stop winging my schedule and start planning based on how much energy I actually have and what truly matters. Sharing it here in case it helps someone else: Help me plan my workday effectively. Today's date: [Date] Work hours available: [Start time - End time] Energy level today: [High/Medium/Low] Must-do tasks: [Task with deadline/importance] [Task with deadline/importance] [Task with deadline/importance] Should-do tasks: [Task] [Task] Nice-to-do tasks: [Task] [Task] Meetings/commitments: ● [Time]: [Meeting/commitment] ● [Time]: [Meeting/commitment] Context: ● My peak productivity time: [When you work best] ● Types of work I do: [Deep work, meetings, admin, creative, etc.] ● Current biggest project: [What's most important this week] Create an optimized schedule that: Time Block Schedule: [Hour by hour breakdown considering energy levels and task types] Task Sequence: Why this order makes sense (considering priority, energy, dependencies) Focus Strategies: ● Batching similar tasks ● Protecting deep work time ● Handling interruptions ● When to take breaks Evening Reflection Prompts: Questions to ask myself at end of day to improve tomorrow Make it: ● Realistic (includes buffer time) ● Energy-optimized (hard tasks when fresh) ● Flexible (can adjust if things shift) What it gives back A simple time-blocked schedule, the order to tackle tasks (with actual reasoning), focus strategies, and a few reflection questions so you don’t end the day wondering where your time went. It’s not “productivity guru” complicated, it just keeps you honest about your energy and priorities instead of cramming everything into the same to-do list. If you want more prompts like this, I’ve got a small prompt library, just let me know if you want it. 👍
-
-3h ago
-
----
-
-**[Metadata-Chunk Misalignment: has this happened to you?](https://www.reddit.com/r/artificial/comments/1pfyjug/metadatachunk_misalignment_has_this_happened_to/)**
-
-RAG failures often look mysterious: Relevant info appears missing, unrelated chunks show up, top-k results wobble week to week. Based on what we observed the real culprit is usually your metadata tags no longer describe the chunks you actually embedded. It usually is caused under below circumstances: Exporters change section structure Headings shift position Chunk boundaries drift after ingestion changes Metadata applied before segmentation Mixed historical snapshots in the same index When sections, headings, boundaries, metadata, index entries stop lining up, the entire retrieval layer becomes nondeterministic. Do you version your segmentation logic and metadata maps?
-
-3h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 18h ago
 
 ---
 
@@ -129,17 +127,9 @@ The Guardian • 8h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqdD68wHOhheusU-JSrZK1WpjTxJudArUuSxQ5wacRj0mzSLTq2s30ua&gaa_ts=6934be47&gaa_sig=0N2CTcaUnL_MJxXvDVAO8yAxklrsg1FDptVY33nCE8mW6Ppo2TTZ-plSyVEkiwnl2d7w5xKND10Qpp7jnDSgcw%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcN9vqhc3th6oUtEqmC9hE7YQp1g5ewTQZFCwOMbZZ7mOCYQTJggCaI&gaa_ts=6934c6d8&gaa_sig=hfQfqWG8x1p4a5u5ZTHMizQztSIdAaZWT-VNA3GY74VURjYVue-h_GUffGptmCPWmM2pDbmmJPtB4RqKHHSbww%3D%3D)**
 
 The Wall Street Journal • 6h ago
-
----
-
-**[Why Okta (OKTA) Is Up 6.9% After Q3 Beat And AI Security Traction - And What's Next](https://finance.yahoo.com/news/why-okta-okta-6-9-220911623.html)**
-
-In the past week, Okta reported third‑quarter 2025 results with revenue of US$742 million and net income of US$43 million, alongside nine‑month revenue of US$2.16 billion and net income of US$172 million, while also issuing fiscal 2026 revenue guidance of US$2.91 billion at around 11% year‑over‑year growth. Beyond the headline beat and raised outlook, management emphasized traction in AI‑focused identity and security products, with over 100 customers already engaged, suggesting these newer...
-
-Yahoo Finance • 1h ago
 
 ---
 
@@ -173,14 +163,6 @@ The Keyword • 1d ago
 
 ---
 
-**[Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/news/anthropic-interviewer)**
-
-What 1,250 professionals told us about working with AI
-
-Anthropic • 2d ago
-
----
-
 **[Are We Seeing the First Steps Toward AI Superintelligence?](https://www.scientificamerican.com/article/how-close-are-todays-ai-models-to-agi-and-to-self-improving-into/)**
 
 Today’s leading AI models can already write and refine their own software. The question is whether that self-improvement can ever snowball into true superintelligence
@@ -194,6 +176,20 @@ Scientific American • 11h ago
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
 The Atlantic • 2d ago
+
+---
+
+**[How a 24-year-old Stanford Ph.D. dropout lured some of Meta's brightest minds to join her AI math startup](https://www.businessinsider.com/axiom-math-stanford-dropout-meta-ai-researchers-startup-2025-12)**
+
+24-year-old Axiom Math founder Carina Hong wooed top Meta researchers in a competitive AI talent market.
+
+Business Insider • 13h ago
+
+---
+
+**[Johns Hopkins Study Challenges Billion-Dollar AI Models](https://scitechdaily.com/?p=503026)**
+
+SciTechDaily • 22h ago
 
 ---
 
@@ -213,7 +209,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 542 • 💬 279 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 542 • 💬 280 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -229,7 +225,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 380 • 💬 213 • 22h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 381 • 💬 213 • 22h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -395,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,191 • 4d ago
+⬇️ 169,515 • ❤️ 2,192 • 4d ago
 
 ---
 
@@ -431,7 +427,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 360 • 1d ago
+⬇️ 20,067 • ❤️ 362 • 1d ago
 
 ---
 
@@ -453,7 +449,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,530 • ❤️ 351 • 4d ago
+⬇️ 2,530 • ❤️ 352 • 4d ago
 
 ---
 
@@ -699,7 +695,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 20m ago
+⭐ 826 • 🔱 43 • 32m ago
 
 ---
 

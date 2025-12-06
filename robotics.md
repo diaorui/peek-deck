@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T23:48:29.704929+00:00'
+updated: '2025-12-06T23:59:39.223448+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 23:48 UTC  
+**Last Updated:** December 06, 2025 at 23:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
-12h ago
+13h ago
 
 ---
 
@@ -58,7 +58,7 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 **[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -146,7 +146,7 @@ IEEE Spectrum • 3d ago
 
 USPS Boise facility gets four robotic arms to help process 220,000 packages daily during holiday rush, allowing redeployment of workers to areas needing human touch.
 
-KTVB • 17h ago
+KTVB • 18h ago
 
 ---
 
@@ -166,27 +166,27 @@ Fierce Biotech • 3d ago
 
 ---
 
-**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
-
-Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
-
-MLive.com • 2d ago
-
----
-
-**[One-armed robot uses generative AI to unload 1,500 boxes an hour in extreme heat](https://interestingengineering.com/ai-robotics/pickle-robot-mit-ai-truck-unloading-automation)**
-
-MIT-backed Pickle Robot Company debuts AI-powered systems that autonomously unload trucks and ease one of logistics’ toughest jobs.
-
-Interesting Engineering • 1d ago
-
----
-
 **[This Robotic Surgery Legend Is Pouring $100 Million Into Next-Gen Medical Startups](https://www.forbes.com/sites/amyfeldman/2025/12/03/robotic-surgery-legend-fred-moll-is-pouring-100-million-into-next-gen-medical-startups/)**
 
 Fred Moll, the cofounder of $200 billion Intuitive Surgical, has invested in some 15 companies building robots that could help make both complex and common surgeries more accessible to everyone.
 
 Forbes • 1d ago
+
+---
+
+**[Warehouse robotics market headed for $31B by 2032 ...](https://www.eenewseurope.com/en/warehouse-robotics-market-headed-for-31b-by-2032/)**
+
+The global warehouse robotics sector is on a growth track, driven by escalating demand for automated fulfillment and distribution operations.
+
+eeNews Europe • 1d ago
+
+---
+
+**[Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices](https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/)**
+
+The NVIDIA Jetson AGX Thor, AGX Orin and Jetson Orin Nano Super developer kits — on sale through Jan. 11 — give anyone the power to build intelligent robots of the future.
+
+NVIDIA Blog • 2d ago
 
 ---
 

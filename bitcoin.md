@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T23:48:29.695567+00:00'
+updated: '2025-12-06T23:59:39.214185+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 23:48 UTC  
+**Last Updated:** December 06, 2025 at 23:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -1.8%  
-**30d:** -14.2%  
-**90d:** -20.5%  
-**1y:** -10.9%  
+**24h:** +0.2%  
+**7d:** -1.3%  
+**30d:** -13.8%  
+**90d:** -20.1%  
+**1y:** -10.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1779.35B
+**Market Cap:** $1781.19B
 Rank #1
 
-**Circulating Supply:** 19,958,512 BTC
+**Circulating Supply:** 19,958,540 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.3%
+-29.2%
 
 **All-Time Low:** $67.81
-+131386.5%
++131550.2%
 
 ---
 
@@ -119,7 +119,7 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 **[They are always not ready](https://www.reddit.com/r/Bitcoin/comments/1pfvd6m/they_are_always_not_ready/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -163,17 +163,19 @@ The Economist • 2d ago
 
 ---
 
-**[MSTR Stock: Strategy, The Bitcoin Whale, Is Wall Street's Biggest Mistake](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
+**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
 
-Investor's Business Daily • 6h ago
+Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
+
+Decrypt • 2d ago
 
 ---
 
-**[Why Michael Saylor's Strategy could hold the key for the whole bitcoin market](https://www.cnbc.com/2025/12/04/why-michael-saylors-strategy-could-hold-the-key-for-the-whole-bitcoin-market.html)**
+**[BTC, XRP, ETH, SOL News: Here's How Friday's Inflation Report Could Move Prices](https://www.coindesk.com/markets/2025/12/05/here-s-how-much-btc-eth-sol-xrp-may-move-on-friday-s-inflation-report)**
 
-Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts.
+A softer inflation report could lower the 10-year Treasury yield and support cryptocurrencies.
 
-CNBC • 2d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -182,22 +184,6 @@ CNBC • 2d ago
 In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
 
 CNBC • 2d ago
-
----
-
-**[Coinbase Makes Bold Bitcoin Prediction For December Despite Market Downturn](https://finance.yahoo.com/news/coinbase-makes-bold-bitcoin-prediction-113224239.html)**
-
-Coinbase says the crypto market is entering a December recovery phase as liquidity improves and macro conditions turn more supportive.
-
-Yahoo Finance • 12h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
-
-Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
-
-Decrypt • 2d ago
 
 ---
 
@@ -220,6 +206,22 @@ TheStreet • 1d ago
 JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
 
 Business Insider • 2d ago
+
+---
+
+**[Bitcoin Price Could Hit $170K — But Strategy ‘Resilience’ Is Vital: JPMorgan](https://finance.yahoo.com/news/bitcoin-price-could-hit-170k-110608523.html)**
+
+JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Is Bitcoin About to Break Its Last Surviving Valuation Model?](https://www.coindesk.com/markets/2025/12/05/how-much-longer-until-we-consider-the-bitcoin-power-law-model-invalid)**
+
+As the gap between spot bitcoin price and the power law widens, investors are left questioning whether mean reversion is coming or if another cornerstone model is approaching its end.
+
+CoinDesk • 8h ago
 
 ---
 

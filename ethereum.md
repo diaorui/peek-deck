@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T23:48:29.701672+00:00'
+updated: '2025-12-06T23:59:39.220228+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 23:48 UTC  
+**Last Updated:** December 06, 2025 at 23:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $366.54B
+**Market Cap:** $366.79B
 Rank #2
 
 **Circulating Supply:** 120,695,414 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.6%
+-38.5%
 
 **All-Time Low:** $0.43
-+700820.8%
++701913.3%
 
 ---
 
@@ -112,7 +112,7 @@ My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
 1️⃣ From Research to Reality – An EIP’s Journey with Pooja Ranjan The summit kicks off by bridging the gap between abstract research and deployed code. A must-watch for understanding the EIP Process. 📺 Watch it here: https://youtu.be/wH76j1BDZkc #Ethereum #EIP #EthereumGovernance #EthCommunity 2️⃣ Don’t just use Ethereum: help shape it! with Jochem Brouwer Jochem argues that providing feedback on EIP drafts is a civic duty. Silence leads to consensus bugs. Learn how to break the silence on the Magicians forum. 📺 Watch it here: https://youtu.be/ZVHHsKS6Kxo #Ethereum #EIPSummit #EIPs 3️⃣ From Draft to Inclusion: A Proposal’s Journey with Jihoon Song Writing the EIP is only 5% of the work. The hard part is convincing people to consider it. Jihoon shows how to talk to the right people and handle the Core Dev meetings to get your idea accepted. 📺 Watch it here: https://youtu.be/i8HO-bAivno #EIPSummit #EIPs #EIPProcess #CoreDev 4️⃣ From Specification to Syncing a Node: Ensuring Upgrade Readiness with Parithosh Jayanthi How do you test a $500B+ network without breaking it? Inside the industrial supply chain of Ethereum testing: from Hive unit tests to mainnet Shadow Forks. 🏗️ 📺 Watch it here : https://youtu.be/9yTrzNCd0Gk #Testing #Devnets #ShadowForks 5️⃣ Code is Law: Avoiding Spec-ulation for Faster Forks with danceratopz & raxhvl The propose accelerating Ethereum forks by tightly coupling EIP markdown with executable specs, ensuring every text change is instantly verified by code to eliminate ambiguity. 📺 Watch: https://youtu.be/h5sUMWD9Yus #Ethereum #SpecReview #Testing 6️⃣ EIP-8007: A major update to EVM gas prices with Maria Inês Silva A quick explainer on why Meta EIP listing all related EIPs matters. How authors propose to reshapes gas pricing, and what this means for developers, performance & future upgrades. 📺 Watch: https://youtu.be/HpRNP8tc0lY #EIP8007 #EVM #GasCosts #GasPricing 7️⃣ From Idea to EIP: A First-Time Author’s Journey with German Abal How a first-time contributor turns an idea into a real EIP - from drafting to reviews, feedback loops, and working with editors. 📺 Watch here: https://youtu.be/WcGYlzUChUE #EIPEditors #EthGovernance #EthereumStandards 8️⃣ ERCs in Focus - ERC-8028: AI Assets On-Chain with Thiru The video explains how ERC-8028 anchors AI data on-chain using DAT, enabling trust, provenance, and verifiable AI workflows. A simple breakdown of why this ERC matters for the future of AI + Ethereum standards. 📺 Watch: https://youtu.be/RaeBZiE0rDA #ERC8028 #ERCs #AIonChain #DAT 9️⃣ Meet EIP Editor Sam Wilson He breaks down what EIP editors do, how proposals are reviewed, and how Ethereum standards keep evolving. 📺 Watch: https://youtu.be/YHZviU19di0 #EIPEditors #EIPProcess #EthereumStandards 🔟 The Final Episode - ERC-1202: Voting Interface with Victor Zhou See how ERC-1202 enables flexible, on-chain voting mechanisms for DAOs & governance tools. A clean walkthrough of the standard, design choices, and real-world use cases. 📺 Watch: https://youtu.be/_szGTp49L5E #ERC1202 #OnChainVoting #GovernanceTech The EIP Summit was more than just talks; it was a call to action. Ethereum needs authors, reviewers, and testers. Special thanks to all speakers and the ECH Institute team! 😸 #Ethereum #Devconnect #EIPs #Web3
 
-18h ago
+19h ago
 
 ---
 
@@ -196,11 +196,25 @@ Nasdaq • 2d ago
 
 ---
 
-**[Ethereum Price Swells as Fusaka Upgrade Goes Live](https://decrypt.co/350883/ethereum-price-swells-as-fusaka-upgrade-goes-live)**
+**[Fusaka rollout kicks off Ethereum’s new twice-a-year hard-fork schedule](https://www.theblock.co/post/381285/fusaka-rollout-ethereum-twice-year-hard-fork-schedule)**
+
+The Block • 3d ago
+
+---
+
+**[Ethereum Price Swells as Fusaka Upgrade Goes Live](https://finance.yahoo.com/news/ethereum-price-swells-fusaka-upgrade-051052394.html)**
 
 Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade.
 
-Decrypt • 2d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum prepares a controversial 2026 overhaul that will forcibly strip power from the network's most dominant players](https://cryptoslate.com/whats-next-for-ethereum-after-the-fusaka-upgrade/)**
+
+Ethereum's roadmap envisions widespread adoption with future upgrades, aiming to transform global financial systems.
+
+CryptoSlate • 2d ago
 
 ---
 
@@ -209,22 +223,6 @@ Decrypt • 2d ago
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
 cheddar.com • 2d ago
-
----
-
-**[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
-
-Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
-
-Seeking Alpha • 1d ago
-
----
-
-**[Ethereum supply drops – Yet Tom Lee insists ‘$3K is still undervalued’](https://ambcrypto.com/ethereum-supply-drops-yet-tom-lee-insists-3k-is-still-undervalued/)**
-
-ETH is trading differently than traditional tech stocks.
-
-AMBCrypto • 7h ago
 
 ---
 
