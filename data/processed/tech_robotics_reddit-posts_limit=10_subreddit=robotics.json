@@ -35,6 +35,17 @@
       "description": null
     },
     {
+      "title": "Researchers unveil color-shifting, octopus-inspired soft robot.",
+      "author": "Novel_Negotiation224",
+      "url": "https://www.reddit.com/r/robotics/comments/1pfsub5/researchers_unveil_colorshifting_octopusinspired/",
+      "published": 1765037302.0,
+      "thumbnail": "https://external-preview.redd.it/Z3pETObFEtj_iteSb4-LUj372G4bsW0_n9KMXdhelyI.jpeg?width=640&crop=smart&auto=webp&s=090f4e7632e5d70d2a849f87b94e891155940c52",
+      "external_url": "https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/",
+      "site_name": "CNET",
+      "favicon": "https://www.cnet.com/apple-touch-icon-v3.png",
+      "description": "Meet Octoid, the squishy robot that changes from blue to green to red."
+    },
+    {
       "title": "Sunday Robotics: Collecting Data Through the Memory-Developer Glove Before Building the Humanoid",
       "author": "marwaeldiwiny",
       "url": "https://www.reddit.com/r/robotics/comments/1pf9wv3/sunday_robotics_collecting_data_through_the/",
@@ -99,18 +110,7 @@
       "site_name": null,
       "favicon": null,
       "description": null
-    },
-    {
-      "title": "Making a Marauder's Map from Harry Potter",
-      "author": "davesarmoury",
-      "url": "https://www.reddit.com/r/robotics/comments/1pf1agl/making_a_marauders_map_from_harry_potter/",
-      "published": 1764956101.0,
-      "thumbnail": "https://external-preview.redd.it/lkbyF5afhW6Htup7fUyNQVABCSEpJ946WVXQNrql7uM.jpeg?width=320&crop=smart&auto=webp&s=7bd8c748c2ede63e1e653ef9114a146b3f7c00ea",
-      "external_url": "https://www.youtube.com/watch?v=dO32ImnsX-4",
-      "site_name": "youtube.com",
-      "favicon": "https://www.youtube.com/s/desktop/db7db827/img/favicon.ico",
-      "description": "Arthur C. Clarke said \"Any sufficiently advanced technology is indistinguishable from magic\". This is the perfect example of that. We are taking a magical map that previously could only exist in a magical world and bringing it to life using robots, DeepStream, and multiple A6000 GPUs!"
     }
   ],
-  "fetched_at": "2025-12-06T15:40:49.401256+00:00"
+  "fetched_at": "2025-12-06T16:15:31.232496+00:00"
 }

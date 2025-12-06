@@ -25,34 +25,14 @@
       "description": "Build with Gemini 3 Pro, the best model in the world for multimodal capabilities."
     },
     {
-      "headline": "Which Artificial Intelligence (AI) Stocks Are Billionaires Buying the Most?",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjhBbjdOS0tnZUY3SDd1dVBZRjM3djhaRU9ldXYwREZQQkdDLUYzYU1UYXFWVEZLc3VWM2F6RmFtOXdWbnM1SHhRS243Tl9qSlJvdzYyT1hCUVhONzFBaXpSYzRwOXRDa0lxSE1tekVkN3JQUWVwQlRaNDdoaFdtb3hKMXZySU9NSU1mSFdWRVNITWpQdzM5Mg?oc=5",
-      "pub_date": 1765001700.0,
-      "article_url": "https://www.fool.com/investing/2025/12/06/which-artificial-intelligence-ai-stocks-are-billio/",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845552%2Fman-pointing-to-ai-on-display.jpg&w=1200&op=resize",
-      "description": "Two AI stocks especially stand out."
-    },
-    {
-      "headline": "Buy the dip in this AI 'neocloud' and don't believe bubble 'conspiracy theories,' says Freedom Capital's Meeks",
-      "source": "CNBC",
-      "source_url": "https://www.cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGVib0RjXzFpcGRfdmROT2U2SFZwUndLc1NET0s5UDBOV2szUEhzQzJPWXdRWEVBZFFYbXB4MFlham5QcWVCd0RTdjNwdWQ2RmpKLWk0WHg2aTBHVTJVMVRJWk44aHhJRDRmVnZuX0ZncGJOVlV6QzVWQTlkdzM4YUQ5TVo3YUwxb3ZfRHlFMXZQczhuZXpYWUxtNkRtY19iZnlz?oc=5",
-      "pub_date": 1764953960.0,
-      "article_url": "https://www.cnbc.com/2025/12/05/buy-the-dip-in-this-ai-neocloud-says-freedom-capitals-paul-meeks.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108222325-1762436340924-gettyimages-2215390071-vcg111567793339.jpeg?v=1764950624&w=1920&h=1080",
-      "description": "Veteran tech analyst Paul Meeks said that CoreWeave's backstop from Nvidia could absorb \"any extra capacity for seven years\" given their GPU partnership."
-    },
-    {
-      "headline": "These 10 fast-growing AI stocks may offer the best bang for your buck",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOa0dHbGRwWFI5TWwtbWZmNkRieUhKczBaSEdCVjJNSjItSjl6Vnd6LUZuTFFMZF81X2xLWmgteHp3RS1McEotTGc4WFNqSXgtNmx3aTExSkxSX1QxZjVKTFcwNV9oNDZiaFZsUUVLRGh0SjV4VHROWVhiZG83WHhkeGZVQnRsSW1EOHBlN05nRG05cWpiUTZSeWtnTTVuU3lCY3BjVjdYQUgzNW5aZkt0ZDdZdlhuRGtiSlpRRlhEcE1NaXF4aUMyT21MVlZPVU1hcFM1MW9RYnlYTEhWOEVETUhDMGozQy0zWDdyNmh3bHJLT2xOVHVXYXRCUDA3THMzUUp3RDVBeF9ySTJUT0I2Q0o3SjF1YTktSU1XSi1yQ3JkcW5IQk9SSFZfZnQ3aFpJeWdWOGlWRUFkMDI5eXl6VnNJRlFIXzBlczZlMndsOXIxNjlLbEswNTNDWXQ5OXhCaXhuaWJEbXJ5NjhGemJkOEE3eUl4UDU4SVZRMjVvNjRkQjgzTkhQbFREbFBoYUNmWHJibFNzVVdGZElMVkx2NXJ0QzVvdlpXTHJhS0s2SmdhVDhNT3U4?oc=5",
-      "pub_date": 1765029600.0,
-      "article_url": "https://www.marketwatch.com/story/these-10-fast-growing-ai-stocks-may-offer-the-best-bang-for-your-buck-8b6205ef?gaa_at=eafs&gaa_n=AWEtsqd3K4oiTaFOE9sAQK4HC7sEHuvPrYaR1qPPe9-hNIrB1WW_Rg17SQB1&gaa_ts=69345200&gaa_sig=CNU95H_LbfNkVFaPsRgyC3Yn7LCfcYYHpPpkBRbXX99TIIiMwBVb42aEmYLYsB8Jq4HyliY0hDQp20Ss0INHiw%3D%3D",
-      "image": null,
-      "description": null
+      "headline": "Jeep's AI-generated talking animals signify change in auto industry",
+      "source": "Detroit Free Press",
+      "source_url": "https://www.freep.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVlIdzlwLXdZZWtFSGVDb0xQQ29NLW04emQ1X2JjSTU0TkZGSFd5NzdvYkZTZ1Zncnk2eE5uV05GRi03dXloeXRRa3oxTERaQTVjM0lwcl82dDF3N2ZkNE9JbWRCLVV3eUJUYjRCdTd1ck1WaWtMNkR5S0pEaVFUYXNNUkFyVm9lZW5hVG1KVE12b3NFVFMwd0lHUi1paWwxOGljOFlTcW1pRUptLVNxeU9n?oc=5",
+      "pub_date": 1765036260.0,
+      "article_url": "https://www.freep.com/story/money/cars/chrysler/2025/12/06/jeep-ai-generated-marketing-campaign-ads/87217350007/",
+      "image": "https://www.freep.com/gcdn/authoring/authoring-images/2025/12/04/PDTF/87610562007-bu-025-352-ev.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
+      "description": "Jeep is one of the first automakers to fully leverage AI image generation in its marketing materials."
     },
     {
       "headline": "AI \u2018creators\u2019 might just crash the influencer economy",
@@ -103,8 +83,28 @@
       "article_url": "https://abcnews.go.com/US/ai-forecasters-predict-destructive-hurricanes/story?id=128083437",
       "image": "https://i.abcnewsfe.com/a/39a15f08-c295-495f-8b84-4fb13eb5baf6/national-hurricane-center-gty-jt-251205_1764976206130_hpMain_16x9.jpg?w=1600",
       "description": "AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting."
+    },
+    {
+      "headline": "Meta acquiring AI wearable company Limitless",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtMWNFZGFabzVEYV9jNlhqOUpGX19JM2pjejZ3ODM2NjhaM0VTblRSNnZoZHdaR2ktVVF5VTY1S3pyQ3JiSFVFbmlrMUNlUXA2QkdhYUhlSWVOVXZVTmtQZWNhdlZ5bTd2OWV4LTljM1jSAXZBVV95cUxPa2pQb21PbjVEc1FvVHRzZzUxcFpScXlBVlZ6Zm1IZWQ4dkFHaWZaZXFJNWFtQ0hMQTdWZW85R1pMLWw4SU55ZThnaXhKZXRadklVNFVjdlRUanZCeGQ5b21iZm1UbURvUkxIblFQa3pRcTJ6SkZn?oc=5",
+      "pub_date": 1764963805.0,
+      "article_url": "https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108219443-17618392362025-09-18t012656z_736652099_rc20uga8mamw_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1761839305&w=1920&h=1080",
+      "description": "Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant."
+    },
+    {
+      "headline": "Meta buys AI pendant start-up Limitless to expand hardware push",
+      "source": "Financial Times",
+      "source_url": "https://www.ft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ScU9uR3dkOGx2UFdPaWo0Z0NDVHhvVEFDcjBzcUM4b3ZVcTJ2dWUyVFo0bTFpeDd6aDE4NmRIUkwxZUFYcjQzSWxhLXA3U3pMaERiN1lQTlJTWHdsdVlVUWthREh5MFgxT0NWaEs4S1U?oc=5",
+      "pub_date": 1764972283.0,
+      "article_url": "https://www.ft.com/content/a1a7adab-506e-4623-8f7a-0b7c94c8d6b4",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F144cdc23-a3b2-40e8-a10b-c43ab8cedd28.png?source=next-barrier-page",
+      "description": "Deal indicates Zuckerberg is exploring other types of artificial intelligence-powered devices beyond smart glasses"
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-06T15:41:05.182295+00:00"
+  "fetched_at": "2025-12-06T16:15:39.897836+00:00"
 }

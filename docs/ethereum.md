@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-06T15:52:23.102660+00:00'
+updated: '2025-12-06T16:15:47.808542+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 15:52 UTC  
+**Last Updated:** December 06, 2025 at 16:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +1.7%  
-**30d:** -11.3%  
-**90d:** -29.3%  
-**1y:** -23.9%  
+**24h:** +0.5%  
+**7d:** +2.0%  
+**30d:** -11.1%  
+**90d:** -29.2%  
+**1y:** -23.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $366.14B
+**Market Cap:** $368.17B
 Rank #2
 
 **Circulating Supply:** 120,695,414 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.6%
+-38.3%
 
 **All-Time Low:** $0.43
-+700862.4%
++704703.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -166,20 +166,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum treasury firm BitMine adds $150 million in ETH as DAT buying dries up](https://www.theblock.co/post/381302/bitmine-150-million-eth)**
-
-The Block • 2d ago
-
----
-
-**[Tom Lee’s BitMine Extends Ethereum Bet With $200 Million in Two Days](https://finance.yahoo.com/news/tom-lee-bitmine-extends-ethereum-142458129.html)**
-
-BitMine bought nearly $200 million worth of Ethereum in the last two days, widening its lead as the largest single holder of ETH.
-
-Yahoo Finance • 1h ago
-
----
-
 **[Better Buy in 2026: Ethereum or Solana?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-solana)**
 
 Key PointsDecentralized applications run on smart contracts, which automate their functions and ensure they can't be manipulated by humans.
@@ -223,6 +209,20 @@ Crypto Briefing • 1d ago
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
 KITCO • 1d ago
+
+---
+
+**[ChatGPT Thinks Ethereum Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-ethereum-close-level-191828479.html)**
+
+Ethereum is starting December in Bitcoin's shadow. The token is selling off with the rest of crypto but holding key support zones as traders wait for signs of stabilization in risk assets. It has lagged Bitcoin on the way up this cycle, giving the ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum Validators Fall 25% After Fusaka Upgrade as Prysm Bug Pushes Network Close to Finality Issue](https://financefeeds.com/ethereum-validators-fall-25-after-fusaka-upgrade/)**
+
+FinanceFeeds • 18h ago
 
 ---
 
@@ -306,7 +306,7 @@ Links Sign Up for Phemex Phemex.BitBoy.Deals No KYC or VPN Required Trading Bydf
 
 📺 BitBoy X
 
-👁️ 4K • 👍 247 • ⏱️ 25:41 • 22h ago
+👁️ 4K • 👍 247 • ⏱️ 25:41 • 23h ago
 
 ---
 

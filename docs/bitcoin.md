@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T15:52:23.096545+00:00'
+updated: '2025-12-06T16:15:47.802606+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 15:52 UTC  
+**Last Updated:** December 06, 2025 at 16:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,593.30
+### $89,941.87
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** -1.0%  
-**30d:** -13.5%  
+**24h:** +0.6%  
+**7d:** -0.9%  
+**30d:** -13.4%  
 **90d:** -19.8%  
-**1y:** -10.2%  
+**1y:** -10.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1789.68B
+**Market Cap:** $1795.57B
 Rank #1
 
-**Circulating Supply:** 19,958,365 BTC
+**Circulating Supply:** 19,958,375 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-28.7%
 
 **All-Time Low:** $67.81
-+132138.6%
++132547.1%
 
 ---
 
@@ -99,6 +99,12 @@ Rank #1
 
 You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s simple and beginner-friendly but I moved to Value Averaging this cycle, and the results have been way better. Most people know DCA because it’s simple: buy the same amount every week.But when you’re trying to get better prices and make the market’s volatility work for you, Value Averaging is a much stronger method. Let me show you exactly how it played out using real BTC price action from 2024–2025. Rule I Followed Every 15% drop in BTC : Buy. First Buy = $1,000 Second Buy = $2,000 Third Buy = 3000$ Continues..... BTC gave three clean 30% corrections this cycle, so this rule activated six times. Drawdown 1 — March 2024 (-30%) BTC dropped twice by 15%, so we can bought: $1,000 ( Buy 01 ) $2,000 ( Buy 02 ) Later, when BTC reached what I marked as “Top 3,” these were the gains: $1,000 → +95% = +$950 $2,000 → +131% = +$2,620 Total = $3,570 profit Drawdown 2 — December 2024 (-30%) Same plan again: $1,000 ( Buy 03 ) $2000 ( Buy 04 ) During the recovery toward Top 3, three positions were still showing: +$950 ( Buy 01 ) +$2620 ( Buy 02 ) +$330 ( Buy 03 ) +$1140 ( Buy 04 ) Total = $5,040 profit Current Drawdown — 2025 July–Oct (-30%) This is where we are right now. Two more buys triggered: Buy 05: $1,000 → currently –14% Buy 06: $2,000 → currently breakeven These are fresh buys, so it’s totally normal that they haven’t recovered yet. Total Structure 6 total buys – 3 × $1,000 – 3 × $2,000 Total invested = $9,000 Right now, even though BTC is still in a ~30% decline: Three positions remain in profit ($420 + $1,300 + $260) One is slightly negative (–$140) Two are at breakeven Overall: still profitable during a drawdown. Why This Beats DCA for Me DCA buys at every price expensive, cheap, doesn’t matter. Value Averaging waits for discounts. You buy more when BTC is cheaper Your average cost drops fast Strong assets recover and reward the early buys Drawdowns become opportunities instead of pain Your risk is distributed intelligently no guessing bottoms. no chasing tops.Just reacting to 15% dips the same way, every time. This is the whole point:
 
+3h ago
+
+---
+
+**[13 years ago Bitcoin was $13.36 and we were still playing PS2 💔](https://www.reddit.com/r/Bitcoin/comments/1pfp765/13_years_ago_bitcoin_was_1336_and_we_were_still/)**
+
 2h ago
 
 ---
@@ -109,15 +115,9 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 ---
 
-**[13 years ago Bitcoin was $13.36 and we were still playing PS2 💔](https://www.reddit.com/r/Bitcoin/comments/1pfp765/13_years_ago_bitcoin_was_1336_and_we_were_still/)**
-
-2h ago
-
----
-
 **[OK, I get the pattern now.](https://www.reddit.com/r/Bitcoin/comments/1pfot4f/ok_i_get_the_pattern_now/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -129,15 +129,15 @@ I have never purchased any cryptocurrency; I am more of a stock market person, j
 
 ---
 
-**[Think For Yourself](https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/)**
-
-15h ago
-
----
-
 **[👀](https://www.reddit.com/r/Bitcoin/comments/1pfdz8o/_/)**
 
 13h ago
+
+---
+
+**[Think For Yourself](https://www.reddit.com/r/Bitcoin/comments/1pfbr8u/think_for_yourself/)**
+
+15h ago
 
 ---
 
@@ -153,23 +153,25 @@ Bloomberg.com • 9h ago
 
 ---
 
-**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
+**[Is Bitcoin About to Break Its Last Surviving Valuation Model?](https://www.coindesk.com/markets/2025/12/05/how-much-longer-until-we-consider-the-bitcoin-power-law-model-invalid)**
 
-Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
+As the gap between spot bitcoin price and the power law widens, investors are left questioning whether mean reversion is coming or if another cornerstone model is approaching its end.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Scam so convincing victim ignores police, puts thousands into Cryptocurrency ATM](https://fox8.com/news/scam-artist-so-convincing-elderly-victim-ignores-police-pleas-to-stop-puts-thousands-into-cryptocurrency-atm/)**
-
-FOX 8 News • 3h ago
+CoinDesk • 1h ago
 
 ---
 
-**[DigitalBridge, Sezzle jump, American Bitcoin, WRB slide: week's financials wrap](https://www.msn.com/en-us/money/markets/digitalbridge-sezzle-jump-american-bitcoin-wrb-slide-week-s-financials-wrap/ar-AA1RQhs6?ocid=finance-verthp-feeds)**
+**[BTC price: Bitcoin is seeing a trend that hasn't happened since 2014. Here's why crypto markets are so unusual right now](https://www.fastcompany.com/91455649/bitcoin-btc-price-crypto-market-splitting-off-stock-market-trend-hasnt-happened-since-2014-why-markets-are-unusual-right-now)**
 
-MSN • 24m ago
+Fast Company • 21h ago
+
+---
+
+**[Is bitcoin really digital gold? In 2025, the leading crypto has failed to answer that question](https://www.cnbc.com/2025/12/05/bitcoin-digital-gold-crypto-store-of-value.html)**
+
+Bitcoin's big drop from a record price has led to questions about crypto's correlation to the broader market, and what it really represents in a portfolio.
+
+CNBC • 1d ago
 
 ---
 
@@ -177,7 +179,13 @@ MSN • 24m ago
 
 Academic literature finds that during periods of economic stress, correlations and spillovers between cryptocurrencies and equities spike.
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Scam so convincing victim ignores police, puts thousands into Cryptocurrency ATM](https://fox8.com/news/scam-artist-so-convincing-elderly-victim-ignores-police-pleas-to-stop-puts-thousands-into-cryptocurrency-atm/)**
+
+FOX 8 News • 3h ago
 
 ---
 
@@ -195,23 +203,17 @@ CNBC • 2d ago
 
 ---
 
-**[Analyst cuts 60% price target for popular Bitcoin stock](https://www.thestreet.com/crypto/markets/analyst-cuts-60-price-target-for-popular-bitcoin-stock)**
+**[Bitcoin’s biggest booster Michael Saylor fights to stave off an $8 billion collapse and being the first major crypto domino to fall](https://finance.yahoo.com/news/bitcoin-biggest-booster-michael-saylor-164836645.html)**
 
-TheStreet • 1d ago
+A rule change could force Saylor's company to sell some of its $650 billion holdings—but crypto veterans say Strategy will be just fine.
+
+Yahoo Finance • 2d ago
 
 ---
 
-**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqepZg4QWadODNrFrr7tsn9kPHwWu51oBBHtrMyaZWCQUptJQPkw6Cq1&gaa_ts=69345202&gaa_sig=uJ17e_RnESTiaZrDt7h6VBzozpjBLk08gPgFompaXLxkiN2EQbuWMNK47SALiBLw_RgNGA3QD1nhPkAHmvJeaQ%3D%3D)**
+**[With bitcoin down to around $92,000, should you rethink how much crypto to own? Here’s what experts say.](https://www.marketwatch.com/story/with-bitcoin-down-to-around-92-000-should-you-rethink-how-much-crypto-to-own-heres-what-experts-say-e52d1189?gaa_at=eafs&gaa_n=AWEtsqfraqqqYW-TJLt59YJ4o3mc4CT5XG3Bk_9nq-3UKLLG2OiOS8Y8kehK&gaa_ts=69345a22&gaa_sig=QvGt1l6PUagirWFNpRJIWpgJR2g5ZcW4C2NwzdCXFXIxwSOZxlS_5BVPu9nu2Nb3yGJg8KMjxdWSIjsn9tVxQw%3D%3D)**
 
 MarketWatch • 1d ago
-
----
-
-**[Is Bitcoin About to Break Its Last Surviving Valuation Model?](https://www.coindesk.com/markets/2025/12/05/how-much-longer-until-we-consider-the-bitcoin-power-law-model-invalid)**
-
-As the gap between spot bitcoin price and the power law widens, investors are left questioning whether mean reversion is coming or if another cornerstone model is approaching its end.
-
-CoinDesk • 51m ago
 
 ---
 
@@ -267,7 +269,7 @@ Track the next Bitcoin halving event with live countdown and real-time block upd
 
 Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever been. His bullish outlook drew swift pushback from a famous short-seller.
 
-⬆️ 2 • 💬 1 • 2d ago • [Business Insider](https://www.businessinsider.com/bitcoin-price-eric-jackson-bullish-ethereum-crypto-btc-eth-ai-2025-12)
+⬆️ 2 • 💬 1 • 3d ago • [Business Insider](https://www.businessinsider.com/bitcoin-price-eric-jackson-bullish-ethereum-crypto-btc-eth-ai-2025-12)
 
 ---
 
@@ -287,7 +289,7 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 27K • 👍 2K • 💬 382 • ⏱️ 10:23 • 22h ago
+👁️ 27K • 👍 2K • 💬 382 • ⏱️ 10:23 • 23h ago
 
 ---
 
@@ -327,7 +329,7 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bit
 
 📺 CNBC Television
 
-👁️ 11K • 👍 103 • 💬 152 • ⏱️ 4:01 • 19h ago
+👁️ 11K • 👍 103 • 💬 152 • ⏱️ 4:01 • 20h ago
 
 ---
 
@@ -337,7 +339,7 @@ Seamus Rocca is the CEO of Xapo Bank. In this conversation, we dig into the real
 
 📺 Anthony Pompliano
 
-👁️ 11K • 👍 444 • ⏱️ 29:40 • 17h ago
+👁️ 11K • 👍 444 • ⏱️ 29:40 • 18h ago
 
 ---
 
@@ -357,7 +359,7 @@ Everyone is screaming that Bitcoin is either going to zero or hitting a million 
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 286 • ⏱️ 12:20 • 17h ago
+👁️ 26K • 👍 2K • 💬 286 • ⏱️ 12:20 • 18h ago
 
 ---
 

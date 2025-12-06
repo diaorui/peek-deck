@@ -25,26 +25,6 @@
       "description": "Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ..."
     },
     {
-      "headline": "Ethereum treasury firm BitMine adds $150 million in ETH as DAT buying dries up",
-      "source": "The Block",
-      "source_url": "https://www.theblock.co",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04Sm9BQWlWNElmVEdKUVpyU0pmT2FBb2w2VlNXZEk2RUlqb3JFQWRwczBkejhsQkJaWFh5T3FVUEp0cjlkRjQzVlRFZGRDaG4yWnp4ZTFTaHBUUW9meGVVVk5leWRqa2p6ZzJv0gFwQVVfeXFMTVlLamVEYXRvaEFuTFMzVjU0X3VCTmI3Z01fb2pyX2RmUDBvd0tfX0dOaERHaHBxSV9uVVZpRGVBUy1LMWg0aVlsUUcwUzgtUFh1OFJScWRtSnE0XzRRbThqWXFseXNHQkxCQzFCQjh4Sw?oc=5",
-      "pub_date": 1764836325.0,
-      "article_url": "https://www.theblock.co/post/381302/bitmine-150-million-eth",
-      "image": null,
-      "description": null
-    },
-    {
-      "headline": "Tom Lee\u2019s BitMine Extends Ethereum Bet With $200 Million in Two Days",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2VFcW1sS1hUNkVzMndFWEtUbm9xYk9PTGltQVNsYkNuVTdwc25ULWZIRFJlWmhQMFlzdWdoN0xFR3haOHRKSnZkUUVpYTJrM015WDd0RTZtTFFQc1dEc1R6YTRZWXJUY2VXWmJrM1pLekdYcElQemtoTmh3S2V3eDBmZlY?oc=5",
-      "pub_date": 1765031098.0,
-      "article_url": "https://finance.yahoo.com/news/tom-lee-bitmine-extends-ethereum-142458129.html",
-      "image": "https://media.zenfs.com/en/beincrypto_us_662/5d587a545397e26a7c563d359f21a93d",
-      "description": "BitMine bought nearly $200 million worth of Ethereum in the last two days, widening its lead as the largest single holder of ETH."
-    },
-    {
       "headline": "Better Buy in 2026: Ethereum or Solana?",
       "source": "Nasdaq",
       "source_url": "https://www.nasdaq.com",
@@ -103,8 +83,28 @@
       "article_url": "https://www.kitco.com/opinion/2025-12-05/bitcoin-holds-bullish-consolidation-ethereum-drives-altcoin-momentum",
       "image": "https://image-api.prod.kitco.com/image/0e1d4441-107c-4807-8c06-47326192e4e5.jpeg?top=0&left=148.2962962963&width=431.40740740741&height=243&scale_width=1920&token=44aafdeb8f5f574578d884f794e8eda13e284f9ed6ae3b4aad8b6d44907260f0",
       "description": "The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy."
+    },
+    {
+      "headline": "ChatGPT Thinks Ethereum Will Close At This Level By The End of 2025",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbHNLZ2VNWDVGOG5NcFI3QWJ4bTJ4dzl4MXpyQTk0UHBRdmpidjF0Ql9DU2t0YWdDOVhBNFBVcTdGRDB2X2hvbmdCM1VESUlSWklNcnFSbzkxT0pFTnVlSEVXSElvTlc5OG1YWU42a2tWbVJKVVJTR3dsRFc0dEZUMkpETDZlVFlx?oc=5",
+      "pub_date": 1764875908.0,
+      "article_url": "https://finance.yahoo.com/news/chatgpt-thinks-ethereum-close-level-191828479.html",
+      "image": "https://media.zenfs.com/en/benzinga_79/cd8f7f3516e5885b4127b690baf2b5d1",
+      "description": "Ethereum is starting December in Bitcoin's shadow. The token is selling off with the rest of crypto but holding key support zones as traders wait for signs of stabilization in risk assets. It has lagged Bitcoin on the way up this cycle, giving the ..."
+    },
+    {
+      "headline": "Ethereum Validators Fall 25% After Fusaka Upgrade as Prysm Bug Pushes Network Close to Finality Issue",
+      "source": "FinanceFeeds",
+      "source_url": "https://financefeeds.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1INmpmM3hLdFAwaktlV3RISDFsWlItUWUzZWdpOExPZTI3R0NiVkZpWklPSjYxeEM2dHBsU05Lb3JyVWFTMmZwd0VBVGdoRWhKTTFnZ3ZRaVVCZzVhd01sM1FrTlVfQWRKUm5aQ0Y4UG5uU1BBYUhJM2Z4N215Rm8?oc=5",
+      "pub_date": 1764970788.0,
+      "article_url": "https://financefeeds.com/ethereum-validators-fall-25-after-fusaka-upgrade/",
+      "image": null,
+      "description": null
     }
   ],
   "has_metadata": true,
-  "fetched_at": "2025-12-06T15:41:02.640248+00:00"
+  "fetched_at": "2025-12-06T16:15:45.922931+00:00"
 }
