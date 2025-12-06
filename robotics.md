@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T22:13:33.720638+00:00'
+updated: '2025-12-06T22:34:28.042926+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 22:13 UTC  
+**Last Updated:** December 06, 2025 at 22:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -96,7 +96,7 @@ I’m an elementary school special education teacher and I’ll be coaching an a
 
 https://youtu.be/UAlm8Z4mfpU
 
-22h ago
+23h ago
 
 ---
 
@@ -104,7 +104,7 @@ https://youtu.be/UAlm8Z4mfpU
 
 Im working on an electric knee assist exoskeleton and i have a 450 rpm 24V 15kg*cm³ motor and i was wondering if it would be sufficient to show a noticeable difference for an average sized person when using the exoskeleton or will I need to use two motors.
 
-12h ago
+13h ago
 
 ---
 
@@ -178,7 +178,7 @@ Fierce Biotech • 3d ago
 
 MIT-backed Pickle Robot Company debuts AI-powered systems that autonomously unload trucks and ease one of logistics’ toughest jobs.
 
-Interesting Engineering • 23h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -210,7 +210,7 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 14K • 👍 298 • 💬 154 • ⏱️ 4:05 • 1d ago
+👁️ 14K • 👍 298 • 💬 154 • ⏱️ 4:05 • 2d ago
 
 ---
 
@@ -230,7 +230,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 61K • 👍 1K • 💬 303 • ⏱️ 12:07 • 21h ago
+👁️ 61K • 👍 1K • 💬 303 • ⏱️ 12:07 • 22h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-06T22:13:33.704249+00:00'
+updated: '2025-12-06T22:34:28.033463+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 06, 2025 at 22:13 UTC  
+**Last Updated:** December 06, 2025 at 22:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -1.4%  
-**30d:** -13.9%  
-**90d:** -20.2%  
-**1y:** -10.6%  
+**24h:** +0.5%  
+**7d:** -1.2%  
+**30d:** -13.7%  
+**90d:** -20.0%  
+**1y:** -10.4%  
 
 ---
 
@@ -87,13 +87,13 @@ Burnsish?
 
 **[13 years ago Bitcoin was $13.36 and we were still playing PS2 💔](https://www.reddit.com/r/Bitcoin/comments/1pfp765/13_years_ago_bitcoin_was_1336_and_we_were_still/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Man thats a brutal reminder😭](https://www.reddit.com/r/Bitcoin/comments/1pfm5h0/man_thats_a_brutal_reminder/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -107,13 +107,13 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 **[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -153,7 +153,7 @@ just took out a Fidelity 401k loan from my workplace to smash buy. Feel free to 
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -295,7 +295,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRus Extra
 
-👁️ 10K • 👍 543 • 💬 392 • ⏱️ 9:08 • 21h ago
+👁️ 10K • 👍 543 • 💬 392 • ⏱️ 9:08 • 22h ago
 
 ---
 
@@ -345,7 +345,7 @@ We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 252 • 💬 58 • ⏱️ 5:59 • 5h ago
+👁️ 3K • 👍 252 • 💬 58 • ⏱️ 5:59 • 6h ago
 
 ---
 

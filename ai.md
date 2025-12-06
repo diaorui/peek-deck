@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T22:13:33.695827+00:00'
+updated: '2025-12-06T22:34:28.024992+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 22:13 UTC  
+**Last Updated:** December 06, 2025 at 22:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 It's like Chatgpt doesn't give a crap about humanity But Grok is a lifesaver
 
-54m ago
+1h ago
 
 ---
 
@@ -49,7 +49,7 @@ It's like Chatgpt doesn't give a crap about humanity But Grok is a lifesaver
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 7h ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 11h ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 12h ago
 
 ---
 
@@ -105,7 +105,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 Lately I’ve been trying to get my days under control because I kept doing that thing where you “work all day” but somehow… get nothing important done. 😅 I started using this daily planning prompt, and it’s actually helped me stop winging my schedule and start planning based on how much energy I actually have and what truly matters. Sharing it here in case it helps someone else: Help me plan my workday effectively. Today's date: [Date] Work hours available: [Start time - End time] Energy level today: [High/Medium/Low] Must-do tasks: [Task with deadline/importance] [Task with deadline/importance] [Task with deadline/importance] Should-do tasks: [Task] [Task] Nice-to-do tasks: [Task] [Task] Meetings/commitments: ● [Time]: [Meeting/commitment] ● [Time]: [Meeting/commitment] Context: ● My peak productivity time: [When you work best] ● Types of work I do: [Deep work, meetings, admin, creative, etc.] ● Current biggest project: [What's most important this week] Create an optimized schedule that: Time Block Schedule: [Hour by hour breakdown considering energy levels and task types] Task Sequence: Why this order makes sense (considering priority, energy, dependencies) Focus Strategies: ● Batching similar tasks ● Protecting deep work time ● Handling interruptions ● When to take breaks Evening Reflection Prompts: Questions to ask myself at end of day to improve tomorrow Make it: ● Realistic (includes buffer time) ● Energy-optimized (hard tasks when fresh) ● Flexible (can adjust if things shift) What it gives back A simple time-blocked schedule, the order to tackle tasks (with actual reasoning), focus strategies, and a few reflection questions so you don’t end the day wondering where your time went. It’s not “productivity guru” complicated, it just keeps you honest about your energy and priorities instead of cramming everything into the same to-do list. If you want more prompts like this, I’ve got a small prompt library, just let me know if you want it. 👍
 
-1h ago
+2h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Guardian • 7h ago
 
 **[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqd1_K8WN5DVOT6VVpBzMyXtIfEuoQ6OAlKIOI5U2yyElOXZtY9sdE8u&gaa_ts=6934adfd&gaa_sig=7np5xisRa5zpg1fCk3L5iGNbo4c8gv9SU8AoysAO-QVDtD838oQOCz-_4r7Dvlx2YQTNJq9kYaRfaO39SgBwkA%3D%3D)**
 
-The Wall Street Journal • 4h ago
+The Wall Street Journal • 5h ago
 
 ---
 
@@ -227,7 +227,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 373 • 💬 210 • 20h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 373 • 💬 210 • 21h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -243,7 +243,7 @@ The aircraft was completely destroyed after a spare part bought at an air show i
 
 An empirical study analyzing over 100 trillion tokens of real-world LLM interactions across tasks, geographies, and time.
 
-⬆️ 204 • 💬 93 • 1d ago • [OpenRouter](https://openrouter.ai/state-of-ai)
+⬆️ 204 • 💬 93 • 2d ago • [OpenRouter](https://openrouter.ai/state-of-ai)
 
 ---
 
@@ -339,7 +339,7 @@ From Capitol Hill to the back of an Uber in Dubai — this week showed just how 
 
 📺 CNBC Television
 
-👁️ 23K • 👍 240 • 💬 30 • ⏱️ 22:41 • 22h ago
+👁️ 23K • 👍 240 • 💬 30 • ⏱️ 22:41 • 23h ago
 
 ---
 
@@ -359,7 +359,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 61K • 👍 1K • 💬 303 • ⏱️ 12:07 • 21h ago
+👁️ 61K • 👍 1K • 💬 303 • ⏱️ 12:07 • 22h ago
 
 ---
 
@@ -605,7 +605,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 28 • 💬 2 • ⭐ 99 • 2d ago
+▲ 28 • 💬 2 • ⭐ 116 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
@@ -619,22 +619,23 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 103 • 💬 6 • ⭐ 65,865 • 1mo ago
+▲ 103 • 💬 6 • ⭐ 65,875 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
 
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+**[WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://huggingface.co/papers/2306.08568)**
 
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+*Ziyang Luo, Can Xu, Pu Zhao et al. (10 authors)*
 
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+🏢 Microsoft
 
-▲ 136 • 💬 2 • ⭐ 49,954 • 2mo ago
+WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct, outperforms other open-source and closed LLMs on several code generation benchmarks.
 
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+▲ 31 • 💬 2 • ⭐ 9,470 • 30mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2306.08568) • [💻 code](https://github.com/nlpxucan/WizardLM)
 
 ---
 
@@ -648,7 +649,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.2k • 🔱 407 • 1d ago
+⭐ 5.3k • 🔱 407 • 1d ago
 
 ---
 
@@ -688,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 901 • 🔱 107 • 9h ago
+⭐ 906 • 🔱 107 • 10h ago
 
 ---
 
@@ -708,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 810 • 🔱 21 • 7h ago
+⭐ 811 • 🔱 21 • 8h ago
 
 ---
 
@@ -728,7 +729,7 @@ SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RA
 
 `Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
 
-⭐ 736 • 🔱 14 • 17d ago
+⭐ 738 • 🔱 14 • 17d ago
 
 ---
 
@@ -738,7 +739,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 666 • 🔱 224 • 15h ago
+⭐ 670 • 🔱 226 • 15h ago
 
 ---
 
