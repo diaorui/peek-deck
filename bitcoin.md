@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T15:54:24.493047+00:00'
+updated: '2025-12-07T16:20:50.730026+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 15:54 UTC  
+**Last Updated:** December 07, 2025 at 16:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,842.99
+### $89,591.96
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** +3.0%  
-**30d:** -13.3%  
-**90d:** -20.1%  
-**1y:** -11.9%  
+**24h:** -0.3%  
+**7d:** +3.9%  
+**30d:** -12.6%  
+**90d:** -19.7%  
+**1y:** -11.4%  
 
 ---
 
@@ -113,7 +113,7 @@ Burnsish?
 
 **[This is just Me and I know](https://www.reddit.com/r/Bitcoin/comments/1pgd3wt/this_is_just_me_and_i_know/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -125,7 +125,7 @@ Burnsish?
 
 **[Me trying to predict the crypto market](https://www.reddit.com/r/Bitcoin/comments/1pggxuc/me_trying_to_predict_the_crypto_market/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -207,13 +207,13 @@ Investor's Business Daily • 17h ago
 
 Coinbase Institutional forecasts a December bitcoin rally driven by improving global liquidity and potential Fed rate cuts, though hawkish central bank remarks could temper gains.
 
-Bitbo • 13h ago
+Bitbo • 14h ago
 
 ---
 
 **[Bring Bitcoin Mining into Your Office Without Noise, Heat, or Hassle](https://www.entrepreneur.com/money-finance/bring-bitcoin-mining-into-your-office-without-noise-heat/500383)**
 
-Entrepreneur • 22h ago
+Entrepreneur • 23h ago
 
 ---
 
@@ -247,7 +247,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
-⬆️ 3 • 💬 0 • 14h ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 3 • 💬 0 • 15h ago • [GitHub](https://github.com/kladskull/xEroS)
 
 ---
 
@@ -261,7 +261,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 0 • 45m ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 0 • 1h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -283,7 +283,7 @@ Track the next Bitcoin halving event with live countdown and real-time block upd
 
 Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever been. His bullish outlook drew swift pushback from a famous short-seller.
 
-⬆️ 2 • 💬 1 • 3d ago • [Business Insider](https://www.businessinsider.com/bitcoin-price-eric-jackson-bullish-ethereum-crypto-btc-eth-ai-2025-12)
+⬆️ 2 • 💬 1 • 4d ago • [Business Insider](https://www.businessinsider.com/bitcoin-price-eric-jackson-bullish-ethereum-crypto-btc-eth-ai-2025-12)
 
 ---
 
@@ -313,7 +313,7 @@ I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is W
 
 📺 Digital Asset News
 
-👁️ 20K • 👍 1K • 💬 133 • ⏱️ 21:52 • 21h ago
+👁️ 20K • 👍 1K • 💬 133 • ⏱️ 21:52 • 22h ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin volatility is collapsing, institutions are flooding in, and the entire m
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 819 • 💬 181 • ⏱️ 40:36 • 22h ago
+👁️ 20K • 👍 819 • 💬 181 • ⏱️ 40:36 • 23h ago
 
 ---
 

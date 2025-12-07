@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T15:54:24.499591+00:00'
+updated: '2025-12-07T16:20:50.736108+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 15:54 UTC  
+**Last Updated:** December 07, 2025 at 16:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,978.18
+### $3,010.75
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.5%  
-**7d:** +6.6%  
-**30d:** -12.2%  
-**90d:** -30.8%  
-**1y:** -25.5%  
+**24h:** -1.0%  
+**7d:** +7.7%  
+**30d:** -11.3%  
+**90d:** -30.1%  
+**1y:** -24.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 million from Ethereum traders in a blindingly fast fraud.
 
-🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 23h ago
+🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 1d ago
 
 ---
 
@@ -88,7 +88,7 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 https://preview.redd.it/4i6vd8s1zs5g1.jpg?width=1024&format=pjpg&auto=webp&s=8ade78d2d5b77ecb491060b7f64ca01db67fe82a https://preview.redd.it/j6d3n5s1zs5g1.jpg?width=1052&format=pjpg&auto=webp&s=679a2702f83ebacccac9c1343abede4882936ebd What you Guys Think ?
 
-7m ago
+33m ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 2d ago
 
 Vitalik Buterin is promoting a trustless, on-chain gas futures market to give Ethereum users a way to lock in transaction costs.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -286,7 +286,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Guitar Repair@StringTech
 
-👁️ 5K • 👍 3K • 8h ago
+👁️ 5K • 👍 3K • 9h ago
 
 ---
 

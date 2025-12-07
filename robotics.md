@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T15:54:24.502907+00:00'
+updated: '2025-12-07T16:20:50.739379+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 15:54 UTC  
+**Last Updated:** December 07, 2025 at 16:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-4h ago
+5h ago
 
 ---
 
@@ -58,7 +58,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 An old picture. The progress is in the coding, and testing, and tuning of the hardware.
 
-38m ago
+1h ago
 
 ---
 
@@ -66,7 +66,7 @@ An old picture. The progress is in the coding, and testing, and tuning of the ha
 
 I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/yourusername/BipedalWalker-PPO-STM32 Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
 
-8h ago
+9h ago
 
 ---
 
@@ -82,7 +82,7 @@ Zhongqing CEO Receives the Challenge of T800
 
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
 
-20h ago
+21h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi all, I have a need for the above converter to be installed within a well-cool
 
 **[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -146,7 +146,7 @@ CNN • 3h ago
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-South China Morning Post • 14h ago
+South China Morning Post • 15h ago
 
 ---
 
@@ -168,7 +168,7 @@ MLive.com • 2d ago
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
-CNET • 2h ago
+CNET • 3h ago
 
 ---
 
@@ -184,7 +184,7 @@ KTVB • 1d ago
 
 As smart baby devices expand rapidly, researchers highlight the benefits of AI monitoring while noting the limits of current systems.
 
-Interesting Engineering • 3h ago
+Interesting Engineering • 4h ago
 
 ---
 
@@ -228,7 +228,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 37K • 👍 258 • 💬 80 • ⏱️ 1:03 • 23h ago
+👁️ 37K • 👍 258 • 💬 80 • ⏱️ 1:03 • 1d ago
 
 ---
 
