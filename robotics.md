@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-06T23:59:39.223448+00:00'
+updated: '2025-12-07T02:26:25.346060+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 06, 2025 at 23:59 UTC  
+**Last Updated:** December 07, 2025 at 02:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
-13h ago
+15h ago
 
 ---
 
@@ -44,19 +44,13 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 Zhongqing CEO Receives the Challenge of T800
 
-11h ago
+14h ago
 
 ---
 
 **[autonomous navigation system.](https://www.reddit.com/r/robotics/comments/1pfxa2m/autonomous_navigation_system/)**
 
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
-
-4h ago
-
----
-
-**[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
 
 7h ago
 
@@ -66,13 +60,19 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
-4h ago
+6h ago
+
+---
+
+**[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
+
+9h ago
 
 ---
 
 **[Robot dance Arduino](https://www.reddit.com/r/robotics/comments/1pfijsr/robot_dance_arduino/)**
 
-17h ago
+19h ago
 
 ---
 
@@ -80,7 +80,7 @@ https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
 Meet Octoid, the squishy robot that changes from blue to green to red.
 
-🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 7h ago
+🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 10h ago
 
 ---
 
@@ -88,7 +88,7 @@ Meet Octoid, the squishy robot that changes from blue to green to red.
 
 I’m an elementary school special education teacher and I’ll be coaching an after school robotics club for our 4th and 5th grade students after the new year. Whoever wants to sign up. I’ve never 1) done an after school club or 2) done anything with robotics or coding. My district is providing a day of training for it once we get back from winter break. But I’m asking you all for any tips, tricks, or suggestions! Thank you!
 
-3h ago
+6h ago
 
 ---
 
@@ -104,7 +104,7 @@ https://youtu.be/UAlm8Z4mfpU
 
 Im working on an electric knee assist exoskeleton and i have a 450 rpm 24V 15kg*cm³ motor and i was wondering if it would be sufficient to show a noticeable difference for an average sized person when using the exoskeleton or will I need to use two motors.
 
-14h ago
+17h ago
 
 ---
 
@@ -120,6 +120,14 @@ Barchart.com • 2d ago
 
 ---
 
+**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.cbsnews.com/video/trump-administration-looks-supercharge-robotics-industry-politico/)**
+
+Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be listening. Yasmin Khorram, economic policy reporter for Politico, joins CBS News to discuss her article on the topic.
+
+CBS News • 2d ago
+
+---
+
 **[MIT researchers “speak objects into existence” using AI and robotics](https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205)**
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
@@ -128,9 +136,25 @@ MIT News • 1d ago
 
 ---
 
+**[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
+
+Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
+
+Seeking Alpha • 1d ago
+
+---
+
 **[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
 
 Investor's Business Daily • 2d ago
+
+---
+
+**[Could Prospective U.S. Robotics Support Reframe iRobot’s (IRBT) Consumer-Focused Model Amid Financial Strains?](https://finance.yahoo.com/news/could-prospective-u-robotics-support-131214942.html)**
+
+Earlier this week, reports that the White House is considering an executive order to accelerate growth in the U.S. robotics industry prompted intense investor focus on iRobot and other robotics-linked companies, even as iRobot continues to grapple with liquidity pressures, declining revenue, and a high risk of bankruptcy. The news also highlighted how potential federal support may primarily target industrial robotics and advanced manufacturing, raising questions about how directly...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -142,51 +166,27 @@ IEEE Spectrum • 3d ago
 
 ---
 
-**[New robots inside Boise's USPS facility help process and handle packages during holiday rush](https://www.ktvb.com/article/news/local/new-robots-usps-facility-help-process-holiday-rush/277-0ba7c01f-695c-465f-80f4-e2889aeafaa6)**
+**[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
 
-USPS Boise facility gets four robotic arms to help process 220,000 packages daily during holiday rush, allowing redeployment of workers to areas needing human touch.
+Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-KTVB • 18h ago
-
----
-
-**[Marine robotics firm will resume deep-sea search for MH370 plane that vanished a decade ago](https://www.cnn.com/2025/12/03/asia/malaysia-mh370-robotics-search-latam-intl)**
-
-Malaysia’s transport ministry said Wednesday that a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace.
-
-CNN • 3d ago
+South China Morning Post • 1h ago
 
 ---
 
-**[Olympus-backed robotics startup Swan EndoSurgical taps Stryker vet for CEO](https://www.fiercebiotech.com/medtech/olympus-backed-swan-endosurgical-names-stryker-vet-erik-todd-ceo)**
+**[Robotics Stocks Surged on Wednesday. Here's Why.](https://www.nasdaq.com/articles/robotics-stocks-surged-wednesday-heres-why)**
 
-Swan EndoSurgical, a gastrointestinal startup launched by Olympus and Revival Healthcare Capital earlier this year, has named former Stryker executive Erik Todd as its CEO. | Swan EndoSurgical, formed by Olympus and Revival Healthcare Capital this year, named former Stryker executive Erik Todd as CEO.
+Key PointsPresident Trump is reportedly considering signing an executive order in the new year to accelerate the development of robots in the U.S.
 
-Fierce Biotech • 3d ago
-
----
-
-**[This Robotic Surgery Legend Is Pouring $100 Million Into Next-Gen Medical Startups](https://www.forbes.com/sites/amyfeldman/2025/12/03/robotic-surgery-legend-fred-moll-is-pouring-100-million-into-next-gen-medical-startups/)**
-
-Fred Moll, the cofounder of $200 billion Intuitive Surgical, has invested in some 15 companies building robots that could help make both complex and common surgeries more accessible to everyone.
-
-Forbes • 1d ago
+Nasdaq • 2d ago
 
 ---
 
-**[Warehouse robotics market headed for $31B by 2032 ...](https://www.eenewseurope.com/en/warehouse-robotics-market-headed-for-31b-by-2032/)**
+**[Robotics stocks jolted higher by report the Trump administration is going “all in” to boost the industry](https://sherwood.news/markets/robotics-stocks-jolted-higher-by-report-the-trump-administration-is-going-all-in-on-industry/)**
 
-The global warehouse robotics sector is on a growth track, driven by escalating demand for automated fulfillment and distribution operations.
+Supporting robotics is the natural evolution of supporting AI....
 
-eeNews Europe • 1d ago
-
----
-
-**[Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices](https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/)**
-
-The NVIDIA Jetson AGX Thor, AGX Orin and Jetson Orin Nano Super developer kits — on sale through Jan. 11 — give anyone the power to build intelligent robots of the future.
-
-NVIDIA Blog • 2d ago
+Sherwood News • 3d ago
 
 ---
 
@@ -200,7 +200,17 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 3K • 👍 70 • 💬 19 • ⏱️ 1:03 • 7h ago
+👁️ 7K • 👍 105 • 💬 25 • ⏱️ 1:03 • 10h ago
+
+---
+
+**[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
+
+Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
+
+📺 MarketBeat
+
+👁️ 16K • 👍 681 • 💬 57 • ⏱️ 24:47 • 10h ago
 
 ---
 
@@ -210,7 +220,7 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 14K • 👍 304 • 💬 158 • ⏱️ 4:05 • 2d ago
+👁️ 15K • 👍 312 • 💬 161 • ⏱️ 4:05 • 2d ago
 
 ---
 
@@ -220,17 +230,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 68K • 👍 538 • 💬 265 • ⏱️ 2:30 • 3d ago
-
----
-
-**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
-
-Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
-
-📺 Fin Tek
-
-👁️ 42K • 👍 2K • 💬 172 • ⏱️ 21:31 • 22h ago
+👁️ 69K • 👍 551 • 💬 269 • ⏱️ 2:30 • 3d ago
 
 ---
 
@@ -240,7 +240,7 @@ Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G
 
 📺 Unitree Robotics
 
-👁️ 1.2M • 👍 1K • 💬 298 • ⏱️ 1:06 • 3d ago
+👁️ 1.4M • 👍 1K • 💬 302 • ⏱️ 1:06 • 3d ago
 
 ---
 
@@ -250,7 +250,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 64K • 👍 1K • 💬 310 • ⏱️ 12:07 • 23h ago
+👁️ 68K • 👍 2K • 💬 321 • ⏱️ 12:07 • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ In 2025 Silicon Valley, a next-gen AI Spider Quadruped Robot reveals a completel
 
 📺 AI Robot Lab
 
-👁️ 13K • 👍 155 • 💬 2 • ⏱️ 0:25 • 9h ago
+👁️ 17K • 👍 185 • 💬 4 • ⏱️ 0:25 • 11h ago
 
 ---
 
@@ -270,25 +270,25 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 101K • 💬 621 • ⏱️ 1:21 • 3d ago
+👁️ 101K • 💬 622 • ⏱️ 1:21 • 3d ago
 
 ---
 
-**[Purchased the newly released 2025 humanoid robot. #robotics #ai #humanoidrobot #airobot](https://www.youtube.com/watch?v=NJeenJ276ug)**
+**[🔥🆙 Check #EngineAI T800&#39;s INSANE Vertical Jump! That #explosivepower ! #humanoid #robotics  #ai](https://www.youtube.com/watch?v=_dVpyK1lvxc)**
 
-📺 AI . Robot
+📺 XRoboHub
 
-👁️ 1.4M • 👍 7K • 💬 45 • ⏱️ 0:17 • 2d ago
+👁️ 19K • 👍 502 • 💬 55 • ⏱️ 0:14 • 10h ago
 
 ---
 
-**[AI Humanoid Robot Activated in 2025 — Reacts Like a Real Human in Silicon Valley Lab](https://www.youtube.com/watch?v=bjUcx-S0-ks)**
+**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
 
-In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot and apply a breakthrough synthetic skin.
+Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
 
-📺 AI Robot Lab
+📺 Fin Tek
 
-👁️ 113K • 👍 458 • 💬 13 • ⏱️ 0:19 • 1d ago
+👁️ 46K • 👍 2K • 💬 105 • ⏱️ 21:31 • 1d ago
 
 ---
 

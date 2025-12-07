@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-06T23:59:39.205727+00:00'
+updated: '2025-12-07T02:26:25.330372+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
+- videos
 - repositories
 - news
-- videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 06, 2025 at 23:59 UTC  
+**Last Updated:** December 07, 2025 at 02:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 9h ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 12h ago
 
 ---
 
@@ -49,15 +49,23 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 13h ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 16h ago
 
 ---
 
-**[Could OpenAI’s financial future hinge on teens making deepfakes?](https://www.reddit.com/r/artificial/comments/1pg00rb/could_openais_financial_future_hinge_on_teens/)**
+**[Just used Gemini for a solo DND session…](https://www.reddit.com/r/artificial/comments/1pfscbo/just_used_gemini_for_a_solo_dnd_session/)**
 
-If a new California ballot measure passes, it could block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO. To justify its massive valuation without Wall Street, OpenAI may lean even more heavily on engagement on its consumer-facing platforms, like Sora2. Instrumental and Ekō's recent research into how Sora2 enables harm shows why this could be a bad idea. For everybody.
+… and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 2h ago
+10h ago
+
+---
+
+**[AI has destroyed apathy in human beings](https://www.reddit.com/r/artificial/comments/1pg6qg5/ai_has_destroyed_apathy_in_human_beings/)**
+
+Anything you post in social media, people are shouting from rooftop, this is AI generated. AI slopes, I do not want to see AI generated things, etc. Companies are stealing prompts from employees and replacing them with AI agents. So if AI agents can not replace humans, AI agents with all stolen prompts from humans can easily replace humans. I do not see, any world leader/billionaire demanding "Universal Basic Income" to keep the human civilization thriving. World is heading to a wrong direction.
+
+9m ago
 
 ---
 
@@ -69,17 +77,17 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 ---
 
-**[Just used Gemini for a solo DND session…](https://www.reddit.com/r/artificial/comments/1pfscbo/just_used_gemini_for_a_solo_dnd_session/)**
+**[Could OpenAI’s financial future hinge on teens making deepfakes?](https://www.reddit.com/r/artificial/comments/1pg00rb/could_openais_financial_future_hinge_on_teens/)**
 
-… and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
+If a new California ballot measure passes, it could block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO. To justify its massive valuation without Wall Street, OpenAI may lean even more heavily on engagement on its consumer-facing platforms, like Sora2. Instrumental and Ekō's recent research into how Sora2 enables harm shows why this could be a bad idea. For everybody.
 
-8h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 5h ago
 
 ---
 
 **[Hello again...GRADIUS](https://www.reddit.com/r/artificial/comments/1pg3kjh/hello_againgradius/)**
 
-16m ago
+2h ago
 
 ---
 
@@ -87,21 +95,13 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
 
-🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 6h ago
+🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 8h ago
 
 ---
 
 **[As of now, which model is best for each of these roles in a process chain](https://www.reddit.com/r/artificial/comments/1pg39f6/as_of_now_which_model_is_best_for_each_of_these/)**
 
 1) Strategist 2) Researcher 3) Coder 4) Analyst 5) Critic 6) Fixer 7) Teacher-Documenter 8) Final output Assembler/Presenter
-
-30m ago
-
----
-
-**[Ai is terrible but good at the same time](https://www.reddit.com/r/artificial/comments/1pg0bdn/ai_is_terrible_but_good_at_the_same_time/)**
-
-It's like Chatgpt doesn't give a crap about humanity But Grok is a lifesaver
 
 2h ago
 
@@ -111,7 +111,7 @@ It's like Chatgpt doesn't give a crap about humanity But Grok is a lifesaver
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 18h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 20h ago
 
 ---
 
@@ -123,13 +123,21 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 8h ago
+The Guardian • 11h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcN9vqhc3th6oUtEqmC9hE7YQp1g5ewTQZFCwOMbZZ7mOCYQTJggCaI&gaa_ts=6934c6d8&gaa_sig=hfQfqWG8x1p4a5u5ZTHMizQztSIdAaZWT-VNA3GY74VURjYVue-h_GUffGptmCPWmM2pDbmmJPtB4RqKHHSbww%3D%3D)**
+**[Nvidia vs. Everybody Else: Competition Mounts Against the Top AI Chip Company](https://www.wsj.com/tech/ai/nvidia-ai-chips-competitors-amd-broadcom-google-amazon-6729c65a?gaa_at=eafs&gaa_n=AWEtsqeCk_tAly7m0783sD7PQs8ELmXQV0rSQmRKs-KrVjSRwLsmiSQa4qPp&gaa_ts=6934e93c&gaa_sig=J1IO5J5J8O73v1j4oDVQ5H86U7XkNz1kxm24KZrp32E9F2e23gl2hVv7mcivzl2TYmg3IUD-VHk4qAollDcoCQ%3D%3D)**
 
-The Wall Street Journal • 6h ago
+The Wall Street Journal • 23h ago
+
+---
+
+**[Why OpenAI’s AI Data Center Buildout Faces A 2026 Reality Check](https://www.forbes.com/sites/paulocarvao/2025/12/06/why-openais-ai-data-center-buildout-faces-a-2026-reality-check/)**
+
+OpenAI’s trillion-dollar data center ambitions face hard market, demand and infrastructure limits that could force a 2026 reality check.
+
+Forbes • 58m ago
 
 ---
 
@@ -137,13 +145,7 @@ The Wall Street Journal • 6h ago
 
 China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
 
-Fortune • 5h ago
-
----
-
-**[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
-
-The New York Times • 1d ago
+Fortune • 8h ago
 
 ---
 
@@ -151,7 +153,7 @@ The New York Times • 1d ago
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-ABC News • 13h ago
+ABC News • 16h ago
 
 ---
 
@@ -163,33 +165,31 @@ The Keyword • 1d ago
 
 ---
 
+**[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
+
+The Economist • 2d ago
+
+---
+
 **[Are We Seeing the First Steps Toward AI Superintelligence?](https://www.scientificamerican.com/article/how-close-are-todays-ai-models-to-agi-and-to-self-improving-into/)**
 
 Today’s leading AI models can already write and refine their own software. The question is whether that self-improvement can ever snowball into true superintelligence
 
-Scientific American • 11h ago
+Scientific American • 14h ago
 
 ---
 
-**[The Strange Disappearance of an Anti-AI Activist](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/)**
+**[Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/news/anthropic-interviewer)**
 
-Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
+What 1,250 professionals told us about working with AI
 
-The Atlantic • 2d ago
-
----
-
-**[How a 24-year-old Stanford Ph.D. dropout lured some of Meta's brightest minds to join her AI math startup](https://www.businessinsider.com/axiom-math-stanford-dropout-meta-ai-researchers-startup-2025-12)**
-
-24-year-old Axiom Math founder Carina Hong wooed top Meta researchers in a competitive AI talent market.
-
-Business Insider • 13h ago
-
----
-
-**[Johns Hopkins Study Challenges Billion-Dollar AI Models](https://scitechdaily.com/?p=503026)**
-
-SciTechDaily • 22h ago
+Anthropic • 2d ago
 
 ---
 
@@ -201,7 +201,7 @@ SciTechDaily • 22h ago
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 691 • 💬 654 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 692 • 💬 656 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -209,7 +209,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 542 • 💬 280 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 545 • 💬 281 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -225,7 +225,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 381 • 💬 213 • 22h ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 385 • 💬 213 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -281,31 +281,11 @@ Wall Street lends billions to AI companies while using credit derivatives and so
 
 ## YouTube Videos: "ai"
 
-**[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
-
-Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
-
-📺 Future of Life Institute
-
-👁️ 29K • 👍 2K • 💬 552 • ⏱️ 15:40 • 2d ago
-
----
-
 **[REAL VS A.I. COMPILATION 😂](https://www.youtube.com/watch?v=4fIDsqbkXco)**
 
 📺 Bob Reese
 
-👁️ 6.0M • 👍 170K • 💬 1K • ⏱️ 1:02 • 21h ago
-
----
-
-**[They Summoned Something That Can&#39;t Be Controlled: The AI Warning From 1904](https://www.youtube.com/watch?v=h6efTA8z1UI)**
-
-Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the demon." Everyone laughed. Nobody's laughing ...
-
-📺 End Times Productions
-
-👁️ 110K • 👍 7K • 💬 2K • ⏱️ 34:02 • 1d ago
+👁️ 7.5M • 👍 225K • 💬 2K • ⏱️ 1:02 • 23h ago
 
 ---
 
@@ -315,7 +295,17 @@ AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments w
 
 📺 The Diary Of A CEO
 
-👁️ 834K • 👍 19K • 💬 4K • ⏱️ 2:04:06 • 2d ago
+👁️ 857K • 👍 20K • 💬 4K • ⏱️ 2:04:06 • 2d ago
+
+---
+
+**[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
+
+Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
+
+📺 Future of Life Institute
+
+👁️ 31K • 👍 2K • 💬 583 • ⏱️ 15:40 • 2d ago
 
 ---
 
@@ -325,17 +315,27 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 64K • 👍 1K • 💬 310 • ⏱️ 12:07 • 23h ago
+👁️ 68K • 👍 2K • 💬 321 • ⏱️ 12:07 • 1d ago
 
 ---
 
-**[AI DOOMSDAY?: Joe Rogan challenges tech CEO](https://www.youtube.com/watch?v=5y5gTgEc9Vc)**
+**[They Summoned Something That Can&#39;t Be Controlled: The AI Warning From 1904](https://www.youtube.com/watch?v=h6efTA8z1UI)**
 
-Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial intelligence, including scenarios where AI resorts to ...
+Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the demon." Everyone laughed. Nobody's laughing ...
 
-📺 Fox News Clips
+📺 End Times Productions
 
-👁️ 15K • 👍 325 • 💬 137 • ⏱️ 6:22 • 23h ago
+👁️ 113K • 👍 8K • 💬 2K • ⏱️ 34:02 • 2d ago
+
+---
+
+**[AI Has ENTERED ABSOLUTE MADNESS 💀 (Funniest Sora 2 Moments Yet)](https://www.youtube.com/watch?v=27F7VlOw6e4)**
+
+Sora 2 has officially entered absolute madness — and these are the funniest moments yet This compilation showcases the ...
+
+📺 YetiAF | AI Universe
+
+👁️ 16K • 👍 463 • 💬 55 • ⏱️ 16:01 • 1d ago
 
 ---
 
@@ -345,17 +345,17 @@ The race to unlock the secret to a longer life is on - and two sisters from a Ca
 
 📺 BBC News
 
-👁️ 16K • 👍 496 • 💬 204 • ⏱️ 8:08 • 14h ago
+👁️ 18K • 👍 537 • 💬 211 • ⏱️ 8:08 • 17h ago
 
 ---
 
-**[AI Insider WARNS: “This Ends Much Worse Than You Think”](https://www.youtube.com/watch?v=dnkRXYmmgX0)**
+**[A Clockwork Horror | Surreal AI Music Video 4k](https://www.youtube.com/watch?v=GnDConVF998)**
 
-World-leading AI scientist Professor Stuart Russell issues one of the most urgent warnings ever given on this channel. After five ...
+Had quite a bit of fun with this one. I used A Clockwork Orange meets Rocky Horror Picture Show in the prompt. Definitely more ...
 
-📺 The Diary Of A CEO Clips
+📺 Kelly Boesch AI Art
 
-👁️ 39K • 👍 1K • 💬 383 • ⏱️ 21:18 • 4h ago
+👁️ 19K • 👍 851 • 💬 54 • ⏱️ 2:42 • 1d ago
 
 ---
 
@@ -365,17 +365,17 @@ From Capitol Hill to the back of an Uber in Dubai — this week showed just how 
 
 📺 CNBC Television
 
-👁️ 25K • 👍 256 • 💬 30 • ⏱️ 22:41 • 1d ago
+👁️ 27K • 👍 278 • 💬 32 • ⏱️ 22:41 • 1d ago
 
 ---
 
-**[Future of Education: How to Get Ahead before AI Changes Everything](https://www.youtube.com/watch?v=eaZ2R1K-SjQ)**
+**[AI Insider WARNS: “This Ends Much Worse Than You Think”](https://www.youtube.com/watch?v=dnkRXYmmgX0)**
 
-Download the FREE Guide + Prompts: 20 Ways to Boost Your Professional Value with AI: https://clickhubspot.com/6aac42 00:00 ...
+World-leading AI scientist Professor Stuart Russell issues one of the most urgent warnings ever given on this channel. After five ...
 
-📺 Silicon Valley Girl
+📺 The Diary Of A CEO Clips
 
-👁️ 13K • 👍 625 • 💬 45 • ⏱️ 20:50 • 1d ago
+👁️ 97K • 👍 2K • 💬 645 • ⏱️ 21:18 • 7h ago
 
 ---
 
@@ -391,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,192 • 4d ago
+⬇️ 169,515 • ❤️ 2,196 • 4d ago
 
 ---
 
@@ -403,7 +403,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 18,140 • ❤️ 750 • 5d ago
+⬇️ 18,140 • ❤️ 752 • 5d ago
 
 ---
 
@@ -427,7 +427,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 362 • 1d ago
+⬇️ 20,067 • ❤️ 364 • 2d ago
 
 ---
 
@@ -437,7 +437,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 254 • 4d ago
+⬇️ 0 • ❤️ 255 • 4d ago
 
 ---
 
@@ -459,7 +459,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 231 • 4d ago
+⬇️ 0 • ❤️ 231 • 5d ago
 
 ---
 
@@ -483,7 +483,7 @@ DeepSeek-Math-V2 is a large language model specialized in mathematical reasoning
 
 `text-generation` `685.4B`
 
-⬇️ 8,960 • ❤️ 636 • 9d ago
+⬇️ 8,960 • ❤️ 637 • 9d ago
 
 ---
 
@@ -555,18 +555,6 @@ The paper introduces Reward Forcing, which enhances video generation by updating
 
 ---
 
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 22 • 💬 0 • ⭐ 25,461 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
-
----
-
 **[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
 
 *Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
@@ -593,6 +581,18 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 22 • 💬 0 • ⭐ 25,469 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
 **[Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion](https://huggingface.co/papers/2512.04926)**
 
 *Yueming Pan, Ruoyu Feng, Qi Dai et al. (8 authors)*
@@ -601,7 +601,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 28 • 💬 2 • ⭐ 116 • 2d ago
+▲ 29 • 💬 2 • ⭐ 116 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
@@ -645,7 +645,7 @@ WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.3k • 🔱 408 • 1d ago
+⭐ 5.3k • 🔱 411 • 1d ago
 
 ---
 
@@ -685,7 +685,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 908 • 🔱 107 • 11h ago
+⭐ 914 • 🔱 110 • 14h ago
 
 ---
 
@@ -695,7 +695,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 32m ago
+⭐ 826 • 🔱 43 • 1h ago
 
 ---
 
@@ -705,7 +705,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 811 • 🔱 21 • 9h ago
+⭐ 815 • 🔱 22 • 12h ago
 
 ---
 
@@ -715,17 +715,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 784 • 🔱 54 • 6d ago
-
----
-
-**[Zleap-AI/SAG](https://github.com/Zleap-AI/SAG)**
-
-SAG - SQL驱动的RAG引擎 · 查询时自动构建知识图谱 | SQL-Driven RAG Engine · Automatically Build Knowledge Graph During Querying
-
-`Python` `ai` `data-engineering` `fastapi` `graphrag` `information-retrieval`
-
-⭐ 739 • 🔱 14 • 17d ago
+⭐ 801 • 🔱 55 • 6d ago
 
 ---
 
@@ -735,7 +725,17 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python`
 
-⭐ 671 • 🔱 227 • 16h ago
+⭐ 686 • 🔱 228 • 19h ago
+
+---
+
+**[open-gigaai/giga-world-0](https://github.com/open-gigaai/giga-world-0)**
+
+GigaWorld-0: World Models as Data Engine to Empower Embodied AI
+
+`Python`
+
+⭐ 514 • 🔱 42 • 3d ago
 
 ---
 
