@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T20:16:28.325221+00:00'
+updated: '2025-12-07T20:36:41.443291+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - social
 - repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 20:16 UTC  
+**Last Updated:** December 07, 2025 at 20:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,13 +49,13 @@ Explore the true history of convolutional neural networks, from Fukushima’s ne
 
 If you believe these CEOs will solve unemployment after AI replaces most of the human workers, this video is for you.
 
-8h ago
+9h ago
 
 ---
 
 **[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
 
-🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 5h ago
+🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 6h ago
 
 ---
 
@@ -79,7 +79,7 @@ A new study finds ChatGPT fails to take into account retraction notices across a
 
 I spent the week diagramming the full path documents take through my RAG system. Visualizing it clarified something I’d been feeling for a while. Most retrieval issues don’t start at retrieval. They start much earlier. The moment ingestion or segmentation shifts, everything downstream looks inconsistent even when the model and database stay the same. What stood out was how much reliability improves once the upstream steps become deterministic. Versioning, canonical text, consistent chunk boundaries, and metadata checks made a far bigger impact than changing models. If you were to visualize your pipeline, which step do you think would reveal the most drift?
 
-50m ago
+1h ago
 
 ---
 
@@ -95,7 +95,7 @@ We built a 6 GB, fully self-contained Medical SLM that runs offline on laptops a
 
 Could AI help us create virtual human cells? 🦠 Scientists are training AI to create virtual human cells, digital models that mimic how real cells behave. These simulations can predict how a cell might respond to medication, genetic mutations, or physical damage. While live lab tests are still essential, AI-powered models could make research faster, safer, and more personalized. By reducing trial-and-error in early stages, these tools could unlock faster drug discovery and bring us closer to tailored treatments for individuals.
 
-3h ago
+4h ago
 
 ---
 
@@ -119,7 +119,7 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 ## Google News: "ai"
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcwg-YjhlR3e0X9LOynQflF2mamzYDpbqvdlEDNO5HDikN_l2q_Q8z6&gaa_ts=6935de93&gaa_sig=wuQh-z_N2bBoblzDD42K8vZarPfhtpozCNO5seNv43gf1B73XKC0C6UulZkHQ5WZzDeY9pdFts_j2Zn1jlKb9g%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqe_e_Bc45nXlXI-z0Nf5Dh0kk8v9c0Dj6TVeNcTDNC7Hsb-3c4MYUoS&gaa_ts=6935e8bd&gaa_sig=tSXPPmvpWGL3HJ-MljnhbwS6K89BSTkt_LEqgahAyCdmoJdIZJwE5iaq-UyFxItfqWGDcWqeWRrofyRlgS7TNg%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -133,7 +133,7 @@ The Guardian • 1d ago
 
 ---
 
-**[Opinion | Is AI Making Us Dumb?](https://www.wsj.com/opinion/is-ai-making-us-dumb-21ea8e39?gaa_at=eafs&gaa_n=AWEtsqeDpdGIdmWiB9KwmIHs5BuBamCHGR3MeXo84TMHUoPszCyoyNKoEDDR&gaa_ts=6935de93&gaa_sig=vAyg0yp6aVFRwVNcHnz3uPGylkMyNPSF0CHAuUjK3741AFoL3f1kerUe1YHtVR4yJffQMgfpCYbKeTAzARziXw%3D%3D)**
+**[Opinion | Is AI Making Us Dumb?](https://www.wsj.com/opinion/is-ai-making-us-dumb-21ea8e39?gaa_at=eafs&gaa_n=AWEtsqdOaAsa0TEtRBOD8BrO3oQ7ZCvFd2yAc3MUb4njJnDyxnL-kKNISCnQ&gaa_ts=6935e8bd&gaa_sig=lkSXZiDrzJiE0t7XKetas_tIinL_ZFJ8DnzB0vDr9FU3--XIUCbbBa5LTZTwOfloDXdf_P--qUvEkgh0CpatjA%3D%3D)**
 
 The Wall Street Journal • 1h ago
 
@@ -155,9 +155,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Why Nvidia and Other AI Stocks Have Lost Their ‘Quality’ Status](https://www.wsj.com/finance/investing/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status-84180ff2?gaa_at=eafs&gaa_n=AWEtsqdKRX7zXONgYJ8rn-Yprw_TKAgC8Y3j2AZk6bb6SdESIlp1a-f-ANT1&gaa_ts=6935de93&gaa_sig=2ngIWM4m1tJ8aKQzMwB9K51ONvKMNlTQT8-xPp3qd-6iRnlZGSehvaImAdIRzUvFpRdhDtXOUR4CY4HM0FPEQw%3D%3D)**
+**[Why Nvidia and Other AI Stocks Have Lost Their ‘Quality’ Status](https://www.wsj.com/finance/investing/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status-84180ff2?gaa_at=eafs&gaa_n=AWEtsqf-8luHe6DNxllTmV12Fo0MDm0q2XDHHhgIDsCm2YWtMMWDAXENtCGD&gaa_ts=6935e8bd&gaa_sig=4Bpn8VTxSgLY63LqZ8qdsyDekIdMJg6HJgVmxMGPKw9eJ5Vgp6vPzrYj3tcHhA3SGl6IU8FcF1J9SukKLwKv9w%3D%3D)**
 
-The Wall Street Journal • 9h ago
+The Wall Street Journal • 10h ago
 
 ---
 
@@ -169,6 +169,12 @@ Bloomberg.com • 6h ago
 
 ---
 
+**[Opinion | Don’t Fear the Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
+
+The New York Times • 2d ago
+
+---
+
 **[Gemini 3 Pro: the frontier of vision AI](https://blog.google/technology/developers/gemini-3-pro-vision/)**
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
@@ -177,17 +183,11 @@ The Keyword • 2d ago
 
 ---
 
-**[Opinion | Don’t Fear the Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
+**[Jamie Dimon on AI: 'maybe one day we'll be working less hard but having wonderful lives'](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/)**
 
-The New York Times • 2d ago
+"For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
----
-
-**[Nvidia CEO says U.S. data centers take 3 years, but China 'can build a hospital in a weekend'](https://fortune.com/2025/12/06/nvidia-ceo-jensen-huang-ai-race-china-data-centers-construct-us/)**
-
-China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
-
-Fortune • 1d ago
+Fortune • 2h ago
 
 ---
 
@@ -213,7 +213,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 267 • 💬 86 • 7h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 267 • 💬 86 • 8h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -301,7 +301,7 @@ I made the first set of these images almost by accident. I was trying for someth
 
 📺 Kelly Boesch AI Art
 
-👁️ 5K • 👍 597 • 💬 45 • ⏱️ 2:56 • 5h ago
+👁️ 5K • 👍 597 • 💬 45 • ⏱️ 2:56 • 6h ago
 
 ---
 
@@ -341,7 +341,7 @@ INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, 
 
 📺 AI Search
 
-👁️ 50K • 👍 3K • 💬 603 • ⏱️ 47:03 • 16h ago
+👁️ 50K • 👍 3K • 💬 603 • ⏱️ 47:03 • 17h ago
 
 ---
 
@@ -359,7 +359,7 @@ Sora 2 has officially entered absolute madness — and these are the funniest mo
 
 📺 Animoha
 
-👁️ 983K • 👍 19K • 💬 7 • ⏱️ 1:00 • 7h ago
+👁️ 983K • 👍 19K • 💬 7 • ⏱️ 1:00 • 8h ago
 
 ---
 
@@ -385,7 +385,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 186,951 • ❤️ 2,243 • 5d ago
+⬇️ 186,951 • ❤️ 2,246 • 5d ago
 
 ---
 
@@ -397,7 +397,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 25,451 • ❤️ 769 • 6d ago
+⬇️ 25,451 • ❤️ 770 • 6d ago
 
 ---
 
@@ -421,7 +421,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 423 • 11h ago
+⬇️ 27,215 • ❤️ 424 • 11h ago
 
 ---
 
@@ -475,7 +475,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.
 
-⬇️ 292 • ❤️ 165 • 4d ago
+⬇️ 292 • ❤️ 166 • 4d ago
 
 ---
 
@@ -487,7 +487,7 @@ Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high
 
 `text-to-image`
 
-⬇️ 1,960 • ❤️ 172 • 4d ago
+⬇️ 1,960 • ❤️ 173 • 4d ago
 
 ---
 
@@ -503,7 +503,7 @@ Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 19 • 💬 2 • ⭐ 5,361 • 10d ago
+▲ 20 • 💬 2 • ⭐ 5,361 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -517,7 +517,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 149 • 💬 3 • ⭐ 5,339 • 10d ago
+▲ 151 • 💬 3 • ⭐ 5,339 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -531,7 +531,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 35 • 💬 2 • ⭐ 639 • 5d ago
+▲ 37 • 💬 2 • ⭐ 639 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -567,7 +567,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 The paper introduces Reward Forcing, which enhances video generation by updating sink tokens with EMA-Sink and using Rewarded Distribution Matching Distillation to prioritize dynamic content.
 
-▲ 32 • 💬 3 • ⭐ 109 • 3d ago
+▲ 33 • 💬 3 • ⭐ 109 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04678) • [💻 code](https://github.com/JaydenLyh/Reward-Forcing) • [🔗 project](https://reward-forcing.github.io/)
 
@@ -607,7 +607,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 31 • 💬 2 • ⭐ 161 • 3d ago
+▲ 32 • 💬 2 • ⭐ 161 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
@@ -681,6 +681,16 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 ---
 
+**[Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)**
+
+A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.
+
+`Rust` `game-development` `gamedev` `image-processing` `pixel-art`
+
+⭐ 828 • 🔱 22 • 1h ago
+
+---
+
 **[Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep)**
 
 Open Source Semantic Search for your AI Agent
@@ -691,23 +701,13 @@ Open Source Semantic Search for your AI Agent
 
 ---
 
-**[Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)**
-
-A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.
-
-`Rust` `game-development` `gamedev` `image-processing` `pixel-art`
-
-⭐ 827 • 🔱 22 • 1h ago
-
----
-
 **[AnandChowdhary/continuous-claude](https://github.com/AnandChowdhary/continuous-claude)**
 
 🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 816 • 🔱 56 • 7d ago
+⭐ 817 • 🔱 56 • 7d ago
 
 ---
 
@@ -727,7 +727,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 520 • 🔱 42 • 4d ago
+⭐ 521 • 🔱 42 • 4d ago
 
 ---
 

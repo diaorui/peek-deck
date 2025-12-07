@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T20:16:28.333587+00:00'
+updated: '2025-12-07T20:36:41.451642+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - videos
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 20:16 UTC  
+**Last Updated:** December 07, 2025 at 20:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** +6.1%  
-**30d:** -10.7%  
-**90d:** -18.0%  
-**1y:** -9.5%  
+**24h:** +2.0%  
+**7d:** +5.8%  
+**30d:** -10.9%  
+**90d:** -18.2%  
+**1y:** -9.8%  
 
 ---
 
@@ -113,7 +113,7 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 **[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -137,19 +137,27 @@ Just doing my part to spread the word. If you're ever in NC and see one of these
 
 Two early-era Bitcoin wallets, each holding ~1,000 BTC moved after 13+ years of complete inactivity. Most people interpret this as risk. It isn’t. Dormant coins don’t move because of fear or speculation. They move because wealth has crossed into structure: – key modernization – inheritance and legal clarity – custody transformation – multi-party continuity No exchange inflow, no forced selling, no market reaction. Price didn’t move…not because it’s irrelevant, but because the system is now deep enough to absorb it without distortion. This is how an asset crosses from narrative into adulthood. If you want to understand why this moment signals maturity rather than exit, read the full breakdown
 
-🔗 [coherenceledger.substack.com](https://coherenceledger.substack.com/p/when-2000-dormant-bitcoin-wake-up) • 2h ago
+🔗 [coherenceledger.substack.com](https://coherenceledger.substack.com/p/when-2000-dormant-bitcoin-wake-up) • 3h ago
 
 ---
 
 **[What's holding us back?](https://www.reddit.com/r/Bitcoin/comments/1pge5ht/whats_holding_us_back/)**
 
-10h ago
+11h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Trump Administration Overlooks Bitcoin, Blockchain in National Security Strategy](https://www.coindesk.com/opinion/2025/12/07/trump-s-national-security-strategy-ignores-bitcoin-and-blockchain)**
+
+President Trump's latest national security strategy omits digital assets, focusing instead on AI, biotech, and quantum computing.
+
+CoinDesk • 5h ago
+
+---
 
 **[Bitcoin Is Starting to Look Like a Digital Tulip](https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money)**
 
@@ -159,33 +167,17 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
-
-Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
-
-Futurism • 1d ago
-
----
-
-**[Bitcoin Whipsaws as $1.39 Billion Whale Dump Triggers Coordinated Sell-Off](https://finance.yahoo.com/news/bitcoin-whipsaws-1-39-billion-191439675.html)**
-
-A $1.39 billion whale dump sparks Bitcoin whipsaw and mass liquidations as thin liquidity fuels volatility.
-
-Yahoo Finance • 1h ago
-
----
-
-**[BPCE to Offer Bitcoin and Major Tokens](https://www.fintechweekly.com/magazine/articles/bpce-customers-buy-bitcoin-major-tokens-banking-apps-france)**
-
-France’s second-largest banking group BPCE will begin offering Bitcoin and major crypto purchases to customers starting Monday, with a phased rollout across ...
-
-FinTech Weekly • 2h ago
-
----
-
 **[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
 The Economist • 3d ago
+
+---
+
+**[BlackRock's IBIT Bitcoin ETF Sees Record $2.7 Billion Exodus](https://finance.yahoo.com/news/blackrocks-ibit-bitcoin-etf-sees-033033975.html)**
+
+BlackRock Inc. (NYSE:BLK) is seeing persistent withdrawals from its iShares Bitcoin Trust (NASDAQ:IBIT) as investors pulled more than $2.7 billion over five consecutive weeks. Largest Outflow Stretch Since IBIT's Launch IBIT is facing its longest run ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -203,17 +195,11 @@ CNBC • 3d ago
 
 ---
 
-**[Trump Administration Overlooks Bitcoin, Blockchain in National Security Strategy](https://www.coindesk.com/opinion/2025/12/07/trump-s-national-security-strategy-ignores-bitcoin-and-blockchain)**
+**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
 
-President Trump's latest national security strategy omits digital assets, focusing instead on AI, biotech, and quantum computing.
+Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
 
-CoinDesk • 5h ago
-
----
-
-**[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
-
-Investor's Business Daily • 3h ago
+Futurism • 1d ago
 
 ---
 
@@ -222,6 +208,20 @@ Investor's Business Daily • 3h ago
 Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
 
 Decrypt • 3h ago
+
+---
+
+**[‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles](https://www.forbes.com/sites/digital-assets/2025/12/07/next-step-is-coming-sec-chair-issues-huge-crypto-prediction-as-the-bitcoin-price-struggles/)**
+
+The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
+
+Forbes • 7h ago
+
+---
+
+**[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
+
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -321,7 +321,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 435 • ⏱️ 11:32 • 22h ago
+👁️ 61K • 👍 3K • 💬 435 • ⏱️ 11:32 • 23h ago
 
 ---
 
@@ -331,7 +331,7 @@ The crypto market may have just flipped the script. After weeks of fear, fakeout
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 300 • 💬 80 • ⏱️ 9:56 • 4h ago
+👁️ 4K • 👍 300 • 💬 80 • ⏱️ 9:56 • 5h ago
 
 ---
 
@@ -341,7 +341,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 867 • 👍 96 • 💬 85 • ⏱️ 23:18 • 3h ago
+👁️ 867 • 👍 96 • 💬 85 • ⏱️ 23:18 • 4h ago
 
 ---
 
@@ -371,7 +371,7 @@ BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 10K • 👍 370 • 💬 147 • ⏱️ 17:05 • 9h ago
+👁️ 10K • 👍 370 • 💬 147 • ⏱️ 17:05 • 10h ago
 
 ---
 
@@ -401,7 +401,7 @@ Bitcoin what now STRONGER THAN VIAGRA: 1 Cup Before Bed! [works fast] https://yo
 
 📺 MMCrypto
 
-👁️ 38K • 👍 4K • 💬 558 • ⏱️ 5:51 • 7h ago
+👁️ 38K • 👍 4K • 💬 558 • ⏱️ 5:51 • 8h ago
 
 ---
 
