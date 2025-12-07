@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T05:00:01.254795+00:00'
+updated: '2025-12-07T05:27:43.880802+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
 - videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 05:00 UTC  
+**Last Updated:** December 07, 2025 at 05:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 14h ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 15h ago
 
 ---
 
@@ -49,7 +49,7 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 18h ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 19h ago
 
 ---
 
@@ -63,7 +63,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 Meta strikes multiple AI deals with news publishers.[1] Elementary school students use AI to combat homelessness.[2] Accurate single-domain scaffolding of three nonoverlapping protein epitopes using deep learning.[3] Apple Researchers Release CLaRa: A Continuous Latent Reasoning Framework for Compression‑Native RAG with 16x–128x Semantic Document Compression.[4] Sources: [1] https://www.reuters.com/business/meta-strikes-multiple-ai-deals-with-news-publishers-axios-reports-2025-12-05/ [2] https://www.kxan.com/news/elementary-school-students-use-ai-to-combat-homelessness/ [3] https://www.nature.com/articles/s41589-025-02083-z [4] https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression%e2%80%91native-rag-with-16x-128x-semantic-document-compression/
 
-10m ago
+38m ago
 
 ---
 
@@ -111,7 +111,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 If a new California ballot measure passes, it could block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO. To justify its massive valuation without Wall Street, OpenAI may lean even more heavily on engagement on its consumer-facing platforms, like Sora2. Instrumental and Ekō's recent research into how Sora2 enables harm shows why this could be a bad idea. For everybody.
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 7h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 8h ago
 
 ---
 
@@ -123,13 +123,13 @@ If a new California ballot measure passes, it could block OpenAI’s conversion 
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
 **[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqdSiECzeRM4RygYfZ45z8IWg6nJByQh0YxIp3m-tglh_1C9ckxasAbS&gaa_ts=69350d41&gaa_sig=Wt4ete4NrCAQ66B0WkUWfNcbYDzYU0mXa8uMj23OQgoy7a3tkiSbxq7C_Tp-bOS2qKvmJ4uWky0YEgqlbLuiOQ%3D%3D)**
 
-The Wall Street Journal • 11h ago
+The Wall Street Journal • 12h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Wall Street Journal • 11h ago
 
 China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
@@ -159,7 +159,7 @@ The New York Times • 1d ago
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-ABC News • 18h ago
+ABC News • 19h ago
 
 ---
 
@@ -287,7 +287,7 @@ The race to unlock the secret to a longer life is on - and two sisters from a Ca
 
 📺 BBC News
 
-👁️ 19K • 👍 570 • 💬 211 • ⏱️ 8:08 • 19h ago
+👁️ 19K • 👍 570 • 💬 211 • ⏱️ 8:08 • 20h ago
 
 ---
 
@@ -375,7 +375,7 @@ OpenAI, Anthropic, and Google are all making amazing models, but their good ones
 
 📺 Theo - t3․gg
 
-👁️ 51K • 👍 2K • 💬 396 • ⏱️ 36:08 • 22h ago
+👁️ 51K • 👍 2K • 💬 396 • ⏱️ 36:08 • 23h ago
 
 ---
 
@@ -537,7 +537,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 29 • 💬 2 • ⭐ 350 • 4d ago
+▲ 29 • 💬 2 • ⭐ 350 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -674,7 +674,7 @@ AI-powered git commit message rewriter using Ollama or GPT
 
 `Python`
 
-⭐ 1.0k • 🔱 206 • 6d ago
+⭐ 1.0k • 🔱 206 • 7d ago
 
 ---
 
@@ -684,7 +684,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 917 • 🔱 112 • 16h ago
+⭐ 917 • 🔱 112 • 17h ago
 
 ---
 
@@ -704,7 +704,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 821 • 🔱 22 • 14h ago
+⭐ 821 • 🔱 22 • 15h ago
 
 ---
 
@@ -724,7 +724,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 703 • 🔱 233 • 21h ago
+⭐ 703 • 🔱 233 • 22h ago
 
 ---
 

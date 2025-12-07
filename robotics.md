@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T05:00:01.273693+00:00'
+updated: '2025-12-07T05:27:43.898681+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 05:00 UTC  
+**Last Updated:** December 07, 2025 at 05:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 Zhongqing CEO Receives the Challenge of T800
 
-16h ago
+17h ago
 
 ---
 
@@ -52,7 +52,7 @@ Zhongqing CEO Receives the Challenge of T800
 
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
 Meet Octoid, the squishy robot that changes from blue to green to red.
 
-🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 12h ago
+🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 13h ago
 
 ---
 
@@ -88,7 +88,7 @@ Meet Octoid, the squishy robot that changes from blue to green to red.
 
 I’m an elementary school special education teacher and I’ll be coaching an after school robotics club for our 4th and 5th grade students after the new year. Whoever wants to sign up. I’ve never 1) done an after school club or 2) done anything with robotics or coding. My district is providing a day of training for it once we get back from winter break. But I’m asking you all for any tips, tricks, or suggestions! Thank you!
 
-8h ago
+9h ago
 
 ---
 
@@ -104,7 +104,7 @@ https://youtu.be/UAlm8Z4mfpU
 
 Im working on an electric knee assist exoskeleton and i have a 450 rpm 24V 15kg*cm³ motor and i was wondering if it would be sufficient to show a noticeable difference for an average sized person when using the exoskeleton or will I need to use two motors.
 
-19h ago
+20h ago
 
 ---
 
@@ -132,7 +132,7 @@ IEEE Spectrum • 3d ago
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-South China Morning Post • 3h ago
+South China Morning Post • 4h ago
 
 ---
 
@@ -200,7 +200,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 18K • 👍 749 • 💬 60 • ⏱️ 24:47 • 12h ago
+👁️ 18K • 👍 749 • 💬 60 • ⏱️ 24:47 • 13h ago
 
 ---
 
@@ -210,7 +210,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 10K • 👍 131 • 💬 32 • ⏱️ 1:03 • 12h ago
+👁️ 10K • 👍 131 • 💬 32 • ⏱️ 1:03 • 13h ago
 
 ---
 

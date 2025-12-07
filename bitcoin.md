@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T05:00:01.264027+00:00'
+updated: '2025-12-07T05:27:43.889242+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 05:00 UTC  
+**Last Updated:** December 07, 2025 at 05:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,530.17
+### $89,457.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
+**24h:** +0.1%  
 **7d:** +4.0%  
-**30d:** -12.4%  
+**30d:** -12.5%  
 **90d:** -19.6%  
 **1y:** -11.3%  
 
@@ -93,7 +93,7 @@ Burnsish?
 
 **[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -105,7 +105,7 @@ Burnsish?
 
 **[13 years ago Bitcoin was $13.36 and we were still playing PS2 💔](https://www.reddit.com/r/Bitcoin/comments/1pfp765/13_years_ago_bitcoin_was_1336_and_we_were_still/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -119,7 +119,7 @@ Burnsish?
 
 it's not mine. Credits for him. "24-05-2025 - Btc Pump It Up - Have You Ever Seen Bitcoin Like This"
 
-4h ago
+5h ago
 
 ---
 
@@ -127,13 +127,13 @@ it's not mine. Credits for him. "24-05-2025 - Btc Pump It Up - Have You Ever See
 
 You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s simple and beginner-friendly but I moved to Value Averaging this cycle, and the results have been way better. Most people know DCA because it’s simple: buy the same amount every week.But when you’re trying to get better prices and make the market’s volatility work for you, Value Averaging is a much stronger method. Let me show you exactly how it played out using real BTC price action from 2024–2025. Rule I Followed Every 15% drop in BTC : Buy. First Buy = $1,000 Second Buy = $2,000 Third Buy = 3000$ Continues..... BTC gave three clean 30% corrections this cycle, so this rule activated six times. Drawdown 1 — March 2024 (-30%) BTC dropped twice by 15%, so we can bought: $1,000 ( Buy 01 ) $2,000 ( Buy 02 ) Later, when BTC reached what I marked as “Top 3,” these were the gains: $1,000 → +95% = +$950 $2,000 → +131% = +$2,620 Total = $3,570 profit Drawdown 2 — December 2024 (-30%) Same plan again: $1,000 ( Buy 03 ) $2000 ( Buy 04 ) During the recovery toward Top 3, three positions were still showing: +$950 ( Buy 01 ) +$2620 ( Buy 02 ) +$330 ( Buy 03 ) +$1140 ( Buy 04 ) Total = $5,040 profit Current Drawdown — 2025 July–Oct (-30%) This is where we are right now. Two more buys triggered: Buy 05: $1,000 → currently –14% Buy 06: $2,000 → currently breakeven These are fresh buys, so it’s totally normal that they haven’t recovered yet. Total Structure 6 total buys – 3 × $1,000 – 3 × $2,000 Total invested = $9,000 Right now, even though BTC is still in a ~30% decline: Three positions remain in profit ($420 + $1,300 + $260) One is slightly negative (–$140) Two are at breakeven Overall: still profitable during a drawdown. Why This Beats DCA for Me DCA buys at every price expensive, cheap, doesn’t matter. Value Averaging waits for discounts. You buy more when BTC is cheaper Your average cost drops fast Strong assets recover and reward the early buys Drawdowns become opportunities instead of pain Your risk is distributed intelligently no guessing bottoms. no chasing tops.Just reacting to 15% dips the same way, every time. This is the whole point:
 
-15h ago
+16h ago
 
 ---
 
 **[Man thats a brutal reminder😭](https://www.reddit.com/r/Bitcoin/comments/1pfm5h0/man_thats_a_brutal_reminder/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -181,7 +181,7 @@ Investing.com • 1d ago
 
 As the gap between spot bitcoin price and the power law widens, investors are left questioning whether mean reversion is coming or if another cornerstone model is approaching its end.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -203,7 +203,7 @@ TheStreet • 1d ago
 
 Academic literature finds that during periods of economic stress, correlations and spillovers between cryptocurrencies and equities spike.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -261,7 +261,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
-⬆️ 2 • 💬 0 • 3h ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 2 • 💬 0 • 4h ago • [GitHub](https://github.com/kladskull/xEroS)
 
 ---
 
@@ -303,7 +303,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 241 • ⏱️ 11:32 • 7h ago
+👁️ 29K • 👍 2K • 💬 241 • ⏱️ 11:32 • 8h ago
 
 ---
 
@@ -313,7 +313,7 @@ I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is W
 
 📺 Digital Asset News
 
-👁️ 15K • 👍 967 • 💬 100 • ⏱️ 21:52 • 10h ago
+👁️ 15K • 👍 967 • 💬 100 • ⏱️ 21:52 • 11h ago
 
 ---
 
@@ -323,7 +323,7 @@ Tangem ▻ Black Friday Deals!!* Special Discount: *30% Off + $10 in FREE BTC!* 
 
 📺 Crypto Casey
 
-👁️ 35K • 👍 3K • 💬 349 • ⏱️ 12:50 • 15h ago
+👁️ 35K • 👍 3K • 💬 349 • ⏱️ 12:50 • 16h ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin volatility is collapsing, institutions are flooding in, and the entire m
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 649 • 💬 138 • ⏱️ 40:36 • 11h ago
+👁️ 14K • 👍 649 • 💬 138 • ⏱️ 40:36 • 12h ago
 
 ---
 
@@ -393,7 +393,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 44K • 👍 2K • 💬 65 • ⏱️ 48:57 • 14h ago
+👁️ 44K • 👍 2K • 💬 65 • ⏱️ 48:57 • 15h ago
 
 ---
 
