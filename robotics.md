@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T08:34:55.316369+00:00'
+updated: '2025-12-07T08:50:17.083388+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 08:34 UTC  
+**Last Updated:** December 07, 2025 at 08:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
-12h ago
+13h ago
 
 ---
 
@@ -82,7 +82,7 @@ https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
 Conferencia realizada en la Sorbonne Paris, viernes 05 de diciembre. Se trató sobre los proyectos de Hobbie y concurso hasta la industria, proyectos de grande escala, también se tocó el tema del futuro, hasta donde iremos? La estética en la robótica y la ética en la robótica, de una manera genérica se todo también la tecnología en sí. Muchas gracias a Jorge Linares por la invitación. Jorge Abraham Salgado
 
-1h ago
+2h ago
 
 ---
 
@@ -288,7 +288,7 @@ In 2025 Silicon Valley, a next-gen AI Spider Quadruped Robot reveals a completel
 
 📺 AI Robot Lab
 
-👁️ 21K • 👍 214 • 💬 5 • ⏱️ 0:25 • 17h ago
+👁️ 21K • 👍 214 • 💬 5 • ⏱️ 0:25 • 18h ago
 
 ---
 

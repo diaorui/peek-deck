@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T08:34:55.307032+00:00'
+updated: '2025-12-07T08:50:17.074998+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - videos
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 08:34 UTC  
+**Last Updated:** December 07, 2025 at 08:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,7 +45,7 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -0.2%  
-**7d:** +3.7%  
+**7d:** +3.8%  
 **30d:** -12.7%  
 **90d:** -19.8%  
 **1y:** -11.5%  
@@ -87,13 +87,13 @@ Rank #1
 
 Burnsish?
 
-11h ago
+12h ago
 
 ---
 
 **[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
 
-56m ago
+1h ago
 
 ---
 

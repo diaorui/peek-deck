@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T08:34:55.298358+00:00'
+updated: '2025-12-07T08:50:17.067030+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 08:34 UTC  
+**Last Updated:** December 07, 2025 at 08:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 **[Hello again...GRADIUS](https://www.reddit.com/r/artificial/comments/1pg3kjh/hello_againgradius/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -79,7 +79,7 @@ I saw a paper/article on hacker news at one point about making LLMs where they d
 
 Meta strikes multiple AI deals with news publishers.[1] Elementary school students use AI to combat homelessness.[2] Accurate single-domain scaffolding of three nonoverlapping protein epitopes using deep learning.[3] Apple Researchers Release CLaRa: A Continuous Latent Reasoning Framework for Compression‑Native RAG with 16x–128x Semantic Document Compression.[4] Sources: [1] https://www.reuters.com/business/meta-strikes-multiple-ai-deals-with-news-publishers-axios-reports-2025-12-05/ [2] https://www.kxan.com/news/elementary-school-students-use-ai-to-combat-homelessness/ [3] https://www.nature.com/articles/s41589-025-02083-z [4] https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression%e2%80%91native-rag-with-16x-128x-semantic-document-compression/
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Meta strikes multiple AI deals with news publishers.[1] Elementary school studen
 
 … and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
 
-16h ago
+17h ago
 
 ---
 
@@ -103,7 +103,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
 
-🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 14h ago
+🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 15h ago
 
 ---
 
@@ -143,7 +143,7 @@ BBC • 2h ago
 
 **[Opinion | Let’s not idolize AI. That’s an age-old mistake.](https://www.washingtonpost.com/opinions/2025/12/07/ai-idols-consciousness-religion-llms/)**
 
-The Washington Post • 12m ago
+The Washington Post • 28m ago
 
 ---
 
@@ -201,7 +201,7 @@ Anthropic • 2d ago
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 693 • 💬 656 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 693 • 💬 656 • 3d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -355,7 +355,7 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Ge
 
 📺 BitBiasedAI
 
-👁️ 14K • 👍 498 • 💬 19 • ⏱️ 11:49 • 11h ago
+👁️ 14K • 👍 498 • 💬 19 • ⏱️ 11:49 • 12h ago
 
 ---
 
