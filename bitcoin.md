@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T11:22:08.755413+00:00'
+updated: '2025-12-07T11:34:33.963580+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- news
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 11:22 UTC  
+**Last Updated:** December 07, 2025 at 11:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1782.27B
+**Market Cap:** $1780.44B
 Rank #1
 
-**Circulating Supply:** 19,958,665 BTC
+**Circulating Supply:** 19,958,771 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
 -29.2%
 
 **All-Time Low:** $67.81
-+131539.9%
++131495.6%
 
 ---
 
@@ -77,23 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[MasterCard is Orange Pilled for 1 Billion Users](https://www.reddit.com/r/Bitcoin/comments/1pgenos/mastercard_is_orange_pilled_for_1_billion_users/)**
+
+1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
+
+1h ago
+
+---
+
 **[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
 
 3h ago
-
----
-
-**[MasterCard is Orange Pilled for 1 Billion Users](https://www.reddit.com/r/Bitcoin/comments/1pgenos/mastercard_is_orange_pilled_for_1_billion_users/)**
-
-1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
-
-1h ago
 
 ---
 
@@ -105,9 +105,15 @@ Burnsish?
 
 ---
 
+**[It is funny how true is this...](https://www.reddit.com/r/Bitcoin/comments/1pgfjhq/it_is_funny_how_true_is_this/)**
+
+47m ago
+
+---
+
 **[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -135,14 +141,6 @@ Burnsish?
 
 ---
 
-**[24-05-2025 - Btc Pump It Up - Have You Ever Seen Bitcoin Like This](https://www.reddit.com/r/Bitcoin/comments/1pg47xb/24052025_btc_pump_it_up_have_you_ever_seen/)**
-
-it's not mine. Credits for him. "24-05-2025 - Btc Pump It Up - Have You Ever Seen Bitcoin Like This"
-
-11h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -163,6 +161,22 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Michael Saylor’s Bitcoin Playbook Backfires on 100+ Companies](https://finance.yahoo.com/news/michael-saylor-bitcoin-playbook-backfires-101022120.html)**
+
+Digital asset treasury companies that rushed to copy Michael Saylor’s Bitcoin strategy are now hemorrhaging shareholder value, with median stock prices down 43% year to date, even as the broader market climbs higher, as per Bloomberg.Source: BloombergMore than 100 publicly traded companies transformed themselves into cryptocurrency-holding vehicles in the first ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin “Liveliness” Indicator Rises, Hinting the Bull Cycle May Not Be Over](https://finance.yahoo.com/news/bitcoin-liveliness-indicator-rises-hinting-103141594.html)**
+
+A key on-chain indicator known as Bitcoin “liveliness” is climbing again, a pattern historically associated with bull market activity, raising the possibility that the current cycle still has room to run, according to analysts tracking long-term blockchain metrics. Key Takeaways: Bitcoin’s “liveliness” metric is rising despite stagnant prices, signaling renewed ...
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
 The Economist • 3d ago
@@ -173,7 +187,7 @@ The Economist • 3d ago
 
 In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
 
-CNBC • 2d ago
+CNBC • 3d ago
 
 ---
 
@@ -193,7 +207,7 @@ CNBC • 2d ago
 
 **[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
 
 ---
 
@@ -202,22 +216,6 @@ Investor's Business Daily • 12h ago
 Key PointsStrategy does its business by issuing debt or equity to buy Bitcoin.
 
 Nasdaq • 13h ago
-
----
-
-**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
-
-Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
-
-Futurism • 17h ago
-
----
-
-**[Bitcoin Faces Japan Rate Hike: Debunking The Yen Carry Trade Unwind Alarms, Real Risk Elsewhere](https://www.coindesk.com/markets/2025/12/07/bitcoin-faces-japan-rate-hike-yen-carry-trade-unwind-fears-miss-the-mark-real-risk-lie-elsewhere)**
-
-Speculators maintain net bullish positions in the yen, limiting scope for sudden JPY strength and mass carry unwind.
-
-CoinDesk • 5h ago
 
 ---
 
@@ -301,7 +299,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 369 • ⏱️ 11:32 • 13h ago
+👁️ 46K • 👍 2K • 💬 369 • ⏱️ 11:32 • 14h ago
 
 ---
 
@@ -351,7 +349,7 @@ We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 400 • 💬 39 • ⏱️ 5:59 • 18h ago
+👁️ 8K • 👍 400 • 💬 39 • ⏱️ 5:59 • 19h ago
 
 ---
 
@@ -361,7 +359,7 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 119K • 👍 7K • 💬 473 • ⏱️ 15:38 • 1d ago
+👁️ 119K • 👍 7K • 💬 473 • ⏱️ 15:38 • 2d ago
 
 ---
 

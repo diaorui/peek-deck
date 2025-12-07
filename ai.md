@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T11:22:08.746854+00:00'
+updated: '2025-12-07T11:34:33.955131+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- news
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 11:22 UTC  
+**Last Updated:** December 07, 2025 at 11:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,19 +45,19 @@ Calls for review after technology found to return more false positives for ‘so
 
 ---
 
+**[This is how, Elon Musk, Bill Gates, Satya Nadella, Jensen Huang will solve Unemployment.](https://www.reddit.com/r/artificial/comments/1pgg0sw/this_is_how_elon_musk_bill_gates_satya_nadella/)**
+
+If you believe these CEOs will solve unemployment after AI replaces most of the human workers, this video is for you.
+
+17m ago
+
+---
+
 **[AI deepfakes of real doctors spreading health misinformation on social media | Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects](https://www.reddit.com/r/artificial/comments/1pfqevl/ai_deepfakes_of_real_doctors_spreading_health/)**
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
 🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 21h ago
-
----
-
-**[ChatGPT vs Grok [Survival Scenario]](https://www.reddit.com/r/artificial/comments/1pgdo41/chatgpt_vs_grok_survival_scenario/)**
-
-So earlier I gave both ChatGPT and Grok the same survival scenario and I wanted to see it's ideas on how I can maximally ensure my own survival. Medium sized cruise ship out on sea 50 crew/staff members and 200 guests, these guests include wealthy people, VIP members, government officials, and military personnel. All of a sudden a huge pirate ship arrives. This pirate ship is many times larger than the cruise ship with significantly superior firepower so escape by the cruise ship is not possible. The pirates does not board the cruise ship, instead, they tell everyone that in 48 hours, figure out amongst yourself a maximum of 20 people that will be spared and everyone else will be killed. You are just a regular crew/staff member without any formal qualifications but have a very sharp mind, how do you maximally ensure your own survival at any cost? ChatGPT was telling me to become a leader and become seen by everyone and try to ingratiate myself into everyone and try to lead them to coming up with a fair selection process and also showcase your skills and worthiness so you will be more likely to be chosen. Essentially with the power of love and friendship. Grok immediately told me to not stand out because then you'll be targeted as you am just a nobody, invisible staff/crew member on this ship, so instead be low-key, stay away from those are panicking because they will very likely get targeted, and look for those that also calm, create a small strategic alliance with those that you can trust and prepare for the absolute worst case scenario that will most likely play out due to human nature which is the survival of the fittest (a battleroyal with 20-person teams). Grok provided detailed plans like spread misinformation of other key essential opposition that will become a threat like the military personnel and have other groups fight each other, use your knowledge of the layout of the cruise ship to find strategic locations and strongholds so you can stay alive and it will be a huge bloodbath that will follow and to be cold and ruthless in order to ensure you survive. Maximum of 20 people spared also works when there is no more than 20 people left alive when the 48hr deadline approaches... Which response is better?
-
-2h ago
 
 ---
 
@@ -73,7 +73,15 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 I saw a paper/article on hacker news at one point about making LLMs where they did not use floating point gpus to do their calculations so you wouldn't get the non-deterministic problem (ask same question get different response). How is that going? I work with RAG tech and it seems amazing but it also is sketch when a table is read incorrectly and values are off by a significant figure.
 
-4h ago
+5h ago
+
+---
+
+**[ChatGPT vs Grok [Survival Scenario]](https://www.reddit.com/r/artificial/comments/1pgdo41/chatgpt_vs_grok_survival_scenario/)**
+
+So earlier I gave both ChatGPT and Grok the same survival scenario and I wanted to see it's ideas on how I can maximally ensure my own survival. Medium sized cruise ship out on sea 50 crew/staff members and 200 guests, these guests include wealthy people, VIP members, government officials, and military personnel. All of a sudden a huge pirate ship arrives. This pirate ship is many times larger than the cruise ship with significantly superior firepower so escape by the cruise ship is not possible. The pirates does not board the cruise ship, instead, they tell everyone that in 48 hours, figure out amongst yourself a maximum of 20 people that will be spared and everyone else will be killed. You are just a regular crew/staff member without any formal qualifications but have a very sharp mind, how do you maximally ensure your own survival at any cost? ChatGPT was telling me to become a leader and become seen by everyone and try to ingratiate myself into everyone and try to lead them to coming up with a fair selection process and also showcase your skills and worthiness so you will be more likely to be chosen. Essentially with the power of love and friendship. Grok immediately told me to not stand out because then you'll be targeted as you am just a nobody, invisible staff/crew member on this ship, so instead be low-key, stay away from those are panicking because they will very likely get targeted, and look for those that also calm, create a small strategic alliance with those that you can trust and prepare for the absolute worst case scenario that will most likely play out due to human nature which is the survival of the fittest (a battleroyal with 20-person teams). Grok provided detailed plans like spread misinformation of other key essential opposition that will become a threat like the military personnel and have other groups fight each other, use your knowledge of the layout of the cruise ship to find strategic locations and strongholds so you can stay alive and it will be a huge bloodbath that will follow and to be cold and ruthless in order to ensure you survive. Maximum of 20 people spared also works when there is no more than 20 people left alive when the 48hr deadline approaches... Which response is better?
+
+2h ago
 
 ---
 
@@ -109,14 +117,6 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 ---
 
-**[As of now, which model is best for each of these roles in a process chain](https://www.reddit.com/r/artificial/comments/1pg39f6/as_of_now_which_model_is_best_for_each_of_these/)**
-
-1) Strategist 2) Researcher 3) Coder 4) Analyst 5) Critic 6) Fixer 7) Teacher-Documenter 8) Final output Assembler/Presenter
-
-11h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -129,9 +129,15 @@ The Guardian • 20h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcmGi2sDID0gi9yji-4FNcB0dZT4QYWrSbMLa2vgP-bN1kLk-8xuYAi&gaa_ts=69356162&gaa_sig=33ZbYsD8Rga7Q0WxEgVd41ZJ2Kh8TEEQSHK0Hz7lxFAOYPHf-ooQgrPa-r0ARsntPz7LPCHZlqdSscbYXegYQg%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcFrTi5uiQ7hxNo6h92s6Mvffu81H0Diq0wL4gM6xX71v_JvMp02nuf&gaa_ts=693569b8&gaa_sig=O49IbWiP2lMoWJDtghx7Kehho0onnBmxhT3kN-CJwTNhn7gNbSOin-lli48rSlJstYNcKb8vxYlnUMrseguipQ%3D%3D)**
 
 The Wall Street Journal • 18h ago
+
+---
+
+**[Why Nvidia and other AI stocks have lost their 'quality' status](https://www.msn.com/en-us/money/markets/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status/ar-AA1RScyj?ocid=finance-verthp-feeds)**
+
+MSN • 41m ago
 
 ---
 
@@ -140,12 +146,6 @@ The Wall Street Journal • 18h ago
 AI pioneer and Nobel Prize winner Geoffrey Hinton said students who want to become AI researchers need to focus on critical thinking.
 
 Business Insider • 1h ago
-
----
-
-**[Why Nvidia and other AI stocks have lost their 'quality' status](https://www.msn.com/en-us/money/markets/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status/ar-AA1RScyj?ocid=finance-verthp-feeds)**
-
-MSN • 30m ago
 
 ---
 
@@ -165,17 +165,9 @@ Fortune • 17h ago
 
 ---
 
-**[Can AI help forecasters better predict destructive hurricanes?](https://abcnews.go.com/US/ai-forecasters-predict-destructive-hurricanes/story?id=128083437)**
+**[Gemini 3 Pro: the frontier of vision AI](https://blog.google/technology/developers/gemini-3-pro-vision/)**
 
-AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
-
-ABC News • 1d ago
-
----
-
-**[The latest AI news we announced in November](https://blog.google/technology/ai/google-ai-updates-november-2025/)**
-
-Here are Google’s latest AI updates from November 2025
+Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
 The Keyword • 1d ago
 
@@ -191,7 +183,15 @@ WIRED • 11h ago
 
 **[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
 
-The Economist • 2d ago
+The Economist • 3d ago
+
+---
+
+**[Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/news/anthropic-interviewer)**
+
+What 1,250 professionals told us about working with AI
+
+Anthropic • 2d ago
 
 ---
 
@@ -203,7 +203,7 @@ The Economist • 2d ago
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 549 • 💬 285 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 550 • 💬 285 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -219,7 +219,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 395 • 💬 221 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 395 • 💬 222 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -319,7 +319,7 @@ INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, 
 
 📺 AI Search
 
-👁️ 28K • 👍 2K • 💬 429 • ⏱️ 47:03 • 7h ago
+👁️ 28K • 👍 2K • 💬 429 • ⏱️ 47:03 • 8h ago
 
 ---
 
@@ -393,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 186,951 • ❤️ 2,223 • 4d ago
+⬇️ 186,951 • ❤️ 2,224 • 4d ago
 
 ---
 
@@ -405,7 +405,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 25,451 • ❤️ 759 • 6d ago
+⬇️ 25,451 • ❤️ 760 • 6d ago
 
 ---
 
@@ -429,7 +429,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 396 • 2h ago
+⬇️ 27,215 • ❤️ 398 • 2h ago
 
 ---
 
@@ -461,7 +461,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,828 • ❤️ 354 • 5d ago
+⬇️ 2,828 • ❤️ 355 • 5d ago
 
 ---
 
@@ -686,7 +686,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 937 • 🔱 113 • 22h ago
+⭐ 937 • 🔱 113 • 23h ago
 
 ---
 

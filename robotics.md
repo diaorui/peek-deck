@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T11:22:08.764782+00:00'
+updated: '2025-12-07T11:34:33.972908+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 11:22 UTC  
+**Last Updated:** December 07, 2025 at 11:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -31,6 +31,14 @@ Robotics research and industry news
 ---
 
 ## Reddit: r/robotics
+
+**[GITAI robots cooperatively assemble a 5-meter tower, a building block for future off-world habitats](https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/)**
+
+Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
+
+26m ago
+
+---
 
 **[RIVR showing how last-mile delivery of the future might look like](https://www.reddit.com/r/robotics/comments/1pfmn8a/rivr_showing_how_lastmile_delivery_of_the_future/)**
 
@@ -98,14 +106,6 @@ Conferencia realizada en la Sorbonne Paris, viernes 05 de diciembre. Se trató s
 
 ---
 
-**[Researchers unveil color-shifting, octopus-inspired soft robot.](https://www.reddit.com/r/robotics/comments/1pfsub5/researchers_unveil_colorshifting_octopusinspired/)**
-
-Meet Octoid, the squishy robot that changes from blue to green to red.
-
-🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 19h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -134,19 +134,19 @@ MIT News • 1d ago
 
 ---
 
-**[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
-
-Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
-
-South China Morning Post • 10h ago
-
----
-
 **[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
 
 Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
 
 Seeking Alpha • 2d ago
+
+---
+
+**[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
+
+Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
+
+South China Morning Post • 10h ago
 
 ---
 
@@ -164,14 +164,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Robotics Stocks Surged on Wednesday. Here's Why.](https://www.nasdaq.com/articles/robotics-stocks-surged-wednesday-heres-why)**
-
-Key PointsPresident Trump is reportedly considering signing an executive order in the new year to accelerate the development of robots in the U.S.
-
-Nasdaq • 3d ago
-
----
-
 **[Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices](https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/)**
 
 The NVIDIA Jetson AGX Thor, AGX Orin and Jetson Orin Nano Super developer kits — on sale through Jan. 11 — give anyone the power to build intelligent robots of the future.
@@ -185,6 +177,14 @@ NVIDIA Blog • 2d ago
 USPS Boise facility gets four robotic arms to help process 220,000 packages daily during holiday rush, allowing redeployment of workers to areas needing human touch.
 
 KTVB • 1d ago
+
+---
+
+**[Hyundai’s ‘mobile eccentric droid’ could be about to deliver your goods](https://www.wallpaper.com/tech/hyundai-mobile-eccentric-droid)**
+
+The MobED is a new product from Hyundai’s Robotics LAB, pitched at last-mile delivery and industrial applications
+
+wallpaper.com • 34m ago
 
 ---
 
@@ -218,7 +218,7 @@ After months of buildup, the Shenzhen startup EngineAI is taking orders for its 
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 88 • 💬 15 • ⏱️ 0:59 • 5h ago
+👁️ 2K • 👍 88 • 💬 15 • ⏱️ 0:59 • 6h ago
 
 ---
 
@@ -228,7 +228,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 1K • 👍 11 • ⏱️ 0:25 • 1h ago
+👁️ 1K • 👍 11 • ⏱️ 0:25 • 2h ago
 
 ---
 
@@ -268,7 +268,7 @@ Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G
 
 📺 Unitree Robotics
 
-👁️ 1.5M • 👍 1K • 💬 300 • ⏱️ 1:06 • 3d ago
+👁️ 1.5M • 👍 1K • 💬 300 • ⏱️ 1:06 • 4d ago
 
 ---
 
