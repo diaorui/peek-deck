@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T15:13:32.282419+00:00'
+updated: '2025-12-07T15:30:43.291949+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 15:13 UTC  
+**Last Updated:** December 07, 2025 at 15:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,024.90
+### $88,842.99
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
+**24h:** -0.9%  
 **7d:** +3.2%  
-**30d:** -13.1%  
-**90d:** -20.2%  
+**30d:** -13.2%  
+**90d:** -20.3%  
 **1y:** -12.0%  
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 2d ago
 
 **[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Investor's Business Daily • 16h ago
+Investor's Business Daily • 17h ago
 
 ---
 
@@ -269,7 +269,7 @@ Track the next Bitcoin halving event with live countdown and real-time block upd
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 1 • 💬 0 • 4m ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 1 • 💬 0 • 21m ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -303,7 +303,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 2K • 💬 383 • ⏱️ 11:32 • 17h ago
+👁️ 50K • 👍 2K • 💬 383 • ⏱️ 11:32 • 18h ago
 
 ---
 

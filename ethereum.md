@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T15:13:32.293505+00:00'
+updated: '2025-12-07T15:30:43.297971+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 15:13 UTC  
+**Last Updated:** December 07, 2025 at 15:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,958.73
+### $2,965.82
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.6%  
-**7d:** +6.0%  
-**30d:** -12.7%  
-**90d:** -31.2%  
-**1y:** -25.9%  
+**24h:** -3.1%  
+**7d:** +5.5%  
+**30d:** -13.2%  
+**90d:** -31.5%  
+**1y:** -26.3%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 million from Ethereum traders in a blindingly fast fraud.
 
-🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 22h ago
+🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 23h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 2d ago
 
 Vitalik Buterin is promoting a trustless, on-chain gas futures market to give Ethereum users a way to lock in transaction costs.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 2K • 💬 383 • ⏱️ 11:32 • 17h ago
+👁️ 50K • 👍 2K • 💬 383 • ⏱️ 11:32 • 18h ago
 
 ---
 
@@ -246,7 +246,7 @@ BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 3K • 👍 221 • 💬 64 • ⏱️ 17:05 • 4h ago
+👁️ 3K • 👍 221 • 💬 64 • ⏱️ 17:05 • 5h ago
 
 ---
 
