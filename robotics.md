@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T22:42:11.232970+00:00'
+updated: '2025-12-07T22:53:06.396636+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 22:42 UTC  
+**Last Updated:** December 07, 2025 at 22:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 **[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -74,7 +74,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 I’m looking between the RealSense d455 and d435i, and the main difference I’m concerned about is the d455’s much larger blindspot. It’s “blind” below 0.6m (60cm). This is blind a pretty much arm’s length so many manipulation tasks are useless unless you hold the camera way out. The d435i by contrast is only blind under 30cm. What indoor use cases are there for the d455 in a general household setting? Despite having 2x the detecting range (6m vs 3m)of the d435i, its “farsightedness” makes it seem ineffective for most projects
 
-34m ago
+45m ago
 
 ---
 
@@ -164,7 +164,7 @@ South China Morning Post • 21h ago
 
 Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
 
-CNN • 9h ago
+CNN • 10h ago
 
 ---
 
@@ -238,7 +238,7 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
 
-👁️ 19K • 👍 244 • 💬 9 • ⏱️ 0:11 • 15h ago
+👁️ 19K • 👍 244 • 💬 9 • ⏱️ 0:11 • 16h ago
 
 ---
 
