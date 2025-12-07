@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T17:54:12.626051+00:00'
+updated: '2025-12-07T18:24:10.028041+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 17:54 UTC  
+**Last Updated:** December 07, 2025 at 18:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,801.18
+### $91,368.48
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
-**7d:** +5.6%  
-**30d:** -11.1%  
-**90d:** -18.3%  
-**1y:** -9.9%  
+**24h:** +2.4%  
+**7d:** +6.0%  
+**30d:** -10.8%  
+**90d:** -18.1%  
+**1y:** -9.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1816.22B
+**Market Cap:** $1822.35B
 Rank #1
 
 **Circulating Supply:** 19,958,906 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.8%
+-27.5%
 
 **All-Time Low:** $67.81
-+134166.3%
++134737.0%
 
 ---
 
@@ -119,15 +119,15 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 ---
 
-**[Still hodling on!!!](https://www.reddit.com/r/Bitcoin/comments/1pgct69/still_hodling_on/)**
+**[What's holding us back?](https://www.reddit.com/r/Bitcoin/comments/1pge5ht/whats_holding_us_back/)**
 
-10h ago
+9h ago
 
 ---
 
-**[What's holding us back?](https://www.reddit.com/r/Bitcoin/comments/1pge5ht/whats_holding_us_back/)**
+**[Still hodling on!!!](https://www.reddit.com/r/Bitcoin/comments/1pgct69/still_hodling_on/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -135,7 +135,7 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 Just doing my part to spread the word. If you're ever in NC and see one of these floating around, Matt was here.
 
-42m ago
+1h ago
 
 ---
 
@@ -203,7 +203,7 @@ TheStreet • 1d ago
 
 **[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Investor's Business Daily • 59m ago
+Investor's Business Daily • 1h ago
 
 ---
 
@@ -211,7 +211,7 @@ Investor's Business Daily • 59m ago
 
 It would be pretty miraculous if Strategy's stock were doing well right now.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -251,7 +251,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
-⬆️ 3 • 💬 0 • 16h ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 3 • 💬 0 • 17h ago • [GitHub](https://github.com/kladskull/xEroS)
 
 ---
 
@@ -265,7 +265,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 0 • 2h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 0 • 3h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -317,7 +317,7 @@ I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is W
 
 📺 Digital Asset News
 
-👁️ 21K • 👍 1K • 💬 129 • ⏱️ 21:52 • 23h ago
+👁️ 21K • 👍 1K • 💬 129 • ⏱️ 21:52 • 1d ago
 
 ---
 
@@ -357,7 +357,7 @@ Crypto is undergoing its biggest transformation ever — Wall Street now control
 
 📺 Redhawk Media Group
 
-👁️ 733 • 👍 3 • ⏱️ 0:42 • 3h ago
+👁️ 733 • 👍 3 • ⏱️ 0:42 • 4h ago
 
 ---
 
