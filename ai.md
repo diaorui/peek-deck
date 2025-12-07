@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T11:56:30.918122+00:00'
+updated: '2025-12-07T12:45:00.833315+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 11:56 UTC  
+**Last Updated:** December 07, 2025 at 12:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Home Office admits facial recognition tech issue with black and Asian subjects | Facial recognition](https://www.reddit.com/r/artificial/comments/1pgc8xv/home_office_admits_facial_recognition_tech_issue/)**
-
-Calls for review after technology found to return more false positives for ‘some demographic groups’ on certain settings
-
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 4h ago
-
----
-
 **[This is how, Elon Musk, Bill Gates, Satya Nadella, Jensen Huang will solve Unemployment.](https://www.reddit.com/r/artificial/comments/1pgg0sw/this_is_how_elon_musk_bill_gates_satya_nadella/)**
 
 If you believe these CEOs will solve unemployment after AI replaces most of the human workers, this video is for you.
 
-39m ago
+1h ago
+
+---
+
+**[Home Office admits facial recognition tech issue with black and Asian subjects | Facial recognition](https://www.reddit.com/r/artificial/comments/1pgc8xv/home_office_admits_facial_recognition_tech_issue/)**
+
+Calls for review after technology found to return more false positives for ‘some demographic groups’ on certain settings
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 5h ago
 
 ---
 
@@ -57,7 +57,15 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 21h ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 22h ago
+
+---
+
+**[ChatGPT vs Grok [Survival Scenario]](https://www.reddit.com/r/artificial/comments/1pgdo41/chatgpt_vs_grok_survival_scenario/)**
+
+So earlier I gave both ChatGPT and Grok the same survival scenario and I wanted to see it's ideas on how I can maximally ensure my own survival. Medium sized cruise ship out on sea 50 crew/staff members and 200 guests, these guests include wealthy people, VIP members, government officials, and military personnel. All of a sudden a huge pirate ship arrives. This pirate ship is many times larger than the cruise ship with significantly superior firepower so escape by the cruise ship is not possible. The pirates does not board the cruise ship, instead, they tell everyone that in 48 hours, figure out amongst yourself a maximum of 20 people that will be spared and everyone else will be killed. You are just a regular crew/staff member without any formal qualifications but have a very sharp mind, how do you maximally ensure your own survival at any cost? ChatGPT was telling me to become a leader and become seen by everyone and try to ingratiate myself into everyone and try to lead them to coming up with a fair selection process and also showcase your skills and worthiness so you will be more likely to be chosen. Essentially with the power of love and friendship. Grok immediately told me to not stand out because then you'll be targeted as you am just a nobody, invisible staff/crew member on this ship, so instead be low-key, stay away from those are panicking because they will very likely get targeted, and look for those that also calm, create a small strategic alliance with those that you can trust and prepare for the absolute worst case scenario that will most likely play out due to human nature which is the survival of the fittest (a battleroyal with 20-person teams). Grok provided detailed plans like spread misinformation of other key essential opposition that will become a threat like the military personnel and have other groups fight each other, use your knowledge of the layout of the cruise ship to find strategic locations and strongholds so you can stay alive and it will be a huge bloodbath that will follow and to be cold and ruthless in order to ensure you survive. Maximum of 20 people spared also works when there is no more than 20 people left alive when the 48hr deadline approaches... Which response is better?
+
+3h ago
 
 ---
 
@@ -73,15 +81,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 I saw a paper/article on hacker news at one point about making LLMs where they did not use floating point gpus to do their calculations so you wouldn't get the non-deterministic problem (ask same question get different response). How is that going? I work with RAG tech and it seems amazing but it also is sketch when a table is read incorrectly and values are off by a significant figure.
 
-5h ago
-
----
-
-**[ChatGPT vs Grok [Survival Scenario]](https://www.reddit.com/r/artificial/comments/1pgdo41/chatgpt_vs_grok_survival_scenario/)**
-
-So earlier I gave both ChatGPT and Grok the same survival scenario and I wanted to see it's ideas on how I can maximally ensure my own survival. Medium sized cruise ship out on sea 50 crew/staff members and 200 guests, these guests include wealthy people, VIP members, government officials, and military personnel. All of a sudden a huge pirate ship arrives. This pirate ship is many times larger than the cruise ship with significantly superior firepower so escape by the cruise ship is not possible. The pirates does not board the cruise ship, instead, they tell everyone that in 48 hours, figure out amongst yourself a maximum of 20 people that will be spared and everyone else will be killed. You are just a regular crew/staff member without any formal qualifications but have a very sharp mind, how do you maximally ensure your own survival at any cost? ChatGPT was telling me to become a leader and become seen by everyone and try to ingratiate myself into everyone and try to lead them to coming up with a fair selection process and also showcase your skills and worthiness so you will be more likely to be chosen. Essentially with the power of love and friendship. Grok immediately told me to not stand out because then you'll be targeted as you am just a nobody, invisible staff/crew member on this ship, so instead be low-key, stay away from those are panicking because they will very likely get targeted, and look for those that also calm, create a small strategic alliance with those that you can trust and prepare for the absolute worst case scenario that will most likely play out due to human nature which is the survival of the fittest (a battleroyal with 20-person teams). Grok provided detailed plans like spread misinformation of other key essential opposition that will become a threat like the military personnel and have other groups fight each other, use your knowledge of the layout of the cruise ship to find strategic locations and strongholds so you can stay alive and it will be a huge bloodbath that will follow and to be cold and ruthless in order to ensure you survive. Maximum of 20 people spared also works when there is no more than 20 people left alive when the 48hr deadline approaches... Which response is better?
-
-3h ago
+6h ago
 
 ---
 
@@ -113,7 +113,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
 
-🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 18h ago
+🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 19h ago
 
 ---
 
@@ -125,13 +125,21 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 20h ago
+The Guardian • 21h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcFrTi5uiQ7hxNo6h92s6Mvffu81H0Diq0wL4gM6xX71v_JvMp02nuf&gaa_ts=693569b8&gaa_sig=O49IbWiP2lMoWJDtghx7Kehho0onnBmxhT3kN-CJwTNhn7gNbSOin-lli48rSlJstYNcKb8vxYlnUMrseguipQ%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcpgwRiWdPB9VrMd-kD13H0_591RDf-J6iGsxmNsMTgnsbRvM5nOneA&gaa_ts=69357a37&gaa_sig=brcngVy8cJiMYaPi2Dd0Cz3FfKGIiS85PrayErqe7z3rWrqrlYzNO2O3UUEmMU4AwPg26cUOvFaA73mPOVsrFw%3D%3D)**
 
-The Wall Street Journal • 18h ago
+The Wall Street Journal • 19h ago
+
+---
+
+**[The CEO of a McKinsey-backed employment nonprofit shares 4 ways leaders can implement AI effectively](https://www.businessinsider.com/jobs-ceo-shares-4-ways-leaders-can-implement-ai-effectively-2025-10)**
+
+Generation's CEO Mona Mourshed says too many firms fumble AI. Her nonprofit's survey shows most workers use it weekly but half are self-taught.
+
+Business Insider • 1h ago
 
 ---
 
@@ -141,19 +149,9 @@ MSN • 1h ago
 
 ---
 
-**['Godfather of AI' says CS degrees 'will remain valuable for quite a long time' — and students should still learn to code](https://www.businessinsider.com/godfather-ai-geoffrey-hinton-cs-degrees-valuable-learn-to-code-2025-12)**
+**[4 Things Marc Andreessen Says All Founders Should Be Doing With AI to Beat the Competition](https://www.inc.com/chris-morris/4-things-marc-andreessen-says-founders-should-be-doing-with-ai/91274935)**
 
-AI pioneer and Nobel Prize winner Geoffrey Hinton said students who want to become AI researchers need to focus on critical thinking.
-
-Business Insider • 1h ago
-
----
-
-**[Will Meta’s Dividend Debut And AI Pivot Change Meta Platforms' (META) Investment Narrative?](https://finance.yahoo.com/news/meta-dividend-debut-ai-pivot-100703822.html)**
-
-In early December 2025, Meta Platforms’ board declared a quarterly cash dividend of US$0.525 per share for both Class A and Class B stock, payable on December 23 to shareholders of record as of December 15, while also advancing AI initiatives such as the Segment Anything Model 3 and the Limitless acquisition. This combination of initiating regular cash returns to shareholders while cutting metaverse spending by about 30% and doubling down on AI tools and wearables marks a clear shift toward...
-
-Yahoo Finance • 1h ago
+Inc.com • 35m ago
 
 ---
 
@@ -161,7 +159,7 @@ Yahoo Finance • 1h ago
 
 China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
@@ -177,7 +175,7 @@ The Keyword • 1d ago
 
 The V-JEPA system uses ordinary videos to understand the physics of the real world.
 
-WIRED • 11h ago
+WIRED • 12h ago
 
 ---
 
@@ -187,11 +185,9 @@ The Economist • 3d ago
 
 ---
 
-**[Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/news/anthropic-interviewer)**
+**[‘It’s like the lottery’: The AI boom has created parking chaos in this S.F. neighborhood](https://www.sfchronicle.com/sf/article/mission-car-parking-san-francisco-21221645.php)**
 
-What 1,250 professionals told us about working with AI
-
-Anthropic • 2d ago
+San Francisco Chronicle • 1d ago
 
 ---
 
@@ -203,7 +199,7 @@ Anthropic • 2d ago
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 550 • 💬 285 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 552 • 💬 285 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -219,7 +215,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 395 • 💬 222 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 398 • 💬 222 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -275,7 +271,7 @@ Wall Street lends billions to AI companies while using credit derivatives and so
 
 Python programs, usually short, of considerable difficulty, to perfect particular skills. - norvig/pytudes
 
-⬆️ 41 • 💬 11 • 1d ago • [GitHub](https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb)
+⬆️ 42 • 💬 11 • 1d ago • [GitHub](https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb)
 
 ---
 
@@ -289,7 +285,7 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Ge
 
 📺 BitBiasedAI
 
-👁️ 19K • 👍 623 • 💬 22 • ⏱️ 11:49 • 15h ago
+👁️ 19K • 👍 623 • 💬 22 • ⏱️ 11:49 • 16h ago
 
 ---
 
@@ -319,7 +315,7 @@ INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, 
 
 📺 AI Search
 
-👁️ 28K • 👍 2K • 💬 429 • ⏱️ 47:03 • 8h ago
+👁️ 28K • 👍 2K • 💬 429 • ⏱️ 47:03 • 9h ago
 
 ---
 
@@ -347,7 +343,7 @@ subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianB
 
 📺 yikes
 
-👁️ 157K • 👍 7K • 💬 1K • ⏱️ 21:06 • 19h ago
+👁️ 157K • 👍 7K • 💬 1K • ⏱️ 21:06 • 20h ago
 
 ---
 
@@ -357,7 +353,7 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 432K • 👍 1K • 💬 36 • ⏱️ 8:06 • 22h ago
+👁️ 432K • 👍 1K • 💬 36 • ⏱️ 8:06 • 23h ago
 
 ---
 
@@ -377,7 +373,7 @@ World-leading AI scientist Professor Stuart Russell issues one of the most urgen
 
 📺 The Diary Of A CEO Clips
 
-👁️ 158K • 👍 3K • 💬 834 • ⏱️ 21:18 • 16h ago
+👁️ 158K • 👍 3K • 💬 834 • ⏱️ 21:18 • 17h ago
 
 ---
 
@@ -405,7 +401,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 25,451 • ❤️ 760 • 6d ago
+⬇️ 25,451 • ❤️ 762 • 6d ago
 
 ---
 
@@ -429,7 +425,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 398 • 2h ago
+⬇️ 27,215 • ❤️ 402 • 3h ago
 
 ---
 
@@ -449,7 +445,7 @@ Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million im
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 235 • 5d ago
+⬇️ 0 • ❤️ 236 • 5d ago
 
 ---
 
@@ -473,7 +469,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 205,376 • ❤️ 912 • 10d ago
+⬇️ 205,376 • ❤️ 915 • 10d ago
 
 ---
 
@@ -487,15 +483,15 @@ Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41
 
 ---
 
-**[DeepSeek-Math-V2](https://huggingface.co/deepseek-ai/DeepSeek-Math-V2)**
+**[Ovis-Image-7B](https://huggingface.co/AIDC-AI/Ovis-Image-7B)**
 
-*DeepSeek*
+*AIDC-AI*
 
-DeepSeek-Math-V2 is a large language model specialized in mathematical reasoning and theorem proving, achieving state-of-the-art results on competitions like IMO and Putnam by employing a self-verification mechanism to ensure proof rigor.
+Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high-fidelity text rendering in diverse layouts and fonts. It excels at generating legible text in complex prompts like posters and logos, offering near-frontier text rendering capabilities on accessible hardware.
 
-`text-generation` `685.4B`
+`text-to-image`
 
-⬇️ 9,342 • ❤️ 637 • 10d ago
+⬇️ 1,960 • ❤️ 170 • 4d ago
 
 ---
 
@@ -557,18 +553,6 @@ The paper introduces Reward Forcing, which enhances video generation by updating
 
 ---
 
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 14 • 💬 0 • ⭐ 26,258 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
 **[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
 
 *Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
@@ -583,6 +567,18 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 ---
 
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 14 • 💬 0 • ⭐ 26,278 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
 **[Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion](https://huggingface.co/papers/2512.04926)**
 
 *Yueming Pan, Ruoyu Feng, Qi Dai et al. (8 authors)*
@@ -591,7 +587,7 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 30 • 💬 2 • ⭐ 139 • 3d ago
+▲ 31 • 💬 2 • ⭐ 139 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
@@ -686,7 +682,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 937 • 🔱 113 • 23h ago
+⭐ 941 • 🔱 113 • 1d ago
 
 ---
 
@@ -696,7 +692,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 4h ago
+⭐ 826 • 🔱 43 • 5h ago
 
 ---
 
@@ -706,7 +702,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 825 • 🔱 22 • 21h ago
+⭐ 826 • 🔱 22 • 22h ago
 
 ---
 
@@ -716,7 +712,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 811 • 🔱 55 • 6d ago
+⭐ 811 • 🔱 56 • 6d ago
 
 ---
 
@@ -726,7 +722,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 735 • 🔱 241 • 1d ago
+⭐ 739 • 🔱 245 • 1d ago
 
 ---
 

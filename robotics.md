@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T11:56:30.935842+00:00'
+updated: '2025-12-07T12:45:00.851049+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 11:56 UTC  
+**Last Updated:** December 07, 2025 at 12:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-48m ago
+1h ago
 
 ---
 
@@ -52,7 +52,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/yourusername/BipedalWalker-PPO-STM32 Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
 
-4h ago
+5h ago
 
 ---
 
@@ -60,7 +60,7 @@ I wanted to see how far we can push low-power hardware, so I trained a PPO model
 
 Zhongqing CEO Receives the Challenge of T800
 
-23h ago
+1d ago
 
 ---
 
@@ -68,13 +68,19 @@ Zhongqing CEO Receives the Challenge of T800
 
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
 
-16h ago
+17h ago
+
+---
+
+**[China's G1 humanoid robot is mastering combat skills at a terrifying rate](https://www.reddit.com/r/robotics/comments/1pghcyh/chinas_g1_humanoid_robot_is_mastering_combat/)**
+
+8m ago
 
 ---
 
 **[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -88,7 +94,7 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
-16h ago
+17h ago
 
 ---
 
@@ -97,12 +103,6 @@ https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 Conferencia realizada en la Sorbonne Paris, viernes 05 de diciembre. Se trató sobre los proyectos de Hobbie y concurso hasta la industria, proyectos de grande escala, también se tocó el tema del futuro, hasta donde iremos? La estética en la robótica y la ética en la robótica, de una manera genérica se todo también la tecnología en sí. Muchas gracias a Jorge Linares por la invitación. Jorge Abraham Salgado
 
 5h ago
-
----
-
-**[Robot dance Arduino](https://www.reddit.com/r/robotics/comments/1pfijsr/robot_dance_arduino/)**
-
-1d ago
 
 ---
 
@@ -146,7 +146,7 @@ Seeking Alpha • 2d ago
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-South China Morning Post • 10h ago
+South China Morning Post • 11h ago
 
 ---
 
@@ -180,11 +180,11 @@ KTVB • 1d ago
 
 ---
 
-**[Hyundai’s ‘mobile eccentric droid’ could be about to deliver your goods](https://www.wallpaper.com/tech/hyundai-mobile-eccentric-droid)**
+**[China deploys traffic robot to direct vehicles, pedestrians in streets](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-traffic-robot)**
 
-The MobED is a new product from Hyundai’s Robotics LAB, pitched at last-mile delivery and industrial applications
+China debuts AI traffic robot Hangxing No. 1, directing vehicles, spotting violations, and issuing polite voice warnings at busy intersections.
 
-wallpaper.com • 56m ago
+Interesting Engineering • 18h ago
 
 ---
 
@@ -198,7 +198,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 24K • 👍 853 • 💬 68 • ⏱️ 24:47 • 19h ago
+👁️ 24K • 👍 853 • 💬 68 • ⏱️ 24:47 • 20h ago
 
 ---
 
@@ -208,7 +208,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 26K • 👍 201 • 💬 51 • ⏱️ 1:03 • 19h ago
+👁️ 26K • 👍 201 • 💬 51 • ⏱️ 1:03 • 20h ago
 
 ---
 
@@ -218,7 +218,7 @@ After months of buildup, the Shenzhen startup EngineAI is taking orders for its 
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 88 • 💬 15 • ⏱️ 0:59 • 6h ago
+👁️ 2K • 👍 88 • 💬 15 • ⏱️ 0:59 • 7h ago
 
 ---
 
@@ -228,7 +228,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 1K • 👍 11 • ⏱️ 0:25 • 2h ago
+👁️ 1K • 👍 11 • ⏱️ 0:25 • 3h ago
 
 ---
 
@@ -258,7 +258,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 68K • 👍 4K • 💬 483 • ⏱️ 19:33 • 20h ago
+👁️ 68K • 👍 4K • 💬 483 • ⏱️ 19:33 • 21h ago
 
 ---
 
@@ -286,7 +286,7 @@ Dad Cat surprises his little kitten with something truly unbelievable — a futu
 
 📺 AiMagic Fx
 
-👁️ 505 • 💬 1 • ⏱️ 0:58 • 3h ago
+👁️ 505 • 💬 1 • ⏱️ 0:58 • 4h ago
 
 ---
 
