@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T09:54:33.910508+00:00'
+updated: '2025-12-07T10:18:26.377418+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 09:54 UTC  
+**Last Updated:** December 07, 2025 at 10:18 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
-22h ago
+23h ago
 
 ---
 
@@ -44,7 +44,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/yourusername/BipedalWalker-PPO-STM32 Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
 
-2h ago
+3h ago
 
 ---
 
@@ -52,7 +52,7 @@ I wanted to see how far we can push low-power hardware, so I trained a PPO model
 
 Zhongqing CEO Receives the Challenge of T800
 
-21h ago
+22h ago
 
 ---
 
@@ -60,13 +60,13 @@ Zhongqing CEO Receives the Challenge of T800
 
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
 
-14h ago
+15h ago
 
 ---
 
 **[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -102,7 +102,7 @@ Conferencia realizada en la Sorbonne Paris, viernes 05 de diciembre. Se trató s
 
 Meet Octoid, the squishy robot that changes from blue to green to red.
 
-🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 17h ago
+🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 18h ago
 
 ---
 
@@ -138,7 +138,7 @@ MIT News • 1d ago
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-South China Morning Post • 8h ago
+South China Morning Post • 9h ago
 
 ---
 
@@ -146,7 +146,7 @@ South China Morning Post • 8h ago
 
 Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
 
-Seeking Alpha • 1d ago
+Seeking Alpha • 2d ago
 
 ---
 
@@ -198,7 +198,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 22K • 👍 829 • 💬 65 • ⏱️ 24:47 • 17h ago
+👁️ 22K • 👍 829 • 💬 65 • ⏱️ 24:47 • 18h ago
 
 ---
 
@@ -208,7 +208,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 21K • 👍 184 • 💬 47 • ⏱️ 1:03 • 17h ago
+👁️ 21K • 👍 184 • 💬 47 • ⏱️ 1:03 • 18h ago
 
 ---
 
@@ -248,7 +248,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 66K • 👍 4K • 💬 467 • ⏱️ 19:33 • 18h ago
+👁️ 66K • 👍 4K • 💬 467 • ⏱️ 19:33 • 19h ago
 
 ---
 

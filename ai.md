@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T09:54:33.892843+00:00'
+updated: '2025-12-07T10:18:26.359859+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 09:54 UTC  
+**Last Updated:** December 07, 2025 at 10:18 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Calls for review after technology found to return more false positives for ‘some demographic groups’ on certain settings
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 2h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 3h ago
 
 ---
 
@@ -50,12 +50,6 @@ Calls for review after technology found to return more false positives for ‘so
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
 🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 19h ago
-
----
-
-**[Hello again...GRADIUS](https://www.reddit.com/r/artificial/comments/1pg3kjh/hello_againgradius/)**
-
-10h ago
 
 ---
 
@@ -71,7 +65,7 @@ So earlier I gave both ChatGPT and Grok the same survival scenario and I wanted 
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 23h ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 1d ago
 
 ---
 
@@ -115,6 +109,14 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 ---
 
+**[As of now, which model is best for each of these roles in a process chain](https://www.reddit.com/r/artificial/comments/1pg39f6/as_of_now_which_model_is_best_for_each_of_these/)**
+
+1) Strategist 2) Researcher 3) Coder 4) Analyst 5) Critic 6) Fixer 7) Teacher-Documenter 8) Final output Assembler/Presenter
+
+10h ago
+
+---
+
 ---
 
 ## Google News: "ai"
@@ -123,13 +125,21 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcqawB49FEiIB1SqqRZGOLXsTSdmHSCZSXKsS36h2oto4NeKpvCS0oX&gaa_ts=69354fb5&gaa_sig=AMKO1sXRCueBIODU2dPdAxVNYCcVD3HtRBFRa9ZxTgdiliBcHWsfUH3gKn3wG46Z5NWO2yLa4RFwUkBtWekw8w%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqf1rFY6gMP0q9dAex0ExPBE5LZDe9DFWKgCi2vBJf8ps_BQ_ZNSqDO6&gaa_ts=693557e1&gaa_sig=WektnwqcYIGWPdJNjRPZZeRqWmIvM-8waiFfEwHfc_mPveMEMDcc0c3qXULOqany2zIMfaAsfJms677Y2dfPTA%3D%3D)**
 
-The Wall Street Journal • 16h ago
+The Wall Street Journal • 17h ago
+
+---
+
+**['Godfather of AI' says CS degrees 'will remain valuable for quite a long time' — and students should still learn to code](https://www.businessinsider.com/godfather-ai-geoffrey-hinton-cs-degrees-valuable-learn-to-code-2025-12)**
+
+AI pioneer and Nobel Prize winner Geoffrey Hinton said students who want to become AI researchers need to focus on critical thinking.
+
+Business Insider • 18m ago
 
 ---
 
@@ -138,13 +148,13 @@ The Wall Street Journal • 16h ago
 The five jittery clowns marched down the middle of a dark city street, flanked by passersby and the blurred glow of storefront lamps. 
 As their wild...
 
-Pittsburgh Post-Gazette • 54m ago
+Pittsburgh Post-Gazette • 1h ago
 
 ---
 
 **[How I Learned to Stop Worrying and Love the Bubble](https://www.bloomberg.com/news/newsletters/2025-12-07/don-t-worry-too-much-about-an-ai-bubble)**
 
-Bloomberg.com • 54m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -152,7 +162,7 @@ Bloomberg.com • 54m ago
 
 China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -160,7 +170,15 @@ Fortune • 15h ago
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-ABC News • 23h ago
+ABC News • 1d ago
+
+---
+
+**[This AI Model Can Intuit How the Physical World Works](https://www.wired.com/story/how-one-ai-model-creates-a-physical-intuition-of-its-environment/)**
+
+The V-JEPA system uses ordinary videos to understand the physics of the real world.
+
+WIRED • 10h ago
 
 ---
 
@@ -178,22 +196,6 @@ The Economist • 2d ago
 
 ---
 
-**[This AI Model Can Intuit How the Physical World Works](https://www.wired.com/story/how-one-ai-model-creates-a-physical-intuition-of-its-environment/)**
-
-The V-JEPA system uses ordinary videos to understand the physics of the real world.
-
-WIRED • 9h ago
-
----
-
-**[Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/news/anthropic-interviewer)**
-
-What 1,250 professionals told us about working with AI
-
-Anthropic • 2d ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -202,7 +204,7 @@ Anthropic • 2d ago
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 548 • 💬 284 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 548 • 💬 285 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -218,7 +220,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 393 • 💬 220 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 394 • 💬 220 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -308,7 +310,7 @@ subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianB
 
 📺 yikes
 
-👁️ 143K • 👍 7K • 💬 993 • ⏱️ 21:06 • 17h ago
+👁️ 143K • 👍 7K • 💬 993 • ⏱️ 21:06 • 18h ago
 
 ---
 
@@ -376,7 +378,7 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 357K • 👍 1K • 💬 32 • ⏱️ 8:06 • 20h ago
+👁️ 357K • 👍 1K • 💬 32 • ⏱️ 8:06 • 21h ago
 
 ---
 
@@ -392,7 +394,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 186,951 • ❤️ 2,217 • 4d ago
+⬇️ 186,951 • ❤️ 2,222 • 4d ago
 
 ---
 
@@ -404,7 +406,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 25,451 • ❤️ 757 • 5d ago
+⬇️ 25,451 • ❤️ 759 • 5d ago
 
 ---
 
@@ -416,7 +418,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 6,281 • ❤️ 526 • 5d ago
+⬇️ 6,281 • ❤️ 527 • 5d ago
 
 ---
 
@@ -428,7 +430,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 389 • 38m ago
+⬇️ 27,215 • ❤️ 390 • 1h ago
 
 ---
 
@@ -438,7 +440,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 258 • 5d ago
+⬇️ 0 • ❤️ 259 • 5d ago
 
 ---
 
@@ -460,7 +462,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,828 • ❤️ 353 • 5d ago
+⬇️ 2,828 • ❤️ 354 • 5d ago
 
 ---
 
@@ -582,18 +584,6 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 ---
 
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 22 • 💬 0 • ⭐ 25,469 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
-
----
-
 **[Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion](https://huggingface.co/papers/2512.04926)**
 
 *Yueming Pan, Ruoyu Feng, Qi Dai et al. (8 authors)*
@@ -605,6 +595,18 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 ▲ 30 • 💬 2 • ⭐ 139 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
+
+---
+
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 22 • 💬 0 • ⭐ 25,484 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -644,7 +646,7 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.3k • 🔱 413 • 2d ago
+⭐ 5.3k • 🔱 414 • 2d ago
 
 ---
 
@@ -654,7 +656,7 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.5k • 🔱 127 • 2d ago
+⭐ 1.5k • 🔱 127 • 3d ago
 
 ---
 
@@ -684,7 +686,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 931 • 🔱 113 • 21h ago
+⭐ 935 • 🔱 113 • 21h ago
 
 ---
 
@@ -694,7 +696,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 2h ago
+⭐ 826 • 🔱 43 • 3h ago
 
 ---
 
@@ -704,7 +706,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 824 • 🔱 22 • 19h ago
+⭐ 825 • 🔱 22 • 20h ago
 
 ---
 
@@ -724,7 +726,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 724 • 🔱 239 • 1d ago
+⭐ 733 • 🔱 240 • 1d ago
 
 ---
 
@@ -734,7 +736,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 516 • 🔱 42 • 4d ago
+⭐ 517 • 🔱 42 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T09:54:33.901266+00:00'
+updated: '2025-12-07T10:18:26.368187+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 09:54 UTC  
+**Last Updated:** December 07, 2025 at 10:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,334.57
+### $89,286.28
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.4%  
-**7d:** +3.3%  
-**30d:** -13.0%  
-**90d:** -20.1%  
-**1y:** -11.9%  
+**7d:** +3.6%  
+**30d:** -12.8%  
+**90d:** -19.9%  
+**1y:** -11.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1781.30B
+**Market Cap:** $1779.08B
 Rank #1
 
 **Circulating Supply:** 19,958,665 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.2%
 
 **All-Time Low:** $67.81
-+131460.2%
++131520.7%
 
 ---
 
@@ -115,9 +115,17 @@ Burnsish?
 
 ---
 
+**[MasterCard is Orange Pilled for 1 Billion Users](https://www.reddit.com/r/Bitcoin/comments/1pgenos/mastercard_is_orange_pilled_for_1_billion_users/)**
+
+1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
+
+27m ago
+
+---
+
 **[This is just Me and I know](https://www.reddit.com/r/Bitcoin/comments/1pgd3wt/this_is_just_me_and_i_know/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -125,17 +133,11 @@ Burnsish?
 
 it's not mine. Credits for him. "24-05-2025 - Btc Pump It Up - Have You Ever Seen Bitcoin Like This"
 
-9h ago
+10h ago
 
 ---
 
-**[13 years ago Bitcoin was $13.36 and we were still playing PS2 💔](https://www.reddit.com/r/Bitcoin/comments/1pfp765/13_years_ago_bitcoin_was_1336_and_we_were_still/)**
-
-20h ago
-
----
-
-**[Everyone knows this is a Major Correction, No cause for Alarm](https://www.reddit.com/r/Bitcoin/comments/1pgc6zr/everyone_knows_this_is_a_major_correction_no/)**
+**[Still hodling on!!!](https://www.reddit.com/r/Bitcoin/comments/1pgct69/still_hodling_on/)**
 
 2h ago
 
@@ -169,14 +171,6 @@ Yahoo Finance • 4h ago
 
 ---
 
-**[Is American Bitcoin Attractively Priced After a 65% Drop Amid Crypto Volatility?](https://finance.yahoo.com/news/american-bitcoin-attractively-priced-65-050556502.html)**
-
-Wondering if American Bitcoin at around $2.23 is a bargain or a value trap? You are not alone. This article is here to unpack what the market is really pricing in. Despite all the hype around crypto infrastructure, the stock has been hammered recently, dropping about 47.4% over the last week, 51.9% over the last month, and 65.2% year to date. This has clearly reset expectations and risk appetite. Those sharp moves have come alongside broader volatility in Bitcoin related names, shifting...
-
-Yahoo Finance • 4h ago
-
----
-
 **[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
 The Economist • 2d ago
@@ -187,7 +181,7 @@ The Economist • 2d ago
 
 It would be pretty miraculous if Strategy's stock were doing well right now.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -213,9 +207,19 @@ TheStreet • 1d ago
 
 ---
 
-**[Ripple CEO makes bold new Bitcoin prediction](https://www.thestreet.com/crypto/trading/ripple-ceo-predicts-bitcoin-to-hit-180k)**
+**[Prediction: Bitcoin Will Hit $130,000 in 2026](https://www.nasdaq.com/articles/prediction-bitcoin-will-hit-130000-2026)**
 
-TheStreet • 1d ago
+Key PointsBitcoin's prior all-time high was more than $126,000.
+
+Nasdaq • 5h ago
+
+---
+
+**[Coinbase Makes Bold Bitcoin Prediction For December Despite Market Downturn](https://finance.yahoo.com/news/coinbase-makes-bold-bitcoin-prediction-113224239.html)**
+
+Coinbase says the crypto market is entering a December recovery phase as liquidity improves and macro conditions turn more supportive.
+
+Yahoo Finance • 22h ago
 
 ---
 
@@ -241,7 +245,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 **[Bitcoin's Sky-High Prices Have Not Panned Out](https://news.ycombinator.com/item?id=46132636)**
 
-⬆️ 3 • 💬 2 • 3d ago • [nytimes.com](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)
+⬆️ 3 • 💬 2 • 4d ago • [nytimes.com](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)
 
 ---
 
@@ -249,7 +253,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
-⬆️ 3 • 💬 0 • 8h ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 3 • 💬 0 • 9h ago • [GitHub](https://github.com/kladskull/xEroS)
 
 ---
 
@@ -309,7 +313,7 @@ I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is W
 
 📺 Digital Asset News
 
-👁️ 17K • 👍 1K • 💬 117 • ⏱️ 21:52 • 15h ago
+👁️ 17K • 👍 1K • 💬 117 • ⏱️ 21:52 • 16h ago
 
 ---
 
@@ -339,7 +343,7 @@ Bitcoin volatility is collapsing, institutions are flooding in, and the entire m
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 726 • 💬 156 • ⏱️ 40:36 • 16h ago
+👁️ 17K • 👍 726 • 💬 156 • ⏱️ 40:36 • 17h ago
 
 ---
 
@@ -349,7 +353,7 @@ Tangem ▻ Black Friday Deals!!* Special Discount: *30% Off + $10 in FREE BTC!* 
 
 📺 Crypto Casey
 
-👁️ 39K • 👍 3K • 💬 374 • ⏱️ 12:50 • 20h ago
+👁️ 39K • 👍 3K • 💬 374 • ⏱️ 12:50 • 21h ago
 
 ---
 
