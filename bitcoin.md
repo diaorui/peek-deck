@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T23:31:22.436263+00:00'
+updated: '2025-12-07T23:43:45.824490+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 23:31 UTC  
+**Last Updated:** December 07, 2025 at 23:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,716.77
+### $89,990.78
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** +4.0%  
-**30d:** -12.5%  
-**90d:** -19.6%  
-**1y:** -11.3%  
+**24h:** +0.6%  
+**7d:** +4.2%  
+**30d:** -12.3%  
+**90d:** -19.5%  
+**1y:** -11.2%  
 
 ---
 
@@ -121,7 +121,7 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 **[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -143,7 +143,7 @@ Some people on TV or online act like inflation is “not that bad” or even pre
 
 Two early-era Bitcoin wallets, each holding ~1,000 BTC moved after 13+ years of complete inactivity. Most people interpret this as risk. It isn’t. Dormant coins don’t move because of fear or speculation. They move because wealth has crossed into structure: – key modernization – inheritance and legal clarity – custody transformation – multi-party continuity No exchange inflow, no forced selling, no market reaction. Price didn’t move…not because it’s irrelevant, but because the system is now deep enough to absorb it without distortion. This is how an asset crosses from narrative into adulthood. If you want to understand why this moment signals maturity rather than exit, read the full breakdown
 
-🔗 [coherenceledger.substack.com](https://coherenceledger.substack.com/p/when-2000-dormant-bitcoin-wake-up) • 5h ago
+🔗 [coherenceledger.substack.com](https://coherenceledger.substack.com/p/when-2000-dormant-bitcoin-wake-up) • 6h ago
 
 ---
 
@@ -163,7 +163,7 @@ CoinDesk • 2d ago
 
 Which of these popular cryptocurrencies has more upside potential?
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Motley Fool • 2h ago
 
 Bitcoin hovers near $91,000 as short-term holders dominate long-term holders in profits for first time in 30 months, shaping BTC’s breakout.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 

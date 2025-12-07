@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T23:31:22.427820+00:00'
+updated: '2025-12-07T23:43:45.815882+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- social
 - videos
 - news
-- social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 23:31 UTC  
+**Last Updated:** December 07, 2025 at 23:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 Just did this myself, and now sharing for others! I have ChatGPT Plus, and when I tried to cancel it offered me a free month. Worked for two of my friends as well. Steps Go to chatgpt on your web browser At the bottom left click on your name (you need to be logged in) Click on Settings Click on last section: Account Near top right click on: Manage Click on: Cancel Subscription Done!
 
-5h ago
+6h ago
 
 ---
 
@@ -147,7 +147,7 @@ Fortune • 1h ago
 
 Google DeepMind CEO Demis Hassabis says AI scaling is key to reaching AGI, a still theoretical version of AI that reasons as well as humans.
 
-Business Insider • 44m ago
+Business Insider • 56m ago
 
 ---
 
@@ -155,7 +155,7 @@ Business Insider • 44m ago
 
 Brain-computer interfaces will play a central role in defining how human intelligence and artificial intelligence fit together.
 
-Forbes • 45m ago
+Forbes • 58m ago
 
 ---
 
@@ -229,7 +229,7 @@ Welcome to the slop era.
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 87 • 💬 152 • 6h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 87 • 💬 152 • 7h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -677,7 +677,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 958 • 🔱 115 • 53m ago
+⭐ 958 • 🔱 115 • 1h ago
 
 ---
 
