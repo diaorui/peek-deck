@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T15:30:43.291949+00:00'
+updated: '2025-12-07T15:42:47.541803+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 15:30 UTC  
+**Last Updated:** December 07, 2025 at 15:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,8 +46,8 @@ Live Bitcoin monitoring dashboard
 
 **24h:** -0.9%  
 **7d:** +3.2%  
-**30d:** -13.2%  
-**90d:** -20.3%  
+**30d:** -13.1%  
+**90d:** -20.2%  
 **1y:** -12.0%  
 
 ---
@@ -99,7 +99,7 @@ Rank #1
 
 **[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -119,7 +119,7 @@ Burnsish?
 
 **[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -269,7 +269,7 @@ Track the next Bitcoin halving event with live countdown and real-time block upd
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 1 • 💬 0 • 21m ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 1 • 💬 0 • 34m ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -303,17 +303,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 2K • 💬 383 • ⏱️ 11:32 • 18h ago
-
----
-
-**[bitcoin is about to change forever (and nobody even realises)](https://www.youtube.com/watch?v=fE1XaJjBwkg)**
-
-bitcoin is having some massive changes and I see nobody talking about them. future is bright fam Check out Casa's free guide on ...
-
-📺 BTC Isla
-
-👁️ 42K • 👍 3K • 💬 430 • ⏱️ 10:23 • 1d ago
+👁️ 53K • 👍 2K • 💬 390 • ⏱️ 11:32 • 18h ago
 
 ---
 
@@ -323,27 +313,17 @@ I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is W
 
 📺 Digital Asset News
 
-👁️ 19K • 👍 1K • 💬 129 • ⏱️ 21:52 • 21h ago
+👁️ 20K • 👍 1K • 💬 133 • ⏱️ 21:52 • 21h ago
 
 ---
 
-**[Samson Mow: The TRUTH about What&#39;s Happening to Bitcoin&#39;s PRICE!](https://www.youtube.com/watch?v=LIqWS5were0)**
+**[bitcoin is about to change forever (and nobody even realises)](https://www.youtube.com/watch?v=fE1XaJjBwkg)**
 
-Bitcoin volatility is collapsing, institutions are flooding in, and the entire market structure is changing fast. Samson Mow breaks ...
+bitcoin is having some massive changes and I see nobody talking about them. future is bright fam Check out Casa's free guide on ...
 
-📺 Simply Bitcoin
+📺 BTC Isla
 
-👁️ 19K • 👍 785 • 💬 159 • ⏱️ 40:36 • 22h ago
-
----
-
-**[Bitcoin: A Different Kind of Bear Market?](https://www.youtube.com/watch?v=5txYvyuM4uE)**
-
-Is Bitcoin in a different type of bear market? Let's discuss what a bear market may look like coming from a non-euphoric top.
-
-📺 Benjamin Cowen
-
-👁️ 121K • 👍 7K • 💬 477 • ⏱️ 15:38 • 2d ago
+👁️ 42K • 👍 3K • 💬 436 • ⏱️ 10:23 • 1d ago
 
 ---
 
@@ -353,27 +333,7 @@ We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 408 • 💬 40 • ⏱️ 5:59 • 22h ago
-
----
-
-**[A Realistic Bitcoin Price Outlook For 2026](https://www.youtube.com/watch?v=4_R3VxxYq-s)**
-
-WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 PIONEX: ...
-
-📺 Crypto Kid
-
-👁️ 5K • 👍 327 • 💬 143 • ⏱️ 8:49 • 18h ago
-
----
-
-**[What Big Banks Aren&#39;t Telling You About Bitcoin](https://www.youtube.com/watch?v=LIJrvnHmxj8)**
-
-As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and the biggest banks on earth are quietly buying every major ...
-
-📺 Swan Bitcoin
-
-👁️ 80K • 👍 3K • 💬 258 • ⏱️ 18:48 • 2d ago
+👁️ 8K • 👍 414 • 💬 42 • ⏱️ 5:59 • 23h ago
 
 ---
 
@@ -383,17 +343,57 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 34K • 👍 2K • 💬 445 • ⏱️ 10:13 • 2d ago
+👁️ 35K • 👍 2K • 💬 445 • ⏱️ 10:13 • 2d ago
 
 ---
 
-**[Banks Declare WAR on Bitcoin Users ⚠️ Jack Mallers Debanked — Your Money Isn’t Safe](https://www.youtube.com/watch?v=Y2p1yq8CYik)**
+**[Samson Mow: The TRUTH about What&#39;s Happening to Bitcoin&#39;s PRICE!](https://www.youtube.com/watch?v=LIqWS5were0)**
 
-Tangem ▻ Black Friday Deals!!* Special Discount: *30% Off + $10 in FREE BTC!* ⚡   *Limited Time!* — before Dec 9 2025!
+Bitcoin volatility is collapsing, institutions are flooding in, and the entire market structure is changing fast. Samson Mow breaks ...
 
-📺 Crypto Casey
+📺 Simply Bitcoin
 
-👁️ 42K • 👍 3K • 💬 381 • ⏱️ 12:50 • 1d ago
+👁️ 20K • 👍 819 • 💬 181 • ⏱️ 40:36 • 22h ago
+
+---
+
+**[BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Sp9UCKJM-ck)**
+
+BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 287 • 💬 74 • ⏱️ 17:05 • 5h ago
+
+---
+
+**[Every Major Bank Just Pivoted to Bitcoin… They Know What’s Coming!](https://www.youtube.com/watch?v=3rSaeVkFY4Q)**
+
+Every major economy is hitting the debt wall simultaneously. A global reset is coming—fast, systemic, and total. BlackRock ...
+
+📺 Simply Bitcoin
+
+👁️ 57K • 👍 4K • 💬 303 • ⏱️ 23:27 • 2d ago
+
+---
+
+**[Bitcoin &amp; AI Just Hit A MAJOR Inflection Point](https://www.youtube.com/watch?v=FpQ7qHwOp5U)**
+
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience, and he also writes a Substack ...
+
+📺 Anthony Pompliano
+
+👁️ 53K • 👍 3K • 💬 65 • ⏱️ 48:57 • 1d ago
+
+---
+
+**[Bitcoin: A Different Kind of Bear Market?](https://www.youtube.com/watch?v=5txYvyuM4uE)**
+
+Is Bitcoin in a different type of bear market? Let's discuss what a bear market may look like coming from a non-euphoric top.
+
+📺 Benjamin Cowen
+
+👁️ 122K • 👍 7K • 💬 484 • ⏱️ 15:38 • 2d ago
 
 ---
 

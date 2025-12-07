@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T15:30:43.283548+00:00'
+updated: '2025-12-07T15:42:47.533490+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 15:30 UTC  
+**Last Updated:** December 07, 2025 at 15:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -103,7 +103,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 I saw a paper/article on hacker news at one point about making LLMs where they did not use floating point gpus to do their calculations so you wouldn't get the non-deterministic problem (ask same question get different response). How is that going? I work with RAG tech and it seems amazing but it also is sketch when a table is read incorrectly and values are off by a significant figure.
 
-8h ago
+9h ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 2h ago
 
 A number of executives are departing Apple. At least some of them are related to its AI strategy.
 
-Yahoo Finance • 29m ago
+Yahoo Finance • 41m ago
 
 ---
 
@@ -207,7 +207,7 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 435 • 💬 334 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 435 • 💬 334 • 3d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -283,37 +283,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 83K • 👍 2K • 💬 363 • ⏱️ 12:07 • 1d ago
-
----
-
-**[AI DOOMSDAY?: Joe Rogan challenges tech CEO](https://www.youtube.com/watch?v=5y5gTgEc9Vc)**
-
-Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial intelligence, including scenarios where AI resorts to ...
-
-📺 Fox News Clips
-
-👁️ 31K • 👍 523 • 💬 214 • ⏱️ 6:22 • 1d ago
-
----
-
-**[New Deepseek, new top AI video &amp; image models, Gemini 3 Deep Think, realtime TTS: AI NEWS](https://www.youtube.com/watch?v=L4nus0PWsCw)**
-
-INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, Live Avatar, Gemini 3 Deep Think, Mistral ...
-
-📺 AI Search
-
-👁️ 36K • 👍 2K • 💬 489 • ⏱️ 47:03 • 12h ago
-
----
-
-**[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
-
-Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
-
-📺 Future of Life Institute
-
-👁️ 37K • 👍 2K • 💬 640 • ⏱️ 15:40 • 3d ago
+👁️ 84K • 👍 2K • 💬 369 • ⏱️ 12:07 • 1d ago
 
 ---
 
@@ -323,7 +293,7 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Ge
 
 📺 BitBiasedAI
 
-👁️ 22K • 👍 679 • 💬 26 • ⏱️ 11:49 • 18h ago
+👁️ 24K • 👍 727 • 💬 26 • ⏱️ 11:49 • 19h ago
 
 ---
 
@@ -333,7 +303,37 @@ Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the
 
 📺 End Times Productions
 
-👁️ 123K • 👍 8K • 💬 2K • ⏱️ 34:02 • 2d ago
+👁️ 125K • 👍 8K • 💬 2K • ⏱️ 34:02 • 2d ago
+
+---
+
+**[AI DOOMSDAY?: Joe Rogan challenges tech CEO](https://www.youtube.com/watch?v=5y5gTgEc9Vc)**
+
+Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial intelligence, including scenarios where AI resorts to ...
+
+📺 Fox News Clips
+
+👁️ 32K • 👍 536 • 💬 218 • ⏱️ 6:22 • 1d ago
+
+---
+
+**[New Deepseek, new top AI video &amp; image models, Gemini 3 Deep Think, realtime TTS: AI NEWS](https://www.youtube.com/watch?v=L4nus0PWsCw)**
+
+INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, Live Avatar, Gemini 3 Deep Think, Mistral ...
+
+📺 AI Search
+
+👁️ 42K • 👍 2K • 💬 531 • ⏱️ 47:03 • 12h ago
+
+---
+
+**[AI Has ENTERED ABSOLUTE MADNESS 💀 (Funniest Sora 2 Moments Yet)](https://www.youtube.com/watch?v=27F7VlOw6e4)**
+
+Sora 2 has officially entered absolute madness — and these are the funniest moments yet This compilation showcases the ...
+
+📺 YetiAF | AI Universe
+
+👁️ 19K • 👍 509 • 💬 60 • ⏱️ 16:01 • 1d ago
 
 ---
 
@@ -343,15 +343,7 @@ subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianB
 
 📺 yikes
 
-👁️ 167K • 👍 8K • 💬 1K • ⏱️ 21:06 • 23h ago
-
----
-
-**[REAL VS A.I. COMPILATION 😂](https://www.youtube.com/watch?v=4fIDsqbkXco)**
-
-📺 Bob Reese
-
-👁️ 10.1M • 👍 316K • 💬 3K • ⏱️ 1:02 • 1d ago
+👁️ 177K • 👍 8K • 💬 1K • ⏱️ 21:06 • 23h ago
 
 ---
 
@@ -361,17 +353,27 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 523K • 👍 2K • 💬 45 • ⏱️ 8:06 • 1d ago
+👁️ 606K • 👍 2K • 💬 49 • ⏱️ 8:06 • 1d ago
 
 ---
 
-**[AI Insider WARNS: “This Ends Much Worse Than You Think”](https://www.youtube.com/watch?v=dnkRXYmmgX0)**
+**[What If AI Just Keeps Getting Smarter?](https://www.youtube.com/watch?v=XyZ83EEjXxU)**
 
-World-leading AI scientist Professor Stuart Russell issues one of the most urgent warnings ever given on this channel. After five ...
+When AI becomes millions of times smarter than humans, what role will we have left? ___ Future Business Tech explores AI, ...
 
-📺 The Diary Of A CEO Clips
+📺 Future Business Tech
 
-👁️ 166K • 👍 3K • 💬 862 • ⏱️ 21:18 • 20h ago
+👁️ 742 • 👍 92 • 💬 9 • ⏱️ 19:41 • 3h ago
+
+---
+
+**[“The Determined Black Pitbull vs The Lazy White Pitbull” #ai #god](https://www.youtube.com/watch?v=T_19Sc3roMk)**
+
+The Determined Black Pitbull vs The Lazy White Pitbull” #ai #god Channel Description: Welcome to our fun zone! ✨ Here, you'll ...
+
+📺 Indian Top AI .1
+
+👁️ 8K • ⏱️ 1:00 • 12h ago
 
 ---
 
