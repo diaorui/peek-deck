@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T18:24:10.028041+00:00'
+updated: '2025-12-07T18:46:49.014317+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 18:24 UTC  
+**Last Updated:** December 07, 2025 at 18:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.4%  
-**7d:** +6.0%  
-**30d:** -10.8%  
-**90d:** -18.1%  
-**1y:** -9.6%  
+**24h:** +2.2%  
+**7d:** +5.8%  
+**30d:** -10.9%  
+**90d:** -18.2%  
+**1y:** -9.8%  
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 **[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -101,7 +101,7 @@ Rank #1
 
 Burnsish?
 
-21h ago
+22h ago
 
 ---
 
@@ -115,7 +115,7 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 **[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -149,11 +149,11 @@ Just doing my part to spread the word. If you're ever in NC and see one of these
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price (BTC) Analysis: Crypto Winter Parallels](https://www.coindesk.com/markets/2025/12/05/bitcoin-market-echoes-early-2022-as-onchain-stress-mounts-glassnode)**
+**[Trump Administration Overlooks Bitcoin, Blockchain in National Security Strategy](https://www.coindesk.com/opinion/2025/12/07/trump-s-national-security-strategy-ignores-bitcoin-and-blockchain)**
 
-Rising bitcoin supply in loss, weakening spot demand and cautious derivatives positioning were among the issues raised by the data provider in its weekly newsletter.
+President Trump's latest national security strategy omits digital assets, focusing instead on AI, biotech, and quantum computing.
 
-CoinDesk • 2d ago
+CoinDesk • 3h ago
 
 ---
 
@@ -173,17 +173,17 @@ Decrypt • 1h ago
 
 ---
 
-**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://finance.yahoo.com/news/buy-bitcoin-dip-why-ric-165028778.html)**
-
-Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
-
-Yahoo Finance • 1h ago
-
----
-
 **[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
 The Economist • 3d ago
+
+---
+
+**[BlackRock's IBIT Bitcoin ETF Sees Record $2.7 Billion Exodus](https://finance.yahoo.com/news/blackrocks-ibit-bitcoin-etf-sees-033033975.html)**
+
+BlackRock Inc. (NYSE:BLK) is seeing persistent withdrawals from its iShares Bitcoin Trust (NASDAQ:IBIT) as investors pulled more than $2.7 billion over five consecutive weeks. Largest Outflow Stretch Since IBIT's Launch IBIT is facing its longest run ...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -207,17 +207,19 @@ Investor's Business Daily • 1h ago
 
 ---
 
-**[With Bitcoin Falling, Is Strategy Stock in Trouble?](https://finance.yahoo.com/news/bitcoin-falling-strategy-stock-trouble-210500007.html)**
+**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
 
-It would be pretty miraculous if Strategy's stock were doing well right now.
+Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
 
-Yahoo Finance • 21h ago
+Futurism • 1d ago
 
 ---
 
-**[Analyst cuts 60% price target for popular Bitcoin stock](https://www.thestreet.com/crypto/markets/analyst-cuts-60-price-target-for-popular-bitcoin-stock)**
+**[‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles](https://www.forbes.com/sites/digital-assets/2025/12/07/next-step-is-coming-sec-chair-issues-huge-crypto-prediction-as-the-bitcoin-price-struggles/)**
 
-TheStreet • 2d ago
+The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
+
+Forbes • 5h ago
 
 ---
 
@@ -307,7 +309,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 2K • 💬 395 • ⏱️ 11:32 • 20h ago
+👁️ 57K • 👍 2K • 💬 395 • ⏱️ 11:32 • 21h ago
 
 ---
 
@@ -367,7 +369,7 @@ BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 8K • 👍 333 • 💬 82 • ⏱️ 17:05 • 7h ago
+👁️ 8K • 👍 333 • 💬 82 • ⏱️ 17:05 • 8h ago
 
 ---
 

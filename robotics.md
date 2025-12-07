@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T18:24:10.037490+00:00'
+updated: '2025-12-07T18:46:49.023458+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 18:24 UTC  
+**Last Updated:** December 07, 2025 at 18:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 **[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ I wanted to see how far we can push low-power hardware, so I trained a PPO model
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I would like to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts. https://reddit.com/link/1pgp505/video/g7u0ofbvpt5g1/player
 
-12m ago
+34m ago
 
 ---
 
@@ -156,7 +156,7 @@ ETF Trends • 2d ago
 
 Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
 
-CNN • 5h ago
+CNN • 6h ago
 
 ---
 
@@ -270,7 +270,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 7K • 👍 70 • 💬 1 • ⏱️ 0:25 • 8h ago
+👁️ 7K • 👍 70 • 💬 1 • ⏱️ 0:25 • 9h ago
 
 ---
 
@@ -280,7 +280,7 @@ After months of buildup, the Shenzhen startup EngineAI is taking orders for its 
 
 📺 Kalil 4.0
 
-👁️ 4K • 👍 128 • 💬 13 • ⏱️ 0:59 • 12h ago
+👁️ 4K • 👍 128 • 💬 13 • ⏱️ 0:59 • 13h ago
 
 ---
 
