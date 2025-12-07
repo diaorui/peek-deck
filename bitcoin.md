@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T21:58:06.294158+00:00'
+updated: '2025-12-07T22:26:04.601463+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- videos
 - news
 - social
-- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 21:58 UTC  
+**Last Updated:** December 07, 2025 at 22:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,221.21
+### $89,461.56
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +4.3%  
-**30d:** -12.2%  
-**90d:** -19.3%  
-**1y:** -11.0%  
+**24h:** -0.2%  
+**7d:** +3.4%  
+**30d:** -13.0%  
+**90d:** -20.1%  
+**1y:** -11.8%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 **[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -127,7 +127,7 @@ Two early-era Bitcoin wallets, each holding ~1,000 BTC moved after 13+ years of 
 
 **[Not selling Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgtw05/not_selling_bitcoin/)**
 
-40m ago
+1h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 2d ago
 
 Which of these popular cryptocurrencies has more upside potential?
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ CNBC • 3d ago
 
 The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
 
-Forbes • 8h ago
+Forbes • 9h ago
 
 ---
 
@@ -255,7 +255,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
-⬆️ 3 • 💬 0 • 20h ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 3 • 💬 0 • 21h ago • [GitHub](https://github.com/kladskull/xEroS)
 
 ---
 
@@ -269,7 +269,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 0 • 6h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 0 • 7h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -341,7 +341,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 404 • 💬 94 • ⏱️ 10:04 • 4h ago
+👁️ 7K • 👍 404 • 💬 94 • ⏱️ 10:04 • 5h ago
 
 ---
 
@@ -381,7 +381,7 @@ Lyn Alden breaks down the strange disconnect defining this Bitcoin cycle: weak c
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 140 • 💬 34 • ⏱️ 1:11 • 8h ago
+👁️ 3K • 👍 140 • 💬 34 • ⏱️ 1:11 • 9h ago
 
 ---
 
