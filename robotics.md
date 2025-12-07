@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T16:20:50.739379+00:00'
+updated: '2025-12-07T16:42:11.157986+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 16:20 UTC  
+**Last Updated:** December 07, 2025 at 16:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,19 +46,19 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 ---
 
-**[RIVR showing how last-mile delivery of the future might look like](https://www.reddit.com/r/robotics/comments/1pfmn8a/rivr_showing_how_lastmile_delivery_of_the_future/)**
-
-Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
-
-1d ago
-
----
-
 **[Big update: Robert now supports full ChatGPT embodiment. You can switch seamlessly between manual and AI control, and I’ll be releasing the entire system as open source soon. When the coding is done, I will finish connecting the left arm, and show how he is assembled from modules.](https://www.reddit.com/r/robotics/comments/1pgkrgx/big_update_robert_now_supports_full_chatgpt/)**
 
 An old picture. The progress is in the coding, and testing, and tuning of the hardware.
 
 1h ago
+
+---
+
+**[RIVR showing how last-mile delivery of the future might look like](https://www.reddit.com/r/robotics/comments/1pfmn8a/rivr_showing_how_lastmile_delivery_of_the_future/)**
+
+Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
+
+1d ago
 
 ---
 
@@ -112,11 +112,17 @@ Conferencia realizada en la Sorbonne Paris, viernes 05 de diciembre. Se trató s
 
 ## Google News: "robotics"
 
-**[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
+**[After AI push, Trump administration is now looking to robots](https://www.politico.com/news/2025/12/03/trump-administration-ai-robotics-00674204)**
 
-Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
+Politico • 4d ago
 
-Seeking Alpha • 2d ago
+---
+
+**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://www.barchart.com/story/news/36461441/3-robotics-stocks-to-buy-now-ahead-of-a-white-house-game-changer)**
+
+The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
+
+Barchart.com • 2d ago
 
 ---
 
@@ -134,19 +140,19 @@ ETF Trends • 2d ago
 
 ---
 
-**[Using the Power of Robotics to uncover the secrets of Pompeii](https://www.cnn.com/2025/12/07/world/video/pompeii-robot-fresco-kinkade-pkg-120712aseg2-cnni-world-fast)**
-
-Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
-
-CNN • 3h ago
-
----
-
 **[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
 South China Morning Post • 15h ago
+
+---
+
+**[Using the Power of Robotics to uncover the secrets of Pompeii](https://www.cnn.com/2025/12/07/world/video/pompeii-robot-fresco-kinkade-pkg-120712aseg2-cnni-world-fast)**
+
+Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
+
+CNN • 3h ago
 
 ---
 
@@ -180,14 +186,6 @@ KTVB • 1d ago
 
 ---
 
-**[AI baby monitors are rising but experts warn about overreliance](https://interestingengineering.com/ai-robotics/ai-baby-monitor-parenting)**
-
-As smart baby devices expand rapidly, researchers highlight the benefits of AI monitoring while noting the limits of current systems.
-
-Interesting Engineering • 4h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -208,7 +206,7 @@ After months of buildup, the Shenzhen startup EngineAI is taking orders for its 
 
 📺 Kalil 4.0
 
-👁️ 4K • 👍 118 • 💬 13 • ⏱️ 0:59 • 10h ago
+👁️ 4K • 👍 118 • 💬 13 • ⏱️ 0:59 • 11h ago
 
 ---
 
@@ -218,7 +216,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 5K • 👍 41 • ⏱️ 0:25 • 6h ago
+👁️ 5K • 👍 41 • ⏱️ 0:25 • 7h ago
 
 ---
 

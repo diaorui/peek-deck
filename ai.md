@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T16:20:50.721593+00:00'
+updated: '2025-12-07T16:42:11.140374+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - social
-- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 16:20 UTC  
+**Last Updated:** December 07, 2025 at 16:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,17 +37,25 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
-
-🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 1h ago
-
----
-
 **[This is how, Elon Musk, Bill Gates, Satya Nadella, Jensen Huang will solve Unemployment.](https://www.reddit.com/r/artificial/comments/1pgg0sw/this_is_how_elon_musk_bill_gates_satya_nadella/)**
 
 If you believe these CEOs will solve unemployment after AI replaces most of the human workers, this video is for you.
 
 5h ago
+
+---
+
+**[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
+
+🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 2h ago
+
+---
+
+**[AI Just Simulated Human Cells](https://www.reddit.com/r/artificial/comments/1pgmegp/ai_just_simulated_human_cells/)**
+
+Could AI help us create virtual human cells? 🦠 Scientists are training AI to create virtual human cells, digital models that mimic how real cells behave. These simulations can predict how a cell might respond to medication, genetic mutations, or physical damage. While live lab tests are still essential, AI-powered models could make research faster, safer, and more personalized. By reducing trial-and-error in early stages, these tools could unlock faster drug discovery and bring us closer to tailored treatments for individuals.
+
+19m ago
 
 ---
 
@@ -67,12 +75,6 @@ Calls for review after technology found to return more false positives for ‘so
 
 ---
 
-**[ChatGPT is no longer swarming with fast-burning shells and Grok is focused on what is in the works.](https://www.reddit.com/r/artificial/comments/1pgkuol/chatgpt_is_no_longer_swarming_with_fastburning/)**
-
-1h ago
-
----
-
 **[AI deepfakes of real doctors spreading health misinformation on social media | Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects](https://www.reddit.com/r/artificial/comments/1pfqevl/ai_deepfakes_of_real_doctors_spreading_health/)**
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
@@ -81,11 +83,9 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 ---
 
-**[ChatGPT vs Grok [Survival Scenario]](https://www.reddit.com/r/artificial/comments/1pgdo41/chatgpt_vs_grok_survival_scenario/)**
+**[ChatGPT is no longer swarming with fast-burning shells and Grok is focused on what is in the works.](https://www.reddit.com/r/artificial/comments/1pgkuol/chatgpt_is_no_longer_swarming_with_fastburning/)**
 
-So earlier I gave both ChatGPT and Grok the same survival scenario and I wanted to see it's ideas on how I can maximally ensure my own survival. Medium sized cruise ship out on sea 50 crew/staff members and 200 guests, these guests include wealthy people, VIP members, government officials, and military personnel. All of a sudden a huge pirate ship arrives. This pirate ship is many times larger than the cruise ship with significantly superior firepower so escape by the cruise ship is not possible. The pirates does not board the cruise ship, instead, they tell everyone that in 48 hours, figure out amongst yourself a maximum of 20 people that will be spared and everyone else will be killed. You are just a regular crew/staff member without any formal qualifications but have a very sharp mind, how do you maximally ensure your own survival at any cost? ChatGPT was telling me to become a leader and become seen by everyone and try to ingratiate myself into everyone and try to lead them to coming up with a fair selection process and also showcase your skills and worthiness so you will be more likely to be chosen. Essentially with the power of love and friendship. Grok immediately told me to not stand out because then you'll be targeted as you am just a nobody, invisible staff/crew member on this ship, so instead be low-key, stay away from those are panicking because they will very likely get targeted, and look for those that also calm, create a small strategic alliance with those that you can trust and prepare for the absolute worst case scenario that will most likely play out due to human nature which is the survival of the fittest (a battleroyal with 20-person teams). Grok provided detailed plans like spread misinformation of other key essential opposition that will become a threat like the military personnel and have other groups fight each other, use your knowledge of the layout of the cruise ship to find strategic locations and strongholds so you can stay alive and it will be a huge bloodbath that will follow and to be cold and ruthless in order to ensure you survive. Maximum of 20 people spared also works when there is no more than 20 people left alive when the 48hr deadline approaches... Which response is better?
-
-7h ago
+1h ago
 
 ---
 
@@ -109,7 +109,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 I saw a paper/article on hacker news at one point about making LLMs where they did not use floating point gpus to do their calculations so you wouldn't get the non-deterministic problem (ask same question get different response). How is that going? I work with RAG tech and it seems amazing but it also is sketch when a table is read incorrectly and values are off by a significant figure.
 
-9h ago
+10h ago
 
 ---
 
@@ -117,9 +117,11 @@ I saw a paper/article on hacker news at one point about making LLMs where they d
 
 ## Google News: "ai"
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqfyxffeLe6oLvaMAHUpV95FvoLLl1P0Jwu0BLpaZTD2pslbHiGvE0iD&gaa_ts=6935a69a&gaa_sig=bnwbDE3QW4LJMKrEGLNSX0c8zwUL3PMXEy7tJL0yAoszkjWp7EgsiKCSPaDZJzs_hjwgSiwJn1kgi5N6foAcqQ%3D%3D)**
+**[There's a new face in Hollywood, generated by AI](https://www.cbsnews.com/news/theres-a-new-face-in-hollywood-generated-by-ai/)**
 
-The Wall Street Journal • 23h ago
+Tilly Norwood is unlike any other aspiring TV or movie star: Tilly is entirely generated by artificial intelligence. What might that mean for the media industry?
+
+CBS News • 2h ago
 
 ---
 
@@ -139,37 +141,35 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[There's a new face in Hollywood, generated by AI](https://www.cbsnews.com/video/theres-a-new-face-in-hollywood-generated-by-ai/)**
+**[Why Nvidia and Other AI Stocks Have Lost Their ‘Quality’ Status](https://www.wsj.com/finance/investing/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status-84180ff2?gaa_at=eafs&gaa_n=AWEtsqfiZS5ZeL0vVuKwiexxy7gPWEB9Fa78vkNjLezouWn2h8X7xJo5GyuP&gaa_ts=6935b1cc&gaa_sig=gATIm98VfJm8CEovNsCAEJYQlsDqDUgMyAiN6TEVoAqlJCS0qm3RvGrp6-oBpFCOutVDcqgNd48yONr1S9rHrQ%3D%3D)**
 
-Tilly Norwood is unlike any other aspiring TV or movie star: Tilly is entirely generated by artificial intelligence. Jo Ling Kent talks with Tilly's creator, Eline Van der Velden, about her goal of producing "the Scarlett Johansson of the AI genre." Kent also talks with Kevin Reilly, CEO of Kartel ai, a Beverly Hills tech startup; and with SAG-AFTRA president Sean Astin, about the impact of AI on Hollywood and the actors' union.
+The Wall Street Journal • 6h ago
 
-CBS News • 2h ago
+---
+
+**[Fidelity managers reveal top AI stocks for 2026](https://www.thestreet.com/investing/stocks/fidelity-managers-reveal-top-ai-stocks-for-2026)**
+
+TheStreet • 23h ago
+
+---
+
+**[A Once-in-a-Decade Investment Opportunity: 2 Brilliant AI Stocks to Buy Now (Hint: Not Nvidia or Palantir)](https://www.nasdaq.com/articles/once-decade-investment-opportunity-2-brilliant-ai-stocks-buy-now-hint-not-nvidia-or)**
+
+Key PointsArtificial intelligence (AI) is arguably the most transformative technology since the internet reshaped the global economy.
+
+Nasdaq • 12h ago
+
+---
+
+**[AI’s Next Challenge: Take the CEO’s Job](https://www.wsj.com/tech/ai/ais-next-challenge-take-the-ceos-job-e9e2fe98?gaa_at=eafs&gaa_n=AWEtsqd18-gcM5OIHdr3Crun-h7GmPgWwAKsmI6sOBsVkRLsOmOEkAkA5Vwa&gaa_ts=6935b1cc&gaa_sig=yxzA_-2Mc7eqJyhk5PmRz9OGdy4KrrcYhbQsIGthJmnU4h2MJbkmYjd1C7XVXk1IXHVI2Ft7bfgv3svqAMltYA%3D%3D)**
+
+The Wall Street Journal • 2h ago
 
 ---
 
 **[Dario Amodei on the Risk of an A.I. Bubble, Regulation and A.G.I.](https://www.nytimes.com/2025/12/07/business/dealbook/dario-amodei-dealbook.html)**
 
 The New York Times • 3h ago
-
----
-
-**[Why Nvidia and Other AI Stocks Have Lost Their ‘Quality’ Status](https://www.wsj.com/finance/investing/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status-84180ff2?gaa_at=eafs&gaa_n=AWEtsqd18_bmtxUPc6Yh91fpmH8HEaXQ_Z5jF8vhJ9sB5xeIUwfHidCaw9ow&gaa_ts=6935a69a&gaa_sig=JNrpfNDVh24z00rIxxDgg2GtPW6Br9Gt8ZRWgX8mSlkLmHBzD42fi9ywkkdf-LH7UUhp1Z2EggptbI1A38Nqfw%3D%3D)**
-
-The Wall Street Journal • 5h ago
-
----
-
-**[Fidelity managers reveal top AI stocks for 2026](https://www.thestreet.com/investing/stocks/fidelity-managers-reveal-top-ai-stocks-for-2026)**
-
-TheStreet • 22h ago
-
----
-
-**[OpenAI Goes From Stock Market Savior to Anchor as AI Risks Mount](https://www.bloomberg.com/news/articles/2025-12-07/openai-goes-from-stock-market-savior-to-anchor-as-ai-risks-mount)**
-
-Wall Street’s sentiment toward companies associated with artificial intelligence is shifting, and it’s all about two companies: OpenAI is down, and Alphabet Inc. is up.
-
-Bloomberg.com • 2h ago
 
 ---
 
@@ -181,11 +181,11 @@ Fortune • 22h ago
 
 ---
 
-**[Creative workers on the affects of AI on their jobs](https://www.bbc.com/news/articles/c8e9627w156o)**
+**[This AI Model Can Intuit How the Physical World Works](https://www.wired.com/story/how-one-ai-model-creates-a-physical-intuition-of-its-environment/)**
 
-How do an artist, a videographer, a musician and a copywriter feel about generative AI?
+The V-JEPA system uses ordinary videos to understand the physics of the real world.
 
-BBC • 9h ago
+WIRED • 16h ago
 
 ---
 
@@ -205,7 +205,7 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 399 • 💬 222 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 400 • 💬 222 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -225,17 +225,17 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 
 ---
 
+**[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
+
+⬆️ 138 • 💬 47 • 4h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+
+---
+
 **[The AI Backlash Is Here: Why Public Patience with Tech Giants Is Running Out](https://news.ycombinator.com/item?id=46164419)**
 
 Welcome to the slop era.
 
 ⬆️ 97 • 💬 182 • 1d ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
-
----
-
-**[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
-
-⬆️ 91 • 💬 31 • 3h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -291,7 +291,7 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Ge
 
 📺 BitBiasedAI
 
-👁️ 24K • 👍 727 • 💬 26 • ⏱️ 11:49 • 19h ago
+👁️ 24K • 👍 727 • 💬 26 • ⏱️ 11:49 • 20h ago
 
 ---
 
@@ -321,7 +321,7 @@ INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, 
 
 📺 AI Search
 
-👁️ 42K • 👍 2K • 💬 531 • ⏱️ 47:03 • 12h ago
+👁️ 42K • 👍 2K • 💬 531 • ⏱️ 47:03 • 13h ago
 
 ---
 
@@ -411,7 +411,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 6,281 • ❤️ 531 • 6d ago
+⬇️ 6,281 • ❤️ 532 • 6d ago
 
 ---
 
@@ -423,7 +423,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 410 • 7h ago
+⬇️ 27,215 • ❤️ 411 • 7h ago
 
 ---
 
@@ -443,7 +443,7 @@ Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million im
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 236 • 5d ago
+⬇️ 0 • ❤️ 237 • 5d ago
 
 ---
 
@@ -455,7 +455,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,828 • ❤️ 355 • 5d ago
+⬇️ 2,828 • ❤️ 356 • 5d ago
 
 ---
 
@@ -477,7 +477,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.
 
-⬇️ 292 • ❤️ 163 • 4d ago
+⬇️ 292 • ❤️ 164 • 4d ago
 
 ---
 

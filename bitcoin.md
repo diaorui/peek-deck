@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T16:20:50.730026+00:00'
+updated: '2025-12-07T16:42:11.148756+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 16:20 UTC  
+**Last Updated:** December 07, 2025 at 16:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,591.96
+### $89,395.92
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.3%  
-**7d:** +3.9%  
+**7d:** +3.8%  
 **30d:** -12.6%  
-**90d:** -19.7%  
-**1y:** -11.4%  
+**90d:** -19.8%  
+**1y:** -11.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1776.30B
+**Market Cap:** $1786.23B
 Rank #1
 
-**Circulating Supply:** 19,958,853 BTC
+**Circulating Supply:** 19,958,878 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.4%
+-29.0%
 
 **All-Time Low:** $67.81
-+131180.0%
++131862.8%
 
 ---
 
@@ -77,12 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[It is funny how true is this...](https://www.reddit.com/r/Bitcoin/comments/1pgfjhq/it_is_funny_how_true_is_this/)**
-
-5h ago
-
----
-
 **[MasterCard is Orange Pilled for 1 Billion Users](https://www.reddit.com/r/Bitcoin/comments/1pgenos/mastercard_is_orange_pilled_for_1_billion_users/)**
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
@@ -93,13 +87,13 @@ Rank #1
 
 **[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -111,27 +105,17 @@ Burnsish?
 
 ---
 
-**[This is just Me and I know](https://www.reddit.com/r/Bitcoin/comments/1pgd3wt/this_is_just_me_and_i_know/)**
-
-8h ago
-
----
-
 **[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
 
-11h ago
+12h ago
 
 ---
 
-**[Me trying to predict the crypto market](https://www.reddit.com/r/Bitcoin/comments/1pggxuc/me_trying_to_predict_the_crypto_market/)**
+**[Good time to buy?](https://www.reddit.com/r/Bitcoin/comments/1pgktsx/good_time_to_buy/)**
 
-4h ago
+Are these good prices at the moment to buy? I am under the impression that anything under $100k USD is pretty good?
 
----
-
-**[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
-
-1d ago
+1h ago
 
 ---
 
@@ -141,13 +125,31 @@ Burnsish?
 
 ---
 
+**[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
+
+1d ago
+
+---
+
+**[What's holding us back?](https://www.reddit.com/r/Bitcoin/comments/1pge5ht/whats_holding_us_back/)**
+
+7h ago
+
+---
+
+**[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s Deep Correction Sets Stage for December Rebound, Says K33 Research](https://www.coindesk.com/markets/2025/12/05/bitcoin-s-deep-correction-sets-stage-for-december-rebound-says-k33-research)**
+**[Bitcoin Price (BTC) Analysis: Crypto Winter Parallels](https://www.coindesk.com/markets/2025/12/05/bitcoin-market-echoes-early-2022-as-onchain-stress-mounts-glassnode)**
 
-K33 Research says market fear is outweighing fundamentals as bitcoin nears key levels. December could offer an entry point for bold investors.
+Rising bitcoin supply in loss, weakening spot demand and cautious derivatives positioning were among the issues raised by the data provider in its weekly newsletter.
 
 CoinDesk • 2d ago
 
@@ -166,6 +168,14 @@ Bloomberg.com • 1d ago
 Crypto is down again, and the drop is chewing our portfolios as we see the rise in crypto liquidations and debate on Michael Burry and his Bitcoin comments. With crypto down across major assets and liquidations climbing, we are questioning why Bitcoin is falling even while traditional markets are up. ...
 
 Yahoo Finance • 1h ago
+
+---
+
+**[Trump Administration Overlooks Bitcoin, Blockchain in National Security Strategy](https://www.coindesk.com/opinion/2025/12/07/trump-s-national-security-strategy-ignores-bitcoin-and-blockchain)**
+
+President Trump's latest national security strategy omits digital assets, focusing instead on AI, biotech, and quantum computing.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -199,7 +209,7 @@ Futurism • 22h ago
 
 **[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Investor's Business Daily • 17h ago
+Investor's Business Daily • 18h ago
 
 ---
 
@@ -208,12 +218,6 @@ Investor's Business Daily • 17h ago
 Coinbase Institutional forecasts a December bitcoin rally driven by improving global liquidity and potential Fed rate cuts, though hawkish central bank remarks could temper gains.
 
 Bitbo • 14h ago
-
----
-
-**[Bring Bitcoin Mining into Your Office Without Noise, Heat, or Hassle](https://www.entrepreneur.com/money-finance/bring-bitcoin-mining-into-your-office-without-noise-heat/500383)**
-
-Entrepreneur • 23h ago
 
 ---
 
@@ -303,7 +307,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 2K • 💬 390 • ⏱️ 11:32 • 18h ago
+👁️ 53K • 👍 2K • 💬 390 • ⏱️ 11:32 • 19h ago
 
 ---
 
@@ -333,7 +337,7 @@ We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 414 • 💬 42 • ⏱️ 5:59 • 23h ago
+👁️ 8K • 👍 414 • 💬 42 • ⏱️ 5:59 • 1d ago
 
 ---
 
@@ -363,7 +367,7 @@ BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 6K • 👍 287 • 💬 74 • ⏱️ 17:05 • 5h ago
+👁️ 6K • 👍 287 • 💬 74 • ⏱️ 17:05 • 6h ago
 
 ---
 
