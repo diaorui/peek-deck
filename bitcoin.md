@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T05:43:11.490881+00:00'
+updated: '2025-12-07T05:53:56.165214+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 05:43 UTC  
+**Last Updated:** December 07, 2025 at 05:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 Burnsish?
 
-8h ago
+9h ago
 
 ---
 
@@ -119,7 +119,7 @@ it's not mine. Credits for him. "24-05-2025 - Btc Pump It Up - Have You Ever See
 
 **[They are always not ready](https://www.reddit.com/r/Bitcoin/comments/1pfvd6m/they_are_always_not_ready/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -165,7 +165,7 @@ Investor's Business Daily • 7h ago
 
 Macroeconomic turbulence might work in the coin's favor.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Decrypt • 14h ago
 
 Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
 
-Futurism • 11h ago
+Futurism • 12h ago
 
 ---
 

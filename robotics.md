@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T05:43:11.500140+00:00'
+updated: '2025-12-07T05:53:56.174512+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 05:43 UTC  
+**Last Updated:** December 07, 2025 at 05:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -132,7 +132,7 @@ South China Morning Post • 4h ago
 
 USPS Boise facility gets four robotic arms to help process 220,000 packages daily during holiday rush, allowing redeployment of workers to areas needing human touch.
 
-KTVB • 23h ago
+KTVB • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ In 2025 Silicon Valley, a next-gen AI Spider Quadruped Robot reveals a completel
 
 📺 AI Robot Lab
 
-👁️ 19K • 👍 202 • 💬 5 • ⏱️ 0:25 • 14h ago
+👁️ 19K • 👍 202 • 💬 5 • ⏱️ 0:25 • 15h ago
 
 ---
 
