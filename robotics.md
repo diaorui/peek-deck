@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T21:46:45.982666+00:00'
+updated: '2025-12-07T21:58:06.303651+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 21:46 UTC  
+**Last Updated:** December 07, 2025 at 21:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -106,7 +106,7 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 Hi all, I have a need for the above converter to be installed within a well-cooled (subsea) electronics enclosure. I have a stable 3-phase 400-440VAC supply and need 300-350VDC at a peak of 10kw but a more constant load of <4kw. I have already sourced a unit designed to be rack-mounted, rated to 30KW. It will do the job, but the project would be better if a compact/lighter solution could be found; I don’t need the 30KW headroom. Does anyone have any suggestions? Budget not particularly limited. Many thanks.
 
-8h ago
+9h ago
 
 ---
 
@@ -194,13 +194,23 @@ CNET • 8h ago
 
 ## YouTube Videos: "robotics"
 
+**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
+
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+
+📺 Julia McCoy
+
+👁️ 79K • 👍 4K • 💬 586 • ⏱️ 19:33 • 1d ago
+
+---
+
 **[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
 
 Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
 
 📺 MarketBeat
 
-👁️ 28K • 👍 1K • 💬 78 • ⏱️ 24:47 • 1d ago
+👁️ 29K • 👍 1K • 💬 78 • ⏱️ 24:47 • 1d ago
 
 ---
 
@@ -210,7 +220,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 55K • 👍 340 • 💬 118 • ⏱️ 1:03 • 1d ago
+👁️ 68K • 👍 378 • 💬 132 • ⏱️ 1:03 • 1d ago
 
 ---
 
@@ -220,7 +230,7 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 17K • 👍 360 • 💬 166 • ⏱️ 4:05 • 2d ago
+👁️ 17K • 👍 364 • 💬 167 • ⏱️ 4:05 • 2d ago
 
 ---
 
@@ -228,27 +238,17 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
 
-👁️ 18K • 👍 225 • 💬 7 • ⏱️ 0:11 • 15h ago
+👁️ 19K • 👍 244 • 💬 9 • ⏱️ 0:11 • 15h ago
 
 ---
 
-**[Hidden Details in Unitree&#39;s Latest WILD Humanoid Robot Demos](https://www.youtube.com/watch?v=jXTibM33SDg)**
+**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
 
-Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid robots. The company's teleoperation ...
+Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
 
-📺 CNET
+📺 Unitree Robotics
 
-👁️ 13K • 👍 411 • 💬 63 • ⏱️ 6:05 • 8h ago
-
----
-
-**[Robot Girl at the Expo Tried Selling Me a Wife 🤖💍](https://www.youtube.com/watch?v=ZKdEqrVIabY)**
-
-Here's what happened when I asked a robot receptionist about partner models at a tech expo… I was already talking to one ...
-
-📺 AI Robot Reality
-
-👁️ 2K • 👍 61 • 💬 4 • ⏱️ 0:19 • 1d ago
+👁️ 1.9M • 👍 1K • 💬 306 • ⏱️ 1:06 • 4d ago
 
 ---
 
@@ -258,37 +258,37 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 75K • 👍 593 • 💬 276 • ⏱️ 2:30 • 4d ago
+👁️ 75K • 👍 597 • 💬 280 • ⏱️ 2:30 • 4d ago
 
 ---
 
-**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
+**[Robot Girl at the Expo Tried Selling Me a Wife 🤖💍](https://www.youtube.com/watch?v=ZKdEqrVIabY)**
 
-AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
+Here's what happened when I asked a robot receptionist about partner models at a tech expo… I was already talking to one ...
 
-📺 AI Robot Lab
+📺 AI Robot Reality
 
-👁️ 10K • 👍 101 • 💬 2 • ⏱️ 0:25 • 12h ago
-
----
-
-**[Midea&#39;s 6-Armed Super Humanoid Robot #humanoidrobot #robot #robotics #airobot #industry40](https://www.youtube.com/watch?v=NxTSXMF6cXk)**
-
-Midea Group, one of the world's largest home appliance manufacturers, just unveiled its new six-armed humanoid robot, Miro U.
-
-📺 Kalil 4.0
-
-👁️ 859 • 👍 31 • 💬 4 • ⏱️ 0:27 • 4h ago
+👁️ 2K • 👍 82 • 💬 4 • ⏱️ 0:19 • 1d ago
 
 ---
 
-**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
+**[Hidden Details in Unitree&#39;s Latest WILD Humanoid Robot Demos](https://www.youtube.com/watch?v=jXTibM33SDg)**
 
-Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
+Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid robots. The company's teleoperation ...
 
-📺 Fin Tek
+📺 CNET
 
-👁️ 62K • 👍 2K • 💬 221 • ⏱️ 21:31 • 1d ago
+👁️ 17K • 👍 463 • 💬 68 • ⏱️ 6:05 • 8h ago
+
+---
+
+**[China&#39;s humanoid robotics leap: new T800 unveiled](https://www.youtube.com/watch?v=wbLl3aSOzoc)**
+
+For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-new-T800-unveiled-1INHjYVbHGM/p.html ...
+
+📺 CGTN
+
+👁️ 105K • 💬 643 • ⏱️ 1:21 • 4d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T21:46:45.973250+00:00'
+updated: '2025-12-07T21:58:06.294158+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 21:46 UTC  
+**Last Updated:** December 07, 2025 at 21:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,612.78
+### $90,221.21
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** +4.7%  
-**30d:** -11.9%  
-**90d:** -19.1%  
-**1y:** -10.8%  
+**24h:** +0.8%  
+**7d:** +4.3%  
+**30d:** -12.2%  
+**90d:** -19.3%  
+**1y:** -11.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1819.98B
+**Market Cap:** $1796.69B
 Rank #1
 
-**Circulating Supply:** 19,958,971 BTC
+**Circulating Supply:** 19,958,993 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.7%
+-28.6%
 
 **All-Time Low:** $67.81
-+134371.3%
++132635.6%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
-11h ago
+12h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 **[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -101,7 +101,7 @@ Rank #1
 
 Mastercard’s Crypto Card Program enables consumers to use their crypto cards to pay with crypto for everyday transactions across 100 million+ acceptance locations.
 
-🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 4h ago
+🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 5h ago
 
 ---
 
@@ -125,25 +125,25 @@ Two early-era Bitcoin wallets, each holding ~1,000 BTC moved after 13+ years of 
 
 ---
 
+**[Not selling Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgtw05/not_selling_bitcoin/)**
+
+40m ago
+
+---
+
+**[Inflation is not a hoax. Anyone living in the real world can feel it.](https://www.reddit.com/r/Bitcoin/comments/1pgtb4o/inflation_is_not_a_hoax_anyone_living_in_the_real/)**
+
+Some people on TV or online act like inflation is “not that bad” or even pretend it’s exaggerated. But regular people don’t need charts to know the truth. They see it when they: • check out at the grocery store • fill up their gas tank • pay rent • try to save • try to invest • try to raise a family We’re not imagining it. We’re living it. If your money buys less every year, that’s not a “hoax.” That’s the system working exactly as designed. Bitcoin wasn’t created because everything was fine it was created because inflation quietly destroys the middle and working class. People deserve honesty about what’s happening to their money. Silence helps no one. What signs of inflation hit you the hardest this year?
+
+1h ago
+
+---
+
 **[Mega-rare Simpsons pattern emerging...](https://www.reddit.com/r/Bitcoin/comments/1pfzi8q/megarare_simpsons_pattern_emerging/)**
 
 Burnsish?
 
 1d ago
-
----
-
-**[BTC vs FRN](https://www.reddit.com/r/Bitcoin/comments/1pgnm34/btc_vs_frn/)**
-
-Just doing my part to spread the word. If you're ever in NC and see one of these floating around, Matt was here.
-
-4h ago
-
----
-
-**[What's holding us back?](https://www.reddit.com/r/Bitcoin/comments/1pge5ht/whats_holding_us_back/)**
-
-12h ago
 
 ---
 
@@ -155,15 +155,15 @@ Just doing my part to spread the word. If you're ever in NC and see one of these
 
 Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
-**[‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles](https://www.forbes.com/sites/digital-assets/2025/12/07/next-step-is-coming-sec-chair-issues-huge-crypto-prediction-as-the-bitcoin-price-struggles/)**
+**[Bitcoin Price (BTC) Analysis: Crypto Winter Parallels](https://www.coindesk.com/markets/2025/12/05/bitcoin-market-echoes-early-2022-as-onchain-stress-mounts-glassnode)**
 
-The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
+Rising bitcoin supply in loss, weakening spot demand and cautious derivatives positioning were among the issues raised by the data provider in its weekly newsletter.
 
-Forbes • 8h ago
+CoinDesk • 2d ago
 
 ---
 
@@ -171,21 +171,15 @@ Forbes • 8h ago
 
 Which of these popular cryptocurrencies has more upside potential?
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 58m ago
 
 ---
 
-**[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
+**[Bitcoin Is Set for First Yearly Split From Stocks in a Decade](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-is-breaking-from-stock-rally-for-first-time-in-a-decade)**
 
-The Economist • 3d ago
+The S&amp;P 500 has climbed more than 16% in 2025, while Bitcoin is down 3% — the first time since 2014 that stocks have rallied while the token is down, according to data compiled by Bloomberg.
 
----
-
-**[Bitcoin Is Starting to Look Like a Digital Tulip](https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money)**
-
-It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
-
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -203,11 +197,11 @@ CNBC • 3d ago
 
 ---
 
-**[Bitcoin Price (BTC) Analysis: Crypto Winter Parallels](https://www.coindesk.com/markets/2025/12/05/bitcoin-market-echoes-early-2022-as-onchain-stress-mounts-glassnode)**
+**[‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles](https://www.forbes.com/sites/digital-assets/2025/12/07/next-step-is-coming-sec-chair-issues-huge-crypto-prediction-as-the-bitcoin-price-struggles/)**
 
-Rising bitcoin supply in loss, weakening spot demand and cautious derivatives positioning were among the issues raised by the data provider in its weekly newsletter.
+The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
 
-CoinDesk • 2d ago
+Forbes • 8h ago
 
 ---
 
@@ -219,11 +213,15 @@ Futurism • 1d ago
 
 ---
 
-**[With Bitcoin Falling, Is Strategy Stock in Trouble?](https://finance.yahoo.com/news/bitcoin-falling-strategy-stock-trouble-210500007.html)**
+**[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-It would be pretty miraculous if Strategy's stock were doing well right now.
+Investor's Business Daily • 5h ago
 
-Yahoo Finance • 1d ago
+---
+
+**[Analyst cuts 60% price target for popular Bitcoin stock](https://www.thestreet.com/crypto/markets/analyst-cuts-60-price-target-for-popular-bitcoin-stock)**
+
+TheStreet • 2d ago
 
 ---
 
@@ -307,23 +305,23 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ## YouTube Videos: "bitcoin"
 
-**[BITCOIN - BINANCE DID IT AGAIN](https://www.youtube.com/watch?v=41m6RPPFqk4)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 4K • 👍 335 • 💬 69 • ⏱️ 10:04 • 4h ago
-
----
-
 **[IT’S RIGGED! Kevin O’Leary Warns ‘Buckle Up’ Bitcoin &amp; Ethereum Holders](https://www.youtube.com/watch?v=s3Exn-qdeno)**
 
 LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily ...
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 435 • ⏱️ 11:32 • 1d ago
+👁️ 63K • 👍 3K • 💬 347 • ⏱️ 11:32 • 1d ago
+
+---
+
+**[Is the NEW Pro-Bitcoin Fed Appointee About to LAUNCH a Super-Cycle??](https://www.youtube.com/watch?v=_35wf1iITkE)**
+
+A Fed takeover is brewing — and Bitcoin could be the winner. With Trump poised to install a dovish Fed chair, the dollar's in ...
+
+📺 Simply Bitcoin
+
+👁️ 6K • 👍 454 • 💬 129 • ⏱️ 24:30 • 4h ago
 
 ---
 
@@ -333,17 +331,17 @@ The crypto market may have just flipped the script. After weeks of fear, fakeout
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 300 • 💬 80 • ⏱️ 9:56 • 6h ago
+👁️ 5K • 👍 342 • 💬 115 • ⏱️ 9:56 • 6h ago
 
 ---
 
-**[Bitcoin BTC Indicators Did This SAME EXACT THING For Every Low We&#39;ve Had Since 2023](https://www.youtube.com/watch?v=9iTnnj4VFec)**
+**[BITCOIN - BINANCE DID IT AGAIN](https://www.youtube.com/watch?v=41m6RPPFqk4)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
-📺 C-Zar Gets Crypto 
+📺 My Financial Friend
 
-👁️ 867 • 👍 96 • 💬 85 • ⏱️ 23:18 • 5h ago
+👁️ 7K • 👍 404 • 💬 94 • ⏱️ 10:04 • 4h ago
 
 ---
 
@@ -353,7 +351,37 @@ Bitcoin volatility is collapsing, institutions are flooding in, and the entire m
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 877 • 💬 219 • ⏱️ 40:36 • 1d ago
+👁️ 22K • 👍 894 • 💬 207 • ⏱️ 40:36 • 1d ago
+
+---
+
+**[bitcoin is about to change forever (and nobody even realises)](https://www.youtube.com/watch?v=fE1XaJjBwkg)**
+
+bitcoin is having some massive changes and I see nobody talking about them. future is bright fam Check out Casa's free guide on ...
+
+📺 BTC Isla
+
+👁️ 47K • 👍 3K • 💬 464 • ⏱️ 10:23 • 2d ago
+
+---
+
+**[Banks Declare WAR on Bitcoin Users ⚠️ Jack Mallers Debanked — Your Money Isn’t Safe](https://www.youtube.com/watch?v=Y2p1yq8CYik)**
+
+Tangem ▻ Black Friday Deals!!* Special Discount: *30% Off + $10 in FREE BTC!* ⚡   *Limited Time!* — before Dec 9 2025!
+
+📺 Crypto Casey
+
+👁️ 46K • 👍 3K • 💬 370 • ⏱️ 12:50 • 1d ago
+
+---
+
+**[Lyn Alden: Why This Bitcoin Cycle is So Different](https://www.youtube.com/watch?v=wmnl5FdQHSo)**
+
+Lyn Alden breaks down the strange disconnect defining this Bitcoin cycle: weak consumer sentiment, struggling retail investors, ...
+
+📺 Swan Bitcoin
+
+👁️ 3K • 👍 140 • 💬 34 • ⏱️ 1:11 • 8h ago
 
 ---
 
@@ -363,47 +391,17 @@ I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is W
 
 📺 Digital Asset News
 
-👁️ 21K • 👍 1K • 💬 130 • ⏱️ 21:52 • 1d ago
+👁️ 21K • 👍 1K • 💬 131 • ⏱️ 21:52 • 1d ago
 
 ---
 
-**[BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Sp9UCKJM-ck)**
+**[Bitcoin &amp; AI Just Hit A MAJOR Inflection Point](https://www.youtube.com/watch?v=FpQ7qHwOp5U)**
 
-BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience, and he also writes a Substack ...
 
-📺 Crypto World
+📺 Anthony Pompliano
 
-👁️ 10K • 👍 370 • 💬 147 • ⏱️ 17:05 • 11h ago
-
----
-
-**[Bitcoin PUMPING Right NOW!!!  (Live Trading &amp; Analysis)](https://www.youtube.com/watch?v=0Q59TXdS5Yg)**
-
-ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasper WEEX LOWEST FEES NO KYC   ...
-
-📺 Jayson Casper
-
-👁️ 4K • 👍 463 • 4h ago
-
----
-
-**[I will Enter this Bitcoin Long Today🚨](https://www.youtube.com/watch?v=6Yny42CH2Lw)**
-
-New Exclusive Offer: WEEX: https://www.weex.com/events/welcome-event?vipCode=qlwl&qrType=activity Get $10–$100 ...
-
-📺 Champs Crypto
-
-👁️ 807 • 👍 73 • 💬 36 • ⏱️ 4:47 • 5h ago
-
----
-
-**[MY NEW $100’000’000 BITCOIN TRADE!!!!!!!](https://www.youtube.com/watch?v=10BDEI8zM1w)**
-
-Bitcoin what now STRONGER THAN VIAGRA: 1 Cup Before Bed! [works fast] https://youtu.be/vjZzdzyH_Og (click)
-
-📺 MMCrypto
-
-👁️ 38K • 👍 4K • 💬 558 • ⏱️ 5:51 • 9h ago
+👁️ 57K • 👍 3K • 💬 68 • ⏱️ 48:57 • 1d ago
 
 ---
 

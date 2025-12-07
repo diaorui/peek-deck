@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T21:46:45.979358+00:00'
+updated: '2025-12-07T21:58:06.300325+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- news
 - cryptocurrency
+- news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 21:46 UTC  
+**Last Updated:** December 07, 2025 at 21:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.7%  
-**7d:** +10.3%  
-**30d:** -9.2%  
-**90d:** -28.4%  
-**1y:** -23.0%  
+**24h:** +1.2%  
+**7d:** +9.8%  
+**30d:** -9.7%  
+**90d:** -28.7%  
+**1y:** -23.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $377.74B
+**Market Cap:** $372.50B
 Rank #2
 
 **Circulating Supply:** 120,695,408 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.7%
+-37.8%
 
 **All-Time Low:** $0.43
-+722549.4%
++710922.9%
 
 ---
 
@@ -116,19 +116,19 @@ This is Part Seven of the eight-part series: Can I Pay With This: A stablecoin e
 
 ---
 
-**[Legitimate discussion on sharding and Ethereum shut down by Edmund Edgar for wrong reasons](https://www.reddit.com/r/ethereum/comments/1pgep0z/legitimate_discussion_on_sharding_and_ethereum/)**
-
-I'm the inventor of the "simultaneous video event" Gavin Wood is currently pursuing (Gavin built the first version of Ethereum, then Jeffrey Wilckes and his team built the Golang, and then more came). I have followed "scaling" discussion since 2014, but always found that it was misunderstanding the Nakamoto consensus. But since my proof-of-unique-person requires someone to solve scaling, I took some more looks at the topic and I realized that what the discussion was missing is that the consensus should not be split. Everything happening under a "block of authority" should be by the same group, who trusts one another internally. With that, parallelization can still happen, but the consensus is not split. The concept is really similar otherwise to the "sharding" discussion, it only avoids splitting the consensus. What the discussion in Ethereum was typically in the past decade was to instead randomly assign validators to "shards" from the validator pool. This approach fundamentally misunderstands the consensus. As I realized what everyone got wrong, I was unable to find a system that actually did scale the way things should be done. But, I then noticed there is a system. But if I even mention that here, this gets removed. Not because of the topic I raise, but because of guilt by association. You have created a "community" where you have erased the roots to it, as well as made mention of actual competition (as the roots are often a form of competition, Steve Wozniak would remain a form of competition even as the computer industry outgrew his Apple 2 etc). The system I mentioned is teranode, that is parallelizing the block production but they do so internally under a singular trusted central authority for the "block". Of course Ethereum was the next step after Bitcoin, and my proof-of-unique-person is fundamentally based on the Ethereum paradigm. But Satoshi was who came up with the consensus. Buterin came up with the Turing completeness. Buterin, and Gavin Wood, and Jeffrey Wilckes, were all geniuses in my eyes. But so was Satoshi. "Removing this because it's not about Ethereum. It sort of pretends to be but doesn't make any attempt to work out what Ethereum sharding actually is so the point is clearly just to shill some Craig Wright thing. " Edmund Edgar
-
-11h ago
-
----
-
 **[Daily General Discussion December 06, 2025](https://www.reddit.com/r/ethereum/comments/1pfhy31/daily_general_discussion_december_06_2025/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
+
+---
+
+**[Legitimate discussion on sharding and Ethereum shut down by Edmund Edgar for wrong reasons](https://www.reddit.com/r/ethereum/comments/1pgep0z/legitimate_discussion_on_sharding_and_ethereum/)**
+
+I'm the inventor of the "simultaneous video event" Gavin Wood is currently pursuing (Gavin built the first version of Ethereum, then Jeffrey Wilckes and his team built the Golang, and then more came). I have followed "scaling" discussion since 2014, but always found that it was misunderstanding the Nakamoto consensus. But since my proof-of-unique-person requires someone to solve scaling, I took some more looks at the topic and I realized that what the discussion was missing is that the consensus should not be split. Everything happening under a "block of authority" should be by the same group, who trusts one another internally. With that, parallelization can still happen, but the consensus is not split. The concept is really similar otherwise to the "sharding" discussion, it only avoids splitting the consensus. What the discussion in Ethereum was typically in the past decade was to instead randomly assign validators to "shards" from the validator pool. This approach fundamentally misunderstands the consensus. As I realized what everyone got wrong, I was unable to find a system that actually did scale the way things should be done. But, I then noticed there is a system. But if I even mention that here, this gets removed. Not because of the topic I raise, but because of guilt by association. You have created a "community" where you have erased the roots to it, as well as made mention of actual competition (as the roots are often a form of competition, Steve Wozniak would remain a form of competition even as the computer industry outgrew his Apple 2 etc). The system I mentioned is teranode, that is parallelizing the block production but they do so internally under a singular trusted central authority for the "block". Of course Ethereum was the next step after Bitcoin, and my proof-of-unique-person is fundamentally based on the Ethereum paradigm. But Satoshi was who came up with the consensus. Buterin came up with the Turing completeness. Buterin, and Gavin Wood, and Jeffrey Wilckes, were all geniuses in my eyes. But so was Satoshi. "Removing this because it's not about Ethereum. It sort of pretends to be but doesn't make any attempt to work out what Ethereum sharding actually is so the point is clearly just to shill some Craig Wright thing. " Edmund Edgar
+
+12h ago
 
 ---
 
@@ -152,9 +152,9 @@ My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
 ## Google News: "ethereum"
 
-**[Ethereum Options Traders More Bullish Than Bitcoin Counterparts: Analysts](https://decrypt.co/351073/ethereum-options-traders-more-bullish-than-bitcoin-counterparts-analysts)**
+**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
 
-Options data show Ethereum traders are less bearish than Bitcoin’s after recent network upgrades and improving macro uncertainty.
+Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
 
 Decrypt • 2d ago
 
@@ -202,11 +202,11 @@ CryptoSlate • 3d ago
 
 ---
 
-**[Better Buy in 2026: Ethereum or Solana?](https://www.nasdaq.com/articles/better-buy-2026-ethereum-or-solana)**
+**[Ethereum tops 24-hour net inflows with $138.7M: Artemis](https://cryptobriefing.com/ethereum-tops-24h-inflows-artemis/)**
 
-Key PointsDecentralized applications run on smart contracts, which automate their functions and ensure they can't be manipulated by humans.
+Ethereum tops the digital asset market with $138.7M in 24-hour net inflows, highlighting strong investor interest.
 
-Nasdaq • 3d ago
+Crypto Briefing • 19h ago
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 435 • ⏱️ 11:32 • 1d ago
+👁️ 63K • 👍 3K • 💬 347 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -246,27 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 146 • 💬 54 • ⏱️ 4:06 • 5h ago
-
----
-
-**[BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Sp9UCKJM-ck)**
-
-BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 370 • 💬 147 • ⏱️ 17:05 • 11h ago
-
----
-
-**[Bitcoin and Ethereum Price Update | Are We Really Safe?](https://www.youtube.com/watch?v=8d6meQoAnZE)**
-
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
-
-📺 Crypto Tips
-
-👁️ 3K • 👍 366 • 💬 67 • ⏱️ 8:01 • 4h ago
+👁️ 3K • 👍 172 • 💬 8 • ⏱️ 4:06 • 6h ago
 
 ---
 
@@ -276,7 +256,17 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 108K • 👍 5K • 💬 515 • ⏱️ 11:16 • 2d ago
+👁️ 108K • 👍 5K • 💬 513 • ⏱️ 11:16 • 2d ago
+
+---
+
+**[Bitcoin and Ethereum Price Update | Are We Really Safe?](https://www.youtube.com/watch?v=8d6meQoAnZE)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 5K • 👍 488 • 💬 101 • ⏱️ 8:01 • 4h ago
 
 ---
 
@@ -286,7 +276,17 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 19K • 👍 1K • 💬 214 • ⏱️ 36:53 • 1d ago
+👁️ 20K • 👍 1K • 💬 196 • ⏱️ 36:53 • 1d ago
+
+---
+
+**[BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Sp9UCKJM-ck)**
+
+BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 11K • 👍 399 • 💬 122 • ⏱️ 17:05 • 11h ago
 
 ---
 
@@ -296,27 +296,27 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 341 • 👍 25 • 💬 27 • ⏱️ 5:01 • 10h ago
+👁️ 376 • 👍 25 • 💬 22 • ⏱️ 5:01 • 10h ago
 
 ---
 
-**[Bitcoin PUMPING Right NOW!!!  (Live Trading &amp; Analysis)](https://www.youtube.com/watch?v=0Q59TXdS5Yg)**
+**[Tom Lee&#39;s $62K ETH Bombshell: How $BMNR Shareholders Cash In First](https://www.youtube.com/watch?v=G6oU-K9srYE)**
 
-ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasper WEEX LOWEST FEES NO KYC   ...
+Tom Lee just dropped the biggest price prediction of his career. Speaking at Binance Blockchain Week in Dubai, the Fundstrat ...
 
-📺 Jayson Casper
+📺 Wall Street Stockcast
 
-👁️ 4K • 👍 463 • 4h ago
+👁️ 888 • 👍 53 • 💬 5 • ⏱️ 9:53 • 6h ago
 
 ---
 
-**[BREAKING : ETH to $22K - Ethereum Fusaka Upgrade!](https://www.youtube.com/watch?v=y_aYcH8fwrQ)**
+**[BMNR  Buys $199M ETH While &quot;Smart Money&quot; Shorts: Who Is Wrong? - Tom Lee Vs Wall Street&#39;s Traders](https://www.youtube.com/watch?v=Q5-Krzf9WLw)**
 
-The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was designed to in ways that improve scalability, ...
+A massive divergence has opened up in the crypto market. On one side, you have the "Smart Money"—sophisticated traders ...
 
-📺 Altcoin Buzz
+📺 NextMove Stocks
 
-👁️ 3K • 👍 157 • 💬 175 • ⏱️ 9:21 • 2d ago
+👁️ 639 • 👍 20 • 💬 1 • ⏱️ 5:59 • 7h ago
 
 ---
 
@@ -326,7 +326,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Guitar Repair@StringTech
 
-👁️ 12K • 👍 3K • 14h ago
+👁️ 8K • 👍 3K • 14h ago
 
 ---
 
