@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T19:30:45.571471+00:00'
+updated: '2025-12-07T19:42:09.179794+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 19:30 UTC  
+**Last Updated:** December 07, 2025 at 19:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.2%  
-**7d:** +6.2%  
-**30d:** -10.6%  
-**90d:** -17.9%  
-**1y:** -9.4%  
+**24h:** +2.1%  
+**7d:** +6.1%  
+**30d:** -10.7%  
+**90d:** -18.0%  
+**1y:** -9.5%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 **[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -129,7 +129,7 @@ Just doing my part to spread the word. If you're ever in NC and see one of these
 
 **[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -141,7 +141,7 @@ Just doing my part to spread the word. If you're ever in NC and see one of these
 
 **[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
 
-17m ago
+29m ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 1d ago
 
 **[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
 
-TheStreet • 1d ago
+TheStreet • 2d ago
 
 ---
 
