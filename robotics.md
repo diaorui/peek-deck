@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T05:27:43.898681+00:00'
+updated: '2025-12-07T05:43:11.500140+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 05:27 UTC  
+**Last Updated:** December 07, 2025 at 05:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,23 +56,23 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 ---
 
-**[A Deep Dive into Actuators for Humanoid Robotics](https://www.reddit.com/r/robotics/comments/1pfxwqs/a_deep_dive_into_actuators_for_humanoid_robotics/)**
-
-https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
-
-9h ago
-
----
-
 **[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
 
 12h ago
 
 ---
 
+**[A Deep Dive into Actuators for Humanoid Robotics](https://www.reddit.com/r/robotics/comments/1pfxwqs/a_deep_dive_into_actuators_for_humanoid_robotics/)**
+
+https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
+
+10h ago
+
+---
+
 **[Robot dance Arduino](https://www.reddit.com/r/robotics/comments/1pfijsr/robot_dance_arduino/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -120,35 +120,11 @@ CBS News • 2d ago
 
 ---
 
-**[MIT’s AI Robotics Lab Director Is Building People-Centered Robots](https://spectrum.ieee.org/mits-ai-robotics-lab-director)**
-
-From Romania to MIT, Daniela Rus is redefining robotics to enhance human capabilities. What's her secret to giving people 'superpowers'?
-
-IEEE Spectrum • 3d ago
-
----
-
 **[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
 South China Morning Post • 4h ago
-
----
-
-**[MIT researchers “speak objects into existence” using AI and robotics](https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205)**
-
-MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
-
-MIT News • 1d ago
-
----
-
-**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://finance.yahoo.com/news/3-robotics-stocks-buy-now-185157525.html)**
-
-The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -182,11 +158,35 @@ Forbes • 1d ago
 
 ---
 
-**[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
+**[Uncommon Knowledge: The New Birthrate Math—Tax Condoms, Buy Robots](https://www.newsweek.com/birthrate-tax-condoms-robots-musk-china-11161275)**
 
-Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
+Elon Musk sees a future in which most people don't need to work. Beijing betting on it now.
 
-Seeking Alpha • 1d ago
+Newsweek • 1d ago
+
+---
+
+**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://www.barchart.com/story/news/36461441/3-robotics-stocks-to-buy-now-ahead-of-a-white-house-game-changer)**
+
+The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
+
+Barchart.com • 2d ago
+
+---
+
+**[Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices](https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/)**
+
+The NVIDIA Jetson AGX Thor, AGX Orin and Jetson Orin Nano Super developer kits — on sale through Jan. 11 — give anyone the power to build intelligent robots of the future.
+
+NVIDIA Blog • 2d ago
+
+---
+
+**[Bradford researchers to use robotic dogs and AI in wildfire trial](https://www.bbc.com/news/articles/c3w7xqdp04qo)**
+
+Bradford researchers will take part in a pilot scheme in Greece next year to help spot wildfires.
+
+BBC • 2d ago
 
 ---
 

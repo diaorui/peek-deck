@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T05:27:43.889242+00:00'
+updated: '2025-12-07T05:43:11.490881+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 05:27 UTC  
+**Last Updated:** December 07, 2025 at 05:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +4.0%  
+**24h:** +0.0%  
+**7d:** +3.9%  
 **30d:** -12.5%  
-**90d:** -19.6%  
-**1y:** -11.3%  
+**90d:** -19.7%  
+**1y:** -11.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1787.34B
+**Market Cap:** $1786.74B
 Rank #1
 
 **Circulating Supply:** 19,958,581 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.0%
 
 **All-Time Low:** $67.81
-+131952.8%
++131929.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -99,7 +99,7 @@ Burnsish?
 
 **[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -109,17 +109,17 @@ Burnsish?
 
 ---
 
-**[They are always not ready](https://www.reddit.com/r/Bitcoin/comments/1pfvd6m/they_are_always_not_ready/)**
-
-11h ago
-
----
-
 **[24-05-2025 - Btc Pump It Up - Have You Ever Seen Bitcoin Like This](https://www.reddit.com/r/Bitcoin/comments/1pg47xb/24052025_btc_pump_it_up_have_you_ever_seen/)**
 
 it's not mine. Credits for him. "24-05-2025 - Btc Pump It Up - Have You Ever Seen Bitcoin Like This"
 
 5h ago
+
+---
+
+**[They are always not ready](https://www.reddit.com/r/Bitcoin/comments/1pfvd6m/they_are_always_not_ready/)**
+
+11h ago
 
 ---
 
@@ -137,11 +137,9 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 ---
 
-**[Bullish on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pfti4e/bullish_on_bitcoin/)**
+**[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
 
-I'm sure you have all heard this a million times before but this is my story. In 2015 I researched the crap out of Bitcoin and came to the conclusion that it had a lot of potential. I purchased 10 Bitcoins for $225 a piece through Coinbase. I then stored the Bitcoin in a cold wallet and put the address on a piece of paper in my safe. I told myself that I was going to forget I even bought the Bitcoins and that I wasn't going to take that piece of paper out of the safe for 20 years, and at that time it would either be worthless or potentially worth a lot of money. In January of 2017, the price of Bitcoin skyrocketed to over $1,000. I had made almost five times my money in a very short time. $10,000 was real money to me at the time as I had kids nearing College age, a lot of bills to pay, etc. As the price of Bitcoin hit almost $1,200 I was feeling very rich. But just as soon as it went to $1,200, it crashed all the way back below 800. I felt as though I had been wiped out almost overnight, as my Bitcoin lost almost a third of its value. Almost as soon as the price crashed below $800, it went back up to $1000. At that time I did what I said I would never do. I took the Bitcoin wallet address out of my safe, put it back in my coinbase account and sold for $1,000 per Bitcoin, turning my less than $2,500 investment into a cool $10 grand. Fast forward to earlier this year when Bitcoin hit $125,000. Talk about a lot of regrets selling those 10 Bitcoin. But I also remembered I still had my coinbase account. Much to my surprise I learned that I had a few sats still in my account. Coinbase had given me a dollar worth of bitcoin when I opened the account and at the time Bitcoin was $225. That $1 worth of bitcoin they gave me was now worth over $550, lol. They also gave me another dollar worth of bitcoin for completing a transaction online which I did. The price at that time was around $250. So I was extremely surprised and grateful to see that my $2 worth of free bitcoin was now worth over $1,000. I am now almost 60 years old and approaching retirement. Up until the last couple of months I had done no crypto investing since my first Bitcoin purchase. The money I received from selling my Bitcoin I invested into hard assets such as silver which I really have enjoyed stacking. But stacking silver was a lot more fun when the price was under $25 an ounce. Tom Lee is now saying that retirees are going to start piling into Bitcoin as an alternative asset class. Although I am not yet retired, I feel as though I am living proof of his thesis. I think I have more conviction in Bitcoin now at $90,000 than I did at $225. Even though my Bitcoin Holdings now are a mere fraction of what I had previously, my dollar amount invested is much higher. I am really enjoying stacking crypto now and watching my balances grow. I am investing weekly in Bitcoin through my Strike account. I believe the value of Bitcoin will be significantly higher in the years to come. Good luck everyone!
-
-12h ago
+1h ago
 
 ---
 
@@ -153,13 +151,13 @@ I'm sure you have all heard this a million times before but this is my story. In
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
 **[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Investor's Business Daily • 6h ago
+Investor's Business Daily • 7h ago
 
 ---
 
@@ -171,17 +169,11 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin price today: slides to $90k ahead of PCE inflation, potential Fed cut](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-dips-to-92k-ahead-of-pce-inflation-potential-fed-cut-4392545)**
+**[Central banks rush to hoard gold as bitcoin joins reserve race](https://www.nationthailand.com/business/trading-investment/40059342)**
 
-Investing.com • 1d ago
+Central banks step up gold buying to a 2025 high while the US and others explore bitcoin as a new strategic reserve alongside bullion.
 
----
-
-**[Is Bitcoin About to Break Its Last Surviving Valuation Model?](https://www.coindesk.com/markets/2025/12/05/how-much-longer-until-we-consider-the-bitcoin-power-law-model-invalid)**
-
-As the gap between spot bitcoin price and the power law widens, investors are left questioning whether mean reversion is coming or if another cornerstone model is approaching its end.
-
-CoinDesk • 14h ago
+Nation Thailand • 1h ago
 
 ---
 
@@ -212,6 +204,14 @@ Decrypt • 14h ago
 Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
 
 Futurism • 11h ago
+
+---
+
+**[Is Bitcoin About to Break Its Last Surviving Valuation Model?](https://www.coindesk.com/markets/2025/12/05/how-much-longer-until-we-consider-the-bitcoin-power-law-model-invalid)**
+
+As the gap between spot bitcoin price and the power law widens, investors are left questioning whether mean reversion is coming or if another cornerstone model is approaching its end.
+
+CoinDesk • 14h ago
 
 ---
 
@@ -333,7 +333,7 @@ We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 376 • 💬 32 • ⏱️ 5:59 • 12h ago
+👁️ 7K • 👍 376 • 💬 32 • ⏱️ 5:59 • 13h ago
 
 ---
 

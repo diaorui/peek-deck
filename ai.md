@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T05:27:43.880802+00:00'
+updated: '2025-12-07T05:43:11.482537+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 05:27 UTC  
+**Last Updated:** December 07, 2025 at 05:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 Meta strikes multiple AI deals with news publishers.[1] Elementary school students use AI to combat homelessness.[2] Accurate single-domain scaffolding of three nonoverlapping protein epitopes using deep learning.[3] Apple Researchers Release CLaRa: A Continuous Latent Reasoning Framework for Compression‑Native RAG with 16x–128x Semantic Document Compression.[4] Sources: [1] https://www.reuters.com/business/meta-strikes-multiple-ai-deals-with-news-publishers-axios-reports-2025-12-05/ [2] https://www.kxan.com/news/elementary-school-students-use-ai-to-combat-homelessness/ [3] https://www.nature.com/articles/s41589-025-02083-z [4] https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression%e2%80%91native-rag-with-16x-128x-semantic-document-compression/
 
-38m ago
+53m ago
 
 ---
 
@@ -87,7 +87,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
 
-🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 11h ago
+🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 12h ago
 
 ---
 
@@ -95,7 +95,7 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 1) Strategist 2) Researcher 3) Coder 4) Analyst 5) Critic 6) Fixer 7) Teacher-Documenter 8) Final output Assembler/Presenter
 
-5h ago
+6h ago
 
 ---
 
@@ -127,7 +127,7 @@ The Guardian • 14h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqdSiECzeRM4RygYfZ45z8IWg6nJByQh0YxIp3m-tglh_1C9ckxasAbS&gaa_ts=69350d41&gaa_sig=Wt4ete4NrCAQ66B0WkUWfNcbYDzYU0mXa8uMj23OQgoy7a3tkiSbxq7C_Tp-bOS2qKvmJ4uWky0YEgqlbLuiOQ%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqe1EtxETIQRJSHvxiQFCELNTopQqd_kBOJFpoEkbvj6eo5wSiczrXvY&gaa_ts=6935175d&gaa_sig=aSd91Eh5uoUFQP47iHlkBzCBGYU7qFN_I8ACw2OagBtCDBjjO6rlyXwpn6ltv-KwEuYwbAA1ukRTBz6gSOy03g%3D%3D)**
 
 The Wall Street Journal • 12h ago
 
@@ -149,23 +149,11 @@ The Keyword • 1d ago
 
 ---
 
-**[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
-
-The New York Times • 1d ago
-
----
-
 **[Can AI help forecasters better predict destructive hurricanes?](https://abcnews.go.com/US/ai-forecasters-predict-destructive-hurricanes/story?id=128083437)**
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
 ABC News • 19h ago
-
----
-
-**[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
-
-The Economist • 2d ago
 
 ---
 
@@ -177,6 +165,12 @@ Scientific American • 17h ago
 
 ---
 
+**[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
+
+The Economist • 2d ago
+
+---
+
 **[Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/news/anthropic-interviewer)**
 
 What 1,250 professionals told us about working with AI
@@ -185,11 +179,17 @@ Anthropic • 2d ago
 
 ---
 
-**[How a 24-year-old Stanford Ph.D. dropout lured some of Meta's brightest minds to join her AI math startup](https://www.businessinsider.com/axiom-math-stanford-dropout-meta-ai-researchers-startup-2025-12)**
+**[This AI Model Can Intuit How the Physical World Works](https://www.wired.com/story/how-one-ai-model-creates-a-physical-intuition-of-its-environment/)**
 
-24-year-old Axiom Math founder Carina Hong wooed top Meta researchers in a competitive AI talent market.
+The V-JEPA system uses ordinary videos to understand the physics of the real world.
 
-Business Insider • 19h ago
+WIRED • 5h ago
+
+---
+
+**[New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -225,7 +225,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 389 • 💬 215 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 389 • 💬 216 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -391,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,200 • 4d ago
+⬇️ 169,515 • ❤️ 2,205 • 4d ago
 
 ---
 
@@ -403,7 +403,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 18,140 • ❤️ 753 • 5d ago
+⬇️ 18,140 • ❤️ 754 • 5d ago
 
 ---
 
@@ -427,7 +427,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 368 • 2d ago
+⬇️ 20,067 • ❤️ 369 • 2d ago
 
 ---
 
@@ -437,7 +437,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 255 • 4d ago
+⬇️ 0 • ❤️ 256 • 4d ago
 
 ---
 
@@ -459,7 +459,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 231 • 5d ago
+⬇️ 0 • ❤️ 232 • 5d ago
 
 ---
 
@@ -471,7 +471,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 196,425 • ❤️ 909 • 9d ago
+⬇️ 196,425 • ❤️ 907 • 9d ago
 
 ---
 
