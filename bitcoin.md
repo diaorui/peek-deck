@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T14:52:48.552230+00:00'
+updated: '2025-12-07T15:13:32.282419+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 14:52 UTC  
+**Last Updated:** December 07, 2025 at 15:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $88,288.58
+### $89,024.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** +2.2%  
-**30d:** -14.0%  
-**90d:** -21.0%  
-**1y:** -12.9%  
+**24h:** -0.8%  
+**7d:** +3.2%  
+**30d:** -13.1%  
+**90d:** -20.2%  
+**1y:** -12.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1768.77B
+**Market Cap:** $1769.19B
 Rank #1
 
-**Circulating Supply:** 19,958,831 BTC
+**Circulating Supply:** 19,958,853 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.7%
+-29.5%
 
 **All-Time Low:** $67.81
-+130553.3%
++130917.5%
 
 ---
 
@@ -83,17 +83,17 @@ Rank #1
 
 ---
 
+**[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
+
+11h ago
+
+---
+
 **[MasterCard is Orange Pilled for 1 Billion Users](https://www.reddit.com/r/Bitcoin/comments/1pgenos/mastercard_is_orange_pilled_for_1_billion_users/)**
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
 5h ago
-
----
-
-**[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
-
-11h ago
 
 ---
 
@@ -113,7 +113,7 @@ Burnsish?
 
 **[This is just Me and I know](https://www.reddit.com/r/Bitcoin/comments/1pgd3wt/this_is_just_me_and_i_know/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -135,9 +135,9 @@ Burnsish?
 
 ---
 
-**[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
+**[Me trying to predict the crypto market](https://www.reddit.com/r/Bitcoin/comments/1pggxuc/me_trying_to_predict_the_crypto_market/)**
 
-1d ago
+3h ago
 
 ---
 
@@ -181,6 +181,14 @@ TheStreet • 1d ago
 
 ---
 
+**[Bitcoin Price (BTC) Analysis: Crypto Winter Parallels](https://www.coindesk.com/markets/2025/12/05/bitcoin-market-echoes-early-2022-as-onchain-stress-mounts-glassnode)**
+
+Rising bitcoin supply in loss, weakening spot demand and cautious derivatives positioning were among the issues raised by the data provider in its weekly newsletter.
+
+CoinDesk • 2d ago
+
+---
+
 **[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
 Investor's Business Daily • 16h ago
@@ -195,25 +203,17 @@ Futurism • 21h ago
 
 ---
 
-**[Bitcoin Price (BTC) Analysis: Crypto Winter Parallels](https://www.coindesk.com/markets/2025/12/05/bitcoin-market-echoes-early-2022-as-onchain-stress-mounts-glassnode)**
+**[Coinbase Predicts December Bitcoin Recovery on Macro Tailwinds](https://bitbo.io/news/coinbase-bitcoin-december-recovery/)**
 
-Rising bitcoin supply in loss, weakening spot demand and cautious derivatives positioning were among the issues raised by the data provider in its weekly newsletter.
+Coinbase Institutional forecasts a December bitcoin rally driven by improving global liquidity and potential Fed rate cuts, though hawkish central bank remarks could temper gains.
 
-CoinDesk • 2d ago
+Bitbo • 13h ago
 
 ---
 
 **[Bring Bitcoin Mining into Your Office Without Noise, Heat, or Hassle](https://www.entrepreneur.com/money-finance/bring-bitcoin-mining-into-your-office-without-noise-heat/500383)**
 
-Entrepreneur • 21h ago
-
----
-
-**[Professor Coin: When Bitcoin Sneezes—How Crypto and Equities Caught the Same Cold](https://decrypt.co/351063/professor-coin-when-bitcoin-sneezes-how-crypto-and-equities-caught-the-same-cold)**
-
-Academic literature finds that during periods of economic stress, correlations and spillovers between cryptocurrencies and equities spike.
-
-Decrypt • 23h ago
+Entrepreneur • 22h ago
 
 ---
 
@@ -247,7 +247,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
-⬆️ 3 • 💬 0 • 13h ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 3 • 💬 0 • 14h ago • [GitHub](https://github.com/kladskull/xEroS)
 
 ---
 
@@ -264,6 +264,12 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 Track the next Bitcoin halving event with live countdown and real-time block updates
 
 ⬆️ 2 • 💬 0 • 6d ago • [bitcoinhalvingcountdown.com](https://bitcoinhalvingcountdown.com)
+
+---
+
+**[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
+
+⬆️ 1 • 💬 0 • 4m ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -317,7 +323,7 @@ I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is W
 
 📺 Digital Asset News
 
-👁️ 19K • 👍 1K • 💬 129 • ⏱️ 21:52 • 20h ago
+👁️ 19K • 👍 1K • 💬 129 • ⏱️ 21:52 • 21h ago
 
 ---
 
@@ -327,7 +333,7 @@ Bitcoin volatility is collapsing, institutions are flooding in, and the entire m
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 785 • 💬 159 • ⏱️ 40:36 • 21h ago
+👁️ 19K • 👍 785 • 💬 159 • ⏱️ 40:36 • 22h ago
 
 ---
 

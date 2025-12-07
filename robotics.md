@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T14:52:48.562075+00:00'
+updated: '2025-12-07T15:13:32.299591+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 14:52 UTC  
+**Last Updated:** December 07, 2025 at 15:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-3h ago
+4h ago
 
 ---
 
@@ -74,7 +74,7 @@ Zhongqing CEO Receives the Challenge of T800
 
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
 
-19h ago
+20h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi all, I have a need for the above converter to be installed within a well-cool
 
 **[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -126,11 +126,27 @@ CNN • 2h ago
 
 ---
 
+**[Unitree's Big Humanoid Robots Are Fighting Now](https://www.cnet.com/tech/computing/unitrees-big-humanoid-robots-are-fighting-now/)**
+
+Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
+
+CNET • 2h ago
+
+---
+
+**[AI baby monitors are rising but experts warn about overreliance](https://interestingengineering.com/ai-robotics/ai-baby-monitor-parenting)**
+
+As smart baby devices expand rapidly, researchers highlight the benefits of AI monitoring while noting the limits of current systems.
+
+Interesting Engineering • 3h ago
+
+---
+
 **[MIT researchers “speak objects into existence” using AI and robotics](https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205)**
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
-MIT News • 1d ago
+MIT News • 2d ago
 
 ---
 
@@ -144,7 +160,7 @@ ETF Trends • 2d ago
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-South China Morning Post • 13h ago
+South China Morning Post • 14h ago
 
 ---
 
@@ -170,22 +186,6 @@ NVIDIA Blog • 2d ago
 
 ---
 
-**[China deploys traffic robot to direct vehicles, pedestrians in streets](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-traffic-robot)**
-
-China debuts AI traffic robot Hangxing No. 1, directing vehicles, spotting violations, and issuing polite voice warnings at busy intersections.
-
-Interesting Engineering • 20h ago
-
----
-
-**[Uncommon Knowledge: The New Birthrate Math—Tax Condoms, Buy Robots](https://www.newsweek.com/birthrate-tax-condoms-robots-musk-china-11161275)**
-
-Elon Musk sees a future in which most people don't need to work. Beijing betting on it now.
-
-Newsweek • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -196,7 +196,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 25K • 👍 882 • 💬 71 • ⏱️ 24:47 • 22h ago
+👁️ 25K • 👍 882 • 💬 71 • ⏱️ 24:47 • 23h ago
 
 ---
 
@@ -216,7 +216,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 30K • 👍 230 • 💬 61 • ⏱️ 1:03 • 22h ago
+👁️ 30K • 👍 230 • 💬 61 • ⏱️ 1:03 • 23h ago
 
 ---
 
@@ -246,7 +246,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 73K • 👍 579 • 💬 276 • ⏱️ 2:30 • 3d ago
+👁️ 73K • 👍 579 • 💬 276 • ⏱️ 2:30 • 4d ago
 
 ---
 
@@ -256,7 +256,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 70K • 👍 4K • 💬 509 • ⏱️ 19:33 • 23h ago
+👁️ 70K • 👍 4K • 💬 509 • ⏱️ 19:33 • 1d ago
 
 ---
 

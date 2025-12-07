@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T14:52:48.558529+00:00'
+updated: '2025-12-07T15:13:32.293505+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 14:52 UTC  
+**Last Updated:** December 07, 2025 at 15:13 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,949.51
+### $2,958.73
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.4%  
-**7d:** +5.0%  
-**30d:** -13.6%  
-**90d:** -31.8%  
-**1y:** -26.6%  
+**24h:** -2.6%  
+**7d:** +6.0%  
+**30d:** -12.7%  
+**90d:** -31.2%  
+**1y:** -25.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $363.14B
+**Market Cap:** $356.72B
 Rank #2
 
 **Circulating Supply:** 120,695,408 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--39.2%
+-40.1%
 
 **All-Time Low:** $0.43
-+694617.3%
++683665.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 I'm the inventor of the "simultaneous video event" Gavin Wood is currently pursuing (Gavin built the first version of Ethereum, then Jeffrey Wilckes and his team built the Golang, and then more came). I have followed "scaling" discussion since 2014, but always found that it was misunderstanding the Nakamoto consensus. But since my proof-of-unique-person requires someone to solve scaling, I took some more looks at the topic and I realized that what the discussion was missing is that the consensus should not be split. Everything happening under a "block of authority" should be by the same group, who trusts one another internally. With that, parallelization can still happen, but the consensus is not split. The concept is really similar otherwise to the "sharding" discussion, it only avoids splitting the consensus. What the discussion in Ethereum was typically in the past decade was to instead randomly assign validators to "shards" from the validator pool. This approach fundamentally misunderstands the consensus. As I realized what everyone got wrong, I was unable to find a system that actually did scale the way things should be done. But, I then noticed there is a system. But if I even mention that here, this gets removed. Not because of the topic I raise, but because of guilt by association. You have created a "community" where you have erased the roots to it, as well as made mention of actual competition (as the roots are often a form of competition, Steve Wozniak would remain a form of competition even as the computer industry outgrew his Apple 2 etc). The system I mentioned is teranode, that is parallelizing the block production but they do so internally under a singular trusted central authority for the "block". Of course Ethereum was the next step after Bitcoin, and my proof-of-unique-person is fundamentally based on the Ethereum paradigm. But Satoshi was who came up with the consensus. Buterin came up with the Turing completeness. Buterin, and Gavin Wood, and Jeffrey Wilckes, were all geniuses in my eyes. But so was Satoshi. "Removing this because it's not about Ethereum. It sort of pretends to be but doesn't make any attempt to work out what Ethereum sharding actually is so the point is clearly just to shill some Craig Wright thing. " Edmund Edgar
 
-4h ago
+5h ago
 
 ---
 
@@ -188,17 +188,11 @@ The Block • 3d ago
 
 ---
 
-**[WisdomTree first to market with Ethereum staking fund using Lido's stETH](https://www.theblock.co/post/381549/wisdomtree-first-market-ethereum-staking-fund-lido-steth)**
-
-The Block • 1d ago
-
----
-
 **[Industry Leader Shares Why Ethereum Price Will Reach $12,000](https://www.tradingview.com/news/newsbtc:a204c146d094b:0-industry-leader-shares-why-ethereum-price-will-reach-12-000/)**
 
 Industry leader Tom Lee has shared how the Ethereum price could reach $12,000 within the next few months. He based his prediction on the Bitcoin price action and how ETH could match the flagship crypto on a potential run to the upside. Tom Lee Explains How The Ethereum Price Could Rally To $12,000S…
 
-TradingView • 23h ago
+TradingView • 1d ago
 
 ---
 
@@ -210,6 +204,12 @@ Nasdaq • 3d ago
 
 ---
 
+**[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
+
+The Block • 2d ago
+
+---
+
 **[Ethereum prepares a controversial 2026 overhaul that will forcibly strip power from the network's most dominant players](https://cryptoslate.com/whats-next-for-ethereum-after-the-fusaka-upgrade/)**
 
 Ethereum's roadmap envisions widespread adoption with future upgrades, aiming to transform global financial systems.
@@ -218,11 +218,11 @@ CryptoSlate • 2d ago
 
 ---
 
-**[Bitcoin Drops, Ethereum Plummets: Inside the Latest Crypto Swing With Tony Edward](https://www.cheddar.com/media/bitcoin-drops-ethereum-plummets-inside-the-latest-crypto-swing-with-tony-edward/)**
+**[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
 
-Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
+Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
-cheddar.com • 2d ago
+Seeking Alpha • 2d ago
 
 ---
 
@@ -276,7 +276,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Guitar Repair@StringTech
 
-👁️ 5K • 👍 3K • 7h ago
+👁️ 5K • 👍 3K • 8h ago
 
 ---
 
@@ -306,7 +306,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 820 • 👍 48 • 💬 25 • ⏱️ 12:08 • 21h ago
+👁️ 820 • 👍 48 • 💬 25 • ⏱️ 12:08 • 22h ago
 
 ---
 
