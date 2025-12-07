@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T07:38:56.163548+00:00'
+updated: '2025-12-07T07:49:59.430395+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 07:38 UTC  
+**Last Updated:** December 07, 2025 at 07:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +3.6%  
-**30d:** -12.8%  
-**90d:** -19.9%  
-**1y:** -11.7%  
+**24h:** -0.2%  
+**7d:** +3.4%  
+**30d:** -12.9%  
+**90d:** -20.0%  
+**1y:** -11.8%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Burnsish?
 
-10h ago
+11h ago
 
 ---
 
@@ -139,7 +139,7 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 **[Everyone knows this is a Major Correction, No cause for Alarm](https://www.reddit.com/r/Bitcoin/comments/1pgc6zr/everyone_knows_this_is_a_major_correction_no/)**
 
-26m ago
+37m ago
 
 ---
 
