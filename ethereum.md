@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T19:42:09.185849+00:00'
+updated: '2025-12-07T19:53:15.606997+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 19:42 UTC  
+**Last Updated:** December 07, 2025 at 19:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.1%  
-**7d:** +11.9%  
-**30d:** -7.9%  
-**90d:** -27.4%  
-**1y:** -21.9%  
+**24h:** +3.4%  
+**7d:** +12.1%  
+**30d:** -7.7%  
+**90d:** -27.2%  
+**1y:** -21.7%  
 
 ---
 
@@ -104,7 +104,7 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 I was recently censored by Edmund something, so I thought I would ask this community if you could disprove an assumption I have considered. I have considered a scaling paradigm, and here would like to ask about it for a simpler ledger like UTXO-model (and the idea is that the same principles can be scaled up to more advanced "world computer" like Ethereum). It seems appropriate to attack my argument rather than censor me for having respect for another individual (Craig Wright). My idea is very simple. Shard a UTXO ledger by transaction hash mod numShards. There is "wiggle room" for nodes to shard with different values, as it can translate back and forth. Then, if 1024 shards, let shard 0 build blocks only with transaction hashes it "owns", and any shard using those as inputs will have to request the right from the shard. The shards manage and stores such "virtual blocks". Propagation of mempool transactions as well as "virtual blocks" is between shards only (or, mainly). Shards will request transactions from mempool by modulo numShards, and similar with the "virtual block" (where the boundaries of that block is the Merkle tree, so it naturally also splits and combines so people can use different numShards). The central block header is signed by the "coordinator" (via proof-of-work or proof-of-stake or proof-of-suffrage) who combines the Merkle roots of the sub-blocks. They trust all their "sub-nodes" internally. Likewise, the transaction fees can be done easily in UTXO-format by each sub-node reporting their own output for coinbase. Assuming 1 MB blocks and 1024 shards, 5000 transactions per block, on average 2-3 inputs per transaction, on average 10-15 requests per shard-pair. The geographical distribution solves the bandwidth bottleneck (as well as computation and storage to some extent) and lets less advanced hardware still team-up to easily operate on gigabyte (or more) blocks. What is the added latency would people here say from the geographical distribution of the shards?
 
-1h ago
+2h ago
 
 ---
 
@@ -160,11 +160,43 @@ Decrypt • 2d ago
 
 ---
 
-**[Tom Lee Claims Ethereum Will Hit $62,000 in Next Few Months, Ramps up Bitcoin Call to $250,000](https://finance.yahoo.com/news/tom-lee-claims-ethereum-hit-115214887.html)**
+**[Tom Lee Claims Ethereum Will Hit $62,000 in Next Few Months, Ramps up Bitcoin Call to $250,000](https://www.ccn.com/news/crypto/tom-lee-ethereum-hit-62000-bitcoin-call-250000/)**
 
-Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
+CCN.com • 2d ago
 
-Yahoo Finance • 2d ago
+---
+
+**[Tom Lee’s BitMine Extends Ethereum Bet With $200 Million in Two Days](https://finance.yahoo.com/news/tom-lee-bitmine-extends-ethereum-142458129.html)**
+
+BitMine bought nearly $200 million worth of Ethereum in the last two days, widening its lead as the largest single holder of ETH.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target](https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target)**
+
+TipRanks • 2d ago
+
+---
+
+**[Tom Lee's Bitmine Doubles Down on Ethereum Purchases as ETH Price Recovers Over $3,200](https://www.ccn.com/news/crypto/tom-lee-bitmine-ethereum-purchase-eth-price-recovers-3200/)**
+
+CCN.com • 2d ago
+
+---
+
+**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/07/3-reasons-to-buy-ethereum-before-january-2026/)**
+
+Ethereum could be once again on the path to the $5,000 price level. Here's why.
+
+The Motley Fool • 43m ago
+
+---
+
+**[Ethereum or Solana: ‘One Crypto Could Outperform in 2026,’ Says Investor](https://www.tipranks.com/news/ethereum-or-solana-one-crypto-could-outperform-in-2026-says-investor)**
+
+TipRanks • 6h ago
 
 ---
 
@@ -176,29 +208,9 @@ TradingView • 1d ago
 
 ---
 
-**[BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target](https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target)**
-
-TipRanks • 2d ago
-
----
-
-**[Ethereum or Solana: ‘One Crypto Could Outperform in 2026,’ Says Investor](https://www.tipranks.com/news/ethereum-or-solana-one-crypto-could-outperform-in-2026-says-investor)**
-
-TipRanks • 6h ago
-
----
-
 **[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
 
 The Block • 2d ago
-
----
-
-**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/07/3-reasons-to-buy-ethereum-before-january-2026/)**
-
-Ethereum could be once again on the path to the $5,000 price level. Here's why.
-
-The Motley Fool • 32m ago
 
 ---
 
@@ -210,53 +222,17 @@ CryptoSlate • 2d ago
 
 ---
 
-**[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
-
-Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
-
-Seeking Alpha • 2d ago
-
----
-
-**[Bitcoin Drops, Ethereum Plummets: Inside the Latest Crypto Swing With Tony Edward](https://www.cheddar.com/media/bitcoin-drops-ethereum-plummets-inside-the-latest-crypto-swing-with-tony-edward/)**
-
-Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
-
-cheddar.com • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[Bitcoin and Ethereum Price Update | Are We Really Safe?](https://www.youtube.com/watch?v=8d6meQoAnZE)**
+**[IT’S RIGGED! Kevin O’Leary Warns ‘Buckle Up’ Bitcoin &amp; Ethereum Holders](https://www.youtube.com/watch?v=s3Exn-qdeno)**
 
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
-
-📺 Crypto Tips
-
-👁️ 926 • 👍 143 • 💬 29 • ⏱️ 8:01 • 2h ago
-
----
-
-**[BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Sp9UCKJM-ck)**
-
-BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 333 • 💬 82 • ⏱️ 17:05 • 9h ago
-
----
-
-**[Tom Lee Has Gone Insane (ethereum).](https://www.youtube.com/watch?v=ufxKb5GmsSg)**
-
-LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
+LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily ...
 
 📺 Altcoin Daily
 
-👁️ 107K • 👍 5K • 💬 513 • ⏱️ 11:16 • 2d ago
+👁️ 61K • 👍 3K • 💬 435 • ⏱️ 11:32 • 22h ago
 
 ---
 
@@ -266,27 +242,37 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 847 • 👍 99 • 💬 6 • ⏱️ 4:06 • 3h ago
+👁️ 2K • 👍 146 • 💬 54 • ⏱️ 4:06 • 4h ago
 
 ---
 
-**[IT’S RIGGED! Kevin O’Leary Warns ‘Buckle Up’ Bitcoin &amp; Ethereum Holders](https://www.youtube.com/watch?v=s3Exn-qdeno)**
+**[BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Sp9UCKJM-ck)**
 
-LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily ...
+BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 370 • 💬 147 • ⏱️ 17:05 • 9h ago
+
+---
+
+**[Bitcoin and Ethereum Price Update | Are We Really Safe?](https://www.youtube.com/watch?v=8d6meQoAnZE)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 3K • 👍 366 • 💬 67 • ⏱️ 8:01 • 2h ago
+
+---
+
+**[Tom Lee Has Gone Insane (ethereum).](https://www.youtube.com/watch?v=ufxKb5GmsSg)**
+
+LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 2K • 💬 395 • ⏱️ 11:32 • 22h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=wn48Y6PjqtE)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 Guitar Repair@StringTech
-
-👁️ 10K • 👍 3K • 12h ago
+👁️ 108K • 👍 5K • 💬 515 • ⏱️ 11:16 • 2d ago
 
 ---
 
@@ -296,7 +282,27 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 18K • 👍 1K • 💬 214 • ⏱️ 36:53 • 23h ago
+👁️ 19K • 👍 1K • 💬 214 • ⏱️ 36:53 • 23h ago
+
+---
+
+**[BE READY FOR THIS MOVE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=avsUxQjNdQ0)**
+
+ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 341 • 👍 25 • 💬 27 • ⏱️ 5:01 • 8h ago
+
+---
+
+**[Bitcoin PUMPING Right NOW!!!  (Live Trading &amp; Analysis)](https://www.youtube.com/watch?v=0Q59TXdS5Yg)**
+
+ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasper WEEX LOWEST FEES NO KYC   ...
+
+📺 Jayson Casper
+
+👁️ 4K • 👍 463 • 3h ago
 
 ---
 
@@ -306,27 +312,17 @@ The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was
 
 📺 Altcoin Buzz
 
-👁️ 3K • 👍 156 • 💬 179 • ⏱️ 9:21 • 2d ago
+👁️ 3K • 👍 157 • 💬 175 • ⏱️ 9:21 • 2d ago
 
 ---
 
-**[Tom Lee: The Crypto SUPERCYCLE Is Still Alive... &amp; Ethereum Is Going to LEAD!](https://www.youtube.com/watch?v=PtCcS9c-GP4)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=wn48Y6PjqtE)**
 
-Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why he believes the crypto supercycle is still ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 Binance
+📺 Guitar Repair@StringTech
 
-👁️ 99K • 👍 3K • 💬 501 • ⏱️ 27:33 • 3d ago
-
----
-
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 24K • 👍 533 • 💬 391 • ⏱️ 15:38 • 2d ago
+👁️ 12K • 👍 3K • 12h ago
 
 ---
 

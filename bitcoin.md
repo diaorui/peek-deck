@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T19:42:09.179794+00:00'
+updated: '2025-12-07T19:53:15.600828+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 19:42 UTC  
+**Last Updated:** December 07, 2025 at 19:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
-9h ago
+10h ago
 
 ---
 
@@ -95,7 +95,7 @@ Rank #1
 
 Mastercard’s Crypto Card Program enables consumers to use their crypto cards to pay with crypto for everyday transactions across 100 million+ acceptance locations.
 
-🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 2h ago
+🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 3h ago
 
 ---
 
@@ -107,7 +107,7 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 **[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -115,7 +115,7 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 Burnsish?
 
-22h ago
+23h ago
 
 ---
 
@@ -141,7 +141,7 @@ Just doing my part to spread the word. If you're ever in NC and see one of these
 
 **[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
 
-29m ago
+40m ago
 
 ---
 
@@ -165,11 +165,11 @@ Futurism • 1d ago
 
 ---
 
-**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
+**[Bitcoin Whipsaws as $1.39 Billion Whale Dump Triggers Coordinated Sell-Off](https://finance.yahoo.com/news/bitcoin-whipsaws-1-39-billion-191439675.html)**
 
-Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
+A $1.39 billion whale dump sparks Bitcoin whipsaw and mass liquidations as thin liquidity fuels volatility.
 
-Decrypt • 2h ago
+Yahoo Finance • 38m ago
 
 ---
 
@@ -187,14 +187,6 @@ The Economist • 3d ago
 
 ---
 
-**[BlackRock's IBIT Bitcoin ETF Sees Record $2.7 Billion Exodus](https://finance.yahoo.com/news/blackrocks-ibit-bitcoin-etf-sees-033033975.html)**
-
-BlackRock Inc. (NYSE:BLK) is seeing persistent withdrawals from its iShares Bitcoin Trust (NASDAQ:IBIT) as investors pulled more than $2.7 billion over five consecutive weeks. Largest Outflow Stretch Since IBIT's Launch IBIT is facing its longest run ...
-
-Yahoo Finance • 1d ago
-
----
-
 **[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
 
 TheStreet • 2d ago
@@ -209,17 +201,25 @@ CNBC • 3d ago
 
 ---
 
+**[Trump Administration Overlooks Bitcoin, Blockchain in National Security Strategy](https://www.coindesk.com/opinion/2025/12/07/trump-s-national-security-strategy-ignores-bitcoin-and-blockchain)**
+
+President Trump's latest national security strategy omits digital assets, focusing instead on AI, biotech, and quantum computing.
+
+CoinDesk • 4h ago
+
+---
+
 **[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
 Investor's Business Daily • 2h ago
 
 ---
 
-**[Trump Administration Overlooks Bitcoin, Blockchain in National Security Strategy](https://www.coindesk.com/opinion/2025/12/07/trump-s-national-security-strategy-ignores-bitcoin-and-blockchain)**
+**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
 
-President Trump's latest national security strategy omits digital assets, focusing instead on AI, biotech, and quantum computing.
+Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
 
-CoinDesk • 4h ago
+Decrypt • 3h ago
 
 ---
 
@@ -303,33 +303,43 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ## YouTube Videos: "bitcoin"
 
+**[BITCOIN - BINANCE DID IT AGAIN](https://www.youtube.com/watch?v=41m6RPPFqk4)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 4K • 👍 335 • 💬 69 • ⏱️ 10:04 • 2h ago
+
+---
+
 **[IT’S RIGGED! Kevin O’Leary Warns ‘Buckle Up’ Bitcoin &amp; Ethereum Holders](https://www.youtube.com/watch?v=s3Exn-qdeno)**
 
 LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily ...
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 2K • 💬 395 • ⏱️ 11:32 • 22h ago
+👁️ 61K • 👍 3K • 💬 435 • ⏱️ 11:32 • 22h ago
 
 ---
 
-**[I Doubled My Bitcoin Buys. Here is WHY.](https://www.youtube.com/watch?v=8r-YIulIAE4)**
+**[Bitcoin &amp; Altcoin Trap REVERSAL (Crypto PARABOLIC Trigger Set To Fire!)](https://www.youtube.com/watch?v=7vf3DfCrj9M)**
 
-I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is WHY... The links below may include affiliate links, ...
+The crypto market may have just flipped the script. After weeks of fear, fakeouts, and brutal volatility, Bitcoin and key altcoins are ...
 
-📺 Digital Asset News
+📺 Discover Crypto
 
-👁️ 21K • 👍 1K • 💬 129 • ⏱️ 21:52 • 1d ago
+👁️ 4K • 👍 300 • 💬 80 • ⏱️ 9:56 • 4h ago
 
 ---
 
-**[bitcoin is about to change forever (and nobody even realises)](https://www.youtube.com/watch?v=fE1XaJjBwkg)**
+**[Bitcoin BTC Indicators Did This SAME EXACT THING For Every Low We&#39;ve Had Since 2023](https://www.youtube.com/watch?v=9iTnnj4VFec)**
 
-bitcoin is having some massive changes and I see nobody talking about them. future is bright fam Check out Casa's free guide on ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 BTC Isla
+📺 C-Zar Gets Crypto 
 
-👁️ 44K • 👍 3K • 💬 493 • ⏱️ 10:23 • 2d ago
+👁️ 867 • 👍 96 • 💬 85 • ⏱️ 23:18 • 3h ago
 
 ---
 
@@ -339,27 +349,17 @@ Bitcoin volatility is collapsing, institutions are flooding in, and the entire m
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 846 • 💬 186 • ⏱️ 40:36 • 1d ago
+👁️ 21K • 👍 877 • 💬 219 • ⏱️ 40:36 • 1d ago
 
 ---
 
-**[Bitcoin &amp; AI Just Hit A MAJOR Inflection Point](https://www.youtube.com/watch?v=FpQ7qHwOp5U)**
+**[I Doubled My Bitcoin Buys. Here is WHY.](https://www.youtube.com/watch?v=8r-YIulIAE4)**
 
-Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience, and he also writes a Substack ...
+I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is WHY... The links below may include affiliate links, ...
 
-📺 Anthony Pompliano
+📺 Digital Asset News
 
-👁️ 54K • 👍 3K • 💬 65 • ⏱️ 48:57 • 1d ago
-
----
-
-**[The Real Reason Bitcoin Hit $103,000](https://www.youtube.com/watch?v=WALIZXJvEeA)**
-
-Crypto is undergoing its biggest transformation ever — Wall Street now controls the market, driving Bitcoin's price, trading volume, ...
-
-📺 Redhawk Media Group
-
-👁️ 733 • 👍 3 • ⏱️ 0:42 • 5h ago
+👁️ 21K • 👍 1K • 💬 130 • ⏱️ 21:52 • 1d ago
 
 ---
 
@@ -369,37 +369,37 @@ BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 8K • 👍 333 • 💬 82 • ⏱️ 17:05 • 9h ago
+👁️ 10K • 👍 370 • 💬 147 • ⏱️ 17:05 • 9h ago
 
 ---
 
-**[Every Major Bank Just Pivoted to Bitcoin… They Know What’s Coming!](https://www.youtube.com/watch?v=3rSaeVkFY4Q)**
+**[Bitcoin PUMPING Right NOW!!!  (Live Trading &amp; Analysis)](https://www.youtube.com/watch?v=0Q59TXdS5Yg)**
 
-Every major economy is hitting the debt wall simultaneously. A global reset is coming—fast, systemic, and total. BlackRock ...
+ANTARCTIC EXCHANGE LOWEST FEES!   https://partner.antarctic.live/code/JaysonCasper WEEX LOWEST FEES NO KYC   ...
 
-📺 Simply Bitcoin
+📺 Jayson Casper
 
-👁️ 58K • 👍 4K • 💬 303 • ⏱️ 23:27 • 2d ago
-
----
-
-**[Bitcoin investors...Get Ready For Inflation Numbers and the Fed!](https://www.youtube.com/watch?v=RmFwVDHzkis)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 35K • 👍 2K • 💬 462 • ⏱️ 10:13 • 2d ago
+👁️ 4K • 👍 463 • 3h ago
 
 ---
 
-**[Bitcoin: A Different Kind of Bear Market?](https://www.youtube.com/watch?v=5txYvyuM4uE)**
+**[I will Enter this Bitcoin Long Today🚨](https://www.youtube.com/watch?v=6Yny42CH2Lw)**
 
-Is Bitcoin in a different type of bear market? Let's discuss what a bear market may look like coming from a non-euphoric top.
+New Exclusive Offer: WEEX: https://www.weex.com/events/welcome-event?vipCode=qlwl&qrType=activity Get $10–$100 ...
 
-📺 Benjamin Cowen
+📺 Champs Crypto
 
-👁️ 124K • 👍 7K • 💬 490 • ⏱️ 15:38 • 2d ago
+👁️ 807 • 👍 73 • 💬 36 • ⏱️ 4:47 • 3h ago
+
+---
+
+**[MY NEW $100’000’000 BITCOIN TRADE!!!!!!!](https://www.youtube.com/watch?v=10BDEI8zM1w)**
+
+Bitcoin what now STRONGER THAN VIAGRA: 1 Cup Before Bed! [works fast] https://youtu.be/vjZzdzyH_Og (click)
+
+📺 MMCrypto
+
+👁️ 38K • 👍 4K • 💬 558 • ⏱️ 5:51 • 7h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T19:42:09.189630+00:00'
+updated: '2025-12-07T19:53:15.610285+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 19:42 UTC  
+**Last Updated:** December 07, 2025 at 19:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 **[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -106,7 +106,7 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 Hi all, I have a need for the above converter to be installed within a well-cooled (subsea) electronics enclosure. I have a stable 3-phase 400-440VAC supply and need 300-350VDC at a peak of 10kw but a more constant load of <4kw. I have already sourced a unit designed to be rack-mounted, rated to 30KW. It will do the job, but the project would be better if a compact/lighter solution could be found; I don’t need the 30KW headroom. Does anyone have any suggestions? Budget not particularly limited. Many thanks.
 
-6h ago
+7h ago
 
 ---
 
@@ -156,7 +156,7 @@ ETF Trends • 2d ago
 
 Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
 
-CNN • 6h ago
+CNN • 7h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Why Walmart's AI Robotics Maker Is Tumbling After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
+**[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
 
 Investor's Business Daily • 2d ago
 
@@ -194,43 +194,13 @@ CNET • 6h ago
 
 ## YouTube Videos: "robotics"
 
-**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.youtube.com/watch?v=XvXNEYbIBYw)**
-
-Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be ...
-
-📺 CBS News
-
-👁️ 16K • 👍 357 • 💬 166 • ⏱️ 4:05 • 2d ago
-
----
-
 **[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
 
 Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
 
 📺 MarketBeat
 
-👁️ 27K • 👍 970 • 💬 75 • ⏱️ 24:47 • 1d ago
-
----
-
-**[Midea&#39;s 6-Armed Super Humanoid Robot #humanoidrobot #robot #robotics #airobot #industry40](https://www.youtube.com/watch?v=NxTSXMF6cXk)**
-
-Midea Group, one of the world's largest home appliance manufacturers, just unveiled its new six-armed humanoid robot, Miro U.
-
-📺 Kalil 4.0
-
-👁️ 519 • 👍 17 • 💬 1 • ⏱️ 0:27 • 2h ago
-
----
-
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
-
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
-
-📺 AI Revolution
-
-👁️ 85K • 👍 2K • 💬 369 • ⏱️ 12:07 • 1d ago
+👁️ 28K • 👍 1K • 💬 78 • ⏱️ 24:47 • 1d ago
 
 ---
 
@@ -240,7 +210,45 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 45K • 👍 299 • 💬 107 • ⏱️ 1:03 • 1d ago
+👁️ 55K • 👍 340 • 💬 118 • ⏱️ 1:03 • 1d ago
+
+---
+
+**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.youtube.com/watch?v=XvXNEYbIBYw)**
+
+Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be ...
+
+📺 CBS News
+
+👁️ 17K • 👍 360 • 💬 166 • ⏱️ 4:05 • 2d ago
+
+---
+
+**[2025 Advanced Anti-Gravity Hoverboard Showcase. #futuretech #antigravity #hoverboard #robotics](https://www.youtube.com/watch?v=NfrybLAbGqA)**
+
+📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
+
+👁️ 18K • 👍 225 • 💬 7 • ⏱️ 0:11 • 13h ago
+
+---
+
+**[Hidden Details in Unitree&#39;s Latest WILD Humanoid Robot Demos](https://www.youtube.com/watch?v=jXTibM33SDg)**
+
+Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid robots. The company's teleoperation ...
+
+📺 CNET
+
+👁️ 13K • 👍 411 • 💬 63 • ⏱️ 6:05 • 6h ago
+
+---
+
+**[Robot Girl at the Expo Tried Selling Me a Wife 🤖💍](https://www.youtube.com/watch?v=ZKdEqrVIabY)**
+
+Here's what happened when I asked a robot receptionist about partner models at a tech expo… I was already talking to one ...
+
+📺 AI Robot Reality
+
+👁️ 2K • 👍 61 • 💬 4 • ⏱️ 0:19 • 22h ago
 
 ---
 
@@ -250,17 +258,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 74K • 👍 587 • 💬 276 • ⏱️ 2:30 • 4d ago
-
----
-
-**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
-
-Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
-
-📺 Fin Tek
-
-👁️ 60K • 👍 2K • 💬 200 • ⏱️ 21:31 • 1d ago
+👁️ 75K • 👍 593 • 💬 276 • ⏱️ 2:30 • 4d ago
 
 ---
 
@@ -270,27 +268,27 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 7K • 👍 70 • 💬 1 • ⏱️ 0:25 • 10h ago
+👁️ 10K • 👍 101 • 💬 2 • ⏱️ 0:25 • 10h ago
 
 ---
 
-**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
+**[Midea&#39;s 6-Armed Super Humanoid Robot #humanoidrobot #robot #robotics #airobot #industry40](https://www.youtube.com/watch?v=NxTSXMF6cXk)**
 
-After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
+Midea Group, one of the world's largest home appliance manufacturers, just unveiled its new six-armed humanoid robot, Miro U.
 
 📺 Kalil 4.0
 
-👁️ 4K • 👍 128 • 💬 13 • ⏱️ 0:59 • 14h ago
+👁️ 859 • 👍 31 • 💬 4 • ⏱️ 0:27 • 2h ago
 
 ---
 
-**[China&#39;s humanoid robotics leap: new T800 unveiled](https://www.youtube.com/watch?v=wbLl3aSOzoc)**
+**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
 
-For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-new-T800-unveiled-1INHjYVbHGM/p.html ...
+Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
 
-📺 CGTN
+📺 Fin Tek
 
-👁️ 104K • 💬 634 • ⏱️ 1:21 • 4d ago
+👁️ 62K • 👍 2K • 💬 221 • ⏱️ 21:31 • 1d ago
 
 ---
 
