@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T09:09:18.885697+00:00'
+updated: '2025-12-07T09:30:34.959785+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - news
-- videos
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 09:09 UTC  
+**Last Updated:** December 07, 2025 at 09:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Calls for review after technology found to return more false positives for ‘some demographic groups’ on certain settings
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 1h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Calls for review after technology found to return more false positives for ‘so
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 18h ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 19h ago
 
 ---
 
@@ -57,7 +57,7 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 So earlier I gave both ChatGPT and Grok the same survival scenario and I wanted to see it's ideas on how I can maximally ensure my own survival. Medium sized cruise ship out on sea 50 crew/staff members and 200 guests, these guests include wealthy people, VIP members, government officials, and military personnel. All of a sudden a huge pirate ship arrives. This pirate ship is many times larger than the cruise ship with significantly superior firepower so escape by the cruise ship is not possible. The pirates does not board the cruise ship, instead, they tell everyone that in 48 hours, figure out amongst yourself a maximum of 20 people that will be spared and everyone else will be killed. You are just a regular crew/staff member without any formal qualifications but have a very sharp mind, how do you maximally ensure your own survival at any cost? ChatGPT was telling me to become a leader and become seen by everyone and try to ingratiate myself into everyone and try to lead them to coming up with a fair selection process and also showcase your skills and worthiness so you will be more likely to be chosen. Essentially with the power of love and friendship. Grok immediately told me to not stand out because then you'll be targeted as you am just a nobody, invisible staff/crew member on this ship, so instead be low-key, stay away from those are panicking because they will very likely get targeted, and look for those that also calm, create a small strategic alliance with those that you can trust and prepare for the absolute worst case scenario that will most likely play out due to human nature which is the survival of the fittest (a battleroyal with 20-person teams). Grok provided detailed plans like spread misinformation of other key essential opposition that will become a threat like the military personnel and have other groups fight each other, use your knowledge of the layout of the cruise ship to find strategic locations and strongholds so you can stay alive and it will be a huge bloodbath that will follow and to be cold and ruthless in order to ensure you survive. Maximum of 20 people spared also works when there is no more than 20 people left alive when the 48hr deadline approaches... Which response is better?
 
-21m ago
+42m ago
 
 ---
 
@@ -71,7 +71,7 @@ So earlier I gave both ChatGPT and Grok the same survival scenario and I wanted 
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 22h ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 23h ago
 
 ---
 
@@ -129,7 +129,7 @@ The Guardian • 18h ago
 
 **[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqc1ZGAZMxbLdkx9xuZWOdKlIdbmiNjAyDvEbPc4yvMEPYFbsvxRDj1E&gaa_ts=693547a8&gaa_sig=74Ge3vC8cBlpw-H9TGsL2xvW1ZwiXRNe6m5l3CMtrqXUUnyH0phg2p9Epq0gZpTFbpQgd6n850jcoODYzI3F6A%3D%3D)**
 
-The Wall Street Journal • 15h ago
+The Wall Street Journal • 16h ago
 
 ---
 
@@ -138,19 +138,19 @@ The Wall Street Journal • 15h ago
 The five jittery clowns marched down the middle of a dark city street, flanked by passersby and the blurred glow of storefront lamps. 
 As their wild...
 
-Pittsburgh Post-Gazette • 9m ago
+Pittsburgh Post-Gazette • 30m ago
 
 ---
 
 **[How I Learned to Stop Worrying and Love the Bubble](https://www.bloomberg.com/news/newsletters/2025-12-07/don-t-worry-too-much-about-an-ai-bubble)**
 
-Bloomberg.com • 9m ago
+Bloomberg.com • 30m ago
 
 ---
 
 **[Opinion | Let’s not idolize AI. That’s an age-old mistake.](https://www.washingtonpost.com/opinions/2025/12/07/ai-idols-consciousness-religion-llms/)**
 
-The Washington Post • 47m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -158,7 +158,7 @@ The Washington Post • 47m ago
 
 China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -354,7 +354,7 @@ INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, 
 
 📺 AI Search
 
-👁️ 18K • 👍 1K • 💬 343 • ⏱️ 47:03 • 5h ago
+👁️ 18K • 👍 1K • 💬 343 • ⏱️ 47:03 • 6h ago
 
 ---
 
@@ -682,7 +682,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 931 • 🔱 113 • 20h ago
+⭐ 931 • 🔱 113 • 21h ago
 
 ---
 
@@ -692,7 +692,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 1h ago
+⭐ 826 • 🔱 43 • 2h ago
 
 ---
 
@@ -702,7 +702,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 824 • 🔱 22 • 18h ago
+⭐ 824 • 🔱 22 • 19h ago
 
 ---
 

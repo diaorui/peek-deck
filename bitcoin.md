@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T09:09:18.894084+00:00'
+updated: '2025-12-07T09:30:34.968306+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 09:09 UTC  
+**Last Updated:** December 07, 2025 at 09:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +3.5%  
-**30d:** -12.9%  
-**90d:** -20.0%  
-**1y:** -11.8%  
+**24h:** -0.1%  
+**7d:** +3.7%  
+**30d:** -12.7%  
+**90d:** -19.8%  
+**1y:** -11.6%  
 
 ---
 
@@ -119,19 +119,19 @@ Burnsish?
 
 it's not mine. Credits for him. "24-05-2025 - Btc Pump It Up - Have You Ever Seen Bitcoin Like This"
 
-8h ago
+9h ago
 
 ---
 
 **[This is just Me and I know](https://www.reddit.com/r/Bitcoin/comments/1pgd3wt/this_is_just_me_and_i_know/)**
 
-58m ago
+1h ago
 
 ---
 
 **[13 years ago Bitcoin was $13.36 and we were still playing PS2 💔](https://www.reddit.com/r/Bitcoin/comments/1pfp765/13_years_ago_bitcoin_was_1336_and_we_were_still/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Economist • 2d ago
 
 **[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 11h ago
 
 ---
 
@@ -213,7 +213,7 @@ TheStreet • 1d ago
 
 Key PointsBitcoin's prior all-time high was more than $126,000.
 
-Nasdaq • 4h ago
+Nasdaq • 5h ago
 
 ---
 
@@ -297,7 +297,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 349 • ⏱️ 11:32 • 11h ago
+👁️ 41K • 👍 2K • 💬 349 • ⏱️ 11:32 • 12h ago
 
 ---
 
@@ -347,7 +347,7 @@ Tangem ▻ Black Friday Deals!!* Special Discount: *30% Off + $10 in FREE BTC!* 
 
 📺 Crypto Casey
 
-👁️ 39K • 👍 3K • 💬 374 • ⏱️ 12:50 • 19h ago
+👁️ 39K • 👍 3K • 💬 374 • ⏱️ 12:50 • 20h ago
 
 ---
 
