@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T10:37:26.783045+00:00'
+updated: '2025-12-07T10:48:06.959089+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
 - videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 10:37 UTC  
+**Last Updated:** December 07, 2025 at 10:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 So earlier I gave both ChatGPT and Grok the same survival scenario and I wanted to see it's ideas on how I can maximally ensure my own survival. Medium sized cruise ship out on sea 50 crew/staff members and 200 guests, these guests include wealthy people, VIP members, government officials, and military personnel. All of a sudden a huge pirate ship arrives. This pirate ship is many times larger than the cruise ship with significantly superior firepower so escape by the cruise ship is not possible. The pirates does not board the cruise ship, instead, they tell everyone that in 48 hours, figure out amongst yourself a maximum of 20 people that will be spared and everyone else will be killed. You are just a regular crew/staff member without any formal qualifications but have a very sharp mind, how do you maximally ensure your own survival at any cost? ChatGPT was telling me to become a leader and become seen by everyone and try to ingratiate myself into everyone and try to lead them to coming up with a fair selection process and also showcase your skills and worthiness so you will be more likely to be chosen. Essentially with the power of love and friendship. Grok immediately told me to not stand out because then you'll be targeted as you am just a nobody, invisible staff/crew member on this ship, so instead be low-key, stay away from those are panicking because they will very likely get targeted, and look for those that also calm, create a small strategic alliance with those that you can trust and prepare for the absolute worst case scenario that will most likely play out due to human nature which is the survival of the fittest (a battleroyal with 20-person teams). Grok provided detailed plans like spread misinformation of other key essential opposition that will become a threat like the military personnel and have other groups fight each other, use your knowledge of the layout of the cruise ship to find strategic locations and strongholds so you can stay alive and it will be a huge bloodbath that will follow and to be cold and ruthless in order to ensure you survive. Maximum of 20 people spared also works when there is no more than 20 people left alive when the 48hr deadline approaches... Which response is better?
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Meta strikes multiple AI deals with news publishers.[1] Elementary school studen
 
 … and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
 
-18h ago
+19h ago
 
 ---
 
@@ -105,7 +105,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
 
-🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 16h ago
+🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 17h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Wall Street Journal • 17h ago
 
 AI pioneer and Nobel Prize winner Geoffrey Hinton said students who want to become AI researchers need to focus on critical thinking.
 
-Business Insider • 37m ago
+Business Insider • 48m ago
 
 ---
 
@@ -320,7 +320,7 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Ge
 
 📺 BitBiasedAI
 
-👁️ 17K • 👍 560 • 💬 17 • ⏱️ 11:49 • 13h ago
+👁️ 17K • 👍 560 • 💬 17 • ⏱️ 11:49 • 14h ago
 
 ---
 
