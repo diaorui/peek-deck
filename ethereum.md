@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T02:26:25.343177+00:00'
+updated: '2025-12-07T03:46:13.045693+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 02:26 UTC  
+**Last Updated:** December 07, 2025 at 03:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,044.48
+### $3,052.73
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +8.7%  
-**30d:** -10.6%  
-**90d:** -29.4%  
-**1y:** -24.1%  
+**24h:** +0.6%  
+**7d:** +8.9%  
+**30d:** -10.4%  
+**90d:** -29.3%  
+**1y:** -23.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $368.03B
+**Market Cap:** $368.67B
 Rank #2
 
 **Circulating Supply:** 120,695,408 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.4%
+-38.3%
 
 **All-Time Low:** $0.43
-+703890.3%
++705239.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 million from Ethereum traders in a blindingly fast fraud.
 
-🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 10h ago
+🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+21h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is Part Seven of the eight-part series: Can I Pay With This: A stablecoin experiment in Buenos Aires. Thank you to the Ethereum Foundation and the EV Mavericks for their support, without which this experiment could never have happened. Table of Contents Part One: Decentralized or Destitute <-- New? Start here. Money, monkeys and mild terror Part Two: First Contact with Reality KYC on a hostel bunk bed Part Three: WE ACCEPT BITCOIN (sort of) Worst title for an Ethereum subreddit ever Part Four: Eighteen Ways to Pay for Ice Cream Stablecoins, FX hell and a missing keyboard Part Five: Going Bankless From tourist shop hack to cueva contact Part Six: Trustless, My Ass Trading with the Blue Man Custodial Services <-- You are here Having successfully beaten my Decentralized or Destitute challenge with my dignity mostly intact, I consider fleeing Buenos Aires before Microcentro rewires my nervous system. I'm dangerously close to falling in love with the city but that might just be a side effect of the long-term exposure to exhaust and capybara memes. I find a cheap flight to Jujuy. My brain floods with visions of hiking in the Andes with my pockets full of pesos. I'll drink some wine, I'll pet a llama, maybe I'll even do some writing. But traditional finance fails me. The airline refuses my cards. All of them. Cryptocards, debit cards, credit card from a reputable European bank. Declined and denied with a vague error and a customer service bot which repeatedly tells me that foreign cards are not a problem and I should check that I entered my card details correctly. I have half a dozen new apps on my phone to pay with stablecoins. I've gone through the KYC and been accepted for most of them, so that I can test them one-by-one. Mostly they work well. I don't even need to put money in them in advance; once I know what I want to buy, I can quickly move stablecoins into the app and they appear immediately. But the apps are no use to me for paying for online purchases; I need a person with a terminal generating a QR code to use them. There's third-party aggregator that looks like it scraped the flight off of Google but actually allows me to pay for the flight. Just one catch: no luggage. Not even a carry on. They suggest that I buy extras separately, from the airline that cannot manage a card transaction. Fine. I don't need luggage. I strip my belongings down to the essentials. There's a storage company that operates on some sort of decentralized custody protocol for personal belongings. You book online, get the address of a location somewhere in your chosen neighbourhood, and give them all of your earthly possessions. My assigned drop point is a phone shop in San Telmo, crammed with AI-art cases and knockoff chargers. I give them my number and hand them my suitcase. All I can do is trust that the shop is still here when I return. I take the bus to the airport wearing three layers of clothing, a spare set of underwear shoved into my handbag. I have both phones, Kindle, tablet and keyboard and a tangle of cables tucked into my hoodie pockets, looking like one of those street vendors who open up their coat and show you a wide range of goods. At the airport, I unpack everything to pass through security. I need three trays. After I pack myself back up, a man with a wand points out that I have a cable trailing behind me. At the gate, the Argentines start forming a queue an hour before boarding, pure social contract magic. I stay seated like a savage until I see our plane pull up to the gate and dump its last cargo of tourists and gauchos. I squish into the middle seat and try to keep my hoodie spilling over the sides, redistributing items until I finally get the seatbelt over my middle. I do not exhale for the entire two hour flight. The airport is not in San Salvador and the bus to Tilcara, my chosen destination, is. I purchase a shuttle ticket and wait outside to stand in the rain until it is full and we are ready to go. The bus station is impossibly clean and bright. A woman at an information booth appears improbably happy to see me, checks the time and tells me which bus company has a bus leaving next which will stop at Ticara. The woman at the bus company is less happy to see me but, after realizing that I blatantly don't have a clue what I am doing, writes helpful notes in the margins of my ticket: bus will arrive in 40 minutes, somewhere between bay 08 and 13, it will say Humahuaca on the front and Evelia on the side. I ask if they take QR payments. She points out that there is a 10% discount for cash for the ticket. I pay cash. Forty minutes later, I wedge myself into my bus seat, attempting to take off my hoodie in a way that does not tip all of my electronics on the floor. And then we drive. The windows fog up and all I can see outside is black rain. I am desperate not to fall asleep and end up in some abandoned village where they've never heard of Ethereum or vowels. It's past eleven when the bus pulls into Tilcara. A cracked parking lot. A couple of guys loitering with intent. I check my phone: a 25-minute walk to the hostel, which I had glibly told the hostel would be easy as I have no bags. The air is thin and every road heads uphill. I can't find any street signs. The paved road quickly deteriorates into a dirt track. Shop shutters rattle closed as I walk past. When I manage to make eye contact with anyone, I get a dead stare. Every time I check my phone map, it tells me that I've gone the wrong way. Again. I should have stayed in Buenos Aires, I think. I loved every millimeter of Buenos Aires. People mostly smiled at me, said hello. There were coffee shops and restaurants and street lights. Here, there's just dirt and altitude. Defiantly, I mutter buenas noches under my breath at the next person coming towards me. She nods, replies. Shit. Am I supposed to be greeting people? Two turns from my hostel, the road dips downhill. Somewhere along the way, I climbed up a hill I didn't need to. I curse the Andean gods and keep walking. Finally, I arrive, punch in the code, and crash into my bed. It's midnight. I sleep like the dead. And then, morning. It's like someone rewired Tilcara overnight. It's beautiful. Still dusty and crumbling but golden in the morning light with misty black and red mountains creating a backdrop that looks like a motivational poster. I discover that street signs do exist, just not where you'd expect, hand painted onto walls and fences at random heights as you walk down the road. I scan the restaurant chalkboards, making mental lists of all the dishes I want to try, then pause, not quite emotionally ready to consider Llama al Malbec for my special evening meal. Maybe tomorrow. The locals have stern faces carved from stone until I whisper buen día, at which point they smile and greet me. I try it louder. Everyone seems happy to see me. Some even ask que tál?, how are you?, and actually seem to expect an answer. I respond with a slump and a wheeze, universal code for every road in this town is uphill and I am dying. I am met with laughter, sympathy and one invitation to a cold beer (I should have said yes). The hotel also gives a 10% discount for paying in cash, so I use up the rest of the pesos from Blue. I ask the woman if she knows where I can buy pesos in Tilcara. There are two Western Unions in town and a gift shop called Native Art who will exchange dollars for pesos. But what about stablecoins? She stares at me blankly. Never mind, I tell her. It doesn't matter anymore. And it really doesn't. Next up is the conclusion: Apparently I Did It Wrong ("You should have just used X, bro.")
 
-4h ago
+6h ago
 
 ---
 
@@ -96,7 +96,7 @@ This is Part Seven of the eight-part series: Can I Pay With This: A stablecoin e
 
 My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 21h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 23h ago
 
 ---
 
@@ -104,7 +104,7 @@ My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
 1️⃣ From Research to Reality – An EIP’s Journey with Pooja Ranjan The summit kicks off by bridging the gap between abstract research and deployed code. A must-watch for understanding the EIP Process. 📺 Watch it here: https://youtu.be/wH76j1BDZkc #Ethereum #EIP #EthereumGovernance #EthCommunity 2️⃣ Don’t just use Ethereum: help shape it! with Jochem Brouwer Jochem argues that providing feedback on EIP drafts is a civic duty. Silence leads to consensus bugs. Learn how to break the silence on the Magicians forum. 📺 Watch it here: https://youtu.be/ZVHHsKS6Kxo #Ethereum #EIPSummit #EIPs 3️⃣ From Draft to Inclusion: A Proposal’s Journey with Jihoon Song Writing the EIP is only 5% of the work. The hard part is convincing people to consider it. Jihoon shows how to talk to the right people and handle the Core Dev meetings to get your idea accepted. 📺 Watch it here: https://youtu.be/i8HO-bAivno #EIPSummit #EIPs #EIPProcess #CoreDev 4️⃣ From Specification to Syncing a Node: Ensuring Upgrade Readiness with Parithosh Jayanthi How do you test a $500B+ network without breaking it? Inside the industrial supply chain of Ethereum testing: from Hive unit tests to mainnet Shadow Forks. 🏗️ 📺 Watch it here : https://youtu.be/9yTrzNCd0Gk #Testing #Devnets #ShadowForks 5️⃣ Code is Law: Avoiding Spec-ulation for Faster Forks with danceratopz & raxhvl The propose accelerating Ethereum forks by tightly coupling EIP markdown with executable specs, ensuring every text change is instantly verified by code to eliminate ambiguity. 📺 Watch: https://youtu.be/h5sUMWD9Yus #Ethereum #SpecReview #Testing 6️⃣ EIP-8007: A major update to EVM gas prices with Maria Inês Silva A quick explainer on why Meta EIP listing all related EIPs matters. How authors propose to reshapes gas pricing, and what this means for developers, performance & future upgrades. 📺 Watch: https://youtu.be/HpRNP8tc0lY #EIP8007 #EVM #GasCosts #GasPricing 7️⃣ From Idea to EIP: A First-Time Author’s Journey with German Abal How a first-time contributor turns an idea into a real EIP - from drafting to reviews, feedback loops, and working with editors. 📺 Watch here: https://youtu.be/WcGYlzUChUE #EIPEditors #EthGovernance #EthereumStandards 8️⃣ ERCs in Focus - ERC-8028: AI Assets On-Chain with Thiru The video explains how ERC-8028 anchors AI data on-chain using DAT, enabling trust, provenance, and verifiable AI workflows. A simple breakdown of why this ERC matters for the future of AI + Ethereum standards. 📺 Watch: https://youtu.be/RaeBZiE0rDA #ERC8028 #ERCs #AIonChain #DAT 9️⃣ Meet EIP Editor Sam Wilson He breaks down what EIP editors do, how proposals are reviewed, and how Ethereum standards keep evolving. 📺 Watch: https://youtu.be/YHZviU19di0 #EIPEditors #EIPProcess #EthereumStandards 🔟 The Final Episode - ERC-1202: Voting Interface with Victor Zhou See how ERC-1202 enables flexible, on-chain voting mechanisms for DAOs & governance tools. A clean walkthrough of the standard, design choices, and real-world use cases. 📺 Watch: https://youtu.be/_szGTp49L5E #ERC1202 #OnChainVoting #GovernanceTech The EIP Summit was more than just talks; it was a call to action. Ethereum needs authors, reviewers, and testers. Special thanks to all speakers and the ECH Institute team! 😸 #Ethereum #Devconnect #EIPs #Web3
 
-21h ago
+22h ago
 
 ---
 
@@ -188,11 +188,11 @@ The Block • 3d ago
 
 ---
 
-**[Ethereum Price Swells as Fusaka Upgrade Goes Live](https://finance.yahoo.com/news/ethereum-price-swells-fusaka-upgrade-051052394.html)**
+**[Ethereum Is Jumping Today-Here's Why](https://www.nasdaq.com/articles/ethereum-jumping-today-heres-why)**
 
-Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade.
+Key PointsEthereum receives a major update today that should improve its ability to scale.
 
-Yahoo Finance • 2d ago
+Nasdaq • 3d ago
 
 ---
 
@@ -220,11 +220,11 @@ Seeking Alpha • 1d ago
 
 ---
 
-**[Ethereum supply drops – Yet Tom Lee insists ‘$3K is still undervalued’](https://ambcrypto.com/ethereum-supply-drops-yet-tom-lee-insists-3k-is-still-undervalued/)**
+**[Ethereum tops 24-hour net inflows with $138.7M: Artemis](https://cryptobriefing.com/ethereum-tops-24h-inflows-artemis/)**
 
-ETH is trading differently than traditional tech stocks.
+Ethereum tops the digital asset market with $138.7M in 24-hour net inflows, highlighting strong investor interest.
 
-AMBCrypto • 10h ago
+Crypto Briefing • 1h ago
 
 ---
 
@@ -258,7 +258,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 560 • 👍 43 • 💬 25 • ⏱️ 12:08 • 9h ago
+👁️ 560 • 👍 43 • 💬 25 • ⏱️ 12:08 • 10h ago
 
 ---
 
@@ -268,7 +268,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 210 • ⏱️ 11:32 • 4h ago
+👁️ 20K • 👍 1K • 💬 210 • ⏱️ 11:32 • 6h ago
 
 ---
 
@@ -278,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 172 • 💬 9 • ⏱️ 5:03 • 8h ago
+👁️ 2K • 👍 172 • 💬 9 • ⏱️ 5:03 • 10h ago
 
 ---
 
@@ -298,7 +298,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 8K • 👍 572 • 💬 80 • ⏱️ 36:53 • 5h ago
+👁️ 8K • 👍 572 • 💬 80 • ⏱️ 36:53 • 7h ago
 
 ---
 

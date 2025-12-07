@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T02:26:25.330372+00:00'
+updated: '2025-12-07T03:46:13.030025+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 02:26 UTC  
+**Last Updated:** December 07, 2025 at 03:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 12h ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 13h ago
 
 ---
 
@@ -49,7 +49,7 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 16h ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 17h ago
 
 ---
 
@@ -57,15 +57,13 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 … and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
 
-10h ago
+11h ago
 
 ---
 
-**[AI has destroyed apathy in human beings](https://www.reddit.com/r/artificial/comments/1pg6qg5/ai_has_destroyed_apathy_in_human_beings/)**
+**[Hello again...GRADIUS](https://www.reddit.com/r/artificial/comments/1pg3kjh/hello_againgradius/)**
 
-Anything you post in social media, people are shouting from rooftop, this is AI generated. AI slopes, I do not want to see AI generated things, etc. Companies are stealing prompts from employees and replacing them with AI agents. So if AI agents can not replace humans, AI agents with all stolen prompts from humans can easily replace humans. I do not see, any world leader/billionaire demanding "Universal Basic Income" to keep the human civilization thriving. World is heading to a wrong direction.
-
-9m ago
+4h ago
 
 ---
 
@@ -77,25 +75,19 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 ---
 
-**[Could OpenAI’s financial future hinge on teens making deepfakes?](https://www.reddit.com/r/artificial/comments/1pg00rb/could_openais_financial_future_hinge_on_teens/)**
-
-If a new California ballot measure passes, it could block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO. To justify its massive valuation without Wall Street, OpenAI may lean even more heavily on engagement on its consumer-facing platforms, like Sora2. Instrumental and Ekō's recent research into how Sora2 enables harm shows why this could be a bad idea. For everybody.
-
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 5h ago
-
----
-
-**[Hello again...GRADIUS](https://www.reddit.com/r/artificial/comments/1pg3kjh/hello_againgradius/)**
-
-2h ago
-
----
-
 **[How are Americans using AI? Evidence from a nationwide survey | Brookings](https://www.reddit.com/r/artificial/comments/1pfv1kr/how_are_americans_using_ai_evidence_from_a/)**
 
 Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
 
-🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 8h ago
+🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 10h ago
+
+---
+
+**[Could OpenAI’s financial future hinge on teens making deepfakes?](https://www.reddit.com/r/artificial/comments/1pg00rb/could_openais_financial_future_hinge_on_teens/)**
+
+If a new California ballot measure passes, it could block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO. To justify its massive valuation without Wall Street, OpenAI may lean even more heavily on engagement on its consumer-facing platforms, like Sora2. Instrumental and Ekō's recent research into how Sora2 enables harm shows why this could be a bad idea. For everybody.
+
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 6h ago
 
 ---
 
@@ -103,7 +95,7 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 1) Strategist 2) Researcher 3) Coder 4) Analyst 5) Critic 6) Fixer 7) Teacher-Documenter 8) Final output Assembler/Presenter
 
-2h ago
+4h ago
 
 ---
 
@@ -111,7 +103,15 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 20h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 21h ago
+
+---
+
+**[The Prompt I’ve Been Using to Stop Wasting My Workday](https://www.reddit.com/r/artificial/comments/1pfz7ol/the_prompt_ive_been_using_to_stop_wasting_my/)**
+
+Lately I’ve been trying to get my days under control because I kept doing that thing where you “work all day” but somehow… get nothing important done. 😅 I started using this daily planning prompt, and it’s actually helped me stop winging my schedule and start planning based on how much energy I actually have and what truly matters. Sharing it here in case it helps someone else: Help me plan my workday effectively. Today's date: [Date] Work hours available: [Start time - End time] Energy level today: [High/Medium/Low] Must-do tasks: [Task with deadline/importance] [Task with deadline/importance] [Task with deadline/importance] Should-do tasks: [Task] [Task] Nice-to-do tasks: [Task] [Task] Meetings/commitments: ● [Time]: [Meeting/commitment] ● [Time]: [Meeting/commitment] Context: ● My peak productivity time: [When you work best] ● Types of work I do: [Deep work, meetings, admin, creative, etc.] ● Current biggest project: [What's most important this week] Create an optimized schedule that: Time Block Schedule: [Hour by hour breakdown considering energy levels and task types] Task Sequence: Why this order makes sense (considering priority, energy, dependencies) Focus Strategies: ● Batching similar tasks ● Protecting deep work time ● Handling interruptions ● When to take breaks Evening Reflection Prompts: Questions to ask myself at end of day to improve tomorrow Make it: ● Realistic (includes buffer time) ● Energy-optimized (hard tasks when fresh) ● Flexible (can adjust if things shift) What it gives back A simple time-blocked schedule, the order to tackle tasks (with actual reasoning), focus strategies, and a few reflection questions so you don’t end the day wondering where your time went. It’s not “productivity guru” complicated, it just keeps you honest about your energy and priorities instead of cramming everything into the same to-do list. If you want more prompts like this, I’ve got a small prompt library, just let me know if you want it. 👍
+
+7h ago
 
 ---
 
@@ -123,21 +123,13 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
-**[Nvidia vs. Everybody Else: Competition Mounts Against the Top AI Chip Company](https://www.wsj.com/tech/ai/nvidia-ai-chips-competitors-amd-broadcom-google-amazon-6729c65a?gaa_at=eafs&gaa_n=AWEtsqeCk_tAly7m0783sD7PQs8ELmXQV0rSQmRKs-KrVjSRwLsmiSQa4qPp&gaa_ts=6934e93c&gaa_sig=J1IO5J5J8O73v1j4oDVQ5H86U7XkNz1kxm24KZrp32E9F2e23gl2hVv7mcivzl2TYmg3IUD-VHk4qAollDcoCQ%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqdItPPWIkWXTjJBk8J-PCDZ5dXn7gA1BYSkIFVY48n7ojiZv-jrtct6&gaa_ts=6934fbf0&gaa_sig=ZxxQ3VOYRpr_kf8mv5J71L4o19wG7GIUkDGqL7vZHSEnY02wdE-BmFK3pH1b-Yyu_zTAEAp2OwZOwXjqTivoNg%3D%3D)**
 
-The Wall Street Journal • 23h ago
-
----
-
-**[Why OpenAI’s AI Data Center Buildout Faces A 2026 Reality Check](https://www.forbes.com/sites/paulocarvao/2025/12/06/why-openais-ai-data-center-buildout-faces-a-2026-reality-check/)**
-
-OpenAI’s trillion-dollar data center ambitions face hard market, demand and infrastructure limits that could force a 2026 reality check.
-
-Forbes • 58m ago
+The Wall Street Journal • 10h ago
 
 ---
 
@@ -145,15 +137,13 @@ Forbes • 58m ago
 
 China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
-**[Can AI help forecasters better predict destructive hurricanes?](https://abcnews.go.com/US/ai-forecasters-predict-destructive-hurricanes/story?id=128083437)**
+**[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
 
-AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
-
-ABC News • 16h ago
+The New York Times • 1d ago
 
 ---
 
@@ -165,9 +155,11 @@ The Keyword • 1d ago
 
 ---
 
-**[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
+**[Can AI help forecasters better predict destructive hurricanes?](https://abcnews.go.com/US/ai-forecasters-predict-destructive-hurricanes/story?id=128083437)**
 
-The New York Times • 1d ago
+AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
+
+ABC News • 17h ago
 
 ---
 
@@ -181,7 +173,7 @@ The Economist • 2d ago
 
 Today’s leading AI models can already write and refine their own software. The question is whether that self-improvement can ever snowball into true superintelligence
 
-Scientific American • 14h ago
+Scientific American • 15h ago
 
 ---
 
@@ -190,6 +182,12 @@ Scientific American • 14h ago
 What 1,250 professionals told us about working with AI
 
 Anthropic • 2d ago
+
+---
+
+**[‘It’s like the lottery’: The AI boom has created parking chaos in this S.F. neighborhood](https://www.sfchronicle.com/sf/article/mission-car-parking-san-francisco-21221645.php)**
+
+San Francisco Chronicle • 15h ago
 
 ---
 
@@ -209,7 +207,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 545 • 💬 281 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 546 • 💬 281 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -225,7 +223,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 385 • 💬 213 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 385 • 💬 215 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -249,7 +247,7 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 
 Welcome to the slop era.
 
-⬆️ 97 • 💬 180 • 1d ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
+⬆️ 97 • 💬 181 • 1d ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 
 ---
 
@@ -285,7 +283,7 @@ Wall Street lends billions to AI companies while using credit derivatives and so
 
 📺 Bob Reese
 
-👁️ 7.5M • 👍 225K • 💬 2K • ⏱️ 1:02 • 23h ago
+👁️ 7.5M • 👍 225K • 💬 2K • ⏱️ 1:02 • 1d ago
 
 ---
 
@@ -345,7 +343,7 @@ The race to unlock the secret to a longer life is on - and two sisters from a Ca
 
 📺 BBC News
 
-👁️ 18K • 👍 537 • 💬 211 • ⏱️ 8:08 • 17h ago
+👁️ 18K • 👍 537 • 💬 211 • ⏱️ 8:08 • 18h ago
 
 ---
 
@@ -375,7 +373,7 @@ World-leading AI scientist Professor Stuart Russell issues one of the most urgen
 
 📺 The Diary Of A CEO Clips
 
-👁️ 97K • 👍 2K • 💬 645 • ⏱️ 21:18 • 7h ago
+👁️ 97K • 👍 2K • 💬 645 • ⏱️ 21:18 • 8h ago
 
 ---
 
@@ -391,7 +389,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,196 • 4d ago
+⬇️ 169,515 • ❤️ 2,197 • 4d ago
 
 ---
 
@@ -403,7 +401,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 18,140 • ❤️ 752 • 5d ago
+⬇️ 18,140 • ❤️ 753 • 5d ago
 
 ---
 
@@ -471,7 +469,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 196,425 • ❤️ 909 • 9d ago
+⬇️ 196,425 • ❤️ 910 • 9d ago
 
 ---
 
@@ -621,17 +619,16 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 ---
 
-**[WizardCoder: Empowering Code Large Language Models with Evol-Instruct](https://huggingface.co/papers/2306.08568)**
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
-*Ziyang Luo, Can Xu, Pu Zhao et al. (10 authors)*
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
 
-🏢 Microsoft
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct, outperforms other open-source and closed LLMs on several code generation benchmarks.
+▲ 136 • 💬 2 • ⭐ 49,966 • 2mo ago
 
-▲ 31 • 💬 2 • ⭐ 9,470 • 30mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2306.08568) • [💻 code](https://github.com/nlpxucan/WizardLM)
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -645,7 +642,7 @@ WizardCoder, a Code LLM fine-tuned with complex instructions using Evol-Instruct
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.3k • 🔱 411 • 1d ago
+⭐ 5.3k • 🔱 412 • 2d ago
 
 ---
 
@@ -685,7 +682,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 914 • 🔱 110 • 14h ago
+⭐ 916 • 🔱 111 • 15h ago
 
 ---
 
@@ -695,7 +692,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 1h ago
+⭐ 826 • 🔱 43 • 2h ago
 
 ---
 
@@ -705,7 +702,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 815 • 🔱 22 • 12h ago
+⭐ 819 • 🔱 22 • 13h ago
 
 ---
 
@@ -715,7 +712,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 801 • 🔱 55 • 6d ago
+⭐ 802 • 🔱 55 • 6d ago
 
 ---
 
@@ -723,9 +720,9 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
-`Python`
+`Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 686 • 🔱 228 • 19h ago
+⭐ 695 • 🔱 229 • 20h ago
 
 ---
 
