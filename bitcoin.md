@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T11:45:35.464114+00:00'
+updated: '2025-12-07T11:56:30.926563+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - news
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 11:45 UTC  
+**Last Updated:** December 07, 2025 at 11:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +3.7%  
-**30d:** -12.8%  
-**90d:** -19.9%  
-**1y:** -11.6%  
+**24h:** -0.6%  
+**7d:** +3.3%  
+**30d:** -13.1%  
+**90d:** -20.1%  
+**1y:** -11.9%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
-1h ago
+2h ago
 
 ---
 
@@ -107,7 +107,7 @@ Burnsish?
 
 **[It is funny how true is this...](https://www.reddit.com/r/Bitcoin/comments/1pgfjhq/it_is_funny_how_true_is_this/)**
 
-58m ago
+1h ago
 
 ---
 
@@ -137,7 +137,7 @@ Burnsish?
 
 **[Still hodling on!!!](https://www.reddit.com/r/Bitcoin/comments/1pgct69/still_hodling_on/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -227,7 +227,7 @@ Nasdaq • 14h ago
 
 ₿OSS Challenge - start your career in bitcoin open source
 
-⬆️ 6 • 💬 1 • 2d ago • [bosschallenge.xyz](https://bosschallenge.xyz)
+⬆️ 6 • 💬 1 • 3d ago • [bosschallenge.xyz](https://bosschallenge.xyz)
 
 ---
 
