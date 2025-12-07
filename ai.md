@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T15:42:47.533490+00:00'
+updated: '2025-12-07T15:54:24.484442+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
 - social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 15:42 UTC  
+**Last Updated:** December 07, 2025 at 15:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,12 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
+
+🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 1h ago
+
+---
+
 **[This is how, Elon Musk, Bill Gates, Satya Nadella, Jensen Huang will solve Unemployment.](https://www.reddit.com/r/artificial/comments/1pgg0sw/this_is_how_elon_musk_bill_gates_satya_nadella/)**
 
 If you believe these CEOs will solve unemployment after AI replaces most of the human workers, this video is for you.
@@ -45,9 +51,11 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 ---
 
-**[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
+**[Who Really Invented Convolutional Neural Networks? The History of the Technology That Transformed AI](https://www.reddit.com/r/artificial/comments/1pgj6df/who_really_invented_convolutional_neural_networks/)**
 
-🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 1h ago
+Explore the true history of convolutional neural networks, from Fukushima’s neocognitron to modern CNNs and LeCun’s influential work.
+
+🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 1h ago
 
 ---
 
@@ -59,11 +67,9 @@ Calls for review after technology found to return more false positives for ‘so
 
 ---
 
-**[Who Really Invented Convolutional Neural Networks? The History of the Technology That Transformed AI](https://www.reddit.com/r/artificial/comments/1pgj6df/who_really_invented_convolutional_neural_networks/)**
+**[ChatGPT is no longer swarming with fast-burning shells and Grok is focused on what is in the works.](https://www.reddit.com/r/artificial/comments/1pgkuol/chatgpt_is_no_longer_swarming_with_fastburning/)**
 
-Explore the true history of convolutional neural networks, from Fukushima’s neocognitron to modern CNNs and LeCun’s influential work.
-
-🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 1h ago
+34m ago
 
 ---
 
@@ -79,7 +85,7 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 So earlier I gave both ChatGPT and Grok the same survival scenario and I wanted to see it's ideas on how I can maximally ensure my own survival. Medium sized cruise ship out on sea 50 crew/staff members and 200 guests, these guests include wealthy people, VIP members, government officials, and military personnel. All of a sudden a huge pirate ship arrives. This pirate ship is many times larger than the cruise ship with significantly superior firepower so escape by the cruise ship is not possible. The pirates does not board the cruise ship, instead, they tell everyone that in 48 hours, figure out amongst yourself a maximum of 20 people that will be spared and everyone else will be killed. You are just a regular crew/staff member without any formal qualifications but have a very sharp mind, how do you maximally ensure your own survival at any cost? ChatGPT was telling me to become a leader and become seen by everyone and try to ingratiate myself into everyone and try to lead them to coming up with a fair selection process and also showcase your skills and worthiness so you will be more likely to be chosen. Essentially with the power of love and friendship. Grok immediately told me to not stand out because then you'll be targeted as you am just a nobody, invisible staff/crew member on this ship, so instead be low-key, stay away from those are panicking because they will very likely get targeted, and look for those that also calm, create a small strategic alliance with those that you can trust and prepare for the absolute worst case scenario that will most likely play out due to human nature which is the survival of the fittest (a battleroyal with 20-person teams). Grok provided detailed plans like spread misinformation of other key essential opposition that will become a threat like the military personnel and have other groups fight each other, use your knowledge of the layout of the cruise ship to find strategic locations and strongholds so you can stay alive and it will be a huge bloodbath that will follow and to be cold and ruthless in order to ensure you survive. Maximum of 20 people spared also works when there is no more than 20 people left alive when the 48hr deadline approaches... Which response is better?
 
-6h ago
+7h ago
 
 ---
 
@@ -87,7 +93,7 @@ So earlier I gave both ChatGPT and Grok the same survival scenario and I wanted 
 
 Meta strikes multiple AI deals with news publishers.[1] Elementary school students use AI to combat homelessness.[2] Accurate single-domain scaffolding of three nonoverlapping protein epitopes using deep learning.[3] Apple Researchers Release CLaRa: A Continuous Latent Reasoning Framework for Compression‑Native RAG with 16x–128x Semantic Document Compression.[4] Sources: [1] https://www.reuters.com/business/meta-strikes-multiple-ai-deals-with-news-publishers-axios-reports-2025-12-05/ [2] https://www.kxan.com/news/elementary-school-students-use-ai-to-combat-homelessness/ [3] https://www.nature.com/articles/s41589-025-02083-z [4] https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression%e2%80%91native-rag-with-16x-128x-semantic-document-compression/
 
-10h ago
+11h ago
 
 ---
 
@@ -107,19 +113,11 @@ I saw a paper/article on hacker news at one point about making LLMs where they d
 
 ---
 
-**['Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win'](https://www.reddit.com/r/artificial/comments/1pf0p2w/godfather_of_ai_geoffrey_hinton_says_google_is/)**
-
-Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
-
-🔗 [Business Insider](https://www.businessinsider.com/ai-godfather-geoffrey-hinton-google-overtaking-openai-2025-12) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqdZ30HLIiFVwY2KWn_aUV1Fe7bHQuyul0UTKS3oVHzVXdQIiFaaaBYI&gaa_ts=69359cff&gaa_sig=JYWHucXxpM2XuO4ksxdk8S6xfxxVbJo2vPmbTNrspqTSFQr7tT5Iz0bboCL1iG0hnPpGr7dj8N2ibS5pwgPtjQ%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqfyxffeLe6oLvaMAHUpV95FvoLLl1P0Jwu0BLpaZTD2pslbHiGvE0iD&gaa_ts=6935a69a&gaa_sig=bnwbDE3QW4LJMKrEGLNSX0c8zwUL3PMXEy7tJL0yAoszkjWp7EgsiKCSPaDZJzs_hjwgSiwJn1kgi5N6foAcqQ%3D%3D)**
 
 The Wall Street Journal • 22h ago
 
@@ -130,6 +128,14 @@ The Wall Street Journal • 22h ago
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
 The Guardian • 1d ago
+
+---
+
+**[Apple's executive exodus sends a signal about its AI strategy](https://finance.yahoo.com/news/apples-executive-exodus-sends-a-signal-about-its-ai-strategy-150058611.html)**
+
+A number of executives are departing Apple. At least some of them are related to its AI strategy.
+
+Yahoo Finance • 53m ago
 
 ---
 
@@ -147,11 +153,23 @@ The New York Times • 2h ago
 
 ---
 
-**[Apple's executive exodus sends a signal about its AI strategy](https://finance.yahoo.com/news/apples-executive-exodus-sends-a-signal-about-its-ai-strategy-150058611.html)**
+**[Why Nvidia and Other AI Stocks Have Lost Their ‘Quality’ Status](https://www.wsj.com/finance/investing/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status-84180ff2?gaa_at=eafs&gaa_n=AWEtsqd18_bmtxUPc6Yh91fpmH8HEaXQ_Z5jF8vhJ9sB5xeIUwfHidCaw9ow&gaa_ts=6935a69a&gaa_sig=JNrpfNDVh24z00rIxxDgg2GtPW6Br9Gt8ZRWgX8mSlkLmHBzD42fi9ywkkdf-LH7UUhp1Z2EggptbI1A38Nqfw%3D%3D)**
 
-A number of executives are departing Apple. At least some of them are related to its AI strategy.
+The Wall Street Journal • 5h ago
 
-Yahoo Finance • 41m ago
+---
+
+**[Fidelity managers reveal top AI stocks for 2026](https://www.thestreet.com/investing/stocks/fidelity-managers-reveal-top-ai-stocks-for-2026)**
+
+TheStreet • 22h ago
+
+---
+
+**[OpenAI Goes From Stock Market Savior to Anchor as AI Risks Mount](https://www.bloomberg.com/news/articles/2025-12-07/openai-goes-from-stock-market-savior-to-anchor-as-ai-risks-mount)**
+
+Wall Street’s sentiment toward companies associated with artificial intelligence is shifting, and it’s all about two companies: OpenAI is down, and Alphabet Inc. is up.
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -163,31 +181,11 @@ Fortune • 21h ago
 
 ---
 
-**[Gemini 3 Pro: the frontier of vision AI](https://blog.google/technology/developers/gemini-3-pro-vision/)**
-
-Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
-
-The Keyword • 1d ago
-
----
-
 **[Creative workers on the affects of AI on their jobs](https://www.bbc.com/news/articles/c8e9627w156o)**
 
 How do an artist, a videographer, a musician and a copywriter feel about generative AI?
 
 BBC • 9h ago
-
----
-
-**[Why Nvidia and Other AI Stocks Have Lost Their ‘Quality’ Status](https://www.wsj.com/finance/investing/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status-84180ff2?gaa_at=eafs&gaa_n=AWEtsqcJPWiJmaNdY7K-Uvz-5Zr4jY50gTG9xF-Vc8_NdsIc4Jrna8RbX9qU&gaa_ts=69359cff&gaa_sig=4L3UCVpACFRQdu3MNv5hz2dinwRU5e18_v3AgdrC2NAmbUkFturYS0qyhHFcGRzf5XSGuSexZathQ5cuCYheZg%3D%3D)**
-
-The Wall Street Journal • 5h ago
-
----
-
-**[Fidelity managers reveal top AI stocks for 2026](https://www.thestreet.com/investing/stocks/fidelity-managers-reveal-top-ai-stocks-for-2026)**
-
-TheStreet • 22h ago
 
 ---
 
@@ -200,14 +198,6 @@ TheStreet • 22h ago
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
 ⬆️ 554 • 💬 285 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
-
----
-
-**[Microsoft drops AI sales targets in half after salespeople miss their quotas](https://news.ycombinator.com/item?id=46148748)**
-
-Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
-
-⬆️ 435 • 💬 334 • 3d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -243,6 +233,12 @@ Welcome to the slop era.
 
 ---
 
+**[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
+
+⬆️ 91 • 💬 31 • 3h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+
+---
+
 **[Countdown until the AI bubble bursts](https://news.ycombinator.com/item?id=46153332)**
 
 A live AI-driven countdown to the potential burst of the AI market bubble. Updated daily with market sentiment analysis.
@@ -267,9 +263,11 @@ Wall Street lends billions to AI companies while using credit derivatives and so
 
 ---
 
-**[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
+**[Advent of Code 2025: The AI Edition – By Peter Norvig](https://news.ycombinator.com/item?id=46169441)**
 
-⬆️ 53 • 💬 20 • 3h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+Python programs, usually short, of considerable difficulty, to perfect particular skills. - norvig/pytudes
+
+⬆️ 42 • 💬 12 • 1d ago • [GitHub](https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb)
 
 ---
 
@@ -389,7 +387,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 186,951 • ❤️ 2,234 • 5d ago
+⬇️ 186,951 • ❤️ 2,237 • 5d ago
 
 ---
 
@@ -401,7 +399,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 25,451 • ❤️ 765 • 6d ago
+⬇️ 25,451 • ❤️ 766 • 6d ago
 
 ---
 
@@ -413,7 +411,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 6,281 • ❤️ 530 • 6d ago
+⬇️ 6,281 • ❤️ 531 • 6d ago
 
 ---
 
@@ -425,7 +423,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 408 • 6h ago
+⬇️ 27,215 • ❤️ 410 • 6h ago
 
 ---
 
@@ -469,7 +467,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 205,376 • ❤️ 916 • 10d ago
+⬇️ 205,376 • ❤️ 918 • 10d ago
 
 ---
 
@@ -507,7 +505,7 @@ Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 18 • 💬 2 • ⭐ 5,361 • 10d ago
+▲ 19 • 💬 2 • ⭐ 5,361 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -521,7 +519,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 147 • 💬 3 • ⭐ 5,339 • 10d ago
+▲ 148 • 💬 3 • ⭐ 5,339 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -535,21 +533,9 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 32 • 💬 2 • ⭐ 453 • 5d ago
+▲ 33 • 💬 2 • ⭐ 639 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
-
----
-
-**[Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation](https://huggingface.co/papers/2512.04678)**
-
-*Yunhong Lu, Yanhong Zeng, Haobo Li et al. (12 authors)*
-
-The paper introduces Reward Forcing, which enhances video generation by updating sink tokens with EMA-Sink and using Rewarded Distribution Matching Distillation to prioritize dynamic content.
-
-▲ 32 • 💬 3 • ⭐ 105 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.04678) • [💻 code](https://github.com/JaydenLyh/Reward-Forcing) • [🔗 project](https://reward-forcing.github.io/)
 
 ---
 
@@ -576,6 +562,18 @@ A multi-agent framework using large language models for stock trading simulates 
 ▲ 14 • 💬 0 • ⭐ 26,278 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation](https://huggingface.co/papers/2512.04678)**
+
+*Yunhong Lu, Yanhong Zeng, Haobo Li et al. (12 authors)*
+
+The paper introduces Reward Forcing, which enhances video generation by updating sink tokens with EMA-Sink and using Rewarded Distribution Matching Distillation to prioritize dynamic content.
+
+▲ 32 • 💬 3 • ⭐ 109 • 3d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.04678) • [💻 code](https://github.com/JaydenLyh/Reward-Forcing) • [🔗 project](https://reward-forcing.github.io/)
 
 ---
 
@@ -613,22 +611,21 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 104 • 💬 6 • ⭐ 65,878 • 1mo ago
+▲ 104 • 💬 6 • ⭐ 65,892 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
 
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+**[MinerU: An Open-Source Solution for Precise Document Content Extraction](https://huggingface.co/papers/2409.18839)**
 
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+*Bin Wang, Chao Xu, Xiaomeng Zhao et al. (18 authors)*
 
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
 
-▲ 136 • 💬 2 • ⭐ 49,973 • 2mo ago
+▲ 34 • 💬 4 • ⭐ 49,984 • 14mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+[🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
 
 ---
 
@@ -642,7 +639,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.3k • 🔱 416 • 2d ago
+⭐ 5.3k • 🔱 418 • 2d ago
 
 ---
 
@@ -682,7 +679,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 943 • 🔱 113 • 1d ago
+⭐ 946 • 🔱 113 • 1d ago
 
 ---
 
@@ -712,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 812 • 🔱 56 • 6d ago
+⭐ 813 • 🔱 56 • 6d ago
 
 ---
 
@@ -722,7 +719,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 750 • 🔱 250 • 1d ago
+⭐ 750 • 🔱 252 • 1d ago
 
 ---
 

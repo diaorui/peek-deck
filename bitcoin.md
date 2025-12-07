@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T15:42:47.541803+00:00'
+updated: '2025-12-07T15:54:24.493047+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- cryptocurrency
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 15:42 UTC  
+**Last Updated:** December 07, 2025 at 15:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** +3.2%  
-**30d:** -13.1%  
-**90d:** -20.2%  
-**1y:** -12.0%  
+**24h:** -1.1%  
+**7d:** +3.0%  
+**30d:** -13.3%  
+**90d:** -20.1%  
+**1y:** -11.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1769.19B
+**Market Cap:** $1776.30B
 Rank #1
 
 **Circulating Supply:** 19,958,853 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.5%
+-29.4%
 
 **All-Time Low:** $67.81
-+130917.5%
++131180.0%
 
 ---
 
@@ -79,13 +79,7 @@ Rank #1
 
 **[It is funny how true is this...](https://www.reddit.com/r/Bitcoin/comments/1pgfjhq/it_is_funny_how_true_is_this/)**
 
-4h ago
-
----
-
-**[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
-
-12h ago
+5h ago
 
 ---
 
@@ -93,7 +87,7 @@ Rank #1
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
-5h ago
+6h ago
 
 ---
 
@@ -103,11 +97,17 @@ Rank #1
 
 ---
 
+**[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
+
+12h ago
+
+---
+
 **[Mega-rare Simpsons pattern emerging...](https://www.reddit.com/r/Bitcoin/comments/1pfzi8q/megarare_simpsons_pattern_emerging/)**
 
 Burnsish?
 
-18h ago
+19h ago
 
 ---
 
@@ -123,6 +123,12 @@ Burnsish?
 
 ---
 
+**[Me trying to predict the crypto market](https://www.reddit.com/r/Bitcoin/comments/1pggxuc/me_trying_to_predict_the_crypto_market/)**
+
+3h ago
+
+---
+
 **[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
 
 1d ago
@@ -131,19 +137,21 @@ Burnsish?
 
 **[Still hodling on!!!](https://www.reddit.com/r/Bitcoin/comments/1pgct69/still_hodling_on/)**
 
-7h ago
-
----
-
-**[Me trying to predict the crypto market](https://www.reddit.com/r/Bitcoin/comments/1pggxuc/me_trying_to_predict_the_crypto_market/)**
-
-3h ago
+8h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin’s Deep Correction Sets Stage for December Rebound, Says K33 Research](https://www.coindesk.com/markets/2025/12/05/bitcoin-s-deep-correction-sets-stage-for-december-rebound-says-k33-research)**
+
+K33 Research says market fear is outweighing fundamentals as bitcoin nears key levels. December could offer an entry point for bold investors.
+
+CoinDesk • 2d ago
+
+---
 
 **[Bitcoin Is Starting to Look Like a Digital Tulip](https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money)**
 
@@ -153,11 +161,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
+**[[LIVE]Crypto Today: Bitcoin Consolidates Below $90k, Fed Rate Cut Probability Might Spark Pump](https://finance.yahoo.com/news/live-crypto-today-bitcoin-consolidates-144723548.html)**
 
-Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
+Crypto is down again, and the drop is chewing our portfolios as we see the rise in crypto liquidations and debate on Michael Burry and his Bitcoin comments. With crypto down across major assets and liquidations climbing, we are questioning why Bitcoin is falling even while traditional markets are up. ...
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -181,25 +189,17 @@ TheStreet • 1d ago
 
 ---
 
-**[Bitcoin Price (BTC) Analysis: Crypto Winter Parallels](https://www.coindesk.com/markets/2025/12/05/bitcoin-market-echoes-early-2022-as-onchain-stress-mounts-glassnode)**
+**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
 
-Rising bitcoin supply in loss, weakening spot demand and cautious derivatives positioning were among the issues raised by the data provider in its weekly newsletter.
+Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
 
-CoinDesk • 2d ago
+Futurism • 22h ago
 
 ---
 
 **[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
 Investor's Business Daily • 17h ago
-
----
-
-**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
-
-Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
-
-Futurism • 21h ago
 
 ---
 
@@ -259,17 +259,17 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 ---
 
+**[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
+
+⬆️ 2 • 💬 0 • 45m ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+
+---
+
 **[Open Source Bitcoin Halving Countdown Clock](https://news.ycombinator.com/item?id=46107608)**
 
 Track the next Bitcoin halving event with live countdown and real-time block updates
 
 ⬆️ 2 • 💬 0 • 6d ago • [bitcoinhalvingcountdown.com](https://bitcoinhalvingcountdown.com)
-
----
-
-**[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
-
-⬆️ 1 • 💬 0 • 34m ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 

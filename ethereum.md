@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T15:42:47.547786+00:00'
+updated: '2025-12-07T15:54:24.499591+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- cryptocurrency
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 15:42 UTC  
+**Last Updated:** December 07, 2025 at 15:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** +6.3%  
-**30d:** -12.5%  
-**90d:** -31.0%  
-**1y:** -25.8%  
+**24h:** -2.5%  
+**7d:** +6.6%  
+**30d:** -12.2%  
+**90d:** -30.8%  
+**1y:** -25.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $356.72B
+**Market Cap:** $359.28B
 Rank #2
 
 **Circulating Supply:** 120,695,408 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--40.1%
+-39.7%
 
 **All-Time Low:** $0.43
-+683665.3%
++688224.4%
 
 ---
 
@@ -84,11 +84,19 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 ---
 
+**[🔥 BIG: Tom Lee sees $ETH potentially hitting $62,000.](https://www.reddit.com/r/ethereum/comments/1pglij9/big_tom_lee_sees_eth_potentially_hitting_62000/)**
+
+https://preview.redd.it/4i6vd8s1zs5g1.jpg?width=1024&format=pjpg&auto=webp&s=8ade78d2d5b77ecb491060b7f64ca01db67fe82a https://preview.redd.it/j6d3n5s1zs5g1.jpg?width=1052&format=pjpg&auto=webp&s=679a2702f83ebacccac9c1343abede4882936ebd What you Guys Think ?
+
+7m ago
+
+---
+
 **[Legitimate discussion on sharding and Ethereum shut down by Edmund Edgar for wrong reasons](https://www.reddit.com/r/ethereum/comments/1pgep0z/legitimate_discussion_on_sharding_and_ethereum/)**
 
 I'm the inventor of the "simultaneous video event" Gavin Wood is currently pursuing (Gavin built the first version of Ethereum, then Jeffrey Wilckes and his team built the Golang, and then more came). I have followed "scaling" discussion since 2014, but always found that it was misunderstanding the Nakamoto consensus. But since my proof-of-unique-person requires someone to solve scaling, I took some more looks at the topic and I realized that what the discussion was missing is that the consensus should not be split. Everything happening under a "block of authority" should be by the same group, who trusts one another internally. With that, parallelization can still happen, but the consensus is not split. The concept is really similar otherwise to the "sharding" discussion, it only avoids splitting the consensus. What the discussion in Ethereum was typically in the past decade was to instead randomly assign validators to "shards" from the validator pool. This approach fundamentally misunderstands the consensus. As I realized what everyone got wrong, I was unable to find a system that actually did scale the way things should be done. But, I then noticed there is a system. But if I even mention that here, this gets removed. Not because of the topic I raise, but because of guilt by association. You have created a "community" where you have erased the roots to it, as well as made mention of actual competition (as the roots are often a form of competition, Steve Wozniak would remain a form of competition even as the computer industry outgrew his Apple 2 etc). The system I mentioned is teranode, that is parallelizing the block production but they do so internally under a singular trusted central authority for the "block". Of course Ethereum was the next step after Bitcoin, and my proof-of-unique-person is fundamentally based on the Ethereum paradigm. But Satoshi was who came up with the consensus. Buterin came up with the Turing completeness. Buterin, and Gavin Wood, and Jeffrey Wilckes, were all geniuses in my eyes. But so was Satoshi. "Removing this because it's not about Ethereum. It sort of pretends to be but doesn't make any attempt to work out what Ethereum sharding actually is so the point is clearly just to shill some Craig Wright thing. " Edmund Edgar
 
-5h ago
+6h ago
 
 ---
 
@@ -135,14 +143,6 @@ This is Part Six of the eight-part series: Can I Pay With This: A stablecoin exp
 **[Daily General Discussion December 05, 2025](https://www.reddit.com/r/ethereum/comments/1penica/daily_general_discussion_december_05_2025/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
-**[Here's the full tech stack including ethereum rollups deployment platform we use to run our blockchain game with 10k players](https://www.reddit.com/r/ethereum/comments/1peu4wz/heres_the_full_tech_stack_including_ethereum/)**
-
-saw some questions about production web3 gaming setups so figured i'd share our full stack, we run a multiplayer game with about 10k active players. frontend: unity for game client, react for web dashboard smart contracts: solidity, hardhat for development, foundry for testing infrastructure: caldera for rollup deployment, alchemy for backup rpc calls, the graph for indexing monitoring: tenderly for transaction monitoring, sentry for error tracking deployment: github actions for ci/cd, vercel for web hosting analytics: mixpanel for user analytics, dune for on chain analytics The infrastructure piece was the biggest decision, we initially tried deploying our own rollup but it was a nightmare, switched to managed solution and shipped way faster. deployment was straightforward and support has been solid when we needed it. The biggest cost is actually alchemy for backup rpc even though we have our own nodes, turns out redundancy is worth it when you have paying users. whole stack runs about $800-1000 per month. We use both hardhat and foundry because hardhat for deployment scripts and foundry for testing since its way faster. mostly standard ethereum tools, game specific stuff is all in unity not on chain. Im happy to answer questions about any of these choices or tradeoffs we made.
 
 2d ago
 
@@ -218,11 +218,11 @@ CryptoSlate • 2d ago
 
 ---
 
-**[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
+**[Bitcoin Drops, Ethereum Plummets: Inside the Latest Crypto Swing With Tony Edward](https://www.cheddar.com/media/bitcoin-drops-ethereum-plummets-inside-the-latest-crypto-swing-with-tony-edward/)**
 
-Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
+Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
-Seeking Alpha • 2d ago
+cheddar.com • 2d ago
 
 ---
 
@@ -316,7 +316,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 201 • 💬 11 • ⏱️ 5:03 • 21h ago
+👁️ 3K • 👍 201 • 💬 11 • ⏱️ 5:03 • 22h ago
 
 ---
 
