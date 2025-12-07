@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T17:43:09.207270+00:00'
+updated: '2025-12-07T17:54:12.617092+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
+- news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 17:43 UTC  
+**Last Updated:** December 07, 2025 at 17:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Who Really Invented Convolutional Neural Networks? The History of the Technology That Transformed AI](https://www.reddit.com/r/artificial/comments/1pgj6df/who_really_invented_convolutional_neural_networks/)**
+
+Explore the true history of convolutional neural networks, from Fukushima’s neocognitron to modern CNNs and LeCun’s influential work.
+
+🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 3h ago
+
+---
+
 **[This is how, Elon Musk, Bill Gates, Satya Nadella, Jensen Huang will solve Unemployment.](https://www.reddit.com/r/artificial/comments/1pgg0sw/this_is_how_elon_musk_bill_gates_satya_nadella/)**
 
 If you believe these CEOs will solve unemployment after AI replaces most of the human workers, this video is for you.
@@ -45,11 +53,11 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 ---
 
-**[Who Really Invented Convolutional Neural Networks? The History of the Technology That Transformed AI](https://www.reddit.com/r/artificial/comments/1pgj6df/who_really_invented_convolutional_neural_networks/)**
+**[AI Just Simulated Human Cells](https://www.reddit.com/r/artificial/comments/1pgmegp/ai_just_simulated_human_cells/)**
 
-Explore the true history of convolutional neural networks, from Fukushima’s neocognitron to modern CNNs and LeCun’s influential work.
+Could AI help us create virtual human cells? 🦠 Scientists are training AI to create virtual human cells, digital models that mimic how real cells behave. These simulations can predict how a cell might respond to medication, genetic mutations, or physical damage. While live lab tests are still essential, AI-powered models could make research faster, safer, and more personalized. By reducing trial-and-error in early stages, these tools could unlock faster drug discovery and bring us closer to tailored treatments for individuals.
 
-🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 3h ago
+1h ago
 
 ---
 
@@ -59,11 +67,11 @@ Explore the true history of convolutional neural networks, from Fukushima’s ne
 
 ---
 
-**[AI Just Simulated Human Cells](https://www.reddit.com/r/artificial/comments/1pgmegp/ai_just_simulated_human_cells/)**
+**[Get 1 month of ChatGPT free by "cancelling" your paid plan](https://www.reddit.com/r/artificial/comments/1pgoc3j/get_1_month_of_chatgpt_free_by_cancelling_your/)**
 
-Could AI help us create virtual human cells? 🦠 Scientists are training AI to create virtual human cells, digital models that mimic how real cells behave. These simulations can predict how a cell might respond to medication, genetic mutations, or physical damage. While live lab tests are still essential, AI-powered models could make research faster, safer, and more personalized. By reducing trial-and-error in early stages, these tools could unlock faster drug discovery and bring us closer to tailored treatments for individuals.
+Just did this myself, and now sharing for others! I have ChatGPT Plus, and when I tried to cancel it offered me a free month. Worked for two of my friends as well. Steps Go to chatgpt on your web browser At the bottom left click on your name (you need to be logged in) Click on Settings Click on last section: Account Near top right click on: Manage Click on: Cancel Subscription Done!
 
-1h ago
+13m ago
 
 ---
 
@@ -93,7 +101,7 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 Meta strikes multiple AI deals with news publishers.[1] Elementary school students use AI to combat homelessness.[2] Accurate single-domain scaffolding of three nonoverlapping protein epitopes using deep learning.[3] Apple Researchers Release CLaRa: A Continuous Latent Reasoning Framework for Compression‑Native RAG with 16x–128x Semantic Document Compression.[4] Sources: [1] https://www.reuters.com/business/meta-strikes-multiple-ai-deals-with-news-publishers-axios-reports-2025-12-05/ [2] https://www.kxan.com/news/elementary-school-students-use-ai-to-combat-homelessness/ [3] https://www.nature.com/articles/s41589-025-02083-z [4] https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression%e2%80%91native-rag-with-16x-128x-semantic-document-compression/
 
-12h ago
+13h ago
 
 ---
 
@@ -105,19 +113,11 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 ---
 
-**[How is the deterministic LLM work coming along?](https://www.reddit.com/r/artificial/comments/1pgbjp0/how_is_the_deterministic_llm_work_coming_along/)**
-
-I saw a paper/article on hacker news at one point about making LLMs where they did not use floating point gpus to do their calculations so you wouldn't get the non-deterministic problem (ask same question get different response). How is that going? I work with RAG tech and it seems amazing but it also is sketch when a table is read incorrectly and values are off by a significant figure.
-
-11h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqeBjX-JeRpeNIa8aL4lIPbdqJxDULmvwXNpB2FHpNYRkUUdGEjx1wC4&gaa_ts=6935b932&gaa_sig=bb93C2vU2V1HGyP1NB7590LHMdrJVP0d1_S-xxw9VS3LWaY0BETj6PnkMTELl6bSdp6xFKu5OSPGCQMDV37PHQ%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqdSmGquK24xydDAmyDFxZj1mqTxWCRU84dm-MQa1GA6CRWMjlnj55Gz&gaa_ts=6935c2b1&gaa_sig=smiOL4mu2vXh01ywBmtmjVUIgcaQuVEesd_c2HV-i5cdNd_aW2EBQ9X6FbuSDkWtgFbfF5QTTEFXsxi1HaGFxA%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -139,36 +139,6 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[There's a new face in Hollywood, generated by AI](https://www.cbsnews.com/video/theres-a-new-face-in-hollywood-generated-by-ai/)**
-
-Tilly Norwood is unlike any other aspiring TV or movie star: Tilly is entirely generated by artificial intelligence. Jo Ling Kent talks with Tilly's creator, Eline Van der Velden, about her goal of producing "the Scarlett Johansson of the AI genre." Kent also talks with Kevin Reilly, CEO of Kartel ai, a Beverly Hills tech startup; and with SAG-AFTRA president Sean Astin, about the impact of AI on Hollywood and the actors' union.
-
-CBS News • 3h ago
-
----
-
-**[Why Nvidia and Other AI Stocks Have Lost Their ‘Quality’ Status](https://www.wsj.com/finance/investing/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status-84180ff2?gaa_at=eafs&gaa_n=AWEtsqdMRAq2yJgcrRaPC0HdEdEchHdX6UX0HtQnTy1Ood5BC3J2fT_vhKVV&gaa_ts=6935b932&gaa_sig=SjxFqaZp32Zj7ougDekRmlxEDyEJKrX4Do9aDrzZxDjehgtvBStsZ3qGl6YguYI0QlMYnSrSjQQy5YYk365MKQ%3D%3D)**
-
-The Wall Street Journal • 7h ago
-
----
-
-**[A Once-in-a-Decade Investment Opportunity: 2 Brilliant AI Stocks to Buy Now (Hint: Not Nvidia or Palantir)](https://www.nasdaq.com/articles/once-decade-investment-opportunity-2-brilliant-ai-stocks-buy-now-hint-not-nvidia-or)**
-
-Key PointsArtificial intelligence (AI) is arguably the most transformative technology since the internet reshaped the global economy.
-
-Nasdaq • 13h ago
-
----
-
-**[OpenAI Goes From Stock Market Savior to Burden as AI Risks Mount](https://www.bloomberg.com/news/articles/2025-12-07/openai-goes-from-stock-market-savior-to-anchor-as-ai-risks-mount)**
-
-Wall Street’s sentiment toward companies associated with artificial intelligence is shifting, and it’s all about two companies: OpenAI is down, and Alphabet Inc. is up.
-
-Bloomberg.com • 3h ago
-
----
-
 **[Nvidia CEO says U.S. data centers take 3 years, but China 'can build a hospital in a weekend'](https://fortune.com/2025/12/06/nvidia-ceo-jensen-huang-ai-race-china-data-centers-construct-us/)**
 
 China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
@@ -177,17 +147,49 @@ Fortune • 23h ago
 
 ---
 
-**[Nvidia’s CEO says AI adoption will be gradual, but when it does hit, we may all end up making robot clothing](https://fortune.com/2025/12/06/nvidia-jensen-huang-ai-adoption-creep-gradual-robot-clothing/)**
+**[Dario Amodei on the Risk of an A.I. Bubble, Regulation and A.G.I.](https://www.nytimes.com/2025/12/07/business/dealbook/dario-amodei-dealbook.html)**
 
-Jobs that consist entirely of routine tasks are most at risk of AI disruption, Huang said.
-
-Fortune • 1d ago
+The New York Times • 4h ago
 
 ---
 
-**[AI’s Next Challenge: Take the CEO’s Job](https://www.wsj.com/tech/ai/ais-next-challenge-take-the-ceos-job-e9e2fe98?gaa_at=eafs&gaa_n=AWEtsqcslKmr7vCKYJ2J-HZrgL0YzEV-fRjOXyZXtM2ZMUGf4v6-GSUOonzr&gaa_ts=6935b932&gaa_sig=qkC_5NyAgUai4gK72zCHQ4oWmuQ3CvxIlaCn7-scOPeZOtAbjkAYcMWlQD5F1aM818-vdOhO60eB1-YmaiSatA%3D%3D)**
+**[This AI Model Can Intuit How the Physical World Works](https://www.wired.com/story/how-one-ai-model-creates-a-physical-intuition-of-its-environment/)**
 
-The Wall Street Journal • 3h ago
+The V-JEPA system uses ordinary videos to understand the physics of the real world.
+
+WIRED • 17h ago
+
+---
+
+**[Chinese internet companies are ramping AI spending. These local players may benefit](https://www.cnbc.com/2025/12/07/chinese-internet-tech-ramp-up-ai-spend-who-could-benefit.html)**
+
+Chinese internet companies increasingly say they don't have enough compute to power their artificial intelligence ambitions.
+
+CNBC • 4h ago
+
+---
+
+**[There's a new face in Hollywood, generated by AI](https://www.cbsnews.com/video/theres-a-new-face-in-hollywood-generated-by-ai/)**
+
+Tilly Norwood is unlike any other aspiring TV or movie star: Tilly is entirely generated by artificial intelligence. Jo Ling Kent talks with Tilly's creator, Eline Van der Velden, about her goal of producing "the Scarlett Johansson of the AI genre." Kent also talks with Kevin Reilly, CEO of Kartel ai, a Beverly Hills tech startup; and with SAG-AFTRA president Sean Astin, about the impact of AI on Hollywood and the actors' union.
+
+CBS News • 3h ago
+
+---
+
+**[AI Researchers Say They’ve Invented Incantations Too Dangerous to Release to the Public](https://futurism.com/artificial-intelligence/ai-researchers-dangerous-prompts)**
+
+A team of researchers found prompts that are so effective at tricking AI models that they're keeping them under wraps.
+
+Futurism • 4h ago
+
+---
+
+**[Gemini 3 Pro: the frontier of vision AI](https://blog.google/technology/developers/gemini-3-pro-vision/)**
+
+Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
+
+The Keyword • 2d ago
 
 ---
 
@@ -207,7 +209,7 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 401 • 💬 222 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 401 • 💬 223 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -229,7 +231,7 @@ An empirical study analyzing over 100 trillion tokens of real-world LLM interact
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 156 • 💬 58 • 5h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 176 • 💬 67 • 5h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -269,7 +271,7 @@ Wall Street lends billions to AI companies while using credit derivatives and so
 
 Python programs, usually short, of considerable difficulty, to perfect particular skills. - norvig/pytudes
 
-⬆️ 42 • 💬 12 • 1d ago • [GitHub](https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb)
+⬆️ 42 • 💬 13 • 1d ago • [GitHub](https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb)
 
 ---
 
@@ -401,7 +403,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 25,451 • ❤️ 766 • 6d ago
+⬇️ 25,451 • ❤️ 767 • 6d ago
 
 ---
 
@@ -425,7 +427,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 413 • 8h ago
+⬇️ 27,215 • ❤️ 417 • 8h ago
 
 ---
 

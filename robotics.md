@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T17:43:09.225214+00:00'
+updated: '2025-12-07T17:54:12.635828+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 17:43 UTC  
+**Last Updated:** December 07, 2025 at 17:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 **[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -70,6 +70,14 @@ I wanted to see how far we can push low-power hardware, so I trained a PPO model
 
 ---
 
+**[I Unboxed a $25,000 ROBOT HAND for My G1… This Is INSANE! | Inspire RH56F1 Review](https://www.reddit.com/r/robotics/comments/1pgnpfr/i_unboxed_a_25000_robot_hand_for_my_g1_this_is/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/ic5I27NNIv0?si=ii4fyccs01D9m8qa) • 38m ago
+
+---
+
 **[Zhongqing t800 robot vs human](https://www.reddit.com/r/robotics/comments/1pfnufq/zhongqing_t800_robot_vs_human/)**
 
 Zhongqing CEO Receives the Challenge of T800
@@ -90,7 +98,7 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 Hi all, I have a need for the above converter to be installed within a well-cooled (subsea) electronics enclosure. I have a stable 3-phase 400-440VAC supply and need 300-350VDC at a peak of 10kw but a more constant load of <4kw. I have already sourced a unit designed to be rack-mounted, rated to 30KW. It will do the job, but the project would be better if a compact/lighter solution could be found; I don’t need the 30KW headroom. Does anyone have any suggestions? Budget not particularly limited. Many thanks.
 
-4h ago
+5h ago
 
 ---
 
@@ -98,13 +106,7 @@ Hi all, I have a need for the above converter to be installed within a well-cool
 
 Conferencia realizada en la Sorbonne Paris, viernes 05 de diciembre. Se trató sobre los proyectos de Hobbie y concurso hasta la industria, proyectos de grande escala, también se tocó el tema del futuro, hasta donde iremos? La estética en la robótica y la ética en la robótica, de una manera genérica se todo también la tecnología en sí. Muchas gracias a Jorge Linares por la invitación. Jorge Abraham Salgado
 
-10h ago
-
----
-
-**[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
-
-1d ago
+11h ago
 
 ---
 
@@ -112,9 +114,11 @@ Conferencia realizada en la Sorbonne Paris, viernes 05 de diciembre. Se trató s
 
 ## Google News: "robotics"
 
-**[After AI push, Trump administration is now looking to robots](https://www.politico.com/news/2025/12/03/trump-administration-ai-robotics-00674204)**
+**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.cbsnews.com/video/trump-administration-looks-supercharge-robotics-industry-politico/)**
 
-Politico • 4d ago
+Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be listening. Yasmin Khorram, economic policy reporter for Politico, joins CBS News to discuss her article on the topic.
+
+CBS News • 2d ago
 
 ---
 
@@ -134,6 +138,14 @@ MIT News • 2d ago
 
 ---
 
+**[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
+
+Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
+
+Seeking Alpha • 2d ago
+
+---
+
 **[Why AI and Robotics Are Now National Security Assets](https://etftrends.com/artificial-intelligence-content-hub/why-ai-robotics-national-security-assets/)**
 
 ETF Trends • 2d ago
@@ -144,7 +156,7 @@ ETF Trends • 2d ago
 
 Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
 
-CNN • 4h ago
+CNN • 5h ago
 
 ---
 
@@ -153,6 +165,14 @@ CNN • 4h ago
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
 South China Morning Post • 16h ago
+
+---
+
+**[Could Prospective U.S. Robotics Support Reframe iRobot’s (IRBT) Consumer-Focused Model Amid Financial Strains?](https://finance.yahoo.com/news/could-prospective-u-robotics-support-131214942.html)**
+
+Earlier this week, reports that the White House is considering an executive order to accelerate growth in the U.S. robotics industry prompted intense investor focus on iRobot and other robotics-linked companies, even as iRobot continues to grapple with liquidity pressures, declining revenue, and a high risk of bankruptcy. The news also highlighted how potential federal support may primarily target industrial robotics and advanced manufacturing, raising questions about how directly...
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -167,22 +187,6 @@ Investor's Business Daily • 2d ago
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
 CNET • 4h ago
-
----
-
-**[New robots inside Boise's USPS facility help process and handle packages during holiday rush](https://www.ktvb.com/article/news/local/new-robots-usps-facility-help-process-holiday-rush/277-0ba7c01f-695c-465f-80f4-e2889aeafaa6)**
-
-USPS Boise facility gets four robotic arms to help process 220,000 packages daily during holiday rush, allowing redeployment of workers to areas needing human touch.
-
-KTVB • 1d ago
-
----
-
-**[AI baby monitors are rising but experts warn about overreliance](https://interestingengineering.com/ai-robotics/ai-baby-monitor-parenting)**
-
-As smart baby devices expand rapidly, researchers highlight the benefits of AI monitoring while noting the limits of current systems.
-
-Interesting Engineering • 5h ago
 
 ---
 
@@ -216,7 +220,7 @@ Midea Group, one of the world's largest home appliance manufacturers, just unvei
 
 📺 Kalil 4.0
 
-👁️ 519 • 👍 17 • 💬 1 • ⏱️ 0:27 • 44m ago
+👁️ 519 • 👍 17 • 💬 1 • ⏱️ 0:27 • 55m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T17:43:09.215775+00:00'
+updated: '2025-12-07T17:54:12.626051+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 17:43 UTC  
+**Last Updated:** December 07, 2025 at 17:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.7%  
-**7d:** +5.5%  
-**30d:** -11.2%  
-**90d:** -18.4%  
-**1y:** -10.0%  
+**24h:** +1.9%  
+**7d:** +5.6%  
+**30d:** -11.1%  
+**90d:** -18.3%  
+**1y:** -9.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1790.17B
+**Market Cap:** $1816.22B
 Rank #1
 
-**Circulating Supply:** 19,958,878 BTC
+**Circulating Supply:** 19,958,906 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-27.8%
 
 **All-Time Low:** $67.81
-+132137.1%
++134166.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
-7h ago
+8h ago
 
 ---
 
@@ -101,7 +101,15 @@ Rank #1
 
 Burnsish?
 
-20h ago
+21h ago
+
+---
+
+**[Mastercard lets consumers make everyday purchases with Crypto Cards](https://www.reddit.com/r/Bitcoin/comments/1pgn1q4/mastercard_lets_consumers_make_everyday_purchases/)**
+
+Mastercard’s Crypto Card Program enables consumers to use their crypto cards to pay with crypto for everyday transactions across 100 million+ acceptance locations.
+
+🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 1h ago
 
 ---
 
@@ -113,21 +121,7 @@ Burnsish?
 
 **[Still hodling on!!!](https://www.reddit.com/r/Bitcoin/comments/1pgct69/still_hodling_on/)**
 
-9h ago
-
----
-
-**[Mastercard lets consumers make everyday purchases with Crypto Cards](https://www.reddit.com/r/Bitcoin/comments/1pgn1q4/mastercard_lets_consumers_make_everyday_purchases/)**
-
-Mastercard’s Crypto Card Program enables consumers to use their crypto cards to pay with crypto for everyday transactions across 100 million+ acceptance locations.
-
-🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 54m ago
-
----
-
-**[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
-
-1d ago
+10h ago
 
 ---
 
@@ -137,7 +131,15 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 ---
 
-**[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
+**[BTC vs FRN](https://www.reddit.com/r/Bitcoin/comments/1pgnm34/btc_vs_frn/)**
+
+Just doing my part to spread the word. If you're ever in NC and see one of these floating around, Matt was here.
+
+42m ago
+
+---
+
+**[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
 
 1d ago
 
@@ -147,9 +149,9 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s Deep Correction Sets Stage for December Rebound, Says K33 Research](https://www.coindesk.com/markets/2025/12/05/bitcoin-s-deep-correction-sets-stage-for-december-rebound-says-k33-research)**
+**[Bitcoin Price (BTC) Analysis: Crypto Winter Parallels](https://www.coindesk.com/markets/2025/12/05/bitcoin-market-echoes-early-2022-as-onchain-stress-mounts-glassnode)**
 
-K33 Research says market fear is outweighing fundamentals as bitcoin nears key levels. December could offer an entry point for bold investors.
+Rising bitcoin supply in loss, weakening spot demand and cautious derivatives positioning were among the issues raised by the data provider in its weekly newsletter.
 
 CoinDesk • 2d ago
 
@@ -163,17 +165,25 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
+**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
 
-The Economist • 3d ago
+Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
+
+Decrypt • 1h ago
 
 ---
 
-**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
+**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://finance.yahoo.com/news/buy-bitcoin-dip-why-ric-165028778.html)**
 
-Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
+Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
+
+The Economist • 3d ago
 
 ---
 
@@ -193,31 +203,21 @@ TheStreet • 1d ago
 
 **[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Investor's Business Daily • 19h ago
+Investor's Business Daily • 59m ago
 
 ---
 
-**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
+**[With Bitcoin Falling, Is Strategy Stock in Trouble?](https://finance.yahoo.com/news/bitcoin-falling-strategy-stock-trouble-210500007.html)**
 
-Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
+It would be pretty miraculous if Strategy's stock were doing well right now.
 
-Futurism • 23h ago
-
----
-
-**[‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles](https://www.forbes.com/sites/digital-assets/2025/12/07/next-step-is-coming-sec-chair-issues-huge-crypto-prediction-as-the-bitcoin-price-struggles/)**
-
-The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
-
-Forbes • 4h ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[Coinbase Predicts December Bitcoin Recovery on Macro Tailwinds](https://bitbo.io/news/coinbase-bitcoin-december-recovery/)**
+**[Analyst cuts 60% price target for popular Bitcoin stock](https://www.thestreet.com/crypto/markets/analyst-cuts-60-price-target-for-popular-bitcoin-stock)**
 
-Coinbase Institutional forecasts a December bitcoin rally driven by improving global liquidity and potential Fed rate cuts, though hawkish central bank remarks could temper gains.
-
-Bitbo • 15h ago
+TheStreet • 2d ago
 
 ---
 
