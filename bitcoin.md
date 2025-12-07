@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T21:23:09.503481+00:00'
+updated: '2025-12-07T21:35:29.794804+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - news
-- social
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 21:23 UTC  
+**Last Updated:** December 07, 2025 at 21:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +5.6%  
-**30d:** -11.1%  
-**90d:** -18.4%  
-**1y:** -10.0%  
+**24h:** +2.1%  
+**7d:** +5.7%  
+**30d:** -11.0%  
+**90d:** -18.3%  
+**1y:** -9.9%  
 
 ---
 
@@ -113,7 +113,7 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 **[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -121,7 +121,7 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 Two early-era Bitcoin wallets, each holding ~1,000 BTC moved after 13+ years of complete inactivity. Most people interpret this as risk. It isn’t. Dormant coins don’t move because of fear or speculation. They move because wealth has crossed into structure: – key modernization – inheritance and legal clarity – custody transformation – multi-party continuity No exchange inflow, no forced selling, no market reaction. Price didn’t move…not because it’s irrelevant, but because the system is now deep enough to absorb it without distortion. This is how an asset crosses from narrative into adulthood. If you want to understand why this moment signals maturity rather than exit, read the full breakdown
 
-🔗 [coherenceledger.substack.com](https://coherenceledger.substack.com/p/when-2000-dormant-bitcoin-wake-up) • 3h ago
+🔗 [coherenceledger.substack.com](https://coherenceledger.substack.com/p/when-2000-dormant-bitcoin-wake-up) • 4h ago
 
 ---
 
@@ -171,7 +171,7 @@ Forbes • 8h ago
 
 Which of these popular cryptocurrencies has more upside potential?
 
-Yahoo Finance • 23m ago
+Yahoo Finance • 35m ago
 
 ---
 
@@ -323,7 +323,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 435 • ⏱️ 11:32 • 23h ago
+👁️ 61K • 👍 3K • 💬 435 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -333,7 +333,7 @@ The crypto market may have just flipped the script. After weeks of fear, fakeout
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 300 • 💬 80 • ⏱️ 9:56 • 5h ago
+👁️ 4K • 👍 300 • 💬 80 • ⏱️ 9:56 • 6h ago
 
 ---
 
@@ -343,7 +343,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 867 • 👍 96 • 💬 85 • ⏱️ 23:18 • 4h ago
+👁️ 867 • 👍 96 • 💬 85 • ⏱️ 23:18 • 5h ago
 
 ---
 
@@ -373,7 +373,7 @@ BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 10K • 👍 370 • 💬 147 • ⏱️ 17:05 • 10h ago
+👁️ 10K • 👍 370 • 💬 147 • ⏱️ 17:05 • 11h ago
 
 ---
 

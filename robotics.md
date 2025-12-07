@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T21:23:09.512983+00:00'
+updated: '2025-12-07T21:35:29.803133+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 21:23 UTC  
+**Last Updated:** December 07, 2025 at 21:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
-2h ago
+3h ago
 
 ---
 
@@ -126,7 +126,7 @@ Barchart.com • 3d ago
 
 Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be listening. Yasmin Khorram, economic policy reporter for Politico, joins CBS News to discuss her article on the topic.
 
-CBS News • 2d ago
+CBS News • 3d ago
 
 ---
 
@@ -248,7 +248,7 @@ Here's what happened when I asked a robot receptionist about partner models at a
 
 📺 AI Robot Reality
 
-👁️ 2K • 👍 61 • 💬 4 • ⏱️ 0:19 • 23h ago
+👁️ 2K • 👍 61 • 💬 4 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 10K • 👍 101 • 💬 2 • ⏱️ 0:25 • 11h ago
+👁️ 10K • 👍 101 • 💬 2 • ⏱️ 0:25 • 12h ago
 
 ---
 

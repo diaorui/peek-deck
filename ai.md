@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T21:23:09.495079+00:00'
+updated: '2025-12-07T21:35:29.787249+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- social
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 21:23 UTC  
+**Last Updated:** December 07, 2025 at 21:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 **[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
 
-🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 6h ago
+🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 7h ago
 
 ---
 
@@ -95,7 +95,7 @@ Could AI help us create virtual human cells? 🦠 Scientists are training AI to 
 
 I spent the week diagramming the full path documents take through my RAG system. Visualizing it clarified something I’d been feeling for a while. Most retrieval issues don’t start at retrieval. They start much earlier. The moment ingestion or segmentation shifts, everything downstream looks inconsistent even when the model and database stay the same. What stood out was how much reliability improves once the upstream steps become deterministic. Versioning, canonical text, consistent chunk boundaries, and metadata checks made a far bigger impact than changing models. If you were to visualize your pipeline, which step do you think would reveal the most drift?
 
-1h ago
+2h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Guardian • 1d ago
 
 For "life and death decision-making," Anduril cofounder Palmer Luckey says it's "too critical" to not use the most advanced technology.
 
-Business Insider • 37m ago
+Business Insider • 49m ago
 
 ---
 
@@ -215,7 +215,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 302 • 💬 97 • 8h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 302 • 💬 97 • 9h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -239,7 +239,7 @@ Welcome to the slop era.
 
 A live AI-driven countdown to the potential burst of the AI market bubble. Updated daily with market sentiment analysis.
 
-⬆️ 78 • 💬 35 • 2d ago • [pop-the-bubble.xyz](https://pop-the-bubble.xyz/)
+⬆️ 78 • 💬 35 • 3d ago • [pop-the-bubble.xyz](https://pop-the-bubble.xyz/)
 
 ---
 
@@ -343,7 +343,7 @@ INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, 
 
 📺 AI Search
 
-👁️ 50K • 👍 3K • 💬 603 • ⏱️ 47:03 • 17h ago
+👁️ 50K • 👍 3K • 💬 603 • ⏱️ 47:03 • 18h ago
 
 ---
 
@@ -361,7 +361,7 @@ Sora 2 has officially entered absolute madness — and these are the funniest mo
 
 📺 Animoha
 
-👁️ 983K • 👍 19K • 💬 7 • ⏱️ 1:00 • 8h ago
+👁️ 983K • 👍 19K • 💬 7 • ⏱️ 1:00 • 9h ago
 
 ---
 
