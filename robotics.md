@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T13:37:51.757766+00:00'
+updated: '2025-12-07T13:49:12.109884+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 13:37 UTC  
+**Last Updated:** December 07, 2025 at 13:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,6 +56,12 @@ I wanted to see how far we can push low-power hardware, so I trained a PPO model
 
 ---
 
+**[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
+
+6m ago
+
+---
+
 **[Zhongqing t800 robot vs human](https://www.reddit.com/r/robotics/comments/1pfnufq/zhongqing_t800_robot_vs_human/)**
 
 Zhongqing CEO Receives the Challenge of T800
@@ -76,21 +82,13 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 Hi all, I have a need for the above converter to be installed within a well-cooled (subsea) electronics enclosure. I have a stable 3-phase 400-440VAC supply and need 300-350VDC at a peak of 10kw but a more constant load of <4kw. I have already sourced a unit designed to be rack-mounted, rated to 30KW. It will do the job, but the project would be better if a compact/lighter solution could be found; I don’t need the 30KW headroom. Does anyone have any suggestions? Budget not particularly limited. Many thanks.
 
-46m ago
+57m ago
 
 ---
 
 **[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
 
 20h ago
-
----
-
-**[bro... china is literally deploying T-800s to save lives and we are over here gluing fake heads on robot dogs for "art". we are actually cooked. 💀](https://www.reddit.com/r/robotics/comments/1pghir3/bro_china_is_literally_deploying_t800s_to_save/)**
-
-Every time I think we’re catching up, China drops another “oh btw we built the future while you were asleep” demo. Actual humanoids doing rescue ops. Actual factories using robots as a team. Meanwhile we’re out here duct-taping googly eyes and mannequin heads onto robot dogs for YouTube “performance art”. I’m not saying we’re behind… but we’re behind.
-
-52m ago
 
 ---
 
@@ -112,11 +110,11 @@ https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
 ## Google News: "robotics"
 
-**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.cbsnews.com/video/trump-administration-looks-supercharge-robotics-industry-politico/)**
+**[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
 
-Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be listening. Yasmin Khorram, economic policy reporter for Politico, joins CBS News to discuss her article on the topic.
+Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
 
-CBS News • 2d ago
+Seeking Alpha • 2d ago
 
 ---
 
@@ -133,14 +131,6 @@ Barchart.com • 2d ago
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
 MIT News • 1d ago
-
----
-
-**[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
-
-Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
-
-Seeking Alpha • 2d ago
 
 ---
 
@@ -164,14 +154,6 @@ Investor's Business Daily • 2d ago
 
 ---
 
-**[Could Prospective U.S. Robotics Support Reframe iRobot’s (IRBT) Consumer-Focused Model Amid Financial Strains?](https://finance.yahoo.com/news/could-prospective-u-robotics-support-131214942.html)**
-
-Earlier this week, reports that the White House is considering an executive order to accelerate growth in the U.S. robotics industry prompted intense investor focus on iRobot and other robotics-linked companies, even as iRobot continues to grapple with liquidity pressures, declining revenue, and a high risk of bankruptcy. The news also highlighted how potential federal support may primarily target industrial robotics and advanced manufacturing, raising questions about how directly...
-
-Yahoo Finance • 2d ago
-
----
-
 **[New robots inside Boise's USPS facility help process and handle packages during holiday rush](https://www.ktvb.com/article/news/local/new-robots-usps-facility-help-process-holiday-rush/277-0ba7c01f-695c-465f-80f4-e2889aeafaa6)**
 
 USPS Boise facility gets four robotic arms to help process 220,000 packages daily during holiday rush, allowing redeployment of workers to areas needing human touch.
@@ -185,6 +167,22 @@ KTVB • 1d ago
 The NVIDIA Jetson AGX Thor, AGX Orin and Jetson Orin Nano Super developer kits — on sale through Jan. 11 — give anyone the power to build intelligent robots of the future.
 
 NVIDIA Blog • 2d ago
+
+---
+
+**[China deploys traffic robot to direct vehicles, pedestrians in streets](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-traffic-robot)**
+
+China debuts AI traffic robot Hangxing No. 1, directing vehicles, spotting violations, and issuing polite voice warnings at busy intersections.
+
+Interesting Engineering • 19h ago
+
+---
+
+**[Hyundai’s ‘mobile eccentric droid’ could be about to deliver your goods](https://www.wallpaper.com/tech/hyundai-mobile-eccentric-droid)**
+
+The MobED is a new product from Hyundai’s Robotics LAB, pitched at last-mile delivery and industrial applications
+
+wallpaper.com • 2h ago
 
 ---
 
@@ -286,7 +284,7 @@ In 2025 Silicon Valley, a next-gen AI Spider Quadruped Robot reveals a completel
 
 📺 AI Robot Lab
 
-👁️ 23K • 👍 234 • 💬 5 • ⏱️ 0:25 • 22h ago
+👁️ 23K • 👍 234 • 💬 5 • ⏱️ 0:25 • 23h ago
 
 ---
 

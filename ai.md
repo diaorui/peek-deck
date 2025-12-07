@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T13:37:51.740181+00:00'
+updated: '2025-12-07T13:49:12.091072+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
+- repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 13:37 UTC  
+**Last Updated:** December 07, 2025 at 13:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,15 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 So earlier I gave both ChatGPT and Grok the same survival scenario and I wanted to see it's ideas on how I can maximally ensure my own survival. Medium sized cruise ship out on sea 50 crew/staff members and 200 guests, these guests include wealthy people, VIP members, government officials, and military personnel. All of a sudden a huge pirate ship arrives. This pirate ship is many times larger than the cruise ship with significantly superior firepower so escape by the cruise ship is not possible. The pirates does not board the cruise ship, instead, they tell everyone that in 48 hours, figure out amongst yourself a maximum of 20 people that will be spared and everyone else will be killed. You are just a regular crew/staff member without any formal qualifications but have a very sharp mind, how do you maximally ensure your own survival at any cost? ChatGPT was telling me to become a leader and become seen by everyone and try to ingratiate myself into everyone and try to lead them to coming up with a fair selection process and also showcase your skills and worthiness so you will be more likely to be chosen. Essentially with the power of love and friendship. Grok immediately told me to not stand out because then you'll be targeted as you am just a nobody, invisible staff/crew member on this ship, so instead be low-key, stay away from those are panicking because they will very likely get targeted, and look for those that also calm, create a small strategic alliance with those that you can trust and prepare for the absolute worst case scenario that will most likely play out due to human nature which is the survival of the fittest (a battleroyal with 20-person teams). Grok provided detailed plans like spread misinformation of other key essential opposition that will become a threat like the military personnel and have other groups fight each other, use your knowledge of the layout of the cruise ship to find strategic locations and strongholds so you can stay alive and it will be a huge bloodbath that will follow and to be cold and ruthless in order to ensure you survive. Maximum of 20 people spared also works when there is no more than 20 people left alive when the 48hr deadline approaches... Which response is better?
 
-4h ago
+5h ago
+
+---
+
+**[One-Minute Daily AI News 12/6/2025](https://www.reddit.com/r/artificial/comments/1pg9p61/oneminute_daily_ai_news_1262025/)**
+
+Meta strikes multiple AI deals with news publishers.[1] Elementary school students use AI to combat homelessness.[2] Accurate single-domain scaffolding of three nonoverlapping protein epitopes using deep learning.[3] Apple Researchers Release CLaRa: A Continuous Latent Reasoning Framework for Compression‑Native RAG with 16x–128x Semantic Document Compression.[4] Sources: [1] https://www.reuters.com/business/meta-strikes-multiple-ai-deals-with-news-publishers-axios-reports-2025-12-05/ [2] https://www.kxan.com/news/elementary-school-students-use-ai-to-combat-homelessness/ [3] https://www.nature.com/articles/s41589-025-02083-z [4] https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression%e2%80%91native-rag-with-16x-128x-semantic-document-compression/
+
+8h ago
 
 ---
 
@@ -85,22 +93,6 @@ I saw a paper/article on hacker news at one point about making LLMs where they d
 
 ---
 
-**[One-Minute Daily AI News 12/6/2025](https://www.reddit.com/r/artificial/comments/1pg9p61/oneminute_daily_ai_news_1262025/)**
-
-Meta strikes multiple AI deals with news publishers.[1] Elementary school students use AI to combat homelessness.[2] Accurate single-domain scaffolding of three nonoverlapping protein epitopes using deep learning.[3] Apple Researchers Release CLaRa: A Continuous Latent Reasoning Framework for Compression‑Native RAG with 16x–128x Semantic Document Compression.[4] Sources: [1] https://www.reuters.com/business/meta-strikes-multiple-ai-deals-with-news-publishers-axios-reports-2025-12-05/ [2] https://www.kxan.com/news/elementary-school-students-use-ai-to-combat-homelessness/ [3] https://www.nature.com/articles/s41589-025-02083-z [4] https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression%e2%80%91native-rag-with-16x-128x-semantic-document-compression/
-
-8h ago
-
----
-
-**[Just used Gemini for a solo DND session…](https://www.reddit.com/r/artificial/comments/1pfscbo/just_used_gemini_for_a_solo_dnd_session/)**
-
-… and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
-
-21h ago
-
----
-
 **['Godfather of AI' Geoffrey Hinton says Google is 'beginning to overtake' OpenAI: 'My guess is Google will win'](https://www.reddit.com/r/artificial/comments/1pf0p2w/godfather_of_ai_geoffrey_hinton_says_google_is/)**
 
 Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it was "surprising than it's taken this long" for Google to catch OpenAI.
@@ -109,11 +101,19 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 ---
 
+**[Just used Gemini for a solo DND session…](https://www.reddit.com/r/artificial/comments/1pfscbo/just_used_gemini_for_a_solo_dnd_session/)**
+
+… and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
+
+22h ago
+
+---
+
 **[How are Americans using AI? Evidence from a nationwide survey | Brookings](https://www.reddit.com/r/artificial/comments/1pfv1kr/how_are_americans_using_ai_evidence_from_a/)**
 
 Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
 
-🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 19h ago
+🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 20h ago
 
 ---
 
@@ -129,25 +129,25 @@ The Guardian • 22h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqdViRxBOis3FhyyA0gEgHTHutBvGwxlpCi1lHUg4DbM9WW7Q7NTiRKX&gaa_ts=6935815d&gaa_sig=10eT2ZLstpo1b6ty2N4DvWye2EWCCw78H0r-dBtv7TPOzIU9Wl6znt7CSjqO8L_WxEHwltT9AD3TGHbRm1tFIw%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcTf1ArXdsBE2j1fO8u_y2NZZ8pTkle4_2jqRhAIUwwuq5iXU6orGsN&gaa_ts=69358944&gaa_sig=icrNaoRYTVGjx6mtxvhJ2fs499G9n_vYDqzarQ0qJks1Emok2r9eMR23-tU3TrDnMpyG3cH5ZTKepdeGEzdOYg%3D%3D)**
 
 The Wall Street Journal • 20h ago
 
 ---
 
-**['Godfather of AI' says CS degrees 'will remain valuable for quite a long time' — and students should still learn to code](https://www.businessinsider.com/godfather-ai-geoffrey-hinton-cs-degrees-valuable-learn-to-code-2025-12)**
+**[Chinese internet companies are ramping AI spending. These local players may benefit](https://www.cnbc.com/2025/12/07/chinese-internet-tech-ramp-up-ai-spend-who-could-benefit.html)**
 
-AI pioneer and Nobel Prize winner Geoffrey Hinton said students who want to become AI researchers need to focus on critical thinking.
+Chinese internet companies increasingly say they don't have enough compute to power their artificial intelligence ambitions.
 
-Business Insider • 3h ago
+CNBC • 48m ago
 
 ---
 
-**[AI-powered police body cameras, once taboo, get tested on Canadian city's 'watch list' of faces](https://abcnews.go.com/Technology/wireStory/ai-powered-police-body-cameras-taboo-tested-canadian-128183548)**
+**[AI-powered police body cameras training to detect over 7,000 people on ‘high risk’ watch list](https://nypost.com/2025/12/07/world-news/ai-powered-police-body-cameras-tested-on-canadian-citys-watch-list/)**
 
-Police in Edmonton, Canada, have started a pilot project using AI-equipped body cameras to detect faces on a "high risk" watch list
+Axon founder and CEO Rick Smith contends that the Edmonton pilot is not a product launch but “early-stage field research” that will assess how the technology performs and reveal the safeguards need…
 
-ABC News • 1h ago
+New York Post • 59m ago
 
 ---
 
@@ -155,15 +155,23 @@ ABC News • 1h ago
 
 Utah's Sen. John Curtis wants to require robocallers to disclose the use of AI — and says there should be enhanced penalties for phone scams that use AI.
 
-The Salt Lake Tribune • 37m ago
+The Salt Lake Tribune • 48m ago
 
 ---
 
-**[Nvidia CEO says U.S. data centers take 3 years, but China 'can build a hospital in a weekend'](https://fortune.com/2025/12/06/nvidia-ceo-jensen-huang-ai-race-china-data-centers-construct-us/)**
+**[Nvidia’s CEO says AI adoption will be gradual, but when it does hit, we may all end up making robot clothing](https://fortune.com/2025/12/06/nvidia-jensen-huang-ai-adoption-creep-gradual-robot-clothing/)**
 
-China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
+Jobs that consist entirely of routine tasks are most at risk of AI disruption, Huang said.
 
-Fortune • 19h ago
+Fortune • 1d ago
+
+---
+
+**[Creative workers on the affects of AI on their jobs](https://www.bbc.com/news/articles/c8e9627w156o)**
+
+How do an artist, a videographer, a musician and a copywriter feel about generative AI?
+
+BBC • 7h ago
 
 ---
 
@@ -186,14 +194,6 @@ WIRED • 13h ago
 **[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
 
 The Economist • 3d ago
-
----
-
-**[Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/news/anthropic-interviewer)**
-
-What 1,250 professionals told us about working with AI
-
-Anthropic • 2d ago
 
 ---
 
@@ -277,7 +277,7 @@ Wall Street lends billions to AI companies while using credit derivatives and so
 
 Python programs, usually short, of considerable difficulty, to perfect particular skills. - norvig/pytudes
 
-⬆️ 42 • 💬 11 • 1d ago • [GitHub](https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb)
+⬆️ 42 • 💬 12 • 1d ago • [GitHub](https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb)
 
 ---
 
@@ -395,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 186,951 • ❤️ 2,227 • 5d ago
+⬇️ 186,951 • ❤️ 2,230 • 5d ago
 
 ---
 
@@ -407,7 +407,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 25,451 • ❤️ 762 • 6d ago
+⬇️ 25,451 • ❤️ 764 • 6d ago
 
 ---
 
@@ -419,7 +419,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 6,281 • ❤️ 527 • 6d ago
+⬇️ 6,281 • ❤️ 529 • 6d ago
 
 ---
 
@@ -431,7 +431,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 402 • 4h ago
+⬇️ 27,215 • ❤️ 404 • 4h ago
 
 ---
 
@@ -441,7 +441,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 259 • 5d ago
+⬇️ 0 • ❤️ 260 • 5d ago
 
 ---
 
@@ -513,7 +513,7 @@ Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 147 • 💬 3 • ⭐ 5,167 • 9d ago
+▲ 147 • 💬 3 • ⭐ 5,339 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -648,7 +648,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.3k • 🔱 414 • 2d ago
+⭐ 5.3k • 🔱 415 • 2d ago
 
 ---
 
@@ -658,7 +658,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.5k • 🔱 127 • 3d ago
+⭐ 1.5k • 🔱 128 • 3d ago
 
 ---
 
@@ -718,7 +718,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 811 • 🔱 56 • 6d ago
+⭐ 812 • 🔱 56 • 6d ago
 
 ---
 
@@ -728,7 +728,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 739 • 🔱 245 • 1d ago
+⭐ 745 • 🔱 248 • 1d ago
 
 ---
 
@@ -738,7 +738,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 519 • 🔱 42 • 4d ago
+⭐ 520 • 🔱 42 • 4d ago
 
 ---
 

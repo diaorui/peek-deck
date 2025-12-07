@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T13:37:51.748516+00:00'
+updated: '2025-12-07T13:49:12.099987+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 13:37 UTC  
+**Last Updated:** December 07, 2025 at 13:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1785.03B
+**Market Cap:** $1775.73B
 Rank #1
 
 **Circulating Supply:** 19,958,771 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.1%
+-29.4%
 
 **All-Time Low:** $67.81
-+131665.2%
++131185.9%
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 **[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
 
-5h ago
+6h ago
 
 ---
 
 **[It is funny how true is this...](https://www.reddit.com/r/Bitcoin/comments/1pgfjhq/it_is_funny_how_true_is_this/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -107,19 +107,19 @@ Rank #1
 
 Burnsish?
 
-16h ago
-
----
-
-**[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
-
-9h ago
+17h ago
 
 ---
 
 **[This is just Me and I know](https://www.reddit.com/r/Bitcoin/comments/1pgd3wt/this_is_just_me_and_i_know/)**
 
 5h ago
+
+---
+
+**[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
+
+9h ago
 
 ---
 
@@ -161,22 +161,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Michael Saylor’s Bitcoin Playbook Backfires on 100+ Companies](https://finance.yahoo.com/news/michael-saylor-bitcoin-playbook-backfires-101022120.html)**
-
-Digital asset treasury companies that rushed to copy Michael Saylor’s Bitcoin strategy are now hemorrhaging shareholder value, with median stock prices down 43% year to date, even as the broader market climbs higher, as per Bloomberg.Source: BloombergMore than 100 publicly traded companies transformed themselves into cryptocurrency-holding vehicles in the first ...
-
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin “Liveliness” Indicator Rises, Hinting the Bull Cycle May Not Be Over](https://finance.yahoo.com/news/bitcoin-liveliness-indicator-rises-hinting-103141594.html)**
-
-A key on-chain indicator known as Bitcoin “liveliness” is climbing again, a pattern historically associated with bull market activity, raising the possibility that the current cycle still has room to run, according to analysts tracking long-term blockchain metrics. Key Takeaways: Bitcoin’s “liveliness” metric is rising despite stagnant prices, signaling renewed ...
-
-Yahoo Finance • 3h ago
-
----
-
 **[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
 The Economist • 3d ago
@@ -188,14 +172,6 @@ The Economist • 3d ago
 In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
 
 CNBC • 3d ago
-
----
-
-**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
-
-JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
-
-Business Insider • 2d ago
 
 ---
 
@@ -213,11 +189,33 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Why Michael Saylor's Strategy could hold the key for the whole bitcoin market](https://www.cnbc.com/2025/12/04/why-michael-saylors-strategy-could-hold-the-key-for-the-whole-bitcoin-market.html)**
+**[Bitcoin Preis (BTC) Ausblick: JPM bleibt bei $170K Ziel](https://www.coindesk.com/markets/2025/12/04/jpmorgan-retains-gold-linked-usd170k-bitcoin-target-despite-recent-plunge)**
 
-Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts.
+The bank’s volatility-adjusted bitcoin-to-gold model still points to a theoretical price around $170K over the next six to twelve months.
 
-CNBC • 2d ago
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin Is Set for First Yearly Split From Stocks in Decade](https://finance.yahoo.com/news/bitcoin-set-first-yearly-split-141041017.html)**
+
+The digital asset has rarely deviated so cleanly from other risk assets even during past crypto winters.  Earlier this year, Bitcoin notched a record high above $126,000.  Bitcoin appears to be ending the week on a down note, dropping as much as 4.4% to $88,135 on Friday.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
+
+Investor's Business Daily • 15h ago
+
+---
+
+**[With Bitcoin Falling, Is Strategy Stock in Trouble?](https://www.nasdaq.com/articles/bitcoin-falling-strategy-stock-trouble)**
+
+Key PointsStrategy does its business by issuing debt or equity to buy Bitcoin.
+
+Nasdaq • 16h ago
 
 ---
 

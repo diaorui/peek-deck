@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T13:37:51.754489+00:00'
+updated: '2025-12-07T13:49:12.106441+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 13:37 UTC  
+**Last Updated:** December 07, 2025 at 13:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** +8.0%  
-**30d:** -11.1%  
-**90d:** -29.9%  
-**1y:** -24.6%  
+**24h:** -0.8%  
+**7d:** +8.2%  
+**30d:** -11.0%  
+**90d:** -29.8%  
+**1y:** -24.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $367.88B
+**Market Cap:** $365.93B
 Rank #2
 
 **Circulating Supply:** 120,695,408 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--38.5%
+-38.7%
 
 **All-Time Low:** $0.43
-+702546.1%
++700585.3%
 
 ---
 
@@ -168,6 +168,32 @@ Yahoo Finance • 23h ago
 
 ---
 
+**[BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target](https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target)**
+
+TipRanks • 2d ago
+
+---
+
+**[Ethereum treasury firm BitMine adds $150 million in ETH as DAT buying dries up](https://www.theblock.co/post/381302/bitmine-150-million-eth)**
+
+The Block • 3d ago
+
+---
+
+**[Vitalik Buterin Pushes Gas Futures Idea for Ethereum](https://finance.yahoo.com/news/vitalik-buterin-pushes-gas-futures-131500204.html)**
+
+Vitalik Buterin is promoting a trustless, on-chain gas futures market to give Ethereum users a way to lock in transaction costs.
+
+Yahoo Finance • 34m ago
+
+---
+
+**[WisdomTree first to market with Ethereum staking fund using Lido's stETH](https://www.theblock.co/post/381549/wisdomtree-first-market-ethereum-staking-fund-lido-steth)**
+
+The Block • 1d ago
+
+---
+
 **[Industry Leader Shares Why Ethereum Price Will Reach $12,000](https://www.tradingview.com/news/newsbtc:a204c146d094b:0-industry-leader-shares-why-ethereum-price-will-reach-12-000/)**
 
 Industry leader Tom Lee has shared how the Ethereum price could reach $12,000 within the next few months. He based his prediction on the Bitcoin price action and how ETH could match the flagship crypto on a potential run to the upside. Tom Lee Explains How The Ethereum Price Could Rally To $12,000S…
@@ -184,12 +210,6 @@ Nasdaq • 3d ago
 
 ---
 
-**[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
-
-The Block • 2d ago
-
----
-
 **[Ethereum prepares a controversial 2026 overhaul that will forcibly strip power from the network's most dominant players](https://cryptoslate.com/whats-next-for-ethereum-after-the-fusaka-upgrade/)**
 
 Ethereum's roadmap envisions widespread adoption with future upgrades, aiming to transform global financial systems.
@@ -203,30 +223,6 @@ CryptoSlate • 2d ago
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
 cheddar.com • 2d ago
-
----
-
-**[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
-
-Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
-
-Seeking Alpha • 2d ago
-
----
-
-**[Ethereum tops 24-hour net inflows with $138.7M: Artemis](https://cryptobriefing.com/ethereum-tops-24h-inflows-artemis/)**
-
-Ethereum tops the digital asset market with $138.7M in 24-hour net inflows, highlighting strong investor interest.
-
-Crypto Briefing • 11h ago
-
----
-
-**[Is Ethereum the Best Cryptocurrency to Buy Under $4,000?](https://www.fool.com/investing/2025/12/05/is-ethereum-the-best-cryptocurrency-to-buy-under-4/)**
-
-It's making important improvements and expanding its ecosystem.
-
-The Motley Fool • 2d ago
 
 ---
 
@@ -330,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 197 • 💬 11 • ⏱️ 5:03 • 19h ago
+👁️ 3K • 👍 197 • 💬 11 • ⏱️ 5:03 • 20h ago
 
 ---
 
