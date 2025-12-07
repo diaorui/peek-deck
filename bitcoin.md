@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T23:14:45.337500+00:00'
+updated: '2025-12-07T23:31:22.436263+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 23:14 UTC  
+**Last Updated:** December 07, 2025 at 23:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +4.1%  
-**30d:** -12.4%  
-**90d:** -19.5%  
-**1y:** -11.2%  
+**24h:** +0.4%  
+**7d:** +4.0%  
+**30d:** -12.5%  
+**90d:** -19.6%  
+**1y:** -11.3%  
 
 ---
 
@@ -89,7 +89,7 @@ Rank #1
 
 Ngl I lowkey love to see it.
 
-1h ago
+2h ago
 
 ---
 
@@ -107,7 +107,7 @@ Ngl I lowkey love to see it.
 
 **[Not selling Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgtw05/not_selling_bitcoin/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -135,7 +135,7 @@ Some people on TV or online act like inflation is “not that bad” or even pre
 
 **[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -225,7 +225,7 @@ Futurism • 1d ago
 
 Key PointsBitcoin's prior all-time high was more than $126,000.
 
-Nasdaq • 18h ago
+Nasdaq • 19h ago
 
 ---
 
@@ -335,7 +335,7 @@ The crypto market may have just flipped the script. After weeks of fear, fakeout
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 342 • 💬 115 • ⏱️ 9:56 • 7h ago
+👁️ 5K • 👍 342 • 💬 115 • ⏱️ 9:56 • 8h ago
 
 ---
 
