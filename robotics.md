@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T07:00:03.460629+00:00'
+updated: '2025-12-07T07:25:57.168945+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 07:00 UTC  
+**Last Updated:** December 07, 2025 at 07:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 Zhongqing CEO Receives the Challenge of T800
 
-18h ago
+19h ago
 
 ---
 
@@ -52,7 +52,7 @@ Zhongqing CEO Receives the Challenge of T800
 
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
 
-11h ago
+12h ago
 
 ---
 
@@ -74,7 +74,7 @@ https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
 Conferencia realizada en la Sorbonne Paris, viernes 05 de diciembre. Se trató sobre los proyectos de Hobbie y concurso hasta la industria, proyectos de grande escala, también se tocó el tema del futuro, hasta donde iremos? La estética en la robótica y la ética en la robótica, de una manera genérica se todo también la tecnología en sí. Muchas gracias a Jorge Linares por la invitación. Jorge Abraham Salgado
 
-11m ago
+37m ago
 
 ---
 
@@ -88,7 +88,7 @@ Conferencia realizada en la Sorbonne Paris, viernes 05 de diciembre. Se trató s
 
 Meet Octoid, the squishy robot that changes from blue to green to red.
 
-🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 14h ago
+🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Meet Octoid, the squishy robot that changes from blue to green to red.
 
 I’m an elementary school special education teacher and I’ll be coaching an after school robotics club for our 4th and 5th grade students after the new year. Whoever wants to sign up. I’ve never 1) done an after school club or 2) done anything with robotics or coding. My district is providing a day of training for it once we get back from winter break. But I’m asking you all for any tips, tricks, or suggestions! Thank you!
 
-10h ago
+11h ago
 
 ---
 
@@ -148,7 +148,7 @@ Yahoo Finance • 2d ago
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-South China Morning Post • 5h ago
+South China Morning Post • 6h ago
 
 ---
 
@@ -200,7 +200,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 20K • 👍 792 • 💬 63 • ⏱️ 24:47 • 14h ago
+👁️ 20K • 👍 792 • 💬 63 • ⏱️ 24:47 • 15h ago
 
 ---
 
@@ -210,7 +210,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 16K • 👍 164 • 💬 40 • ⏱️ 1:03 • 14h ago
+👁️ 16K • 👍 164 • 💬 40 • ⏱️ 1:03 • 15h ago
 
 ---
 
@@ -250,7 +250,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 63K • 👍 3K • 💬 451 • ⏱️ 19:33 • 15h ago
+👁️ 63K • 👍 3K • 💬 451 • ⏱️ 19:33 • 16h ago
 
 ---
 
@@ -278,7 +278,7 @@ TBN Israel's Yair Pinto reports on the Israel-Hamas and regional war. From the h
 
 📺 TBN Israel
 
-👁️ 61K • 👍 6K • 💬 509 • ⏱️ 20:52 • 16h ago
+👁️ 61K • 👍 6K • 💬 509 • ⏱️ 20:52 • 17h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T07:00:03.443055+00:00'
+updated: '2025-12-07T07:25:57.151044+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- social
+- videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 07:00 UTC  
+**Last Updated:** December 07, 2025 at 07:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 16h ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 17h ago
 
 ---
 
@@ -55,7 +55,7 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 20h ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 21h ago
 
 ---
 
@@ -63,7 +63,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 I saw a paper/article on hacker news at one point about making LLMs where they did not use floating point gpus to do their calculations so you wouldn't get the non-deterministic problem (ask same question get diffrent response). How is that going? I work with RAG tech and it seems amazing but it also is sketch when a table is read incorrectly and values are off by a significant figure.
 
-26m ago
+52m ago
 
 ---
 
@@ -123,13 +123,13 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 15h ago
+The Guardian • 16h ago
 
 ---
 
 **[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqeTHeXU-Gaqp0KbSx_cwV6B0AuvJlOtwlDjEHYOZmwYNcy713KwyBlU&gaa_ts=69352961&gaa_sig=Mykde2d6V4an7Befrd46Gap37t75V-DRepEhKP0wj5uv367qfQAiCVigM-9IQNeZTYvGRL1py-2b6BjkrlQuGg%3D%3D)**
 
-The Wall Street Journal • 13h ago
+The Wall Street Journal • 14h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Wall Street Journal • 13h ago
 
 How do an artist, a videographer, a musician and a copywriter feel about generative AI?
 
-BBC • 30m ago
+BBC • 55m ago
 
 ---
 
@@ -145,7 +145,7 @@ BBC • 30m ago
 
 China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
 
-Fortune • 12h ago
+Fortune • 13h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Keyword • 1d ago
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-ABC News • 20h ago
+ABC News • 21h ago
 
 ---
 
@@ -297,7 +297,7 @@ INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, 
 
 📺 AI Search
 
-👁️ 11K • 👍 906 • 💬 281 • ⏱️ 47:03 • 3h ago
+👁️ 11K • 👍 906 • 💬 281 • ⏱️ 47:03 • 4h ago
 
 ---
 
@@ -307,7 +307,7 @@ subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianB
 
 📺 yikes
 
-👁️ 131K • 👍 7K • 💬 958 • ⏱️ 21:06 • 14h ago
+👁️ 131K • 👍 7K • 💬 958 • ⏱️ 21:06 • 15h ago
 
 ---
 
@@ -683,7 +683,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 924 • 🔱 113 • 18h ago
+⭐ 924 • 🔱 113 • 19h ago
 
 ---
 
@@ -693,7 +693,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 30s ago
+⭐ 826 • 🔱 43 • 26m ago
 
 ---
 
@@ -703,7 +703,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 823 • 🔱 22 • 16h ago
+⭐ 823 • 🔱 22 • 17h ago
 
 ---
 
@@ -723,7 +723,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 714 • 🔱 237 • 23h ago
+⭐ 714 • 🔱 237 • 1d ago
 
 ---
 
