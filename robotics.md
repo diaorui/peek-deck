@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T08:00:51.815998+00:00'
+updated: '2025-12-07T08:34:55.316369+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 08:00 UTC  
+**Last Updated:** December 07, 2025 at 08:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,15 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 Zhongqing CEO Receives the Challenge of T800
 
-19h ago
+20h ago
+
+---
+
+**[I deployed a PPO-trained Bipedal Walker neural network on an STM32 microcontroller 🤖⚡ (full pipeline + code)](https://www.reddit.com/r/robotics/comments/1pgc7uw/i_deployed_a_ppotrained_bipedal_walker_neural/)**
+
+I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/yourusername/BipedalWalker-PPO-STM32 Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
+
+1h ago
 
 ---
 
@@ -52,7 +60,7 @@ Zhongqing CEO Receives the Challenge of T800
 
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
 
-12h ago
+13h ago
 
 ---
 
@@ -67,14 +75,6 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
 12h ago
-
----
-
-**[I deployed a PPO-trained Bipedal Walker neural network on an STM32 microcontroller 🤖⚡ (full pipeline + code)](https://www.reddit.com/r/robotics/comments/1pgc7uw/i_deployed_a_ppotrained_bipedal_walker_neural/)**
-
-I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/yourusername/BipedalWalker-PPO-STM32 Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
-
-46m ago
 
 ---
 
@@ -96,15 +96,15 @@ Conferencia realizada en la Sorbonne Paris, viernes 05 de diciembre. Se trató s
 
 Meet Octoid, the squishy robot that changes from blue to green to red.
 
-🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 15h ago
+🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 16h ago
 
 ---
 
-**[Elementary Robotics Club Tips](https://www.reddit.com/r/robotics/comments/1pfyljf/elementary_robotics_club_tips/)**
+**[Sunday Robotics: Collecting Data Through the Memory-Developer Glove Before Building the Humanoid](https://www.reddit.com/r/robotics/comments/1pf9wv3/sunday_robotics_collecting_data_through_the/)**
 
-I’m an elementary school special education teacher and I’ll be coaching an after school robotics club for our 4th and 5th grade students after the new year. Whoever wants to sign up. I’ve never 1) done an after school club or 2) done anything with robotics or coding. My district is providing a day of training for it once we get back from winter break. But I’m asking you all for any tips, tricks, or suggestions! Thank you!
+https://youtu.be/UAlm8Z4mfpU
 
-11h ago
+1d ago
 
 ---
 
@@ -120,11 +120,11 @@ CBS News • 2d ago
 
 ---
 
-**[MIT’s AI Robotics Lab Director Is Building People-Centered Robots](https://spectrum.ieee.org/mits-ai-robotics-lab-director)**
+**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://www.barchart.com/story/news/36461441/3-robotics-stocks-to-buy-now-ahead-of-a-white-house-game-changer)**
 
-From Romania to MIT, Daniela Rus is redefining robotics to enhance human capabilities. What's her secret to giving people 'superpowers'?
+The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
 
-IEEE Spectrum • 3d ago
+Barchart.com • 2d ago
 
 ---
 
@@ -144,35 +144,11 @@ South China Morning Post • 7h ago
 
 ---
 
-**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://finance.yahoo.com/news/3-robotics-stocks-buy-now-185157525.html)**
+**[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
 
-The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
+Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
 
-Yahoo Finance • 2d ago
-
----
-
-**[New robots inside Boise's USPS facility help process and handle packages during holiday rush](https://www.ktvb.com/article/news/local/new-robots-usps-facility-help-process-holiday-rush/277-0ba7c01f-695c-465f-80f4-e2889aeafaa6)**
-
-USPS Boise facility gets four robotic arms to help process 220,000 packages daily during holiday rush, allowing redeployment of workers to areas needing human touch.
-
-KTVB • 1d ago
-
----
-
-**[Marine robotics firm will resume deep-sea search for MH370 plane that vanished a decade ago](https://www.cnn.com/2025/12/03/asia/malaysia-mh370-robotics-search-latam-intl)**
-
-Malaysia’s transport ministry said Wednesday that a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace.
-
-CNN • 3d ago
-
----
-
-**[This Robotic Surgery Legend Is Pouring $100 Million Into Next-Gen Medical Startups](https://www.forbes.com/sites/amyfeldman/2025/12/03/robotic-surgery-legend-fred-moll-is-pouring-100-million-into-next-gen-medical-startups/)**
-
-Fred Moll, the cofounder of $200 billion Intuitive Surgical, has invested in some 15 companies building robots that could help make both complex and common surgeries more accessible to everyone.
-
-Forbes • 1d ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -182,11 +158,35 @@ Investor's Business Daily • 2d ago
 
 ---
 
-**[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
+**[Could Prospective U.S. Robotics Support Reframe iRobot’s (IRBT) Consumer-Focused Model Amid Financial Strains?](https://finance.yahoo.com/news/could-prospective-u-robotics-support-131214942.html)**
 
-Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
+Earlier this week, reports that the White House is considering an executive order to accelerate growth in the U.S. robotics industry prompted intense investor focus on iRobot and other robotics-linked companies, even as iRobot continues to grapple with liquidity pressures, declining revenue, and a high risk of bankruptcy. The news also highlighted how potential federal support may primarily target industrial robotics and advanced manufacturing, raising questions about how directly...
 
-Seeking Alpha • 1d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[MIT’s AI Robotics Lab Director Is Building People-Centered Robots](https://spectrum.ieee.org/mits-ai-robotics-lab-director)**
+
+From Romania to MIT, Daniela Rus is redefining robotics to enhance human capabilities. What's her secret to giving people 'superpowers'?
+
+IEEE Spectrum • 3d ago
+
+---
+
+**[Robotics Stocks Surged on Wednesday. Here's Why.](https://www.nasdaq.com/articles/robotics-stocks-surged-wednesday-heres-why)**
+
+Key PointsPresident Trump is reportedly considering signing an executive order in the new year to accelerate the development of robots in the U.S.
+
+Nasdaq • 3d ago
+
+---
+
+**[New robots inside Boise's USPS facility help process and handle packages during holiday rush](https://www.ktvb.com/article/news/local/new-robots-usps-facility-help-process-holiday-rush/277-0ba7c01f-695c-465f-80f4-e2889aeafaa6)**
+
+USPS Boise facility gets four robotic arms to help process 220,000 packages daily during holiday rush, allowing redeployment of workers to areas needing human touch.
+
+KTVB • 1d ago
 
 ---
 
@@ -200,7 +200,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 20K • 👍 792 • 💬 63 • ⏱️ 24:47 • 15h ago
+👁️ 20K • 👍 792 • 💬 63 • ⏱️ 24:47 • 16h ago
 
 ---
 
@@ -210,7 +210,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 16K • 👍 164 • 💬 40 • ⏱️ 1:03 • 15h ago
+👁️ 16K • 👍 164 • 💬 40 • ⏱️ 1:03 • 16h ago
 
 ---
 
@@ -220,7 +220,7 @@ After months of buildup, the Shenzhen startup EngineAI is taking orders for its 
 
 📺 Kalil 4.0
 
-👁️ 903 • 👍 47 • 💬 8 • ⏱️ 0:59 • 2h ago
+👁️ 903 • 👍 47 • 💬 8 • ⏱️ 0:59 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T08:00:51.798180+00:00'
+updated: '2025-12-07T08:34:55.298358+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
+- videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 08:00 UTC  
+**Last Updated:** December 07, 2025 at 08:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Calls for review after technology found to return more false positives for ‘some demographic groups’ on certain settings
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 45m ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 1h ago
 
 ---
 
@@ -49,7 +49,7 @@ Calls for review after technology found to return more false positives for ‘so
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 17h ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 18h ago
 
 ---
 
@@ -63,7 +63,7 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 21h ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 22h ago
 
 ---
 
@@ -71,7 +71,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 I saw a paper/article on hacker news at one point about making LLMs where they did not use floating point gpus to do their calculations so you wouldn't get the non-deterministic problem (ask same question get different response). How is that going? I work with RAG tech and it seems amazing but it also is sketch when a table is read incorrectly and values are off by a significant figure.
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 1) Strategist 2) Researcher 3) Coder 4) Analyst 5) Critic 6) Fixer 7) Teacher-Documenter 8) Final output Assembler/Presenter
 
-8h ago
+9h ago
 
 ---
 
@@ -123,13 +123,13 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 16h ago
+The Guardian • 17h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcdHsznbDzIyN3Y2tNR8lOZKxFJ2hHxaDdsakx5Rjcspu3CS9h1Cmvk&gaa_ts=6935327f&gaa_sig=os5_DjDT1nUhqCnY34kMQmeVWu2AWnALyLm-4tR2f6Ov-Hp-Ihf2_8bkBrlMq_f5oHTWHNdbHCgMZAlRuyTgJQ%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcCA1WkxFxNmfTeAOOoJRtukcgOiOmffE1hFJb7pJQm4yG1P4dKF2Ik&gaa_ts=69353f8b&gaa_sig=TuW8LY9jOpcs8cax3s4bUmPkFDtDZCTxFWIbrZ1okp--gVd0TOHyJPwC42nN0_0Fyr9-9YyfPMMMwp0qteYT9g%3D%3D)**
 
-The Wall Street Journal • 14h ago
+The Wall Street Journal • 15h ago
 
 ---
 
@@ -137,7 +137,13 @@ The Wall Street Journal • 14h ago
 
 How do an artist, a videographer, a musician and a copywriter feel about generative AI?
 
-BBC • 1h ago
+BBC • 2h ago
+
+---
+
+**[Opinion | Let’s not idolize AI. That’s an age-old mistake.](https://www.washingtonpost.com/opinions/2025/12/07/ai-idols-consciousness-religion-llms/)**
+
+The Washington Post • 12m ago
 
 ---
 
@@ -145,7 +151,15 @@ BBC • 1h ago
 
 China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
 
-Fortune • 13h ago
+Fortune • 14h ago
+
+---
+
+**[Can AI help forecasters better predict destructive hurricanes?](https://abcnews.go.com/US/ai-forecasters-predict-destructive-hurricanes/story?id=128083437)**
+
+AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
+
+ABC News • 22h ago
 
 ---
 
@@ -154,14 +168,6 @@ Fortune • 13h ago
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
 The Keyword • 1d ago
-
----
-
-**[Can AI help forecasters better predict destructive hurricanes?](https://abcnews.go.com/US/ai-forecasters-predict-destructive-hurricanes/story?id=128083437)**
-
-AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
-
-ABC News • 21h ago
 
 ---
 
@@ -176,12 +182,6 @@ The Economist • 2d ago
 The V-JEPA system uses ordinary videos to understand the physics of the real world.
 
 WIRED • 8h ago
-
----
-
-**[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
-
-The New York Times • 1d ago
 
 ---
 
@@ -209,7 +209,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 547 • 💬 282 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 548 • 💬 282 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -217,7 +217,7 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 433 • 💬 334 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 435 • 💬 334 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -225,7 +225,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 391 • 💬 217 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 391 • 💬 219 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -297,7 +297,7 @@ INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, 
 
 📺 AI Search
 
-👁️ 11K • 👍 906 • 💬 281 • ⏱️ 47:03 • 4h ago
+👁️ 11K • 👍 906 • 💬 281 • ⏱️ 47:03 • 5h ago
 
 ---
 
@@ -307,7 +307,7 @@ subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianB
 
 📺 yikes
 
-👁️ 131K • 👍 7K • 💬 958 • ⏱️ 21:06 • 15h ago
+👁️ 131K • 👍 7K • 💬 958 • ⏱️ 21:06 • 16h ago
 
 ---
 
@@ -403,7 +403,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 18,140 • ❤️ 755 • 5d ago
+⬇️ 18,140 • ❤️ 756 • 5d ago
 
 ---
 
@@ -415,7 +415,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 4,718 • ❤️ 523 • 5d ago
+⬇️ 4,718 • ❤️ 525 • 5d ago
 
 ---
 
@@ -427,7 +427,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 376 • 2d ago
+⬇️ 20,067 • ❤️ 383 • 2d ago
 
 ---
 
@@ -459,7 +459,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 233 • 5d ago
+⬇️ 0 • ❤️ 234 • 5d ago
 
 ---
 
@@ -471,7 +471,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 196,425 • ❤️ 909 • 9d ago
+⬇️ 196,425 • ❤️ 910 • 9d ago
 
 ---
 
@@ -683,7 +683,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 928 • 🔱 113 • 19h ago
+⭐ 928 • 🔱 113 • 20h ago
 
 ---
 
@@ -693,7 +693,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 47m ago
+⭐ 826 • 🔱 43 • 1h ago
 
 ---
 
@@ -703,7 +703,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 824 • 🔱 22 • 17h ago
+⭐ 824 • 🔱 22 • 18h ago
 
 ---
 
