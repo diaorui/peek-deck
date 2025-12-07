@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T08:50:17.083388+00:00'
+updated: '2025-12-07T09:09:18.903322+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 08:50 UTC  
+**Last Updated:** December 07, 2025 at 09:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,15 +36,7 @@ Robotics research and industry news
 
 Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
-21h ago
-
----
-
-**[Zhongqing t800 robot vs human](https://www.reddit.com/r/robotics/comments/1pfnufq/zhongqing_t800_robot_vs_human/)**
-
-Zhongqing CEO Receives the Challenge of T800
-
-20h ago
+22h ago
 
 ---
 
@@ -53,6 +45,14 @@ Zhongqing CEO Receives the Challenge of T800
 I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/yourusername/BipedalWalker-PPO-STM32 Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
 
 1h ago
+
+---
+
+**[Zhongqing t800 robot vs human](https://www.reddit.com/r/robotics/comments/1pfnufq/zhongqing_t800_robot_vs_human/)**
+
+Zhongqing CEO Receives the Challenge of T800
+
+20h ago
 
 ---
 
@@ -66,7 +66,13 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 **[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
 
-15h ago
+16h ago
+
+---
+
+**[Sharing sensor data between multiple devices on the same network](https://www.reddit.com/r/robotics/comments/1pgdpyl/sharing_sensor_data_between_multiple_devices_on/)**
+
+17m ago
 
 ---
 
@@ -96,15 +102,7 @@ Conferencia realizada en la Sorbonne Paris, viernes 05 de diciembre. Se trató s
 
 Meet Octoid, the squishy robot that changes from blue to green to red.
 
-🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 16h ago
-
----
-
-**[Sunday Robotics: Collecting Data Through the Memory-Developer Glove Before Building the Humanoid](https://www.reddit.com/r/robotics/comments/1pf9wv3/sunday_robotics_collecting_data_through_the/)**
-
-https://youtu.be/UAlm8Z4mfpU
-
-1d ago
+🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 17h ago
 
 ---
 
@@ -120,14 +118,6 @@ CBS News • 2d ago
 
 ---
 
-**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://www.barchart.com/story/news/36461441/3-robotics-stocks-to-buy-now-ahead-of-a-white-house-game-changer)**
-
-The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
-
-Barchart.com • 2d ago
-
----
-
 **[MIT researchers “speak objects into existence” using AI and robotics](https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205)**
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
@@ -140,15 +130,39 @@ MIT News • 1d ago
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-South China Morning Post • 7h ago
+South China Morning Post • 8h ago
 
 ---
 
-**[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
+**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://finance.yahoo.com/news/3-robotics-stocks-buy-now-185157525.html)**
 
-Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
+The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
 
-Seeking Alpha • 1d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
+
+Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
+
+MLive.com • 2d ago
+
+---
+
+**[New robots inside Boise's USPS facility help process and handle packages during holiday rush](https://www.ktvb.com/article/news/local/new-robots-usps-facility-help-process-holiday-rush/277-0ba7c01f-695c-465f-80f4-e2889aeafaa6)**
+
+USPS Boise facility gets four robotic arms to help process 220,000 packages daily during holiday rush, allowing redeployment of workers to areas needing human touch.
+
+KTVB • 1d ago
+
+---
+
+**[Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices](https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/)**
+
+The NVIDIA Jetson AGX Thor, AGX Orin and Jetson Orin Nano Super developer kits — on sale through Jan. 11 — give anyone the power to build intelligent robots of the future.
+
+NVIDIA Blog • 2d ago
 
 ---
 
@@ -158,35 +172,19 @@ Investor's Business Daily • 2d ago
 
 ---
 
-**[Could Prospective U.S. Robotics Support Reframe iRobot’s (IRBT) Consumer-Focused Model Amid Financial Strains?](https://finance.yahoo.com/news/could-prospective-u-robotics-support-131214942.html)**
+**[This Robotic Surgery Legend Is Pouring $100 Million Into Next-Gen Medical Startups](https://www.forbes.com/sites/amyfeldman/2025/12/03/robotic-surgery-legend-fred-moll-is-pouring-100-million-into-next-gen-medical-startups/)**
 
-Earlier this week, reports that the White House is considering an executive order to accelerate growth in the U.S. robotics industry prompted intense investor focus on iRobot and other robotics-linked companies, even as iRobot continues to grapple with liquidity pressures, declining revenue, and a high risk of bankruptcy. The news also highlighted how potential federal support may primarily target industrial robotics and advanced manufacturing, raising questions about how directly...
+Fred Moll, the cofounder of $200 billion Intuitive Surgical, has invested in some 15 companies building robots that could help make both complex and common surgeries more accessible to everyone.
 
-Yahoo Finance • 1d ago
-
----
-
-**[MIT’s AI Robotics Lab Director Is Building People-Centered Robots](https://spectrum.ieee.org/mits-ai-robotics-lab-director)**
-
-From Romania to MIT, Daniela Rus is redefining robotics to enhance human capabilities. What's her secret to giving people 'superpowers'?
-
-IEEE Spectrum • 3d ago
+Forbes • 1d ago
 
 ---
 
-**[Robotics Stocks Surged on Wednesday. Here's Why.](https://www.nasdaq.com/articles/robotics-stocks-surged-wednesday-heres-why)**
+**[Uncommon Knowledge: The New Birthrate Math—Tax Condoms, Buy Robots](https://www.newsweek.com/birthrate-tax-condoms-robots-musk-china-11161275)**
 
-Key PointsPresident Trump is reportedly considering signing an executive order in the new year to accelerate the development of robots in the U.S.
+Elon Musk sees a future in which most people don't need to work. Beijing betting on it now.
 
-Nasdaq • 3d ago
-
----
-
-**[New robots inside Boise's USPS facility help process and handle packages during holiday rush](https://www.ktvb.com/article/news/local/new-robots-usps-facility-help-process-holiday-rush/277-0ba7c01f-695c-465f-80f4-e2889aeafaa6)**
-
-USPS Boise facility gets four robotic arms to help process 220,000 packages daily during holiday rush, allowing redeployment of workers to areas needing human touch.
-
-KTVB • 1d ago
+Newsweek • 1d ago
 
 ---
 
@@ -200,7 +198,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 20K • 👍 792 • 💬 63 • ⏱️ 24:47 • 16h ago
+👁️ 22K • 👍 829 • 💬 65 • ⏱️ 24:47 • 17h ago
 
 ---
 
@@ -210,17 +208,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 16K • 👍 164 • 💬 40 • ⏱️ 1:03 • 16h ago
-
----
-
-**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
-
-After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
-
-📺 Kalil 4.0
-
-👁️ 903 • 👍 47 • 💬 8 • ⏱️ 0:59 • 3h ago
+👁️ 21K • 👍 184 • 💬 47 • ⏱️ 1:03 • 17h ago
 
 ---
 
@@ -230,7 +218,17 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 15K • 👍 328 • 💬 162 • ⏱️ 4:05 • 2d ago
+👁️ 16K • 👍 333 • 💬 163 • ⏱️ 4:05 • 2d ago
+
+---
+
+**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
+
+After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
+
+📺 Kalil 4.0
+
+👁️ 2K • 👍 67 • 💬 13 • ⏱️ 0:59 • 3h ago
 
 ---
 
@@ -240,7 +238,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 71K • 👍 562 • 💬 270 • ⏱️ 2:30 • 3d ago
+👁️ 71K • 👍 565 • 💬 271 • ⏱️ 2:30 • 3d ago
 
 ---
 
@@ -250,17 +248,27 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 63K • 👍 3K • 💬 451 • ⏱️ 19:33 • 17h ago
+👁️ 66K • 👍 4K • 💬 467 • ⏱️ 19:33 • 18h ago
 
 ---
 
-**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
+**[AI Spider Quadruped Robot Wall-Climbing &amp; Web-Swing Demo at 2025  Robotic Expo in Silicon Valley](https://www.youtube.com/watch?v=EFOb_DZ1Wjk)**
 
-Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
+In 2025 Silicon Valley, a next-gen AI Spider Quadruped Robot reveals a completely new way of moving. It walks through the ...
 
-📺 Unitree Robotics
+📺 AI Robot Lab
 
-👁️ 1.5M • 👍 1K • 💬 299 • ⏱️ 1:06 • 3d ago
+👁️ 22K • 👍 222 • 💬 5 • ⏱️ 0:25 • 18h ago
+
+---
+
+**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
+
+Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
+
+📺 AI Revolution
+
+👁️ 79K • 👍 2K • 💬 355 • ⏱️ 12:07 • 1d ago
 
 ---
 
@@ -272,23 +280,13 @@ Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G
 
 ---
 
-**[BREAKING: Cyber and Robotics Warfare Revolutionized By IDF Innovation | TBN Israel](https://www.youtube.com/watch?v=rY0-o3-ve18)**
+**[China&#39;s humanoid robotics leap: new T800 unveiled](https://www.youtube.com/watch?v=wbLl3aSOzoc)**
 
-TBN Israel's Yair Pinto reports on the Israel-Hamas and regional war. From the hills of Har Adar to the frontlines of innovation, ...
+For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-new-T800-unveiled-1INHjYVbHGM/p.html ...
 
-📺 TBN Israel
+📺 CGTN
 
-👁️ 61K • 👍 6K • 💬 509 • ⏱️ 20:52 • 18h ago
-
----
-
-**[AI Spider Quadruped Robot Wall-Climbing &amp; Web-Swing Demo at 2025  Robotic Expo in Silicon Valley](https://www.youtube.com/watch?v=EFOb_DZ1Wjk)**
-
-In 2025 Silicon Valley, a next-gen AI Spider Quadruped Robot reveals a completely new way of moving. It walks through the ...
-
-📺 AI Robot Lab
-
-👁️ 21K • 👍 214 • 💬 5 • ⏱️ 0:25 • 18h ago
+👁️ 102K • 💬 627 • ⏱️ 1:21 • 3d ago
 
 ---
 

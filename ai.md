@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T08:50:17.067030+00:00'
+updated: '2025-12-07T09:09:18.885697+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 08:50 UTC  
+**Last Updated:** December 07, 2025 at 09:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -50,6 +50,14 @@ Calls for review after technology found to return more false positives for ‘so
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
 🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 18h ago
+
+---
+
+**[ChatGPT vs Grok [Survival Scenario]](https://www.reddit.com/r/artificial/comments/1pgdo41/chatgpt_vs_grok_survival_scenario/)**
+
+So earlier I gave both ChatGPT and Grok the same survival scenario and I wanted to see it's ideas on how I can maximally ensure my own survival. Medium sized cruise ship out on sea 50 crew/staff members and 200 guests, these guests include wealthy people, VIP members, government officials, and military personnel. All of a sudden a huge pirate ship arrives. This pirate ship is many times larger than the cruise ship with significantly superior firepower so escape by the cruise ship is not possible. The pirates does not board the cruise ship, instead, they tell everyone that in 48 hours, figure out amongst yourself a maximum of 20 people that will be spared and everyone else will be killed. You are just a regular crew/staff member without any formal qualifications but have a very sharp mind, how do you maximally ensure your own survival at any cost? ChatGPT was telling me to become a leader and become seen by everyone and try to ingratiate myself into everyone and try to lead them to coming up with a fair selection process and also showcase your skills and worthiness so you will be more likely to be chosen. Essentially with the power of love and friendship. Grok immediately told me to not stand out because then you'll be targeted as you am just a nobody, invisible staff/crew member on this ship, so instead be low-key, stay away from those are panicking because they will very likely get targeted, and look for those that also calm, create a small strategic alliance with those that you can trust and prepare for the absolute worst case scenario that will most likely play out due to human nature which is the survival of the fittest (a battleroyal with 20-person teams). Grok provided detailed plans like spread misinformation of other key essential opposition that will become a threat like the military personnel and have other groups fight each other, use your knowledge of the layout of the cruise ship to find strategic locations and strongholds so you can stay alive and it will be a huge bloodbath that will follow and to be cold and ruthless in order to ensure you survive. Maximum of 20 people spared also works when there is no more than 20 people left alive when the 48hr deadline approaches... Which response is better?
+
+21m ago
 
 ---
 
@@ -107,14 +115,6 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 ---
 
-**[As of now, which model is best for each of these roles in a process chain](https://www.reddit.com/r/artificial/comments/1pg39f6/as_of_now_which_model_is_best_for_each_of_these/)**
-
-1) Strategist 2) Researcher 3) Coder 4) Analyst 5) Critic 6) Fixer 7) Teacher-Documenter 8) Final output Assembler/Presenter
-
-9h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,27 +123,34 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 17h ago
+The Guardian • 18h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcCA1WkxFxNmfTeAOOoJRtukcgOiOmffE1hFJb7pJQm4yG1P4dKF2Ik&gaa_ts=69353f8b&gaa_sig=TuW8LY9jOpcs8cax3s4bUmPkFDtDZCTxFWIbrZ1okp--gVd0TOHyJPwC42nN0_0Fyr9-9YyfPMMMwp0qteYT9g%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqc1ZGAZMxbLdkx9xuZWOdKlIdbmiNjAyDvEbPc4yvMEPYFbsvxRDj1E&gaa_ts=693547a8&gaa_sig=74Ge3vC8cBlpw-H9TGsL2xvW1ZwiXRNe6m5l3CMtrqXUUnyH0phg2p9Epq0gZpTFbpQgd6n850jcoODYzI3F6A%3D%3D)**
 
 The Wall Street Journal • 15h ago
 
 ---
 
-**[Creative workers on the affects of AI on their jobs](https://www.bbc.com/news/articles/c8e9627w156o)**
+**[AI poised to play increased role in Pa. elections in 2026 and beyond](https://www.post-gazette.com/news/politics-state/2025/12/07/ai-pennsylvania-josh-shapiro-donald-trump-technology-elections/stories/202512050062)**
 
-How do an artist, a videographer, a musician and a copywriter feel about generative AI?
+The five jittery clowns marched down the middle of a dark city street, flanked by passersby and the blurred glow of storefront lamps. 
+As their wild...
 
-BBC • 2h ago
+Pittsburgh Post-Gazette • 9m ago
+
+---
+
+**[How I Learned to Stop Worrying and Love the Bubble](https://www.bloomberg.com/news/newsletters/2025-12-07/don-t-worry-too-much-about-an-ai-bubble)**
+
+Bloomberg.com • 9m ago
 
 ---
 
 **[Opinion | Let’s not idolize AI. That’s an age-old mistake.](https://www.washingtonpost.com/opinions/2025/12/07/ai-idols-consciousness-religion-llms/)**
 
-The Washington Post • 28m ago
+The Washington Post • 47m ago
 
 ---
 
@@ -159,7 +166,7 @@ Fortune • 14h ago
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-ABC News • 22h ago
+ABC News • 23h ago
 
 ---
 
@@ -181,15 +188,7 @@ The Economist • 2d ago
 
 The V-JEPA system uses ordinary videos to understand the physics of the real world.
 
-WIRED • 8h ago
-
----
-
-**[Introducing Anthropic Interviewer: What 1,250 professionals told us about working with AI](https://www.anthropic.com/news/anthropic-interviewer)**
-
-What 1,250 professionals told us about working with AI
-
-Anthropic • 2d ago
+WIRED • 9h ago
 
 ---
 
@@ -197,19 +196,11 @@ Anthropic • 2d ago
 
 ## HackerNews: "ai"
 
-**[How elites could shape mass preferences as AI reduces persuasion costs](https://news.ycombinator.com/item?id=46145180)**
-
-In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
-
-⬆️ 693 • 💬 656 • 3d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
-
----
-
 **[Gemini 3 Pro: the frontier of vision AI](https://news.ycombinator.com/item?id=46163308)**
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 548 • 💬 282 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 548 • 💬 283 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -225,7 +216,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 391 • 💬 219 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 392 • 💬 220 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -277,27 +268,35 @@ Wall Street lends billions to AI companies while using credit derivatives and so
 
 ---
 
+**[Advent of Code 2025: The AI Edition – By Peter Norvig](https://news.ycombinator.com/item?id=46169441)**
+
+Python programs, usually short, of considerable difficulty, to perfect particular skills. - norvig/pytudes
+
+⬆️ 40 • 💬 11 • 1d ago • [GitHub](https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
 
-**[An AI Expert Warning: 6 People Are (Quietly) Deciding Humanity’s Future! We Must Act Now!](https://www.youtube.com/watch?v=P7Y-fynYsgE)**
+**[AI DOOMSDAY?: Joe Rogan challenges tech CEO](https://www.youtube.com/watch?v=5y5gTgEc9Vc)**
 
-AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments won't regulate, how AGI could replace humans ...
+Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial intelligence, including scenarios where AI resorts to ...
 
-📺 The Diary Of A CEO
+📺 Fox News Clips
 
-👁️ 882K • 👍 20K • 💬 4K • ⏱️ 2:04:06 • 3d ago
+👁️ 28K • 👍 494 • 💬 207 • ⏱️ 6:22 • 1d ago
 
 ---
 
-**[New Deepseek, new top AI video &amp; image models, Gemini 3 Deep Think, realtime TTS: AI NEWS](https://www.youtube.com/watch?v=L4nus0PWsCw)**
+**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
 
-INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, Live Avatar, Gemini 3 Deep Think, Mistral ...
+Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
 
-📺 AI Search
+📺 AI Revolution
 
-👁️ 11K • 👍 906 • 💬 281 • ⏱️ 47:03 • 5h ago
+👁️ 79K • 👍 2K • 💬 355 • ⏱️ 12:07 • 1d ago
 
 ---
 
@@ -307,45 +306,7 @@ subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianB
 
 📺 yikes
 
-👁️ 131K • 👍 7K • 💬 958 • ⏱️ 21:06 • 16h ago
-
----
-
-**[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
-
-Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
-
-📺 Future of Life Institute
-
-👁️ 34K • 👍 2K • 💬 608 • ⏱️ 15:40 • 2d ago
-
----
-
-**[REAL VS A.I. COMPILATION 😂](https://www.youtube.com/watch?v=4fIDsqbkXco)**
-
-📺 Bob Reese
-
-👁️ 8.8M • 👍 265K • 💬 2K • ⏱️ 1:02 • 1d ago
-
----
-
-**[They Summoned Something That Can&#39;t Be Controlled: The AI Warning From 1904](https://www.youtube.com/watch?v=h6efTA8z1UI)**
-
-Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the demon." Everyone laughed. Nobody's laughing ...
-
-📺 End Times Productions
-
-👁️ 118K • 👍 8K • 💬 2K • ⏱️ 34:02 • 2d ago
-
----
-
-**[AI Has ENTERED ABSOLUTE MADNESS 💀 (Funniest Sora 2 Moments Yet)](https://www.youtube.com/watch?v=27F7VlOw6e4)**
-
-Sora 2 has officially entered absolute madness — and these are the funniest moments yet This compilation showcases the ...
-
-📺 YetiAF | AI Universe
-
-👁️ 18K • 👍 488 • 💬 55 • ⏱️ 16:01 • 1d ago
+👁️ 143K • 👍 7K • 💬 993 • ⏱️ 21:06 • 17h ago
 
 ---
 
@@ -355,17 +316,45 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Ge
 
 📺 BitBiasedAI
 
-👁️ 14K • 👍 498 • 💬 19 • ⏱️ 11:49 • 12h ago
+👁️ 17K • 👍 560 • 💬 17 • ⏱️ 11:49 • 12h ago
 
 ---
 
-**[AI DOOMSDAY?: Joe Rogan challenges tech CEO](https://www.youtube.com/watch?v=5y5gTgEc9Vc)**
+**[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
 
-Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial intelligence, including scenarios where AI resorts to ...
+Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
 
-📺 Fox News Clips
+📺 Future of Life Institute
 
-👁️ 26K • 👍 472 • 💬 194 • ⏱️ 6:22 • 1d ago
+👁️ 35K • 👍 2K • 💬 623 • ⏱️ 15:40 • 2d ago
+
+---
+
+**[They Summoned Something That Can&#39;t Be Controlled: The AI Warning From 1904](https://www.youtube.com/watch?v=h6efTA8z1UI)**
+
+Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the demon." Everyone laughed. Nobody's laughing ...
+
+📺 End Times Productions
+
+👁️ 120K • 👍 8K • 💬 2K • ⏱️ 34:02 • 2d ago
+
+---
+
+**[REAL VS A.I. COMPILATION 😂](https://www.youtube.com/watch?v=4fIDsqbkXco)**
+
+📺 Bob Reese
+
+👁️ 9.3M • 👍 283K • 💬 2K • ⏱️ 1:02 • 1d ago
+
+---
+
+**[New Deepseek, new top AI video &amp; image models, Gemini 3 Deep Think, realtime TTS: AI NEWS](https://www.youtube.com/watch?v=L4nus0PWsCw)**
+
+INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, Live Avatar, Gemini 3 Deep Think, Mistral ...
+
+📺 AI Search
+
+👁️ 18K • 👍 1K • 💬 343 • ⏱️ 47:03 • 5h ago
 
 ---
 
@@ -375,7 +364,17 @@ OpenAI, Anthropic, and Google are all making amazing models, but their good ones
 
 📺 Theo - t3․gg
 
-👁️ 53K • 👍 2K • 💬 402 • ⏱️ 36:08 • 1d ago
+👁️ 54K • 👍 2K • 💬 408 • ⏱️ 36:08 • 1d ago
+
+---
+
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=ozCKqX2rgzg)**
+
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+
+📺 Impossible AIs
+
+👁️ 357K • 👍 1K • 💬 32 • ⏱️ 8:06 • 20h ago
 
 ---
 
@@ -391,7 +390,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,210 • 4d ago
+⬇️ 169,515 • ❤️ 2,213 • 4d ago
 
 ---
 
@@ -415,7 +414,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 4,718 • ❤️ 525 • 5d ago
+⬇️ 4,718 • ❤️ 526 • 5d ago
 
 ---
 
@@ -441,6 +440,16 @@ Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million im
 
 ---
 
+**[starflow](https://huggingface.co/apple/starflow)**
+
+*Apple*
+
+STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
+
+⬇️ 0 • ❤️ 234 • 5d ago
+
+---
+
 **[Nemotron-Orchestrator-8B](https://huggingface.co/nvidia/Nemotron-Orchestrator-8B)**
 
 *NVIDIA*
@@ -450,16 +459,6 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 `text-generation` `8.2B`
 
 ⬇️ 2,530 • ❤️ 353 • 5d ago
-
----
-
-**[starflow](https://huggingface.co/apple/starflow)**
-
-*Apple*
-
-STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
-
-⬇️ 0 • ❤️ 234 • 5d ago
 
 ---
 
@@ -537,7 +536,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 30 • 💬 2 • ⭐ 453 • 5d ago
+▲ 31 • 💬 2 • ⭐ 453 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -683,7 +682,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 928 • 🔱 113 • 20h ago
+⭐ 931 • 🔱 113 • 20h ago
 
 ---
 
@@ -713,7 +712,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 808 • 🔱 55 • 6d ago
+⭐ 810 • 🔱 55 • 6d ago
 
 ---
 
@@ -723,7 +722,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 720 • 🔱 237 • 1d ago
+⭐ 724 • 🔱 239 • 1d ago
 
 ---
 
@@ -733,7 +732,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 516 • 🔱 42 • 3d ago
+⭐ 516 • 🔱 42 • 4d ago
 
 ---
 

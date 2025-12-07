@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T08:50:17.074998+00:00'
+updated: '2025-12-07T09:09:18.894084+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 08:50 UTC  
+**Last Updated:** December 07, 2025 at 09:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,654.86
+### $89,334.57
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +3.8%  
-**30d:** -12.7%  
-**90d:** -19.8%  
-**1y:** -11.5%  
+**24h:** -0.3%  
+**7d:** +3.5%  
+**30d:** -12.9%  
+**90d:** -20.0%  
+**1y:** -11.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1783.40B
+**Market Cap:** $1783.57B
 Rank #1
 
 **Circulating Supply:** 19,958,665 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.1%
 
 **All-Time Low:** $67.81
-+131687.3%
++131675.5%
 
 ---
 
@@ -123,6 +123,12 @@ it's not mine. Credits for him. "24-05-2025 - Btc Pump It Up - Have You Ever See
 
 ---
 
+**[This is just Me and I know](https://www.reddit.com/r/Bitcoin/comments/1pgd3wt/this_is_just_me_and_i_know/)**
+
+58m ago
+
+---
+
 **[13 years ago Bitcoin was $13.36 and we were still playing PS2 💔](https://www.reddit.com/r/Bitcoin/comments/1pfp765/13_years_ago_bitcoin_was_1336_and_we_were_still/)**
 
 19h ago
@@ -131,13 +137,7 @@ it's not mine. Credits for him. "24-05-2025 - Btc Pump It Up - Have You Ever See
 
 **[They are always not ready](https://www.reddit.com/r/Bitcoin/comments/1pfvd6m/they_are_always_not_ready/)**
 
-14h ago
-
----
-
-**[Everyone knows this is a Major Correction, No cause for Alarm](https://www.reddit.com/r/Bitcoin/comments/1pgc6zr/everyone_knows_this_is_a_major_correction_no/)**
-
-1h ago
+15h ago
 
 ---
 
@@ -153,23 +153,9 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
+**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
 
-TheStreet • 1d ago
-
----
-
-**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
-
-JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
-
-Business Insider • 2d ago
-
----
-
-**[Bitcoin Price Could Hit $170K — But Strategy ‘Resilience’ Is Vital: JPMorgan](https://finance.yahoo.com/news/bitcoin-price-could-hit-170k-110608523.html)**
-
-JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
+Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
 
 Yahoo Finance • 1d ago
 
@@ -179,15 +165,7 @@ Yahoo Finance • 1d ago
 
 Wondering if American Bitcoin at around $2.23 is a bargain or a value trap? You are not alone. This article is here to unpack what the market is really pricing in. Despite all the hype around crypto infrastructure, the stock has been hammered recently, dropping about 47.4% over the last week, 51.9% over the last month, and 65.2% year to date. This has clearly reset expectations and risk appetite. Those sharp moves have come alongside broader volatility in Bitcoin related names, shifting...
 
-Yahoo Finance • 3h ago
-
----
-
-**[Central banks rush to hoard gold as bitcoin joins reserve race](https://www.nationthailand.com/business/trading-investment/40059342)**
-
-Central banks step up gold buying to a 2025 high while the US and others explore bitcoin as a new strategic reserve alongside bullion.
-
-Nation Thailand • 4h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -197,17 +175,17 @@ The Economist • 2d ago
 
 ---
 
-**[With Bitcoin Falling, Is Strategy Stock in Trouble?](https://finance.yahoo.com/news/bitcoin-falling-strategy-stock-trouble-210500007.html)**
-
-It would be pretty miraculous if Strategy's stock were doing well right now.
-
-Yahoo Finance • 11h ago
-
----
-
 **[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
 Investor's Business Daily • 10h ago
+
+---
+
+**[Why Michael Saylor's Strategy could hold the key for the whole bitcoin market](https://www.cnbc.com/2025/12/04/why-michael-saylors-strategy-could-hold-the-key-for-the-whole-bitcoin-market.html)**
+
+Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts.
+
+CNBC • 2d ago
 
 ---
 
@@ -216,6 +194,26 @@ Investor's Business Daily • 10h ago
 In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
 
 CNBC • 2d ago
+
+---
+
+**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
+
+TheStreet • 1d ago
+
+---
+
+**[Ripple CEO makes bold new Bitcoin prediction](https://www.thestreet.com/crypto/trading/ripple-ceo-predicts-bitcoin-to-hit-180k)**
+
+TheStreet • 1d ago
+
+---
+
+**[Prediction: Bitcoin Will Hit $130,000 in 2026](https://www.nasdaq.com/articles/prediction-bitcoin-will-hit-130000-2026)**
+
+Key PointsBitcoin's prior all-time high was more than $126,000.
+
+Nasdaq • 4h ago
 
 ---
 
@@ -249,7 +247,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
-⬆️ 3 • 💬 0 • 7h ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 3 • 💬 0 • 8h ago • [GitHub](https://github.com/kladskull/xEroS)
 
 ---
 
@@ -299,7 +297,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 259 • ⏱️ 11:32 • 11h ago
+👁️ 41K • 👍 2K • 💬 349 • ⏱️ 11:32 • 11h ago
 
 ---
 
@@ -309,27 +307,7 @@ I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is W
 
 📺 Digital Asset News
 
-👁️ 16K • 👍 1K • 💬 106 • ⏱️ 21:52 • 14h ago
-
----
-
-**[Samson Mow: The TRUTH about What&#39;s Happening to Bitcoin&#39;s PRICE!](https://www.youtube.com/watch?v=LIqWS5were0)**
-
-Bitcoin volatility is collapsing, institutions are flooding in, and the entire market structure is changing fast. Samson Mow breaks ...
-
-📺 Simply Bitcoin
-
-👁️ 16K • 👍 691 • 💬 145 • ⏱️ 40:36 • 15h ago
-
----
-
-**[bitcoin is about to change forever (and nobody even realises)](https://www.youtube.com/watch?v=fE1XaJjBwkg)**
-
-bitcoin is having some massive changes and I see nobody talking about them. future is bright fam Check out Casa's free guide on ...
-
-📺 BTC Isla
-
-👁️ 39K • 👍 3K • 💬 409 • ⏱️ 10:23 • 1d ago
+👁️ 17K • 👍 1K • 💬 117 • ⏱️ 21:52 • 15h ago
 
 ---
 
@@ -339,27 +317,7 @@ We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 387 • 💬 43 • ⏱️ 5:59 • 16h ago
-
----
-
-**[Bitcoin and These Crypto Are Preparing For Something HUGE](https://www.youtube.com/watch?v=jsAIPevdhMQ)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRus Extra
-
-👁️ 11K • 👍 558 • 💬 243 • ⏱️ 9:08 • 1d ago
-
----
-
-**[Banks Declare WAR on Bitcoin Users ⚠️ Jack Mallers Debanked — Your Money Isn’t Safe](https://www.youtube.com/watch?v=Y2p1yq8CYik)**
-
-Tangem ▻ Black Friday Deals!!* Special Discount: *30% Off + $10 in FREE BTC!* ⚡   *Limited Time!* — before Dec 9 2025!
-
-📺 Crypto Casey
-
-👁️ 37K • 👍 3K • 💬 360 • ⏱️ 12:50 • 19h ago
+👁️ 7K • 👍 394 • 💬 45 • ⏱️ 5:59 • 16h ago
 
 ---
 
@@ -369,17 +327,37 @@ Tangem ▻ Black Friday Deals!!* Special Discount: *30% Off + $10 in FREE BTC!* 
 
 📺 Crypto Cam
 
-👁️ 27K • 👍 918 • 💬 101 • ⏱️ 0:36 • 1d ago
+👁️ 27K • 👍 927 • 💬 101 • ⏱️ 0:36 • 1d ago
 
 ---
 
-**[Bitcoin: A Different Kind of Bear Market?](https://www.youtube.com/watch?v=5txYvyuM4uE)**
+**[Samson Mow: The TRUTH about What&#39;s Happening to Bitcoin&#39;s PRICE!](https://www.youtube.com/watch?v=LIqWS5were0)**
 
-Is Bitcoin in a different type of bear market? Let's discuss what a bear market may look like coming from a non-euphoric top.
+Bitcoin volatility is collapsing, institutions are flooding in, and the entire market structure is changing fast. Samson Mow breaks ...
 
-📺 Benjamin Cowen
+📺 Simply Bitcoin
 
-👁️ 116K • 👍 7K • 💬 461 • ⏱️ 15:38 • 1d ago
+👁️ 17K • 👍 726 • 💬 156 • ⏱️ 40:36 • 16h ago
+
+---
+
+**[Banks Declare WAR on Bitcoin Users ⚠️ Jack Mallers Debanked — Your Money Isn’t Safe](https://www.youtube.com/watch?v=Y2p1yq8CYik)**
+
+Tangem ▻ Black Friday Deals!!* Special Discount: *30% Off + $10 in FREE BTC!* ⚡   *Limited Time!* — before Dec 9 2025!
+
+📺 Crypto Casey
+
+👁️ 39K • 👍 3K • 💬 374 • ⏱️ 12:50 • 19h ago
+
+---
+
+**[Bitcoin and These Crypto Are Preparing For Something HUGE](https://www.youtube.com/watch?v=jsAIPevdhMQ)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRus Extra
+
+👁️ 11K • 👍 561 • 💬 243 • ⏱️ 9:08 • 1d ago
 
 ---
 
@@ -389,7 +367,27 @@ Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bit
 
 📺 CNBC Television
 
-👁️ 14K • 👍 132 • 💬 123 • ⏱️ 4:01 • 1d ago
+👁️ 14K • 👍 133 • 💬 124 • ⏱️ 4:01 • 1d ago
+
+---
+
+**[Every Major Bank Just Pivoted to Bitcoin… They Know What’s Coming!](https://www.youtube.com/watch?v=3rSaeVkFY4Q)**
+
+Every major economy is hitting the debt wall simultaneously. A global reset is coming—fast, systemic, and total. BlackRock ...
+
+📺 Simply Bitcoin
+
+👁️ 56K • 👍 4K • 💬 297 • ⏱️ 23:27 • 2d ago
+
+---
+
+**[Bitcoin: A Different Kind of Bear Market?](https://www.youtube.com/watch?v=5txYvyuM4uE)**
+
+Is Bitcoin in a different type of bear market? Let's discuss what a bear market may look like coming from a non-euphoric top.
+
+📺 Benjamin Cowen
+
+👁️ 117K • 👍 7K • 💬 467 • ⏱️ 15:38 • 1d ago
 
 ---
 

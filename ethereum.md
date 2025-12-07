@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T08:50:17.080498+00:00'
+updated: '2025-12-07T09:09:18.900061+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - cryptocurrency
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 08:50 UTC  
+**Last Updated:** December 07, 2025 at 09:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,16 +43,16 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.1%  
-**7d:** +8.3%  
-**30d:** -10.9%  
+**7d:** +8.4%  
+**30d:** -10.8%  
 **90d:** -29.7%  
-**1y:** -24.4%  
+**1y:** -24.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $366.28B
+**Market Cap:** $366.62B
 Rank #2
 
 **Circulating Supply:** 120,695,408 ETH
@@ -62,7 +62,7 @@ No max supply
 -38.6%
 
 **All-Time Low:** $0.43
-+700813.9%
++701215.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -152,11 +152,11 @@ Trump crypto empire falls faster than bitcoin
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
+**[Ethereum Options Traders More Bullish Than Bitcoin Counterparts: Analysts](https://decrypt.co/351073/ethereum-options-traders-more-bullish-than-bitcoin-counterparts-analysts)**
 
-Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
+Options data show Ethereum traders are less bearish than Bitcoin’s after recent network upgrades and improving macro uncertainty.
 
-Decrypt • 3d ago
+Decrypt • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ The Block • 1d ago
 
 Industry leader Tom Lee has shared how the Ethereum price could reach $12,000 within the next few months. He based his prediction on the Bitcoin price action and how ETH could match the flagship crypto on a potential run to the upside. Tom Lee Explains How The Ethereum Price Could Rally To $12,000S…
 
-TradingView • 17h ago
+TradingView • 18h ago
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 259 • ⏱️ 11:32 • 11h ago
+👁️ 41K • 👍 2K • 💬 349 • ⏱️ 11:32 • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 13K • 👍 776 • 💬 135 • ⏱️ 36:53 • 12h ago
+👁️ 15K • 👍 816 • 💬 141 • ⏱️ 36:53 • 12h ago
 
 ---
 
@@ -256,17 +256,7 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 103K • 👍 5K • 💬 505 • ⏱️ 11:16 • 2d ago
-
----
-
-**[ETH Ethereum Indicators Suggest Massive PUMP Incoming](https://www.youtube.com/watch?v=kUvROUeb6ac)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 706 • 👍 47 • 💬 25 • ⏱️ 12:08 • 15h ago
+👁️ 104K • 👍 5K • 💬 509 • ⏱️ 11:16 • 2d ago
 
 ---
 
@@ -276,27 +266,7 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 47K • 👍 2K • 💬 153 • ⏱️ 17:37 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=upL0gqEO3HQ)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 186 • 💬 10 • ⏱️ 5:03 • 15h ago
-
----
-
-**[Tom Lee: The Crypto SUPERCYCLE Is Still Alive... &amp; Ethereum Is Going to LEAD!](https://www.youtube.com/watch?v=PtCcS9c-GP4)**
-
-Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why he believes the crypto supercycle is still ...
-
-📺 Binance
-
-👁️ 95K • 👍 3K • 💬 495 • ⏱️ 27:33 • 2d ago
+👁️ 47K • 👍 2K • 💬 152 • ⏱️ 17:37 • 2d ago
 
 ---
 
@@ -306,7 +276,27 @@ The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was
 
 📺 Altcoin Buzz
 
-👁️ 3K • 👍 149 • 💬 180 • ⏱️ 9:21 • 1d ago
+👁️ 3K • 👍 151 • 💬 180 • ⏱️ 9:21 • 1d ago
+
+---
+
+**[ETH Ethereum Indicators Suggest Massive PUMP Incoming](https://www.youtube.com/watch?v=kUvROUeb6ac)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 712 • 👍 47 • 💬 25 • ⏱️ 12:08 • 15h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=upL0gqEO3HQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 188 • 💬 11 • ⏱️ 5:03 • 15h ago
 
 ---
 
@@ -316,7 +306,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 23K • 👍 511 • 💬 390 • ⏱️ 15:38 • 2d ago
+👁️ 23K • 👍 515 • 💬 390 • ⏱️ 15:38 • 2d ago
+
+---
+
+**[Tom Lee: The Crypto SUPERCYCLE Is Still Alive... &amp; Ethereum Is Going to LEAD!](https://www.youtube.com/watch?v=PtCcS9c-GP4)**
+
+Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why he believes the crypto supercycle is still ...
+
+📺 Binance
+
+👁️ 96K • 👍 3K • 💬 495 • ⏱️ 27:33 • 2d ago
 
 ---
 
@@ -326,7 +326,7 @@ Here are the optimized Video Description, Disclaimer, and Hashtags based on the 
 
 📺 CryptoStock Lab
 
-👁️ 984 • 👍 30 • 💬 7 • ⏱️ 7:01 • 18h ago
+👁️ 1K • 👍 30 • 💬 7 • ⏱️ 7:01 • 18h ago
 
 ---
 
