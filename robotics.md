@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T22:26:04.610857+00:00'
+updated: '2025-12-07T22:42:11.232970+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 22:26 UTC  
+**Last Updated:** December 07, 2025 at 22:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
-3h ago
+4h ago
 
 ---
 
@@ -67,6 +67,14 @@ An old picture. The progress is in the coding, and testing, and tuning of the ha
 Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 1d ago
+
+---
+
+**[What are the use cases for the Intel RealSense D455 indoors?](https://www.reddit.com/r/robotics/comments/1pgv44x/what_are_the_use_cases_for_the_intel_realsense/)**
+
+I’m looking between the RealSense d455 and d435i, and the main difference I’m concerned about is the d455’s much larger blindspot. It’s “blind” below 0.6m (60cm). This is blind a pretty much arm’s length so many manipulation tasks are useless unless you hold the camera way out. The d435i by contrast is only blind under 30cm. What indoor use cases are there for the d455 in a general household setting? Despite having 2x the detecting range (6m vs 3m)of the d435i, its “farsightedness” makes it seem ineffective for most projects
+
+34m ago
 
 ---
 
@@ -99,14 +107,6 @@ Zhongqing CEO Receives the Challenge of T800
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
 
 1d ago
-
----
-
-**[Compact 440VAC 3ph to 300VDC 10kw+ Converter](https://www.reddit.com/r/robotics/comments/1pghmu7/compact_440vac_3ph_to_300vdc_10kw_converter/)**
-
-Hi all, I have a need for the above converter to be installed within a well-cooled (subsea) electronics enclosure. I have a stable 3-phase 400-440VAC supply and need 300-350VDC at a peak of 10kw but a more constant load of <4kw. I have already sourced a unit designed to be rack-mounted, rated to 30KW. It will do the job, but the project would be better if a compact/lighter solution could be found; I don’t need the 30KW headroom. Does anyone have any suggestions? Budget not particularly limited. Many thanks.
-
-9h ago
 
 ---
 
@@ -230,7 +230,7 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 17K • 👍 364 • 💬 167 • ⏱️ 4:05 • 2d ago
+👁️ 17K • 👍 364 • 💬 167 • ⏱️ 4:05 • 3d ago
 
 ---
 

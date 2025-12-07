@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T22:26:04.607487+00:00'
+updated: '2025-12-07T22:42:11.229545+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 22:26 UTC  
+**Last Updated:** December 07, 2025 at 22:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +8.5%  
-**30d:** -10.7%  
-**90d:** -29.6%  
-**1y:** -24.2%  
+**24h:** +0.4%  
+**7d:** +8.8%  
+**30d:** -10.5%  
+**90d:** -29.4%  
+**1y:** -24.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $372.50B
+**Market Cap:** $368.63B
 Rank #2
 
 **Circulating Supply:** 120,695,408 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.8%
+-38.3%
 
 **All-Time Low:** $0.43
-+710922.9%
++705234.4%
 
 ---
 
@@ -152,9 +152,9 @@ My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
+**[Ethereum Options Traders More Bullish Than Bitcoin Counterparts: Analysts](https://decrypt.co/351073/ethereum-options-traders-more-bullish-than-bitcoin-counterparts-analysts)**
 
-Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
+Options data show Ethereum traders are less bearish than Bitcoin’s after recent network upgrades and improving macro uncertainty.
 
 Decrypt • 2d ago
 
@@ -166,17 +166,25 @@ CCN.com • 2d ago
 
 ---
 
-**[3 Reasons to Buy Ethereum Before January 2026](https://finance.yahoo.com/news/3-reasons-buy-ethereum-january-193000879.html)**
+**[Tom Lee’s BitMine Extends Ethereum Bet With $200 Million in Two Days](https://finance.yahoo.com/news/tom-lee-bitmine-extends-ethereum-142458129.html)**
 
-Ethereum could be once again on the path to the $5,000 price level. Here's why.
+BitMine bought nearly $200 million worth of Ethereum in the last two days, widening its lead as the largest single holder of ETH.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
 **[Ethereum or Solana: ‘One Crypto Could Outperform in 2026,’ Says Investor](https://www.tipranks.com/news/ethereum-or-solana-one-crypto-could-outperform-in-2026-says-investor)**
 
-TipRanks • 8h ago
+TipRanks • 9h ago
+
+---
+
+**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/07/3-reasons-to-buy-ethereum-before-january-2026/)**
+
+Ethereum could be once again on the path to the $5,000 price level. Here's why.
+
+The Motley Fool • 3h ago
 
 ---
 
@@ -199,14 +207,6 @@ The Block • 3d ago
 Ethereum's roadmap envisions widespread adoption with future upgrades, aiming to transform global financial systems.
 
 CryptoSlate • 3d ago
-
----
-
-**[Ethereum tops 24-hour net inflows with $138.7M: Artemis](https://cryptobriefing.com/ethereum-tops-24h-inflows-artemis/)**
-
-Ethereum tops the digital asset market with $138.7M in 24-hour net inflows, highlighting strong investor interest.
-
-Crypto Briefing • 20h ago
 
 ---
 
@@ -286,7 +286,7 @@ BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 11K • 👍 399 • 💬 122 • ⏱️ 17:05 • 11h ago
+👁️ 11K • 👍 399 • 💬 122 • ⏱️ 17:05 • 12h ago
 
 ---
 
@@ -296,7 +296,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 376 • 👍 25 • 💬 22 • ⏱️ 5:01 • 10h ago
+👁️ 376 • 👍 25 • 💬 22 • ⏱️ 5:01 • 11h ago
 
 ---
 
@@ -306,7 +306,7 @@ Tom Lee just dropped the biggest price prediction of his career. Speaking at Bin
 
 📺 Wall Street Stockcast
 
-👁️ 888 • 👍 53 • 💬 5 • ⏱️ 9:53 • 6h ago
+👁️ 888 • 👍 53 • 💬 5 • ⏱️ 9:53 • 7h ago
 
 ---
 

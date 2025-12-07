@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T22:26:04.601463+00:00'
+updated: '2025-12-07T22:42:11.223394+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 22:26 UTC  
+**Last Updated:** December 07, 2025 at 22:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,461.56
+### $90,019.13
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +3.4%  
-**30d:** -13.0%  
-**90d:** -20.1%  
-**1y:** -11.8%  
+**24h:** +0.9%  
+**7d:** +4.6%  
+**30d:** -11.9%  
+**90d:** -19.1%  
+**1y:** -10.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1796.69B
+**Market Cap:** $1795.05B
 Rank #1
 
 **Circulating Supply:** 19,958,993 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.6%
 
 **All-Time Low:** $67.81
-+132635.6%
++132684.3%
 
 ---
 
@@ -91,6 +91,14 @@ Rank #1
 
 ---
 
+**[Leverage pigs getting liquidated up and down.](https://www.reddit.com/r/Bitcoin/comments/1pgu6ig/leverage_pigs_getting_liquidated_up_and_down/)**
+
+Ngl I lowkey love to see it.
+
+1h ago
+
+---
+
 **[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
 
 4h ago
@@ -105,29 +113,15 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 ---
 
-**[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
-
-14h ago
-
----
-
-**[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
-
-18h ago
-
----
-
-**[When 2,000 Dormant Bitcoin Wake Up](https://www.reddit.com/r/Bitcoin/comments/1pgo5ze/when_2000_dormant_bitcoin_wake_up/)**
-
-Two early-era Bitcoin wallets, each holding ~1,000 BTC moved after 13+ years of complete inactivity. Most people interpret this as risk. It isn’t. Dormant coins don’t move because of fear or speculation. They move because wealth has crossed into structure: – key modernization – inheritance and legal clarity – custody transformation – multi-party continuity No exchange inflow, no forced selling, no market reaction. Price didn’t move…not because it’s irrelevant, but because the system is now deep enough to absorb it without distortion. This is how an asset crosses from narrative into adulthood. If you want to understand why this moment signals maturity rather than exit, read the full breakdown
-
-🔗 [coherenceledger.substack.com](https://coherenceledger.substack.com/p/when-2000-dormant-bitcoin-wake-up) • 4h ago
-
----
-
 **[Not selling Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgtw05/not_selling_bitcoin/)**
 
 1h ago
+
+---
+
+**[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
+
+15h ago
 
 ---
 
@@ -139,17 +133,31 @@ Some people on TV or online act like inflation is “not that bad” or even pre
 
 ---
 
-**[Mega-rare Simpsons pattern emerging...](https://www.reddit.com/r/Bitcoin/comments/1pfzi8q/megarare_simpsons_pattern_emerging/)**
+**[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
 
-Burnsish?
+19h ago
 
-1d ago
+---
+
+**[When 2,000 Dormant Bitcoin Wake Up](https://www.reddit.com/r/Bitcoin/comments/1pgo5ze/when_2000_dormant_bitcoin_wake_up/)**
+
+Two early-era Bitcoin wallets, each holding ~1,000 BTC moved after 13+ years of complete inactivity. Most people interpret this as risk. It isn’t. Dormant coins don’t move because of fear or speculation. They move because wealth has crossed into structure: – key modernization – inheritance and legal clarity – custody transformation – multi-party continuity No exchange inflow, no forced selling, no market reaction. Price didn’t move…not because it’s irrelevant, but because the system is now deep enough to absorb it without distortion. This is how an asset crosses from narrative into adulthood. If you want to understand why this moment signals maturity rather than exit, read the full breakdown
+
+🔗 [coherenceledger.substack.com](https://coherenceledger.substack.com/p/when-2000-dormant-bitcoin-wake-up) • 5h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin’s Deep Correction Sets Stage for December Rebound, Says K33 Research](https://www.coindesk.com/markets/2025/12/05/bitcoin-s-deep-correction-sets-stage-for-december-rebound-says-k33-research)**
+
+K33 Research says market fear is outweighing fundamentals as bitcoin nears key levels. December could offer an entry point for bold investors.
+
+CoinDesk • 2d ago
+
+---
 
 **[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
 
@@ -159,19 +167,25 @@ Decrypt • 5h ago
 
 ---
 
-**[Bitcoin Price (BTC) Analysis: Crypto Winter Parallels](https://www.coindesk.com/markets/2025/12/05/bitcoin-market-echoes-early-2022-as-onchain-stress-mounts-glassnode)**
+**[ETFs in the Crossfire Amid Bitcoin’s Growing Self-Custody Debate](https://finance.yahoo.com/news/etfs-crossfire-amid-bitcoin-growing-215004125.html)**
 
-Rising bitcoin supply in loss, weakening spot demand and cautious derivatives positioning were among the issues raised by the data provider in its weekly newsletter.
+The ETF–self-custody clash intensifies as Bitcoin debates sovereignty, security, and institutional influence.
 
-CoinDesk • 2d ago
+Yahoo Finance • 52m ago
 
 ---
 
-**[Better Crypto Buy: Bitcoin vs. XRP](https://finance.yahoo.com/news/better-crypto-buy-bitcoin-vs-210000582.html)**
+**[Short-Term Bitcoin Holders Are Dominating Profits, But Will It Lead To Recovery?](https://finance.yahoo.com/news/short-term-bitcoin-holders-dominating-213800881.html)**
 
-Which of these popular cryptocurrencies has more upside potential?
+Bitcoin hovers near $91,000 as short-term holders dominate long-term holders in profits for first time in 30 months, shaping BTC’s breakout.
 
 Yahoo Finance • 1h ago
+
+---
+
+**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
+
+TheStreet • 2d ago
 
 ---
 
@@ -183,17 +197,19 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
-
-TheStreet • 2d ago
-
----
-
 **[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
 
 In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
 
 CNBC • 3d ago
+
+---
+
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
+
+Which of these popular cryptocurrencies has more upside potential?
+
+The Motley Fool • 2h ago
 
 ---
 
@@ -210,18 +226,6 @@ Forbes • 9h ago
 Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
 
 Futurism • 1d ago
-
----
-
-**[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
-
-Investor's Business Daily • 5h ago
-
----
-
-**[Analyst cuts 60% price target for popular Bitcoin stock](https://www.thestreet.com/crypto/markets/analyst-cuts-60-price-target-for-popular-bitcoin-stock)**
-
-TheStreet • 2d ago
 
 ---
 
@@ -331,7 +335,7 @@ The crypto market may have just flipped the script. After weeks of fear, fakeout
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 342 • 💬 115 • ⏱️ 9:56 • 6h ago
+👁️ 5K • 👍 342 • 💬 115 • ⏱️ 9:56 • 7h ago
 
 ---
 
