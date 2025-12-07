@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T17:13:49.514073+00:00'
+updated: '2025-12-07T17:31:20.195565+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 17:13 UTC  
+**Last Updated:** December 07, 2025 at 17:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,799.33
+### $90,633.97
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** +4.2%  
-**30d:** -12.3%  
-**90d:** -19.4%  
-**1y:** -11.1%  
+**24h:** +1.6%  
+**7d:** +5.4%  
+**30d:** -11.3%  
+**90d:** -18.5%  
+**1y:** -10.1%  
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 **[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -121,7 +121,7 @@ Burnsish?
 
 Mastercard’s Crypto Card Program enables consumers to use their crypto cards to pay with crypto for everyday transactions across 100 million+ acceptance locations.
 
-🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 24m ago
+🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 42m ago
 
 ---
 
@@ -133,7 +133,7 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 **[What's holding us back?](https://www.reddit.com/r/Bitcoin/comments/1pge5ht/whats_holding_us_back/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -193,7 +193,7 @@ TheStreet • 1d ago
 
 **[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Investor's Business Daily • 18h ago
+Investor's Business Daily • 19h ago
 
 ---
 
@@ -307,7 +307,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 2K • 💬 390 • ⏱️ 11:32 • 19h ago
+👁️ 53K • 👍 2K • 💬 390 • ⏱️ 11:32 • 20h ago
 
 ---
 
@@ -367,7 +367,7 @@ BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 6K • 👍 287 • 💬 74 • ⏱️ 17:05 • 6h ago
+👁️ 6K • 👍 287 • 💬 74 • ⏱️ 17:05 • 7h ago
 
 ---
 
