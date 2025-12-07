@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T10:48:06.959089+00:00'
+updated: '2025-12-07T10:59:02.780557+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - videos
-- repositories
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 10:48 UTC  
+**Last Updated:** December 07, 2025 at 10:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ I saw a paper/article on hacker news at one point about making LLMs where they d
 
 Meta strikes multiple AI deals with news publishers.[1] Elementary school students use AI to combat homelessness.[2] Accurate single-domain scaffolding of three nonoverlapping protein epitopes using deep learning.[3] Apple Researchers Release CLaRa: A Continuous Latent Reasoning Framework for Compression‑Native RAG with 16x–128x Semantic Document Compression.[4] Sources: [1] https://www.reuters.com/business/meta-strikes-multiple-ai-deals-with-news-publishers-axios-reports-2025-12-05/ [2] https://www.kxan.com/news/elementary-school-students-use-ai-to-combat-homelessness/ [3] https://www.nature.com/articles/s41589-025-02083-z [4] https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression%e2%80%91native-rag-with-16x-128x-semantic-document-compression/
 
-5h ago
+6h ago
 
 ---
 
@@ -129,7 +129,7 @@ The Guardian • 19h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqf1rFY6gMP0q9dAex0ExPBE5LZDe9DFWKgCi2vBJf8ps_BQ_ZNSqDO6&gaa_ts=693557e1&gaa_sig=WektnwqcYIGWPdJNjRPZZeRqWmIvM-8waiFfEwHfc_mPveMEMDcc0c3qXULOqany2zIMfaAsfJms677Y2dfPTA%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcmGi2sDID0gi9yji-4FNcB0dZT4QYWrSbMLa2vgP-bN1kLk-8xuYAi&gaa_ts=69356162&gaa_sig=33ZbYsD8Rga7Q0WxEgVd41ZJ2Kh8TEEQSHK0Hz7lxFAOYPHf-ooQgrPa-r0ARsntPz7LPCHZlqdSscbYXegYQg%3D%3D)**
 
 The Wall Street Journal • 17h ago
 
@@ -139,22 +139,21 @@ The Wall Street Journal • 17h ago
 
 AI pioneer and Nobel Prize winner Geoffrey Hinton said students who want to become AI researchers need to focus on critical thinking.
 
-Business Insider • 48m ago
+Business Insider • 59m ago
 
 ---
 
-**[AI poised to play increased role in Pa. elections in 2026 and beyond](https://www.post-gazette.com/news/politics-state/2025/12/07/ai-pennsylvania-josh-shapiro-donald-trump-technology-elections/stories/202512050062)**
+**[Why Nvidia and other AI stocks have lost their 'quality' status](https://www.msn.com/en-us/money/markets/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status/ar-AA1RScyj?ocid=finance-verthp-feeds)**
 
-The five jittery clowns marched down the middle of a dark city street, flanked by passersby and the blurred glow of storefront lamps. 
-As their wild...
-
-Pittsburgh Post-Gazette • 1h ago
+MSN • 7m ago
 
 ---
 
-**[How I Learned to Stop Worrying and Love the Bubble](https://www.bloomberg.com/news/newsletters/2025-12-07/don-t-worry-too-much-about-an-ai-bubble)**
+**[Will Meta’s Dividend Debut And AI Pivot Change Meta Platforms' (META) Investment Narrative?](https://finance.yahoo.com/news/meta-dividend-debut-ai-pivot-100703822.html)**
 
-Bloomberg.com • 1h ago
+In early December 2025, Meta Platforms’ board declared a quarterly cash dividend of US$0.525 per share for both Class A and Class B stock, payable on December 23 to shareholders of record as of December 15, while also advancing AI initiatives such as the Segment Anything Model 3 and the Limitless acquisition. This combination of initiating regular cash returns to shareholders while cutting metaverse spending by about 30% and doubling down on AI tools and wearables marks a clear shift toward...
+
+Yahoo Finance • 51m ago
 
 ---
 
@@ -174,19 +173,19 @@ ABC News • 1d ago
 
 ---
 
+**[The latest AI news we announced in November](https://blog.google/technology/ai/google-ai-updates-november-2025/)**
+
+Here are Google’s latest AI updates from November 2025
+
+The Keyword • 1d ago
+
+---
+
 **[This AI Model Can Intuit How the Physical World Works](https://www.wired.com/story/how-one-ai-model-creates-a-physical-intuition-of-its-environment/)**
 
 The V-JEPA system uses ordinary videos to understand the physics of the real world.
 
 WIRED • 10h ago
-
----
-
-**[Gemini 3 Pro: the frontier of vision AI](https://blog.google/technology/developers/gemini-3-pro-vision/)**
-
-Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
-
-The Keyword • 1d ago
 
 ---
 
@@ -204,7 +203,7 @@ The Economist • 2d ago
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 548 • 💬 285 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 549 • 💬 285 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -220,7 +219,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 394 • 💬 220 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 395 • 💬 221 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -394,7 +393,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 186,951 • ❤️ 2,222 • 4d ago
+⬇️ 186,951 • ❤️ 2,223 • 4d ago
 
 ---
 
@@ -430,7 +429,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 390 • 1h ago
+⬇️ 27,215 • ❤️ 396 • 1h ago
 
 ---
 
@@ -474,7 +473,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 205,376 • ❤️ 910 • 9d ago
+⬇️ 205,376 • ❤️ 912 • 9d ago
 
 ---
 
@@ -592,7 +591,7 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 30 • 💬 2 • ⭐ 139 • 2d ago
+▲ 30 • 💬 2 • ⭐ 139 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 

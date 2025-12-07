@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T10:48:06.974088+00:00'
+updated: '2025-12-07T10:59:02.795089+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 10:48 UTC  
+**Last Updated:** December 07, 2025 at 10:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $365.91B
+**Market Cap:** $366.86B
 Rank #2
 
 **Circulating Supply:** 120,695,408 ETH
@@ -62,7 +62,7 @@ No max supply
 -38.6%
 
 **All-Time Low:** $0.43
-+701460.6%
++701802.4%
 
 ---
 
@@ -96,7 +96,7 @@ This is Part Seven of the eight-part series: Can I Pay With This: A stablecoin e
 
 I'm the inventor of the "simultaneous video event" Gavin Wood is currently pursuing (Gavin built the first version of Ethereum, then Jeffrey Wilckes and his team built the Golang, and then more came). I have followed "scaling" discussion since 2014, but always found that it was misunderstanding the Nakamoto consensus. But since my proof-of-unique-person requires someone to solve scaling, I took some more looks at the topic and I realized that what the discussion was missing is that the consensus should not be split. Everything happening under a "block of authority" should be by the same group, who trusts one another internally. With that, parallelization can still happen, but the consensus is not split. The concept is really similar otherwise to the "sharding" discussion, it only avoids splitting the consensus. What the discussion in Ethereum was typically in the past decade was to instead randomly assign validators to "shards" from the validator pool. This approach fundamentally misunderstands the consensus. As I realized what everyone got wrong, I was unable to find a system that actually did scale the way things should be done. But, I then noticed there is a system. But if I even mention that here, this gets removed. Not because of the topic I raise, but because of guilt by association. You have created a "community" where you have erased the roots to it, as well as made mention of actual competition (as the roots are often a form of competition, Steve Wozniak would remain a form of competition even as the computer industry outgrew his Apple 2 etc). The system I mentioned is teranode, that is parallelizing the block production but they do so internally under a singular trusted central authority for the "block". Of course Ethereum was the next step after Bitcoin, and my proof-of-unique-person is fundamentally based on the Ethereum paradigm. But Satoshi was who came up with the consensus. Buterin came up with the Turing completeness. Buterin, and Gavin Wood, and Jeffrey Wilckes, were all geniuses in my eyes. But so was Satoshi. "Removing this because it's not about Ethereum. It sort of pretends to be but doesn't make any attempt to work out what Ethereum sharding actually is so the point is clearly just to shill some Craig Wright thing. " Edmund Edgar
 
-54m ago
+1h ago
 
 ---
 
@@ -168,23 +168,17 @@ Yahoo Finance • 20h ago
 
 ---
 
+**[What Bitmine Immersion Technologies (BMNR)'s Pivot to Ethereum Treasury and Dividend Means For Shareholders](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-pivot-100740579.html)**
+
+Bitmine Immersion Technologies has recently transformed into a crypto treasury and services platform, amassing more than 3% of Ethereum’s supply, boosting its Ethereum and Bitcoin holdings, returning to profit in 2025 and declaring a US$0.01 dividend payable on December 29, 2025. By targeting ownership of up to 5% of all Ethereum and scaling staking and fee-based services, the company is increasingly positioning its equity as a leveraged proxy on the Ethereum ecosystem rather than a...
+
+Yahoo Finance • 51m ago
+
+---
+
 **[BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target](https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target)**
 
 TipRanks • 1d ago
-
----
-
-**[Ethereum treasury firm BitMine adds $150 million in ETH as DAT buying dries up](https://www.theblock.co/post/381302/bitmine-150-million-eth)**
-
-The Block • 3d ago
-
----
-
-**[Tom Lee Claims Ethereum Will Hit $62,000 in Next Few Months, Ramps up Bitcoin Call to $250,000](https://finance.yahoo.com/news/tom-lee-claims-ethereum-hit-115214887.html)**
-
-Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -198,7 +192,7 @@ The Block • 1d ago
 
 Key PointsDecentralized applications run on smart contracts, which automate their functions and ensure they can't be manipulated by humans.
 
-Nasdaq • 2d ago
+Nasdaq • 3d ago
 
 ---
 
@@ -223,6 +217,12 @@ CryptoSlate • 2d ago
 Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
 
 cheddar.com • 2d ago
+
+---
+
+**[Ethereum Launches Fusaka Upgrade to Make Network More Scalable](https://thedefiant.io/news/blockchains/ethereum-launches-fusaka-upgrade-to-make-network-more-scalable)**
+
+The Defiant • 3d ago
 
 ---
 
@@ -326,7 +326,7 @@ Here are the optimized Video Description, Disclaimer, and Hashtags based on the 
 
 📺 CryptoStock Lab
 
-👁️ 1K • 👍 30 • 💬 7 • ⏱️ 7:01 • 19h ago
+👁️ 1K • 👍 30 • 💬 7 • ⏱️ 7:01 • 20h ago
 
 ---
 

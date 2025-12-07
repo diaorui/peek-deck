@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T10:48:06.967822+00:00'
+updated: '2025-12-07T10:59:02.788922+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 10:48 UTC  
+**Last Updated:** December 07, 2025 at 10:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +3.3%  
-**30d:** -13.0%  
-**90d:** -20.1%  
-**1y:** -11.9%  
+**24h:** -0.3%  
+**7d:** +3.7%  
+**30d:** -12.7%  
+**90d:** -19.9%  
+**1y:** -11.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1779.08B
+**Market Cap:** $1782.27B
 Rank #1
 
 **Circulating Supply:** 19,958,665 BTC
@@ -64,7 +64,7 @@ Rank #1
 -29.2%
 
 **All-Time Low:** $67.81
-+131520.7%
++131539.9%
 
 ---
 
@@ -89,6 +89,14 @@ Rank #1
 
 ---
 
+**[MasterCard is Orange Pilled for 1 Billion Users](https://www.reddit.com/r/Bitcoin/comments/1pgenos/mastercard_is_orange_pilled_for_1_billion_users/)**
+
+1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
+
+1h ago
+
+---
+
 **[Mega-rare Simpsons pattern emerging...](https://www.reddit.com/r/Bitcoin/comments/1pfzi8q/megarare_simpsons_pattern_emerging/)**
 
 Burnsish?
@@ -109,23 +117,21 @@ Burnsish?
 
 ---
 
+**[This is just Me and I know](https://www.reddit.com/r/Bitcoin/comments/1pgd3wt/this_is_just_me_and_i_know/)**
+
+2h ago
+
+---
+
 **[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
 
 1d ago
 
 ---
 
-**[MasterCard is Orange Pilled for 1 Billion Users](https://www.reddit.com/r/Bitcoin/comments/1pgenos/mastercard_is_orange_pilled_for_1_billion_users/)**
+**[Still hodling on!!!](https://www.reddit.com/r/Bitcoin/comments/1pgct69/still_hodling_on/)**
 
-1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
-
-56m ago
-
----
-
-**[This is just Me and I know](https://www.reddit.com/r/Bitcoin/comments/1pgd3wt/this_is_just_me_and_i_know/)**
-
-2h ago
+3h ago
 
 ---
 
@@ -134,12 +140,6 @@ Burnsish?
 it's not mine. Credits for him. "24-05-2025 - Btc Pump It Up - Have You Ever Seen Bitcoin Like This"
 
 10h ago
-
----
-
-**[Still hodling on!!!](https://www.reddit.com/r/Bitcoin/comments/1pgct69/still_hodling_on/)**
-
-2h ago
 
 ---
 
@@ -163,33 +163,9 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Faces Japan Rate Hike: Debunking The Yen Carry Trade Unwind Alarms, Real Risk Elsewhere](https://finance.yahoo.com/news/bitcoin-faces-japan-rate-hike-053627549.html)**
-
-Speculators maintain net bullish positions in the yen, limiting scope for sudden JPY strength and mass carry unwind.
-
-Yahoo Finance • 5h ago
-
----
-
 **[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
 The Economist • 3d ago
-
----
-
-**[With Bitcoin Falling, Is Strategy Stock in Trouble?](https://finance.yahoo.com/news/bitcoin-falling-strategy-stock-trouble-210500007.html)**
-
-It would be pretty miraculous if Strategy's stock were doing well right now.
-
-Yahoo Finance • 13h ago
-
----
-
-**[Why Michael Saylor's Strategy could hold the key for the whole bitcoin market](https://www.cnbc.com/2025/12/04/why-michael-saylors-strategy-could-hold-the-key-for-the-whole-bitcoin-market.html)**
-
-Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts.
-
-CNBC • 2d ago
 
 ---
 
@@ -207,19 +183,41 @@ TheStreet • 1d ago
 
 ---
 
-**[Prediction: Bitcoin Will Hit $130,000 in 2026](https://www.nasdaq.com/articles/prediction-bitcoin-will-hit-130000-2026)**
+**[Why Michael Saylor's Strategy could hold the key for the whole bitcoin market](https://www.cnbc.com/2025/12/04/why-michael-saylors-strategy-could-hold-the-key-for-the-whole-bitcoin-market.html)**
 
-Key PointsBitcoin's prior all-time high was more than $126,000.
+Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts.
 
-Nasdaq • 6h ago
+CNBC • 2d ago
 
 ---
 
-**[Coinbase Makes Bold Bitcoin Prediction For December Despite Market Downturn](https://finance.yahoo.com/news/coinbase-makes-bold-bitcoin-prediction-113224239.html)**
+**[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Coinbase says the crypto market is entering a December recovery phase as liquidity improves and macro conditions turn more supportive.
+Investor's Business Daily • 12h ago
 
-Yahoo Finance • 23h ago
+---
+
+**[With Bitcoin Falling, Is Strategy Stock in Trouble?](https://www.nasdaq.com/articles/bitcoin-falling-strategy-stock-trouble)**
+
+Key PointsStrategy does its business by issuing debt or equity to buy Bitcoin.
+
+Nasdaq • 13h ago
+
+---
+
+**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
+
+Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
+
+Futurism • 17h ago
+
+---
+
+**[Bitcoin Faces Japan Rate Hike: Debunking The Yen Carry Trade Unwind Alarms, Real Risk Elsewhere](https://www.coindesk.com/markets/2025/12/07/bitcoin-faces-japan-rate-hike-yen-carry-trade-unwind-fears-miss-the-mark-real-risk-lie-elsewhere)**
+
+Speculators maintain net bullish positions in the yen, limiting scope for sudden JPY strength and mass carry unwind.
+
+CoinDesk • 5h ago
 
 ---
 

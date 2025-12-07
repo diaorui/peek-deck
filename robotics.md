@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T10:48:06.977509+00:00'
+updated: '2025-12-07T10:59:02.798358+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 10:48 UTC  
+**Last Updated:** December 07, 2025 at 10:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
-23h ago
+1d ago
 
 ---
 
@@ -66,13 +66,13 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 **[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Sharing sensor data between multiple devices on the same network](https://www.reddit.com/r/robotics/comments/1pgdpyl/sharing_sensor_data_between_multiple_devices_on/)**
 
-1h ago
+2h ago
 
 ---
 
