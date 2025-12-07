@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T13:49:12.091072+00:00'
+updated: '2025-12-07T13:59:35.734731+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
+- repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 13:49 UTC  
+**Last Updated:** December 07, 2025 at 13:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ So earlier I gave both ChatGPT and Grok the same survival scenario and I wanted 
 
 Meta strikes multiple AI deals with news publishers.[1] Elementary school students use AI to combat homelessness.[2] Accurate single-domain scaffolding of three nonoverlapping protein epitopes using deep learning.[3] Apple Researchers Release CLaRa: A Continuous Latent Reasoning Framework for Compression‑Native RAG with 16x–128x Semantic Document Compression.[4] Sources: [1] https://www.reuters.com/business/meta-strikes-multiple-ai-deals-with-news-publishers-axios-reports-2025-12-05/ [2] https://www.kxan.com/news/elementary-school-students-use-ai-to-combat-homelessness/ [3] https://www.nature.com/articles/s41589-025-02083-z [4] https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression%e2%80%91native-rag-with-16x-128x-semantic-document-compression/
 
-8h ago
+9h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Wall Street Journal • 20h ago
 
 Chinese internet companies increasingly say they don't have enough compute to power their artificial intelligence ambitions.
 
-CNBC • 48m ago
+CNBC • 58m ago
 
 ---
 
@@ -147,7 +147,7 @@ CNBC • 48m ago
 
 Axon founder and CEO Rick Smith contends that the Edmonton pilot is not a product launch but “early-stage field research” that will assess how the technology performs and reveal the safeguards need…
 
-New York Post • 59m ago
+New York Post • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ New York Post • 59m ago
 
 Utah's Sen. John Curtis wants to require robocallers to disclose the use of AI — and says there should be enhanced penalties for phone scams that use AI.
 
-The Salt Lake Tribune • 48m ago
+The Salt Lake Tribune • 59m ago
 
 ---
 
@@ -513,7 +513,7 @@ Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 147 • 💬 3 • ⭐ 5,339 • 9d ago
+▲ 147 • 💬 3 • ⭐ 5,339 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 

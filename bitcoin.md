@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T13:49:12.099987+00:00'
+updated: '2025-12-07T13:59:35.743198+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 13:49 UTC  
+**Last Updated:** December 07, 2025 at 13:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +3.0%  
-**30d:** -13.3%  
-**90d:** -20.4%  
-**1y:** -12.1%  
+**24h:** -1.0%  
+**7d:** +3.4%  
+**30d:** -13.0%  
+**90d:** -20.1%  
+**1y:** -11.9%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
-3h ago
+4h ago
 
 ---
 
@@ -131,7 +131,7 @@ Burnsish?
 
 **[Still hodling on!!!](https://www.reddit.com/r/Bitcoin/comments/1pgct69/still_hodling_on/)**
 
-5h ago
+6h ago
 
 ---
 
