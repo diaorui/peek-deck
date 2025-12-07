@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T18:46:49.014317+00:00'
+updated: '2025-12-07T18:57:12.709163+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- news
 - cryptocurrency
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 18:46 UTC  
+**Last Updated:** December 07, 2025 at 18:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.2%  
-**7d:** +5.8%  
-**30d:** -10.9%  
-**90d:** -18.2%  
-**1y:** -9.8%  
+**24h:** +2.6%  
+**7d:** +6.2%  
+**30d:** -10.6%  
+**90d:** -17.9%  
+**1y:** -9.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1822.35B
+**Market Cap:** $1825.42B
 Rank #1
 
-**Circulating Supply:** 19,958,906 BTC
+**Circulating Supply:** 19,958,934 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
 -27.5%
 
 **All-Time Low:** $67.81
-+134737.0%
++134695.8%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
-8h ago
+9h ago
 
 ---
 
@@ -97,6 +97,14 @@ Rank #1
 
 ---
 
+**[Mastercard lets consumers make everyday purchases with Crypto Cards](https://www.reddit.com/r/Bitcoin/comments/1pgn1q4/mastercard_lets_consumers_make_everyday_purchases/)**
+
+Mastercard’s Crypto Card Program enables consumers to use their crypto cards to pay with crypto for everyday transactions across 100 million+ acceptance locations.
+
+🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 2h ago
+
+---
+
 **[Mega-rare Simpsons pattern emerging...](https://www.reddit.com/r/Bitcoin/comments/1pfzi8q/megarare_simpsons_pattern_emerging/)**
 
 Burnsish?
@@ -105,17 +113,17 @@ Burnsish?
 
 ---
 
-**[Mastercard lets consumers make everyday purchases with Crypto Cards](https://www.reddit.com/r/Bitcoin/comments/1pgn1q4/mastercard_lets_consumers_make_everyday_purchases/)**
-
-Mastercard’s Crypto Card Program enables consumers to use their crypto cards to pay with crypto for everyday transactions across 100 million+ acceptance locations.
-
-🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 1h ago
-
----
-
 **[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
 
 14h ago
+
+---
+
+**[BTC vs FRN](https://www.reddit.com/r/Bitcoin/comments/1pgnm34/btc_vs_frn/)**
+
+Just doing my part to spread the word. If you're ever in NC and see one of these floating around, Matt was here.
+
+1h ago
 
 ---
 
@@ -127,15 +135,7 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 **[Still hodling on!!!](https://www.reddit.com/r/Bitcoin/comments/1pgct69/still_hodling_on/)**
 
-10h ago
-
----
-
-**[BTC vs FRN](https://www.reddit.com/r/Bitcoin/comments/1pgnm34/btc_vs_frn/)**
-
-Just doing my part to spread the word. If you're ever in NC and see one of these floating around, Matt was here.
-
-1h ago
+11h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 1d ago
 
 Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ TheStreet • 1d ago
 
 **[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Investor's Business Daily • 1h ago
+Investor's Business Daily • 2h ago
 
 ---
 
