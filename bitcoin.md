@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T16:42:11.148756+00:00'
+updated: '2025-12-07T16:53:27.287952+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 16:42 UTC  
+**Last Updated:** December 07, 2025 at 16:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,395.92
+### $89,421.82
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +3.8%  
-**30d:** -12.6%  
-**90d:** -19.8%  
-**1y:** -11.5%  
+**24h:** -0.6%  
+**7d:** +3.6%  
+**30d:** -12.8%  
+**90d:** -20.0%  
+**1y:** -11.7%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
-6h ago
+7h ago
 
 ---
 
@@ -101,7 +101,7 @@ Rank #1
 
 Burnsish?
 
-19h ago
+20h ago
 
 ---
 
@@ -121,7 +121,7 @@ Are these good prices at the moment to buy? I am under the impression that anyth
 
 **[Still hodling on!!!](https://www.reddit.com/r/Bitcoin/comments/1pgct69/still_hodling_on/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 1d ago
 
 Crypto is down again, and the drop is chewing our portfolios as we see the rise in crypto liquidations and debate on Michael Burry and his Bitcoin comments. With crypto down across major assets and liquidations climbing, we are questioning why Bitcoin is falling even while traditional markets are up. ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ TheStreet • 1d ago
 
 Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
 
-Futurism • 22h ago
+Futurism • 23h ago
 
 ---
 
