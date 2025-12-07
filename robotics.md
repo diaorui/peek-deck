@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T10:59:02.798358+00:00'
+updated: '2025-12-07T11:22:08.764782+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 10:59 UTC  
+**Last Updated:** December 07, 2025 at 11:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/yourusername/BipedalWalker-PPO-STM32 Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
 
-3h ago
+4h ago
 
 ---
 
@@ -52,7 +52,7 @@ I wanted to see how far we can push low-power hardware, so I trained a PPO model
 
 Zhongqing CEO Receives the Challenge of T800
 
-22h ago
+23h ago
 
 ---
 
@@ -60,7 +60,7 @@ Zhongqing CEO Receives the Challenge of T800
 
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
 
-15h ago
+16h ago
 
 ---
 
@@ -102,7 +102,7 @@ Conferencia realizada en la Sorbonne Paris, viernes 05 de diciembre. Se trató s
 
 Meet Octoid, the squishy robot that changes from blue to green to red.
 
-🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 18h ago
+🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 19h ago
 
 ---
 
@@ -138,7 +138,7 @@ MIT News • 1d ago
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-South China Morning Post • 9h ago
+South China Morning Post • 10h ago
 
 ---
 
@@ -198,7 +198,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 22K • 👍 829 • 💬 65 • ⏱️ 24:47 • 18h ago
+👁️ 24K • 👍 853 • 💬 68 • ⏱️ 24:47 • 19h ago
 
 ---
 
@@ -208,17 +208,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 21K • 👍 184 • 💬 47 • ⏱️ 1:03 • 18h ago
-
----
-
-**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.youtube.com/watch?v=XvXNEYbIBYw)**
-
-Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be ...
-
-📺 CBS News
-
-👁️ 16K • 👍 333 • 💬 163 • ⏱️ 4:05 • 2d ago
+👁️ 26K • 👍 201 • 💬 51 • ⏱️ 1:03 • 19h ago
 
 ---
 
@@ -228,7 +218,27 @@ After months of buildup, the Shenzhen startup EngineAI is taking orders for its 
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 67 • 💬 13 • ⏱️ 0:59 • 5h ago
+👁️ 2K • 👍 88 • 💬 15 • ⏱️ 0:59 • 5h ago
+
+---
+
+**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
+
+AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
+
+📺 AI Robot Lab
+
+👁️ 1K • 👍 11 • ⏱️ 0:25 • 1h ago
+
+---
+
+**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.youtube.com/watch?v=XvXNEYbIBYw)**
+
+Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be ...
+
+📺 CBS News
+
+👁️ 16K • 👍 341 • 💬 163 • ⏱️ 4:05 • 2d ago
 
 ---
 
@@ -238,7 +248,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 71K • 👍 565 • 💬 271 • ⏱️ 2:30 • 3d ago
+👁️ 72K • 👍 571 • 💬 272 • ⏱️ 2:30 • 3d ago
 
 ---
 
@@ -248,27 +258,17 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 66K • 👍 4K • 💬 467 • ⏱️ 19:33 • 19h ago
+👁️ 68K • 👍 4K • 💬 483 • ⏱️ 19:33 • 20h ago
 
 ---
 
-**[AI Spider Quadruped Robot Wall-Climbing &amp; Web-Swing Demo at 2025  Robotic Expo in Silicon Valley](https://www.youtube.com/watch?v=EFOb_DZ1Wjk)**
+**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
 
-In 2025 Silicon Valley, a next-gen AI Spider Quadruped Robot reveals a completely new way of moving. It walks through the ...
+Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
 
-📺 AI Robot Lab
+📺 Unitree Robotics
 
-👁️ 22K • 👍 222 • 💬 5 • ⏱️ 0:25 • 20h ago
-
----
-
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
-
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
-
-📺 AI Revolution
-
-👁️ 79K • 👍 2K • 💬 355 • ⏱️ 12:07 • 1d ago
+👁️ 1.5M • 👍 1K • 💬 300 • ⏱️ 1:06 • 3d ago
 
 ---
 
@@ -280,13 +280,13 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 ---
 
-**[China&#39;s humanoid robotics leap: new T800 unveiled](https://www.youtube.com/watch?v=wbLl3aSOzoc)**
+**[🤖🐯 Dad Cat Builds a Futuristic Robot Tiger — What Happens Next Will Shock You!](https://www.youtube.com/watch?v=d8MLl48mpyk)**
 
-For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-new-T800-unveiled-1INHjYVbHGM/p.html ...
+Dad Cat surprises his little kitten with something truly unbelievable — a futuristic robot tiger built from advanced tech, glowing ...
 
-📺 CGTN
+📺 AiMagic Fx
 
-👁️ 102K • 💬 627 • ⏱️ 1:21 • 4d ago
+👁️ 505 • 💬 1 • ⏱️ 0:58 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T10:59:02.795089+00:00'
+updated: '2025-12-07T11:22:08.761521+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 10:59 UTC  
+**Last Updated:** December 07, 2025 at 11:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** +8.3%  
-**30d:** -10.8%  
-**90d:** -29.7%  
-**1y:** -24.3%  
+**24h:** +0.4%  
+**7d:** +8.5%  
+**30d:** -10.7%  
+**90d:** -29.6%  
+**1y:** -24.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 million from Ethereum traders in a blindingly fast fraud.
 
-🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 18h ago
+🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 19h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 20h ago
 
 Bitmine Immersion Technologies has recently transformed into a crypto treasury and services platform, amassing more than 3% of Ethereum’s supply, boosting its Ethereum and Bitcoin holdings, returning to profit in 2025 and declaring a US$0.01 dividend payable on December 29, 2025. By targeting ownership of up to 5% of all Ethereum and scaling staking and fee-based services, the company is increasingly positioning its equity as a leveraged proxy on the Ethereum ecosystem rather than a...
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -200,7 +200,7 @@ Nasdaq • 3d ago
 
 Industry leader Tom Lee has shared how the Ethereum price could reach $12,000 within the next few months. He based his prediction on the Bitcoin price action and how ETH could match the flagship crypto on a potential run to the upside. Tom Lee Explains How The Ethereum Price Could Rally To $12,000S…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 349 • ⏱️ 11:32 • 13h ago
+👁️ 46K • 👍 2K • 💬 369 • ⏱️ 11:32 • 13h ago
 
 ---
 
@@ -246,7 +246,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 15K • 👍 816 • 💬 141 • ⏱️ 36:53 • 14h ago
+👁️ 16K • 👍 866 • 💬 143 • ⏱️ 36:53 • 14h ago
 
 ---
 
@@ -256,27 +256,17 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 104K • 👍 5K • 💬 509 • ⏱️ 11:16 • 2d ago
+👁️ 105K • 👍 5K • 💬 509 • ⏱️ 11:16 • 2d ago
 
 ---
 
-**[Ethereum Fusaka Upgrade Is HERE!! Is ETH About To EXPLODE!?](https://www.youtube.com/watch?v=rYEgr3YN-qI)**
+**[BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Sp9UCKJM-ck)**
 
-While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka — a live upgrade that radically improves ...
+BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
 
-📺 Coin Bureau
+📺 Crypto World
 
-👁️ 47K • 👍 2K • 💬 152 • ⏱️ 17:37 • 2d ago
-
----
-
-**[BREAKING : ETH to $22K - Ethereum Fusaka Upgrade!](https://www.youtube.com/watch?v=y_aYcH8fwrQ)**
-
-The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was designed to in ways that improve scalability, ...
-
-📺 Altcoin Buzz
-
-👁️ 3K • 👍 151 • 💬 180 • ⏱️ 9:21 • 1d ago
+👁️ 1K • 👍 80 • 💬 85 • ⏱️ 17:05 • 54m ago
 
 ---
 
@@ -286,27 +276,17 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 712 • 👍 47 • 💬 25 • ⏱️ 12:08 • 17h ago
+👁️ 793 • 👍 47 • 💬 25 • ⏱️ 12:08 • 18h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=upL0gqEO3HQ)**
+**[Ethereum Fusaka Upgrade Is HERE!! Is ETH About To EXPLODE!?](https://www.youtube.com/watch?v=rYEgr3YN-qI)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka — a live upgrade that radically improves ...
 
-📺 More Crypto Online
+📺 Coin Bureau
 
-👁️ 3K • 👍 188 • 💬 11 • ⏱️ 5:03 • 17h ago
-
----
-
-**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
-
-📺 Library Of Wealth
-
-👁️ 23K • 👍 515 • 💬 390 • ⏱️ 15:38 • 2d ago
+👁️ 48K • 👍 2K • 💬 154 • ⏱️ 17:37 • 2d ago
 
 ---
 
@@ -316,17 +296,37 @@ Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why 
 
 📺 Binance
 
-👁️ 96K • 👍 3K • 💬 495 • ⏱️ 27:33 • 2d ago
+👁️ 97K • 👍 3K • 💬 495 • ⏱️ 27:33 • 2d ago
 
 ---
 
-**[BMNR Buys 97,000 ETH in 1 Week! Is This The Supercycle Signal?](https://www.youtube.com/watch?v=KqWeB4yCLv8)**
+**[BREAKING : ETH to $22K - Ethereum Fusaka Upgrade!](https://www.youtube.com/watch?v=y_aYcH8fwrQ)**
 
-Here are the optimized Video Description, Disclaimer, and Hashtags based on the new data regarding the 97000 ETH weekly ...
+The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was designed to in ways that improve scalability, ...
 
-📺 CryptoStock Lab
+📺 Altcoin Buzz
 
-👁️ 1K • 👍 30 • 💬 7 • ⏱️ 7:01 • 20h ago
+👁️ 3K • 👍 152 • 💬 180 • ⏱️ 9:21 • 1d ago
+
+---
+
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+
+📺 Library Of Wealth
+
+👁️ 23K • 👍 522 • 💬 390 • ⏱️ 15:38 • 2d ago
+
+---
+
+**[Why $BMNR Might Own 5% of All Ethereum: What That Means for ETH Holders (The &quot;Alchemy&quot; Secret)](https://www.youtube.com/watch?v=vFen_16QU3M)**
+
+Why $BMNR Might Own 5% of All Ethereum: What That Means for ETH Holders Most investors missed the most important line in ...
+
+📺 Wall Street Stockcast
+
+👁️ 116 • 👍 3 • ⏱️ 7:18 • 14h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T10:59:02.788922+00:00'
+updated: '2025-12-07T11:22:08.755413+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 10:59 UTC  
+**Last Updated:** December 07, 2025 at 11:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,7 +46,7 @@ Live Bitcoin monitoring dashboard
 
 **24h:** -0.3%  
 **7d:** +3.7%  
-**30d:** -12.7%  
+**30d:** -12.8%  
 **90d:** -19.9%  
 **1y:** -11.6%  
 
@@ -119,7 +119,7 @@ Burnsish?
 
 **[This is just Me and I know](https://www.reddit.com/r/Bitcoin/comments/1pgd3wt/this_is_just_me_and_i_know/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -139,7 +139,7 @@ Burnsish?
 
 it's not mine. Credits for him. "24-05-2025 - Btc Pump It Up - Have You Ever Seen Bitcoin Like This"
 
-10h ago
+11h ago
 
 ---
 
@@ -251,7 +251,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
-⬆️ 3 • 💬 0 • 9h ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 3 • 💬 0 • 10h ago • [GitHub](https://github.com/kladskull/xEroS)
 
 ---
 
@@ -301,7 +301,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 349 • ⏱️ 11:32 • 13h ago
+👁️ 46K • 👍 2K • 💬 369 • ⏱️ 11:32 • 13h ago
 
 ---
 
@@ -311,27 +311,17 @@ I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is W
 
 📺 Digital Asset News
 
-👁️ 17K • 👍 1K • 💬 117 • ⏱️ 21:52 • 16h ago
+👁️ 18K • 👍 1K • 💬 123 • ⏱️ 21:52 • 17h ago
 
 ---
 
-**[BITCOIN BEAR MARKET IS DEAD! Gold&#39;s Secret Signal Confirms BULL RUN!](https://www.youtube.com/watch?v=HkCXQqkE1BE)**
+**[bitcoin is about to change forever (and nobody even realises)](https://www.youtube.com/watch?v=fE1XaJjBwkg)**
 
-We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow grind up for a year, finally a year long mega bull ...
+bitcoin is having some massive changes and I see nobody talking about them. future is bright fam Check out Casa's free guide on ...
 
-📺 Discover Crypto
+📺 BTC Isla
 
-👁️ 7K • 👍 394 • 💬 45 • ⏱️ 5:59 • 18h ago
-
----
-
-**[XRP is the Next Bitcoin😨🚨](https://www.youtube.com/watch?v=gHDfJMgAsyo)**
-
-ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
-
-📺 Crypto Cam
-
-👁️ 27K • 👍 927 • 💬 101 • ⏱️ 0:36 • 1d ago
+👁️ 41K • 👍 3K • 💬 420 • ⏱️ 10:23 • 1d ago
 
 ---
 
@@ -341,37 +331,7 @@ Bitcoin volatility is collapsing, institutions are flooding in, and the entire m
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 726 • 💬 156 • ⏱️ 40:36 • 17h ago
-
----
-
-**[Banks Declare WAR on Bitcoin Users ⚠️ Jack Mallers Debanked — Your Money Isn’t Safe](https://www.youtube.com/watch?v=Y2p1yq8CYik)**
-
-Tangem ▻ Black Friday Deals!!* Special Discount: *30% Off + $10 in FREE BTC!* ⚡   *Limited Time!* — before Dec 9 2025!
-
-📺 Crypto Casey
-
-👁️ 39K • 👍 3K • 💬 374 • ⏱️ 12:50 • 21h ago
-
----
-
-**[Bitcoin and These Crypto Are Preparing For Something HUGE](https://www.youtube.com/watch?v=jsAIPevdhMQ)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRus Extra
-
-👁️ 11K • 👍 561 • 💬 243 • ⏱️ 9:08 • 1d ago
-
----
-
-**[Strategy CEO: Still able to raise money in a bitcoin down cycle](https://www.youtube.com/watch?v=JWWr6s6ooVs)**
-
-Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bitcoin, the long-term thesis for Strategy and much ...
-
-📺 CNBC Television
-
-👁️ 14K • 👍 133 • 💬 124 • ⏱️ 4:01 • 1d ago
+👁️ 18K • 👍 759 • 💬 154 • ⏱️ 40:36 • 18h ago
 
 ---
 
@@ -381,7 +341,17 @@ Every major economy is hitting the debt wall simultaneously. A global reset is c
 
 📺 Simply Bitcoin
 
-👁️ 56K • 👍 4K • 💬 297 • ⏱️ 23:27 • 2d ago
+👁️ 56K • 👍 4K • 💬 300 • ⏱️ 23:27 • 2d ago
+
+---
+
+**[BITCOIN BEAR MARKET IS DEAD! Gold&#39;s Secret Signal Confirms BULL RUN!](https://www.youtube.com/watch?v=HkCXQqkE1BE)**
+
+We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow grind up for a year, finally a year long mega bull ...
+
+📺 Discover Crypto
+
+👁️ 8K • 👍 400 • 💬 39 • ⏱️ 5:59 • 18h ago
 
 ---
 
@@ -391,7 +361,37 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 117K • 👍 7K • 💬 467 • ⏱️ 15:38 • 1d ago
+👁️ 119K • 👍 7K • 💬 473 • ⏱️ 15:38 • 1d ago
+
+---
+
+**[WAIT: JP Morgan is STILL predicting $170,000 Bitcoin in 2026?! | EP 1392](https://www.youtube.com/watch?v=sU3cb55xCGo)**
+
+After FUDing bitcoin and Strategy JP Morgan analysts are still predicting the 4 year cycle is over?
+
+📺 Simply Bitcoin
+
+👁️ 10K • 👍 460 • 💬 45 • ⏱️ 1:34:16 • 1d ago
+
+---
+
+**[Banks Declare WAR on Bitcoin Users ⚠️ Jack Mallers Debanked — Your Money Isn’t Safe](https://www.youtube.com/watch?v=Y2p1yq8CYik)**
+
+Tangem ▻ Black Friday Deals!!* Special Discount: *30% Off + $10 in FREE BTC!* ⚡   *Limited Time!* — before Dec 9 2025!
+
+📺 Crypto Casey
+
+👁️ 41K • 👍 3K • 💬 376 • ⏱️ 12:50 • 22h ago
+
+---
+
+**[Strategy CEO: Still able to raise money in a bitcoin down cycle](https://www.youtube.com/watch?v=JWWr6s6ooVs)**
+
+Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bitcoin, the long-term thesis for Strategy and much ...
+
+📺 CNBC Television
+
+👁️ 14K • 👍 136 • 💬 125 • ⏱️ 4:01 • 1d ago
 
 ---
 

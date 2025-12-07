@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T10:59:02.780557+00:00'
+updated: '2025-12-07T11:22:08.746854+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
+- social
 - news
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 10:59 UTC  
+**Last Updated:** December 07, 2025 at 11:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Calls for review after technology found to return more false positives for ‘some demographic groups’ on certain settings
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 3h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ Calls for review after technology found to return more false positives for ‘so
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 20h ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 21h ago
 
 ---
 
@@ -125,13 +125,13 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 19h ago
+The Guardian • 20h ago
 
 ---
 
 **[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcmGi2sDID0gi9yji-4FNcB0dZT4QYWrSbMLa2vgP-bN1kLk-8xuYAi&gaa_ts=69356162&gaa_sig=33ZbYsD8Rga7Q0WxEgVd41ZJ2Kh8TEEQSHK0Hz7lxFAOYPHf-ooQgrPa-r0ARsntPz7LPCHZlqdSscbYXegYQg%3D%3D)**
 
-The Wall Street Journal • 17h ago
+The Wall Street Journal • 18h ago
 
 ---
 
@@ -139,13 +139,13 @@ The Wall Street Journal • 17h ago
 
 AI pioneer and Nobel Prize winner Geoffrey Hinton said students who want to become AI researchers need to focus on critical thinking.
 
-Business Insider • 59m ago
+Business Insider • 1h ago
 
 ---
 
 **[Why Nvidia and other AI stocks have lost their 'quality' status](https://www.msn.com/en-us/money/markets/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status/ar-AA1RScyj?ocid=finance-verthp-feeds)**
 
-MSN • 7m ago
+MSN • 30m ago
 
 ---
 
@@ -153,7 +153,7 @@ MSN • 7m ago
 
 In early December 2025, Meta Platforms’ board declared a quarterly cash dividend of US$0.525 per share for both Class A and Class B stock, payable on December 23 to shareholders of record as of December 15, while also advancing AI initiatives such as the Segment Anything Model 3 and the Limitless acquisition. This combination of initiating regular cash returns to shareholders while cutting metaverse spending by about 30% and doubling down on AI tools and wearables marks a clear shift toward...
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Finance • 51m ago
 
 China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Keyword • 1d ago
 
 The V-JEPA system uses ordinary videos to understand the physics of the real world.
 
-WIRED • 10h ago
+WIRED • 11h ago
 
 ---
 
@@ -283,53 +283,23 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 ## YouTube Videos: "ai"
 
-**[AI DOOMSDAY?: Joe Rogan challenges tech CEO](https://www.youtube.com/watch?v=5y5gTgEc9Vc)**
-
-Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial intelligence, including scenarios where AI resorts to ...
-
-📺 Fox News Clips
-
-👁️ 28K • 👍 494 • 💬 207 • ⏱️ 6:22 • 1d ago
-
----
-
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
-
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
-
-📺 AI Revolution
-
-👁️ 79K • 👍 2K • 💬 355 • ⏱️ 12:07 • 1d ago
-
----
-
-**[I Recreated Impossible AI Foods](https://www.youtube.com/watch?v=wJHRAXKdqZM)**
-
-subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianBlack @zealous @KingSammelot ...
-
-📺 yikes
-
-👁️ 143K • 👍 7K • 💬 993 • ⏱️ 21:06 • 18h ago
-
----
-
 **[Gemini 4 — Google’s Biggest AI Upgrade Yet (Full Features Explained)](https://www.youtube.com/watch?v=WYK7iyOklf4)**
 
 Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Gemini 4 — and it might be their most powerful AI ...
 
 📺 BitBiasedAI
 
-👁️ 17K • 👍 560 • 💬 17 • ⏱️ 11:49 • 14h ago
+👁️ 19K • 👍 623 • 💬 22 • ⏱️ 11:49 • 14h ago
 
 ---
 
-**[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
+**[AI DOOMSDAY?: Joe Rogan challenges tech CEO](https://www.youtube.com/watch?v=5y5gTgEc9Vc)**
 
-Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
+Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial intelligence, including scenarios where AI resorts to ...
 
-📺 Future of Life Institute
+📺 Fox News Clips
 
-👁️ 35K • 👍 2K • 💬 623 • ⏱️ 15:40 • 2d ago
+👁️ 30K • 👍 510 • 💬 212 • ⏱️ 6:22 • 1d ago
 
 ---
 
@@ -339,15 +309,7 @@ Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the
 
 📺 End Times Productions
 
-👁️ 120K • 👍 8K • 💬 2K • ⏱️ 34:02 • 2d ago
-
----
-
-**[REAL VS A.I. COMPILATION 😂](https://www.youtube.com/watch?v=4fIDsqbkXco)**
-
-📺 Bob Reese
-
-👁️ 9.3M • 👍 283K • 💬 2K • ⏱️ 1:02 • 1d ago
+👁️ 121K • 👍 8K • 💬 2K • ⏱️ 34:02 • 2d ago
 
 ---
 
@@ -357,17 +319,35 @@ INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, 
 
 📺 AI Search
 
-👁️ 18K • 👍 1K • 💬 343 • ⏱️ 47:03 • 7h ago
+👁️ 28K • 👍 2K • 💬 429 • ⏱️ 47:03 • 7h ago
 
 ---
 
-**[China is winning the AI race](https://www.youtube.com/watch?v=KAmQTmooLGQ)**
+**[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
 
-OpenAI, Anthropic, and Google are all making amazing models, but their good ones are closed weight. China seems to be doing ...
+Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
 
-📺 Theo - t3․gg
+📺 Future of Life Institute
 
-👁️ 54K • 👍 2K • 💬 408 • ⏱️ 36:08 • 1d ago
+👁️ 36K • 👍 2K • 💬 630 • ⏱️ 15:40 • 2d ago
+
+---
+
+**[REAL VS A.I. COMPILATION 😂](https://www.youtube.com/watch?v=4fIDsqbkXco)**
+
+📺 Bob Reese
+
+👁️ 9.7M • 👍 301K • 💬 2K • ⏱️ 1:02 • 1d ago
+
+---
+
+**[I Recreated Impossible AI Foods](https://www.youtube.com/watch?v=wJHRAXKdqZM)**
+
+subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianBlack @zealous @KingSammelot ...
+
+📺 yikes
+
+👁️ 157K • 👍 7K • 💬 1K • ⏱️ 21:06 • 19h ago
 
 ---
 
@@ -377,7 +357,27 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 357K • 👍 1K • 💬 32 • ⏱️ 8:06 • 21h ago
+👁️ 432K • 👍 1K • 💬 36 • ⏱️ 8:06 • 22h ago
+
+---
+
+**[AI Has ENTERED ABSOLUTE MADNESS 💀 (Funniest Sora 2 Moments Yet)](https://www.youtube.com/watch?v=27F7VlOw6e4)**
+
+Sora 2 has officially entered absolute madness — and these are the funniest moments yet This compilation showcases the ...
+
+📺 YetiAF | AI Universe
+
+👁️ 18K • 👍 499 • 💬 57 • ⏱️ 16:01 • 1d ago
+
+---
+
+**[AI Insider WARNS: “This Ends Much Worse Than You Think”](https://www.youtube.com/watch?v=dnkRXYmmgX0)**
+
+World-leading AI scientist Professor Stuart Russell issues one of the most urgent warnings ever given on this channel. After five ...
+
+📺 The Diary Of A CEO Clips
+
+👁️ 158K • 👍 3K • 💬 834 • ⏱️ 21:18 • 16h ago
 
 ---
 
@@ -405,7 +405,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 25,451 • ❤️ 759 • 5d ago
+⬇️ 25,451 • ❤️ 759 • 6d ago
 
 ---
 
@@ -417,7 +417,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 6,281 • ❤️ 527 • 5d ago
+⬇️ 6,281 • ❤️ 527 • 6d ago
 
 ---
 
@@ -429,7 +429,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 396 • 1h ago
+⬇️ 27,215 • ❤️ 396 • 2h ago
 
 ---
 
@@ -473,7 +473,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 205,376 • ❤️ 912 • 9d ago
+⬇️ 205,376 • ❤️ 912 • 10d ago
 
 ---
 
@@ -623,15 +623,16 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 ---
 
-**[MinerU: An Open-Source Solution for Precise Document Content Extraction](https://huggingface.co/papers/2409.18839)**
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
 
-*Bin Wang, Chao Xu, Xiaomeng Zhao et al. (18 authors)*
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
 
-MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 33 • 💬 4 • ⭐ 49,971 • 14mo ago
+▲ 136 • 💬 2 • ⭐ 49,973 • 2mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -685,7 +686,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 935 • 🔱 113 • 22h ago
+⭐ 937 • 🔱 113 • 22h ago
 
 ---
 
@@ -695,7 +696,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 3h ago
+⭐ 826 • 🔱 43 • 4h ago
 
 ---
 
@@ -705,7 +706,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 825 • 🔱 22 • 20h ago
+⭐ 825 • 🔱 22 • 21h ago
 
 ---
 
@@ -715,7 +716,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 810 • 🔱 55 • 6d ago
+⭐ 811 • 🔱 55 • 6d ago
 
 ---
 
@@ -725,7 +726,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 733 • 🔱 240 • 1d ago
+⭐ 735 • 🔱 241 • 1d ago
 
 ---
 
@@ -735,7 +736,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 517 • 🔱 42 • 4d ago
+⭐ 519 • 🔱 42 • 4d ago
 
 ---
 
