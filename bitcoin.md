@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T20:36:41.451642+00:00'
+updated: '2025-12-07T20:47:41.075428+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- videos
+- news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 20:36 UTC  
+**Last Updated:** December 07, 2025 at 20:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +5.8%  
-**30d:** -10.9%  
-**90d:** -18.2%  
-**1y:** -9.8%  
+**24h:** +2.4%  
+**7d:** +6.2%  
+**30d:** -10.6%  
+**90d:** -17.9%  
+**1y:** -9.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1823.54B
+**Market Cap:** $1824.65B
 Rank #1
 
 **Circulating Supply:** 19,958,946 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.5%
+-27.4%
 
 **All-Time Low:** $67.81
-+134651.5%
++134831.4%
 
 ---
 
@@ -91,9 +91,9 @@ Rank #1
 
 ---
 
-**[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
+**[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
 
-12h ago
+1h ago
 
 ---
 
@@ -105,9 +105,9 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 ---
 
-**[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
+**[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
 
-1h ago
+13h ago
 
 ---
 
@@ -121,15 +121,7 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 Burnsish?
 
-23h ago
-
----
-
-**[BTC vs FRN](https://www.reddit.com/r/Bitcoin/comments/1pgnm34/btc_vs_frn/)**
-
-Just doing my part to spread the word. If you're ever in NC and see one of these floating around, Matt was here.
-
-3h ago
+1d ago
 
 ---
 
@@ -138,6 +130,14 @@ Just doing my part to spread the word. If you're ever in NC and see one of these
 Two early-era Bitcoin wallets, each holding ~1,000 BTC moved after 13+ years of complete inactivity. Most people interpret this as risk. It isn’t. Dormant coins don’t move because of fear or speculation. They move because wealth has crossed into structure: – key modernization – inheritance and legal clarity – custody transformation – multi-party continuity No exchange inflow, no forced selling, no market reaction. Price didn’t move…not because it’s irrelevant, but because the system is now deep enough to absorb it without distortion. This is how an asset crosses from narrative into adulthood. If you want to understand why this moment signals maturity rather than exit, read the full breakdown
 
 🔗 [coherenceledger.substack.com](https://coherenceledger.substack.com/p/when-2000-dormant-bitcoin-wake-up) • 3h ago
+
+---
+
+**[BTC vs FRN](https://www.reddit.com/r/Bitcoin/comments/1pgnm34/btc_vs_frn/)**
+
+Just doing my part to spread the word. If you're ever in NC and see one of these floating around, Matt was here.
+
+3h ago
 
 ---
 
@@ -297,7 +297,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 **[Market Volatility Underscores Epic Buildup of Global Risk](https://news.ycombinator.com/item?id=46126556)**
 
-⬆️ 1 • 💬 3 • 4d ago • [nytimes.com](https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html)
+⬆️ 1 • 💬 3 • 5d ago • [nytimes.com](https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html)
 
 ---
 
@@ -391,7 +391,7 @@ New Exclusive Offer: WEEX: https://www.weex.com/events/welcome-event?vipCode=qlw
 
 📺 Champs Crypto
 
-👁️ 807 • 👍 73 • 💬 36 • ⏱️ 4:47 • 3h ago
+👁️ 807 • 👍 73 • 💬 36 • ⏱️ 4:47 • 4h ago
 
 ---
 
