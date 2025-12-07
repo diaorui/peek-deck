@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T07:49:59.436400+00:00'
+updated: '2025-12-07T08:00:51.812714+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 07:49 UTC  
+**Last Updated:** December 07, 2025 at 08:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
+**24h:** +0.0%  
 **7d:** +8.2%  
 **30d:** -11.0%  
 **90d:** -29.8%  
@@ -156,7 +156,7 @@ Trump crypto empire falls faster than bitcoin
 
 Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
 
-Decrypt • 2d ago
+Decrypt • 3d ago
 
 ---
 
@@ -198,7 +198,7 @@ The Block • 1d ago
 
 Industry leader Tom Lee has shared how the Ethereum price could reach $12,000 within the next few months. He based his prediction on the Bitcoin price action and how ETH could match the flagship crypto on a potential run to the upside. Tom Lee Explains How The Ethereum Price Could Rally To $12,000S…
 
-TradingView • 16h ago
+TradingView • 17h ago
 
 ---
 

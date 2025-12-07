@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T07:49:59.439624+00:00'
+updated: '2025-12-07T08:00:51.815998+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 07:49 UTC  
+**Last Updated:** December 07, 2025 at 08:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
-20h ago
+21h ago
 
 ---
 
@@ -58,7 +58,7 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 **[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -74,7 +74,7 @@ https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
 I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/yourusername/BipedalWalker-PPO-STM32 Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
 
-36m ago
+46m ago
 
 ---
 
@@ -140,7 +140,7 @@ MIT News • 1d ago
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-South China Morning Post • 6h ago
+South China Morning Post • 7h ago
 
 ---
 
@@ -250,7 +250,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 63K • 👍 3K • 💬 451 • ⏱️ 19:33 • 16h ago
+👁️ 63K • 👍 3K • 💬 451 • ⏱️ 19:33 • 17h ago
 
 ---
 
@@ -278,7 +278,7 @@ TBN Israel's Yair Pinto reports on the Israel-Hamas and regional war. From the h
 
 📺 TBN Israel
 
-👁️ 61K • 👍 6K • 💬 509 • ⏱️ 20:52 • 17h ago
+👁️ 61K • 👍 6K • 💬 509 • ⏱️ 20:52 • 18h ago
 
 ---
 

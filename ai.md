@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T07:49:59.422145+00:00'
+updated: '2025-12-07T08:00:51.798180+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
+- repositories
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 07:49 UTC  
+**Last Updated:** December 07, 2025 at 08:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Calls for review after technology found to return more false positives for ‘some demographic groups’ on certain settings
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 34m ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 45m ago
 
 ---
 
@@ -175,7 +175,7 @@ The Economist • 2d ago
 
 The V-JEPA system uses ordinary videos to understand the physics of the real world.
 
-WIRED • 7h ago
+WIRED • 8h ago
 
 ---
 
@@ -287,7 +287,7 @@ AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments w
 
 📺 The Diary Of A CEO
 
-👁️ 882K • 👍 20K • 💬 4K • ⏱️ 2:04:06 • 2d ago
+👁️ 882K • 👍 20K • 💬 4K • ⏱️ 2:04:06 • 3d ago
 
 ---
 
@@ -509,7 +509,7 @@ Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 146 • 💬 3 • ⭐ 5,167 • 9d ago
+▲ 147 • 💬 3 • ⭐ 5,167 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -555,20 +555,6 @@ The paper introduces Reward Forcing, which enhances video generation by updating
 
 ---
 
-**[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
-
-*Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
-
-🏢 AI at Meta
-
-Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
-
-▲ 105 • 💬 4 • ⭐ 5,330 • 16d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
-
----
-
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
@@ -578,6 +564,20 @@ A multi-agent framework using large language models for stock trading simulates 
 ▲ 14 • 💬 0 • ⭐ 26,258 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
+**[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
+
+*Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
+
+🏢 AI at Meta
+
+Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
+
+▲ 105 • 💬 4 • ⭐ 5,339 • 16d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
 ---
 
@@ -601,7 +601,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 30 • 💬 2 • ⭐ 116 • 2d ago
+▲ 30 • 💬 2 • ⭐ 139 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
@@ -615,7 +615,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 103 • 💬 6 • ⭐ 65,875 • 1mo ago
+▲ 103 • 💬 6 • ⭐ 65,878 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
@@ -683,7 +683,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 924 • 🔱 113 • 19h ago
+⭐ 928 • 🔱 113 • 19h ago
 
 ---
 
@@ -693,7 +693,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 50m ago
+⭐ 826 • 🔱 43 • 47m ago
 
 ---
 
@@ -703,7 +703,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 823 • 🔱 22 • 17h ago
+⭐ 824 • 🔱 22 • 17h ago
 
 ---
 
@@ -723,7 +723,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 714 • 🔱 237 • 1d ago
+⭐ 720 • 🔱 237 • 1d ago
 
 ---
 
@@ -733,7 +733,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 515 • 🔱 42 • 3d ago
+⭐ 516 • 🔱 42 • 3d ago
 
 ---
 
