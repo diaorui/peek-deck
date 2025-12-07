@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T20:47:41.083578+00:00'
+updated: '2025-12-07T20:58:27.433422+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 20:47 UTC  
+**Last Updated:** December 07, 2025 at 20:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -106,7 +106,7 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 Hi all, I have a need for the above converter to be installed within a well-cooled (subsea) electronics enclosure. I have a stable 3-phase 400-440VAC supply and need 300-350VDC at a peak of 10kw but a more constant load of <4kw. I have already sourced a unit designed to be rack-mounted, rated to 30KW. It will do the job, but the project would be better if a compact/lighter solution could be found; I don’t need the 30KW headroom. Does anyone have any suggestions? Budget not particularly limited. Many thanks.
 
-7h ago
+8h ago
 
 ---
 
@@ -278,7 +278,7 @@ Midea Group, one of the world's largest home appliance manufacturers, just unvei
 
 📺 Kalil 4.0
 
-👁️ 859 • 👍 31 • 💬 4 • ⏱️ 0:27 • 3h ago
+👁️ 859 • 👍 31 • 💬 4 • ⏱️ 0:27 • 4h ago
 
 ---
 

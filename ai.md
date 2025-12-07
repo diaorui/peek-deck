@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T20:47:41.067498+00:00'
+updated: '2025-12-07T20:58:27.415499+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 20:47 UTC  
+**Last Updated:** December 07, 2025 at 20:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 A new study finds ChatGPT fails to take into account retraction notices across a wide range of research.
 
-🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 1h ago
+🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 2h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Guardian • 1d ago
 
 **[Opinion | Is AI Making Us Dumb?](https://www.wsj.com/opinion/is-ai-making-us-dumb-21ea8e39?gaa_at=eafs&gaa_n=AWEtsqdOaAsa0TEtRBOD8BrO3oQ7ZCvFd2yAc3MUb4njJnDyxnL-kKNISCnQ&gaa_ts=6935e8bd&gaa_sig=lkSXZiDrzJiE0t7XKetas_tIinL_ZFJ8DnzB0vDr9FU3--XIUCbbBa5LTZTwOfloDXdf_P--qUvEkgh0CpatjA%3D%3D)**
 
-The Wall Street Journal • 1h ago
+The Wall Street Journal • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Keyword • 2d ago
 
 "For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
-Fortune • 2h ago
+Fortune • 3h ago
 
 ---
 
@@ -221,7 +221,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
-⬆️ 249 • 💬 204 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 249 • 💬 204 • 3d ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
 
 ---
 
