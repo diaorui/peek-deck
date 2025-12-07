@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T03:46:13.049446+00:00'
+updated: '2025-12-07T04:22:35.972246+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 03:46 UTC  
+**Last Updated:** December 07, 2025 at 04:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
-16h ago
+17h ago
 
 ---
 
@@ -44,7 +44,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 Zhongqing CEO Receives the Challenge of T800
 
-15h ago
+16h ago
 
 ---
 
@@ -52,7 +52,7 @@ Zhongqing CEO Receives the Challenge of T800
 
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
 
-8h ago
+9h ago
 
 ---
 
@@ -66,7 +66,7 @@ https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
 **[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
 Meet Octoid, the squishy robot that changes from blue to green to red.
 
-🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 11h ago
+🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 12h ago
 
 ---
 
@@ -88,7 +88,7 @@ Meet Octoid, the squishy robot that changes from blue to green to red.
 
 I’m an elementary school special education teacher and I’ll be coaching an after school robotics club for our 4th and 5th grade students after the new year. Whoever wants to sign up. I’ve never 1) done an after school club or 2) done anything with robotics or coding. My district is providing a day of training for it once we get back from winter break. But I’m asking you all for any tips, tricks, or suggestions! Thank you!
 
-7h ago
+8h ago
 
 ---
 
@@ -104,7 +104,7 @@ https://youtu.be/UAlm8Z4mfpU
 
 Im working on an electric knee assist exoskeleton and i have a 450 rpm 24V 15kg*cm³ motor and i was wondering if it would be sufficient to show a noticeable difference for an average sized person when using the exoskeleton or will I need to use two motors.
 
-18h ago
+19h ago
 
 ---
 
@@ -128,6 +128,14 @@ IEEE Spectrum • 3d ago
 
 ---
 
+**[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
+
+Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
+
+South China Morning Post • 3h ago
+
+---
+
 **[MIT researchers “speak objects into existence” using AI and robotics](https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205)**
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
@@ -144,19 +152,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
-
-Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
-
-South China Morning Post • 2h ago
-
----
-
 **[New robots inside Boise's USPS facility help process and handle packages during holiday rush](https://www.ktvb.com/article/news/local/new-robots-usps-facility-help-process-holiday-rush/277-0ba7c01f-695c-465f-80f4-e2889aeafaa6)**
 
 USPS Boise facility gets four robotic arms to help process 220,000 packages daily during holiday rush, allowing redeployment of workers to areas needing human touch.
 
-KTVB • 21h ago
+KTVB • 22h ago
 
 ---
 
@@ -200,7 +200,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 7K • 👍 105 • 💬 25 • ⏱️ 1:03 • 11h ago
+👁️ 7K • 👍 105 • 💬 25 • ⏱️ 1:03 • 12h ago
 
 ---
 
@@ -210,7 +210,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 16K • 👍 681 • 💬 57 • ⏱️ 24:47 • 11h ago
+👁️ 16K • 👍 681 • 💬 57 • ⏱️ 24:47 • 12h ago
 
 ---
 
@@ -278,7 +278,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 XRoboHub
 
-👁️ 19K • 👍 502 • 💬 55 • ⏱️ 0:14 • 11h ago
+👁️ 19K • 👍 502 • 💬 55 • ⏱️ 0:14 • 12h ago
 
 ---
 

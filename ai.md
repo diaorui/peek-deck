@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T03:46:13.030025+00:00'
+updated: '2025-12-07T04:22:35.954430+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
+- videos
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 03:46 UTC  
+**Last Updated:** December 07, 2025 at 04:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 13h ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 14h ago
 
 ---
 
@@ -49,7 +49,13 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 17h ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 18h ago
+
+---
+
+**[Hello again...GRADIUS](https://www.reddit.com/r/artificial/comments/1pg3kjh/hello_againgradius/)**
+
+4h ago
 
 ---
 
@@ -57,13 +63,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 … and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
 
-11h ago
-
----
-
-**[Hello again...GRADIUS](https://www.reddit.com/r/artificial/comments/1pg3kjh/hello_againgradius/)**
-
-4h ago
+12h ago
 
 ---
 
@@ -87,7 +87,7 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 If a new California ballot measure passes, it could block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO. To justify its massive valuation without Wall Street, OpenAI may lean even more heavily on engagement on its consumer-facing platforms, like Sora2. Instrumental and Ekō's recent research into how Sora2 enables harm shows why this could be a bad idea. For everybody.
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 6h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 7h ago
 
 ---
 
@@ -103,7 +103,7 @@ If a new California ballot measure passes, it could block OpenAI’s conversion 
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 21h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 22h ago
 
 ---
 
@@ -123,13 +123,13 @@ Lately I’ve been trying to get my days under control because I kept doing that
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 12h ago
+The Guardian • 13h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqdItPPWIkWXTjJBk8J-PCDZ5dXn7gA1BYSkIFVY48n7ojiZv-jrtct6&gaa_ts=6934fbf0&gaa_sig=ZxxQ3VOYRpr_kf8mv5J71L4o19wG7GIUkDGqL7vZHSEnY02wdE-BmFK3pH1b-Yyu_zTAEAp2OwZOwXjqTivoNg%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqeAZpKYwBxVYXTX3pTh9AKhbPb-WkysoIkt26C-IquPe-2q4Ndk9OmA&gaa_ts=69350478&gaa_sig=msJ7OKgkc-GBbXzXep4aOf6NerHGb6KuKCDO9p8MgMUG55iQ5Q6LaK0Ozj71uZ0SbJLgdRY0rhcHm20S7HeO6A%3D%3D)**
 
-The Wall Street Journal • 10h ago
+The Wall Street Journal • 11h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Wall Street Journal • 10h ago
 
 China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Keyword • 1d ago
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-ABC News • 17h ago
+ABC News • 18h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Economist • 2d ago
 
 Today’s leading AI models can already write and refine their own software. The question is whether that self-improvement can ever snowball into true superintelligence
 
-Scientific American • 15h ago
+Scientific American • 16h ago
 
 ---
 
@@ -185,9 +185,11 @@ Anthropic • 2d ago
 
 ---
 
-**[‘It’s like the lottery’: The AI boom has created parking chaos in this S.F. neighborhood](https://www.sfchronicle.com/sf/article/mission-car-parking-san-francisco-21221645.php)**
+**[How a 24-year-old Stanford Ph.D. dropout lured some of Meta's brightest minds to join her AI math startup](https://www.businessinsider.com/axiom-math-stanford-dropout-meta-ai-researchers-startup-2025-12)**
 
-San Francisco Chronicle • 15h ago
+24-year-old Axiom Math founder Carina Hong wooed top Meta researchers in a competitive AI talent market.
+
+Business Insider • 18h ago
 
 ---
 
@@ -223,7 +225,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 385 • 💬 215 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 387 • 💬 215 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -343,7 +345,7 @@ The race to unlock the secret to a longer life is on - and two sisters from a Ca
 
 📺 BBC News
 
-👁️ 18K • 👍 537 • 💬 211 • ⏱️ 8:08 • 18h ago
+👁️ 18K • 👍 537 • 💬 211 • ⏱️ 8:08 • 19h ago
 
 ---
 
@@ -373,7 +375,7 @@ World-leading AI scientist Professor Stuart Russell issues one of the most urgen
 
 📺 The Diary Of A CEO Clips
 
-👁️ 97K • 👍 2K • 💬 645 • ⏱️ 21:18 • 8h ago
+👁️ 97K • 👍 2K • 💬 645 • ⏱️ 21:18 • 9h ago
 
 ---
 
@@ -389,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,197 • 4d ago
+⬇️ 169,515 • ❤️ 2,199 • 4d ago
 
 ---
 
@@ -413,7 +415,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 4,718 • ❤️ 521 • 5d ago
+⬇️ 4,718 • ❤️ 522 • 5d ago
 
 ---
 
@@ -425,7 +427,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 364 • 2d ago
+⬇️ 20,067 • ❤️ 366 • 2d ago
 
 ---
 
@@ -469,7 +471,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 196,425 • ❤️ 910 • 9d ago
+⬇️ 196,425 • ❤️ 909 • 9d ago
 
 ---
 
@@ -692,7 +694,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 2h ago
+⭐ 826 • 🔱 43 • 3h ago
 
 ---
 
@@ -702,7 +704,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 819 • 🔱 22 • 13h ago
+⭐ 819 • 🔱 22 • 14h ago
 
 ---
 
@@ -722,7 +724,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 695 • 🔱 229 • 20h ago
+⭐ 695 • 🔱 229 • 21h ago
 
 ---
 

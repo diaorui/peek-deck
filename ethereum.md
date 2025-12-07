@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T03:46:13.045693+00:00'
+updated: '2025-12-07T04:22:35.968922+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 03:46 UTC  
+**Last Updated:** December 07, 2025 at 04:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.6%  
+**24h:** +0.5%  
 **7d:** +8.9%  
 **30d:** -10.4%  
 **90d:** -29.3%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $368.67B
+**Market Cap:** $368.53B
 Rank #2
 
 **Circulating Supply:** 120,695,408 ETH
@@ -62,7 +62,7 @@ No max supply
 -38.3%
 
 **All-Time Low:** $0.43
-+705239.1%
++704855.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 million from Ethereum traders in a blindingly fast fraud.
 
-🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 11h ago
+🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -104,7 +104,7 @@ My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
 1️⃣ From Research to Reality – An EIP’s Journey with Pooja Ranjan The summit kicks off by bridging the gap between abstract research and deployed code. A must-watch for understanding the EIP Process. 📺 Watch it here: https://youtu.be/wH76j1BDZkc #Ethereum #EIP #EthereumGovernance #EthCommunity 2️⃣ Don’t just use Ethereum: help shape it! with Jochem Brouwer Jochem argues that providing feedback on EIP drafts is a civic duty. Silence leads to consensus bugs. Learn how to break the silence on the Magicians forum. 📺 Watch it here: https://youtu.be/ZVHHsKS6Kxo #Ethereum #EIPSummit #EIPs 3️⃣ From Draft to Inclusion: A Proposal’s Journey with Jihoon Song Writing the EIP is only 5% of the work. The hard part is convincing people to consider it. Jihoon shows how to talk to the right people and handle the Core Dev meetings to get your idea accepted. 📺 Watch it here: https://youtu.be/i8HO-bAivno #EIPSummit #EIPs #EIPProcess #CoreDev 4️⃣ From Specification to Syncing a Node: Ensuring Upgrade Readiness with Parithosh Jayanthi How do you test a $500B+ network without breaking it? Inside the industrial supply chain of Ethereum testing: from Hive unit tests to mainnet Shadow Forks. 🏗️ 📺 Watch it here : https://youtu.be/9yTrzNCd0Gk #Testing #Devnets #ShadowForks 5️⃣ Code is Law: Avoiding Spec-ulation for Faster Forks with danceratopz & raxhvl The propose accelerating Ethereum forks by tightly coupling EIP markdown with executable specs, ensuring every text change is instantly verified by code to eliminate ambiguity. 📺 Watch: https://youtu.be/h5sUMWD9Yus #Ethereum #SpecReview #Testing 6️⃣ EIP-8007: A major update to EVM gas prices with Maria Inês Silva A quick explainer on why Meta EIP listing all related EIPs matters. How authors propose to reshapes gas pricing, and what this means for developers, performance & future upgrades. 📺 Watch: https://youtu.be/HpRNP8tc0lY #EIP8007 #EVM #GasCosts #GasPricing 7️⃣ From Idea to EIP: A First-Time Author’s Journey with German Abal How a first-time contributor turns an idea into a real EIP - from drafting to reviews, feedback loops, and working with editors. 📺 Watch here: https://youtu.be/WcGYlzUChUE #EIPEditors #EthGovernance #EthereumStandards 8️⃣ ERCs in Focus - ERC-8028: AI Assets On-Chain with Thiru The video explains how ERC-8028 anchors AI data on-chain using DAT, enabling trust, provenance, and verifiable AI workflows. A simple breakdown of why this ERC matters for the future of AI + Ethereum standards. 📺 Watch: https://youtu.be/RaeBZiE0rDA #ERC8028 #ERCs #AIonChain #DAT 9️⃣ Meet EIP Editor Sam Wilson He breaks down what EIP editors do, how proposals are reviewed, and how Ethereum standards keep evolving. 📺 Watch: https://youtu.be/YHZviU19di0 #EIPEditors #EIPProcess #EthereumStandards 🔟 The Final Episode - ERC-1202: Voting Interface with Victor Zhou See how ERC-1202 enables flexible, on-chain voting mechanisms for DAOs & governance tools. A clean walkthrough of the standard, design choices, and real-world use cases. 📺 Watch: https://youtu.be/_szGTp49L5E #ERC1202 #OnChainVoting #GovernanceTech The EIP Summit was more than just talks; it was a call to action. Ethereum needs authors, reviewers, and testers. Special thanks to all speakers and the ECH Institute team! 😸 #Ethereum #Devconnect #EIPs #Web3
 
-22h ago
+23h ago
 
 ---
 
@@ -124,19 +124,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Trump Family’s Crypto Empire Collapses: Nearly $1 Billion Wiped Out as World Liberty and Memecoins Crash](https://www.reddit.com/r/ethereum/comments/1pe06ir/trump_familys_crypto_empire_collapses_nearly_1/)**
-
-Trump crypto empire falls faster than bitcoin
-
-🔗 [𝐓𝐇𝐄 𝐃𝐀𝐈𝐋𝐘 𝐆𝐋𝐈𝐓𝐂𝐇](https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/) • 2d ago
-
----
-
 **[Here's the full tech stack including ethereum rollups deployment platform we use to run our blockchain game with 10k players](https://www.reddit.com/r/ethereum/comments/1peu4wz/heres_the_full_tech_stack_including_ethereum/)**
 
 saw some questions about production web3 gaming setups so figured i'd share our full stack, we run a multiplayer game with about 10k active players. frontend: unity for game client, react for web dashboard smart contracts: solidity, hardhat for development, foundry for testing infrastructure: caldera for rollup deployment, alchemy for backup rpc calls, the graph for indexing monitoring: tenderly for transaction monitoring, sentry for error tracking deployment: github actions for ci/cd, vercel for web hosting analytics: mixpanel for user analytics, dune for on chain analytics The infrastructure piece was the biggest decision, we initially tried deploying our own rollup but it was a nightmare, switched to managed solution and shipped way faster. deployment was straightforward and support has been solid when we needed it. The biggest cost is actually alchemy for backup rpc even though we have our own nodes, turns out redundancy is worth it when you have paying users. whole stack runs about $800-1000 per month. We use both hardhat and foundry because hardhat for deployment scripts and foundry for testing since its way faster. mostly standard ethereum tools, game specific stuff is all in unity not on chain. Im happy to answer questions about any of these choices or tradeoffs we made.
 
 1d ago
+
+---
+
+**[Trump Family’s Crypto Empire Collapses: Nearly $1 Billion Wiped Out as World Liberty and Memecoins Crash](https://www.reddit.com/r/ethereum/comments/1pe06ir/trump_familys_crypto_empire_collapses_nearly_1/)**
+
+Trump crypto empire falls faster than bitcoin
+
+🔗 [𝐓𝐇𝐄 𝐃𝐀𝐈𝐋𝐘 𝐆𝐋𝐈𝐓𝐂𝐇](https://dailyglitch.com/trump-familys-crypto-empire-collapses-what-really-went-wrong-with-world-liberty-and-memecoins/) • 2d ago
 
 ---
 
@@ -188,19 +188,19 @@ The Block • 3d ago
 
 ---
 
-**[Ethereum Is Jumping Today-Here's Why](https://www.nasdaq.com/articles/ethereum-jumping-today-heres-why)**
-
-Key PointsEthereum receives a major update today that should improve its ability to scale.
-
-Nasdaq • 3d ago
-
----
-
 **[Ethereum prepares a controversial 2026 overhaul that will forcibly strip power from the network's most dominant players](https://cryptoslate.com/whats-next-for-ethereum-after-the-fusaka-upgrade/)**
 
 Ethereum's roadmap envisions widespread adoption with future upgrades, aiming to transform global financial systems.
 
 CryptoSlate • 2d ago
+
+---
+
+**[Ethereum Price Swells as Fusaka Upgrade Goes Live](https://decrypt.co/350883/ethereum-price-swells-as-fusaka-upgrade-goes-live)**
+
+Fusaka represents what some describe as Ethereum’s first real step into key data sampling and capacity mechanisms it has sought for a decade.
+
+Decrypt • 2d ago
 
 ---
 
@@ -216,15 +216,15 @@ cheddar.com • 2d ago
 
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
-Seeking Alpha • 1d ago
+Seeking Alpha • 2d ago
 
 ---
 
-**[Ethereum tops 24-hour net inflows with $138.7M: Artemis](https://cryptobriefing.com/ethereum-tops-24h-inflows-artemis/)**
+**[Bengaluru is Ethereum capital of India: Report](https://www.deccanherald.com/business/bengaluru-is-ethereum-capital-of-india-report-3820267)**
 
-Ethereum tops the digital asset market with $138.7M in 24-hour net inflows, highlighting strong investor interest.
+The report highlighted that Bitcoin dominance waned from 133 million to 76 million, and ETH exploded from 39 million to 184 million.
 
-Crypto Briefing • 1h ago
+Deccan Herald • 2d ago
 
 ---
 
@@ -258,7 +258,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 560 • 👍 43 • 💬 25 • ⏱️ 12:08 • 10h ago
+👁️ 560 • 👍 43 • 💬 25 • ⏱️ 12:08 • 11h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T03:46:13.039541+00:00'
+updated: '2025-12-07T04:22:35.962816+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 03:46 UTC  
+**Last Updated:** December 07, 2025 at 04:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,591.33
+### $89,664.55
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.0%  
+**24h:** +0.3%  
 **7d:** +4.1%  
 **30d:** -12.4%  
-**90d:** -19.6%  
-**1y:** -11.3%  
+**90d:** -19.5%  
+**1y:** -11.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1790.73B
+**Market Cap:** $1790.24B
 Rank #1
 
 **Circulating Supply:** 19,958,581 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.8%
+-28.9%
 
 **All-Time Low:** $67.81
-+132200.5%
++132135.7%
 
 ---
 
@@ -82,6 +82,12 @@ Rank #1
 Burnsish?
 
 7h ago
+
+---
+
+**[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
+
+51m ago
 
 ---
 
@@ -105,13 +111,15 @@ Burnsish?
 
 **[They are always not ready](https://www.reddit.com/r/Bitcoin/comments/1pfvd6m/they_are_always_not_ready/)**
 
-9h ago
+10h ago
 
 ---
 
-**[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
+**[24-05-2025 - Btc Pump It Up - Have You Ever Seen Bitcoin Like This](https://www.reddit.com/r/Bitcoin/comments/1pg47xb/24052025_btc_pump_it_up_have_you_ever_seen/)**
 
-15m ago
+it's not mine. Credits for him. "24-05-2025 - Btc Pump It Up - Have You Ever Seen Bitcoin Like This"
+
+4h ago
 
 ---
 
@@ -119,7 +127,7 @@ Burnsish?
 
 You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s simple and beginner-friendly but I moved to Value Averaging this cycle, and the results have been way better. Most people know DCA because it’s simple: buy the same amount every week.But when you’re trying to get better prices and make the market’s volatility work for you, Value Averaging is a much stronger method. Let me show you exactly how it played out using real BTC price action from 2024–2025. Rule I Followed Every 15% drop in BTC : Buy. First Buy = $1,000 Second Buy = $2,000 Third Buy = 3000$ Continues..... BTC gave three clean 30% corrections this cycle, so this rule activated six times. Drawdown 1 — March 2024 (-30%) BTC dropped twice by 15%, so we can bought: $1,000 ( Buy 01 ) $2,000 ( Buy 02 ) Later, when BTC reached what I marked as “Top 3,” these were the gains: $1,000 → +95% = +$950 $2,000 → +131% = +$2,620 Total = $3,570 profit Drawdown 2 — December 2024 (-30%) Same plan again: $1,000 ( Buy 03 ) $2000 ( Buy 04 ) During the recovery toward Top 3, three positions were still showing: +$950 ( Buy 01 ) +$2620 ( Buy 02 ) +$330 ( Buy 03 ) +$1140 ( Buy 04 ) Total = $5,040 profit Current Drawdown — 2025 July–Oct (-30%) This is where we are right now. Two more buys triggered: Buy 05: $1,000 → currently –14% Buy 06: $2,000 → currently breakeven These are fresh buys, so it’s totally normal that they haven’t recovered yet. Total Structure 6 total buys – 3 × $1,000 – 3 × $2,000 Total invested = $9,000 Right now, even though BTC is still in a ~30% decline: Three positions remain in profit ($420 + $1,300 + $260) One is slightly negative (–$140) Two are at breakeven Overall: still profitable during a drawdown. Why This Beats DCA for Me DCA buys at every price expensive, cheap, doesn’t matter. Value Averaging waits for discounts. You buy more when BTC is cheaper Your average cost drops fast Strong assets recover and reward the early buys Drawdowns become opportunities instead of pain Your risk is distributed intelligently no guessing bottoms. no chasing tops.Just reacting to 15% dips the same way, every time. This is the whole point:
 
-14h ago
+15h ago
 
 ---
 
@@ -129,19 +137,11 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 ---
 
-**[24-05-2025 - Btc Pump It Up - Have You Ever Seen Bitcoin Like This](https://www.reddit.com/r/Bitcoin/comments/1pg47xb/24052025_btc_pump_it_up_have_you_ever_seen/)**
+**[Bullish on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pfti4e/bullish_on_bitcoin/)**
 
-it's not mine. Credits for him. "24-05-2025 - Btc Pump It Up - Have You Ever Seen Bitcoin Like This"
+I'm sure you have all heard this a million times before but this is my story. In 2015 I researched the crap out of Bitcoin and came to the conclusion that it had a lot of potential. I purchased 10 Bitcoins for $225 a piece through Coinbase. I then stored the Bitcoin in a cold wallet and put the address on a piece of paper in my safe. I told myself that I was going to forget I even bought the Bitcoins and that I wasn't going to take that piece of paper out of the safe for 20 years, and at that time it would either be worthless or potentially worth a lot of money. In January of 2017, the price of Bitcoin skyrocketed to over $1,000. I had made almost five times my money in a very short time. $10,000 was real money to me at the time as I had kids nearing College age, a lot of bills to pay, etc. As the price of Bitcoin hit almost $1,200 I was feeling very rich. But just as soon as it went to $1,200, it crashed all the way back below 800. I felt as though I had been wiped out almost overnight, as my Bitcoin lost almost a third of its value. Almost as soon as the price crashed below $800, it went back up to $1000. At that time I did what I said I would never do. I took the Bitcoin wallet address out of my safe, put it back in my coinbase account and sold for $1,000 per Bitcoin, turning my less than $2,500 investment into a cool $10 grand. Fast forward to earlier this year when Bitcoin hit $125,000. Talk about a lot of regrets selling those 10 Bitcoin. But I also remembered I still had my coinbase account. Much to my surprise I learned that I had a few sats still in my account. Coinbase had given me a dollar worth of bitcoin when I opened the account and at the time Bitcoin was $225. That $1 worth of bitcoin they gave me was now worth over $550, lol. They also gave me another dollar worth of bitcoin for completing a transaction online which I did. The price at that time was around $250. So I was extremely surprised and grateful to see that my $2 worth of free bitcoin was now worth over $1,000. I am now almost 60 years old and approaching retirement. Up until the last couple of months I had done no crypto investing since my first Bitcoin purchase. The money I received from selling my Bitcoin I invested into hard assets such as silver which I really have enjoyed stacking. But stacking silver was a lot more fun when the price was under $25 an ounce. Tom Lee is now saying that retirees are going to start piling into Bitcoin as an alternative asset class. Although I am not yet retired, I feel as though I am living proof of his thesis. I think I have more conviction in Bitcoin now at $90,000 than I did at $225. Even though my Bitcoin Holdings now are a mere fraction of what I had previously, my dollar amount invested is much higher. I am really enjoying stacking crypto now and watching my balances grow. I am investing weekly in Bitcoin through my Strike account. I believe the value of Bitcoin will be significantly higher in the years to come. Good luck everyone!
 
-3h ago
-
----
-
-**[Nobody understands yet...](https://www.reddit.com/r/Bitcoin/comments/1pg37ay/nobody_understands_yet/)**
-
-Okay, "nobody" is an exaggeration, but MANY, 98% don't know what it is. They come for the money, speculation and the idea of ​​getting rich. However, Bitcoin no longer values ​​100x per week. Whoever understood, stood for freedom. It remained as a form of protest against the State. Bitcoin is much more than an investment, it is a weapon. You need to study. Really study, from the gold standard in 71, through Satoshi's history, and even understanding a little of the code. How many here know what the network's "difficulty adjustment" is? Many experience the Kruger Dunning Effect and don't realize it. They treat it as an investment, they watch two videos, if they think they are experts, they start trying to hit the bottom and the top, and finally... They are liquidated. The government is a parasite, it is illegitimate, it is coercive. Study
-
-4h ago
+11h ago
 
 ---
 
@@ -163,17 +163,47 @@ Investor's Business Daily • 5h ago
 
 ---
 
-**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
+**[Prediction: Bitcoin Will Hit $130,000 in 2026](https://finance.yahoo.com/news/prediction-bitcoin-hit-130-000-035000928.html)**
 
-In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
+Macroeconomic turbulence might work in the coin's favor.
 
-CNBC • 2d ago
+Yahoo Finance • 32m ago
+
+---
+
+**[BTC price: Bitcoin is seeing a trend that hasn't happened since 2014. Here's why crypto markets are so unusual right now](https://www.fastcompany.com/91455649/bitcoin-btc-price-crypto-market-splitting-off-stock-market-trend-hasnt-happened-since-2014-why-markets-are-unusual-right-now)**
+
+Fast Company • 1d ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
+
+Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
+
+Decrypt • 2d ago
+
+---
+
+**[Bitcoin and Ethereum Prediction: Will BTC’s Liquidity Range and ETH’s Rising Open Interest Trigger the Next Market Shift?](https://finance.yahoo.com/news/bitcoin-ethereum-prediction-btc-liquidity-234312560.html)**
+
+Bitcoin and Ethereum are holding steady near important levels while derivatives traders prepare for the next move. According to CoinGecko’s data on December 7, Bitcoin price is trading just below $89,400 today. The price is up about +0.1% in the past 24 hours, with roughly $28.5Bn in spot volume. The ...
+
+Yahoo Finance • 4h ago
 
 ---
 
 **[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
 
 TheStreet • 1d ago
+
+---
+
+**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
+
+JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
+
+Business Insider • 2d ago
 
 ---
 
@@ -185,43 +215,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Is Set for First Yearly Split From Stocks in Decade](https://finance.yahoo.com/news/bitcoin-set-first-yearly-split-141041017.html)**
-
-The digital asset has rarely deviated so cleanly from other risk assets even during past crypto winters.  Earlier this year, Bitcoin notched a record high above $126,000.  Bitcoin appears to be ending the week on a down note, dropping as much as 4.4% to $88,135 on Friday.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Professor Coin: When Bitcoin Sneezes—How Crypto and Equities Caught the Same Cold](https://decrypt.co/351063/professor-coin-when-bitcoin-sneezes-how-crypto-and-equities-caught-the-same-cold)**
 
 Academic literature finds that during periods of economic stress, correlations and spillovers between cryptocurrencies and equities spike.
 
-Decrypt • 12h ago
-
----
-
-**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
-
-Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
-
-Futurism • 10h ago
-
----
-
-**[Is Bitcoin About to Break Its Last Surviving Valuation Model?](https://www.coindesk.com/markets/2025/12/05/how-much-longer-until-we-consider-the-bitcoin-power-law-model-invalid)**
-
-As the gap between spot bitcoin price and the power law widens, investors are left questioning whether mean reversion is coming or if another cornerstone model is approaching its end.
-
-CoinDesk • 12h ago
-
----
-
-**[Should You Buy Bitcoin While It's Under $100,000?](https://www.fool.com/investing/2025/12/05/should-you-buy-bitcoin-while-its-under-100000/)**
-
-Bitcoin may be down 30% from its all-time high in October, but the long-term outlook remains unchanged.
-
-The Motley Fool • 1d ago
+Decrypt • 13h ago
 
 ---
 
@@ -263,7 +261,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
-⬆️ 2 • 💬 0 • 2h ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 2 • 💬 0 • 3h ago • [GitHub](https://github.com/kladskull/xEroS)
 
 ---
 
@@ -305,7 +303,7 @@ I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is W
 
 📺 Digital Asset News
 
-👁️ 13K • 👍 875 • 💬 86 • ⏱️ 21:52 • 9h ago
+👁️ 13K • 👍 875 • 💬 86 • ⏱️ 21:52 • 10h ago
 
 ---
 
@@ -325,7 +323,7 @@ Bitcoin volatility is collapsing, institutions are flooding in, and the entire m
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 597 • 💬 133 • ⏱️ 40:36 • 10h ago
+👁️ 12K • 👍 597 • 💬 133 • ⏱️ 40:36 • 11h ago
 
 ---
 
@@ -365,7 +363,7 @@ Tangem ▻ Black Friday Deals!!* Special Discount: *30% Off + $10 in FREE BTC!* 
 
 📺 Crypto Casey
 
-👁️ 31K • 👍 2K • 💬 335 • ⏱️ 12:50 • 14h ago
+👁️ 31K • 👍 2K • 💬 335 • ⏱️ 12:50 • 15h ago
 
 ---
 
@@ -385,7 +383,7 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 41K • 👍 2K • 💬 65 • ⏱️ 48:57 • 13h ago
+👁️ 41K • 👍 2K • 💬 65 • ⏱️ 48:57 • 14h ago
 
 ---
 
