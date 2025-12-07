@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T13:15:32.147954+00:00'
+updated: '2025-12-07T13:37:51.757766+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 13:15 UTC  
+**Last Updated:** December 07, 2025 at 13:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -76,7 +76,7 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 Hi all, I have a need for the above converter to be installed within a well-cooled (subsea) electronics enclosure. I have a stable 3-phase 400-440VAC supply and need 300-350VDC at a peak of 10kw but a more constant load of <4kw. I have already sourced a unit designed to be rack-mounted, rated to 30KW. It will do the job, but the project would be better if a compact/lighter solution could be found; I don’t need the 30KW headroom. Does anyone have any suggestions? Budget not particularly limited. Many thanks.
 
-23m ago
+46m ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi all, I have a need for the above converter to be installed within a well-cool
 
 Every time I think we’re catching up, China drops another “oh btw we built the future while you were asleep” demo. Actual humanoids doing rescue ops. Actual factories using robots as a team. Meanwhile we’re out here duct-taping googly eyes and mannequin heads onto robot dogs for YouTube “performance art”. I’m not saying we’re behind… but we’re behind.
 
-29m ago
+52m ago
 
 ---
 
@@ -104,7 +104,7 @@ Every time I think we’re catching up, China drops another “oh btw we built t
 
 https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
-17h ago
+18h ago
 
 ---
 
@@ -198,17 +198,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 24K • 👍 853 • 💬 68 • ⏱️ 24:47 • 21h ago
-
----
-
-**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
-
-The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
-
-📺 DPCcars
-
-👁️ 26K • 👍 201 • 💬 51 • ⏱️ 1:03 • 21h ago
+👁️ 25K • 👍 882 • 💬 71 • ⏱️ 24:47 • 21h ago
 
 ---
 
@@ -218,7 +208,17 @@ After months of buildup, the Shenzhen startup EngineAI is taking orders for its 
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 88 • 💬 15 • ⏱️ 0:59 • 7h ago
+👁️ 3K • 👍 105 • 💬 16 • ⏱️ 0:59 • 8h ago
+
+---
+
+**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
+
+The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
+
+📺 DPCcars
+
+👁️ 30K • 👍 230 • 💬 61 • ⏱️ 1:03 • 21h ago
 
 ---
 
@@ -228,7 +228,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 1K • 👍 11 • ⏱️ 0:25 • 3h ago
+👁️ 3K • 👍 26 • ⏱️ 0:25 • 4h ago
 
 ---
 
@@ -238,7 +238,7 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 16K • 👍 341 • 💬 163 • ⏱️ 4:05 • 2d ago
+👁️ 16K • 👍 345 • 💬 164 • ⏱️ 4:05 • 2d ago
 
 ---
 
@@ -248,7 +248,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 72K • 👍 571 • 💬 272 • ⏱️ 2:30 • 3d ago
+👁️ 73K • 👍 579 • 💬 276 • ⏱️ 2:30 • 3d ago
 
 ---
 
@@ -258,17 +258,17 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 68K • 👍 4K • 💬 483 • ⏱️ 19:33 • 22h ago
+👁️ 70K • 👍 4K • 💬 509 • ⏱️ 19:33 • 22h ago
 
 ---
 
-**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
+**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
 
-Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
+Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
 
-📺 Unitree Robotics
+📺 Fin Tek
 
-👁️ 1.5M • 👍 1K • 💬 300 • ⏱️ 1:06 • 4d ago
+👁️ 57K • 👍 2K • 💬 178 • ⏱️ 21:31 • 1d ago
 
 ---
 
@@ -276,17 +276,17 @@ Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G
 
 📺 AI . Robot
 
-👁️ 1.4M • 👍 7K • 💬 45 • ⏱️ 0:17 • 3d ago
+👁️ 1.4M • 👍 8K • 💬 45 • ⏱️ 0:17 • 3d ago
 
 ---
 
-**[🤖🐯 Dad Cat Builds a Futuristic Robot Tiger — What Happens Next Will Shock You!](https://www.youtube.com/watch?v=d8MLl48mpyk)**
+**[AI Spider Quadruped Robot Wall-Climbing &amp; Web-Swing Demo at 2025  Robotic Expo in Silicon Valley](https://www.youtube.com/watch?v=EFOb_DZ1Wjk)**
 
-Dad Cat surprises his little kitten with something truly unbelievable — a futuristic robot tiger built from advanced tech, glowing ...
+In 2025 Silicon Valley, a next-gen AI Spider Quadruped Robot reveals a completely new way of moving. It walks through the ...
 
-📺 AiMagic Fx
+📺 AI Robot Lab
 
-👁️ 505 • 💬 1 • ⏱️ 0:58 • 4h ago
+👁️ 23K • 👍 234 • 💬 5 • ⏱️ 0:25 • 22h ago
 
 ---
 

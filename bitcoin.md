@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T13:15:32.137819+00:00'
+updated: '2025-12-07T13:37:51.748516+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- social
 - news
 - cryptocurrency
-- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 13:15 UTC  
+**Last Updated:** December 07, 2025 at 13:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,286.28
+### $89,500.78
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +3.9%  
-**30d:** -12.6%  
-**90d:** -19.7%  
-**1y:** -11.5%  
+**24h:** -1.3%  
+**7d:** +3.0%  
+**30d:** -13.3%  
+**90d:** -20.4%  
+**1y:** -12.1%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 **[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ Burnsish?
 
 **[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 3h ago
 
 A key on-chain indicator known as Bitcoin “liveliness” is climbing again, a pattern historically associated with bull market activity, raising the possibility that the current cycle still has room to run, according to analysts tracking long-term blockchain metrics. Key Takeaways: Bitcoin’s “liveliness” metric is rising despite stagnant prices, signaling renewed ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -237,7 +237,7 @@ CNBC • 2d ago
 
 Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin will cure everything
 
-⬆️ 5 • 💬 0 • 2d ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
+⬆️ 5 • 💬 0 • 3d ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
 
 ---
 
@@ -301,17 +301,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 369 • ⏱️ 11:32 • 15h ago
-
----
-
-**[I Doubled My Bitcoin Buys. Here is WHY.](https://www.youtube.com/watch?v=8r-YIulIAE4)**
-
-I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is WHY... The links below may include affiliate links, ...
-
-📺 Digital Asset News
-
-👁️ 18K • 👍 1K • 💬 123 • ⏱️ 21:52 • 19h ago
+👁️ 50K • 👍 2K • 💬 383 • ⏱️ 11:32 • 16h ago
 
 ---
 
@@ -321,7 +311,17 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 41K • 👍 3K • 💬 420 • ⏱️ 10:23 • 1d ago
+👁️ 42K • 👍 3K • 💬 430 • ⏱️ 10:23 • 1d ago
+
+---
+
+**[I Doubled My Bitcoin Buys. Here is WHY.](https://www.youtube.com/watch?v=8r-YIulIAE4)**
+
+I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is WHY... The links below may include affiliate links, ...
+
+📺 Digital Asset News
+
+👁️ 19K • 👍 1K • 💬 129 • ⏱️ 21:52 • 19h ago
 
 ---
 
@@ -331,27 +331,7 @@ Bitcoin volatility is collapsing, institutions are flooding in, and the entire m
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 759 • 💬 154 • ⏱️ 40:36 • 20h ago
-
----
-
-**[Every Major Bank Just Pivoted to Bitcoin… They Know What’s Coming!](https://www.youtube.com/watch?v=3rSaeVkFY4Q)**
-
-Every major economy is hitting the debt wall simultaneously. A global reset is coming—fast, systemic, and total. BlackRock ...
-
-📺 Simply Bitcoin
-
-👁️ 56K • 👍 4K • 💬 300 • ⏱️ 23:27 • 2d ago
-
----
-
-**[BITCOIN BEAR MARKET IS DEAD! Gold&#39;s Secret Signal Confirms BULL RUN!](https://www.youtube.com/watch?v=HkCXQqkE1BE)**
-
-We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow grind up for a year, finally a year long mega bull ...
-
-📺 Discover Crypto
-
-👁️ 8K • 👍 400 • 💬 39 • ⏱️ 5:59 • 20h ago
+👁️ 19K • 👍 785 • 💬 159 • ⏱️ 40:36 • 20h ago
 
 ---
 
@@ -361,17 +341,47 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 119K • 👍 7K • 💬 473 • ⏱️ 15:38 • 2d ago
+👁️ 121K • 👍 7K • 💬 477 • ⏱️ 15:38 • 2d ago
 
 ---
 
-**[WAIT: JP Morgan is STILL predicting $170,000 Bitcoin in 2026?! | EP 1392](https://www.youtube.com/watch?v=sU3cb55xCGo)**
+**[BITCOIN BEAR MARKET IS DEAD! Gold&#39;s Secret Signal Confirms BULL RUN!](https://www.youtube.com/watch?v=HkCXQqkE1BE)**
 
-After FUDing bitcoin and Strategy JP Morgan analysts are still predicting the 4 year cycle is over?
+We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow grind up for a year, finally a year long mega bull ...
 
-📺 Simply Bitcoin
+📺 Discover Crypto
 
-👁️ 10K • 👍 460 • 💬 45 • ⏱️ 1:34:16 • 1d ago
+👁️ 8K • 👍 408 • 💬 40 • ⏱️ 5:59 • 21h ago
+
+---
+
+**[A Realistic Bitcoin Price Outlook For 2026](https://www.youtube.com/watch?v=4_R3VxxYq-s)**
+
+WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 PIONEX: ...
+
+📺 Crypto Kid
+
+👁️ 5K • 👍 327 • 💬 143 • ⏱️ 8:49 • 17h ago
+
+---
+
+**[What Big Banks Aren&#39;t Telling You About Bitcoin](https://www.youtube.com/watch?v=LIJrvnHmxj8)**
+
+As Larry Fink calls Bitcoin an “asset of fear,” sovereign wealth funds and the biggest banks on earth are quietly buying every major ...
+
+📺 Swan Bitcoin
+
+👁️ 80K • 👍 3K • 💬 258 • ⏱️ 18:48 • 2d ago
+
+---
+
+**[Bitcoin investors...Get Ready For Inflation Numbers and the Fed!](https://www.youtube.com/watch?v=RmFwVDHzkis)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 34K • 👍 2K • 💬 445 • ⏱️ 10:13 • 1d ago
 
 ---
 
@@ -381,17 +391,7 @@ Tangem ▻ Black Friday Deals!!* Special Discount: *30% Off + $10 in FREE BTC!* 
 
 📺 Crypto Casey
 
-👁️ 41K • 👍 3K • 💬 376 • ⏱️ 12:50 • 1d ago
-
----
-
-**[Strategy CEO: Still able to raise money in a bitcoin down cycle](https://www.youtube.com/watch?v=JWWr6s6ooVs)**
-
-Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bitcoin, the long-term thesis for Strategy and much ...
-
-📺 CNBC Television
-
-👁️ 14K • 👍 136 • 💬 125 • ⏱️ 4:01 • 1d ago
+👁️ 42K • 👍 3K • 💬 381 • ⏱️ 12:50 • 1d ago
 
 ---
 

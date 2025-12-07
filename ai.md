@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T13:15:32.129006+00:00'
+updated: '2025-12-07T13:37:51.740181+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 13:15 UTC  
+**Last Updated:** December 07, 2025 at 13:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 If you believe these CEOs will solve unemployment after AI replaces most of the human workers, this video is for you.
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 Calls for review after technology found to return more false positives for ‘some demographic groups’ on certain settings
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 5h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ Calls for review after technology found to return more false positives for ‘so
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 22h ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 23h ago
 
 ---
 
@@ -81,7 +81,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 I saw a paper/article on hacker news at one point about making LLMs where they did not use floating point gpus to do their calculations so you wouldn't get the non-deterministic problem (ask same question get different response). How is that going? I work with RAG tech and it seems amazing but it also is sketch when a table is read incorrectly and values are off by a significant figure.
 
-6h ago
+7h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Guardian • 22h ago
 
 **[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqdViRxBOis3FhyyA0gEgHTHutBvGwxlpCi1lHUg4DbM9WW7Q7NTiRKX&gaa_ts=6935815d&gaa_sig=10eT2ZLstpo1b6ty2N4DvWye2EWCCw78H0r-dBtv7TPOzIU9Wl6znt7CSjqO8L_WxEHwltT9AD3TGHbRm1tFIw%3D%3D)**
 
-The Wall Street Journal • 19h ago
+The Wall Street Journal • 20h ago
 
 ---
 
@@ -155,7 +155,7 @@ ABC News • 1h ago
 
 Utah's Sen. John Curtis wants to require robocallers to disclose the use of AI — and says there should be enhanced penalties for phone scams that use AI.
 
-The Salt Lake Tribune • 15m ago
+The Salt Lake Tribune • 37m ago
 
 ---
 
@@ -285,13 +285,13 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 ## YouTube Videos: "ai"
 
-**[Gemini 4 — Google’s Biggest AI Upgrade Yet (Full Features Explained)](https://www.youtube.com/watch?v=WYK7iyOklf4)**
+**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
 
-Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Gemini 4 — and it might be their most powerful AI ...
+Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
 
-📺 BitBiasedAI
+📺 AI Revolution
 
-👁️ 19K • 👍 623 • 💬 22 • ⏱️ 11:49 • 16h ago
+👁️ 83K • 👍 2K • 💬 363 • ⏱️ 12:07 • 1d ago
 
 ---
 
@@ -301,17 +301,7 @@ Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial i
 
 📺 Fox News Clips
 
-👁️ 30K • 👍 510 • 💬 212 • ⏱️ 6:22 • 1d ago
-
----
-
-**[They Summoned Something That Can&#39;t Be Controlled: The AI Warning From 1904](https://www.youtube.com/watch?v=h6efTA8z1UI)**
-
-Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the demon." Everyone laughed. Nobody's laughing ...
-
-📺 End Times Productions
-
-👁️ 121K • 👍 8K • 💬 2K • ⏱️ 34:02 • 2d ago
+👁️ 31K • 👍 523 • 💬 214 • ⏱️ 6:22 • 1d ago
 
 ---
 
@@ -321,7 +311,7 @@ INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, 
 
 📺 AI Search
 
-👁️ 28K • 👍 2K • 💬 429 • ⏱️ 47:03 • 9h ago
+👁️ 36K • 👍 2K • 💬 489 • ⏱️ 47:03 • 10h ago
 
 ---
 
@@ -331,15 +321,27 @@ Connor Leahy discusses the motivations of AGI corporations, how modern AI is "gr
 
 📺 Future of Life Institute
 
-👁️ 36K • 👍 2K • 💬 630 • ⏱️ 15:40 • 2d ago
+👁️ 37K • 👍 2K • 💬 640 • ⏱️ 15:40 • 2d ago
 
 ---
 
-**[REAL VS A.I. COMPILATION 😂](https://www.youtube.com/watch?v=4fIDsqbkXco)**
+**[Gemini 4 — Google’s Biggest AI Upgrade Yet (Full Features Explained)](https://www.youtube.com/watch?v=WYK7iyOklf4)**
 
-📺 Bob Reese
+Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Gemini 4 — and it might be their most powerful AI ...
 
-👁️ 9.7M • 👍 301K • 💬 2K • ⏱️ 1:02 • 1d ago
+📺 BitBiasedAI
+
+👁️ 22K • 👍 679 • 💬 26 • ⏱️ 11:49 • 17h ago
+
+---
+
+**[They Summoned Something That Can&#39;t Be Controlled: The AI Warning From 1904](https://www.youtube.com/watch?v=h6efTA8z1UI)**
+
+Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the demon." Everyone laughed. Nobody's laughing ...
+
+📺 End Times Productions
+
+👁️ 123K • 👍 8K • 💬 2K • ⏱️ 34:02 • 2d ago
 
 ---
 
@@ -349,7 +351,15 @@ subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianB
 
 📺 yikes
 
-👁️ 157K • 👍 7K • 💬 1K • ⏱️ 21:06 • 21h ago
+👁️ 167K • 👍 8K • 💬 1K • ⏱️ 21:06 • 21h ago
+
+---
+
+**[REAL VS A.I. COMPILATION 😂](https://www.youtube.com/watch?v=4fIDsqbkXco)**
+
+📺 Bob Reese
+
+👁️ 10.1M • 👍 316K • 💬 3K • ⏱️ 1:02 • 1d ago
 
 ---
 
@@ -359,17 +369,7 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 432K • 👍 1K • 💬 36 • ⏱️ 8:06 • 1d ago
-
----
-
-**[AI Has ENTERED ABSOLUTE MADNESS 💀 (Funniest Sora 2 Moments Yet)](https://www.youtube.com/watch?v=27F7VlOw6e4)**
-
-Sora 2 has officially entered absolute madness — and these are the funniest moments yet This compilation showcases the ...
-
-📺 YetiAF | AI Universe
-
-👁️ 18K • 👍 499 • 💬 57 • ⏱️ 16:01 • 1d ago
+👁️ 523K • 👍 2K • 💬 45 • ⏱️ 8:06 • 1d ago
 
 ---
 
@@ -379,7 +379,7 @@ World-leading AI scientist Professor Stuart Russell issues one of the most urgen
 
 📺 The Diary Of A CEO Clips
 
-👁️ 158K • 👍 3K • 💬 834 • ⏱️ 21:18 • 18h ago
+👁️ 166K • 👍 3K • 💬 862 • ⏱️ 21:18 • 18h ago
 
 ---
 
@@ -431,7 +431,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 402 • 3h ago
+⬇️ 27,215 • ❤️ 402 • 4h ago
 
 ---
 
@@ -527,7 +527,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 18 • 💬 2 • ⭐ 5,201 • 9d ago
+▲ 18 • 💬 2 • ⭐ 5,201 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
