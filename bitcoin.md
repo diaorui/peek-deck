@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T22:53:06.387200+00:00'
+updated: '2025-12-07T23:14:45.337500+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
+- videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 22:53 UTC  
+**Last Updated:** December 07, 2025 at 23:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,019.13
+### $89,716.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +4.3%  
-**30d:** -12.2%  
-**90d:** -19.4%  
-**1y:** -11.1%  
+**24h:** +0.5%  
+**7d:** +4.1%  
+**30d:** -12.4%  
+**90d:** -19.5%  
+**1y:** -11.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1795.05B
+**Market Cap:** $1788.78B
 Rank #1
 
-**Circulating Supply:** 19,958,993 BTC
+**Circulating Supply:** 19,959,006 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.6%
+-28.9%
 
 **All-Time Low:** $67.81
-+132684.3%
++132174.0%
 
 ---
 
@@ -85,12 +85,6 @@ Rank #1
 
 ---
 
-**[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
-
-3h ago
-
----
-
 **[Leverage pigs getting liquidated up and down.](https://www.reddit.com/r/Bitcoin/comments/1pgu6ig/leverage_pigs_getting_liquidated_up_and_down/)**
 
 Ngl I lowkey love to see it.
@@ -99,9 +93,21 @@ Ngl I lowkey love to see it.
 
 ---
 
-**[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
+**[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
 
 4h ago
+
+---
+
+**[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
+
+5h ago
+
+---
+
+**[Not selling Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgtw05/not_selling_bitcoin/)**
+
+1h ago
 
 ---
 
@@ -110,12 +116,6 @@ Ngl I lowkey love to see it.
 Mastercard’s Crypto Card Program enables consumers to use their crypto cards to pay with crypto for everyday transactions across 100 million+ acceptance locations.
 
 🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 6h ago
-
----
-
-**[Not selling Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgtw05/not_selling_bitcoin/)**
-
-1h ago
 
 ---
 
@@ -129,7 +129,7 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 Some people on TV or online act like inflation is “not that bad” or even pretend it’s exaggerated. But regular people don’t need charts to know the truth. They see it when they: • check out at the grocery store • fill up their gas tank • pay rent • try to save • try to invest • try to raise a family We’re not imagining it. We’re living it. If your money buys less every year, that’s not a “hoax.” That’s the system working exactly as designed. Bitcoin wasn’t created because everything was fine it was created because inflation quietly destroys the middle and working class. People deserve honesty about what’s happening to their money. Silence helps no one. What signs of inflation hit you the hardest this year?
 
-1h ago
+2h ago
 
 ---
 
@@ -159,19 +159,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
 
-Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
+Which of these popular cryptocurrencies has more upside potential?
 
-Decrypt • 6h ago
-
----
-
-**[ETFs in the Crossfire Amid Bitcoin’s Growing Self-Custody Debate](https://finance.yahoo.com/news/etfs-crossfire-amid-bitcoin-growing-215004125.html)**
-
-The ETF–self-custody clash intensifies as Bitcoin debates sovereignty, security, and institutional influence.
-
-Yahoo Finance • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -197,19 +189,11 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
+**[Bitcoin turns negative for the week as it fails to hold above $90,000: CNBC Crypto World](https://www.cnbc.com/video/2025/12/05/bitcoin-turns-negative-for-the-week-as-it-fails-to-hold-above-90000-cnbc-crypto-world.html)**
 
-In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
+On today's episode of CNBC Crypto World, bitcoin and other major cryptocurrencies turn negative to closer out the week. Plus, prosecutors recommend a 12-year prison sentence for Terraform Labs founder Do Kwon. And Summer Mersinger, CEO of the Blockchain Association, discusses the group's upcoming policy summit in Washington, D.C.
 
-CNBC • 3d ago
-
----
-
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
-
-Which of these popular cryptocurrencies has more upside potential?
-
-The Motley Fool • 2h ago
+CNBC • 2d ago
 
 ---
 
@@ -217,7 +201,15 @@ The Motley Fool • 2h ago
 
 The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
 
-Forbes • 9h ago
+Forbes • 10h ago
+
+---
+
+**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
+
+Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
+
+Decrypt • 6h ago
 
 ---
 
@@ -226,6 +218,14 @@ Forbes • 9h ago
 Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
 
 Futurism • 1d ago
+
+---
+
+**[Prediction: Bitcoin Will Hit $130,000 in 2026](https://www.nasdaq.com/articles/prediction-bitcoin-will-hit-130000-2026)**
+
+Key PointsBitcoin's prior all-time high was more than $126,000.
+
+Nasdaq • 18h ago
 
 ---
 
@@ -259,7 +259,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
-⬆️ 3 • 💬 0 • 21h ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 3 • 💬 0 • 22h ago • [GitHub](https://github.com/kladskull/xEroS)
 
 ---
 
@@ -267,13 +267,13 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 The endowment dramatically increased its holdings of a spot bitcoin ETF since its previous such report.Â
 
-⬆️ 2 • 💬 1 • 3d ago • [Gizmodo](https://gizmodo.com/the-harvard-endowments-biggest-public-investment-is-now-bitcoin-2000686439)
+⬆️ 2 • 💬 1 • 4d ago • [Gizmodo](https://gizmodo.com/the-harvard-endowments-biggest-public-investment-is-now-bitcoin-2000686439)
 
 ---
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 0 • 7h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 0 • 8h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -345,7 +345,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 404 • 💬 94 • ⏱️ 10:04 • 5h ago
+👁️ 7K • 👍 404 • 💬 94 • ⏱️ 10:04 • 6h ago
 
 ---
 
@@ -385,7 +385,7 @@ Lyn Alden breaks down the strange disconnect defining this Bitcoin cycle: weak c
 
 📺 Swan Bitcoin
 
-👁️ 3K • 👍 140 • 💬 34 • ⏱️ 1:11 • 9h ago
+👁️ 3K • 👍 140 • 💬 34 • ⏱️ 1:11 • 10h ago
 
 ---
 

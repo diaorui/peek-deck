@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T22:53:06.396636+00:00'
+updated: '2025-12-07T23:14:45.345598+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 22:53 UTC  
+**Last Updated:** December 07, 2025 at 23:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
+
+9h ago
+
+---
+
 **[GITAI robots cooperatively assemble a 5-meter tower, a building block for future off-world habitats](https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/)**
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-11h ago
-
----
-
-**[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
-
-9h ago
+12h ago
 
 ---
 
@@ -74,7 +74,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 I’m looking between the RealSense d455 and d435i, and the main difference I’m concerned about is the d455’s much larger blindspot. It’s “blind” below 0.6m (60cm). This is blind a pretty much arm’s length so many manipulation tasks are useless unless you hold the camera way out. The d435i by contrast is only blind under 30cm. What indoor use cases are there for the d455 in a general household setting? Despite having 2x the detecting range (6m vs 3m)of the d435i, its “farsightedness” makes it seem ineffective for most projects
 
-45m ago
+1h ago
 
 ---
 
@@ -90,7 +90,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/adityabangde/BipedalWalker-PPO-STM32.git Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
 
-15h ago
+16h ago
 
 ---
 
@@ -146,6 +146,14 @@ Seeking Alpha • 2d ago
 
 ---
 
+**[Using the Power of Robotics to uncover the secrets of Pompeii](https://www.cnn.com/2025/12/07/world/video/pompeii-robot-fresco-kinkade-pkg-120712aseg2-cnni-world-fast)**
+
+Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
+
+CNN • 10h ago
+
+---
+
 **[Why AI and Robotics Are Now National Security Assets](https://etftrends.com/artificial-intelligence-content-hub/why-ai-robotics-national-security-assets/)**
 
 ETF Trends • 3d ago
@@ -156,15 +164,7 @@ ETF Trends • 3d ago
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-South China Morning Post • 21h ago
-
----
-
-**[Using the Power of Robotics to uncover the secrets of Pompeii](https://www.cnn.com/2025/12/07/world/video/pompeii-robot-fresco-kinkade-pkg-120712aseg2-cnni-world-fast)**
-
-Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
-
-CNN • 10h ago
+South China Morning Post • 22h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Why Walmart's AI Robotics Maker Is Tumbling After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
+**[Walmart's AI Robotics Maker Is Sinking For This Reason After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
 
 Investor's Business Daily • 3d ago
 
@@ -186,7 +186,7 @@ Investor's Business Daily • 3d ago
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
-CNET • 9h ago
+CNET • 10h ago
 
 ---
 
@@ -278,7 +278,7 @@ Unitree's latest demos reveal that kickboxing is no longer just for its smaller 
 
 📺 CNET
 
-👁️ 17K • 👍 463 • 💬 68 • ⏱️ 6:05 • 9h ago
+👁️ 17K • 👍 463 • 💬 68 • ⏱️ 6:05 • 10h ago
 
 ---
 

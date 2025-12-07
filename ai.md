@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T22:53:06.378364+00:00'
+updated: '2025-12-07T23:14:45.330120+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
+- repositories
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 22:53 UTC  
+**Last Updated:** December 07, 2025 at 23:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Explore the true history of convolutional neural networks, from Fukushima’s neocognitron to modern CNNs and LeCun’s influential work.
 
-🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 8h ago
+🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 9h ago
 
 ---
 
@@ -123,7 +123,7 @@ We built a 6 GB, fully self-contained Medical SLM that runs offline on laptops a
 
 A number of executives are departing Apple. At least some of them are related to its AI strategy.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -135,43 +135,27 @@ CBS News • 8h ago
 
 ---
 
-**[Nvidia CEO says U.S. data centers take 3 years, but China 'can build a hospital in a weekend'](https://fortune.com/2025/12/06/nvidia-ceo-jensen-huang-ai-race-china-data-centers-construct-us/)**
-
-China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
-
-Fortune • 1d ago
-
----
-
 **[HP’s chief commercial officer predicts the future will include AI-powered PCs that don’t share data in the cloud](https://fortune.com/2025/12/07/hp-ai-pc-chief-commercial-officer-data-privacy/)**
 
 "People want to know that if they input data to a model, the model won’t train on their data,” said HP's Dave McQuarrie.
 
-Fortune • 53m ago
+Fortune • 1h ago
 
 ---
 
-**[Why OpenAI’s AI Data Center Buildout Faces A 2026 Reality Check](https://www.forbes.com/sites/paulocarvao/2025/12/06/why-openais-ai-data-center-buildout-faces-a-2026-reality-check/)**
+**[Google DeepMind CEO Demis Hassabis says AI scaling 'must be pushed to the maximum'](https://www.businessinsider.com/demis-hassabis-ai-scaling-pushed-to-maximum-data-2025-12)**
 
-OpenAI’s trillion-dollar data center ambitions face hard market, demand and infrastructure limits that could force a 2026 reality check.
+Google DeepMind CEO Demis Hassabis says AI scaling is key to reaching AGI, a still theoretical version of AI that reasons as well as humans.
 
-Forbes • 21h ago
-
----
-
-**[Michael Keaton And Sean Douglas On Exploring Grief, Nostalgia & AI In ‘Sweetwater’ Short Film](https://deadline.com/2025/12/michael-keaton-sweetwater-interview-sean-douglas-1236641128/)**
-
-Michael Keaton and his son Sean Douglas talk to Deadline about their latest joint project Sweetwater starring Kyra Sedgwick.
-
-Deadline • 1h ago
+Business Insider • 27m ago
 
 ---
 
-**[Video Tips on how to keep your babies away from 'AI slop'](https://abcnews.go.com/Technology/video/tips-babies-ai-slop-128192363)**
+**[The Next Frontier For AI Is The Human Brain](https://www.forbes.com/sites/robtoews/2025/12/07/the-next-frontier-for-ai-is-the-human-brain/)**
 
-Tech reporter at Bloomberg Alexandra Levine joins ABC News Live to discuss what 'AI slop' is and how to keep your babies away from it.
+Brain-computer interfaces will play a central role in defining how human intelligence and artificial intelligence fit together.
 
-ABC News • 1h ago
+Forbes • 29m ago
 
 ---
 
@@ -189,9 +173,23 @@ Google Research • 3d ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqeCHrD4dykPteJ_qPm4frVAVjb4jeTsjm0BqZkTY2yUr0ZYptTdNd3I&gaa_ts=6936062d&gaa_sig=4573LCXbARMq2szkn3jbDD7YEqQqxoqTlZwbE_3XY6AlzsAfMfSMVfCaGpk5PrnA-QiQuAiBd2c9Cm-gYnUBPg%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcNlpAnu4s6_uuz4QxsjAv0jevUaCNH7IsmGPQ5ONdhZ9QI_-Xgj44O&gaa_ts=69360dcc&gaa_sig=-7sXQs6jL9zj4ZUc2boJ0SDxFsgErVn6jLhKM0LtQ6qz1qcHg_Es4X_NvKDXpFPQj3Y3ahH_0vjn0T3Of6XmoA%3D%3D)**
 
 The Wall Street Journal • 1d ago
+
+---
+
+**[Why Nvidia and Other AI Stocks Have Lost Their ‘Quality’ Status](https://www.wsj.com/finance/investing/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status-84180ff2?gaa_at=eafs&gaa_n=AWEtsqfUo7__XaZSwnDUYhCXmJfztU78WBxc7S44RDlovKAPfjmzm8PiHaNB&gaa_ts=69360dcc&gaa_sig=Hr6z28cURZoM9XHOodIPkNLdjNh_5novALoWVD_f6oEt61z9FaND_H4x3OucpmnkGxUCw-Wf-52Bz6OBELHtuA%3D%3D)**
+
+The Wall Street Journal • 12h ago
+
+---
+
+**[This Artificial Intelligence (AI) Infrastructure Stock Could Be the Nvidia of 2026](https://www.fool.com/investing/2025/12/07/this-ai-infrastructure-stock-could-be-the-nvidia/)**
+
+Nvidia has been one of the biggest darlings of the artificial intelligence (AI) revolution, but another chip stock could be poised for a breakout.
+
+The Motley Fool • 3h ago
 
 ---
 
@@ -211,13 +209,13 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 406 • 💬 224 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 407 • 💬 227 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 329 • 💬 106 • 10h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 342 • 💬 109 • 10h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -231,7 +229,7 @@ Welcome to the slop era.
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 86 • 💬 135 • 6h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 87 • 💬 152 • 6h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -269,7 +267,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 31 • 💬 13 • 10h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 32 • 💬 13 • 10h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -283,7 +281,7 @@ Big Tech is racking up debt to fund their AI infrastructure for demand that seem
 
 📺 Vanessa Wingårdh
 
-👁️ 65K • 👍 6K • 💬 1K • ⏱️ 10:38 • 9h ago
+👁️ 65K • 👍 6K • 💬 1K • ⏱️ 10:38 • 10h ago
 
 ---
 
@@ -323,7 +321,7 @@ NEW AI Video Generator Kling O1 Redefines AI Filmmaking Try Kling O1 & Kling 2.6
 
 📺 Dan Kieft
 
-👁️ 9K • 💬 10 • ⏱️ 9:23 • 6h ago
+👁️ 9K • 💬 10 • ⏱️ 9:23 • 7h ago
 
 ---
 
@@ -387,7 +385,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 186,951 • ❤️ 2,250 • 5d ago
+⬇️ 186,951 • ❤️ 2,251 • 5d ago
 
 ---
 
@@ -399,7 +397,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 25,451 • ❤️ 774 • 6d ago
+⬇️ 25,451 • ❤️ 775 • 6d ago
 
 ---
 
@@ -423,7 +421,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 429 • 13h ago
+⬇️ 27,215 • ❤️ 430 • 13h ago
 
 ---
 
@@ -679,7 +677,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 958 • 🔱 115 • 15m ago
+⭐ 958 • 🔱 115 • 37m ago
 
 ---
 
@@ -699,7 +697,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 827 • 🔱 43 • 15h ago
+⭐ 827 • 🔱 43 • 16h ago
 
 ---
 
