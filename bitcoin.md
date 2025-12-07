@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T13:59:35.743198+00:00'
+updated: '2025-12-07T14:26:39.494122+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 13:59 UTC  
+**Last Updated:** December 07, 2025 at 14:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,500.78
+### $88,288.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** +3.4%  
-**30d:** -13.0%  
-**90d:** -20.1%  
-**1y:** -11.9%  
+**24h:** -2.3%  
+**7d:** +1.9%  
+**30d:** -14.0%  
+**90d:** -21.0%  
+**1y:** -12.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1775.73B
+**Market Cap:** $1768.77B
 Rank #1
 
-**Circulating Supply:** 19,958,771 BTC
+**Circulating Supply:** 19,958,831 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.4%
+-29.7%
 
 **All-Time Low:** $67.81
-+131185.9%
++130553.3%
 
 ---
 
@@ -76,6 +76,12 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
+
+**[It is funny how true is this...](https://www.reddit.com/r/Bitcoin/comments/1pgfjhq/it_is_funny_how_true_is_this/)**
+
+3h ago
+
+---
 
 **[MasterCard is Orange Pilled for 1 Billion Users](https://www.reddit.com/r/Bitcoin/comments/1pgenos/mastercard_is_orange_pilled_for_1_billion_users/)**
 
@@ -97,12 +103,6 @@ Rank #1
 
 ---
 
-**[It is funny how true is this...](https://www.reddit.com/r/Bitcoin/comments/1pgfjhq/it_is_funny_how_true_is_this/)**
-
-3h ago
-
----
-
 **[Mega-rare Simpsons pattern emerging...](https://www.reddit.com/r/Bitcoin/comments/1pfzi8q/megarare_simpsons_pattern_emerging/)**
 
 Burnsish?
@@ -113,7 +113,7 @@ Burnsish?
 
 **[This is just Me and I know](https://www.reddit.com/r/Bitcoin/comments/1pgd3wt/this_is_just_me_and_i_know/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -181,41 +181,39 @@ TheStreet • 1d ago
 
 ---
 
-**[Bitcoin Price Could Hit $170K — But Strategy ‘Resilience’ Is Vital: JPMorgan](https://finance.yahoo.com/news/bitcoin-price-could-hit-170k-110608523.html)**
-
-JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
-
-Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin Preis (BTC) Ausblick: JPM bleibt bei $170K Ziel](https://www.coindesk.com/markets/2025/12/04/jpmorgan-retains-gold-linked-usd170k-bitcoin-target-despite-recent-plunge)**
-
-The bank’s volatility-adjusted bitcoin-to-gold model still points to a theoretical price around $170K over the next six to twelve months.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin Is Set for First Yearly Split From Stocks in Decade](https://finance.yahoo.com/news/bitcoin-set-first-yearly-split-141041017.html)**
-
-The digital asset has rarely deviated so cleanly from other risk assets even during past crypto winters.  Earlier this year, Bitcoin notched a record high above $126,000.  Bitcoin appears to be ending the week on a down note, dropping as much as 4.4% to $88,135 on Friday.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
 Investor's Business Daily • 15h ago
 
 ---
 
-**[With Bitcoin Falling, Is Strategy Stock in Trouble?](https://www.nasdaq.com/articles/bitcoin-falling-strategy-stock-trouble)**
+**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
 
-Key PointsStrategy does its business by issuing debt or equity to buy Bitcoin.
+Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
 
-Nasdaq • 16h ago
+Futurism • 20h ago
+
+---
+
+**[Bitcoin Price (BTC) Analysis: Crypto Winter Parallels](https://www.coindesk.com/markets/2025/12/05/bitcoin-market-echoes-early-2022-as-onchain-stress-mounts-glassnode)**
+
+Rising bitcoin supply in loss, weakening spot demand and cautious derivatives positioning were among the issues raised by the data provider in its weekly newsletter.
+
+CoinDesk • 2d ago
+
+---
+
+**[Bring Bitcoin Mining into Your Office Without Noise, Heat, or Hassle](https://www.entrepreneur.com/money-finance/bring-bitcoin-mining-into-your-office-without-noise-heat/500383)**
+
+Entrepreneur • 21h ago
+
+---
+
+**[Professor Coin: When Bitcoin Sneezes—How Crypto and Equities Caught the Same Cold](https://decrypt.co/351063/professor-coin-when-bitcoin-sneezes-how-crypto-and-equities-caught-the-same-cold)**
+
+Academic literature finds that during periods of economic stress, correlations and spillovers between cryptocurrencies and equities spike.
+
+Decrypt • 23h ago
 
 ---
 
@@ -249,7 +247,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
-⬆️ 3 • 💬 0 • 12h ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 3 • 💬 0 • 13h ago • [GitHub](https://github.com/kladskull/xEroS)
 
 ---
 
@@ -265,7 +263,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Track the next Bitcoin halving event with live countdown and real-time block updates
 
-⬆️ 2 • 💬 0 • 5d ago • [bitcoinhalvingcountdown.com](https://bitcoinhalvingcountdown.com)
+⬆️ 2 • 💬 0 • 6d ago • [bitcoinhalvingcountdown.com](https://bitcoinhalvingcountdown.com)
 
 ---
 
@@ -299,7 +297,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 2K • 💬 383 • ⏱️ 11:32 • 16h ago
+👁️ 50K • 👍 2K • 💬 383 • ⏱️ 11:32 • 17h ago
 
 ---
 
@@ -319,7 +317,7 @@ I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is W
 
 📺 Digital Asset News
 
-👁️ 19K • 👍 1K • 💬 129 • ⏱️ 21:52 • 19h ago
+👁️ 19K • 👍 1K • 💬 129 • ⏱️ 21:52 • 20h ago
 
 ---
 
@@ -329,7 +327,7 @@ Bitcoin volatility is collapsing, institutions are flooding in, and the entire m
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 785 • 💬 159 • ⏱️ 40:36 • 20h ago
+👁️ 19K • 👍 785 • 💬 159 • ⏱️ 40:36 • 21h ago
 
 ---
 

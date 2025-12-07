@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T13:59:35.752600+00:00'
+updated: '2025-12-07T14:26:39.503399+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 13:59 UTC  
+**Last Updated:** December 07, 2025 at 14:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-2h ago
+3h ago
+
+---
+
+**[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
+
+43m ago
 
 ---
 
@@ -52,13 +58,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/yourusername/BipedalWalker-PPO-STM32 Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
 
-6h ago
-
----
-
-**[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
-
-16m ago
+7h ago
 
 ---
 
@@ -74,7 +74,7 @@ Zhongqing CEO Receives the Challenge of T800
 
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
 
-18h ago
+19h ago
 
 ---
 
@@ -92,17 +92,17 @@ Hi all, I have a need for the above converter to be installed within a well-cool
 
 ---
 
-**[Sharing sensor data between multiple devices on the same network](https://www.reddit.com/r/robotics/comments/1pgdpyl/sharing_sensor_data_between_multiple_devices_on/)**
+**[Conferencia sobre robótica, proyecto, futuro, estética y ética](https://www.reddit.com/r/robotics/comments/1pgbsg7/conferencia_sobre_robótica_proyecto_futuro/)**
 
-5h ago
+Conferencia realizada en la Sorbonne Paris, viernes 05 de diciembre. Se trató sobre los proyectos de Hobbie y concurso hasta la industria, proyectos de grande escala, también se tocó el tema del futuro, hasta donde iremos? La estética en la robótica y la ética en la robótica, de una manera genérica se todo también la tecnología en sí. Muchas gracias a Jorge Linares por la invitación. Jorge Abraham Salgado
+
+7h ago
 
 ---
 
-**[A Deep Dive into Actuators for Humanoid Robotics](https://www.reddit.com/r/robotics/comments/1pfxwqs/a_deep_dive_into_actuators_for_humanoid_robotics/)**
+**[Sharing sensor data between multiple devices on the same network](https://www.reddit.com/r/robotics/comments/1pgdpyl/sharing_sensor_data_between_multiple_devices_on/)**
 
-https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
-
-18h ago
+5h ago
 
 ---
 
@@ -118,11 +118,11 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://www.barchart.com/story/news/36461441/3-robotics-stocks-to-buy-now-ahead-of-a-white-house-game-changer)**
+**[Using the Power of Robotics to uncover the secrets of Pompeii](https://www.cnn.com/2025/12/07/world/video/pompeii-robot-fresco-kinkade-pkg-120712aseg2-cnni-world-fast)**
 
-The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
+Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
 
-Barchart.com • 2d ago
+CNN • 1h ago
 
 ---
 
@@ -144,7 +144,7 @@ ETF Trends • 2d ago
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-South China Morning Post • 12h ago
+South China Morning Post • 13h ago
 
 ---
 
@@ -174,15 +174,15 @@ NVIDIA Blog • 2d ago
 
 China debuts AI traffic robot Hangxing No. 1, directing vehicles, spotting violations, and issuing polite voice warnings at busy intersections.
 
-Interesting Engineering • 19h ago
+Interesting Engineering • 20h ago
 
 ---
 
-**[Hyundai’s ‘mobile eccentric droid’ could be about to deliver your goods](https://www.wallpaper.com/tech/hyundai-mobile-eccentric-droid)**
+**[Uncommon Knowledge: The New Birthrate Math—Tax Condoms, Buy Robots](https://www.newsweek.com/birthrate-tax-condoms-robots-musk-china-11161275)**
 
-The MobED is a new product from Hyundai’s Robotics LAB, pitched at last-mile delivery and industrial applications
+Elon Musk sees a future in which most people don't need to work. Beijing betting on it now.
 
-wallpaper.com • 2h ago
+Newsweek • 2d ago
 
 ---
 
@@ -196,7 +196,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 25K • 👍 882 • 💬 71 • ⏱️ 24:47 • 21h ago
+👁️ 25K • 👍 882 • 💬 71 • ⏱️ 24:47 • 22h ago
 
 ---
 
@@ -216,7 +216,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 30K • 👍 230 • 💬 61 • ⏱️ 1:03 • 21h ago
+👁️ 30K • 👍 230 • 💬 61 • ⏱️ 1:03 • 22h ago
 
 ---
 
@@ -226,7 +226,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 3K • 👍 26 • ⏱️ 0:25 • 4h ago
+👁️ 3K • 👍 26 • ⏱️ 0:25 • 5h ago
 
 ---
 
@@ -256,7 +256,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 70K • 👍 4K • 💬 509 • ⏱️ 19:33 • 22h ago
+👁️ 70K • 👍 4K • 💬 509 • ⏱️ 19:33 • 23h ago
 
 ---
 
