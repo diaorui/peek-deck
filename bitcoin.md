@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T09:30:34.968306+00:00'
+updated: '2025-12-07T09:43:36.938034+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - cryptocurrency
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 09:30 UTC  
+**Last Updated:** December 07, 2025 at 09:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +3.7%  
-**30d:** -12.7%  
-**90d:** -19.8%  
-**1y:** -11.6%  
+**24h:** -0.4%  
+**7d:** +3.3%  
+**30d:** -13.0%  
+**90d:** -20.1%  
+**1y:** -11.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1783.57B
+**Market Cap:** $1781.30B
 Rank #1
 
 **Circulating Supply:** 19,958,665 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.1%
+-29.2%
 
 **All-Time Low:** $67.81
-+131675.5%
++131460.2%
 
 ---
 
@@ -79,7 +79,13 @@ Rank #1
 
 **[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
 
-5h ago
+6h ago
+
+---
+
+**[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
+
+2h ago
 
 ---
 
@@ -91,9 +97,9 @@ Burnsish?
 
 ---
 
-**[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
+**[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
 
-1h ago
+5h ago
 
 ---
 
@@ -103,15 +109,15 @@ Burnsish?
 
 ---
 
-**[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
-
-4h ago
-
----
-
 **[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
 
 1d ago
+
+---
+
+**[This is just Me and I know](https://www.reddit.com/r/Bitcoin/comments/1pgd3wt/this_is_just_me_and_i_know/)**
+
+1h ago
 
 ---
 
@@ -123,21 +129,15 @@ it's not mine. Credits for him. "24-05-2025 - Btc Pump It Up - Have You Ever See
 
 ---
 
-**[This is just Me and I know](https://www.reddit.com/r/Bitcoin/comments/1pgd3wt/this_is_just_me_and_i_know/)**
-
-1h ago
-
----
-
 **[13 years ago Bitcoin was $13.36 and we were still playing PS2 💔](https://www.reddit.com/r/Bitcoin/comments/1pfp765/13_years_ago_bitcoin_was_1336_and_we_were_still/)**
 
 20h ago
 
 ---
 
-**[They are always not ready](https://www.reddit.com/r/Bitcoin/comments/1pfvd6m/they_are_always_not_ready/)**
+**[Everyone knows this is a Major Correction, No cause for Alarm](https://www.reddit.com/r/Bitcoin/comments/1pgc6zr/everyone_knows_this_is_a_major_correction_no/)**
 
-15h ago
+2h ago
 
 ---
 
@@ -161,6 +161,14 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Bitcoin Faces Japan Rate Hike: Debunking The Yen Carry Trade Unwind Alarms, Real Risk Elsewhere](https://finance.yahoo.com/news/bitcoin-faces-japan-rate-hike-053627549.html)**
+
+Speculators maintain net bullish positions in the yen, limiting scope for sudden JPY strength and mass carry unwind.
+
+Yahoo Finance • 4h ago
+
+---
+
 **[Is American Bitcoin Attractively Priced After a 65% Drop Amid Crypto Volatility?](https://finance.yahoo.com/news/american-bitcoin-attractively-priced-65-050556502.html)**
 
 Wondering if American Bitcoin at around $2.23 is a bargain or a value trap? You are not alone. This article is here to unpack what the market is really pricing in. Despite all the hype around crypto infrastructure, the stock has been hammered recently, dropping about 47.4% over the last week, 51.9% over the last month, and 65.2% year to date. This has clearly reset expectations and risk appetite. Those sharp moves have come alongside broader volatility in Bitcoin related names, shifting...
@@ -175,9 +183,11 @@ The Economist • 2d ago
 
 ---
 
-**[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
+**[With Bitcoin Falling, Is Strategy Stock in Trouble?](https://finance.yahoo.com/news/bitcoin-falling-strategy-stock-trouble-210500007.html)**
 
-Investor's Business Daily • 11h ago
+It would be pretty miraculous if Strategy's stock were doing well right now.
+
+Yahoo Finance • 12h ago
 
 ---
 
@@ -206,14 +216,6 @@ TheStreet • 1d ago
 **[Ripple CEO makes bold new Bitcoin prediction](https://www.thestreet.com/crypto/trading/ripple-ceo-predicts-bitcoin-to-hit-180k)**
 
 TheStreet • 1d ago
-
----
-
-**[Prediction: Bitcoin Will Hit $130,000 in 2026](https://www.nasdaq.com/articles/prediction-bitcoin-will-hit-130000-2026)**
-
-Key PointsBitcoin's prior all-time high was more than $126,000.
-
-Nasdaq • 5h ago
 
 ---
 
@@ -317,7 +319,7 @@ We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 394 • 💬 45 • ⏱️ 5:59 • 16h ago
+👁️ 7K • 👍 394 • 💬 45 • ⏱️ 5:59 • 17h ago
 
 ---
 
