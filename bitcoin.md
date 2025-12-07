@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T18:57:12.709163+00:00'
+updated: '2025-12-07T19:20:05.900657+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 18:57 UTC  
+**Last Updated:** December 07, 2025 at 19:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.6%  
+**24h:** +2.3%  
 **7d:** +6.2%  
 **30d:** -10.6%  
 **90d:** -17.9%  
-**1y:** -9.5%  
+**1y:** -9.4%  
 
 ---
 
@@ -123,13 +123,13 @@ Burnsish?
 
 Just doing my part to spread the word. If you're ever in NC and see one of these floating around, Matt was here.
 
-1h ago
+2h ago
 
 ---
 
 **[What's holding us back?](https://www.reddit.com/r/Bitcoin/comments/1pge5ht/whats_holding_us_back/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -149,14 +149,6 @@ Just doing my part to spread the word. If you're ever in NC and see one of these
 
 ## Google News: "bitcoin"
 
-**[Trump Administration Overlooks Bitcoin, Blockchain in National Security Strategy](https://www.coindesk.com/opinion/2025/12/07/trump-s-national-security-strategy-ignores-bitcoin-and-blockchain)**
-
-President Trump's latest national security strategy omits digital assets, focusing instead on AI, biotech, and quantum computing.
-
-CoinDesk • 3h ago
-
----
-
 **[Bitcoin Is Starting to Look Like a Digital Tulip](https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money)**
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
@@ -165,11 +157,27 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
+
+Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
+
+Futurism • 1d ago
+
+---
+
 **[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
 
 Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
 
 Decrypt • 2h ago
+
+---
+
+**[BPCE to Offer Bitcoin and Major Tokens](https://www.fintechweekly.com/magazine/articles/bpce-customers-buy-bitcoin-major-tokens-banking-apps-france)**
+
+France’s second-largest banking group BPCE will begin offering Bitcoin and major crypto purchases to customers starting Monday, with a phased rollout across ...
+
+FinTech Weekly • 1h ago
 
 ---
 
@@ -187,17 +195,17 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
+
+TheStreet • 1d ago
+
+---
+
 **[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
 
 In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
 
 CNBC • 3d ago
-
----
-
-**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
-
-TheStreet • 1d ago
 
 ---
 
@@ -207,19 +215,11 @@ Investor's Business Daily • 2h ago
 
 ---
 
-**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
+**[Trump Administration Overlooks Bitcoin, Blockchain in National Security Strategy](https://www.coindesk.com/opinion/2025/12/07/trump-s-national-security-strategy-ignores-bitcoin-and-blockchain)**
 
-Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
+President Trump's latest national security strategy omits digital assets, focusing instead on AI, biotech, and quantum computing.
 
-Futurism • 1d ago
-
----
-
-**[‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles](https://www.forbes.com/sites/digital-assets/2025/12/07/next-step-is-coming-sec-chair-issues-huge-crypto-prediction-as-the-bitcoin-price-struggles/)**
-
-The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
-
-Forbes • 5h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -253,7 +253,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
-⬆️ 3 • 💬 0 • 17h ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 3 • 💬 0 • 18h ago • [GitHub](https://github.com/kladskull/xEroS)
 
 ---
 
@@ -267,7 +267,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 0 • 3h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 0 • 4h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -359,7 +359,7 @@ Crypto is undergoing its biggest transformation ever — Wall Street now control
 
 📺 Redhawk Media Group
 
-👁️ 733 • 👍 3 • ⏱️ 0:42 • 4h ago
+👁️ 733 • 👍 3 • ⏱️ 0:42 • 5h ago
 
 ---
 

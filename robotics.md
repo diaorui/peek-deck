@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T18:57:12.719874+00:00'
+updated: '2025-12-07T19:20:05.910021+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 18:57 UTC  
+**Last Updated:** December 07, 2025 at 19:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-7h ago
+8h ago
 
 ---
 
@@ -50,7 +50,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 An old picture. The progress is in the coding, and testing, and tuning of the hardware.
 
-3h ago
+4h ago
 
 ---
 
@@ -66,7 +66,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/adityabangde/BipedalWalker-PPO-STM32.git Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
 
-11h ago
+12h ago
 
 ---
 
@@ -74,7 +74,7 @@ I wanted to see how far we can push low-power hardware, so I trained a PPO model
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
-29m ago
+52m ago
 
 ---
 
@@ -82,7 +82,7 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ic5I27NNIv0?si=ii4fyccs01D9m8qa) • 1h ago
+🔗 [youtu.be](https://youtu.be/ic5I27NNIv0?si=ii4fyccs01D9m8qa) • 2h ago
 
 ---
 
@@ -98,7 +98,7 @@ Zhongqing CEO Receives the Challenge of T800
 
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
 
-23h ago
+1d ago
 
 ---
 
@@ -164,7 +164,7 @@ CNN • 6h ago
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-South China Morning Post • 17h ago
+South China Morning Post • 18h ago
 
 ---
 
@@ -186,7 +186,7 @@ Investor's Business Daily • 2d ago
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
-CNET • 5h ago
+CNET • 6h ago
 
 ---
 
@@ -220,7 +220,7 @@ Midea Group, one of the world's largest home appliance manufacturers, just unvei
 
 📺 Kalil 4.0
 
-👁️ 519 • 👍 17 • 💬 1 • ⏱️ 0:27 • 1h ago
+👁️ 519 • 👍 17 • 💬 1 • ⏱️ 0:27 • 2h ago
 
 ---
 
