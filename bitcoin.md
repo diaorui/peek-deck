@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T06:49:06.474825+00:00'
+updated: '2025-12-07T07:00:03.451418+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - cryptocurrency
 - news
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 06:49 UTC  
+**Last Updated:** December 07, 2025 at 07:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +3.9%  
-**30d:** -12.5%  
-**90d:** -19.7%  
-**1y:** -11.4%  
+**24h:** +0.1%  
+**7d:** +4.1%  
+**30d:** -12.4%  
+**90d:** -19.6%  
+**1y:** -11.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1787.66B
+**Market Cap:** $1788.26B
 Rank #1
 
-**Circulating Supply:** 19,958,581 BTC
+**Circulating Supply:** 19,958,665 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
 -28.9%
 
 **All-Time Low:** $67.81
-+132123.9%
++132122.4%
 
 ---
 
@@ -125,7 +125,7 @@ it's not mine. Credits for him. "24-05-2025 - Btc Pump It Up - Have You Ever See
 
 **[They are always not ready](https://www.reddit.com/r/Bitcoin/comments/1pfvd6m/they_are_always_not_ready/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -155,44 +155,6 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
-
-Investor's Business Daily • 8h ago
-
----
-
-**[Prediction: Bitcoin Will Hit $130,000 in 2026](https://finance.yahoo.com/news/prediction-bitcoin-hit-130-000-035000928.html)**
-
-Macroeconomic turbulence might work in the coin's favor.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Central banks rush to hoard gold as bitcoin joins reserve race](https://www.nationthailand.com/business/trading-investment/40059342)**
-
-Central banks step up gold buying to a 2025 high while the US and others explore bitcoin as a new strategic reserve alongside bullion.
-
-Nation Thailand • 2h ago
-
----
-
-**[Is American Bitcoin Attractively Priced After a 65% Drop Amid Crypto Volatility?](https://finance.yahoo.com/news/american-bitcoin-attractively-priced-65-050556502.html)**
-
-Wondering if American Bitcoin at around $2.23 is a bargain or a value trap? You are not alone. This article is here to unpack what the market is really pricing in. Despite all the hype around crypto infrastructure, the stock has been hammered recently, dropping about 47.4% over the last week, 51.9% over the last month, and 65.2% year to date. This has clearly reset expectations and risk appetite. Those sharp moves have come alongside broader volatility in Bitcoin related names, shifting...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
-
-In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
-
-CNBC • 2d ago
-
----
-
 **[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
 
 JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
@@ -215,11 +177,49 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Professor Coin: When Bitcoin Sneezes—How Crypto and Equities Caught the Same Cold](https://decrypt.co/351063/professor-coin-when-bitcoin-sneezes-how-crypto-and-equities-caught-the-same-cold)**
+**[Prediction: Bitcoin Will Hit $130,000 in 2026](https://finance.yahoo.com/news/prediction-bitcoin-hit-130-000-035000928.html)**
 
-Academic literature finds that during periods of economic stress, correlations and spillovers between cryptocurrencies and equities spike.
+Macroeconomic turbulence might work in the coin's favor.
 
-Decrypt • 15h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Central banks rush to hoard gold as bitcoin joins reserve race](https://www.nationthailand.com/business/trading-investment/40059342)**
+
+Central banks step up gold buying to a 2025 high while the US and others explore bitcoin as a new strategic reserve alongside bullion.
+
+Nation Thailand • 2h ago
+
+---
+
+**[Is American Bitcoin Attractively Priced After a 65% Drop Amid Crypto Volatility?](https://finance.yahoo.com/news/american-bitcoin-attractively-priced-65-050556502.html)**
+
+Wondering if American Bitcoin at around $2.23 is a bargain or a value trap? You are not alone. This article is here to unpack what the market is really pricing in. Despite all the hype around crypto infrastructure, the stock has been hammered recently, dropping about 47.4% over the last week, 51.9% over the last month, and 65.2% year to date. This has clearly reset expectations and risk appetite. Those sharp moves have come alongside broader volatility in Bitcoin related names, shifting...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
+
+Investor's Business Daily • 8h ago
+
+---
+
+**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
+
+In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
+
+CNBC • 2d ago
+
+---
+
+**[Bitcoin (BTC) Price News: Debunking The Yen Carry Trade Unwind Alarms](https://www.coindesk.com/markets/2025/12/07/bitcoin-faces-japan-rate-hike-yen-carry-trade-unwind-fears-miss-the-mark-real-risk-lie-elsewhere)**
+
+Speculators maintain net bullish positions in the yen, limiting scope for sudden JPY strength and mass carry unwind.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -275,7 +275,7 @@ Track the next Bitcoin halving event with live countdown and real-time block upd
 
 **[Market Volatility Underscores Epic Buildup of Global Risk](https://news.ycombinator.com/item?id=46104355)**
 
-⬆️ 2 • 💬 3 • 5d ago • [nytimes.com](https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html)
+⬆️ 2 • 💬 3 • 6d ago • [nytimes.com](https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html)
 
 ---
 
@@ -303,7 +303,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 241 • ⏱️ 11:32 • 9h ago
+👁️ 35K • 👍 2K • 💬 259 • ⏱️ 11:32 • 9h ago
 
 ---
 
@@ -313,27 +313,7 @@ I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is W
 
 📺 Digital Asset News
 
-👁️ 15K • 👍 967 • 💬 100 • ⏱️ 21:52 • 12h ago
-
----
-
-**[Banks Declare WAR on Bitcoin Users ⚠️ Jack Mallers Debanked — Your Money Isn’t Safe](https://www.youtube.com/watch?v=Y2p1yq8CYik)**
-
-Tangem ▻ Black Friday Deals!!* Special Discount: *30% Off + $10 in FREE BTC!* ⚡   *Limited Time!* — before Dec 9 2025!
-
-📺 Crypto Casey
-
-👁️ 35K • 👍 3K • 💬 349 • ⏱️ 12:50 • 17h ago
-
----
-
-**[BITCOIN BEAR MARKET IS DEAD! Gold&#39;s Secret Signal Confirms BULL RUN!](https://www.youtube.com/watch?v=HkCXQqkE1BE)**
-
-We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow grind up for a year, finally a year long mega bull ...
-
-📺 Discover Crypto
-
-👁️ 7K • 👍 376 • 💬 32 • ⏱️ 5:59 • 14h ago
+👁️ 16K • 👍 1K • 💬 106 • ⏱️ 21:52 • 12h ago
 
 ---
 
@@ -343,7 +323,7 @@ Bitcoin volatility is collapsing, institutions are flooding in, and the entire m
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 649 • 💬 138 • ⏱️ 40:36 • 13h ago
+👁️ 16K • 👍 691 • 💬 145 • ⏱️ 40:36 • 13h ago
 
 ---
 
@@ -353,27 +333,37 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 38K • 👍 3K • 💬 405 • ⏱️ 10:23 • 1d ago
+👁️ 39K • 👍 3K • 💬 409 • ⏱️ 10:23 • 1d ago
 
 ---
 
-**[Strategy CEO: Still able to raise money in a bitcoin down cycle](https://www.youtube.com/watch?v=JWWr6s6ooVs)**
+**[BITCOIN BEAR MARKET IS DEAD! Gold&#39;s Secret Signal Confirms BULL RUN!](https://www.youtube.com/watch?v=HkCXQqkE1BE)**
 
-Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bitcoin, the long-term thesis for Strategy and much ...
+We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow grind up for a year, finally a year long mega bull ...
 
-📺 CNBC Television
+📺 Discover Crypto
 
-👁️ 13K • 👍 128 • 💬 123 • ⏱️ 4:01 • 1d ago
+👁️ 7K • 👍 387 • 💬 43 • ⏱️ 5:59 • 14h ago
 
 ---
 
-**[Bitcoin: A Different Kind of Bear Market?](https://www.youtube.com/watch?v=5txYvyuM4uE)**
+**[Bitcoin and These Crypto Are Preparing For Something HUGE](https://www.youtube.com/watch?v=jsAIPevdhMQ)**
 
-Is Bitcoin in a different type of bear market? Let's discuss what a bear market may look like coming from a non-euphoric top.
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
 
-📺 Benjamin Cowen
+📺 CryptosRus Extra
 
-👁️ 114K • 👍 7K • 💬 459 • ⏱️ 15:38 • 1d ago
+👁️ 11K • 👍 558 • 💬 243 • ⏱️ 9:08 • 1d ago
+
+---
+
+**[Banks Declare WAR on Bitcoin Users ⚠️ Jack Mallers Debanked — Your Money Isn’t Safe](https://www.youtube.com/watch?v=Y2p1yq8CYik)**
+
+Tangem ▻ Black Friday Deals!!* Special Discount: *30% Off + $10 in FREE BTC!* ⚡   *Limited Time!* — before Dec 9 2025!
+
+📺 Crypto Casey
+
+👁️ 37K • 👍 3K • 💬 360 • ⏱️ 12:50 • 17h ago
 
 ---
 
@@ -383,17 +373,27 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Crypto Cam
 
-👁️ 26K • 👍 909 • 💬 102 • ⏱️ 0:36 • 1d ago
+👁️ 27K • 👍 918 • 💬 101 • ⏱️ 0:36 • 1d ago
 
 ---
 
-**[Bitcoin &amp; AI Just Hit A MAJOR Inflection Point](https://www.youtube.com/watch?v=FpQ7qHwOp5U)**
+**[Bitcoin: A Different Kind of Bear Market?](https://www.youtube.com/watch?v=5txYvyuM4uE)**
 
-Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall Street experience, and he also writes a Substack ...
+Is Bitcoin in a different type of bear market? Let's discuss what a bear market may look like coming from a non-euphoric top.
 
-📺 Anthony Pompliano
+📺 Benjamin Cowen
 
-👁️ 44K • 👍 2K • 💬 65 • ⏱️ 48:57 • 16h ago
+👁️ 116K • 👍 7K • 💬 461 • ⏱️ 15:38 • 1d ago
+
+---
+
+**[Strategy CEO: Still able to raise money in a bitcoin down cycle](https://www.youtube.com/watch?v=JWWr6s6ooVs)**
+
+Phong Le, Strategy CEO, joins 'Power Lunch' to discuss the company's ties to bitcoin, the long-term thesis for Strategy and much ...
+
+📺 CNBC Television
+
+👁️ 14K • 👍 132 • 💬 123 • ⏱️ 4:01 • 1d ago
 
 ---
 

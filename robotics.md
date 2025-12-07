@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T06:49:06.484113+00:00'
+updated: '2025-12-07T07:00:03.460629+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 06:49 UTC  
+**Last Updated:** December 07, 2025 at 07:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
-19h ago
+20h ago
 
 ---
 
@@ -58,7 +58,7 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 **[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -67,6 +67,14 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
 11h ago
+
+---
+
+**[Conferencia sobre robótica, proyecto, futuro, estética y ética](https://www.reddit.com/r/robotics/comments/1pgbsg7/conferencia_sobre_robótica_proyecto_futuro/)**
+
+Conferencia realizada en la Sorbonne Paris, viernes 05 de diciembre. Se trató sobre los proyectos de Hobbie y concurso hasta la industria, proyectos de grande escala, también se tocó el tema del futuro, hasta donde iremos? La estética en la robótica y la ética en la robótica, de una manera genérica se todo también la tecnología en sí. Muchas gracias a Jorge Linares por la invitación. Jorge Abraham Salgado
+
+11m ago
 
 ---
 
@@ -100,14 +108,6 @@ https://youtu.be/UAlm8Z4mfpU
 
 ---
 
-**[Knee assist exoskeleton motor](https://www.reddit.com/r/robotics/comments/1pfl5ee/knee_assist_exoskeleton_motor/)**
-
-Im working on an electric knee assist exoskeleton and i have a 450 rpm 24V 15kg*cm³ motor and i was wondering if it would be sufficient to show a noticeable difference for an average sized person when using the exoskeleton or will I need to use two motors.
-
-21h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -136,14 +136,6 @@ MIT News • 1d ago
 
 ---
 
-**[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
-
-Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
-
-South China Morning Post • 5h ago
-
----
-
 **[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://finance.yahoo.com/news/3-robotics-stocks-buy-now-185157525.html)**
 
 The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
@@ -152,11 +144,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
+**[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
 
-Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
+Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-MLive.com • 2d ago
+South China Morning Post • 5h ago
 
 ---
 
@@ -190,6 +182,14 @@ Forbes • 1d ago
 
 ---
 
+**[Uncommon Knowledge: The New Birthrate Math—Tax Condoms, Buy Robots](https://www.newsweek.com/birthrate-tax-condoms-robots-musk-china-11161275)**
+
+Elon Musk sees a future in which most people don't need to work. Beijing betting on it now.
+
+Newsweek • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,7 +200,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 18K • 👍 749 • 💬 60 • ⏱️ 24:47 • 14h ago
+👁️ 20K • 👍 792 • 💬 63 • ⏱️ 24:47 • 14h ago
 
 ---
 
@@ -210,7 +210,17 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 10K • 👍 131 • 💬 32 • ⏱️ 1:03 • 14h ago
+👁️ 16K • 👍 164 • 💬 40 • ⏱️ 1:03 • 14h ago
+
+---
+
+**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
+
+After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
+
+📺 Kalil 4.0
+
+👁️ 903 • 👍 47 • 💬 8 • ⏱️ 0:59 • 1h ago
 
 ---
 
@@ -220,7 +230,7 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 15K • 👍 322 • 💬 162 • ⏱️ 4:05 • 2d ago
+👁️ 15K • 👍 328 • 💬 162 • ⏱️ 4:05 • 2d ago
 
 ---
 
@@ -230,7 +240,17 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 70K • 👍 559 • 💬 270 • ⏱️ 2:30 • 3d ago
+👁️ 71K • 👍 562 • 💬 270 • ⏱️ 2:30 • 3d ago
+
+---
+
+**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
+
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+
+📺 Julia McCoy
+
+👁️ 63K • 👍 3K • 💬 451 • ⏱️ 19:33 • 15h ago
 
 ---
 
@@ -240,37 +260,7 @@ Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G
 
 📺 Unitree Robotics
 
-👁️ 1.4M • 👍 1K • 💬 300 • ⏱️ 1:06 • 3d ago
-
----
-
-**[AI Spider Quadruped Robot Wall-Climbing &amp; Web-Swing Demo at 2025  Robotic Expo in Silicon Valley](https://www.youtube.com/watch?v=EFOb_DZ1Wjk)**
-
-In 2025 Silicon Valley, a next-gen AI Spider Quadruped Robot reveals a completely new way of moving. It walks through the ...
-
-📺 AI Robot Lab
-
-👁️ 19K • 👍 202 • 💬 5 • ⏱️ 0:25 • 16h ago
-
----
-
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
-
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
-
-📺 AI Revolution
-
-👁️ 71K • 👍 2K • 💬 333 • ⏱️ 12:07 • 1d ago
-
----
-
-**[China&#39;s humanoid robotics leap: new T800 unveiled](https://www.youtube.com/watch?v=wbLl3aSOzoc)**
-
-For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-new-T800-unveiled-1INHjYVbHGM/p.html ...
-
-📺 CGTN
-
-👁️ 102K • 💬 626 • ⏱️ 1:21 • 3d ago
+👁️ 1.5M • 👍 1K • 💬 299 • ⏱️ 1:06 • 3d ago
 
 ---
 
@@ -282,13 +272,23 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 ---
 
-**[This Isn&#39;t Your Typical Humanoid Robot](https://www.youtube.com/watch?v=NjwgtvVPy04)**
+**[BREAKING: Cyber and Robotics Warfare Revolutionized By IDF Innovation | TBN Israel](https://www.youtube.com/watch?v=rY0-o3-ve18)**
 
-Memo is a wheeled home robot from Sunday Robotics, a Mountain View startup founded by Stanford PhDs Tony Zhao and Cheng ...
+TBN Israel's Yair Pinto reports on the Israel-Hamas and regional war. From the hills of Har Adar to the frontlines of innovation, ...
 
-📺 Game of Tomorrow
+📺 TBN Israel
 
-👁️ 25K • 👍 1K • 💬 71 • ⏱️ 0:55 • 1d ago
+👁️ 61K • 👍 6K • 💬 509 • ⏱️ 20:52 • 16h ago
+
+---
+
+**[AI Spider Quadruped Robot Wall-Climbing &amp; Web-Swing Demo at 2025  Robotic Expo in Silicon Valley](https://www.youtube.com/watch?v=EFOb_DZ1Wjk)**
+
+In 2025 Silicon Valley, a next-gen AI Spider Quadruped Robot reveals a completely new way of moving. It walks through the ...
+
+📺 AI Robot Lab
+
+👁️ 21K • 👍 214 • 💬 5 • ⏱️ 0:25 • 16h ago
 
 ---
 

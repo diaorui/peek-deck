@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T06:49:06.466350+00:00'
+updated: '2025-12-07T07:00:03.443055+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- social
 - videos
+- news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 06:49 UTC  
+**Last Updated:** December 07, 2025 at 07:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -59,11 +59,19 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 ---
 
+**[How is the deterministic LLM work coming along?](https://www.reddit.com/r/artificial/comments/1pgbjp0/how_is_the_deterministic_llm_work_coming_along/)**
+
+I saw a paper/article on hacker news at one point about making LLMs where they did not use floating point gpus to do their calculations so you wouldn't get the non-deterministic problem (ask same question get diffrent response). How is that going? I work with RAG tech and it seems amazing but it also is sketch when a table is read incorrectly and values are off by a significant figure.
+
+26m ago
+
+---
+
 **[One-Minute Daily AI News 12/6/2025](https://www.reddit.com/r/artificial/comments/1pg9p61/oneminute_daily_ai_news_1262025/)**
 
 Meta strikes multiple AI deals with news publishers.[1] Elementary school students use AI to combat homelessness.[2] Accurate single-domain scaffolding of three nonoverlapping protein epitopes using deep learning.[3] Apple Researchers Release CLaRa: A Continuous Latent Reasoning Framework for Compression‑Native RAG with 16x–128x Semantic Document Compression.[4] Sources: [1] https://www.reuters.com/business/meta-strikes-multiple-ai-deals-with-news-publishers-axios-reports-2025-12-05/ [2] https://www.kxan.com/news/elementary-school-students-use-ai-to-combat-homelessness/ [3] https://www.nature.com/articles/s41589-025-02083-z [4] https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression%e2%80%91native-rag-with-16x-128x-semantic-document-compression/
 
-1h ago
+2h ago
 
 ---
 
@@ -107,14 +115,6 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 ---
 
-**[Could OpenAI’s financial future hinge on teens making deepfakes?](https://www.reddit.com/r/artificial/comments/1pg00rb/could_openais_financial_future_hinge_on_teens/)**
-
-If a new California ballot measure passes, it could block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO. To justify its massive valuation without Wall Street, OpenAI may lean even more heavily on engagement on its consumer-facing platforms, like Sora2. Instrumental and Ekō's recent research into how Sora2 enables harm shows why this could be a bad idea. For everybody.
-
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 9h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -127,9 +127,17 @@ The Guardian • 15h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqfST7MqrjT1-1kCNp0AJB2chWWnBLsuZ41v_3Ejwe93doILKt4qfbxt&gaa_ts=6935214a&gaa_sig=lkTrRtbIBOTo9AtfgIIHU6YcGJNT1AV6e-7auyM6UeMxXfCy2dEDA5XTrD1mM5iwm1saCWWyZl15qJnJnc-lpQ%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqeTHeXU-Gaqp0KbSx_cwV6B0AuvJlOtwlDjEHYOZmwYNcy713KwyBlU&gaa_ts=69352961&gaa_sig=Mykde2d6V4an7Befrd46Gap37t75V-DRepEhKP0wj5uv367qfQAiCVigM-9IQNeZTYvGRL1py-2b6BjkrlQuGg%3D%3D)**
 
 The Wall Street Journal • 13h ago
+
+---
+
+**[Creative workers on the affects of AI on their jobs](https://www.bbc.com/news/articles/c8e9627w156o)**
+
+How do an artist, a videographer, a musician and a copywriter feel about generative AI?
+
+BBC • 30m ago
 
 ---
 
@@ -173,7 +181,7 @@ The Economist • 2d ago
 
 The V-JEPA system uses ordinary videos to understand the physics of the real world.
 
-WIRED • 6h ago
+WIRED • 7h ago
 
 ---
 
@@ -185,14 +193,6 @@ Anthropic • 2d ago
 
 ---
 
-**[Meta acquiring AI wearable company Limitless](https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html)**
-
-Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
-
-CNBC • 1d ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -201,7 +201,7 @@ CNBC • 1d ago
 
 In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.
 
-⬆️ 692 • 💬 656 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
+⬆️ 693 • 💬 656 • 2d ago • [arXiv.org](https://arxiv.org/abs/2512.04047)
 
 ---
 
@@ -209,7 +209,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 546 • 💬 282 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 547 • 💬 282 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -225,7 +225,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 389 • 💬 216 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 391 • 💬 216 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -281,41 +281,33 @@ Wall Street lends billions to AI companies while using credit derivatives and so
 
 ## YouTube Videos: "ai"
 
-**[Can AI crack the process of aging? | BBC News](https://www.youtube.com/watch?v=yRDek-pGcwE)**
-
-The race to unlock the secret to a longer life is on - and two sisters from a Cambridge start-up might be closer than anyone else.
-
-📺 BBC News
-
-👁️ 19K • 👍 570 • 💬 211 • ⏱️ 8:08 • 21h ago
-
----
-
 **[An AI Expert Warning: 6 People Are (Quietly) Deciding Humanity’s Future! We Must Act Now!](https://www.youtube.com/watch?v=P7Y-fynYsgE)**
 
 AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments won't regulate, how AGI could replace humans ...
 
 📺 The Diary Of A CEO
 
-👁️ 870K • 👍 20K • 💬 4K • ⏱️ 2:04:06 • 2d ago
+👁️ 882K • 👍 20K • 💬 4K • ⏱️ 2:04:06 • 2d ago
 
 ---
 
-**[They Summoned Something That Can&#39;t Be Controlled: The AI Warning From 1904](https://www.youtube.com/watch?v=h6efTA8z1UI)**
+**[New Deepseek, new top AI video &amp; image models, Gemini 3 Deep Think, realtime TTS: AI NEWS](https://www.youtube.com/watch?v=L4nus0PWsCw)**
 
-Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the demon." Everyone laughed. Nobody's laughing ...
+INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, Live Avatar, Gemini 3 Deep Think, Mistral ...
 
-📺 End Times Productions
+📺 AI Search
 
-👁️ 115K • 👍 8K • 💬 2K • ⏱️ 34:02 • 2d ago
+👁️ 11K • 👍 906 • 💬 281 • ⏱️ 47:03 • 3h ago
 
 ---
 
-**[REAL VS A.I. COMPILATION 😂](https://www.youtube.com/watch?v=4fIDsqbkXco)**
+**[I Recreated Impossible AI Foods](https://www.youtube.com/watch?v=wJHRAXKdqZM)**
 
-📺 Bob Reese
+subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianBlack @zealous @KingSammelot ...
 
-👁️ 8.4M • 👍 244K • 💬 2K • ⏱️ 1:02 • 1d ago
+📺 yikes
+
+👁️ 131K • 👍 7K • 💬 958 • ⏱️ 21:06 • 14h ago
 
 ---
 
@@ -325,17 +317,25 @@ Connor Leahy discusses the motivations of AGI corporations, how modern AI is "gr
 
 📺 Future of Life Institute
 
-👁️ 33K • 👍 2K • 💬 598 • ⏱️ 15:40 • 2d ago
+👁️ 34K • 👍 2K • 💬 608 • ⏱️ 15:40 • 2d ago
 
 ---
 
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
+**[REAL VS A.I. COMPILATION 😂](https://www.youtube.com/watch?v=4fIDsqbkXco)**
 
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
+📺 Bob Reese
 
-📺 AI Revolution
+👁️ 8.8M • 👍 265K • 💬 2K • ⏱️ 1:02 • 1d ago
 
-👁️ 71K • 👍 2K • 💬 333 • ⏱️ 12:07 • 1d ago
+---
+
+**[They Summoned Something That Can&#39;t Be Controlled: The AI Warning From 1904](https://www.youtube.com/watch?v=h6efTA8z1UI)**
+
+Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the demon." Everyone laughed. Nobody's laughing ...
+
+📺 End Times Productions
+
+👁️ 118K • 👍 8K • 💬 2K • ⏱️ 34:02 • 2d ago
 
 ---
 
@@ -345,27 +345,27 @@ Sora 2 has officially entered absolute madness — and these are the funniest mo
 
 📺 YetiAF | AI Universe
 
-👁️ 17K • 👍 479 • 💬 55 • ⏱️ 16:01 • 1d ago
+👁️ 18K • 👍 488 • 💬 55 • ⏱️ 16:01 • 1d ago
 
 ---
 
-**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=6DIFQm4MXYI)**
+**[Gemini 4 — Google’s Biggest AI Upgrade Yet (Full Features Explained)](https://www.youtube.com/watch?v=WYK7iyOklf4)**
 
-Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Gemini 4 — and it might be their most powerful AI ...
 
-📺 Impossible AIs
+📺 BitBiasedAI
 
-👁️ 580K • 👍 2K • 💬 70 • ⏱️ 8:09 • 2d ago
+👁️ 14K • 👍 498 • 💬 19 • ⏱️ 11:49 • 10h ago
 
 ---
 
-**[The AI pressure cooker: OpenAI, Nvidia and Google all on the move](https://www.youtube.com/watch?v=BYnTk3l6sfs)**
+**[AI DOOMSDAY?: Joe Rogan challenges tech CEO](https://www.youtube.com/watch?v=5y5gTgEc9Vc)**
 
-From Capitol Hill to the back of an Uber in Dubai — this week showed just how much pressure the AI race is under. OpenAI's Sam ...
+Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial intelligence, including scenarios where AI resorts to ...
 
-📺 CNBC Television
+📺 Fox News Clips
 
-👁️ 28K • 👍 289 • 💬 34 • ⏱️ 22:41 • 1d ago
+👁️ 26K • 👍 472 • 💬 194 • ⏱️ 6:22 • 1d ago
 
 ---
 
@@ -375,7 +375,7 @@ OpenAI, Anthropic, and Google are all making amazing models, but their good ones
 
 📺 Theo - t3․gg
 
-👁️ 51K • 👍 2K • 💬 396 • ⏱️ 36:08 • 1d ago
+👁️ 53K • 👍 2K • 💬 402 • ⏱️ 36:08 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,207 • 4d ago
+⬇️ 169,515 • ❤️ 2,208 • 4d ago
 
 ---
 
@@ -427,7 +427,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 370 • 2d ago
+⬇️ 20,067 • ❤️ 374 • 2d ago
 
 ---
 
@@ -437,7 +437,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 258 • 4d ago
+⬇️ 0 • ❤️ 258 • 5d ago
 
 ---
 
@@ -449,7 +449,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,530 • ❤️ 352 • 4d ago
+⬇️ 2,530 • ❤️ 353 • 5d ago
 
 ---
 
@@ -523,7 +523,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 18 • 💬 2 • ⭐ 5,002 • 9d ago
+▲ 18 • 💬 2 • ⭐ 5,201 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -537,7 +537,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 30 • 💬 2 • ⭐ 350 • 5d ago
+▲ 30 • 💬 2 • ⭐ 453 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -549,7 +549,7 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 The paper introduces Reward Forcing, which enhances video generation by updating sink tokens with EMA-Sink and using Rewarded Distribution Matching Distillation to prioritize dynamic content.
 
-▲ 31 • 💬 3 • ⭐ 101 • 3d ago
+▲ 31 • 💬 3 • ⭐ 105 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04678) • [💻 code](https://github.com/JaydenLyh/Reward-Forcing) • [🔗 project](https://reward-forcing.github.io/)
 
@@ -601,7 +601,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 29 • 💬 2 • ⭐ 116 • 2d ago
+▲ 30 • 💬 2 • ⭐ 116 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
@@ -621,16 +621,15 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 ---
 
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+**[MinerU: An Open-Source Solution for Precise Document Content Extraction](https://huggingface.co/papers/2409.18839)**
 
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+*Bin Wang, Chao Xu, Xiaomeng Zhao et al. (18 authors)*
 
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
 
-▲ 136 • 💬 2 • ⭐ 49,966 • 2mo ago
+▲ 33 • 💬 4 • ⭐ 49,971 • 14mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+[🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
 
 ---
 
@@ -684,7 +683,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 918 • 🔱 112 • 18h ago
+⭐ 924 • 🔱 113 • 18h ago
 
 ---
 
@@ -694,7 +693,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 1h ago
+⭐ 826 • 🔱 43 • 30s ago
 
 ---
 
@@ -714,7 +713,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 805 • 🔱 55 • 6d ago
+⭐ 808 • 🔱 55 • 6d ago
 
 ---
 
@@ -724,7 +723,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 709 • 🔱 235 • 23h ago
+⭐ 714 • 🔱 237 • 23h ago
 
 ---
 
@@ -734,7 +733,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 514 • 🔱 42 • 3d ago
+⭐ 515 • 🔱 42 • 3d ago
 
 ---
 

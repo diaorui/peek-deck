@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T06:49:06.480872+00:00'
+updated: '2025-12-07T07:00:03.457413+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - cryptocurrency
 - news
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 06:49 UTC  
+**Last Updated:** December 07, 2025 at 07:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -46,13 +46,13 @@ Live Ethereum monitoring dashboard
 **7d:** +8.7%  
 **30d:** -10.5%  
 **90d:** -29.4%  
-**1y:** -24.1%  
+**1y:** -24.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $367.44B
+**Market Cap:** $367.74B
 Rank #2
 
 **Circulating Supply:** 120,695,408 ETH
@@ -62,25 +62,25 @@ No max supply
 -38.4%
 
 **All-Time Low:** $0.43
-+703511.5%
++703901.8%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion December 07, 2025](https://www.reddit.com/r/ethereum/comments/1pgazhx/daily_general_discussion_december_07_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+59m ago
+
+---
 
 **[Can someone explain what the brothers actually did to the blockchain? Article says they added a bunch of zeros.](https://www.reddit.com/r/ethereum/comments/1pft37m/can_someone_explain_what_the_brothers_actually/)**
 
 Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 million from Ethereum traders in a blindingly fast fraud.
 
 🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 14h ago
-
----
-
-**[Daily General Discussion December 07, 2025](https://www.reddit.com/r/ethereum/comments/1pgazhx/daily_general_discussion_december_07_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-48m ago
 
 ---
 
@@ -168,15 +168,15 @@ Yahoo Finance • 16h ago
 
 ---
 
-**[Ethereum treasury firm BitMine adds $150 million in ETH as DAT buying dries up](https://www.theblock.co/post/381302/bitmine-150-million-eth)**
-
-The Block • 2d ago
-
----
-
 **[BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target](https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target)**
 
 TipRanks • 1d ago
+
+---
+
+**[Ethereum treasury firm BitMine adds $150 million in ETH as DAT buying dries up](https://www.theblock.co/post/381302/bitmine-150-million-eth)**
+
+The Block • 2d ago
 
 ---
 
@@ -230,13 +230,13 @@ cheddar.com • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Tom Lee Has Gone Insane (ethereum).](https://www.youtube.com/watch?v=ufxKb5GmsSg)**
+**[IT’S RIGGED! Kevin O’Leary Warns ‘Buckle Up’ Bitcoin &amp; Ethereum Holders](https://www.youtube.com/watch?v=s3Exn-qdeno)**
 
-LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
+LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily ...
 
 📺 Altcoin Daily
 
-👁️ 102K • 👍 5K • 💬 502 • ⏱️ 11:16 • 2d ago
+👁️ 35K • 👍 2K • 💬 259 • ⏱️ 11:32 • 9h ago
 
 ---
 
@@ -246,7 +246,27 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 11K • 👍 706 • 💬 111 • ⏱️ 36:53 • 10h ago
+👁️ 13K • 👍 776 • 💬 135 • ⏱️ 36:53 • 10h ago
+
+---
+
+**[Tom Lee Has Gone Insane (ethereum).](https://www.youtube.com/watch?v=ufxKb5GmsSg)**
+
+LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
+
+📺 Altcoin Daily
+
+👁️ 103K • 👍 5K • 💬 505 • ⏱️ 11:16 • 2d ago
+
+---
+
+**[ETH Ethereum Indicators Suggest Massive PUMP Incoming](https://www.youtube.com/watch?v=kUvROUeb6ac)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 706 • 👍 47 • 💬 25 • ⏱️ 12:08 • 13h ago
 
 ---
 
@@ -256,17 +276,27 @@ While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka
 
 📺 Coin Bureau
 
-👁️ 46K • 👍 2K • 💬 147 • ⏱️ 17:37 • 2d ago
+👁️ 47K • 👍 2K • 💬 153 • ⏱️ 17:37 • 2d ago
 
 ---
 
-**[IT’S RIGGED! Kevin O’Leary Warns ‘Buckle Up’ Bitcoin &amp; Ethereum Holders](https://www.youtube.com/watch?v=s3Exn-qdeno)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=upL0gqEO3HQ)**
 
-LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Altcoin Daily
+📺 More Crypto Online
 
-👁️ 29K • 👍 2K • 💬 241 • ⏱️ 11:32 • 9h ago
+👁️ 3K • 👍 186 • 💬 10 • ⏱️ 5:03 • 13h ago
+
+---
+
+**[Tom Lee: The Crypto SUPERCYCLE Is Still Alive... &amp; Ethereum Is Going to LEAD!](https://www.youtube.com/watch?v=PtCcS9c-GP4)**
+
+Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why he believes the crypto supercycle is still ...
+
+📺 Binance
+
+👁️ 95K • 👍 3K • 💬 495 • ⏱️ 27:33 • 2d ago
 
 ---
 
@@ -280,53 +310,23 @@ The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=upL0gqEO3HQ)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 182 • 💬 9 • ⏱️ 5:03 • 13h ago
-
----
-
-**[Tom Lee: The Crypto SUPERCYCLE Is Still Alive... &amp; Ethereum Is Going to LEAD!](https://www.youtube.com/watch?v=PtCcS9c-GP4)**
-
-Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why he believes the crypto supercycle is still ...
-
-📺 Binance
-
-👁️ 94K • 👍 3K • 💬 495 • ⏱️ 27:33 • 2d ago
-
----
-
 **[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
 
 FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
 
 📺 Library Of Wealth
 
-👁️ 22K • 👍 507 • 💬 390 • ⏱️ 15:38 • 2d ago
+👁️ 23K • 👍 511 • 💬 390 • ⏱️ 15:38 • 2d ago
 
 ---
 
-**[CRYPTO ALPHA MEMECOINS ARE DONE! ](https://www.youtube.com/watch?v=5DBhFTv_Fvw)**
+**[BMNR Buys 97,000 ETH in 1 Week! Is This The Supercycle Signal?](https://www.youtube.com/watch?v=KqWeB4yCLv8)**
 
-SECRET CRYPTO 2026 ALPHA WHAT BIG MONEY IS DOING Support The O Show with Ref Links: ✨ Learn more about the ...
+Here are the optimized Video Description, Disclaimer, and Hashtags based on the new data regarding the 97000 ETH weekly ...
 
-📺 CryptoWendyO
+📺 CryptoStock Lab
 
-👁️ 4K • 👍 347 • 💬 7 • ⏱️ 8:01 • 12h ago
-
----
-
-**[ETH Ethereum Indicators Suggest Massive PUMP Incoming](https://www.youtube.com/watch?v=kUvROUeb6ac)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 615 • 👍 43 • 💬 25 • ⏱️ 12:08 • 13h ago
+👁️ 984 • 👍 30 • 💬 7 • ⏱️ 7:01 • 16h ago
 
 ---
 
