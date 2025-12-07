@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T04:49:16.869661+00:00'
+updated: '2025-12-07T05:00:01.273693+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 04:49 UTC  
+**Last Updated:** December 07, 2025 at 05:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
-17h ago
+18h ago
 
 ---
 
@@ -66,7 +66,7 @@ https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
 **[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -156,7 +156,7 @@ Yahoo Finance • 2d ago
 
 USPS Boise facility gets four robotic arms to help process 220,000 packages daily during holiday rush, allowing redeployment of workers to areas needing human touch.
 
-KTVB • 22h ago
+KTVB • 23h ago
 
 ---
 
@@ -165,14 +165,6 @@ KTVB • 22h ago
 Malaysia’s transport ministry said Wednesday that a private firm will resume a deep-sea hunt for Malaysia Airlines Flight 370 later this month, more than a decade after the jet vanished without a trace.
 
 CNN • 3d ago
-
----
-
-**[Olympus-backed robotics startup Swan EndoSurgical taps Stryker vet for CEO](https://www.fiercebiotech.com/medtech/olympus-backed-swan-endosurgical-names-stryker-vet-erik-todd-ceo)**
-
-Swan EndoSurgical, a gastrointestinal startup launched by Olympus and Revival Healthcare Capital earlier this year, has named former Stryker executive Erik Todd as its CEO. | Swan EndoSurgical, formed by Olympus and Revival Healthcare Capital this year, named former Stryker executive Erik Todd as CEO.
-
-Fierce Biotech • 3d ago
 
 ---
 
@@ -187,6 +179,14 @@ Investor's Business Daily • 2d ago
 Fred Moll, the cofounder of $200 billion Intuitive Surgical, has invested in some 15 companies building robots that could help make both complex and common surgeries more accessible to everyone.
 
 Forbes • 1d ago
+
+---
+
+**[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
+
+Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
+
+Seeking Alpha • 1d ago
 
 ---
 

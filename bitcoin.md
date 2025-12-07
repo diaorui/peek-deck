@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T04:49:16.860285+00:00'
+updated: '2025-12-07T05:00:01.264027+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- news
 - social
 - videos
-- news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 04:49 UTC  
+**Last Updated:** December 07, 2025 at 05:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,664.55
+### $89,530.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.1%  
-**7d:** +3.7%  
-**30d:** -12.7%  
-**90d:** -19.8%  
-**1y:** -11.6%  
+**24h:** +0.2%  
+**7d:** +4.0%  
+**30d:** -12.4%  
+**90d:** -19.6%  
+**1y:** -11.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1790.24B
+**Market Cap:** $1787.34B
 Rank #1
 
 **Circulating Supply:** 19,958,581 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-29.0%
 
 **All-Time Low:** $67.81
-+132135.7%
++131952.8%
 
 ---
 
@@ -77,17 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
+
+1h ago
+
+---
+
 **[Mega-rare Simpsons pattern emerging...](https://www.reddit.com/r/Bitcoin/comments/1pfzi8q/megarare_simpsons_pattern_emerging/)**
 
 Burnsish?
 
 8h ago
-
----
-
-**[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
-
-1h ago
 
 ---
 
@@ -111,7 +111,7 @@ Burnsish?
 
 **[They are always not ready](https://www.reddit.com/r/Bitcoin/comments/1pfvd6m/they_are_always_not_ready/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -167,29 +167,29 @@ Investor's Business Daily • 6h ago
 
 Macroeconomic turbulence might work in the coin's favor.
 
-Yahoo Finance • 59m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[BTC price: Bitcoin is seeing a trend that hasn't happened since 2014. Here's why crypto markets are so unusual right now](https://www.fastcompany.com/91455649/bitcoin-btc-price-crypto-market-splitting-off-stock-market-trend-hasnt-happened-since-2014-why-markets-are-unusual-right-now)**
+**[Bitcoin price today: slides to $90k ahead of PCE inflation, potential Fed cut](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-dips-to-92k-ahead-of-pce-inflation-potential-fed-cut-4392545)**
 
-Fast Company • 1d ago
-
----
-
-**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
-
-Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
-
-Decrypt • 2d ago
+Investing.com • 1d ago
 
 ---
 
-**[Bitcoin and Ethereum Prediction: Will BTC’s Liquidity Range and ETH’s Rising Open Interest Trigger the Next Market Shift?](https://finance.yahoo.com/news/bitcoin-ethereum-prediction-btc-liquidity-234312560.html)**
+**[Is Bitcoin About to Break Its Last Surviving Valuation Model?](https://www.coindesk.com/markets/2025/12/05/how-much-longer-until-we-consider-the-bitcoin-power-law-model-invalid)**
 
-Bitcoin and Ethereum are holding steady near important levels while derivatives traders prepare for the next move. According to CoinGecko’s data on December 7, Bitcoin price is trading just below $89,400 today. The price is up about +0.1% in the past 24 hours, with roughly $28.5Bn in spot volume. The ...
+As the gap between spot bitcoin price and the power law widens, investors are left questioning whether mean reversion is coming or if another cornerstone model is approaching its end.
 
-Yahoo Finance • 5h ago
+CoinDesk • 13h ago
+
+---
+
+**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
+
+In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
+
+CNBC • 2d ago
 
 ---
 
@@ -199,27 +199,27 @@ TheStreet • 1d ago
 
 ---
 
-**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
-
-JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
-
-Business Insider • 2d ago
-
----
-
-**[Bitcoin Price Could Hit $170K — But Strategy ‘Resilience’ Is Vital: JPMorgan](https://finance.yahoo.com/news/bitcoin-price-could-hit-170k-110608523.html)**
-
-JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
-
-Yahoo Finance • 1d ago
-
----
-
 **[Professor Coin: When Bitcoin Sneezes—How Crypto and Equities Caught the Same Cold](https://decrypt.co/351063/professor-coin-when-bitcoin-sneezes-how-crypto-and-equities-caught-the-same-cold)**
 
 Academic literature finds that during periods of economic stress, correlations and spillovers between cryptocurrencies and equities spike.
 
 Decrypt • 13h ago
+
+---
+
+**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
+
+Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
+
+Futurism • 11h ago
+
+---
+
+**[Should You Buy Bitcoin While It's Under $100,000?](https://www.fool.com/investing/2025/12/05/should-you-buy-bitcoin-while-its-under-100000/)**
+
+Bitcoin may be down 30% from its all-time high in October, but the long-term outlook remains unchanged.
+
+The Motley Fool • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T04:49:16.851657+00:00'
+updated: '2025-12-07T05:00:01.254795+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- news
 - repositories
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 04:49 UTC  
+**Last Updated:** December 07, 2025 at 05:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -59,6 +59,14 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 ---
 
+**[One-Minute Daily AI News 12/6/2025](https://www.reddit.com/r/artificial/comments/1pg9p61/oneminute_daily_ai_news_1262025/)**
+
+Meta strikes multiple AI deals with news publishers.[1] Elementary school students use AI to combat homelessness.[2] Accurate single-domain scaffolding of three nonoverlapping protein epitopes using deep learning.[3] Apple Researchers Release CLaRa: A Continuous Latent Reasoning Framework for Compression‑Native RAG with 16x–128x Semantic Document Compression.[4] Sources: [1] https://www.reuters.com/business/meta-strikes-multiple-ai-deals-with-news-publishers-axios-reports-2025-12-05/ [2] https://www.kxan.com/news/elementary-school-students-use-ai-to-combat-homelessness/ [3] https://www.nature.com/articles/s41589-025-02083-z [4] https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression%e2%80%91native-rag-with-16x-128x-semantic-document-compression/
+
+10m ago
+
+---
+
 **[Just used Gemini for a solo DND session…](https://www.reddit.com/r/artificial/comments/1pfscbo/just_used_gemini_for_a_solo_dnd_session/)**
 
 … and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
@@ -83,14 +91,6 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 ---
 
-**[Could OpenAI’s financial future hinge on teens making deepfakes?](https://www.reddit.com/r/artificial/comments/1pg00rb/could_openais_financial_future_hinge_on_teens/)**
-
-If a new California ballot measure passes, it could block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO. To justify its massive valuation without Wall Street, OpenAI may lean even more heavily on engagement on its consumer-facing platforms, like Sora2. Instrumental and Ekō's recent research into how Sora2 enables harm shows why this could be a bad idea. For everybody.
-
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 7h ago
-
----
-
 **[As of now, which model is best for each of these roles in a process chain](https://www.reddit.com/r/artificial/comments/1pg39f6/as_of_now_which_model_is_best_for_each_of_these/)**
 
 1) Strategist 2) Researcher 3) Coder 4) Analyst 5) Critic 6) Fixer 7) Teacher-Documenter 8) Final output Assembler/Presenter
@@ -103,15 +103,15 @@ If a new California ballot measure passes, it could block OpenAI’s conversion 
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 22h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 23h ago
 
 ---
 
-**[The Prompt I’ve Been Using to Stop Wasting My Workday](https://www.reddit.com/r/artificial/comments/1pfz7ol/the_prompt_ive_been_using_to_stop_wasting_my/)**
+**[Could OpenAI’s financial future hinge on teens making deepfakes?](https://www.reddit.com/r/artificial/comments/1pg00rb/could_openais_financial_future_hinge_on_teens/)**
 
-Lately I’ve been trying to get my days under control because I kept doing that thing where you “work all day” but somehow… get nothing important done. 😅 I started using this daily planning prompt, and it’s actually helped me stop winging my schedule and start planning based on how much energy I actually have and what truly matters. Sharing it here in case it helps someone else: Help me plan my workday effectively. Today's date: [Date] Work hours available: [Start time - End time] Energy level today: [High/Medium/Low] Must-do tasks: [Task with deadline/importance] [Task with deadline/importance] [Task with deadline/importance] Should-do tasks: [Task] [Task] Nice-to-do tasks: [Task] [Task] Meetings/commitments: ● [Time]: [Meeting/commitment] ● [Time]: [Meeting/commitment] Context: ● My peak productivity time: [When you work best] ● Types of work I do: [Deep work, meetings, admin, creative, etc.] ● Current biggest project: [What's most important this week] Create an optimized schedule that: Time Block Schedule: [Hour by hour breakdown considering energy levels and task types] Task Sequence: Why this order makes sense (considering priority, energy, dependencies) Focus Strategies: ● Batching similar tasks ● Protecting deep work time ● Handling interruptions ● When to take breaks Evening Reflection Prompts: Questions to ask myself at end of day to improve tomorrow Make it: ● Realistic (includes buffer time) ● Energy-optimized (hard tasks when fresh) ● Flexible (can adjust if things shift) What it gives back A simple time-blocked schedule, the order to tackle tasks (with actual reasoning), focus strategies, and a few reflection questions so you don’t end the day wondering where your time went. It’s not “productivity guru” complicated, it just keeps you honest about your energy and priorities instead of cramming everything into the same to-do list. If you want more prompts like this, I’ve got a small prompt library, just let me know if you want it. 👍
+If a new California ballot measure passes, it could block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO. To justify its massive valuation without Wall Street, OpenAI may lean even more heavily on engagement on its consumer-facing platforms, like Sora2. Instrumental and Ekō's recent research into how Sora2 enables harm shows why this could be a bad idea. For everybody.
 
-8h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 7h ago
 
 ---
 
@@ -127,7 +127,7 @@ The Guardian • 13h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqeAZpKYwBxVYXTX3pTh9AKhbPb-WkysoIkt26C-IquPe-2q4Ndk9OmA&gaa_ts=69350478&gaa_sig=msJ7OKgkc-GBbXzXep4aOf6NerHGb6KuKCDO9p8MgMUG55iQ5Q6LaK0Ozj71uZ0SbJLgdRY0rhcHm20S7HeO6A%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqdSiECzeRM4RygYfZ45z8IWg6nJByQh0YxIp3m-tglh_1C9ckxasAbS&gaa_ts=69350d41&gaa_sig=Wt4ete4NrCAQ66B0WkUWfNcbYDzYU0mXa8uMj23OQgoy7a3tkiSbxq7C_Tp-bOS2qKvmJ4uWky0YEgqlbLuiOQ%3D%3D)**
 
 The Wall Street Journal • 11h ago
 
@@ -141,17 +141,17 @@ Fortune • 10h ago
 
 ---
 
-**[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
-
-The New York Times • 1d ago
-
----
-
 **[Gemini 3 Pro: the frontier of vision AI](https://blog.google/technology/developers/gemini-3-pro-vision/)**
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
 The Keyword • 1d ago
+
+---
+
+**[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -173,7 +173,7 @@ The Economist • 2d ago
 
 Today’s leading AI models can already write and refine their own software. The question is whether that self-improvement can ever snowball into true superintelligence
 
-Scientific American • 16h ago
+Scientific American • 17h ago
 
 ---
 
@@ -189,7 +189,7 @@ Anthropic • 2d ago
 
 24-year-old Axiom Math founder Carina Hong wooed top Meta researchers in a competitive AI talent market.
 
-Business Insider • 18h ago
+Business Insider • 19h ago
 
 ---
 
@@ -209,7 +209,7 @@ In democracies, major policy decisions typically require some form of majority o
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 546 • 💬 281 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 546 • 💬 282 • 1d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -225,7 +225,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 387 • 💬 215 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 389 • 💬 215 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -391,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,199 • 4d ago
+⬇️ 169,515 • ❤️ 2,200 • 4d ago
 
 ---
 
@@ -427,7 +427,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 366 • 2d ago
+⬇️ 20,067 • ❤️ 368 • 2d ago
 
 ---
 
@@ -694,7 +694,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 3h ago
+⭐ 826 • 🔱 43 • 4h ago
 
 ---
 
