@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T07:25:57.159561+00:00'
+updated: '2025-12-07T07:38:56.163548+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 07:25 UTC  
+**Last Updated:** December 07, 2025 at 07:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +4.0%  
-**30d:** -12.5%  
-**90d:** -19.6%  
-**1y:** -11.4%  
+**24h:** -0.1%  
+**7d:** +3.6%  
+**30d:** -12.8%  
+**90d:** -19.9%  
+**1y:** -11.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1788.26B
+**Market Cap:** $1782.22B
 Rank #1
 
 **Circulating Supply:** 19,958,665 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-29.2%
 
 **All-Time Low:** $67.81
-+132122.4%
++131585.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -97,15 +97,15 @@ Burnsish?
 
 ---
 
-**[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
+**[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
 
-22h ago
+3h ago
 
 ---
 
-**[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
+**[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
 
-2h ago
+23h ago
 
 ---
 
@@ -137,9 +137,9 @@ You see a lot of “just DCA bro” advice on here.Nothing wrong with DCA it’s
 
 ---
 
-**[Man thats a brutal reminder😭](https://www.reddit.com/r/Bitcoin/comments/1pfm5h0/man_thats_a_brutal_reminder/)**
+**[Everyone knows this is a Major Correction, No cause for Alarm](https://www.reddit.com/r/Bitcoin/comments/1pgc6zr/everyone_knows_this_is_a_major_correction_no/)**
 
-20h ago
+26m ago
 
 ---
 
@@ -155,25 +155,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
+**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
 
-JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
+In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
 
-Business Insider • 2d ago
-
----
-
-**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
-
-TheStreet • 1d ago
-
----
-
-**[Bitcoin Price Could Hit $170K — But Strategy ‘Resilience’ Is Vital: JPMorgan](https://finance.yahoo.com/news/bitcoin-price-could-hit-170k-110608523.html)**
-
-JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
-
-Yahoo Finance • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -203,23 +189,35 @@ Yahoo Finance • 2h ago
 
 **[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Investor's Business Daily • 8h ago
+Investor's Business Daily • 9h ago
 
 ---
 
-**[Bitcoin is down nearly 30% from its record high — history shows that's normal](https://www.cnbc.com/2025/12/04/bitcoin-down-nearly-30percent-from-record-high-history-shows-thats-normal.html)**
+**[With Bitcoin Falling, Is Strategy Stock in Trouble?](https://finance.yahoo.com/news/bitcoin-falling-strategy-stock-trouble-210500007.html)**
 
-In the 2021 and 2017 bitcoin cycles, there were a number of instances of drops of 30% or bigger.
+It would be pretty miraculous if Strategy's stock were doing well right now.
 
-CNBC • 2d ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Bitcoin (BTC) Price News: Debunking The Yen Carry Trade Unwind Alarms](https://www.coindesk.com/markets/2025/12/07/bitcoin-faces-japan-rate-hike-yen-carry-trade-unwind-fears-miss-the-mark-real-risk-lie-elsewhere)**
+**[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
-Speculators maintain net bullish positions in the yen, limiting scope for sudden JPY strength and mass carry unwind.
+The Economist • 2d ago
 
-CoinDesk • 1h ago
+---
+
+**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
+
+TheStreet • 1d ago
+
+---
+
+**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
+
+JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
+
+Business Insider • 2d ago
 
 ---
 
@@ -303,7 +301,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 35K • 👍 2K • 💬 259 • ⏱️ 11:32 • 9h ago
+👁️ 35K • 👍 2K • 💬 259 • ⏱️ 11:32 • 10h ago
 
 ---
 
@@ -343,7 +341,7 @@ We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 387 • 💬 43 • ⏱️ 5:59 • 14h ago
+👁️ 7K • 👍 387 • 💬 43 • ⏱️ 5:59 • 15h ago
 
 ---
 

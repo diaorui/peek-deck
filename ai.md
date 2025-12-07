@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T07:25:57.151044+00:00'
+updated: '2025-12-07T07:38:56.155139+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - videos
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 07:25 UTC  
+**Last Updated:** December 07, 2025 at 07:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -36,6 +36,14 @@ AI news, discussions, and developments
 ---
 
 ## Reddit: r/artificial
+
+**[Home Office admits facial recognition tech issue with black and Asian subjects | Facial recognition](https://www.reddit.com/r/artificial/comments/1pgc8xv/home_office_admits_facial_recognition_tech_issue/)**
+
+Calls for review after technology found to return more false positives for ‘some demographic groups’ on certain settings
+
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 23m ago
+
+---
 
 **[AI deepfakes of real doctors spreading health misinformation on social media | Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects](https://www.reddit.com/r/artificial/comments/1pfqevl/ai_deepfakes_of_real_doctors_spreading_health/)**
 
@@ -61,9 +69,9 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 **[How is the deterministic LLM work coming along?](https://www.reddit.com/r/artificial/comments/1pgbjp0/how_is_the_deterministic_llm_work_coming_along/)**
 
-I saw a paper/article on hacker news at one point about making LLMs where they did not use floating point gpus to do their calculations so you wouldn't get the non-deterministic problem (ask same question get diffrent response). How is that going? I work with RAG tech and it seems amazing but it also is sketch when a table is read incorrectly and values are off by a significant figure.
+I saw a paper/article on hacker news at one point about making LLMs where they did not use floating point gpus to do their calculations so you wouldn't get the non-deterministic problem (ask same question get different response). How is that going? I work with RAG tech and it seems amazing but it also is sketch when a table is read incorrectly and values are off by a significant figure.
 
-52m ago
+1h ago
 
 ---
 
@@ -103,15 +111,7 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 1) Strategist 2) Researcher 3) Coder 4) Analyst 5) Critic 6) Fixer 7) Teacher-Documenter 8) Final output Assembler/Presenter
 
-7h ago
-
----
-
-**[The Strange Disappearance of an Anti-AI Activist | Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.](https://www.reddit.com/r/artificial/comments/1pfhump/the_strange_disappearance_of_an_antiai_activist/)**
-
-Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
-
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 1d ago
+8h ago
 
 ---
 
@@ -127,7 +127,7 @@ The Guardian • 16h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqeTHeXU-Gaqp0KbSx_cwV6B0AuvJlOtwlDjEHYOZmwYNcy713KwyBlU&gaa_ts=69352961&gaa_sig=Mykde2d6V4an7Befrd46Gap37t75V-DRepEhKP0wj5uv367qfQAiCVigM-9IQNeZTYvGRL1py-2b6BjkrlQuGg%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqcdHsznbDzIyN3Y2tNR8lOZKxFJ2hHxaDdsakx5Rjcspu3CS9h1Cmvk&gaa_ts=6935327f&gaa_sig=os5_DjDT1nUhqCnY34kMQmeVWu2AWnALyLm-4tR2f6Ov-Hp-Ihf2_8bkBrlMq_f5oHTWHNdbHCgMZAlRuyTgJQ%3D%3D)**
 
 The Wall Street Journal • 14h ago
 
@@ -137,7 +137,7 @@ The Wall Street Journal • 14h ago
 
 How do an artist, a videographer, a musician and a copywriter feel about generative AI?
 
-BBC • 55m ago
+BBC • 1h ago
 
 ---
 
@@ -146,12 +146,6 @@ BBC • 55m ago
 China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
 
 Fortune • 13h ago
-
----
-
-**[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
-
-The New York Times • 1d ago
 
 ---
 
@@ -182,6 +176,12 @@ The Economist • 2d ago
 The V-JEPA system uses ordinary videos to understand the physics of the real world.
 
 WIRED • 7h ago
+
+---
+
+**[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -217,7 +217,7 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 Report: Microsoft declared “the era of AI agents” in May, but enterprise customers aren’t buying.
 
-⬆️ 433 • 💬 333 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
+⬆️ 433 • 💬 334 • 2d ago • [Ars Technica](https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/)
 
 ---
 
@@ -225,7 +225,7 @@ Report: Microsoft declared “the era of AI agents” in May, but enterprise cus
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 391 • 💬 216 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 391 • 💬 217 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -355,7 +355,7 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Ge
 
 📺 BitBiasedAI
 
-👁️ 14K • 👍 498 • 💬 19 • ⏱️ 11:49 • 10h ago
+👁️ 14K • 👍 498 • 💬 19 • ⏱️ 11:49 • 11h ago
 
 ---
 
@@ -391,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,208 • 4d ago
+⬇️ 169,515 • ❤️ 2,210 • 4d ago
 
 ---
 
@@ -427,7 +427,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 374 • 2d ago
+⬇️ 20,067 • ❤️ 376 • 2d ago
 
 ---
 
@@ -459,7 +459,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 232 • 5d ago
+⬇️ 0 • ❤️ 233 • 5d ago
 
 ---
 
@@ -693,7 +693,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 26m ago
+⭐ 826 • 🔱 43 • 39m ago
 
 ---
 
