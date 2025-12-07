@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T14:26:39.494122+00:00'
+updated: '2025-12-07T14:42:05.118136+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- videos
 - news
 - cryptocurrency
-- videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 14:26 UTC  
+**Last Updated:** December 07, 2025 at 14:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** +1.9%  
+**24h:** -2.0%  
+**7d:** +2.2%  
 **30d:** -14.0%  
 **90d:** -21.0%  
-**1y:** -12.8%  
+**1y:** -12.9%  
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 **[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -119,7 +119,7 @@ Burnsish?
 
 **[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -157,7 +157,7 @@ Bloomberg.com • 1d ago
 
 Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -183,7 +183,7 @@ TheStreet • 1d ago
 
 **[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Investor's Business Daily • 15h ago
+Investor's Business Daily • 16h ago
 
 ---
 
@@ -347,7 +347,7 @@ We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 408 • 💬 40 • ⏱️ 5:59 • 21h ago
+👁️ 8K • 👍 408 • 💬 40 • ⏱️ 5:59 • 22h ago
 
 ---
 
@@ -357,7 +357,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 5K • 👍 327 • 💬 143 • ⏱️ 8:49 • 17h ago
+👁️ 5K • 👍 327 • 💬 143 • ⏱️ 8:49 • 18h ago
 
 ---
 
@@ -377,7 +377,7 @@ Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit
 
 📺 CryptosRUs
 
-👁️ 34K • 👍 2K • 💬 445 • ⏱️ 10:13 • 1d ago
+👁️ 34K • 👍 2K • 💬 445 • ⏱️ 10:13 • 2d ago
 
 ---
 
