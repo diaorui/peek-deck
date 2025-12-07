@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T05:53:56.174512+00:00'
+updated: '2025-12-07T06:25:30.069110+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 05:53 UTC  
+**Last Updated:** December 07, 2025 at 06:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
-18h ago
+19h ago
 
 ---
 
@@ -44,7 +44,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 Zhongqing CEO Receives the Challenge of T800
 
-17h ago
+18h ago
 
 ---
 
@@ -52,13 +52,13 @@ Zhongqing CEO Receives the Challenge of T800
 
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
 
-10h ago
+11h ago
 
 ---
 
 **[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
 Meet Octoid, the squishy robot that changes from blue to green to red.
 
-🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 13h ago
+🔗 [CNET](https://www.cnet.com/science/scientists-develop-an-octopus-like-soft-robot-that-can-change-color/) • 14h ago
 
 ---
 
@@ -88,7 +88,7 @@ Meet Octoid, the squishy robot that changes from blue to green to red.
 
 I’m an elementary school special education teacher and I’ll be coaching an after school robotics club for our 4th and 5th grade students after the new year. Whoever wants to sign up. I’ve never 1) done an after school club or 2) done anything with robotics or coding. My district is providing a day of training for it once we get back from winter break. But I’m asking you all for any tips, tricks, or suggestions! Thank you!
 
-9h ago
+10h ago
 
 ---
 
@@ -104,7 +104,7 @@ https://youtu.be/UAlm8Z4mfpU
 
 Im working on an electric knee assist exoskeleton and i have a 450 rpm 24V 15kg*cm³ motor and i was wondering if it would be sufficient to show a noticeable difference for an average sized person when using the exoskeleton or will I need to use two motors.
 
-20h ago
+21h ago
 
 ---
 
@@ -120,11 +120,43 @@ CBS News • 2d ago
 
 ---
 
+**[MIT’s AI Robotics Lab Director Is Building People-Centered Robots](https://spectrum.ieee.org/mits-ai-robotics-lab-director)**
+
+From Romania to MIT, Daniela Rus is redefining robotics to enhance human capabilities. What's her secret to giving people 'superpowers'?
+
+IEEE Spectrum • 3d ago
+
+---
+
+**[MIT researchers “speak objects into existence” using AI and robotics](https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205)**
+
+MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
+
+MIT News • 1d ago
+
+---
+
 **[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-South China Morning Post • 4h ago
+South China Morning Post • 5h ago
+
+---
+
+**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://finance.yahoo.com/news/3-robotics-stocks-buy-now-185157525.html)**
+
+The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
+
+Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
+
+MLive.com • 2d ago
 
 ---
 
@@ -158,38 +190,6 @@ Forbes • 1d ago
 
 ---
 
-**[Uncommon Knowledge: The New Birthrate Math—Tax Condoms, Buy Robots](https://www.newsweek.com/birthrate-tax-condoms-robots-musk-china-11161275)**
-
-Elon Musk sees a future in which most people don't need to work. Beijing betting on it now.
-
-Newsweek • 1d ago
-
----
-
-**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://www.barchart.com/story/news/36461441/3-robotics-stocks-to-buy-now-ahead-of-a-white-house-game-changer)**
-
-The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
-
-Barchart.com • 2d ago
-
----
-
-**[Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices](https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/)**
-
-The NVIDIA Jetson AGX Thor, AGX Orin and Jetson Orin Nano Super developer kits — on sale through Jan. 11 — give anyone the power to build intelligent robots of the future.
-
-NVIDIA Blog • 2d ago
-
----
-
-**[Bradford researchers to use robotic dogs and AI in wildfire trial](https://www.bbc.com/news/articles/c3w7xqdp04qo)**
-
-Bradford researchers will take part in a pilot scheme in Greece next year to help spot wildfires.
-
-BBC • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,7 +200,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 18K • 👍 749 • 💬 60 • ⏱️ 24:47 • 13h ago
+👁️ 18K • 👍 749 • 💬 60 • ⏱️ 24:47 • 14h ago
 
 ---
 
@@ -210,7 +210,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 10K • 👍 131 • 💬 32 • ⏱️ 1:03 • 13h ago
+👁️ 10K • 👍 131 • 💬 32 • ⏱️ 1:03 • 14h ago
 
 ---
 

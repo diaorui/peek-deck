@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T05:53:56.156685+00:00'
+updated: '2025-12-07T06:25:30.051233+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 05:53 UTC  
+**Last Updated:** December 07, 2025 at 06:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,13 @@ AI news, discussions, and developments
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 15h ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 16h ago
+
+---
+
+**[Hello again...GRADIUS](https://www.reddit.com/r/artificial/comments/1pg3kjh/hello_againgradius/)**
+
+6h ago
 
 ---
 
@@ -49,13 +55,7 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misinforming  people outside Silicon Valley.
 
-🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 19h ago
-
----
-
-**[Hello again...GRADIUS](https://www.reddit.com/r/artificial/comments/1pg3kjh/hello_againgradius/)**
-
-6h ago
+🔗 [Business Insider](https://www.businessinsider.com/fei-fei-li-disappointed-by-extreme-ai-messaging-doomsday-utopia-2025-12) • 20h ago
 
 ---
 
@@ -103,7 +103,7 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 Sam Kirchner wants to save the world from artificial superintelligence. He’s been missing for two weeks.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 23h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/sam-kirchner-missing-stop-ai/685144/) • 1d ago
 
 ---
 
@@ -111,7 +111,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 If a new California ballot measure passes, it could block OpenAI’s conversion to a for-profit corporation, potentially severing its lifeline to a $1 trillion IPO. To justify its massive valuation without Wall Street, OpenAI may lean even more heavily on engagement on its consumer-facing platforms, like Sora2. Instrumental and Ekō's recent research into how Sora2 enables harm shows why this could be a bad idea. For everybody.
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 8h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/openai-gamified-peer-to-peer-deepfake-slot-machine) • 9h ago
 
 ---
 
@@ -123,13 +123,13 @@ If a new California ballot measure passes, it could block OpenAI’s conversion 
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqe1EtxETIQRJSHvxiQFCELNTopQqd_kBOJFpoEkbvj6eo5wSiczrXvY&gaa_ts=6935175d&gaa_sig=aSd91Eh5uoUFQP47iHlkBzCBGYU7qFN_I8ACw2OagBtCDBjjO6rlyXwpn6ltv-KwEuYwbAA1ukRTBz6gSOy03g%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqfST7MqrjT1-1kCNp0AJB2chWWnBLsuZ41v_3Ejwe93doILKt4qfbxt&gaa_ts=6935214a&gaa_sig=lkTrRtbIBOTo9AtfgIIHU6YcGJNT1AV6e-7auyM6UeMxXfCy2dEDA5XTrD1mM5iwm1saCWWyZl15qJnJnc-lpQ%3D%3D)**
 
-The Wall Street Journal • 12h ago
+The Wall Street Journal • 13h ago
 
 ---
 
@@ -137,7 +137,13 @@ The Wall Street Journal • 12h ago
 
 China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
 
-Fortune • 11h ago
+Fortune • 12h ago
+
+---
+
+**[Opinion | Don’t Fear the A.I. Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -153,21 +159,21 @@ The Keyword • 1d ago
 
 AI-assisted weather models were put to the test this past hurricane season, with some experts saying they will become a staple for future hurricane forecasting.
 
-ABC News • 19h ago
-
----
-
-**[Are We Seeing the First Steps Toward AI Superintelligence?](https://www.scientificamerican.com/article/how-close-are-todays-ai-models-to-agi-and-to-self-improving-into/)**
-
-Today’s leading AI models can already write and refine their own software. The question is whether that self-improvement can ever snowball into true superintelligence
-
-Scientific American • 17h ago
+ABC News • 20h ago
 
 ---
 
 **[How AI is rewiring childhood](https://www.economist.com/leaders/2025/12/04/how-ai-is-rewiring-childhood)**
 
 The Economist • 2d ago
+
+---
+
+**[This AI Model Can Intuit How the Physical World Works](https://www.wired.com/story/how-one-ai-model-creates-a-physical-intuition-of-its-environment/)**
+
+The V-JEPA system uses ordinary videos to understand the physics of the real world.
+
+WIRED • 6h ago
 
 ---
 
@@ -179,17 +185,11 @@ Anthropic • 2d ago
 
 ---
 
-**[This AI Model Can Intuit How the Physical World Works](https://www.wired.com/story/how-one-ai-model-creates-a-physical-intuition-of-its-environment/)**
+**[Meta acquiring AI wearable company Limitless](https://www.cnbc.com/2025/12/05/meta-limitless-ai-wearable.html)**
 
-The V-JEPA system uses ordinary videos to understand the physics of the real world.
+Meta has acquired the startup Limitless, which makes a small, artificial intelligence-powered pendant.
 
-WIRED • 5h ago
-
----
-
-**[New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html)**
-
-The New York Times • 1d ago
+CNBC • 1d ago
 
 ---
 
@@ -287,7 +287,7 @@ The race to unlock the secret to a longer life is on - and two sisters from a Ca
 
 📺 BBC News
 
-👁️ 19K • 👍 570 • 💬 211 • ⏱️ 8:08 • 20h ago
+👁️ 19K • 👍 570 • 💬 211 • ⏱️ 8:08 • 21h ago
 
 ---
 
@@ -375,7 +375,7 @@ OpenAI, Anthropic, and Google are all making amazing models, but their good ones
 
 📺 Theo - t3․gg
 
-👁️ 51K • 👍 2K • 💬 396 • ⏱️ 36:08 • 23h ago
+👁️ 51K • 👍 2K • 💬 396 • ⏱️ 36:08 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 169,515 • ❤️ 2,205 • 4d ago
+⬇️ 169,515 • ❤️ 2,207 • 4d ago
 
 ---
 
@@ -403,7 +403,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 18,140 • ❤️ 754 • 5d ago
+⬇️ 18,140 • ❤️ 755 • 5d ago
 
 ---
 
@@ -415,7 +415,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 4,718 • ❤️ 522 • 5d ago
+⬇️ 4,718 • ❤️ 523 • 5d ago
 
 ---
 
@@ -427,7 +427,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 20,067 • ❤️ 369 • 2d ago
+⬇️ 20,067 • ❤️ 370 • 2d ago
 
 ---
 
@@ -437,7 +437,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 256 • 4d ago
+⬇️ 0 • ❤️ 258 • 4d ago
 
 ---
 
@@ -471,7 +471,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 196,425 • ❤️ 907 • 9d ago
+⬇️ 196,425 • ❤️ 909 • 9d ago
 
 ---
 
@@ -549,7 +549,7 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 The paper introduces Reward Forcing, which enhances video generation by updating sink tokens with EMA-Sink and using Rewarded Distribution Matching Distillation to prioritize dynamic content.
 
-▲ 31 • 💬 3 • ⭐ 101 • 2d ago
+▲ 31 • 💬 3 • ⭐ 101 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04678) • [💻 code](https://github.com/JaydenLyh/Reward-Forcing) • [🔗 project](https://reward-forcing.github.io/)
 
@@ -684,7 +684,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 918 • 🔱 112 • 17h ago
+⭐ 918 • 🔱 112 • 18h ago
 
 ---
 
@@ -694,7 +694,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 826 • 🔱 43 • 20m ago
+⭐ 826 • 🔱 43 • 51m ago
 
 ---
 
@@ -704,7 +704,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 823 • 🔱 22 • 15h ago
+⭐ 823 • 🔱 22 • 16h ago
 
 ---
 
@@ -724,7 +724,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 709 • 🔱 235 • 22h ago
+⭐ 709 • 🔱 235 • 23h ago
 
 ---
 

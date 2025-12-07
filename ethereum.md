@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T05:53:56.171222+00:00'
+updated: '2025-12-07T06:25:30.065855+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 05:53 UTC  
+**Last Updated:** December 07, 2025 at 06:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,8 +42,8 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +8.6%  
+**24h:** +0.5%  
+**7d:** +8.7%  
 **30d:** -10.6%  
 **90d:** -29.5%  
 **1y:** -24.1%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $367.96B
+**Market Cap:** $367.44B
 Rank #2
 
 **Circulating Supply:** 120,695,408 ETH
@@ -62,7 +62,7 @@ No max supply
 -38.4%
 
 **All-Time Low:** $0.43
-+703996.5%
++703511.5%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 million from Ethereum traders in a blindingly fast fraud.
 
-🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 13h ago
+🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 14h ago
+
+---
+
+**[Daily General Discussion December 07, 2025](https://www.reddit.com/r/ethereum/comments/1pgazhx/daily_general_discussion_december_07_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+24m ago
 
 ---
 
@@ -80,7 +88,7 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -120,7 +128,7 @@ This is Part Six of the eight-part series: Can I Pay With This: A stablecoin exp
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -140,14 +148,6 @@ Trump crypto empire falls faster than bitcoin
 
 ---
 
-**[Ethereal news weekly #1 | 🦓 Fusaka upgrade live on mainnet ⚠️ Client diversity: Lighthouse 55% 🎂 Beacon chain 5th anniversary](https://www.reddit.com/r/ethereum/comments/1pesttx/ethereal_news_weekly_1_fusaka_upgrade_live_on/)**
-
-Fusaka upgrade live on mainnet, client diversity: Lighthouse 55%, Beacon chain 5th anniversary
-
-🔗 [ethereal.news](https://ethereal.news/ethereal-news-weekly-1/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -164,7 +164,7 @@ Decrypt • 2d ago
 
 BitMine bought nearly $200 million worth of Ethereum in the last two days, widening its lead as the largest single holder of ETH.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -198,7 +198,7 @@ The Block • 1d ago
 
 Industry leader Tom Lee has shared how the Ethereum price could reach $12,000 within the next few months. He based his prediction on the Bitcoin price action and how ETH could match the flagship crypto on a potential run to the upside. Tom Lee Explains How The Ethereum Price Could Rally To $12,000S…
 
-TradingView • 14h ago
+TradingView • 15h ago
 
 ---
 
@@ -316,7 +316,7 @@ SECRET CRYPTO 2026 ALPHA WHAT BIG MONEY IS DOING Support The O Show with Ref Lin
 
 📺 CryptoWendyO
 
-👁️ 4K • 👍 347 • 💬 7 • ⏱️ 8:01 • 11h ago
+👁️ 4K • 👍 347 • 💬 7 • ⏱️ 8:01 • 12h ago
 
 ---
 
@@ -326,7 +326,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 615 • 👍 43 • 💬 25 • ⏱️ 12:08 • 12h ago
+👁️ 615 • 👍 43 • 💬 25 • ⏱️ 12:08 • 13h ago
 
 ---
 
