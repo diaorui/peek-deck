@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T04:22:35.972246+00:00'
+updated: '2025-12-07T04:49:16.869661+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 04:22 UTC  
+**Last Updated:** December 07, 2025 at 04:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
-8h ago
+9h ago
 
 ---
 
@@ -72,7 +72,7 @@ https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
 **[Robot dance Arduino](https://www.reddit.com/r/robotics/comments/1pfijsr/robot_dance_arduino/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -194,23 +194,23 @@ Forbes • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
-
-The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
-
-📺 DPCcars
-
-👁️ 7K • 👍 105 • 💬 25 • ⏱️ 1:03 • 12h ago
-
----
-
 **[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
 
 Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
 
 📺 MarketBeat
 
-👁️ 16K • 👍 681 • 💬 57 • ⏱️ 24:47 • 12h ago
+👁️ 18K • 👍 749 • 💬 60 • ⏱️ 24:47 • 12h ago
+
+---
+
+**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
+
+The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
+
+📺 DPCcars
+
+👁️ 10K • 👍 131 • 💬 32 • ⏱️ 1:03 • 12h ago
 
 ---
 
@@ -220,7 +220,7 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 15K • 👍 312 • 💬 161 • ⏱️ 4:05 • 2d ago
+👁️ 15K • 👍 322 • 💬 162 • ⏱️ 4:05 • 2d ago
 
 ---
 
@@ -230,7 +230,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 69K • 👍 551 • 💬 269 • ⏱️ 2:30 • 3d ago
+👁️ 70K • 👍 559 • 💬 270 • ⏱️ 2:30 • 3d ago
 
 ---
 
@@ -240,17 +240,7 @@ Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G
 
 📺 Unitree Robotics
 
-👁️ 1.4M • 👍 1K • 💬 302 • ⏱️ 1:06 • 3d ago
-
----
-
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
-
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
-
-📺 AI Revolution
-
-👁️ 68K • 👍 2K • 💬 321 • ⏱️ 12:07 • 1d ago
+👁️ 1.4M • 👍 1K • 💬 300 • ⏱️ 1:06 • 3d ago
 
 ---
 
@@ -260,7 +250,17 @@ In 2025 Silicon Valley, a next-gen AI Spider Quadruped Robot reveals a completel
 
 📺 AI Robot Lab
 
-👁️ 17K • 👍 185 • 💬 4 • ⏱️ 0:25 • 13h ago
+👁️ 19K • 👍 202 • 💬 5 • ⏱️ 0:25 • 14h ago
+
+---
+
+**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
+
+Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
+
+📺 AI Revolution
+
+👁️ 71K • 👍 2K • 💬 333 • ⏱️ 12:07 • 1d ago
 
 ---
 
@@ -270,25 +270,25 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 101K • 💬 622 • ⏱️ 1:21 • 3d ago
+👁️ 102K • 💬 626 • ⏱️ 1:21 • 3d ago
 
 ---
 
-**[🔥🆙 Check #EngineAI T800&#39;s INSANE Vertical Jump! That #explosivepower ! #humanoid #robotics  #ai](https://www.youtube.com/watch?v=_dVpyK1lvxc)**
+**[Purchased the newly released 2025 humanoid robot. #robotics #ai #humanoidrobot #airobot](https://www.youtube.com/watch?v=NJeenJ276ug)**
 
-📺 XRoboHub
+📺 AI . Robot
 
-👁️ 19K • 👍 502 • 💬 55 • ⏱️ 0:14 • 12h ago
+👁️ 1.4M • 👍 7K • 💬 45 • ⏱️ 0:17 • 2d ago
 
 ---
 
-**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
+**[This Isn&#39;t Your Typical Humanoid Robot](https://www.youtube.com/watch?v=NjwgtvVPy04)**
 
-Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
+Memo is a wheeled home robot from Sunday Robotics, a Mountain View startup founded by Stanford PhDs Tony Zhao and Cheng ...
 
-📺 Fin Tek
+📺 Game of Tomorrow
 
-👁️ 46K • 👍 2K • 💬 105 • ⏱️ 21:31 • 1d ago
+👁️ 25K • 👍 1K • 💬 71 • ⏱️ 0:55 • 1d ago
 
 ---
 

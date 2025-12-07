@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T04:22:35.954430+00:00'
+updated: '2025-12-07T04:49:16.851657+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 04:22 UTC  
+**Last Updated:** December 07, 2025 at 04:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 **[Hello again...GRADIUS](https://www.reddit.com/r/artificial/comments/1pg3kjh/hello_againgradius/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -63,7 +63,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 … and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
 
-12h ago
+13h ago
 
 ---
 
@@ -79,7 +79,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
 
-🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 10h ago
+🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 11h ago
 
 ---
 
@@ -95,7 +95,7 @@ If a new California ballot measure passes, it could block OpenAI’s conversion 
 
 1) Strategist 2) Researcher 3) Coder 4) Analyst 5) Critic 6) Fixer 7) Teacher-Documenter 8) Final output Assembler/Presenter
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ Sam Kirchner wants to save the world from artificial superintelligence. He’s b
 
 Lately I’ve been trying to get my days under control because I kept doing that thing where you “work all day” but somehow… get nothing important done. 😅 I started using this daily planning prompt, and it’s actually helped me stop winging my schedule and start planning based on how much energy I actually have and what truly matters. Sharing it here in case it helps someone else: Help me plan my workday effectively. Today's date: [Date] Work hours available: [Start time - End time] Energy level today: [High/Medium/Low] Must-do tasks: [Task with deadline/importance] [Task with deadline/importance] [Task with deadline/importance] Should-do tasks: [Task] [Task] Nice-to-do tasks: [Task] [Task] Meetings/commitments: ● [Time]: [Meeting/commitment] ● [Time]: [Meeting/commitment] Context: ● My peak productivity time: [When you work best] ● Types of work I do: [Deep work, meetings, admin, creative, etc.] ● Current biggest project: [What's most important this week] Create an optimized schedule that: Time Block Schedule: [Hour by hour breakdown considering energy levels and task types] Task Sequence: Why this order makes sense (considering priority, energy, dependencies) Focus Strategies: ● Batching similar tasks ● Protecting deep work time ● Handling interruptions ● When to take breaks Evening Reflection Prompts: Questions to ask myself at end of day to improve tomorrow Make it: ● Realistic (includes buffer time) ● Energy-optimized (hard tasks when fresh) ● Flexible (can adjust if things shift) What it gives back A simple time-blocked schedule, the order to tackle tasks (with actual reasoning), focus strategies, and a few reflection questions so you don’t end the day wondering where your time went. It’s not “productivity guru” complicated, it just keeps you honest about your energy and priorities instead of cramming everything into the same to-do list. If you want more prompts like this, I’ve got a small prompt library, just let me know if you want it. 👍
 
-7h ago
+8h ago
 
 ---
 
@@ -265,7 +265,7 @@ A live AI-driven countdown to the potential burst of the AI market bubble. Updat
 
 Rodents in northern Germany were spotted using two different hunting strategies at major urban bat hibernation sites
 
-⬆️ 72 • 💬 12 • 1d ago • [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/)
+⬆️ 72 • 💬 12 • 2d ago • [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/)
 
 ---
 
@@ -281,11 +281,13 @@ Wall Street lends billions to AI companies while using credit derivatives and so
 
 ## YouTube Videos: "ai"
 
-**[REAL VS A.I. COMPILATION 😂](https://www.youtube.com/watch?v=4fIDsqbkXco)**
+**[Can AI crack the process of aging? | BBC News](https://www.youtube.com/watch?v=yRDek-pGcwE)**
 
-📺 Bob Reese
+The race to unlock the secret to a longer life is on - and two sisters from a Cambridge start-up might be closer than anyone else.
 
-👁️ 7.5M • 👍 225K • 💬 2K • ⏱️ 1:02 • 1d ago
+📺 BBC News
+
+👁️ 19K • 👍 570 • 💬 211 • ⏱️ 8:08 • 19h ago
 
 ---
 
@@ -295,27 +297,7 @@ AI Expert STUART RUSSELL, exposes the trillion-dollar AI race, why governments w
 
 📺 The Diary Of A CEO
 
-👁️ 857K • 👍 20K • 💬 4K • ⏱️ 2:04:06 • 2d ago
-
----
-
-**[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
-
-Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
-
-📺 Future of Life Institute
-
-👁️ 31K • 👍 2K • 💬 583 • ⏱️ 15:40 • 2d ago
-
----
-
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
-
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
-
-📺 AI Revolution
-
-👁️ 68K • 👍 2K • 💬 321 • ⏱️ 12:07 • 1d ago
+👁️ 870K • 👍 20K • 💬 4K • ⏱️ 2:04:06 • 2d ago
 
 ---
 
@@ -325,7 +307,35 @@ Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the
 
 📺 End Times Productions
 
-👁️ 113K • 👍 8K • 💬 2K • ⏱️ 34:02 • 2d ago
+👁️ 115K • 👍 8K • 💬 2K • ⏱️ 34:02 • 2d ago
+
+---
+
+**[REAL VS A.I. COMPILATION 😂](https://www.youtube.com/watch?v=4fIDsqbkXco)**
+
+📺 Bob Reese
+
+👁️ 8.4M • 👍 244K • 💬 2K • ⏱️ 1:02 • 1d ago
+
+---
+
+**[AI expert warns we&#39;re close to extinction](https://www.youtube.com/watch?v=SPQCaAwfDpk)**
+
+Connor Leahy discusses the motivations of AGI corporations, how modern AI is "grown", the need for a science of intelligence, the ...
+
+📺 Future of Life Institute
+
+👁️ 33K • 👍 2K • 💬 598 • ⏱️ 15:40 • 2d ago
+
+---
+
+**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
+
+Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
+
+📺 AI Revolution
+
+👁️ 71K • 👍 2K • 💬 333 • ⏱️ 12:07 • 1d ago
 
 ---
 
@@ -335,27 +345,17 @@ Sora 2 has officially entered absolute madness — and these are the funniest mo
 
 📺 YetiAF | AI Universe
 
-👁️ 16K • 👍 463 • 💬 55 • ⏱️ 16:01 • 1d ago
+👁️ 17K • 👍 479 • 💬 55 • ⏱️ 16:01 • 1d ago
 
 ---
 
-**[Can AI crack the process of aging? | BBC News](https://www.youtube.com/watch?v=yRDek-pGcwE)**
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=6DIFQm4MXYI)**
 
-The race to unlock the secret to a longer life is on - and two sisters from a Cambridge start-up might be closer than anyone else.
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
 
-📺 BBC News
+📺 Impossible AIs
 
-👁️ 18K • 👍 537 • 💬 211 • ⏱️ 8:08 • 19h ago
-
----
-
-**[A Clockwork Horror | Surreal AI Music Video 4k](https://www.youtube.com/watch?v=GnDConVF998)**
-
-Had quite a bit of fun with this one. I used A Clockwork Orange meets Rocky Horror Picture Show in the prompt. Definitely more ...
-
-📺 Kelly Boesch AI Art
-
-👁️ 19K • 👍 851 • 💬 54 • ⏱️ 2:42 • 1d ago
+👁️ 580K • 👍 2K • 💬 70 • ⏱️ 8:09 • 2d ago
 
 ---
 
@@ -365,17 +365,17 @@ From Capitol Hill to the back of an Uber in Dubai — this week showed just how 
 
 📺 CNBC Television
 
-👁️ 27K • 👍 278 • 💬 32 • ⏱️ 22:41 • 1d ago
+👁️ 28K • 👍 289 • 💬 34 • ⏱️ 22:41 • 1d ago
 
 ---
 
-**[AI Insider WARNS: “This Ends Much Worse Than You Think”](https://www.youtube.com/watch?v=dnkRXYmmgX0)**
+**[China is winning the AI race](https://www.youtube.com/watch?v=KAmQTmooLGQ)**
 
-World-leading AI scientist Professor Stuart Russell issues one of the most urgent warnings ever given on this channel. After five ...
+OpenAI, Anthropic, and Google are all making amazing models, but their good ones are closed weight. China seems to be doing ...
 
-📺 The Diary Of A CEO Clips
+📺 Theo - t3․gg
 
-👁️ 97K • 👍 2K • 💬 645 • ⏱️ 21:18 • 9h ago
+👁️ 51K • 👍 2K • 💬 396 • ⏱️ 36:08 • 22h ago
 
 ---
 
@@ -501,6 +501,20 @@ Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41
 
 ## HuggingFace Papers: 🔥 Trending
 
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 145 • 💬 3 • ⭐ 5,167 • 9d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -512,20 +526,6 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 ▲ 18 • 💬 2 • ⭐ 5,002 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 145 • 💬 3 • ⭐ 4,976 • 9d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -575,7 +575,7 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 14 • 💬 0 • ⭐ 26,244 • 11mo ago
+▲ 14 • 💬 0 • ⭐ 26,258 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -684,7 +684,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 916 • 🔱 111 • 15h ago
+⭐ 917 • 🔱 112 • 16h ago
 
 ---
 
@@ -704,7 +704,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 819 • 🔱 22 • 14h ago
+⭐ 821 • 🔱 22 • 14h ago
 
 ---
 
@@ -714,7 +714,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 802 • 🔱 55 • 6d ago
+⭐ 804 • 🔱 55 • 6d ago
 
 ---
 
@@ -724,7 +724,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 695 • 🔱 229 • 21h ago
+⭐ 703 • 🔱 233 • 21h ago
 
 ---
 
