@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T12:45:00.851049+00:00'
+updated: '2025-12-07T13:15:32.147954+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 12:45 UTC  
+**Last Updated:** December 07, 2025 at 13:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +52,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/yourusername/BipedalWalker-PPO-STM32 Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
 
-5h ago
+6h ago
 
 ---
 
@@ -68,25 +68,35 @@ Zhongqing CEO Receives the Challenge of T800
 
 Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
 
-17h ago
+18h ago
 
 ---
 
-**[China's G1 humanoid robot is mastering combat skills at a terrifying rate](https://www.reddit.com/r/robotics/comments/1pghcyh/chinas_g1_humanoid_robot_is_mastering_combat/)**
+**[Compact 440VAC 3ph to 300VDC 10kw+ Converter](https://www.reddit.com/r/robotics/comments/1pghmu7/compact_440vac_3ph_to_300vdc_10kw_converter/)**
 
-8m ago
+Hi all, I have a need for the above converter to be installed within a well-cooled (subsea) electronics enclosure. I have a stable 3-phase 400-440VAC supply and need 300-350VDC at a peak of 10kw but a more constant load of <4kw. I have already sourced a unit designed to be rack-mounted, rated to 30KW. It will do the job, but the project would be better if a compact/lighter solution could be found; I don’t need the 30KW headroom. Does anyone have any suggestions? Budget not particularly limited. Many thanks.
+
+23m ago
 
 ---
 
 **[Optimus pilot production line running at the Fremont Factory](https://www.reddit.com/r/robotics/comments/1pfu19t/optimus_pilot_production_line_running_at_the/)**
 
-19h ago
+20h ago
+
+---
+
+**[bro... china is literally deploying T-800s to save lives and we are over here gluing fake heads on robot dogs for "art". we are actually cooked. 💀](https://www.reddit.com/r/robotics/comments/1pghir3/bro_china_is_literally_deploying_t800s_to_save/)**
+
+Every time I think we’re catching up, China drops another “oh btw we built the future while you were asleep” demo. Actual humanoids doing rescue ops. Actual factories using robots as a team. Meanwhile we’re out here duct-taping googly eyes and mannequin heads onto robot dogs for YouTube “performance art”. I’m not saying we’re behind… but we’re behind.
+
+29m ago
 
 ---
 
 **[Sharing sensor data between multiple devices on the same network](https://www.reddit.com/r/robotics/comments/1pgdpyl/sharing_sensor_data_between_multiple_devices_on/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -95,14 +105,6 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
 17h ago
-
----
-
-**[Conferencia sobre robótica, proyecto, futuro, estética y ética](https://www.reddit.com/r/robotics/comments/1pgbsg7/conferencia_sobre_robótica_proyecto_futuro/)**
-
-Conferencia realizada en la Sorbonne Paris, viernes 05 de diciembre. Se trató sobre los proyectos de Hobbie y concurso hasta la industria, proyectos de grande escala, también se tocó el tema del futuro, hasta donde iremos? La estética en la robótica y la ética en la robótica, de una manera genérica se todo también la tecnología en sí. Muchas gracias a Jorge Linares por la invitación. Jorge Abraham Salgado
-
-5h ago
 
 ---
 
@@ -142,11 +144,17 @@ Seeking Alpha • 2d ago
 
 ---
 
+**[Why AI and Robotics Are Now National Security Assets](https://etftrends.com/artificial-intelligence-content-hub/why-ai-robotics-national-security-assets/)**
+
+ETF Trends • 2d ago
+
+---
+
 **[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-South China Morning Post • 11h ago
+South China Morning Post • 12h ago
 
 ---
 
@@ -160,15 +168,7 @@ Investor's Business Daily • 2d ago
 
 Earlier this week, reports that the White House is considering an executive order to accelerate growth in the U.S. robotics industry prompted intense investor focus on iRobot and other robotics-linked companies, even as iRobot continues to grapple with liquidity pressures, declining revenue, and a high risk of bankruptcy. The news also highlighted how potential federal support may primarily target industrial robotics and advanced manufacturing, raising questions about how directly...
 
-Yahoo Finance • 1d ago
-
----
-
-**[Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices](https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/)**
-
-The NVIDIA Jetson AGX Thor, AGX Orin and Jetson Orin Nano Super developer kits — on sale through Jan. 11 — give anyone the power to build intelligent robots of the future.
-
-NVIDIA Blog • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -180,11 +180,11 @@ KTVB • 1d ago
 
 ---
 
-**[China deploys traffic robot to direct vehicles, pedestrians in streets](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-traffic-robot)**
+**[Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices](https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/)**
 
-China debuts AI traffic robot Hangxing No. 1, directing vehicles, spotting violations, and issuing polite voice warnings at busy intersections.
+The NVIDIA Jetson AGX Thor, AGX Orin and Jetson Orin Nano Super developer kits — on sale through Jan. 11 — give anyone the power to build intelligent robots of the future.
 
-Interesting Engineering • 18h ago
+NVIDIA Blog • 2d ago
 
 ---
 
@@ -198,7 +198,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 24K • 👍 853 • 💬 68 • ⏱️ 24:47 • 20h ago
+👁️ 24K • 👍 853 • 💬 68 • ⏱️ 24:47 • 21h ago
 
 ---
 
@@ -208,7 +208,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 26K • 👍 201 • 💬 51 • ⏱️ 1:03 • 20h ago
+👁️ 26K • 👍 201 • 💬 51 • ⏱️ 1:03 • 21h ago
 
 ---
 
@@ -258,7 +258,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 68K • 👍 4K • 💬 483 • ⏱️ 19:33 • 21h ago
+👁️ 68K • 👍 4K • 💬 483 • ⏱️ 19:33 • 22h ago
 
 ---
 
@@ -276,7 +276,7 @@ Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G
 
 📺 AI . Robot
 
-👁️ 1.4M • 👍 7K • 💬 45 • ⏱️ 0:17 • 2d ago
+👁️ 1.4M • 👍 7K • 💬 45 • ⏱️ 0:17 • 3d ago
 
 ---
 

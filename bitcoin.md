@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T12:45:00.841745+00:00'
+updated: '2025-12-07T13:15:32.137819+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- news
 - cryptocurrency
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 12:45 UTC  
+**Last Updated:** December 07, 2025 at 13:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +3.7%  
-**30d:** -12.7%  
-**90d:** -19.8%  
-**1y:** -11.6%  
+**24h:** -0.5%  
+**7d:** +3.9%  
+**30d:** -12.6%  
+**90d:** -19.7%  
+**1y:** -11.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1782.27B
+**Market Cap:** $1785.03B
 Rank #1
 
 **Circulating Supply:** 19,958,771 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.2%
+-29.1%
 
 **All-Time Low:** $67.81
-+131606.2%
++131665.2%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
-2h ago
+3h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 **[It is funny how true is this...](https://www.reddit.com/r/Bitcoin/comments/1pgfjhq/it_is_funny_how_true_is_this/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -117,19 +117,13 @@ Burnsish?
 
 ---
 
-**[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
-
-1d ago
-
----
-
 **[This is just Me and I know](https://www.reddit.com/r/Bitcoin/comments/1pgd3wt/this_is_just_me_and_i_know/)**
 
-4h ago
+5h ago
 
 ---
 
-**[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
+**[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
 
 1d ago
 
@@ -137,7 +131,13 @@ Burnsish?
 
 **[Still hodling on!!!](https://www.reddit.com/r/Bitcoin/comments/1pgct69/still_hodling_on/)**
 
-4h ago
+5h ago
+
+---
+
+**[Someone has been buying $30 worth of #Bitcoin daily for the last 8 years, turning $86,000 to $1 MILLION 🤯](https://www.reddit.com/r/Bitcoin/comments/1pfkbn2/someone_has_been_buying_30_worth_of_bitcoin_daily/)**
+
+1d ago
 
 ---
 
@@ -158,6 +158,14 @@ Bloomberg.com • 1d ago
 Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Michael Saylor’s Bitcoin Playbook Backfires on 100+ Companies](https://finance.yahoo.com/news/michael-saylor-bitcoin-playbook-backfires-101022120.html)**
+
+Digital asset treasury companies that rushed to copy Michael Saylor’s Bitcoin strategy are now hemorrhaging shareholder value, with median stock prices down 43% year to date, even as the broader market climbs higher, as per Bloomberg.Source: BloombergMore than 100 publicly traded companies transformed themselves into cryptocurrency-holding vehicles in the first ...
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -183,11 +191,11 @@ CNBC • 3d ago
 
 ---
 
-**[Bitcoin Price Could Hit $170K — But Strategy ‘Resilience’ Is Vital: JPMorgan](https://finance.yahoo.com/news/bitcoin-price-could-hit-170k-110608523.html)**
+**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
 
-JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
+JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
 
-Yahoo Finance • 2d ago
+Business Insider • 2d ago
 
 ---
 
@@ -197,11 +205,11 @@ TheStreet • 1d ago
 
 ---
 
-**[Bitcoin Preis (BTC) Ausblick: JPM bleibt bei $170K Ziel](https://www.coindesk.com/markets/2025/12/04/jpmorgan-retains-gold-linked-usd170k-bitcoin-target-despite-recent-plunge)**
+**[Bitcoin Price Could Hit $170K — But Strategy ‘Resilience’ Is Vital: JPMorgan](https://finance.yahoo.com/news/bitcoin-price-could-hit-170k-110608523.html)**
 
-The bank’s volatility-adjusted bitcoin-to-gold model still points to a theoretical price around $170K over the next six to twelve months.
+JPMorgan analysts say the near-term direction of Bitcoin’s price now depends less on miner behavior and more on the financial resilience of Strategy, the world’s largest corporate holder of Bitcoin, even as mining pressure and market volatility persist.In a report led by managing director Nikolaos Panigirtzoglou, the bank identified two ...
 
-CoinDesk • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -210,14 +218,6 @@ CoinDesk • 1d ago
 Strategy can likely avoid forced sales of its bitcoins if its keeps the its enterprise value to cryptocurrency holdings ratio above 1.0, per JPMorgan analysts.
 
 CNBC • 2d ago
-
----
-
-**[With Bitcoin Falling, Is Strategy Stock in Trouble?](https://finance.yahoo.com/news/bitcoin-falling-strategy-stock-trouble-210500007.html)**
-
-It would be pretty miraculous if Strategy's stock were doing well right now.
-
-Yahoo Finance • 15h ago
 
 ---
 
@@ -251,7 +251,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
-⬆️ 3 • 💬 0 • 11h ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 3 • 💬 0 • 12h ago • [GitHub](https://github.com/kladskull/xEroS)
 
 ---
 
@@ -311,7 +311,7 @@ I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is W
 
 📺 Digital Asset News
 
-👁️ 18K • 👍 1K • 💬 123 • ⏱️ 21:52 • 18h ago
+👁️ 18K • 👍 1K • 💬 123 • ⏱️ 21:52 • 19h ago
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin volatility is collapsing, institutions are flooding in, and the entire m
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 759 • 💬 154 • ⏱️ 40:36 • 19h ago
+👁️ 18K • 👍 759 • 💬 154 • ⏱️ 40:36 • 20h ago
 
 ---
 
@@ -381,7 +381,7 @@ Tangem ▻ Black Friday Deals!!* Special Discount: *30% Off + $10 in FREE BTC!* 
 
 📺 Crypto Casey
 
-👁️ 41K • 👍 3K • 💬 376 • ⏱️ 12:50 • 23h ago
+👁️ 41K • 👍 3K • 💬 376 • ⏱️ 12:50 • 1d ago
 
 ---
 

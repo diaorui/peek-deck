@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T12:45:00.847789+00:00'
+updated: '2025-12-07T13:15:32.144547+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- news
 - cryptocurrency
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 12:45 UTC  
+**Last Updated:** December 07, 2025 at 13:15 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +8.3%  
-**30d:** -10.6%  
-**90d:** -29.5%  
-**1y:** -24.1%  
+**24h:** -0.6%  
+**7d:** +8.4%  
+**30d:** -10.8%  
+**90d:** -29.7%  
+**1y:** -24.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $367.32B
+**Market Cap:** $367.88B
 Rank #2
 
 **Circulating Supply:** 120,695,408 ETH
@@ -62,7 +62,7 @@ No max supply
 -38.5%
 
 **All-Time Low:** $0.43
-+702691.6%
++702546.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 I'm the inventor of the "simultaneous video event" Gavin Wood is currently pursuing (Gavin built the first version of Ethereum, then Jeffrey Wilckes and his team built the Golang, and then more came). I have followed "scaling" discussion since 2014, but always found that it was misunderstanding the Nakamoto consensus. But since my proof-of-unique-person requires someone to solve scaling, I took some more looks at the topic and I realized that what the discussion was missing is that the consensus should not be split. Everything happening under a "block of authority" should be by the same group, who trusts one another internally. With that, parallelization can still happen, but the consensus is not split. The concept is really similar otherwise to the "sharding" discussion, it only avoids splitting the consensus. What the discussion in Ethereum was typically in the past decade was to instead randomly assign validators to "shards" from the validator pool. This approach fundamentally misunderstands the consensus. As I realized what everyone got wrong, I was unable to find a system that actually did scale the way things should be done. But, I then noticed there is a system. But if I even mention that here, this gets removed. Not because of the topic I raise, but because of guilt by association. You have created a "community" where you have erased the roots to it, as well as made mention of actual competition (as the roots are often a form of competition, Steve Wozniak would remain a form of competition even as the computer industry outgrew his Apple 2 etc). The system I mentioned is teranode, that is parallelizing the block production but they do so internally under a singular trusted central authority for the "block". Of course Ethereum was the next step after Bitcoin, and my proof-of-unique-person is fundamentally based on the Ethereum paradigm. But Satoshi was who came up with the consensus. Buterin came up with the Turing completeness. Buterin, and Gavin Wood, and Jeffrey Wilckes, were all geniuses in my eyes. But so was Satoshi. "Removing this because it's not about Ethereum. It sort of pretends to be but doesn't make any attempt to work out what Ethereum sharding actually is so the point is clearly just to shill some Craig Wright thing. " Edmund Edgar
 
-2h ago
+3h ago
 
 ---
 
@@ -156,7 +156,7 @@ saw some questions about production web3 gaming setups so figured i'd share our 
 
 Options data show Ethereum traders are less bearish than Bitcoin’s after recent network upgrades and improving macro uncertainty.
 
-Decrypt • 1d ago
+Decrypt • 2d ago
 
 ---
 
@@ -168,17 +168,11 @@ Yahoo Finance • 22h ago
 
 ---
 
-**[WisdomTree first to market with Ethereum staking fund using Lido's stETH](https://www.theblock.co/post/381549/wisdomtree-first-market-ethereum-staking-fund-lido-steth)**
-
-The Block • 1d ago
-
----
-
 **[Industry Leader Shares Why Ethereum Price Will Reach $12,000](https://www.tradingview.com/news/newsbtc:a204c146d094b:0-industry-leader-shares-why-ethereum-price-will-reach-12-000/)**
 
 Industry leader Tom Lee has shared how the Ethereum price could reach $12,000 within the next few months. He based his prediction on the Bitcoin price action and how ETH could match the flagship crypto on a potential run to the upside. Tom Lee Explains How The Ethereum Price Could Rally To $12,000S…
 
-TradingView • 21h ago
+TradingView • 22h ago
 
 ---
 
@@ -187,6 +181,12 @@ TradingView • 21h ago
 Key PointsDecentralized applications run on smart contracts, which automate their functions and ensure they can't be manipulated by humans.
 
 Nasdaq • 3d ago
+
+---
+
+**[Coinbase incubated Ethereum L2 Base network rolls out bridge to Solana](https://www.theblock.co/post/381437/coinbase-ethereum-l2-base-bridge-solana)**
+
+The Block • 2d ago
 
 ---
 
@@ -218,7 +218,7 @@ Seeking Alpha • 2d ago
 
 Ethereum tops the digital asset market with $138.7M in 24-hour net inflows, highlighting strong investor interest.
 
-Crypto Briefing • 10h ago
+Crypto Briefing • 11h ago
 
 ---
 
@@ -280,7 +280,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 793 • 👍 47 • 💬 25 • ⏱️ 12:08 • 19h ago
+👁️ 793 • 👍 47 • 💬 25 • ⏱️ 12:08 • 20h ago
 
 ---
 
