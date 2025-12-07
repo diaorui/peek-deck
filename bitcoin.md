@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T16:53:27.287952+00:00'
+updated: '2025-12-07T17:13:49.514073+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 16:53 UTC  
+**Last Updated:** December 07, 2025 at 17:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,421.82
+### $89,799.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** +3.6%  
-**30d:** -12.8%  
-**90d:** -20.0%  
-**1y:** -11.7%  
+**24h:** +0.5%  
+**7d:** +4.2%  
+**30d:** -12.3%  
+**90d:** -19.4%  
+**1y:** -11.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1786.23B
+**Market Cap:** $1790.17B
 Rank #1
 
 **Circulating Supply:** 19,958,878 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--29.0%
+-28.9%
 
 **All-Time Low:** $67.81
-+131862.8%
++132137.1%
 
 ---
 
@@ -111,17 +111,17 @@ Burnsish?
 
 ---
 
-**[Good time to buy?](https://www.reddit.com/r/Bitcoin/comments/1pgktsx/good_time_to_buy/)**
-
-Are these good prices at the moment to buy? I am under the impression that anything under $100k USD is pretty good?
-
-1h ago
-
----
-
 **[Still hodling on!!!](https://www.reddit.com/r/Bitcoin/comments/1pgct69/still_hodling_on/)**
 
 9h ago
+
+---
+
+**[Mastercard lets consumers make everyday purchases with Crypto Cards](https://www.reddit.com/r/Bitcoin/comments/1pgn1q4/mastercard_lets_consumers_make_everyday_purchases/)**
+
+Mastercard’s Crypto Card Program enables consumers to use their crypto cards to pay with crypto for everyday transactions across 100 million+ acceptance locations.
+
+🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 24m ago
 
 ---
 
@@ -147,9 +147,9 @@ Are these good prices at the moment to buy? I am under the impression that anyth
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price (BTC) Analysis: Crypto Winter Parallels](https://www.coindesk.com/markets/2025/12/05/bitcoin-market-echoes-early-2022-as-onchain-stress-mounts-glassnode)**
+**[Bitcoin’s Deep Correction Sets Stage for December Rebound, Says K33 Research](https://www.coindesk.com/markets/2025/12/05/bitcoin-s-deep-correction-sets-stage-for-december-rebound-says-k33-research)**
 
-Rising bitcoin supply in loss, weakening spot demand and cautious derivatives positioning were among the issues raised by the data provider in its weekly newsletter.
+K33 Research says market fear is outweighing fundamentals as bitcoin nears key levels. December could offer an entry point for bold investors.
 
 CoinDesk • 2d ago
 
@@ -163,25 +163,17 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[[LIVE]Crypto Today: Bitcoin Consolidates Below $90k, Fed Rate Cut Probability Might Spark Pump](https://finance.yahoo.com/news/live-crypto-today-bitcoin-consolidates-144723548.html)**
-
-Crypto is down again, and the drop is chewing our portfolios as we see the rise in crypto liquidations and debate on Michael Burry and his Bitcoin comments. With crypto down across major assets and liquidations climbing, we are questioning why Bitcoin is falling even while traditional markets are up. ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Trump Administration Overlooks Bitcoin, Blockchain in National Security Strategy](https://www.coindesk.com/opinion/2025/12/07/trump-s-national-security-strategy-ignores-bitcoin-and-blockchain)**
-
-President Trump's latest national security strategy omits digital assets, focusing instead on AI, biotech, and quantum computing.
-
-CoinDesk • 1h ago
-
----
-
 **[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
 The Economist • 3d ago
+
+---
+
+**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
+
+Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -199,6 +191,12 @@ TheStreet • 1d ago
 
 ---
 
+**[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
+
+Investor's Business Daily • 18h ago
+
+---
+
 **[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
 
 Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
@@ -207,9 +205,11 @@ Futurism • 23h ago
 
 ---
 
-**[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
+**[‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles](https://www.forbes.com/sites/digital-assets/2025/12/07/next-step-is-coming-sec-chair-issues-huge-crypto-prediction-as-the-bitcoin-price-struggles/)**
 
-Investor's Business Daily • 18h ago
+The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
+
+Forbes • 4h ago
 
 ---
 
@@ -217,7 +217,7 @@ Investor's Business Daily • 18h ago
 
 Coinbase Institutional forecasts a December bitcoin rally driven by improving global liquidity and potential Fed rate cuts, though hawkish central bank remarks could temper gains.
 
-Bitbo • 14h ago
+Bitbo • 15h ago
 
 ---
 
@@ -251,7 +251,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
-⬆️ 3 • 💬 0 • 15h ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 3 • 💬 0 • 16h ago • [GitHub](https://github.com/kladskull/xEroS)
 
 ---
 
@@ -265,7 +265,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 0 • 1h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 0 • 2h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -317,7 +317,7 @@ I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is W
 
 📺 Digital Asset News
 
-👁️ 20K • 👍 1K • 💬 133 • ⏱️ 21:52 • 22h ago
+👁️ 20K • 👍 1K • 💬 133 • ⏱️ 21:52 • 23h ago
 
 ---
 
@@ -327,7 +327,7 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 42K • 👍 3K • 💬 436 • ⏱️ 10:23 • 1d ago
+👁️ 42K • 👍 3K • 💬 436 • ⏱️ 10:23 • 2d ago
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin volatility is collapsing, institutions are flooding in, and the entire m
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 819 • 💬 181 • ⏱️ 40:36 • 23h ago
+👁️ 20K • 👍 819 • 💬 181 • ⏱️ 40:36 • 1d ago
 
 ---
 
