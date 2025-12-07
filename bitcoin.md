@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T23:43:45.824490+00:00'
+updated: '2025-12-07T23:54:48.610580+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 23:43 UTC  
+**Last Updated:** December 07, 2025 at 23:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** +4.2%  
-**30d:** -12.3%  
-**90d:** -19.5%  
-**1y:** -11.2%  
+**24h:** +0.7%  
+**7d:** +4.3%  
+**30d:** -12.2%  
+**90d:** -19.4%  
+**1y:** -11.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1788.78B
+**Market Cap:** $1799.66B
 Rank #1
 
-**Circulating Supply:** 19,959,006 BTC
+**Circulating Supply:** 19,959,031 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.9%
+-28.5%
 
 **All-Time Low:** $67.81
-+132174.0%
++132868.6%
 
 ---
 
@@ -77,19 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[MasterCard is Orange Pilled for 1 Billion Users](https://www.reddit.com/r/Bitcoin/comments/1pgenos/mastercard_is_orange_pilled_for_1_billion_users/)**
-
-1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
-
-13h ago
-
----
-
 **[Leverage pigs getting liquidated up and down.](https://www.reddit.com/r/Bitcoin/comments/1pgu6ig/leverage_pigs_getting_liquidated_up_and_down/)**
 
 Ngl I lowkey love to see it.
 
 2h ago
+
+---
+
+**[MasterCard is Orange Pilled for 1 Billion Users](https://www.reddit.com/r/Bitcoin/comments/1pgenos/mastercard_is_orange_pilled_for_1_billion_users/)**
+
+1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
+
+14h ago
 
 ---
 
@@ -101,7 +101,7 @@ Ngl I lowkey love to see it.
 
 **[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -115,13 +115,7 @@ Ngl I lowkey love to see it.
 
 Mastercard’s Crypto Card Program enables consumers to use their crypto cards to pay with crypto for everyday transactions across 100 million+ acceptance locations.
 
-🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 6h ago
-
----
-
-**[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
-
-16h ago
+🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 7h ago
 
 ---
 
@@ -129,7 +123,13 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 Some people on TV or online act like inflation is “not that bad” or even pretend it’s exaggerated. But regular people don’t need charts to know the truth. They see it when they: • check out at the grocery store • fill up their gas tank • pay rent • try to save • try to invest • try to raise a family We’re not imagining it. We’re living it. If your money buys less every year, that’s not a “hoax.” That’s the system working exactly as designed. Bitcoin wasn’t created because everything was fine it was created because inflation quietly destroys the middle and working class. People deserve honesty about what’s happening to their money. Silence helps no one. What signs of inflation hit you the hardest this year?
 
-2h ago
+3h ago
+
+---
+
+**[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
+
+16h ago
 
 ---
 
@@ -167,25 +167,25 @@ The Motley Fool • 3h ago
 
 ---
 
-**[Short-Term Bitcoin Holders Are Dominating Profits, But Will It Lead To Recovery?](https://finance.yahoo.com/news/short-term-bitcoin-holders-dominating-213800881.html)**
+**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://finance.yahoo.com/news/buy-bitcoin-dip-why-ric-165028778.html)**
 
-Bitcoin hovers near $91,000 as short-term holders dominate long-term holders in profits for first time in 30 months, shaping BTC’s breakout.
+Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 7h ago
+
+---
+
+**[Bitcoin Is Starting to Look Like a Digital Tulip](https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money)**
+
+It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
+
+Bloomberg.com • 1d ago
 
 ---
 
 **[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
 
 TheStreet • 2d ago
-
----
-
-**[Bitcoin Is Set for First Yearly Split From Stocks in a Decade](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-is-breaking-from-stock-rally-for-first-time-in-a-decade)**
-
-The S&amp;P 500 has climbed more than 16% in 2025, while Bitcoin is down 3% — the first time since 2014 that stocks have rallied while the token is down, according to data compiled by Bloomberg.
-
-Bloomberg.com • 2d ago
 
 ---
 
@@ -205,14 +205,6 @@ Forbes • 10h ago
 
 ---
 
-**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
-
-Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
-
-Decrypt • 6h ago
-
----
-
 **[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
 
 Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
@@ -221,11 +213,19 @@ Futurism • 1d ago
 
 ---
 
-**[Prediction: Bitcoin Will Hit $130,000 in 2026](https://www.nasdaq.com/articles/prediction-bitcoin-will-hit-130000-2026)**
+**[Bitcoin Is Set for First Yearly Split From Stocks in a Decade](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-is-breaking-from-stock-rally-for-first-time-in-a-decade)**
 
-Key PointsBitcoin's prior all-time high was more than $126,000.
+The S&amp;P 500 has climbed more than 16% in 2025, while Bitcoin is down 3% — the first time since 2014 that stocks have rallied while the token is down, according to data compiled by Bloomberg.
 
-Nasdaq • 19h ago
+Bloomberg.com • 2d ago
+
+---
+
+**[With Bitcoin Falling, Is Strategy Stock in Trouble?](https://finance.yahoo.com/news/bitcoin-falling-strategy-stock-trouble-210500007.html)**
+
+It would be pretty miraculous if Strategy's stock were doing well right now.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -325,7 +325,7 @@ A Fed takeover is brewing — and Bitcoin could be the winner. With Trump poised
 
 📺 Simply Bitcoin
 
-👁️ 6K • 👍 454 • 💬 129 • ⏱️ 24:30 • 5h ago
+👁️ 6K • 👍 454 • 💬 129 • ⏱️ 24:30 • 6h ago
 
 ---
 
