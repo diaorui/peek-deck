@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T19:53:15.592045+00:00'
+updated: '2025-12-07T20:16:28.325221+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 19:53 UTC  
+**Last Updated:** December 07, 2025 at 20:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Explore the true history of convolutional neural networks, from Fukushima’s neocognitron to modern CNNs and LeCun’s influential work.
 
-🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 5h ago
+🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 6h ago
 
 ---
 
@@ -53,11 +53,9 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 ---
 
-**[ChatGPT is blind to bad science](https://www.reddit.com/r/artificial/comments/1pgq3c1/chatgpt_is_blind_to_bad_science/)**
+**[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
 
-A new study finds ChatGPT fails to take into account retraction notices across a wide range of research.
-
-🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 1h ago
+🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 5h ago
 
 ---
 
@@ -69,9 +67,11 @@ Just did this myself, and now sharing for others! I have ChatGPT Plus, and when 
 
 ---
 
-**[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
+**[ChatGPT is blind to bad science](https://www.reddit.com/r/artificial/comments/1pgq3c1/chatgpt_is_blind_to_bad_science/)**
 
-🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 5h ago
+A new study finds ChatGPT fails to take into account retraction notices across a wide range of research.
+
+🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 1h ago
 
 ---
 
@@ -79,7 +79,7 @@ Just did this myself, and now sharing for others! I have ChatGPT Plus, and when 
 
 I spent the week diagramming the full path documents take through my RAG system. Visualizing it clarified something I’d been feeling for a while. Most retrieval issues don’t start at retrieval. They start much earlier. The moment ingestion or segmentation shifts, everything downstream looks inconsistent even when the model and database stay the same. What stood out was how much reliability improves once the upstream steps become deterministic. Versioning, canonical text, consistent chunk boundaries, and metadata checks made a far bigger impact than changing models. If you were to visualize your pipeline, which step do you think would reveal the most drift?
 
-27m ago
+50m ago
 
 ---
 
@@ -103,7 +103,7 @@ Could AI help us create virtual human cells? 🦠 Scientists are training AI to 
 
 Calls for review after technology found to return more false positives for ‘some demographic groups’ on certain settings
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 12h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 13h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Guardian • 1d ago
 
 **[Opinion | Is AI Making Us Dumb?](https://www.wsj.com/opinion/is-ai-making-us-dumb-21ea8e39?gaa_at=eafs&gaa_n=AWEtsqeDpdGIdmWiB9KwmIHs5BuBamCHGR3MeXo84TMHUoPszCyoyNKoEDDR&gaa_ts=6935de93&gaa_sig=vAyg0yp6aVFRwVNcHnz3uPGylkMyNPSF0CHAuUjK3741AFoL3f1kerUe1YHtVR4yJffQMgfpCYbKeTAzARziXw%3D%3D)**
 
-The Wall Street Journal • 58m ago
+The Wall Street Journal • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ The Wall Street Journal • 58m ago
 
 A number of executives are departing Apple. At least some of them are related to its AI strategy.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Wall Street Journal • 9h ago
 
 Wall Street’s sentiment toward companies associated with artificial intelligence is shifting, and it’s all about two companies: OpenAI is down, and Alphabet Inc. is up.
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -199,7 +199,7 @@ Fortune • 1d ago
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 555 • 💬 285 • 2d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 556 • 💬 285 • 2d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
@@ -207,7 +207,13 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 403 • 💬 223 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 404 • 💬 225 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+
+---
+
+**[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
+
+⬆️ 267 • 💬 86 • 7h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -216,12 +222,6 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
 
 ⬆️ 249 • 💬 204 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
-
----
-
-**[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
-
-⬆️ 245 • 💬 78 • 7h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -265,9 +265,9 @@ Wall Street lends billions to AI companies while using credit derivatives and so
 
 ---
 
-**[The AI Wildfire Is Coming. It's Going to Be Painful and Healthy](https://news.ycombinator.com/item?id=46183011)**
+**[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 50 • 💬 54 • 3h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 56 • 💬 65 • 3h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -281,7 +281,7 @@ Big Tech is racking up debt to fund their AI infrastructure for demand that seem
 
 📺 Vanessa Wingårdh
 
-👁️ 49K • 👍 5K • 💬 1K • ⏱️ 10:38 • 6h ago
+👁️ 49K • 👍 5K • 💬 1K • ⏱️ 10:38 • 7h ago
 
 ---
 
@@ -291,7 +291,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 9K • 👍 1K • 💬 181 • ⏱️ 15:03 • 3h ago
+👁️ 9K • 👍 1K • 💬 181 • ⏱️ 15:03 • 4h ago
 
 ---
 
@@ -421,7 +421,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 423 • 10h ago
+⬇️ 27,215 • ❤️ 423 • 11h ago
 
 ---
 
@@ -687,7 +687,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 827 • 🔱 43 • 12h ago
+⭐ 827 • 🔱 43 • 13h ago
 
 ---
 

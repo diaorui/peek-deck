@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T19:53:15.600828+00:00'
+updated: '2025-12-07T20:16:28.333587+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
+- videos
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 19:53 UTC  
+**Last Updated:** December 07, 2025 at 20:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
+**24h:** +2.3%  
 **7d:** +6.1%  
 **30d:** -10.7%  
 **90d:** -18.0%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1822.41B
+**Market Cap:** $1823.54B
 Rank #1
 
-**Circulating Supply:** 19,958,934 BTC
+**Circulating Supply:** 19,958,946 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.6%
+-27.5%
 
 **All-Time Low:** $67.81
-+134505.5%
++134651.5%
 
 ---
 
@@ -85,6 +85,12 @@ Rank #1
 
 ---
 
+**[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
+
+2h ago
+
+---
+
 **[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
 
 12h ago
@@ -99,15 +105,15 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 ---
 
-**[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
+**[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
 
-16h ago
+1h ago
 
 ---
 
-**[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
+**[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
 
-2h ago
+16h ago
 
 ---
 
@@ -123,25 +129,21 @@ Burnsish?
 
 Just doing my part to spread the word. If you're ever in NC and see one of these floating around, Matt was here.
 
-2h ago
+3h ago
 
 ---
 
-**[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
+**[When 2,000 Dormant Bitcoin Wake Up](https://www.reddit.com/r/Bitcoin/comments/1pgo5ze/when_2000_dormant_bitcoin_wake_up/)**
 
-15h ago
+Two early-era Bitcoin wallets, each holding ~1,000 BTC moved after 13+ years of complete inactivity. Most people interpret this as risk. It isn’t. Dormant coins don’t move because of fear or speculation. They move because wealth has crossed into structure: – key modernization – inheritance and legal clarity – custody transformation – multi-party continuity No exchange inflow, no forced selling, no market reaction. Price didn’t move…not because it’s irrelevant, but because the system is now deep enough to absorb it without distortion. This is how an asset crosses from narrative into adulthood. If you want to understand why this moment signals maturity rather than exit, read the full breakdown
+
+🔗 [coherenceledger.substack.com](https://coherenceledger.substack.com/p/when-2000-dormant-bitcoin-wake-up) • 2h ago
 
 ---
 
 **[What's holding us back?](https://www.reddit.com/r/Bitcoin/comments/1pge5ht/whats_holding_us_back/)**
 
 10h ago
-
----
-
-**[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
-
-40m ago
 
 ---
 
@@ -169,7 +171,7 @@ Futurism • 1d ago
 
 A $1.39 billion whale dump sparks Bitcoin whipsaw and mass liquidations as thin liquidity fuels volatility.
 
-Yahoo Finance • 38m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -177,7 +179,7 @@ Yahoo Finance • 38m ago
 
 France’s second-largest banking group BPCE will begin offering Bitcoin and major crypto purchases to customers starting Monday, with a phased rollout across ...
 
-FinTech Weekly • 1h ago
+FinTech Weekly • 2h ago
 
 ---
 
@@ -205,13 +207,13 @@ CNBC • 3d ago
 
 President Trump's latest national security strategy omits digital assets, focusing instead on AI, biotech, and quantum computing.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
 **[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -253,7 +255,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
-⬆️ 3 • 💬 0 • 18h ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 3 • 💬 0 • 19h ago • [GitHub](https://github.com/kladskull/xEroS)
 
 ---
 
@@ -267,7 +269,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 0 • 4h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 0 • 5h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -309,7 +311,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 4K • 👍 335 • 💬 69 • ⏱️ 10:04 • 2h ago
+👁️ 4K • 👍 335 • 💬 69 • ⏱️ 10:04 • 3h ago
 
 ---
 

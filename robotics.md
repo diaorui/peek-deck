@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T19:53:15.610285+00:00'
+updated: '2025-12-07T20:16:28.342772+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 19:53 UTC  
+**Last Updated:** December 07, 2025 at 20:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-8h ago
+9h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 An old picture. The progress is in the coding, and testing, and tuning of the hardware.
 
-4h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ic5I27NNIv0?si=ii4fyccs01D9m8qa) • 2h ago
+🔗 [youtu.be](https://youtu.be/ic5I27NNIv0?si=ii4fyccs01D9m8qa) • 3h ago
 
 ---
 
@@ -82,7 +82,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/adityabangde/BipedalWalker-PPO-STM32.git Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
 
-12h ago
+13h ago
 
 ---
 
@@ -148,7 +148,7 @@ Seeking Alpha • 2d ago
 
 **[Why AI and Robotics Are Now National Security Assets](https://etftrends.com/artificial-intelligence-content-hub/why-ai-robotics-national-security-assets/)**
 
-ETF Trends • 2d ago
+ETF Trends • 3d ago
 
 ---
 
@@ -164,7 +164,7 @@ CNN • 7h ago
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-South China Morning Post • 18h ago
+South China Morning Post • 19h ago
 
 ---
 
@@ -186,7 +186,7 @@ Investor's Business Daily • 2d ago
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
-CNET • 6h ago
+CNET • 7h ago
 
 ---
 
@@ -238,7 +238,7 @@ Unitree's latest demos reveal that kickboxing is no longer just for its smaller 
 
 📺 CNET
 
-👁️ 13K • 👍 411 • 💬 63 • ⏱️ 6:05 • 6h ago
+👁️ 13K • 👍 411 • 💬 63 • ⏱️ 6:05 • 7h ago
 
 ---
 
@@ -278,7 +278,7 @@ Midea Group, one of the world's largest home appliance manufacturers, just unvei
 
 📺 Kalil 4.0
 
-👁️ 859 • 👍 31 • 💬 4 • ⏱️ 0:27 • 2h ago
+👁️ 859 • 👍 31 • 💬 4 • ⏱️ 0:27 • 3h ago
 
 ---
 
