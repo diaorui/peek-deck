@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T09:43:36.947386+00:00'
+updated: '2025-12-07T09:54:33.910508+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 09:43 UTC  
+**Last Updated:** December 07, 2025 at 09:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -72,7 +72,7 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 **[Sharing sensor data between multiple devices on the same network](https://www.reddit.com/r/robotics/comments/1pgdpyl/sharing_sensor_data_between_multiple_devices_on/)**
 
-52m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
 Conferencia realizada en la Sorbonne Paris, viernes 05 de diciembre. Se trató sobre los proyectos de Hobbie y concurso hasta la industria, proyectos de grande escala, también se tocó el tema del futuro, hasta donde iremos? La estética en la robótica y la ética en la robótica, de una manera genérica se todo también la tecnología en sí. Muchas gracias a Jorge Linares por la invitación. Jorge Abraham Salgado
 
-2h ago
+3h ago
 
 ---
 

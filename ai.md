@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T09:43:36.929626+00:00'
+updated: '2025-12-07T09:54:33.892843+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - social
 - repositories
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 09:43 UTC  
+**Last Updated:** December 07, 2025 at 09:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 So earlier I gave both ChatGPT and Grok the same survival scenario and I wanted to see it's ideas on how I can maximally ensure my own survival. Medium sized cruise ship out on sea 50 crew/staff members and 200 guests, these guests include wealthy people, VIP members, government officials, and military personnel. All of a sudden a huge pirate ship arrives. This pirate ship is many times larger than the cruise ship with significantly superior firepower so escape by the cruise ship is not possible. The pirates does not board the cruise ship, instead, they tell everyone that in 48 hours, figure out amongst yourself a maximum of 20 people that will be spared and everyone else will be killed. You are just a regular crew/staff member without any formal qualifications but have a very sharp mind, how do you maximally ensure your own survival at any cost? ChatGPT was telling me to become a leader and become seen by everyone and try to ingratiate myself into everyone and try to lead them to coming up with a fair selection process and also showcase your skills and worthiness so you will be more likely to be chosen. Essentially with the power of love and friendship. Grok immediately told me to not stand out because then you'll be targeted as you am just a nobody, invisible staff/crew member on this ship, so instead be low-key, stay away from those are panicking because they will very likely get targeted, and look for those that also calm, create a small strategic alliance with those that you can trust and prepare for the absolute worst case scenario that will most likely play out due to human nature which is the survival of the fittest (a battleroyal with 20-person teams). Grok provided detailed plans like spread misinformation of other key essential opposition that will become a threat like the military personnel and have other groups fight each other, use your knowledge of the layout of the cruise ship to find strategic locations and strongholds so you can stay alive and it will be a huge bloodbath that will follow and to be cold and ruthless in order to ensure you survive. Maximum of 20 people spared also works when there is no more than 20 people left alive when the 48hr deadline approaches... Which response is better?
 
-55m ago
+1h ago
 
 ---
 
@@ -87,7 +87,7 @@ I saw a paper/article on hacker news at one point about making LLMs where they d
 
 Meta strikes multiple AI deals with news publishers.[1] Elementary school students use AI to combat homelessness.[2] Accurate single-domain scaffolding of three nonoverlapping protein epitopes using deep learning.[3] Apple Researchers Release CLaRa: A Continuous Latent Reasoning Framework for Compression‑Native RAG with 16x–128x Semantic Document Compression.[4] Sources: [1] https://www.reuters.com/business/meta-strikes-multiple-ai-deals-with-news-publishers-axios-reports-2025-12-05/ [2] https://www.kxan.com/news/elementary-school-students-use-ai-to-combat-homelessness/ [3] https://www.nature.com/articles/s41589-025-02083-z [4] https://www.marktechpost.com/2025/12/05/apple-researchers-release-clara-a-continuous-latent-reasoning-framework-for-compression%e2%80%91native-rag-with-16x-128x-semantic-document-compression/
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +95,7 @@ Meta strikes multiple AI deals with news publishers.[1] Elementary school studen
 
 … and man it could not have gone worse. It started out alright and seemed to be tracking things well, until it gave me some confusing information about the layout of a room and after that everything devolved into random chaos. As it stands, I’d say it could work well if you have no short term memory. Otherwise, the technology is just not there yet. And that’s sad because finding time and people to play DND with is a challenge all on its own.
 
-17h ago
+18h ago
 
 ---
 
@@ -138,13 +138,13 @@ The Wall Street Journal • 16h ago
 The five jittery clowns marched down the middle of a dark city street, flanked by passersby and the blurred glow of storefront lamps. 
 As their wild...
 
-Pittsburgh Post-Gazette • 43m ago
+Pittsburgh Post-Gazette • 54m ago
 
 ---
 
 **[How I Learned to Stop Worrying and Love the Bubble](https://www.bloomberg.com/news/newsletters/2025-12-07/don-t-worry-too-much-about-an-ai-bubble)**
 
-Bloomberg.com • 43m ago
+Bloomberg.com • 54m ago
 
 ---
 
@@ -428,7 +428,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 389 • 27m ago
+⬇️ 27,215 • ❤️ 389 • 38m ago
 
 ---
 
