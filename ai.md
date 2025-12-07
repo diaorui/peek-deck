@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T11:34:33.955131+00:00'
+updated: '2025-12-07T11:45:35.455775+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- social
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 11:34 UTC  
+**Last Updated:** December 07, 2025 at 11:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Calls for review after technology found to return more false positives for ‘so
 
 If you believe these CEOs will solve unemployment after AI replaces most of the human workers, this video is for you.
 
-17m ago
+28m ago
 
 ---
 
@@ -113,7 +113,7 @@ Geoffrey Hinton, an AI pioneer who previously worked at Google Brain, said it wa
 
 Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence on how Americans use AI, both personally and at work
 
-🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 17h ago
+🔗 [Brookings](https://www.brookings.edu/articles/how-are-americans-using-ai-evidence-from-a-nationwide-survey/) • 18h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Wall Street Journal • 18h ago
 
 **[Why Nvidia and other AI stocks have lost their 'quality' status](https://www.msn.com/en-us/money/markets/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status/ar-AA1RScyj?ocid=finance-verthp-feeds)**
 
-MSN • 41m ago
+MSN • 52m ago
 
 ---
 
@@ -289,7 +289,7 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Ge
 
 📺 BitBiasedAI
 
-👁️ 19K • 👍 623 • 💬 22 • ⏱️ 11:49 • 14h ago
+👁️ 19K • 👍 623 • 💬 22 • ⏱️ 11:49 • 15h ago
 
 ---
 

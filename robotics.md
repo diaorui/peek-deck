@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T11:34:33.972908+00:00'
+updated: '2025-12-07T11:45:35.473400+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 11:34 UTC  
+**Last Updated:** December 07, 2025 at 11:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-26m ago
+37m ago
 
 ---
 
@@ -88,7 +88,7 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
-15h ago
+16h ago
 
 ---
 
@@ -184,7 +184,7 @@ KTVB • 1d ago
 
 The MobED is a new product from Hyundai’s Robotics LAB, pitched at last-mile delivery and industrial applications
 
-wallpaper.com • 34m ago
+wallpaper.com • 45m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T11:34:33.963580+00:00'
+updated: '2025-12-07T11:45:35.464114+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 11:34 UTC  
+**Last Updated:** December 07, 2025 at 11:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -93,7 +93,7 @@ Rank #1
 
 **[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -101,13 +101,13 @@ Rank #1
 
 Burnsish?
 
-14h ago
+15h ago
 
 ---
 
 **[It is funny how true is this...](https://www.reddit.com/r/Bitcoin/comments/1pgfjhq/it_is_funny_how_true_is_this/)**
 
-47m ago
+58m ago
 
 ---
 
@@ -215,7 +215,7 @@ Investor's Business Daily • 13h ago
 
 Key PointsStrategy does its business by issuing debt or equity to buy Bitcoin.
 
-Nasdaq • 13h ago
+Nasdaq • 14h ago
 
 ---
 
