@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T19:20:05.906702+00:00'
+updated: '2025-12-07T19:30:45.577579+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 19:20 UTC  
+**Last Updated:** December 07, 2025 at 19:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.1%  
-**7d:** +11.9%  
-**30d:** -8.0%  
-**90d:** -27.4%  
-**1y:** -21.9%  
+**24h:** +2.9%  
+**7d:** +11.6%  
+**30d:** -8.2%  
+**90d:** -27.6%  
+**1y:** -22.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $378.73B
+**Market Cap:** $377.21B
 Rank #2
 
 **Circulating Supply:** 120,695,408 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.7%
+-36.8%
 
 **All-Time Low:** $0.43
-+723313.8%
++722202.9%
 
 ---
 
@@ -198,7 +198,7 @@ The Block • 2d ago
 
 Ethereum could be once again on the path to the $5,000 price level. Here's why.
 
-The Motley Fool • 10m ago
+The Motley Fool • 20m ago
 
 ---
 
@@ -246,7 +246,7 @@ BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 8K • 👍 333 • 💬 82 • ⏱️ 17:05 • 8h ago
+👁️ 8K • 👍 333 • 💬 82 • ⏱️ 17:05 • 9h ago
 
 ---
 
@@ -276,7 +276,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 2K • 💬 395 • ⏱️ 11:32 • 21h ago
+👁️ 57K • 👍 2K • 💬 395 • ⏱️ 11:32 • 22h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T19:20:05.910021+00:00'
+updated: '2025-12-07T19:30:45.580911+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 19:20 UTC  
+**Last Updated:** December 07, 2025 at 19:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,6 +46,14 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 ---
 
+**[MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control](https://www.reddit.com/r/robotics/comments/1pgpipx/mimickit_a_reinforcement_learning_framework_for/)**
+
+Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
+
+1h ago
+
+---
+
 **[Big update: Robert now supports full ChatGPT embodiment. You can switch seamlessly between manual and AI control, and I’ll be releasing the entire system as open source soon. When the coding is done, I will finish connecting the left arm, and show how he is assembled from modules.](https://www.reddit.com/r/robotics/comments/1pgkrgx/big_update_robert_now_supports_full_chatgpt/)**
 
 An old picture. The progress is in the coding, and testing, and tuning of the hardware.
@@ -62,27 +70,19 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 ---
 
-**[I deployed a PPO-trained Bipedal Walker neural network on an STM32 microcontroller 🤖⚡ (full pipeline + code)](https://www.reddit.com/r/robotics/comments/1pgc7uw/i_deployed_a_ppotrained_bipedal_walker_neural/)**
-
-I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/adityabangde/BipedalWalker-PPO-STM32.git Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
-
-12h ago
-
----
-
-**[MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control](https://www.reddit.com/r/robotics/comments/1pgpipx/mimickit_a_reinforcement_learning_framework_for/)**
-
-Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
-
-52m ago
-
----
-
 **[I Unboxed a $25,000 ROBOT HAND for My G1… This Is INSANE! | Inspire RH56F1 Review](https://www.reddit.com/r/robotics/comments/1pgnpfr/i_unboxed_a_25000_robot_hand_for_my_g1_this_is/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
 🔗 [youtu.be](https://youtu.be/ic5I27NNIv0?si=ii4fyccs01D9m8qa) • 2h ago
+
+---
+
+**[I deployed a PPO-trained Bipedal Walker neural network on an STM32 microcontroller 🤖⚡ (full pipeline + code)](https://www.reddit.com/r/robotics/comments/1pgc7uw/i_deployed_a_ppotrained_bipedal_walker_neural/)**
+
+I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/adityabangde/BipedalWalker-PPO-STM32.git Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
+
+12h ago
 
 ---
 
@@ -270,7 +270,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 7K • 👍 70 • 💬 1 • ⏱️ 0:25 • 9h ago
+👁️ 7K • 👍 70 • 💬 1 • ⏱️ 0:25 • 10h ago
 
 ---
 
@@ -280,7 +280,7 @@ After months of buildup, the Shenzhen startup EngineAI is taking orders for its 
 
 📺 Kalil 4.0
 
-👁️ 4K • 👍 128 • 💬 13 • ⏱️ 0:59 • 13h ago
+👁️ 4K • 👍 128 • 💬 13 • ⏱️ 0:59 • 14h ago
 
 ---
 

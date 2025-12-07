@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T19:20:05.900657+00:00'
+updated: '2025-12-07T19:30:45.571471+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 19:20 UTC  
+**Last Updated:** December 07, 2025 at 19:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
+**24h:** +2.2%  
 **7d:** +6.2%  
 **30d:** -10.6%  
 **90d:** -17.9%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1825.42B
+**Market Cap:** $1822.41B
 Rank #1
 
 **Circulating Supply:** 19,958,934 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.5%
+-27.6%
 
 **All-Time Low:** $67.81
-+134695.8%
++134505.5%
 
 ---
 
@@ -91,17 +91,23 @@ Rank #1
 
 ---
 
-**[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
-
-15h ago
-
----
-
 **[Mastercard lets consumers make everyday purchases with Crypto Cards](https://www.reddit.com/r/Bitcoin/comments/1pgn1q4/mastercard_lets_consumers_make_everyday_purchases/)**
 
 Mastercard’s Crypto Card Program enables consumers to use their crypto cards to pay with crypto for everyday transactions across 100 million+ acceptance locations.
 
 🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 2h ago
+
+---
+
+**[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
+
+16h ago
+
+---
+
+**[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
+
+1h ago
 
 ---
 
@@ -113,17 +119,17 @@ Burnsish?
 
 ---
 
-**[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
-
-14h ago
-
----
-
 **[BTC vs FRN](https://www.reddit.com/r/Bitcoin/comments/1pgnm34/btc_vs_frn/)**
 
 Just doing my part to spread the word. If you're ever in NC and see one of these floating around, Matt was here.
 
 2h ago
+
+---
+
+**[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
+
+14h ago
 
 ---
 
@@ -133,15 +139,9 @@ Just doing my part to spread the word. If you're ever in NC and see one of these
 
 ---
 
-**[Still hodling on!!!](https://www.reddit.com/r/Bitcoin/comments/1pgct69/still_hodling_on/)**
+**[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
 
-11h ago
-
----
-
-**[Trying to withdraw $50,000 from the bank](https://www.reddit.com/r/Bitcoin/comments/1pfjb3f/trying_to_withdraw_50000_from_the_bank/)**
-
-1d ago
+17m ago
 
 ---
 
@@ -309,7 +309,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 2K • 💬 395 • ⏱️ 11:32 • 21h ago
+👁️ 57K • 👍 2K • 💬 395 • ⏱️ 11:32 • 22h ago
 
 ---
 
@@ -369,7 +369,7 @@ BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 8K • 👍 333 • 💬 82 • ⏱️ 17:05 • 8h ago
+👁️ 8K • 👍 333 • 💬 82 • ⏱️ 17:05 • 9h ago
 
 ---
 
