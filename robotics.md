@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T17:31:20.204878+00:00'
+updated: '2025-12-07T17:43:09.225214+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 17:31 UTC  
+**Last Updated:** December 07, 2025 at 17:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -196,47 +196,27 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 16K • 👍 349 • 💬 164 • ⏱️ 4:05 • 2d ago
+👁️ 16K • 👍 357 • 💬 166 • ⏱️ 4:05 • 2d ago
 
 ---
 
-**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
+**[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
 
-After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
+Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
+
+📺 MarketBeat
+
+👁️ 27K • 👍 970 • 💬 75 • ⏱️ 24:47 • 1d ago
+
+---
+
+**[Midea&#39;s 6-Armed Super Humanoid Robot #humanoidrobot #robot #robotics #airobot #industry40](https://www.youtube.com/watch?v=NxTSXMF6cXk)**
+
+Midea Group, one of the world's largest home appliance manufacturers, just unveiled its new six-armed humanoid robot, Miro U.
 
 📺 Kalil 4.0
 
-👁️ 4K • 👍 118 • 💬 13 • ⏱️ 0:59 • 12h ago
-
----
-
-**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
-
-AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
-
-📺 AI Robot Lab
-
-👁️ 5K • 👍 41 • ⏱️ 0:25 • 8h ago
-
----
-
-**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
-
-The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
-
-📺 DPCcars
-
-👁️ 37K • 👍 258 • 💬 80 • ⏱️ 1:03 • 1d ago
-
----
-
-**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
-
-Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
-
-📺 Fin Tek
-
-👁️ 58K • 👍 2K • 💬 192 • ⏱️ 21:31 • 1d ago
+👁️ 519 • 👍 17 • 💬 1 • ⏱️ 0:27 • 44m ago
 
 ---
 
@@ -246,7 +226,17 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 84K • 👍 2K • 💬 369 • ⏱️ 12:07 • 1d ago
+👁️ 85K • 👍 2K • 💬 369 • ⏱️ 12:07 • 1d ago
+
+---
+
+**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
+
+The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
+
+📺 DPCcars
+
+👁️ 45K • 👍 299 • 💬 107 • ⏱️ 1:03 • 1d ago
 
 ---
 
@@ -256,35 +246,47 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 73K • 👍 584 • 💬 276 • ⏱️ 2:30 • 4d ago
+👁️ 74K • 👍 587 • 💬 276 • ⏱️ 2:30 • 4d ago
 
 ---
 
-**[Purchased the newly released 2025 humanoid robot. #robotics #ai #humanoidrobot #airobot](https://www.youtube.com/watch?v=NJeenJ276ug)**
+**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
 
-📺 AI . Robot
+Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
 
-👁️ 1.4M • 👍 8K • 💬 45 • ⏱️ 0:17 • 3d ago
+📺 Fin Tek
 
----
-
-**[This Isn&#39;t Your Typical Humanoid Robot](https://www.youtube.com/watch?v=NjwgtvVPy04)**
-
-Memo is a wheeled home robot from Sunday Robotics, a Mountain View startup founded by Stanford PhDs Tony Zhao and Cheng ...
-
-📺 Game of Tomorrow
-
-👁️ 210K • 👍 8K • 💬 496 • ⏱️ 0:55 • 1d ago
+👁️ 60K • 👍 2K • 💬 200 • ⏱️ 21:31 • 1d ago
 
 ---
 
-**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
+**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
 
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
 
-📺 Julia McCoy
+📺 AI Robot Lab
 
-👁️ 72K • 👍 4K • 💬 531 • ⏱️ 19:33 • 1d ago
+👁️ 7K • 👍 70 • 💬 1 • ⏱️ 0:25 • 8h ago
+
+---
+
+**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
+
+After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
+
+📺 Kalil 4.0
+
+👁️ 4K • 👍 128 • 💬 13 • ⏱️ 0:59 • 12h ago
+
+---
+
+**[China&#39;s humanoid robotics leap: new T800 unveiled](https://www.youtube.com/watch?v=wbLl3aSOzoc)**
+
+For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-new-T800-unveiled-1INHjYVbHGM/p.html ...
+
+📺 CGTN
+
+👁️ 104K • 💬 634 • ⏱️ 1:21 • 4d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T17:31:20.201572+00:00'
+updated: '2025-12-07T17:43:09.221852+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 17:31 UTC  
+**Last Updated:** December 07, 2025 at 17:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.6%  
-**7d:** +10.7%  
-**30d:** -8.9%  
-**90d:** -28.1%  
-**1y:** -22.7%  
+**24h:** +2.9%  
+**7d:** +11.6%  
+**30d:** -8.2%  
+**90d:** -27.6%  
+**1y:** -22.1%  
 
 ---
 
@@ -96,7 +96,7 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 This is Part Eight! The very last chapter of the eight-part series: Can I Pay With This: A stablecoin experiment in Buenos Aires (finally!). Thank you to the Ethereum Foundation and the EV Mavericks for their support, without which this experiment could never have happened. Table of Contents Part One: Decentralized or Destitute <-- New? Start here. Money, monkeys and mild terror Part Two: First Contact with Reality KYC on a hostel bunk bed Part Three: WE ACCEPT BITCOIN (sort of) Worst title for an Ethereum subreddit ever Part Four: Eighteen Ways to Pay for Ice Cream Stablecoins, FX hell and a missing keyboard Part Five: Going Bankless From tourist shop hack to cueva contact Part Six: Trustless, My Ass Trading with the Blue Man Part Seven: Custodial Services Self-custody is easy, luggage custody is hard Part Eight: Apparently I Did It Wrong <-- You are here "You should have just used X, bro." When I get back to Buenos Aires, suddenly everyone is talking about crypto adoption. It's a week before the conference and people are exchanging tips. "You can trade USDT for pesos at any exchange," people tell me knowingly. "Where, exactly?" Not a single one of them is able to give me a location. There are exchange houses, they say with a bit of hand waving. Just look for USDT stickers on the window along with the dollar and euro currency symbols. When I point out that I've been here for three weeks and not seen a single one, I'm told it's because I was staying in the wrong part of Buenos Aires. "Go to Palermo, they are everywhere." I go to Palermo. They are definitely not everywhere. I ask at an exchange, in case there just isn't a sign. No: no cripto. I ask other conference goers if they've seen any exchanges that take USDT. No one has. A few days later, one person in the conference Telegram group sends a photograph of an exchange that takes USDT. Success! The sign is explicit though: TRON only. I don't bother visiting. At the cypherpunk conference, I speak to a Buenos Aires resident who refuses to do KYC on principle. I can't think of another city where you could exist without KYC. But when I point out how complicated I've found it to trade stablecoins for cash, he is surprised. Initially he says that the exchanges are everywhere but accepts my lived experience, that I never found a single one. He laughs when I tell him how frightened I was to meet with Blue. It's perfectly safe, he tells me. And yes, delivering the money through a man on a motorbike is common, although he concedes that maybe not on the first trade. But for visitors to the country, foreigners, doesn't he think that it's a bigger risk? I feel like even asking the question is making myself a target. "That's what community is for," he tells me. "You ask your friends, you get told where to go." Friends? Not only do I have to dodge scammers, guard seed phrases and pretend I understand half the apps I'm using. Now I have to have friends? OK... I do have friends, technically. But the Venn diagram of "people who like me", "people who use crypto" and "people who understand Argentina's financial underworld" is just three circles in the shape of a snowman. He takes a bit of a breath, as if summoning patience, and tells me that the point is to trust the community. Ask on Twitter! Twitter? That same Twitter that told me I don't need cash in Buenos Aires? That's who he thinks I should ask? He agrees that maybe Twitter isn't the best example of a web of trust. But really, trading with someone like Blue is very safe, he tells me, and borderline accuses me of having trust issues. He might have a point. A herd of new payment apps explodes onto the scene in the week leading up to the conference. I keep putting $20 into each app's wallet and hoping I remember to pull it all back out at the end. I pay using stablecoin cards and QR payment systems all over the city. Mostly cards and QR payments, where you pay in stablecoins and the vendor receives pesos. One very clever app pushes daily updates as they on-board restaurants all over the city, making an actual peer-to-peer system where the merchant receives my stablecoins directly, without conversion. By the time I leave Buenos Aires, they've signed up over two dozen cafés and restaurants. The first QR-payment app that I installed has a big breakthrough during the conference: integration with a set of ATMs allowing the user to withdraw cash. Another QR-based app ticks all my boxes: they connect me directly to buyers; I tell them how many USDT I need to pay my bill and once someone agrees to the purchase, I scan the QR code and they pay the merchant on my behalf. There's no KYC and no permission needed, just an online marketplace which works amazingly well. Meanwhile, all conference attendees are given a newbie-friendly wallet built into the Devconnect app, which allows them to pay for everything at the conference using stablecoins or crypto, no need for pesos at all. These innovative approaches can only flourish in certain environments. Someone commented that Buenos Aires was perfectly positioned to be Ground Zero for crypto adoption. I agree. Maybe stablecoins aren’t a revolution here, but they are already accepted as another tool in the box. The big difference was that my community had arrived. Devconnect 2025 had brought thousands of people to a conference hall in Buenos Aires to talk about exactly these problems and to offer solutions. Obviously, physical exchanges that take USDT do exist. Once you find one, never again will you have to peer into shop windows looking like an orphan on Christmas Eve. There's an active P2P community centered around Binance. Motorbike couriers with envelopes of money are apparently an accepted part of local finance, even if I declined to partake. People don't flinch when you mention crypto. That's more than I can say for my hometown. Whatever comes next won’t be clean or ideological. It’ll look like Buenos Aires: improvised, relentless, and somehow functioning against the odds. In the end, I proved that it is possible to deal with day-to-day life using stablecoins, if not in a wholly decentralized and permissionless manner. With more local knowledge, I could mostly live on stablecoins without KYC, by converting to cash and being choosy about which shops and restaurants I frequented. No, the people of Buenos Aires do not use stablecoins for transactions on a daily basis. There is clearly very little mainstream adoption of crypto payments. Right now, the main advantage of stablecoin apps and payment systems in Buenos Aires is that last-minute conversion to traditional rails and pesos. But even that is a jump forward. The infrastructure exists. The current regulatory space allows for experimentation. People are already aware of the benefits of holding savings in stablecoin. The QR payment system is standardized, waiting to be plugged into. Developers are building, not debating whether to start. Call it early adoption, call it survival instinct. Whatever it is, Buenos Aires is ready long before anyone else is. Right now, they are not using Ethereum for their financial freedom. But they could. Buenos Aires isn’t running on stablecoins yet. But if any city decides to, it’ll be this one. This was an EVMavericks production.
 
-29m ago
+41m ago
 
 ---
 
@@ -104,7 +104,7 @@ This is Part Eight! The very last chapter of the eight-part series: Can I Pay Wi
 
 This is Part Seven of the eight-part series: Can I Pay With This: A stablecoin experiment in Buenos Aires. Thank you to the Ethereum Foundation and the EV Mavericks for their support, without which this experiment could never have happened. Table of Contents Part One: Decentralized or Destitute <-- New? Start here. Money, monkeys and mild terror Part Two: First Contact with Reality KYC on a hostel bunk bed Part Three: WE ACCEPT BITCOIN (sort of) Worst title for an Ethereum subreddit ever Part Four: Eighteen Ways to Pay for Ice Cream Stablecoins, FX hell and a missing keyboard Part Five: Going Bankless From tourist shop hack to cueva contact Part Six: Trustless, My Ass Trading with the Blue Man Custodial Services <-- You are here Having successfully beaten my Decentralized or Destitute challenge with my dignity mostly intact, I consider fleeing Buenos Aires before Microcentro rewires my nervous system. I'm dangerously close to falling in love with the city but that might just be a side effect of the long-term exposure to exhaust and capybara memes. I find a cheap flight to Jujuy. My brain floods with visions of hiking in the Andes with my pockets full of pesos. I'll drink some wine, I'll pet a llama, maybe I'll even do some writing. But traditional finance fails me. The airline refuses my cards. All of them. Cryptocards, debit cards, credit card from a reputable European bank. Declined and denied with a vague error and a customer service bot which repeatedly tells me that foreign cards are not a problem and I should check that I entered my card details correctly. I have half a dozen new apps on my phone to pay with stablecoins. I've gone through the KYC and been accepted for most of them, so that I can test them one-by-one. Mostly they work well. I don't even need to put money in them in advance; once I know what I want to buy, I can quickly move stablecoins into the app and they appear immediately. But the apps are no use to me for paying for online purchases; I need a person with a terminal generating a QR code to use them. There's third-party aggregator that looks like it scraped the flight off of Google but actually allows me to pay for the flight. Just one catch: no luggage. Not even a carry on. They suggest that I buy extras separately, from the airline that cannot manage a card transaction. Fine. I don't need luggage. I strip my belongings down to the essentials. There's a storage company that operates on some sort of decentralized custody protocol for personal belongings. You book online, get the address of a location somewhere in your chosen neighbourhood, and give them all of your earthly possessions. My assigned drop point is a phone shop in San Telmo, crammed with AI-art cases and knockoff chargers. I give them my number and hand them my suitcase. All I can do is trust that the shop is still here when I return. I take the bus to the airport wearing three layers of clothing, a spare set of underwear shoved into my handbag. I have both phones, Kindle, tablet and keyboard and a tangle of cables tucked into my hoodie pockets, looking like one of those street vendors who open up their coat and show you a wide range of goods. At the airport, I unpack everything to pass through security. I need three trays. After I pack myself back up, a man with a wand points out that I have a cable trailing behind me. At the gate, the Argentines start forming a queue an hour before boarding, pure social contract magic. I stay seated like a savage until I see our plane pull up to the gate and dump its last cargo of tourists and gauchos. I squish into the middle seat and try to keep my hoodie spilling over the sides, redistributing items until I finally get the seatbelt over my middle. I do not exhale for the entire two hour flight. The airport is not in San Salvador and the bus to Tilcara, my chosen destination, is. I purchase a shuttle ticket and wait outside to stand in the rain until it is full and we are ready to go. The bus station is impossibly clean and bright. A woman at an information booth appears improbably happy to see me, checks the time and tells me which bus company has a bus leaving next which will stop at Ticara. The woman at the bus company is less happy to see me but, after realizing that I blatantly don't have a clue what I am doing, writes helpful notes in the margins of my ticket: bus will arrive in 40 minutes, somewhere between bay 08 and 13, it will say Humahuaca on the front and Evelia on the side. I ask if they take QR payments. She points out that there is a 10% discount for cash for the ticket. I pay cash. Forty minutes later, I wedge myself into my bus seat, attempting to take off my hoodie in a way that does not tip all of my electronics on the floor. And then we drive. The windows fog up and all I can see outside is black rain. I am desperate not to fall asleep and end up in some abandoned village where they've never heard of Ethereum or vowels. It's past eleven when the bus pulls into Tilcara. A cracked parking lot. A couple of guys loitering with intent. I check my phone: a 25-minute walk to the hostel, which I had glibly told the hostel would be easy as I have no bags. The air is thin and every road heads uphill. I can't find any street signs. The paved road quickly deteriorates into a dirt track. Shop shutters rattle closed as I walk past. When I manage to make eye contact with anyone, I get a dead stare. Every time I check my phone map, it tells me that I've gone the wrong way. Again. I should have stayed in Buenos Aires, I think. I loved every millimeter of Buenos Aires. People mostly smiled at me, said hello. There were coffee shops and restaurants and street lights. Here, there's just dirt and altitude. Defiantly, I mutter buenas noches under my breath at the next person coming towards me. She nods, replies. Shit. Am I supposed to be greeting people? Two turns from my hostel, the road dips downhill. Somewhere along the way, I climbed up a hill I didn't need to. I curse the Andean gods and keep walking. Finally, I arrive, punch in the code, and crash into my bed. It's midnight. I sleep like the dead. And then, morning. It's like someone rewired Tilcara overnight. It's beautiful. Still dusty and crumbling but golden in the morning light with misty black and red mountains creating a backdrop that looks like a motivational poster. I discover that street signs do exist, just not where you'd expect, hand painted onto walls and fences at random heights as you walk down the road. I scan the restaurant chalkboards, making mental lists of all the dishes I want to try, then pause, not quite emotionally ready to consider Llama al Malbec for my special evening meal. Maybe tomorrow. The locals have stern faces carved from stone until I whisper buen día, at which point they smile and greet me. I try it louder. Everyone seems happy to see me. Some even ask que tál?, how are you?, and actually seem to expect an answer. I respond with a slump and a wheeze, universal code for every road in this town is uphill and I am dying. I am met with laughter, sympathy and one invitation to a cold beer (I should have said yes). The hotel also gives a 10% discount for paying in cash, so I use up the rest of the pesos from Blue. I ask the woman if she knows where I can buy pesos in Tilcara. There are two Western Unions in town and a gift shop called Native Art who will exchange dollars for pesos. But what about stablecoins? She stares at me blankly. Never mind, I tell her. It doesn't matter anymore. And it really doesn't. Jump straight to the conclusion! Apparently I Did It Wrong ("You should have just used X, bro.")
 
-19h ago
+20h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 2d ago
 
 **[Ethereum or Solana: ‘One Crypto Could Outperform in 2026,’ Says Investor](https://www.tipranks.com/news/ethereum-or-solana-one-crypto-could-outperform-in-2026-says-investor)**
 
-TipRanks • 3h ago
+TipRanks • 4h ago
 
 ---
 
@@ -232,13 +232,23 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Bitcoin and Ethereum Price Update | Are We Really Safe?](https://www.youtube.com/watch?v=8d6meQoAnZE)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 926 • 👍 143 • 💬 29 • ⏱️ 8:01 • 42m ago
+
+---
+
 **[BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Sp9UCKJM-ck)**
 
 BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
 
 📺 Crypto World
 
-👁️ 6K • 👍 287 • 💬 74 • ⏱️ 17:05 • 7h ago
+👁️ 8K • 👍 333 • 💬 82 • ⏱️ 17:05 • 7h ago
 
 ---
 
@@ -248,7 +258,17 @@ LIMITED TIME: 50% deposit bonus on first $10000 - (sign up on CoinW): ...
 
 📺 Altcoin Daily
 
-👁️ 106K • 👍 5K • 💬 512 • ⏱️ 11:16 • 2d ago
+👁️ 107K • 👍 5K • 💬 513 • ⏱️ 11:16 • 2d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=1go3-x_YWuk)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 847 • 👍 99 • 💬 6 • ⏱️ 4:06 • 1h ago
 
 ---
 
@@ -258,27 +278,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 2K • 💬 390 • ⏱️ 11:32 • 20h ago
-
----
-
-**[Liquidity is BACK! HUGE ETH / BMNR Rally SOON](https://www.youtube.com/watch?v=JBHPbNjci7w)**
-
-BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
-
-📺 Tevis
-
-👁️ 18K • 👍 972 • 💬 189 • ⏱️ 36:53 • 20h ago
-
----
-
-**[Ethereum Fusaka Upgrade Is HERE!! Is ETH About To EXPLODE!?](https://www.youtube.com/watch?v=rYEgr3YN-qI)**
-
-While everyone watched Bitcoin break resistance, Ethereum quietly shipped Fusaka — a live upgrade that radically improves ...
-
-📺 Coin Bureau
-
-👁️ 49K • 👍 2K • 💬 155 • ⏱️ 17:37 • 3d ago
+👁️ 57K • 👍 2K • 💬 395 • ⏱️ 11:32 • 20h ago
 
 ---
 
@@ -288,17 +288,17 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Guitar Repair@StringTech
 
-👁️ 5K • 👍 3K • 10h ago
+👁️ 10K • 👍 3K • 10h ago
 
 ---
 
-**[Tom Lee: The Crypto SUPERCYCLE Is Still Alive... &amp; Ethereum Is Going to LEAD!](https://www.youtube.com/watch?v=PtCcS9c-GP4)**
+**[Liquidity is BACK! HUGE ETH / BMNR Rally SOON](https://www.youtube.com/watch?v=JBHPbNjci7w)**
 
-Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why he believes the crypto supercycle is still ...
+BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
 
-📺 Binance
+📺 Tevis
 
-👁️ 98K • 👍 3K • 💬 499 • ⏱️ 27:33 • 2d ago
+👁️ 18K • 👍 1K • 💬 214 • ⏱️ 36:53 • 21h ago
 
 ---
 
@@ -308,27 +308,27 @@ The Fusaka upgrade hit the Ethereum mainnet on Wednesday. It's working as it was
 
 📺 Altcoin Buzz
 
-👁️ 3K • 👍 154 • 💬 181 • ⏱️ 9:21 • 2d ago
+👁️ 3K • 👍 156 • 💬 179 • ⏱️ 9:21 • 2d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=upL0gqEO3HQ)**
+**[Tom Lee: The Crypto SUPERCYCLE Is Still Alive... &amp; Ethereum Is Going to LEAD!](https://www.youtube.com/watch?v=PtCcS9c-GP4)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Wall Street legend Tom Lee joins Binance Blockchain Week 2025 to break down why he believes the crypto supercycle is still ...
 
-📺 More Crypto Online
+📺 Binance
 
-👁️ 3K • 👍 201 • 💬 11 • ⏱️ 5:03 • 23h ago
+👁️ 99K • 👍 3K • 💬 501 • ⏱️ 27:33 • 2d ago
 
 ---
 
-**[Why $BMNR Might Own 5% of All Ethereum: What That Means for ETH Holders (The &quot;Alchemy&quot; Secret)](https://www.youtube.com/watch?v=vFen_16QU3M)**
+**[Tom Lee - &quot;Biggest Crypto Reset EVER&quot; | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=0T4wVBhaO6s)**
 
-Why $BMNR Might Own 5% of All Ethereum: What That Means for ETH Holders Most investors missed the most important line in ...
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
 
-📺 Wall Street Stockcast
+📺 Library Of Wealth
 
-👁️ 124 • 👍 3 • ⏱️ 7:18 • 21h ago
+👁️ 24K • 👍 533 • 💬 391 • ⏱️ 15:38 • 2d ago
 
 ---
 

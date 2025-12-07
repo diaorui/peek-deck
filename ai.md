@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T17:31:20.187189+00:00'
+updated: '2025-12-07T17:43:09.207270+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 17:31 UTC  
+**Last Updated:** December 07, 2025 at 17:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -109,7 +109,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 I saw a paper/article on hacker news at one point about making LLMs where they did not use floating point gpus to do their calculations so you wouldn't get the non-deterministic problem (ask same question get different response). How is that going? I work with RAG tech and it seems amazing but it also is sketch when a table is read incorrectly and values are off by a significant figure.
 
-10h ago
+11h ago
 
 ---
 
@@ -277,13 +277,13 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 ## YouTube Videos: "ai"
 
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
+**[NEW AI Video Generator Kling O1 Redefines AI Filmmaking](https://www.youtube.com/watch?v=m_UfnjFOfys)**
 
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
+NEW AI Video Generator Kling O1 Redefines AI Filmmaking Try Kling O1 & Kling 2.6 https://openart.ai/home?ref=Klingo1 Kling ...
 
-📺 AI Revolution
+📺 Dan Kieft
 
-👁️ 84K • 👍 2K • 💬 369 • ⏱️ 12:07 • 1d ago
+👁️ 3K • 💬 4 • ⏱️ 9:23 • 1h ago
 
 ---
 
@@ -293,17 +293,7 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Ge
 
 📺 BitBiasedAI
 
-👁️ 24K • 👍 727 • 💬 26 • ⏱️ 11:49 • 20h ago
-
----
-
-**[They Summoned Something That Can&#39;t Be Controlled: The AI Warning From 1904](https://www.youtube.com/watch?v=h6efTA8z1UI)**
-
-Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the demon." Everyone laughed. Nobody's laughing ...
-
-📺 End Times Productions
-
-👁️ 125K • 👍 8K • 💬 2K • ⏱️ 34:02 • 2d ago
+👁️ 26K • 👍 765 • 💬 39 • ⏱️ 11:49 • 21h ago
 
 ---
 
@@ -313,17 +303,27 @@ Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial i
 
 📺 Fox News Clips
 
-👁️ 32K • 👍 536 • 💬 218 • ⏱️ 6:22 • 1d ago
+👁️ 33K • 👍 548 • 💬 223 • ⏱️ 6:22 • 1d ago
 
 ---
 
-**[New Deepseek, new top AI video &amp; image models, Gemini 3 Deep Think, realtime TTS: AI NEWS](https://www.youtube.com/watch?v=L4nus0PWsCw)**
+**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
 
-INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, Live Avatar, Gemini 3 Deep Think, Mistral ...
+Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
 
-📺 AI Search
+📺 AI Revolution
 
-👁️ 42K • 👍 2K • 💬 531 • ⏱️ 47:03 • 14h ago
+👁️ 85K • 👍 2K • 💬 369 • ⏱️ 12:07 • 1d ago
+
+---
+
+**[They Summoned Something That Can&#39;t Be Controlled: The AI Warning From 1904](https://www.youtube.com/watch?v=h6efTA8z1UI)**
+
+Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the demon." Everyone laughed. Nobody's laughing ...
+
+📺 End Times Productions
+
+👁️ 126K • 👍 8K • 💬 2K • ⏱️ 34:02 • 2d ago
 
 ---
 
@@ -333,7 +333,17 @@ Sora 2 has officially entered absolute madness — and these are the funniest mo
 
 📺 YetiAF | AI Universe
 
-👁️ 19K • 👍 509 • 💬 60 • ⏱️ 16:01 • 1d ago
+👁️ 19K • 👍 510 • 💬 60 • ⏱️ 16:01 • 1d ago
+
+---
+
+**[New Deepseek, new top AI video &amp; image models, Gemini 3 Deep Think, realtime TTS: AI NEWS](https://www.youtube.com/watch?v=L4nus0PWsCw)**
+
+INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, Live Avatar, Gemini 3 Deep Think, Mistral ...
+
+📺 AI Search
+
+👁️ 47K • 👍 2K • 💬 571 • ⏱️ 47:03 • 14h ago
 
 ---
 
@@ -343,7 +353,17 @@ subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianB
 
 📺 yikes
 
-👁️ 177K • 👍 8K • 💬 1K • ⏱️ 21:06 • 1d ago
+👁️ 186K • 👍 8K • 💬 1K • ⏱️ 21:06 • 1d ago
+
+---
+
+**[AI Insider WARNS: “This Ends Much Worse Than You Think”](https://www.youtube.com/watch?v=dnkRXYmmgX0)**
+
+World-leading AI scientist Professor Stuart Russell issues one of the most urgent warnings ever given on this channel. After five ...
+
+📺 The Diary Of A CEO Clips
+
+👁️ 179K • 👍 3K • 💬 946 • ⏱️ 21:18 • 22h ago
 
 ---
 
@@ -353,27 +373,7 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 606K • 👍 2K • 💬 49 • ⏱️ 8:06 • 1d ago
-
----
-
-**[What If AI Just Keeps Getting Smarter?](https://www.youtube.com/watch?v=XyZ83EEjXxU)**
-
-When AI becomes millions of times smarter than humans, what role will we have left? ___ Future Business Tech explores AI, ...
-
-📺 Future Business Tech
-
-👁️ 742 • 👍 92 • 💬 9 • ⏱️ 19:41 • 5h ago
-
----
-
-**[“The Determined Black Pitbull vs The Lazy White Pitbull” #ai #god](https://www.youtube.com/watch?v=T_19Sc3roMk)**
-
-The Determined Black Pitbull vs The Lazy White Pitbull” #ai #god Channel Description: Welcome to our fun zone! ✨ Here, you'll ...
-
-📺 Indian Top AI .1
-
-👁️ 8K • ⏱️ 1:00 • 14h ago
+👁️ 676K • 👍 2K • 💬 62 • ⏱️ 8:06 • 1d ago
 
 ---
 
@@ -711,7 +711,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 815 • 🔱 56 • 6d ago
+⭐ 815 • 🔱 56 • 7d ago
 
 ---
 

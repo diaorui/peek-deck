@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T17:31:20.195565+00:00'
+updated: '2025-12-07T17:43:09.215775+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 17:31 UTC  
+**Last Updated:** December 07, 2025 at 17:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,633.97
+### $90,801.18
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** +5.4%  
-**30d:** -11.3%  
-**90d:** -18.5%  
-**1y:** -10.1%  
+**24h:** +1.7%  
+**7d:** +5.5%  
+**30d:** -11.2%  
+**90d:** -18.4%  
+**1y:** -10.0%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 **[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -107,7 +107,7 @@ Burnsish?
 
 **[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -121,7 +121,7 @@ Burnsish?
 
 Mastercard’s Crypto Card Program enables consumers to use their crypto cards to pay with crypto for everyday transactions across 100 million+ acceptance locations.
 
-🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 42m ago
+🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 54m ago
 
 ---
 
@@ -307,7 +307,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 2K • 💬 390 • ⏱️ 11:32 • 20h ago
+👁️ 57K • 👍 2K • 💬 395 • ⏱️ 11:32 • 20h ago
 
 ---
 
@@ -317,7 +317,7 @@ I am short term bearish BUT I continue to buy and use dynamic DCA'ing. Here is W
 
 📺 Digital Asset News
 
-👁️ 20K • 👍 1K • 💬 133 • ⏱️ 21:52 • 23h ago
+👁️ 21K • 👍 1K • 💬 129 • ⏱️ 21:52 • 23h ago
 
 ---
 
@@ -327,27 +327,7 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 42K • 👍 3K • 💬 436 • ⏱️ 10:23 • 2d ago
-
----
-
-**[BITCOIN BEAR MARKET IS DEAD! Gold&#39;s Secret Signal Confirms BULL RUN!](https://www.youtube.com/watch?v=HkCXQqkE1BE)**
-
-We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow grind up for a year, finally a year long mega bull ...
-
-📺 Discover Crypto
-
-👁️ 8K • 👍 414 • 💬 42 • ⏱️ 5:59 • 1d ago
-
----
-
-**[Bitcoin investors...Get Ready For Inflation Numbers and the Fed!](https://www.youtube.com/watch?v=RmFwVDHzkis)**
-
-Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
-
-📺 CryptosRUs
-
-👁️ 35K • 👍 2K • 💬 445 • ⏱️ 10:13 • 2d ago
+👁️ 44K • 👍 3K • 💬 493 • ⏱️ 10:23 • 2d ago
 
 ---
 
@@ -357,27 +337,7 @@ Bitcoin volatility is collapsing, institutions are flooding in, and the entire m
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 819 • 💬 181 • ⏱️ 40:36 • 1d ago
-
----
-
-**[BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Sp9UCKJM-ck)**
-
-BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 287 • 💬 74 • ⏱️ 17:05 • 7h ago
-
----
-
-**[Every Major Bank Just Pivoted to Bitcoin… They Know What’s Coming!](https://www.youtube.com/watch?v=3rSaeVkFY4Q)**
-
-Every major economy is hitting the debt wall simultaneously. A global reset is coming—fast, systemic, and total. BlackRock ...
-
-📺 Simply Bitcoin
-
-👁️ 57K • 👍 4K • 💬 303 • ⏱️ 23:27 • 2d ago
+👁️ 21K • 👍 846 • 💬 186 • ⏱️ 40:36 • 1d ago
 
 ---
 
@@ -387,7 +347,47 @@ Jordi Visser (@JordiVisserLabs) is a macro investor with over 30 years of Wall S
 
 📺 Anthony Pompliano
 
-👁️ 53K • 👍 3K • 💬 65 • ⏱️ 48:57 • 1d ago
+👁️ 54K • 👍 3K • 💬 65 • ⏱️ 48:57 • 1d ago
+
+---
+
+**[The Real Reason Bitcoin Hit $103,000](https://www.youtube.com/watch?v=WALIZXJvEeA)**
+
+Crypto is undergoing its biggest transformation ever — Wall Street now controls the market, driving Bitcoin's price, trading volume, ...
+
+📺 Redhawk Media Group
+
+👁️ 733 • 👍 3 • ⏱️ 0:42 • 3h ago
+
+---
+
+**[BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Sp9UCKJM-ck)**
+
+BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 333 • 💬 82 • ⏱️ 17:05 • 7h ago
+
+---
+
+**[Every Major Bank Just Pivoted to Bitcoin… They Know What’s Coming!](https://www.youtube.com/watch?v=3rSaeVkFY4Q)**
+
+Every major economy is hitting the debt wall simultaneously. A global reset is coming—fast, systemic, and total. BlackRock ...
+
+📺 Simply Bitcoin
+
+👁️ 58K • 👍 4K • 💬 303 • ⏱️ 23:27 • 2d ago
+
+---
+
+**[Bitcoin investors...Get Ready For Inflation Numbers and the Fed!](https://www.youtube.com/watch?v=RmFwVDHzkis)**
+
+Exchange Partners** Bitunix Exchange ▻ *$100000 Deposit Bonus* ▻ https://bit.ly/3Tmp1Hq BTCC Exchange ▻ *10% ...
+
+📺 CryptosRUs
+
+👁️ 35K • 👍 2K • 💬 462 • ⏱️ 10:13 • 2d ago
 
 ---
 
@@ -397,7 +397,7 @@ Is Bitcoin in a different type of bear market? Let's discuss what a bear market 
 
 📺 Benjamin Cowen
 
-👁️ 122K • 👍 7K • 💬 484 • ⏱️ 15:38 • 2d ago
+👁️ 124K • 👍 7K • 💬 490 • ⏱️ 15:38 • 2d ago
 
 ---
 
