@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T10:18:26.359859+00:00'
+updated: '2025-12-07T10:37:26.783045+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- repositories
+- news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 10:18 UTC  
+**Last Updated:** December 07, 2025 at 10:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Calls for review after technology found to return more false positives for ‘so
 
 Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplements with unproven effects
 
-🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 19h ago
+🔗 [the Guardian](https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media) • 20h ago
 
 ---
 
@@ -73,7 +73,7 @@ Fei-Fei Li said that this "extreme rhetoric" is filling tech discourse and misin
 
 I saw a paper/article on hacker news at one point about making LLMs where they did not use floating point gpus to do their calculations so you wouldn't get the non-deterministic problem (ask same question get different response). How is that going? I work with RAG tech and it seems amazing but it also is sketch when a table is read incorrectly and values are off by a significant figure.
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ Brookings scholars Alikhani, Harris, and Patnaik break down the latest evidence 
 
 1) Strategist 2) Researcher 3) Coder 4) Analyst 5) Critic 6) Fixer 7) Teacher-Documenter 8) Final output Assembler/Presenter
 
-10h ago
+11h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Wall Street Journal • 17h ago
 
 AI pioneer and Nobel Prize winner Geoffrey Hinton said students who want to become AI researchers need to focus on critical thinking.
 
-Business Insider • 18m ago
+Business Insider • 37m ago
 
 ---
 
@@ -358,7 +358,7 @@ INSANE AI NEWS: Deepseek V3.2, VibeVoice realtime, LongCat-Image, SteadyDancer, 
 
 📺 AI Search
 
-👁️ 18K • 👍 1K • 💬 343 • ⏱️ 47:03 • 6h ago
+👁️ 18K • 👍 1K • 💬 343 • ⏱️ 47:03 • 7h ago
 
 ---
 
@@ -496,7 +496,7 @@ DeepSeek-Math-V2 is a large language model specialized in mathematical reasoning
 
 `text-generation` `685.4B`
 
-⬇️ 9,342 • ❤️ 637 • 9d ago
+⬇️ 9,342 • ❤️ 637 • 10d ago
 
 ---
 
@@ -686,7 +686,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 935 • 🔱 113 • 21h ago
+⭐ 935 • 🔱 113 • 22h ago
 
 ---
 

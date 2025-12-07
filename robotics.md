@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T10:18:26.377418+00:00'
+updated: '2025-12-07T10:37:26.800544+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 10:18 UTC  
+**Last Updated:** December 07, 2025 at 10:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -80,7 +80,7 @@ Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I rep
 
 https://youtu.be/FXC5ZFBefvs?si=S1VIDvOxfzTC_VEX
 
-14h ago
+15h ago
 
 ---
 
@@ -228,7 +228,7 @@ After months of buildup, the Shenzhen startup EngineAI is taking orders for its 
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 67 • 💬 13 • ⏱️ 0:59 • 4h ago
+👁️ 2K • 👍 67 • 💬 13 • ⏱️ 0:59 • 5h ago
 
 ---
 

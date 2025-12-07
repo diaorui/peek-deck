@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-07T10:18:26.374180+00:00'
+updated: '2025-12-07T10:37:26.797322+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 10:18 UTC  
+**Last Updated:** December 07, 2025 at 10:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
+**24h:** -0.1%  
 **7d:** +8.3%  
-**30d:** -10.9%  
+**30d:** -10.8%  
 **90d:** -29.7%  
-**1y:** -24.4%  
+**1y:** -24.3%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 million from Ethereum traders in a blindingly fast fraud.
 
-🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 17h ago
+🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 18h ago
 
 ---
 
@@ -88,7 +88,7 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 This is Part Seven of the eight-part series: Can I Pay With This: A stablecoin experiment in Buenos Aires. Thank you to the Ethereum Foundation and the EV Mavericks for their support, without which this experiment could never have happened. Table of Contents Part One: Decentralized or Destitute <-- New? Start here. Money, monkeys and mild terror Part Two: First Contact with Reality KYC on a hostel bunk bed Part Three: WE ACCEPT BITCOIN (sort of) Worst title for an Ethereum subreddit ever Part Four: Eighteen Ways to Pay for Ice Cream Stablecoins, FX hell and a missing keyboard Part Five: Going Bankless From tourist shop hack to cueva contact Part Six: Trustless, My Ass Trading with the Blue Man Custodial Services <-- You are here Having successfully beaten my Decentralized or Destitute challenge with my dignity mostly intact, I consider fleeing Buenos Aires before Microcentro rewires my nervous system. I'm dangerously close to falling in love with the city but that might just be a side effect of the long-term exposure to exhaust and capybara memes. I find a cheap flight to Jujuy. My brain floods with visions of hiking in the Andes with my pockets full of pesos. I'll drink some wine, I'll pet a llama, maybe I'll even do some writing. But traditional finance fails me. The airline refuses my cards. All of them. Cryptocards, debit cards, credit card from a reputable European bank. Declined and denied with a vague error and a customer service bot which repeatedly tells me that foreign cards are not a problem and I should check that I entered my card details correctly. I have half a dozen new apps on my phone to pay with stablecoins. I've gone through the KYC and been accepted for most of them, so that I can test them one-by-one. Mostly they work well. I don't even need to put money in them in advance; once I know what I want to buy, I can quickly move stablecoins into the app and they appear immediately. But the apps are no use to me for paying for online purchases; I need a person with a terminal generating a QR code to use them. There's third-party aggregator that looks like it scraped the flight off of Google but actually allows me to pay for the flight. Just one catch: no luggage. Not even a carry on. They suggest that I buy extras separately, from the airline that cannot manage a card transaction. Fine. I don't need luggage. I strip my belongings down to the essentials. There's a storage company that operates on some sort of decentralized custody protocol for personal belongings. You book online, get the address of a location somewhere in your chosen neighbourhood, and give them all of your earthly possessions. My assigned drop point is a phone shop in San Telmo, crammed with AI-art cases and knockoff chargers. I give them my number and hand them my suitcase. All I can do is trust that the shop is still here when I return. I take the bus to the airport wearing three layers of clothing, a spare set of underwear shoved into my handbag. I have both phones, Kindle, tablet and keyboard and a tangle of cables tucked into my hoodie pockets, looking like one of those street vendors who open up their coat and show you a wide range of goods. At the airport, I unpack everything to pass through security. I need three trays. After I pack myself back up, a man with a wand points out that I have a cable trailing behind me. At the gate, the Argentines start forming a queue an hour before boarding, pure social contract magic. I stay seated like a savage until I see our plane pull up to the gate and dump its last cargo of tourists and gauchos. I squish into the middle seat and try to keep my hoodie spilling over the sides, redistributing items until I finally get the seatbelt over my middle. I do not exhale for the entire two hour flight. The airport is not in San Salvador and the bus to Tilcara, my chosen destination, is. I purchase a shuttle ticket and wait outside to stand in the rain until it is full and we are ready to go. The bus station is impossibly clean and bright. A woman at an information booth appears improbably happy to see me, checks the time and tells me which bus company has a bus leaving next which will stop at Ticara. The woman at the bus company is less happy to see me but, after realizing that I blatantly don't have a clue what I am doing, writes helpful notes in the margins of my ticket: bus will arrive in 40 minutes, somewhere between bay 08 and 13, it will say Humahuaca on the front and Evelia on the side. I ask if they take QR payments. She points out that there is a 10% discount for cash for the ticket. I pay cash. Forty minutes later, I wedge myself into my bus seat, attempting to take off my hoodie in a way that does not tip all of my electronics on the floor. And then we drive. The windows fog up and all I can see outside is black rain. I am desperate not to fall asleep and end up in some abandoned village where they've never heard of Ethereum or vowels. It's past eleven when the bus pulls into Tilcara. A cracked parking lot. A couple of guys loitering with intent. I check my phone: a 25-minute walk to the hostel, which I had glibly told the hostel would be easy as I have no bags. The air is thin and every road heads uphill. I can't find any street signs. The paved road quickly deteriorates into a dirt track. Shop shutters rattle closed as I walk past. When I manage to make eye contact with anyone, I get a dead stare. Every time I check my phone map, it tells me that I've gone the wrong way. Again. I should have stayed in Buenos Aires, I think. I loved every millimeter of Buenos Aires. People mostly smiled at me, said hello. There were coffee shops and restaurants and street lights. Here, there's just dirt and altitude. Defiantly, I mutter buenas noches under my breath at the next person coming towards me. She nods, replies. Shit. Am I supposed to be greeting people? Two turns from my hostel, the road dips downhill. Somewhere along the way, I climbed up a hill I didn't need to. I curse the Andean gods and keep walking. Finally, I arrive, punch in the code, and crash into my bed. It's midnight. I sleep like the dead. And then, morning. It's like someone rewired Tilcara overnight. It's beautiful. Still dusty and crumbling but golden in the morning light with misty black and red mountains creating a backdrop that looks like a motivational poster. I discover that street signs do exist, just not where you'd expect, hand painted onto walls and fences at random heights as you walk down the road. I scan the restaurant chalkboards, making mental lists of all the dishes I want to try, then pause, not quite emotionally ready to consider Llama al Malbec for my special evening meal. Maybe tomorrow. The locals have stern faces carved from stone until I whisper buen día, at which point they smile and greet me. I try it louder. Everyone seems happy to see me. Some even ask que tál?, how are you?, and actually seem to expect an answer. I respond with a slump and a wheeze, universal code for every road in this town is uphill and I am dying. I am met with laughter, sympathy and one invitation to a cold beer (I should have said yes). The hotel also gives a 10% discount for paying in cash, so I use up the rest of the pesos from Blue. I ask the woman if she knows where I can buy pesos in Tilcara. There are two Western Unions in town and a gift shop called Native Art who will exchange dollars for pesos. But what about stablecoins? She stares at me blankly. Never mind, I tell her. It doesn't matter anymore. And it really doesn't. Next up is the conclusion: Apparently I Did It Wrong ("You should have just used X, bro.")
 
-12h ago
+13h ago
 
 ---
 
@@ -96,7 +96,7 @@ This is Part Seven of the eight-part series: Can I Pay With This: A stablecoin e
 
 I'm the inventor of the "simultaneous video event" Gavin Wood is currently pursuing (Gavin built the first version of Ethereum, then Jeffrey Wilckes and his team built the Golang, and then more came). I have followed "scaling" discussion since 2014, but always found that it was misunderstanding the Nakamoto consensus. But since my proof-of-unique-person requires someone to solve scaling, I took some more looks at the topic and I realized that what the discussion was missing is that the consensus should not be split. Everything happening under a "block of authority" should be by the same group, who trusts one another internally. With that, parallelization can still happen, but the consensus is not split. The concept is really similar otherwise to the "sharding" discussion, it only avoids splitting the consensus. What the discussion in Ethereum was typically in the past decade was to instead randomly assign validators to "shards" from the validator pool. This approach fundamentally misunderstands the consensus. As I realized what everyone got wrong, I was unable to find a system that actually did scale the way things should be done. But, I then noticed there is a system. But if I even mention that here, this gets removed. Not because of the topic I raise, but because of guilt by association. You have created a "community" where you have erased the roots to it, as well as made mention of actual competition (as the roots are often a form of competition, Steve Wozniak would remain a form of competition even as the computer industry outgrew his Apple 2 etc). The system I mentioned is teranode, that is parallelizing the block production but they do so internally under a singular trusted central authority for the "block". Of course Ethereum was the next step after Bitcoin, and my proof-of-unique-person is fundamentally based on the Ethereum paradigm. But Satoshi was who came up with the consensus. Buterin came up with the Turing completeness. Buterin, and Gavin Wood, and Jeffrey Wilckes, were all geniuses in my eyes. But so was Satoshi. "Removing this because it's not about Ethereum. It sort of pretends to be but doesn't make any attempt to work out what Ethereum sharding actually is so the point is clearly just to shill some Craig Wright thing. " Edmund Edgar
 
-24m ago
+43m ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 1d ago
 
 BitMine bought nearly $200 million worth of Ethereum in the last two days, widening its lead as the largest single holder of ETH.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 349 • ⏱️ 11:32 • 12h ago
+👁️ 41K • 👍 2K • 💬 349 • ⏱️ 11:32 • 13h ago
 
 ---
 
@@ -246,7 +246,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 15K • 👍 816 • 💬 141 • ⏱️ 36:53 • 13h ago
+👁️ 15K • 👍 816 • 💬 141 • ⏱️ 36:53 • 14h ago
 
 ---
 

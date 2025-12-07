@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T10:18:26.368187+00:00'
+updated: '2025-12-07T10:37:26.791345+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 10:18 UTC  
+**Last Updated:** December 07, 2025 at 10:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** +3.6%  
-**30d:** -12.8%  
-**90d:** -19.9%  
-**1y:** -11.7%  
+**24h:** -0.7%  
+**7d:** +3.3%  
+**30d:** -13.0%  
+**90d:** -20.1%  
+**1y:** -11.9%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -99,7 +99,7 @@ Burnsish?
 
 **[Bitcoin is winning!](https://www.reddit.com/r/Bitcoin/comments/1pg9d67/bitcoin_is_winning/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -119,7 +119,7 @@ Burnsish?
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
-27m ago
+46m ago
 
 ---
 
@@ -167,13 +167,13 @@ Yahoo Finance • 1d ago
 
 Speculators maintain net bullish positions in the yen, limiting scope for sudden JPY strength and mass carry unwind.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
 **[Bitcoin has plunged. Strategy Inc is an early victim](https://www.economist.com/finance-and-economics/2025/12/04/bitcoin-has-plunged-strategy-inc-is-an-early-victim)**
 
-The Economist • 2d ago
+The Economist • 3d ago
 
 ---
 
@@ -211,7 +211,7 @@ TheStreet • 1d ago
 
 Key PointsBitcoin's prior all-time high was more than $126,000.
 
-Nasdaq • 5h ago
+Nasdaq • 6h ago
 
 ---
 
@@ -219,7 +219,7 @@ Nasdaq • 5h ago
 
 Coinbase says the crypto market is entering a December recovery phase as liquidity improves and macro conditions turn more supportive.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -303,7 +303,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 349 • ⏱️ 11:32 • 12h ago
+👁️ 41K • 👍 2K • 💬 349 • ⏱️ 11:32 • 13h ago
 
 ---
 
@@ -323,7 +323,7 @@ We know the 4 year cycle for Bitcoin. Down for a year, sideways for a year, slow
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 394 • 💬 45 • ⏱️ 5:59 • 17h ago
+👁️ 7K • 👍 394 • 💬 45 • ⏱️ 5:59 • 18h ago
 
 ---
 
