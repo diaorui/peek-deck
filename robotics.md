@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T20:58:27.433422+00:00'
+updated: '2025-12-07T21:23:09.512983+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 20:58 UTC  
+**Last Updated:** December 07, 2025 at 21:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 An old picture. The progress is in the coding, and testing, and tuning of the hardware.
 
-5h ago
+6h ago
 
 ---
 
@@ -74,7 +74,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ic5I27NNIv0?si=ii4fyccs01D9m8qa) • 3h ago
+🔗 [youtu.be](https://youtu.be/ic5I27NNIv0?si=ii4fyccs01D9m8qa) • 4h ago
 
 ---
 
@@ -82,7 +82,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/adityabangde/BipedalWalker-PPO-STM32.git Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
 
-13h ago
+14h ago
 
 ---
 
@@ -114,19 +114,19 @@ Hi all, I have a need for the above converter to be installed within a well-cool
 
 ## Google News: "robotics"
 
-**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.cbsnews.com/video/trump-administration-looks-supercharge-robotics-industry-politico/)**
-
-Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be listening. Yasmin Khorram, economic policy reporter for Politico, joins CBS News to discuss her article on the topic.
-
-CBS News • 2d ago
-
----
-
 **[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://www.barchart.com/story/news/36461441/3-robotics-stocks-to-buy-now-ahead-of-a-white-house-game-changer)**
 
 The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
 
 Barchart.com • 3d ago
+
+---
+
+**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.cbsnews.com/video/trump-administration-looks-supercharge-robotics-industry-politico/)**
+
+Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be listening. Yasmin Khorram, economic policy reporter for Politico, joins CBS News to discuss her article on the topic.
+
+CBS News • 2d ago
 
 ---
 
@@ -156,7 +156,7 @@ ETF Trends • 3d ago
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-South China Morning Post • 19h ago
+South China Morning Post • 20h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 2d ago
 
 **[Why Walmart's AI Robotics Maker Is Tumbling After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
 
-Investor's Business Daily • 2d ago
+Investor's Business Daily • 3d ago
 
 ---
 
@@ -186,7 +186,7 @@ Investor's Business Daily • 2d ago
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
-CNET • 7h ago
+CNET • 8h ago
 
 ---
 
@@ -238,7 +238,7 @@ Unitree's latest demos reveal that kickboxing is no longer just for its smaller 
 
 📺 CNET
 
-👁️ 13K • 👍 411 • 💬 63 • ⏱️ 6:05 • 7h ago
+👁️ 13K • 👍 411 • 💬 63 • ⏱️ 6:05 • 8h ago
 
 ---
 

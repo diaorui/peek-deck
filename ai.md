@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-07T20:58:27.415499+00:00'
+updated: '2025-12-07T21:23:09.495079+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 07, 2025 at 20:58 UTC  
+**Last Updated:** December 07, 2025 at 21:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Explore the true history of convolutional neural networks, from Fukushima’s neocognitron to modern CNNs and LeCun’s influential work.
 
-🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 6h ago
+🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 7h ago
 
 ---
 
@@ -49,21 +49,13 @@ Explore the true history of convolutional neural networks, from Fukushima’s ne
 
 If you believe these CEOs will solve unemployment after AI replaces most of the human workers, this video is for you.
 
-9h ago
+10h ago
 
 ---
 
 **[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
 
 🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 6h ago
-
----
-
-**[ChatGPT is blind to bad science](https://www.reddit.com/r/artificial/comments/1pgq3c1/chatgpt_is_blind_to_bad_science/)**
-
-A new study finds ChatGPT fails to take into account retraction notices across a wide range of research.
-
-🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 2h ago
 
 ---
 
@@ -75,19 +67,11 @@ Just did this myself, and now sharing for others! I have ChatGPT Plus, and when 
 
 ---
 
-**[AI Just Simulated Human Cells](https://www.reddit.com/r/artificial/comments/1pgmegp/ai_just_simulated_human_cells/)**
+**[ChatGPT is blind to bad science](https://www.reddit.com/r/artificial/comments/1pgq3c1/chatgpt_is_blind_to_bad_science/)**
 
-Could AI help us create virtual human cells? 🦠 Scientists are training AI to create virtual human cells, digital models that mimic how real cells behave. These simulations can predict how a cell might respond to medication, genetic mutations, or physical damage. While live lab tests are still essential, AI-powered models could make research faster, safer, and more personalized. By reducing trial-and-error in early stages, these tools could unlock faster drug discovery and bring us closer to tailored treatments for individuals.
+A new study finds ChatGPT fails to take into account retraction notices across a wide range of research.
 
-4h ago
-
----
-
-**[RAG Seems Unpredictable Until You Map the Workflow. Then the Root Causes Become Obvious](https://www.reddit.com/r/artificial/comments/1pgr49s/rag_seems_unpredictable_until_you_map_the/)**
-
-I spent the week diagramming the full path documents take through my RAG system. Visualizing it clarified something I’d been feeling for a while. Most retrieval issues don’t start at retrieval. They start much earlier. The moment ingestion or segmentation shifts, everything downstream looks inconsistent even when the model and database stay the same. What stood out was how much reliability improves once the upstream steps become deterministic. Versioning, canonical text, consistent chunk boundaries, and metadata checks made a far bigger impact than changing models. If you were to visualize your pipeline, which step do you think would reveal the most drift?
-
-1h ago
+🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 2h ago
 
 ---
 
@@ -99,11 +83,27 @@ We built a 6 GB, fully self-contained Medical SLM that runs offline on laptops a
 
 ---
 
+**[AI Just Simulated Human Cells](https://www.reddit.com/r/artificial/comments/1pgmegp/ai_just_simulated_human_cells/)**
+
+Could AI help us create virtual human cells? 🦠 Scientists are training AI to create virtual human cells, digital models that mimic how real cells behave. These simulations can predict how a cell might respond to medication, genetic mutations, or physical damage. While live lab tests are still essential, AI-powered models could make research faster, safer, and more personalized. By reducing trial-and-error in early stages, these tools could unlock faster drug discovery and bring us closer to tailored treatments for individuals.
+
+5h ago
+
+---
+
+**[RAG Seems Unpredictable Until You Map the Workflow. Then the Root Causes Become Obvious](https://www.reddit.com/r/artificial/comments/1pgr49s/rag_seems_unpredictable_until_you_map_the/)**
+
+I spent the week diagramming the full path documents take through my RAG system. Visualizing it clarified something I’d been feeling for a while. Most retrieval issues don’t start at retrieval. They start much earlier. The moment ingestion or segmentation shifts, everything downstream looks inconsistent even when the model and database stay the same. What stood out was how much reliability improves once the upstream steps become deterministic. Versioning, canonical text, consistent chunk boundaries, and metadata checks made a far bigger impact than changing models. If you were to visualize your pipeline, which step do you think would reveal the most drift?
+
+1h ago
+
+---
+
 **[Home Office admits facial recognition tech issue with black and Asian subjects | Facial recognition](https://www.reddit.com/r/artificial/comments/1pgc8xv/home_office_admits_facial_recognition_tech_issue/)**
 
 Calls for review after technology found to return more false positives for ‘some demographic groups’ on certain settings
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 13h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 14h ago
 
 ---
 
@@ -119,7 +119,7 @@ Hundreds of videos on TikTok and elsewhere impersonate experts to sell supplemen
 
 ## Google News: "ai"
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqe_e_Bc45nXlXI-z0Nf5Dh0kk8v9c0Dj6TVeNcTDNC7Hsb-3c4MYUoS&gaa_ts=6935e8bd&gaa_sig=tSXPPmvpWGL3HJ-MljnhbwS6K89BSTkt_LEqgahAyCdmoJdIZJwE5iaq-UyFxItfqWGDcWqeWRrofyRlgS7TNg%3D%3D)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqfAhgVS6uKKV3U3qQ46cJdKd71N1PtjuA0pW4EsCYCdt5BcoNciCs7j&gaa_ts=6935f3ac&gaa_sig=Hd3thyyGNhIRUkmGYfEl2jDn4IHBTW6qYJRRZuuj6O5gazia5l9U6dYa8tIa78BGLw47nYfN5D7dgUJqS1LOrw%3D%3D)**
 
 The Wall Street Journal • 1d ago
 
@@ -133,9 +133,11 @@ The Guardian • 1d ago
 
 ---
 
-**[Opinion | Is AI Making Us Dumb?](https://www.wsj.com/opinion/is-ai-making-us-dumb-21ea8e39?gaa_at=eafs&gaa_n=AWEtsqdOaAsa0TEtRBOD8BrO3oQ7ZCvFd2yAc3MUb4njJnDyxnL-kKNISCnQ&gaa_ts=6935e8bd&gaa_sig=lkSXZiDrzJiE0t7XKetas_tIinL_ZFJ8DnzB0vDr9FU3--XIUCbbBa5LTZTwOfloDXdf_P--qUvEkgh0CpatjA%3D%3D)**
+**[Anduril's Palmer Luckey Defends Using AI in War](https://www.businessinsider.com/anduril-palmer-luckey-ai-war-conflict-defense-tech-startups-military-2025-12)**
 
-The Wall Street Journal • 2h ago
+For "life and death decision-making," Anduril cofounder Palmer Luckey says it's "too critical" to not use the most advanced technology.
+
+Business Insider • 37m ago
 
 ---
 
@@ -143,35 +145,7 @@ The Wall Street Journal • 2h ago
 
 A number of executives are departing Apple. At least some of them are related to its AI strategy.
 
-Yahoo Finance • 5h ago
-
----
-
-**[Nvidia vs. Palantir: Which Stock Is the Better Long-Term AI Buy?](https://finance.yahoo.com/news/nvidia-vs-palantir-stock-better-170002300.html)**
-
-Nvidia builds the AI infrastructure of the future, while Palantir builds the intelligence that runs on it. Which is the better AI play?
-
-Yahoo Finance • 1d ago
-
----
-
-**[Why Nvidia and Other AI Stocks Have Lost Their ‘Quality’ Status](https://www.wsj.com/finance/investing/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status-84180ff2?gaa_at=eafs&gaa_n=AWEtsqf-8luHe6DNxllTmV12Fo0MDm0q2XDHHhgIDsCm2YWtMMWDAXENtCGD&gaa_ts=6935e8bd&gaa_sig=4Bpn8VTxSgLY63LqZ8qdsyDekIdMJg6HJgVmxMGPKw9eJ5Vgp6vPzrYj3tcHhA3SGl6IU8FcF1J9SukKLwKv9w%3D%3D)**
-
-The Wall Street Journal • 10h ago
-
----
-
-**[OpenAI Goes From Stock Market Savior to Burden as AI Risks Mount](https://www.bloomberg.com/news/articles/2025-12-07/openai-goes-from-stock-market-savior-to-anchor-as-ai-risks-mount)**
-
-Wall Street’s sentiment toward companies associated with artificial intelligence is shifting, and it’s all about two companies: OpenAI is down, and Alphabet Inc. is up.
-
-Bloomberg.com • 6h ago
-
----
-
-**[Opinion | Don’t Fear the Bubble Bursting](https://www.nytimes.com/2025/12/05/opinion/ai-bubble-innovation-advancement.html)**
-
-The New York Times • 2d ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -183,11 +157,39 @@ The Keyword • 2d ago
 
 ---
 
+**[OpenAI Goes From Stock Market Savior to Burden as AI Risks Mount](https://www.bloomberg.com/news/articles/2025-12-07/openai-goes-from-stock-market-savior-to-anchor-as-ai-risks-mount)**
+
+Wall Street’s sentiment toward companies associated with artificial intelligence is shifting, and it’s all about two companies: OpenAI is down, and Alphabet Inc. is up.
+
+Bloomberg.com • 7h ago
+
+---
+
 **[Jamie Dimon on AI: 'maybe one day we'll be working less hard but having wonderful lives'](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/)**
 
 "For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
 Fortune • 3h ago
+
+---
+
+**[This AI Model Can Intuit How the Physical World Works](https://www.wired.com/story/how-one-ai-model-creates-a-physical-intuition-of-its-environment/)**
+
+The V-JEPA system uses ordinary videos to understand the physics of the real world.
+
+WIRED • 21h ago
+
+---
+
+**[Titans + MIRAS: Helping AI have long-term memory](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)**
+
+Google Research • 3d ago
+
+---
+
+**[Dario Amodei on the Risk of an A.I. Bubble, Regulation and A.G.I.](https://www.nytimes.com/2025/12/07/business/dealbook/dario-amodei-dealbook.html)**
+
+The New York Times • 8h ago
 
 ---
 
@@ -207,21 +209,13 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 404 • 💬 225 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 405 • 💬 224 • 1d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 284 • 💬 91 • 8h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
-
----
-
-**[A Cozy Mk IV light aircraft crashed after 3D-printed part was weakened by heat](https://news.ycombinator.com/item?id=46152941)**
-
-The aircraft was completely destroyed after a spare part bought at an air show in America collapsed.
-
-⬆️ 249 • 💬 204 • 3d ago • [bbc.com](https://www.bbc.com/news/articles/c1w932vqye0o)
+⬆️ 302 • 💬 97 • 8h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -249,6 +243,20 @@ A live AI-driven countdown to the potential burst of the AI market bubble. Updat
 
 ---
 
+**[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
+
+⬆️ 73 • 💬 89 • 4h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+
+---
+
+**[Wall Street races to protect itself from AI bubble](https://news.ycombinator.com/item?id=46165122)**
+
+Wall Street lends billions to AI companies while using credit derivatives and sophisticated bonds to hedge against potential bubble risks.
+
+⬆️ 72 • 💬 86 • 2d ago • [Rolling Out](https://rollingout.com/2025/12/05/wall-street-protects-itself-ai-bubble/)
+
+---
+
 **[Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video](https://news.ycombinator.com/item?id=46156832)**
 
 Rodents in northern Germany were spotted using two different hunting strategies at major urban bat hibernation sites
@@ -257,17 +265,11 @@ Rodents in northern Germany were spotted using two different hunting strategies 
 
 ---
 
-**[Wall Street races to protect itself from AI bubble](https://news.ycombinator.com/item?id=46165122)**
+**[Advent of Code 2025: The AI Edition – By Peter Norvig](https://news.ycombinator.com/item?id=46169441)**
 
-Wall Street lends billions to AI companies while using credit derivatives and sophisticated bonds to hedge against potential bubble risks.
+Python programs, usually short, of considerable difficulty, to perfect particular skills. - norvig/pytudes
 
-⬆️ 71 • 💬 86 • 2d ago • [Rolling Out](https://rollingout.com/2025/12/05/wall-street-protects-itself-ai-bubble/)
-
----
-
-**[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
-
-⬆️ 62 • 💬 76 • 4h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 44 • 💬 14 • 1d ago • [GitHub](https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb)
 
 ---
 
@@ -281,7 +283,7 @@ Big Tech is racking up debt to fund their AI infrastructure for demand that seem
 
 📺 Vanessa Wingårdh
 
-👁️ 49K • 👍 5K • 💬 1K • ⏱️ 10:38 • 7h ago
+👁️ 49K • 👍 5K • 💬 1K • ⏱️ 10:38 • 8h ago
 
 ---
 
@@ -291,7 +293,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 9K • 👍 1K • 💬 181 • ⏱️ 15:03 • 4h ago
+👁️ 9K • 👍 1K • 💬 181 • ⏱️ 15:03 • 5h ago
 
 ---
 
@@ -301,7 +303,7 @@ I made the first set of these images almost by accident. I was trying for someth
 
 📺 Kelly Boesch AI Art
 
-👁️ 5K • 👍 597 • 💬 45 • ⏱️ 2:56 • 6h ago
+👁️ 5K • 👍 597 • 💬 45 • ⏱️ 2:56 • 7h ago
 
 ---
 
@@ -385,7 +387,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 186,951 • ❤️ 2,246 • 5d ago
+⬇️ 186,951 • ❤️ 2,247 • 5d ago
 
 ---
 
@@ -397,7 +399,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 25,451 • ❤️ 770 • 6d ago
+⬇️ 25,451 • ❤️ 771 • 6d ago
 
 ---
 
@@ -421,7 +423,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 424 • 11h ago
+⬇️ 27,215 • ❤️ 426 • 12h ago
 
 ---
 
@@ -431,7 +433,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 262 • 5d ago
+⬇️ 0 • ❤️ 263 • 5d ago
 
 ---
 
@@ -453,7 +455,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,828 • ❤️ 358 • 5d ago
+⬇️ 2,828 • ❤️ 359 • 5d ago
 
 ---
 
@@ -697,7 +699,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 827 • 🔱 43 • 13h ago
+⭐ 827 • 🔱 43 • 14h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-07T20:58:27.423980+00:00'
+updated: '2025-12-07T21:23:09.503481+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 07, 2025 at 20:58 UTC  
+**Last Updated:** December 07, 2025 at 21:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,368.48
+### $91,342.68
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** +6.1%  
-**30d:** -10.7%  
-**90d:** -18.0%  
-**1y:** -9.5%  
+**24h:** +2.0%  
+**7d:** +5.6%  
+**30d:** -11.1%  
+**90d:** -18.4%  
+**1y:** -10.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1824.65B
+**Market Cap:** $1819.98B
 Rank #1
 
-**Circulating Supply:** 19,958,946 BTC
+**Circulating Supply:** 19,958,971 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.4%
+-27.7%
 
 **All-Time Low:** $67.81
-+134831.4%
++134371.3%
 
 ---
 
@@ -85,15 +85,15 @@ Rank #1
 
 ---
 
-**[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
+**[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
 
-3h ago
+2h ago
 
 ---
 
-**[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
+**[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -117,14 +117,6 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 ---
 
-**[Mega-rare Simpsons pattern emerging...](https://www.reddit.com/r/Bitcoin/comments/1pfzi8q/megarare_simpsons_pattern_emerging/)**
-
-Burnsish?
-
-1d ago
-
----
-
 **[When 2,000 Dormant Bitcoin Wake Up](https://www.reddit.com/r/Bitcoin/comments/1pgo5ze/when_2000_dormant_bitcoin_wake_up/)**
 
 Two early-era Bitcoin wallets, each holding ~1,000 BTC moved after 13+ years of complete inactivity. Most people interpret this as risk. It isn’t. Dormant coins don’t move because of fear or speculation. They move because wealth has crossed into structure: – key modernization – inheritance and legal clarity – custody transformation – multi-party continuity No exchange inflow, no forced selling, no market reaction. Price didn’t move…not because it’s irrelevant, but because the system is now deep enough to absorb it without distortion. This is how an asset crosses from narrative into adulthood. If you want to understand why this moment signals maturity rather than exit, read the full breakdown
@@ -133,17 +125,25 @@ Two early-era Bitcoin wallets, each holding ~1,000 BTC moved after 13+ years of 
 
 ---
 
+**[Mega-rare Simpsons pattern emerging...](https://www.reddit.com/r/Bitcoin/comments/1pfzi8q/megarare_simpsons_pattern_emerging/)**
+
+Burnsish?
+
+1d ago
+
+---
+
 **[BTC vs FRN](https://www.reddit.com/r/Bitcoin/comments/1pgnm34/btc_vs_frn/)**
 
 Just doing my part to spread the word. If you're ever in NC and see one of these floating around, Matt was here.
 
-3h ago
+4h ago
 
 ---
 
 **[What's holding us back?](https://www.reddit.com/r/Bitcoin/comments/1pge5ht/whats_holding_us_back/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -151,19 +151,27 @@ Just doing my part to spread the word. If you're ever in NC and see one of these
 
 ## Google News: "bitcoin"
 
-**[Trump Administration Overlooks Bitcoin, Blockchain in National Security Strategy](https://www.coindesk.com/opinion/2025/12/07/trump-s-national-security-strategy-ignores-bitcoin-and-blockchain)**
+**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
 
-President Trump's latest national security strategy omits digital assets, focusing instead on AI, biotech, and quantum computing.
+Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
 
-CoinDesk • 5h ago
+Decrypt • 4h ago
 
 ---
 
-**[Bitcoin Is Starting to Look Like a Digital Tulip](https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money)**
+**[‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles](https://www.forbes.com/sites/digital-assets/2025/12/07/next-step-is-coming-sec-chair-issues-huge-crypto-prediction-as-the-bitcoin-price-struggles/)**
 
-It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
+The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
 
-Bloomberg.com • 1d ago
+Forbes • 8h ago
+
+---
+
+**[Better Crypto Buy: Bitcoin vs. XRP](https://finance.yahoo.com/news/better-crypto-buy-bitcoin-vs-210000582.html)**
+
+Which of these popular cryptocurrencies has more upside potential?
+
+Yahoo Finance • 23m ago
 
 ---
 
@@ -173,11 +181,11 @@ The Economist • 3d ago
 
 ---
 
-**[BlackRock's IBIT Bitcoin ETF Sees Record $2.7 Billion Exodus](https://finance.yahoo.com/news/blackrocks-ibit-bitcoin-etf-sees-033033975.html)**
+**[Bitcoin Is Starting to Look Like a Digital Tulip](https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money)**
 
-BlackRock Inc. (NYSE:BLK) is seeing persistent withdrawals from its iShares Bitcoin Trust (NASDAQ:IBIT) as investors pulled more than $2.7 billion over five consecutive weeks. Largest Outflow Stretch Since IBIT's Launch IBIT is facing its longest run ...
+It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
-Yahoo Finance • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -195,6 +203,14 @@ CNBC • 3d ago
 
 ---
 
+**[Bitcoin Price (BTC) Analysis: Crypto Winter Parallels](https://www.coindesk.com/markets/2025/12/05/bitcoin-market-echoes-early-2022-as-onchain-stress-mounts-glassnode)**
+
+Rising bitcoin supply in loss, weakening spot demand and cautious derivatives positioning were among the issues raised by the data provider in its weekly newsletter.
+
+CoinDesk • 2d ago
+
+---
+
 **[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
 
 Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
@@ -203,25 +219,11 @@ Futurism • 1d ago
 
 ---
 
-**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
+**[With Bitcoin Falling, Is Strategy Stock in Trouble?](https://finance.yahoo.com/news/bitcoin-falling-strategy-stock-trouble-210500007.html)**
 
-Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
+It would be pretty miraculous if Strategy's stock were doing well right now.
 
-Decrypt • 4h ago
-
----
-
-**[‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles](https://www.forbes.com/sites/digital-assets/2025/12/07/next-step-is-coming-sec-chair-issues-huge-crypto-prediction-as-the-bitcoin-price-struggles/)**
-
-The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
-
-Forbes • 7h ago
-
----
-
-**[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
-
-Investor's Business Daily • 4h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -255,7 +257,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 Xero is a digital currency that allows instant payments to anyone, anywhere. Xero has been written completely in PHP and follows the same technical design as Bitcoin. Xero uses P2P technology to op...
 
-⬆️ 3 • 💬 0 • 19h ago • [GitHub](https://github.com/kladskull/xEroS)
+⬆️ 3 • 💬 0 • 20h ago • [GitHub](https://github.com/kladskull/xEroS)
 
 ---
 
@@ -269,7 +271,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 0 • 5h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 0 • 6h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -311,7 +313,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 4K • 👍 335 • 💬 69 • ⏱️ 10:04 • 3h ago
+👁️ 4K • 👍 335 • 💬 69 • ⏱️ 10:04 • 4h ago
 
 ---
 
@@ -401,7 +403,7 @@ Bitcoin what now STRONGER THAN VIAGRA: 1 Cup Before Bed! [works fast] https://yo
 
 📺 MMCrypto
 
-👁️ 38K • 👍 4K • 💬 558 • ⏱️ 5:51 • 8h ago
+👁️ 38K • 👍 4K • 💬 558 • ⏱️ 5:51 • 9h ago
 
 ---
 
