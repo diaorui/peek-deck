@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T15:28:54.202809+00:00'
+updated: '2025-12-08T15:45:44.309595+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 15:28 UTC  
+**Last Updated:** December 08, 2025 at 15:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,831.33
+### $89,906.60
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -1.6%  
-**30d:** -14.1%  
-**90d:** -20.9%  
-**1y:** -7.5%  
+**24h:** +0.2%  
+**7d:** -1.7%  
+**30d:** -14.2%  
+**90d:** -21.1%  
+**1y:** -7.7%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[pahahha i died](https://www.reddit.com/r/Bitcoin/comments/1ph8e2i/pahahha_i_died/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -179,7 +179,7 @@ Barron's • 1h ago
 
 Bitcoin pushed back above $92,000 during Monday’s Asia session as traders priced in a likely Federal Reserve rate cut this week; altcoins continued to lag.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -211,7 +211,7 @@ Business Insider • 4h ago
 
 Which of these popular cryptocurrencies has more upside potential?
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -295,7 +295,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 1 • 💬 0 • 30m ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 1 • 💬 0 • 47m ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 
@@ -349,7 +349,7 @@ Bitcoin today with Benjamin Cowen!
 
 📺 MMCrypto
 
-👁️ 24K • 👍 2K • 💬 770 • ⏱️ 7:39 • 6h ago
+👁️ 24K • 👍 2K • 💬 770 • ⏱️ 7:39 • 7h ago
 
 ---
 
@@ -359,7 +359,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 409 • ⏱️ 18:52 • 15h ago
+👁️ 25K • 👍 2K • 💬 409 • ⏱️ 18:52 • 16h ago
 
 ---
 
@@ -369,7 +369,7 @@ This chart shows the historical backtest of the on-chain risk gauge shown on the
 
 📺 Benjamin Cowen
 
-👁️ 39K • 👍 3K • 💬 104 • ⏱️ 9:57 • 9h ago
+👁️ 39K • 👍 3K • 💬 104 • ⏱️ 9:57 • 10h ago
 
 ---
 
@@ -379,7 +379,7 @@ Bitcoin #Crypto #Finance The macro landscape is shifting fast: the Federal Reser
 
 📺 The Wolf Of All Streets
 
-👁️ 5K • 👍 426 • 1h ago
+👁️ 5K • 👍 426 • 2h ago
 
 ---
 

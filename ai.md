@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T15:28:54.194324+00:00'
+updated: '2025-12-08T15:45:44.301181+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 15:28 UTC  
+**Last Updated:** December 08, 2025 at 15:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 **[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -79,7 +79,7 @@ Source: https://openrouter.ai/state-of-ai TL;DR 1. new landscape of open source:
 
 : Analysts worry lazy users could have agents complete mandatory infosec training, and attackers could do far nastier things
 
-🔗 [theregister.com](https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/) • 3m ago
+🔗 [theregister.com](https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/) • 20m ago
 
 ---
 
@@ -137,7 +137,7 @@ Fox Business • 1h ago
 
 **[AI Computer Startup Hits $4.5 Billion Valuation in Seed Round](https://www.bloomberg.com/news/articles/2025-12-08/ai-computer-startup-hits-4-5-billion-valuation-in-seed-round)**
 
-Bloomberg.com • 28m ago
+Bloomberg.com • 45m ago
 
 ---
 
@@ -145,13 +145,13 @@ Bloomberg.com • 28m ago
 
 More middle-age and older Americans are becoming entrepreneurs and seizing control of their careers. The leap can be stressful but ultimately rewarding—just listen to the people who’ve already done it.
 
-Esquire • 28m ago
+Esquire • 45m ago
 
 ---
 
 **[Intel, Adobe and these other ‘AI loser’ stocks could get left behind in the next phase of the tech boom](https://www.marketwatch.com/story/intel-adobe-and-these-other-ai-loser-stocks-could-get-left-behind-in-the-next-phase-of-the-tech-boom-e6cd25ef?gaa_at=eafs&gaa_n=AWEtsqceffS3pPZj5dWOl-in5EbVJy2BNxbG6u_VPFxUu2X6heBLnJfsB-Qc&gaa_ts=6936f218&gaa_sig=O6rCSh6C7DMajRFkuI29kdZ8SiVOEt8RtyvjTRfbLkmLetxvk8z7Fr4ZXxw1hui8vvKRW00GGMgwMVblcjU4yQ%3D%3D)**
 
-MarketWatch • 11m ago
+MarketWatch • 28m ago
 
 ---
 
@@ -217,7 +217,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 113 • 💬 201 • 22h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 113 • 💬 201 • 23h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -365,7 +365,7 @@ The monkey gave his mother a beautiful auto rickshaw #ai #shorts #viral This emo
 
 📺 Super AI Story
 
-👁️ 27K • 💬 1 • ⏱️ 0:47 • 3h ago
+👁️ 27K • 💬 1 • ⏱️ 0:47 • 4h ago
 
 ---
 
@@ -527,7 +527,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 45 • 💬 2 • ⭐ 802 • 6d ago
+▲ 46 • 💬 2 • ⭐ 802 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -639,11 +639,11 @@ The paper introduces Reward Forcing, which enhances video generation by updating
 
 **[glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)**
 
-🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly [商店版本 1.3.0，最新版本 1.4.0+，可选择本地安装抢先体验新功能，具体版本差异见下方 release note]
+🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 55m ago
+⭐ 1.6k • 🔱 132 • 33m ago
 
 ---
 
@@ -673,7 +673,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 981 • 🔱 120 • 3h ago
+⭐ 982 • 🔱 121 • 3h ago
 
 ---
 
@@ -683,7 +683,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 839 • 🔱 22 • 20h ago
+⭐ 840 • 🔱 22 • 20h ago
 
 ---
 
@@ -693,7 +693,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 830 • 🔱 44 • 8h ago
+⭐ 831 • 🔱 44 • 8h ago
 
 ---
 
@@ -713,7 +713,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 808 • 🔱 261 • 2d ago
+⭐ 810 • 🔱 262 • 2d ago
 
 ---
 
@@ -723,7 +723,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 654 • 🔱 102 • 5h ago
+⭐ 685 • 🔱 104 • 2m ago
 
 ---
 

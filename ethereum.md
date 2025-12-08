@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T15:28:54.208873+00:00'
+updated: '2025-12-08T15:45:44.315605+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 15:28 UTC  
+**Last Updated:** December 08, 2025 at 15:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +3.7%  
-**30d:** -13.5%  
-**90d:** -28.7%  
-**1y:** -16.5%  
+**24h:** +1.8%  
+**7d:** +3.3%  
+**30d:** -13.8%  
+**90d:** -29.0%  
+**1y:** -16.9%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138,452 ETH, equivalent to about US$435 million, in its latest accumulation round. This bold move boosts BitMine’s total crypto holdings significantly, reinforcing its position as one of the largest institutional holders of Ethereum (ETH) worldwide. Tom Lee and his team cited several catalysts behind this surge: the recent Fusaka upgrade to the Ethereum network — implemented 3 December — which promises improved scalability, security and usability. Additionally, macroeconomic conditions appear favorable, with expectations of a loosening monetary policy by the Federal Reserve potentially supporting broader crypto market recovery. The scale of the purchase (over 138,000 ETH in just a week) marks a dramatic acceleration compared to previous buying patterns — reportedly about 156 % more than the firm’s weekly average four weeks ago. In doing so, BitMine pushes further toward its longer-term target of controlling up to 5 % of Ethereum’s total supply. In sum, this $435 million acquisition underlines BitMine’s growing conviction in Ethereum’s long-term potential, signaling confidence in both network upgrades and macroeconomic conditions that may favor a renewed bull cycle in crypto.
 
-33m ago
+50m ago
 
 ---
 
@@ -94,7 +94,7 @@ AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ether
 
 **[Five years ago, an Ethereum standards author was threatened with trademark legal action over the name of a smart contract standard](https://www.reddit.com/r/ethereum/comments/1phe1xy/five_years_ago_an_ethereum_standards_author_was/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 48m ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 1h ago
 
 ---
 
@@ -142,7 +142,7 @@ This is Part Seven of the eight-part series: Can I Pay With This: A stablecoin e
 
 I was recently censored by Edmund something, so I thought I would ask this community if you could disprove an assumption I have considered. I have considered a scaling paradigm, and here would like to ask about it for a simpler ledger like UTXO-model (and the idea is that the same principles can be scaled up to more advanced "world computer" like Ethereum). It seems appropriate to attack my argument rather than censor me for having respect for another individual (Craig Wright). My idea is very simple. Shard a UTXO ledger by transaction hash mod numShards. There is "wiggle room" for nodes to shard with different values, as it can translate back and forth. Then, if 1024 shards, let shard 0 build blocks only with transaction hashes it "owns", and any shard using those as inputs will have to request the right from the shard. The shards manage and stores such "virtual blocks". Propagation of mempool transactions as well as "virtual blocks" is between shards only (or, mainly). Shards will request transactions from mempool by modulo numShards, and similar with the "virtual block" (where the boundaries of that block is the Merkle tree, so it naturally also splits and combines so people can use different numShards). The central block header is signed by the "coordinator" (via proof-of-work or proof-of-stake or proof-of-suffrage) who combines the Merkle roots of the sub-blocks. They trust all their "sub-nodes" internally. Likewise, the transaction fees can be done easily in UTXO-format by each sub-node reporting their own output for coinbase. Assuming 1 MB blocks and 1024 shards, 5000 transactions per block, on average 2-3 inputs per transaction, on average 10-15 requests per shard-pair. The geographical distribution solves the bandwidth bottleneck (as well as computation and storage to some extent) and lets less advanced hardware still team-up to easily operate on gigabyte (or more) blocks. What is the added latency would people here say from the geographical distribution of the shards?
 
-21h ago
+22h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 17h ago
 
 ZKsync is retiring its original Lite network, formalizing a shift toward ZKsync Era and the ZK Stack as activity on the legacy rollup fades.
 
-Decrypt • 12h ago
+Decrypt • 13h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 12h ago
 
 BitMine has reported its first annual earnings since pivoting to an Ethereum treasury strategy. The company has amassed 3.86 million ETH, equivalent to around 3% ...
 
-Yahoo Finance • 24m ago
+Yahoo Finance • 40m ago
 
 ---
 
@@ -272,7 +272,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 304 • 👍 27 • 💬 3 • ⏱️ 4:33 • 5h ago
+👁️ 304 • 👍 27 • 💬 3 • ⏱️ 4:33 • 6h ago
 
 ---
 
@@ -302,7 +302,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 407 • 💬 184 • ⏱️ 19:45 • 20h ago
+👁️ 10K • 👍 407 • 💬 184 • ⏱️ 19:45 • 21h ago
 
 ---
 
