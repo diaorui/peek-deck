@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T14:56:47.556179+00:00'
+updated: '2025-12-08T15:28:54.212119+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 14:56 UTC  
+**Last Updated:** December 08, 2025 at 15:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
 
-1h ago
+2h ago
 
 ---
 
@@ -50,7 +50,7 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
-2h ago
+3h ago
 
 ---
 
@@ -70,7 +70,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 **[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -78,7 +78,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
-20h ago
+21h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 Just sharing a small test clip from a sim environment: simple walking + a few controlled kicks. From my experience, getting this kind of behavior to look even remotely stable depends a lot on two things: the accuracy of the rigid-body collisions how well the contact forces are resolved frame-to-frame If either of those is off, the foot either tunnels through the ball or the ball reacts in weird, non-physical ways. With a more accurate physics setup, the kick actually lands where you expect, and the robot’s gait doesn’t blow up.
 
-1h ago
+2h ago
 
 ---
 
@@ -94,7 +94,7 @@ Just sharing a small test clip from a sim environment: simple walking + a few co
 
 An old picture. The progress is in the coding, and testing, and tuning of the hardware.
 
-23h ago
+1d ago
 
 ---
 
@@ -102,7 +102,7 @@ An old picture. The progress is in the coding, and testing, and tuning of the ha
 
 NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑language‑action foundation model for humanoid robots, built to connect perception, language, and low‑level control so a single policy can handle many manipulation tasks across different embodiments. Since GTC they have released GR00T N1 and then N1.5 with architectural and data upgrades aimed at better generalization, grounding, and language following, plus tooling like simulation blueprints and synthetic motion data pipelines to accelerate training.​​ For anyone here actually playing with GR00T in the lab or integrating it on real hardware: how mature is it right now compared to the keynote demos and marketing? Any experiences with N1 vs N1.5, sim‑to‑real transfer, or using the GR00T toolchain (Dreams / Blueprint / Omniverse etc.) in a serious robotics stack would be super valuable to hear about.​
 
-11h ago
+12h ago
 
 ---
 
@@ -114,7 +114,7 @@ NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑l
 
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
-MIT News • 2d ago
+MIT News • 3d ago
 
 ---
 
@@ -122,7 +122,15 @@ MIT News • 2d ago
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
-Bloomberg.com • 50m ago
+Bloomberg.com • 1h ago
+
+---
+
+**[Israeli official says Gaza conflict was ‘first robotics war’](https://breakingdefense.com/2025/12/israeli-official-says-gaza-conflict-was-first-robotics-war/)**
+
+The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
+
+Breaking Defense • 46m ago
 
 ---
 
@@ -166,14 +174,6 @@ wallpaper.com • 1d ago
 
 ---
 
-**[Unitree's Big Humanoid Robots Are Fighting Now](https://www.cnet.com/tech/computing/unitrees-big-humanoid-robots-are-fighting-now/)**
-
-Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
-
-CNET • 1d ago
-
----
-
 **[EngineAI CEO takes a kick from T800 humanoid to silence CGI rumors](https://interestingengineering.com/ai-robotics/engineai-t800-humanoid-robot-kicks-ceo)**
 
 Chinese robotics frim EngineAI shows CEO being kicked by T800 robot to prove real-world capabilities amid CGI speculation.
@@ -182,11 +182,11 @@ Interesting Engineering • 6h ago
 
 ---
 
-**[Israeli official says Gaza conflict was ‘first robotics war’](https://breakingdefense.com/2025/12/israeli-official-says-gaza-conflict-was-first-robotics-war/)**
+**[Unitree's Big Humanoid Robots Are Fighting Now](https://www.cnet.com/tech/computing/unitrees-big-humanoid-robots-are-fighting-now/)**
 
-The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
+Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
-Breaking Defense • 14m ago
+CNET • 1d ago
 
 ---
 
@@ -200,7 +200,7 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 18K • 👍 381 • 💬 183 • ⏱️ 4:05 • 3d ago
+👁️ 18K • 👍 382 • 💬 184 • ⏱️ 4:05 • 3d ago
 
 ---
 
@@ -210,7 +210,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 34K • 👍 1K • 💬 83 • ⏱️ 24:47 • 1d ago
+👁️ 34K • 👍 1K • 💬 85 • ⏱️ 24:47 • 1d ago
 
 ---
 
@@ -220,7 +220,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 124K • 👍 579 • 💬 210 • ⏱️ 1:03 • 1d ago
+👁️ 130K • 👍 606 • 💬 216 • ⏱️ 1:03 • 1d ago
 
 ---
 
@@ -230,7 +230,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 78K • 👍 634 • 💬 288 • ⏱️ 2:30 • 4d ago
+👁️ 78K • 👍 637 • 💬 295 • ⏱️ 2:30 • 5d ago
 
 ---
 
@@ -240,7 +240,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 20K • 👍 179 • 💬 6 • ⏱️ 0:25 • 1d ago
+👁️ 21K • 👍 190 • 💬 6 • ⏱️ 0:25 • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hosting
 
 📺 Fin Tek
 
-👁️ 76K • 👍 2K • 💬 193 • ⏱️ 21:31 • 2d ago
+👁️ 77K • 👍 2K • 💬 194 • ⏱️ 21:31 • 2d ago
 
 ---
 
@@ -260,35 +260,37 @@ Unitree's latest demos reveal that kickboxing is no longer just for its smaller 
 
 📺 CNET
 
-👁️ 27K • 👍 609 • 💬 94 • ⏱️ 6:05 • 1d ago
+👁️ 27K • 👍 617 • 💬 94 • ⏱️ 6:05 • 1d ago
 
 ---
 
-**[China&#39;s humanoid robotics leap: new T800 unveiled](https://www.youtube.com/watch?v=wbLl3aSOzoc)**
+**[Robot Girl at the Expo Tried Selling Me a Wife 🤖💍](https://www.youtube.com/watch?v=ZKdEqrVIabY)**
 
-For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-new-T800-unveiled-1INHjYVbHGM/p.html ...
+Here's what happened when I asked a robot receptionist about partner models at a tech expo… I was already talking to one ...
 
-📺 CGTN
+📺 AI Robot Reality
 
-👁️ 106K • 💬 654 • ⏱️ 1:21 • 5d ago
-
----
-
-**[Purchased the newly released 2025 humanoid robot. #robotics #ai #humanoidrobot #airobot](https://www.youtube.com/watch?v=NJeenJ276ug)**
-
-📺 AI . Robot
-
-👁️ 1.6M • 👍 9K • 💬 48 • ⏱️ 0:17 • 4d ago
+👁️ 8K • 👍 173 • 💬 4 • ⏱️ 0:19 • 1d ago
 
 ---
 
-**[This Isn&#39;t Your Typical Humanoid Robot](https://www.youtube.com/watch?v=NjwgtvVPy04)**
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=3Mt2UGY_6lM)**
 
-Memo is a wheeled home robot from Sunday Robotics, a Mountain View startup founded by Stanford PhDs Tony Zhao and Cheng ...
+At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
 
-📺 Game of Tomorrow
+📺 Humanoid Robot 🤖
 
-👁️ 668K • 👍 22K • 💬 1K • ⏱️ 0:55 • 2d ago
+👁️ 56K • 👍 557 • 💬 12 • ⏱️ 0:19 • 2d ago
+
+---
+
+**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
+
+Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
+
+📺 AI Revolution
+
+👁️ 100K • 👍 2K • 💬 403 • ⏱️ 12:07 • 2d ago
 
 ---
 

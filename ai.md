@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T14:56:47.538524+00:00'
+updated: '2025-12-08T15:28:54.194324+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- social
 - repositories
+- social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 14:56 UTC  
+**Last Updated:** December 08, 2025 at 15:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,13 +49,7 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 "For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
-🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 12h ago
-
----
-
-**[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
-
-2h ago
+🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 13h ago
 
 ---
 
@@ -63,7 +57,13 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
-1h ago
+2h ago
+
+---
+
+**[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
+
+2h ago
 
 ---
 
@@ -75,11 +75,35 @@ Source: https://openrouter.ai/state-of-ai TL;DR 1. new landscape of open source:
 
 ---
 
+**[Block all AI browsers for the foreseeable future: Gartner](https://www.reddit.com/r/artificial/comments/1phf7qc/block_all_ai_browsers_for_the_foreseeable_future/)**
+
+: Analysts worry lazy users could have agents complete mandatory infosec training, and attackers could do far nastier things
+
+🔗 [theregister.com](https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/) • 3m ago
+
+---
+
+**[I’m a junior dev who just got laid off, what should my next step be](https://www.reddit.com/r/artificial/comments/1phdknj/im_a_junior_dev_who_just_got_laid_off_what_should/)**
+
+So I’m a junior dev who just got laid off from my webdev job, and with AI agents on the rise I think it will just get harder and harder to get back into a similar role. Thus, I’m looking to pivot to any area that is more resistant to AI. Preferably in tech. I love learning new stuff, and being unemployed I have more than enough time on my hands so the learning part shouldn’t be a big problem. I just need to find a direction where the skills I learn won’t be rendered worthless by AI anytime soon. I’m thinking either low level stuff like C++, or machine learning. I’m thinking of building a portfolio throughout the process and also building connections along the way. Like, sooner or later these areas will be eaten by AI too, but I would guess it would take some years at least, with machine learning going last? I’ve also been pondering on maybe doing a deep research on all the current AI tools and the underlying tech and see if there’s any edge cases in any domains where I can use that knowledge to build something disruptive. I would imagine that although there’s a lot of AI hype now there will still be a lot of people sleeping on it making for many opportunities. At the same time, AI has made building stuff a lot easier so there will ofc also be increased competition. So what do you guys think about these directions? And any other interesting areas I could go for that will be resistant to AI in the forseeable future?
+
+1h ago
+
+---
+
+**[Why IBM’s CEO doesn’t think current AI tech can get to AGI](https://www.reddit.com/r/artificial/comments/1phd30j/why_ibms_ceo_doesnt_think_current_ai_tech_can_get/)**
+
+IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks big bets like Watsonx and next-gen computing will pay off.
+
+🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 1h ago
+
+---
+
 **[Diary of a CEO Interview w/Tristan Harris](https://www.reddit.com/r/artificial/comments/1phaxne/diary_of_a_ceo_interview_wtristan_harris/)**
 
 Referral link system with points and rewards
 
-🔗 [doac-perks.com](https://doac-perks.com/r/ClDotltjY7) • 2h ago
+🔗 [doac-perks.com](https://doac-perks.com/r/ClDotltjY7) • 3h ago
 
 ---
 
@@ -88,28 +112,6 @@ Referral link system with points and rewards
 Explore the true history of convolutional neural networks, from Fukushima’s neocognitron to modern CNNs and LeCun’s influential work.
 
 🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 1d ago
-
----
-
-**[This is how, Elon Musk, Bill Gates, Satya Nadella, Jensen Huang will solve Unemployment.](https://www.reddit.com/r/artificial/comments/1pgg0sw/this_is_how_elon_musk_bill_gates_satya_nadella/)**
-
-If you believe these CEOs will solve unemployment after AI replaces most of the human workers, this video is for you.
-
-1d ago
-
----
-
-**[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
-
-🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 1d ago
-
----
-
-**[Get 1 month of ChatGPT free by "cancelling" your paid plan](https://www.reddit.com/r/artificial/comments/1pgoc3j/get_1_month_of_chatgpt_free_by_cancelling_your/)**
-
-Just did this myself, and now sharing for others! I have ChatGPT Plus, and when I tried to cancel it offered me a free month. Worked for two of my friends as well. Steps Go to chatgpt on your web browser At the bottom left click on your name (you need to be logged in) Click on Settings Click on last section: Account Near top right click on: Manage Click on: Cancel Subscription Done!
-
-21h ago
 
 ---
 
@@ -125,29 +127,49 @@ CNBC • 6h ago
 
 ---
 
-**[Trump Says He’ll Sign Executive Order Curbing State AI Rules](https://www.bloomberg.com/news/articles/2025-12-08/trump-says-he-ll-sign-executive-order-curbing-state-ai-rules)**
+**[Trump says he will sign ‘One Rule’ executive order to federalize AI regulation](https://www.foxbusiness.com/politics/trump-says-he-sign-one-rule-executive-order-federalize-ai-regulation)**
 
-President Donald Trump said he would approve an executive order this week establishing “ONE RULE” on artificial intelligence aimed at limiting state-level policies regulating the technology.
+Trump announces federal AI regulation executive order this week to streamline artificial intelligence rules across states and maintain U.S. leadership.
 
-Bloomberg.com • 1h ago
-
----
-
-**[AI could transform the physical world. To do so, it will need human expertise](https://www.fastcompany.com/91448186/ai-could-transform-the-physical-world-to-do-so-it-will-need-human-expertise)**
-
-Fast Company • 15m ago
+Fox Business • 1h ago
 
 ---
 
-**[The power crunch threatening America’s AI ambitions](https://ig.ft.com/ai-power/)**
+**[AI Computer Startup Hits $4.5 Billion Valuation in Seed Round](https://www.bloomberg.com/news/articles/2025-12-08/ai-computer-startup-hits-4-5-billion-valuation-in-seed-round)**
 
-Financial Times • 9h ago
+Bloomberg.com • 28m ago
+
+---
+
+**[AI Might Be Coming for Your Job. There’s a Proven Way to Fight Back.](https://www.esquire.com/lifestyle/money/a69620765/midlife-career-change-entrepreneuralism/)**
+
+More middle-age and older Americans are becoming entrepreneurs and seizing control of their careers. The leap can be stressful but ultimately rewarding—just listen to the people who’ve already done it.
+
+Esquire • 28m ago
+
+---
+
+**[Intel, Adobe and these other ‘AI loser’ stocks could get left behind in the next phase of the tech boom](https://www.marketwatch.com/story/intel-adobe-and-these-other-ai-loser-stocks-could-get-left-behind-in-the-next-phase-of-the-tech-boom-e6cd25ef?gaa_at=eafs&gaa_n=AWEtsqceffS3pPZj5dWOl-in5EbVJy2BNxbG6u_VPFxUu2X6heBLnJfsB-Qc&gaa_ts=6936f218&gaa_sig=O6rCSh6C7DMajRFkuI29kdZ8SiVOEt8RtyvjTRfbLkmLetxvk8z7Fr4ZXxw1hui8vvKRW00GGMgwMVblcjU4yQ%3D%3D)**
+
+MarketWatch • 11m ago
 
 ---
 
 **[Why there's an AI bubble and why you shouldn't ignore it](https://www.axios.com/2025/12/08/ai-bubble-open-ai-google-bret-taylor)**
 
-Axios • 3h ago
+Axios • 4h ago
+
+---
+
+**[The power crunch threatening America’s AI ambitions](https://ig.ft.com/ai-power/)**
+
+Financial Times • 10h ago
+
+---
+
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqex1kjDcDKeyH9GYyxQ7KyyRIaMj--wIJmOw0zwWpTd1kz_WaoO6Cjv&gaa_ts=6936f218&gaa_sig=clpr_gSIKen7CWE-Us-YL-B-7qZIn77s_ZdzJRTBD_pLEMhKjft1a12DFi1uG_Hu6eRIAj8uGsmO2_SpIpid3A%3D%3D)**
+
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -155,13 +177,7 @@ Axios • 3h ago
 
 The new generation began university when ChatGPT launched in 2022 and they now account for roughly half of all ChatGPT usage.
 
-Fortune • 3h ago
-
----
-
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqdXmrPaVW5p65vQ9D_m5q6rltqYCd_lnKusCgsBo4U7d3tKbXBtyHJx&gaa_ts=6936ea97&gaa_sig=C6y3oOX4uAK5WidL06AaoQyZqyox8gJ7reKbD423-Omw8VagfmXozjRymhbE7GJj2TNOH-d6iUF2TZfzeYNzsw%3D%3D)**
-
-The Wall Street Journal • 1d ago
+Fortune • 4h ago
 
 ---
 
@@ -169,21 +185,7 @@ The Wall Street Journal • 1d ago
 
 AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-The Guardian • 1d ago
-
----
-
-**[Only a few automakers to keep up AI push, Gartner says](https://www.reuters.com/business/autos-transportation/only-few-automakers-keep-up-ai-push-gartner-says-2025-12-08/)**
-
-Reuters • 5h ago
-
----
-
-**[Young people aren't getting hired, but it's not because of AI](https://www.businessinsider.com/ai-impact-jobs-youth-unemployment-hiring-freeze-uncertainty-tariffs-2025-12)**
-
-A hiring freeze, not AI, is pushing youth unemployment higher as firms pause expansion amid uncertainty and tariffs.
-
-Business Insider • 9h ago
+The Guardian • 2d ago
 
 ---
 
@@ -201,7 +203,7 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 542 • 💬 173 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 546 • 💬 174 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -215,7 +217,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 112 • 💬 201 • 22h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 113 • 💬 201 • 22h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -253,7 +255,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-⬆️ 35 • 💬 6 • 19h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
+⬆️ 35 • 💬 6 • 20h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
 
 ---
 
@@ -273,17 +275,7 @@ OpenAI is in a full internal race after a major leak revealed a new model called
 
 📺 AI Revolution
 
-👁️ 45K • 👍 1K • 💬 83 • ⏱️ 12:31 • 14h ago
-
----
-
-**[Chinas New FREE AI: Baidu Ernie 5.0 Just CRUSHED ChatGPT...](https://www.youtube.com/watch?v=9UPw7hSDsxQ)**
-
-Want to make money and save time with AI? Join here: https://juliangoldieai.com/07L1kg.
-
-📺 Julian Goldie SEO
-
-👁️ 3K • 👍 133 • 💬 19 • ⏱️ 8:14 • 15h ago
+👁️ 54K • 👍 1K • 💬 85 • ⏱️ 12:31 • 15h ago
 
 ---
 
@@ -293,7 +285,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 48K • 👍 3K • 💬 471 • ⏱️ 15:03 • 22h ago
+👁️ 49K • 👍 3K • 💬 478 • ⏱️ 15:03 • 23h ago
 
 ---
 
@@ -303,17 +295,7 @@ Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial i
 
 📺 Fox News Clips
 
-👁️ 47K • 👍 699 • 💬 319 • ⏱️ 6:22 • 2d ago
-
----
-
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
-
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
-
-📺 AI Revolution
-
-👁️ 98K • 👍 2K • 💬 403 • ⏱️ 12:07 • 2d ago
+👁️ 47K • 👍 704 • 💬 324 • ⏱️ 6:22 • 2d ago
 
 ---
 
@@ -323,17 +305,27 @@ Bear releases a struggling fish into a pond #ai #fish #relases #bear.
 
 📺 Ai story Time
 
-👁️ 6K • 👍 76 • 💬 3 • ⏱️ 0:41 • 4h ago
+👁️ 9K • 👍 183 • 💬 3 • ⏱️ 0:41 • 5h ago
 
 ---
 
-**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=ozCKqX2rgzg)**
+**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
 
-Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
 
-📺 Impossible AIs
+📺 AI Revolution
 
-👁️ 990K • 👍 3K • 💬 94 • ⏱️ 8:06 • 2d ago
+👁️ 100K • 👍 2K • 💬 403 • ⏱️ 12:07 • 2d ago
+
+---
+
+**[Chinas New FREE AI: Baidu Ernie 5.0 Just CRUSHED ChatGPT...](https://www.youtube.com/watch?v=9UPw7hSDsxQ)**
+
+Want to make money and save time with AI? Join here: https://juliangoldieai.com/07L1kg.
+
+📺 Julian Goldie SEO
+
+👁️ 4K • 👍 148 • 💬 19 • ⏱️ 8:14 • 16h ago
 
 ---
 
@@ -343,27 +335,37 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Ge
 
 📺 BitBiasedAI
 
-👁️ 38K • 👍 1K • 💬 41 • ⏱️ 11:49 • 1d ago
+👁️ 40K • 👍 1K • 💬 43 • ⏱️ 11:49 • 1d ago
 
 ---
 
-**[INSANE AI Curling Robot in Dubai 😱💇‍♀️ Automatic Perm Tech From the Future!](https://www.youtube.com/watch?v=DVHdsiOCxDk)**
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=ozCKqX2rgzg)**
 
-AI #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle #Salon #Trending #Viral #Shorts ...
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
 
-📺 Adv Life
+📺 Impossible AIs
 
-👁️ 68K • 👍 868 • 💬 10 • ⏱️ 0:11 • 4h ago
+👁️ 1.0M • 👍 3K • 💬 94 • ⏱️ 8:06 • 2d ago
 
 ---
 
-**[AI chatbots raise safety concerns for children, experts warn](https://www.youtube.com/watch?v=nArJwD__aE8)**
+**[AI Insider WARNS: “This Ends Much Worse Than You Think”](https://www.youtube.com/watch?v=dnkRXYmmgX0)**
 
-Research shows that AI chatbots like Character AI can be harmful to children. Here's what Sharyn Alfonsi learned when she talked ...
+World-leading AI scientist Professor Stuart Russell issues one of the most urgent warnings ever given on this channel. After five ...
 
-📺 60 Minutes
+📺 The Diary Of A CEO Clips
 
-👁️ 9K • 👍 186 • 💬 30 • ⏱️ 7:11 • 14h ago
+👁️ 224K • 👍 4K • 💬 1K • ⏱️ 21:18 • 1d ago
+
+---
+
+**[The monkey gave his mother a beautiful auto rickshaw #ai #shorts #viral](https://www.youtube.com/watch?v=LOT2y51t5JU)**
+
+The monkey gave his mother a beautiful auto rickshaw #ai #shorts #viral This emotional and heart-touching AI shorts video shows ...
+
+📺 Super AI Story
+
+👁️ 27K • 💬 1 • ⏱️ 0:47 • 3h ago
 
 ---
 
@@ -379,7 +381,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,317 • 6d ago
+⬇️ 201,990 • ❤️ 2,319 • 6d ago
 
 ---
 
@@ -403,7 +405,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 512 • 11h ago
+⬇️ 40,450 • ❤️ 513 • 12h ago
 
 ---
 
@@ -425,7 +427,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 270 • 6d ago
+⬇️ 0 • ❤️ 272 • 6d ago
 
 ---
 
@@ -469,7 +471,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 207,838 • ❤️ 935 • 11d ago
+⬇️ 207,838 • ❤️ 936 • 11d ago
 
 ---
 
@@ -641,7 +643,7 @@ The paper introduces Reward Forcing, which enhances video generation by updating
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 23m ago
+⭐ 1.6k • 🔱 132 • 55m ago
 
 ---
 
@@ -671,7 +673,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 981 • 🔱 120 • 2h ago
+⭐ 981 • 🔱 120 • 3h ago
 
 ---
 
@@ -691,7 +693,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 830 • 🔱 44 • 7h ago
+⭐ 830 • 🔱 44 • 8h ago
 
 ---
 
@@ -721,7 +723,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 654 • 🔱 102 • 4h ago
+⭐ 654 • 🔱 102 • 5h ago
 
 ---
 
