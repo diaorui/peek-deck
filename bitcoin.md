@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T07:42:06.255226+00:00'
+updated: '2025-12-08T07:53:14.909516+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
-- cryptocurrency
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 07:42 UTC  
+**Last Updated:** December 08, 2025 at 07:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.9%  
-**7d:** +0.3%  
-**30d:** -12.5%  
-**90d:** -19.5%  
-**1y:** -5.8%  
+**24h:** +2.6%  
+**7d:** +0.0%  
+**30d:** -12.7%  
+**90d:** -19.7%  
+**1y:** -6.0%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-54m ago
+1h ago
 
 ---
 
@@ -107,13 +107,13 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
-21h ago
+22h ago
 
 ---
 
 **[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -141,7 +141,7 @@ Some people on TV or online act like inflation is “not that bad” or even pre
 
 Mastercard’s Crypto Card Program enables consumers to use their crypto cards to pay with crypto for everyday transactions across 100 million+ acceptance locations.
 
-🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 14h ago
+🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 15h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 16h ago
 
 Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -293,7 +293,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 2 • 💬 0 • 19m ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 2 • 💬 0 • 30m ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 

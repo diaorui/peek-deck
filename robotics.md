@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T07:42:06.264678+00:00'
+updated: '2025-12-08T07:53:14.918980+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 07:42 UTC  
+**Last Updated:** December 08, 2025 at 07:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 **[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -86,7 +86,7 @@ An old picture. The progress is in the coding, and testing, and tuning of the ha
 
 Does any one have build the robotics arm which can be controlled via neural signals? If yes the which servos are preferred? And how many axis where u guys able to achieve it?
 
-31m ago
+42m ago
 
 ---
 
@@ -136,7 +136,7 @@ Seeking Alpha • 2d ago
 
 Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
 
-CNN • 18h ago
+CNN • 19h ago
 
 ---
 
