@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T05:00:43.453172+00:00'
+updated: '2025-12-08T05:33:53.144960+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
 - cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 05:00 UTC  
+**Last Updated:** December 08, 2025 at 05:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,9 +44,9 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** -0.5%  
-**30d:** -13.2%  
+**24h:** +1.9%  
+**7d:** -0.1%  
+**30d:** -12.8%  
 **90d:** -19.8%  
 **1y:** -6.2%  
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1820.10B
+**Market Cap:** $1822.26B
 Rank #1
 
-**Circulating Supply:** 19,959,137 BTC
+**Circulating Supply:** 19,959,162 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.7%
+-27.6%
 
 **All-Time Low:** $67.81
-+134400.8%
++134566.0%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -91,15 +91,7 @@ Rank #1
 
 **[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
 
-1h ago
-
----
-
-**[MasterCard is Orange Pilled for 1 Billion Users](https://www.reddit.com/r/Bitcoin/comments/1pgenos/mastercard_is_orange_pilled_for_1_billion_users/)**
-
-1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
-
-19h ago
+2h ago
 
 ---
 
@@ -111,9 +103,23 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 ---
 
+**[MasterCard is Orange Pilled for 1 Billion Users](https://www.reddit.com/r/Bitcoin/comments/1pgenos/mastercard_is_orange_pilled_for_1_billion_users/)**
+
+1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
+
+19h ago
+
+---
+
+**[To all who sold…](https://www.reddit.com/r/Bitcoin/comments/1ph3rsw/to_all_who_sold/)**
+
+35m ago
+
+---
+
 **[Not selling Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgtw05/not_selling_bitcoin/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -139,12 +145,6 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 ---
 
-**[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -153,7 +153,7 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 President Trump's latest national security strategy omits digital assets, focusing instead on AI, biotech, and quantum computing.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -165,11 +165,41 @@ Decrypt • 12h ago
 
 ---
 
+**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
+
+Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
+
+Financial Times • 33m ago
+
+---
+
+**[Bitcoin Edges Back Above $91,000 as Traders Brace for Fed Decision and Jobs Data](https://decrypt.co/351388/bitcoin-back-above-91000-traders-brace-fed-decision-jobs-data)**
+
+Bitcoin is edging higher ahead of the Fed’s final rate decision and a key jobs report, extending its rebound as thin liquidity persists.
+
+Decrypt • 2h ago
+
+---
+
 **[Bitcoin Edges Back Above $91,000 as Traders Brace for Fed Decision and Jobs Data](https://finance.yahoo.com/news/bitcoin-edges-back-above-91-032952373.html)**
 
 Bitcoin is edging higher ahead of the Fed’s final rate decision and a key jobs report, extending its rebound as thin liquidity persists.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[BTC, XRP, ETH, SOL News: Bitcoin in Counter-Trend Channel](https://www.coindesk.com/markets/2025/12/08/here-s-how-bitcoin-xrp-ether-and-solana-may-trade-today)**
+
+ETH mirrors BTC's counter-trend consolidation as XRP probes key $2 support and SOL remains directionless
+
+CoinDesk • 46m ago
+
+---
+
+**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
+
+TheStreet • 2d ago
 
 ---
 
@@ -178,12 +208,6 @@ Yahoo Finance • 1h ago
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
 Bloomberg.com • 1d ago
-
----
-
-**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
-
-TheStreet • 2d ago
 
 ---
 
@@ -200,30 +224,6 @@ The Motley Fool • 8h ago
 On today's episode of CNBC Crypto World, bitcoin and other major cryptocurrencies turn negative to closer out the week. Plus, prosecutors recommend a 12-year prison sentence for Terraform Labs founder Do Kwon. And Summer Mersinger, CEO of the Blockchain Association, discusses the group's upcoming policy summit in Washington, D.C.
 
 CNBC • 2d ago
-
----
-
-**[Crypto Adoption Continues Even As Bitcoin Stumbles](https://www.forbes.com/sites/digital-assets/2025/12/07/crypto-adoption-continues-even-as-bitcoin-stumbles/)**
-
-Crypto volatility has returned, but has not slowed adoption by institutions
-
-Forbes • 8h ago
-
----
-
-**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
-
-Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
-
-Futurism • 1d ago
-
----
-
-**[Bitcoin Is Set for First Yearly Split From Stocks in a Decade](https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-is-breaking-from-stock-rally-for-first-time-in-a-decade)**
-
-The S&amp;P 500 has climbed more than 16% in 2025, while Bitcoin is down 3% — the first time since 2014 that stocks have rallied while the token is down, according to data compiled by Bloomberg.
-
-Bloomberg.com • 2d ago
 
 ---
 
@@ -263,7 +263,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 1 • 13h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 1 • 14h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -323,7 +323,7 @@ TIA PRO $1000 OFF LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK 
 
 📺 Jason Pizzino
 
-👁️ 3K • 👍 380 • 💬 135 • ⏱️ 29:13 • 2h ago
+👁️ 3K • 👍 380 • 💬 135 • ⏱️ 29:13 • 3h ago
 
 ---
 
@@ -333,7 +333,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 283 • 💬 193 • ⏱️ 19:45 • 10h ago
+👁️ 6K • 👍 283 • 💬 193 • ⏱️ 19:45 • 11h ago
 
 ---
 
@@ -353,7 +353,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 504 • 💬 191 • ⏱️ 10:04 • 11h ago
+👁️ 12K • 👍 504 • 💬 191 • ⏱️ 10:04 • 12h ago
 
 ---
 
@@ -363,7 +363,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 25K • 👍 2K • 💬 89 • ⏱️ 41:33 • 7h ago
+👁️ 25K • 👍 2K • 💬 89 • ⏱️ 41:33 • 8h ago
 
 ---
 
@@ -373,7 +373,7 @@ My Free Trading Course https://www.rt1m.com/free Trading Bonuses & Fee Discounts
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 221 • 💬 43 • ⏱️ 4:27 • 6h ago
+👁️ 3K • 👍 221 • 💬 43 • ⏱️ 4:27 • 7h ago
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoin Whales Just Flipped Their Bets… Here's What They Know ⚠️ Something
 
 📺 Ryan’s Money Lab
 
-👁️ 19K • 👍 995 • 💬 64 • ⏱️ 11:17 • 12h ago
+👁️ 19K • 👍 995 • 💬 64 • ⏱️ 11:17 • 13h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T05:00:43.462413+00:00'
+updated: '2025-12-08T05:33:53.154341+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 05:00 UTC  
+**Last Updated:** December 08, 2025 at 05:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-17h ago
+18h ago
 
 ---
 
@@ -46,19 +46,17 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 ---
 
+**[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
+
+34m ago
+
+---
+
 **[MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control](https://www.reddit.com/r/robotics/comments/1pgpipx/mimickit_a_reinforcement_learning_framework_for/)**
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
-10h ago
-
----
-
-**[SO... still CGI ？](https://www.reddit.com/r/robotics/comments/1ph2olj/so_still_cgi/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 58m ago
+11h ago
 
 ---
 
@@ -66,7 +64,15 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 An old picture. The progress is in the coding, and testing, and tuning of the hardware.
 
-13h ago
+14h ago
+
+---
+
+**[SO... still CGI ？](https://www.reddit.com/r/robotics/comments/1ph2olj/so_still_cgi/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 1h ago
 
 ---
 
@@ -74,15 +80,7 @@ An old picture. The progress is in the coding, and testing, and tuning of the ha
 
 NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑language‑action foundation model for humanoid robots, built to connect perception, language, and low‑level control so a single policy can handle many manipulation tasks across different embodiments. Since GTC they have released GR00T N1 and then N1.5 with architectural and data upgrades aimed at better generalization, grounding, and language following, plus tooling like simulation blueprints and synthetic motion data pipelines to accelerate training.​​ For anyone here actually playing with GR00T in the lab or integrating it on real hardware: how mature is it right now compared to the keynote demos and marketing? Any experiences with N1 vs N1.5, sim‑to‑real transfer, or using the GR00T toolchain (Dreams / Blueprint / Omniverse etc.) in a serious robotics stack would be super valuable to hear about.​
 
-1h ago
-
----
-
-**[Newbie but want to built a small robot need help or guidance if any one can help?](https://www.reddit.com/r/robotics/comments/1ph2iw2/newbie_but_want_to_built_a_small_robot_need_help/)**
-
-I've been seeing the emo robots which look pretty cool but a little expensive. So I decided to challenge myself and make a robot of my own. But I also want a robot that could talk back to me like if i'm talking to a person or a I. But my culture is mexican american , and I want this a I.Robot to have like the soul of a mexican american person. So my question is, how do I start this? As of a shell for the robot could do it later, but for now, just like the brain, how can I get that functioning? Thank you.
-
-1h ago
+2h ago
 
 ---
 
@@ -94,17 +92,17 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 ---
 
+**[China's G1 humanoid robot is mastering combat skills at a terrifying rate](https://www.reddit.com/r/robotics/comments/1pghcyh/chinas_g1_humanoid_robot_is_mastering_combat/)**
+
+16h ago
+
+---
+
 **[I deployed a PPO-trained Bipedal Walker neural network on an STM32 microcontroller 🤖⚡ (full pipeline + code)](https://www.reddit.com/r/robotics/comments/1pgc7uw/i_deployed_a_ppotrained_bipedal_walker_neural/)**
 
 I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/adityabangde/BipedalWalker-PPO-STM32.git Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
 
-21h ago
-
----
-
-**[China's G1 humanoid robot is mastering combat skills at a terrifying rate](https://www.reddit.com/r/robotics/comments/1pghcyh/chinas_g1_humanoid_robot_is_mastering_combat/)**
-
-16h ago
+22h ago
 
 ---
 
@@ -182,9 +180,11 @@ CNET • 16h ago
 
 ---
 
-**[Need laundry folded? Don’t ask a robot](https://knowablemagazine.org/content/article/technology/2025/why-robots-cant-fold-laundry)**
+**[New robots inside Boise's USPS facility help process and handle packages during holiday rush](https://www.ktvb.com/article/news/local/new-robots-usps-facility-help-process-holiday-rush/277-0ba7c01f-695c-465f-80f4-e2889aeafaa6)**
 
-Knowable Magazine • 3d ago
+USPS Boise facility gets four robotic arms to help process 220,000 packages daily during holiday rush, allowing redeployment of workers to areas needing human touch.
+
+KTVB • 1d ago
 
 ---
 
@@ -248,7 +248,7 @@ Unitree's latest demos reveal that kickboxing is no longer just for its smaller 
 
 📺 CNET
 
-👁️ 22K • 👍 552 • 💬 76 • ⏱️ 6:05 • 15h ago
+👁️ 22K • 👍 552 • 💬 76 • ⏱️ 6:05 • 16h ago
 
 ---
 
@@ -258,7 +258,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 16K • 👍 139 • 💬 6 • ⏱️ 0:25 • 19h ago
+👁️ 16K • 👍 139 • 💬 6 • ⏱️ 0:25 • 20h ago
 
 ---
 

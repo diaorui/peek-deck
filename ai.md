@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T05:00:43.444787+00:00'
+updated: '2025-12-08T05:33:53.136521+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 05:00 UTC  
+**Last Updated:** December 08, 2025 at 05:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
-🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 2h ago
+🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 3h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Explore the true history of convolutional neural networks, from Fukushima’s neocognitron to modern CNNs and LeCun’s influential work.
 
-🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 14h ago
+🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 15h ago
 
 ---
 
@@ -57,13 +57,21 @@ Explore the true history of convolutional neural networks, from Fukushima’s ne
 
 If you believe these CEOs will solve unemployment after AI replaces most of the human workers, this video is for you.
 
-17h ago
+18h ago
+
+---
+
+**[Why long-run LLM behavior stops looking like a black box once the operator is treated as part of the system](https://www.reddit.com/r/artificial/comments/1ph3iyi/why_longrun_llm_behavior_stops_looking_like_a/)**
+
+Most discussions about LLMs analyze them as isolated artifacts: single prompts, static benchmarks, fixed evaluations. That framing breaks down when you observe long-range behavior across thousands of turns. What emerges is not a “smarter model”, but a system-level dynamic where coherence depends on interaction structure rather than architecture alone. Key observations: • Long-range coherence is not a model property. It is an interaction property. • Drift, instability, and “hallucinations” correlate more with operator inconsistency than with model choice. • Different LLMs converge toward similar behavior under the same structured interaction regime. • Short-context probes systematically miss higher-order stability patterns. This suggests a missing layer in how we describe LLMs: Not prompt engineering. Not fine-tuning. Not RAG. Operator-side cognitive structure. In extended sessions, the user effectively becomes part of the control loop, shaping entropy, memory relevance, and symbolic continuity. When this structure is stable, model differences diminish. When it is not, even “top” models degrade. Implication: The current “which model is best?” framing is increasingly misleading. The real bottleneck in long-run performance is operator coherence, not parameter count. This does not imply model consciousness, agency, or intent. It implies that LLMs behave more like dynamical systems than static tools when observed over sufficient time horizons. Ignoring the operator as a system component is what keeps long-range behavior looking like a black box.
+
+48m ago
 
 ---
 
 **[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
 
-🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 14h ago
+🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 15h ago
 
 ---
 
@@ -87,7 +95,7 @@ Just did this myself, and now sharing for others! I have ChatGPT Plus, and when 
 
 I kept getting frustrated with the job search process, especially the part where you have several job postings open in different browser tabs and end up copying parts of each description into your resume. It was slow, repetitive, and honestly burned me out. Out of that frustration, I built an AI tool to automate the whole thing. You open the job posting tabs you are considering, the system reads each one, uses your background as the anchor, and creates a tailored resume for every tab. If you have ten tabs open, you get ten tailored resumes without doing all the manual copying. Overall happy with the use of Gemini, but curious of others experience with generation costs. Seems cheaper and quicker than ChatGPT thus far.
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +103,7 @@ I kept getting frustrated with the job search process, especially the part where
 
 Another day, another AI-related domain name going for 7 figures.
 
-🔗 [bizjournals.com](https://www.bizjournals.com/southflorida/news/2025/12/03/aireviews-corporation-domain-name-acquisition.html) • 7h ago
+🔗 [bizjournals.com](https://www.bizjournals.com/southflorida/news/2025/12/03/aireviews-corporation-domain-name-acquisition.html) • 8h ago
 
 ---
 
@@ -103,15 +111,7 @@ Another day, another AI-related domain name going for 7 figures.
 
 Could AI help us create virtual human cells? 🦠 Scientists are training AI to create virtual human cells, digital models that mimic how real cells behave. These simulations can predict how a cell might respond to medication, genetic mutations, or physical damage. While live lab tests are still essential, AI-powered models could make research faster, safer, and more personalized. By reducing trial-and-error in early stages, these tools could unlock faster drug discovery and bring us closer to tailored treatments for individuals.
 
-12h ago
-
----
-
-**[Home Office admits facial recognition tech issue with black and Asian subjects | Facial recognition](https://www.reddit.com/r/artificial/comments/1pgc8xv/home_office_admits_facial_recognition_tech_issue/)**
-
-Calls for review after technology found to return more false positives for ‘some demographic groups’ on certain settings
-
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 21h ago
+13h ago
 
 ---
 
@@ -123,7 +123,7 @@ Calls for review after technology found to return more false positives for ‘so
 
 Tilly Norwood is unlike any other aspiring TV or movie star: Tilly is entirely generated by artificial intelligence. What might that mean for the media industry?
 
-CBS News • 14h ago
+CBS News • 15h ago
 
 ---
 
@@ -135,20 +135,6 @@ Fortune • 11h ago
 
 ---
 
-**[Jamie Dimon predicts AI will not 'dramatically reduce' jobs in the next year](https://www.foxbusiness.com/media/jamie-dimon-predicts-ai-not-dramatically-reduce-jobs-next-year)**
-
-During an interview on "Sunday Morning Futures," JPMorgan Chase CEO Jamie Dimon predicted artificial intelligence will not "dramatically reduce" jobs next year if regulated properly.
-
-Fox Business • 9h ago
-
----
-
-**[Jamie Dimon says even though AI will eliminate some jobs 'maybe one day we'll be working less hard but having wonderful lives'](https://www.msn.com/en-us/money/markets/jamie-dimon-says-even-though-ai-will-eliminate-some-jobs-maybe-one-day-we-ll-be-working-less-hard-but-having-wonderful-lives/ar-AA1RTfCA?ocid=finance-verthp-feeds)**
-
-MSN • 4h ago
-
----
-
 **[America's AI dominance depends on winning the 'power race' against China, energy expert warns](https://www.foxbusiness.com/energy/americas-ai-dominance-depends-winning-power-race-against-china-energy-expert-warns)**
 
 America's AI dominance depends on winning the energy race against China, with natural gas as the key fuel to power massive data centers nationwide, energy expert says.
@@ -157,17 +143,19 @@ Fox Business • 1h ago
 
 ---
 
-**[Is AI a bubble that’s about to pop? – podcast](https://www.theguardian.com/news/audio/2025/dec/08/is-ai-a-bubble-thats-about-to-pop-podcast)**
+**[Is the AI Boom Becoming a Bubble? Here's What Investors Should Watch.](https://finance.yahoo.com/news/ai-boom-becoming-bubble-heres-044000441.html)**
 
-Should we be worried about the vast amounts of money pouring into AI? And what will happen if the bubble bursts? Blake Montgomery reports
+In a frothy market, it's more important than ever to stay focused on profitable leaders with a dominant market position.
 
-The Guardian • 1h ago
+Yahoo Finance • 53m ago
 
 ---
 
-**[OpenAI, ChatGPT: AI Should Be Asking Your Kids More Questions](https://www.bloomberg.com/opinion/articles/2025-12-08/openai-chatgpt-ai-should-be-asking-your-kids-more-questions)**
+**[Surge AI CEO says he worries that companies are optimizing for 'AI slop' instead of curing cancer](https://www.businessinsider.com/surgeai-ceo-edwin-chen-companies-optimizing-ai-slop-benchmark-gaming-2025-12)**
 
-Bloomberg.com • 1h ago
+"We're basically teaching our models to chase dopamine instead of truth," said Edwin Chen.
+
+Business Insider • 25m ago
 
 ---
 
@@ -175,21 +163,35 @@ Bloomberg.com • 1h ago
 
 Chinese internet companies increasingly say they don't have enough compute to power their artificial intelligence ambitions.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
-**[Apple's executive exodus sends a signal about its AI strategy](https://finance.yahoo.com/news/apples-executive-exodus-sends-a-signal-about-its-ai-strategy-150058611.html)**
+**[Artificial intelligence research has a slop problem, academics say: ‘It’s a mess’](https://www.theguardian.com/technology/2025/dec/06/ai-research-papers)**
 
-A number of executives are departing Apple. At least some of them are related to its AI strategy.
+AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-Yahoo Finance • 13h ago
+The Guardian • 1d ago
 
 ---
 
 **[Titans + MIRAS: Helping AI have long-term memory](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)**
 
 Google Research • 3d ago
+
+---
+
+**[Opinion | Is AI Making Us Dumb?](https://www.wsj.com/opinion/is-ai-making-us-dumb-21ea8e39?gaa_at=eafs&gaa_n=AWEtsqcKha9BYOYdRJQ982u-YyFO1n9gQAGmQWY7Gpxd73jtgrC6xdapn-r1&gaa_ts=693666ae&gaa_sig=3XMwmYFVw-EYgyETBHgYcxtYgAGwJ0ki_opR0Tc_M-G_7yEXF_kBDUYmApDXQJOXgg2RURMMm-ubB9SSHXrQ7w%3D%3D)**
+
+The Wall Street Journal • 10h ago
+
+---
+
+**[Creative workers on the affects of AI on their jobs](https://www.bbc.com/news/articles/c8e9627w156o)**
+
+How do an artist, a videographer, a musician and a copywriter feel about generative AI?
+
+BBC • 23h ago
 
 ---
 
@@ -207,7 +209,7 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 433 • 💬 144 • 16h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 439 • 💬 145 • 17h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -221,7 +223,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 103 • 💬 180 • 12h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 104 • 💬 187 • 12h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -237,7 +239,7 @@ Welcome to the slop era.
 
 Wall Street lends billions to AI companies while using credit derivatives and sophisticated bonds to hedge against potential bubble risks.
 
-⬆️ 72 • 💬 86 • 2d ago • [Rolling Out](https://rollingout.com/2025/12/05/wall-street-protects-itself-ai-bubble/)
+⬆️ 73 • 💬 86 • 2d ago • [Rolling Out](https://rollingout.com/2025/12/05/wall-street-protects-itself-ai-bubble/)
 
 ---
 
@@ -259,7 +261,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-⬆️ 32 • 💬 5 • 9h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
+⬆️ 33 • 💬 5 • 10h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
 
 ---
 
@@ -279,7 +281,7 @@ OpenAI is in a full internal race after a major leak revealed a new model called
 
 📺 AI Revolution
 
-👁️ 9K • 👍 459 • 💬 34 • ⏱️ 12:31 • 4h ago
+👁️ 9K • 👍 459 • 💬 34 • ⏱️ 12:31 • 5h ago
 
 ---
 
@@ -289,7 +291,7 @@ Big Tech is racking up debt to fund their AI infrastructure for demand that seem
 
 📺 Vanessa Wingårdh
 
-👁️ 87K • 👍 7K • 💬 2K • ⏱️ 10:38 • 15h ago
+👁️ 87K • 👍 7K • 💬 2K • ⏱️ 10:38 • 16h ago
 
 ---
 
@@ -319,7 +321,7 @@ I made the first set of these images almost by accident. I was trying for someth
 
 📺 Kelly Boesch AI Art
 
-👁️ 12K • 👍 925 • 💬 69 • ⏱️ 2:56 • 14h ago
+👁️ 12K • 👍 925 • 💬 69 • ⏱️ 2:56 • 15h ago
 
 ---
 
@@ -385,7 +387,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 25,451 • ❤️ 783 • 6d ago
+⬇️ 25,451 • ❤️ 784 • 6d ago
 
 ---
 
@@ -421,7 +423,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 461 • 1h ago
+⬇️ 27,215 • ❤️ 464 • 2h ago
 
 ---
 
@@ -441,7 +443,7 @@ Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million im
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 239 • 6d ago
+⬇️ 0 • ❤️ 240 • 6d ago
 
 ---
 
@@ -453,7 +455,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,828 • ❤️ 364 • 5d ago
+⬇️ 2,828 • ❤️ 365 • 5d ago
 
 ---
 
@@ -667,7 +669,7 @@ AI-powered git commit message rewriter using Ollama or GPT
 
 `Python`
 
-⭐ 1.0k • 🔱 208 • 7d ago
+⭐ 1.0k • 🔱 208 • 8d ago
 
 ---
 
@@ -697,7 +699,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 828 • 🔱 44 • 1h ago
+⭐ 828 • 🔱 44 • 2h ago
 
 ---
 
