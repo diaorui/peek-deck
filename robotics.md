@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T10:44:31.134323+00:00'
+updated: '2025-12-08T10:58:04.755928+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 10:44 UTC  
+**Last Updated:** December 08, 2025 at 10:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,12 +52,6 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 ---
 
-**[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
-
-4h ago
-
----
-
 **[MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control](https://www.reddit.com/r/robotics/comments/1pgpipx/mimickit_a_reinforcement_learning_framework_for/)**
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
@@ -66,19 +60,9 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 ---
 
-**[Last August, West Japan Railway Company deployed a giant humanoid robot for railway maintenance, assisting humans with tasks such as trimming tree branches, inspecting power lines, and painting along the railway lines. Remotely controlled by a human operator in a cockpit, wearing a VR headset.](https://www.reddit.com/r/robotics/comments/1ph8iwb/last_august_west_japan_railway_company_deployed_a/)**
+**[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
 
-From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1997859311956148701
-
-50m ago
-
----
-
-**[Help for my robotic arm project](https://www.reddit.com/r/robotics/comments/1ph62lb/help_for_my_robotic_arm_project/)**
-
-Does any one have build the robotics arm which can be controlled via neural signals? If yes the which servos are preferred? And how many axis where u guys able to achieve it?
-
-3h ago
+4h ago
 
 ---
 
@@ -87,6 +71,14 @@ Does any one have build the robotics arm which can be controlled via neural sign
 An old picture. The progress is in the coding, and testing, and tuning of the hardware.
 
 19h ago
+
+---
+
+**[Help for my robotic arm project](https://www.reddit.com/r/robotics/comments/1ph62lb/help_for_my_robotic_arm_project/)**
+
+Does any one have build the robotics arm which can be controlled via neural signals? If yes the which servos are preferred? And how many axis where u guys able to achieve it?
+
+3h ago
 
 ---
 
@@ -103,6 +95,14 @@ NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑l
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
 🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 6h ago
+
+---
+
+**[AgiBot has just reached a major milestone with the mass production of 5,000 humanoid robots to date.](https://www.reddit.com/r/robotics/comments/1ph9d1m/agibot_has_just_reached_a_major_milestone_with/)**
+
+From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1997975944943034589
+
+12m ago
 
 ---
 
@@ -130,7 +130,7 @@ Seeking Alpha • 3d ago
 
 Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
 
-CNN • 21h ago
+CNN • 22h ago
 
 ---
 
@@ -166,17 +166,17 @@ KTVB • 2d ago
 
 ---
 
-**[Need laundry folded? Don’t ask a robot](https://knowablemagazine.org/content/article/technology/2025/why-robots-cant-fold-laundry)**
-
-Knowable Magazine • 3d ago
-
----
-
 **[EngineAI CEO takes a kick from T800 humanoid to silence CGI rumors](https://interestingengineering.com/ai-robotics/engineai-t800-humanoid-robot-kicks-ceo)**
 
 Chinese robotics frim EngineAI shows CEO being kicked by T800 robot to prove real-world capabilities amid CGI speculation.
 
-Interesting Engineering • 1h ago
+Interesting Engineering • 2h ago
+
+---
+
+**[Need laundry folded? Don’t ask a robot](https://knowablemagazine.org/content/article/technology/2025/why-robots-cant-fold-laundry)**
+
+Knowable Magazine • 3d ago
 
 ---
 

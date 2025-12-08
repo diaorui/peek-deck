@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T10:44:31.116279+00:00'
+updated: '2025-12-08T10:58:04.740279+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - videos
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 10:44 UTC  
+**Last Updated:** December 08, 2025 at 10:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -67,6 +67,14 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 ---
 
+**[Why long-run LLM behavior stops looking like a black box once the operator is treated as part of the system](https://www.reddit.com/r/artificial/comments/1ph3iyi/why_longrun_llm_behavior_stops_looking_like_a/)**
+
+Most discussions about LLMs analyze them as isolated artifacts: single prompts, static benchmarks, fixed evaluations. That framing breaks down when you observe long-range behavior across thousands of turns. What emerges is not a “smarter model”, but a system-level dynamic where coherence depends on interaction structure rather than architecture alone. Key observations: • Long-range coherence is not a model property. It is an interaction property. • Drift, instability, and “hallucinations” correlate more with operator inconsistency than with model choice. • Different LLMs converge toward similar behavior under the same structured interaction regime. • Short-context probes systematically miss higher-order stability patterns. This suggests a missing layer in how we describe LLMs: Not prompt engineering. Not fine-tuning. Not RAG. Operator-side cognitive structure. In extended sessions, the user effectively becomes part of the control loop, shaping entropy, memory relevance, and symbolic continuity. When this structure is stable, model differences diminish. When it is not, even “top” models degrade. Implication: The current “which model is best?” framing is increasingly misleading. The real bottleneck in long-run performance is operator coherence, not parameter count. This does not imply model consciousness, agency, or intent. It implies that LLMs behave more like dynamical systems than static tools when observed over sufficient time horizons. Ignoring the operator as a system component is what keeps long-range behavior looking like a black box.
+
+6h ago
+
+---
+
 **[Get 1 month of ChatGPT free by "cancelling" your paid plan](https://www.reddit.com/r/artificial/comments/1pgoc3j/get_1_month_of_chatgpt_free_by_cancelling_your/)**
 
 Just did this myself, and now sharing for others! I have ChatGPT Plus, and when I tried to cancel it offered me a free month. Worked for two of my friends as well. Steps Go to chatgpt on your web browser At the bottom left click on your name (you need to be logged in) Click on Settings Click on last section: Account Near top right click on: Manage Click on: Cancel Subscription Done!
@@ -79,7 +87,7 @@ Just did this myself, and now sharing for others! I have ChatGPT Plus, and when 
 
 A new study finds ChatGPT fails to take into account retraction notices across a wide range of research.
 
-🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 15h ago
+🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 16h ago
 
 ---
 
@@ -96,14 +104,6 @@ I kept getting frustrated with the job search process, especially the part where
 Another day, another AI-related domain name going for 7 figures.
 
 🔗 [bizjournals.com](https://www.bizjournals.com/southflorida/news/2025/12/03/aireviews-corporation-domain-name-acquisition.html) • 13h ago
-
----
-
-**[Why long-run LLM behavior stops looking like a black box once the operator is treated as part of the system](https://www.reddit.com/r/artificial/comments/1ph3iyi/why_longrun_llm_behavior_stops_looking_like_a/)**
-
-Most discussions about LLMs analyze them as isolated artifacts: single prompts, static benchmarks, fixed evaluations. That framing breaks down when you observe long-range behavior across thousands of turns. What emerges is not a “smarter model”, but a system-level dynamic where coherence depends on interaction structure rather than architecture alone. Key observations: • Long-range coherence is not a model property. It is an interaction property. • Drift, instability, and “hallucinations” correlate more with operator inconsistency than with model choice. • Different LLMs converge toward similar behavior under the same structured interaction regime. • Short-context probes systematically miss higher-order stability patterns. This suggests a missing layer in how we describe LLMs: Not prompt engineering. Not fine-tuning. Not RAG. Operator-side cognitive structure. In extended sessions, the user effectively becomes part of the control loop, shaping entropy, memory relevance, and symbolic continuity. When this structure is stable, model differences diminish. When it is not, even “top” models degrade. Implication: The current “which model is best?” framing is increasingly misleading. The real bottleneck in long-run performance is operator coherence, not parameter count. This does not imply model consciousness, agency, or intent. It implies that LLMs behave more like dynamical systems than static tools when observed over sufficient time horizons. Ignoring the operator as a system component is what keeps long-range behavior looking like a black box.
-
-5h ago
 
 ---
 
@@ -127,9 +127,33 @@ The Guardian • 1d ago
 
 ---
 
-**[Why Nvidia and Other AI Stocks Have Lost Their ‘Quality’ Status](https://www.wsj.com/finance/investing/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status-84180ff2?gaa_at=eafs&gaa_n=AWEtsqfNtf0IwLHwGX7s7mg-_8h4eDphkANInm_DyljbOHV-MYtknuPBEfoc&gaa_ts=6936a8ab&gaa_sig=-S_yGoqC987wX0lEw7KlyStHLPGIcfqZV8wYBJ6Ef5ore2UpfAXgm78S2GCtrsYQQd9wtYzCzTNKgR9kMK_Unw%3D%3D)**
+**[There's a new face in Hollywood, generated by AI](https://www.cbsnews.com/news/theres-a-new-face-in-hollywood-generated-by-ai/)**
 
-The Wall Street Journal • 1d ago
+Tilly Norwood is unlike any other aspiring TV or movie star: Tilly is entirely generated by artificial intelligence. What might that mean for the media industry?
+
+CBS News • 20h ago
+
+---
+
+**[Behind the Curtain: Trump bets his presidency and GOP's future on AI](https://www.axios.com/2025/12/08/trump-ai-policy-gop-united-states)**
+
+Axios • 7m ago
+
+---
+
+**[The Accounting Uproar Over How Fast an AI Chip Depreciates](https://www.wsj.com/finance/investing/the-accounting-uproar-over-how-fast-an-ai-chip-depreciates-6f59785b?gaa_at=eafs&gaa_n=AWEtsqeS-vN-z8rt7a2WFqSnFTJPrHQPd0kUKJG9ifoH-TeA5Z9g9ykCTAFm&gaa_ts=6936b2a9&gaa_sig=0NK1Ppyo4uq22pBwPQdWoXseIAAUMayr5T0d2dnMELg-qDUb9H8eHfn0RbPE_uxfymF6heZiv5XuvcszFanTMA%3D%3D)**
+
+Precise answers are elusive for how quickly a company’s AI equipment falls in value.
+
+The Wall Street Journal • 28m ago
+
+---
+
+**[The return of 'YOLO': The 2010s meme is back and shaping the AI industry](https://www.businessinsider.com/yolo-ai-industry-risks-2025-12)**
+
+What was once an inspiring rallying cry, and then a meme, is now either a fun symbol of AI ambition or a threat to all of humanity.
+
+Business Insider • 50m ago
 
 ---
 
@@ -137,35 +161,7 @@ The Wall Street Journal • 1d ago
 
 Powell noted that leading tech firms have only begun to tap debt markets to fund the next phase of AI expansion, suggesting additional capital is on the way.
 
-CNBC • 1h ago
-
----
-
-**[Why AI Makes Alexis Ohanian ‘Bullish’ About Live Entertainment](https://time.com/7338947/alex-ohanian-bridge-summit-uae-ai-entertainment-live-sports-theater/)**
-
-Time Magazine • 1h ago
-
----
-
-**[Is the AI Boom Becoming a Bubble? Here's What Investors Should Watch.](https://finance.yahoo.com/news/ai-boom-becoming-bubble-heres-044000441.html)**
-
-In a frothy market, it's more important than ever to stay focused on profitable leaders with a dominant market position.
-
-Yahoo Finance • 6h ago
-
----
-
-**[AI boom fuels "environmental justice" fears in communities of color](https://www.axios.com/2025/12/08/ai-civil-rights-black-latino-water-electricity)**
-
-Axios • 43m ago
-
----
-
-**[Is the AI Boom Becoming a Bubble? Here's What Investors Should Watch.](https://www.fool.com/investing/2025/12/07/is-the-ai-boom-becoming-a-bubble-heres-what-invest/)**
-
-In a frothy market, it's more important than ever to stay focused on profitable leaders with a dominant market position.
-
-The Motley Fool • 6h ago
+CNBC • 2h ago
 
 ---
 
@@ -175,19 +171,27 @@ Financial Times • 5h ago
 
 ---
 
-**[There's a new face in Hollywood, generated by AI](https://www.cbsnews.com/news/theres-a-new-face-in-hollywood-generated-by-ai/)**
-
-Tilly Norwood is unlike any other aspiring TV or movie star: Tilly is entirely generated by artificial intelligence. What might that mean for the media industry?
-
-CBS News • 20h ago
-
----
-
 **[Jamie Dimon on AI: 'maybe one day we'll be working less hard but having wonderful lives'](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/)**
 
 "For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
-Fortune • 16h ago
+Fortune • 17h ago
+
+---
+
+**[OpenAI Goes From Stock Market Savior to Burden as AI Risks Mount](https://www.bloomberg.com/news/articles/2025-12-07/openai-goes-from-stock-market-savior-to-anchor-as-ai-risks-mount)**
+
+Wall Street’s sentiment toward companies associated with artificial intelligence is shifting, and it’s all about two companies: OpenAI is down, and Alphabet Inc. is up.
+
+Bloomberg.com • 20h ago
+
+---
+
+**[The latest AI news we announced in November](https://blog.google/technology/ai/google-ai-updates-november-2025/)**
+
+Here are Google’s latest AI updates from November 2025
+
+The Keyword • 2d ago
 
 ---
 
@@ -199,13 +203,13 @@ Fortune • 16h ago
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 561 • 💬 286 • 2d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 562 • 💬 286 • 2d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 501 • 💬 163 • 22h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 504 • 💬 167 • 22h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -219,7 +223,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 110 • 💬 193 • 18h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 110 • 💬 195 • 18h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -249,7 +253,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 39 • 💬 14 • 21h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 40 • 💬 14 • 22h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -395,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,296 • 5d ago
+⬇️ 201,990 • ❤️ 2,302 • 5d ago
 
 ---
 
@@ -419,7 +423,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 485 • 7h ago
+⬇️ 40,450 • ❤️ 490 • 7h ago
 
 ---
 
@@ -429,7 +433,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 269 • 6d ago
+⬇️ 0 • ❤️ 270 • 6d ago
 
 ---
 
@@ -439,7 +443,7 @@ Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million im
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 241 • 6d ago
+⬇️ 0 • ❤️ 242 • 6d ago
 
 ---
 
@@ -451,7 +455,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 3,573 • ❤️ 371 • 6d ago
+⬇️ 3,573 • ❤️ 372 • 6d ago
 
 ---
 
@@ -581,7 +585,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 34 • 💬 2 • ⭐ 205 • 3d ago
+▲ 34 • 💬 2 • ⭐ 205 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
@@ -684,7 +688,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 833 • 🔱 22 • 15h ago
+⭐ 833 • 🔱 22 • 16h ago
 
 ---
 
@@ -724,7 +728,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 565 • 🔱 83 • 43m ago
+⭐ 565 • 🔱 83 • 57m ago
 
 ---
 

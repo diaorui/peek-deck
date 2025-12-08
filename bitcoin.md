@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T10:44:31.124884+00:00'
+updated: '2025-12-08T10:58:04.747786+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 10:44 UTC  
+**Last Updated:** December 08, 2025 at 10:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,26 +45,26 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +3.5%  
-**7d:** +0.7%  
+**7d:** +0.8%  
 **30d:** -12.1%  
 **90d:** -19.1%  
-**1y:** -5.4%  
+**1y:** -5.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1834.56B
+**Market Cap:** $1838.88B
 Rank #1
 
-**Circulating Supply:** 19,959,265 BTC
+**Circulating Supply:** 19,959,290 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.1%
+-26.9%
 
 **All-Time Low:** $67.81
-+135524.5%
++135769.3%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -95,17 +95,17 @@ Rank #1
 
 ---
 
+**[pahahha i died](https://www.reddit.com/r/Bitcoin/comments/1ph8e2i/pahahha_i_died/)**
+
+1h ago
+
+---
+
 **[Bought at 125k and lowered my avg to 99k](https://www.reddit.com/r/Bitcoin/comments/1ph0yda/bought_at_125k_and_lowered_my_avg_to_99k/)**
 
 I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars per week and just set up a direct deposit with strike to do 300 dollars per paycheck (biweekly). Will instantly move my funds to a cold wallet super excited and bullish about btc 5-20 year time horizon EDIT: Just learned about UTXO. I even went to the lengths of setting up direct deposits so I can withdraw BTC faster. Now after learning this I guess the best way is to accumlate more and do one single withdrawal to a cold wallet rather than many smaller ones (correct me if I’m wrong please stilll tryna learn)
 
 8h ago
-
----
-
-**[pahahha i died](https://www.reddit.com/r/Bitcoin/comments/1ph8e2i/pahahha_i_died/)**
-
-59m ago
 
 ---
 
@@ -119,7 +119,7 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 **[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -165,7 +165,7 @@ TheStreet • 19h ago
 
 Investor Mike Alfred predicts Bitcoin could reach $315,000. Harvard University significantly increased its Bitcoin holdings over gold. But analysts warn of potential short-term consolidation. Bitcoin’s ...
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -185,19 +185,25 @@ Financial Times • 5h ago
 
 ---
 
+**[Analyst cuts 60% price target for popular Bitcoin stock](https://www.thestreet.com/crypto/markets/analyst-cuts-60-price-target-for-popular-bitcoin-stock)**
+
+TheStreet • 2d ago
+
+---
+
+**[Bitcoin’s biggest booster Michael Saylor fights to stave off an $8 billion collapse and being the first major crypto domino to fall](https://fortune.com/2025/12/03/bitcoins-biggest-booster-michael-saylor-fights-to-stave-off-an-8-billion-collapse-and-being-the-first-major-crypto-domino-to-fall/)**
+
+A rule change could force Saylor's company to sell some of its $650 billion holdings—but crypto veterans say Strategy will be just fine.
+
+Fortune • 4d ago
+
+---
+
 **[Bitcoin Is Starting to Look Like a Digital Tulip](https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money)**
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
 Bloomberg.com • 2d ago
-
----
-
-**[Is Bitcoin a Millionaire-Maker?](https://www.fool.com/investing/2025/12/08/is-bitcoin-a-millionaire-maker/)**
-
-Bitcoin is the world's largest cryptocurrency by market cap.
-
-The Motley Fool • 1h ago
 
 ---
 
@@ -209,19 +215,9 @@ Decrypt • 7h ago
 
 ---
 
-**[‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles](https://www.forbes.com/sites/digital-assets/2025/12/07/next-step-is-coming-sec-chair-issues-huge-crypto-prediction-as-the-bitcoin-price-struggles/)**
+**[Ripple CEO makes bold new Bitcoin prediction](https://www.thestreet.com/crypto/trading/ripple-ceo-predicts-bitcoin-to-hit-180k)**
 
-The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
-
-Forbes • 21h ago
-
----
-
-**[Bitcoin turns negative for the week as it fails to hold above $90,000: CNBC Crypto World](https://www.cnbc.com/video/2025/12/05/bitcoin-turns-negative-for-the-week-as-it-fails-to-hold-above-90000-cnbc-crypto-world.html)**
-
-On today's episode of CNBC Crypto World, bitcoin and other major cryptocurrencies turn negative to closer out the week. Plus, prosecutors recommend a 12-year prison sentence for Terraform Labs founder Do Kwon. And Summer Mersinger, CEO of the Blockchain Association, discusses the group's upcoming policy summit in Washington, D.C.
-
-CNBC • 2d ago
+TheStreet • 2d ago
 
 ---
 
@@ -343,7 +339,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 2K • 👍 264 • 💬 8 • ⏱️ 7:18 • 1h ago
+👁️ 2K • 👍 264 • 💬 8 • ⏱️ 7:18 • 2h ago
 
 ---
 
@@ -403,7 +399,7 @@ A Fed takeover is brewing — and Bitcoin could be the winner. With Trump poised
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 773 • 💬 163 • ⏱️ 24:30 • 16h ago
+👁️ 15K • 👍 773 • 💬 163 • ⏱️ 24:30 • 17h ago
 
 ---
 

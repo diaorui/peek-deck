@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T10:44:31.131000+00:00'
+updated: '2025-12-08T10:58:04.753080+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 10:44 UTC  
+**Last Updated:** December 08, 2025 at 10:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +4.1%  
-**7d:** +5.6%  
-**30d:** -11.9%  
-**90d:** -27.4%  
-**1y:** -15.0%  
+**24h:** +4.0%  
+**7d:** +5.5%  
+**30d:** -12.0%  
+**90d:** -27.5%  
+**1y:** -15.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $381.18B
+**Market Cap:** $381.36B
 Rank #2
 
 **Circulating Supply:** 120,695,342 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.2%
+-36.1%
 
 **All-Time Low:** $0.43
-+729115.5%
++729651.3%
 
 ---
 
@@ -166,11 +166,19 @@ Decrypt • 8h ago
 
 ---
 
-**[3 Reasons to Buy Ethereum Before January 2026](https://finance.yahoo.com/news/3-reasons-buy-ethereum-january-193000879.html)**
+**[Ethereum’s First ZK-Rollup ZKsync Lite to Shut Down in 2026](https://finance.yahoo.com/news/ethereum-first-zk-rollup-zksync-095619044.html)**
+
+ZKsync has announced plans to deprecate ZKsync Lite, Ethereum’s first zero-knowledge rollup, in 2026 as the protocol shifts its focus entirely toward the ZKsync network and ZK Stack-powered chains.The original Layer 2 solution, which launched in December 2020 as a groundbreaking proof-of-concept, will undergo an orderly sunset after serving its ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/07/3-reasons-to-buy-ethereum-before-january-2026/)**
 
 Ethereum could be once again on the path to the $5,000 price level. Here's why.
 
-Yahoo Finance • 15h ago
+The Motley Fool • 15h ago
 
 ---
 
@@ -208,25 +216,19 @@ CCN.com • 3d ago
 
 ---
 
+**[Bitcoin Drops, Ethereum Plummets: Inside the Latest Crypto Swing With Tony Edward](https://www.cheddar.com/media/bitcoin-drops-ethereum-plummets-inside-the-latest-crypto-swing-with-tony-edward/)**
+
+Tony Edward breaks down recent Bitcoin and Ethereum drops, ETF outflows, and what investors should watch in the turbulent crypto market.
+
+cheddar.com • 3d ago
+
+---
+
 **[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
 
 Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
 Seeking Alpha • 3d ago
-
----
-
-**[Tom Lee Claims Ethereum Will Hit $62,000 in Next Few Months, Ramps up Bitcoin Call to $250,000](https://finance.yahoo.com/news/tom-lee-claims-ethereum-hit-115214887.html)**
-
-Tom Lee has once again delivered ultra-bullish predictions for Ethereum and Bitcoin. The famed analyst expanded his $250,000 Bitcoin target. Technical analysts see improving momentum ...
-
-Yahoo Finance • 2d ago
-
----
-
-**[BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target](https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target)**
-
-TipRanks • 2d ago
 
 ---
 
@@ -290,7 +292,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 188 • 💬 5 • ⏱️ 4:06 • 18h ago
+👁️ 3K • 👍 188 • 💬 5 • ⏱️ 4:06 • 19h ago
 
 ---
 
