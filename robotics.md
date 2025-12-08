@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-07T23:54:48.619923+00:00'
+updated: '2025-12-08T01:39:18.860586+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 07, 2025 at 23:54 UTC  
+**Last Updated:** December 08, 2025 at 01:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-12h ago
+14h ago
 
 ---
 
@@ -50,7 +50,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
-5h ago
+7h ago
 
 ---
 
@@ -58,7 +58,15 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 An old picture. The progress is in the coding, and testing, and tuning of the hardware.
 
-8h ago
+10h ago
+
+---
+
+**[How to get into Robotics abd AI?](https://www.reddit.com/r/robotics/comments/1pgy9qv/how_to_get_into_robotics_abd_ai/)**
+
+How to get into Robotics abd AI? I recently graduated with a degree in Mechatronics Engineering, but honestly, I don’t have solid experience in any specific specialization. My studies were quite inconsistent, and I ended up jumping between different fields without gaining real depth. Now, I have the opportunity to pursue a Master’s in Mechatronics and Robotics, and the program includes diverse courses like AI, Machine Learning, and Robotics. I’m a bit confused because I keep hearing many job titles related to these fields, but I’m not sure what exactly I should study in order to qualify for them. I also want to know whether there are jobs that combine all these areas together. They all seem good actually. I will have to take ML modules as the final project will be in ML, also the modules mostly are theoretical but there is an internship with some practical work in some modules like robotics and ML. Another question is: I’m sure I need some essential skills before starting these courses in the Master’s program, so what would you recommend I learn first? Should I start with Python and basic machine learning? And if there’s a specific roadmap I should follow, I would really appreciate it.
+
+1h ago
 
 ---
 
@@ -70,11 +78,9 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 ---
 
-**[What are the use cases for the Intel RealSense D455 indoors?](https://www.reddit.com/r/robotics/comments/1pgv44x/what_are_the_use_cases_for_the_intel_realsense/)**
+**[How do I learn transformers NOT for NLP?](https://www.reddit.com/r/robotics/comments/1pgziwp/how_do_i_learn_transformers_not_for_nlp/)**
 
-I’m looking between the RealSense d455 and d435i, and the main difference I’m concerned about is the d455’s much larger blindspot. It’s “blind” below 0.6m (60cm). This is blind a pretty much arm’s length so many manipulation tasks are useless unless you hold the camera way out. The d435i by contrast is only blind under 30cm. What indoor use cases are there for the d455 in a general household setting? Despite having 2x the detecting range (6m vs 3m)of the d435i, its “farsightedness” makes it seem ineffective for most projects
-
-1h ago
+12m ago
 
 ---
 
@@ -82,7 +88,15 @@ I’m looking between the RealSense d455 and d435i, and the main difference I’
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/ic5I27NNIv0?si=ii4fyccs01D9m8qa) • 6h ago
+🔗 [youtu.be](https://youtu.be/ic5I27NNIv0?si=ii4fyccs01D9m8qa) • 8h ago
+
+---
+
+**[What are the use cases for the Intel RealSense D455 indoors?](https://www.reddit.com/r/robotics/comments/1pgv44x/what_are_the_use_cases_for_the_intel_realsense/)**
+
+I’m looking between the RealSense d455 and d435i, and the main difference I’m concerned about is the d455’s much larger blindspot. It’s “blind” below 0.6m (60cm). This is blind a pretty much arm’s length so many manipulation tasks are useless unless you hold the camera way out. The d435i by contrast is only blind under 30cm. What indoor use cases are there for the d455 in a general household setting? Despite having 2x the detecting range (6m vs 3m)of the d435i, its “farsightedness” makes it seem ineffective for most projects
+
+3h ago
 
 ---
 
@@ -90,23 +104,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/adityabangde/BipedalWalker-PPO-STM32.git Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
 
-16h ago
-
----
-
-**[Zhongqing t800 robot vs human](https://www.reddit.com/r/robotics/comments/1pfnufq/zhongqing_t800_robot_vs_human/)**
-
-Zhongqing CEO Receives the Challenge of T800
-
-1d ago
-
----
-
-**[autonomous navigation system.](https://www.reddit.com/r/robotics/comments/1pfxa2m/autonomous_navigation_system/)**
-
-Autonomous Navigation Laser Grid: A Case Study in Creative Engineering How I replaced LiDAR with a laser pointer and computer vision to build a working autonomous robot
-
-1d ago
+18h ago
 
 ---
 
@@ -150,7 +148,7 @@ Seeking Alpha • 2d ago
 
 Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
@@ -164,7 +162,7 @@ ETF Trends • 3d ago
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-South China Morning Post • 22h ago
+South China Morning Post • 1d ago
 
 ---
 
@@ -176,17 +174,19 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Why Walmart's AI Robotics Maker Is Tumbling After Big Run](https://www.investors.com/news/walmart-ai-robotics-maker-symbotic-tumbling-after-big-run/)**
-
-Investor's Business Daily • 3d ago
-
----
-
 **[Unitree's Big Humanoid Robots Are Fighting Now](https://www.cnet.com/tech/computing/unitrees-big-humanoid-robots-are-fighting-now/)**
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
-CNET • 10h ago
+CNET • 12h ago
+
+---
+
+**[Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices](https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/)**
+
+The NVIDIA Jetson AGX Thor, AGX Orin and Jetson Orin Nano Super developer kits — on sale through Jan. 11 — give anyone the power to build intelligent robots of the future.
+
+NVIDIA Blog • 3d ago
 
 ---
 
@@ -194,33 +194,13 @@ CNET • 10h ago
 
 ## YouTube Videos: "robotics"
 
-**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
-
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
-
-📺 Julia McCoy
-
-👁️ 79K • 👍 4K • 💬 586 • ⏱️ 19:33 • 1d ago
-
----
-
-**[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
-
-Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
-
-📺 MarketBeat
-
-👁️ 29K • 👍 1K • 💬 78 • ⏱️ 24:47 • 1d ago
-
----
-
 **[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
 
 The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
 
 📺 DPCcars
 
-👁️ 68K • 👍 378 • 💬 132 • ⏱️ 1:03 • 1d ago
+👁️ 87K • 👍 440 • 💬 154 • ⏱️ 1:03 • 1d ago
 
 ---
 
@@ -230,45 +210,17 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 17K • 👍 364 • 💬 167 • ⏱️ 4:05 • 3d ago
+👁️ 17K • 👍 368 • 💬 178 • ⏱️ 4:05 • 3d ago
 
 ---
 
-**[2025 Advanced Anti-Gravity Hoverboard Showcase. #futuretech #antigravity #hoverboard #robotics](https://www.youtube.com/watch?v=NfrybLAbGqA)**
+**[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
 
-📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
+Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
 
-👁️ 19K • 👍 244 • 💬 9 • ⏱️ 0:11 • 17h ago
+📺 MarketBeat
 
----
-
-**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
-
-Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
-
-📺 Unitree Robotics
-
-👁️ 1.9M • 👍 1K • 💬 306 • ⏱️ 1:06 • 4d ago
-
----
-
-**[Tesla’s Running Robot: Optimus Just Took a Huge Step Forward](https://www.youtube.com/watch?v=xE_gPhwzQAc)**
-
-Tesla just showed its Optimus humanoid robot running in the laboratory, and it looks a lot closer to a real life sci fi moment than a ...
-
-📺 DPCcars
-
-👁️ 75K • 👍 597 • 💬 280 • ⏱️ 2:30 • 4d ago
-
----
-
-**[Robot Girl at the Expo Tried Selling Me a Wife 🤖💍](https://www.youtube.com/watch?v=ZKdEqrVIabY)**
-
-Here's what happened when I asked a robot receptionist about partner models at a tech expo… I was already talking to one ...
-
-📺 AI Robot Reality
-
-👁️ 2K • 👍 82 • 💬 4 • ⏱️ 0:19 • 1d ago
+👁️ 30K • 👍 1K • 💬 80 • ⏱️ 24:47 • 1d ago
 
 ---
 
@@ -278,7 +230,27 @@ Unitree's latest demos reveal that kickboxing is no longer just for its smaller 
 
 📺 CNET
 
-👁️ 17K • 👍 463 • 💬 68 • ⏱️ 6:05 • 10h ago
+👁️ 21K • 👍 528 • 💬 72 • ⏱️ 6:05 • 12h ago
+
+---
+
+**[Tesla’s Running Robot: Optimus Just Took a Huge Step Forward](https://www.youtube.com/watch?v=xE_gPhwzQAc)**
+
+Tesla just showed its Optimus humanoid robot running in the laboratory, and it looks a lot closer to a real life sci fi moment than a ...
+
+📺 DPCcars
+
+👁️ 76K • 👍 605 • 💬 281 • ⏱️ 2:30 • 4d ago
+
+---
+
+**[Robot Girl at the Expo Tried Selling Me a Wife 🤖💍](https://www.youtube.com/watch?v=ZKdEqrVIabY)**
+
+Here's what happened when I asked a robot receptionist about partner models at a tech expo… I was already talking to one ...
+
+📺 AI Robot Reality
+
+👁️ 4K • 👍 103 • 💬 4 • ⏱️ 0:19 • 1d ago
 
 ---
 
@@ -288,7 +260,35 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 105K • 💬 643 • ⏱️ 1:21 • 4d ago
+👁️ 105K • 💬 646 • ⏱️ 1:21 • 4d ago
+
+---
+
+**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
+
+Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
+
+📺 Fin Tek
+
+👁️ 67K • 👍 2K • 💬 178 • ⏱️ 21:31 • 2d ago
+
+---
+
+**[2025 Advanced Anti-Gravity Hoverboard Showcase. #futuretech #antigravity #hoverboard #robotics](https://www.youtube.com/watch?v=NfrybLAbGqA)**
+
+📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
+
+👁️ 20K • 👍 273 • 💬 13 • ⏱️ 0:11 • 18h ago
+
+---
+
+**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
+
+AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
+
+📺 AI Robot Lab
+
+👁️ 15K • 👍 128 • 💬 5 • ⏱️ 0:25 • 16h ago
 
 ---
 
