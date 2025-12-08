@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T08:55:03.599539+00:00'
+updated: '2025-12-08T09:29:24.283781+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 08:55 UTC  
+**Last Updated:** December 08, 2025 at 09:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-21h ago
+22h ago
 
 ---
 
@@ -52,41 +52,17 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 ---
 
+**[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
+
+3h ago
+
+---
+
 **[MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control](https://www.reddit.com/r/robotics/comments/1pgpipx/mimickit_a_reinforcement_learning_framework_for/)**
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
-14h ago
-
----
-
-**[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
-
-2h ago
-
----
-
-**[SO... still CGI ？](https://www.reddit.com/r/robotics/comments/1ph2olj/so_still_cgi/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 4h ago
-
----
-
-**[Big update: Robert now supports full ChatGPT embodiment. You can switch seamlessly between manual and AI control, and I’ll be releasing the entire system as open source soon. When the coding is done, I will finish connecting the left arm, and show how he is assembled from modules.](https://www.reddit.com/r/robotics/comments/1pgkrgx/big_update_robert_now_supports_full_chatgpt/)**
-
-An old picture. The progress is in the coding, and testing, and tuning of the hardware.
-
-17h ago
-
----
-
-**[What's going on with NVIDIA Groot?](https://www.reddit.com/r/robotics/comments/1ph1l8z/whats_going_on_with_nvidia_groot/)**
-
-NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑language‑action foundation model for humanoid robots, built to connect perception, language, and low‑level control so a single policy can handle many manipulation tasks across different embodiments. Since GTC they have released GR00T N1 and then N1.5 with architectural and data upgrades aimed at better generalization, grounding, and language following, plus tooling like simulation blueprints and synthetic motion data pipelines to accelerate training.​​ For anyone here actually playing with GR00T in the lab or integrating it on real hardware: how mature is it right now compared to the keynote demos and marketing? Any experiences with N1 vs N1.5, sim‑to‑real transfer, or using the GR00T toolchain (Dreams / Blueprint / Omniverse etc.) in a serious robotics stack would be super valuable to hear about.​
-
-5h ago
+15h ago
 
 ---
 
@@ -94,7 +70,31 @@ NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑l
 
 Does any one have build the robotics arm which can be controlled via neural signals? If yes the which servos are preferred? And how many axis where u guys able to achieve it?
 
-1h ago
+2h ago
+
+---
+
+**[Big update: Robert now supports full ChatGPT embodiment. You can switch seamlessly between manual and AI control, and I’ll be releasing the entire system as open source soon. When the coding is done, I will finish connecting the left arm, and show how he is assembled from modules.](https://www.reddit.com/r/robotics/comments/1pgkrgx/big_update_robert_now_supports_full_chatgpt/)**
+
+An old picture. The progress is in the coding, and testing, and tuning of the hardware.
+
+18h ago
+
+---
+
+**[SO... still CGI ？](https://www.reddit.com/r/robotics/comments/1ph2olj/so_still_cgi/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 5h ago
+
+---
+
+**[What's going on with NVIDIA Groot?](https://www.reddit.com/r/robotics/comments/1ph1l8z/whats_going_on_with_nvidia_groot/)**
+
+NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑language‑action foundation model for humanoid robots, built to connect perception, language, and low‑level control so a single policy can handle many manipulation tasks across different embodiments. Since GTC they have released GR00T N1 and then N1.5 with architectural and data upgrades aimed at better generalization, grounding, and language following, plus tooling like simulation blueprints and synthetic motion data pipelines to accelerate training.​​ For anyone here actually playing with GR00T in the lab or integrating it on real hardware: how mature is it right now compared to the keynote demos and marketing? Any experiences with N1 vs N1.5, sim‑to‑real transfer, or using the GR00T toolchain (Dreams / Blueprint / Omniverse etc.) in a serious robotics stack would be super valuable to hear about.​
+
+6h ago
 
 ---
 
@@ -107,14 +107,6 @@ Does any one have build the robotics arm which can be controlled via neural sign
 ---
 
 ## Google News: "robotics"
-
-**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.cbsnews.com/video/trump-administration-looks-supercharge-robotics-industry-politico/)**
-
-Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be listening. Yasmin Khorram, economic policy reporter for Politico, joins CBS News to discuss her article on the topic.
-
-CBS News • 3d ago
-
----
 
 **[MIT researchers “speak objects into existence” using AI and robotics](https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205)**
 
@@ -132,14 +124,6 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
-
-Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
-
-South China Morning Post • 1d ago
-
----
-
 **[Using the Power of Robotics to uncover the secrets of Pompeii](https://www.cnn.com/2025/12/07/world/video/pompeii-robot-fresco-kinkade-pkg-120712aseg2-cnni-world-fast)**
 
 Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
@@ -148,17 +132,19 @@ CNN • 20h ago
 
 ---
 
-**[3 Robotics Stocks to Buy Now Ahead of a White House Game-Changer](https://finance.yahoo.com/news/3-robotics-stocks-buy-now-185157525.html)**
+**[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
 
-The Trump administration is pushing for robotics as a critical industry to bring back production to the United States.
+Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
-Yahoo Finance • 3d ago
+South China Morning Post • 1d ago
 
 ---
 
-**[Why AI and Robotics Are Now National Security Assets](https://etftrends.com/artificial-intelligence-content-hub/why-ai-robotics-national-security-assets/)**
+**[iRobot (IRBT) Valuation After White House Robotics Order Hype and Recent Share Price Surge](https://finance.yahoo.com/news/irobot-irbt-valuation-white-house-080800543.html)**
 
-ETF Trends • 3d ago
+The sudden spike in iRobot (IRBT) shares is being driven by reports that the White House is crafting an executive order to back the U.S. robotics sector, with potential subsidies, tax breaks, and R&D funding in focus. See our latest analysis for iRobot. That excitement comes after a wild week where the 7 day share price return of 133.54 percent has flipped sentiment on a stock that still shows a deeply negative 1 year total shareholder return. This suggests momentum is rebuilding from a very...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -166,7 +152,7 @@ ETF Trends • 3d ago
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
-CNET • 19h ago
+CNET • 20h ago
 
 ---
 
@@ -181,6 +167,22 @@ KTVB • 2d ago
 **[Need laundry folded? Don’t ask a robot](https://knowablemagazine.org/content/article/technology/2025/why-robots-cant-fold-laundry)**
 
 Knowable Magazine • 3d ago
+
+---
+
+**[This Top Chip Stock Could Also Be the Best Way to Play a New Trump Robotics Rally](https://www.barchart.com/story/news/36496863/this-top-chip-stock-could-also-be-the-best-way-to-play-a-new-trump-robotics-rally)**
+
+America’s robotics race is heating up under the Trump administration, and AMD might be the cleanest way to get in early.
+
+Barchart.com • 19h ago
+
+---
+
+**[AI baby monitors are rising but experts warn about overreliance](https://interestingengineering.com/ai-robotics/ai-baby-monitor-parenting)**
+
+As smart baby devices expand rapidly, researchers highlight the benefits of AI monitoring while noting the limits of current systems.
+
+Interesting Engineering • 21h ago
 
 ---
 
@@ -244,7 +246,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 19K • 👍 169 • 💬 6 • ⏱️ 0:25 • 23h ago
+👁️ 19K • 👍 169 • 💬 6 • ⏱️ 0:25 • 1d ago
 
 ---
 
@@ -254,7 +256,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 105K • 💬 652 • ⏱️ 1:21 • 4d ago
+👁️ 105K • 💬 652 • ⏱️ 1:21 • 5d ago
 
 ---
 

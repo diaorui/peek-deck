@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T08:55:03.590191+00:00'
+updated: '2025-12-08T09:29:24.274416+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 08:55 UTC  
+**Last Updated:** December 08, 2025 at 09:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,765.04
+### $92,163.31
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
-**7d:** +0.3%  
-**30d:** -12.5%  
-**90d:** -19.4%  
-**1y:** -5.7%  
+**24h:** +3.1%  
+**7d:** +0.7%  
+**30d:** -12.1%  
+**90d:** -19.2%  
+**1y:** -5.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1829.88B
+**Market Cap:** $1836.02B
 Rank #1
 
-**Circulating Supply:** 19,959,234 BTC
+**Circulating Supply:** 19,959,250 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.3%
+-27.1%
 
 **All-Time Low:** $67.81
-+135147.0%
++135527.5%
 
 ---
 
@@ -77,21 +77,21 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
-
-5h ago
-
----
-
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
 2h ago
 
 ---
 
+**[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
+
+6h ago
+
+---
+
 **[To all who sold…](https://www.reddit.com/r/Bitcoin/comments/1ph3rsw/to_all_who_sold/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -119,13 +119,13 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 **[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
 
-13h ago
+14h ago
 
 ---
 
 **[Not selling Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgtw05/not_selling_bitcoin/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -137,11 +137,11 @@ Some people on TV or online act like inflation is “not that bad” or even pre
 
 ---
 
-**[Mastercard lets consumers make everyday purchases with Crypto Cards](https://www.reddit.com/r/Bitcoin/comments/1pgn1q4/mastercard_lets_consumers_make_everyday_purchases/)**
+**[Daily Discussion, December 08, 2025](https://www.reddit.com/r/Bitcoin/comments/1ph4zms/daily_discussion_december_08_2025/)**
 
-Mastercard’s Crypto Card Program enables consumers to use their crypto cards to pay with crypto for everyday transactions across 100 million+ acceptance locations.
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 16h ago
+3h ago
 
 ---
 
@@ -157,19 +157,19 @@ CoinDesk • 3d ago
 
 ---
 
-**[Bitcoin Is Starting to Look Like a Digital Tulip](https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money)**
+**[‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles](https://www.forbes.com/sites/digital-assets/2025/12/07/next-step-is-coming-sec-chair-issues-huge-crypto-prediction-as-the-bitcoin-price-struggles/)**
 
-It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
+The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
 
-Bloomberg.com • 2d ago
+Forbes • 20h ago
 
 ---
 
-**[Texas’ crypto investment is questionable use of public money](https://www.dallasnews.com/opinion/editorials/2025/12/08/texas-crypto-investment-is-questionable-use-of-public-money/)**
+**[Bitcoin Tests Key Fibonacci Support as Analysts Warn of Drop to $76K](https://finance.yahoo.com/news/bitcoin-tests-key-fibonacci-support-082238340.html)**
 
-The state of Texas is now in the Bitcoin business, and it’s still anyone’s guess how it will turn out. Texas recently purchased $5 million worth of highly...
+Bitcoin is trading at a pivotal level that analysts say could determine whether the market holds its broader uptrend or slips back toward spring lows. Key Takeaways: Bitcoin is sitting on a crucial Fibonacci support level, with a breakdown risking a drop toward the April lows near $76,000. A weekend ...
 
-Dallas News • 54m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -181,11 +181,35 @@ Yahoo Finance • 1h ago
 
 ---
 
+**[Peter Brandt and “The World’s Highest IQ Man” Give Opposing Bitcoin Predictions](https://finance.yahoo.com/news/peter-brandt-world-highest-iq-083932437.html)**
+
+Experts deliver conflicting Bitcoin forecasts as technical signals clash with renewed optimism ahead of a volatile December market.
+
+Yahoo Finance • 49m ago
+
+---
+
 **[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
 
 Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
 
-Financial Times • 3h ago
+Financial Times • 4h ago
+
+---
+
+**[Bitcoin Is Starting to Look Like a Digital Tulip](https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money)**
+
+It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
+
+Bloomberg.com • 2d ago
+
+---
+
+**[Is Bitcoin a Millionaire-Maker?](https://www.fool.com/investing/2025/12/08/is-bitcoin-a-millionaire-maker/)**
+
+Bitcoin is the world's largest cryptocurrency by market cap.
+
+The Motley Fool • 29m ago
 
 ---
 
@@ -197,33 +221,11 @@ Decrypt • 16h ago
 
 ---
 
-**[‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles](https://www.forbes.com/sites/digital-assets/2025/12/07/next-step-is-coming-sec-chair-issues-huge-crypto-prediction-as-the-bitcoin-price-struggles/)**
-
-The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
-
-Forbes • 19h ago
-
----
-
 **[Bitcoin turns negative for the week as it fails to hold above $90,000: CNBC Crypto World](https://www.cnbc.com/video/2025/12/05/bitcoin-turns-negative-for-the-week-as-it-fails-to-hold-above-90000-cnbc-crypto-world.html)**
 
 On today's episode of CNBC Crypto World, bitcoin and other major cryptocurrencies turn negative to closer out the week. Plus, prosecutors recommend a 12-year prison sentence for Terraform Labs founder Do Kwon. And Summer Mersinger, CEO of the Blockchain Association, discusses the group's upcoming policy summit in Washington, D.C.
 
 CNBC • 2d ago
-
----
-
-**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
-
-TheStreet • 2d ago
-
----
-
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
-
-Which of these popular cryptocurrencies has more upside potential?
-
-The Motley Fool • 12h ago
 
 ---
 
@@ -263,7 +265,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 1 • 17h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 1 • 18h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -283,19 +285,19 @@ Track the next Bitcoin halving event with live countdown and real-time block upd
 
 ---
 
+**[Married millennials, here comes the crypto divorce cliff](https://news.ycombinator.com/item?id=46189380)**
+
+Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
+
+⬆️ 6 • 💬 0 • 2h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+
+---
+
 **[Retail-trader Eric Jackson says the crypto bear market is a maximum opportunity](https://news.ycombinator.com/item?id=46135976)**
 
 Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever been. His bullish outlook drew swift pushback from a famous short-seller.
 
 ⬆️ 2 • 💬 1 • 4d ago • [Business Insider](https://www.businessinsider.com/bitcoin-price-eric-jackson-bullish-ethereum-crypto-btc-eth-ai-2025-12)
-
----
-
-**[Married millennials, here comes the crypto divorce cliff](https://news.ycombinator.com/item?id=46189380)**
-
-Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
-
-⬆️ 2 • 💬 0 • 1h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -375,7 +377,7 @@ Bitcoin Whales Just Flipped Their Bets… Here's What They Know ⚠️ Something
 
 📺 Ryan’s Money Lab
 
-👁️ 25K • 👍 1K • 💬 85 • ⏱️ 11:17 • 16h ago
+👁️ 25K • 👍 1K • 💬 85 • ⏱️ 11:17 • 17h ago
 
 ---
 
@@ -405,7 +407,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 13K • 👍 523 • 💬 165 • ⏱️ 10:04 • 15h ago
+👁️ 13K • 👍 523 • 💬 165 • ⏱️ 10:04 • 16h ago
 
 ---
 
