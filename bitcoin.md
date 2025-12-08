@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T01:39:18.851228+00:00'
+updated: '2025-12-08T03:12:23.940256+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 01:39 UTC  
+**Last Updated:** December 08, 2025 at 03:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** -0.1%  
-**30d:** -12.8%  
-**90d:** -19.8%  
-**1y:** -6.0%  
+**24h:** +1.6%  
+**7d:** -0.4%  
+**30d:** -13.1%  
+**90d:** -20.0%  
+**1y:** -6.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1825.49B
+**Market Cap:** $1822.27B
 Rank #1
 
-**Circulating Supply:** 19,959,056 BTC
+**Circulating Supply:** 19,959,118 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.5%
+-27.6%
 
 **All-Time Low:** $67.81
-+134756.2%
++134455.4%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -93,13 +93,21 @@ Rank #1
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
-15h ago
+17h ago
 
 ---
 
 **[Not selling Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgtw05/not_selling_bitcoin/)**
 
-4h ago
+5h ago
+
+---
+
+**[Bought at 125k and lowered my avg to 99k](https://www.reddit.com/r/Bitcoin/comments/1ph0yda/bought_at_125k_and_lowered_my_avg_to_99k/)**
+
+I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars per week and just set up a direct deposit with strike to do 300 dollars per paycheck (biweekly). Will instantly move my funds to a cold wallet super excited and bullish about btc 5-20 year time horizon
+
+36m ago
 
 ---
 
@@ -107,15 +115,7 @@ Rank #1
 
 Some people on TV or online act like inflation is “not that bad” or even pretend it’s exaggerated. But regular people don’t need charts to know the truth. They see it when they: • check out at the grocery store • fill up their gas tank • pay rent • try to save • try to invest • try to raise a family We’re not imagining it. We’re living it. If your money buys less every year, that’s not a “hoax.” That’s the system working exactly as designed. Bitcoin wasn’t created because everything was fine it was created because inflation quietly destroys the middle and working class. People deserve honesty about what’s happening to their money. Silence helps no one. What signs of inflation hit you the hardest this year?
 
-4h ago
-
----
-
-**[Why I Didn't Get Into Bitcoin Until 100K And Am Now A Maxi](https://www.reddit.com/r/Bitcoin/comments/1pgvrlk/why_i_didnt_get_into_bitcoin_until_100k_and_am/)**
-
-Hello, I am relatively new to Bitcoin. I became a maxi about 2 months ago. Retirement/401k, all savings, etc all in BTC/IBIT. Will continue to do so. I have been studying it for a few years-- quite intensely. It's taken many months to about 1 year to understand a lot of things for me specifically. I've read all of Satoshi's original emails, tried to study who the creator might be, read up on blockchain technology, etc. The reason I didn't get into the BTC early on (years ago) because I didn't trust others. Hear me out: I learned BTC is only made possible by miners. This means some people have to agree to spend lots of money to support the mining of BTC via electricity/energy/ASICS. I felt like the entire network could fall apart if large groups decided to NOT do this for whatever reason. I didn't trust others to keep the network running long term. I only realized later on that MANY MANY people made long term commitments to this with large mining facilities. I feel stupid now, but I just didn't envision people doing this early on. Why invest millions on BTC-which might crash? It didn't make sense. Especially after the insane Euphoria of 2021 when everyone knew about BTC and kept hyping it only for it to crash to 16k. I thought it was dead. But, with the recent revelation of Bhutans mining operations, my eyes became opened. A small country with a King got into BTC pre-covid and made billions. A small, somewhat random country near Tibet was willing to mine/invest in centers. So if they could could, I became convinced others would and could. I concluded the network would most likely never die. I invested all in at around 109K because I just needed to know this as I already believed in BTC. The decentralization, lack of public figurehead, digital nature, relatively low fees, and proof of work made it the best digital asset ever created. No one even knows who Satoshi is, which is insane. I thought it was Len for the longest time, but now I don't think so given his wife said it wasn't him and she would know. They were too close for him to create BTC on the side (my opinion). About a week ago the CEO of NVIDIA, Jensen Huang, went on Joe Rogan and revealed that he believes the future currency of the world will be energy. He didn't mention BTC specifically. But this makes sense. BTC is basically energy. Proof of work/energy is paid for with BTC which has monetary value. So by trading BTC we are trading energy. I am convinced this energy is the future. On top of this, I was already convinced by the fact it is digital gold that can be transferred. It is decentralized. No CEO, no owner, no one can take it from you, secure blockchain not hackable, low fees. Has a diehard network. I think it will go up to the market cap of gold in 10-20 years making it a great long term buy. I am curious, what do others think of my reasoning? I have regrets and probably have the dumbest reason for not investing (lack of trust in long term data centers/people to keep BTC alive) on this forum. But that's just where my brain went.
-
-3h ago
+6h ago
 
 ---
 
@@ -123,27 +123,25 @@ Hello, I am relatively new to Bitcoin. I became a maxi about 2 months ago. Retir
 
 Mastercard’s Crypto Card Program enables consumers to use their crypto cards to pay with crypto for everyday transactions across 100 million+ acceptance locations.
 
-🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 8h ago
+🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 10h ago
 
 ---
 
 **[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Bitcoin Only](https://www.reddit.com/r/Bitcoin/comments/1pg879k/bitcoin_only/)**
 
-22h ago
+23h ago
 
 ---
 
-**[When 2,000 Dormant Bitcoin Wake Up](https://www.reddit.com/r/Bitcoin/comments/1pgo5ze/when_2000_dormant_bitcoin_wake_up/)**
+**[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
 
-Two early-era Bitcoin wallets, each holding ~1,000 BTC moved after 13+ years of complete inactivity. Most people interpret this as risk. It isn’t. Dormant coins don’t move because of fear or speculation. They move because wealth has crossed into structure: – key modernization – inheritance and legal clarity – custody transformation – multi-party continuity No exchange inflow, no forced selling, no market reaction. Price didn’t move…not because it’s irrelevant, but because the system is now deep enough to absorb it without distortion. This is how an asset crosses from narrative into adulthood. If you want to understand why this moment signals maturity rather than exit, read the full breakdown
-
-🔗 [coherenceledger.substack.com](https://coherenceledger.substack.com/p/when-2000-dormant-bitcoin-wake-up) • 8h ago
+10m ago
 
 ---
 
@@ -151,65 +149,27 @@ Two early-era Bitcoin wallets, each holding ~1,000 BTC moved after 13+ years of 
 
 ## Google News: "bitcoin"
 
-**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
+**[Trump Administration Overlooks Bitcoin, Blockchain in National Security Strategy](https://www.coindesk.com/opinion/2025/12/07/trump-s-national-security-strategy-ignores-bitcoin-and-blockchain)**
 
-Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
+President Trump's latest national security strategy omits digital assets, focusing instead on AI, biotech, and quantum computing.
 
-Decrypt • 8h ago
-
----
-
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
-
-Which of these popular cryptocurrencies has more upside potential?
-
-The Motley Fool • 4h ago
+CoinDesk • 12h ago
 
 ---
 
-**[BlackRock's IBIT Bitcoin ETF Sees Record $2.7 Billion Exodus](https://finance.yahoo.com/news/blackrocks-ibit-bitcoin-etf-sees-033033975.html)**
+**[Crypto Adoption Continues Even As Bitcoin Stumbles](https://www.forbes.com/sites/digital-assets/2025/12/07/crypto-adoption-continues-even-as-bitcoin-stumbles/)**
 
-BlackRock Inc. (NYSE:BLK) is seeing persistent withdrawals from its iShares Bitcoin Trust (NASDAQ:IBIT) as investors pulled more than $2.7 billion over five consecutive weeks. Largest Outflow Stretch Since IBIT's Launch IBIT is facing its longest run ...
+Crypto volatility has returned, but has not slowed adoption by institutions
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Is Starting to Look Like a Digital Tulip](https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money)**
-
-It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
-
-Bloomberg.com • 1d ago
+Forbes • 6h ago
 
 ---
 
-**[Bitcoin turns negative for the week as it fails to hold above $90,000: CNBC Crypto World](https://www.cnbc.com/video/2025/12/05/bitcoin-turns-negative-for-the-week-as-it-fails-to-hold-above-90000-cnbc-crypto-world.html)**
+**[Michael Saylor’s Bitcoin Playbook Backfires on 100+ Companies](https://finance.yahoo.com/news/michael-saylor-bitcoin-playbook-backfires-101022120.html)**
 
-On today's episode of CNBC Crypto World, bitcoin and other major cryptocurrencies turn negative to closer out the week. Plus, prosecutors recommend a 12-year prison sentence for Terraform Labs founder Do Kwon. And Summer Mersinger, CEO of the Blockchain Association, discusses the group's upcoming policy summit in Washington, D.C.
+Digital asset treasury companies that rushed to copy Michael Saylor’s Bitcoin strategy are now hemorrhaging shareholder value, with median stock prices down 43% year to date, even as the broader market climbs higher, as per Bloomberg.Source: BloombergMore than 100 publicly traded companies transformed themselves into cryptocurrency-holding vehicles in the first ...
 
-CNBC • 2d ago
-
----
-
-**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
-
-TheStreet • 2d ago
-
----
-
-**[Bitcoin’s Deep Correction Sets Stage for December Rebound, Says K33 Research](https://www.coindesk.com/markets/2025/12/05/bitcoin-s-deep-correction-sets-stage-for-december-rebound-says-k33-research)**
-
-K33 Research says market fear is outweighing fundamentals as bitcoin nears key levels. December could offer an entry point for bold investors.
-
-CoinDesk • 2d ago
-
----
-
-**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
-
-Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
-
-Futurism • 1d ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -221,9 +181,47 @@ Bloomberg.com • 2d ago
 
 ---
 
+**[Bitcoin down for 2025 while S&P 500 is up — a first since 2014](https://finance.yahoo.com/video/bitcoin-down-2025-while-p-215541104.html)**
+
+Bitcoin (BTC-USD) is on track to record a yearly decline for 2025, while the S&P 500 (^GSPC) sees gains for the same period. This would mark the first split in crypto and equity performance since 2014, according to Bloomberg. Yahoo Finance Senior Reporter Ines Ferré examines the phenomenon and how precious metal prices (GC=F, SI=F) play a part. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Investor's Business Daily • 8h ago
+Investor's Business Daily • 10h ago
+
+---
+
+**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
+
+TheStreet • 2d ago
+
+---
+
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
+
+Which of these popular cryptocurrencies has more upside potential?
+
+The Motley Fool • 6h ago
+
+---
+
+**[Bitcoin turns negative for the week as it fails to hold above $90,000: CNBC Crypto World](https://www.cnbc.com/video/2025/12/05/bitcoin-turns-negative-for-the-week-as-it-fails-to-hold-above-90000-cnbc-crypto-world.html)**
+
+On today's episode of CNBC Crypto World, bitcoin and other major cryptocurrencies turn negative to closer out the week. Plus, prosecutors recommend a 12-year prison sentence for Terraform Labs founder Do Kwon. And Summer Mersinger, CEO of the Blockchain Association, discusses the group's upcoming policy summit in Washington, D.C.
+
+CNBC • 2d ago
+
+---
+
+**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
+
+Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
+
+Decrypt • 10h ago
 
 ---
 
@@ -271,7 +269,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 0 • 10h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 0 • 12h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -313,7 +311,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 245 • 💬 195 • ⏱️ 19:45 • 7h ago
+👁️ 5K • 👍 245 • 💬 195 • ⏱️ 19:45 • 8h ago
 
 ---
 
@@ -323,7 +321,7 @@ Bitcoin Whales Just Flipped Their Bets… Here's What They Know ⚠️ Something
 
 📺 Ryan’s Money Lab
 
-👁️ 16K • 👍 873 • 💬 51 • ⏱️ 11:17 • 9h ago
+👁️ 16K • 👍 873 • 💬 51 • ⏱️ 11:17 • 11h ago
 
 ---
 
@@ -333,7 +331,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 5K • 👍 634 • 💬 186 • ⏱️ 18:52 • 2h ago
+👁️ 5K • 👍 634 • 💬 186 • ⏱️ 18:52 • 3h ago
 
 ---
 
@@ -353,7 +351,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 11K • 👍 479 • 💬 202 • ⏱️ 10:04 • 8h ago
+👁️ 11K • 👍 479 • 💬 202 • ⏱️ 10:04 • 10h ago
 
 ---
 
@@ -363,7 +361,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 19K • 👍 2K • 💬 73 • ⏱️ 41:33 • 4h ago
+👁️ 19K • 👍 2K • 💬 73 • ⏱️ 41:33 • 6h ago
 
 ---
 
@@ -373,7 +371,7 @@ My Free Trading Course https://www.rt1m.com/free Trading Bonuses & Fee Discounts
 
 📺 Road To $1 Million USD
 
-👁️ 2K • 👍 186 • 💬 45 • ⏱️ 4:27 • 3h ago
+👁️ 2K • 👍 186 • 💬 45 • ⏱️ 4:27 • 4h ago
 
 ---
 
@@ -383,7 +381,7 @@ Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.c
 
 📺 Crypto Lifer
 
-👁️ 2K • 👍 492 • 2h ago
+👁️ 2K • 👍 492 • 4h ago
 
 ---
 
@@ -393,7 +391,7 @@ Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.c
 
 📺 Stock Moe
 
-👁️ 4K • 👍 444 • 💬 84 • ⏱️ 11:11 • 3h ago
+👁️ 4K • 👍 444 • 💬 84 • ⏱️ 11:11 • 4h ago
 
 ---
 
@@ -403,7 +401,7 @@ Bitcoin #Crypto #Finance Bitcoin's price may be volatile, but according to David
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 551 • 💬 284 • ⏱️ 1:04:56 • 11h ago
+👁️ 12K • 👍 551 • 💬 284 • ⏱️ 1:04:56 • 13h ago
 
 ---
 

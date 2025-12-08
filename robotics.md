@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T01:39:18.860586+00:00'
+updated: '2025-12-08T03:12:23.949650+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 01:39 UTC  
+**Last Updated:** December 08, 2025 at 03:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
-
-11h ago
-
----
-
 **[GITAI robots cooperatively assemble a 5-meter tower, a building block for future off-world habitats](https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/)**
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-14h ago
+16h ago
+
+---
+
+**[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
+
+13h ago
 
 ---
 
@@ -50,7 +50,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
-7h ago
+8h ago
 
 ---
 
@@ -58,15 +58,15 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 An old picture. The progress is in the coding, and testing, and tuning of the hardware.
 
-10h ago
+11h ago
 
 ---
 
-**[How to get into Robotics abd AI?](https://www.reddit.com/r/robotics/comments/1pgy9qv/how_to_get_into_robotics_abd_ai/)**
+**[What's going on with NVIDIA Groot?](https://www.reddit.com/r/robotics/comments/1ph1l8z/whats_going_on_with_nvidia_groot/)**
 
-How to get into Robotics abd AI? I recently graduated with a degree in Mechatronics Engineering, but honestly, I don’t have solid experience in any specific specialization. My studies were quite inconsistent, and I ended up jumping between different fields without gaining real depth. Now, I have the opportunity to pursue a Master’s in Mechatronics and Robotics, and the program includes diverse courses like AI, Machine Learning, and Robotics. I’m a bit confused because I keep hearing many job titles related to these fields, but I’m not sure what exactly I should study in order to qualify for them. I also want to know whether there are jobs that combine all these areas together. They all seem good actually. I will have to take ML modules as the final project will be in ML, also the modules mostly are theoretical but there is an internship with some practical work in some modules like robotics and ML. Another question is: I’m sure I need some essential skills before starting these courses in the Master’s program, so what would you recommend I learn first? Should I start with Python and basic machine learning? And if there’s a specific roadmap I should follow, I would really appreciate it.
+NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑language‑action foundation model for humanoid robots, built to connect perception, language, and low‑level control so a single policy can handle many manipulation tasks across different embodiments. Since GTC they have released GR00T N1 and then N1.5 with architectural and data upgrades aimed at better generalization, grounding, and language following, plus tooling like simulation blueprints and synthetic motion data pipelines to accelerate training.​​ For anyone here actually playing with GR00T in the lab or integrating it on real hardware: how mature is it right now compared to the keynote demos and marketing? Any experiences with N1 vs N1.5, sim‑to‑real transfer, or using the GR00T toolchain (Dreams / Blueprint / Omniverse etc.) in a serious robotics stack would be super valuable to hear about.​
 
-1h ago
+5m ago
 
 ---
 
@@ -80,23 +80,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 **[How do I learn transformers NOT for NLP?](https://www.reddit.com/r/robotics/comments/1pgziwp/how_do_i_learn_transformers_not_for_nlp/)**
 
-12m ago
-
----
-
-**[I Unboxed a $25,000 ROBOT HAND for My G1… This Is INSANE! | Inspire RH56F1 Review](https://www.reddit.com/r/robotics/comments/1pgnpfr/i_unboxed_a_25000_robot_hand_for_my_g1_this_is/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/ic5I27NNIv0?si=ii4fyccs01D9m8qa) • 8h ago
-
----
-
-**[What are the use cases for the Intel RealSense D455 indoors?](https://www.reddit.com/r/robotics/comments/1pgv44x/what_are_the_use_cases_for_the_intel_realsense/)**
-
-I’m looking between the RealSense d455 and d435i, and the main difference I’m concerned about is the d455’s much larger blindspot. It’s “blind” below 0.6m (60cm). This is blind a pretty much arm’s length so many manipulation tasks are useless unless you hold the camera way out. The d435i by contrast is only blind under 30cm. What indoor use cases are there for the d455 in a general household setting? Despite having 2x the detecting range (6m vs 3m)of the d435i, its “farsightedness” makes it seem ineffective for most projects
-
-3h ago
+1h ago
 
 ---
 
@@ -104,7 +88,23 @@ I’m looking between the RealSense d455 and d435i, and the main difference I’
 
 I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/adityabangde/BipedalWalker-PPO-STM32.git Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
 
-18h ago
+19h ago
+
+---
+
+**[I Unboxed a $25,000 ROBOT HAND for My G1… This Is INSANE! | Inspire RH56F1 Review](https://www.reddit.com/r/robotics/comments/1pgnpfr/i_unboxed_a_25000_robot_hand_for_my_g1_this_is/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/ic5I27NNIv0?si=ii4fyccs01D9m8qa) • 9h ago
+
+---
+
+**[Zhongqing t800 robot vs human](https://www.reddit.com/r/robotics/comments/1pfnufq/zhongqing_t800_robot_vs_human/)**
+
+Zhongqing CEO Receives the Challenge of T800
+
+1d ago
 
 ---
 
@@ -148,7 +148,7 @@ Seeking Alpha • 2d ago
 
 Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
 
-CNN • 12h ago
+CNN • 14h ago
 
 ---
 
@@ -178,15 +178,15 @@ Yahoo Finance • 2d ago
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
-CNET • 12h ago
+CNET • 14h ago
 
 ---
 
-**[Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices](https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/)**
+**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
 
-The NVIDIA Jetson AGX Thor, AGX Orin and Jetson Orin Nano Super developer kits — on sale through Jan. 11 — give anyone the power to build intelligent robots of the future.
+Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
 
-NVIDIA Blog • 3d ago
+MLive.com • 3d ago
 
 ---
 
@@ -230,7 +230,7 @@ Unitree's latest demos reveal that kickboxing is no longer just for its smaller 
 
 📺 CNET
 
-👁️ 21K • 👍 528 • 💬 72 • ⏱️ 6:05 • 12h ago
+👁️ 21K • 👍 528 • 💬 72 • ⏱️ 6:05 • 14h ago
 
 ---
 
@@ -278,7 +278,7 @@ Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hosting
 
 📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
 
-👁️ 20K • 👍 273 • 💬 13 • ⏱️ 0:11 • 18h ago
+👁️ 20K • 👍 273 • 💬 13 • ⏱️ 0:11 • 20h ago
 
 ---
 
@@ -288,7 +288,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 15K • 👍 128 • 💬 5 • ⏱️ 0:25 • 16h ago
+👁️ 15K • 👍 128 • 💬 5 • ⏱️ 0:25 • 17h ago
 
 ---
 
