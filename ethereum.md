@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T04:03:59.960469+00:00'
+updated: '2025-12-08T04:43:51.257888+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- social
+- cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 04:03 UTC  
+**Last Updated:** December 08, 2025 at 04:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.5%  
-**7d:** +4.2%  
-**30d:** -13.0%  
-**90d:** -28.3%  
-**1y:** -16.1%  
+**24h:** +2.8%  
+**7d:** +4.5%  
+**30d:** -12.8%  
+**90d:** -28.1%  
+**1y:** -15.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.72B
+**Market Cap:** $376.87B
 Rank #2
 
 **Circulating Supply:** 120,695,342 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.0%
+-36.9%
 
 **All-Time Low:** $0.43
-+719484.6%
++721057.4%
 
 ---
 
@@ -88,7 +88,7 @@ This is Part Eight! The very last chapter of the eight-part series: Can I Pay Wi
 
 I copied and pasted for ease of access. Maybe Vitalik can make an update to raise this coin to $5000. Ethereum's next evolution will be shaped by a set of upcoming invariants and protocol caps that Vitalik Buterin outlined. These are deep structural changes that harden the network, streamline clients and block entire classes of DoS vectors. Ethereum's clear path Zooming out over the past few years reveals a distinct pattern: Ethereum continues to move toward stringent, predictable limitations on the capabilities of a single transaction or block. And that trend is going to pick up speed. The groundwork was already in place. In 2021, EIP-2929 and 3529 increased SLOAD gas costs and slashed refunds, reducing disk I/O abuse and preventing refund-based spam loops. One of the most exploitable instructions in the EVM was eliminated in 2024 by Dencuns SELFDESTRUCT nerf, which closed significant complexity gaps. Now, in 2025, the 16777216 gas-per-transaction hard cap finishes the cycle: no more super-dense monster transactions capable of locking up nodes or stressing clients in unpredictable ways. Each of these constraints trims the attack surface while pushing Ethereum closer to a system where worst-case behavior is strictly bounded. Three paths The first path is a cap on the number of contract code bytes accessed per transaction. In the short term, this means it becomes more costly to call large contracts. In the medium term, it standardizes contract scaling and eliminates pathological situations where a single call thrashes through megabytes of bytecode, pushing the ecosystem toward binary trees and per-chunk pricing. Second, ZK-EVM prover cycle bounds are required by Ethereum. Repricing proofs are becoming more and more important as ZK-based layer 2s become more common. Without restrictions, block builders could create consensus-layer bottlenecks by packing proofs with excessive computational overhead. Bound it, and the network benefits from safer L2 growth and predictable verification costs. Third, there will be changes to memory prices. Although EVM memory expansion is currently quasi-bounded, attackers can still push clients into uncomfortable areas. Every client team can easily handle worst-case modeling, and execution engines are made simpler with a more transparent hard cap on memory usage.
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 I was recently censored by Edmund something, so I thought I would ask this community if you could disprove an assumption I have considered. I have considered a scaling paradigm, and here would like to ask about it for a simpler ledger like UTXO-model (and the idea is that the same principles can be scaled up to more advanced "world computer" like Ethereum). It seems appropriate to attack my argument rather than censor me for having respect for another individual (Craig Wright). My idea is very simple. Shard a UTXO ledger by transaction hash mod numShards. There is "wiggle room" for nodes to shard with different values, as it can translate back and forth. Then, if 1024 shards, let shard 0 build blocks only with transaction hashes it "owns", and any shard using those as inputs will have to request the right from the shard. The shards manage and stores such "virtual blocks". Propagation of mempool transactions as well as "virtual blocks" is between shards only (or, mainly). Shards will request transactions from mempool by modulo numShards, and similar with the "virtual block" (where the boundaries of that block is the Merkle tree, so it naturally also splits and combines so people can use different numShards). The central block header is signed by the "coordinator" (via proof-of-work or proof-of-stake or proof-of-suffrage) who combines the Merkle roots of the sub-blocks. They trust all their "sub-nodes" internally. Likewise, the transaction fees can be done easily in UTXO-format by each sub-node reporting their own output for coinbase. Assuming 1 MB blocks and 1024 shards, 5000 transactions per block, on average 2-3 inputs per transaction, on average 10-15 requests per shard-pair. The geographical distribution solves the bandwidth bottleneck (as well as computation and storage to some extent) and lets less advanced hardware still team-up to easily operate on gigabyte (or more) blocks. What is the added latency would people here say from the geographical distribution of the shards?
 
-10h ago
+11h ago
 
 ---
 
@@ -144,7 +144,7 @@ I'm the inventor of the "simultaneous video event" Gavin Wood is currently pursu
 
 My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 1d ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 2d ago
 
 ---
 
@@ -170,7 +170,7 @@ CCN.com • 2d ago
 
 ZKsync is retiring its original Lite network, formalizing a shift toward ZKsync Era and the ZK Stack as activity on the legacy rollup fades.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -178,19 +178,19 @@ Yahoo Finance • 1h ago
 
 Ethereum could be once again on the path to the $5,000 price level. Here's why.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
 **[ZKsync to deprecate ZKsync Lite in 2026, sunsetting Ethereum's first ZK rollup](https://www.theblock.co/post/381632/zksync-to-deprecate-zksync-lite-in-2026-sunsetting-ethereums-first-zk-rollup)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
 **[Ethereum or Solana: ‘One Crypto Could Outperform in 2026,’ Says Investor](https://www.tipranks.com/news/ethereum-or-solana-one-crypto-could-outperform-in-2026-says-investor)**
 
-TipRanks • 14h ago
+TipRanks • 15h ago
 
 ---
 
@@ -210,11 +210,11 @@ CryptoSlate • 3d ago
 
 ---
 
-**[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
+**[Ethereum Shows Strength: Indicators Suggest Bigger Moves Ahead](https://www.tradingview.com/news/newsbtc:abc8c3135094b:0-ethereum-shows-strength-indicators-suggest-bigger-moves-ahead/)**
 
-Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
+Ethereum is gaining momentum, and several technical signals suggest that a significant move could be on the way. With key support levels holding and bullish patterns forming, the market may be setting up for a notable upside.Golden Pocket Rejection: Confirming The High-Risk ScenarioIn a recent upda…
 
-Seeking Alpha • 3d ago
+TradingView • 1d ago
 
 ---
 
@@ -246,7 +246,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 283 • 💬 193 • ⏱️ 19:45 • 9h ago
+👁️ 6K • 👍 283 • 💬 193 • ⏱️ 19:45 • 10h ago
 
 ---
 
@@ -276,7 +276,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 181 • 👍 38 • 💬 2 • ⏱️ 5:16 • 1h ago
+👁️ 181 • 👍 38 • 💬 2 • ⏱️ 5:16 • 2h ago
 
 ---
 
@@ -296,7 +296,7 @@ BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 13K • 👍 433 • 💬 102 • ⏱️ 17:05 • 17h ago
+👁️ 13K • 👍 433 • 💬 102 • ⏱️ 17:05 • 18h ago
 
 ---
 
@@ -306,7 +306,7 @@ Tom Lee just dropped the biggest price prediction of his career. Speaking at Bin
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 64 • 💬 7 • ⏱️ 9:53 • 12h ago
+👁️ 1K • 👍 64 • 💬 7 • ⏱️ 9:53 • 13h ago
 
 ---
 
@@ -316,7 +316,7 @@ The "Fusaka" (Fulu-Osaka) upgrade is live, and the data is shocking even the dev
 
 📺 Wall Street Stockcast
 
-👁️ 572 • 👍 26 • 💬 4 • ⏱️ 10:04 • 14h ago
+👁️ 572 • 👍 26 • 💬 4 • ⏱️ 10:04 • 15h ago
 
 ---
 

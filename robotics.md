@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T04:03:59.963306+00:00'
+updated: '2025-12-08T04:43:51.261413+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 04:03 UTC  
+**Last Updated:** December 08, 2025 at 04:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-16h ago
+17h ago
 
 ---
 
 **[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -50,23 +50,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
-9h ago
-
----
-
-**[Big update: Robert now supports full ChatGPT embodiment. You can switch seamlessly between manual and AI control, and I’ll be releasing the entire system as open source soon. When the coding is done, I will finish connecting the left arm, and show how he is assembled from modules.](https://www.reddit.com/r/robotics/comments/1pgkrgx/big_update_robert_now_supports_full_chatgpt/)**
-
-An old picture. The progress is in the coding, and testing, and tuning of the hardware.
-
-12h ago
-
----
-
-**[What's going on with NVIDIA Groot?](https://www.reddit.com/r/robotics/comments/1ph1l8z/whats_going_on_with_nvidia_groot/)**
-
-NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑language‑action foundation model for humanoid robots, built to connect perception, language, and low‑level control so a single policy can handle many manipulation tasks across different embodiments. Since GTC they have released GR00T N1 and then N1.5 with architectural and data upgrades aimed at better generalization, grounding, and language following, plus tooling like simulation blueprints and synthetic motion data pipelines to accelerate training.​​ For anyone here actually playing with GR00T in the lab or integrating it on real hardware: how mature is it right now compared to the keynote demos and marketing? Any experiences with N1 vs N1.5, sim‑to‑real transfer, or using the GR00T toolchain (Dreams / Blueprint / Omniverse etc.) in a serious robotics stack would be super valuable to hear about.​
-
-57m ago
+10h ago
 
 ---
 
@@ -74,7 +58,23 @@ NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑l
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 1m ago
+🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 41m ago
+
+---
+
+**[Big update: Robert now supports full ChatGPT embodiment. You can switch seamlessly between manual and AI control, and I’ll be releasing the entire system as open source soon. When the coding is done, I will finish connecting the left arm, and show how he is assembled from modules.](https://www.reddit.com/r/robotics/comments/1pgkrgx/big_update_robert_now_supports_full_chatgpt/)**
+
+An old picture. The progress is in the coding, and testing, and tuning of the hardware.
+
+13h ago
+
+---
+
+**[What's going on with NVIDIA Groot?](https://www.reddit.com/r/robotics/comments/1ph1l8z/whats_going_on_with_nvidia_groot/)**
+
+NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑language‑action foundation model for humanoid robots, built to connect perception, language, and low‑level control so a single policy can handle many manipulation tasks across different embodiments. Since GTC they have released GR00T N1 and then N1.5 with architectural and data upgrades aimed at better generalization, grounding, and language following, plus tooling like simulation blueprints and synthetic motion data pipelines to accelerate training.​​ For anyone here actually playing with GR00T in the lab or integrating it on real hardware: how mature is it right now compared to the keynote demos and marketing? Any experiences with N1 vs N1.5, sim‑to‑real transfer, or using the GR00T toolchain (Dreams / Blueprint / Omniverse etc.) in a serious robotics stack would be super valuable to hear about.​
+
+1h ago
 
 ---
 
@@ -82,7 +82,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 I've been seeing the emo robots which look pretty cool but a little expensive. So I decided to challenge myself and make a robot of my own. But I also want a robot that could talk back to me like if i'm talking to a person or a I. But my culture is mexican american , and I want this a I.Robot to have like the soul of a mexican american person. So my question is, how do I start this? As of a shell for the robot could do it later, but for now, just like the brain, how can I get that functioning? Thank you.
 
-9m ago
+49m ago
 
 ---
 
@@ -98,15 +98,13 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/adityabangde/BipedalWalker-PPO-STM32.git Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
 
-20h ago
+21h ago
 
 ---
 
-**[Zhongqing t800 robot vs human](https://www.reddit.com/r/robotics/comments/1pfnufq/zhongqing_t800_robot_vs_human/)**
+**[China's G1 humanoid robot is mastering combat skills at a terrifying rate](https://www.reddit.com/r/robotics/comments/1pghcyh/chinas_g1_humanoid_robot_is_mastering_combat/)**
 
-Zhongqing CEO Receives the Challenge of T800
-
-1d ago
+16h ago
 
 ---
 
@@ -154,12 +152,6 @@ CNN • 15h ago
 
 ---
 
-**[Why AI and Robotics Are Now National Security Assets](https://etftrends.com/artificial-intelligence-content-hub/why-ai-robotics-national-security-assets/)**
-
-ETF Trends • 3d ago
-
----
-
 **[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
@@ -176,6 +168,12 @@ Yahoo Finance • 2d ago
 
 ---
 
+**[Why AI and Robotics Are Now National Security Assets](https://etftrends.com/artificial-intelligence-content-hub/why-ai-robotics-national-security-assets/)**
+
+ETF Trends • 3d ago
+
+---
+
 **[Unitree's Big Humanoid Robots Are Fighting Now](https://www.cnet.com/tech/computing/unitrees-big-humanoid-robots-are-fighting-now/)**
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
@@ -184,11 +182,9 @@ CNET • 15h ago
 
 ---
 
-**[New robots inside Boise's USPS facility help process and handle packages during holiday rush](https://www.ktvb.com/article/news/local/new-robots-usps-facility-help-process-holiday-rush/277-0ba7c01f-695c-465f-80f4-e2889aeafaa6)**
+**[Need laundry folded? Don’t ask a robot](https://knowablemagazine.org/content/article/technology/2025/why-robots-cant-fold-laundry)**
 
-USPS Boise facility gets four robotic arms to help process 220,000 packages daily during holiday rush, allowing redeployment of workers to areas needing human touch.
-
-KTVB • 1d ago
+Knowable Magazine • 3d ago
 
 ---
 
@@ -262,7 +258,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 16K • 👍 139 • 💬 6 • ⏱️ 0:25 • 18h ago
+👁️ 16K • 👍 139 • 💬 6 • ⏱️ 0:25 • 19h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T04:03:59.947601+00:00'
+updated: '2025-12-08T04:43:51.242056+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- social
+- repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 04:03 UTC  
+**Last Updated:** December 08, 2025 at 04:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
-🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 1h ago
+🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Explore the true history of convolutional neural networks, from Fukushima’s neocognitron to modern CNNs and LeCun’s influential work.
 
-🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 13h ago
+🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 14h ago
 
 ---
 
@@ -57,13 +57,13 @@ Explore the true history of convolutional neural networks, from Fukushima’s ne
 
 If you believe these CEOs will solve unemployment after AI replaces most of the human workers, this video is for you.
 
-16h ago
+17h ago
 
 ---
 
 **[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
 
-🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 13h ago
+🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 14h ago
 
 ---
 
@@ -79,7 +79,7 @@ A new study finds ChatGPT fails to take into account retraction notices across a
 
 Just did this myself, and now sharing for others! I have ChatGPT Plus, and when I tried to cancel it offered me a free month. Worked for two of my friends as well. Steps Go to chatgpt on your web browser At the bottom left click on your name (you need to be logged in) Click on Settings Click on last section: Account Near top right click on: Manage Click on: Cancel Subscription Done!
 
-10h ago
+11h ago
 
 ---
 
@@ -87,15 +87,7 @@ Just did this myself, and now sharing for others! I have ChatGPT Plus, and when 
 
 I kept getting frustrated with the job search process, especially the part where you have several job postings open in different browser tabs and end up copying parts of each description into your resume. It was slow, repetitive, and honestly burned me out. Out of that frustration, I built an AI tool to automate the whole thing. You open the job posting tabs you are considering, the system reads each one, uses your background as the anchor, and creates a tailored resume for every tab. If you have ten tabs open, you get ten tailored resumes without doing all the manual copying. Overall happy with the use of Gemini, but curious of others experience with generation costs. Seems cheaper and quicker than ChatGPT thus far.
 
-1h ago
-
----
-
-**[AI Just Simulated Human Cells](https://www.reddit.com/r/artificial/comments/1pgmegp/ai_just_simulated_human_cells/)**
-
-Could AI help us create virtual human cells? 🦠 Scientists are training AI to create virtual human cells, digital models that mimic how real cells behave. These simulations can predict how a cell might respond to medication, genetic mutations, or physical damage. While live lab tests are still essential, AI-powered models could make research faster, safer, and more personalized. By reducing trial-and-error in early stages, these tools could unlock faster drug discovery and bring us closer to tailored treatments for individuals.
-
-11h ago
+2h ago
 
 ---
 
@@ -103,7 +95,15 @@ Could AI help us create virtual human cells? 🦠 Scientists are training AI to 
 
 Another day, another AI-related domain name going for 7 figures.
 
-🔗 [bizjournals.com](https://www.bizjournals.com/southflorida/news/2025/12/03/aireviews-corporation-domain-name-acquisition.html) • 6h ago
+🔗 [bizjournals.com](https://www.bizjournals.com/southflorida/news/2025/12/03/aireviews-corporation-domain-name-acquisition.html) • 7h ago
+
+---
+
+**[AI Just Simulated Human Cells](https://www.reddit.com/r/artificial/comments/1pgmegp/ai_just_simulated_human_cells/)**
+
+Could AI help us create virtual human cells? 🦠 Scientists are training AI to create virtual human cells, digital models that mimic how real cells behave. These simulations can predict how a cell might respond to medication, genetic mutations, or physical damage. While live lab tests are still essential, AI-powered models could make research faster, safer, and more personalized. By reducing trial-and-error in early stages, these tools could unlock faster drug discovery and bring us closer to tailored treatments for individuals.
+
+12h ago
 
 ---
 
@@ -111,7 +111,7 @@ Another day, another AI-related domain name going for 7 figures.
 
 Calls for review after technology found to return more false positives for ‘some demographic groups’ on certain settings
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 20h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 21h ago
 
 ---
 
@@ -123,7 +123,7 @@ Calls for review after technology found to return more false positives for ‘so
 
 Tilly Norwood is unlike any other aspiring TV or movie star: Tilly is entirely generated by artificial intelligence. What might that mean for the media industry?
 
-CBS News • 13h ago
+CBS News • 14h ago
 
 ---
 
@@ -135,6 +135,28 @@ Fortune • 10h ago
 
 ---
 
+**[Jamie Dimon predicts AI will not 'dramatically reduce' jobs in the next year](https://www.foxbusiness.com/media/jamie-dimon-predicts-ai-not-dramatically-reduce-jobs-next-year)**
+
+During an interview on "Sunday Morning Futures," JPMorgan Chase CEO Jamie Dimon predicted artificial intelligence will not "dramatically reduce" jobs next year if regulated properly.
+
+Fox Business • 9h ago
+
+---
+
+**[Jamie Dimon says even though AI will eliminate some jobs 'maybe one day we'll be working less hard but having wonderful lives'](https://www.msn.com/en-us/money/markets/jamie-dimon-says-even-though-ai-will-eliminate-some-jobs-maybe-one-day-we-ll-be-working-less-hard-but-having-wonderful-lives/ar-AA1RTfCA?ocid=finance-verthp-feeds)**
+
+MSN • 3h ago
+
+---
+
+**[America's AI dominance depends on winning the 'power race' against China, energy expert warns](https://www.foxbusiness.com/energy/americas-ai-dominance-depends-winning-power-race-against-china-energy-expert-warns)**
+
+America's AI dominance depends on winning the energy race against China, with natural gas as the key fuel to power massive data centers nationwide, energy expert says.
+
+Fox Business • 1h ago
+
+---
+
 **[Is AI a bubble that’s about to pop? – podcast](https://www.theguardian.com/news/audio/2025/dec/08/is-ai-a-bubble-thats-about-to-pop-podcast)**
 
 Should we be worried about the vast amounts of money pouring into AI? And what will happen if the bubble bursts? Blake Montgomery reports
@@ -143,35 +165,9 @@ The Guardian • 1h ago
 
 ---
 
-**[America's AI dominance depends on winning the 'power race' against China, energy expert warns](https://www.foxbusiness.com/energy/americas-ai-dominance-depends-winning-power-race-against-china-energy-expert-warns)**
+**[OpenAI, ChatGPT: AI Should Be Asking Your Kids More Questions](https://www.bloomberg.com/opinion/articles/2025-12-08/openai-chatgpt-ai-should-be-asking-your-kids-more-questions)**
 
-America's AI dominance depends on winning the energy race against China, with natural gas as the key fuel to power massive data centers nationwide, energy expert says.
-
-Fox Business • 29m ago
-
----
-
-**[Nvidia’s CEO says AI adoption will be gradual, but when it does hit, we may all end up making robot clothing](https://fortune.com/2025/12/06/nvidia-jensen-huang-ai-adoption-creep-gradual-robot-clothing/)**
-
-Jobs that consist entirely of routine tasks are most at risk of AI disruption, Huang said.
-
-Fortune • 1d ago
-
----
-
-**[Nvidia CEO says U.S. data centers take 3 years, but China 'can build a hospital in a weekend'](https://fortune.com/2025/12/06/nvidia-ceo-jensen-huang-ai-race-china-data-centers-construct-us/)**
-
-China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
-
-Fortune • 1d ago
-
----
-
-**[Should You Worry About Nvidia's AI Market Leadership? 21 Words From Jensen Huang Offer a Strikingly Clear Answer.](https://finance.yahoo.com/news/worry-nvidias-ai-market-leadership-022500739.html)**
-
-Nvidia's GPUs recently took a test.
-
-Yahoo Finance • 1h ago
+Bloomberg.com • 43m ago
 
 ---
 
@@ -183,15 +179,17 @@ CNBC • 15h ago
 
 ---
 
-**[Titans + MIRAS: Helping AI have long-term memory](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)**
+**[Apple's executive exodus sends a signal about its AI strategy](https://finance.yahoo.com/news/apples-executive-exodus-sends-a-signal-about-its-ai-strategy-150058611.html)**
 
-Google Research • 3d ago
+A number of executives are departing Apple. At least some of them are related to its AI strategy.
+
+Yahoo Finance • 13h ago
 
 ---
 
-**[Opinion | Is AI Making Us Dumb?](https://www.wsj.com/opinion/is-ai-making-us-dumb-21ea8e39?gaa_at=eafs&gaa_n=AWEtsqdgh1Sh_jrYmgYYMHJdmGRYu1Fd2ssC9MLKvCRS1KPywc4igTFO0BbY&gaa_ts=69365197&gaa_sig=OJATUi5wJnjHFOJuKAD0AgEmOdh0FnFMkxtFYBmqTDSqDLd_5dbkqKMa6EalGM84KjeC3mp3MtlbbsjtZSlQZg%3D%3D)**
+**[Titans + MIRAS: Helping AI have long-term memory](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)**
 
-The Wall Street Journal • 9h ago
+Google Research • 3d ago
 
 ---
 
@@ -209,7 +207,7 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 420 • 💬 143 • 15h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 433 • 💬 144 • 16h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -223,7 +221,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 102 • 💬 179 • 11h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 103 • 💬 180 • 12h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -243,14 +241,6 @@ Wall Street lends billions to AI companies while using credit derivatives and so
 
 ---
 
-**[Rats Snatching Bats Out of the Air and Eating Them–Researchers Got It on Video](https://news.ycombinator.com/item?id=46156832)**
-
-Rodents in northern Germany were spotted using two different hunting strategies at major urban bat hibernation sites
-
-⬆️ 72 • 💬 12 • 2d ago • [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/rats-are-snatching-bats-out-of-the-air-and-eating-them-and-researchers-got-it-on-video-180987610/)
-
----
-
 **[Advent of Code 2025: The AI Edition – By Peter Norvig](https://news.ycombinator.com/item?id=46169441)**
 
 Python programs, usually short, of considerable difficulty, to perfect particular skills. - norvig/pytudes
@@ -261,7 +251,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 36 • 💬 13 • 15h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 37 • 💬 13 • 15h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -269,7 +259,13 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-⬆️ 32 • 💬 5 • 8h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
+⬆️ 32 • 💬 5 • 9h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
+
+---
+
+**[Is Cloudflare Down Again? Also, DownDetector/Claude.ai/LinkedIn?](https://news.ycombinator.com/item?id=46158275)**
+
+⬆️ 31 • 💬 4 • 2d ago
 
 ---
 
@@ -283,7 +279,7 @@ OpenAI is in a full internal race after a major leak revealed a new model called
 
 📺 AI Revolution
 
-👁️ 9K • 👍 459 • 💬 34 • ⏱️ 12:31 • 3h ago
+👁️ 9K • 👍 459 • 💬 34 • ⏱️ 12:31 • 4h ago
 
 ---
 
@@ -323,7 +319,7 @@ I made the first set of these images almost by accident. I was trying for someth
 
 📺 Kelly Boesch AI Art
 
-👁️ 12K • 👍 925 • 💬 69 • ⏱️ 2:56 • 13h ago
+👁️ 12K • 👍 925 • 💬 69 • ⏱️ 2:56 • 14h ago
 
 ---
 
@@ -381,18 +377,6 @@ Go to http://buyraycon.com/originsexplainedopen to get up to 20% off during this
 
 ## HuggingFace Models: 🔥 Trending
 
-**[Z-Image-Turbo](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo)**
-
-*Tongyi-MAI*
-
-Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimized for speed and resource usage, achieving sub-second inference with 8 NFEs and fitting within 16GB VRAM. It excels at photorealistic generation, bilingual text rendering (English/Chinese), and strong instruction adherence, making it suitable for rapid content creation on consumer hardware.
-
-`text-to-image`
-
-⬇️ 186,951 • ❤️ 2,267 • 5d ago
-
----
-
 **[DeepSeek-V3.2](https://huggingface.co/deepseek-ai/DeepSeek-V3.2)**
 
 *DeepSeek*
@@ -401,7 +385,19 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 25,451 • ❤️ 782 • 6d ago
+⬇️ 25,451 • ❤️ 783 • 6d ago
+
+---
+
+**[Z-Image-Turbo](https://huggingface.co/Tongyi-MAI/Z-Image-Turbo)**
+
+*Tongyi-MAI*
+
+Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimized for speed and resource usage, achieving sub-second inference with 8 NFEs and fitting within 16GB VRAM. It excels at photorealistic generation, bilingual text rendering (English/Chinese), and strong instruction adherence, making it suitable for rapid content creation on consumer hardware.
+
+`text-to-image`
+
+⬇️ 186,951 • ❤️ 2,269 • 5d ago
 
 ---
 
@@ -425,7 +421,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 458 • 50m ago
+⬇️ 27,215 • ❤️ 461 • 1h ago
 
 ---
 
@@ -457,7 +453,17 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,828 • ❤️ 363 • 5d ago
+⬇️ 2,828 • ❤️ 364 • 5d ago
+
+---
+
+**[Mistral-Large-3-675B-Instruct-2512](https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512)**
+
+*Mistral AI_*
+
+Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.
+
+⬇️ 292 • ❤️ 167 • 4d ago
 
 ---
 
@@ -470,16 +476,6 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 `image-to-image`
 
 ⬇️ 205,376 • ❤️ 926 • 10d ago
-
----
-
-**[Mistral-Large-3-675B-Instruct-2512](https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512)**
-
-*Mistral AI_*
-
-Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.
-
-⬇️ 292 • ❤️ 167 • 4d ago
 
 ---
 
@@ -507,7 +503,7 @@ Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 152 • 💬 3 • ⭐ 5,468 • 10d ago
+▲ 153 • 💬 3 • ⭐ 5,468 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -521,7 +517,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 20 • 💬 2 • ⭐ 5,481 • 10d ago
+▲ 21 • 💬 2 • ⭐ 5,481 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -535,7 +531,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 40 • 💬 2 • ⭐ 670 • 5d ago
+▲ 42 • 💬 2 • ⭐ 670 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -641,7 +637,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.4k • 🔱 421 • 3d ago
+⭐ 5.4k • 🔱 422 • 3d ago
 
 ---
 
@@ -671,7 +667,7 @@ AI-powered git commit message rewriter using Ollama or GPT
 
 `Python`
 
-⭐ 1.0k • 🔱 207 • 7d ago
+⭐ 1.0k • 🔱 208 • 7d ago
 
 ---
 
@@ -681,7 +677,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 961 • 🔱 117 • 2h ago
+⭐ 966 • 🔱 118 • 2h ago
 
 ---
 
@@ -701,7 +697,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 828 • 🔱 44 • 54m ago
+⭐ 828 • 🔱 44 • 1h ago
 
 ---
 
@@ -721,7 +717,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 774 • 🔱 254 • 1d ago
+⭐ 781 • 🔱 256 • 1d ago
 
 ---
 
@@ -731,7 +727,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 526 • 🔱 42 • 4d ago
+⭐ 527 • 🔱 42 • 4d ago
 
 ---
 

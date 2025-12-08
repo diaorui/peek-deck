@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T04:03:59.955139+00:00'
+updated: '2025-12-08T04:43:51.251506+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
+- cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 04:03 UTC  
+**Last Updated:** December 08, 2025 at 04:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** -0.3%  
-**30d:** -13.0%  
-**90d:** -20.0%  
-**1y:** -6.4%  
+**24h:** +1.6%  
+**7d:** -0.5%  
+**30d:** -13.2%  
+**90d:** -20.1%  
+**1y:** -6.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1818.31B
+**Market Cap:** $1820.10B
 Rank #1
 
 **Circulating Supply:** 19,959,137 BTC
@@ -64,7 +64,7 @@ Rank #1
 -27.7%
 
 **All-Time Low:** $67.81
-+134302.0%
++134400.8%
 
 ---
 
@@ -79,13 +79,19 @@ Rank #1
 
 **[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
 
 10h ago
+
+---
+
+**[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
+
+1h ago
 
 ---
 
@@ -97,23 +103,17 @@ Rank #1
 
 ---
 
-**[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
-
-1h ago
-
----
-
 **[Bought at 125k and lowered my avg to 99k](https://www.reddit.com/r/Bitcoin/comments/1ph0yda/bought_at_125k_and_lowered_my_avg_to_99k/)**
 
-I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars per week and just set up a direct deposit with strike to do 300 dollars per paycheck (biweekly). Will instantly move my funds to a cold wallet super excited and bullish about btc 5-20 year time horizon
+I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars per week and just set up a direct deposit with strike to do 300 dollars per paycheck (biweekly). Will instantly move my funds to a cold wallet super excited and bullish about btc 5-20 year time horizon EDIT: Just learned about UTXO. I even went to the lengths of setting up direct deposits so I can withdraw BTC faster. Now after learning this I guess the best way is to accumlate more and do one single withdrawal to a cold wallet rather than many smaller ones (correct me if I’m wrong please stilll tryna learn)
 
-1h ago
+2h ago
 
 ---
 
 **[Not selling Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgtw05/not_selling_bitcoin/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -135,7 +135,7 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 **[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -153,15 +153,15 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 President Trump's latest national security strategy omits digital assets, focusing instead on AI, biotech, and quantum computing.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
-**[Crypto Adoption Continues Even As Bitcoin Stumbles](https://www.forbes.com/sites/digital-assets/2025/12/07/crypto-adoption-continues-even-as-bitcoin-stumbles/)**
+**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
 
-Crypto volatility has returned, but has not slowed adoption by institutions
+Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
 
-Forbes • 7h ago
+Decrypt • 11h ago
 
 ---
 
@@ -169,7 +169,7 @@ Forbes • 7h ago
 
 Bitcoin is edging higher ahead of the Fed’s final rate decision and a key jobs report, extending its rebound as thin liquidity persists.
 
-Yahoo Finance • 34m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ TheStreet • 2d ago
 
 Which of these popular cryptocurrencies has more upside potential?
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -203,11 +203,11 @@ CNBC • 2d ago
 
 ---
 
-**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
+**[Crypto Adoption Continues Even As Bitcoin Stumbles](https://www.forbes.com/sites/digital-assets/2025/12/07/crypto-adoption-continues-even-as-bitcoin-stumbles/)**
 
-Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
+Crypto volatility has returned, but has not slowed adoption by institutions
 
-Decrypt • 11h ago
+Forbes • 8h ago
 
 ---
 
@@ -261,17 +261,17 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 ---
 
+**[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
+
+⬆️ 2 • 💬 1 • 13h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+
+---
+
 **[The Harvard Endowment's Biggest Public Investment Is Now Bitcoin](https://news.ycombinator.com/item?id=46141603)**
 
 The endowment dramatically increased its holdings of a spot bitcoin ETF since its previous such report.Â
 
 ⬆️ 2 • 💬 1 • 4d ago • [Gizmodo](https://gizmodo.com/the-harvard-endowments-biggest-public-investment-is-now-bitcoin-2000686439)
-
----
-
-**[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
-
-⬆️ 2 • 💬 0 • 12h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -313,7 +313,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 989 • 💬 201 • ⏱️ 18:52 • 4h ago
+👁️ 11K • 👍 989 • 💬 201 • ⏱️ 18:52 • 5h ago
 
 ---
 
@@ -323,7 +323,7 @@ TIA PRO $1000 OFF LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK 
 
 📺 Jason Pizzino
 
-👁️ 3K • 👍 380 • 💬 135 • ⏱️ 29:13 • 1h ago
+👁️ 3K • 👍 380 • 💬 135 • ⏱️ 29:13 • 2h ago
 
 ---
 
@@ -333,7 +333,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 283 • 💬 193 • ⏱️ 19:45 • 9h ago
+👁️ 6K • 👍 283 • 💬 193 • ⏱️ 19:45 • 10h ago
 
 ---
 
@@ -353,7 +353,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 504 • 💬 191 • ⏱️ 10:04 • 10h ago
+👁️ 12K • 👍 504 • 💬 191 • ⏱️ 10:04 • 11h ago
 
 ---
 
@@ -363,7 +363,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.inve
 
 📺 InvestAnswers
 
-👁️ 25K • 👍 2K • 💬 89 • ⏱️ 41:33 • 6h ago
+👁️ 25K • 👍 2K • 💬 89 • ⏱️ 41:33 • 7h ago
 
 ---
 
@@ -373,7 +373,7 @@ My Free Trading Course https://www.rt1m.com/free Trading Bonuses & Fee Discounts
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 221 • 💬 43 • ⏱️ 4:27 • 5h ago
+👁️ 3K • 👍 221 • 💬 43 • ⏱️ 4:27 • 6h ago
 
 ---
 
@@ -393,7 +393,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 6K • 👍 420 • 💬 217 • ⏱️ 5:07 • 7h ago
+👁️ 6K • 👍 420 • 💬 217 • ⏱️ 5:07 • 8h ago
 
 ---
 
@@ -403,7 +403,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 2K • 👍 112 • 💬 107 • ⏱️ 23:18 • 11h ago
+👁️ 2K • 👍 112 • 💬 107 • ⏱️ 23:18 • 12h ago
 
 ---
 
