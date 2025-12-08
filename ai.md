@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T19:19:28.930374+00:00'
+updated: '2025-12-08T19:33:37.378621+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 19:19 UTC  
+**Last Updated:** December 08, 2025 at 19:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-58m ago
+1h ago
 
 ---
 
@@ -93,7 +93,7 @@ IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks b
 
 So I’m a junior dev who just got laid off from my webdev job, and with AI agents on the rise I think it will just get harder and harder to get back into a similar role. Thus, I’m looking to pivot to any area that is more resistant to AI. Preferably in tech. I love learning new stuff, and being unemployed I have more than enough time on my hands so the learning part shouldn’t be a big problem. I just need to find a direction where the skills I learn won’t be rendered worthless by AI anytime soon. I’m thinking either low level stuff like C++, or machine learning. I’m thinking of building a portfolio throughout the process and also building connections along the way. Like, sooner or later these areas will be eaten by AI too, but I would guess it would take some years at least, with machine learning going last? I’ve also been pondering on maybe doing a deep research on all the current AI tools and the underlying tech and see if there’s any edge cases in any domains where I can use that knowledge to build something disruptive. I would imagine that although there’s a lot of AI hype now there will still be a lot of people sleeping on it making for many opportunities. At the same time, AI has made building stuff a lot easier so there will ofc also be increased competition. So what do you guys think about these directions? And any other interesting areas I could go for that will be resistant to AI in the forseeable future?
 
-4h ago
+5h ago
 
 ---
 
@@ -109,7 +109,7 @@ Mass human participation in AI training might be the most important thing possib
 
 : Analysts worry lazy users could have agents complete mandatory infosec training, and attackers could do far nastier things
 
-🔗 [theregister.com](https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/) • 3h ago
+🔗 [theregister.com](https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/) • 4h ago
 
 ---
 
@@ -145,7 +145,7 @@ CalMatters • 6h ago
 
 **[Trump Promises Executive Order to Block State A.I. Regulations](https://www.nytimes.com/2025/12/08/us/politics/trump-executive-order-ai-laws.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -167,7 +167,7 @@ Axios • 7h ago
 
 Advanced AI may have made slop videos harder to spot, but experts say it’s still possible to detect them
 
-The Week • 11m ago
+The Week • 26m ago
 
 ---
 
@@ -179,7 +179,7 @@ Reuters • 3h ago
 
 **[Why Oracle’s Earnings Will Be a Key Moment for AI Stocks This Week](https://www.barrons.com/articles/oracle-broadcom-ai-stocks-d7585d45?gaa_at=eafs&gaa_n=AWEtsqdX3cZeIwV_HdW28MPbTsS-xJA5LkYaIZlnHI9xTJl_DeMoHFb6gvzj&gaa_ts=69372825&gaa_sig=xc8E6ikofZPsz_za_9NsoWFmGnUeGTfOImY9D1T-spNgfoZljl7JVhp1Zxg3pYurww221Hci-kgBbrf7ReHxvg%3D%3D)**
 
-Barron's • 31m ago
+Barron's • 45m ago
 
 ---
 
@@ -239,7 +239,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-⬆️ 35 • 💬 6 • 23h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
+⬆️ 35 • 💬 6 • 1d ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
 
 ---
 
@@ -267,7 +267,7 @@ OpenAI is in a full internal race after a major leak revealed a new model called
 
 📺 AI Revolution
 
-👁️ 62K • 👍 2K • 💬 96 • ⏱️ 12:31 • 18h ago
+👁️ 62K • 👍 2K • 💬 96 • ⏱️ 12:31 • 19h ago
 
 ---
 
@@ -307,7 +307,7 @@ Your Grocery Store Is About to Change Forever. AI is now making your food...but 
 
 📺 Lillie Kane
 
-👁️ 1K • 👍 331 • 💬 76 • ⏱️ 13:09 • 3h ago
+👁️ 1K • 👍 331 • 💬 76 • ⏱️ 13:09 • 4h ago
 
 ---
 

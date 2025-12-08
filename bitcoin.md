@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T19:19:28.938997+00:00'
+updated: '2025-12-08T19:33:37.387356+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 19:19 UTC  
+**Last Updated:** December 08, 2025 at 19:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,078.28
+### $90,142.44
 
 ---
 
@@ -48,7 +48,7 @@ Live Bitcoin monitoring dashboard
 **7d:** -1.4%  
 **30d:** -14.0%  
 **90d:** -20.8%  
-**1y:** -7.4%  
+**1y:** -7.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
 
-59m ago
+1h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 They have a promotion going on with Ledger
 
-55m ago
+1h ago
 
 ---
 
@@ -187,7 +187,7 @@ Decrypt • 2h ago
 
 Institutional demand for XRP ETFs has surpassed $1 billion, despite muted retail interest.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -279,7 +279,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 8 • 💬 0 • 11h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 8 • 💬 0 • 12h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -355,7 +355,7 @@ Market Update Crypto Strategy School https://cryptostrategyschool.com/ab/ ➡️
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 457 • 💬 186 • ⏱️ 13:46 • 6h ago
+👁️ 6K • 👍 457 • 💬 186 • ⏱️ 13:46 • 7h ago
 
 ---
 
@@ -365,7 +365,7 @@ The White House Just Released The Cryptocurrency Bulls!! Become a channel member
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 4K • 💬 308 • ⏱️ 12:47 • 20h ago
+👁️ 59K • 👍 4K • 💬 308 • ⏱️ 12:47 • 21h ago
 
 ---
 
@@ -385,7 +385,7 @@ Bitcoin today with Benjamin Cowen!
 
 📺 MMCrypto
 
-👁️ 30K • 👍 3K • 💬 772 • ⏱️ 7:39 • 10h ago
+👁️ 30K • 👍 3K • 💬 772 • ⏱️ 7:39 • 11h ago
 
 ---
 
