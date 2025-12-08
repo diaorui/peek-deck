@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T04:43:51.261413+00:00'
+updated: '2025-12-08T05:00:43.462413+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 04:43 UTC  
+**Last Updated:** December 08, 2025 at 05:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 41m ago
+🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 58m ago
 
 ---
 
@@ -82,7 +82,7 @@ NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑l
 
 I've been seeing the emo robots which look pretty cool but a little expensive. So I decided to challenge myself and make a robot of my own. But I also want a robot that could talk back to me like if i'm talking to a person or a I. But my culture is mexican american , and I want this a I.Robot to have like the soul of a mexican american person. So my question is, how do I start this? As of a shell for the robot could do it later, but for now, just like the brain, how can I get that functioning? Thank you.
 
-49m ago
+1h ago
 
 ---
 
@@ -148,7 +148,7 @@ Seeking Alpha • 2d ago
 
 Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
 
-CNN • 15h ago
+CNN • 16h ago
 
 ---
 
@@ -178,7 +178,7 @@ ETF Trends • 3d ago
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
-CNET • 15h ago
+CNET • 16h ago
 
 ---
 
@@ -276,7 +276,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
 
-👁️ 22K • 👍 290 • 💬 13 • ⏱️ 0:11 • 21h ago
+👁️ 22K • 👍 290 • 💬 13 • ⏱️ 0:11 • 22h ago
 
 ---
 

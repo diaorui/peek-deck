@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T04:43:51.242056+00:00'
+updated: '2025-12-08T05:00:43.444787+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 04:43 UTC  
+**Last Updated:** December 08, 2025 at 05:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -71,7 +71,7 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 A new study finds ChatGPT fails to take into account retraction notices across a wide range of research.
 
-🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 9h ago
+🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 10h ago
 
 ---
 
@@ -131,7 +131,7 @@ CBS News • 14h ago
 
 "For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
@@ -145,7 +145,7 @@ Fox Business • 9h ago
 
 **[Jamie Dimon says even though AI will eliminate some jobs 'maybe one day we'll be working less hard but having wonderful lives'](https://www.msn.com/en-us/money/markets/jamie-dimon-says-even-though-ai-will-eliminate-some-jobs-maybe-one-day-we-ll-be-working-less-hard-but-having-wonderful-lives/ar-AA1RTfCA?ocid=finance-verthp-feeds)**
 
-MSN • 3h ago
+MSN • 4h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Guardian • 1h ago
 
 **[OpenAI, ChatGPT: AI Should Be Asking Your Kids More Questions](https://www.bloomberg.com/opinion/articles/2025-12-08/openai-chatgpt-ai-should-be-asking-your-kids-more-questions)**
 
-Bloomberg.com • 43m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -251,7 +251,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 37 • 💬 13 • 15h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 37 • 💬 13 • 16h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -299,7 +299,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 38K • 👍 2K • 💬 440 • ⏱️ 15:03 • 12h ago
+👁️ 38K • 👍 2K • 💬 440 • ⏱️ 15:03 • 13h ago
 
 ---
 
@@ -309,7 +309,7 @@ SORA AI Disney Trailers That Make No Sense #funny #funnyvideos #viral #comedy #f
 
 📺 Bigfoot Feed
 
-👁️ 13K • 👍 294 • 💬 17 • ⏱️ 0:55 • 5h ago
+👁️ 13K • 👍 294 • 💬 17 • ⏱️ 0:55 • 6h ago
 
 ---
 
@@ -531,7 +531,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 42 • 💬 2 • ⭐ 670 • 5d ago
+▲ 42 • 💬 2 • ⭐ 670 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -677,7 +677,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 966 • 🔱 118 • 2h ago
+⭐ 966 • 🔱 118 • 3h ago
 
 ---
 
@@ -687,7 +687,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 831 • 🔱 22 • 9h ago
+⭐ 831 • 🔱 22 • 10h ago
 
 ---
 
