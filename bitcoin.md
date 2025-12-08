@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T13:51:06.354637+00:00'
+updated: '2025-12-08T14:13:11.835020+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 13:51 UTC  
+**Last Updated:** December 08, 2025 at 14:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +4.1%  
-**7d:** +0.2%  
-**30d:** -12.5%  
-**90d:** -19.5%  
-**1y:** -5.8%  
+**24h:** +2.1%  
+**7d:** +0.1%  
+**30d:** -12.7%  
+**90d:** -19.6%  
+**1y:** -6.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1832.58B
+**Market Cap:** $1827.32B
 Rank #1
 
-**Circulating Supply:** 19,959,318 BTC
+**Circulating Supply:** 19,959,340 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.2%
+-27.4%
 
 **All-Time Low:** $67.81
-+135189.8%
++134827.0%
 
 ---
 
@@ -89,15 +89,21 @@ Rank #1
 
 ---
 
+**[Max Pain](https://www.reddit.com/r/Bitcoin/comments/1phasad/max_pain/)**
+
+2h ago
+
+---
+
 **[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
 
-10h ago
+11h ago
 
 ---
 
 **[To all who sold…](https://www.reddit.com/r/Bitcoin/comments/1ph3rsw/to_all_who_sold/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -106,12 +112,6 @@ Rank #1
 I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars per week and just set up a direct deposit with strike to do 300 dollars per paycheck (biweekly). Will instantly move my funds to a cold wallet super excited and bullish about btc 5-20 year time horizon EDIT: Just learned about UTXO. I even went to the lengths of setting up direct deposits so I can withdraw BTC faster. Now after learning this I guess the best way is to accumlate more and do one single withdrawal to a cold wallet rather than many smaller ones (correct me if I’m wrong please stilll tryna learn)
 
 11h ago
-
----
-
-**[Max Pain](https://www.reddit.com/r/Bitcoin/comments/1phasad/max_pain/)**
-
-1h ago
 
 ---
 
@@ -125,7 +125,7 @@ They didn't trade, they didn't sell to buy back later, they didn't follow the 4-
 
 **[Buy buy buy!](https://www.reddit.com/r/Bitcoin/comments/1ph9n2c/buy_buy_buy/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ They didn't trade, they didn't sell to buy back later, they didn't follow the 4-
 
 Really cool they have this at common bookstores in Thailand. The placement could be better hahaha, forex has a better location on the shelves here. FOREX!!! Is bitcoin a type of Forex? Kinda. Its actually the ultimate forex.
 
-4h ago
+5h ago
 
 ---
 
@@ -153,7 +153,7 @@ Really cool they have this at common bookstores in Thailand. The placement could
 
 Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
@@ -165,17 +165,53 @@ CoinDesk • 3d ago
 
 ---
 
-**[Stocks and bitcoin are breaking up](https://finance.yahoo.com/news/stocks-bitcoin-breaking-111502902.html)**
+**[Nvidia CEO Jensen Huang Just Flipped the Bitcoin Energy Consumption Debate — And It Changes Everything](https://www.ccn.com/news/crypto/nvidia-ceo-jensen-huang-bullish-bitcoin-energy-as-currency/)**
 
-If the stock market is up, bitcoin usually is too. But this year has been different.
-
-Yahoo Finance • 2h ago
+CCN.com • 1h ago
 
 ---
 
-**[Bitcoin Price, XRP, Ethereum Jump. What Cryptos Need for a Sustained Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-fed-rate-2085d4a2?gaa_at=eafs&gaa_n=AWEtsqeRFj_ap0ejYWxIxta3TZ4bn_pa1KcPvM0gwfzpw4ugWG5MhHH6sTkU&gaa_ts=6936d4ae&gaa_sig=zg7i9OvATzMrt9EOyg_udzngVJF8DIIKKPom2_sxGqdePPhU93yD46wn8HEAodgJJR8wihXl7tI6G2CPFz6XsQ%3D%3D)**
+**[Opinion: Bitcoin’s November crash was no accident](https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?gaa_at=eafs&gaa_n=AWEtsqd0mAgXHbqjVOTHVTdslRh_g0iefmnO2M2PmZOhV1mVVq6ZY4FKZ2Jt&gaa_ts=6936e05c&gaa_sig=Iy12aWKVU6mGUUrCkfG0qfTrCbVRfdYQ0GS7JkWbKg1UbBnQe2i7Xve2EDiO8gCDhDHoGg93L03pbiVGc9H9sA%3D%3D)**
 
-Barron's • 2h ago
+MarketWatch • 1h ago
+
+---
+
+**[A Bitcoin ETF Doubled in Value. Its Investors Made Only One-Fourth of That](https://www.morningstar.com/funds/bitcoin-etf-doubled-value-its-investors-made-only-one-fourth-that)**
+
+iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
+
+Morningstar • 3h ago
+
+---
+
+**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://finance.yahoo.com/news/buy-bitcoin-dip-why-ric-165028778.html)**
+
+Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
+
+Yahoo Finance • 21h ago
+
+---
+
+**[Why Investors Shouldn't Romanticize Bitcoin, From a Financial Planner](https://www.kiplinger.com/investing/cryptocurrency/why-investors-shouldnt-romanticize-bitcoin)**
+
+Investors should treat bitcoin as the volatile, high-risk asset it is. A look at the data, along with comparisons to the Magnificent 7 stocks, indicates a small (1% to 2%) portfolio allocation for most investors would be the safest.
+
+Kiplinger • 3h ago
+
+---
+
+**[Michael Saylor Explains Why Banks Are No Longer Waiting for Bitcoin](https://www.binance.com/en/square/post/33413939298642)**
+
+Binance • 13h ago
+
+---
+
+**[What the First Divergence of Stock and Bitcoin Returns in 10 Years Means](https://www.businessinsider.com/stock-market-bitcoin-return-correlation-divergence-explained-outlook-2025-12)**
+
+If the stock market is up, bitcoin usually is too. But this year has been different.
+
+Business Insider • 2h ago
 
 ---
 
@@ -184,44 +220,6 @@ Barron's • 2h ago
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
 Bloomberg.com • 2d ago
-
----
-
-**[Coinbase Makes Bold Bitcoin Prediction For December Despite Market Downturn](https://finance.yahoo.com/news/coinbase-makes-bold-bitcoin-prediction-113224239.html)**
-
-Coinbase says the crypto market is entering a December recovery phase as liquidity improves and macro conditions turn more supportive.
-
-Yahoo Finance • 2d ago
-
----
-
-**[A Bitcoin ETF Doubled in Value. Its Investors Made Only One-Fourth of That](https://www.morningstar.com/funds/bitcoin-etf-doubled-value-its-investors-made-only-one-fourth-that)**
-
-iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
-
-Morningstar • 2h ago
-
----
-
-**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
-
-Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
-
-Decrypt • 21h ago
-
----
-
-**[Cathie Wood predicts next gold crash, sees Bitcoin outperforming](https://www.thestreet.com/crypto/markets/cathie-wood-predicts-next-gold-crash-bitcoin-outperforming)**
-
-TheStreet • 22h ago
-
----
-
-**[‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles](https://www.forbes.com/sites/digital-assets/2025/12/07/next-step-is-coming-sec-chair-issues-huge-crypto-prediction-as-the-bitcoin-price-struggles/)**
-
-The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
-
-Forbes • 1d ago
 
 ---
 
@@ -261,7 +259,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 1 • 22h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 1 • 23h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -273,19 +271,11 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 ---
 
-**[Open Source Bitcoin Halving Countdown Clock](https://news.ycombinator.com/item?id=46107608)**
-
-Track the next Bitcoin halving event with live countdown and real-time block updates
-
-⬆️ 2 • 💬 0 • 6d ago • [bitcoinhalvingcountdown.com](https://bitcoinhalvingcountdown.com)
-
----
-
 **[Married millennials, here comes the crypto divorce cliff](https://news.ycombinator.com/item?id=46189380)**
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 6 • 💬 0 • 6h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 7 • 💬 0 • 6h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -323,7 +313,7 @@ BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available ever
 
 📺 Lark Davis
 
-👁️ 4K • 👍 399 • 💬 21 • ⏱️ 37:57 • 1h ago
+👁️ 4K • 👍 399 • 💬 21 • ⏱️ 37:57 • 2h ago
 
 ---
 
@@ -333,7 +323,7 @@ All eyes on Powell. Bitcoin chops sideways. DATs collapse. Liquidity turns. This
 
 📺 Coin Bureau
 
-👁️ 2K • 👍 254 • 5h ago
+👁️ 2K • 👍 254 • 6h ago
 
 ---
 
@@ -343,7 +333,7 @@ In today's video, Kyledoops shares his strategy on whether to buy back now or ju
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 20 • ⏱️ 32:04 • 5h ago
+👁️ 12K • 👍 1K • 💬 20 • ⏱️ 32:04 • 6h ago
 
 ---
 
@@ -353,7 +343,7 @@ AscendEX Platform https://ckenny.com/ASC Free Strategy Course https://ckenny.com
 
 📺 Conor Kenny
 
-👁️ 7K • 👍 609 • 💬 83 • ⏱️ 5:59 • 3h ago
+👁️ 7K • 👍 609 • 💬 83 • ⏱️ 5:59 • 4h ago
 
 ---
 
@@ -373,7 +363,7 @@ Tom Lee: Prepare Now For What's Coming | Bitcoin & XRP December Prediction XRP N
 
 📺 NCashOfficial - Daily Crypto & Finance News
 
-👁️ 8K • 👍 469 • 💬 219 • ⏱️ 16:50 • 8h ago
+👁️ 8K • 👍 469 • 💬 219 • ⏱️ 16:50 • 9h ago
 
 ---
 
@@ -383,7 +373,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 5K • 👍 478 • 💬 21 • ⏱️ 7:18 • 4h ago
+👁️ 5K • 👍 478 • 💬 21 • ⏱️ 7:18 • 5h ago
 
 ---
 

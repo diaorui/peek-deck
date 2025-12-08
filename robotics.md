@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T13:51:06.363861+00:00'
+updated: '2025-12-08T14:13:11.844604+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 13:51 UTC  
+**Last Updated:** December 08, 2025 at 14:13 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -42,7 +42,15 @@ Robotics research and industry news
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
-1h ago
+2h ago
+
+---
+
+**[The Chinese just dropped it on online marketplaces](https://www.reddit.com/r/robotics/comments/1phc2nu/the_chinese_just_dropped_it_on_online_marketplaces/)**
+
+180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
+
+59m ago
 
 ---
 
@@ -62,7 +70,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 **[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -74,11 +82,11 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 ---
 
-**[The Chinese just dropped it on online marketplaces](https://www.reddit.com/r/robotics/comments/1phc2nu/the_chinese_just_dropped_it_on_online_marketplaces/)**
+**[Robot kicking a soccer ball in sim，contact accuracy & rigid body dynamics](https://www.reddit.com/r/robotics/comments/1phbq9l/robot_kicking_a_soccer_ball_in_simcontact/)**
 
-180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
+Just sharing a small test clip from a sim environment: simple walking + a few controlled kicks. From my experience, getting this kind of behavior to look even remotely stable depends a lot on two things: the accuracy of the rigid-body collisions how well the contact forces are resolved frame-to-frame If either of those is off, the foot either tunnels through the ball or the ball reacts in weird, non-physical ways. With a more accurate physics setup, the kick actually lands where you expect, and the robot’s gait doesn’t blow up.
 
-37m ago
+1h ago
 
 ---
 
@@ -90,19 +98,11 @@ An old picture. The progress is in the coding, and testing, and tuning of the ha
 
 ---
 
-**[Robot kicking a soccer ball in sim，contact accuracy & rigid body dynamics](https://www.reddit.com/r/robotics/comments/1phbq9l/robot_kicking_a_soccer_ball_in_simcontact/)**
-
-Just sharing a small test clip from a sim environment: simple walking + a few controlled kicks. From my experience, getting this kind of behavior to look even remotely stable depends a lot on two things: the accuracy of the rigid-body collisions how well the contact forces are resolved frame-to-frame If either of those is off, the foot either tunnels through the ball or the ball reacts in weird, non-physical ways. With a more accurate physics setup, the kick actually lands where you expect, and the robot’s gait doesn’t blow up.
-
-53m ago
-
----
-
 **[What's going on with NVIDIA Groot?](https://www.reddit.com/r/robotics/comments/1ph1l8z/whats_going_on_with_nvidia_groot/)**
 
 NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑language‑action foundation model for humanoid robots, built to connect perception, language, and low‑level control so a single policy can handle many manipulation tasks across different embodiments. Since GTC they have released GR00T N1 and then N1.5 with architectural and data upgrades aimed at better generalization, grounding, and language following, plus tooling like simulation blueprints and synthetic motion data pipelines to accelerate training.​​ For anyone here actually playing with GR00T in the lab or integrating it on real hardware: how mature is it right now compared to the keynote demos and marketing? Any experiences with N1 vs N1.5, sim‑to‑real transfer, or using the GR00T toolchain (Dreams / Blueprint / Omniverse etc.) in a serious robotics stack would be super valuable to hear about.​
 
-10h ago
+11h ago
 
 ---
 
@@ -170,7 +170,7 @@ CNET • 1d ago
 
 Chinese robotics frim EngineAI shows CEO being kicked by T800 robot to prove real-world capabilities amid CGI speculation.
 
-Interesting Engineering • 4h ago
+Interesting Engineering • 5h ago
 
 ---
 
@@ -178,7 +178,7 @@ Interesting Engineering • 4h ago
 
 For this chore, the human touch still beats machines. But maybe not for long
 
-Smithsonian Magazine • 42m ago
+Smithsonian Magazine • 1h ago
 
 ---
 
@@ -186,7 +186,7 @@ Smithsonian Magazine • 42m ago
 
 Antioch says its platform allows robots to be tested in virtual environments without the expense and time of other methods.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T13:51:06.346169+00:00'
+updated: '2025-12-08T14:13:11.826481+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- news
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 13:51 UTC  
+**Last Updated:** December 08, 2025 at 14:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
 
-🔗 [withmartian.com](https://withmartian.com/prize) • 58m ago
+🔗 [withmartian.com](https://withmartian.com/prize) • 1h ago
 
 ---
 
@@ -59,19 +59,19 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 ---
 
-**[Key Insights from OpenRouter's 2025 State of AI report](https://www.reddit.com/r/artificial/comments/1phblq3/key_insights_from_openrouters_2025_state_of_ai/)**
-
-Source: https://openrouter.ai/state-of-ai TL;DR 1. new landscape of open source: Chinese models rise, market moves beyond monopoly Although proprietary closed-source models still dominate, the market share of open-source models has steadily grown to about one-third. Notably, a significant portion of this growth comes from models developed in China, such as the DeepSeek, Qwen and Kimi, which have gained a large global user base thanks to their strong performance and rapid iteration. 2. Open-Source AI's top use isn't productivity, it's "role-playing" Contrary to the assumption that AI is mainly used for productivity tasks such as programming and writing, data shows that in open-source models, the largest use case is creative role-playing. Among all uses of open-source models, more than half (about 52%) fall under the role-playing category. 3. the "cinderella effect": winning users hinges on solving the problem the "first time" When a newly released model successfully solves a previously unresolved high-value workload for the first time, it achieves a perfect “fit”, much like Cinderella putting on her unique glass slipper. Typically, this “perfect fit” is realized through the model’s new capabilities in agentic reasoning, such as multi-step reasoning or reliable tool use that address a previously difficult business problem. The consequence of this “fit” is a strong user lock-in effect. Once users find the “glass slipper” model that solves their core problem, they rarely switch to newer or even technically superior models that appear later. 4. rise of agents: ai shifts from "text generator" to "task executor" Current models not only generate text but also take concrete actions through planning, tool invocation, and handling long-form context to solve complex problems. Key data evidence supporting this trend includes: Proliferation of reasoning models: Models with multi-step reasoning capabilities now process more than 50% of total tokens, becoming the mainstream in the market. Surge in context length: Over the past year, the average number of input tokens (prompts) per request has grown nearly fourfold. This asymmetric growth is primarily driven by use cases in software development and technical reasoning, indicating that users are engaging models with increasingly complex background information. Normalization of tool invocation: An increasing number of requests now call external APIs or tools to complete tasks, with this proportion stabilizing at around 15% and continuing to grow, marking AI’s role as the “action hub” connecting the digital world. 5. the economics of AI: price isn't the only deciding factor Data shows that demand for AI models is relatively “price inelastic,” meaning there is no strong correlation between model price and usage volume. When choosing a model, users consider cost, quality, reliability, and specific capabilities comprehensively, rather than simply pursuing the lowest price. Value, not price, is the core driver of choice. The research categorizes models on the market into four types, clearly revealing this dynamic: Efficient Giants: Such as Google Gemini Flash, with extremely low cost and massive usage, serving as an “attractive default option for high-volume or long-context workloads.” Premium Leaders: Such as Anthropic Claude Sonnet, which are expensive yet heavily used, indicating that users are willing to pay for “superior reasoning ability and scalable reliability.” Premium Specialists: Such as OpenAI GPT-4, which are extremely costly and relatively less used, dedicated to “niche, high-stakes critical tasks where output quality far outweighs marginal token cost.” Long Tail Market: Includes a large number of low-cost, low-usage models that meet various niche needs.
-
-59m ago
-
----
-
 **["I'm worried that instead of building AI that will actually advance us as a species, we are optimizing for AI slop instead. We're basically teaching our models to chase dopamine instead of truth. I used to work on social media, and every time we optimize for engagement, terrible things happen."](https://www.reddit.com/r/artificial/comments/1phbzrg/im_worried_that_instead_of_building_ai_that_will/)**
 
 Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
-41m ago
+1h ago
+
+---
+
+**[Key Insights from OpenRouter's 2025 State of AI report](https://www.reddit.com/r/artificial/comments/1phblq3/key_insights_from_openrouters_2025_state_of_ai/)**
+
+Source: https://openrouter.ai/state-of-ai TL;DR 1. new landscape of open source: Chinese models rise, market moves beyond monopoly Although proprietary closed-source models still dominate, the market share of open-source models has steadily grown to about one-third. Notably, a significant portion of this growth comes from models developed in China, such as the DeepSeek, Qwen and Kimi, which have gained a large global user base thanks to their strong performance and rapid iteration. 2. Open-Source AI's top use isn't productivity, it's "role-playing" Contrary to the assumption that AI is mainly used for productivity tasks such as programming and writing, data shows that in open-source models, the largest use case is creative role-playing. Among all uses of open-source models, more than half (about 52%) fall under the role-playing category. 3. the "cinderella effect": winning users hinges on solving the problem the "first time" When a newly released model successfully solves a previously unresolved high-value workload for the first time, it achieves a perfect “fit”, much like Cinderella putting on her unique glass slipper. Typically, this “perfect fit” is realized through the model’s new capabilities in agentic reasoning, such as multi-step reasoning or reliable tool use that address a previously difficult business problem. The consequence of this “fit” is a strong user lock-in effect. Once users find the “glass slipper” model that solves their core problem, they rarely switch to newer or even technically superior models that appear later. 4. rise of agents: ai shifts from "text generator" to "task executor" Current models not only generate text but also take concrete actions through planning, tool invocation, and handling long-form context to solve complex problems. Key data evidence supporting this trend includes: Proliferation of reasoning models: Models with multi-step reasoning capabilities now process more than 50% of total tokens, becoming the mainstream in the market. Surge in context length: Over the past year, the average number of input tokens (prompts) per request has grown nearly fourfold. This asymmetric growth is primarily driven by use cases in software development and technical reasoning, indicating that users are engaging models with increasingly complex background information. Normalization of tool invocation: An increasing number of requests now call external APIs or tools to complete tasks, with this proportion stabilizing at around 15% and continuing to grow, marking AI’s role as the “action hub” connecting the digital world. 5. the economics of AI: price isn't the only deciding factor Data shows that demand for AI models is relatively “price inelastic,” meaning there is no strong correlation between model price and usage volume. When choosing a model, users consider cost, quality, reliability, and specific capabilities comprehensively, rather than simply pursuing the lowest price. Value, not price, is the core driver of choice. The research categorizes models on the market into four types, clearly revealing this dynamic: Efficient Giants: Such as Google Gemini Flash, with extremely low cost and massive usage, serving as an “attractive default option for high-volume or long-context workloads.” Premium Leaders: Such as Anthropic Claude Sonnet, which are expensive yet heavily used, indicating that users are willing to pay for “superior reasoning ability and scalable reliability.” Premium Specialists: Such as OpenAI GPT-4, which are extremely costly and relatively less used, dedicated to “niche, high-stakes critical tasks where output quality far outweighs marginal token cost.” Long Tail Market: Includes a large number of low-cost, low-usage models that meet various niche needs.
+
+1h ago
 
 ---
 
@@ -87,7 +87,7 @@ Referral link system with points and rewards
 
 Explore the true history of convolutional neural networks, from Fukushima’s neocognitron to modern CNNs and LeCun’s influential work.
 
-🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 23h ago
+🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 1d ago
 
 ---
 
@@ -121,35 +121,21 @@ Just did this myself, and now sharing for others! I have ChatGPT Plus, and when 
 
 Powell noted that leading tech firms have only begun to tap debt markets to fund the next phase of AI expansion, suggesting additional capital is on the way.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
 **[The power crunch threatening America’s AI ambitions](https://ig.ft.com/ai-power/)**
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
-**[OpenAI Finds AI Saves Workers Nearly an Hour a Day on Average](https://www.bloomberg.com/news/articles/2025-12-08/openai-finds-ai-saves-workers-nearly-an-hour-a-day-on-average)**
+**[Jamie Dimon: AI is going to 'save lives,' do great stuff for mankind](https://www.foxbusiness.com/video/6386190776112)**
 
-Bloomberg.com • 1h ago
+JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, crypto investing and socialism on 'Mornings with Maria.'
 
----
-
-**[BNY and Google are teaming up to supercharge the bank's AI ambitions with Gemini 3](https://www.businessinsider.com/bny-ai-boost-google-gemini-3-agentic-ai-system-eliza-2025-12)**
-
-BNY is integrating Google's Gemini 3 into its internal AI system Eliza, betting on agentic tech as banks race to build next-generation workflows.
-
-Business Insider • 1h ago
-
----
-
-**[Hinge’s new AI feature helps daters move beyond boring small talk](https://techcrunch.com/2025/12/08/hinges-new-ai-feature-helps-daters-start-better-convos-moving-beyond-boring-small-talk/)**
-
-Hinge launched “Convo Starters,” a feature powered by AI that provides personalized tips for initiating meaningful conversations.
-
-TechCrunch • 51m ago
+Fox Business • 25m ago
 
 ---
 
@@ -159,17 +145,31 @@ Axios • 3h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqfQxd32PAMtXHaHB4clceM9hpX2sMTkP3i95N2Mqfh2kuiRHm0WKhmM&gaa_ts=6936d4ad&gaa_sig=hn_L7rDbF3okBh_Z9HcdeB7NSL3wLSkMctBZG1qIEcE5N-gAT1cNUvupwew3Vo6Z3XUYS4EVgy1iEOM8K0fzuw%3D%3D)**
+**[Trump Says He’ll Sign Executive Order Curbing State AI Rules](https://www.bloomberg.com/news/articles/2025-12-08/trump-says-he-ll-sign-executive-order-curbing-state-ai-rules)**
 
-The Wall Street Journal • 1d ago
+President Donald Trump said he would approve an executive order this week establishing “ONE RULE” on artificial intelligence aimed at limiting state-level policies regulating the technology.
+
+Bloomberg.com • 41m ago
 
 ---
 
-**[Jamie Dimon predicts AI will not 'dramatically reduce' jobs in the next year](https://www.foxbusiness.com/media/jamie-dimon-predicts-ai-not-dramatically-reduce-jobs-next-year)**
+**[Trump says he will sign executive order this week on AI approval process](https://www.reuters.com/world/trump-says-he-will-sign-executive-order-this-week-ai-approval-process-2025-12-08/)**
 
-During an interview on "Sunday Morning Futures," JPMorgan Chase CEO Jamie Dimon predicted artificial intelligence will not "dramatically reduce" jobs next year if regulated properly.
+Reuters • 36m ago
 
-Fox Business • 18h ago
+---
+
+**[Coupa AI Research Reveals Executive AI Skills Gap is Stalling ROI on Crucial AI Technology Investments](https://finance.yahoo.com/news/coupa-ai-research-reveals-executive-140000284.html)**
+
+Coupa, the leading AI platform for Total Spend Management, today released the findings of its new Coupa Clarity AI Impact Report providing clear answers as to why so many major AI initiatives are struggling to deliver ROI.
+
+Yahoo Finance • 13m ago
+
+---
+
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqd40SinsbKj5m_rrLXdOGMJIAzNb_LHROgbVBGwL1ztrSm9Lw-3CLgA&gaa_ts=6936e05a&gaa_sig=bDvZP8znhENDeHWRUsCT7s74E9vaU6mq22wia5uUTGDs0Q4D7aeVgSC6EQT93dsMbHiBfK5o059ly42r9TNViA%3D%3D)**
+
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -181,11 +181,9 @@ The Guardian • 1d ago
 
 ---
 
-**[OpenAI goes from stock market savior to burden as AI risks mount](https://finance.yahoo.com/news/openai-goes-stock-market-savior-140007549.html)**
+**[Only a few automakers to keep up AI push, Gartner says](https://www.reuters.com/business/autos-transportation/only-few-automakers-keep-up-ai-push-gartner-says-2025-12-08/)**
 
-The maker of ChatGPT is no longer seen as being on the cutting edge of AI technology and is facing questions about its lack of profitability and the need to grow rapidly to pay for its massive spending commitments.  “OpenAI was the golden child earlier this year, and Alphabet was looked at in a very different light,” said Brett Ewing, chief market strategist at First Franklin Financial Services.
-
-Yahoo Finance • 3h ago
+Reuters • 5h ago
 
 ---
 
@@ -203,7 +201,7 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 528 • 💬 173 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 539 • 💬 171 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -211,7 +209,7 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 413 • 💬 227 • 2d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 413 • 💬 229 • 2d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -285,7 +283,7 @@ Want to make money and save time with AI? Join here: https://juliangoldieai.com/
 
 📺 Julian Goldie SEO
 
-👁️ 3K • 👍 133 • 💬 19 • ⏱️ 8:14 • 14h ago
+👁️ 3K • 👍 133 • 💬 19 • ⏱️ 8:14 • 15h ago
 
 ---
 
@@ -295,7 +293,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 48K • 👍 3K • 💬 471 • ⏱️ 15:03 • 21h ago
+👁️ 48K • 👍 3K • 💬 471 • ⏱️ 15:03 • 22h ago
 
 ---
 
@@ -355,7 +353,7 @@ AI #Beauty #Hair #Curling #Coloring #Robot #Technology #Dubai #Future #Hairstyle
 
 📺 Adv Life
 
-👁️ 68K • 👍 868 • 💬 10 • ⏱️ 0:11 • 3h ago
+👁️ 68K • 👍 868 • 💬 10 • ⏱️ 0:11 • 4h ago
 
 ---
 
@@ -381,7 +379,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,310 • 6d ago
+⬇️ 201,990 • ❤️ 2,313 • 6d ago
 
 ---
 
@@ -393,7 +391,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 28,778 • ❤️ 801 • 7d ago
+⬇️ 28,778 • ❤️ 802 • 7d ago
 
 ---
 
@@ -405,7 +403,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 500 • 10h ago
+⬇️ 40,450 • ❤️ 509 • 11h ago
 
 ---
 
@@ -449,7 +447,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 3,573 • ❤️ 375 • 6d ago
+⬇️ 3,573 • ❤️ 377 • 6d ago
 
 ---
 
@@ -471,7 +469,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 207,838 • ❤️ 934 • 11d ago
+⬇️ 207,838 • ❤️ 935 • 11d ago
 
 ---
 
@@ -513,7 +511,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 160 • 💬 3 • ⭐ 5,595 • 10d ago
+▲ 160 • 💬 3 • ⭐ 5,595 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -567,7 +565,7 @@ RealGen is a photorealistic text-to-image framework that uses an LLM for prompt 
 
 Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-▲ 108 • 💬 4 • ⭐ 5,408 • 17d ago
+▲ 108 • 💬 4 • ⭐ 5,408 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
@@ -673,7 +671,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 981 • 🔱 120 • 1h ago
+⭐ 981 • 🔱 120 • 2h ago
 
 ---
 
@@ -693,7 +691,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 829 • 🔱 44 • 6h ago
+⭐ 829 • 🔱 44 • 7h ago
 
 ---
 
@@ -723,7 +721,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 617 • 🔱 96 • 3h ago
+⭐ 617 • 🔱 96 • 4h ago
 
 ---
 
