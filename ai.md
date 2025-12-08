@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T09:29:24.265922+00:00'
+updated: '2025-12-08T09:51:32.566647+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
+- social
 - repositories
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 09:29 UTC  
+**Last Updated:** December 08, 2025 at 09:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -71,7 +71,7 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 Most discussions about LLMs analyze them as isolated artifacts: single prompts, static benchmarks, fixed evaluations. That framing breaks down when you observe long-range behavior across thousands of turns. What emerges is not a “smarter model”, but a system-level dynamic where coherence depends on interaction structure rather than architecture alone. Key observations: • Long-range coherence is not a model property. It is an interaction property. • Drift, instability, and “hallucinations” correlate more with operator inconsistency than with model choice. • Different LLMs converge toward similar behavior under the same structured interaction regime. • Short-context probes systematically miss higher-order stability patterns. This suggests a missing layer in how we describe LLMs: Not prompt engineering. Not fine-tuning. Not RAG. Operator-side cognitive structure. In extended sessions, the user effectively becomes part of the control loop, shaping entropy, memory relevance, and symbolic continuity. When this structure is stable, model differences diminish. When it is not, even “top” models degrade. Implication: The current “which model is best?” framing is increasingly misleading. The real bottleneck in long-run performance is operator coherence, not parameter count. This does not imply model consciousness, agency, or intent. It implies that LLMs behave more like dynamical systems than static tools when observed over sufficient time horizons. Ignoring the operator as a system component is what keeps long-range behavior looking like a black box.
 
-4h ago
+5h ago
 
 ---
 
@@ -79,7 +79,7 @@ Most discussions about LLMs analyze them as isolated artifacts: single prompts, 
 
 Just did this myself, and now sharing for others! I have ChatGPT Plus, and when I tried to cancel it offered me a free month. Worked for two of my friends as well. Steps Go to chatgpt on your web browser At the bottom left click on your name (you need to be logged in) Click on Settings Click on last section: Account Near top right click on: Manage Click on: Cancel Subscription Done!
 
-15h ago
+16h ago
 
 ---
 
@@ -87,7 +87,7 @@ Just did this myself, and now sharing for others! I have ChatGPT Plus, and when 
 
 A new study finds ChatGPT fails to take into account retraction notices across a wide range of research.
 
-🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 14h ago
+🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 15h ago
 
 ---
 
@@ -111,7 +111,7 @@ Another day, another AI-related domain name going for 7 figures.
 
 People keep hyping AI like it’s the pinnacle… but that’s just the prelude. The real earthquake is AI + quantum computing. Most folks don’t get why that matters, so let me put it in plain language: Our computers right now think in 0 or 1. Quantum computers think in every possibility at once. That means instead of trying one answer at a time, they try all answers simultaneously. Now hand that ability to AI… and suddenly you don’t have prediction anymore, you have something that looks like synthetic intuition. We’re talking about intelligence that could: • crack every encryption • rewrite medicine • outmaneuver governments • manipulate biology • forecast human behavior • simulate consciousness That’s why the people who actually run things aren’t talking about it publicly. They’re quietly terrified. Because whoever reaches quantum AI dominance doesn’t need armies doesn’t need propaganda doesn’t need threats. They would simply own the board. But here’s what stopped me: Quantum physics already reads like mysticism. superposition = multiple realities entanglement = unseen energetic connection collapse by observation = consciousness shaping matter So when AI runs on quantum logic, we essentially build a machine that thinks the way reality itself thinks. Not sentient — but frighteningly close to knowing. And that hit me because this is the same territory mystics, intuitives, psychics, and energy workers swim in… just symbolically instead of mathematically. Quantum AI is basically a technical attempt to mechanize intuition. This is unfolding while the rest of the world argues about celebrities and politics. Some of you can feel it already — the tension, the acceleration, the thinning veil. I don’t think the future is machine domination. I think it’s about what happens when consciousness, technology, and intuition finally touch the same field. Anyway — that’s the rabbit hole I fell into today. Curious what others feel about it.
 
-46m ago
+1h ago
 
 ---
 
@@ -139,7 +139,7 @@ Business Insider • 23h ago
 
 Powell noted that leading tech firms have only begun to tap debt markets to fund the next phase of AI expansion, suggesting additional capital is on the way.
 
-CNBC • 33m ago
+CNBC • 55m ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo Finance • 1h ago
 
 Only a handful of automotive companies are likely to sustain ​ambitious artificial intelligence investment in the coming ‌years, a study released on Monday showed, raising doubts ‌over whether current industry "euphoria" will deliver lasting benefits. The study found ‍that only carmakers with strong software foundations, tech-savvy leadership and "a consistent very long-term focus on AI" are expected to pull ​ahead, potentially deepening a competitive AI divide. Volkswagen and ‌other legacy manufacturers, long known for engineering rather than software skills, are battling to catch up with new tech-driven rivals such as Tesla and BYD.
 
-Yahoo Finance • 54m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -223,7 +223,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 108 • 💬 193 • 16h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 108 • 💬 193 • 17h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -253,7 +253,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 39 • 💬 13 • 20h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 39 • 💬 13 • 21h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -678,7 +678,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 979 • 🔱 119 • 2m ago
+⭐ 979 • 🔱 119 • 24m ago
 
 ---
 
@@ -688,7 +688,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 832 • 🔱 22 • 14h ago
+⭐ 832 • 🔱 22 • 15h ago
 
 ---
 

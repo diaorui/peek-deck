@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T09:29:24.274416+00:00'
+updated: '2025-12-08T09:51:32.575006+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 09:29 UTC  
+**Last Updated:** December 08, 2025 at 09:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +3.1%  
-**7d:** +0.7%  
-**30d:** -12.1%  
+**24h:** +3.0%  
+**7d:** +0.6%  
+**30d:** -12.2%  
 **90d:** -19.2%  
-**1y:** -5.4%  
+**1y:** -5.5%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars per week and just set up a direct deposit with strike to do 300 dollars per paycheck (biweekly). Will instantly move my funds to a cold wallet super excited and bullish about btc 5-20 year time horizon EDIT: Just learned about UTXO. I even went to the lengths of setting up direct deposits so I can withdraw BTC faster. Now after learning this I guess the best way is to accumlate more and do one single withdrawal to a cold wallet rather than many smaller ones (correct me if I’m wrong please stilll tryna learn)
 
-6h ago
+7h ago
 
 ---
 
@@ -107,7 +107,7 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
-23h ago
+1d ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 1h ago
 
 Experts deliver conflicting Bitcoin forecasts as technical signals clash with renewed optimism ahead of a volatile December market.
 
-Yahoo Finance • 49m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -209,7 +209,7 @@ Bloomberg.com • 2d ago
 
 Bitcoin is the world's largest cryptocurrency by market cap.
 
-The Motley Fool • 29m ago
+The Motley Fool • 51m ago
 
 ---
 
@@ -217,7 +217,7 @@ The Motley Fool • 29m ago
 
 Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -317,7 +317,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 290 • ⏱️ 18:52 • 9h ago
+👁️ 19K • 👍 1K • 💬 290 • ⏱️ 18:52 • 10h ago
 
 ---
 
@@ -337,7 +337,7 @@ This chart shows the historical backtest of the on-chain risk gauge shown on the
 
 📺 Benjamin Cowen
 
-👁️ 12K • 👍 1K • 💬 54 • ⏱️ 9:57 • 3h ago
+👁️ 12K • 👍 1K • 💬 54 • ⏱️ 9:57 • 4h ago
 
 ---
 
@@ -347,7 +347,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 335 • 💬 184 • ⏱️ 19:45 • 14h ago
+👁️ 8K • 👍 335 • 💬 184 • ⏱️ 19:45 • 15h ago
 
 ---
 
@@ -387,7 +387,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 301 • 💬 49 • ⏱️ 8:55 • 4h ago
+👁️ 4K • 👍 301 • 💬 49 • ⏱️ 8:55 • 5h ago
 
 ---
 
@@ -397,7 +397,7 @@ My Preferred Exchange BYBIT https://partner.bybit.com/b/Didi NON-KYC Exchange: .
 
 📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 4K • 👍 462 • 💬 77 • ⏱️ 20:13 • 6h ago
+👁️ 4K • 👍 462 • 💬 77 • ⏱️ 20:13 • 7h ago
 
 ---
 
