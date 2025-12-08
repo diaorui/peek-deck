@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T16:36:03.120402+00:00'
+updated: '2025-12-08T16:57:10.970707+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - news
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 16:36 UTC  
+**Last Updated:** December 08, 2025 at 16:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,7 +45,7 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -1.1%  
-**7d:** -1.5%  
+**7d:** -1.6%  
 **30d:** -14.1%  
 **90d:** -20.9%  
 **1y:** -7.5%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 They didn't trade, they didn't sell to buy back later, they didn't follow the 4-year cycle, nothing. Just HODL Replicate them.
 
-5h ago
+6h ago
 
 ---
 
@@ -163,7 +163,7 @@ Bloomberg.com • 2h ago
 
 Self-proclaimed smartest man in the world claims Bitcoin will soon surge to a new all-time high. Crypto community reactions remain overwhelmingly skeptical. Market analysts warn ...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -193,7 +193,7 @@ Barron's • 2h ago
 
 Asian equities opened the week slightly higher ahead of a heavy run of central bank decisions, including a Federal Reserve meeting where markets have largely priced in a 25-basis-point rate cut.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -223,7 +223,7 @@ Business Insider • 5h ago
 
 Bitcoin’s long-term holder supply hit a cyclical low as BTC bottomed near $80K, suggesting spot-driven sell pressure is fading as prices rebound.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -385,7 +385,7 @@ Bitcoin #Crypto #Finance The macro landscape is shifting fast: the Federal Reser
 
 📺 The Wolf Of All Streets
 
-👁️ 5K • 👍 426 • 2h ago
+👁️ 5K • 👍 426 • 3h ago
 
 ---
 

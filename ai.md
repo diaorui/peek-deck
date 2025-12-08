@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T16:36:03.111924+00:00'
+updated: '2025-12-08T16:57:10.962187+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - news
-- videos
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 16:36 UTC  
+**Last Updated:** December 08, 2025 at 16:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
 
-🔗 [withmartian.com](https://withmartian.com/prize) • 3h ago
+🔗 [withmartian.com](https://withmartian.com/prize) • 4h ago
 
 ---
 
@@ -63,7 +63,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 **[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks b
 
 Source: https://openrouter.ai/state-of-ai TL;DR 1. new landscape of open source: Chinese models rise, market moves beyond monopoly Although proprietary closed-source models still dominate, the market share of open-source models has steadily grown to about one-third. Notably, a significant portion of this growth comes from models developed in China, such as the DeepSeek, Qwen and Kimi, which have gained a large global user base thanks to their strong performance and rapid iteration. 2. Open-Source AI's top use isn't productivity, it's "role-playing" Contrary to the assumption that AI is mainly used for productivity tasks such as programming and writing, data shows that in open-source models, the largest use case is creative role-playing. Among all uses of open-source models, more than half (about 52%) fall under the role-playing category. 3. the "cinderella effect": winning users hinges on solving the problem the "first time" When a newly released model successfully solves a previously unresolved high-value workload for the first time, it achieves a perfect “fit”, much like Cinderella putting on her unique glass slipper. Typically, this “perfect fit” is realized through the model’s new capabilities in agentic reasoning, such as multi-step reasoning or reliable tool use that address a previously difficult business problem. The consequence of this “fit” is a strong user lock-in effect. Once users find the “glass slipper” model that solves their core problem, they rarely switch to newer or even technically superior models that appear later. 4. rise of agents: ai shifts from "text generator" to "task executor" Current models not only generate text but also take concrete actions through planning, tool invocation, and handling long-form context to solve complex problems. Key data evidence supporting this trend includes: Proliferation of reasoning models: Models with multi-step reasoning capabilities now process more than 50% of total tokens, becoming the mainstream in the market. Surge in context length: Over the past year, the average number of input tokens (prompts) per request has grown nearly fourfold. This asymmetric growth is primarily driven by use cases in software development and technical reasoning, indicating that users are engaging models with increasingly complex background information. Normalization of tool invocation: An increasing number of requests now call external APIs or tools to complete tasks, with this proportion stabilizing at around 15% and continuing to grow, marking AI’s role as the “action hub” connecting the digital world. 5. the economics of AI: price isn't the only deciding factor Data shows that demand for AI models is relatively “price inelastic,” meaning there is no strong correlation between model price and usage volume. When choosing a model, users consider cost, quality, reliability, and specific capabilities comprehensively, rather than simply pursuing the lowest price. Value, not price, is the core driver of choice. The research categorizes models on the market into four types, clearly revealing this dynamic: Efficient Giants: Such as Google Gemini Flash, with extremely low cost and massive usage, serving as an “attractive default option for high-volume or long-context workloads.” Premium Leaders: Such as Anthropic Claude Sonnet, which are expensive yet heavily used, indicating that users are willing to pay for “superior reasoning ability and scalable reliability.” Premium Specialists: Such as OpenAI GPT-4, which are extremely costly and relatively less used, dedicated to “niche, high-stakes critical tasks where output quality far outweighs marginal token cost.” Long Tail Market: Includes a large number of low-cost, low-usage models that meet various niche needs.
 
-3h ago
+4h ago
 
 ---
 
@@ -123,7 +123,7 @@ Referral link system with points and rewards
 
 Powell noted that leading tech firms have only begun to tap debt markets to fund the next phase of AI expansion, suggesting additional capital is on the way.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -137,13 +137,13 @@ Financial Times • 11h ago
 
 President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-CNN • 1h ago
+CNN • 2h ago
 
 ---
 
 **[IBM to Buy Confluent for $9.3 Billion to Expand in AI Services](https://www.bloomberg.com/news/articles/2025-12-08/ibm-to-buy-confluent-for-11-billion-to-expand-in-ai-services)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -159,7 +159,7 @@ Yahoo Finance • 2h ago
 
 IBM announced its multi-billion-dollar buyout of streaming Confluent as stock shares spiked nearly 30% and IBM at about 1$ after it was revealed.
 
-upi.com • 24m ago
+upi.com • 45m ago
 
 ---
 
@@ -211,7 +211,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 114 • 💬 203 • 23h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 114 • 💬 203 • 1d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -515,7 +515,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 22 • 💬 2 • ⭐ 5,612 • 11d ago
+▲ 22 • 💬 2 • ⭐ 5,761 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -529,7 +529,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 46 • 💬 2 • ⭐ 802 • 6d ago
+▲ 46 • 💬 2 • ⭐ 864 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -543,7 +543,7 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 148 • 💬 4 • ⭐ 416 • 4d ago
+▲ 149 • 💬 4 • ⭐ 416 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
 
@@ -613,15 +613,15 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 ---
 
-**[Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation](https://huggingface.co/papers/2512.04678)**
+**[MinerU: An Open-Source Solution for Precise Document Content Extraction](https://huggingface.co/papers/2409.18839)**
 
-*Yunhong Lu, Yanhong Zeng, Haobo Li et al. (12 authors)*
+*Bin Wang, Chao Xu, Xiaomeng Zhao et al. (18 authors)*
 
-The paper introduces Reward Forcing, which enhances video generation by updating sink tokens with EMA-Sink and using Rewarded Distribution Matching Distillation to prioritize dynamic content.
+MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
 
-▲ 37 • 💬 3 • ⭐ 129 • 4d ago
+▲ 33 • 💬 4 • ⭐ 50,051 • 14mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2512.04678) • [💻 code](https://github.com/JaydenLyh/Reward-Forcing) • [🔗 project](https://reward-forcing.github.io/)
+[🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
 
 ---
 
@@ -635,13 +635,13 @@ The paper introduces Reward Forcing, which enhances video generation by updating
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.5k • 🔱 429 • 3d ago
+⭐ 5.5k • 🔱 430 • 3d ago
 
 ---
 
 **[glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)**
 
-🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly
+🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly[建议统一走商店安装，本地安装后续不好同步更新]
 
 `JavaScript` `banana` `gemini` `prompt`
 
@@ -675,7 +675,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 982 • 🔱 121 • 4h ago
+⭐ 985 • 🔱 121 • 4h ago
 
 ---
 
@@ -685,7 +685,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 840 • 🔱 22 • 21h ago
+⭐ 841 • 🔱 22 • 22h ago
 
 ---
 
@@ -695,7 +695,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 831 • 🔱 44 • 9h ago
+⭐ 832 • 🔱 44 • 9h ago
 
 ---
 
@@ -715,7 +715,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 810 • 🔱 262 • 2d ago
+⭐ 813 • 🔱 262 • 2d ago
 
 ---
 
@@ -725,7 +725,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 685 • 🔱 104 • 52m ago
+⭐ 714 • 🔱 109 • 1h ago
 
 ---
 
