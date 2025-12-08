@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T18:55:30.552690+00:00'
+updated: '2025-12-08T19:19:28.938997+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 18:55 UTC  
+**Last Updated:** December 08, 2025 at 19:19 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,093.42
+### $90,078.28
 
 ---
 
@@ -47,24 +47,24 @@ Live Bitcoin monitoring dashboard
 **24h:** -1.4%  
 **7d:** -1.4%  
 **30d:** -14.0%  
-**90d:** -20.9%  
+**90d:** -20.8%  
 **1y:** -7.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1805.38B
+**Market Cap:** $1799.09B
 Rank #1
 
-**Circulating Supply:** 19,959,406 BTC
+**Circulating Supply:** 19,959,412 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.6%
 
 **All-Time Low:** $67.81
-+132808.1%
++132623.8%
 
 ---
 
@@ -76,6 +76,20 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
+
+**[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
+
+59m ago
+
+---
+
+**[Apparently Lamborghini is shilling Bitcoin now](https://www.reddit.com/r/Bitcoin/comments/1phjz9z/apparently_lamborghini_is_shilling_bitcoin_now/)**
+
+They have a promotion going on with Ledger
+
+55m ago
+
+---
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
@@ -91,23 +105,9 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 ---
 
-**[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
-
-35m ago
-
----
-
 **[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
 
-15h ago
-
----
-
-**[Apparently Lamborghini is shilling Bitcoin now](https://www.reddit.com/r/Bitcoin/comments/1phjz9z/apparently_lamborghini_is_shilling_bitcoin_now/)**
-
-They have a promotion going on with Ledger
-
-31m ago
+16h ago
 
 ---
 
@@ -121,7 +121,7 @@ They didn't trade, they didn't sell to buy back later, they didn't follow the 4-
 
 **[Buy buy buy!](https://www.reddit.com/r/Bitcoin/comments/1ph9n2c/buy_buy_buy/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -129,7 +129,7 @@ They didn't trade, they didn't sell to buy back later, they didn't follow the 4-
 
 People don’t confuse inflation with the dollar losing value the dollar losing value is inflation. The textbook definition is: a decrease in the purchasing power of money.’ Prices rise because the money buys less. It’s not two different things, it’s one cause with two symptoms. This is exactly why Bitcoin matters. Fiat inflation is just the slow dilution of your time and energy. Bitcoin flips it: fixed supply → rising purchasing power over time.
 
-3h ago
+4h ago
 
 ---
 
@@ -143,7 +143,7 @@ People don’t confuse inflation with the dollar losing value the dollar losing 
 
 Really cool they have this at common bookstores in Thailand. The placement could be better hahaha, forex has a better location on the shelves here. FOREX!!! Is bitcoin a type of Forex? Kinda. Its actually the ultimate forex.
 
-9h ago
+10h ago
 
 ---
 
@@ -151,15 +151,11 @@ Really cool they have this at common bookstores in Thailand. The placement could
 
 ## Google News: "bitcoin"
 
-**[Strategy Is Wall Street's Favorite Stock (And Biggest Mistake)](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
+**[‘More Orange Dots’: Michael Saylor’s Strategy Buys 10,624 Bitcoin Amid Sell-Off Concerns](https://finance.yahoo.com/news/more-orange-dots-michael-saylor-130749098.html)**
 
-Investor's Business Daily • 7h ago
+Michael Saylor’s Strategy, previously MicroStrategy, has made another weekly Bitcoin purchase despite concerns that it may need to sell some of its BTC holdings in a prolonged bear market. This latest purchase comes amid a rebound in the Bitcoin price, while the MSTR stock is also up in pre-market trading. Strategy Acquires 10,624 BTC for
 
----
-
-**[Opinion: Bitcoin’s November crash was no accident](https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?gaa_at=eafs&gaa_n=AWEtsqeBjyl8qvkjos0eKWeWojXU4glA_BKHoGmnsecthIJNo_ocQb1C1SIe&gaa_ts=69371e21&gaa_sig=8ij_fcQE9G2--ed0tyNHqYUHEqOGiioPTcbaLTmvmMWmGNyndExMD_nbEV7wATR9Txe606x_Ni2pzc6EbdhyZw%3D%3D)**
-
-MarketWatch • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -171,27 +167,11 @@ Yahoo Finance • 9h ago
 
 ---
 
-**[BTC, ETH, ADA, XRP Price News: Bitcoin Edges Higher on Fed Rate Cut Expectations](https://www.coindesk.com/markets/2025/12/08/eth-ada-xrp-lead-gains-as-bitcoin-edges-higher-on-fed-rate-cut-expectations)**
-
-Asian equities opened the week slightly higher ahead of a heavy run of central bank decisions, including a Federal Reserve meeting where markets have largely priced in a 25-basis-point rate cut.
-
-CoinDesk • 13h ago
-
----
-
-**[What the First Divergence of Stock and Bitcoin Returns in 10 Years Means](https://www.businessinsider.com/stock-market-bitcoin-return-correlation-divergence-explained-outlook-2025-12)**
-
-If the stock market is up, bitcoin usually is too. But this year has been different.
-
-Business Insider • 7h ago
-
----
-
 **[A Bitcoin ETF Doubled in Value. Its Investors Made Only One-Fourth of That](https://www.morningstar.com/funds/bitcoin-etf-doubled-value-its-investors-made-only-one-fourth-that)**
 
 iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
 
-Morningstar • 7h ago
+Morningstar • 8h ago
 
 ---
 
@@ -203,11 +183,31 @@ Decrypt • 2h ago
 
 ---
 
-**[BlackRock's IBIT Bitcoin ETF Sees Record $2.7 Billion Exodus](https://finance.yahoo.com/news/blackrocks-ibit-bitcoin-etf-sees-033033975.html)**
+**[XRP Price Analysis: Ripple Buyers Step In at $2.00 Floor on BTC's Hover Above $91K](https://www.coindesk.com/markets/2025/12/08/buyers-step-in-at-usd2-00-floor-as-xrp-builds-on-bitcoin-s-hover-above-usd91k)**
 
-BlackRock Inc. (NYSE:BLK) is seeing persistent withdrawals from its iShares Bitcoin Trust (NASDAQ:IBIT) as investors pulled more than $2.7 billion over five consecutive weeks. Largest Outflow Stretch Since IBIT's Launch IBIT is facing its longest run ...
+Institutional demand for XRP ETFs has surpassed $1 billion, despite muted retail interest.
 
-Yahoo Finance • 2d ago
+CoinDesk • 13h ago
+
+---
+
+**[Opinion: Bitcoin’s November crash was no accident](https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?gaa_at=eafs&gaa_n=AWEtsqdBxpNGF0mla536-Us9qHUd_-kkCvIP_g7farRGZ9UFTBCOtmJExsyv&gaa_ts=69372826&gaa_sig=cwd_Px2XfVw_1l6dk1kfzhGe7_qed3V3dSpiSL4T6XgnVhhtl6pbLbhbcvmJ6CLzB-9oKJZq_hqF-TN0aS2edA%3D%3D)**
+
+MarketWatch • 6h ago
+
+---
+
+**[Bitcoin price today: gains to $90.8k as Fed cut bets remain firm](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-915k-as-fed-cut-bets-remain-firm-4394968)**
+
+Investing.com • 4h ago
+
+---
+
+**[What the First Divergence of Stock and Bitcoin Returns in 10 Years Means](https://www.businessinsider.com/stock-market-bitcoin-return-correlation-divergence-explained-outlook-2025-12)**
+
+If the stock market is up, bitcoin usually is too. But this year has been different.
+
+Business Insider • 8h ago
 
 ---
 
@@ -219,11 +219,11 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
+**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
 
-Which of these popular cryptocurrencies has more upside potential?
+Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-The Motley Fool • 22h ago
+Decrypt • 1h ago
 
 ---
 
@@ -301,7 +301,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 1 • 💬 0 • 3h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 1 • 💬 0 • 4h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 
@@ -315,7 +315,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 374 • 💬 82 • ⏱️ 9:22 • 3h ago
+👁️ 5K • 👍 374 • 💬 82 • ⏱️ 9:22 • 4h ago
 
 ---
 
@@ -325,7 +325,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 1K • 💬 122 • ⏱️ 37:28 • 3h ago
+👁️ 15K • 👍 1K • 💬 122 • ⏱️ 37:28 • 4h ago
 
 ---
 
@@ -335,7 +335,7 @@ Alpha Report Membership w/ Courses, Private Lives, & Trades: https://MeetKevin.c
 
 📺 Meet Kevin
 
-👁️ 14K • 👍 452 • 4h ago
+👁️ 14K • 👍 452 • 5h ago
 
 ---
 
@@ -375,7 +375,7 @@ AscendEX Platform https://ckenny.com/ASC Free Strategy Course https://ckenny.com
 
 📺 Conor Kenny
 
-👁️ 13K • 👍 792 • 💬 323 • ⏱️ 5:59 • 8h ago
+👁️ 13K • 👍 792 • 💬 323 • ⏱️ 5:59 • 9h ago
 
 ---
 
@@ -395,7 +395,7 @@ BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available ever
 
 📺 Lark Davis
 
-👁️ 11K • 👍 688 • 💬 64 • ⏱️ 37:57 • 6h ago
+👁️ 11K • 👍 688 • 💬 64 • ⏱️ 37:57 • 7h ago
 
 ---
 
