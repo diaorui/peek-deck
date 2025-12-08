@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T20:46:09.739097+00:00'
+updated: '2025-12-08T20:57:46.487193+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 20:46 UTC  
+**Last Updated:** December 08, 2025 at 20:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,532.59
+### $90,750.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -1.0%  
-**30d:** -13.6%  
-**90d:** -20.5%  
-**1y:** -6.9%  
+**24h:** +1.0%  
+**7d:** -0.7%  
+**30d:** -13.3%  
+**90d:** -20.3%  
+**1y:** -6.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1804.40B
+**Market Cap:** $1811.11B
 Rank #1
 
-**Circulating Supply:** 19,959,428 BTC
+**Circulating Supply:** 19,959,462 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.2%
+-28.0%
 
 **All-Time Low:** $67.81
-+133431.9%
++133808.0%
 
 ---
 
@@ -91,15 +91,9 @@ They have a promotion going on with Ledger
 
 ---
 
-**[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
-
-13h ago
-
----
-
 **[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-46m ago
+58m ago
 
 ---
 
@@ -108,6 +102,12 @@ They have a promotion going on with Ledger
 Back in 2011–2013, physical bitcoins were actually a thing. They were known as Casascius Coins — metal tokens with a hologram on the back hiding a private key printed on paper. Peel the hologram, and the BTC could be moved to a regular blockchain address. What makes this story even wilder is how many people never touched them for years. Some holders treated these coins like collectibles, others forgot about them entirely. Only recently, more and more of these physical bitcoins have been getting redeemed after sitting untouched for a decade or more. From novelty item to time capsule holding real money, Casascius coins remain one of the strangest and most iconic relics of early Bitcoin history.
 
 5h ago
+
+---
+
+**[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
+
+14h ago
 
 ---
 
@@ -123,17 +123,17 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 ---
 
-**[All Bitcoin legends have one thing in common: they held](https://www.reddit.com/r/Bitcoin/comments/1ph9e5f/all_bitcoin_legends_have_one_thing_in_common_they/)**
-
-They didn't trade, they didn't sell to buy back later, they didn't follow the 4-year cycle, nothing. Just HODL Replicate them.
+**[Buy buy buy!](https://www.reddit.com/r/Bitcoin/comments/1ph9n2c/buy_buy_buy/)**
 
 9h ago
 
 ---
 
-**[Buy buy buy!](https://www.reddit.com/r/Bitcoin/comments/1ph9n2c/buy_buy_buy/)**
+**[All Bitcoin legends have one thing in common: they held](https://www.reddit.com/r/Bitcoin/comments/1ph9e5f/all_bitcoin_legends_have_one_thing_in_common_they/)**
 
-9h ago
+They didn't trade, they didn't sell to buy back later, they didn't follow the 4-year cycle, nothing. Just HODL Replicate them.
+
+10h ago
 
 ---
 
@@ -165,11 +165,27 @@ Bloomberg.com • 1h ago
 
 ---
 
+**[A Bitcoin ETF Doubled in Value. Its Investors Made Only One-Fourth of That](https://www.morningstar.com/funds/bitcoin-etf-doubled-value-its-investors-made-only-one-fourth-that)**
+
+iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
+
+Morningstar • 9h ago
+
+---
+
+**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
+
+Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
+
+Decrypt • 2h ago
+
+---
+
 **[Famed Investor Mike Alfred Claims Bitcoin Will Hit $315,000, Harvard Boosts Bitcoin Investment 2-To-1 Over Gold](https://finance.yahoo.com/news/famed-investor-mike-alfred-claims-094719509.html)**
 
 Investor Mike Alfred predicts Bitcoin could reach $315,000. Harvard University significantly increased its Bitcoin holdings over gold. But analysts warn of potential short-term consolidation. Bitcoin’s ...
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -195,7 +211,7 @@ Sherwood News • 4h ago
 
 ---
 
-**[Opinion: Bitcoin’s November crash was no accident](https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?gaa_at=eafs&gaa_n=AWEtsqcNEsMIBWzg5BSSlL28WUhKtq-k7zwAt6EnVgKrT_auB5k1fHF_A58n&gaa_ts=693737e3&gaa_sig=lZoDx7-YYO482cCnvD9t-sHDi2rDwtn3t8aCKeeEHNHzFQc7IqPVO0qKzwLdZvJuNOz9jgDfuMYCyrYu4Jk0SQ%3D%3D)**
+**[Opinion: Bitcoin’s November crash was no accident](https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?gaa_at=eafs&gaa_n=AWEtsqeuwTBovcKJSh0fDeBCg82q_Ev3bkxyiQQgy9uU-glCdSuC7kCDlIg5&gaa_ts=69373f36&gaa_sig=I3gIejnGGUWb3s1WN7t1aQmIxqeopNAuM2zIe4qgzMQQ9eM8bknfOSWbAh5dfk4544nDwATrcDDiD7yJyVjWkw%3D%3D)**
 
 MarketWatch • 7h ago
 
@@ -206,22 +222,6 @@ MarketWatch • 7h ago
 If the stock market is up, bitcoin usually is too. But this year has been different.
 
 Business Insider • 9h ago
-
----
-
-**[A Bitcoin ETF Doubled in Value. Its Investors Made Only One-Fourth of That](https://www.morningstar.com/funds/bitcoin-etf-doubled-value-its-investors-made-only-one-fourth-that)**
-
-iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
-
-Morningstar • 9h ago
-
----
-
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
-
-Which of these popular cryptocurrencies has more upside potential?
-
-The Motley Fool • 1d ago
 
 ---
 

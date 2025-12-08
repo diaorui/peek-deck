@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T20:46:09.730604+00:00'
+updated: '2025-12-08T20:57:46.478637+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
+- videos
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 20:46 UTC  
+**Last Updated:** December 08, 2025 at 20:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
 
-🔗 [withmartian.com](https://withmartian.com/prize) • 7h ago
+🔗 [withmartian.com](https://withmartian.com/prize) • 8h ago
 
 ---
 
@@ -56,6 +56,14 @@ At Martian, we view AI interpretability as the world's most important scientific
 Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 7h ago
+
+---
+
+**['Big Short' investor Michael Burry defends his calls for a stock market bubble and predicts a 'Netscape fate' for OpenAI](https://www.reddit.com/r/artificial/comments/1phn78a/big_short_investor_michael_burry_defends_his/)**
+
+Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
+
+🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 34m ago
 
 ---
 
@@ -105,14 +113,6 @@ Mass human participation in AI training might be the most important thing possib
 
 ---
 
-**[Has the cost of building software just dropped 90%?](https://www.reddit.com/r/artificial/comments/1phk3eu/has_the_cost_of_building_software_just_dropped_90/)**
-
-Agentic coding tools are dramatically reducing software development costs. Here's why 2026 is going to catch a lot of people off guard.
-
-🔗 [Martin Alderson](https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/) • 2h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,9 +123,17 @@ The New York Times • 1h ago
 
 ---
 
-**[Watch Still Meaningful Opportunity Set in AI: Sundar](https://www.bloomberg.com/news/videos/2025-12-08/still-meaningful-opportunity-set-in-ai-sundar-video)**
+**[Trump Promises Executive Order to Block State A.I. Regulations](https://www.nytimes.com/2025/12/08/us/politics/trump-executive-order-ai-laws.html)**
 
-Bloomberg.com • 1h ago
+The New York Times • 4h ago
+
+---
+
+**[Google Says First AI Glasses With Gemini Will Arrive in 2026](https://www.bloomberg.com/news/articles/2025-12-08/google-says-first-ai-glasses-with-gemini-will-arrive-in-2026)**
+
+Alphabet Inc.’s Google said it’s working to create two different categories of artificial intelligence-powered smart glasses to compete next year with existing models from Meta Platforms Inc.: one with screens, and another that’s audio focused.
+
+Bloomberg.com • 2h ago
 
 ---
 
@@ -133,55 +141,49 @@ Bloomberg.com • 1h ago
 
 That includes the first of Google's AI glasses in partnership with Warby Parker.
 
-CNBC • 35m ago
+CNBC • 47m ago
 
 ---
 
-**[Trump Promises Executive Order to Block State A.I. Regulations](https://www.nytimes.com/2025/12/08/us/politics/trump-executive-order-ai-laws.html)**
+**[Warby Parker, Google to launch AI-powered smart glasses in 2026](https://www.reuters.com/business/warby-parker-google-launch-ai-powered-smart-glasses-2026-2025-12-08/)**
 
-The New York Times • 4h ago
-
----
-
-**[At AI’s Biggest Event, Some Researchers Said the Field Needs an Overhaul](https://www.theinformation.com/articles/ais-biggest-event-researchers-said-field-needs-overhaul)**
-
-The Information • 6h ago
+Reuters • 32m ago
 
 ---
 
-**[Intel, Adobe and these other ‘AI loser’ stocks could get left behind in the next phase of the tech boom](https://www.marketwatch.com/story/intel-adobe-and-these-other-ai-loser-stocks-could-get-left-behind-in-the-next-phase-of-the-tech-boom-e6cd25ef?gaa_at=eafs&gaa_n=AWEtsqfOXJZ2e-Nk-5sVeJp-2A0_L54ZeJtLXYfV2Uwr0g37Zk5xrHFh-XEX&gaa_ts=693737e2&gaa_sig=3ZulSlHeK2h8ypEbsnceoa1YiDY_av5dkPQfbLsbfXvgplBdryqdRE9aPS73FQ9ojKQyolFUMuX8Dz6awsu3eQ%3D%3D)**
+**[Charles Payne: How much longer will AI 'pull the sled?'](https://www.foxbusiness.com/video/6386203266112)**
 
-MarketWatch • 5h ago
+FOX Business host Charles Payne analyzes the market's recent performance on 'Making Money.'
 
----
-
-**[The State of AI: A vision of the world in 2030](https://www.technologyreview.com/2025/12/08/1128922/the-state-of-ai-a-vision-of-the-world-in-2030/)**
-
-Senior AI editor Will Douglas Heaven talks with Tim Bradshaw, FT global tech correspondent, about what our world will look like in the next five years.
-
-MIT Technology Review • 4h ago
+Fox Business • 30m ago
 
 ---
 
-**[Why Oracle’s Earnings Will Be a Key Moment for AI Stocks This Week](https://www.barrons.com/articles/oracle-broadcom-ai-stocks-d7585d45?gaa_at=eafs&gaa_n=AWEtsqdIr6U6ahu0qqLe__TvbO2GbyuQ-hU_V46o3W2fzwnyr5VC47zRZ3tC&gaa_ts=693737e2&gaa_sig=lfaR2lTe8AQ6mEgpK_YLpJEL31diNxXhK3rlZNUB8bUNVgi9j3WpvcQiOl-eX-L1SArWGNKnZwb76UQpRLvHxw%3D%3D)**
+**[The power crunch threatening America’s AI ambitions](https://ig.ft.com/ai-power/)**
 
-Barron's • 1h ago
-
----
-
-**[Artificial intelligence research has a slop problem, academics say: ‘It’s a mess’](https://www.theguardian.com/technology/2025/dec/06/ai-research-papers)**
-
-AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
-
-The Guardian • 2d ago
+Financial Times • 15h ago
 
 ---
 
-**[AI “Research” Papers Are Complete Slop, Experts Say](https://www.yahoo.com/news/articles/ai-research-papers-complete-slop-192646417.html)**
+**[A Data Center Wrapped in a Mystery Comes to the New Mexican Desert](https://www.nytimes.com/2025/12/07/business/boarderplex-new-mexico-data-center-mystery.html)**
 
-The field of AI is being destroyed by AI.
+The New York Times • 1d ago
 
-Yahoo • 1h ago
+---
+
+**[Data centers for AI could nearly triple San Jose’s energy use. Who foots the bill?](https://calmatters.org/environment/2025/12/data-center-energy-san-jose/)**
+
+AI’s planned data-center boom is straining California’s grid forecasts and raising fears that customers could pay for upgrades if projects never materialize.
+
+CalMatters • 7h ago
+
+---
+
+**[What’s next in AI: 7 trends to watch in 2026](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/)**
+
+Seven AI trends to watch in 2026 will make AI a true partner — boosting teamwork, security, research momentum and infrastructure efficiency.
+
+Microsoft Source • 3h ago
 
 ---
 
@@ -191,7 +193,7 @@ Yahoo • 1h ago
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 558 • 💬 178 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 559 • 💬 178 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -207,7 +209,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 323 • 💬 274 • 3h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 335 • 💬 286 • 4h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -217,9 +219,15 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 ---
 
+**[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
+
+⬆️ 51 • 💬 61 • 3h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+
+---
+
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 47 • 💬 14 • 1d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 48 • 💬 14 • 1d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -228,12 +236,6 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 Python programs, usually short, of considerable difficulty, to perfect particular skills. - norvig/pytudes
 
 ⬆️ 46 • 💬 14 • 2d ago • [GitHub](https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb)
-
----
-
-**[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
-
-⬆️ 42 • 💬 56 • 3h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -269,7 +271,7 @@ Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Fu
 
 📺 Dan Kieft
 
-👁️ 6K • 💬 8 • ⏱️ 20:04 • 3h ago
+👁️ 6K • 💬 8 • ⏱️ 20:04 • 4h ago
 
 ---
 
@@ -379,6 +381,18 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 ---
 
+**[VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)**
+
+*Microsoft*
+
+VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimized for streaming input and long-form generation, achieving first audible speech in ~300ms. It's ideal for building real-time TTS services, narrating live data, and enabling LLMs to speak concurrently with text generation.
+
+`text-to-speech` `1.0B`
+
+⬇️ 40,450 • ❤️ 527 • 17h ago
+
+---
+
 **[DeepSeek-V3.2](https://huggingface.co/deepseek-ai/DeepSeek-V3.2)**
 
 *DeepSeek*
@@ -388,18 +402,6 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 `text-generation` `685.4B`
 
 ⬇️ 28,778 • ❤️ 811 • 7d ago
-
----
-
-**[VibeVoice-Realtime-0.5B](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B)**
-
-*Microsoft*
-
-VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimized for streaming input and long-form generation, achieving first audible speech in ~300ms. It's ideal for building real-time TTS services, narrating live data, and enabling LLMs to speak concurrently with text generation.
-
-`text-to-speech` `1.0B`
-
-⬇️ 40,450 • ❤️ 526 • 17h ago
 
 ---
 
@@ -435,6 +437,16 @@ STARFlow is a state-of-the-art transformer autoregressive flow model for high-qu
 
 ---
 
+**[Mistral-Large-3-675B-Instruct-2512](https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512)**
+
+*Mistral AI_*
+
+Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.
+
+⬇️ 372 • ❤️ 169 • 5d ago
+
+---
+
 **[Nemotron-Orchestrator-8B](https://huggingface.co/nvidia/Nemotron-Orchestrator-8B)**
 
 *NVIDIA*
@@ -444,16 +456,6 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 `text-generation` `8.2B`
 
 ⬇️ 3,573 • ❤️ 384 • 6d ago
-
----
-
-**[Mistral-Large-3-675B-Instruct-2512](https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512)**
-
-*Mistral AI_*
-
-Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.
-
-⬇️ 372 • ❤️ 169 • 5d ago
 
 ---
 
@@ -477,7 +479,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 207,838 • ❤️ 938 • 11d ago
+⬇️ 207,838 • ❤️ 939 • 11d ago
 
 ---
 
@@ -639,7 +641,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 4h ago
+⭐ 1.6k • 🔱 132 • 5h ago
 
 ---
 
@@ -669,7 +671,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 987 • 🔱 121 • 44m ago
+⭐ 987 • 🔱 121 • 55m ago
 
 ---
 
@@ -689,7 +691,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 834 • 🔱 44 • 16m ago
+⭐ 834 • 🔱 44 • 28m ago
 
 ---
 
