@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T22:56:48.709745+00:00'
+updated: '2025-12-08T23:24:46.694588+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
 - videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 22:56 UTC  
+**Last Updated:** December 08, 2025 at 23:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
 
-🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 2h ago
+🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 3h ago
 
 ---
 
@@ -63,7 +63,7 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
-9h ago
+10h ago
 
 ---
 
@@ -79,7 +79,15 @@ From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming r
 
 IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks big bets like Watsonx and next-gen computing will pay off.
 
-🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 8h ago
+🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 9h ago
+
+---
+
+**[As AI wipes jobs, Google CEO Sundar Pichai says it’s up to everyday people to adapt accordingly: ‘We will have to work through societal disruption’](https://www.reddit.com/r/artificial/comments/1phpibg/as_ai_wipes_jobs_google_ceo_sundar_pichai_says/)**
+
+AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai says no job, not even his own, is safe. But those who don’t adapt will be the first to fall.
+
+🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 1h ago
 
 ---
 
@@ -91,25 +99,17 @@ The president announced the plans to create one rulebook for AI via his Truth So
 
 ---
 
-**[Has AI ever told you something genuinely unexpected that seemed to go against its training? What was it?](https://www.reddit.com/r/artificial/comments/1phoyaz/has_ai_ever_told_you_something_genuinely/)**
-
-Title.
-
-1h ago
-
----
-
 **[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
 
 10h ago
 
 ---
 
-**[US prepared to open up exports of Nvidia H200 chips to China, source says](https://www.reddit.com/r/artificial/comments/1phnwgs/us_prepared_to_open_up_exports_of_nvidia_h200/)**
+**[JPMorgan Chase CEO Jamie Dimon says even though AI will eliminate some jobs 'maybe one day we'll be working less hard but having wonderful lives'](https://www.reddit.com/r/artificial/comments/1ph0lka/jpmorgan_chase_ceo_jamie_dimon_says_even_though/)**
 
-The U.S. government will allow Nvidia to export its H200 artificial intelligence chips to China, collecting a fee for each chip, U.S. President Donald Trump said on Monday.  Nvidia shares rose 1.2% in after-hours trading after Trump made the announcement on Truth ​Social, having closed 3.16% higher after Semafor first reported the possibility of approval.  Trump said that he had informed President Xi Jinping of China, where Nvidia's chips are ‌under government scrutiny, about the move and he "responded positively," according to Trump's post.
+"For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/us-open-exports-nvidia-h200-180731224.html) • 2h ago
+🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 21h ago
 
 ---
 
@@ -117,29 +117,31 @@ The U.S. government will allow Nvidia to export its H200 artificial intelligence
 
 ## Google News: "ai"
 
-**[A.I. Videos Have Flooded Social Media. No One Was Ready.](https://www.nytimes.com/2025/12/08/business/ai-slop-sora-social-media.html)**
+**[Trump Clears Sale of More Powerful Nvidia A.I. Chips to China](https://www.nytimes.com/2025/12/08/business/trump-nvidia-chips-china.html)**
 
-The New York Times • 3h ago
-
----
-
-**[Trump Promises Executive Order to Block State A.I. Regulations](https://www.nytimes.com/2025/12/08/us/politics/trump-executive-order-ai-laws.html)**
-
-The New York Times • 6h ago
+The New York Times • 54m ago
 
 ---
 
-**[A CIO’s playbook for AI investment](https://www.fastcompany.com/91454162/a-cios-playbook-for-ai-investment)**
+**[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws)**
 
-Fast Company • 38m ago
+President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
+
+CNN • 8h ago
 
 ---
 
-**[Google to launch first of its AI glasses in 2026](https://www.cnbc.com/2025/12/08/google-ai-glasses-launch-2026.html)**
+**[China's AI wearables market is already booming: From the practical to peculiar](https://www.cnbc.com/2025/12/08/video-china-ai-wearables.html)**
 
-That includes the first of Google's AI glasses in partnership with Warby Parker.
+Chinese companies moved quickly into smartglasses after Meta's release, with Inmo and Rokid sold worldwide.
 
-CNBC • 2h ago
+CNBC • 1h ago
+
+---
+
+**[The power crunch threatening America’s AI ambitions](https://ig.ft.com/ai-power/)**
+
+Financial Times • 18h ago
 
 ---
 
@@ -147,15 +149,15 @@ CNBC • 2h ago
 
 Alphabet Inc.’s Google said it’s working to create two different categories of artificial intelligence-powered smart glasses to compete next year with existing models from Meta Platforms Inc.: one with screens, and another that’s audio focused.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Transforming Nordic classrooms through responsible AI partnerships](https://blog.google/around-the-globe/google-europe/transforming-nordic-classrooms-through-responsible-ai-partnerships/)**
+**[Nokia CEO: The workforce is becoming AI-native. Leadership has to evolve](https://fortune.com/2025/12/08/nokia-ceo-workforce-ai-native-gen-z-leadership-must-evolve/)**
 
-Schools across Northern Europe are safely and responsibly integrating Google and Gemini for Education tools in the classroom, saving teachers and administrations signifi…
+The new generation began university when ChatGPT launched in 2022 and they now account for roughly half of all ChatGPT usage.
 
-The Keyword • 12h ago
+Fortune • 12h ago
 
 ---
 
@@ -165,25 +167,23 @@ Axios • 12h ago
 
 ---
 
-**[The power crunch threatening America’s AI ambitions](https://ig.ft.com/ai-power/)**
+**[Foreign states using AI videos to undermine support for Ukraine, says Yvette Cooper](https://www.theguardian.com/politics/2025/dec/08/foreign-states-ai-videos-support-ukraine-yvette-cooper)**
 
-Financial Times • 17h ago
+UK foreign secretary urges action against ‘information warfare’ made easier by advances in technology
 
----
-
-**[Nokia CEO: The workforce is becoming AI-native. Leadership has to evolve](https://fortune.com/2025/12/08/nokia-ceo-workforce-ai-native-gen-z-leadership-must-evolve/)**
-
-The new generation began university when ChatGPT launched in 2022 and they now account for roughly half of all ChatGPT usage.
-
-Fortune • 11h ago
+The Guardian • 54m ago
 
 ---
 
-**[Artificial intelligence research has a slop problem, academics say: ‘It’s a mess’](https://www.theguardian.com/technology/2025/dec/06/ai-research-papers)**
+**[DeSantis: Trump’s AI order ‘can’t preempt’ states from taking action](https://www.politico.com/news/2025/12/08/desantis-trump-ai-order-states-action-00681301)**
 
-AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
+Politico • 2h ago
 
-The Guardian • 2d ago
+---
+
+**[Trump to issue order creating national AI rule](https://www.reuters.com/world/trump-says-he-will-sign-executive-order-this-week-ai-approval-process-2025-12-08/)**
+
+Reuters • 1h ago
 
 ---
 
@@ -209,7 +209,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 356 • 💬 299 • 6h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 367 • 💬 310 • 6h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -221,13 +221,13 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 70 • 💬 82 • 5h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 85 • 💬 87 • 5h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 49 • 💬 14 • 1d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 50 • 💬 14 • 1d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -281,7 +281,7 @@ OpenAI is in a full internal race after a major leak revealed a new model called
 
 📺 AI Revolution
 
-👁️ 74K • 👍 2K • 💬 109 • ⏱️ 12:31 • 22h ago
+👁️ 74K • 👍 2K • 💬 109 • ⏱️ 12:31 • 23h ago
 
 ---
 
@@ -351,7 +351,7 @@ CopilotPartner.
 
 📺 Ben Azelart
 
-👁️ 108K • 👍 4K • 💬 150 • ⏱️ 1:17 • 2h ago
+👁️ 108K • 👍 4K • 💬 150 • ⏱️ 1:17 • 3h ago
 
 ---
 
@@ -389,7 +389,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 527 • 19h ago
+⬇️ 40,450 • ❤️ 529 • 20h ago
 
 ---
 
@@ -401,7 +401,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 28,778 • ❤️ 814 • 7d ago
+⬇️ 28,778 • ❤️ 815 • 7d ago
 
 ---
 
@@ -455,7 +455,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 3,573 • ❤️ 386 • 6d ago
+⬇️ 3,573 • ❤️ 387 • 6d ago
 
 ---
 
@@ -671,7 +671,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 991 • 🔱 122 • 19m ago
+⭐ 991 • 🔱 122 • 47m ago
 
 ---
 

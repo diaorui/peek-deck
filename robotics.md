@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T22:56:48.727112+00:00'
+updated: '2025-12-08T23:24:46.712171+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 22:56 UTC  
+**Last Updated:** December 08, 2025 at 23:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -50,7 +50,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
-10h ago
+11h ago
 
 ---
 
@@ -88,13 +88,13 @@ According to Reuters, NVIDIA and SoftBank, combined, are looking to invest more 
 
 Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a shelf unused and I'm sure someone out there (UK based) can make much better use of it than I can. This unit is used but in good working condition. It has the gripper attachment included and comes as part of the package. I don't have the original box anymore but I can box it up with protective materials and another suitably strong box if shipping or ideally could be collected or delivered to the new owner. The uFactory x-arm 6 is a 6 axis robot featuring a 5kg payload capacity, 700mm reach. This unit has a gripper attachment included and is compatible with multiple operating systems using the xArm studio software.
 
-5h ago
+6h ago
 
 ---
 
 **[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -130,7 +130,7 @@ Breaking Defense • 8h ago
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -158,11 +158,17 @@ CNN • 1d ago
 
 ---
 
-**[EngineAI CEO takes a kick from T800 humanoid to silence CGI rumors](https://interestingengineering.com/ai-robotics/engineai-t800-humanoid-robot-kicks-ceo)**
+**[Tesla Optimus falls in Miami demo, hand movements sparks remote operation debate](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo)**
 
-Chinese robotics frim EngineAI shows CEO being kicked by T800 robot to prove real-world capabilities amid CGI speculation.
+While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-Interesting Engineering • 14h ago
+Interesting Engineering • 7h ago
+
+---
+
+**[Agility Robotics founder wants Oregon to be a startup factory](https://www.bizjournals.com/portland/news/2025/12/08/agility-robotics-ai-osu-startup.html)**
+
+The Business Journals • 41m ago
 
 ---
 
@@ -174,17 +180,11 @@ wallpaper.com • 1d ago
 
 ---
 
-**[Unitree's Big Humanoid Robots Are Fighting Now](https://www.cnet.com/tech/computing/unitrees-big-humanoid-robots-are-fighting-now/)**
+**[From combat to space: Foundation Robotics’ Mike LeBlanc talks humanoids](https://www.therobotreport.com/from-combat-space-foundation-mike-leblanc-humanoid-robotics/)**
 
-Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
+Mike LeBlanc, co-founder of Foundation Robotics and a U.S. Marine Corps veteran, shares insights from his entrepreneurial journey.
 
-CNET • 1d ago
-
----
-
-**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://www.marketbeat.com/stock-ideas/5-robotics-stocks-catching-momentum-after-new-policy-tailwinds/)**
-
-MarketBeat • 7h ago
+The Robot Report • 4h ago
 
 ---
 
@@ -278,7 +278,7 @@ War Robots - New robot Ammit is a mini Bedwyr! In this weekend's test server I t
 
 📺 Adrian Chong
 
-👁️ 2K • 👍 127 • 💬 42 • ⏱️ 20:38 • 8h ago
+👁️ 2K • 👍 127 • 💬 42 • ⏱️ 20:38 • 9h ago
 
 ---
 
@@ -288,7 +288,7 @@ Video released by Chinese robotics company EngineAI shows their humanoid T800 ro
 
 📺 CNN
 
-👁️ 50K • 👍 737 • 💬 315 • ⏱️ 0:41 • 18h ago
+👁️ 50K • 👍 737 • 💬 315 • ⏱️ 0:41 • 19h ago
 
 ---
 

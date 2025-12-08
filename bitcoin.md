@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T22:56:48.717985+00:00'
+updated: '2025-12-08T23:24:46.702892+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 22:56 UTC  
+**Last Updated:** December 08, 2025 at 23:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,820.45
+### $90,855.86
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -0.6%  
-**30d:** -13.2%  
-**90d:** -20.2%  
-**1y:** -6.6%  
+**24h:** +0.4%  
+**7d:** -0.7%  
+**30d:** -13.3%  
+**90d:** -20.3%  
+**1y:** -6.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1815.18B
+**Market Cap:** $1813.47B
 Rank #1
 
-**Circulating Supply:** 19,959,484 BTC
+**Circulating Supply:** 19,959,503 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.9%
+-28.1%
 
 **All-Time Low:** $67.81
-+133987.9%
++133610.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 They have a promotion going on with Ledger
 
-4h ago
+5h ago
 
 ---
 
 **[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -105,12 +105,6 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 ---
 
-**[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
-
-16h ago
-
----
-
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
 
 3h ago
@@ -119,13 +113,19 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 **[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
 
-1h ago
+2h ago
+
+---
+
+**[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
+
+16h ago
 
 ---
 
 **[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -139,13 +139,19 @@ They didn't trade, they didn't sell to buy back later, they didn't follow the 4-
 
 **[Buy buy buy!](https://www.reddit.com/r/Bitcoin/comments/1ph9n2c/buy_buy_buy/)**
 
-11h ago
+12h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Michael Saylor Explains Why Banks Are No Longer Waiting for Bitcoin](https://www.binance.com/en/square/post/33413939298642)**
+
+Binance • 23h ago
+
+---
 
 **[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
 
@@ -159,7 +165,7 @@ Bloomberg.com • 3h ago
 
 iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
 
-Morningstar • 11h ago
+Morningstar • 12h ago
 
 ---
 
@@ -167,21 +173,15 @@ Morningstar • 11h ago
 
 Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
-**[Michael Saylor's Strategy buys another 10,624 bitcoin for $963 million as treasury holdings reach 660,624 BTC](https://www.theblock.co/post/381668/michael-saylors-strategy-buys-more-bitcoin)**
+**[Here's Why Bitcoin Cash Surged 3% Higher This Past Weekend](https://finance.yahoo.com/news/heres-why-bitcoin-cash-surged-225635050.html)**
 
-The Block • 9h ago
+Bitcoin Cash has quietly become one of the best-performing layer-1 networks in the crypto sector.
 
----
-
-**[Bitcoin's Momentum Appears to Be Holding After 3% Weekend Move Higher](https://finance.yahoo.com/news/bitcoins-momentum-appears-holding-3-214754654.html)**
-
-What should investors make of Bitcoin's impressive rally off of weekend lows?
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 28m ago
 
 ---
 
@@ -197,13 +197,7 @@ Baton Rouge Business Report • 2h ago
 
 If the stock market is up, bitcoin usually is too. But this year has been different.
 
-Business Insider • 11h ago
-
----
-
-**[Opinion: Bitcoin’s November crash was no accident](https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?gaa_at=eafs&gaa_n=AWEtsqflfyGqYZor-O4Ob3s-bv73wElK4lvLorXVoIh66yUiC1GGabmKVyMD&gaa_ts=6937549f&gaa_sig=nwp0dr4goGEQflo2AvaayhuSqn3skQb428n8qIQ6O008QeKH5ApFgmEtoLEz-lXI59zNU98ZTXGykcozqH9X2g%3D%3D)**
-
-MarketWatch • 9h ago
+Business Insider • 12h ago
 
 ---
 
@@ -215,11 +209,17 @@ CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin will “snapback or chop ahead of the Fed” decision](https://sherwood.news/crypto/bitcoin-will-snapback-or-chop-ahead-of-the-fed-decision/)**
+**[Strategy, Wall Street's Favorite Stock, Just Loaded Up On More Bitcoin](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Traders on prediction markets are divided, giving an equal chance that bitcoin drops below $80,000 or rises above $100,000 this year....
+Investor's Business Daily • 9h ago
 
-Sherwood News • 6h ago
+---
+
+**[Strategy Drops Nearly $1 Billion on Bitcoin, Marking Largest BTC Buy in Months](https://decrypt.co/351461/strategy-drops-1-billion-bitcoin-largest-buy-months)**
+
+Strategy unveiled its largest Bitcoin purchase in over 100 days, but the company's stock price was little changed on Monday.
+
+Decrypt • 7h ago
 
 ---
 
@@ -267,7 +267,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 The endowment dramatically increased its holdings of a spot bitcoin ETF since its previous such report.Â
 
-⬆️ 2 • 💬 1 • 4d ago • [Gizmodo](https://gizmodo.com/the-harvard-endowments-biggest-public-investment-is-now-bitcoin-2000686439)
+⬆️ 2 • 💬 1 • 5d ago • [Gizmodo](https://gizmodo.com/the-harvard-endowments-biggest-public-investment-is-now-bitcoin-2000686439)
 
 ---
 
@@ -275,7 +275,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 9 • 💬 0 • 15h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 9 • 💬 0 • 16h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -297,7 +297,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 1 • 💬 0 • 7h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 1 • 💬 0 • 8h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 
@@ -311,7 +311,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 613 • 💬 187 • ⏱️ 9:22 • 7h ago
+👁️ 12K • 👍 613 • 💬 187 • ⏱️ 9:22 • 8h ago
 
 ---
 
@@ -321,7 +321,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 1K • 👍 184 • ⏱️ 34:53 • 2h ago
+👁️ 1K • 👍 184 • ⏱️ 34:53 • 3h ago
 
 ---
 
@@ -331,7 +331,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 158 • ⏱️ 37:28 • 7h ago
+👁️ 24K • 👍 1K • 💬 158 • ⏱️ 37:28 • 8h ago
 
 ---
 
@@ -341,7 +341,7 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 28K • 👍 2K • 💬 289 • ⏱️ 20:03 • 2h ago
+👁️ 28K • 👍 2K • 💬 289 • ⏱️ 20:03 • 3h ago
 
 ---
 
@@ -401,7 +401,7 @@ Market Update Crypto Strategy School https://cryptostrategyschool.com/ab/ ➡️
 
 📺 Aaron Bennett
 
-👁️ 9K • 👍 560 • 💬 191 • ⏱️ 13:46 • 10h ago
+👁️ 9K • 👍 560 • 💬 191 • ⏱️ 13:46 • 11h ago
 
 ---
 
