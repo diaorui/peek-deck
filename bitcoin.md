@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T19:33:37.387356+00:00'
+updated: '2025-12-08T19:44:53.092856+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 19:33 UTC  
+**Last Updated:** December 08, 2025 at 19:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -1.4%  
-**30d:** -14.0%  
-**90d:** -20.8%  
-**1y:** -7.3%  
+**24h:** -1.6%  
+**7d:** -1.6%  
+**30d:** -14.1%  
+**90d:** -21.0%  
+**1y:** -7.5%  
 
 ---
 
@@ -101,7 +101,7 @@ They have a promotion going on with Ledger
 
 Back in 2011–2013, physical bitcoins were actually a thing. They were known as Casascius Coins — metal tokens with a hologram on the back hiding a private key printed on paper. Peel the hologram, and the BTC could be moved to a regular blockchain address. What makes this story even wilder is how many people never touched them for years. Some holders treated these coins like collectibles, others forgot about them entirely. Only recently, more and more of these physical bitcoins have been getting redeemed after sitting untouched for a decade or more. From novelty item to time capsule holding real money, Casascius coins remain one of the strangest and most iconic relics of early Bitcoin history.
 
-3h ago
+4h ago
 
 ---
 
@@ -135,7 +135,7 @@ People don’t confuse inflation with the dollar losing value the dollar losing 
 
 **[This fully shows 5 years of Bitcoin experience and we still following the pattern.](https://www.reddit.com/r/Bitcoin/comments/1phe53d/this_fully_shows_5_years_of_bitcoin_experience/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -405,7 +405,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 413 • ⏱️ 18:52 • 19h ago
+👁️ 27K • 👍 2K • 💬 413 • ⏱️ 18:52 • 20h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T19:33:37.378621+00:00'
+updated: '2025-12-08T19:44:53.084433+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 19:33 UTC  
+**Last Updated:** December 08, 2025 at 19:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 The president announced the plans to create one rulebook for AI via his Truth Social account on Monday.
 
-🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 3h ago
+🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 4h ago
 
 ---
 
@@ -77,7 +77,7 @@ IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks b
 
 **[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -101,7 +101,7 @@ So I’m a junior dev who just got laid off from my webdev job, and with AI agen
 
 Mass human participation in AI training might be the most important thing possible, and this seems to be at least one small attempt at it: https://www.anthropic.com/research/anthropic-interviewer
 
-1h ago
+2h ago
 
 ---
 
@@ -159,7 +159,7 @@ CNN • 4h ago
 
 **[Behind the Curtain: Trump bets his presidency and GOP's future on AI](https://www.axios.com/2025/12/08/trump-ai-policy-gop-united-states)**
 
-Axios • 7h ago
+Axios • 8h ago
 
 ---
 
@@ -167,7 +167,7 @@ Axios • 7h ago
 
 Advanced AI may have made slop videos harder to spot, but experts say it’s still possible to detect them
 
-The Week • 26m ago
+The Week • 37m ago
 
 ---
 
@@ -179,7 +179,7 @@ Reuters • 3h ago
 
 **[Why Oracle’s Earnings Will Be a Key Moment for AI Stocks This Week](https://www.barrons.com/articles/oracle-broadcom-ai-stocks-d7585d45?gaa_at=eafs&gaa_n=AWEtsqdX3cZeIwV_HdW28MPbTsS-xJA5LkYaIZlnHI9xTJl_DeMoHFb6gvzj&gaa_ts=69372825&gaa_sig=xc8E6ikofZPsz_za_9NsoWFmGnUeGTfOImY9D1T-spNgfoZljl7JVhp1Zxg3pYurww221Hci-kgBbrf7ReHxvg%3D%3D)**
 
-Barron's • 45m ago
+Barron's • 56m ago
 
 ---
 
@@ -231,7 +231,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 41 • 💬 51 • 1h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 41 • 💬 51 • 2h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -373,7 +373,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,332 • 2h ago
+⬇️ 201,990 • ❤️ 2,332 • 3h ago
 
 ---
 
@@ -491,7 +491,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 161 • 💬 3 • ⭐ 5,733 • 11d ago
+▲ 163 • 💬 3 • ⭐ 5,733 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -667,7 +667,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 986 • 🔱 121 • 7h ago
+⭐ 987 • 🔱 121 • 7h ago
 
 ---
 
@@ -717,7 +717,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 728 • 🔱 110 • 1h ago
+⭐ 731 • 🔱 111 • 2h ago
 
 ---
 
