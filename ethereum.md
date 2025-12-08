@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T17:56:24.125797+00:00'
+updated: '2025-12-08T18:36:42.999647+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 17:56 UTC  
+**Last Updated:** December 08, 2025 at 18:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.5%  
-**7d:** +4.1%  
-**30d:** -13.1%  
-**90d:** -28.4%  
+**24h:** +0.1%  
+**7d:** +4.0%  
+**30d:** -13.2%  
+**90d:** -28.5%  
 **1y:** -16.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.18B
+**Market Cap:** $377.28B
 Rank #2
 
 **Circulating Supply:** 120,695,342 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.1%
+-37.2%
 
 **All-Time Low:** $0.43
-+718108.0%
++717447.5%
 
 ---
 
@@ -80,7 +80,7 @@ JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ethereum, I’m Amey - Ratings Director at Bluechip. Stablecoins offer a cheaper way to make cross-border transactions and a more reliable way to save in economies with high inflation or unstable financial systems. But how can you tell which stablecoins are truly stable? Our SMIDGE rating framework analyzes six economic factors and assigns letter-grade ratings (from F to A+) to identify the most reliable stablecoins. You can read the full framework on our website here. Essentially, the SMIDGE framework evaluates - Stability - collateral quality, asset segregation, core stability mechanism Management - track record of team, jurisdiction, accountability to token holders Implementation - technical risk (currently not tracked) Decentralization - censorship risk, blacklisting (only for crypto-backed stablecoins) Governance - regulatory protections, redemption terms, voting systems External - market sentiment (currently not tracked) We take a crypto-native, independent, and data-driven approach to stablecoin ratings. Our framework is the first publicly available, factor-based risk model for evaluating stablecoins. Our ratings are publicly available on our website here. Currently, USDT is rated D and USDC is rated B+ by Bluechip. Last month, we partnered with the Ethereum Foundation to host Bluechip25 in Vienna, the first global conference dedicated to crypto safety. Sign up for updates on next year's Bluechip26 on our website here. We also host a podcast called Bluechip Dialogues, where our Chief Economist Garett Jones interviews leading figures in crypto. Watch the latest episode with the creator of Facebook’s stablecoin project Diem (formerly Libra) here. Follow us on Twitter here or LinkedIn here or Telegram channel here. Ask us anything! I'll be around to answer your questions over the following days.
 
-6h ago
+7h ago
 
 ---
 
@@ -160,7 +160,15 @@ Decrypt • 15h ago
 
 **[ZKsync to deprecate ZKsync Lite in 2026, sunsetting Ethereum's first ZK rollup](https://www.theblock.co/post/381632/zksync-to-deprecate-zksync-lite-in-2026-sunsetting-ethereums-first-zk-rollup)**
 
-The Block • 19h ago
+The Block • 20h ago
+
+---
+
+**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/07/3-reasons-to-buy-ethereum-before-january-2026/)**
+
+Ethereum could be once again on the path to the $5,000 price level. Here's why.
+
+The Motley Fool • 23h ago
 
 ---
 
@@ -177,14 +185,6 @@ Yahoo Finance • 2d ago
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
 
 CoinDesk • 4h ago
-
----
-
-**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/07/3-reasons-to-buy-ethereum-before-january-2026/)**
-
-Ethereum could be once again on the path to the $5,000 price level. Here's why.
-
-The Motley Fool • 22h ago
 
 ---
 
@@ -208,11 +208,19 @@ TipRanks • 3d ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://finance.yahoo.com/news/bitcoin-ethereum-xrp-dive-liquidations-175610855.html)**
+**[Why Crypto Is Going Up Today? Bitcoin, XRP Price, Ethereum and Dogecoin Jump Ahead of Fed Decision This Week](https://www.financemagnates.com/trending/why-crypto-is-going-up-today-bitcoin-xrp-price-ethereum-and-dogecoin-jump-ahead-of-fed-decision-this-week/)**
+
+The cryptocurrency market is flashing green during Monday's trading session, 8 December, 2025, prompting investors to ask why crypto is going up today .
+
+Finance Magnates • 7h ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
 
 Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
 
-Yahoo Finance • 3d ago
+Decrypt • 3d ago
 
 ---
 
@@ -220,13 +228,7 @@ Yahoo Finance • 3d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) record a minor recovery on Monday, starting the week on a positive note. The retail demand for major cryptocurrencies remains strong despite outflows from Bitcoin and Ethereum Exchange Traded Funds (ETFs).
 
-FXStreet • 12h ago
-
----
-
-**[XRP Blasts Past Bitcoin and Ethereum Sell-offs, Analyst Declares Rally Will Hit on ‘Promising Fundamentals’](https://www.tipranks.com/news/xrp-blasts-past-bitcoin-and-ethereum-selloffs-analyst-declares-rally-will-hit-on-promising-fundamentals)**
-
-TipRanks • 4h ago
+FXStreet • 13h ago
 
 ---
 
@@ -240,7 +242,7 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 730 • 👍 48 • 💬 162 • ⏱️ 6:25 • 4h ago
+👁️ 730 • 👍 48 • 💬 162 • ⏱️ 6:25 • 5h ago
 
 ---
 
@@ -280,7 +282,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 295 • 👍 41 • 💬 3 • ⏱️ 5:35 • 39m ago
+👁️ 295 • 👍 41 • 💬 3 • ⏱️ 5:35 • 1h ago
 
 ---
 
@@ -300,7 +302,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 143 • 💬 7 • ⏱️ 4:57 • 15h ago
+👁️ 2K • 👍 143 • 💬 7 • ⏱️ 4:57 • 16h ago
 
 ---
 
@@ -310,7 +312,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 2K • 👍 205 • 💬 105 • ⏱️ 5:16 • 15h ago
+👁️ 2K • 👍 205 • 💬 105 • ⏱️ 5:16 • 16h ago
 
 ---
 
@@ -330,7 +332,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 11K • 👍 424 • 💬 186 • ⏱️ 19:45 • 23h ago
+👁️ 11K • 👍 424 • 💬 186 • ⏱️ 19:45 • 1d ago
 
 ---
 

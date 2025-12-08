@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T17:56:24.112737+00:00'
+updated: '2025-12-08T18:36:42.984806+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- news
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 17:56 UTC  
+**Last Updated:** December 08, 2025 at 18:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,15 +49,13 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
-4h ago
+5h ago
 
 ---
 
-**[JPMorgan Chase CEO Jamie Dimon says even though AI will eliminate some jobs 'maybe one day we'll be working less hard but having wonderful lives'](https://www.reddit.com/r/artificial/comments/1ph0lka/jpmorgan_chase_ceo_jamie_dimon_says_even_though/)**
+**[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-"For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
-
-🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 15h ago
+15m ago
 
 ---
 
@@ -65,7 +63,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 The president announced the plans to create one rulebook for AI via his Truth Social account on Monday.
 
-🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 2h ago
+🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 3h ago
 
 ---
 
@@ -79,23 +77,15 @@ The president announced the plans to create one rulebook for AI via his Truth So
 
 IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks big bets like Watsonx and next-gen computing will pay off.
 
-🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 3h ago
+🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 4h ago
 
 ---
 
-**[Block all AI browsers for the foreseeable future: Gartner](https://www.reddit.com/r/artificial/comments/1phf7qc/block_all_ai_browsers_for_the_foreseeable_future/)**
+**[JPMorgan Chase CEO Jamie Dimon says even though AI will eliminate some jobs 'maybe one day we'll be working less hard but having wonderful lives'](https://www.reddit.com/r/artificial/comments/1ph0lka/jpmorgan_chase_ceo_jamie_dimon_says_even_though/)**
 
-: Analysts worry lazy users could have agents complete mandatory infosec training, and attackers could do far nastier things
+"For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
-🔗 [theregister.com](https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/) • 2h ago
-
----
-
-**[Queer AI Romantic Partners: A New Kind of Relationship | Uncloseted Media](https://www.reddit.com/r/artificial/comments/1phj74h/queer_ai_romantic_partners_a_new_kind_of/)**
-
-One in five American adults have chatted with an AI companion romantically.
-
-🔗 [unclosetedmedia.com](https://www.unclosetedmedia.com/p/queer-ai-romantic-partners-a-new) • 1m ago
+🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 16h ago
 
 ---
 
@@ -103,21 +93,51 @@ One in five American adults have chatted with an AI companion romantically.
 
 Mass human participation in AI training might be the most important thing possible, and this seems to be at least one small attempt at it: https://www.anthropic.com/research/anthropic-interviewer
 
-12m ago
+53m ago
 
 ---
 
-**[Key Insights from OpenRouter's 2025 State of AI report](https://www.reddit.com/r/artificial/comments/1phblq3/key_insights_from_openrouters_2025_state_of_ai/)**
+**[I’m a junior dev who just got laid off, what should my next step be](https://www.reddit.com/r/artificial/comments/1phdknj/im_a_junior_dev_who_just_got_laid_off_what_should/)**
 
-Source: https://openrouter.ai/state-of-ai TL;DR 1. new landscape of open source: Chinese models rise, market moves beyond monopoly Although proprietary closed-source models still dominate, the market share of open-source models has steadily grown to about one-third. Notably, a significant portion of this growth comes from models developed in China, such as the DeepSeek, Qwen and Kimi, which have gained a large global user base thanks to their strong performance and rapid iteration. 2. Open-Source AI's top use isn't productivity, it's "role-playing" Contrary to the assumption that AI is mainly used for productivity tasks such as programming and writing, data shows that in open-source models, the largest use case is creative role-playing. Among all uses of open-source models, more than half (about 52%) fall under the role-playing category. 3. the "cinderella effect": winning users hinges on solving the problem the "first time" When a newly released model successfully solves a previously unresolved high-value workload for the first time, it achieves a perfect “fit”, much like Cinderella putting on her unique glass slipper. Typically, this “perfect fit” is realized through the model’s new capabilities in agentic reasoning, such as multi-step reasoning or reliable tool use that address a previously difficult business problem. The consequence of this “fit” is a strong user lock-in effect. Once users find the “glass slipper” model that solves their core problem, they rarely switch to newer or even technically superior models that appear later. 4. rise of agents: ai shifts from "text generator" to "task executor" Current models not only generate text but also take concrete actions through planning, tool invocation, and handling long-form context to solve complex problems. Key data evidence supporting this trend includes: Proliferation of reasoning models: Models with multi-step reasoning capabilities now process more than 50% of total tokens, becoming the mainstream in the market. Surge in context length: Over the past year, the average number of input tokens (prompts) per request has grown nearly fourfold. This asymmetric growth is primarily driven by use cases in software development and technical reasoning, indicating that users are engaging models with increasingly complex background information. Normalization of tool invocation: An increasing number of requests now call external APIs or tools to complete tasks, with this proportion stabilizing at around 15% and continuing to grow, marking AI’s role as the “action hub” connecting the digital world. 5. the economics of AI: price isn't the only deciding factor Data shows that demand for AI models is relatively “price inelastic,” meaning there is no strong correlation between model price and usage volume. When choosing a model, users consider cost, quality, reliability, and specific capabilities comprehensively, rather than simply pursuing the lowest price. Value, not price, is the core driver of choice. The research categorizes models on the market into four types, clearly revealing this dynamic: Efficient Giants: Such as Google Gemini Flash, with extremely low cost and massive usage, serving as an “attractive default option for high-volume or long-context workloads.” Premium Leaders: Such as Anthropic Claude Sonnet, which are expensive yet heavily used, indicating that users are willing to pay for “superior reasoning ability and scalable reliability.” Premium Specialists: Such as OpenAI GPT-4, which are extremely costly and relatively less used, dedicated to “niche, high-stakes critical tasks where output quality far outweighs marginal token cost.” Long Tail Market: Includes a large number of low-cost, low-usage models that meet various niche needs.
+So I’m a junior dev who just got laid off from my webdev job, and with AI agents on the rise I think it will just get harder and harder to get back into a similar role. Thus, I’m looking to pivot to any area that is more resistant to AI. Preferably in tech. I love learning new stuff, and being unemployed I have more than enough time on my hands so the learning part shouldn’t be a big problem. I just need to find a direction where the skills I learn won’t be rendered worthless by AI anytime soon. I’m thinking either low level stuff like C++, or machine learning. I’m thinking of building a portfolio throughout the process and also building connections along the way. Like, sooner or later these areas will be eaten by AI too, but I would guess it would take some years at least, with machine learning going last? I’ve also been pondering on maybe doing a deep research on all the current AI tools and the underlying tech and see if there’s any edge cases in any domains where I can use that knowledge to build something disruptive. I would imagine that although there’s a lot of AI hype now there will still be a lot of people sleeping on it making for many opportunities. At the same time, AI has made building stuff a lot easier so there will ofc also be increased competition. So what do you guys think about these directions? And any other interesting areas I could go for that will be resistant to AI in the forseeable future?
 
-5h ago
+4h ago
+
+---
+
+**[Block all AI browsers for the foreseeable future: Gartner](https://www.reddit.com/r/artificial/comments/1phf7qc/block_all_ai_browsers_for_the_foreseeable_future/)**
+
+: Analysts worry lazy users could have agents complete mandatory infosec training, and attackers could do far nastier things
+
+🔗 [theregister.com](https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/) • 3h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
+
+**[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws)**
+
+President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
+
+CNN • 3h ago
+
+---
+
+**[Trump says AI executive order limiting state rules coming this week](https://www.politico.com/news/2025/12/08/trump-says-ai-executive-order-limiting-state-rules-coming-this-week-00680557)**
+
+Politico • 3h ago
+
+---
+
+**[Trump wants ‘ONE’ national AI rule as states seek to curb impacts on energy costs](https://www.utilitydive.com/news/ron-desantis-data-centers-ai-ratepayers-increase-florida-hyperscalers/807290/)**
+
+Florida Gov. Ron DeSantis unveiled a proposal last week that would, among other things, prohibit utilities from charging residents “more” to support data center development.
+
+Utility Dive • 43m ago
+
+---
 
 **[BlackRock bets on ‘pick and shovel’ trade, singling out clear winners in AI spending spree](https://www.cnbc.com/2025/12/08/blackrock-ben-powell-bet-trade-as-ai-spending-frenzy-hyperscalers-investment-credit.html)**
 
@@ -127,63 +147,43 @@ CNBC • 9h ago
 
 ---
 
+**[Analysts' 'AI Loser' List Points To Risks For Uber, Adobe, Intel And These Tech Players](https://www.investors.com/news/technology/ai-stocks-ai-losers-wedbush-adobe-uber-intel/)**
+
+Investor's Business Daily • 34m ago
+
+---
+
+**[Could AI Driven Materials Discovery Be The Next Big Investment Boom?](https://www.forbes.com/sites/gauravsharma/2025/12/08/could-ai-driven-materials-discovery-be-the-next-big-investment-boom/)**
+
+Current geopolitical climate, protectionism and anxieties over security of supply of rare earths has heightened need for AI driven materials discovery, says Altrove CEO.
+
+Forbes • 29m ago
+
+---
+
+**[Can AI make you the next Warren Buffett? One bank is working to find out](https://www.cnbc.com/2025/12/08/deutsche-bank-ai-model-investing.html)**
+
+Deutsche Bank asked its dbLumina AI model to pick a basket of funds.
+
+CNBC • 43m ago
+
+---
+
 **[The power crunch threatening America’s AI ambitions](https://ig.ft.com/ai-power/)**
 
-Financial Times • 12h ago
-
----
-
-**[Staying Creative and Human in the Age of AI](https://www.rollingstone.com/culture-council/articles/staying-creative-and-human-in-age-of-ai-1235478600/)**
-
-If AI has taught me anything, it’s the danger of drifting into mental autopilot.
-
-Rolling Stone • 56m ago
-
----
-
-**[Trump Promises Executive Order to Block State A.I. Regulations](https://www.nytimes.com/2025/12/08/us/politics/trump-executive-order-ai-laws.html)**
-
-The New York Times • 1h ago
+Financial Times • 13h ago
 
 ---
 
 **[Why there's an AI bubble and why you shouldn't ignore it](https://www.axios.com/2025/12/08/ai-bubble-open-ai-google-bret-taylor)**
 
-Axios • 7h ago
-
----
-
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqfnUD4pmN1UEf56DCt9pWKx7bSk1e_3pQCk2_CMeEm6zW2F0te5d3Wz&gaa_ts=69370da7&gaa_sig=entl8V-bdx-YDBGrfGOvmCK37s7PDDI_t_xHzhTEzVV1DFavviUo4z9od8Y8Beok5ss9HMVjInqrBZXo-eG9OQ%3D%3D)**
-
-The Wall Street Journal • 2d ago
+Axios • 8h ago
 
 ---
 
 **[IBM to Buy Confluent for $9.3 Billion to Expand in AI Services](https://www.bloomberg.com/news/articles/2025-12-08/ibm-to-buy-confluent-for-11-billion-to-expand-in-ai-services)**
 
-Bloomberg.com • 3h ago
-
----
-
-**[Artificial intelligence research has a slop problem, academics say: ‘It’s a mess’](https://www.theguardian.com/technology/2025/dec/06/ai-research-papers)**
-
-AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
-
-The Guardian • 2d ago
-
----
-
-**[Nokia CEO: The workforce is becoming AI-native. Leadership has to evolve](https://fortune.com/2025/12/08/nokia-ceo-workforce-ai-native-gen-z-leadership-must-evolve/)**
-
-The new generation began university when ChatGPT launched in 2022 and they now account for roughly half of all ChatGPT usage.
-
-Fortune • 6h ago
-
----
-
-**[Trump to issue order creating national AI rule](https://www.reuters.com/world/trump-says-he-will-sign-executive-order-this-week-ai-approval-process-2025-12-08/)**
-
-Reuters • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Reuters • 1h ago
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 556 • 💬 177 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 557 • 💬 177 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -209,21 +209,13 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 126 • 💬 77 • 1h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 207 • 💬 149 • 1h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 115 • 💬 203 • 1d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
-
----
-
-**[Wall Street races to protect itself from AI bubble](https://news.ycombinator.com/item?id=46165122)**
-
-Wall Street lends billions to AI companies while using credit derivatives and sophisticated bonds to hedge against potential bubble risks.
-
-⬆️ 73 • 💬 86 • 2d ago • [Rolling Out](https://rollingout.com/2025/12/05/wall-street-protects-itself-ai-bubble/)
+⬆️ 115 • 💬 204 • 1d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -237,7 +229,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 44 • 💬 14 • 1d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 45 • 💬 14 • 1d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -245,7 +237,13 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-⬆️ 35 • 💬 6 • 22h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
+⬆️ 35 • 💬 6 • 23h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
+
+---
+
+**[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
+
+⬆️ 32 • 💬 30 • 58m ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -273,7 +271,7 @@ OpenAI is in a full internal race after a major leak revealed a new model called
 
 📺 AI Revolution
 
-👁️ 62K • 👍 2K • 💬 96 • ⏱️ 12:31 • 17h ago
+👁️ 62K • 👍 2K • 💬 96 • ⏱️ 12:31 • 18h ago
 
 ---
 
@@ -313,7 +311,7 @@ Your Grocery Store Is About to Change Forever. AI is now making your food...but 
 
 📺 Lillie Kane
 
-👁️ 1K • 👍 331 • 💬 76 • ⏱️ 13:09 • 2h ago
+👁️ 1K • 👍 331 • 💬 76 • ⏱️ 13:09 • 3h ago
 
 ---
 
@@ -323,7 +321,7 @@ Want to make money and save time with AI? Join here: https://juliangoldieai.com/
 
 📺 Julian Goldie SEO
 
-👁️ 4K • 👍 157 • 💬 20 • ⏱️ 8:14 • 18h ago
+👁️ 4K • 👍 157 • 💬 20 • ⏱️ 8:14 • 19h ago
 
 ---
 
@@ -379,7 +377,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,327 • 1h ago
+⬇️ 201,990 • ❤️ 2,330 • 1h ago
 
 ---
 
@@ -391,7 +389,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 28,778 • ❤️ 804 • 7d ago
+⬇️ 28,778 • ❤️ 807 • 7d ago
 
 ---
 
@@ -403,7 +401,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 519 • 14h ago
+⬇️ 40,450 • ❤️ 521 • 15h ago
 
 ---
 
@@ -447,7 +445,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 3,573 • ❤️ 380 • 6d ago
+⬇️ 3,573 • ❤️ 382 • 6d ago
 
 ---
 
@@ -497,7 +495,7 @@ Ministral 3 14B Instruct is a powerful, edge-optimized multilingual vision-langu
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 160 • 💬 3 • ⭐ 5,733 • 11d ago
+▲ 161 • 💬 3 • ⭐ 5,733 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -539,9 +537,23 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 149 • 💬 4 • ⭐ 416 • 4d ago
+▲ 150 • 💬 4 • ⭐ 502 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
+
+---
+
+**[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
+
+*Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
+
+🏢 AI at Meta
+
+Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
+
+▲ 108 • 💬 4 • ⭐ 5,441 • 18d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
 ---
 
@@ -554,20 +566,6 @@ RealGen is a photorealistic text-to-image framework that uses an LLM for prompt 
 ▲ 10 • 💬 1 • ⭐ 37 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.00473) • [💻 code](https://github.com/yejy53/RealGen) • [🔗 project](https://yejy53.github.io/RealGen/)
-
----
-
-**[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
-
-*Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
-
-🏢 AI at Meta
-
-Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
-
-▲ 108 • 💬 4 • ⭐ 5,408 • 18d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
 ---
 
@@ -591,7 +589,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 35 • 💬 2 • ⭐ 205 • 4d ago
+▲ 35 • 💬 2 • ⭐ 224 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
@@ -609,15 +607,17 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 ---
 
-**[MinerU: An Open-Source Solution for Precise Document Content Extraction](https://huggingface.co/papers/2409.18839)**
+**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
 
-*Bin Wang, Chao Xu, Xiaomeng Zhao et al. (18 authors)*
+*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
 
-MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
+🏢 PaddlePaddle
 
-▲ 33 • 💬 4 • ⭐ 50,051 • 14mo ago
+PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-[🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
+▲ 104 • 💬 6 • ⭐ 65,962 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
 ---
 
@@ -671,7 +671,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 985 • 🔱 121 • 5h ago
+⭐ 986 • 🔱 121 • 6h ago
 
 ---
 
@@ -681,7 +681,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 841 • 🔱 22 • 23h ago
+⭐ 843 • 🔱 22 • 23h ago
 
 ---
 
@@ -691,7 +691,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 832 • 🔱 44 • 10h ago
+⭐ 833 • 🔱 44 • 11h ago
 
 ---
 
@@ -701,7 +701,7 @@ Open Source Semantic Search for your AI Agent
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 825 • 🔱 56 • 8d ago
+⭐ 827 • 🔱 56 • 8d ago
 
 ---
 
@@ -711,7 +711,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 813 • 🔱 262 • 2d ago
+⭐ 815 • 🔱 263 • 2d ago
 
 ---
 
@@ -721,7 +721,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 714 • 🔱 109 • 2h ago
+⭐ 728 • 🔱 110 • 59m ago
 
 ---
 
