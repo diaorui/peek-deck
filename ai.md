@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T23:24:46.694588+00:00'
+updated: '2025-12-08T23:39:37.778988+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- social
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 23:24 UTC  
+**Last Updated:** December 08, 2025 at 23:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -95,7 +95,7 @@ AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai sa
 
 The president announced the plans to create one rulebook for AI via his Truth Social account on Monday.
 
-🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 7h ago
+🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 8h ago
 
 ---
 
@@ -119,7 +119,7 @@ The president announced the plans to create one rulebook for AI via his Truth So
 
 **[Trump Clears Sale of More Powerful Nvidia A.I. Chips to China](https://www.nytimes.com/2025/12/08/business/trump-nvidia-chips-china.html)**
 
-The New York Times • 54m ago
+The New York Times • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Fortune • 12h ago
 
 **[Why there's an AI bubble and why you shouldn't ignore it](https://www.axios.com/2025/12/08/ai-bubble-open-ai-google-bret-taylor)**
 
-Axios • 12h ago
+Axios • 13h ago
 
 ---
 
@@ -171,7 +171,7 @@ Axios • 12h ago
 
 UK foreign secretary urges action against ‘information warfare’ made easier by advances in technology
 
-The Guardian • 54m ago
+The Guardian • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Politico • 2h ago
 
 **[Trump to issue order creating national AI rule](https://www.reuters.com/world/trump-says-he-will-sign-executive-order-this-week-ai-approval-process-2025-12-08/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -221,7 +221,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 85 • 💬 87 • 5h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 85 • 💬 87 • 6h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -321,7 +321,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTE
 
 📺 Anastasi In Tech
 
-👁️ 2K • 👍 363 • 💬 22 • ⏱️ 31:03 • 1h ago
+👁️ 2K • 👍 363 • 💬 22 • ⏱️ 31:03 • 2h ago
 
 ---
 
@@ -331,7 +331,7 @@ Your Grocery Store Is About to Change Forever. AI is now making your food...but 
 
 📺 Lillie Kane
 
-👁️ 5K • 👍 687 • 💬 114 • ⏱️ 13:09 • 7h ago
+👁️ 5K • 👍 687 • 💬 114 • ⏱️ 13:09 • 8h ago
 
 ---
 
@@ -671,7 +671,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 991 • 🔱 122 • 47m ago
+⭐ 991 • 🔱 122 • 1h ago
 
 ---
 
@@ -721,7 +721,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 734 • 🔱 111 • 5h ago
+⭐ 734 • 🔱 111 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T23:24:46.702892+00:00'
+updated: '2025-12-08T23:39:37.788054+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 23:24 UTC  
+**Last Updated:** December 08, 2025 at 23:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,855.86
+### $90,647.08
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -0.7%  
-**30d:** -13.3%  
+**24h:** +0.3%  
+**7d:** -0.8%  
+**30d:** -13.4%  
 **90d:** -20.3%  
-**1y:** -6.7%  
+**1y:** -6.8%  
 
 ---
 
@@ -101,7 +101,7 @@ They have a promotion going on with Ledger
 
 Back in 2011–2013, physical bitcoins were actually a thing. They were known as Casascius Coins — metal tokens with a hologram on the back hiding a private key printed on paper. Peel the hologram, and the BTC could be moved to a regular blockchain address. What makes this story even wilder is how many people never touched them for years. Some holders treated these coins like collectibles, others forgot about them entirely. Only recently, more and more of these physical bitcoins have been getting redeemed after sitting untouched for a decade or more. From novelty item to time capsule holding real money, Casascius coins remain one of the strangest and most iconic relics of early Bitcoin history.
 
-7h ago
+8h ago
 
 ---
 
@@ -157,7 +157,7 @@ Binance • 23h ago
 
 BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -181,7 +181,7 @@ Decrypt • 5h ago
 
 Bitcoin Cash has quietly become one of the best-performing layer-1 networks in the crypto sector.
 
-Yahoo Finance • 28m ago
+Yahoo Finance • 43m ago
 
 ---
 
@@ -371,7 +371,7 @@ Bitcoin today with Benjamin Cowen!
 
 📺 MMCrypto
 
-👁️ 36K • 👍 3K • 💬 916 • ⏱️ 7:39 • 14h ago
+👁️ 36K • 👍 3K • 💬 916 • ⏱️ 7:39 • 15h ago
 
 ---
 
@@ -381,7 +381,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 413 • ⏱️ 18:52 • 23h ago
+👁️ 29K • 👍 2K • 💬 413 • ⏱️ 18:52 • 1d ago
 
 ---
 

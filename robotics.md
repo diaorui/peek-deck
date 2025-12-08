@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T23:24:46.712171+00:00'
+updated: '2025-12-08T23:39:37.797802+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 23:24 UTC  
+**Last Updated:** December 08, 2025 at 23:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -168,7 +168,7 @@ Interesting Engineering • 7h ago
 
 **[Agility Robotics founder wants Oregon to be a startup factory](https://www.bizjournals.com/portland/news/2025/12/08/agility-robotics-ai-osu-startup.html)**
 
-The Business Journals • 41m ago
+The Business Journals • 56m ago
 
 ---
 
