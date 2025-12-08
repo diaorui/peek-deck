@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T11:42:50.700797+00:00'
+updated: '2025-12-08T11:53:56.993723+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- videos
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 11:42 UTC  
+**Last Updated:** December 08, 2025 at 11:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
-**7d:** +0.4%  
-**30d:** -12.4%  
-**90d:** -19.4%  
-**1y:** -5.7%  
+**24h:** +3.0%  
+**7d:** +0.5%  
+**30d:** -12.3%  
+**90d:** -19.3%  
+**1y:** -5.6%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[pahahha i died](https://www.reddit.com/r/Bitcoin/comments/1ph8e2i/pahahha_i_died/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -119,7 +119,7 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 **[Buy buy buy!](https://www.reddit.com/r/Bitcoin/comments/1ph9n2c/buy_buy_buy/)**
 
-40m ago
+51m ago
 
 ---
 
@@ -133,7 +133,7 @@ Really cool they have this at common bookstores in Thailand. The placement could
 
 **[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Motley Fool • 15h ago
 
 Harvard University expanded its Bitcoin ETF holdings by 257% in the third quarter, making the iShares Bitcoin Trust its largest disclosed position with $442.8 million as of September 30. According to Matt Hougan, Bitwise CIO, Harvard simultaneously increased its gold ETF holdings by 99% to $235 million, allocating to Bitcoin ...
 
-Yahoo Finance • 53m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -231,7 +231,7 @@ TheStreet • 20h ago
 
 ₿OSS Challenge - start your career in bitcoin open source
 
-⬆️ 6 • 💬 1 • 3d ago • [bosschallenge.xyz](https://bosschallenge.xyz)
+⬆️ 6 • 💬 1 • 4d ago • [bosschallenge.xyz](https://bosschallenge.xyz)
 
 ---
 
@@ -401,7 +401,7 @@ A Fed takeover is brewing — and Bitcoin could be the winner. With Trump poised
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 773 • 💬 163 • ⏱️ 24:30 • 17h ago
+👁️ 15K • 👍 773 • 💬 163 • ⏱️ 24:30 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T11:42:50.706967+00:00'
+updated: '2025-12-08T11:53:56.999861+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - news
-- videos
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 11:42 UTC  
+**Last Updated:** December 08, 2025 at 11:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.5%  
-**7d:** +5.3%  
-**30d:** -12.1%  
-**90d:** -27.6%  
-**1y:** -15.2%  
+**24h:** +3.2%  
+**7d:** +5.0%  
+**30d:** -12.4%  
+**90d:** -27.8%  
+**1y:** -15.4%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ethereum, I’m Amey - Ratings Director at Bluechip. Stablecoins offer a cheaper way to make cross-border transactions and a more reliable way to save in economies with high inflation or unstable financial systems. But how can you tell which stablecoins are truly stable? Our SMIDGE rating framework analyzes six economic factors and assigns letter-grade ratings (from F to A+) to identify the most reliable stablecoins. You can read the full framework on our website here. Essentially, the SMIDGE framework evaluates - Stability - collateral quality, asset segregation, core stability mechanism Management - track record of team, jurisdiction, accountability to token holders Implementation - technical risk (currently not tracked) Decentralization - censorship risk, blacklisting (only for crypto-backed stablecoins) Governance - regulatory protections, redemption terms, voting systems External - market sentiment (currently not tracked) We take a crypto-native, independent, and data-driven approach to stablecoin ratings. Our framework is the first publicly available, factor-based risk model for evaluating stablecoins. Our ratings are publicly available on our website here. Currently, USDT is rated D and USDC is rated B+ by Bluechip. Last month, we partnered with the Ethereum Foundation to host Bluechip25 in Vienna, the first global conference dedicated to crypto safety. Sign up for updates on next year's Bluechip26 on our website here. We also host a podcast called Bluechip Dialogues, where our Chief Economist Garett Jones interviews leading figures in crypto. Watch the latest episode with the creator of Facebook’s stablecoin project Diem (formerly Libra) here. Follow us on Twitter here or LinkedIn here or Telegram channel here. Ask us anything! I'll be around to answer your questions over the following days.
 
-35m ago
+46m ago
 
 ---
 
@@ -128,7 +128,7 @@ This is Part Seven of the eight-part series: Can I Pay With This: A stablecoin e
 
 I was recently censored by Edmund something, so I thought I would ask this community if you could disprove an assumption I have considered. I have considered a scaling paradigm, and here would like to ask about it for a simpler ledger like UTXO-model (and the idea is that the same principles can be scaled up to more advanced "world computer" like Ethereum). It seems appropriate to attack my argument rather than censor me for having respect for another individual (Craig Wright). My idea is very simple. Shard a UTXO ledger by transaction hash mod numShards. There is "wiggle room" for nodes to shard with different values, as it can translate back and forth. Then, if 1024 shards, let shard 0 build blocks only with transaction hashes it "owns", and any shard using those as inputs will have to request the right from the shard. The shards manage and stores such "virtual blocks". Propagation of mempool transactions as well as "virtual blocks" is between shards only (or, mainly). Shards will request transactions from mempool by modulo numShards, and similar with the "virtual block" (where the boundaries of that block is the Merkle tree, so it naturally also splits and combines so people can use different numShards). The central block header is signed by the "coordinator" (via proof-of-work or proof-of-stake or proof-of-suffrage) who combines the Merkle roots of the sub-blocks. They trust all their "sub-nodes" internally. Likewise, the transaction fees can be done easily in UTXO-format by each sub-node reporting their own output for coinbase. Assuming 1 MB blocks and 1024 shards, 5000 transactions per block, on average 2-3 inputs per transaction, on average 10-15 requests per shard-pair. The geographical distribution solves the bandwidth bottleneck (as well as computation and storage to some extent) and lets less advanced hardware still team-up to easily operate on gigabyte (or more) blocks. What is the added latency would people here say from the geographical distribution of the shards?
 
-17h ago
+18h ago
 
 ---
 
@@ -212,7 +212,7 @@ Yahoo Finance • 2d ago
 
 **[Bitcoin Price, XRP, Ethereum Jump. What Cryptos Need for a Sustained Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-fed-rate-2085d4a2?gaa_at=eafs&gaa_n=AWEtsqd9UNirhAyEgPn2bAEAiQLqBnahA_7I13Sq2WseHXhsKFZxrVsuiRpV&gaa_ts=6936bd29&gaa_sig=4b34EusZiYeqyQKh6t3r_IO8MkIpYBbFbPAliYyZF2A5CoSiSFPmf1mPMCISbmYhUAUClOhsz5EVb4_5ANLBuQ%3D%3D)**
 
-Barron's • 41m ago
+Barron's • 52m ago
 
 ---
 
@@ -290,7 +290,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 188 • 💬 5 • ⏱️ 4:06 • 19h ago
+👁️ 3K • 👍 188 • 💬 5 • ⏱️ 4:06 • 20h ago
 
 ---
 

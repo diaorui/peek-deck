@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T11:42:50.710300+00:00'
+updated: '2025-12-08T11:53:57.003152+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 11:42 UTC  
+**Last Updated:** December 08, 2025 at 11:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 **[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -128,7 +128,7 @@ Seeking Alpha • 3d ago
 
 Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
 
-CNN • 22h ago
+CNN • 23h ago
 
 ---
 
@@ -166,7 +166,7 @@ CNET • 22h ago
 
 **[The Trump Administration Is Shifting Its Focus From AI to This Burgeoning Industry](https://www.inc.com/chris-morris/trump-administration-shifting-focus-from-ai-to-another-burgeoning-industry/91275057)**
 
-Inc.com • 39m ago
+Inc.com • 50m ago
 
 ---
 
@@ -182,7 +182,7 @@ KTVB • 2d ago
 
 Chinese robotics frim EngineAI shows CEO being kicked by T800 robot to prove real-world capabilities amid CGI speculation.
 
-Interesting Engineering • 2h ago
+Interesting Engineering • 3h ago
 
 ---
 

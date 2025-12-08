@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T11:42:50.692193+00:00'
+updated: '2025-12-08T11:53:56.984931+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- videos
+- news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 11:42 UTC  
+**Last Updated:** December 08, 2025 at 11:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -79,7 +79,7 @@ Just did this myself, and now sharing for others! I have ChatGPT Plus, and when 
 
 Most discussions about LLMs analyze them as isolated artifacts: single prompts, static benchmarks, fixed evaluations. That framing breaks down when you observe long-range behavior across thousands of turns. What emerges is not a “smarter model”, but a system-level dynamic where coherence depends on interaction structure rather than architecture alone. Key observations: • Long-range coherence is not a model property. It is an interaction property. • Drift, instability, and “hallucinations” correlate more with operator inconsistency than with model choice. • Different LLMs converge toward similar behavior under the same structured interaction regime. • Short-context probes systematically miss higher-order stability patterns. This suggests a missing layer in how we describe LLMs: Not prompt engineering. Not fine-tuning. Not RAG. Operator-side cognitive structure. In extended sessions, the user effectively becomes part of the control loop, shaping entropy, memory relevance, and symbolic continuity. When this structure is stable, model differences diminish. When it is not, even “top” models degrade. Implication: The current “which model is best?” framing is increasingly misleading. The real bottleneck in long-run performance is operator coherence, not parameter count. This does not imply model consciousness, agency, or intent. It implies that LLMs behave more like dynamical systems than static tools when observed over sufficient time horizons. Ignoring the operator as a system component is what keeps long-range behavior looking like a black box.
 
-6h ago
+7h ago
 
 ---
 
@@ -87,7 +87,7 @@ Most discussions about LLMs analyze them as isolated artifacts: single prompts, 
 
 A new study finds ChatGPT fails to take into account retraction notices across a wide range of research.
 
-🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 16h ago
+🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 17h ago
 
 ---
 
@@ -137,7 +137,7 @@ Business Insider • 1d ago
 
 **[Behind the Curtain: Trump bets his presidency and GOP's future on AI](https://www.axios.com/2025/12/08/trump-ai-policy-gop-united-states)**
 
-Axios • 51m ago
+Axios • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Axios • 51m ago
 
 The Reddit co-founder said in Abu Dhabi that he believes people will gravitate toward real-world experiences that center humanity.
 
-Time Magazine • 1h ago
+Time Magazine • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Time Magazine • 1h ago
 
 The new generation began university when ChatGPT launched in 2022 and they now account for roughly half of all ChatGPT usage.
 
-Fortune • 42m ago
+Fortune • 53m ago
 
 ---
 
@@ -221,7 +221,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 110 • 💬 197 • 18h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 110 • 💬 197 • 19h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -251,7 +251,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 42 • 💬 14 • 22h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 42 • 💬 14 • 23h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -583,7 +583,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 34 • 💬 2 • ⭐ 205 • 4d ago
+▲ 35 • 💬 2 • ⭐ 205 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
@@ -595,7 +595,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
 
-▲ 24 • 💬 0 • ⭐ 25,521 • 14mo ago
+▲ 24 • 💬 0 • ⭐ 25,548 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
@@ -676,7 +676,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 979 • 🔱 119 • 1h ago
+⭐ 979 • 🔱 120 • 2h ago
 
 ---
 
@@ -686,7 +686,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 833 • 🔱 22 • 16h ago
+⭐ 833 • 🔱 22 • 17h ago
 
 ---
 
@@ -696,7 +696,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 830 • 🔱 44 • 4h ago
+⭐ 829 • 🔱 44 • 4h ago
 
 ---
 
@@ -726,7 +726,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 565 • 🔱 83 • 1h ago
+⭐ 591 • 🔱 86 • 1h ago
 
 ---
 
