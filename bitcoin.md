@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T17:26:22.453331+00:00'
+updated: '2025-12-08T17:44:58.226692+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 17:26 UTC  
+**Last Updated:** December 08, 2025 at 17:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,903.59
+### $89,863.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** -1.5%  
-**30d:** -14.1%  
-**90d:** -20.9%  
-**1y:** -7.5%  
+**24h:** -2.0%  
+**7d:** -1.9%  
+**30d:** -14.4%  
+**90d:** -21.2%  
+**1y:** -7.9%  
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Back in 2011–2013, physical bitcoins were actually a thing. They were known as Casascius Coins — metal tokens with a hologram on the back hiding a private key printed on paper. Peel the hologram, and the BTC could be moved to a regular blockchain address. What makes this story even wilder is how many people never touched them for years. Some holders treated these coins like collectibles, others forgot about them entirely. Only recently, more and more of these physical bitcoins have been getting redeemed after sitting untouched for a decade or more. From novelty item to time capsule holding real money, Casascius coins remain one of the strangest and most iconic relics of early Bitcoin history.
 
-1h ago
+2h ago
 
 ---
 
@@ -169,7 +169,7 @@ Barron's • 3h ago
 
 Asian equities opened the week slightly higher ahead of a heavy run of central bank decisions, including a Federal Reserve meeting where markets have largely priced in a 25-basis-point rate cut.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 11h ago
 
 Bitcoin ETFs capture $352 million as bearish bets retreat, hinting investor pessimism may have reached its low point.
 
-Yahoo Finance • 31m ago
+Yahoo Finance • 50m ago
 
 ---
 
@@ -215,7 +215,7 @@ MarketWatch • 4h ago
 
 Which of these popular cryptocurrencies has more upside potential?
 
-The Motley Fool • 20h ago
+The Motley Fool • 21h ago
 
 ---
 
@@ -223,7 +223,7 @@ The Motley Fool • 20h ago
 
 Bitcoin’s long-term holder supply hit a cyclical low as BTC bottomed near $80K, suggesting spot-driven sell pressure is fading as prices rebound.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -309,33 +309,33 @@ Data transformation framework for AI. Ultra performant, with incremental process
 
 ## YouTube Videos: "bitcoin"
 
-**[BITCOIN: big news!!!](https://www.youtube.com/watch?v=wA5Xgv-r13E)**
+**[BITCOIN TREASURY MOVED!! GET READY FOR TOMORROW!!](https://www.youtube.com/watch?v=TCbgySXc1PM)**
 
-AscendEX Platform https://ckenny.com/ASC Free Strategy Course https://ckenny.com/whopCK ⚠️ DISCLAIMER – READ ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
-📺 Conor Kenny
+📺 My Financial Friend
 
-👁️ 10K • 👍 733 • 💬 278 • ⏱️ 5:59 • 7h ago
-
----
-
-**[Bitcoin Holders - Please Don&#39;t Fall For This](https://www.youtube.com/watch?v=JxJvL5DRczo)**
-
-Market Update Crypto Strategy School https://cryptostrategyschool.com/ab/ ➡️ Platform I Like: https://aaronbtc.com/low ...
-
-📺 Aaron Bennett
-
-👁️ 3K • 👍 337 • 💬 179 • ⏱️ 13:46 • 5h ago
+👁️ 5K • 👍 374 • 💬 82 • ⏱️ 9:22 • 2h ago
 
 ---
 
-**[The White House Just Released The Cryptocurrency Bulls!!](https://www.youtube.com/watch?v=iSWMFZ5NChw)**
+**[Bitcoin Investors Prepare For a HUGE FOMC Week](https://www.youtube.com/watch?v=HhNaTvl9pjI)**
 
-The White House Just Released The Cryptocurrency Bulls!! Become a channel member & get access to perks: ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 Altcoin Daily
+📺 CryptosRUs
 
-👁️ 55K • 👍 3K • 💬 291 • ⏱️ 12:47 • 18h ago
+👁️ 15K • 👍 1K • 💬 122 • ⏱️ 37:28 • 2h ago
+
+---
+
+**[stocks, bitcoin, fed, and trump](https://www.youtube.com/watch?v=AbCWMcEBibs)**
+
+Alpha Report Membership w/ Courses, Private Lives, & Trades: https://MeetKevin.com ❄️  ❄️ Reinvest AI Renovation ...
+
+📺 Meet Kevin
+
+👁️ 14K • 👍 452 • 3h ago
 
 ---
 
@@ -345,7 +345,37 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 71K • 👍 3K • 💬 363 • ⏱️ 11:32 • 1d ago
+👁️ 72K • 👍 3K • 💬 374 • ⏱️ 11:32 • 1d ago
+
+---
+
+**[Bitcoin Holders - Please Don&#39;t Fall For This](https://www.youtube.com/watch?v=JxJvL5DRczo)**
+
+Market Update Crypto Strategy School https://cryptostrategyschool.com/ab/ ➡️ Platform I Like: https://aaronbtc.com/low ...
+
+📺 Aaron Bennett
+
+👁️ 6K • 👍 457 • 💬 186 • ⏱️ 13:46 • 5h ago
+
+---
+
+**[The White House Just Released The Cryptocurrency Bulls!!](https://www.youtube.com/watch?v=iSWMFZ5NChw)**
+
+The White House Just Released The Cryptocurrency Bulls!! Become a channel member & get access to perks: ...
+
+📺 Altcoin Daily
+
+👁️ 59K • 👍 4K • 💬 308 • ⏱️ 12:47 • 19h ago
+
+---
+
+**[BITCOIN: big news!!!](https://www.youtube.com/watch?v=wA5Xgv-r13E)**
+
+AscendEX Platform https://ckenny.com/ASC Free Strategy Course https://ckenny.com/whopCK ⚠️ DISCLAIMER – READ ...
+
+📺 Conor Kenny
+
+👁️ 13K • 👍 792 • 💬 323 • ⏱️ 5:59 • 7h ago
 
 ---
 
@@ -355,7 +385,17 @@ Bitcoin today with Benjamin Cowen!
 
 📺 MMCrypto
 
-👁️ 24K • 👍 2K • 💬 770 • ⏱️ 7:39 • 8h ago
+👁️ 30K • 👍 3K • 💬 772 • ⏱️ 7:39 • 9h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Big Money Knows](https://www.youtube.com/watch?v=BCCezmp_O20)**
+
+BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT BONUS ...
+
+📺 Lark Davis
+
+👁️ 11K • 👍 688 • 💬 64 • ⏱️ 37:57 • 5h ago
 
 ---
 
@@ -365,47 +405,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 409 • ⏱️ 18:52 • 17h ago
-
----
-
-**[Bitcoin On-Chain Risk](https://www.youtube.com/watch?v=2DUCJDmTOks)**
-
-This chart shows the historical backtest of the on-chain risk gauge shown on the Homepage and the Indicator Dashboard.
-
-📺 Benjamin Cowen
-
-👁️ 39K • 👍 3K • 💬 104 • ⏱️ 9:57 • 11h ago
-
----
-
-**[Bitcoin Inflows EXPLODE As The Fed &amp; Wall Street Adoption Continues! What&#39;s Next?](https://www.youtube.com/watch?v=7L2wYq0K6cU)**
-
-Bitcoin #Crypto #Finance The macro landscape is shifting fast: the Federal Reserve has officially ended quantitative tightening ...
-
-📺 The Wolf Of All Streets
-
-👁️ 5K • 👍 426 • 3h ago
-
----
-
-**[Bitcoin Whales Just Reversed Their Entire Strategy — Here’s What Changed](https://www.youtube.com/watch?v=T3e6Q02kUag)**
-
-Bitcoin Whales Just Flipped Their Bets… Here's What They Know ⚠️ Something very unusual just happened in the Bitcoin ...
-
-📺 Ryan’s Money Lab
-
-👁️ 29K • 👍 1K • 💬 91 • ⏱️ 11:17 • 1d ago
-
----
-
-**[Bitcoin: The Unbelievable Reality Is Setting In (18-Year Cycle)](https://www.youtube.com/watch?v=KKDPrcLDuJg)**
-
-TIA PRO $1000 OFF LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE → *GET ...
-
-📺 Jason Pizzino
-
-👁️ 25K • 👍 1K • 💬 588 • ⏱️ 29:13 • 15h ago
+👁️ 27K • 👍 2K • 💬 413 • ⏱️ 18:52 • 18h ago
 
 ---
 

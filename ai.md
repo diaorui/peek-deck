@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T17:26:22.444895+00:00'
+updated: '2025-12-08T17:44:58.218300+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 17:26 UTC  
+**Last Updated:** December 08, 2025 at 17:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,13 +65,13 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 The president announced the plans to create one rulebook for AI via his Truth Social account on Monday.
 
-🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 1h ago
+🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 2h ago
 
 ---
 
 **[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -137,19 +137,19 @@ Financial Times • 12h ago
 
 If AI has taught me anything, it’s the danger of drifting into mental autopilot.
 
-Rolling Stone • 26m ago
+Rolling Stone • 44m ago
 
 ---
 
 **[Trump Promises Executive Order to Block State A.I. Regulations](https://www.nytimes.com/2025/12/08/us/politics/trump-executive-order-ai-laws.html)**
 
-The New York Times • 56m ago
+The New York Times • 1h ago
 
 ---
 
 **[Why there's an AI bubble and why you shouldn't ignore it](https://www.axios.com/2025/12/08/ai-bubble-open-ai-google-bret-taylor)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
@@ -183,7 +183,7 @@ Fortune • 6h ago
 
 **[Trump to issue order creating national AI rule](https://www.reuters.com/world/trump-says-he-will-sign-executive-order-this-week-ai-approval-process-2025-12-08/)**
 
-Reuters • 41m ago
+Reuters • 1h ago
 
 ---
 
@@ -215,7 +215,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 Welcome to the slop era.
 
-⬆️ 98 • 💬 186 • 2d ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
+⬆️ 98 • 💬 186 • 3d ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 
 ---
 
@@ -231,7 +231,7 @@ Wall Street lends billions to AI companies while using credit derivatives and so
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 63 • 💬 27 • 31m ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 63 • 💬 27 • 50m ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -273,17 +273,7 @@ OpenAI is in a full internal race after a major leak revealed a new model called
 
 📺 AI Revolution
 
-👁️ 54K • 👍 1K • 💬 85 • ⏱️ 12:31 • 17h ago
-
----
-
-**[QUANTUM WILL ECLIPSE AI: Why Everyone’s Betting on the Wrong Horse](https://www.youtube.com/watch?v=aNpVFovnZ-E)**
-
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
-
-📺 Julia McCoy
-
-👁️ 49K • 👍 3K • 💬 478 • ⏱️ 15:03 • 1d ago
+👁️ 62K • 👍 2K • 💬 96 • ⏱️ 12:31 • 17h ago
 
 ---
 
@@ -293,17 +283,7 @@ Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial i
 
 📺 Fox News Clips
 
-👁️ 47K • 👍 704 • 💬 324 • ⏱️ 6:22 • 2d ago
-
----
-
-**[Bear releases a struggling fish into a pond #ai #fish #relases #bear](https://www.youtube.com/watch?v=J9zvICM4IPw)**
-
-Bear releases a struggling fish into a pond #ai #fish #relases #bear.
-
-📺 Ai story Time
-
-👁️ 9K • 👍 183 • 💬 3 • ⏱️ 0:41 • 7h ago
+👁️ 48K • 👍 712 • 💬 323 • ⏱️ 6:22 • 2d ago
 
 ---
 
@@ -313,17 +293,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 100K • 👍 2K • 💬 403 • ⏱️ 12:07 • 2d ago
-
----
-
-**[Chinas New FREE AI: Baidu Ernie 5.0 Just CRUSHED ChatGPT...](https://www.youtube.com/watch?v=9UPw7hSDsxQ)**
-
-Want to make money and save time with AI? Join here: https://juliangoldieai.com/07L1kg.
-
-📺 Julian Goldie SEO
-
-👁️ 4K • 👍 148 • 💬 19 • ⏱️ 8:14 • 18h ago
+👁️ 101K • 👍 2K • 💬 405 • ⏱️ 12:07 • 2d ago
 
 ---
 
@@ -333,7 +303,27 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Ge
 
 📺 BitBiasedAI
 
-👁️ 40K • 👍 1K • 💬 43 • ⏱️ 11:49 • 1d ago
+👁️ 42K • 👍 1K • 💬 44 • ⏱️ 11:49 • 1d ago
+
+---
+
+**[What AI Is Now Doing to Your Food Is Worse Than You Think.](https://www.youtube.com/watch?v=JcA_vAsWw5M)**
+
+Your Grocery Store Is About to Change Forever. AI is now making your food...but is it safe? What the world of AI is doing to our ...
+
+📺 Lillie Kane
+
+👁️ 1K • 👍 331 • 💬 76 • ⏱️ 13:09 • 2h ago
+
+---
+
+**[Chinas New FREE AI: Baidu Ernie 5.0 Just CRUSHED ChatGPT...](https://www.youtube.com/watch?v=9UPw7hSDsxQ)**
+
+Want to make money and save time with AI? Join here: https://juliangoldieai.com/07L1kg.
+
+📺 Julian Goldie SEO
+
+👁️ 4K • 👍 157 • 💬 20 • ⏱️ 8:14 • 18h ago
 
 ---
 
@@ -343,7 +333,27 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 1.0M • 👍 3K • 💬 94 • ⏱️ 8:06 • 2d ago
+👁️ 1.1M • 👍 3K • 💬 97 • ⏱️ 8:06 • 2d ago
+
+---
+
+**[NEW AI Video Generator Kling O1 Redefines AI Filmmaking](https://www.youtube.com/watch?v=m_UfnjFOfys)**
+
+NEW AI Video Generator Kling O1 Redefines AI Filmmaking Try Kling O1 & Kling 2.6 https://openart.ai/home?ref=Klingo1 Kling ...
+
+📺 Dan Kieft
+
+👁️ 22K • 💬 18 • ⏱️ 9:23 • 1d ago
+
+---
+
+**[I Recreated Impossible AI Foods](https://www.youtube.com/watch?v=wJHRAXKdqZM)**
+
+subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianBlack @zealous @KingSammelot ...
+
+📺 yikes
+
+👁️ 290K • 👍 11K • 💬 1K • ⏱️ 21:06 • 2d ago
 
 ---
 
@@ -353,17 +363,7 @@ World-leading AI scientist Professor Stuart Russell issues one of the most urgen
 
 📺 The Diary Of A CEO Clips
 
-👁️ 224K • 👍 4K • 💬 1K • ⏱️ 21:18 • 1d ago
-
----
-
-**[The monkey gave his mother a beautiful auto rickshaw #ai #shorts #viral](https://www.youtube.com/watch?v=LOT2y51t5JU)**
-
-The monkey gave his mother a beautiful auto rickshaw #ai #shorts #viral This emotional and heart-touching AI shorts video shows ...
-
-📺 Super AI Story
-
-👁️ 27K • 💬 1 • ⏱️ 0:47 • 5h ago
+👁️ 229K • 👍 4K • 💬 1K • ⏱️ 21:18 • 1d ago
 
 ---
 
@@ -379,7 +379,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,326 • 45m ago
+⬇️ 201,990 • ❤️ 2,326 • 1h ago
 
 ---
 
@@ -701,7 +701,7 @@ Open Source Semantic Search for your AI Agent
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 825 • 🔱 56 • 7d ago
+⭐ 825 • 🔱 56 • 8d ago
 
 ---
 
@@ -721,7 +721,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 714 • 🔱 109 • 1h ago
+⭐ 714 • 🔱 109 • 2h ago
 
 ---
 

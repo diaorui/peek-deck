@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T17:26:22.459401+00:00'
+updated: '2025-12-08T17:44:58.232684+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- cryptocurrency
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 17:26 UTC  
+**Last Updated:** December 08, 2025 at 17:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Five years ago, an Ethereum standards author was threatened with trademark legal action over the name of a smart contract standard](https://www.reddit.com/r/ethereum/comments/1phe1xy/five_years_ago_an_ethereum_standards_author_was/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 2h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 3h ago
 
 ---
 
@@ -142,7 +142,7 @@ This is Part Seven of the eight-part series: Can I Pay With This: A stablecoin e
 
 I was recently censored by Edmund something, so I thought I would ask this community if you could disprove an assumption I have considered. I have considered a scaling paradigm, and here would like to ask about it for a simpler ledger like UTXO-model (and the idea is that the same principles can be scaled up to more advanced "world computer" like Ethereum). It seems appropriate to attack my argument rather than censor me for having respect for another individual (Craig Wright). My idea is very simple. Shard a UTXO ledger by transaction hash mod numShards. There is "wiggle room" for nodes to shard with different values, as it can translate back and forth. Then, if 1024 shards, let shard 0 build blocks only with transaction hashes it "owns", and any shard using those as inputs will have to request the right from the shard. The shards manage and stores such "virtual blocks". Propagation of mempool transactions as well as "virtual blocks" is between shards only (or, mainly). Shards will request transactions from mempool by modulo numShards, and similar with the "virtual block" (where the boundaries of that block is the Merkle tree, so it naturally also splits and combines so people can use different numShards). The central block header is signed by the "coordinator" (via proof-of-work or proof-of-stake or proof-of-suffrage) who combines the Merkle roots of the sub-blocks. They trust all their "sub-nodes" internally. Likewise, the transaction fees can be done easily in UTXO-format by each sub-node reporting their own output for coinbase. Assuming 1 MB blocks and 1024 shards, 5000 transactions per block, on average 2-3 inputs per transaction, on average 10-15 requests per shard-pair. The geographical distribution solves the bandwidth bottleneck (as well as computation and storage to some extent) and lets less advanced hardware still team-up to easily operate on gigabyte (or more) blocks. What is the added latency would people here say from the geographical distribution of the shards?
 
-23h ago
+1d ago
 
 ---
 
@@ -154,7 +154,7 @@ I was recently censored by Edmund something, so I thought I would ask this commu
 
 ZKsync is retiring its original Lite network, formalizing a shift toward ZKsync Era and the ZK Stack as activity on the legacy rollup fades.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
@@ -240,7 +240,7 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 364 • 👍 36 • 💬 133 • ⏱️ 6:25 • 4h ago
+👁️ 730 • 👍 48 • 💬 162 • ⏱️ 6:25 • 4h ago
 
 ---
 
@@ -250,7 +250,17 @@ BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available ever
 
 📺 Lark Davis
 
-👁️ 8K • 👍 598 • 💬 43 • ⏱️ 37:57 • 5h ago
+👁️ 11K • 👍 688 • 💬 64 • ⏱️ 37:57 • 5h ago
+
+---
+
+**[HOOD Acquisition, BMNR Buys ETH, NFLX Bid War | Market Monitor](https://www.youtube.com/watch?v=SldlYlpc3uo)**
+
+Get lifetime access to my full investing system + all spreadsheets, my real-time portfolio, trade alerts, member-only livestreams, ...
+
+📺 Future Investing
+
+👁️ 2K • 👍 146 • 2h ago
 
 ---
 
@@ -260,7 +270,17 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 71K • 👍 3K • 💬 363 • ⏱️ 11:32 • 1d ago
+👁️ 72K • 👍 3K • 💬 374 • ⏱️ 11:32 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KlHoU85sq_A)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 295 • 👍 41 • 💬 3 • ⏱️ 5:35 • 28m ago
 
 ---
 
@@ -270,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 304 • 👍 27 • 💬 3 • ⏱️ 4:33 • 7h ago
+👁️ 395 • 👍 30 • 💬 3 • ⏱️ 4:33 • 8h ago
 
 ---
 
@@ -280,7 +300,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 144 • 💬 7 • ⏱️ 4:57 • 15h ago
+👁️ 2K • 👍 143 • 💬 7 • ⏱️ 4:57 • 15h ago
 
 ---
 
@@ -290,27 +310,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 2K • 👍 196 • 💬 105 • ⏱️ 5:16 • 15h ago
-
----
-
-**[&quot;Why the Next Bitcoin &amp; Crypto Rally Won’t Start Until 2026&quot;- Mark Yusko](https://www.youtube.com/watch?v=x3xi-S0Mbpw)**
-
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
-
-📺 Savvy Finance
-
-👁️ 10K • 👍 407 • 💬 184 • ⏱️ 19:45 • 22h ago
-
----
-
-**[Bitcoin and Ethereum Price Update | Are We Really Safe?](https://www.youtube.com/watch?v=8d6meQoAnZE)**
-
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
-
-📺 Crypto Tips
-
-👁️ 11K • 👍 748 • 💬 91 • ⏱️ 8:01 • 1d ago
+👁️ 2K • 👍 205 • 💬 105 • ⏱️ 5:16 • 15h ago
 
 ---
 
@@ -324,13 +324,13 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=wn48Y6PjqtE)**
+**[&quot;Why the Next Bitcoin &amp; Crypto Rally Won’t Start Until 2026&quot;- Mark Yusko](https://www.youtube.com/watch?v=x3xi-S0Mbpw)**
 
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
 
-📺 Guitar Repair@StringTech
+📺 Savvy Finance
 
-👁️ 13K • 👍 3K • 1d ago
+👁️ 11K • 👍 424 • 💬 186 • ⏱️ 19:45 • 23h ago
 
 ---
 

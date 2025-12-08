@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T17:26:22.462698+00:00'
+updated: '2025-12-08T17:44:58.235948+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 17:26 UTC  
+**Last Updated:** December 08, 2025 at 17:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -86,7 +86,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
-22h ago
+23h ago
 
 ---
 
@@ -102,7 +102,7 @@ Just sharing a small test clip from a sim environment: simple walking + a few co
 
 Robotic dogs cause a scene at art fair. AI tech billionaires as robots exhibit at Art Basel Miami 2025.
 
-1m ago
+20m ago
 
 ---
 
@@ -130,7 +130,7 @@ Seeking Alpha • 3d ago
 
 The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
 
-Breaking Defense • 2h ago
+Breaking Defense • 3h ago
 
 ---
 
@@ -200,17 +200,7 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 18K • 👍 382 • 💬 184 • ⏱️ 4:05 • 3d ago
-
----
-
-**[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
-
-Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
-
-📺 MarketBeat
-
-👁️ 34K • 👍 1K • 💬 85 • ⏱️ 24:47 • 2d ago
+👁️ 18K • 👍 383 • 💬 184 • ⏱️ 4:05 • 3d ago
 
 ---
 
@@ -220,7 +210,17 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 130K • 👍 606 • 💬 216 • ⏱️ 1:03 • 2d ago
+👁️ 137K • 👍 641 • 💬 227 • ⏱️ 1:03 • 2d ago
+
+---
+
+**[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
+
+Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
+
+📺 MarketBeat
+
+👁️ 35K • 👍 1K • 💬 85 • ⏱️ 24:47 • 2d ago
 
 ---
 
@@ -230,7 +230,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 78K • 👍 637 • 💬 295 • ⏱️ 2:30 • 5d ago
+👁️ 79K • 👍 641 • 💬 298 • ⏱️ 2:30 • 5d ago
 
 ---
 
@@ -240,7 +240,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 21K • 👍 190 • 💬 6 • ⏱️ 0:25 • 1d ago
+👁️ 22K • 👍 197 • 💬 6 • ⏱️ 0:25 • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hosting
 
 📺 Fin Tek
 
-👁️ 77K • 👍 2K • 💬 194 • ⏱️ 21:31 • 2d ago
+👁️ 78K • 👍 2K • 💬 204 • ⏱️ 21:31 • 2d ago
 
 ---
 
@@ -260,7 +260,7 @@ Unitree's latest demos reveal that kickboxing is no longer just for its smaller 
 
 📺 CNET
 
-👁️ 27K • 👍 617 • 💬 94 • ⏱️ 6:05 • 1d ago
+👁️ 28K • 👍 623 • 💬 95 • ⏱️ 6:05 • 1d ago
 
 ---
 
@@ -270,27 +270,27 @@ Here's what happened when I asked a robot receptionist about partner models at a
 
 📺 AI Robot Reality
 
-👁️ 8K • 👍 173 • 💬 4 • ⏱️ 0:19 • 1d ago
+👁️ 9K • 👍 187 • 💬 6 • ⏱️ 0:19 • 1d ago
 
 ---
 
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=3Mt2UGY_6lM)**
+**[🇺🇲 What Happens When You Build a Robot Girlfriend? 😱 #usatech #humanoid #robot #usa](https://www.youtube.com/watch?v=blpHZd8WE3Y)**
 
-At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+What Happens When You Build a Robot Girlfriend? #usatech #humanoid #robot #usa AI robot, humanoid robotics & futuristic ...
 
-📺 Humanoid Robot 🤖
+📺 Success Upgrade Lab
 
-👁️ 56K • 👍 557 • 💬 12 • ⏱️ 0:19 • 2d ago
+👁️ 13K • 💬 2 • ⏱️ 0:14 • 1d ago
 
 ---
 
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
+**[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
 
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
+Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
 
-📺 AI Revolution
+📺 CNN
 
-👁️ 100K • 👍 2K • 💬 403 • ⏱️ 12:07 • 2d ago
+👁️ 41K • 👍 632 • 💬 269 • ⏱️ 0:41 • 13h ago
 
 ---
 
