@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T15:45:44.315605+00:00'
+updated: '2025-12-08T15:57:04.523625+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 15:45 UTC  
+**Last Updated:** December 08, 2025 at 15:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** +3.3%  
-**30d:** -13.8%  
-**90d:** -29.0%  
-**1y:** -16.9%  
+**24h:** +2.5%  
+**7d:** +4.0%  
+**30d:** -13.2%  
+**90d:** -28.5%  
+**1y:** -16.3%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138,452 ETH, equivalent to about US$435 million, in its latest accumulation round. This bold move boosts BitMine’s total crypto holdings significantly, reinforcing its position as one of the largest institutional holders of Ethereum (ETH) worldwide. Tom Lee and his team cited several catalysts behind this surge: the recent Fusaka upgrade to the Ethereum network — implemented 3 December — which promises improved scalability, security and usability. Additionally, macroeconomic conditions appear favorable, with expectations of a loosening monetary policy by the Federal Reserve potentially supporting broader crypto market recovery. The scale of the purchase (over 138,000 ETH in just a week) marks a dramatic acceleration compared to previous buying patterns — reportedly about 156 % more than the firm’s weekly average four weeks ago. In doing so, BitMine pushes further toward its longer-term target of controlling up to 5 % of Ethereum’s total supply. In sum, this $435 million acquisition underlines BitMine’s growing conviction in Ethereum’s long-term potential, signaling confidence in both network upgrades and macroeconomic conditions that may favor a renewed bull cycle in crypto.
 
-50m ago
+1h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 13h ago
 
 BitMine has reported its first annual earnings since pivoting to an Ethereum treasury strategy. The company has amassed 3.86 million ETH, equivalent to around 3% ...
 
-Yahoo Finance • 40m ago
+Yahoo Finance • 52m ago
 
 ---
 
@@ -184,7 +184,7 @@ The Motley Fool • 20h ago
 
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -228,7 +228,7 @@ Seeking Alpha • 3d ago
 
 The cryptocurrency market is flashing green during Monday's trading session, 8 December, 2025, prompting investors to ask why crypto is going up today .
 
-Finance Magnates • 4h ago
+Finance Magnates • 5h ago
 
 ---
 
@@ -252,7 +252,7 @@ BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available ever
 
 📺 Lark Davis
 
-👁️ 8K • 👍 598 • 💬 43 • ⏱️ 37:57 • 3h ago
+👁️ 8K • 👍 598 • 💬 43 • ⏱️ 37:57 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T15:45:44.309595+00:00'
+updated: '2025-12-08T15:57:04.518443+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 15:45 UTC  
+**Last Updated:** December 08, 2025 at 15:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,906.60
+### $89,751.65
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -1.7%  
-**30d:** -14.2%  
-**90d:** -21.1%  
-**1y:** -7.7%  
+**24h:** +0.5%  
+**7d:** -1.4%  
+**30d:** -14.0%  
+**90d:** -20.8%  
+**1y:** -7.4%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 They didn't trade, they didn't sell to buy back later, they didn't follow the 4-year cycle, nothing. Just HODL Replicate them.
 
-4h ago
+5h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 4h ago
 
 Self-proclaimed smartest man in the world claims Bitcoin will soon surge to a new all-time high. Crypto community reactions remain overwhelmingly skeptical. Market analysts warn ...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -281,7 +281,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever been. His bullish outlook drew swift pushback from a famous short-seller.
 
-⬆️ 2 • 💬 1 • 4d ago • [Business Insider](https://www.businessinsider.com/bitcoin-price-eric-jackson-bullish-ethereum-crypto-btc-eth-ai-2025-12)
+⬆️ 2 • 💬 1 • 5d ago • [Business Insider](https://www.businessinsider.com/bitcoin-price-eric-jackson-bullish-ethereum-crypto-btc-eth-ai-2025-12)
 
 ---
 
@@ -295,7 +295,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 1 • 💬 0 • 47m ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 1 • 💬 0 • 58m ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 

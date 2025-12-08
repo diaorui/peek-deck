@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T15:45:44.301181+00:00'
+updated: '2025-12-08T15:57:04.511023+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
+- repositories
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 15:45 UTC  
+**Last Updated:** December 08, 2025 at 15:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
 
-🔗 [withmartian.com](https://withmartian.com/prize) • 2h ago
+🔗 [withmartian.com](https://withmartian.com/prize) • 3h ago
 
 ---
 
@@ -71,7 +71,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 Source: https://openrouter.ai/state-of-ai TL;DR 1. new landscape of open source: Chinese models rise, market moves beyond monopoly Although proprietary closed-source models still dominate, the market share of open-source models has steadily grown to about one-third. Notably, a significant portion of this growth comes from models developed in China, such as the DeepSeek, Qwen and Kimi, which have gained a large global user base thanks to their strong performance and rapid iteration. 2. Open-Source AI's top use isn't productivity, it's "role-playing" Contrary to the assumption that AI is mainly used for productivity tasks such as programming and writing, data shows that in open-source models, the largest use case is creative role-playing. Among all uses of open-source models, more than half (about 52%) fall under the role-playing category. 3. the "cinderella effect": winning users hinges on solving the problem the "first time" When a newly released model successfully solves a previously unresolved high-value workload for the first time, it achieves a perfect “fit”, much like Cinderella putting on her unique glass slipper. Typically, this “perfect fit” is realized through the model’s new capabilities in agentic reasoning, such as multi-step reasoning or reliable tool use that address a previously difficult business problem. The consequence of this “fit” is a strong user lock-in effect. Once users find the “glass slipper” model that solves their core problem, they rarely switch to newer or even technically superior models that appear later. 4. rise of agents: ai shifts from "text generator" to "task executor" Current models not only generate text but also take concrete actions through planning, tool invocation, and handling long-form context to solve complex problems. Key data evidence supporting this trend includes: Proliferation of reasoning models: Models with multi-step reasoning capabilities now process more than 50% of total tokens, becoming the mainstream in the market. Surge in context length: Over the past year, the average number of input tokens (prompts) per request has grown nearly fourfold. This asymmetric growth is primarily driven by use cases in software development and technical reasoning, indicating that users are engaging models with increasingly complex background information. Normalization of tool invocation: An increasing number of requests now call external APIs or tools to complete tasks, with this proportion stabilizing at around 15% and continuing to grow, marking AI’s role as the “action hub” connecting the digital world. 5. the economics of AI: price isn't the only deciding factor Data shows that demand for AI models is relatively “price inelastic,” meaning there is no strong correlation between model price and usage volume. When choosing a model, users consider cost, quality, reliability, and specific capabilities comprehensively, rather than simply pursuing the lowest price. Value, not price, is the core driver of choice. The research categorizes models on the market into four types, clearly revealing this dynamic: Efficient Giants: Such as Google Gemini Flash, with extremely low cost and massive usage, serving as an “attractive default option for high-volume or long-context workloads.” Premium Leaders: Such as Anthropic Claude Sonnet, which are expensive yet heavily used, indicating that users are willing to pay for “superior reasoning ability and scalable reliability.” Premium Specialists: Such as OpenAI GPT-4, which are extremely costly and relatively less used, dedicated to “niche, high-stakes critical tasks where output quality far outweighs marginal token cost.” Long Tail Market: Includes a large number of low-cost, low-usage models that meet various niche needs.
 
-2h ago
+3h ago
 
 ---
 
@@ -79,7 +79,7 @@ Source: https://openrouter.ai/state-of-ai TL;DR 1. new landscape of open source:
 
 : Analysts worry lazy users could have agents complete mandatory infosec training, and attackers could do far nastier things
 
-🔗 [theregister.com](https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/) • 20m ago
+🔗 [theregister.com](https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/) • 31m ago
 
 ---
 
@@ -123,7 +123,7 @@ Explore the true history of convolutional neural networks, from Fukushima’s ne
 
 Powell noted that leading tech firms have only begun to tap debt markets to fund the next phase of AI expansion, suggesting additional capital is on the way.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -137,7 +137,7 @@ Fox Business • 1h ago
 
 **[AI Computer Startup Hits $4.5 Billion Valuation in Seed Round](https://www.bloomberg.com/news/articles/2025-12-08/ai-computer-startup-hits-4-5-billion-valuation-in-seed-round)**
 
-Bloomberg.com • 45m ago
+Bloomberg.com • 57m ago
 
 ---
 
@@ -145,13 +145,13 @@ Bloomberg.com • 45m ago
 
 More middle-age and older Americans are becoming entrepreneurs and seizing control of their careers. The leap can be stressful but ultimately rewarding—just listen to the people who’ve already done it.
 
-Esquire • 45m ago
+Esquire • 57m ago
 
 ---
 
 **[Intel, Adobe and these other ‘AI loser’ stocks could get left behind in the next phase of the tech boom](https://www.marketwatch.com/story/intel-adobe-and-these-other-ai-loser-stocks-could-get-left-behind-in-the-next-phase-of-the-tech-boom-e6cd25ef?gaa_at=eafs&gaa_n=AWEtsqceffS3pPZj5dWOl-in5EbVJy2BNxbG6u_VPFxUu2X6heBLnJfsB-Qc&gaa_ts=6936f218&gaa_sig=O6rCSh6C7DMajRFkuI29kdZ8SiVOEt8RtyvjTRfbLkmLetxvk8z7Fr4ZXxw1hui8vvKRW00GGMgwMVblcjU4yQ%3D%3D)**
 
-MarketWatch • 28m ago
+MarketWatch • 40m ago
 
 ---
 
@@ -643,7 +643,7 @@ The paper introduces Reward Forcing, which enhances video generation by updating
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 33m ago
+⭐ 1.6k • 🔱 132 • 45m ago
 
 ---
 
@@ -683,7 +683,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 840 • 🔱 22 • 20h ago
+⭐ 840 • 🔱 22 • 21h ago
 
 ---
 
@@ -723,7 +723,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 685 • 🔱 104 • 2m ago
+⭐ 685 • 🔱 104 • 13m ago
 
 ---
 

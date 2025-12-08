@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T15:45:44.318874+00:00'
+updated: '2025-12-08T15:57:04.526404+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 15:45 UTC  
+**Last Updated:** December 08, 2025 at 15:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -178,7 +178,7 @@ wallpaper.com • 1d ago
 
 Chinese robotics frim EngineAI shows CEO being kicked by T800 robot to prove real-world capabilities amid CGI speculation.
 
-Interesting Engineering • 6h ago
+Interesting Engineering • 7h ago
 
 ---
 
