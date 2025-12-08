@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T22:29:08.357208+00:00'
+updated: '2025-12-08T22:45:59.685501+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 22:29 UTC  
+**Last Updated:** December 08, 2025 at 22:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,978.53
+### $90,800.76
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** -0.4%  
-**30d:** -13.1%  
-**90d:** -20.0%  
-**1y:** -6.4%  
+**24h:** +0.7%  
+**7d:** -0.6%  
+**30d:** -13.2%  
+**90d:** -20.1%  
+**1y:** -6.6%  
 
 ---
 
@@ -101,7 +101,7 @@ They have a promotion going on with Ledger
 
 Back in 2011–2013, physical bitcoins were actually a thing. They were known as Casascius Coins — metal tokens with a hologram on the back hiding a private key printed on paper. Peel the hologram, and the BTC could be moved to a regular blockchain address. What makes this story even wilder is how many people never touched them for years. Some holders treated these coins like collectibles, others forgot about them entirely. Only recently, more and more of these physical bitcoins have been getting redeemed after sitting untouched for a decade or more. From novelty item to time capsule holding real money, Casascius coins remain one of the strangest and most iconic relics of early Bitcoin history.
 
-6h ago
+7h ago
 
 ---
 
@@ -113,7 +113,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -151,7 +151,7 @@ They didn't trade, they didn't sell to buy back later, they didn't follow the 4-
 
 BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Block • 9h ago
 
 What should investors make of Bitcoin's impressive rally off of weekend lows?
 
-Yahoo Finance • 41m ago
+Yahoo Finance • 58m ago
 
 ---
 
@@ -219,7 +219,7 @@ CoinDesk • 1h ago
 
 Traders on prediction markets are divided, giving an equal chance that bitcoin drops below $80,000 or rises above $100,000 this year....
 
-Sherwood News • 5h ago
+Sherwood News • 6h ago
 
 ---
 
@@ -371,7 +371,7 @@ Bitcoin today with Benjamin Cowen!
 
 📺 MMCrypto
 
-👁️ 36K • 👍 3K • 💬 916 • ⏱️ 7:39 • 13h ago
+👁️ 36K • 👍 3K • 💬 916 • ⏱️ 7:39 • 14h ago
 
 ---
 
@@ -381,7 +381,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 413 • ⏱️ 18:52 • 22h ago
+👁️ 29K • 👍 2K • 💬 413 • ⏱️ 18:52 • 23h ago
 
 ---
 

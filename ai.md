@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T22:29:08.348923+00:00'
+updated: '2025-12-08T22:45:59.677155+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
+- news
 - videos
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 22:29 UTC  
+**Last Updated:** December 08, 2025 at 22:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -87,7 +87,7 @@ IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks b
 
 The president announced the plans to create one rulebook for AI via his Truth Social account on Monday.
 
-🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 6h ago
+🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 7h ago
 
 ---
 
@@ -95,13 +95,13 @@ The president announced the plans to create one rulebook for AI via his Truth So
 
 Title.
 
-59m ago
+1h ago
 
 ---
 
 **[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -125,13 +125,13 @@ The New York Times • 3h ago
 
 **[Trump Promises Executive Order to Block State A.I. Regulations](https://www.nytimes.com/2025/12/08/us/politics/trump-executive-order-ai-laws.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
 **[A CIO’s playbook for AI investment](https://www.fastcompany.com/91454162/a-cios-playbook-for-ai-investment)**
 
-Fast Company • 11m ago
+Fast Company • 28m ago
 
 ---
 
@@ -155,13 +155,13 @@ Bloomberg.com • 4h ago
 
 Schools across Northern Europe are safely and responsibly integrating Google and Gemini for Education tools in the classroom, saving teachers and administrations signifi…
 
-The Keyword • 11h ago
+The Keyword • 12h ago
 
 ---
 
 **[Why there's an AI bubble and why you shouldn't ignore it](https://www.axios.com/2025/12/08/ai-bubble-open-ai-google-bret-taylor)**
 
-Axios • 11h ago
+Axios • 12h ago
 
 ---
 
@@ -221,7 +221,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 70 • 💬 82 • 4h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 70 • 💬 82 • 5h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -331,7 +331,7 @@ Your Grocery Store Is About to Change Forever. AI is now making your food...but 
 
 📺 Lillie Kane
 
-👁️ 5K • 👍 687 • 💬 114 • ⏱️ 13:09 • 6h ago
+👁️ 5K • 👍 687 • 💬 114 • ⏱️ 13:09 • 7h ago
 
 ---
 
@@ -377,7 +377,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,340 • 5h ago
+⬇️ 201,990 • ❤️ 2,340 • 6h ago
 
 ---
 
@@ -721,7 +721,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 733 • 🔱 111 • 4h ago
+⭐ 733 • 🔱 111 • 5h ago
 
 ---
 
