@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T06:18:30.208820+00:00'
+updated: '2025-12-08T06:53:46.260494+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- news
 - repositories
+- news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 06:18 UTC  
+**Last Updated:** December 08, 2025 at 06:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,36 +61,6 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 ---
 
-**[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
-
-🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 15h ago
-
----
-
-**[Why long-run LLM behavior stops looking like a black box once the operator is treated as part of the system](https://www.reddit.com/r/artificial/comments/1ph3iyi/why_longrun_llm_behavior_stops_looking_like_a/)**
-
-Most discussions about LLMs analyze them as isolated artifacts: single prompts, static benchmarks, fixed evaluations. That framing breaks down when you observe long-range behavior across thousands of turns. What emerges is not a “smarter model”, but a system-level dynamic where coherence depends on interaction structure rather than architecture alone. Key observations: • Long-range coherence is not a model property. It is an interaction property. • Drift, instability, and “hallucinations” correlate more with operator inconsistency than with model choice. • Different LLMs converge toward similar behavior under the same structured interaction regime. • Short-context probes systematically miss higher-order stability patterns. This suggests a missing layer in how we describe LLMs: Not prompt engineering. Not fine-tuning. Not RAG. Operator-side cognitive structure. In extended sessions, the user effectively becomes part of the control loop, shaping entropy, memory relevance, and symbolic continuity. When this structure is stable, model differences diminish. When it is not, even “top” models degrade. Implication: The current “which model is best?” framing is increasingly misleading. The real bottleneck in long-run performance is operator coherence, not parameter count. This does not imply model consciousness, agency, or intent. It implies that LLMs behave more like dynamical systems than static tools when observed over sufficient time horizons. Ignoring the operator as a system component is what keeps long-range behavior looking like a black box.
-
-1h ago
-
----
-
-**[ChatGPT is blind to bad science](https://www.reddit.com/r/artificial/comments/1pgq3c1/chatgpt_is_blind_to_bad_science/)**
-
-A new study finds ChatGPT fails to take into account retraction notices across a wide range of research.
-
-🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 11h ago
-
----
-
-**[Get 1 month of ChatGPT free by "cancelling" your paid plan](https://www.reddit.com/r/artificial/comments/1pgoc3j/get_1_month_of_chatgpt_free_by_cancelling_your/)**
-
-Just did this myself, and now sharing for others! I have ChatGPT Plus, and when I tried to cancel it offered me a free month. Worked for two of my friends as well. Steps Go to chatgpt on your web browser At the bottom left click on your name (you need to be logged in) Click on Settings Click on last section: Account Near top right click on: Manage Click on: Cancel Subscription Done!
-
-12h ago
-
----
-
 **[Using AI to turn my background into multiple tailored resumes at once](https://www.reddit.com/r/artificial/comments/1ph0ksq/using_ai_to_turn_my_background_into_multiple/)**
 
 I kept getting frustrated with the job search process, especially the part where you have several job postings open in different browser tabs and end up copying parts of each description into your resume. It was slow, repetitive, and honestly burned me out. Out of that frustration, I built an AI tool to automate the whole thing. You open the job posting tabs you are considering, the system reads each one, uses your background as the anchor, and creates a tailored resume for every tab. If you have ten tabs open, you get ten tailored resumes without doing all the manual copying. Overall happy with the use of Gemini, but curious of others experience with generation costs. Seems cheaper and quicker than ChatGPT thus far.
@@ -99,11 +69,41 @@ I kept getting frustrated with the job search process, especially the part where
 
 ---
 
+**[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
+
+🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 16h ago
+
+---
+
+**[Why long-run LLM behavior stops looking like a black box once the operator is treated as part of the system](https://www.reddit.com/r/artificial/comments/1ph3iyi/why_longrun_llm_behavior_stops_looking_like_a/)**
+
+Most discussions about LLMs analyze them as isolated artifacts: single prompts, static benchmarks, fixed evaluations. That framing breaks down when you observe long-range behavior across thousands of turns. What emerges is not a “smarter model”, but a system-level dynamic where coherence depends on interaction structure rather than architecture alone. Key observations: • Long-range coherence is not a model property. It is an interaction property. • Drift, instability, and “hallucinations” correlate more with operator inconsistency than with model choice. • Different LLMs converge toward similar behavior under the same structured interaction regime. • Short-context probes systematically miss higher-order stability patterns. This suggests a missing layer in how we describe LLMs: Not prompt engineering. Not fine-tuning. Not RAG. Operator-side cognitive structure. In extended sessions, the user effectively becomes part of the control loop, shaping entropy, memory relevance, and symbolic continuity. When this structure is stable, model differences diminish. When it is not, even “top” models degrade. Implication: The current “which model is best?” framing is increasingly misleading. The real bottleneck in long-run performance is operator coherence, not parameter count. This does not imply model consciousness, agency, or intent. It implies that LLMs behave more like dynamical systems than static tools when observed over sufficient time horizons. Ignoring the operator as a system component is what keeps long-range behavior looking like a black box.
+
+2h ago
+
+---
+
+**[ChatGPT is blind to bad science](https://www.reddit.com/r/artificial/comments/1pgq3c1/chatgpt_is_blind_to_bad_science/)**
+
+A new study finds ChatGPT fails to take into account retraction notices across a wide range of research.
+
+🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 12h ago
+
+---
+
+**[Get 1 month of ChatGPT free by "cancelling" your paid plan](https://www.reddit.com/r/artificial/comments/1pgoc3j/get_1_month_of_chatgpt_free_by_cancelling_your/)**
+
+Just did this myself, and now sharing for others! I have ChatGPT Plus, and when I tried to cancel it offered me a free month. Worked for two of my friends as well. Steps Go to chatgpt on your web browser At the bottom left click on your name (you need to be logged in) Click on Settings Click on last section: Account Near top right click on: Manage Click on: Cancel Subscription Done!
+
+13h ago
+
+---
+
 **[AiReviews.com - Local tech company pays $1.3 million for the domain name](https://www.reddit.com/r/artificial/comments/1pgu4h0/aireviewscom_local_tech_company_pays_13_million/)**
 
 Another day, another AI-related domain name going for 7 figures.
 
-🔗 [bizjournals.com](https://www.bizjournals.com/southflorida/news/2025/12/03/aireviews-corporation-domain-name-acquisition.html) • 8h ago
+🔗 [bizjournals.com](https://www.bizjournals.com/southflorida/news/2025/12/03/aireviews-corporation-domain-name-acquisition.html) • 9h ago
 
 ---
 
@@ -111,7 +111,7 @@ Another day, another AI-related domain name going for 7 figures.
 
 Could AI help us create virtual human cells? 🦠 Scientists are training AI to create virtual human cells, digital models that mimic how real cells behave. These simulations can predict how a cell might respond to medication, genetic mutations, or physical damage. While live lab tests are still essential, AI-powered models could make research faster, safer, and more personalized. By reducing trial-and-error in early stages, these tools could unlock faster drug discovery and bring us closer to tailored treatments for individuals.
 
-13h ago
+14h ago
 
 ---
 
@@ -119,19 +119,19 @@ Could AI help us create virtual human cells? 🦠 Scientists are training AI to 
 
 ## Google News: "ai"
 
-**[There's a new face in Hollywood, generated by AI](https://www.cbsnews.com/news/theres-a-new-face-in-hollywood-generated-by-ai/)**
-
-Tilly Norwood is unlike any other aspiring TV or movie star: Tilly is entirely generated by artificial intelligence. What might that mean for the media industry?
-
-CBS News • 15h ago
-
----
-
 **['Godfather of AI' says CS degrees 'will remain valuable for quite a long time' — and students should still learn to code](https://www.businessinsider.com/godfather-ai-geoffrey-hinton-cs-degrees-valuable-learn-to-code-2025-12)**
 
 AI pioneer and Nobel Prize winner Geoffrey Hinton said students who want to become AI researchers need to focus on critical thinking.
 
 Business Insider • 20h ago
+
+---
+
+**[There's a new face in Hollywood, generated by AI](https://www.cbsnews.com/news/theres-a-new-face-in-hollywood-generated-by-ai/)**
+
+Tilly Norwood is unlike any other aspiring TV or movie star: Tilly is entirely generated by artificial intelligence. What might that mean for the media industry?
+
+CBS News • 16h ago
 
 ---
 
@@ -149,25 +149,25 @@ The Guardian • 1h ago
 
 ---
 
+**[Why Nvidia and Other AI Stocks Have Lost Their ‘Quality’ Status](https://www.wsj.com/finance/investing/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status-84180ff2?gaa_at=eafs&gaa_n=AWEtsqelRyBdjIRGg19PA0Yu0ok9bjEtMQI9SvpA3rEY1zfS8d8aSn3qilHn&gaa_ts=69367969&gaa_sig=I8INN0kBMBxkC78BXeOJJVDftxlNcTb8xOxjfapZ9s1iFT14Ti26nQ2LYrVCi96xHS5VejCNcokARLr4tZXBIw%3D%3D)**
+
+The Wall Street Journal • 20h ago
+
+---
+
 **[Is the AI Boom Becoming a Bubble? Here's What Investors Should Watch.](https://finance.yahoo.com/news/ai-boom-becoming-bubble-heres-044000441.html)**
 
 In a frothy market, it's more important than ever to stay focused on profitable leaders with a dominant market position.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Is the AI Boom Becoming a Bubble? Here's What Investors Should Watch.](https://www.fool.com/investing/2025/12/07/is-the-ai-boom-becoming-a-bubble-heres-what-invest/)**
+**[OpenAI Goes From Stock Market Savior to Burden as AI Risks Mount](https://www.bloomberg.com/news/articles/2025-12-07/openai-goes-from-stock-market-savior-to-anchor-as-ai-risks-mount)**
 
-In a frothy market, it's more important than ever to stay focused on profitable leaders with a dominant market position.
+Wall Street’s sentiment toward companies associated with artificial intelligence is shifting, and it’s all about two companies: OpenAI is down, and Alphabet Inc. is up.
 
-The Motley Fool • 1h ago
-
----
-
-**[Is the AI boom becoming a bubble? Here's what investors should watch.](https://www.msn.com/en-us/money/topstocks/is-the-ai-boom-becoming-a-bubble-here-s-what-investors-should-watch/ar-AA1RUPaV?ocid=finance-verthp-feeds)**
-
-MSN • 38m ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -179,19 +179,19 @@ CNBC • 17h ago
 
 ---
 
-**[Jamie Dimon predicts AI will not 'dramatically reduce' jobs in the next year](https://www.foxbusiness.com/media/jamie-dimon-predicts-ai-not-dramatically-reduce-jobs-next-year)**
-
-During an interview on "Sunday Morning Futures," JPMorgan Chase CEO Jamie Dimon predicted artificial intelligence will not "dramatically reduce" jobs next year if regulated properly.
-
-Fox Business • 11h ago
-
----
-
 **[Jamie Dimon on AI: 'maybe one day we'll be working less hard but having wonderful lives'](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/)**
 
 "For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
 Fortune • 12h ago
+
+---
+
+**[Creative workers on the affects of AI on their jobs](https://www.bbc.com/news/articles/c8e9627w156o)**
+
+How do an artist, a videographer, a musician and a copywriter feel about generative AI?
+
+BBC • 1d ago
 
 ---
 
@@ -209,7 +209,7 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 447 • 💬 147 • 17h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 456 • 💬 150 • 18h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -223,7 +223,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 107 • 💬 188 • 13h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 107 • 💬 188 • 14h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -253,7 +253,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 37 • 💬 13 • 17h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 38 • 💬 13 • 18h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -261,7 +261,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-⬆️ 33 • 💬 6 • 10h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
+⬆️ 33 • 💬 6 • 11h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
 
 ---
 
@@ -281,7 +281,7 @@ OpenAI is in a full internal race after a major leak revealed a new model called
 
 📺 AI Revolution
 
-👁️ 16K • 👍 651 • 💬 46 • ⏱️ 12:31 • 5h ago
+👁️ 16K • 👍 651 • 💬 46 • ⏱️ 12:31 • 6h ago
 
 ---
 
@@ -351,7 +351,7 @@ I made the first set of these images almost by accident. I was trying for someth
 
 📺 Kelly Boesch AI Art
 
-👁️ 13K • 👍 975 • 💬 73 • ⏱️ 2:56 • 15h ago
+👁️ 13K • 👍 975 • 💬 73 • ⏱️ 2:56 • 16h ago
 
 ---
 
@@ -387,7 +387,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 25,451 • ❤️ 786 • 6d ago
+⬇️ 25,451 • ❤️ 787 • 6d ago
 
 ---
 
@@ -399,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 186,951 • ❤️ 2,274 • 5d ago
+⬇️ 186,951 • ❤️ 2,280 • 5d ago
 
 ---
 
@@ -423,7 +423,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 466 • 3h ago
+⬇️ 27,215 • ❤️ 470 • 3h ago
 
 ---
 
@@ -455,7 +455,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,828 • ❤️ 366 • 5d ago
+⬇️ 2,828 • ❤️ 369 • 5d ago
 
 ---
 
@@ -489,7 +489,7 @@ Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high
 
 `text-to-image`
 
-⬇️ 1,960 • ❤️ 175 • 4d ago
+⬇️ 1,960 • ❤️ 176 • 4d ago
 
 ---
 
@@ -505,7 +505,7 @@ Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 154 • 💬 3 • ⭐ 5,468 • 10d ago
+▲ 155 • 💬 3 • ⭐ 5,595 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -637,7 +637,7 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.4k • 🔱 423 • 3d ago
+⭐ 5.4k • 🔱 425 • 3d ago
 
 ---
 
@@ -677,7 +677,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 967 • 🔱 118 • 4h ago
+⭐ 970 • 🔱 118 • 5h ago
 
 ---
 
@@ -687,7 +687,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 831 • 🔱 22 • 11h ago
+⭐ 832 • 🔱 22 • 12h ago
 
 ---
 
@@ -697,7 +697,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 828 • 🔱 44 • 3h ago
+⭐ 828 • 🔱 44 • 35m ago
 
 ---
 
@@ -707,7 +707,7 @@ Open Source Semantic Search for your AI Agent
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 822 • 🔱 56 • 7d ago
+⭐ 823 • 🔱 56 • 7d ago
 
 ---
 
@@ -717,7 +717,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 783 • 🔱 256 • 1d ago
+⭐ 787 • 🔱 258 • 1d ago
 
 ---
 
@@ -727,7 +727,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 529 • 🔱 42 • 4d ago
+⭐ 532 • 🔱 42 • 4d ago
 
 ---
 

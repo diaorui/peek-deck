@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T06:18:30.216531+00:00'
+updated: '2025-12-08T06:53:46.269470+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 06:18 UTC  
+**Last Updated:** December 08, 2025 at 06:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,404.06
+### $91,603.64
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** -0.2%  
-**30d:** -12.9%  
-**90d:** -19.8%  
-**1y:** -6.2%  
+**24h:** +2.3%  
+**7d:** +0.0%  
+**30d:** -12.7%  
+**90d:** -19.7%  
+**1y:** -6.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1822.80B
+**Market Cap:** $1828.78B
 Rank #1
 
-**Circulating Supply:** 19,959,196 BTC
+**Circulating Supply:** 19,959,215 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.5%
+-27.3%
 
 **All-Time Low:** $67.81
-+134689.9%
++135012.8%
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars per week and just set up a direct deposit with strike to do 300 dollars per paycheck (biweekly). Will instantly move my funds to a cold wallet super excited and bullish about btc 5-20 year time horizon EDIT: Just learned about UTXO. I even went to the lengths of setting up direct deposits so I can withdraw BTC faster. Now after learning this I guess the best way is to accumlate more and do one single withdrawal to a cold wallet rather than many smaller ones (correct me if I’m wrong please stilll tryna learn)
 
-3h ago
+4h ago
 
 ---
 
@@ -107,13 +107,13 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
-20h ago
+21h ago
 
 ---
 
 **[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -135,13 +135,13 @@ Some people on TV or online act like inflation is “not that bad” or even pre
 
 Mastercard’s Crypto Card Program enables consumers to use their crypto cards to pay with crypto for everyday transactions across 100 million+ acceptance locations.
 
-🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 13h ago
+🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 14h ago
 
 ---
 
-**[It’s insane how impatient people are.](https://www.reddit.com/r/Bitcoin/comments/1pgy50z/its_insane_how_impatient_people_are/)**
+**[Quick question don’t laugh](https://www.reddit.com/r/Bitcoin/comments/1pgyv8l/quick_question_dont_laugh/)**
 
-This statement applies both for price movement but also adoption. Much has been said about price movement, so I’m making this post to talk about adoption. I’ve heard people say that Bitcoin as a store of value and digital gold has strayed from Satoshi’s vision of Bitcoin as a peer to peer digital currency. I think this is misguided thinking. First, what is gold? If you were to ask our good friend (/s), Peter Schiff, he would say that gold is the soundest money known to man. So, if Bitcoin is becoming digital gold, that means Bitcoin is digital money. Wonderful. Mission accomplished? So why aren’t people transacting in Bitcoin? Why is it ONLY a store of value right now? Well, let’s look at Gold. People used to transact in gold when the government issued paper certificates backed in gold, and gold/silver coins of standard weights. This was necessary for gold to be a medium of exchange as well as a store of value. Without standardization, it’s impossible to know how much gold you are receiving. One gold bar does not necessarily equal one gold bar. One bitcoin, on the other hand, does equal one bitcoin. This is the power of Bitcoin that people don’t really see. It will always be peer to peer, even with investment banks joining the crowd, because there is no need for the government to standardize anything for the system to function. As of now, there are two main reasons why Bitcoin is not a medium of exchange. First, it isn’t accepted by many businesses. This is only because we are so early. There is really no reason to sell bitcoin right now to pay for services from a business and it’s complicated for businesses to accept bitcoin. As more and more people start to own more and more bitcoin, eventually people will start spending it because that’s just what they have available, and they will use it to buy the things they need. Businesses will start to accept Bitcoin because people will want to pay with it, and also because technology will be developed to automate tax compliance. Barring network failure, this seems inevitable, but it’s not going to take place in a year. This will take decades. Just stack. DCA and forget about it.
+Back in 2015 I first read an article about bitcoin and did some googling and I wanted to have some btc so I joined the pool because as a uni student from India in 2015 that was the only was I was gonna get some so I joined a mining pool but after a few days I lost interest. This is the screenshot from the mining pool I joined. Is there anyway to get the btc I mined there?
 
 5h ago
 
@@ -163,7 +163,7 @@ CoinDesk • 15h ago
 
 Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -173,11 +173,25 @@ Binance • 6h ago
 
 ---
 
+**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
+
+Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
+
+Financial Times • 1h ago
+
+---
+
+**[Analyst cuts 60% price target for popular Bitcoin stock](https://www.thestreet.com/crypto/markets/analyst-cuts-60-price-target-for-popular-bitcoin-stock)**
+
+TheStreet • 2d ago
+
+---
+
 **[Bitcoin Is Starting to Look Like a Digital Tulip](https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money)**
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
-Bloomberg.com • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -199,7 +213,7 @@ CNBC • 2d ago
 
 Which of these popular cryptocurrencies has more upside potential?
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -207,23 +221,7 @@ The Motley Fool • 9h ago
 
 Crypto volatility has returned, but has not slowed adoption by institutions
 
-Forbes • 9h ago
-
----
-
-**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
-
-Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
-
-Futurism • 1d ago
-
----
-
-**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
-
-JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
-
-Business Insider • 3d ago
+Forbes • 10h ago
 
 ---
 
@@ -313,7 +311,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 241 • ⏱️ 18:52 • 6h ago
+👁️ 16K • 👍 1K • 💬 241 • ⏱️ 18:52 • 7h ago
 
 ---
 
@@ -323,7 +321,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 310 • 💬 187 • ⏱️ 19:45 • 11h ago
+👁️ 7K • 👍 310 • 💬 187 • ⏱️ 19:45 • 12h ago
 
 ---
 
@@ -333,7 +331,7 @@ TIA PRO $1000 OFF LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK 
 
 📺 Jason Pizzino
 
-👁️ 9K • 👍 677 • 💬 216 • ⏱️ 29:13 • 3h ago
+👁️ 9K • 👍 677 • 💬 216 • ⏱️ 29:13 • 4h ago
 
 ---
 
@@ -363,7 +361,7 @@ Michael Saylor joins Bitcoin MENA to deliver a strategic outlook on the future o
 
 📺 Kevtech IT Support
 
-👁️ 4K • 👍 3K • 52m ago
+👁️ 4K • 👍 3K • 1h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T06:18:30.224898+00:00'
+updated: '2025-12-08T06:53:46.279172+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 06:18 UTC  
+**Last Updated:** December 08, 2025 at 06:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 **[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -56,7 +56,13 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
-11h ago
+12h ago
+
+---
+
+**[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
+
+42m ago
 
 ---
 
@@ -73,12 +79,6 @@ An old picture. The progress is in the coding, and testing, and tuning of the ha
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
 🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 2h ago
-
----
-
-**[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
-
-7m ago
 
 ---
 
@@ -100,7 +100,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 **[China's G1 humanoid robot is mastering combat skills at a terrifying rate](https://www.reddit.com/r/robotics/comments/1pghcyh/chinas_g1_humanoid_robot_is_mastering_combat/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -136,7 +136,7 @@ Seeking Alpha • 2d ago
 
 Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
 
-CNN • 17h ago
+CNN • 18h ago
 
 ---
 
@@ -274,7 +274,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 18K • 👍 157 • 💬 6 • ⏱️ 0:25 • 20h ago
+👁️ 18K • 👍 157 • 💬 6 • ⏱️ 0:25 • 21h ago
 
 ---
 
