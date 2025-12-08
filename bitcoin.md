@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T14:42:28.163301+00:00'
+updated: '2025-12-08T14:56:47.546846+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - videos
 - social
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 14:42 UTC  
+**Last Updated:** December 08, 2025 at 14:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,858.37
+### $90,895.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
+**24h:** +1.7%  
 **7d:** -0.3%  
 **30d:** -13.0%  
-**90d:** -19.9%  
-**1y:** -6.3%  
+**90d:** -20.0%  
+**1y:** -6.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1827.32B
+**Market Cap:** $1822.65B
 Rank #1
 
-**Circulating Supply:** 19,959,340 BTC
+**Circulating Supply:** 19,959,350 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.4%
+-27.6%
 
 **All-Time Low:** $67.81
-+134827.0%
++134583.7%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[pahahha i died](https://www.reddit.com/r/Bitcoin/comments/1ph8e2i/pahahha_i_died/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -107,19 +107,11 @@ Rank #1
 
 ---
 
-**[Bought at 125k and lowered my avg to 99k](https://www.reddit.com/r/Bitcoin/comments/1ph0yda/bought_at_125k_and_lowered_my_avg_to_99k/)**
-
-I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars per week and just set up a direct deposit with strike to do 300 dollars per paycheck (biweekly). Will instantly move my funds to a cold wallet super excited and bullish about btc 5-20 year time horizon EDIT: Just learned about UTXO. I even went to the lengths of setting up direct deposits so I can withdraw BTC faster. Now after learning this I guess the best way is to accumlate more and do one single withdrawal to a cold wallet rather than many smaller ones (correct me if I’m wrong please stilll tryna learn)
-
-12h ago
-
----
-
 **[All Bitcoin legends have one thing in common: they held](https://www.reddit.com/r/Bitcoin/comments/1ph9e5f/all_bitcoin_legends_have_one_thing_in_common_they/)**
 
 They didn't trade, they didn't sell to buy back later, they didn't follow the 4-year cycle, nothing. Just HODL Replicate them.
 
-3h ago
+4h ago
 
 ---
 
@@ -145,6 +137,12 @@ Really cool they have this at common bookstores in Thailand. The placement could
 
 ---
 
+**[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
+
+19h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -157,23 +155,17 @@ Financial Times • 9h ago
 
 ---
 
-**[Bitcoin’s Deep Correction Sets Stage for December Rebound, Says K33 Research](https://www.coindesk.com/markets/2025/12/05/bitcoin-s-deep-correction-sets-stage-for-december-rebound-says-k33-research)**
+**[Bitcoin LTH Supply Bottoms as Sell Pressure Fades](https://www.coindesk.com/markets/2025/12/08/bitcoin-s-long-term-holders-hit-cyclical-low-as-sell-pressure-finally-eases)**
 
-K33 Research says market fear is outweighing fundamentals as bitcoin nears key levels. December could offer an entry point for bold investors.
+Bitcoin’s long-term holder supply hit a cyclical low as BTC bottomed near $80K, suggesting spot-driven sell pressure is fading as prices rebound.
 
-CoinDesk • 3d ago
-
----
-
-**[Nvidia CEO Jensen Huang Just Flipped the Bitcoin Energy Consumption Debate — And It Changes Everything](https://www.ccn.com/news/crypto/nvidia-ceo-jensen-huang-bullish-bitcoin-energy-as-currency/)**
-
-CCN.com • 1h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Opinion: Bitcoin’s November crash was no accident](https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?gaa_at=eafs&gaa_n=AWEtsqd0mAgXHbqjVOTHVTdslRh_g0iefmnO2M2PmZOhV1mVVq6ZY4FKZ2Jt&gaa_ts=6936e05c&gaa_sig=Iy12aWKVU6mGUUrCkfG0qfTrCbVRfdYQ0GS7JkWbKg1UbBnQe2i7Xve2EDiO8gCDhDHoGg93L03pbiVGc9H9sA%3D%3D)**
+**[Bitcoin Rebounds Slightly Ahead of the Fed. How It Could Reach $120K—or Fall to $82K.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-2085d4a2?gaa_at=eafs&gaa_n=AWEtsqc3our9WCC0lkq15SixgK2G-4d1ASsBaEgWvdcRVqCExlnJyjpJ4ldI&gaa_ts=6936ea98&gaa_sig=uNsFjvDW3ZjSIJDuIMSJFrPGHz3wdJ9HsicLEhc0T2OZqmHgl1rmJRZ5C63KpztCNWUspqJWAglCnykJ9t00IQ%3D%3D)**
 
-MarketWatch • 1h ago
+Barron's • 57m ago
 
 ---
 
@@ -185,25 +177,15 @@ Morningstar • 3h ago
 
 ---
 
-**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://finance.yahoo.com/news/buy-bitcoin-dip-why-ric-165028778.html)**
-
-Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
-
-Yahoo Finance • 21h ago
-
----
-
-**[Why Investors Shouldn't Romanticize Bitcoin, From a Financial Planner](https://www.kiplinger.com/investing/cryptocurrency/why-investors-shouldnt-romanticize-bitcoin)**
-
-Investors should treat bitcoin as the volatile, high-risk asset it is. A look at the data, along with comparisons to the Magnificent 7 stocks, indicates a small (1% to 2%) portfolio allocation for most investors would be the safest.
-
-Kiplinger • 4h ago
-
----
-
 **[Michael Saylor Explains Why Banks Are No Longer Waiting for Bitcoin](https://www.binance.com/en/square/post/33413939298642)**
 
 Binance • 14h ago
+
+---
+
+**[Opinion: Bitcoin’s November crash was no accident](https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?gaa_at=eafs&gaa_n=AWEtsqdC1kdVHo-nz-_St5RHZCKhMkF5dux0_EuzQgEGgd7z5EpM4lHQmKWx&gaa_ts=6936ea98&gaa_sig=LSyxYan03N4miDAsr0zxaggYpN6_AHVWcxmHutdCu0o-ko9dbPlIEdCJLP2NGebsmR8egY5d19ndIkb5sBQTTg%3D%3D)**
+
+MarketWatch • 1h ago
 
 ---
 
@@ -215,11 +197,23 @@ Business Insider • 3h ago
 
 ---
 
-**[Bitcoin Is Starting to Look Like a Digital Tulip](https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money)**
+**[Bitcoin turns negative for the week as it fails to hold above $90,000: CNBC Crypto World](https://www.cnbc.com/video/2025/12/05/bitcoin-turns-negative-for-the-week-as-it-fails-to-hold-above-90000-cnbc-crypto-world.html)**
 
-It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
+On today's episode of CNBC Crypto World, bitcoin and other major cryptocurrencies turn negative to closer out the week. Plus, prosecutors recommend a 12-year prison sentence for Terraform Labs founder Do Kwon. And Summer Mersinger, CEO of the Blockchain Association, discusses the group's upcoming policy summit in Washington, D.C.
 
-Bloomberg.com • 2d ago
+CNBC • 2d ago
+
+---
+
+**[Cathie Wood predicts next gold crash, sees Bitcoin outperforming](https://www.thestreet.com/crypto/markets/cathie-wood-predicts-next-gold-crash-bitcoin-outperforming)**
+
+TheStreet • 23h ago
+
+---
+
+**[Nvidia CEO Jensen Huang Just Flipped the Bitcoin Energy Consumption Debate — And It Changes Everything](https://www.ccn.com/news/crypto/nvidia-ceo-jensen-huang-bullish-bitcoin-energy-as-currency/)**
+
+CCN.com • 1h ago
 
 ---
 
@@ -313,7 +307,7 @@ BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available ever
 
 📺 Lark Davis
 
-👁️ 4K • 👍 399 • 💬 21 • ⏱️ 37:57 • 2h ago
+👁️ 4K • 👍 399 • 💬 21 • ⏱️ 37:57 • 3h ago
 
 ---
 
@@ -333,7 +327,7 @@ In today's video, Kyledoops shares his strategy on whether to buy back now or ju
 
 📺 Crypto Banter
 
-👁️ 12K • 👍 1K • 💬 20 • ⏱️ 32:04 • 6h ago
+👁️ 12K • 👍 1K • 💬 20 • ⏱️ 32:04 • 7h ago
 
 ---
 
@@ -373,7 +367,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 5K • 👍 478 • 💬 21 • ⏱️ 7:18 • 5h ago
+👁️ 5K • 👍 478 • 💬 21 • ⏱️ 7:18 • 6h ago
 
 ---
 

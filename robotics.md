@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T14:42:28.171466+00:00'
+updated: '2025-12-08T14:56:47.556179+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 14:42 UTC  
+**Last Updated:** December 08, 2025 at 14:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -38,19 +38,19 @@ Robotics research and industry news
 
 ---
 
-**[AgiBot co-founder Peng Zhihui announced today that their 5,000th general-purpose embodied robot has officially rolled off the line](https://www.reddit.com/r/robotics/comments/1phaq40/agibot_cofounder_peng_zhihui_announced_today_that/)**
-
-From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
-
-2h ago
-
----
-
 **[The Chinese just dropped it on online marketplaces](https://www.reddit.com/r/robotics/comments/1phc2nu/the_chinese_just_dropped_it_on_online_marketplaces/)**
 
 180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
 
 1h ago
+
+---
+
+**[AgiBot co-founder Peng Zhihui announced today that their 5,000th general-purpose embodied robot has officially rolled off the line](https://www.reddit.com/r/robotics/comments/1phaq40/agibot_cofounder_peng_zhihui_announced_today_that/)**
+
+From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
+
+2h ago
 
 ---
 
@@ -118,6 +118,14 @@ MIT News • 2d ago
 
 ---
 
+**[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
+
+Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
+
+Bloomberg.com • 50m ago
+
+---
+
 **[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
 
 Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
@@ -170,23 +178,15 @@ CNET • 1d ago
 
 Chinese robotics frim EngineAI shows CEO being kicked by T800 robot to prove real-world capabilities amid CGI speculation.
 
-Interesting Engineering • 5h ago
+Interesting Engineering • 6h ago
 
 ---
 
-**[When Will Robots Take Over Laundry Folding?](https://www.smithsonianmag.com/innovation/when-will-robots-take-over-laundry-folding-180987801/)**
+**[Israeli official says Gaza conflict was ‘first robotics war’](https://breakingdefense.com/2025/12/israeli-official-says-gaza-conflict-was-first-robotics-war/)**
 
-For this chore, the human touch still beats machines. But maybe not for long
+The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
 
-Smithsonian Magazine • 1h ago
-
----
-
-**[Antioch raises pre-seed funding to accelerate AI robotics testing](https://www.therobotreport.com/antioch-raises-pre-seed-funding-accelerate-ai-robotics-testing/)**
-
-Antioch says its platform allows robots to be tested in virtual environments without the expense and time of other methods.
-
-The Robot Report • 3h ago
+Breaking Defense • 14m ago
 
 ---
 
