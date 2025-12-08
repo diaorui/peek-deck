@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T19:44:53.084433+00:00'
+updated: '2025-12-08T19:55:51.332784+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 19:44 UTC  
+**Last Updated:** December 08, 2025 at 19:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
 
-🔗 [withmartian.com](https://withmartian.com/prize) • 6h ago
+🔗 [withmartian.com](https://withmartian.com/prize) • 7h ago
 
 ---
 
@@ -59,19 +59,19 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 ---
 
-**[Trump threatens to create new rules to 'stop AI being destroyed by bad actors'](https://www.reddit.com/r/artificial/comments/1phffnl/trump_threatens_to_create_new_rules_to_stop_ai/)**
-
-The president announced the plans to create one rulebook for AI via his Truth Social account on Monday.
-
-🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 4h ago
-
----
-
 **[Why IBM’s CEO doesn’t think current AI tech can get to AGI](https://www.reddit.com/r/artificial/comments/1phd30j/why_ibms_ceo_doesnt_think_current_ai_tech_can_get/)**
 
 IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks big bets like Watsonx and next-gen computing will pay off.
 
 🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 5h ago
+
+---
+
+**[Trump threatens to create new rules to 'stop AI being destroyed by bad actors'](https://www.reddit.com/r/artificial/comments/1phffnl/trump_threatens_to_create_new_rules_to_stop_ai/)**
+
+The president announced the plans to create one rulebook for AI via his Truth Social account on Monday.
+
+🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 4h ago
 
 ---
 
@@ -89,14 +89,6 @@ IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks b
 
 ---
 
-**[I’m a junior dev who just got laid off, what should my next step be](https://www.reddit.com/r/artificial/comments/1phdknj/im_a_junior_dev_who_just_got_laid_off_what_should/)**
-
-So I’m a junior dev who just got laid off from my webdev job, and with AI agents on the rise I think it will just get harder and harder to get back into a similar role. Thus, I’m looking to pivot to any area that is more resistant to AI. Preferably in tech. I love learning new stuff, and being unemployed I have more than enough time on my hands so the learning part shouldn’t be a big problem. I just need to find a direction where the skills I learn won’t be rendered worthless by AI anytime soon. I’m thinking either low level stuff like C++, or machine learning. I’m thinking of building a portfolio throughout the process and also building connections along the way. Like, sooner or later these areas will be eaten by AI too, but I would guess it would take some years at least, with machine learning going last? I’ve also been pondering on maybe doing a deep research on all the current AI tools and the underlying tech and see if there’s any edge cases in any domains where I can use that knowledge to build something disruptive. I would imagine that although there’s a lot of AI hype now there will still be a lot of people sleeping on it making for many opportunities. At the same time, AI has made building stuff a lot easier so there will ofc also be increased competition. So what do you guys think about these directions? And any other interesting areas I could go for that will be resistant to AI in the forseeable future?
-
-5h ago
-
----
-
 **[Anthropic Interviewer taking feedback](https://www.reddit.com/r/artificial/comments/1phiw4m/anthropic_interviewer_taking_feedback/)**
 
 Mass human participation in AI training might be the most important thing possible, and this seems to be at least one small attempt at it: https://www.anthropic.com/research/anthropic-interviewer
@@ -105,11 +97,19 @@ Mass human participation in AI training might be the most important thing possib
 
 ---
 
-**[Block all AI browsers for the foreseeable future: Gartner](https://www.reddit.com/r/artificial/comments/1phf7qc/block_all_ai_browsers_for_the_foreseeable_future/)**
+**[I’m a junior dev who just got laid off, what should my next step be](https://www.reddit.com/r/artificial/comments/1phdknj/im_a_junior_dev_who_just_got_laid_off_what_should/)**
 
-: Analysts worry lazy users could have agents complete mandatory infosec training, and attackers could do far nastier things
+So I’m a junior dev who just got laid off from my webdev job, and with AI agents on the rise I think it will just get harder and harder to get back into a similar role. Thus, I’m looking to pivot to any area that is more resistant to AI. Preferably in tech. I love learning new stuff, and being unemployed I have more than enough time on my hands so the learning part shouldn’t be a big problem. I just need to find a direction where the skills I learn won’t be rendered worthless by AI anytime soon. I’m thinking either low level stuff like C++, or machine learning. I’m thinking of building a portfolio throughout the process and also building connections along the way. Like, sooner or later these areas will be eaten by AI too, but I would guess it would take some years at least, with machine learning going last? I’ve also been pondering on maybe doing a deep research on all the current AI tools and the underlying tech and see if there’s any edge cases in any domains where I can use that knowledge to build something disruptive. I would imagine that although there’s a lot of AI hype now there will still be a lot of people sleeping on it making for many opportunities. At the same time, AI has made building stuff a lot easier so there will ofc also be increased competition. So what do you guys think about these directions? And any other interesting areas I could go for that will be resistant to AI in the forseeable future?
 
-🔗 [theregister.com](https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/) • 4h ago
+5h ago
+
+---
+
+**[Has the cost of building software just dropped 90%?](https://www.reddit.com/r/artificial/comments/1phk3eu/has_the_cost_of_building_software_just_dropped_90/)**
+
+Agentic coding tools are dramatically reducing software development costs. Here's why 2026 is going to catch a lot of people off guard.
+
+🔗 [Martin Alderson](https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/) • 1h ago
 
 ---
 
@@ -117,9 +117,9 @@ Mass human participation in AI training might be the most important thing possib
 
 ## Google News: "ai"
 
-**[Why Does A.I. Write Like … That?](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html)**
+**[A.I. Videos Have Flooded Social Media. No One Was Ready.](https://www.nytimes.com/2025/12/08/business/ai-slop-sora-social-media.html)**
 
-The New York Times • 5d ago
+The New York Times • 52m ago
 
 ---
 
@@ -143,6 +143,28 @@ CalMatters • 6h ago
 
 ---
 
+**[AI Powered the Market Rally. Watch These Sectors for Continued Growth.](https://www.barrons.com/articles/ai-stock-market-rally-rotation-1bed5bc4?gaa_at=eafs&gaa_n=AWEtsqdDwj7VNVQa8jrbvzfohoiq1i_-GVHHcrmT2TLL8ueCv00jgIb0Lq5X&gaa_ts=693730af&gaa_sig=0MC4KpEvbJo9h9YjzmLQ-Nr1oGglwJDP5VxEO6xzAL8SU5upAH69SIqCyAF5rpDeRxrbelKqy96Y70iuBgpJhQ%3D%3D)**
+
+Barron's • 35m ago
+
+---
+
+**[Amazon’s “Catalog AI” Product Platform Helps You Shop Smarter](https://spectrum.ieee.org/abhishek-agrawal-amazon-catalog-ai)**
+
+Meet the AI expert behind Amazon's improved search and product listings.
+
+IEEE Spectrum • 50m ago
+
+---
+
+**[Where Agentic AI Helps Security — and Where It Still Falls Short](https://www.forbes.com/sites/tonybradley/2025/12/08/where-agentic-ai-helps-security---and-where-it-still-falls-short/)**
+
+Agentic AI is reshaping cybersecurity workflows, giving overloaded security teams new support—when it’s deployed with clear guardrails, validation, and human judgment.
+
+Forbes • 44m ago
+
+---
+
 **[Trump Promises Executive Order to Block State A.I. Regulations](https://www.nytimes.com/2025/12/08/us/politics/trump-executive-order-ai-laws.html)**
 
 The New York Times • 3h ago
@@ -153,7 +175,7 @@ The New York Times • 3h ago
 
 President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-CNN • 4h ago
+CNN • 5h ago
 
 ---
 
@@ -163,33 +185,13 @@ Axios • 8h ago
 
 ---
 
-**[Separating the real from the fake: tips for spotting AI slop](https://theweek.com/tech/tips-for-spotting-ai-slop)**
-
-Advanced AI may have made slop videos harder to spot, but experts say it’s still possible to detect them
-
-The Week • 37m ago
-
----
-
-**[Exclusive: SoftBank, Nvidia looking to invest in Skild AI at $14 billion valuation, sources say](https://www.reuters.com/business/media-telecom/softbank-nvidia-looking-invest-skild-ai-14-billion-valuation-sources-say-2025-12-08/)**
-
-Reuters • 3h ago
-
----
-
-**[Why Oracle’s Earnings Will Be a Key Moment for AI Stocks This Week](https://www.barrons.com/articles/oracle-broadcom-ai-stocks-d7585d45?gaa_at=eafs&gaa_n=AWEtsqdX3cZeIwV_HdW28MPbTsS-xJA5LkYaIZlnHI9xTJl_DeMoHFb6gvzj&gaa_ts=69372825&gaa_sig=xc8E6ikofZPsz_za_9NsoWFmGnUeGTfOImY9D1T-spNgfoZljl7JVhp1Zxg3pYurww221Hci-kgBbrf7ReHxvg%3D%3D)**
-
-Barron's • 56m ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 557 • 💬 177 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 557 • 💬 178 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -201,11 +203,11 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 ---
 
-**[Microsoft has a problem: nobody wants to buy or use its shoddy AI products](https://news.ycombinator.com/item?id=46194615)**
+**[Microsoft has a problem: lack of demand for its AI products](https://news.ycombinator.com/item?id=46194615)**
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 268 • 💬 212 • 2h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 303 • 💬 254 • 3h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -231,7 +233,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 41 • 💬 51 • 2h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 41 • 💬 55 • 2h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -245,7 +247,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 **[The Reverse Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46176651)**
 
-⬆️ 33 • 💬 4 • 1d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington)
+⬆️ 34 • 💬 4 • 1d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington)
 
 ---
 
@@ -261,13 +263,43 @@ A fork of Calibre called Clbre, because the AI is stripped out. - grimthorpe/clb
 
 ## YouTube Videos: "ai"
 
+**[NEW AI Video Generator Kling 2.6 DESTROYS Veo 3.1 &amp; Sora 2? Full Comparison](https://www.youtube.com/watch?v=hmgMlp4a4ao)**
+
+Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Full comparison Try Kling 2.6 ...
+
+📺 Dan Kieft
+
+👁️ 6K • 💬 8 • ⏱️ 20:04 • 3h ago
+
+---
+
 **[OpenAI&#39;s New GARLIC AI, Apple&#39;s Clara, Live Avatar and More Intense AI News](https://www.youtube.com/watch?v=3n_dWlNkcY8)**
 
 OpenAI is in a full internal race after a major leak revealed a new model called Garlic outperforming Gemini 3 and Claude in ...
 
 📺 AI Revolution
 
-👁️ 62K • 👍 2K • 💬 96 • ⏱️ 12:31 • 19h ago
+👁️ 69K • 👍 2K • 💬 104 • ⏱️ 12:31 • 19h ago
+
+---
+
+**[Big Tech&#39;s AI Debt Will Crash the Economy](https://www.youtube.com/watch?v=rf9Sat5n0AQ)**
+
+Big Tech is racking up debt to fund their AI infrastructure for demand that seemingly doesn't exist. Us taxpayers are subsidizing the ...
+
+📺 Vanessa Wingårdh
+
+👁️ 115K • 👍 8K • 💬 2K • ⏱️ 10:38 • 1d ago
+
+---
+
+**[Elon Musk: Neuralink Will Replace All Phones By 2030 &amp; AI Glasses Can Identify &amp; Track ANYONE](https://www.youtube.com/watch?v=-1vcYkbQzZs)**
+
+REP YOUR SUPPORT & JOIN THE MOVEMENT! Every purchase helps us keep creating content and growing this channel.
+
+📺 Melanie King
+
+👁️ 48K • 👍 3K • 💬 1K • ⏱️ 34:49 • 1d ago
 
 ---
 
@@ -277,7 +309,7 @@ Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial i
 
 📺 Fox News Clips
 
-👁️ 48K • 👍 712 • 💬 323 • ⏱️ 6:22 • 2d ago
+👁️ 49K • 👍 728 • 💬 326 • ⏱️ 6:22 • 2d ago
 
 ---
 
@@ -287,37 +319,7 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 101K • 👍 2K • 💬 405 • ⏱️ 12:07 • 2d ago
-
----
-
-**[Gemini 4 — Google’s Biggest AI Upgrade Yet (Full Features Explained)](https://www.youtube.com/watch?v=WYK7iyOklf4)**
-
-Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Gemini 4 — and it might be their most powerful AI ...
-
-📺 BitBiasedAI
-
-👁️ 42K • 👍 1K • 💬 44 • ⏱️ 11:49 • 1d ago
-
----
-
-**[What AI Is Now Doing to Your Food Is Worse Than You Think.](https://www.youtube.com/watch?v=JcA_vAsWw5M)**
-
-Your Grocery Store Is About to Change Forever. AI is now making your food...but is it safe? What the world of AI is doing to our ...
-
-📺 Lillie Kane
-
-👁️ 1K • 👍 331 • 💬 76 • ⏱️ 13:09 • 4h ago
-
----
-
-**[Chinas New FREE AI: Baidu Ernie 5.0 Just CRUSHED ChatGPT...](https://www.youtube.com/watch?v=9UPw7hSDsxQ)**
-
-Want to make money and save time with AI? Join here: https://juliangoldieai.com/07L1kg.
-
-📺 Julian Goldie SEO
-
-👁️ 4K • 👍 157 • 💬 20 • ⏱️ 8:14 • 20h ago
+👁️ 103K • 👍 2K • 💬 409 • ⏱️ 12:07 • 2d ago
 
 ---
 
@@ -327,37 +329,37 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 1.1M • 👍 3K • 💬 97 • ⏱️ 8:06 • 2d ago
+👁️ 1.1M • 👍 3K • 💬 100 • ⏱️ 8:06 • 2d ago
 
 ---
 
-**[NEW AI Video Generator Kling O1 Redefines AI Filmmaking](https://www.youtube.com/watch?v=m_UfnjFOfys)**
+**[Gemini 4 — Google’s Biggest AI Upgrade Yet (Full Features Explained)](https://www.youtube.com/watch?v=WYK7iyOklf4)**
 
-NEW AI Video Generator Kling O1 Redefines AI Filmmaking Try Kling O1 & Kling 2.6 https://openart.ai/home?ref=Klingo1 Kling ...
+Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Gemini 4 — and it might be their most powerful AI ...
 
-📺 Dan Kieft
+📺 BitBiasedAI
 
-👁️ 22K • 💬 18 • ⏱️ 9:23 • 1d ago
-
----
-
-**[I Recreated Impossible AI Foods](https://www.youtube.com/watch?v=wJHRAXKdqZM)**
-
-subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianBlack @zealous @KingSammelot ...
-
-📺 yikes
-
-👁️ 290K • 👍 11K • 💬 1K • ⏱️ 21:06 • 2d ago
+👁️ 44K • 👍 1K • 💬 46 • ⏱️ 11:49 • 1d ago
 
 ---
 
-**[AI Insider WARNS: “This Ends Much Worse Than You Think”](https://www.youtube.com/watch?v=dnkRXYmmgX0)**
+**[What AI Is Now Doing to Your Food Is Worse Than You Think.](https://www.youtube.com/watch?v=JcA_vAsWw5M)**
 
-World-leading AI scientist Professor Stuart Russell issues one of the most urgent warnings ever given on this channel. After five ...
+Your Grocery Store Is About to Change Forever. AI is now making your food...but is it safe? What the world of AI is doing to our ...
 
-📺 The Diary Of A CEO Clips
+📺 Lillie Kane
 
-👁️ 229K • 👍 4K • 💬 1K • ⏱️ 21:18 • 2d ago
+👁️ 3K • 👍 540 • 💬 97 • ⏱️ 13:09 • 4h ago
+
+---
+
+**[Chinas New FREE AI: Baidu Ernie 5.0 Just CRUSHED ChatGPT...](https://www.youtube.com/watch?v=9UPw7hSDsxQ)**
+
+Want to make money and save time with AI? Join here: https://juliangoldieai.com/07L1kg.
+
+📺 Julian Goldie SEO
+
+👁️ 4K • 👍 166 • 💬 20 • ⏱️ 8:14 • 20h ago
 
 ---
 
@@ -373,7 +375,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,332 • 3h ago
+⬇️ 201,990 • ❤️ 2,334 • 3h ago
 
 ---
 
@@ -385,7 +387,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 28,778 • ❤️ 809 • 7d ago
+⬇️ 28,778 • ❤️ 811 • 7d ago
 
 ---
 
@@ -397,7 +399,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 523 • 16h ago
+⬇️ 40,450 • ❤️ 524 • 16h ago
 
 ---
 
@@ -409,7 +411,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 8,016 • ❤️ 547 • 7d ago
+⬇️ 8,016 • ❤️ 548 • 7d ago
 
 ---
 
@@ -419,7 +421,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 273 • 6d ago
+⬇️ 0 • ❤️ 274 • 6d ago
 
 ---
 
@@ -463,7 +465,7 @@ Ministral 3 14B Instruct is a powerful, edge-optimized multilingual vision-langu
 
 `13.9B`
 
-⬇️ 179,920 • ❤️ 149 • 3d ago
+⬇️ 179,920 • ❤️ 150 • 3d ago
 
 ---
 
@@ -475,7 +477,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 207,838 • ❤️ 937 • 11d ago
+⬇️ 207,838 • ❤️ 938 • 11d ago
 
 ---
 
@@ -637,7 +639,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 3h ago
+⭐ 1.6k • 🔱 132 • 4h ago
 
 ---
 

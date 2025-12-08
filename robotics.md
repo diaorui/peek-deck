@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T19:44:53.102167+00:00'
+updated: '2025-12-08T19:55:51.353224+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 19:44 UTC  
+**Last Updated:** December 08, 2025 at 19:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -82,6 +82,14 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 ---
 
+**[Robot kicking a soccer ball in sim，contact accuracy & rigid body dynamics](https://www.reddit.com/r/robotics/comments/1phbq9l/robot_kicking_a_soccer_ball_in_simcontact/)**
+
+Just sharing a small test clip from a sim environment: simple walking + a few controlled kicks. From my experience, getting this kind of behavior to look even remotely stable depends a lot on two things: the accuracy of the rigid-body collisions how well the contact forces are resolved frame-to-frame If either of those is off, the foot either tunnels through the ball or the ball reacts in weird, non-physical ways. With a more accurate physics setup, the kick actually lands where you expect, and the robot’s gait doesn’t blow up.
+
+6h ago
+
+---
+
 **[MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control](https://www.reddit.com/r/robotics/comments/1pgpipx/mimickit_a_reinforcement_learning_framework_for/)**
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
@@ -95,14 +103,6 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a shelf unused and I'm sure someone out there (UK based) can make much better use of it than I can. This unit is used but in good working condition. It has the gripper attachment included and comes as part of the package. I don't have the original box anymore but I can box it up with protective materials and another suitably strong box if shipping or ideally could be collected or delivered to the new owner. The uFactory x-arm 6 is a 6 axis robot featuring a 5kg payload capacity, 700mm reach. This unit has a gripper attachment included and is compatible with multiple operating systems using the xArm studio software.
 
 2h ago
-
----
-
-**[Robot kicking a soccer ball in sim，contact accuracy & rigid body dynamics](https://www.reddit.com/r/robotics/comments/1phbq9l/robot_kicking_a_soccer_ball_in_simcontact/)**
-
-Just sharing a small test clip from a sim environment: simple walking + a few controlled kicks. From my experience, getting this kind of behavior to look even remotely stable depends a lot on two things: the accuracy of the rigid-body collisions how well the contact forces are resolved frame-to-frame If either of those is off, the foot either tunnels through the ball or the ball reacts in weird, non-physical ways. With a more accurate physics setup, the kick actually lands where you expect, and the robot’s gait doesn’t blow up.
-
-6h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 1d ago
 
 Chinese robotics frim EngineAI shows CEO being kicked by T800 robot to prove real-world capabilities amid CGI speculation.
 
-Interesting Engineering • 10h ago
+Interesting Engineering • 11h ago
 
 ---
 
@@ -200,17 +200,7 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 18K • 👍 383 • 💬 184 • ⏱️ 4:05 • 3d ago
-
----
-
-**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
-
-The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
-
-📺 DPCcars
-
-👁️ 137K • 👍 641 • 💬 227 • ⏱️ 1:03 • 2d ago
+👁️ 18K • 👍 386 • 💬 185 • ⏱️ 4:05 • 3d ago
 
 ---
 
@@ -220,7 +210,17 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 35K • 👍 1K • 💬 85 • ⏱️ 24:47 • 2d ago
+👁️ 36K • 👍 1K • 💬 88 • ⏱️ 24:47 • 2d ago
+
+---
+
+**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
+
+The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
+
+📺 DPCcars
+
+👁️ 143K • 👍 684 • 💬 234 • ⏱️ 1:03 • 2d ago
 
 ---
 
@@ -230,7 +230,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 79K • 👍 641 • 💬 298 • ⏱️ 2:30 • 5d ago
+👁️ 79K • 👍 642 • 💬 299 • ⏱️ 2:30 • 5d ago
 
 ---
 
@@ -240,17 +240,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 22K • 👍 197 • 💬 6 • ⏱️ 0:25 • 1d ago
-
----
-
-**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
-
-Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
-
-📺 Fin Tek
-
-👁️ 78K • 👍 2K • 💬 204 • ⏱️ 21:31 • 2d ago
+👁️ 22K • 👍 202 • 💬 6 • ⏱️ 0:25 • 1d ago
 
 ---
 
@@ -260,17 +250,27 @@ Unitree's latest demos reveal that kickboxing is no longer just for its smaller 
 
 📺 CNET
 
-👁️ 28K • 👍 623 • 💬 95 • ⏱️ 6:05 • 1d ago
+👁️ 28K • 👍 635 • 💬 95 • ⏱️ 6:05 • 1d ago
 
 ---
 
-**[Robot Girl at the Expo Tried Selling Me a Wife 🤖💍](https://www.youtube.com/watch?v=ZKdEqrVIabY)**
+**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
 
-Here's what happened when I asked a robot receptionist about partner models at a tech expo… I was already talking to one ...
+Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
 
-📺 AI Robot Reality
+📺 Fin Tek
 
-👁️ 9K • 👍 187 • 💬 6 • ⏱️ 0:19 • 1d ago
+👁️ 79K • 👍 2K • 💬 206 • ⏱️ 21:31 • 2d ago
+
+---
+
+**[AI Humanoid Robot Activated in 2025 — Reacts Like a Real Human in Silicon Valley Lab](https://www.youtube.com/watch?v=bjUcx-S0-ks)**
+
+In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot and apply a breakthrough synthetic skin.
+
+📺 AI Robot Lab
+
+👁️ 121K • 👍 541 • 💬 15 • ⏱️ 0:19 • 3d ago
 
 ---
 
@@ -290,7 +290,7 @@ Video released by Chinese robotics company EngineAI shows their humanoid T800 ro
 
 📺 CNN
 
-👁️ 41K • 👍 632 • 💬 269 • ⏱️ 0:41 • 15h ago
+👁️ 46K • 👍 697 • 💬 299 • ⏱️ 0:41 • 15h ago
 
 ---
 

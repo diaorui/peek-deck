@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T19:44:53.092856+00:00'
+updated: '2025-12-08T19:55:51.342657+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- videos
 - social
 - news
-- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 19:44 UTC  
+**Last Updated:** December 08, 2025 at 19:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** -1.6%  
-**30d:** -14.1%  
-**90d:** -21.0%  
-**1y:** -7.5%  
+**24h:** -1.3%  
+**7d:** -1.3%  
+**30d:** -13.9%  
+**90d:** -20.7%  
+**1y:** -7.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1799.09B
+**Market Cap:** $1801.24B
 Rank #1
 
-**Circulating Supply:** 19,959,412 BTC
+**Circulating Supply:** 19,959,428 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.6%
+-28.4%
 
 **All-Time Low:** $67.81
-+132623.8%
++133036.7%
 
 ---
 
@@ -77,12 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
-
-1h ago
-
----
-
 **[Apparently Lamborghini is shilling Bitcoin now](https://www.reddit.com/r/Bitcoin/comments/1phjz9z/apparently_lamborghini_is_shilling_bitcoin_now/)**
 
 They have a promotion going on with Ledger
@@ -91,9 +85,15 @@ They have a promotion going on with Ledger
 
 ---
 
+**[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
+
+1h ago
+
+---
+
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -115,7 +115,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 They didn't trade, they didn't sell to buy back later, they didn't follow the 4-year cycle, nothing. Just HODL Replicate them.
 
-8h ago
+9h ago
 
 ---
 
@@ -139,11 +139,9 @@ People don’t confuse inflation with the dollar losing value the dollar losing 
 
 ---
 
-**[Bitcoin Standard book, in Thai, my wife wanted to know why, not the how.](https://www.reddit.com/r/Bitcoin/comments/1ph7uhj/bitcoin_standard_book_in_thai_my_wife_wanted_to/)**
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
 
-Really cool they have this at common bookstores in Thailand. The placement could be better hahaha, forex has a better location on the shelves here. FOREX!!! Is bitcoin a type of Forex? Kinda. Its actually the ultimate forex.
-
-10h ago
+15m ago
 
 ---
 
@@ -151,19 +149,9 @@ Really cool they have this at common bookstores in Thailand. The placement could
 
 ## Google News: "bitcoin"
 
-**[‘More Orange Dots’: Michael Saylor’s Strategy Buys 10,624 Bitcoin Amid Sell-Off Concerns](https://finance.yahoo.com/news/more-orange-dots-michael-saylor-130749098.html)**
+**[Strategy, Wall Street's Favorite Stock, Just Loaded Up On More Bitcoin](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Michael Saylor’s Strategy, previously MicroStrategy, has made another weekly Bitcoin purchase despite concerns that it may need to sell some of its BTC holdings in a prolonged bear market. This latest purchase comes amid a rebound in the Bitcoin price, while the MSTR stock is also up in pre-market trading. Strategy Acquires 10,624 BTC for
-
-Yahoo Finance • 6h ago
-
----
-
-**[Famed Investor Mike Alfred Claims Bitcoin Will Hit $315,000, Harvard Boosts Bitcoin Investment 2-To-1 Over Gold](https://finance.yahoo.com/news/famed-investor-mike-alfred-claims-094719509.html)**
-
-Investor Mike Alfred predicts Bitcoin could reach $315,000. Harvard University significantly increased its Bitcoin holdings over gold. But analysts warn of potential short-term consolidation. Bitcoin’s ...
-
-Yahoo Finance • 9h ago
+Investor's Business Daily • 5h ago
 
 ---
 
@@ -175,31 +163,41 @@ Morningstar • 8h ago
 
 ---
 
-**[Bitcoin ETFs Pull in $352 Million to Extend Rebound While XRP Funds Remain Hot](https://decrypt.co/351433/bitcoin-etfs-352-million-extend-rebound-xrp-funds-hot)**
+**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
 
-Bitcoin ETFs drew $352 million last week as interest in short-BTC funds declines and crypto fund assets rebound from November lows, signaling optimism.
+Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-Decrypt • 2h ago
-
----
-
-**[XRP Price Analysis: Ripple Buyers Step In at $2.00 Floor on BTC's Hover Above $91K](https://www.coindesk.com/markets/2025/12/08/buyers-step-in-at-usd2-00-floor-as-xrp-builds-on-bitcoin-s-hover-above-usd91k)**
-
-Institutional demand for XRP ETFs has surpassed $1 billion, despite muted retail interest.
-
-CoinDesk • 14h ago
+Decrypt • 1h ago
 
 ---
 
-**[Opinion: Bitcoin’s November crash was no accident](https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?gaa_at=eafs&gaa_n=AWEtsqdBxpNGF0mla536-Us9qHUd_-kkCvIP_g7farRGZ9UFTBCOtmJExsyv&gaa_ts=69372826&gaa_sig=cwd_Px2XfVw_1l6dk1kfzhGe7_qed3V3dSpiSL4T6XgnVhhtl6pbLbhbcvmJ6CLzB-9oKJZq_hqF-TN0aS2edA%3D%3D)**
+**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
+
+BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
+
+Bloomberg.com • 24m ago
+
+---
+
+**[Famed Investor Mike Alfred Claims Bitcoin Will Hit $315,000, Harvard Boosts Bitcoin Investment 2-To-1 Over Gold](https://finance.yahoo.com/news/famed-investor-mike-alfred-claims-094719509.html)**
+
+Investor Mike Alfred predicts Bitcoin could reach $315,000. Harvard University significantly increased its Bitcoin holdings over gold. But analysts warn of potential short-term consolidation. Bitcoin’s ...
+
+Yahoo Finance • 10h ago
+
+---
+
+**[Fed meeting to boost Bitcoin price ‘sharply higher’ than $92,000, analysts say](https://www.dlnews.com/articles/markets/fed-meeting-to-boost-bitcoin-price-sharply-higher-than-92000-analysts-say/)**
+
+Investors expect the Federal Reserve to slash interest rates by 0.25% on Wednesday.  Macro tailwinds are seen as a catalyst for crypto.
+
+dlnews.com • 9h ago
+
+---
+
+**[Opinion: Bitcoin’s November crash was no accident](https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?gaa_at=eafs&gaa_n=AWEtsqdYAghJ9GYLBwKaL6BPfnE2M3pa_dsBAEDliakdkbS2fWdr0FV9maNf&gaa_ts=693730b2&gaa_sig=Cel1VDnEn1LcFCeRAPOAr1AgY1a5nX_TctTGP_T8zmF4iTtdX2dxwuxwGNBZWRwD7Ne0smcYXQ_2MGDMJJ9KKw%3D%3D)**
 
 MarketWatch • 6h ago
-
----
-
-**[Bitcoin price today: gains to $90.8k as Fed cut bets remain firm](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-915k-as-fed-cut-bets-remain-firm-4394968)**
-
-Investing.com • 4h ago
 
 ---
 
@@ -211,19 +209,19 @@ Business Insider • 8h ago
 
 ---
 
-**[Bitcoin Is Starting to Look Like a Digital Tulip](https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money)**
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
 
-It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
+Which of these popular cryptocurrencies has more upside potential?
 
-Bloomberg.com • 2d ago
+The Motley Fool • 23h ago
 
 ---
 
-**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
+**[Bitcoin LTH Supply Bottoms as Sell Pressure Fades](https://www.coindesk.com/markets/2025/12/08/bitcoin-s-long-term-holders-hit-cyclical-low-as-sell-pressure-finally-eases)**
 
-Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
+Bitcoin’s long-term holder supply hit a cyclical low as BTC bottomed near $80K, suggesting spot-driven sell pressure is fading as prices rebound.
 
-Decrypt • 1h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -315,7 +313,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 374 • 💬 82 • ⏱️ 9:22 • 4h ago
+👁️ 9K • 👍 525 • 💬 92 • ⏱️ 9:22 • 4h ago
 
 ---
 
@@ -325,27 +323,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 1K • 💬 122 • ⏱️ 37:28 • 4h ago
-
----
-
-**[stocks, bitcoin, fed, and trump](https://www.youtube.com/watch?v=AbCWMcEBibs)**
-
-Alpha Report Membership w/ Courses, Private Lives, & Trades: https://MeetKevin.com ❄️  ❄️ Reinvest AI Renovation ...
-
-📺 Meet Kevin
-
-👁️ 14K • 👍 452 • 5h ago
-
----
-
-**[IT’S RIGGED! Kevin O’Leary Warns ‘Buckle Up’ Bitcoin &amp; Ethereum Holders](https://www.youtube.com/watch?v=s3Exn-qdeno)**
-
-LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily ...
-
-📺 Altcoin Daily
-
-👁️ 72K • 👍 3K • 💬 374 • ⏱️ 11:32 • 1d ago
+👁️ 21K • 👍 1K • 💬 149 • ⏱️ 37:28 • 4h ago
 
 ---
 
@@ -355,47 +333,27 @@ Market Update Crypto Strategy School https://cryptostrategyschool.com/ab/ ➡️
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 457 • 💬 186 • ⏱️ 13:46 • 7h ago
+👁️ 8K • 👍 513 • 💬 189 • ⏱️ 13:46 • 7h ago
 
 ---
 
-**[The White House Just Released The Cryptocurrency Bulls!!](https://www.youtube.com/watch?v=iSWMFZ5NChw)**
+**[IT’S RIGGED! Kevin O’Leary Warns ‘Buckle Up’ Bitcoin &amp; Ethereum Holders](https://www.youtube.com/watch?v=s3Exn-qdeno)**
 
-The White House Just Released The Cryptocurrency Bulls!! Become a channel member & get access to perks: ...
+LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily ...
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 4K • 💬 308 • ⏱️ 12:47 • 21h ago
+👁️ 73K • 👍 3K • 💬 340 • ⏱️ 11:32 • 1d ago
 
 ---
 
-**[BITCOIN: big news!!!](https://www.youtube.com/watch?v=wA5Xgv-r13E)**
+**[Bitcoin Just CRASHED Below $88,000 — Global Risk-Off  Panic Begins](https://www.youtube.com/watch?v=6qnab0L9MhY)**
 
-AscendEX Platform https://ckenny.com/ASC Free Strategy Course https://ckenny.com/whopCK ⚠️ DISCLAIMER – READ ...
+Bitcoin didn't “just correct” — it cracked. In this video, we break down why the drop below $88000 is not a routine dip, but a ...
 
-📺 Conor Kenny
+📺 Ryan’s Money Lab
 
-👁️ 13K • 👍 792 • 💬 323 • ⏱️ 5:59 • 9h ago
-
----
-
-**[Bitcoin: an actually URGENT Video.. w. @intothecryptoverse ](https://www.youtube.com/watch?v=x9QWWoFgegs)**
-
-Bitcoin today with Benjamin Cowen!
-
-📺 MMCrypto
-
-👁️ 30K • 👍 3K • 💬 772 • ⏱️ 7:39 • 11h ago
-
----
-
-**[Bitcoin &amp; Ethereum Big Money Knows](https://www.youtube.com/watch?v=BCCezmp_O20)**
-
-BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT BONUS ...
-
-📺 Lark Davis
-
-👁️ 11K • 👍 688 • 💬 64 • ⏱️ 37:57 • 7h ago
+👁️ 623 • 👍 124 • 💬 10 • ⏱️ 9:47 • 1h ago
 
 ---
 
@@ -405,7 +363,47 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 413 • ⏱️ 18:52 • 20h ago
+👁️ 28K • 👍 2K • 💬 413 • ⏱️ 18:52 • 20h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=PhcFluAocO8)**
+
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+
+📺 Instituto Nacional de Enfermedades Neoplásicas
+
+👁️ 4K • 👍 1K • 3h ago
+
+---
+
+**[Bitcoin: an actually URGENT Video.. w. @intothecryptoverse ](https://www.youtube.com/watch?v=x9QWWoFgegs)**
+
+Bitcoin today with Benjamin Cowen!
+
+📺 MMCrypto
+
+👁️ 34K • 👍 3K • 💬 819 • ⏱️ 7:39 • 11h ago
+
+---
+
+**[Bitcoin: The Unbelievable Reality Is Setting In (18-Year Cycle)](https://www.youtube.com/watch?v=KKDPrcLDuJg)**
+
+TIA PRO $1000 OFF LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE → *GET ...
+
+📺 Jason Pizzino
+
+👁️ 28K • 👍 1K • 💬 694 • ⏱️ 29:13 • 17h ago
+
+---
+
+**[BITCOIN: big news!!!](https://www.youtube.com/watch?v=wA5Xgv-r13E)**
+
+AscendEX Platform https://ckenny.com/ASC Free Strategy Course https://ckenny.com/whopCK ⚠️ DISCLAIMER – READ ...
+
+📺 Conor Kenny
+
+👁️ 15K • 👍 831 • 💬 345 • ⏱️ 5:59 • 9h ago
 
 ---
 
