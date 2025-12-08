@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T12:38:26.353797+00:00'
+updated: '2025-12-08T13:23:14.892209+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 12:38 UTC  
+**Last Updated:** December 08, 2025 at 13:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,15 @@ Robotics research and industry news
 
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
-7h ago
+8h ago
+
+---
+
+**[AgiBot co-founder Peng Zhihui announced today that their 5,000th general-purpose embodied robot has officially rolled off the line](https://www.reddit.com/r/robotics/comments/1phaq40/agibot_cofounder_peng_zhihui_announced_today_that/)**
+
+From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
+
+1h ago
 
 ---
 
@@ -48,21 +56,13 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 **[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
 
-22h ago
-
----
-
-**[AgiBot co-founder Peng Zhihui announced today that their 5,000th general-purpose embodied robot has officially rolled off the line](https://www.reddit.com/r/robotics/comments/1phaq40/agibot_cofounder_peng_zhihui_announced_today_that/)**
-
-From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
-
-33m ago
+23h ago
 
 ---
 
 **[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -74,11 +74,27 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 ---
 
+**[The Chinese just dropped it on online marketplaces](https://www.reddit.com/r/robotics/comments/1phc2nu/the_chinese_just_dropped_it_on_online_marketplaces/)**
+
+180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
+
+9m ago
+
+---
+
 **[Big update: Robert now supports full ChatGPT embodiment. You can switch seamlessly between manual and AI control, and I’ll be releasing the entire system as open source soon. When the coding is done, I will finish connecting the left arm, and show how he is assembled from modules.](https://www.reddit.com/r/robotics/comments/1pgkrgx/big_update_robert_now_supports_full_chatgpt/)**
 
 An old picture. The progress is in the coding, and testing, and tuning of the hardware.
 
-21h ago
+22h ago
+
+---
+
+**[Robot kicking a soccer ball in sim，contact accuracy & rigid body dynamics](https://www.reddit.com/r/robotics/comments/1phbq9l/robot_kicking_a_soccer_ball_in_simcontact/)**
+
+Just sharing a small test clip from a sim environment: simple walking + a few controlled kicks. From my experience, getting this kind of behavior to look even remotely stable depends a lot on two things: the accuracy of the rigid-body collisions how well the contact forces are resolved frame-to-frame If either of those is off, the foot either tunnels through the ball or the ball reacts in weird, non-physical ways. With a more accurate physics setup, the kick actually lands where you expect, and the robot’s gait doesn’t blow up.
+
+25m ago
 
 ---
 
@@ -86,21 +102,7 @@ An old picture. The progress is in the coding, and testing, and tuning of the ha
 
 NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑language‑action foundation model for humanoid robots, built to connect perception, language, and low‑level control so a single policy can handle many manipulation tasks across different embodiments. Since GTC they have released GR00T N1 and then N1.5 with architectural and data upgrades aimed at better generalization, grounding, and language following, plus tooling like simulation blueprints and synthetic motion data pipelines to accelerate training.​​ For anyone here actually playing with GR00T in the lab or integrating it on real hardware: how mature is it right now compared to the keynote demos and marketing? Any experiences with N1 vs N1.5, sim‑to‑real transfer, or using the GR00T toolchain (Dreams / Blueprint / Omniverse etc.) in a serious robotics stack would be super valuable to hear about.​
 
-9h ago
-
----
-
-**[SO... still CGI ？](https://www.reddit.com/r/robotics/comments/1ph2olj/so_still_cgi/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 8h ago
-
----
-
-**[China's G1 humanoid robot is mastering combat skills at a terrifying rate](https://www.reddit.com/r/robotics/comments/1pghcyh/chinas_g1_humanoid_robot_is_mastering_combat/)**
-
-1d ago
+10h ago
 
 ---
 
@@ -136,7 +138,7 @@ South China Morning Post • 1d ago
 
 Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
 
-CNN • 23h ago
+CNN • 1d ago
 
 ---
 
@@ -160,7 +162,7 @@ wallpaper.com • 1d ago
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
-CNET • 23h ago
+CNET • 1d ago
 
 ---
 
@@ -168,21 +170,23 @@ CNET • 23h ago
 
 Chinese robotics frim EngineAI shows CEO being kicked by T800 robot to prove real-world capabilities amid CGI speculation.
 
-Interesting Engineering • 3h ago
+Interesting Engineering • 4h ago
 
 ---
 
-**[New robots inside Boise's USPS facility help process and handle packages during holiday rush](https://www.ktvb.com/article/news/local/new-robots-usps-facility-help-process-holiday-rush/277-0ba7c01f-695c-465f-80f4-e2889aeafaa6)**
+**[When Will Robots Take Over Laundry Folding?](https://www.smithsonianmag.com/innovation/when-will-robots-take-over-laundry-folding-180987801/)**
 
-USPS Boise facility gets four robotic arms to help process 220,000 packages daily during holiday rush, allowing redeployment of workers to areas needing human touch.
+For this chore, the human touch still beats machines. But maybe not for long
 
-KTVB • 2d ago
+Smithsonian Magazine • 14m ago
 
 ---
 
-**[The Trump Administration Is Shifting Its Focus From AI to This Burgeoning Industry](https://www.inc.com/chris-morris/trump-administration-shifting-focus-from-ai-to-another-burgeoning-industry/91275057)**
+**[Antioch raises pre-seed funding to accelerate AI robotics testing](https://www.therobotreport.com/antioch-raises-pre-seed-funding-accelerate-ai-robotics-testing/)**
 
-Inc.com • 1h ago
+Antioch says its platform allows robots to be tested in virtual environments without the expense and time of other methods.
+
+The Robot Report • 2h ago
 
 ---
 
@@ -190,13 +194,23 @@ Inc.com • 1h ago
 
 ## YouTube Videos: "robotics"
 
+**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.youtube.com/watch?v=XvXNEYbIBYw)**
+
+Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be ...
+
+📺 CBS News
+
+👁️ 18K • 👍 381 • 💬 183 • ⏱️ 4:05 • 3d ago
+
+---
+
 **[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
 
 Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
 
 📺 MarketBeat
 
-👁️ 33K • 👍 1K • 💬 82 • ⏱️ 24:47 • 1d ago
+👁️ 34K • 👍 1K • 💬 83 • ⏱️ 24:47 • 1d ago
 
 ---
 
@@ -206,17 +220,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 118K • 👍 546 • 💬 198 • ⏱️ 1:03 • 1d ago
-
----
-
-**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.youtube.com/watch?v=XvXNEYbIBYw)**
-
-Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be ...
-
-📺 CBS News
-
-👁️ 18K • 👍 379 • 💬 184 • ⏱️ 4:05 • 3d ago
+👁️ 124K • 👍 579 • 💬 210 • ⏱️ 1:03 • 1d ago
 
 ---
 
@@ -226,17 +230,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 77K • 👍 626 • 💬 286 • ⏱️ 2:30 • 4d ago
-
----
-
-**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
-
-Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
-
-📺 Fin Tek
-
-👁️ 75K • 👍 2K • 💬 192 • ⏱️ 21:31 • 2d ago
+👁️ 78K • 👍 634 • 💬 288 • ⏱️ 2:30 • 4d ago
 
 ---
 
@@ -246,7 +240,17 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 20K • 👍 173 • 💬 6 • ⏱️ 0:25 • 1d ago
+👁️ 20K • 👍 179 • 💬 6 • ⏱️ 0:25 • 1d ago
+
+---
+
+**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
+
+Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
+
+📺 Fin Tek
+
+👁️ 76K • 👍 2K • 💬 193 • ⏱️ 21:31 • 2d ago
 
 ---
 
@@ -256,17 +260,7 @@ Unitree's latest demos reveal that kickboxing is no longer just for its smaller 
 
 📺 CNET
 
-👁️ 26K • 👍 598 • 💬 93 • ⏱️ 6:05 • 23h ago
-
----
-
-**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
-
-Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
-
-📺 Unitree Robotics
-
-👁️ 2.4M • 👍 1K • 💬 311 • ⏱️ 1:06 • 5d ago
+👁️ 27K • 👍 609 • 💬 94 • ⏱️ 6:05 • 1d ago
 
 ---
 
@@ -276,7 +270,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 105K • 💬 653 • ⏱️ 1:21 • 5d ago
+👁️ 106K • 💬 654 • ⏱️ 1:21 • 5d ago
 
 ---
 
@@ -284,7 +278,17 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 AI . Robot
 
-👁️ 1.6M • 👍 9K • 💬 48 • ⏱️ 0:17 • 3d ago
+👁️ 1.6M • 👍 9K • 💬 48 • ⏱️ 0:17 • 4d ago
+
+---
+
+**[This Isn&#39;t Your Typical Humanoid Robot](https://www.youtube.com/watch?v=NjwgtvVPy04)**
+
+Memo is a wheeled home robot from Sunday Robotics, a Mountain View startup founded by Stanford PhDs Tony Zhao and Cheng ...
+
+📺 Game of Tomorrow
+
+👁️ 668K • 👍 22K • 💬 1K • ⏱️ 0:55 • 2d ago
 
 ---
 

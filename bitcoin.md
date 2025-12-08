@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T12:38:26.344174+00:00'
+updated: '2025-12-08T13:23:14.882442+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 12:38 UTC  
+**Last Updated:** December 08, 2025 at 13:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,858.53
+### $91,729.65
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.9%  
-**7d:** +0.3%  
-**30d:** -12.5%  
-**90d:** -19.5%  
-**1y:** -5.8%  
+**24h:** +4.0%  
+**7d:** +0.2%  
+**30d:** -12.6%  
+**90d:** -19.6%  
+**1y:** -5.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1832.18B
+**Market Cap:** $1832.58B
 Rank #1
 
-**Circulating Supply:** 19,959,300 BTC
+**Circulating Supply:** 19,959,318 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
 -27.2%
 
 **All-Time Low:** $67.81
-+135260.6%
++135189.8%
 
 ---
 
@@ -79,25 +79,25 @@ Rank #1
 
 **[pahahha i died](https://www.reddit.com/r/Bitcoin/comments/1ph8e2i/pahahha_i_died/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
 
-9h ago
+10h ago
 
 ---
 
 **[To all who sold…](https://www.reddit.com/r/Bitcoin/comments/1ph3rsw/to_all_who_sold/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -111,12 +111,6 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 **[Max Pain](https://www.reddit.com/r/Bitcoin/comments/1phasad/max_pain/)**
 
-29m ago
-
----
-
-**[Buy buy buy!](https://www.reddit.com/r/Bitcoin/comments/1ph9n2c/buy_buy_buy/)**
-
 1h ago
 
 ---
@@ -125,7 +119,13 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 They didn't trade, they didn't sell to buy back later, they didn't follow the 4-year cycle, nothing. Just HODL Replicate them.
 
-1h ago
+2h ago
+
+---
+
+**[Buy buy buy!](https://www.reddit.com/r/Bitcoin/comments/1ph9n2c/buy_buy_buy/)**
+
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ They didn't trade, they didn't sell to buy back later, they didn't follow the 4-
 
 Really cool they have this at common bookstores in Thailand. The placement could be better hahaha, forex has a better location on the shelves here. FOREX!!! Is bitcoin a type of Forex? Kinda. Its actually the ultimate forex.
 
-3h ago
+4h ago
 
 ---
 
@@ -153,23 +153,29 @@ Really cool they have this at common bookstores in Thailand. The placement could
 
 Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
 
-Financial Times • 7h ago
+Financial Times • 8h ago
 
 ---
 
-**[Bitcoin down for 2025 while S&P 500 is up — a first since 2014](https://finance.yahoo.com/video/bitcoin-down-2025-while-p-215541104.html)**
+**[Bitcoin’s Deep Correction Sets Stage for December Rebound, Says K33 Research](https://www.coindesk.com/markets/2025/12/05/bitcoin-s-deep-correction-sets-stage-for-december-rebound-says-k33-research)**
 
-Bitcoin (BTC-USD) is on track to record a yearly decline for 2025, while the S&P 500 (^GSPC) sees gains for the same period. This would mark the first split in crypto and equity performance since 2014, according to Bloomberg. Yahoo Finance Senior Reporter Ines Ferré examines the phenomenon and how precious metal prices (GC=F, SI=F) play a part. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
+K33 Research says market fear is outweighing fundamentals as bitcoin nears key levels. December could offer an entry point for bold investors.
 
-Yahoo Finance • 2d ago
+CoinDesk • 3d ago
 
 ---
 
-**[Harvard Bets Big on Bitcoin With $443M Stake, Outpacing Gold 2-to-1](https://finance.yahoo.com/news/harvard-bets-big-bitcoin-443m-104851484.html)**
+**[Stocks and bitcoin are breaking up](https://finance.yahoo.com/news/stocks-bitcoin-breaking-111502902.html)**
 
-Harvard University expanded its Bitcoin ETF holdings by 257% in the third quarter, making the iShares Bitcoin Trust its largest disclosed position with $442.8 million as of September 30. According to Matt Hougan, Bitwise CIO, Harvard simultaneously increased its gold ETF holdings by 99% to $235 million, allocating to Bitcoin ...
+If the stock market is up, bitcoin usually is too. But this year has been different.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Bitcoin Price, XRP, Ethereum Jump. What Cryptos Need for a Sustained Rally.](https://www.barrons.com/articles/bitcoin-price-xrp-ethereum-cryptos-fed-rate-2085d4a2?gaa_at=eafs&gaa_n=AWEtsqeRFj_ap0ejYWxIxta3TZ4bn_pa1KcPvM0gwfzpw4ugWG5MhHH6sTkU&gaa_ts=6936d4ae&gaa_sig=zg7i9OvATzMrt9EOyg_udzngVJF8DIIKKPom2_sxGqdePPhU93yD46wn8HEAodgJJR8wihXl7tI6G2CPFz6XsQ%3D%3D)**
+
+Barron's • 2h ago
 
 ---
 
@@ -181,11 +187,33 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
+**[Coinbase Makes Bold Bitcoin Prediction For December Despite Market Downturn](https://finance.yahoo.com/news/coinbase-makes-bold-bitcoin-prediction-113224239.html)**
 
-Which of these popular cryptocurrencies has more upside potential?
+Coinbase says the crypto market is entering a December recovery phase as liquidity improves and macro conditions turn more supportive.
 
-The Motley Fool • 15h ago
+Yahoo Finance • 2d ago
+
+---
+
+**[A Bitcoin ETF Doubled in Value. Its Investors Made Only One-Fourth of That](https://www.morningstar.com/funds/bitcoin-etf-doubled-value-its-investors-made-only-one-fourth-that)**
+
+iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
+
+Morningstar • 2h ago
+
+---
+
+**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
+
+Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
+
+Decrypt • 20h ago
+
+---
+
+**[Cathie Wood predicts next gold crash, sees Bitcoin outperforming](https://www.thestreet.com/crypto/markets/cathie-wood-predicts-next-gold-crash-bitcoin-outperforming)**
+
+TheStreet • 22h ago
 
 ---
 
@@ -193,35 +221,7 @@ The Motley Fool • 15h ago
 
 The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
 
-Forbes • 23h ago
-
----
-
-**[Cathie Wood predicts next gold crash, sees Bitcoin outperforming](https://www.thestreet.com/crypto/markets/cathie-wood-predicts-next-gold-crash-bitcoin-outperforming)**
-
-TheStreet • 21h ago
-
----
-
-**[Bitcoin turns negative for the week as it fails to hold above $90,000: CNBC Crypto World](https://www.cnbc.com/video/2025/12/05/bitcoin-turns-negative-for-the-week-as-it-fails-to-hold-above-90000-cnbc-crypto-world.html)**
-
-On today's episode of CNBC Crypto World, bitcoin and other major cryptocurrencies turn negative to closer out the week. Plus, prosecutors recommend a 12-year prison sentence for Terraform Labs founder Do Kwon. And Summer Mersinger, CEO of the Blockchain Association, discusses the group's upcoming policy summit in Washington, D.C.
-
-CNBC • 2d ago
-
----
-
-**[Bring Bitcoin Mining into Your Office Without Noise, Heat, or Hassle](https://www.entrepreneur.com/money-finance/bring-bitcoin-mining-into-your-office-without-noise-heat/500383)**
-
-Entrepreneur • 1d ago
-
----
-
-**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
-
-Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
-
-Futurism • 1d ago
+Forbes • 1d ago
 
 ---
 
@@ -261,7 +261,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 1 • 21h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 1 • 22h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -285,7 +285,7 @@ Track the next Bitcoin halving event with live countdown and real-time block upd
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 6 • 💬 0 • 5h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 6 • 💬 0 • 6h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -313,7 +313,47 @@ Bitcoin today with Benjamin Cowen!
 
 📺 MMCrypto
 
-👁️ 8K • 👍 1K • 💬 307 • ⏱️ 7:39 • 4h ago
+👁️ 17K • 👍 2K • 💬 433 • ⏱️ 7:39 • 4h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Big Money Knows](https://www.youtube.com/watch?v=BCCezmp_O20)**
+
+BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT BONUS ...
+
+📺 Lark Davis
+
+👁️ 4K • 👍 399 • 💬 21 • ⏱️ 37:57 • 1h ago
+
+---
+
+**[Bitcoin&#39;s BIGGEST Risk, Rate Cuts Incoming &amp; 2026 Predictions](https://www.youtube.com/watch?v=YhEPhRIZxUA)**
+
+All eyes on Powell. Bitcoin chops sideways. DATs collapse. Liquidity turns. This week's live stream breaks down the biggest ...
+
+📺 Coin Bureau
+
+👁️ 2K • 👍 254 • 5h ago
+
+---
+
+**[BTC: Should You BUY Back Here OR Wait For Lower? [My Plan]](https://www.youtube.com/watch?v=wphUx_yy-98)**
+
+In today's video, Kyledoops shares his strategy on whether to buy back now or just wait for lower. With price stalling many are ...
+
+📺 Crypto Banter
+
+👁️ 12K • 👍 1K • 💬 20 • ⏱️ 32:04 • 5h ago
+
+---
+
+**[BITCOIN: big news!!!](https://www.youtube.com/watch?v=wA5Xgv-r13E)**
+
+AscendEX Platform https://ckenny.com/ASC Free Strategy Course https://ckenny.com/whopCK ⚠️ DISCLAIMER – READ ...
+
+📺 Conor Kenny
+
+👁️ 7K • 👍 609 • 💬 83 • ⏱️ 5:59 • 3h ago
 
 ---
 
@@ -323,17 +363,17 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 305 • ⏱️ 18:52 • 13h ago
+👁️ 24K • 👍 1K • 💬 312 • ⏱️ 18:52 • 13h ago
 
 ---
 
-**[Bitcoin: The Unbelievable Reality Is Setting In (18-Year Cycle)](https://www.youtube.com/watch?v=KKDPrcLDuJg)**
+**[Tom Lee: Prepare Now For What&#39;s Coming | Bitcoin &amp; XRP December Prediction](https://www.youtube.com/watch?v=rd5t2UCh0Fw)**
 
-TIA PRO $1000 OFF LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE → *GET ...
+Tom Lee: Prepare Now For What's Coming | Bitcoin & XRP December Prediction XRP News Today, Crypto News, Bitcoin News, ...
 
-📺 Jason Pizzino
+📺 NCashOfficial - Daily Crypto & Finance News
 
-👁️ 19K • 👍 1K • 💬 381 • ⏱️ 29:13 • 10h ago
+👁️ 8K • 👍 469 • 💬 219 • ⏱️ 16:50 • 8h ago
 
 ---
 
@@ -343,67 +383,27 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 2K • 👍 264 • 💬 8 • ⏱️ 7:18 • 3h ago
+👁️ 5K • 👍 478 • 💬 21 • ⏱️ 7:18 • 4h ago
 
 ---
 
-**[IT’S RIGGED! Kevin O’Leary Warns ‘Buckle Up’ Bitcoin &amp; Ethereum Holders](https://www.youtube.com/watch?v=s3Exn-qdeno)**
+**[Bitcoin: The Unbelievable Reality Is Setting In (18-Year Cycle)](https://www.youtube.com/watch?v=KKDPrcLDuJg)**
 
-LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily ...
+TIA PRO $1000 OFF LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE → *GET ...
+
+📺 Jason Pizzino
+
+👁️ 23K • 👍 1K • 💬 484 • ⏱️ 29:13 • 11h ago
+
+---
+
+**[The White House Just Released The Cryptocurrency Bulls!!](https://www.youtube.com/watch?v=iSWMFZ5NChw)**
+
+The White House Just Released The Cryptocurrency Bulls!! Become a channel member & get access to perks: ...
 
 📺 Altcoin Daily
 
-👁️ 70K • 👍 3K • 💬 360 • ⏱️ 11:32 • 1d ago
-
----
-
-**[Bitcoin Whales Just Reversed Their Entire Strategy — Here’s What Changed](https://www.youtube.com/watch?v=T3e6Q02kUag)**
-
-Bitcoin Whales Just Flipped Their Bets… Here's What They Know ⚠️ Something very unusual just happened in the Bitcoin ...
-
-📺 Ryan’s Money Lab
-
-👁️ 26K • 👍 1K • 💬 90 • ⏱️ 11:17 • 20h ago
-
----
-
-**[Bitcoin On-Chain Risk](https://www.youtube.com/watch?v=2DUCJDmTOks)**
-
-This chart shows the historical backtest of the on-chain risk gauge shown on the Homepage and the Indicator Dashboard.
-
-📺 Benjamin Cowen
-
-👁️ 22K • 👍 2K • 💬 65 • ⏱️ 9:57 • 7h ago
-
----
-
-**[Bitcoin (BTC): 2026 Will Destroy Most.. You Need To Be Prepared! (WATCH ASAP)](https://www.youtube.com/watch?v=OUjRDMhcQHA)**
-
-Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (Non-KYC) 15% off trading fees + ...
-
-📺 MegaWhale Crypto
-
-👁️ 5K • 👍 277 • 💬 313 • ⏱️ 21:14 • 11h ago
-
----
-
-**[BITCOIN - BINANCE DID IT AGAIN](https://www.youtube.com/watch?v=41m6RPPFqk4)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 13K • 👍 527 • 💬 185 • ⏱️ 10:04 • 19h ago
-
----
-
-**[Is the NEW Pro-Bitcoin Fed Appointee About to LAUNCH a Super-Cycle??](https://www.youtube.com/watch?v=_35wf1iITkE)**
-
-A Fed takeover is brewing — and Bitcoin could be the winner. With Trump poised to install a dovish Fed chair, the dollar's in ...
-
-📺 Simply Bitcoin
-
-👁️ 15K • 👍 773 • 💬 163 • ⏱️ 24:30 • 18h ago
+👁️ 52K • 👍 3K • 💬 277 • ⏱️ 12:47 • 14h ago
 
 ---
 
