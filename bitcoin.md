@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T05:50:30.111229+00:00'
+updated: '2025-12-08T06:18:30.216531+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 05:50 UTC  
+**Last Updated:** December 08, 2025 at 06:18 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,047.43
+### $91,404.06
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
+**24h:** +2.1%  
 **7d:** -0.2%  
 **30d:** -12.9%  
 **90d:** -19.8%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1822.26B
+**Market Cap:** $1822.80B
 Rank #1
 
-**Circulating Supply:** 19,959,162 BTC
+**Circulating Supply:** 19,959,196 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.6%
+-27.5%
 
 **All-Time Low:** $67.81
-+134566.0%
++134689.9%
 
 ---
 
@@ -79,19 +79,13 @@ Rank #1
 
 **[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
 
-10h ago
-
----
-
-**[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
-
 11h ago
 
 ---
 
 **[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -103,23 +97,29 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 ---
 
+**[To all who sold…](https://www.reddit.com/r/Bitcoin/comments/1ph3rsw/to_all_who_sold/)**
+
+1h ago
+
+---
+
 **[MasterCard is Orange Pilled for 1 Billion Users](https://www.reddit.com/r/Bitcoin/comments/1pgenos/mastercard_is_orange_pilled_for_1_billion_users/)**
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
-19h ago
+20h ago
 
 ---
 
-**[To all who sold…](https://www.reddit.com/r/Bitcoin/comments/1ph3rsw/to_all_who_sold/)**
+**[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
 
-52m ago
+12h ago
 
 ---
 
 **[Not selling Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgtw05/not_selling_bitcoin/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -127,7 +127,7 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 Some people on TV or online act like inflation is “not that bad” or even pretend it’s exaggerated. But regular people don’t need charts to know the truth. They see it when they: • check out at the grocery store • fill up their gas tank • pay rent • try to save • try to invest • try to raise a family We’re not imagining it. We’re living it. If your money buys less every year, that’s not a “hoax.” That’s the system working exactly as designed. Bitcoin wasn’t created because everything was fine it was created because inflation quietly destroys the middle and working class. People deserve honesty about what’s happening to their money. Silence helps no one. What signs of inflation hit you the hardest this year?
 
-8h ago
+9h ago
 
 ---
 
@@ -139,9 +139,11 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 ---
 
-**[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
+**[It’s insane how impatient people are.](https://www.reddit.com/r/Bitcoin/comments/1pgy50z/its_insane_how_impatient_people_are/)**
 
-22h ago
+This statement applies both for price movement but also adoption. Much has been said about price movement, so I’m making this post to talk about adoption. I’ve heard people say that Bitcoin as a store of value and digital gold has strayed from Satoshi’s vision of Bitcoin as a peer to peer digital currency. I think this is misguided thinking. First, what is gold? If you were to ask our good friend (/s), Peter Schiff, he would say that gold is the soundest money known to man. So, if Bitcoin is becoming digital gold, that means Bitcoin is digital money. Wonderful. Mission accomplished? So why aren’t people transacting in Bitcoin? Why is it ONLY a store of value right now? Well, let’s look at Gold. People used to transact in gold when the government issued paper certificates backed in gold, and gold/silver coins of standard weights. This was necessary for gold to be a medium of exchange as well as a store of value. Without standardization, it’s impossible to know how much gold you are receiving. One gold bar does not necessarily equal one gold bar. One bitcoin, on the other hand, does equal one bitcoin. This is the power of Bitcoin that people don’t really see. It will always be peer to peer, even with investment banks joining the crowd, because there is no need for the government to standardize anything for the system to function. As of now, there are two main reasons why Bitcoin is not a medium of exchange. First, it isn’t accepted by many businesses. This is only because we are so early. There is really no reason to sell bitcoin right now to pay for services from a business and it’s complicated for businesses to accept bitcoin. As more and more people start to own more and more bitcoin, eventually people will start spending it because that’s just what they have available, and they will use it to buy the things they need. Businesses will start to accept Bitcoin because people will want to pay with it, and also because technology will be developed to automate tax compliance. Barring network failure, this seems inevitable, but it’s not going to take place in a year. This will take decades. Just stack. DCA and forget about it.
+
+5h ago
 
 ---
 
@@ -153,7 +155,7 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 President Trump's latest national security strategy omits digital assets, focusing instead on AI, biotech, and quantum computing.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -165,41 +167,9 @@ Decrypt • 13h ago
 
 ---
 
-**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
+**[Michael Saylor Explains Why Banks Are No Longer Waiting for Bitcoin](https://www.binance.com/en/square/post/33413939298642)**
 
-Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
-
-Financial Times • 50m ago
-
----
-
-**[Bitcoin Edges Back Above $91,000 as Traders Brace for Fed Decision and Jobs Data](https://decrypt.co/351388/bitcoin-back-above-91000-traders-brace-fed-decision-jobs-data)**
-
-Bitcoin is edging higher ahead of the Fed’s final rate decision and a key jobs report, extending its rebound as thin liquidity persists.
-
-Decrypt • 2h ago
-
----
-
-**[Bitcoin Edges Back Above $91,000 as Traders Brace for Fed Decision and Jobs Data](https://finance.yahoo.com/news/bitcoin-edges-back-above-91-032952373.html)**
-
-Bitcoin is edging higher ahead of the Fed’s final rate decision and a key jobs report, extending its rebound as thin liquidity persists.
-
-Yahoo Finance • 2h ago
-
----
-
-**[BTC, XRP, ETH, SOL News: Bitcoin in Counter-Trend Channel](https://www.coindesk.com/markets/2025/12/08/here-s-how-bitcoin-xrp-ether-and-solana-may-trade-today)**
-
-ETH mirrors BTC's counter-trend consolidation as XRP probes key $2 support and SOL remains directionless
-
-CoinDesk • 1h ago
-
----
-
-**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
-
-TheStreet • 2d ago
+Binance • 6h ago
 
 ---
 
@@ -211,11 +181,9 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
+**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
 
-Which of these popular cryptocurrencies has more upside potential?
-
-The Motley Fool • 9h ago
+TheStreet • 2d ago
 
 ---
 
@@ -224,6 +192,38 @@ The Motley Fool • 9h ago
 On today's episode of CNBC Crypto World, bitcoin and other major cryptocurrencies turn negative to closer out the week. Plus, prosecutors recommend a 12-year prison sentence for Terraform Labs founder Do Kwon. And Summer Mersinger, CEO of the Blockchain Association, discusses the group's upcoming policy summit in Washington, D.C.
 
 CNBC • 2d ago
+
+---
+
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
+
+Which of these popular cryptocurrencies has more upside potential?
+
+The Motley Fool • 9h ago
+
+---
+
+**[Crypto Adoption Continues Even As Bitcoin Stumbles](https://www.forbes.com/sites/digital-assets/2025/12/07/crypto-adoption-continues-even-as-bitcoin-stumbles/)**
+
+Crypto volatility has returned, but has not slowed adoption by institutions
+
+Forbes • 9h ago
+
+---
+
+**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
+
+Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
+
+Futurism • 1d ago
+
+---
+
+**[Why JPMorgan says bitcoin could rocket to $170,000 in the coming months](https://www.businessinsider.com/bitcoin-price-prediction-btc-170k-jpmorgan-gold-forecast-2025-12)**
+
+JPMorgan said it was eyeing two factors related to Michael Saylor's Strategy that would help bitcoin avoid further declines in the near term.
+
+Business Insider • 3d ago
 
 ---
 
@@ -263,7 +263,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 1 • 14h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 1 • 15h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -313,17 +313,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 989 • 💬 201 • ⏱️ 18:52 • 6h ago
-
----
-
-**[Bitcoin: The Unbelievable Reality Is Setting In (18-Year Cycle)](https://www.youtube.com/watch?v=KKDPrcLDuJg)**
-
-TIA PRO $1000 OFF LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE → *GET ...
-
-📺 Jason Pizzino
-
-👁️ 3K • 👍 380 • 💬 135 • ⏱️ 29:13 • 3h ago
+👁️ 16K • 👍 1K • 💬 241 • ⏱️ 18:52 • 6h ago
 
 ---
 
@@ -333,47 +323,17 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 283 • 💬 193 • ⏱️ 19:45 • 11h ago
+👁️ 7K • 👍 310 • 💬 187 • ⏱️ 19:45 • 11h ago
 
 ---
 
-**[IT’S RIGGED! Kevin O’Leary Warns ‘Buckle Up’ Bitcoin &amp; Ethereum Holders](https://www.youtube.com/watch?v=s3Exn-qdeno)**
+**[Bitcoin: The Unbelievable Reality Is Setting In (18-Year Cycle)](https://www.youtube.com/watch?v=KKDPrcLDuJg)**
 
-LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily ...
+TIA PRO $1000 OFF LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE → *GET ...
 
-📺 Altcoin Daily
+📺 Jason Pizzino
 
-👁️ 67K • 👍 3K • 💬 345 • ⏱️ 11:32 • 1d ago
-
----
-
-**[BITCOIN - BINANCE DID IT AGAIN](https://www.youtube.com/watch?v=41m6RPPFqk4)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 12K • 👍 504 • 💬 191 • ⏱️ 10:04 • 12h ago
-
----
-
-**[AI + Bitcoin = ASI? The Shocking 8-Year Path Ahead 🔥🧠](https://www.youtube.com/watch?v=0lTwjd_vD9M)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: http://www.investanswers.io FREE INVESTOR ...
-
-📺 InvestAnswers
-
-👁️ 25K • 👍 2K • 💬 89 • ⏱️ 41:33 • 8h ago
-
----
-
-**[BITCOIN: QUICK MARKET UPDATE!!! #BTC Price Prediction &amp; Crypto Pump News Today](https://www.youtube.com/watch?v=4rxByFVWxM8)**
-
-My Free Trading Course https://www.rt1m.com/free Trading Bonuses & Fee Discounts ...
-
-📺 Road To $1 Million USD
-
-👁️ 3K • 👍 221 • 💬 43 • ⏱️ 4:27 • 7h ago
+👁️ 9K • 👍 677 • 💬 216 • ⏱️ 29:13 • 3h ago
 
 ---
 
@@ -383,27 +343,67 @@ Bitcoin Whales Just Flipped Their Bets… Here's What They Know ⚠️ Something
 
 📺 Ryan’s Money Lab
 
-👁️ 19K • 👍 995 • 💬 64 • ⏱️ 11:17 • 13h ago
+👁️ 22K • 👍 1K • 💬 70 • ⏱️ 11:17 • 14h ago
 
 ---
 
-**[BITCOIN: SHOCKING TRUTH YOU NEED TO KNOW](https://www.youtube.com/watch?v=E58erP3lpog)**
+**[IT’S RIGGED! Kevin O’Leary Warns ‘Buckle Up’ Bitcoin &amp; Ethereum Holders](https://www.youtube.com/watch?v=s3Exn-qdeno)**
 
-WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 PIONEX: ...
+LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily ...
 
-📺 Crypto Kid
+📺 Altcoin Daily
 
-👁️ 6K • 👍 420 • 💬 217 • ⏱️ 5:07 • 9h ago
+👁️ 68K • 👍 3K • 💬 349 • ⏱️ 11:32 • 1d ago
 
 ---
 
-**[Bitcoin BTC Indicators Did This SAME EXACT THING For Every Low We&#39;ve Had Since 2023](https://www.youtube.com/watch?v=9iTnnj4VFec)**
+**[Michael Saylor at Bitcoin MENA: Bitcoin Price Prediction 2025 &amp; What’s Next for BTC](https://www.youtube.com/watch?v=aV_y1-vJNuQ)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+Michael Saylor joins Bitcoin MENA to deliver a strategic outlook on the future of Bitcoin and his latest Bitcoin price prediction for ...
 
-📺 C-Zar Gets Crypto 
+📺 Kevtech IT Support
 
-👁️ 2K • 👍 112 • 💬 107 • ⏱️ 23:18 • 13h ago
+👁️ 4K • 👍 3K • 52m ago
+
+---
+
+**[BITCOIN - BINANCE DID IT AGAIN](https://www.youtube.com/watch?v=41m6RPPFqk4)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 12K • 👍 516 • 💬 168 • ⏱️ 10:04 • 13h ago
+
+---
+
+**[bitcoin is about to change forever (and nobody even realises)](https://www.youtube.com/watch?v=fE1XaJjBwkg)**
+
+bitcoin is having some massive changes and I see nobody talking about them. future is bright fam Check out Casa's free guide on ...
+
+📺 BTC Isla
+
+👁️ 50K • 👍 3K • 💬 493 • ⏱️ 10:23 • 2d ago
+
+---
+
+**[BITCOIN: QUICK MARKET UPDATE!!! #BTC Price Prediction &amp; Crypto Pump News Today](https://www.youtube.com/watch?v=4rxByFVWxM8)**
+
+My Free Trading Course https://www.rt1m.com/free Trading Bonuses & Fee Discounts ...
+
+📺 Road To $1 Million USD
+
+👁️ 4K • 👍 245 • 💬 44 • ⏱️ 4:27 • 8h ago
+
+---
+
+**[The Hidden Crisis Behind Bitcoin’s Latest Crash | David Bailey](https://www.youtube.com/watch?v=dSg3gs_MKBk)**
+
+Bitcoin #Crypto #Finance Bitcoin's price may be volatile, but according to David Bailey, CEO of Nakamoto and architect of the ...
+
+📺 The Wolf Of All Streets
+
+👁️ 13K • 👍 605 • 💬 299 • ⏱️ 1:04:56 • 16h ago
 
 ---
 

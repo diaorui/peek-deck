@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T05:50:30.117221+00:00'
+updated: '2025-12-08T06:18:30.221963+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 05:50 UTC  
+**Last Updated:** December 08, 2025 at 06:18 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,103.23
+### $3,128.85
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.9%  
-**7d:** +4.8%  
-**30d:** -12.5%  
-**90d:** -27.9%  
-**1y:** -15.6%  
+**24h:** +3.2%  
+**7d:** +4.5%  
+**30d:** -12.8%  
+**90d:** -28.1%  
+**1y:** -15.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $378.09B
+**Market Cap:** $377.80B
 Rank #2
 
 **Circulating Supply:** 120,695,342 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.6%
+-36.7%
 
 **All-Time Low:** $0.43
-+723595.6%
++722701.8%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion December 08, 2025](https://www.reddit.com/r/ethereum/comments/1ph4xqo/daily_general_discussion_december_08_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+16m ago
+
+---
+
 **[Daily General Discussion December 07, 2025](https://www.reddit.com/r/ethereum/comments/1pgazhx/daily_general_discussion_december_07_2025/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is Part Eight! The very last chapter of the eight-part series: Can I Pay With This: A stablecoin experiment in Buenos Aires (finally!). Thank you to the Ethereum Foundation and the EV Mavericks for their support, without which this experiment could never have happened. Table of Contents Part One: Decentralized or Destitute <-- New? Start here. Money, monkeys and mild terror Part Two: First Contact with Reality KYC on a hostel bunk bed Part Three: WE ACCEPT BITCOIN (sort of) Worst title for an Ethereum subreddit ever Part Four: Eighteen Ways to Pay for Ice Cream Stablecoins, FX hell and a missing keyboard Part Five: Going Bankless From tourist shop hack to cueva contact Part Six: Trustless, My Ass Trading with the Blue Man Part Seven: Custodial Services Self-custody is easy, luggage custody is hard Part Eight: Apparently I Did It Wrong <-- You are here "You should have just used X, bro." When I get back to Buenos Aires, suddenly everyone is talking about crypto adoption. It's a week before the conference and people are exchanging tips. "You can trade USDT for pesos at any exchange," people tell me knowingly. "Where, exactly?" Not a single one of them is able to give me a location. There are exchange houses, they say with a bit of hand waving. Just look for USDT stickers on the window along with the dollar and euro currency symbols. When I point out that I've been here for three weeks and not seen a single one, I'm told it's because I was staying in the wrong part of Buenos Aires. "Go to Palermo, they are everywhere." I go to Palermo. They are definitely not everywhere. I ask at an exchange, in case there just isn't a sign. No: no cripto. I ask other conference goers if they've seen any exchanges that take USDT. No one has. A few days later, one person in the conference Telegram group sends a photograph of an exchange that takes USDT. Success! The sign is explicit though: TRON only. I don't bother visiting. At the cypherpunk conference, I speak to a Buenos Aires resident who refuses to do KYC on principle. I can't think of another city where you could exist without KYC. But when I point out how complicated I've found it to trade stablecoins for cash, he is surprised. Initially he says that the exchanges are everywhere but accepts my lived experience, that I never found a single one. He laughs when I tell him how frightened I was to meet with Blue. It's perfectly safe, he tells me. And yes, delivering the money through a man on a motorbike is common, although he concedes that maybe not on the first trade. But for visitors to the country, foreigners, doesn't he think that it's a bigger risk? I feel like even asking the question is making myself a target. "That's what community is for," he tells me. "You ask your friends, you get told where to go." Friends? Not only do I have to dodge scammers, guard seed phrases and pretend I understand half the apps I'm using. Now I have to have friends? OK... I do have friends, technically. But the Venn diagram of "people who like me", "people who use crypto" and "people who understand Argentina's financial underworld" is just three circles in the shape of a snowman. He takes a bit of a breath, as if summoning patience, and tells me that the point is to trust the community. Ask on Twitter! Twitter? That same Twitter that told me I don't need cash in Buenos Aires? That's who he thinks I should ask? He agrees that maybe Twitter isn't the best example of a web of trust. But really, trading with someone like Blue is very safe, he tells me, and borderline accuses me of having trust issues. He might have a point. A herd of new payment apps explodes onto the scene in the week leading up to the conference. I keep putting $20 into each app's wallet and hoping I remember to pull it all back out at the end. I pay using stablecoin cards and QR payment systems all over the city. Most of these allow me to pay in stablecoins while the vendor receives pesos. One very clever app pushes daily updates as they on-board restaurants all over the city, allowing the merchant to receive my stablecoins directly, without conversion. By the time I leave Buenos Aires, they've signed up over two dozen cafés and restaurants. The first QR-payment app that I installed has a big breakthrough during the conference: integration with a set of ATMs allowing the user to withdraw cash. Another QR-based app ticks all my boxes: they connect me directly to buyers; I tell them how many USDT I need to pay my bill and once someone agrees to the purchase, I scan the QR code and they pay the merchant on my behalf. There's no KYC and no permission needed, just an online marketplace which works amazingly well. Meanwhile, all conference attendees are given a newbie-friendly wallet built into the Devconnect app, which allows them to pay for everything at the conference using stablecoins or crypto, no need for pesos at all. These innovative approaches can only flourish in certain environments. Someone commented that Buenos Aires was perfectly positioned to be Ground Zero for crypto adoption. I agree. Maybe stablecoins aren’t a revolution here, but they are already accepted as another tool in the box. The big difference was that my community had arrived. Devconnect 2025 had brought thousands of people to a conference hall in Buenos Aires to talk about exactly these problems and to offer solutions. Obviously, physical exchanges that take USDT do exist. Once you find one, never again will you have to peer into shop windows looking like an orphan on Christmas Eve. There's an active P2P community centered around Binance. Motorbike couriers with envelopes of money are apparently an accepted part of local finance, even if I declined to partake. People don't flinch when you mention crypto. That's more than I can say for my hometown. Whatever comes next won’t be clean or ideological. It’ll look like Buenos Aires: improvised, relentless, and somehow functioning against the odds. In the end, I proved that it is possible to deal with day-to-day life using stablecoins, if not in a wholly decentralized and permissionless manner. With more local knowledge, I could mostly live on stablecoins without KYC, by converting to cash and being choosy about which shops and restaurants I frequented. No, the people of Buenos Aires do not use stablecoins for transactions on a daily basis. There is clearly very little mainstream adoption of crypto payments. Right now, the main advantage of stablecoin apps and payment systems in Buenos Aires is that last-minute conversion to traditional rails and pesos. But even that is a jump forward. The infrastructure exists. The current regulatory space allows for experimentation. People are already aware of the benefits of holding savings in stablecoin. The QR payment system is standardized, waiting to be plugged into. Developers are building, not debating whether to start. Call it early adoption, call it survival instinct. Whatever it is, Buenos Aires is ready long before anyone else is. Right now, they are not using Ethereum for their financial freedom. But they could. Buenos Aires isn’t running on stablecoins yet. But if any city decides to, it’ll be this one. This was an EVMavericks production.
 
-12h ago
+13h ago
 
 ---
 
@@ -100,14 +108,6 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 ---
 
-**[Thought experiment, how much extra time would it cost to internally shard block production in a geographically distributed way (on a simpler ledger like the older UTXO-model)?](https://www.reddit.com/r/ethereum/comments/1pgoeor/thought_experiment_how_much_extra_time_would_it/)**
-
-I was recently censored by Edmund something, so I thought I would ask this community if you could disprove an assumption I have considered. I have considered a scaling paradigm, and here would like to ask about it for a simpler ledger like UTXO-model (and the idea is that the same principles can be scaled up to more advanced "world computer" like Ethereum). It seems appropriate to attack my argument rather than censor me for having respect for another individual (Craig Wright). My idea is very simple. Shard a UTXO ledger by transaction hash mod numShards. There is "wiggle room" for nodes to shard with different values, as it can translate back and forth. Then, if 1024 shards, let shard 0 build blocks only with transaction hashes it "owns", and any shard using those as inputs will have to request the right from the shard. The shards manage and stores such "virtual blocks". Propagation of mempool transactions as well as "virtual blocks" is between shards only (or, mainly). Shards will request transactions from mempool by modulo numShards, and similar with the "virtual block" (where the boundaries of that block is the Merkle tree, so it naturally also splits and combines so people can use different numShards). The central block header is signed by the "coordinator" (via proof-of-work or proof-of-stake or proof-of-suffrage) who combines the Merkle roots of the sub-blocks. They trust all their "sub-nodes" internally. Likewise, the transaction fees can be done easily in UTXO-format by each sub-node reporting their own output for coinbase. Assuming 1 MB blocks and 1024 shards, 5000 transactions per block, on average 2-3 inputs per transaction, on average 10-15 requests per shard-pair. The geographical distribution solves the bandwidth bottleneck (as well as computation and storage to some extent) and lets less advanced hardware still team-up to easily operate on gigabyte (or more) blocks. What is the added latency would people here say from the geographical distribution of the shards?
-
-12h ago
-
----
-
 **[Part Seven of Can I Pay With This: Custodial Services](https://www.reddit.com/r/ethereum/comments/1pg0lxi/part_seven_of_can_i_pay_with_this_custodial/)**
 
 This is Part Seven of the eight-part series: Can I Pay With This: A stablecoin experiment in Buenos Aires. Thank you to the Ethereum Foundation and the EV Mavericks for their support, without which this experiment could never have happened. Table of Contents Part One: Decentralized or Destitute <-- New? Start here. Money, monkeys and mild terror Part Two: First Contact with Reality KYC on a hostel bunk bed Part Three: WE ACCEPT BITCOIN (sort of) Worst title for an Ethereum subreddit ever Part Four: Eighteen Ways to Pay for Ice Cream Stablecoins, FX hell and a missing keyboard Part Five: Going Bankless From tourist shop hack to cueva contact Part Six: Trustless, My Ass Trading with the Blue Man Custodial Services <-- You are here Having successfully beaten my Decentralized or Destitute challenge with my dignity mostly intact, I consider fleeing Buenos Aires before Microcentro rewires my nervous system. I'm dangerously close to falling in love with the city but that might just be a side effect of the long-term exposure to exhaust and capybara memes. I find a cheap flight to Jujuy. My brain floods with visions of hiking in the Andes with my pockets full of pesos. I'll drink some wine, I'll pet a llama, maybe I'll even do some writing. But traditional finance fails me. The airline refuses my cards. All of them. Cryptocards, debit cards, credit card from a reputable European bank. Declined and denied with a vague error and a customer service bot which repeatedly tells me that foreign cards are not a problem and I should check that I entered my card details correctly. I have half a dozen new apps on my phone to pay with stablecoins. I've gone through the KYC and been accepted for most of them, so that I can test them one-by-one. Mostly they work well. I don't even need to put money in them in advance; once I know what I want to buy, I can quickly move stablecoins into the app and they appear immediately. But the apps are no use to me for paying for online purchases; I need a person with a terminal generating a QR code to use them. There's third-party aggregator that looks like it scraped the flight off of Google but actually allows me to pay for the flight. Just one catch: no luggage. Not even a carry on. They suggest that I buy extras separately, from the airline that cannot manage a card transaction. Fine. I don't need luggage. I strip my belongings down to the essentials. There's a storage company that operates on some sort of decentralized custody protocol for personal belongings. You book online, get the address of a location somewhere in your chosen neighbourhood, and give them all of your earthly possessions. My assigned drop point is a phone shop in San Telmo, crammed with AI-art cases and knockoff chargers. I give them my number and hand them my suitcase. All I can do is trust that the shop is still here when I return. I take the bus to the airport wearing three layers of clothing, a spare set of underwear shoved into my handbag. I have both phones, Kindle, tablet and keyboard and a tangle of cables tucked into my hoodie pockets, looking like one of those street vendors who open up their coat and show you a wide range of goods. At the airport, I unpack everything to pass through security. I need three trays. After I pack myself back up, a man with a wand points out that I have a cable trailing behind me. At the gate, the Argentines start forming a queue an hour before boarding, pure social contract magic. I stay seated like a savage until I see our plane pull up to the gate and dump its last cargo of tourists and gauchos. I squish into the middle seat and try to keep my hoodie spilling over the sides, redistributing items until I finally get the seatbelt over my middle. I do not exhale for the entire two hour flight. The airport is not in San Salvador and the bus to Tilcara, my chosen destination, is. I purchase a shuttle ticket and wait outside to stand in the rain until it is full and we are ready to go. The bus station is impossibly clean and bright. A woman at an information booth appears improbably happy to see me, checks the time and tells me which bus company has a bus leaving next which will stop at Ticara. The woman at the bus company is less happy to see me but, after realizing that I blatantly don't have a clue what I am doing, writes helpful notes in the margins of my ticket: bus will arrive in 40 minutes, somewhere between bay 08 and 13, it will say Humahuaca on the front and Evelia on the side. I ask if they take QR payments. She points out that there is a 10% discount for cash for the ticket. I pay cash. Forty minutes later, I wedge myself into my bus seat, attempting to take off my hoodie in a way that does not tip all of my electronics on the floor. And then we drive. The windows fog up and all I can see outside is black rain. I am desperate not to fall asleep and end up in some abandoned village where they've never heard of Ethereum or vowels. It's past eleven when the bus pulls into Tilcara. A cracked parking lot. A couple of guys loitering with intent. I check my phone: a 25-minute walk to the hostel, which I had glibly told the hostel would be easy as I have no bags. The air is thin and every road heads uphill. I can't find any street signs. The paved road quickly deteriorates into a dirt track. Shop shutters rattle closed as I walk past. When I manage to make eye contact with anyone, I get a dead stare. Every time I check my phone map, it tells me that I've gone the wrong way. Again. I should have stayed in Buenos Aires, I think. I loved every millimeter of Buenos Aires. People mostly smiled at me, said hello. There were coffee shops and restaurants and street lights. Here, there's just dirt and altitude. Defiantly, I mutter buenas noches under my breath at the next person coming towards me. She nods, replies. Shit. Am I supposed to be greeting people? Two turns from my hostel, the road dips downhill. Somewhere along the way, I climbed up a hill I didn't need to. I curse the Andean gods and keep walking. Finally, I arrive, punch in the code, and crash into my bed. It's midnight. I sleep like the dead. And then, morning. It's like someone rewired Tilcara overnight. It's beautiful. Still dusty and crumbling but golden in the morning light with misty black and red mountains creating a backdrop that looks like a motivational poster. I discover that street signs do exist, just not where you'd expect, hand painted onto walls and fences at random heights as you walk down the road. I scan the restaurant chalkboards, making mental lists of all the dishes I want to try, then pause, not quite emotionally ready to consider Llama al Malbec for my special evening meal. Maybe tomorrow. The locals have stern faces carved from stone until I whisper buen día, at which point they smile and greet me. I try it louder. Everyone seems happy to see me. Some even ask que tál?, how are you?, and actually seem to expect an answer. I respond with a slump and a wheeze, universal code for every road in this town is uphill and I am dying. I am met with laughter, sympathy and one invitation to a cold beer (I should have said yes). The hotel also gives a 10% discount for paying in cash, so I use up the rest of the pesos from Blue. I ask the woman if she knows where I can buy pesos in Tilcara. There are two Western Unions in town and a gift shop called Native Art who will exchange dollars for pesos. But what about stablecoins? She stares at me blankly. Never mind, I tell her. It doesn't matter anymore. And it really doesn't. Jump straight to the conclusion! Apparently I Did It Wrong ("You should have just used X, bro.")
@@ -116,11 +116,19 @@ This is Part Seven of the eight-part series: Can I Pay With This: A stablecoin e
 
 ---
 
+**[Thought experiment, how much extra time would it cost to internally shard block production in a geographically distributed way (on a simpler ledger like the older UTXO-model)?](https://www.reddit.com/r/ethereum/comments/1pgoeor/thought_experiment_how_much_extra_time_would_it/)**
+
+I was recently censored by Edmund something, so I thought I would ask this community if you could disprove an assumption I have considered. I have considered a scaling paradigm, and here would like to ask about it for a simpler ledger like UTXO-model (and the idea is that the same principles can be scaled up to more advanced "world computer" like Ethereum). It seems appropriate to attack my argument rather than censor me for having respect for another individual (Craig Wright). My idea is very simple. Shard a UTXO ledger by transaction hash mod numShards. There is "wiggle room" for nodes to shard with different values, as it can translate back and forth. Then, if 1024 shards, let shard 0 build blocks only with transaction hashes it "owns", and any shard using those as inputs will have to request the right from the shard. The shards manage and stores such "virtual blocks". Propagation of mempool transactions as well as "virtual blocks" is between shards only (or, mainly). Shards will request transactions from mempool by modulo numShards, and similar with the "virtual block" (where the boundaries of that block is the Merkle tree, so it naturally also splits and combines so people can use different numShards). The central block header is signed by the "coordinator" (via proof-of-work or proof-of-stake or proof-of-suffrage) who combines the Merkle roots of the sub-blocks. They trust all their "sub-nodes" internally. Likewise, the transaction fees can be done easily in UTXO-format by each sub-node reporting their own output for coinbase. Assuming 1 MB blocks and 1024 shards, 5000 transactions per block, on average 2-3 inputs per transaction, on average 10-15 requests per shard-pair. The geographical distribution solves the bandwidth bottleneck (as well as computation and storage to some extent) and lets less advanced hardware still team-up to easily operate on gigabyte (or more) blocks. What is the added latency would people here say from the geographical distribution of the shards?
+
+12h ago
+
+---
+
 **[Daily General Discussion December 06, 2025](https://www.reddit.com/r/ethereum/comments/1pfhy31/daily_general_discussion_december_06_2025/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -128,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I'm the inventor of the "simultaneous video event" Gavin Wood is currently pursuing (Gavin built the first version of Ethereum, then Jeffrey Wilckes and his team built the Golang, and then more came). I have followed "scaling" discussion since 2014, but always found that it was misunderstanding the Nakamoto consensus. But since my proof-of-unique-person requires someone to solve scaling, I took some more looks at the topic and I realized that what the discussion was missing is that the consensus should not be split. Everything happening under a "block of authority" should be by the same group, who trusts one another internally. With that, parallelization can still happen, but the consensus is not split. The concept is really similar otherwise to the "sharding" discussion, it only avoids splitting the consensus. What the discussion in Ethereum was typically in the past decade was to instead randomly assign validators to "shards" from the validator pool. This approach fundamentally misunderstands the consensus. As I realized what everyone got wrong, I was unable to find a system that actually did scale the way things should be done. But, I then noticed there is a system. But if I even mention that here, this gets removed. Not because of the topic I raise, but because of guilt by association. You have created a "community" where you have erased the roots to it, as well as made mention of actual competition (as the roots are often a form of competition, Steve Wozniak would remain a form of competition even as the computer industry outgrew his Apple 2 etc). The system I mentioned is teranode, that is parallelizing the block production but they do so internally under a singular trusted central authority for the "block". Of course Ethereum was the next step after Bitcoin, and my proof-of-unique-person is fundamentally based on the Ethereum paradigm. But Satoshi was who came up with the consensus. Buterin came up with the Turing completeness. Buterin, and Gavin Wood, and Jeffrey Wilckes, were all geniuses in my eyes. But so was Satoshi. "Removing this because it's not about Ethereum. It sort of pretends to be but doesn't make any attempt to work out what Ethereum sharding actually is so the point is clearly just to shill some Craig Wright thing. " Edmund Edgar
 
-19h ago
+20h ago
 
 ---
 
@@ -137,14 +145,6 @@ I'm the inventor of the "simultaneous video event" Gavin Wood is currently pursu
 1️⃣ From Research to Reality – An EIP’s Journey with Pooja Ranjan The summit kicks off by bridging the gap between abstract research and deployed code. A must-watch for understanding the EIP Process. 📺 Watch it here: https://youtu.be/wH76j1BDZkc #Ethereum #EIP #EthereumGovernance #EthCommunity 2️⃣ Don’t just use Ethereum: help shape it! with Jochem Brouwer Jochem argues that providing feedback on EIP drafts is a civic duty. Silence leads to consensus bugs. Learn how to break the silence on the Magicians forum. 📺 Watch it here: https://youtu.be/ZVHHsKS6Kxo #Ethereum #EIPSummit #EIPs 3️⃣ From Draft to Inclusion: A Proposal’s Journey with Jihoon Song Writing the EIP is only 5% of the work. The hard part is convincing people to consider it. Jihoon shows how to talk to the right people and handle the Core Dev meetings to get your idea accepted. 📺 Watch it here: https://youtu.be/i8HO-bAivno #EIPSummit #EIPs #EIPProcess #CoreDev 4️⃣ From Specification to Syncing a Node: Ensuring Upgrade Readiness with Parithosh Jayanthi How do you test a $500B+ network without breaking it? Inside the industrial supply chain of Ethereum testing: from Hive unit tests to mainnet Shadow Forks. 🏗️ 📺 Watch it here : https://youtu.be/9yTrzNCd0Gk #Testing #Devnets #ShadowForks 5️⃣ Code is Law: Avoiding Spec-ulation for Faster Forks with danceratopz & raxhvl The propose accelerating Ethereum forks by tightly coupling EIP markdown with executable specs, ensuring every text change is instantly verified by code to eliminate ambiguity. 📺 Watch: https://youtu.be/h5sUMWD9Yus #Ethereum #SpecReview #Testing 6️⃣ EIP-8007: A major update to EVM gas prices with Maria Inês Silva A quick explainer on why Meta EIP listing all related EIPs matters. How authors propose to reshapes gas pricing, and what this means for developers, performance & future upgrades. 📺 Watch: https://youtu.be/HpRNP8tc0lY #EIP8007 #EVM #GasCosts #GasPricing 7️⃣ From Idea to EIP: A First-Time Author’s Journey with German Abal How a first-time contributor turns an idea into a real EIP - from drafting to reviews, feedback loops, and working with editors. 📺 Watch here: https://youtu.be/WcGYlzUChUE #EIPEditors #EthGovernance #EthereumStandards 8️⃣ ERCs in Focus - ERC-8028: AI Assets On-Chain with Thiru The video explains how ERC-8028 anchors AI data on-chain using DAT, enabling trust, provenance, and verifiable AI workflows. A simple breakdown of why this ERC matters for the future of AI + Ethereum standards. 📺 Watch: https://youtu.be/RaeBZiE0rDA #ERC8028 #ERCs #AIonChain #DAT 9️⃣ Meet EIP Editor Sam Wilson He breaks down what EIP editors do, how proposals are reviewed, and how Ethereum standards keep evolving. 📺 Watch: https://youtu.be/YHZviU19di0 #EIPEditors #EIPProcess #EthereumStandards 🔟 The Final Episode - ERC-1202: Voting Interface with Victor Zhou See how ERC-1202 enables flexible, on-chain voting mechanisms for DAOs & governance tools. A clean walkthrough of the standard, design choices, and real-world use cases. 📺 Watch: https://youtu.be/_szGTp49L5E #ERC1202 #OnChainVoting #GovernanceTech The EIP Summit was more than just talks; it was a call to action. Ethereum needs authors, reviewers, and testers. Special thanks to all speakers and the ECH Institute team! 😸 #Ethereum #Devconnect #EIPs #Web3
 
 2d ago
-
----
-
-**[Revising ERC-2535 Diamonds to Simplify and Improve the Terminology](https://www.reddit.com/r/ethereum/comments/1pfgiab/revising_erc2535_diamonds_to_simplify_and_improve/)**
-
-My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
-
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/revising-erc-2535-diamonds-to-simplify-and-improve-the-terminology/26973) • 2d ago
 
 ---
 
@@ -166,11 +166,19 @@ CCN.com • 2d ago
 
 ---
 
-**[3 Reasons to Buy Ethereum Before January 2026](https://finance.yahoo.com/news/3-reasons-buy-ethereum-january-193000879.html)**
+**[ZKsync to Retire Its Original Ethereum Rollup Next Year](https://finance.yahoo.com/news/zksync-retire-original-ethereum-rollup-023829209.html)**
+
+ZKsync is retiring its original Lite network, formalizing a shift toward ZKsync Era and the ZK Stack as activity on the legacy rollup fades.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/07/3-reasons-to-buy-ethereum-before-january-2026/)**
 
 Ethereum could be once again on the path to the $5,000 price level. Here's why.
 
-Yahoo Finance • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -186,14 +194,6 @@ TipRanks • 16h ago
 
 ---
 
-**[Ethereum tops 24-hour net inflows with $138.7M: Artemis](https://cryptobriefing.com/ethereum-tops-24h-inflows-artemis/)**
-
-Ethereum tops the digital asset market with $138.7M in 24-hour net inflows, highlighting strong investor interest.
-
-Crypto Briefing • 1d ago
-
----
-
 **[Ethereum prepares a controversial 2026 overhaul that will forcibly strip power from the network's most dominant players](https://cryptoslate.com/whats-next-for-ethereum-after-the-fusaka-upgrade/)**
 
 Ethereum's roadmap envisions widespread adoption with future upgrades, aiming to transform global financial systems.
@@ -202,11 +202,11 @@ CryptoSlate • 3d ago
 
 ---
 
-**[Ethereum Shows Strength: Indicators Suggest Bigger Moves Ahead](https://www.tradingview.com/news/newsbtc:abc8c3135094b:0-ethereum-shows-strength-indicators-suggest-bigger-moves-ahead/)**
+**[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
 
-Ethereum is gaining momentum, and several technical signals suggest that a significant move could be on the way. With key support levels holding and bullish patterns forming, the market may be setting up for a notable upside.Golden Pocket Rejection: Confirming The High-Risk ScenarioIn a recent upda…
+Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
 
-TradingView • 1d ago
+Seeking Alpha • 3d ago
 
 ---
 
@@ -218,11 +218,11 @@ cheddar.com • 3d ago
 
 ---
 
-**[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
+**[Ethereum Shows Strength: Indicators Suggest Bigger Moves Ahead](https://www.tradingview.com/news/newsbtc:abc8c3135094b:0-ethereum-shows-strength-indicators-suggest-bigger-moves-ahead/)**
 
-Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
+Ethereum is gaining momentum, and several technical signals suggest that a significant move could be on the way. With key support levels holding and bullish patterns forming, the market may be setting up for a notable upside.Golden Pocket Rejection: Confirming The High-Risk ScenarioIn a recent upda…
 
-Seeking Alpha • 3d ago
+TradingView • 1d ago
 
 ---
 
@@ -236,7 +236,17 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 67K • 👍 3K • 💬 345 • ⏱️ 11:32 • 1d ago
+👁️ 68K • 👍 3K • 💬 349 • ⏱️ 11:32 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ukIRq32390A)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 781 • 👍 66 • 💬 4 • ⏱️ 4:57 • 4h ago
 
 ---
 
@@ -246,7 +256,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 283 • 💬 193 • ⏱️ 19:45 • 11h ago
+👁️ 7K • 👍 310 • 💬 187 • ⏱️ 19:45 • 11h ago
 
 ---
 
@@ -256,17 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 186 • 💬 5 • ⏱️ 4:06 • 13h ago
-
----
-
-**[Bitcoin and Ethereum Price Update | Are We Really Safe?](https://www.youtube.com/watch?v=8d6meQoAnZE)**
-
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
-
-📺 Crypto Tips
-
-👁️ 9K • 👍 640 • 💬 86 • ⏱️ 8:01 • 12h ago
+👁️ 3K • 👍 186 • 💬 5 • ⏱️ 4:06 • 14h ago
 
 ---
 
@@ -276,7 +276,17 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 181 • 👍 38 • 💬 2 • ⏱️ 5:16 • 3h ago
+👁️ 419 • 👍 75 • 💬 15 • ⏱️ 5:16 • 3h ago
+
+---
+
+**[Bitcoin and Ethereum Price Update | Are We Really Safe?](https://www.youtube.com/watch?v=8d6meQoAnZE)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 9K • 👍 670 • 💬 86 • ⏱️ 8:01 • 13h ago
 
 ---
 
@@ -286,7 +296,27 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 21K • 👍 1K • 💬 201 • ⏱️ 36:53 • 1d ago
+👁️ 21K • 👍 1K • 💬 202 • ⏱️ 36:53 • 1d ago
+
+---
+
+**[ETH Flips BTC? Fusaka + BMNR Buys Say Yes—$10K ETH by Mid-2026 (The Data)](https://www.youtube.com/watch?v=JBjEbZWa1F4)**
+
+For a decade, the "Flippening" (Ethereum overtaking Bitcoin in market cap) was a myth. But with the activation of the Fusaka ...
+
+📺 Wall Street Stockcast
+
+👁️ 263 • 👍 11 • ⏱️ 8:45 • 15h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 08 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=90kG-MhbelY)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 5K • 👍 810 • 1h ago
 
 ---
 
@@ -296,37 +326,7 @@ BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 13K • 👍 433 • 💬 102 • ⏱️ 17:05 • 19h ago
-
----
-
-**[Tom Lee&#39;s $62K ETH Bombshell: How $BMNR Shareholders Cash In First](https://www.youtube.com/watch?v=G6oU-K9srYE)**
-
-Tom Lee just dropped the biggest price prediction of his career. Speaking at Binance Blockchain Week in Dubai, the Fundstrat ...
-
-📺 Wall Street Stockcast
-
-👁️ 1K • 👍 64 • 💬 7 • ⏱️ 9:53 • 14h ago
-
----
-
-**[Fusaka Upgrade Ignites ETH: 8X Capacity = $5K by Christmas? (Tom Lee Agrees)](https://www.youtube.com/watch?v=W2nN7-U3x5c)**
-
-The "Fusaka" (Fulu-Osaka) upgrade is live, and the data is shocking even the developers. Since activating on December 3rd, the ...
-
-📺 Wall Street Stockcast
-
-👁️ 572 • 👍 26 • 💬 4 • ⏱️ 10:04 • 16h ago
-
----
-
-**[BMNR  Buys $199M ETH While &quot;Smart Money&quot; Shorts: Who Is Wrong? - Tom Lee Vs Wall Street&#39;s Traders](https://www.youtube.com/watch?v=Q5-Krzf9WLw)**
-
-A massive divergence has opened up in the crypto market. On one side, you have the "Smart Money"—sophisticated traders ...
-
-📺 NextMove Stocks
-
-👁️ 770 • 👍 24 • 💬 1 • ⏱️ 5:59 • 15h ago
+👁️ 14K • 👍 441 • 💬 98 • ⏱️ 17:05 • 19h ago
 
 ---
 
