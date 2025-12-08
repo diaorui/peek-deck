@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T19:55:51.349429+00:00'
+updated: '2025-12-08T20:26:45.510877+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 19:55 UTC  
+**Last Updated:** December 08, 2025 at 20:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,132.19
+### $3,127.44
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +4.5%  
-**30d:** -12.8%  
-**90d:** -28.2%  
-**1y:** -15.9%  
+**24h:** +2.1%  
+**7d:** +4.8%  
+**30d:** -12.6%  
+**90d:** -28.0%  
+**1y:** -15.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $377.33B
+**Market Cap:** $377.68B
 Rank #2
 
 **Circulating Supply:** 120,695,342 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.8%
+-36.7%
 
 **All-Time Low:** $0.43
-+721955.8%
++723073.6%
 
 ---
 
@@ -80,7 +80,7 @@ JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ethereum, I’m Amey - Ratings Director at Bluechip. Stablecoins offer a cheaper way to make cross-border transactions and a more reliable way to save in economies with high inflation or unstable financial systems. But how can you tell which stablecoins are truly stable? Our SMIDGE rating framework analyzes six economic factors and assigns letter-grade ratings (from F to A+) to identify the most reliable stablecoins. You can read the full framework on our website here. Essentially, the SMIDGE framework evaluates - Stability - collateral quality, asset segregation, core stability mechanism Management - track record of team, jurisdiction, accountability to token holders Implementation - technical risk (currently not tracked) Decentralization - censorship risk, blacklisting (only for crypto-backed stablecoins) Governance - regulatory protections, redemption terms, voting systems External - market sentiment (currently not tracked) We take a crypto-native, independent, and data-driven approach to stablecoin ratings. Our framework is the first publicly available, factor-based risk model for evaluating stablecoins. Our ratings are publicly available on our website here. Currently, USDT is rated D and USDC is rated B+ by Bluechip. Last month, we partnered with the Ethereum Foundation to host Bluechip25 in Vienna, the first global conference dedicated to crypto safety. Sign up for updates on next year's Bluechip26 on our website here. We also host a podcast called Bluechip Dialogues, where our Chief Economist Garett Jones interviews leading figures in crypto. Watch the latest episode with the creator of Facebook’s stablecoin project Diem (formerly Libra) here. Follow us on Twitter here or LinkedIn here or Telegram channel here. Ask us anything! I'll be around to answer your questions over the following days.
 
-8h ago
+9h ago
 
 ---
 
@@ -102,7 +102,7 @@ AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ether
 
 By magnitude, the biggest question for the Defi ecosystem for the next cycle is who gets to keep the yield on treasuries backing reserve stablecoins such as USDC and USDT? If secretary Bennett and the federal reserve are correct in their forecasts, we'll be at something like $3T in stablecoin market cap by 2030. At
 
-🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 52m ago
+🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 1h ago
 
 ---
 
@@ -150,17 +150,31 @@ This is Part Seven of the eight-part series: Can I Pay With This: A stablecoin e
 
 ## Google News: "ethereum"
 
-**[ZKsync to Retire Its Original Ethereum Rollup Next Year](https://decrypt.co/351386/zksync-retire-original-ethereum-rollup-next-year)**
+**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
 
-ZKsync is retiring its original Lite network, formalizing a shift toward ZKsync Era and the ZK Stack as activity on the legacy rollup fades.
+Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-Decrypt • 17h ago
+Decrypt • 2h ago
+
+---
+
+**[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
+
+The Block • 5h ago
+
+---
+
+**[Ether (ETH) ETF News: Staked Ether ETF (ETHB) Coming From BlackRock](https://www.coindesk.com/markets/2025/12/08/blackrock-files-for-staked-ethereum-etf-aiming-to-bring-yield-to-the-masses)**
+
+The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
+
+CoinDesk • 6h ago
 
 ---
 
 **[ZKsync to deprecate ZKsync Lite in 2026, sunsetting Ethereum's first ZK rollup](https://www.theblock.co/post/381632/zksync-to-deprecate-zksync-lite-in-2026-sunsetting-ethereums-first-zk-rollup)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -177,28 +191,6 @@ The Motley Fool • 1d ago
 BitMine bought nearly $200 million worth of Ethereum in the last two days, widening its lead as the largest single holder of ETH.
 
 Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
-
-Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
-
-Decrypt • 1h ago
-
----
-
-**[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
-
-The Block • 5h ago
-
----
-
-**[Ether (ETH) ETF News: Staked Ether ETF (ETHB) Coming From BlackRock](https://www.coindesk.com/markets/2025/12/08/blackrock-files-for-staked-ethereum-etf-aiming-to-bring-yield-to-the-masses)**
-
-The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
-
-CoinDesk • 6h ago
 
 ---
 
@@ -230,6 +222,12 @@ Finance Magnates • 9h ago
 
 ---
 
+**[XRP Blasts Past Bitcoin and Ethereum Sell-offs, Analyst Declares Rally Will Hit on ‘Promising Fundamentals’](https://www.tipranks.com/news/xrp-blasts-past-bitcoin-and-ethereum-selloffs-analyst-declares-rally-will-hit-on-promising-fundamentals)**
+
+TipRanks • 7h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -240,7 +238,7 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 54 • 💬 161 • ⏱️ 6:25 • 6h ago
+👁️ 1K • 👍 54 • 💬 161 • ⏱️ 6:25 • 7h ago
 
 ---
 
@@ -250,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 889 • 👍 102 • 💬 3 • ⏱️ 5:35 • 2h ago
+👁️ 889 • 👍 102 • 💬 3 • ⏱️ 5:35 • 3h ago
 
 ---
 
@@ -260,7 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 204 • 💬 9 • ⏱️ 15:50 • 4h ago
+👁️ 3K • 👍 204 • 💬 9 • ⏱️ 15:50 • 5h ago
 
 ---
 
@@ -280,7 +278,7 @@ BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available ever
 
 📺 Lark Davis
 
-👁️ 13K • 👍 727 • 💬 69 • ⏱️ 37:57 • 7h ago
+👁️ 13K • 👍 727 • 💬 69 • ⏱️ 37:57 • 8h ago
 
 ---
 
@@ -290,7 +288,7 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 98 • 👍 7 • 💬 2 • ⏱️ 5:03 • 57m ago
+👁️ 98 • 👍 7 • 💬 2 • ⏱️ 5:03 • 1h ago
 
 ---
 
@@ -300,7 +298,7 @@ The momentum behind the BlackRock ETH ETF could be the exact spark that launches
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 450 • 💬 11 • ⏱️ 49:44 • 3h ago
+👁️ 5K • 👍 450 • 💬 11 • ⏱️ 49:44 • 4h ago
 
 ---
 

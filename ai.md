@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T19:55:51.332784+00:00'
+updated: '2025-12-08T20:26:45.497921+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - videos
 - news
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 19:55 UTC  
+**Last Updated:** December 08, 2025 at 20:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -55,7 +55,7 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
-6h ago
+7h ago
 
 ---
 
@@ -63,7 +63,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks big bets like Watsonx and next-gen computing will pay off.
 
-🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 5h ago
+🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 6h ago
 
 ---
 
@@ -85,7 +85,15 @@ The president announced the plans to create one rulebook for AI via his Truth So
 
 "For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
-🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 17h ago
+🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 18h ago
+
+---
+
+**[I’m a junior dev who just got laid off, what should my next step be](https://www.reddit.com/r/artificial/comments/1phdknj/im_a_junior_dev_who_just_got_laid_off_what_should/)**
+
+So I’m a junior dev who just got laid off from my webdev job, and with AI agents on the rise I think it will just get harder and harder to get back into a similar role. Thus, I’m looking to pivot to any area that is more resistant to AI. Preferably in tech. I love learning new stuff, and being unemployed I have more than enough time on my hands so the learning part shouldn’t be a big problem. I just need to find a direction where the skills I learn won’t be rendered worthless by AI anytime soon. I’m thinking either low level stuff like C++, or machine learning. I’m thinking of building a portfolio throughout the process and also building connections along the way. Like, sooner or later these areas will be eaten by AI too, but I would guess it would take some years at least, with machine learning going last? I’ve also been pondering on maybe doing a deep research on all the current AI tools and the underlying tech and see if there’s any edge cases in any domains where I can use that knowledge to build something disruptive. I would imagine that although there’s a lot of AI hype now there will still be a lot of people sleeping on it making for many opportunities. At the same time, AI has made building stuff a lot easier so there will ofc also be increased competition. So what do you guys think about these directions? And any other interesting areas I could go for that will be resistant to AI in the forseeable future?
+
+6h ago
 
 ---
 
@@ -94,14 +102,6 @@ The president announced the plans to create one rulebook for AI via his Truth So
 Mass human participation in AI training might be the most important thing possible, and this seems to be at least one small attempt at it: https://www.anthropic.com/research/anthropic-interviewer
 
 2h ago
-
----
-
-**[I’m a junior dev who just got laid off, what should my next step be](https://www.reddit.com/r/artificial/comments/1phdknj/im_a_junior_dev_who_just_got_laid_off_what_should/)**
-
-So I’m a junior dev who just got laid off from my webdev job, and with AI agents on the rise I think it will just get harder and harder to get back into a similar role. Thus, I’m looking to pivot to any area that is more resistant to AI. Preferably in tech. I love learning new stuff, and being unemployed I have more than enough time on my hands so the learning part shouldn’t be a big problem. I just need to find a direction where the skills I learn won’t be rendered worthless by AI anytime soon. I’m thinking either low level stuff like C++, or machine learning. I’m thinking of building a portfolio throughout the process and also building connections along the way. Like, sooner or later these areas will be eaten by AI too, but I would guess it would take some years at least, with machine learning going last? I’ve also been pondering on maybe doing a deep research on all the current AI tools and the underlying tech and see if there’s any edge cases in any domains where I can use that knowledge to build something disruptive. I would imagine that although there’s a lot of AI hype now there will still be a lot of people sleeping on it making for many opportunities. At the same time, AI has made building stuff a lot easier so there will ofc also be increased competition. So what do you guys think about these directions? And any other interesting areas I could go for that will be resistant to AI in the forseeable future?
-
-5h ago
 
 ---
 
@@ -119,49 +119,21 @@ Agentic coding tools are dramatically reducing software development costs. Here'
 
 **[A.I. Videos Have Flooded Social Media. No One Was Ready.](https://www.nytimes.com/2025/12/08/business/ai-slop-sora-social-media.html)**
 
-The New York Times • 52m ago
+The New York Times • 1h ago
 
 ---
 
-**[The power crunch threatening America’s AI ambitions](https://ig.ft.com/ai-power/)**
+**[Watch Still Meaningful Opportunity Set in AI: Sundar](https://www.bloomberg.com/news/videos/2025-12-08/still-meaningful-opportunity-set-in-ai-sundar-video)**
 
-Financial Times • 14h ago
-
----
-
-**[A Data Center Wrapped in a Mystery Comes to the New Mexican Desert](https://www.nytimes.com/2025/12/07/business/boarderplex-new-mexico-data-center-mystery.html)**
-
-The New York Times • 1d ago
+Bloomberg.com • 56m ago
 
 ---
 
-**[Data centers for AI could nearly triple San Jose’s energy use. Who foots the bill?](https://calmatters.org/environment/2025/12/data-center-energy-san-jose/)**
+**[Google to launch first of its AI glasses in 2026](https://www.cnbc.com/2025/12/08/google-ai-glasses-launch-2026.html)**
 
-AI’s planned data-center boom is straining California’s grid forecasts and raising fears that customers could pay for upgrades if projects never materialize.
+That includes the first of Google's AI glasses in partnership with Warby Parker.
 
-CalMatters • 6h ago
-
----
-
-**[AI Powered the Market Rally. Watch These Sectors for Continued Growth.](https://www.barrons.com/articles/ai-stock-market-rally-rotation-1bed5bc4?gaa_at=eafs&gaa_n=AWEtsqdDwj7VNVQa8jrbvzfohoiq1i_-GVHHcrmT2TLL8ueCv00jgIb0Lq5X&gaa_ts=693730af&gaa_sig=0MC4KpEvbJo9h9YjzmLQ-Nr1oGglwJDP5VxEO6xzAL8SU5upAH69SIqCyAF5rpDeRxrbelKqy96Y70iuBgpJhQ%3D%3D)**
-
-Barron's • 35m ago
-
----
-
-**[Amazon’s “Catalog AI” Product Platform Helps You Shop Smarter](https://spectrum.ieee.org/abhishek-agrawal-amazon-catalog-ai)**
-
-Meet the AI expert behind Amazon's improved search and product listings.
-
-IEEE Spectrum • 50m ago
-
----
-
-**[Where Agentic AI Helps Security — and Where It Still Falls Short](https://www.forbes.com/sites/tonybradley/2025/12/08/where-agentic-ai-helps-security---and-where-it-still-falls-short/)**
-
-Agentic AI is reshaping cybersecurity workflows, giving overloaded security teams new support—when it’s deployed with clear guardrails, validation, and human judgment.
-
-Forbes • 44m ago
+CNBC • 16m ago
 
 ---
 
@@ -171,17 +143,45 @@ The New York Times • 3h ago
 
 ---
 
-**[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws)**
+**[At AI’s Biggest Event, Some Researchers Said the Field Needs an Overhaul](https://www.theinformation.com/articles/ais-biggest-event-researchers-said-field-needs-overhaul)**
 
-President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
-
-CNN • 5h ago
+The Information • 6h ago
 
 ---
 
-**[Behind the Curtain: Trump bets his presidency and GOP's future on AI](https://www.axios.com/2025/12/08/trump-ai-policy-gop-united-states)**
+**[Intel, Adobe and these other ‘AI loser’ stocks could get left behind in the next phase of the tech boom](https://www.marketwatch.com/story/intel-adobe-and-these-other-ai-loser-stocks-could-get-left-behind-in-the-next-phase-of-the-tech-boom-e6cd25ef?gaa_at=eafs&gaa_n=AWEtsqfOXJZ2e-Nk-5sVeJp-2A0_L54ZeJtLXYfV2Uwr0g37Zk5xrHFh-XEX&gaa_ts=693737e2&gaa_sig=3ZulSlHeK2h8ypEbsnceoa1YiDY_av5dkPQfbLsbfXvgplBdryqdRE9aPS73FQ9ojKQyolFUMuX8Dz6awsu3eQ%3D%3D)**
 
-Axios • 8h ago
+MarketWatch • 5h ago
+
+---
+
+**[The State of AI: A vision of the world in 2030](https://www.technologyreview.com/2025/12/08/1128922/the-state-of-ai-a-vision-of-the-world-in-2030/)**
+
+Senior AI editor Will Douglas Heaven talks with Tim Bradshaw, FT global tech correspondent, about what our world will look like in the next five years.
+
+MIT Technology Review • 3h ago
+
+---
+
+**[Why Oracle’s Earnings Will Be a Key Moment for AI Stocks This Week](https://www.barrons.com/articles/oracle-broadcom-ai-stocks-d7585d45?gaa_at=eafs&gaa_n=AWEtsqdIr6U6ahu0qqLe__TvbO2GbyuQ-hU_V46o3W2fzwnyr5VC47zRZ3tC&gaa_ts=693737e2&gaa_sig=lfaR2lTe8AQ6mEgpK_YLpJEL31diNxXhK3rlZNUB8bUNVgi9j3WpvcQiOl-eX-L1SArWGNKnZwb76UQpRLvHxw%3D%3D)**
+
+Barron's • 1h ago
+
+---
+
+**[Artificial intelligence research has a slop problem, academics say: ‘It’s a mess’](https://www.theguardian.com/technology/2025/dec/06/ai-research-papers)**
+
+AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
+
+The Guardian • 2d ago
+
+---
+
+**[AI “Research” Papers Are Complete Slop, Experts Say](https://www.yahoo.com/news/articles/ai-research-papers-complete-slop-192646417.html)**
+
+The field of AI is being destroyed by AI.
+
+Yahoo • 59m ago
 
 ---
 
@@ -191,7 +191,7 @@ Axios • 8h ago
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 557 • 💬 178 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 558 • 💬 178 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -207,7 +207,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 303 • 💬 254 • 3h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 323 • 💬 274 • 3h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -219,7 +219,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 46 • 💬 14 • 1d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 47 • 💬 14 • 1d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -233,7 +233,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 41 • 💬 55 • 2h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 42 • 💬 56 • 2h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -279,7 +279,7 @@ OpenAI is in a full internal race after a major leak revealed a new model called
 
 📺 AI Revolution
 
-👁️ 69K • 👍 2K • 💬 104 • ⏱️ 12:31 • 19h ago
+👁️ 69K • 👍 2K • 💬 104 • ⏱️ 12:31 • 20h ago
 
 ---
 
@@ -359,7 +359,7 @@ Want to make money and save time with AI? Join here: https://juliangoldieai.com/
 
 📺 Julian Goldie SEO
 
-👁️ 4K • 👍 166 • 💬 20 • ⏱️ 8:14 • 20h ago
+👁️ 4K • 👍 166 • 💬 20 • ⏱️ 8:14 • 21h ago
 
 ---
 
@@ -375,7 +375,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,334 • 3h ago
+⬇️ 201,990 • ❤️ 2,337 • 3h ago
 
 ---
 
@@ -399,7 +399,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 524 • 16h ago
+⬇️ 40,450 • ❤️ 526 • 17h ago
 
 ---
 
@@ -411,7 +411,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 8,016 • ❤️ 548 • 7d ago
+⬇️ 8,016 • ❤️ 550 • 7d ago
 
 ---
 
@@ -443,7 +443,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 3,573 • ❤️ 383 • 6d ago
+⬇️ 3,573 • ❤️ 384 • 6d ago
 
 ---
 
@@ -453,7 +453,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.
 
-⬇️ 372 • ❤️ 168 • 5d ago
+⬇️ 372 • ❤️ 169 • 5d ago
 
 ---
 
@@ -465,7 +465,7 @@ Ministral 3 14B Instruct is a powerful, edge-optimized multilingual vision-langu
 
 `13.9B`
 
-⬇️ 179,920 • ❤️ 150 • 3d ago
+⬇️ 179,920 • ❤️ 151 • 3d ago
 
 ---
 
@@ -669,7 +669,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 987 • 🔱 121 • 7h ago
+⭐ 987 • 🔱 121 • 8h ago
 
 ---
 
@@ -689,7 +689,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 833 • 🔱 44 • 12h ago
+⭐ 833 • 🔱 44 • 13h ago
 
 ---
 

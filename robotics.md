@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T19:55:51.353224+00:00'
+updated: '2025-12-08T20:26:45.513728+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 19:55 UTC  
+**Last Updated:** December 08, 2025 at 20:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most concept machines, this one is production ready and operating in Hebei Province to address the aging rural workforce. The Tech Stack: Autonomy: Uses LiDAR and RTK-GNSS for path planning with ±2.5 cm precision. It handles the entire cycle: ploughing, seeding, spraying and harvesting without a driver. Smart Sensing: Beyond just driving, it collects real-time data on soil composition, moisture, and crop health while running. Powertrain: Pure electric with a dual-motor setup (separating traction from the PTO/farming implements) for better load control. Endurance: Runs for 6 hours on a single charge and coordinates via a 5G mesh network. "Agri-Robotics" is where we are seeing the first massive wave of real world autonomy. If a single person can manage a fleet of these from a tablet, it fundamentally changes the economics of small to medium farms. Source: Lucas
 
-3h ago
+4h ago
 
 ---
 
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -50,7 +50,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
 
-6h ago
+7h ago
 
 ---
 
@@ -58,7 +58,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
-7h ago
+8h ago
 
 ---
 
@@ -76,9 +76,17 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 ---
 
+**[UFactory xArm 6 with gripper for sale - UK](https://www.reddit.com/r/robotics/comments/1phhqde/ufactory_xarm_6_with_gripper_for_sale_uk/)**
+
+Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a shelf unused and I'm sure someone out there (UK based) can make much better use of it than I can. This unit is used but in good working condition. It has the gripper attachment included and comes as part of the package. I don't have the original box anymore but I can box it up with protective materials and another suitably strong box if shipping or ideally could be collected or delivered to the new owner. The uFactory x-arm 6 is a 6 axis robot featuring a 5kg payload capacity, 700mm reach. This unit has a gripper attachment included and is compatible with multiple operating systems using the xArm studio software.
+
+3h ago
+
+---
+
 **[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -86,7 +94,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Just sharing a small test clip from a sim environment: simple walking + a few controlled kicks. From my experience, getting this kind of behavior to look even remotely stable depends a lot on two things: the accuracy of the rigid-body collisions how well the contact forces are resolved frame-to-frame If either of those is off, the foot either tunnels through the ball or the ball reacts in weird, non-physical ways. With a more accurate physics setup, the kick actually lands where you expect, and the robot’s gait doesn’t blow up.
 
-6h ago
+7h ago
 
 ---
 
@@ -95,14 +103,6 @@ Just sharing a small test clip from a sim environment: simple walking + a few co
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
 1d ago
-
----
-
-**[UFactory xArm 6 with gripper for sale - UK](https://www.reddit.com/r/robotics/comments/1phhqde/ufactory_xarm_6_with_gripper_for_sale_uk/)**
-
-Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a shelf unused and I'm sure someone out there (UK based) can make much better use of it than I can. This unit is used but in good working condition. It has the gripper attachment included and comes as part of the package. I don't have the original box anymore but I can box it up with protective materials and another suitably strong box if shipping or ideally could be collected or delivered to the new owner. The uFactory x-arm 6 is a 6 axis robot featuring a 5kg payload capacity, 700mm reach. This unit has a gripper attachment included and is compatible with multiple operating systems using the xArm studio software.
-
-2h ago
 
 ---
 
@@ -122,7 +122,7 @@ MIT News • 3d ago
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -290,7 +290,7 @@ Video released by Chinese robotics company EngineAI shows their humanoid T800 ro
 
 📺 CNN
 
-👁️ 46K • 👍 697 • 💬 299 • ⏱️ 0:41 • 15h ago
+👁️ 46K • 👍 697 • 💬 299 • ⏱️ 0:41 • 16h ago
 
 ---
 
