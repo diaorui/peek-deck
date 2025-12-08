@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T20:57:46.496679+00:00'
+updated: '2025-12-08T21:22:51.561167+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 20:57 UTC  
+**Last Updated:** December 08, 2025 at 21:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -50,7 +50,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
 
-7h ago
+8h ago
 
 ---
 
@@ -58,7 +58,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
-8h ago
+9h ago
 
 ---
 
@@ -74,7 +74,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a shelf unused and I'm sure someone out there (UK based) can make much better use of it than I can. This unit is used but in good working condition. It has the gripper attachment included and comes as part of the package. I don't have the original box anymore but I can box it up with protective materials and another suitably strong box if shipping or ideally could be collected or delivered to the new owner. The uFactory x-arm 6 is a 6 axis robot featuring a 5kg payload capacity, 700mm reach. This unit has a gripper attachment included and is compatible with multiple operating systems using the xArm studio software.
 
-3h ago
+4h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a sh
 
 **[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -122,7 +122,7 @@ MIT News • 3d ago
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -290,7 +290,7 @@ Video released by Chinese robotics company EngineAI shows their humanoid T800 ro
 
 📺 CNN
 
-👁️ 46K • 👍 697 • 💬 299 • ⏱️ 0:41 • 16h ago
+👁️ 46K • 👍 697 • 💬 299 • ⏱️ 0:41 • 17h ago
 
 ---
 

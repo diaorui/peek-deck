@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T20:57:46.487193+00:00'
+updated: '2025-12-08T21:22:51.551858+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 20:57 UTC  
+**Last Updated:** December 08, 2025 at 21:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,750.00
+### $90,787.59
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
+**24h:** +1.2%  
 **7d:** -0.7%  
 **30d:** -13.3%  
-**90d:** -20.3%  
+**90d:** -20.2%  
 **1y:** -6.7%  
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -93,7 +93,7 @@ They have a promotion going on with Ledger
 
 **[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-58m ago
+1h ago
 
 ---
 
@@ -119,13 +119,13 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 **[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Buy buy buy!](https://www.reddit.com/r/Bitcoin/comments/1ph9n2c/buy_buy_buy/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -141,7 +141,7 @@ They didn't trade, they didn't sell to buy back later, they didn't follow the 4-
 
 People don’t confuse inflation with the dollar losing value the dollar losing value is inflation. The textbook definition is: a decrease in the purchasing power of money.’ Prices rise because the money buys less. It’s not two different things, it’s one cause with two symptoms. This is exactly why Bitcoin matters. Fiat inflation is just the slow dilution of your time and energy. Bitcoin flips it: fixed supply → rising purchasing power over time.
 
-5h ago
+6h ago
 
 ---
 
@@ -153,7 +153,7 @@ People don’t confuse inflation with the dollar losing value the dollar losing 
 
 Michael Saylor’s Strategy, previously MicroStrategy, has made another weekly Bitcoin purchase despite concerns that it may need to sell some of its BTC holdings in a prolonged bear market. This latest purchase comes amid a rebound in the Bitcoin price, while the MSTR stock is also up in pre-market trading. Strategy Acquires 10,624 BTC for
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 1h ago
 
 iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
 
-Morningstar • 9h ago
+Morningstar • 10h ago
 
 ---
 
@@ -177,7 +177,7 @@ Morningstar • 9h ago
 
 Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 11h ago
 
 **[Bitcoin price today: gains to $90.8k as Fed cut bets remain firm](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-915k-as-fed-cut-bets-remain-firm-4394968)**
 
-Investing.com • 5h ago
+Investing.com • 6h ago
 
 ---
 
@@ -213,7 +213,7 @@ Sherwood News • 4h ago
 
 **[Opinion: Bitcoin’s November crash was no accident](https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?gaa_at=eafs&gaa_n=AWEtsqeuwTBovcKJSh0fDeBCg82q_Ev3bkxyiQQgy9uU-glCdSuC7kCDlIg5&gaa_ts=69373f36&gaa_sig=I3gIejnGGUWb3s1WN7t1aQmIxqeopNAuM2zIe4qgzMQQ9eM8bknfOSWbAh5dfk4544nDwATrcDDiD7yJyVjWkw%3D%3D)**
 
-MarketWatch • 7h ago
+MarketWatch • 8h ago
 
 ---
 
@@ -221,7 +221,7 @@ MarketWatch • 7h ago
 
 If the stock market is up, bitcoin usually is too. But this year has been different.
 
-Business Insider • 9h ago
+Business Insider • 10h ago
 
 ---
 
@@ -299,7 +299,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 1 • 💬 0 • 5h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 1 • 💬 0 • 6h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 
@@ -313,7 +313,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 525 • 💬 92 • ⏱️ 9:22 • 5h ago
+👁️ 9K • 👍 525 • 💬 92 • ⏱️ 9:22 • 6h ago
 
 ---
 
@@ -323,7 +323,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 149 • ⏱️ 37:28 • 5h ago
+👁️ 21K • 👍 1K • 💬 149 • ⏱️ 37:28 • 6h ago
 
 ---
 
@@ -333,7 +333,7 @@ Market Update Crypto Strategy School https://cryptostrategyschool.com/ab/ ➡️
 
 📺 Aaron Bennett
 
-👁️ 8K • 👍 513 • 💬 189 • ⏱️ 13:46 • 8h ago
+👁️ 8K • 👍 513 • 💬 189 • ⏱️ 13:46 • 9h ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin didn't “just correct” — it cracked. In this video, we break down w
 
 📺 Ryan’s Money Lab
 
-👁️ 623 • 👍 124 • 💬 10 • ⏱️ 9:47 • 2h ago
+👁️ 623 • 👍 124 • 💬 10 • ⏱️ 9:47 • 3h ago
 
 ---
 
@@ -373,7 +373,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Instituto Nacional de Enfermedades Neoplásicas
 
-👁️ 4K • 👍 1K • 4h ago
+👁️ 4K • 👍 1K • 5h ago
 
 ---
 
@@ -393,7 +393,7 @@ TIA PRO $1000 OFF LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK 
 
 📺 Jason Pizzino
 
-👁️ 28K • 👍 1K • 💬 694 • ⏱️ 29:13 • 18h ago
+👁️ 28K • 👍 1K • 💬 694 • ⏱️ 29:13 • 19h ago
 
 ---
 
@@ -403,7 +403,7 @@ AscendEX Platform https://ckenny.com/ASC Free Strategy Course https://ckenny.com
 
 📺 Conor Kenny
 
-👁️ 15K • 👍 831 • 💬 345 • ⏱️ 5:59 • 10h ago
+👁️ 15K • 👍 831 • 💬 345 • ⏱️ 5:59 • 11h ago
 
 ---
 

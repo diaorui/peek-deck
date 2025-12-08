@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T20:57:46.478637+00:00'
+updated: '2025-12-08T21:22:51.543251+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- repositories
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 20:57 UTC  
+**Last Updated:** December 08, 2025 at 21:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -55,7 +55,7 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
-7h ago
+8h ago
 
 ---
 
@@ -63,7 +63,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
 
-🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 34m ago
+🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 59m ago
 
 ---
 
@@ -71,7 +71,7 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks big bets like Watsonx and next-gen computing will pay off.
 
-🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 6h ago
+🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 7h ago
 
 ---
 
@@ -93,7 +93,7 @@ The president announced the plans to create one rulebook for AI via his Truth So
 
 "For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
-🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 18h ago
+🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 19h ago
 
 ---
 
@@ -101,7 +101,7 @@ The president announced the plans to create one rulebook for AI via his Truth So
 
 So I’m a junior dev who just got laid off from my webdev job, and with AI agents on the rise I think it will just get harder and harder to get back into a similar role. Thus, I’m looking to pivot to any area that is more resistant to AI. Preferably in tech. I love learning new stuff, and being unemployed I have more than enough time on my hands so the learning part shouldn’t be a big problem. I just need to find a direction where the skills I learn won’t be rendered worthless by AI anytime soon. I’m thinking either low level stuff like C++, or machine learning. I’m thinking of building a portfolio throughout the process and also building connections along the way. Like, sooner or later these areas will be eaten by AI too, but I would guess it would take some years at least, with machine learning going last? I’ve also been pondering on maybe doing a deep research on all the current AI tools and the underlying tech and see if there’s any edge cases in any domains where I can use that knowledge to build something disruptive. I would imagine that although there’s a lot of AI hype now there will still be a lot of people sleeping on it making for many opportunities. At the same time, AI has made building stuff a lot easier so there will ofc also be increased competition. So what do you guys think about these directions? And any other interesting areas I could go for that will be resistant to AI in the forseeable future?
 
-6h ago
+7h ago
 
 ---
 
@@ -119,7 +119,7 @@ Mass human participation in AI training might be the most important thing possib
 
 **[A.I. Videos Have Flooded Social Media. No One Was Ready.](https://www.nytimes.com/2025/12/08/business/ai-slop-sora-social-media.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -133,7 +133,7 @@ The New York Times • 4h ago
 
 Alphabet Inc.’s Google said it’s working to create two different categories of artificial intelligence-powered smart glasses to compete next year with existing models from Meta Platforms Inc.: one with screens, and another that’s audio focused.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -141,13 +141,13 @@ Bloomberg.com • 2h ago
 
 That includes the first of Google's AI glasses in partnership with Warby Parker.
 
-CNBC • 47m ago
+CNBC • 1h ago
 
 ---
 
 **[Warby Parker, Google to launch AI-powered smart glasses in 2026](https://www.reuters.com/business/warby-parker-google-launch-ai-powered-smart-glasses-2026-2025-12-08/)**
 
-Reuters • 32m ago
+Reuters • 57m ago
 
 ---
 
@@ -155,13 +155,13 @@ Reuters • 32m ago
 
 FOX Business host Charles Payne analyzes the market's recent performance on 'Making Money.'
 
-Fox Business • 30m ago
+Fox Business • 55m ago
 
 ---
 
 **[The power crunch threatening America’s AI ambitions](https://ig.ft.com/ai-power/)**
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
@@ -175,7 +175,7 @@ The New York Times • 1d ago
 
 AI’s planned data-center boom is straining California’s grid forecasts and raising fears that customers could pay for upgrades if projects never materialize.
 
-CalMatters • 7h ago
+CalMatters • 8h ago
 
 ---
 
@@ -183,7 +183,7 @@ CalMatters • 7h ago
 
 Seven AI trends to watch in 2026 will make AI a true partner — boosting teamwork, security, research momentum and infrastructure efficiency.
 
-Microsoft Source • 3h ago
+Microsoft Source • 4h ago
 
 ---
 
@@ -249,7 +249,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 **[The Reverse Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46176651)**
 
-⬆️ 34 • 💬 4 • 1d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington)
+⬆️ 34 • 💬 4 • 2d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington)
 
 ---
 
@@ -281,7 +281,7 @@ OpenAI is in a full internal race after a major leak revealed a new model called
 
 📺 AI Revolution
 
-👁️ 69K • 👍 2K • 💬 104 • ⏱️ 12:31 • 20h ago
+👁️ 69K • 👍 2K • 💬 104 • ⏱️ 12:31 • 21h ago
 
 ---
 
@@ -301,7 +301,7 @@ REP YOUR SUPPORT & JOIN THE MOVEMENT! Every purchase helps us keep creating cont
 
 📺 Melanie King
 
-👁️ 48K • 👍 3K • 💬 1K • ⏱️ 34:49 • 1d ago
+👁️ 48K • 👍 3K • 💬 1K • ⏱️ 34:49 • 2d ago
 
 ---
 
@@ -361,7 +361,7 @@ Want to make money and save time with AI? Join here: https://juliangoldieai.com/
 
 📺 Julian Goldie SEO
 
-👁️ 4K • 👍 166 • 💬 20 • ⏱️ 8:14 • 21h ago
+👁️ 4K • 👍 166 • 💬 20 • ⏱️ 8:14 • 22h ago
 
 ---
 
@@ -389,7 +389,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 527 • 17h ago
+⬇️ 40,450 • ❤️ 527 • 18h ago
 
 ---
 
@@ -671,7 +671,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 987 • 🔱 121 • 55m ago
+⭐ 987 • 🔱 121 • 1h ago
 
 ---
 
@@ -691,7 +691,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 834 • 🔱 44 • 28m ago
+⭐ 834 • 🔱 44 • 53m ago
 
 ---
 
