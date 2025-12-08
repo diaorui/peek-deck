@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T21:48:11.187985+00:00'
+updated: '2025-12-08T21:58:48.741972+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - cryptocurrency
-- social
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 21:48 UTC  
+**Last Updated:** December 08, 2025 at 21:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.3%  
-**7d:** +4.7%  
-**30d:** -12.6%  
-**90d:** -28.0%  
-**1y:** -15.7%  
+**24h:** +3.6%  
+**7d:** +5.0%  
+**30d:** -12.4%  
+**90d:** -27.8%  
+**1y:** -15.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138,452 ETH, equivalent to about US$435 million, in its latest accumulation round. This bold move boosts BitMine’s total crypto holdings significantly, reinforcing its position as one of the largest institutional holders of Ethereum (ETH) worldwide. Tom Lee and his team cited several catalysts behind this surge: the recent Fusaka upgrade to the Ethereum network — implemented 3 December — which promises improved scalability, security and usability. Additionally, macroeconomic conditions appear favorable, with expectations of a loosening monetary policy by the Federal Reserve potentially supporting broader crypto market recovery. The scale of the purchase (over 138,000 ETH in just a week) marks a dramatic acceleration compared to previous buying patterns — reportedly about 156 % more than the firm’s weekly average four weeks ago. In doing so, BitMine pushes further toward its longer-term target of controlling up to 5 % of Ethereum’s total supply. In sum, this $435 million acquisition underlines BitMine’s growing conviction in Ethereum’s long-term potential, signaling confidence in both network upgrades and macroeconomic conditions that may favor a renewed bull cycle in crypto.
 
-6h ago
+7h ago
 
 ---
 
@@ -102,7 +102,7 @@ AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ether
 
 Hey everyone, I've been digging into the new ERC-8004 (Trustless Agents) standard and noticed a massive gap in the current AI agent explosion. We have thousands of agents launching on Virtuals/ai16z, but no standardized way to verify their history. If a DAO wants to hire an agent to manage a treasury, how do they know it’s not a rug-pull script? I’m building SynthNet, a modular reputation layer that strictly follows the ERC-8004 spec. I wanted to share my architecture to see if I’m over-engineering this or if this approach makes sense to other devs. The Architecture (Snapshot attached): Layer 1 (Identity): AgentIdentity.sol (ERC-721).This is the "Body" of the agent. It holds the metadata and IPFS/Arweave URI for the service endpoint. It’s fully transferable (you can buy/sell the bot). Layer 2 (Reputation): SoulboundResume.sol (ERC-5192).This is the "Resume." It’s a Soulbound Token (SBT) attached to the Layer 1 NFT. It stores verified job history (e.g., "Managed $1M volume", "Uptime 99%").Critical Design Choice: If you sell the agent (Layer 1), the Resume (Layer 2) goes with it, but the new owner cannot detach it or wipe the bad history. Layer 3 (Validation): VerificationRegistry.sol.This is the logic layer. It allows authorized validators (or other smart contracts) to "stamp" the resume when a task is completed on-chain. Why I built it this way: Most "Agent Marketplaces" right now are just token launchpads. I want to build the Credit Bureau layer. I don’t care about launching the token; I care about verifying that the agent actually does what it says it does. Questions for the community: Is sticking to IERC5192 (Minimal Soulbound) sufficient for the resume, or should I be looking at more complex identity standards? I included a Migration contract to allow agents to migrate reputation from legacy registries. Is this too aggressive for an MVP? Code/Repo is still private while I clean it up, but I’d love feedback on the logic of separating Identity (Tradeable) vs. Reputation (Soulbound). Cheers.
 
-13m ago
+23m ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 3h ago
 
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -232,23 +232,23 @@ TipRanks • 8h ago
 
 ## YouTube Videos: "ethereum"
 
+**[The Biggest Ethereum Risk No One Wants to Admit w/ Aryan Sheikhalian](https://www.youtube.com/watch?v=rQPZq2hRlLM)**
+
+In today's Milk Road episode, we sit down with CMT Digital's Aryan Sheikhalian to uncover the one risk for Ethereum almost ...
+
+📺 Milk Road
+
+👁️ 315 • 👍 72 • 💬 48 • ⏱️ 33:06 • 2h ago
+
+---
+
 **[This ETH Pattern Has Only One Outcome....](https://www.youtube.com/watch?v=AB0q8tKtipY)**
 
 BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 54 • 💬 161 • ⏱️ 6:25 • 8h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KlHoU85sq_A)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 889 • 👍 102 • 💬 3 • ⏱️ 5:35 • 4h ago
+👁️ 1K • 👍 60 • 💬 167 • ⏱️ 6:25 • 9h ago
 
 ---
 
@@ -258,7 +258,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 3K • 👍 204 • 💬 9 • ⏱️ 15:50 • 6h ago
+👁️ 5K • 👍 241 • 💬 10 • ⏱️ 15:50 • 6h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KlHoU85sq_A)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 123 • 💬 3 • ⏱️ 5:35 • 4h ago
 
 ---
 
@@ -268,7 +278,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 73K • 👍 3K • 💬 340 • ⏱️ 11:32 • 2d ago
+👁️ 74K • 👍 3K • 💬 341 • ⏱️ 11:32 • 2d ago
 
 ---
 
@@ -278,7 +288,7 @@ BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available ever
 
 📺 Lark Davis
 
-👁️ 13K • 👍 727 • 💬 69 • ⏱️ 37:57 • 9h ago
+👁️ 14K • 👍 745 • 💬 73 • ⏱️ 37:57 • 10h ago
 
 ---
 
@@ -288,27 +298,17 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 98 • 👍 7 • 💬 2 • ⏱️ 5:03 • 2h ago
+👁️ 188 • 👍 8 • 💬 19 • ⏱️ 5:03 • 3h ago
 
 ---
 
-**[🚨 ETHEREUM BREAKOUT! BlackRock ETF is the Altseason TRIGGER (TIME TO ROTATE!)](https://www.youtube.com/watch?v=-OsmaMB1iU0)**
+**[BlackRock files application with SEC for staked ether ETF: CNBC Crypto World](https://www.youtube.com/watch?v=2KhviSIAuxI)**
 
-The momentum behind the BlackRock ETH ETF could be the exact spark that launches the next full-scale altseason. Join Our ...
+On today's episode of CNBC Crypto World, bitcoin continues to trade below $90000. Plus, Ondo Finance says the SEC formally ...
 
-📺 Discover Crypto
+📺 CNBC Television
 
-👁️ 5K • 👍 450 • 💬 11 • ⏱️ 49:44 • 5h ago
-
----
-
-**[HOOD Acquisition, BMNR Buys ETH, NFLX Bid War | Market Monitor](https://www.youtube.com/watch?v=SldlYlpc3uo)**
-
-Get lifetime access to my full investing system + all spreadsheets, my real-time portfolio, trade alerts, member-only livestreams, ...
-
-📺 Future Investing
-
-👁️ 7K • 👍 328 • 6h ago
+👁️ 2K • 👍 112 • 💬 58 • ⏱️ 13:30 • 1h ago
 
 ---
 
@@ -318,17 +318,17 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 395 • 👍 30 • 💬 3 • ⏱️ 4:33 • 12h ago
+👁️ 494 • 👍 30 • 💬 3 • ⏱️ 4:33 • 12h ago
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=wn48Y6PjqtE)**
+**[Will Solana FLIP Ethereum? (DATA is INSANE For 2026)](https://www.youtube.com/watch?v=9l9Z71m3y4w)**
 
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+Check out SolPump.io Sign up here ▻ https://solpump.io/a/FIREHUSTLE TRADE ON BTCC WITH ME! 10% Deposit ...
 
-📺 Guitar Repair@StringTech
+📺 FireHustle
 
-👁️ 12K • 👍 3K • 1d ago
+👁️ 128 • 👍 89 • 💬 41 • ⏱️ 14:17 • 50m ago
 
 ---
 

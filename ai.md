@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T21:48:11.173732+00:00'
+updated: '2025-12-08T21:58:48.727588+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
+- videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 21:48 UTC  
+**Last Updated:** December 08, 2025 at 21:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
 
-🔗 [withmartian.com](https://withmartian.com/prize) • 8h ago
+🔗 [withmartian.com](https://withmartian.com/prize) • 9h ago
 
 ---
 
@@ -71,7 +71,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming releases by names that resemble existing trademarks.
 
-🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 57m ago
+🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ CalMatters • 8h ago
 
 President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-CNN • 6h ago
+CNN • 7h ago
 
 ---
 
@@ -161,7 +161,7 @@ PC Gamer • 1h ago
 
 **[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
 
-The Economist • 26m ago
+The Economist • 37m ago
 
 ---
 
@@ -211,7 +211,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 345 • 💬 294 • 4h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 345 • 💬 294 • 5h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -273,7 +273,7 @@ Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Fu
 
 📺 Dan Kieft
 
-👁️ 6K • 💬 8 • ⏱️ 20:04 • 4h ago
+👁️ 10K • 💬 8 • ⏱️ 20:04 • 5h ago
 
 ---
 
@@ -283,7 +283,27 @@ OpenAI is in a full internal race after a major leak revealed a new model called
 
 📺 AI Revolution
 
-👁️ 69K • 👍 2K • 💬 104 • ⏱️ 12:31 • 21h ago
+👁️ 74K • 👍 2K • 💬 109 • ⏱️ 12:31 • 21h ago
+
+---
+
+**[QUANTUM WILL ECLIPSE AI: Why Everyone’s Betting on the Wrong Horse](https://www.youtube.com/watch?v=aNpVFovnZ-E)**
+
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+
+📺 Julia McCoy
+
+👁️ 53K • 👍 3K • 💬 502 • ⏱️ 15:03 • 1d ago
+
+---
+
+**[#1 FREE AI Video Generator Just Got a &quot;God Mode&quot; Upgrade](https://www.youtube.com/watch?v=3HumX3zrS3I)**
+
+This *free AI video generator* and movie maker just got a "God Mode" upgrade. In this step-by-step AI tutorial, we show you how ...
+
+📺 How To In 5 Minutes
+
+👁️ 2K • 👍 169 • 💬 18 • ⏱️ 10:14 • 8h ago
 
 ---
 
@@ -293,57 +313,17 @@ Big Tech is racking up debt to fund their AI infrastructure for demand that seem
 
 📺 Vanessa Wingårdh
 
-👁️ 115K • 👍 8K • 💬 2K • ⏱️ 10:38 • 1d ago
+👁️ 118K • 👍 9K • 💬 2K • ⏱️ 10:38 • 1d ago
 
 ---
 
-**[Elon Musk: Neuralink Will Replace All Phones By 2030 &amp; AI Glasses Can Identify &amp; Track ANYONE](https://www.youtube.com/watch?v=-1vcYkbQzZs)**
+**[New $100B AI Bet — the Real Threat to NVIDIA](https://www.youtube.com/watch?v=N10w1KvFKNQ)**
 
-REP YOUR SUPPORT & JOIN THE MOVEMENT! Every purchase helps us keep creating content and growing this channel.
+Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTECHDEC2 - 100% Discount for the first 1000 ...
 
-📺 Melanie King
+📺 Anastasi In Tech
 
-👁️ 48K • 👍 3K • 💬 1K • ⏱️ 34:49 • 2d ago
-
----
-
-**[AI DOOMSDAY?: Joe Rogan challenges tech CEO](https://www.youtube.com/watch?v=5y5gTgEc9Vc)**
-
-Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial intelligence, including scenarios where AI resorts to ...
-
-📺 Fox News Clips
-
-👁️ 49K • 👍 728 • 💬 326 • ⏱️ 6:22 • 2d ago
-
----
-
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
-
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
-
-📺 AI Revolution
-
-👁️ 103K • 👍 2K • 💬 409 • ⏱️ 12:07 • 2d ago
-
----
-
-**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=ozCKqX2rgzg)**
-
-Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
-
-📺 Impossible AIs
-
-👁️ 1.1M • 👍 3K • 💬 100 • ⏱️ 8:06 • 2d ago
-
----
-
-**[Gemini 4 — Google’s Biggest AI Upgrade Yet (Full Features Explained)](https://www.youtube.com/watch?v=WYK7iyOklf4)**
-
-Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Gemini 4 — and it might be their most powerful AI ...
-
-📺 BitBiasedAI
-
-👁️ 44K • 👍 1K • 💬 46 • ⏱️ 11:49 • 2d ago
+👁️ 2K • 👍 363 • 💬 22 • ⏱️ 31:03 • 30m ago
 
 ---
 
@@ -353,17 +333,37 @@ Your Grocery Store Is About to Change Forever. AI is now making your food...but 
 
 📺 Lillie Kane
 
-👁️ 3K • 👍 540 • 💬 97 • ⏱️ 13:09 • 6h ago
+👁️ 5K • 👍 687 • 💬 114 • ⏱️ 13:09 • 6h ago
 
 ---
 
-**[Chinas New FREE AI: Baidu Ernie 5.0 Just CRUSHED ChatGPT...](https://www.youtube.com/watch?v=9UPw7hSDsxQ)**
+**[AI DOOMSDAY?: Joe Rogan challenges tech CEO](https://www.youtube.com/watch?v=5y5gTgEc9Vc)**
 
-Want to make money and save time with AI? Join here: https://juliangoldieai.com/07L1kg.
+Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial intelligence, including scenarios where AI resorts to ...
 
-📺 Julian Goldie SEO
+📺 Fox News Clips
 
-👁️ 4K • 👍 166 • 💬 20 • ⏱️ 8:14 • 22h ago
+👁️ 50K • 👍 745 • 💬 329 • ⏱️ 6:22 • 2d ago
+
+---
+
+**[Can AI Build the Perfect Secret Room? Download Copilot! #CopilotPartner](https://www.youtube.com/watch?v=6hDsE7U_WlM)**
+
+CopilotPartner.
+
+📺 Ben Azelart
+
+👁️ 108K • 👍 4K • 💬 150 • ⏱️ 1:17 • 1h ago
+
+---
+
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=ozCKqX2rgzg)**
+
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
+
+📺 Impossible AIs
+
+👁️ 1.2M • 👍 3K • 💬 101 • ⏱️ 8:06 • 2d ago
 
 ---
 
@@ -643,7 +643,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 5h ago
+⭐ 1.6k • 🔱 132 • 6h ago
 
 ---
 
@@ -693,7 +693,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 834 • 🔱 44 • 40m ago
+⭐ 834 • 🔱 44 • 51m ago
 
 ---
 

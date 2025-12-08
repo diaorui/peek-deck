@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T21:48:11.182056+00:00'
+updated: '2025-12-08T21:58:48.735974+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - cryptocurrency
-- social
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 21:48 UTC  
+**Last Updated:** December 08, 2025 at 21:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,149.12
+### $91,283.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** -0.4%  
-**30d:** -13.1%  
-**90d:** -20.0%  
-**1y:** -6.4%  
+**24h:** +1.8%  
+**7d:** -0.1%  
+**30d:** -12.8%  
+**90d:** -19.8%  
+**1y:** -6.2%  
 
 ---
 
@@ -119,7 +119,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 **[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
 
-27m ago
+38m ago
 
 ---
 
@@ -183,13 +183,13 @@ Yahoo Finance • 8h ago
 
 BTC's relative weakness compared to stocks points to tepid spot demand, making the largest crypto vulnerable to macro volatility, Bitfinex analysts said.
 
-CoinDesk • 57m ago
+CoinDesk • 1h ago
 
 ---
 
 **[Bitcoin Isn’t Just a Tech Stock on Steroids. What Really Moves It.](https://www.barrons.com/articles/bitcoin-and-stocks-less-correlated-than-investors-think-bac9d908?gaa_at=eafs&gaa_n=AWEtsqcUBSJ-j7wX1h51RD10ugG7nOwgGNHdfG5VrKzjMM7ikFkW3KYOo1-j&gaa_ts=69374880&gaa_sig=Y6gV9wERK3ThZFlMIiPfsjOVVkZ1TCKQo2NSkPxo-H1vdvzJRPh6aXhU5HUdOxiM6gMxjnXO_cpa9bspt2eUQA%3D%3D)**
 
-Barron's • 46m ago
+Barron's • 56m ago
 
 ---
 
@@ -213,7 +213,7 @@ dlnews.com • 11h ago
 
 New Bitcoin on-chain signals emerge as 10-year coins move ahead of the Fed’s expected rate cut. Market watches FOMC closely.
 
-Yahoo Finance • 51m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -299,7 +299,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 1 • 💬 0 • 6h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 1 • 💬 0 • 7h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 
@@ -313,7 +313,17 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 9K • 👍 525 • 💬 92 • ⏱️ 9:22 • 6h ago
+👁️ 12K • 👍 613 • 💬 187 • ⏱️ 9:22 • 6h ago
+
+---
+
+**[Bitcoin Sellers About to go Wild Again! What About Ethereum &amp; Solana? Is There Hope for Altseason?](https://www.youtube.com/watch?v=s4ga-osHXEU)**
+
+Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+
+📺 Doctor of Pump & Dump
+
+👁️ 1K • 👍 184 • ⏱️ 34:53 • 1h ago
 
 ---
 
@@ -323,57 +333,37 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 149 • ⏱️ 37:28 • 6h ago
+👁️ 24K • 👍 1K • 💬 158 • ⏱️ 37:28 • 6h ago
 
 ---
 
-**[Bitcoin Holders - Please Don&#39;t Fall For This](https://www.youtube.com/watch?v=JxJvL5DRczo)**
+**[How the Banks Stole Gold, is How They Might Steal Bitcoin](https://www.youtube.com/watch?v=7XTc2dC6Q00)**
 
-Market Update Crypto Strategy School https://cryptostrategyschool.com/ab/ ➡️ Platform I Like: https://aaronbtc.com/low ...
+How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemini Credit Card: http://gemini.com/andrei ...
 
-📺 Aaron Bennett
+📺 Andrei Jikh
 
-👁️ 8K • 👍 513 • 💬 189 • ⏱️ 13:46 • 9h ago
+👁️ 28K • 👍 2K • 💬 289 • ⏱️ 20:03 • 1h ago
 
 ---
 
-**[IT’S RIGGED! Kevin O’Leary Warns ‘Buckle Up’ Bitcoin &amp; Ethereum Holders](https://www.youtube.com/watch?v=s3Exn-qdeno)**
+**[The Biggest Crypto SHOCK Ever Is Coming... - Max Keiser Bitcoin](https://www.youtube.com/watch?v=NX3UF7ZpxUo)**
 
-LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily ...
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell -------- The Biggest Crypto SHOCK ...
+
+📺 Library Of Wealth
+
+👁️ 10K • 👍 471 • 💬 689 • ⏱️ 13:29 • 16h ago
+
+---
+
+**[The White House Just Released The Cryptocurrency Bulls!!](https://www.youtube.com/watch?v=iSWMFZ5NChw)**
+
+The White House Just Released The Cryptocurrency Bulls!! Become a channel member & get access to perks: ...
 
 📺 Altcoin Daily
 
-👁️ 73K • 👍 3K • 💬 340 • ⏱️ 11:32 • 2d ago
-
----
-
-**[Bitcoin Just CRASHED Below $88,000 — Global Risk-Off  Panic Begins](https://www.youtube.com/watch?v=6qnab0L9MhY)**
-
-Bitcoin didn't “just correct” — it cracked. In this video, we break down why the drop below $88000 is not a routine dip, but a ...
-
-📺 Ryan’s Money Lab
-
-👁️ 623 • 👍 124 • 💬 10 • ⏱️ 9:47 • 3h ago
-
----
-
-**[Is $1M or $50M Bitcoin Even Possible? The Math Says YES.](https://www.youtube.com/watch?v=DZRz76bD_e4)**
-
-A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesis rooted in global debt collapse, fiat decay, and ...
-
-📺 Simply Bitcoin
-
-👁️ 28K • 👍 2K • 💬 413 • ⏱️ 18:52 • 22h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=PhcFluAocO8)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 Instituto Nacional de Enfermedades Neoplásicas
-
-👁️ 4K • 👍 1K • 5h ago
+👁️ 63K • 👍 4K • 💬 346 • ⏱️ 12:47 • 23h ago
 
 ---
 
@@ -383,27 +373,37 @@ Bitcoin today with Benjamin Cowen!
 
 📺 MMCrypto
 
-👁️ 34K • 👍 3K • 💬 819 • ⏱️ 7:39 • 13h ago
+👁️ 36K • 👍 3K • 💬 916 • ⏱️ 7:39 • 13h ago
 
 ---
 
-**[Bitcoin: The Unbelievable Reality Is Setting In (18-Year Cycle)](https://www.youtube.com/watch?v=KKDPrcLDuJg)**
+**[Is $1M or $50M Bitcoin Even Possible? The Math Says YES.](https://www.youtube.com/watch?v=DZRz76bD_e4)**
 
-TIA PRO $1000 OFF LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE → *GET ...
+A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesis rooted in global debt collapse, fiat decay, and ...
 
-📺 Jason Pizzino
+📺 Simply Bitcoin
 
-👁️ 28K • 👍 1K • 💬 694 • ⏱️ 29:13 • 19h ago
+👁️ 29K • 👍 2K • 💬 413 • ⏱️ 18:52 • 22h ago
 
 ---
 
-**[BITCOIN: big news!!!](https://www.youtube.com/watch?v=wA5Xgv-r13E)**
+**[IT’S RIGGED! Kevin O’Leary Warns ‘Buckle Up’ Bitcoin &amp; Ethereum Holders](https://www.youtube.com/watch?v=s3Exn-qdeno)**
 
-AscendEX Platform https://ckenny.com/ASC Free Strategy Course https://ckenny.com/whopCK ⚠️ DISCLAIMER – READ ...
+LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily ...
 
-📺 Conor Kenny
+📺 Altcoin Daily
 
-👁️ 15K • 👍 831 • 💬 345 • ⏱️ 5:59 • 11h ago
+👁️ 74K • 👍 3K • 💬 341 • ⏱️ 11:32 • 2d ago
+
+---
+
+**[Bitcoin Holders - Please Don&#39;t Fall For This](https://www.youtube.com/watch?v=JxJvL5DRczo)**
+
+Market Update Crypto Strategy School https://cryptostrategyschool.com/ab/ ➡️ Platform I Like: https://aaronbtc.com/low ...
+
+📺 Aaron Bennett
+
+👁️ 9K • 👍 560 • 💬 191 • ⏱️ 13:46 • 9h ago
 
 ---
 

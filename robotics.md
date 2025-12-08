@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T21:48:11.191239+00:00'
+updated: '2025-12-08T21:58:48.745212+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 21:48 UTC  
+**Last Updated:** December 08, 2025 at 21:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most concept machines, this one is production ready and operating in Hebei Province to address the aging rural workforce. The Tech Stack: Autonomy: Uses LiDAR and RTK-GNSS for path planning with ±2.5 cm precision. It handles the entire cycle: ploughing, seeding, spraying and harvesting without a driver. Smart Sensing: Beyond just driving, it collects real-time data on soil composition, moisture, and crop health while running. Powertrain: Pure electric with a dual-motor setup (separating traction from the PTO/farming implements) for better load control. Endurance: Runs for 6 hours on a single charge and coordinates via a 5G mesh network. "Agri-Robotics" is where we are seeing the first massive wave of real world autonomy. If a single person can manage a fleet of these from a tablet, it fundamentally changes the economics of small to medium farms. Source: Lucas
 
-5h ago
+6h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 Just sharing a small test clip from a sim environment: simple walking + a few controlled kicks. From my experience, getting this kind of behavior to look even remotely stable depends a lot on two things: the accuracy of the rigid-body collisions how well the contact forces are resolved frame-to-frame If either of those is off, the foot either tunnels through the ball or the ball reacts in weird, non-physical ways. With a more accurate physics setup, the kick actually lands where you expect, and the robot’s gait doesn’t blow up.
 
-8h ago
+9h ago
 
 ---
 
@@ -162,7 +162,7 @@ CNN • 1d ago
 
 Chinese robotics frim EngineAI shows CEO being kicked by T800 robot to prove real-world capabilities amid CGI speculation.
 
-Interesting Engineering • 12h ago
+Interesting Engineering • 13h ago
 
 ---
 
@@ -176,7 +176,7 @@ wallpaper.com • 1d ago
 
 **[Robots Are Coming. What Investors Need to Know.](https://www.barrons.com/articles/robots-stock-investors-b294d6a5?gaa_at=eafs&gaa_n=AWEtsqc_cBr7GXtFJAHN6rwW5jgQeLKwH_dd8_2zbosY0WJkU1-if2-5k5tj&gaa_ts=69374884&gaa_sig=3H_ZtX-OJwTlQrXIfmTIBQjo1bzeSyYsgowL9Q9wBh3OlRKWFINT5GDvSUrZ7dtUk7L1i-yBsE_FE8rXU9-8Ww%3D%3D)**
 
-Barron's • 48m ago
+Barron's • 58m ago
 
 ---
 
@@ -192,13 +192,23 @@ CNET • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Elon Musk Reveals Tesla’s New Running Optimus Gen 3 Robot — It’s Getting Too Real](https://www.youtube.com/watch?v=ea6QaTrgx3w)**
+
+Tesla just revealed the biggest leap in its humanoid robot project — Optimus Gen 3 can now run. And this upgrade is far more ...
+
+📺 The AI Nexus
+
+👁️ 10K • 👍 221 • 💬 28 • ⏱️ 26:22 • 4d ago
+
+---
+
 **[Trump administration looks to supercharge robotics industry, Politico reports](https://www.youtube.com/watch?v=XvXNEYbIBYw)**
 
 Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be ...
 
 📺 CBS News
 
-👁️ 18K • 👍 386 • 💬 185 • ⏱️ 4:05 • 3d ago
+👁️ 18K • 👍 389 • 💬 186 • ⏱️ 4:05 • 3d ago
 
 ---
 
@@ -208,7 +218,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 36K • 👍 1K • 💬 88 • ⏱️ 24:47 • 2d ago
+👁️ 37K • 👍 1K • 💬 91 • ⏱️ 24:47 • 2d ago
 
 ---
 
@@ -218,7 +228,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 143K • 👍 684 • 💬 234 • ⏱️ 1:03 • 2d ago
+👁️ 149K • 👍 709 • 💬 241 • ⏱️ 1:03 • 2d ago
 
 ---
 
@@ -228,7 +238,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 79K • 👍 642 • 💬 299 • ⏱️ 2:30 • 5d ago
+👁️ 80K • 👍 646 • 💬 299 • ⏱️ 2:30 • 5d ago
 
 ---
 
@@ -238,7 +248,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 22K • 👍 202 • 💬 6 • ⏱️ 0:25 • 1d ago
+👁️ 23K • 👍 212 • 💬 7 • ⏱️ 0:25 • 1d ago
 
 ---
 
@@ -248,27 +258,7 @@ Unitree's latest demos reveal that kickboxing is no longer just for its smaller 
 
 📺 CNET
 
-👁️ 28K • 👍 635 • 💬 95 • ⏱️ 6:05 • 1d ago
-
----
-
-**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
-
-Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
-
-📺 Fin Tek
-
-👁️ 79K • 👍 2K • 💬 206 • ⏱️ 21:31 • 2d ago
-
----
-
-**[AI Humanoid Robot Activated in 2025 — Reacts Like a Real Human in Silicon Valley Lab](https://www.youtube.com/watch?v=bjUcx-S0-ks)**
-
-In a 2025 Silicon Valley Robotics lab, engineers finish a new AI humanoid robot and apply a breakthrough synthetic skin.
-
-📺 AI Robot Lab
-
-👁️ 121K • 👍 541 • 💬 15 • ⏱️ 0:19 • 3d ago
+👁️ 29K • 👍 640 • 💬 95 • ⏱️ 6:05 • 1d ago
 
 ---
 
@@ -282,13 +272,23 @@ What Happens When You Build a Robot Girlfriend? #usatech #humanoid #robot #usa A
 
 ---
 
+**[War Robots - New Robot Ammit A Mini Bedwyr!](https://www.youtube.com/watch?v=hGCqMGe_66Q)**
+
+War Robots - New robot Ammit is a mini Bedwyr! In this weekend's test server I tested out a robot which we'll most likely see in the ...
+
+📺 Adrian Chong
+
+👁️ 2K • 👍 127 • 💬 42 • ⏱️ 20:38 • 7h ago
+
+---
+
 **[Chinese CEO kicked by humanoid robot in simulated battle](https://www.youtube.com/watch?v=DMrclXpeGN4)**
 
 Video released by Chinese robotics company EngineAI shows their humanoid T800 robot kicking CEO Zhao Tongyang to the ...
 
 📺 CNN
 
-👁️ 46K • 👍 697 • 💬 299 • ⏱️ 0:41 • 17h ago
+👁️ 50K • 👍 737 • 💬 315 • ⏱️ 0:41 • 17h ago
 
 ---
 
