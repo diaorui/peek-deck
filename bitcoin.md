@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T06:53:46.269470+00:00'
+updated: '2025-12-08T07:21:30.051558+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 06:53 UTC  
+**Last Updated:** December 08, 2025 at 07:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,603.64
+### $91,398.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
+**24h:** +2.6%  
 **7d:** +0.0%  
 **30d:** -12.7%  
 **90d:** -19.7%  
@@ -79,13 +79,13 @@ Rank #1
 
 **[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -99,7 +99,7 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 **[To all who sold…](https://www.reddit.com/r/Bitcoin/comments/1ph3rsw/to_all_who_sold/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -119,7 +119,7 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 **[Not selling Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgtw05/not_selling_bitcoin/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -127,7 +127,7 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 Some people on TV or online act like inflation is “not that bad” or even pretend it’s exaggerated. But regular people don’t need charts to know the truth. They see it when they: • check out at the grocery store • fill up their gas tank • pay rent • try to save • try to invest • try to raise a family We’re not imagining it. We’re living it. If your money buys less every year, that’s not a “hoax.” That’s the system working exactly as designed. Bitcoin wasn’t created because everything was fine it was created because inflation quietly destroys the middle and working class. People deserve honesty about what’s happening to their money. Silence helps no one. What signs of inflation hit you the hardest this year?
 
-9h ago
+10h ago
 
 ---
 
@@ -143,7 +143,7 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 Back in 2015 I first read an article about bitcoin and did some googling and I wanted to have some btc so I joined the pool because as a uni student from India in 2015 that was the only was I was gonna get some so I joined a mining pool but after a few days I lost interest. This is the screenshot from the mining pool I joined. Is there anyway to get the btc I mined there?
 
-5h ago
+6h ago
 
 ---
 
@@ -155,7 +155,7 @@ Back in 2015 I first read an article about bitcoin and did some googling and I w
 
 President Trump's latest national security strategy omits digital assets, focusing instead on AI, biotech, and quantum computing.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -169,7 +169,7 @@ Decrypt • 14h ago
 
 **[Michael Saylor Explains Why Banks Are No Longer Waiting for Bitcoin](https://www.binance.com/en/square/post/33413939298642)**
 
-Binance • 6h ago
+Binance • 7h ago
 
 ---
 
@@ -177,7 +177,7 @@ Binance • 6h ago
 
 Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -261,7 +261,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 1 • 15h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 1 • 16h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -283,7 +283,7 @@ Track the next Bitcoin halving event with live countdown and real-time block upd
 
 **[Market Volatility Underscores Epic Buildup of Global Risk](https://news.ycombinator.com/item?id=46104355)**
 
-⬆️ 2 • 💬 3 • 6d ago • [nytimes.com](https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html)
+⬆️ 2 • 💬 3 • 7d ago • [nytimes.com](https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html)
 
 ---
 
@@ -331,7 +331,7 @@ TIA PRO $1000 OFF LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK 
 
 📺 Jason Pizzino
 
-👁️ 9K • 👍 677 • 💬 216 • ⏱️ 29:13 • 4h ago
+👁️ 9K • 👍 677 • 💬 216 • ⏱️ 29:13 • 5h ago
 
 ---
 
@@ -341,7 +341,7 @@ Bitcoin Whales Just Flipped Their Bets… Here's What They Know ⚠️ Something
 
 📺 Ryan’s Money Lab
 
-👁️ 22K • 👍 1K • 💬 70 • ⏱️ 11:17 • 14h ago
+👁️ 22K • 👍 1K • 💬 70 • ⏱️ 11:17 • 15h ago
 
 ---
 
@@ -371,7 +371,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 516 • 💬 168 • ⏱️ 10:04 • 13h ago
+👁️ 12K • 👍 516 • 💬 168 • ⏱️ 10:04 • 14h ago
 
 ---
 
@@ -391,7 +391,7 @@ My Free Trading Course https://www.rt1m.com/free Trading Bonuses & Fee Discounts
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 245 • 💬 44 • ⏱️ 4:27 • 8h ago
+👁️ 4K • 👍 245 • 💬 44 • ⏱️ 4:27 • 9h ago
 
 ---
 
@@ -401,7 +401,7 @@ Bitcoin #Crypto #Finance Bitcoin's price may be volatile, but according to David
 
 📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 605 • 💬 299 • ⏱️ 1:04:56 • 16h ago
+👁️ 13K • 👍 605 • 💬 299 • ⏱️ 1:04:56 • 17h ago
 
 ---
 

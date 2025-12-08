@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T06:53:46.279172+00:00'
+updated: '2025-12-08T07:21:30.059940+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 06:53 UTC  
+**Last Updated:** December 08, 2025 at 07:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-19h ago
+20h ago
 
 ---
 
@@ -62,7 +62,7 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 **[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
 
-42m ago
+1h ago
 
 ---
 
@@ -70,7 +70,7 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 An old picture. The progress is in the coding, and testing, and tuning of the hardware.
 
-15h ago
+16h ago
 
 ---
 
@@ -78,7 +78,7 @@ An old picture. The progress is in the coding, and testing, and tuning of the ha
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 3h ago
 
 ---
 
@@ -86,7 +86,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑language‑action foundation model for humanoid robots, built to connect perception, language, and low‑level control so a single policy can handle many manipulation tasks across different embodiments. Since GTC they have released GR00T N1 and then N1.5 with architectural and data upgrades aimed at better generalization, grounding, and language following, plus tooling like simulation blueprints and synthetic motion data pipelines to accelerate training.​​ For anyone here actually playing with GR00T in the lab or integrating it on real hardware: how mature is it right now compared to the keynote demos and marketing? Any experiences with N1 vs N1.5, sim‑to‑real transfer, or using the GR00T toolchain (Dreams / Blueprint / Omniverse etc.) in a serious robotics stack would be super valuable to hear about.​
 
-3h ago
+4h ago
 
 ---
 
@@ -166,7 +166,7 @@ ETF Trends • 3d ago
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
-CNET • 17h ago
+CNET • 18h ago
 
 ---
 
@@ -224,7 +224,7 @@ Unitree's latest demos reveal that kickboxing is no longer just for its smaller 
 
 📺 CNET
 
-👁️ 24K • 👍 567 • 💬 90 • ⏱️ 6:05 • 17h ago
+👁️ 24K • 👍 567 • 💬 90 • ⏱️ 6:05 • 18h ago
 
 ---
 
