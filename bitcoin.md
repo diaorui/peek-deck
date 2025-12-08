@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T10:15:33.298128+00:00'
+updated: '2025-12-08T10:44:31.124884+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 10:15 UTC  
+**Last Updated:** December 08, 2025 at 10:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +3.4%  
-**7d:** +0.6%  
-**30d:** -12.2%  
-**90d:** -19.2%  
-**1y:** -5.5%  
+**24h:** +3.5%  
+**7d:** +0.7%  
+**30d:** -12.1%  
+**90d:** -19.1%  
+**1y:** -5.4%  
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars per week and just set up a direct deposit with strike to do 300 dollars per paycheck (biweekly). Will instantly move my funds to a cold wallet super excited and bullish about btc 5-20 year time horizon EDIT: Just learned about UTXO. I even went to the lengths of setting up direct deposits so I can withdraw BTC faster. Now after learning this I guess the best way is to accumlate more and do one single withdrawal to a cold wallet rather than many smaller ones (correct me if I’m wrong please stilll tryna learn)
 
-7h ago
+8h ago
 
 ---
 
 **[pahahha i died](https://www.reddit.com/r/Bitcoin/comments/1ph8e2i/pahahha_i_died/)**
 
-30m ago
+59m ago
 
 ---
 
@@ -131,7 +131,7 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 **[Not selling Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgtw05/not_selling_bitcoin/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -157,7 +157,7 @@ CoinDesk • 3d ago
 
 **[Cathie Wood predicts next gold crash, sees Bitcoin outperforming](https://www.thestreet.com/crypto/markets/cathie-wood-predicts-next-gold-crash-bitcoin-outperforming)**
 
-TheStreet • 18h ago
+TheStreet • 19h ago
 
 ---
 
@@ -165,7 +165,7 @@ TheStreet • 18h ago
 
 Investor Mike Alfred predicts Bitcoin could reach $315,000. Harvard University significantly increased its Bitcoin holdings over gold. But analysts warn of potential short-term consolidation. Bitcoin’s ...
 
-Yahoo Finance • 28m ago
+Yahoo Finance • 57m ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 28m ago
 
 4 key US data releases and the FOMC meeting shape Bitcoin’s outlook as traders watch $86,000–$92,000 levels.
 
-Yahoo Finance • 45m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Motley Fool • 1h ago
 
 Bitcoin is edging higher ahead of the Fed’s final rate decision and a key jobs report, extending its rebound as thin liquidity persists.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
@@ -285,7 +285,7 @@ Track the next Bitcoin halving event with live countdown and real-time block upd
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 6 • 💬 0 • 2h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 6 • 💬 0 • 3h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -307,43 +307,43 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin: an actually URGENT Video.. w. @intothecryptoverse ](https://www.youtube.com/watch?v=x9QWWoFgegs)**
+
+Bitcoin today with Benjamin Cowen!
+
+📺 MMCrypto
+
+👁️ 8K • 👍 1K • 💬 307 • ⏱️ 7:39 • 2h ago
+
+---
+
 **[Is $1M or $50M Bitcoin Even Possible? The Math Says YES.](https://www.youtube.com/watch?v=DZRz76bD_e4)**
 
 A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesis rooted in global debt collapse, fiat decay, and ...
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 290 • ⏱️ 18:52 • 10h ago
+👁️ 22K • 👍 1K • 💬 305 • ⏱️ 18:52 • 11h ago
 
 ---
 
-**[BTC: Should You BUY Back Here OR Wait For Lower? [My Plan]](https://www.youtube.com/watch?v=wphUx_yy-98)**
+**[Bitcoin: The Unbelievable Reality Is Setting In (18-Year Cycle)](https://www.youtube.com/watch?v=KKDPrcLDuJg)**
 
-In today's video, Kyledoops shares his strategy on whether to buy back now or just wait for lower. With price stalling many are ...
+TIA PRO $1000 OFF LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE → *GET ...
 
-📺 Crypto Banter
+📺 Jason Pizzino
 
-👁️ 4K • 👍 500 • ⏱️ 32:04 • 2h ago
-
----
-
-**[Bitcoin On-Chain Risk](https://www.youtube.com/watch?v=2DUCJDmTOks)**
-
-This chart shows the historical backtest of the on-chain risk gauge shown on the Homepage and the Indicator Dashboard.
-
-📺 Benjamin Cowen
-
-👁️ 12K • 👍 1K • 💬 54 • ⏱️ 9:57 • 4h ago
+👁️ 19K • 👍 1K • 💬 381 • ⏱️ 29:13 • 8h ago
 
 ---
 
-**[&quot;Why the Next Bitcoin &amp; Crypto Rally Won’t Start Until 2026&quot;- Mark Yusko](https://www.youtube.com/watch?v=x3xi-S0Mbpw)**
+**[BITCOIN TRADERS... DON&#39;T MAKE THIS HUGE MISTAKE](https://www.youtube.com/watch?v=_Rh0N4JxdUo)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
 
-📺 Savvy Finance
+📺 Satoshi Stacker
 
-👁️ 8K • 👍 335 • 💬 184 • ⏱️ 19:45 • 15h ago
+👁️ 2K • 👍 264 • 💬 8 • ⏱️ 7:18 • 1h ago
 
 ---
 
@@ -353,17 +353,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 69K • 👍 3K • 💬 351 • ⏱️ 11:32 • 1d ago
-
----
-
-**[bitcoin is about to change forever (and nobody even realises)](https://www.youtube.com/watch?v=fE1XaJjBwkg)**
-
-bitcoin is having some massive changes and I see nobody talking about them. future is bright fam Check out Casa's free guide on ...
-
-📺 BTC Isla
-
-👁️ 51K • 👍 3K • 💬 494 • ⏱️ 10:23 • 2d ago
+👁️ 70K • 👍 3K • 💬 360 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -373,27 +363,27 @@ Bitcoin Whales Just Flipped Their Bets… Here's What They Know ⚠️ Something
 
 📺 Ryan’s Money Lab
 
-👁️ 25K • 👍 1K • 💬 85 • ⏱️ 11:17 • 18h ago
+👁️ 26K • 👍 1K • 💬 90 • ⏱️ 11:17 • 18h ago
 
 ---
 
-**[BITCOIN HOLDERS: DON&#39;T IGNORE THIS...](https://www.youtube.com/watch?v=sX7sHnLUuX8)**
+**[Bitcoin On-Chain Risk](https://www.youtube.com/watch?v=2DUCJDmTOks)**
 
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $100 ...
+This chart shows the historical backtest of the on-chain risk gauge shown on the Homepage and the Indicator Dashboard.
 
-📺 Crypto Rover
+📺 Benjamin Cowen
 
-👁️ 4K • 👍 301 • 💬 49 • ⏱️ 8:55 • 5h ago
+👁️ 22K • 👍 2K • 💬 65 • ⏱️ 9:57 • 5h ago
 
 ---
 
-**[ANOTHER BITCOIN CONFIRMATION ON THE CHARTS FOR THIS WEEK!!!](https://www.youtube.com/watch?v=r6oYGZmh1Bc)**
+**[Bitcoin (BTC): 2026 Will Destroy Most.. You Need To Be Prepared! (WATCH ASAP)](https://www.youtube.com/watch?v=OUjRDMhcQHA)**
 
-My Preferred Exchange BYBIT https://partner.bybit.com/b/Didi NON-KYC Exchange: ...
+Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (Non-KYC) 15% off trading fees + ...
 
-📺 THE BITCOIN FAMILY Didi Taihuttu
+📺 MegaWhale Crypto
 
-👁️ 4K • 👍 462 • 💬 77 • ⏱️ 20:13 • 7h ago
+👁️ 5K • 👍 277 • 💬 313 • ⏱️ 21:14 • 9h ago
 
 ---
 
@@ -403,7 +393,17 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 13K • 👍 523 • 💬 165 • ⏱️ 10:04 • 17h ago
+👁️ 13K • 👍 527 • 💬 185 • ⏱️ 10:04 • 17h ago
+
+---
+
+**[Is the NEW Pro-Bitcoin Fed Appointee About to LAUNCH a Super-Cycle??](https://www.youtube.com/watch?v=_35wf1iITkE)**
+
+A Fed takeover is brewing — and Bitcoin could be the winner. With Trump poised to install a dovish Fed chair, the dollar's in ...
+
+📺 Simply Bitcoin
+
+👁️ 15K • 👍 773 • 💬 163 • ⏱️ 24:30 • 16h ago
 
 ---
 

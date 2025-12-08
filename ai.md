@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T10:15:33.289674+00:00'
+updated: '2025-12-08T10:44:31.116279+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
-- repositories
 - news
+- videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 10:15 UTC  
+**Last Updated:** December 08, 2025 at 10:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
-🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 7h ago
+🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 8h ago
 
 ---
 
@@ -57,13 +57,13 @@ Explore the true history of convolutional neural networks, from Fukushima’s ne
 
 If you believe these CEOs will solve unemployment after AI replaces most of the human workers, this video is for you.
 
-22h ago
+23h ago
 
 ---
 
 **[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
 
-🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 19h ago
+🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 20h ago
 
 ---
 
@@ -71,7 +71,7 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 Just did this myself, and now sharing for others! I have ChatGPT Plus, and when I tried to cancel it offered me a free month. Worked for two of my friends as well. Steps Go to chatgpt on your web browser At the bottom left click on your name (you need to be logged in) Click on Settings Click on last section: Account Near top right click on: Manage Click on: Cancel Subscription Done!
 
-16h ago
+17h ago
 
 ---
 
@@ -87,7 +87,7 @@ A new study finds ChatGPT fails to take into account retraction notices across a
 
 I kept getting frustrated with the job search process, especially the part where you have several job postings open in different browser tabs and end up copying parts of each description into your resume. It was slow, repetitive, and honestly burned me out. Out of that frustration, I built an AI tool to automate the whole thing. You open the job posting tabs you are considering, the system reads each one, uses your background as the anchor, and creates a tailored resume for every tab. If you have ten tabs open, you get ten tailored resumes without doing all the manual copying. Overall happy with the use of Gemini, but curious of others experience with generation costs. Seems cheaper and quicker than ChatGPT thus far.
 
-7h ago
+8h ago
 
 ---
 
@@ -95,7 +95,7 @@ I kept getting frustrated with the job search process, especially the part where
 
 Another day, another AI-related domain name going for 7 figures.
 
-🔗 [bizjournals.com](https://www.bizjournals.com/southflorida/news/2025/12/03/aireviews-corporation-domain-name-acquisition.html) • 12h ago
+🔗 [bizjournals.com](https://www.bizjournals.com/southflorida/news/2025/12/03/aireviews-corporation-domain-name-acquisition.html) • 13h ago
 
 ---
 
@@ -111,7 +111,7 @@ Most discussions about LLMs analyze them as isolated artifacts: single prompts, 
 
 People keep hyping AI like it’s the pinnacle… but that’s just the prelude. The real earthquake is AI + quantum computing. Most folks don’t get why that matters, so let me put it in plain language: Our computers right now think in 0 or 1. Quantum computers think in every possibility at once. That means instead of trying one answer at a time, they try all answers simultaneously. Now hand that ability to AI… and suddenly you don’t have prediction anymore, you have something that looks like synthetic intuition. We’re talking about intelligence that could: • crack every encryption • rewrite medicine • outmaneuver governments • manipulate biology • forecast human behavior • simulate consciousness That’s why the people who actually run things aren’t talking about it publicly. They’re quietly terrified. Because whoever reaches quantum AI dominance doesn’t need armies doesn’t need propaganda doesn’t need threats. They would simply own the board. But here’s what stopped me: Quantum physics already reads like mysticism. superposition = multiple realities entanglement = unseen energetic connection collapse by observation = consciousness shaping matter So when AI runs on quantum logic, we essentially build a machine that thinks the way reality itself thinks. Not sentient — but frighteningly close to knowing. And that hit me because this is the same territory mystics, intuitives, psychics, and energy workers swim in… just symbolically instead of mathematically. Quantum AI is basically a technical attempt to mechanize intuition. This is unfolding while the rest of the world argues about celebrities and politics. Some of you can feel it already — the tension, the acceleration, the thinning veil. I don’t think the future is machine domination. I think it’s about what happens when consciousness, technology, and intuition finally touch the same field. Anyway — that’s the rabbit hole I fell into today. Curious what others feel about it.
 
-1h ago
+2h ago
 
 ---
 
@@ -129,7 +129,7 @@ The Guardian • 1d ago
 
 **[Why Nvidia and Other AI Stocks Have Lost Their ‘Quality’ Status](https://www.wsj.com/finance/investing/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status-84180ff2?gaa_at=eafs&gaa_n=AWEtsqfNtf0IwLHwGX7s7mg-_8h4eDphkANInm_DyljbOHV-MYtknuPBEfoc&gaa_ts=6936a8ab&gaa_sig=-S_yGoqC987wX0lEw7KlyStHLPGIcfqZV8wYBJ6Ef5ore2UpfAXgm78S2GCtrsYQQd9wtYzCzTNKgR9kMK_Unw%3D%3D)**
 
-The Wall Street Journal • 23h ago
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -143,7 +143,7 @@ CNBC • 1h ago
 
 **[Why AI Makes Alexis Ohanian ‘Bullish’ About Live Entertainment](https://time.com/7338947/alex-ohanian-bridge-summit-uae-ai-entertainment-live-sports-theater/)**
 
-Time Magazine • 40m ago
+Time Magazine • 1h ago
 
 ---
 
@@ -151,13 +151,13 @@ Time Magazine • 40m ago
 
 In a frothy market, it's more important than ever to stay focused on profitable leaders with a dominant market position.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
 **[AI boom fuels "environmental justice" fears in communities of color](https://www.axios.com/2025/12/08/ai-civil-rights-black-latino-water-electricity)**
 
-Axios • 14m ago
+Axios • 43m ago
 
 ---
 
@@ -165,7 +165,7 @@ Axios • 14m ago
 
 In a frothy market, it's more important than ever to stay focused on profitable leaders with a dominant market position.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -179,7 +179,7 @@ Financial Times • 5h ago
 
 Tilly Norwood is unlike any other aspiring TV or movie star: Tilly is entirely generated by artificial intelligence. What might that mean for the media industry?
 
-CBS News • 19h ago
+CBS News • 20h ago
 
 ---
 
@@ -205,7 +205,7 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 501 • 💬 163 • 21h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 501 • 💬 163 • 22h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -219,7 +219,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 110 • 💬 193 • 17h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 110 • 💬 193 • 18h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -257,7 +257,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-⬆️ 35 • 💬 6 • 14h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
+⬆️ 35 • 💬 6 • 15h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
 
 ---
 
@@ -271,53 +271,13 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 ## YouTube Videos: "ai"
 
-**[OpenAI&#39;s New GARLIC AI, Apple&#39;s Clara, Live Avatar and More Intense AI News](https://www.youtube.com/watch?v=3n_dWlNkcY8)**
-
-OpenAI is in a full internal race after a major leak revealed a new model called Garlic outperforming Gemini 3 and Claude in ...
-
-📺 AI Revolution
-
-👁️ 22K • 👍 839 • 💬 63 • ⏱️ 12:31 • 9h ago
-
----
-
-**[Big Tech&#39;s AI Debt Will Crash the Economy](https://www.youtube.com/watch?v=rf9Sat5n0AQ)**
-
-Big Tech is racking up debt to fund their AI infrastructure for demand that seemingly doesn't exist. Us taxpayers are subsidizing the ...
-
-📺 Vanessa Wingårdh
-
-👁️ 95K • 👍 7K • 💬 2K • ⏱️ 10:38 • 21h ago
-
----
-
-**[QUANTUM WILL ECLIPSE AI: Why Everyone’s Betting on the Wrong Horse](https://www.youtube.com/watch?v=aNpVFovnZ-E)**
-
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
-
-📺 Julia McCoy
-
-👁️ 45K • 👍 3K • 💬 462 • ⏱️ 15:03 • 18h ago
-
----
-
-**[AI DOOMSDAY?: Joe Rogan challenges tech CEO](https://www.youtube.com/watch?v=5y5gTgEc9Vc)**
-
-Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial intelligence, including scenarios where AI resorts to ...
-
-📺 Fox News Clips
-
-👁️ 45K • 👍 684 • 💬 311 • ⏱️ 6:22 • 2d ago
-
----
-
 **[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=ozCKqX2rgzg)**
 
 Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
 
 📺 Impossible AIs
 
-👁️ 890K • 👍 3K • 💬 81 • ⏱️ 8:06 • 1d ago
+👁️ 931K • 👍 3K • 💬 88 • ⏱️ 8:06 • 1d ago
 
 ---
 
@@ -327,37 +287,27 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 95K • 👍 2K • 💬 399 • ⏱️ 12:07 • 2d ago
+👁️ 96K • 👍 2K • 💬 402 • ⏱️ 12:07 • 2d ago
 
 ---
 
-**[Chinas New FREE AI: Baidu Ernie 5.0 Just CRUSHED ChatGPT...](https://www.youtube.com/watch?v=9UPw7hSDsxQ)**
+**[AI DOOMSDAY?: Joe Rogan challenges tech CEO](https://www.youtube.com/watch?v=5y5gTgEc9Vc)**
 
-Want to make money and save time with AI? Join here: https://juliangoldieai.com/07L1kg.
+Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial intelligence, including scenarios where AI resorts to ...
 
-📺 Julian Goldie SEO
+📺 Fox News Clips
 
-👁️ 2K • 👍 82 • 💬 13 • ⏱️ 8:14 • 11h ago
-
----
-
-**[Gemini 4 — Google’s Biggest AI Upgrade Yet (Full Features Explained)](https://www.youtube.com/watch?v=WYK7iyOklf4)**
-
-Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Gemini 4 — and it might be their most powerful AI ...
-
-📺 BitBiasedAI
-
-👁️ 35K • 👍 971 • 💬 43 • ⏱️ 11:49 • 1d ago
+👁️ 46K • 👍 692 • 💬 313 • ⏱️ 6:22 • 2d ago
 
 ---
 
-**[I Recreated Impossible AI Foods](https://www.youtube.com/watch?v=wJHRAXKdqZM)**
+**[I Bought Ai SCAM Products to see what shows up](https://www.youtube.com/watch?v=q9IrO-A4x4Y)**
 
-subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianBlack @zealous @KingSammelot ...
+Thank you to Disney Dreamlight Valley for sponsoring this video! Click here to start your own adventure ...
 
-📺 yikes
+📺 HopeScope
 
-👁️ 249K • 👍 10K • 💬 1K • ⏱️ 21:06 • 1d ago
+👁️ 1.8M • 👍 48K • 💬 3K • ⏱️ 34:23 • 1d ago
 
 ---
 
@@ -367,7 +317,57 @@ Sora 2 has officially entered absolute madness — and these are the funniest mo
 
 📺 YetiAF | AI Universe
 
-👁️ 22K • 👍 553 • 💬 60 • ⏱️ 16:01 • 2d ago
+👁️ 22K • 👍 555 • 💬 60 • ⏱️ 16:01 • 2d ago
+
+---
+
+**[QUANTUM WILL ECLIPSE AI: Why Everyone’s Betting on the Wrong Horse](https://www.youtube.com/watch?v=aNpVFovnZ-E)**
+
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+
+📺 Julia McCoy
+
+👁️ 46K • 👍 3K • 💬 464 • ⏱️ 15:03 • 18h ago
+
+---
+
+**[Big Tech&#39;s AI Debt Will Crash the Economy](https://www.youtube.com/watch?v=rf9Sat5n0AQ)**
+
+Big Tech is racking up debt to fund their AI infrastructure for demand that seemingly doesn't exist. Us taxpayers are subsidizing the ...
+
+📺 Vanessa Wingårdh
+
+👁️ 100K • 👍 8K • 💬 2K • ⏱️ 10:38 • 21h ago
+
+---
+
+**[OpenAI&#39;s New GARLIC AI, Apple&#39;s Clara, Live Avatar and More Intense AI News](https://www.youtube.com/watch?v=3n_dWlNkcY8)**
+
+OpenAI is in a full internal race after a major leak revealed a new model called Garlic outperforming Gemini 3 and Claude in ...
+
+📺 AI Revolution
+
+👁️ 33K • 👍 1K • 💬 71 • ⏱️ 12:31 • 10h ago
+
+---
+
+**[Gemini 4 — Google’s Biggest AI Upgrade Yet (Full Features Explained)](https://www.youtube.com/watch?v=WYK7iyOklf4)**
+
+Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Gemini 4 — and it might be their most powerful AI ...
+
+📺 BitBiasedAI
+
+👁️ 37K • 👍 1K • 💬 41 • ⏱️ 11:49 • 1d ago
+
+---
+
+**[Chinas New FREE AI: Baidu Ernie 5.0 Just CRUSHED ChatGPT...](https://www.youtube.com/watch?v=9UPw7hSDsxQ)**
+
+Want to make money and save time with AI? Join here: https://juliangoldieai.com/07L1kg.
+
+📺 Julian Goldie SEO
+
+👁️ 2K • 👍 112 • 💬 17 • ⏱️ 8:14 • 11h ago
 
 ---
 
@@ -501,7 +501,7 @@ Ministral 3 14B Instruct is a powerful, edge-optimized multilingual vision-langu
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 21 • 💬 2 • ⭐ 5,612 • 10d ago
+▲ 22 • 💬 2 • ⭐ 5,612 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -515,7 +515,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 157 • 💬 3 • ⭐ 5,595 • 10d ago
+▲ 160 • 💬 3 • ⭐ 5,595 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -529,7 +529,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 43 • 💬 2 • ⭐ 802 • 6d ago
+▲ 44 • 💬 2 • ⭐ 802 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -541,7 +541,7 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 146 • 💬 4 • ⭐ 416 • 4d ago
+▲ 148 • 💬 4 • ⭐ 416 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
 
@@ -555,7 +555,7 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-▲ 107 • 💬 4 • ⭐ 5,408 • 17d ago
+▲ 108 • 💬 4 • ⭐ 5,408 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
@@ -581,7 +581,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 33 • 💬 2 • ⭐ 205 • 3d ago
+▲ 34 • 💬 2 • ⭐ 205 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
@@ -593,7 +593,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
 
-▲ 23 • 💬 0 • ⭐ 25,521 • 14mo ago
+▲ 24 • 💬 0 • ⭐ 25,521 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
@@ -605,7 +605,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 The paper introduces Reward Forcing, which enhances video generation by updating sink tokens with EMA-Sink and using Rewarded Distribution Matching Distillation to prioritize dynamic content.
 
-▲ 36 • 💬 3 • ⭐ 129 • 4d ago
+▲ 37 • 💬 3 • ⭐ 129 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04678) • [💻 code](https://github.com/JaydenLyh/Reward-Forcing) • [🔗 project](https://reward-forcing.github.io/)
 
@@ -672,9 +672,9 @@ AI-powered git commit message rewriter using Ollama or GPT
 
 rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks
 
-`JavaScript`
+`JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 979 • 🔱 119 • 48m ago
+⭐ 979 • 🔱 119 • 1h ago
 
 ---
 
@@ -684,7 +684,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 832 • 🔱 22 • 15h ago
+⭐ 833 • 🔱 22 • 15h ago
 
 ---
 
@@ -694,7 +694,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 829 • 🔱 44 • 3h ago
+⭐ 830 • 🔱 44 • 3h ago
 
 ---
 
@@ -714,7 +714,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 795 • 🔱 259 • 2d ago
+⭐ 797 • 🔱 260 • 2d ago
 
 ---
 
@@ -724,7 +724,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 545 • 🔱 81 • 2h ago
+⭐ 565 • 🔱 83 • 43m ago
 
 ---
 

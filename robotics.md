@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T10:15:33.307504+00:00'
+updated: '2025-12-08T10:44:31.134323+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 10:15 UTC  
+**Last Updated:** December 08, 2025 at 10:44 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 **[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -62,7 +62,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
-15h ago
+16h ago
 
 ---
 
@@ -70,7 +70,7 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1997859311956148701
 
-21m ago
+50m ago
 
 ---
 
@@ -86,7 +86,7 @@ Does any one have build the robotics arm which can be controlled via neural sign
 
 An old picture. The progress is in the coding, and testing, and tuning of the hardware.
 
-18h ago
+19h ago
 
 ---
 
@@ -192,13 +192,23 @@ Barchart.com • 20h ago
 
 ## YouTube Videos: "robotics"
 
+**[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
+
+Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
+
+📺 MarketBeat
+
+👁️ 33K • 👍 1K • 💬 82 • ⏱️ 24:47 • 1d ago
+
+---
+
 **[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
 
 The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
 
 📺 DPCcars
 
-👁️ 112K • 👍 523 • 💬 188 • ⏱️ 1:03 • 1d ago
+👁️ 118K • 👍 546 • 💬 198 • ⏱️ 1:03 • 1d ago
 
 ---
 
@@ -208,17 +218,7 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 18K • 👍 378 • 💬 184 • ⏱️ 4:05 • 3d ago
-
----
-
-**[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
-
-Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
-
-📺 MarketBeat
-
-👁️ 32K • 👍 1K • 💬 82 • ⏱️ 24:47 • 1d ago
+👁️ 18K • 👍 379 • 💬 184 • ⏱️ 4:05 • 3d ago
 
 ---
 
@@ -228,7 +228,7 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 77K • 👍 623 • 💬 285 • ⏱️ 2:30 • 4d ago
+👁️ 77K • 👍 626 • 💬 286 • ⏱️ 2:30 • 4d ago
 
 ---
 
@@ -238,7 +238,7 @@ Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hosting
 
 📺 Fin Tek
 
-👁️ 74K • 👍 2K • 💬 189 • ⏱️ 21:31 • 2d ago
+👁️ 75K • 👍 2K • 💬 192 • ⏱️ 21:31 • 2d ago
 
 ---
 
@@ -248,7 +248,27 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 19K • 👍 169 • 💬 6 • ⏱️ 0:25 • 1d ago
+👁️ 20K • 👍 173 • 💬 6 • ⏱️ 0:25 • 1d ago
+
+---
+
+**[Hidden Details in Unitree&#39;s Latest WILD Humanoid Robot Demos](https://www.youtube.com/watch?v=jXTibM33SDg)**
+
+Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid robots. The company's teleoperation ...
+
+📺 CNET
+
+👁️ 26K • 👍 598 • 💬 93 • ⏱️ 6:05 • 21h ago
+
+---
+
+**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
+
+Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
+
+📺 Unitree Robotics
+
+👁️ 2.4M • 👍 1K • 💬 311 • ⏱️ 1:06 • 4d ago
 
 ---
 
@@ -258,7 +278,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 105K • 💬 652 • ⏱️ 1:21 • 5d ago
+👁️ 105K • 💬 653 • ⏱️ 1:21 • 5d ago
 
 ---
 
@@ -266,25 +286,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 AI . Robot
 
-👁️ 1.6M • 👍 8K • 💬 48 • ⏱️ 0:17 • 3d ago
-
----
-
-**[This Isn&#39;t Your Typical Humanoid Robot](https://www.youtube.com/watch?v=NjwgtvVPy04)**
-
-Memo is a wheeled home robot from Sunday Robotics, a Mountain View startup founded by Stanford PhDs Tony Zhao and Cheng ...
-
-📺 Game of Tomorrow
-
-👁️ 611K • 👍 19K • 💬 1K • ⏱️ 0:55 • 2d ago
-
----
-
-**[2025 Advanced Anti-Gravity Hoverboard Showcase. #futuretech #antigravity #hoverboard #robotics](https://www.youtube.com/watch?v=NfrybLAbGqA)**
-
-📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
-
-👁️ 24K • 👍 320 • 💬 13 • ⏱️ 0:11 • 1d ago
+👁️ 1.6M • 👍 9K • 💬 48 • ⏱️ 0:17 • 3d ago
 
 ---
 
