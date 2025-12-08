@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T13:23:14.882442+00:00'
+updated: '2025-12-08T13:51:06.354637+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 13:23 UTC  
+**Last Updated:** December 08, 2025 at 13:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,729.65
+### $91,618.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.0%  
+**24h:** +4.1%  
 **7d:** +0.2%  
-**30d:** -12.6%  
-**90d:** -19.6%  
-**1y:** -5.9%  
+**30d:** -12.5%  
+**90d:** -19.5%  
+**1y:** -5.8%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[pahahha i died](https://www.reddit.com/r/Bitcoin/comments/1ph8e2i/pahahha_i_died/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars per week and just set up a direct deposit with strike to do 300 dollars per paycheck (biweekly). Will instantly move my funds to a cold wallet super excited and bullish about btc 5-20 year time horizon EDIT: Just learned about UTXO. I even went to the lengths of setting up direct deposits so I can withdraw BTC faster. Now after learning this I guess the best way is to accumlate more and do one single withdrawal to a cold wallet rather than many smaller ones (correct me if I’m wrong please stilll tryna learn)
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 They didn't trade, they didn't sell to buy back later, they didn't follow the 4-year cycle, nothing. Just HODL Replicate them.
 
-2h ago
+3h ago
 
 ---
 
@@ -207,7 +207,7 @@ Morningstar • 2h ago
 
 Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -241,7 +241,7 @@ Forbes • 1d ago
 
 Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin will cure everything
 
-⬆️ 5 • 💬 0 • 3d ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
+⬆️ 5 • 💬 0 • 4d ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin today with Benjamin Cowen!
 
 📺 MMCrypto
 
-👁️ 17K • 👍 2K • 💬 433 • ⏱️ 7:39 • 4h ago
+👁️ 17K • 👍 2K • 💬 433 • ⏱️ 7:39 • 5h ago
 
 ---
 
@@ -363,7 +363,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 1K • 💬 312 • ⏱️ 18:52 • 13h ago
+👁️ 24K • 👍 1K • 💬 312 • ⏱️ 18:52 • 14h ago
 
 ---
 
@@ -403,7 +403,7 @@ The White House Just Released The Cryptocurrency Bulls!! Become a channel member
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 3K • 💬 277 • ⏱️ 12:47 • 14h ago
+👁️ 52K • 👍 3K • 💬 277 • ⏱️ 12:47 • 15h ago
 
 ---
 

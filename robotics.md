@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T13:23:14.892209+00:00'
+updated: '2025-12-08T13:51:06.363861+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 13:23 UTC  
+**Last Updated:** December 08, 2025 at 13:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 **[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -70,7 +70,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
-18h ago
+19h ago
 
 ---
 
@@ -78,7 +78,7 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
 
-9m ago
+37m ago
 
 ---
 
@@ -94,7 +94,7 @@ An old picture. The progress is in the coding, and testing, and tuning of the ha
 
 Just sharing a small test clip from a sim environment: simple walking + a few controlled kicks. From my experience, getting this kind of behavior to look even remotely stable depends a lot on two things: the accuracy of the rigid-body collisions how well the contact forces are resolved frame-to-frame If either of those is off, the foot either tunnels through the ball or the ball reacts in weird, non-physical ways. With a more accurate physics setup, the kick actually lands where you expect, and the robot’s gait doesn’t blow up.
 
-25m ago
+53m ago
 
 ---
 
@@ -178,7 +178,7 @@ Interesting Engineering • 4h ago
 
 For this chore, the human touch still beats machines. But maybe not for long
 
-Smithsonian Magazine • 14m ago
+Smithsonian Magazine • 42m ago
 
 ---
 

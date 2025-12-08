@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T13:23:14.873678+00:00'
+updated: '2025-12-08T13:51:06.346169+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- repositories
 - news
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 13:23 UTC  
+**Last Updated:** December 08, 2025 at 13:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,13 +49,13 @@ AI news, discussions, and developments
 
 At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
 
-🔗 [withmartian.com](https://withmartian.com/prize) • 31m ago
+🔗 [withmartian.com](https://withmartian.com/prize) • 58m ago
 
 ---
 
 **[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
 
-38m ago
+1h ago
 
 ---
 
@@ -63,7 +63,7 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 Source: https://openrouter.ai/state-of-ai TL;DR 1. new landscape of open source: Chinese models rise, market moves beyond monopoly Although proprietary closed-source models still dominate, the market share of open-source models has steadily grown to about one-third. Notably, a significant portion of this growth comes from models developed in China, such as the DeepSeek, Qwen and Kimi, which have gained a large global user base thanks to their strong performance and rapid iteration. 2. Open-Source AI's top use isn't productivity, it's "role-playing" Contrary to the assumption that AI is mainly used for productivity tasks such as programming and writing, data shows that in open-source models, the largest use case is creative role-playing. Among all uses of open-source models, more than half (about 52%) fall under the role-playing category. 3. the "cinderella effect": winning users hinges on solving the problem the "first time" When a newly released model successfully solves a previously unresolved high-value workload for the first time, it achieves a perfect “fit”, much like Cinderella putting on her unique glass slipper. Typically, this “perfect fit” is realized through the model’s new capabilities in agentic reasoning, such as multi-step reasoning or reliable tool use that address a previously difficult business problem. The consequence of this “fit” is a strong user lock-in effect. Once users find the “glass slipper” model that solves their core problem, they rarely switch to newer or even technically superior models that appear later. 4. rise of agents: ai shifts from "text generator" to "task executor" Current models not only generate text but also take concrete actions through planning, tool invocation, and handling long-form context to solve complex problems. Key data evidence supporting this trend includes: Proliferation of reasoning models: Models with multi-step reasoning capabilities now process more than 50% of total tokens, becoming the mainstream in the market. Surge in context length: Over the past year, the average number of input tokens (prompts) per request has grown nearly fourfold. This asymmetric growth is primarily driven by use cases in software development and technical reasoning, indicating that users are engaging models with increasingly complex background information. Normalization of tool invocation: An increasing number of requests now call external APIs or tools to complete tasks, with this proportion stabilizing at around 15% and continuing to grow, marking AI’s role as the “action hub” connecting the digital world. 5. the economics of AI: price isn't the only deciding factor Data shows that demand for AI models is relatively “price inelastic,” meaning there is no strong correlation between model price and usage volume. When choosing a model, users consider cost, quality, reliability, and specific capabilities comprehensively, rather than simply pursuing the lowest price. Value, not price, is the core driver of choice. The research categorizes models on the market into four types, clearly revealing this dynamic: Efficient Giants: Such as Google Gemini Flash, with extremely low cost and massive usage, serving as an “attractive default option for high-volume or long-context workloads.” Premium Leaders: Such as Anthropic Claude Sonnet, which are expensive yet heavily used, indicating that users are willing to pay for “superior reasoning ability and scalable reliability.” Premium Specialists: Such as OpenAI GPT-4, which are extremely costly and relatively less used, dedicated to “niche, high-stakes critical tasks where output quality far outweighs marginal token cost.” Long Tail Market: Includes a large number of low-cost, low-usage models that meet various niche needs.
 
-32m ago
+59m ago
 
 ---
 
@@ -71,7 +71,7 @@ Source: https://openrouter.ai/state-of-ai TL;DR 1. new landscape of open source:
 
 Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
-13m ago
+41m ago
 
 ---
 
@@ -101,7 +101,7 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 **[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
 
-🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 22h ago
+🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 23h ago
 
 ---
 
@@ -109,7 +109,7 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 Just did this myself, and now sharing for others! I have ChatGPT Plus, and when I tried to cancel it offered me a free month. Worked for two of my friends as well. Steps Go to chatgpt on your web browser At the bottom left click on your name (you need to be logged in) Click on Settings Click on last section: Account Near top right click on: Manage Click on: Cancel Subscription Done!
 
-19h ago
+20h ago
 
 ---
 
@@ -141,7 +141,7 @@ Bloomberg.com • 1h ago
 
 BNY is integrating Google's Gemini 3 into its internal AI system Eliza, betting on agentic tech as banks race to build next-generation workflows.
 
-Business Insider • 38m ago
+Business Insider • 1h ago
 
 ---
 
@@ -149,13 +149,13 @@ Business Insider • 38m ago
 
 Hinge launched “Convo Starters,” a feature powered by AI that provides personalized tips for initiating meaningful conversations.
 
-TechCrunch • 23m ago
+TechCrunch • 51m ago
 
 ---
 
 **[Behind the Curtain: Trump bets his presidency and GOP's future on AI](https://www.axios.com/2025/12/08/trump-ai-policy-gop-united-states)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
@@ -217,7 +217,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 112 • 💬 199 • 20h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 112 • 💬 199 • 21h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -255,7 +255,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-⬆️ 35 • 💬 6 • 17h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
+⬆️ 35 • 💬 6 • 18h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
 
 ---
 
@@ -365,7 +365,7 @@ Research shows that AI chatbots like Character AI can be harmful to children. He
 
 📺 60 Minutes
 
-👁️ 9K • 👍 186 • 💬 30 • ⏱️ 7:11 • 12h ago
+👁️ 9K • 👍 186 • 💬 30 • ⏱️ 7:11 • 13h ago
 
 ---
 
@@ -499,7 +499,7 @@ Ministral 3 14B Instruct is a powerful, edge-optimized multilingual vision-langu
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 22 • 💬 2 • ⭐ 5,612 • 10d ago
+▲ 22 • 💬 2 • ⭐ 5,612 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -683,7 +683,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 835 • 🔱 22 • 18h ago
+⭐ 835 • 🔱 22 • 19h ago
 
 ---
 

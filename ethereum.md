@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T13:23:14.888729+00:00'
+updated: '2025-12-08T13:51:06.360596+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 13:23 UTC  
+**Last Updated:** December 08, 2025 at 13:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.8%  
-**7d:** +5.1%  
-**30d:** -12.3%  
-**90d:** -27.7%  
-**1y:** -15.4%  
+**24h:** +7.1%  
+**7d:** +5.3%  
+**30d:** -12.1%  
+**90d:** -27.6%  
+**1y:** -15.2%  
 
 ---
 
@@ -128,7 +128,7 @@ This is Part Seven of the eight-part series: Can I Pay With This: A stablecoin e
 
 I was recently censored by Edmund something, so I thought I would ask this community if you could disprove an assumption I have considered. I have considered a scaling paradigm, and here would like to ask about it for a simpler ledger like UTXO-model (and the idea is that the same principles can be scaled up to more advanced "world computer" like Ethereum). It seems appropriate to attack my argument rather than censor me for having respect for another individual (Craig Wright). My idea is very simple. Shard a UTXO ledger by transaction hash mod numShards. There is "wiggle room" for nodes to shard with different values, as it can translate back and forth. Then, if 1024 shards, let shard 0 build blocks only with transaction hashes it "owns", and any shard using those as inputs will have to request the right from the shard. The shards manage and stores such "virtual blocks". Propagation of mempool transactions as well as "virtual blocks" is between shards only (or, mainly). Shards will request transactions from mempool by modulo numShards, and similar with the "virtual block" (where the boundaries of that block is the Merkle tree, so it naturally also splits and combines so people can use different numShards). The central block header is signed by the "coordinator" (via proof-of-work or proof-of-stake or proof-of-suffrage) who combines the Merkle roots of the sub-blocks. They trust all their "sub-nodes" internally. Likewise, the transaction fees can be done easily in UTXO-format by each sub-node reporting their own output for coinbase. Assuming 1 MB blocks and 1024 shards, 5000 transactions per block, on average 2-3 inputs per transaction, on average 10-15 requests per shard-pair. The geographical distribution solves the bandwidth bottleneck (as well as computation and storage to some extent) and lets less advanced hardware still team-up to easily operate on gigabyte (or more) blocks. What is the added latency would people here say from the geographical distribution of the shards?
 
-19h ago
+20h ago
 
 ---
 
@@ -154,7 +154,7 @@ I'm the inventor of the "simultaneous video event" Gavin Wood is currently pursu
 
 **[ZKsync to deprecate ZKsync Lite in 2026, sunsetting Ethereum's first ZK rollup](https://www.theblock.co/post/381632/zksync-to-deprecate-zksync-lite-in-2026-sunsetting-ethereums-first-zk-rollup)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 14h ago
 
 ZKsync is retiring its original Lite network, formalizing a shift toward ZKsync Era and the ZK Stack as activity on the legacy rollup fades.
 
-Decrypt • 10h ago
+Decrypt • 11h ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 10h ago
 
 Ethereum could be once again on the path to the $5,000 price level. Here's why.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView • 20h ago
 
 **[Ethereum or Solana: ‘One Crypto Could Outperform in 2026,’ Says Investor](https://www.tipranks.com/news/ethereum-or-solana-one-crypto-could-outperform-in-2026-says-investor)**
 
-TipRanks • 23h ago
+TipRanks • 1d ago
 
 ---
 
@@ -272,7 +272,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 180 • 💬 49 • ⏱️ 5:16 • 10h ago
+👁️ 1K • 👍 180 • 💬 49 • ⏱️ 5:16 • 11h ago
 
 ---
 
@@ -292,7 +292,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 385 • 💬 184 • ⏱️ 19:45 • 18h ago
+👁️ 9K • 👍 385 • 💬 184 • ⏱️ 19:45 • 19h ago
 
 ---
 
@@ -322,7 +322,7 @@ Kevin O'Leary Warns 'Buckle Up' Bitcoin & Ethereum Holders Kevin O'Leary ("Mr. W
 
 📺 Wall Street Stockcast
 
-👁️ 2K • 👍 45 • ⏱️ 9:22 • 12h ago
+👁️ 2K • 👍 45 • ⏱️ 9:22 • 13h ago
 
 ---
 
