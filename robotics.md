@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T11:26:37.860011+00:00'
+updated: '2025-12-08T11:42:50.710300+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 11:26 UTC  
+**Last Updated:** December 08, 2025 at 11:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,25 +52,17 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 ---
 
-**[MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control](https://www.reddit.com/r/robotics/comments/1pgpipx/mimickit_a_reinforcement_learning_framework_for/)**
-
-Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
-
-16h ago
-
----
-
 **[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
 
 5h ago
 
 ---
 
-**[Big update: Robert now supports full ChatGPT embodiment. You can switch seamlessly between manual and AI control, and I’ll be releasing the entire system as open source soon. When the coding is done, I will finish connecting the left arm, and show how he is assembled from modules.](https://www.reddit.com/r/robotics/comments/1pgkrgx/big_update_robert_now_supports_full_chatgpt/)**
+**[MimicKit: A Reinforcement Learning Framework for Motion Imitation and Control](https://www.reddit.com/r/robotics/comments/1pgpipx/mimickit_a_reinforcement_learning_framework_for/)**
 
-An old picture. The progress is in the coding, and testing, and tuning of the hardware.
+Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
-20h ago
+17h ago
 
 ---
 
@@ -79,6 +71,14 @@ An old picture. The progress is in the coding, and testing, and tuning of the ha
 Does any one have build the robotics arm which can be controlled via neural signals? If yes the which servos are preferred? And how many axis where u guys able to achieve it?
 
 4h ago
+
+---
+
+**[Big update: Robert now supports full ChatGPT embodiment. You can switch seamlessly between manual and AI control, and I’ll be releasing the entire system as open source soon. When the coding is done, I will finish connecting the left arm, and show how he is assembled from modules.](https://www.reddit.com/r/robotics/comments/1pgkrgx/big_update_robert_now_supports_full_chatgpt/)**
+
+An old picture. The progress is in the coding, and testing, and tuning of the hardware.
+
+20h ago
 
 ---
 
@@ -98,11 +98,9 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[AgiBot has just reached a major milestone with the mass production of 5,000 humanoid robots to date.](https://www.reddit.com/r/robotics/comments/1ph9d1m/agibot_has_just_reached_a_major_milestone_with/)**
+**[China's G1 humanoid robot is mastering combat skills at a terrifying rate](https://www.reddit.com/r/robotics/comments/1pghcyh/chinas_g1_humanoid_robot_is_mastering_combat/)**
 
-From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1997975944943034589
-
-40m ago
+23h ago
 
 ---
 
@@ -150,11 +148,25 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Hyundai’s ‘mobile eccentric droid’ could be about to deliver your goods](https://www.wallpaper.com/tech/hyundai-mobile-eccentric-droid)**
+
+The MobED is a new product from Hyundai’s Robotics LAB, pitched at last-mile delivery and industrial applications
+
+wallpaper.com • 1d ago
+
+---
+
 **[Unitree's Big Humanoid Robots Are Fighting Now](https://www.cnet.com/tech/computing/unitrees-big-humanoid-robots-are-fighting-now/)**
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
 CNET • 22h ago
+
+---
+
+**[The Trump Administration Is Shifting Its Focus From AI to This Burgeoning Industry](https://www.inc.com/chris-morris/trump-administration-shifting-focus-from-ai-to-another-burgeoning-industry/91275057)**
+
+Inc.com • 39m ago
 
 ---
 
@@ -171,20 +183,6 @@ KTVB • 2d ago
 Chinese robotics frim EngineAI shows CEO being kicked by T800 robot to prove real-world capabilities amid CGI speculation.
 
 Interesting Engineering • 2h ago
-
----
-
-**[Need laundry folded? Don’t ask a robot](https://knowablemagazine.org/content/article/technology/2025/why-robots-cant-fold-laundry)**
-
-Knowable Magazine • 3d ago
-
----
-
-**[This Top Chip Stock Could Also Be the Best Way to Play a New Trump Robotics Rally](https://www.barchart.com/story/news/36496863/this-top-chip-stock-could-also-be-the-best-way-to-play-a-new-trump-robotics-rally)**
-
-America’s robotics race is heating up under the Trump administration, and AMD might be the cleanest way to get in early.
-
-Barchart.com • 21h ago
 
 ---
 
@@ -268,7 +266,7 @@ Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G
 
 📺 Unitree Robotics
 
-👁️ 2.4M • 👍 1K • 💬 311 • ⏱️ 1:06 • 4d ago
+👁️ 2.4M • 👍 1K • 💬 311 • ⏱️ 1:06 • 5d ago
 
 ---
 

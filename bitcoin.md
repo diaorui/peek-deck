@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T11:26:37.850714+00:00'
+updated: '2025-12-08T11:42:50.700797+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 11:26 UTC  
+**Last Updated:** December 08, 2025 at 11:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +3.2%  
-**7d:** +0.7%  
-**30d:** -12.1%  
-**90d:** -19.1%  
-**1y:** -5.4%  
+**24h:** +2.8%  
+**7d:** +0.4%  
+**30d:** -12.4%  
+**90d:** -19.4%  
+**1y:** -5.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1838.88B
+**Market Cap:** $1835.66B
 Rank #1
 
 **Circulating Supply:** 19,959,290 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.9%
+-27.1%
 
 **All-Time Low:** $67.81
-+135769.3%
++135493.6%
 
 ---
 
@@ -105,7 +105,7 @@ Rank #1
 
 I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars per week and just set up a direct deposit with strike to do 300 dollars per paycheck (biweekly). Will instantly move my funds to a cold wallet super excited and bullish about btc 5-20 year time horizon EDIT: Just learned about UTXO. I even went to the lengths of setting up direct deposits so I can withdraw BTC faster. Now after learning this I guess the best way is to accumlate more and do one single withdrawal to a cold wallet rather than many smaller ones (correct me if I’m wrong please stilll tryna learn)
 
-8h ago
+9h ago
 
 ---
 
@@ -114,6 +114,20 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
 1d ago
+
+---
+
+**[Buy buy buy!](https://www.reddit.com/r/Bitcoin/comments/1ph9n2c/buy_buy_buy/)**
+
+40m ago
+
+---
+
+**[Bitcoin Standard book, in Thai, my wife wanted to know why, not the how.](https://www.reddit.com/r/Bitcoin/comments/1ph7uhj/bitcoin_standard_book_in_thai_my_wife_wanted_to/)**
+
+Really cool they have this at common bookstores in Thailand. The placement could be better hahaha, forex has a better location on the shelves here. FOREX!!! Is bitcoin a type of Forex? Kinda. Its actually the ultimate forex.
+
+2h ago
 
 ---
 
@@ -129,20 +143,6 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 ---
 
-**[Not selling Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgtw05/not_selling_bitcoin/)**
-
-14h ago
-
----
-
-**[Bitcoin Standard book, in Thai, my wife wanted to know why, not the how.](https://www.reddit.com/r/Bitcoin/comments/1ph7uhj/bitcoin_standard_book_in_thai_my_wife_wanted_to/)**
-
-Really cool they have this at common bookstores in Thailand. The placement could be better hahaha, forex has a better location on the shelves here. FOREX!!! Is bitcoin a type of Forex? Kinda. Its actually the ultimate forex.
-
-2h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -155,25 +155,27 @@ CoinDesk • 3d ago
 
 ---
 
-**[Cathie Wood predicts next gold crash, sees Bitcoin outperforming](https://www.thestreet.com/crypto/markets/cathie-wood-predicts-next-gold-crash-bitcoin-outperforming)**
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
 
-TheStreet • 20h ago
+Which of these popular cryptocurrencies has more upside potential?
 
----
-
-**[Famed Investor Mike Alfred Claims Bitcoin Will Hit $315,000, Harvard Boosts Bitcoin Investment 2-To-1 Over Gold](https://finance.yahoo.com/news/famed-investor-mike-alfred-claims-094719509.html)**
-
-Investor Mike Alfred predicts Bitcoin could reach $315,000. Harvard University significantly increased its Bitcoin holdings over gold. But analysts warn of potential short-term consolidation. Bitcoin’s ...
-
-Yahoo Finance • 1h ago
+The Motley Fool • 15h ago
 
 ---
 
-**[4 Key US Economic Data to Shape Bitcoin Sentiment This Week](https://finance.yahoo.com/news/4-key-us-economic-data-093000226.html)**
+**[Harvard Bets Big on Bitcoin With $443M Stake, Outpacing Gold 2-to-1](https://finance.yahoo.com/news/harvard-bets-big-bitcoin-443m-104851484.html)**
 
-4 key US data releases and the FOMC meeting shape Bitcoin’s outlook as traders watch $86,000–$92,000 levels.
+Harvard University expanded its Bitcoin ETF holdings by 257% in the third quarter, making the iShares Bitcoin Trust its largest disclosed position with $442.8 million as of September 30. According to Matt Hougan, Bitwise CIO, Harvard simultaneously increased its gold ETF holdings by 99% to $235 million, allocating to Bitcoin ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 53m ago
+
+---
+
+**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
+
+Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -207,17 +209,17 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Bitcoin Edges Back Above $91,000 as Traders Brace for Fed Decision and Jobs Data](https://decrypt.co/351388/bitcoin-back-above-91000-traders-brace-fed-decision-jobs-data)**
+**[‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles](https://www.forbes.com/sites/digital-assets/2025/12/07/next-step-is-coming-sec-chair-issues-huge-crypto-prediction-as-the-bitcoin-price-struggles/)**
 
-Bitcoin is edging higher ahead of the Fed’s final rate decision and a key jobs report, extending its rebound as thin liquidity persists.
+The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
 
-Decrypt • 7h ago
+Forbes • 22h ago
 
 ---
 
-**[Ripple CEO makes bold new Bitcoin prediction](https://www.thestreet.com/crypto/trading/ripple-ceo-predicts-bitcoin-to-hit-180k)**
+**[Cathie Wood predicts next gold crash, sees Bitcoin outperforming](https://www.thestreet.com/crypto/markets/cathie-wood-predicts-next-gold-crash-bitcoin-outperforming)**
 
-TheStreet • 2d ago
+TheStreet • 20h ago
 
 ---
 
@@ -309,7 +311,7 @@ Bitcoin today with Benjamin Cowen!
 
 📺 MMCrypto
 
-👁️ 8K • 👍 1K • 💬 307 • ⏱️ 7:39 • 2h ago
+👁️ 8K • 👍 1K • 💬 307 • ⏱️ 7:39 • 3h ago
 
 ---
 
@@ -319,7 +321,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 305 • ⏱️ 18:52 • 11h ago
+👁️ 22K • 👍 1K • 💬 305 • ⏱️ 18:52 • 12h ago
 
 ---
 
@@ -369,7 +371,7 @@ This chart shows the historical backtest of the on-chain risk gauge shown on the
 
 📺 Benjamin Cowen
 
-👁️ 22K • 👍 2K • 💬 65 • ⏱️ 9:57 • 5h ago
+👁️ 22K • 👍 2K • 💬 65 • ⏱️ 9:57 • 6h ago
 
 ---
 
