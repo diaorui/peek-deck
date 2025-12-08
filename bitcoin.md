@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T15:57:04.518443+00:00'
+updated: '2025-12-08T16:36:03.120402+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 15:57 UTC  
+**Last Updated:** December 08, 2025 at 16:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,751.65
+### $89,886.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -1.4%  
-**30d:** -14.0%  
-**90d:** -20.8%  
-**1y:** -7.4%  
+**24h:** -1.1%  
+**7d:** -1.5%  
+**30d:** -14.1%  
+**90d:** -20.9%  
+**1y:** -7.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.04B
+**Market Cap:** $1803.12B
 Rank #1
 
-**Circulating Supply:** 19,959,350 BTC
+**Circulating Supply:** 19,959,359 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.7%
+-28.4%
 
 **All-Time Low:** $67.81
-+132395.2%
++133058.8%
 
 ---
 
@@ -77,12 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[pahahha i died](https://www.reddit.com/r/Bitcoin/comments/1ph8e2i/pahahha_i_died/)**
-
-6h ago
-
----
-
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
 9h ago
@@ -91,19 +85,13 @@ Rank #1
 
 **[Max Pain](https://www.reddit.com/r/Bitcoin/comments/1phasad/max_pain/)**
 
-3h ago
-
----
-
-**[To all who sold…](https://www.reddit.com/r/Bitcoin/comments/1ph3rsw/to_all_who_sold/)**
-
-10h ago
+4h ago
 
 ---
 
 **[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -117,7 +105,15 @@ They didn't trade, they didn't sell to buy back later, they didn't follow the 4-
 
 **[Buy buy buy!](https://www.reddit.com/r/Bitcoin/comments/1ph9n2c/buy_buy_buy/)**
 
-4h ago
+5h ago
+
+---
+
+**[When Bitcoin Was Physical: The Rise and Return of Casascius Coins](https://www.reddit.com/r/Bitcoin/comments/1phfgzm/when_bitcoin_was_physical_the_rise_and_return_of/)**
+
+Back in 2011–2013, physical bitcoins were actually a thing. They were known as Casascius Coins — metal tokens with a hologram on the back hiding a private key printed on paper. Peel the hologram, and the BTC could be moved to a regular blockchain address. What makes this story even wilder is how many people never touched them for years. Some holders treated these coins like collectibles, others forgot about them entirely. Only recently, more and more of these physical bitcoins have been getting redeemed after sitting untouched for a decade or more. From novelty item to time capsule holding real money, Casascius coins remain one of the strangest and most iconic relics of early Bitcoin history.
+
+1h ago
 
 ---
 
@@ -133,13 +129,21 @@ They didn't trade, they didn't sell to buy back later, they didn't follow the 4-
 
 Really cool they have this at common bookstores in Thailand. The placement could be better hahaha, forex has a better location on the shelves here. FOREX!!! Is bitcoin a type of Forex? Kinda. Its actually the ultimate forex.
 
-6h ago
+7h ago
+
+---
+
+**[the dollar losing value is inflation.](https://www.reddit.com/r/Bitcoin/comments/1phexmv/the_dollar_losing_value_is_inflation/)**
+
+People don’t confuse inflation with the dollar losing value the dollar losing value is inflation. The textbook definition is: a decrease in the purchasing power of money.’ Prices rise because the money buys less. It’s not two different things, it’s one cause with two symptoms. This is exactly why Bitcoin matters. Fiat inflation is just the slow dilution of your time and energy. Bitcoin flips it: fixed supply → rising purchasing power over time.
+
+1h ago
 
 ---
 
 **[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -147,39 +151,11 @@ Really cool they have this at common bookstores in Thailand. The placement could
 
 ## Google News: "bitcoin"
 
-**[Michael Saylor’s Bitcoin Playbook Backfires on 100+ Companies](https://finance.yahoo.com/news/michael-saylor-bitcoin-playbook-backfires-101022120.html)**
-
-Digital asset treasury companies that rushed to copy Michael Saylor’s Bitcoin strategy are now hemorrhaging shareholder value, with median stock prices down 43% year to date, even as the broader market climbs higher, as per Bloomberg.Source: BloombergMore than 100 publicly traded companies transformed themselves into cryptocurrency-holding vehicles in the first ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Michael Saylor's Strategy buys another 10,624 bitcoin for $963 million as treasury holdings reach 660,624 BTC](https://www.theblock.co/post/381668/michael-saylors-strategy-buys-more-bitcoin)**
-
-The Block • 2h ago
-
----
-
 **[Strategy Rises on $963 Million Bitcoin Buy, Largest Since July](https://www.bloomberg.com/news/articles/2025-12-08/strategy-rises-on-963-million-bitcoin-buy-largest-since-july)**
 
 Strategy Inc. shares rose as much as 2.8% in premarket trading Monday after the digital asset treasury company said it bought $962.7 million worth of Bitcoin from Dec. 1 to Dec. 7, marking its largest acquisition since July.
 
-Bloomberg.com • 1h ago
-
----
-
-**[Bitcoin Rebounds Slightly Ahead of the Fed. How It Could Reach $120K—or Fall to $82K.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-2085d4a2?gaa_at=eafs&gaa_n=AWEtsqfE_ipXdTUCVK2rEIKhPkqqpnFFr6T6VyDxNWnnXdR2DxooCb5BjI9t&gaa_ts=6936f21a&gaa_sig=YRdFmQfx7bQ5yprydr0bQwRQvpdq89L-eL8Sr-a-MO1-gcw5Xu2jq2L7rAoLD2j7w6VdhFDfv1shCRYPh4oaow%3D%3D)**
-
-Barron's • 1h ago
-
----
-
-**[Crypto Markets Today: Bitcoin (BTC) Price Reclaims $92K as Altcoins Lag](https://www.coindesk.com/markets/2025/12/08/crypto-markets-today-bitcoin-reclaims-usd92k-as-fed-rate-cut-expectations-lift-sentiment)**
-
-Bitcoin pushed back above $92,000 during Monday’s Asia session as traders priced in a likely Federal Reserve rate cut this week; altcoins continued to lag.
-
-CoinDesk • 4h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -195,7 +171,43 @@ Yahoo Finance • 8h ago
 
 iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
 
-Morningstar • 4h ago
+Morningstar • 5h ago
+
+---
+
+**[Bitcoin Is Starting to Look Like a Digital Tulip](https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money)**
+
+It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
+
+Bloomberg.com • 2d ago
+
+---
+
+**[Bitcoin Rebounds Slightly Ahead of the Fed. How It Could Reach $120K—or Fall to $82K.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-2085d4a2?gaa_at=eafs&gaa_n=AWEtsqf-KEIPnCMyOYNXC79Rvq_bI3MuwFDuu5h03TGm7quDAJaPbsaxlrwk&gaa_ts=693701d7&gaa_sig=MRD3FJsY24jbacp7_i-Mg059KUsM_xMpMT89TB77Do_n0DtAKxUIjSqPFxm40Fl6IvsJ8b-SilLKgTLN9Zfk1g%3D%3D)**
+
+Barron's • 2h ago
+
+---
+
+**[ETH, ADA, XRP Lead Gains as Bitcoin Edges Higher on Fed Rate Cut Expectations](https://www.coindesk.com/markets/2025/12/08/eth-ada-xrp-lead-gains-as-bitcoin-edges-higher-on-fed-rate-cut-expectations)**
+
+Asian equities opened the week slightly higher ahead of a heavy run of central bank decisions, including a Federal Reserve meeting where markets have largely priced in a 25-basis-point rate cut.
+
+CoinDesk • 10h ago
+
+---
+
+**[Prediction: If This 1 Policy Changes, Bitcoin and Ethereum Will Soar](https://www.fool.com/investing/2025/12/08/prediction-if-this-1-policy-changes-bitcoin-and-et/)**
+
+Japan is considering a big change to how it taxes crypto.
+
+The Motley Fool • 6h ago
+
+---
+
+**[Opinion: Bitcoin’s November crash was no accident](https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?gaa_at=eafs&gaa_n=AWEtsqeVN1kiEQLSj5imY2YATaL5rVadE3-7kuGt4IHgmqQs9Wk9nql4LgIK&gaa_ts=693701d7&gaa_sig=iF0blMWZmUJD8-W0i52M2mAiXaeXGcuKtET6ttJYLf6UCzfCruLyKwgI5H4IpmxV8_n-wT636WY6PIijqAqr4g%3D%3D)**
+
+MarketWatch • 3h ago
 
 ---
 
@@ -203,21 +215,15 @@ Morningstar • 4h ago
 
 If the stock market is up, bitcoin usually is too. But this year has been different.
 
-Business Insider • 4h ago
+Business Insider • 5h ago
 
 ---
 
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
+**[Bitcoin LTH Supply Bottoms as Sell Pressure Fades](https://www.coindesk.com/markets/2025/12/08/bitcoin-s-long-term-holders-hit-cyclical-low-as-sell-pressure-finally-eases)**
 
-Which of these popular cryptocurrencies has more upside potential?
+Bitcoin’s long-term holder supply hit a cyclical low as BTC bottomed near $80K, suggesting spot-driven sell pressure is fading as prices rebound.
 
-The Motley Fool • 19h ago
-
----
-
-**[Opinion: Bitcoin’s November crash was no accident](https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?gaa_at=eafs&gaa_n=AWEtsqdoWqK3f2_fPt1lqChnXdDEA0b_JOdaySWQtX4QD_2sfwg_2UO3Sj_B&gaa_ts=6936f21a&gaa_sig=b-mT1jIcTfy7eImeDs4FcRZf7pxVS5xNrhqWdexhwLoFZfLXUBcY1rsgnQATl9vwzD-M7gZa5dv0rsmawLOmEA%3D%3D)**
-
-MarketWatch • 2h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -273,7 +279,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 7 • 💬 0 • 8h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 7 • 💬 0 • 9h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -295,7 +301,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 1 • 💬 0 • 58m ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 
@@ -309,7 +315,7 @@ AscendEX Platform https://ckenny.com/ASC Free Strategy Course https://ckenny.com
 
 📺 Conor Kenny
 
-👁️ 10K • 👍 733 • 💬 278 • ⏱️ 5:59 • 5h ago
+👁️ 10K • 👍 733 • 💬 278 • ⏱️ 5:59 • 6h ago
 
 ---
 
@@ -319,7 +325,7 @@ Market Update Crypto Strategy School https://cryptostrategyschool.com/ab/ ➡️
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 337 • 💬 179 • ⏱️ 13:46 • 3h ago
+👁️ 3K • 👍 337 • 💬 179 • ⏱️ 13:46 • 4h ago
 
 ---
 
@@ -329,7 +335,7 @@ The White House Just Released The Cryptocurrency Bulls!! Become a channel member
 
 📺 Altcoin Daily
 
-👁️ 55K • 👍 3K • 💬 291 • ⏱️ 12:47 • 17h ago
+👁️ 55K • 👍 3K • 💬 291 • ⏱️ 12:47 • 18h ago
 
 ---
 
@@ -349,7 +355,7 @@ Bitcoin today with Benjamin Cowen!
 
 📺 MMCrypto
 
-👁️ 24K • 👍 2K • 💬 770 • ⏱️ 7:39 • 7h ago
+👁️ 24K • 👍 2K • 💬 770 • ⏱️ 7:39 • 8h ago
 
 ---
 
@@ -359,7 +365,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 409 • ⏱️ 18:52 • 16h ago
+👁️ 25K • 👍 2K • 💬 409 • ⏱️ 18:52 • 17h ago
 
 ---
 
@@ -369,7 +375,7 @@ This chart shows the historical backtest of the on-chain risk gauge shown on the
 
 📺 Benjamin Cowen
 
-👁️ 39K • 👍 3K • 💬 104 • ⏱️ 9:57 • 10h ago
+👁️ 39K • 👍 3K • 💬 104 • ⏱️ 9:57 • 11h ago
 
 ---
 
@@ -389,7 +395,7 @@ Bitcoin Whales Just Flipped Their Bets… Here's What They Know ⚠️ Something
 
 📺 Ryan’s Money Lab
 
-👁️ 29K • 👍 1K • 💬 91 • ⏱️ 11:17 • 23h ago
+👁️ 29K • 👍 1K • 💬 91 • ⏱️ 11:17 • 1d ago
 
 ---
 
@@ -399,7 +405,7 @@ TIA PRO $1000 OFF LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK 
 
 📺 Jason Pizzino
 
-👁️ 25K • 👍 1K • 💬 588 • ⏱️ 29:13 • 13h ago
+👁️ 25K • 👍 1K • 💬 588 • ⏱️ 29:13 • 14h ago
 
 ---
 

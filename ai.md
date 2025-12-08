@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T15:57:04.511023+00:00'
+updated: '2025-12-08T16:36:03.111924+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- videos
 - social
+- news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 15:57 UTC  
+**Last Updated:** December 08, 2025 at 16:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,25 +45,41 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 ---
 
-**[JPMorgan Chase CEO Jamie Dimon says even though AI will eliminate some jobs 'maybe one day we'll be working less hard but having wonderful lives'](https://www.reddit.com/r/artificial/comments/1ph0lka/jpmorgan_chase_ceo_jamie_dimon_says_even_though/)**
-
-"For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
-
-🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 13h ago
-
----
-
 **["I'm worried that instead of building AI that will actually advance us as a species, we are optimizing for AI slop instead. We're basically teaching our models to chase dopamine instead of truth. I used to work on social media, and every time we optimize for engagement, terrible things happen."](https://www.reddit.com/r/artificial/comments/1phbzrg/im_worried_that_instead_of_building_ai_that_will/)**
 
 Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
-2h ago
+3h ago
+
+---
+
+**[JPMorgan Chase CEO Jamie Dimon says even though AI will eliminate some jobs 'maybe one day we'll be working less hard but having wonderful lives'](https://www.reddit.com/r/artificial/comments/1ph0lka/jpmorgan_chase_ceo_jamie_dimon_says_even_though/)**
+
+"For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
+
+🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 14h ago
 
 ---
 
 **[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
 
 3h ago
+
+---
+
+**[Trump threatens to create new rules to 'stop AI being destroyed by bad actors'](https://www.reddit.com/r/artificial/comments/1phffnl/trump_threatens_to_create_new_rules_to_stop_ai/)**
+
+The president announced the plans to create one rulebook for AI via his Truth Social account on Monday.
+
+🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 1h ago
+
+---
+
+**[Why IBM’s CEO doesn’t think current AI tech can get to AGI](https://www.reddit.com/r/artificial/comments/1phd30j/why_ibms_ceo_doesnt_think_current_ai_tech_can_get/)**
+
+IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks big bets like Watsonx and next-gen computing will pay off.
+
+🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 2h ago
 
 ---
 
@@ -79,7 +95,7 @@ Source: https://openrouter.ai/state-of-ai TL;DR 1. new landscape of open source:
 
 : Analysts worry lazy users could have agents complete mandatory infosec training, and attackers could do far nastier things
 
-🔗 [theregister.com](https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/) • 31m ago
+🔗 [theregister.com](https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/) • 1h ago
 
 ---
 
@@ -87,15 +103,7 @@ Source: https://openrouter.ai/state-of-ai TL;DR 1. new landscape of open source:
 
 So I’m a junior dev who just got laid off from my webdev job, and with AI agents on the rise I think it will just get harder and harder to get back into a similar role. Thus, I’m looking to pivot to any area that is more resistant to AI. Preferably in tech. I love learning new stuff, and being unemployed I have more than enough time on my hands so the learning part shouldn’t be a big problem. I just need to find a direction where the skills I learn won’t be rendered worthless by AI anytime soon. I’m thinking either low level stuff like C++, or machine learning. I’m thinking of building a portfolio throughout the process and also building connections along the way. Like, sooner or later these areas will be eaten by AI too, but I would guess it would take some years at least, with machine learning going last? I’ve also been pondering on maybe doing a deep research on all the current AI tools and the underlying tech and see if there’s any edge cases in any domains where I can use that knowledge to build something disruptive. I would imagine that although there’s a lot of AI hype now there will still be a lot of people sleeping on it making for many opportunities. At the same time, AI has made building stuff a lot easier so there will ofc also be increased competition. So what do you guys think about these directions? And any other interesting areas I could go for that will be resistant to AI in the forseeable future?
 
-1h ago
-
----
-
-**[Why IBM’s CEO doesn’t think current AI tech can get to AGI](https://www.reddit.com/r/artificial/comments/1phd30j/why_ibms_ceo_doesnt_think_current_ai_tech_can_get/)**
-
-IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks big bets like Watsonx and next-gen computing will pay off.
-
-🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 1h ago
+2h ago
 
 ---
 
@@ -103,15 +111,7 @@ IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks b
 
 Referral link system with points and rewards
 
-🔗 [doac-perks.com](https://doac-perks.com/r/ClDotltjY7) • 3h ago
-
----
-
-**[Who Really Invented Convolutional Neural Networks? The History of the Technology That Transformed AI](https://www.reddit.com/r/artificial/comments/1pgj6df/who_really_invented_convolutional_neural_networks/)**
-
-Explore the true history of convolutional neural networks, from Fukushima’s neocognitron to modern CNNs and LeCun’s influential work.
-
-🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 1d ago
+🔗 [doac-perks.com](https://doac-perks.com/r/ClDotltjY7) • 4h ago
 
 ---
 
@@ -127,65 +127,67 @@ CNBC • 7h ago
 
 ---
 
-**[Trump says he will sign ‘One Rule’ executive order to federalize AI regulation](https://www.foxbusiness.com/politics/trump-says-he-sign-one-rule-executive-order-federalize-ai-regulation)**
+**[The power crunch threatening America’s AI ambitions](https://ig.ft.com/ai-power/)**
 
-Trump announces federal AI regulation executive order this week to streamline artificial intelligence rules across states and maintain U.S. leadership.
-
-Fox Business • 1h ago
+Financial Times • 11h ago
 
 ---
 
-**[AI Computer Startup Hits $4.5 Billion Valuation in Seed Round](https://www.bloomberg.com/news/articles/2025-12-08/ai-computer-startup-hits-4-5-billion-valuation-in-seed-round)**
+**[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws)**
 
-Bloomberg.com • 57m ago
+President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
----
-
-**[AI Might Be Coming for Your Job. There’s a Proven Way to Fight Back.](https://www.esquire.com/lifestyle/money/a69620765/midlife-career-change-entrepreneuralism/)**
-
-More middle-age and older Americans are becoming entrepreneurs and seizing control of their careers. The leap can be stressful but ultimately rewarding—just listen to the people who’ve already done it.
-
-Esquire • 57m ago
+CNN • 1h ago
 
 ---
 
-**[Intel, Adobe and these other ‘AI loser’ stocks could get left behind in the next phase of the tech boom](https://www.marketwatch.com/story/intel-adobe-and-these-other-ai-loser-stocks-could-get-left-behind-in-the-next-phase-of-the-tech-boom-e6cd25ef?gaa_at=eafs&gaa_n=AWEtsqceffS3pPZj5dWOl-in5EbVJy2BNxbG6u_VPFxUu2X6heBLnJfsB-Qc&gaa_ts=6936f218&gaa_sig=O6rCSh6C7DMajRFkuI29kdZ8SiVOEt8RtyvjTRfbLkmLetxvk8z7Fr4ZXxw1hui8vvKRW00GGMgwMVblcjU4yQ%3D%3D)**
+**[IBM to Buy Confluent for $9.3 Billion to Expand in AI Services](https://www.bloomberg.com/news/articles/2025-12-08/ibm-to-buy-confluent-for-11-billion-to-expand-in-ai-services)**
 
-MarketWatch • 40m ago
+Bloomberg.com • 1h ago
+
+---
+
+**[IBM accelerates cloud drive with $11 billion Confluent deal as AI demand booms](https://finance.yahoo.com/news/ibm-buy-confluent-11-billion-130718587.html)**
+
+IBM said on Monday it will buy data infrastructure company Confluent in a deal valued at $11 billion, ramping up ​its cloud-computing offerings to capitalize on an AI-driven demand boom.  Big Blue, under ‌CEO Arvind Krishna, has doubled down on M&As to beef up its cloud and software business - a ‌high-growth, high-margin area - as customers invest to upgrade their digital infrastructure to house complex artificial intelligence applications.  Mountain View, California-based Confluent provides technology needed to manage massive, real-time data streams for artificial intelligence models.
+
+Yahoo Finance • 2h ago
+
+---
+
+**[IBM to buy Confluent to grow AI data processing](https://www.upi.com/Top_News/US/2025/12/08/IBM-Confluent-acquisition-artificial-intelligence-AI-Arvind-Krishna/1241765206609/)**
+
+IBM announced its multi-billion-dollar buyout of streaming Confluent as stock shares spiked nearly 30% and IBM at about 1$ after it was revealed.
+
+upi.com • 24m ago
+
+---
+
+**[Intel, Adobe and these other ‘AI loser’ stocks could get left behind in the next phase of the tech boom](https://www.marketwatch.com/story/intel-adobe-and-these-other-ai-loser-stocks-could-get-left-behind-in-the-next-phase-of-the-tech-boom-e6cd25ef?gaa_at=eafs&gaa_n=AWEtsqcbb65VOklfbnXjU6X7KTB6zqAGdn8RHqG_ymJXCyEdTd2QsIe1PiA8&gaa_ts=693701d5&gaa_sig=_-XypXOS5znI3xxjntdQmMWbgpILM-G30F5F0pAV8z_T7hCnxKjx1-OWhXVKLGovOB8Z79uST6pMHSrAhylF0w%3D%3D)**
+
+MarketWatch • 1h ago
 
 ---
 
 **[Why there's an AI bubble and why you shouldn't ignore it](https://www.axios.com/2025/12/08/ai-bubble-open-ai-google-bret-taylor)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
-**[The power crunch threatening America’s AI ambitions](https://ig.ft.com/ai-power/)**
+**[Is AI ready to interpret chest X-rays without human supervision?](https://www.statnews.com/2025/12/08/can-ai-interpret-chest-xrays-without-supervision/)**
 
-Financial Times • 10h ago
+In radiology, an early adopter of health AI, a debate is brewing: Should generative AI models interpret medical images on their own?
 
----
-
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqex1kjDcDKeyH9GYyxQ7KyyRIaMj--wIJmOw0zwWpTd1kz_WaoO6Cjv&gaa_ts=6936f218&gaa_sig=clpr_gSIKen7CWE-Us-YL-B-7qZIn77s_ZdzJRTBD_pLEMhKjft1a12DFi1uG_Hu6eRIAj8uGsmO2_SpIpid3A%3D%3D)**
-
-The Wall Street Journal • 1d ago
+statnews.com • 7h ago
 
 ---
 
-**[The workforce is becoming AI-native. Leadership has to evolve](https://fortune.com/2025/12/08/nokia-ceo-workforce-ai-native-gen-z-leadership-must-evolve/)**
+**[Nokia CEO: The workforce is becoming AI-native. Leadership has to evolve](https://fortune.com/2025/12/08/nokia-ceo-workforce-ai-native-gen-z-leadership-must-evolve/)**
 
 The new generation began university when ChatGPT launched in 2022 and they now account for roughly half of all ChatGPT usage.
 
-Fortune • 4h ago
-
----
-
-**[Artificial intelligence research has a slop problem, academics say: ‘It’s a mess’](https://www.theguardian.com/technology/2025/dec/06/ai-research-papers)**
-
-AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
-
-The Guardian • 2d ago
+Fortune • 5h ago
 
 ---
 
@@ -193,17 +195,9 @@ The Guardian • 2d ago
 
 ## HackerNews: "ai"
 
-**[Gemini 3 Pro: the frontier of vision AI](https://news.ycombinator.com/item?id=46163308)**
-
-Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
-
-⬆️ 564 • 💬 288 • 2d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
-
----
-
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 546 • 💬 174 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 554 • 💬 176 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -217,7 +211,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 113 • 💬 201 • 23h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 114 • 💬 203 • 23h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -247,7 +241,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 43 • 💬 14 • 1d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 44 • 💬 14 • 1d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -255,13 +249,21 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-⬆️ 35 • 💬 6 • 20h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
+⬆️ 35 • 💬 6 • 21h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
 
 ---
 
 **[The Reverse Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46176651)**
 
-⬆️ 31 • 💬 4 • 1d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington)
+⬆️ 32 • 💬 4 • 1d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington)
+
+---
+
+**[A fork of Calibre called Clbre, because the AI is stripped out](https://news.ycombinator.com/item?id=46177714)**
+
+A fork of Calibre called Clbre, because the AI is stripped out. - grimthorpe/clbre
+
+⬆️ 27 • 💬 23 • 1d ago • [GitHub](https://github.com/grimthorpe/clbre)
 
 ---
 
@@ -275,7 +277,7 @@ OpenAI is in a full internal race after a major leak revealed a new model called
 
 📺 AI Revolution
 
-👁️ 54K • 👍 1K • 💬 85 • ⏱️ 12:31 • 15h ago
+👁️ 54K • 👍 1K • 💬 85 • ⏱️ 12:31 • 16h ago
 
 ---
 
@@ -285,7 +287,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 49K • 👍 3K • 💬 478 • ⏱️ 15:03 • 23h ago
+👁️ 49K • 👍 3K • 💬 478 • ⏱️ 15:03 • 1d ago
 
 ---
 
@@ -305,7 +307,7 @@ Bear releases a struggling fish into a pond #ai #fish #relases #bear.
 
 📺 Ai story Time
 
-👁️ 9K • 👍 183 • 💬 3 • ⏱️ 0:41 • 5h ago
+👁️ 9K • 👍 183 • 💬 3 • ⏱️ 0:41 • 6h ago
 
 ---
 
@@ -325,7 +327,7 @@ Want to make money and save time with AI? Join here: https://juliangoldieai.com/
 
 📺 Julian Goldie SEO
 
-👁️ 4K • 👍 148 • 💬 19 • ⏱️ 8:14 • 16h ago
+👁️ 4K • 👍 148 • 💬 19 • ⏱️ 8:14 • 17h ago
 
 ---
 
@@ -365,7 +367,7 @@ The monkey gave his mother a beautiful auto rickshaw #ai #shorts #viral This emo
 
 📺 Super AI Story
 
-👁️ 27K • 💬 1 • ⏱️ 0:47 • 4h ago
+👁️ 27K • 💬 1 • ⏱️ 0:47 • 5h ago
 
 ---
 
@@ -381,7 +383,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,319 • 6d ago
+⬇️ 201,990 • ❤️ 2,325 • 6d ago
 
 ---
 
@@ -405,7 +407,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 513 • 12h ago
+⬇️ 40,450 • ❤️ 517 • 13h ago
 
 ---
 
@@ -643,7 +645,7 @@ The paper introduces Reward Forcing, which enhances video generation by updating
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 45m ago
+⭐ 1.6k • 🔱 132 • 1h ago
 
 ---
 
@@ -673,7 +675,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 982 • 🔱 121 • 3h ago
+⭐ 982 • 🔱 121 • 4h ago
 
 ---
 
@@ -693,7 +695,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 831 • 🔱 44 • 8h ago
+⭐ 831 • 🔱 44 • 9h ago
 
 ---
 
@@ -723,7 +725,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 685 • 🔱 104 • 13m ago
+⭐ 685 • 🔱 104 • 52m ago
 
 ---
 
