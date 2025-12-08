@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T21:22:51.551858+00:00'
+updated: '2025-12-08T21:37:26.905808+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 21:22 UTC  
+**Last Updated:** December 08, 2025 at 21:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,787.59
+### $91,149.12
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
-**7d:** -0.7%  
-**30d:** -13.3%  
-**90d:** -20.2%  
-**1y:** -6.7%  
+**24h:** +1.3%  
+**7d:** -0.6%  
+**30d:** -13.2%  
+**90d:** -20.1%  
+**1y:** -6.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1811.11B
+**Market Cap:** $1820.17B
 Rank #1
 
 **Circulating Supply:** 19,959,462 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.0%
+-27.7%
 
 **All-Time Low:** $67.81
-+133808.0%
++134383.1%
 
 ---
 
@@ -77,9 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
+**[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-3h ago
+1h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 They have a promotion going on with Ledger
 
-2h ago
+3h ago
 
 ---
 
-**[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
+**[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
 
-1h ago
+3h ago
 
 ---
 
@@ -101,7 +101,7 @@ They have a promotion going on with Ledger
 
 Back in 2011–2013, physical bitcoins were actually a thing. They were known as Casascius Coins — metal tokens with a hologram on the back hiding a private key printed on paper. Peel the hologram, and the BTC could be moved to a regular blockchain address. What makes this story even wilder is how many people never touched them for years. Some holders treated these coins like collectibles, others forgot about them entirely. Only recently, more and more of these physical bitcoins have been getting redeemed after sitting untouched for a decade or more. From novelty item to time capsule holding real money, Casascius coins remain one of the strangest and most iconic relics of early Bitcoin history.
 
-5h ago
+6h ago
 
 ---
 
@@ -117,15 +117,15 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 ---
 
-**[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
+**[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
 
-18h ago
+17m ago
 
 ---
 
-**[Buy buy buy!](https://www.reddit.com/r/Bitcoin/comments/1ph9n2c/buy_buy_buy/)**
+**[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
 
-10h ago
+18h ago
 
 ---
 
@@ -137,11 +137,9 @@ They didn't trade, they didn't sell to buy back later, they didn't follow the 4-
 
 ---
 
-**[the dollar losing value is inflation.](https://www.reddit.com/r/Bitcoin/comments/1phexmv/the_dollar_losing_value_is_inflation/)**
+**[Buy buy buy!](https://www.reddit.com/r/Bitcoin/comments/1ph9n2c/buy_buy_buy/)**
 
-People don’t confuse inflation with the dollar losing value the dollar losing value is inflation. The textbook definition is: a decrease in the purchasing power of money.’ Prices rise because the money buys less. It’s not two different things, it’s one cause with two symptoms. This is exactly why Bitcoin matters. Fiat inflation is just the slow dilution of your time and energy. Bitcoin flips it: fixed supply → rising purchasing power over time.
-
-6h ago
+10h ago
 
 ---
 
@@ -149,19 +147,11 @@ People don’t confuse inflation with the dollar losing value the dollar losing 
 
 ## Google News: "bitcoin"
 
-**[‘More Orange Dots’: Michael Saylor’s Strategy Buys 10,624 Bitcoin Amid Sell-Off Concerns](https://finance.yahoo.com/news/more-orange-dots-michael-saylor-130749098.html)**
-
-Michael Saylor’s Strategy, previously MicroStrategy, has made another weekly Bitcoin purchase despite concerns that it may need to sell some of its BTC holdings in a prolonged bear market. This latest purchase comes amid a rebound in the Bitcoin price, while the MSTR stock is also up in pre-market trading. Strategy Acquires 10,624 BTC for
-
-Yahoo Finance • 8h ago
-
----
-
 **[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
 
 BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -181,25 +171,25 @@ Decrypt • 3h ago
 
 ---
 
-**[Famed Investor Mike Alfred Claims Bitcoin Will Hit $315,000, Harvard Boosts Bitcoin Investment 2-To-1 Over Gold](https://finance.yahoo.com/news/famed-investor-mike-alfred-claims-094719509.html)**
+**[‘More Orange Dots’: Michael Saylor’s Strategy Buys 10,624 Bitcoin Amid Sell-Off Concerns](https://finance.yahoo.com/news/more-orange-dots-michael-saylor-130749098.html)**
 
-Investor Mike Alfred predicts Bitcoin could reach $315,000. Harvard University significantly increased its Bitcoin holdings over gold. But analysts warn of potential short-term consolidation. Bitcoin’s ...
+Michael Saylor’s Strategy, previously MicroStrategy, has made another weekly Bitcoin purchase despite concerns that it may need to sell some of its BTC holdings in a prolonged bear market. This latest purchase comes amid a rebound in the Bitcoin price, while the MSTR stock is also up in pre-market trading. Strategy Acquires 10,624 BTC for
 
-Yahoo Finance • 11h ago
-
----
-
-**[Bitcoin price today: gains to $90.8k as Fed cut bets remain firm](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-rises-to-915k-as-fed-cut-bets-remain-firm-4394968)**
-
-Investing.com • 6h ago
+Yahoo Finance • 8h ago
 
 ---
 
-**[BTC, ETH, ADA, XRP Price News: Bitcoin Edges Higher on Fed Rate Cut Expectations](https://www.coindesk.com/markets/2025/12/08/eth-ada-xrp-lead-gains-as-bitcoin-edges-higher-on-fed-rate-cut-expectations)**
+**[Bitcoin Price (BTC) Analysis: Weakness Versus Stocks Speaks to Tepid Demand](https://www.coindesk.com/markets/2025/12/08/bitcoin-treads-water-near-usd90k-as-bitfinex-warns-of-fragile-setup-to-shocks)**
 
-Asian equities opened the week slightly higher ahead of a heavy run of central bank decisions, including a Federal Reserve meeting where markets have largely priced in a 25-basis-point rate cut.
+BTC's relative weakness compared to stocks points to tepid spot demand, making the largest crypto vulnerable to macro volatility, Bitfinex analysts said.
 
-CoinDesk • 15h ago
+CoinDesk • 47m ago
+
+---
+
+**[Bitcoin Isn’t Just a Tech Stock on Steroids. What Really Moves It.](https://www.barrons.com/articles/bitcoin-and-stocks-less-correlated-than-investors-think-bac9d908?gaa_at=eafs&gaa_n=AWEtsqcUBSJ-j7wX1h51RD10ugG7nOwgGNHdfG5VrKzjMM7ikFkW3KYOo1-j&gaa_ts=69374880&gaa_sig=Y6gV9wERK3ThZFlMIiPfsjOVVkZ1TCKQo2NSkPxo-H1vdvzJRPh6aXhU5HUdOxiM6gMxjnXO_cpa9bspt2eUQA%3D%3D)**
+
+Barron's • 35m ago
 
 ---
 
@@ -211,9 +201,19 @@ Sherwood News • 4h ago
 
 ---
 
-**[Opinion: Bitcoin’s November crash was no accident](https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?gaa_at=eafs&gaa_n=AWEtsqeuwTBovcKJSh0fDeBCg82q_Ev3bkxyiQQgy9uU-glCdSuC7kCDlIg5&gaa_ts=69373f36&gaa_sig=I3gIejnGGUWb3s1WN7t1aQmIxqeopNAuM2zIe4qgzMQQ9eM8bknfOSWbAh5dfk4544nDwATrcDDiD7yJyVjWkw%3D%3D)**
+**[Fed meeting to boost Bitcoin price ‘sharply higher’ than $92,000, analysts say](https://www.dlnews.com/articles/markets/fed-meeting-to-boost-bitcoin-price-sharply-higher-than-92000-analysts-say/)**
 
-MarketWatch • 8h ago
+Investors expect the Federal Reserve to slash interest rates by 0.25% on Wednesday.  Macro tailwinds are seen as a catalyst for crypto.
+
+dlnews.com • 11h ago
+
+---
+
+**[New Bitcoin On-Chain Signals Arrive Ahead of FOMC Meeting and Rate Cut Expectations](https://finance.yahoo.com/news/bitcoin-chain-signals-arrive-ahead-205616658.html)**
+
+New Bitcoin on-chain signals emerge as 10-year coins move ahead of the Fed’s expected rate cut. Market watches FOMC closely.
+
+Yahoo Finance • 41m ago
 
 ---
 
@@ -277,7 +277,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 9 • 💬 0 • 13h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 9 • 💬 0 • 14h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -343,7 +343,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 73K • 👍 3K • 💬 340 • ⏱️ 11:32 • 1d ago
+👁️ 73K • 👍 3K • 💬 340 • ⏱️ 11:32 • 2d ago
 
 ---
 
@@ -363,7 +363,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 413 • ⏱️ 18:52 • 21h ago
+👁️ 28K • 👍 2K • 💬 413 • ⏱️ 18:52 • 22h ago
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoin today with Benjamin Cowen!
 
 📺 MMCrypto
 
-👁️ 34K • 👍 3K • 💬 819 • ⏱️ 7:39 • 12h ago
+👁️ 34K • 👍 3K • 💬 819 • ⏱️ 7:39 • 13h ago
 
 ---
 

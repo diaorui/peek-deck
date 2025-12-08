@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T21:22:51.561167+00:00'
+updated: '2025-12-08T21:37:26.915201+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 21:22 UTC  
+**Last Updated:** December 08, 2025 at 21:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -118,14 +118,6 @@ MIT News • 3d ago
 
 ---
 
-**[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
-
-Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
-
-Bloomberg.com • 7h ago
-
----
-
 **[Israeli official says Gaza conflict was ‘first robotics war’](https://breakingdefense.com/2025/12/israeli-official-says-gaza-conflict-was-first-robotics-war/)**
 
 The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
@@ -134,11 +126,11 @@ Breaking Defense • 6h ago
 
 ---
 
-**[Market-Crushing AI Momentum: Top Robotics Technology Stocks Leading the 2026 Growth Trend](https://seekingalpha.com/article/4850474-market-crushing-ai-momentum-top-robotics-technology-stocks)**
+**[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
 
-Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
+Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
-Seeking Alpha • 3d ago
+Bloomberg.com • 7h ago
 
 ---
 
@@ -150,19 +142,19 @@ South China Morning Post • 1d ago
 
 ---
 
-**[Using the Power of Robotics to uncover the secrets of Pompeii](https://www.cnn.com/2025/12/07/world/video/pompeii-robot-fresco-kinkade-pkg-120712aseg2-cnni-world-fast)**
-
-Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
-
-CNN • 1d ago
-
----
-
 **[iRobot (IRBT) Valuation After White House Robotics Order Hype and Recent Share Price Surge](https://finance.yahoo.com/news/irobot-irbt-valuation-white-house-080800543.html)**
 
 The sudden spike in iRobot (IRBT) shares is being driven by reports that the White House is crafting an executive order to back the U.S. robotics sector, with potential subsidies, tax breaks, and R&D funding in focus. See our latest analysis for iRobot. That excitement comes after a wild week where the 7 day share price return of 133.54 percent has flipped sentiment on a stock that still shows a deeply negative 1 year total shareholder return. This suggests momentum is rebuilding from a very...
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Using the Power of Robotics to uncover the secrets of Pompeii](https://www.cnn.com/2025/12/07/world/video/pompeii-robot-fresco-kinkade-pkg-120712aseg2-cnni-world-fast)**
+
+Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
+
+CNN • 1d ago
 
 ---
 
@@ -179,6 +171,12 @@ Interesting Engineering • 12h ago
 The MobED is a new product from Hyundai’s Robotics LAB, pitched at last-mile delivery and industrial applications
 
 wallpaper.com • 1d ago
+
+---
+
+**[Robots Are Coming. What Investors Need to Know.](https://www.barrons.com/articles/robots-stock-investors-b294d6a5?gaa_at=eafs&gaa_n=AWEtsqc_cBr7GXtFJAHN6rwW5jgQeLKwH_dd8_2zbosY0WJkU1-if2-5k5tj&gaa_ts=69374884&gaa_sig=3H_ZtX-OJwTlQrXIfmTIBQjo1bzeSyYsgowL9Q9wBh3OlRKWFINT5GDvSUrZ7dtUk7L1i-yBsE_FE8rXU9-8Ww%3D%3D)**
+
+Barron's • 37m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T21:22:51.543251+00:00'
+updated: '2025-12-08T21:37:26.897380+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 21:22 UTC  
+**Last Updated:** December 08, 2025 at 21:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -51,6 +51,14 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 ---
 
+**['Big Short' investor Michael Burry defends his calls for a stock market bubble and predicts a 'Netscape fate' for OpenAI](https://www.reddit.com/r/artificial/comments/1phn78a/big_short_investor_michael_burry_defends_his/)**
+
+Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
+
+🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 1h ago
+
+---
+
 **["I'm worried that instead of building AI that will actually advance us as a species, we are optimizing for AI slop instead. We're basically teaching our models to chase dopamine instead of truth. I used to work on social media, and every time we optimize for engagement, terrible things happen."](https://www.reddit.com/r/artificial/comments/1phbzrg/im_worried_that_instead_of_building_ai_that_will/)**
 
 Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
@@ -59,11 +67,11 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 ---
 
-**['Big Short' investor Michael Burry defends his calls for a stock market bubble and predicts a 'Netscape fate' for OpenAI](https://www.reddit.com/r/artificial/comments/1phn78a/big_short_investor_michael_burry_defends_his/)**
+**[OpenAI Should Stop Naming Its Creations After Products That Already Exist](https://www.reddit.com/r/artificial/comments/1phnxgh/openai_should_stop_naming_its_creations_after/)**
 
-Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
+From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming releases by names that resemble existing trademarks.
 
-🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 59m ago
+🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 46m ago
 
 ---
 
@@ -79,7 +87,7 @@ IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks b
 
 The president announced the plans to create one rulebook for AI via his Truth Social account on Monday.
 
-🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 5h ago
+🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 6h ago
 
 ---
 
@@ -105,14 +113,6 @@ So I’m a junior dev who just got laid off from my webdev job, and with AI agen
 
 ---
 
-**[Anthropic Interviewer taking feedback](https://www.reddit.com/r/artificial/comments/1phiw4m/anthropic_interviewer_taking_feedback/)**
-
-Mass human participation in AI training might be the most important thing possible, and this seems to be at least one small attempt at it: https://www.anthropic.com/research/anthropic-interviewer
-
-3h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -120,42 +120,6 @@ Mass human participation in AI training might be the most important thing possib
 **[A.I. Videos Have Flooded Social Media. No One Was Ready.](https://www.nytimes.com/2025/12/08/business/ai-slop-sora-social-media.html)**
 
 The New York Times • 2h ago
-
----
-
-**[Trump Promises Executive Order to Block State A.I. Regulations](https://www.nytimes.com/2025/12/08/us/politics/trump-executive-order-ai-laws.html)**
-
-The New York Times • 4h ago
-
----
-
-**[Google Says First AI Glasses With Gemini Will Arrive in 2026](https://www.bloomberg.com/news/articles/2025-12-08/google-says-first-ai-glasses-with-gemini-will-arrive-in-2026)**
-
-Alphabet Inc.’s Google said it’s working to create two different categories of artificial intelligence-powered smart glasses to compete next year with existing models from Meta Platforms Inc.: one with screens, and another that’s audio focused.
-
-Bloomberg.com • 3h ago
-
----
-
-**[Google to launch first of its AI glasses in 2026](https://www.cnbc.com/2025/12/08/google-ai-glasses-launch-2026.html)**
-
-That includes the first of Google's AI glasses in partnership with Warby Parker.
-
-CNBC • 1h ago
-
----
-
-**[Warby Parker, Google to launch AI-powered smart glasses in 2026](https://www.reuters.com/business/warby-parker-google-launch-ai-powered-smart-glasses-2026-2025-12-08/)**
-
-Reuters • 57m ago
-
----
-
-**[Charles Payne: How much longer will AI 'pull the sled?'](https://www.foxbusiness.com/video/6386203266112)**
-
-FOX Business host Charles Payne analyzes the market's recent performance on 'Making Money.'
-
-Fox Business • 55m ago
 
 ---
 
@@ -179,11 +143,49 @@ CalMatters • 8h ago
 
 ---
 
-**[What’s next in AI: 7 trends to watch in 2026](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/)**
+**[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws)**
 
-Seven AI trends to watch in 2026 will make AI a true partner — boosting teamwork, security, research momentum and infrastructure efficiency.
+President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-Microsoft Source • 4h ago
+CNN • 6h ago
+
+---
+
+**[YouTube channel discovers a good use case for AI-powered robots: Shooting YouTubers](https://www.pcgamer.com/software/ai/youtube-channel-discovers-a-good-use-case-for-ai-powered-robots-shooting-youtubers/)**
+
+I'm kidding, I'm kidding.
+
+PC Gamer • 58m ago
+
+---
+
+**[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
+
+The Economist • 16m ago
+
+---
+
+**[Google to launch first of its AI glasses in 2026](https://www.cnbc.com/2025/12/08/google-ai-glasses-launch-2026.html)**
+
+That includes the first of Google's AI glasses in partnership with Warby Parker.
+
+CNBC • 1h ago
+
+---
+
+**[Google Says First AI Glasses With Gemini Will Arrive in 2026](https://www.bloomberg.com/news/articles/2025-12-08/google-says-first-ai-glasses-with-gemini-will-arrive-in-2026)**
+
+Alphabet Inc.’s Google said it’s working to create two different categories of artificial intelligence-powered smart glasses to compete next year with existing models from Meta Platforms Inc.: one with screens, and another that’s audio focused.
+
+Bloomberg.com • 3h ago
+
+---
+
+**[BNY and Google are teaming up to supercharge the bank's AI ambitions with Gemini 3](https://www.businessinsider.com/bny-ai-boost-google-gemini-3-agentic-ai-system-eliza-2025-12)**
+
+BNY is integrating Google's Gemini 3 into its internal AI system Eliza, betting on agentic tech as banks race to build next-generation workflows.
+
+Business Insider • 8h ago
 
 ---
 
@@ -201,7 +203,7 @@ Microsoft Source • 4h ago
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
 
-⬆️ 414 • 💬 229 • 2d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 415 • 💬 229 • 2d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
 
 ---
 
@@ -209,7 +211,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 335 • 💬 286 • 4h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 345 • 💬 294 • 4h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -221,13 +223,13 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 51 • 💬 61 • 3h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 64 • 💬 72 • 3h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 48 • 💬 14 • 1d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 49 • 💬 14 • 1d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -351,7 +353,7 @@ Your Grocery Store Is About to Change Forever. AI is now making your food...but 
 
 📺 Lillie Kane
 
-👁️ 3K • 👍 540 • 💬 97 • ⏱️ 13:09 • 5h ago
+👁️ 3K • 👍 540 • 💬 97 • ⏱️ 13:09 • 6h ago
 
 ---
 
@@ -377,7 +379,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,337 • 4h ago
+⬇️ 201,990 • ❤️ 2,340 • 4h ago
 
 ---
 
@@ -401,7 +403,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 28,778 • ❤️ 811 • 7d ago
+⬇️ 28,778 • ❤️ 812 • 7d ago
 
 ---
 
@@ -423,7 +425,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 274 • 6d ago
+⬇️ 0 • ❤️ 275 • 6d ago
 
 ---
 
@@ -479,7 +481,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 207,838 • ❤️ 939 • 11d ago
+⬇️ 207,838 • ❤️ 940 • 11d ago
 
 ---
 
@@ -691,7 +693,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 834 • 🔱 44 • 53m ago
+⭐ 834 • 🔱 44 • 1h ago
 
 ---
 
@@ -721,7 +723,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 732 • 🔱 111 • 3h ago
+⭐ 732 • 🔱 111 • 4h ago
 
 ---
 

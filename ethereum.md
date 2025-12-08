@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T21:22:51.557881+00:00'
+updated: '2025-12-08T21:37:26.911870+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 21:22 UTC  
+**Last Updated:** December 08, 2025 at 21:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.1%  
-**7d:** +4.5%  
-**30d:** -12.8%  
+**24h:** +3.2%  
+**7d:** +4.6%  
+**30d:** -12.7%  
 **90d:** -28.1%  
-**1y:** -15.9%  
+**1y:** -15.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $377.99B
+**Market Cap:** $379.73B
 Rank #2
 
 **Circulating Supply:** 120,695,342 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.5%
+-36.4%
 
 **All-Time Low:** $0.43
-+724976.7%
++725875.2%
 
 ---
 
@@ -98,6 +98,14 @@ AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ether
 
 ---
 
+**["LinkedIn for AI Agents" using ERC-8004 & Soulbound Tokens (Need technical feedback)](https://www.reddit.com/r/ethereum/comments/1php34t/linkedin_for_ai_agents_using_erc8004_soulbound/)**
+
+Hey everyone, I've been digging into the new ERC-8004 (Trustless Agents) standard and noticed a massive gap in the current AI agent explosion. We have thousands of agents launching on Virtuals/ai16z, but no standardized way to verify their history. If a DAO wants to hire an agent to manage a treasury, how do they know it’s not a rug-pull script? I’m building SynthNet, a modular reputation layer that strictly follows the ERC-8004 spec. I wanted to share my architecture to see if I’m over-engineering this or if this approach makes sense to other devs. The Architecture (Snapshot attached): Layer 1 (Identity): AgentIdentity.sol (ERC-721).This is the "Body" of the agent. It holds the metadata and IPFS/Arweave URI for the service endpoint. It’s fully transferable (you can buy/sell the bot). Layer 2 (Reputation): SoulboundResume.sol (ERC-5192).This is the "Resume." It’s a Soulbound Token (SBT) attached to the Layer 1 NFT. It stores verified job history (e.g., "Managed $1M volume", "Uptime 99%").Critical Design Choice: If you sell the agent (Layer 1), the Resume (Layer 2) goes with it, but the new owner cannot detach it or wipe the bad history. Layer 3 (Validation): VerificationRegistry.sol.This is the logic layer. It allows authorized validators (or other smart contracts) to "stamp" the resume when a task is completed on-chain. Why I built it this way: Most "Agent Marketplaces" right now are just token launchpads. I want to build the Credit Bureau layer. I don’t care about launching the token; I care about verifying that the agent actually does what it says it does. Questions for the community: Is sticking to IERC5192 (Minimal Soulbound) sufficient for the resume, or should I be looking at more complex identity standards? I included a Migration contract to allow agents to migrate reputation from legacy registries. Is this too aggressive for an MVP? Code/Repo is still private while I clean it up, but I’d love feedback on the logic of separating Identity (Tradeable) vs. Reputation (Soulbound). Cheers.
+
+2m ago
+
+---
+
 **[Treasury Yield](https://www.reddit.com/r/ethereum/comments/1phl21p/treasury_yield/)**
 
 By magnitude, the biggest question for the Defi ecosystem for the next cycle is who gets to keep the yield on treasuries backing reserve stablecoins such as USDC and USDT? If secretary Bennett and the federal reserve are correct in their forecasts, we'll be at something like $3T in stablecoin market cap by 2030. At
@@ -130,17 +138,9 @@ I copied and pasted for ease of access. Maybe Vitalik can make an update to rais
 
 ---
 
-**[Can someone explain what the brothers actually did to the blockchain? Article says they added a bunch of zeros.](https://www.reddit.com/r/ethereum/comments/1pft37m/can_someone_explain_what_the_brothers_actually/)**
+**[Where can I buy tiny amounts of ETH for gas funds](https://www.reddit.com/r/ethereum/comments/1pglzfh/where_can_i_buy_tiny_amounts_of_eth_for_gas_funds/)**
 
-Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 million from Ethereum traders in a blindingly fast fraud.
-
-🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 2d ago
-
----
-
-**[Part Seven of Can I Pay With This: Custodial Services](https://www.reddit.com/r/ethereum/comments/1pg0lxi/part_seven_of_can_i_pay_with_this_custodial/)**
-
-This is Part Seven of the eight-part series: Can I Pay With This: A stablecoin experiment in Buenos Aires. Thank you to the Ethereum Foundation and the EV Mavericks for their support, without which this experiment could never have happened. Table of Contents Part One: Decentralized or Destitute <-- New? Start here. Money, monkeys and mild terror Part Two: First Contact with Reality KYC on a hostel bunk bed Part Three: WE ACCEPT BITCOIN (sort of) Worst title for an Ethereum subreddit ever Part Four: Eighteen Ways to Pay for Ice Cream Stablecoins, FX hell and a missing keyboard Part Five: Going Bankless From tourist shop hack to cueva contact Part Six: Trustless, My Ass Trading with the Blue Man Custodial Services <-- You are here Having successfully beaten my Decentralized or Destitute challenge with my dignity mostly intact, I consider fleeing Buenos Aires before Microcentro rewires my nervous system. I'm dangerously close to falling in love with the city but that might just be a side effect of the long-term exposure to exhaust and capybara memes. I find a cheap flight to Jujuy. My brain floods with visions of hiking in the Andes with my pockets full of pesos. I'll drink some wine, I'll pet a llama, maybe I'll even do some writing. But traditional finance fails me. The airline refuses my cards. All of them. Cryptocards, debit cards, credit card from a reputable European bank. Declined and denied with a vague error and a customer service bot which repeatedly tells me that foreign cards are not a problem and I should check that I entered my card details correctly. I have half a dozen new apps on my phone to pay with stablecoins. I've gone through the KYC and been accepted for most of them, so that I can test them one-by-one. Mostly they work well. I don't even need to put money in them in advance; once I know what I want to buy, I can quickly move stablecoins into the app and they appear immediately. But the apps are no use to me for paying for online purchases; I need a person with a terminal generating a QR code to use them. There's third-party aggregator that looks like it scraped the flight off of Google but actually allows me to pay for the flight. Just one catch: no luggage. Not even a carry on. They suggest that I buy extras separately, from the airline that cannot manage a card transaction. Fine. I don't need luggage. I strip my belongings down to the essentials. There's a storage company that operates on some sort of decentralized custody protocol for personal belongings. You book online, get the address of a location somewhere in your chosen neighbourhood, and give them all of your earthly possessions. My assigned drop point is a phone shop in San Telmo, crammed with AI-art cases and knockoff chargers. I give them my number and hand them my suitcase. All I can do is trust that the shop is still here when I return. I take the bus to the airport wearing three layers of clothing, a spare set of underwear shoved into my handbag. I have both phones, Kindle, tablet and keyboard and a tangle of cables tucked into my hoodie pockets, looking like one of those street vendors who open up their coat and show you a wide range of goods. At the airport, I unpack everything to pass through security. I need three trays. After I pack myself back up, a man with a wand points out that I have a cable trailing behind me. At the gate, the Argentines start forming a queue an hour before boarding, pure social contract magic. I stay seated like a savage until I see our plane pull up to the gate and dump its last cargo of tourists and gauchos. I squish into the middle seat and try to keep my hoodie spilling over the sides, redistributing items until I finally get the seatbelt over my middle. I do not exhale for the entire two hour flight. The airport is not in San Salvador and the bus to Tilcara, my chosen destination, is. I purchase a shuttle ticket and wait outside to stand in the rain until it is full and we are ready to go. The bus station is impossibly clean and bright. A woman at an information booth appears improbably happy to see me, checks the time and tells me which bus company has a bus leaving next which will stop at Ticara. The woman at the bus company is less happy to see me but, after realizing that I blatantly don't have a clue what I am doing, writes helpful notes in the margins of my ticket: bus will arrive in 40 minutes, somewhere between bay 08 and 13, it will say Humahuaca on the front and Evelia on the side. I ask if they take QR payments. She points out that there is a 10% discount for cash for the ticket. I pay cash. Forty minutes later, I wedge myself into my bus seat, attempting to take off my hoodie in a way that does not tip all of my electronics on the floor. And then we drive. The windows fog up and all I can see outside is black rain. I am desperate not to fall asleep and end up in some abandoned village where they've never heard of Ethereum or vowels. It's past eleven when the bus pulls into Tilcara. A cracked parking lot. A couple of guys loitering with intent. I check my phone: a 25-minute walk to the hostel, which I had glibly told the hostel would be easy as I have no bags. The air is thin and every road heads uphill. I can't find any street signs. The paved road quickly deteriorates into a dirt track. Shop shutters rattle closed as I walk past. When I manage to make eye contact with anyone, I get a dead stare. Every time I check my phone map, it tells me that I've gone the wrong way. Again. I should have stayed in Buenos Aires, I think. I loved every millimeter of Buenos Aires. People mostly smiled at me, said hello. There were coffee shops and restaurants and street lights. Here, there's just dirt and altitude. Defiantly, I mutter buenas noches under my breath at the next person coming towards me. She nods, replies. Shit. Am I supposed to be greeting people? Two turns from my hostel, the road dips downhill. Somewhere along the way, I climbed up a hill I didn't need to. I curse the Andean gods and keep walking. Finally, I arrive, punch in the code, and crash into my bed. It's midnight. I sleep like the dead. And then, morning. It's like someone rewired Tilcara overnight. It's beautiful. Still dusty and crumbling but golden in the morning light with misty black and red mountains creating a backdrop that looks like a motivational poster. I discover that street signs do exist, just not where you'd expect, hand painted onto walls and fences at random heights as you walk down the road. I scan the restaurant chalkboards, making mental lists of all the dishes I want to try, then pause, not quite emotionally ready to consider Llama al Malbec for my special evening meal. Maybe tomorrow. The locals have stern faces carved from stone until I whisper buen día, at which point they smile and greet me. I try it louder. Everyone seems happy to see me. Some even ask que tál?, how are you?, and actually seem to expect an answer. I respond with a slump and a wheeze, universal code for every road in this town is uphill and I am dying. I am met with laughter, sympathy and one invitation to a cold beer (I should have said yes). The hotel also gives a 10% discount for paying in cash, so I use up the rest of the pesos from Blue. I ask the woman if she knows where I can buy pesos in Tilcara. There are two Western Unions in town and a gift shop called Native Art who will exchange dollars for pesos. But what about stablecoins? She stares at me blankly. Never mind, I tell her. It doesn't matter anymore. And it really doesn't. Jump straight to the conclusion! Apparently I Did It Wrong ("You should have just used X, bro.")
+I'm extremely new to crypto, I bought USDT on Binance and that I then transferred to localcoinswap using erc-20 without realizing that I need ETH on the account to actually do any transfer in or out of the platform or to actually do swaps between coins on the platform itself, are there any services that allow buying small amounts of ETH for these transfers?
 
 1d ago
 
@@ -150,6 +150,12 @@ This is Part Seven of the eight-part series: Can I Pay With This: A stablecoin e
 
 ## Google News: "ethereum"
 
+**[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
+
+The Block • 6h ago
+
+---
+
 **[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
 
 Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
@@ -158,9 +164,25 @@ Decrypt • 3h ago
 
 ---
 
+**[Ether (ETH) ETF News: Staked Ether ETF (ETHB) Coming From BlackRock](https://www.coindesk.com/markets/2025/12/08/blackrock-files-for-staked-ethereum-etf-aiming-to-bring-yield-to-the-masses)**
+
+The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
+
+CoinDesk • 7h ago
+
+---
+
 **[ZKsync to deprecate ZKsync Lite in 2026, sunsetting Ethereum's first ZK rollup](https://www.theblock.co/post/381632/zksync-to-deprecate-zksync-lite-in-2026-sunsetting-ethereums-first-zk-rollup)**
 
-The Block • 22h ago
+The Block • 23h ago
+
+---
+
+**[Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds](https://finance.yahoo.com/news/tom-lee-bitmine-buys-429-162833185.html)**
+
+Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
+
+Yahoo Finance • 5h ago
 
 ---
 
@@ -169,14 +191,6 @@ The Block • 22h ago
 Ethereum could be once again on the path to the $5,000 price level. Here's why.
 
 The Motley Fool • 1d ago
-
----
-
-**[Tom Lee’s BitMine Extends Ethereum Bet With $200 Million in Two Days](https://finance.yahoo.com/news/tom-lee-bitmine-extends-ethereum-142458129.html)**
-
-BitMine bought nearly $200 million worth of Ethereum in the last two days, widening its lead as the largest single holder of ETH.
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -194,25 +208,9 @@ TradingView • 1d ago
 
 ---
 
-**[Ether (ETH) ETF News: Staked Ether ETF (ETHB) Coming From BlackRock](https://www.coindesk.com/markets/2025/12/08/blackrock-files-for-staked-ethereum-etf-aiming-to-bring-yield-to-the-masses)**
+**[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
 
-The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
-
-CoinDesk • 7h ago
-
----
-
-**[BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target](https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target)**
-
-TipRanks • 3d ago
-
----
-
-**[Why Crypto Is Going Up Today? Bitcoin, XRP Price, Ethereum and Dogecoin Jump Ahead of Fed Decision This Week](https://www.financemagnates.com/trending/why-crypto-is-going-up-today-bitcoin-xrp-price-ethereum-and-dogecoin-jump-ahead-of-fed-decision-this-week/)**
-
-The cryptocurrency market is flashing green during Monday's trading session, 8 December, 2025, prompting investors to ask why crypto is going up today .
-
-Finance Magnates • 10h ago
+Binance • 5h ago
 
 ---
 
@@ -224,9 +222,9 @@ FXStreet • 16h ago
 
 ---
 
-**[New ETF Juices Ethereum Income Profile](https://www.etftrends.com/megatrends-content-hub/new-etf-juices-ethereum-income-profile/)**
+**[XRP Blasts Past Bitcoin and Ethereum Sell-offs, Analyst Declares Rally Will Hit on ‘Promising Fundamentals’](https://www.tipranks.com/news/xrp-blasts-past-bitcoin-and-ethereum-selloffs-analyst-declares-rally-will-hit-on-promising-fundamentals)**
 
-ETF Trends • 7h ago
+TipRanks • 8h ago
 
 ---
 
@@ -270,7 +268,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 73K • 👍 3K • 💬 340 • ⏱️ 11:32 • 1d ago
+👁️ 73K • 👍 3K • 💬 340 • ⏱️ 11:32 • 2d ago
 
 ---
 
@@ -300,7 +298,7 @@ The momentum behind the BlackRock ETH ETF could be the exact spark that launches
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 450 • 💬 11 • ⏱️ 49:44 • 4h ago
+👁️ 5K • 👍 450 • 💬 11 • ⏱️ 49:44 • 5h ago
 
 ---
 
