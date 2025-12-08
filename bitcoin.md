@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T23:39:37.788054+00:00'
+updated: '2025-12-08T23:50:24.559346+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 23:39 UTC  
+**Last Updated:** December 08, 2025 at 23:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -107,7 +107,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -119,7 +119,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -133,7 +133,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 They didn't trade, they didn't sell to buy back later, they didn't follow the 4-year cycle, nothing. Just HODL Replicate them.
 
-12h ago
+13h ago
 
 ---
 
@@ -181,7 +181,7 @@ Decrypt • 5h ago
 
 Bitcoin Cash has quietly become one of the best-performing layer-1 networks in the crypto sector.
 
-Yahoo Finance • 43m ago
+Yahoo Finance • 53m ago
 
 ---
 
@@ -205,7 +205,7 @@ Business Insider • 12h ago
 
 BTC's relative weakness compared to stocks points to tepid spot demand, making the largest crypto vulnerable to macro volatility, Bitfinex analysts said.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -219,7 +219,7 @@ Investor's Business Daily • 9h ago
 
 Strategy unveiled its largest Bitcoin purchase in over 100 days, but the company's stock price was little changed on Monday.
 
-Decrypt • 7h ago
+Decrypt • 8h ago
 
 ---
 

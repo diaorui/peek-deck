@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T23:39:37.778988+00:00'
+updated: '2025-12-08T23:50:24.550863+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- social
 - videos
+- repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 23:39 UTC  
+**Last Updated:** December 08, 2025 at 23:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -101,7 +101,7 @@ The president announced the plans to create one rulebook for AI via his Truth So
 
 **[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -257,7 +257,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 A fork of Calibre called Clbre, because the AI is stripped out. - grimthorpe/clbre
 
-⬆️ 27 • 💬 23 • 1d ago • [GitHub](https://github.com/grimthorpe/clbre)
+⬆️ 27 • 💬 23 • 2d ago • [GitHub](https://github.com/grimthorpe/clbre)
 
 ---
 
@@ -377,7 +377,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,340 • 6h ago
+⬇️ 201,990 • ❤️ 2,340 • 7h ago
 
 ---
 
@@ -641,7 +641,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 7h ago
+⭐ 1.6k • 🔱 132 • 8h ago
 
 ---
 

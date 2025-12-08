@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T23:39:37.797802+00:00'
+updated: '2025-12-08T23:50:24.569819+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 23:39 UTC  
+**Last Updated:** December 08, 2025 at 23:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -122,7 +122,7 @@ MIT News • 3d ago
 
 The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
 
-Breaking Defense • 8h ago
+Breaking Defense • 9h ago
 
 ---
 
@@ -168,7 +168,7 @@ Interesting Engineering • 7h ago
 
 **[Agility Robotics founder wants Oregon to be a startup factory](https://www.bizjournals.com/portland/news/2025/12/08/agility-robotics-ai-osu-startup.html)**
 
-The Business Journals • 56m ago
+The Business Journals • 1h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T23:39:37.794348+00:00'
+updated: '2025-12-08T23:50:24.566379+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 23:39 UTC  
+**Last Updated:** December 08, 2025 at 23:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,9 +43,9 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +1.9%  
-**7d:** +4.3%  
+**7d:** +4.4%  
 **30d:** -12.9%  
-**90d:** -28.3%  
+**90d:** -28.2%  
 **1y:** -16.0%  
 
 ---
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Five years ago, an Ethereum standards author was threatened with trademark legal action over the name of a smart contract standard](https://www.reddit.com/r/ethereum/comments/1phe1xy/five_years_ago_an_ethereum_standards_author_was/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 8h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 9h ago
 
 ---
 
@@ -176,7 +176,7 @@ CoinDesk • 9h ago
 
 ZKsync is retiring its original Lite network, formalizing a shift toward ZKsync Era and the ZK Stack as activity on the legacy rollup fades.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -320,7 +320,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 494 • 👍 30 • 💬 3 • ⏱️ 4:33 • 13h ago
+👁️ 494 • 👍 30 • 💬 3 • ⏱️ 4:33 • 14h ago
 
 ---
 
