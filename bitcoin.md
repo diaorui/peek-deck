@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T20:26:45.505501+00:00'
+updated: '2025-12-08T20:46:09.739097+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 20:26 UTC  
+**Last Updated:** December 08, 2025 at 20:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,580.51
+### $90,532.59
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
+**24h:** +0.8%  
 **7d:** -1.0%  
 **30d:** -13.6%  
 **90d:** -20.5%  
-**1y:** -7.0%  
+**1y:** -6.9%  
 
 ---
 
@@ -99,7 +99,7 @@ They have a promotion going on with Ledger
 
 **[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-27m ago
+46m ago
 
 ---
 
@@ -107,13 +107,13 @@ They have a promotion going on with Ledger
 
 Back in 2011–2013, physical bitcoins were actually a thing. They were known as Casascius Coins — metal tokens with a hologram on the back hiding a private key printed on paper. Peel the hologram, and the BTC could be moved to a regular blockchain address. What makes this story even wilder is how many people never touched them for years. Some holders treated these coins like collectibles, others forgot about them entirely. Only recently, more and more of these physical bitcoins have been getting redeemed after sitting untouched for a decade or more. From novelty item to time capsule holding real money, Casascius coins remain one of the strangest and most iconic relics of early Bitcoin history.
 
-4h ago
+5h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
 
-46m ago
+1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Yahoo Finance • 7h ago
 
 BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
 
-Bloomberg.com • 55m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Investing.com • 5h ago
 
 Asian equities opened the week slightly higher ahead of a heavy run of central bank decisions, including a Federal Reserve meeting where markets have largely priced in a 25-basis-point rate cut.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 14h ago
 
 Traders on prediction markets are divided, giving an equal chance that bitcoin drops below $80,000 or rises above $100,000 this year....
 
-Sherwood News • 3h ago
+Sherwood News • 4h ago
 
 ---
 
@@ -221,7 +221,7 @@ Morningstar • 9h ago
 
 Which of these popular cryptocurrencies has more upside potential?
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -291,7 +291,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 **[Market Volatility Underscores Epic Buildup of Global Risk](https://news.ycombinator.com/item?id=46126556)**
 
-⬆️ 1 • 💬 3 • 5d ago • [nytimes.com](https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html)
+⬆️ 1 • 💬 3 • 6d ago • [nytimes.com](https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html)
 
 ---
 
@@ -363,7 +363,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 28K • 👍 2K • 💬 413 • ⏱️ 18:52 • 20h ago
+👁️ 28K • 👍 2K • 💬 413 • ⏱️ 18:52 • 21h ago
 
 ---
 
@@ -383,7 +383,7 @@ Bitcoin today with Benjamin Cowen!
 
 📺 MMCrypto
 
-👁️ 34K • 👍 3K • 💬 819 • ⏱️ 7:39 • 11h ago
+👁️ 34K • 👍 3K • 💬 819 • ⏱️ 7:39 • 12h ago
 
 ---
 

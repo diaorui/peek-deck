@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T20:26:45.497921+00:00'
+updated: '2025-12-08T20:46:09.730604+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 20:26 UTC  
+**Last Updated:** December 08, 2025 at 20:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -71,13 +71,13 @@ IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks b
 
 The president announced the plans to create one rulebook for AI via his Truth Social account on Monday.
 
-🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 4h ago
+🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 5h ago
 
 ---
 
 **[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -101,7 +101,7 @@ So I’m a junior dev who just got laid off from my webdev job, and with AI agen
 
 Mass human participation in AI training might be the most important thing possible, and this seems to be at least one small attempt at it: https://www.anthropic.com/research/anthropic-interviewer
 
-2h ago
+3h ago
 
 ---
 
@@ -109,7 +109,7 @@ Mass human participation in AI training might be the most important thing possib
 
 Agentic coding tools are dramatically reducing software development costs. Here's why 2026 is going to catch a lot of people off guard.
 
-🔗 [Martin Alderson](https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/) • 1h ago
+🔗 [Martin Alderson](https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/) • 2h ago
 
 ---
 
@@ -125,7 +125,7 @@ The New York Times • 1h ago
 
 **[Watch Still Meaningful Opportunity Set in AI: Sundar](https://www.bloomberg.com/news/videos/2025-12-08/still-meaningful-opportunity-set-in-ai-sundar-video)**
 
-Bloomberg.com • 56m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -133,13 +133,13 @@ Bloomberg.com • 56m ago
 
 That includes the first of Google's AI glasses in partnership with Warby Parker.
 
-CNBC • 16m ago
+CNBC • 35m ago
 
 ---
 
 **[Trump Promises Executive Order to Block State A.I. Regulations](https://www.nytimes.com/2025/12/08/us/politics/trump-executive-order-ai-laws.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -159,7 +159,7 @@ MarketWatch • 5h ago
 
 Senior AI editor Will Douglas Heaven talks with Tim Bradshaw, FT global tech correspondent, about what our world will look like in the next five years.
 
-MIT Technology Review • 3h ago
+MIT Technology Review • 4h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Guardian • 2d ago
 
 The field of AI is being destroyed by AI.
 
-Yahoo • 59m ago
+Yahoo • 1h ago
 
 ---
 
@@ -233,7 +233,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 42 • 💬 56 • 2h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 42 • 💬 56 • 3h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -339,7 +339,7 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Ge
 
 📺 BitBiasedAI
 
-👁️ 44K • 👍 1K • 💬 46 • ⏱️ 11:49 • 1d ago
+👁️ 44K • 👍 1K • 💬 46 • ⏱️ 11:49 • 2d ago
 
 ---
 
@@ -349,7 +349,7 @@ Your Grocery Store Is About to Change Forever. AI is now making your food...but 
 
 📺 Lillie Kane
 
-👁️ 3K • 👍 540 • 💬 97 • ⏱️ 13:09 • 4h ago
+👁️ 3K • 👍 540 • 💬 97 • ⏱️ 13:09 • 5h ago
 
 ---
 
@@ -375,7 +375,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,337 • 3h ago
+⬇️ 201,990 • ❤️ 2,337 • 4h ago
 
 ---
 
@@ -579,6 +579,18 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 24 • 💬 0 • ⭐ 25,577 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
 **[Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion](https://huggingface.co/papers/2512.04926)**
 
 *Yueming Pan, Ruoyu Feng, Qi Dai et al. (8 authors)*
@@ -590,18 +602,6 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 ▲ 35 • 💬 2 • ⭐ 224 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
-
----
-
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 24 • 💬 0 • ⭐ 25,548 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -669,7 +669,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 987 • 🔱 121 • 8h ago
+⭐ 987 • 🔱 121 • 44m ago
 
 ---
 
@@ -689,7 +689,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 833 • 🔱 44 • 13h ago
+⭐ 834 • 🔱 44 • 16m ago
 
 ---
 
@@ -709,7 +709,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 815 • 🔱 263 • 2d ago
+⭐ 815 • 🔱 264 • 2d ago
 
 ---
 
@@ -719,7 +719,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 731 • 🔱 111 • 2h ago
+⭐ 732 • 🔱 111 • 3h ago
 
 ---
 

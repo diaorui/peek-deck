@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T20:26:45.510877+00:00'
+updated: '2025-12-08T20:46:09.745186+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 20:26 UTC  
+**Last Updated:** December 08, 2025 at 20:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.1%  
-**7d:** +4.8%  
-**30d:** -12.6%  
-**90d:** -28.0%  
-**1y:** -15.6%  
+**24h:** +1.7%  
+**7d:** +4.4%  
+**30d:** -12.9%  
+**90d:** -28.2%  
+**1y:** -15.9%  
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Five years ago, an Ethereum standards author was threatened with trademark legal action over the name of a smart contract standard](https://www.reddit.com/r/ethereum/comments/1phe1xy/five_years_ago_an_ethereum_standards_author_was/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 5h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 6h ago
 
 ---
 
@@ -160,7 +160,7 @@ Decrypt • 2h ago
 
 **[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
 
-The Block • 5h ago
+The Block • 6h ago
 
 ---
 
@@ -308,7 +308,7 @@ Get lifetime access to my full investing system + all spreadsheets, my real-time
 
 📺 Future Investing
 
-👁️ 7K • 👍 328 • 4h ago
+👁️ 7K • 👍 328 • 5h ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 395 • 👍 30 • 💬 3 • ⏱️ 4:33 • 10h ago
+👁️ 395 • 👍 30 • 💬 3 • ⏱️ 4:33 • 11h ago
 
 ---
 
