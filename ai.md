@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T18:36:42.984806+00:00'
+updated: '2025-12-08T18:55:30.544258+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 18:36 UTC  
+**Last Updated:** December 08, 2025 at 18:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
 
-🔗 [withmartian.com](https://withmartian.com/prize) • 5h ago
+🔗 [withmartian.com](https://withmartian.com/prize) • 6h ago
 
 ---
 
@@ -55,7 +55,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 **[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-15m ago
+34m ago
 
 ---
 
@@ -69,7 +69,7 @@ The president announced the plans to create one rulebook for AI via his Truth So
 
 **[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -93,7 +93,7 @@ IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks b
 
 Mass human participation in AI training might be the most important thing possible, and this seems to be at least one small attempt at it: https://www.anthropic.com/research/anthropic-interviewer
 
-53m ago
+1h ago
 
 ---
 
@@ -121,7 +121,7 @@ So I’m a junior dev who just got laid off from my webdev job, and with AI agen
 
 President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-CNN • 3h ago
+CNN • 4h ago
 
 ---
 
@@ -135,7 +135,7 @@ Politico • 3h ago
 
 Florida Gov. Ron DeSantis unveiled a proposal last week that would, among other things, prohibit utilities from charging residents “more” to support data center development.
 
-Utility Dive • 43m ago
+Utility Dive • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ CNBC • 9h ago
 
 **[Analysts' 'AI Loser' List Points To Risks For Uber, Adobe, Intel And These Tech Players](https://www.investors.com/news/technology/ai-stocks-ai-losers-wedbush-adobe-uber-intel/)**
 
-Investor's Business Daily • 34m ago
+Investor's Business Daily • 53m ago
 
 ---
 
@@ -157,7 +157,7 @@ Investor's Business Daily • 34m ago
 
 Current geopolitical climate, protectionism and anxieties over security of supply of rare earths has heightened need for AI driven materials discovery, says Altrove CEO.
 
-Forbes • 29m ago
+Forbes • 48m ago
 
 ---
 
@@ -165,7 +165,7 @@ Forbes • 29m ago
 
 Deutsche Bank asked its dbLumina AI model to pick a basket of funds.
 
-CNBC • 43m ago
+CNBC • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Axios • 8h ago
 
 **[IBM to Buy Confluent for $9.3 Billion to Expand in AI Services](https://www.bloomberg.com/news/articles/2025-12-08/ibm-to-buy-confluent-for-11-billion-to-expand-in-ai-services)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -209,7 +209,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 207 • 💬 149 • 1h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 207 • 💬 149 • 2h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -243,7 +243,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 32 • 💬 30 • 58m ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 32 • 💬 30 • 1h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -377,7 +377,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,330 • 1h ago
+⬇️ 201,990 • ❤️ 2,330 • 2h ago
 
 ---
 
@@ -641,7 +641,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 2h ago
+⭐ 1.6k • 🔱 132 • 3h ago
 
 ---
 
@@ -681,7 +681,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 843 • 🔱 22 • 23h ago
+⭐ 843 • 🔱 22 • 1d ago
 
 ---
 
@@ -721,7 +721,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 728 • 🔱 110 • 59m ago
+⭐ 728 • 🔱 110 • 1h ago
 
 ---
 

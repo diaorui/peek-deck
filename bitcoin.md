@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T18:36:42.993397+00:00'
+updated: '2025-12-08T18:55:30.552690+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 18:36 UTC  
+**Last Updated:** December 08, 2025 at 18:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,137.72
+### $90,093.42
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -1.3%  
-**30d:** -13.9%  
-**90d:** -20.8%  
-**1y:** -7.3%  
+**24h:** -1.4%  
+**7d:** -1.4%  
+**30d:** -14.0%  
+**90d:** -20.9%  
+**1y:** -7.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -93,7 +93,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 **[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
 
-16m ago
+35m ago
 
 ---
 
@@ -107,7 +107,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 They have a promotion going on with Ledger
 
-13m ago
+31m ago
 
 ---
 
@@ -115,7 +115,7 @@ They have a promotion going on with Ledger
 
 They didn't trade, they didn't sell to buy back later, they didn't follow the 4-year cycle, nothing. Just HODL Replicate them.
 
-7h ago
+8h ago
 
 ---
 
@@ -135,7 +135,7 @@ People don’t confuse inflation with the dollar losing value the dollar losing 
 
 **[This fully shows 5 years of Bitcoin experience and we still following the pattern.](https://www.reddit.com/r/Bitcoin/comments/1phe53d/this_fully_shows_5_years_of_bitcoin_experience/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -167,7 +167,7 @@ MarketWatch • 5h ago
 
 Investor Mike Alfred predicts Bitcoin could reach $315,000. Harvard University significantly increased its Bitcoin holdings over gold. But analysts warn of potential short-term consolidation. Bitcoin’s ...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 8h ago
 
 Asian equities opened the week slightly higher ahead of a heavy run of central bank decisions, including a Federal Reserve meeting where markets have largely priced in a 25-basis-point rate cut.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -199,7 +199,7 @@ Morningstar • 7h ago
 
 Bitcoin ETFs drew $352 million last week as interest in short-BTC funds declines and crypto fund assets rebound from November lows, signaling optimism.
 
-Decrypt • 1h ago
+Decrypt • 2h ago
 
 ---
 
@@ -223,7 +223,7 @@ Bloomberg.com • 2d ago
 
 Which of these popular cryptocurrencies has more upside potential?
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
