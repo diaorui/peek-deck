@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T03:12:23.931832+00:00'
+updated: '2025-12-08T04:03:59.947601+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
+- news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 03:12 UTC  
+**Last Updated:** December 08, 2025 at 04:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
-🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 54m ago
+🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 1h ago
 
 ---
 
@@ -57,13 +57,13 @@ Explore the true history of convolutional neural networks, from Fukushima’s ne
 
 If you believe these CEOs will solve unemployment after AI replaces most of the human workers, this video is for you.
 
-15h ago
+16h ago
 
 ---
 
 **[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
 
-🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 12h ago
+🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 13h ago
 
 ---
 
@@ -71,7 +71,7 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 A new study finds ChatGPT fails to take into account retraction notices across a wide range of research.
 
-🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 8h ago
+🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 9h ago
 
 ---
 
@@ -79,7 +79,7 @@ A new study finds ChatGPT fails to take into account retraction notices across a
 
 Just did this myself, and now sharing for others! I have ChatGPT Plus, and when I tried to cancel it offered me a free month. Worked for two of my friends as well. Steps Go to chatgpt on your web browser At the bottom left click on your name (you need to be logged in) Click on Settings Click on last section: Account Near top right click on: Manage Click on: Cancel Subscription Done!
 
-9h ago
+10h ago
 
 ---
 
@@ -87,7 +87,7 @@ Just did this myself, and now sharing for others! I have ChatGPT Plus, and when 
 
 I kept getting frustrated with the job search process, especially the part where you have several job postings open in different browser tabs and end up copying parts of each description into your resume. It was slow, repetitive, and honestly burned me out. Out of that frustration, I built an AI tool to automate the whole thing. You open the job posting tabs you are considering, the system reads each one, uses your background as the anchor, and creates a tailored resume for every tab. If you have ten tabs open, you get ten tailored resumes without doing all the manual copying. Overall happy with the use of Gemini, but curious of others experience with generation costs. Seems cheaper and quicker than ChatGPT thus far.
 
-55m ago
+1h ago
 
 ---
 
@@ -95,7 +95,7 @@ I kept getting frustrated with the job search process, especially the part where
 
 Could AI help us create virtual human cells? 🦠 Scientists are training AI to create virtual human cells, digital models that mimic how real cells behave. These simulations can predict how a cell might respond to medication, genetic mutations, or physical damage. While live lab tests are still essential, AI-powered models could make research faster, safer, and more personalized. By reducing trial-and-error in early stages, these tools could unlock faster drug discovery and bring us closer to tailored treatments for individuals.
 
-10h ago
+11h ago
 
 ---
 
@@ -103,7 +103,7 @@ Could AI help us create virtual human cells? 🦠 Scientists are training AI to 
 
 Another day, another AI-related domain name going for 7 figures.
 
-🔗 [bizjournals.com](https://www.bizjournals.com/southflorida/news/2025/12/03/aireviews-corporation-domain-name-acquisition.html) • 5h ago
+🔗 [bizjournals.com](https://www.bizjournals.com/southflorida/news/2025/12/03/aireviews-corporation-domain-name-acquisition.html) • 6h ago
 
 ---
 
@@ -111,7 +111,7 @@ Another day, another AI-related domain name going for 7 figures.
 
 Calls for review after technology found to return more false positives for ‘some demographic groups’ on certain settings
 
-🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 19h ago
+🔗 [the Guardian](https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects) • 20h ago
 
 ---
 
@@ -119,55 +119,11 @@ Calls for review after technology found to return more false positives for ‘so
 
 ## Google News: "ai"
 
-**[Apple's executive exodus sends a signal about its AI strategy](https://finance.yahoo.com/news/apples-executive-exodus-sends-a-signal-about-its-ai-strategy-150058611.html)**
-
-A number of executives are departing Apple. At least some of them are related to its AI strategy.
-
-Yahoo Finance • 12h ago
-
----
-
 **[There's a new face in Hollywood, generated by AI](https://www.cbsnews.com/news/theres-a-new-face-in-hollywood-generated-by-ai/)**
 
 Tilly Norwood is unlike any other aspiring TV or movie star: Tilly is entirely generated by artificial intelligence. What might that mean for the media industry?
 
-CBS News • 12h ago
-
----
-
-**[Is AI a bubble that’s about to pop? – podcast](https://www.theguardian.com/news/audio/2025/dec/08/is-ai-a-bubble-thats-about-to-pop-podcast)**
-
-Should we be worried about the vast amounts of money pouring into AI? And what will happen if the bubble bursts? Blake Montgomery reports
-
-The Guardian • 11m ago
-
----
-
-**[Putin Wanted AI Supremacy. Now Russia Is Struggling to Stay in the Race.](https://www.wsj.com/tech/ai/putin-wanted-ai-supremacy-now-russia-is-struggling-to-stay-in-the-race-0e0deeb6?gaa_at=eafs&gaa_n=AWEtsqe-dYb6JE4vNvpArr75wEX68IEWixuoQKu2YWtICrUdNx8vSbHWOT5A&gaa_ts=69364572&gaa_sig=76Xr52sk34X-7ZCEVX5-tBEllaOJIa8Zalb7RLTD3ljJIJnvvTtvlHXkes6x_cDVyn6zhFAbaX3PtFIdQK1aAA%3D%3D)**
-
-The Wall Street Journal • 2h ago
-
----
-
-**[Why Nvidia and Other AI Stocks Have Lost Their ‘Quality’ Status](https://www.wsj.com/finance/investing/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status-84180ff2?gaa_at=eafs&gaa_n=AWEtsqdWIouYymp8epsdHepKDf83QdM9T1c2oKXefwiGv7bfEsCLey_AH7fA&gaa_ts=69364572&gaa_sig=dWCq1urIGW7scT1b5HTFI63F8lPbI5kywgcvpTn4hPQwk09WpxNEuu2jWvzqMxi2_3JfP_dzGS6ec-6d-IUYRQ%3D%3D)**
-
-The Wall Street Journal • 16h ago
-
----
-
-**[Generative AI Upside: 2 Software Stocks Could Triple Revenue in 5 Years](https://finance.yahoo.com/news/generative-ai-upside-2-software-020500991.html)**
-
-Palantir and Innodata will both profit from the generative AI boom.
-
-Yahoo Finance • 1h ago
-
----
-
-**[This Artificial Intelligence (AI) Infrastructure Stock Could Be the Nvidia of 2026](https://www.nasdaq.com/articles/artificial-intelligence-ai-infrastructure-stock-could-be-nvidia-2026)**
-
-Key PointsAI hyperscalers are projected to spend half a trillion dollars on infrastructure in 2026.
-
-Nasdaq • 6h ago
+CBS News • 13h ago
 
 ---
 
@@ -175,21 +131,67 @@ Nasdaq • 6h ago
 
 "For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
-**[Jamie Dimon predicts AI will not 'dramatically reduce' jobs in the next year](https://www.foxbusiness.com/media/jamie-dimon-predicts-ai-not-dramatically-reduce-jobs-next-year)**
+**[Is AI a bubble that’s about to pop? – podcast](https://www.theguardian.com/news/audio/2025/dec/08/is-ai-a-bubble-thats-about-to-pop-podcast)**
 
-During an interview on "Sunday Morning Futures," JPMorgan Chase CEO Jamie Dimon predicted artificial intelligence will not "dramatically reduce" jobs next year if regulated properly.
+Should we be worried about the vast amounts of money pouring into AI? And what will happen if the bubble bursts? Blake Montgomery reports
 
-Fox Business • 8h ago
+The Guardian • 1h ago
 
 ---
 
-**[Jamie Dimon says even though AI will eliminate some jobs 'maybe one day we'll be working less hard but having wonderful lives'](https://www.msn.com/en-us/money/markets/jamie-dimon-says-even-though-ai-will-eliminate-some-jobs-maybe-one-day-we-ll-be-working-less-hard-but-having-wonderful-lives/ar-AA1RTfCA?ocid=finance-verthp-feeds)**
+**[America's AI dominance depends on winning the 'power race' against China, energy expert warns](https://www.foxbusiness.com/energy/americas-ai-dominance-depends-winning-power-race-against-china-energy-expert-warns)**
 
-MSN • 2h ago
+America's AI dominance depends on winning the energy race against China, with natural gas as the key fuel to power massive data centers nationwide, energy expert says.
+
+Fox Business • 29m ago
+
+---
+
+**[Nvidia’s CEO says AI adoption will be gradual, but when it does hit, we may all end up making robot clothing](https://fortune.com/2025/12/06/nvidia-jensen-huang-ai-adoption-creep-gradual-robot-clothing/)**
+
+Jobs that consist entirely of routine tasks are most at risk of AI disruption, Huang said.
+
+Fortune • 1d ago
+
+---
+
+**[Nvidia CEO says U.S. data centers take 3 years, but China 'can build a hospital in a weekend'](https://fortune.com/2025/12/06/nvidia-ceo-jensen-huang-ai-race-china-data-centers-construct-us/)**
+
+China has “twice as much energy as we have as a nation, and our economy is larger than theirs. Makes no sense to me,” Huang said.
+
+Fortune • 1d ago
+
+---
+
+**[Should You Worry About Nvidia's AI Market Leadership? 21 Words From Jensen Huang Offer a Strikingly Clear Answer.](https://finance.yahoo.com/news/worry-nvidias-ai-market-leadership-022500739.html)**
+
+Nvidia's GPUs recently took a test.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Chinese internet companies are ramping AI spending. These local players may benefit](https://www.cnbc.com/2025/12/07/chinese-internet-tech-ramp-up-ai-spend-who-could-benefit.html)**
+
+Chinese internet companies increasingly say they don't have enough compute to power their artificial intelligence ambitions.
+
+CNBC • 15h ago
+
+---
+
+**[Titans + MIRAS: Helping AI have long-term memory](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)**
+
+Google Research • 3d ago
+
+---
+
+**[Opinion | Is AI Making Us Dumb?](https://www.wsj.com/opinion/is-ai-making-us-dumb-21ea8e39?gaa_at=eafs&gaa_n=AWEtsqdgh1Sh_jrYmgYYMHJdmGRYu1Fd2ssC9MLKvCRS1KPywc4igTFO0BbY&gaa_ts=69365197&gaa_sig=OJATUi5wJnjHFOJuKAD0AgEmOdh0FnFMkxtFYBmqTDSqDLd_5dbkqKMa6EalGM84KjeC3mp3MtlbbsjtZSlQZg%3D%3D)**
+
+The Wall Street Journal • 9h ago
 
 ---
 
@@ -205,6 +207,12 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 ---
 
+**[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
+
+⬆️ 420 • 💬 143 • 15h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+
+---
+
 **[YouTube caught making AI-edits to videos and adding misleading AI summaries](https://news.ycombinator.com/item?id=46169554)**
 
 Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
@@ -213,9 +221,9 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 ---
 
-**[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
+**[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 405 • 💬 140 • 14h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 102 • 💬 179 • 11h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -224,12 +232,6 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 Welcome to the slop era.
 
 ⬆️ 98 • 💬 182 • 2d ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
-
----
-
-**[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
-
-⬆️ 97 • 💬 179 • 10h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -259,13 +261,15 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 35 • 💬 13 • 14h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 36 • 💬 13 • 15h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
-**[Is Cloudflare Down Again? Also, DownDetector/Claude.ai/LinkedIn?](https://news.ycombinator.com/item?id=46158275)**
+**[AI Slop Is Ruining Reddit for Everyone](https://news.ycombinator.com/item?id=46184287)**
 
-⬆️ 31 • 💬 4 • 2d ago
+Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
+
+⬆️ 32 • 💬 5 • 8h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
 
 ---
 
@@ -279,7 +283,7 @@ OpenAI is in a full internal race after a major leak revealed a new model called
 
 📺 AI Revolution
 
-👁️ 2K • 👍 191 • 💬 9 • ⏱️ 12:31 • 2h ago
+👁️ 9K • 👍 459 • 💬 34 • ⏱️ 12:31 • 3h ago
 
 ---
 
@@ -289,17 +293,7 @@ Big Tech is racking up debt to fund their AI infrastructure for demand that seem
 
 📺 Vanessa Wingårdh
 
-👁️ 81K • 👍 6K • 💬 1K • ⏱️ 10:38 • 14h ago
-
----
-
-**[SORA AI Disney Trailers That Make No Sense](https://www.youtube.com/watch?v=MlMqcBskVCU)**
-
-SORA AI Disney Trailers That Make No Sense #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips #aimeme ...
-
-📺 Bigfoot Feed
-
-👁️ 6K • 👍 166 • 💬 15 • ⏱️ 0:55 • 4h ago
+👁️ 87K • 👍 7K • 💬 2K • ⏱️ 10:38 • 15h ago
 
 ---
 
@@ -309,7 +303,27 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 32K • 👍 2K • 💬 406 • ⏱️ 15:03 • 11h ago
+👁️ 38K • 👍 2K • 💬 440 • ⏱️ 15:03 • 12h ago
+
+---
+
+**[SORA AI Disney Trailers That Make No Sense](https://www.youtube.com/watch?v=MlMqcBskVCU)**
+
+SORA AI Disney Trailers That Make No Sense #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips #aimeme ...
+
+📺 Bigfoot Feed
+
+👁️ 13K • 👍 294 • 💬 17 • ⏱️ 0:55 • 5h ago
+
+---
+
+**[The Impossible | An AI Surreal Trip Into The Unknown 4K](https://www.youtube.com/watch?v=YZExXLvI2Cs)**
+
+I made the first set of these images almost by accident. I was trying for something completely different but had my personalization ...
+
+📺 Kelly Boesch AI Art
+
+👁️ 12K • 👍 925 • 💬 69 • ⏱️ 2:56 • 13h ago
 
 ---
 
@@ -319,47 +333,17 @@ Humanoid robots are leaving labs and moving into real deployment, with China pus
 
 📺 AI Revolution
 
-👁️ 91K • 👍 2K • 💬 387 • ⏱️ 12:07 • 2d ago
+👁️ 93K • 👍 2K • 💬 397 • ⏱️ 12:07 • 2d ago
 
 ---
 
-**[AI DOOMSDAY?: Joe Rogan challenges tech CEO](https://www.youtube.com/watch?v=5y5gTgEc9Vc)**
+**[I Recreated Impossible AI Foods](https://www.youtube.com/watch?v=wJHRAXKdqZM)**
 
-Renowned futurist Dr. Michio Kaku discusses the ethical dilemmas of artificial intelligence, including scenarios where AI resorts to ...
+subscribe to my worthy opponent: @hannah_keller W JUDGES @angeliamor @KhristianBlack @zealous @KingSammelot ...
 
-📺 Fox News Clips
+📺 yikes
 
-👁️ 39K • 👍 620 • 💬 268 • ⏱️ 6:22 • 2d ago
-
----
-
-**[Gemini 4 — Google’s Biggest AI Upgrade Yet (Full Features Explained)](https://www.youtube.com/watch?v=WYK7iyOklf4)**
-
-Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Gemini 4 — and it might be their most powerful AI ...
-
-📺 BitBiasedAI
-
-👁️ 30K • 👍 843 • 💬 40 • ⏱️ 11:49 • 1d ago
-
----
-
-**[They Summoned Something That Can&#39;t Be Controlled: The AI Warning From 1904](https://www.youtube.com/watch?v=h6efTA8z1UI)**
-
-Elon Musk warned us in 2014: "With artificial intelligence, we are summoning the demon." Everyone laughed. Nobody's laughing ...
-
-📺 End Times Productions
-
-👁️ 131K • 👍 8K • 💬 2K • ⏱️ 34:02 • 3d ago
-
----
-
-**[We Asked AI to Talk to God And What It Said is Terrifying](https://www.youtube.com/watch?v=DaXpCyoebjc)**
-
-Go to http://buyraycon.com/originsexplainedopen to get up to 20% off during this holiday season. Have you ever wondered what ...
-
-📺 Origins Explained
-
-👁️ 13K • 👍 673 • 💬 119 • ⏱️ 31:52 • 1d ago
+👁️ 229K • 👍 10K • 💬 1K • ⏱️ 21:06 • 1d ago
 
 ---
 
@@ -369,7 +353,27 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 795K • 👍 2K • 💬 74 • ⏱️ 8:06 • 1d ago
+👁️ 823K • 👍 2K • 💬 78 • ⏱️ 8:06 • 1d ago
+
+---
+
+**[I Bought Ai SCAM Products to see what shows up](https://www.youtube.com/watch?v=q9IrO-A4x4Y)**
+
+Thank you to Disney Dreamlight Valley for sponsoring this video! Click here to start your own adventure ...
+
+📺 HopeScope
+
+👁️ 1.6M • 👍 46K • 💬 3K • ⏱️ 34:23 • 1d ago
+
+---
+
+**[We Asked AI to Talk to God And What It Said is Terrifying](https://www.youtube.com/watch?v=DaXpCyoebjc)**
+
+Go to http://buyraycon.com/originsexplainedopen to get up to 20% off during this holiday season. Have you ever wondered what ...
+
+📺 Origins Explained
+
+👁️ 13K • 👍 700 • 💬 125 • ⏱️ 31:52 • 1d ago
 
 ---
 
@@ -385,7 +389,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 186,951 • ❤️ 2,266 • 5d ago
+⬇️ 186,951 • ❤️ 2,267 • 5d ago
 
 ---
 
@@ -397,7 +401,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 25,451 • ❤️ 781 • 6d ago
+⬇️ 25,451 • ❤️ 782 • 6d ago
 
 ---
 
@@ -409,7 +413,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 6,281 • ❤️ 538 • 6d ago
+⬇️ 6,281 • ❤️ 539 • 6d ago
 
 ---
 
@@ -421,7 +425,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 447 • 17h ago
+⬇️ 27,215 • ❤️ 458 • 50m ago
 
 ---
 
@@ -453,7 +457,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,828 • ❤️ 362 • 5d ago
+⬇️ 2,828 • ❤️ 363 • 5d ago
 
 ---
 
@@ -465,7 +469,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 205,376 • ❤️ 925 • 10d ago
+⬇️ 205,376 • ❤️ 926 • 10d ago
 
 ---
 
@@ -637,7 +641,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.4k • 🔱 421 • 2d ago
+⭐ 5.4k • 🔱 421 • 3d ago
 
 ---
 
@@ -677,7 +681,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 961 • 🔱 117 • 1h ago
+⭐ 961 • 🔱 117 • 2h ago
 
 ---
 
@@ -687,7 +691,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 831 • 🔱 22 • 8h ago
+⭐ 831 • 🔱 22 • 9h ago
 
 ---
 
@@ -697,7 +701,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 828 • 🔱 44 • 3m ago
+⭐ 828 • 🔱 44 • 54m ago
 
 ---
 

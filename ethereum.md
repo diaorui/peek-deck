@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T03:12:23.946373+00:00'
+updated: '2025-12-08T04:03:59.960469+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
 - news
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 03:12 UTC  
+**Last Updated:** December 08, 2025 at 04:03 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.2%  
-**7d:** +3.9%  
-**30d:** -13.3%  
-**90d:** -28.5%  
-**1y:** -16.3%  
+**24h:** +2.5%  
+**7d:** +4.2%  
+**30d:** -13.0%  
+**90d:** -28.3%  
+**1y:** -16.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.05B
+**Market Cap:** $375.72B
 Rank #2
 
 **Circulating Supply:** 120,695,342 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.2%
+-37.0%
 
 **All-Time Low:** $0.43
-+717144.9%
++719484.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is Part Eight! The very last chapter of the eight-part series: Can I Pay With This: A stablecoin experiment in Buenos Aires (finally!). Thank you to the Ethereum Foundation and the EV Mavericks for their support, without which this experiment could never have happened. Table of Contents Part One: Decentralized or Destitute <-- New? Start here. Money, monkeys and mild terror Part Two: First Contact with Reality KYC on a hostel bunk bed Part Three: WE ACCEPT BITCOIN (sort of) Worst title for an Ethereum subreddit ever Part Four: Eighteen Ways to Pay for Ice Cream Stablecoins, FX hell and a missing keyboard Part Five: Going Bankless From tourist shop hack to cueva contact Part Six: Trustless, My Ass Trading with the Blue Man Part Seven: Custodial Services Self-custody is easy, luggage custody is hard Part Eight: Apparently I Did It Wrong <-- You are here "You should have just used X, bro." When I get back to Buenos Aires, suddenly everyone is talking about crypto adoption. It's a week before the conference and people are exchanging tips. "You can trade USDT for pesos at any exchange," people tell me knowingly. "Where, exactly?" Not a single one of them is able to give me a location. There are exchange houses, they say with a bit of hand waving. Just look for USDT stickers on the window along with the dollar and euro currency symbols. When I point out that I've been here for three weeks and not seen a single one, I'm told it's because I was staying in the wrong part of Buenos Aires. "Go to Palermo, they are everywhere." I go to Palermo. They are definitely not everywhere. I ask at an exchange, in case there just isn't a sign. No: no cripto. I ask other conference goers if they've seen any exchanges that take USDT. No one has. A few days later, one person in the conference Telegram group sends a photograph of an exchange that takes USDT. Success! The sign is explicit though: TRON only. I don't bother visiting. At the cypherpunk conference, I speak to a Buenos Aires resident who refuses to do KYC on principle. I can't think of another city where you could exist without KYC. But when I point out how complicated I've found it to trade stablecoins for cash, he is surprised. Initially he says that the exchanges are everywhere but accepts my lived experience, that I never found a single one. He laughs when I tell him how frightened I was to meet with Blue. It's perfectly safe, he tells me. And yes, delivering the money through a man on a motorbike is common, although he concedes that maybe not on the first trade. But for visitors to the country, foreigners, doesn't he think that it's a bigger risk? I feel like even asking the question is making myself a target. "That's what community is for," he tells me. "You ask your friends, you get told where to go." Friends? Not only do I have to dodge scammers, guard seed phrases and pretend I understand half the apps I'm using. Now I have to have friends? OK... I do have friends, technically. But the Venn diagram of "people who like me", "people who use crypto" and "people who understand Argentina's financial underworld" is just three circles in the shape of a snowman. He takes a bit of a breath, as if summoning patience, and tells me that the point is to trust the community. Ask on Twitter! Twitter? That same Twitter that told me I don't need cash in Buenos Aires? That's who he thinks I should ask? He agrees that maybe Twitter isn't the best example of a web of trust. But really, trading with someone like Blue is very safe, he tells me, and borderline accuses me of having trust issues. He might have a point. A herd of new payment apps explodes onto the scene in the week leading up to the conference. I keep putting $20 into each app's wallet and hoping I remember to pull it all back out at the end. I pay using stablecoin cards and QR payment systems all over the city. Most of these allow me to pay in stablecoins while the vendor receives pesos. One very clever app pushes daily updates as they on-board restaurants all over the city, allowing the merchant to receive my stablecoins directly, without conversion. By the time I leave Buenos Aires, they've signed up over two dozen cafés and restaurants. The first QR-payment app that I installed has a big breakthrough during the conference: integration with a set of ATMs allowing the user to withdraw cash. Another QR-based app ticks all my boxes: they connect me directly to buyers; I tell them how many USDT I need to pay my bill and once someone agrees to the purchase, I scan the QR code and they pay the merchant on my behalf. There's no KYC and no permission needed, just an online marketplace which works amazingly well. Meanwhile, all conference attendees are given a newbie-friendly wallet built into the Devconnect app, which allows them to pay for everything at the conference using stablecoins or crypto, no need for pesos at all. These innovative approaches can only flourish in certain environments. Someone commented that Buenos Aires was perfectly positioned to be Ground Zero for crypto adoption. I agree. Maybe stablecoins aren’t a revolution here, but they are already accepted as another tool in the box. The big difference was that my community had arrived. Devconnect 2025 had brought thousands of people to a conference hall in Buenos Aires to talk about exactly these problems and to offer solutions. Obviously, physical exchanges that take USDT do exist. Once you find one, never again will you have to peer into shop windows looking like an orphan on Christmas Eve. There's an active P2P community centered around Binance. Motorbike couriers with envelopes of money are apparently an accepted part of local finance, even if I declined to partake. People don't flinch when you mention crypto. That's more than I can say for my hometown. Whatever comes next won’t be clean or ideological. It’ll look like Buenos Aires: improvised, relentless, and somehow functioning against the odds. In the end, I proved that it is possible to deal with day-to-day life using stablecoins, if not in a wholly decentralized and permissionless manner. With more local knowledge, I could mostly live on stablecoins without KYC, by converting to cash and being choosy about which shops and restaurants I frequented. No, the people of Buenos Aires do not use stablecoins for transactions on a daily basis. There is clearly very little mainstream adoption of crypto payments. Right now, the main advantage of stablecoin apps and payment systems in Buenos Aires is that last-minute conversion to traditional rails and pesos. But even that is a jump forward. The infrastructure exists. The current regulatory space allows for experimentation. People are already aware of the benefits of holding savings in stablecoin. The QR payment system is standardized, waiting to be plugged into. Developers are building, not debating whether to start. Call it early adoption, call it survival instinct. Whatever it is, Buenos Aires is ready long before anyone else is. Right now, they are not using Ethereum for their financial freedom. But they could. Buenos Aires isn’t running on stablecoins yet. But if any city decides to, it’ll be this one. This was an EVMavericks production.
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ This is Part Eight! The very last chapter of the eight-part series: Can I Pay Wi
 
 I copied and pasted for ease of access. Maybe Vitalik can make an update to raise this coin to $5000. Ethereum's next evolution will be shaped by a set of upcoming invariants and protocol caps that Vitalik Buterin outlined. These are deep structural changes that harden the network, streamline clients and block entire classes of DoS vectors. Ethereum's clear path Zooming out over the past few years reveals a distinct pattern: Ethereum continues to move toward stringent, predictable limitations on the capabilities of a single transaction or block. And that trend is going to pick up speed. The groundwork was already in place. In 2021, EIP-2929 and 3529 increased SLOAD gas costs and slashed refunds, reducing disk I/O abuse and preventing refund-based spam loops. One of the most exploitable instructions in the EVM was eliminated in 2024 by Dencuns SELFDESTRUCT nerf, which closed significant complexity gaps. Now, in 2025, the 16777216 gas-per-transaction hard cap finishes the cycle: no more super-dense monster transactions capable of locking up nodes or stressing clients in unpredictable ways. Each of these constraints trims the attack surface while pushing Ethereum closer to a system where worst-case behavior is strictly bounded. Three paths The first path is a cap on the number of contract code bytes accessed per transaction. In the short term, this means it becomes more costly to call large contracts. In the medium term, it standardizes contract scaling and eliminates pathological situations where a single call thrashes through megabytes of bytecode, pushing the ecosystem toward binary trees and per-chunk pricing. Second, ZK-EVM prover cycle bounds are required by Ethereum. Repricing proofs are becoming more and more important as ZK-based layer 2s become more common. Without restrictions, block builders could create consensus-layer bottlenecks by packing proofs with excessive computational overhead. Bound it, and the network benefits from safer L2 growth and predictable verification costs. Third, there will be changes to memory prices. Although EVM memory expansion is currently quasi-bounded, attackers can still push clients into uncomfortable areas. Every client team can easily handle worst-case modeling, and execution engines are made simpler with a more transparent hard cap on memory usage.
 
-10h ago
+11h ago
 
 ---
 
@@ -104,7 +104,7 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 I was recently censored by Edmund something, so I thought I would ask this community if you could disprove an assumption I have considered. I have considered a scaling paradigm, and here would like to ask about it for a simpler ledger like UTXO-model (and the idea is that the same principles can be scaled up to more advanced "world computer" like Ethereum). It seems appropriate to attack my argument rather than censor me for having respect for another individual (Craig Wright). My idea is very simple. Shard a UTXO ledger by transaction hash mod numShards. There is "wiggle room" for nodes to shard with different values, as it can translate back and forth. Then, if 1024 shards, let shard 0 build blocks only with transaction hashes it "owns", and any shard using those as inputs will have to request the right from the shard. The shards manage and stores such "virtual blocks". Propagation of mempool transactions as well as "virtual blocks" is between shards only (or, mainly). Shards will request transactions from mempool by modulo numShards, and similar with the "virtual block" (where the boundaries of that block is the Merkle tree, so it naturally also splits and combines so people can use different numShards). The central block header is signed by the "coordinator" (via proof-of-work or proof-of-stake or proof-of-suffrage) who combines the Merkle roots of the sub-blocks. They trust all their "sub-nodes" internally. Likewise, the transaction fees can be done easily in UTXO-format by each sub-node reporting their own output for coinbase. Assuming 1 MB blocks and 1024 shards, 5000 transactions per block, on average 2-3 inputs per transaction, on average 10-15 requests per shard-pair. The geographical distribution solves the bandwidth bottleneck (as well as computation and storage to some extent) and lets less advanced hardware still team-up to easily operate on gigabyte (or more) blocks. What is the added latency would people here say from the geographical distribution of the shards?
 
-9h ago
+10h ago
 
 ---
 
@@ -128,7 +128,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I'm the inventor of the "simultaneous video event" Gavin Wood is currently pursuing (Gavin built the first version of Ethereum, then Jeffrey Wilckes and his team built the Golang, and then more came). I have followed "scaling" discussion since 2014, but always found that it was misunderstanding the Nakamoto consensus. But since my proof-of-unique-person requires someone to solve scaling, I took some more looks at the topic and I realized that what the discussion was missing is that the consensus should not be split. Everything happening under a "block of authority" should be by the same group, who trusts one another internally. With that, parallelization can still happen, but the consensus is not split. The concept is really similar otherwise to the "sharding" discussion, it only avoids splitting the consensus. What the discussion in Ethereum was typically in the past decade was to instead randomly assign validators to "shards" from the validator pool. This approach fundamentally misunderstands the consensus. As I realized what everyone got wrong, I was unable to find a system that actually did scale the way things should be done. But, I then noticed there is a system. But if I even mention that here, this gets removed. Not because of the topic I raise, but because of guilt by association. You have created a "community" where you have erased the roots to it, as well as made mention of actual competition (as the roots are often a form of competition, Steve Wozniak would remain a form of competition even as the computer industry outgrew his Apple 2 etc). The system I mentioned is teranode, that is parallelizing the block production but they do so internally under a singular trusted central authority for the "block". Of course Ethereum was the next step after Bitcoin, and my proof-of-unique-person is fundamentally based on the Ethereum paradigm. But Satoshi was who came up with the consensus. Buterin came up with the Turing completeness. Buterin, and Gavin Wood, and Jeffrey Wilckes, were all geniuses in my eyes. But so was Satoshi. "Removing this because it's not about Ethereum. It sort of pretends to be but doesn't make any attempt to work out what Ethereum sharding actually is so the point is clearly just to shill some Craig Wright thing. " Edmund Edgar
 
-17h ago
+18h ago
 
 ---
 
@@ -152,9 +152,9 @@ My post on X about it is here: https://x.com/mudgen/status/1997162259986973052
 
 ## Google News: "ethereum"
 
-**[Ethereum Options Traders More Bullish Than Bitcoin Counterparts: Analysts](https://decrypt.co/351073/ethereum-options-traders-more-bullish-than-bitcoin-counterparts-analysts)**
+**[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
 
-Options data show Ethereum traders are less bearish than Bitcoin’s after recent network upgrades and improving macro uncertainty.
+Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
 
 Decrypt • 2d ago
 
@@ -170,13 +170,7 @@ CCN.com • 2d ago
 
 ZKsync is retiring its original Lite network, formalizing a shift toward ZKsync Era and the ZK Stack as activity on the legacy rollup fades.
 
-Yahoo Finance • 34m ago
-
----
-
-**[ZKsync to deprecate ZKsync Lite in 2026, sunsetting Ethereum's first ZK rollup](https://www.theblock.co/post/381632/zksync-to-deprecate-zksync-lite-in-2026-sunsetting-ethereums-first-zk-rollup)**
-
-The Block • 4h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -188,25 +182,15 @@ The Motley Fool • 8h ago
 
 ---
 
+**[ZKsync to deprecate ZKsync Lite in 2026, sunsetting Ethereum's first ZK rollup](https://www.theblock.co/post/381632/zksync-to-deprecate-zksync-lite-in-2026-sunsetting-ethereums-first-zk-rollup)**
+
+The Block • 5h ago
+
+---
+
 **[Ethereum or Solana: ‘One Crypto Could Outperform in 2026,’ Says Investor](https://www.tipranks.com/news/ethereum-or-solana-one-crypto-could-outperform-in-2026-says-investor)**
 
-TipRanks • 13h ago
-
----
-
-**[Industry Leader Shares Why Ethereum Price Will Reach $12,000](https://www.tradingview.com/news/newsbtc:a204c146d094b:0-industry-leader-shares-why-ethereum-price-will-reach-12-000/)**
-
-Industry leader Tom Lee has shared how the Ethereum price could reach $12,000 within the next few months. He based his prediction on the Bitcoin price action and how ETH could match the flagship crypto on a potential run to the upside. Tom Lee Explains How The Ethereum Price Could Rally To $12,000S…
-
-TradingView • 1d ago
-
----
-
-**[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
-
-Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
-
-Seeking Alpha • 2d ago
+TipRanks • 14h ago
 
 ---
 
@@ -215,6 +199,22 @@ Seeking Alpha • 2d ago
 Ethereum tops the digital asset market with $138.7M in 24-hour net inflows, highlighting strong investor interest.
 
 Crypto Briefing • 1d ago
+
+---
+
+**[Ethereum prepares a controversial 2026 overhaul that will forcibly strip power from the network's most dominant players](https://cryptoslate.com/whats-next-for-ethereum-after-the-fusaka-upgrade/)**
+
+Ethereum's roadmap envisions widespread adoption with future upgrades, aiming to transform global financial systems.
+
+CryptoSlate • 3d ago
+
+---
+
+**[ETHA ETF: Ethereum's Stablecoin Story Is Improving (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4850545-etha-ethereums-stablecoin-story-is-improving)**
+
+Ethereum saw a growing user base and transaction surges. Ethereum's 1,400x fees multiple puts ETH near its all-time high P/F valuation. See more here.
+
+Seeking Alpha • 3d ago
 
 ---
 
@@ -236,7 +236,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 66K • 👍 3K • 💬 343 • ⏱️ 11:32 • 1d ago
+👁️ 67K • 👍 3K • 💬 345 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -246,7 +246,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 245 • 💬 195 • ⏱️ 19:45 • 8h ago
+👁️ 6K • 👍 283 • 💬 193 • ⏱️ 19:45 • 9h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 185 • 💬 5 • ⏱️ 4:06 • 11h ago
+👁️ 3K • 👍 186 • 💬 5 • ⏱️ 4:06 • 12h ago
 
 ---
 
@@ -266,17 +266,17 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 8K • 👍 604 • 💬 86 • ⏱️ 8:01 • 10h ago
+👁️ 9K • 👍 640 • 💬 86 • ⏱️ 8:01 • 11h ago
 
 ---
 
-**[BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Sp9UCKJM-ck)**
+**[Ethereum Long-Term Roadmap: Opportunities and Targets](https://www.youtube.com/watch?v=O_Q9DoW3Faw)**
 
-BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave analysis to forecast potential targets for the ongoing or ...
 
-📺 Crypto World
+📺 MCO Global
 
-👁️ 13K • 👍 424 • 💬 99 • ⏱️ 17:05 • 16h ago
+👁️ 181 • 👍 38 • 💬 2 • ⏱️ 5:16 • 1h ago
 
 ---
 
@@ -290,23 +290,33 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 ---
 
+**[BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Sp9UCKJM-ck)**
+
+BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 13K • 👍 433 • 💬 102 • ⏱️ 17:05 • 17h ago
+
+---
+
 **[Tom Lee&#39;s $62K ETH Bombshell: How $BMNR Shareholders Cash In First](https://www.youtube.com/watch?v=G6oU-K9srYE)**
 
 Tom Lee just dropped the biggest price prediction of his career. Speaking at Binance Blockchain Week in Dubai, the Fundstrat ...
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 62 • 💬 5 • ⏱️ 9:53 • 11h ago
+👁️ 1K • 👍 64 • 💬 7 • ⏱️ 9:53 • 12h ago
 
 ---
 
-**[BE READY FOR THIS MOVE🚨 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=avsUxQjNdQ0)**
+**[Fusaka Upgrade Ignites ETH: 8X Capacity = $5K by Christmas? (Tom Lee Agrees)](https://www.youtube.com/watch?v=W2nN7-U3x5c)**
 
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
+The "Fusaka" (Fulu-Osaka) upgrade is live, and the data is shocking even the developers. Since activating on December 3rd, the ...
 
-📺 Cilinix Crypto
+📺 Wall Street Stockcast
 
-👁️ 419 • 👍 26 • 💬 12 • ⏱️ 5:01 • 15h ago
+👁️ 572 • 👍 26 • 💬 4 • ⏱️ 10:04 • 14h ago
 
 ---
 
@@ -316,17 +326,7 @@ A massive divergence has opened up in the crypto market. On one side, you have t
 
 📺 NextMove Stocks
 
-👁️ 724 • 👍 23 • 💬 1 • ⏱️ 5:59 • 13h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=wn48Y6PjqtE)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 Guitar Repair@StringTech
-
-👁️ 10K • 👍 3K • 20h ago
+👁️ 770 • 👍 24 • 💬 1 • ⏱️ 5:59 • 14h ago
 
 ---
 

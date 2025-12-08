@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T03:12:23.949650+00:00'
+updated: '2025-12-08T04:03:59.963306+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 03:12 UTC  
+**Last Updated:** December 08, 2025 at 04:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 **[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -50,7 +50,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
-8h ago
+9h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 An old picture. The progress is in the coding, and testing, and tuning of the hardware.
 
-11h ago
+12h ago
 
 ---
 
@@ -66,7 +66,23 @@ An old picture. The progress is in the coding, and testing, and tuning of the ha
 
 NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑language‑action foundation model for humanoid robots, built to connect perception, language, and low‑level control so a single policy can handle many manipulation tasks across different embodiments. Since GTC they have released GR00T N1 and then N1.5 with architectural and data upgrades aimed at better generalization, grounding, and language following, plus tooling like simulation blueprints and synthetic motion data pipelines to accelerate training.​​ For anyone here actually playing with GR00T in the lab or integrating it on real hardware: how mature is it right now compared to the keynote demos and marketing? Any experiences with N1 vs N1.5, sim‑to‑real transfer, or using the GR00T toolchain (Dreams / Blueprint / Omniverse etc.) in a serious robotics stack would be super valuable to hear about.​
 
-5m ago
+57m ago
+
+---
+
+**[SO... still CGI ？](https://www.reddit.com/r/robotics/comments/1ph2olj/so_still_cgi/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 1m ago
+
+---
+
+**[Newbie but want to built a small robot need help or guidance if any one can help?](https://www.reddit.com/r/robotics/comments/1ph2iw2/newbie_but_want_to_built_a_small_robot_need_help/)**
+
+I've been seeing the emo robots which look pretty cool but a little expensive. So I decided to challenge myself and make a robot of my own. But I also want a robot that could talk back to me like if i'm talking to a person or a I. But my culture is mexican american , and I want this a I.Robot to have like the soul of a mexican american person. So my question is, how do I start this? As of a shell for the robot could do it later, but for now, just like the brain, how can I get that functioning? Thank you.
+
+9m ago
 
 ---
 
@@ -78,25 +94,11 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 ---
 
-**[How do I learn transformers NOT for NLP?](https://www.reddit.com/r/robotics/comments/1pgziwp/how_do_i_learn_transformers_not_for_nlp/)**
-
-1h ago
-
----
-
 **[I deployed a PPO-trained Bipedal Walker neural network on an STM32 microcontroller 🤖⚡ (full pipeline + code)](https://www.reddit.com/r/robotics/comments/1pgc7uw/i_deployed_a_ppotrained_bipedal_walker_neural/)**
 
 I wanted to see how far we can push low-power hardware, so I trained a PPO model for BipedalWalker-v3, quantized it to INT8 TFLite, converted it into a C array, and ran the whole thing on an STM32H743 microcontroller. Yes — a tiny MCU running a neural network that controls a robot in real time. The repo includes: PPO training (Stable Baselines 3) INT8 TFLite conversion TensorFlow Lite Micro integration UART pipeline STM32 firmware (C/C++) Full article + code here: GitHub: https://github.com/adityabangde/BipedalWalker-PPO-STM32.git Medium Article: https://medium.com/me/stats/post/470ab3c54e92 Happy to answer questions — and if you try this on another MCU, please share! ⚡🤖 https://reddit.com/link/1pgc7uw/video/lx1tr35ifq5g1/player
 
-19h ago
-
----
-
-**[I Unboxed a $25,000 ROBOT HAND for My G1… This Is INSANE! | Inspire RH56F1 Review](https://www.reddit.com/r/robotics/comments/1pgnpfr/i_unboxed_a_25000_robot_hand_for_my_g1_this_is/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/ic5I27NNIv0?si=ii4fyccs01D9m8qa) • 9h ago
+20h ago
 
 ---
 
@@ -148,7 +150,7 @@ Seeking Alpha • 2d ago
 
 Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
 
-CNN • 14h ago
+CNN • 15h ago
 
 ---
 
@@ -178,15 +180,15 @@ Yahoo Finance • 2d ago
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
-CNET • 14h ago
+CNET • 15h ago
 
 ---
 
-**[25-year-old robotics company still growing in West Michigan](https://www.mlive.com/news/grand-rapids/2025/12/25-year-old-robotics-company-still-growing-in-west-michigan.html)**
+**[New robots inside Boise's USPS facility help process and handle packages during holiday rush](https://www.ktvb.com/article/news/local/new-robots-usps-facility-help-process-holiday-rush/277-0ba7c01f-695c-465f-80f4-e2889aeafaa6)**
 
-Hyperion Automation on Wednesday, Dec. 4, revealed its second expansion in three years.
+USPS Boise facility gets four robotic arms to help process 220,000 packages daily during holiday rush, allowing redeployment of workers to areas needing human touch.
 
-MLive.com • 3d ago
+KTVB • 1d ago
 
 ---
 
@@ -194,13 +196,13 @@ MLive.com • 3d ago
 
 ## YouTube Videos: "robotics"
 
-**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
+**[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
 
-The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
+Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
 
-📺 DPCcars
+📺 MarketBeat
 
-👁️ 87K • 👍 440 • 💬 154 • ⏱️ 1:03 • 1d ago
+👁️ 31K • 👍 1K • 💬 80 • ⏱️ 24:47 • 1d ago
 
 ---
 
@@ -210,27 +212,27 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 17K • 👍 368 • 💬 178 • ⏱️ 4:05 • 3d ago
+👁️ 17K • 👍 372 • 💬 178 • ⏱️ 4:05 • 3d ago
 
 ---
 
-**[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
+**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
 
-Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
+The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
 
-📺 MarketBeat
+📺 DPCcars
 
-👁️ 30K • 👍 1K • 💬 80 • ⏱️ 24:47 • 1d ago
+👁️ 97K • 👍 476 • 💬 167 • ⏱️ 1:03 • 1d ago
 
 ---
 
-**[Hidden Details in Unitree&#39;s Latest WILD Humanoid Robot Demos](https://www.youtube.com/watch?v=jXTibM33SDg)**
+**[I Can&#39;t Believe These Robots](https://www.youtube.com/watch?v=mxfH7TmxLsU)**
 
-Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid robots. The company's teleoperation ...
+Hit the new HYPE Button! - It's designed to help smaller channels like me! CHAPTERS ⤵ 00:00 — Welcome Back to Dylan ...
 
-📺 CNET
+📺 Dylan Curious
 
-👁️ 21K • 👍 528 • 💬 72 • ⏱️ 6:05 • 14h ago
+👁️ 5K • 👍 414 • 💬 111 • ⏱️ 34:26 • 1d ago
 
 ---
 
@@ -240,45 +242,17 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 76K • 👍 605 • 💬 281 • ⏱️ 2:30 • 4d ago
+👁️ 76K • 👍 609 • 💬 283 • ⏱️ 2:30 • 4d ago
 
 ---
 
-**[Robot Girl at the Expo Tried Selling Me a Wife 🤖💍](https://www.youtube.com/watch?v=ZKdEqrVIabY)**
+**[Hidden Details in Unitree&#39;s Latest WILD Humanoid Robot Demos](https://www.youtube.com/watch?v=jXTibM33SDg)**
 
-Here's what happened when I asked a robot receptionist about partner models at a tech expo… I was already talking to one ...
+Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid robots. The company's teleoperation ...
 
-📺 AI Robot Reality
+📺 CNET
 
-👁️ 4K • 👍 103 • 💬 4 • ⏱️ 0:19 • 1d ago
-
----
-
-**[China&#39;s humanoid robotics leap: new T800 unveiled](https://www.youtube.com/watch?v=wbLl3aSOzoc)**
-
-For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-new-T800-unveiled-1INHjYVbHGM/p.html ...
-
-📺 CGTN
-
-👁️ 105K • 💬 646 • ⏱️ 1:21 • 4d ago
-
----
-
-**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
-
-Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
-
-📺 Fin Tek
-
-👁️ 67K • 👍 2K • 💬 178 • ⏱️ 21:31 • 2d ago
-
----
-
-**[2025 Advanced Anti-Gravity Hoverboard Showcase. #futuretech #antigravity #hoverboard #robotics](https://www.youtube.com/watch?v=NfrybLAbGqA)**
-
-📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
-
-👁️ 20K • 👍 273 • 💬 13 • ⏱️ 0:11 • 20h ago
+👁️ 22K • 👍 552 • 💬 76 • ⏱️ 6:05 • 15h ago
 
 ---
 
@@ -288,7 +262,33 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 15K • 👍 128 • 💬 5 • ⏱️ 0:25 • 17h ago
+👁️ 16K • 👍 139 • 💬 6 • ⏱️ 0:25 • 18h ago
+
+---
+
+**[China&#39;s humanoid robotics leap: new T800 unveiled](https://www.youtube.com/watch?v=wbLl3aSOzoc)**
+
+For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-new-T800-unveiled-1INHjYVbHGM/p.html ...
+
+📺 CGTN
+
+👁️ 105K • 💬 648 • ⏱️ 1:21 • 4d ago
+
+---
+
+**[2025 Advanced Anti-Gravity Hoverboard Showcase. #futuretech #antigravity #hoverboard #robotics](https://www.youtube.com/watch?v=NfrybLAbGqA)**
+
+📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
+
+👁️ 22K • 👍 290 • 💬 13 • ⏱️ 0:11 • 21h ago
+
+---
+
+**[Purchased the newly released 2025 humanoid robot. #robotics #ai #humanoidrobot #airobot](https://www.youtube.com/watch?v=NJeenJ276ug)**
+
+📺 AI . Robot
+
+👁️ 1.6M • 👍 8K • 💬 46 • ⏱️ 0:17 • 3d ago
 
 ---
 
