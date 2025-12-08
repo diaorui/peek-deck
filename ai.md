@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T21:37:26.897380+00:00'
+updated: '2025-12-08T21:48:11.173732+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 21:37 UTC  
+**Last Updated:** December 08, 2025 at 21:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -71,7 +71,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming releases by names that resemble existing trademarks.
 
-🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 46m ago
+🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 57m ago
 
 ---
 
@@ -93,7 +93,7 @@ The president announced the plans to create one rulebook for AI via his Truth So
 
 **[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -155,13 +155,13 @@ CNN • 6h ago
 
 I'm kidding, I'm kidding.
 
-PC Gamer • 58m ago
+PC Gamer • 1h ago
 
 ---
 
 **[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
 
-The Economist • 16m ago
+The Economist • 26m ago
 
 ---
 
@@ -185,7 +185,7 @@ Bloomberg.com • 3h ago
 
 BNY is integrating Google's Gemini 3 into its internal AI system Eliza, betting on agentic tech as banks race to build next-generation workflows.
 
-Business Insider • 8h ago
+Business Insider • 9h ago
 
 ---
 
@@ -223,7 +223,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 64 • 💬 72 • 3h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 64 • 💬 72 • 4h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -379,7 +379,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,340 • 4h ago
+⬇️ 201,990 • ❤️ 2,340 • 5h ago
 
 ---
 
@@ -553,7 +553,7 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-▲ 108 • 💬 4 • ⭐ 5,441 • 18d ago
+▲ 109 • 💬 4 • ⭐ 5,441 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
@@ -633,7 +633,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.5k • 🔱 430 • 3d ago
+⭐ 5.5k • 🔱 431 • 3d ago
 
 ---
 
@@ -673,7 +673,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 987 • 🔱 121 • 1h ago
+⭐ 990 • 🔱 122 • 1h ago
 
 ---
 
@@ -683,7 +683,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 843 • 🔱 22 • 1d ago
+⭐ 844 • 🔱 22 • 1d ago
 
 ---
 
@@ -693,7 +693,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 834 • 🔱 44 • 1h ago
+⭐ 834 • 🔱 44 • 40m ago
 
 ---
 
@@ -723,7 +723,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 732 • 🔱 111 • 4h ago
+⭐ 733 • 🔱 111 • 4h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T21:37:26.915201+00:00'
+updated: '2025-12-08T21:48:11.191239+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 21:37 UTC  
+**Last Updated:** December 08, 2025 at 21:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -122,7 +122,7 @@ MIT News • 3d ago
 
 The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
 
-Breaking Defense • 6h ago
+Breaking Defense • 7h ago
 
 ---
 
@@ -176,7 +176,7 @@ wallpaper.com • 1d ago
 
 **[Robots Are Coming. What Investors Need to Know.](https://www.barrons.com/articles/robots-stock-investors-b294d6a5?gaa_at=eafs&gaa_n=AWEtsqc_cBr7GXtFJAHN6rwW5jgQeLKwH_dd8_2zbosY0WJkU1-if2-5k5tj&gaa_ts=69374884&gaa_sig=3H_ZtX-OJwTlQrXIfmTIBQjo1bzeSyYsgowL9Q9wBh3OlRKWFINT5GDvSUrZ7dtUk7L1i-yBsE_FE8rXU9-8Ww%3D%3D)**
 
-Barron's • 37m ago
+Barron's • 48m ago
 
 ---
 

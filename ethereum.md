@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T21:37:26.911870+00:00'
+updated: '2025-12-08T21:48:11.187985+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 21:37 UTC  
+**Last Updated:** December 08, 2025 at 21:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.2%  
-**7d:** +4.6%  
-**30d:** -12.7%  
-**90d:** -28.1%  
-**1y:** -15.8%  
+**24h:** +3.3%  
+**7d:** +4.7%  
+**30d:** -12.6%  
+**90d:** -28.0%  
+**1y:** -15.7%  
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Five years ago, an Ethereum standards author was threatened with trademark legal action over the name of a smart contract standard](https://www.reddit.com/r/ethereum/comments/1phe1xy/five_years_ago_an_ethereum_standards_author_was/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 6h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 7h ago
 
 ---
 
@@ -102,7 +102,7 @@ AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ether
 
 Hey everyone, I've been digging into the new ERC-8004 (Trustless Agents) standard and noticed a massive gap in the current AI agent explosion. We have thousands of agents launching on Virtuals/ai16z, but no standardized way to verify their history. If a DAO wants to hire an agent to manage a treasury, how do they know it’s not a rug-pull script? I’m building SynthNet, a modular reputation layer that strictly follows the ERC-8004 spec. I wanted to share my architecture to see if I’m over-engineering this or if this approach makes sense to other devs. The Architecture (Snapshot attached): Layer 1 (Identity): AgentIdentity.sol (ERC-721).This is the "Body" of the agent. It holds the metadata and IPFS/Arweave URI for the service endpoint. It’s fully transferable (you can buy/sell the bot). Layer 2 (Reputation): SoulboundResume.sol (ERC-5192).This is the "Resume." It’s a Soulbound Token (SBT) attached to the Layer 1 NFT. It stores verified job history (e.g., "Managed $1M volume", "Uptime 99%").Critical Design Choice: If you sell the agent (Layer 1), the Resume (Layer 2) goes with it, but the new owner cannot detach it or wipe the bad history. Layer 3 (Validation): VerificationRegistry.sol.This is the logic layer. It allows authorized validators (or other smart contracts) to "stamp" the resume when a task is completed on-chain. Why I built it this way: Most "Agent Marketplaces" right now are just token launchpads. I want to build the Credit Bureau layer. I don’t care about launching the token; I care about verifying that the agent actually does what it says it does. Questions for the community: Is sticking to IERC5192 (Minimal Soulbound) sufficient for the resume, or should I be looking at more complex identity standards? I included a Migration contract to allow agents to migrate reputation from legacy registries. Is this too aggressive for an MVP? Code/Repo is still private while I clean it up, but I’d love feedback on the logic of separating Identity (Tradeable) vs. Reputation (Soulbound). Cheers.
 
-2m ago
+13m ago
 
 ---
 
@@ -152,7 +152,7 @@ I'm extremely new to crypto, I bought USDT on Binance and that I then transferre
 
 **[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -308,7 +308,7 @@ Get lifetime access to my full investing system + all spreadsheets, my real-time
 
 📺 Future Investing
 
-👁️ 7K • 👍 328 • 5h ago
+👁️ 7K • 👍 328 • 6h ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 395 • 👍 30 • 💬 3 • ⏱️ 4:33 • 11h ago
+👁️ 395 • 👍 30 • 💬 3 • ⏱️ 4:33 • 12h ago
 
 ---
 

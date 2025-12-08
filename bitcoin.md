@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T21:37:26.905808+00:00'
+updated: '2025-12-08T21:48:11.182056+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 21:37 UTC  
+**Last Updated:** December 08, 2025 at 21:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** -0.6%  
-**30d:** -13.2%  
-**90d:** -20.1%  
-**1y:** -6.6%  
+**24h:** +1.5%  
+**7d:** -0.4%  
+**30d:** -13.1%  
+**90d:** -20.0%  
+**1y:** -6.4%  
 
 ---
 
@@ -107,19 +107,19 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
 
-17m ago
+27m ago
 
 ---
 
@@ -133,7 +133,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 They didn't trade, they didn't sell to buy back later, they didn't follow the 4-year cycle, nothing. Just HODL Replicate them.
 
-10h ago
+11h ago
 
 ---
 
@@ -183,13 +183,13 @@ Yahoo Finance • 8h ago
 
 BTC's relative weakness compared to stocks points to tepid spot demand, making the largest crypto vulnerable to macro volatility, Bitfinex analysts said.
 
-CoinDesk • 47m ago
+CoinDesk • 57m ago
 
 ---
 
 **[Bitcoin Isn’t Just a Tech Stock on Steroids. What Really Moves It.](https://www.barrons.com/articles/bitcoin-and-stocks-less-correlated-than-investors-think-bac9d908?gaa_at=eafs&gaa_n=AWEtsqcUBSJ-j7wX1h51RD10ugG7nOwgGNHdfG5VrKzjMM7ikFkW3KYOo1-j&gaa_ts=69374880&gaa_sig=Y6gV9wERK3ThZFlMIiPfsjOVVkZ1TCKQo2NSkPxo-H1vdvzJRPh6aXhU5HUdOxiM6gMxjnXO_cpa9bspt2eUQA%3D%3D)**
 
-Barron's • 35m ago
+Barron's • 46m ago
 
 ---
 
@@ -197,7 +197,7 @@ Barron's • 35m ago
 
 Traders on prediction markets are divided, giving an equal chance that bitcoin drops below $80,000 or rises above $100,000 this year....
 
-Sherwood News • 4h ago
+Sherwood News • 5h ago
 
 ---
 
@@ -213,7 +213,7 @@ dlnews.com • 11h ago
 
 New Bitcoin on-chain signals emerge as 10-year coins move ahead of the Fed’s expected rate cut. Market watches FOMC closely.
 
-Yahoo Finance • 41m ago
+Yahoo Finance • 51m ago
 
 ---
 
