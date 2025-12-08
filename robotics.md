@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T11:53:57.003152+00:00'
+updated: '2025-12-08T12:38:26.353797+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 11:53 UTC  
+**Last Updated:** December 08, 2025 at 12:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -52,9 +52,17 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 ---
 
+**[AgiBot co-founder Peng Zhihui announced today that their 5,000th general-purpose embodied robot has officially rolled off the line](https://www.reddit.com/r/robotics/comments/1phaq40/agibot_cofounder_peng_zhihui_announced_today_that/)**
+
+From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
+
+33m ago
+
+---
+
 **[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -62,15 +70,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
-17h ago
-
----
-
-**[Help for my robotic arm project](https://www.reddit.com/r/robotics/comments/1ph62lb/help_for_my_robotic_arm_project/)**
-
-Does any one have build the robotics arm which can be controlled via neural signals? If yes the which servos are preferred? And how many axis where u guys able to achieve it?
-
-4h ago
+18h ago
 
 ---
 
@@ -78,7 +78,7 @@ Does any one have build the robotics arm which can be controlled via neural sign
 
 An old picture. The progress is in the coding, and testing, and tuning of the hardware.
 
-20h ago
+21h ago
 
 ---
 
@@ -86,7 +86,7 @@ An old picture. The progress is in the coding, and testing, and tuning of the ha
 
 NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑language‑action foundation model for humanoid robots, built to connect perception, language, and low‑level control so a single policy can handle many manipulation tasks across different embodiments. Since GTC they have released GR00T N1 and then N1.5 with architectural and data upgrades aimed at better generalization, grounding, and language following, plus tooling like simulation blueprints and synthetic motion data pipelines to accelerate training.​​ For anyone here actually playing with GR00T in the lab or integrating it on real hardware: how mature is it right now compared to the keynote demos and marketing? Any experiences with N1 vs N1.5, sim‑to‑real transfer, or using the GR00T toolchain (Dreams / Blueprint / Omniverse etc.) in a serious robotics stack would be super valuable to hear about.​
 
-8h ago
+9h ago
 
 ---
 
@@ -94,13 +94,13 @@ NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑l
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 7h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 8h ago
 
 ---
 
 **[China's G1 humanoid robot is mastering combat skills at a terrifying rate](https://www.reddit.com/r/robotics/comments/1pghcyh/chinas_g1_humanoid_robot_is_mastering_combat/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -124,19 +124,19 @@ Seeking Alpha • 3d ago
 
 ---
 
-**[Using the Power of Robotics to uncover the secrets of Pompeii](https://www.cnn.com/2025/12/07/world/video/pompeii-robot-fresco-kinkade-pkg-120712aseg2-cnni-world-fast)**
-
-Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
-
-CNN • 23h ago
-
----
-
 **[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
 South China Morning Post • 1d ago
+
+---
+
+**[Using the Power of Robotics to uncover the secrets of Pompeii](https://www.cnn.com/2025/12/07/world/video/pompeii-robot-fresco-kinkade-pkg-120712aseg2-cnni-world-fast)**
+
+Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
+
+CNN • 23h ago
 
 ---
 
@@ -160,13 +160,15 @@ wallpaper.com • 1d ago
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
-CNET • 22h ago
+CNET • 23h ago
 
 ---
 
-**[The Trump Administration Is Shifting Its Focus From AI to This Burgeoning Industry](https://www.inc.com/chris-morris/trump-administration-shifting-focus-from-ai-to-another-burgeoning-industry/91275057)**
+**[EngineAI CEO takes a kick from T800 humanoid to silence CGI rumors](https://interestingengineering.com/ai-robotics/engineai-t800-humanoid-robot-kicks-ceo)**
 
-Inc.com • 50m ago
+Chinese robotics frim EngineAI shows CEO being kicked by T800 robot to prove real-world capabilities amid CGI speculation.
+
+Interesting Engineering • 3h ago
 
 ---
 
@@ -178,11 +180,9 @@ KTVB • 2d ago
 
 ---
 
-**[EngineAI CEO takes a kick from T800 humanoid to silence CGI rumors](https://interestingengineering.com/ai-robotics/engineai-t800-humanoid-robot-kicks-ceo)**
+**[The Trump Administration Is Shifting Its Focus From AI to This Burgeoning Industry](https://www.inc.com/chris-morris/trump-administration-shifting-focus-from-ai-to-another-burgeoning-industry/91275057)**
 
-Chinese robotics frim EngineAI shows CEO being kicked by T800 robot to prove real-world capabilities amid CGI speculation.
-
-Interesting Engineering • 3h ago
+Inc.com • 1h ago
 
 ---
 
@@ -256,7 +256,7 @@ Unitree's latest demos reveal that kickboxing is no longer just for its smaller 
 
 📺 CNET
 
-👁️ 26K • 👍 598 • 💬 93 • ⏱️ 6:05 • 22h ago
+👁️ 26K • 👍 598 • 💬 93 • ⏱️ 6:05 • 23h ago
 
 ---
 

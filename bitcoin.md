@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T11:53:56.993723+00:00'
+updated: '2025-12-08T12:38:26.344174+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- social
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 11:53 UTC  
+**Last Updated:** December 08, 2025 at 12:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,163.31
+### $91,858.53
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.0%  
-**7d:** +0.5%  
-**30d:** -12.3%  
-**90d:** -19.3%  
-**1y:** -5.6%  
+**24h:** +2.9%  
+**7d:** +0.3%  
+**30d:** -12.5%  
+**90d:** -19.5%  
+**1y:** -5.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1835.66B
+**Market Cap:** $1832.18B
 Rank #1
 
-**Circulating Supply:** 19,959,290 BTC
+**Circulating Supply:** 19,959,300 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.1%
+-27.2%
 
 **All-Time Low:** $67.81
-+135493.6%
++135260.6%
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[pahahha i died](https://www.reddit.com/r/Bitcoin/comments/1ph8e2i/pahahha_i_died/)**
+
+2h ago
+
+---
+
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
 5h ago
@@ -85,19 +91,13 @@ Rank #1
 
 **[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
 
-8h ago
+9h ago
 
 ---
 
 **[To all who sold…](https://www.reddit.com/r/Bitcoin/comments/1ph3rsw/to_all_who_sold/)**
 
-6h ago
-
----
-
-**[pahahha i died](https://www.reddit.com/r/Bitcoin/comments/1ph8e2i/pahahha_i_died/)**
-
-2h ago
+7h ago
 
 ---
 
@@ -105,7 +105,27 @@ Rank #1
 
 I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars per week and just set up a direct deposit with strike to do 300 dollars per paycheck (biweekly). Will instantly move my funds to a cold wallet super excited and bullish about btc 5-20 year time horizon EDIT: Just learned about UTXO. I even went to the lengths of setting up direct deposits so I can withdraw BTC faster. Now after learning this I guess the best way is to accumlate more and do one single withdrawal to a cold wallet rather than many smaller ones (correct me if I’m wrong please stilll tryna learn)
 
-9h ago
+10h ago
+
+---
+
+**[Max Pain](https://www.reddit.com/r/Bitcoin/comments/1phasad/max_pain/)**
+
+29m ago
+
+---
+
+**[Buy buy buy!](https://www.reddit.com/r/Bitcoin/comments/1ph9n2c/buy_buy_buy/)**
+
+1h ago
+
+---
+
+**[All Bitcoin legends have one thing in common: they held](https://www.reddit.com/r/Bitcoin/comments/1ph9e5f/all_bitcoin_legends_have_one_thing_in_common_they/)**
+
+They didn't trade, they didn't sell to buy back later, they didn't follow the 4-year cycle, nothing. Just HODL Replicate them.
+
+1h ago
 
 ---
 
@@ -117,29 +137,11 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 ---
 
-**[Buy buy buy!](https://www.reddit.com/r/Bitcoin/comments/1ph9n2c/buy_buy_buy/)**
-
-51m ago
-
----
-
 **[Bitcoin Standard book, in Thai, my wife wanted to know why, not the how.](https://www.reddit.com/r/Bitcoin/comments/1ph7uhj/bitcoin_standard_book_in_thai_my_wife_wanted_to/)**
 
 Really cool they have this at common bookstores in Thailand. The placement could be better hahaha, forex has a better location on the shelves here. FOREX!!! Is bitcoin a type of Forex? Kinda. Its actually the ultimate forex.
 
-2h ago
-
----
-
-**[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
-
-18h ago
-
----
-
-**[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
-
-16h ago
+3h ago
 
 ---
 
@@ -147,19 +149,19 @@ Really cool they have this at common bookstores in Thailand. The placement could
 
 ## Google News: "bitcoin"
 
-**[Bitcoin’s Deep Correction Sets Stage for December Rebound, Says K33 Research](https://www.coindesk.com/markets/2025/12/05/bitcoin-s-deep-correction-sets-stage-for-december-rebound-says-k33-research)**
+**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
 
-K33 Research says market fear is outweighing fundamentals as bitcoin nears key levels. December could offer an entry point for bold investors.
+Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
 
-CoinDesk • 3d ago
+Financial Times • 7h ago
 
 ---
 
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
+**[Bitcoin down for 2025 while S&P 500 is up — a first since 2014](https://finance.yahoo.com/video/bitcoin-down-2025-while-p-215541104.html)**
 
-Which of these popular cryptocurrencies has more upside potential?
+Bitcoin (BTC-USD) is on track to record a yearly decline for 2025, while the S&P 500 (^GSPC) sees gains for the same period. This would mark the first split in crypto and equity performance since 2014, according to Bloomberg. Yahoo Finance Senior Reporter Ines Ferré examines the phenomenon and how precious metal prices (GC=F, SI=F) play a part. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.
 
-The Motley Fool • 15h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -171,36 +173,6 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[ChatGPT Thinks Bitcoin Will Close At This Level By The End of 2025](https://finance.yahoo.com/news/chatgpt-thinks-bitcoin-close-level-142855509.html)**
-
-Bitcoin is starting December on weaker footing as risk assets wobble and the year-end rally narrative gives way to a market working through heavy volatility. BTC has fallen into the mid-$80,000s after trading above $125,000 in early October, leaving ...
-
-Yahoo Finance • 2d ago
-
----
-
-**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
-
-Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
-
-Financial Times • 6h ago
-
----
-
-**[Analyst cuts 60% price target for popular Bitcoin stock](https://www.thestreet.com/crypto/markets/analyst-cuts-60-price-target-for-popular-bitcoin-stock)**
-
-TheStreet • 2d ago
-
----
-
-**[Bitcoin’s biggest booster Michael Saylor fights to stave off an $8 billion collapse and being the first major crypto domino to fall](https://fortune.com/2025/12/03/bitcoins-biggest-booster-michael-saylor-fights-to-stave-off-an-8-billion-collapse-and-being-the-first-major-crypto-domino-to-fall/)**
-
-A rule change could force Saylor's company to sell some of its $650 billion holdings—but crypto veterans say Strategy will be just fine.
-
-Fortune • 4d ago
-
----
-
 **[Bitcoin Is Starting to Look Like a Digital Tulip](https://www.bloomberg.com/news/newsletters/2025-12-06/is-bitcoin-the-digital-version-of-tulips-merryn-talks-money)**
 
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
@@ -209,17 +181,47 @@ Bloomberg.com • 2d ago
 
 ---
 
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
+
+Which of these popular cryptocurrencies has more upside potential?
+
+The Motley Fool • 15h ago
+
+---
+
 **[‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles](https://www.forbes.com/sites/digital-assets/2025/12/07/next-step-is-coming-sec-chair-issues-huge-crypto-prediction-as-the-bitcoin-price-struggles/)**
 
 The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
 
-Forbes • 22h ago
+Forbes • 23h ago
 
 ---
 
 **[Cathie Wood predicts next gold crash, sees Bitcoin outperforming](https://www.thestreet.com/crypto/markets/cathie-wood-predicts-next-gold-crash-bitcoin-outperforming)**
 
-TheStreet • 20h ago
+TheStreet • 21h ago
+
+---
+
+**[Bitcoin turns negative for the week as it fails to hold above $90,000: CNBC Crypto World](https://www.cnbc.com/video/2025/12/05/bitcoin-turns-negative-for-the-week-as-it-fails-to-hold-above-90000-cnbc-crypto-world.html)**
+
+On today's episode of CNBC Crypto World, bitcoin and other major cryptocurrencies turn negative to closer out the week. Plus, prosecutors recommend a 12-year prison sentence for Terraform Labs founder Do Kwon. And Summer Mersinger, CEO of the Blockchain Association, discusses the group's upcoming policy summit in Washington, D.C.
+
+CNBC • 2d ago
+
+---
+
+**[Bring Bitcoin Mining into Your Office Without Noise, Heat, or Hassle](https://www.entrepreneur.com/money-finance/bring-bitcoin-mining-into-your-office-without-noise-heat/500383)**
+
+Entrepreneur • 1d ago
+
+---
+
+**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
+
+Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
+
+Futurism • 1d ago
 
 ---
 
@@ -259,7 +261,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 1 • 20h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 1 • 21h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -283,7 +285,7 @@ Track the next Bitcoin halving event with live countdown and real-time block upd
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 6 • 💬 0 • 4h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 6 • 💬 0 • 5h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -311,7 +313,7 @@ Bitcoin today with Benjamin Cowen!
 
 📺 MMCrypto
 
-👁️ 8K • 👍 1K • 💬 307 • ⏱️ 7:39 • 3h ago
+👁️ 8K • 👍 1K • 💬 307 • ⏱️ 7:39 • 4h ago
 
 ---
 
@@ -321,7 +323,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 305 • ⏱️ 18:52 • 12h ago
+👁️ 22K • 👍 1K • 💬 305 • ⏱️ 18:52 • 13h ago
 
 ---
 
@@ -331,7 +333,7 @@ TIA PRO $1000 OFF LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK 
 
 📺 Jason Pizzino
 
-👁️ 19K • 👍 1K • 💬 381 • ⏱️ 29:13 • 9h ago
+👁️ 19K • 👍 1K • 💬 381 • ⏱️ 29:13 • 10h ago
 
 ---
 
@@ -341,7 +343,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 2K • 👍 264 • 💬 8 • ⏱️ 7:18 • 2h ago
+👁️ 2K • 👍 264 • 💬 8 • ⏱️ 7:18 • 3h ago
 
 ---
 
@@ -361,7 +363,7 @@ Bitcoin Whales Just Flipped Their Bets… Here's What They Know ⚠️ Something
 
 📺 Ryan’s Money Lab
 
-👁️ 26K • 👍 1K • 💬 90 • ⏱️ 11:17 • 19h ago
+👁️ 26K • 👍 1K • 💬 90 • ⏱️ 11:17 • 20h ago
 
 ---
 
@@ -371,7 +373,7 @@ This chart shows the historical backtest of the on-chain risk gauge shown on the
 
 📺 Benjamin Cowen
 
-👁️ 22K • 👍 2K • 💬 65 • ⏱️ 9:57 • 6h ago
+👁️ 22K • 👍 2K • 💬 65 • ⏱️ 9:57 • 7h ago
 
 ---
 
@@ -381,7 +383,7 @@ Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (
 
 📺 MegaWhale Crypto
 
-👁️ 5K • 👍 277 • 💬 313 • ⏱️ 21:14 • 10h ago
+👁️ 5K • 👍 277 • 💬 313 • ⏱️ 21:14 • 11h ago
 
 ---
 
@@ -391,7 +393,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 13K • 👍 527 • 💬 185 • ⏱️ 10:04 • 18h ago
+👁️ 13K • 👍 527 • 💬 185 • ⏱️ 10:04 • 19h ago
 
 ---
 
