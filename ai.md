@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T16:57:10.962187+00:00'
+updated: '2025-12-08T17:26:22.444895+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 16:57 UTC  
+**Last Updated:** December 08, 2025 at 17:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
-3h ago
+4h ago
 
 ---
 
@@ -57,13 +57,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 "For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
-🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 14h ago
-
----
-
-**[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
-
-4h ago
+🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 15h ago
 
 ---
 
@@ -75,11 +69,17 @@ The president announced the plans to create one rulebook for AI via his Truth So
 
 ---
 
+**[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
+
+4h ago
+
+---
+
 **[Why IBM’s CEO doesn’t think current AI tech can get to AGI](https://www.reddit.com/r/artificial/comments/1phd30j/why_ibms_ceo_doesnt_think_current_ai_tech_can_get/)**
 
 IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks big bets like Watsonx and next-gen computing will pay off.
 
-🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 2h ago
+🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 3h ago
 
 ---
 
@@ -95,7 +95,7 @@ Source: https://openrouter.ai/state-of-ai TL;DR 1. new landscape of open source:
 
 : Analysts worry lazy users could have agents complete mandatory infosec training, and attackers could do far nastier things
 
-🔗 [theregister.com](https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/) • 1h ago
+🔗 [theregister.com](https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/) • 2h ago
 
 ---
 
@@ -103,7 +103,7 @@ Source: https://openrouter.ai/state-of-ai TL;DR 1. new landscape of open source:
 
 So I’m a junior dev who just got laid off from my webdev job, and with AI agents on the rise I think it will just get harder and harder to get back into a similar role. Thus, I’m looking to pivot to any area that is more resistant to AI. Preferably in tech. I love learning new stuff, and being unemployed I have more than enough time on my hands so the learning part shouldn’t be a big problem. I just need to find a direction where the skills I learn won’t be rendered worthless by AI anytime soon. I’m thinking either low level stuff like C++, or machine learning. I’m thinking of building a portfolio throughout the process and also building connections along the way. Like, sooner or later these areas will be eaten by AI too, but I would guess it would take some years at least, with machine learning going last? I’ve also been pondering on maybe doing a deep research on all the current AI tools and the underlying tech and see if there’s any edge cases in any domains where I can use that knowledge to build something disruptive. I would imagine that although there’s a lot of AI hype now there will still be a lot of people sleeping on it making for many opportunities. At the same time, AI has made building stuff a lot easier so there will ofc also be increased competition. So what do you guys think about these directions? And any other interesting areas I could go for that will be resistant to AI in the forseeable future?
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ So I’m a junior dev who just got laid off from my webdev job, and with AI agen
 
 Referral link system with points and rewards
 
-🔗 [doac-perks.com](https://doac-perks.com/r/ClDotltjY7) • 4h ago
+🔗 [doac-perks.com](https://doac-perks.com/r/ClDotltjY7) • 5h ago
 
 ---
 
@@ -129,15 +129,33 @@ CNBC • 8h ago
 
 **[The power crunch threatening America’s AI ambitions](https://ig.ft.com/ai-power/)**
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
-**[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws)**
+**[Staying Creative and Human in the Age of AI](https://www.rollingstone.com/culture-council/articles/staying-creative-and-human-in-age-of-ai-1235478600/)**
 
-President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
+If AI has taught me anything, it’s the danger of drifting into mental autopilot.
 
-CNN • 2h ago
+Rolling Stone • 26m ago
+
+---
+
+**[Trump Promises Executive Order to Block State A.I. Regulations](https://www.nytimes.com/2025/12/08/us/politics/trump-executive-order-ai-laws.html)**
+
+The New York Times • 56m ago
+
+---
+
+**[Why there's an AI bubble and why you shouldn't ignore it](https://www.axios.com/2025/12/08/ai-bubble-open-ai-google-bret-taylor)**
+
+Axios • 6h ago
+
+---
+
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqfnUD4pmN1UEf56DCt9pWKx7bSk1e_3pQCk2_CMeEm6zW2F0te5d3Wz&gaa_ts=69370da7&gaa_sig=entl8V-bdx-YDBGrfGOvmCK37s7PDDI_t_xHzhTEzVV1DFavviUo4z9od8Y8Beok5ss9HMVjInqrBZXo-eG9OQ%3D%3D)**
+
+The Wall Street Journal • 2d ago
 
 ---
 
@@ -147,39 +165,11 @@ Bloomberg.com • 2h ago
 
 ---
 
-**[IBM accelerates cloud drive with $11 billion Confluent deal as AI demand booms](https://finance.yahoo.com/news/ibm-buy-confluent-11-billion-130718587.html)**
+**[Artificial intelligence research has a slop problem, academics say: ‘It’s a mess’](https://www.theguardian.com/technology/2025/dec/06/ai-research-papers)**
 
-IBM said on Monday it will buy data infrastructure company Confluent in a deal valued at $11 billion, ramping up ​its cloud-computing offerings to capitalize on an AI-driven demand boom.  Big Blue, under ‌CEO Arvind Krishna, has doubled down on M&As to beef up its cloud and software business - a ‌high-growth, high-margin area - as customers invest to upgrade their digital infrastructure to house complex artificial intelligence applications.  Mountain View, California-based Confluent provides technology needed to manage massive, real-time data streams for artificial intelligence models.
+AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-Yahoo Finance • 2h ago
-
----
-
-**[IBM to buy Confluent to grow AI data processing](https://www.upi.com/Top_News/US/2025/12/08/IBM-Confluent-acquisition-artificial-intelligence-AI-Arvind-Krishna/1241765206609/)**
-
-IBM announced its multi-billion-dollar buyout of streaming Confluent as stock shares spiked nearly 30% and IBM at about 1$ after it was revealed.
-
-upi.com • 45m ago
-
----
-
-**[Intel, Adobe and these other ‘AI loser’ stocks could get left behind in the next phase of the tech boom](https://www.marketwatch.com/story/intel-adobe-and-these-other-ai-loser-stocks-could-get-left-behind-in-the-next-phase-of-the-tech-boom-e6cd25ef?gaa_at=eafs&gaa_n=AWEtsqcbb65VOklfbnXjU6X7KTB6zqAGdn8RHqG_ymJXCyEdTd2QsIe1PiA8&gaa_ts=693701d5&gaa_sig=_-XypXOS5znI3xxjntdQmMWbgpILM-G30F5F0pAV8z_T7hCnxKjx1-OWhXVKLGovOB8Z79uST6pMHSrAhylF0w%3D%3D)**
-
-MarketWatch • 1h ago
-
----
-
-**[Why there's an AI bubble and why you shouldn't ignore it](https://www.axios.com/2025/12/08/ai-bubble-open-ai-google-bret-taylor)**
-
-Axios • 5h ago
-
----
-
-**[Is AI ready to interpret chest X-rays without human supervision?](https://www.statnews.com/2025/12/08/can-ai-interpret-chest-xrays-without-supervision/)**
-
-In radiology, an early adopter of health AI, a debate is brewing: Should generative AI models interpret medical images on their own?
-
-statnews.com • 7h ago
+The Guardian • 2d ago
 
 ---
 
@@ -187,7 +177,13 @@ statnews.com • 7h ago
 
 The new generation began university when ChatGPT launched in 2022 and they now account for roughly half of all ChatGPT usage.
 
-Fortune • 5h ago
+Fortune • 6h ago
+
+---
+
+**[Trump to issue order creating national AI rule](https://www.reuters.com/world/trump-says-he-will-sign-executive-order-this-week-ai-approval-process-2025-12-08/)**
+
+Reuters • 41m ago
 
 ---
 
@@ -197,7 +193,7 @@ Fortune • 5h ago
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 554 • 💬 176 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 556 • 💬 177 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -211,7 +207,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 114 • 💬 203 • 1d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 115 • 💬 203 • 1d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -228,6 +224,14 @@ Welcome to the slop era.
 Wall Street lends billions to AI companies while using credit derivatives and sophisticated bonds to hedge against potential bubble risks.
 
 ⬆️ 73 • 💬 86 • 2d ago • [Rolling Out](https://rollingout.com/2025/12/05/wall-street-protects-itself-ai-bubble/)
+
+---
+
+**[Microsoft has a problem: nobody wants to buy or use its shoddy AI products](https://news.ycombinator.com/item?id=46194615)**
+
+A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
+
+⬆️ 63 • 💬 27 • 31m ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -249,21 +253,13 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-⬆️ 35 • 💬 6 • 21h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
+⬆️ 35 • 💬 6 • 22h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
 
 ---
 
 **[The Reverse Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46176651)**
 
 ⬆️ 32 • 💬 4 • 1d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington)
-
----
-
-**[A fork of Calibre called Clbre, because the AI is stripped out](https://news.ycombinator.com/item?id=46177714)**
-
-A fork of Calibre called Clbre, because the AI is stripped out. - grimthorpe/clbre
-
-⬆️ 27 • 💬 23 • 1d ago • [GitHub](https://github.com/grimthorpe/clbre)
 
 ---
 
@@ -277,7 +273,7 @@ OpenAI is in a full internal race after a major leak revealed a new model called
 
 📺 AI Revolution
 
-👁️ 54K • 👍 1K • 💬 85 • ⏱️ 12:31 • 16h ago
+👁️ 54K • 👍 1K • 💬 85 • ⏱️ 12:31 • 17h ago
 
 ---
 
@@ -307,7 +303,7 @@ Bear releases a struggling fish into a pond #ai #fish #relases #bear.
 
 📺 Ai story Time
 
-👁️ 9K • 👍 183 • 💬 3 • ⏱️ 0:41 • 6h ago
+👁️ 9K • 👍 183 • 💬 3 • ⏱️ 0:41 • 7h ago
 
 ---
 
@@ -327,7 +323,7 @@ Want to make money and save time with AI? Join here: https://juliangoldieai.com/
 
 📺 Julian Goldie SEO
 
-👁️ 4K • 👍 148 • 💬 19 • ⏱️ 8:14 • 17h ago
+👁️ 4K • 👍 148 • 💬 19 • ⏱️ 8:14 • 18h ago
 
 ---
 
@@ -383,7 +379,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,325 • 6d ago
+⬇️ 201,990 • ❤️ 2,326 • 45m ago
 
 ---
 
@@ -395,7 +391,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 28,778 • ❤️ 802 • 7d ago
+⬇️ 28,778 • ❤️ 804 • 7d ago
 
 ---
 
@@ -407,7 +403,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 517 • 13h ago
+⬇️ 40,450 • ❤️ 518 • 14h ago
 
 ---
 
@@ -429,7 +425,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 272 • 6d ago
+⬇️ 0 • ❤️ 273 • 6d ago
 
 ---
 
@@ -451,7 +447,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 3,573 • ❤️ 379 • 6d ago
+⬇️ 3,573 • ❤️ 380 • 6d ago
 
 ---
 
@@ -465,18 +461,6 @@ Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41
 
 ---
 
-**[FLUX.2-dev](https://huggingface.co/black-forest-labs/FLUX.2-dev)**
-
-*Black Forest Labs*
-
-FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image generation and editing, excelling at text-to-image, single/multi-reference editing without finetuning, and style/character transfer.
-
-`image-to-image`
-
-⬇️ 207,838 • ❤️ 936 • 11d ago
-
----
-
 **[Ministral-3-14B-Instruct-2512](https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512)**
 
 *Mistral AI_*
@@ -486,6 +470,18 @@ Ministral 3 14B Instruct is a powerful, edge-optimized multilingual vision-langu
 `13.9B`
 
 ⬇️ 179,920 • ❤️ 148 • 3d ago
+
+---
+
+**[FLUX.2-dev](https://huggingface.co/black-forest-labs/FLUX.2-dev)**
+
+*Black Forest Labs*
+
+FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image generation and editing, excelling at text-to-image, single/multi-reference editing without finetuning, and style/character transfer.
+
+`image-to-image`
+
+⬇️ 207,838 • ❤️ 936 • 11d ago
 
 ---
 
@@ -675,7 +671,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 985 • 🔱 121 • 4h ago
+⭐ 985 • 🔱 121 • 5h ago
 
 ---
 
@@ -695,7 +691,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 832 • 🔱 44 • 9h ago
+⭐ 832 • 🔱 44 • 10h ago
 
 ---
 

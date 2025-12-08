@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T16:57:10.979989+00:00'
+updated: '2025-12-08T17:26:22.462698+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 16:57 UTC  
+**Last Updated:** December 08, 2025 at 17:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -50,7 +50,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
 
-3h ago
+4h ago
 
 ---
 
@@ -58,7 +58,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
-4h ago
+5h ago
 
 ---
 
@@ -78,7 +78,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 **[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -94,15 +94,15 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 Just sharing a small test clip from a sim environment: simple walking + a few controlled kicks. From my experience, getting this kind of behavior to look even remotely stable depends a lot on two things: the accuracy of the rigid-body collisions how well the contact forces are resolved frame-to-frame If either of those is off, the foot either tunnels through the ball or the ball reacts in weird, non-physical ways. With a more accurate physics setup, the kick actually lands where you expect, and the robot’s gait doesn’t blow up.
 
-3h ago
+4h ago
 
 ---
 
-**[Big update: Robert now supports full ChatGPT embodiment. You can switch seamlessly between manual and AI control, and I’ll be releasing the entire system as open source soon. When the coding is done, I will finish connecting the left arm, and show how he is assembled from modules.](https://www.reddit.com/r/robotics/comments/1pgkrgx/big_update_robert_now_supports_full_chatgpt/)**
+**[Billionaire Robot Dogs Roam in Art Basel Miami 2025.](https://www.reddit.com/r/robotics/comments/1phie03/billionaire_robot_dogs_roam_in_art_basel_miami/)**
 
-An old picture. The progress is in the coding, and testing, and tuning of the hardware.
+Robotic dogs cause a scene at art fair. AI tech billionaires as robots exhibit at Art Basel Miami 2025.
 
-1d ago
+1m ago
 
 ---
 
@@ -115,14 +115,6 @@ An old picture. The progress is in the coding, and testing, and tuning of the ha
 MIT researchers at the School of Architecture and Planning developed a speech-to-reality system that combines generative AI, natural language processing, and robotic assembly to fabricate physical objects from spoken prompts.
 
 MIT News • 3d ago
-
----
-
-**[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
-
-Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
-
-Bloomberg.com • 2h ago
 
 ---
 
@@ -187,6 +179,14 @@ wallpaper.com • 1d ago
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
 CNET • 1d ago
+
+---
+
+**[Antioch raises pre-seed funding to accelerate AI robotics testing](https://www.therobotreport.com/antioch-raises-pre-seed-funding-accelerate-ai-robotics-testing/)**
+
+Antioch says its platform allows robots to be tested in virtual environments without the expense and time of other methods.
+
+The Robot Report • 6h ago
 
 ---
 
