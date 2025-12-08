@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T22:45:59.694699+00:00'
+updated: '2025-12-08T22:56:48.727112+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 22:45 UTC  
+**Last Updated:** December 08, 2025 at 22:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most concept machines, this one is production ready and operating in Hebei Province to address the aging rural workforce. The Tech Stack: Autonomy: Uses LiDAR and RTK-GNSS for path planning with ±2.5 cm precision. It handles the entire cycle: ploughing, seeding, spraying and harvesting without a driver. Smart Sensing: Beyond just driving, it collects real-time data on soil composition, moisture, and crop health while running. Powertrain: Pure electric with a dual-motor setup (separating traction from the PTO/farming implements) for better load control. Endurance: Runs for 6 hours on a single charge and coordinates via a 5G mesh network. "Agri-Robotics" is where we are seeing the first massive wave of real world autonomy. If a single person can manage a fleet of these from a tablet, it fundamentally changes the economics of small to medium farms. Source: Lucas
 
-6h ago
+7h ago
 
 ---
 
@@ -74,7 +74,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 According to Reuters, NVIDIA and SoftBank, combined, are looking to invest more than $1 billion into Skild AI.
 
-🔗 [Windows Report](https://windowsreport.com/softbank-nvidia-reportedly-in-talks-to-invest-over-1-billion-into-skild-ai/) • 4h ago
+🔗 [Windows Report](https://windowsreport.com/softbank-nvidia-reportedly-in-talks-to-invest-over-1-billion-into-skild-ai/) • 5h ago
 
 ---
 
@@ -162,7 +162,7 @@ CNN • 1d ago
 
 Chinese robotics frim EngineAI shows CEO being kicked by T800 robot to prove real-world capabilities amid CGI speculation.
 
-Interesting Engineering • 13h ago
+Interesting Engineering • 14h ago
 
 ---
 
@@ -184,7 +184,7 @@ CNET • 1d ago
 
 **[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://www.marketbeat.com/stock-ideas/5-robotics-stocks-catching-momentum-after-new-policy-tailwinds/)**
 
-MarketBeat • 6h ago
+MarketBeat • 7h ago
 
 ---
 

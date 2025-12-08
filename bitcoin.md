@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T22:45:59.685501+00:00'
+updated: '2025-12-08T22:56:48.717985+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 22:45 UTC  
+**Last Updated:** December 08, 2025 at 22:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,800.76
+### $90,820.45
 
 ---
 
@@ -47,7 +47,7 @@ Live Bitcoin monitoring dashboard
 **24h:** +0.7%  
 **7d:** -0.6%  
 **30d:** -13.2%  
-**90d:** -20.1%  
+**90d:** -20.2%  
 **1y:** -6.6%  
 
 ---
@@ -107,7 +107,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -133,7 +133,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 They didn't trade, they didn't sell to buy back later, they didn't follow the 4-year cycle, nothing. Just HODL Replicate them.
 
-11h ago
+12h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Block • 9h ago
 
 What should investors make of Bitcoin's impressive rally off of weekend lows?
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 58m ago
 
 Texas has launched its new cryptocurrency reserve with a $5 million purchase of Bitcoin as the state continues to embrace the volatile and controversial digital currency. The Texas Comptroller’s Office confirmed the purchase was made last month as a “placeholder investment” while the office works to contract with a cryptocurrency bank to manage its portfolio. […]
 
-Baton Rouge Business Report • 1h ago
+Baton Rouge Business Report • 2h ago
 
 ---
 
@@ -211,7 +211,7 @@ MarketWatch • 9h ago
 
 BTC's relative weakness compared to stocks points to tepid spot demand, making the largest crypto vulnerable to macro volatility, Bitfinex analysts said.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -351,7 +351,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 10K • 👍 471 • 💬 689 • ⏱️ 13:29 • 16h ago
+👁️ 10K • 👍 471 • 💬 689 • ⏱️ 13:29 • 17h ago
 
 ---
 

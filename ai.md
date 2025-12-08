@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T22:45:59.677155+00:00'
+updated: '2025-12-08T22:56:48.709745+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
+- social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 22:45 UTC  
+**Last Updated:** December 08, 2025 at 22:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
 
-🔗 [withmartian.com](https://withmartian.com/prize) • 9h ago
+🔗 [withmartian.com](https://withmartian.com/prize) • 10h ago
 
 ---
 
@@ -71,7 +71,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming releases by names that resemble existing trademarks.
 
-🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 1h ago
+🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 2h ago
 
 ---
 
@@ -109,7 +109,7 @@ Title.
 
 The U.S. government will allow Nvidia to export its H200 artificial intelligence chips to China, collecting a fee for each chip, U.S. President Donald Trump said on Monday.  Nvidia shares rose 1.2% in after-hours trading after Trump made the announcement on Truth ​Social, having closed 3.16% higher after Semafor first reported the possibility of approval.  Trump said that he had informed President Xi Jinping of China, where Nvidia's chips are ‌under government scrutiny, about the move and he "responded positively," according to Trump's post.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/us-open-exports-nvidia-h200-180731224.html) • 1h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/us-open-exports-nvidia-h200-180731224.html) • 2h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 6h ago
 
 **[A CIO’s playbook for AI investment](https://www.fastcompany.com/91454162/a-cios-playbook-for-ai-investment)**
 
-Fast Company • 28m ago
+Fast Company • 38m ago
 
 ---
 
@@ -209,7 +209,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 356 • 💬 299 • 5h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 356 • 💬 299 • 6h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -271,7 +271,7 @@ Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Fu
 
 📺 Dan Kieft
 
-👁️ 10K • 💬 8 • ⏱️ 20:04 • 5h ago
+👁️ 10K • 💬 8 • ⏱️ 20:04 • 6h ago
 
 ---
 
@@ -301,7 +301,7 @@ This *free AI video generator* and movie maker just got a "God Mode" upgrade. In
 
 📺 How To In 5 Minutes
 
-👁️ 2K • 👍 169 • 💬 18 • ⏱️ 10:14 • 8h ago
+👁️ 2K • 👍 169 • 💬 18 • ⏱️ 10:14 • 9h ago
 
 ---
 
@@ -563,7 +563,7 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 RealGen is a photorealistic text-to-image framework that uses an LLM for prompt optimization and a diffusion model for image generation, enhanced by a Detector Reward mechanism and RealBench for automated evaluation.
 
-▲ 10 • 💬 1 • ⭐ 37 • 9d ago
+▲ 10 • 💬 1 • ⭐ 65 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.00473) • [💻 code](https://github.com/yejy53/RealGen) • [🔗 project](https://yejy53.github.io/RealGen/)
 
@@ -641,7 +641,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 6h ago
+⭐ 1.6k • 🔱 132 • 7h ago
 
 ---
 
@@ -671,7 +671,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 990 • 🔱 122 • 2h ago
+⭐ 991 • 🔱 122 • 19m ago
 
 ---
 
@@ -701,7 +701,7 @@ Open Source Semantic Search for your AI Agent
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 827 • 🔱 56 • 8d ago
+⭐ 828 • 🔱 56 • 8d ago
 
 ---
 
@@ -721,7 +721,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 733 • 🔱 111 • 5h ago
+⭐ 734 • 🔱 111 • 5h ago
 
 ---
 

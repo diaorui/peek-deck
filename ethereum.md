@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T22:45:59.691490+00:00'
+updated: '2025-12-08T22:56:48.723921+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 22:45 UTC  
+**Last Updated:** December 08, 2025 at 22:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** +4.3%  
-**30d:** -13.0%  
-**90d:** -28.3%  
-**1y:** -16.0%  
+**24h:** +2.2%  
+**7d:** +4.6%  
+**30d:** -12.7%  
+**90d:** -28.1%  
+**1y:** -15.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138,452 ETH, equivalent to about US$435 million, in its latest accumulation round. This bold move boosts BitMine’s total crypto holdings significantly, reinforcing its position as one of the largest institutional holders of Ethereum (ETH) worldwide. Tom Lee and his team cited several catalysts behind this surge: the recent Fusaka upgrade to the Ethereum network — implemented 3 December — which promises improved scalability, security and usability. Additionally, macroeconomic conditions appear favorable, with expectations of a loosening monetary policy by the Federal Reserve potentially supporting broader crypto market recovery. The scale of the purchase (over 138,000 ETH in just a week) marks a dramatic acceleration compared to previous buying patterns — reportedly about 156 % more than the firm’s weekly average four weeks ago. In doing so, BitMine pushes further toward its longer-term target of controlling up to 5 % of Ethereum’s total supply. In sum, this $435 million acquisition underlines BitMine’s growing conviction in Ethereum’s long-term potential, signaling confidence in both network upgrades and macroeconomic conditions that may favor a renewed bull cycle in crypto.
 
-7h ago
+8h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 4h ago
 
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -184,7 +184,7 @@ Decrypt • 20h ago
 
 The trading platform dives further into digital assets both domestically and globally.
 
-Fortune • 36m ago
+Fortune • 47m ago
 
 ---
 
@@ -240,7 +240,7 @@ In today's Milk Road episode, we sit down with CMT Digital's Aryan Sheikhalian t
 
 📺 Milk Road
 
-👁️ 315 • 👍 72 • 💬 48 • ⏱️ 33:06 • 2h ago
+👁️ 315 • 👍 72 • 💬 48 • ⏱️ 33:06 • 3h ago
 
 ---
 
@@ -290,7 +290,7 @@ BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available ever
 
 📺 Lark Davis
 
-👁️ 14K • 👍 745 • 💬 73 • ⏱️ 37:57 • 10h ago
+👁️ 14K • 👍 745 • 💬 73 • ⏱️ 37:57 • 11h ago
 
 ---
 
