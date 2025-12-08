@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T07:21:30.043917+00:00'
+updated: '2025-12-08T07:42:06.246814+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- social
-- videos
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 07:21 UTC  
+**Last Updated:** December 08, 2025 at 07:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -71,7 +71,7 @@ I kept getting frustrated with the job search process, especially the part where
 
 **[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
 
-🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 16h ago
+🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 17h ago
 
 ---
 
@@ -95,7 +95,7 @@ A new study finds ChatGPT fails to take into account retraction notices across a
 
 Just did this myself, and now sharing for others! I have ChatGPT Plus, and when I tried to cancel it offered me a free month. Worked for two of my friends as well. Steps Go to chatgpt on your web browser At the bottom left click on your name (you need to be logged in) Click on Settings Click on last section: Account Near top right click on: Manage Click on: Cancel Subscription Done!
 
-13h ago
+14h ago
 
 ---
 
@@ -103,7 +103,7 @@ Just did this myself, and now sharing for others! I have ChatGPT Plus, and when 
 
 Another day, another AI-related domain name going for 7 figures.
 
-🔗 [bizjournals.com](https://www.bizjournals.com/southflorida/news/2025/12/03/aireviews-corporation-domain-name-acquisition.html) • 9h ago
+🔗 [bizjournals.com](https://www.bizjournals.com/southflorida/news/2025/12/03/aireviews-corporation-domain-name-acquisition.html) • 10h ago
 
 ---
 
@@ -111,7 +111,7 @@ Another day, another AI-related domain name going for 7 figures.
 
 Could AI help us create virtual human cells? 🦠 Scientists are training AI to create virtual human cells, digital models that mimic how real cells behave. These simulations can predict how a cell might respond to medication, genetic mutations, or physical damage. While live lab tests are still essential, AI-powered models could make research faster, safer, and more personalized. By reducing trial-and-error in early stages, these tools could unlock faster drug discovery and bring us closer to tailored treatments for individuals.
 
-14h ago
+15h ago
 
 ---
 
@@ -119,11 +119,11 @@ Could AI help us create virtual human cells? 🦠 Scientists are training AI to 
 
 ## Google News: "ai"
 
-**['Godfather of AI' says CS degrees 'will remain valuable for quite a long time' — and students should still learn to code](https://www.businessinsider.com/godfather-ai-geoffrey-hinton-cs-degrees-valuable-learn-to-code-2025-12)**
+**[Artificial intelligence research has a slop problem, academics say: ‘It’s a mess’](https://www.theguardian.com/technology/2025/dec/06/ai-research-papers)**
 
-AI pioneer and Nobel Prize winner Geoffrey Hinton said students who want to become AI researchers need to focus on critical thinking.
+AI research in question as author claims to have written over 100 papers on AI that one expert calls a ‘disaster’
 
-Business Insider • 21h ago
+The Guardian • 1d ago
 
 ---
 
@@ -135,39 +135,31 @@ CBS News • 17h ago
 
 ---
 
+**[Young people aren't getting hired, but it's not because of AI](https://www.businessinsider.com/ai-impact-jobs-youth-unemployment-hiring-freeze-uncertainty-tariffs-2025-12)**
+
+A hiring freeze, not AI, is pushing youth unemployment higher as firms pause expansion amid uncertainty and tariffs.
+
+Business Insider • 2h ago
+
+---
+
+**[Watch Bridgewater's Dalio on AI and Investment Landscape](https://www.bloomberg.com/news/videos/2025-12-08/bridgewater-s-dalio-on-ai-and-investment-landscape-video)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[The Next Giant Leap For AI Is Called World Models](https://www.forbes.com/sites/bernardmarr/2025/12/08/the-next-giant-leap-for-ai-is-called-world-models/)**
+
+World models represent the next frontier in AI, enabling machines to create immersive, interactive 3D environments  with realistic physics and responsive inhabitants.
+
+Forbes • 1h ago
+
+---
+
 **[The power crunch threatening America’s AI ambitions](https://ig.ft.com/ai-power/)**
 
 Financial Times • 2h ago
-
----
-
-**[Scores of UK parliamentarians join call to regulate most powerful AI systems](https://www.theguardian.com/technology/2025/dec/08/scores-of-uk-parliamentarians-join-call-to-regulate-most-powerful-ai-systems)**
-
-Exclusive: Campaign urges PM to show independence from US and push to rein in development of superintelligence
-
-The Guardian • 2h ago
-
----
-
-**[Why Nvidia and Other AI Stocks Have Lost Their ‘Quality’ Status](https://www.wsj.com/finance/investing/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status-84180ff2?gaa_at=eafs&gaa_n=AWEtsqelRyBdjIRGg19PA0Yu0ok9bjEtMQI9SvpA3rEY1zfS8d8aSn3qilHn&gaa_ts=69367969&gaa_sig=I8INN0kBMBxkC78BXeOJJVDftxlNcTb8xOxjfapZ9s1iFT14Ti26nQ2LYrVCi96xHS5VejCNcokARLr4tZXBIw%3D%3D)**
-
-The Wall Street Journal • 20h ago
-
----
-
-**[Is the AI Boom Becoming a Bubble? Here's What Investors Should Watch.](https://finance.yahoo.com/news/ai-boom-becoming-bubble-heres-044000441.html)**
-
-In a frothy market, it's more important than ever to stay focused on profitable leaders with a dominant market position.
-
-Yahoo Finance • 2h ago
-
----
-
-**[OpenAI Goes From Stock Market Savior to Burden as AI Risks Mount](https://www.bloomberg.com/news/articles/2025-12-07/openai-goes-from-stock-market-savior-to-anchor-as-ai-risks-mount)**
-
-Wall Street’s sentiment toward companies associated with artificial intelligence is shifting, and it’s all about two companies: OpenAI is down, and Alphabet Inc. is up.
-
-Bloomberg.com • 17h ago
 
 ---
 
@@ -179,6 +171,14 @@ CNBC • 18h ago
 
 ---
 
+**[Apple's executive exodus sends a signal about its AI strategy](https://finance.yahoo.com/news/apples-executive-exodus-sends-a-signal-about-its-ai-strategy-150058611.html)**
+
+A number of executives are departing Apple. At least some of them are related to its AI strategy.
+
+Yahoo Finance • 16h ago
+
+---
+
 **[Jamie Dimon on AI: 'maybe one day we'll be working less hard but having wonderful lives'](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/)**
 
 "For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
@@ -187,11 +187,9 @@ Fortune • 13h ago
 
 ---
 
-**[Creative workers on the affects of AI on their jobs](https://www.bbc.com/news/articles/c8e9627w156o)**
+**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqf7S2b9MP22aGvlcVh1qQED8PwdykNbZCAZf-UQXgHE-hSLfa22vols&gaa_ts=693684b4&gaa_sig=tGgYKk0NOpmMenpuXmLFsRPr8TD4Z0NwVy6RdyY-N5MVYrCHWg8kDqBisk2SJBcIiHQ1_V5V9KrGLjekyYxlBg%3D%3D)**
 
-How do an artist, a videographer, a musician and a copywriter feel about generative AI?
-
-BBC • 1d ago
+The Wall Street Journal • 1d ago
 
 ---
 
@@ -209,7 +207,7 @@ Build with Gemini 3 Pro, the best model in the world for multimodal capabilities
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 456 • 💬 150 • 18h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 469 • 💬 156 • 19h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -223,7 +221,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 107 • 💬 188 • 14h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 108 • 💬 189 • 14h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -253,7 +251,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 38 • 💬 13 • 18h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 39 • 💬 13 • 18h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -261,7 +259,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-⬆️ 33 • 💬 6 • 11h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
+⬆️ 34 • 💬 6 • 12h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
 
 ---
 
@@ -387,7 +385,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 25,451 • ❤️ 787 • 6d ago
+⬇️ 25,451 • ❤️ 790 • 6d ago
 
 ---
 
@@ -399,7 +397,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 186,951 • ❤️ 2,280 • 5d ago
+⬇️ 186,951 • ❤️ 2,283 • 5d ago
 
 ---
 
@@ -411,7 +409,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 6,281 • ❤️ 539 • 6d ago
+⬇️ 6,281 • ❤️ 540 • 6d ago
 
 ---
 
@@ -423,7 +421,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 470 • 4h ago
+⬇️ 27,215 • ❤️ 473 • 4h ago
 
 ---
 
@@ -455,7 +453,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,828 • ❤️ 369 • 6d ago
+⬇️ 2,828 • ❤️ 370 • 6d ago
 
 ---
 
@@ -465,7 +463,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.
 
-⬇️ 292 • ❤️ 167 • 4d ago
+⬇️ 292 • ❤️ 168 • 4d ago
 
 ---
 
@@ -477,7 +475,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 205,376 • ❤️ 926 • 10d ago
+⬇️ 205,376 • ❤️ 927 • 10d ago
 
 ---
 
@@ -489,7 +487,7 @@ Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high
 
 `text-to-image`
 
-⬇️ 1,960 • ❤️ 176 • 4d ago
+⬇️ 1,960 • ❤️ 177 • 4d ago
 
 ---
 

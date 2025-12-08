@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T07:21:30.056987+00:00'
+updated: '2025-12-08T07:42:06.261311+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- social
 - videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 07:21 UTC  
+**Last Updated:** December 08, 2025 at 07:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.8%  
-**7d:** +4.3%  
-**30d:** -12.9%  
-**90d:** -28.3%  
-**1y:** -16.0%  
+**24h:** +3.1%  
+**7d:** +4.6%  
+**30d:** -12.7%  
+**90d:** -28.1%  
+**1y:** -15.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $378.71B
+**Market Cap:** $378.53B
 Rank #2
 
 **Circulating Supply:** 120,695,342 ETH
@@ -62,7 +62,7 @@ No max supply
 -36.6%
 
 **All-Time Low:** $0.43
-+724517.1%
++723995.2%
 
 ---
 
@@ -152,6 +152,12 @@ I'm the inventor of the "simultaneous video event" Gavin Wood is currently pursu
 
 ## Google News: "ethereum"
 
+**[ZKsync to deprecate ZKsync Lite in 2026, sunsetting Ethereum's first ZK rollup](https://www.theblock.co/post/381632/zksync-to-deprecate-zksync-lite-in-2026-sunsetting-ethereums-first-zk-rollup)**
+
+The Block • 9h ago
+
+---
+
 **[Bitcoin, Ethereum and XRP Dive as Liquidations Hit $500 Million—While Stocks Rise](https://decrypt.co/351123/bitcoin-ethereum-xrp-dive-liquidations-hit-500-million-stocks-rise)**
 
 Bitcoin is back below the $90,000 mark as Ethereum flirts with another dip below $3,000—all while major stock indices stay green.
@@ -160,37 +166,23 @@ Decrypt • 2d ago
 
 ---
 
-**[Tom Lee Claims Ethereum Will Hit $62,000 in Next Few Months, Ramps up Bitcoin Call to $250,000](https://www.ccn.com/news/crypto/tom-lee-ethereum-hit-62000-bitcoin-call-250000/)**
-
-CCN.com • 2d ago
-
----
-
 **[3 Reasons to Buy Ethereum Before January 2026](https://finance.yahoo.com/news/3-reasons-buy-ethereum-january-193000879.html)**
 
 Ethereum could be once again on the path to the $5,000 price level. Here's why.
 
-Yahoo Finance • 11h ago
-
----
-
-**[ZKsync to deprecate ZKsync Lite in 2026, sunsetting Ethereum's first ZK rollup](https://www.theblock.co/post/381632/zksync-to-deprecate-zksync-lite-in-2026-sunsetting-ethereums-first-zk-rollup)**
-
-The Block • 8h ago
+Yahoo Finance • 12h ago
 
 ---
 
 **[Ethereum or Solana: ‘One Crypto Could Outperform in 2026,’ Says Investor](https://www.tipranks.com/news/ethereum-or-solana-one-crypto-could-outperform-in-2026-says-investor)**
 
-TipRanks • 17h ago
+TipRanks • 18h ago
 
 ---
 
-**[Ethereum prepares a controversial 2026 overhaul that will forcibly strip power from the network's most dominant players](https://cryptoslate.com/whats-next-for-ethereum-after-the-fusaka-upgrade/)**
+**[Tom Lee Claims Ethereum Will Hit $62,000 in Next Few Months, Ramps up Bitcoin Call to $250,000](https://www.ccn.com/news/crypto/tom-lee-ethereum-hit-62000-bitcoin-call-250000/)**
 
-Ethereum's roadmap envisions widespread adoption with future upgrades, aiming to transform global financial systems.
-
-CryptoSlate • 3d ago
+CCN.com • 2d ago
 
 ---
 
@@ -226,6 +218,14 @@ The Motley Fool • 1d ago
 
 ---
 
+**[What Bitmine Immersion Technologies (BMNR)'s Pivot to Ethereum Treasury and Dividend Means For Shareholders](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-pivot-100740579.html)**
+
+Bitmine Immersion Technologies has recently transformed into a crypto treasury and services platform, amassing more than 3% of Ethereum’s supply, boosting its Ethereum and Bitcoin holdings, returning to profit in 2025 and declaring a US$0.01 dividend payable on December 29, 2025. By targeting ownership of up to 5% of all Ethereum and scaling staking and fee-based services, the company is increasingly positioning its equity as a leveraged proxy on the Ethereum ecosystem rather than a...
+
+Yahoo Finance • 21h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -256,7 +256,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 310 • 💬 187 • ⏱️ 19:45 • 12h ago
+👁️ 7K • 👍 310 • 💬 187 • ⏱️ 19:45 • 13h ago
 
 ---
 
@@ -276,7 +276,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 419 • 👍 75 • 💬 15 • ⏱️ 5:16 • 4h ago
+👁️ 419 • 👍 75 • 💬 15 • ⏱️ 5:16 • 5h ago
 
 ---
 
@@ -306,7 +306,7 @@ For a decade, the "Flippening" (Ethereum overtaking Bitcoin in market cap) was a
 
 📺 Wall Street Stockcast
 
-👁️ 263 • 👍 11 • ⏱️ 8:45 • 16h ago
+👁️ 263 • 👍 11 • ⏱️ 8:45 • 17h ago
 
 ---
 
@@ -326,7 +326,7 @@ BITCOIN PRICE SQUEEZE: This is Coming Next!!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 14K • 👍 441 • 💬 98 • ⏱️ 17:05 • 20h ago
+👁️ 14K • 👍 441 • 💬 98 • ⏱️ 17:05 • 21h ago
 
 ---
 

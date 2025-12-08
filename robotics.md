@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T07:21:30.059940+00:00'
+updated: '2025-12-08T07:42:06.264678+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 07:21 UTC  
+**Last Updated:** December 08, 2025 at 07:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,21 +56,13 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
-12h ago
+13h ago
 
 ---
 
 **[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
 
 1h ago
-
----
-
-**[Big update: Robert now supports full ChatGPT embodiment. You can switch seamlessly between manual and AI control, and I’ll be releasing the entire system as open source soon. When the coding is done, I will finish connecting the left arm, and show how he is assembled from modules.](https://www.reddit.com/r/robotics/comments/1pgkrgx/big_update_robert_now_supports_full_chatgpt/)**
-
-An old picture. The progress is in the coding, and testing, and tuning of the hardware.
-
-16h ago
 
 ---
 
@@ -82,6 +74,22 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
+**[Big update: Robert now supports full ChatGPT embodiment. You can switch seamlessly between manual and AI control, and I’ll be releasing the entire system as open source soon. When the coding is done, I will finish connecting the left arm, and show how he is assembled from modules.](https://www.reddit.com/r/robotics/comments/1pgkrgx/big_update_robert_now_supports_full_chatgpt/)**
+
+An old picture. The progress is in the coding, and testing, and tuning of the hardware.
+
+16h ago
+
+---
+
+**[Help for my robotic arm project](https://www.reddit.com/r/robotics/comments/1ph62lb/help_for_my_robotic_arm_project/)**
+
+Does any one have build the robotics arm which can be controlled via neural signals? If yes the which servos are preferred? And how many axis where u guys able to achieve it?
+
+31m ago
+
+---
+
 **[What's going on with NVIDIA Groot?](https://www.reddit.com/r/robotics/comments/1ph1l8z/whats_going_on_with_nvidia_groot/)**
 
 NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑language‑action foundation model for humanoid robots, built to connect perception, language, and low‑level control so a single policy can handle many manipulation tasks across different embodiments. Since GTC they have released GR00T N1 and then N1.5 with architectural and data upgrades aimed at better generalization, grounding, and language following, plus tooling like simulation blueprints and synthetic motion data pipelines to accelerate training.​​ For anyone here actually playing with GR00T in the lab or integrating it on real hardware: how mature is it right now compared to the keynote demos and marketing? Any experiences with N1 vs N1.5, sim‑to‑real transfer, or using the GR00T toolchain (Dreams / Blueprint / Omniverse etc.) in a serious robotics stack would be super valuable to hear about.​
@@ -90,17 +98,9 @@ NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑l
 
 ---
 
-**[RIVR showing how last-mile delivery of the future might look like](https://www.reddit.com/r/robotics/comments/1pfmn8a/rivr_showing_how_lastmile_delivery_of_the_future/)**
-
-Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
-
-1d ago
-
----
-
 **[China's G1 humanoid robot is mastering combat skills at a terrifying rate](https://www.reddit.com/r/robotics/comments/1pghcyh/chinas_g1_humanoid_robot_is_mastering_combat/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -156,12 +156,6 @@ Yahoo Finance • 3d ago
 
 ---
 
-**[Why AI and Robotics Are Now National Security Assets](https://etftrends.com/artificial-intelligence-content-hub/why-ai-robotics-national-security-assets/)**
-
-ETF Trends • 3d ago
-
----
-
 **[Unitree's Big Humanoid Robots Are Fighting Now](https://www.cnet.com/tech/computing/unitrees-big-humanoid-robots-are-fighting-now/)**
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
@@ -181,6 +175,14 @@ KTVB • 2d ago
 **[Need laundry folded? Don’t ask a robot](https://knowablemagazine.org/content/article/technology/2025/why-robots-cant-fold-laundry)**
 
 Knowable Magazine • 3d ago
+
+---
+
+**[This Top Chip Stock Could Also Be the Best Way to Play a New Trump Robotics Rally](https://www.barchart.com/story/news/36496863/this-top-chip-stock-could-also-be-the-best-way-to-play-a-new-trump-robotics-rally)**
+
+America’s robotics race is heating up under the Trump administration, and AMD might be the cleanest way to get in early.
+
+Barchart.com • 17h ago
 
 ---
 
@@ -274,7 +276,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 18K • 👍 157 • 💬 6 • ⏱️ 0:25 • 21h ago
+👁️ 18K • 👍 157 • 💬 6 • ⏱️ 0:25 • 22h ago
 
 ---
 

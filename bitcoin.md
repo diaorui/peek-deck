@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T07:21:30.051558+00:00'
+updated: '2025-12-08T07:42:06.255226+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 07:21 UTC  
+**Last Updated:** December 08, 2025 at 07:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,398.77
+### $91,765.04
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.6%  
-**7d:** +0.0%  
-**30d:** -12.7%  
-**90d:** -19.7%  
-**1y:** -6.0%  
+**24h:** +2.9%  
+**7d:** +0.3%  
+**30d:** -12.5%  
+**90d:** -19.5%  
+**1y:** -5.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1828.78B
+**Market Cap:** $1832.27B
 Rank #1
 
 **Circulating Supply:** 19,959,215 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.3%
+-27.2%
 
 **All-Time Low:** $67.81
-+135012.8%
++135253.2%
 
 ---
 
@@ -77,21 +77,7 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
-
-12h ago
-
----
-
 **[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
-
-4h ago
-
----
-
-**[Bought at 125k and lowered my avg to 99k](https://www.reddit.com/r/Bitcoin/comments/1ph0yda/bought_at_125k_and_lowered_my_avg_to_99k/)**
-
-I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars per week and just set up a direct deposit with strike to do 300 dollars per paycheck (biweekly). Will instantly move my funds to a cold wallet super excited and bullish about btc 5-20 year time horizon EDIT: Just learned about UTXO. I even went to the lengths of setting up direct deposits so I can withdraw BTC faster. Now after learning this I guess the best way is to accumlate more and do one single withdrawal to a cold wallet rather than many smaller ones (correct me if I’m wrong please stilll tryna learn)
 
 4h ago
 
@@ -100,6 +86,20 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 **[To all who sold…](https://www.reddit.com/r/Bitcoin/comments/1ph3rsw/to_all_who_sold/)**
 
 2h ago
+
+---
+
+**[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
+
+54m ago
+
+---
+
+**[Bought at 125k and lowered my avg to 99k](https://www.reddit.com/r/Bitcoin/comments/1ph0yda/bought_at_125k_and_lowered_my_avg_to_99k/)**
+
+I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars per week and just set up a direct deposit with strike to do 300 dollars per paycheck (biweekly). Will instantly move my funds to a cold wallet super excited and bullish about btc 5-20 year time horizon EDIT: Just learned about UTXO. I even went to the lengths of setting up direct deposits so I can withdraw BTC faster. Now after learning this I guess the best way is to accumlate more and do one single withdrawal to a cold wallet rather than many smaller ones (correct me if I’m wrong please stilll tryna learn)
+
+5h ago
 
 ---
 
@@ -114,6 +114,12 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 **[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
 
 13h ago
+
+---
+
+**[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
+
+12h ago
 
 ---
 
@@ -139,14 +145,6 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 ---
 
-**[Quick question don’t laugh](https://www.reddit.com/r/Bitcoin/comments/1pgyv8l/quick_question_dont_laugh/)**
-
-Back in 2015 I first read an article about bitcoin and did some googling and I wanted to have some btc so I joined the pool because as a uni student from India in 2015 that was the only was I was gonna get some so I joined a mining pool but after a few days I lost interest. This is the screenshot from the mining pool I joined. Is there anyway to get the btc I mined there?
-
-6h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -167,12 +165,6 @@ Decrypt • 14h ago
 
 ---
 
-**[Michael Saylor Explains Why Banks Are No Longer Waiting for Bitcoin](https://www.binance.com/en/square/post/33413939298642)**
-
-Binance • 7h ago
-
----
-
 **[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
 
 Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
@@ -181,9 +173,17 @@ Financial Times • 2h ago
 
 ---
 
-**[Analyst cuts 60% price target for popular Bitcoin stock](https://www.thestreet.com/crypto/markets/analyst-cuts-60-price-target-for-popular-bitcoin-stock)**
+**[Michael Saylor Explains Why Banks Are No Longer Waiting for Bitcoin](https://www.binance.com/en/square/post/33413939298642)**
 
-TheStreet • 2d ago
+Binance • 7h ago
+
+---
+
+**[Michael Saylor’s Bitcoin Playbook Backfires on 100+ Companies](https://finance.yahoo.com/news/michael-saylor-bitcoin-playbook-backfires-101022120.html)**
+
+Digital asset treasury companies that rushed to copy Michael Saylor’s Bitcoin strategy are now hemorrhaging shareholder value, with median stock prices down 43% year to date, even as the broader market climbs higher, as per Bloomberg.Source: BloombergMore than 100 publicly traded companies transformed themselves into cryptocurrency-holding vehicles in the first ...
+
+Yahoo Finance • 21h ago
 
 ---
 
@@ -192,12 +192,6 @@ TheStreet • 2d ago
 It’s been a tough few weeks for holders of Bitcoin. Not long ago you could, with a little effort, make a reasonable case that it was a bit like gold. Digital gold.
 
 Bloomberg.com • 2d ago
-
----
-
-**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
-
-TheStreet • 2d ago
 
 ---
 
@@ -213,15 +207,21 @@ CNBC • 2d ago
 
 Which of these popular cryptocurrencies has more upside potential?
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
-**[Crypto Adoption Continues Even As Bitcoin Stumbles](https://www.forbes.com/sites/digital-assets/2025/12/07/crypto-adoption-continues-even-as-bitcoin-stumbles/)**
+**[JPMorgan reveals new Bitcoin price if it trades like gold](https://www.thestreet.com/crypto/trading/jpmorgan-reveals-new-bitcoin-price-if-it-trades-like-gold)**
 
-Crypto volatility has returned, but has not slowed adoption by institutions
+TheStreet • 2d ago
 
-Forbes • 10h ago
+---
+
+**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
+
+Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
+
+Futurism • 1d ago
 
 ---
 
@@ -281,17 +281,19 @@ Track the next Bitcoin halving event with live countdown and real-time block upd
 
 ---
 
-**[Market Volatility Underscores Epic Buildup of Global Risk](https://news.ycombinator.com/item?id=46104355)**
-
-⬆️ 2 • 💬 3 • 7d ago • [nytimes.com](https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html)
-
----
-
 **[Retail-trader Eric Jackson says the crypto bear market is a maximum opportunity](https://news.ycombinator.com/item?id=46135976)**
 
 Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever been. His bullish outlook drew swift pushback from a famous short-seller.
 
 ⬆️ 2 • 💬 1 • 4d ago • [Business Insider](https://www.businessinsider.com/bitcoin-price-eric-jackson-bullish-ethereum-crypto-btc-eth-ai-2025-12)
+
+---
+
+**[Married millennials, here comes the crypto divorce cliff](https://news.ycombinator.com/item?id=46189380)**
+
+Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
+
+⬆️ 2 • 💬 0 • 19m ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -311,7 +313,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 241 • ⏱️ 18:52 • 7h ago
+👁️ 16K • 👍 1K • 💬 241 • ⏱️ 18:52 • 8h ago
 
 ---
 
@@ -321,7 +323,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 310 • 💬 187 • ⏱️ 19:45 • 12h ago
+👁️ 7K • 👍 310 • 💬 187 • ⏱️ 19:45 • 13h ago
 
 ---
 
@@ -361,7 +363,7 @@ Michael Saylor joins Bitcoin MENA to deliver a strategic outlook on the future o
 
 📺 Kevtech IT Support
 
-👁️ 4K • 👍 3K • 1h ago
+👁️ 4K • 👍 3K • 2h ago
 
 ---
 
