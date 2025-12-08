@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T17:44:58.235948+00:00'
+updated: '2025-12-08T17:56:24.128704+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 17:44 UTC  
+**Last Updated:** December 08, 2025 at 17:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -90,19 +90,19 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 ---
 
+**[UFactory xArm 6 with gripper for sale - UK](https://www.reddit.com/r/robotics/comments/1phhqde/ufactory_xarm_6_with_gripper_for_sale_uk/)**
+
+Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a shelf unused and I'm sure someone out there (UK based) can make much better use of it than I can. This unit is used but in good working condition. It has the gripper attachment included and comes as part of the package. I don't have the original box anymore but I can box it up with protective materials and another suitably strong box if shipping or ideally could be collected or delivered to the new owner. The uFactory x-arm 6 is a 6 axis robot featuring a 5kg payload capacity, 700mm reach. This unit has a gripper attachment included and is compatible with multiple operating systems using the xArm studio software.
+
+55m ago
+
+---
+
 **[Robot kicking a soccer ball in sim，contact accuracy & rigid body dynamics](https://www.reddit.com/r/robotics/comments/1phbq9l/robot_kicking_a_soccer_ball_in_simcontact/)**
 
 Just sharing a small test clip from a sim environment: simple walking + a few controlled kicks. From my experience, getting this kind of behavior to look even remotely stable depends a lot on two things: the accuracy of the rigid-body collisions how well the contact forces are resolved frame-to-frame If either of those is off, the foot either tunnels through the ball or the ball reacts in weird, non-physical ways. With a more accurate physics setup, the kick actually lands where you expect, and the robot’s gait doesn’t blow up.
 
 4h ago
-
----
-
-**[Billionaire Robot Dogs Roam in Art Basel Miami 2025.](https://www.reddit.com/r/robotics/comments/1phie03/billionaire_robot_dogs_roam_in_art_basel_miami/)**
-
-Robotic dogs cause a scene at art fair. AI tech billionaires as robots exhibit at Art Basel Miami 2025.
-
-20m ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 1d ago
 
 Chinese robotics frim EngineAI shows CEO being kicked by T800 robot to prove real-world capabilities amid CGI speculation.
 
-Interesting Engineering • 8h ago
+Interesting Engineering • 9h ago
 
 ---
 

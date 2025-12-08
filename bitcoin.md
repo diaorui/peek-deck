@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T17:44:58.226692+00:00'
+updated: '2025-12-08T17:56:24.120429+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 17:44 UTC  
+**Last Updated:** December 08, 2025 at 17:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,863.32
+### $89,982.62
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** -1.9%  
-**30d:** -14.4%  
-**90d:** -21.2%  
-**1y:** -7.9%  
+**24h:** -1.6%  
+**7d:** -1.6%  
+**30d:** -14.1%  
+**90d:** -20.9%  
+**1y:** -7.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1796.09B
+**Market Cap:** $1796.08B
 Rank #1
 
-**Circulating Supply:** 19,959,375 BTC
+**Circulating Supply:** 19,959,406 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.7%
+-28.6%
 
 **All-Time Low:** $67.81
-+132514.7%
++132696.0%
 
 ---
 
@@ -77,21 +77,9 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Max Pain](https://www.reddit.com/r/Bitcoin/comments/1phasad/max_pain/)**
-
-5h ago
-
----
-
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-10h ago
-
----
-
-**[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
-
-14h ago
+11h ago
 
 ---
 
@@ -103,25 +91,23 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 ---
 
+**[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
+
+14h ago
+
+---
+
 **[All Bitcoin legends have one thing in common: they held](https://www.reddit.com/r/Bitcoin/comments/1ph9e5f/all_bitcoin_legends_have_one_thing_in_common_they/)**
 
 They didn't trade, they didn't sell to buy back later, they didn't follow the 4-year cycle, nothing. Just HODL Replicate them.
 
-6h ago
+7h ago
 
 ---
 
 **[Buy buy buy!](https://www.reddit.com/r/Bitcoin/comments/1ph9n2c/buy_buy_buy/)**
 
 6h ago
-
----
-
-**[the dollar losing value is inflation.](https://www.reddit.com/r/Bitcoin/comments/1phexmv/the_dollar_losing_value_is_inflation/)**
-
-People don’t confuse inflation with the dollar losing value the dollar losing value is inflation. The textbook definition is: a decrease in the purchasing power of money.’ Prices rise because the money buys less. It’s not two different things, it’s one cause with two symptoms. This is exactly why Bitcoin matters. Fiat inflation is just the slow dilution of your time and energy. Bitcoin flips it: fixed supply → rising purchasing power over time.
-
-2h ago
 
 ---
 
@@ -133,11 +119,25 @@ Really cool they have this at common bookstores in Thailand. The placement could
 
 ---
 
+**[the dollar losing value is inflation.](https://www.reddit.com/r/Bitcoin/comments/1phexmv/the_dollar_losing_value_is_inflation/)**
+
+People don’t confuse inflation with the dollar losing value the dollar losing value is inflation. The textbook definition is: a decrease in the purchasing power of money.’ Prices rise because the money buys less. It’s not two different things, it’s one cause with two symptoms. This is exactly why Bitcoin matters. Fiat inflation is just the slow dilution of your time and energy. Bitcoin flips it: fixed supply → rising purchasing power over time.
+
+2h ago
+
+---
+
 **[MasterCard is Orange Pilled for 1 Billion Users](https://www.reddit.com/r/Bitcoin/comments/1pgenos/mastercard_is_orange_pilled_for_1_billion_users/)**
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
 1d ago
+
+---
+
+**[This fully shows 5 years of Bitcoin experience and we still following the pattern.](https://www.reddit.com/r/Bitcoin/comments/1phe53d/this_fully_shows_5_years_of_bitcoin_experience/)**
+
+3h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 12h ago
 
 Bitcoin ETFs capture $352 million as bearish bets retreat, hinting investor pessimism may have reached its low point.
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -395,7 +395,7 @@ BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available ever
 
 📺 Lark Davis
 
-👁️ 11K • 👍 688 • 💬 64 • ⏱️ 37:57 • 5h ago
+👁️ 11K • 👍 688 • 💬 64 • ⏱️ 37:57 • 6h ago
 
 ---
 
