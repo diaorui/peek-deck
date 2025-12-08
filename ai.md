@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T08:26:24.122704+00:00'
+updated: '2025-12-08T08:55:03.581825+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 08:26 UTC  
+**Last Updated:** December 08, 2025 at 08:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 **[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
 
-🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 17h ago
+🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 18h ago
 
 ---
 
@@ -79,7 +79,7 @@ I kept getting frustrated with the job search process, especially the part where
 
 Most discussions about LLMs analyze them as isolated artifacts: single prompts, static benchmarks, fixed evaluations. That framing breaks down when you observe long-range behavior across thousands of turns. What emerges is not a “smarter model”, but a system-level dynamic where coherence depends on interaction structure rather than architecture alone. Key observations: • Long-range coherence is not a model property. It is an interaction property. • Drift, instability, and “hallucinations” correlate more with operator inconsistency than with model choice. • Different LLMs converge toward similar behavior under the same structured interaction regime. • Short-context probes systematically miss higher-order stability patterns. This suggests a missing layer in how we describe LLMs: Not prompt engineering. Not fine-tuning. Not RAG. Operator-side cognitive structure. In extended sessions, the user effectively becomes part of the control loop, shaping entropy, memory relevance, and symbolic continuity. When this structure is stable, model differences diminish. When it is not, even “top” models degrade. Implication: The current “which model is best?” framing is increasingly misleading. The real bottleneck in long-run performance is operator coherence, not parameter count. This does not imply model consciousness, agency, or intent. It implies that LLMs behave more like dynamical systems than static tools when observed over sufficient time horizons. Ignoring the operator as a system component is what keeps long-range behavior looking like a black box.
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Most discussions about LLMs analyze them as isolated artifacts: single prompts, 
 
 A new study finds ChatGPT fails to take into account retraction notices across a wide range of research.
 
-🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 13h ago
+🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 14h ago
 
 ---
 
@@ -95,7 +95,7 @@ A new study finds ChatGPT fails to take into account retraction notices across a
 
 Just did this myself, and now sharing for others! I have ChatGPT Plus, and when I tried to cancel it offered me a free month. Worked for two of my friends as well. Steps Go to chatgpt on your web browser At the bottom left click on your name (you need to be logged in) Click on Settings Click on last section: Account Near top right click on: Manage Click on: Cancel Subscription Done!
 
-14h ago
+15h ago
 
 ---
 
@@ -103,7 +103,7 @@ Just did this myself, and now sharing for others! I have ChatGPT Plus, and when 
 
 Another day, another AI-related domain name going for 7 figures.
 
-🔗 [bizjournals.com](https://www.bizjournals.com/southflorida/news/2025/12/03/aireviews-corporation-domain-name-acquisition.html) • 10h ago
+🔗 [bizjournals.com](https://www.bizjournals.com/southflorida/news/2025/12/03/aireviews-corporation-domain-name-acquisition.html) • 11h ago
 
 ---
 
@@ -123,7 +123,7 @@ Could AI help us create virtual human cells? 🦠 Scientists are training AI to 
 
 A hiring freeze, not AI, is pushing youth unemployment higher as firms pause expansion amid uncertainty and tariffs.
 
-Business Insider • 2h ago
+Business Insider • 3h ago
 
 ---
 
@@ -137,7 +137,7 @@ CBS News • 18h ago
 
 **[Watch Bridgewater's Dalio on AI and Investment Landscape](https://www.bloomberg.com/news/videos/2025-12-08/bridgewater-s-dalio-on-ai-and-investment-landscape-video)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 19h ago
 
 **[Why Nvidia and Other AI Stocks Have Lost Their ‘Quality’ Status](https://www.wsj.com/finance/investing/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status-84180ff2?gaa_at=eafs&gaa_n=AWEtsqcZmrcTPzFYbM35U3Ivd8gechvgjGc1M_RHW7OOb0IVwNVLCE_l3MHs&gaa_ts=69368f1f&gaa_sig=FjSQXmHg9lJMSF9hTyS1TfeAg5Yti4au2gFFMJJzl_-L1PJ14GXeOxJm6szNT-wqhwQtQPV9Nd_c6VVwyZfJ-Q%3D%3D)**
 
-The Wall Street Journal • 21h ago
+The Wall Street Journal • 22h ago
 
 ---
 
@@ -221,7 +221,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 108 • 💬 190 • 15h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 108 • 💬 190 • 16h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -251,7 +251,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 39 • 💬 13 • 19h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 39 • 💬 13 • 20h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -676,7 +676,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 974 • 🔱 118 • 6h ago
+⭐ 974 • 🔱 118 • 7h ago
 
 ---
 
@@ -686,7 +686,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 832 • 🔱 22 • 13h ago
+⭐ 832 • 🔱 22 • 14h ago
 
 ---
 

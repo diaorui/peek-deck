@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T08:26:24.137305+00:00'
+updated: '2025-12-08T08:55:03.596245+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 08:26 UTC  
+**Last Updated:** December 08, 2025 at 08:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.4%  
+**24h:** +3.3%  
 **7d:** +4.7%  
-**30d:** -12.6%  
+**30d:** -12.7%  
 **90d:** -28.0%  
 **1y:** -15.7%  
 
@@ -120,7 +120,7 @@ This is Part Seven of the eight-part series: Can I Pay With This: A stablecoin e
 
 I was recently censored by Edmund something, so I thought I would ask this community if you could disprove an assumption I have considered. I have considered a scaling paradigm, and here would like to ask about it for a simpler ledger like UTXO-model (and the idea is that the same principles can be scaled up to more advanced "world computer" like Ethereum). It seems appropriate to attack my argument rather than censor me for having respect for another individual (Craig Wright). My idea is very simple. Shard a UTXO ledger by transaction hash mod numShards. There is "wiggle room" for nodes to shard with different values, as it can translate back and forth. Then, if 1024 shards, let shard 0 build blocks only with transaction hashes it "owns", and any shard using those as inputs will have to request the right from the shard. The shards manage and stores such "virtual blocks". Propagation of mempool transactions as well as "virtual blocks" is between shards only (or, mainly). Shards will request transactions from mempool by modulo numShards, and similar with the "virtual block" (where the boundaries of that block is the Merkle tree, so it naturally also splits and combines so people can use different numShards). The central block header is signed by the "coordinator" (via proof-of-work or proof-of-stake or proof-of-suffrage) who combines the Merkle roots of the sub-blocks. They trust all their "sub-nodes" internally. Likewise, the transaction fees can be done easily in UTXO-format by each sub-node reporting their own output for coinbase. Assuming 1 MB blocks and 1024 shards, 5000 transactions per block, on average 2-3 inputs per transaction, on average 10-15 requests per shard-pair. The geographical distribution solves the bandwidth bottleneck (as well as computation and storage to some extent) and lets less advanced hardware still team-up to easily operate on gigabyte (or more) blocks. What is the added latency would people here say from the geographical distribution of the shards?
 
-14h ago
+15h ago
 
 ---
 
@@ -136,7 +136,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I'm the inventor of the "simultaneous video event" Gavin Wood is currently pursuing (Gavin built the first version of Ethereum, then Jeffrey Wilckes and his team built the Golang, and then more came). I have followed "scaling" discussion since 2014, but always found that it was misunderstanding the Nakamoto consensus. But since my proof-of-unique-person requires someone to solve scaling, I took some more looks at the topic and I realized that what the discussion was missing is that the consensus should not be split. Everything happening under a "block of authority" should be by the same group, who trusts one another internally. With that, parallelization can still happen, but the consensus is not split. The concept is really similar otherwise to the "sharding" discussion, it only avoids splitting the consensus. What the discussion in Ethereum was typically in the past decade was to instead randomly assign validators to "shards" from the validator pool. This approach fundamentally misunderstands the consensus. As I realized what everyone got wrong, I was unable to find a system that actually did scale the way things should be done. But, I then noticed there is a system. But if I even mention that here, this gets removed. Not because of the topic I raise, but because of guilt by association. You have created a "community" where you have erased the roots to it, as well as made mention of actual competition (as the roots are often a form of competition, Steve Wozniak would remain a form of competition even as the computer industry outgrew his Apple 2 etc). The system I mentioned is teranode, that is parallelizing the block production but they do so internally under a singular trusted central authority for the "block". Of course Ethereum was the next step after Bitcoin, and my proof-of-unique-person is fundamentally based on the Ethereum paradigm. But Satoshi was who came up with the consensus. Buterin came up with the Turing completeness. Buterin, and Gavin Wood, and Jeffrey Wilckes, were all geniuses in my eyes. But so was Satoshi. "Removing this because it's not about Ethereum. It sort of pretends to be but doesn't make any attempt to work out what Ethereum sharding actually is so the point is clearly just to shill some Craig Wright thing. " Edmund Edgar
 
-22h ago
+23h ago
 
 ---
 
@@ -170,13 +170,13 @@ Decrypt • 2d ago
 
 Ethereum could be once again on the path to the $5,000 price level. Here's why.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
 **[Ethereum or Solana: ‘One Crypto Could Outperform in 2026,’ Says Investor](https://www.tipranks.com/news/ethereum-or-solana-one-crypto-could-outperform-in-2026-says-investor)**
 
-TipRanks • 18h ago
+TipRanks • 19h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 188 • 💬 5 • ⏱️ 4:06 • 16h ago
+👁️ 3K • 👍 188 • 💬 5 • ⏱️ 4:06 • 17h ago
 
 ---
 
@@ -296,7 +296,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 335 • 💬 184 • ⏱️ 19:45 • 13h ago
+👁️ 8K • 👍 335 • 💬 184 • ⏱️ 19:45 • 14h ago
 
 ---
 
@@ -306,7 +306,7 @@ For a decade, the "Flippening" (Ethereum overtaking Bitcoin in market cap) was a
 
 📺 Wall Street Stockcast
 
-👁️ 284 • 👍 11 • ⏱️ 8:45 • 17h ago
+👁️ 284 • 👍 11 • ⏱️ 8:45 • 18h ago
 
 ---
 
@@ -316,7 +316,7 @@ Kevin O'Leary Warns 'Buckle Up' Bitcoin & Ethereum Holders Kevin O'Leary ("Mr. W
 
 📺 Wall Street Stockcast
 
-👁️ 2K • 👍 36 • ⏱️ 9:22 • 7h ago
+👁️ 2K • 👍 36 • ⏱️ 9:22 • 8h ago
 
 ---
 
@@ -326,7 +326,7 @@ Tom Lee just dropped the biggest price prediction of his career. Speaking at Bin
 
 📺 Wall Street Stockcast
 
-👁️ 1K • 👍 64 • 💬 7 • ⏱️ 9:53 • 16h ago
+👁️ 1K • 👍 64 • 💬 7 • ⏱️ 9:53 • 17h ago
 
 ---
 

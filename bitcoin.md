@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T08:26:24.131221+00:00'
+updated: '2025-12-08T08:55:03.590191+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
 - cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 08:26 UTC  
+**Last Updated:** December 08, 2025 at 08:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.7%  
+**24h:** +2.8%  
 **7d:** +0.3%  
 **30d:** -12.5%  
-**90d:** -19.5%  
-**1y:** -5.8%  
+**90d:** -19.4%  
+**1y:** -5.7%  
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars per week and just set up a direct deposit with strike to do 300 dollars per paycheck (biweekly). Will instantly move my funds to a cold wallet super excited and bullish about btc 5-20 year time horizon EDIT: Just learned about UTXO. I even went to the lengths of setting up direct deposits so I can withdraw BTC faster. Now after learning this I guess the best way is to accumlate more and do one single withdrawal to a cold wallet rather than many smaller ones (correct me if I’m wrong please stilll tryna learn)
 
-5h ago
+6h ago
 
 ---
 
@@ -107,13 +107,13 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 1 billion normies about to swipe their Mastercard for sats at the gas station... GetAgent predicts adoption on this scale will be huge but it will depends on if folks want to actually spend stats rather than HODL... your thoughts guy?
 
-22h ago
+23h ago
 
 ---
 
 **[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -133,7 +133,7 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 Some people on TV or online act like inflation is “not that bad” or even pretend it’s exaggerated. But regular people don’t need charts to know the truth. They see it when they: • check out at the grocery store • fill up their gas tank • pay rent • try to save • try to invest • try to raise a family We’re not imagining it. We’re living it. If your money buys less every year, that’s not a “hoax.” That’s the system working exactly as designed. Bitcoin wasn’t created because everything was fine it was created because inflation quietly destroys the middle and working class. People deserve honesty about what’s happening to their money. Silence helps no one. What signs of inflation hit you the hardest this year?
 
-11h ago
+12h ago
 
 ---
 
@@ -141,7 +141,7 @@ Some people on TV or online act like inflation is “not that bad” or even pre
 
 Mastercard’s Crypto Card Program enables consumers to use their crypto cards to pay with crypto for everyday transactions across 100 million+ acceptance locations.
 
-🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 15h ago
+🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 16h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 2d ago
 
 The state of Texas is now in the Bitcoin business, and it’s still anyone’s guess how it will turn out. Texas recently purchased $5 million worth of highly...
 
-Dallas News • 26m ago
+Dallas News • 54m ago
 
 ---
 
@@ -177,7 +177,7 @@ Dallas News • 26m ago
 
 Self-proclaimed smartest man in the world claims Bitcoin will soon surge to a new all-time high. Crypto community reactions remain overwhelmingly skeptical. Market analysts warn ...
 
-Yahoo Finance • 32m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ Financial Times • 3h ago
 
 Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -223,7 +223,7 @@ TheStreet • 2d ago
 
 Which of these popular cryptocurrencies has more upside potential?
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -315,7 +315,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 290 • ⏱️ 18:52 • 8h ago
+👁️ 19K • 👍 1K • 💬 290 • ⏱️ 18:52 • 9h ago
 
 ---
 
@@ -325,7 +325,7 @@ In today's video, Kyledoops shares his strategy on whether to buy back now or ju
 
 📺 Crypto Banter
 
-👁️ 4K • 👍 500 • ⏱️ 32:04 • 34m ago
+👁️ 4K • 👍 500 • ⏱️ 32:04 • 1h ago
 
 ---
 
@@ -335,7 +335,7 @@ This chart shows the historical backtest of the on-chain risk gauge shown on the
 
 📺 Benjamin Cowen
 
-👁️ 12K • 👍 1K • 💬 54 • ⏱️ 9:57 • 2h ago
+👁️ 12K • 👍 1K • 💬 54 • ⏱️ 9:57 • 3h ago
 
 ---
 
@@ -345,7 +345,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 8K • 👍 335 • 💬 184 • ⏱️ 19:45 • 13h ago
+👁️ 8K • 👍 335 • 💬 184 • ⏱️ 19:45 • 14h ago
 
 ---
 
@@ -385,7 +385,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 301 • 💬 49 • ⏱️ 8:55 • 3h ago
+👁️ 4K • 👍 301 • 💬 49 • ⏱️ 8:55 • 4h ago
 
 ---
 
@@ -395,7 +395,7 @@ My Preferred Exchange BYBIT https://partner.bybit.com/b/Didi NON-KYC Exchange: .
 
 📺 THE BITCOIN FAMILY Didi Taihuttu
 
-👁️ 4K • 👍 462 • 💬 77 • ⏱️ 20:13 • 5h ago
+👁️ 4K • 👍 462 • 💬 77 • ⏱️ 20:13 • 6h ago
 
 ---
 

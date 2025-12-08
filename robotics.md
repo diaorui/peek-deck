@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T08:26:24.140655+00:00'
+updated: '2025-12-08T08:55:03.599539+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 08:26 UTC  
+**Last Updated:** December 08, 2025 at 08:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -48,7 +48,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 **[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -56,7 +56,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
-13h ago
+14h ago
 
 ---
 
@@ -100,7 +100,7 @@ Does any one have build the robotics arm which can be controlled via neural sign
 
 **[China's G1 humanoid robot is mastering combat skills at a terrifying rate](https://www.reddit.com/r/robotics/comments/1pghcyh/chinas_g1_humanoid_robot_is_mastering_combat/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -144,7 +144,7 @@ South China Morning Post • 1d ago
 
 Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
 
-CNN • 19h ago
+CNN • 20h ago
 
 ---
 
