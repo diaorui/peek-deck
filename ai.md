@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T14:13:11.826481+00:00'
+updated: '2025-12-08T14:42:28.155773+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 14:13 UTC  
+**Last Updated:** December 08, 2025 at 14:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
-🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 11h ago
+🔗 [Fortune](https://fortune.com/2025/12/07/jamie-dimon-jpmorgan-ai-job-cuts-shorter-week-less-work-worker-assistance/) • 12h ago
 
 ---
 
@@ -79,7 +79,7 @@ Source: https://openrouter.ai/state-of-ai TL;DR 1. new landscape of open source:
 
 Referral link system with points and rewards
 
-🔗 [doac-perks.com](https://doac-perks.com/r/ClDotltjY7) • 1h ago
+🔗 [doac-perks.com](https://doac-perks.com/r/ClDotltjY7) • 2h ago
 
 ---
 
@@ -101,7 +101,7 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 **[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
 
-🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 23h ago
+🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 1d ago
 
 ---
 
@@ -109,7 +109,7 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 Just did this myself, and now sharing for others! I have ChatGPT Plus, and when I tried to cancel it offered me a free month. Worked for two of my friends as well. Steps Go to chatgpt on your web browser At the bottom left click on your name (you need to be logged in) Click on Settings Click on last section: Account Near top right click on: Manage Click on: Cancel Subscription Done!
 
-20h ago
+21h ago
 
 ---
 
@@ -135,7 +135,7 @@ Financial Times • 9h ago
 
 JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, crypto investing and socialism on 'Mornings with Maria.'
 
-Fox Business • 25m ago
+Fox Business • 54m ago
 
 ---
 
@@ -149,13 +149,13 @@ Axios • 3h ago
 
 President Donald Trump said he would approve an executive order this week establishing “ONE RULE” on artificial intelligence aimed at limiting state-level policies regulating the technology.
 
-Bloomberg.com • 41m ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[Trump says he will sign executive order this week on AI approval process](https://www.reuters.com/world/trump-says-he-will-sign-executive-order-this-week-ai-approval-process-2025-12-08/)**
 
-Reuters • 36m ago
+Reuters • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Reuters • 36m ago
 
 Coupa, the leading AI platform for Total Spend Management, today released the findings of its new Coupa Clarity AI Impact Report providing clear answers as to why so many major AI initiatives are struggling to deliver ROI.
 
-Yahoo Finance • 13m ago
+Yahoo Finance • 42m ago
 
 ---
 
@@ -253,7 +253,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-⬆️ 35 • 💬 6 • 18h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
+⬆️ 35 • 💬 6 • 19h ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
 
 ---
 
@@ -273,7 +273,7 @@ OpenAI is in a full internal race after a major leak revealed a new model called
 
 📺 AI Revolution
 
-👁️ 45K • 👍 1K • 💬 83 • ⏱️ 12:31 • 13h ago
+👁️ 45K • 👍 1K • 💬 83 • ⏱️ 12:31 • 14h ago
 
 ---
 
@@ -323,7 +323,7 @@ Bear releases a struggling fish into a pond #ai #fish #relases #bear.
 
 📺 Ai story Time
 
-👁️ 6K • 👍 76 • 💬 3 • ⏱️ 0:41 • 3h ago
+👁️ 6K • 👍 76 • 💬 3 • ⏱️ 0:41 • 4h ago
 
 ---
 
@@ -489,6 +489,20 @@ Ministral 3 14B Instruct is a powerful, edge-optimized multilingual vision-langu
 
 ## HuggingFace Papers: 🔥 Trending
 
+**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
+
+*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
+
+🏢 Tongyi-MAI
+
+Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
+
+▲ 160 • 💬 3 • ⭐ 5,733 • 11d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
 **[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
 
 *Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
@@ -503,20 +517,6 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 ---
 
-**[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
-
-*Z-Image Team, Huanqia Cai, Sihan Cao et al. (21 authors)*
-
-🏢 Tongyi-MAI
-
-Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
-
-▲ 160 • 💬 3 • ⭐ 5,595 • 11d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing](https://huggingface.co/papers/2512.02589)**
 
 *Junyi Hou, Andre Lin Huikai, Nuo Chen et al. (5 authors)*
@@ -525,7 +525,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 44 • 💬 2 • ⭐ 802 • 6d ago
+▲ 45 • 💬 2 • ⭐ 802 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -577,7 +577,7 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 14 • 💬 0 • ⭐ 26,318 • 11mo ago
+▲ 14 • 💬 0 • ⭐ 26,341 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -631,7 +631,7 @@ The paper introduces Reward Forcing, which enhances video generation by updating
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.4k • 🔱 427 • 3d ago
+⭐ 5.5k • 🔱 429 • 3d ago
 
 ---
 
@@ -641,7 +641,7 @@ The paper introduces Reward Forcing, which enhances video generation by updating
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 4d ago
+⭐ 1.6k • 🔱 132 • 9m ago
 
 ---
 
@@ -651,7 +651,7 @@ AI-powered git commit message rewriter using Ollama or GPT
 
 `TypeScript` `git` `pre-commit-hook`
 
-⭐ 1.1k • 🔱 47 • 8d ago
+⭐ 1.1k • 🔱 47 • 9d ago
 
 ---
 
@@ -681,7 +681,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 835 • 🔱 22 • 19h ago
+⭐ 839 • 🔱 22 • 19h ago
 
 ---
 
@@ -691,7 +691,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 829 • 🔱 44 • 7h ago
+⭐ 830 • 🔱 44 • 7h ago
 
 ---
 
@@ -701,7 +701,7 @@ Open Source Semantic Search for your AI Agent
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 824 • 🔱 56 • 7d ago
+⭐ 825 • 🔱 56 • 7d ago
 
 ---
 
@@ -711,7 +711,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 801 • 🔱 260 • 2d ago
+⭐ 808 • 🔱 261 • 2d ago
 
 ---
 
@@ -721,7 +721,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 617 • 🔱 96 • 4h ago
+⭐ 654 • 🔱 102 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T14:13:11.835020+00:00'
+updated: '2025-12-08T14:42:28.163301+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 14:13 UTC  
+**Last Updated:** December 08, 2025 at 14:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,618.50
+### $90,858.37
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** +0.1%  
-**30d:** -12.7%  
-**90d:** -19.6%  
-**1y:** -6.0%  
+**24h:** +1.8%  
+**7d:** -0.3%  
+**30d:** -13.0%  
+**90d:** -19.9%  
+**1y:** -6.3%  
 
 ---
 
@@ -111,7 +111,7 @@ Rank #1
 
 I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars per week and just set up a direct deposit with strike to do 300 dollars per paycheck (biweekly). Will instantly move my funds to a cold wallet super excited and bullish about btc 5-20 year time horizon EDIT: Just learned about UTXO. I even went to the lengths of setting up direct deposits so I can withdraw BTC faster. Now after learning this I guess the best way is to accumlate more and do one single withdrawal to a cold wallet rather than many smaller ones (correct me if I’m wrong please stilll tryna learn)
 
-11h ago
+12h ago
 
 ---
 
@@ -197,13 +197,13 @@ Yahoo Finance • 21h ago
 
 Investors should treat bitcoin as the volatile, high-risk asset it is. A look at the data, along with comparisons to the Magnificent 7 stocks, indicates a small (1% to 2%) portfolio allocation for most investors would be the safest.
 
-Kiplinger • 3h ago
+Kiplinger • 4h ago
 
 ---
 
 **[Michael Saylor Explains Why Banks Are No Longer Waiting for Bitcoin](https://www.binance.com/en/square/post/33413939298642)**
 
-Binance • 13h ago
+Binance • 14h ago
 
 ---
 
@@ -211,7 +211,7 @@ Binance • 13h ago
 
 If the stock market is up, bitcoin usually is too. But this year has been different.
 
-Business Insider • 2h ago
+Business Insider • 3h ago
 
 ---
 
@@ -275,7 +275,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 7 • 💬 0 • 6h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 7 • 💬 0 • 7h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -303,7 +303,7 @@ Bitcoin today with Benjamin Cowen!
 
 📺 MMCrypto
 
-👁️ 17K • 👍 2K • 💬 433 • ⏱️ 7:39 • 5h ago
+👁️ 17K • 👍 2K • 💬 433 • ⏱️ 7:39 • 6h ago
 
 ---
 
@@ -353,7 +353,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 1K • 💬 312 • ⏱️ 18:52 • 14h ago
+👁️ 24K • 👍 1K • 💬 312 • ⏱️ 18:52 • 15h ago
 
 ---
 
@@ -383,7 +383,7 @@ TIA PRO $1000 OFF LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK 
 
 📺 Jason Pizzino
 
-👁️ 23K • 👍 1K • 💬 484 • ⏱️ 29:13 • 11h ago
+👁️ 23K • 👍 1K • 💬 484 • ⏱️ 29:13 • 12h ago
 
 ---
 
@@ -393,7 +393,7 @@ The White House Just Released The Cryptocurrency Bulls!! Become a channel member
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 3K • 💬 277 • ⏱️ 12:47 • 15h ago
+👁️ 52K • 👍 3K • 💬 277 • ⏱️ 12:47 • 16h ago
 
 ---
 

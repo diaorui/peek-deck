@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T14:13:11.841119+00:00'
+updated: '2025-12-08T14:42:28.168614+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 14:13 UTC  
+**Last Updated:** December 08, 2025 at 14:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,132.57
+### $3,145.77
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.0%  
-**7d:** +5.3%  
-**30d:** -12.2%  
-**90d:** -27.6%  
-**1y:** -15.2%  
+**24h:** +3.3%  
+**7d:** +4.6%  
+**30d:** -12.7%  
+**90d:** -28.1%  
+**1y:** -15.8%  
 
 ---
 
@@ -96,7 +96,7 @@ This is Part Eight! The very last chapter of the eight-part series: Can I Pay Wi
 
 I copied and pasted for ease of access. Maybe Vitalik can make an update to raise this coin to $5000. Ethereum's next evolution will be shaped by a set of upcoming invariants and protocol caps that Vitalik Buterin outlined. These are deep structural changes that harden the network, streamline clients and block entire classes of DoS vectors. Ethereum's clear path Zooming out over the past few years reveals a distinct pattern: Ethereum continues to move toward stringent, predictable limitations on the capabilities of a single transaction or block. And that trend is going to pick up speed. The groundwork was already in place. In 2021, EIP-2929 and 3529 increased SLOAD gas costs and slashed refunds, reducing disk I/O abuse and preventing refund-based spam loops. One of the most exploitable instructions in the EVM was eliminated in 2024 by Dencuns SELFDESTRUCT nerf, which closed significant complexity gaps. Now, in 2025, the 16777216 gas-per-transaction hard cap finishes the cycle: no more super-dense monster transactions capable of locking up nodes or stressing clients in unpredictable ways. Each of these constraints trims the attack surface while pushing Ethereum closer to a system where worst-case behavior is strictly bounded. Three paths The first path is a cap on the number of contract code bytes accessed per transaction. In the short term, this means it becomes more costly to call large contracts. In the medium term, it standardizes contract scaling and eliminates pathological situations where a single call thrashes through megabytes of bytecode, pushing the ecosystem toward binary trees and per-chunk pricing. Second, ZK-EVM prover cycle bounds are required by Ethereum. Repricing proofs are becoming more and more important as ZK-based layer 2s become more common. Without restrictions, block builders could create consensus-layer bottlenecks by packing proofs with excessive computational overhead. Bound it, and the network benefits from safer L2 growth and predictable verification costs. Third, there will be changes to memory prices. Although EVM memory expansion is currently quasi-bounded, attackers can still push clients into uncomfortable areas. Every client team can easily handle worst-case modeling, and execution engines are made simpler with a more transparent hard cap on memory usage.
 
-21h ago
+22h ago
 
 ---
 
@@ -154,7 +154,7 @@ I'm the inventor of the "simultaneous video event" Gavin Wood is currently pursu
 
 **[ZKsync to deprecate ZKsync Lite in 2026, sunsetting Ethereum's first ZK rollup](https://www.theblock.co/post/381632/zksync-to-deprecate-zksync-lite-in-2026-sunsetting-ethereums-first-zk-rollup)**
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 15h ago
 
 ZKsync is retiring its original Lite network, formalizing a shift toward ZKsync Era and the ZK Stack as activity on the legacy rollup fades.
 
-Decrypt • 11h ago
+Decrypt • 12h ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 11h ago
 
 Ethereum could be once again on the path to the $5,000 price level. Here's why.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 18h ago
 
 Japan is considering a big change to how it taxes crypto.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -192,7 +192,7 @@ On the other hand, the $2,500 zone remains a critical support.
 
 Looking at ETH’s recent price action, this level aligns with …
 
-TradingView • 20h ago
+TradingView • 21h ago
 
 ---
 
@@ -200,7 +200,7 @@ TradingView • 20h ago
 
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
 
-CoinDesk • 17m ago
+CoinDesk • 47m ago
 
 ---
 
@@ -222,7 +222,7 @@ Crypto Briefing • 1d ago
 
 Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) record a minor recovery on Monday, starting the week on a positive note. The retail demand for major cryptocurrencies remains strong despite outflows from Bitcoin and Ethereum Exchange Traded Funds (ETFs).
 
-FXStreet • 8h ago
+FXStreet • 9h ago
 
 ---
 
@@ -262,7 +262,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 137 • 💬 7 • ⏱️ 4:57 • 11h ago
+👁️ 2K • 👍 137 • 💬 7 • ⏱️ 4:57 • 12h ago
 
 ---
 
@@ -272,7 +272,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 1K • 👍 180 • 💬 49 • ⏱️ 5:16 • 11h ago
+👁️ 1K • 👍 180 • 💬 49 • ⏱️ 5:16 • 12h ago
 
 ---
 
@@ -292,7 +292,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 9K • 👍 385 • 💬 184 • ⏱️ 19:45 • 19h ago
+👁️ 9K • 👍 385 • 💬 184 • ⏱️ 19:45 • 20h ago
 
 ---
 
@@ -322,7 +322,7 @@ Kevin O'Leary Warns 'Buckle Up' Bitcoin & Ethereum Holders Kevin O'Leary ("Mr. W
 
 📺 Wall Street Stockcast
 
-👁️ 2K • 👍 45 • ⏱️ 9:22 • 13h ago
+👁️ 2K • 👍 45 • ⏱️ 9:22 • 14h ago
 
 ---
 
