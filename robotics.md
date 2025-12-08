@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T07:53:14.918980+00:00'
+updated: '2025-12-08T08:26:24.140655+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 07:53 UTC  
+**Last Updated:** December 08, 2025 at 08:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-20h ago
+21h ago
 
 ---
 
@@ -62,7 +62,7 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 **[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -70,7 +70,7 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 4h ago
 
 ---
 
@@ -78,15 +78,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 An old picture. The progress is in the coding, and testing, and tuning of the hardware.
 
-16h ago
-
----
-
-**[Help for my robotic arm project](https://www.reddit.com/r/robotics/comments/1ph62lb/help_for_my_robotic_arm_project/)**
-
-Does any one have build the robotics arm which can be controlled via neural signals? If yes the which servos are preferred? And how many axis where u guys able to achieve it?
-
-42m ago
+17h ago
 
 ---
 
@@ -94,7 +86,15 @@ Does any one have build the robotics arm which can be controlled via neural sign
 
 NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑language‑action foundation model for humanoid robots, built to connect perception, language, and low‑level control so a single policy can handle many manipulation tasks across different embodiments. Since GTC they have released GR00T N1 and then N1.5 with architectural and data upgrades aimed at better generalization, grounding, and language following, plus tooling like simulation blueprints and synthetic motion data pipelines to accelerate training.​​ For anyone here actually playing with GR00T in the lab or integrating it on real hardware: how mature is it right now compared to the keynote demos and marketing? Any experiences with N1 vs N1.5, sim‑to‑real transfer, or using the GR00T toolchain (Dreams / Blueprint / Omniverse etc.) in a serious robotics stack would be super valuable to hear about.​
 
-4h ago
+5h ago
+
+---
+
+**[Help for my robotic arm project](https://www.reddit.com/r/robotics/comments/1ph62lb/help_for_my_robotic_arm_project/)**
+
+Does any one have build the robotics arm which can be controlled via neural signals? If yes the which servos are preferred? And how many axis where u guys able to achieve it?
+
+1h ago
 
 ---
 
@@ -132,19 +132,19 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[Using the Power of Robotics to uncover the secrets of Pompeii](https://www.cnn.com/2025/12/07/world/video/pompeii-robot-fresco-kinkade-pkg-120712aseg2-cnni-world-fast)**
-
-Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
-
-CNN • 19h ago
-
----
-
 **[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
 
 South China Morning Post • 1d ago
+
+---
+
+**[Using the Power of Robotics to uncover the secrets of Pompeii](https://www.cnn.com/2025/12/07/world/video/pompeii-robot-fresco-kinkade-pkg-120712aseg2-cnni-world-fast)**
+
+Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
+
+CNN • 19h ago
 
 ---
 
@@ -156,11 +156,17 @@ Yahoo Finance • 3d ago
 
 ---
 
+**[Why AI and Robotics Are Now National Security Assets](https://etftrends.com/artificial-intelligence-content-hub/why-ai-robotics-national-security-assets/)**
+
+ETF Trends • 3d ago
+
+---
+
 **[Unitree's Big Humanoid Robots Are Fighting Now](https://www.cnet.com/tech/computing/unitrees-big-humanoid-robots-are-fighting-now/)**
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
-CNET • 18h ago
+CNET • 19h ago
 
 ---
 
@@ -178,37 +184,9 @@ Knowable Magazine • 3d ago
 
 ---
 
-**[This Top Chip Stock Could Also Be the Best Way to Play a New Trump Robotics Rally](https://www.barchart.com/story/news/36496863/this-top-chip-stock-could-also-be-the-best-way-to-play-a-new-trump-robotics-rally)**
-
-America’s robotics race is heating up under the Trump administration, and AMD might be the cleanest way to get in early.
-
-Barchart.com • 17h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.youtube.com/watch?v=XvXNEYbIBYw)**
-
-Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be ...
-
-📺 CBS News
-
-👁️ 18K • 👍 375 • 💬 183 • ⏱️ 4:05 • 3d ago
-
----
-
-**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
-
-Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
-
-📺 Fin Tek
-
-👁️ 72K • 👍 2K • 💬 189 • ⏱️ 21:31 • 2d ago
-
----
 
 **[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
 
@@ -216,17 +194,17 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 105K • 👍 500 • 💬 176 • ⏱️ 1:03 • 1d ago
+👁️ 112K • 👍 523 • 💬 188 • ⏱️ 1:03 • 1d ago
 
 ---
 
-**[Hidden Details in Unitree&#39;s Latest WILD Humanoid Robot Demos](https://www.youtube.com/watch?v=jXTibM33SDg)**
+**[Trump administration looks to supercharge robotics industry, Politico reports](https://www.youtube.com/watch?v=XvXNEYbIBYw)**
 
-Unitree's latest demos reveal that kickboxing is no longer just for its smaller G1 humanoid robots. The company's teleoperation ...
+Leaders in the robotics industry say that to strengthen AI, companies also need a plan for robots. The White House appears to be ...
 
-📺 CNET
+📺 CBS News
 
-👁️ 24K • 👍 567 • 💬 90 • ⏱️ 6:05 • 18h ago
+👁️ 18K • 👍 378 • 💬 184 • ⏱️ 4:05 • 3d ago
 
 ---
 
@@ -236,7 +214,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 32K • 👍 1K • 💬 80 • ⏱️ 24:47 • 1d ago
+👁️ 32K • 👍 1K • 💬 82 • ⏱️ 24:47 • 1d ago
 
 ---
 
@@ -246,27 +224,17 @@ Tesla just showed its Optimus humanoid robot running in the laboratory, and it l
 
 📺 DPCcars
 
-👁️ 77K • 👍 618 • 💬 284 • ⏱️ 2:30 • 4d ago
+👁️ 77K • 👍 623 • 💬 285 • ⏱️ 2:30 • 4d ago
 
 ---
 
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
+**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
 
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
+Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
 
-📺 AI Revolution
+📺 Fin Tek
 
-👁️ 94K • 👍 2K • 💬 399 • ⏱️ 12:07 • 2d ago
-
----
-
-**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
-
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
-
-📺 Julia McCoy
-
-👁️ 88K • 👍 5K • 💬 634 • ⏱️ 19:33 • 1d ago
+👁️ 74K • 👍 2K • 💬 189 • ⏱️ 21:31 • 2d ago
 
 ---
 
@@ -276,7 +244,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 18K • 👍 157 • 💬 6 • ⏱️ 0:25 • 22h ago
+👁️ 19K • 👍 169 • 💬 6 • ⏱️ 0:25 • 23h ago
 
 ---
 
@@ -286,7 +254,33 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 CGTN
 
-👁️ 105K • 💬 649 • ⏱️ 1:21 • 4d ago
+👁️ 105K • 💬 652 • ⏱️ 1:21 • 4d ago
+
+---
+
+**[Purchased the newly released 2025 humanoid robot. #robotics #ai #humanoidrobot #airobot](https://www.youtube.com/watch?v=NJeenJ276ug)**
+
+📺 AI . Robot
+
+👁️ 1.6M • 👍 8K • 💬 48 • ⏱️ 0:17 • 3d ago
+
+---
+
+**[This Isn&#39;t Your Typical Humanoid Robot](https://www.youtube.com/watch?v=NjwgtvVPy04)**
+
+Memo is a wheeled home robot from Sunday Robotics, a Mountain View startup founded by Stanford PhDs Tony Zhao and Cheng ...
+
+📺 Game of Tomorrow
+
+👁️ 611K • 👍 19K • 💬 1K • ⏱️ 0:55 • 2d ago
+
+---
+
+**[2025 Advanced Anti-Gravity Hoverboard Showcase. #futuretech #antigravity #hoverboard #robotics](https://www.youtube.com/watch?v=NfrybLAbGqA)**
+
+📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
+
+👁️ 24K • 👍 320 • 💬 13 • ⏱️ 0:11 • 1d ago
 
 ---
 

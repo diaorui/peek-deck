@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T07:53:14.909516+00:00'
+updated: '2025-12-08T08:26:24.131221+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 07:53 UTC  
+**Last Updated:** December 08, 2025 at 08:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.6%  
-**7d:** +0.0%  
-**30d:** -12.7%  
-**90d:** -19.7%  
-**1y:** -6.0%  
+**24h:** +2.7%  
+**7d:** +0.3%  
+**30d:** -12.5%  
+**90d:** -19.5%  
+**1y:** -5.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1832.27B
+**Market Cap:** $1829.88B
 Rank #1
 
-**Circulating Supply:** 19,959,215 BTC
+**Circulating Supply:** 19,959,234 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.2%
+-27.3%
 
 **All-Time Low:** $67.81
-+135253.2%
++135147.0%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
 
-4h ago
-
----
-
-**[To all who sold…](https://www.reddit.com/r/Bitcoin/comments/1ph3rsw/to_all_who_sold/)**
-
-2h ago
+5h ago
 
 ---
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
 1h ago
+
+---
+
+**[To all who sold…](https://www.reddit.com/r/Bitcoin/comments/1ph3rsw/to_all_who_sold/)**
+
+3h ago
 
 ---
 
@@ -119,13 +119,13 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 **[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Not selling Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgtw05/not_selling_bitcoin/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -133,7 +133,7 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 Some people on TV or online act like inflation is “not that bad” or even pretend it’s exaggerated. But regular people don’t need charts to know the truth. They see it when they: • check out at the grocery store • fill up their gas tank • pay rent • try to save • try to invest • try to raise a family We’re not imagining it. We’re living it. If your money buys less every year, that’s not a “hoax.” That’s the system working exactly as designed. Bitcoin wasn’t created because everything was fine it was created because inflation quietly destroys the middle and working class. People deserve honesty about what’s happening to their money. Silence helps no one. What signs of inflation hit you the hardest this year?
 
-10h ago
+11h ago
 
 ---
 
@@ -149,41 +149,11 @@ Mastercard’s Crypto Card Program enables consumers to use their crypto cards t
 
 ## Google News: "bitcoin"
 
-**[Trump Administration Overlooks Bitcoin, Blockchain in National Security Strategy](https://www.coindesk.com/opinion/2025/12/07/trump-s-national-security-strategy-ignores-bitcoin-and-blockchain)**
+**[Bitcoin’s Deep Correction Sets Stage for December Rebound, Says K33 Research](https://www.coindesk.com/markets/2025/12/05/bitcoin-s-deep-correction-sets-stage-for-december-rebound-says-k33-research)**
 
-President Trump's latest national security strategy omits digital assets, focusing instead on AI, biotech, and quantum computing.
+K33 Research says market fear is outweighing fundamentals as bitcoin nears key levels. December could offer an entry point for bold investors.
 
-CoinDesk • 16h ago
-
----
-
-**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
-
-Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
-
-Decrypt • 15h ago
-
----
-
-**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
-
-Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
-
-Financial Times • 2h ago
-
----
-
-**[Michael Saylor Explains Why Banks Are No Longer Waiting for Bitcoin](https://www.binance.com/en/square/post/33413939298642)**
-
-Binance • 7h ago
-
----
-
-**[Michael Saylor’s Bitcoin Playbook Backfires on 100+ Companies](https://finance.yahoo.com/news/michael-saylor-bitcoin-playbook-backfires-101022120.html)**
-
-Digital asset treasury companies that rushed to copy Michael Saylor’s Bitcoin strategy are now hemorrhaging shareholder value, with median stock prices down 43% year to date, even as the broader market climbs higher, as per Bloomberg.Source: BloombergMore than 100 publicly traded companies transformed themselves into cryptocurrency-holding vehicles in the first ...
-
-Yahoo Finance • 21h ago
+CoinDesk • 3d ago
 
 ---
 
@@ -195,19 +165,51 @@ Bloomberg.com • 2d ago
 
 ---
 
+**[Texas’ crypto investment is questionable use of public money](https://www.dallasnews.com/opinion/editorials/2025/12/08/texas-crypto-investment-is-questionable-use-of-public-money/)**
+
+The state of Texas is now in the Bitcoin business, and it’s still anyone’s guess how it will turn out. Texas recently purchased $5 million worth of highly...
+
+Dallas News • 26m ago
+
+---
+
+**[Bitcoin Price Could Surge To New All Time High Within Week, Claims ‘World’s Smartest Man’ — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-could-surge-time-075452861.html)**
+
+Self-proclaimed smartest man in the world claims Bitcoin will soon surge to a new all-time high. Crypto community reactions remain overwhelmingly skeptical. Market analysts warn ...
+
+Yahoo Finance • 32m ago
+
+---
+
+**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
+
+Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
+
+Financial Times • 3h ago
+
+---
+
+**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
+
+Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
+
+Decrypt • 15h ago
+
+---
+
+**[‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles](https://www.forbes.com/sites/digital-assets/2025/12/07/next-step-is-coming-sec-chair-issues-huge-crypto-prediction-as-the-bitcoin-price-struggles/)**
+
+The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
+
+Forbes • 19h ago
+
+---
+
 **[Bitcoin turns negative for the week as it fails to hold above $90,000: CNBC Crypto World](https://www.cnbc.com/video/2025/12/05/bitcoin-turns-negative-for-the-week-as-it-fails-to-hold-above-90000-cnbc-crypto-world.html)**
 
 On today's episode of CNBC Crypto World, bitcoin and other major cryptocurrencies turn negative to closer out the week. Plus, prosecutors recommend a 12-year prison sentence for Terraform Labs founder Do Kwon. And Summer Mersinger, CEO of the Blockchain Association, discusses the group's upcoming policy summit in Washington, D.C.
 
 CNBC • 2d ago
-
----
-
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
-
-Which of these popular cryptocurrencies has more upside potential?
-
-The Motley Fool • 11h ago
 
 ---
 
@@ -217,11 +219,11 @@ TheStreet • 2d ago
 
 ---
 
-**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
 
-Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
+Which of these popular cryptocurrencies has more upside potential?
 
-Futurism • 1d ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -261,7 +263,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 1 • 16h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 1 • 17h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -293,7 +295,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 2 • 💬 0 • 30m ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 2 • 💬 0 • 1h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -313,7 +315,27 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 241 • ⏱️ 18:52 • 8h ago
+👁️ 19K • 👍 1K • 💬 290 • ⏱️ 18:52 • 8h ago
+
+---
+
+**[BTC: Should You BUY Back Here OR Wait For Lower? [My Plan]](https://www.youtube.com/watch?v=wphUx_yy-98)**
+
+In today's video, Kyledoops shares his strategy on whether to buy back now or just wait for lower. With price stalling many are ...
+
+📺 Crypto Banter
+
+👁️ 4K • 👍 500 • ⏱️ 32:04 • 34m ago
+
+---
+
+**[Bitcoin On-Chain Risk](https://www.youtube.com/watch?v=2DUCJDmTOks)**
+
+This chart shows the historical backtest of the on-chain risk gauge shown on the Homepage and the Indicator Dashboard.
+
+📺 Benjamin Cowen
+
+👁️ 12K • 👍 1K • 💬 54 • ⏱️ 9:57 • 2h ago
 
 ---
 
@@ -323,27 +345,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 7K • 👍 310 • 💬 187 • ⏱️ 19:45 • 13h ago
-
----
-
-**[Bitcoin: The Unbelievable Reality Is Setting In (18-Year Cycle)](https://www.youtube.com/watch?v=KKDPrcLDuJg)**
-
-TIA PRO $1000 OFF LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE → *GET ...
-
-📺 Jason Pizzino
-
-👁️ 9K • 👍 677 • 💬 216 • ⏱️ 29:13 • 5h ago
-
----
-
-**[Bitcoin Whales Just Reversed Their Entire Strategy — Here’s What Changed](https://www.youtube.com/watch?v=T3e6Q02kUag)**
-
-Bitcoin Whales Just Flipped Their Bets… Here's What They Know ⚠️ Something very unusual just happened in the Bitcoin ...
-
-📺 Ryan’s Money Lab
-
-👁️ 22K • 👍 1K • 💬 70 • ⏱️ 11:17 • 15h ago
+👁️ 8K • 👍 335 • 💬 184 • ⏱️ 19:45 • 13h ago
 
 ---
 
@@ -353,27 +355,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 68K • 👍 3K • 💬 349 • ⏱️ 11:32 • 1d ago
-
----
-
-**[Michael Saylor at Bitcoin MENA: Bitcoin Price Prediction 2025 &amp; What’s Next for BTC](https://www.youtube.com/watch?v=aV_y1-vJNuQ)**
-
-Michael Saylor joins Bitcoin MENA to deliver a strategic outlook on the future of Bitcoin and his latest Bitcoin price prediction for ...
-
-📺 Kevtech IT Support
-
-👁️ 4K • 👍 3K • 2h ago
-
----
-
-**[BITCOIN - BINANCE DID IT AGAIN](https://www.youtube.com/watch?v=41m6RPPFqk4)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 12K • 👍 516 • 💬 168 • ⏱️ 10:04 • 14h ago
+👁️ 69K • 👍 3K • 💬 351 • ⏱️ 11:32 • 1d ago
 
 ---
 
@@ -383,27 +365,47 @@ bitcoin is having some massive changes and I see nobody talking about them. futu
 
 📺 BTC Isla
 
-👁️ 50K • 👍 3K • 💬 493 • ⏱️ 10:23 • 2d ago
+👁️ 51K • 👍 3K • 💬 494 • ⏱️ 10:23 • 2d ago
 
 ---
 
-**[BITCOIN: QUICK MARKET UPDATE!!! #BTC Price Prediction &amp; Crypto Pump News Today](https://www.youtube.com/watch?v=4rxByFVWxM8)**
+**[Bitcoin Whales Just Reversed Their Entire Strategy — Here’s What Changed](https://www.youtube.com/watch?v=T3e6Q02kUag)**
 
-My Free Trading Course https://www.rt1m.com/free Trading Bonuses & Fee Discounts ...
+Bitcoin Whales Just Flipped Their Bets… Here's What They Know ⚠️ Something very unusual just happened in the Bitcoin ...
 
-📺 Road To $1 Million USD
+📺 Ryan’s Money Lab
 
-👁️ 4K • 👍 245 • 💬 44 • ⏱️ 4:27 • 9h ago
+👁️ 25K • 👍 1K • 💬 85 • ⏱️ 11:17 • 16h ago
 
 ---
 
-**[The Hidden Crisis Behind Bitcoin’s Latest Crash | David Bailey](https://www.youtube.com/watch?v=dSg3gs_MKBk)**
+**[BITCOIN HOLDERS: DON&#39;T IGNORE THIS...](https://www.youtube.com/watch?v=sX7sHnLUuX8)**
 
-Bitcoin #Crypto #Finance Bitcoin's price may be volatile, but according to David Bailey, CEO of Nakamoto and architect of the ...
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $100 ...
 
-📺 The Wolf Of All Streets
+📺 Crypto Rover
 
-👁️ 13K • 👍 605 • 💬 299 • ⏱️ 1:04:56 • 17h ago
+👁️ 4K • 👍 301 • 💬 49 • ⏱️ 8:55 • 3h ago
+
+---
+
+**[ANOTHER BITCOIN CONFIRMATION ON THE CHARTS FOR THIS WEEK!!!](https://www.youtube.com/watch?v=r6oYGZmh1Bc)**
+
+My Preferred Exchange BYBIT https://partner.bybit.com/b/Didi NON-KYC Exchange: ...
+
+📺 THE BITCOIN FAMILY Didi Taihuttu
+
+👁️ 4K • 👍 462 • 💬 77 • ⏱️ 20:13 • 5h ago
+
+---
+
+**[BITCOIN - BINANCE DID IT AGAIN](https://www.youtube.com/watch?v=41m6RPPFqk4)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 13K • 👍 523 • 💬 165 • ⏱️ 10:04 • 15h ago
 
 ---
 
