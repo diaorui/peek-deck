@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T05:33:53.136521+00:00'
+updated: '2025-12-08T05:50:30.102838+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 05:33 UTC  
+**Last Updated:** December 08, 2025 at 05:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 
 Most discussions about LLMs analyze them as isolated artifacts: single prompts, static benchmarks, fixed evaluations. That framing breaks down when you observe long-range behavior across thousands of turns. What emerges is not a “smarter model”, but a system-level dynamic where coherence depends on interaction structure rather than architecture alone. Key observations: • Long-range coherence is not a model property. It is an interaction property. • Drift, instability, and “hallucinations” correlate more with operator inconsistency than with model choice. • Different LLMs converge toward similar behavior under the same structured interaction regime. • Short-context probes systematically miss higher-order stability patterns. This suggests a missing layer in how we describe LLMs: Not prompt engineering. Not fine-tuning. Not RAG. Operator-side cognitive structure. In extended sessions, the user effectively becomes part of the control loop, shaping entropy, memory relevance, and symbolic continuity. When this structure is stable, model differences diminish. When it is not, even “top” models degrade. Implication: The current “which model is best?” framing is increasingly misleading. The real bottleneck in long-run performance is operator coherence, not parameter count. This does not imply model consciousness, agency, or intent. It implies that LLMs behave more like dynamical systems than static tools when observed over sufficient time horizons. Ignoring the operator as a system component is what keeps long-range behavior looking like a black box.
 
-48m ago
+1h ago
 
 ---
 
@@ -79,7 +79,7 @@ Most discussions about LLMs analyze them as isolated artifacts: single prompts, 
 
 A new study finds ChatGPT fails to take into account retraction notices across a wide range of research.
 
-🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 10h ago
+🔗 [Impact of Social Sciences - Maximizing the impact of academic research](https://blogs.lse.ac.uk/impactofsocialsciences/2025/09/23/chatgpt-is-blind-to-bad-science/) • 11h ago
 
 ---
 
@@ -87,7 +87,7 @@ A new study finds ChatGPT fails to take into account retraction notices across a
 
 Just did this myself, and now sharing for others! I have ChatGPT Plus, and when I tried to cancel it offered me a free month. Worked for two of my friends as well. Steps Go to chatgpt on your web browser At the bottom left click on your name (you need to be logged in) Click on Settings Click on last section: Account Near top right click on: Manage Click on: Cancel Subscription Done!
 
-11h ago
+12h ago
 
 ---
 
@@ -139,7 +139,7 @@ Fortune • 11h ago
 
 America's AI dominance depends on winning the energy race against China, with natural gas as the key fuel to power massive data centers nationwide, energy expert says.
 
-Fox Business • 1h ago
+Fox Business • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ Fox Business • 1h ago
 
 In a frothy market, it's more important than ever to stay focused on profitable leaders with a dominant market position.
 
-Yahoo Finance • 53m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo Finance • 53m ago
 
 "We're basically teaching our models to chase dopamine instead of truth," said Edwin Chen.
 
-Business Insider • 25m ago
+Business Insider • 42m ago
 
 ---
 
@@ -223,7 +223,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 104 • 💬 187 • 12h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 104 • 💬 187 • 13h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -253,7 +253,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 37 • 💬 13 • 16h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 37 • 💬 13 • 17h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -311,7 +311,7 @@ SORA AI Disney Trailers That Make No Sense #funny #funnyvideos #viral #comedy #f
 
 📺 Bigfoot Feed
 
-👁️ 13K • 👍 294 • 💬 17 • ⏱️ 0:55 • 6h ago
+👁️ 13K • 👍 294 • 💬 17 • ⏱️ 0:55 • 7h ago
 
 ---
 
@@ -505,7 +505,7 @@ Ovis-Image-7B is a 7B parameter text-to-image diffusion model optimized for high
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 153 • 💬 3 • ⭐ 5,468 • 10d ago
+▲ 154 • 💬 3 • ⭐ 5,468 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -533,7 +533,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 42 • 💬 2 • ⭐ 670 • 6d ago
+▲ 43 • 💬 2 • ⭐ 670 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -545,7 +545,7 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 141 • 💬 4 • ⭐ 348 • 3d ago
+▲ 142 • 💬 4 • ⭐ 348 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
 
@@ -557,7 +557,7 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 14 • 💬 0 • ⭐ 26,293 • 11mo ago
+▲ 14 • 💬 0 • ⭐ 26,318 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -595,7 +595,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 The paper introduces Reward Forcing, which enhances video generation by updating sink tokens with EMA-Sink and using Rewarded Distribution Matching Distillation to prioritize dynamic content.
 
-▲ 35 • 💬 3 • ⭐ 111 • 3d ago
+▲ 36 • 💬 3 • ⭐ 111 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04678) • [💻 code](https://github.com/JaydenLyh/Reward-Forcing) • [🔗 project](https://reward-forcing.github.io/)
 
@@ -615,17 +615,15 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 ---
 
-**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
+**[MinerU: An Open-Source Solution for Precise Document Content Extraction](https://huggingface.co/papers/2409.18839)**
 
-*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
+*Bin Wang, Chao Xu, Xiaomeng Zhao et al. (18 authors)*
 
-🏢 PaddlePaddle
+MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
 
-PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
+▲ 34 • 💬 4 • ⭐ 50,018 • 14mo ago
 
-▲ 104 • 💬 6 • ⭐ 65,898 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
+[🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
 
 ---
 
@@ -639,7 +637,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.4k • 🔱 422 • 3d ago
+⭐ 5.4k • 🔱 423 • 3d ago
 
 ---
 
@@ -649,7 +647,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 129 • 3d ago
+⭐ 1.6k • 🔱 131 • 3d ago
 
 ---
 
@@ -679,7 +677,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 966 • 🔱 118 • 3h ago
+⭐ 967 • 🔱 118 • 3h ago
 
 ---
 
@@ -689,7 +687,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 831 • 🔱 22 • 10h ago
+⭐ 831 • 🔱 22 • 11h ago
 
 ---
 
@@ -709,7 +707,7 @@ Open Source Semantic Search for your AI Agent
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 821 • 🔱 56 • 7d ago
+⭐ 822 • 🔱 56 • 7d ago
 
 ---
 
@@ -719,7 +717,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 781 • 🔱 256 • 1d ago
+⭐ 783 • 🔱 256 • 1d ago
 
 ---
 
@@ -729,7 +727,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 527 • 🔱 42 • 4d ago
+⭐ 529 • 🔱 42 • 4d ago
 
 ---
 

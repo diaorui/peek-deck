@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T05:33:53.144960+00:00'
+updated: '2025-12-08T05:50:30.111229+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 05:33 UTC  
+**Last Updated:** December 08, 2025 at 05:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,8 +45,8 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +1.9%  
-**7d:** -0.1%  
-**30d:** -12.8%  
+**7d:** -0.2%  
+**30d:** -12.9%  
 **90d:** -19.8%  
 **1y:** -6.2%  
 
@@ -99,7 +99,7 @@ Rank #1
 
 I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars per week and just set up a direct deposit with strike to do 300 dollars per paycheck (biweekly). Will instantly move my funds to a cold wallet super excited and bullish about btc 5-20 year time horizon EDIT: Just learned about UTXO. I even went to the lengths of setting up direct deposits so I can withdraw BTC faster. Now after learning this I guess the best way is to accumlate more and do one single withdrawal to a cold wallet rather than many smaller ones (correct me if I’m wrong please stilll tryna learn)
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 **[To all who sold…](https://www.reddit.com/r/Bitcoin/comments/1ph3rsw/to_all_who_sold/)**
 
-35m ago
+52m ago
 
 ---
 
@@ -135,13 +135,13 @@ Some people on TV or online act like inflation is “not that bad” or even pre
 
 Mastercard’s Crypto Card Program enables consumers to use their crypto cards to pay with crypto for everyday transactions across 100 million+ acceptance locations.
 
-🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 12h ago
+🔗 [Mastercard](https://www.mastercard.com/us/en/business/payments/consumer-payments/next-gen-payments/digital-asset-solutions/crypto-card-program.html) • 13h ago
 
 ---
 
 **[Jensen on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgclqq/jensen_on_bitcoin/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 14h ago
 
 Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
 
-Decrypt • 12h ago
+Decrypt • 13h ago
 
 ---
 
@@ -169,7 +169,7 @@ Decrypt • 12h ago
 
 Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
 
-Financial Times • 33m ago
+Financial Times • 50m ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 2h ago
 
 ETH mirrors BTC's counter-trend consolidation as XRP probes key $2 support and SOL remains directionless
 
-CoinDesk • 46m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -215,7 +215,7 @@ Bloomberg.com • 1d ago
 
 Which of these popular cryptocurrencies has more upside potential?
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -313,7 +313,7 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 989 • 💬 201 • ⏱️ 18:52 • 5h ago
+👁️ 11K • 👍 989 • 💬 201 • ⏱️ 18:52 • 6h ago
 
 ---
 
@@ -393,7 +393,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 6K • 👍 420 • 💬 217 • ⏱️ 5:07 • 8h ago
+👁️ 6K • 👍 420 • 💬 217 • ⏱️ 5:07 • 9h ago
 
 ---
 
@@ -403,7 +403,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 2K • 👍 112 • 💬 107 • ⏱️ 23:18 • 12h ago
+👁️ 2K • 👍 112 • 💬 107 • ⏱️ 23:18 • 13h ago
 
 ---
 

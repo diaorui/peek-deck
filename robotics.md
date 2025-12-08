@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T05:33:53.154341+00:00'
+updated: '2025-12-08T05:50:30.120497+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 05:33 UTC  
+**Last Updated:** December 08, 2025 at 05:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,13 +42,13 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 **[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
-34m ago
+51m ago
 
 ---
 
@@ -94,7 +94,7 @@ Website: https://www.rivr.ai/ On 𝕏: https://x.com/rivr_tech
 
 **[China's G1 humanoid robot is mastering combat skills at a terrifying rate](https://www.reddit.com/r/robotics/comments/1pghcyh/chinas_g1_humanoid_robot_is_mastering_combat/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -146,7 +146,7 @@ Seeking Alpha • 2d ago
 
 Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
 
-CNN • 16h ago
+CNN • 17h ago
 
 ---
 
@@ -276,7 +276,7 @@ For more: https://news.cgtn.com/news/2025-12-03/China-s-humanoid-robotics-leap-n
 
 📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
 
-👁️ 22K • 👍 290 • 💬 13 • ⏱️ 0:11 • 22h ago
+👁️ 22K • 👍 290 • 💬 13 • ⏱️ 0:11 • 23h ago
 
 ---
 
