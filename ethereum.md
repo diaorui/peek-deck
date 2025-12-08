@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T21:58:48.741972+00:00'
+updated: '2025-12-08T22:29:08.363232+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 21:58 UTC  
+**Last Updated:** December 08, 2025 at 22:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.6%  
-**7d:** +5.0%  
-**30d:** -12.4%  
-**90d:** -27.8%  
-**1y:** -15.4%  
+**24h:** +2.3%  
+**7d:** +4.7%  
+**30d:** -12.6%  
+**90d:** -28.0%  
+**1y:** -15.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $379.73B
+**Market Cap:** $378.13B
 Rank #2
 
 **Circulating Supply:** 120,695,342 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.4%
+-36.7%
 
 **All-Time Low:** $0.43
-+725875.2%
++722905.0%
 
 ---
 
@@ -80,7 +80,7 @@ JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -94,15 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ethereum, I’m Amey - Ratings Director at Bluechip. Stablecoins offer a cheaper way to make cross-border transactions and a more reliable way to save in economies with high inflation or unstable financial systems. But how can you tell which stablecoins are truly stable? Our SMIDGE rating framework analyzes six economic factors and assigns letter-grade ratings (from F to A+) to identify the most reliable stablecoins. You can read the full framework on our website here. Essentially, the SMIDGE framework evaluates - Stability - collateral quality, asset segregation, core stability mechanism Management - track record of team, jurisdiction, accountability to token holders Implementation - technical risk (currently not tracked) Decentralization - censorship risk, blacklisting (only for crypto-backed stablecoins) Governance - regulatory protections, redemption terms, voting systems External - market sentiment (currently not tracked) We take a crypto-native, independent, and data-driven approach to stablecoin ratings. Our framework is the first publicly available, factor-based risk model for evaluating stablecoins. Our ratings are publicly available on our website here. Currently, USDT is rated D and USDC is rated B+ by Bluechip. Last month, we partnered with the Ethereum Foundation to host Bluechip25 in Vienna, the first global conference dedicated to crypto safety. Sign up for updates on next year's Bluechip26 on our website here. We also host a podcast called Bluechip Dialogues, where our Chief Economist Garett Jones interviews leading figures in crypto. Watch the latest episode with the creator of Facebook’s stablecoin project Diem (formerly Libra) here. Follow us on Twitter here or LinkedIn here or Telegram channel here. Ask us anything! I'll be around to answer your questions over the following days.
 
-10h ago
-
----
-
-**["LinkedIn for AI Agents" using ERC-8004 & Soulbound Tokens (Need technical feedback)](https://www.reddit.com/r/ethereum/comments/1php34t/linkedin_for_ai_agents_using_erc8004_soulbound/)**
-
-Hey everyone, I've been digging into the new ERC-8004 (Trustless Agents) standard and noticed a massive gap in the current AI agent explosion. We have thousands of agents launching on Virtuals/ai16z, but no standardized way to verify their history. If a DAO wants to hire an agent to manage a treasury, how do they know it’s not a rug-pull script? I’m building SynthNet, a modular reputation layer that strictly follows the ERC-8004 spec. I wanted to share my architecture to see if I’m over-engineering this or if this approach makes sense to other devs. The Architecture (Snapshot attached): Layer 1 (Identity): AgentIdentity.sol (ERC-721).This is the "Body" of the agent. It holds the metadata and IPFS/Arweave URI for the service endpoint. It’s fully transferable (you can buy/sell the bot). Layer 2 (Reputation): SoulboundResume.sol (ERC-5192).This is the "Resume." It’s a Soulbound Token (SBT) attached to the Layer 1 NFT. It stores verified job history (e.g., "Managed $1M volume", "Uptime 99%").Critical Design Choice: If you sell the agent (Layer 1), the Resume (Layer 2) goes with it, but the new owner cannot detach it or wipe the bad history. Layer 3 (Validation): VerificationRegistry.sol.This is the logic layer. It allows authorized validators (or other smart contracts) to "stamp" the resume when a task is completed on-chain. Why I built it this way: Most "Agent Marketplaces" right now are just token launchpads. I want to build the Credit Bureau layer. I don’t care about launching the token; I care about verifying that the agent actually does what it says it does. Questions for the community: Is sticking to IERC5192 (Minimal Soulbound) sufficient for the resume, or should I be looking at more complex identity standards? I included a Migration contract to allow agents to migrate reputation from legacy registries. Is this too aggressive for an MVP? Code/Repo is still private while I clean it up, but I’d love feedback on the logic of separating Identity (Tradeable) vs. Reputation (Soulbound). Cheers.
-
-23m ago
+11h ago
 
 ---
 
@@ -110,7 +102,7 @@ Hey everyone, I've been digging into the new ERC-8004 (Trustless Agents) standar
 
 By magnitude, the biggest question for the Defi ecosystem for the next cycle is who gets to keep the yield on treasuries backing reserve stablecoins such as USDC and USDT? If secretary Bennett and the federal reserve are correct in their forecasts, we'll be at something like $3T in stablecoin market cap by 2030. At
 
-🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 2h ago
+🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 3h ago
 
 ---
 
@@ -146,6 +138,14 @@ I'm extremely new to crypto, I bought USDT on Binance and that I then transferre
 
 ---
 
+**[Can someone explain what the brothers actually did to the blockchain? Article says they added a bunch of zeros.](https://www.reddit.com/r/ethereum/comments/1pft37m/can_someone_explain_what_the_brothers_actually/)**
+
+Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 million from Ethereum traders in a blindingly fast fraud.
+
+🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -160,7 +160,7 @@ The Block • 7h ago
 
 Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -172,9 +172,19 @@ CoinDesk • 8h ago
 
 ---
 
-**[ZKsync to deprecate ZKsync Lite in 2026, sunsetting Ethereum's first ZK rollup](https://www.theblock.co/post/381632/zksync-to-deprecate-zksync-lite-in-2026-sunsetting-ethereums-first-zk-rollup)**
+**[ZKsync to Retire Its Original Ethereum Rollup Next Year](https://decrypt.co/351386/zksync-retire-original-ethereum-rollup-next-year)**
 
-The Block • 23h ago
+ZKsync is retiring its original Lite network, formalizing a shift toward ZKsync Era and the ZK Stack as activity on the legacy rollup fades.
+
+Decrypt • 19h ago
+
+---
+
+**[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
+
+The trading platform dives further into digital assets both domestically and globally.
+
+Fortune • 20m ago
 
 ---
 
@@ -182,7 +192,7 @@ The Block • 23h ago
 
 Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -191,6 +201,12 @@ Yahoo Finance • 5h ago
 Ethereum could be once again on the path to the $5,000 price level. Here's why.
 
 The Motley Fool • 1d ago
+
+---
+
+**[Vitalik Buterin pushes for trustless gas futures market to hedge Ethereum fees, sparking debate over feasibility](https://www.theblock.co/post/381677/vitalik-buterin-pushes-for-trustless-gas-futures-market-to-hedge-ethereum-fees-sparking-debate)**
+
+The Block • 11h ago
 
 ---
 
@@ -210,21 +226,7 @@ TradingView • 1d ago
 
 **[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
 
-Binance • 5h ago
-
----
-
-**[Here's why Bitcoin, Ethereum and XRP could rebound this week](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-predictions-bitcoin-and-ethereum-aim-for-breakouts-as-ripple-holds-at-2-202512080514)**
-
-Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) record a minor recovery on Monday, starting the week on a positive note. The retail demand for major cryptocurrencies remains strong despite outflows from Bitcoin and Ethereum Exchange Traded Funds (ETFs).
-
-FXStreet • 16h ago
-
----
-
-**[XRP Blasts Past Bitcoin and Ethereum Sell-offs, Analyst Declares Rally Will Hit on ‘Promising Fundamentals’](https://www.tipranks.com/news/xrp-blasts-past-bitcoin-and-ethereum-selloffs-analyst-declares-rally-will-hit-on-promising-fundamentals)**
-
-TipRanks • 8h ago
+Binance • 6h ago
 
 ---
 
@@ -258,7 +260,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 241 • 💬 10 • ⏱️ 15:50 • 6h ago
+👁️ 5K • 👍 241 • 💬 10 • ⏱️ 15:50 • 7h ago
 
 ---
 
@@ -268,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 123 • 💬 3 • ⏱️ 5:35 • 4h ago
+👁️ 1K • 👍 123 • 💬 3 • ⏱️ 5:35 • 5h ago
 
 ---
 
@@ -308,7 +310,7 @@ On today's episode of CNBC Crypto World, bitcoin continues to trade below $90000
 
 📺 CNBC Television
 
-👁️ 2K • 👍 112 • 💬 58 • ⏱️ 13:30 • 1h ago
+👁️ 2K • 👍 112 • 💬 58 • ⏱️ 13:30 • 2h ago
 
 ---
 
@@ -328,7 +330,7 @@ Check out SolPump.io Sign up here ▻ https://solpump.io/a/FIREHUSTLE TRADE ON B
 
 📺 FireHustle
 
-👁️ 128 • 👍 89 • 💬 41 • ⏱️ 14:17 • 50m ago
+👁️ 128 • 👍 89 • 💬 41 • ⏱️ 14:17 • 1h ago
 
 ---
 

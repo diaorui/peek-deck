@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T21:58:48.745212+00:00'
+updated: '2025-12-08T22:29:08.366513+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 21:58 UTC  
+**Last Updated:** December 08, 2025 at 22:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -50,7 +50,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
 
-8h ago
+9h ago
 
 ---
 
@@ -58,7 +58,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
-9h ago
+10h ago
 
 ---
 
@@ -70,11 +70,11 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 ---
 
-**[UFactory xArm 6 with gripper for sale - UK](https://www.reddit.com/r/robotics/comments/1phhqde/ufactory_xarm_6_with_gripper_for_sale_uk/)**
+**[SoftBank & NVIDIA Reportedly In Talks to Invest Over $1 Billion into Skild AI (Source: Reuters)](https://www.reddit.com/r/robotics/comments/1phj7kx/softbank_nvidia_reportedly_in_talks_to_invest/)**
 
-Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a shelf unused and I'm sure someone out there (UK based) can make much better use of it than I can. This unit is used but in good working condition. It has the gripper attachment included and comes as part of the package. I don't have the original box anymore but I can box it up with protective materials and another suitably strong box if shipping or ideally could be collected or delivered to the new owner. The uFactory x-arm 6 is a 6 axis robot featuring a 5kg payload capacity, 700mm reach. This unit has a gripper attachment included and is compatible with multiple operating systems using the xArm studio software.
+According to Reuters, NVIDIA and SoftBank, combined, are looking to invest more than $1 billion into Skild AI.
 
-4h ago
+🔗 [Windows Report](https://windowsreport.com/softbank-nvidia-reportedly-in-talks-to-invest-over-1-billion-into-skild-ai/) • 4h ago
 
 ---
 
@@ -84,9 +84,17 @@ Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a sh
 
 ---
 
+**[UFactory xArm 6 with gripper for sale - UK](https://www.reddit.com/r/robotics/comments/1phhqde/ufactory_xarm_6_with_gripper_for_sale_uk/)**
+
+Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a shelf unused and I'm sure someone out there (UK based) can make much better use of it than I can. This unit is used but in good working condition. It has the gripper attachment included and comes as part of the package. I don't have the original box anymore but I can box it up with protective materials and another suitably strong box if shipping or ideally could be collected or delivered to the new owner. The uFactory x-arm 6 is a 6 axis robot featuring a 5kg payload capacity, 700mm reach. This unit has a gripper attachment included and is compatible with multiple operating systems using the xArm studio software.
+
+5h ago
+
+---
+
 **[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -95,14 +103,6 @@ Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a sh
 Hi everyone, I am a researcher working on reinforcement learning for motion control. We developed methods like DeepMimic, AMP, and Dynamics Randomization, which are the techniques behind many of the cool humanoid robot demos that you've been seeing. We recently released a codebase, MimicKit: https://github.com/xbpeng/MimicKit which has implementations of many of these methods that you can use to train controllers for your own robots. I want to share the codebase with this community, in case it might be useful for fellow robotics enthusiasts.
 
 1d ago
-
----
-
-**[Robot kicking a soccer ball in sim，contact accuracy & rigid body dynamics](https://www.reddit.com/r/robotics/comments/1phbq9l/robot_kicking_a_soccer_ball_in_simcontact/)**
-
-Just sharing a small test clip from a sim environment: simple walking + a few controlled kicks. From my experience, getting this kind of behavior to look even remotely stable depends a lot on two things: the accuracy of the rigid-body collisions how well the contact forces are resolved frame-to-frame If either of those is off, the foot either tunnels through the ball or the ball reacts in weird, non-physical ways. With a more accurate physics setup, the kick actually lands where you expect, and the robot’s gait doesn’t blow up.
-
-9h ago
 
 ---
 
@@ -130,7 +130,7 @@ Breaking Defense • 7h ago
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -174,17 +174,17 @@ wallpaper.com • 1d ago
 
 ---
 
-**[Robots Are Coming. What Investors Need to Know.](https://www.barrons.com/articles/robots-stock-investors-b294d6a5?gaa_at=eafs&gaa_n=AWEtsqc_cBr7GXtFJAHN6rwW5jgQeLKwH_dd8_2zbosY0WJkU1-if2-5k5tj&gaa_ts=69374884&gaa_sig=3H_ZtX-OJwTlQrXIfmTIBQjo1bzeSyYsgowL9Q9wBh3OlRKWFINT5GDvSUrZ7dtUk7L1i-yBsE_FE8rXU9-8Ww%3D%3D)**
-
-Barron's • 58m ago
-
----
-
 **[Unitree's Big Humanoid Robots Are Fighting Now](https://www.cnet.com/tech/computing/unitrees-big-humanoid-robots-are-fighting-now/)**
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
 CNET • 1d ago
+
+---
+
+**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://www.marketbeat.com/stock-ideas/5-robotics-stocks-catching-momentum-after-new-policy-tailwinds/)**
+
+MarketBeat • 6h ago
 
 ---
 
@@ -208,7 +208,7 @@ Leaders in the robotics industry say that to strengthen AI, companies also need 
 
 📺 CBS News
 
-👁️ 18K • 👍 389 • 💬 186 • ⏱️ 4:05 • 3d ago
+👁️ 18K • 👍 389 • 💬 186 • ⏱️ 4:05 • 4d ago
 
 ---
 
@@ -278,7 +278,7 @@ War Robots - New robot Ammit is a mini Bedwyr! In this weekend's test server I t
 
 📺 Adrian Chong
 
-👁️ 2K • 👍 127 • 💬 42 • ⏱️ 20:38 • 7h ago
+👁️ 2K • 👍 127 • 💬 42 • ⏱️ 20:38 • 8h ago
 
 ---
 
@@ -288,7 +288,7 @@ Video released by Chinese robotics company EngineAI shows their humanoid T800 ro
 
 📺 CNN
 
-👁️ 50K • 👍 737 • 💬 315 • ⏱️ 0:41 • 17h ago
+👁️ 50K • 👍 737 • 💬 315 • ⏱️ 0:41 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T21:58:48.735974+00:00'
+updated: '2025-12-08T22:29:08.357208+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 21:58 UTC  
+**Last Updated:** December 08, 2025 at 22:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,283.24
+### $90,978.53
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** -0.1%  
-**30d:** -12.8%  
-**90d:** -19.8%  
-**1y:** -6.2%  
+**24h:** +0.8%  
+**7d:** -0.4%  
+**30d:** -13.1%  
+**90d:** -20.0%  
+**1y:** -6.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1820.17B
+**Market Cap:** $1815.18B
 Rank #1
 
-**Circulating Supply:** 19,959,462 BTC
+**Circulating Supply:** 19,959,484 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.7%
+-27.9%
 
 **All-Time Low:** $67.81
-+134383.1%
++133987.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 They have a promotion going on with Ledger
 
-3h ago
+4h ago
 
 ---
 
 **[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -119,13 +119,13 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 **[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
 
-38m ago
+1h ago
 
 ---
 
 **[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -139,7 +139,7 @@ They didn't trade, they didn't sell to buy back later, they didn't follow the 4-
 
 **[Buy buy buy!](https://www.reddit.com/r/Bitcoin/comments/1ph9n2c/buy_buy_buy/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg.com • 2h ago
 
 iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
 
-Morningstar • 10h ago
+Morningstar • 11h ago
 
 ---
 
@@ -167,15 +167,43 @@ Morningstar • 10h ago
 
 Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
-**[‘More Orange Dots’: Michael Saylor’s Strategy Buys 10,624 Bitcoin Amid Sell-Off Concerns](https://finance.yahoo.com/news/more-orange-dots-michael-saylor-130749098.html)**
+**[Michael Saylor's Strategy buys another 10,624 bitcoin for $963 million as treasury holdings reach 660,624 BTC](https://www.theblock.co/post/381668/michael-saylors-strategy-buys-more-bitcoin)**
 
-Michael Saylor’s Strategy, previously MicroStrategy, has made another weekly Bitcoin purchase despite concerns that it may need to sell some of its BTC holdings in a prolonged bear market. This latest purchase comes amid a rebound in the Bitcoin price, while the MSTR stock is also up in pre-market trading. Strategy Acquires 10,624 BTC for
+The Block • 9h ago
 
-Yahoo Finance • 8h ago
+---
+
+**[Bitcoin's Momentum Appears to Be Holding After 3% Weekend Move Higher](https://finance.yahoo.com/news/bitcoins-momentum-appears-holding-3-214754654.html)**
+
+What should investors make of Bitcoin's impressive rally off of weekend lows?
+
+Yahoo Finance • 41m ago
+
+---
+
+**[Texas launches cryptocurrency reserve with $5M Bitcoin purchase](https://www.businessreport.com/article/texas-launches-cryptocurrency-reserve-with-5m-bitcoin-purchase)**
+
+Texas has launched its new cryptocurrency reserve with a $5 million purchase of Bitcoin as the state continues to embrace the volatile and controversial digital currency. The Texas Comptroller’s Office confirmed the purchase was made last month as a “placeholder investment” while the office works to contract with a cryptocurrency bank to manage its portfolio. […]
+
+Baton Rouge Business Report • 1h ago
+
+---
+
+**[What the First Divergence of Stock and Bitcoin Returns in 10 Years Means](https://www.businessinsider.com/stock-market-bitcoin-return-correlation-divergence-explained-outlook-2025-12)**
+
+If the stock market is up, bitcoin usually is too. But this year has been different.
+
+Business Insider • 11h ago
+
+---
+
+**[Opinion: Bitcoin’s November crash was no accident](https://www.marketwatch.com/story/bitcoins-november-crash-was-no-accident-7d0b0c04?gaa_at=eafs&gaa_n=AWEtsqflfyGqYZor-O4Ob3s-bv73wElK4lvLorXVoIh66yUiC1GGabmKVyMD&gaa_ts=6937549f&gaa_sig=nwp0dr4goGEQflo2AvaayhuSqn3skQb428n8qIQ6O008QeKH5ApFgmEtoLEz-lXI59zNU98ZTXGykcozqH9X2g%3D%3D)**
+
+MarketWatch • 9h ago
 
 ---
 
@@ -187,41 +215,11 @@ CoinDesk • 1h ago
 
 ---
 
-**[Bitcoin Isn’t Just a Tech Stock on Steroids. What Really Moves It.](https://www.barrons.com/articles/bitcoin-and-stocks-less-correlated-than-investors-think-bac9d908?gaa_at=eafs&gaa_n=AWEtsqcUBSJ-j7wX1h51RD10ugG7nOwgGNHdfG5VrKzjMM7ikFkW3KYOo1-j&gaa_ts=69374880&gaa_sig=Y6gV9wERK3ThZFlMIiPfsjOVVkZ1TCKQo2NSkPxo-H1vdvzJRPh6aXhU5HUdOxiM6gMxjnXO_cpa9bspt2eUQA%3D%3D)**
-
-Barron's • 56m ago
-
----
-
 **[Bitcoin will “snapback or chop ahead of the Fed” decision](https://sherwood.news/crypto/bitcoin-will-snapback-or-chop-ahead-of-the-fed-decision/)**
 
 Traders on prediction markets are divided, giving an equal chance that bitcoin drops below $80,000 or rises above $100,000 this year....
 
 Sherwood News • 5h ago
-
----
-
-**[Fed meeting to boost Bitcoin price ‘sharply higher’ than $92,000, analysts say](https://www.dlnews.com/articles/markets/fed-meeting-to-boost-bitcoin-price-sharply-higher-than-92000-analysts-say/)**
-
-Investors expect the Federal Reserve to slash interest rates by 0.25% on Wednesday.  Macro tailwinds are seen as a catalyst for crypto.
-
-dlnews.com • 11h ago
-
----
-
-**[New Bitcoin On-Chain Signals Arrive Ahead of FOMC Meeting and Rate Cut Expectations](https://finance.yahoo.com/news/bitcoin-chain-signals-arrive-ahead-205616658.html)**
-
-New Bitcoin on-chain signals emerge as 10-year coins move ahead of the Fed’s expected rate cut. Market watches FOMC closely.
-
-Yahoo Finance • 1h ago
-
----
-
-**[What the First Divergence of Stock and Bitcoin Returns in 10 Years Means](https://www.businessinsider.com/stock-market-bitcoin-return-correlation-divergence-explained-outlook-2025-12)**
-
-If the stock market is up, bitcoin usually is too. But this year has been different.
-
-Business Insider • 10h ago
 
 ---
 
@@ -277,7 +275,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 9 • 💬 0 • 14h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 9 • 💬 0 • 15h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -313,7 +311,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 613 • 💬 187 • ⏱️ 9:22 • 6h ago
+👁️ 12K • 👍 613 • 💬 187 • ⏱️ 9:22 • 7h ago
 
 ---
 
@@ -323,7 +321,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 1K • 👍 184 • ⏱️ 34:53 • 1h ago
+👁️ 1K • 👍 184 • ⏱️ 34:53 • 2h ago
 
 ---
 
@@ -333,7 +331,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 158 • ⏱️ 37:28 • 6h ago
+👁️ 24K • 👍 1K • 💬 158 • ⏱️ 37:28 • 7h ago
 
 ---
 
@@ -343,7 +341,7 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 28K • 👍 2K • 💬 289 • ⏱️ 20:03 • 1h ago
+👁️ 28K • 👍 2K • 💬 289 • ⏱️ 20:03 • 2h ago
 
 ---
 
@@ -363,7 +361,7 @@ The White House Just Released The Cryptocurrency Bulls!! Become a channel member
 
 📺 Altcoin Daily
 
-👁️ 63K • 👍 4K • 💬 346 • ⏱️ 12:47 • 23h ago
+👁️ 63K • 👍 4K • 💬 346 • ⏱️ 12:47 • 1d ago
 
 ---
 
@@ -403,7 +401,7 @@ Market Update Crypto Strategy School https://cryptostrategyschool.com/ab/ ➡️
 
 📺 Aaron Bennett
 
-👁️ 9K • 👍 560 • 💬 191 • ⏱️ 13:46 • 9h ago
+👁️ 9K • 👍 560 • 💬 191 • ⏱️ 13:46 • 10h ago
 
 ---
 
