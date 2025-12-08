@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T10:58:04.747786+00:00'
+updated: '2025-12-08T11:26:37.850714+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 10:58 UTC  
+**Last Updated:** December 08, 2025 at 11:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +3.5%  
-**7d:** +0.8%  
+**24h:** +3.2%  
+**7d:** +0.7%  
 **30d:** -12.1%  
 **90d:** -19.1%  
-**1y:** -5.3%  
+**1y:** -5.4%  
 
 ---
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
 
-7h ago
+8h ago
 
 ---
 
 **[To all who sold…](https://www.reddit.com/r/Bitcoin/comments/1ph3rsw/to_all_who_sold/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -125,13 +125,13 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 **[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Not selling Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pgtw05/not_selling_bitcoin/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -139,7 +139,7 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 Really cool they have this at common bookstores in Thailand. The placement could be better hahaha, forex has a better location on the shelves here. FOREX!!! Is bitcoin a type of Forex? Kinda. Its actually the ultimate forex.
 
-1h ago
+2h ago
 
 ---
 
@@ -157,7 +157,7 @@ CoinDesk • 3d ago
 
 **[Cathie Wood predicts next gold crash, sees Bitcoin outperforming](https://www.thestreet.com/crypto/markets/cathie-wood-predicts-next-gold-crash-bitcoin-outperforming)**
 
-TheStreet • 19h ago
+TheStreet • 20h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1h ago
 
 Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
@@ -257,7 +257,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 1 • 19h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 1 • 20h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -281,7 +281,7 @@ Track the next Bitcoin halving event with live countdown and real-time block upd
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 6 • 💬 0 • 3h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 6 • 💬 0 • 4h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -329,7 +329,7 @@ TIA PRO $1000 OFF LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK 
 
 📺 Jason Pizzino
 
-👁️ 19K • 👍 1K • 💬 381 • ⏱️ 29:13 • 8h ago
+👁️ 19K • 👍 1K • 💬 381 • ⏱️ 29:13 • 9h ago
 
 ---
 
@@ -359,7 +359,7 @@ Bitcoin Whales Just Flipped Their Bets… Here's What They Know ⚠️ Something
 
 📺 Ryan’s Money Lab
 
-👁️ 26K • 👍 1K • 💬 90 • ⏱️ 11:17 • 18h ago
+👁️ 26K • 👍 1K • 💬 90 • ⏱️ 11:17 • 19h ago
 
 ---
 
@@ -379,7 +379,7 @@ Join our FREE Crypto Telegram: https://t.me/+V7tcpYIMZvMMYcBl Bitunix Exchange (
 
 📺 MegaWhale Crypto
 
-👁️ 5K • 👍 277 • 💬 313 • ⏱️ 21:14 • 9h ago
+👁️ 5K • 👍 277 • 💬 313 • ⏱️ 21:14 • 10h ago
 
 ---
 
@@ -389,7 +389,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 13K • 👍 527 • 💬 185 • ⏱️ 10:04 • 17h ago
+👁️ 13K • 👍 527 • 💬 185 • ⏱️ 10:04 • 18h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T10:58:04.755928+00:00'
+updated: '2025-12-08T11:26:37.860011+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 10:58 UTC  
+**Last Updated:** December 08, 2025 at 11:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-23h ago
+1d ago
 
 ---
 
@@ -62,7 +62,7 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 **[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -70,7 +70,7 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 An old picture. The progress is in the coding, and testing, and tuning of the hardware.
 
-19h ago
+20h ago
 
 ---
 
@@ -78,7 +78,7 @@ An old picture. The progress is in the coding, and testing, and tuning of the ha
 
 Does any one have build the robotics arm which can be controlled via neural signals? If yes the which servos are preferred? And how many axis where u guys able to achieve it?
 
-3h ago
+4h ago
 
 ---
 
@@ -86,7 +86,7 @@ Does any one have build the robotics arm which can be controlled via neural sign
 
 NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑language‑action foundation model for humanoid robots, built to connect perception, language, and low‑level control so a single policy can handle many manipulation tasks across different embodiments. Since GTC they have released GR00T N1 and then N1.5 with architectural and data upgrades aimed at better generalization, grounding, and language following, plus tooling like simulation blueprints and synthetic motion data pipelines to accelerate training.​​ For anyone here actually playing with GR00T in the lab or integrating it on real hardware: how mature is it right now compared to the keynote demos and marketing? Any experiences with N1 vs N1.5, sim‑to‑real transfer, or using the GR00T toolchain (Dreams / Blueprint / Omniverse etc.) in a serious robotics stack would be super valuable to hear about.​
 
-7h ago
+8h ago
 
 ---
 
@@ -94,7 +94,7 @@ NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑l
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 6h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 7h ago
 
 ---
 
@@ -102,7 +102,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 From Tuo Liu on 𝕏: https://x.com/Robo_Tuo/status/1997975944943034589
 
-12m ago
+40m ago
 
 ---
 
@@ -154,7 +154,7 @@ Yahoo Finance • 1d ago
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
-CNET • 21h ago
+CNET • 22h ago
 
 ---
 
@@ -184,7 +184,7 @@ Knowable Magazine • 3d ago
 
 America’s robotics race is heating up under the Trump administration, and AMD might be the cleanest way to get in early.
 
-Barchart.com • 20h ago
+Barchart.com • 21h ago
 
 ---
 
@@ -258,7 +258,7 @@ Unitree's latest demos reveal that kickboxing is no longer just for its smaller 
 
 📺 CNET
 
-👁️ 26K • 👍 598 • 💬 93 • ⏱️ 6:05 • 21h ago
+👁️ 26K • 👍 598 • 💬 93 • ⏱️ 6:05 • 22h ago
 
 ---
 
