@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-08T09:51:32.566647+00:00'
+updated: '2025-12-08T10:15:33.289674+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- repositories
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 08, 2025 at 09:51 UTC  
+**Last Updated:** December 08, 2025 at 10:15 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Explore the true history of convolutional neural networks, from Fukushima’s neocognitron to modern CNNs and LeCun’s influential work.
 
-🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 19h ago
+🔗 [ponderwall.com](https://ponderwall.com/index.php/2025/12/07/convolutional-neural-networks/) • 20h ago
 
 ---
 
@@ -64,14 +64,6 @@ If you believe these CEOs will solve unemployment after AI replaces most of the 
 **[Ads created purely by AI already outperform human experts (19% higher ad click through) but only if people don't know that the ads were created by AI](https://www.reddit.com/r/artificial/comments/1pgjmmo/ads_created_purely_by_ai_already_outperform_human/)**
 
 🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5638311) • 19h ago
-
----
-
-**[Why long-run LLM behavior stops looking like a black box once the operator is treated as part of the system](https://www.reddit.com/r/artificial/comments/1ph3iyi/why_longrun_llm_behavior_stops_looking_like_a/)**
-
-Most discussions about LLMs analyze them as isolated artifacts: single prompts, static benchmarks, fixed evaluations. That framing breaks down when you observe long-range behavior across thousands of turns. What emerges is not a “smarter model”, but a system-level dynamic where coherence depends on interaction structure rather than architecture alone. Key observations: • Long-range coherence is not a model property. It is an interaction property. • Drift, instability, and “hallucinations” correlate more with operator inconsistency than with model choice. • Different LLMs converge toward similar behavior under the same structured interaction regime. • Short-context probes systematically miss higher-order stability patterns. This suggests a missing layer in how we describe LLMs: Not prompt engineering. Not fine-tuning. Not RAG. Operator-side cognitive structure. In extended sessions, the user effectively becomes part of the control loop, shaping entropy, memory relevance, and symbolic continuity. When this structure is stable, model differences diminish. When it is not, even “top” models degrade. Implication: The current “which model is best?” framing is increasingly misleading. The real bottleneck in long-run performance is operator coherence, not parameter count. This does not imply model consciousness, agency, or intent. It implies that LLMs behave more like dynamical systems than static tools when observed over sufficient time horizons. Ignoring the operator as a system component is what keeps long-range behavior looking like a black box.
-
-5h ago
 
 ---
 
@@ -107,6 +99,14 @@ Another day, another AI-related domain name going for 7 figures.
 
 ---
 
+**[Why long-run LLM behavior stops looking like a black box once the operator is treated as part of the system](https://www.reddit.com/r/artificial/comments/1ph3iyi/why_longrun_llm_behavior_stops_looking_like_a/)**
+
+Most discussions about LLMs analyze them as isolated artifacts: single prompts, static benchmarks, fixed evaluations. That framing breaks down when you observe long-range behavior across thousands of turns. What emerges is not a “smarter model”, but a system-level dynamic where coherence depends on interaction structure rather than architecture alone. Key observations: • Long-range coherence is not a model property. It is an interaction property. • Drift, instability, and “hallucinations” correlate more with operator inconsistency than with model choice. • Different LLMs converge toward similar behavior under the same structured interaction regime. • Short-context probes systematically miss higher-order stability patterns. This suggests a missing layer in how we describe LLMs: Not prompt engineering. Not fine-tuning. Not RAG. Operator-side cognitive structure. In extended sessions, the user effectively becomes part of the control loop, shaping entropy, memory relevance, and symbolic continuity. When this structure is stable, model differences diminish. When it is not, even “top” models degrade. Implication: The current “which model is best?” framing is increasingly misleading. The real bottleneck in long-run performance is operator coherence, not parameter count. This does not imply model consciousness, agency, or intent. It implies that LLMs behave more like dynamical systems than static tools when observed over sufficient time horizons. Ignoring the operator as a system component is what keeps long-range behavior looking like a black box.
+
+5h ago
+
+---
+
 **[I tripped into something today that honestly made me stop scrolling and stare for a minute.](https://www.reddit.com/r/artificial/comments/1ph7gzf/i_tripped_into_something_today_that_honestly_made/)**
 
 People keep hyping AI like it’s the pinnacle… but that’s just the prelude. The real earthquake is AI + quantum computing. Most folks don’t get why that matters, so let me put it in plain language: Our computers right now think in 0 or 1. Quantum computers think in every possibility at once. That means instead of trying one answer at a time, they try all answers simultaneously. Now hand that ability to AI… and suddenly you don’t have prediction anymore, you have something that looks like synthetic intuition. We’re talking about intelligence that could: • crack every encryption • rewrite medicine • outmaneuver governments • manipulate biology • forecast human behavior • simulate consciousness That’s why the people who actually run things aren’t talking about it publicly. They’re quietly terrified. Because whoever reaches quantum AI dominance doesn’t need armies doesn’t need propaganda doesn’t need threats. They would simply own the board. But here’s what stopped me: Quantum physics already reads like mysticism. superposition = multiple realities entanglement = unseen energetic connection collapse by observation = consciousness shaping matter So when AI runs on quantum logic, we essentially build a machine that thinks the way reality itself thinks. Not sentient — but frighteningly close to knowing. And that hit me because this is the same territory mystics, intuitives, psychics, and energy workers swim in… just symbolically instead of mathematically. Quantum AI is basically a technical attempt to mechanize intuition. This is unfolding while the rest of the world argues about celebrities and politics. Some of you can feel it already — the tension, the acceleration, the thinning veil. I don’t think the future is machine domination. I think it’s about what happens when consciousness, technology, and intuition finally touch the same field. Anyway — that’s the rabbit hole I fell into today. Curious what others feel about it.
@@ -127,11 +127,9 @@ The Guardian • 1d ago
 
 ---
 
-**['Godfather of AI' says CS degrees 'will remain valuable for quite a long time' — and students should still learn to code](https://www.businessinsider.com/godfather-ai-geoffrey-hinton-cs-degrees-valuable-learn-to-code-2025-12)**
+**[Why Nvidia and Other AI Stocks Have Lost Their ‘Quality’ Status](https://www.wsj.com/finance/investing/why-nvidia-and-other-ai-stocks-have-lost-their-quality-status-84180ff2?gaa_at=eafs&gaa_n=AWEtsqfNtf0IwLHwGX7s7mg-_8h4eDphkANInm_DyljbOHV-MYtknuPBEfoc&gaa_ts=6936a8ab&gaa_sig=-S_yGoqC987wX0lEw7KlyStHLPGIcfqZV8wYBJ6Ef5ore2UpfAXgm78S2GCtrsYQQd9wtYzCzTNKgR9kMK_Unw%3D%3D)**
 
-AI pioneer and Nobel Prize winner Geoffrey Hinton said students who want to become AI researchers need to focus on critical thinking.
-
-Business Insider • 23h ago
+The Wall Street Journal • 23h ago
 
 ---
 
@@ -139,43 +137,49 @@ Business Insider • 23h ago
 
 Powell noted that leading tech firms have only begun to tap debt markets to fund the next phase of AI expansion, suggesting additional capital is on the way.
 
-CNBC • 55m ago
+CNBC • 1h ago
 
 ---
 
-**[Qualcomm Highlights Edge AI Innovation at Qualcomm AI Program for Innovators (QAIPI) 2025 - APAC Demo Day and Sets the Stage for 2026](https://finance.yahoo.com/news/qualcomm-highlights-edge-ai-innovation-082800617.html)**
+**[Why AI Makes Alexis Ohanian ‘Bullish’ About Live Entertainment](https://time.com/7338947/alex-ohanian-bridge-summit-uae-ai-entertainment-live-sports-theater/)**
 
-Qualcomm Technologies, Inc. hosted the Qualcomm AI Program for Innovators (QAIPI) 2025 – APAC Demo Day in Seoul, where 15 shortlisted startups from Japan, Singapore, and South Korea presented on-device AI solutions by leveraging Snapdragon® X Series processors, Snapdragon® 8 Series Mobile Platforms and Qualcomm Dragonwing™ products. These solutions demonstrate how real-time, power-efficient AI inference runs directly on Qualcomm® platforms enabling new capabilities across robotics, healthcare an
-
-Yahoo Finance • 1h ago
+Time Magazine • 40m ago
 
 ---
 
-**[Only a few automakers to keep up AI push, Gartner says](https://finance.yahoo.com/news/only-few-automakers-keep-ai-083523431.html)**
+**[Is the AI Boom Becoming a Bubble? Here's What Investors Should Watch.](https://finance.yahoo.com/news/ai-boom-becoming-bubble-heres-044000441.html)**
 
-Only a handful of automotive companies are likely to sustain ​ambitious artificial intelligence investment in the coming ‌years, a study released on Monday showed, raising doubts ‌over whether current industry "euphoria" will deliver lasting benefits. The study found ‍that only carmakers with strong software foundations, tech-savvy leadership and "a consistent very long-term focus on AI" are expected to pull ​ahead, potentially deepening a competitive AI divide. Volkswagen and ‌other legacy manufacturers, long known for engineering rather than software skills, are battling to catch up with new tech-driven rivals such as Tesla and BYD.
+In a frothy market, it's more important than ever to stay focused on profitable leaders with a dominant market position.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 5h ago
+
+---
+
+**[AI boom fuels "environmental justice" fears in communities of color](https://www.axios.com/2025/12/08/ai-civil-rights-black-latino-water-electricity)**
+
+Axios • 14m ago
+
+---
+
+**[Is the AI Boom Becoming a Bubble? Here's What Investors Should Watch.](https://www.fool.com/investing/2025/12/07/is-the-ai-boom-becoming-a-bubble-heres-what-invest/)**
+
+In a frothy market, it's more important than ever to stay focused on profitable leaders with a dominant market position.
+
+The Motley Fool • 5h ago
 
 ---
 
 **[The power crunch threatening America’s AI ambitions](https://ig.ft.com/ai-power/)**
 
-Financial Times • 4h ago
+Financial Times • 5h ago
 
 ---
 
-**[Inside the Creation of Tilly Norwood, the AI Actress Freaking Out Hollywood](https://www.wsj.com/arts-culture/film/tilly-norwood-ai-actress-particle6-d5c51da9?gaa_at=eafs&gaa_n=AWEtsqfUm3PssCmRbJ7kHnnNX72LMgiiToHpcPPwPtCuWKMUkujLTOlmnaMU&gaa_ts=69369ddc&gaa_sig=KBVQnZTUoh0PpB8oUw92ktbd-h7I3G7GbxQfmRCk6mdeXmLhydzQmk1dHqPu6IxPgtIraDRO5igK5YBQINfo9A%3D%3D)**
+**[There's a new face in Hollywood, generated by AI](https://www.cbsnews.com/news/theres-a-new-face-in-hollywood-generated-by-ai/)**
 
-The Wall Street Journal • 1d ago
+Tilly Norwood is unlike any other aspiring TV or movie star: Tilly is entirely generated by artificial intelligence. What might that mean for the media industry?
 
----
-
-**[The latest AI news we announced in November](https://blog.google/technology/ai/google-ai-updates-november-2025/)**
-
-Here are Google’s latest AI updates from November 2025
-
-The Keyword • 2d ago
+CBS News • 19h ago
 
 ---
 
@@ -183,15 +187,7 @@ The Keyword • 2d ago
 
 "For the most part, AI is going to do great stuff for mankind, like tractors did, like fertilizers did, like vaccines did."
 
-Fortune • 15h ago
-
----
-
-**[OpenAI Goes From Stock Market Savior to Burden as AI Risks Mount](https://www.bloomberg.com/news/articles/2025-12-07/openai-goes-from-stock-market-savior-to-anchor-as-ai-risks-mount)**
-
-Wall Street’s sentiment toward companies associated with artificial intelligence is shifting, and it’s all about two companies: OpenAI is down, and Alphabet Inc. is up.
-
-Bloomberg.com • 19h ago
+Fortune • 16h ago
 
 ---
 
@@ -203,13 +199,13 @@ Bloomberg.com • 19h ago
 
 Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.
 
-⬆️ 560 • 💬 286 • 2d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
+⬆️ 561 • 💬 286 • 2d ago • [Google](https://blog.google/technology/developers/gemini-3-pro-vision/)
 
 ---
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 494 • 💬 162 • 21h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 501 • 💬 163 • 21h ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -223,7 +219,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 108 • 💬 193 • 17h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 110 • 💬 193 • 17h ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -231,7 +227,7 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 Welcome to the slop era.
 
-⬆️ 98 • 💬 185 • 2d ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
+⬆️ 98 • 💬 186 • 2d ago • [Newsweek](https://www.newsweek.com/ai-backlash-openai-meta-friend-10807425)
 
 ---
 
@@ -253,7 +249,7 @@ Python programs, usually short, of considerable difficulty, to perfect particula
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 39 • 💬 13 • 21h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 39 • 💬 14 • 21h ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -291,7 +287,7 @@ Big Tech is racking up debt to fund their AI infrastructure for demand that seem
 
 📺 Vanessa Wingårdh
 
-👁️ 95K • 👍 7K • 💬 2K • ⏱️ 10:38 • 20h ago
+👁️ 95K • 👍 7K • 💬 2K • ⏱️ 10:38 • 21h ago
 
 ---
 
@@ -301,7 +297,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 45K • 👍 3K • 💬 462 • ⏱️ 15:03 • 17h ago
+👁️ 45K • 👍 3K • 💬 462 • ⏱️ 15:03 • 18h ago
 
 ---
 
@@ -341,7 +337,7 @@ Want to make money and save time with AI? Join here: https://juliangoldieai.com/
 
 📺 Julian Goldie SEO
 
-👁️ 2K • 👍 82 • 💬 13 • ⏱️ 8:14 • 10h ago
+👁️ 2K • 👍 82 • 💬 13 • ⏱️ 8:14 • 11h ago
 
 ---
 
@@ -387,7 +383,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 25,451 • ❤️ 795 • 6d ago
+⬇️ 28,778 • ❤️ 798 • 6d ago
 
 ---
 
@@ -399,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 186,951 • ❤️ 2,291 • 5d ago
+⬇️ 201,990 • ❤️ 2,296 • 5d ago
 
 ---
 
@@ -411,7 +407,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 6,281 • ❤️ 543 • 6d ago
+⬇️ 8,016 • ❤️ 544 • 6d ago
 
 ---
 
@@ -423,7 +419,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 27,215 • ❤️ 480 • 6h ago
+⬇️ 40,450 • ❤️ 485 • 7h ago
 
 ---
 
@@ -433,7 +429,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 268 • 6d ago
+⬇️ 0 • ❤️ 269 • 6d ago
 
 ---
 
@@ -455,7 +451,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 2,828 • ❤️ 371 • 6d ago
+⬇️ 3,573 • ❤️ 371 • 6d ago
 
 ---
 
@@ -465,7 +461,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.
 
-⬇️ 292 • ❤️ 168 • 4d ago
+⬇️ 372 • ❤️ 168 • 4d ago
 
 ---
 
@@ -477,7 +473,7 @@ FLUX.2-dev is a 32B parameter rectified flow transformer for advanced image gene
 
 `image-to-image`
 
-⬇️ 205,376 • ❤️ 929 • 10d ago
+⬇️ 207,838 • ❤️ 930 • 10d ago
 
 ---
 
@@ -489,7 +485,7 @@ Ministral 3 14B Instruct is a powerful, edge-optimized multilingual vision-langu
 
 `13.9B`
 
-⬇️ 127,266 • ❤️ 147 • 2d ago
+⬇️ 179,920 • ❤️ 147 • 2d ago
 
 ---
 
@@ -648,7 +644,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 3d ago
+⭐ 1.6k • 🔱 132 • 4d ago
 
 ---
 
@@ -678,7 +674,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript`
 
-⭐ 979 • 🔱 119 • 24m ago
+⭐ 979 • 🔱 119 • 48m ago
 
 ---
 
@@ -698,7 +694,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 829 • 🔱 44 • 2h ago
+⭐ 829 • 🔱 44 • 3h ago
 
 ---
 
@@ -728,7 +724,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 545 • 🔱 81 • 1h ago
+⭐ 545 • 🔱 81 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T09:51:32.575006+00:00'
+updated: '2025-12-08T10:15:33.298128+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 09:51 UTC  
+**Last Updated:** December 08, 2025 at 10:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +3.0%  
+**24h:** +3.4%  
 **7d:** +0.6%  
 **30d:** -12.2%  
 **90d:** -19.2%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1836.02B
+**Market Cap:** $1834.56B
 Rank #1
 
-**Circulating Supply:** 19,959,250 BTC
+**Circulating Supply:** 19,959,265 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
 -27.1%
 
 **All-Time Low:** $67.81
-+135527.5%
++135524.5%
 
 ---
 
@@ -85,13 +85,13 @@ Rank #1
 
 **[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
 
-6h ago
+7h ago
 
 ---
 
 **[To all who sold…](https://www.reddit.com/r/Bitcoin/comments/1ph3rsw/to_all_who_sold/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -100,6 +100,12 @@ Rank #1
 I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars per week and just set up a direct deposit with strike to do 300 dollars per paycheck (biweekly). Will instantly move my funds to a cold wallet super excited and bullish about btc 5-20 year time horizon EDIT: Just learned about UTXO. I even went to the lengths of setting up direct deposits so I can withdraw BTC faster. Now after learning this I guess the best way is to accumlate more and do one single withdrawal to a cold wallet rather than many smaller ones (correct me if I’m wrong please stilll tryna learn)
 
 7h ago
+
+---
+
+**[pahahha i died](https://www.reddit.com/r/Bitcoin/comments/1ph8e2i/pahahha_i_died/)**
+
+30m ago
 
 ---
 
@@ -113,13 +119,13 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 **[Great Idea!!](https://www.reddit.com/r/Bitcoin/comments/1pgonql/great_idea/)**
 
-15h ago
+16h ago
 
 ---
 
 **[We are 1% of the world - we are alone - so far!](https://www.reddit.com/r/Bitcoin/comments/1pgqra9/we_are_1_of_the_world_we_are_alone_so_far/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -129,19 +135,11 @@ I bought at the peak and lowered my avg to 99k. I had my DCA set to 25 dollars p
 
 ---
 
-**[Inflation is not a hoax. Anyone living in the real world can feel it.](https://www.reddit.com/r/Bitcoin/comments/1pgtb4o/inflation_is_not_a_hoax_anyone_living_in_the_real/)**
+**[Bitcoin Standard book, in Thai, my wife wanted to know why, not the how.](https://www.reddit.com/r/Bitcoin/comments/1ph7uhj/bitcoin_standard_book_in_thai_my_wife_wanted_to/)**
 
-Some people on TV or online act like inflation is “not that bad” or even pretend it’s exaggerated. But regular people don’t need charts to know the truth. They see it when they: • check out at the grocery store • fill up their gas tank • pay rent • try to save • try to invest • try to raise a family We’re not imagining it. We’re living it. If your money buys less every year, that’s not a “hoax.” That’s the system working exactly as designed. Bitcoin wasn’t created because everything was fine it was created because inflation quietly destroys the middle and working class. People deserve honesty about what’s happening to their money. Silence helps no one. What signs of inflation hit you the hardest this year?
+Really cool they have this at common bookstores in Thailand. The placement could be better hahaha, forex has a better location on the shelves here. FOREX!!! Is bitcoin a type of Forex? Kinda. Its actually the ultimate forex.
 
-12h ago
-
----
-
-**[Daily Discussion, December 08, 2025](https://www.reddit.com/r/Bitcoin/comments/1ph4zms/daily_discussion_december_08_2025/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-3h ago
+1h ago
 
 ---
 
@@ -157,35 +155,25 @@ CoinDesk • 3d ago
 
 ---
 
-**[‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles](https://www.forbes.com/sites/digital-assets/2025/12/07/next-step-is-coming-sec-chair-issues-huge-crypto-prediction-as-the-bitcoin-price-struggles/)**
+**[Cathie Wood predicts next gold crash, sees Bitcoin outperforming](https://www.thestreet.com/crypto/markets/cathie-wood-predicts-next-gold-crash-bitcoin-outperforming)**
 
-The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
-
-Forbes • 20h ago
+TheStreet • 18h ago
 
 ---
 
-**[Bitcoin Tests Key Fibonacci Support as Analysts Warn of Drop to $76K](https://finance.yahoo.com/news/bitcoin-tests-key-fibonacci-support-082238340.html)**
+**[Famed Investor Mike Alfred Claims Bitcoin Will Hit $315,000, Harvard Boosts Bitcoin Investment 2-To-1 Over Gold](https://finance.yahoo.com/news/famed-investor-mike-alfred-claims-094719509.html)**
 
-Bitcoin is trading at a pivotal level that analysts say could determine whether the market holds its broader uptrend or slips back toward spring lows. Key Takeaways: Bitcoin is sitting on a crucial Fibonacci support level, with a breakdown risking a drop toward the April lows near $76,000. A weekend ...
+Investor Mike Alfred predicts Bitcoin could reach $315,000. Harvard University significantly increased its Bitcoin holdings over gold. But analysts warn of potential short-term consolidation. Bitcoin’s ...
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Price Could Surge To New All Time High Within Week, Claims ‘World’s Smartest Man’ — Is It Likely?](https://finance.yahoo.com/news/bitcoin-price-could-surge-time-075452861.html)**
-
-Self-proclaimed smartest man in the world claims Bitcoin will soon surge to a new all-time high. Crypto community reactions remain overwhelmingly skeptical. Market analysts warn ...
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 28m ago
 
 ---
 
-**[Peter Brandt and “The World’s Highest IQ Man” Give Opposing Bitcoin Predictions](https://finance.yahoo.com/news/peter-brandt-world-highest-iq-083932437.html)**
+**[4 Key US Economic Data to Shape Bitcoin Sentiment This Week](https://finance.yahoo.com/news/4-key-us-economic-data-093000226.html)**
 
-Experts deliver conflicting Bitcoin forecasts as technical signals clash with renewed optimism ahead of a volatile December market.
+4 key US data releases and the FOMC meeting shape Bitcoin’s outlook as traders watch $86,000–$92,000 levels.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 45m ago
 
 ---
 
@@ -193,7 +181,7 @@ Yahoo Finance • 1h ago
 
 Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
 
-Financial Times • 4h ago
+Financial Times • 5h ago
 
 ---
 
@@ -209,15 +197,23 @@ Bloomberg.com • 2d ago
 
 Bitcoin is the world's largest cryptocurrency by market cap.
 
-The Motley Fool • 51m ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Buy the Bitcoin Dip? Why Ric Edelman Still Thinks Portfolios Should Hold Up to 40% Crypto](https://decrypt.co/351364/buy-bitcoin-dip-why-ric-edelman-thinks-portfolios-hold-40-percent-crypto)**
+**[Bitcoin Edges Back Above $91,000 as Traders Brace for Fed Decision and Jobs Data](https://decrypt.co/351388/bitcoin-back-above-91000-traders-brace-fed-decision-jobs-data)**
 
-Ric Edelman isn’t budging from the Bitcoin investment strategies he urged six months ago, even as BTC lingers far from record-breaking heights.
+Bitcoin is edging higher ahead of the Fed’s final rate decision and a key jobs report, extending its rebound as thin liquidity persists.
 
-Decrypt • 17h ago
+Decrypt • 6h ago
+
+---
+
+**[‘Next Step Is Coming’—SEC Chair Issues ‘Huge’ Crypto Prediction As The Bitcoin Price Struggles](https://www.forbes.com/sites/digital-assets/2025/12/07/next-step-is-coming-sec-chair-issues-huge-crypto-prediction-as-the-bitcoin-price-struggles/)**
+
+The SEC chair expects the entire U.S. financial market could move onto the blockchain technology that powers bitcoin and crypto within the next two years...
+
+Forbes • 21h ago
 
 ---
 
@@ -251,7 +247,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 **[Bitcoin's Sky-High Prices Have Not Panned Out](https://news.ycombinator.com/item?id=46132636)**
 
-⬆️ 3 • 💬 2 • 4d ago • [nytimes.com](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)
+⬆️ 3 • 💬 2 • 5d ago • [nytimes.com](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)
 
 ---
 
@@ -265,7 +261,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 1 • 18h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 1 • 19h ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -327,7 +323,7 @@ In today's video, Kyledoops shares his strategy on whether to buy back now or ju
 
 📺 Crypto Banter
 
-👁️ 4K • 👍 500 • ⏱️ 32:04 • 1h ago
+👁️ 4K • 👍 500 • ⏱️ 32:04 • 2h ago
 
 ---
 
@@ -377,7 +373,7 @@ Bitcoin Whales Just Flipped Their Bets… Here's What They Know ⚠️ Something
 
 📺 Ryan’s Money Lab
 
-👁️ 25K • 👍 1K • 💬 85 • ⏱️ 11:17 • 17h ago
+👁️ 25K • 👍 1K • 💬 85 • ⏱️ 11:17 • 18h ago
 
 ---
 
@@ -407,7 +403,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 13K • 👍 523 • 💬 165 • ⏱️ 10:04 • 16h ago
+👁️ 13K • 👍 523 • 💬 165 • ⏱️ 10:04 • 17h ago
 
 ---
 

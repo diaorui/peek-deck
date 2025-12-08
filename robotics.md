@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-08T09:51:32.584305+00:00'
+updated: '2025-12-08T10:15:33.307504+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 08, 2025 at 09:51 UTC  
+**Last Updated:** December 08, 2025 at 10:15 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
 
-22h ago
+23h ago
 
 ---
 
@@ -54,7 +54,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 **[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -66,11 +66,19 @@ Hi everyone, I am a researcher working on reinforcement learning for motion cont
 
 ---
 
+**[Last August, West Japan Railway Company deployed a giant humanoid robot for railway maintenance, assisting humans with tasks such as trimming tree branches, inspecting power lines, and painting along the railway lines. Remotely controlled by a human operator in a cockpit, wearing a VR headset.](https://www.reddit.com/r/robotics/comments/1ph8iwb/last_august_west_japan_railway_company_deployed_a/)**
+
+From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1997859311956148701
+
+21m ago
+
+---
+
 **[Help for my robotic arm project](https://www.reddit.com/r/robotics/comments/1ph62lb/help_for_my_robotic_arm_project/)**
 
 Does any one have build the robotics arm which can be controlled via neural signals? If yes the which servos are preferred? And how many axis where u guys able to achieve it?
 
-2h ago
+3h ago
 
 ---
 
@@ -82,25 +90,19 @@ An old picture. The progress is in the coding, and testing, and tuning of the ha
 
 ---
 
-**[SO... still CGI ？](https://www.reddit.com/r/robotics/comments/1ph2olj/so_still_cgi/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 5h ago
-
----
-
 **[What's going on with NVIDIA Groot?](https://www.reddit.com/r/robotics/comments/1ph1l8z/whats_going_on_with_nvidia_groot/)**
 
 NVIDIA’s Isaac GR00T (Generalist Robot 00 Technology) is their open vision‑language‑action foundation model for humanoid robots, built to connect perception, language, and low‑level control so a single policy can handle many manipulation tasks across different embodiments. Since GTC they have released GR00T N1 and then N1.5 with architectural and data upgrades aimed at better generalization, grounding, and language following, plus tooling like simulation blueprints and synthetic motion data pipelines to accelerate training.​​ For anyone here actually playing with GR00T in the lab or integrating it on real hardware: how mature is it right now compared to the keynote demos and marketing? Any experiences with N1 vs N1.5, sim‑to‑real transfer, or using the GR00T toolchain (Dreams / Blueprint / Omniverse etc.) in a serious robotics stack would be super valuable to hear about.​
 
-6h ago
+7h ago
 
 ---
 
-**[China's G1 humanoid robot is mastering combat skills at a terrifying rate](https://www.reddit.com/r/robotics/comments/1pghcyh/chinas_g1_humanoid_robot_is_mastering_combat/)**
+**[SO... still CGI ？](https://www.reddit.com/r/robotics/comments/1ph2olj/so_still_cgi/)**
 
-21h ago
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://www.youtube.com/shorts/Ccz-7cAW-JQ) • 6h ago
 
 ---
 
@@ -120,7 +122,7 @@ MIT News • 2d ago
 
 Robotics technologies could be 2026âs next big investment trend as Washington backs automation and next-gen manufacturing. Discover four Quant Strong Buys tied to robotics and AI.
 
-Seeking Alpha • 2d ago
+Seeking Alpha • 3d ago
 
 ---
 
@@ -152,7 +154,7 @@ Yahoo Finance • 1d ago
 
 Chinese robotics company Unitree has revealed its much larger humanoid robot, the H2, can fight. We dig into all the hidden details in the company's latest demo videos.
 
-CNET • 20h ago
+CNET • 21h ago
 
 ---
 
@@ -170,19 +172,19 @@ Knowable Magazine • 3d ago
 
 ---
 
+**[EngineAI CEO takes a kick from T800 humanoid to silence CGI rumors](https://interestingengineering.com/ai-robotics/engineai-t800-humanoid-robot-kicks-ceo)**
+
+Chinese robotics frim EngineAI shows CEO being kicked by T800 robot to prove real-world capabilities amid CGI speculation.
+
+Interesting Engineering • 1h ago
+
+---
+
 **[This Top Chip Stock Could Also Be the Best Way to Play a New Trump Robotics Rally](https://www.barchart.com/story/news/36496863/this-top-chip-stock-could-also-be-the-best-way-to-play-a-new-trump-robotics-rally)**
 
 America’s robotics race is heating up under the Trump administration, and AMD might be the cleanest way to get in early.
 
-Barchart.com • 19h ago
-
----
-
-**[AI baby monitors are rising but experts warn about overreliance](https://interestingengineering.com/ai-robotics/ai-baby-monitor-parenting)**
-
-As smart baby devices expand rapidly, researchers highlight the benefits of AI monitoring while noting the limits of current systems.
-
-Interesting Engineering • 21h ago
+Barchart.com • 20h ago
 
 ---
 
