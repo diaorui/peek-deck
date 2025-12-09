@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T22:22:41.817988+00:00'
+updated: '2025-12-09T22:39:53.832825+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 22:22 UTC  
+**Last Updated:** December 09, 2025 at 22:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ Engineers build artificial tendons that let muscle-powered robots move faster an
 
 Teaching Robots to Understand Natural Language Built an autonomous navigation system where you can command a robot in plain English - "go to the person" or "find the chair" - and it handles the rest. What I Learned: Distributed ROS2: Ran LLM inference on NVIDIA Jetson Orin Nano while handling vision/navigation on my main system. Multi-machine communication over ROS2 topics was seamless. Edge Al Reality: TinyLlama on Jetson's CPU takes 2-10s per command, but the 8GB unified memory and no GPU dependency makes it perfect for robotics. Real edge computing without much latency. Vision + Planning: YOLOv8 detects object classes, monocular depth estimation calculates distance, Nav2 plans the path. When the target disappears, the robot autonomously searches with 360° rotation patterns. On Jetson Orin Nano Super: Honestly impressed. It's the perfect middle ground - more capable than Raspberry Pi, more accessible than industrial modules. Running Ollama while maintaining real-time ROS2 communication proved its robotics potential. Stack: ROS2 | YOLOv8 | Ollama/TinyLlama | Nav2 | Gazebo Video shows the full pipeline - natural language → LLM parsing → detection → autonomous navigation.
 
-6h ago
+7h ago
 
 ---
 
@@ -92,17 +92,19 @@ North American robot orders picked up again in Q3 2025, pointing to renewed mome
 
 ---
 
+**[Can a "general" engineer jump right into designing & control of 6 axis industrial robots?](https://www.reddit.com/r/robotics/comments/1pikvjg/can_a_general_engineer_jump_right_into_designing/)**
+
+What I mean by "general" engineer is someone who has a bachelor's, master's or PhD in a field of engineering like mechanical, electrical, controls, computer science, etc. but not necessarily any specialization (master's or PhD) in robotics. I myself have a master's in control theory/systems but I don't find myself competent in jumping straight into designing the kinematics, dynamics and control algorithms of a 6 axis industrial robot (for example) from scratch. Not to mention selection of motors and actuation mechanisms and tuning the closed loop characteristics, etc., selection of controllers like PLCs. I was thrust into a project to design a highly complex 6 axis industrial robot with a lot of constraints. There are other engineers (mech, electrical) none of whom have any specialization in robotics nor any prior experience in designing industrial robots. I'm curious how the big robot companies recruit and/or train their employees. Do they always hire people with advanced degrees specialized in robotics? What kind of training is given to "general" engineers if hired? I'm sure robot companies at least write their own control software from scratch. So, I assume at least the controls and software people either have specialized degrees, prior experience or receive training within the company.
+
+30m ago
+
+---
+
 **[The Chinese just dropped it on online marketplaces](https://www.reddit.com/r/robotics/comments/1phc2nu/the_chinese_just_dropped_it_on_online_marketplaces/)**
 
 180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
 
 1d ago
-
----
-
-**[Inverted Double Pendulum in Isaac Lab](https://www.reddit.com/r/robotics/comments/1pi8anb/inverted_double_pendulum_in_isaac_lab/)**
-
-8h ago
 
 ---
 
@@ -128,15 +130,7 @@ Breaking Defense • 1d ago
 
 The unconfirmed deal would bring Skild AI’s valuation to approximately $14 billion as it works to build a scalable foundation model for robotics.
 
-Built In • 2h ago
-
----
-
-**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://finance.yahoo.com/news/tether-invests-italian-robotics-startup-230239090.html)**
-
-Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
-
-Yahoo Finance • 23h ago
+Built In • 3h ago
 
 ---
 
@@ -145,6 +139,14 @@ Yahoo Finance • 23h ago
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
 Bloomberg.com • 1d ago
+
+---
+
+**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://finance.yahoo.com/news/tether-invests-italian-robotics-startup-230239090.html)**
+
+Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
+
+Yahoo Finance • 23h ago
 
 ---
 
@@ -172,9 +174,9 @@ Valley News Live • 23h ago
 
 ---
 
-**[Serve Robotics Extends Autonomous Delivery to Fort Lauderdale](https://finance.yahoo.com/news/serve-robotics-extends-autonomous-delivery-153500451.html)**
+**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
 
-SERV expands its autonomous delivery network to Fort Lauderdale, deepening its South Florida presence through Uber Eats.
+Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
 
 Yahoo Finance • 1d ago
 

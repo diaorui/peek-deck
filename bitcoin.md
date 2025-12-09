@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T22:22:41.808444+00:00'
+updated: '2025-12-09T22:39:53.823434+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 22:22 UTC  
+**Last Updated:** December 09, 2025 at 22:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** -1.2%  
-**30d:** -12.8%  
-**90d:** -19.8%  
-**1y:** -4.1%  
+**24h:** +2.1%  
+**7d:** -1.1%  
+**30d:** -12.7%  
+**90d:** -19.6%  
+**1y:** -3.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1845.80B
+**Market Cap:** $1851.25B
 Rank #1
 
 **Circulating Supply:** 19,959,884 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.7%
+-26.4%
 
 **All-Time Low:** $67.81
-+136138.0%
++136725.0%
 
 ---
 
@@ -103,14 +103,6 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
-**[Bitcoin at 94K, The Bull Is Waking Up](https://www.reddit.com/r/Bitcoin/comments/1pigoqs/bitcoin_at_94k_the_bull_is_waking_up/)**
-
-Bitcoin just smashed through 94k and the energy feels unreal right now, though GetAgent actually predicted this move earlier, and watching the chart rip up is extremely good, everyone thinks you’re smiling at your phone for something else, not knowing, it’s just BTC doing what it does best.
-
-2h ago
-
----
-
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
 15h ago
@@ -121,7 +113,7 @@ Bitcoin just smashed through 94k and the energy feels unreal right now, though G
 
 The OCC is the federal authority that determines what U.S. banks are allowed to execute under supervision. This shift is bigger then the ETF Approval from 2024! Its approval is not opinion, interpretation, or industry signaling. It is a binding permission that enables banks to route Bitcoin transactions legally, without inventory risk, and within standard audit frameworks. The relevance is not immediate, because regulatory clarity precedes capital deployment. But when distribution becomes active, this ruling will be the reason banks can deliver Bitcoin at scale through the same channels that already move equities, bonds, and FX flow.
 
-🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/occ-authorizes-us-banks-to-execute) • 2h ago
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/occ-authorizes-us-banks-to-execute) • 3h ago
 
 ---
 
@@ -129,7 +121,7 @@ The OCC is the federal authority that determines what U.S. banks are allowed to 
 
 If you had put $1000 into BTC in 2010 and left it alone without further investment you'd have close to a billion dollars right now (before tax, of course). I sometimes sit and wonder if there are people who did that almost as a joke and then forgot their password or whatever lol.
 
-11h ago
+12h ago
 
 ---
 
@@ -147,6 +139,14 @@ Indiana lawmakers are making history with groundbreaking legislation that would 
 
 ---
 
+**[Most people holding more than 2 bitcoin here are chill](https://www.reddit.com/r/Bitcoin/comments/1pi3orj/most_people_holding_more_than_2_bitcoin_here_are/)**
+
+And most who keep panicking, and those crazy shenanigans fud are mostly from noobs or either those who invest rent money, or worst haven't studied Bitcoin.
+
+12h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -155,33 +155,35 @@ Indiana lawmakers are making history with groundbreaking legislation that would 
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-WIRED • 11h ago
+WIRED • 12h ago
 
 ---
 
-**[Bitcoin Firm Twenty One Falls 25% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
+**[Bitcoin Treasury Firm Backed by Tether, SoftBank Falls Sharply on First Trading Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqfWa_Xztq1gp9bKIDypUAQEVKBft0EwYsYAbIuiU5JQYdKlRQyRFFcN&gaa_ts=6938a8a3&gaa_sig=Q316vGKd8GhQRjNDnMk2fuSjUCVHYwR9wWFilHOErxcTM_pJvqySfa6qrJXMWqXev9cFS9xF8WnmsheuifNl_Q%3D%3D)**
+
+The Wall Street Journal • 14h ago
+
+---
+
+**[Bitcoin Firm Twenty One Falls 20% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
 
 Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Twenty One Capital Stock Falls 19% as Market Meets the New Bitcoin Company](https://www.barrons.com/articles/twenty-one-capital-stock-drops-39aef71b?gaa_at=eafs&gaa_n=AWEtsqfCTx3o-MmPLDndFxmflvobU_kquhrSMeRpAG18BECKxsfEqibrNFRK&gaa_ts=69389e6a&gaa_sig=yRMI6iilug_NWvEhiFQEzcT7-XBNJ4uAurX5Vkhw1TJXOIlWcHVSgCsDCkzF_ZApVJvtOHGGlvzvuvi7iFOiMg%3D%3D)**
+**[XXI Drops 25% After SPAC Merger](https://www.coindesk.com/markets/2025/12/09/bitcoin-treasury-company-twenty-one-drops-25-in-nyse-debut-trades-near-pipe-pricing-of-usd10)**
 
-Barron's • 1h ago
+The company is led by Strike CEO Jack Mallers and began trading under the XXI ticker today following its SPAC merger with Cantor Equity Partners.
 
----
-
-**[Bitcoin Treasury Firm Backed by Tether, SoftBank Falls Sharply on First Trading Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqfnvdlZD7YQmBFGxYY2imjeO2Q8hGmOMv9Oo9YDa7Wij4TNEYyalmB7&gaa_ts=69389e6a&gaa_sig=zN6HPElGvhISknmJkEQw_mkJdsncJ5i_k0aedXPp3NEJg3N-I0Ztcwof1xtgCLPibH7EhQeoRJspm1ScykH-rQ%3D%3D)**
-
-The Wall Street Journal • 13h ago
+CoinDesk • 7h ago
 
 ---
 
-**[GameStop’s bitcoin holdings — and sales — slide](https://www.marketwatch.com/story/gamestops-bitcoin-holdings-and-sales-slide-b9ce88cc?gaa_at=eafs&gaa_n=AWEtsqdheGnJwm0hCO5yh6eUmDHSPQKq5zY9_Nky5AatlH7VgF6QXztqWtfx&gaa_ts=69389e6a&gaa_sig=mQXZ-h-T7tFj8oB9YgEjtJYyozwlc8BJwY_377OyHX7HXYl4OdvNXpvbNXjICMajrq2tkVphgY-DkcBOWLqrhA%3D%3D)**
+**[GameStop’s bitcoin holdings — and sales — slide](https://www.marketwatch.com/story/gamestops-bitcoin-holdings-and-sales-slide-b9ce88cc?gaa_at=eafs&gaa_n=AWEtsqfQ_f-jyPdxwxoAXT8wcPXP4pCE3Euz4RkFAjRSLwr9w8gBJY11vnxa&gaa_ts=6938a8a3&gaa_sig=f2IBmyV0ShRNg-mrx9-Nz10ab5V9dkxcz6nFtzn39DHXqwk7ws8zY9g7mnrNDT118fvwODB-sNN3XA1FpQ4s8A%3D%3D)**
 
-MarketWatch • 35m ago
+MarketWatch • 52m ago
 
 ---
 
@@ -197,7 +199,15 @@ Yahoo Finance • 1h ago
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 3h ago
+CNBC • 4h ago
+
+---
+
+**[Standard Chartered Slashes 2025 Bitcoin Forecast to $100K](https://finance.yahoo.com/news/standard-chartered-slashes-2025-bitcoin-124522690.html)**
+
+The bank has cut its 2025 Bitcoin price target by half, citing the end of corporate buying and sharply slowing ETF inflows.
+
+Yahoo Finance • 9h ago
 
 ---
 
@@ -206,14 +216,6 @@ CNBC • 3h ago
 Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
 
 Bloomberg.com • 5h ago
-
----
-
-**[Standard Chartered Slashes 2025 Bitcoin Forecast to $100K](https://decrypt.co/351603/standard-chartered-slashes-2025-bitcoin-forecast-to-100k)**
-
-The bank has cut its 2025 Bitcoin price target by half, citing the end of corporate buying and sharply slowing ETF inflows.
-
-Decrypt • 9h ago
 
 ---
 
@@ -323,7 +325,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 284 • ⏱️ 44:49 • 6h ago
+👁️ 24K • 👍 1K • 💬 284 • ⏱️ 44:49 • 7h ago
 
 ---
 
@@ -343,7 +345,7 @@ Texas has placed taxpayer dollars into a high-risk — but potentially high-rewa
 
 📺 NewsNation
 
-👁️ 2K • 👍 49 • 💬 106 • ⏱️ 3:14 • 8h ago
+👁️ 2K • 👍 49 • 💬 106 • ⏱️ 3:14 • 9h ago
 
 ---
 
@@ -363,7 +365,7 @@ Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation o
 
 📺 Bitcoin Magazine
 
-👁️ 10K • 👍 1K • 💬 123 • ⏱️ 42:27 • 5h ago
+👁️ 10K • 👍 1K • 💬 123 • ⏱️ 42:27 • 6h ago
 
 ---
 
@@ -403,7 +405,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 3K • 👍 462 • 💬 39 • ⏱️ 7:45 • 4h ago
+👁️ 3K • 👍 462 • 💬 39 • ⏱️ 7:45 • 5h ago
 
 ---
 
