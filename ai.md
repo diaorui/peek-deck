@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T17:52:40.555245+00:00'
+updated: '2025-12-09T18:20:03.566635+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- news
 - social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 17:52 UTC  
+**Last Updated:** December 09, 2025 at 18:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 2h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 3h ago
 
 ---
 
@@ -71,7 +71,7 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 American AI giants are backing a new effort to establish open standards for building agentic software and tools.
 
-🔗 [WIRED](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/) • 21m ago
+🔗 [WIRED](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/) • 48m ago
 
 ---
 
@@ -103,7 +103,7 @@ I've settled into this pattern of LLM use and it is a game changer. I'm curious 
 
 President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-🔗 [CNN](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws) • 1h ago
+🔗 [CNN](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws) • 2h ago
 
 ---
 
@@ -119,61 +119,51 @@ Innovations in A.I., synthetic biology and quantum computing are set to change w
 
 ## Google News: "ai"
 
+**[Why the A.I. Boom Is Unlike the Dot-Com Boom](https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html)**
+
+The New York Times • 1h ago
+
+---
+
 **[From Llamas to Avocados: Meta's shifting AI strategy is causing internal confusion](https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html)**
 
 Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
-**[EU investigates Google over AI-generated summaries in search results](https://www.bbc.com/news/articles/crl95eg33k1o)**
+**[Are You an 'AI Creeper?' Take Our Survey.](https://www.businessinsider.com/are-you-an-ai-creeper-take-our-survey-2025-12)**
 
-It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
+If you find yourself hiding your AI usage from your colleagues and boss, you might be an 'AI creeper.'
 
-BBC • 4h ago
-
----
-
-**[Google hit with EU antitrust investigation over use of online content for AI](https://www.cnbc.com/2025/12/09/google-hit-with-eu-antitrust-probe-over-use-of-online-content-for-ai.html)**
-
-It's the latest in a string of actions the European Commission has taken against U.S. big tech companies.
-
-CNBC • 9h ago
+Business Insider • 12m ago
 
 ---
 
-**[Google faces EU antitrust investigation over AI Overviews, YouTube](https://www.reuters.com/sustainability/boards-policy-regulation/eu-launches-antitrust-probe-into-googles-use-online-content-ai-purposes-2025-12-09/)**
+**[DeSantis: Trump’s AI order ‘can’t preempt’ states from taking action](https://www.politico.com/news/2025/12/08/desantis-trump-ai-order-states-action-00681301)**
 
-Reuters • 5h ago
-
----
-
-**[Donating the Model Context Protocol and establishing the Agentic AI Foundation](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)**
-
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
-
-Anthropic • 35m ago
+Politico • 21h ago
 
 ---
 
-**[AI can help address America’s affordability crisis](https://thehill.com/opinion/technology/5639068-ai-reducing-living-costs/)**
+**[Trump Promises Executive Order to Block State A.I. Regulations](https://www.nytimes.com/2025/12/08/us/politics/trump-executive-order-ai-laws.html)**
 
-thehill.com • 22m ago
-
----
-
-**[Inside Fei-Fei Li’s Plan to Build AI-Powered Virtual Worlds](https://time.com/7339513/ai-fei-fei-li-virtual-worlds/)**
-
-The AI pioneer’s new startup, World Labs, is betting that machines can learn to build infinite, on-demand virtual worlds.
-
-Time Magazine • 48m ago
+The New York Times • 19h ago
 
 ---
 
-**[Why the A.I. Boom Is Unlike the Dot-Com Boom](https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html)**
+**[Opinion | Amy Klobuchar: Trump Should Not Replace A.I. Laws With an Executive Order](https://www.nytimes.com/2025/12/09/opinion/klobuchar-trump-ai.html)**
 
-The New York Times • 1h ago
+The New York Times • 8h ago
+
+---
+
+**[Solid data is essential to making AI and VBC work](https://www.healthcareitnews.com/news/solid-data-essential-making-ai-and-vbc-work)**
+
+As we look to 2026, there's a bright future for well-governed healthcare information to advance artificial intelligence innovation and promote value-based care, an expert says.
+
+Healthcare IT News • 46m ago
 
 ---
 
@@ -183,9 +173,19 @@ The Economist • 20h ago
 
 ---
 
-**[Have you seen this (AI-generated) man? Police swap suspect sketches for AI.](https://www.washingtonpost.com/nation/2025/12/09/ai-police-suspect-sketch-arizona/)**
+**[AI tools transform Christmas shopping as people turn to chatbots](https://www.bbc.com/news/articles/c8xd8prjvj0o)**
 
-The Washington Post • 50m ago
+Shopper are increasingly using chatbots for their hard-to-buy-for family and friends, with implications for bargain hunters and businesses.
+
+BBC • 11h ago
+
+---
+
+**[‘I feel it’s a friend’: quarter of teenagers turn to AI chatbots for mental health support](https://www.theguardian.com/technology/2025/dec/09/teenagers-ai-chatbots-mental-health-support)**
+
+Experts warn of dangers as England and Wales study shows 13- to 17-year-olds consulting AI amid long waiting lists for services
+
+The Guardian • 4h ago
 
 ---
 
@@ -237,7 +237,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
 
-⬆️ 49 • 💬 100 • 2h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
+⬆️ 49 • 💬 100 • 3h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
 
 ---
 
@@ -245,7 +245,7 @@ It is examining whether the tech giant did not offer "appropriate compensation" 
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 48 • 💬 74 • 2h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 48 • 💬 74 • 3h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -313,7 +313,7 @@ Go to https://ground.news/hank for a better way to stay informed. Subscribe for 
 
 📺 Hank Green
 
-👁️ 667K • 👍 36K • 💬 5K • ⏱️ 24:00 • 19h ago
+👁️ 667K • 👍 36K • 💬 5K • ⏱️ 24:00 • 20h ago
 
 ---
 
@@ -379,7 +379,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 217,428 • ❤️ 2,411 • 1d ago
+⬇️ 217,428 • ❤️ 2,412 • 1d ago
 
 ---
 
@@ -403,7 +403,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 33,102 • ❤️ 837 • 8d ago
+⬇️ 33,102 • ❤️ 838 • 8d ago
 
 ---
 
@@ -425,7 +425,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 6,920 • ❤️ 215 • 12h ago
+⬇️ 6,920 • ❤️ 217 • 13m ago
 
 ---
 
@@ -437,7 +437,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 687 • ❤️ 192 • 12h ago
+⬇️ 687 • ❤️ 193 • 12h ago
 
 ---
 
@@ -483,7 +483,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 `text-generation` `8.3B`
 
-⬇️ 443,437 • ❤️ 165 • 20h ago
+⬇️ 443,437 • ❤️ 165 • 21h ago
 
 ---
 
@@ -655,7 +655,7 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.3k • 🔱 160 • 56m ago
+⭐ 1.3k • 🔱 160 • 1h ago
 
 ---
 
@@ -685,7 +685,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 126 • 2h ago
+⭐ 1.0k • 🔱 126 • 3h ago
 
 ---
 
@@ -695,7 +695,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 893 • 🔱 61 • 6h ago
+⭐ 893 • 🔱 61 • 7h ago
 
 ---
 
@@ -715,7 +715,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 845 • 🔱 45 • 14h ago
+⭐ 845 • 🔱 45 • 15h ago
 
 ---
 

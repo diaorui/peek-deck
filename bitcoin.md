@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T17:52:40.563646+00:00'
+updated: '2025-12-09T18:20:03.575052+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 17:52 UTC  
+**Last Updated:** December 09, 2025 at 18:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,881.55
+### $93,946.25
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.7%  
+**24h:** +4.3%  
 **7d:** +0.3%  
 **30d:** -11.5%  
 **90d:** -18.5%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[What’s going on?](https://www.reddit.com/r/Bitcoin/comments/1pib08s/whats_going_on/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -113,7 +113,7 @@ If you had put $1000 into BTC in 2010 and left it alone without further investme
 
 **[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -121,7 +121,7 @@ If you had put $1000 into BTC in 2010 and left it alone without further investme
 
 And most who keep panicking, and those crazy shenanigans fud are mostly from noobs or either those who invest rent money, or worst haven't studied Bitcoin.
 
-7h ago
+8h ago
 
 ---
 
@@ -133,13 +133,13 @@ And most who keep panicking, and those crazy shenanigans fud are mostly from noo
 
 **[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.reddit.com/r/Bitcoin/comments/1pi8ira/bitcoin_holds_90000_as_markets_await_fed_rate_cut/)**
 
-🔗 [theblock.co](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance) • 3h ago
+🔗 [theblock.co](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance) • 4h ago
 
 ---
 
 **[Earning $100k now has about the same buying power that $40k a year had back in 1990](https://www.reddit.com/r/Bitcoin/comments/1pi1w8o/earning_100k_now_has_about_the_same_buying_power/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -155,14 +155,6 @@ WIRED • 7h ago
 
 ---
 
-**[XXI Drops 25% After SPAC Merger](https://www.coindesk.com/markets/2025/12/09/bitcoin-treasury-company-twenty-one-drops-25-in-nyse-debut-trades-near-pipe-pricing-of-usd10)**
-
-The company is led by Strike CEO Jack Mallers and began trading under the XXI ticker today following its SPAC merger with Cantor Equity Partners.
-
-CoinDesk • 2h ago
-
----
-
 **[Bitcoin Firm Twenty One Falls 24% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
 
 Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
@@ -171,35 +163,17 @@ Bloomberg.com • 2h ago
 
 ---
 
-**[What the First Divergence of Stock and Bitcoin Returns in 10 Years Means](https://www.businessinsider.com/stock-market-bitcoin-return-correlation-divergence-explained-outlook-2025-12)**
+**[XXI Drops 25% After SPAC Merger](https://www.coindesk.com/markets/2025/12/09/bitcoin-treasury-company-twenty-one-drops-25-in-nyse-debut-trades-near-pipe-pricing-of-usd10)**
 
-If the stock market is up, bitcoin usually is too. But this year has been different.
+The company is led by Strike CEO Jack Mallers and began trading under the XXI ticker today following its SPAC merger with Cantor Equity Partners.
 
-Business Insider • 1d ago
-
----
-
-**[Standard Chartered Slashes 2025 Bitcoin Forecast to $100K](https://decrypt.co/351603/standard-chartered-slashes-2025-bitcoin-forecast-to-100k)**
-
-The bank has cut its 2025 Bitcoin price target by half, citing the end of corporate buying and sharply slowing ETF inflows.
-
-Decrypt • 5h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin Bulls Standard Chartered, Bernstein Pare Back Ambitious Year-End Forecasts](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-bulls-standard-chartered-bernstein-pare-back-most-ambitious-forecasts)**
+**[Bitcoin Treasury Firm Backed by Tether, SoftBank Plunges on First Day of Trading](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqcnQahu02AJE530p7Y7fBoN9sv_cuCi34KrSPfwrP6EEgdnpmpwCzPl&gaa_ts=69386bba&gaa_sig=5-imY_XNtfyJ6D9RqgWIkoLALMqsIL0Lh3_79SR3VQw0kZItKnXjIQy5oISmGVi0F2QVG1VxVSRRLXIbHNn0bQ%3D%3D)**
 
-Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
-
-Bloomberg.com • 37m ago
-
----
-
-**[Bitcoin Price (BTC) Outlook: Not Crypto Winter, but $500K Has Been Pushed Far Out](https://www.coindesk.com/markets/2025/12/09/standard-chartered-throws-in-the-towel-on-bullish-bitcoin-forecast)**
-
-Bowing to what he called a "cold breeze," but not a "crypto winter," Geoff Kendrick slashed his year-end outlook for BTC to $100,000 and doesn't expect $500,000 until 2030 versus 2028 previously.
-
-CoinDesk • 4h ago
+The Wall Street Journal • 9h ago
 
 ---
 
@@ -213,11 +187,35 @@ Yahoo Finance • 1h ago
 
 **[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
 
-Reuters • 12h ago
+Reuters • 13h ago
 
 ---
 
-**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqeh5nleTuwdFZoUXlrctyryoFHL9AC3KTr3FlrwVVaZLHeli_IUE8TZ&gaa_ts=69386215&gaa_sig=60xRifljbuAOSKbkCzFkrlZzeeYzGze4_ViPeMvg49NcBmBzX2w6WI5RfF64OrfeOLXesUmn-bb7g9DOmOzb5Q%3D%3D)**
+**[PNC First Major Bank to Launch Direct Bitcoin Access for Clients, Powered by Coinbase's Crypto-as-a-Service Infrastructure](https://pnc.mediaroom.com/2025-12-09-PNC-First-Major-Bank-to-Launch-Direct-Bitcoin-Access-for-Clients,-Powered-by-Coinbases-Crypto-as-a-Service-Infrastructure)**
+
+<p>Strategic Partnership Empowers PNC Private Bank Clients with Bitcoin Trading&nbsp;</p>
+
+PR Newswire • 5h ago
+
+---
+
+**[PNC Launches Bitcoin Trading With Coinbase for Wealthy Clients](https://finance.yahoo.com/news/pnc-launches-bitcoin-trading-coinbase-124500617.html)**
+
+The move is the latest example of a traditional financial services provider offering digital asset trading through its own platform — a role still primarily filled by cryptocurrency exchanges such as Coinbase.  Through its partnership with PNC, Coinbase provides broker services and technology integration, facilitating trades of any amount of Bitcoin, according to Brett Tejpaul, co-CEO of Coinbase Institutional.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[PNC Bank Rolls Out Spot Bitcoin Access for Private Clients After 2025 Reveal](https://www.coindesk.com/business/2025/12/09/pnc-bank-rolls-out-spot-bitcoin-access-for-private-clients-after-2025-reveal)**
+
+The Coinbase-backed feature, first announced in July, lets PNC clients buy, sell and hold bitcoin directly in their digital banking accounts.
+
+CoinDesk • 4h ago
+
+---
+
+**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqdXsXjMxd1oidtWHrtZ5UShuEPt9dMWqdJFlVhmvtBi9jgEvwKMzL-v&gaa_ts=69386bba&gaa_sig=IYK046SPlPA0guyM1J9bl_R1CIIQl8LKH8YePW7z9adsuWFTNKbl4ZJtX1y8O9ZVr5E4i45VVdeJOyOglZEgjg%3D%3D)**
 
 MarketWatch • 19h ago
 
@@ -275,7 +273,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 39m ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -321,7 +319,7 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 399K • 👍 14K • 💬 2K • ⏱️ 20:03 • 21h ago
+👁️ 399K • 👍 14K • 💬 2K • ⏱️ 20:03 • 22h ago
 
 ---
 
@@ -351,7 +349,7 @@ In this video, Kyledoops shows you 3 very specific reasons why you can expect a 
 
 📺 Crypto Banter
 
-👁️ 19K • 👍 1K • 💬 40 • ⏱️ 37:53 • 9h ago
+👁️ 19K • 👍 1K • 💬 40 • ⏱️ 37:53 • 10h ago
 
 ---
 
@@ -361,7 +359,7 @@ Michael Saylor declares he's more bullish than ever, stating his team can buy mo
 
 📺 Bitcoin Magazine
 
-👁️ 645 • 👍 21 • 💬 80 • ⏱️ 0:36 • 2h ago
+👁️ 645 • 👍 21 • 💬 80 • ⏱️ 0:36 • 3h ago
 
 ---
 

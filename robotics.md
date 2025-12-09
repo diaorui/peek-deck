@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T17:52:40.572874+00:00'
+updated: '2025-12-09T18:20:03.584515+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 17:52 UTC  
+**Last Updated:** December 09, 2025 at 18:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
-4h ago
+5h ago
 
 ---
 
@@ -76,9 +76,11 @@ Teaching Robots to Understand Natural Language Built an autonomous navigation sy
 
 ---
 
-**[Inverted Double Pendulum in Isaac Lab](https://www.reddit.com/r/robotics/comments/1pi8anb/inverted_double_pendulum_in_isaac_lab/)**
+**[MIT engineers give biohybrid robots a power upgrade with synthetic tendons](https://www.reddit.com/r/robotics/comments/1pie99u/mit_engineers_give_biohybrid_robots_a_power/)**
 
-3h ago
+Engineers build artificial tendons that let muscle-powered robots move faster and pull harder, marking a major step for biohybrid machines.
+
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 25m ago
 
 ---
 
@@ -90,19 +92,17 @@ Teaching Robots to Understand Natural Language Built an autonomous navigation sy
 
 ---
 
+**[Inverted Double Pendulum in Isaac Lab](https://www.reddit.com/r/robotics/comments/1pi8anb/inverted_double_pendulum_in_isaac_lab/)**
+
+4h ago
+
+---
+
 **[AgiBot co-founder Peng Zhihui announced today that their 5,000th general-purpose embodied robot has officially rolled off the line](https://www.reddit.com/r/robotics/comments/1phaq40/agibot_cofounder_peng_zhihui_announced_today_that/)**
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
 1d ago
-
----
-
-**[How is mopping pressure in a robot vacuum created?](https://www.reddit.com/r/robotics/comments/1phvujg/how_is_mopping_pressure_in_a_robot_vacuum_created/)**
-
-Has anyone seen how the mopping pressure is created in a robot vacuum? I would imagine some sort of linear actuator/solenoid/spring suspension but did not see any of that when looking at at online teardowns of a Dreame X50 Ultra that claims to have mop lifting/mop pressure.
-
-15h ago
 
 ---
 
@@ -140,27 +140,11 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
+**[‘World’s first’ AGI system: Tokyo firm claims it built model with human-level reasoning](https://interestingengineering.com/ai-robotics/worlds-first-agi-model)**
 
-Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
+The company, founded by an ex-Google veteran, claims its new system constitutes a 'fundamental leap' beyond existing AI technologies.
 
-Decrypt • 18h ago
-
----
-
-**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
-
-The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
-
-MLive.com • 1h ago
-
----
-
-**[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai)**
-
-SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
-
-PYMNTS.com • 20h ago
+Interesting Engineering • 3h ago
 
 ---
 
@@ -168,7 +152,7 @@ PYMNTS.com • 20h ago
 
 1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
 
-Valley News Live • 18h ago
+Valley News Live • 19h ago
 
 ---
 
@@ -180,11 +164,27 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Pneumatic-suction robot clears 75,000 lb of cargo an hour](https://newatlas.com/robotics/mit-pickle-one-armed-warehouse-robot-suction-unloading/)**
+**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
 
-It'll likely be a while before we have humanoid robots taking over our household chores, but what you can count on sooner is seeing more robots in industrial settings, like factories and warehouses.
+The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
 
-New Atlas • 6h ago
+MLive.com • 1h ago
+
+---
+
+**[Using the Power of Robotics to uncover the secrets of Pompeii](https://www.cnn.com/2025/12/07/world/video/pompeii-robot-fresco-kinkade-pkg-120712aseg2-cnni-world-fast)**
+
+Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
+
+CNN • 2d ago
+
+---
+
+**[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
+
+Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
+
+South China Morning Post • 2d ago
 
 ---
 
@@ -254,7 +254,7 @@ In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comfor
 
 📺 AI Robot Lab
 
-👁️ 3K • 👍 48 • 💬 2 • ⏱️ 0:24 • 6h ago
+👁️ 3K • 👍 48 • 💬 2 • ⏱️ 0:24 • 7h ago
 
 ---
 
@@ -284,7 +284,7 @@ At the Silicon Valley Robotics Expo 2025, engineers demonstrate a futuristic AI 
 
 📺 AI Robot Lab
 
-👁️ 2K • 👍 16 • ⏱️ 0:24 • 2h ago
+👁️ 2K • 👍 16 • ⏱️ 0:24 • 3h ago
 
 ---
 

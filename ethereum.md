@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T17:52:40.569619+00:00'
+updated: '2025-12-09T18:20:03.581302+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
+- news
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 17:52 UTC  
+**Last Updated:** December 09, 2025 at 18:20 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,329.72
+### $3,374.44
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +9.6%  
-**7d:** +5.9%  
-**30d:** -5.2%  
-**90d:** -24.3%  
-**1y:** -6.8%  
+**24h:** +7.7%  
+**7d:** +5.6%  
+**30d:** -5.4%  
+**90d:** -24.5%  
+**1y:** -7.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -118,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 By magnitude, the biggest question for the Defi ecosystem for the next cycle is who gets to keep the yield on treasuries backing reserve stablecoins such as USDC and USDT? If secretary Bennett and the federal reserve are correct in their forecasts, we'll be at something like $3T in stablecoin market cap by 2030. At
 
-🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 22h ago
+🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 23h ago
 
 ---
 
@@ -150,41 +150,39 @@ I copied and pasted for ease of access. Maybe Vitalik can make an update to rais
 
 ## Google News: "ethereum"
 
-**[CFTC to Pilot Tokenized Collateral in Derivatives Markets Starting With Bitcoin, Ethereum and USDC](https://decrypt.co/351552/cftc-pilot-tokenized-collateral-derivatives-markets-bitcoin-ethereum-usdc)**
+**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Spike Ahead of Fed Decision](https://decrypt.co/351640/crypto-shorts-rekt-bitcoin-ethereum-xrp-spike-ahead-fed-decision)**
 
-The CFTC has introduced a pilot allowing Bitcoin, Ethereum, and USDC to be used as margin, while updating rules to support tokenized assets.
+Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
-Decrypt • 19h ago
+Decrypt • 1h ago
 
 ---
 
-**[Prediction: If This 1 Policy Changes, Bitcoin and Ethereum Will Soar](https://www.fool.com/investing/2025/12/08/prediction-if-this-1-policy-changes-bitcoin-and-et/)**
+**[ZKsync to deprecate ZKsync Lite in 2026, sunsetting Ethereum's first ZK rollup](https://www.theblock.co/post/381632/zksync-to-deprecate-zksync-lite-in-2026-sunsetting-ethereums-first-zk-rollup)**
 
-Japan is considering a big change to how it taxes crypto.
+The Block • 1d ago
+
+---
+
+**[Bitcoin and Ethereum Drive Renewed Strength in the Crypto Market](https://cryptodnes.bg/en/bitcoin-and-ethereum-drive-renewed-strength-in-the-crypto-market/)**
+
+CryptoDnes.bg • 1h ago
+
+---
+
+**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/07/3-reasons-to-buy-ethereum-before-january-2026/)**
+
+Ethereum could be once again on the path to the $5,000 price level. Here's why.
 
 The Motley Fool • 1d ago
 
 ---
 
-**[Better Buy: XRP vs. Ethereum](https://finance.yahoo.com/news/better-buy-xrp-vs-ethereum-160500223.html)**
+**[What Bitmine Immersion Technologies (BMNR)'s Pivot to Ethereum Treasury and Dividend Means For Shareholders](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-pivot-100740579.html)**
 
-They're both among the five largest cryptocurrencies, but one is much further ahead in its journey.
+Bitmine Immersion Technologies has recently transformed into a crypto treasury and services platform, amassing more than 3% of Ethereum’s supply, boosting its Ethereum and Bitcoin holdings, returning to profit in 2025 and declaring a US$0.01 dividend payable on December 29, 2025. By targeting ownership of up to 5% of all Ethereum and scaling staking and fee-based services, the company is increasingly positioning its equity as a leveraged proxy on the Ethereum ecosystem rather than a...
 
-Yahoo Finance • 1h ago
-
----
-
-**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Spike Ahead of Fed Decision](https://decrypt.co/351640/crypto-shorts-rekt-bitcoin-ethereum-xrp-spike-ahead-fed-decision)**
-
-Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
-
-Decrypt • 48m ago
-
----
-
-**[Ethereum’s Developer Landscape Shows Broad Acceleration](https://cryptodnes.bg/en/ethereums-developer-landscape-shows-broad-acceleration/)**
-
-CryptoDnes.bg • 2h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -192,13 +190,7 @@ CryptoDnes.bg • 2h ago
 
 The trading platform dives further into digital assets both domestically and globally.
 
-Fortune • 19h ago
-
----
-
-**[Vitalik Buterin pushes for trustless gas futures market to hedge Ethereum fees, sparking debate over feasibility](https://www.theblock.co/post/381677/vitalik-buterin-pushes-for-trustless-gas-futures-market-to-hedge-ethereum-fees-sparking-debate)**
-
-The Block • 1d ago
+Fortune • 20h ago
 
 ---
 
@@ -210,19 +202,27 @@ CoinDesk • 1d ago
 
 ---
 
+**[Ethereum Founder Breaks Silence With Major Upgrade Proposal](https://www.tradingview.com/news/newsbtc:3ee27326c094b:0-ethereum-founder-breaks-silence-with-major-upgrade-proposal/)**
+
+Ethereum co-founder Vitalik Buterin has unveiled a major proposal that could fundamentally reshape how the network handles transaction fees. His new design aims to replace unpredictable costs with a system that lets users plan and budget more effectively, signaling one of the most significant shift…
+
+TradingView • 1d ago
+
+---
+
 **[Old Ethereum Whale Moves $1.19 Billion After A Decade—Here’s Why It’s A Big Deal](https://zycrypto.com/old-ethereum-whale-moves-1-19-billion-after-a-decade-heres-why-its-a-big-deal/)**
 
 The reappearance of this early-era wallet after nearly ten years has amplified speculation that sophisticated capital could flow into Ethereum in the coming months.
 
-ZyCrypto • 2h ago
+ZyCrypto • 3h ago
 
 ---
 
-**[Ethereum Price Gears Up for a Breakout—Can ETH Outperform BTC Into the Year-End?](https://www.tradingview.com/news/coinpedia:4bc4baf33094b:0-ethereum-price-gears-up-for-a-breakout-can-eth-outperform-btc-into-the-year-end/)**
+**[Ethereum gains after BlackRock files for iShares Staked Ethereum Trust ETF (ETH-USD:Cryptocurrency)](https://seekingalpha.com/news/4529446-ethereum-gains-after-blackrock-files-for-ishares-staked-ethereum-trust-etf)**
 
-Ethereum is compressing just below a critical resistance band near $3,300–$3,350, even as the broader crypto market remains unsettled by Bitcoin’s choppy price action around $43,000–$44,000. Despite the volatility, the ETH price has defended support near $3,050, forming a tight consolidation range…
+Ethereum (ETH-USD) was trading higherÂ after BlackRock (BLK) filed a preliminary prospectus with the U.S. Securities and Exchange Commission for its iShares Staked Ethereum Trust ETF.
 
-TradingView • 9h ago
+Seeking Alpha • 21h ago
 
 ---
 
@@ -236,7 +236,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 11K • 👍 374 • 💬 309 • ⏱️ 12:46 • 23h ago
+👁️ 11K • 👍 374 • 💬 309 • ⏱️ 12:46 • 1d ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 114 • 💬 7 • ⏱️ 4:05 • 5h ago
+👁️ 1K • 👍 114 • 💬 7 • ⏱️ 4:05 • 6h ago
 
 ---
 
@@ -286,7 +286,7 @@ US M2 money supply just hit a new all-time high, and Bitcoin always seems to fol
 
 📺 Altcoin Buzz
 
-👁️ 735 • 👍 62 • 💬 197 • ⏱️ 14:52 • 3h ago
+👁️ 735 • 👍 62 • 💬 197 • ⏱️ 14:52 • 4h ago
 
 ---
 
@@ -316,7 +316,7 @@ In today's Milk Road episode, we sit down with CMT Digital's Aryan Sheikhalian t
 
 📺 Milk Road
 
-👁️ 2K • 👍 110 • 💬 81 • ⏱️ 33:06 • 21h ago
+👁️ 2K • 👍 110 • 💬 81 • ⏱️ 33:06 • 22h ago
 
 ---
 
