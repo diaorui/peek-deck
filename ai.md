@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T16:51:48.233401+00:00'
+updated: '2025-12-09T17:14:17.895017+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- social
 - news
+- repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 16:51 UTC  
+**Last Updated:** December 09, 2025 at 17:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,25 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
-
-22h ago
-
----
-
 **[Tesla Optimus's fall in Miami demo sparks remote operation debate](https://www.reddit.com/r/artificial/comments/1pi9nj4/tesla_optimuss_fall_in_miami_demo_sparks_remote/)**
 
 While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 1h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 2h ago
 
 ---
 
-**['Big Short' investor Michael Burry defends his calls for a stock market bubble and predicts a 'Netscape fate' for OpenAI](https://www.reddit.com/r/artificial/comments/1phn78a/big_short_investor_michael_burry_defends_his/)**
+**[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
-
-🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 20h ago
+22h ago
 
 ---
 
@@ -64,6 +56,14 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
 🔗 [WIRED](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/) • 2h ago
+
+---
+
+**['Big Short' investor Michael Burry defends his calls for a stock market bubble and predicts a 'Netscape fate' for OpenAI](https://www.reddit.com/r/artificial/comments/1phn78a/big_short_investor_michael_burry_defends_his/)**
+
+Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
+
+🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 20h ago
 
 ---
 
@@ -79,7 +79,7 @@ AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai sa
 
 President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-🔗 [CNN](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws) • 55m ago
+🔗 [CNN](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws) • 1h ago
 
 ---
 
@@ -91,27 +91,27 @@ Do you have a blog post or content that needs an image? Use our image generator 
 
 ---
 
+**[Preserving your context quality by editing prompts that gave an unhelpful response](https://www.reddit.com/r/artificial/comments/1pic4mt/preserving_your_context_quality_by_editing/)**
+
+I've settled into this pattern of LLM use and it is a game changer. I'm curious if anyone else does this and how it might be improved. The longer a chat goes on, the less useful the responses become, a phenomenon sometimes called context rot. I've definitely noticed that after a particularly unhelpful response, it is better to just start a new chat rather than wrestle with the LLM. Even when you are clear about the undesirable aspect, it has a way of sneaking back in simply because it is part of the context and LLMs are bad at ignoring the unhelpful patterns in the context. This can be a bit of a setback if the context was valuable up until that point. Rather than starting fresh and losing the context, I've gotten in the habit of editing the prompt that elicited the issue I wish to avoid, I just add an additional line that steers the LLM away from it. For example, if the LLM provides code with the wrong indent, I edit the prompt and ask for the correct indent. I don't have to worry about the wrong indent sneaking back in and this has the bonus of a more concise context for my own review too. It is almost like time travel for the conversation. It works for just about everything, it is particularly helpful for image generation where there is a lot of nuance and missteps can really poison the context. Strangely enough, the prompt edit option is not always available, I haven't figured out why.
+
+37m ago
+
+---
+
+**[EU investigates Google over AI-generated summaries in search results](https://www.reddit.com/r/artificial/comments/1pi6doo/eu_investigates_google_over_aigenerated_summaries/)**
+
+It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
+
+🔗 [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o) • 4h ago
+
+---
+
 **[Opinion | This Is the 21st-Century Arms Race. Can America Keep Up? (Gift Article)](https://www.reddit.com/r/artificial/comments/1piapa7/opinion_this_is_the_21stcentury_arms_race_can/)**
 
 Innovations in A.I., synthetic biology and quantum computing are set to change war.
 
 🔗 [nytimes.com](https://www.nytimes.com/interactive/2025/12/09/opinion/editorials/us-china-military-ai-tech.html?unlocked_article_code=1.7U8.WPvl.rr86n3kq5Eqb&smid=re-nytopinion) • 1h ago
-
----
-
-**[One-Minute Daily AI News 12/8/2025](https://www.reddit.com/r/artificial/comments/1phzmit/oneminute_daily_ai_news_1282025/)**
-
-Google’s AI try-on app Doppl adds a shoppable discovery feed.[1] Claude Code is coming to Slack, and that’s a bigger deal than it sounds.[2] Google Colab Integrates KaggleHub for One Click Access to Kaggle Datasets, Models and Competitions.[3] Trump says AI executive order limiting state rules coming this week.[4] Sources: [1] https://techcrunch.com/2025/12/08/googles-ai-try-on-app-doppl-adds-a-shoppable-discovery-feed/ [2] https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/ [3] https://www.marktechpost.com/2025/12/07/google-colab-integrates-kagglehub-for-one-click-access-to-kaggle-datasets-models-and-competitions/ [4] https://www.politico.com/news/2025/12/08/trump-says-ai-executive-order-limiting-state-rules-coming-this-week-00680557
-
-11h ago
-
----
-
-**[There's a new $1 million prize to understand what happens inside LLMs: "Using AI models today is like alchemy: we can do seemingly magical things, but don't understand how or why they work."](https://www.reddit.com/r/artificial/comments/1phbmdu/theres_a_new_1_million_prize_to_understand_what/)**
-
-At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
-
-🔗 [withmartian.com](https://withmartian.com/prize) • 1d ago
 
 ---
 
@@ -123,7 +123,7 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -145,7 +145,7 @@ BBC • 3h ago
 
 **[Pentagon Picks Google AI Platform for Its Millions of Employees](https://www.bloomberg.com/news/articles/2025-12-09/pentagon-picks-google-ai-platform-for-its-millions-of-employees)**
 
-Bloomberg.com • 35m ago
+Bloomberg.com • 57m ago
 
 ---
 
@@ -153,13 +153,13 @@ Bloomberg.com • 35m ago
 
 Autonomous driving is the ultimate challenge for AI in the physical world. At Waymo, we’re solving it by prioritizing demonstrably safe AI, where safety is central to how we engineer our models and AI ecosystem from the ground up. This post offers a detailed look at Waymo’s AI strategy and how it’s fueling our momentum, allowing us to safely bring our service to more riders, faster than ever before.
 
-Waymo • 46m ago
+Waymo • 1h ago
 
 ---
 
 **[Wall Street Is Shaking Off Fears of an A.I. Bubble. For Now.](https://www.nytimes.com/2025/12/09/business/wall-street-valuation-ai-bubble.html)**
 
-The New York Times • 15m ago
+The New York Times • 38m ago
 
 ---
 
@@ -167,7 +167,7 @@ The New York Times • 15m ago
 
 The chief strategist at Alpine Macro says that fears around big capex spending, GPU depreciation, and competitive threats from abroad are overdone.
 
-Business Insider • 47m ago
+Business Insider • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Wall Street Journal • 4h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 502 • 💬 450 • 16h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 507 • 💬 463 • 16h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -211,19 +211,19 @@ AI progress is steady. Human equivalence is sudden.
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 411 • 💬 364 • 23h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 413 • 💬 364 • 1d ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 185 • 💬 163 • 23h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 186 • 💬 164 • 23h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 119 • 💬 205 • 2d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 120 • 💬 205 • 2d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -237,7 +237,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
 
-⬆️ 44 • 💬 71 • 1h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
+⬆️ 49 • 💬 93 • 2h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
 
 ---
 
@@ -245,7 +245,7 @@ It is examining whether the tech giant did not offer "appropriate compensation" 
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 43 • 💬 59 • 1h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 45 • 💬 68 • 2h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -313,7 +313,7 @@ Go to https://ground.news/hank for a better way to stay informed. Subscribe for 
 
 📺 Hank Green
 
-👁️ 667K • 👍 36K • 💬 5K • ⏱️ 24:00 • 18h ago
+👁️ 667K • 👍 36K • 💬 5K • ⏱️ 24:00 • 19h ago
 
 ---
 
@@ -333,7 +333,7 @@ Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Fu
 
 📺 Dan Kieft
 
-👁️ 30K • 💬 26 • ⏱️ 20:04 • 23h ago
+👁️ 30K • 💬 26 • ⏱️ 20:04 • 1d ago
 
 ---
 
@@ -695,7 +695,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 892 • 🔱 61 • 5h ago
+⭐ 892 • 🔱 61 • 6h ago
 
 ---
 
@@ -715,7 +715,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 844 • 🔱 45 • 13h ago
+⭐ 844 • 🔱 45 • 14h ago
 
 ---
 

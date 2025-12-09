@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T16:51:48.242059+00:00'
+updated: '2025-12-09T17:14:17.903936+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 16:51 UTC  
+**Last Updated:** December 09, 2025 at 17:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $94,400.00
+### $94,442.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.1%  
-**7d:** +0.4%  
-**30d:** -11.4%  
-**90d:** -18.4%  
-**1y:** -2.5%  
+**24h:** +5.3%  
+**7d:** +0.8%  
+**30d:** -11.0%  
+**90d:** -18.1%  
+**1y:** -2.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1858.35B
+**Market Cap:** $1885.25B
 Rank #1
 
-**Circulating Supply:** 19,959,806 BTC
+**Circulating Supply:** 19,959,818 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--25.9%
+-25.2%
 
 **All-Time Low:** $67.81
-+137733.7%
++138990.1%
 
 ---
 
@@ -77,27 +77,21 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Literally!](https://www.reddit.com/r/Bitcoin/comments/1pi8hu2/literally/)**
-
-2h ago
-
----
-
 **[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
 
-3h ago
-
----
-
-**[Swim with the whales](https://www.reddit.com/r/Bitcoin/comments/1pi4cuq/swim_with_the_whales/)**
-
-6h ago
+4h ago
 
 ---
 
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
 10h ago
+
+---
+
+**[What’s going on?](https://www.reddit.com/r/Bitcoin/comments/1pib08s/whats_going_on/)**
+
+1h ago
 
 ---
 
@@ -109,18 +103,6 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
-**[What’s going on?](https://www.reddit.com/r/Bitcoin/comments/1pib08s/whats_going_on/)**
-
-56m ago
-
----
-
-**[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
-
-20h ago
-
----
-
 **[I wonder how the small early investors feel right now?](https://www.reddit.com/r/Bitcoin/comments/1pi41nz/i_wonder_how_the_small_early_investors_feel_right/)**
 
 If you had put $1000 into BTC in 2010 and left it alone without further investment you'd have close to a billion dollars right now (before tax, of course). I sometimes sit and wonder if there are people who did that almost as a joke and then forgot their password or whatever lol.
@@ -129,17 +111,35 @@ If you had put $1000 into BTC in 2010 and left it alone without further investme
 
 ---
 
+**[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
+
+21h ago
+
+---
+
 **[Most people holding more than 2 bitcoin here are chill](https://www.reddit.com/r/Bitcoin/comments/1pi3orj/most_people_holding_more_than_2_bitcoin_here_are/)**
 
 And most who keep panicking, and those crazy shenanigans fud are mostly from noobs or either those who invest rent money, or worst haven't studied Bitcoin.
 
-6h ago
+7h ago
 
 ---
 
 **[Staring into the BTC abyss, waiting for it to explain itself](https://www.reddit.com/r/Bitcoin/comments/1pi3i32/staring_into_the_btc_abyss_waiting_for_it_to/)**
 
 7h ago
+
+---
+
+**[Earning $100k now has about the same buying power that $40k a year had back in 1990](https://www.reddit.com/r/Bitcoin/comments/1pi1w8o/earning_100k_now_has_about_the_same_buying_power/)**
+
+9h ago
+
+---
+
+**[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.reddit.com/r/Bitcoin/comments/1pi8ira/bitcoin_holds_90000_as_markets_await_fed_rate_cut/)**
+
+🔗 [theblock.co](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance) • 2h ago
 
 ---
 
@@ -157,7 +157,7 @@ WIRED • 6h ago
 
 **[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
 
-Reuters • 11h ago
+Reuters • 12h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Block • 5h ago
 
 Bitcoin and XRP got some more attention from Wall Street today. The 10 Crypto Index Fund by Bitwise finally got the green light from regulators and started trading on NYSE Arca, which means these two popular assets are becoming more connected to traditional investments. Journalist Eleanor Terrett s…
 
-TradingView • 37m ago
+TradingView • 1h ago
 
 ---
 
@@ -345,7 +345,7 @@ In this video, Kyledoops shows you 3 very specific reasons why you can expect a 
 
 📺 Crypto Banter
 
-👁️ 19K • 👍 1K • 💬 40 • ⏱️ 37:53 • 8h ago
+👁️ 19K • 👍 1K • 💬 40 • ⏱️ 37:53 • 9h ago
 
 ---
 
@@ -355,7 +355,7 @@ Michael Saylor declares he's more bullish than ever, stating his team can buy mo
 
 📺 Bitcoin Magazine
 
-👁️ 645 • 👍 21 • 💬 80 • ⏱️ 0:36 • 1h ago
+👁️ 645 • 👍 21 • 💬 80 • ⏱️ 0:36 • 2h ago
 
 ---
 
