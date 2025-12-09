@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T21:44:36.693190+00:00'
+updated: '2025-12-09T21:56:19.489223+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
+- social
 - repositories
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 21:44 UTC  
+**Last Updated:** December 09, 2025 at 21:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,15 +55,7 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 2h ago
-
----
-
-**[America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.reddit.com/r/artificial/comments/1pi8z96/americas_biggest_bitcoin_miners_are_pivoting_to_ai/)**
-
-In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
-
-🔗 [WIRED](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/) • 7h ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 3h ago
 
 ---
 
@@ -72,6 +64,14 @@ In the face of a profitability crisis, industrial-scale bitcoin miners are trans
 American AI giants are backing a new effort to establish open standards for building agentic software and tools.
 
 🔗 [WIRED](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/) • 4h ago
+
+---
+
+**[America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.reddit.com/r/artificial/comments/1pi8z96/americas_biggest_bitcoin_miners_are_pivoting_to_ai/)**
+
+In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
+
+🔗 [WIRED](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/) • 7h ago
 
 ---
 
@@ -103,15 +103,15 @@ GPT-5.2 rumored to drop today Meta acquires AI wearable company Buy groceries wi
 
 President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-🔗 [CNN](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws) • 5h ago
+🔗 [CNN](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws) • 6h ago
 
 ---
 
-**[The Real Reason LLMs Hallucinate — And Why Every Fix Has Failed](https://www.reddit.com/r/artificial/comments/1pif1u7/the_real_reason_llms_hallucinate_and_why_every/)**
+**[As AI wipes jobs, Google CEO Sundar Pichai says it’s up to everyday people to adapt accordingly: ‘We will have to work through societal disruption’](https://www.reddit.com/r/artificial/comments/1phpibg/as_ai_wipes_jobs_google_ceo_sundar_pichai_says/)**
 
-People keep talking about “fixing hallucination,” but nobody is asking the one question that actually matters: Why do these systems hallucinate in the first place? Every solution so far—RAG, RLHF, model scaling, “AI constitutions,” uncertainty scoring—tries to patch the problem after it happens. They’re improving the guess instead of removing the guess. The real issue is structural: these models are architecturally designed to generate answers even when they don’t have grounded information. They’re rewarded for sounding confident, not for knowing when to stop. That’s why the failures repeat across every system—GPT, Claude, Gemini, Grok. Different models, same flaw. What I’ve put together breaks down the actual mechanics behind that flaw using the research the industry itself published. It shows why their methods can’t solve it, why the problem persists across scaling, and why the most obvious correction has been ignored for years. If you want the full breakdown—with evidence from academic papers, production failures, legal cases, medical misfires, and the architectural limits baked into transformer models—here it is. It explains the root cause in plain language so people can finally see the pattern for themselves.
+AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai says no job, not even his own, is safe. But those who don’t adapt will be the first to fall.
 
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 3h ago
+🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 1d ago
 
 ---
 
@@ -133,27 +133,39 @@ CNBC • 9h ago
 
 ---
 
-**['Customers don't care about AI' — they just want to boost cash flow and make ends meet, Intuit CEO says](https://fortune.com/2025/12/09/ai-agents-business-applications-sales-cash-flow-intuit-ceo/)**
+**[Exclusive | Anthropic and Accenture Strike AI Deal Targeting Business Clients](https://www.wsj.com/articles/anthropic-and-accenture-strike-ai-deal-targeting-business-clients-0a82f28a?gaa_at=eafs&gaa_n=AWEtsqcFkwJL3djabKQuX3Ej9ayTcRjceJO_ZWJzJybWfGCpYf6ZpkNC_tb6&gaa_ts=69389e68&gaa_sig=CEIrBcb4kZeU0vHQN2fJAby5emzS1yB8-3yB02o3a8cAuycSEeDPKND9CAkF8P83AkzRb5NEb0_6MqyVISQYGA%3D%3D)**
 
-"A business is trying to get more customers. They're trying to manage their customers, sell them more services."
-
-Fortune • 1h ago
+The Wall Street Journal • 9h ago
 
 ---
 
-**[Video Creator of AI actress Tilly Norwood on future of AI in film](https://abcnews.go.com/Entertainment/video/creator-ai-actress-tilly-norwood-future-ai-film-128255983)**
+**[Accenture and Anthropic launch multi-year partnership to move enterprises from AI pilots to production](https://www.anthropic.com/news/anthropic-accenture-partnership)**
 
-Eline Van Der Velden, founder and CEO of Particle6 and creator of AI actress Tilly Norwood, addressed the pushback that AI actors are going to replace human ones.
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-ABC News • 1h ago
+Anthropic • 8h ago
 
 ---
 
-**[Oracle's AI-fueled debt load has investors on edge ahead of quarterly earnings](https://www.cnbc.com/2025/12/09/oracles-ai-fueled-debt-load-has-investors-on-edge-ahead-of-earnings.html)**
+**[Watch Accenture, Anthropic Launch New AI Partnership](https://www.bloomberg.com/news/videos/2025-12-09/accenture-anthropic-expand-ai-partnership-video)**
 
-Oracle's fiscal second-quarter results will be a crucial test for the AI trade and whether demand justifies the company's buildout plans.
+Bloomberg.com • 48m ago
 
-CNBC • 1h ago
+---
+
+**[MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents](https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/)**
+
+MCP is moving to the Linux Foundation. Here's how that will affect developers.
+
+The GitHub Blog • 53m ago
+
+---
+
+**[Exelon CEO: The ‘warning lights are on’ for U.S. elecgrid resilience and utility prices amid AI demand surge](https://fortune.com/2025/12/09/exelon-ceo-warning-lights-on-u-s-resilience-utility-prices-ai-demand-surge/)**
+
+The U.S. needs more generation, including renewables, and greater efficiencies to keep the grid from breaking down Exelon CEO and President Calvin Butler said at Fortune's Brainstorm AI conference.
+
+Fortune • 36m ago
 
 ---
 
@@ -165,33 +177,17 @@ Menlo Ventures • 9h ago
 
 ---
 
-**[Nearly a third of American teens interact with AI chatbots daily, study finds](https://www.cnn.com/2025/12/09/tech/teens-ai-chatbot-use-study)**
-
-Nearly a third of US teenagers say they use AI chatbots daily, a new study finds, shedding light on how young people are embracing a technology that’s raised critical safety concerns around mental health impacts and exposure to mature content for kids.
-
-CNN • 1h ago
-
----
-
-**[28% of U.S. teens say they use AI chatbots daily, poll says](https://www.nbcnews.com/tech/social-media/28-us-teens-say-use-ai-chatbots-daily-poll-says-rcna248133)**
-
-The survey from Pew Research Center found that ChatGPT is the most popular artificial intelligence app among teens.
-
-NBC News • 1h ago
-
----
-
 **[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
 
 The Economist • 1d ago
 
 ---
 
-**[AI and recruitment: Are we in a 'race to the bottom'?](https://www.bbc.com/news/articles/ced6jv76091o)**
+**[Nearly a third of American teens interact with AI chatbots daily, study finds](https://www.cnn.com/2025/12/09/tech/teens-ai-chatbot-use-study)**
 
-AI helps jobseekers to apply for hundreds of roles, meanwhile employers use AI to filter them.
+Nearly a third of US teenagers say they use AI chatbots daily, a new study finds, shedding light on how young people are embracing a technology that’s raised critical safety concerns around mental health impacts and exposure to mature content for kids.
 
-BBC • 21h ago
+CNN • 1h ago
 
 ---
 
@@ -209,7 +205,7 @@ BBC • 21h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 530 • 💬 509 • 21h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 532 • 💬 517 • 21h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -217,7 +213,7 @@ AI progress is steady. Human equivalence is sudden.
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 414 • 💬 365 • 1d ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 415 • 💬 366 • 1d ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -227,17 +223,17 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 ---
 
-**[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
-
-⬆️ 120 • 💬 205 • 2d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
-
----
-
 **[Apple's slow AI pace becomes a strength as market grows weary of spending](https://news.ycombinator.com/item?id=46205724)**
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 119 • 💬 136 • 6h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 137 • 💬 164 • 6h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+
+---
+
+**[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
+
+⬆️ 120 • 💬 205 • 2d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -245,7 +241,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 83 • 💬 37 • 4h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 96 • 💬 43 • 4h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -351,7 +347,7 @@ Go to https://ground.news/hank for a better way to stay informed. Subscribe for 
 
 📺 Hank Green
 
-👁️ 796K • 👍 42K • 💬 6K • ⏱️ 24:00 • 23h ago
+👁️ 796K • 👍 42K • 💬 6K • ⏱️ 24:00 • 1d ago
 
 ---
 
@@ -387,7 +383,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 217,428 • ❤️ 2,418 • 1d ago
+⬇️ 217,428 • ❤️ 2,419 • 1d ago
 
 ---
 
@@ -433,7 +429,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 6,920 • ❤️ 222 • 3h ago
+⬇️ 6,920 • ❤️ 223 • 3h ago
 
 ---
 
@@ -663,7 +659,7 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.3k • 🔱 160 • 4h ago
+⭐ 1.3k • 🔱 160 • 5h ago
 
 ---
 
@@ -693,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 126 • 41m ago
+⭐ 1.0k • 🔱 126 • 52m ago
 
 ---
 

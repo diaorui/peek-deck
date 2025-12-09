@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T21:44:36.701828+00:00'
+updated: '2025-12-09T21:56:19.497847+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 21:44 UTC  
+**Last Updated:** December 09, 2025 at 21:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,800.00
+### $92,354.25
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** -1.0%  
-**30d:** -12.6%  
-**90d:** -19.6%  
-**1y:** -3.9%  
+**24h:** +1.8%  
+**7d:** -1.2%  
+**30d:** -12.8%  
+**90d:** -19.7%  
+**1y:** -4.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1857.48B
+**Market Cap:** $1845.80B
 Rank #1
 
-**Circulating Supply:** 19,959,878 BTC
+**Circulating Supply:** 19,959,884 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.1%
+-26.7%
 
 **All-Time Low:** $67.81
-+137238.2%
++136138.0%
 
 ---
 
@@ -77,9 +77,21 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pier04/daily_meme_until_100000/)**
+
+3h ago
+
+---
+
 **[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
 
 8h ago
+
+---
+
+**["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
+
+2h ago
 
 ---
 
@@ -87,27 +99,7 @@ Rank #1
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-19h ago
-
----
-
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pier04/daily_meme_until_100000/)**
-
-3h ago
-
----
-
-**["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
-
-1h ago
-
----
-
-**[Almost $100k in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1piiqno/almost_100k_in_bitcoin/)**
-
-Almost $100k position in BTC! Anyone else almost at $100k?
-
-59m ago
+20h ago
 
 ---
 
@@ -125,14 +117,6 @@ Bitcoin just smashed through 94k and the energy feels unreal right now, though G
 
 ---
 
-**[I wonder how the small early investors feel right now?](https://www.reddit.com/r/Bitcoin/comments/1pi41nz/i_wonder_how_the_small_early_investors_feel_right/)**
-
-If you had put $1000 into BTC in 2010 and left it alone without further investment you'd have close to a billion dollars right now (before tax, of course). I sometimes sit and wonder if there are people who did that almost as a joke and then forgot their password or whatever lol.
-
-11h ago
-
----
-
 **[OCC authorizes U.S. banks to execute riskless-principal Bitcoin transactions unlocking regulated execution without balance-sheet exposure](https://www.reddit.com/r/Bitcoin/comments/1pigmi8/occ_authorizes_us_banks_to_execute/)**
 
 The OCC is the federal authority that determines what U.S. banks are allowed to execute under supervision. This shift is bigger then the ETF Approval from 2024! Its approval is not opinion, interpretation, or industry signaling. It is a binding permission that enables banks to route Bitcoin transactions legally, without inventory risk, and within standard audit frameworks. The relevance is not immediate, because regulatory clarity precedes capital deployment. But when distribution becomes active, this ruling will be the reason banks can deliver Bitcoin at scale through the same channels that already move equities, bonds, and FX flow.
@@ -141,11 +125,25 @@ The OCC is the federal authority that determines what U.S. banks are allowed to 
 
 ---
 
+**[I wonder how the small early investors feel right now?](https://www.reddit.com/r/Bitcoin/comments/1pi41nz/i_wonder_how_the_small_early_investors_feel_right/)**
+
+If you had put $1000 into BTC in 2010 and left it alone without further investment you'd have close to a billion dollars right now (before tax, of course). I sometimes sit and wonder if there are people who did that almost as a joke and then forgot their password or whatever lol.
+
+11h ago
+
+---
+
 **[Indiana considering legislation to require Bitcoin options in Public Retirement Plans](https://www.reddit.com/r/Bitcoin/comments/1pia1pu/indiana_considering_legislation_to_require/)**
 
 Indiana lawmakers are making history with groundbreaking legislation that would force public retirement programs to offer Bitcoin investments.
 
 🔗 [Brave New Coin](https://bravenewcoin.com/insights/indiana-becomes-first-state-to-require-bitcoin-options-in-public-retirement-plans) • 6h ago
+
+---
+
+**[Earning $100k now has about the same buying power that $40k a year had back in 1990](https://www.reddit.com/r/Bitcoin/comments/1pi1w8o/earning_100k_now_has_about_the_same_buying_power/)**
+
+13h ago
 
 ---
 
@@ -161,7 +159,7 @@ WIRED • 11h ago
 
 ---
 
-**[Bitcoin Firm Twenty One Falls 24% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
+**[Bitcoin Firm Twenty One Falls 25% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
 
 Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
 
@@ -169,23 +167,27 @@ Bloomberg.com • 6h ago
 
 ---
 
-**[Bitcoin Treasury Firm Backed by Tether, SoftBank Falls Sharply on First Trading Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqdkeWNr7LQmHC3KIqp7zQOTjmLIF7cH1Ld3oYihUs2RM6liCCsG77QG&gaa_ts=693894b6&gaa_sig=Rzlm7uDxRyPRdIYhzDRRFJDEcW99B7lhUYWf-WBWf_fDF2_1GGsb2yeq9jWmAMHG2uovtDhsQ6RwN2FO2ZMG6Q%3D%3D)**
+**[Twenty One Capital Stock Falls 19% as Market Meets the New Bitcoin Company](https://www.barrons.com/articles/twenty-one-capital-stock-drops-39aef71b?gaa_at=eafs&gaa_n=AWEtsqfCTx3o-MmPLDndFxmflvobU_kquhrSMeRpAG18BECKxsfEqibrNFRK&gaa_ts=69389e6a&gaa_sig=yRMI6iilug_NWvEhiFQEzcT7-XBNJ4uAurX5Vkhw1TJXOIlWcHVSgCsDCkzF_ZApVJvtOHGGlvzvuvi7iFOiMg%3D%3D)**
+
+Barron's • 35m ago
+
+---
+
+**[Bitcoin Treasury Firm Backed by Tether, SoftBank Falls Sharply on First Trading Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqfnvdlZD7YQmBFGxYY2imjeO2Q8hGmOMv9Oo9YDa7Wij4TNEYyalmB7&gaa_ts=69389e6a&gaa_sig=zN6HPElGvhISknmJkEQw_mkJdsncJ5i_k0aedXPp3NEJg3N-I0Ztcwof1xtgCLPibH7EhQeoRJspm1ScykH-rQ%3D%3D)**
 
 The Wall Street Journal • 13h ago
 
 ---
 
-**[XXI Drops 25% After SPAC Merger](https://www.coindesk.com/markets/2025/12/09/bitcoin-treasury-company-twenty-one-drops-25-in-nyse-debut-trades-near-pipe-pricing-of-usd10)**
+**[GameStop’s bitcoin holdings — and sales — slide](https://www.marketwatch.com/story/gamestops-bitcoin-holdings-and-sales-slide-b9ce88cc?gaa_at=eafs&gaa_n=AWEtsqdheGnJwm0hCO5yh6eUmDHSPQKq5zY9_Nky5AatlH7VgF6QXztqWtfx&gaa_ts=69389e6a&gaa_sig=mQXZ-h-T7tFj8oB9YgEjtJYyozwlc8BJwY_377OyHX7HXYl4OdvNXpvbNXjICMajrq2tkVphgY-DkcBOWLqrhA%3D%3D)**
 
-The company is led by Strike CEO Jack Mallers and began trading under the XXI ticker today following its SPAC merger with Cantor Equity Partners.
-
-CoinDesk • 6h ago
+MarketWatch • 9m ago
 
 ---
 
-**[JPMorgan Analysts Doubt Crypto Winter Is Coming, Despite 'Meaningful' Bitcoin Sell-Off](https://finance.yahoo.com/news/jpmorgan-analysts-doubt-crypto-winter-202849077.html)**
+**[Bitcoin jumps to $94,000, but 'hawkish' Fed cut threatens crypto rally](https://finance.yahoo.com/news/bitcoin-jumps-to-94000-but-hawkish-fed-cut-threatens-crypto-rally-164647910.html)**
 
-The investment bank continues to have a positive outlook on the crypto market, even with Bitcoin and other assets down.
+The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
 
 Yahoo Finance • 1h ago
 
@@ -199,9 +201,19 @@ CNBC • 3h ago
 
 ---
 
-**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
+**[Bitcoin Bulls Standard Chartered, Bernstein Pare Back Ambitious Year-End Forecasts](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-bulls-standard-chartered-bernstein-pare-back-most-ambitious-forecasts)**
 
-Reuters • 16h ago
+Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
+
+Bloomberg.com • 4h ago
+
+---
+
+**[Standard Chartered Slashes 2025 Bitcoin Forecast to $100K](https://decrypt.co/351603/standard-chartered-slashes-2025-bitcoin-forecast-to-100k)**
+
+The bank has cut its 2025 Bitcoin price target by half, citing the end of corporate buying and sharply slowing ETF inflows.
+
+Decrypt • 9h ago
 
 ---
 
@@ -210,20 +222,6 @@ Reuters • 16h ago
 <p>Strategic Partnership Empowers PNC Private Bank Clients with Bitcoin Trading&nbsp;</p>
 
 PR Newswire • 8h ago
-
----
-
-**[Coinbase and PNC Partner to Expand Direct Bitcoin Access for Clients](https://www.coinbase.com/blog/coinbase-and-pnc-partner-to-expand-direct-bitcoin-access-for-clients)**
-
-Coinbase • 7h ago
-
----
-
-**[PNC Launches Bitcoin Trading With Coinbase for Wealthy Clients](https://finance.yahoo.com/news/pnc-launches-bitcoin-trading-coinbase-124500617.html)**
-
-The move is the latest example of a traditional financial services provider offering digital asset trading through its own platform — a role still primarily filled by cryptocurrency exchanges such as Coinbase.  Through its partnership with PNC, Coinbase provides broker services and technology integration, facilitating trades of any amount of Bitcoin, according to Brett Tejpaul, co-CEO of Coinbase Institutional.
-
-Yahoo Finance • 8h ago
 
 ---
 
@@ -293,7 +291,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 5h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 6h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -315,7 +313,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 9K • 👍 793 • 💬 165 • ⏱️ 7:23 • 3h ago
+👁️ 9K • 👍 793 • 💬 165 • ⏱️ 7:23 • 4h ago
 
 ---
 
@@ -355,7 +353,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 200 • ⏱️ 10:16 • 19h ago
+👁️ 59K • 👍 3K • 💬 200 • ⏱️ 10:16 • 20h ago
 
 ---
 

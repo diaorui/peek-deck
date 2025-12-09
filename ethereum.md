@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T21:44:36.707964+00:00'
+updated: '2025-12-09T21:56:19.504039+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 21:44 UTC  
+**Last Updated:** December 09, 2025 at 21:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.9%  
-**7d:** +3.9%  
-**30d:** -6.9%  
-**90d:** -25.8%  
-**1y:** -8.6%  
+**24h:** +5.3%  
+**7d:** +3.3%  
+**30d:** -7.5%  
+**90d:** -26.2%  
+**1y:** -9.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $400.10B
+**Market Cap:** $398.32B
 Rank #2
 
 **Circulating Supply:** 120,695,272 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.8%
+-33.4%
 
 **All-Time Low:** $0.43
-+767369.1%
++760523.5%
 
 ---
 
@@ -150,25 +150,25 @@ I copied and pasted for ease of access. Maybe Vitalik can make an update to rais
 
 ## Google News: "ethereum"
 
-**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Spike Ahead of Fed Decision](https://decrypt.co/351640/crypto-shorts-rekt-bitcoin-ethereum-xrp-spike-ahead-fed-decision)**
+**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Spike Ahead of Fed Decision](https://finance.yahoo.com/news/crypto-shorts-rekt-bitcoin-ethereum-170437408.html)**
 
 Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
-Decrypt • 4h ago
-
----
-
-**[Better Buy: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-buy-xrp-vs-ethereum)**
-
-Key PointsEthereum has built a strong user base and frequently generates over $10 million in daily app fees.
-
-Nasdaq • 5h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
 
 Binance • 1d ago
+
+---
+
+**[Better Buy: XRP vs. Ethereum](https://www.fool.com/investing/2025/12/09/better-buy-xrp-vs-ethereum/)**
+
+They're both among the five largest cryptocurrencies, but one is much further ahead in its journey.
+
+The Motley Fool • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 154 • 💬 11 • ⏱️ 4:05 • 9h ago
+👁️ 3K • 👍 154 • 💬 11 • ⏱️ 4:05 • 10h ago
 
 ---
 
@@ -254,7 +254,7 @@ xrp #bitcoin #hbar #eth https://twitter.com/HobbiesCards XRP and HBAR Ethereum a
 
 📺 CRYPTO with KLAUS
 
-👁️ 3K • 👍 434 • 💬 119 • ⏱️ 12:55 • 2h ago
+👁️ 3K • 👍 434 • 💬 119 • ⏱️ 12:55 • 3h ago
 
 ---
 
@@ -264,7 +264,7 @@ Ethereum has critics calling it “overvalued”… but what if everyone is look
 
 📺 Milk Road
 
-👁️ 408 • 👍 28 • 💬 24 • ⏱️ 35:26 • 1h ago
+👁️ 408 • 👍 28 • 💬 24 • ⏱️ 35:26 • 2h ago
 
 ---
 
@@ -304,7 +304,7 @@ Breaking News: BitMine Immersion Technologies (BMNR) has officially crossed the 
 
 📺 CryptoStock Lab
 
-👁️ 163 • 👍 12 • ⏱️ 7:09 • 2h ago
+👁️ 163 • 👍 12 • ⏱️ 7:09 • 3h ago
 
 ---
 
@@ -314,7 +314,7 @@ Everyone is obsessed with “Bitcoin to 100K” or “Bitcoin is dead.” In thi
 
 📺 Crypto Hustle
 
-👁️ 921 • 👍 60 • 💬 11 • ⏱️ 11:10 • 12h ago
+👁️ 921 • 👍 60 • 💬 11 • ⏱️ 11:10 • 13h ago
 
 ---
 
