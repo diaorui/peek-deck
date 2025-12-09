@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T21:33:05.328599+00:00'
+updated: '2025-12-09T21:44:36.701828+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 21:33 UTC  
+**Last Updated:** December 09, 2025 at 21:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,093.90
+### $92,800.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** -0.5%  
-**30d:** -12.2%  
-**90d:** -19.2%  
-**1y:** -3.4%  
+**24h:** +2.0%  
+**7d:** -1.0%  
+**30d:** -12.6%  
+**90d:** -19.6%  
+**1y:** -3.9%  
 
 ---
 
@@ -107,7 +107,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 Almost $100k position in BTC! Anyone else almost at $100k?
 
-47m ago
+59m ago
 
 ---
 
@@ -121,7 +121,7 @@ Bitcoin just smashed through 94k and the energy feels unreal right now, though G
 
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -165,7 +165,7 @@ WIRED • 11h ago
 
 Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Wall Street Journal • 13h ago
 
 The company is led by Strike CEO Jack Mallers and began trading under the XXI ticker today following its SPAC merger with Cantor Equity Partners.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 1h ago
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -365,7 +365,7 @@ Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation o
 
 📺 Bitcoin Magazine
 
-👁️ 10K • 👍 1K • 💬 123 • ⏱️ 42:27 • 4h ago
+👁️ 10K • 👍 1K • 💬 123 • ⏱️ 42:27 • 5h ago
 
 ---
 

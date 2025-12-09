@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T21:33:05.320154+00:00'
+updated: '2025-12-09T21:44:36.693190+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- news
 - repositories
 - videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 21:33 UTC  
+**Last Updated:** December 09, 2025 at 21:44 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is 
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-🔗 [WIRED](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/) • 6h ago
+🔗 [WIRED](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/) • 7h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 9h ago
 
 "A business is trying to get more customers. They're trying to manage their customers, sell them more services."
 
-Fortune • 52m ago
+Fortune • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Fortune • 52m ago
 
 Eline Van Der Velden, founder and CEO of Particle6 and creator of AI actress Tilly Norwood, addressed the pushback that AI actors are going to replace human ones.
 
-ABC News • 55m ago
+ABC News • 1h ago
 
 ---
 
@@ -445,7 +445,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 687 • ❤️ 195 • 15h ago
+⬇️ 687 • ❤️ 195 • 16h ago
 
 ---
 
@@ -643,7 +643,7 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.6k • 🔱 443 • 13h ago
+⭐ 5.6k • 🔱 443 • 14h ago
 
 ---
 
@@ -693,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 126 • 29m ago
+⭐ 1.0k • 🔱 126 • 41m ago
 
 ---
 
