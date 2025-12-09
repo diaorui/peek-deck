@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T09:27:46.173576+00:00'
+updated: '2025-12-09T09:47:50.480757+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- social
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 09:27 UTC  
+**Last Updated:** December 09, 2025 at 09:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -125,13 +125,13 @@ They have a promotion going on with Ledger
 
 **[...and then they join you.](https://www.reddit.com/r/Bitcoin/comments/1phxg26/and_then_they_join_you/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -139,7 +139,7 @@ They have a promotion going on with Ledger
 
 Back in 2011–2013, physical bitcoins were actually a thing. They were known as Casascius Coins — metal tokens with a hologram on the back hiding a private key printed on paper. Peel the hologram, and the BTC could be moved to a regular blockchain address. What makes this story even wilder is how many people never touched them for years. Some holders treated these coins like collectibles, others forgot about them entirely. Only recently, more and more of these physical bitcoins have been getting redeemed after sitting untouched for a decade or more. From novelty item to time capsule holding real money, Casascius coins remain one of the strangest and most iconic relics of early Bitcoin history.
 
-17h ago
+18h ago
 
 ---
 
@@ -159,7 +159,7 @@ Financial Times • 16h ago
 
 BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -183,7 +183,7 @@ Baton Rouge Business Report • 12h ago
 
 Investors should treat bitcoin as the volatile, high-risk asset it is. A look at the data, along with comparisons to the Magnificent 7 stocks, indicates a small (1% to 2%) portfolio allocation for most investors would be the safest.
 
-Kiplinger • 22h ago
+Kiplinger • 23h ago
 
 ---
 
@@ -197,7 +197,7 @@ Barron's • 19h ago
 
 Bitcoin pushed back above $92,000 during Monday’s Asia session as traders priced in a likely Federal Reserve rate cut this week; altcoins continued to lag.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -205,7 +205,7 @@ CoinDesk • 21h ago
 
 Traders on prediction markets are divided, giving an equal chance that bitcoin drops below $80,000 or rises above $100,000 this year....
 
-Sherwood News • 16h ago
+Sherwood News • 17h ago
 
 ---
 
@@ -311,7 +311,17 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 288K • 👍 11K • 💬 1K • ⏱️ 20:03 • 13h ago
+👁️ 324K • 👍 12K • 💬 1K • ⏱️ 20:03 • 13h ago
+
+---
+
+**[[WARNING] This Will Have A MASSIVE Impact On Bitcoin and Crypto](https://www.youtube.com/watch?v=AWEx3aK7l2Y)**
+
+In this clip, I talk about what is happening for bitcoin and crypto this week and the impact it will have. **Exchange Partners** ...
+
+📺 CryptosRus Extra
+
+👁️ 11K • 👍 506 • 💬 208 • ⏱️ 9:01 • 9h ago
 
 ---
 
@@ -319,17 +329,7 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Matt & Justus
 
-👁️ 365K • 👍 34K • 💬 154 • ⏱️ 1:00 • 14h ago
-
----
-
-**[Did Michael Saylor’s BIG LONG Just Trigger a Bitcoin Supercycle?!](https://www.youtube.com/watch?v=RTWgQ_EkFQ0)**
-
-Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. Jack Maullers? Just dropped 43K BTC into ...
-
-📺 Simply Bitcoin
-
-👁️ 34K • 👍 3K • 💬 404 • ⏱️ 16:35 • 10h ago
+👁️ 580K • 👍 44K • 💬 181 • ⏱️ 1:00 • 15h ago
 
 ---
 
@@ -339,7 +339,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 12K • 👍 538 • 💬 394 • ⏱️ 13:29 • 1d ago
+👁️ 12K • 👍 544 • 💬 395 • ⏱️ 13:29 • 1d ago
+
+---
+
+**[Did Michael Saylor’s BIG LONG Just Trigger a Bitcoin Supercycle?!](https://www.youtube.com/watch?v=RTWgQ_EkFQ0)**
+
+Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. Jack Maullers? Just dropped 43K BTC into ...
+
+📺 Simply Bitcoin
+
+👁️ 37K • 👍 3K • 💬 409 • ⏱️ 16:35 • 11h ago
 
 ---
 
@@ -349,37 +359,17 @@ Vanguard, Bank of America, and Charles Schwab just made massive moves into Bitco
 
 📺 Lark Davis
 
-👁️ 15K • 👍 803 • 💬 60 • ⏱️ 9:27 • 10h ago
+👁️ 17K • 👍 864 • 💬 60 • ⏱️ 9:27 • 10h ago
 
 ---
 
-**[Bitcoin Investors Prepare For a HUGE FOMC Week](https://www.youtube.com/watch?v=HhNaTvl9pjI)**
+**[URGENT: 3 Reasons Bitcoin Will Have A Huge Move Soon!](https://www.youtube.com/watch?v=8uY5V6U4EQs)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+In this video, Kyledoops shows you 3 very specific reasons why you can expect a big Bitcoin move soon. He will give you a ...
 
-📺 CryptosRUs
+📺 Crypto Banter
 
-👁️ 32K • 👍 1K • 💬 260 • ⏱️ 37:28 • 18h ago
-
----
-
-**[Fed Meeting Week vs Crypto📈Market Update](https://www.youtube.com/watch?v=vOsikRuBSQc)**
-
-Wednesday, when the Federal Open Market Committee (FOMC) of the U.S. Federal Reserve has its December meeting, at which ...
-
-📺 Paul Barron Network
-
-👁️ 37K • 👍 2K • 💬 104 • ⏱️ 19:16 • 13h ago
-
----
-
-**[BITCOIN TREASURY MOVED!! GET READY FOR TOMORROW!!](https://www.youtube.com/watch?v=TCbgySXc1PM)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 18K • 👍 748 • 💬 222 • ⏱️ 9:22 • 18h ago
+👁️ 6K • 👍 746 • 💬 9 • ⏱️ 37:53 • 1h ago
 
 ---
 
@@ -389,7 +379,15 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 76K • 👍 3K • 💬 333 • ⏱️ 11:32 • 2d ago
+👁️ 76K • 👍 3K • 💬 335 • ⏱️ 11:32 • 2d ago
+
+---
+
+**[Bitcoin In A System With No Options Left](https://www.youtube.com/watch?v=Nt3TeLmXKWU)**
+
+📺 THE JACK MALLERS SHOW
+
+👁️ 17K • 👍 1K • 💬 134 • ⏱️ 1:14:55 • 9h ago
 
 ---
 
@@ -399,7 +397,7 @@ This chart shows the historical backtest of the on-chain risk gauge shown on the
 
 📺 Benjamin Cowen
 
-👁️ 63K • 👍 4K • 💬 142 • ⏱️ 9:57 • 1d ago
+👁️ 64K • 👍 4K • 💬 143 • ⏱️ 9:57 • 1d ago
 
 ---
 

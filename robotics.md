@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T09:27:46.182722+00:00'
+updated: '2025-12-09T09:47:50.490036+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 09:27 UTC  
+**Last Updated:** December 09, 2025 at 09:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -124,7 +124,7 @@ Tech Xplore • 18h ago
 
 The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
 
-Breaking Defense • 18h ago
+Breaking Defense • 19h ago
 
 ---
 
@@ -148,7 +148,7 @@ Interesting Engineering • 17h ago
 
 The Chinese robotics firm EngineAI lets its humanoid robot loose on its CEO, whom it promptly proceeds to lay out.
 
-Futurism • 11h ago
+Futurism • 12h ago
 
 ---
 
@@ -156,7 +156,7 @@ Futurism • 11h ago
 
 SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
 
-PYMNTS.com • 11h ago
+PYMNTS.com • 12h ago
 
 ---
 
@@ -202,7 +202,15 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 6K • 👍 162 • 💬 73 • ⏱️ 14:26 • 14h ago
+👁️ 8K • 👍 191 • 💬 103 • ⏱️ 14:26 • 14h ago
+
+---
+
+**[Purchased the newly released 2025 humanoid robot. #robotics #ai #humanoidrobot #airobot](https://www.youtube.com/watch?v=NJeenJ276ug)**
+
+📺 AI . Robot
+
+👁️ 1.8M • 👍 9K • 💬 51 • ⏱️ 0:17 • 4d ago
 
 ---
 
@@ -210,7 +218,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI . Robot
 
-👁️ 53K • 👍 789 • 💬 15 • ⏱️ 0:19 • 20h ago
+👁️ 57K • 👍 834 • 💬 15 • ⏱️ 0:19 • 20h ago
 
 ---
 
@@ -220,7 +228,7 @@ Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hosting
 
 📺 Fin Tek
 
-👁️ 87K • 👍 3K • 💬 147 • ⏱️ 21:31 • 3d ago
+👁️ 88K • 👍 3K • 💬 147 • ⏱️ 21:31 • 3d ago
 
 ---
 
@@ -230,7 +238,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 24K • 👍 237 • 💬 7 • ⏱️ 0:25 • 2d ago
+👁️ 25K • 👍 251 • 💬 7 • ⏱️ 0:25 • 2d ago
 
 ---
 
@@ -240,17 +248,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 175K • 👍 798 • 💬 273 • ⏱️ 1:03 • 2d ago
-
----
-
-**[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
-
-Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
-
-📺 MarketBeat
-
-👁️ 40K • 👍 1K • 💬 95 • ⏱️ 24:47 • 2d ago
+👁️ 178K • 👍 813 • 💬 280 • ⏱️ 1:03 • 2d ago
 
 ---
 
@@ -260,7 +258,17 @@ After months of buildup, the Shenzhen startup EngineAI is taking orders for its 
 
 📺 Kalil 4.0
 
-👁️ 11K • 👍 229 • 💬 29 • ⏱️ 0:59 • 2d ago
+👁️ 12K • 👍 237 • 💬 31 • ⏱️ 0:59 • 2d ago
+
+---
+
+**[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
+
+Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
+
+📺 MarketBeat
+
+👁️ 41K • 👍 1K • 💬 96 • ⏱️ 24:47 • 2d ago
 
 ---
 
@@ -270,25 +278,17 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 168K • 👍 709 • 💬 6 • ⏱️ 0:17 • 1d ago
+👁️ 169K • 👍 710 • 💬 6 • ⏱️ 0:17 • 1d ago
 
 ---
 
-**[2025 Advanced Anti-Gravity Hoverboard Showcase. #futuretech #antigravity #hoverboard #robotics](https://www.youtube.com/watch?v=NfrybLAbGqA)**
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=3Mt2UGY_6lM)**
 
-📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
+At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
 
-👁️ 45K • 👍 544 • 💬 15 • ⏱️ 0:11 • 2d ago
+📺 Humanoid Robot 🤖
 
----
-
-**[This Isn&#39;t Your Typical Humanoid Robot](https://www.youtube.com/watch?v=NjwgtvVPy04)**
-
-Memo is a wheeled home robot from Sunday Robotics, a Mountain View startup founded by Stanford PhDs Tony Zhao and Cheng ...
-
-📺 Game of Tomorrow
-
-👁️ 1.1M • 👍 36K • 💬 2K • ⏱️ 0:55 • 3d ago
+👁️ 58K • 👍 577 • 💬 12 • ⏱️ 0:19 • 3d ago
 
 ---
 
