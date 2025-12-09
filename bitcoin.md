@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T05:23:08.769013+00:00'
+updated: '2025-12-09T05:42:45.409211+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - news
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 05:23 UTC  
+**Last Updated:** December 09, 2025 at 05:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,527.61
+### $89,962.50
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -4.4%  
-**30d:** -15.6%  
-**90d:** -22.3%  
-**1y:** -7.1%  
+**24h:** -1.4%  
+**7d:** -3.7%  
+**30d:** -15.0%  
+**90d:** -21.8%  
+**1y:** -6.5%  
 
 ---
 
@@ -70,7 +70,7 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 20
+### 22
 **EXTREME FEAR**
 
 ---
@@ -93,7 +93,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -107,7 +107,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 They have a promotion going on with Ledger
 
-10h ago
+11h ago
 
 ---
 
@@ -121,7 +121,7 @@ They have a promotion going on with Ledger
 
 Back in 2011–2013, physical bitcoins were actually a thing. They were known as Casascius Coins — metal tokens with a hologram on the back hiding a private key printed on paper. Peel the hologram, and the BTC could be moved to a regular blockchain address. What makes this story even wilder is how many people never touched them for years. Some holders treated these coins like collectibles, others forgot about them entirely. Only recently, more and more of these physical bitcoins have been getting redeemed after sitting untouched for a decade or more. From novelty item to time capsule holding real money, Casascius coins remain one of the strangest and most iconic relics of early Bitcoin history.
 
-13h ago
+14h ago
 
 ---
 
@@ -133,7 +133,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 **[...and then they join you.](https://www.reddit.com/r/Bitcoin/comments/1phxg26/and_then_they_join_you/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 This article explains what changed today when the CFTC approved Bitcoin as eligible collateral inside regulated U.S. derivatives markets. That decision won’t move price today, but it alters how institutions are allowed to hold and use Bitcoin. When an asset becomes collateral-grade, sell-offs stop being exits and become portfolio rotations. If the coming weeks look uneventful, it’s only because structural shifts appear long before capital moves...this piece is written so that you see what actually began.
 
-🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/bitcoin-and-the-commodity-futures) • 5h ago
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/bitcoin-and-the-commodity-futures) • 6h ago
 
 ---
 
@@ -153,7 +153,7 @@ This article explains what changed today when the CFTC approved Bitcoin as eligi
 
 BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -169,13 +169,13 @@ Morningstar • 18h ago
 
 U.S. crypto investors now have just over two weeks to execute any final sales before sweeping IRS reporting rules go live on January 1, 2026. What Happened: Beginning in 2026, centralized exchanges will be required to follow the same cost-basis ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqfuYRt8U5JMJc6LYH6n3GlznG02rAnMkXDaJoZN2-xGsmAHbhL45yZM&gaa_ts=6937b590&gaa_sig=KMFq_5pxHEgpQddmND2T8ZFFXqzL0-KXxe8ELA2HCbfzeYiEypfAvfpzOrfCG4_IJ2rxQVYLfSm4FuqYc3bHFQ%3D%3D)**
 
-MarketWatch • 6h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -189,13 +189,13 @@ Binance • 1d ago
 
 Strategy reported its largest Bitcoin purchase in more than three months on Monday, only days after spending close to $1Bn on the cryptocurrency. The firm, based in Tysons Corner, Virginia, said it bought 10,624 BTC for $963M. Most of the funding came from issuing new common stock. The latest purchase ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bernstein reveals new Bitcoin target amid market pullback](https://www.thestreet.com/crypto/trading/bernstein-new-bitcoin-prediction)**
 
-TheStreet • 11h ago
+TheStreet • 12h ago
 
 ---
 
@@ -211,13 +211,13 @@ CoinDesk • 8h ago
 
 These flows represent a bullish bet on volatility rather than a downside hedge or outright bearish position.
 
-CoinDesk • 52m ago
+CoinDesk • 1h ago
 
 ---
 
 **[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
 
-Reuters • 15m ago
+Reuters • 34m ago
 
 ---
 
@@ -309,7 +309,7 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 187K • 👍 8K • 💬 892 • ⏱️ 20:03 • 9h ago
+👁️ 242K • 👍 10K • 💬 1K • ⏱️ 20:03 • 9h ago
 
 ---
 
@@ -319,7 +319,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 16K • 👍 725 • 💬 196 • ⏱️ 9:22 • 14h ago
+👁️ 17K • 👍 739 • 💬 198 • ⏱️ 9:22 • 14h ago
 
 ---
 
@@ -329,17 +329,7 @@ Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. 
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 321 • ⏱️ 16:35 • 6h ago
-
----
-
-**[$26 Billion Fresh Money Incoming for Bitcoin [How High Can It Go?]](https://www.youtube.com/watch?v=-datgQL4Vaw)**
-
-Vanguard, Bank of America, and Charles Schwab just made massive moves into Bitcoin and crypto – unlocking potentially $26B ...
-
-📺 Lark Davis
-
-👁️ 9K • 👍 614 • 💬 46 • ⏱️ 9:27 • 6h ago
+👁️ 29K • 👍 3K • 💬 342 • ⏱️ 16:35 • 7h ago
 
 ---
 
@@ -347,17 +337,7 @@ Vanguard, Bank of America, and Charles Schwab just made massive moves into Bitco
 
 📺 Matt & Justus
 
-👁️ 83K • 👍 12K • 💬 97 • ⏱️ 1:00 • 10h ago
-
----
-
-**[Larry Fink &amp; Stanley Druckenmiller Describe the Bitcoin Endgame](https://www.youtube.com/watch?v=HkR_KF5YbzQ)**
-
-Connect with Early Riders — https://www.earlyriders.com/contact Connect with Onramp — https://onrampbitcoin.com/contact-us/ ...
-
-📺 Onramp Bitcoin Media
-
-👁️ 2K • 👍 67 • 💬 17 • ⏱️ 54:06 • 9h ago
+👁️ 169K • 👍 23K • 💬 126 • ⏱️ 1:00 • 11h ago
 
 ---
 
@@ -367,7 +347,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 11K • 👍 517 • 💬 355 • ⏱️ 13:29 • 23h ago
+👁️ 12K • 👍 528 • 💬 358 • ⏱️ 13:29 • 23h ago
+
+---
+
+**[$26 Billion Fresh Money Incoming for Bitcoin [How High Can It Go?]](https://www.youtube.com/watch?v=-datgQL4Vaw)**
+
+Vanguard, Bank of America, and Charles Schwab just made massive moves into Bitcoin and crypto – unlocking potentially $26B ...
+
+📺 Lark Davis
+
+👁️ 12K • 👍 712 • 💬 54 • ⏱️ 9:27 • 6h ago
 
 ---
 
@@ -377,7 +367,17 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 199 • ⏱️ 37:28 • 14h ago
+👁️ 31K • 👍 1K • 💬 199 • ⏱️ 37:28 • 14h ago
+
+---
+
+**[[WARNING] This Will Have A MASSIVE Impact On Bitcoin and Crypto](https://www.youtube.com/watch?v=AWEx3aK7l2Y)**
+
+In this clip, I talk about what is happening for bitcoin and crypto this week and the impact it will have. **Exchange Partners** ...
+
+📺 CryptosRus Extra
+
+👁️ 7K • 👍 401 • 💬 134 • ⏱️ 9:01 • 5h ago
 
 ---
 
@@ -387,17 +387,17 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 238 • ⏱️ 18:52 • 1d ago
+👁️ 31K • 👍 2K • 💬 238 • ⏱️ 18:52 • 1d ago
 
 ---
 
-**[Did Wall Street Break the Bitcoin Cycle For Good?](https://www.youtube.com/watch?v=p2Uie3aNtMA)**
+**[IT’S RIGGED! Kevin O’Leary Warns ‘Buckle Up’ Bitcoin &amp; Ethereum Holders](https://www.youtube.com/watch?v=s3Exn-qdeno)**
 
-Bitcoin is grinding higher in a completely new macro regime: QT ending, elections looming, and sovereign wealth funds quietly ...
+LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily ...
 
-📺 Swan Bitcoin
+📺 Altcoin Daily
 
-👁️ 9K • 👍 293 • 💬 165 • ⏱️ 17:26 • 11h ago
+👁️ 75K • 👍 3K • 💬 333 • ⏱️ 11:32 • 2d ago
 
 ---
 

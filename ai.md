@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T05:23:08.760531+00:00'
+updated: '2025-12-09T05:42:45.400623+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - news
-- social
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 05:23 UTC  
+**Last Updated:** December 09, 2025 at 05:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
 
-🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 8h ago
+🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 9h ago
 
 ---
 
@@ -95,7 +95,7 @@ IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks b
 
 The president announced the plans to create one rulebook for AI via his Truth Social account on Monday.
 
-🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 13h ago
+🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 14h ago
 
 ---
 
@@ -103,7 +103,7 @@ The president announced the plans to create one rulebook for AI via his Truth So
 
 Title.
 
-7h ago
+8h ago
 
 ---
 
@@ -135,7 +135,7 @@ CNN • 14h ago
 
 Publishers are tracking AI citations to understand visibility, attribution gaps and referral traffic in these tools and platforms.
 
-Digiday • 21m ago
+Digiday • 40m ago
 
 ---
 
@@ -143,7 +143,7 @@ Digiday • 21m ago
 
 Jamie Dimon says AI will cut jobs before delivering big benefits, including a future where people work "less hard" and enjoy "wonderful lives."
 
-Business Insider • 19m ago
+Business Insider • 38m ago
 
 ---
 
@@ -151,7 +151,7 @@ Business Insider • 19m ago
 
 Hallucination and latency are two main reasons against incorporating AI agents in programmatic ad buying, though there’s still a place for AI agents in programmatic workflows.
 
-Digiday • 19m ago
+Digiday • 39m ago
 
 ---
 
@@ -165,7 +165,7 @@ The Economist • 8h ago
 
 Nvidia and chip rival Advanced Micro Devices agreed over the summer to share 15% of the revenue from China chip sales with the U.S. government.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg.com • 14h ago
 
 Despite soaring progress, scientists at AI’s largest gathering say key questions about how models work and how to measure them remain unsolved.
 
-NBC News • 4h ago
+NBC News • 5h ago
 
 ---
 
@@ -211,13 +211,13 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 254 • 💬 163 • 4h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 254 • 💬 163 • 5h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 129 • 💬 121 • 11h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 129 • 💬 121 • 12h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -251,7 +251,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny.
 
-⬆️ 35 • 💬 4 • 8h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
+⬆️ 35 • 💬 4 • 9h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
 
 ---
 
@@ -267,33 +267,33 @@ A fork of Calibre called Clbre, because the AI is stripped out. - grimthorpe/clb
 
 ## YouTube Videos: "ai"
 
-**[New Largest AI Datacenter: Not a Single GPU Inside](https://www.youtube.com/watch?v=N10w1KvFKNQ)**
-
-Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTECHDEC2 - 100% Discount for the first 1000 ...
-
-📺 Anastasi In Tech
-
-👁️ 58K • 👍 5K • 💬 613 • ⏱️ 31:03 • 7h ago
-
----
-
 **[DIMON’S WARNING: America might not be ready for coming AI shock](https://www.youtube.com/watch?v=C8yuD9ca1lo)**
 
 JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, crypto investing and socialism on 'Mornings ...
 
 📺 Fox Business
 
-👁️ 49K • 👍 980 • 💬 305 • ⏱️ 18:47 • 13h ago
+👁️ 54K • 👍 1K • 💬 318 • ⏱️ 18:47 • 13h ago
 
 ---
 
-**[QUANTUM WILL ECLIPSE AI: Why Everyone’s Betting on the Wrong Horse](https://www.youtube.com/watch?v=aNpVFovnZ-E)**
+**[Google’s Titans Just Solved AI’s Biggest Weakness, But...](https://www.youtube.com/watch?v=GGdjty9pAtg)**
 
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS introduce a new long-term memory system that ...
 
-📺 Julia McCoy
+📺 AI Revolution
 
-👁️ 56K • 👍 3K • 💬 512 • ⏱️ 15:03 • 1d ago
+👁️ 10K • 👍 454 • 💬 26 • ⏱️ 13:12 • 5h ago
+
+---
+
+**[New Largest AI Datacenter: Not a Single GPU Inside](https://www.youtube.com/watch?v=N10w1KvFKNQ)**
+
+Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTECHDEC2 - 100% Discount for the first 1000 ...
+
+📺 Anastasi In Tech
+
+👁️ 79K • 👍 6K • 💬 768 • ⏱️ 31:03 • 8h ago
 
 ---
 
@@ -303,7 +303,7 @@ Big Tech is racking up debt to fund their AI infrastructure for demand that seem
 
 📺 Vanessa Wingårdh
 
-👁️ 123K • 👍 9K • 💬 2K • ⏱️ 10:38 • 1d ago
+👁️ 124K • 👍 9K • 💬 2K • ⏱️ 10:38 • 1d ago
 
 ---
 
@@ -313,7 +313,7 @@ OpenAI is in a full internal race after a major leak revealed a new model called
 
 📺 AI Revolution
 
-👁️ 88K • 👍 2K • 💬 117 • ⏱️ 12:31 • 1d ago
+👁️ 91K • 👍 2K • 💬 118 • ⏱️ 12:31 • 1d ago
 
 ---
 
@@ -323,27 +323,17 @@ Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Fu
 
 📺 Dan Kieft
 
-👁️ 17K • 💬 18 • ⏱️ 20:04 • 12h ago
+👁️ 19K • 💬 18 • ⏱️ 20:04 • 12h ago
 
 ---
 
-**[Marjorie Taylor Greene; Character AI; Watch Valley | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=Zl_JvJ5-JA4)**
+**[AI EXPANSION EXPLODES: Welders and electricians become the new elite earners](https://www.youtube.com/watch?v=Bw8XblRkcmE)**
 
-First, Marjorie Taylor Greene: The 2025 60 Minutes Interview. Then, researchers warn AI chatbots can harm kids. And, why ...
+'The Big Money Show' panel discusses how the A.I. construction boom is reshaping America's workforce, driving six-figure ...
 
-📺 60 Minutes
+📺 Fox Business
 
-👁️ 202K • 👍 3K • 💬 684 • ⏱️ 43:37 • 17h ago
-
----
-
-**[Gemini 4 — Google’s Biggest AI Upgrade Yet (Full Features Explained)](https://www.youtube.com/watch?v=WYK7iyOklf4)**
-
-Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Gemini 4 — and it might be their most powerful AI ...
-
-📺 BitBiasedAI
-
-👁️ 49K • 👍 1K • 💬 47 • ⏱️ 11:49 • 2d ago
+👁️ 46K • 👍 873 • 💬 439 • ⏱️ 6:47 • 2d ago
 
 ---
 
@@ -353,17 +343,27 @@ Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift int
 
 📺 Impossible AIs
 
-👁️ 1.2M • 👍 3K • 💬 102 • ⏱️ 8:06 • 2d ago
+👁️ 1.2M • 👍 3K • 💬 103 • ⏱️ 8:06 • 2d ago
 
 ---
 
-**[Can AI Build the Perfect Secret Room? Download Copilot! #CopilotPartner](https://www.youtube.com/watch?v=6hDsE7U_WlM)**
+**[The LAZIEST Way To Start Making Money with AI BEFORE 2026 (For Beginners)](https://www.youtube.com/watch?v=l9ulY_Mnqgc)**
 
-CopilotPartner.
+Use DeepAgent To Help You Start a Business with AI: https://deepagent.abacus.ai/rqm This video walks you through how I built a ...
 
-📺 Ben Azelart
+📺 Rob The AI Guy
 
-👁️ 327K • 👍 8K • 💬 197 • ⏱️ 1:17 • 9h ago
+👁️ 4K • 👍 180 • 💬 42 • ⏱️ 17:47 • 1d ago
+
+---
+
+**[Gemini 4 — Google’s Biggest AI Upgrade Yet (Full Features Explained)](https://www.youtube.com/watch?v=WYK7iyOklf4)**
+
+Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Gemini 4 — and it might be their most powerful AI ...
+
+📺 BitBiasedAI
+
+👁️ 50K • 👍 1K • 💬 49 • ⏱️ 11:49 • 2d ago
 
 ---
 
@@ -379,7 +379,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,361 • 12h ago
+⬇️ 201,990 • ❤️ 2,361 • 13h ago
 
 ---
 
@@ -483,7 +483,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 0 • ❤️ 153 • 17h ago
+⬇️ 0 • ❤️ 153 • 18h ago
 
 ---
 
@@ -675,7 +675,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 996 • 🔱 123 • 6h ago
+⭐ 996 • 🔱 123 • 7h ago
 
 ---
 

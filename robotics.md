@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T05:23:08.778279+00:00'
+updated: '2025-12-09T05:42:45.418603+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 05:23 UTC  
+**Last Updated:** December 09, 2025 at 05:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,7 +66,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
 Has anyone seen how the mopping pressure is created in a robot vacuum? I would imagine some sort of linear actuator/solenoid/spring suspension but did not see any of that when looking at at online teardowns of a Dreame X50 Ultra that claims to have mop lifting/mop pressure.
 
-2h ago
+3h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a sh
 
 Hi all, I recently got into the robotics industry moving in from drones. The team has around 3 PMs for the dev of a robot and 2 manage external customers for the robot. I'm a PM with 4years of experience where I managed multiple projects before and customer relations. Been assigned in my current role in data collection ops (I know the crowd hear is familiar with this, that why Im posting this in the sub). Feel like this role is a downgrade from my previous role. Question to other technical PMs in robotics, is it normal to start off in something like data collection ops and work your way up to something more technical. Any advice on how I can use this opportunity to get more technically involved? Other PMs in robotics, what is your journey?
 
-8h ago
+9h ago
 
 ---
 
@@ -124,7 +124,7 @@ Tech Xplore • 14h ago
 
 The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
 
-Breaking Defense • 14h ago
+Breaking Defense • 15h ago
 
 ---
 
@@ -196,13 +196,21 @@ CNN • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Motion error during the review of the new humanoid robot. #robotics #ai #humanoid #robot #futuretech](https://www.youtube.com/watch?v=8jPg2-t2UFg)**
+
+📺 AI . Robot
+
+👁️ 48K • 👍 717 • 💬 13 • ⏱️ 0:19 • 16h ago
+
+---
+
 **[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
 
 EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
 
 📺 AI Tech Academy
 
-👁️ 2K • 👍 91 • 💬 29 • ⏱️ 14:26 • 9h ago
+👁️ 4K • 👍 135 • 💬 55 • ⏱️ 14:26 • 10h ago
 
 ---
 
@@ -212,27 +220,7 @@ Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hosting
 
 📺 Fin Tek
 
-👁️ 84K • 👍 3K • 💬 144 • ⏱️ 21:31 • 3d ago
-
----
-
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=EBwPX-bMTt0)**
-
-At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
-
-📺 Humanoid Robot 🤖
-
-👁️ 3K • 👍 16 • ⏱️ 0:18 • 2h ago
-
----
-
-**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
-
-The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
-
-📺 DPCcars
-
-👁️ 166K • 👍 772 • 💬 259 • ⏱️ 1:03 • 2d ago
+👁️ 86K • 👍 3K • 💬 147 • ⏱️ 21:31 • 3d ago
 
 ---
 
@@ -242,7 +230,27 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 23K • 👍 222 • 💬 7 • ⏱️ 0:25 • 1d ago
+👁️ 24K • 👍 229 • 💬 7 • ⏱️ 0:25 • 1d ago
+
+---
+
+**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
+
+The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
+
+📺 DPCcars
+
+👁️ 171K • 👍 786 • 💬 272 • ⏱️ 1:03 • 2d ago
+
+---
+
+**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
+
+Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
+
+📺 Unitree Robotics
+
+👁️ 2.6M • 👍 1K • 💬 331 • ⏱️ 1:06 • 5d ago
 
 ---
 
@@ -252,7 +260,17 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 39K • 👍 1K • 💬 94 • ⏱️ 24:47 • 2d ago
+👁️ 40K • 👍 1K • 💬 95 • ⏱️ 24:47 • 2d ago
+
+---
+
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=EBwPX-bMTt0)**
+
+At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+
+📺 Humanoid Robot 🤖
+
+👁️ 4K • 👍 31 • ⏱️ 0:18 • 2h ago
 
 ---
 
@@ -262,7 +280,7 @@ After months of buildup, the Shenzhen startup EngineAI is taking orders for its 
 
 📺 Kalil 4.0
 
-👁️ 10K • 👍 217 • 💬 29 • ⏱️ 0:59 • 1d ago
+👁️ 11K • 👍 224 • 💬 29 • ⏱️ 0:59 • 2d ago
 
 ---
 
@@ -272,25 +290,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 157K • 👍 668 • 💬 5 • ⏱️ 0:17 • 22h ago
-
----
-
-**[Robot Girl at the Expo Tried Selling Me a Wife 🤖💍](https://www.youtube.com/watch?v=ZKdEqrVIabY)**
-
-Here's what happened when I asked a robot receptionist about partner models at a tech expo… I was already talking to one ...
-
-📺 AI Robot Reality
-
-👁️ 11K • 👍 226 • 💬 8 • ⏱️ 0:19 • 2d ago
-
----
-
-**[2025 Advanced Anti-Gravity Hoverboard Showcase. #futuretech #antigravity #hoverboard #robotics](https://www.youtube.com/watch?v=NfrybLAbGqA)**
-
-📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
-
-👁️ 40K • 👍 510 • 💬 15 • ⏱️ 0:11 • 1d ago
+👁️ 162K • 👍 696 • 💬 6 • ⏱️ 0:17 • 22h ago
 
 ---
 

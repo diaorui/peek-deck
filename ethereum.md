@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T05:23:08.775022+00:00'
+updated: '2025-12-09T05:42:45.415296+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 05:23 UTC  
+**Last Updated:** December 09, 2025 at 05:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -2.7%  
-**30d:** -12.9%  
-**90d:** -30.5%  
-**1y:** -14.4%  
+**24h:** -0.4%  
+**7d:** -2.2%  
+**30d:** -12.5%  
+**90d:** -30.2%  
+**1y:** -14.0%  
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Five years ago, an Ethereum standards author was threatened with trademark legal action over the name of a smart contract standard](https://www.reddit.com/r/ethereum/comments/1phe1xy/five_years_ago_an_ethereum_standards_author_was/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 14h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 15h ago
 
 ---
 
@@ -154,13 +154,13 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 The CFTC has introduced a pilot allowing Bitcoin, Ethereum, and USDC to be used as margin, while updating rules to support tokenized assets.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
 **[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -184,7 +184,7 @@ Decrypt • 11h ago
 
 U.S. crypto investors now have just over two weeks to execute any final sales before sweeping IRS reporting rules go live on January 1, 2026. What Happened: Beginning in 2026, centralized exchanges will be required to follow the same cost-basis ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -222,7 +222,7 @@ TradingView • 17h ago
 
 Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -236,7 +236,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 4K • 👍 249 • 💬 143 • ⏱️ 12:46 • 11h ago
+👁️ 6K • 👍 302 • 💬 149 • ⏱️ 12:46 • 11h ago
 
 ---
 
@@ -246,7 +246,7 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 64 • 💬 46 • ⏱️ 6:25 • 16h ago
+👁️ 2K • 👍 68 • 💬 46 • ⏱️ 6:25 • 16h ago
 
 ---
 
@@ -256,17 +256,7 @@ In today's Milk Road episode, we sit down with CMT Digital's Aryan Sheikhalian t
 
 📺 Milk Road
 
-👁️ 1K • 👍 94 • 💬 79 • ⏱️ 33:06 • 9h ago
-
----
-
-**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2025 New Prediction]](https://www.youtube.com/watch?v=8x2DjiAw3uI)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 7K • 👍 303 • 💬 17 • ⏱️ 15:50 • 14h ago
+👁️ 1K • 👍 96 • 💬 81 • ⏱️ 33:06 • 9h ago
 
 ---
 
@@ -286,7 +276,17 @@ The momentum behind the BlackRock ETH ETF could be the exact spark that launches
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 498 • 💬 14 • ⏱️ 49:44 • 12h ago
+👁️ 7K • 👍 504 • 💬 14 • ⏱️ 49:44 • 13h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 09 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=2PE4wqKOR4w)**
+
+No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
+
+📺 Balraj Trading Tech
+
+👁️ 2K • 👍 433 • 51m ago
 
 ---
 
@@ -296,27 +296,7 @@ BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available ever
 
 📺 Lark Davis
 
-👁️ 15K • 👍 778 • 💬 78 • ⏱️ 37:57 • 17h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KlHoU85sq_A)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 148 • 💬 4 • ⏱️ 5:35 • 12h ago
-
----
-
-**[BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Y4sZ0EGnBf0)**
-
-BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 422 • 💬 195 • ⏱️ 19:51 • 6h ago
+👁️ 15K • 👍 780 • 💬 78 • ⏱️ 37:57 • 17h ago
 
 ---
 
@@ -326,7 +306,27 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 417 • 👍 28 • 💬 27 • ⏱️ 9:20 • 10h ago
+👁️ 463 • 👍 39 • 💬 42 • ⏱️ 9:20 • 11h ago
+
+---
+
+**[BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Y4sZ0EGnBf0)**
+
+BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 456 • 💬 204 • ⏱️ 19:51 • 7h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KlHoU85sq_A)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 149 • 💬 5 • ⏱️ 5:35 • 12h ago
 
 ---
 
