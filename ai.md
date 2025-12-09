@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T23:09:48.085988+00:00'
+updated: '2025-12-09T23:31:09.539360+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- videos
+- news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 23:09 UTC  
+**Last Updated:** December 09, 2025 at 23:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is 
 
 Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as AI shakes up jobs, education, and the global economy.
 
-🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 56m ago
+🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 1h ago
 
 ---
 
@@ -71,7 +71,7 @@ Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as A
 
 GPT-5.2 rumored to drop today Meta acquires AI wearable company Buy groceries without leaving ChatGPT A collection of AI Updates! 🧵 1. OpenAI Rumored to Drop GPT-5.2 Today (December 9th) "Code red" response to Google arriving earlier than planned. GPT-5.2 accelerated release schedule in direct competition with Gemini advancements. OpenAI-Google AI race intensifies. 2. Anthropic Launches Tool to Understand People's Perspectives on AI Anthropic Interviewer drafts questions, conducts interviews, and analyzes responses. Week-long pilot at claude.ai/interviewer. Already tested on 1,250 professionals - findings show workers want routine delegation but creative control. New research on AI adoption. 3. Meta Acquires LimitlessAI for it's Wearable Conversation Device Startup creates pendant-style device that captures and transcribes real-world conversations. Aligns with Meta's AI-enabled consumer hardware strategy and "personal superintelligence" vision. A greater push into AI wearables beyond glasses. 4. You Can Now Buy Groceries Without Leaving ChatGPT Stripe partners with Instacart for direct checkout in ChatGPT. Powered by Agentic Commerce Protocol launched with OpenAI. Uses Stripe Shared Payment Tokens for secure payments. Live on web today, mobile coming soon. 5. Elon Musk Announces Grok 4.20 Release in 3-4 Weeks Next major Grok model update coming soon. Timeline puts release in early January 2025. xAI continues rapid iteration on competitive AI models. 6. a16z Co-Leads $475M Seed for Unconventional AI Chip Startup Building highly efficient AI-first chips using analog computing systems. CEO Naveen Rao previously sold two companies. Focus on better hardware to enable AGI. A much different approach on chips compared to current industry standards. 7. Microsoft Pledges to Invest $19 billion+ in AI infra in Canada A total of $19 billion CAD between 2023 and 2027 has just been pledged this morning. $7.5 billion CAD alone over the next two years. 8. Google Planning Nano Banana 2 Flash Release in Coming Weeks Internal "Mayo" announcement added to Gemini web. Performance matches Nano Banana 2 Pro at lower cost. Gemini 3 Flash likely dropping around same time. Flash variant enables wider scaling without sacrificing quality. 9. OpenAI Releases GPT-5.1-Codex Max via Responses API Most capable agentic coding model now available to integrate into apps and workflows. First launched in Codex two weeks ago. Purpose-built for agentic coding with foundational reasoning. Also accessible via Codex CLI with API key. 10. Google Drops Deep Think Mode for Gemini 3 Explores multiple hypotheses simultaneously with iterative reasoning rounds. Produces more refined, nuanced code with richer detail. Available to Google AI Ultra subscribers. Select 'Deep Think' in prompt bar to activate. That's a wrap on this week's AI News. Which update do you think is the biggest? LMK what else you want to see | More weekly AI + Agentic content releasing ever week!
 
-4h ago
+5h ago
 
 ---
 
@@ -133,31 +133,25 @@ CNBC • 11h ago
 
 ---
 
-**[Dr. Eileen Kennedy-Moore On AI And Parenting With Boundaries | RAISING AMERICA](https://thehill.com/video/dr-eileen-kennedy-moore-on-ai-and-parenting-with-boundaries-raising-america/11334202/)**
+**[Radnor High School in Pennsylvania alerts families to 'inappropriate' AI video depicting students](https://6abc.com/post/radnor-high-school-pennsylvania-alerts-families-inappropriate-ai-video-depicting-students/18268641/)**
 
-thehill.com • 1h ago
+Radnor High School and local police are investigating an AI-generated video that allegedly depicts several students inappropriately, the principal said.
 
----
-
-**[Advocate cheers possible federal AI regulation](https://thehill.com/policy/technology/5640357-ai-regulation-child-safety/)**
-
-thehill.com • 57m ago
+6abc Philadelphia • 1h ago
 
 ---
 
-**[OpenAI Staffer Quits, Alleging Company’s Economic Research Is Drifting Into AI Advocacy](https://www.wired.com/story/openai-economic-research-team-ai-jobs/)**
+**[US Air Force wants AI to power high-speed wargaming](https://www.defensenews.com/air/2025/12/09/us-air-force-wants-ai-to-power-high-speed-wargaming/)**
 
-Four sources close to the situation claim OpenAI has become hesitant to publish research on the negative impact of AI. The company says it has only expanded the economic research team’s scope.
+The Air Force wants a cloud-based, AI-powered “digital sandbox” as a hub to generate and run wargames at speeds of up 10,000 times faster than real time.
 
-WIRED • 5h ago
+Defense News • 45m ago
 
 ---
 
-**[Teens, Social Media and AI Chatbots 2025](https://www.pewresearch.org/internet/2025/12/09/teens-social-media-and-ai-chatbots-2025/)**
+**[‘Marjorie Prime’ Review: Broadway’s Family Drama of the AI Future](https://www.wsj.com/articles/marjorie-prime-review-broadways-family-drama-of-the-ai-future-fb508e75?gaa_at=eafs&gaa_n=AWEtsqeWdJfkOcJP_PmFyk5x_dzUSs3rGlsko2Z9vBVjdDXQ2sPtTIEgbZK3&gaa_ts=6938b49e&gaa_sig=jtnqEOP5Utn1ysag5s5lW5AoQbhd-V4jiT7T9QEozjl9U9SYkhEvjQQjs2EHxrXKOVEFOFajQi3YI3i5p8W2vg%3D%3D)**
 
-Roughly one-in-five U.S. teens say they are on TikTok and YouTube almost constantly. At the same time, 64% of teens say they use chatbots, including about three-in-ten who do so daily.
-
-Pew Research Center • 3h ago
+The Wall Street Journal • 33m ago
 
 ---
 
@@ -169,27 +163,31 @@ CNN • 3h ago
 
 ---
 
+**[‘I feel it’s a friend’: quarter of teenagers turn to AI chatbots for mental health support](https://www.theguardian.com/technology/2025/dec/09/teenagers-ai-chatbots-mental-health-support)**
+
+Experts warn of dangers as England and Wales study shows 13- to 17-year-olds consulting AI amid long waiting lists for services
+
+The Guardian • 9h ago
+
+---
+
 **[AI tools transform Christmas shopping as people turn to chatbots](https://www.bbc.com/news/articles/c8xd8prjvj0o)**
 
 Shopper are increasingly using chatbots for their hard-to-buy-for family and friends, with implications for bargain hunters and businesses.
 
-BBC • 16h ago
+BBC • 17h ago
 
 ---
 
-**[Chief Digital and Artificial Intelligence Office Selects Google Cloud's AI to Power GenAI.mil](https://www.googlecloudpresscorner.com/2025-12-09-Chief-Digital-and-Artificial-Intelligence-Office-Selects-Google-Clouds-AI-to-Power-GenAI-mil)**
+**[Microsoft unveils $23 billion in new AI investments with big focus on India](https://www.reuters.com/business/microsoft-invest-more-than-5-billion-canada-over-next-two-years-2025-12-09/)**
 
-First AI technology on GenAI.mil, delivering IL5-authorized generative AI department-wide SUNNYVALE, Calif., Dec. 9, 2025 /PRNewswire/ -- Google Cloud today announced that the Chief Digital and...
-
-Google Cloud Press Corner • 8h ago
+Reuters • 1h ago
 
 ---
 
-**[Pentagon launches military AI platform powered by Google Gemini for defense operations](https://www.foxbusiness.com/technology/pentagon-launches-military-ai-platform-powered-google-gemini-defense-operations)**
+**[Hegseth Introduces Department to New AI Tool](https://www.war.gov/News/News-Stories/Article/Article/4355797/hegseth-introduces-department-to-new-ai-tool/)**
 
-The Pentagon is launching a platform powered by Google Gemini called GenAI.mil, giving 3 million military personnel access to advanced AI tools for research and analysis.
-
-Fox Business • 8h ago
+U.S. Department of War (.gov) • 1h ago
 
 ---
 
@@ -207,7 +205,7 @@ Fox Business • 8h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 536 • 💬 526 • 22h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 536 • 💬 526 • 23h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -257,7 +255,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
 
-⬆️ 50 • 💬 103 • 7h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
+⬆️ 50 • 💬 103 • 8h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
 
 ---
 
@@ -279,27 +277,7 @@ JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, cryp
 
 📺 Fox Business
 
-👁️ 78K • 👍 1K • 💬 410 • ⏱️ 18:47 • 1d ago
-
----
-
-**[New Largest AI Datacenter — Zero GPUs Inside](https://www.youtube.com/watch?v=N10w1KvFKNQ)**
-
-Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTECHDEC2 - 100% Discount for the first 1000 ...
-
-📺 Anastasi In Tech
-
-👁️ 177K • 👍 11K • 💬 1K • ⏱️ 31:03 • 1d ago
-
----
-
-**[Reacting To AI Videos Of Myself 🤔](https://www.youtube.com/watch?v=tNVmTF_P89k)**
-
-Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsain Socials: Twitter ...
-
-📺 hxsain
-
-👁️ 65K • 👍 8K • 💬 152 • ⏱️ 0:51 • 4h ago
+👁️ 85K • 👍 2K • 💬 434 • ⏱️ 18:47 • 1d ago
 
 ---
 
@@ -309,17 +287,17 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 62K • 👍 4K • 💬 555 • ⏱️ 15:03 • 2d ago
+👁️ 63K • 👍 4K • 💬 556 • ⏱️ 15:03 • 2d ago
 
 ---
 
-**[Software could start benefitting from AI in 2026, says Intelligent Alpha CEO Doug Clinton](https://www.youtube.com/watch?v=yj1cYCeMgPw)**
+**[New Largest AI Datacenter — Zero GPUs Inside](https://www.youtube.com/watch?v=N10w1KvFKNQ)**
 
-Doug Clinton, Intelligent Alpha founder and CEO, joins 'Squawk Box' to discuss the impact of a potential December Fed rate cut ...
+Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTECHDEC2 - 100% Discount for the first 1000 ...
 
-📺 CNBC Television
+📺 Anastasi In Tech
 
-👁️ 3K • 👍 22 • 💬 21 • ⏱️ 3:19 • 8h ago
+👁️ 188K • 👍 11K • 💬 2K • ⏱️ 31:03 • 1d ago
 
 ---
 
@@ -329,7 +307,7 @@ Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS
 
 📺 AI Revolution
 
-👁️ 29K • 👍 893 • 💬 65 • ⏱️ 13:12 • 22h ago
+👁️ 30K • 👍 931 • 💬 66 • ⏱️ 13:12 • 23h ago
 
 ---
 
@@ -339,17 +317,37 @@ Big Tech is racking up debt to fund their AI infrastructure for demand that seem
 
 📺 Vanessa Wingårdh
 
-👁️ 143K • 👍 10K • 💬 2K • ⏱️ 10:38 • 2d ago
+👁️ 145K • 👍 10K • 💬 2K • ⏱️ 10:38 • 2d ago
 
 ---
 
-**[Why is Everyone So Wrong About AI Water Use??](https://www.youtube.com/watch?v=H_c6MWk7PQc)**
+**[Reacting To AI Videos Of Myself 🤔](https://www.youtube.com/watch?v=tNVmTF_P89k)**
 
-Go to https://ground.news/hank for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage ...
+Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsain Socials: Twitter ...
 
-📺 Hank Green
+📺 hxsain
 
-👁️ 796K • 👍 42K • 💬 6K • ⏱️ 24:00 • 1d ago
+👁️ 111K • 👍 12K • 💬 191 • ⏱️ 0:51 • 5h ago
+
+---
+
+**[AI Dress in REAL LIFE](https://www.youtube.com/watch?v=zreiL7w329o)**
+
+I Paid a dress maker to make an AI dress in real life! OTHER VIDEOS u might like: ✨ Temu, Amazon & Etsy Product ...
+
+📺 Mia Maples
+
+👁️ 76K • 👍 3K • 💬 69 • ⏱️ 0:36 • 1d ago
+
+---
+
+**[How AI Could Actually Turn Into a Real Skynet](https://www.youtube.com/watch?v=fK4xPallBAE)**
+
+Elon Musk explains how a real world version of Skynet could form by accident when an AI built for cyber defense begins seeing ...
+
+📺 TheMoreYouKnow
+
+👁️ 517 • 👍 6 • ⏱️ 0:38 • 2h ago
 
 ---
 
@@ -359,17 +357,17 @@ Geoffrey Hinton, the 'Godfather of AI' tells Ian Bremmer on GZERO World AI will 
 
 📺 GZERO Media
 
-👁️ 23K • 👍 484 • 💬 68 • ⏱️ 21:45 • 1d ago
+👁️ 24K • 👍 493 • 💬 73 • ⏱️ 21:45 • 1d ago
 
 ---
 
-**[The LAZIEST Way To Start Making Money with AI BEFORE 2026 (For Beginners)](https://www.youtube.com/watch?v=l9ulY_Mnqgc)**
+**[RAG vs Agentic AI: How LLMs Connect Data for Smarter AI](https://www.youtube.com/watch?v=fB2JQXEH_94)**
 
-Use DeepAgent To Help You Start a Business with AI: https://deepagent.abacus.ai/rqm This video walks you through how I built a ...
+Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...
 
-📺 Rob The AI Guy
+📺 IBM Technology
 
-👁️ 5K • 👍 198 • 💬 42 • ⏱️ 17:47 • 2d ago
+👁️ 17K • 👍 639 • 💬 34 • ⏱️ 10:01 • 1d ago
 
 ---
 
@@ -385,7 +383,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 217,428 • ❤️ 2,419 • 1d ago
+⬇️ 217,428 • ❤️ 2,421 • 1d ago
 
 ---
 
@@ -397,7 +395,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 56,958 • ❤️ 590 • 18h ago
+⬇️ 56,958 • ❤️ 591 • 19h ago
 
 ---
 
@@ -435,6 +433,18 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 ---
 
+**[DeepSeek-V3.2-Speciale](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Speciale)**
+
+*DeepSeek*
+
+DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned from DeepSeek-V3.2-Exp-Base, excelling in reasoning and agentic tasks with performance surpassing GPT-5. It features DeepSeek Sparse Attention for long contexts and a scalable RL framework, making it suitable for complex interactive environments and competitive programming benchmarks.
+
+`text-generation` `685.4B`
+
+⬇️ 9,310 • ❤️ 572 • 8d ago
+
+---
+
 **[GLM-4.6V](https://huggingface.co/zai-org/GLM-4.6V)**
 
 *Z.ai*
@@ -447,25 +457,13 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 ---
 
-**[DeepSeek-V3.2-Speciale](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Speciale)**
-
-*DeepSeek*
-
-DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned from DeepSeek-V3.2-Exp-Base, excelling in reasoning and agentic tasks with performance surpassing GPT-5. It features DeepSeek Sparse Attention for long contexts and a scalable RL framework, making it suitable for complex interactive environments and competitive programming benchmarks.
-
-`text-generation` `685.4B`
-
-⬇️ 9,310 • ❤️ 570 • 8d ago
-
----
-
 **[Mistral-Large-3-675B-Instruct-2512](https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512)**
 
 *Mistral AI_*
 
 Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.
 
-⬇️ 400 • ❤️ 174 • 6d ago
+⬇️ 400 • ❤️ 175 • 6d ago
 
 ---
 
@@ -477,7 +475,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 4,106 • ❤️ 410 • 7d ago
+⬇️ 4,106 • ❤️ 411 • 7d ago
 
 ---
 
@@ -701,7 +699,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 894 • 🔱 63 • 11h ago
+⭐ 894 • 🔱 63 • 12h ago
 
 ---
 
@@ -721,7 +719,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 846 • 🔱 46 • 19h ago
+⭐ 846 • 🔱 46 • 20h ago
 
 ---
 

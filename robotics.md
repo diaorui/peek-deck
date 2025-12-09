@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T23:09:48.107160+00:00'
+updated: '2025-12-09T23:31:09.557247+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 23:09 UTC  
+**Last Updated:** December 09, 2025 at 23:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -126,11 +126,11 @@ Breaking Defense • 1d ago
 
 ---
 
-**[SoftBank and NVIDIA to Invest in Robotics Innovator Skild AI](https://builtin.com/articles/softbank-nvidia-skild-ai-investment-20251209)**
+**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
 
-The unconfirmed deal would bring Skild AI’s valuation to approximately $14 billion as it works to build a scalable foundation model for robotics.
+The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
 
-Built In • 3h ago
+MLive.com • 6h ago
 
 ---
 
@@ -158,19 +158,19 @@ Decrypt • 1d ago
 
 ---
 
-**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
-
-The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
-
-MLive.com • 6h ago
-
----
-
 **[Moorhead robotics team builds head-activated device to help first-grader raise her hand](https://www.valleynewslive.com/2025/12/08/moorhead-robotics-team-builds-head-activated-device-help-first-grader-raise-her-hand/)**
 
 1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
 
-Valley News Live • 23h ago
+Valley News Live • 1d ago
+
+---
+
+**[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai)**
+
+SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
+
+PYMNTS.com • 1d ago
 
 ---
 
@@ -182,11 +182,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai/)**
+**[Pneumatic-suction robot clears 75,000 lb of cargo an hour](https://newatlas.com/robotics/mit-pickle-one-armed-warehouse-robot-suction-unloading/)**
 
-SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
+It'll likely be a while before we have humanoid robots taking over our household chores, but what you can count on sooner is seeing more robots in industrial settings, like factories and warehouses.
 
-PYMNTS.com • 1d ago
+New Atlas • 12h ago
 
 ---
 
@@ -200,7 +200,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 23K • 👍 511 • 💬 207 • ⏱️ 14:26 • 1d ago
+👁️ 25K • 👍 561 • 💬 214 • ⏱️ 14:26 • 1d ago
 
 ---
 
@@ -212,31 +212,31 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 ---
 
-**[🏃🤖 Figure 03 Runs LIKE A HUMAN! Watch the PERFECT #RobotTurn. #figureai #humanoid #robotics](https://www.youtube.com/watch?v=DDrNbLVUBwU)**
-
-📺 XRoboHub
-
-👁️ 519K • 👍 8K • 💬 869 • ⏱️ 0:22 • 5d ago
-
----
-
-**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
-
-AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
-
-📺 AI Robot Lab
-
-👁️ 31K • 👍 331 • 💬 10 • ⏱️ 0:25 • 2d ago
-
----
-
 **[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
 
 The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
 
 📺 DPCcars
 
-👁️ 196K • 👍 876 • 💬 292 • ⏱️ 1:03 • 3d ago
+👁️ 197K • 👍 879 • 💬 293 • ⏱️ 1:03 • 3d ago
+
+---
+
+**[China Just Built the REAL-LIFE Terminator AI Robot — EngineAI&#39;s T800 Robot SHOCKS WORLD](https://www.youtube.com/watch?v=BF_VLuF3QxA)**
+
+China has officially unveiled a humanoid robot that looks straight out of a sci-fi movie — EngineAI's new T800. This real-life ...
+
+📺 The AI Nexus
+
+👁️ 31K • 👍 624 • 💬 145 • ⏱️ 18:46 • 3d ago
+
+---
+
+**[🏃🤖 Figure 03 Runs LIKE A HUMAN! Watch the PERFECT #RobotTurn. #figureai #humanoid #robotics](https://www.youtube.com/watch?v=DDrNbLVUBwU)**
+
+📺 XRoboHub
+
+👁️ 520K • 👍 8K • 💬 870 • ⏱️ 0:22 • 5d ago
 
 ---
 
@@ -246,7 +246,17 @@ Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G
 
 📺 Unitree Robotics
 
-👁️ 2.7M • 👍 1K • 💬 340 • ⏱️ 1:06 • 6d ago
+👁️ 2.7M • 👍 1K • 💬 341 • ⏱️ 1:06 • 6d ago
+
+---
+
+**[China&#39;s T800 Humanoid Robot KICKS Creator to the Ground to Prove It&#39;s Real!](https://www.youtube.com/watch?v=QfkH61jNZhs)**
+
+The founder and CEO of EngineAI just took a robot kick to the chest in an attempt to prove the Shenzhen startup's new T800 ...
+
+📺 Kalil 4.0
+
+👁️ 3K • 👍 64 • 💬 38 • ⏱️ 8:31 • 22h ago
 
 ---
 
@@ -256,37 +266,27 @@ In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comfor
 
 📺 AI Robot Lab
 
-👁️ 6K • 👍 64 • 💬 3 • ⏱️ 0:24 • 12h ago
+👁️ 6K • 👍 68 • 💬 3 • ⏱️ 0:24 • 12h ago
 
 ---
 
-**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
+**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
 
-After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
-
-📺 Kalil 4.0
-
-👁️ 14K • 👍 271 • 💬 34 • ⏱️ 0:59 • 2d ago
-
----
-
-**[2025: This AI Pet Grooming Pod Transforms a Dog Instantly at the Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=NrVTbikAbd4)**
-
-At the Silicon Valley Robotics Expo 2025, engineers demonstrate a futuristic AI Pet Grooming Pod. A friendly dog steps inside the ...
+AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
 
 📺 AI Robot Lab
 
-👁️ 11K • 👍 81 • 💬 1 • ⏱️ 0:24 • 8h ago
+👁️ 32K • 👍 344 • 💬 12 • ⏱️ 0:25 • 2d ago
 
 ---
 
-**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
+**[Leaked: Trump’s Robot Exec Order - The Investment Opportunity of a Lifetime!?](https://www.youtube.com/watch?v=zNWcAI4dsvQ)**
 
-Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
+Ready to Learn from My Mentors? Book a Free Strategy Call at https://felixfriends.org/freedom Download the Workbook in Our ...
 
-📺 AI Revolution
+📺 Felix & Friends (Goat Academy)
 
-👁️ 115K • 👍 2K • 💬 435 • ⏱️ 12:07 • 3d ago
+👁️ 89K • 👍 3K • 💬 131 • ⏱️ 29:12 • 1d ago
 
 ---
 

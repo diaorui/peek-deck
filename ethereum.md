@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T23:09:48.103527+00:00'
+updated: '2025-12-09T23:31:09.553992+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- videos
+- news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 23:09 UTC  
+**Last Updated:** December 09, 2025 at 23:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,8 +43,8 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +6.8%  
-**7d:** +4.2%  
-**30d:** -6.7%  
+**7d:** +4.3%  
+**30d:** -6.6%  
 **90d:** -25.5%  
 **1y:** -8.3%  
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-33m ago
+54m ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot walle
 
 A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 12h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 13h ago
 
 ---
 
@@ -202,17 +202,17 @@ The Block • 1d ago
 
 ---
 
+**[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
+
+The Block • 1d ago
+
+---
+
 **[Ether (ETH) ETF News: Staked Ether ETF (ETHB) Coming From BlackRock](https://www.coindesk.com/markets/2025/12/08/blackrock-files-for-staked-ethereum-etf-aiming-to-bring-yield-to-the-masses)**
 
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
 
 CoinDesk • 1d ago
-
----
-
-**[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
-
-The Block • 1d ago
 
 ---
 
@@ -228,33 +228,33 @@ Decrypt • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Surges Ahead of Fed Meeting🚨](https://www.youtube.com/watch?v=lGMmb25t_F8)**
+
+Bitcoin and Ethereum surged amid anticipation that the US central bank will cut rates tomorrow. ~This episode is sponsored by ...
+
+📺 Paul Barron Network
+
+👁️ 14K • 👍 1K • 💬 67 • ⏱️ 20:14 • 3h ago
+
+---
+
 **[Tom Lee&#39;s New Ethereum Price Prediction is INSANE](https://www.youtube.com/watch?v=Q7ICP7zFCCs)**
 
 Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee and Howard Lutnick argue it's something very ...
 
 📺 The Bitcoin Revolution
 
-👁️ 13K • 👍 392 • 💬 416 • ⏱️ 12:46 • 1d ago
+👁️ 13K • 👍 405 • 💬 438 • ⏱️ 12:46 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=rgdqs_rCHts)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=tyDXdxTMnyk)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 More Crypto Online
+📺 Mom and More Reviews
 
-👁️ 3K • 👍 154 • 💬 11 • ⏱️ 4:05 • 11h ago
-
----
-
-**[XRP HBAR ETH 🔥🔥HOT ALTCOIN NEWS🔥🔥](https://www.youtube.com/watch?v=pIodPbPCF1g)**
-
-xrp #bitcoin #hbar #eth https://twitter.com/HobbiesCards XRP and HBAR Ethereum and the majority of the altcoin market is ...
-
-📺 CRYPTO with KLAUS
-
-👁️ 3K • 👍 434 • 💬 119 • ⏱️ 12:55 • 4h ago
+👁️ 4K • 👍 4K • 56m ago
 
 ---
 
@@ -264,17 +264,27 @@ Ethereum has critics calling it “overvalued”… but what if everyone is look
 
 📺 Milk Road
 
-👁️ 408 • 👍 28 • 💬 24 • ⏱️ 35:26 • 3h ago
+👁️ 1K • 👍 59 • 💬 66 • ⏱️ 35:26 • 3h ago
 
 ---
 
-**[IT’S RIGGED! Kevin O’Leary Warns ‘Buckle Up’ Bitcoin &amp; Ethereum Holders](https://www.youtube.com/watch?v=s3Exn-qdeno)**
+**[ETH Ethereum PUMPING NOW!!!! Multi Day Consolidation Awaits](https://www.youtube.com/watch?v=PfBHV0uYBfM)**
 
-LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 Altcoin Daily
+📺 C-Zar Gets Crypto 
 
-👁️ 77K • 👍 3K • 💬 336 • ⏱️ 11:32 • 3d ago
+👁️ 634 • 👍 49 • 💬 19 • ⏱️ 13:32 • 4h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=rgdqs_rCHts)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 161 • 💬 11 • ⏱️ 4:05 • 11h ago
 
 ---
 
@@ -288,13 +298,23 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 ---
 
+**[XRP HBAR ETH 🔥🔥HOT ALTCOIN NEWS🔥🔥](https://www.youtube.com/watch?v=pIodPbPCF1g)**
+
+xrp #bitcoin #hbar #eth https://twitter.com/HobbiesCards XRP and HBAR Ethereum and the majority of the altcoin market is ...
+
+📺 CRYPTO with KLAUS
+
+👁️ 6K • 👍 544 • 💬 199 • ⏱️ 12:55 • 4h ago
+
+---
+
 **[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2025 New Prediction]](https://www.youtube.com/watch?v=8x2DjiAw3uI)**
 
 My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
 📺 Crypto Nutshell
 
-👁️ 10K • 👍 345 • 💬 90 • ⏱️ 15:50 • 1d ago
+👁️ 10K • 👍 350 • 💬 94 • ⏱️ 15:50 • 1d ago
 
 ---
 
@@ -304,27 +324,7 @@ Breaking News: BitMine Immersion Technologies (BMNR) has officially crossed the 
 
 📺 CryptoStock Lab
 
-👁️ 163 • 👍 12 • ⏱️ 7:09 • 4h ago
-
----
-
-**[Forget About Bitcoin. Ethereum Is About To 3X](https://www.youtube.com/watch?v=Fv3WoVhGEr4)**
-
-Everyone is obsessed with “Bitcoin to 100K” or “Bitcoin is dead.” In this video I explain why you should forget about Bitcoin in the ...
-
-📺 Crypto Hustle
-
-👁️ 921 • 👍 60 • 💬 11 • ⏱️ 11:10 • 14h ago
-
----
-
-**[ETHEREUM BREAKING OUT 🚨 DEC 9](https://www.youtube.com/watch?v=G74mKDGdpUw)**
-
-ETHEREUM BREAKING OUT DEC 9.
-
-📺 Overkill Trading
-
-👁️ 195 • 👍 8 • 💬 1 • ⏱️ 0:59 • 2h ago
+👁️ 253 • 👍 16 • ⏱️ 7:09 • 4h ago
 
 ---
 
