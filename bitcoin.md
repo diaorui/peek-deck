@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T07:54:45.861527+00:00'
+updated: '2025-12-09T08:29:59.073152+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 07:54 UTC  
+**Last Updated:** December 09, 2025 at 08:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,500.00
+### $90,580.51
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** -3.5%  
-**30d:** -14.8%  
-**90d:** -21.6%  
-**1y:** -6.3%  
+**24h:** -1.9%  
+**7d:** -3.6%  
+**30d:** -14.9%  
+**90d:** -21.7%  
+**1y:** -6.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1802.44B
+**Market Cap:** $1807.53B
 Rank #1
 
 **Circulating Supply:** 19,959,600 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.3%
+-28.2%
 
 **All-Time Low:** $67.81
-+133148.8%
++133474.7%
 
 ---
 
@@ -85,35 +85,15 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
-**[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
+**[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
 
 11h ago
 
 ---
 
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
+**[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
 12h ago
-
----
-
-**[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
-
-10h ago
-
----
-
-**[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
-
-13h ago
-
----
-
-**[Apparently Lamborghini is shilling Bitcoin now](https://www.reddit.com/r/Bitcoin/comments/1phjz9z/apparently_lamborghini_is_shilling_bitcoin_now/)**
-
-They have a promotion going on with Ledger
-
-13h ago
 
 ---
 
@@ -123,9 +103,35 @@ They have a promotion going on with Ledger
 
 ---
 
+**[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
+
+14h ago
+
+---
+
+**[Apparently Lamborghini is shilling Bitcoin now](https://www.reddit.com/r/Bitcoin/comments/1phjz9z/apparently_lamborghini_is_shilling_bitcoin_now/)**
+
+They have a promotion going on with Ledger
+
+14h ago
+
+---
+
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
+
+12h ago
+
+---
+
 **[...and then they join you.](https://www.reddit.com/r/Bitcoin/comments/1phxg26/and_then_they_join_you/)**
 
 4h ago
+
+---
+
+**[Reality check](https://www.reddit.com/r/Bitcoin/comments/1pi0xfg/reality_check/)**
+
+1h ago
 
 ---
 
@@ -137,12 +143,6 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 ---
 
-**[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -151,7 +151,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
 
-Financial Times • 14h ago
+Financial Times • 15h ago
 
 ---
 
@@ -163,39 +163,25 @@ Bloomberg.com • 12h ago
 
 ---
 
-**[Bitcoin Slips Toward ETF Break-Even Level as Inflows Slow, but Support May Be Building](https://finance.yahoo.com/news/bitcoin-slips-toward-etf-break-051959075.html)**
+**[A Bitcoin ETF Doubled in Value. Its Investors Made Only One-Fourth of That](https://www.morningstar.com/funds/bitcoin-etf-doubled-value-its-investors-made-only-one-fourth-that)**
+
+iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
+
+Morningstar • 21h ago
+
+---
+
+**[Bitcoin Slips Toward ETF Break-Even Level as Inflows Slow, but Support May Be Building](https://decrypt.co/351573/bitcoin-etf-break-even-level-inflows-slow-support-building)**
 
 Bitcoin is drifting back toward the price where ETF buyers break even, as inflows slow and investors look to the Fed’s decision this week.
 
-Yahoo Finance • 2h ago
+Decrypt • 3h ago
 
 ---
 
-**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
+**[Bitcoin Price Rebounds Slightly Ahead of the Fed. How It Could Reach $120K—or Fall to $82K.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-2085d4a2?gaa_at=eafs&gaa_n=AWEtsqdncxRi7A-rk0mgyfhY-V6MMvZl3j9tBrIMF6tbSuq2yq6tBDOwCnqS&gaa_ts=6937e172&gaa_sig=HT-PCsoisfLFzKShyfJBb2eB3H2rjwefTHuLyYdfxu4B7bp8SJ5Hrge3GwoRY6O35XEytyrHjDn4VNKVpLH6nQ%3D%3D)**
 
-Reuters • 2h ago
-
----
-
-**[Strategy Drops Nearly $1 Billion on Bitcoin, Marking Largest BTC Buy in Months](https://finance.yahoo.com/news/strategy-drops-nearly-1-billion-154036345.html)**
-
-Strategy unveiled its largest Bitcoin purchase in over 100 days, but the company's stock price was little changed on Monday.
-
-Yahoo Finance • 16h ago
-
----
-
-**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqePWWZzFZEK51zKTf3wIJnlwPORC-bO29JjJIipP7JTse2IFSuxcWou&gaa_ts=6937d2a8&gaa_sig=8PLFZLDty4QuGwxay-9Y9tyNLgb5GFm8a_o04Qetf_bhUv65SAnCPP2AJQ2kLNR2KBpaG6-d5PLTzsofIfTuiw%3D%3D)**
-
-MarketWatch • 9h ago
-
----
-
-**[Strategy Rises on $963 Million Bitcoin Buy, Largest Since July](https://www.bloomberg.com/news/articles/2025-12-08/strategy-rises-on-963-million-bitcoin-buy-largest-since-july)**
-
-Strategy Inc. shares rose as much as 2.8% in premarket trading Monday after the digital asset treasury company said it bought $962.7 million worth of Bitcoin from Dec. 1 to Dec. 7, marking its largest acquisition since July.
-
-Bloomberg.com • 17h ago
+Barron's • 18h ago
 
 ---
 
@@ -215,9 +201,25 @@ Kiplinger • 21h ago
 
 ---
 
-**[Michael Saylor Explains Why Banks Are No Longer Waiting for Bitcoin](https://www.binance.com/en/square/post/33413939298642)**
+**[Strategy, Wall Street's Favorite Stock, Just Loaded Up On More Bitcoin](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
-Binance • 1d ago
+Investor's Business Daily • 18h ago
+
+---
+
+**[What the First Divergence of Stock and Bitcoin Returns in 10 Years Means](https://www.businessinsider.com/stock-market-bitcoin-return-correlation-divergence-explained-outlook-2025-12)**
+
+If the stock market is up, bitcoin usually is too. But this year has been different.
+
+Business Insider • 21h ago
+
+---
+
+**[BTC, ETH, USDC as Collateral in CFTC Crypto Pilot](https://www.coindesk.com/policy/2025/12/08/cftc-launches-digital-assets-pilot-allowing-bitcoin-ether-usdc-as-collateral)**
+
+Acting Chair Caroline Pham has unveiled a first-of-its-kind U.S. program to permit tokenized collateral in derivatives markets, citing "clear guardrails" for firms.
+
+CoinDesk • 10h ago
 
 ---
 
@@ -295,7 +297,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 2 • 💬 0 • 16h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 2 • 💬 0 • 17h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 
@@ -309,7 +311,7 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 288K • 👍 11K • 💬 1K • ⏱️ 20:03 • 11h ago
+👁️ 288K • 👍 11K • 💬 1K • ⏱️ 20:03 • 12h ago
 
 ---
 
@@ -347,7 +349,7 @@ Vanguard, Bank of America, and Charles Schwab just made massive moves into Bitco
 
 📺 Lark Davis
 
-👁️ 15K • 👍 803 • 💬 60 • ⏱️ 9:27 • 8h ago
+👁️ 15K • 👍 803 • 💬 60 • ⏱️ 9:27 • 9h ago
 
 ---
 
@@ -357,7 +359,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 32K • 👍 1K • 💬 260 • ⏱️ 37:28 • 16h ago
+👁️ 32K • 👍 1K • 💬 260 • ⏱️ 37:28 • 17h ago
 
 ---
 
@@ -367,7 +369,7 @@ Wednesday, when the Federal Open Market Committee (FOMC) of the U.S. Federal Res
 
 📺 Paul Barron Network
 
-👁️ 37K • 👍 2K • 💬 104 • ⏱️ 19:16 • 11h ago
+👁️ 37K • 👍 2K • 💬 104 • ⏱️ 19:16 • 12h ago
 
 ---
 
@@ -377,7 +379,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 18K • 👍 748 • 💬 222 • ⏱️ 9:22 • 16h ago
+👁️ 18K • 👍 748 • 💬 222 • ⏱️ 9:22 • 17h ago
 
 ---
 
