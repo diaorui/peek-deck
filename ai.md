@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T11:15:31.323236+00:00'
+updated: '2025-12-09T11:33:18.328671+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- videos
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 11:15 UTC  
+**Last Updated:** December 09, 2025 at 11:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
 
-🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 14h ago
+🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 15h ago
 
 ---
 
@@ -95,7 +95,7 @@ From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming r
 
 Do you have a blog post or content that needs an image? Use our image generator to easily generate the best picture for your blog post using AI.
 
-🔗 [SocialBu](https://socialbu.com/tools/blog-image-generator) • 25m ago
+🔗 [SocialBu](https://socialbu.com/tools/blog-image-generator) • 43m ago
 
 ---
 
@@ -155,7 +155,7 @@ Reuters • 1h ago
 
 **[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
 
-The Economist • 13h ago
+The Economist • 14h ago
 
 ---
 
@@ -185,7 +185,7 @@ Financial Times • 10h ago
 
 **[US to allow powerful AI chip sales to China, Trump says](https://www.politico.com/news/2025/12/08/u-s-to-allow-nvidias-h200-sales-in-china-trump-confirms-00681619)**
 
-Politico • 10h ago
+Politico • 11h ago
 
 ---
 
@@ -203,7 +203,7 @@ Politico • 10h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 415 • 💬 325 • 10h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 415 • 💬 325 • 11h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -237,7 +237,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny.
 
-⬆️ 37 • 💬 5 • 14h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
+⬆️ 37 • 💬 5 • 15h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
 
 ---
 
@@ -293,7 +293,7 @@ Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS
 
 📺 AI Revolution
 
-👁️ 17K • 👍 596 • 💬 45 • ⏱️ 13:12 • 10h ago
+👁️ 17K • 👍 596 • 💬 45 • ⏱️ 13:12 • 11h ago
 
 ---
 
@@ -333,7 +333,7 @@ AI is going to transform the world. We can't let a handful of billionaires decid
 
 📺 Senator Bernie Sanders
 
-👁️ 37K • 👍 3K • 💬 722 • ⏱️ 15:31 • 11h ago
+👁️ 37K • 👍 3K • 💬 722 • ⏱️ 15:31 • 12h ago
 
 ---
 
@@ -391,7 +391,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 56,958 • ❤️ 560 • 6h ago
+⬇️ 56,958 • ❤️ 560 • 7h ago
 
 ---
 
@@ -437,7 +437,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 6,920 • ❤️ 191 • 5h ago
+⬇️ 6,920 • ❤️ 191 • 6h ago
 
 ---
 
@@ -695,7 +695,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 884 • 🔱 60 • 2m ago
+⭐ 884 • 🔱 60 • 19m ago
 
 ---
 

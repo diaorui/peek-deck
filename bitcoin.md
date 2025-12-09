@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T11:15:31.330696+00:00'
+updated: '2025-12-09T11:33:18.337084+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 11:15 UTC  
+**Last Updated:** December 09, 2025 at 11:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,10 +45,10 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -1.4%  
-**7d:** -3.5%  
-**30d:** -14.8%  
-**90d:** -21.6%  
-**1y:** -6.3%  
+**7d:** -3.6%  
+**30d:** -14.9%  
+**90d:** -21.7%  
+**1y:** -6.4%  
 
 ---
 
@@ -99,7 +99,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 **[Swim with the whales](https://www.reddit.com/r/Bitcoin/comments/1pi4cuq/swim_with_the_whales/)**
 
-31m ago
+49m ago
 
 ---
 
@@ -111,7 +111,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 **[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -119,13 +119,13 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 They have a promotion going on with Ledger
 
-16h ago
+17h ago
 
 ---
 
 **[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -149,7 +149,7 @@ They have a promotion going on with Ledger
 
 These flows represent a bullish bet on volatility rather than a downside hedge or outright bearish position.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 1h ago
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-WIRED • 45m ago
+WIRED • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ Financial Times • 1d ago
 
 The iShares Bitcoin Trust (ticker IBIT) posted a more than-40% annualized return from its January 2024 debut through November 2025, data compiled by Bloomberg show, even after the recent crypto selloff.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -219,7 +219,7 @@ Morningstar • 1d ago
 
 Cathie Wood is openly welcoming Vanguard investors to the world of Bitcoin through her ARK 21Shares Bitcoin ETF (ARKB).In her announcement, she has stressed that Bitcoin is a "profound technological and monetary innovation."Vanguard's U-turnVanguard investors can now get exposure to Bitcoin without…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -321,7 +321,7 @@ In this clip, I talk about what is happening for bitcoin and crypto this week an
 
 📺 CryptosRus Extra
 
-👁️ 11K • 👍 506 • 💬 208 • ⏱️ 9:01 • 10h ago
+👁️ 11K • 👍 506 • 💬 208 • ⏱️ 9:01 • 11h ago
 
 ---
 
@@ -349,7 +349,7 @@ Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. 
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 3K • 💬 409 • ⏱️ 16:35 • 12h ago
+👁️ 37K • 👍 3K • 💬 409 • ⏱️ 16:35 • 13h ago
 
 ---
 
@@ -387,7 +387,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 THE JACK MALLERS SHOW
 
-👁️ 17K • 👍 1K • 💬 134 • ⏱️ 1:14:55 • 10h ago
+👁️ 17K • 👍 1K • 💬 134 • ⏱️ 1:14:55 • 11h ago
 
 ---
 

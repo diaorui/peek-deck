@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T11:15:31.335860+00:00'
+updated: '2025-12-09T11:33:18.343069+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
 - videos
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 11:15 UTC  
+**Last Updated:** December 09, 2025 at 11:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -2.5%  
-**30d:** -12.7%  
-**90d:** -30.4%  
-**1y:** -14.3%  
+**24h:** -1.0%  
+**7d:** -2.7%  
+**30d:** -12.9%  
+**90d:** -30.5%  
+**1y:** -14.4%  
 
 ---
 
@@ -88,7 +88,7 @@ JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138
 
 A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 47m ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 1h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The CFTC has introduced a pilot allowing Bitcoin, Ethereum, and USDC to be used as margin, while updating rules to support tokenized assets.
 
-Decrypt • 12h ago
+Decrypt • 13h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 1d ago
 
 Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -234,7 +234,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 9K • 👍 336 • 💬 177 • ⏱️ 12:46 • 16h ago
+👁️ 9K • 👍 336 • 💬 177 • ⏱️ 12:46 • 17h ago
 
 ---
 
@@ -294,7 +294,7 @@ BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 9K • 👍 505 • 💬 264 • ⏱️ 19:51 • 12h ago
+👁️ 9K • 👍 505 • 💬 264 • ⏱️ 19:51 • 13h ago
 
 ---
 
