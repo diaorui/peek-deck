@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T15:16:36.716767+00:00'
+updated: '2025-12-09T15:40:33.421893+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 15:16 UTC  
+**Last Updated:** December 09, 2025 at 15:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
 
-🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 18h ago
+🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 19h ago
 
 ---
 
@@ -63,7 +63,7 @@ AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai sa
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-🔗 [WIRED](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/) • 40m ago
+🔗 [WIRED](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/) • 1h ago
 
 ---
 
@@ -139,13 +139,13 @@ BBC • 3h ago
 
 It's the latest in a string of actions the European Commission has taken against U.S. big tech companies.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
 **[Indian AI royalty proposal targets data practices of OpenAI, Google](https://www.reuters.com/sustainability/boards-policy-regulation/indian-ai-royalty-proposal-targets-data-practices-openai-google-2025-12-09/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
@@ -173,19 +173,19 @@ The New York Times • 5h ago
 
 Enterprise marketers struggle with fragmented AI initiatives. Learn how orchestration, governance, and integration frameworks create coordinated AI deployment that drives adoption and ROI.
 
-MarketingProfs • 15m ago
+MarketingProfs • 39m ago
 
 ---
 
 **[Wells Fargo CEO Sees AI Impacting Companies’ Workforce Decisions](https://www.bloomberg.com/news/articles/2025-12-09/wells-fargo-ceo-sees-ai-impacting-companies-workforce-decisions)**
 
-Bloomberg.com • 26m ago
+Bloomberg.com • 50m ago
 
 ---
 
 **[Have you seen this (AI-generated) man? Police swap suspect sketches for AI.](https://www.washingtonpost.com/nation/2025/12/09/ai-police-suspect-sketch-arizona/)**
 
-The Washington Post • 21m ago
+The Washington Post • 45m ago
 
 ---
 
@@ -203,7 +203,7 @@ The Washington Post • 21m ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 491 • 💬 432 • 14h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 491 • 💬 432 • 15h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -217,7 +217,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 178 • 💬 162 • 21h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 178 • 💬 162 • 22h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -237,7 +237,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny.
 
-⬆️ 38 • 💬 5 • 18h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
+⬆️ 38 • 💬 5 • 19h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
 
 ---
 
@@ -283,7 +283,7 @@ Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS
 
 📺 AI Revolution
 
-👁️ 22K • 👍 745 • 💬 54 • ⏱️ 13:12 • 14h ago
+👁️ 22K • 👍 745 • 💬 54 • ⏱️ 13:12 • 15h ago
 
 ---
 
@@ -293,7 +293,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTE
 
 📺 Anastasi In Tech
 
-👁️ 145K • 👍 9K • 💬 1K • ⏱️ 31:03 • 17h ago
+👁️ 145K • 👍 9K • 💬 1K • ⏱️ 31:03 • 18h ago
 
 ---
 
@@ -363,7 +363,7 @@ Watch this thrilling story of a humanoid robot protecting an elderly grandma on 
 
 📺 Ai Tools with Farwa
 
-👁️ 2K • 👍 120 • 💬 1 • ⏱️ 0:31 • 3h ago
+👁️ 2K • 👍 120 • 💬 1 • ⏱️ 0:31 • 4h ago
 
 ---
 
@@ -391,7 +391,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 56,958 • ❤️ 574 • 10h ago
+⬇️ 56,958 • ❤️ 574 • 11h ago
 
 ---
 
@@ -425,7 +425,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 6,920 • ❤️ 208 • 9h ago
+⬇️ 6,920 • ❤️ 208 • 10h ago
 
 ---
 
@@ -449,7 +449,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 687 • ❤️ 187 • 9h ago
+⬇️ 687 • ❤️ 187 • 10h ago
 
 ---
 
@@ -581,7 +581,7 @@ LongCat-Image is a bilingual open-source foundation model for image generation t
 
 RealGen is a photorealistic text-to-image framework that uses an LLM for prompt optimization and a diffusion model for image generation, enhanced by a Detector Reward mechanism and RealBench for automated evaluation.
 
-▲ 17 • 💬 2 • ⭐ 105 • 10d ago
+▲ 17 • 💬 2 • ⭐ 140 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.00473) • [💻 code](https://github.com/yejy53/RealGen) • [🔗 project](https://yejy53.github.io/RealGen/)
 
@@ -613,17 +613,15 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 ---
 
-**[Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion](https://huggingface.co/papers/2512.04926)**
+**[MinerU: An Open-Source Solution for Precise Document Content Extraction](https://huggingface.co/papers/2409.18839)**
 
-*Yueming Pan, Ruoyu Feng, Qi Dai et al. (8 authors)*
+*Bin Wang, Chao Xu, Xiaomeng Zhao et al. (18 authors)*
 
-🏢 Xi'an Jiaotong University
+MinerU is an open-source tool that enhances document content extraction using fine-tuned models and pre/postprocessing rules across diverse document types.
 
-Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
+▲ 34 • 💬 4 • ⭐ 50,131 • 14mo ago
 
-▲ 38 • 💬 2 • ⭐ 274 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
+[🎓 arXiv](https://arxiv.org/abs/2409.18839) • [💻 code](https://github.com/opendatalab/mineru)
 
 ---
 
@@ -657,7 +655,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.2k • 🔱 158 • 2h ago
+⭐ 1.3k • 🔱 158 • 35s ago
 
 ---
 
@@ -687,7 +685,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 125 • 16h ago
+⭐ 1.0k • 🔱 125 • 22m ago
 
 ---
 
@@ -697,7 +695,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 889 • 🔱 61 • 4h ago
+⭐ 890 • 🔱 61 • 4h ago
 
 ---
 
@@ -707,7 +705,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 853 • 🔱 22 • 1d ago
+⭐ 855 • 🔱 22 • 1d ago
 
 ---
 
@@ -727,7 +725,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 833 • 🔱 268 • 3d ago
+⭐ 835 • 🔱 269 • 3d ago
 
 ---
 

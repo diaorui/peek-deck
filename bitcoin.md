@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T15:16:36.725296+00:00'
+updated: '2025-12-09T15:40:33.430442+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 15:16 UTC  
+**Last Updated:** December 09, 2025 at 15:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,973.64
+### $91,497.54
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -3.4%  
-**30d:** -14.7%  
-**90d:** -21.5%  
-**1y:** -6.2%  
+**24h:** +1.6%  
+**7d:** -2.3%  
+**30d:** -13.8%  
+**90d:** -20.6%  
+**1y:** -5.1%  
 
 ---
 
@@ -119,7 +119,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 If you had put $1000 into BTC in 2010 and left it alone without further investment you'd have close to a billion dollars right now (before tax, of course). I sometimes sit and wonder if there are people who did that almost as a joke and then forgot their password or whatever lol.
 
-4h ago
+5h ago
 
 ---
 
@@ -139,7 +139,7 @@ And most who keep panicking, and those crazy shenanigans fud are mostly from noo
 
 **[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Block • 3h ago
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-WIRED • 4h ago
+WIRED • 5h ago
 
 ---
 
@@ -165,7 +165,7 @@ WIRED • 4h ago
 
 Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
 
-Bloomberg.com • 37m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Bloomberg.com • 37m ago
 
 MSCI could exclude crypto treasury firms from its widely followed indexes. The move is drawing sharp criticism from industry players.
 
-Business Insider • 5m ago
+Business Insider • 29m ago
 
 ---
 
@@ -203,7 +203,7 @@ Financial Times • 1d ago
 
 **[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqfH2tpssZZkGDZ0aR-Ej5wudYMpMoN5nOA5ED8p2HwuRt2tGcKTDsuH&gaa_ts=693840ac&gaa_sig=0ejpe_oZN2vbJZsZs-JlyMc7QPDntdK6O3R56oyV2po5gEyEeGkoebZT3qrS9HFyyIW4EFIFF_ibv_1jMvgWDA%3D%3D)**
 
-MarketWatch • 16h ago
+MarketWatch • 17h ago
 
 ---
 
@@ -293,7 +293,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 **[Bioinspired Drilling for Extraterrestrial Applications](https://news.ycombinator.com/item?id=46205296)**
 
-⬆️ 1 • 💬 0 • 43m ago • [mdpi.com](https://www.mdpi.com/2313-7673/10/11/752)
+⬆️ 1 • 💬 0 • 1h ago • [mdpi.com](https://www.mdpi.com/2313-7673/10/11/752)
 
 ---
 
@@ -327,7 +327,7 @@ In this clip, I talk about what is happening for bitcoin and crypto this week an
 
 📺 CryptosRus Extra
 
-👁️ 12K • 👍 555 • 💬 247 • ⏱️ 9:01 • 14h ago
+👁️ 12K • 👍 555 • 💬 247 • ⏱️ 9:01 • 15h ago
 
 ---
 
@@ -357,7 +357,7 @@ Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. 
 
 📺 Simply Bitcoin
 
-👁️ 42K • 👍 3K • 💬 417 • ⏱️ 16:35 • 16h ago
+👁️ 42K • 👍 3K • 💬 417 • ⏱️ 16:35 • 17h ago
 
 ---
 
@@ -385,7 +385,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Matt & Justus
 
-👁️ 1.1M • 👍 67K • 💬 217 • ⏱️ 1:00 • 20h ago
+👁️ 1.1M • 👍 67K • 💬 217 • ⏱️ 1:00 • 21h ago
 
 ---
 

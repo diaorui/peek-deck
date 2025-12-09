@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T15:16:36.734605+00:00'
+updated: '2025-12-09T15:40:33.439815+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 15:16 UTC  
+**Last Updated:** December 09, 2025 at 15:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -94,7 +94,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
 Has anyone seen how the mopping pressure is created in a robot vacuum? I would imagine some sort of linear actuator/solenoid/spring suspension but did not see any of that when looking at at online teardowns of a Dreame X50 Ultra that claims to have mop lifting/mop pressure.
 
-12h ago
+13h ago
 
 ---
 
@@ -128,7 +128,7 @@ Breaking Defense • 1d ago
 
 Tesla, Inc. remains a sentiment-driven asset despite strong fundamentals. Click here to read why TSLA stock is downgraded to a Hold.
 
-Seeking Alpha • 27m ago
+Seeking Alpha • 51m ago
 
 ---
 
@@ -136,7 +136,7 @@ Seeking Alpha • 27m ago
 
 The Alligator is an autonomous amphibious vessel designed to deliver logistics, sensors, and personnel between water and land.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -160,7 +160,7 @@ Decrypt • 16h ago
 
 The Chinese robotics firm EngineAI lets its humanoid robot loose on its CEO, whom it promptly proceeds to lay out.
 
-Futurism • 17h ago
+Futurism • 18h ago
 
 ---
 
@@ -198,7 +198,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 13K • 👍 345 • 💬 163 • ⏱️ 14:26 • 19h ago
+👁️ 13K • 👍 345 • 💬 163 • ⏱️ 14:26 • 20h ago
 
 ---
 
@@ -208,7 +208,7 @@ The founder and CEO of EngineAI just took a robot kick to the chest in an attemp
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 33 • 💬 25 • ⏱️ 8:31 • 14h ago
+👁️ 1K • 👍 33 • 💬 25 • ⏱️ 8:31 • 15h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T15:16:36.731325+00:00'
+updated: '2025-12-09T15:40:33.436551+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 15:16 UTC  
+**Last Updated:** December 09, 2025 at 15:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -2.1%  
-**30d:** -12.3%  
-**90d:** -30.0%  
-**1y:** -13.9%  
+**24h:** +1.6%  
+**7d:** -1.0%  
+**30d:** -11.4%  
+**90d:** -29.3%  
+**1y:** -12.9%  
 
 ---
 
@@ -88,7 +88,7 @@ JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138
 
 A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 4h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 5h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The CFTC has introduced a pilot allowing Bitcoin, Ethereum, and USDC to be used as margin, while updating rules to support tokenized assets.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -234,7 +234,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 11K • 👍 367 • 💬 184 • ⏱️ 12:46 • 20h ago
+👁️ 11K • 👍 367 • 💬 184 • ⏱️ 12:46 • 21h ago
 
 ---
 
@@ -314,7 +314,7 @@ BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 11K • 👍 541 • 💬 275 • ⏱️ 19:51 • 16h ago
+👁️ 11K • 👍 541 • 💬 275 • ⏱️ 19:51 • 17h ago
 
 ---
 
