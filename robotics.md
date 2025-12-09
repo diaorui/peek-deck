@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T11:57:13.895562+00:00'
+updated: '2025-12-09T12:57:48.263158+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 11:57 UTC  
+**Last Updated:** December 09, 2025 at 12:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Self-driving delivery vehicles, in rural parts of China, now move along village roads by themselves, dropping off daily goods to local shops](https://www.reddit.com/r/robotics/comments/1pi4b61/selfdriving_delivery_vehicles_in_rural_parts_of/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most concept machines, this one is production ready and operating in Hebei Province to address the aging rural workforce. The Tech Stack: Autonomy: Uses LiDAR and RTK-GNSS for path planning with ±2.5 cm precision. It handles the entire cycle: ploughing, seeding, spraying and harvesting without a driver. Smart Sensing: Beyond just driving, it collects real-time data on soil composition, moisture, and crop health while running. Powertrain: Pure electric with a dual-motor setup (separating traction from the PTO/farming implements) for better load control. Endurance: Runs for 6 hours on a single charge and coordinates via a 5G mesh network. "Agri-Robotics" is where we are seeing the first massive wave of real world autonomy. If a single person can manage a fleet of these from a tablet, it fundamentally changes the economics of small to medium farms. Source: Lucas
 
-20h ago
+21h ago
 
 ---
 
@@ -52,11 +52,27 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 ---
 
+**[Robots Lightsaber Duel !!!](https://www.reddit.com/r/robotics/comments/1pi6js4/robots_lightsaber_duel/)**
+
+"May the sensors be with you "
+
+9m ago
+
+---
+
 **[The Chinese just dropped it on online marketplaces](https://www.reddit.com/r/robotics/comments/1phc2nu/the_chinese_just_dropped_it_on_online_marketplaces/)**
 
 180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
 
-22h ago
+23h ago
+
+---
+
+**[Real-Robot Experiment with Pedestrians - A team at TU Delft has introduced DRA-MPPI, a new motion-planning method that lets robots move safely through dense pedestrian traffic without freezing or taking overly conservative paths](https://www.reddit.com/r/robotics/comments/1pi6p63/realrobot_experiment_with_pedestrians_a_team_at/)**
+
+Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
+
+2m ago
 
 ---
 
@@ -64,7 +80,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
-23h ago
+1d ago
 
 ---
 
@@ -72,7 +88,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
 Has anyone seen how the mopping pressure is created in a robot vacuum? I would imagine some sort of linear actuator/solenoid/spring suspension but did not see any of that when looking at at online teardowns of a Dreame X50 Ultra that claims to have mop lifting/mop pressure.
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +96,7 @@ Has anyone seen how the mopping pressure is created in a robot vacuum? I would i
 
 What is the correct procedure for implementing a drawing interface on an ABB IRB 2600 robot using the IRC5 controller, including software integration, conversion of drawing data to robot paths, and RAPID programming requirements. Curious about ABB IRB 2600 robot and did anyone have experience with this? Thank you in advance!!!!!
 
-4h ago
+5h ago
 
 ---
 
@@ -88,23 +104,7 @@ What is the correct procedure for implementing a drawing interface on an ABB IRB
 
 Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a shelf unused and I'm sure someone out there (UK based) can make much better use of it than I can. This unit is used but in good working condition. It has the gripper attachment included and comes as part of the package. I don't have the original box anymore but I can box it up with protective materials and another suitably strong box if shipping or ideally could be collected or delivered to the new owner. The uFactory x-arm 6 is a 6 axis robot featuring a 5kg payload capacity, 700mm reach. This unit has a gripper attachment included and is compatible with multiple operating systems using the xArm studio software.
 
-18h ago
-
----
-
-**[SoftBank & NVIDIA Reportedly In Talks to Invest Over $1 Billion into Skild AI (Source: Reuters)](https://www.reddit.com/r/robotics/comments/1phj7kx/softbank_nvidia_reportedly_in_talks_to_invest/)**
-
-According to Reuters, NVIDIA and SoftBank, combined, are looking to invest more than $1 billion into Skild AI.
-
-🔗 [Windows Report](https://windowsreport.com/softbank-nvidia-reportedly-in-talks-to-invest-over-1-billion-into-skild-ai/) • 18h ago
-
----
-
-**[GITAI robots cooperatively assemble a 5-meter tower, a building block for future off-world habitats](https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/)**
-
-Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
-
-2d ago
+19h ago
 
 ---
 
@@ -114,7 +114,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 **[Speech-to-reality system creates objects on demand using AI and robotics](https://techxplore.com/news/2025-12-speech-reality-demand-ai-robotics.html)**
 
-Tech Xplore • 20h ago
+Tech Xplore • 21h ago
 
 ---
 
@@ -122,15 +122,7 @@ Tech Xplore • 20h ago
 
 The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
 
-Breaking Defense • 21h ago
-
----
-
-**[MIT's sucker-equipped one-armed robot is a true warehouse warrior](https://newatlas.com/robotics/mit-pickle-one-armed-warehouse-robot-suction-unloading/)**
-
-It'll likely be a while before we have humanoid robots taking over our household chores, but what you can count on sooner is seeing more robots in industrial settings, like factories and warehouses.
-
-New Atlas • 35m ago
+Breaking Defense • 22h ago
 
 ---
 
@@ -138,15 +130,7 @@ New Atlas • 35m ago
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
-Bloomberg.com • 21h ago
-
----
-
-**[Tether Invests in Generative Bionics as Part of Funding Round to Advance Intelligent “Made in Italy” Humanoid Robots](https://tether.io/news/tether-invests-in-generative-bionics-as-part-of-funding-round-to-advance-intelligent-made-in-italy-humanoid-robots/)**
-
-8 December 2025 – Tether Investments announced today an investment in Generative Bionics, the largest spinoff in the history of IIT (the Italian Institute of Technology) and one of the largest research spinoffs in Europe, to support the development of a new generation of intelligent humanoid robots built for industrial scale performance, human-centric interaction and […]
-
-Tether.io • 16h ago
+Bloomberg.com • 22h ago
 
 ---
 
@@ -154,7 +138,15 @@ Tether.io • 16h ago
 
 Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
 
-Decrypt • 12h ago
+Decrypt • 13h ago
+
+---
+
+**[Video Shows Robot Attacking CEO](https://futurism.com/robots-and-machines/robot-attacks-ceo)**
+
+The Chinese robotics firm EngineAI lets its humanoid robot loose on its CEO, whom it promptly proceeds to lay out.
+
+Futurism • 15h ago
 
 ---
 
@@ -162,7 +154,7 @@ Decrypt • 12h ago
 
 SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
 
-PYMNTS.com • 14h ago
+PYMNTS.com • 15h ago
 
 ---
 
@@ -170,7 +162,7 @@ PYMNTS.com • 14h ago
 
 1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
 
-Valley News Live • 12h ago
+Valley News Live • 13h ago
 
 ---
 
@@ -178,15 +170,23 @@ Valley News Live • 12h ago
 
 While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-Interesting Engineering • 19h ago
+Interesting Engineering • 20h ago
 
 ---
 
-**[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
+**[iRobot (IRBT) Valuation After White House Robotics Order Hype and Recent Share Price Surge](https://finance.yahoo.com/news/irobot-irbt-valuation-white-house-080800543.html)**
 
-Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
+The sudden spike in iRobot (IRBT) shares is being driven by reports that the White House is crafting an executive order to back the U.S. robotics sector, with potential subsidies, tax breaks, and R&D funding in focus. See our latest analysis for iRobot. That excitement comes after a wild week where the 7 day share price return of 133.54 percent has flipped sentiment on a stock that still shows a deeply negative 1 year total shareholder return. This suggests momentum is rebuilding from a very...
 
-South China Morning Post • 2d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Biohybrid living robotics: A comprehensive review of recent advances, technological innovation, and future prospects](https://www.nature.com/articles/s44182-025-00056-x)**
+
+npj Robotics - Biohybrid living robotics: A comprehensive review of recent advances, technological innovation, and future prospects
+
+Nature • 2h ago
 
 ---
 
@@ -200,7 +200,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 10K • 👍 243 • 💬 125 • ⏱️ 14:26 • 16h ago
+👁️ 10K • 👍 243 • 💬 125 • ⏱️ 14:26 • 17h ago
 
 ---
 
@@ -210,7 +210,7 @@ The founder and CEO of EngineAI just took a robot kick to the chest in an attemp
 
 📺 Kalil 4.0
 
-👁️ 897 • 👍 29 • 💬 22 • ⏱️ 8:31 • 11h ago
+👁️ 897 • 👍 29 • 💬 22 • ⏱️ 8:31 • 12h ago
 
 ---
 
@@ -218,7 +218,7 @@ The founder and CEO of EngineAI just took a robot kick to the chest in an attemp
 
 📺 AI . Robot
 
-👁️ 1.8M • 👍 9K • 💬 51 • ⏱️ 0:17 • 4d ago
+👁️ 1.8M • 👍 9K • 💬 51 • ⏱️ 0:17 • 5d ago
 
 ---
 
@@ -228,7 +228,7 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 6K • 👍 95 • 💬 24 • ⏱️ 0:47 • 4h ago
+👁️ 6K • 👍 95 • 💬 24 • ⏱️ 0:47 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comfor
 
 📺 AI Robot Lab
 
-👁️ 429 • 👍 1 • ⏱️ 0:24 • 58m ago
+👁️ 429 • 👍 1 • ⏱️ 0:24 • 1h ago
 
 ---
 

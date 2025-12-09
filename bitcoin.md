@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T11:57:13.887248+00:00'
+updated: '2025-12-09T12:57:48.253519+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 11:57 UTC  
+**Last Updated:** December 09, 2025 at 12:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,101.64
+### $90,343.53
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -3.6%  
-**30d:** -14.9%  
-**90d:** -21.7%  
-**1y:** -6.4%  
+**24h:** -0.8%  
+**7d:** -3.3%  
+**30d:** -14.6%  
+**90d:** -21.4%  
+**1y:** -6.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1801.13B
+**Market Cap:** $1809.06B
 Rank #1
 
-**Circulating Supply:** 19,959,693 BTC
+**Circulating Supply:** 19,959,750 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.4%
+-28.1%
 
 **All-Time Low:** $67.81
-+133026.4%
++133569.1%
 
 ---
 
@@ -77,9 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Swim with the whales](https://www.reddit.com/r/Bitcoin/comments/1pi4cuq/swim_with_the_whales/)**
+
+2h ago
+
+---
+
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,37 +93,45 @@ Rank #1
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-10h ago
-
----
-
-**[Swim with the whales](https://www.reddit.com/r/Bitcoin/comments/1pi4cuq/swim_with_the_whales/)**
-
-1h ago
+11h ago
 
 ---
 
 **[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Reality check](https://www.reddit.com/r/Bitcoin/comments/1pi0xfg/reality_check/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
 
-14h ago
+15h ago
+
+---
+
+**[Staring into the BTC abyss, waiting for it to explain itself](https://www.reddit.com/r/Bitcoin/comments/1pi3i32/staring_into_the_btc_abyss_waiting_for_it_to/)**
+
+3h ago
+
+---
+
+**[Most people holding more than 2 bitcoin here are chill](https://www.reddit.com/r/Bitcoin/comments/1pi3orj/most_people_holding_more_than_2_bitcoin_here_are/)**
+
+And most who keep panicking, and those crazy shenanigans fud are mostly from noobs or either those who invest rent money, or worst haven't studied Bitcoin.
+
+2h ago
 
 ---
 
@@ -125,19 +139,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 They have a promotion going on with Ledger
 
-17h ago
-
----
-
-**[...and then they join you.](https://www.reddit.com/r/Bitcoin/comments/1phxg26/and_then_they_join_you/)**
-
-8h ago
-
----
-
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
-
-16h ago
+18h ago
 
 ---
 
@@ -149,15 +151,15 @@ They have a promotion going on with Ledger
 
 With a series of record highs and crushing sell-offs, 2025 has been a rollercoaster ride for bitcoin, the world's largest cryptocurrency, which is at risk of ending the year with its first annual decline since 2022.  The world's main stock benchmarks have also had a turbulent year, repeatedly hitting record peaks and then pulling ​back as worries over tariffs, interest rates and a possible AI bubble whipsawed markets.  While equities are mostly up year-to-date, bitcoin's overall correlation with share prices has strengthened markedly this year.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://finance.yahoo.com/news/blackrock-bitcoin-etf-investors-came-193120104.html)**
+**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
 
-The iShares Bitcoin Trust (ticker IBIT) posted a more than-40% annualized return from its January 2024 debut through November 2025, data compiled by Bloomberg show, even after the recent crypto selloff.
+BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
 
-Yahoo Finance • 16h ago
+Bloomberg.com • 17h ago
 
 ---
 
@@ -173,7 +175,7 @@ Morningstar • 1d ago
 
 Bitcoin is drifting back toward the price where ETF buyers break even, as inflows slow and investors look to the Fed’s decision this week.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
@@ -181,31 +183,29 @@ Decrypt • 6h ago
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-WIRED • 1h ago
+WIRED • 2h ago
 
 ---
 
-**[Nvidia CEO Jensen Huang Just Flipped the Bitcoin Energy Consumption Debate — And It Changes Everything](https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-just-131048842.html)**
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
 
-Nvidia CEO Jensen Huang says Bitcoin converts excess energy into a portable form of money. His comments challenge years of criticism over Bitcoin’s electricity use. ...
+Which of these popular cryptocurrencies has more upside potential?
 
-Yahoo Finance • 22h ago
-
----
-
-**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
-
-Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
-
-Futurism • 2d ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin Traders Target $20K Bitcoin Strike as Deep Out of the Money Options Gain Traction](https://www.coindesk.com/markets/2025/12/08/bitcoin-traders-target-usd20k-bitcoin-strike-as-deep-out-of-the-money-options-gain-traction)**
+**[IRS Rule Changes In 2026 Bitcoin, Ethereum, XRP Traders Need To Know About](https://finance.yahoo.com/news/irs-rule-changes-2026-bitcoin-033050163.html)**
 
-These flows represent a bullish bet on volatility rather than a downside hedge or outright bearish position.
+U.S. crypto investors now have just over two weeks to execute any final sales before sweeping IRS reporting rules go live on January 1, 2026. What Happened: Beginning in 2026, centralized exchanges will be required to follow the same cost-basis ...
 
-CoinDesk • 7h ago
+Yahoo Finance • 9h ago
+
+---
+
+**[Bitcoin Won’t Hit $200,000 in 2025, Crypto Bull Concedes. Where It’s Going Instead.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-price-crypto-bull-01f83bf7?gaa_at=eafs&gaa_n=AWEtsqefI_3I9nqXr9m1_nmVDcEtGqpuVkegNGJu4B0HULpx5HSq--Ow1Qyv&gaa_ts=69382037&gaa_sig=pMsgal8BNY-3G_7zp1CiIy3iNUM_SoBHvh2RPvo3YuL0_UPk_2KDGvX1IG47nVEEBS1y7qc1d_9YGQ9opzr4sg%3D%3D)**
+
+Barron's • 1h ago
 
 ---
 
@@ -213,15 +213,15 @@ CoinDesk • 7h ago
 
 Bitcoin nears $90,400 as FOMC’s expected 25 bps cut could spark a recovery, but STH dominance may challenge a Bitcoin rally toward $100,000.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
+**[‘More Orange Dots’: Michael Saylor’s Strategy Buys 10,624 Bitcoin Amid Sell-Off Concerns](https://finance.yahoo.com/news/more-orange-dots-michael-saylor-130749098.html)**
 
-Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
+Michael Saylor’s Strategy, previously MicroStrategy, has made another weekly Bitcoin purchase despite concerns that it may need to sell some of its BTC holdings in a prolonged bear market. This latest purchase comes amid a rebound in the Bitcoin price, while the MSTR stock is also up in pre-market trading. Strategy Acquires 10,624 BTC for
 
-Financial Times • 1d ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -299,7 +299,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 2 • 💬 0 • 20h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 2 • 💬 0 • 21h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 
@@ -313,7 +313,7 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 350K • 👍 13K • 💬 1K • ⏱️ 20:03 • 15h ago
+👁️ 350K • 👍 13K • 💬 1K • ⏱️ 20:03 • 16h ago
 
 ---
 
@@ -323,7 +323,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 165 • ⏱️ 10:16 • 10h ago
+👁️ 40K • 👍 2K • 💬 165 • ⏱️ 10:16 • 11h ago
 
 ---
 
@@ -333,7 +333,7 @@ In this clip, I talk about what is happening for bitcoin and crypto this week an
 
 📺 CryptosRus Extra
 
-👁️ 11K • 👍 527 • 💬 245 • ⏱️ 9:01 • 11h ago
+👁️ 11K • 👍 527 • 💬 245 • ⏱️ 9:01 • 12h ago
 
 ---
 
@@ -343,7 +343,7 @@ Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. 
 
 📺 Simply Bitcoin
 
-👁️ 40K • 👍 3K • 💬 412 • ⏱️ 16:35 • 13h ago
+👁️ 40K • 👍 3K • 💬 412 • ⏱️ 16:35 • 14h ago
 
 ---
 
@@ -373,7 +373,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 33K • 👍 1K • 💬 276 • ⏱️ 37:28 • 20h ago
+👁️ 33K • 👍 1K • 💬 276 • ⏱️ 37:28 • 21h ago
 
 ---
 
@@ -381,7 +381,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 Matt & Justus
 
-👁️ 793K • 👍 55K • 💬 194 • ⏱️ 1:00 • 17h ago
+👁️ 793K • 👍 55K • 💬 194 • ⏱️ 1:00 • 18h ago
 
 ---
 
@@ -391,7 +391,7 @@ Wednesday, when the Federal Open Market Committee (FOMC) of the U.S. Federal Res
 
 📺 Paul Barron Network
 
-👁️ 40K • 👍 2K • 💬 104 • ⏱️ 19:16 • 15h ago
+👁️ 40K • 👍 2K • 💬 104 • ⏱️ 19:16 • 16h ago
 
 ---
 
