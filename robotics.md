@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T11:46:34.689064+00:00'
+updated: '2025-12-09T11:57:13.895562+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 11:46 UTC  
+**Last Updated:** December 09, 2025 at 11:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most concept machines, this one is production ready and operating in Hebei Province to address the aging rural workforce. The Tech Stack: Autonomy: Uses LiDAR and RTK-GNSS for path planning with ±2.5 cm precision. It handles the entire cycle: ploughing, seeding, spraying and harvesting without a driver. Smart Sensing: Beyond just driving, it collects real-time data on soil composition, moisture, and crop health while running. Powertrain: Pure electric with a dual-motor setup (separating traction from the PTO/farming implements) for better load control. Endurance: Runs for 6 hours on a single charge and coordinates via a 5G mesh network. "Agri-Robotics" is where we are seeing the first massive wave of real world autonomy. If a single person can manage a fleet of these from a tablet, it fundamentally changes the economics of small to medium farms. Source: Lucas
 
-19h ago
+20h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a sh
 
 According to Reuters, NVIDIA and SoftBank, combined, are looking to invest more than $1 billion into Skild AI.
 
-🔗 [Windows Report](https://windowsreport.com/softbank-nvidia-reportedly-in-talks-to-invest-over-1-billion-into-skild-ai/) • 17h ago
+🔗 [Windows Report](https://windowsreport.com/softbank-nvidia-reportedly-in-talks-to-invest-over-1-billion-into-skild-ai/) • 18h ago
 
 ---
 
@@ -130,7 +130,7 @@ Breaking Defense • 21h ago
 
 It'll likely be a while before we have humanoid robots taking over our household chores, but what you can count on sooner is seeing more robots in industrial settings, like factories and warehouses.
 
-New Atlas • 24m ago
+New Atlas • 35m ago
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 12h ago
 
 SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
 
-PYMNTS.com • 13h ago
+PYMNTS.com • 14h ago
 
 ---
 
@@ -200,7 +200,17 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 8K • 👍 191 • 💬 103 • ⏱️ 14:26 • 16h ago
+👁️ 10K • 👍 243 • 💬 125 • ⏱️ 14:26 • 16h ago
+
+---
+
+**[China&#39;s T800 Humanoid Robot KICKS Creator to the Ground to Prove It&#39;s Real!](https://www.youtube.com/watch?v=QfkH61jNZhs)**
+
+The founder and CEO of EngineAI just took a robot kick to the chest in an attempt to prove the Shenzhen startup's new T800 ...
+
+📺 Kalil 4.0
+
+👁️ 897 • 👍 29 • 💬 22 • ⏱️ 8:31 • 11h ago
 
 ---
 
@@ -212,21 +222,13 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 ---
 
-**[Motion error during the review of the new humanoid robot. #robotics #ai #humanoid #robot #futuretech](https://www.youtube.com/watch?v=8jPg2-t2UFg)**
+**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
 
-📺 AI . Robot
+The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
 
-👁️ 57K • 👍 834 • 💬 15 • ⏱️ 0:19 • 22h ago
+📺 The Straits Times
 
----
-
-**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
-
-Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
-
-📺 Fin Tek
-
-👁️ 88K • 👍 3K • 💬 147 • ⏱️ 21:31 • 3d ago
+👁️ 6K • 👍 95 • 💬 24 • ⏱️ 0:47 • 4h ago
 
 ---
 
@@ -236,27 +238,17 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 25K • 👍 251 • 💬 7 • ⏱️ 0:25 • 2d ago
+👁️ 27K • 👍 260 • 💬 8 • ⏱️ 0:25 • 2d ago
 
 ---
 
-**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
+**[2025: This AI Caregiver Robot Comforts a Baby Like a Real Parent in a Silicon Valley Home](https://www.youtube.com/watch?v=LFTUzGo3rmM)**
 
-The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
+In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comforts a baby with perfect calm and precision.
 
-📺 DPCcars
+📺 AI Robot Lab
 
-👁️ 178K • 👍 813 • 💬 280 • ⏱️ 1:03 • 2d ago
-
----
-
-**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
-
-After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
-
-📺 Kalil 4.0
-
-👁️ 12K • 👍 237 • 💬 31 • ⏱️ 0:59 • 2d ago
+👁️ 429 • 👍 1 • ⏱️ 0:24 • 58m ago
 
 ---
 
@@ -266,27 +258,37 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 41K • 👍 1K • 💬 96 • ⏱️ 24:47 • 2d ago
+👁️ 41K • 👍 1K • 💬 97 • ⏱️ 24:47 • 2d ago
 
 ---
 
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=SbeWWtli99g)**
+**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
 
-At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
 
-📺 Humanoid Robot 🤖
+📺 DPCcars
 
-👁️ 169K • 👍 710 • 💬 6 • ⏱️ 0:17 • 1d ago
+👁️ 181K • 👍 821 • 💬 282 • ⏱️ 1:03 • 2d ago
 
 ---
 
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=3Mt2UGY_6lM)**
+**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
 
-At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
 
-📺 Humanoid Robot 🤖
+📺 Kalil 4.0
 
-👁️ 58K • 👍 577 • 💬 12 • ⏱️ 0:19 • 3d ago
+👁️ 12K • 👍 241 • 💬 31 • ⏱️ 0:59 • 2d ago
+
+---
+
+**[Tesla’s Running Robot: Optimus Just Took a Huge Step Forward](https://www.youtube.com/watch?v=xE_gPhwzQAc)**
+
+Tesla just showed its Optimus humanoid robot running in the laboratory, and it looks a lot closer to a real life sci fi moment than a ...
+
+📺 DPCcars
+
+👁️ 82K • 👍 667 • 💬 300 • ⏱️ 2:30 • 5d ago
 
 ---
 

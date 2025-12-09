@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T11:46:34.679609+00:00'
+updated: '2025-12-09T11:57:13.887248+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 11:46 UTC  
+**Last Updated:** December 09, 2025 at 11:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,7 +44,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
+**24h:** -1.5%  
 **7d:** -3.6%  
 **30d:** -14.9%  
 **90d:** -21.7%  
@@ -87,7 +87,7 @@ Rank #1
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-9h ago
+10h ago
 
 ---
 
@@ -233,7 +233,7 @@ Financial Times • 1d ago
 
 ₿OSS Challenge - start your career in bitcoin open source
 
-⬆️ 7 • 💬 1 • 4d ago • [bosschallenge.xyz](https://bosschallenge.xyz)
+⬆️ 7 • 💬 1 • 5d ago • [bosschallenge.xyz](https://bosschallenge.xyz)
 
 ---
 
@@ -313,7 +313,17 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 324K • 👍 12K • 💬 1K • ⏱️ 20:03 • 15h ago
+👁️ 350K • 👍 13K • 💬 1K • ⏱️ 20:03 • 15h ago
+
+---
+
+**[The Fed Just Set the Stage for a Major Crypto Market Rally in 2026](https://www.youtube.com/watch?v=eVTxYvUrTgI)**
+
+LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Start Trading on Polymarket (#1 ...
+
+📺 Altcoin Daily
+
+👁️ 40K • 👍 2K • 💬 165 • ⏱️ 10:16 • 10h ago
 
 ---
 
@@ -323,25 +333,7 @@ In this clip, I talk about what is happening for bitcoin and crypto this week an
 
 📺 CryptosRus Extra
 
-👁️ 11K • 👍 506 • 💬 208 • ⏱️ 9:01 • 11h ago
-
----
-
-**[The guy who told you to buy bitcoin 😬😑😂 #shorts #funny #comedy #crypto #bitcoin #btc #invest](https://www.youtube.com/watch?v=PIblMDfqXes)**
-
-📺 Matt & Justus
-
-👁️ 580K • 👍 44K • 💬 181 • ⏱️ 1:00 • 17h ago
-
----
-
-**[The Biggest Crypto SHOCK Ever Is Coming... - Max Keiser Bitcoin](https://www.youtube.com/watch?v=NX3UF7ZpxUo)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell -------- The Biggest Crypto SHOCK ...
-
-📺 Library Of Wealth
-
-👁️ 12K • 👍 544 • 💬 395 • ⏱️ 13:29 • 1d ago
+👁️ 11K • 👍 527 • 💬 245 • ⏱️ 9:01 • 11h ago
 
 ---
 
@@ -351,27 +343,17 @@ Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. 
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 3K • 💬 409 • ⏱️ 16:35 • 13h ago
+👁️ 40K • 👍 3K • 💬 412 • ⏱️ 16:35 • 13h ago
 
 ---
 
-**[$26 Billion Fresh Money Incoming for Bitcoin [How High Can It Go?]](https://www.youtube.com/watch?v=-datgQL4Vaw)**
+**[The Biggest Crypto SHOCK Ever Is Coming... - Max Keiser Bitcoin](https://www.youtube.com/watch?v=NX3UF7ZpxUo)**
 
-Vanguard, Bank of America, and Charles Schwab just made massive moves into Bitcoin and crypto – unlocking potentially $26B ...
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell -------- The Biggest Crypto SHOCK ...
 
-📺 Lark Davis
+📺 Library Of Wealth
 
-👁️ 17K • 👍 864 • 💬 60 • ⏱️ 9:27 • 12h ago
-
----
-
-**[URGENT: 3 Reasons Bitcoin Will Have A Huge Move Soon!](https://www.youtube.com/watch?v=8uY5V6U4EQs)**
-
-In this video, Kyledoops shows you 3 very specific reasons why you can expect a big Bitcoin move soon. He will give you a ...
-
-📺 Crypto Banter
-
-👁️ 6K • 👍 746 • 💬 9 • ⏱️ 37:53 • 3h ago
+👁️ 12K • 👍 549 • 💬 420 • ⏱️ 13:29 • 1d ago
 
 ---
 
@@ -385,21 +367,41 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 ---
 
-**[Bitcoin In A System With No Options Left](https://www.youtube.com/watch?v=Nt3TeLmXKWU)**
+**[Bitcoin Investors Prepare For a HUGE FOMC Week](https://www.youtube.com/watch?v=HhNaTvl9pjI)**
 
-📺 THE JACK MALLERS SHOW
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-👁️ 17K • 👍 1K • 💬 134 • ⏱️ 1:14:55 • 11h ago
+📺 CryptosRUs
+
+👁️ 33K • 👍 1K • 💬 276 • ⏱️ 37:28 • 20h ago
 
 ---
 
-**[Bitcoin On-Chain Risk](https://www.youtube.com/watch?v=2DUCJDmTOks)**
+**[The guy who told you to buy bitcoin 😬😑😂 #shorts #funny #comedy #crypto #bitcoin #btc #invest](https://www.youtube.com/watch?v=PIblMDfqXes)**
 
-This chart shows the historical backtest of the on-chain risk gauge shown on the Homepage and the Indicator Dashboard.
+📺 Matt & Justus
 
-📺 Benjamin Cowen
+👁️ 793K • 👍 55K • 💬 194 • ⏱️ 1:00 • 17h ago
 
-👁️ 64K • 👍 4K • 💬 143 • ⏱️ 9:57 • 1d ago
+---
+
+**[Fed Meeting Week vs Crypto📈Market Update](https://www.youtube.com/watch?v=vOsikRuBSQc)**
+
+Wednesday, when the Federal Open Market Committee (FOMC) of the U.S. Federal Reserve has its December meeting, at which ...
+
+📺 Paul Barron Network
+
+👁️ 40K • 👍 2K • 💬 104 • ⏱️ 19:16 • 15h ago
+
+---
+
+**[BTC: Should You BUY Back Here OR Wait For Lower? [My Plan]](https://www.youtube.com/watch?v=wphUx_yy-98)**
+
+In today's video, Kyledoops shares his strategy on whether to buy back now or just wait for lower. With price stalling many are ...
+
+📺 Crypto Banter
+
+👁️ 18K • 👍 1K • 💬 23 • ⏱️ 32:04 • 1d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T11:46:34.671120+00:00'
+updated: '2025-12-09T11:57:13.879635+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 11:46 UTC  
+**Last Updated:** December 09, 2025 at 11:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai says no job, not even his own, is safe. But those who don’t adapt will be the first to fall.
 
-🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 13h ago
+🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 14h ago
 
 ---
 
@@ -71,7 +71,7 @@ Google’s AI try-on app Doppl adds a shoppable discovery feed.[1] Claude Code i
 
 At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
 
-🔗 [withmartian.com](https://withmartian.com/prize) • 22h ago
+🔗 [withmartian.com](https://withmartian.com/prize) • 23h ago
 
 ---
 
@@ -87,7 +87,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming releases by names that resemble existing trademarks.
 
-🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 14h ago
+🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 15h ago
 
 ---
 
@@ -95,7 +95,7 @@ From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming r
 
 Do you have a blog post or content that needs an image? Use our image generator to easily generate the best picture for your blog post using AI.
 
-🔗 [SocialBu](https://socialbu.com/tools/blog-image-generator) • 56m ago
+🔗 [SocialBu](https://socialbu.com/tools/blog-image-generator) • 1h ago
 
 ---
 
@@ -135,19 +135,19 @@ The Guardian • 5h ago
 
 **[Ohio business leaders warn: Adopt AI or fall behind](https://www.axios.com/local/columbus/2025/12/09/ohio-ai-jobsohio-artificial-intelligence)**
 
-Axios • 24m ago
+Axios • 35m ago
 
 ---
 
 **[Google faces EU antitrust investigation over AI Overviews, YouTube](https://www.reuters.com/sustainability/boards-policy-regulation/eu-launches-antitrust-probe-into-googles-use-online-content-ai-purposes-2025-12-09/)**
 
-Reuters • 56m ago
+Reuters • 1h ago
 
 ---
 
 **[Apple’s Slow AI Pace Becomes a Strength as Market Grows Weary of Spending](https://www.bloomberg.com/news/articles/2025-12-09/apple-stock-surges-as-ai-weary-mood-grips-wall-street)**
 
-Bloomberg.com • 59m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ BBC • 9h ago
 
 President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-CNN • 20h ago
+CNN • 21h ago
 
 ---
 
@@ -211,7 +211,7 @@ AI progress is steady. Human equivalence is sudden.
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 405 • 💬 353 • 18h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 405 • 💬 353 • 19h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -267,23 +267,23 @@ A fork of Calibre called Clbre, because the AI is stripped out. - grimthorpe/clb
 
 ## YouTube Videos: "ai"
 
+**[New Largest AI Datacenter — Not a Single GPU Inside](https://www.youtube.com/watch?v=N10w1KvFKNQ)**
+
+Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTECHDEC2 - 100% Discount for the first 1000 ...
+
+📺 Anastasi In Tech
+
+👁️ 131K • 👍 8K • 💬 1K • ⏱️ 31:03 • 14h ago
+
+---
+
 **[DIMON’S WARNING: America might not be ready for coming AI shock](https://www.youtube.com/watch?v=C8yuD9ca1lo)**
 
 JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, crypto investing and socialism on 'Mornings ...
 
 📺 Fox Business
 
-👁️ 59K • 👍 1K • 💬 339 • ⏱️ 18:47 • 19h ago
-
----
-
-**[QUANTUM WILL ECLIPSE AI: Why Everyone’s Betting on the Wrong Horse](https://www.youtube.com/watch?v=aNpVFovnZ-E)**
-
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
-
-📺 Julia McCoy
-
-👁️ 58K • 👍 3K • 💬 523 • ⏱️ 15:03 • 1d ago
+👁️ 61K • 👍 1K • 💬 345 • ⏱️ 18:47 • 19h ago
 
 ---
 
@@ -293,7 +293,17 @@ Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS
 
 📺 AI Revolution
 
-👁️ 17K • 👍 596 • 💬 45 • ⏱️ 13:12 • 11h ago
+👁️ 19K • 👍 666 • 💬 50 • ⏱️ 13:12 • 11h ago
+
+---
+
+**[QUANTUM WILL ECLIPSE AI: Why Everyone’s Betting on the Wrong Horse](https://www.youtube.com/watch?v=aNpVFovnZ-E)**
+
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+
+📺 Julia McCoy
+
+👁️ 58K • 👍 3K • 💬 526 • ⏱️ 15:03 • 1d ago
 
 ---
 
@@ -303,7 +313,7 @@ Big Tech is racking up debt to fund their AI infrastructure for demand that seem
 
 📺 Vanessa Wingårdh
 
-👁️ 126K • 👍 9K • 💬 2K • ⏱️ 10:38 • 1d ago
+👁️ 128K • 👍 9K • 💬 2K • ⏱️ 10:38 • 1d ago
 
 ---
 
@@ -313,27 +323,17 @@ OpenAI is in a full internal race after a major leak revealed a new model called
 
 📺 AI Revolution
 
-👁️ 97K • 👍 2K • 💬 126 • ⏱️ 12:31 • 1d ago
+👁️ 98K • 👍 2K • 💬 129 • ⏱️ 12:31 • 1d ago
 
 ---
 
-**[&#39;Godfather of AI&#39; warns of existential risks | GZERO World with Ian Bremmer](https://www.youtube.com/watch?v=tuCBVuzTKAU)**
+**[Navy Girl Brought a Dead Coconut Tree Back to Life | #ai #plants #water #save](https://www.youtube.com/watch?v=RU5zNXtROPo)**
 
-Geoffrey Hinton, the 'Godfather of AI' tells Ian Bremmer on GZERO World AI will soon outpace human intelligence and warns the ...
+Navy Girl Brought a Dead Coconut Tree Back to Life | #ai #plants #water #save In this emotional and magical short story, a dry ...
 
-📺 GZERO Media
+📺 FeeliMals
 
-👁️ 15K • 👍 400 • 💬 53 • ⏱️ 21:45 • 22h ago
-
----
-
-**[LIVE: AI is going to transform the world](https://www.youtube.com/watch?v=bpP_ZoIqMyI)**
-
-AI is going to transform the world. We can't let a handful of billionaires decide the future for us. I'm LIVE on the Senate floor to ...
-
-📺 Senator Bernie Sanders
-
-👁️ 37K • 👍 3K • 💬 722 • ⏱️ 15:31 • 12h ago
+👁️ 125K • 💬 6 • ⏱️ 0:32 • 9h ago
 
 ---
 
@@ -343,27 +343,27 @@ Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Fu
 
 📺 Dan Kieft
 
-👁️ 24K • 💬 26 • ⏱️ 20:04 • 18h ago
+👁️ 26K • 💬 26 • ⏱️ 20:04 • 19h ago
 
 ---
 
-**[NEW AI Video Generator Kling O1 Redefines AI Filmmaking](https://www.youtube.com/watch?v=m_UfnjFOfys)**
+**[Robot Saves Grandmother on a Moving Train | Epic Action &amp; Suspense #ai #robot  #train](https://www.youtube.com/watch?v=xQnng4ZcUOY)**
 
-NEW AI Video Generator Kling O1 Redefines AI Filmmaking Try Kling O1 & Kling 2.6 https://openart.ai/home?ref=Klingo1 Kling ...
+Watch this thrilling story of a humanoid robot protecting an elderly grandma on a speeding train! When a mysterious bag ...
 
-📺 Dan Kieft
+📺 Ai Tools with Farwa
 
-👁️ 25K • 💬 19 • ⏱️ 9:23 • 1d ago
+👁️ 403 • 👍 24 • 💬 1 • ⏱️ 0:31 • 31m ago
 
 ---
 
-**[AI EXPANSION EXPLODES: Welders and electricians become the new elite earners](https://www.youtube.com/watch?v=Bw8XblRkcmE)**
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=ozCKqX2rgzg)**
 
-'The Big Money Show' panel discusses how the A.I. construction boom is reshaping America's workforce, driving six-figure ...
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
 
-📺 Fox Business
+📺 Impossible AIs
 
-👁️ 47K • 👍 879 • 💬 440 • ⏱️ 6:47 • 2d ago
+👁️ 1.2M • 👍 3K • 💬 103 • ⏱️ 8:06 • 2d ago
 
 ---
 
@@ -645,7 +645,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 19h ago
+⭐ 1.6k • 🔱 132 • 20h ago
 
 ---
 
@@ -695,7 +695,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 884 • 🔱 60 • 33m ago
+⭐ 884 • 🔱 60 • 43m ago
 
 ---
 

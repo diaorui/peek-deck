@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T11:46:34.685822+00:00'
+updated: '2025-12-09T11:57:13.892685+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 11:46 UTC  
+**Last Updated:** December 09, 2025 at 11:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -2.7%  
-**30d:** -12.9%  
-**90d:** -30.5%  
-**1y:** -14.4%  
+**24h:** -0.9%  
+**7d:** -2.6%  
+**30d:** -12.8%  
+**90d:** -30.4%  
+**1y:** -14.3%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138,452 ETH, equivalent to about US$435 million, in its latest accumulation round. This bold move boosts BitMine’s total crypto holdings significantly, reinforcing its position as one of the largest institutional holders of Ethereum (ETH) worldwide. Tom Lee and his team cited several catalysts behind this surge: the recent Fusaka upgrade to the Ethereum network — implemented 3 December — which promises improved scalability, security and usability. Additionally, macroeconomic conditions appear favorable, with expectations of a loosening monetary policy by the Federal Reserve potentially supporting broader crypto market recovery. The scale of the purchase (over 138,000 ETH in just a week) marks a dramatic acceleration compared to previous buying patterns — reportedly about 156 % more than the firm’s weekly average four weeks ago. In doing so, BitMine pushes further toward its longer-term target of controlling up to 5 % of Ethereum’s total supply. In sum, this $435 million acquisition underlines BitMine’s growing conviction in Ethereum’s long-term potential, signaling confidence in both network upgrades and macroeconomic conditions that may favor a renewed bull cycle in crypto.
 
-20h ago
+21h ago
 
 ---
 
@@ -212,7 +212,7 @@ Decrypt • 17h ago
 
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -234,7 +234,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 9K • 👍 336 • 💬 177 • ⏱️ 12:46 • 17h ago
+👁️ 10K • 👍 354 • 💬 180 • ⏱️ 12:46 • 17h ago
 
 ---
 
@@ -244,17 +244,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 327 • 💬 18 • ⏱️ 15:50 • 20h ago
-
----
-
-**[The Biggest Ethereum Risk No One Wants to Admit w/ Aryan Sheikhalian](https://www.youtube.com/watch?v=rQPZq2hRlLM)**
-
-In today's Milk Road episode, we sit down with CMT Digital's Aryan Sheikhalian to uncover the one risk for Ethereum almost ...
-
-📺 Milk Road
-
-👁️ 2K • 👍 103 • 💬 81 • ⏱️ 33:06 • 15h ago
+👁️ 9K • 👍 337 • 💬 20 • ⏱️ 15:50 • 20h ago
 
 ---
 
@@ -264,17 +254,7 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 71 • 💬 47 • ⏱️ 6:25 • 22h ago
-
----
-
-**[Forget About Bitcoin. Ethereum Is About To 3X](https://www.youtube.com/watch?v=Fv3WoVhGEr4)**
-
-Everyone is obsessed with “Bitcoin to 100K” or “Bitcoin is dead.” In this video I explain why you should forget about Bitcoin in the ...
-
-📺 Crypto Hustle
-
-👁️ 132 • 👍 17 • ⏱️ 11:10 • 2h ago
+👁️ 2K • 👍 72 • 💬 47 • ⏱️ 6:25 • 22h ago
 
 ---
 
@@ -288,43 +268,63 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 ---
 
+**[The Biggest Ethereum Risk No One Wants to Admit w/ Aryan Sheikhalian](https://www.youtube.com/watch?v=rQPZq2hRlLM)**
+
+In today's Milk Road episode, we sit down with CMT Digital's Aryan Sheikhalian to uncover the one risk for Ethereum almost ...
+
+📺 Milk Road
+
+👁️ 2K • 👍 105 • 💬 81 • ⏱️ 33:06 • 16h ago
+
+---
+
 **[BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Y4sZ0EGnBf0)**
 
 BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
 
 📺 Crypto World
 
-👁️ 9K • 👍 505 • 💬 264 • ⏱️ 19:51 • 13h ago
+👁️ 10K • 👍 520 • 💬 273 • ⏱️ 19:51 • 13h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Big Money Knows](https://www.youtube.com/watch?v=BCCezmp_O20)**
+**[🚨 ETHEREUM BREAKOUT! BlackRock ETF is the Altseason TRIGGER (TIME TO ROTATE!)](https://www.youtube.com/watch?v=-OsmaMB1iU0)**
 
-BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT BONUS ...
+The momentum behind the BlackRock ETH ETF could be the exact spark that launches the next full-scale altseason. Join Our ...
 
-📺 Lark Davis
+📺 Discover Crypto
 
-👁️ 15K • 👍 788 • 💬 78 • ⏱️ 37:57 • 23h ago
-
----
-
-**[LIVE: BlackRock CEO Announces Huge Crypto Move! This Speech Will Reshape the Crypto Industry!](https://www.youtube.com/watch?v=q4xafHLw-xM)**
-
-SHOCKING ANNOUNCEMENT FROM BLACKROCK! In a groundbreaking live speech, BlackRock CEO Larry Fink reveals the ...
-
-📺 LASSYA PRODUCTION
-
-👁️ 723 • 👍 1K • 2h ago
+👁️ 8K • 👍 517 • 💬 14 • ⏱️ 49:44 • 19h ago
 
 ---
 
-**[LIVE: BlackRock CEO Announces Huge Crypto Move! This Speech Will Reshape the Crypto Industry!](https://www.youtube.com/watch?v=mPastWvaqCY)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=wn48Y6PjqtE)**
 
-SHOCKING ANNOUNCEMENT FROM BLACKROCK! In a groundbreaking live speech, BlackRock CEO Larry Fink reveals the ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 CIUDADGPTDF
+📺 Guitar Repair@StringTech
 
-👁️ 943 • 👍 2K • 3h ago
+👁️ 14K • 👍 3K • 2d ago
+
+---
+
+**[Forget About Bitcoin. Ethereum Is About To 3X](https://www.youtube.com/watch?v=Fv3WoVhGEr4)**
+
+Everyone is obsessed with “Bitcoin to 100K” or “Bitcoin is dead.” In this video I explain why you should forget about Bitcoin in the ...
+
+📺 Crypto Hustle
+
+👁️ 310 • 👍 34 • 💬 4 • ⏱️ 11:10 • 3h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KlHoU85sq_A)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 154 • 💬 7 • ⏱️ 5:35 • 18h ago
 
 ---
 
