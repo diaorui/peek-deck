@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T19:22:38.853174+00:00'
+updated: '2025-12-09T19:36:09.038544+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- videos
 - news
+- videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 19:22 UTC  
+**Last Updated:** December 09, 2025 at 19:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-🔗 [WIRED](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/) • 4h ago
+🔗 [WIRED](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/) • 5h ago
 
 ---
 
@@ -63,7 +63,7 @@ In the face of a profitability crisis, industrial-scale bitcoin miners are trans
 
 American AI giants are backing a new effort to establish open standards for building agentic software and tools.
 
-🔗 [WIRED](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/) • 1h ago
+🔗 [WIRED](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/) • 2h ago
 
 ---
 
@@ -71,7 +71,7 @@ American AI giants are backing a new effort to establish open standards for buil
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 36m ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 49m ago
 
 ---
 
@@ -79,7 +79,7 @@ A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is 
 
 Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
 
-🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 22h ago
+🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 23h ago
 
 ---
 
@@ -111,7 +111,7 @@ President Donald Trump confirmed on Monday he plans to sign an executive order p
 
 People keep talking about “fixing hallucination,” but nobody is asking the one question that actually matters: Why do these systems hallucinate in the first place? Every solution so far—RAG, RLHF, model scaling, “AI constitutions,” uncertainty scoring—tries to patch the problem after it happens. They’re improving the guess instead of removing the guess. The real issue is structural: these models are architecturally designed to generate answers even when they don’t have grounded information. They’re rewarded for sounding confident, not for knowing when to stop. That’s why the failures repeat across every system—GPT, Claude, Gemini, Grok. Different models, same flaw. What I’ve put together breaks down the actual mechanics behind that flaw using the research the industry itself published. It shows why their methods can’t solve it, why the problem persists across scaling, and why the most obvious correction has been ignored for years. If you want the full breakdown—with evidence from academic papers, production failures, legal cases, medical misfires, and the architectural limits baked into transformer models—here it is. It explains the root cause in plain language so people can finally see the pattern for themselves.
 
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 56m ago
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 1h ago
 
 ---
 
@@ -121,7 +121,7 @@ People keep talking about “fixing hallucination,” but nobody is asking the o
 
 **[Why the A.I. Boom Is Unlike the Dot-Com Boom](https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -133,9 +133,23 @@ CNBC • 7h ago
 
 ---
 
-**[U.S. military to use Google Gemini for new AI platform](https://www.axios.com/2025/12/09/pentagon-google-gemini-genai-military-platform)**
+**[Axios AI+ SF Summit: Experts identify the gaps in AI optimism and opportunity](https://www.axios.com/2025/12/09/axios-ai-sf-summit-gaps-in-ai-optimism-and-opportunity)**
 
-Axios • 1h ago
+Axios • 28m ago
+
+---
+
+**[Instacart's AI-enabled pricing may bump up your grocery costs by as much as 23%, study says](https://www.cbsnews.com/news/instacart-price-discrepancies-investigation/)**
+
+Shoppers may be unaware they're paying as much as 23% more than others for the same grocery items on Instacart, a new analysis says.
+
+CBS News • 15m ago
+
+---
+
+**[OpenAI wants to take its own plan for kids’ AI safety to California voters](https://www.politico.com/news/2025/12/09/openai-ai-safety-california-kids-00683191)**
+
+Politico • 23m ago
 
 ---
 
@@ -147,23 +161,15 @@ Google Cloud Press Corner • 4h ago
 
 ---
 
+**[U.S. military to use Google Gemini for new AI platform](https://www.axios.com/2025/12/09/pentagon-google-gemini-genai-military-platform)**
+
+Axios • 1h ago
+
+---
+
 **[Pentagon Picks Google AI Platform for Its Millions of Employees](https://www.bloomberg.com/news/articles/2025-12-09/pentagon-picks-google-ai-platform-for-its-millions-of-employees)**
 
 Bloomberg.com • 3h ago
-
----
-
-**[AI earns high marks in law school grading](https://www.reuters.com/legal/legalindustry/ai-earns-high-marks-law-school-grading-2025-12-09/)**
-
-Reuters • 1h ago
-
----
-
-**[Are You an 'AI Creeper?' Take Our Survey.](https://www.businessinsider.com/are-you-an-ai-creeper-take-our-survey-2025-12)**
-
-If you find yourself hiding your AI usage from your colleagues and boss, you might be an 'AI creeper.'
-
-Business Insider • 1h ago
 
 ---
 
@@ -171,13 +177,7 @@ Business Insider • 1h ago
 
 For all the fears of over-investment, AI is spreading across enterprises at a pace with no precedent in modern software history.
 
-Menlo Ventures • 6h ago
-
----
-
-**[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
-
-The Economist • 22h ago
+Menlo Ventures • 7h ago
 
 ---
 
@@ -201,7 +201,7 @@ Bloomberg.com • 1h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 524 • 💬 488 • 18h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 524 • 💬 488 • 19h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -251,7 +251,7 @@ It is examining whether the tech giant did not offer "appropriate compensation" 
 
 Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny.
 
-⬆️ 39 • 💬 5 • 22h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
+⬆️ 39 • 💬 5 • 23h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
 
 ---
 
@@ -281,7 +281,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTE
 
 📺 Anastasi In Tech
 
-👁️ 168K • 👍 10K • 💬 1K • ⏱️ 31:03 • 21h ago
+👁️ 168K • 👍 10K • 💬 1K • ⏱️ 31:03 • 22h ago
 
 ---
 
@@ -291,7 +291,7 @@ Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsai
 
 📺 hxsain
 
-👁️ 18K • 👍 1K • 💬 70 • ⏱️ 0:51 • 52m ago
+👁️ 18K • 👍 1K • 💬 70 • ⏱️ 0:51 • 1h ago
 
 ---
 
@@ -301,7 +301,7 @@ Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS
 
 📺 AI Revolution
 
-👁️ 27K • 👍 847 • 💬 63 • ⏱️ 13:12 • 18h ago
+👁️ 27K • 👍 847 • 💬 63 • ⏱️ 13:12 • 19h ago
 
 ---
 
@@ -361,7 +361,7 @@ Join Impossible AIs and unlock exclusive perks! ✨ https://www.youtube.com/@Imp
 
 📺 Impossible AIs
 
-👁️ 14K • 👍 95 • 💬 5 • ⏱️ 12:21 • 7h ago
+👁️ 14K • 👍 95 • 💬 5 • ⏱️ 12:21 • 8h ago
 
 ---
 
@@ -389,7 +389,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 56,958 • ❤️ 580 • 15h ago
+⬇️ 56,958 • ❤️ 583 • 15h ago
 
 ---
 
@@ -401,7 +401,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 33,102 • ❤️ 838 • 8d ago
+⬇️ 33,102 • ❤️ 839 • 8d ago
 
 ---
 
@@ -423,7 +423,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 6,920 • ❤️ 220 • 1h ago
+⬇️ 6,920 • ❤️ 222 • 1h ago
 
 ---
 
@@ -435,7 +435,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 687 • ❤️ 194 • 13h ago
+⬇️ 687 • ❤️ 195 • 14h ago
 
 ---
 
@@ -457,7 +457,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.
 
-⬇️ 400 • ❤️ 173 • 6d ago
+⬇️ 400 • ❤️ 174 • 6d ago
 
 ---
 
@@ -469,7 +469,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 4,106 • ❤️ 406 • 7d ago
+⬇️ 4,106 • ❤️ 408 • 7d ago
 
 ---
 

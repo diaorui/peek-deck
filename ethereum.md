@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T19:22:38.866547+00:00'
+updated: '2025-12-09T19:36:09.053194+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 19:22 UTC  
+**Last Updated:** December 09, 2025 at 19:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot wallet (non-hardware) that actually supports custom HD derivation at the account level and BIP39 passphrases (25th word). Surprisingly, this combo seems to be mostly available only on hardware wallets or very niche software. Most mainstream hot wallets either lock derivation paths or ignore passphrases completely. So far, the only hot wallet I personally found that seems to support both is TokenPocket. According to their docs, keys stay on-device and they allow more flexibility than most wallets. Before fully committing, I’m curious: Has anyone here actually used TokenPocket with custom derivation paths + passphrase? Any thoughts on its security model or reputation? Are there any other hot wallets I might be missing (mobile / desktop / CLI) that support this kind of setup for Ethereum / EVM? I know this is more of a power-user thing, but I’m guessing some of you have gone through the same search. Appreciate any insight 🙏
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot walle
 
 A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 8h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 9h ago
 
 ---
 
@@ -158,6 +158,20 @@ Decrypt • 2h ago
 
 ---
 
+**[Better Buy: XRP vs. Ethereum](https://finance.yahoo.com/news/better-buy-xrp-vs-ethereum-160500223.html)**
+
+They're both among the five largest cryptocurrencies, but one is much further ahead in its journey.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
+
+Binance • 1d ago
+
+---
+
 **[Prediction: If This 1 Policy Changes, Bitcoin and Ethereum Will Soar](https://www.fool.com/investing/2025/12/08/prediction-if-this-1-policy-changes-bitcoin-and-et/)**
 
 Japan is considering a big change to how it taxes crypto.
@@ -171,12 +185,6 @@ The Motley Fool • 1d ago
 A single mistake cost one user nearly half a million dollars, highlighting how scammers are escalating phishing attacks.
 
 Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin and Ethereum Drive Renewed Strength in the Crypto Market](https://cryptodnes.bg/en/bitcoin-and-ethereum-drive-renewed-strength-in-the-crypto-market/)**
-
-CryptoDnes.bg • 2h ago
 
 ---
 
@@ -194,35 +202,25 @@ The Block • 1d ago
 
 ---
 
+**[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
+
+The Block • 1d ago
+
+---
+
+**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
+
+Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
+
+Decrypt • 1d ago
+
+---
+
 **[Ether (ETH) ETF News: Staked Ether ETF (ETHB) Coming From BlackRock](https://www.coindesk.com/markets/2025/12/08/blackrock-files-for-staked-ethereum-etf-aiming-to-bring-yield-to-the-masses)**
 
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
 
 CoinDesk • 1d ago
-
----
-
-**[Ethereum Price Gears Up for a Breakout—Can ETH Outperform BTC Into the Year-End?](https://www.tradingview.com/news/coinpedia:4bc4baf33094b:0-ethereum-price-gears-up-for-a-breakout-can-eth-outperform-btc-into-the-year-end/)**
-
-Ethereum is compressing just below a critical resistance band near $3,300–$3,350, even as the broader crypto market remains unsettled by Bitcoin’s choppy price action around $43,000–$44,000. Despite the volatility, the ETH price has defended support near $3,050, forming a tight consolidation range…
-
-TradingView • 10h ago
-
----
-
-**[Old Ethereum Whale Moves $1.19 Billion After A Decade—Here’s Why It’s A Big Deal](https://zycrypto.com/old-ethereum-whale-moves-1-19-billion-after-a-decade-heres-why-its-a-big-deal/)**
-
-The reappearance of this early-era wallet after nearly ten years has amplified speculation that sophisticated capital could flow into Ethereum in the coming months.
-
-ZyCrypto • 4h ago
-
----
-
-**[Ethereum gains after BlackRock files for iShares Staked Ethereum Trust ETF (ETH-USD:Cryptocurrency)](https://seekingalpha.com/news/4529446-ethereum-gains-after-blackrock-files-for-ishares-staked-ethereum-trust-etf)**
-
-Ethereum (ETH-USD) was trading higherÂ after BlackRock (BLK) filed a preliminary prospectus with the U.S. Securities and Exchange Commission for its iShares Staked Ethereum Trust ETF.
-
-Seeking Alpha • 22h ago
 
 ---
 
@@ -256,7 +254,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 84 • 👍 14 • 💬 1 • ⏱️ 13:32 • 43m ago
+👁️ 84 • 👍 14 • 💬 1 • ⏱️ 13:32 • 56m ago
 
 ---
 
@@ -286,7 +284,7 @@ BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 12K • 👍 560 • 💬 320 • ⏱️ 19:51 • 20h ago
+👁️ 12K • 👍 560 • 💬 320 • ⏱️ 19:51 • 21h ago
 
 ---
 

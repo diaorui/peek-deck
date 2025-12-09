@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T19:22:38.860899+00:00'
+updated: '2025-12-09T19:36:09.047149+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 19:22 UTC  
+**Last Updated:** December 09, 2025 at 19:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +3.4%  
-**7d:** +0.3%  
-**30d:** -11.5%  
-**90d:** -18.6%  
-**1y:** -2.6%  
+**24h:** +3.2%  
+**7d:** +0.1%  
+**30d:** -11.6%  
+**90d:** -18.7%  
+**1y:** -2.8%  
 
 ---
 
@@ -113,7 +113,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 If you had put $1000 into BTC in 2010 and left it alone without further investment you'd have close to a billion dollars right now (before tax, of course). I sometimes sit and wonder if there are people who did that almost as a joke and then forgot their password or whatever lol.
 
-8h ago
+9h ago
 
 ---
 
@@ -153,7 +153,7 @@ And most who keep panicking, and those crazy shenanigans fud are mostly from noo
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-WIRED • 8h ago
+WIRED • 9h ago
 
 ---
 
@@ -169,31 +169,21 @@ Bloomberg.com • 3h ago
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 46m ago
+CNBC • 59m ago
 
 ---
 
-**[Standard Chartered Slashes 2025 Bitcoin Forecast to $100K](https://decrypt.co/351603/standard-chartered-slashes-2025-bitcoin-forecast-to-100k)**
+**[Bitcoin jumps to $94,000, but 'hawkish' Fed cut threatens crypto rally](https://finance.yahoo.com/news/bitcoin-jumps-to-94000-but-hawkish-fed-cut-threatens-crypto-rally-164647910.html)**
 
-The bank has cut its 2025 Bitcoin price target by half, citing the end of corporate buying and sharply slowing ETF inflows.
+The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
 
-Decrypt • 6h ago
-
----
-
-**[Bitcoin Bulls Standard Chartered, Bernstein Pare Back Ambitious Year-End Forecasts](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-bulls-standard-chartered-bernstein-pare-back-most-ambitious-forecasts)**
-
-Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
-
-Bloomberg.com • 2h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin market is 'a little different now,' Blockstream CEO says](https://finance.yahoo.com/video/bitcoin-market-little-different-now-183000147.html)**
+**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
 
-Bitcoin (BTC-USD) hovers below $94,000 per token at the time of this video's posting as the crypto asset's recent bout of volatility is putting it on track for its first annual decline since 2022. Blockstream CEO Adam Back comes on Market Catalysts to discuss the cryptocurrency environment and Wall Street's own forecasts on the digital asset. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
-
-Yahoo Finance • 52m ago
+Reuters • 14h ago
 
 ---
 
@@ -221,9 +211,17 @@ CoinDesk • 5h ago
 
 ---
 
-**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
+**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqekcQTjEXJDg_w6TA5u1hRCB31h0yNW5W_jo8rP3GM9E0cNMYjimFqH&gaa_ts=69387d93&gaa_sig=gvabT2MVJ040egb6SYTQ4MjVIhFtUCfXmVpucYGk3FNegklFN56bxuLM_s59Ns69rFrVs1K-zNMRtHryFrMBwA%3D%3D)**
 
-Reuters • 14h ago
+MarketWatch • 21h ago
+
+---
+
+**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
+
+Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
+
+Financial Times • 1d ago
 
 ---
 
@@ -315,7 +313,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 237 • ⏱️ 44:49 • 3h ago
+👁️ 18K • 👍 1K • 💬 237 • ⏱️ 44:49 • 4h ago
 
 ---
 
@@ -345,7 +343,7 @@ Let's talk about the price of #Bitcoin going into FOMC! Into The Cryptoverse Pre
 
 📺 Benjamin Cowen
 
-👁️ 33K • 👍 3K • 💬 124 • ⏱️ 9:09 • 5h ago
+👁️ 33K • 👍 3K • 💬 124 • ⏱️ 9:09 • 6h ago
 
 ---
 
@@ -375,7 +373,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 1K • 👍 269 • 💬 21 • ⏱️ 7:45 • 1h ago
+👁️ 1K • 👍 269 • 💬 21 • ⏱️ 7:45 • 2h ago
 
 ---
 

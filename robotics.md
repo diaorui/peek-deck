@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T19:22:38.869571+00:00'
+updated: '2025-12-09T19:36:09.056452+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 19:22 UTC  
+**Last Updated:** December 09, 2025 at 19:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -124,11 +124,11 @@ Breaking Defense • 1d ago
 
 ---
 
-**[‘World’s first’ AGI system: Tokyo firm claims it built model with human-level reasoning](https://interestingengineering.com/ai-robotics/worlds-first-agi-model)**
+**[State OKs $10M grant for new tech company's headquarters in Detroit](https://www.detroitnews.com/story/business/2025/12/09/state-oks-10m-grant-for-new-tech-companys-headquarters-in-detroit/87686590007/)**
 
-The company, founded by an ex-Google veteran, claims its new system constitutes a 'fundamental leap' beyond existing AI technologies.
+A robotics business also plans to take over a shuttered Wixom factory with help from the state.
 
-Interesting Engineering • 4h ago
+The Detroit News • 15m ago
 
 ---
 
@@ -172,7 +172,7 @@ Valley News Live • 20h ago
 
 ---
 
-**[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai)**
+**[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai/)**
 
 SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
 
@@ -180,9 +180,11 @@ PYMNTS.com • 21h ago
 
 ---
 
-**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://www.marketbeat.com/stock-ideas/5-robotics-stocks-catching-momentum-after-new-policy-tailwinds/)**
+**[Serve Robotics Extends Autonomous Delivery to Fort Lauderdale](https://finance.yahoo.com/news/serve-robotics-extends-autonomous-delivery-153500451.html)**
 
-MarketBeat • 1d ago
+SERV expands its autonomous delivery network to Fort Lauderdale, deepening its South Florida presence through Uber Eats.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -196,7 +198,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 21K • 👍 466 • 💬 200 • ⏱️ 14:26 • 23h ago
+👁️ 21K • 👍 466 • 💬 200 • ⏱️ 14:26 • 1d ago
 
 ---
 
