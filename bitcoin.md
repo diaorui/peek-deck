@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T11:33:18.337084+00:00'
+updated: '2025-12-09T11:46:34.679609+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 11:33 UTC  
+**Last Updated:** December 09, 2025 at 11:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1802.77B
+**Market Cap:** $1801.13B
 Rank #1
 
 **Circulating Supply:** 19,959,693 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.4%
 
 **All-Time Low:** $67.81
-+133014.6%
++133026.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -91,15 +91,15 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
-**[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
+**[Swim with the whales](https://www.reddit.com/r/Bitcoin/comments/1pi4cuq/swim_with_the_whales/)**
 
-15h ago
+1h ago
 
 ---
 
-**[Swim with the whales](https://www.reddit.com/r/Bitcoin/comments/1pi4cuq/swim_with_the_whales/)**
+**[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-49m ago
+15h ago
 
 ---
 
@@ -115,6 +115,12 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
+**[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
+
+14h ago
+
+---
+
 **[Apparently Lamborghini is shilling Bitcoin now](https://www.reddit.com/r/Bitcoin/comments/1phjz9z/apparently_lamborghini_is_shilling_bitcoin_now/)**
 
 They have a promotion going on with Ledger
@@ -123,21 +129,15 @@ They have a promotion going on with Ledger
 
 ---
 
-**[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
-
-14h ago
-
----
-
 **[...and then they join you.](https://www.reddit.com/r/Bitcoin/comments/1phxg26/and_then_they_join_you/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -145,25 +145,35 @@ They have a promotion going on with Ledger
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Traders Target $20K Bitcoin Strike as Deep Out of the Money Options Gain Traction](https://www.coindesk.com/markets/2025/12/08/bitcoin-traders-target-usd20k-bitcoin-strike-as-deep-out-of-the-money-options-gain-traction)**
+**[Bitcoin's 2025 rollercoaster may end on a low](https://finance.yahoo.com/news/bitcoins-2025-rollercoaster-may-end-050859649.html)**
 
-These flows represent a bullish bet on volatility rather than a downside hedge or outright bearish position.
+With a series of record highs and crushing sell-offs, 2025 has been a rollercoaster ride for bitcoin, the world's largest cryptocurrency, which is at risk of ending the year with its first annual decline since 2022.  The world's main stock benchmarks have also had a turbulent year, repeatedly hitting record peaks and then pulling ​back as worries over tariffs, interest rates and a possible AI bubble whipsawed markets.  While equities are mostly up year-to-date, bitcoin's overall correlation with share prices has strengthened markedly this year.
 
-CoinDesk • 7h ago
-
----
-
-**[Bitcoin Price Rebounds Slightly Ahead of the Fed. How It Could Reach $120K—or Fall to $82K.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-2085d4a2?gaa_at=eafs&gaa_n=AWEtsqfBBFL3Ld2R5Kk9JaP38eV5dx86AHeXhtLMi2g3-kLRtpF-Kl5m9vso&gaa_ts=6938083b&gaa_sig=lrzGFPZNrz6vgDxVotL4sEpeSLYpSEsDRNTq_mitnQ3b2_Yfft4hB49exf1mdVi1eth3XH18HEyxH3T9GgSh_g%3D%3D)**
-
-Barron's • 21h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[Bitcoin Price Prediction: Recovery to $100,000 Could Be Tainted by These Holders](https://finance.yahoo.com/news/bitcoin-price-prediction-recovery-100-100657135.html)**
+**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://finance.yahoo.com/news/blackrock-bitcoin-etf-investors-came-193120104.html)**
 
-Bitcoin nears $90,400 as FOMC’s expected 25 bps cut could spark a recovery, but STH dominance may challenge a Bitcoin rally toward $100,000.
+The iShares Bitcoin Trust (ticker IBIT) posted a more than-40% annualized return from its January 2024 debut through November 2025, data compiled by Bloomberg show, even after the recent crypto selloff.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 16h ago
+
+---
+
+**[A Bitcoin ETF Doubled in Value. Its Investors Made Only One-Fourth of That](https://www.morningstar.com/funds/bitcoin-etf-doubled-value-its-investors-made-only-one-fourth-that)**
+
+iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
+
+Morningstar • 1d ago
+
+---
+
+**[Bitcoin Slips Toward ETF Break-Even Level as Inflows Slow, but Support May Be Building](https://decrypt.co/351573/bitcoin-etf-break-even-level-inflows-slow-support-building)**
+
+Bitcoin is drifting back toward the price where ETF buyers break even, as inflows slow and investors look to the Fed’s decision this week.
+
+Decrypt • 6h ago
 
 ---
 
@@ -191,35 +201,27 @@ Futurism • 2d ago
 
 ---
 
+**[Bitcoin Traders Target $20K Bitcoin Strike as Deep Out of the Money Options Gain Traction](https://www.coindesk.com/markets/2025/12/08/bitcoin-traders-target-usd20k-bitcoin-strike-as-deep-out-of-the-money-options-gain-traction)**
+
+These flows represent a bullish bet on volatility rather than a downside hedge or outright bearish position.
+
+CoinDesk • 7h ago
+
+---
+
+**[Bitcoin Price Prediction: Recovery to $100,000 Could Be Tainted by These Holders](https://finance.yahoo.com/news/bitcoin-price-prediction-recovery-100-100657135.html)**
+
+Bitcoin nears $90,400 as FOMC’s expected 25 bps cut could spark a recovery, but STH dominance may challenge a Bitcoin rally toward $100,000.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
 
 Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
 
 Financial Times • 1d ago
-
----
-
-**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://finance.yahoo.com/news/blackrock-bitcoin-etf-investors-came-193120104.html)**
-
-The iShares Bitcoin Trust (ticker IBIT) posted a more than-40% annualized return from its January 2024 debut through November 2025, data compiled by Bloomberg show, even after the recent crypto selloff.
-
-Yahoo Finance • 16h ago
-
----
-
-**[A Bitcoin ETF Doubled in Value. Its Investors Made Only One-Fourth of That](https://www.morningstar.com/funds/bitcoin-etf-doubled-value-its-investors-made-only-one-fourth-that)**
-
-iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
-
-Morningstar • 1d ago
-
----
-
-**[Bitcoin Booster Cathie Wood Welcomes Vanguard Investors](https://www.tradingview.com/news/u_today:743bc7324094b:0-bitcoin-booster-cathie-wood-welcomes-vanguard-investors/)**
-
-Cathie Wood is openly welcoming Vanguard investors to the world of Bitcoin through her ARK 21Shares Bitcoin ETF (ARKB).In her announcement, she has stressed that Bitcoin is a "profound technological and monetary innovation."Vanguard's U-turnVanguard investors can now get exposure to Bitcoin without…
-
-TradingView • 4h ago
 
 ---
 
@@ -329,7 +331,7 @@ In this clip, I talk about what is happening for bitcoin and crypto this week an
 
 📺 Matt & Justus
 
-👁️ 580K • 👍 44K • 💬 181 • ⏱️ 1:00 • 16h ago
+👁️ 580K • 👍 44K • 💬 181 • ⏱️ 1:00 • 17h ago
 
 ---
 

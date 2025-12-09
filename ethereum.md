@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T11:33:18.343069+00:00'
+updated: '2025-12-09T11:46:34.685822+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 11:33 UTC  
+**Last Updated:** December 09, 2025 at 11:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.20B
+**Market Cap:** $374.80B
 Rank #2
 
 **Circulating Supply:** 120,695,272 ETH
@@ -62,7 +62,7 @@ No max supply
 -37.2%
 
 **All-Time Low:** $0.43
-+717433.6%
++717729.3%
 
 ---
 
@@ -84,14 +84,6 @@ JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138
 
 ---
 
-**[Learnings From Post-Fusaka Ethereum](https://www.reddit.com/r/ethereum/comments/1pi43mc/learnings_from_postfusaka_ethereum/)**
-
-A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
-
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 1h ago
-
----
-
 **[Daily General Discussion December 08, 2025](https://www.reddit.com/r/ethereum/comments/1ph4xqo/daily_general_discussion_december_08_2025/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
@@ -100,9 +92,17 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Learnings From Post-Fusaka Ethereum](https://www.reddit.com/r/ethereum/comments/1pi43mc/learnings_from_postfusaka_ethereum/)**
+
+A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
+
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 1h ago
+
+---
+
 **[Five years ago, an Ethereum standards author was threatened with trademark legal action over the name of a smart contract standard](https://www.reddit.com/r/ethereum/comments/1phe1xy/five_years_ago_an_ethereum_standards_author_was/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 20h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 21h ago
 
 ---
 
@@ -174,17 +174,17 @@ Yahoo Finance • 19h ago
 
 ---
 
+**[Vitalik Buterin pushes for trustless gas futures market to hedge Ethereum fees, sparking debate over feasibility](https://www.theblock.co/post/381677/vitalik-buterin-pushes-for-trustless-gas-futures-market-to-hedge-ethereum-fees-sparking-debate)**
+
+The Block • 1d ago
+
+---
+
 **[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
 
 The trading platform dives further into digital assets both domestically and globally.
 
 Fortune • 13h ago
-
----
-
-**[Vitalik Buterin pushes for trustless gas futures market to hedge Ethereum fees, sparking debate over feasibility](https://www.theblock.co/post/381677/vitalik-buterin-pushes-for-trustless-gas-futures-market-to-hedge-ethereum-fees-sparking-debate)**
-
-The Block • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ Binance • 19h ago
 
 **[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -220,7 +220,7 @@ CoinDesk • 21h ago
 
 Ethereum is compressing just below a critical resistance band near $3,300–$3,350, even as the broader crypto market remains unsettled by Bitcoin’s choppy price action around $43,000–$44,000. Despite the volatility, the ETH price has defended support near $3,050, forming a tight consolidation range…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -324,7 +324,7 @@ SHOCKING ANNOUNCEMENT FROM BLACKROCK! In a groundbreaking live speech, BlackRock
 
 📺 CIUDADGPTDF
 
-👁️ 943 • 👍 2K • 2h ago
+👁️ 943 • 👍 2K • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T11:33:18.328671+00:00'
+updated: '2025-12-09T11:46:34.671120+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- videos
 - social
+- repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 11:33 UTC  
+**Last Updated:** December 09, 2025 at 11:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai sa
 
 Google’s AI try-on app Doppl adds a shoppable discovery feed.[1] Claude Code is coming to Slack, and that’s a bigger deal than it sounds.[2] Google Colab Integrates KaggleHub for One Click Access to Kaggle Datasets, Models and Competitions.[3] Trump says AI executive order limiting state rules coming this week.[4] Sources: [1] https://techcrunch.com/2025/12/08/googles-ai-try-on-app-doppl-adds-a-shoppable-discovery-feed/ [2] https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/ [3] https://www.marktechpost.com/2025/12/07/google-colab-integrates-kagglehub-for-one-click-access-to-kaggle-datasets-models-and-competitions/ [4] https://www.politico.com/news/2025/12/08/trump-says-ai-executive-order-limiting-state-rules-coming-this-week-00680557
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming r
 
 Do you have a blog post or content that needs an image? Use our image generator to easily generate the best picture for your blog post using AI.
 
-🔗 [SocialBu](https://socialbu.com/tools/blog-image-generator) • 43m ago
+🔗 [SocialBu](https://socialbu.com/tools/blog-image-generator) • 56m ago
 
 ---
 
@@ -133,23 +133,21 @@ The Guardian • 5h ago
 
 ---
 
-**[American power is no longer boring … thanks to AI](https://www.axios.com/2025/12/09/ai-energy-cost-power-data-center)**
+**[Ohio business leaders warn: Adopt AI or fall behind](https://www.axios.com/local/columbus/2025/12/09/ohio-ai-jobsohio-artificial-intelligence)**
 
-Axios • 1h ago
-
----
-
-**[House Democrats establish AI working group as industry bolsters DC presence](https://www.cnbc.com/2025/12/09/ai-house-democrats-artificial-intelligence-washington-dc.html)**
-
-House lawmakers see the commission as a starting point for working with industry on AI policies, issues.
-
-CNBC • 1h ago
+Axios • 24m ago
 
 ---
 
-**[Indian AI royalty proposal targets data practices of OpenAI, Google](https://www.reuters.com/sustainability/boards-policy-regulation/indian-ai-royalty-proposal-targets-data-practices-openai-google-2025-12-09/)**
+**[Google faces EU antitrust investigation over AI Overviews, YouTube](https://www.reuters.com/sustainability/boards-policy-regulation/eu-launches-antitrust-probe-into-googles-use-online-content-ai-purposes-2025-12-09/)**
 
-Reuters • 1h ago
+Reuters • 56m ago
+
+---
+
+**[Apple’s Slow AI Pace Becomes a Strength as Market Grows Weary of Spending](https://www.bloomberg.com/news/articles/2025-12-09/apple-stock-surges-as-ai-weary-mood-grips-wall-street)**
+
+Bloomberg.com • 59m ago
 
 ---
 
@@ -159,11 +157,11 @@ The Economist • 14h ago
 
 ---
 
-**[AI and recruitment: Are we in a 'race to the bottom'?](https://www.bbc.com/news/articles/ced6jv76091o)**
+**[Trump gives Nvidia the OK to sell advanced AI chips to China](https://www.bbc.com/news/articles/ckg9q635q6po)**
 
-AI helps jobseekers to apply for hundreds of roles, meanwhile employers use AI to filter them.
+Nvidia had been at the centre of a geopolitical tug-of-war between the US and China in recent months.
 
-BBC • 11h ago
+BBC • 9h ago
 
 ---
 
@@ -175,17 +173,19 @@ CNN • 20h ago
 
 ---
 
+**[House Democrats establish AI working group as industry bolsters DC presence](https://www.cnbc.com/2025/12/09/ai-house-democrats-artificial-intelligence-washington-dc.html)**
+
+House lawmakers see the commission as a starting point for working with industry on AI policies, issues.
+
+CNBC • 1h ago
+
+---
+
 **[China’s open-source AI is a national advantage](https://www.ft.com/content/b1f92b0e-d6ef-4c95-b51e-7bcf90c8a65f)**
 
 The models are akin to studying together to ace a test instead of relying on individual knowledge
 
 Financial Times • 10h ago
-
----
-
-**[US to allow powerful AI chip sales to China, Trump says](https://www.politico.com/news/2025/12/08/u-s-to-allow-nvidias-h200-sales-in-china-trump-confirms-00681619)**
-
-Politico • 11h ago
 
 ---
 
@@ -203,7 +203,7 @@ Politico • 11h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 415 • 💬 325 • 11h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 429 • 💬 335 • 11h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -211,13 +211,13 @@ AI progress is steady. Human equivalence is sudden.
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 401 • 💬 348 • 18h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 405 • 💬 353 • 18h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 165 • 💬 145 • 17h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 171 • 💬 149 • 18h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -237,7 +237,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny.
 
-⬆️ 37 • 💬 5 • 15h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
+⬆️ 38 • 💬 5 • 15h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
 
 ---
 
@@ -379,7 +379,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 217,428 • ❤️ 2,384 • 18h ago
+⬇️ 217,428 • ❤️ 2,385 • 19h ago
 
 ---
 
@@ -413,7 +413,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 283 • 7d ago
+⬇️ 0 • ❤️ 284 • 7d ago
 
 ---
 
@@ -437,7 +437,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 6,920 • ❤️ 191 • 6h ago
+⬇️ 6,920 • ❤️ 192 • 6h ago
 
 ---
 
@@ -449,7 +449,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 687 • ❤️ 183 • 5h ago
+⬇️ 687 • ❤️ 183 • 6h ago
 
 ---
 
@@ -635,7 +635,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.6k • 🔱 441 • 3h ago
+⭐ 5.6k • 🔱 441 • 4h ago
 
 ---
 
@@ -655,7 +655,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.2k • 🔱 152 • 2h ago
+⭐ 1.2k • 🔱 152 • 3h ago
 
 ---
 
@@ -685,7 +685,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 123 • 12h ago
+⭐ 1.0k • 🔱 123 • 13h ago
 
 ---
 
@@ -695,7 +695,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 884 • 🔱 60 • 19m ago
+⭐ 884 • 🔱 60 • 33m ago
 
 ---
 
