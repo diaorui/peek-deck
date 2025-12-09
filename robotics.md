@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T18:20:03.584515+00:00'
+updated: '2025-12-09T18:47:59.267307+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 18:20 UTC  
+**Last Updated:** December 09, 2025 at 18:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Self-driving delivery vehicles, in rural parts of China, now move along village roads by themselves, dropping off daily goods to local shops](https://www.reddit.com/r/robotics/comments/1pi4b61/selfdriving_delivery_vehicles_in_rural_parts_of/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -66,7 +66,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 Teaching Robots to Understand Natural Language Built an autonomous navigation system where you can command a robot in plain English - "go to the person" or "find the chair" - and it handles the rest. What I Learned: Distributed ROS2: Ran LLM inference on NVIDIA Jetson Orin Nano while handling vision/navigation on my main system. Multi-machine communication over ROS2 topics was seamless. Edge Al Reality: TinyLlama on Jetson's CPU takes 2-10s per command, but the 8GB unified memory and no GPU dependency makes it perfect for robotics. Real edge computing without much latency. Vision + Planning: YOLOv8 detects object classes, monocular depth estimation calculates distance, Nav2 plans the path. When the target disappears, the robot autonomously searches with 360° rotation patterns. On Jetson Orin Nano Super: Honestly impressed. It's the perfect middle ground - more capable than Raspberry Pi, more accessible than industrial modules. Running Ollama while maintaining real-time ROS2 communication proved its robotics potential. Stack: ROS2 | YOLOv8 | Ollama/TinyLlama | Nav2 | Gazebo Video shows the full pipeline - natural language → LLM parsing → detection → autonomous navigation.
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Teaching Robots to Understand Natural Language Built an autonomous navigation sy
 
 Engineers build artificial tendons that let muscle-powered robots move faster and pull harder, marking a major step for biohybrid machines.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 25m ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 53m ago
 
 ---
 
@@ -198,7 +198,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 18K • 👍 420 • 💬 187 • ⏱️ 14:26 • 22h ago
+👁️ 18K • 👍 420 • 💬 187 • ⏱️ 14:26 • 23h ago
 
 ---
 
@@ -216,7 +216,7 @@ The founder and CEO of EngineAI just took a robot kick to the chest in an attemp
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 38 • 💬 29 • ⏱️ 8:31 • 17h ago
+👁️ 2K • 👍 38 • 💬 29 • ⏱️ 8:31 • 18h ago
 
 ---
 

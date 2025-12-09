@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T18:20:03.566635+00:00'
+updated: '2025-12-09T18:47:59.249492+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- videos
 - news
+- social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 18:20 UTC  
+**Last Updated:** December 09, 2025 at 18:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 **[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -55,15 +55,7 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-🔗 [WIRED](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/) • 3h ago
-
----
-
-**['Big Short' investor Michael Burry defends his calls for a stock market bubble and predicts a 'Netscape fate' for OpenAI](https://www.reddit.com/r/artificial/comments/1phn78a/big_short_investor_michael_burry_defends_his/)**
-
-Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
-
-🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 21h ago
+🔗 [WIRED](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/) • 4h ago
 
 ---
 
@@ -71,7 +63,15 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 American AI giants are backing a new effort to establish open standards for building agentic software and tools.
 
-🔗 [WIRED](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/) • 48m ago
+🔗 [WIRED](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/) • 1h ago
+
+---
+
+**['Big Short' investor Michael Burry defends his calls for a stock market bubble and predicts a 'Netscape fate' for OpenAI](https://www.reddit.com/r/artificial/comments/1phn78a/big_short_investor_michael_burry_defends_his/)**
+
+Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
+
+🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 22h ago
 
 ---
 
@@ -83,22 +83,6 @@ AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai sa
 
 ---
 
-**[A "featured image" generator for those writing blogs](https://www.reddit.com/r/artificial/comments/1pi4g5f/a_featured_image_generator_for_those_writing_blogs/)**
-
-Do you have a blog post or content that needs an image? Use our image generator to easily generate the best picture for your blog post using AI.
-
-🔗 [SocialBu](https://socialbu.com/tools/blog-image-generator) • 7h ago
-
----
-
-**[Preserving your context quality by editing prompts that gave an unhelpful response](https://www.reddit.com/r/artificial/comments/1pic4mt/preserving_your_context_quality_by_editing/)**
-
-I've settled into this pattern of LLM use and it is a game changer. I'm curious if anyone else does this and how it might be improved. The longer a chat goes on, the less useful the responses become, a phenomenon sometimes called context rot. I've definitely noticed that after a particularly unhelpful response, it is better to just start a new chat rather than wrestle with the LLM. Even when you are clear about the undesirable aspect, it has a way of sneaking back in simply because it is part of the context and LLMs are bad at ignoring the unhelpful patterns in the context. This can be a bit of a setback if the context was valuable up until that point. Rather than starting fresh and losing the context, I've gotten in the habit of editing the prompt that elicited the issue I wish to avoid, I just add an additional line that steers the LLM away from it. For example, if the LLM provides code with the wrong indent, I edit the prompt and ask for the correct indent. I don't have to worry about the wrong indent sneaking back in and this has the bonus of a more concise context for my own review too. It is almost like time travel for the conversation. It works for just about everything, it is particularly helpful for image generation where there is a lot of nuance and missteps can really poison the context. Strangely enough, the prompt edit option is not always available, I haven't figured out why.
-
-1h ago
-
----
-
 **[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.reddit.com/r/artificial/comments/1pib0pf/trump_says_hell_sign_executive_order_blocking/)**
 
 President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
@@ -107,11 +91,27 @@ President Donald Trump confirmed on Monday he plans to sign an executive order p
 
 ---
 
-**[Opinion | This Is the 21st-Century Arms Race. Can America Keep Up? (Gift Article)](https://www.reddit.com/r/artificial/comments/1piapa7/opinion_this_is_the_21stcentury_arms_race_can/)**
+**[OpenAI Hires Slack CEO as New Chief Revenue Officer](https://www.reddit.com/r/artificial/comments/1pifikb/openai_hires_slack_ceo_as_new_chief_revenue/)**
 
-Innovations in A.I., synthetic biology and quantum computing are set to change war.
+A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [nytimes.com](https://www.nytimes.com/interactive/2025/12/09/opinion/editorials/us-china-military-ai-tech.html?unlocked_article_code=1.7U8.WPvl.rr86n3kq5Eqb&smid=re-nytopinion) • 2h ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 1m ago
+
+---
+
+**[The Real Reason LLMs Hallucinate — And Why Every Fix Has Failed](https://www.reddit.com/r/artificial/comments/1pif1u7/the_real_reason_llms_hallucinate_and_why_every/)**
+
+People keep talking about “fixing hallucination,” but nobody is asking the one question that actually matters: Why do these systems hallucinate in the first place? Every solution so far—RAG, RLHF, model scaling, “AI constitutions,” uncertainty scoring—tries to patch the problem after it happens. They’re improving the guess instead of removing the guess. The real issue is structural: these models are architecturally designed to generate answers even when they don’t have grounded information. They’re rewarded for sounding confident, not for knowing when to stop. That’s why the failures repeat across every system—GPT, Claude, Gemini, Grok. Different models, same flaw. What I’ve put together breaks down the actual mechanics behind that flaw using the research the industry itself published. It shows why their methods can’t solve it, why the problem persists across scaling, and why the most obvious correction has been ignored for years. If you want the full breakdown—with evidence from academic papers, production failures, legal cases, medical misfires, and the architectural limits baked into transformer models—here it is. It explains the root cause in plain language so people can finally see the pattern for themselves.
+
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 21m ago
+
+---
+
+**[It's been a big week for AI ; Here are 10 massive changes you might've missed:](https://www.reddit.com/r/artificial/comments/1pievf8/its_been_a_big_week_for_ai_here_are_10_massive/)**
+
+GPT-5.2 rumored to drop today Meta acquires AI wearable company Buy groceries without leaving ChatGPT A collection of AI Updates! 🧵 1. OpenAI Rumored to Drop GPT-5.2 Today (December 9th) "Code red" response to Google arriving earlier than planned. GPT-5.2 accelerated release schedule in direct competition with Gemini advancements. OpenAI-Google AI race intensifies. 2. Anthropic Launches Tool to Understand People's Perspectives on AI Anthropic Interviewer drafts questions, conducts interviews, and analyzes responses. Week-long pilot at claude.ai/interviewer. Already tested on 1,250 professionals - findings show workers want routine delegation but creative control. New research on AI adoption. 3. Meta Acquires LimitlessAI for it's Wearable Conversation Device Startup creates pendant-style device that captures and transcribes real-world conversations. Aligns with Meta's AI-enabled consumer hardware strategy and "personal superintelligence" vision. A greater push into AI wearables beyond glasses. 4. You Can Now Buy Groceries Without Leaving ChatGPT Stripe partners with Instacart for direct checkout in ChatGPT. Powered by Agentic Commerce Protocol launched with OpenAI. Uses Stripe Shared Payment Tokens for secure payments. Live on web today, mobile coming soon. 5. Elon Musk Announces Grok 4.20 Release in 3-4 Weeks Next major Grok model update coming soon. Timeline puts release in early January 2025. xAI continues rapid iteration on competitive AI models. 6. a16z Co-Leads $475M Seed for Unconventional AI Chip Startup Building highly efficient AI-first chips using analog computing systems. CEO Naveen Rao previously sold two companies. Focus on better hardware to enable AGI. A much different approach on chips compared to current industry standards. 7. Microsoft Pledges to Invest $19 billion+ in AI infra in Canada A total of $19 billion CAD between 2023 and 2027 has just been pledged this morning. $7.5 billion CAD alone over the next two years. 8. Google Planning Nano Banana 2 Flash Release in Coming Weeks Internal "Mayo" announcement added to Gemini web. Performance matches Nano Banana 2 Pro at lower cost. Gemini 3 Flash likely dropping around same time. Flash variant enables wider scaling without sacrificing quality. 9. OpenAI Releases GPT-5.1-Codex Max via Responses API Most capable agentic coding model now available to integrate into apps and workflows. First launched in Codex two weeks ago. Purpose-built for agentic coding with foundational reasoning. Also accessible via Codex CLI with API key. 10. Google Drops Deep Think Mode for Gemini 3 Explores multiple hypotheses simultaneously with iterative reasoning rounds. Produces more refined, nuanced code with richer detail. Available to Google AI Ultra subscribers. Select 'Deep Think' in prompt bar to activate. That's a wrap on this week's AI News. Which update do you think is the biggest? LMK what else you want to see | More weekly AI + Agentic content releasing ever week!
+
+28m ago
 
 ---
 
@@ -121,7 +121,7 @@ Innovations in A.I., synthetic biology and quantum computing are set to change w
 
 **[Why the A.I. Boom Is Unlike the Dot-Com Boom](https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 6h ago
 
 If you find yourself hiding your AI usage from your colleagues and boss, you might be an 'AI creeper.'
 
-Business Insider • 12m ago
+Business Insider • 39m ago
 
 ---
 
@@ -163,13 +163,13 @@ The New York Times • 8h ago
 
 As we look to 2026, there's a bright future for well-governed healthcare information to advance artificial intelligence innovation and promote value-based care, an expert says.
 
-Healthcare IT News • 46m ago
+Healthcare IT News • 1h ago
 
 ---
 
 **[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
 
-The Economist • 20h ago
+The Economist • 21h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Economist • 20h ago
 
 Shopper are increasingly using chatbots for their hard-to-buy-for family and friends, with implications for bargain hunters and businesses.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Guardian • 4h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 513 • 💬 472 • 17h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 521 • 💬 480 • 18h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -211,13 +211,13 @@ AI progress is steady. Human equivalence is sudden.
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 413 • 💬 364 • 1d ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 414 • 💬 364 • 1d ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 187 • 💬 166 • 1d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 188 • 💬 169 • 1d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -227,25 +227,25 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 ---
 
+**[EU investigates Google over AI-generated summaries in search results](https://news.ycombinator.com/item?id=46205743)**
+
+It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
+
+⬆️ 50 • 💬 102 • 3h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
+
+---
+
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
 ⬆️ 50 • 💬 14 • 2d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
-**[EU investigates Google over AI-generated summaries in search results](https://news.ycombinator.com/item?id=46205743)**
-
-It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
-
-⬆️ 49 • 💬 100 • 3h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
-
----
-
-**[Apple's Slow AI Pace Becomes a Strength as Market Grows Weary of Spending](https://news.ycombinator.com/item?id=46205724)**
+**[Apple's slow AI pace becomes a strength as market grows weary of spending](https://news.ycombinator.com/item?id=46205724)**
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 48 • 💬 74 • 3h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 49 • 💬 78 • 3h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -253,7 +253,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny.
 
-⬆️ 39 • 💬 5 • 21h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
+⬆️ 39 • 💬 5 • 22h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
 
 ---
 
@@ -273,7 +273,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTE
 
 📺 Anastasi In Tech
 
-👁️ 158K • 👍 10K • 💬 1K • ⏱️ 31:03 • 20h ago
+👁️ 158K • 👍 10K • 💬 1K • ⏱️ 31:03 • 21h ago
 
 ---
 
@@ -363,7 +363,7 @@ Everyone in the comments always seems to think I'm AI, so I made this silly litt
 
 📺 Yap Emporium
 
-👁️ 52K • 👍 2K • 💬 110 • ⏱️ 0:17 • 21h ago
+👁️ 52K • 👍 2K • 💬 110 • ⏱️ 0:17 • 22h ago
 
 ---
 
@@ -391,7 +391,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 56,958 • ❤️ 578 • 13h ago
+⬇️ 56,958 • ❤️ 578 • 14h ago
 
 ---
 
@@ -425,7 +425,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 6,920 • ❤️ 217 • 13m ago
+⬇️ 6,920 • ❤️ 217 • 41m ago
 
 ---
 
@@ -437,7 +437,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 687 • ❤️ 193 • 12h ago
+⬇️ 687 • ❤️ 193 • 13h ago
 
 ---
 
@@ -635,7 +635,7 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.6k • 🔱 443 • 10h ago
+⭐ 5.6k • 🔱 443 • 11h ago
 
 ---
 
@@ -705,7 +705,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 855 • 🔱 22 • 1d ago
+⭐ 855 • 🔱 22 • 2d ago
 
 ---
 

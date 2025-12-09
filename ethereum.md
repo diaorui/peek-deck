@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T18:20:03.581302+00:00'
+updated: '2025-12-09T18:47:59.264039+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- videos
+- social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 18:20 UTC  
+**Last Updated:** December 09, 2025 at 18:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,14 +36,14 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,374.44
+### $3,376.80
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +7.7%  
-**7d:** +5.6%  
+**24h:** +7.8%  
+**7d:** +5.7%  
 **30d:** -5.4%  
 **90d:** -24.5%  
 **1y:** -7.1%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $407.37B
+**Market Cap:** $407.69B
 Rank #2
 
 **Circulating Supply:** 120,695,272 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--31.8%
+-31.7%
 
 **All-Time Low:** $0.43
-+779464.4%
++779596.0%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot wallet (non-hardware) that actually supports custom HD derivation at the account level and BIP39 passphrases (25th word). Surprisingly, this combo seems to be mostly available only on hardware wallets or very niche software. Most mainstream hot wallets either lock derivation paths or ignore passphrases completely. So far, the only hot wallet I personally found that seems to support both is TokenPocket. According to their docs, keys stay on-device and they allow more flexibility than most wallets. Before fully committing, I’m curious: Has anyone here actually used TokenPocket with custom derivation paths + passphrase? Any thoughts on its security model or reputation? Are there any other hot wallets I might be missing (mobile / desktop / CLI) that support this kind of setup for Ethereum / EVM? I know this is more of a power-user thing, but I’m guessing some of you have gone through the same search. Appreciate any insight 🙏
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot walle
 
 A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 7h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 8h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 11K • 👍 550 • 💬 319 • ⏱️ 19:51 • 19h ago
+👁️ 11K • 👍 550 • 💬 319 • ⏱️ 19:51 • 20h ago
 
 ---
 
@@ -296,7 +296,7 @@ Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.c
 
 📺 Crypto Lifer
 
-👁️ 4K • 👍 671 • 3h ago
+👁️ 4K • 👍 671 • 4h ago
 
 ---
 

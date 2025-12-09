@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T18:20:03.575052+00:00'
+updated: '2025-12-09T18:47:59.258048+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- videos
+- social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 18:20 UTC  
+**Last Updated:** December 09, 2025 at 18:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,946.25
+### $94,145.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.3%  
-**7d:** +0.3%  
-**30d:** -11.5%  
+**24h:** +4.4%  
+**7d:** +0.4%  
+**30d:** -11.4%  
 **90d:** -18.5%  
-**1y:** -2.6%  
+**1y:** -2.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1875.20B
+**Market Cap:** $1874.99B
 Rank #1
 
-**Circulating Supply:** 19,959,818 BTC
+**Circulating Supply:** 19,959,843 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
 -25.5%
 
 **All-Time Low:** $67.81
-+138475.4%
++138435.6%
 
 ---
 
@@ -83,12 +83,6 @@ Rank #1
 
 ---
 
-**[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
-
-11h ago
-
----
-
 **[What’s going on?](https://www.reddit.com/r/Bitcoin/comments/1pib08s/whats_going_on/)**
 
 2h ago
@@ -103,11 +97,23 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
+**[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
+
+12h ago
+
+---
+
 **[I wonder how the small early investors feel right now?](https://www.reddit.com/r/Bitcoin/comments/1pi41nz/i_wonder_how_the_small_early_investors_feel_right/)**
 
 If you had put $1000 into BTC in 2010 and left it alone without further investment you'd have close to a billion dollars right now (before tax, of course). I sometimes sit and wonder if there are people who did that almost as a joke and then forgot their password or whatever lol.
 
-7h ago
+8h ago
+
+---
+
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pier04/daily_meme_until_100000/)**
+
+34m ago
 
 ---
 
@@ -125,21 +131,17 @@ And most who keep panicking, and those crazy shenanigans fud are mostly from noo
 
 ---
 
+**[Indiana considering legislation to require Bitcoin options in Public Retirement Plans](https://www.reddit.com/r/Bitcoin/comments/1pia1pu/indiana_considering_legislation_to_require/)**
+
+Indiana lawmakers are making history with groundbreaking legislation that would force public retirement programs to offer Bitcoin investments.
+
+🔗 [Brave New Coin](https://bravenewcoin.com/insights/indiana-becomes-first-state-to-require-bitcoin-options-in-public-retirement-plans) • 3h ago
+
+---
+
 **[Staring into the BTC abyss, waiting for it to explain itself](https://www.reddit.com/r/Bitcoin/comments/1pi3i32/staring_into_the_btc_abyss_waiting_for_it_to/)**
 
 8h ago
-
----
-
-**[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.reddit.com/r/Bitcoin/comments/1pi8ira/bitcoin_holds_90000_as_markets_await_fed_rate_cut/)**
-
-🔗 [theblock.co](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance) • 4h ago
-
----
-
-**[Earning $100k now has about the same buying power that $40k a year had back in 1990](https://www.reddit.com/r/Bitcoin/comments/1pi1w8o/earning_100k_now_has_about_the_same_buying_power/)**
-
-10h ago
 
 ---
 
@@ -151,7 +153,7 @@ And most who keep panicking, and those crazy shenanigans fud are mostly from noo
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-WIRED • 7h ago
+WIRED • 8h ago
 
 ---
 
@@ -159,7 +161,7 @@ WIRED • 7h ago
 
 Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -167,13 +169,13 @@ Bloomberg.com • 2h ago
 
 The company is led by Strike CEO Jack Mallers and began trading under the XXI ticker today following its SPAC merger with Cantor Equity Partners.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Bitcoin Treasury Firm Backed by Tether, SoftBank Plunges on First Day of Trading](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqcnQahu02AJE530p7Y7fBoN9sv_cuCi34KrSPfwrP6EEgdnpmpwCzPl&gaa_ts=69386bba&gaa_sig=5-imY_XNtfyJ6D9RqgWIkoLALMqsIL0Lh3_79SR3VQw0kZItKnXjIQy5oISmGVi0F2QVG1VxVSRRLXIbHNn0bQ%3D%3D)**
 
-The Wall Street Journal • 9h ago
+The Wall Street Journal • 10h ago
 
 ---
 
@@ -181,7 +183,7 @@ The Wall Street Journal • 9h ago
 
 The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -203,7 +205,7 @@ PR Newswire • 5h ago
 
 The move is the latest example of a traditional financial services provider offering digital asset trading through its own platform — a role still primarily filled by cryptocurrency exchanges such as Coinbase.  Through its partnership with PNC, Coinbase provides broker services and technology integration, facilitating trades of any amount of Bitcoin, according to Brett Tejpaul, co-CEO of Coinbase Institutional.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -217,7 +219,7 @@ CoinDesk • 4h ago
 
 **[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqdXsXjMxd1oidtWHrtZ5UShuEPt9dMWqdJFlVhmvtBi9jgEvwKMzL-v&gaa_ts=69386bba&gaa_sig=IYK046SPlPA0guyM1J9bl_R1CIIQl8LKH8YePW7z9adsuWFTNKbl4ZJtX1y8O9ZVr5E4i45VVdeJOyOglZEgjg%3D%3D)**
 
-MarketWatch • 19h ago
+MarketWatch • 20h ago
 
 ---
 
@@ -329,7 +331,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 904 • 💬 183 • ⏱️ 44:49 • 2h ago
+👁️ 11K • 👍 904 • 💬 183 • ⏱️ 44:49 • 3h ago
 
 ---
 
@@ -339,7 +341,7 @@ In this clip, I talk about what is happening for bitcoin and crypto this week an
 
 📺 CryptosRus Extra
 
-👁️ 12K • 👍 560 • 💬 337 • ⏱️ 9:01 • 17h ago
+👁️ 12K • 👍 560 • 💬 337 • ⏱️ 9:01 • 18h ago
 
 ---
 
@@ -367,7 +369,7 @@ Michael Saylor declares he's more bullish than ever, stating his team can buy mo
 
 📺 Matt & Justus
 
-👁️ 1.3M • 👍 76K • 💬 235 • ⏱️ 1:00 • 23h ago
+👁️ 1.3M • 👍 76K • 💬 235 • ⏱️ 1:00 • 1d ago
 
 ---
 
@@ -387,7 +389,7 @@ Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. 
 
 📺 Simply Bitcoin
 
-👁️ 45K • 👍 3K • 💬 547 • ⏱️ 16:35 • 19h ago
+👁️ 45K • 👍 3K • 💬 547 • ⏱️ 16:35 • 20h ago
 
 ---
 
@@ -397,7 +399,7 @@ CZ says macro forces—rate cuts, QE, and Trump's market policy—may trigger a 
 
 📺 Bitcoin Magazine
 
-👁️ 528 • 👍 26 • 💬 2 • ⏱️ 1:33 • 2h ago
+👁️ 528 • 👍 26 • 💬 2 • ⏱️ 1:33 • 3h ago
 
 ---
 
