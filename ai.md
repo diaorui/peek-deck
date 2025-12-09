@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T23:31:09.539360+00:00'
+updated: '2025-12-09T23:42:42.573861+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
+- social
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 23:31 UTC  
+**Last Updated:** December 09, 2025 at 23:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,17 +45,17 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 ---
 
-**[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
-
-1d ago
-
----
-
 **[OpenAI Hires Slack CEO as New Chief Revenue Officer](https://www.reddit.com/r/artificial/comments/1pifikb/openai_hires_slack_ceo_as_new_chief_revenue/)**
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
 🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 4h ago
+
+---
+
+**[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
+
+1d ago
 
 ---
 
@@ -79,7 +79,7 @@ GPT-5.2 rumored to drop today Meta acquires AI wearable company Buy groceries wi
 
 American AI giants are backing a new effort to establish open standards for building agentic software and tools.
 
-🔗 [WIRED](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/) • 5h ago
+🔗 [WIRED](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/) • 6h ago
 
 ---
 
@@ -87,7 +87,15 @@ American AI giants are backing a new effort to establish open standards for buil
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-🔗 [WIRED](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/) • 8h ago
+🔗 [WIRED](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/) • 9h ago
+
+---
+
+**[How do you handle JSON validation for evolving agent systems during evaluation?](https://www.reddit.com/r/artificial/comments/1pilt0w/how_do_you_handle_json_validation_for_evolving/)**
+
+Agent systems change shape as you adjust tools, add reasoning steps, or rewrite planners. One challenge I ran into is that the JSON output shifts while the evaluation script expects a fixed structure. A small structural drift in the output can make an entire evaluation run unusable. For example A field that used to contain the answer moves into a different object A list becomes a single value A nested block appears only for one sample Even when the reasoning is correct, the scoring script cannot interpret it Adding a strict structure and schema check before scoring helped us separate structural failures from semantic failures. It also gave us clearer insight into how often the agent breaks format during tool use or multi step reasoning. I am curious how others in this community handle evaluation for agent systems that evolve week to week. Do you rely on strict schemas? Do you allow soft validation? Do you track structural drift separately from quality drift?
+
+56m ago
 
 ---
 
@@ -107,21 +115,13 @@ Shoppers may be unaware they're paying as much as 23% more than others for the s
 
 ---
 
-**[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.reddit.com/r/artificial/comments/1pib0pf/trump_says_hell_sign_executive_order_blocking/)**
-
-President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
-
-🔗 [CNN](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws) • 7h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Why the A.I. Boom Is Unlike the Dot-Com Boom](https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -145,13 +145,13 @@ Radnor High School and local police are investigating an AI-generated video that
 
 The Air Force wants a cloud-based, AI-powered “digital sandbox” as a hub to generate and run wargames at speeds of up 10,000 times faster than real time.
 
-Defense News • 45m ago
+Defense News • 57m ago
 
 ---
 
 **[‘Marjorie Prime’ Review: Broadway’s Family Drama of the AI Future](https://www.wsj.com/articles/marjorie-prime-review-broadways-family-drama-of-the-ai-future-fb508e75?gaa_at=eafs&gaa_n=AWEtsqeWdJfkOcJP_PmFyk5x_dzUSs3rGlsko2Z9vBVjdDXQ2sPtTIEgbZK3&gaa_ts=6938b49e&gaa_sig=jtnqEOP5Utn1ysag5s5lW5AoQbhd-V4jiT7T9QEozjl9U9SYkhEvjQQjs2EHxrXKOVEFOFajQi3YI3i5p8W2vg%3D%3D)**
 
-The Wall Street Journal • 33m ago
+The Wall Street Journal • 44m ago
 
 ---
 
@@ -205,7 +205,7 @@ U.S. Department of War (.gov) • 1h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 536 • 💬 526 • 23h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 537 • 💬 529 • 23h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -217,31 +217,31 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 ---
 
+**[Apple's slow AI pace becomes a strength as market grows weary of spending](https://news.ycombinator.com/item?id=46205724)**
+
+Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
+
+⬆️ 194 • 💬 241 • 8h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+
+---
+
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
 ⬆️ 189 • 💬 171 • 1d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
-**[Apple's slow AI pace becomes a strength as market grows weary of spending](https://news.ycombinator.com/item?id=46205724)**
+**[Donating the Model Context Protocol and establishing the Agentic AI Foundation](https://news.ycombinator.com/item?id=46207425)**
 
-Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 181 • 💬 217 • 8h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 123 • 💬 56 • 6h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
 ⬆️ 120 • 💬 205 • 2d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
-
----
-
-**[Donating the Model Context Protocol and Establishing the Agentic AI Foundation](https://news.ycombinator.com/item?id=46207425)**
-
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
-
-⬆️ 113 • 💬 55 • 6h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -255,15 +255,15 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
 
-⬆️ 50 • 💬 103 • 8h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
+⬆️ 50 • 💬 104 • 8h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
 
 ---
 
-**[Washington state Medicare users could soon have claims denied by AI](https://news.ycombinator.com/item?id=46197173)**
+**[Agentic AI Foundation](https://news.ycombinator.com/item?id=46209846)**
 
-Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny.
+Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 39 • 💬 5 • 1d ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
+⬆️ 39 • 💬 6 • 3h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -453,7 +453,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 687 • ❤️ 195 • 17h ago
+⬇️ 687 • ❤️ 195 • 18h ago
 
 ---
 
@@ -585,7 +585,7 @@ TwinFlow is a 1-step generative model framework that enhances inference efficien
 
 RealGen is a photorealistic text-to-image framework that uses an LLM for prompt optimization and a diffusion model for image generation, enhanced by a Detector Reward mechanism and RealBench for automated evaluation.
 
-▲ 18 • 💬 2 • ⭐ 140 • 10d ago
+▲ 18 • 💬 2 • ⭐ 168 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.00473) • [💻 code](https://github.com/yejy53/RealGen) • [🔗 project](https://yejy53.github.io/RealGen/)
 
@@ -729,7 +729,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 844 • 🔱 270 • 3d ago
+⭐ 844 • 🔱 271 • 3d ago
 
 ---
 

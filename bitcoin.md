@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T23:31:09.547899+00:00'
+updated: '2025-12-09T23:42:42.581309+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 23:31 UTC  
+**Last Updated:** December 09, 2025 at 23:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
-**7d:** -0.9%  
-**30d:** -12.5%  
-**90d:** -19.5%  
+**24h:** +2.9%  
+**7d:** -0.8%  
+**30d:** -12.4%  
+**90d:** -19.4%  
 **1y:** -3.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1850.45B
+**Market Cap:** $1854.04B
 Rank #1
 
 **Circulating Supply:** 19,959,900 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.5%
+-26.3%
 
 **All-Time Low:** $67.81
-+136555.4%
++136956.5%
 
 ---
 
@@ -113,21 +113,13 @@ The OCC is the federal authority that determines what U.S. banks are allowed to 
 
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Taste the pain first](https://www.reddit.com/r/Bitcoin/comments/1pilin2/taste_the_pain_first/)**
 
-56m ago
-
----
-
-**[I wonder how the small early investors feel right now?](https://www.reddit.com/r/Bitcoin/comments/1pi41nz/i_wonder_how_the_small_early_investors_feel_right/)**
-
-If you had put $1000 into BTC in 2010 and left it alone without further investment you'd have close to a billion dollars right now (before tax, of course). I sometimes sit and wonder if there are people who did that almost as a joke and then forgot their password or whatever lol.
-
-13h ago
+1h ago
 
 ---
 
@@ -136,6 +128,14 @@ If you had put $1000 into BTC in 2010 and left it alone without further investme
 Hi everyone, FOMC meeting will be tomorrow with the decision about potential interest rate cut. What is your expectation in terms of (a) cut itself, (b) 2026 policy (c) crypto sector (d) btc price. Any thoughts much appreciated!
 
 1h ago
+
+---
+
+**[I wonder how the small early investors feel right now?](https://www.reddit.com/r/Bitcoin/comments/1pi41nz/i_wonder_how_the_small_early_investors_feel_right/)**
+
+If you had put $1000 into BTC in 2010 and left it alone without further investment you'd have close to a billion dollars right now (before tax, of course). I sometimes sit and wonder if there are people who did that almost as a joke and then forgot their password or whatever lol.
+
+13h ago
 
 ---
 
@@ -161,7 +161,7 @@ WIRED • 13h ago
 
 **[Bitcoin Treasury Firm Backed by Tether, SoftBank Falls Sharply on First Trading Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqejYuvPULDR93fpymoKXPgPEKMT5_lq6TpH7tYa55_VOgV_yD7LmfQW&gaa_ts=6938b4a0&gaa_sig=KQXx8HfRECxlQ2PKAtdY_OYKsp5PFN7PRmNYeY9bTkaVCC3Ic-1WqjarD2iSQQwCrMBCO3eLhAzPQDXdyfkKYA%3D%3D)**
 
-The Wall Street Journal • 14h ago
+The Wall Street Journal • 15h ago
 
 ---
 
@@ -175,7 +175,7 @@ Bloomberg.com • 2h ago
 
 **[Bitcoin Price Jumps As Tether-Backed Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 17m ago
+Investor's Business Daily • 28m ago
 
 ---
 
@@ -183,7 +183,7 @@ Investor's Business Daily • 17m ago
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -197,7 +197,7 @@ Bloomberg.com • 6h ago
 
 **[Standard Chartered is finally slashing its bitcoin price target by half. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqfl9vKtmw3S3rlW4liTdaAsGMGaHkuR8kc7-I2KFIOcW34L0PYP6j8u&gaa_ts=6938b4a0&gaa_sig=RhFlZEvF7DvM9hQEhhXdEfW8bZqhJfijMAqPYx3uSGFpYRLhbkS4s2bZU6gQ2RZbo4ZOYM3L0oVWwDak4eYtZQ%3D%3D)**
 
-MarketWatch • 17m ago
+MarketWatch • 28m ago
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation o
 
 📺 Bitcoin Magazine
 
-👁️ 24K • 👍 1K • 💬 223 • ⏱️ 42:27 • 6h ago
+👁️ 24K • 👍 1K • 💬 223 • ⏱️ 42:27 • 7h ago
 
 ---
 
@@ -351,7 +351,7 @@ Let's talk about the price of #Bitcoin going into FOMC! Into The Cryptoverse Pre
 
 📺 Benjamin Cowen
 
-👁️ 54K • 👍 3K • 💬 141 • ⏱️ 9:09 • 9h ago
+👁️ 54K • 👍 3K • 💬 141 • ⏱️ 9:09 • 10h ago
 
 ---
 
@@ -391,7 +391,7 @@ Alpha Report Membership w/ Courses, Private Lives, & Trades: https://MeetKevin.c
 
 📺 Meet Kevin
 
-👁️ 22K • 👍 496 • 💬 9 • ⏱️ 1:46:01 • 5h ago
+👁️ 22K • 👍 496 • 💬 9 • ⏱️ 1:46:01 • 6h ago
 
 ---
 
@@ -401,7 +401,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Сапсан-АВТО
 
-👁️ 3K • 👍 8K • 21m ago
+👁️ 3K • 👍 8K • 32m ago
 
 ---
 
