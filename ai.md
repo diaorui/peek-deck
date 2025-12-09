@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T19:47:03.738979+00:00'
+updated: '2025-12-09T19:57:51.416390+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- social
+- news
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 19:47 UTC  
+**Last Updated:** December 09, 2025 at 19:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -51,6 +51,14 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 ---
 
+**[OpenAI Hires Slack CEO as New Chief Revenue Officer](https://www.reddit.com/r/artificial/comments/1pifikb/openai_hires_slack_ceo_as_new_chief_revenue/)**
+
+A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
+
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 1h ago
+
+---
+
 **[America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.reddit.com/r/artificial/comments/1pi8z96/americas_biggest_bitcoin_miners_are_pivoting_to_ai/)**
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
@@ -64,14 +72,6 @@ In the face of a profitability crisis, industrial-scale bitcoin miners are trans
 American AI giants are backing a new effort to establish open standards for building agentic software and tools.
 
 🔗 [WIRED](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/) • 2h ago
-
----
-
-**[OpenAI Hires Slack CEO as New Chief Revenue Officer](https://www.reddit.com/r/artificial/comments/1pifikb/openai_hires_slack_ceo_as_new_chief_revenue/)**
-
-A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
-
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 1h ago
 
 ---
 
@@ -91,19 +91,19 @@ GPT-5.2 rumored to drop today Meta acquires AI wearable company Buy groceries wi
 
 ---
 
-**[As AI wipes jobs, Google CEO Sundar Pichai says it’s up to everyday people to adapt accordingly: ‘We will have to work through societal disruption’](https://www.reddit.com/r/artificial/comments/1phpibg/as_ai_wipes_jobs_google_ceo_sundar_pichai_says/)**
-
-AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai says no job, not even his own, is safe. But those who don’t adapt will be the first to fall.
-
-🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 21h ago
-
----
-
 **[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.reddit.com/r/artificial/comments/1pib0pf/trump_says_hell_sign_executive_order_blocking/)**
 
 President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-🔗 [CNN](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws) • 3h ago
+🔗 [CNN](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws) • 4h ago
+
+---
+
+**[As AI wipes jobs, Google CEO Sundar Pichai says it’s up to everyday people to adapt accordingly: ‘We will have to work through societal disruption’](https://www.reddit.com/r/artificial/comments/1phpibg/as_ai_wipes_jobs_google_ceo_sundar_pichai_says/)**
+
+AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai says no job, not even his own, is safe. But those who don’t adapt will be the first to fall.
+
+🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 22h ago
 
 ---
 
@@ -135,7 +135,7 @@ CNBC • 7h ago
 
 **[Axios AI+ SF Summit: Experts identify the gaps in AI optimism and opportunity](https://www.axios.com/2025/12/09/axios-ai-sf-summit-gaps-in-ai-optimism-and-opportunity)**
 
-Axios • 39m ago
+Axios • 50m ago
 
 ---
 
@@ -143,13 +143,13 @@ Axios • 39m ago
 
 Shoppers may be unaware they're paying as much as 23% more than others for the same grocery items on Instacart, a new analysis says.
 
-CBS News • 26m ago
+CBS News • 37m ago
 
 ---
 
 **[OpenAI wants to take its own plan for kids’ AI safety to California voters](https://www.politico.com/news/2025/12/09/openai-ai-safety-california-kids-00683191)**
 
-Politico • 34m ago
+Politico • 45m ago
 
 ---
 
@@ -183,7 +183,7 @@ Menlo Ventures • 7h ago
 
 **[Howard Marks Says AI Is ‘Terrifying’ for Jobs, Queries Debt Cost](https://www.bloomberg.com/news/articles/2025-12-09/howard-marks-says-ai-is-terrifying-for-jobs-queries-debt-cost)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ Bloomberg.com • 1h ago
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 576 • 💬 182 • 2d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 577 • 💬 182 • 2d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -201,7 +201,7 @@ Bloomberg.com • 1h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 524 • 💬 488 • 19h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 525 • 💬 498 • 19h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -209,13 +209,13 @@ AI progress is steady. Human equivalence is sudden.
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 414 • 💬 364 • 1d ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 414 • 💬 365 • 1d ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 188 • 💬 169 • 1d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 188 • 💬 170 • 1d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -229,7 +229,13 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 63 • 💬 88 • 4h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 81 • 💬 98 • 4h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+
+---
+
+**[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
+
+⬆️ 51 • 💬 14 • 2d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -237,13 +243,15 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
 
-⬆️ 50 • 💬 100 • 4h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
+⬆️ 50 • 💬 102 • 4h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
 
 ---
 
-**[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
+**[Donating the Model Context Protocol and Establishing the Agentic AI Foundation](https://news.ycombinator.com/item?id=46207425)**
 
-⬆️ 50 • 💬 14 • 2d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+⬆️ 46 • 💬 21 • 2h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -252,12 +260,6 @@ It is examining whether the tech giant did not offer "appropriate compensation" 
 Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny.
 
 ⬆️ 39 • 💬 5 • 23h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
-
----
-
-**[The Reverse Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46176651)**
-
-⬆️ 37 • 💬 4 • 2d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington)
 
 ---
 
@@ -653,7 +655,7 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.3k • 🔱 160 • 2h ago
+⭐ 1.3k • 🔱 160 • 3h ago
 
 ---
 

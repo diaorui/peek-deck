@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T19:47:03.747986+00:00'
+updated: '2025-12-09T19:57:51.424763+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 19:47 UTC  
+**Last Updated:** December 09, 2025 at 19:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +3.3%  
-**7d:** +0.2%  
-**30d:** -11.6%  
-**90d:** -18.6%  
-**1y:** -2.7%  
+**24h:** +3.4%  
+**7d:** +0.3%  
+**30d:** -11.4%  
+**90d:** -18.5%  
+**1y:** -2.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1872.32B
+**Market Cap:** $1874.40B
 Rank #1
 
-**Circulating Supply:** 19,959,843 BTC
+**Circulating Supply:** 19,959,862 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--25.5%
+-25.6%
 
 **All-Time Low:** $67.81
-+138502.0%
++138320.6%
 
 ---
 
@@ -83,29 +83,23 @@ Rank #1
 
 ---
 
-**[What’s going on?](https://www.reddit.com/r/Bitcoin/comments/1pib08s/whats_going_on/)**
-
-3h ago
-
----
-
 **[school employee got caught secretly mining bitcoin in a crawl space under a Massachusetts high school, using the school’s electricity. Police found coolers filled with computers and estimate they used about $17,500 in power before it was unplugged.](https://www.reddit.com/r/Bitcoin/comments/1phv387/school_employee_got_caught_secretly_mining/)**
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-17h ago
-
----
-
-**[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
-
-13h ago
+18h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pier04/daily_meme_until_100000/)**
 
 1h ago
+
+---
+
+**[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
+
+13h ago
 
 ---
 
@@ -117,9 +111,11 @@ If you had put $1000 into BTC in 2010 and left it alone without further investme
 
 ---
 
-**[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
+**[Bitcoin at 94K, The Bull Is Waking Up](https://www.reddit.com/r/Bitcoin/comments/1pigoqs/bitcoin_at_94k_the_bull_is_waking_up/)**
 
-23h ago
+Bitcoin just smashed through 94k and the energy feels unreal right now, though GetAgent actually predicted this move earlier, and watching the chart rip up is extremely good, everyone thinks you’re smiling at your phone for something else, not knowing, it’s just BTC doing what it does best.
+
+29m ago
 
 ---
 
@@ -128,6 +124,12 @@ If you had put $1000 into BTC in 2010 and left it alone without further investme
 Indiana lawmakers are making history with groundbreaking legislation that would force public retirement programs to offer Bitcoin investments.
 
 🔗 [Brave New Coin](https://bravenewcoin.com/insights/indiana-becomes-first-state-to-require-bitcoin-options-in-public-retirement-plans) • 4h ago
+
+---
+
+**[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
+
+23h ago
 
 ---
 
@@ -291,7 +293,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 3h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 4h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -333,7 +335,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 3K • 💬 192 • ⏱️ 10:16 • 17h ago
+👁️ 56K • 👍 3K • 💬 192 • ⏱️ 10:16 • 18h ago
 
 ---
 

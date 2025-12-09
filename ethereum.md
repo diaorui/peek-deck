@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T19:47:03.754016+00:00'
+updated: '2025-12-09T19:57:51.430742+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - videos
+- news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 19:47 UTC  
+**Last Updated:** December 09, 2025 at 19:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.9%  
-**7d:** +5.1%  
-**30d:** -5.9%  
-**90d:** -24.9%  
-**1y:** -7.6%  
+**24h:** +7.1%  
+**7d:** +5.3%  
+**30d:** -5.7%  
+**90d:** -24.7%  
+**1y:** -7.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $406.47B
+**Market Cap:** $406.20B
 Rank #2
 
 **Circulating Supply:** 120,695,272 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--31.8%
+-32.0%
 
 **All-Time Low:** $0.43
-+778515.1%
++776893.8%
 
 ---
 
@@ -184,7 +184,7 @@ The Motley Fool • 1d ago
 
 A single mistake cost one user nearly half a million dollars, highlighting how scammers are escalating phishing attacks.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 145 • 💬 9 • ⏱️ 4:05 • 7h ago
+👁️ 2K • 👍 145 • 💬 9 • ⏱️ 4:05 • 8h ago
 
 ---
 
