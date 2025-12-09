@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T03:40:57.907555+00:00'
+updated: '2025-12-09T04:05:51.650855+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 03:40 UTC  
+**Last Updated:** December 09, 2025 at 04:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** -2.4%  
-**30d:** -12.6%  
-**90d:** -30.2%  
-**1y:** -14.1%  
+**24h:** -0.2%  
+**7d:** -2.0%  
+**30d:** -12.2%  
+**90d:** -30.0%  
+**1y:** -13.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138,452 ETH, equivalent to about US$435 million, in its latest accumulation round. This bold move boosts BitMine’s total crypto holdings significantly, reinforcing its position as one of the largest institutional holders of Ethereum (ETH) worldwide. Tom Lee and his team cited several catalysts behind this surge: the recent Fusaka upgrade to the Ethereum network — implemented 3 December — which promises improved scalability, security and usability. Additionally, macroeconomic conditions appear favorable, with expectations of a loosening monetary policy by the Federal Reserve potentially supporting broader crypto market recovery. The scale of the purchase (over 138,000 ETH in just a week) marks a dramatic acceleration compared to previous buying patterns — reportedly about 156 % more than the firm’s weekly average four weeks ago. In doing so, BitMine pushes further toward its longer-term target of controlling up to 5 % of Ethereum’s total supply. In sum, this $435 million acquisition underlines BitMine’s growing conviction in Ethereum’s long-term potential, signaling confidence in both network upgrades and macroeconomic conditions that may favor a renewed bull cycle in crypto.
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-21h ago
+22h ago
 
 ---
 
@@ -102,7 +102,7 @@ AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ether
 
 By magnitude, the biggest question for the Defi ecosystem for the next cycle is who gets to keep the yield on treasuries backing reserve stablecoins such as USDC and USDT? If secretary Bennett and the federal reserve are correct in their forecasts, we'll be at something like $3T in stablecoin market cap by 2030. At
 
-🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 8h ago
+🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 9h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 9h ago
 
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -198,7 +198,7 @@ Fortune • 5h ago
 
 **[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
 
-Binance • 11h ago
+Binance • 12h ago
 
 ---
 
@@ -206,7 +206,7 @@ Binance • 11h ago
 
 Ethereum co-founder Vitalik Buterin has unveiled a major proposal that could fundamentally reshape how the network handles transaction fees. His new design aims to replace unpredictable costs with a system that lets users plan and budget more effectively, signaling one of the most significant shift…
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
@@ -220,7 +220,7 @@ TipRanks • 1d ago
 
 The cryptocurrency market is flashing green during Monday's trading session, 8 December, 2025, prompting investors to ask why crypto is going up today .
 
-Finance Magnates • 16h ago
+Finance Magnates • 17h ago
 
 ---
 
@@ -244,7 +244,7 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 64 • 💬 46 • ⏱️ 6:25 • 14h ago
+👁️ 2K • 👍 64 • 💬 46 • ⏱️ 6:25 • 15h ago
 
 ---
 
@@ -254,7 +254,7 @@ In today's Milk Road episode, we sit down with CMT Digital's Aryan Sheikhalian t
 
 📺 Milk Road
 
-👁️ 1K • 👍 94 • 💬 79 • ⏱️ 33:06 • 7h ago
+👁️ 1K • 👍 94 • 💬 79 • ⏱️ 33:06 • 8h ago
 
 ---
 
@@ -294,7 +294,7 @@ BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available ever
 
 📺 Lark Davis
 
-👁️ 15K • 👍 778 • 💬 78 • ⏱️ 37:57 • 15h ago
+👁️ 15K • 👍 778 • 💬 78 • ⏱️ 37:57 • 16h ago
 
 ---
 

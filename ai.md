@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T03:40:57.893212+00:00'
+updated: '2025-12-09T04:05:51.629541+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- social
 - videos
+- news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 03:40 UTC  
+**Last Updated:** December 09, 2025 at 04:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai says no job, not even his own, is safe. But those who don’t adapt will be the first to fall.
 
-🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 5h ago
+🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 6h ago
 
 ---
 
@@ -63,7 +63,7 @@ AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai sa
 
 At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
 
-🔗 [withmartian.com](https://withmartian.com/prize) • 14h ago
+🔗 [withmartian.com](https://withmartian.com/prize) • 15h ago
 
 ---
 
@@ -71,7 +71,7 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming releases by names that resemble existing trademarks.
 
-🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 6h ago
+🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 7h ago
 
 ---
 
@@ -87,13 +87,13 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks big bets like Watsonx and next-gen computing will pay off.
 
-🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 13h ago
+🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 14h ago
 
 ---
 
 **[ChatGPT, Gemini, DeepSeek, Claude, Perplexity, and Grok give response to this article about what one person’s power means.](https://www.reddit.com/r/artificial/comments/1phx4v0/chatgpt_gemini_deepseek_claude_perplexity_and/)**
 
-14m ago
+39m ago
 
 ---
 
@@ -119,7 +119,7 @@ Title.
 
 **[A.I. Videos Have Flooded Social Media. No One Was Ready.](https://www.nytimes.com/2025/12/08/technology/ai-slop-sora-social-media.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 5h ago
 
 **[Nvidia Wins Trump’s Approval to Sell H200 AI Chips in China](https://www.bloomberg.com/news/articles/2025-12-08/nvidia-set-to-win-us-approval-to-export-h200-ai-chips-to-china)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Economist • 6h ago
 
 President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-CNN • 12h ago
+CNN • 13h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 7h ago
 
 Rahul Kasanagottu is an engineer at Google who pivoted to an AI role at the company after a 2.5 year upskilling journey.
 
-Business Insider • 16h ago
+Business Insider • 17h ago
 
 ---
 
@@ -177,7 +177,7 @@ Business Insider • 16h ago
 
 Alphabet Inc.’s Google said it’s working to create two different categories of artificial intelligence-powered smart glasses to compete next year with existing models from Meta Platforms Inc.: one with screens, and another that’s audio focused.
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -203,7 +203,7 @@ BBC • 3h ago
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 382 • 💬 326 • 10h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 382 • 💬 326 • 11h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -323,7 +323,7 @@ Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Fu
 
 📺 Dan Kieft
 
-👁️ 17K • 💬 18 • ⏱️ 20:04 • 10h ago
+👁️ 17K • 💬 18 • ⏱️ 20:04 • 11h ago
 
 ---
 
@@ -333,7 +333,7 @@ First, Marjorie Taylor Greene: The 2025 60 Minutes Interview. Then, researchers 
 
 📺 60 Minutes
 
-👁️ 202K • 👍 3K • 💬 684 • ⏱️ 43:37 • 15h ago
+👁️ 202K • 👍 3K • 💬 684 • ⏱️ 43:37 • 16h ago
 
 ---
 
@@ -363,7 +363,7 @@ CopilotPartner.
 
 📺 Ben Azelart
 
-👁️ 327K • 👍 8K • 💬 197 • ⏱️ 1:17 • 7h ago
+👁️ 327K • 👍 8K • 💬 197 • ⏱️ 1:17 • 8h ago
 
 ---
 
@@ -379,7 +379,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,356 • 10h ago
+⬇️ 201,990 • ❤️ 2,356 • 11h ago
 
 ---
 
@@ -481,7 +481,7 @@ LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusi
 
 `text-to-image`
 
-⬇️ 99 • ❤️ 150 • 15h ago
+⬇️ 99 • ❤️ 150 • 16h ago
 
 ---
 
@@ -633,7 +633,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.5k • 🔱 436 • 1h ago
+⭐ 5.5k • 🔱 436 • 2h ago
 
 ---
 
@@ -643,7 +643,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 11h ago
+⭐ 1.6k • 🔱 132 • 12h ago
 
 ---
 
@@ -683,7 +683,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 868 • 🔱 126 • 1h ago
+⭐ 868 • 🔱 126 • 2h ago
 
 ---
 
@@ -713,7 +713,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 835 • 🔱 45 • 29m ago
+⭐ 835 • 🔱 45 • 53m ago
 
 ---
 

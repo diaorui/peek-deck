@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T03:40:57.901524+00:00'
+updated: '2025-12-09T04:05:51.643665+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 03:40 UTC  
+**Last Updated:** December 09, 2025 at 04:05 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -4.1%  
-**30d:** -15.3%  
-**90d:** -22.1%  
-**1y:** -6.8%  
+**24h:** -1.0%  
+**7d:** -3.5%  
+**30d:** -14.8%  
+**90d:** -21.6%  
+**1y:** -6.3%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-1h ago
+2h ago
 
 ---
 
 **[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -127,7 +127,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -141,7 +141,7 @@ This article explains what changed today when the CFTC approved Bitcoin as eligi
 
 **[Your Daily Bitcoin Breakdown newsletter is now live. Check out today’s Top Stories and a sneak peek at the latest Quick Bits snippets. Full issue link is in the comments.](https://www.reddit.com/r/Bitcoin/comments/1phmm7d/your_daily_bitcoin_breakdown_newsletter_is_now/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bloomberg.com • 8h ago
 
 iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
 
-Morningstar • 16h ago
+Morningstar • 17h ago
 
 ---
 
@@ -177,7 +177,7 @@ Decrypt • 9h ago
 
 Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
 
-Financial Times • 22h ago
+Financial Times • 23h ago
 
 ---
 
@@ -199,7 +199,7 @@ Bloomberg.com • 13h ago
 
 BTC's relative weakness compared to stocks points to tepid spot demand, making the largest crypto vulnerable to macro volatility, Bitfinex analysts said.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 6h ago
 
 Traders on prediction markets are divided, giving an equal chance that bitcoin drops below $80,000 or rises above $100,000 this year....
 
-Sherwood News • 10h ago
+Sherwood News • 11h ago
 
 ---
 
@@ -301,7 +301,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 2 • 💬 0 • 12h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 2 • 💬 0 • 13h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 
@@ -345,7 +345,7 @@ Vanguard, Bank of America, and Charles Schwab just made massive moves into Bitco
 
 📺 Lark Davis
 
-👁️ 9K • 👍 614 • 💬 46 • ⏱️ 9:27 • 4h ago
+👁️ 9K • 👍 614 • 💬 46 • ⏱️ 9:27 • 5h ago
 
 ---
 
@@ -373,7 +373,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 11K • 👍 517 • 💬 355 • ⏱️ 13:29 • 21h ago
+👁️ 11K • 👍 517 • 💬 355 • ⏱️ 13:29 • 22h ago
 
 ---
 

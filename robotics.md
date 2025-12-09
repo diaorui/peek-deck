@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T03:40:57.910777+00:00'
+updated: '2025-12-09T04:05:51.654248+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 03:40 UTC  
+**Last Updated:** December 09, 2025 at 04:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most concept machines, this one is production ready and operating in Hebei Province to address the aging rural workforce. The Tech Stack: Autonomy: Uses LiDAR and RTK-GNSS for path planning with ±2.5 cm precision. It handles the entire cycle: ploughing, seeding, spraying and harvesting without a driver. Smart Sensing: Beyond just driving, it collects real-time data on soil composition, moisture, and crop health while running. Powertrain: Pure electric with a dual-motor setup (separating traction from the PTO/farming implements) for better load control. Endurance: Runs for 6 hours on a single charge and coordinates via a 5G mesh network. "Agri-Robotics" is where we are seeing the first massive wave of real world autonomy. If a single person can manage a fleet of these from a tablet, it fundamentally changes the economics of small to medium farms. Source: Lucas
 
-11h ago
+12h ago
 
 ---
 
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -58,7 +58,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
-15h ago
+16h ago
 
 ---
 
@@ -74,7 +74,7 @@ Has anyone seen how the mopping pressure is created in a robot vacuum? I would i
 
 According to Reuters, NVIDIA and SoftBank, combined, are looking to invest more than $1 billion into Skild AI.
 
-🔗 [Windows Report](https://windowsreport.com/softbank-nvidia-reportedly-in-talks-to-invest-over-1-billion-into-skild-ai/) • 9h ago
+🔗 [Windows Report](https://windowsreport.com/softbank-nvidia-reportedly-in-talks-to-invest-over-1-billion-into-skild-ai/) • 10h ago
 
 ---
 
@@ -90,7 +90,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a shelf unused and I'm sure someone out there (UK based) can make much better use of it than I can. This unit is used but in good working condition. It has the gripper attachment included and comes as part of the package. I don't have the original box anymore but I can box it up with protective materials and another suitably strong box if shipping or ideally could be collected or delivered to the new owner. The uFactory x-arm 6 is a 6 axis robot featuring a 5kg payload capacity, 700mm reach. This unit has a gripper attachment included and is compatible with multiple operating systems using the xArm studio software.
 
-10h ago
+11h ago
 
 ---
 
@@ -120,7 +120,7 @@ Tech Xplore • 12h ago
 
 The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
 
-Breaking Defense • 12h ago
+Breaking Defense • 13h ago
 
 ---
 
@@ -128,7 +128,7 @@ Breaking Defense • 12h ago
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -144,7 +144,7 @@ Interesting Engineering • 2d ago
 
 Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -168,7 +168,7 @@ South China Morning Post • 2d ago
 
 While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-Interesting Engineering • 11h ago
+Interesting Engineering • 12h ago
 
 ---
 
@@ -218,7 +218,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 3K • 👍 16 • ⏱️ 0:18 • 40m ago
+👁️ 3K • 👍 16 • ⏱️ 0:18 • 1h ago
 
 ---
 
@@ -268,7 +268,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 157K • 👍 668 • 💬 5 • ⏱️ 0:17 • 20h ago
+👁️ 157K • 👍 668 • 💬 5 • ⏱️ 0:17 • 21h ago
 
 ---
 
