@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T04:55:43.259435+00:00'
+updated: '2025-12-09T05:23:08.769013+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 04:55 UTC  
+**Last Updated:** December 09, 2025 at 05:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,952.30
+### $89,527.61
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** -4.2%  
-**30d:** -15.4%  
-**90d:** -22.2%  
-**1y:** -7.0%  
+**24h:** -2.1%  
+**7d:** -4.4%  
+**30d:** -15.6%  
+**90d:** -22.3%  
+**1y:** -7.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1795.88B
+**Market Cap:** $1794.16B
 Rank #1
 
 **Circulating Supply:** 19,959,600 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.8%
+-28.7%
 
 **All-Time Low:** $67.81
-+132322.9%
++132389.3%
 
 ---
 
@@ -87,7 +87,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 **[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -99,7 +99,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 **[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ They have a promotion going on with Ledger
 
 **[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -131,17 +131,17 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 ---
 
+**[...and then they join you.](https://www.reddit.com/r/Bitcoin/comments/1phxg26/and_then_they_join_you/)**
+
+1h ago
+
+---
+
 **[Bitcoin & the Commodity Futures Trading Comission](https://www.reddit.com/r/Bitcoin/comments/1phrucs/bitcoin_the_commodity_futures_trading_comission/)**
 
 This article explains what changed today when the CFTC approved Bitcoin as eligible collateral inside regulated U.S. derivatives markets. That decision won’t move price today, but it alters how institutions are allowed to hold and use Bitcoin. When an asset becomes collateral-grade, sell-offs stop being exits and become portfolio rotations. If the coming weeks look uneventful, it’s only because structural shifts appear long before capital moves...this piece is written so that you see what actually began.
 
 🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/bitcoin-and-the-commodity-futures) • 5h ago
-
----
-
-**[...and then they join you.](https://www.reddit.com/r/Bitcoin/comments/1phxg26/and_then_they_join_you/)**
-
-1h ago
 
 ---
 
@@ -161,23 +161,21 @@ Bloomberg.com • 9h ago
 
 iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
 
-Morningstar • 17h ago
+Morningstar • 18h ago
 
 ---
 
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
+**[IRS Rule Changes In 2026 Bitcoin, Ethereum, XRP Traders Need To Know About](https://finance.yahoo.com/news/irs-rule-changes-2026-bitcoin-033050163.html)**
 
-Which of these popular cryptocurrencies has more upside potential?
+U.S. crypto investors now have just over two weeks to execute any final sales before sweeping IRS reporting rules go live on January 1, 2026. What Happened: Beginning in 2026, centralized exchanges will be required to follow the same cost-basis ...
 
-The Motley Fool • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
+**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqfuYRt8U5JMJc6LYH6n3GlznG02rAnMkXDaJoZN2-xGsmAHbhL45yZM&gaa_ts=6937b590&gaa_sig=KMFq_5pxHEgpQddmND2T8ZFFXqzL0-KXxe8ELA2HCbfzeYiEypfAvfpzOrfCG4_IJ2rxQVYLfSm4FuqYc3bHFQ%3D%3D)**
 
-Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
-
-Financial Times • 23h ago
+MarketWatch • 6h ago
 
 ---
 
@@ -195,35 +193,31 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[IRS Rule Changes In 2026 Bitcoin, Ethereum, XRP Traders Need To Know About](https://finance.yahoo.com/news/irs-rule-changes-2026-bitcoin-033050163.html)**
+**[Bernstein reveals new Bitcoin target amid market pullback](https://www.thestreet.com/crypto/trading/bernstein-new-bitcoin-prediction)**
 
-U.S. crypto investors now have just over two weeks to execute any final sales before sweeping IRS reporting rules go live on January 1, 2026. What Happened: Beginning in 2026, centralized exchanges will be required to follow the same cost-basis ...
-
-Yahoo Finance • 1h ago
+TheStreet • 11h ago
 
 ---
 
-**[Texas launches cryptocurrency reserve with $5M Bitcoin purchase](https://www.businessreport.com/article/texas-launches-cryptocurrency-reserve-with-5m-bitcoin-purchase)**
+**[Bitcoin Price (BTC) Analysis: Weakness Versus Stocks Speaks to Tepid Demand](https://www.coindesk.com/markets/2025/12/08/bitcoin-treads-water-near-usd90k-as-bitfinex-warns-of-fragile-setup-to-shocks)**
 
-Texas has launched its new cryptocurrency reserve with a $5 million purchase of Bitcoin as the state continues to embrace the volatile and controversial digital currency. The Texas Comptroller’s Office confirmed the purchase was made last month as a “placeholder investment” while the office works to contract with a cryptocurrency bank to manage its portfolio. […]
+BTC's relative weakness compared to stocks points to tepid spot demand, making the largest crypto vulnerable to macro volatility, Bitfinex analysts said.
 
-Baton Rouge Business Report • 8h ago
-
----
-
-**[Why Investors Shouldn't Romanticize Bitcoin, From a Financial Planner](https://www.kiplinger.com/investing/cryptocurrency/why-investors-shouldnt-romanticize-bitcoin)**
-
-Investors should treat bitcoin as the volatile, high-risk asset it is. A look at the data, along with comparisons to the Magnificent 7 stocks, indicates a small (1% to 2%) portfolio allocation for most investors would be the safest.
-
-Kiplinger • 18h ago
+CoinDesk • 8h ago
 
 ---
 
-**[What the First Divergence of Stock and Bitcoin Returns in 10 Years Means](https://www.businessinsider.com/stock-market-bitcoin-return-correlation-divergence-explained-outlook-2025-12)**
+**[Bitcoin Traders Target $20K Bitcoin Strike as Deep Out of the Money Options Gain Traction](https://www.coindesk.com/markets/2025/12/08/bitcoin-traders-target-usd20k-bitcoin-strike-as-deep-out-of-the-money-options-gain-traction)**
 
-If the stock market is up, bitcoin usually is too. But this year has been different.
+These flows represent a bullish bet on volatility rather than a downside hedge or outright bearish position.
 
-Business Insider • 17h ago
+CoinDesk • 52m ago
+
+---
+
+**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
+
+Reuters • 15m ago
 
 ---
 
@@ -279,7 +273,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 9 • 💬 0 • 21h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 9 • 💬 0 • 22h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -301,7 +295,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 2 • 💬 0 • 13h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 2 • 💬 0 • 14h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 
@@ -315,7 +309,7 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 187K • 👍 8K • 💬 892 • ⏱️ 20:03 • 8h ago
+👁️ 187K • 👍 8K • 💬 892 • ⏱️ 20:03 • 9h ago
 
 ---
 
@@ -325,7 +319,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 16K • 👍 725 • 💬 196 • ⏱️ 9:22 • 13h ago
+👁️ 16K • 👍 725 • 💬 196 • ⏱️ 9:22 • 14h ago
 
 ---
 
@@ -345,7 +339,7 @@ Vanguard, Bank of America, and Charles Schwab just made massive moves into Bitco
 
 📺 Lark Davis
 
-👁️ 9K • 👍 614 • 💬 46 • ⏱️ 9:27 • 5h ago
+👁️ 9K • 👍 614 • 💬 46 • ⏱️ 9:27 • 6h ago
 
 ---
 
@@ -383,7 +377,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 199 • ⏱️ 37:28 • 13h ago
+👁️ 30K • 👍 1K • 💬 199 • ⏱️ 37:28 • 14h ago
 
 ---
 
