@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T19:36:09.038544+00:00'
+updated: '2025-12-09T19:47:03.738979+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 19:36 UTC  
+**Last Updated:** December 09, 2025 at 19:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -71,7 +71,7 @@ American AI giants are backing a new effort to establish open standards for buil
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 49m ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 1h ago
 
 ---
 
@@ -135,7 +135,7 @@ CNBC • 7h ago
 
 **[Axios AI+ SF Summit: Experts identify the gaps in AI optimism and opportunity](https://www.axios.com/2025/12/09/axios-ai-sf-summit-gaps-in-ai-optimism-and-opportunity)**
 
-Axios • 28m ago
+Axios • 39m ago
 
 ---
 
@@ -143,13 +143,13 @@ Axios • 28m ago
 
 Shoppers may be unaware they're paying as much as 23% more than others for the same grocery items on Instacart, a new analysis says.
 
-CBS News • 15m ago
+CBS News • 26m ago
 
 ---
 
 **[OpenAI wants to take its own plan for kids’ AI safety to California voters](https://www.politico.com/news/2025/12/09/openai-ai-safety-california-kids-00683191)**
 
-Politico • 23m ago
+Politico • 34m ago
 
 ---
 
@@ -331,7 +331,7 @@ President Trump is renewing his push to ban state AI regulations.
 
 📺 WKRN News 2
 
-👁️ 2K • 👍 12 • 💬 11 • ⏱️ 2:16 • 20h ago
+👁️ 2K • 👍 12 • 💬 11 • ⏱️ 2:16 • 21h ago
 
 ---
 
@@ -633,7 +633,7 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.6k • 🔱 443 • 11h ago
+⭐ 5.6k • 🔱 443 • 12h ago
 
 ---
 

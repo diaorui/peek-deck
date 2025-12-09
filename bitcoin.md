@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T19:36:09.047149+00:00'
+updated: '2025-12-09T19:47:03.747986+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- cryptocurrency
 - videos
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 19:36 UTC  
+**Last Updated:** December 09, 2025 at 19:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,955.82
+### $93,795.88
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.2%  
-**7d:** +0.1%  
+**24h:** +3.3%  
+**7d:** +0.2%  
 **30d:** -11.6%  
-**90d:** -18.7%  
-**1y:** -2.8%  
+**90d:** -18.6%  
+**1y:** -2.7%  
 
 ---
 
@@ -99,7 +99,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -161,7 +161,7 @@ WIRED • 9h ago
 
 Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 3h ago
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 59m ago
+CNBC • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNBC • 59m ago
 
 The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -199,7 +199,7 @@ PR Newswire • 6h ago
 
 The move is the latest example of a traditional financial services provider offering digital asset trading through its own platform — a role still primarily filled by cryptocurrency exchanges such as Coinbase.  Through its partnership with PNC, Coinbase provides broker services and technology integration, facilitating trades of any amount of Bitcoin, according to Brett Tejpaul, co-CEO of Coinbase Institutional.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -363,7 +363,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 9K • 👍 350 • 💬 534 • ⏱️ 15:38 • 13h ago
+👁️ 9K • 👍 350 • 💬 534 • ⏱️ 15:38 • 14h ago
 
 ---
 
@@ -393,7 +393,7 @@ Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation o
 
 📺 Bitcoin Magazine
 
-👁️ 4K • 👍 417 • 💬 72 • ⏱️ 42:27 • 2h ago
+👁️ 4K • 👍 417 • 💬 72 • ⏱️ 42:27 • 3h ago
 
 ---
 
@@ -403,7 +403,7 @@ Alpha Report Membership w/ Courses, Private Lives, & Trades: https://MeetKevin.c
 
 📺 Meet Kevin
 
-👁️ 16K • 👍 461 • 💬 7 • ⏱️ 1:46:01 • 1h ago
+👁️ 16K • 👍 461 • 💬 7 • ⏱️ 1:46:01 • 2h ago
 
 ---
 
