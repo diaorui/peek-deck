@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T05:54:13.861339+00:00'
+updated: '2025-12-09T06:29:56.581807+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- social
 - videos
 - repositories
-- social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 05:54 UTC  
+**Last Updated:** December 09, 2025 at 06:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
 
-🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 9h ago
+🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 10h ago
 
 ---
 
@@ -67,14 +67,6 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 ---
 
-**["I'm worried that instead of building AI that will actually advance us as a species, we are optimizing for AI slop instead. We're basically teaching our models to chase dopamine instead of truth. I used to work on social media, and every time we optimize for engagement, terrible things happen."](https://www.reddit.com/r/artificial/comments/1phbzrg/im_worried_that_instead_of_building_ai_that_will/)**
-
-Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
-
-16h ago
-
----
-
 **[OpenAI Should Stop Naming Its Creations After Products That Already Exist](https://www.reddit.com/r/artificial/comments/1phnxgh/openai_should_stop_naming_its_creations_after/)**
 
 From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming releases by names that resemble existing trademarks.
@@ -83,11 +75,19 @@ From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming r
 
 ---
 
+**["I'm worried that instead of building AI that will actually advance us as a species, we are optimizing for AI slop instead. We're basically teaching our models to chase dopamine instead of truth. I used to work on social media, and every time we optimize for engagement, terrible things happen."](https://www.reddit.com/r/artificial/comments/1phbzrg/im_worried_that_instead_of_building_ai_that_will/)**
+
+Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
+
+17h ago
+
+---
+
 **[Why IBM’s CEO doesn’t think current AI tech can get to AGI](https://www.reddit.com/r/artificial/comments/1phd30j/why_ibms_ceo_doesnt_think_current_ai_tech_can_get/)**
 
 IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks big bets like Watsonx and next-gen computing will pay off.
 
-🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 15h ago
+🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 16h ago
 
 ---
 
@@ -103,7 +103,7 @@ The president announced the plans to create one rulebook for AI via his Truth So
 
 Title.
 
-8h ago
+9h ago
 
 ---
 
@@ -111,7 +111,7 @@ Title.
 
 Google’s AI try-on app Doppl adds a shoppable discovery feed.[1] Claude Code is coming to Slack, and that’s a bigger deal than it sounds.[2] Google Colab Integrates KaggleHub for One Click Access to Kaggle Datasets, Models and Competitions.[3] Trump says AI executive order limiting state rules coming this week.[4] Sources: [1] https://techcrunch.com/2025/12/08/googles-ai-try-on-app-doppl-adds-a-shoppable-discovery-feed/ [2] https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/ [3] https://www.marktechpost.com/2025/12/07/google-colab-integrates-kagglehub-for-one-click-access-to-kaggle-datasets-models-and-competitions/ [4] https://www.politico.com/news/2025/12/08/trump-says-ai-executive-order-limiting-state-rules-coming-this-week-00680557
 
-10m ago
+46m ago
 
 ---
 
@@ -121,31 +121,7 @@ Google’s AI try-on app Doppl adds a shoppable discovery feed.[1] Claude Code i
 
 **[A.I. Videos Have Flooded Social Media. No One Was Ready.](https://www.nytimes.com/2025/12/08/technology/ai-slop-sora-social-media.html)**
 
-The New York Times • 10h ago
-
----
-
-**[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws)**
-
-President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
-
-CNN • 14h ago
-
----
-
-**[Jamie Dimon on our AI future: fewer jobs and 'working less hard, but having wonderful lives'](https://www.businessinsider.com/jamie-dimon-jpmorgan-ai-cut-jobs-work-less-wonderful-lives-2025-12)**
-
-Jamie Dimon says AI will cut jobs before delivering big benefits, including a future where people work "less hard" and enjoy "wonderful lives."
-
-Business Insider • 50m ago
-
----
-
-**[WTF is AI citation tracking?](https://digiday.com/media/wtf-is-ai-citation-tracking/)**
-
-Publishers are tracking AI citations to understand visibility, attribution gaps and referral traffic in these tools and platforms.
-
-Digiday • 52m ago
+The New York Times • 11h ago
 
 ---
 
@@ -153,33 +129,27 @@ Digiday • 52m ago
 
 Scammers and hackers are using artificial intelligence to dupe them for their own gain. Here’s what to know to avoid falling victim to them.
 
-NBC4 Los Angeles • 26m ago
-
----
-
-**[What’s next in AI: 7 trends to watch in 2026](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/)**
-
-Seven AI trends to watch in 2026 will make AI a true partner — boosting teamwork, security, research momentum and infrastructure efficiency.
-
-Microsoft Source • 12h ago
+NBC4 Los Angeles • 1h ago
 
 ---
 
 **[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
 
-The Economist • 8h ago
+The Economist • 9h ago
 
 ---
 
-**[Investing In Unconventional AI: Biology-Scale Efficiency For The AI Era](https://lsvp.com/stories/investing-in-unconventional-ai-biology-scale-efficiency-for-the-ai-era/)**
+**[Trump gives Nvidia the OK to sell advanced AI chips to China](https://www.bbc.com/news/articles/ckg9q635q6po)**
 
-Lightspeed Venture Partners • 11h ago
+Nvidia had been at the centre of a geopolitical tug-of-war between the US and China in recent months.
+
+BBC • 4h ago
 
 ---
 
-**[Nvidia Wins Trump’s Approval to Sell H200 AI Chips in China](https://www.bloomberg.com/news/articles/2025-12-08/nvidia-set-to-win-us-approval-to-export-h200-ai-chips-to-china)**
+**[AI Computer Startup Hits $4.5 Billion Valuation in Seed Round](https://www.bloomberg.com/news/articles/2025-12-08/ai-computer-startup-hits-4-5-billion-valuation-in-seed-round)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -191,13 +161,39 @@ NBC News • 5h ago
 
 ---
 
+**[DeSantis: Trump’s AI order ‘can’t preempt’ states from taking action](https://www.politico.com/news/2025/12/08/desantis-trump-ai-order-states-action-00681301)**
+
+Politico • 9h ago
+
+---
+
+**[Trump to issue order creating national AI rule](https://www.reuters.com/world/trump-says-he-will-sign-executive-order-this-week-ai-approval-process-2025-12-08/)**
+
+Reuters • 9h ago
+
+---
+
+**[Investing In Unconventional AI: Biology-Scale Efficiency For The AI Era](https://lsvp.com/stories/investing-in-unconventional-ai-biology-scale-efficiency-for-the-ai-era/)**
+
+Lightspeed Venture Partners • 12h ago
+
+---
+
+**[Cursor internal AI Help Desk handles 80% of employees' support tickets](https://fortune.com/2025/12/08/cursor-developed-an-internal-ai-help-desk-that-handles-80-of-its-employees-support-tickets-says-the-29-billion-startups-ceo/)**
+
+The AI coding-assistant start-up isn't just using artificial intelligence to help developers write code, it's deploying AI across its own internal operations, CEO Michael Truell said at Fortune's Brainstorm AI conference.
+
+Fortune • 6h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 572 • 💬 179 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 573 • 💬 178 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -205,7 +201,7 @@ NBC News • 5h ago
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 386 • 💬 328 • 12h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 390 • 💬 329 • 13h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -213,13 +209,13 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 269 • 💬 176 • 5h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 289 • 💬 182 • 6h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 132 • 💬 125 • 12h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 138 • 💬 128 • 12h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -253,7 +249,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny.
 
-⬆️ 35 • 💬 4 • 9h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
+⬆️ 35 • 💬 4 • 10h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
 
 ---
 
@@ -275,7 +271,7 @@ JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, cryp
 
 📺 Fox Business
 
-👁️ 54K • 👍 1K • 💬 318 • ⏱️ 18:47 • 13h ago
+👁️ 54K • 👍 1K • 💬 318 • ⏱️ 18:47 • 14h ago
 
 ---
 
@@ -285,7 +281,7 @@ Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS
 
 📺 AI Revolution
 
-👁️ 10K • 👍 454 • 💬 26 • ⏱️ 13:12 • 5h ago
+👁️ 10K • 👍 454 • 💬 26 • ⏱️ 13:12 • 6h ago
 
 ---
 
@@ -295,7 +291,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTE
 
 📺 Anastasi In Tech
 
-👁️ 79K • 👍 6K • 💬 768 • ⏱️ 31:03 • 8h ago
+👁️ 79K • 👍 6K • 💬 768 • ⏱️ 31:03 • 9h ago
 
 ---
 
@@ -381,7 +377,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,364 • 13h ago
+⬇️ 201,990 • ❤️ 2,365 • 13h ago
 
 ---
 
@@ -393,7 +389,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 544 • 1h ago
+⬇️ 40,450 • ❤️ 546 • 2h ago
 
 ---
 
@@ -405,7 +401,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 28,778 • ❤️ 824 • 7d ago
+⬇️ 28,778 • ❤️ 825 • 7d ago
 
 ---
 
@@ -415,7 +411,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 277 • 6d ago
+⬇️ 0 • ❤️ 278 • 6d ago
 
 ---
 
@@ -449,7 +445,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 3,573 • ❤️ 392 • 6d ago
+⬇️ 3,573 • ❤️ 394 • 6d ago
 
 ---
 
@@ -461,19 +457,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 0 • ❤️ 159 • 21m ago
-
----
-
-**[Ministral-3-14B-Instruct-2512](https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512)**
-
-*Mistral AI_*
-
-Ministral 3 14B Instruct is a powerful, edge-optimized multilingual vision-language model fine-tuned for instruction tasks. It excels in chat, agentic use cases with native function calling, and local deployments due to its FP8 quantization and 256k context window.
-
-`13.9B`
-
-⬇️ 179,920 • ❤️ 155 • 3d ago
+⬇️ 0 • ❤️ 164 • 56m ago
 
 ---
 
@@ -485,7 +469,19 @@ LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusi
 
 `text-to-image`
 
-⬇️ 99 • ❤️ 155 • 18h ago
+⬇️ 99 • ❤️ 156 • 31m ago
+
+---
+
+**[GLM-4.6V](https://huggingface.co/zai-org/GLM-4.6V)**
+
+*Z.ai*
+
+GLM-4.6V is a multimodal model supporting image-text-to-text generation with native function calling for vision-driven tool use. It excels at multimodal document understanding (up to 128k tokens), interleaved content generation, and frontend replication from UI screenshots.
+
+`image-text-to-text` `107.7B`
+
+⬇️ 0 • ❤️ 156 • 54m ago
 
 ---
 
@@ -543,7 +539,7 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 153 • 💬 4 • ⭐ 542 • 4d ago
+▲ 153 • 💬 4 • ⭐ 542 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
 
@@ -555,7 +551,7 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 RealGen is a photorealistic text-to-image framework that uses an LLM for prompt optimization and a diffusion model for image generation, enhanced by a Detector Reward mechanism and RealBench for automated evaluation.
 
-▲ 11 • 💬 2 • ⭐ 65 • 9d ago
+▲ 12 • 💬 2 • ⭐ 105 • 9d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.00473) • [💻 code](https://github.com/yejy53/RealGen) • [🔗 project](https://yejy53.github.io/RealGen/)
 
@@ -637,7 +633,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.5k • 🔱 436 • 3h ago
+⭐ 5.5k • 🔱 436 • 4h ago
 
 ---
 
@@ -677,7 +673,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 996 • 🔱 123 • 7h ago
+⭐ 997 • 🔱 123 • 7h ago
 
 ---
 
@@ -687,7 +683,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 906 • 🔱 128 • 4h ago
+⭐ 986 • 🔱 136 • 4h ago
 
 ---
 
@@ -697,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 866 • 🔱 58 • 8d ago
+⭐ 870 • 🔱 58 • 8d ago
 
 ---
 
@@ -717,7 +713,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 835 • 🔱 45 • 2h ago
+⭐ 835 • 🔱 45 • 3h ago
 
 ---
 
@@ -727,7 +723,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 819 • 🔱 267 • 2d ago
+⭐ 822 • 🔱 267 • 2d ago
 
 ---
 

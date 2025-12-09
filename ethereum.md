@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T05:54:13.875755+00:00'
+updated: '2025-12-09T06:29:56.596274+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 05:54 UTC  
+**Last Updated:** December 09, 2025 at 06:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,37 +42,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.7%  
-**7d:** -2.5%  
-**30d:** -12.7%  
-**90d:** -30.4%  
-**1y:** -14.3%  
+**24h:** -0.9%  
+**7d:** -2.8%  
+**30d:** -13.0%  
+**90d:** -30.5%  
+**1y:** -14.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.94B
+**Market Cap:** $375.14B
 Rank #2
 
 **Circulating Supply:** 120,695,272 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.1%
+-37.3%
 
 **All-Time Low:** $0.43
-+717863.2%
++716138.0%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion December 09, 2025](https://www.reddit.com/r/ethereum/comments/1phzxfu/daily_general_discussion_december_09_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+29m ago
+
+---
+
 **[Tom Lee's 'BitMine' buys 138,452 $ETH worth $435 million.](https://www.reddit.com/r/ethereum/comments/1phef9k/tom_lees_bitmine_buys_138452_eth_worth_435_million/)**
 
 JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138,452 ETH, equivalent to about US$435 million, in its latest accumulation round. This bold move boosts BitMine’s total crypto holdings significantly, reinforcing its position as one of the largest institutional holders of Ethereum (ETH) worldwide. Tom Lee and his team cited several catalysts behind this surge: the recent Fusaka upgrade to the Ethereum network — implemented 3 December — which promises improved scalability, security and usability. Additionally, macroeconomic conditions appear favorable, with expectations of a loosening monetary policy by the Federal Reserve potentially supporting broader crypto market recovery. The scale of the purchase (over 138,000 ETH in just a week) marks a dramatic acceleration compared to previous buying patterns — reportedly about 156 % more than the firm’s weekly average four weeks ago. In doing so, BitMine pushes further toward its longer-term target of controlling up to 5 % of Ethereum’s total supply. In sum, this $435 million acquisition underlines BitMine’s growing conviction in Ethereum’s long-term potential, signaling confidence in both network upgrades and macroeconomic conditions that may favor a renewed bull cycle in crypto.
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +88,7 @@ JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -94,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ethereum, I’m Amey - Ratings Director at Bluechip. Stablecoins offer a cheaper way to make cross-border transactions and a more reliable way to save in economies with high inflation or unstable financial systems. But how can you tell which stablecoins are truly stable? Our SMIDGE rating framework analyzes six economic factors and assigns letter-grade ratings (from F to A+) to identify the most reliable stablecoins. You can read the full framework on our website here. Essentially, the SMIDGE framework evaluates - Stability - collateral quality, asset segregation, core stability mechanism Management - track record of team, jurisdiction, accountability to token holders Implementation - technical risk (currently not tracked) Decentralization - censorship risk, blacklisting (only for crypto-backed stablecoins) Governance - regulatory protections, redemption terms, voting systems External - market sentiment (currently not tracked) We take a crypto-native, independent, and data-driven approach to stablecoin ratings. Our framework is the first publicly available, factor-based risk model for evaluating stablecoins. Our ratings are publicly available on our website here. Currently, USDT is rated D and USDC is rated B+ by Bluechip. Last month, we partnered with the Ethereum Foundation to host Bluechip25 in Vienna, the first global conference dedicated to crypto safety. Sign up for updates on next year's Bluechip26 on our website here. We also host a podcast called Bluechip Dialogues, where our Chief Economist Garett Jones interviews leading figures in crypto. Watch the latest episode with the creator of Facebook’s stablecoin project Diem (formerly Libra) here. Follow us on Twitter here or LinkedIn here or Telegram channel here. Ask us anything! I'll be around to answer your questions over the following days.
 
-18h ago
+19h ago
 
 ---
 
@@ -102,21 +110,13 @@ AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ether
 
 By magnitude, the biggest question for the Defi ecosystem for the next cycle is who gets to keep the yield on treasuries backing reserve stablecoins such as USDC and USDT? If secretary Bennett and the federal reserve are correct in their forecasts, we'll be at something like $3T in stablecoin market cap by 2030. At
 
-🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 10h ago
+🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 11h ago
 
 ---
 
 **[Part Eight: Apparently I Did It Wrong](https://www.reddit.com/r/ethereum/comments/1pgnd03/part_eight_apparently_i_did_it_wrong/)**
 
 This is Part Eight! The very last chapter of the eight-part series: Can I Pay With This: A stablecoin experiment in Buenos Aires (finally!). Thank you to the Ethereum Foundation and the EV Mavericks for their support, without which this experiment could never have happened. Table of Contents Part One: Decentralized or Destitute <-- New? Start here. Money, monkeys and mild terror Part Two: First Contact with Reality KYC on a hostel bunk bed Part Three: WE ACCEPT BITCOIN (sort of) Worst title for an Ethereum subreddit ever Part Four: Eighteen Ways to Pay for Ice Cream Stablecoins, FX hell and a missing keyboard Part Five: Going Bankless From tourist shop hack to cueva contact Part Six: Trustless, My Ass Trading with the Blue Man Part Seven: Custodial Services Self-custody is easy, luggage custody is hard Part Eight: Apparently I Did It Wrong <-- You are here "You should have just used X, bro." When I get back to Buenos Aires, suddenly everyone is talking about crypto adoption. It's a week before the conference and people are exchanging tips. "You can trade USDT for pesos at any exchange," people tell me knowingly. "Where, exactly?" Not a single one of them is able to give me a location. There are exchange houses, they say with a bit of hand waving. Just look for USDT stickers on the window along with the dollar and euro currency symbols. When I point out that I've been here for three weeks and not seen a single one, I'm told it's because I was staying in the wrong part of Buenos Aires. "Go to Palermo, they are everywhere." I go to Palermo. They are definitely not everywhere. I ask at an exchange, in case there just isn't a sign. No: no cripto. I ask other conference goers if they've seen any exchanges that take USDT. No one has. A few days later, one person in the conference Telegram group sends a photograph of an exchange that takes USDT. Success! The sign is explicit though: TRON only. I don't bother visiting. At the cypherpunk conference, I speak to a Buenos Aires resident who refuses to do KYC on principle. I can't think of another city where you could exist without KYC. But when I point out how complicated I've found it to trade stablecoins for cash, he is surprised. Initially he says that the exchanges are everywhere but accepts my lived experience, that I never found a single one. He laughs when I tell him how frightened I was to meet with Blue. It's perfectly safe, he tells me. And yes, delivering the money through a man on a motorbike is common, although he concedes that maybe not on the first trade. But for visitors to the country, foreigners, doesn't he think that it's a bigger risk? I feel like even asking the question is making myself a target. "That's what community is for," he tells me. "You ask your friends, you get told where to go." Friends? Not only do I have to dodge scammers, guard seed phrases and pretend I understand half the apps I'm using. Now I have to have friends? OK... I do have friends, technically. But the Venn diagram of "people who like me", "people who use crypto" and "people who understand Argentina's financial underworld" is just three circles in the shape of a snowman. He takes a bit of a breath, as if summoning patience, and tells me that the point is to trust the community. Ask on Twitter! Twitter? That same Twitter that told me I don't need cash in Buenos Aires? That's who he thinks I should ask? He agrees that maybe Twitter isn't the best example of a web of trust. But really, trading with someone like Blue is very safe, he tells me, and borderline accuses me of having trust issues. He might have a point. A herd of new payment apps explodes onto the scene in the week leading up to the conference. I keep putting $20 into each app's wallet and hoping I remember to pull it all back out at the end. I pay using stablecoin cards and QR payment systems all over the city. Most of these allow me to pay in stablecoins while the vendor receives pesos. One very clever app pushes daily updates as they on-board restaurants all over the city, allowing the merchant to receive my stablecoins directly, without conversion. By the time I leave Buenos Aires, they've signed up over two dozen cafés and restaurants. The first QR-payment app that I installed has a big breakthrough during the conference: integration with a set of ATMs allowing the user to withdraw cash. Another QR-based app ticks all my boxes: they connect me directly to buyers; I tell them how many USDT I need to pay my bill and once someone agrees to the purchase, I scan the QR code and they pay the merchant on my behalf. There's no KYC and no permission needed, just an online marketplace which works amazingly well. Meanwhile, all conference attendees are given a newbie-friendly wallet built into the Devconnect app, which allows them to pay for everything at the conference using stablecoins or crypto, no need for pesos at all. These innovative approaches can only flourish in certain environments. Someone commented that Buenos Aires was perfectly positioned to be Ground Zero for crypto adoption. I agree. Maybe stablecoins aren’t a revolution here, but they are already accepted as another tool in the box. The big difference was that my community had arrived. Devconnect 2025 had brought thousands of people to a conference hall in Buenos Aires to talk about exactly these problems and to offer solutions. Obviously, physical exchanges that take USDT do exist. Once you find one, never again will you have to peer into shop windows looking like an orphan on Christmas Eve. There's an active P2P community centered around Binance. Motorbike couriers with envelopes of money are apparently an accepted part of local finance, even if I declined to partake. People don't flinch when you mention crypto. That's more than I can say for my hometown. Whatever comes next won’t be clean or ideological. It’ll look like Buenos Aires: improvised, relentless, and somehow functioning against the odds. In the end, I proved that it is possible to deal with day-to-day life using stablecoins, if not in a wholly decentralized and permissionless manner. With more local knowledge, I could mostly live on stablecoins without KYC, by converting to cash and being choosy about which shops and restaurants I frequented. No, the people of Buenos Aires do not use stablecoins for transactions on a daily basis. There is clearly very little mainstream adoption of crypto payments. Right now, the main advantage of stablecoin apps and payment systems in Buenos Aires is that last-minute conversion to traditional rails and pesos. But even that is a jump forward. The infrastructure exists. The current regulatory space allows for experimentation. People are already aware of the benefits of holding savings in stablecoin. The QR payment system is standardized, waiting to be plugged into. Developers are building, not debating whether to start. Call it early adoption, call it survival instinct. Whatever it is, Buenos Aires is ready long before anyone else is. Right now, they are not using Ethereum for their financial freedom. But they could. Buenos Aires isn’t running on stablecoins yet. But if any city decides to, it’ll be this one. This was an EVMavericks production.
-
-1d ago
-
----
-
-**[Daily General Discussion December 07, 2025](https://www.reddit.com/r/ethereum/comments/1pgazhx/daily_general_discussion_december_07_2025/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
 
@@ -130,19 +130,19 @@ I copied and pasted for ease of access. Maybe Vitalik can make an update to rais
 
 ---
 
+**[Daily General Discussion December 07, 2025](https://www.reddit.com/r/ethereum/comments/1pgazhx/daily_general_discussion_december_07_2025/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+2d ago
+
+---
+
 **[Where can I buy tiny amounts of ETH for gas funds](https://www.reddit.com/r/ethereum/comments/1pglzfh/where_can_i_buy_tiny_amounts_of_eth_for_gas_funds/)**
 
 I'm extremely new to crypto, I bought USDT on Binance and that I then transferred to localcoinswap using erc-20 without realizing that I need ETH on the account to actually do any transfer in or out of the platform or to actually do swaps between coins on the platform itself, are there any services that allow buying small amounts of ETH for these transfers?
 
 1d ago
-
----
-
-**[Can someone explain what the brothers actually did to the blockchain? Article says they added a bunch of zeros.](https://www.reddit.com/r/ethereum/comments/1pft37m/can_someone_explain_what_the_brothers_actually/)**
-
-Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 million from Ethereum traders in a blindingly fast fraud.
-
-🔗 [Business Insider](https://www.businessinsider.com/mistrial-mit-brothers-crypto-ethereum-sandwich-bots-peraire-buono-2025-11) • 2d ago
 
 ---
 
@@ -154,7 +154,7 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 The CFTC has introduced a pilot allowing Bitcoin, Ethereum, and USDC to be used as margin, while updating rules to support tokenized assets.
 
-Decrypt • 7h ago
+Decrypt • 8h ago
 
 ---
 
@@ -164,39 +164,27 @@ The Block • 15h ago
 
 ---
 
-**[Ether (ETH) ETF News: Staked Ether ETF (ETHB) Coming From BlackRock](https://www.coindesk.com/markets/2025/12/08/blackrock-files-for-staked-ethereum-etf-aiming-to-bring-yield-to-the-masses)**
-
-The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
-
-CoinDesk • 15h ago
-
----
-
 **[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
 
 Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-Decrypt • 11h ago
+Decrypt • 12h ago
 
 ---
 
-**[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
+**[Ether (ETH) ETF News: Staked Ether ETF (ETHB) Coming From BlackRock](https://www.coindesk.com/markets/2025/12/08/blackrock-files-for-staked-ethereum-etf-aiming-to-bring-yield-to-the-masses)**
 
-Binance • 13h ago
+The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
 
----
-
-**[IRS Rule Changes In 2026 Bitcoin, Ethereum, XRP Traders Need To Know About](https://finance.yahoo.com/news/irs-rule-changes-2026-bitcoin-033050163.html)**
-
-U.S. crypto investors now have just over two weeks to execute any final sales before sweeping IRS reporting rules go live on January 1, 2026. What Happened: Beginning in 2026, centralized exchanges will be required to follow the same cost-basis ...
-
-Yahoo Finance • 2h ago
+CoinDesk • 16h ago
 
 ---
 
-**[XRP Blasts Past Bitcoin and Ethereum Sell-offs, Analyst Declares Rally Will Hit on ‘Promising Fundamentals’](https://www.tipranks.com/news/xrp-blasts-past-bitcoin-and-ethereum-selloffs-analyst-declares-rally-will-hit-on-promising-fundamentals)**
+**[Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds](https://finance.yahoo.com/news/tom-lee-bitmine-buys-429-162833185.html)**
 
-TipRanks • 16h ago
+Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
+
+Yahoo Finance • 14h ago
 
 ---
 
@@ -204,7 +192,7 @@ TipRanks • 16h ago
 
 The trading platform dives further into digital assets both domestically and globally.
 
-Fortune • 7h ago
+Fortune • 8h ago
 
 ---
 
@@ -216,11 +204,25 @@ The Motley Fool • 1d ago
 
 ---
 
+**[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
+
+Binance • 14h ago
+
+---
+
 **[Ethereum Founder Breaks Silence With Major Upgrade Proposal](https://www.tradingview.com/news/newsbtc:3ee27326c094b:0-ethereum-founder-breaks-silence-with-major-upgrade-proposal/)**
 
 Ethereum co-founder Vitalik Buterin has unveiled a major proposal that could fundamentally reshape how the network handles transaction fees. His new design aims to replace unpredictable costs with a system that lets users plan and budget more effectively, signaling one of the most significant shift…
 
-TradingView • 17h ago
+TradingView • 18h ago
+
+---
+
+**[Why Crypto Is Going Up Today? Bitcoin, XRP Price, Ethereum and Dogecoin Jump Ahead of Fed Decision This Week](https://www.financemagnates.com/trending/why-crypto-is-going-up-today-bitcoin-xrp-price-ethereum-and-dogecoin-jump-ahead-of-fed-decision-this-week/)**
+
+The cryptocurrency market is flashing green during Monday's trading session, 8 December, 2025, prompting investors to ask why crypto is going up today .
+
+Finance Magnates • 19h ago
 
 ---
 
@@ -234,7 +236,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 6K • 👍 302 • 💬 149 • ⏱️ 12:46 • 11h ago
+👁️ 6K • 👍 302 • 💬 149 • ⏱️ 12:46 • 12h ago
 
 ---
 
@@ -244,7 +246,7 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 68 • 💬 46 • ⏱️ 6:25 • 16h ago
+👁️ 2K • 👍 68 • 💬 46 • ⏱️ 6:25 • 17h ago
 
 ---
 
@@ -274,7 +276,7 @@ The momentum behind the BlackRock ETH ETF could be the exact spark that launches
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 504 • 💬 14 • ⏱️ 49:44 • 13h ago
+👁️ 7K • 👍 504 • 💬 14 • ⏱️ 49:44 • 14h ago
 
 ---
 
@@ -294,7 +296,7 @@ BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available ever
 
 📺 Lark Davis
 
-👁️ 15K • 👍 780 • 💬 78 • ⏱️ 37:57 • 17h ago
+👁️ 15K • 👍 780 • 💬 78 • ⏱️ 37:57 • 18h ago
 
 ---
 
@@ -304,7 +306,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 463 • 👍 39 • 💬 42 • ⏱️ 9:20 • 11h ago
+👁️ 463 • 👍 39 • 💬 42 • ⏱️ 9:20 • 12h ago
 
 ---
 
@@ -314,7 +316,7 @@ BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 7K • 👍 456 • 💬 204 • ⏱️ 19:51 • 7h ago
+👁️ 7K • 👍 456 • 💬 204 • ⏱️ 19:51 • 8h ago
 
 ---
 
@@ -324,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 149 • 💬 5 • ⏱️ 5:35 • 12h ago
+👁️ 2K • 👍 149 • 💬 5 • ⏱️ 5:35 • 13h ago
 
 ---
 
