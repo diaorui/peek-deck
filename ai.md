@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T17:14:17.895017+00:00'
+updated: '2025-12-09T17:38:50.993977+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 17:14 UTC  
+**Last Updated:** December 09, 2025 at 17:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 **[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -55,7 +55,7 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-🔗 [WIRED](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/) • 2h ago
+🔗 [WIRED](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/) • 3h ago
 
 ---
 
@@ -63,7 +63,7 @@ In the face of a profitability crisis, industrial-scale bitcoin miners are trans
 
 Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
 
-🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 20h ago
+🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 21h ago
 
 ---
 
@@ -95,7 +95,7 @@ Do you have a blog post or content that needs an image? Use our image generator 
 
 I've settled into this pattern of LLM use and it is a game changer. I'm curious if anyone else does this and how it might be improved. The longer a chat goes on, the less useful the responses become, a phenomenon sometimes called context rot. I've definitely noticed that after a particularly unhelpful response, it is better to just start a new chat rather than wrestle with the LLM. Even when you are clear about the undesirable aspect, it has a way of sneaking back in simply because it is part of the context and LLMs are bad at ignoring the unhelpful patterns in the context. This can be a bit of a setback if the context was valuable up until that point. Rather than starting fresh and losing the context, I've gotten in the habit of editing the prompt that elicited the issue I wish to avoid, I just add an additional line that steers the LLM away from it. For example, if the LLM provides code with the wrong indent, I edit the prompt and ask for the correct indent. I don't have to worry about the wrong indent sneaking back in and this has the bonus of a more concise context for my own review too. It is almost like time travel for the conversation. It works for just about everything, it is particularly helpful for image generation where there is a lot of nuance and missteps can really poison the context. Strangely enough, the prompt edit option is not always available, I haven't figured out why.
 
-37m ago
+1h ago
 
 ---
 
@@ -127,65 +127,65 @@ CNBC • 5h ago
 
 ---
 
-**[Google hit with EU antitrust investigation over use of online content for AI](https://www.cnbc.com/2025/12/09/google-hit-with-eu-antitrust-probe-over-use-of-online-content-for-ai.html)**
-
-It's the latest in a string of actions the European Commission has taken against U.S. big tech companies.
-
-CNBC • 8h ago
-
----
-
 **[EU investigates Google over AI-generated summaries in search results](https://www.bbc.com/news/articles/crl95eg33k1o)**
 
 It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
-**[Pentagon Picks Google AI Platform for Its Millions of Employees](https://www.bloomberg.com/news/articles/2025-12-09/pentagon-picks-google-ai-platform-for-its-millions-of-employees)**
+**[Google hit with EU antitrust investigation over use of online content for AI](https://www.cnbc.com/2025/12/09/google-hit-with-eu-antitrust-probe-over-use-of-online-content-for-ai.html)**
 
-Bloomberg.com • 57m ago
+It's the latest in a string of actions the European Commission has taken against U.S. big tech companies.
 
----
-
-**[Demonstrably Safe AI For Autonomous Driving](https://waymo.com/blog/2025/12/demonstrably-safe-ai-for-autonomous-driving)**
-
-Autonomous driving is the ultimate challenge for AI in the physical world. At Waymo, we’re solving it by prioritizing demonstrably safe AI, where safety is central to how we engineer our models and AI ecosystem from the ground up. This post offers a detailed look at Waymo’s AI strategy and how it’s fueling our momentum, allowing us to safely bring our service to more riders, faster than ever before.
-
-Waymo • 1h ago
+CNBC • 9h ago
 
 ---
 
-**[Wall Street Is Shaking Off Fears of an A.I. Bubble. For Now.](https://www.nytimes.com/2025/12/09/business/wall-street-valuation-ai-bubble.html)**
+**[Google faces EU antitrust investigation over AI Overviews, YouTube](https://www.reuters.com/sustainability/boards-policy-regulation/eu-launches-antitrust-probe-into-googles-use-online-content-ai-purposes-2025-12-09/)**
 
-The New York Times • 38m ago
-
----
-
-**[Why one investment research firm thinks the 3 big bear cases for the AI trade are overblown for now](https://www.businessinsider.com/ai-bear-case-capex-gpu-depreciation-deepseek-tech-stocks-selloff-2025-12)**
-
-The chief strategist at Alpine Macro says that fears around big capex spending, GPU depreciation, and competitive threats from abroad are overdone.
-
-Business Insider • 1h ago
+Reuters • 5h ago
 
 ---
 
-**[Have you seen this (AI-generated) man? Police swap suspect sketches for AI.](https://www.washingtonpost.com/nation/2025/12/09/ai-police-suspect-sketch-arizona/)**
+**[Donating the Model Context Protocol and establishing the Agentic AI Foundation](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)**
 
-The Washington Post • 1h ago
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+Anthropic • 21m ago
+
+---
+
+**[AI can help address America’s affordability crisis](https://thehill.com/opinion/technology/5639068-ai-reducing-living-costs/)**
+
+thehill.com • 8m ago
+
+---
+
+**[Inside Fei-Fei Li’s Plan to Build AI-Powered Virtual Worlds](https://time.com/7339513/ai-fei-fei-li-virtual-worlds/)**
+
+The AI pioneer’s new startup, World Labs, is betting that machines can learn to build infinite, on-demand virtual worlds.
+
+Time Magazine • 34m ago
+
+---
+
+**[Why the A.I. Boom Is Unlike the Dot-Com Boom](https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html)**
+
+The New York Times • 1h ago
 
 ---
 
 **[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
 
-The Economist • 19h ago
+The Economist • 20h ago
 
 ---
 
-**[Exclusive | Anthropic and Accenture Strike AI Deal Targeting Business Clients](https://www.wsj.com/articles/anthropic-and-accenture-strike-ai-deal-targeting-business-clients-0a82f28a?gaa_at=eafs&gaa_n=AWEtsqeksvHl04G2nwxbpMcWRloG8JyoZV9Pm1hcOy5fFiFCF5HnB4Ry6n07&gaa_ts=69385709&gaa_sig=La3hq8Ju0dI_sc_MQkdqwUPqsOzjwFfik4M4KA1UYa8fehpgWhYojLmzLJR_n5N4gceGhsK_n6DjkOvXeWisxA%3D%3D)**
+**[Have you seen this (AI-generated) man? Police swap suspect sketches for AI.](https://www.washingtonpost.com/nation/2025/12/09/ai-police-suspect-sketch-arizona/)**
 
-The Wall Street Journal • 4h ago
+The Washington Post • 36m ago
 
 ---
 
@@ -203,7 +203,7 @@ The Wall Street Journal • 4h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 507 • 💬 463 • 16h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 507 • 💬 463 • 17h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -217,7 +217,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 186 • 💬 164 • 23h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 186 • 💬 164 • 1d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -253,7 +253,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny.
 
-⬆️ 38 • 💬 5 • 20h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
+⬆️ 38 • 💬 5 • 21h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
 
 ---
 
@@ -273,7 +273,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTE
 
 📺 Anastasi In Tech
 
-👁️ 158K • 👍 10K • 💬 1K • ⏱️ 31:03 • 19h ago
+👁️ 158K • 👍 10K • 💬 1K • ⏱️ 31:03 • 20h ago
 
 ---
 
@@ -363,7 +363,7 @@ Everyone in the comments always seems to think I'm AI, so I made this silly litt
 
 📺 Yap Emporium
 
-👁️ 52K • 👍 2K • 💬 110 • ⏱️ 0:17 • 20h ago
+👁️ 52K • 👍 2K • 💬 110 • ⏱️ 0:17 • 21h ago
 
 ---
 
@@ -379,7 +379,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 217,428 • ❤️ 2,409 • 1d ago
+⬇️ 217,428 • ❤️ 2,411 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 56,958 • ❤️ 578 • 12h ago
+⬇️ 56,958 • ❤️ 578 • 13h ago
 
 ---
 
@@ -403,7 +403,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 33,102 • ❤️ 836 • 8d ago
+⬇️ 33,102 • ❤️ 837 • 8d ago
 
 ---
 
@@ -413,7 +413,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 286 • 7d ago
+⬇️ 0 • ❤️ 287 • 7d ago
 
 ---
 
@@ -425,7 +425,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 6,920 • ❤️ 213 • 11h ago
+⬇️ 6,920 • ❤️ 215 • 12h ago
 
 ---
 
@@ -437,7 +437,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 687 • ❤️ 191 • 11h ago
+⬇️ 687 • ❤️ 192 • 12h ago
 
 ---
 
@@ -471,7 +471,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 4,106 • ❤️ 405 • 7d ago
+⬇️ 4,106 • ❤️ 406 • 7d ago
 
 ---
 
@@ -483,7 +483,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 `text-generation` `8.3B`
 
-⬇️ 443,437 • ❤️ 165 • 19h ago
+⬇️ 443,437 • ❤️ 165 • 20h ago
 
 ---
 
@@ -685,7 +685,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 125 • 1h ago
+⭐ 1.0k • 🔱 125 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T17:14:17.910132+00:00'
+updated: '2025-12-09T17:38:51.008763+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 17:14 UTC  
+**Last Updated:** December 09, 2025 at 17:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +9.8%  
-**7d:** +6.1%  
-**30d:** -5.0%  
-**90d:** -24.2%  
-**1y:** -6.7%  
+**24h:** +9.1%  
+**7d:** +5.4%  
+**30d:** -5.6%  
+**90d:** -24.7%  
+**1y:** -7.3%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot wallet (non-hardware) that actually supports custom HD derivation at the account level and BIP39 passphrases (25th word). Surprisingly, this combo seems to be mostly available only on hardware wallets or very niche software. Most mainstream hot wallets either lock derivation paths or ignore passphrases completely. So far, the only hot wallet I personally found that seems to support both is TokenPocket. According to their docs, keys stay on-device and they allow more flexibility than most wallets. Before fully committing, I’m curious: Has anyone here actually used TokenPocket with custom derivation paths + passphrase? Any thoughts on its security model or reputation? Are there any other hot wallets I might be missing (mobile / desktop / CLI) that support this kind of setup for Ethereum / EVM? I know this is more of a power-user thing, but I’m guessing some of you have gone through the same search. Appreciate any insight 🙏
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot walle
 
 A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 6h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 7h ago
 
 ---
 
@@ -154,7 +154,7 @@ I copied and pasted for ease of access. Maybe Vitalik can make an update to rais
 
 The CFTC has introduced a pilot allowing Bitcoin, Ethereum, and USDC to be used as margin, while updating rules to support tokenized assets.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -174,6 +174,20 @@ Yahoo Finance • 1h ago
 
 ---
 
+**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Spike Ahead of Fed Decision](https://decrypt.co/351640/crypto-shorts-rekt-bitcoin-ethereum-xrp-spike-ahead-fed-decision)**
+
+Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
+
+Decrypt • 34m ago
+
+---
+
+**[Ethereum’s Developer Landscape Shows Broad Acceleration](https://cryptodnes.bg/en/ethereums-developer-landscape-shows-broad-acceleration/)**
+
+CryptoDnes.bg • 2h ago
+
+---
+
 **[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
 
 The trading platform dives further into digital assets both domestically and globally.
@@ -185,20 +199,6 @@ Fortune • 19h ago
 **[Vitalik Buterin pushes for trustless gas futures market to hedge Ethereum fees, sparking debate over feasibility](https://www.theblock.co/post/381677/vitalik-buterin-pushes-for-trustless-gas-futures-market-to-hedge-ethereum-fees-sparking-debate)**
 
 The Block • 1d ago
-
----
-
-**[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
-
-The Block • 1d ago
-
----
-
-**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
-
-Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
-
-Decrypt • 22h ago
 
 ---
 
@@ -236,7 +236,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 11K • 👍 374 • 💬 309 • ⏱️ 12:46 • 22h ago
+👁️ 11K • 👍 374 • 💬 309 • ⏱️ 12:46 • 23h ago
 
 ---
 
@@ -276,7 +276,7 @@ BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 11K • 👍 550 • 💬 319 • ⏱️ 19:51 • 18h ago
+👁️ 11K • 👍 550 • 💬 319 • ⏱️ 19:51 • 19h ago
 
 ---
 
@@ -296,7 +296,7 @@ Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.c
 
 📺 Crypto Lifer
 
-👁️ 4K • 👍 671 • 2h ago
+👁️ 4K • 👍 671 • 3h ago
 
 ---
 

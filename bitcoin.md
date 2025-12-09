@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T17:14:17.903936+00:00'
+updated: '2025-12-09T17:38:51.002562+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 17:14 UTC  
+**Last Updated:** December 09, 2025 at 17:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $94,442.93
+### $93,698.72
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.3%  
-**7d:** +0.8%  
-**30d:** -11.0%  
-**90d:** -18.1%  
-**1y:** -2.1%  
+**24h:** +4.3%  
+**7d:** -0.2%  
+**30d:** -11.9%  
+**90d:** -18.9%  
+**1y:** -3.0%  
 
 ---
 
@@ -107,7 +107,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 If you had put $1000 into BTC in 2010 and left it alone without further investment you'd have close to a billion dollars right now (before tax, of course). I sometimes sit and wonder if there are people who did that almost as a joke and then forgot their password or whatever lol.
 
-6h ago
+7h ago
 
 ---
 
@@ -139,7 +139,7 @@ And most who keep panicking, and those crazy shenanigans fud are mostly from noo
 
 **[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.reddit.com/r/Bitcoin/comments/1pi8ira/bitcoin_holds_90000_as_markets_await_fed_rate_cut/)**
 
-🔗 [theblock.co](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance) • 2h ago
+🔗 [theblock.co](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance) • 3h ago
 
 ---
 
@@ -151,49 +151,15 @@ And most who keep panicking, and those crazy shenanigans fud are mostly from noo
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-WIRED • 6h ago
+WIRED • 7h ago
 
 ---
 
-**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
+**[XXI Drops 25% After SPAC Merger](https://www.coindesk.com/markets/2025/12/09/bitcoin-treasury-company-twenty-one-drops-25-in-nyse-debut-trades-near-pipe-pricing-of-usd10)**
 
-Reuters • 12h ago
+The company is led by Strike CEO Jack Mallers and began trading under the XXI ticker today following its SPAC merger with Cantor Equity Partners.
 
----
-
-**[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance)**
-
-The Block • 5h ago
-
----
-
-**[Bitcoin and XRP Secure Fresh NYSE Exposure Through Bitwise Index Move](https://www.tradingview.com/news/u_today:a6580a868094b:0-bitcoin-and-xrp-secure-fresh-nyse-exposure-through-bitwise-index-move/)**
-
-Bitcoin and XRP got some more attention from Wall Street today. The 10 Crypto Index Fund by Bitwise finally got the green light from regulators and started trading on NYSE Arca, which means these two popular assets are becoming more connected to traditional investments. Journalist Eleanor Terrett s…
-
-TradingView • 1h ago
-
----
-
-**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqcnLWLMEGcmrHBgy_TDv2ZeJey8i9HEcFUO9zay0IWz1YdKAslxSNmS&gaa_ts=6938570a&gaa_sig=cCa_ToxlrGtBAAGVQJ9HhAqFCMXemf-ykIBs1wYZr9Yn_UjdFMA0_nePsUq_sTXlO9Hoah_GdD8Lmzao5vl8FA%3D%3D)**
-
-MarketWatch • 18h ago
-
----
-
-**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
-
-Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
-
-Financial Times • 1d ago
-
----
-
-**[‘More Orange Dots’: Michael Saylor’s Strategy Buys 10,624 Bitcoin Amid Sell-Off Concerns](https://finance.yahoo.com/news/more-orange-dots-michael-saylor-130749098.html)**
-
-Michael Saylor’s Strategy, previously MicroStrategy, has made another weekly Bitcoin purchase despite concerns that it may need to sell some of its BTC holdings in a prolonged bear market. This latest purchase comes amid a rebound in the Bitcoin price, while the MSTR stock is also up in pre-market trading. Strategy Acquires 10,624 BTC for
-
-Yahoo Finance • 1d ago
+CoinDesk • 2h ago
 
 ---
 
@@ -205,17 +171,55 @@ Bloomberg.com • 1h ago
 
 ---
 
-**[Bitcoin Treasury Firm Backed by Tether, SoftBank Plunges on First Day of Trading](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqeOdQunyg_lT22D9zTARVzWw5fTWKe_ajmXTh3S6jXD1daBjq4LeQdK&gaa_ts=6938570a&gaa_sig=JiUFRW6HKdcfBCTg6hVBmJgA1Pm1aOza_neDGsT6tpHcwmXcZBkLTIW1H2wV-bvRoRP5Z1ilG_hgqvqb4pxzFg%3D%3D)**
+**[What the First Divergence of Stock and Bitcoin Returns in 10 Years Means](https://www.businessinsider.com/stock-market-bitcoin-return-correlation-divergence-explained-outlook-2025-12)**
 
-The Wall Street Journal • 8h ago
+If the stock market is up, bitcoin usually is too. But this year has been different.
+
+Business Insider • 1d ago
 
 ---
 
-**[XXI Drops 25% After SPAC Merger](https://www.coindesk.com/markets/2025/12/09/bitcoin-treasury-company-twenty-one-drops-25-in-nyse-debut-trades-near-pipe-pricing-of-usd10)**
+**[Standard Chartered Slashes 2025 Bitcoin Forecast to $100K](https://decrypt.co/351603/standard-chartered-slashes-2025-bitcoin-forecast-to-100k)**
 
-The company is led by Strike CEO Jack Mallers and began trading under the XXI ticker today following its SPAC merger with Cantor Equity Partners.
+The bank has cut its 2025 Bitcoin price target by half, citing the end of corporate buying and sharply slowing ETF inflows.
 
-CoinDesk • 1h ago
+Decrypt • 4h ago
+
+---
+
+**[Bitcoin Bulls Standard Chartered, Bernstein Pare Back Ambitious Year-End Forecasts](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-bulls-standard-chartered-bernstein-pare-back-most-ambitious-forecasts)**
+
+Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
+
+Bloomberg.com • 23m ago
+
+---
+
+**[Bitcoin Price (BTC) Outlook: Not Crypto Winter, but $500K Has Been Pushed Far Out](https://www.coindesk.com/markets/2025/12/09/standard-chartered-throws-in-the-towel-on-bullish-bitcoin-forecast)**
+
+Bowing to what he called a "cold breeze," but not a "crypto winter," Geoff Kendrick slashed his year-end outlook for BTC to $100,000 and doesn't expect $500,000 until 2030 versus 2028 previously.
+
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin jumps to $94,000, but 'hawkish' Fed cut threatens crypto rally](https://finance.yahoo.com/news/bitcoin-jumps-to-94000-but-hawkish-fed-cut-threatens-crypto-rally-164647910.html)**
+
+The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
+
+Yahoo Finance • 52m ago
+
+---
+
+**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
+
+Reuters • 12h ago
+
+---
+
+**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqeh5nleTuwdFZoUXlrctyryoFHL9AC3KTr3FlrwVVaZLHeli_IUE8TZ&gaa_ts=69386215&gaa_sig=60xRifljbuAOSKbkCzFkrlZzeeYzGze4_ViPeMvg49NcBmBzX2w6WI5RfF64OrfeOLXesUmn-bb7g9DOmOzb5Q%3D%3D)**
+
+MarketWatch • 19h ago
 
 ---
 
@@ -267,6 +271,14 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 ---
 
+**[Show HN: Swift Bitcoin - Experimental full node and dev framework for Swift](https://news.ycombinator.com/item?id=46207529)**
+
+Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
+
+⬆️ 1 • 💬 0 • 26m ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+
+---
+
 **[Married millennials, here comes the crypto divorce cliff](https://news.ycombinator.com/item?id=46189380)**
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
@@ -275,23 +287,17 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ---
 
+**["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
+
+⬆️ 2 • 💬 1 • 1h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+
+---
+
 **[Retail-trader Eric Jackson says the crypto bear market is a maximum opportunity](https://news.ycombinator.com/item?id=46135976)**
 
 Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever been. His bullish outlook drew swift pushback from a famous short-seller.
 
 ⬆️ 2 • 💬 1 • 6d ago • [Business Insider](https://www.businessinsider.com/bitcoin-price-eric-jackson-bullish-ethereum-crypto-btc-eth-ai-2025-12)
-
----
-
-**["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
-
-⬆️ 2 • 💬 0 • 1h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
-
----
-
-**[Market Volatility Underscores Epic Buildup of Global Risk](https://news.ycombinator.com/item?id=46126556)**
-
-⬆️ 1 • 💬 3 • 6d ago • [nytimes.com](https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html)
 
 ---
 
@@ -315,7 +321,7 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 399K • 👍 14K • 💬 2K • ⏱️ 20:03 • 20h ago
+👁️ 399K • 👍 14K • 💬 2K • ⏱️ 20:03 • 21h ago
 
 ---
 
@@ -325,7 +331,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 904 • 💬 183 • ⏱️ 44:49 • 1h ago
+👁️ 11K • 👍 904 • 💬 183 • ⏱️ 44:49 • 2h ago
 
 ---
 
@@ -335,7 +341,7 @@ In this clip, I talk about what is happening for bitcoin and crypto this week an
 
 📺 CryptosRus Extra
 
-👁️ 12K • 👍 560 • 💬 337 • ⏱️ 9:01 • 16h ago
+👁️ 12K • 👍 560 • 💬 337 • ⏱️ 9:01 • 17h ago
 
 ---
 
@@ -363,7 +369,7 @@ Michael Saylor declares he's more bullish than ever, stating his team can buy mo
 
 📺 Matt & Justus
 
-👁️ 1.3M • 👍 76K • 💬 235 • ⏱️ 1:00 • 22h ago
+👁️ 1.3M • 👍 76K • 💬 235 • ⏱️ 1:00 • 23h ago
 
 ---
 
@@ -383,7 +389,7 @@ Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. 
 
 📺 Simply Bitcoin
 
-👁️ 45K • 👍 3K • 💬 547 • ⏱️ 16:35 • 18h ago
+👁️ 45K • 👍 3K • 💬 547 • ⏱️ 16:35 • 19h ago
 
 ---
 
@@ -393,7 +399,7 @@ CZ says macro forces—rate cuts, QE, and Trump's market policy—may trigger a 
 
 📺 Bitcoin Magazine
 
-👁️ 528 • 👍 26 • 💬 2 • ⏱️ 1:33 • 1h ago
+👁️ 528 • 👍 26 • 💬 2 • ⏱️ 1:33 • 2h ago
 
 ---
 

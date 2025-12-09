@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T17:14:17.913469+00:00'
+updated: '2025-12-09T17:38:51.012063+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 17:14 UTC  
+**Last Updated:** December 09, 2025 at 17:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -66,7 +66,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 Teaching Robots to Understand Natural Language Built an autonomous navigation system where you can command a robot in plain English - "go to the person" or "find the chair" - and it handles the rest. What I Learned: Distributed ROS2: Ran LLM inference on NVIDIA Jetson Orin Nano while handling vision/navigation on my main system. Multi-machine communication over ROS2 topics was seamless. Edge Al Reality: TinyLlama on Jetson's CPU takes 2-10s per command, but the 8GB unified memory and no GPU dependency makes it perfect for robotics. Real edge computing without much latency. Vision + Planning: YOLOv8 detects object classes, monocular depth estimation calculates distance, Nav2 plans the path. When the target disappears, the robot autonomously searches with 360° rotation patterns. On Jetson Orin Nano Super: Honestly impressed. It's the perfect middle ground - more capable than Raspberry Pi, more accessible than industrial modules. Running Ollama while maintaining real-time ROS2 communication proved its robotics potential. Stack: ROS2 | YOLOv8 | Ollama/TinyLlama | Nav2 | Gazebo Video shows the full pipeline - natural language → LLM parsing → detection → autonomous navigation.
 
-1h ago
+2h ago
 
 ---
 
@@ -76,17 +76,17 @@ Teaching Robots to Understand Natural Language Built an autonomous navigation sy
 
 ---
 
+**[Inverted Double Pendulum in Isaac Lab](https://www.reddit.com/r/robotics/comments/1pi8anb/inverted_double_pendulum_in_isaac_lab/)**
+
+3h ago
+
+---
+
 **[The Chinese just dropped it on online marketplaces](https://www.reddit.com/r/robotics/comments/1phc2nu/the_chinese_just_dropped_it_on_online_marketplaces/)**
 
 180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
 
 1d ago
-
----
-
-**[Inverted Double Pendulum in Isaac Lab](https://www.reddit.com/r/robotics/comments/1pi8anb/inverted_double_pendulum_in_isaac_lab/)**
-
-3h ago
 
 ---
 
@@ -102,7 +102,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
 Has anyone seen how the mopping pressure is created in a robot vacuum? I would imagine some sort of linear actuator/solenoid/spring suspension but did not see any of that when looking at at online teardowns of a Dreame X50 Ultra that claims to have mop lifting/mop pressure.
 
-14h ago
+15h ago
 
 ---
 
@@ -132,6 +132,14 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[Tesla Optimus falls in Miami demo, hand movements sparks remote operation debate](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo)**
+
+While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
+
+Interesting Engineering • 1d ago
+
+---
+
 **[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
 
 Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
@@ -140,11 +148,11 @@ Decrypt • 18h ago
 
 ---
 
-**[Pneumatic-suction robot clears 75,000 lb of cargo an hour](https://newatlas.com/robotics/mit-pickle-one-armed-warehouse-robot-suction-unloading/)**
+**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
 
-It'll likely be a while before we have humanoid robots taking over our household chores, but what you can count on sooner is seeing more robots in industrial settings, like factories and warehouses.
+The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
 
-New Atlas • 5h ago
+MLive.com • 48m ago
 
 ---
 
@@ -164,14 +172,6 @@ Valley News Live • 18h ago
 
 ---
 
-**[Tesla Optimus falls in Miami demo, hand movements sparks remote operation debate](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo)**
-
-While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
-
-Interesting Engineering • 1d ago
-
----
-
 **[Serve Robotics Extends Autonomous Delivery to Fort Lauderdale](https://finance.yahoo.com/news/serve-robotics-extends-autonomous-delivery-153500451.html)**
 
 SERV expands its autonomous delivery network to Fort Lauderdale, deepening its South Florida presence through Uber Eats.
@@ -180,11 +180,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[When Will Robots Take Over Laundry Folding?](https://www.smithsonianmag.com/innovation/when-will-robots-take-over-laundry-folding-180987801/)**
+**[Pneumatic-suction robot clears 75,000 lb of cargo an hour](https://newatlas.com/robotics/mit-pickle-one-armed-warehouse-robot-suction-unloading/)**
 
-For this chore, the human touch still beats machines. But maybe not for long
+It'll likely be a while before we have humanoid robots taking over our household chores, but what you can count on sooner is seeing more robots in industrial settings, like factories and warehouses.
 
-Smithsonian Magazine • 1d ago
+New Atlas • 6h ago
 
 ---
 
@@ -198,7 +198,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 18K • 👍 420 • 💬 187 • ⏱️ 14:26 • 21h ago
+👁️ 18K • 👍 420 • 💬 187 • ⏱️ 14:26 • 22h ago
 
 ---
 
@@ -216,7 +216,7 @@ The founder and CEO of EngineAI just took a robot kick to the chest in an attemp
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 38 • 💬 29 • ⏱️ 8:31 • 16h ago
+👁️ 2K • 👍 38 • 💬 29 • ⏱️ 8:31 • 17h ago
 
 ---
 
