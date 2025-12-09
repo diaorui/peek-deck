@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T14:51:59.987877+00:00'
+updated: '2025-12-09T15:16:36.725296+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 14:51 UTC  
+**Last Updated:** December 09, 2025 at 15:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,274.39
+### $90,973.64
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** -3.6%  
-**30d:** -14.9%  
-**90d:** -21.7%  
-**1y:** -6.4%  
+**24h:** +0.5%  
+**7d:** -3.4%  
+**30d:** -14.7%  
+**90d:** -21.5%  
+**1y:** -6.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.23B
+**Market Cap:** $1815.43B
 Rank #1
 
 **Circulating Supply:** 19,959,790 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.1%
 
 **All-Time Low:** $67.81
-+132876.0%
++133623.6%
 
 ---
 
@@ -76,6 +76,12 @@ Rank #1
 ---
 
 ## Reddit: r/Bitcoin
+
+**[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
+
+2h ago
+
+---
 
 **[Swim with the whales](https://www.reddit.com/r/Bitcoin/comments/1pi4cuq/swim_with_the_whales/)**
 
@@ -89,14 +95,6 @@ Rank #1
 
 ---
 
-**[Disappointed?](https://www.reddit.com/r/Bitcoin/comments/1pi7hlp/disappointed/)**
-
-I’ve now held bitcoin for 4 years and bought with every penny I had spare at £44k I have 1.1 btc, the price now is £66k, I have to be honest, with everything that has happened since I bought I’m a little disappointed on the returns, like everyone we’ve all got our plans in life, maybe I was naive but my plan was to eventually buy a small flat in England and the returns don’t even cover the inflation on properties here, and for anyone saying you should DCA, the money I have used since I’ve travelled to 20 countries and enjoyed life because I’m not spending every penny just investing into bitcoin else what’s the point, but I guess I’m posting this as I’m a little frustrated with all these outlandish predictions on price even since day one it’s been the same, I don’t know one “influencer” who has actually been close, even now on X it’s daily bull on “Oh it’ll be price discovery” and all that waffle, surely I can’t be the only one who’s feeling the same? Whenever I see posts it’s “patience” and always a quick response defending as to why we’re not at these predictions 😅 anyways rant over feel free to dm me if you’d also like a little moan today 😂
-
-1h ago
-
----
-
 **[school employee got caught secretly mining bitcoin in a crawl space under a Massachusetts high school, using the school’s electricity. Police found coolers filled with computers and estimate they used about $17,500 in power before it was unplugged.](https://www.reddit.com/r/Bitcoin/comments/1phv387/school_employee_got_caught_secretly_mining/)**
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
@@ -105,7 +103,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
-**[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
+**[Literally!](https://www.reddit.com/r/Bitcoin/comments/1pi8hu2/literally/)**
 
 1h ago
 
@@ -113,21 +111,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 **[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-18h ago
-
----
-
-**[Most people holding more than 2 bitcoin here are chill](https://www.reddit.com/r/Bitcoin/comments/1pi3orj/most_people_holding_more_than_2_bitcoin_here_are/)**
-
-And most who keep panicking, and those crazy shenanigans fud are mostly from noobs or either those who invest rent money, or worst haven't studied Bitcoin.
-
-4h ago
-
----
-
-**[Staring into the BTC abyss, waiting for it to explain itself](https://www.reddit.com/r/Bitcoin/comments/1pi3i32/staring_into_the_btc_abyss_waiting_for_it_to/)**
-
-5h ago
+19h ago
 
 ---
 
@@ -136,6 +120,20 @@ And most who keep panicking, and those crazy shenanigans fud are mostly from noo
 If you had put $1000 into BTC in 2010 and left it alone without further investment you'd have close to a billion dollars right now (before tax, of course). I sometimes sit and wonder if there are people who did that almost as a joke and then forgot their password or whatever lol.
 
 4h ago
+
+---
+
+**[Most people holding more than 2 bitcoin here are chill](https://www.reddit.com/r/Bitcoin/comments/1pi3orj/most_people_holding_more_than_2_bitcoin_here_are/)**
+
+And most who keep panicking, and those crazy shenanigans fud are mostly from noobs or either those who invest rent money, or worst haven't studied Bitcoin.
+
+5h ago
+
+---
+
+**[Staring into the BTC abyss, waiting for it to explain itself](https://www.reddit.com/r/Bitcoin/comments/1pi3i32/staring_into_the_btc_abyss_waiting_for_it_to/)**
+
+5h ago
 
 ---
 
@@ -163,43 +161,35 @@ WIRED • 4h ago
 
 ---
 
-**[Nvidia CEO Jensen Huang Just Flipped the Bitcoin Energy Consumption Debate — And It Changes Everything](https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-just-131048842.html)**
+**[Bitcoin Firm Twenty One Falls 25% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
 
-Nvidia CEO Jensen Huang says Bitcoin converts excess energy into a portable form of money. His comments challenge years of criticism over Bitcoin’s electricity use. ...
+Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
+
+Bloomberg.com • 37m ago
+
+---
+
+**[Crypto pros blast a potential move to exclude bitcoin holding companies from MSCI indexes](https://www.businessinsider.com/msci-crypto-index-bitcoin-treasury-strategy-btc-price-2025-12)**
+
+MSCI could exclude crypto treasury firms from its widely followed indexes. The move is drawing sharp criticism from industry players.
+
+Business Insider • 5m ago
+
+---
+
+**[Europe’s ‘Paper Hands’ Trigger Bitcoin’s Worst November Since 2018](https://finance.yahoo.com/news/europe-paper-hands-trigger-bitcoin-134715115.html)**
+
+A new timezone-based analysis of Bitcoin trading blames Europe for the deepest part of November’s downturn. BTC and ETH saw the bulk of their losses ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[‘More Orange Dots’: Michael Saylor’s Strategy Buys 10,624 Bitcoin Amid Sell-Off Concerns](https://finance.yahoo.com/news/more-orange-dots-michael-saylor-130749098.html)**
+
+Michael Saylor’s Strategy, previously MicroStrategy, has made another weekly Bitcoin purchase despite concerns that it may need to sell some of its BTC holdings in a prolonged bear market. This latest purchase comes amid a rebound in the Bitcoin price, while the MSTR stock is also up in pre-market trading. Strategy Acquires 10,624 BTC for
 
 Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin Price Briefly Surges Past $92,000 As ‘Bitcoin Breaks 4-Year Cycle’](https://bitcoinmagazine.com/markets/bitcoin-price-surges-past-92000)**
-
-The Bitcoin price jumped past $92,000 this morning as Bernstein and JPMorgan signal a longer-term bullish outlook
-
-Bitcoin Magazine • 23h ago
-
----
-
-**[PNC Launches Bitcoin Trading With Coinbase for Wealthy Clients](https://www.bloomberg.com/news/articles/2025-12-09/pnc-launches-bitcoin-trading-with-coinbase-for-wealthy-clients)**
-
-PNC Financial Services Group Inc.’s high-net-worth customers can now trade Bitcoin directly through their investment accounts, fulfilling an initial goal of the Pittsburgh-based lender’s partnership with Coinbase Global Inc. announced in July.
-
-Bloomberg.com • 2h ago
-
----
-
-**[Bitcoin Price (BTC) Outlook: $500K Will Have to Wait a Lot Longer](https://www.coindesk.com/markets/2025/12/09/standard-chartered-throws-in-the-towel-on-bullish-bitcoin-forecast)**
-
-Bowing to what he called a "cold breeze," but not a "crypto winter," Geoff Kendrick slashed his year-end outlook for BTC to $100,000 and doesn't expect $500,000 until 2030 versus 2028 previously.
-
-CoinDesk • 1h ago
-
----
-
-**[Metaplanet Predicts All Companies Will Hold Bitcoin, Aims to Turn Japan’s $7 Trillion Cash Pile Into 20x BTC Buying Power](https://finance.yahoo.com/news/metaplanet-predicts-companies-hold-bitcoin-124716817.html)**
-
-Metaplanet believes Bitcoin will become a universal corporate treasury asset. The firm aims to channel part of Japan’s $7 trillion in idle savings into Bitcoin. ...
-
-Yahoo Finance • 2h ago
 
 ---
 
@@ -211,17 +201,23 @@ Financial Times • 1d ago
 
 ---
 
-**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqd7uJTMB-HO8yNze-fCB3WsYBMjCnCUz4Jzi7uGEwK-wwy9AZcAZOcL&gaa_ts=693835c3&gaa_sig=4tnIHsrFnUgupZoi74hXBA5bJbLGNw86261jm0tuQzETRe5-Ul8MIEbRbqZGMjjOz6O1mxNnN3TqpfR2DJJlFQ%3D%3D)**
+**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqfH2tpssZZkGDZ0aR-Ej5wudYMpMoN5nOA5ED8p2HwuRt2tGcKTDsuH&gaa_ts=693840ac&gaa_sig=0ejpe_oZN2vbJZsZs-JlyMc7QPDntdK6O3R56oyV2po5gEyEeGkoebZT3qrS9HFyyIW4EFIFF_ibv_1jMvgWDA%3D%3D)**
 
 MarketWatch • 16h ago
 
 ---
 
-**[Strategy Drops Nearly $1 Billion on Bitcoin, Marking Largest BTC Buy in Months](https://finance.yahoo.com/news/strategy-drops-nearly-1-billion-154036345.html)**
+**[Texas launches cryptocurrency reserve with $5M Bitcoin purchase](https://www.businessreport.com/article/texas-launches-cryptocurrency-reserve-with-5m-bitcoin-purchase)**
 
-Strategy unveiled its largest Bitcoin purchase in over 100 days, but the company's stock price was little changed on Monday.
+Texas has launched its new cryptocurrency reserve with a $5 million purchase of Bitcoin as the state continues to embrace the volatile and controversial digital currency. The Texas Comptroller’s Office confirmed the purchase was made last month as a “placeholder investment” while the office works to contract with a cryptocurrency bank to manage its portfolio. […]
 
-Yahoo Finance • 23h ago
+Baton Rouge Business Report • 18h ago
+
+---
+
+**[Bernstein reveals new Bitcoin target amid market pullback](https://www.thestreet.com/crypto/trading/bernstein-new-bitcoin-prediction)**
+
+TheStreet • 21h ago
 
 ---
 
@@ -261,7 +257,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 **[Bitcoin Treasury Companies](https://news.ycombinator.com/item?id=46182205)**
 
-⬆️ 2 • 💬 1 • 1d ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
+⬆️ 2 • 💬 1 • 2d ago • [bitcointreasuries.net](https://bitcointreasuries.net/)
 
 ---
 
@@ -295,11 +291,9 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ---
 
-**[Show HN: CocoIndex – Open-Source Data Engine for Dynamic Context Engineering](https://news.ycombinator.com/item?id=46192936)**
+**[Bioinspired Drilling for Extraterrestrial Applications](https://news.ycombinator.com/item?id=46205296)**
 
-Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
-
-⬆️ 2 • 💬 0 • 23h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 1 • 💬 0 • 43m ago • [mdpi.com](https://www.mdpi.com/2313-7673/10/11/752)
 
 ---
 
@@ -323,7 +317,7 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 376K • 👍 13K • 💬 2K • ⏱️ 20:03 • 18h ago
+👁️ 376K • 👍 13K • 💬 2K • ⏱️ 20:03 • 19h ago
 
 ---
 
@@ -343,7 +337,7 @@ In this video, Kyledoops shows you 3 very specific reasons why you can expect a 
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 1K • 💬 23 • ⏱️ 37:53 • 6h ago
+👁️ 16K • 👍 1K • 💬 23 • ⏱️ 37:53 • 7h ago
 
 ---
 
@@ -373,7 +367,7 @@ Michael Saylor reveals that major U.S. banks—including Wells Fargo, Citi, JPMo
 
 📺 Bitcoin Magazine
 
-👁️ 193 • 👍 4 • 💬 40 • ⏱️ 0:46 • 48m ago
+👁️ 193 • 👍 4 • 💬 40 • ⏱️ 0:46 • 1h ago
 
 ---
 
@@ -401,7 +395,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 34K • 👍 2K • 💬 277 • ⏱️ 37:28 • 23h ago
+👁️ 34K • 👍 2K • 💬 277 • ⏱️ 37:28 • 1d ago
 
 ---
 

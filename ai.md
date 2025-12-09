@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T14:51:59.979090+00:00'
+updated: '2025-12-09T15:16:36.716767+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
 - videos
-- news
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 14:51 UTC  
+**Last Updated:** December 09, 2025 at 15:16 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -56,6 +56,14 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai says no job, not even his own, is safe. But those who don’t adapt will be the first to fall.
 
 🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 17h ago
+
+---
+
+**[America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.reddit.com/r/artificial/comments/1pi8z96/americas_biggest_bitcoin_miners_are_pivoting_to_ai/)**
+
+In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
+
+🔗 [WIRED](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/) • 40m ago
 
 ---
 
@@ -103,15 +111,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 LLMs, a Race for more data centers, Nvidia chips and more model parameters, yet no LLM can understand concepts and their relationships and still limited to next token prediction. Trying to increase model parameters in each generation is akin to trying increase number of neurons in our brains with each of our offspring, not a feasible or desirable path to GenAI I believe Graph Knowledge Maps with Nodes (Objects) and Edges (Relationships) offer a viable alternative, an anchor, a core of truth and map of world for LLMs for understanding and learning the environment they interact in As a proof of concept I am working on a medical SLM: 6 GB specialized medical SLM (BioGPT-Large based) Native biomedical knowledge graph (5k+ nodes, 25k+ edges) that contain 7 medical categories; diseases, symptoms, treatments, risk factors, diagnostic tools, body parts, cellular structures and their multi directional relationships Graph aware text embeddings + special tokens and anointed Pubmed and MTS Dialogs to instruct and orient model on medical terms, such as a,b,c are symptoms of disease x and it can be treated with z Fully self-contained RAG (entity + semantic search embedded in model via special tokens), that do a final audit on the model output to make sure answer contains relevant nodes related to prompt. Model is currently conversational and operate with close to zero hallucinations and due to its small size can run fully offline on laptops, hospital servers, and even on cell phones For now, the model itself remains private, but you can see a sample set of results and how Graph info map and Rag audit works together to minimize hallicunations and provide relevant correct answers. All answers pass audit at first attempts thanks to enforced training utilizing specialized graph info map tokens on annointed text. Audit first utilizes graph category class search and if that fails entity search Use cases I’m exploring: - Clinical decision support back-ends - Patient education and triage assistants - Medical education - Telemedicine and remote/low-connectivity settings I understand that this is a project likely too big to properly handle by myself therefore I am open to conversations with: - Med AI founders/operators - AI researchers working on graph/RAG - VCs and angels focused on healthcare/AI Next I will be looking to switch from text embeddings to vector embeddings so in future graph knowledge map nodes and edges can be updated dynamically by the model itself If this is relevant to what you’re building or investing in, I’d be happy to walk you through the architecture, benchmarks, and potential paths (pilot, co-building, or licensing/acquisition). ================================================================================ QUERY: What are the common symptoms of diabetes? → Attempt 1/4 Generation time: 41.64s ANSWER: The most frequent symptom in patients with type 2 diabetes is postprandial hyperglycemia, which can be caused by a variety of factors including poor diet and lack of exercise as well as medication side effects or complications. Other symptoms include weight gain, polyuria, nocturia, thirst, dry mouth, blurred vision, dizziness, fatigue, anxiety, depression, sleep disturbances, and cognitive impairment. These symptoms may occur early on during disease progression but become more prevalent over time due to increased duration of illness. Symptoms should not necessarily indicate severe metabolic derangement; however, they often contribute significantly to patient morbidity and mortality. In addition, these symptoms have been shown to affect quality of life negatively. Therefore, it is important for clinicians caring for diabetic patients to recognize their presence so that appropriate treatment strategies can be implemented. This review provides an overview of the pathophysiology underlying each symptom associated with diabetes mellitus and discusses potential management options based on current evidence-based guidelines. It also highlights areas where further research is needed. © RSNA, 2 0 1 8. < / FREETEXT > < / ABSTRACT > ▃ </s> EXTRACTED ENTITIES → [('Mouth', 'BodyPart'), ('Diabetes Mellitus', 'Disease'), ('Type 2 Diabetes', 'Disease'), ('Depression', 'Disease'), ('Fatigue', 'Symptom'), ('Dizziness', 'Symptom'), ('Blurred Vision', 'Symptom'), ('Sleep Disturbances', 'Symptom'), ('Nocturia', 'Symptom'), ('Polyuria', 'Symptom'), ('Poor Diet', 'RiskFactor'), ('Lack of Exercise', 'RiskFactor'), ('Cognitive Impairment', 'RiskFactor')] RAG AUDIT → PASSED | No entities in prompt → audit passed FINAL VALIDATED ANSWER ACCEPTED after 1 attempt(s)! FINAL NODES: [('Mouth', 'BodyPart'), ('Diabetes Mellitus', 'Disease'), ('Type 2 Diabetes', 'Disease'), ('Depression', 'Disease'), ('Fatigue', 'Symptom'), ('Dizziness', 'Symptom'), ('Blurred Vision', 'Symptom'), ('Sleep Disturbances', 'Symptom'), ('Nocturia', 'Symptom'), ('Polyuria', 'Symptom'), ('Poor Diet', 'RiskFactor'), ('Lack of Exercise', 'RiskFactor'), ('Cognitive Impairment', 'RiskFactor')] ================================================================================ QUERY: Explain hypertension and its risks. → Attempt 1/4 Generation time: 31.12s ANSWER: Hypertension is a common condition that can be treated with lifestyle changes, medications or surgery if necessary. The risk of developing high blood pressure increases as the patient's age advances; however, it may also occur in younger patients who have other medical conditions such as diabetes mellitus, obesity, dyslipidemia, chronic kidney disease (CKD), obstructive sleep apnea syndrome, polycystic ovary syndrome, pregnancy, menopause, etc. Hypertension has been associated with increased mortality rates due to cardiovascular diseases including coronary artery disease, stroke, heart failure, atrial fibrillation, peripheral vascular disease, aortic aneurysm, renal insufficiency, and death from cancer. In addition, hypertension leads to significant morbidity by causing target organ damage such as left ventricular hypertrophy, microalbuminuria, retinopathy, nephropathy, and arterial stiffness. < / FREETEXT > < / ABSTRACT > ▃ </s> EXTRACTED ENTITIES → [('Heart', 'BodyPart'), ('Diabetes Mellitus', 'Disease'), ('Hypertension', 'Disease'), ('Stroke', 'Disease'), ('Chronic Kidney Disease', 'Disease'), ('Cancer', 'Disease'), ('Cardiovascular Diseases', 'Disease'), ('Arterial Stiffness', 'Disease'), ('Coronary Artery Disease', 'Disease'), ('Heart Failure', 'Disease'), ('Atrial Fibrillation', 'Disease'), ('Obesity', 'Disease'), ('Dyslipidemia', 'Disease'), ('Sleep Apnea', 'Disease'), ('Obstructive Sleep Apnea', 'Disease'), ('Surgery', 'Treatment'), ('Sleep Apnea', 'Symptom'), ('Obstructive Sleep Apnea', 'Symptom'), ('Obesity', 'RiskFactor'), ('Hypertension', 'RiskFactor'), ('Medications', 'RiskFactor'), ('Arterial Stiffness', 'RiskFactor'), ('Microalbumin', 'DiagnosticTest')] RAG AUDIT → PASSED | PASS: multi-category prompt (coverage + depth satisfied) FINAL VALIDATED ANSWER ACCEPTED after 1 attempt(s)! FINAL NODES: [('Heart', 'BodyPart'), ('Diabetes Mellitus', 'Disease'), ('Hypertension', 'Disease'), ('Stroke', 'Disease'), ('Chronic Kidney Disease', 'Disease'), ('Cancer', 'Disease'), ('Cardiovascular Diseases', 'Disease'), ('Arterial Stiffness', 'Disease'), ('Coronary Artery Disease', 'Disease'), ('Heart Failure', 'Disease'), ('Atrial Fibrillation', 'Disease'), ('Obesity', 'Disease'), ('Dyslipidemia', 'Disease'), ('Sleep Apnea', 'Disease'), ('Obstructive Sleep Apnea', 'Disease'), ('Surgery', 'Treatment'), ('Sleep Apnea', 'Symptom'), ('Obstructive Sleep Apnea', 'Symptom'), ('Obesity', 'RiskFactor'), ('Hypertension', 'RiskFactor'), ('Medications', 'RiskFactor'), ('Arterial Stiffness', 'RiskFactor'), ('Microalbumin', 'DiagnosticTest')] ================================================================================ QUERY: How does fever present in patients? → Attempt 1/4 Generation time: 44.75s ANSWER: Fever is a common symptom, and it can be caused by many different diseases or conditions. The most important causes of fever are infections (bacterial and viral), neoplasms, autoimmune disorders, drug reactions, and other systemic illnesses. In addition to the history and physical examination, laboratory tests such as complete blood count with differential cell counts, erythrocyte sedimentation rate, C-reactive protein level, procalcitonin levels, urinalysis, chest radiography, abdominal ultrasonography, and electrocardiography should be performed for diagnosis. When evaluating febrile children, clinicians must consider whether they have an infectious disease or another condition that could cause their symptoms. If there is no evidence of infection, then noninfectious etiologies including malignancy, connective tissue disorder, metabolic syndrome, autoinflammatory syndromes, and neurologic illness need to be considered. A detailed medical history and thorough clinical assessment help guide further diagnostic testing and treatment decisions. This article provides practical guidance on how to approach the evaluation of pediatric fevers based on recent guidelines from the American Academy of Pediatrics and the Infectious Diseases Society of America. It also discusses some key points regarding management strategies for these patients. [Pediatr Ann. 2 EXTRACTED ENTITIES → [('Infectious Diseases', 'Disease'), ('STEMI', 'Disease'), ('Metabolic Syndrome', 'Disease'), ('Fever', 'Symptom'), ('Electrocardiography', 'DiagnosticTest'), ('Physical Examination', 'DiagnosticTest'), ('Complete Blood Count', 'DiagnosticTest'), ('Urinalysis', 'DiagnosticTest'), ('Calcitonin', 'DiagnosticTest')] RAG AUDIT → PASSED | PASS: single-category prompt (breadth + depth satisfied) FINAL VALIDATED ANSWER ACCEPTED after 1 attempt(s)! FINAL NODES: [('Infectious Diseases', 'Disease'), ('STEMI', 'Disease'), ('Metabolic Syndrome', 'Disease'), ('Fever', 'Symptom'), ('Electrocardiography', 'DiagnosticTest'), ('Physical Examination', 'DiagnosticTest'), ('Complete Blood Count', 'DiagnosticTest'), ('Urinalysis', 'DiagnosticTest'), ('Calcitonin', 'DiagnosticTest')] medicalAI LLM RAG GRAPH SLM knowledgegraph healthtech digitalhealth AIinHealthcare MedTech BioGPT
 
-5h ago
-
----
-
-**[EU investigates Google over AI-generated summaries in search results](https://www.reddit.com/r/artificial/comments/1pi6doo/eu_investigates_google_over_aigenerated_summaries/)**
-
-It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
-
-🔗 [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o) • 2h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ It is examining whether the tech giant did not offer "appropriate compensation" 
 
 Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -135,63 +135,57 @@ BBC • 3h ago
 
 ---
 
-**[EU opens investigation into Google’s use of online content for AI models](https://www.theguardian.com/technology/2025/dec/09/eu-investigation-google-ai-models-gemini)**
+**[Google hit with EU antitrust investigation over use of online content for AI](https://www.cnbc.com/2025/12/09/google-hit-with-eu-antitrust-probe-over-use-of-online-content-for-ai.html)**
 
-European Commission to assess whether Gemini owner is putting rival companies at a disadvantage
+It's the latest in a string of actions the European Commission has taken against U.S. big tech companies.
 
-The Guardian • 6h ago
-
----
-
-**[Google to launch first of its AI glasses in 2026](https://www.cnbc.com/2025/12/08/google-ai-glasses-launch-2026.html)**
-
-That includes the first of Google's AI glasses in partnership with Warby Parker.
-
-CNBC • 18h ago
+CNBC • 6h ago
 
 ---
 
-**[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws)**
+**[Indian AI royalty proposal targets data practices of OpenAI, Google](https://www.reuters.com/sustainability/boards-policy-regulation/indian-ai-royalty-proposal-targets-data-practices-openai-google-2025-12-09/)**
 
-President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
-
-CNN • 23h ago
+Reuters • 4h ago
 
 ---
 
-**[White House official presses allies to free AI from innovation-killing regulations](https://www.foxnews.com/politics/white-house-official-presses-allies-free-ai-from-innovation-killing-regulations)**
+**[Trump to sign ‘one-rule’ executive order on AI to bypass US state approvals](https://www.aljazeera.com/news/2025/12/8/trump-to-sign-one-rule-executive-order-on-ai-to-bypass-us-state-approvals)**
 
-White House science and technology advisor Michael Kratsios urges G7 nations to clear AI regulatory obstacles, warning that sweeping rulebooks could slow needed innovation.
+Donald Trump vows to unleash AI competitiveness, but removing state oversight riles members of his Republican Party.
 
-Fox News • 36m ago
+Al Jazeera • 1d ago
+
+---
+
+**[Trump Promises Executive Order to Block State A.I. Regulations](https://www.nytimes.com/2025/12/08/us/politics/trump-executive-order-ai-laws.html)**
+
+The New York Times • 16h ago
 
 ---
 
 **[Opinion | Amy Klobuchar: Trump Should Not Replace A.I. Laws With an Executive Order](https://www.nytimes.com/2025/12/09/opinion/klobuchar-trump-ai.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
-**[Sequoia-Led Funding Vaults AI Startup Fal to $4.5 Billion Valuation](https://www.bloomberg.com/news/articles/2025-12-09/sequoia-led-funding-vaults-ai-startup-fal-to-4-5-billion-valuation)**
+**[From Chaos to Control: Orchestrating AI Across Enterprise Marketing](https://www.marketingprofs.com/articles/2025/54095/b2b-enterprise-marketing-ai-orchestration)**
 
-Artificial Intelligence startup Fal raised fresh funding from investors in a deal that values the company at $4.5 billion, according to a person familiar with the matter — triple its valuation from a few months earlier.
+Enterprise marketers struggle with fragmented AI initiatives. Learn how orchestration, governance, and integration frameworks create coordinated AI deployment that drives adoption and ROI.
 
-Bloomberg.com • 51m ago
-
----
-
-**[AI isn't the reason you got laid off (or not hired), top staffing agency says. You don't have the right skills](https://fortune.com/2025/12/09/will-ai-steal-my-job-layoffs-low-hire-fire-economy-manpower-survey/)**
-
-The typical company expects to hire eight workers in the first quarter of 2026, ManpowerGroup's new survey finds.
-
-Fortune • 51m ago
+MarketingProfs • 15m ago
 
 ---
 
-**[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
+**[Wells Fargo CEO Sees AI Impacting Companies’ Workforce Decisions](https://www.bloomberg.com/news/articles/2025-12-09/wells-fargo-ceo-sees-ai-impacting-companies-workforce-decisions)**
 
-The Economist • 17h ago
+Bloomberg.com • 26m ago
+
+---
+
+**[Have you seen this (AI-generated) man? Police swap suspect sketches for AI.](https://www.washingtonpost.com/nation/2025/12/09/ai-police-suspect-sketch-arizona/)**
+
+The Washington Post • 21m ago
 
 ---
 
@@ -209,7 +203,7 @@ The Economist • 17h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 476 • 💬 405 • 14h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 491 • 💬 432 • 14h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -217,13 +211,13 @@ AI progress is steady. Human equivalence is sudden.
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 409 • 💬 360 • 21h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 409 • 💬 361 • 22h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 177 • 💬 161 • 21h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 178 • 💬 162 • 21h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -257,7 +251,7 @@ Starting Jan. 1, traditional Medicare recipients in Washington state will face a
 
 Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
 
-⬆️ 35 • 💬 6 • 1d ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
+⬆️ 36 • 💬 6 • 1d ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
 
 ---
 
@@ -279,7 +273,7 @@ JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, cryp
 
 📺 Fox Business
 
-👁️ 65K • 👍 1K • 💬 367 • ⏱️ 18:47 • 22h ago
+👁️ 65K • 👍 1K • 💬 367 • ⏱️ 18:47 • 23h ago
 
 ---
 
@@ -349,7 +343,7 @@ Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Fu
 
 📺 Dan Kieft
 
-👁️ 28K • 💬 26 • ⏱️ 20:04 • 21h ago
+👁️ 28K • 💬 26 • ⏱️ 20:04 • 22h ago
 
 ---
 
@@ -385,7 +379,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 217,428 • ❤️ 2,400 • 22h ago
+⬇️ 217,428 • ❤️ 2,404 • 22h ago
 
 ---
 
@@ -397,7 +391,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 56,958 • ❤️ 573 • 10h ago
+⬇️ 56,958 • ❤️ 574 • 10h ago
 
 ---
 
@@ -409,7 +403,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 33,102 • ❤️ 833 • 8d ago
+⬇️ 33,102 • ❤️ 834 • 8d ago
 
 ---
 
@@ -431,7 +425,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 6,920 • ❤️ 206 • 9h ago
+⬇️ 6,920 • ❤️ 208 • 9h ago
 
 ---
 
@@ -477,19 +471,19 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 4,106 • ❤️ 403 • 7d ago
+⬇️ 4,106 • ❤️ 404 • 7d ago
 
 ---
 
-**[LongCat-Image](https://huggingface.co/meituan-longcat/LongCat-Image)**
+**[rnj-1-instruct](https://huggingface.co/EssentialAI/rnj-1-instruct)**
 
-*LongCat*
+*Essential AI*
 
-LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusion model with 6B parameters, excelling in photorealism and accurate Chinese character rendering. It's designed for high performance and developer accessibility, suitable for diverse creative applications.
+Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and STEM tasks, excelling in code generation, agentic frameworks, and tool-calling.
 
-`text-to-image`
+`text-generation` `8.3B`
 
-⬇️ 303 • ❤️ 160 • 8h ago
+⬇️ 443,437 • ❤️ 162 • 18h ago
 
 ---
 
@@ -703,7 +697,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 889 • 🔱 61 • 3h ago
+⭐ 889 • 🔱 61 • 4h ago
 
 ---
 
@@ -723,7 +717,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 842 • 🔱 45 • 11h ago
+⭐ 842 • 🔱 45 • 12h ago
 
 ---
 

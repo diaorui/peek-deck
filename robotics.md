@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T14:51:59.998006+00:00'
+updated: '2025-12-09T15:16:36.734605+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 14:51 UTC  
+**Last Updated:** December 09, 2025 at 15:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,15 +42,7 @@ Robotics research and industry news
 
 Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
-1h ago
-
----
-
-**[China is deploying fully autonomous electric tractors to fix its rural labor crisis. The Honghu T70 runs uncrewed for 6 hours with ±2.5cm precision](https://www.reddit.com/r/robotics/comments/1phg15a/china_is_deploying_fully_autonomous_electric/)**
-
-This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most concept machines, this one is production ready and operating in Hebei Province to address the aging rural workforce. The Tech Stack: Autonomy: Uses LiDAR and RTK-GNSS for path planning with ±2.5 cm precision. It handles the entire cycle: ploughing, seeding, spraying and harvesting without a driver. Smart Sensing: Beyond just driving, it collects real-time data on soil composition, moisture, and crop health while running. Powertrain: Pure electric with a dual-motor setup (separating traction from the PTO/farming implements) for better load control. Endurance: Runs for 6 hours on a single charge and coordinates via a 5G mesh network. "Agri-Robotics" is where we are seeing the first massive wave of real world autonomy. If a single person can manage a fleet of these from a tablet, it fundamentally changes the economics of small to medium farms. Source: Lucas
-
-22h ago
+2h ago
 
 ---
 
@@ -62,6 +54,14 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 ---
 
+**[China is deploying fully autonomous electric tractors to fix its rural labor crisis. The Honghu T70 runs uncrewed for 6 hours with ±2.5cm precision](https://www.reddit.com/r/robotics/comments/1phg15a/china_is_deploying_fully_autonomous_electric/)**
+
+This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most concept machines, this one is production ready and operating in Hebei Province to address the aging rural workforce. The Tech Stack: Autonomy: Uses LiDAR and RTK-GNSS for path planning with ±2.5 cm precision. It handles the entire cycle: ploughing, seeding, spraying and harvesting without a driver. Smart Sensing: Beyond just driving, it collects real-time data on soil composition, moisture, and crop health while running. Powertrain: Pure electric with a dual-motor setup (separating traction from the PTO/farming implements) for better load control. Endurance: Runs for 6 hours on a single charge and coordinates via a 5G mesh network. "Agri-Robotics" is where we are seeing the first massive wave of real world autonomy. If a single person can manage a fleet of these from a tablet, it fundamentally changes the economics of small to medium farms. Source: Lucas
+
+23h ago
+
+---
+
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
 1d ago
@@ -70,7 +70,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 **[Inverted Double Pendulum in Isaac Lab](https://www.reddit.com/r/robotics/comments/1pi8anb/inverted_double_pendulum_in_isaac_lab/)**
 
-45m ago
+1h ago
 
 ---
 
@@ -79,12 +79,6 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
 
 1d ago
-
----
-
-**[Which desktop robot would you choose?](https://www.reddit.com/r/robotics/comments/1pi7mj1/which_desktop_robot_would_you_choose/)**
-
-1h ago
 
 ---
 
@@ -104,13 +98,21 @@ Has anyone seen how the mopping pressure is created in a robot vacuum? I would i
 
 ---
 
+**[How is the ABB drawing interface implemented on the ABB IRB 2600 robot and its IRC5 controller?](https://www.reddit.com/r/robotics/comments/1pi11em/how_is_the_abb_drawing_interface_implemented_on/)**
+
+What is the correct procedure for implementing a drawing interface on an ABB IRB 2600 robot using the IRC5 controller, including software integration, conversion of drawing data to robot paths, and RAPID programming requirements. Curious about ABB IRB 2600 robot and did anyone have experience with this? Thank you in advance!!!!!
+
+8h ago
+
+---
+
 ---
 
 ## Google News: "robotics"
 
 **[Speech-to-reality system creates objects on demand using AI and robotics](https://techxplore.com/news/2025-12-speech-reality-demand-ai-robotics.html)**
 
-Tech Xplore • 23h ago
+Tech Xplore • 1d ago
 
 ---
 
@@ -119,6 +121,22 @@ Tech Xplore • 23h ago
 The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
 
 Breaking Defense • 1d ago
+
+---
+
+**[Tesla: Mastering Fear And Greed In The Robotics Supercycle (Rating Downgrade) (TSLA)](https://seekingalpha.com/article/4851542-tesla-mastering-fear-and-greed-in-the-robotics-supercycle-rating-downgrade)**
+
+Tesla, Inc. remains a sentiment-driven asset despite strong fundamentals. Click here to read why TSLA stock is downgraded to a Hold.
+
+Seeking Alpha • 27m ago
+
+---
+
+**[Skana Robotics unveils Alligator autonomous amphibious vessel](https://www.therobotreport.com/skana-robotics-unveils-alligator-autonomous-amphibious-vessel/)**
+
+The Alligator is an autonomous amphibious vessel designed to deliver logistics, sensors, and personnel between water and land.
+
+The Robot Report • 1h ago
 
 ---
 
@@ -134,7 +152,7 @@ Bloomberg.com • 1d ago
 
 Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -158,7 +176,7 @@ PYMNTS.com • 17h ago
 
 1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
 
-Valley News Live • 15h ago
+Valley News Live • 16h ago
 
 ---
 
@@ -166,21 +184,7 @@ Valley News Live • 15h ago
 
 While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-Interesting Engineering • 22h ago
-
----
-
-**[Serve Robotics Extends Autonomous Delivery to Fort Lauderdale](https://finance.yahoo.com/news/serve-robotics-extends-autonomous-delivery-153500451.html)**
-
-SERV expands its autonomous delivery network to Fort Lauderdale, deepening its South Florida presence through Uber Eats.
-
-Yahoo Finance • 23h ago
-
----
-
-**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://www.marketbeat.com/stock-ideas/5-robotics-stocks-catching-momentum-after-new-policy-tailwinds/)**
-
-MarketBeat • 2h ago
+Interesting Engineering • 23h ago
 
 ---
 
@@ -232,7 +236,7 @@ In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comfor
 
 📺 AI Robot Lab
 
-👁️ 2K • 👍 21 • 💬 2 • ⏱️ 0:24 • 3h ago
+👁️ 2K • 👍 21 • 💬 2 • ⏱️ 0:24 • 4h ago
 
 ---
 
@@ -260,7 +264,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 26K • 👍 230 • 💬 1 • ⏱️ 0:18 • 11h ago
+👁️ 26K • 👍 230 • 💬 1 • ⏱️ 0:18 • 12h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T14:51:59.994091+00:00'
+updated: '2025-12-09T15:16:36.731325+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 14:51 UTC  
+**Last Updated:** December 09, 2025 at 15:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,106.09
+### $3,146.30
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -2.4%  
-**30d:** -12.6%  
-**90d:** -30.3%  
-**1y:** -14.1%  
+**24h:** +0.5%  
+**7d:** -2.1%  
+**30d:** -12.3%  
+**90d:** -30.0%  
+**1y:** -13.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.04B
+**Market Cap:** $379.78B
 Rank #2
 
 **Circulating Supply:** 120,695,272 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.2%
+-36.7%
 
 **All-Time Low:** $0.43
-+717110.3%
++723256.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138,452 ETH, equivalent to about US$435 million, in its latest accumulation round. This bold move boosts BitMine’s total crypto holdings significantly, reinforcing its position as one of the largest institutional holders of Ethereum (ETH) worldwide. Tom Lee and his team cited several catalysts behind this surge: the recent Fusaka upgrade to the Ethereum network — implemented 3 December — which promises improved scalability, security and usability. Additionally, macroeconomic conditions appear favorable, with expectations of a loosening monetary policy by the Federal Reserve potentially supporting broader crypto market recovery. The scale of the purchase (over 138,000 ETH in just a week) marks a dramatic acceleration compared to previous buying patterns — reportedly about 156 % more than the firm’s weekly average four weeks ago. In doing so, BitMine pushes further toward its longer-term target of controlling up to 5 % of Ethereum’s total supply. In sum, this $435 million acquisition underlines BitMine’s growing conviction in Ethereum’s long-term potential, signaling confidence in both network upgrades and macroeconomic conditions that may favor a renewed bull cycle in crypto.
 
-23h ago
+1d ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 By magnitude, the biggest question for the Defi ecosystem for the next cycle is who gets to keep the yield on treasuries backing reserve stablecoins such as USDC and USDT? If secretary Bennett and the federal reserve are correct in their forecasts, we'll be at something like $3T in stablecoin market cap by 2030. At
 
-🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 19h ago
+🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 20h ago
 
 ---
 
@@ -166,19 +166,19 @@ The Motley Fool • 1d ago
 
 ---
 
+**[What Bitmine Immersion Technologies (BMNR)'s Pivot to Ethereum Treasury and Dividend Means For Shareholders](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-pivot-100740579.html)**
+
+Bitmine Immersion Technologies has recently transformed into a crypto treasury and services platform, amassing more than 3% of Ethereum’s supply, boosting its Ethereum and Bitcoin holdings, returning to profit in 2025 and declaring a US$0.01 dividend payable on December 29, 2025. By targeting ownership of up to 5% of all Ethereum and scaling staking and fee-based services, the company is increasingly positioning its equity as a leveraged proxy on the Ethereum ecosystem rather than a...
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
 
 The trading platform dives further into digital assets both domestically and globally.
 
-Fortune • 16h ago
-
----
-
-**[Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds](https://finance.yahoo.com/news/tom-lee-bitmine-buys-429-162833185.html)**
-
-Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
-
-Yahoo Finance • 22h ago
+Fortune • 17h ago
 
 ---
 
@@ -190,7 +190,7 @@ The Block • 1d ago
 
 **[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
 
-Binance • 22h ago
+Binance • 23h ago
 
 ---
 
@@ -204,7 +204,7 @@ The Block • 1d ago
 
 Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 757 • 👍 79 • 💬 5 • ⏱️ 4:05 • 2h ago
+👁️ 757 • 👍 79 • 💬 5 • ⏱️ 4:05 • 3h ago
 
 ---
 
@@ -254,7 +254,7 @@ Demat Account Dhan - https://invite.dhan.co/?invite=XDFET56312 Get Free access o
 
 📺 Trade with Burner
 
-👁️ 3K • 👍 408 • 43m ago
+👁️ 3K • 👍 408 • 1h ago
 
 ---
 
@@ -264,7 +264,7 @@ US M2 money supply just hit a new all-time high, and Bitcoin always seems to fol
 
 📺 Altcoin Buzz
 
-👁️ 238 • 👍 20 • 💬 64 • ⏱️ 14:52 • 49m ago
+👁️ 238 • 👍 20 • 💬 64 • ⏱️ 14:52 • 1h ago
 
 ---
 
@@ -274,7 +274,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 339 • 💬 20 • ⏱️ 15:50 • 23h ago
+👁️ 9K • 👍 339 • 💬 20 • ⏱️ 15:50 • 1d ago
 
 ---
 
@@ -304,7 +304,7 @@ In today's Milk Road episode, we sit down with CMT Digital's Aryan Sheikhalian t
 
 📺 Milk Road
 
-👁️ 2K • 👍 107 • 💬 81 • ⏱️ 33:06 • 18h ago
+👁️ 2K • 👍 107 • 💬 81 • ⏱️ 33:06 • 19h ago
 
 ---
 
