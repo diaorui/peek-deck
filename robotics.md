@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T22:50:27.021350+00:00'
+updated: '2025-12-09T23:09:48.107160+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 22:50 UTC  
+**Last Updated:** December 09, 2025 at 23:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
-9h ago
+10h ago
 
 ---
 
@@ -62,11 +62,11 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 ---
 
-**[MIT engineers give biohybrid robots a power upgrade with synthetic tendons](https://www.reddit.com/r/robotics/comments/1pie99u/mit_engineers_give_biohybrid_robots_a_power/)**
+**[Robot orders rise in Q3 2025 as automation demand strengthens in recent report](https://www.reddit.com/r/robotics/comments/1pihi93/robot_orders_rise_in_q3_2025_as_automation_demand/)**
 
-Engineers build artificial tendons that let muscle-powered robots move faster and pull harder, marking a major step for biohybrid machines.
+North American robot orders picked up again in Q3 2025, pointing to renewed momentum in manufacturing automation after a slower period. According to the latest market data, companies in North America ordered 8,806 robots in the third quarter, worth about $574 million. That works out to an 11.6 percent increase in units and a 17.2 percent increase in revenue compared to the same quarter last year. The most notable gains came from food and consumer goods, where robot orders were up more than 100 percent year over year, and from automotive OEMs, which saw orders rise sharply as well. Metals and general manufacturing also posted growth, while automotive components and plastics and rubber recorded declines, suggesting a more selective investment cycle in those segments.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 4h ago
+3h ago
 
 ---
 
@@ -78,11 +78,11 @@ Teaching Robots to Understand Natural Language Built an autonomous navigation sy
 
 ---
 
-**[Robot orders rise in Q3 2025 as automation demand strengthens in recent report](https://www.reddit.com/r/robotics/comments/1pihi93/robot_orders_rise_in_q3_2025_as_automation_demand/)**
+**[MIT engineers give biohybrid robots a power upgrade with synthetic tendons](https://www.reddit.com/r/robotics/comments/1pie99u/mit_engineers_give_biohybrid_robots_a_power/)**
 
-North American robot orders picked up again in Q3 2025, pointing to renewed momentum in manufacturing automation after a slower period. According to the latest market data, companies in North America ordered 8,806 robots in the third quarter, worth about $574 million. That works out to an 11.6 percent increase in units and a 17.2 percent increase in revenue compared to the same quarter last year. The most notable gains came from food and consumer goods, where robot orders were up more than 100 percent year over year, and from automotive OEMs, which saw orders rise sharply as well. Metals and general manufacturing also posted growth, while automotive components and plastics and rubber recorded declines, suggesting a more selective investment cycle in those segments.
+Engineers build artificial tendons that let muscle-powered robots move faster and pull harder, marking a major step for biohybrid machines.
 
-2h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 5h ago
 
 ---
 
@@ -96,7 +96,7 @@ North American robot orders picked up again in Q3 2025, pointing to renewed mome
 
 What I mean by "general" engineer is someone who has a bachelor's, master's or PhD in a field of engineering like mechanical, electrical, controls, computer science, etc. but not necessarily any specialization (master's or PhD) in robotics. I myself have a master's in control theory/systems but I don't find myself competent in jumping straight into designing the kinematics, dynamics and control algorithms of a 6 axis industrial robot (for example) from scratch. Not to mention selection of motors and actuation mechanisms and tuning the closed loop characteristics, etc., selection of controllers like PLCs. I was thrust into a project to design a highly complex 6 axis industrial robot with a lot of constraints. There are other engineers (mech, electrical) none of whom have any specialization in robotics nor any prior experience in designing industrial robots. I'm curious how the big robot companies recruit and/or train their employees. Do they always hire people with advanced degrees specialized in robotics? What kind of training is given to "general" engineers if hired? I'm sure robot companies at least write their own control software from scratch. So, I assume at least the controls and software people either have specialized degrees, prior experience or receive training within the company.
 
-40m ago
+1h ago
 
 ---
 
@@ -146,7 +146,7 @@ Bloomberg.com • 1d ago
 
 Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -154,7 +154,7 @@ Yahoo Finance • 23h ago
 
 Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -256,7 +256,7 @@ In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comfor
 
 📺 AI Robot Lab
 
-👁️ 6K • 👍 64 • 💬 3 • ⏱️ 0:24 • 11h ago
+👁️ 6K • 👍 64 • 💬 3 • ⏱️ 0:24 • 12h ago
 
 ---
 
@@ -276,7 +276,7 @@ At the Silicon Valley Robotics Expo 2025, engineers demonstrate a futuristic AI 
 
 📺 AI Robot Lab
 
-👁️ 11K • 👍 81 • 💬 1 • ⏱️ 0:24 • 7h ago
+👁️ 11K • 👍 81 • 💬 1 • ⏱️ 0:24 • 8h ago
 
 ---
 

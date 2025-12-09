@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T22:50:27.018017+00:00'
+updated: '2025-12-09T23:09:48.103527+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 22:50 UTC  
+**Last Updated:** December 09, 2025 at 23:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.6%  
-**7d:** +4.4%  
-**30d:** -6.5%  
-**90d:** -25.4%  
-**1y:** -8.2%  
+**24h:** +6.8%  
+**7d:** +4.2%  
+**30d:** -6.7%  
+**90d:** -25.5%  
+**1y:** -8.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $400.90B
+**Market Cap:** $401.50B
 Rank #2
 
 **Circulating Supply:** 120,695,272 ETH
@@ -62,7 +62,7 @@ No max supply
 -32.8%
 
 **All-Time Low:** $0.43
-+767653.2%
++767630.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-13m ago
+33m ago
 
 ---
 
@@ -154,7 +154,7 @@ This is Part Eight! The very last chapter of the eight-part series: Can I Pay Wi
 
 Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 154 • 💬 11 • ⏱️ 4:05 • 10h ago
+👁️ 3K • 👍 154 • 💬 11 • ⏱️ 4:05 • 11h ago
 
 ---
 

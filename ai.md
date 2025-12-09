@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T22:50:27.003170+00:00'
+updated: '2025-12-09T23:09:48.085988+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - social
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 22:50 UTC  
+**Last Updated:** December 09, 2025 at 23:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 7h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 8h ago
 
 ---
 
@@ -63,15 +63,7 @@ A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is 
 
 Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as AI shakes up jobs, education, and the global economy.
 
-🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 37m ago
-
----
-
-**[OpenAI, Anthropic, and Block Are Teaming Up to Make AI Agents Play Nice](https://www.reddit.com/r/artificial/comments/1pidls9/openai_anthropic_and_block_are_teaming_up_to_make/)**
-
-American AI giants are backing a new effort to establish open standards for building agentic software and tools.
-
-🔗 [WIRED](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/) • 5h ago
+🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 56m ago
 
 ---
 
@@ -80,6 +72,14 @@ American AI giants are backing a new effort to establish open standards for buil
 GPT-5.2 rumored to drop today Meta acquires AI wearable company Buy groceries without leaving ChatGPT A collection of AI Updates! 🧵 1. OpenAI Rumored to Drop GPT-5.2 Today (December 9th) "Code red" response to Google arriving earlier than planned. GPT-5.2 accelerated release schedule in direct competition with Gemini advancements. OpenAI-Google AI race intensifies. 2. Anthropic Launches Tool to Understand People's Perspectives on AI Anthropic Interviewer drafts questions, conducts interviews, and analyzes responses. Week-long pilot at claude.ai/interviewer. Already tested on 1,250 professionals - findings show workers want routine delegation but creative control. New research on AI adoption. 3. Meta Acquires LimitlessAI for it's Wearable Conversation Device Startup creates pendant-style device that captures and transcribes real-world conversations. Aligns with Meta's AI-enabled consumer hardware strategy and "personal superintelligence" vision. A greater push into AI wearables beyond glasses. 4. You Can Now Buy Groceries Without Leaving ChatGPT Stripe partners with Instacart for direct checkout in ChatGPT. Powered by Agentic Commerce Protocol launched with OpenAI. Uses Stripe Shared Payment Tokens for secure payments. Live on web today, mobile coming soon. 5. Elon Musk Announces Grok 4.20 Release in 3-4 Weeks Next major Grok model update coming soon. Timeline puts release in early January 2025. xAI continues rapid iteration on competitive AI models. 6. a16z Co-Leads $475M Seed for Unconventional AI Chip Startup Building highly efficient AI-first chips using analog computing systems. CEO Naveen Rao previously sold two companies. Focus on better hardware to enable AGI. A much different approach on chips compared to current industry standards. 7. Microsoft Pledges to Invest $19 billion+ in AI infra in Canada A total of $19 billion CAD between 2023 and 2027 has just been pledged this morning. $7.5 billion CAD alone over the next two years. 8. Google Planning Nano Banana 2 Flash Release in Coming Weeks Internal "Mayo" announcement added to Gemini web. Performance matches Nano Banana 2 Pro at lower cost. Gemini 3 Flash likely dropping around same time. Flash variant enables wider scaling without sacrificing quality. 9. OpenAI Releases GPT-5.1-Codex Max via Responses API Most capable agentic coding model now available to integrate into apps and workflows. First launched in Codex two weeks ago. Purpose-built for agentic coding with foundational reasoning. Also accessible via Codex CLI with API key. 10. Google Drops Deep Think Mode for Gemini 3 Explores multiple hypotheses simultaneously with iterative reasoning rounds. Produces more refined, nuanced code with richer detail. Available to Google AI Ultra subscribers. Select 'Deep Think' in prompt bar to activate. That's a wrap on this week's AI News. Which update do you think is the biggest? LMK what else you want to see | More weekly AI + Agentic content releasing ever week!
 
 4h ago
+
+---
+
+**[OpenAI, Anthropic, and Block Are Teaming Up to Make AI Agents Play Nice](https://www.reddit.com/r/artificial/comments/1pidls9/openai_anthropic_and_block_are_teaming_up_to_make/)**
+
+American AI giants are backing a new effort to establish open standards for building agentic software and tools.
+
+🔗 [WIRED](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/) • 5h ago
 
 ---
 
@@ -103,7 +103,7 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 Shoppers may be unaware they're paying as much as 23% more than others for the same grocery items on Instacart, a new analysis says.
 
-🔗 [cbsnews.com](https://www.cbsnews.com/news/instacart-price-discrepancies-investigation/) • 2h ago
+🔗 [cbsnews.com](https://www.cbsnews.com/news/instacart-price-discrepancies-investigation/) • 3h ago
 
 ---
 
@@ -111,7 +111,7 @@ Shoppers may be unaware they're paying as much as 23% more than others for the s
 
 President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-🔗 [CNN](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws) • 6h ago
+🔗 [CNN](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws) • 7h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 6h ago
 
 Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -141,7 +141,7 @@ thehill.com • 1h ago
 
 **[Advocate cheers possible federal AI regulation](https://thehill.com/policy/technology/5640357-ai-regulation-child-safety/)**
 
-thehill.com • 38m ago
+thehill.com • 57m ago
 
 ---
 
@@ -157,7 +157,7 @@ WIRED • 5h ago
 
 Roughly one-in-five U.S. teens say they are on TikTok and YouTube almost constantly. At the same time, 64% of teens say they use chatbots, including about three-in-ten who do so daily.
 
-Pew Research Center • 2h ago
+Pew Research Center • 3h ago
 
 ---
 
@@ -165,7 +165,7 @@ Pew Research Center • 2h ago
 
 Nearly a third of US teenagers say they use AI chatbots daily, a new study finds, shedding light on how young people are embracing a technology that’s raised critical safety concerns around mental health impacts and exposure to mature content for kids.
 
-CNN • 2h ago
+CNN • 3h ago
 
 ---
 
@@ -181,7 +181,7 @@ BBC • 16h ago
 
 First AI technology on GenAI.mil, delivering IL5-authorized generative AI department-wide SUNNYVALE, Calif., Dec. 9, 2025 /PRNewswire/ -- Google Cloud today announced that the Chief Digital and...
 
-Google Cloud Press Corner • 7h ago
+Google Cloud Press Corner • 8h ago
 
 ---
 
@@ -207,7 +207,7 @@ Fox Business • 8h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 534 • 💬 518 • 22h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 536 • 💬 526 • 22h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -229,7 +229,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 169 • 💬 188 • 7h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 181 • 💬 217 • 8h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -243,7 +243,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 107 • 💬 49 • 5h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 113 • 💬 55 • 6h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -431,7 +431,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 6,920 • ❤️ 223 • 4h ago
+⬇️ 6,920 • ❤️ 223 • 5h ago
 
 ---
 
@@ -661,7 +661,7 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.3k • 🔱 160 • 5h ago
+⭐ 1.3k • 🔱 160 • 6h ago
 
 ---
 
@@ -691,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 126 • 1h ago
+⭐ 1.0k • 🔱 126 • 2h ago
 
 ---
 

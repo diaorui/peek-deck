@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T22:50:27.011829+00:00'
+updated: '2025-12-09T23:09:48.094780+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 22:50 UTC  
+**Last Updated:** December 09, 2025 at 23:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,973.05
+### $92,832.38
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.4%  
-**7d:** -0.8%  
-**30d:** -12.4%  
-**90d:** -19.4%  
+**24h:** +2.8%  
+**7d:** -0.9%  
+**30d:** -12.5%  
+**90d:** -19.5%  
 **1y:** -3.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1851.25B
+**Market Cap:** $1850.45B
 Rank #1
 
-**Circulating Supply:** 19,959,884 BTC
+**Circulating Supply:** 19,959,900 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.4%
+-26.5%
 
 **All-Time Low:** $67.81
-+136725.0%
++136555.4%
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
+
+3h ago
+
+---
+
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pier04/daily_meme_until_100000/)**
 
 4h ago
@@ -85,13 +91,7 @@ Rank #1
 
 **[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
 
-9h ago
-
----
-
-**["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
-
-3h ago
+10h ago
 
 ---
 
@@ -103,17 +103,23 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
+**[OCC authorizes U.S. banks to execute riskless-principal Bitcoin transactions unlocking regulated execution without balance-sheet exposure](https://www.reddit.com/r/Bitcoin/comments/1pigmi8/occ_authorizes_us_banks_to_execute/)**
+
+The OCC is the federal authority that determines what U.S. banks are allowed to execute under supervision. This shift is bigger then the ETF Approval from 2024! Its approval is not opinion, interpretation, or industry signaling. It is a binding permission that enables banks to route Bitcoin transactions legally, without inventory risk, and within standard audit frameworks. The relevance is not immediate, because regulatory clarity precedes capital deployment. But when distribution becomes active, this ruling will be the reason banks can deliver Bitcoin at scale through the same channels that already move equities, bonds, and FX flow.
+
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/occ-authorizes-us-banks-to-execute) • 3h ago
+
+---
+
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
 16h ago
 
 ---
 
-**[OCC authorizes U.S. banks to execute riskless-principal Bitcoin transactions unlocking regulated execution without balance-sheet exposure](https://www.reddit.com/r/Bitcoin/comments/1pigmi8/occ_authorizes_us_banks_to_execute/)**
+**[Taste the pain first](https://www.reddit.com/r/Bitcoin/comments/1pilin2/taste_the_pain_first/)**
 
-The OCC is the federal authority that determines what U.S. banks are allowed to execute under supervision. This shift is bigger then the ETF Approval from 2024! Its approval is not opinion, interpretation, or industry signaling. It is a binding permission that enables banks to route Bitcoin transactions legally, without inventory risk, and within standard audit frameworks. The relevance is not immediate, because regulatory clarity precedes capital deployment. But when distribution becomes active, this ruling will be the reason banks can deliver Bitcoin at scale through the same channels that already move equities, bonds, and FX flow.
-
-🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/occ-authorizes-us-banks-to-execute) • 3h ago
+35m ago
 
 ---
 
@@ -125,25 +131,19 @@ If you had put $1000 into BTC in 2010 and left it alone without further investme
 
 ---
 
+**[Fed meeting tomorrow](https://www.reddit.com/r/Bitcoin/comments/1pilf43/fed_meeting_tomorrow/)**
+
+Hi everyone, FOMC meeting will be tomorrow with the decision about potential interest rate cut. What is your expectation in terms of (a) cut itself, (b) 2026 policy (c) crypto sector (d) btc price. Any thoughts much appreciated!
+
+39m ago
+
+---
+
 **[Indiana considering legislation to require Bitcoin options in Public Retirement Plans](https://www.reddit.com/r/Bitcoin/comments/1pia1pu/indiana_considering_legislation_to_require/)**
 
 Indiana lawmakers are making history with groundbreaking legislation that would force public retirement programs to offer Bitcoin investments.
 
 🔗 [Brave New Coin](https://bravenewcoin.com/insights/indiana-becomes-first-state-to-require-bitcoin-options-in-public-retirement-plans) • 7h ago
-
----
-
-**[Earning $100k now has about the same buying power that $40k a year had back in 1990](https://www.reddit.com/r/Bitcoin/comments/1pi1w8o/earning_100k_now_has_about_the_same_buying_power/)**
-
-14h ago
-
----
-
-**[Most people holding more than 2 bitcoin here are chill](https://www.reddit.com/r/Bitcoin/comments/1pi3orj/most_people_holding_more_than_2_bitcoin_here_are/)**
-
-And most who keep panicking, and those crazy shenanigans fud are mostly from noobs or either those who invest rent money, or worst haven't studied Bitcoin.
-
-12h ago
 
 ---
 
@@ -191,7 +191,7 @@ MarketWatch • 1h ago
 
 The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -223,7 +223,7 @@ Bloomberg.com • 5h ago
 
 <p>Strategic Partnership Empowers PNC Private Bank Clients with Bitcoin Trading&nbsp;</p>
 
-PR Newswire • 9h ago
+PR Newswire • 10h ago
 
 ---
 
@@ -335,7 +335,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 18K • 👍 900 • 💬 205 • ⏱️ 8:51 • 7h ago
+👁️ 18K • 👍 900 • 💬 205 • ⏱️ 8:51 • 8h ago
 
 ---
 
@@ -355,7 +355,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 200 • ⏱️ 10:16 • 20h ago
+👁️ 59K • 👍 3K • 💬 200 • ⏱️ 10:16 • 21h ago
 
 ---
 
