@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T00:47:50.211051+00:00'
+updated: '2025-12-09T02:29:04.137076+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 00:47 UTC  
+**Last Updated:** December 09, 2025 at 02:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -47,15 +47,7 @@ AI news, discussions, and developments
 
 Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
 
-🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 4h ago
-
----
-
-**[There's a new $1 million prize to understand what happens inside LLMs: "Using AI models today is like alchemy: we can do seemingly magical things, but don't understand how or why they work."](https://www.reddit.com/r/artificial/comments/1phbmdu/theres_a_new_1_million_prize_to_understand_what/)**
-
-At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
-
-🔗 [withmartian.com](https://withmartian.com/prize) • 11h ago
+🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 6h ago
 
 ---
 
@@ -63,7 +55,15 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai says no job, not even his own, is safe. But those who don’t adapt will be the first to fall.
 
-🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 2h ago
+🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 4h ago
+
+---
+
+**[There's a new $1 million prize to understand what happens inside LLMs: "Using AI models today is like alchemy: we can do seemingly magical things, but don't understand how or why they work."](https://www.reddit.com/r/artificial/comments/1phbmdu/theres_a_new_1_million_prize_to_understand_what/)**
+
+At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
+
+🔗 [withmartian.com](https://withmartian.com/prize) • 13h ago
 
 ---
 
@@ -71,7 +71,7 @@ AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai sa
 
 From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming releases by names that resemble existing trademarks.
 
-🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 3h ago
+🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 5h ago
 
 ---
 
@@ -79,7 +79,7 @@ From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming r
 
 Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
-11h ago
+13h ago
 
 ---
 
@@ -87,7 +87,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks big bets like Watsonx and next-gen computing will pay off.
 
-🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 10h ago
+🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 12h ago
 
 ---
 
@@ -95,13 +95,7 @@ IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks b
 
 The president announced the plans to create one rulebook for AI via his Truth Social account on Monday.
 
-🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 9h ago
-
----
-
-**[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
-
-12h ago
+🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 10h ago
 
 ---
 
@@ -109,7 +103,13 @@ The president announced the plans to create one rulebook for AI via his Truth So
 
 Title.
 
-3h ago
+4h ago
+
+---
+
+**[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
+
+13h ago
 
 ---
 
@@ -117,69 +117,15 @@ Title.
 
 ## Google News: "ai"
 
-**[A.I. Videos Have Flooded Social Media. No One Was Ready.](https://www.nytimes.com/2025/12/08/business/ai-slop-sora-social-media.html)**
+**[A.I. Videos Have Flooded Social Media. No One Was Ready.](https://www.nytimes.com/2025/12/08/technology/ai-slop-sora-social-media.html)**
 
-The New York Times • 5h ago
-
----
-
-**[BlackRock bets on ‘pick and shovel’ trade, singling out clear winners in AI spending spree](https://www.cnbc.com/2025/12/08/blackrock-ben-powell-bet-trade-as-ai-spending-frenzy-hyperscalers-investment-credit.html)**
-
-Powell noted that leading tech firms have only begun to tap debt markets to fund the next phase of AI expansion, suggesting additional capital is on the way.
-
-CNBC • 15h ago
+The New York Times • 7h ago
 
 ---
 
-**[AI progress surges while researchers struggle to explain It](https://www.nbcnews.com/tech/tech-news/ai-progress-surges-researchers-struggle-explain-rcna247693)**
+**[Nvidia Wins Trump’s Approval to Sell H200 AI Chips in China](https://www.bloomberg.com/news/articles/2025-12-08/nvidia-set-to-win-us-approval-to-export-h200-ai-chips-to-china)**
 
-Despite soaring progress, scientists at AI’s largest gathering say key questions about how models work and how to measure them remain unsolved.
-
-NBC News • 11m ago
-
----
-
-**[Leonardo DiCaprio Says Even 'Brilliant' AI Music 'Dissipates Into the Ether of Other Internet Junk'](https://www.rollingstone.com/music/music-news/leonardo-dicaprio-ai-music-filmmaking-humanity-1235480598/)**
-
-Leonardo DiCaprio acknowledged AI's ability to assist filmmaking but said true art is anchored by humanity.
-
-Rolling Stone • 23m ago
-
----
-
-**[Cursor internal AI Help Desk handles 80% of employees' support tickets](https://fortune.com/2025/12/08/cursor-developed-an-internal-ai-help-desk-that-handles-80-of-its-employees-support-tickets-says-the-29-billion-startups-ceo/)**
-
-The AI coding-assistant start-up isn't just using artificial intelligence to help developers write code, it's deploying AI across its own internal operations, CEO Michael Truell said at Fortune's Brainstorm AI conference.
-
-Fortune • 31m ago
-
----
-
-**[Trump gives Nvidia the OK to sell advanced AI chips to China](https://www.bbc.com/news/articles/ckg9q635q6po)**
-
-Nvidia had been at the centre of a geopolitical tug-of-war between the US and China in recent months.
-
-BBC • 52m ago
-
----
-
-**[Trump Clears Sale of More Powerful Nvidia A.I. Chips to China](https://www.nytimes.com/2025/12/08/business/trump-nvidia-chips-china.html)**
-
-The New York Times • 2h ago
-
----
-
-**[The Accounting Uproar Over How Fast an AI Chip Depreciates](https://www.wsj.com/finance/investing/the-accounting-uproar-over-how-fast-an-ai-chip-depreciates-6f59785b?gaa_at=eafs&gaa_n=AWEtsqft-3nnOygqjIW72a0eTcy8sUqMyhFRZq8t5eIkqZaIBD9-Usk2iZCi&gaa_ts=6937751f&gaa_sig=OXB1RnHT_o9MADBSnxnfI73W0XF6VoR6dqZVtr3_qONZ1CdJ7gG8P5ELNiRkPttCJ0d7pEMlBWH3DKjPAykfZw%3D%3D)**
-
-The Wall Street Journal • 14h ago
-
----
-
-**[Google Says First AI Glasses With Gemini Will Arrive in 2026](https://www.bloomberg.com/news/articles/2025-12-08/google-says-first-ai-glasses-with-gemini-will-arrive-in-2026)**
-
-Alphabet Inc.’s Google said it’s working to create two different categories of artificial intelligence-powered smart glasses to compete next year with existing models from Meta Platforms Inc.: one with screens, and another that’s audio focused.
-
-Bloomberg.com • 6h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -187,7 +133,59 @@ Bloomberg.com • 6h ago
 
 That includes the first of Google's AI glasses in partnership with Warby Parker.
 
-CNBC • 4h ago
+CNBC • 6h ago
+
+---
+
+**[Google Says First AI Glasses With Gemini Will Arrive in 2026](https://www.bloomberg.com/news/articles/2025-12-08/google-says-first-ai-glasses-with-gemini-will-arrive-in-2026)**
+
+Alphabet Inc.’s Google said it’s working to create two different categories of artificial intelligence-powered smart glasses to compete next year with existing models from Meta Platforms Inc.: one with screens, and another that’s audio focused.
+
+Bloomberg.com • 8h ago
+
+---
+
+**[Google Cloud CEO lays out 3-part AI plan after identifying it as the 'most problematic thing'](https://fortune.com/2025/12/08/google-cloud-ai-energy-demands-strategy-data-center-electricity/)**
+
+Speaking at the Fortune Brainstorm AI conference, Google Cloud boss Thomas Kurian discussed how the company thinks about energy and data centers.
+
+Fortune • 32m ago
+
+---
+
+**[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
+
+The Economist • 5h ago
+
+---
+
+**[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws)**
+
+President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
+
+CNN • 11h ago
+
+---
+
+**[AI and recruitment: Are we in a 'race to the bottom'?](https://www.bbc.com/news/articles/ced6jv76091o)**
+
+AI helps jobseekers to apply for hundreds of roles, meanwhile employers use AI to filter them.
+
+BBC • 2h ago
+
+---
+
+**[AI progress surges while researchers struggle to explain It](https://www.nbcnews.com/tech/tech-news/ai-progress-surges-researchers-struggle-explain-rcna247693)**
+
+Despite soaring progress, scientists at AI’s largest gathering say key questions about how models work and how to measure them remain unsolved.
+
+NBC News • 1h ago
+
+---
+
+**[Investing In Unconventional AI: Biology-Scale Efficiency For The AI Era](https://lsvp.com/stories/investing-in-unconventional-ai-biology-scale-efficiency-for-the-ai-era/)**
+
+Lightspeed Venture Partners • 8h ago
 
 ---
 
@@ -197,15 +195,7 @@ CNBC • 4h ago
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 564 • 💬 178 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
-
----
-
-**[YouTube caught making AI-edits to videos and adding misleading AI summaries](https://news.ycombinator.com/item?id=46169554)**
-
-Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly altering their videos with AI; the company admits to a limited experiment, raising concerns about trust, consent and media manipulation
-
-⬆️ 415 • 💬 229 • 2d ago • [ynetglobal](https://www.ynetnews.com/tech-and-digital/article/bj1qbwcklg)
+⬆️ 567 • 💬 179 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -213,19 +203,27 @@ Popular YouTubers Rick Beato and Rhett Shull discovered the platform was quietly
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 378 • 💬 316 • 7h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 379 • 💬 322 • 9h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+
+---
+
+**[Horses: AI progress is steady. Human equivalence is sudden](https://news.ycombinator.com/item?id=46199723)**
+
+AI progress is steady. Human equivalence is sudden.
+
+⬆️ 126 • 💬 69 • 2h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 117 • 💬 204 • 1d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 118 • 💬 204 • 1d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 98 • 💬 106 • 7h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 109 • 💬 112 • 8h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -235,11 +233,9 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 ---
 
-**[Advent of Code 2025: The AI Edition – By Peter Norvig](https://news.ycombinator.com/item?id=46169441)**
+**[The Reverse Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46176651)**
 
-Python programs, usually short, of considerable difficulty, to perfect particular skills. - norvig/pytudes
-
-⬆️ 46 • 💬 14 • 2d ago • [GitHub](https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb)
+⬆️ 36 • 💬 4 • 2d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington)
 
 ---
 
@@ -251,9 +247,11 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 ---
 
-**[The Reverse Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46176651)**
+**[Washington state Medicare users could soon have claims denied by AI](https://news.ycombinator.com/item?id=46197173)**
 
-⬆️ 35 • 💬 4 • 2d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington)
+Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny.
+
+⬆️ 30 • 💬 3 • 6h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
 
 ---
 
@@ -275,7 +273,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTE
 
 📺 Anastasi In Tech
 
-👁️ 25K • 👍 3K • 💬 340 • ⏱️ 31:03 • 3h ago
+👁️ 25K • 👍 3K • 💬 340 • ⏱️ 31:03 • 5h ago
 
 ---
 
@@ -285,7 +283,7 @@ Your Grocery Store Is About to Change Forever. AI is now making your food...but 
 
 📺 Lillie Kane
 
-👁️ 7K • 👍 826 • 💬 143 • ⏱️ 13:09 • 9h ago
+👁️ 7K • 👍 826 • 💬 143 • ⏱️ 13:09 • 10h ago
 
 ---
 
@@ -295,7 +293,7 @@ Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Fu
 
 📺 Dan Kieft
 
-👁️ 14K • 💬 18 • ⏱️ 20:04 • 7h ago
+👁️ 14K • 💬 18 • ⏱️ 20:04 • 9h ago
 
 ---
 
@@ -325,7 +323,7 @@ A teen told a Character AI chatbot 55 times that she was feeling suicidal. Her p
 
 📺 60 Minutes
 
-👁️ 26K • 👍 536 • 💬 116 • ⏱️ 13:25 • 20h ago
+👁️ 26K • 👍 536 • 💬 116 • ⏱️ 13:25 • 22h ago
 
 ---
 
@@ -345,7 +343,7 @@ Bear releases a struggling fish into a pond #ai #fish #relases #bear.
 
 📺 Ai story Time
 
-👁️ 21K • 👍 346 • 💬 3 • ⏱️ 0:41 • 14h ago
+👁️ 21K • 👍 346 • 💬 3 • ⏱️ 0:41 • 16h ago
 
 ---
 
@@ -381,7 +379,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,342 • 8h ago
+⬇️ 201,990 • ❤️ 2,352 • 9h ago
 
 ---
 
@@ -393,7 +391,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 532 • 21h ago
+⬇️ 40,450 • ❤️ 537 • 23h ago
 
 ---
 
@@ -405,7 +403,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 28,778 • ❤️ 817 • 7d ago
+⬇️ 28,778 • ❤️ 818 • 7d ago
 
 ---
 
@@ -417,7 +415,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 8,016 • ❤️ 554 • 7d ago
+⬇️ 8,016 • ❤️ 555 • 7d ago
 
 ---
 
@@ -449,7 +447,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 3,573 • ❤️ 387 • 6d ago
+⬇️ 3,573 • ❤️ 389 • 6d ago
 
 ---
 
@@ -459,7 +457,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 245 • 6d ago
+⬇️ 0 • ❤️ 245 • 7d ago
 
 ---
 
@@ -483,27 +481,13 @@ LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusi
 
 `text-to-image`
 
-⬇️ 99 • ❤️ 143 • 12h ago
+⬇️ 99 • ❤️ 146 • 14h ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 22 • 💬 2 • ⭐ 5,761 • 11d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
 
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
@@ -513,9 +497,23 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 163 • 💬 3 • ⭐ 5,803 • 11d ago
+▲ 164 • 💬 3 • ⭐ 5,803 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
+
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 22 • 💬 2 • ⭐ 5,817 • 11d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
 ---
 
@@ -527,7 +525,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 46 • 💬 2 • ⭐ 864 • 6d ago
+▲ 47 • 💬 2 • ⭐ 878 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -541,9 +539,21 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 151 • 💬 4 • ⭐ 502 • 4d ago
+▲ 152 • 💬 4 • ⭐ 542 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
+
+---
+
+**[RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards](https://huggingface.co/papers/2512.00473)**
+
+*Junyan Ye, Leiqi Zhu, Yuncheng Guo et al. (10 authors)*
+
+RealGen is a photorealistic text-to-image framework that uses an LLM for prompt optimization and a diffusion model for image generation, enhanced by a Detector Reward mechanism and RealBench for automated evaluation.
+
+▲ 11 • 💬 2 • ⭐ 65 • 9d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.00473) • [💻 code](https://github.com/yejy53/RealGen) • [🔗 project](https://yejy53.github.io/RealGen/)
 
 ---
 
@@ -555,21 +565,9 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-▲ 109 • 💬 4 • ⭐ 5,441 • 18d ago
+▲ 109 • 💬 4 • ⭐ 5,455 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
-
----
-
-**[RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards](https://huggingface.co/papers/2512.00473)**
-
-*Junyan Ye, Leiqi Zhu, Yuncheng Guo et al. (10 authors)*
-
-RealGen is a photorealistic text-to-image framework that uses an LLM for prompt optimization and a diffusion model for image generation, enhanced by a Detector Reward mechanism and RealBench for automated evaluation.
-
-▲ 10 • 💬 1 • ⭐ 65 • 9d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.00473) • [💻 code](https://github.com/yejy53/RealGen) • [🔗 project](https://yejy53.github.io/RealGen/)
 
 ---
 
@@ -593,7 +591,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 35 • 💬 2 • ⭐ 224 • 4d ago
+▲ 35 • 💬 2 • ⭐ 246 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
@@ -619,7 +617,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
 
-▲ 104 • 💬 6 • ⭐ 65,962 • 1mo ago
+▲ 104 • 💬 6 • ⭐ 65,986 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
 
@@ -635,7 +633,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.5k • 🔱 433 • 3d ago
+⭐ 5.5k • 🔱 434 • 24m ago
 
 ---
 
@@ -645,7 +643,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 8h ago
+⭐ 1.6k • 🔱 132 • 10h ago
 
 ---
 
@@ -675,17 +673,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 992 • 🔱 123 • 2h ago
-
----
-
-**[Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)**
-
-A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.
-
-`Rust` `game-development` `gamedev` `image-processing` `pixel-art`
-
-⭐ 845 • 🔱 22 • 1d ago
+⭐ 992 • 🔱 123 • 3h ago
 
 ---
 
@@ -695,7 +683,17 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 840 • 🔱 56 • 8d ago
+⭐ 857 • 🔱 58 • 8d ago
+
+---
+
+**[Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)**
+
+A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.
+
+`Rust` `game-development` `gamedev` `image-processing` `pixel-art`
+
+⭐ 847 • 🔱 22 • 1d ago
 
 ---
 
@@ -705,7 +703,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 834 • 🔱 45 • 18m ago
+⭐ 835 • 🔱 45 • 1h ago
 
 ---
 
@@ -725,7 +723,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 745 • 🔱 113 • 7h ago
+⭐ 815 • 🔱 118 • 43m ago
 
 ---
 
