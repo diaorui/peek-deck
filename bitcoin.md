@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T10:52:45.937774+00:00'
+updated: '2025-12-09T11:15:31.330696+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 10:52 UTC  
+**Last Updated:** December 09, 2025 at 11:15 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** -3.7%  
-**30d:** -15.0%  
-**90d:** -21.8%  
-**1y:** -6.5%  
+**24h:** -1.4%  
+**7d:** -3.5%  
+**30d:** -14.8%  
+**90d:** -21.6%  
+**1y:** -6.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.29B
+**Market Cap:** $1802.77B
 Rank #1
 
 **Circulating Supply:** 19,959,693 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.4%
 
 **All-Time Low:** $67.81
-+132957.1%
++133014.6%
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
+
+4h ago
+
+---
+
 **[school employee got caught secretly mining bitcoin in a crawl space under a Massachusetts high school, using the school’s electricity. Police found coolers filled with computers and estimate they used about $17,500 in power before it was unplugged.](https://www.reddit.com/r/Bitcoin/comments/1phv387/school_employee_got_caught_secretly_mining/)**
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
@@ -85,21 +91,21 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
-**[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
+**[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-4h ago
+15h ago
 
 ---
 
-**[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
+**[Swim with the whales](https://www.reddit.com/r/Bitcoin/comments/1pi4cuq/swim_with_the_whales/)**
 
-14h ago
+31m ago
 
 ---
 
 **[Reality check](https://www.reddit.com/r/Bitcoin/comments/1pi0xfg/reality_check/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -135,53 +141,29 @@ They have a promotion going on with Ledger
 
 ---
 
-**[Is it Santa season yet?](https://www.reddit.com/r/Bitcoin/comments/1phy6ju/is_it_santa_season_yet/)**
-
-6h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin's 2025 rollercoaster may end on a low](https://finance.yahoo.com/news/bitcoins-2025-rollercoaster-may-end-050859649.html)**
+**[Bitcoin Traders Target $20K Bitcoin Strike as Deep Out of the Money Options Gain Traction](https://www.coindesk.com/markets/2025/12/08/bitcoin-traders-target-usd20k-bitcoin-strike-as-deep-out-of-the-money-options-gain-traction)**
 
-With a series of record highs and crushing sell-offs, 2025 has been a rollercoaster ride for bitcoin, the world's largest cryptocurrency, which is at risk of ending the year with its first annual decline since 2022.  The world's main stock benchmarks have also had a turbulent year, repeatedly hitting record peaks and then pulling ​back as worries over tariffs, interest rates and a possible AI bubble whipsawed markets.  While equities are mostly up year-to-date, bitcoin's overall correlation with share prices has strengthened markedly this year.
+These flows represent a bullish bet on volatility rather than a downside hedge or outright bearish position.
 
-Yahoo Finance • 5h ago
-
----
-
-**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
-
-BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
-
-Bloomberg.com • 15h ago
+CoinDesk • 6h ago
 
 ---
 
-**[A Bitcoin ETF Doubled in Value. Its Investors Made Only One-Fourth of That](https://www.morningstar.com/funds/bitcoin-etf-doubled-value-its-investors-made-only-one-fourth-that)**
+**[Bitcoin Price Rebounds Slightly Ahead of the Fed. How It Could Reach $120K—or Fall to $82K.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-2085d4a2?gaa_at=eafs&gaa_n=AWEtsqfBBFL3Ld2R5Kk9JaP38eV5dx86AHeXhtLMi2g3-kLRtpF-Kl5m9vso&gaa_ts=6938083b&gaa_sig=lrzGFPZNrz6vgDxVotL4sEpeSLYpSEsDRNTq_mitnQ3b2_Yfft4hB49exf1mdVi1eth3XH18HEyxH3T9GgSh_g%3D%3D)**
 
-iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
-
-Morningstar • 23h ago
+Barron's • 21h ago
 
 ---
 
-**[Bitcoin Slips Toward ETF Break-Even Level as Inflows Slow, but Support May Be Building](https://decrypt.co/351573/bitcoin-etf-break-even-level-inflows-slow-support-building)**
+**[Bitcoin Price Prediction: Recovery to $100,000 Could Be Tainted by These Holders](https://finance.yahoo.com/news/bitcoin-price-prediction-recovery-100-100657135.html)**
 
-Bitcoin is drifting back toward the price where ETF buyers break even, as inflows slow and investors look to the Fed’s decision this week.
+Bitcoin nears $90,400 as FOMC’s expected 25 bps cut could spark a recovery, but STH dominance may challenge a Bitcoin rally toward $100,000.
 
-Decrypt • 5h ago
-
----
-
-**[Nvidia CEO Jensen Huang Just Flipped the Bitcoin Energy Consumption Debate — And It Changes Everything](https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-just-131048842.html)**
-
-Nvidia CEO Jensen Huang says Bitcoin converts excess energy into a portable form of money. His comments challenge years of criticism over Bitcoin’s electricity use. ...
-
-Yahoo Finance • 21h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -189,7 +171,15 @@ Yahoo Finance • 21h ago
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-WIRED • 22m ago
+WIRED • 45m ago
+
+---
+
+**[Nvidia CEO Jensen Huang Just Flipped the Bitcoin Energy Consumption Debate — And It Changes Everything](https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-just-131048842.html)**
+
+Nvidia CEO Jensen Huang says Bitcoin converts excess energy into a portable form of money. His comments challenge years of criticism over Bitcoin’s electricity use. ...
+
+Yahoo Finance • 22h ago
 
 ---
 
@@ -205,23 +195,31 @@ Futurism • 2d ago
 
 Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
 
-Financial Times • 17h ago
+Financial Times • 1d ago
 
 ---
 
-**[Texas launches cryptocurrency reserve with $5M Bitcoin purchase](https://www.businessreport.com/article/texas-launches-cryptocurrency-reserve-with-5m-bitcoin-purchase)**
+**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://finance.yahoo.com/news/blackrock-bitcoin-etf-investors-came-193120104.html)**
 
-Texas has launched its new cryptocurrency reserve with a $5 million purchase of Bitcoin as the state continues to embrace the volatile and controversial digital currency. The Texas Comptroller’s Office confirmed the purchase was made last month as a “placeholder investment” while the office works to contract with a cryptocurrency bank to manage its portfolio. […]
+The iShares Bitcoin Trust (ticker IBIT) posted a more than-40% annualized return from its January 2024 debut through November 2025, data compiled by Bloomberg show, even after the recent crypto selloff.
 
-Baton Rouge Business Report • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
-**[Why Investors Shouldn't Romanticize Bitcoin, From a Financial Planner](https://www.kiplinger.com/investing/cryptocurrency/why-investors-shouldnt-romanticize-bitcoin)**
+**[A Bitcoin ETF Doubled in Value. Its Investors Made Only One-Fourth of That](https://www.morningstar.com/funds/bitcoin-etf-doubled-value-its-investors-made-only-one-fourth-that)**
 
-Investors should treat bitcoin as the volatile, high-risk asset it is. A look at the data, along with comparisons to the Magnificent 7 stocks, indicates a small (1% to 2%) portfolio allocation for most investors would be the safest.
+iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
 
-Kiplinger • 1d ago
+Morningstar • 1d ago
+
+---
+
+**[Bitcoin Booster Cathie Wood Welcomes Vanguard Investors](https://www.tradingview.com/news/u_today:743bc7324094b:0-bitcoin-booster-cathie-wood-welcomes-vanguard-investors/)**
+
+Cathie Wood is openly welcoming Vanguard investors to the world of Bitcoin through her ARK 21Shares Bitcoin ETF (ARKB).In her announcement, she has stressed that Bitcoin is a "profound technological and monetary innovation."Vanguard's U-turnVanguard investors can now get exposure to Bitcoin without…
+
+TradingView • 3h ago
 
 ---
 
@@ -299,7 +297,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 2 • 💬 0 • 19h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 2 • 💬 0 • 20h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 
@@ -313,7 +311,7 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 324K • 👍 12K • 💬 1K • ⏱️ 20:03 • 14h ago
+👁️ 324K • 👍 12K • 💬 1K • ⏱️ 20:03 • 15h ago
 
 ---
 
@@ -361,7 +359,7 @@ Vanguard, Bank of America, and Charles Schwab just made massive moves into Bitco
 
 📺 Lark Davis
 
-👁️ 17K • 👍 864 • 💬 60 • ⏱️ 9:27 • 11h ago
+👁️ 17K • 👍 864 • 💬 60 • ⏱️ 9:27 • 12h ago
 
 ---
 
@@ -371,7 +369,7 @@ In this video, Kyledoops shows you 3 very specific reasons why you can expect a 
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 746 • 💬 9 • ⏱️ 37:53 • 2h ago
+👁️ 6K • 👍 746 • 💬 9 • ⏱️ 37:53 • 3h ago
 
 ---
 
