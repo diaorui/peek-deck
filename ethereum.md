@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-08T23:50:24.566379+00:00'
+updated: '2025-12-09T00:47:50.225515+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
+- videos
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 23:50 UTC  
+**Last Updated:** December 09, 2025 at 00:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,127.44
+### $3,119.94
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** +4.4%  
-**30d:** -12.9%  
-**90d:** -28.2%  
-**1y:** -16.0%  
+**24h:** +0.6%  
+**7d:** -2.1%  
+**30d:** -12.3%  
+**90d:** -30.1%  
+**1y:** -13.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $378.15B
+**Market Cap:** $376.93B
 Rank #2
 
 **Circulating Supply:** 120,695,342 ETH
@@ -62,7 +62,7 @@ No max supply
 -36.9%
 
 **All-Time Low:** $0.43
-+720369.1%
++721117.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138,452 ETH, equivalent to about US$435 million, in its latest accumulation round. This bold move boosts BitMine’s total crypto holdings significantly, reinforcing its position as one of the largest institutional holders of Ethereum (ETH) worldwide. Tom Lee and his team cited several catalysts behind this surge: the recent Fusaka upgrade to the Ethereum network — implemented 3 December — which promises improved scalability, security and usability. Additionally, macroeconomic conditions appear favorable, with expectations of a loosening monetary policy by the Federal Reserve potentially supporting broader crypto market recovery. The scale of the purchase (over 138,000 ETH in just a week) marks a dramatic acceleration compared to previous buying patterns — reportedly about 156 % more than the firm’s weekly average four weeks ago. In doing so, BitMine pushes further toward its longer-term target of controlling up to 5 % of Ethereum’s total supply. In sum, this $435 million acquisition underlines BitMine’s growing conviction in Ethereum’s long-term potential, signaling confidence in both network upgrades and macroeconomic conditions that may favor a renewed bull cycle in crypto.
 
-8h ago
+9h ago
 
 ---
 
@@ -80,13 +80,13 @@ JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+18h ago
 
 ---
 
 **[Five years ago, an Ethereum standards author was threatened with trademark legal action over the name of a smart contract standard](https://www.reddit.com/r/ethereum/comments/1phe1xy/five_years_ago_an_ethereum_standards_author_was/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 9h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 10h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ethereum, I’m Amey - Ratings Director at Bluechip. Stablecoins offer a cheaper way to make cross-border transactions and a more reliable way to save in economies with high inflation or unstable financial systems. But how can you tell which stablecoins are truly stable? Our SMIDGE rating framework analyzes six economic factors and assigns letter-grade ratings (from F to A+) to identify the most reliable stablecoins. You can read the full framework on our website here. Essentially, the SMIDGE framework evaluates - Stability - collateral quality, asset segregation, core stability mechanism Management - track record of team, jurisdiction, accountability to token holders Implementation - technical risk (currently not tracked) Decentralization - censorship risk, blacklisting (only for crypto-backed stablecoins) Governance - regulatory protections, redemption terms, voting systems External - market sentiment (currently not tracked) We take a crypto-native, independent, and data-driven approach to stablecoin ratings. Our framework is the first publicly available, factor-based risk model for evaluating stablecoins. Our ratings are publicly available on our website here. Currently, USDT is rated D and USDC is rated B+ by Bluechip. Last month, we partnered with the Ethereum Foundation to host Bluechip25 in Vienna, the first global conference dedicated to crypto safety. Sign up for updates on next year's Bluechip26 on our website here. We also host a podcast called Bluechip Dialogues, where our Chief Economist Garett Jones interviews leading figures in crypto. Watch the latest episode with the creator of Facebook’s stablecoin project Diem (formerly Libra) here. Follow us on Twitter here or LinkedIn here or Telegram channel here. Ask us anything! I'll be around to answer your questions over the following days.
 
-12h ago
+13h ago
 
 ---
 
@@ -102,7 +102,7 @@ AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ether
 
 By magnitude, the biggest question for the Defi ecosystem for the next cycle is who gets to keep the yield on treasuries backing reserve stablecoins such as USDC and USDT? If secretary Bennett and the federal reserve are correct in their forecasts, we'll be at something like $3T in stablecoin market cap by 2030. At
 
-🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 4h ago
+🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 5h ago
 
 ---
 
@@ -152,7 +152,7 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 **[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 9h ago
 
 Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -168,31 +168,15 @@ Decrypt • 5h ago
 
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
-**[ZKsync to Retire Its Original Ethereum Rollup Next Year](https://decrypt.co/351386/zksync-retire-original-ethereum-rollup-next-year)**
+**[Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds](https://finance.yahoo.com/news/tom-lee-bitmine-buys-429-162833185.html)**
 
-ZKsync is retiring its original Lite network, formalizing a shift toward ZKsync Era and the ZK Stack as activity on the legacy rollup fades.
+Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
 
-Decrypt • 21h ago
-
----
-
-**[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
-
-The trading platform dives further into digital assets both domestically and globally.
-
-Fortune • 1h ago
-
----
-
-**[Ethereum's 6.5% Rebound Off This Weekend's Lows Was Impressive. Here Are 2 Factors That Drove This Move.](https://finance.yahoo.com/news/ethereums-6-5-rebound-off-221502887.html)**
-
-Ethereum surged off this weekend's lows, despite bearish sentiment seen in other asset classes.
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -204,9 +188,17 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Vitalik Buterin pushes for trustless gas futures market to hedge Ethereum fees, sparking debate over feasibility](https://www.theblock.co/post/381677/vitalik-buterin-pushes-for-trustless-gas-futures-market-to-hedge-ethereum-fees-sparking-debate)**
+**[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
 
-The Block • 12h ago
+The trading platform dives further into digital assets both domestically and globally.
+
+Fortune • 2h ago
+
+---
+
+**[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
+
+Binance • 8h ago
 
 ---
 
@@ -224,9 +216,17 @@ TradingView • 1d ago
 
 ---
 
-**[BitMine Pours $130M into Ethereum as Tom Lee Declares $62,000 ETH Price Target](https://www.tipranks.com/news/bitmine-pours-130m-into-ethereum-as-tom-lee-declares-62000-eth-price-target)**
+**[Ethereum or Solana: ‘One Crypto Could Outperform in 2026,’ Says Investor](https://www.tipranks.com/news/ethereum-or-solana-one-crypto-could-outperform-in-2026-says-investor)**
 
-TipRanks • 3d ago
+TipRanks • 1d ago
+
+---
+
+**[Why Crypto Is Going Up Today? Bitcoin, XRP Price, Ethereum and Dogecoin Jump Ahead of Fed Decision This Week](https://www.financemagnates.com/trending/why-crypto-is-going-up-today-bitcoin-xrp-price-ethereum-and-dogecoin-jump-ahead-of-fed-decision-this-week/)**
+
+The cryptocurrency market is flashing green during Monday's trading session, 8 December, 2025, prompting investors to ask why crypto is going up today .
+
+Finance Magnates • 13h ago
 
 ---
 
@@ -240,7 +240,17 @@ In today's Milk Road episode, we sit down with CMT Digital's Aryan Sheikhalian t
 
 📺 Milk Road
 
-👁️ 315 • 👍 72 • 💬 48 • ⏱️ 33:06 • 3h ago
+👁️ 719 • 👍 89 • 💬 77 • ⏱️ 33:06 • 4h ago
+
+---
+
+**[Tom Lee&#39;s New Ethereum Price Prediction is INSANE](https://www.youtube.com/watch?v=Q7ICP7zFCCs)**
+
+Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee and Howard Lutnick argue it's something very ...
+
+📺 The Bitcoin Revolution
+
+👁️ 1K • 👍 174 • 💬 119 • ⏱️ 12:46 • 6h ago
 
 ---
 
@@ -250,7 +260,7 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 1K • 👍 60 • 💬 167 • ⏱️ 6:25 • 10h ago
+👁️ 2K • 👍 62 • 💬 46 • ⏱️ 6:25 • 11h ago
 
 ---
 
@@ -260,7 +270,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 241 • 💬 10 • ⏱️ 15:50 • 8h ago
+👁️ 6K • 👍 282 • 💬 11 • ⏱️ 15:50 • 9h ago
 
 ---
 
@@ -270,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 123 • 💬 3 • ⏱️ 5:35 • 6h ago
+👁️ 2K • 👍 136 • 💬 4 • ⏱️ 5:35 • 7h ago
 
 ---
 
@@ -280,7 +290,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 74K • 👍 3K • 💬 341 • ⏱️ 11:32 • 2d ago
+👁️ 74K • 👍 3K • 💬 332 • ⏱️ 11:32 • 2d ago
 
 ---
 
@@ -290,7 +300,17 @@ BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available ever
 
 📺 Lark Davis
 
-👁️ 14K • 👍 745 • 💬 73 • ⏱️ 37:57 • 11h ago
+👁️ 14K • 👍 765 • 💬 76 • ⏱️ 37:57 • 12h ago
+
+---
+
+**[ETH Ethereum 4K Price Prediction THIS WEEK?!?!?!](https://www.youtube.com/watch?v=spWLR-2IEok)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 332 • 👍 24 • 💬 24 • ⏱️ 9:20 • 6h ago
 
 ---
 
@@ -300,37 +320,17 @@ Get $450 Off Our New AI Indicators: https://www.tradeconfident.io/indicators/ Ne
 
 📺 Trade Confident
 
-👁️ 188 • 👍 8 • 💬 19 • ⏱️ 5:03 • 4h ago
+👁️ 245 • 👍 10 • 💬 49 • ⏱️ 5:03 • 5h ago
 
 ---
 
-**[BlackRock files application with SEC for staked ether ETF: CNBC Crypto World](https://www.youtube.com/watch?v=2KhviSIAuxI)**
+**[BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Y4sZ0EGnBf0)**
 
-On today's episode of CNBC Crypto World, bitcoin continues to trade below $90000. Plus, Ondo Finance says the SEC formally ...
+BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
 
-📺 CNBC Television
+📺 Crypto World
 
-👁️ 2K • 👍 112 • 💬 58 • ⏱️ 13:30 • 3h ago
-
----
-
-**[THIS IS GREAT FOR ETH!🔥 (ETH Price Prediction 2025)](https://www.youtube.com/watch?v=jpanoHePtD0)**
-
-ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 494 • 👍 30 • 💬 3 • ⏱️ 4:33 • 14h ago
-
----
-
-**[Will Solana FLIP Ethereum? (DATA is INSANE For 2026)](https://www.youtube.com/watch?v=9l9Z71m3y4w)**
-
-Check out SolPump.io Sign up here ▻ https://solpump.io/a/FIREHUSTLE TRADE ON BTCC WITH ME! 10% Deposit ...
-
-📺 FireHustle
-
-👁️ 128 • 👍 89 • 💬 41 • ⏱️ 14:17 • 2h ago
+👁️ 3K • 👍 334 • 💬 160 • ⏱️ 19:51 • 2h ago
 
 ---
 

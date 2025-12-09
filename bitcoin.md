@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-08T23:50:24.559346+00:00'
+updated: '2025-12-09T00:47:50.219490+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 08, 2025 at 23:50 UTC  
+**Last Updated:** December 09, 2025 at 00:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,647.08
+### $90,463.80
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** -0.8%  
-**30d:** -13.4%  
-**90d:** -20.3%  
-**1y:** -6.8%  
+**24h:** -0.5%  
+**7d:** -3.6%  
+**30d:** -14.9%  
+**90d:** -21.7%  
+**1y:** -6.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1813.47B
+**Market Cap:** $1806.00B
 Rank #1
 
-**Circulating Supply:** 19,959,503 BTC
+**Circulating Supply:** 19,959,506 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.1%
+-28.2%
 
 **All-Time Low:** $67.81
-+133610.4%
++133318.4%
 
 ---
 
@@ -79,7 +79,13 @@ Rank #1
 
 **[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-3h ago
+4h ago
+
+---
+
+**[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
+
+6h ago
 
 ---
 
@@ -87,13 +93,7 @@ Rank #1
 
 They have a promotion going on with Ledger
 
-5h ago
-
----
-
-**[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
-
-5h ago
+6h ago
 
 ---
 
@@ -101,31 +101,39 @@ They have a promotion going on with Ledger
 
 Back in 2011–2013, physical bitcoins were actually a thing. They were known as Casascius Coins — metal tokens with a hologram on the back hiding a private key printed on paper. Peel the hologram, and the BTC could be moved to a regular blockchain address. What makes this story even wilder is how many people never touched them for years. Some holders treated these coins like collectibles, others forgot about them entirely. Only recently, more and more of these physical bitcoins have been getting redeemed after sitting untouched for a decade or more. From novelty item to time capsule holding real money, Casascius coins remain one of the strangest and most iconic relics of early Bitcoin history.
 
-8h ago
+9h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-17h ago
+18h ago
+
+---
+
+**[Bitcoin & the Commodity Futures Trading Comission](https://www.reddit.com/r/Bitcoin/comments/1phrucs/bitcoin_the_commodity_futures_trading_comission/)**
+
+This article explains what changed today when the CFTC approved Bitcoin as eligible collateral inside regulated U.S. derivatives markets. That decision won’t move price today, but it alters how institutions are allowed to hold and use Bitcoin. When an asset becomes collateral-grade, sell-offs stop being exits and become portfolio rotations. If the coming weeks look uneventful, it’s only because structural shifts appear long before capital moves...this piece is written so that you see what actually began.
+
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/bitcoin-and-the-commodity-futures) • 1h ago
 
 ---
 
 **[Proud to be business owner and bitcoiner!](https://www.reddit.com/r/Bitcoin/comments/1ph1hte/proud_to_be_business_owner_and_bitcoiner/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -133,13 +141,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 They didn't trade, they didn't sell to buy back later, they didn't follow the 4-year cycle, nothing. Just HODL Replicate them.
 
-13h ago
-
----
-
-**[Buy buy buy!](https://www.reddit.com/r/Bitcoin/comments/1ph9n2c/buy_buy_buy/)**
-
-12h ago
+14h ago
 
 ---
 
@@ -147,17 +149,11 @@ They didn't trade, they didn't sell to buy back later, they didn't follow the 4-
 
 ## Google News: "bitcoin"
 
-**[Michael Saylor Explains Why Banks Are No Longer Waiting for Bitcoin](https://www.binance.com/en/square/post/33413939298642)**
-
-Binance • 23h ago
-
----
-
 **[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
 
 BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -165,7 +161,7 @@ Bloomberg.com • 4h ago
 
 iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
 
-Morningstar • 12h ago
+Morningstar • 13h ago
 
 ---
 
@@ -173,31 +169,43 @@ Morningstar • 12h ago
 
 Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
-**[Here's Why Bitcoin Cash Surged 3% Higher This Past Weekend](https://finance.yahoo.com/news/heres-why-bitcoin-cash-surged-225635050.html)**
+**[Michael Saylor’s Bitcoin Playbook Backfires on 100+ Companies](https://finance.yahoo.com/news/michael-saylor-bitcoin-playbook-backfires-101022120.html)**
 
-Bitcoin Cash has quietly become one of the best-performing layer-1 networks in the crypto sector.
+Digital asset treasury companies that rushed to copy Michael Saylor’s Bitcoin strategy are now hemorrhaging shareholder value, with median stock prices down 43% year to date, even as the broader market climbs higher, as per Bloomberg.Source: BloombergMore than 100 publicly traded companies transformed themselves into cryptocurrency-holding vehicles in the first ...
 
-Yahoo Finance • 53m ago
-
----
-
-**[Texas launches cryptocurrency reserve with $5M Bitcoin purchase](https://www.businessreport.com/article/texas-launches-cryptocurrency-reserve-with-5m-bitcoin-purchase)**
-
-Texas has launched its new cryptocurrency reserve with a $5 million purchase of Bitcoin as the state continues to embrace the volatile and controversial digital currency. The Texas Comptroller’s Office confirmed the purchase was made last month as a “placeholder investment” while the office works to contract with a cryptocurrency bank to manage its portfolio. […]
-
-Baton Rouge Business Report • 2h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[What the First Divergence of Stock and Bitcoin Returns in 10 Years Means](https://www.businessinsider.com/stock-market-bitcoin-return-correlation-divergence-explained-outlook-2025-12)**
+**[Michael Saylor's Strategy buys another 10,624 bitcoin for $963 million as treasury holdings reach 660,624 BTC](https://www.theblock.co/post/381668/michael-saylors-strategy-buys-more-bitcoin)**
 
-If the stock market is up, bitcoin usually is too. But this year has been different.
+The Block • 11h ago
 
-Business Insider • 12h ago
+---
+
+**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
+
+Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
+
+Financial Times • 19h ago
+
+---
+
+**[American Bitcoin (ABTC) Crashes 47%, Presidential Son Blames Points to Profit-Taking](https://finance.yahoo.com/news/american-bitcoin-abtc-crashes-47-071519741.html)**
+
+We recently published December Disappointments: 10 Big Names Troubled Early. American Bitcoin Corp (NASDAQ:ABTC) is one of the worst performers of last week. American Bitcoin nosedived by 47.4 percent week-on-week, as investors sold off positions following the expiration of a lockup period, while presidential son and co-founder Eric Trump pointed to profit-taking as having dragged […]
+
+Yahoo Finance • 17h ago
+
+---
+
+**[Bitcoin Price Rebounds Slightly Ahead of the Fed. How It Could Reach $120K—or Fall to $82K.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-2085d4a2?gaa_at=eafs&gaa_n=AWEtsqebg4T2e4A33JtS1QaHytFzOJa7RacG_togc4vEgYHadvrSWoOIVCCb&gaa_ts=69377521&gaa_sig=MxM0EJ1-5bPvEkUzoHsGWOBa0-t_sZMFzyolZEDM4Gfhu0JqnVJ3wRMk7OxEE7thDcey9WsCNWjmqdbC0Hp0Pg%3D%3D)**
+
+Barron's • 10h ago
 
 ---
 
@@ -209,17 +217,11 @@ CoinDesk • 3h ago
 
 ---
 
-**[Strategy, Wall Street's Favorite Stock, Just Loaded Up On More Bitcoin](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
+**[Famed Investor Mike Alfred Claims Bitcoin Will Hit $315,000, Harvard Boosts Bitcoin Investment 2-To-1 Over Gold](https://finance.yahoo.com/news/famed-investor-mike-alfred-claims-094719509.html)**
 
-Investor's Business Daily • 9h ago
+Investor Mike Alfred predicts Bitcoin could reach $315,000. Harvard University significantly increased its Bitcoin holdings over gold. But analysts warn of potential short-term consolidation. Bitcoin’s ...
 
----
-
-**[Strategy Drops Nearly $1 Billion on Bitcoin, Marking Largest BTC Buy in Months](https://decrypt.co/351461/strategy-drops-1-billion-bitcoin-largest-buy-months)**
-
-Strategy unveiled its largest Bitcoin purchase in over 100 days, but the company's stock price was little changed on Monday.
-
-Decrypt • 8h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -275,7 +277,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 9 • 💬 0 • 16h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 9 • 💬 0 • 17h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -297,7 +299,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 1 • 💬 0 • 8h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 2 • 💬 0 • 9h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 
@@ -305,23 +307,23 @@ Data transformation framework for AI. Ultra performant, with incremental process
 
 ## YouTube Videos: "bitcoin"
 
+**[How the Banks Stole Gold, is How They Might Steal Bitcoin](https://www.youtube.com/watch?v=7XTc2dC6Q00)**
+
+How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemini Credit Card: http://gemini.com/andrei ...
+
+📺 Andrei Jikh
+
+👁️ 108K • 👍 6K • 💬 660 • ⏱️ 20:03 • 4h ago
+
+---
+
 **[BITCOIN TREASURY MOVED!! GET READY FOR TOMORROW!!](https://www.youtube.com/watch?v=TCbgySXc1PM)**
 
 CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
 📺 My Financial Friend
 
-👁️ 12K • 👍 613 • 💬 187 • ⏱️ 9:22 • 8h ago
-
----
-
-**[Bitcoin Sellers About to go Wild Again! What About Ethereum &amp; Solana? Is There Hope for Altseason?](https://www.youtube.com/watch?v=s4ga-osHXEU)**
-
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
-
-📺 Doctor of Pump & Dump
-
-👁️ 1K • 👍 184 • ⏱️ 34:53 • 3h ago
+👁️ 15K • 👍 687 • 💬 195 • ⏱️ 9:22 • 9h ago
 
 ---
 
@@ -331,17 +333,27 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 158 • ⏱️ 37:28 • 8h ago
+👁️ 28K • 👍 1K • 💬 200 • ⏱️ 37:28 • 9h ago
 
 ---
 
-**[How the Banks Stole Gold, is How They Might Steal Bitcoin](https://www.youtube.com/watch?v=7XTc2dC6Q00)**
+**[$26 Billion Fresh Money Incoming for Bitcoin [How High Can It Go?]](https://www.youtube.com/watch?v=-datgQL4Vaw)**
 
-How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemini Credit Card: http://gemini.com/andrei ...
+Vanguard, Bank of America, and Charles Schwab just made massive moves into Bitcoin and crypto – unlocking potentially $26B ...
 
-📺 Andrei Jikh
+📺 Lark Davis
 
-👁️ 28K • 👍 2K • 💬 289 • ⏱️ 20:03 • 3h ago
+👁️ 3K • 👍 345 • 💬 24 • ⏱️ 9:27 • 1h ago
+
+---
+
+**[Michael Saylor at Bitcoin MENA: Bitcoin Price Prediction 2025 &amp; What’s Next for BTC](https://www.youtube.com/watch?v=XR-31Nv4bnI)**
+
+Michael Saylor joins Bitcoin MENA to deliver a strategic outlook on the future of Bitcoin and his latest Bitcoin price prediction for ...
+
+📺 MENA 2025
+
+👁️ 5K • 👍 2K • 1h ago
 
 ---
 
@@ -351,37 +363,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 10K • 👍 471 • 💬 689 • ⏱️ 13:29 • 17h ago
-
----
-
-**[The White House Just Released The Cryptocurrency Bulls!!](https://www.youtube.com/watch?v=iSWMFZ5NChw)**
-
-The White House Just Released The Cryptocurrency Bulls!! Become a channel member & get access to perks: ...
-
-📺 Altcoin Daily
-
-👁️ 63K • 👍 4K • 💬 346 • ⏱️ 12:47 • 1d ago
-
----
-
-**[Bitcoin: an actually URGENT Video.. w. @intothecryptoverse ](https://www.youtube.com/watch?v=x9QWWoFgegs)**
-
-Bitcoin today with Benjamin Cowen!
-
-📺 MMCrypto
-
-👁️ 36K • 👍 3K • 💬 916 • ⏱️ 7:39 • 15h ago
-
----
-
-**[Is $1M or $50M Bitcoin Even Possible? The Math Says YES.](https://www.youtube.com/watch?v=DZRz76bD_e4)**
-
-A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesis rooted in global debt collapse, fiat decay, and ...
-
-📺 Simply Bitcoin
-
-👁️ 29K • 👍 2K • 💬 413 • ⏱️ 18:52 • 1d ago
+👁️ 11K • 👍 493 • 💬 344 • ⏱️ 13:29 • 18h ago
 
 ---
 
@@ -391,7 +373,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 74K • 👍 3K • 💬 341 • ⏱️ 11:32 • 2d ago
+👁️ 74K • 👍 3K • 💬 332 • ⏱️ 11:32 • 2d ago
 
 ---
 
@@ -401,7 +383,25 @@ Market Update Crypto Strategy School https://cryptostrategyschool.com/ab/ ➡️
 
 📺 Aaron Bennett
 
-👁️ 9K • 👍 560 • 💬 191 • ⏱️ 13:46 • 11h ago
+👁️ 10K • 👍 604 • 💬 104 • ⏱️ 13:46 • 12h ago
+
+---
+
+**[Is $1M or $50M Bitcoin Even Possible? The Math Says YES.](https://www.youtube.com/watch?v=DZRz76bD_e4)**
+
+A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesis rooted in global debt collapse, fiat decay, and ...
+
+📺 Simply Bitcoin
+
+👁️ 30K • 👍 2K • 💬 238 • ⏱️ 18:52 • 1d ago
+
+---
+
+**[The guy who told you to buy bitcoin 😬😑😂 #shorts #funny #comedy #crypto #bitcoin #btc #invest](https://www.youtube.com/watch?v=PIblMDfqXes)**
+
+📺 Matt & Justus
+
+👁️ 62K • 👍 8K • 💬 85 • ⏱️ 1:00 • 6h ago
 
 ---
 
