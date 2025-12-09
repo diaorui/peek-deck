@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T15:40:33.430442+00:00'
+updated: '2025-12-09T15:53:48.725124+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- social
 - videos
 - news
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 15:40 UTC  
+**Last Updated:** December 09, 2025 at 15:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,497.54
+### $92,695.92
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** -2.3%  
-**30d:** -13.8%  
-**90d:** -20.6%  
-**1y:** -5.1%  
+**24h:** +3.0%  
+**7d:** -1.0%  
+**30d:** -12.6%  
+**90d:** -19.8%  
+**1y:** -4.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1815.43B
+**Market Cap:** $1836.37B
 Rank #1
 
-**Circulating Supply:** 19,959,790 BTC
+**Circulating Supply:** 19,959,796 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.1%
+-26.7%
 
 **All-Time Low:** $67.81
-+133623.6%
++136204.4%
 
 ---
 
@@ -77,6 +77,12 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Literally!](https://www.reddit.com/r/Bitcoin/comments/1pi8hu2/literally/)**
+
+1h ago
+
+---
+
 **[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
 
 2h ago
@@ -85,13 +91,13 @@ Rank #1
 
 **[Swim with the whales](https://www.reddit.com/r/Bitcoin/comments/1pi4cuq/swim_with_the_whales/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -99,13 +105,7 @@ Rank #1
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-13h ago
-
----
-
-**[Literally!](https://www.reddit.com/r/Bitcoin/comments/1pi8hu2/literally/)**
-
-1h ago
+14h ago
 
 ---
 
@@ -133,13 +133,13 @@ And most who keep panicking, and those crazy shenanigans fud are mostly from noo
 
 **[Staring into the BTC abyss, waiting for it to explain itself](https://www.reddit.com/r/Bitcoin/comments/1pi3i32/staring_into_the_btc_abyss_waiting_for_it_to/)**
 
-5h ago
+6h ago
 
 ---
 
-**[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
+**[Earning $100k now has about the same buying power that $40k a year had back in 1990](https://www.reddit.com/r/Bitcoin/comments/1pi1w8o/earning_100k_now_has_about_the_same_buying_power/)**
 
-21h ago
+7h ago
 
 ---
 
@@ -147,17 +147,17 @@ And most who keep panicking, and those crazy shenanigans fud are mostly from noo
 
 ## Google News: "bitcoin"
 
-**[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance)**
-
-The Block • 3h ago
-
----
-
 **[America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/)**
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
 WIRED • 5h ago
+
+---
+
+**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
+
+Reuters • 10h ago
 
 ---
 
@@ -173,23 +173,21 @@ Bloomberg.com • 1h ago
 
 MSCI could exclude crypto treasury firms from its widely followed indexes. The move is drawing sharp criticism from industry players.
 
-Business Insider • 29m ago
+Business Insider • 42m ago
 
 ---
 
-**[Europe’s ‘Paper Hands’ Trigger Bitcoin’s Worst November Since 2018](https://finance.yahoo.com/news/europe-paper-hands-trigger-bitcoin-134715115.html)**
+**[Microsoft to invest $17.5B in India, PNC to allow bitcoin trading](https://finance.yahoo.com/video/microsoft-invest-17-5b-india-154025028.html)**
 
-A new timezone-based analysis of Bitcoin trading blames Europe for the deepest part of November’s downturn. BTC and ETH saw the bulk of their losses ...
+Market Catalysts host Julie Hyman tracks several of the day's top trending stock tickers, including Microsoft's (MSFT) plans to invest $17.5 billion in India over the next four years, Campbell's (CPB) reporting a decline in profit and revenue in its fiscal first quarter release, and PNC Financial Services Group (PNC) to allow bitcoin (BTC-USD) trading. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 13m ago
 
 ---
 
-**[‘More Orange Dots’: Michael Saylor’s Strategy Buys 10,624 Bitcoin Amid Sell-Off Concerns](https://finance.yahoo.com/news/more-orange-dots-michael-saylor-130749098.html)**
+**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqcRB6T8m21QQnNXxkSDzfhWyIQa4LZ96eFNwXkOb0hLDlMF8pSScFmj&gaa_ts=6938496f&gaa_sig=9TOvirQ3qKjfiNhMIaM5JP4tdCTd-FKl-ri8Xz8x0_2lPyx0PC-vSWLCBLf2M8xZBofk86OsEXaeklDmrwNZbA%3D%3D)**
 
-Michael Saylor’s Strategy, previously MicroStrategy, has made another weekly Bitcoin purchase despite concerns that it may need to sell some of its BTC holdings in a prolonged bear market. This latest purchase comes amid a rebound in the Bitcoin price, while the MSTR stock is also up in pre-market trading. Strategy Acquires 10,624 BTC for
-
-Yahoo Finance • 1d ago
+MarketWatch • 17h ago
 
 ---
 
@@ -201,23 +199,25 @@ Financial Times • 1d ago
 
 ---
 
-**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqfH2tpssZZkGDZ0aR-Ej5wudYMpMoN5nOA5ED8p2HwuRt2tGcKTDsuH&gaa_ts=693840ac&gaa_sig=0ejpe_oZN2vbJZsZs-JlyMc7QPDntdK6O3R56oyV2po5gEyEeGkoebZT3qrS9HFyyIW4EFIFF_ibv_1jMvgWDA%3D%3D)**
+**[‘More Orange Dots’: Michael Saylor’s Strategy Buys 10,624 Bitcoin Amid Sell-Off Concerns](https://finance.yahoo.com/news/more-orange-dots-michael-saylor-130749098.html)**
 
-MarketWatch • 17h ago
+Michael Saylor’s Strategy, previously MicroStrategy, has made another weekly Bitcoin purchase despite concerns that it may need to sell some of its BTC holdings in a prolonged bear market. This latest purchase comes amid a rebound in the Bitcoin price, while the MSTR stock is also up in pre-market trading. Strategy Acquires 10,624 BTC for
 
----
-
-**[Texas launches cryptocurrency reserve with $5M Bitcoin purchase](https://www.businessreport.com/article/texas-launches-cryptocurrency-reserve-with-5m-bitcoin-purchase)**
-
-Texas has launched its new cryptocurrency reserve with a $5 million purchase of Bitcoin as the state continues to embrace the volatile and controversial digital currency. The Texas Comptroller’s Office confirmed the purchase was made last month as a “placeholder investment” while the office works to contract with a cryptocurrency bank to manage its portfolio. […]
-
-Baton Rouge Business Report • 18h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bernstein reveals new Bitcoin target amid market pullback](https://www.thestreet.com/crypto/trading/bernstein-new-bitcoin-prediction)**
+**[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance)**
 
-TheStreet • 21h ago
+The Block • 4h ago
+
+---
+
+**[Crypto Markets Today: Bitcoin Retreats as Federal Reserve Decision Takes Center Stage](https://www.coindesk.com/markets/2025/12/09/crypto-markets-today-bitcoin-slips-back-toward-danger-zone-ahead-of-fed-decision)**
+
+Bitcoin surrendered gains from earlier in the week, fell back toward $90,000 as traders braced for Wednesday’s Federal Reserve rate decision.
+
+CoinDesk • 4h ago
 
 ---
 
@@ -291,9 +291,9 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ---
 
-**[Bioinspired Drilling for Extraterrestrial Applications](https://news.ycombinator.com/item?id=46205296)**
+**["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 1 • 💬 0 • 1h ago • [mdpi.com](https://www.mdpi.com/2313-7673/10/11/752)
+⬆️ 1 • 💬 0 • 3m ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -307,7 +307,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 176 • ⏱️ 10:16 • 13h ago
+👁️ 46K • 👍 2K • 💬 176 • ⏱️ 10:16 • 14h ago
 
 ---
 
