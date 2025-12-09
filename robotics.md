@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T21:56:19.507367+00:00'
+updated: '2025-12-09T22:22:41.817988+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 21:56 UTC  
+**Last Updated:** December 09, 2025 at 22:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -82,7 +82,7 @@ Teaching Robots to Understand Natural Language Built an autonomous navigation sy
 
 North American robot orders picked up again in Q3 2025, pointing to renewed momentum in manufacturing automation after a slower period. According to the latest market data, companies in North America ordered 8,806 robots in the third quarter, worth about $574 million. That works out to an 11.6 percent increase in units and a 17.2 percent increase in revenue compared to the same quarter last year. The most notable gains came from food and consumer goods, where robot orders were up more than 100 percent year over year, and from automotive OEMs, which saw orders rise sharply as well. Metals and general manufacturing also posted growth, while automotive components and plastics and rubber recorded declines, suggesting a more selective investment cycle in those segments.
 
-1h ago
+2h ago
 
 ---
 
@@ -102,7 +102,7 @@ North American robot orders picked up again in Q3 2025, pointing to renewed mome
 
 **[Inverted Double Pendulum in Isaac Lab](https://www.reddit.com/r/robotics/comments/1pi8anb/inverted_double_pendulum_in_isaac_lab/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -136,7 +136,7 @@ Built In • 2h ago
 
 Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -152,7 +152,7 @@ Bloomberg.com • 1d ago
 
 Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
@@ -168,7 +168,7 @@ MLive.com • 5h ago
 
 1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
 
-Valley News Live • 22h ago
+Valley News Live • 23h ago
 
 ---
 
@@ -254,7 +254,7 @@ In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comfor
 
 📺 AI Robot Lab
 
-👁️ 6K • 👍 64 • 💬 3 • ⏱️ 0:24 • 10h ago
+👁️ 6K • 👍 64 • 💬 3 • ⏱️ 0:24 • 11h ago
 
 ---
 
@@ -274,7 +274,7 @@ At the Silicon Valley Robotics Expo 2025, engineers demonstrate a futuristic AI 
 
 📺 AI Robot Lab
 
-👁️ 11K • 👍 81 • 💬 1 • ⏱️ 0:24 • 6h ago
+👁️ 11K • 👍 81 • 💬 1 • ⏱️ 0:24 • 7h ago
 
 ---
 

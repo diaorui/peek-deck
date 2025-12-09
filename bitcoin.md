@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T21:56:19.497847+00:00'
+updated: '2025-12-09T22:22:41.808444+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 21:56 UTC  
+**Last Updated:** December 09, 2025 at 22:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,354.25
+### $92,687.37
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
+**24h:** +2.0%  
 **7d:** -1.2%  
 **30d:** -12.8%  
-**90d:** -19.7%  
-**1y:** -4.0%  
+**90d:** -19.8%  
+**1y:** -4.1%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pier04/daily_meme_until_100000/)**
 
-3h ago
+4h ago
 
 ---
 
 **[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -137,13 +137,13 @@ If you had put $1000 into BTC in 2010 and left it alone without further investme
 
 Indiana lawmakers are making history with groundbreaking legislation that would force public retirement programs to offer Bitcoin investments.
 
-🔗 [Brave New Coin](https://bravenewcoin.com/insights/indiana-becomes-first-state-to-require-bitcoin-options-in-public-retirement-plans) • 6h ago
+🔗 [Brave New Coin](https://bravenewcoin.com/insights/indiana-becomes-first-state-to-require-bitcoin-options-in-public-retirement-plans) • 7h ago
 
 ---
 
 **[Earning $100k now has about the same buying power that $40k a year had back in 1990](https://www.reddit.com/r/Bitcoin/comments/1pi1w8o/earning_100k_now_has_about_the_same_buying_power/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 6h ago
 
 **[Twenty One Capital Stock Falls 19% as Market Meets the New Bitcoin Company](https://www.barrons.com/articles/twenty-one-capital-stock-drops-39aef71b?gaa_at=eafs&gaa_n=AWEtsqfCTx3o-MmPLDndFxmflvobU_kquhrSMeRpAG18BECKxsfEqibrNFRK&gaa_ts=69389e6a&gaa_sig=yRMI6iilug_NWvEhiFQEzcT7-XBNJ4uAurX5Vkhw1TJXOIlWcHVSgCsDCkzF_ZApVJvtOHGGlvzvuvi7iFOiMg%3D%3D)**
 
-Barron's • 35m ago
+Barron's • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Wall Street Journal • 13h ago
 
 **[GameStop’s bitcoin holdings — and sales — slide](https://www.marketwatch.com/story/gamestops-bitcoin-holdings-and-sales-slide-b9ce88cc?gaa_at=eafs&gaa_n=AWEtsqdheGnJwm0hCO5yh6eUmDHSPQKq5zY9_Nky5AatlH7VgF6QXztqWtfx&gaa_ts=69389e6a&gaa_sig=mQXZ-h-T7tFj8oB9YgEjtJYyozwlc8BJwY_377OyHX7HXYl4OdvNXpvbNXjICMajrq2tkVphgY-DkcBOWLqrhA%3D%3D)**
 
-MarketWatch • 9m ago
+MarketWatch • 35m ago
 
 ---
 
@@ -205,7 +205,7 @@ CNBC • 3h ago
 
 Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -221,7 +221,7 @@ Decrypt • 9h ago
 
 <p>Strategic Partnership Empowers PNC Private Bank Clients with Bitcoin Trading&nbsp;</p>
 
-PR Newswire • 8h ago
+PR Newswire • 9h ago
 
 ---
 
@@ -277,7 +277,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 4h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 5h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -333,7 +333,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 18K • 👍 900 • 💬 205 • ⏱️ 8:51 • 6h ago
+👁️ 18K • 👍 900 • 💬 205 • ⏱️ 8:51 • 7h ago
 
 ---
 
@@ -373,7 +373,7 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 10K • 👍 854 • 💬 407 • ⏱️ 13:24 • 6h ago
+👁️ 10K • 👍 854 • 💬 407 • ⏱️ 13:24 • 7h ago
 
 ---
 
@@ -383,7 +383,7 @@ Stay informed with the latest insights on **bitcoin**, focusing on effective **t
 
 📺 Krown
 
-👁️ 4K • 👍 546 • 💬 330 • ⏱️ 15:14 • 4h ago
+👁️ 4K • 👍 546 • 💬 330 • ⏱️ 15:14 • 5h ago
 
 ---
 
@@ -393,7 +393,7 @@ Ran breaks down where we actually are in the crypto cycle using time, price, sen
 
 📺 Crypto Banter
 
-👁️ 21K • 👍 2K • 💬 45 • ⏱️ 35:30 • 6h ago
+👁️ 21K • 👍 2K • 💬 45 • ⏱️ 35:30 • 7h ago
 
 ---
 
