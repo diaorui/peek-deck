@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T04:40:06.356682+00:00'
+updated: '2025-12-09T04:55:43.251937+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- repositories
 - social
 - videos
-- repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 04:40 UTC  
+**Last Updated:** December 09, 2025 at 04:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai says no job, not even his own, is safe. But those who don’t adapt will be the first to fall.
 
-🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 6h ago
+🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 7h ago
 
 ---
 
@@ -63,7 +63,7 @@ AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai sa
 
 At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
 
-🔗 [withmartian.com](https://withmartian.com/prize) • 15h ago
+🔗 [withmartian.com](https://withmartian.com/prize) • 16h ago
 
 ---
 
@@ -71,7 +71,7 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming releases by names that resemble existing trademarks.
 
-🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 7h ago
+🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 8h ago
 
 ---
 
@@ -109,7 +109,7 @@ The president announced the plans to create one rulebook for AI via his Truth So
 
 **[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -133,13 +133,13 @@ The New York Times • 6h ago
 
 Nvidia and chip rival Advanced Micro Devices agreed over the summer to share 15% of the revenue from China chip sales with the U.S. government.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
 **[Nvidia Wins Trump’s Approval to Sell H200 AI Chips in China](https://www.bloomberg.com/news/articles/2025-12-08/nvidia-set-to-win-us-approval-to-export-h200-ai-chips-to-china)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -153,13 +153,13 @@ The Economist • 7h ago
 
 President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-CNN • 13h ago
+CNN • 14h ago
 
 ---
 
 **[Trump Promises Executive Order to Block State A.I. Regulations](https://www.nytimes.com/2025/12/08/us/politics/trump-executive-order-ai-laws.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -201,7 +201,7 @@ CNBC • 8h ago
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 383 • 💬 326 • 11h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 383 • 💬 326 • 12h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -321,7 +321,7 @@ Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Fu
 
 📺 Dan Kieft
 
-👁️ 17K • 💬 18 • ⏱️ 20:04 • 11h ago
+👁️ 17K • 💬 18 • ⏱️ 20:04 • 12h ago
 
 ---
 
@@ -377,7 +377,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,359 • 11h ago
+⬇️ 201,990 • ❤️ 2,359 • 12h ago
 
 ---
 
@@ -389,7 +389,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 541 • 17m ago
+⬇️ 40,450 • ❤️ 541 • 33m ago
 
 ---
 
@@ -469,7 +469,7 @@ LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusi
 
 `text-to-image`
 
-⬇️ 99 • ❤️ 151 • 16h ago
+⬇️ 99 • ❤️ 151 • 17h ago
 
 ---
 
@@ -481,7 +481,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 0 • ❤️ 151 • 16h ago
+⬇️ 0 • ❤️ 151 • 17h ago
 
 ---
 
@@ -497,7 +497,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 164 • 💬 3 • ⭐ 5,803 • 11d ago
+▲ 165 • 💬 3 • ⭐ 5,803 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -539,7 +539,7 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 152 • 💬 4 • ⭐ 542 • 4d ago
+▲ 153 • 💬 4 • ⭐ 542 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
 
@@ -557,6 +557,18 @@ RealGen is a photorealistic text-to-image framework that uses an LLM for prompt 
 
 ---
 
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 24 • 💬 0 • ⭐ 25,603 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
 **[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
 
 *Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
@@ -568,18 +580,6 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 ▲ 109 • 💬 4 • ⭐ 5,455 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
-
----
-
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 24 • 💬 0 • ⭐ 25,577 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -643,7 +643,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 12h ago
+⭐ 1.6k • 🔱 132 • 13h ago
 
 ---
 
@@ -673,7 +673,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 995 • 🔱 123 • 6h ago
+⭐ 996 • 🔱 123 • 6h ago
 
 ---
 
@@ -683,7 +683,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 868 • 🔱 126 • 2h ago
+⭐ 906 • 🔱 128 • 3h ago
 
 ---
 
@@ -693,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 861 • 🔱 58 • 8d ago
+⭐ 866 • 🔱 58 • 8d ago
 
 ---
 
@@ -703,7 +703,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 847 • 🔱 22 • 1d ago
+⭐ 848 • 🔱 22 • 1d ago
 
 ---
 

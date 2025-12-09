@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T04:40:06.365170+00:00'
+updated: '2025-12-09T04:55:43.259435+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 04:40 UTC  
+**Last Updated:** December 09, 2025 at 04:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-2h ago
+3h ago
 
 ---
 
@@ -93,7 +93,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -127,7 +127,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -141,7 +141,7 @@ This article explains what changed today when the CFTC approved Bitcoin as eligi
 
 **[...and then they join you.](https://www.reddit.com/r/Bitcoin/comments/1phxg26/and_then_they_join_you/)**
 
-58m ago
+1h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance • 1h ago
 
 Texas has launched its new cryptocurrency reserve with a $5 million purchase of Bitcoin as the state continues to embrace the volatile and controversial digital currency. The Texas Comptroller’s Office confirmed the purchase was made last month as a “placeholder investment” while the office works to contract with a cryptocurrency bank to manage its portfolio. […]
 
-Baton Rouge Business Report • 7h ago
+Baton Rouge Business Report • 8h ago
 
 ---
 
@@ -373,7 +373,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 11K • 👍 517 • 💬 355 • ⏱️ 13:29 • 22h ago
+👁️ 11K • 👍 517 • 💬 355 • ⏱️ 13:29 • 23h ago
 
 ---
 

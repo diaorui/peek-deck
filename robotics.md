@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T04:40:06.374425+00:00'
+updated: '2025-12-09T04:55:43.267438+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 04:40 UTC  
+**Last Updated:** December 09, 2025 at 04:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ Has anyone seen how the mopping pressure is created in a robot vacuum? I would i
 
 According to Reuters, NVIDIA and SoftBank, combined, are looking to invest more than $1 billion into Skild AI.
 
-🔗 [Windows Report](https://windowsreport.com/softbank-nvidia-reportedly-in-talks-to-invest-over-1-billion-into-skild-ai/) • 10h ago
+🔗 [Windows Report](https://windowsreport.com/softbank-nvidia-reportedly-in-talks-to-invest-over-1-billion-into-skild-ai/) • 11h ago
 
 ---
 
@@ -124,7 +124,7 @@ Tech Xplore • 13h ago
 
 The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
 
-Breaking Defense • 13h ago
+Breaking Defense • 14h ago
 
 ---
 
@@ -272,7 +272,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 157K • 👍 668 • 💬 5 • ⏱️ 0:17 • 21h ago
+👁️ 157K • 👍 668 • 💬 5 • ⏱️ 0:17 • 22h ago
 
 ---
 

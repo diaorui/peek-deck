@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T04:40:06.371139+00:00'
+updated: '2025-12-09T04:55:43.264655+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 04:40 UTC  
+**Last Updated:** December 09, 2025 at 04:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -2.6%  
-**30d:** -12.8%  
-**90d:** -30.4%  
-**1y:** -14.4%  
+**24h:** -1.0%  
+**7d:** -2.8%  
+**30d:** -12.9%  
+**90d:** -30.5%  
+**1y:** -14.5%  
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Five years ago, an Ethereum standards author was threatened with trademark legal action over the name of a smart contract standard](https://www.reddit.com/r/ethereum/comments/1phe1xy/five_years_ago_an_ethereum_standards_author_was/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 13h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 14h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 14h ago
 
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -254,7 +254,7 @@ In today's Milk Road episode, we sit down with CMT Digital's Aryan Sheikhalian t
 
 📺 Milk Road
 
-👁️ 1K • 👍 94 • 💬 79 • ⏱️ 33:06 • 8h ago
+👁️ 1K • 👍 94 • 💬 79 • ⏱️ 33:06 • 9h ago
 
 ---
 
