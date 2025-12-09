@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T10:34:46.290255+00:00'
+updated: '2025-12-09T10:52:45.937774+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 10:34 UTC  
+**Last Updated:** December 09, 2025 at 10:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,125.91
+### $90,101.64
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** -3.6%  
-**30d:** -14.9%  
-**90d:** -21.7%  
-**1y:** -6.4%  
+**24h:** -1.9%  
+**7d:** -3.7%  
+**30d:** -15.0%  
+**90d:** -21.8%  
+**1y:** -6.5%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-8h ago
+9h ago
 
 ---
 
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -125,13 +125,13 @@ They have a promotion going on with Ledger
 
 **[...and then they join you.](https://www.reddit.com/r/Bitcoin/comments/1phxg26/and_then_they_join_you/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 21h ago
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-WIRED • 4m ago
+WIRED • 22m ago
 
 ---
 
@@ -213,7 +213,7 @@ Financial Times • 17h ago
 
 Texas has launched its new cryptocurrency reserve with a $5 million purchase of Bitcoin as the state continues to embrace the volatile and controversial digital currency. The Texas Comptroller’s Office confirmed the purchase was made last month as a “placeholder investment” while the office works to contract with a cryptocurrency bank to manage its portfolio. […]
 
-Baton Rouge Business Report • 13h ago
+Baton Rouge Business Report • 14h ago
 
 ---
 
@@ -221,7 +221,7 @@ Baton Rouge Business Report • 13h ago
 
 Investors should treat bitcoin as the volatile, high-risk asset it is. A look at the data, along with comparisons to the Magnificent 7 stocks, indicates a small (1% to 2%) portfolio allocation for most investors would be the safest.
 
-Kiplinger • 23h ago
+Kiplinger • 1d ago
 
 ---
 
@@ -331,7 +331,7 @@ In this clip, I talk about what is happening for bitcoin and crypto this week an
 
 📺 Matt & Justus
 
-👁️ 580K • 👍 44K • 💬 181 • ⏱️ 1:00 • 15h ago
+👁️ 580K • 👍 44K • 💬 181 • ⏱️ 1:00 • 16h ago
 
 ---
 

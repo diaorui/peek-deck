@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T10:34:46.299657+00:00'
+updated: '2025-12-09T10:52:45.947195+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 10:34 UTC  
+**Last Updated:** December 09, 2025 at 10:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -124,7 +124,7 @@ Tech Xplore • 19h ago
 
 The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
 
-Breaking Defense • 19h ago
+Breaking Defense • 20h ago
 
 ---
 
@@ -140,7 +140,7 @@ Bloomberg.com • 20h ago
 
 SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
 
-PYMNTS.com • 12h ago
+PYMNTS.com • 13h ago
 
 ---
 
@@ -218,7 +218,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI . Robot
 
-👁️ 57K • 👍 834 • 💬 15 • ⏱️ 0:19 • 21h ago
+👁️ 57K • 👍 834 • 💬 15 • ⏱️ 0:19 • 22h ago
 
 ---
 

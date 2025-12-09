@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T10:34:46.296403+00:00'
+updated: '2025-12-09T10:52:45.943880+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 10:34 UTC  
+**Last Updated:** December 09, 2025 at 10:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -45,8 +45,8 @@ Live Ethereum monitoring dashboard
 **24h:** -1.1%  
 **7d:** -2.5%  
 **30d:** -12.7%  
-**90d:** -30.3%  
-**1y:** -14.2%  
+**90d:** -30.4%  
+**1y:** -14.3%  
 
 ---
 
@@ -88,7 +88,7 @@ JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138
 
 A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 6m ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 24m ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Five years ago, an Ethereum standards author was threatened with trademark legal action over the name of a smart contract standard](https://www.reddit.com/r/ethereum/comments/1phe1xy/five_years_ago_an_ethereum_standards_author_was/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 19h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 20h ago
 
 ---
 
@@ -198,7 +198,7 @@ CoinDesk • 20h ago
 
 **[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -280,7 +280,7 @@ Everyone is obsessed with “Bitcoin to 100K” or “Bitcoin is dead.” In thi
 
 📺 Crypto Hustle
 
-👁️ 132 • 👍 17 • ⏱️ 11:10 • 1h ago
+👁️ 132 • 👍 17 • ⏱️ 11:10 • 2h ago
 
 ---
 
@@ -330,7 +330,7 @@ SHOCKING ANNOUNCEMENT FROM BLACKROCK! In a groundbreaking live speech, BlackRock
 
 📺 CIUDADGPTDF
 
-👁️ 943 • 👍 2K • 1h ago
+👁️ 943 • 👍 2K • 2h ago
 
 ---
 
