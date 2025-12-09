@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T09:58:55.288592+00:00'
+updated: '2025-12-09T10:34:46.290255+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- social
 - cryptocurrency
 - news
-- social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 09:58 UTC  
+**Last Updated:** December 09, 2025 at 10:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,580.51
+### $90,125.91
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** -3.5%  
-**30d:** -14.8%  
-**90d:** -21.6%  
-**1y:** -6.3%  
+**24h:** -1.8%  
+**7d:** -3.6%  
+**30d:** -14.9%  
+**90d:** -21.7%  
+**1y:** -6.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.04B
+**Market Cap:** $1800.29B
 Rank #1
 
 **Circulating Supply:** 19,959,693 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.5%
+-28.4%
 
 **All-Time Low:** $67.81
-+132876.0%
++132957.1%
 
 ---
 
@@ -93,13 +93,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 **[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-13h ago
-
----
-
-**[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
-
-15h ago
+14h ago
 
 ---
 
@@ -109,17 +103,23 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
+**[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
+
+16h ago
+
+---
+
 **[Apparently Lamborghini is shilling Bitcoin now](https://www.reddit.com/r/Bitcoin/comments/1phjz9z/apparently_lamborghini_is_shilling_bitcoin_now/)**
 
 They have a promotion going on with Ledger
 
-15h ago
+16h ago
 
 ---
 
 **[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -137,7 +137,7 @@ They have a promotion going on with Ledger
 
 **[Is it Santa season yet?](https://www.reddit.com/r/Bitcoin/comments/1phy6ju/is_it_santa_season_yet/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -149,7 +149,7 @@ They have a promotion going on with Ledger
 
 With a series of record highs and crushing sell-offs, 2025 has been a rollercoaster ride for bitcoin, the world's largest cryptocurrency, which is at risk of ending the year with its first annual decline since 2022.  The world's main stock benchmarks have also had a turbulent year, repeatedly hitting record peaks and then pulling ​back as worries over tariffs, interest rates and a possible AI bubble whipsawed markets.  While equities are mostly up year-to-date, bitcoin's overall correlation with share prices has strengthened markedly this year.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -157,29 +157,47 @@ Yahoo Finance • 4h ago
 
 BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
-**[Strategy Drops Nearly $1 Billion on Bitcoin, Marking Largest BTC Buy in Months](https://finance.yahoo.com/news/strategy-drops-nearly-1-billion-154036345.html)**
+**[A Bitcoin ETF Doubled in Value. Its Investors Made Only One-Fourth of That](https://www.morningstar.com/funds/bitcoin-etf-doubled-value-its-investors-made-only-one-fourth-that)**
 
-Strategy unveiled its largest Bitcoin purchase in over 100 days, but the company's stock price was little changed on Monday.
+iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
 
-Yahoo Finance • 18h ago
-
----
-
-**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqfwjkrmh49rWZiqdnqWx3votW8NXAtXcLgm610hWrYVmBvnOZMXMVcd&gaa_ts=6937f64b&gaa_sig=HlYGXnByJ4KOc11sV_xQ0DADxmAlC7RdmqZ28nZBrMZhmMCdS6mF55tyL5qZUPfrm4oUmii3QA5kGBDu7HuV5A%3D%3D)**
-
-MarketWatch • 11h ago
+Morningstar • 23h ago
 
 ---
 
-**[Strategy Rises on $963 Million Bitcoin Buy, Largest Since July](https://www.bloomberg.com/news/articles/2025-12-08/strategy-rises-on-963-million-bitcoin-buy-largest-since-july)**
+**[Bitcoin Slips Toward ETF Break-Even Level as Inflows Slow, but Support May Be Building](https://decrypt.co/351573/bitcoin-etf-break-even-level-inflows-slow-support-building)**
 
-Strategy Inc. shares rose as much as 2.8% in premarket trading Monday after the digital asset treasury company said it bought $962.7 million worth of Bitcoin from Dec. 1 to Dec. 7, marking its largest acquisition since July.
+Bitcoin is drifting back toward the price where ETF buyers break even, as inflows slow and investors look to the Fed’s decision this week.
 
-Bloomberg.com • 19h ago
+Decrypt • 5h ago
+
+---
+
+**[Nvidia CEO Jensen Huang Just Flipped the Bitcoin Energy Consumption Debate — And It Changes Everything](https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-just-131048842.html)**
+
+Nvidia CEO Jensen Huang says Bitcoin converts excess energy into a portable form of money. His comments challenge years of criticism over Bitcoin’s electricity use. ...
+
+Yahoo Finance • 21h ago
+
+---
+
+**[America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/)**
+
+In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
+
+WIRED • 4m ago
+
+---
+
+**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
+
+Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
+
+Futurism • 2d ago
 
 ---
 
@@ -187,7 +205,7 @@ Bloomberg.com • 19h ago
 
 Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
 
-Financial Times • 16h ago
+Financial Times • 17h ago
 
 ---
 
@@ -204,18 +222,6 @@ Baton Rouge Business Report • 13h ago
 Investors should treat bitcoin as the volatile, high-risk asset it is. A look at the data, along with comparisons to the Magnificent 7 stocks, indicates a small (1% to 2%) portfolio allocation for most investors would be the safest.
 
 Kiplinger • 23h ago
-
----
-
-**[Bitcoin Price Rebounds Slightly Ahead of the Fed. How It Could Reach $120K—or Fall to $82K.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-2085d4a2?gaa_at=eafs&gaa_n=AWEtsqflhNP3vreNcDvR4p8GJPg6lKTCtNV9ub9bOQZOMl6QtUTtKo99HgK5&gaa_ts=6937f64b&gaa_sig=ol2Gw2SDs_S8Q1auypAZufbVcM4zOuem5d6frog60hC_OO1A25PQX-EsK8iAzs8mwblLO-cB00APLPuswMDaEw%3D%3D)**
-
-Barron's • 19h ago
-
----
-
-**[Strategy, Wall Street's Favorite Stock, Just Loaded Up On More Bitcoin](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
-
-Investor's Business Daily • 19h ago
 
 ---
 
@@ -241,7 +247,7 @@ Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin
 
 **[Bitcoin's Sky-High Prices Have Not Panned Out](https://news.ycombinator.com/item?id=46132636)**
 
-⬆️ 3 • 💬 2 • 5d ago • [nytimes.com](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)
+⬆️ 3 • 💬 2 • 6d ago • [nytimes.com](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)
 
 ---
 
@@ -307,7 +313,7 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 324K • 👍 12K • 💬 1K • ⏱️ 20:03 • 13h ago
+👁️ 324K • 👍 12K • 💬 1K • ⏱️ 20:03 • 14h ago
 
 ---
 
@@ -317,7 +323,7 @@ In this clip, I talk about what is happening for bitcoin and crypto this week an
 
 📺 CryptosRus Extra
 
-👁️ 11K • 👍 506 • 💬 208 • ⏱️ 9:01 • 9h ago
+👁️ 11K • 👍 506 • 💬 208 • ⏱️ 9:01 • 10h ago
 
 ---
 
@@ -345,7 +351,7 @@ Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. 
 
 📺 Simply Bitcoin
 
-👁️ 37K • 👍 3K • 💬 409 • ⏱️ 16:35 • 11h ago
+👁️ 37K • 👍 3K • 💬 409 • ⏱️ 16:35 • 12h ago
 
 ---
 
@@ -355,7 +361,7 @@ Vanguard, Bank of America, and Charles Schwab just made massive moves into Bitco
 
 📺 Lark Davis
 
-👁️ 17K • 👍 864 • 💬 60 • ⏱️ 9:27 • 10h ago
+👁️ 17K • 👍 864 • 💬 60 • ⏱️ 9:27 • 11h ago
 
 ---
 
@@ -365,7 +371,7 @@ In this video, Kyledoops shows you 3 very specific reasons why you can expect a 
 
 📺 Crypto Banter
 
-👁️ 6K • 👍 746 • 💬 9 • ⏱️ 37:53 • 1h ago
+👁️ 6K • 👍 746 • 💬 9 • ⏱️ 37:53 • 2h ago
 
 ---
 
@@ -383,7 +389,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 THE JACK MALLERS SHOW
 
-👁️ 17K • 👍 1K • 💬 134 • ⏱️ 1:14:55 • 9h ago
+👁️ 17K • 👍 1K • 💬 134 • ⏱️ 1:14:55 • 10h ago
 
 ---
 

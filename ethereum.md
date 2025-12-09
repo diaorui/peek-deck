@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T09:58:55.294554+00:00'
+updated: '2025-12-09T10:34:46.296403+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- social
 - cryptocurrency
 - news
-- social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 09:58 UTC  
+**Last Updated:** December 09, 2025 at 10:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -2.6%  
-**30d:** -12.8%  
-**90d:** -30.5%  
-**1y:** -14.4%  
+**24h:** -1.1%  
+**7d:** -2.5%  
+**30d:** -12.7%  
+**90d:** -30.3%  
+**1y:** -14.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.14B
+**Market Cap:** $375.48B
 Rank #2
 
 **Circulating Supply:** 120,695,272 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.2%
+-37.1%
 
 **All-Time Low:** $0.43
-+717565.3%
++718623.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -81,6 +81,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138,452 ETH, equivalent to about US$435 million, in its latest accumulation round. This bold move boosts BitMine’s total crypto holdings significantly, reinforcing its position as one of the largest institutional holders of Ethereum (ETH) worldwide. Tom Lee and his team cited several catalysts behind this surge: the recent Fusaka upgrade to the Ethereum network — implemented 3 December — which promises improved scalability, security and usability. Additionally, macroeconomic conditions appear favorable, with expectations of a loosening monetary policy by the Federal Reserve potentially supporting broader crypto market recovery. The scale of the purchase (over 138,000 ETH in just a week) marks a dramatic acceleration compared to previous buying patterns — reportedly about 156 % more than the firm’s weekly average four weeks ago. In doing so, BitMine pushes further toward its longer-term target of controlling up to 5 % of Ethereum’s total supply. In sum, this $435 million acquisition underlines BitMine’s growing conviction in Ethereum’s long-term potential, signaling confidence in both network upgrades and macroeconomic conditions that may favor a renewed bull cycle in crypto.
 
 19h ago
+
+---
+
+**[Learnings From Post-Fusaka Ethereum](https://www.reddit.com/r/ethereum/comments/1pi43mc/learnings_from_postfusaka_ethereum/)**
+
+A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
+
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 6m ago
 
 ---
 
@@ -102,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 By magnitude, the biggest question for the Defi ecosystem for the next cycle is who gets to keep the yield on treasuries backing reserve stablecoins such as USDC and USDT? If secretary Bennett and the federal reserve are correct in their forecasts, we'll be at something like $3T in stablecoin market cap by 2030. At
 
-🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 14h ago
+🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 15h ago
 
 ---
 
@@ -110,7 +118,7 @@ By magnitude, the biggest question for the Defi ecosystem for the next cycle is 
 
 AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ethereum, I’m Amey - Ratings Director at Bluechip. Stablecoins offer a cheaper way to make cross-border transactions and a more reliable way to save in economies with high inflation or unstable financial systems. But how can you tell which stablecoins are truly stable? Our SMIDGE rating framework analyzes six economic factors and assigns letter-grade ratings (from F to A+) to identify the most reliable stablecoins. You can read the full framework on our website here. Essentially, the SMIDGE framework evaluates - Stability - collateral quality, asset segregation, core stability mechanism Management - track record of team, jurisdiction, accountability to token holders Implementation - technical risk (currently not tracked) Decentralization - censorship risk, blacklisting (only for crypto-backed stablecoins) Governance - regulatory protections, redemption terms, voting systems External - market sentiment (currently not tracked) We take a crypto-native, independent, and data-driven approach to stablecoin ratings. Our framework is the first publicly available, factor-based risk model for evaluating stablecoins. Our ratings are publicly available on our website here. Currently, USDT is rated D and USDC is rated B+ by Bluechip. Last month, we partnered with the Ethereum Foundation to host Bluechip25 in Vienna, the first global conference dedicated to crypto safety. Sign up for updates on next year's Bluechip26 on our website here. We also host a podcast called Bluechip Dialogues, where our Chief Economist Garett Jones interviews leading figures in crypto. Watch the latest episode with the creator of Facebook’s stablecoin project Diem (formerly Libra) here. Follow us on Twitter here or LinkedIn here or Telegram channel here. Ask us anything! I'll be around to answer your questions over the following days.
 
-22h ago
+23h ago
 
 ---
 
@@ -138,14 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Where can I buy tiny amounts of ETH for gas funds](https://www.reddit.com/r/ethereum/comments/1pglzfh/where_can_i_buy_tiny_amounts_of_eth_for_gas_funds/)**
-
-I'm extremely new to crypto, I bought USDT on Binance and that I then transferred to localcoinswap using erc-20 without realizing that I need ETH on the account to actually do any transfer in or out of the platform or to actually do swaps between coins on the platform itself, are there any services that allow buying small amounts of ETH for these transfers?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ I'm extremely new to crypto, I bought USDT on Binance and that I then transferre
 
 The CFTC has introduced a pilot allowing Bitcoin, Ethereum, and USDC to be used as margin, while updating rules to support tokenized assets.
 
-Decrypt • 11h ago
+Decrypt • 12h ago
 
 ---
 
@@ -162,15 +162,15 @@ Decrypt • 11h ago
 
 Japan is considering a big change to how it taxes crypto.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Why Tom Lee’s BitMine Is Buying Ethereum (ETH) Aggressively Despite Market Fear](https://finance.yahoo.com/news/why-tom-lee-bitmine-buying-080801491.html)**
+**[Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds](https://finance.yahoo.com/news/tom-lee-bitmine-buys-429-162833185.html)**
 
-BitMine has boosted its Ethereum holdings this month, diverging from ETF outflows and rising exchange deposits.
+Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -178,19 +178,13 @@ Yahoo Finance • 1h ago
 
 The trading platform dives further into digital assets both domestically and globally.
 
-Fortune • 11h ago
+Fortune • 12h ago
 
 ---
 
 **[Vitalik Buterin pushes for trustless gas futures market to hedge Ethereum fees, sparking debate over feasibility](https://www.theblock.co/post/381677/vitalik-buterin-pushes-for-trustless-gas-futures-market-to-hedge-ethereum-fees-sparking-debate)**
 
-The Block • 22h ago
-
----
-
-**[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
-
-The Block • 19h ago
+The Block • 23h ago
 
 ---
 
@@ -202,17 +196,23 @@ CoinDesk • 20h ago
 
 ---
 
+**[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
+
+The Block • 19h ago
+
+---
+
 **[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
 
 Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
 **[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
 
-Binance • 17h ago
+Binance • 18h ago
 
 ---
 
@@ -240,7 +240,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 9K • 👍 336 • 💬 177 • ⏱️ 12:46 • 15h ago
+👁️ 9K • 👍 336 • 💬 177 • ⏱️ 12:46 • 16h ago
 
 ---
 
@@ -250,7 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 327 • 💬 18 • ⏱️ 15:50 • 18h ago
+👁️ 9K • 👍 327 • 💬 18 • ⏱️ 15:50 • 19h ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 9K • 👍 505 • 💬 264 • ⏱️ 19:51 • 11h ago
+👁️ 9K • 👍 505 • 💬 264 • ⏱️ 19:51 • 12h ago
 
 ---
 

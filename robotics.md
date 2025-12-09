@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T09:58:55.297742+00:00'
+updated: '2025-12-09T10:34:46.299657+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 09:58 UTC  
+**Last Updated:** December 09, 2025 at 10:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
 
-20h ago
+21h ago
 
 ---
 
@@ -58,7 +58,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
-21h ago
+22h ago
 
 ---
 
@@ -66,7 +66,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
 Has anyone seen how the mopping pressure is created in a robot vacuum? I would imagine some sort of linear actuator/solenoid/spring suspension but did not see any of that when looking at at online teardowns of a Dreame X50 Ultra that claims to have mop lifting/mop pressure.
 
-7h ago
+8h ago
 
 ---
 
@@ -74,7 +74,7 @@ Has anyone seen how the mopping pressure is created in a robot vacuum? I would i
 
 What is the correct procedure for implementing a drawing interface on an ABB IRB 2600 robot using the IRC5 controller, including software integration, conversion of drawing data to robot paths, and RAPID programming requirements. Curious about ABB IRB 2600 robot and did anyone have experience with this? Thank you in advance!!!!!
 
-2h ago
+3h ago
 
 ---
 
@@ -82,7 +82,7 @@ What is the correct procedure for implementing a drawing interface on an ABB IRB
 
 Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a shelf unused and I'm sure someone out there (UK based) can make much better use of it than I can. This unit is used but in good working condition. It has the gripper attachment included and comes as part of the package. I don't have the original box anymore but I can box it up with protective materials and another suitably strong box if shipping or ideally could be collected or delivered to the new owner. The uFactory x-arm 6 is a 6 axis robot featuring a 5kg payload capacity, 700mm reach. This unit has a gripper attachment included and is compatible with multiple operating systems using the xArm studio software.
 
-16h ago
+17h ago
 
 ---
 
@@ -116,7 +116,7 @@ Just sharing a small test clip from a sim environment: simple walking + a few co
 
 **[Speech-to-reality system creates objects on demand using AI and robotics](https://techxplore.com/news/2025-12-speech-reality-demand-ai-robotics.html)**
 
-Tech Xplore • 18h ago
+Tech Xplore • 19h ago
 
 ---
 
@@ -132,7 +132,7 @@ Breaking Defense • 19h ago
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -144,11 +144,11 @@ PYMNTS.com • 12h ago
 
 ---
 
-**[Moorhead robotics team builds head-activated device to help first-grader raise her hand](https://www.valleynewslive.com/2025/12/08/moorhead-robotics-team-builds-head-activated-device-help-first-grader-raise-her-hand/)**
+**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
 
-1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
+Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
 
-Valley News Live • 10h ago
+Decrypt • 11h ago
 
 ---
 
@@ -156,7 +156,15 @@ Valley News Live • 10h ago
 
 While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-Interesting Engineering • 17h ago
+Interesting Engineering • 18h ago
+
+---
+
+**[Moorhead robotics team builds head-activated device to help first-grader raise her hand](https://www.valleynewslive.com/2025/12/08/moorhead-robotics-team-builds-head-activated-device-help-first-grader-raise-her-hand/)**
+
+1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
+
+Valley News Live • 11h ago
 
 ---
 
@@ -176,19 +184,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
-
-Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
-
-Decrypt • 10h ago
-
----
-
 **[From combat to space: Foundation Robotics’ Mike LeBlanc talks humanoids](https://www.therobotreport.com/from-combat-space-foundation-mike-leblanc-humanoid-robotics/)**
 
 Mike LeBlanc, co-founder of Foundation Robotics and a U.S. Marine Corps veteran, shares insights from his entrepreneurial journey.
 
-The Robot Report • 14h ago
+The Robot Report • 15h ago
 
 ---
 
@@ -202,7 +202,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 8K • 👍 191 • 💬 103 • ⏱️ 14:26 • 14h ago
+👁️ 8K • 👍 191 • 💬 103 • ⏱️ 14:26 • 15h ago
 
 ---
 

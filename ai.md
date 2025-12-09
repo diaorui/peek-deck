@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T09:58:55.280143+00:00'
+updated: '2025-12-09T10:34:46.275605+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- news
+- repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 09:58 UTC  
+**Last Updated:** December 09, 2025 at 10:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
 
-🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 13h ago
+🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 14h ago
 
 ---
 
@@ -79,7 +79,7 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
-20h ago
+21h ago
 
 ---
 
@@ -95,7 +95,7 @@ From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming r
 
 IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks big bets like Watsonx and next-gen computing will pay off.
 
-🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 19h ago
+🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 20h ago
 
 ---
 
@@ -121,7 +121,7 @@ Everyone said “no code, no proof.” But Claude just ran it. Three messages. N
 
 **[A.I. Videos Have Flooded Social Media. No One Was Ready.](https://www.nytimes.com/2025/12/08/technology/ai-slop-sora-social-media.html)**
 
-The New York Times • 14h ago
+The New York Times • 15h ago
 
 ---
 
@@ -129,57 +129,49 @@ The New York Times • 14h ago
 
 Experts warn of dangers as England and Wales study shows 13- to 17-year-olds consulting AI amid long waiting lists for services
 
-The Guardian • 3h ago
+The Guardian • 4h ago
+
+---
+
+**[American power is no longer boring … thanks to AI](https://www.axios.com/2025/12/09/ai-energy-cost-power-data-center)**
+
+Axios • 34m ago
+
+---
+
+**[House Democrats establish AI working group as industry bolsters DC presence](https://www.cnbc.com/2025/12/09/ai-house-democrats-artificial-intelligence-washington-dc.html)**
+
+House lawmakers see the commission as a starting point for working with industry on AI policies, issues.
+
+CNBC • 34m ago
 
 ---
 
 **[Brookfield, Qatar Team Up on $20 Billion AI Investment Venture](https://www.bloomberg.com/news/articles/2025-12-09/brookfield-qatar-team-up-on-20-billion-ai-investment-venture)**
 
-Bloomberg.com • 25m ago
-
----
-
-**[Hedge fund managing partner Dmitry Balyasny taps AI as largest tail risk for 2026](https://finance.yahoo.com/news/hedge-fund-managing-partner-dmitry-091318948.html)**
-
-Hedge fund Balyasny Asset Management's managing partner said on Tuesday that ​the largest tail risk for the year ahead is ‌if artificial intelligence surprises on the upside or the downside.  Dmitry Balyasny, managing ‌partner and the firm's CIO, said if there was a fall-off in demand and AI companies --- especially so-called hyper-scalers -- changed their spending plans because they did not achieve the monetization they needed, ⁠this would be a ‌surprise to the downside.  Also, an outside risk the hedge fund manager was watching for was if ‍the AI industry took off faster than expected.
-
-Yahoo Finance • 45m ago
-
----
-
-**[EU opens investigation into Google’s use of online content for AI models](https://www.theguardian.com/technology/2025/dec/09/eu-investigation-google-ai-models-gemini)**
-
-European Commission to assess whether Gemini owner is putting rival companies at a disadvantage
-
-The Guardian • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
 
-The Economist • 12h ago
+The Economist • 13h ago
 
 ---
 
-**[Trump gives Nvidia the OK to sell advanced AI chips to China](https://www.bbc.com/news/articles/ckg9q635q6po)**
+**[AI and recruitment: Are we in a 'race to the bottom'?](https://www.bbc.com/news/articles/ced6jv76091o)**
 
-Nvidia had been at the centre of a geopolitical tug-of-war between the US and China in recent months.
+AI helps jobseekers to apply for hundreds of roles, meanwhile employers use AI to filter them.
 
-BBC • 7h ago
-
----
-
-**[Trump to issue order creating national AI rule](https://www.reuters.com/world/trump-says-he-will-sign-executive-order-this-week-ai-approval-process-2025-12-08/)**
-
-Reuters • 12h ago
+BBC • 10h ago
 
 ---
 
-**[What’s next in AI: 7 trends to watch in 2026](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/)**
+**[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws)**
 
-Seven AI trends to watch in 2026 will make AI a true partner — boosting teamwork, security, research momentum and infrastructure efficiency.
+President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-Microsoft Source • 16h ago
+CNN • 19h ago
 
 ---
 
@@ -187,7 +179,15 @@ Microsoft Source • 16h ago
 
 The models are akin to studying together to ace a test instead of relying on individual knowledge
 
-Financial Times • 8h ago
+Financial Times • 9h ago
+
+---
+
+**[Trump gives Nvidia the OK to sell advanced AI chips to China](https://www.bbc.com/news/articles/ckg9q635q6po)**
+
+Nvidia had been at the centre of a geopolitical tug-of-war between the US and China in recent months.
+
+BBC • 8h ago
 
 ---
 
@@ -197,7 +197,7 @@ Financial Times • 8h ago
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 574 • 💬 178 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 574 • 💬 179 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -205,7 +205,7 @@ Financial Times • 8h ago
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 401 • 💬 343 • 17h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 401 • 💬 348 • 17h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -213,13 +213,13 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 381 • 💬 295 • 9h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 398 • 💬 310 • 10h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 162 • 💬 137 • 16h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 163 • 💬 139 • 16h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -239,7 +239,7 @@ AI progress is steady. Human equivalence is sudden.
 
 Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny.
 
-⬆️ 37 • 💬 5 • 13h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
+⬆️ 37 • 💬 5 • 14h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
 
 ---
 
@@ -275,7 +275,7 @@ JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, cryp
 
 📺 Fox Business
 
-👁️ 59K • 👍 1K • 💬 339 • ⏱️ 18:47 • 17h ago
+👁️ 59K • 👍 1K • 💬 339 • ⏱️ 18:47 • 18h ago
 
 ---
 
@@ -295,7 +295,7 @@ Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS
 
 📺 AI Revolution
 
-👁️ 17K • 👍 596 • 💬 45 • ⏱️ 13:12 • 9h ago
+👁️ 17K • 👍 596 • 💬 45 • ⏱️ 13:12 • 10h ago
 
 ---
 
@@ -325,7 +325,7 @@ Geoffrey Hinton, the 'Godfather of AI' tells Ian Bremmer on GZERO World AI will 
 
 📺 GZERO Media
 
-👁️ 15K • 👍 400 • 💬 53 • ⏱️ 21:45 • 20h ago
+👁️ 15K • 👍 400 • 💬 53 • ⏱️ 21:45 • 21h ago
 
 ---
 
@@ -335,7 +335,7 @@ AI is going to transform the world. We can't let a handful of billionaires decid
 
 📺 Senator Bernie Sanders
 
-👁️ 37K • 👍 3K • 💬 722 • ⏱️ 15:31 • 10h ago
+👁️ 37K • 👍 3K • 💬 722 • ⏱️ 15:31 • 11h ago
 
 ---
 
@@ -381,7 +381,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,384 • 17h ago
+⬇️ 217,428 • ❤️ 2,384 • 17h ago
 
 ---
 
@@ -393,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 559 • 5h ago
+⬇️ 56,958 • ❤️ 559 • 6h ago
 
 ---
 
@@ -405,7 +405,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 28,778 • ❤️ 829 • 7d ago
+⬇️ 33,102 • ❤️ 830 • 7d ago
 
 ---
 
@@ -427,7 +427,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 8,016 • ❤️ 562 • 7d ago
+⬇️ 9,310 • ❤️ 563 • 7d ago
 
 ---
 
@@ -439,7 +439,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 0 • ❤️ 185 • 4h ago
+⬇️ 6,920 • ❤️ 186 • 5h ago
 
 ---
 
@@ -451,7 +451,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 0 • ❤️ 174 • 4h ago
+⬇️ 687 • ❤️ 178 • 4h ago
 
 ---
 
@@ -461,7 +461,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.
 
-⬇️ 372 • ❤️ 172 • 5d ago
+⬇️ 400 • ❤️ 172 • 5d ago
 
 ---
 
@@ -473,7 +473,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 3,573 • ❤️ 398 • 7d ago
+⬇️ 4,106 • ❤️ 398 • 7d ago
 
 ---
 
@@ -485,7 +485,7 @@ LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusi
 
 `text-to-image`
 
-⬇️ 99 • ❤️ 158 • 4h ago
+⬇️ 303 • ❤️ 158 • 4h ago
 
 ---
 
@@ -717,7 +717,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 841 • 🔱 45 • 6h ago
+⭐ 841 • 🔱 45 • 7h ago
 
 ---
 
