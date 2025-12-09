@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T06:56:47.163089+00:00'
+updated: '2025-12-09T07:26:51.999966+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- videos
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 06:56 UTC  
+**Last Updated:** December 09, 2025 at 07:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
 
-🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 10h ago
+🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 11h ago
 
 ---
 
@@ -79,7 +79,15 @@ From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming r
 
 Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
-17h ago
+18h ago
+
+---
+
+**[One-Minute Daily AI News 12/8/2025](https://www.reddit.com/r/artificial/comments/1phzmit/oneminute_daily_ai_news_1282025/)**
+
+Google’s AI try-on app Doppl adds a shoppable discovery feed.[1] Claude Code is coming to Slack, and that’s a bigger deal than it sounds.[2] Google Colab Integrates KaggleHub for One Click Access to Kaggle Datasets, Models and Competitions.[3] Trump says AI executive order limiting state rules coming this week.[4] Sources: [1] https://techcrunch.com/2025/12/08/googles-ai-try-on-app-doppl-adds-a-shoppable-discovery-feed/ [2] https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/ [3] https://www.marktechpost.com/2025/12/07/google-colab-integrates-kagglehub-for-one-click-access-to-kaggle-datasets-models-and-competitions/ [4] https://www.politico.com/news/2025/12/08/trump-says-ai-executive-order-limiting-state-rules-coming-this-week-00680557
+
+1h ago
 
 ---
 
@@ -87,7 +95,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks big bets like Watsonx and next-gen computing will pay off.
 
-🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 16h ago
+🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 17h ago
 
 ---
 
@@ -107,35 +115,13 @@ Title.
 
 ---
 
-**[One-Minute Daily AI News 12/8/2025](https://www.reddit.com/r/artificial/comments/1phzmit/oneminute_daily_ai_news_1282025/)**
-
-Google’s AI try-on app Doppl adds a shoppable discovery feed.[1] Claude Code is coming to Slack, and that’s a bigger deal than it sounds.[2] Google Colab Integrates KaggleHub for One Click Access to Kaggle Datasets, Models and Competitions.[3] Trump says AI executive order limiting state rules coming this week.[4] Sources: [1] https://techcrunch.com/2025/12/08/googles-ai-try-on-app-doppl-adds-a-shoppable-discovery-feed/ [2] https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/ [3] https://www.marktechpost.com/2025/12/07/google-colab-integrates-kagglehub-for-one-click-access-to-kaggle-datasets-models-and-competitions/ [4] https://www.politico.com/news/2025/12/08/trump-says-ai-executive-order-limiting-state-rules-coming-this-week-00680557
-
-1h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[A.I. Videos Have Flooded Social Media. No One Was Ready.](https://www.nytimes.com/2025/12/08/technology/ai-slop-sora-social-media.html)**
 
-The New York Times • 11h ago
-
----
-
-**[Scammers are using AI to target holiday shoppers. Here's how to protect yourself](https://www.nbclosangeles.com/news/local/scammers-using-ai-against-online-shoppers/3813448/)**
-
-Scammers and hackers are using artificial intelligence to dupe them for their own gain. Here’s what to know to avoid falling victim to them.
-
-NBC4 Los Angeles • 1h ago
-
----
-
-**[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
-
-The Economist • 9h ago
+The New York Times • 12h ago
 
 ---
 
@@ -143,13 +129,59 @@ The Economist • 9h ago
 
 Nvidia had been at the centre of a geopolitical tug-of-war between the US and China in recent months.
 
-BBC • 4h ago
+BBC • 5h ago
+
+---
+
+**[Saudi Arabia eyes data embassies amid sovereign AI push. Here's what we know so far](https://www.cnbc.com/2025/12/09/saudi-arabia-eyes-data-embassies-amid-sovereign-ai-push.html)**
+
+Only two data embassies currently exist, but Saudi Arabia is looking to make them commonplace.
+
+CNBC • 16m ago
+
+---
+
+**[8 Skills You Need To Manage The New AI Agent Workforce](https://www.forbes.com/sites/bernardmarr/2025/12/09/8-skills-you-need-to-manage-the-new-ai-agent-workforce/)**
+
+AI agents are rapidly becoming autonomous co-workers handling everything from marketing to manufacturing, requiring managers to develop entirely new skill sets.
+
+Forbes • 58m ago
+
+---
+
+**[‘I feel it’s a friend’: quarter of teenagers turn to AI chatbots for mental health support](https://www.theguardian.com/technology/2025/dec/09/teenagers-ai-chatbots-mental-health-support)**
+
+Experts warn of dangers as England and Wales study shows 13- to 17-year-olds consulting AI amid long waiting lists for services
+
+The Guardian • 2h ago
+
+---
+
+**[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
+
+The Economist • 10h ago
+
+---
+
+**[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws)**
+
+President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
+
+CNN • 16h ago
 
 ---
 
 **[AI Computer Startup Hits $4.5 Billion Valuation in Seed Round](https://www.bloomberg.com/news/articles/2025-12-08/ai-computer-startup-hits-4-5-billion-valuation-in-seed-round)**
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 16h ago
+
+---
+
+**[China’s open-source AI is a national advantage](https://www.ft.com/content/b1f92b0e-d6ef-4c95-b51e-7bcf90c8a65f)**
+
+The models are akin to studying together to ace a test instead of relying on individual knowledge
+
+Financial Times • 6h ago
 
 ---
 
@@ -158,32 +190,6 @@ Bloomberg.com • 15h ago
 Despite soaring progress, scientists at AI’s largest gathering say key questions about how models work and how to measure them remain unsolved.
 
 NBC News • 6h ago
-
----
-
-**[DeSantis: Trump’s AI order ‘can’t preempt’ states from taking action](https://www.politico.com/news/2025/12/08/desantis-trump-ai-order-states-action-00681301)**
-
-Politico • 9h ago
-
----
-
-**[Trump to issue order creating national AI rule](https://www.reuters.com/world/trump-says-he-will-sign-executive-order-this-week-ai-approval-process-2025-12-08/)**
-
-Reuters • 9h ago
-
----
-
-**[Investing In Unconventional AI: Biology-Scale Efficiency For The AI Era](https://lsvp.com/stories/investing-in-unconventional-ai-biology-scale-efficiency-for-the-ai-era/)**
-
-Lightspeed Venture Partners • 12h ago
-
----
-
-**[Cursor internal AI Help Desk handles 80% of employees' support tickets](https://fortune.com/2025/12/08/cursor-developed-an-internal-ai-help-desk-that-handles-80-of-its-employees-support-tickets-says-the-29-billion-startups-ceo/)**
-
-The AI coding-assistant start-up isn't just using artificial intelligence to help developers write code, it's deploying AI across its own internal operations, CEO Michael Truell said at Fortune's Brainstorm AI conference.
-
-Fortune • 6h ago
 
 ---
 
@@ -201,7 +207,7 @@ Fortune • 6h ago
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 390 • 💬 329 • 14h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 393 • 💬 330 • 14h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -209,13 +215,13 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 289 • 💬 182 • 6h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 315 • 💬 222 • 7h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 138 • 💬 128 • 13h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 142 • 💬 129 • 13h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -233,7 +239,7 @@ AI progress is steady. Human equivalence is sudden.
 
 **[The Reverse Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46176651)**
 
-⬆️ 36 • 💬 4 • 2d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington)
+⬆️ 37 • 💬 4 • 2d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington)
 
 ---
 
@@ -249,7 +255,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny.
 
-⬆️ 35 • 💬 4 • 10h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
+⬆️ 35 • 💬 4 • 11h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
 
 ---
 
@@ -271,7 +277,7 @@ JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, cryp
 
 📺 Fox Business
 
-👁️ 54K • 👍 1K • 💬 318 • ⏱️ 18:47 • 14h ago
+👁️ 54K • 👍 1K • 💬 318 • ⏱️ 18:47 • 15h ago
 
 ---
 
@@ -377,7 +383,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,365 • 14h ago
+⬇️ 201,990 • ❤️ 2,371 • 14h ago
 
 ---
 
@@ -389,7 +395,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 546 • 2h ago
+⬇️ 40,450 • ❤️ 550 • 3h ago
 
 ---
 
@@ -401,7 +407,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 28,778 • ❤️ 825 • 7d ago
+⬇️ 28,778 • ❤️ 827 • 7d ago
 
 ---
 
@@ -411,7 +417,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 278 • 7d ago
+⬇️ 0 • ❤️ 279 • 7d ago
 
 ---
 
@@ -423,7 +429,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 8,016 • ❤️ 557 • 7d ago
+⬇️ 8,016 • ❤️ 558 • 7d ago
 
 ---
 
@@ -437,18 +443,6 @@ Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41
 
 ---
 
-**[Nemotron-Orchestrator-8B](https://huggingface.co/nvidia/Nemotron-Orchestrator-8B)**
-
-*NVIDIA*
-
-Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrates diverse expert models and tools to solve complex agentic tasks, achieving state-of-the-art performance on benchmarks like HLE with superior efficiency compared to monolithic models.
-
-`text-generation` `8.2B`
-
-⬇️ 3,573 • ❤️ 394 • 6d ago
-
----
-
 **[GLM-4.6V-Flash](https://huggingface.co/zai-org/GLM-4.6V-Flash)**
 
 *Z.ai*
@@ -457,19 +451,19 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 0 • ❤️ 164 • 1h ago
+⬇️ 0 • ❤️ 171 • 1h ago
 
 ---
 
-**[LongCat-Image](https://huggingface.co/meituan-longcat/LongCat-Image)**
+**[Nemotron-Orchestrator-8B](https://huggingface.co/nvidia/Nemotron-Orchestrator-8B)**
 
-*LongCat*
+*NVIDIA*
 
-LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusion model with 6B parameters, excelling in photorealism and accurate Chinese character rendering. It's designed for high performance and developer accessibility, suitable for diverse creative applications.
+Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrates diverse expert models and tools to solve complex agentic tasks, achieving state-of-the-art performance on benchmarks like HLE with superior efficiency compared to monolithic models.
 
-`text-to-image`
+`text-generation` `8.2B`
 
-⬇️ 99 • ❤️ 156 • 58m ago
+⬇️ 3,573 • ❤️ 396 • 7d ago
 
 ---
 
@@ -481,7 +475,19 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 0 • ❤️ 156 • 1h ago
+⬇️ 0 • ❤️ 159 • 1h ago
+
+---
+
+**[Ministral-3-14B-Instruct-2512](https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512)**
+
+*Mistral AI_*
+
+Ministral 3 14B Instruct is a powerful, edge-optimized multilingual vision-language model fine-tuned for instruction tasks. It excels in chat, agentic use cases with native function calling, and local deployments due to its FP8 quantization and 256k context window.
+
+`13.9B`
+
+⬇️ 179,920 • ❤️ 156 • 3d ago
 
 ---
 
@@ -633,7 +639,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.5k • 🔱 436 • 4h ago
+⭐ 5.5k • 🔱 436 • 5h ago
 
 ---
 
@@ -713,7 +719,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 835 • 🔱 45 • 3h ago
+⭐ 835 • 🔱 45 • 4h ago
 
 ---
 
@@ -723,7 +729,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 822 • 🔱 267 • 2d ago
+⭐ 822 • 🔱 267 • 3d ago
 
 ---
 

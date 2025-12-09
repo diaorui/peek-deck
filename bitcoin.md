@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T06:56:47.171482+00:00'
+updated: '2025-12-09T07:26:52.008481+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- videos
 - social
 - cryptocurrency
-- videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 06:56 UTC  
+**Last Updated:** December 09, 2025 at 07:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $89,962.50
+### $90,147.37
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** -3.8%  
-**30d:** -15.1%  
-**90d:** -21.9%  
-**1y:** -6.6%  
+**24h:** -1.3%  
+**7d:** -3.6%  
+**30d:** -14.9%  
+**90d:** -21.7%  
+**1y:** -6.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1795.92B
+**Market Cap:** $1802.44B
 Rank #1
 
 **Circulating Supply:** 19,959,600 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.7%
+-28.3%
 
 **All-Time Low:** $67.81
-+132377.5%
++133148.8%
 
 ---
 
@@ -87,7 +87,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 **[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -97,9 +97,15 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
+**[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
+
+10h ago
+
+---
+
 **[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -107,13 +113,13 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 They have a promotion going on with Ledger
 
-12h ago
+13h ago
 
 ---
 
-**[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
+**[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
-9h ago
+45m ago
 
 ---
 
@@ -137,12 +143,6 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 ---
 
-**[Is it Santa season yet?](https://www.reddit.com/r/Bitcoin/comments/1phy6ju/is_it_santa_season_yet/)**
-
-2h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -151,7 +151,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
 
-Financial Times • 13h ago
+Financial Times • 14h ago
 
 ---
 
@@ -163,27 +163,39 @@ Bloomberg.com • 11h ago
 
 ---
 
-**[A Bitcoin ETF Doubled in Value. Its Investors Made Only One-Fourth of That](https://www.morningstar.com/funds/bitcoin-etf-doubled-value-its-investors-made-only-one-fourth-that)**
-
-iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
-
-Morningstar • 19h ago
-
----
-
 **[Bitcoin Slips Toward ETF Break-Even Level as Inflows Slow, but Support May Be Building](https://finance.yahoo.com/news/bitcoin-slips-toward-etf-break-051959075.html)**
 
 Bitcoin is drifting back toward the price where ETF buyers break even, as inflows slow and investors look to the Fed’s decision this week.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin's 2025 rollercoaster may end on a low](https://finance.yahoo.com/news/bitcoins-2025-rollercoaster-may-end-050859649.html)**
+**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
 
-With a series of record highs and crushing sell-offs, 2025 has been a rollercoaster ride for bitcoin, the world's largest cryptocurrency, which is at risk of ending the year with its first annual decline since 2022.  The world's main stock benchmarks have also had a turbulent year, repeatedly hitting record peaks and then pulling ​back as worries over tariffs, interest rates and a possible AI bubble whipsawed markets.  While equities are mostly up year-to-date, bitcoin's overall correlation with share prices has strengthened markedly this year.
+Reuters • 2h ago
 
-Yahoo Finance • 1h ago
+---
+
+**[Strategy Drops Nearly $1 Billion on Bitcoin, Marking Largest BTC Buy in Months](https://finance.yahoo.com/news/strategy-drops-nearly-1-billion-154036345.html)**
+
+Strategy unveiled its largest Bitcoin purchase in over 100 days, but the company's stock price was little changed on Monday.
+
+Yahoo Finance • 15h ago
+
+---
+
+**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqePWWZzFZEK51zKTf3wIJnlwPORC-bO29JjJIipP7JTse2IFSuxcWou&gaa_ts=6937d2a8&gaa_sig=8PLFZLDty4QuGwxay-9Y9tyNLgb5GFm8a_o04Qetf_bhUv65SAnCPP2AJQ2kLNR2KBpaG6-d5PLTzsofIfTuiw%3D%3D)**
+
+MarketWatch • 8h ago
+
+---
+
+**[Strategy Rises on $963 Million Bitcoin Buy, Largest Since July](https://www.bloomberg.com/news/articles/2025-12-08/strategy-rises-on-963-million-bitcoin-buy-largest-since-july)**
+
+Strategy Inc. shares rose as much as 2.8% in premarket trading Monday after the digital asset treasury company said it bought $962.7 million worth of Bitcoin from Dec. 1 to Dec. 7, marking its largest acquisition since July.
+
+Bloomberg.com • 17h ago
 
 ---
 
@@ -203,25 +215,9 @@ Kiplinger • 20h ago
 
 ---
 
-**[Bernstein reveals new Bitcoin target amid market pullback](https://www.thestreet.com/crypto/trading/bernstein-new-bitcoin-prediction)**
+**[Michael Saylor Explains Why Banks Are No Longer Waiting for Bitcoin](https://www.binance.com/en/square/post/33413939298642)**
 
-TheStreet • 13h ago
-
----
-
-**[Bitcoin Traders Target $20K Bitcoin Strike as Deep Out of the Money Options Gain Traction](https://www.coindesk.com/markets/2025/12/08/bitcoin-traders-target-usd20k-bitcoin-strike-as-deep-out-of-the-money-options-gain-traction)**
-
-These flows represent a bullish bet on volatility rather than a downside hedge or outright bearish position.
-
-CoinDesk • 2h ago
-
----
-
-**[Famed Investor Mike Alfred Claims Bitcoin Will Hit $315,000, Harvard Boosts Bitcoin Investment 2-To-1 Over Gold](https://finance.yahoo.com/news/famed-investor-mike-alfred-claims-094719509.html)**
-
-Investor Mike Alfred predicts Bitcoin could reach $315,000. Harvard University significantly increased its Bitcoin holdings over gold. But analysts warn of potential short-term consolidation. Bitcoin’s ...
-
-Yahoo Finance • 21h ago
+Binance • 1d ago
 
 ---
 
@@ -233,7 +229,7 @@ Yahoo Finance • 21h ago
 
 ₿OSS Challenge - start your career in bitcoin open source
 
-⬆️ 6 • 💬 1 • 4d ago • [bosschallenge.xyz](https://bosschallenge.xyz)
+⬆️ 7 • 💬 1 • 4d ago • [bosschallenge.xyz](https://bosschallenge.xyz)
 
 ---
 
@@ -277,7 +273,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 9 • 💬 0 • 23h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 9 • 💬 0 • 1d ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -299,7 +295,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 2 • 💬 0 • 15h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 2 • 💬 0 • 16h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 
@@ -313,7 +309,7 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 242K • 👍 10K • 💬 1K • ⏱️ 20:03 • 10h ago
+👁️ 242K • 👍 10K • 💬 1K • ⏱️ 20:03 • 11h ago
 
 ---
 
@@ -323,7 +319,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 17K • 👍 739 • 💬 198 • ⏱️ 9:22 • 15h ago
+👁️ 17K • 👍 739 • 💬 198 • ⏱️ 9:22 • 16h ago
 
 ---
 
@@ -361,7 +357,7 @@ Vanguard, Bank of America, and Charles Schwab just made massive moves into Bitco
 
 📺 Lark Davis
 
-👁️ 12K • 👍 712 • 💬 54 • ⏱️ 9:27 • 7h ago
+👁️ 12K • 👍 712 • 💬 54 • ⏱️ 9:27 • 8h ago
 
 ---
 
@@ -371,7 +367,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 31K • 👍 1K • 💬 199 • ⏱️ 37:28 • 15h ago
+👁️ 31K • 👍 1K • 💬 199 • ⏱️ 37:28 • 16h ago
 
 ---
 

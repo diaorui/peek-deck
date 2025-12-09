@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T06:56:47.180739+00:00'
+updated: '2025-12-09T07:26:52.017883+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 06:56 UTC  
+**Last Updated:** December 09, 2025 at 07:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
 
-17h ago
+18h ago
 
 ---
 
@@ -58,7 +58,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
-18h ago
+19h ago
 
 ---
 
@@ -66,7 +66,23 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
 Has anyone seen how the mopping pressure is created in a robot vacuum? I would imagine some sort of linear actuator/solenoid/spring suspension but did not see any of that when looking at at online teardowns of a Dreame X50 Ultra that claims to have mop lifting/mop pressure.
 
-4h ago
+5h ago
+
+---
+
+**[How is the ABB drawing interface implemented on the ABB IRB 2600 robot and its IRC5 controller?](https://www.reddit.com/r/robotics/comments/1pi11em/how_is_the_abb_drawing_interface_implemented_on/)**
+
+What is the correct procedure for implementing a drawing interface on an ABB IRB 2600 robot using the IRC5 controller, including software integration, conversion of drawing data to robot paths, and RAPID programming requirements. Curious about ABB IRB 2600 robot and did anyone have experience with this? Thank you in advance!!!!!
+
+21m ago
+
+---
+
+**[UFactory xArm 6 with gripper for sale - UK](https://www.reddit.com/r/robotics/comments/1phhqde/ufactory_xarm_6_with_gripper_for_sale_uk/)**
+
+Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a shelf unused and I'm sure someone out there (UK based) can make much better use of it than I can. This unit is used but in good working condition. It has the gripper attachment included and comes as part of the package. I don't have the original box anymore but I can box it up with protective materials and another suitably strong box if shipping or ideally could be collected or delivered to the new owner. The uFactory x-arm 6 is a 6 axis robot featuring a 5kg payload capacity, 700mm reach. This unit has a gripper attachment included and is compatible with multiple operating systems using the xArm studio software.
+
+14h ago
 
 ---
 
@@ -75,14 +91,6 @@ Has anyone seen how the mopping pressure is created in a robot vacuum? I would i
 According to Reuters, NVIDIA and SoftBank, combined, are looking to invest more than $1 billion into Skild AI.
 
 🔗 [Windows Report](https://windowsreport.com/softbank-nvidia-reportedly-in-talks-to-invest-over-1-billion-into-skild-ai/) • 13h ago
-
----
-
-**[UFactory xArm 6 with gripper for sale - UK](https://www.reddit.com/r/robotics/comments/1phhqde/ufactory_xarm_6_with_gripper_for_sale_uk/)**
-
-Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a shelf unused and I'm sure someone out there (UK based) can make much better use of it than I can. This unit is used but in good working condition. It has the gripper attachment included and comes as part of the package. I don't have the original box anymore but I can box it up with protective materials and another suitably strong box if shipping or ideally could be collected or delivered to the new owner. The uFactory x-arm 6 is a 6 axis robot featuring a 5kg payload capacity, 700mm reach. This unit has a gripper attachment included and is compatible with multiple operating systems using the xArm studio software.
-
-13h ago
 
 ---
 
@@ -98,27 +106,13 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Just sharing a small test clip from a sim environment: simple walking + a few controlled kicks. From my experience, getting this kind of behavior to look even remotely stable depends a lot on two things: the accuracy of the rigid-body collisions how well the contact forces are resolved frame-to-frame If either of those is off, the foot either tunnels through the ball or the ball reacts in weird, non-physical ways. With a more accurate physics setup, the kick actually lands where you expect, and the robot’s gait doesn’t blow up.
 
-17h ago
-
----
-
-**[Robotics project management](https://www.reddit.com/r/robotics/comments/1phnaal/robotics_project_management/)**
-
-Hi all, I recently got into the robotics industry moving in from drones. The team has around 3 PMs for the dev of a robot and 2 manage external customers for the robot. I'm a PM with 4years of experience where I managed multiple projects before and customer relations. Been assigned in my current role in data collection ops (I know the crowd hear is familiar with this, that why Im posting this in the sub). Feel like this role is a downgrade from my previous role. Question to other technical PMs in robotics, is it normal to start off in something like data collection ops and work your way up to something more technical. Any advice on how I can use this opportunity to get more technically involved? Other PMs in robotics, what is your journey?
-
-10h ago
+18h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Speech-to-reality system creates objects on demand using AI and robotics](https://techxplore.com/news/2025-12-speech-reality-demand-ai-robotics.html)**
-
-Tech Xplore • 15h ago
-
----
 
 **[Israeli official says Gaza conflict was ‘first robotics war’](https://breakingdefense.com/2025/12/israeli-official-says-gaza-conflict-was-first-robotics-war/)**
 
@@ -128,19 +122,9 @@ Breaking Defense • 16h ago
 
 ---
 
-**[Tether Invests in Generative Bionics as Part of Funding Round to Advance Intelligent “Made in Italy” Humanoid Robots](https://tether.io/news/tether-invests-in-generative-bionics-as-part-of-funding-round-to-advance-intelligent-made-in-italy-humanoid-robots/)**
+**[Speech-to-reality system creates objects on demand using AI and robotics](https://techxplore.com/news/2025-12-speech-reality-demand-ai-robotics.html)**
 
-8 December 2025 – Tether Investments announced today an investment in Generative Bionics, the largest spinoff in the history of IIT (the Italian Institute of Technology) and one of the largest research spinoffs in Europe, to support the development of a new generation of intelligent humanoid robots built for industrial scale performance, human-centric interaction and […]
-
-Tether.io • 11h ago
-
----
-
-**[China deploys traffic robot to direct vehicles, pedestrians in streets](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-traffic-robot)**
-
-China debuts AI traffic robot Hangxing No. 1, directing vehicles, spotting violations, and issuing polite voice warnings at busy intersections.
-
-Interesting Engineering • 2d ago
+Tech Xplore • 16h ago
 
 ---
 
@@ -148,7 +132,31 @@ Interesting Engineering • 2d ago
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
+
+---
+
+**[Tether Invests in Generative Bionics as Part of Funding Round to Advance Intelligent “Made in Italy” Humanoid Robots](https://tether.io/news/tether-invests-in-generative-bionics-as-part-of-funding-round-to-advance-intelligent-made-in-italy-humanoid-robots/)**
+
+8 December 2025 – Tether Investments announced today an investment in Generative Bionics, the largest spinoff in the history of IIT (the Italian Institute of Technology) and one of the largest research spinoffs in Europe, to support the development of a new generation of intelligent humanoid robots built for industrial scale performance, human-centric interaction and […]
+
+Tether.io • 12h ago
+
+---
+
+**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
+
+Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
+
+Decrypt • 8h ago
+
+---
+
+**[Moorhead robotics team builds head-activated device to help first-grader raise her hand](https://www.valleynewslive.com/2025/12/08/moorhead-robotics-team-builds-head-activated-device-help-first-grader-raise-her-hand/)**
+
+1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
+
+Valley News Live • 8h ago
 
 ---
 
@@ -160,11 +168,11 @@ PYMNTS.com • 9h ago
 
 ---
 
-**[Moorhead robotics team builds head-activated device to help first-grader raise her hand](https://www.valleynewslive.com/2025/12/08/moorhead-robotics-team-builds-head-activated-device-help-first-grader-raise-her-hand/)**
+**[Tesla Optimus falls in Miami demo, hand movements sparks remote operation debate](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo)**
 
-1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
+While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-Valley News Live • 7h ago
+Interesting Engineering • 15h ago
 
 ---
 
@@ -173,14 +181,6 @@ Valley News Live • 7h ago
 Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
 
 CNN • 1d ago
-
----
-
-**[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
-
-Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
-
-South China Morning Post • 2d ago
 
 ---
 
@@ -210,7 +210,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 4K • 👍 135 • 💬 55 • ⏱️ 14:26 • 11h ago
+👁️ 4K • 👍 135 • 💬 55 • ⏱️ 14:26 • 12h ago
 
 ---
 
@@ -270,7 +270,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 4K • 👍 31 • ⏱️ 0:18 • 3h ago
+👁️ 4K • 👍 31 • ⏱️ 0:18 • 4h ago
 
 ---
 
