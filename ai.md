@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T22:39:53.814850+00:00'
+updated: '2025-12-09T22:50:27.003170+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 22:39 UTC  
+**Last Updated:** December 09, 2025 at 22:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 3h ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 4h ago
 
 ---
 
@@ -63,7 +63,7 @@ A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is 
 
 Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as AI shakes up jobs, education, and the global economy.
 
-🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 26m ago
+🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 37m ago
 
 ---
 
@@ -141,7 +141,7 @@ thehill.com • 1h ago
 
 **[Advocate cheers possible federal AI regulation](https://thehill.com/policy/technology/5640357-ai-regulation-child-safety/)**
 
-thehill.com • 27m ago
+thehill.com • 38m ago
 
 ---
 
@@ -189,7 +189,7 @@ Google Cloud Press Corner • 7h ago
 
 The Pentagon is launching a platform powered by Google Gemini called GenAI.mil, giving 3 million military personnel access to advanced AI tools for research and analysis.
 
-Fox Business • 7h ago
+Fox Business • 8h ago
 
 ---
 
@@ -641,7 +641,7 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.6k • 🔱 443 • 14h ago
+⭐ 5.6k • 🔱 443 • 15h ago
 
 ---
 

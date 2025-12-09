@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T22:39:53.823434+00:00'
+updated: '2025-12-09T22:50:27.011829+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 22:39 UTC  
+**Last Updated:** December 09, 2025 at 22:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,687.37
+### $92,973.05
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.1%  
-**7d:** -1.1%  
-**30d:** -12.7%  
-**90d:** -19.6%  
-**1y:** -3.9%  
+**24h:** +2.4%  
+**7d:** -0.8%  
+**30d:** -12.4%  
+**90d:** -19.4%  
+**1y:** -3.7%  
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -99,13 +99,13 @@ Rank #1
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-20h ago
+21h ago
 
 ---
 
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 7h ago
 
 **[GameStop’s bitcoin holdings — and sales — slide](https://www.marketwatch.com/story/gamestops-bitcoin-holdings-and-sales-slide-b9ce88cc?gaa_at=eafs&gaa_n=AWEtsqfQ_f-jyPdxwxoAXT8wcPXP4pCE3Euz4RkFAjRSLwr9w8gBJY11vnxa&gaa_ts=6938a8a3&gaa_sig=f2IBmyV0ShRNg-mrx9-Nz10ab5V9dkxcz6nFtzn39DHXqwk7ws8zY9g7mnrNDT118fvwODB-sNN3XA1FpQ4s8A%3D%3D)**
 
-MarketWatch • 52m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -207,7 +207,7 @@ CNBC • 4h ago
 
 The bank has cut its 2025 Bitcoin price target by half, citing the end of corporate buying and sharply slowing ETF inflows.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -293,7 +293,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 6h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 7h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -315,7 +315,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 9K • 👍 793 • 💬 165 • ⏱️ 7:23 • 4h ago
+👁️ 9K • 👍 793 • 💬 165 • ⏱️ 7:23 • 5h ago
 
 ---
 

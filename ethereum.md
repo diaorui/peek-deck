@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T22:39:53.829526+00:00'
+updated: '2025-12-09T22:50:27.018017+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 22:39 UTC  
+**Last Updated:** December 09, 2025 at 22:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,9 +42,9 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.5%  
+**24h:** +6.6%  
 **7d:** +4.4%  
-**30d:** -6.6%  
+**30d:** -6.5%  
 **90d:** -25.4%  
 **1y:** -8.2%  
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-3m ago
+13m ago
 
 ---
 
@@ -168,7 +168,7 @@ Binance • 1d ago
 
 They're both among the five largest cryptocurrencies, but one is much further ahead in its journey.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
@@ -254,7 +254,7 @@ xrp #bitcoin #hbar #eth https://twitter.com/HobbiesCards XRP and HBAR Ethereum a
 
 📺 CRYPTO with KLAUS
 
-👁️ 3K • 👍 434 • 💬 119 • ⏱️ 12:55 • 3h ago
+👁️ 3K • 👍 434 • 💬 119 • ⏱️ 12:55 • 4h ago
 
 ---
 
@@ -264,7 +264,7 @@ Ethereum has critics calling it “overvalued”… but what if everyone is look
 
 📺 Milk Road
 
-👁️ 408 • 👍 28 • 💬 24 • ⏱️ 35:26 • 2h ago
+👁️ 408 • 👍 28 • 💬 24 • ⏱️ 35:26 • 3h ago
 
 ---
 
@@ -304,7 +304,7 @@ Breaking News: BitMine Immersion Technologies (BMNR) has officially crossed the 
 
 📺 CryptoStock Lab
 
-👁️ 163 • 👍 12 • ⏱️ 7:09 • 3h ago
+👁️ 163 • 👍 12 • ⏱️ 7:09 • 4h ago
 
 ---
 
@@ -314,7 +314,7 @@ Everyone is obsessed with “Bitcoin to 100K” or “Bitcoin is dead.” In thi
 
 📺 Crypto Hustle
 
-👁️ 921 • 👍 60 • 💬 11 • ⏱️ 11:10 • 13h ago
+👁️ 921 • 👍 60 • 💬 11 • ⏱️ 11:10 • 14h ago
 
 ---
 
