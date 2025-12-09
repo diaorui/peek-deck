@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T07:26:52.014497+00:00'
+updated: '2025-12-09T07:43:53.973881+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
-- social
+- news
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 07:26 UTC  
+**Last Updated:** December 09, 2025 at 07:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -2.2%  
-**30d:** -12.4%  
-**90d:** -30.1%  
-**1y:** -14.0%  
+**24h:** -0.6%  
+**7d:** -2.0%  
+**30d:** -12.3%  
+**90d:** -30.0%  
+**1y:** -13.8%  
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Five years ago, an Ethereum standards author was threatened with trademark legal action over the name of a smart contract standard](https://www.reddit.com/r/ethereum/comments/1phe1xy/five_years_ago_an_ethereum_standards_author_was/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 16h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 17h ago
 
 ---
 
@@ -154,7 +154,7 @@ I'm extremely new to crypto, I bought USDT on Binance and that I then transferre
 
 The CFTC has introduced a pilot allowing Bitcoin, Ethereum, and USDC to be used as margin, while updating rules to support tokenized assets.
 
-Decrypt • 8h ago
+Decrypt • 9h ago
 
 ---
 
@@ -170,7 +170,7 @@ The Motley Fool • 21h ago
 
 Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -184,7 +184,7 @@ Fortune • 9h ago
 
 **[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -236,7 +236,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 6K • 👍 302 • 💬 149 • ⏱️ 12:46 • 13h ago
+👁️ 8K • 👍 328 • 💬 161 • ⏱️ 12:46 • 13h ago
 
 ---
 
@@ -246,7 +246,17 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 68 • 💬 46 • ⏱️ 6:25 • 18h ago
+👁️ 2K • 👍 68 • 💬 47 • ⏱️ 6:25 • 18h ago
+
+---
+
+**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2025 New Prediction]](https://www.youtube.com/watch?v=8x2DjiAw3uI)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 8K • 👍 320 • 💬 18 • ⏱️ 15:50 • 16h ago
 
 ---
 
@@ -256,7 +266,7 @@ In today's Milk Road episode, we sit down with CMT Digital's Aryan Sheikhalian t
 
 📺 Milk Road
 
-👁️ 1K • 👍 96 • 💬 81 • ⏱️ 33:06 • 11h ago
+👁️ 2K • 👍 100 • 💬 81 • ⏱️ 33:06 • 11h ago
 
 ---
 
@@ -266,47 +276,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 75K • 👍 3K • 💬 333 • ⏱️ 11:32 • 2d ago
-
----
-
-**[🚨 ETHEREUM BREAKOUT! BlackRock ETF is the Altseason TRIGGER (TIME TO ROTATE!)](https://www.youtube.com/watch?v=-OsmaMB1iU0)**
-
-The momentum behind the BlackRock ETH ETF could be the exact spark that launches the next full-scale altseason. Join Our ...
-
-📺 Discover Crypto
-
-👁️ 7K • 👍 504 • 💬 14 • ⏱️ 49:44 • 15h ago
-
----
-
-**[CRYPTO LIVE TRADING || 09 December || BITCOIN / ETHEREUM #cryptotrading #bitcoin #cryptolive](https://www.youtube.com/watch?v=2PE4wqKOR4w)**
-
-No Paid Services | No Call Tips | Alert from Fraud People's they are asking for money using our name | Crypto Trading Account ...
-
-📺 Balraj Trading Tech
-
-👁️ 2K • 👍 433 • 2h ago
-
----
-
-**[Bitcoin &amp; Ethereum Big Money Knows](https://www.youtube.com/watch?v=BCCezmp_O20)**
-
-BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT BONUS ...
-
-📺 Lark Davis
-
-👁️ 15K • 👍 780 • 💬 78 • ⏱️ 37:57 • 19h ago
-
----
-
-**[ETH Ethereum 4K Price Prediction THIS WEEK?!?!?!](https://www.youtube.com/watch?v=spWLR-2IEok)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 463 • 👍 39 • 💬 42 • ⏱️ 9:20 • 13h ago
+👁️ 76K • 👍 3K • 💬 333 • ⏱️ 11:32 • 2d ago
 
 ---
 
@@ -316,7 +286,17 @@ BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 7K • 👍 456 • 💬 204 • ⏱️ 19:51 • 9h ago
+👁️ 9K • 👍 488 • 💬 264 • ⏱️ 19:51 • 9h ago
+
+---
+
+**[🚨 ETHEREUM BREAKOUT! BlackRock ETF is the Altseason TRIGGER (TIME TO ROTATE!)](https://www.youtube.com/watch?v=-OsmaMB1iU0)**
+
+The momentum behind the BlackRock ETH ETF could be the exact spark that launches the next full-scale altseason. Join Our ...
+
+📺 Discover Crypto
+
+👁️ 8K • 👍 505 • 💬 14 • ⏱️ 49:44 • 15h ago
 
 ---
 
@@ -326,7 +306,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 149 • 💬 5 • ⏱️ 5:35 • 14h ago
+👁️ 2K • 👍 152 • 💬 6 • ⏱️ 5:35 • 14h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=wn48Y6PjqtE)**
+
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
+
+📺 Guitar Repair@StringTech
+
+👁️ 13K • 👍 3K • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Big Money Knows](https://www.youtube.com/watch?v=BCCezmp_O20)**
+
+BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available everywhere) $10000 DEPOSIT BONUS ...
+
+📺 Lark Davis
+
+👁️ 15K • 👍 784 • 💬 79 • ⏱️ 37:57 • 19h ago
 
 ---
 

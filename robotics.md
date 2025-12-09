@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T07:26:52.017883+00:00'
+updated: '2025-12-09T07:43:53.977120+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 07:26 UTC  
+**Last Updated:** December 09, 2025 at 07:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ Has anyone seen how the mopping pressure is created in a robot vacuum? I would i
 
 What is the correct procedure for implementing a drawing interface on an ABB IRB 2600 robot using the IRC5 controller, including software integration, conversion of drawing data to robot paths, and RAPID programming requirements. Curious about ABB IRB 2600 robot and did anyone have experience with this? Thank you in advance!!!!!
 
-21m ago
+38m ago
 
 ---
 
@@ -118,7 +118,7 @@ Just sharing a small test clip from a sim environment: simple walking + a few co
 
 The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
 
-Breaking Defense • 16h ago
+Breaking Defense • 17h ago
 
 ---
 
@@ -196,21 +196,21 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[Motion error during the review of the new humanoid robot. #robotics #ai #humanoid #robot #futuretech](https://www.youtube.com/watch?v=8jPg2-t2UFg)**
-
-📺 AI . Robot
-
-👁️ 48K • 👍 717 • 💬 13 • ⏱️ 0:19 • 18h ago
-
----
-
 **[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
 
 EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
 
 📺 AI Tech Academy
 
-👁️ 4K • 👍 135 • 💬 55 • ⏱️ 14:26 • 12h ago
+👁️ 6K • 👍 162 • 💬 73 • ⏱️ 14:26 • 12h ago
+
+---
+
+**[Motion error during the review of the new humanoid robot. #robotics #ai #humanoid #robot #futuretech](https://www.youtube.com/watch?v=8jPg2-t2UFg)**
+
+📺 AI . Robot
+
+👁️ 53K • 👍 789 • 💬 15 • ⏱️ 0:19 • 18h ago
 
 ---
 
@@ -220,7 +220,7 @@ Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hosting
 
 📺 Fin Tek
 
-👁️ 86K • 👍 3K • 💬 147 • ⏱️ 21:31 • 3d ago
+👁️ 87K • 👍 3K • 💬 147 • ⏱️ 21:31 • 3d ago
 
 ---
 
@@ -230,7 +230,7 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 24K • 👍 229 • 💬 7 • ⏱️ 0:25 • 1d ago
+👁️ 24K • 👍 237 • 💬 7 • ⏱️ 0:25 • 1d ago
 
 ---
 
@@ -240,17 +240,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 171K • 👍 786 • 💬 272 • ⏱️ 1:03 • 2d ago
-
----
-
-**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
-
-Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
-
-📺 Unitree Robotics
-
-👁️ 2.6M • 👍 1K • 💬 331 • ⏱️ 1:06 • 5d ago
+👁️ 175K • 👍 798 • 💬 273 • ⏱️ 1:03 • 2d ago
 
 ---
 
@@ -264,23 +254,13 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 ---
 
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=EBwPX-bMTt0)**
-
-At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
-
-📺 Humanoid Robot 🤖
-
-👁️ 4K • 👍 31 • ⏱️ 0:18 • 4h ago
-
----
-
 **[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
 
 After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
 
 📺 Kalil 4.0
 
-👁️ 11K • 👍 224 • 💬 29 • ⏱️ 0:59 • 2d ago
+👁️ 11K • 👍 229 • 💬 29 • ⏱️ 0:59 • 2d ago
 
 ---
 
@@ -290,7 +270,25 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 162K • 👍 696 • 💬 6 • ⏱️ 0:17 • 1d ago
+👁️ 168K • 👍 709 • 💬 6 • ⏱️ 0:17 • 1d ago
+
+---
+
+**[2025 Advanced Anti-Gravity Hoverboard Showcase. #futuretech #antigravity #hoverboard #robotics](https://www.youtube.com/watch?v=NfrybLAbGqA)**
+
+📺 유하 [ YUHA AI ] 스튜디오 HUMANOID ROBOT
+
+👁️ 45K • 👍 544 • 💬 15 • ⏱️ 0:11 • 2d ago
+
+---
+
+**[This Isn&#39;t Your Typical Humanoid Robot](https://www.youtube.com/watch?v=NjwgtvVPy04)**
+
+Memo is a wheeled home robot from Sunday Robotics, a Mountain View startup founded by Stanford PhDs Tony Zhao and Cheng ...
+
+📺 Game of Tomorrow
+
+👁️ 1.1M • 👍 36K • 💬 2K • ⏱️ 0:55 • 3d ago
 
 ---
 
