@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T12:57:48.253519+00:00'
+updated: '2025-12-09T13:40:53.032163+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - social
 - videos
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 12:57 UTC  
+**Last Updated:** December 09, 2025 at 13:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,343.53
+### $90,704.62
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -3.3%  
-**30d:** -14.6%  
-**90d:** -21.4%  
-**1y:** -6.1%  
+**24h:** -0.4%  
+**7d:** -3.4%  
+**30d:** -14.8%  
+**90d:** -21.6%  
+**1y:** -6.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1809.06B
+**Market Cap:** $1807.13B
 Rank #1
 
 **Circulating Supply:** 19,959,750 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.1%
+-28.2%
 
 **All-Time Low:** $67.81
-+133569.1%
++133327.2%
 
 ---
 
@@ -97,27 +97,29 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
+**[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
+
+42m ago
+
+---
+
 **[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Reality check](https://www.reddit.com/r/Bitcoin/comments/1pi0xfg/reality_check/)**
 
-5h ago
+6h ago
 
 ---
 
-**[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
+**[Most people holding more than 2 bitcoin here are chill](https://www.reddit.com/r/Bitcoin/comments/1pi3orj/most_people_holding_more_than_2_bitcoin_here_are/)**
 
-18h ago
+And most who keep panicking, and those crazy shenanigans fud are mostly from noobs or either those who invest rent money, or worst haven't studied Bitcoin.
 
----
-
-**[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
-
-15h ago
+3h ago
 
 ---
 
@@ -127,19 +129,15 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
-**[Most people holding more than 2 bitcoin here are chill](https://www.reddit.com/r/Bitcoin/comments/1pi3orj/most_people_holding_more_than_2_bitcoin_here_are/)**
+**[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
 
-And most who keep panicking, and those crazy shenanigans fud are mostly from noobs or either those who invest rent money, or worst haven't studied Bitcoin.
-
-2h ago
+19h ago
 
 ---
 
-**[Apparently Lamborghini is shilling Bitcoin now](https://www.reddit.com/r/Bitcoin/comments/1phjz9z/apparently_lamborghini_is_shilling_bitcoin_now/)**
+**[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
 
-They have a promotion going on with Ledger
-
-18h ago
+16h ago
 
 ---
 
@@ -147,35 +145,21 @@ They have a promotion going on with Ledger
 
 ## Google News: "bitcoin"
 
-**[Bitcoin's 2025 rollercoaster may end on a low](https://finance.yahoo.com/news/bitcoins-2025-rollercoaster-may-end-050859649.html)**
+**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
 
-With a series of record highs and crushing sell-offs, 2025 has been a rollercoaster ride for bitcoin, the world's largest cryptocurrency, which is at risk of ending the year with its first annual decline since 2022.  The world's main stock benchmarks have also had a turbulent year, repeatedly hitting record peaks and then pulling ​back as worries over tariffs, interest rates and a possible AI bubble whipsawed markets.  While equities are mostly up year-to-date, bitcoin's overall correlation with share prices has strengthened markedly this year.
-
-Yahoo Finance • 7h ago
+Reuters • 8h ago
 
 ---
 
-**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
+**[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance)**
 
-BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
-
-Bloomberg.com • 17h ago
+The Block • 1h ago
 
 ---
 
-**[A Bitcoin ETF Doubled in Value. Its Investors Made Only One-Fourth of That](https://www.morningstar.com/funds/bitcoin-etf-doubled-value-its-investors-made-only-one-fourth-that)**
+**[Bitcoin Price Rebounds Slightly Ahead of the Fed. How It Could Reach $120K—or Fall to $82K.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-2085d4a2?gaa_at=eafs&gaa_n=AWEtsqdCQ_YMtvjNHfzqhHQY6lU_f8ukZyNkIAxUZGe_-jsoCdYMDf7C7moC&gaa_ts=69382a48&gaa_sig=OqRbY-SST2TzB7o4H7s93sz1COgqeMRkX5ngqYIqF94z-M33BnKrDai6mYUUMJ_NjS8-AoujPc2-VbXeVvhqmw%3D%3D)**
 
-iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
-
-Morningstar • 1d ago
-
----
-
-**[Bitcoin Slips Toward ETF Break-Even Level as Inflows Slow, but Support May Be Building](https://decrypt.co/351573/bitcoin-etf-break-even-level-inflows-slow-support-building)**
-
-Bitcoin is drifting back toward the price where ETF buyers break even, as inflows slow and investors look to the Fed’s decision this week.
-
-Decrypt • 7h ago
+Barron's • 23h ago
 
 ---
 
@@ -183,7 +167,45 @@ Decrypt • 7h ago
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-WIRED • 2h ago
+WIRED • 3h ago
+
+---
+
+**[Nvidia CEO Jensen Huang Just Flipped the Bitcoin Energy Consumption Debate — And It Changes Everything](https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-just-131048842.html)**
+
+Nvidia CEO Jensen Huang says Bitcoin converts excess energy into a portable form of money. His comments challenge years of criticism over Bitcoin’s electricity use. ...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
+
+Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
+
+Futurism • 2d ago
+
+---
+
+**[PNC Launches Bitcoin Trading With Coinbase for Wealthy Clients](https://www.bloomberg.com/news/articles/2025-12-09/pnc-launches-bitcoin-trading-with-coinbase-for-wealthy-clients)**
+
+PNC Financial Services Group Inc.’s high-net-worth customers can now trade Bitcoin directly through their investment accounts, fulfilling an initial goal of the Pittsburgh-based lender’s partnership with Coinbase Global Inc. announced in July.
+
+Bloomberg.com • 55m ago
+
+---
+
+**[Bitcoin Won’t Hit $200,000 in 2025, Crypto Bull Concedes. Where It’s Going Instead.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-price-crypto-bull-01f83bf7?gaa_at=eafs&gaa_n=AWEtsqf_Fn2JL9ia9scINDc-TDiGXQYIi2eDFIrxruW5yjAssS1XdHh6xlP2&gaa_ts=69382a48&gaa_sig=9CWWktaPWsjpBN80W1_fCc2e1DhFNhhvd9Jfc-ctUG5gDIrJOyiSorUCL6lAy88EJdFY4bvxsKazlxppPwFvzA%3D%3D)**
+
+Barron's • 2h ago
+
+---
+
+**[BTC, XRP, ETH, SOL Price Forecast: Bitcoin in Counter-Trend Channel](https://www.coindesk.com/markets/2025/12/08/here-s-how-bitcoin-xrp-ether-and-solana-may-trade-today)**
+
+ETH mirrors BTC's counter-trend consolidation as XRP probes key $2 support and SOL remains directionless
+
+CoinDesk • 1d ago
 
 ---
 
@@ -192,36 +214,6 @@ WIRED • 2h ago
 Which of these popular cryptocurrencies has more upside potential?
 
 The Motley Fool • 1d ago
-
----
-
-**[IRS Rule Changes In 2026 Bitcoin, Ethereum, XRP Traders Need To Know About](https://finance.yahoo.com/news/irs-rule-changes-2026-bitcoin-033050163.html)**
-
-U.S. crypto investors now have just over two weeks to execute any final sales before sweeping IRS reporting rules go live on January 1, 2026. What Happened: Beginning in 2026, centralized exchanges will be required to follow the same cost-basis ...
-
-Yahoo Finance • 9h ago
-
----
-
-**[Bitcoin Won’t Hit $200,000 in 2025, Crypto Bull Concedes. Where It’s Going Instead.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-price-crypto-bull-01f83bf7?gaa_at=eafs&gaa_n=AWEtsqefI_3I9nqXr9m1_nmVDcEtGqpuVkegNGJu4B0HULpx5HSq--Ow1Qyv&gaa_ts=69382037&gaa_sig=pMsgal8BNY-3G_7zp1CiIy3iNUM_SoBHvh2RPvo3YuL0_UPk_2KDGvX1IG47nVEEBS1y7qc1d_9YGQ9opzr4sg%3D%3D)**
-
-Barron's • 1h ago
-
----
-
-**[Bitcoin Price Prediction: Recovery to $100,000 Could Be Tainted by These Holders](https://finance.yahoo.com/news/bitcoin-price-prediction-recovery-100-100657135.html)**
-
-Bitcoin nears $90,400 as FOMC’s expected 25 bps cut could spark a recovery, but STH dominance may challenge a Bitcoin rally toward $100,000.
-
-Yahoo Finance • 2h ago
-
----
-
-**[‘More Orange Dots’: Michael Saylor’s Strategy Buys 10,624 Bitcoin Amid Sell-Off Concerns](https://finance.yahoo.com/news/more-orange-dots-michael-saylor-130749098.html)**
-
-Michael Saylor’s Strategy, previously MicroStrategy, has made another weekly Bitcoin purchase despite concerns that it may need to sell some of its BTC holdings in a prolonged bear market. This latest purchase comes amid a rebound in the Bitcoin price, while the MSTR stock is also up in pre-market trading. Strategy Acquires 10,624 BTC for
-
-Yahoo Finance • 23h ago
 
 ---
 
@@ -241,7 +233,7 @@ Yahoo Finance • 23h ago
 
 Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin will cure everything
 
-⬆️ 5 • 💬 0 • 4d ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
+⬆️ 5 • 💬 0 • 5d ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
 
 ---
 
@@ -299,7 +291,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 2 • 💬 0 • 21h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 2 • 💬 0 • 22h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 
@@ -313,7 +305,7 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 350K • 👍 13K • 💬 1K • ⏱️ 20:03 • 16h ago
+👁️ 350K • 👍 13K • 💬 1K • ⏱️ 20:03 • 17h ago
 
 ---
 
@@ -333,7 +325,7 @@ In this clip, I talk about what is happening for bitcoin and crypto this week an
 
 📺 CryptosRus Extra
 
-👁️ 11K • 👍 527 • 💬 245 • ⏱️ 9:01 • 12h ago
+👁️ 11K • 👍 527 • 💬 245 • ⏱️ 9:01 • 13h ago
 
 ---
 
@@ -343,7 +335,7 @@ Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. 
 
 📺 Simply Bitcoin
 
-👁️ 40K • 👍 3K • 💬 412 • ⏱️ 16:35 • 14h ago
+👁️ 40K • 👍 3K • 💬 412 • ⏱️ 16:35 • 15h ago
 
 ---
 
@@ -373,7 +365,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 33K • 👍 1K • 💬 276 • ⏱️ 37:28 • 21h ago
+👁️ 33K • 👍 1K • 💬 276 • ⏱️ 37:28 • 22h ago
 
 ---
 
@@ -381,7 +373,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 Matt & Justus
 
-👁️ 793K • 👍 55K • 💬 194 • ⏱️ 1:00 • 18h ago
+👁️ 793K • 👍 55K • 💬 194 • ⏱️ 1:00 • 19h ago
 
 ---
 
@@ -391,7 +383,7 @@ Wednesday, when the Federal Open Market Committee (FOMC) of the U.S. Federal Res
 
 📺 Paul Barron Network
 
-👁️ 40K • 👍 2K • 💬 104 • ⏱️ 19:16 • 16h ago
+👁️ 40K • 👍 2K • 💬 104 • ⏱️ 19:16 • 17h ago
 
 ---
 

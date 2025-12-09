@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T12:57:48.259882+00:00'
+updated: '2025-12-09T13:40:53.037532+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - social
 - videos
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 12:57 UTC  
+**Last Updated:** December 09, 2025 at 13:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -1.6%  
-**30d:** -11.9%  
-**90d:** -29.7%  
-**1y:** -13.4%  
+**24h:** -0.6%  
+**7d:** -2.1%  
+**30d:** -12.4%  
+**90d:** -30.1%  
+**1y:** -13.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $378.78B
+**Market Cap:** $377.50B
 Rank #2
 
 **Circulating Supply:** 120,695,272 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.5%
+-36.9%
 
 **All-Time Low:** $0.43
-+724879.7%
++720909.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
@@ -84,6 +84,14 @@ JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138
 
 ---
 
+**[Learnings From Post-Fusaka Ethereum](https://www.reddit.com/r/ethereum/comments/1pi43mc/learnings_from_postfusaka_ethereum/)**
+
+A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
+
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 3h ago
+
+---
+
 **[Daily General Discussion December 08, 2025](https://www.reddit.com/r/ethereum/comments/1ph4xqo/daily_general_discussion_december_08_2025/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
@@ -92,17 +100,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Learnings From Post-Fusaka Ethereum](https://www.reddit.com/r/ethereum/comments/1pi43mc/learnings_from_postfusaka_ethereum/)**
-
-A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
-
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 2h ago
-
----
-
 **[Five years ago, an Ethereum standards author was threatened with trademark legal action over the name of a smart contract standard](https://www.reddit.com/r/ethereum/comments/1phe1xy/five_years_ago_an_ethereum_standards_author_was/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 22h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 23h ago
 
 ---
 
@@ -110,7 +110,7 @@ A detailed look at the incidents, recovery, and the network’s state after Ethe
 
 By magnitude, the biggest question for the Defi ecosystem for the next cycle is who gets to keep the yield on treasuries backing reserve stablecoins such as USDC and USDT? If secretary Bennett and the federal reserve are correct in their forecasts, we'll be at something like $3T in stablecoin market cap by 2030. At
 
-🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 17h ago
+🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 18h ago
 
 ---
 
@@ -154,23 +154,21 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The CFTC has introduced a pilot allowing Bitcoin, Ethereum, and USDC to be used as margin, while updating rules to support tokenized assets.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
-**[Prediction: If This 1 Policy Changes, Bitcoin and Ethereum Will Soar](https://www.fool.com/investing/2025/12/08/prediction-if-this-1-policy-changes-bitcoin-and-et/)**
+**[ZKsync to deprecate ZKsync Lite in 2026, sunsetting Ethereum's first ZK rollup](https://www.theblock.co/post/381632/zksync-to-deprecate-zksync-lite-in-2026-sunsetting-ethereums-first-zk-rollup)**
 
-Japan is considering a big change to how it taxes crypto.
+The Block • 1d ago
+
+---
+
+**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/07/3-reasons-to-buy-ethereum-before-january-2026/)**
+
+Ethereum could be once again on the path to the $5,000 price level. Here's why.
 
 The Motley Fool • 1d ago
-
----
-
-**[Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds](https://finance.yahoo.com/news/tom-lee-bitmine-buys-429-162833185.html)**
-
-Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
-
-Yahoo Finance • 20h ago
 
 ---
 
@@ -178,19 +176,27 @@ Yahoo Finance • 20h ago
 
 The trading platform dives further into digital assets both domestically and globally.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
-**[Vitalik Buterin pushes for trustless gas futures market to hedge Ethereum fees, sparking debate over feasibility](https://www.theblock.co/post/381677/vitalik-buterin-pushes-for-trustless-gas-futures-market-to-hedge-ethereum-fees-sparking-debate)**
+**[Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds](https://finance.yahoo.com/news/tom-lee-bitmine-buys-429-162833185.html)**
 
-The Block • 1d ago
+Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
+
+Yahoo Finance • 21h ago
+
+---
+
+**[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
+
+Binance • 21h ago
 
 ---
 
 **[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -198,7 +204,7 @@ The Block • 22h ago
 
 Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -207,12 +213,6 @@ Decrypt • 18h ago
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
 
 CoinDesk • 23h ago
-
----
-
-**[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
-
-Binance • 20h ago
 
 ---
 
@@ -234,7 +234,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 10K • 👍 354 • 💬 180 • ⏱️ 12:46 • 18h ago
+👁️ 10K • 👍 354 • 💬 180 • ⏱️ 12:46 • 19h ago
 
 ---
 
@@ -244,7 +244,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 337 • 💬 20 • ⏱️ 15:50 • 21h ago
+👁️ 9K • 👍 337 • 💬 20 • ⏱️ 15:50 • 22h ago
 
 ---
 
@@ -284,7 +284,7 @@ BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 10K • 👍 520 • 💬 273 • ⏱️ 19:51 • 14h ago
+👁️ 10K • 👍 520 • 💬 273 • ⏱️ 19:51 • 15h ago
 
 ---
 
@@ -294,7 +294,7 @@ The momentum behind the BlackRock ETH ETF could be the exact spark that launches
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 517 • 💬 14 • ⏱️ 49:44 • 20h ago
+👁️ 8K • 👍 517 • 💬 14 • ⏱️ 49:44 • 21h ago
 
 ---
 
@@ -324,7 +324,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 154 • 💬 7 • ⏱️ 5:35 • 19h ago
+👁️ 2K • 👍 154 • 💬 7 • ⏱️ 5:35 • 20h ago
 
 ---
 

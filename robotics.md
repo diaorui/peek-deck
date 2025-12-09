@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T12:57:48.263158+00:00'
+updated: '2025-12-09T13:40:53.040454+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 12:57 UTC  
+**Last Updated:** December 09, 2025 at 13:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,9 +46,11 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 ---
 
-**[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
+**[Real-Robot Experiment with Pedestrians - A team at TU Delft has introduced DRA-MPPI, a new motion-planning method that lets robots move safely through dense pedestrian traffic without freezing or taking overly conservative paths](https://www.reddit.com/r/robotics/comments/1pi6p63/realrobot_experiment_with_pedestrians_a_team_at/)**
 
-1d ago
+Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
+
+45m ago
 
 ---
 
@@ -56,7 +58,13 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 "May the sensors be with you "
 
-9m ago
+52m ago
+
+---
+
+**[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
+
+1d ago
 
 ---
 
@@ -64,13 +72,11 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
 
-23h ago
+1d ago
 
 ---
 
-**[Real-Robot Experiment with Pedestrians - A team at TU Delft has introduced DRA-MPPI, a new motion-planning method that lets robots move safely through dense pedestrian traffic without freezing or taking overly conservative paths](https://www.reddit.com/r/robotics/comments/1pi6p63/realrobot_experiment_with_pedestrians_a_team_at/)**
-
-Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
+**[Which desktop robot would you choose?](https://www.reddit.com/r/robotics/comments/1pi7mj1/which_desktop_robot_would_you_choose/)**
 
 2m ago
 
@@ -88,7 +94,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
 Has anyone seen how the mopping pressure is created in a robot vacuum? I would imagine some sort of linear actuator/solenoid/spring suspension but did not see any of that when looking at at online teardowns of a Dreame X50 Ultra that claims to have mop lifting/mop pressure.
 
-10h ago
+11h ago
 
 ---
 
@@ -96,15 +102,7 @@ Has anyone seen how the mopping pressure is created in a robot vacuum? I would i
 
 What is the correct procedure for implementing a drawing interface on an ABB IRB 2600 robot using the IRC5 controller, including software integration, conversion of drawing data to robot paths, and RAPID programming requirements. Curious about ABB IRB 2600 robot and did anyone have experience with this? Thank you in advance!!!!!
 
-5h ago
-
----
-
-**[UFactory xArm 6 with gripper for sale - UK](https://www.reddit.com/r/robotics/comments/1phhqde/ufactory_xarm_6_with_gripper_for_sale_uk/)**
-
-Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a shelf unused and I'm sure someone out there (UK based) can make much better use of it than I can. This unit is used but in good working condition. It has the gripper attachment included and comes as part of the package. I don't have the original box anymore but I can box it up with protective materials and another suitably strong box if shipping or ideally could be collected or delivered to the new owner. The uFactory x-arm 6 is a 6 axis robot featuring a 5kg payload capacity, 700mm reach. This unit has a gripper attachment included and is compatible with multiple operating systems using the xArm studio software.
-
-19h ago
+6h ago
 
 ---
 
@@ -114,7 +112,7 @@ Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a sh
 
 **[Speech-to-reality system creates objects on demand using AI and robotics](https://techxplore.com/news/2025-12-speech-reality-demand-ai-robotics.html)**
 
-Tech Xplore • 21h ago
+Tech Xplore • 22h ago
 
 ---
 
@@ -130,15 +128,7 @@ Breaking Defense • 22h ago
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
-Bloomberg.com • 22h ago
-
----
-
-**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
-
-Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
-
-Decrypt • 13h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -146,7 +136,15 @@ Decrypt • 13h ago
 
 The Chinese robotics firm EngineAI lets its humanoid robot loose on its CEO, whom it promptly proceeds to lay out.
 
-Futurism • 15h ago
+Futurism • 16h ago
+
+---
+
+**[Tesla Optimus falls in Miami demo, hand movements sparks remote operation debate](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo)**
+
+While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
+
+Interesting Engineering • 21h ago
 
 ---
 
@@ -162,15 +160,7 @@ PYMNTS.com • 15h ago
 
 1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
 
-Valley News Live • 13h ago
-
----
-
-**[Tesla Optimus falls in Miami demo, hand movements sparks remote operation debate](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo)**
-
-While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
-
-Interesting Engineering • 20h ago
+Valley News Live • 14h ago
 
 ---
 
@@ -186,7 +176,15 @@ Yahoo Finance • 2d ago
 
 npj Robotics - Biohybrid living robotics: A comprehensive review of recent advances, technological innovation, and future prospects
 
-Nature • 2h ago
+Nature • 3h ago
+
+---
+
+**[When Will Robots Take Over Laundry Folding?](https://www.smithsonianmag.com/innovation/when-will-robots-take-over-laundry-folding-180987801/)**
+
+For this chore, the human touch still beats machines. But maybe not for long
+
+Smithsonian Magazine • 1d ago
 
 ---
 
@@ -200,7 +198,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 10K • 👍 243 • 💬 125 • ⏱️ 14:26 • 17h ago
+👁️ 10K • 👍 243 • 💬 125 • ⏱️ 14:26 • 18h ago
 
 ---
 
@@ -210,7 +208,7 @@ The founder and CEO of EngineAI just took a robot kick to the chest in an attemp
 
 📺 Kalil 4.0
 
-👁️ 897 • 👍 29 • 💬 22 • ⏱️ 8:31 • 12h ago
+👁️ 897 • 👍 29 • 💬 22 • ⏱️ 8:31 • 13h ago
 
 ---
 
@@ -228,7 +226,7 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 6K • 👍 95 • 💬 24 • ⏱️ 0:47 • 5h ago
+👁️ 6K • 👍 95 • 💬 24 • ⏱️ 0:47 • 6h ago
 
 ---
 
@@ -248,7 +246,7 @@ In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comfor
 
 📺 AI Robot Lab
 
-👁️ 429 • 👍 1 • ⏱️ 0:24 • 1h ago
+👁️ 429 • 👍 1 • ⏱️ 0:24 • 2h ago
 
 ---
 
