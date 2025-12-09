@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T19:57:51.433964+00:00'
+updated: '2025-12-09T20:28:32.697297+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 19:57 UTC  
+**Last Updated:** December 09, 2025 at 20:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -62,14 +62,6 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 ---
 
-**[MIT engineers give biohybrid robots a power upgrade with synthetic tendons](https://www.reddit.com/r/robotics/comments/1pie99u/mit_engineers_give_biohybrid_robots_a_power/)**
-
-Engineers build artificial tendons that let muscle-powered robots move faster and pull harder, marking a major step for biohybrid machines.
-
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 2h ago
-
----
-
 **[Vision language navigation](https://www.reddit.com/r/robotics/comments/1piaihx/vision_language_navigation/)**
 
 Teaching Robots to Understand Natural Language Built an autonomous navigation system where you can command a robot in plain English - "go to the person" or "find the chair" - and it handles the rest. What I Learned: Distributed ROS2: Ran LLM inference on NVIDIA Jetson Orin Nano while handling vision/navigation on my main system. Multi-machine communication over ROS2 topics was seamless. Edge Al Reality: TinyLlama on Jetson's CPU takes 2-10s per command, but the 8GB unified memory and no GPU dependency makes it perfect for robotics. Real edge computing without much latency. Vision + Planning: YOLOv8 detects object classes, monocular depth estimation calculates distance, Nav2 plans the path. When the target disappears, the robot autonomously searches with 360° rotation patterns. On Jetson Orin Nano Super: Honestly impressed. It's the perfect middle ground - more capable than Raspberry Pi, more accessible than industrial modules. Running Ollama while maintaining real-time ROS2 communication proved its robotics potential. Stack: ROS2 | YOLOv8 | Ollama/TinyLlama | Nav2 | Gazebo Video shows the full pipeline - natural language → LLM parsing → detection → autonomous navigation.
@@ -78,9 +70,25 @@ Teaching Robots to Understand Natural Language Built an autonomous navigation sy
 
 ---
 
+**[MIT engineers give biohybrid robots a power upgrade with synthetic tendons](https://www.reddit.com/r/robotics/comments/1pie99u/mit_engineers_give_biohybrid_robots_a_power/)**
+
+Engineers build artificial tendons that let muscle-powered robots move faster and pull harder, marking a major step for biohybrid machines.
+
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 2h ago
+
+---
+
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
 1d ago
+
+---
+
+**[Robot orders rise in Q3 2025 as automation demand strengthens in recent report](https://www.reddit.com/r/robotics/comments/1pihi93/robot_orders_rise_in_q3_2025_as_automation_demand/)**
+
+North American robot orders picked up again in Q3 2025, pointing to renewed momentum in manufacturing automation after a slower period. According to the latest market data, companies in North America ordered 8,806 robots in the third quarter, worth about $574 million. That works out to an 11.6 percent increase in units and a 17.2 percent increase in revenue compared to the same quarter last year. The most notable gains came from food and consumer goods, where robot orders were up more than 100 percent year over year, and from automotive OEMs, which saw orders rise sharply as well. Metals and general manufacturing also posted growth, while automotive components and plastics and rubber recorded declines, suggesting a more selective investment cycle in those segments.
+
+29m ago
 
 ---
 
@@ -94,15 +102,7 @@ Teaching Robots to Understand Natural Language Built an autonomous navigation sy
 
 **[Inverted Double Pendulum in Isaac Lab](https://www.reddit.com/r/robotics/comments/1pi8anb/inverted_double_pendulum_in_isaac_lab/)**
 
-5h ago
-
----
-
-**[AgiBot co-founder Peng Zhihui announced today that their 5,000th general-purpose embodied robot has officially rolled off the line](https://www.reddit.com/r/robotics/comments/1phaq40/agibot_cofounder_peng_zhihui_announced_today_that/)**
-
-From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
-
-1d ago
+6h ago
 
 ---
 
@@ -124,14 +124,6 @@ Breaking Defense • 1d ago
 
 ---
 
-**[State OKs $10M grant for new tech company's headquarters in Detroit](https://www.detroitnews.com/story/business/2025/12/09/state-oks-10m-grant-for-new-tech-companys-headquarters-in-detroit/87686590007/)**
-
-A robotics business also plans to take over a shuttered Wixom factory with help from the state.
-
-The Detroit News • 36m ago
-
----
-
 **[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
@@ -140,19 +132,35 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Tesla Optimus falls in Miami demo, hand movements sparks remote operation debate](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo)**
-
-While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
-
-Interesting Engineering • 1d ago
-
----
-
 **[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
 
 Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
+
+---
+
+**[Video Shows Robot Attacking CEO](https://futurism.com/robots-and-machines/robot-attacks-ceo)**
+
+The Chinese robotics firm EngineAI lets its humanoid robot loose on its CEO, whom it promptly proceeds to lay out.
+
+Futurism • 22h ago
+
+---
+
+**[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai)**
+
+SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
+
+PYMNTS.com • 22h ago
+
+---
+
+**[Moorhead robotics team builds head-activated device to help first-grader raise her hand](https://www.valleynewslive.com/2025/12/08/moorhead-robotics-team-builds-head-activated-device-help-first-grader-raise-her-hand/)**
+
+1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
+
+Valley News Live • 21h ago
 
 ---
 
@@ -164,27 +172,17 @@ MLive.com • 3h ago
 
 ---
 
-**[Moorhead robotics team builds head-activated device to help first-grader raise her hand](https://www.valleynewslive.com/2025/12/08/moorhead-robotics-team-builds-head-activated-device-help-first-grader-raise-her-hand/)**
-
-1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
-
-Valley News Live • 20h ago
-
----
-
-**[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai/)**
-
-SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
-
-PYMNTS.com • 22h ago
-
----
-
 **[Serve Robotics Extends Autonomous Delivery to Fort Lauderdale](https://finance.yahoo.com/news/serve-robotics-extends-autonomous-delivery-153500451.html)**
 
 SERV expands its autonomous delivery network to Fort Lauderdale, deepening its South Florida presence through Uber Eats.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://www.marketbeat.com/stock-ideas/5-robotics-stocks-catching-momentum-after-new-policy-tailwinds/)**
+
+MarketBeat • 8h ago
 
 ---
 
@@ -274,7 +272,7 @@ In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comfor
 
 📺 AI Robot Lab
 
-👁️ 5K • 👍 56 • 💬 2 • ⏱️ 0:24 • 8h ago
+👁️ 5K • 👍 56 • 💬 2 • ⏱️ 0:24 • 9h ago
 
 ---
 
@@ -284,7 +282,7 @@ At the Silicon Valley Robotics Expo 2025, engineers demonstrate a futuristic AI 
 
 📺 AI Robot Lab
 
-👁️ 7K • 👍 57 • ⏱️ 0:24 • 4h ago
+👁️ 7K • 👍 57 • ⏱️ 0:24 • 5h ago
 
 ---
 

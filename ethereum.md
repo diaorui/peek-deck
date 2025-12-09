@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T19:57:51.430742+00:00'
+updated: '2025-12-09T20:28:32.694067+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 19:57 UTC  
+**Last Updated:** December 09, 2025 at 20:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,376.80
+### $3,353.31
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +7.1%  
-**7d:** +5.3%  
-**30d:** -5.7%  
-**90d:** -24.7%  
-**1y:** -7.3%  
+**24h:** +5.4%  
+**7d:** +3.9%  
+**30d:** -6.9%  
+**90d:** -25.8%  
+**1y:** -8.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $406.20B
+**Market Cap:** $401.62B
 Rank #2
 
 **Circulating Supply:** 120,695,272 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.0%
+-33.0%
 
 **All-Time Low:** $0.43
-+776893.8%
++765724.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot walle
 
 A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 9h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 10h ago
 
 ---
 
@@ -154,15 +154,15 @@ I copied and pasted for ease of access. Maybe Vitalik can make an update to rais
 
 Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
-Decrypt • 2h ago
+Decrypt • 3h ago
 
 ---
 
-**[Better Buy: XRP vs. Ethereum](https://finance.yahoo.com/news/better-buy-xrp-vs-ethereum-160500223.html)**
+**[Better Buy: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-buy-xrp-vs-ethereum)**
 
-They're both among the five largest cryptocurrencies, but one is much further ahead in its journey.
+Key PointsEthereum has built a strong user base and frequently generates over $10 million in daily app fees.
 
-Yahoo Finance • 3h ago
+Nasdaq • 4h ago
 
 ---
 
@@ -192,7 +192,7 @@ Yahoo Finance • 2h ago
 
 The trading platform dives further into digital assets both domestically and globally.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
@@ -208,19 +208,19 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
-
-Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
-
-Decrypt • 1d ago
-
----
-
 **[Ether (ETH) ETF News: Staked Ether ETF (ETHB) Coming From BlackRock](https://www.coindesk.com/markets/2025/12/08/blackrock-files-for-staked-ethereum-etf-aiming-to-bring-yield-to-the-masses)**
 
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
 
 CoinDesk • 1d ago
+
+---
+
+**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
+
+Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
+
+Decrypt • 1d ago
 
 ---
 
@@ -274,7 +274,7 @@ TIPP: Sichere Dir den „TraderMacher Report“ → http://www.tradermacher.de �
 
 📺 Tradermacher
 
-👁️ 1K • 👍 209 • 💬 21 • ⏱️ 9:57 • 2h ago
+👁️ 1K • 👍 209 • 💬 21 • ⏱️ 9:57 • 3h ago
 
 ---
 
@@ -284,7 +284,7 @@ BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 12K • 👍 560 • 💬 320 • ⏱️ 19:51 • 21h ago
+👁️ 12K • 👍 560 • 💬 320 • ⏱️ 19:51 • 22h ago
 
 ---
 
@@ -294,7 +294,7 @@ Follow us on Twitter: https://x.com/BoDoggosENT Buy our NFT: https://www.tensor.
 
 📺 The Daily Bone Podcast
 
-👁️ 450 • 👍 22 • 💬 38 • ⏱️ 50:31 • 4h ago
+👁️ 450 • 👍 22 • 💬 38 • ⏱️ 50:31 • 5h ago
 
 ---
 
@@ -324,7 +324,7 @@ On today's episode of CNBC Crypto World, bitcoin continues to trade below $90000
 
 📺 CNBC Television
 
-👁️ 24K • 👍 369 • 💬 385 • ⏱️ 13:30 • 23h ago
+👁️ 24K • 👍 369 • 💬 385 • ⏱️ 13:30 • 1d ago
 
 ---
 
