@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T02:29:04.145922+00:00'
+updated: '2025-12-09T03:40:57.901524+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - social
-- videos
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 02:29 UTC  
+**Last Updated:** December 09, 2025 at 03:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,221.21
+### $89,952.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** -3.7%  
-**30d:** -15.0%  
-**90d:** -21.7%  
-**1y:** -6.5%  
+**24h:** -1.3%  
+**7d:** -4.1%  
+**30d:** -15.3%  
+**90d:** -22.1%  
+**1y:** -6.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1800.94B
+**Market Cap:** $1801.27B
 Rank #1
 
 **Circulating Supply:** 19,959,543 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.4%
 
 **All-Time Low:** $67.81
-+132943.8%
++133067.7%
 
 ---
 
@@ -77,21 +77,41 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[school employee got caught secretly mining bitcoin in a crawl space under a Massachusetts high school, using the school’s electricity. Police found coolers filled with computers and estimate they used about $17,500 in power before it was unplugged.](https://www.reddit.com/r/Bitcoin/comments/1phv387/school_employee_got_caught_secretly_mining/)**
+
+https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
+
+1h ago
+
+---
+
 **[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Apparently Lamborghini is shilling Bitcoin now](https://www.reddit.com/r/Bitcoin/comments/1phjz9z/apparently_lamborghini_is_shilling_bitcoin_now/)**
 
 They have a promotion going on with Ledger
+
+9h ago
+
+---
+
+**[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
+
+6h ago
+
+---
+
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
 
 8h ago
 
@@ -101,33 +121,13 @@ They have a promotion going on with Ledger
 
 Back in 2011–2013, physical bitcoins were actually a thing. They were known as Casascius Coins — metal tokens with a hologram on the back hiding a private key printed on paper. Peel the hologram, and the BTC could be moved to a regular blockchain address. What makes this story even wilder is how many people never touched them for years. Some holders treated these coins like collectibles, others forgot about them entirely. Only recently, more and more of these physical bitcoins have been getting redeemed after sitting untouched for a decade or more. From novelty item to time capsule holding real money, Casascius coins remain one of the strangest and most iconic relics of early Bitcoin history.
 
-10h ago
-
----
-
-**[school employee got caught secretly mining bitcoin in a crawl space under a Massachusetts high school, using the school’s electricity. Police found coolers filled with computers and estimate they used about $17,500 in power before it was unplugged.](https://www.reddit.com/r/Bitcoin/comments/1phv387/school_employee_got_caught_secretly_mining/)**
-
-https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
-
-38m ago
-
----
-
-**[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
-
-5h ago
-
----
-
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
-
-6h ago
+12h ago
 
 ---
 
 **[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -135,13 +135,13 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 This article explains what changed today when the CFTC approved Bitcoin as eligible collateral inside regulated U.S. derivatives markets. That decision won’t move price today, but it alters how institutions are allowed to hold and use Bitcoin. When an asset becomes collateral-grade, sell-offs stop being exits and become portfolio rotations. If the coming weeks look uneventful, it’s only because structural shifts appear long before capital moves...this piece is written so that you see what actually began.
 
-🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/bitcoin-and-the-commodity-futures) • 3h ago
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/bitcoin-and-the-commodity-futures) • 4h ago
 
 ---
 
 **[Your Daily Bitcoin Breakdown newsletter is now live. Check out today’s Top Stories and a sneak peek at the latest Quick Bits snippets. Full issue link is in the comments.](https://www.reddit.com/r/Bitcoin/comments/1phmm7d/your_daily_bitcoin_breakdown_newsletter_is_now/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -149,33 +149,11 @@ This article explains what changed today when the CFTC approved Bitcoin as eligi
 
 ## Google News: "bitcoin"
 
-**[Michael Saylor’s Bitcoin Playbook Backfires on 100+ Companies](https://finance.yahoo.com/news/michael-saylor-bitcoin-playbook-backfires-101022120.html)**
-
-Digital asset treasury companies that rushed to copy Michael Saylor’s Bitcoin strategy are now hemorrhaging shareholder value, with median stock prices down 43% year to date, even as the broader market climbs higher, as per Bloomberg.Source: BloombergMore than 100 publicly traded companies transformed themselves into cryptocurrency-holding vehicles in the first ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Michael Saylor's Strategy buys another 10,624 bitcoin for $963 million as treasury holdings reach 660,624 BTC](https://www.theblock.co/post/381668/michael-saylors-strategy-buys-more-bitcoin)**
-
-The Block • 13h ago
-
----
-
-**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
-
-Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
-
-Financial Times • 21h ago
-
----
-
 **[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
 
 BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -183,7 +161,7 @@ Bloomberg.com • 6h ago
 
 iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
 
-Morningstar • 15h ago
+Morningstar • 16h ago
 
 ---
 
@@ -191,23 +169,29 @@ Morningstar • 15h ago
 
 Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-Decrypt • 8h ago
+Decrypt • 9h ago
 
 ---
 
-**[American Bitcoin (ABTC) Crashes 47%, Presidential Son Blames Points to Profit-Taking](https://finance.yahoo.com/news/american-bitcoin-abtc-crashes-47-071519741.html)**
+**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
 
-We recently published December Disappointments: 10 Big Names Troubled Early. American Bitcoin Corp (NASDAQ:ABTC) is one of the worst performers of last week. American Bitcoin nosedived by 47.4 percent week-on-week, as investors sold off positions following the expiration of a lockup period, while presidential son and co-founder Eric Trump pointed to profit-taking as having dragged […]
+Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
 
-Yahoo Finance • 19h ago
+Financial Times • 22h ago
 
 ---
 
-**[Texas launches cryptocurrency reserve with $5M Bitcoin purchase](https://www.businessreport.com/article/texas-launches-cryptocurrency-reserve-with-5m-bitcoin-purchase)**
+**[Michael Saylor Explains Why Banks Are No Longer Waiting for Bitcoin](https://www.binance.com/en/square/post/33413939298642)**
 
-Texas has launched its new cryptocurrency reserve with a $5 million purchase of Bitcoin as the state continues to embrace the volatile and controversial digital currency. The Texas Comptroller’s Office confirmed the purchase was made last month as a “placeholder investment” while the office works to contract with a cryptocurrency bank to manage its portfolio. […]
+Binance • 1d ago
 
-Baton Rouge Business Report • 5h ago
+---
+
+**[Strategy Rises on $963 Million Bitcoin Buy, Largest Since July](https://www.bloomberg.com/news/articles/2025-12-08/strategy-rises-on-963-million-bitcoin-buy-largest-since-july)**
+
+Strategy Inc. shares rose as much as 2.8% in premarket trading Monday after the digital asset treasury company said it bought $962.7 million worth of Bitcoin from Dec. 1 to Dec. 7, marking its largest acquisition since July.
+
+Bloomberg.com • 13h ago
 
 ---
 
@@ -215,15 +199,31 @@ Baton Rouge Business Report • 5h ago
 
 BTC's relative weakness compared to stocks points to tepid spot demand, making the largest crypto vulnerable to macro volatility, Bitfinex analysts said.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
-**[What the First Divergence of Stock and Bitcoin Returns in 10 Years Means](https://www.businessinsider.com/stock-market-bitcoin-return-correlation-divergence-explained-outlook-2025-12)**
+**[Bitcoin will “snapback or chop ahead of the Fed” decision](https://sherwood.news/crypto/bitcoin-will-snapback-or-chop-ahead-of-the-fed-decision/)**
 
-If the stock market is up, bitcoin usually is too. But this year has been different.
+Traders on prediction markets are divided, giving an equal chance that bitcoin drops below $80,000 or rises above $100,000 this year....
 
-Business Insider • 15h ago
+Sherwood News • 10h ago
+
+---
+
+**[Asia Morning Briefing: BTC Steadies Around 90k With Liquidity Drained and a Fed Cut Fully Priced In](https://www.coindesk.com/markets/2025/12/09/asia-morning-briefing-btc-steadies-around-90k-with-liquidity-drained-and-a-fed-cut-fully-priced-in)**
+
+QCP notes participation has collapsed while Polymarket sees a shallow easing path, putting the focus on guidance and cross central bank signals.
+
+CoinDesk • 1h ago
+
+---
+
+**[American Bitcoin (ABTC) Crashes 47%, Presidential Son Blames Points to Profit-Taking](https://finance.yahoo.com/news/american-bitcoin-abtc-crashes-47-071519741.html)**
+
+We recently published December Disappointments: 10 Big Names Troubled Early. American Bitcoin Corp (NASDAQ:ABTC) is one of the worst performers of last week. American Bitcoin nosedived by 47.4 percent week-on-week, as investors sold off positions following the expiration of a lockup period, while presidential son and co-founder Eric Trump pointed to profit-taking as having dragged […]
+
+Yahoo Finance • 20h ago
 
 ---
 
@@ -279,7 +279,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 9 • 💬 0 • 19h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 9 • 💬 0 • 20h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -301,7 +301,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 2 • 💬 0 • 11h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 2 • 💬 0 • 12h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 
@@ -309,13 +309,13 @@ Data transformation framework for AI. Ultra performant, with incremental process
 
 ## YouTube Videos: "bitcoin"
 
-**[How the Banks Stole Gold, is How They Might Steal Bitcoin](https://www.youtube.com/watch?v=7XTc2dC6Q00)**
+**[Banks Are Pushing Bitcoin Into the Death Spiral](https://www.youtube.com/watch?v=7XTc2dC6Q00)**
 
 How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemini Credit Card: http://gemini.com/andrei ...
 
 📺 Andrei Jikh
 
-👁️ 108K • 👍 6K • 💬 660 • ⏱️ 20:03 • 6h ago
+👁️ 187K • 👍 8K • 💬 892 • ⏱️ 20:03 • 7h ago
 
 ---
 
@@ -325,17 +325,17 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 15K • 👍 687 • 💬 195 • ⏱️ 9:22 • 11h ago
+👁️ 16K • 👍 725 • 💬 196 • ⏱️ 9:22 • 12h ago
 
 ---
 
-**[Bitcoin Investors Prepare For a HUGE FOMC Week](https://www.youtube.com/watch?v=HhNaTvl9pjI)**
+**[Did Michael Saylor’s BIG LONG Just Trigger a Bitcoin Supercycle?!](https://www.youtube.com/watch?v=RTWgQ_EkFQ0)**
 
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. Jack Maullers? Just dropped 43K BTC into ...
 
-📺 CryptosRUs
+📺 Simply Bitcoin
 
-👁️ 28K • 👍 1K • 💬 200 • ⏱️ 37:28 • 11h ago
+👁️ 22K • 👍 2K • 💬 321 • ⏱️ 16:35 • 5h ago
 
 ---
 
@@ -345,17 +345,25 @@ Vanguard, Bank of America, and Charles Schwab just made massive moves into Bitco
 
 📺 Lark Davis
 
-👁️ 3K • 👍 345 • 💬 24 • ⏱️ 9:27 • 3h ago
+👁️ 9K • 👍 614 • 💬 46 • ⏱️ 9:27 • 4h ago
 
 ---
 
-**[Michael Saylor at Bitcoin MENA: Bitcoin Price Prediction 2025 &amp; What’s Next for BTC](https://www.youtube.com/watch?v=XR-31Nv4bnI)**
+**[The guy who told you to buy bitcoin 😬😑😂 #shorts #funny #comedy #crypto #bitcoin #btc #invest](https://www.youtube.com/watch?v=PIblMDfqXes)**
 
-Michael Saylor joins Bitcoin MENA to deliver a strategic outlook on the future of Bitcoin and his latest Bitcoin price prediction for ...
+📺 Matt & Justus
 
-📺 MENA 2025
+👁️ 83K • 👍 12K • 💬 97 • ⏱️ 1:00 • 9h ago
 
-👁️ 5K • 👍 2K • 3h ago
+---
+
+**[Larry Fink &amp; Stanley Druckenmiller Describe the Bitcoin Endgame](https://www.youtube.com/watch?v=HkR_KF5YbzQ)**
+
+Connect with Early Riders — https://www.earlyriders.com/contact Connect with Onramp — https://onrampbitcoin.com/contact-us/ ...
+
+📺 Onramp Bitcoin Media
+
+👁️ 2K • 👍 67 • 💬 17 • ⏱️ 54:06 • 8h ago
 
 ---
 
@@ -365,27 +373,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 11K • 👍 493 • 💬 344 • ⏱️ 13:29 • 20h ago
+👁️ 11K • 👍 517 • 💬 355 • ⏱️ 13:29 • 21h ago
 
 ---
 
-**[IT’S RIGGED! Kevin O’Leary Warns ‘Buckle Up’ Bitcoin &amp; Ethereum Holders](https://www.youtube.com/watch?v=s3Exn-qdeno)**
+**[Bitcoin Investors Prepare For a HUGE FOMC Week](https://www.youtube.com/watch?v=HhNaTvl9pjI)**
 
-LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 Altcoin Daily
+📺 CryptosRUs
 
-👁️ 74K • 👍 3K • 💬 332 • ⏱️ 11:32 • 2d ago
-
----
-
-**[Bitcoin Holders - Please Don&#39;t Fall For This](https://www.youtube.com/watch?v=JxJvL5DRczo)**
-
-Market Update Crypto Strategy School https://cryptostrategyschool.com/ab/ ➡️ Platform I Like: https://aaronbtc.com/low ...
-
-📺 Aaron Bennett
-
-👁️ 10K • 👍 604 • 💬 104 • ⏱️ 13:46 • 14h ago
+👁️ 30K • 👍 1K • 💬 199 • ⏱️ 37:28 • 12h ago
 
 ---
 
@@ -399,11 +397,13 @@ A $50 million Bitcoin by 2041? It's more than clickbait — it's a serious thesi
 
 ---
 
-**[The guy who told you to buy bitcoin 😬😑😂 #shorts #funny #comedy #crypto #bitcoin #btc #invest](https://www.youtube.com/watch?v=PIblMDfqXes)**
+**[Did Wall Street Break the Bitcoin Cycle For Good?](https://www.youtube.com/watch?v=p2Uie3aNtMA)**
 
-📺 Matt & Justus
+Bitcoin is grinding higher in a completely new macro regime: QT ending, elections looming, and sovereign wealth funds quietly ...
 
-👁️ 62K • 👍 8K • 💬 85 • ⏱️ 1:00 • 7h ago
+📺 Swan Bitcoin
+
+👁️ 9K • 👍 293 • 💬 165 • ⏱️ 17:26 • 10h ago
 
 ---
 

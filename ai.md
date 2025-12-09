@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T02:29:04.137076+00:00'
+updated: '2025-12-09T03:40:57.893212+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - social
-- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 02:29 UTC  
+**Last Updated:** December 09, 2025 at 03:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
 
-🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 6h ago
+🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 7h ago
 
 ---
 
@@ -55,7 +55,7 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai says no job, not even his own, is safe. But those who don’t adapt will be the first to fall.
 
-🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 4h ago
+🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 5h ago
 
 ---
 
@@ -63,7 +63,7 @@ AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai sa
 
 At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
 
-🔗 [withmartian.com](https://withmartian.com/prize) • 13h ago
+🔗 [withmartian.com](https://withmartian.com/prize) • 14h ago
 
 ---
 
@@ -71,7 +71,7 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming releases by names that resemble existing trademarks.
 
-🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 5h ago
+🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 6h ago
 
 ---
 
@@ -79,7 +79,7 @@ From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming r
 
 Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
-13h ago
+14h ago
 
 ---
 
@@ -87,7 +87,13 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks big bets like Watsonx and next-gen computing will pay off.
 
-🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 12h ago
+🔗 [The Verge](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing) • 13h ago
+
+---
+
+**[ChatGPT, Gemini, DeepSeek, Claude, Perplexity, and Grok give response to this article about what one person’s power means.](https://www.reddit.com/r/artificial/comments/1phx4v0/chatgpt_gemini_deepseek_claude_perplexity_and/)**
+
+14m ago
 
 ---
 
@@ -95,7 +101,7 @@ IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks b
 
 The president announced the plans to create one rulebook for AI via his Truth Social account on Monday.
 
-🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 10h ago
+🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 12h ago
 
 ---
 
@@ -103,13 +109,7 @@ The president announced the plans to create one rulebook for AI via his Truth So
 
 Title.
 
-4h ago
-
----
-
-**[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
-
-13h ago
+6h ago
 
 ---
 
@@ -119,43 +119,33 @@ Title.
 
 **[A.I. Videos Have Flooded Social Media. No One Was Ready.](https://www.nytimes.com/2025/12/08/technology/ai-slop-sora-social-media.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
+
+---
+
+**[Trump gives Nvidia green light to sell advanced AI chips to China](https://www.bbc.com/news/articles/ckg9q635q6po)**
+
+Nvidia had been at the centre of a geopolitical tug-of-war between the US and China in recent months.
+
+BBC • 1h ago
+
+---
+
+**[Trump Clears Sale of More Powerful Nvidia A.I. Chips to China](https://www.nytimes.com/2025/12/08/business/trump-nvidia-chips-china.html)**
+
+The New York Times • 5h ago
 
 ---
 
 **[Nvidia Wins Trump’s Approval to Sell H200 AI Chips in China](https://www.bloomberg.com/news/articles/2025-12-08/nvidia-set-to-win-us-approval-to-export-h200-ai-chips-to-china)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Google to launch first of its AI glasses in 2026](https://www.cnbc.com/2025/12/08/google-ai-glasses-launch-2026.html)**
-
-That includes the first of Google's AI glasses in partnership with Warby Parker.
-
-CNBC • 6h ago
-
----
-
-**[Google Says First AI Glasses With Gemini Will Arrive in 2026](https://www.bloomberg.com/news/articles/2025-12-08/google-says-first-ai-glasses-with-gemini-will-arrive-in-2026)**
-
-Alphabet Inc.’s Google said it’s working to create two different categories of artificial intelligence-powered smart glasses to compete next year with existing models from Meta Platforms Inc.: one with screens, and another that’s audio focused.
-
-Bloomberg.com • 8h ago
-
----
-
-**[Google Cloud CEO lays out 3-part AI plan after identifying it as the 'most problematic thing'](https://fortune.com/2025/12/08/google-cloud-ai-energy-demands-strategy-data-center-electricity/)**
-
-Speaking at the Fortune Brainstorm AI conference, Google Cloud boss Thomas Kurian discussed how the company thinks about energy and data centers.
-
-Fortune • 32m ago
+Bloomberg.com • 2h ago
 
 ---
 
 **[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
 
-The Economist • 5h ago
+The Economist • 6h ago
 
 ---
 
@@ -163,7 +153,31 @@ The Economist • 5h ago
 
 President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-CNN • 11h ago
+CNN • 12h ago
+
+---
+
+**[Google to launch first of its AI glasses in 2026](https://www.cnbc.com/2025/12/08/google-ai-glasses-launch-2026.html)**
+
+That includes the first of Google's AI glasses in partnership with Warby Parker.
+
+CNBC • 7h ago
+
+---
+
+**[It took me 2.5 years to transition to an AI team at Google. These 11 books to help me pivot.](https://www.businessinsider.com/google-engineer-11-books-up-skilling-ai-job-2025-12)**
+
+Rahul Kasanagottu is an engineer at Google who pivoted to an AI role at the company after a 2.5 year upskilling journey.
+
+Business Insider • 16h ago
+
+---
+
+**[Google Says First AI Glasses With Gemini Will Arrive in 2026](https://www.bloomberg.com/news/articles/2025-12-08/google-says-first-ai-glasses-with-gemini-will-arrive-in-2026)**
+
+Alphabet Inc.’s Google said it’s working to create two different categories of artificial intelligence-powered smart glasses to compete next year with existing models from Meta Platforms Inc.: one with screens, and another that’s audio focused.
+
+Bloomberg.com • 9h ago
 
 ---
 
@@ -171,21 +185,7 @@ CNN • 11h ago
 
 AI helps jobseekers to apply for hundreds of roles, meanwhile employers use AI to filter them.
 
-BBC • 2h ago
-
----
-
-**[AI progress surges while researchers struggle to explain It](https://www.nbcnews.com/tech/tech-news/ai-progress-surges-researchers-struggle-explain-rcna247693)**
-
-Despite soaring progress, scientists at AI’s largest gathering say key questions about how models work and how to measure them remain unsolved.
-
-NBC News • 1h ago
-
----
-
-**[Investing In Unconventional AI: Biology-Scale Efficiency For The AI Era](https://lsvp.com/stories/investing-in-unconventional-ai-biology-scale-efficiency-for-the-ai-era/)**
-
-Lightspeed Venture Partners • 8h ago
+BBC • 3h ago
 
 ---
 
@@ -195,7 +195,7 @@ Lightspeed Venture Partners • 8h ago
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 567 • 💬 179 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 568 • 💬 179 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -203,7 +203,7 @@ Lightspeed Venture Partners • 8h ago
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 379 • 💬 322 • 9h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 382 • 💬 326 • 10h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -211,19 +211,19 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 126 • 💬 69 • 2h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 200 • 💬 123 • 3h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+
+---
+
+**[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
+
+⬆️ 120 • 💬 114 • 10h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
 ⬆️ 118 • 💬 204 • 1d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
-
----
-
-**[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
-
-⬆️ 109 • 💬 112 • 8h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -251,7 +251,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny.
 
-⬆️ 30 • 💬 3 • 6h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
+⬆️ 32 • 💬 4 • 7h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
 
 ---
 
@@ -267,43 +267,33 @@ A fork of Calibre called Clbre, because the AI is stripped out. - grimthorpe/clb
 
 ## YouTube Videos: "ai"
 
-**[New $100B AI Bet — The Real Threat to NVIDIA](https://www.youtube.com/watch?v=N10w1KvFKNQ)**
+**[New Largest AI Datacenter: Not a Single GPU Inside](https://www.youtube.com/watch?v=N10w1KvFKNQ)**
 
 Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTECHDEC2 - 100% Discount for the first 1000 ...
 
 📺 Anastasi In Tech
 
-👁️ 25K • 👍 3K • 💬 340 • ⏱️ 31:03 • 5h ago
+👁️ 58K • 👍 5K • 💬 613 • ⏱️ 31:03 • 6h ago
 
 ---
 
-**[What AI Is Now Doing to Your Food Is Worse Than You Think.](https://www.youtube.com/watch?v=JcA_vAsWw5M)**
+**[DIMON’S WARNING: America might not be ready for coming AI shock](https://www.youtube.com/watch?v=C8yuD9ca1lo)**
 
-Your Grocery Store Is About to Change Forever. AI is now making your food...but is it safe? What the world of AI is doing to our ...
+JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, crypto investing and socialism on 'Mornings ...
 
-📺 Lillie Kane
+📺 Fox Business
 
-👁️ 7K • 👍 826 • 💬 143 • ⏱️ 13:09 • 10h ago
-
----
-
-**[NEW AI Video Generator Kling 2.6 DESTROYS Veo 3.1 &amp; Sora 2? Full Comparison](https://www.youtube.com/watch?v=hmgMlp4a4ao)**
-
-Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Full comparison Try Kling 2.6 ...
-
-📺 Dan Kieft
-
-👁️ 14K • 💬 18 • ⏱️ 20:04 • 9h ago
+👁️ 49K • 👍 980 • 💬 305 • ⏱️ 18:47 • 11h ago
 
 ---
 
-**[OpenAI&#39;s New GARLIC AI, Apple&#39;s Clara, Live Avatar and More Intense AI News](https://www.youtube.com/watch?v=3n_dWlNkcY8)**
+**[QUANTUM WILL ECLIPSE AI: Why Everyone’s Betting on the Wrong Horse](https://www.youtube.com/watch?v=aNpVFovnZ-E)**
 
-OpenAI is in a full internal race after a major leak revealed a new model called Garlic outperforming Gemini 3 and Claude in ...
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
 
-📺 AI Revolution
+📺 Julia McCoy
 
-👁️ 82K • 👍 2K • 💬 113 • ⏱️ 12:31 • 1d ago
+👁️ 56K • 👍 3K • 💬 512 • ⏱️ 15:03 • 1d ago
 
 ---
 
@@ -313,37 +303,37 @@ Big Tech is racking up debt to fund their AI infrastructure for demand that seem
 
 📺 Vanessa Wingårdh
 
-👁️ 121K • 👍 9K • 💬 2K • ⏱️ 10:38 • 1d ago
+👁️ 123K • 👍 9K • 💬 2K • ⏱️ 10:38 • 1d ago
 
 ---
 
-**[Character AI pushes dangerous content to kids, parents and researchers say | 60 Minutes](https://www.youtube.com/watch?v=6ocUfNHyCL0)**
+**[OpenAI&#39;s New GARLIC AI, Apple&#39;s Clara, Live Avatar and More Intense AI News](https://www.youtube.com/watch?v=3n_dWlNkcY8)**
 
-A teen told a Character AI chatbot 55 times that she was feeling suicidal. Her parents say the chatbot never provided resources for ...
+OpenAI is in a full internal race after a major leak revealed a new model called Garlic outperforming Gemini 3 and Claude in ...
+
+📺 AI Revolution
+
+👁️ 88K • 👍 2K • 💬 117 • ⏱️ 12:31 • 1d ago
+
+---
+
+**[NEW AI Video Generator Kling 2.6 DESTROYS Veo 3.1 &amp; Sora 2? Full Comparison](https://www.youtube.com/watch?v=hmgMlp4a4ao)**
+
+Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Full comparison Try Kling 2.6 ...
+
+📺 Dan Kieft
+
+👁️ 17K • 💬 18 • ⏱️ 20:04 • 10h ago
+
+---
+
+**[Marjorie Taylor Greene; Character AI; Watch Valley | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=Zl_JvJ5-JA4)**
+
+First, Marjorie Taylor Greene: The 2025 60 Minutes Interview. Then, researchers warn AI chatbots can harm kids. And, why ...
 
 📺 60 Minutes
 
-👁️ 26K • 👍 536 • 💬 116 • ⏱️ 13:25 • 22h ago
-
----
-
-**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=ozCKqX2rgzg)**
-
-Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
-
-📺 Impossible AIs
-
-👁️ 1.2M • 👍 3K • 💬 101 • ⏱️ 8:06 • 2d ago
-
----
-
-**[Bear releases a struggling fish into a pond #ai #fish #relases #bear](https://www.youtube.com/watch?v=J9zvICM4IPw)**
-
-Bear releases a struggling fish into a pond #ai #fish #relases #bear.
-
-📺 Ai story Time
-
-👁️ 21K • 👍 346 • 💬 3 • ⏱️ 0:41 • 16h ago
+👁️ 202K • 👍 3K • 💬 684 • ⏱️ 43:37 • 15h ago
 
 ---
 
@@ -353,17 +343,27 @@ Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Ge
 
 📺 BitBiasedAI
 
-👁️ 48K • 👍 1K • 💬 47 • ⏱️ 11:49 • 2d ago
+👁️ 49K • 👍 1K • 💬 47 • ⏱️ 11:49 • 2d ago
 
 ---
 
-**[AI EXPANSION EXPLODES: Welders and electricians become the new elite earners](https://www.youtube.com/watch?v=Bw8XblRkcmE)**
+**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=ozCKqX2rgzg)**
 
-'The Big Money Show' panel discusses how the A.I. construction boom is reshaping America's workforce, driving six-figure ...
+Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
 
-📺 Fox Business
+📺 Impossible AIs
 
-👁️ 45K • 👍 853 • 💬 431 • ⏱️ 6:47 • 2d ago
+👁️ 1.2M • 👍 3K • 💬 102 • ⏱️ 8:06 • 2d ago
+
+---
+
+**[Can AI Build the Perfect Secret Room? Download Copilot! #CopilotPartner](https://www.youtube.com/watch?v=6hDsE7U_WlM)**
+
+CopilotPartner.
+
+📺 Ben Azelart
+
+👁️ 327K • 👍 8K • 💬 197 • ⏱️ 1:17 • 7h ago
 
 ---
 
@@ -379,7 +379,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,352 • 9h ago
+⬇️ 201,990 • ❤️ 2,356 • 10h ago
 
 ---
 
@@ -391,7 +391,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 537 • 23h ago
+⬇️ 40,450 • ❤️ 541 • 1d ago
 
 ---
 
@@ -403,7 +403,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 28,778 • ❤️ 818 • 7d ago
+⬇️ 28,778 • ❤️ 821 • 7d ago
 
 ---
 
@@ -415,7 +415,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 8,016 • ❤️ 555 • 7d ago
+⬇️ 8,016 • ❤️ 556 • 7d ago
 
 ---
 
@@ -435,7 +435,7 @@ Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million im
 
 Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.
 
-⬇️ 372 • ❤️ 170 • 5d ago
+⬇️ 372 • ❤️ 171 • 5d ago
 
 ---
 
@@ -457,7 +457,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
 
-⬇️ 0 • ❤️ 245 • 7d ago
+⬇️ 0 • ❤️ 246 • 7d ago
 
 ---
 
@@ -469,7 +469,7 @@ Ministral 3 14B Instruct is a powerful, edge-optimized multilingual vision-langu
 
 `13.9B`
 
-⬇️ 179,920 • ❤️ 153 • 3d ago
+⬇️ 179,920 • ❤️ 154 • 3d ago
 
 ---
 
@@ -481,7 +481,7 @@ LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusi
 
 `text-to-image`
 
-⬇️ 99 • ❤️ 146 • 14h ago
+⬇️ 99 • ❤️ 150 • 15h ago
 
 ---
 
@@ -511,7 +511,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 22 • 💬 2 • ⭐ 5,817 • 11d ago
+▲ 23 • 💬 2 • ⭐ 5,817 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -525,7 +525,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 47 • 💬 2 • ⭐ 878 • 6d ago
+▲ 48 • 💬 2 • ⭐ 878 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -633,7 +633,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.5k • 🔱 434 • 24m ago
+⭐ 5.5k • 🔱 436 • 1h ago
 
 ---
 
@@ -643,7 +643,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 10h ago
+⭐ 1.6k • 🔱 132 • 11h ago
 
 ---
 
@@ -673,7 +673,17 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 992 • 🔱 123 • 3h ago
+⭐ 995 • 🔱 123 • 5h ago
+
+---
+
+**[Anionex/banana-slides](https://github.com/Anionex/banana-slides)**
+
+一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材；一句话/大纲/页面描述自动生成PPT，自动使用链接图片；口头修改指定区域、一键导出
+
+`Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
+
+⭐ 868 • 🔱 126 • 1h ago
 
 ---
 
@@ -683,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 857 • 🔱 58 • 8d ago
+⭐ 861 • 🔱 58 • 8d ago
 
 ---
 
@@ -703,7 +713,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 835 • 🔱 45 • 1h ago
+⭐ 835 • 🔱 45 • 29m ago
 
 ---
 
@@ -713,17 +723,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 816 • 🔱 266 • 2d ago
-
----
-
-**[Anionex/banana-slides](https://github.com/Anionex/banana-slides)**
-
-一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材；一句话/大纲/页面描述自动生成PPT，自动使用链接图片；口头修改指定区域、一键导出
-
-`Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
-
-⭐ 815 • 🔱 118 • 43m ago
+⭐ 819 • 🔱 267 • 2d ago
 
 ---
 
