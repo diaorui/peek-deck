@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T15:53:48.716513+00:00'
+updated: '2025-12-09T16:23:31.538334+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- videos
+- repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 15:53 UTC  
+**Last Updated:** December 09, 2025 at 16:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,15 @@ AI news, discussions, and developments
 
 **[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-21h ago
+22h ago
+
+---
+
+**[Tesla Optimus's fall in Miami demo sparks remote operation debate](https://www.reddit.com/r/artificial/comments/1pi9nj4/tesla_optimuss_fall_in_miami_demo_sparks_remote/)**
+
+While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
+
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 1h ago
 
 ---
 
@@ -48,14 +56,6 @@ AI news, discussions, and developments
 Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
 
 🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 19h ago
-
----
-
-**[Tesla Optimus's fall in Miami demo sparks remote operation debate](https://www.reddit.com/r/artificial/comments/1pi9nj4/tesla_optimuss_fall_in_miami_demo_sparks_remote/)**
-
-While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
-
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 50m ago
 
 ---
 
@@ -75,6 +75,14 @@ AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai sa
 
 ---
 
+**[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.reddit.com/r/artificial/comments/1pib0pf/trump_says_hell_sign_executive_order_blocking/)**
+
+President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
+
+🔗 [CNN](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws) • 27m ago
+
+---
+
 **[A "featured image" generator for those writing blogs](https://www.reddit.com/r/artificial/comments/1pi4g5f/a_featured_image_generator_for_those_writing_blogs/)**
 
 Do you have a blog post or content that needs an image? Use our image generator to easily generate the best picture for your blog post using AI.
@@ -87,7 +95,7 @@ Do you have a blog post or content that needs an image? Use our image generator 
 
 Innovations in A.I., synthetic biology and quantum computing are set to change war.
 
-🔗 [nytimes.com](https://www.nytimes.com/interactive/2025/12/09/opinion/editorials/us-china-military-ai-tech.html?unlocked_article_code=1.7U8.WPvl.rr86n3kq5Eqb&smid=re-nytopinion) • 9m ago
+🔗 [nytimes.com](https://www.nytimes.com/interactive/2025/12/09/opinion/editorials/us-china-military-ai-tech.html?unlocked_article_code=1.7U8.WPvl.rr86n3kq5Eqb&smid=re-nytopinion) • 39m ago
 
 ---
 
@@ -107,14 +115,6 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 ---
 
-**[A simple voice changing program?](https://www.reddit.com/r/artificial/comments/1pi7f3m/a_simple_voice_changing_program/)**
-
-Does a good solid voice changing program exist that’s relatively inexpensive? I’ve looked at various apps but they all suck and they just do celebrity voices, etc. or they have really unrealistic sounding voices. I need to be able to import my own voice recording and it just changes it.
-
-2h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,7 +123,7 @@ Does a good solid voice changing program exist that’s relatively inexpensive? 
 
 Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -131,7 +131,7 @@ CNBC • 3h ago
 
 That includes the first of Google's AI glasses in partnership with Warby Parker.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -161,19 +161,19 @@ The New York Times • 17h ago
 
 David Sacks said the Trump administration's effort to restrict state AI regulation won't "force communities to host data centers they don't want."
 
-Business Insider • 46m ago
+Business Insider • 1h ago
 
 ---
 
 **[Opinion | Amy Klobuchar: Trump Should Not Replace A.I. Laws With an Executive Order](https://www.nytimes.com/2025/12/09/opinion/klobuchar-trump-ai.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
 **[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
 
-The Economist • 18h ago
+The Economist • 19h ago
 
 ---
 
@@ -207,7 +207,7 @@ The Guardian • 2h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 494 • 💬 446 • 15h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 502 • 💬 450 • 15h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -215,13 +215,13 @@ AI progress is steady. Human equivalence is sudden.
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 410 • 💬 361 • 22h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 411 • 💬 364 • 23h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 181 • 💬 163 • 22h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 185 • 💬 163 • 22h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -237,11 +237,19 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 ---
 
+**[EU investigates Google over AI-generated summaries in search results](https://news.ycombinator.com/item?id=46205743)**
+
+It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
+
+⬆️ 44 • 💬 71 • 1h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
+
+---
+
 **[Apple's Slow AI Pace Becomes a Strength as Market Grows Weary of Spending](https://news.ycombinator.com/item?id=46205724)**
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 41 • 💬 47 • 45m ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 43 • 💬 59 • 1h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -259,14 +267,6 @@ Starting Jan. 1, traditional Medicare recipients in Washington state will face a
 
 ---
 
-**[AI Slop Is Ruining Reddit for Everyone](https://news.ycombinator.com/item?id=46184287)**
-
-Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.
-
-⬆️ 36 • 💬 6 • 1d ago • [WIRED](https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
@@ -277,7 +277,7 @@ JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, cryp
 
 📺 Fox Business
 
-👁️ 65K • 👍 1K • 💬 367 • ⏱️ 18:47 • 23h ago
+👁️ 65K • 👍 1K • 💬 367 • ⏱️ 18:47 • 1d ago
 
 ---
 
@@ -307,7 +307,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 59K • 👍 3K • 💬 533 • ⏱️ 15:03 • 1d ago
+👁️ 59K • 👍 3K • 💬 533 • ⏱️ 15:03 • 2d ago
 
 ---
 
@@ -395,7 +395,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 56,958 • ❤️ 574 • 11h ago
+⬇️ 56,958 • ❤️ 574 • 12h ago
 
 ---
 
@@ -487,7 +487,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 `text-generation` `8.3B`
 
-⬇️ 443,437 • ❤️ 164 • 18h ago
+⬇️ 443,437 • ❤️ 164 • 19h ago
 
 ---
 
@@ -659,7 +659,7 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.3k • 🔱 158 • 13m ago
+⭐ 1.3k • 🔱 158 • 43m ago
 
 ---
 
@@ -689,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 125 • 35m ago
+⭐ 1.0k • 🔱 125 • 1h ago
 
 ---
 
@@ -699,7 +699,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 890 • 🔱 61 • 4h ago
+⭐ 890 • 🔱 61 • 5h ago
 
 ---
 
@@ -719,7 +719,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 842 • 🔱 45 • 12h ago
+⭐ 842 • 🔱 45 • 13h ago
 
 ---
 

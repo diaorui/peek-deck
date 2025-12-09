@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T15:53:48.725124+00:00'
+updated: '2025-12-09T16:23:31.545900+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 15:53 UTC  
+**Last Updated:** December 09, 2025 at 16:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,695.92
+### $93,461.98
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.0%  
-**7d:** -1.0%  
-**30d:** -12.6%  
-**90d:** -19.8%  
-**1y:** -4.1%  
+**24h:** +3.5%  
+**7d:** -0.6%  
+**30d:** -12.3%  
+**90d:** -19.3%  
+**1y:** -3.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1836.37B
+**Market Cap:** $1858.35B
 Rank #1
 
-**Circulating Supply:** 19,959,796 BTC
+**Circulating Supply:** 19,959,806 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.7%
+-25.9%
 
 **All-Time Low:** $67.81
-+136204.4%
++137733.7%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Literally!](https://www.reddit.com/r/Bitcoin/comments/1pi8hu2/literally/)**
 
-1h ago
+2h ago
 
 ---
 
 **[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -109,9 +109,15 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
+**[What’s going on?](https://www.reddit.com/r/Bitcoin/comments/1pib08s/whats_going_on/)**
+
+28m ago
+
+---
+
 **[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -127,19 +133,13 @@ If you had put $1000 into BTC in 2010 and left it alone without further investme
 
 And most who keep panicking, and those crazy shenanigans fud are mostly from noobs or either those who invest rent money, or worst haven't studied Bitcoin.
 
-5h ago
+6h ago
 
 ---
 
 **[Staring into the BTC abyss, waiting for it to explain itself](https://www.reddit.com/r/Bitcoin/comments/1pi3i32/staring_into_the_btc_abyss_waiting_for_it_to/)**
 
 6h ago
-
----
-
-**[Earning $100k now has about the same buying power that $40k a year had back in 1990](https://www.reddit.com/r/Bitcoin/comments/1pi1w8o/earning_100k_now_has_about_the_same_buying_power/)**
-
-7h ago
 
 ---
 
@@ -157,7 +157,7 @@ WIRED • 5h ago
 
 **[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
 
-Reuters • 10h ago
+Reuters • 11h ago
 
 ---
 
@@ -173,7 +173,7 @@ Bloomberg.com • 1h ago
 
 MSCI could exclude crypto treasury firms from its widely followed indexes. The move is drawing sharp criticism from industry players.
 
-Business Insider • 42m ago
+Business Insider • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ Business Insider • 42m ago
 
 Market Catalysts host Julie Hyman tracks several of the day's top trending stock tickers, including Microsoft's (MSFT) plans to invest $17.5 billion in India over the next four years, Campbell's (CPB) reporting a decline in profit and revenue in its fiscal first quarter release, and PNC Financial Services Group (PNC) to allow bitcoin (BTC-USD) trading. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
 
-Yahoo Finance • 13m ago
+Yahoo Finance • 43m ago
 
 ---
 
@@ -281,7 +281,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever been. His bullish outlook drew swift pushback from a famous short-seller.
 
-⬆️ 2 • 💬 1 • 5d ago • [Business Insider](https://www.businessinsider.com/bitcoin-price-eric-jackson-bullish-ethereum-crypto-btc-eth-ai-2025-12)
+⬆️ 2 • 💬 1 • 6d ago • [Business Insider](https://www.businessinsider.com/bitcoin-price-eric-jackson-bullish-ethereum-crypto-btc-eth-ai-2025-12)
 
 ---
 
@@ -293,7 +293,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 1 • 💬 0 • 3m ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 1 • 💬 0 • 33m ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -317,7 +317,7 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 376K • 👍 13K • 💬 2K • ⏱️ 20:03 • 19h ago
+👁️ 376K • 👍 13K • 💬 2K • ⏱️ 20:03 • 20h ago
 
 ---
 
@@ -337,7 +337,7 @@ In this video, Kyledoops shows you 3 very specific reasons why you can expect a 
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 1K • 💬 23 • ⏱️ 37:53 • 7h ago
+👁️ 16K • 👍 1K • 💬 23 • ⏱️ 37:53 • 8h ago
 
 ---
 
@@ -367,7 +367,7 @@ Michael Saylor reveals that major U.S. banks—including Wells Fargo, Citi, JPMo
 
 📺 Bitcoin Magazine
 
-👁️ 193 • 👍 4 • 💬 40 • ⏱️ 0:46 • 1h ago
+👁️ 193 • 👍 4 • 💬 40 • ⏱️ 0:46 • 2h ago
 
 ---
 

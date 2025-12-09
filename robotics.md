@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T15:53:48.734486+00:00'
+updated: '2025-12-09T16:23:31.554104+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 15:53 UTC  
+**Last Updated:** December 09, 2025 at 16:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
-2h ago
+3h ago
 
 ---
 
@@ -58,7 +58,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most concept machines, this one is production ready and operating in Hebei Province to address the aging rural workforce. The Tech Stack: Autonomy: Uses LiDAR and RTK-GNSS for path planning with ±2.5 cm precision. It handles the entire cycle: ploughing, seeding, spraying and harvesting without a driver. Smart Sensing: Beyond just driving, it collects real-time data on soil composition, moisture, and crop health while running. Powertrain: Pure electric with a dual-motor setup (separating traction from the PTO/farming implements) for better load control. Endurance: Runs for 6 hours on a single charge and coordinates via a 5G mesh network. "Agri-Robotics" is where we are seeing the first massive wave of real world autonomy. If a single person can manage a fleet of these from a tablet, it fundamentally changes the economics of small to medium farms. Source: Lucas
 
-23h ago
+1d ago
 
 ---
 
@@ -72,7 +72,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 Teaching Robots to Understand Natural Language Built an autonomous navigation system where you can command a robot in plain English - "go to the person" or "find the chair" - and it handles the rest. What I Learned: Distributed ROS2: Ran LLM inference on NVIDIA Jetson Orin Nano while handling vision/navigation on my main system. Multi-machine communication over ROS2 topics was seamless. Edge Al Reality: TinyLlama on Jetson's CPU takes 2-10s per command, but the 8GB unified memory and no GPU dependency makes it perfect for robotics. Real edge computing without much latency. Vision + Planning: YOLOv8 detects object classes, monocular depth estimation calculates distance, Nav2 plans the path. When the target disappears, the robot autonomously searches with 360° rotation patterns. On Jetson Orin Nano Super: Honestly impressed. It's the perfect middle ground - more capable than Raspberry Pi, more accessible than industrial modules. Running Ollama while maintaining real-time ROS2 communication proved its robotics potential. Stack: ROS2 | YOLOv8 | Ollama/TinyLlama | Nav2 | Gazebo Video shows the full pipeline - natural language → LLM parsing → detection → autonomous navigation.
 
-17m ago
+46m ago
 
 ---
 
@@ -86,7 +86,7 @@ Teaching Robots to Understand Natural Language Built an autonomous navigation sy
 
 **[Inverted Double Pendulum in Isaac Lab](https://www.reddit.com/r/robotics/comments/1pi8anb/inverted_double_pendulum_in_isaac_lab/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -128,7 +128,7 @@ Breaking Defense • 1d ago
 
 The Alligator is an autonomous amphibious vessel designed to deliver logistics, sensors, and personnel between water and land.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -144,7 +144,7 @@ Bloomberg.com • 1d ago
 
 Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -168,7 +168,7 @@ PYMNTS.com • 18h ago
 
 1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
 
-Valley News Live • 16h ago
+Valley News Live • 17h ago
 
 ---
 
@@ -176,7 +176,7 @@ Valley News Live • 16h ago
 
 While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-Interesting Engineering • 23h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comfor
 
 📺 AI Robot Lab
 
-👁️ 2K • 👍 21 • 💬 2 • ⏱️ 0:24 • 4h ago
+👁️ 2K • 👍 21 • 💬 2 • ⏱️ 0:24 • 5h ago
 
 ---
 
@@ -262,7 +262,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 26K • 👍 230 • 💬 1 • ⏱️ 0:18 • 12h ago
+👁️ 26K • 👍 230 • 💬 1 • ⏱️ 0:18 • 13h ago
 
 ---
 
@@ -272,7 +272,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 42K • 👍 1K • 💬 97 • ⏱️ 24:47 • 2d ago
+👁️ 42K • 👍 1K • 💬 97 • ⏱️ 24:47 • 3d ago
 
 ---
 
