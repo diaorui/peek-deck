@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T20:53:27.995282+00:00'
+updated: '2025-12-09T21:14:49.766310+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 20:53 UTC  
+**Last Updated:** December 09, 2025 at 21:14 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
+**24h:** +2.4%  
 **7d:** -0.6%  
 **30d:** -12.2%  
 **90d:** -19.2%  
-**1y:** -3.4%  
+**1y:** -3.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1859.84B
+**Market Cap:** $1857.48B
 Rank #1
 
-**Circulating Supply:** 19,959,862 BTC
+**Circulating Supply:** 19,959,878 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.3%
+-26.1%
 
 **All-Time Low:** $67.81
-+136928.5%
++137238.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -93,7 +93,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pier04/daily_meme_until_100000/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -103,9 +103,11 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
-**[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
+**[Almost $100k in Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1piiqno/almost_100k_in_bitcoin/)**
 
-14h ago
+Almost $100k position in BTC! Anyone else almost at $100k?
+
+29m ago
 
 ---
 
@@ -117,6 +119,12 @@ Bitcoin just smashed through 94k and the energy feels unreal right now, though G
 
 ---
 
+**[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
+
+14h ago
+
+---
+
 **[I wonder how the small early investors feel right now?](https://www.reddit.com/r/Bitcoin/comments/1pi41nz/i_wonder_how_the_small_early_investors_feel_right/)**
 
 If you had put $1000 into BTC in 2010 and left it alone without further investment you'd have close to a billion dollars right now (before tax, of course). I sometimes sit and wonder if there are people who did that almost as a joke and then forgot their password or whatever lol.
@@ -125,23 +133,19 @@ If you had put $1000 into BTC in 2010 and left it alone without further investme
 
 ---
 
+**[OCC authorizes U.S. banks to execute riskless-principal Bitcoin transactions unlocking regulated execution without balance-sheet exposure](https://www.reddit.com/r/Bitcoin/comments/1pigmi8/occ_authorizes_us_banks_to_execute/)**
+
+The OCC is the federal authority that determines what U.S. banks are allowed to execute under supervision. This shift is bigger then the ETF Approval from 2024! Its approval is not opinion, interpretation, or industry signaling. It is a binding permission that enables banks to route Bitcoin transactions legally, without inventory risk, and within standard audit frameworks. The relevance is not immediate, because regulatory clarity precedes capital deployment. But when distribution becomes active, this ruling will be the reason banks can deliver Bitcoin at scale through the same channels that already move equities, bonds, and FX flow.
+
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/occ-authorizes-us-banks-to-execute) • 1h ago
+
+---
+
 **[Indiana considering legislation to require Bitcoin options in Public Retirement Plans](https://www.reddit.com/r/Bitcoin/comments/1pia1pu/indiana_considering_legislation_to_require/)**
 
 Indiana lawmakers are making history with groundbreaking legislation that would force public retirement programs to offer Bitcoin investments.
 
 🔗 [Brave New Coin](https://bravenewcoin.com/insights/indiana-becomes-first-state-to-require-bitcoin-options-in-public-retirement-plans) • 5h ago
-
----
-
-**[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
-
-1d ago
-
----
-
-**[Earning $100k now has about the same buying power that $40k a year had back in 1990](https://www.reddit.com/r/Bitcoin/comments/1pi1w8o/earning_100k_now_has_about_the_same_buying_power/)**
-
-12h ago
 
 ---
 
@@ -165,19 +169,25 @@ Bloomberg.com • 5h ago
 
 ---
 
-**[BTC, XRP Price News: Bitcoin Surge Ends up Liquidating $300M, But Ripple Lags](https://www.coindesk.com/markets/2025/12/10/xrp-underperforms-market-as-sudden-bitcoin-surge-ends-up-in-usd387m-liquidations)**
+**[Bitcoin Treasury Firm Backed by Tether, SoftBank Falls Sharply on First Trading Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqdkeWNr7LQmHC3KIqp7zQOTjmLIF7cH1Ld3oYihUs2RM6liCCsG77QG&gaa_ts=693894b6&gaa_sig=Rzlm7uDxRyPRdIYhzDRRFJDEcW99B7lhUYWf-WBWf_fDF2_1GGsb2yeq9jWmAMHG2uovtDhsQ6RwN2FO2ZMG6Q%3D%3D)**
 
-XRP's technical outlook remains uncertain, with support at $2.05 and resistance at $2.17, as traders watch for volume expansion
-
-CoinDesk • 1h ago
+The Wall Street Journal • 12h ago
 
 ---
 
-**[Bitcoin jumps to $94,000, but 'hawkish' Fed cut threatens crypto rally](https://finance.yahoo.com/news/bitcoin-jumps-to-94000-but-hawkish-fed-cut-threatens-crypto-rally-164647910.html)**
+**[XXI Drops 25% After SPAC Merger](https://www.coindesk.com/markets/2025/12/09/bitcoin-treasury-company-twenty-one-drops-25-in-nyse-debut-trades-near-pipe-pricing-of-usd10)**
 
-The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
+The company is led by Strike CEO Jack Mallers and began trading under the XXI ticker today following its SPAC merger with Cantor Equity Partners.
 
-Yahoo Finance • 37m ago
+CoinDesk • 5h ago
+
+---
+
+**[JPMorgan Analysts Doubt Crypto Winter Is Coming, Despite 'Meaningful' Bitcoin Sell-Off](https://finance.yahoo.com/news/jpmorgan-analysts-doubt-crypto-winter-202849077.html)**
+
+The investment bank continues to have a positive outlook on the crypto market, even with Bitcoin and other assets down.
+
+Yahoo Finance • 46m ago
 
 ---
 
@@ -191,7 +201,7 @@ CNBC • 2h ago
 
 **[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
 
-Reuters • 15h ago
+Reuters • 16h ago
 
 ---
 
@@ -199,7 +209,7 @@ Reuters • 15h ago
 
 <p>Strategic Partnership Empowers PNC Private Bank Clients with Bitcoin Trading&nbsp;</p>
 
-PR Newswire • 7h ago
+PR Newswire • 8h ago
 
 ---
 
@@ -214,12 +224,6 @@ Coinbase • 7h ago
 The move is the latest example of a traditional financial services provider offering digital asset trading through its own platform — a role still primarily filled by cryptocurrency exchanges such as Coinbase.  Through its partnership with PNC, Coinbase provides broker services and technology integration, facilitating trades of any amount of Bitcoin, according to Brett Tejpaul, co-CEO of Coinbase Institutional.
 
 Yahoo Finance • 8h ago
-
----
-
-**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqfiP6WPu_781pdGawRyUrwtjvxKeY7cMr8QAjWBQ2-7ZQwvnjLiQMDT&gaa_ts=693889db&gaa_sig=9ekaEnAiyEyJGTSC4DrZth9Ihw7XP-COJiSSSdPoTYLrXODGDG5O8OKXjCo7eATpdWGZW8lT-PMgQvcSjqaHRg%3D%3D)**
-
-MarketWatch • 22h ago
 
 ---
 
@@ -275,7 +279,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 3h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 4h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -305,13 +309,23 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ## YouTube Videos: "bitcoin"
 
+**[bitcoin just broke the model](https://www.youtube.com/watch?v=hWFQHVBrJN8)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 9K • 👍 793 • 💬 165 • ⏱️ 7:23 • 3h ago
+
+---
+
 **[HUGE Bitcoin Reversal Incoming - Here&#39;s Why](https://www.youtube.com/watch?v=fEX9E7tYdfs)**
 
 Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 237 • ⏱️ 44:49 • 5h ago
+👁️ 24K • 👍 1K • 💬 284 • ⏱️ 44:49 • 5h ago
 
 ---
 
@@ -321,7 +335,17 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 11K • 👍 772 • 💬 196 • ⏱️ 8:51 • 5h ago
+👁️ 18K • 👍 900 • 💬 205 • ⏱️ 8:51 • 6h ago
+
+---
+
+**[Texas buys $5M in Bitcoin, starts nation&#39;s first cryptocurrency reserve | Morning in America](https://www.youtube.com/watch?v=_GNoDH5gebY)**
+
+Texas has placed taxpayer dollars into a high-risk — but potentially high-reward — cryptocurrency reserve by betting big on ...
+
+📺 NewsNation
+
+👁️ 2K • 👍 49 • 💬 106 • ⏱️ 3:14 • 7h ago
 
 ---
 
@@ -331,57 +355,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 3K • 💬 192 • ⏱️ 10:16 • 19h ago
-
----
-
-**[Bitcoin Pre-FOMC](https://www.youtube.com/watch?v=kZGHzEGRyAM)**
-
-Let's talk about the price of #Bitcoin going into FOMC! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com Into ...
-
-📺 Benjamin Cowen
-
-👁️ 33K • 👍 3K • 💬 124 • ⏱️ 9:09 • 7h ago
-
----
-
-**[Bitcoin Is Bouncing As Expected. Here&#39;s My Target](https://www.youtube.com/watch?v=AMkrct5F2q4)**
-
-Stay informed with the latest insights on **bitcoin**, focusing on effective **technical analysis** and essential **chart analysis**.
-
-📺 Krown
-
-👁️ 2K • 👍 356 • 💬 284 • ⏱️ 15:14 • 3h ago
-
----
-
-**[Whales REVERSED Their Strategy! Bitcoin&#39;s Supercycle Is COMING - Jack Mallers](https://www.youtube.com/watch?v=hSA2wYGR31s)**
-
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: ...
-
-📺 Library Of Wealth
-
-👁️ 9K • 👍 350 • 💬 534 • ⏱️ 15:38 • 15h ago
-
----
-
-**[Bitcoin Christmas Pump STARTING RIGHT NOW?](https://www.youtube.com/watch?v=J4h8KtSNdls)**
-
-FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
-
-📺 Crypto Tips
-
-👁️ 1K • 👍 269 • 💬 21 • ⏱️ 7:45 • 3h ago
-
----
-
-**[I Know The Crypto Bull Market Is Not Yet OVER! [Here’s Proof]](https://www.youtube.com/watch?v=-i_Yh6nDsos)**
-
-Ran breaks down where we actually are in the crypto cycle using time, price, sentiment, volume, on-chain and macro signals.
-
-📺 Crypto Banter
-
-👁️ 16K • 👍 2K • 💬 40 • ⏱️ 35:30 • 5h ago
+👁️ 59K • 👍 3K • 💬 200 • ⏱️ 10:16 • 19h ago
 
 ---
 
@@ -391,17 +365,47 @@ Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation o
 
 📺 Bitcoin Magazine
 
-👁️ 4K • 👍 417 • 💬 72 • ⏱️ 42:27 • 4h ago
+👁️ 10K • 👍 1K • 💬 123 • ⏱️ 42:27 • 4h ago
 
 ---
 
-**[stocks, bitcoin, fed, and trump](https://www.youtube.com/watch?v=PvpKD0OpUAc)**
+**[Crypto’s MAD RUSH Begins: The ALTCOIN ETF Flood Is HERE.](https://www.youtube.com/watch?v=ZAQxXoQTedc)**
 
-Alpha Report Membership w/ Courses, Private Lives, & Trades: https://MeetKevin.com ❄️  ❄️ Reinvest AI Renovation ...
+Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapitalventure.ai According to Bloomberg, we could ...
 
-📺 Meet Kevin
+📺 Dan Gambardello
 
-👁️ 16K • 👍 461 • 💬 7 • ⏱️ 1:46:01 • 3h ago
+👁️ 10K • 👍 854 • 💬 407 • ⏱️ 13:24 • 5h ago
+
+---
+
+**[Bitcoin Is Bouncing As Expected. Here&#39;s My Target](https://www.youtube.com/watch?v=AMkrct5F2q4)**
+
+Stay informed with the latest insights on **bitcoin**, focusing on effective **technical analysis** and essential **chart analysis**.
+
+📺 Krown
+
+👁️ 4K • 👍 546 • 💬 330 • ⏱️ 15:14 • 4h ago
+
+---
+
+**[I Know The Crypto Bull Market Is Not Yet OVER! [Here’s Proof]](https://www.youtube.com/watch?v=-i_Yh6nDsos)**
+
+Ran breaks down where we actually are in the crypto cycle using time, price, sentiment, volume, on-chain and macro signals.
+
+📺 Crypto Banter
+
+👁️ 21K • 👍 2K • 💬 45 • ⏱️ 35:30 • 6h ago
+
+---
+
+**[Bitcoin Christmas Pump STARTING RIGHT NOW?](https://www.youtube.com/watch?v=J4h8KtSNdls)**
+
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
+
+📺 Crypto Tips
+
+👁️ 3K • 👍 462 • 💬 39 • ⏱️ 7:45 • 3h ago
 
 ---
 

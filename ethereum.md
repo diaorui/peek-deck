@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T20:53:28.001466+00:00'
+updated: '2025-12-09T21:14:49.772272+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 20:53 UTC  
+**Last Updated:** December 09, 2025 at 21:14 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.2%  
-**7d:** +4.6%  
-**30d:** -6.3%  
-**90d:** -25.3%  
-**1y:** -8.0%  
+**24h:** +5.9%  
+**7d:** +3.9%  
+**30d:** -6.9%  
+**90d:** -25.8%  
+**1y:** -8.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $401.62B
+**Market Cap:** $400.10B
 Rank #2
 
 **Circulating Supply:** 120,695,272 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--33.0%
+-32.8%
 
 **All-Time Low:** $0.43
-+765724.7%
++767369.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -154,7 +154,7 @@ I copied and pasted for ease of access. Maybe Vitalik can make an update to rais
 
 Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 3h ago
 
 Key PointsEthereum has built a strong user base and frequently generates over $10 million in daily app fees.
 
-Nasdaq • 4h ago
+Nasdaq • 5h ago
 
 ---
 
@@ -180,11 +180,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[What a $440,000 Hack Shows About the Rising Threat of Ethereum 'Permit Scams'](https://finance.yahoo.com/news/440-000-hack-shows-rising-175656652.html)**
+**[3 Reasons to Buy Ethereum Before January 2026](https://finance.yahoo.com/news/3-reasons-buy-ethereum-january-193000879.html)**
 
-A single mistake cost one user nearly half a million dollars, highlighting how scammers are escalating phishing attacks.
+Ethereum could be once again on the path to the $5,000 price level. Here's why.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -192,7 +192,7 @@ Yahoo Finance • 2h ago
 
 The trading platform dives further into digital assets both domestically and globally.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -234,7 +234,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 12K • 👍 383 • 💬 413 • ⏱️ 12:46 • 1d ago
+👁️ 13K • 👍 392 • 💬 416 • ⏱️ 12:46 • 1d ago
 
 ---
 
@@ -244,67 +244,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 145 • 💬 9 • ⏱️ 4:05 • 8h ago
+👁️ 3K • 👍 154 • 💬 11 • ⏱️ 4:05 • 9h ago
 
 ---
 
-**[ETH Ethereum PUMPING NOW!!!! Multi Day Consolidation Awaits](https://www.youtube.com/watch?v=PfBHV0uYBfM)**
+**[XRP HBAR ETH 🔥🔥HOT ALTCOIN NEWS🔥🔥](https://www.youtube.com/watch?v=pIodPbPCF1g)**
 
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+xrp #bitcoin #hbar #eth https://twitter.com/HobbiesCards XRP and HBAR Ethereum and the majority of the altcoin market is ...
 
-📺 C-Zar Gets Crypto 
+📺 CRYPTO with KLAUS
 
-👁️ 84 • 👍 14 • 💬 1 • ⏱️ 13:32 • 2h ago
-
----
-
-**[This ETH Pattern Has Only One Outcome....](https://www.youtube.com/watch?v=AB0q8tKtipY)**
-
-BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
-
-📺 Marzell Crypto
-
-👁️ 3K • 👍 76 • 💬 58 • ⏱️ 6:25 • 1d ago
+👁️ 3K • 👍 434 • 💬 119 • ⏱️ 12:55 • 2h ago
 
 ---
 
-**[Ethereum – Solana – Ripple: Jetzt endlich kaufen?](https://www.youtube.com/watch?v=iMDhv3ryYaU)**
+**[Is Ethereum the Next Amazon? Haseeb Qureshi on Revenue, Profit &amp; Long-Term Value](https://www.youtube.com/watch?v=Z5z-ewWs0Aw)**
 
-TIPP: Sichere Dir den „TraderMacher Report“ → http://www.tradermacher.de ▻ Hier könnt Ihr den Kanal abonnieren ...
+Ethereum has critics calling it “overvalued”… but what if everyone is looking at the wrong metric? In this episode, Dragonfly's ...
 
-📺 Tradermacher
+📺 Milk Road
 
-👁️ 1K • 👍 209 • 💬 21 • ⏱️ 9:57 • 3h ago
-
----
-
-**[BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Y4sZ0EGnBf0)**
-
-BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 12K • 👍 560 • 💬 320 • ⏱️ 19:51 • 22h ago
-
----
-
-**[Tom Lee Apes Ethereum and Circle Releases Privacy Stablecoin: The Daily Bone Podcast](https://www.youtube.com/watch?v=kc8qoaQfqfw)**
-
-Follow us on Twitter: https://x.com/BoDoggosENT Buy our NFT: https://www.tensor.trade/trade/bodoggos Subscribe to our Daily ...
-
-📺 The Daily Bone Podcast
-
-👁️ 450 • 👍 22 • 💬 38 • ⏱️ 50:31 • 5h ago
-
----
-
-**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2025 New Prediction]](https://www.youtube.com/watch?v=8x2DjiAw3uI)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 9K • 👍 342 • 💬 90 • ⏱️ 15:50 • 1d ago
+👁️ 408 • 👍 28 • 💬 24 • ⏱️ 35:26 • 1h ago
 
 ---
 
@@ -314,17 +274,57 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 76K • 👍 3K • 💬 336 • ⏱️ 11:32 • 2d ago
+👁️ 77K • 👍 3K • 💬 336 • ⏱️ 11:32 • 2d ago
 
 ---
 
-**[BlackRock files application with SEC for staked ether ETF: CNBC Crypto World](https://www.youtube.com/watch?v=2KhviSIAuxI)**
+**[This ETH Pattern Has Only One Outcome....](https://www.youtube.com/watch?v=AB0q8tKtipY)**
 
-On today's episode of CNBC Crypto World, bitcoin continues to trade below $90000. Plus, Ondo Finance says the SEC formally ...
+BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
 
-📺 CNBC Television
+📺 Marzell Crypto
 
-👁️ 24K • 👍 369 • 💬 385 • ⏱️ 13:30 • 1d ago
+👁️ 3K • 👍 77 • 💬 58 • ⏱️ 6:25 • 1d ago
+
+---
+
+**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2025 New Prediction]](https://www.youtube.com/watch?v=8x2DjiAw3uI)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 10K • 👍 345 • 💬 90 • ⏱️ 15:50 • 1d ago
+
+---
+
+**[The &quot;Supply Crunch&quot;: What Happens If BMNR Locks 5% of Ethereum?](https://www.youtube.com/watch?v=i_0DC9hO3dY)**
+
+Breaking News: BitMine Immersion Technologies (BMNR) has officially crossed the threshold, now controlling 3.2% of the total ...
+
+📺 CryptoStock Lab
+
+👁️ 163 • 👍 12 • ⏱️ 7:09 • 2h ago
+
+---
+
+**[Forget About Bitcoin. Ethereum Is About To 3X](https://www.youtube.com/watch?v=Fv3WoVhGEr4)**
+
+Everyone is obsessed with “Bitcoin to 100K” or “Bitcoin is dead.” In this video I explain why you should forget about Bitcoin in the ...
+
+📺 Crypto Hustle
+
+👁️ 921 • 👍 60 • 💬 11 • ⏱️ 11:10 • 12h ago
+
+---
+
+**[ETHEREUM BREAKING OUT 🚨 DEC 9](https://www.youtube.com/watch?v=G74mKDGdpUw)**
+
+ETHEREUM BREAKING OUT DEC 9.
+
+📺 Overkill Trading
+
+👁️ 195 • 👍 8 • 💬 1 • ⏱️ 0:59 • 51m ago
 
 ---
 

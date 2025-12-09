@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T20:53:28.004746+00:00'
+updated: '2025-12-09T21:14:49.775516+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 20:53 UTC  
+**Last Updated:** December 09, 2025 at 21:14 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
-7h ago
+8h ago
 
 ---
 
@@ -62,6 +62,14 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 ---
 
+**[MIT engineers give biohybrid robots a power upgrade with synthetic tendons](https://www.reddit.com/r/robotics/comments/1pie99u/mit_engineers_give_biohybrid_robots_a_power/)**
+
+Engineers build artificial tendons that let muscle-powered robots move faster and pull harder, marking a major step for biohybrid machines.
+
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 3h ago
+
+---
+
 **[Vision language navigation](https://www.reddit.com/r/robotics/comments/1piaihx/vision_language_navigation/)**
 
 Teaching Robots to Understand Natural Language Built an autonomous navigation system where you can command a robot in plain English - "go to the person" or "find the chair" - and it handles the rest. What I Learned: Distributed ROS2: Ran LLM inference on NVIDIA Jetson Orin Nano while handling vision/navigation on my main system. Multi-machine communication over ROS2 topics was seamless. Edge Al Reality: TinyLlama on Jetson's CPU takes 2-10s per command, but the 8GB unified memory and no GPU dependency makes it perfect for robotics. Real edge computing without much latency. Vision + Planning: YOLOv8 detects object classes, monocular depth estimation calculates distance, Nav2 plans the path. When the target disappears, the robot autonomously searches with 360° rotation patterns. On Jetson Orin Nano Super: Honestly impressed. It's the perfect middle ground - more capable than Raspberry Pi, more accessible than industrial modules. Running Ollama while maintaining real-time ROS2 communication proved its robotics potential. Stack: ROS2 | YOLOv8 | Ollama/TinyLlama | Nav2 | Gazebo Video shows the full pipeline - natural language → LLM parsing → detection → autonomous navigation.
@@ -70,25 +78,17 @@ Teaching Robots to Understand Natural Language Built an autonomous navigation sy
 
 ---
 
-**[MIT engineers give biohybrid robots a power upgrade with synthetic tendons](https://www.reddit.com/r/robotics/comments/1pie99u/mit_engineers_give_biohybrid_robots_a_power/)**
+**[Robot orders rise in Q3 2025 as automation demand strengthens in recent report](https://www.reddit.com/r/robotics/comments/1pihi93/robot_orders_rise_in_q3_2025_as_automation_demand/)**
 
-Engineers build artificial tendons that let muscle-powered robots move faster and pull harder, marking a major step for biohybrid machines.
+North American robot orders picked up again in Q3 2025, pointing to renewed momentum in manufacturing automation after a slower period. According to the latest market data, companies in North America ordered 8,806 robots in the third quarter, worth about $574 million. That works out to an 11.6 percent increase in units and a 17.2 percent increase in revenue compared to the same quarter last year. The most notable gains came from food and consumer goods, where robot orders were up more than 100 percent year over year, and from automotive OEMs, which saw orders rise sharply as well. Metals and general manufacturing also posted growth, while automotive components and plastics and rubber recorded declines, suggesting a more selective investment cycle in those segments.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 2h ago
+1h ago
 
 ---
 
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
 1d ago
-
----
-
-**[Robot orders rise in Q3 2025 as automation demand strengthens in recent report](https://www.reddit.com/r/robotics/comments/1pihi93/robot_orders_rise_in_q3_2025_as_automation_demand/)**
-
-North American robot orders picked up again in Q3 2025, pointing to renewed momentum in manufacturing automation after a slower period. According to the latest market data, companies in North America ordered 8,806 robots in the third quarter, worth about $574 million. That works out to an 11.6 percent increase in units and a 17.2 percent increase in revenue compared to the same quarter last year. The most notable gains came from food and consumer goods, where robot orders were up more than 100 percent year over year, and from automotive OEMs, which saw orders rise sharply as well. Metals and general manufacturing also posted growth, while automotive components and plastics and rubber recorded declines, suggesting a more selective investment cycle in those segments.
-
-54m ago
 
 ---
 
@@ -102,7 +102,7 @@ North American robot orders picked up again in Q3 2025, pointing to renewed mome
 
 **[Inverted Double Pendulum in Isaac Lab](https://www.reddit.com/r/robotics/comments/1pi8anb/inverted_double_pendulum_in_isaac_lab/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -132,35 +132,27 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://finance.yahoo.com/news/tether-invests-italian-robotics-startup-230239090.html)**
+
+Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
+
+Yahoo Finance • 22h ago
+
+---
+
 **[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
 
 Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
 
-Decrypt • 21h ago
+Decrypt • 22h ago
 
 ---
 
-**[Video Shows Robot Attacking CEO](https://futurism.com/robots-and-machines/robot-attacks-ceo)**
-
-The Chinese robotics firm EngineAI lets its humanoid robot loose on its CEO, whom it promptly proceeds to lay out.
-
-Futurism • 23h ago
-
----
-
-**[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai)**
+**[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai/)**
 
 SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
 
 PYMNTS.com • 23h ago
-
----
-
-**[Moorhead robotics team builds head-activated device to help first-grader raise her hand](https://www.valleynewslive.com/2025/12/08/moorhead-robotics-team-builds-head-activated-device-help-first-grader-raise-her-hand/)**
-
-1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
-
-Valley News Live • 21h ago
 
 ---
 
@@ -172,17 +164,27 @@ MLive.com • 4h ago
 
 ---
 
-**[Serve Robotics Extends Autonomous Delivery to Fort Lauderdale](https://finance.yahoo.com/news/serve-robotics-extends-autonomous-delivery-153500451.html)**
+**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
 
-SERV expands its autonomous delivery network to Fort Lauderdale, deepening its South Florida presence through Uber Eats.
+Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
 
 Yahoo Finance • 1d ago
 
 ---
 
-**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://www.marketbeat.com/stock-ideas/5-robotics-stocks-catching-momentum-after-new-policy-tailwinds/)**
+**[Moorhead robotics team builds head-activated device to help first-grader raise her hand](https://www.valleynewslive.com/2025/12/08/moorhead-robotics-team-builds-head-activated-device-help-first-grader-raise-her-hand/)**
 
-MarketBeat • 9h ago
+1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
+
+Valley News Live • 22h ago
+
+---
+
+**[‘World’s first’ AGI system: Tokyo firm claims it built model with human-level reasoning](https://interestingengineering.com/ai-robotics/worlds-first-agi-model)**
+
+The company, founded by an ex-Google veteran, claims its new system constitutes a 'fundamental leap' beyond existing AI technologies.
+
+Interesting Engineering • 5h ago
 
 ---
 
@@ -196,7 +198,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 21K • 👍 466 • 💬 200 • ⏱️ 14:26 • 1d ago
+👁️ 23K • 👍 511 • 💬 207 • ⏱️ 14:26 • 1d ago
 
 ---
 
@@ -208,13 +210,21 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 ---
 
-**[China&#39;s T800 Humanoid Robot KICKS Creator to the Ground to Prove It&#39;s Real!](https://www.youtube.com/watch?v=QfkH61jNZhs)**
+**[🏃🤖 Figure 03 Runs LIKE A HUMAN! Watch the PERFECT #RobotTurn. #figureai #humanoid #robotics](https://www.youtube.com/watch?v=DDrNbLVUBwU)**
 
-The founder and CEO of EngineAI just took a robot kick to the chest in an attempt to prove the Shenzhen startup's new T800 ...
+📺 XRoboHub
 
-📺 Kalil 4.0
+👁️ 519K • 👍 8K • 💬 869 • ⏱️ 0:22 • 5d ago
 
-👁️ 2K • 👍 45 • 💬 30 • ⏱️ 8:31 • 20h ago
+---
+
+**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
+
+AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
+
+📺 AI Robot Lab
+
+👁️ 31K • 👍 331 • 💬 10 • ⏱️ 0:25 • 2d ago
 
 ---
 
@@ -224,15 +234,7 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 194K • 👍 863 • 💬 292 • ⏱️ 1:03 • 3d ago
-
----
-
-**[🏃🤖 Figure 03 Runs LIKE A HUMAN! Watch the PERFECT #RobotTurn. #figureai #humanoid #robotics](https://www.youtube.com/watch?v=DDrNbLVUBwU)**
-
-📺 XRoboHub
-
-👁️ 518K • 👍 8K • 💬 869 • ⏱️ 0:22 • 5d ago
+👁️ 196K • 👍 876 • 💬 292 • ⏱️ 1:03 • 3d ago
 
 ---
 
@@ -246,33 +248,23 @@ Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G
 
 ---
 
-**[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
-
-Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
-
-📺 MarketBeat
-
-👁️ 43K • 👍 1K • 💬 99 • ⏱️ 24:47 • 3d ago
-
----
-
-**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
-
-AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
-
-📺 AI Robot Lab
-
-👁️ 29K • 👍 312 • 💬 10 • ⏱️ 0:25 • 2d ago
-
----
-
 **[2025: This AI Caregiver Robot Comforts a Baby Like a Real Parent in a Silicon Valley Home](https://www.youtube.com/watch?v=LFTUzGo3rmM)**
 
 In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comforts a baby with perfect calm and precision.
 
 📺 AI Robot Lab
 
-👁️ 5K • 👍 56 • 💬 2 • ⏱️ 0:24 • 9h ago
+👁️ 6K • 👍 64 • 💬 3 • ⏱️ 0:24 • 10h ago
+
+---
+
+**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
+
+After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
+
+📺 Kalil 4.0
+
+👁️ 14K • 👍 271 • 💬 34 • ⏱️ 0:59 • 2d ago
 
 ---
 
@@ -282,7 +274,17 @@ At the Silicon Valley Robotics Expo 2025, engineers demonstrate a futuristic AI 
 
 📺 AI Robot Lab
 
-👁️ 7K • 👍 57 • ⏱️ 0:24 • 5h ago
+👁️ 11K • 👍 81 • 💬 1 • ⏱️ 0:24 • 6h ago
+
+---
+
+**[China Just Launched SLAUGHTERBOTS: A Fully AI-Controlled Robot Army](https://www.youtube.com/watch?v=Plp8-cJYuVE)**
+
+Humanoid robots are leaving labs and moving into real deployment, with China pushing ahead fastest. Mass-produced ...
+
+📺 AI Revolution
+
+👁️ 115K • 👍 2K • 💬 435 • ⏱️ 12:07 • 3d ago
 
 ---
 

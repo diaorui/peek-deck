@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T20:53:27.986668+00:00'
+updated: '2025-12-09T21:14:49.757842+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
+- social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 20:53 UTC  
+**Last Updated:** December 09, 2025 at 21:14 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 5h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 Shoppers may be unaware they're paying as much as 23% more than others for the same grocery items on Instacart, a new analysis says.
 
-🔗 [cbsnews.com](https://www.cbsnews.com/news/instacart-price-discrepancies-investigation/) • 48m ago
+🔗 [cbsnews.com](https://www.cbsnews.com/news/instacart-price-discrepancies-investigation/) • 1h ago
 
 ---
 
@@ -103,7 +103,7 @@ GPT-5.2 rumored to drop today Meta acquires AI wearable company Buy groceries wi
 
 President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-🔗 [CNN](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws) • 4h ago
+🔗 [CNN](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws) • 5h ago
 
 ---
 
@@ -129,47 +129,31 @@ The New York Times • 4h ago
 
 Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
-**[Nearly a third of American teens interact with AI chatbots daily, study finds](https://www.cnn.com/2025/12/09/tech/teens-ai-chatbot-use-study)**
+**['Customers don't care about AI' — they just want to boost cash flow and make ends meet, Intuit CEO says](https://fortune.com/2025/12/09/ai-agents-business-applications-sales-cash-flow-intuit-ceo/)**
 
-Nearly a third of US teenagers say they use AI chatbots daily, a new study finds, shedding light on how young people are embracing a technology that’s raised critical safety concerns around mental health impacts and exposure to mature content for kids.
+"A business is trying to get more customers. They're trying to manage their customers, sell them more services."
 
-CNN • 52m ago
-
----
-
-**[The problem with ‘human in the loop’ AI? Often, it’s the humans](https://fortune.com/2025/12/09/ai-tools-outperform-human-professionals-law-advertising-ai-alone/)**
-
-New studies show AI tools beating human professionals in law and advertising—challenging the assumption that human-AI collaboration always produces the best results.
-
-Fortune • 40m ago
+Fortune • 33m ago
 
 ---
 
-**[Trump greenlights Nvidia H200 AI chip sales to China if U.S. gets 25% cut, says Xi responded positively](https://www.cnbc.com/2025/12/08/trump-nvidia-h200-sales-china.html)**
+**[Video Creator of AI actress Tilly Norwood on future of AI in film](https://abcnews.go.com/Entertainment/video/creator-ai-actress-tilly-norwood-future-ai-film-128255983)**
 
-Nvidia and chip rival Advanced Micro Devices agreed over the summer to share 15% of the revenue from China chip sales with the U.S. government.
+Eline Van Der Velden, founder and CEO of Particle6 and creator of AI actress Tilly Norwood, addressed the pushback that AI actors are going to replace human ones.
 
-CNBC • 23h ago
-
----
-
-**[Trump gives Nvidia the OK to sell advanced AI chips to China](https://www.bbc.com/news/articles/ckg9q635q6po)**
-
-Nvidia had been at the centre of a geopolitical tug-of-war between the US and China in recent months.
-
-BBC • 18h ago
+ABC News • 37m ago
 
 ---
 
-**[Tech Voices: Nvidia China chip sales, Gates on AI bubble, Google AI](https://seekingalpha.com/news/4529831-tech-voices-nvidia-china-chip-sales-gates-on-ai-bubble-google-ai)**
+**[Oracle's AI-fueled debt load has investors on edge ahead of quarterly earnings](https://www.cnbc.com/2025/12/09/oracles-ai-fueled-debt-load-has-investors-on-edge-ahead-of-earnings.html)**
 
-Seeking Alpha's roundup of statements, announcements, or remarks that could impact the technology sector. Read more here.
+Oracle's fiscal second-quarter results will be a crucial test for the AI trade and whether demand justifies the company's buildout plans.
 
-Seeking Alpha • 1h ago
+CNBC • 41m ago
 
 ---
 
@@ -181,15 +165,33 @@ Menlo Ventures • 8h ago
 
 ---
 
+**[Nearly a third of American teens interact with AI chatbots daily, study finds](https://www.cnn.com/2025/12/09/tech/teens-ai-chatbot-use-study)**
+
+Nearly a third of US teenagers say they use AI chatbots daily, a new study finds, shedding light on how young people are embracing a technology that’s raised critical safety concerns around mental health impacts and exposure to mature content for kids.
+
+CNN • 1h ago
+
+---
+
+**[28% of U.S. teens say they use AI chatbots daily, poll says](https://www.nbcnews.com/tech/social-media/28-us-teens-say-use-ai-chatbots-daily-poll-says-rcna248133)**
+
+The survey from Pew Research Center found that ChatGPT is the most popular artificial intelligence app among teens.
+
+NBC News • 1h ago
+
+---
+
 **[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
 
 The Economist • 23h ago
 
 ---
 
-**[Howard Marks Says AI Is ‘Terrifying’ for Jobs, Queries Debt Cost](https://www.bloomberg.com/news/articles/2025-12-09/howard-marks-says-ai-is-terrifying-for-jobs-queries-debt-cost)**
+**[AI and recruitment: Are we in a 'race to the bottom'?](https://www.bbc.com/news/articles/ced6jv76091o)**
 
-Bloomberg.com • 3h ago
+AI helps jobseekers to apply for hundreds of roles, meanwhile employers use AI to filter them.
+
+BBC • 21h ago
 
 ---
 
@@ -207,7 +209,7 @@ Bloomberg.com • 3h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 528 • 💬 499 • 20h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 530 • 💬 509 • 20h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -221,7 +223,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 188 • 💬 170 • 1d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 189 • 💬 171 • 1d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -235,7 +237,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 98 • 💬 114 • 5h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 119 • 💬 136 • 6h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -243,13 +245,13 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 61 • 💬 27 • 3h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 83 • 💬 37 • 4h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
-⬆️ 51 • 💬 14 • 2d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
+⬆️ 52 • 💬 14 • 2d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
 
 ---
 
@@ -257,7 +259,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
 
-⬆️ 50 • 💬 102 • 5h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
+⬆️ 50 • 💬 103 • 6h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
 
 ---
 
@@ -279,17 +281,17 @@ JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, cryp
 
 📺 Fox Business
 
-👁️ 74K • 👍 1K • 💬 394 • ⏱️ 18:47 • 1d ago
+👁️ 78K • 👍 1K • 💬 410 • ⏱️ 18:47 • 1d ago
 
 ---
 
-**[New Largest AI Datacenter — Not a Single GPU Inside](https://www.youtube.com/watch?v=N10w1KvFKNQ)**
+**[New Largest AI Datacenter — Zero GPUs Inside](https://www.youtube.com/watch?v=N10w1KvFKNQ)**
 
 Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTECHDEC2 - 100% Discount for the first 1000 ...
 
 📺 Anastasi In Tech
 
-👁️ 168K • 👍 10K • 💬 1K • ⏱️ 31:03 • 23h ago
+👁️ 177K • 👍 11K • 💬 1K • ⏱️ 31:03 • 23h ago
 
 ---
 
@@ -299,7 +301,27 @@ Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsai
 
 📺 hxsain
 
-👁️ 18K • 👍 1K • 💬 70 • ⏱️ 0:51 • 2h ago
+👁️ 65K • 👍 8K • 💬 152 • ⏱️ 0:51 • 2h ago
+
+---
+
+**[QUANTUM WILL ECLIPSE AI: Why Everyone’s Betting on the Wrong Horse](https://www.youtube.com/watch?v=aNpVFovnZ-E)**
+
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+
+📺 Julia McCoy
+
+👁️ 62K • 👍 4K • 💬 555 • ⏱️ 15:03 • 2d ago
+
+---
+
+**[Software could start benefitting from AI in 2026, says Intelligent Alpha CEO Doug Clinton](https://www.youtube.com/watch?v=yj1cYCeMgPw)**
+
+Doug Clinton, Intelligent Alpha founder and CEO, joins 'Squawk Box' to discuss the impact of a potential December Fed rate cut ...
+
+📺 CNBC Television
+
+👁️ 3K • 👍 22 • 💬 21 • ⏱️ 3:19 • 6h ago
 
 ---
 
@@ -309,7 +331,7 @@ Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS
 
 📺 AI Revolution
 
-👁️ 27K • 👍 847 • 💬 63 • ⏱️ 13:12 • 20h ago
+👁️ 29K • 👍 893 • 💬 65 • ⏱️ 13:12 • 20h ago
 
 ---
 
@@ -319,37 +341,27 @@ Big Tech is racking up debt to fund their AI infrastructure for demand that seem
 
 📺 Vanessa Wingårdh
 
-👁️ 141K • 👍 10K • 💬 2K • ⏱️ 10:38 • 2d ago
+👁️ 143K • 👍 10K • 💬 2K • ⏱️ 10:38 • 2d ago
 
 ---
 
-**[OpenAI&#39;s New GARLIC AI, Apple&#39;s Clara, Live Avatar and More Intense AI News](https://www.youtube.com/watch?v=3n_dWlNkcY8)**
+**[Why is Everyone So Wrong About AI Water Use??](https://www.youtube.com/watch?v=H_c6MWk7PQc)**
 
-OpenAI is in a full internal race after a major leak revealed a new model called Garlic outperforming Gemini 3 and Claude in ...
+Go to https://ground.news/hank for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage ...
 
-📺 AI Revolution
+📺 Hank Green
 
-👁️ 107K • 👍 2K • 💬 161 • ⏱️ 12:31 • 1d ago
-
----
-
-**[Tennessee A.I. regulations in jeopardy of being banned by executive order](https://www.youtube.com/watch?v=gaKscYt4NfQ)**
-
-President Trump is renewing his push to ban state AI regulations.
-
-📺 WKRN News 2
-
-👁️ 2K • 👍 12 • 💬 11 • ⏱️ 2:16 • 22h ago
+👁️ 796K • 👍 42K • 💬 6K • ⏱️ 24:00 • 23h ago
 
 ---
 
-**[SORA AI Disney Trailers That Make No Sense](https://www.youtube.com/watch?v=MlMqcBskVCU)**
+**[&#39;Godfather of AI&#39; warns of existential risks | GZERO World with Ian Bremmer](https://www.youtube.com/watch?v=tuCBVuzTKAU)**
 
-SORA AI Disney Trailers That Make No Sense #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips #aimeme ...
+Geoffrey Hinton, the 'Godfather of AI' tells Ian Bremmer on GZERO World AI will soon outpace human intelligence and warns the ...
 
-📺 Bigfoot Feed
+📺 GZERO Media
 
-👁️ 70K • 👍 1K • 💬 33 • ⏱️ 0:55 • 1d ago
+👁️ 23K • 👍 484 • 💬 68 • ⏱️ 21:45 • 1d ago
 
 ---
 
@@ -359,17 +371,7 @@ Use DeepAgent To Help You Start a Business with AI: https://deepagent.abacus.ai/
 
 📺 Rob The AI Guy
 
-👁️ 5K • 👍 195 • 💬 42 • ⏱️ 17:47 • 2d ago
-
----
-
-**[Which stairs would you take? Oddly Satisfying AI ASMR Pt.8😌🎧](https://www.youtube.com/watch?v=i8uBKUA3tVo)**
-
-Join Impossible AIs and unlock exclusive perks! ✨ https://www.youtube.com/@ImpossibleAIs-c9z/videos Ascend into tranquility ...
-
-📺 Impossible AIs
-
-👁️ 14K • 👍 95 • 💬 5 • ⏱️ 12:21 • 9h ago
+👁️ 5K • 👍 198 • 💬 42 • ⏱️ 17:47 • 2d ago
 
 ---
 
@@ -385,7 +387,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 217,428 • ❤️ 2,415 • 1d ago
+⬇️ 217,428 • ❤️ 2,418 • 1d ago
 
 ---
 
@@ -397,7 +399,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 56,958 • ❤️ 585 • 16h ago
+⬇️ 56,958 • ❤️ 589 • 16h ago
 
 ---
 
@@ -431,7 +433,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 6,920 • ❤️ 222 • 2h ago
+⬇️ 6,920 • ❤️ 222 • 3h ago
 
 ---
 
@@ -477,7 +479,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 4,106 • ❤️ 409 • 7d ago
+⬇️ 4,106 • ❤️ 410 • 7d ago
 
 ---
 
@@ -489,7 +491,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 `text-generation` `8.3B`
 
-⬇️ 443,437 • ❤️ 165 • 23h ago
+⬇️ 443,437 • ❤️ 165 • 1d ago
 
 ---
 
@@ -661,7 +663,7 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.3k • 🔱 160 • 3h ago
+⭐ 1.3k • 🔱 160 • 4h ago
 
 ---
 
@@ -701,7 +703,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 894 • 🔱 63 • 9h ago
+⭐ 894 • 🔱 63 • 10h ago
 
 ---
 
@@ -721,7 +723,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 845 • 🔱 46 • 17h ago
+⭐ 845 • 🔱 46 • 18h ago
 
 ---
 
