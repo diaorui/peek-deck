@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T08:29:59.081316+00:00'
+updated: '2025-12-09T08:56:03.924129+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 08:29 UTC  
+**Last Updated:** December 09, 2025 at 08:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -90,7 +90,7 @@ Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a sh
 
 According to Reuters, NVIDIA and SoftBank, combined, are looking to invest more than $1 billion into Skild AI.
 
-🔗 [Windows Report](https://windowsreport.com/softbank-nvidia-reportedly-in-talks-to-invest-over-1-billion-into-skild-ai/) • 14h ago
+🔗 [Windows Report](https://windowsreport.com/softbank-nvidia-reportedly-in-talks-to-invest-over-1-billion-into-skild-ai/) • 15h ago
 
 ---
 
@@ -118,7 +118,7 @@ Just sharing a small test clip from a sim environment: simple walking + a few co
 
 The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
 
-Breaking Defense • 17h ago
+Breaking Defense • 18h ago
 
 ---
 
@@ -156,7 +156,7 @@ Decrypt • 9h ago
 
 SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
 
-PYMNTS.com • 10h ago
+PYMNTS.com • 11h ago
 
 ---
 
@@ -210,7 +210,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI . Robot
 
-👁️ 53K • 👍 789 • 💬 15 • ⏱️ 0:19 • 19h ago
+👁️ 53K • 👍 789 • 💬 15 • ⏱️ 0:19 • 20h ago
 
 ---
 

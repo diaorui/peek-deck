@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T08:29:59.073152+00:00'
+updated: '2025-12-09T08:56:03.915683+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 08:29 UTC  
+**Last Updated:** December 09, 2025 at 08:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.9%  
-**7d:** -3.6%  
-**30d:** -14.9%  
-**90d:** -21.7%  
-**1y:** -6.4%  
+**24h:** -1.6%  
+**7d:** -3.4%  
+**30d:** -14.7%  
+**90d:** -21.5%  
+**1y:** -6.2%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-6h ago
+7h ago
 
 ---
 
@@ -99,7 +99,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -119,13 +119,13 @@ They have a promotion going on with Ledger
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
 
-12h ago
+13h ago
 
 ---
 
 **[...and then they join you.](https://www.reddit.com/r/Bitcoin/comments/1phxg26/and_then_they_join_you/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -139,7 +139,7 @@ They have a promotion going on with Ledger
 
 Back in 2011–2013, physical bitcoins were actually a thing. They were known as Casascius Coins — metal tokens with a hologram on the back hiding a private key printed on paper. Peel the hologram, and the BTC could be moved to a regular blockchain address. What makes this story even wilder is how many people never touched them for years. Some holders treated these coins like collectibles, others forgot about them entirely. Only recently, more and more of these physical bitcoins have been getting redeemed after sitting untouched for a decade or more. From novelty item to time capsule holding real money, Casascius coins remain one of the strangest and most iconic relics of early Bitcoin history.
 
-16h ago
+17h ago
 
 ---
 
@@ -159,7 +159,7 @@ Financial Times • 15h ago
 
 BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -189,7 +189,7 @@ Barron's • 18h ago
 
 Texas has launched its new cryptocurrency reserve with a $5 million purchase of Bitcoin as the state continues to embrace the volatile and controversial digital currency. The Texas Comptroller’s Office confirmed the purchase was made last month as a “placeholder investment” while the office works to contract with a cryptocurrency bank to manage its portfolio. […]
 
-Baton Rouge Business Report • 11h ago
+Baton Rouge Business Report • 12h ago
 
 ---
 
@@ -197,7 +197,7 @@ Baton Rouge Business Report • 11h ago
 
 Investors should treat bitcoin as the volatile, high-risk asset it is. A look at the data, along with comparisons to the Magnificent 7 stocks, indicates a small (1% to 2%) portfolio allocation for most investors would be the safest.
 
-Kiplinger • 21h ago
+Kiplinger • 22h ago
 
 ---
 
@@ -219,7 +219,7 @@ Business Insider • 21h ago
 
 Acting Chair Caroline Pham has unveiled a first-of-its-kind U.S. program to permit tokenized collateral in derivatives markets, citing "clear guardrails" for firms.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -319,7 +319,7 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Matt & Justus
 
-👁️ 365K • 👍 34K • 💬 154 • ⏱️ 1:00 • 13h ago
+👁️ 365K • 👍 34K • 💬 154 • ⏱️ 1:00 • 14h ago
 
 ---
 
@@ -329,7 +329,7 @@ Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. 
 
 📺 Simply Bitcoin
 
-👁️ 34K • 👍 3K • 💬 404 • ⏱️ 16:35 • 9h ago
+👁️ 34K • 👍 3K • 💬 404 • ⏱️ 16:35 • 10h ago
 
 ---
 

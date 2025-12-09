@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T08:29:59.065600+00:00'
+updated: '2025-12-09T08:56:03.907754+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 08:29 UTC  
+**Last Updated:** December 09, 2025 at 08:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai says no job, not even his own, is safe. But those who don’t adapt will be the first to fall.
 
-🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 10h ago
+🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 11h ago
 
 ---
 
@@ -63,7 +63,7 @@ AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai sa
 
 At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
 
-🔗 [withmartian.com](https://withmartian.com/prize) • 19h ago
+🔗 [withmartian.com](https://withmartian.com/prize) • 20h ago
 
 ---
 
@@ -79,7 +79,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming releases by names that resemble existing trademarks.
 
-🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 11h ago
+🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 12h ago
 
 ---
 
@@ -87,7 +87,7 @@ From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming r
 
 Google’s AI try-on app Doppl adds a shoppable discovery feed.[1] Claude Code is coming to Slack, and that’s a bigger deal than it sounds.[2] Google Colab Integrates KaggleHub for One Click Access to Kaggle Datasets, Models and Competitions.[3] Trump says AI executive order limiting state rules coming this week.[4] Sources: [1] https://techcrunch.com/2025/12/08/googles-ai-try-on-app-doppl-adds-a-shoppable-discovery-feed/ [2] https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/ [3] https://www.marktechpost.com/2025/12/07/google-colab-integrates-kagglehub-for-one-click-access-to-kaggle-datasets-models-and-competitions/ [4] https://www.politico.com/news/2025/12/08/trump-says-ai-executive-order-limiting-state-rules-coming-this-week-00680557
 
-2h ago
+3h ago
 
 ---
 
@@ -103,7 +103,7 @@ IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks b
 
 The president announced the plans to create one rulebook for AI via his Truth Social account on Monday.
 
-🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 16h ago
+🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 17h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 14h ago
 
 **[EU launches antitrust probe into Google's use of online content for AI purposes](https://www.reuters.com/sustainability/boards-policy-regulation/eu-launches-antitrust-probe-into-googles-use-online-content-ai-purposes-2025-12-09/)**
 
-Reuters • 13m ago
+Reuters • 39m ago
 
 ---
 
@@ -175,7 +175,7 @@ Reuters • 13m ago
 
 “Borrowing by AI companies should be on the radar screen as a mounting potential threat to the financial system and broader economy."
 
-Fortune • 27m ago
+Fortune • 54m ago
 
 ---
 
@@ -207,7 +207,7 @@ The Economist • 11h ago
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 395 • 💬 340 • 15h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 395 • 💬 340 • 16h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -221,7 +221,7 @@ AI progress is steady. Human equivalence is sudden.
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 151 • 💬 135 • 14h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 151 • 💬 135 • 15h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -357,7 +357,7 @@ Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Fu
 
 📺 Dan Kieft
 
-👁️ 21K • 💬 26 • ⏱️ 20:04 • 15h ago
+👁️ 21K • 💬 26 • ⏱️ 20:04 • 16h ago
 
 ---
 
@@ -383,7 +383,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,378 • 15h ago
+⬇️ 201,990 • ❤️ 2,378 • 16h ago
 
 ---
 
@@ -441,7 +441,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 0 • ❤️ 176 • 2h ago
+⬇️ 0 • ❤️ 176 • 3h ago
 
 ---
 
@@ -475,7 +475,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 0 • ❤️ 165 • 2h ago
+⬇️ 0 • ❤️ 165 • 3h ago
 
 ---
 
@@ -503,7 +503,7 @@ Ministral 3 14B Instruct is a powerful, edge-optimized multilingual vision-langu
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 166 • 💬 3 • ⭐ 5,803 • 11d ago
+▲ 166 • 💬 3 • ⭐ 5,926 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -531,7 +531,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 48 • 💬 2 • ⭐ 878 • 7d ago
+▲ 49 • 💬 2 • ⭐ 878 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -557,7 +557,7 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 RealGen is a photorealistic text-to-image framework that uses an LLM for prompt optimization and a diffusion model for image generation, enhanced by a Detector Reward mechanism and RealBench for automated evaluation.
 
-▲ 13 • 💬 2 • ⭐ 105 • 10d ago
+▲ 14 • 💬 2 • ⭐ 105 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.00473) • [💻 code](https://github.com/yejy53/RealGen) • [🔗 project](https://yejy53.github.io/RealGen/)
 
@@ -609,23 +609,23 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 35 • 💬 2 • ⭐ 246 • 4d ago
+▲ 36 • 💬 2 • ⭐ 246 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
 ---
 
-**[PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://huggingface.co/papers/2510.14528)**
+**[DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle](https://huggingface.co/papers/2512.04324)**
 
-*Cheng Cui, Ting Sun, Suyin Liang et al. (18 authors)*
+*Fangyu Lei, Jinxiang Meng, Yiming Huang et al. (17 authors)*
 
-🏢 PaddlePaddle
+🏢 ByteDance Seed
 
-PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution and ERNIE, achieves state-of-the-art performance in document parsing and element recognition with high efficiency.
+DAComp is a benchmark of 210 tasks that evaluates the capabilities of agents in real-world data engineering and data analysis workflows, revealing significant deficiencies in both areas.
 
-▲ 104 • 💬 6 • ⭐ 65,986 • 1mo ago
+▲ 141 • 💬 5 • ⭐ 94 • 5d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2510.14528) • [💻 code](https://github.com/PaddlePaddle/PaddleOCR)
+[🎓 arXiv](https://arxiv.org/abs/2512.04324) • [💻 code](https://github.com/ByteDance-Seed/DAComp) • [🔗 project](https://da-comp.github.io/)
 
 ---
 
@@ -639,7 +639,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.5k • 🔱 438 • 47m ago
+⭐ 5.5k • 🔱 439 • 1h ago
 
 ---
 
@@ -649,7 +649,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 16h ago
+⭐ 1.6k • 🔱 132 • 17h ago
 
 ---
 
@@ -663,6 +663,16 @@ AI-powered git commit message rewriter using Ollama or GPT
 
 ---
 
+**[Anionex/banana-slides](https://github.com/Anionex/banana-slides)**
+
+一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材；一句话/大纲/页面描述自动生成PPT，自动使用链接图片；口头修改指定区域、一键导出
+
+`Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
+
+⭐ 1.1k • 🔱 141 • 12m ago
+
+---
+
 **[Norsico/Video-Materials-AutoGEN-Workstation](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)**
 
 一个集内容策划、AI文案自动生成、TTS 批量自动配音、(AI)图片素材合成、ASR自动提取语言字幕脚本、AI自由创作于一体的(短视频)生成工作站。方便管理每期的视频项目。
@@ -673,23 +683,13 @@ AI-powered git commit message rewriter using Ollama or GPT
 
 ---
 
-**[Anionex/banana-slides](https://github.com/Anionex/banana-slides)**
-
-一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材；一句话/大纲/页面描述自动生成PPT，自动使用链接图片；口头修改指定区域、一键导出
-
-`Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
-
-⭐ 1.0k • 🔱 140 • 1h ago
-
----
-
 **[bscript/rep](https://github.com/bscript/rep)**
 
 rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to explain requests and suggest attacks
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 123 • 9h ago
+⭐ 1.0k • 🔱 123 • 10h ago
 
 ---
 
@@ -699,7 +699,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 875 • 🔱 60 • 8d ago
+⭐ 879 • 🔱 60 • 8d ago
 
 ---
 
@@ -709,7 +709,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 848 • 🔱 22 • 1d ago
+⭐ 849 • 🔱 22 • 1d ago
 
 ---
 
@@ -719,7 +719,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 838 • 🔱 45 • 5h ago
+⭐ 839 • 🔱 45 • 5h ago
 
 ---
 
@@ -729,7 +729,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 824 • 🔱 268 • 3d ago
+⭐ 827 • 🔱 268 • 3d ago
 
 ---
 
