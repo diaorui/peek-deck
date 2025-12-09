@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T14:29:45.650853+00:00'
+updated: '2025-12-09T14:51:59.998006+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 14:29 UTC  
+**Last Updated:** December 09, 2025 at 14:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Self-driving delivery vehicles, in rural parts of China, now move along village roads by themselves, dropping off daily goods to local shops](https://www.reddit.com/r/robotics/comments/1pi4b61/selfdriving_delivery_vehicles_in_rural_parts_of/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -58,7 +58,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 "May the sensors be with you "
 
-1h ago
+2h ago
 
 ---
 
@@ -70,7 +70,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 **[Inverted Double Pendulum in Isaac Lab](https://www.reddit.com/r/robotics/comments/1pi8anb/inverted_double_pendulum_in_isaac_lab/)**
 
-23m ago
+45m ago
 
 ---
 
@@ -84,7 +84,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 **[Which desktop robot would you choose?](https://www.reddit.com/r/robotics/comments/1pi7mj1/which_desktop_robot_would_you_choose/)**
 
-51m ago
+1h ago
 
 ---
 
@@ -118,7 +118,7 @@ Tech Xplore • 23h ago
 
 The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
 
-Breaking Defense • 23h ago
+Breaking Defense • 1d ago
 
 ---
 
@@ -150,7 +150,7 @@ Futurism • 17h ago
 
 SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
 
-PYMNTS.com • 16h ago
+PYMNTS.com • 17h ago
 
 ---
 
@@ -174,7 +174,7 @@ Interesting Engineering • 22h ago
 
 SERV expands its autonomous delivery network to Fort Lauderdale, deepening its South Florida presence through Uber Eats.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -204,7 +204,7 @@ The founder and CEO of EngineAI just took a robot kick to the chest in an attemp
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 33 • 💬 25 • ⏱️ 8:31 • 13h ago
+👁️ 1K • 👍 33 • 💬 25 • ⏱️ 8:31 • 14h ago
 
 ---
 

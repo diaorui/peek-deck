@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T14:29:45.645244+00:00'
+updated: '2025-12-09T14:51:59.994091+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 14:29 UTC  
+**Last Updated:** December 09, 2025 at 14:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,131.87
+### $3,106.09
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -2.7%  
-**30d:** -12.9%  
-**90d:** -30.5%  
-**1y:** -14.4%  
+**24h:** -0.1%  
+**7d:** -2.4%  
+**30d:** -12.6%  
+**90d:** -30.3%  
+**1y:** -14.1%  
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Five years ago, an Ethereum standards author was threatened with trademark legal action over the name of a smart contract standard](https://www.reddit.com/r/ethereum/comments/1phe1xy/five_years_ago_an_ethereum_standards_author_was/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 23h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 1d ago
 
 ---
 
@@ -196,7 +196,7 @@ Binance • 22h ago
 
 **[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -220,7 +220,7 @@ CoinDesk • 1d ago
 
 Ethereum is compressing just below a critical resistance band near $3,300–$3,350, even as the broader crypto market remains unsettled by Bitcoin’s choppy price action around $43,000–$44,000. Despite the volatility, the ETH price has defended support near $3,050, forming a tight consolidation range…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
@@ -254,7 +254,7 @@ Demat Account Dhan - https://invite.dhan.co/?invite=XDFET56312 Get Free access o
 
 📺 Trade with Burner
 
-👁️ 3K • 👍 408 • 21m ago
+👁️ 3K • 👍 408 • 43m ago
 
 ---
 
@@ -264,7 +264,7 @@ US M2 money supply just hit a new all-time high, and Bitcoin always seems to fol
 
 📺 Altcoin Buzz
 
-👁️ 238 • 👍 20 • 💬 64 • ⏱️ 14:52 • 27m ago
+👁️ 238 • 👍 20 • 💬 64 • ⏱️ 14:52 • 49m ago
 
 ---
 
@@ -324,7 +324,7 @@ Everyone is obsessed with “Bitcoin to 100K” or “Bitcoin is dead.” In thi
 
 📺 Crypto Hustle
 
-👁️ 535 • 👍 49 • 💬 4 • ⏱️ 11:10 • 5h ago
+👁️ 535 • 👍 49 • 💬 4 • ⏱️ 11:10 • 6h ago
 
 ---
 

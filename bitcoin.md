@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T14:29:45.638475+00:00'
+updated: '2025-12-09T14:51:59.987877+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 14:29 UTC  
+**Last Updated:** December 09, 2025 at 14:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,265.61
+### $90,274.39
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Swim with the whales](https://www.reddit.com/r/Bitcoin/comments/1pi4cuq/swim_with_the_whales/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 I’ve now held bitcoin for 4 years and bought with every penny I had spare at £44k I have 1.1 btc, the price now is £66k, I have to be honest, with everything that has happened since I bought I’m a little disappointed on the returns, like everyone we’ve all got our plans in life, maybe I was naive but my plan was to eventually buy a small flat in England and the returns don’t even cover the inflation on properties here, and for anyone saying you should DCA, the money I have used since I’ve travelled to 20 countries and enjoyed life because I’m not spending every penny just investing into bitcoin else what’s the point, but I guess I’m posting this as I’m a little frustrated with all these outlandish predictions on price even since day one it’s been the same, I don’t know one “influencer” who has actually been close, even now on X it’s daily bull on “Oh it’ll be price discovery” and all that waffle, surely I can’t be the only one who’s feeling the same? Whenever I see posts it’s “patience” and always a quick response defending as to why we’re not at these predictions 😅 anyways rant over feel free to dm me if you’d also like a little moan today 😂
 
-57m ago
+1h ago
 
 ---
 
@@ -101,7 +101,7 @@ I’ve now held bitcoin for 4 years and bought with every penny I had spare at �
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-12h ago
+13h ago
 
 ---
 
@@ -127,7 +127,7 @@ And most who keep panicking, and those crazy shenanigans fud are mostly from noo
 
 **[Staring into the BTC abyss, waiting for it to explain itself](https://www.reddit.com/r/Bitcoin/comments/1pi3i32/staring_into_the_btc_abyss_waiting_for_it_to/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -151,7 +151,7 @@ If you had put $1000 into BTC in 2010 and left it alone without further investme
 
 **[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance)**
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
@@ -159,7 +159,7 @@ The Block • 2h ago
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-WIRED • 3h ago
+WIRED • 4h ago
 
 ---
 
@@ -183,7 +183,7 @@ Bitcoin Magazine • 23h ago
 
 PNC Financial Services Group Inc.’s high-net-worth customers can now trade Bitcoin directly through their investment accounts, fulfilling an initial goal of the Pittsburgh-based lender’s partnership with Coinbase Global Inc. announced in July.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Bloomberg.com • 1h ago
 
 Bowing to what he called a "cold breeze," but not a "crypto winter," Geoff Kendrick slashed his year-end outlook for BTC to $100,000 and doesn't expect $500,000 until 2030 versus 2028 previously.
 
-CoinDesk • 46m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ CoinDesk • 46m ago
 
 Metaplanet believes Bitcoin will become a universal corporate treasury asset. The firm aims to channel part of Japan’s $7 trillion in idle savings into Bitcoin. ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -213,7 +213,7 @@ Financial Times • 1d ago
 
 **[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqd7uJTMB-HO8yNze-fCB3WsYBMjCnCUz4Jzi7uGEwK-wwy9AZcAZOcL&gaa_ts=693835c3&gaa_sig=4tnIHsrFnUgupZoi74hXBA5bJbLGNw86261jm0tuQzETRe5-Ul8MIEbRbqZGMjjOz6O1mxNnN3TqpfR2DJJlFQ%3D%3D)**
 
-MarketWatch • 15h ago
+MarketWatch • 16h ago
 
 ---
 
@@ -221,7 +221,7 @@ MarketWatch • 15h ago
 
 Strategy unveiled its largest Bitcoin purchase in over 100 days, but the company's stock price was little changed on Monday.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -313,7 +313,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 176 • ⏱️ 10:16 • 12h ago
+👁️ 46K • 👍 2K • 💬 176 • ⏱️ 10:16 • 13h ago
 
 ---
 
@@ -333,7 +333,7 @@ In this clip, I talk about what is happening for bitcoin and crypto this week an
 
 📺 CryptosRus Extra
 
-👁️ 12K • 👍 555 • 💬 247 • ⏱️ 9:01 • 13h ago
+👁️ 12K • 👍 555 • 💬 247 • ⏱️ 9:01 • 14h ago
 
 ---
 
@@ -363,7 +363,7 @@ Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. 
 
 📺 Simply Bitcoin
 
-👁️ 42K • 👍 3K • 💬 417 • ⏱️ 16:35 • 15h ago
+👁️ 42K • 👍 3K • 💬 417 • ⏱️ 16:35 • 16h ago
 
 ---
 
@@ -373,7 +373,7 @@ Michael Saylor reveals that major U.S. banks—including Wells Fargo, Citi, JPMo
 
 📺 Bitcoin Magazine
 
-👁️ 193 • 👍 4 • 💬 40 • ⏱️ 0:46 • 26m ago
+👁️ 193 • 👍 4 • 💬 40 • ⏱️ 0:46 • 48m ago
 
 ---
 
@@ -391,7 +391,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Matt & Justus
 
-👁️ 1.1M • 👍 67K • 💬 217 • ⏱️ 1:00 • 19h ago
+👁️ 1.1M • 👍 67K • 💬 217 • ⏱️ 1:00 • 20h ago
 
 ---
 
