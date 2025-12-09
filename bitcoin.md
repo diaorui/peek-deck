@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T09:47:50.480757+00:00'
+updated: '2025-12-09T09:58:55.288592+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
 - news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 09:47 UTC  
+**Last Updated:** December 09, 2025 at 09:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** -3.7%  
-**30d:** -15.0%  
-**90d:** -21.7%  
-**1y:** -6.4%  
+**24h:** -1.7%  
+**7d:** -3.5%  
+**30d:** -14.8%  
+**90d:** -21.6%  
+**1y:** -6.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1802.89B
+**Market Cap:** $1800.04B
 Rank #1
 
-**Circulating Supply:** 19,959,600 BTC
+**Circulating Supply:** 19,959,693 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.3%
+-28.5%
 
 **All-Time Low:** $67.81
-+133142.9%
++132876.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-7h ago
+8h ago
 
 ---
 
@@ -103,17 +103,17 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
+**[Reality check](https://www.reddit.com/r/Bitcoin/comments/1pi0xfg/reality_check/)**
+
+3h ago
+
+---
+
 **[Apparently Lamborghini is shilling Bitcoin now](https://www.reddit.com/r/Bitcoin/comments/1phjz9z/apparently_lamborghini_is_shilling_bitcoin_now/)**
 
 They have a promotion going on with Ledger
 
 15h ago
-
----
-
-**[Reality check](https://www.reddit.com/r/Bitcoin/comments/1pi0xfg/reality_check/)**
-
-2h ago
 
 ---
 
@@ -135,11 +135,9 @@ They have a promotion going on with Ledger
 
 ---
 
-**[When Bitcoin Was Physical: The Rise and Return of Casascius Coins](https://www.reddit.com/r/Bitcoin/comments/1phfgzm/when_bitcoin_was_physical_the_rise_and_return_of/)**
+**[Is it Santa season yet?](https://www.reddit.com/r/Bitcoin/comments/1phy6ju/is_it_santa_season_yet/)**
 
-Back in 2011–2013, physical bitcoins were actually a thing. They were known as Casascius Coins — metal tokens with a hologram on the back hiding a private key printed on paper. Peel the hologram, and the BTC could be moved to a regular blockchain address. What makes this story even wilder is how many people never touched them for years. Some holders treated these coins like collectibles, others forgot about them entirely. Only recently, more and more of these physical bitcoins have been getting redeemed after sitting untouched for a decade or more. From novelty item to time capsule holding real money, Casascius coins remain one of the strangest and most iconic relics of early Bitcoin history.
-
-18h ago
+5h ago
 
 ---
 
@@ -147,11 +145,11 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 ## Google News: "bitcoin"
 
-**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
+**[Bitcoin's 2025 rollercoaster may end on a low](https://finance.yahoo.com/news/bitcoins-2025-rollercoaster-may-end-050859649.html)**
 
-Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
+With a series of record highs and crushing sell-offs, 2025 has been a rollercoaster ride for bitcoin, the world's largest cryptocurrency, which is at risk of ending the year with its first annual decline since 2022.  The world's main stock benchmarks have also had a turbulent year, repeatedly hitting record peaks and then pulling ​back as worries over tariffs, interest rates and a possible AI bubble whipsawed markets.  While equities are mostly up year-to-date, bitcoin's overall correlation with share prices has strengthened markedly this year.
 
-Financial Times • 16h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -163,11 +161,33 @@ Bloomberg.com • 14h ago
 
 ---
 
-**[Bitcoin's 2025 rollercoaster may end on a low](https://finance.yahoo.com/news/bitcoins-2025-rollercoaster-may-end-050859649.html)**
+**[Strategy Drops Nearly $1 Billion on Bitcoin, Marking Largest BTC Buy in Months](https://finance.yahoo.com/news/strategy-drops-nearly-1-billion-154036345.html)**
 
-With a series of record highs and crushing sell-offs, 2025 has been a rollercoaster ride for bitcoin, the world's largest cryptocurrency, which is at risk of ending the year with its first annual decline since 2022.  The world's main stock benchmarks have also had a turbulent year, repeatedly hitting record peaks and then pulling ​back as worries over tariffs, interest rates and a possible AI bubble whipsawed markets.  While equities are mostly up year-to-date, bitcoin's overall correlation with share prices has strengthened markedly this year.
+Strategy unveiled its largest Bitcoin purchase in over 100 days, but the company's stock price was little changed on Monday.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 18h ago
+
+---
+
+**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqfwjkrmh49rWZiqdnqWx3votW8NXAtXcLgm610hWrYVmBvnOZMXMVcd&gaa_ts=6937f64b&gaa_sig=HlYGXnByJ4KOc11sV_xQ0DADxmAlC7RdmqZ28nZBrMZhmMCdS6mF55tyL5qZUPfrm4oUmii3QA5kGBDu7HuV5A%3D%3D)**
+
+MarketWatch • 11h ago
+
+---
+
+**[Strategy Rises on $963 Million Bitcoin Buy, Largest Since July](https://www.bloomberg.com/news/articles/2025-12-08/strategy-rises-on-963-million-bitcoin-buy-largest-since-july)**
+
+Strategy Inc. shares rose as much as 2.8% in premarket trading Monday after the digital asset treasury company said it bought $962.7 million worth of Bitcoin from Dec. 1 to Dec. 7, marking its largest acquisition since July.
+
+Bloomberg.com • 19h ago
+
+---
+
+**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
+
+Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
+
+Financial Times • 16h ago
 
 ---
 
@@ -175,7 +195,7 @@ Yahoo Finance • 4h ago
 
 Texas has launched its new cryptocurrency reserve with a $5 million purchase of Bitcoin as the state continues to embrace the volatile and controversial digital currency. The Texas Comptroller’s Office confirmed the purchase was made last month as a “placeholder investment” while the office works to contract with a cryptocurrency bank to manage its portfolio. […]
 
-Baton Rouge Business Report • 12h ago
+Baton Rouge Business Report • 13h ago
 
 ---
 
@@ -187,39 +207,15 @@ Kiplinger • 23h ago
 
 ---
 
-**[Bitcoin Price Rebounds Slightly Ahead of the Fed. How It Could Reach $120K—or Fall to $82K.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-2085d4a2?gaa_at=eafs&gaa_n=AWEtsqd9M6YyS67gKf2PPZjxrEttBFBNphMq5i55k3I3RGAGrle3aBM_Dgf6&gaa_ts=6937eefa&gaa_sig=NMrdUr6ORCEPjP1KI0pJkKLwvkFcBtxttRoiIlET0VaXLSpFy8MfjIdmlAKIrLjcIxwY9UWHLY-sJkvOCrmbWA%3D%3D)**
+**[Bitcoin Price Rebounds Slightly Ahead of the Fed. How It Could Reach $120K—or Fall to $82K.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-2085d4a2?gaa_at=eafs&gaa_n=AWEtsqflhNP3vreNcDvR4p8GJPg6lKTCtNV9ub9bOQZOMl6QtUTtKo99HgK5&gaa_ts=6937f64b&gaa_sig=ol2Gw2SDs_S8Q1auypAZufbVcM4zOuem5d6frog60hC_OO1A25PQX-EsK8iAzs8mwblLO-cB00APLPuswMDaEw%3D%3D)**
 
 Barron's • 19h ago
-
----
-
-**[Crypto Markets Today: Bitcoin (BTC) Price Reclaims $92K as Altcoins Lag](https://www.coindesk.com/markets/2025/12/08/crypto-markets-today-bitcoin-reclaims-usd92k-as-fed-rate-cut-expectations-lift-sentiment)**
-
-Bitcoin pushed back above $92,000 during Monday’s Asia session as traders priced in a likely Federal Reserve rate cut this week; altcoins continued to lag.
-
-CoinDesk • 22h ago
-
----
-
-**[Bitcoin will “snapback or chop ahead of the Fed” decision](https://sherwood.news/crypto/bitcoin-will-snapback-or-chop-ahead-of-the-fed-decision/)**
-
-Traders on prediction markets are divided, giving an equal chance that bitcoin drops below $80,000 or rises above $100,000 this year....
-
-Sherwood News • 17h ago
 
 ---
 
 **[Strategy, Wall Street's Favorite Stock, Just Loaded Up On More Bitcoin](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
 
 Investor's Business Daily • 19h ago
-
----
-
-**[BTC, ETH, USDC as Collateral in CFTC Crypto Pilot](https://www.coindesk.com/policy/2025/12/08/cftc-launches-digital-assets-pilot-allowing-bitcoin-ether-usdc-as-collateral)**
-
-Acting Chair Caroline Pham has unveiled a first-of-its-kind U.S. program to permit tokenized collateral in derivatives markets, citing "clear guardrails" for firms.
-
-CoinDesk • 11h ago
 
 ---
 
@@ -297,7 +293,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 2 • 💬 0 • 18h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 2 • 💬 0 • 19h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T09:47:50.490036+00:00'
+updated: '2025-12-09T09:58:55.297742+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 09:47 UTC  
+**Last Updated:** December 09, 2025 at 09:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most concept machines, this one is production ready and operating in Hebei Province to address the aging rural workforce. The Tech Stack: Autonomy: Uses LiDAR and RTK-GNSS for path planning with ±2.5 cm precision. It handles the entire cycle: ploughing, seeding, spraying and harvesting without a driver. Smart Sensing: Beyond just driving, it collects real-time data on soil composition, moisture, and crop health while running. Powertrain: Pure electric with a dual-motor setup (separating traction from the PTO/farming implements) for better load control. Endurance: Runs for 6 hours on a single charge and coordinates via a 5G mesh network. "Agri-Robotics" is where we are seeing the first massive wave of real world autonomy. If a single person can manage a fleet of these from a tablet, it fundamentally changes the economics of small to medium farms. Source: Lucas
 
-17h ago
+18h ago
 
 ---
 
@@ -90,7 +90,7 @@ Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a sh
 
 According to Reuters, NVIDIA and SoftBank, combined, are looking to invest more than $1 billion into Skild AI.
 
-🔗 [Windows Report](https://windowsreport.com/softbank-nvidia-reportedly-in-talks-to-invest-over-1-billion-into-skild-ai/) • 15h ago
+🔗 [Windows Report](https://windowsreport.com/softbank-nvidia-reportedly-in-talks-to-invest-over-1-billion-into-skild-ai/) • 16h ago
 
 ---
 
@@ -106,7 +106,7 @@ Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: http
 
 Just sharing a small test clip from a sim environment: simple walking + a few controlled kicks. From my experience, getting this kind of behavior to look even remotely stable depends a lot on two things: the accuracy of the rigid-body collisions how well the contact forces are resolved frame-to-frame If either of those is off, the foot either tunnels through the ball or the ball reacts in weird, non-physical ways. With a more accurate physics setup, the kick actually lands where you expect, and the robot’s gait doesn’t blow up.
 
-20h ago
+21h ago
 
 ---
 
@@ -136,22 +136,6 @@ Bloomberg.com • 19h ago
 
 ---
 
-**[Tesla Optimus falls in Miami demo, hand movements sparks remote operation debate](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo)**
-
-While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
-
-Interesting Engineering • 17h ago
-
----
-
-**[Video Shows Robot Attacking CEO](https://futurism.com/robots-and-machines/robot-attacks-ceo)**
-
-The Chinese robotics firm EngineAI lets its humanoid robot loose on its CEO, whom it promptly proceeds to lay out.
-
-Futurism • 12h ago
-
----
-
 **[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai)**
 
 SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
@@ -168,6 +152,14 @@ Valley News Live • 10h ago
 
 ---
 
+**[Tesla Optimus falls in Miami demo, hand movements sparks remote operation debate](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo)**
+
+While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
+
+Interesting Engineering • 17h ago
+
+---
+
 **[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
 
 Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
@@ -176,19 +168,27 @@ South China Morning Post • 2d ago
 
 ---
 
-**[Using the Power of Robotics to uncover the secrets of Pompeii](https://www.cnn.com/2025/12/07/world/video/pompeii-robot-fresco-kinkade-pkg-120712aseg2-cnni-world-fast)**
-
-Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
-
-CNN • 1d ago
-
----
-
 **[iRobot (IRBT) Valuation After White House Robotics Order Hype and Recent Share Price Surge](https://finance.yahoo.com/news/irobot-irbt-valuation-white-house-080800543.html)**
 
 The sudden spike in iRobot (IRBT) shares is being driven by reports that the White House is crafting an executive order to back the U.S. robotics sector, with potential subsidies, tax breaks, and R&D funding in focus. See our latest analysis for iRobot. That excitement comes after a wild week where the 7 day share price return of 133.54 percent has flipped sentiment on a stock that still shows a deeply negative 1 year total shareholder return. This suggests momentum is rebuilding from a very...
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
+
+Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
+
+Decrypt • 10h ago
+
+---
+
+**[From combat to space: Foundation Robotics’ Mike LeBlanc talks humanoids](https://www.therobotreport.com/from-combat-space-foundation-mike-leblanc-humanoid-robotics/)**
+
+Mike LeBlanc, co-founder of Foundation Robotics and a U.S. Marine Corps veteran, shares insights from his entrepreneurial journey.
+
+The Robot Report • 14h ago
 
 ---
 
@@ -218,7 +218,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI . Robot
 
-👁️ 57K • 👍 834 • 💬 15 • ⏱️ 0:19 • 20h ago
+👁️ 57K • 👍 834 • 💬 15 • ⏱️ 0:19 • 21h ago
 
 ---
 

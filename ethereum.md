@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T09:47:50.486786+00:00'
+updated: '2025-12-09T09:58:55.294554+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
 - news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 09:47 UTC  
+**Last Updated:** December 09, 2025 at 09:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $376.33B
+**Market Cap:** $375.14B
 Rank #2
 
 **Circulating Supply:** 120,695,272 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.9%
+-37.2%
 
 **All-Time Low:** $0.43
-+720346.0%
++717565.3%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138,452 ETH, equivalent to about US$435 million, in its latest accumulation round. This bold move boosts BitMine’s total crypto holdings significantly, reinforcing its position as one of the largest institutional holders of Ethereum (ETH) worldwide. Tom Lee and his team cited several catalysts behind this surge: the recent Fusaka upgrade to the Ethereum network — implemented 3 December — which promises improved scalability, security and usability. Additionally, macroeconomic conditions appear favorable, with expectations of a loosening monetary policy by the Federal Reserve potentially supporting broader crypto market recovery. The scale of the purchase (over 138,000 ETH in just a week) marks a dramatic acceleration compared to previous buying patterns — reportedly about 156 % more than the firm’s weekly average four weeks ago. In doing so, BitMine pushes further toward its longer-term target of controlling up to 5 % of Ethereum’s total supply. In sum, this $435 million acquisition underlines BitMine’s growing conviction in Ethereum’s long-term potential, signaling confidence in both network upgrades and macroeconomic conditions that may favor a renewed bull cycle in crypto.
 
-18h ago
+19h ago
 
 ---
 
@@ -198,7 +198,7 @@ The Block • 19h ago
 
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -260,7 +260,7 @@ In today's Milk Road episode, we sit down with CMT Digital's Aryan Sheikhalian t
 
 📺 Milk Road
 
-👁️ 2K • 👍 103 • 💬 81 • ⏱️ 33:06 • 13h ago
+👁️ 2K • 👍 103 • 💬 81 • ⏱️ 33:06 • 14h ago
 
 ---
 
@@ -270,7 +270,7 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 71 • 💬 47 • ⏱️ 6:25 • 20h ago
+👁️ 2K • 👍 71 • 💬 47 • ⏱️ 6:25 • 21h ago
 
 ---
 
@@ -280,7 +280,7 @@ Everyone is obsessed with “Bitcoin to 100K” or “Bitcoin is dead.” In thi
 
 📺 Crypto Hustle
 
-👁️ 132 • 👍 17 • ⏱️ 11:10 • 59m ago
+👁️ 132 • 👍 17 • ⏱️ 11:10 • 1h ago
 
 ---
 
@@ -310,7 +310,7 @@ BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available ever
 
 📺 Lark Davis
 
-👁️ 15K • 👍 788 • 💬 78 • ⏱️ 37:57 • 21h ago
+👁️ 15K • 👍 788 • 💬 78 • ⏱️ 37:57 • 22h ago
 
 ---
 
@@ -320,7 +320,7 @@ SHOCKING ANNOUNCEMENT FROM BLACKROCK! In a groundbreaking live speech, BlackRock
 
 📺 LASSYA PRODUCTION
 
-👁️ 723 • 👍 1K • 52m ago
+👁️ 723 • 👍 1K • 1h ago
 
 ---
 

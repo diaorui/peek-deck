@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T09:47:50.472254+00:00'
+updated: '2025-12-09T09:58:55.280143+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - videos
 - news
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 09:47 UTC  
+**Last Updated:** December 09, 2025 at 09:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,15 +55,7 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai says no job, not even his own, is safe. But those who don’t adapt will be the first to fall.
 
-🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 11h ago
-
----
-
-**[There's a new $1 million prize to understand what happens inside LLMs: "Using AI models today is like alchemy: we can do seemingly magical things, but don't understand how or why they work."](https://www.reddit.com/r/artificial/comments/1phbmdu/theres_a_new_1_million_prize_to_understand_what/)**
-
-At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
-
-🔗 [withmartian.com](https://withmartian.com/prize) • 20h ago
+🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 12h ago
 
 ---
 
@@ -72,6 +64,14 @@ At Martian, we view AI interpretability as the world's most important scientific
 Google’s AI try-on app Doppl adds a shoppable discovery feed.[1] Claude Code is coming to Slack, and that’s a bigger deal than it sounds.[2] Google Colab Integrates KaggleHub for One Click Access to Kaggle Datasets, Models and Competitions.[3] Trump says AI executive order limiting state rules coming this week.[4] Sources: [1] https://techcrunch.com/2025/12/08/googles-ai-try-on-app-doppl-adds-a-shoppable-discovery-feed/ [2] https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/ [3] https://www.marktechpost.com/2025/12/07/google-colab-integrates-kagglehub-for-one-click-access-to-kaggle-datasets-models-and-competitions/ [4] https://www.politico.com/news/2025/12/08/trump-says-ai-executive-order-limiting-state-rules-coming-this-week-00680557
 
 4h ago
+
+---
+
+**[There's a new $1 million prize to understand what happens inside LLMs: "Using AI models today is like alchemy: we can do seemingly magical things, but don't understand how or why they work."](https://www.reddit.com/r/artificial/comments/1phbmdu/theres_a_new_1_million_prize_to_understand_what/)**
+
+At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
+
+🔗 [withmartian.com](https://withmartian.com/prize) • 21h ago
 
 ---
 
@@ -87,7 +87,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming releases by names that resemble existing trademarks.
 
-🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 12h ago
+🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 13h ago
 
 ---
 
@@ -103,7 +103,7 @@ IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks b
 
 LLMs, a Race for more data centers, Nvidia chips and more model parameters, yet no LLM can understand concepts and their relationships and still limited to next token prediction. Trying to increase model parameters in each generation is akin to trying increase number of neurons in our brains with each of our offspring, not a feasible or desirable path to GenAI I believe Graph Knowledge Maps with Nodes (Objects) and Edges (Relationships) offer a viable alternative, an anchor, a core of truth and map of world for LLMs for understanding and learning the environment they interact in As a proof of concept I am working on a medical SLM: 6 GB specialized medical SLM (BioGPT-Large based) Native biomedical knowledge graph (5k+ nodes, 25k+ edges) that contain 7 medical categories; diseases, symptoms, treatments, risk factors, diagnostic tools, body parts, cellular structures and their multi directional relationships Graph aware text embeddings + special tokens and anointed Pubmed and MTS Dialogs to instruct and orient model on medical terms, such as a,b,c are symptoms of disease x and it can be treated with z Fully self-contained RAG (entity + semantic search embedded in model via special tokens), that do a final audit on the model output to make sure answer contains relevant nodes related to prompt. Model is currently conversational and operate with close to zero hallucinations and due to its small size can run fully offline on laptops, hospital servers, and even on cell phones For now, the model itself remains private, but you can see a sample set of results and how Graph info map and Rag audit works together to minimize hallicunations and provide relevant correct answers. All answers pass audit at first attempts thanks to enforced training utilizing specialized graph info map tokens on annointed text. Audit first utilizes graph category class search and if that fails entity search Use cases I’m exploring: - Clinical decision support back-ends - Patient education and triage assistants - Medical education - Telemedicine and remote/low-connectivity settings I understand that this is a project likely too big to properly handle by myself therefore I am open to conversations with: - Med AI founders/operators - AI researchers working on graph/RAG - VCs and angels focused on healthcare/AI Next I will be looking to switch from text embeddings to vector embeddings so in future graph knowledge map nodes and edges can be updated dynamically by the model itself If this is relevant to what you’re building or investing in, I’d be happy to walk you through the architecture, benchmarks, and potential paths (pilot, co-building, or licensing/acquisition). ================================================================================ QUERY: What are the common symptoms of diabetes? → Attempt 1/4 Generation time: 41.64s ANSWER: The most frequent symptom in patients with type 2 diabetes is postprandial hyperglycemia, which can be caused by a variety of factors including poor diet and lack of exercise as well as medication side effects or complications. Other symptoms include weight gain, polyuria, nocturia, thirst, dry mouth, blurred vision, dizziness, fatigue, anxiety, depression, sleep disturbances, and cognitive impairment. These symptoms may occur early on during disease progression but become more prevalent over time due to increased duration of illness. Symptoms should not necessarily indicate severe metabolic derangement; however, they often contribute significantly to patient morbidity and mortality. In addition, these symptoms have been shown to affect quality of life negatively. Therefore, it is important for clinicians caring for diabetic patients to recognize their presence so that appropriate treatment strategies can be implemented. This review provides an overview of the pathophysiology underlying each symptom associated with diabetes mellitus and discusses potential management options based on current evidence-based guidelines. It also highlights areas where further research is needed. © RSNA, 2 0 1 8. < / FREETEXT > < / ABSTRACT > ▃ </s> EXTRACTED ENTITIES → [('Mouth', 'BodyPart'), ('Diabetes Mellitus', 'Disease'), ('Type 2 Diabetes', 'Disease'), ('Depression', 'Disease'), ('Fatigue', 'Symptom'), ('Dizziness', 'Symptom'), ('Blurred Vision', 'Symptom'), ('Sleep Disturbances', 'Symptom'), ('Nocturia', 'Symptom'), ('Polyuria', 'Symptom'), ('Poor Diet', 'RiskFactor'), ('Lack of Exercise', 'RiskFactor'), ('Cognitive Impairment', 'RiskFactor')] RAG AUDIT → PASSED | No entities in prompt → audit passed FINAL VALIDATED ANSWER ACCEPTED after 1 attempt(s)! FINAL NODES: [('Mouth', 'BodyPart'), ('Diabetes Mellitus', 'Disease'), ('Type 2 Diabetes', 'Disease'), ('Depression', 'Disease'), ('Fatigue', 'Symptom'), ('Dizziness', 'Symptom'), ('Blurred Vision', 'Symptom'), ('Sleep Disturbances', 'Symptom'), ('Nocturia', 'Symptom'), ('Polyuria', 'Symptom'), ('Poor Diet', 'RiskFactor'), ('Lack of Exercise', 'RiskFactor'), ('Cognitive Impairment', 'RiskFactor')] ================================================================================ QUERY: Explain hypertension and its risks. → Attempt 1/4 Generation time: 31.12s ANSWER: Hypertension is a common condition that can be treated with lifestyle changes, medications or surgery if necessary. The risk of developing high blood pressure increases as the patient's age advances; however, it may also occur in younger patients who have other medical conditions such as diabetes mellitus, obesity, dyslipidemia, chronic kidney disease (CKD), obstructive sleep apnea syndrome, polycystic ovary syndrome, pregnancy, menopause, etc. Hypertension has been associated with increased mortality rates due to cardiovascular diseases including coronary artery disease, stroke, heart failure, atrial fibrillation, peripheral vascular disease, aortic aneurysm, renal insufficiency, and death from cancer. In addition, hypertension leads to significant morbidity by causing target organ damage such as left ventricular hypertrophy, microalbuminuria, retinopathy, nephropathy, and arterial stiffness. < / FREETEXT > < / ABSTRACT > ▃ </s> EXTRACTED ENTITIES → [('Heart', 'BodyPart'), ('Diabetes Mellitus', 'Disease'), ('Hypertension', 'Disease'), ('Stroke', 'Disease'), ('Chronic Kidney Disease', 'Disease'), ('Cancer', 'Disease'), ('Cardiovascular Diseases', 'Disease'), ('Arterial Stiffness', 'Disease'), ('Coronary Artery Disease', 'Disease'), ('Heart Failure', 'Disease'), ('Atrial Fibrillation', 'Disease'), ('Obesity', 'Disease'), ('Dyslipidemia', 'Disease'), ('Sleep Apnea', 'Disease'), ('Obstructive Sleep Apnea', 'Disease'), ('Surgery', 'Treatment'), ('Sleep Apnea', 'Symptom'), ('Obstructive Sleep Apnea', 'Symptom'), ('Obesity', 'RiskFactor'), ('Hypertension', 'RiskFactor'), ('Medications', 'RiskFactor'), ('Arterial Stiffness', 'RiskFactor'), ('Microalbumin', 'DiagnosticTest')] RAG AUDIT → PASSED | PASS: multi-category prompt (coverage + depth satisfied) FINAL VALIDATED ANSWER ACCEPTED after 1 attempt(s)! FINAL NODES: [('Heart', 'BodyPart'), ('Diabetes Mellitus', 'Disease'), ('Hypertension', 'Disease'), ('Stroke', 'Disease'), ('Chronic Kidney Disease', 'Disease'), ('Cancer', 'Disease'), ('Cardiovascular Diseases', 'Disease'), ('Arterial Stiffness', 'Disease'), ('Coronary Artery Disease', 'Disease'), ('Heart Failure', 'Disease'), ('Atrial Fibrillation', 'Disease'), ('Obesity', 'Disease'), ('Dyslipidemia', 'Disease'), ('Sleep Apnea', 'Disease'), ('Obstructive Sleep Apnea', 'Disease'), ('Surgery', 'Treatment'), ('Sleep Apnea', 'Symptom'), ('Obstructive Sleep Apnea', 'Symptom'), ('Obesity', 'RiskFactor'), ('Hypertension', 'RiskFactor'), ('Medications', 'RiskFactor'), ('Arterial Stiffness', 'RiskFactor'), ('Microalbumin', 'DiagnosticTest')] ================================================================================ QUERY: How does fever present in patients? → Attempt 1/4 Generation time: 44.75s ANSWER: Fever is a common symptom, and it can be caused by many different diseases or conditions. The most important causes of fever are infections (bacterial and viral), neoplasms, autoimmune disorders, drug reactions, and other systemic illnesses. In addition to the history and physical examination, laboratory tests such as complete blood count with differential cell counts, erythrocyte sedimentation rate, C-reactive protein level, procalcitonin levels, urinalysis, chest radiography, abdominal ultrasonography, and electrocardiography should be performed for diagnosis. When evaluating febrile children, clinicians must consider whether they have an infectious disease or another condition that could cause their symptoms. If there is no evidence of infection, then noninfectious etiologies including malignancy, connective tissue disorder, metabolic syndrome, autoinflammatory syndromes, and neurologic illness need to be considered. A detailed medical history and thorough clinical assessment help guide further diagnostic testing and treatment decisions. This article provides practical guidance on how to approach the evaluation of pediatric fevers based on recent guidelines from the American Academy of Pediatrics and the Infectious Diseases Society of America. It also discusses some key points regarding management strategies for these patients. [Pediatr Ann. 2 EXTRACTED ENTITIES → [('Infectious Diseases', 'Disease'), ('STEMI', 'Disease'), ('Metabolic Syndrome', 'Disease'), ('Fever', 'Symptom'), ('Electrocardiography', 'DiagnosticTest'), ('Physical Examination', 'DiagnosticTest'), ('Complete Blood Count', 'DiagnosticTest'), ('Urinalysis', 'DiagnosticTest'), ('Calcitonin', 'DiagnosticTest')] RAG AUDIT → PASSED | PASS: single-category prompt (breadth + depth satisfied) FINAL VALIDATED ANSWER ACCEPTED after 1 attempt(s)! FINAL NODES: [('Infectious Diseases', 'Disease'), ('STEMI', 'Disease'), ('Metabolic Syndrome', 'Disease'), ('Fever', 'Symptom'), ('Electrocardiography', 'DiagnosticTest'), ('Physical Examination', 'DiagnosticTest'), ('Complete Blood Count', 'DiagnosticTest'), ('Urinalysis', 'DiagnosticTest'), ('Calcitonin', 'DiagnosticTest')] medicalAI LLM RAG GRAPH SLM knowledgegraph healthtech digitalhealth AIinHealthcare MedTech BioGPT
 
-49m ago
+1h ago
 
 ---
 
@@ -133,21 +133,25 @@ The Guardian • 3h ago
 
 ---
 
-**[EU Opens Google Antitrust Probe Over AI Use of Online Content](https://www.bloomberg.com/news/articles/2025-12-09/eu-opens-google-antitrust-probe-over-ai-use-of-online-content)**
+**[Brookfield, Qatar Team Up on $20 Billion AI Investment Venture](https://www.bloomberg.com/news/articles/2025-12-09/brookfield-qatar-team-up-on-20-billion-ai-investment-venture)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Hedge fund managing partner Dmitry Balyasny taps AI as largest tail risk for 2026](https://www.reuters.com/business/hedge-fund-managing-partner-dmitry-balyasny-taps-ai-largest-tail-risk-2026-2025-12-09/)**
-
-Reuters • 34m ago
+Bloomberg.com • 25m ago
 
 ---
 
-**[EU Opens Antitrust Probe into Alphabet’s Google Over AI Use](https://www.wsj.com/tech/eu-opens-antitrust-probe-into-alphabets-google-over-ai-use-89dad783?gaa_at=eafs&gaa_n=AWEtsqfIyYz1UpXOhWozoVG-ixsklcoq8EuWNigJgzF5d2CoVEicQie6-cyZ&gaa_ts=6937eef8&gaa_sig=9fHiPhnXGMtmutLZYR6WY1WuemdVkxIJ3xapR9o7PKIpo7mfpVp42gtDmYZUMCF0GWVHY0q1SJDRjpJjGgM9jA%3D%3D)**
+**[Hedge fund managing partner Dmitry Balyasny taps AI as largest tail risk for 2026](https://finance.yahoo.com/news/hedge-fund-managing-partner-dmitry-091318948.html)**
 
-The Wall Street Journal • 1h ago
+Hedge fund Balyasny Asset Management's managing partner said on Tuesday that ​the largest tail risk for the year ahead is ‌if artificial intelligence surprises on the upside or the downside.  Dmitry Balyasny, managing ‌partner and the firm's CIO, said if there was a fall-off in demand and AI companies --- especially so-called hyper-scalers -- changed their spending plans because they did not achieve the monetization they needed, ⁠this would be a ‌surprise to the downside.  Also, an outside risk the hedge fund manager was watching for was if ‍the AI industry took off faster than expected.
+
+Yahoo Finance • 45m ago
+
+---
+
+**[EU opens investigation into Google’s use of online content for AI models](https://www.theguardian.com/technology/2025/dec/09/eu-investigation-google-ai-models-gemini)**
+
+European Commission to assess whether Gemini owner is putting rival companies at a disadvantage
+
+The Guardian • 1h ago
 
 ---
 
@@ -165,11 +169,9 @@ BBC • 7h ago
 
 ---
 
-**[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws)**
+**[Trump to issue order creating national AI rule](https://www.reuters.com/world/trump-says-he-will-sign-executive-order-this-week-ai-approval-process-2025-12-08/)**
 
-President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
-
-CNN • 18h ago
+Reuters • 12h ago
 
 ---
 
@@ -203,7 +205,7 @@ Financial Times • 8h ago
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 397 • 💬 341 • 16h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 401 • 💬 343 • 17h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -211,13 +213,13 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 374 • 💬 274 • 9h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 381 • 💬 295 • 9h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 160 • 💬 136 • 16h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 162 • 💬 137 • 16h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -233,17 +235,17 @@ AI progress is steady. Human equivalence is sudden.
 
 ---
 
-**[The Reverse Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46176651)**
-
-⬆️ 37 • 💬 4 • 2d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington)
-
----
-
 **[Washington state Medicare users could soon have claims denied by AI](https://news.ycombinator.com/item?id=46197173)**
 
 Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny.
 
-⬆️ 36 • 💬 5 • 13h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
+⬆️ 37 • 💬 5 • 13h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
+
+---
+
+**[The Reverse Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46176651)**
+
+⬆️ 37 • 💬 4 • 2d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington)
 
 ---
 
@@ -343,7 +345,7 @@ Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Fu
 
 📺 Dan Kieft
 
-👁️ 24K • 💬 26 • ⏱️ 20:04 • 16h ago
+👁️ 24K • 💬 26 • ⏱️ 20:04 • 17h ago
 
 ---
 
@@ -379,7 +381,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,382 • 17h ago
+⬇️ 201,990 • ❤️ 2,384 • 17h ago
 
 ---
 
@@ -391,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 558 • 5h ago
+⬇️ 40,450 • ❤️ 559 • 5h ago
 
 ---
 
@@ -413,7 +415,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 282 • 7d ago
+⬇️ 0 • ❤️ 283 • 7d ago
 
 ---
 
@@ -425,7 +427,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 8,016 • ❤️ 560 • 7d ago
+⬇️ 8,016 • ❤️ 562 • 7d ago
 
 ---
 
@@ -437,7 +439,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 0 • ❤️ 184 • 4h ago
+⬇️ 0 • ❤️ 185 • 4h ago
 
 ---
 
@@ -449,7 +451,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 0 • ❤️ 173 • 4h ago
+⬇️ 0 • ❤️ 174 • 4h ago
 
 ---
 
@@ -471,25 +473,39 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 3,573 • ❤️ 397 • 7d ago
+⬇️ 3,573 • ❤️ 398 • 7d ago
 
 ---
 
-**[Ministral-3-14B-Instruct-2512](https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512)**
+**[LongCat-Image](https://huggingface.co/meituan-longcat/LongCat-Image)**
 
-*Mistral AI_*
+*LongCat*
 
-Ministral 3 14B Instruct is a powerful, edge-optimized multilingual vision-language model fine-tuned for instruction tasks. It excels in chat, agentic use cases with native function calling, and local deployments due to its FP8 quantization and 256k context window.
+LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusion model with 6B parameters, excelling in photorealism and accurate Chinese character rendering. It's designed for high performance and developer accessibility, suitable for diverse creative applications.
 
-`13.9B`
+`text-to-image`
 
-⬇️ 179,920 • ❤️ 156 • 3d ago
+⬇️ 99 • ❤️ 158 • 4h ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
+
+*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
+
+🏢 Tongyi-MAI
+
+The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
+
+▲ 23 • 💬 2 • ⭐ 5,945 • 11d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
+
+---
 
 **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://huggingface.co/papers/2511.22699)**
 
@@ -505,20 +521,6 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 ---
 
-**[Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield](https://huggingface.co/papers/2511.22677)**
-
-*Dongyang Liu, Peng Gao, David Liu et al. (11 authors)*
-
-🏢 Tongyi-MAI
-
-The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
-
-▲ 23 • 💬 2 • ⭐ 5,817 • 11d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
 **[PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing](https://huggingface.co/papers/2512.02589)**
 
 *Junyi Hou, Andre Lin Huikai, Nuo Chen et al. (5 authors)*
@@ -527,7 +529,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 49 • 💬 2 • ⭐ 878 • 7d ago
+▲ 50 • 💬 2 • ⭐ 878 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -541,7 +543,7 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 153 • 💬 4 • ⭐ 542 • 5d ago
+▲ 154 • 💬 4 • ⭐ 542 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
 
@@ -635,7 +637,7 @@ DAComp is a benchmark of 210 tasks that evaluates the capabilities of agents in 
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.5k • 🔱 439 • 2h ago
+⭐ 5.6k • 🔱 440 • 2h ago
 
 ---
 
@@ -645,7 +647,17 @@ DAComp is a benchmark of 210 tasks that evaluates the capabilities of agents in 
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 17h ago
+⭐ 1.6k • 🔱 132 • 18h ago
+
+---
+
+**[Anionex/banana-slides](https://github.com/Anionex/banana-slides)**
+
+一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材；一句话/大纲/页面描述自动生成PPT，自动使用链接图片；口头修改指定区域、一键导出
+
+`Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
+
+⭐ 1.2k • 🔱 146 • 1h ago
 
 ---
 
@@ -656,16 +668,6 @@ AI-powered git commit message rewriter using Ollama or GPT
 `TypeScript` `git` `pre-commit-hook`
 
 ⭐ 1.1k • 🔱 47 • 9d ago
-
----
-
-**[Anionex/banana-slides](https://github.com/Anionex/banana-slides)**
-
-一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材；一句话/大纲/页面描述自动生成PPT，自动使用链接图片；口头修改指定区域、一键导出
-
-`Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
-
-⭐ 1.1k • 🔱 141 • 1h ago
 
 ---
 
@@ -695,7 +697,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 879 • 🔱 60 • 8d ago
+⭐ 883 • 🔱 60 • 8d ago
 
 ---
 
@@ -715,7 +717,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 839 • 🔱 45 • 6h ago
+⭐ 841 • 🔱 45 • 6h ago
 
 ---
 
@@ -725,7 +727,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 827 • 🔱 268 • 3d ago
+⭐ 828 • 🔱 268 • 3d ago
 
 ---
 
