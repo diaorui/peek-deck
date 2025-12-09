@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T04:05:51.650855+00:00'
+updated: '2025-12-09T04:40:06.371139+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 04:05 UTC  
+**Last Updated:** December 09, 2025 at 04:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** -2.0%  
-**30d:** -12.2%  
-**90d:** -30.0%  
-**1y:** -13.8%  
+**24h:** -0.9%  
+**7d:** -2.6%  
+**30d:** -12.8%  
+**90d:** -30.4%  
+**1y:** -14.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.97B
+**Market Cap:** $375.30B
 Rank #2
 
 **Circulating Supply:** 120,695,272 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.9%
+-37.2%
 
 **All-Time Low:** $0.43
-+720292.9%
++717080.3%
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ethereum, I’m Amey - Ratings Director at Bluechip. Stablecoins offer a cheaper way to make cross-border transactions and a more reliable way to save in economies with high inflation or unstable financial systems. But how can you tell which stablecoins are truly stable? Our SMIDGE rating framework analyzes six economic factors and assigns letter-grade ratings (from F to A+) to identify the most reliable stablecoins. You can read the full framework on our website here. Essentially, the SMIDGE framework evaluates - Stability - collateral quality, asset segregation, core stability mechanism Management - track record of team, jurisdiction, accountability to token holders Implementation - technical risk (currently not tracked) Decentralization - censorship risk, blacklisting (only for crypto-backed stablecoins) Governance - regulatory protections, redemption terms, voting systems External - market sentiment (currently not tracked) We take a crypto-native, independent, and data-driven approach to stablecoin ratings. Our framework is the first publicly available, factor-based risk model for evaluating stablecoins. Our ratings are publicly available on our website here. Currently, USDT is rated D and USDC is rated B+ by Bluechip. Last month, we partnered with the Ethereum Foundation to host Bluechip25 in Vienna, the first global conference dedicated to crypto safety. Sign up for updates on next year's Bluechip26 on our website here. We also host a podcast called Bluechip Dialogues, where our Chief Economist Garett Jones interviews leading figures in crypto. Watch the latest episode with the creator of Facebook’s stablecoin project Diem (formerly Libra) here. Follow us on Twitter here or LinkedIn here or Telegram channel here. Ask us anything! I'll be around to answer your questions over the following days.
 
-16h ago
+17h ago
 
 ---
 
@@ -152,15 +152,7 @@ Anton Peraire-Bueno and James Peraire-Bueno were accused of pocketing $25 millio
 
 **[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
 
-The Block • 13h ago
-
----
-
-**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
-
-Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
-
-Decrypt • 9h ago
+The Block • 14h ago
 
 ---
 
@@ -172,11 +164,39 @@ CoinDesk • 14h ago
 
 ---
 
-**[Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds](https://finance.yahoo.com/news/tom-lee-bitmine-buys-429-162833185.html)**
+**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
 
-Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
+Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-Yahoo Finance • 11h ago
+Decrypt • 10h ago
+
+---
+
+**[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
+
+Binance • 12h ago
+
+---
+
+**[IRS Rule Changes In 2026 Bitcoin, Ethereum, XRP Traders Need To Know About](https://finance.yahoo.com/news/irs-rule-changes-2026-bitcoin-033050163.html)**
+
+U.S. crypto investors now have just over two weeks to execute any final sales before sweeping IRS reporting rules go live on January 1, 2026. What Happened: Beginning in 2026, centralized exchanges will be required to follow the same cost-basis ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[XRP Blasts Past Bitcoin and Ethereum Sell-offs, Analyst Declares Rally Will Hit on ‘Promising Fundamentals’](https://www.tipranks.com/news/xrp-blasts-past-bitcoin-and-ethereum-selloffs-analyst-declares-rally-will-hit-on-promising-fundamentals)**
+
+TipRanks • 15h ago
+
+---
+
+**[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
+
+The trading platform dives further into digital assets both domestically and globally.
+
+Fortune • 6h ago
 
 ---
 
@@ -188,20 +208,6 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
-
-The trading platform dives further into digital assets both domestically and globally.
-
-Fortune • 5h ago
-
----
-
-**[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
-
-Binance • 12h ago
-
----
-
 **[Ethereum Founder Breaks Silence With Major Upgrade Proposal](https://www.tradingview.com/news/newsbtc:3ee27326c094b:0-ethereum-founder-breaks-silence-with-major-upgrade-proposal/)**
 
 Ethereum co-founder Vitalik Buterin has unveiled a major proposal that could fundamentally reshape how the network handles transaction fees. His new design aims to replace unpredictable costs with a system that lets users plan and budget more effectively, signaling one of the most significant shift…
@@ -210,17 +216,11 @@ TradingView • 16h ago
 
 ---
 
-**[Ethereum or Solana: ‘One Crypto Could Outperform in 2026,’ Says Investor](https://www.tipranks.com/news/ethereum-or-solana-one-crypto-could-outperform-in-2026-says-investor)**
+**[Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds](https://finance.yahoo.com/news/tom-lee-bitmine-buys-429-162833185.html)**
 
-TipRanks • 1d ago
+Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
 
----
-
-**[Why Crypto Is Going Up Today? Bitcoin, XRP Price, Ethereum and Dogecoin Jump Ahead of Fed Decision This Week](https://www.financemagnates.com/trending/why-crypto-is-going-up-today-bitcoin-xrp-price-ethereum-and-dogecoin-jump-ahead-of-fed-decision-this-week/)**
-
-The cryptocurrency market is flashing green during Monday's trading session, 8 December, 2025, prompting investors to ask why crypto is going up today .
-
-Finance Magnates • 17h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -234,7 +234,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 4K • 👍 249 • 💬 143 • ⏱️ 12:46 • 9h ago
+👁️ 4K • 👍 249 • 💬 143 • ⏱️ 12:46 • 10h ago
 
 ---
 
@@ -264,7 +264,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 303 • 💬 17 • ⏱️ 15:50 • 12h ago
+👁️ 7K • 👍 303 • 💬 17 • ⏱️ 15:50 • 13h ago
 
 ---
 
@@ -284,7 +284,7 @@ The momentum behind the BlackRock ETH ETF could be the exact spark that launches
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 498 • 💬 14 • ⏱️ 49:44 • 11h ago
+👁️ 7K • 👍 498 • 💬 14 • ⏱️ 49:44 • 12h ago
 
 ---
 
@@ -304,7 +304,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 148 • 💬 4 • ⏱️ 5:35 • 10h ago
+👁️ 2K • 👍 148 • 💬 4 • ⏱️ 5:35 • 11h ago
 
 ---
 
@@ -314,7 +314,7 @@ BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 6K • 👍 422 • 💬 195 • ⏱️ 19:51 • 5h ago
+👁️ 6K • 👍 422 • 💬 195 • ⏱️ 19:51 • 6h ago
 
 ---
 
@@ -324,7 +324,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 417 • 👍 28 • 💬 27 • ⏱️ 9:20 • 9h ago
+👁️ 417 • 👍 28 • 💬 27 • ⏱️ 9:20 • 10h ago
 
 ---
 

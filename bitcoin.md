@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T04:05:51.643665+00:00'
+updated: '2025-12-09T04:40:06.365170+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 04:05 UTC  
+**Last Updated:** December 09, 2025 at 04:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** -3.5%  
-**30d:** -14.8%  
-**90d:** -21.6%  
-**1y:** -6.3%  
+**24h:** -1.7%  
+**7d:** -4.2%  
+**30d:** -15.4%  
+**90d:** -22.2%  
+**1y:** -7.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1801.27B
+**Market Cap:** $1795.88B
 Rank #1
 
-**Circulating Supply:** 19,959,543 BTC
+**Circulating Supply:** 19,959,600 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.4%
+-28.8%
 
 **All-Time Low:** $67.81
-+133067.7%
++132322.9%
 
 ---
 
@@ -91,9 +91,15 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
+
+8h ago
+
+---
+
 **[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -101,19 +107,13 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 They have a promotion going on with Ledger
 
-9h ago
+10h ago
 
 ---
 
 **[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
 
-6h ago
-
----
-
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
-
-8h ago
+7h ago
 
 ---
 
@@ -121,7 +121,7 @@ They have a promotion going on with Ledger
 
 Back in 2011–2013, physical bitcoins were actually a thing. They were known as Casascius Coins — metal tokens with a hologram on the back hiding a private key printed on paper. Peel the hologram, and the BTC could be moved to a regular blockchain address. What makes this story even wilder is how many people never touched them for years. Some holders treated these coins like collectibles, others forgot about them entirely. Only recently, more and more of these physical bitcoins have been getting redeemed after sitting untouched for a decade or more. From novelty item to time capsule holding real money, Casascius coins remain one of the strangest and most iconic relics of early Bitcoin history.
 
-12h ago
+13h ago
 
 ---
 
@@ -135,13 +135,13 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 This article explains what changed today when the CFTC approved Bitcoin as eligible collateral inside regulated U.S. derivatives markets. That decision won’t move price today, but it alters how institutions are allowed to hold and use Bitcoin. When an asset becomes collateral-grade, sell-offs stop being exits and become portfolio rotations. If the coming weeks look uneventful, it’s only because structural shifts appear long before capital moves...this piece is written so that you see what actually began.
 
-🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/bitcoin-and-the-commodity-futures) • 4h ago
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/bitcoin-and-the-commodity-futures) • 5h ago
 
 ---
 
-**[Your Daily Bitcoin Breakdown newsletter is now live. Check out today’s Top Stories and a sneak peek at the latest Quick Bits snippets. Full issue link is in the comments.](https://www.reddit.com/r/Bitcoin/comments/1phmm7d/your_daily_bitcoin_breakdown_newsletter_is_now/)**
+**[...and then they join you.](https://www.reddit.com/r/Bitcoin/comments/1phxg26/and_then_they_join_you/)**
 
-8h ago
+58m ago
 
 ---
 
@@ -153,7 +153,7 @@ This article explains what changed today when the CFTC approved Bitcoin as eligi
 
 BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -165,11 +165,11 @@ Morningstar • 17h ago
 
 ---
 
-**[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
+**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
 
-Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
+Which of these popular cryptocurrencies has more upside potential?
 
-Decrypt • 9h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -187,43 +187,43 @@ Binance • 1d ago
 
 ---
 
-**[Strategy Rises on $963 Million Bitcoin Buy, Largest Since July](https://www.bloomberg.com/news/articles/2025-12-08/strategy-rises-on-963-million-bitcoin-buy-largest-since-july)**
+**[Michael Saylor Just Made His Biggest Bitcoin Bet of H2 2025](https://finance.yahoo.com/news/michael-saylor-just-made-biggest-033645878.html)**
 
-Strategy Inc. shares rose as much as 2.8% in premarket trading Monday after the digital asset treasury company said it bought $962.7 million worth of Bitcoin from Dec. 1 to Dec. 7, marking its largest acquisition since July.
+Strategy reported its largest Bitcoin purchase in more than three months on Monday, only days after spending close to $1Bn on the cryptocurrency. The firm, based in Tysons Corner, Virginia, said it bought 10,624 BTC for $963M. Most of the funding came from issuing new common stock. The latest purchase ...
 
-Bloomberg.com • 13h ago
-
----
-
-**[Bitcoin Price (BTC) Analysis: Weakness Versus Stocks Speaks to Tepid Demand](https://www.coindesk.com/markets/2025/12/08/bitcoin-treads-water-near-usd90k-as-bitfinex-warns-of-fragile-setup-to-shocks)**
-
-BTC's relative weakness compared to stocks points to tepid spot demand, making the largest crypto vulnerable to macro volatility, Bitfinex analysts said.
-
-CoinDesk • 7h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin will “snapback or chop ahead of the Fed” decision](https://sherwood.news/crypto/bitcoin-will-snapback-or-chop-ahead-of-the-fed-decision/)**
+**[IRS Rule Changes In 2026 Bitcoin, Ethereum, XRP Traders Need To Know About](https://finance.yahoo.com/news/irs-rule-changes-2026-bitcoin-033050163.html)**
 
-Traders on prediction markets are divided, giving an equal chance that bitcoin drops below $80,000 or rises above $100,000 this year....
+U.S. crypto investors now have just over two weeks to execute any final sales before sweeping IRS reporting rules go live on January 1, 2026. What Happened: Beginning in 2026, centralized exchanges will be required to follow the same cost-basis ...
 
-Sherwood News • 11h ago
-
----
-
-**[Asia Morning Briefing: BTC Steadies Around 90k With Liquidity Drained and a Fed Cut Fully Priced In](https://www.coindesk.com/markets/2025/12/09/asia-morning-briefing-btc-steadies-around-90k-with-liquidity-drained-and-a-fed-cut-fully-priced-in)**
-
-QCP notes participation has collapsed while Polymarket sees a shallow easing path, putting the focus on guidance and cross central bank signals.
-
-CoinDesk • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[American Bitcoin (ABTC) Crashes 47%, Presidential Son Blames Points to Profit-Taking](https://finance.yahoo.com/news/american-bitcoin-abtc-crashes-47-071519741.html)**
+**[Texas launches cryptocurrency reserve with $5M Bitcoin purchase](https://www.businessreport.com/article/texas-launches-cryptocurrency-reserve-with-5m-bitcoin-purchase)**
 
-We recently published December Disappointments: 10 Big Names Troubled Early. American Bitcoin Corp (NASDAQ:ABTC) is one of the worst performers of last week. American Bitcoin nosedived by 47.4 percent week-on-week, as investors sold off positions following the expiration of a lockup period, while presidential son and co-founder Eric Trump pointed to profit-taking as having dragged […]
+Texas has launched its new cryptocurrency reserve with a $5 million purchase of Bitcoin as the state continues to embrace the volatile and controversial digital currency. The Texas Comptroller’s Office confirmed the purchase was made last month as a “placeholder investment” while the office works to contract with a cryptocurrency bank to manage its portfolio. […]
 
-Yahoo Finance • 20h ago
+Baton Rouge Business Report • 7h ago
+
+---
+
+**[Why Investors Shouldn't Romanticize Bitcoin, From a Financial Planner](https://www.kiplinger.com/investing/cryptocurrency/why-investors-shouldnt-romanticize-bitcoin)**
+
+Investors should treat bitcoin as the volatile, high-risk asset it is. A look at the data, along with comparisons to the Magnificent 7 stocks, indicates a small (1% to 2%) portfolio allocation for most investors would be the safest.
+
+Kiplinger • 18h ago
+
+---
+
+**[What the First Divergence of Stock and Bitcoin Returns in 10 Years Means](https://www.businessinsider.com/stock-market-bitcoin-return-correlation-divergence-explained-outlook-2025-12)**
+
+If the stock market is up, bitcoin usually is too. But this year has been different.
+
+Business Insider • 17h ago
 
 ---
 
@@ -279,7 +279,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Millennials hold more crypto than any other Americans and are nearing peak divorce years. Many married couples, and the legal system, are not prepared.
 
-⬆️ 9 • 💬 0 • 20h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
+⬆️ 9 • 💬 0 • 21h ago • [CNBC](https://www.cnbc.com/2025/12/07/millennials-bitcoin-crypto-divorce-law.html)
 
 ---
 
@@ -315,7 +315,7 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 187K • 👍 8K • 💬 892 • ⏱️ 20:03 • 7h ago
+👁️ 187K • 👍 8K • 💬 892 • ⏱️ 20:03 • 8h ago
 
 ---
 
@@ -325,7 +325,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 16K • 👍 725 • 💬 196 • ⏱️ 9:22 • 12h ago
+👁️ 16K • 👍 725 • 💬 196 • ⏱️ 9:22 • 13h ago
 
 ---
 
@@ -335,7 +335,7 @@ Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. 
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 321 • ⏱️ 16:35 • 5h ago
+👁️ 22K • 👍 2K • 💬 321 • ⏱️ 16:35 • 6h ago
 
 ---
 
@@ -353,7 +353,7 @@ Vanguard, Bank of America, and Charles Schwab just made massive moves into Bitco
 
 📺 Matt & Justus
 
-👁️ 83K • 👍 12K • 💬 97 • ⏱️ 1:00 • 9h ago
+👁️ 83K • 👍 12K • 💬 97 • ⏱️ 1:00 • 10h ago
 
 ---
 
@@ -363,7 +363,7 @@ Connect with Early Riders — https://www.earlyriders.com/contact Connect with O
 
 📺 Onramp Bitcoin Media
 
-👁️ 2K • 👍 67 • 💬 17 • ⏱️ 54:06 • 8h ago
+👁️ 2K • 👍 67 • 💬 17 • ⏱️ 54:06 • 9h ago
 
 ---
 
@@ -383,7 +383,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 199 • ⏱️ 37:28 • 12h ago
+👁️ 30K • 👍 1K • 💬 199 • ⏱️ 37:28 • 13h ago
 
 ---
 
@@ -403,7 +403,7 @@ Bitcoin is grinding higher in a completely new macro regime: QT ending, election
 
 📺 Swan Bitcoin
 
-👁️ 9K • 👍 293 • 💬 165 • ⏱️ 17:26 • 10h ago
+👁️ 9K • 👍 293 • 💬 165 • ⏱️ 17:26 • 11h ago
 
 ---
 

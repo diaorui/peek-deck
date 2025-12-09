@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T04:05:51.654248+00:00'
+updated: '2025-12-09T04:40:06.374425+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 04:05 UTC  
+**Last Updated:** December 09, 2025 at 04:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
 
-14h ago
+15h ago
 
 ---
 
@@ -66,7 +66,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
 Has anyone seen how the mopping pressure is created in a robot vacuum? I would imagine some sort of linear actuator/solenoid/spring suspension but did not see any of that when looking at at online teardowns of a Dreame X50 Ultra that claims to have mop lifting/mop pressure.
 
-1h ago
+2h ago
 
 ---
 
@@ -94,15 +94,19 @@ Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a sh
 
 ---
 
-**[Japan’s Tsubame Industries built ARCHAX:a 4.5 m piloted humanoid robot that’s designed for real-world heavy-duty work. Climb into the cockpit, get a full 360° view through nine cameras, and feel the exact grip force through force-feedback controls. With 26 degrees of freedom, it can lift heavy loads](https://www.reddit.com/r/robotics/comments/1pginvs/japans_tsubame_industries_built_archaxa_45_m/)**
+**[Robotics project management](https://www.reddit.com/r/robotics/comments/1phnaal/robotics_project_management/)**
 
-1d ago
+Hi all, I recently got into the robotics industry moving in from drones. The team has around 3 PMs for the dev of a robot and 2 manage external customers for the robot. I'm a PM with 4years of experience where I managed multiple projects before and customer relations. Been assigned in my current role in data collection ops (I know the crowd hear is familiar with this, that why Im posting this in the sub). Feel like this role is a downgrade from my previous role. Question to other technical PMs in robotics, is it normal to start off in something like data collection ops and work your way up to something more technical. Any advice on how I can use this opportunity to get more technically involved? Other PMs in robotics, what is your journey?
+
+8h ago
 
 ---
 
-**[Robot dance RC](https://www.reddit.com/r/robotics/comments/1ph539m/robot_dance_rc/)**
+**[Robot kicking a soccer ball in sim，contact accuracy & rigid body dynamics](https://www.reddit.com/r/robotics/comments/1phbq9l/robot_kicking_a_soccer_ball_in_simcontact/)**
 
-21h ago
+Just sharing a small test clip from a sim environment: simple walking + a few controlled kicks. From my experience, getting this kind of behavior to look even remotely stable depends a lot on two things: the accuracy of the rigid-body collisions how well the contact forces are resolved frame-to-frame If either of those is off, the foot either tunnels through the ball or the ball reacts in weird, non-physical ways. With a more accurate physics setup, the kick actually lands where you expect, and the robot’s gait doesn’t blow up.
+
+15h ago
 
 ---
 
@@ -112,7 +116,7 @@ Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a sh
 
 **[Speech-to-reality system creates objects on demand using AI and robotics](https://techxplore.com/news/2025-12-speech-reality-demand-ai-robotics.html)**
 
-Tech Xplore • 12h ago
+Tech Xplore • 13h ago
 
 ---
 
@@ -132,11 +136,11 @@ Bloomberg.com • 14h ago
 
 ---
 
-**[China deploys traffic robot to direct vehicles, pedestrians in streets](https://interestingengineering.com/ai-robotics/china-deploys-humanoid-traffic-robot)**
+**[Tether Invests in Generative Bionics as Part of Funding Round to Advance Intelligent “Made in Italy” Humanoid Robots](https://tether.io/news/tether-invests-in-generative-bionics-as-part-of-funding-round-to-advance-intelligent-made-in-italy-humanoid-robots/)**
 
-China debuts AI traffic robot Hangxing No. 1, directing vehicles, spotting violations, and issuing polite voice warnings at busy intersections.
+8 December 2025 – Tether Investments announced today an investment in Generative Bionics, the largest spinoff in the history of IIT (the Italian Institute of Technology) and one of the largest research spinoffs in Europe, to support the development of a new generation of intelligent humanoid robots built for industrial scale performance, human-centric interaction and […]
 
-Interesting Engineering • 2d ago
+Tether.io • 9h ago
 
 ---
 
@@ -152,15 +156,7 @@ Decrypt • 5h ago
 
 1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
 
-Valley News Live • 4h ago
-
----
-
-**[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
-
-Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
-
-South China Morning Post • 2d ago
+Valley News Live • 5h ago
 
 ---
 
@@ -169,6 +165,14 @@ South China Morning Post • 2d ago
 While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
 Interesting Engineering • 12h ago
+
+---
+
+**[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
+
+Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
+
+South China Morning Post • 2d ago
 
 ---
 
@@ -198,7 +202,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 2K • 👍 91 • 💬 29 • ⏱️ 14:26 • 8h ago
+👁️ 2K • 👍 91 • 💬 29 • ⏱️ 14:26 • 9h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T04:05:51.629541+00:00'
+updated: '2025-12-09T04:40:06.356682+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 04:05 UTC  
+**Last Updated:** December 09, 2025 at 04:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
 
-🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 7h ago
+🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 8h ago
 
 ---
 
@@ -79,7 +79,7 @@ From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming r
 
 Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
-14h ago
+15h ago
 
 ---
 
@@ -91,9 +91,11 @@ IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks b
 
 ---
 
-**[ChatGPT, Gemini, DeepSeek, Claude, Perplexity, and Grok give response to this article about what one person’s power means.](https://www.reddit.com/r/artificial/comments/1phx4v0/chatgpt_gemini_deepseek_claude_perplexity_and/)**
+**[Has AI ever told you something genuinely unexpected that seemed to go against its training? What was it?](https://www.reddit.com/r/artificial/comments/1phoyaz/has_ai_ever_told_you_something_genuinely/)**
 
-39m ago
+Title.
+
+7h ago
 
 ---
 
@@ -101,15 +103,13 @@ IBM was early to both AI and quantum. Here’s why CEO Arvind Krishna thinks b
 
 The president announced the plans to create one rulebook for AI via his Truth Social account on Monday.
 
-🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 12h ago
+🔗 [The Mirror US](https://www.themirror.com/news/politics/trump-threatens-create-new-rules-1550179) • 13h ago
 
 ---
 
-**[Has AI ever told you something genuinely unexpected that seemed to go against its training? What was it?](https://www.reddit.com/r/artificial/comments/1phoyaz/has_ai_ever_told_you_something_genuinely/)**
+**[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
 
-Title.
-
-6h ago
+15h ago
 
 ---
 
@@ -123,17 +123,17 @@ The New York Times • 9h ago
 
 ---
 
-**[Trump gives Nvidia green light to sell advanced AI chips to China](https://www.bbc.com/news/articles/ckg9q635q6po)**
+**[Trump Clears Sale of More Powerful Nvidia A.I. Chips to China](https://www.nytimes.com/2025/12/08/business/trump-nvidia-chips-china.html)**
 
-Nvidia had been at the centre of a geopolitical tug-of-war between the US and China in recent months.
-
-BBC • 1h ago
+The New York Times • 6h ago
 
 ---
 
-**[Trump Clears Sale of More Powerful Nvidia A.I. Chips to China](https://www.nytimes.com/2025/12/08/business/trump-nvidia-chips-china.html)**
+**[Trump greenlights Nvidia H200 AI chip sales to China if U.S. gets 25% cut, says Xi responded positively](https://www.cnbc.com/2025/12/08/trump-nvidia-h200-sales-china.html)**
 
-The New York Times • 5h ago
+Nvidia and chip rival Advanced Micro Devices agreed over the summer to share 15% of the revenue from China chip sales with the U.S. government.
+
+CNBC • 6h ago
 
 ---
 
@@ -145,7 +145,7 @@ Bloomberg.com • 3h ago
 
 **[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
 
-The Economist • 6h ago
+The Economist • 7h ago
 
 ---
 
@@ -157,35 +157,33 @@ CNN • 13h ago
 
 ---
 
+**[Trump Promises Executive Order to Block State A.I. Regulations](https://www.nytimes.com/2025/12/08/us/politics/trump-executive-order-ai-laws.html)**
+
+The New York Times • 5h ago
+
+---
+
+**[How Trump’s Executive Order On AI Might Impact AI Providing Mental Health Advice](https://www.forbes.com/sites/lanceeliot/2025/12/08/how-trumps-executive-order-on-ai-might-impact-ai-providing-mental-health-advice/)**
+
+President Trump posted on social media that he intends to sign an Executive Order this week overriding state laws on AI. I examine the realm of AI for mental health laws.
+
+Forbes • 1h ago
+
+---
+
+**[BlackRock bets on ‘pick and shovel’ trade, singling out clear winners in AI spending spree](https://www.cnbc.com/2025/12/08/blackrock-ben-powell-bet-trade-as-ai-spending-frenzy-hyperscalers-investment-credit.html)**
+
+Powell noted that leading tech firms have only begun to tap debt markets to fund the next phase of AI expansion, suggesting additional capital is on the way.
+
+CNBC • 19h ago
+
+---
+
 **[Google to launch first of its AI glasses in 2026](https://www.cnbc.com/2025/12/08/google-ai-glasses-launch-2026.html)**
 
 That includes the first of Google's AI glasses in partnership with Warby Parker.
 
-CNBC • 7h ago
-
----
-
-**[It took me 2.5 years to transition to an AI team at Google. These 11 books to help me pivot.](https://www.businessinsider.com/google-engineer-11-books-up-skilling-ai-job-2025-12)**
-
-Rahul Kasanagottu is an engineer at Google who pivoted to an AI role at the company after a 2.5 year upskilling journey.
-
-Business Insider • 17h ago
-
----
-
-**[Google Says First AI Glasses With Gemini Will Arrive in 2026](https://www.bloomberg.com/news/articles/2025-12-08/google-says-first-ai-glasses-with-gemini-will-arrive-in-2026)**
-
-Alphabet Inc.’s Google said it’s working to create two different categories of artificial intelligence-powered smart glasses to compete next year with existing models from Meta Platforms Inc.: one with screens, and another that’s audio focused.
-
-Bloomberg.com • 10h ago
-
----
-
-**[AI and recruitment: Are we in a 'race to the bottom'?](https://www.bbc.com/news/articles/ced6jv76091o)**
-
-AI helps jobseekers to apply for hundreds of roles, meanwhile employers use AI to filter them.
-
-BBC • 3h ago
+CNBC • 8h ago
 
 ---
 
@@ -195,7 +193,7 @@ BBC • 3h ago
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 568 • 💬 179 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 569 • 💬 179 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -203,7 +201,7 @@ BBC • 3h ago
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 382 • 💬 326 • 11h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 383 • 💬 326 • 11h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -211,13 +209,13 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 200 • 💬 123 • 3h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 231 • 💬 145 • 4h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 120 • 💬 114 • 10h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 126 • 💬 120 • 11h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -251,7 +249,7 @@ Reddit is considered one of the most human spaces left on the internet, but mods
 
 Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny.
 
-⬆️ 32 • 💬 4 • 7h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
+⬆️ 33 • 💬 4 • 8h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
 
 ---
 
@@ -273,7 +271,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTE
 
 📺 Anastasi In Tech
 
-👁️ 58K • 👍 5K • 💬 613 • ⏱️ 31:03 • 6h ago
+👁️ 58K • 👍 5K • 💬 613 • ⏱️ 31:03 • 7h ago
 
 ---
 
@@ -283,7 +281,7 @@ JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, cryp
 
 📺 Fox Business
 
-👁️ 49K • 👍 980 • 💬 305 • ⏱️ 18:47 • 11h ago
+👁️ 49K • 👍 980 • 💬 305 • ⏱️ 18:47 • 12h ago
 
 ---
 
@@ -379,7 +377,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,356 • 11h ago
+⬇️ 201,990 • ❤️ 2,359 • 11h ago
 
 ---
 
@@ -391,7 +389,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 541 • 1d ago
+⬇️ 40,450 • ❤️ 541 • 17m ago
 
 ---
 
@@ -403,19 +401,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 28,778 • ❤️ 821 • 7d ago
-
----
-
-**[DeepSeek-V3.2-Speciale](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Speciale)**
-
-*DeepSeek*
-
-DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned from DeepSeek-V3.2-Exp-Base, excelling in reasoning and agentic tasks with performance surpassing GPT-5. It features DeepSeek Sparse Attention for long contexts and a scalable RL framework, making it suitable for complex interactive environments and competitive programming benchmarks.
-
-`text-generation` `685.4B`
-
-⬇️ 8,016 • ❤️ 556 • 7d ago
+⬇️ 28,778 • ❤️ 823 • 7d ago
 
 ---
 
@@ -429,13 +415,25 @@ Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million im
 
 ---
 
+**[DeepSeek-V3.2-Speciale](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Speciale)**
+
+*DeepSeek*
+
+DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned from DeepSeek-V3.2-Exp-Base, excelling in reasoning and agentic tasks with performance surpassing GPT-5. It features DeepSeek Sparse Attention for long contexts and a scalable RL framework, making it suitable for complex interactive environments and competitive programming benchmarks.
+
+`text-generation` `685.4B`
+
+⬇️ 8,016 • ❤️ 557 • 7d ago
+
+---
+
 **[Mistral-Large-3-675B-Instruct-2512](https://huggingface.co/mistralai/Mistral-Large-3-675B-Instruct-2512)**
 
 *Mistral AI_*
 
 Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41B active parameters, excelling in instruction following, chat, and agentic use cases with native function calling. It supports a 256k context window and multilingual capabilities, making it ideal for enterprise workflows and long document understanding.
 
-⬇️ 372 • ❤️ 171 • 5d ago
+⬇️ 372 • ❤️ 172 • 5d ago
 
 ---
 
@@ -448,16 +446,6 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 `text-generation` `8.2B`
 
 ⬇️ 3,573 • ❤️ 389 • 6d ago
-
----
-
-**[starflow](https://huggingface.co/apple/starflow)**
-
-*Apple*
-
-STARFlow is a state-of-the-art transformer autoregressive flow model for high-quality text-to-image and text-to-video generation, combining autoregressive expressiveness with normalizing flow efficiency for competitive FID scores and accelerated inference.
-
-⬇️ 0 • ❤️ 246 • 7d ago
 
 ---
 
@@ -481,7 +469,19 @@ LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusi
 
 `text-to-image`
 
-⬇️ 99 • ❤️ 150 • 16h ago
+⬇️ 99 • ❤️ 151 • 16h ago
+
+---
+
+**[GLM-4.6V-Flash](https://huggingface.co/zai-org/GLM-4.6V-Flash)**
+
+*Z.ai*
+
+GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, featuring native function calling for vision-driven tool use and interleaved image-text generation. It excels at multimodal document understanding and frontend replication, optimized for low-latency applications.
+
+`image-text-to-text` `10.3B`
+
+⬇️ 0 • ❤️ 151 • 16h ago
 
 ---
 
@@ -673,7 +673,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 995 • 🔱 123 • 5h ago
+⭐ 995 • 🔱 123 • 6h ago
 
 ---
 
@@ -713,7 +713,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 835 • 🔱 45 • 53m ago
+⭐ 835 • 🔱 45 • 1h ago
 
 ---
 
