@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T05:42:45.400623+00:00'
+updated: '2025-12-09T05:54:13.861339+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - repositories
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 05:42 UTC  
+**Last Updated:** December 09, 2025 at 05:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai says no job, not even his own, is safe. But those who don’t adapt will be the first to fall.
 
-🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 7h ago
+🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 8h ago
 
 ---
 
@@ -63,7 +63,7 @@ AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai sa
 
 At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
 
-🔗 [withmartian.com](https://withmartian.com/prize) • 16h ago
+🔗 [withmartian.com](https://withmartian.com/prize) • 17h ago
 
 ---
 
@@ -79,7 +79,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming releases by names that resemble existing trademarks.
 
-🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 8h ago
+🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 9h ago
 
 ---
 
@@ -107,9 +107,11 @@ Title.
 
 ---
 
-**[Stuart Russell says AI companies now worry about recursive self-improvement. AI with an IQ of 150 could improve its own algorithms to reach 170, then 250, accelerating with each cycle: "This fast takeoff would happen so quickly that it would leave the humans far behind."](https://www.reddit.com/r/artificial/comments/1phbgms/stuart_russell_says_ai_companies_now_worry_about/)**
+**[One-Minute Daily AI News 12/8/2025](https://www.reddit.com/r/artificial/comments/1phzmit/oneminute_daily_ai_news_1282025/)**
 
-16h ago
+Google’s AI try-on app Doppl adds a shoppable discovery feed.[1] Claude Code is coming to Slack, and that’s a bigger deal than it sounds.[2] Google Colab Integrates KaggleHub for One Click Access to Kaggle Datasets, Models and Competitions.[3] Trump says AI executive order limiting state rules coming this week.[4] Sources: [1] https://techcrunch.com/2025/12/08/googles-ai-try-on-app-doppl-adds-a-shoppable-discovery-feed/ [2] https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/ [3] https://www.marktechpost.com/2025/12/07/google-colab-integrates-kagglehub-for-one-click-access-to-kaggle-datasets-models-and-competitions/ [4] https://www.politico.com/news/2025/12/08/trump-says-ai-executive-order-limiting-state-rules-coming-this-week-00680557
+
+10m ago
 
 ---
 
@@ -131,27 +133,35 @@ CNN • 14h ago
 
 ---
 
-**[WTF is AI citation tracking?](https://digiday.com/media/wtf-is-ai-citation-tracking/)**
-
-Publishers are tracking AI citations to understand visibility, attribution gaps and referral traffic in these tools and platforms.
-
-Digiday • 40m ago
-
----
-
 **[Jamie Dimon on our AI future: fewer jobs and 'working less hard, but having wonderful lives'](https://www.businessinsider.com/jamie-dimon-jpmorgan-ai-cut-jobs-work-less-wonderful-lives-2025-12)**
 
 Jamie Dimon says AI will cut jobs before delivering big benefits, including a future where people work "less hard" and enjoy "wonderful lives."
 
-Business Insider • 38m ago
+Business Insider • 50m ago
 
 ---
 
-**[The case against AI agents for programmatic ad buying](https://digiday.com/media-buying/the-case-against-ai-agents-for-programmatic-ad-buying/)**
+**[WTF is AI citation tracking?](https://digiday.com/media/wtf-is-ai-citation-tracking/)**
 
-Hallucination and latency are two main reasons against incorporating AI agents in programmatic ad buying, though there’s still a place for AI agents in programmatic workflows.
+Publishers are tracking AI citations to understand visibility, attribution gaps and referral traffic in these tools and platforms.
 
-Digiday • 39m ago
+Digiday • 52m ago
+
+---
+
+**[Scammers are using AI to target holiday shoppers. Here's how to protect yourself](https://www.nbclosangeles.com/news/local/scammers-using-ai-against-online-shoppers/3813448/)**
+
+Scammers and hackers are using artificial intelligence to dupe them for their own gain. Here’s what to know to avoid falling victim to them.
+
+NBC4 Los Angeles • 26m ago
+
+---
+
+**[What’s next in AI: 7 trends to watch in 2026](https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/)**
+
+Seven AI trends to watch in 2026 will make AI a true partner — boosting teamwork, security, research momentum and infrastructure efficiency.
+
+Microsoft Source • 12h ago
 
 ---
 
@@ -161,17 +171,15 @@ The Economist • 8h ago
 
 ---
 
-**[Trump greenlights Nvidia H200 AI chip sales to China if U.S. gets 25% cut, says Xi responded positively](https://www.cnbc.com/2025/12/08/trump-nvidia-h200-sales-china.html)**
+**[Investing In Unconventional AI: Biology-Scale Efficiency For The AI Era](https://lsvp.com/stories/investing-in-unconventional-ai-biology-scale-efficiency-for-the-ai-era/)**
 
-Nvidia and chip rival Advanced Micro Devices agreed over the summer to share 15% of the revenue from China chip sales with the U.S. government.
-
-CNBC • 8h ago
+Lightspeed Venture Partners • 11h ago
 
 ---
 
-**[AI Computer Startup Hits $4.5 Billion Valuation in Seed Round](https://www.bloomberg.com/news/articles/2025-12-08/ai-computer-startup-hits-4-5-billion-valuation-in-seed-round)**
+**[Nvidia Wins Trump’s Approval to Sell H200 AI Chips in China](https://www.bloomberg.com/news/articles/2025-12-08/nvidia-set-to-win-us-approval-to-export-h200-ai-chips-to-china)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -183,19 +191,13 @@ NBC News • 5h ago
 
 ---
 
-**[The power crunch threatening America’s AI ambitions](https://ig.ft.com/ai-power/)**
-
-Financial Times • 1d ago
-
----
-
 ---
 
 ## HackerNews: "ai"
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 571 • 💬 179 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 572 • 💬 179 • 1d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -203,7 +205,7 @@ Financial Times • 1d ago
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 386 • 💬 327 • 12h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 386 • 💬 328 • 12h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -211,19 +213,19 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 254 • 💬 163 • 5h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 269 • 💬 176 • 5h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 129 • 💬 121 • 12h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 132 • 💬 125 • 12h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 118 • 💬 204 • 1d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 119 • 💬 204 • 1d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -323,7 +325,7 @@ Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Fu
 
 📺 Dan Kieft
 
-👁️ 19K • 💬 18 • ⏱️ 20:04 • 12h ago
+👁️ 19K • 💬 18 • ⏱️ 20:04 • 13h ago
 
 ---
 
@@ -379,7 +381,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 201,990 • ❤️ 2,361 • 13h ago
+⬇️ 201,990 • ❤️ 2,364 • 13h ago
 
 ---
 
@@ -391,7 +393,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 40,450 • ❤️ 542 • 1h ago
+⬇️ 40,450 • ❤️ 544 • 1h ago
 
 ---
 
@@ -447,31 +449,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 3,573 • ❤️ 390 • 6d ago
-
----
-
-**[Ministral-3-14B-Instruct-2512](https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512)**
-
-*Mistral AI_*
-
-Ministral 3 14B Instruct is a powerful, edge-optimized multilingual vision-language model fine-tuned for instruction tasks. It excels in chat, agentic use cases with native function calling, and local deployments due to its FP8 quantization and 256k context window.
-
-`13.9B`
-
-⬇️ 179,920 • ❤️ 154 • 3d ago
-
----
-
-**[LongCat-Image](https://huggingface.co/meituan-longcat/LongCat-Image)**
-
-*LongCat*
-
-LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusion model with 6B parameters, excelling in photorealism and accurate Chinese character rendering. It's designed for high performance and developer accessibility, suitable for diverse creative applications.
-
-`text-to-image`
-
-⬇️ 99 • ❤️ 153 • 17h ago
+⬇️ 3,573 • ❤️ 392 • 6d ago
 
 ---
 
@@ -483,7 +461,31 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 0 • ❤️ 153 • 18h ago
+⬇️ 0 • ❤️ 159 • 21m ago
+
+---
+
+**[Ministral-3-14B-Instruct-2512](https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512)**
+
+*Mistral AI_*
+
+Ministral 3 14B Instruct is a powerful, edge-optimized multilingual vision-language model fine-tuned for instruction tasks. It excels in chat, agentic use cases with native function calling, and local deployments due to its FP8 quantization and 256k context window.
+
+`13.9B`
+
+⬇️ 179,920 • ❤️ 155 • 3d ago
+
+---
+
+**[LongCat-Image](https://huggingface.co/meituan-longcat/LongCat-Image)**
+
+*LongCat*
+
+LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusion model with 6B parameters, excelling in photorealism and accurate Chinese character rendering. It's designed for high performance and developer accessibility, suitable for diverse creative applications.
+
+`text-to-image`
+
+⬇️ 99 • ❤️ 155 • 18h ago
 
 ---
 
@@ -645,7 +647,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 13h ago
+⭐ 1.6k • 🔱 132 • 14h ago
 
 ---
 
@@ -685,7 +687,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 906 • 🔱 128 • 3h ago
+⭐ 906 • 🔱 128 • 4h ago
 
 ---
 

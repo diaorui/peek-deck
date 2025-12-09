@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T05:42:45.418603+00:00'
+updated: '2025-12-09T05:54:13.879243+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 05:42 UTC  
+**Last Updated:** December 09, 2025 at 05:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -78,19 +78,19 @@ According to Reuters, NVIDIA and SoftBank, combined, are looking to invest more 
 
 ---
 
-**[GITAI robots cooperatively assemble a 5-meter tower, a building block for future off-world habitats](https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/)**
-
-Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
-
-1d ago
-
----
-
 **[UFactory xArm 6 with gripper for sale - UK](https://www.reddit.com/r/robotics/comments/1phhqde/ufactory_xarm_6_with_gripper_for_sale_uk/)**
 
 Hi, I have a UFactory xArm 6 robot arm for sale, it is currently sitting on a shelf unused and I'm sure someone out there (UK based) can make much better use of it than I can. This unit is used but in good working condition. It has the gripper attachment included and comes as part of the package. I don't have the original box anymore but I can box it up with protective materials and another suitably strong box if shipping or ideally could be collected or delivered to the new owner. The uFactory x-arm 6 is a 6 axis robot featuring a 5kg payload capacity, 700mm reach. This unit has a gripper attachment included and is compatible with multiple operating systems using the xArm studio software.
 
 12h ago
+
+---
+
+**[GITAI robots cooperatively assemble a 5-meter tower, a building block for future off-world habitats](https://www.reddit.com/r/robotics/comments/1pgfvku/gitai_robots_cooperatively_assemble_a_5meter/)**
+
+Website: https://gitai.tech/ On 𝕏: https://x.com/GITAI_HQ Previous post: https://www.reddit.com/r/robotics/comments/1pd2kbm/gitai_is_designing_robots_that_can_maintain/
+
+1d ago
 
 ---
 
@@ -136,19 +136,19 @@ Bloomberg.com • 15h ago
 
 ---
 
-**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
-
-Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
-
-Decrypt • 6h ago
-
----
-
 **[Tether Invests in Generative Bionics as Part of Funding Round to Advance Intelligent “Made in Italy” Humanoid Robots](https://tether.io/news/tether-invests-in-generative-bionics-as-part-of-funding-round-to-advance-intelligent-made-in-italy-humanoid-robots/)**
 
 8 December 2025 – Tether Investments announced today an investment in Generative Bionics, the largest spinoff in the history of IIT (the Italian Institute of Technology) and one of the largest research spinoffs in Europe, to support the development of a new generation of intelligent humanoid robots built for industrial scale performance, human-centric interaction and […]
 
 Tether.io • 10h ago
+
+---
+
+**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
+
+Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
+
+Decrypt • 6h ago
 
 ---
 
@@ -200,7 +200,7 @@ CNN • 1d ago
 
 📺 AI . Robot
 
-👁️ 48K • 👍 717 • 💬 13 • ⏱️ 0:19 • 16h ago
+👁️ 48K • 👍 717 • 💬 13 • ⏱️ 0:19 • 17h ago
 
 ---
 
@@ -290,7 +290,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 162K • 👍 696 • 💬 6 • ⏱️ 0:17 • 22h ago
+👁️ 162K • 👍 696 • 💬 6 • ⏱️ 0:17 • 23h ago
 
 ---
 

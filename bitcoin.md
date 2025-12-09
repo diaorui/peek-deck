@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T05:42:45.409211+00:00'
+updated: '2025-12-09T05:54:13.869758+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 05:42 UTC  
+**Last Updated:** December 09, 2025 at 05:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -3.7%  
-**30d:** -15.0%  
-**90d:** -21.8%  
-**1y:** -6.5%  
+**24h:** -1.6%  
+**7d:** -3.9%  
+**30d:** -15.1%  
+**90d:** -21.9%  
+**1y:** -6.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1794.16B
+**Market Cap:** $1797.58B
 Rank #1
 
 **Circulating Supply:** 19,959,600 BTC
@@ -64,7 +64,7 @@ Rank #1
 -28.7%
 
 **All-Time Low:** $67.81
-+132389.3%
++132558.9%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-3h ago
+4h ago
 
 ---
 
@@ -125,15 +125,15 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 ---
 
-**[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
-
-22h ago
-
----
-
 **[...and then they join you.](https://www.reddit.com/r/Bitcoin/comments/1phxg26/and_then_they_join_you/)**
 
 2h ago
+
+---
+
+**[Sorry, no time for ego 👋🏼](https://www.reddit.com/r/Bitcoin/comments/1ph5p4w/sorry_no_time_for_ego/)**
+
+23h ago
 
 ---
 
@@ -165,6 +165,30 @@ Morningstar • 18h ago
 
 ---
 
+**[Bitcoin Slips Toward ETF Break-Even Level as Inflows Slow, but Support May Be Building](https://finance.yahoo.com/news/bitcoin-slips-toward-etf-break-051959075.html)**
+
+Bitcoin is drifting back toward the price where ETF buyers break even, as inflows slow and investors look to the Fed’s decision this week.
+
+Yahoo Finance • 35m ago
+
+---
+
+**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
+
+Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
+
+Financial Times • 12h ago
+
+---
+
+**[Bitcoin's 2025 rollercoaster may end on a low](https://finance.yahoo.com/news/bitcoins-2025-rollercoaster-may-end-050859649.html)**
+
+With a series of record highs and crushing sell-offs, 2025 has been a rollercoaster ride for bitcoin, the world's largest cryptocurrency, which is at risk of ending the year with its first annual decline since 2022.  The world's main stock benchmarks have also had a turbulent year, repeatedly hitting record peaks and then pulling ​back as worries over tariffs, interest rates and a possible AI bubble whipsawed markets.  While equities are mostly up year-to-date, bitcoin's overall correlation with share prices has strengthened markedly this year.
+
+Yahoo Finance • 46m ago
+
+---
+
 **[IRS Rule Changes In 2026 Bitcoin, Ethereum, XRP Traders Need To Know About](https://finance.yahoo.com/news/irs-rule-changes-2026-bitcoin-033050163.html)**
 
 U.S. crypto investors now have just over two weeks to execute any final sales before sweeping IRS reporting rules go live on January 1, 2026. What Happened: Beginning in 2026, centralized exchanges will be required to follow the same cost-basis ...
@@ -173,23 +197,19 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqfuYRt8U5JMJc6LYH6n3GlznG02rAnMkXDaJoZN2-xGsmAHbhL45yZM&gaa_ts=6937b590&gaa_sig=KMFq_5pxHEgpQddmND2T8ZFFXqzL0-KXxe8ELA2HCbfzeYiEypfAvfpzOrfCG4_IJ2rxQVYLfSm4FuqYc3bHFQ%3D%3D)**
+**[Texas launches cryptocurrency reserve with $5M Bitcoin purchase](https://www.businessreport.com/article/texas-launches-cryptocurrency-reserve-with-5m-bitcoin-purchase)**
 
-MarketWatch • 7h ago
+Texas has launched its new cryptocurrency reserve with a $5 million purchase of Bitcoin as the state continues to embrace the volatile and controversial digital currency. The Texas Comptroller’s Office confirmed the purchase was made last month as a “placeholder investment” while the office works to contract with a cryptocurrency bank to manage its portfolio. […]
 
----
-
-**[Michael Saylor Explains Why Banks Are No Longer Waiting for Bitcoin](https://www.binance.com/en/square/post/33413939298642)**
-
-Binance • 1d ago
+Baton Rouge Business Report • 9h ago
 
 ---
 
-**[Michael Saylor Just Made His Biggest Bitcoin Bet of H2 2025](https://finance.yahoo.com/news/michael-saylor-just-made-biggest-033645878.html)**
+**[Why Investors Shouldn't Romanticize Bitcoin, From a Financial Planner](https://www.kiplinger.com/investing/cryptocurrency/why-investors-shouldnt-romanticize-bitcoin)**
 
-Strategy reported its largest Bitcoin purchase in more than three months on Monday, only days after spending close to $1Bn on the cryptocurrency. The firm, based in Tysons Corner, Virginia, said it bought 10,624 BTC for $963M. Most of the funding came from issuing new common stock. The latest purchase ...
+Investors should treat bitcoin as the volatile, high-risk asset it is. A look at the data, along with comparisons to the Magnificent 7 stocks, indicates a small (1% to 2%) portfolio allocation for most investors would be the safest.
 
-Yahoo Finance • 2h ago
+Kiplinger • 19h ago
 
 ---
 
@@ -199,25 +219,9 @@ TheStreet • 12h ago
 
 ---
 
-**[Bitcoin Price (BTC) Analysis: Weakness Versus Stocks Speaks to Tepid Demand](https://www.coindesk.com/markets/2025/12/08/bitcoin-treads-water-near-usd90k-as-bitfinex-warns-of-fragile-setup-to-shocks)**
+**[CFTC clears path for ETH, Bitcoin and USDC to be used as collateral in derivatives markets](https://www.theblock.co/post/381804/cftc-ether-bitcoin-usdc-collateral-derivatives-markets)**
 
-BTC's relative weakness compared to stocks points to tepid spot demand, making the largest crypto vulnerable to macro volatility, Bitfinex analysts said.
-
-CoinDesk • 8h ago
-
----
-
-**[Bitcoin Traders Target $20K Bitcoin Strike as Deep Out of the Money Options Gain Traction](https://www.coindesk.com/markets/2025/12/08/bitcoin-traders-target-usd20k-bitcoin-strike-as-deep-out-of-the-money-options-gain-traction)**
-
-These flows represent a bullish bet on volatility rather than a downside hedge or outright bearish position.
-
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
-
-Reuters • 34m ago
+The Block • 7h ago
 
 ---
 

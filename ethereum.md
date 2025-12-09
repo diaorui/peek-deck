@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T05:42:45.415296+00:00'
+updated: '2025-12-09T05:54:13.875755+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 05:42 UTC  
+**Last Updated:** December 09, 2025 at 05:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.4%  
-**7d:** -2.2%  
-**30d:** -12.5%  
-**90d:** -30.2%  
-**1y:** -14.0%  
+**24h:** -0.7%  
+**7d:** -2.5%  
+**30d:** -12.7%  
+**90d:** -30.4%  
+**1y:** -14.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $375.04B
+**Market Cap:** $375.94B
 Rank #2
 
 **Circulating Supply:** 120,695,272 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--37.2%
+-37.1%
 
 **All-Time Low:** $0.43
-+717096.4%
++717863.2%
 
 ---
 
@@ -180,11 +180,23 @@ Decrypt • 11h ago
 
 ---
 
+**[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
+
+Binance • 13h ago
+
+---
+
 **[IRS Rule Changes In 2026 Bitcoin, Ethereum, XRP Traders Need To Know About](https://finance.yahoo.com/news/irs-rule-changes-2026-bitcoin-033050163.html)**
 
 U.S. crypto investors now have just over two weeks to execute any final sales before sweeping IRS reporting rules go live on January 1, 2026. What Happened: Beginning in 2026, centralized exchanges will be required to follow the same cost-basis ...
 
 Yahoo Finance • 2h ago
+
+---
+
+**[XRP Blasts Past Bitcoin and Ethereum Sell-offs, Analyst Declares Rally Will Hit on ‘Promising Fundamentals’](https://www.tipranks.com/news/xrp-blasts-past-bitcoin-and-ethereum-selloffs-analyst-declares-rally-will-hit-on-promising-fundamentals)**
+
+TipRanks • 16h ago
 
 ---
 
@@ -204,25 +216,11 @@ The Motley Fool • 1d ago
 
 ---
 
-**[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
-
-Binance • 13h ago
-
----
-
 **[Ethereum Founder Breaks Silence With Major Upgrade Proposal](https://www.tradingview.com/news/newsbtc:3ee27326c094b:0-ethereum-founder-breaks-silence-with-major-upgrade-proposal/)**
 
 Ethereum co-founder Vitalik Buterin has unveiled a major proposal that could fundamentally reshape how the network handles transaction fees. His new design aims to replace unpredictable costs with a system that lets users plan and budget more effectively, signaling one of the most significant shift…
 
 TradingView • 17h ago
-
----
-
-**[Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds](https://finance.yahoo.com/news/tom-lee-bitmine-buys-429-162833185.html)**
-
-Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
-
-Yahoo Finance • 13h ago
 
 ---
 
@@ -256,7 +254,7 @@ In today's Milk Road episode, we sit down with CMT Digital's Aryan Sheikhalian t
 
 📺 Milk Road
 
-👁️ 1K • 👍 96 • 💬 81 • ⏱️ 33:06 • 9h ago
+👁️ 1K • 👍 96 • 💬 81 • ⏱️ 33:06 • 10h ago
 
 ---
 
@@ -286,7 +284,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 2K • 👍 433 • 51m ago
+👁️ 2K • 👍 433 • 1h ago
 
 ---
 
