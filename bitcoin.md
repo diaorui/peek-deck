@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T20:28:32.688064+00:00'
+updated: '2025-12-09T20:42:38.095691+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 20:28 UTC  
+**Last Updated:** December 09, 2025 at 20:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,998.17
+### $93,078.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** -0.9%  
-**30d:** -12.5%  
-**90d:** -19.5%  
-**1y:** -3.8%  
+**24h:** +1.9%  
+**7d:** -0.6%  
+**30d:** -12.3%  
+**90d:** -19.3%  
+**1y:** -3.5%  
 
 ---
 
@@ -99,13 +99,13 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 **["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
 
-42m ago
+56m ago
 
 ---
 
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -113,7 +113,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 Bitcoin just smashed through 94k and the energy feels unreal right now, though GetAgent actually predicted this move earlier, and watching the chart rip up is extremely good, everyone thinks you’re smiling at your phone for something else, not knowing, it’s just BTC doing what it does best.
 
-59m ago
+1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Indiana lawmakers are making history with groundbreaking legislation that would 
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-WIRED • 9h ago
+WIRED • 10h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 4h ago
 
 XRP's technical outlook remains uncertain, with support at $2.05 and resistance at $2.17, as traders watch for volume expansion
 
-CoinDesk • 50m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 50m ago
 
 The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
 
-Yahoo Finance • 12m ago
+Yahoo Finance • 26m ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 12m ago
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -219,7 +219,7 @@ Yahoo Finance • 7h ago
 
 **[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqfiP6WPu_781pdGawRyUrwtjvxKeY7cMr8QAjWBQ2-7ZQwvnjLiQMDT&gaa_ts=693889db&gaa_sig=9ekaEnAiyEyJGTSC4DrZth9Ihw7XP-COJiSSSdPoTYLrXODGDG5O8OKXjCo7eATpdWGZW8lT-PMgQvcSjqaHRg%3D%3D)**
 
-MarketWatch • 21h ago
+MarketWatch • 22h ago
 
 ---
 
@@ -341,7 +341,7 @@ Let's talk about the price of #Bitcoin going into FOMC! Into The Cryptoverse Pre
 
 📺 Benjamin Cowen
 
-👁️ 33K • 👍 3K • 💬 124 • ⏱️ 9:09 • 6h ago
+👁️ 33K • 👍 3K • 💬 124 • ⏱️ 9:09 • 7h ago
 
 ---
 
@@ -391,7 +391,7 @@ Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation o
 
 📺 Bitcoin Magazine
 
-👁️ 4K • 👍 417 • 💬 72 • ⏱️ 42:27 • 3h ago
+👁️ 4K • 👍 417 • 💬 72 • ⏱️ 42:27 • 4h ago
 
 ---
 
@@ -401,7 +401,7 @@ Alpha Report Membership w/ Courses, Private Lives, & Trades: https://MeetKevin.c
 
 📺 Meet Kevin
 
-👁️ 16K • 👍 461 • 💬 7 • ⏱️ 1:46:01 • 2h ago
+👁️ 16K • 👍 461 • 💬 7 • ⏱️ 1:46:01 • 3h ago
 
 ---
 

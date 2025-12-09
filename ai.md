@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T20:28:32.679639+00:00'
+updated: '2025-12-09T20:42:38.086865+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- social
 - videos
+- social
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 20:28 UTC  
+**Last Updated:** December 09, 2025 at 20:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is 
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-🔗 [WIRED](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/) • 5h ago
+🔗 [WIRED](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/) • 6h ago
 
 ---
 
@@ -71,7 +71,7 @@ In the face of a profitability crisis, industrial-scale bitcoin miners are trans
 
 American AI giants are backing a new effort to establish open standards for building agentic software and tools.
 
-🔗 [WIRED](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/) • 2h ago
+🔗 [WIRED](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/) • 3h ago
 
 ---
 
@@ -87,7 +87,7 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 Shoppers may be unaware they're paying as much as 23% more than others for the same grocery items on Instacart, a new analysis says.
 
-🔗 [cbsnews.com](https://www.cbsnews.com/news/instacart-price-discrepancies-investigation/) • 23m ago
+🔗 [cbsnews.com](https://www.cbsnews.com/news/instacart-price-discrepancies-investigation/) • 37m ago
 
 ---
 
@@ -121,7 +121,7 @@ People keep talking about “fixing hallucination,” but nobody is asking the o
 
 **[Why the A.I. Boom Is Unlike the Dot-Com Boom](https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 8h ago
 
 Nearly a third of US teenagers say they use AI chatbots daily, a new study finds, shedding light on how young people are embracing a technology that’s raised critical safety concerns around mental health impacts and exposure to mature content for kids.
 
-CNN • 27m ago
+CNN • 41m ago
 
 ---
 
@@ -145,7 +145,7 @@ CNN • 27m ago
 
 New studies show AI tools beating human professionals in law and advertising—challenging the assumption that human-AI collaboration always produces the best results.
 
-Fortune • 15m ago
+Fortune • 29m ago
 
 ---
 
@@ -153,7 +153,7 @@ Fortune • 15m ago
 
 Nvidia and chip rival Advanced Micro Devices agreed over the summer to share 15% of the revenue from China chip sales with the U.S. government.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -169,7 +169,7 @@ BBC • 18h ago
 
 Seeking Alpha's roundup of statements, announcements, or remarks that could impact the technology sector. Read more here.
 
-Seeking Alpha • 52m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Seeking Alpha • 52m ago
 
 For all the fears of over-investment, AI is spreading across enterprises at a pace with no precedent in modern software history.
 
-Menlo Ventures • 7h ago
+Menlo Ventures • 8h ago
 
 ---
 
@@ -299,7 +299,7 @@ Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsai
 
 📺 hxsain
 
-👁️ 18K • 👍 1K • 💬 70 • ⏱️ 0:51 • 1h ago
+👁️ 18K • 👍 1K • 💬 70 • ⏱️ 0:51 • 2h ago
 
 ---
 
@@ -309,7 +309,7 @@ Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS
 
 📺 AI Revolution
 
-👁️ 27K • 👍 847 • 💬 63 • ⏱️ 13:12 • 19h ago
+👁️ 27K • 👍 847 • 💬 63 • ⏱️ 13:12 • 20h ago
 
 ---
 
@@ -339,7 +339,7 @@ President Trump is renewing his push to ban state AI regulations.
 
 📺 WKRN News 2
 
-👁️ 2K • 👍 12 • 💬 11 • ⏱️ 2:16 • 21h ago
+👁️ 2K • 👍 12 • 💬 11 • ⏱️ 2:16 • 22h ago
 
 ---
 
@@ -359,7 +359,7 @@ Use DeepAgent To Help You Start a Business with AI: https://deepagent.abacus.ai/
 
 📺 Rob The AI Guy
 
-👁️ 5K • 👍 195 • 💬 42 • ⏱️ 17:47 • 1d ago
+👁️ 5K • 👍 195 • 💬 42 • ⏱️ 17:47 • 2d ago
 
 ---
 
@@ -369,7 +369,7 @@ Join Impossible AIs and unlock exclusive perks! ✨ https://www.youtube.com/@Imp
 
 📺 Impossible AIs
 
-👁️ 14K • 👍 95 • 💬 5 • ⏱️ 12:21 • 8h ago
+👁️ 14K • 👍 95 • 💬 5 • ⏱️ 12:21 • 9h ago
 
 ---
 
@@ -443,7 +443,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 687 • ❤️ 195 • 14h ago
+⬇️ 687 • ❤️ 195 • 15h ago
 
 ---
 
@@ -691,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 126 • 35m ago
+⭐ 1.0k • 🔱 126 • 49m ago
 
 ---
 

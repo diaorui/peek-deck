@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T20:28:32.697297+00:00'
+updated: '2025-12-09T20:42:38.105232+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 20:28 UTC  
+**Last Updated:** December 09, 2025 at 20:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Self-driving delivery vehicles, in rural parts of China, now move along village roads by themselves, dropping off daily goods to local shops](https://www.reddit.com/r/robotics/comments/1pi4b61/selfdriving_delivery_vehicles_in_rural_parts_of/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -66,7 +66,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 Teaching Robots to Understand Natural Language Built an autonomous navigation system where you can command a robot in plain English - "go to the person" or "find the chair" - and it handles the rest. What I Learned: Distributed ROS2: Ran LLM inference on NVIDIA Jetson Orin Nano while handling vision/navigation on my main system. Multi-machine communication over ROS2 topics was seamless. Edge Al Reality: TinyLlama on Jetson's CPU takes 2-10s per command, but the 8GB unified memory and no GPU dependency makes it perfect for robotics. Real edge computing without much latency. Vision + Planning: YOLOv8 detects object classes, monocular depth estimation calculates distance, Nav2 plans the path. When the target disappears, the robot autonomously searches with 360° rotation patterns. On Jetson Orin Nano Super: Honestly impressed. It's the perfect middle ground - more capable than Raspberry Pi, more accessible than industrial modules. Running Ollama while maintaining real-time ROS2 communication proved its robotics potential. Stack: ROS2 | YOLOv8 | Ollama/TinyLlama | Nav2 | Gazebo Video shows the full pipeline - natural language → LLM parsing → detection → autonomous navigation.
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Engineers build artificial tendons that let muscle-powered robots move faster an
 
 North American robot orders picked up again in Q3 2025, pointing to renewed momentum in manufacturing automation after a slower period. According to the latest market data, companies in North America ordered 8,806 robots in the third quarter, worth about $574 million. That works out to an 11.6 percent increase in units and a 17.2 percent increase in revenue compared to the same quarter last year. The most notable gains came from food and consumer goods, where robot orders were up more than 100 percent year over year, and from automotive OEMs, which saw orders rise sharply as well. Metals and general manufacturing also posted growth, while automotive components and plastics and rubber recorded declines, suggesting a more selective investment cycle in those segments.
 
-29m ago
+43m ago
 
 ---
 
@@ -144,7 +144,7 @@ Decrypt • 21h ago
 
 The Chinese robotics firm EngineAI lets its humanoid robot loose on its CEO, whom it promptly proceeds to lay out.
 
-Futurism • 22h ago
+Futurism • 23h ago
 
 ---
 
@@ -214,7 +214,7 @@ The founder and CEO of EngineAI just took a robot kick to the chest in an attemp
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 45 • 💬 30 • ⏱️ 8:31 • 19h ago
+👁️ 2K • 👍 45 • 💬 30 • ⏱️ 8:31 • 20h ago
 
 ---
 
