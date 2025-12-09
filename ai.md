@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T13:40:53.024508+00:00'
+updated: '2025-12-09T13:57:13.246789+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - social
-- videos
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 13:40 UTC  
+**Last Updated:** December 09, 2025 at 13:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai says no job, not even his own, is safe. But those who don’t adapt will be the first to fall.
 
-🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 15h ago
+🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 16h ago
 
 ---
 
@@ -63,7 +63,7 @@ AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai sa
 
 Do you have a blog post or content that needs an image? Use our image generator to easily generate the best picture for your blog post using AI.
 
-🔗 [SocialBu](https://socialbu.com/tools/blog-image-generator) • 2h ago
+🔗 [SocialBu](https://socialbu.com/tools/blog-image-generator) • 3h ago
 
 ---
 
@@ -71,7 +71,7 @@ Do you have a blog post or content that needs an image? Use our image generator 
 
 Google’s AI try-on app Doppl adds a shoppable discovery feed.[1] Claude Code is coming to Slack, and that’s a bigger deal than it sounds.[2] Google Colab Integrates KaggleHub for One Click Access to Kaggle Datasets, Models and Competitions.[3] Trump says AI executive order limiting state rules coming this week.[4] Sources: [1] https://techcrunch.com/2025/12/08/googles-ai-try-on-app-doppl-adds-a-shoppable-discovery-feed/ [2] https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/ [3] https://www.marktechpost.com/2025/12/07/google-colab-integrates-kagglehub-for-one-click-access-to-kaggle-datasets-models-and-competitions/ [4] https://www.politico.com/news/2025/12/08/trump-says-ai-executive-order-limiting-state-rules-coming-this-week-00680557
 
-7h ago
+8h ago
 
 ---
 
@@ -87,7 +87,7 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming releases by names that resemble existing trademarks.
 
-🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 16h ago
+🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 17h ago
 
 ---
 
@@ -135,7 +135,7 @@ The Economist • 16h ago
 
 AI can be a powerful tool for designers, but human creativity is still key, Mike Peng said at Fortune Brainstorm Design in Macau on Dec. 2.
 
-Fortune • 19m ago
+Fortune • 36m ago
 
 ---
 
@@ -143,7 +143,7 @@ Fortune • 19m ago
 
 IRVINE, Calif., December 09, 2025--Veritone leverages open architecture to deliver flexible, secure AI solutions on self-hosted private cloud environments.
 
-Yahoo Finance • 40m ago
+Yahoo Finance • 57m ago
 
 ---
 
@@ -151,7 +151,7 @@ Yahoo Finance • 40m ago
 
 Brook.ai, the company making remote care an integral part of U.S. healthcare by extending continuity of care outside the traditional practice setting, today announced its recognition with a Gold Award for Remote Patient Monitoring in the Connected Digital Health category at the 27th annual Digital Health Awards®. The prestigious program, organized by the Health Information Resource Center (HIRC), honors the most innovative digital health resources developed for consumers and health professionals
 
-Yahoo Finance • 35m ago
+Yahoo Finance • 52m ago
 
 ---
 
@@ -167,7 +167,7 @@ CNBC • 1h ago
 
 It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
@@ -175,7 +175,7 @@ BBC • 1h ago
 
 European Commission to assess whether Gemini owner is putting rival companies at a disadvantage
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -215,7 +215,7 @@ AI progress is steady. Human equivalence is sudden.
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 406 • 💬 358 • 20h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 406 • 💬 358 • 21h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -347,7 +347,7 @@ Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Fu
 
 📺 Dan Kieft
 
-👁️ 26K • 💬 26 • ⏱️ 20:04 • 20h ago
+👁️ 26K • 💬 26 • ⏱️ 20:04 • 21h ago
 
 ---
 
@@ -383,7 +383,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 217,428 • ❤️ 2,395 • 20h ago
+⬇️ 217,428 • ❤️ 2,395 • 21h ago
 
 ---
 
@@ -517,7 +517,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 168 • 💬 3 • ⭐ 5,926 • 11d ago
+▲ 168 • 💬 3 • ⭐ 5,926 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -641,7 +641,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.6k • 🔱 442 • 5h ago
+⭐ 5.6k • 🔱 442 • 6h ago
 
 ---
 
@@ -651,7 +651,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 21h ago
+⭐ 1.6k • 🔱 132 • 22h ago
 
 ---
 

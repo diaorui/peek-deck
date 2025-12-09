@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T13:40:53.040454+00:00'
+updated: '2025-12-09T13:57:13.265357+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 13:40 UTC  
+**Last Updated:** December 09, 2025 at 13:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Self-driving delivery vehicles, in rural parts of China, now move along village roads by themselves, dropping off daily goods to local shops](https://www.reddit.com/r/robotics/comments/1pi4b61/selfdriving_delivery_vehicles_in_rural_parts_of/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most concept machines, this one is production ready and operating in Hebei Province to address the aging rural workforce. The Tech Stack: Autonomy: Uses LiDAR and RTK-GNSS for path planning with ±2.5 cm precision. It handles the entire cycle: ploughing, seeding, spraying and harvesting without a driver. Smart Sensing: Beyond just driving, it collects real-time data on soil composition, moisture, and crop health while running. Powertrain: Pure electric with a dual-motor setup (separating traction from the PTO/farming implements) for better load control. Endurance: Runs for 6 hours on a single charge and coordinates via a 5G mesh network. "Agri-Robotics" is where we are seeing the first massive wave of real world autonomy. If a single person can manage a fleet of these from a tablet, it fundamentally changes the economics of small to medium farms. Source: Lucas
 
-21h ago
+22h ago
 
 ---
 
@@ -50,7 +50,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
-45m ago
+1h ago
 
 ---
 
@@ -58,7 +58,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 "May the sensors be with you "
 
-52m ago
+1h ago
 
 ---
 
@@ -78,7 +78,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 **[Which desktop robot would you choose?](https://www.reddit.com/r/robotics/comments/1pi7mj1/which_desktop_robot_would_you_choose/)**
 
-2m ago
+19m ago
 
 ---
 
@@ -120,7 +120,7 @@ Tech Xplore • 22h ago
 
 The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
 
-Breaking Defense • 22h ago
+Breaking Defense • 23h ago
 
 ---
 
@@ -152,7 +152,7 @@ Interesting Engineering • 21h ago
 
 SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
 
-PYMNTS.com • 15h ago
+PYMNTS.com • 16h ago
 
 ---
 

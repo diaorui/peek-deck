@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T13:40:53.032163+00:00'
+updated: '2025-12-09T13:57:13.255778+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 13:40 UTC  
+**Last Updated:** December 09, 2025 at 13:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
-**7d:** -3.4%  
+**24h:** -0.5%  
+**7d:** -3.5%  
 **30d:** -14.8%  
 **90d:** -21.6%  
-**1y:** -6.2%  
+**1y:** -6.3%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Swim with the whales](https://www.reddit.com/r/Bitcoin/comments/1pi4cuq/swim_with_the_whales/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-11h ago
+12h ago
 
 ---
 
 **[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
 
-42m ago
+58m ago
 
 ---
 
@@ -125,7 +125,7 @@ And most who keep panicking, and those crazy shenanigans fud are mostly from noo
 
 **[Staring into the BTC abyss, waiting for it to explain itself](https://www.reddit.com/r/Bitcoin/comments/1pi3i32/staring_into_the_btc_abyss_waiting_for_it_to/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -153,7 +153,7 @@ Reuters • 8h ago
 
 **[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance)**
 
-The Block • 1h ago
+The Block • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Futurism • 2d ago
 
 PNC Financial Services Group Inc.’s high-net-worth customers can now trade Bitcoin directly through their investment accounts, fulfilling an initial goal of the Pittsburgh-based lender’s partnership with Coinbase Global Inc. announced in July.
 
-Bloomberg.com • 55m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -315,7 +315,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 165 • ⏱️ 10:16 • 11h ago
+👁️ 40K • 👍 2K • 💬 165 • ⏱️ 10:16 • 12h ago
 
 ---
 
