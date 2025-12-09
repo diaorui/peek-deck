@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T18:47:59.258048+00:00'
+updated: '2025-12-09T19:00:50.991340+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 18:47 UTC  
+**Last Updated:** December 09, 2025 at 19:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $94,145.33
+### $93,955.82
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.4%  
-**7d:** +0.4%  
-**30d:** -11.4%  
-**90d:** -18.5%  
-**1y:** -2.5%  
+**24h:** +3.1%  
+**7d:** +0.0%  
+**30d:** -11.7%  
+**90d:** -18.8%  
+**1y:** -2.9%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
 
-5h ago
+6h ago
 
 ---
 
 **[What’s going on?](https://www.reddit.com/r/Bitcoin/comments/1pib08s/whats_going_on/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-16h ago
+17h ago
 
 ---
 
@@ -113,13 +113,13 @@ If you had put $1000 into BTC in 2010 and left it alone without further investme
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pier04/daily_meme_until_100000/)**
 
-34m ago
+47m ago
 
 ---
 
 **[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -141,7 +141,7 @@ Indiana lawmakers are making history with groundbreaking legislation that would 
 
 **[Staring into the BTC abyss, waiting for it to explain itself](https://www.reddit.com/r/Bitcoin/comments/1pi3i32/staring_into_the_btc_abyss_waiting_for_it_to/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -165,31 +165,35 @@ Bloomberg.com • 3h ago
 
 ---
 
-**[XXI Drops 25% After SPAC Merger](https://www.coindesk.com/markets/2025/12/09/bitcoin-treasury-company-twenty-one-drops-25-in-nyse-debut-trades-near-pipe-pricing-of-usd10)**
+**[Standard Chartered cuts bitcoin forecast in half](https://www.cnbc.com/2025/12/09/standard-chartered-cuts-bitcoin-forecast-in-half.html)**
 
-The company is led by Strike CEO Jack Mallers and began trading under the XXI ticker today following its SPAC merger with Cantor Equity Partners.
+The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin Treasury Firm Backed by Tether, SoftBank Plunges on First Day of Trading](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqcnQahu02AJE530p7Y7fBoN9sv_cuCi34KrSPfwrP6EEgdnpmpwCzPl&gaa_ts=69386bba&gaa_sig=5-imY_XNtfyJ6D9RqgWIkoLALMqsIL0Lh3_79SR3VQw0kZItKnXjIQy5oISmGVi0F2QVG1VxVSRRLXIbHNn0bQ%3D%3D)**
-
-The Wall Street Journal • 10h ago
+CNBC • 24m ago
 
 ---
 
-**[Bitcoin jumps to $94,000, but 'hawkish' Fed cut threatens crypto rally](https://finance.yahoo.com/news/bitcoin-jumps-to-94000-but-hawkish-fed-cut-threatens-crypto-rally-164647910.html)**
+**[Standard Chartered Slashes 2025 Bitcoin Forecast to $100K](https://decrypt.co/351603/standard-chartered-slashes-2025-bitcoin-forecast-to-100k)**
 
-The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
+The bank has cut its 2025 Bitcoin price target by half, citing the end of corporate buying and sharply slowing ETF inflows.
 
-Yahoo Finance • 2h ago
+Decrypt • 6h ago
 
 ---
 
-**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
+**[Bitcoin Bulls Standard Chartered, Bernstein Pare Back Ambitious Year-End Forecasts](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-bulls-standard-chartered-bernstein-pare-back-most-ambitious-forecasts)**
 
-Reuters • 13h ago
+Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Bitcoin market is 'a little different now,' Blockstream CEO says](https://finance.yahoo.com/video/bitcoin-market-little-different-now-183000147.html)**
+
+Bitcoin (BTC-USD) hovers below $94,000 per token at the time of this video's posting as the crypto asset's recent bout of volatility is putting it on track for its first annual decline since 2022. Blockstream CEO Adam Back comes on Market Catalysts to discuss the cryptocurrency environment and Wall Street's own forecasts on the digital asset. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
+
+Yahoo Finance • 30m ago
 
 ---
 
@@ -217,9 +221,9 @@ CoinDesk • 4h ago
 
 ---
 
-**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqdXsXjMxd1oidtWHrtZ5UShuEPt9dMWqdJFlVhmvtBi9jgEvwKMzL-v&gaa_ts=69386bba&gaa_sig=IYK046SPlPA0guyM1J9bl_R1CIIQl8LKH8YePW7z9adsuWFTNKbl4ZJtX1y8O9ZVr5E4i45VVdeJOyOglZEgjg%3D%3D)**
+**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
 
-MarketWatch • 20h ago
+Reuters • 13h ago
 
 ---
 
@@ -289,7 +293,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 2h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 3h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -305,101 +309,103 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ## YouTube Videos: "bitcoin"
 
-**[The Fed Just Set the Stage for a Major Crypto Market Rally in 2026](https://www.youtube.com/watch?v=eVTxYvUrTgI)**
-
-LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Start Trading on Polymarket (#1 ...
-
-📺 Altcoin Daily
-
-👁️ 52K • 👍 3K • 💬 184 • ⏱️ 10:16 • 16h ago
-
----
-
-**[Banks Are Pushing Bitcoin Into the Death Spiral](https://www.youtube.com/watch?v=7XTc2dC6Q00)**
-
-How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemini Credit Card: http://gemini.com/andrei ...
-
-📺 Andrei Jikh
-
-👁️ 399K • 👍 14K • 💬 2K • ⏱️ 20:03 • 22h ago
-
----
-
 **[HUGE Bitcoin Reversal Incoming - Here&#39;s Why](https://www.youtube.com/watch?v=fEX9E7tYdfs)**
 
 Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
 📺 CryptosRUs
 
-👁️ 11K • 👍 904 • 💬 183 • ⏱️ 44:49 • 3h ago
+👁️ 18K • 👍 1K • 💬 237 • ⏱️ 44:49 • 3h ago
 
 ---
 
-**[[WARNING] This Will Have A MASSIVE Impact On Bitcoin and Crypto](https://www.youtube.com/watch?v=AWEx3aK7l2Y)**
+**[BITCOIN - THIS BANK JUST DID IT!!](https://www.youtube.com/watch?v=RWQKYlF5oVo)**
 
-In this clip, I talk about what is happening for bitcoin and crypto this week and the impact it will have. **Exchange Partners** ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
-📺 CryptosRus Extra
+📺 My Financial Friend
 
-👁️ 12K • 👍 560 • 💬 337 • ⏱️ 9:01 • 18h ago
-
----
-
-**[URGENT: 3 Reasons Bitcoin Will Have A Huge Move Soon!](https://www.youtube.com/watch?v=8uY5V6U4EQs)**
-
-In this video, Kyledoops shows you 3 very specific reasons why you can expect a big Bitcoin move soon. He will give you a ...
-
-📺 Crypto Banter
-
-👁️ 19K • 👍 1K • 💬 40 • ⏱️ 37:53 • 10h ago
+👁️ 11K • 👍 772 • 💬 196 • ⏱️ 8:51 • 3h ago
 
 ---
 
-**[Michael Saylor: “We’re Buying More Bitcoin Than Sellers Can Sell”](https://www.youtube.com/watch?v=Io3V7H-862c)**
+**[The Fed Just Set the Stage for a Major Crypto Market Rally in 2026](https://www.youtube.com/watch?v=eVTxYvUrTgI)**
 
-Michael Saylor declares he's more bullish than ever, stating his team can buy more Bitcoin than sellers can sell—and that they're ...
+LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Start Trading on Polymarket (#1 ...
 
-📺 Bitcoin Magazine
+📺 Altcoin Daily
 
-👁️ 645 • 👍 21 • 💬 80 • ⏱️ 0:36 • 3h ago
-
----
-
-**[The guy who told you to buy bitcoin 😬😑😂 #shorts #funny #comedy #crypto #bitcoin #btc #invest](https://www.youtube.com/watch?v=PIblMDfqXes)**
-
-📺 Matt & Justus
-
-👁️ 1.3M • 👍 76K • 💬 235 • ⏱️ 1:00 • 1d ago
+👁️ 56K • 👍 3K • 💬 192 • ⏱️ 10:16 • 17h ago
 
 ---
 
-**[The Biggest Crypto SHOCK Ever Is Coming... - Max Keiser Bitcoin](https://www.youtube.com/watch?v=NX3UF7ZpxUo)**
+**[Bitcoin Pre-FOMC](https://www.youtube.com/watch?v=kZGHzEGRyAM)**
 
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell -------- The Biggest Crypto SHOCK ...
+Let's talk about the price of #Bitcoin going into FOMC! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com Into ...
+
+📺 Benjamin Cowen
+
+👁️ 33K • 👍 3K • 💬 124 • ⏱️ 9:09 • 5h ago
+
+---
+
+**[Bitcoin Is Bouncing As Expected. Here&#39;s My Target](https://www.youtube.com/watch?v=AMkrct5F2q4)**
+
+Stay informed with the latest insights on **bitcoin**, focusing on effective **technical analysis** and essential **chart analysis**.
+
+📺 Krown
+
+👁️ 2K • 👍 356 • 💬 284 • ⏱️ 15:14 • 1h ago
+
+---
+
+**[Whales REVERSED Their Strategy! Bitcoin&#39;s Supercycle Is COMING - Jack Mallers](https://www.youtube.com/watch?v=hSA2wYGR31s)**
+
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: ...
 
 📺 Library Of Wealth
 
-👁️ 13K • 👍 577 • 💬 422 • ⏱️ 13:29 • 1d ago
+👁️ 9K • 👍 350 • 💬 534 • ⏱️ 15:38 • 13h ago
 
 ---
 
-**[Did Michael Saylor’s BIG LONG Just Trigger a Bitcoin Supercycle?!](https://www.youtube.com/watch?v=RTWgQ_EkFQ0)**
+**[Bitcoin Christmas Pump STARTING RIGHT NOW?](https://www.youtube.com/watch?v=J4h8KtSNdls)**
 
-Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. Jack Maullers? Just dropped 43K BTC into ...
+FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcrypto.com 🕊️ SECOND CITIZENSHIPS: ...
 
-📺 Simply Bitcoin
+📺 Crypto Tips
 
-👁️ 45K • 👍 3K • 💬 547 • ⏱️ 16:35 • 20h ago
+👁️ 1K • 👍 269 • 💬 21 • ⏱️ 7:45 • 1h ago
 
 ---
 
-**[CZ Says Bitcoin May Enter a “Super Cycle” Next Year](https://www.youtube.com/watch?v=RBtq1mYA3qw)**
+**[I Know The Crypto Bull Market Is Not Yet OVER! [Here’s Proof]](https://www.youtube.com/watch?v=-i_Yh6nDsos)**
 
-CZ says macro forces—rate cuts, QE, and Trump's market policy—may trigger a bitcoin “super cycle.” #Bitcoin #BTC #CZ ...
+Ran breaks down where we actually are in the crypto cycle using time, price, sentiment, volume, on-chain and macro signals.
+
+📺 Crypto Banter
+
+👁️ 16K • 👍 2K • 💬 40 • ⏱️ 35:30 • 3h ago
+
+---
+
+**[Michael Saylor Keynote | Bitcoin MENA 2025](https://www.youtube.com/watch?v=rQMFrpUFcNM)**
+
+Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation of a new global financial system. In this keynote, Saylor ...
 
 📺 Bitcoin Magazine
 
-👁️ 528 • 👍 26 • 💬 2 • ⏱️ 1:33 • 3h ago
+👁️ 4K • 👍 417 • 💬 72 • ⏱️ 42:27 • 2h ago
+
+---
+
+**[stocks, bitcoin, fed, and trump](https://www.youtube.com/watch?v=PvpKD0OpUAc)**
+
+Alpha Report Membership w/ Courses, Private Lives, & Trades: https://MeetKevin.com ❄️  ❄️ Reinvest AI Renovation ...
+
+📺 Meet Kevin
+
+👁️ 16K • 👍 461 • 💬 7 • ⏱️ 1:46:01 • 1h ago
 
 ---
 

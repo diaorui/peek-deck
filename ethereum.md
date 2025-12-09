@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T18:47:59.264039+00:00'
+updated: '2025-12-09T19:00:50.997337+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 18:47 UTC  
+**Last Updated:** December 09, 2025 at 19:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +7.8%  
-**7d:** +5.7%  
-**30d:** -5.4%  
-**90d:** -24.5%  
-**1y:** -7.1%  
+**24h:** +7.6%  
+**7d:** +5.8%  
+**30d:** -5.3%  
+**90d:** -24.4%  
+**1y:** -7.0%  
 
 ---
 
@@ -158,31 +158,25 @@ Decrypt • 1h ago
 
 ---
 
-**[ZKsync to deprecate ZKsync Lite in 2026, sunsetting Ethereum's first ZK rollup](https://www.theblock.co/post/381632/zksync-to-deprecate-zksync-lite-in-2026-sunsetting-ethereums-first-zk-rollup)**
+**[Prediction: If This 1 Policy Changes, Bitcoin and Ethereum Will Soar](https://www.fool.com/investing/2025/12/08/prediction-if-this-1-policy-changes-bitcoin-and-et/)**
 
-The Block • 1d ago
-
----
-
-**[Bitcoin and Ethereum Drive Renewed Strength in the Crypto Market](https://cryptodnes.bg/en/bitcoin-and-ethereum-drive-renewed-strength-in-the-crypto-market/)**
-
-CryptoDnes.bg • 1h ago
-
----
-
-**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/07/3-reasons-to-buy-ethereum-before-january-2026/)**
-
-Ethereum could be once again on the path to the $5,000 price level. Here's why.
+Japan is considering a big change to how it taxes crypto.
 
 The Motley Fool • 1d ago
 
 ---
 
-**[What Bitmine Immersion Technologies (BMNR)'s Pivot to Ethereum Treasury and Dividend Means For Shareholders](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-pivot-100740579.html)**
+**[What a $440,000 Hack Shows About the Rising Threat of Ethereum 'Permit Scams'](https://finance.yahoo.com/news/440-000-hack-shows-rising-175656652.html)**
 
-Bitmine Immersion Technologies has recently transformed into a crypto treasury and services platform, amassing more than 3% of Ethereum’s supply, boosting its Ethereum and Bitcoin holdings, returning to profit in 2025 and declaring a US$0.01 dividend payable on December 29, 2025. By targeting ownership of up to 5% of all Ethereum and scaling staking and fee-based services, the company is increasingly positioning its equity as a leveraged proxy on the Ethereum ecosystem rather than a...
+A single mistake cost one user nearly half a million dollars, highlighting how scammers are escalating phishing attacks.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin and Ethereum Drive Renewed Strength in the Crypto Market](https://cryptodnes.bg/en/bitcoin-and-ethereum-drive-renewed-strength-in-the-crypto-market/)**
+
+CryptoDnes.bg • 2h ago
 
 ---
 
@@ -194,6 +188,12 @@ Fortune • 20h ago
 
 ---
 
+**[Vitalik Buterin pushes for trustless gas futures market to hedge Ethereum fees, sparking debate over feasibility](https://www.theblock.co/post/381677/vitalik-buterin-pushes-for-trustless-gas-futures-market-to-hedge-ethereum-fees-sparking-debate)**
+
+The Block • 1d ago
+
+---
+
 **[Ether (ETH) ETF News: Staked Ether ETF (ETHB) Coming From BlackRock](https://www.coindesk.com/markets/2025/12/08/blackrock-files-for-staked-ethereum-etf-aiming-to-bring-yield-to-the-masses)**
 
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
@@ -202,11 +202,11 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Founder Breaks Silence With Major Upgrade Proposal](https://www.tradingview.com/news/newsbtc:3ee27326c094b:0-ethereum-founder-breaks-silence-with-major-upgrade-proposal/)**
+**[Ethereum Price Gears Up for a Breakout—Can ETH Outperform BTC Into the Year-End?](https://www.tradingview.com/news/coinpedia:4bc4baf33094b:0-ethereum-price-gears-up-for-a-breakout-can-eth-outperform-btc-into-the-year-end/)**
 
-Ethereum co-founder Vitalik Buterin has unveiled a major proposal that could fundamentally reshape how the network handles transaction fees. His new design aims to replace unpredictable costs with a system that lets users plan and budget more effectively, signaling one of the most significant shift…
+Ethereum is compressing just below a critical resistance band near $3,300–$3,350, even as the broader crypto market remains unsettled by Bitcoin’s choppy price action around $43,000–$44,000. Despite the volatility, the ETH price has defended support near $3,050, forming a tight consolidation range…
 
-TradingView • 1d ago
+TradingView • 10h ago
 
 ---
 
@@ -222,7 +222,7 @@ ZyCrypto • 3h ago
 
 Ethereum (ETH-USD) was trading higherÂ after BlackRock (BLK) filed a preliminary prospectus with the U.S. Securities and Exchange Commission for its iShares Staked Ethereum Trust ETF.
 
-Seeking Alpha • 21h ago
+Seeking Alpha • 22h ago
 
 ---
 
@@ -236,7 +236,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 11K • 👍 374 • 💬 309 • ⏱️ 12:46 • 1d ago
+👁️ 12K • 👍 383 • 💬 413 • ⏱️ 12:46 • 1d ago
 
 ---
 
@@ -246,17 +246,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 114 • 💬 7 • ⏱️ 4:05 • 6h ago
+👁️ 2K • 👍 145 • 💬 9 • ⏱️ 4:05 • 7h ago
 
 ---
 
-**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2025 New Prediction]](https://www.youtube.com/watch?v=8x2DjiAw3uI)**
+**[ETH Ethereum PUMPING NOW!!!! Multi Day Consolidation Awaits](https://www.youtube.com/watch?v=PfBHV0uYBfM)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
 
-📺 Crypto Nutshell
+📺 C-Zar Gets Crypto 
 
-👁️ 9K • 👍 341 • 💬 91 • ⏱️ 15:50 • 1d ago
+👁️ 84 • 👍 14 • 💬 1 • ⏱️ 13:32 • 21m ago
 
 ---
 
@@ -266,7 +266,17 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 73 • 💬 58 • ⏱️ 6:25 • 1d ago
+👁️ 3K • 👍 76 • 💬 58 • ⏱️ 6:25 • 1d ago
+
+---
+
+**[Ethereum – Solana – Ripple: Jetzt endlich kaufen?](https://www.youtube.com/watch?v=iMDhv3ryYaU)**
+
+TIPP: Sichere Dir den „TraderMacher Report“ → http://www.tradermacher.de ▻ Hier könnt Ihr den Kanal abonnieren ...
+
+📺 Tradermacher
+
+👁️ 1K • 👍 209 • 💬 21 • ⏱️ 9:57 • 1h ago
 
 ---
 
@@ -276,27 +286,27 @@ BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 11K • 👍 550 • 💬 319 • ⏱️ 19:51 • 20h ago
+👁️ 12K • 👍 560 • 💬 320 • ⏱️ 19:51 • 20h ago
 
 ---
 
-**[Why SOL, Ripple XRP, LINK and ETH Benefit from A High M2 Money Supply](https://www.youtube.com/watch?v=x9aN1UAgKlQ)**
+**[Tom Lee Apes Ethereum and Circle Releases Privacy Stablecoin: The Daily Bone Podcast](https://www.youtube.com/watch?v=kc8qoaQfqfw)**
 
-US M2 money supply just hit a new all-time high, and Bitcoin always seems to follow this. Selected altcoins could be in for a treat.
+Follow us on Twitter: https://x.com/BoDoggosENT Buy our NFT: https://www.tensor.trade/trade/bodoggos Subscribe to our Daily ...
 
-📺 Altcoin Buzz
+📺 The Daily Bone Podcast
 
-👁️ 735 • 👍 62 • 💬 197 • ⏱️ 14:52 • 4h ago
+👁️ 450 • 👍 22 • 💬 38 • ⏱️ 50:31 • 3h ago
 
 ---
 
-**[Bitcoin Live Trading: This Will Shock You! Prepare NOW, Most will FAIL EP1848](https://www.youtube.com/watch?v=b7GkwqTBUqg)**
+**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2025 New Prediction]](https://www.youtube.com/watch?v=8x2DjiAw3uI)**
 
-Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.cryptolifer.com Pionex: Best Bot Platform ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
 
-📺 Crypto Lifer
+📺 Crypto Nutshell
 
-👁️ 4K • 👍 671 • 4h ago
+👁️ 9K • 👍 342 • 💬 90 • ⏱️ 15:50 • 1d ago
 
 ---
 
@@ -306,27 +316,17 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 76K • 👍 3K • 💬 335 • ⏱️ 11:32 • 2d ago
+👁️ 76K • 👍 3K • 💬 336 • ⏱️ 11:32 • 2d ago
 
 ---
 
-**[The Biggest Ethereum Risk No One Wants to Admit w/ Aryan Sheikhalian](https://www.youtube.com/watch?v=rQPZq2hRlLM)**
+**[BlackRock files application with SEC for staked ether ETF: CNBC Crypto World](https://www.youtube.com/watch?v=2KhviSIAuxI)**
 
-In today's Milk Road episode, we sit down with CMT Digital's Aryan Sheikhalian to uncover the one risk for Ethereum almost ...
+On today's episode of CNBC Crypto World, bitcoin continues to trade below $90000. Plus, Ondo Finance says the SEC formally ...
 
-📺 Milk Road
+📺 CNBC Television
 
-👁️ 2K • 👍 110 • 💬 81 • ⏱️ 33:06 • 22h ago
-
----
-
-**[Forget About Bitcoin. Ethereum Is About To 3X](https://www.youtube.com/watch?v=Fv3WoVhGEr4)**
-
-Everyone is obsessed with “Bitcoin to 100K” or “Bitcoin is dead.” In this video I explain why you should forget about Bitcoin in the ...
-
-📺 Crypto Hustle
-
-👁️ 713 • 👍 53 • 💬 9 • ⏱️ 11:10 • 9h ago
+👁️ 24K • 👍 369 • 💬 385 • ⏱️ 13:30 • 22h ago
 
 ---
 

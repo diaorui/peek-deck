@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T18:47:59.267307+00:00'
+updated: '2025-12-09T19:00:51.000578+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 18:47 UTC  
+**Last Updated:** December 09, 2025 at 19:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
-5h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 "May the sensors be with you "
 
-5h ago
+6h ago
 
 ---
 
@@ -59,6 +59,14 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most concept machines, this one is production ready and operating in Hebei Province to address the aging rural workforce. The Tech Stack: Autonomy: Uses LiDAR and RTK-GNSS for path planning with ±2.5 cm precision. It handles the entire cycle: ploughing, seeding, spraying and harvesting without a driver. Smart Sensing: Beyond just driving, it collects real-time data on soil composition, moisture, and crop health while running. Powertrain: Pure electric with a dual-motor setup (separating traction from the PTO/farming implements) for better load control. Endurance: Runs for 6 hours on a single charge and coordinates via a 5G mesh network. "Agri-Robotics" is where we are seeing the first massive wave of real world autonomy. If a single person can manage a fleet of these from a tablet, it fundamentally changes the economics of small to medium farms. Source: Lucas
 
 1d ago
+
+---
+
+**[MIT engineers give biohybrid robots a power upgrade with synthetic tendons](https://www.reddit.com/r/robotics/comments/1pie99u/mit_engineers_give_biohybrid_robots_a_power/)**
+
+Engineers build artificial tendons that let muscle-powered robots move faster and pull harder, marking a major step for biohybrid machines.
+
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 1h ago
 
 ---
 
@@ -73,14 +81,6 @@ Teaching Robots to Understand Natural Language Built an autonomous navigation sy
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
 1d ago
-
----
-
-**[MIT engineers give biohybrid robots a power upgrade with synthetic tendons](https://www.reddit.com/r/robotics/comments/1pie99u/mit_engineers_give_biohybrid_robots_a_power/)**
-
-Engineers build artificial tendons that let muscle-powered robots move faster and pull harder, marking a major step for biohybrid machines.
-
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 53m ago
 
 ---
 
@@ -124,6 +124,14 @@ Breaking Defense • 1d ago
 
 ---
 
+**[‘World’s first’ AGI system: Tokyo firm claims it built model with human-level reasoning](https://interestingengineering.com/ai-robotics/worlds-first-agi-model)**
+
+The company, founded by an ex-Google veteran, claims its new system constitutes a 'fundamental leap' beyond existing AI technologies.
+
+Interesting Engineering • 3h ago
+
+---
+
 **[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
@@ -140,11 +148,19 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[‘World’s first’ AGI system: Tokyo firm claims it built model with human-level reasoning](https://interestingengineering.com/ai-robotics/worlds-first-agi-model)**
+**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
 
-The company, founded by an ex-Google veteran, claims its new system constitutes a 'fundamental leap' beyond existing AI technologies.
+Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
 
-Interesting Engineering • 3h ago
+Decrypt • 19h ago
+
+---
+
+**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
+
+The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
+
+MLive.com • 2h ago
 
 ---
 
@@ -156,35 +172,17 @@ Valley News Live • 19h ago
 
 ---
 
-**[Serve Robotics Extends Autonomous Delivery to Fort Lauderdale](https://finance.yahoo.com/news/serve-robotics-extends-autonomous-delivery-153500451.html)**
+**[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai)**
 
-SERV expands its autonomous delivery network to Fort Lauderdale, deepening its South Florida presence through Uber Eats.
+SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
 
-Yahoo Finance • 1d ago
-
----
-
-**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
-
-The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
-
-MLive.com • 1h ago
+PYMNTS.com • 21h ago
 
 ---
 
-**[Using the Power of Robotics to uncover the secrets of Pompeii](https://www.cnn.com/2025/12/07/world/video/pompeii-robot-fresco-kinkade-pkg-120712aseg2-cnni-world-fast)**
+**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://www.marketbeat.com/stock-ideas/5-robotics-stocks-catching-momentum-after-new-policy-tailwinds/)**
 
-Researchers in Italy have created a robot which is reconstructing destroyed frescoes from Pompeii. CNN’s Lynda Kinkade reports.
-
-CNN • 2d ago
-
----
-
-**[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
-
-Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
-
-South China Morning Post • 2d ago
+MarketBeat • 1d ago
 
 ---
 
@@ -198,7 +196,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 18K • 👍 420 • 💬 187 • ⏱️ 14:26 • 23h ago
+👁️ 21K • 👍 466 • 💬 200 • ⏱️ 14:26 • 23h ago
 
 ---
 
@@ -216,25 +214,7 @@ The founder and CEO of EngineAI just took a robot kick to the chest in an attemp
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 38 • 💬 29 • ⏱️ 8:31 • 18h ago
-
----
-
-**[🏃🤖 Figure 03 Runs LIKE A HUMAN! Watch the PERFECT #RobotTurn. #figureai #humanoid #robotics](https://www.youtube.com/watch?v=DDrNbLVUBwU)**
-
-📺 XRoboHub
-
-👁️ 518K • 👍 8K • 💬 868 • ⏱️ 0:22 • 5d ago
-
----
-
-**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
-
-AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
-
-📺 AI Robot Lab
-
-👁️ 28K • 👍 291 • 💬 9 • ⏱️ 0:25 • 2d ago
+👁️ 2K • 👍 45 • 💬 30 • ⏱️ 8:31 • 18h ago
 
 ---
 
@@ -244,27 +224,15 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 190K • 👍 855 • 💬 292 • ⏱️ 1:03 • 3d ago
+👁️ 194K • 👍 863 • 💬 292 • ⏱️ 1:03 • 3d ago
 
 ---
 
-**[2025: This AI Caregiver Robot Comforts a Baby Like a Real Parent in a Silicon Valley Home](https://www.youtube.com/watch?v=LFTUzGo3rmM)**
+**[🏃🤖 Figure 03 Runs LIKE A HUMAN! Watch the PERFECT #RobotTurn. #figureai #humanoid #robotics](https://www.youtube.com/watch?v=DDrNbLVUBwU)**
 
-In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comforts a baby with perfect calm and precision.
+📺 XRoboHub
 
-📺 AI Robot Lab
-
-👁️ 3K • 👍 48 • 💬 2 • ⏱️ 0:24 • 7h ago
-
----
-
-**[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
-
-Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
-
-📺 MarketBeat
-
-👁️ 43K • 👍 1K • 💬 97 • ⏱️ 24:47 • 3d ago
+👁️ 518K • 👍 8K • 💬 869 • ⏱️ 0:22 • 5d ago
 
 ---
 
@@ -274,7 +242,37 @@ Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G
 
 📺 Unitree Robotics
 
-👁️ 2.7M • 👍 1K • 💬 337 • ⏱️ 1:06 • 6d ago
+👁️ 2.7M • 👍 1K • 💬 340 • ⏱️ 1:06 • 6d ago
+
+---
+
+**[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
+
+Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
+
+📺 MarketBeat
+
+👁️ 43K • 👍 1K • 💬 99 • ⏱️ 24:47 • 3d ago
+
+---
+
+**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
+
+AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
+
+📺 AI Robot Lab
+
+👁️ 29K • 👍 312 • 💬 10 • ⏱️ 0:25 • 2d ago
+
+---
+
+**[2025: This AI Caregiver Robot Comforts a Baby Like a Real Parent in a Silicon Valley Home](https://www.youtube.com/watch?v=LFTUzGo3rmM)**
+
+In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comforts a baby with perfect calm and precision.
+
+📺 AI Robot Lab
+
+👁️ 5K • 👍 56 • 💬 2 • ⏱️ 0:24 • 8h ago
 
 ---
 
@@ -284,7 +282,7 @@ At the Silicon Valley Robotics Expo 2025, engineers demonstrate a futuristic AI 
 
 📺 AI Robot Lab
 
-👁️ 2K • 👍 16 • ⏱️ 0:24 • 3h ago
+👁️ 7K • 👍 57 • ⏱️ 0:24 • 3h ago
 
 ---
 

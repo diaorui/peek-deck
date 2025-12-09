@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T18:47:59.249492+00:00'
+updated: '2025-12-09T19:00:50.982973+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 18:47 UTC  
+**Last Updated:** December 09, 2025 at 19:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -79,7 +79,7 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai says no job, not even his own, is safe. But those who don’t adapt will be the first to fall.
 
-🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 20h ago
+🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 21h ago
 
 ---
 
@@ -87,7 +87,7 @@ AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai sa
 
 President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-🔗 [CNN](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws) • 2h ago
+🔗 [CNN](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws) • 3h ago
 
 ---
 
@@ -95,7 +95,7 @@ President Donald Trump confirmed on Monday he plans to sign an executive order p
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 1m ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 14m ago
 
 ---
 
@@ -103,7 +103,7 @@ A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is 
 
 People keep talking about “fixing hallucination,” but nobody is asking the one question that actually matters: Why do these systems hallucinate in the first place? Every solution so far—RAG, RLHF, model scaling, “AI constitutions,” uncertainty scoring—tries to patch the problem after it happens. They’re improving the guess instead of removing the guess. The real issue is structural: these models are architecturally designed to generate answers even when they don’t have grounded information. They’re rewarded for sounding confident, not for knowing when to stop. That’s why the failures repeat across every system—GPT, Claude, Gemini, Grok. Different models, same flaw. What I’ve put together breaks down the actual mechanics behind that flaw using the research the industry itself published. It shows why their methods can’t solve it, why the problem persists across scaling, and why the most obvious correction has been ignored for years. If you want the full breakdown—with evidence from academic papers, production failures, legal cases, medical misfires, and the architectural limits baked into transformer models—here it is. It explains the root cause in plain language so people can finally see the pattern for themselves.
 
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 21m ago
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 34m ago
 
 ---
 
@@ -111,7 +111,7 @@ People keep talking about “fixing hallucination,” but nobody is asking the o
 
 GPT-5.2 rumored to drop today Meta acquires AI wearable company Buy groceries without leaving ChatGPT A collection of AI Updates! 🧵 1. OpenAI Rumored to Drop GPT-5.2 Today (December 9th) "Code red" response to Google arriving earlier than planned. GPT-5.2 accelerated release schedule in direct competition with Gemini advancements. OpenAI-Google AI race intensifies. 2. Anthropic Launches Tool to Understand People's Perspectives on AI Anthropic Interviewer drafts questions, conducts interviews, and analyzes responses. Week-long pilot at claude.ai/interviewer. Already tested on 1,250 professionals - findings show workers want routine delegation but creative control. New research on AI adoption. 3. Meta Acquires LimitlessAI for it's Wearable Conversation Device Startup creates pendant-style device that captures and transcribes real-world conversations. Aligns with Meta's AI-enabled consumer hardware strategy and "personal superintelligence" vision. A greater push into AI wearables beyond glasses. 4. You Can Now Buy Groceries Without Leaving ChatGPT Stripe partners with Instacart for direct checkout in ChatGPT. Powered by Agentic Commerce Protocol launched with OpenAI. Uses Stripe Shared Payment Tokens for secure payments. Live on web today, mobile coming soon. 5. Elon Musk Announces Grok 4.20 Release in 3-4 Weeks Next major Grok model update coming soon. Timeline puts release in early January 2025. xAI continues rapid iteration on competitive AI models. 6. a16z Co-Leads $475M Seed for Unconventional AI Chip Startup Building highly efficient AI-first chips using analog computing systems. CEO Naveen Rao previously sold two companies. Focus on better hardware to enable AGI. A much different approach on chips compared to current industry standards. 7. Microsoft Pledges to Invest $19 billion+ in AI infra in Canada A total of $19 billion CAD between 2023 and 2027 has just been pledged this morning. $7.5 billion CAD alone over the next two years. 8. Google Planning Nano Banana 2 Flash Release in Coming Weeks Internal "Mayo" announcement added to Gemini web. Performance matches Nano Banana 2 Pro at lower cost. Gemini 3 Flash likely dropping around same time. Flash variant enables wider scaling without sacrificing quality. 9. OpenAI Releases GPT-5.1-Codex Max via Responses API Most capable agentic coding model now available to integrate into apps and workflows. First launched in Codex two weeks ago. Purpose-built for agentic coding with foundational reasoning. Also accessible via Codex CLI with API key. 10. Google Drops Deep Think Mode for Gemini 3 Explores multiple hypotheses simultaneously with iterative reasoning rounds. Produces more refined, nuanced code with richer detail. Available to Google AI Ultra subscribers. Select 'Deep Think' in prompt bar to activate. That's a wrap on this week's AI News. Which update do you think is the biggest? LMK what else you want to see | More weekly AI + Agentic content releasing ever week!
 
-28m ago
+41m ago
 
 ---
 
@@ -129,7 +129,33 @@ The New York Times • 2h ago
 
 Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
 
-CNBC • 6h ago
+CNBC • 7h ago
+
+---
+
+**[U.S. military to use Google Gemini for new AI platform](https://www.axios.com/2025/12/09/pentagon-google-gemini-genai-military-platform)**
+
+Axios • 52m ago
+
+---
+
+**[Chief Digital and Artificial Intelligence Office Selects Google Cloud's AI to Power GenAI.mil](https://www.googlecloudpresscorner.com/2025-12-09-Chief-Digital-and-Artificial-Intelligence-Office-Selects-Google-Clouds-AI-to-Power-GenAI-mil)**
+
+First AI technology on GenAI.mil, delivering IL5-authorized generative AI department-wide SUNNYVALE, Calif., Dec. 9, 2025 /PRNewswire/ -- Google Cloud today announced that the Chief Digital and...
+
+Google Cloud Press Corner • 3h ago
+
+---
+
+**[Pentagon Picks Google AI Platform for Its Millions of Employees](https://www.bloomberg.com/news/articles/2025-12-09/pentagon-picks-google-ai-platform-for-its-millions-of-employees)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[AI earns high marks in law school grading](https://www.reuters.com/legal/legalindustry/ai-earns-high-marks-law-school-grading-2025-12-09/)**
+
+Reuters • 42m ago
 
 ---
 
@@ -137,33 +163,15 @@ CNBC • 6h ago
 
 If you find yourself hiding your AI usage from your colleagues and boss, you might be an 'AI creeper.'
 
-Business Insider • 39m ago
+Business Insider • 52m ago
 
 ---
 
-**[DeSantis: Trump’s AI order ‘can’t preempt’ states from taking action](https://www.politico.com/news/2025/12/08/desantis-trump-ai-order-states-action-00681301)**
+**[2025: The State of Generative AI in the Enterprise](https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/)**
 
-Politico • 21h ago
+For all the fears of over-investment, AI is spreading across enterprises at a pace with no precedent in modern software history.
 
----
-
-**[Trump Promises Executive Order to Block State A.I. Regulations](https://www.nytimes.com/2025/12/08/us/politics/trump-executive-order-ai-laws.html)**
-
-The New York Times • 19h ago
-
----
-
-**[Opinion | Amy Klobuchar: Trump Should Not Replace A.I. Laws With an Executive Order](https://www.nytimes.com/2025/12/09/opinion/klobuchar-trump-ai.html)**
-
-The New York Times • 8h ago
-
----
-
-**[Solid data is essential to making AI and VBC work](https://www.healthcareitnews.com/news/solid-data-essential-making-ai-and-vbc-work)**
-
-As we look to 2026, there's a bright future for well-governed healthcare information to advance artificial intelligence innovation and promote value-based care, an expert says.
-
-Healthcare IT News • 1h ago
+Menlo Ventures • 6h ago
 
 ---
 
@@ -173,19 +181,9 @@ The Economist • 21h ago
 
 ---
 
-**[AI tools transform Christmas shopping as people turn to chatbots](https://www.bbc.com/news/articles/c8xd8prjvj0o)**
+**[Howard Marks Says AI Is ‘Terrifying’ for Jobs, Queries Debt Cost](https://www.bloomberg.com/news/articles/2025-12-09/howard-marks-says-ai-is-terrifying-for-jobs-queries-debt-cost)**
 
-Shopper are increasingly using chatbots for their hard-to-buy-for family and friends, with implications for bargain hunters and businesses.
-
-BBC • 12h ago
-
----
-
-**[‘I feel it’s a friend’: quarter of teenagers turn to AI chatbots for mental health support](https://www.theguardian.com/technology/2025/dec/09/teenagers-ai-chatbots-mental-health-support)**
-
-Experts warn of dangers as England and Wales study shows 13- to 17-year-olds consulting AI amid long waiting lists for services
-
-The Guardian • 4h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -267,23 +265,43 @@ Starting Jan. 1, traditional Medicare recipients in Washington state will face a
 
 ## YouTube Videos: "ai"
 
-**[New Largest AI Datacenter — Not a Single GPU Inside](https://www.youtube.com/watch?v=N10w1KvFKNQ)**
-
-Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTECHDEC2 - 100% Discount for the first 1000 ...
-
-📺 Anastasi In Tech
-
-👁️ 158K • 👍 10K • 💬 1K • ⏱️ 31:03 • 21h ago
-
----
-
 **[DIMON’S WARNING: America might not be ready for coming AI shock](https://www.youtube.com/watch?v=C8yuD9ca1lo)**
 
 JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, crypto investing and socialism on 'Mornings ...
 
 📺 Fox Business
 
-👁️ 70K • 👍 1K • 💬 382 • ⏱️ 18:47 • 1d ago
+👁️ 74K • 👍 1K • 💬 394 • ⏱️ 18:47 • 1d ago
+
+---
+
+**[New Largest AI Datacenter — Not a Single GPU Inside](https://www.youtube.com/watch?v=N10w1KvFKNQ)**
+
+Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTECHDEC2 - 100% Discount for the first 1000 ...
+
+📺 Anastasi In Tech
+
+👁️ 168K • 👍 10K • 💬 1K • ⏱️ 31:03 • 21h ago
+
+---
+
+**[Reacting To AI Videos Of Myself 🤔](https://www.youtube.com/watch?v=tNVmTF_P89k)**
+
+Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsain Socials: Twitter ...
+
+📺 hxsain
+
+👁️ 18K • 👍 1K • 💬 70 • ⏱️ 0:51 • 31m ago
+
+---
+
+**[Google’s Titans Just Solved AI’s Biggest Weakness, But...](https://www.youtube.com/watch?v=GGdjty9pAtg)**
+
+Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS introduce a new long-term memory system that ...
+
+📺 AI Revolution
+
+👁️ 27K • 👍 847 • 💬 63 • ⏱️ 13:12 • 18h ago
 
 ---
 
@@ -293,7 +311,7 @@ Big Tech is racking up debt to fund their AI infrastructure for demand that seem
 
 📺 Vanessa Wingårdh
 
-👁️ 138K • 👍 10K • 💬 2K • ⏱️ 10:38 • 2d ago
+👁️ 141K • 👍 10K • 💬 2K • ⏱️ 10:38 • 2d ago
 
 ---
 
@@ -303,37 +321,17 @@ OpenAI is in a full internal race after a major leak revealed a new model called
 
 📺 AI Revolution
 
-👁️ 105K • 👍 2K • 💬 158 • ⏱️ 12:31 • 1d ago
+👁️ 107K • 👍 2K • 💬 161 • ⏱️ 12:31 • 1d ago
 
 ---
 
-**[Why is Everyone So Wrong About AI Water Use??](https://www.youtube.com/watch?v=H_c6MWk7PQc)**
+**[Tennessee A.I. regulations in jeopardy of being banned by executive order](https://www.youtube.com/watch?v=gaKscYt4NfQ)**
 
-Go to https://ground.news/hank for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage ...
+President Trump is renewing his push to ban state AI regulations.
 
-📺 Hank Green
+📺 WKRN News 2
 
-👁️ 667K • 👍 36K • 💬 5K • ⏱️ 24:00 • 20h ago
-
----
-
-**[&#39;Godfather of AI&#39; warns of existential risks | GZERO World with Ian Bremmer](https://www.youtube.com/watch?v=tuCBVuzTKAU)**
-
-Geoffrey Hinton, the 'Godfather of AI' tells Ian Bremmer on GZERO World AI will soon outpace human intelligence and warns the ...
-
-📺 GZERO Media
-
-👁️ 21K • 👍 454 • 💬 61 • ⏱️ 21:45 • 1d ago
-
----
-
-**[NEW AI Video Generator Kling 2.6 DESTROYS Veo 3.1 &amp; Sora 2? Full Comparison](https://www.youtube.com/watch?v=hmgMlp4a4ao)**
-
-Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Full comparison Try Kling 2.6 ...
-
-📺 Dan Kieft
-
-👁️ 30K • 💬 26 • ⏱️ 20:04 • 1d ago
+👁️ 2K • 👍 12 • 💬 11 • ⏱️ 2:16 • 20h ago
 
 ---
 
@@ -343,27 +341,27 @@ SORA AI Disney Trailers That Make No Sense #funny #funnyvideos #viral #comedy #f
 
 📺 Bigfoot Feed
 
-👁️ 67K • 👍 1K • 💬 33 • ⏱️ 0:55 • 1d ago
+👁️ 70K • 👍 1K • 💬 33 • ⏱️ 0:55 • 1d ago
 
 ---
 
-**[Gemini 4 — Google’s Biggest AI Upgrade Yet (Full Features Explained)](https://www.youtube.com/watch?v=WYK7iyOklf4)**
+**[The LAZIEST Way To Start Making Money with AI BEFORE 2026 (For Beginners)](https://www.youtube.com/watch?v=l9ulY_Mnqgc)**
 
-Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Gemini 4 — and it might be their most powerful AI ...
+Use DeepAgent To Help You Start a Business with AI: https://deepagent.abacus.ai/rqm This video walks you through how I built a ...
 
-📺 BitBiasedAI
+📺 Rob The AI Guy
 
-👁️ 52K • 👍 1K • 💬 50 • ⏱️ 11:49 • 2d ago
+👁️ 5K • 👍 195 • 💬 42 • ⏱️ 17:47 • 1d ago
 
 ---
 
-**[Everyone Thinks I&#39;m AI 😭](https://www.youtube.com/watch?v=HrqeHyN_2Zw)**
+**[Which stairs would you take? Oddly Satisfying AI ASMR Pt.8😌🎧](https://www.youtube.com/watch?v=i8uBKUA3tVo)**
 
-Everyone in the comments always seems to think I'm AI, so I made this silly little video talking about it. #notai #ai.
+Join Impossible AIs and unlock exclusive perks! ✨ https://www.youtube.com/@ImpossibleAIs-c9z/videos Ascend into tranquility ...
 
-📺 Yap Emporium
+📺 Impossible AIs
 
-👁️ 52K • 👍 2K • 💬 110 • ⏱️ 0:17 • 22h ago
+👁️ 14K • 👍 95 • 💬 5 • ⏱️ 12:21 • 7h ago
 
 ---
 
@@ -379,7 +377,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 217,428 • ❤️ 2,412 • 1d ago
+⬇️ 217,428 • ❤️ 2,414 • 1d ago
 
 ---
 
@@ -391,7 +389,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 56,958 • ❤️ 578 • 14h ago
+⬇️ 56,958 • ❤️ 580 • 14h ago
 
 ---
 
@@ -413,7 +411,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 287 • 7d ago
+⬇️ 0 • ❤️ 288 • 7d ago
 
 ---
 
@@ -425,7 +423,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 6,920 • ❤️ 217 • 41m ago
+⬇️ 6,920 • ❤️ 220 • 54m ago
 
 ---
 
@@ -437,7 +435,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 687 • ❤️ 193 • 13h ago
+⬇️ 687 • ❤️ 194 • 13h ago
 
 ---
 
@@ -449,7 +447,7 @@ DeepSeek-V3.2-Speciale is a highly efficient text generation model fine-tuned fr
 
 `text-generation` `685.4B`
 
-⬇️ 9,310 • ❤️ 566 • 8d ago
+⬇️ 9,310 • ❤️ 567 • 8d ago
 
 ---
 
@@ -499,7 +497,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 169 • 💬 3 • ⭐ 6,048 • 12d ago
+▲ 170 • 💬 3 • ⭐ 6,048 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -513,23 +511,9 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 23 • 💬 2 • ⭐ 5,945 • 12d ago
+▲ 23 • 💬 2 • ⭐ 6,064 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
-
----
-
-**[PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing](https://huggingface.co/papers/2512.02589)**
-
-*Junyi Hou, Andre Lin Huikai, Nuo Chen et al. (5 authors)*
-
-🏢 National University of Singapore
-
-PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
-
-▲ 50 • 💬 2 • ⭐ 933 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
 ---
 
@@ -541,9 +525,23 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 157 • 💬 4 • ⭐ 666 • 5d ago
+▲ 159 • 💬 4 • ⭐ 666 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
+
+---
+
+**[PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing](https://huggingface.co/papers/2512.02589)**
+
+*Junyi Hou, Andre Lin Huikai, Nuo Chen et al. (5 authors)*
+
+🏢 National University of Singapore
+
+PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
+
+▲ 50 • 💬 2 • ⭐ 944 • 7d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
 ---
 
@@ -655,7 +653,7 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.3k • 🔱 160 • 1h ago
+⭐ 1.3k • 🔱 160 • 2h ago
 
 ---
 
@@ -695,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 893 • 🔱 61 • 7h ago
+⭐ 893 • 🔱 63 • 7h ago
 
 ---
 
@@ -715,7 +713,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 845 • 🔱 45 • 15h ago
+⭐ 845 • 🔱 46 • 15h ago
 
 ---
 
