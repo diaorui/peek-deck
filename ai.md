@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T19:00:50.982973+00:00'
+updated: '2025-12-09T19:22:38.853174+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 19:00 UTC  
+**Last Updated:** December 09, 2025 at 19:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 3h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 4h ago
 
 ---
 
@@ -67,11 +67,27 @@ American AI giants are backing a new effort to establish open standards for buil
 
 ---
 
+**[OpenAI Hires Slack CEO as New Chief Revenue Officer](https://www.reddit.com/r/artificial/comments/1pifikb/openai_hires_slack_ceo_as_new_chief_revenue/)**
+
+A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
+
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 36m ago
+
+---
+
 **['Big Short' investor Michael Burry defends his calls for a stock market bubble and predicts a 'Netscape fate' for OpenAI](https://www.reddit.com/r/artificial/comments/1phn78a/big_short_investor_michael_burry_defends_his/)**
 
 Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
 
 🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 22h ago
+
+---
+
+**[It's been a big week for AI ; Here are 10 massive changes you might've missed:](https://www.reddit.com/r/artificial/comments/1pievf8/its_been_a_big_week_for_ai_here_are_10_massive/)**
+
+GPT-5.2 rumored to drop today Meta acquires AI wearable company Buy groceries without leaving ChatGPT A collection of AI Updates! 🧵 1. OpenAI Rumored to Drop GPT-5.2 Today (December 9th) "Code red" response to Google arriving earlier than planned. GPT-5.2 accelerated release schedule in direct competition with Gemini advancements. OpenAI-Google AI race intensifies. 2. Anthropic Launches Tool to Understand People's Perspectives on AI Anthropic Interviewer drafts questions, conducts interviews, and analyzes responses. Week-long pilot at claude.ai/interviewer. Already tested on 1,250 professionals - findings show workers want routine delegation but creative control. New research on AI adoption. 3. Meta Acquires LimitlessAI for it's Wearable Conversation Device Startup creates pendant-style device that captures and transcribes real-world conversations. Aligns with Meta's AI-enabled consumer hardware strategy and "personal superintelligence" vision. A greater push into AI wearables beyond glasses. 4. You Can Now Buy Groceries Without Leaving ChatGPT Stripe partners with Instacart for direct checkout in ChatGPT. Powered by Agentic Commerce Protocol launched with OpenAI. Uses Stripe Shared Payment Tokens for secure payments. Live on web today, mobile coming soon. 5. Elon Musk Announces Grok 4.20 Release in 3-4 Weeks Next major Grok model update coming soon. Timeline puts release in early January 2025. xAI continues rapid iteration on competitive AI models. 6. a16z Co-Leads $475M Seed for Unconventional AI Chip Startup Building highly efficient AI-first chips using analog computing systems. CEO Naveen Rao previously sold two companies. Focus on better hardware to enable AGI. A much different approach on chips compared to current industry standards. 7. Microsoft Pledges to Invest $19 billion+ in AI infra in Canada A total of $19 billion CAD between 2023 and 2027 has just been pledged this morning. $7.5 billion CAD alone over the next two years. 8. Google Planning Nano Banana 2 Flash Release in Coming Weeks Internal "Mayo" announcement added to Gemini web. Performance matches Nano Banana 2 Pro at lower cost. Gemini 3 Flash likely dropping around same time. Flash variant enables wider scaling without sacrificing quality. 9. OpenAI Releases GPT-5.1-Codex Max via Responses API Most capable agentic coding model now available to integrate into apps and workflows. First launched in Codex two weeks ago. Purpose-built for agentic coding with foundational reasoning. Also accessible via Codex CLI with API key. 10. Google Drops Deep Think Mode for Gemini 3 Explores multiple hypotheses simultaneously with iterative reasoning rounds. Produces more refined, nuanced code with richer detail. Available to Google AI Ultra subscribers. Select 'Deep Think' in prompt bar to activate. That's a wrap on this week's AI News. Which update do you think is the biggest? LMK what else you want to see | More weekly AI + Agentic content releasing ever week!
+
+1h ago
 
 ---
 
@@ -91,27 +107,11 @@ President Donald Trump confirmed on Monday he plans to sign an executive order p
 
 ---
 
-**[OpenAI Hires Slack CEO as New Chief Revenue Officer](https://www.reddit.com/r/artificial/comments/1pifikb/openai_hires_slack_ceo_as_new_chief_revenue/)**
-
-A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
-
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 14m ago
-
----
-
 **[The Real Reason LLMs Hallucinate — And Why Every Fix Has Failed](https://www.reddit.com/r/artificial/comments/1pif1u7/the_real_reason_llms_hallucinate_and_why_every/)**
 
 People keep talking about “fixing hallucination,” but nobody is asking the one question that actually matters: Why do these systems hallucinate in the first place? Every solution so far—RAG, RLHF, model scaling, “AI constitutions,” uncertainty scoring—tries to patch the problem after it happens. They’re improving the guess instead of removing the guess. The real issue is structural: these models are architecturally designed to generate answers even when they don’t have grounded information. They’re rewarded for sounding confident, not for knowing when to stop. That’s why the failures repeat across every system—GPT, Claude, Gemini, Grok. Different models, same flaw. What I’ve put together breaks down the actual mechanics behind that flaw using the research the industry itself published. It shows why their methods can’t solve it, why the problem persists across scaling, and why the most obvious correction has been ignored for years. If you want the full breakdown—with evidence from academic papers, production failures, legal cases, medical misfires, and the architectural limits baked into transformer models—here it is. It explains the root cause in plain language so people can finally see the pattern for themselves.
 
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 34m ago
-
----
-
-**[It's been a big week for AI ; Here are 10 massive changes you might've missed:](https://www.reddit.com/r/artificial/comments/1pievf8/its_been_a_big_week_for_ai_here_are_10_massive/)**
-
-GPT-5.2 rumored to drop today Meta acquires AI wearable company Buy groceries without leaving ChatGPT A collection of AI Updates! 🧵 1. OpenAI Rumored to Drop GPT-5.2 Today (December 9th) "Code red" response to Google arriving earlier than planned. GPT-5.2 accelerated release schedule in direct competition with Gemini advancements. OpenAI-Google AI race intensifies. 2. Anthropic Launches Tool to Understand People's Perspectives on AI Anthropic Interviewer drafts questions, conducts interviews, and analyzes responses. Week-long pilot at claude.ai/interviewer. Already tested on 1,250 professionals - findings show workers want routine delegation but creative control. New research on AI adoption. 3. Meta Acquires LimitlessAI for it's Wearable Conversation Device Startup creates pendant-style device that captures and transcribes real-world conversations. Aligns with Meta's AI-enabled consumer hardware strategy and "personal superintelligence" vision. A greater push into AI wearables beyond glasses. 4. You Can Now Buy Groceries Without Leaving ChatGPT Stripe partners with Instacart for direct checkout in ChatGPT. Powered by Agentic Commerce Protocol launched with OpenAI. Uses Stripe Shared Payment Tokens for secure payments. Live on web today, mobile coming soon. 5. Elon Musk Announces Grok 4.20 Release in 3-4 Weeks Next major Grok model update coming soon. Timeline puts release in early January 2025. xAI continues rapid iteration on competitive AI models. 6. a16z Co-Leads $475M Seed for Unconventional AI Chip Startup Building highly efficient AI-first chips using analog computing systems. CEO Naveen Rao previously sold two companies. Focus on better hardware to enable AGI. A much different approach on chips compared to current industry standards. 7. Microsoft Pledges to Invest $19 billion+ in AI infra in Canada A total of $19 billion CAD between 2023 and 2027 has just been pledged this morning. $7.5 billion CAD alone over the next two years. 8. Google Planning Nano Banana 2 Flash Release in Coming Weeks Internal "Mayo" announcement added to Gemini web. Performance matches Nano Banana 2 Pro at lower cost. Gemini 3 Flash likely dropping around same time. Flash variant enables wider scaling without sacrificing quality. 9. OpenAI Releases GPT-5.1-Codex Max via Responses API Most capable agentic coding model now available to integrate into apps and workflows. First launched in Codex two weeks ago. Purpose-built for agentic coding with foundational reasoning. Also accessible via Codex CLI with API key. 10. Google Drops Deep Think Mode for Gemini 3 Explores multiple hypotheses simultaneously with iterative reasoning rounds. Produces more refined, nuanced code with richer detail. Available to Google AI Ultra subscribers. Select 'Deep Think' in prompt bar to activate. That's a wrap on this week's AI News. Which update do you think is the biggest? LMK what else you want to see | More weekly AI + Agentic content releasing ever week!
-
-41m ago
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 56m ago
 
 ---
 
@@ -135,7 +135,7 @@ CNBC • 7h ago
 
 **[U.S. military to use Google Gemini for new AI platform](https://www.axios.com/2025/12/09/pentagon-google-gemini-genai-military-platform)**
 
-Axios • 52m ago
+Axios • 1h ago
 
 ---
 
@@ -143,19 +143,19 @@ Axios • 52m ago
 
 First AI technology on GenAI.mil, delivering IL5-authorized generative AI department-wide SUNNYVALE, Calif., Dec. 9, 2025 /PRNewswire/ -- Google Cloud today announced that the Chief Digital and...
 
-Google Cloud Press Corner • 3h ago
+Google Cloud Press Corner • 4h ago
 
 ---
 
 **[Pentagon Picks Google AI Platform for Its Millions of Employees](https://www.bloomberg.com/news/articles/2025-12-09/pentagon-picks-google-ai-platform-for-its-millions-of-employees)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
 **[AI earns high marks in law school grading](https://www.reuters.com/legal/legalindustry/ai-earns-high-marks-law-school-grading-2025-12-09/)**
 
-Reuters • 42m ago
+Reuters • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Reuters • 42m ago
 
 If you find yourself hiding your AI usage from your colleagues and boss, you might be an 'AI creeper.'
 
-Business Insider • 52m ago
+Business Insider • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Menlo Ventures • 6h ago
 
 **[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
 
-The Economist • 21h ago
+The Economist • 22h ago
 
 ---
 
@@ -201,7 +201,7 @@ Bloomberg.com • 1h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 521 • 💬 480 • 18h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 524 • 💬 488 • 18h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -225,25 +225,25 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 ---
 
+**[Apple's slow AI pace becomes a strength as market grows weary of spending](https://news.ycombinator.com/item?id=46205724)**
+
+Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
+
+⬆️ 63 • 💬 88 • 4h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+
+---
+
 **[EU investigates Google over AI-generated summaries in search results](https://news.ycombinator.com/item?id=46205743)**
 
 It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
 
-⬆️ 50 • 💬 102 • 3h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
+⬆️ 50 • 💬 100 • 4h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
 
 ---
 
 **[The Reverse-Centaur's Guide to Criticizing AI](https://news.ycombinator.com/item?id=46181314)**
 
 ⬆️ 50 • 💬 14 • 2d ago • [pluralistic.net](https://pluralistic.net/2025/12/05/pop-that-bubble/)
-
----
-
-**[Apple's slow AI pace becomes a strength as market grows weary of spending](https://news.ycombinator.com/item?id=46205724)**
-
-Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
-
-⬆️ 49 • 💬 78 • 3h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -291,7 +291,7 @@ Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsai
 
 📺 hxsain
 
-👁️ 18K • 👍 1K • 💬 70 • ⏱️ 0:51 • 31m ago
+👁️ 18K • 👍 1K • 💬 70 • ⏱️ 0:51 • 52m ago
 
 ---
 
@@ -389,7 +389,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 56,958 • ❤️ 580 • 14h ago
+⬇️ 56,958 • ❤️ 580 • 15h ago
 
 ---
 
@@ -423,7 +423,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 6,920 • ❤️ 220 • 54m ago
+⬇️ 6,920 • ❤️ 220 • 1h ago
 
 ---
 
@@ -481,7 +481,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 `text-generation` `8.3B`
 
-⬇️ 443,437 • ❤️ 165 • 21h ago
+⬇️ 443,437 • ❤️ 165 • 22h ago
 
 ---
 
@@ -683,7 +683,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 126 • 3h ago
+⭐ 1.0k • 🔱 126 • 4h ago
 
 ---
 
@@ -693,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 893 • 🔱 63 • 7h ago
+⭐ 893 • 🔱 63 • 8h ago
 
 ---
 
@@ -713,7 +713,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 845 • 🔱 46 • 15h ago
+⭐ 845 • 🔱 46 • 16h ago
 
 ---
 

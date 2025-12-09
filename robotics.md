@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T19:00:51.000578+00:00'
+updated: '2025-12-09T19:22:38.869571+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 19:00 UTC  
+**Last Updated:** December 09, 2025 at 19:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -94,7 +94,7 @@ Teaching Robots to Understand Natural Language Built an autonomous navigation sy
 
 **[Inverted Double Pendulum in Isaac Lab](https://www.reddit.com/r/robotics/comments/1pi8anb/inverted_double_pendulum_in_isaac_lab/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -128,7 +128,7 @@ Breaking Defense • 1d ago
 
 The company, founded by an ex-Google veteran, claims its new system constitutes a 'fundamental leap' beyond existing AI technologies.
 
-Interesting Engineering • 3h ago
+Interesting Engineering • 4h ago
 
 ---
 
@@ -152,7 +152,7 @@ Interesting Engineering • 1d ago
 
 Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -168,7 +168,7 @@ MLive.com • 2h ago
 
 1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
 
-Valley News Live • 19h ago
+Valley News Live • 20h ago
 
 ---
 
@@ -282,7 +282,7 @@ At the Silicon Valley Robotics Expo 2025, engineers demonstrate a futuristic AI 
 
 📺 AI Robot Lab
 
-👁️ 7K • 👍 57 • ⏱️ 0:24 • 3h ago
+👁️ 7K • 👍 57 • ⏱️ 0:24 • 4h ago
 
 ---
 

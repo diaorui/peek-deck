@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T19:00:50.991340+00:00'
+updated: '2025-12-09T19:22:38.860899+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 19:00 UTC  
+**Last Updated:** December 09, 2025 at 19:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,17 +44,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +3.1%  
-**7d:** +0.0%  
-**30d:** -11.7%  
-**90d:** -18.8%  
-**1y:** -2.9%  
+**24h:** +3.4%  
+**7d:** +0.3%  
+**30d:** -11.5%  
+**90d:** -18.6%  
+**1y:** -2.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1874.99B
+**Market Cap:** $1872.32B
 Rank #1
 
 **Circulating Supply:** 19,959,843 BTC
@@ -64,7 +64,7 @@ Rank #1
 -25.5%
 
 **All-Time Low:** $67.81
-+138435.6%
++138502.0%
 
 ---
 
@@ -103,17 +103,17 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pier04/daily_meme_until_100000/)**
+
+1h ago
+
+---
+
 **[I wonder how the small early investors feel right now?](https://www.reddit.com/r/Bitcoin/comments/1pi41nz/i_wonder_how_the_small_early_investors_feel_right/)**
 
 If you had put $1000 into BTC in 2010 and left it alone without further investment you'd have close to a billion dollars right now (before tax, of course). I sometimes sit and wonder if there are people who did that almost as a joke and then forgot their password or whatever lol.
 
 8h ago
-
----
-
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pier04/daily_meme_until_100000/)**
-
-47m ago
 
 ---
 
@@ -123,25 +123,25 @@ If you had put $1000 into BTC in 2010 and left it alone without further investme
 
 ---
 
-**[Most people holding more than 2 bitcoin here are chill](https://www.reddit.com/r/Bitcoin/comments/1pi3orj/most_people_holding_more_than_2_bitcoin_here_are/)**
-
-And most who keep panicking, and those crazy shenanigans fud are mostly from noobs or either those who invest rent money, or worst haven't studied Bitcoin.
-
-8h ago
-
----
-
 **[Indiana considering legislation to require Bitcoin options in Public Retirement Plans](https://www.reddit.com/r/Bitcoin/comments/1pia1pu/indiana_considering_legislation_to_require/)**
 
 Indiana lawmakers are making history with groundbreaking legislation that would force public retirement programs to offer Bitcoin investments.
 
-🔗 [Brave New Coin](https://bravenewcoin.com/insights/indiana-becomes-first-state-to-require-bitcoin-options-in-public-retirement-plans) • 3h ago
+🔗 [Brave New Coin](https://bravenewcoin.com/insights/indiana-becomes-first-state-to-require-bitcoin-options-in-public-retirement-plans) • 4h ago
 
 ---
 
-**[Staring into the BTC abyss, waiting for it to explain itself](https://www.reddit.com/r/Bitcoin/comments/1pi3i32/staring_into_the_btc_abyss_waiting_for_it_to/)**
+**[Most people holding more than 2 bitcoin here are chill](https://www.reddit.com/r/Bitcoin/comments/1pi3orj/most_people_holding_more_than_2_bitcoin_here_are/)**
+
+And most who keep panicking, and those crazy shenanigans fud are mostly from noobs or either those who invest rent money, or worst haven't studied Bitcoin.
 
 9h ago
+
+---
+
+**[Earning $100k now has about the same buying power that $40k a year had back in 1990](https://www.reddit.com/r/Bitcoin/comments/1pi1w8o/earning_100k_now_has_about_the_same_buying_power/)**
+
+11h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 3h ago
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 24m ago
+CNBC • 46m ago
 
 ---
 
@@ -185,7 +185,7 @@ Decrypt • 6h ago
 
 Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ Bloomberg.com • 1h ago
 
 Bitcoin (BTC-USD) hovers below $94,000 per token at the time of this video's posting as the crypto asset's recent bout of volatility is putting it on track for its first annual decline since 2022. Blockstream CEO Adam Back comes on Market Catalysts to discuss the cryptocurrency environment and Wall Street's own forecasts on the digital asset. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
 
-Yahoo Finance • 30m ago
+Yahoo Finance • 52m ago
 
 ---
 
@@ -201,7 +201,7 @@ Yahoo Finance • 30m ago
 
 <p>Strategic Partnership Empowers PNC Private Bank Clients with Bitcoin Trading&nbsp;</p>
 
-PR Newswire • 5h ago
+PR Newswire • 6h ago
 
 ---
 
@@ -217,13 +217,13 @@ Yahoo Finance • 6h ago
 
 The Coinbase-backed feature, first announced in July, lets PNC clients buy, sell and hold bitcoin directly in their digital banking accounts.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
 **[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
 
-Reuters • 13h ago
+Reuters • 14h ago
 
 ---
 
@@ -279,7 +279,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 2h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -325,7 +325,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 11K • 👍 772 • 💬 196 • ⏱️ 8:51 • 3h ago
+👁️ 11K • 👍 772 • 💬 196 • ⏱️ 8:51 • 4h ago
 
 ---
 
@@ -355,7 +355,7 @@ Stay informed with the latest insights on **bitcoin**, focusing on effective **t
 
 📺 Krown
 
-👁️ 2K • 👍 356 • 💬 284 • ⏱️ 15:14 • 1h ago
+👁️ 2K • 👍 356 • 💬 284 • ⏱️ 15:14 • 2h ago
 
 ---
 
@@ -385,7 +385,7 @@ Ran breaks down where we actually are in the crypto cycle using time, price, sen
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 2K • 💬 40 • ⏱️ 35:30 • 3h ago
+👁️ 16K • 👍 2K • 💬 40 • ⏱️ 35:30 • 4h ago
 
 ---
 
