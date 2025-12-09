@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T21:14:49.757842+00:00'
+updated: '2025-12-09T21:33:05.320154+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- news
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 21:14 UTC  
+**Last Updated:** December 09, 2025 at 21:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -71,7 +71,7 @@ In the face of a profitability crisis, industrial-scale bitcoin miners are trans
 
 American AI giants are backing a new effort to establish open standards for building agentic software and tools.
 
-🔗 [WIRED](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/) • 3h ago
+🔗 [WIRED](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/) • 4h ago
 
 ---
 
@@ -95,7 +95,7 @@ Shoppers may be unaware they're paying as much as 23% more than others for the s
 
 GPT-5.2 rumored to drop today Meta acquires AI wearable company Buy groceries without leaving ChatGPT A collection of AI Updates! 🧵 1. OpenAI Rumored to Drop GPT-5.2 Today (December 9th) "Code red" response to Google arriving earlier than planned. GPT-5.2 accelerated release schedule in direct competition with Gemini advancements. OpenAI-Google AI race intensifies. 2. Anthropic Launches Tool to Understand People's Perspectives on AI Anthropic Interviewer drafts questions, conducts interviews, and analyzes responses. Week-long pilot at claude.ai/interviewer. Already tested on 1,250 professionals - findings show workers want routine delegation but creative control. New research on AI adoption. 3. Meta Acquires LimitlessAI for it's Wearable Conversation Device Startup creates pendant-style device that captures and transcribes real-world conversations. Aligns with Meta's AI-enabled consumer hardware strategy and "personal superintelligence" vision. A greater push into AI wearables beyond glasses. 4. You Can Now Buy Groceries Without Leaving ChatGPT Stripe partners with Instacart for direct checkout in ChatGPT. Powered by Agentic Commerce Protocol launched with OpenAI. Uses Stripe Shared Payment Tokens for secure payments. Live on web today, mobile coming soon. 5. Elon Musk Announces Grok 4.20 Release in 3-4 Weeks Next major Grok model update coming soon. Timeline puts release in early January 2025. xAI continues rapid iteration on competitive AI models. 6. a16z Co-Leads $475M Seed for Unconventional AI Chip Startup Building highly efficient AI-first chips using analog computing systems. CEO Naveen Rao previously sold two companies. Focus on better hardware to enable AGI. A much different approach on chips compared to current industry standards. 7. Microsoft Pledges to Invest $19 billion+ in AI infra in Canada A total of $19 billion CAD between 2023 and 2027 has just been pledged this morning. $7.5 billion CAD alone over the next two years. 8. Google Planning Nano Banana 2 Flash Release in Coming Weeks Internal "Mayo" announcement added to Gemini web. Performance matches Nano Banana 2 Pro at lower cost. Gemini 3 Flash likely dropping around same time. Flash variant enables wider scaling without sacrificing quality. 9. OpenAI Releases GPT-5.1-Codex Max via Responses API Most capable agentic coding model now available to integrate into apps and workflows. First launched in Codex two weeks ago. Purpose-built for agentic coding with foundational reasoning. Also accessible via Codex CLI with API key. 10. Google Drops Deep Think Mode for Gemini 3 Explores multiple hypotheses simultaneously with iterative reasoning rounds. Produces more refined, nuanced code with richer detail. Available to Google AI Ultra subscribers. Select 'Deep Think' in prompt bar to activate. That's a wrap on this week's AI News. Which update do you think is the biggest? LMK what else you want to see | More weekly AI + Agentic content releasing ever week!
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ President Donald Trump confirmed on Monday he plans to sign an executive order p
 
 People keep talking about “fixing hallucination,” but nobody is asking the one question that actually matters: Why do these systems hallucinate in the first place? Every solution so far—RAG, RLHF, model scaling, “AI constitutions,” uncertainty scoring—tries to patch the problem after it happens. They’re improving the guess instead of removing the guess. The real issue is structural: these models are architecturally designed to generate answers even when they don’t have grounded information. They’re rewarded for sounding confident, not for knowing when to stop. That’s why the failures repeat across every system—GPT, Claude, Gemini, Grok. Different models, same flaw. What I’ve put together breaks down the actual mechanics behind that flaw using the research the industry itself published. It shows why their methods can’t solve it, why the problem persists across scaling, and why the most obvious correction has been ignored for years. If you want the full breakdown—with evidence from academic papers, production failures, legal cases, medical misfires, and the architectural limits baked into transformer models—here it is. It explains the root cause in plain language so people can finally see the pattern for themselves.
 
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 2h ago
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 3h ago
 
 ---
 
@@ -121,7 +121,7 @@ People keep talking about “fixing hallucination,” but nobody is asking the o
 
 **[Why the A.I. Boom Is Unlike the Dot-Com Boom](https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 9h ago
 
 "A business is trying to get more customers. They're trying to manage their customers, sell them more services."
 
-Fortune • 33m ago
+Fortune • 52m ago
 
 ---
 
@@ -145,7 +145,7 @@ Fortune • 33m ago
 
 Eline Van Der Velden, founder and CEO of Particle6 and creator of AI actress Tilly Norwood, addressed the pushback that AI actors are going to replace human ones.
 
-ABC News • 37m ago
+ABC News • 55m ago
 
 ---
 
@@ -153,7 +153,7 @@ ABC News • 37m ago
 
 Oracle's fiscal second-quarter results will be a crucial test for the AI trade and whether demand justifies the company's buildout plans.
 
-CNBC • 41m ago
+CNBC • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 41m ago
 
 For all the fears of over-investment, AI is spreading across enterprises at a pace with no precedent in modern software history.
 
-Menlo Ventures • 8h ago
+Menlo Ventures • 9h ago
 
 ---
 
@@ -183,7 +183,7 @@ NBC News • 1h ago
 
 **[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
 
-The Economist • 23h ago
+The Economist • 1d ago
 
 ---
 
@@ -209,7 +209,7 @@ BBC • 21h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 530 • 💬 509 • 20h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 530 • 💬 509 • 21h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -291,7 +291,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTE
 
 📺 Anastasi In Tech
 
-👁️ 177K • 👍 11K • 💬 1K • ⏱️ 31:03 • 23h ago
+👁️ 177K • 👍 11K • 💬 1K • ⏱️ 31:03 • 1d ago
 
 ---
 
@@ -301,7 +301,7 @@ Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsai
 
 📺 hxsain
 
-👁️ 65K • 👍 8K • 💬 152 • ⏱️ 0:51 • 2h ago
+👁️ 65K • 👍 8K • 💬 152 • ⏱️ 0:51 • 3h ago
 
 ---
 
@@ -321,7 +321,7 @@ Doug Clinton, Intelligent Alpha founder and CEO, joins 'Squawk Box' to discuss t
 
 📺 CNBC Television
 
-👁️ 3K • 👍 22 • 💬 21 • ⏱️ 3:19 • 6h ago
+👁️ 3K • 👍 22 • 💬 21 • ⏱️ 3:19 • 7h ago
 
 ---
 
@@ -331,7 +331,7 @@ Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS
 
 📺 AI Revolution
 
-👁️ 29K • 👍 893 • 💬 65 • ⏱️ 13:12 • 20h ago
+👁️ 29K • 👍 893 • 💬 65 • ⏱️ 13:12 • 21h ago
 
 ---
 
@@ -399,7 +399,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 56,958 • ❤️ 589 • 16h ago
+⬇️ 56,958 • ❤️ 589 • 17h ago
 
 ---
 
@@ -555,20 +555,6 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 ---
 
-**[TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows](https://huggingface.co/papers/2512.05150)**
-
-*Zhenglin Cheng, Peng Sun, Jianguo Li et al. (4 authors)*
-
-🏢 inclusionAI
-
-TwinFlow is a 1-step generative model framework that enhances inference efficiency without requiring fixed pretrained teacher models or standard adversarial networks, achieving high performance on text-to-image tasks and scaling efficiently.
-
-▲ 57 • 💬 8 • ⭐ 34 • 6d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.05150) • [💻 code](https://github.com/inclusionAI/TwinFlow) • [🔗 project](https://zhenglin-cheng.com/twinflow)
-
----
-
 **[LongCat-Image Technical Report](https://huggingface.co/papers/2512.07584)**
 
 *Meituan LongCat Team, Hanghang Ma, Haoxian Tan et al. (13 authors)*
@@ -577,9 +563,23 @@ TwinFlow is a 1-step generative model framework that enhances inference efficien
 
 LongCat-Image is a bilingual open-source foundation model for image generation that addresses multilingual text rendering, photorealism, and deployment efficiency through rigorous data curation, compact design, and comprehensive open-source support.
 
-▲ 12 • 💬 1 • ⭐ 292 • 1d ago
+▲ 12 • 💬 1 • ⭐ 307 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07584) • [💻 code](https://github.com/meituan-longcat/LongCat-Image) • [🔗 project](https://longcat.chat/)
+
+---
+
+**[TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows](https://huggingface.co/papers/2512.05150)**
+
+*Zhenglin Cheng, Peng Sun, Jianguo Li et al. (4 authors)*
+
+🏢 inclusionAI
+
+TwinFlow is a 1-step generative model framework that enhances inference efficiency without requiring fixed pretrained teacher models or standard adversarial networks, achieving high performance on text-to-image tasks and scaling efficiently.
+
+▲ 57 • 💬 8 • ⭐ 47 • 6d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.05150) • [💻 code](https://github.com/inclusionAI/TwinFlow) • [🔗 project](https://zhenglin-cheng.com/twinflow)
 
 ---
 
@@ -595,18 +595,6 @@ RealGen is a photorealistic text-to-image framework that uses an LLM for prompt 
 
 ---
 
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 24 • 💬 0 • ⭐ 25,641 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
-
----
-
 **[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
 
 *Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
@@ -618,6 +606,18 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 ▲ 109 • 💬 4 • ⭐ 5,513 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
+
+---
+
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 24 • 💬 0 • ⭐ 25,661 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -693,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 126 • 1h ago
+⭐ 1.0k • 🔱 126 • 29m ago
 
 ---
 
@@ -713,7 +713,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 855 • 🔱 22 • 2d ago
+⭐ 857 • 🔱 22 • 2d ago
 
 ---
 
@@ -733,7 +733,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 842 • 🔱 270 • 3d ago
+⭐ 843 • 🔱 270 • 3d ago
 
 ---
 

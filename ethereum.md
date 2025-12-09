@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T21:14:49.772272+00:00'
+updated: '2025-12-09T21:33:05.334605+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 21:14 UTC  
+**Last Updated:** December 09, 2025 at 21:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot walle
 
 A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 10h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 11h ago
 
 ---
 
@@ -274,7 +274,7 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 📺 Altcoin Daily
 
-👁️ 77K • 👍 3K • 💬 336 • ⏱️ 11:32 • 2d ago
+👁️ 77K • 👍 3K • 💬 336 • ⏱️ 11:32 • 3d ago
 
 ---
 
@@ -324,7 +324,7 @@ ETHEREUM BREAKING OUT DEC 9.
 
 📺 Overkill Trading
 
-👁️ 195 • 👍 8 • 💬 1 • ⏱️ 0:59 • 51m ago
+👁️ 195 • 👍 8 • 💬 1 • ⏱️ 0:59 • 1h ago
 
 ---
 

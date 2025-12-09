@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T21:14:49.766310+00:00'
+updated: '2025-12-09T21:33:05.328599+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 21:14 UTC  
+**Last Updated:** December 09, 2025 at 21:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,078.33
+### $93,093.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.4%  
-**7d:** -0.6%  
+**24h:** +2.5%  
+**7d:** -0.5%  
 **30d:** -12.2%  
 **90d:** -19.2%  
-**1y:** -3.5%  
+**1y:** -3.4%  
 
 ---
 
@@ -107,7 +107,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 Almost $100k position in BTC! Anyone else almost at $100k?
 
-29m ago
+47m ago
 
 ---
 
@@ -115,7 +115,7 @@ Almost $100k position in BTC! Anyone else almost at $100k?
 
 Bitcoin just smashed through 94k and the energy feels unreal right now, though GetAgent actually predicted this move earlier, and watching the chart rip up is extremely good, everyone thinks you’re smiling at your phone for something else, not knowing, it’s just BTC doing what it does best.
 
-1h ago
+2h ago
 
 ---
 
@@ -129,7 +129,7 @@ Bitcoin just smashed through 94k and the energy feels unreal right now, though G
 
 If you had put $1000 into BTC in 2010 and left it alone without further investment you'd have close to a billion dollars right now (before tax, of course). I sometimes sit and wonder if there are people who did that almost as a joke and then forgot their password or whatever lol.
 
-10h ago
+11h ago
 
 ---
 
@@ -137,7 +137,7 @@ If you had put $1000 into BTC in 2010 and left it alone without further investme
 
 The OCC is the federal authority that determines what U.S. banks are allowed to execute under supervision. This shift is bigger then the ETF Approval from 2024! Its approval is not opinion, interpretation, or industry signaling. It is a binding permission that enables banks to route Bitcoin transactions legally, without inventory risk, and within standard audit frameworks. The relevance is not immediate, because regulatory clarity precedes capital deployment. But when distribution becomes active, this ruling will be the reason banks can deliver Bitcoin at scale through the same channels that already move equities, bonds, and FX flow.
 
-🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/occ-authorizes-us-banks-to-execute) • 1h ago
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/occ-authorizes-us-banks-to-execute) • 2h ago
 
 ---
 
@@ -145,7 +145,7 @@ The OCC is the federal authority that determines what U.S. banks are allowed to 
 
 Indiana lawmakers are making history with groundbreaking legislation that would force public retirement programs to offer Bitcoin investments.
 
-🔗 [Brave New Coin](https://bravenewcoin.com/insights/indiana-becomes-first-state-to-require-bitcoin-options-in-public-retirement-plans) • 5h ago
+🔗 [Brave New Coin](https://bravenewcoin.com/insights/indiana-becomes-first-state-to-require-bitcoin-options-in-public-retirement-plans) • 6h ago
 
 ---
 
@@ -157,7 +157,7 @@ Indiana lawmakers are making history with groundbreaking legislation that would 
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-WIRED • 10h ago
+WIRED • 11h ago
 
 ---
 
@@ -171,7 +171,7 @@ Bloomberg.com • 5h ago
 
 **[Bitcoin Treasury Firm Backed by Tether, SoftBank Falls Sharply on First Trading Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqdkeWNr7LQmHC3KIqp7zQOTjmLIF7cH1Ld3oYihUs2RM6liCCsG77QG&gaa_ts=693894b6&gaa_sig=Rzlm7uDxRyPRdIYhzDRRFJDEcW99B7lhUYWf-WBWf_fDF2_1GGsb2yeq9jWmAMHG2uovtDhsQ6RwN2FO2ZMG6Q%3D%3D)**
 
-The Wall Street Journal • 12h ago
+The Wall Street Journal • 13h ago
 
 ---
 
@@ -187,7 +187,7 @@ CoinDesk • 5h ago
 
 The investment bank continues to have a positive outlook on the crypto market, even with Bitcoin and other assets down.
 
-Yahoo Finance • 46m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -325,7 +325,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 284 • ⏱️ 44:49 • 5h ago
+👁️ 24K • 👍 1K • 💬 284 • ⏱️ 44:49 • 6h ago
 
 ---
 
@@ -345,7 +345,7 @@ Texas has placed taxpayer dollars into a high-risk — but potentially high-rewa
 
 📺 NewsNation
 
-👁️ 2K • 👍 49 • 💬 106 • ⏱️ 3:14 • 7h ago
+👁️ 2K • 👍 49 • 💬 106 • ⏱️ 3:14 • 8h ago
 
 ---
 
@@ -375,7 +375,7 @@ Track risk models, plan exits, and stay ahead! 40% OFF https://app.cryptocapital
 
 📺 Dan Gambardello
 
-👁️ 10K • 👍 854 • 💬 407 • ⏱️ 13:24 • 5h ago
+👁️ 10K • 👍 854 • 💬 407 • ⏱️ 13:24 • 6h ago
 
 ---
 
@@ -405,7 +405,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 3K • 👍 462 • 💬 39 • ⏱️ 7:45 • 3h ago
+👁️ 3K • 👍 462 • 💬 39 • ⏱️ 7:45 • 4h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T21:14:49.775516+00:00'
+updated: '2025-12-09T21:33:05.337850+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 21:14 UTC  
+**Last Updated:** December 09, 2025 at 21:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -184,7 +184,7 @@ Valley News Live • 22h ago
 
 The company, founded by an ex-Google veteran, claims its new system constitutes a 'fundamental leap' beyond existing AI technologies.
 
-Interesting Engineering • 5h ago
+Interesting Engineering • 6h ago
 
 ---
 
