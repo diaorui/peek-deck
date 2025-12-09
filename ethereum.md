@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T06:29:56.596274+00:00'
+updated: '2025-12-09T06:56:47.177472+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
 - cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 06:29 UTC  
+**Last Updated:** December 09, 2025 at 06:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -2.8%  
-**30d:** -13.0%  
-**90d:** -30.5%  
-**1y:** -14.5%  
+**24h:** -0.7%  
+**7d:** -2.6%  
+**30d:** -12.8%  
+**90d:** -30.4%  
+**1y:** -14.3%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-29m ago
+55m ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138,452 ETH, equivalent to about US$435 million, in its latest accumulation round. This bold move boosts BitMine’s total crypto holdings significantly, reinforcing its position as one of the largest institutional holders of Ethereum (ETH) worldwide. Tom Lee and his team cited several catalysts behind this surge: the recent Fusaka upgrade to the Ethereum network — implemented 3 December — which promises improved scalability, security and usability. Additionally, macroeconomic conditions appear favorable, with expectations of a loosening monetary policy by the Federal Reserve potentially supporting broader crypto market recovery. The scale of the purchase (over 138,000 ETH in just a week) marks a dramatic acceleration compared to previous buying patterns — reportedly about 156 % more than the firm’s weekly average four weeks ago. In doing so, BitMine pushes further toward its longer-term target of controlling up to 5 % of Ethereum’s total supply. In sum, this $435 million acquisition underlines BitMine’s growing conviction in Ethereum’s long-term potential, signaling confidence in both network upgrades and macroeconomic conditions that may favor a renewed bull cycle in crypto.
 
-15h ago
+16h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Five years ago, an Ethereum standards author was threatened with trademark legal action over the name of a smart contract standard](https://www.reddit.com/r/ethereum/comments/1phe1xy/five_years_ago_an_ethereum_standards_author_was/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 15h ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 16h ago
 
 ---
 
@@ -160,7 +160,7 @@ Decrypt • 8h ago
 
 **[BlackRock moves to add staked Ethereum ETF with fresh SEC filing](https://www.theblock.co/post/381724/blackrock-moves-to-add-staked-ethereum-etf-with-fresh-sec-filing)**
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -176,7 +176,7 @@ Decrypt • 12h ago
 
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -222,7 +222,7 @@ TradingView • 18h ago
 
 The cryptocurrency market is flashing green during Monday's trading session, 8 December, 2025, prompting investors to ask why crypto is going up today .
 
-Finance Magnates • 19h ago
+Finance Magnates • 20h ago
 
 ---
 
@@ -256,7 +256,7 @@ In today's Milk Road episode, we sit down with CMT Digital's Aryan Sheikhalian t
 
 📺 Milk Road
 
-👁️ 1K • 👍 96 • 💬 81 • ⏱️ 33:06 • 10h ago
+👁️ 1K • 👍 96 • 💬 81 • ⏱️ 33:06 • 11h ago
 
 ---
 
@@ -286,7 +286,7 @@ No Paid Services | No Call Tips | Alert from Fraud People's they are asking for 
 
 📺 Balraj Trading Tech
 
-👁️ 2K • 👍 433 • 1h ago
+👁️ 2K • 👍 433 • 2h ago
 
 ---
 
@@ -296,7 +296,7 @@ BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available ever
 
 📺 Lark Davis
 
-👁️ 15K • 👍 780 • 💬 78 • ⏱️ 37:57 • 18h ago
+👁️ 15K • 👍 780 • 💬 78 • ⏱️ 37:57 • 19h ago
 
 ---
 

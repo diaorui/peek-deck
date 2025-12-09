@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T06:29:56.599545+00:00'
+updated: '2025-12-09T06:56:47.180739+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 06:29 UTC  
+**Last Updated:** December 09, 2025 at 06:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most concept machines, this one is production ready and operating in Hebei Province to address the aging rural workforce. The Tech Stack: Autonomy: Uses LiDAR and RTK-GNSS for path planning with ±2.5 cm precision. It handles the entire cycle: ploughing, seeding, spraying and harvesting without a driver. Smart Sensing: Beyond just driving, it collects real-time data on soil composition, moisture, and crop health while running. Powertrain: Pure electric with a dual-motor setup (separating traction from the PTO/farming implements) for better load control. Endurance: Runs for 6 hours on a single charge and coordinates via a 5G mesh network. "Agri-Robotics" is where we are seeing the first massive wave of real world autonomy. If a single person can manage a fleet of these from a tablet, it fundamentally changes the economics of small to medium farms. Source: Lucas
 
-14h ago
+15h ago
 
 ---
 
@@ -74,7 +74,7 @@ Has anyone seen how the mopping pressure is created in a robot vacuum? I would i
 
 According to Reuters, NVIDIA and SoftBank, combined, are looking to invest more than $1 billion into Skild AI.
 
-🔗 [Windows Report](https://windowsreport.com/softbank-nvidia-reportedly-in-talks-to-invest-over-1-billion-into-skild-ai/) • 12h ago
+🔗 [Windows Report](https://windowsreport.com/softbank-nvidia-reportedly-in-talks-to-invest-over-1-billion-into-skild-ai/) • 13h ago
 
 ---
 
@@ -124,7 +124,7 @@ Tech Xplore • 15h ago
 
 The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
 
-Breaking Defense • 15h ago
+Breaking Defense • 16h ago
 
 ---
 
@@ -156,7 +156,7 @@ Bloomberg.com • 16h ago
 
 SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
 
-PYMNTS.com • 8h ago
+PYMNTS.com • 9h ago
 
 ---
 
@@ -200,7 +200,7 @@ Yahoo Finance • 1d ago
 
 📺 AI . Robot
 
-👁️ 48K • 👍 717 • 💬 13 • ⏱️ 0:19 • 17h ago
+👁️ 48K • 👍 717 • 💬 13 • ⏱️ 0:19 • 18h ago
 
 ---
 
@@ -290,7 +290,7 @@ At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-e
 
 📺 Humanoid Robot 🤖
 
-👁️ 162K • 👍 696 • 💬 6 • ⏱️ 0:17 • 23h ago
+👁️ 162K • 👍 696 • 💬 6 • ⏱️ 0:17 • 1d ago
 
 ---
 
