@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T23:42:42.581309+00:00'
+updated: '2025-12-09T23:53:43.949051+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 23:42 UTC  
+**Last Updated:** December 09, 2025 at 23:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-21h ago
+22h ago
 
 ---
 
@@ -175,7 +175,7 @@ Bloomberg.com • 2h ago
 
 **[Bitcoin Price Jumps As Tether-Backed Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 28m ago
+Investor's Business Daily • 39m ago
 
 ---
 
@@ -197,7 +197,7 @@ Bloomberg.com • 6h ago
 
 **[Standard Chartered is finally slashing its bitcoin price target by half. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqfl9vKtmw3S3rlW4liTdaAsGMGaHkuR8kc7-I2KFIOcW34L0PYP6j8u&gaa_ts=6938b4a0&gaa_sig=RhFlZEvF7DvM9hQEhhXdEfW8bZqhJfijMAqPYx3uSGFpYRLhbkS4s2bZU6gQ2RZbo4ZOYM3L0oVWwDak4eYtZQ%3D%3D)**
 
-MarketWatch • 28m ago
+MarketWatch • 39m ago
 
 ---
 
@@ -289,7 +289,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 7h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 8h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -331,7 +331,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 15K • 👍 987 • 💬 210 • ⏱️ 7:23 • 5h ago
+👁️ 15K • 👍 987 • 💬 210 • ⏱️ 7:23 • 6h ago
 
 ---
 
@@ -401,7 +401,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Сапсан-АВТО
 
-👁️ 3K • 👍 8K • 32m ago
+👁️ 3K • 👍 8K • 43m ago
 
 ---
 

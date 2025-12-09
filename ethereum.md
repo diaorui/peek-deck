@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T23:42:42.586515+00:00'
+updated: '2025-12-09T23:53:43.954299+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
+- social
 - cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 23:42 UTC  
+**Last Updated:** December 09, 2025 at 23:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +7.1%  
-**7d:** +4.5%  
-**30d:** -6.4%  
-**90d:** -25.3%  
-**1y:** -8.1%  
+**24h:** +6.8%  
+**7d:** +4.3%  
+**30d:** -6.6%  
+**90d:** -25.5%  
+**1y:** -8.3%  
 
 ---
 
@@ -168,7 +168,7 @@ Binance • 1d ago
 
 They're both among the five largest cryptocurrencies, but one is much further ahead in its journey.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -264,7 +264,7 @@ Ethereum has critics calling it “overvalued”… but what if everyone is look
 
 📺 Milk Road
 
-👁️ 1K • 👍 59 • 💬 66 • ⏱️ 35:26 • 3h ago
+👁️ 1K • 👍 59 • 💬 66 • ⏱️ 35:26 • 4h ago
 
 ---
 
@@ -304,7 +304,7 @@ xrp #bitcoin #hbar #eth https://twitter.com/HobbiesCards XRP and HBAR Ethereum a
 
 📺 CRYPTO with KLAUS
 
-👁️ 6K • 👍 544 • 💬 199 • ⏱️ 12:55 • 4h ago
+👁️ 6K • 👍 544 • 💬 199 • ⏱️ 12:55 • 5h ago
 
 ---
 
@@ -324,7 +324,7 @@ Breaking News: BitMine Immersion Technologies (BMNR) has officially crossed the 
 
 📺 CryptoStock Lab
 
-👁️ 253 • 👍 16 • ⏱️ 7:09 • 4h ago
+👁️ 253 • 👍 16 • ⏱️ 7:09 • 5h ago
 
 ---
 

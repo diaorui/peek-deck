@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T23:42:42.573861+00:00'
+updated: '2025-12-09T23:53:43.941610+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
+- social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 23:42 UTC  
+**Last Updated:** December 09, 2025 at 23:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 4h ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 5h ago
 
 ---
 
@@ -95,7 +95,7 @@ In the face of a profitability crisis, industrial-scale bitcoin miners are trans
 
 Agent systems change shape as you adjust tools, add reasoning steps, or rewrite planners. One challenge I ran into is that the JSON output shifts while the evaluation script expects a fixed structure. A small structural drift in the output can make an entire evaluation run unusable. For example A field that used to contain the answer moves into a different object A list becomes a single value A nested block appears only for one sample Even when the reasoning is correct, the scoring script cannot interpret it Adding a strict structure and schema check before scoring helped us separate structural failures from semantic failures. It also gave us clearer insight into how often the agent breaks format during tool use or multi step reasoning. I am curious how others in this community handle evaluation for agent systems that evolve week to week. Do you rely on strict schemas? Do you allow soft validation? Do you track structural drift separately from quality drift?
 
-56m ago
+1h ago
 
 ---
 
@@ -145,13 +145,13 @@ Radnor High School and local police are investigating an AI-generated video that
 
 The Air Force wants a cloud-based, AI-powered “digital sandbox” as a hub to generate and run wargames at speeds of up 10,000 times faster than real time.
 
-Defense News • 57m ago
+Defense News • 1h ago
 
 ---
 
 **[‘Marjorie Prime’ Review: Broadway’s Family Drama of the AI Future](https://www.wsj.com/articles/marjorie-prime-review-broadways-family-drama-of-the-ai-future-fb508e75?gaa_at=eafs&gaa_n=AWEtsqeWdJfkOcJP_PmFyk5x_dzUSs3rGlsko2Z9vBVjdDXQ2sPtTIEgbZK3&gaa_ts=6938b49e&gaa_sig=jtnqEOP5Utn1ysag5s5lW5AoQbhd-V4jiT7T9QEozjl9U9SYkhEvjQQjs2EHxrXKOVEFOFajQi3YI3i5p8W2vg%3D%3D)**
 
-The Wall Street Journal • 44m ago
+The Wall Street Journal • 55m ago
 
 ---
 
@@ -167,7 +167,7 @@ CNN • 3h ago
 
 Experts warn of dangers as England and Wales study shows 13- to 17-year-olds consulting AI amid long waiting lists for services
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -187,7 +187,7 @@ Reuters • 1h ago
 
 **[Hegseth Introduces Department to New AI Tool](https://www.war.gov/News/News-Stories/Article/Article/4355797/hegseth-introduces-department-to-new-ai-tool/)**
 
-U.S. Department of War (.gov) • 1h ago
+U.S. Department of War (.gov) • 2h ago
 
 ---
 
@@ -639,7 +639,7 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.6k • 🔱 443 • 15h ago
+⭐ 5.6k • 🔱 443 • 16h ago
 
 ---
 
