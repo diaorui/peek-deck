@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T16:23:31.545900+00:00'
+updated: '2025-12-09T16:51:48.242059+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
+- videos
 - social
 - cryptocurrency
-- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 16:23 UTC  
+**Last Updated:** December 09, 2025 at 16:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,461.98
+### $94,400.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.5%  
-**7d:** -0.6%  
-**30d:** -12.3%  
-**90d:** -19.3%  
-**1y:** -3.5%  
+**24h:** +4.1%  
+**7d:** +0.4%  
+**30d:** -11.4%  
+**90d:** -18.4%  
+**1y:** -2.5%  
 
 ---
 
@@ -91,13 +91,13 @@ Rank #1
 
 **[Swim with the whales](https://www.reddit.com/r/Bitcoin/comments/1pi4cuq/swim_with_the_whales/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -105,13 +105,13 @@ Rank #1
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-14h ago
+15h ago
 
 ---
 
 **[What’s going on?](https://www.reddit.com/r/Bitcoin/comments/1pib08s/whats_going_on/)**
 
-28m ago
+56m ago
 
 ---
 
@@ -125,7 +125,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 If you had put $1000 into BTC in 2010 and left it alone without further investment you'd have close to a billion dollars right now (before tax, of course). I sometimes sit and wonder if there are people who did that almost as a joke and then forgot their password or whatever lol.
 
-5h ago
+6h ago
 
 ---
 
@@ -139,7 +139,7 @@ And most who keep panicking, and those crazy shenanigans fud are mostly from noo
 
 **[Staring into the BTC abyss, waiting for it to explain itself](https://www.reddit.com/r/Bitcoin/comments/1pi3i32/staring_into_the_btc_abyss_waiting_for_it_to/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -151,7 +151,7 @@ And most who keep panicking, and those crazy shenanigans fud are mostly from noo
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-WIRED • 5h ago
+WIRED • 6h ago
 
 ---
 
@@ -161,33 +161,23 @@ Reuters • 11h ago
 
 ---
 
-**[Bitcoin Firm Twenty One Falls 25% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
+**[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance)**
 
-Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
-
-Bloomberg.com • 1h ago
+The Block • 5h ago
 
 ---
 
-**[Crypto pros blast a potential move to exclude bitcoin holding companies from MSCI indexes](https://www.businessinsider.com/msci-crypto-index-bitcoin-treasury-strategy-btc-price-2025-12)**
+**[Bitcoin and XRP Secure Fresh NYSE Exposure Through Bitwise Index Move](https://www.tradingview.com/news/u_today:a6580a868094b:0-bitcoin-and-xrp-secure-fresh-nyse-exposure-through-bitwise-index-move/)**
 
-MSCI could exclude crypto treasury firms from its widely followed indexes. The move is drawing sharp criticism from industry players.
+Bitcoin and XRP got some more attention from Wall Street today. The 10 Crypto Index Fund by Bitwise finally got the green light from regulators and started trading on NYSE Arca, which means these two popular assets are becoming more connected to traditional investments. Journalist Eleanor Terrett s…
 
-Business Insider • 1h ago
-
----
-
-**[Microsoft to invest $17.5B in India, PNC to allow bitcoin trading](https://finance.yahoo.com/video/microsoft-invest-17-5b-india-154025028.html)**
-
-Market Catalysts host Julie Hyman tracks several of the day's top trending stock tickers, including Microsoft's (MSFT) plans to invest $17.5 billion in India over the next four years, Campbell's (CPB) reporting a decline in profit and revenue in its fiscal first quarter release, and PNC Financial Services Group (PNC) to allow bitcoin (BTC-USD) trading. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
-
-Yahoo Finance • 43m ago
+TradingView • 37m ago
 
 ---
 
-**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqcRB6T8m21QQnNXxkSDzfhWyIQa4LZ96eFNwXkOb0hLDlMF8pSScFmj&gaa_ts=6938496f&gaa_sig=9TOvirQ3qKjfiNhMIaM5JP4tdCTd-FKl-ri8Xz8x0_2lPyx0PC-vSWLCBLf2M8xZBofk86OsEXaeklDmrwNZbA%3D%3D)**
+**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqcnLWLMEGcmrHBgy_TDv2ZeJey8i9HEcFUO9zay0IWz1YdKAslxSNmS&gaa_ts=6938570a&gaa_sig=cCa_ToxlrGtBAAGVQJ9HhAqFCMXemf-ykIBs1wYZr9Yn_UjdFMA0_nePsUq_sTXlO9Hoah_GdD8Lmzao5vl8FA%3D%3D)**
 
-MarketWatch • 17h ago
+MarketWatch • 18h ago
 
 ---
 
@@ -207,17 +197,25 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance)**
+**[Bitcoin Firm Twenty One Falls 24% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
 
-The Block • 4h ago
+Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
+
+Bloomberg.com • 1h ago
 
 ---
 
-**[Crypto Markets Today: Bitcoin Retreats as Federal Reserve Decision Takes Center Stage](https://www.coindesk.com/markets/2025/12/09/crypto-markets-today-bitcoin-slips-back-toward-danger-zone-ahead-of-fed-decision)**
+**[Bitcoin Treasury Firm Backed by Tether, SoftBank Plunges on First Day of Trading](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqeOdQunyg_lT22D9zTARVzWw5fTWKe_ajmXTh3S6jXD1daBjq4LeQdK&gaa_ts=6938570a&gaa_sig=JiUFRW6HKdcfBCTg6hVBmJgA1Pm1aOza_neDGsT6tpHcwmXcZBkLTIW1H2wV-bvRoRP5Z1ilG_hgqvqb4pxzFg%3D%3D)**
 
-Bitcoin surrendered gains from earlier in the week, fell back toward $90,000 as traders braced for Wednesday’s Federal Reserve rate decision.
+The Wall Street Journal • 8h ago
 
-CoinDesk • 4h ago
+---
+
+**[XXI Drops 25% After SPAC Merger](https://www.coindesk.com/markets/2025/12/09/bitcoin-treasury-company-twenty-one-drops-25-in-nyse-debut-trades-near-pipe-pricing-of-usd10)**
+
+The company is led by Strike CEO Jack Mallers and began trading under the XXI ticker today following its SPAC merger with Cantor Equity Partners.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -285,15 +283,15 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ---
 
-**[Market Volatility Underscores Epic Buildup of Global Risk](https://news.ycombinator.com/item?id=46126556)**
+**["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 1 • 💬 3 • 6d ago • [nytimes.com](https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html)
+⬆️ 2 • 💬 0 • 1h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
-**["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
+**[Market Volatility Underscores Epic Buildup of Global Risk](https://news.ycombinator.com/item?id=46126556)**
 
-⬆️ 1 • 💬 0 • 33m ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 1 • 💬 3 • 6d ago • [nytimes.com](https://www.nytimes.com/2025/11/25/business/economy/stocks-bitcoin-markets-risk.html)
 
 ---
 
@@ -307,7 +305,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 176 • ⏱️ 10:16 • 14h ago
+👁️ 52K • 👍 3K • 💬 184 • ⏱️ 10:16 • 15h ago
 
 ---
 
@@ -317,7 +315,17 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 376K • 👍 13K • 💬 2K • ⏱️ 20:03 • 20h ago
+👁️ 399K • 👍 14K • 💬 2K • ⏱️ 20:03 • 20h ago
+
+---
+
+**[HUGE Bitcoin Reversal Incoming - Here&#39;s Why](https://www.youtube.com/watch?v=fEX9E7tYdfs)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 11K • 👍 904 • 💬 183 • ⏱️ 44:49 • 1h ago
 
 ---
 
@@ -327,7 +335,7 @@ In this clip, I talk about what is happening for bitcoin and crypto this week an
 
 📺 CryptosRus Extra
 
-👁️ 12K • 👍 555 • 💬 247 • ⏱️ 9:01 • 15h ago
+👁️ 12K • 👍 560 • 💬 337 • ⏱️ 9:01 • 16h ago
 
 ---
 
@@ -337,7 +345,25 @@ In this video, Kyledoops shows you 3 very specific reasons why you can expect a 
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 1K • 💬 23 • ⏱️ 37:53 • 8h ago
+👁️ 19K • 👍 1K • 💬 40 • ⏱️ 37:53 • 8h ago
+
+---
+
+**[Michael Saylor: “We’re Buying More Bitcoin Than Sellers Can Sell”](https://www.youtube.com/watch?v=Io3V7H-862c)**
+
+Michael Saylor declares he's more bullish than ever, stating his team can buy more Bitcoin than sellers can sell—and that they're ...
+
+📺 Bitcoin Magazine
+
+👁️ 645 • 👍 21 • 💬 80 • ⏱️ 0:36 • 1h ago
+
+---
+
+**[The guy who told you to buy bitcoin 😬😑😂 #shorts #funny #comedy #crypto #bitcoin #btc #invest](https://www.youtube.com/watch?v=PIblMDfqXes)**
+
+📺 Matt & Justus
+
+👁️ 1.3M • 👍 76K • 💬 235 • ⏱️ 1:00 • 22h ago
 
 ---
 
@@ -347,7 +373,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 13K • 👍 568 • 💬 422 • ⏱️ 13:29 • 1d ago
+👁️ 13K • 👍 577 • 💬 422 • ⏱️ 13:29 • 1d ago
 
 ---
 
@@ -357,45 +383,17 @@ Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. 
 
 📺 Simply Bitcoin
 
-👁️ 42K • 👍 3K • 💬 417 • ⏱️ 16:35 • 17h ago
+👁️ 45K • 👍 3K • 💬 547 • ⏱️ 16:35 • 18h ago
 
 ---
 
-**[Michael Saylor Reveals Wells Fargo, Citi &amp; JPM’s Secret Bitcoin Pivot](https://www.youtube.com/watch?v=g0eKRlb-K9o)**
+**[CZ Says Bitcoin May Enter a “Super Cycle” Next Year](https://www.youtube.com/watch?v=RBtq1mYA3qw)**
 
-Michael Saylor reveals that major U.S. banks—including Wells Fargo, Citi, JPMorgan, and Bank of America—are preparing to ...
+CZ says macro forces—rate cuts, QE, and Trump's market policy—may trigger a bitcoin “super cycle.” #Bitcoin #BTC #CZ ...
 
 📺 Bitcoin Magazine
 
-👁️ 193 • 👍 4 • 💬 40 • ⏱️ 0:46 • 2h ago
-
----
-
-**[IT’S RIGGED! Kevin O’Leary Warns ‘Buckle Up’ Bitcoin &amp; Ethereum Holders](https://www.youtube.com/watch?v=s3Exn-qdeno)**
-
-LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily ...
-
-📺 Altcoin Daily
-
-👁️ 76K • 👍 3K • 💬 335 • ⏱️ 11:32 • 2d ago
-
----
-
-**[The guy who told you to buy bitcoin 😬😑😂 #shorts #funny #comedy #crypto #bitcoin #btc #invest](https://www.youtube.com/watch?v=PIblMDfqXes)**
-
-📺 Matt & Justus
-
-👁️ 1.1M • 👍 67K • 💬 217 • ⏱️ 1:00 • 21h ago
-
----
-
-**[Bitcoin Investors Prepare For a HUGE FOMC Week](https://www.youtube.com/watch?v=HhNaTvl9pjI)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 34K • 👍 2K • 💬 277 • ⏱️ 37:28 • 1d ago
+👁️ 528 • 👍 26 • 💬 2 • ⏱️ 1:33 • 1h ago
 
 ---
 

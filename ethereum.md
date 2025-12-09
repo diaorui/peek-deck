@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T16:23:31.551218+00:00'
+updated: '2025-12-09T16:51:48.248276+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
+- videos
 - social
 - cryptocurrency
-- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 16:23 UTC  
+**Last Updated:** December 09, 2025 at 16:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,300.00
+### $3,329.72
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +5.1%  
-**7d:** +3.1%  
-**30d:** -7.7%  
-**90d:** -26.4%  
-**1y:** -9.3%  
+**24h:** +7.8%  
+**7d:** +5.7%  
+**30d:** -5.4%  
+**90d:** -24.5%  
+**1y:** -7.1%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot wallet (non-hardware) that actually supports custom HD derivation at the account level and BIP39 passphrases (25th word). Surprisingly, this combo seems to be mostly available only on hardware wallets or very niche software. Most mainstream hot wallets either lock derivation paths or ignore passphrases completely. So far, the only hot wallet I personally found that seems to support both is TokenPocket. According to their docs, keys stay on-device and they allow more flexibility than most wallets. Before fully committing, I’m curious: Has anyone here actually used TokenPocket with custom derivation paths + passphrase? Any thoughts on its security model or reputation? Are there any other hot wallets I might be missing (mobile / desktop / CLI) that support this kind of setup for Ethereum / EVM? I know this is more of a power-user thing, but I’m guessing some of you have gone through the same search. Appreciate any insight 🙏
 
-47m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot walle
 
 A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 5h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 6h ago
 
 ---
 
@@ -154,29 +154,23 @@ I copied and pasted for ease of access. Maybe Vitalik can make an update to rais
 
 The CFTC has introduced a pilot allowing Bitcoin, Ethereum, and USDC to be used as margin, while updating rules to support tokenized assets.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
-**[ZKsync to deprecate ZKsync Lite in 2026, sunsetting Ethereum's first ZK rollup](https://www.theblock.co/post/381632/zksync-to-deprecate-zksync-lite-in-2026-sunsetting-ethereums-first-zk-rollup)**
+**[Prediction: If This 1 Policy Changes, Bitcoin and Ethereum Will Soar](https://www.fool.com/investing/2025/12/08/prediction-if-this-1-policy-changes-bitcoin-and-et/)**
 
-The Block • 1d ago
-
----
-
-**[Ethereum’s P2P Layer Is Improving Just as Institutional ETH Buys Pick Up](https://finance.yahoo.com/news/ethereum-p2p-layer-improving-just-133000587.html)**
-
-Early PeerDAS performance is proof that the Ethereum Foundation can now ship complex networking improvements at scale.
-
-Yahoo Finance • 2h ago
-
----
-
-**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/07/3-reasons-to-buy-ethereum-before-january-2026/)**
-
-Ethereum could be once again on the path to the $5,000 price level. Here's why.
+Japan is considering a big change to how it taxes crypto.
 
 The Motley Fool • 1d ago
+
+---
+
+**[Better Buy: XRP vs. Ethereum](https://finance.yahoo.com/news/better-buy-xrp-vs-ethereum-160500223.html)**
+
+They're both among the five largest cryptocurrencies, but one is much further ahead in its journey.
+
+Yahoo Finance • 46m ago
 
 ---
 
@@ -185,6 +179,12 @@ The Motley Fool • 1d ago
 The trading platform dives further into digital assets both domestically and globally.
 
 Fortune • 18h ago
+
+---
+
+**[Vitalik Buterin pushes for trustless gas futures market to hedge Ethereum fees, sparking debate over feasibility](https://www.theblock.co/post/381677/vitalik-buterin-pushes-for-trustless-gas-futures-market-to-hedge-ethereum-fees-sparking-debate)**
+
+The Block • 1d ago
 
 ---
 
@@ -210,19 +210,19 @@ CoinDesk • 1d ago
 
 ---
 
+**[Old Ethereum Whale Moves $1.19 Billion After A Decade—Here’s Why It’s A Big Deal](https://zycrypto.com/old-ethereum-whale-moves-1-19-billion-after-a-decade-heres-why-its-a-big-deal/)**
+
+The reappearance of this early-era wallet after nearly ten years has amplified speculation that sophisticated capital could flow into Ethereum in the coming months.
+
+ZyCrypto • 1h ago
+
+---
+
 **[Ethereum Price Gears Up for a Breakout—Can ETH Outperform BTC Into the Year-End?](https://www.tradingview.com/news/coinpedia:4bc4baf33094b:0-ethereum-price-gears-up-for-a-breakout-can-eth-outperform-btc-into-the-year-end/)**
 
 Ethereum is compressing just below a critical resistance band near $3,300–$3,350, even as the broader crypto market remains unsettled by Bitcoin’s choppy price action around $43,000–$44,000. Despite the volatility, the ETH price has defended support near $3,050, forming a tight consolidation range…
 
-TradingView • 7h ago
-
----
-
-**[What Bitmine Immersion Technologies (BMNR)'s Pivot to Ethereum Treasury and Dividend Means For Shareholders](https://finance.yahoo.com/news/bitmine-immersion-technologies-bmnr-pivot-100740579.html)**
-
-Bitmine Immersion Technologies has recently transformed into a crypto treasury and services platform, amassing more than 3% of Ethereum’s supply, boosting its Ethereum and Bitcoin holdings, returning to profit in 2025 and declaring a US$0.01 dividend payable on December 29, 2025. By targeting ownership of up to 5% of all Ethereum and scaling staking and fee-based services, the company is increasingly positioning its equity as a leveraged proxy on the Ethereum ecosystem rather than a...
-
-Yahoo Finance • 2d ago
+TradingView • 8h ago
 
 ---
 
@@ -236,7 +236,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 11K • 👍 367 • 💬 184 • ⏱️ 12:46 • 22h ago
+👁️ 11K • 👍 374 • 💬 309 • ⏱️ 12:46 • 22h ago
 
 ---
 
@@ -246,27 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 757 • 👍 79 • 💬 5 • ⏱️ 4:05 • 4h ago
-
----
-
-**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=ZjNWtk6KUdU)**
-
-Demat Account Dhan - https://invite.dhan.co/?invite=XDFET56312 Get Free access on - Crypto Trading Club ⚡️Crypto Trading ...
-
-📺 Trade with Burner
-
-👁️ 3K • 👍 408 • 2h ago
-
----
-
-**[Why SOL, Ripple XRP, LINK and ETH Benefit from A High M2 Money Supply](https://www.youtube.com/watch?v=x9aN1UAgKlQ)**
-
-US M2 money supply just hit a new all-time high, and Bitcoin always seems to follow this. Selected altcoins could be in for a treat.
-
-📺 Altcoin Buzz
-
-👁️ 238 • 👍 20 • 💬 64 • ⏱️ 14:52 • 2h ago
+👁️ 1K • 👍 114 • 💬 7 • ⏱️ 4:05 • 4h ago
 
 ---
 
@@ -276,7 +256,47 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 339 • 💬 20 • ⏱️ 15:50 • 1d ago
+👁️ 9K • 👍 341 • 💬 91 • ⏱️ 15:50 • 1d ago
+
+---
+
+**[This ETH Pattern Has Only One Outcome....](https://www.youtube.com/watch?v=AB0q8tKtipY)**
+
+BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
+
+📺 Marzell Crypto
+
+👁️ 2K • 👍 73 • 💬 58 • ⏱️ 6:25 • 1d ago
+
+---
+
+**[BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Y4sZ0EGnBf0)**
+
+BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 11K • 👍 550 • 💬 319 • ⏱️ 19:51 • 18h ago
+
+---
+
+**[Why SOL, Ripple XRP, LINK and ETH Benefit from A High M2 Money Supply](https://www.youtube.com/watch?v=x9aN1UAgKlQ)**
+
+US M2 money supply just hit a new all-time high, and Bitcoin always seems to follow this. Selected altcoins could be in for a treat.
+
+📺 Altcoin Buzz
+
+👁️ 735 • 👍 62 • 💬 197 • ⏱️ 14:52 • 2h ago
+
+---
+
+**[Bitcoin Live Trading: This Will Shock You! Prepare NOW, Most will FAIL EP1848](https://www.youtube.com/watch?v=b7GkwqTBUqg)**
+
+Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.cryptolifer.com Pionex: Best Bot Platform ...
+
+📺 Crypto Lifer
+
+👁️ 4K • 👍 671 • 2h ago
 
 ---
 
@@ -290,33 +310,13 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 ---
 
-**[This ETH Pattern Has Only One Outcome....](https://www.youtube.com/watch?v=AB0q8tKtipY)**
-
-BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
-
-📺 Marzell Crypto
-
-👁️ 2K • 👍 72 • 💬 56 • ⏱️ 6:25 • 1d ago
-
----
-
 **[The Biggest Ethereum Risk No One Wants to Admit w/ Aryan Sheikhalian](https://www.youtube.com/watch?v=rQPZq2hRlLM)**
 
 In today's Milk Road episode, we sit down with CMT Digital's Aryan Sheikhalian to uncover the one risk for Ethereum almost ...
 
 📺 Milk Road
 
-👁️ 2K • 👍 107 • 💬 81 • ⏱️ 33:06 • 20h ago
-
----
-
-**[BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Y4sZ0EGnBf0)**
-
-BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 11K • 👍 541 • 💬 275 • ⏱️ 19:51 • 17h ago
+👁️ 2K • 👍 110 • 💬 81 • ⏱️ 33:06 • 20h ago
 
 ---
 
@@ -326,7 +326,7 @@ Everyone is obsessed with “Bitcoin to 100K” or “Bitcoin is dead.” In thi
 
 📺 Crypto Hustle
 
-👁️ 535 • 👍 49 • 💬 4 • ⏱️ 11:10 • 7h ago
+👁️ 713 • 👍 53 • 💬 9 • ⏱️ 11:10 • 8h ago
 
 ---
 

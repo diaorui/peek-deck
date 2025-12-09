@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T16:23:31.554104+00:00'
+updated: '2025-12-09T16:51:48.251647+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 16:23 UTC  
+**Last Updated:** December 09, 2025 at 16:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Self-driving delivery vehicles, in rural parts of China, now move along village roads by themselves, dropping off daily goods to local shops](https://www.reddit.com/r/robotics/comments/1pi4b61/selfdriving_delivery_vehicles_in_rural_parts_of/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 "May the sensors be with you "
 
-3h ago
+4h ago
 
 ---
 
@@ -62,17 +62,17 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 ---
 
-**[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
-
-1d ago
-
----
-
 **[Vision language navigation](https://www.reddit.com/r/robotics/comments/1piaihx/vision_language_navigation/)**
 
 Teaching Robots to Understand Natural Language Built an autonomous navigation system where you can command a robot in plain English - "go to the person" or "find the chair" - and it handles the rest. What I Learned: Distributed ROS2: Ran LLM inference on NVIDIA Jetson Orin Nano while handling vision/navigation on my main system. Multi-machine communication over ROS2 topics was seamless. Edge Al Reality: TinyLlama on Jetson's CPU takes 2-10s per command, but the 8GB unified memory and no GPU dependency makes it perfect for robotics. Real edge computing without much latency. Vision + Planning: YOLOv8 detects object classes, monocular depth estimation calculates distance, Nav2 plans the path. When the target disappears, the robot autonomously searches with 360° rotation patterns. On Jetson Orin Nano Super: Honestly impressed. It's the perfect middle ground - more capable than Raspberry Pi, more accessible than industrial modules. Running Ollama while maintaining real-time ROS2 communication proved its robotics potential. Stack: ROS2 | YOLOv8 | Ollama/TinyLlama | Nav2 | Gazebo Video shows the full pipeline - natural language → LLM parsing → detection → autonomous navigation.
 
-46m ago
+1h ago
+
+---
+
+**[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
+
+1d ago
 
 ---
 
@@ -102,7 +102,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
 Has anyone seen how the mopping pressure is created in a robot vacuum? I would imagine some sort of linear actuator/solenoid/spring suspension but did not see any of that when looking at at online teardowns of a Dreame X50 Ultra that claims to have mop lifting/mop pressure.
 
-13h ago
+14h ago
 
 ---
 
@@ -124,14 +124,6 @@ Breaking Defense • 1d ago
 
 ---
 
-**[Skana Robotics unveils Alligator autonomous amphibious vessel](https://www.therobotreport.com/skana-robotics-unveils-alligator-autonomous-amphibious-vessel/)**
-
-The Alligator is an autonomous amphibious vessel designed to deliver logistics, sensors, and personnel between water and land.
-
-The Robot Report • 3h ago
-
----
-
 **[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
@@ -148,11 +140,11 @@ Decrypt • 17h ago
 
 ---
 
-**[Video Shows Robot Attacking CEO](https://futurism.com/robots-and-machines/robot-attacks-ceo)**
+**[Pneumatic-suction robot clears 75,000 lb of cargo an hour](https://newatlas.com/robotics/mit-pickle-one-armed-warehouse-robot-suction-unloading/)**
 
-The Chinese robotics firm EngineAI lets its humanoid robot loose on its CEO, whom it promptly proceeds to lay out.
+It'll likely be a while before we have humanoid robots taking over our household chores, but what you can count on sooner is seeing more robots in industrial settings, like factories and warehouses.
 
-Futurism • 18h ago
+New Atlas • 5h ago
 
 ---
 
@@ -160,7 +152,7 @@ Futurism • 18h ago
 
 SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
 
-PYMNTS.com • 18h ago
+PYMNTS.com • 19h ago
 
 ---
 
@@ -180,9 +172,19 @@ Interesting Engineering • 1d ago
 
 ---
 
-**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://www.marketbeat.com/stock-ideas/5-robotics-stocks-catching-momentum-after-new-policy-tailwinds/)**
+**[Serve Robotics Extends Autonomous Delivery to Fort Lauderdale](https://finance.yahoo.com/news/serve-robotics-extends-autonomous-delivery-153500451.html)**
 
-MarketBeat • 1d ago
+SERV expands its autonomous delivery network to Fort Lauderdale, deepening its South Florida presence through Uber Eats.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[When Will Robots Take Over Laundry Folding?](https://www.smithsonianmag.com/innovation/when-will-robots-take-over-laundry-folding-180987801/)**
+
+For this chore, the human touch still beats machines. But maybe not for long
+
+Smithsonian Magazine • 1d ago
 
 ---
 
@@ -196,17 +198,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 13K • 👍 345 • 💬 163 • ⏱️ 14:26 • 20h ago
-
----
-
-**[China&#39;s T800 Humanoid Robot KICKS Creator to the Ground to Prove It&#39;s Real!](https://www.youtube.com/watch?v=QfkH61jNZhs)**
-
-The founder and CEO of EngineAI just took a robot kick to the chest in an attempt to prove the Shenzhen startup's new T800 ...
-
-📺 Kalil 4.0
-
-👁️ 1K • 👍 33 • 💬 25 • ⏱️ 8:31 • 15h ago
+👁️ 18K • 👍 420 • 💬 187 • ⏱️ 14:26 • 21h ago
 
 ---
 
@@ -218,23 +210,21 @@ The founder and CEO of EngineAI just took a robot kick to the chest in an attemp
 
 ---
 
-**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
+**[China&#39;s T800 Humanoid Robot KICKS Creator to the Ground to Prove It&#39;s Real!](https://www.youtube.com/watch?v=QfkH61jNZhs)**
 
-Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
+The founder and CEO of EngineAI just took a robot kick to the chest in an attempt to prove the Shenzhen startup's new T800 ...
 
-📺 Fin Tek
+📺 Kalil 4.0
 
-👁️ 89K • 👍 3K • 💬 147 • ⏱️ 21:31 • 3d ago
+👁️ 2K • 👍 38 • 💬 29 • ⏱️ 8:31 • 16h ago
 
 ---
 
-**[2025: This AI Caregiver Robot Comforts a Baby Like a Real Parent in a Silicon Valley Home](https://www.youtube.com/watch?v=LFTUzGo3rmM)**
+**[🏃🤖 Figure 03 Runs LIKE A HUMAN! Watch the PERFECT #RobotTurn. #figureai #humanoid #robotics](https://www.youtube.com/watch?v=DDrNbLVUBwU)**
 
-In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comforts a baby with perfect calm and precision.
+📺 XRoboHub
 
-📺 AI Robot Lab
-
-👁️ 2K • 👍 21 • 💬 2 • ⏱️ 0:24 • 5h ago
+👁️ 518K • 👍 8K • 💬 868 • ⏱️ 0:22 • 5d ago
 
 ---
 
@@ -244,25 +234,27 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 28K • 👍 270 • 💬 8 • ⏱️ 0:25 • 2d ago
+👁️ 28K • 👍 291 • 💬 9 • ⏱️ 0:25 • 2d ago
 
 ---
 
-**[Motion error during the review of the new humanoid robot. #robotics #ai #humanoid #robot #futuretech](https://www.youtube.com/watch?v=8jPg2-t2UFg)**
+**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
 
-📺 AI . Robot
+The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
 
-👁️ 64K • 👍 924 • 💬 15 • ⏱️ 0:19 • 1d ago
+📺 DPCcars
+
+👁️ 190K • 👍 855 • 💬 292 • ⏱️ 1:03 • 3d ago
 
 ---
 
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=EBwPX-bMTt0)**
+**[2025: This AI Caregiver Robot Comforts a Baby Like a Real Parent in a Silicon Valley Home](https://www.youtube.com/watch?v=LFTUzGo3rmM)**
 
-At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comforts a baby with perfect calm and precision.
 
-📺 Humanoid Robot 🤖
+📺 AI Robot Lab
 
-👁️ 26K • 👍 230 • 💬 1 • ⏱️ 0:18 • 13h ago
+👁️ 3K • 👍 48 • 💬 2 • ⏱️ 0:24 • 5h ago
 
 ---
 
@@ -272,17 +264,27 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 42K • 👍 1K • 💬 97 • ⏱️ 24:47 • 3d ago
+👁️ 43K • 👍 1K • 💬 97 • ⏱️ 24:47 • 3d ago
 
 ---
 
-**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
+**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
 
-After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
+Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
 
-📺 Kalil 4.0
+📺 Unitree Robotics
 
-👁️ 12K • 👍 243 • 💬 31 • ⏱️ 0:59 • 2d ago
+👁️ 2.7M • 👍 1K • 💬 337 • ⏱️ 1:06 • 6d ago
+
+---
+
+**[2025: This AI Pet Grooming Pod Transforms a Dog Instantly at the Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=NrVTbikAbd4)**
+
+At the Silicon Valley Robotics Expo 2025, engineers demonstrate a futuristic AI Pet Grooming Pod. A friendly dog steps inside the ...
+
+📺 AI Robot Lab
+
+👁️ 2K • 👍 16 • ⏱️ 0:24 • 1h ago
 
 ---
 
