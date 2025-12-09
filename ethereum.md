@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T17:38:51.008763+00:00'
+updated: '2025-12-09T17:52:40.569619+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 17:38 UTC  
+**Last Updated:** December 09, 2025 at 17:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +9.1%  
-**7d:** +5.4%  
-**30d:** -5.6%  
-**90d:** -24.7%  
-**1y:** -7.3%  
+**24h:** +9.6%  
+**7d:** +5.9%  
+**30d:** -5.2%  
+**90d:** -24.3%  
+**1y:** -6.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $408.75B
+**Market Cap:** $407.37B
 Rank #2
 
 **Circulating Supply:** 120,695,272 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--31.5%
+-31.8%
 
 **All-Time Low:** $0.43
-+782820.2%
++779464.4%
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1h ago
 
 Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
-Decrypt • 34m ago
+Decrypt • 48m ago
 
 ---
 
@@ -222,7 +222,7 @@ ZyCrypto • 2h ago
 
 Ethereum is compressing just below a critical resistance band near $3,300–$3,350, even as the broader crypto market remains unsettled by Bitcoin’s choppy price action around $43,000–$44,000. Despite the volatility, the ETH price has defended support near $3,050, forming a tight consolidation range…
 
-TradingView • 8h ago
+TradingView • 9h ago
 
 ---
 
@@ -326,7 +326,7 @@ Everyone is obsessed with “Bitcoin to 100K” or “Bitcoin is dead.” In thi
 
 📺 Crypto Hustle
 
-👁️ 713 • 👍 53 • 💬 9 • ⏱️ 11:10 • 8h ago
+👁️ 713 • 👍 53 • 💬 9 • ⏱️ 11:10 • 9h ago
 
 ---
 

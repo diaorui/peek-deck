@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T17:38:50.993977+00:00'
+updated: '2025-12-09T17:52:40.555245+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - repositories
+- news
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 17:38 UTC  
+**Last Updated:** December 09, 2025 at 17:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -67,19 +67,19 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 ---
 
+**[OpenAI, Anthropic, and Block Are Teaming Up to Make AI Agents Play Nice](https://www.reddit.com/r/artificial/comments/1pidls9/openai_anthropic_and_block_are_teaming_up_to_make/)**
+
+American AI giants are backing a new effort to establish open standards for building agentic software and tools.
+
+🔗 [WIRED](https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/) • 21m ago
+
+---
+
 **[As AI wipes jobs, Google CEO Sundar Pichai says it’s up to everyday people to adapt accordingly: ‘We will have to work through societal disruption’](https://www.reddit.com/r/artificial/comments/1phpibg/as_ai_wipes_jobs_google_ceo_sundar_pichai_says/)**
 
 AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai says no job, not even his own, is safe. But those who don’t adapt will be the first to fall.
 
-🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 19h ago
-
----
-
-**[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.reddit.com/r/artificial/comments/1pib0pf/trump_says_hell_sign_executive_order_blocking/)**
-
-President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
-
-🔗 [CNN](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws) • 1h ago
+🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 20h ago
 
 ---
 
@@ -87,7 +87,7 @@ President Donald Trump confirmed on Monday he plans to sign an executive order p
 
 Do you have a blog post or content that needs an image? Use our image generator to easily generate the best picture for your blog post using AI.
 
-🔗 [SocialBu](https://socialbu.com/tools/blog-image-generator) • 6h ago
+🔗 [SocialBu](https://socialbu.com/tools/blog-image-generator) • 7h ago
 
 ---
 
@@ -99,11 +99,11 @@ I've settled into this pattern of LLM use and it is a game changer. I'm curious 
 
 ---
 
-**[EU investigates Google over AI-generated summaries in search results](https://www.reddit.com/r/artificial/comments/1pi6doo/eu_investigates_google_over_aigenerated_summaries/)**
+**[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.reddit.com/r/artificial/comments/1pib0pf/trump_says_hell_sign_executive_order_blocking/)**
 
-It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
+President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o) • 4h ago
+🔗 [CNN](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws) • 1h ago
 
 ---
 
@@ -111,7 +111,7 @@ It is examining whether the tech giant did not offer "appropriate compensation" 
 
 Innovations in A.I., synthetic biology and quantum computing are set to change war.
 
-🔗 [nytimes.com](https://www.nytimes.com/interactive/2025/12/09/opinion/editorials/us-china-military-ai-tech.html?unlocked_article_code=1.7U8.WPvl.rr86n3kq5Eqb&smid=re-nytopinion) • 1h ago
+🔗 [nytimes.com](https://www.nytimes.com/interactive/2025/12/09/opinion/editorials/us-china-military-ai-tech.html?unlocked_article_code=1.7U8.WPvl.rr86n3kq5Eqb&smid=re-nytopinion) • 2h ago
 
 ---
 
@@ -153,13 +153,13 @@ Reuters • 5h ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 21m ago
+Anthropic • 35m ago
 
 ---
 
 **[AI can help address America’s affordability crisis](https://thehill.com/opinion/technology/5639068-ai-reducing-living-costs/)**
 
-thehill.com • 8m ago
+thehill.com • 22m ago
 
 ---
 
@@ -167,7 +167,7 @@ thehill.com • 8m ago
 
 The AI pioneer’s new startup, World Labs, is betting that machines can learn to build infinite, on-demand virtual worlds.
 
-Time Magazine • 34m ago
+Time Magazine • 48m ago
 
 ---
 
@@ -185,7 +185,7 @@ The Economist • 20h ago
 
 **[Have you seen this (AI-generated) man? Police swap suspect sketches for AI.](https://www.washingtonpost.com/nation/2025/12/09/ai-police-suspect-sketch-arizona/)**
 
-The Washington Post • 36m ago
+The Washington Post • 50m ago
 
 ---
 
@@ -203,7 +203,7 @@ The Washington Post • 36m ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 507 • 💬 463 • 17h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 513 • 💬 472 • 17h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -217,7 +217,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 186 • 💬 164 • 1d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 187 • 💬 166 • 1d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -237,7 +237,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
 
-⬆️ 49 • 💬 93 • 2h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
+⬆️ 49 • 💬 100 • 2h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
 
 ---
 
@@ -245,7 +245,7 @@ It is examining whether the tech giant did not offer "appropriate compensation" 
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 45 • 💬 68 • 2h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 48 • 💬 74 • 2h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -253,7 +253,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny.
 
-⬆️ 38 • 💬 5 • 21h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
+⬆️ 39 • 💬 5 • 21h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
 
 ---
 
@@ -635,7 +635,7 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.6k • 🔱 443 • 9h ago
+⭐ 5.6k • 🔱 443 • 10h ago
 
 ---
 
@@ -655,7 +655,7 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.3k • 🔱 159 • 1h ago
+⭐ 1.3k • 🔱 160 • 56m ago
 
 ---
 
@@ -685,7 +685,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 125 • 2h ago
+⭐ 1.0k • 🔱 126 • 2h ago
 
 ---
 
@@ -695,7 +695,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 892 • 🔱 61 • 6h ago
+⭐ 893 • 🔱 61 • 6h ago
 
 ---
 
@@ -715,7 +715,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 844 • 🔱 45 • 14h ago
+⭐ 845 • 🔱 45 • 14h ago
 
 ---
 
@@ -725,7 +725,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 837 • 🔱 269 • 3d ago
+⭐ 841 • 🔱 270 • 3d ago
 
 ---
 

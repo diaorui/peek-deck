@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T17:38:51.002562+00:00'
+updated: '2025-12-09T17:52:40.563646+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
+- social
 - videos
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 17:38 UTC  
+**Last Updated:** December 09, 2025 at 17:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,698.72
+### $93,881.55
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.3%  
-**7d:** -0.2%  
-**30d:** -11.9%  
-**90d:** -18.9%  
-**1y:** -3.0%  
+**24h:** +4.7%  
+**7d:** +0.3%  
+**30d:** -11.5%  
+**90d:** -18.5%  
+**1y:** -2.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1885.25B
+**Market Cap:** $1875.20B
 Rank #1
 
 **Circulating Supply:** 19,959,818 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--25.2%
+-25.5%
 
 **All-Time Low:** $67.81
-+138990.1%
++138475.4%
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-15h ago
+16h ago
 
 ---
 
@@ -127,19 +127,19 @@ And most who keep panicking, and those crazy shenanigans fud are mostly from noo
 
 **[Staring into the BTC abyss, waiting for it to explain itself](https://www.reddit.com/r/Bitcoin/comments/1pi3i32/staring_into_the_btc_abyss_waiting_for_it_to/)**
 
-7h ago
-
----
-
-**[Earning $100k now has about the same buying power that $40k a year had back in 1990](https://www.reddit.com/r/Bitcoin/comments/1pi1w8o/earning_100k_now_has_about_the_same_buying_power/)**
-
-9h ago
+8h ago
 
 ---
 
 **[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.reddit.com/r/Bitcoin/comments/1pi8ira/bitcoin_holds_90000_as_markets_await_fed_rate_cut/)**
 
 🔗 [theblock.co](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance) • 3h ago
+
+---
+
+**[Earning $100k now has about the same buying power that $40k a year had back in 1990](https://www.reddit.com/r/Bitcoin/comments/1pi1w8o/earning_100k_now_has_about_the_same_buying_power/)**
+
+9h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 2h ago
 
 Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -183,7 +183,7 @@ Business Insider • 1d ago
 
 The bank has cut its 2025 Bitcoin price target by half, citing the end of corporate buying and sharply slowing ETF inflows.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -191,7 +191,7 @@ Decrypt • 4h ago
 
 Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
 
-Bloomberg.com • 23m ago
+Bloomberg.com • 37m ago
 
 ---
 
@@ -199,7 +199,7 @@ Bloomberg.com • 23m ago
 
 Bowing to what he called a "cold breeze," but not a "crypto winter," Geoff Kendrick slashed his year-end outlook for BTC to $100,000 and doesn't expect $500,000 until 2030 versus 2028 previously.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 3h ago
 
 The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
 
-Yahoo Finance • 52m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -275,7 +275,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 26m ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 39m ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -289,7 +289,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 1h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 2h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -311,7 +311,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 3K • 💬 184 • ⏱️ 10:16 • 15h ago
+👁️ 52K • 👍 3K • 💬 184 • ⏱️ 10:16 • 16h ago
 
 ---
 
