@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T20:42:38.086865+00:00'
+updated: '2025-12-09T20:53:27.986668+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- news
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 20:42 UTC  
+**Last Updated:** December 09, 2025 at 20:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 1h ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 2h ago
 
 ---
 
@@ -87,7 +87,7 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 Shoppers may be unaware they're paying as much as 23% more than others for the same grocery items on Instacart, a new analysis says.
 
-🔗 [cbsnews.com](https://www.cbsnews.com/news/instacart-price-discrepancies-investigation/) • 37m ago
+🔗 [cbsnews.com](https://www.cbsnews.com/news/instacart-price-discrepancies-investigation/) • 48m ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 8h ago
 
 Nearly a third of US teenagers say they use AI chatbots daily, a new study finds, shedding light on how young people are embracing a technology that’s raised critical safety concerns around mental health impacts and exposure to mature content for kids.
 
-CNN • 41m ago
+CNN • 52m ago
 
 ---
 
@@ -145,7 +145,7 @@ CNN • 41m ago
 
 New studies show AI tools beating human professionals in law and advertising—challenging the assumption that human-AI collaboration always produces the best results.
 
-Fortune • 29m ago
+Fortune • 40m ago
 
 ---
 
@@ -189,7 +189,7 @@ The Economist • 23h ago
 
 **[Howard Marks Says AI Is ‘Terrifying’ for Jobs, Queries Debt Cost](https://www.bloomberg.com/news/articles/2025-12-09/howard-marks-says-ai-is-terrifying-for-jobs-queries-debt-cost)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -641,7 +641,7 @@ MinerU is an open-source tool that enhances document content extraction using fi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.6k • 🔱 443 • 12h ago
+⭐ 5.6k • 🔱 443 • 13h ago
 
 ---
 
@@ -691,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 126 • 49m ago
+⭐ 1.0k • 🔱 126 • 1h ago
 
 ---
 

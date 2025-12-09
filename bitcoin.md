@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T20:42:38.095691+00:00'
+updated: '2025-12-09T20:53:27.995282+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 20:42 UTC  
+**Last Updated:** December 09, 2025 at 20:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
+**24h:** +2.0%  
 **7d:** -0.6%  
-**30d:** -12.3%  
-**90d:** -19.3%  
-**1y:** -3.5%  
+**30d:** -12.2%  
+**90d:** -19.2%  
+**1y:** -3.4%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-18h ago
+19h ago
 
 ---
 
@@ -99,7 +99,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 **["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
 
-56m ago
+1h ago
 
 ---
 
@@ -161,7 +161,7 @@ WIRED • 10h ago
 
 Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 1h ago
 
 The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
 
-Yahoo Finance • 26m ago
+Yahoo Finance • 37m ago
 
 ---
 
@@ -205,7 +205,7 @@ PR Newswire • 7h ago
 
 **[Coinbase and PNC Partner to Expand Direct Bitcoin Access for Clients](https://www.coinbase.com/blog/coinbase-and-pnc-partner-to-expand-direct-bitcoin-access-for-clients)**
 
-Coinbase • 6h ago
+Coinbase • 7h ago
 
 ---
 
@@ -213,7 +213,7 @@ Coinbase • 6h ago
 
 The move is the latest example of a traditional financial services provider offering digital asset trading through its own platform — a role still primarily filled by cryptocurrency exchanges such as Coinbase.  Through its partnership with PNC, Coinbase provides broker services and technology integration, facilitating trades of any amount of Bitcoin, according to Brett Tejpaul, co-CEO of Coinbase Institutional.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -289,7 +289,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 4h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 5h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -331,7 +331,7 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 3K • 💬 192 • ⏱️ 10:16 • 18h ago
+👁️ 56K • 👍 3K • 💬 192 • ⏱️ 10:16 • 19h ago
 
 ---
 
@@ -361,7 +361,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 9K • 👍 350 • 💬 534 • ⏱️ 15:38 • 14h ago
+👁️ 9K • 👍 350 • 💬 534 • ⏱️ 15:38 • 15h ago
 
 ---
 
