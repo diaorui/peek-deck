@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T08:56:03.915683+00:00'
+updated: '2025-12-09T09:27:46.173576+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 08:56 UTC  
+**Last Updated:** December 09, 2025 at 09:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** -3.4%  
-**30d:** -14.7%  
-**90d:** -21.5%  
-**1y:** -6.2%  
+**24h:** -1.8%  
+**7d:** -3.7%  
+**30d:** -15.0%  
+**90d:** -21.7%  
+**1y:** -6.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1807.53B
+**Market Cap:** $1802.89B
 Rank #1
 
 **Circulating Supply:** 19,959,600 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.2%
+-28.3%
 
 **All-Time Low:** $67.81
-+133474.7%
++133142.9%
 
 ---
 
@@ -85,27 +85,21 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
-**[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
-
-11h ago
-
----
-
-**[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
-
-12h ago
-
----
-
 **[Prevents you from ''Boating Accident''](https://www.reddit.com/r/Bitcoin/comments/1pi0n4u/prevents_you_from_boating_accident/)**
 
 2h ago
 
 ---
 
+**[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
+
+13h ago
+
+---
+
 **[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -113,13 +107,19 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 They have a promotion going on with Ledger
 
-14h ago
+15h ago
 
 ---
 
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
+**[Reality check](https://www.reddit.com/r/Bitcoin/comments/1pi0xfg/reality_check/)**
 
-13h ago
+2h ago
+
+---
+
+**[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
+
+12h ago
 
 ---
 
@@ -129,9 +129,9 @@ They have a promotion going on with Ledger
 
 ---
 
-**[Reality check](https://www.reddit.com/r/Bitcoin/comments/1pi0xfg/reality_check/)**
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1phm1ey/daily_meme_until_100000/)**
 
-1h ago
+13h ago
 
 ---
 
@@ -151,7 +151,7 @@ Back in 2011–2013, physical bitcoins were actually a thing. They were known as
 
 Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
@@ -163,25 +163,11 @@ Bloomberg.com • 13h ago
 
 ---
 
-**[A Bitcoin ETF Doubled in Value. Its Investors Made Only One-Fourth of That](https://www.morningstar.com/funds/bitcoin-etf-doubled-value-its-investors-made-only-one-fourth-that)**
+**[Bitcoin's 2025 rollercoaster may end on a low](https://finance.yahoo.com/news/bitcoins-2025-rollercoaster-may-end-050859649.html)**
 
-iShares Bitcoin ETF Trust gained over 46% per year since inception, but the average dollar made only 11% annually.
+With a series of record highs and crushing sell-offs, 2025 has been a rollercoaster ride for bitcoin, the world's largest cryptocurrency, which is at risk of ending the year with its first annual decline since 2022.  The world's main stock benchmarks have also had a turbulent year, repeatedly hitting record peaks and then pulling ​back as worries over tariffs, interest rates and a possible AI bubble whipsawed markets.  While equities are mostly up year-to-date, bitcoin's overall correlation with share prices has strengthened markedly this year.
 
-Morningstar • 21h ago
-
----
-
-**[Bitcoin Slips Toward ETF Break-Even Level as Inflows Slow, but Support May Be Building](https://decrypt.co/351573/bitcoin-etf-break-even-level-inflows-slow-support-building)**
-
-Bitcoin is drifting back toward the price where ETF buyers break even, as inflows slow and investors look to the Fed’s decision this week.
-
-Decrypt • 3h ago
-
----
-
-**[Bitcoin Price Rebounds Slightly Ahead of the Fed. How It Could Reach $120K—or Fall to $82K.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-2085d4a2?gaa_at=eafs&gaa_n=AWEtsqdncxRi7A-rk0mgyfhY-V6MMvZl3j9tBrIMF6tbSuq2yq6tBDOwCnqS&gaa_ts=6937e172&gaa_sig=HT-PCsoisfLFzKShyfJBb2eB3H2rjwefTHuLyYdfxu4B7bp8SJ5Hrge3GwoRY6O35XEytyrHjDn4VNKVpLH6nQ%3D%3D)**
-
-Barron's • 18h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -201,17 +187,31 @@ Kiplinger • 22h ago
 
 ---
 
-**[Strategy, Wall Street's Favorite Stock, Just Loaded Up On More Bitcoin](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
+**[Bitcoin Price Rebounds Slightly Ahead of the Fed. How It Could Reach $120K—or Fall to $82K.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-2085d4a2?gaa_at=eafs&gaa_n=AWEtsqd9M6YyS67gKf2PPZjxrEttBFBNphMq5i55k3I3RGAGrle3aBM_Dgf6&gaa_ts=6937eefa&gaa_sig=NMrdUr6ORCEPjP1KI0pJkKLwvkFcBtxttRoiIlET0VaXLSpFy8MfjIdmlAKIrLjcIxwY9UWHLY-sJkvOCrmbWA%3D%3D)**
 
-Investor's Business Daily • 18h ago
+Barron's • 19h ago
 
 ---
 
-**[What the First Divergence of Stock and Bitcoin Returns in 10 Years Means](https://www.businessinsider.com/stock-market-bitcoin-return-correlation-divergence-explained-outlook-2025-12)**
+**[Crypto Markets Today: Bitcoin (BTC) Price Reclaims $92K as Altcoins Lag](https://www.coindesk.com/markets/2025/12/08/crypto-markets-today-bitcoin-reclaims-usd92k-as-fed-rate-cut-expectations-lift-sentiment)**
 
-If the stock market is up, bitcoin usually is too. But this year has been different.
+Bitcoin pushed back above $92,000 during Monday’s Asia session as traders priced in a likely Federal Reserve rate cut this week; altcoins continued to lag.
 
-Business Insider • 21h ago
+CoinDesk • 21h ago
+
+---
+
+**[Bitcoin will “snapback or chop ahead of the Fed” decision](https://sherwood.news/crypto/bitcoin-will-snapback-or-chop-ahead-of-the-fed-decision/)**
+
+Traders on prediction markets are divided, giving an equal chance that bitcoin drops below $80,000 or rises above $100,000 this year....
+
+Sherwood News • 16h ago
+
+---
+
+**[Strategy, Wall Street's Favorite Stock, Just Loaded Up On More Bitcoin](https://www.investors.com/news/mstr-stock-strategy-bitcoin-analyst-price-targets-upside/)**
+
+Investor's Business Daily • 19h ago
 
 ---
 
@@ -297,7 +297,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 2 • 💬 0 • 17h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 2 • 💬 0 • 18h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 
@@ -311,7 +311,7 @@ How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemin
 
 📺 Andrei Jikh
 
-👁️ 288K • 👍 11K • 💬 1K • ⏱️ 20:03 • 12h ago
+👁️ 288K • 👍 11K • 💬 1K • ⏱️ 20:03 • 13h ago
 
 ---
 
@@ -349,7 +349,7 @@ Vanguard, Bank of America, and Charles Schwab just made massive moves into Bitco
 
 📺 Lark Davis
 
-👁️ 15K • 👍 803 • 💬 60 • ⏱️ 9:27 • 9h ago
+👁️ 15K • 👍 803 • 💬 60 • ⏱️ 9:27 • 10h ago
 
 ---
 
@@ -359,7 +359,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 32K • 👍 1K • 💬 260 • ⏱️ 37:28 • 17h ago
+👁️ 32K • 👍 1K • 💬 260 • ⏱️ 37:28 • 18h ago
 
 ---
 
@@ -369,7 +369,7 @@ Wednesday, when the Federal Open Market Committee (FOMC) of the U.S. Federal Res
 
 📺 Paul Barron Network
 
-👁️ 37K • 👍 2K • 💬 104 • ⏱️ 19:16 • 12h ago
+👁️ 37K • 👍 2K • 💬 104 • ⏱️ 19:16 • 13h ago
 
 ---
 
@@ -379,7 +379,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 18K • 👍 748 • 💬 222 • ⏱️ 9:22 • 17h ago
+👁️ 18K • 👍 748 • 💬 222 • ⏱️ 9:22 • 18h ago
 
 ---
 

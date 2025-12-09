@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T08:56:03.921161+00:00'
+updated: '2025-12-09T09:27:46.179518+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 08:56 UTC  
+**Last Updated:** December 09, 2025 at 09:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,23 +36,23 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,100.00
+### $3,121.81
 
 ---
 
 ## Ethereum Chart
 
 **24h:** -1.2%  
-**7d:** -2.1%  
-**30d:** -12.3%  
-**90d:** -30.1%  
-**1y:** -13.9%  
+**7d:** -2.2%  
+**30d:** -12.5%  
+**90d:** -30.2%  
+**1y:** -14.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $377.00B
+**Market Cap:** $376.33B
 Rank #2
 
 **Circulating Supply:** 120,695,272 ETH
@@ -62,7 +62,7 @@ No max supply
 -36.9%
 
 **All-Time Low:** $0.43
-+721189.0%
++720346.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -98,19 +98,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[AMA: We are Bluechip – an independent, stablecoin rating agency.](https://www.reddit.com/r/ethereum/comments/1ph9q2g/ama_we_are_bluechip_an_independent_stablecoin/)**
-
-AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ethereum, I’m Amey - Ratings Director at Bluechip. Stablecoins offer a cheaper way to make cross-border transactions and a more reliable way to save in economies with high inflation or unstable financial systems. But how can you tell which stablecoins are truly stable? Our SMIDGE rating framework analyzes six economic factors and assigns letter-grade ratings (from F to A+) to identify the most reliable stablecoins. You can read the full framework on our website here. Essentially, the SMIDGE framework evaluates - Stability - collateral quality, asset segregation, core stability mechanism Management - track record of team, jurisdiction, accountability to token holders Implementation - technical risk (currently not tracked) Decentralization - censorship risk, blacklisting (only for crypto-backed stablecoins) Governance - regulatory protections, redemption terms, voting systems External - market sentiment (currently not tracked) We take a crypto-native, independent, and data-driven approach to stablecoin ratings. Our framework is the first publicly available, factor-based risk model for evaluating stablecoins. Our ratings are publicly available on our website here. Currently, USDT is rated D and USDC is rated B+ by Bluechip. Last month, we partnered with the Ethereum Foundation to host Bluechip25 in Vienna, the first global conference dedicated to crypto safety. Sign up for updates on next year's Bluechip26 on our website here. We also host a podcast called Bluechip Dialogues, where our Chief Economist Garett Jones interviews leading figures in crypto. Watch the latest episode with the creator of Facebook’s stablecoin project Diem (formerly Libra) here. Follow us on Twitter here or LinkedIn here or Telegram channel here. Ask us anything! I'll be around to answer your questions over the following days.
-
-21h ago
-
----
-
 **[Treasury Yield](https://www.reddit.com/r/ethereum/comments/1phl21p/treasury_yield/)**
 
 By magnitude, the biggest question for the Defi ecosystem for the next cycle is who gets to keep the yield on treasuries backing reserve stablecoins such as USDC and USDT? If secretary Bennett and the federal reserve are correct in their forecasts, we'll be at something like $3T in stablecoin market cap by 2030. At
 
-🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 13h ago
+🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 14h ago
+
+---
+
+**[AMA: We are Bluechip – an independent, stablecoin rating agency.](https://www.reddit.com/r/ethereum/comments/1ph9q2g/ama_we_are_bluechip_an_independent_stablecoin/)**
+
+AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ethereum, I’m Amey - Ratings Director at Bluechip. Stablecoins offer a cheaper way to make cross-border transactions and a more reliable way to save in economies with high inflation or unstable financial systems. But how can you tell which stablecoins are truly stable? Our SMIDGE rating framework analyzes six economic factors and assigns letter-grade ratings (from F to A+) to identify the most reliable stablecoins. You can read the full framework on our website here. Essentially, the SMIDGE framework evaluates - Stability - collateral quality, asset segregation, core stability mechanism Management - track record of team, jurisdiction, accountability to token holders Implementation - technical risk (currently not tracked) Decentralization - censorship risk, blacklisting (only for crypto-backed stablecoins) Governance - regulatory protections, redemption terms, voting systems External - market sentiment (currently not tracked) We take a crypto-native, independent, and data-driven approach to stablecoin ratings. Our framework is the first publicly available, factor-based risk model for evaluating stablecoins. Our ratings are publicly available on our website here. Currently, USDT is rated D and USDC is rated B+ by Bluechip. Last month, we partnered with the Ethereum Foundation to host Bluechip25 in Vienna, the first global conference dedicated to crypto safety. Sign up for updates on next year's Bluechip26 on our website here. We also host a podcast called Bluechip Dialogues, where our Chief Economist Garett Jones interviews leading figures in crypto. Watch the latest episode with the creator of Facebook’s stablecoin project Diem (formerly Libra) here. Follow us on Twitter here or LinkedIn here or Telegram channel here. Ask us anything! I'll be around to answer your questions over the following days.
+
+22h ago
 
 ---
 
@@ -162,15 +162,15 @@ Decrypt • 10h ago
 
 Japan is considering a big change to how it taxes crypto.
 
-The Motley Fool • 22h ago
+The Motley Fool • 23h ago
 
 ---
 
-**[Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds](https://finance.yahoo.com/news/tom-lee-bitmine-buys-429-162833185.html)**
+**[Why Tom Lee’s BitMine Is Buying Ethereum (ETH) Aggressively Despite Market Fear](https://finance.yahoo.com/news/why-tom-lee-bitmine-buying-080801491.html)**
 
-Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
+BitMine has boosted its Ethereum holdings this month, diverging from ETF outflows and rising exchange deposits.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -178,13 +178,13 @@ Yahoo Finance • 16h ago
 
 The trading platform dives further into digital assets both domestically and globally.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
 **[Vitalik Buterin pushes for trustless gas futures market to hedge Ethereum fees, sparking debate over feasibility](https://www.theblock.co/post/381677/vitalik-buterin-pushes-for-trustless-gas-futures-market-to-hedge-ethereum-fees-sparking-debate)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -198,7 +198,7 @@ The Block • 18h ago
 
 The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -206,21 +206,27 @@ CoinDesk • 18h ago
 
 Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
 **[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
 
-Binance • 16h ago
+Binance • 17h ago
 
 ---
 
-**[IRS Rule Changes In 2026 Bitcoin, Ethereum, XRP Traders Need To Know About](https://finance.yahoo.com/news/irs-rule-changes-2026-bitcoin-033050163.html)**
+**[Why Does Ethereum Need a Weekly Close Above $3,100? for BINANCE:ETHUSDT by burakkesmeci](https://www.tradingview.com/chart/ETHUSDT/VR2Y3H2F-Why-Does-Ethereum-Need-a-Weekly-Close-Above-3-100/)**
 
-U.S. crypto investors now have just over two weeks to execute any final sales before sweeping IRS reporting rules go live on January 1, 2026. What Happened: Beginning in 2026, centralized exchanges will be required to follow the same cost-basis ...
+Why Does Ethereum Need a Weekly Close Above $3,100?
 
-Yahoo Finance • 5h ago
+Ethereum is currently trading around $3,035, while the SMA365 sits near $3,100. A weekly close above this level would give ETH investors some breathing room. If ETH can secure a close above the SMA365, we could expect a relief rally toward $3,689, especially considering the uninterrupted decline since the $4,755 top.
+
+On the other hand, the $2,500 zone remains a critical support.
+
+Looking at ETH’s recent price action, this level aligns with …
+
+TradingView • 1d ago
 
 ---
 
@@ -234,7 +240,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 8K • 👍 328 • 💬 161 • ⏱️ 12:46 • 14h ago
+👁️ 8K • 👍 328 • 💬 161 • ⏱️ 12:46 • 15h ago
 
 ---
 
@@ -244,7 +250,7 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 68 • 💬 47 • ⏱️ 6:25 • 19h ago
+👁️ 2K • 👍 68 • 💬 47 • ⏱️ 6:25 • 20h ago
 
 ---
 
@@ -254,7 +260,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 320 • 💬 18 • ⏱️ 15:50 • 17h ago
+👁️ 8K • 👍 320 • 💬 18 • ⏱️ 15:50 • 18h ago
 
 ---
 
@@ -284,7 +290,7 @@ BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 9K • 👍 488 • 💬 264 • ⏱️ 19:51 • 10h ago
+👁️ 9K • 👍 488 • 💬 264 • ⏱️ 19:51 • 11h ago
 
 ---
 
@@ -294,7 +300,7 @@ The momentum behind the BlackRock ETH ETF could be the exact spark that launches
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 505 • 💬 14 • ⏱️ 49:44 • 16h ago
+👁️ 8K • 👍 505 • 💬 14 • ⏱️ 49:44 • 17h ago
 
 ---
 
@@ -304,7 +310,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 152 • 💬 6 • ⏱️ 5:35 • 15h ago
+👁️ 2K • 👍 152 • 💬 6 • ⏱️ 5:35 • 16h ago
 
 ---
 
@@ -324,7 +330,7 @@ BTC and ETH what big money is doing! BITUNIX TRADE THE TOP COINS (available ever
 
 📺 Lark Davis
 
-👁️ 15K • 👍 784 • 💬 79 • ⏱️ 37:57 • 20h ago
+👁️ 15K • 👍 784 • 💬 79 • ⏱️ 37:57 • 21h ago
 
 ---
 
