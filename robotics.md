@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T13:57:13.265357+00:00'
+updated: '2025-12-09T14:29:45.650853+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 13:57 UTC  
+**Last Updated:** December 09, 2025 at 14:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -38,19 +38,19 @@ Robotics research and industry news
 
 ---
 
-**[China is deploying fully autonomous electric tractors to fix its rural labor crisis. The Honghu T70 runs uncrewed for 6 hours with ±2.5cm precision](https://www.reddit.com/r/robotics/comments/1phg15a/china_is_deploying_fully_autonomous_electric/)**
-
-This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most concept machines, this one is production ready and operating in Hebei Province to address the aging rural workforce. The Tech Stack: Autonomy: Uses LiDAR and RTK-GNSS for path planning with ±2.5 cm precision. It handles the entire cycle: ploughing, seeding, spraying and harvesting without a driver. Smart Sensing: Beyond just driving, it collects real-time data on soil composition, moisture, and crop health while running. Powertrain: Pure electric with a dual-motor setup (separating traction from the PTO/farming implements) for better load control. Endurance: Runs for 6 hours on a single charge and coordinates via a 5G mesh network. "Agri-Robotics" is where we are seeing the first massive wave of real world autonomy. If a single person can manage a fleet of these from a tablet, it fundamentally changes the economics of small to medium farms. Source: Lucas
-
-22h ago
-
----
-
 **[Real-Robot Experiment with Pedestrians - A team at TU Delft has introduced DRA-MPPI, a new motion-planning method that lets robots move safely through dense pedestrian traffic without freezing or taking overly conservative paths](https://www.reddit.com/r/robotics/comments/1pi6p63/realrobot_experiment_with_pedestrians_a_team_at/)**
 
 Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 1h ago
+
+---
+
+**[China is deploying fully autonomous electric tractors to fix its rural labor crisis. The Honghu T70 runs uncrewed for 6 hours with ±2.5cm precision](https://www.reddit.com/r/robotics/comments/1phg15a/china_is_deploying_fully_autonomous_electric/)**
+
+This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most concept machines, this one is production ready and operating in Hebei Province to address the aging rural workforce. The Tech Stack: Autonomy: Uses LiDAR and RTK-GNSS for path planning with ±2.5 cm precision. It handles the entire cycle: ploughing, seeding, spraying and harvesting without a driver. Smart Sensing: Beyond just driving, it collects real-time data on soil composition, moisture, and crop health while running. Powertrain: Pure electric with a dual-motor setup (separating traction from the PTO/farming implements) for better load control. Endurance: Runs for 6 hours on a single charge and coordinates via a 5G mesh network. "Agri-Robotics" is where we are seeing the first massive wave of real world autonomy. If a single person can manage a fleet of these from a tablet, it fundamentally changes the economics of small to medium farms. Source: Lucas
+
+22h ago
 
 ---
 
@@ -68,6 +68,12 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 ---
 
+**[Inverted Double Pendulum in Isaac Lab](https://www.reddit.com/r/robotics/comments/1pi8anb/inverted_double_pendulum_in_isaac_lab/)**
+
+23m ago
+
+---
+
 **[The Chinese just dropped it on online marketplaces](https://www.reddit.com/r/robotics/comments/1phc2nu/the_chinese_just_dropped_it_on_online_marketplaces/)**
 
 180,000 RMB, which is about 25,000 US dollars Even with shipping, a lot of people can still afford it. C’mon, guys—grab one and see what’s up. Is it CGI?
@@ -78,7 +84,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 **[Which desktop robot would you choose?](https://www.reddit.com/r/robotics/comments/1pi7mj1/which_desktop_robot_would_you_choose/)**
 
-19m ago
+51m ago
 
 ---
 
@@ -94,15 +100,7 @@ From RoboHub🤖 on 𝕏: https://x.com/XRoboHub/status/1997993208253706375
 
 Has anyone seen how the mopping pressure is created in a robot vacuum? I would imagine some sort of linear actuator/solenoid/spring suspension but did not see any of that when looking at at online teardowns of a Dreame X50 Ultra that claims to have mop lifting/mop pressure.
 
-11h ago
-
----
-
-**[How is the ABB drawing interface implemented on the ABB IRB 2600 robot and its IRC5 controller?](https://www.reddit.com/r/robotics/comments/1pi11em/how_is_the_abb_drawing_interface_implemented_on/)**
-
-What is the correct procedure for implementing a drawing interface on an ABB IRB 2600 robot using the IRC5 controller, including software integration, conversion of drawing data to robot paths, and RAPID programming requirements. Curious about ABB IRB 2600 robot and did anyone have experience with this? Thank you in advance!!!!!
-
-6h ago
+12h ago
 
 ---
 
@@ -112,7 +110,7 @@ What is the correct procedure for implementing a drawing interface on an ABB IRB
 
 **[Speech-to-reality system creates objects on demand using AI and robotics](https://techxplore.com/news/2025-12-speech-reality-demand-ai-robotics.html)**
 
-Tech Xplore • 22h ago
+Tech Xplore • 23h ago
 
 ---
 
@@ -128,7 +126,15 @@ Breaking Defense • 23h ago
 
 Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
+
+---
+
+**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
+
+Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
+
+Decrypt • 15h ago
 
 ---
 
@@ -136,15 +142,7 @@ Bloomberg.com • 23h ago
 
 The Chinese robotics firm EngineAI lets its humanoid robot loose on its CEO, whom it promptly proceeds to lay out.
 
-Futurism • 16h ago
-
----
-
-**[Tesla Optimus falls in Miami demo, hand movements sparks remote operation debate](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo)**
-
-While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
-
-Interesting Engineering • 21h ago
+Futurism • 17h ago
 
 ---
 
@@ -160,31 +158,29 @@ PYMNTS.com • 16h ago
 
 1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
 
-Valley News Live • 14h ago
+Valley News Live • 15h ago
 
 ---
 
-**[iRobot (IRBT) Valuation After White House Robotics Order Hype and Recent Share Price Surge](https://finance.yahoo.com/news/irobot-irbt-valuation-white-house-080800543.html)**
+**[Tesla Optimus falls in Miami demo, hand movements sparks remote operation debate](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo)**
 
-The sudden spike in iRobot (IRBT) shares is being driven by reports that the White House is crafting an executive order to back the U.S. robotics sector, with potential subsidies, tax breaks, and R&D funding in focus. See our latest analysis for iRobot. That excitement comes after a wild week where the 7 day share price return of 133.54 percent has flipped sentiment on a stock that still shows a deeply negative 1 year total shareholder return. This suggests momentum is rebuilding from a very...
+While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Biohybrid living robotics: A comprehensive review of recent advances, technological innovation, and future prospects](https://www.nature.com/articles/s44182-025-00056-x)**
-
-npj Robotics - Biohybrid living robotics: A comprehensive review of recent advances, technological innovation, and future prospects
-
-Nature • 3h ago
+Interesting Engineering • 22h ago
 
 ---
 
-**[When Will Robots Take Over Laundry Folding?](https://www.smithsonianmag.com/innovation/when-will-robots-take-over-laundry-folding-180987801/)**
+**[Serve Robotics Extends Autonomous Delivery to Fort Lauderdale](https://finance.yahoo.com/news/serve-robotics-extends-autonomous-delivery-153500451.html)**
 
-For this chore, the human touch still beats machines. But maybe not for long
+SERV expands its autonomous delivery network to Fort Lauderdale, deepening its South Florida presence through Uber Eats.
 
-Smithsonian Magazine • 1d ago
+Yahoo Finance • 22h ago
+
+---
+
+**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://www.marketbeat.com/stock-ideas/5-robotics-stocks-catching-momentum-after-new-policy-tailwinds/)**
+
+MarketBeat • 2h ago
 
 ---
 
@@ -198,7 +194,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 10K • 👍 243 • 💬 125 • ⏱️ 14:26 • 18h ago
+👁️ 13K • 👍 345 • 💬 163 • ⏱️ 14:26 • 19h ago
 
 ---
 
@@ -208,7 +204,7 @@ The founder and CEO of EngineAI just took a robot kick to the chest in an attemp
 
 📺 Kalil 4.0
 
-👁️ 897 • 👍 29 • 💬 22 • ⏱️ 8:31 • 13h ago
+👁️ 1K • 👍 33 • 💬 25 • ⏱️ 8:31 • 13h ago
 
 ---
 
@@ -220,23 +216,13 @@ The founder and CEO of EngineAI just took a robot kick to the chest in an attemp
 
 ---
 
-**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
+**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
 
-The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
+Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
 
-📺 The Straits Times
+📺 Fin Tek
 
-👁️ 6K • 👍 95 • 💬 24 • ⏱️ 0:47 • 6h ago
-
----
-
-**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
-
-AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
-
-📺 AI Robot Lab
-
-👁️ 27K • 👍 260 • 💬 8 • ⏱️ 0:25 • 2d ago
+👁️ 89K • 👍 3K • 💬 147 • ⏱️ 21:31 • 3d ago
 
 ---
 
@@ -246,7 +232,35 @@ In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comfor
 
 📺 AI Robot Lab
 
-👁️ 429 • 👍 1 • ⏱️ 0:24 • 2h ago
+👁️ 2K • 👍 21 • 💬 2 • ⏱️ 0:24 • 3h ago
+
+---
+
+**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
+
+AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
+
+📺 AI Robot Lab
+
+👁️ 28K • 👍 270 • 💬 8 • ⏱️ 0:25 • 2d ago
+
+---
+
+**[Motion error during the review of the new humanoid robot. #robotics #ai #humanoid #robot #futuretech](https://www.youtube.com/watch?v=8jPg2-t2UFg)**
+
+📺 AI . Robot
+
+👁️ 64K • 👍 924 • 💬 15 • ⏱️ 0:19 • 1d ago
+
+---
+
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo.](https://www.youtube.com/watch?v=EBwPX-bMTt0)**
+
+At Expo 2025, a man unveils his stunning robot girlfriend — blending cutting-edge design with lifelike AI reactions. From futuristic ...
+
+📺 Humanoid Robot 🤖
+
+👁️ 26K • 👍 230 • 💬 1 • ⏱️ 0:18 • 11h ago
 
 ---
 
@@ -256,17 +270,7 @@ Robotics might be the next trillion-dollar technology wave… but the smartest o
 
 📺 MarketBeat
 
-👁️ 41K • 👍 1K • 💬 97 • ⏱️ 24:47 • 2d ago
-
----
-
-**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
-
-The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
-
-📺 DPCcars
-
-👁️ 181K • 👍 821 • 💬 282 • ⏱️ 1:03 • 2d ago
+👁️ 42K • 👍 1K • 💬 97 • ⏱️ 24:47 • 2d ago
 
 ---
 
@@ -276,17 +280,7 @@ After months of buildup, the Shenzhen startup EngineAI is taking orders for its 
 
 📺 Kalil 4.0
 
-👁️ 12K • 👍 241 • 💬 31 • ⏱️ 0:59 • 2d ago
-
----
-
-**[Tesla’s Running Robot: Optimus Just Took a Huge Step Forward](https://www.youtube.com/watch?v=xE_gPhwzQAc)**
-
-Tesla just showed its Optimus humanoid robot running in the laboratory, and it looks a lot closer to a real life sci fi moment than a ...
-
-📺 DPCcars
-
-👁️ 82K • 👍 667 • 💬 300 • ⏱️ 2:30 • 5d ago
+👁️ 12K • 👍 243 • 💬 31 • ⏱️ 0:59 • 2d ago
 
 ---
 

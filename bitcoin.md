@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T13:57:13.255778+00:00'
+updated: '2025-12-09T14:29:45.638475+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 13:57 UTC  
+**Last Updated:** December 09, 2025 at 14:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $90,704.62
+### $90,265.61
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -3.5%  
-**30d:** -14.8%  
-**90d:** -21.6%  
-**1y:** -6.3%  
+**24h:** +0.1%  
+**7d:** -3.6%  
+**30d:** -14.9%  
+**90d:** -21.7%  
+**1y:** -6.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1807.13B
+**Market Cap:** $1800.23B
 Rank #1
 
-**Circulating Supply:** 19,959,750 BTC
+**Circulating Supply:** 19,959,790 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--28.2%
+-28.5%
 
 **All-Time Low:** $67.81
-+133327.2%
++132876.0%
 
 ---
 
@@ -89,6 +89,14 @@ Rank #1
 
 ---
 
+**[Disappointed?](https://www.reddit.com/r/Bitcoin/comments/1pi7hlp/disappointed/)**
+
+I’ve now held bitcoin for 4 years and bought with every penny I had spare at £44k I have 1.1 btc, the price now is £66k, I have to be honest, with everything that has happened since I bought I’m a little disappointed on the returns, like everyone we’ve all got our plans in life, maybe I was naive but my plan was to eventually buy a small flat in England and the returns don’t even cover the inflation on properties here, and for anyone saying you should DCA, the money I have used since I’ve travelled to 20 countries and enjoyed life because I’m not spending every penny just investing into bitcoin else what’s the point, but I guess I’m posting this as I’m a little frustrated with all these outlandish predictions on price even since day one it’s been the same, I don’t know one “influencer” who has actually been close, even now on X it’s daily bull on “Oh it’ll be price discovery” and all that waffle, surely I can’t be the only one who’s feeling the same? Whenever I see posts it’s “patience” and always a quick response defending as to why we’re not at these predictions 😅 anyways rant over feel free to dm me if you’d also like a little moan today 😂
+
+57m ago
+
+---
+
 **[school employee got caught secretly mining bitcoin in a crawl space under a Massachusetts high school, using the school’s electricity. Police found coolers filled with computers and estimate they used about $17,500 in power before it was unplugged.](https://www.reddit.com/r/Bitcoin/comments/1phv387/school_employee_got_caught_secretly_mining/)**
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
@@ -99,19 +107,13 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 **[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
 
-58m ago
+1h ago
 
 ---
 
 **[How many years?](https://www.reddit.com/r/Bitcoin/comments/1phmjvy/how_many_years/)**
 
-17h ago
-
----
-
-**[Reality check](https://www.reddit.com/r/Bitcoin/comments/1pi0xfg/reality_check/)**
-
-6h ago
+18h ago
 
 ---
 
@@ -119,7 +121,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 And most who keep panicking, and those crazy shenanigans fud are mostly from noobs or either those who invest rent money, or worst haven't studied Bitcoin.
 
-3h ago
+4h ago
 
 ---
 
@@ -129,15 +131,17 @@ And most who keep panicking, and those crazy shenanigans fud are mostly from noo
 
 ---
 
-**[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
+**[I wonder how the small early investors feel right now?](https://www.reddit.com/r/Bitcoin/comments/1pi41nz/i_wonder_how_the_small_early_investors_feel_right/)**
 
-19h ago
+If you had put $1000 into BTC in 2010 and left it alone without further investment you'd have close to a billion dollars right now (before tax, of course). I sometimes sit and wonder if there are people who did that almost as a joke and then forgot their password or whatever lol.
+
+4h ago
 
 ---
 
-**[Germany is NGMI](https://www.reddit.com/r/Bitcoin/comments/1phopbm/germany_is_ngmi/)**
+**[Oil money is buying Bitcoin!](https://www.reddit.com/r/Bitcoin/comments/1phjvre/oil_money_is_buying_bitcoin/)**
 
-16h ago
+20h ago
 
 ---
 
@@ -145,21 +149,9 @@ And most who keep panicking, and those crazy shenanigans fud are mostly from noo
 
 ## Google News: "bitcoin"
 
-**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
-
-Reuters • 8h ago
-
----
-
 **[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance)**
 
 The Block • 2h ago
-
----
-
-**[Bitcoin Price Rebounds Slightly Ahead of the Fed. How It Could Reach $120K—or Fall to $82K.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-2085d4a2?gaa_at=eafs&gaa_n=AWEtsqdCQ_YMtvjNHfzqhHQY6lU_f8ukZyNkIAxUZGe_-jsoCdYMDf7C7moC&gaa_ts=69382a48&gaa_sig=OqRbY-SST2TzB7o4H7s93sz1COgqeMRkX5ngqYIqF94z-M33BnKrDai6mYUUMJ_NjS8-AoujPc2-VbXeVvhqmw%3D%3D)**
-
-Barron's • 23h ago
 
 ---
 
@@ -179,11 +171,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin Miners on the Run After Stealing $1.1 Billion in Electricity](https://futurism.com/future-society/bitcoin-miners-stealing-billion-electricity)**
+**[Bitcoin Price Briefly Surges Past $92,000 As ‘Bitcoin Breaks 4-Year Cycle’](https://bitcoinmagazine.com/markets/bitcoin-price-surges-past-92000)**
 
-Police are hunting about 14,000 illegal Bitcoin mining operations in Malaysia, which they say have stolen around $1.1 billion in electricity.
+The Bitcoin price jumped past $92,000 this morning as Bernstein and JPMorgan signal a longer-term bullish outlook
 
-Futurism • 2d ago
+Bitcoin Magazine • 23h ago
 
 ---
 
@@ -195,25 +187,41 @@ Bloomberg.com • 1h ago
 
 ---
 
-**[Bitcoin Won’t Hit $200,000 in 2025, Crypto Bull Concedes. Where It’s Going Instead.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-price-crypto-bull-01f83bf7?gaa_at=eafs&gaa_n=AWEtsqf_Fn2JL9ia9scINDc-TDiGXQYIi2eDFIrxruW5yjAssS1XdHh6xlP2&gaa_ts=69382a48&gaa_sig=9CWWktaPWsjpBN80W1_fCc2e1DhFNhhvd9Jfc-ctUG5gDIrJOyiSorUCL6lAy88EJdFY4bvxsKazlxppPwFvzA%3D%3D)**
+**[Bitcoin Price (BTC) Outlook: $500K Will Have to Wait a Lot Longer](https://www.coindesk.com/markets/2025/12/09/standard-chartered-throws-in-the-towel-on-bullish-bitcoin-forecast)**
 
-Barron's • 2h ago
+Bowing to what he called a "cold breeze," but not a "crypto winter," Geoff Kendrick slashed his year-end outlook for BTC to $100,000 and doesn't expect $500,000 until 2030 versus 2028 previously.
 
----
-
-**[BTC, XRP, ETH, SOL Price Forecast: Bitcoin in Counter-Trend Channel](https://www.coindesk.com/markets/2025/12/08/here-s-how-bitcoin-xrp-ether-and-solana-may-trade-today)**
-
-ETH mirrors BTC's counter-trend consolidation as XRP probes key $2 support and SOL remains directionless
-
-CoinDesk • 1d ago
+CoinDesk • 46m ago
 
 ---
 
-**[Better Crypto Buy: Bitcoin vs. XRP](https://www.fool.com/investing/2025/12/07/better-crypto-buy-bitcoin-vs-xrp/)**
+**[Metaplanet Predicts All Companies Will Hold Bitcoin, Aims to Turn Japan’s $7 Trillion Cash Pile Into 20x BTC Buying Power](https://finance.yahoo.com/news/metaplanet-predicts-companies-hold-bitcoin-124716817.html)**
 
-Which of these popular cryptocurrencies has more upside potential?
+Metaplanet believes Bitcoin will become a universal corporate treasury asset. The firm aims to channel part of Japan’s $7 trillion in idle savings into Bitcoin. ...
 
-The Motley Fool • 1d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[Strategy’s stock slide leaves bitcoin’s biggest booster with dwindling options](https://www.ft.com/content/fba50990-ef92-489c-9879-45e0a7632269)**
+
+Michael Saylor’s financial engineering inspired dozens of imitators but is now close to unravelling
+
+Financial Times • 1d ago
+
+---
+
+**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqd7uJTMB-HO8yNze-fCB3WsYBMjCnCUz4Jzi7uGEwK-wwy9AZcAZOcL&gaa_ts=693835c3&gaa_sig=4tnIHsrFnUgupZoi74hXBA5bJbLGNw86261jm0tuQzETRe5-Ul8MIEbRbqZGMjjOz6O1mxNnN3TqpfR2DJJlFQ%3D%3D)**
+
+MarketWatch • 15h ago
+
+---
+
+**[Strategy Drops Nearly $1 Billion on Bitcoin, Marking Largest BTC Buy in Months](https://finance.yahoo.com/news/strategy-drops-nearly-1-billion-154036345.html)**
+
+Strategy unveiled its largest Bitcoin purchase in over 100 days, but the company's stock price was little changed on Monday.
+
+Yahoo Finance • 22h ago
 
 ---
 
@@ -291,7 +299,7 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! - cocoindex-io/cocoindex
 
-⬆️ 2 • 💬 0 • 22h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
+⬆️ 2 • 💬 0 • 23h ago • [GitHub](https://github.com/cocoindex-io/cocoindex)
 
 ---
 
@@ -299,23 +307,23 @@ Data transformation framework for AI. Ultra performant, with incremental process
 
 ## YouTube Videos: "bitcoin"
 
-**[Banks Are Pushing Bitcoin Into the Death Spiral](https://www.youtube.com/watch?v=7XTc2dC6Q00)**
-
-How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemini Credit Card: http://gemini.com/andrei ...
-
-📺 Andrei Jikh
-
-👁️ 350K • 👍 13K • 💬 1K • ⏱️ 20:03 • 17h ago
-
----
-
 **[The Fed Just Set the Stage for a Major Crypto Market Rally in 2026](https://www.youtube.com/watch?v=eVTxYvUrTgI)**
 
 LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Start Trading on Polymarket (#1 ...
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 165 • ⏱️ 10:16 • 12h ago
+👁️ 46K • 👍 2K • 💬 176 • ⏱️ 10:16 • 12h ago
+
+---
+
+**[Banks Are Pushing Bitcoin Into the Death Spiral](https://www.youtube.com/watch?v=7XTc2dC6Q00)**
+
+How the Banks Stole Gold is How They Might Steal Bitcoin ▻ Apply for the Gemini Credit Card: http://gemini.com/andrei ...
+
+📺 Andrei Jikh
+
+👁️ 376K • 👍 13K • 💬 2K • ⏱️ 20:03 • 18h ago
 
 ---
 
@@ -325,17 +333,17 @@ In this clip, I talk about what is happening for bitcoin and crypto this week an
 
 📺 CryptosRus Extra
 
-👁️ 11K • 👍 527 • 💬 245 • ⏱️ 9:01 • 13h ago
+👁️ 12K • 👍 555 • 💬 247 • ⏱️ 9:01 • 13h ago
 
 ---
 
-**[Did Michael Saylor’s BIG LONG Just Trigger a Bitcoin Supercycle?!](https://www.youtube.com/watch?v=RTWgQ_EkFQ0)**
+**[URGENT: 3 Reasons Bitcoin Will Have A Huge Move Soon!](https://www.youtube.com/watch?v=8uY5V6U4EQs)**
 
-Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. Jack Maullers? Just dropped 43K BTC into ...
+In this video, Kyledoops shows you 3 very specific reasons why you can expect a big Bitcoin move soon. He will give you a ...
 
-📺 Simply Bitcoin
+📺 Crypto Banter
 
-👁️ 40K • 👍 3K • 💬 412 • ⏱️ 16:35 • 15h ago
+👁️ 16K • 👍 1K • 💬 23 • ⏱️ 37:53 • 6h ago
 
 ---
 
@@ -345,7 +353,27 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 12K • 👍 549 • 💬 420 • ⏱️ 13:29 • 1d ago
+👁️ 13K • 👍 568 • 💬 422 • ⏱️ 13:29 • 1d ago
+
+---
+
+**[Did Michael Saylor’s BIG LONG Just Trigger a Bitcoin Supercycle?!](https://www.youtube.com/watch?v=RTWgQ_EkFQ0)**
+
+Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. Jack Maullers? Just dropped 43K BTC into ...
+
+📺 Simply Bitcoin
+
+👁️ 42K • 👍 3K • 💬 417 • ⏱️ 16:35 • 15h ago
+
+---
+
+**[Michael Saylor Reveals Wells Fargo, Citi &amp; JPM’s Secret Bitcoin Pivot](https://www.youtube.com/watch?v=g0eKRlb-K9o)**
+
+Michael Saylor reveals that major U.S. banks—including Wells Fargo, Citi, JPMorgan, and Bank of America—are preparing to ...
+
+📺 Bitcoin Magazine
+
+👁️ 193 • 👍 4 • 💬 40 • ⏱️ 0:46 • 26m ago
 
 ---
 
@@ -359,41 +387,21 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 ---
 
+**[The guy who told you to buy bitcoin 😬😑😂 #shorts #funny #comedy #crypto #bitcoin #btc #invest](https://www.youtube.com/watch?v=PIblMDfqXes)**
+
+📺 Matt & Justus
+
+👁️ 1.1M • 👍 67K • 💬 217 • ⏱️ 1:00 • 19h ago
+
+---
+
 **[Bitcoin Investors Prepare For a HUGE FOMC Week](https://www.youtube.com/watch?v=HhNaTvl9pjI)**
 
 Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
 📺 CryptosRUs
 
-👁️ 33K • 👍 1K • 💬 276 • ⏱️ 37:28 • 22h ago
-
----
-
-**[The guy who told you to buy bitcoin 😬😑😂 #shorts #funny #comedy #crypto #bitcoin #btc #invest](https://www.youtube.com/watch?v=PIblMDfqXes)**
-
-📺 Matt & Justus
-
-👁️ 793K • 👍 55K • 💬 194 • ⏱️ 1:00 • 19h ago
-
----
-
-**[Fed Meeting Week vs Crypto📈Market Update](https://www.youtube.com/watch?v=vOsikRuBSQc)**
-
-Wednesday, when the Federal Open Market Committee (FOMC) of the U.S. Federal Reserve has its December meeting, at which ...
-
-📺 Paul Barron Network
-
-👁️ 40K • 👍 2K • 💬 104 • ⏱️ 19:16 • 17h ago
-
----
-
-**[BTC: Should You BUY Back Here OR Wait For Lower? [My Plan]](https://www.youtube.com/watch?v=wphUx_yy-98)**
-
-In today's video, Kyledoops shares his strategy on whether to buy back now or just wait for lower. With price stalling many are ...
-
-📺 Crypto Banter
-
-👁️ 18K • 👍 1K • 💬 23 • ⏱️ 32:04 • 1d ago
+👁️ 34K • 👍 2K • 💬 277 • ⏱️ 37:28 • 23h ago
 
 ---
 

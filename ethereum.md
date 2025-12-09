@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T13:57:13.261979+00:00'
+updated: '2025-12-09T14:29:45.645244+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - social
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 13:57 UTC  
+**Last Updated:** December 09, 2025 at 14:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** -2.3%  
-**30d:** -12.5%  
-**90d:** -30.2%  
-**1y:** -14.1%  
+**24h:** -0.4%  
+**7d:** -2.7%  
+**30d:** -12.9%  
+**90d:** -30.5%  
+**1y:** -14.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $377.50B
+**Market Cap:** $375.04B
 Rank #2
 
 **Circulating Supply:** 120,695,272 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--36.9%
+-37.2%
 
 **All-Time Low:** $0.43
-+720909.6%
++717110.3%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ JUST IN: BitMine Immersion Technologies — led by Tom Lee — has purchased 138
 
 A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 3h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 4h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 By magnitude, the biggest question for the Defi ecosystem for the next cycle is who gets to keep the yield on treasuries backing reserve stablecoins such as USDC and USDT? If secretary Bennett and the federal reserve are correct in their forecasts, we'll be at something like $3T in stablecoin market cap by 2030. At
 
-🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 18h ago
+🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 19h ago
 
 ---
 
@@ -154,19 +154,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The CFTC has introduced a pilot allowing Bitcoin, Ethereum, and USDC to be used as margin, while updating rules to support tokenized assets.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
-**[ZKsync to deprecate ZKsync Lite in 2026, sunsetting Ethereum's first ZK rollup](https://www.theblock.co/post/381632/zksync-to-deprecate-zksync-lite-in-2026-sunsetting-ethereums-first-zk-rollup)**
+**[Prediction: If This 1 Policy Changes, Bitcoin and Ethereum Will Soar](https://www.fool.com/investing/2025/12/08/prediction-if-this-1-policy-changes-bitcoin-and-et/)**
 
-The Block • 1d ago
-
----
-
-**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/07/3-reasons-to-buy-ethereum-before-january-2026/)**
-
-Ethereum could be once again on the path to the $5,000 price level. Here's why.
+Japan is considering a big change to how it taxes crypto.
 
 The Motley Fool • 1d ago
 
@@ -176,7 +170,7 @@ The Motley Fool • 1d ago
 
 The trading platform dives further into digital assets both domestically and globally.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -184,13 +178,19 @@ Fortune • 15h ago
 
 Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
+
+---
+
+**[Vitalik Buterin pushes for trustless gas futures market to hedge Ethereum fees, sparking debate over feasibility](https://www.theblock.co/post/381677/vitalik-buterin-pushes-for-trustless-gas-futures-market-to-hedge-ethereum-fees-sparking-debate)**
+
+The Block • 1d ago
 
 ---
 
 **[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
 
-Binance • 21h ago
+Binance • 22h ago
 
 ---
 
@@ -204,7 +204,7 @@ The Block • 23h ago
 
 Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
-Decrypt • 19h ago
+Decrypt • 20h ago
 
 ---
 
@@ -234,7 +234,37 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 10K • 👍 354 • 💬 180 • ⏱️ 12:46 • 19h ago
+👁️ 11K • 👍 367 • 💬 184 • ⏱️ 12:46 • 20h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=rgdqs_rCHts)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 757 • 👍 79 • 💬 5 • ⏱️ 4:05 • 2h ago
+
+---
+
+**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=ZjNWtk6KUdU)**
+
+Demat Account Dhan - https://invite.dhan.co/?invite=XDFET56312 Get Free access on - Crypto Trading Club ⚡️Crypto Trading ...
+
+📺 Trade with Burner
+
+👁️ 3K • 👍 408 • 21m ago
+
+---
+
+**[Why SOL, Ripple XRP, LINK and ETH Benefit from A High M2 Money Supply](https://www.youtube.com/watch?v=x9aN1UAgKlQ)**
+
+US M2 money supply just hit a new all-time high, and Bitcoin always seems to follow this. Selected altcoins could be in for a treat.
+
+📺 Altcoin Buzz
+
+👁️ 238 • 👍 20 • 💬 64 • ⏱️ 14:52 • 27m ago
 
 ---
 
@@ -244,17 +274,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 9K • 👍 337 • 💬 20 • ⏱️ 15:50 • 22h ago
-
----
-
-**[This ETH Pattern Has Only One Outcome....](https://www.youtube.com/watch?v=AB0q8tKtipY)**
-
-BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
-
-📺 Marzell Crypto
-
-👁️ 2K • 👍 72 • 💬 47 • ⏱️ 6:25 • 1d ago
+👁️ 9K • 👍 339 • 💬 20 • ⏱️ 15:50 • 23h ago
 
 ---
 
@@ -268,13 +288,23 @@ LIMITED TIME: Start Trading on Polymarket (#1 Prediction Market): https://polyma
 
 ---
 
+**[This ETH Pattern Has Only One Outcome....](https://www.youtube.com/watch?v=AB0q8tKtipY)**
+
+BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
+
+📺 Marzell Crypto
+
+👁️ 2K • 👍 72 • 💬 56 • ⏱️ 6:25 • 1d ago
+
+---
+
 **[The Biggest Ethereum Risk No One Wants to Admit w/ Aryan Sheikhalian](https://www.youtube.com/watch?v=rQPZq2hRlLM)**
 
 In today's Milk Road episode, we sit down with CMT Digital's Aryan Sheikhalian to uncover the one risk for Ethereum almost ...
 
 📺 Milk Road
 
-👁️ 2K • 👍 105 • 💬 81 • ⏱️ 33:06 • 18h ago
+👁️ 2K • 👍 107 • 💬 81 • ⏱️ 33:06 • 18h ago
 
 ---
 
@@ -284,27 +314,7 @@ BITCOIN: Everything Will FLIP After THIS (get ready)!!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 10K • 👍 520 • 💬 273 • ⏱️ 19:51 • 15h ago
-
----
-
-**[🚨 ETHEREUM BREAKOUT! BlackRock ETF is the Altseason TRIGGER (TIME TO ROTATE!)](https://www.youtube.com/watch?v=-OsmaMB1iU0)**
-
-The momentum behind the BlackRock ETH ETF could be the exact spark that launches the next full-scale altseason. Join Our ...
-
-📺 Discover Crypto
-
-👁️ 8K • 👍 517 • 💬 14 • ⏱️ 49:44 • 21h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=wn48Y6PjqtE)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 Guitar Repair@StringTech
-
-👁️ 14K • 👍 3K • 2d ago
+👁️ 11K • 👍 541 • 💬 275 • ⏱️ 19:51 • 16h ago
 
 ---
 
@@ -314,17 +324,7 @@ Everyone is obsessed with “Bitcoin to 100K” or “Bitcoin is dead.” In thi
 
 📺 Crypto Hustle
 
-👁️ 310 • 👍 34 • 💬 4 • ⏱️ 11:10 • 5h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=KlHoU85sq_A)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 154 • 💬 7 • ⏱️ 5:35 • 20h ago
+👁️ 535 • 👍 49 • 💬 4 • ⏱️ 11:10 • 5h ago
 
 ---
 

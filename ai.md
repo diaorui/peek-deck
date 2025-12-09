@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T13:57:13.246789+00:00'
+updated: '2025-12-09T14:29:45.629966+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- repositories
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 13:57 UTC  
+**Last Updated:** December 09, 2025 at 14:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his bearish calls from critics in a weekend posting spree on X.
 
-🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 17h ago
+🔗 [Business Insider](https://www.businessinsider.com/big-short-michael-burry-stock-marekt-bubble-openai-nvidia-2025-12?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post) • 18h ago
 
 ---
 
@@ -103,7 +103,7 @@ Interview with Surge's Edwin Chen: https://www.youtube.com/watch?v=dduQeaqmpnI
 
 LLMs, a Race for more data centers, Nvidia chips and more model parameters, yet no LLM can understand concepts and their relationships and still limited to next token prediction. Trying to increase model parameters in each generation is akin to trying increase number of neurons in our brains with each of our offspring, not a feasible or desirable path to GenAI I believe Graph Knowledge Maps with Nodes (Objects) and Edges (Relationships) offer a viable alternative, an anchor, a core of truth and map of world for LLMs for understanding and learning the environment they interact in As a proof of concept I am working on a medical SLM: 6 GB specialized medical SLM (BioGPT-Large based) Native biomedical knowledge graph (5k+ nodes, 25k+ edges) that contain 7 medical categories; diseases, symptoms, treatments, risk factors, diagnostic tools, body parts, cellular structures and their multi directional relationships Graph aware text embeddings + special tokens and anointed Pubmed and MTS Dialogs to instruct and orient model on medical terms, such as a,b,c are symptoms of disease x and it can be treated with z Fully self-contained RAG (entity + semantic search embedded in model via special tokens), that do a final audit on the model output to make sure answer contains relevant nodes related to prompt. Model is currently conversational and operate with close to zero hallucinations and due to its small size can run fully offline on laptops, hospital servers, and even on cell phones For now, the model itself remains private, but you can see a sample set of results and how Graph info map and Rag audit works together to minimize hallicunations and provide relevant correct answers. All answers pass audit at first attempts thanks to enforced training utilizing specialized graph info map tokens on annointed text. Audit first utilizes graph category class search and if that fails entity search Use cases I’m exploring: - Clinical decision support back-ends - Patient education and triage assistants - Medical education - Telemedicine and remote/low-connectivity settings I understand that this is a project likely too big to properly handle by myself therefore I am open to conversations with: - Med AI founders/operators - AI researchers working on graph/RAG - VCs and angels focused on healthcare/AI Next I will be looking to switch from text embeddings to vector embeddings so in future graph knowledge map nodes and edges can be updated dynamically by the model itself If this is relevant to what you’re building or investing in, I’d be happy to walk you through the architecture, benchmarks, and potential paths (pilot, co-building, or licensing/acquisition). ================================================================================ QUERY: What are the common symptoms of diabetes? → Attempt 1/4 Generation time: 41.64s ANSWER: The most frequent symptom in patients with type 2 diabetes is postprandial hyperglycemia, which can be caused by a variety of factors including poor diet and lack of exercise as well as medication side effects or complications. Other symptoms include weight gain, polyuria, nocturia, thirst, dry mouth, blurred vision, dizziness, fatigue, anxiety, depression, sleep disturbances, and cognitive impairment. These symptoms may occur early on during disease progression but become more prevalent over time due to increased duration of illness. Symptoms should not necessarily indicate severe metabolic derangement; however, they often contribute significantly to patient morbidity and mortality. In addition, these symptoms have been shown to affect quality of life negatively. Therefore, it is important for clinicians caring for diabetic patients to recognize their presence so that appropriate treatment strategies can be implemented. This review provides an overview of the pathophysiology underlying each symptom associated with diabetes mellitus and discusses potential management options based on current evidence-based guidelines. It also highlights areas where further research is needed. © RSNA, 2 0 1 8. < / FREETEXT > < / ABSTRACT > ▃ </s> EXTRACTED ENTITIES → [('Mouth', 'BodyPart'), ('Diabetes Mellitus', 'Disease'), ('Type 2 Diabetes', 'Disease'), ('Depression', 'Disease'), ('Fatigue', 'Symptom'), ('Dizziness', 'Symptom'), ('Blurred Vision', 'Symptom'), ('Sleep Disturbances', 'Symptom'), ('Nocturia', 'Symptom'), ('Polyuria', 'Symptom'), ('Poor Diet', 'RiskFactor'), ('Lack of Exercise', 'RiskFactor'), ('Cognitive Impairment', 'RiskFactor')] RAG AUDIT → PASSED | No entities in prompt → audit passed FINAL VALIDATED ANSWER ACCEPTED after 1 attempt(s)! FINAL NODES: [('Mouth', 'BodyPart'), ('Diabetes Mellitus', 'Disease'), ('Type 2 Diabetes', 'Disease'), ('Depression', 'Disease'), ('Fatigue', 'Symptom'), ('Dizziness', 'Symptom'), ('Blurred Vision', 'Symptom'), ('Sleep Disturbances', 'Symptom'), ('Nocturia', 'Symptom'), ('Polyuria', 'Symptom'), ('Poor Diet', 'RiskFactor'), ('Lack of Exercise', 'RiskFactor'), ('Cognitive Impairment', 'RiskFactor')] ================================================================================ QUERY: Explain hypertension and its risks. → Attempt 1/4 Generation time: 31.12s ANSWER: Hypertension is a common condition that can be treated with lifestyle changes, medications or surgery if necessary. The risk of developing high blood pressure increases as the patient's age advances; however, it may also occur in younger patients who have other medical conditions such as diabetes mellitus, obesity, dyslipidemia, chronic kidney disease (CKD), obstructive sleep apnea syndrome, polycystic ovary syndrome, pregnancy, menopause, etc. Hypertension has been associated with increased mortality rates due to cardiovascular diseases including coronary artery disease, stroke, heart failure, atrial fibrillation, peripheral vascular disease, aortic aneurysm, renal insufficiency, and death from cancer. In addition, hypertension leads to significant morbidity by causing target organ damage such as left ventricular hypertrophy, microalbuminuria, retinopathy, nephropathy, and arterial stiffness. < / FREETEXT > < / ABSTRACT > ▃ </s> EXTRACTED ENTITIES → [('Heart', 'BodyPart'), ('Diabetes Mellitus', 'Disease'), ('Hypertension', 'Disease'), ('Stroke', 'Disease'), ('Chronic Kidney Disease', 'Disease'), ('Cancer', 'Disease'), ('Cardiovascular Diseases', 'Disease'), ('Arterial Stiffness', 'Disease'), ('Coronary Artery Disease', 'Disease'), ('Heart Failure', 'Disease'), ('Atrial Fibrillation', 'Disease'), ('Obesity', 'Disease'), ('Dyslipidemia', 'Disease'), ('Sleep Apnea', 'Disease'), ('Obstructive Sleep Apnea', 'Disease'), ('Surgery', 'Treatment'), ('Sleep Apnea', 'Symptom'), ('Obstructive Sleep Apnea', 'Symptom'), ('Obesity', 'RiskFactor'), ('Hypertension', 'RiskFactor'), ('Medications', 'RiskFactor'), ('Arterial Stiffness', 'RiskFactor'), ('Microalbumin', 'DiagnosticTest')] RAG AUDIT → PASSED | PASS: multi-category prompt (coverage + depth satisfied) FINAL VALIDATED ANSWER ACCEPTED after 1 attempt(s)! FINAL NODES: [('Heart', 'BodyPart'), ('Diabetes Mellitus', 'Disease'), ('Hypertension', 'Disease'), ('Stroke', 'Disease'), ('Chronic Kidney Disease', 'Disease'), ('Cancer', 'Disease'), ('Cardiovascular Diseases', 'Disease'), ('Arterial Stiffness', 'Disease'), ('Coronary Artery Disease', 'Disease'), ('Heart Failure', 'Disease'), ('Atrial Fibrillation', 'Disease'), ('Obesity', 'Disease'), ('Dyslipidemia', 'Disease'), ('Sleep Apnea', 'Disease'), ('Obstructive Sleep Apnea', 'Disease'), ('Surgery', 'Treatment'), ('Sleep Apnea', 'Symptom'), ('Obstructive Sleep Apnea', 'Symptom'), ('Obesity', 'RiskFactor'), ('Hypertension', 'RiskFactor'), ('Medications', 'RiskFactor'), ('Arterial Stiffness', 'RiskFactor'), ('Microalbumin', 'DiagnosticTest')] ================================================================================ QUERY: How does fever present in patients? → Attempt 1/4 Generation time: 44.75s ANSWER: Fever is a common symptom, and it can be caused by many different diseases or conditions. The most important causes of fever are infections (bacterial and viral), neoplasms, autoimmune disorders, drug reactions, and other systemic illnesses. In addition to the history and physical examination, laboratory tests such as complete blood count with differential cell counts, erythrocyte sedimentation rate, C-reactive protein level, procalcitonin levels, urinalysis, chest radiography, abdominal ultrasonography, and electrocardiography should be performed for diagnosis. When evaluating febrile children, clinicians must consider whether they have an infectious disease or another condition that could cause their symptoms. If there is no evidence of infection, then noninfectious etiologies including malignancy, connective tissue disorder, metabolic syndrome, autoinflammatory syndromes, and neurologic illness need to be considered. A detailed medical history and thorough clinical assessment help guide further diagnostic testing and treatment decisions. This article provides practical guidance on how to approach the evaluation of pediatric fevers based on recent guidelines from the American Academy of Pediatrics and the Infectious Diseases Society of America. It also discusses some key points regarding management strategies for these patients. [Pediatr Ann. 2 EXTRACTED ENTITIES → [('Infectious Diseases', 'Disease'), ('STEMI', 'Disease'), ('Metabolic Syndrome', 'Disease'), ('Fever', 'Symptom'), ('Electrocardiography', 'DiagnosticTest'), ('Physical Examination', 'DiagnosticTest'), ('Complete Blood Count', 'DiagnosticTest'), ('Urinalysis', 'DiagnosticTest'), ('Calcitonin', 'DiagnosticTest')] RAG AUDIT → PASSED | PASS: single-category prompt (breadth + depth satisfied) FINAL VALIDATED ANSWER ACCEPTED after 1 attempt(s)! FINAL NODES: [('Infectious Diseases', 'Disease'), ('STEMI', 'Disease'), ('Metabolic Syndrome', 'Disease'), ('Fever', 'Symptom'), ('Electrocardiography', 'DiagnosticTest'), ('Physical Examination', 'DiagnosticTest'), ('Complete Blood Count', 'DiagnosticTest'), ('Urinalysis', 'DiagnosticTest'), ('Calcitonin', 'DiagnosticTest')] medicalAI LLM RAG GRAPH SLM knowledgegraph healthtech digitalhealth AIinHealthcare MedTech BioGPT
 
-4h ago
+5h ago
 
 ---
 
@@ -119,47 +119,11 @@ It is examining whether the tech giant did not offer "appropriate compensation" 
 
 ## Google News: "ai"
 
-**[A.I. Videos Have Flooded Social Media. No One Was Ready.](https://www.nytimes.com/2025/12/08/technology/ai-slop-sora-social-media.html)**
-
-The New York Times • 18h ago
-
----
-
-**[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
-
-The Economist • 16h ago
-
----
-
-**[AI’s reliance on patterns can lead to ‘somewhat mediocre’ results, warns CEO of design consultancy IDEO](https://fortune.com/2025/12/09/ai-mediocre-results-human-creativity-ideo-ceo-mike-peng/)**
-
-AI can be a powerful tool for designers, but human creativity is still key, Mike Peng said at Fortune Brainstorm Design in Macau on Dec. 2.
-
-Fortune • 36m ago
-
----
-
-**[Veritone Showcases AI Interoperability and Open Architecture for the Public Sector with aiWARE™ Deployment on Self-Hosted Tenants](https://finance.yahoo.com/news/veritone-showcases-ai-interoperability-open-130000428.html)**
-
-IRVINE, Calif., December 09, 2025--Veritone leverages open architecture to deliver flexible, secure AI solutions on self-hosted private cloud environments.
-
-Yahoo Finance • 57m ago
-
----
-
-**[Brook.ai Wins Top Digital Health Award for Pioneering Work in AI-Powered Remote Care Management](https://finance.yahoo.com/news/brook-ai-wins-top-digital-130500509.html)**
-
-Brook.ai, the company making remote care an integral part of U.S. healthcare by extending continuity of care outside the traditional practice setting, today announced its recognition with a Gold Award for Remote Patient Monitoring in the Connected Digital Health category at the 27th annual Digital Health Awards®. The prestigious program, organized by the Health Information Resource Center (HIRC), honors the most innovative digital health resources developed for consumers and health professionals
-
-Yahoo Finance • 52m ago
-
----
-
 **[From Llamas to Avocados: Meta's shifting AI strategy is causing internal confusion](https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html)**
 
 Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -183,13 +147,51 @@ The Guardian • 5h ago
 
 That includes the first of Google's AI glasses in partnership with Warby Parker.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
-**[Exclusive | Anthropic and Accenture Strike AI Deal Targeting Business Clients](https://www.wsj.com/articles/anthropic-and-accenture-strike-ai-deal-targeting-business-clients-0a82f28a?gaa_at=eafs&gaa_n=AWEtsqcWTR7WrD_qUZqhEjxDheXOBjhmVeyoijJ-aiGmpWv81zeSTAUwJp5Q&gaa_ts=69382a46&gaa_sig=Crbe1pktm82ncAkK8bKFsetnv6GvY0MMSW-w-Oyz_djxxGhrXFYET-EZJwca6_brhbFf1Ra24Nr7sMAVicjh5g%3D%3D)**
+**[Trump says he’ll sign executive order blocking state AI regulations, despite safety fears](https://www.cnn.com/2025/12/08/tech/trump-eo-blocking-ai-state-laws)**
 
-The Wall Street Journal • 1h ago
+President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
+
+CNN • 23h ago
+
+---
+
+**[White House official presses allies to free AI from innovation-killing regulations](https://www.foxnews.com/politics/white-house-official-presses-allies-free-ai-from-innovation-killing-regulations)**
+
+White House science and technology advisor Michael Kratsios urges G7 nations to clear AI regulatory obstacles, warning that sweeping rulebooks could slow needed innovation.
+
+Fox News • 14m ago
+
+---
+
+**[Opinion | Amy Klobuchar: Trump Should Not Replace A.I. Laws With an Executive Order](https://www.nytimes.com/2025/12/09/opinion/klobuchar-trump-ai.html)**
+
+The New York Times • 4h ago
+
+---
+
+**[Sequoia-Led Funding Vaults AI Startup Fal to $4.5 Billion Valuation](https://www.bloomberg.com/news/articles/2025-12-09/sequoia-led-funding-vaults-ai-startup-fal-to-4-5-billion-valuation)**
+
+Artificial Intelligence startup Fal raised fresh funding from investors in a deal that values the company at $4.5 billion, according to a person familiar with the matter — triple its valuation from a few months earlier.
+
+Bloomberg.com • 29m ago
+
+---
+
+**[AI isn't the reason you got laid off (or not hired), top staffing agency says. You don't have the right skills](https://fortune.com/2025/12/09/will-ai-steal-my-job-layoffs-low-hire-fire-economy-manpower-survey/)**
+
+The typical company expects to hire eight workers in the first quarter of 2026, ManpowerGroup's new survey finds.
+
+Fortune • 29m ago
+
+---
+
+**[How AI is disrupting shopping](https://www.economist.com/business/2025/12/08/how-ai-is-disrupting-shopping)**
+
+The Economist • 17h ago
 
 ---
 
@@ -199,7 +201,7 @@ The Wall Street Journal • 1h ago
 
 **[Google Titans architecture, helping AI have long-term memory](https://news.ycombinator.com/item?id=46181231)**
 
-⬆️ 576 • 💬 180 • 2d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
+⬆️ 576 • 💬 181 • 2d ago • [research.google](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/)
 
 ---
 
@@ -207,7 +209,7 @@ The Wall Street Journal • 1h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 461 • 💬 375 • 13h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 476 • 💬 405 • 14h ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -215,19 +217,19 @@ AI progress is steady. Human equivalence is sudden.
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 406 • 💬 358 • 21h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 409 • 💬 360 • 21h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 176 • 💬 158 • 20h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 177 • 💬 161 • 20h ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 119 • 💬 204 • 1d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 119 • 💬 205 • 1d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -241,7 +243,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Starting Jan. 1, traditional Medicare recipients in Washington state will face a new hurdle to get certain procedures covered — private AI companies that get paid based on how many claims they deny.
 
-⬆️ 38 • 💬 5 • 17h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
+⬆️ 38 • 💬 5 • 18h ago • [kuow.org](https://www.kuow.org/stories/thousands-of-washington-state-medicare-users-could-soon-have-claims-denied-by-ai)
 
 ---
 
@@ -271,23 +273,13 @@ A fork of Calibre called Clbre, because the AI is stripped out. - grimthorpe/clb
 
 ## YouTube Videos: "ai"
 
-**[New Largest AI Datacenter — Not a Single GPU Inside](https://www.youtube.com/watch?v=N10w1KvFKNQ)**
-
-Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTECHDEC2 - 100% Discount for the first 1000 ...
-
-📺 Anastasi In Tech
-
-👁️ 131K • 👍 8K • 💬 1K • ⏱️ 31:03 • 16h ago
-
----
-
 **[DIMON’S WARNING: America might not be ready for coming AI shock](https://www.youtube.com/watch?v=C8yuD9ca1lo)**
 
 JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, crypto investing and socialism on 'Mornings ...
 
 📺 Fox Business
 
-👁️ 61K • 👍 1K • 💬 345 • ⏱️ 18:47 • 21h ago
+👁️ 65K • 👍 1K • 💬 367 • ⏱️ 18:47 • 22h ago
 
 ---
 
@@ -297,7 +289,17 @@ Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS
 
 📺 AI Revolution
 
-👁️ 19K • 👍 666 • 💬 50 • ⏱️ 13:12 • 13h ago
+👁️ 22K • 👍 745 • 💬 54 • ⏱️ 13:12 • 13h ago
+
+---
+
+**[New Largest AI Datacenter — Not a Single GPU Inside](https://www.youtube.com/watch?v=N10w1KvFKNQ)**
+
+Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTECHDEC2 - 100% Discount for the first 1000 ...
+
+📺 Anastasi In Tech
+
+👁️ 145K • 👍 9K • 💬 1K • ⏱️ 31:03 • 17h ago
 
 ---
 
@@ -307,37 +309,37 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 58K • 👍 3K • 💬 526 • ⏱️ 15:03 • 1d ago
+👁️ 59K • 👍 3K • 💬 533 • ⏱️ 15:03 • 1d ago
 
 ---
 
-**[Big Tech&#39;s AI Debt Will Crash the Economy](https://www.youtube.com/watch?v=rf9Sat5n0AQ)**
+**[Gemini 4 — Google’s Biggest AI Upgrade Yet (Full Features Explained)](https://www.youtube.com/watch?v=WYK7iyOklf4)**
 
-Big Tech is racking up debt to fund their AI infrastructure for demand that seemingly doesn't exist. Us taxpayers are subsidizing the ...
+Join the BitBiased AI newsletter: https://bitbiased.ai/ Google just previewed Gemini 4 — and it might be their most powerful AI ...
 
-📺 Vanessa Wingårdh
+📺 BitBiasedAI
 
-👁️ 128K • 👍 9K • 💬 2K • ⏱️ 10:38 • 2d ago
-
----
-
-**[OpenAI&#39;s New GARLIC AI, Apple&#39;s Clara, Live Avatar and More Intense AI News](https://www.youtube.com/watch?v=3n_dWlNkcY8)**
-
-OpenAI is in a full internal race after a major leak revealed a new model called Garlic outperforming Gemini 3 and Claude in ...
-
-📺 AI Revolution
-
-👁️ 98K • 👍 2K • 💬 129 • ⏱️ 12:31 • 1d ago
+👁️ 52K • 👍 1K • 💬 49 • ⏱️ 11:49 • 2d ago
 
 ---
 
-**[Navy Girl Brought a Dead Coconut Tree Back to Life | #ai #plants #water #save](https://www.youtube.com/watch?v=RU5zNXtROPo)**
+**[&#39;Godfather of AI&#39; warns of existential risks | GZERO World with Ian Bremmer](https://www.youtube.com/watch?v=tuCBVuzTKAU)**
 
-Navy Girl Brought a Dead Coconut Tree Back to Life | #ai #plants #water #save In this emotional and magical short story, a dry ...
+Geoffrey Hinton, the 'Godfather of AI' tells Ian Bremmer on GZERO World AI will soon outpace human intelligence and warns the ...
 
-📺 FeeliMals
+📺 GZERO Media
 
-👁️ 125K • 💬 6 • ⏱️ 0:32 • 11h ago
+👁️ 20K • 👍 438 • 💬 56 • ⏱️ 21:45 • 1d ago
+
+---
+
+**[The LAZIEST Way To Start Making Money with AI BEFORE 2026 (For Beginners)](https://www.youtube.com/watch?v=l9ulY_Mnqgc)**
+
+Use DeepAgent To Help You Start a Business with AI: https://deepagent.abacus.ai/rqm This video walks you through how I built a ...
+
+📺 Rob The AI Guy
+
+👁️ 5K • 👍 188 • 💬 40 • ⏱️ 17:47 • 1d ago
 
 ---
 
@@ -347,7 +349,17 @@ Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Fu
 
 📺 Dan Kieft
 
-👁️ 26K • 💬 26 • ⏱️ 20:04 • 21h ago
+👁️ 28K • 💬 26 • ⏱️ 20:04 • 21h ago
+
+---
+
+**[SORA AI Disney Trailers That Make No Sense](https://www.youtube.com/watch?v=MlMqcBskVCU)**
+
+SORA AI Disney Trailers That Make No Sense #funny #funnyvideos #viral #comedy #funnyviral #ai #funnyclips #aimeme ...
+
+📺 Bigfoot Feed
+
+👁️ 65K • 👍 1K • 💬 33 • ⏱️ 0:55 • 1d ago
 
 ---
 
@@ -357,17 +369,7 @@ Watch this thrilling story of a humanoid robot protecting an elderly grandma on 
 
 📺 Ai Tools with Farwa
 
-👁️ 403 • 👍 24 • 💬 1 • ⏱️ 0:31 • 2h ago
-
----
-
-**[Which Dream Bed Would You Choose? 🛏️✨ Ultimate Oddly Satisfying AI ASMR](https://www.youtube.com/watch?v=ozCKqX2rgzg)**
-
-Join Impossible AIs and unlock exclusive perks! ✨ @ImpossibleAIs-c9z Drift into pure comfort—AI-crafted relaxing beds designed ...
-
-📺 Impossible AIs
-
-👁️ 1.2M • 👍 3K • 💬 103 • ⏱️ 8:06 • 3d ago
+👁️ 2K • 👍 120 • 💬 1 • ⏱️ 0:31 • 3h ago
 
 ---
 
@@ -383,7 +385,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 217,428 • ❤️ 2,395 • 21h ago
+⬇️ 217,428 • ❤️ 2,400 • 21h ago
 
 ---
 
@@ -395,7 +397,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 56,958 • ❤️ 572 • 9h ago
+⬇️ 56,958 • ❤️ 573 • 10h ago
 
 ---
 
@@ -429,7 +431,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 6,920 • ❤️ 201 • 8h ago
+⬇️ 6,920 • ❤️ 206 • 8h ago
 
 ---
 
@@ -453,7 +455,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 687 • ❤️ 186 • 8h ago
+⬇️ 687 • ❤️ 187 • 8h ago
 
 ---
 
@@ -475,19 +477,19 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 4,106 • ❤️ 402 • 7d ago
+⬇️ 4,106 • ❤️ 403 • 7d ago
 
 ---
 
-**[Ministral-3-14B-Instruct-2512](https://huggingface.co/mistralai/Ministral-3-14B-Instruct-2512)**
+**[LongCat-Image](https://huggingface.co/meituan-longcat/LongCat-Image)**
 
-*Mistral AI_*
+*LongCat*
 
-Ministral 3 14B Instruct is a powerful, edge-optimized multilingual vision-language model fine-tuned for instruction tasks. It excels in chat, agentic use cases with native function calling, and local deployments due to its FP8 quantization and 256k context window.
+LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusion model with 6B parameters, excelling in photorealism and accurate Chinese character rendering. It's designed for high performance and developer accessibility, suitable for diverse creative applications.
 
-`13.9B`
+`text-to-image`
 
-⬇️ 237,941 • ❤️ 159 • 4d ago
+⬇️ 303 • ❤️ 160 • 8h ago
 
 ---
 
@@ -545,7 +547,7 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 154 • 💬 4 • ⭐ 666 • 5d ago
+▲ 157 • 💬 4 • ⭐ 666 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
 
@@ -591,6 +593,18 @@ RealGen is a photorealistic text-to-image framework that uses an LLM for prompt 
 
 ---
 
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 24 • 💬 0 • ⭐ 25,641 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
 **[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
 
 *Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
@@ -599,21 +613,9 @@ RealGen is a photorealistic text-to-image framework that uses an LLM for prompt 
 
 Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
 
-▲ 109 • 💬 4 • ⭐ 5,490 • 18d ago
+▲ 109 • 💬 4 • ⭐ 5,490 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
-
----
-
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 24 • 💬 0 • ⭐ 25,603 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -625,7 +627,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 37 • 💬 2 • ⭐ 274 • 5d ago
+▲ 38 • 💬 2 • ⭐ 274 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
@@ -641,7 +643,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.6k • 🔱 442 • 6h ago
+⭐ 5.6k • 🔱 443 • 6h ago
 
 ---
 
@@ -661,7 +663,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.2k • 🔱 154 • 1h ago
+⭐ 1.2k • 🔱 158 • 1h ago
 
 ---
 
@@ -671,7 +673,7 @@ AI-powered git commit message rewriter using Ollama or GPT
 
 `TypeScript` `git` `pre-commit-hook`
 
-⭐ 1.1k • 🔱 47 • 9d ago
+⭐ 1.1k • 🔱 47 • 10d ago
 
 ---
 
@@ -691,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 124 • 15h ago
+⭐ 1.0k • 🔱 125 • 15h ago
 
 ---
 
@@ -701,7 +703,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 886 • 🔱 61 • 2h ago
+⭐ 889 • 🔱 61 • 3h ago
 
 ---
 
@@ -721,7 +723,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 841 • 🔱 45 • 10h ago
+⭐ 842 • 🔱 45 • 11h ago
 
 ---
 
@@ -731,7 +733,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 832 • 🔱 268 • 3d ago
+⭐ 833 • 🔱 268 • 3d ago
 
 ---
 
