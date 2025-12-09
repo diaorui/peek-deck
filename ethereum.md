@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-09T07:43:53.973881+00:00'
+updated: '2025-12-09T07:54:45.867576+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 07:43 UTC  
+**Last Updated:** December 09, 2025 at 07:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -222,7 +222,7 @@ TradingView • 19h ago
 
 The cryptocurrency market is flashing green during Monday's trading session, 8 December, 2025, prompting investors to ask why crypto is going up today .
 
-Finance Magnates • 20h ago
+Finance Magnates • 21h ago
 
 ---
 
@@ -266,7 +266,7 @@ In today's Milk Road episode, we sit down with CMT Digital's Aryan Sheikhalian t
 
 📺 Milk Road
 
-👁️ 2K • 👍 100 • 💬 81 • ⏱️ 33:06 • 11h ago
+👁️ 2K • 👍 100 • 💬 81 • ⏱️ 33:06 • 12h ago
 
 ---
 

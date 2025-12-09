@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-09T07:43:53.967921+00:00'
+updated: '2025-12-09T07:54:45.861527+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 09, 2025 at 07:43 UTC  
+**Last Updated:** December 09, 2025 at 07:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,10 +44,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -3.6%  
-**30d:** -14.9%  
-**90d:** -21.7%  
+**24h:** -1.2%  
+**7d:** -3.5%  
+**30d:** -14.8%  
+**90d:** -21.6%  
 **1y:** -6.3%  
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurrency-mining-rig/story?id=97440173
 
-5h ago
+6h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bloomberg.com • 17h ago
 
 Texas has launched its new cryptocurrency reserve with a $5 million purchase of Bitcoin as the state continues to embrace the volatile and controversial digital currency. The Texas Comptroller’s Office confirmed the purchase was made last month as a “placeholder investment” while the office works to contract with a cryptocurrency bank to manage its portfolio. […]
 
-Baton Rouge Business Report • 10h ago
+Baton Rouge Business Report • 11h ago
 
 ---
 

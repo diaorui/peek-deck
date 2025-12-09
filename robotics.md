@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-09T07:43:53.977120+00:00'
+updated: '2025-12-09T07:54:45.870834+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 09, 2025 at 07:43 UTC  
+**Last Updated:** December 09, 2025 at 07:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ Has anyone seen how the mopping pressure is created in a robot vacuum? I would i
 
 What is the correct procedure for implementing a drawing interface on an ABB IRB 2600 robot using the IRC5 controller, including software integration, conversion of drawing data to robot paths, and RAPID programming requirements. Curious about ABB IRB 2600 robot and did anyone have experience with this? Thank you in advance!!!!!
 
-38m ago
+49m ago
 
 ---
 
@@ -164,7 +164,7 @@ Valley News Live • 8h ago
 
 SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
 
-PYMNTS.com • 9h ago
+PYMNTS.com • 10h ago
 
 ---
 
@@ -210,7 +210,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI . Robot
 
-👁️ 53K • 👍 789 • 💬 15 • ⏱️ 0:19 • 18h ago
+👁️ 53K • 👍 789 • 💬 15 • ⏱️ 0:19 • 19h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-09T07:43:53.959567+00:00'
+updated: '2025-12-09T07:54:45.853100+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 09, 2025 at 07:43 UTC  
+**Last Updated:** December 09, 2025 at 07:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Michael Burry predicted a Netscape-style fate for OpenAI. He also defended his b
 
 AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai says no job, not even his own, is safe. But those who don’t adapt will be the first to fall.
 
-🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 9h ago
+🔗 [Fortune](https://fortune.com/2025/12/02/ai-wipes-jobs-google-ceo-sundar-pichai-everyday-people-to-adapt-accordingly-we-have-to-work-through-societal-disruption/) • 10h ago
 
 ---
 
@@ -63,7 +63,7 @@ AI isn’t just coming for entry-level workers—Google’s CEO Sundar Pichai sa
 
 At Martian, we view AI interpretability as the world's most important scientific problem.  We're announcing a $1M prize pool promoting breakthrough work in the field.
 
-🔗 [withmartian.com](https://withmartian.com/prize) • 18h ago
+🔗 [withmartian.com](https://withmartian.com/prize) • 19h ago
 
 ---
 
@@ -71,7 +71,7 @@ At Martian, we view AI interpretability as the world's most important scientific
 
 From “cameo” to “io,” OpenAI keeps trying to call its new and upcoming releases by names that resemble existing trademarks.
 
-🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 10h ago
+🔗 [WIRED](https://www.wired.com/story/openai-cameo-products-that-already-exist/) • 11h ago
 
 ---
 
@@ -137,7 +137,7 @@ BBC • 5h ago
 
 Only two data embassies currently exist, but Saudi Arabia is looking to make them commonplace.
 
-CNBC • 33m ago
+CNBC • 44m ago
 
 ---
 
@@ -167,7 +167,7 @@ The Economist • 10h ago
 
 President Donald Trump confirmed on Monday he plans to sign an executive order preempting artificial intelligence regulations at the state level with his more hands-off federal policy.
 
-CNN • 16h ago
+CNN • 17h ago
 
 ---
 
@@ -207,7 +207,7 @@ NBC News • 7h ago
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 393 • 💬 330 • 14h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 393 • 💬 330 • 15h ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -357,7 +357,7 @@ Kling 2.6 vs Google Veo 3.1 vs Sora 2 - What is the best AI Video Generator - Fu
 
 📺 Dan Kieft
 
-👁️ 21K • 💬 26 • ⏱️ 20:04 • 14h ago
+👁️ 21K • 💬 26 • ⏱️ 20:04 • 15h ago
 
 ---
 
@@ -557,7 +557,7 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 RealGen is a photorealistic text-to-image framework that uses an LLM for prompt optimization and a diffusion model for image generation, enhanced by a Detector Reward mechanism and RealBench for automated evaluation.
 
-▲ 13 • 💬 2 • ⭐ 105 • 9d ago
+▲ 13 • 💬 2 • ⭐ 105 • 10d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.00473) • [💻 code](https://github.com/yejy53/RealGen) • [🔗 project](https://yejy53.github.io/RealGen/)
 
@@ -639,7 +639,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `gemini` `nanobanana` `nanobanana-pro` `nanobanana2` `nanobananapro`
 
-⭐ 5.5k • 🔱 438 • 1m ago
+⭐ 5.5k • 🔱 438 • 12m ago
 
 ---
 
@@ -649,7 +649,7 @@ PaddleOCR-VL, a vision-language model combining NaViT-style dynamic resolution a
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.6k • 🔱 132 • 15h ago
+⭐ 1.6k • 🔱 132 • 16h ago
 
 ---
 
