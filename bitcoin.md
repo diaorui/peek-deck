@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T21:46:56.243452+00:00'
+updated: '2025-12-10T21:57:32.873548+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
+- videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 21:46 UTC  
+**Last Updated:** December 10, 2025 at 21:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,9 +45,9 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** -0.6%  
-**7d:** +0.4%  
-**30d:** -10.4%  
-**90d:** -20.4%  
+**7d:** +0.3%  
+**30d:** -10.5%  
+**90d:** -20.5%  
 **1y:** -8.5%  
 
 ---
@@ -129,7 +129,7 @@ Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exch
 
 Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
 
-37m ago
+47m ago
 
 ---
 
@@ -213,7 +213,7 @@ NPR • 13h ago
 
 The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -353,7 +353,7 @@ Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BU
 
 📺 Conor Kenny
 
-👁️ 11K • 👍 541 • 💬 56 • ⏱️ 12:36 • 15h ago
+👁️ 11K • 👍 541 • 💬 56 • ⏱️ 12:36 • 16h ago
 
 ---
 

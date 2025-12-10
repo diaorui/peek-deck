@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T21:46:56.235018+00:00'
+updated: '2025-12-10T21:57:32.864915+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 21:46 UTC  
+**Last Updated:** December 10, 2025 at 21:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 The start-up is falling behind in the AI race.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 5h ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 6h ago
 
 ---
 
@@ -55,13 +55,13 @@ The start-up is falling behind in the AI race.
 
 The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'
 
-🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 20h ago
+🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 21h ago
 
 ---
 
 **[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
 
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 4h ago
+🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 5h ago
 
 ---
 
@@ -83,7 +83,7 @@ Reprogrammable humanoid robots could level the global manufacturing playing fiel
 
 **[Trump’s push for more AI data centers faces backlash from his own voters](https://www.reddit.com/r/artificial/comments/1pj7pr6/trumps_push_for_more_ai_data_centers_faces/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/trumps-push-more-ai-data-centers-faces-backlash-his-own-voters-2025-12-01/) • 4h ago
+🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/trumps-push-more-ai-data-centers-faces-backlash-his-own-voters-2025-12-01/) • 5h ago
 
 ---
 
@@ -107,7 +107,7 @@ I’ve spent the last year really putting AI to work, writing content, handling 
 
 When evaluating an agent system that changes its behavior as tools and planning steps evolve, it can be hard to choose metrics that actually explain what went wrong. We tried several complex scoring schemes before realizing that a simple grouping works better. Groundedness: Shows whether the agent relied on the correct context or evidence Structure: Shows whether the output format is stable enough for scoring Correctness: Shows whether the final answer is right Most of our debugging now starts with these three. - If groundedness drops, the agent is pulling information from the wrong place. - If structure drops, a planner change or tool call adjustment usually altered the format. - If correctness drops, we look at reasoning or retrieval. I am curious how others evaluate agents as they evolve. Do you track different metrics for different stages of the agent? Do you rely on a simple metric set or a more complex one? Which metrics helped you catch failures early?
 
-30m ago
+41m ago
 
 ---
 
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 5.2k • 🔱 851 • 3h ago
+⭐ 5.2k • 🔱 851 • 4h ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.6k • 🔱 190 • 33m ago
+⭐ 1.6k • 🔱 190 • 44m ago
 
 ---
 
