@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T18:59:07.577302+00:00'
+updated: '2025-12-10T19:26:22.740178+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 18:59 UTC  
+**Last Updated:** December 10, 2025 at 19:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,365.96
+### $3,351.85
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +7.5%  
-**30d:** -1.4%  
-**90d:** -28.3%  
-**1y:** -12.2%  
+**24h:** +1.6%  
+**7d:** +8.1%  
+**30d:** -0.8%  
+**90d:** -27.9%  
+**1y:** -11.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $412.83B
+**Market Cap:** $410.01B
 Rank #2
 
 **Circulating Supply:** 120,695,213 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--30.8%
+-31.4%
 
 **All-Time Low:** $0.43
-+790555.0%
++783205.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -88,7 +88,15 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 oskar thorén is one of the leads in ethereum foundation's newest IPTF, or institutional privacy task force. he's a freedom maxi, zero-knowledge wizard, taiwan expart, and a dear friend. an electric mix of sovereign energy! oskar is one of the most well spoken advocates for privacy, zk, and self-custody, and in this interview where we hiked xiangshan in taipei, he holds nothing back to give us banger insight after banger insight. we talked all things zk and privacy, including: how the snowden revelations ignited his passion his early work in Vac and Waku to create encrypted messaging back when early ethereum was only 3 pillars (eth/swarm/whisper) how it informed his passion for zero knowledge cryptography and the technical applications of it to privacy-preservation his contributions to MoPro, a zk mobile proving toolkit that's bringing zk ever closer to reality on our phones his work on https://zkintro.com where he creates friendly resources to zero-knowledge cryptography from beginners to engineers to researchers, how his latest venture as one of the co-leads in the EF's newest task force, the Institutional Privacy Task Force, is bringing cypherpunk-grade privacy to the world's biggest financial institutions, and his 3-pronged mindset to achieving self-sovereignty you can catch the full interview on my youtube channel at: https://youtu.be/_BWRyIqCmVI --------------------------- if we're meeting for the first time, hi 👋! i spread the good word on good work in crypto. it's a challenging road fighting the cesspool that is crypto youtube... but im energized by creating principles-led, values-driven content a like, sub, comment, share goes a long way <3
 
-🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 2h ago
+🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 3h ago
+
+---
+
+**[BYBIT Is this payment email a scam? They're asking me to pay €200 to unlock my funds](https://www.reddit.com/r/ethereum/comments/1pjblka/bybit_is_this_payment_email_a_scam_theyre_asking/)**
+
+Hi everyone, I just wanted to ask for some advice because something feels off. I was expecting a money transfer, and I received an email saying that the payment had arrived, but the funds are "locked." To unlock the money, they say I must first make a €200 transaction. The email address they used is norplybitpaypronton.pay@gmail.com Pretty sure it's a fraud but I'd like to know your opinions. Thanks!
+
+12m ago
 
 ---
 
@@ -140,12 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Five years ago, an Ethereum standards author was threatened with trademark legal action over the name of a smart contract standard](https://www.reddit.com/r/ethereum/comments/1phe1xy/five_years_ago_an_ethereum_standards_author_was/)**
-
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -158,19 +160,19 @@ CoinDesk • 13h ago
 
 ---
 
-**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Spike Ahead of Fed Decision](https://decrypt.co/351640/crypto-shorts-rekt-bitcoin-ethereum-xrp-spike-ahead-fed-decision)**
+**[Prediction: If This 1 Policy Changes, Bitcoin and Ethereum Will Soar](https://www.fool.com/investing/2025/12/08/prediction-if-this-1-policy-changes-bitcoin-and-et/)**
 
-Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
+Japan is considering a big change to how it taxes crypto.
 
-Decrypt • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
-**[Ethereum Rises As Altcoin Season Fear Eases And Select Tokens Join The Move](https://finance.yahoo.com/news/ethereum-rises-altcoin-season-fear-164149277.html)**
+**[Ethereum Has Bottomed, Says BitMine Chairman Tom Lee—Here's Why](https://finance.yahoo.com/news/ethereum-bottomed-says-bitmine-chairman-183552349.html)**
 
-Sentiment across the market shows a mild improvement today, with the Fear and Greed Index rising to 30 after spending much of the past two weeks in the lower twenties and briefly touching extreme fear levels that had pushed many participants into defensive positioning. Bitcoin is trading near $92,000 after ...
+BitMine Immersion Technologies Chairman Tom Lee said Ethereum has bottomed—and his firm is aggressively buying as a result.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 50m ago
 
 ---
 
@@ -204,14 +206,6 @@ Fortune • 1d ago
 
 ---
 
-**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/07/3-reasons-to-buy-ethereum-before-january-2026/)**
-
-Ethereum could be once again on the path to the $5,000 price level. Here's why.
-
-The Motley Fool • 2d ago
-
----
-
 **[Ethereum's Game-Changing Move: $5,000 Target](https://www.tradingview.com/news/u_today:262b5f615094b:0-ethereum-s-game-changing-move-5-000-target/)**
 
 The chart finally shows a market that has stopped bleeding and begun to fight back, and Ethereum is about to enter a structurally critical phase. ETH has successfully reversed from the $2,700-$2,800 range after months of cascading sell pressure, printing a series of higher lows and pushing hard tow…
@@ -228,6 +222,14 @@ Nasdaq • 19h ago
 
 ---
 
+**[Why Crypto Is Going Up Today? Bitcoin, XRP Price, Ethereum and Dogecoin Jump Ahead of Fed Decision This Week](https://www.financemagnates.com/trending/why-crypto-is-going-up-today-bitcoin-xrp-price-ethereum-and-dogecoin-jump-ahead-of-fed-decision-this-week/)**
+
+The cryptocurrency market is flashing green during Monday's trading session, 8 December, 2025, prompting investors to ask why crypto is going up today .
+
+Finance Magnates • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +240,7 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 758 • 👍 50 • 💬 37 • ⏱️ 8:36 • 5h ago
+👁️ 758 • 👍 50 • 💬 37 • ⏱️ 8:36 • 6h ago
 
 ---
 
@@ -298,7 +300,7 @@ A huge ETH whale just opened a massive sized position. In today's video, Kyledoo
 
 📺 Crypto Banter
 
-👁️ 16K • 👍 1K • 💬 12 • ⏱️ 34:34 • 10h ago
+👁️ 16K • 👍 1K • 💬 12 • ⏱️ 34:34 • 11h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T18:59:07.580575+00:00'
+updated: '2025-12-10T19:26:22.742934+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 18:59 UTC  
+**Last Updated:** December 10, 2025 at 19:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 Just saw this paper published in Nature Communications and thought it was a massive leap for prosthetics The Problem: Conventional bionic hands require the user to "think" significantly about every muscle flex to trigger a grip. It’s mentally exhausting (high cognitive load). The Solution: The team at Utah equipped a prosthetic with Custom Sensors: Pressure and proximity sensors in the fingertips & AI Neural Network: Trained on natural human grasping patterns. Result: The hand "understands" what it's touching. If the user initiates a grasp, the AI takes over the fine motor control to secure the object (like a delicate egg or a heavy cup) without the user needing to micro manage the pressure. It basically creates a "reflex" system for the robotic hand, similar to how our biological spinal cord handles basic reflexes without bothering the brain. Source: Interesting Engineering/Nature Communications 🔗: https://interestingengineering.com/ai-robotics/ai-bionic-hand-grips-like-human
 
-10h ago
+11h ago
 
 ---
 
@@ -60,13 +60,13 @@ Just saw this paper published in Nature Communications and thought it was a mass
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Website: https://www.limxdynamics.com/en
 
-7h ago
+8h ago
 
 ---
 
 **[Humanoid: What’s Different About Their Wrist Design?](https://www.reddit.com/r/robotics/comments/1pj0xfe/humanoid_whats_different_about_their_wrist_design/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -74,7 +74,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Web
 
 Ever wonder how sudo apt install just  works  for ROS? That’s the magic of the OSRF Build Farm!  This beast serves over half a billion packages a year, saving us all from the headache of compiling from source. But maintaining this critical utility takes massive server power and a dedicated team of e
 
-🔗 [Open Robotics](https://www.openrobotics.org/blog/2025/12/8/new-build-farm-backer-program-amp-infra-team-swagnbsp) • 1h ago
+🔗 [Open Robotics](https://www.openrobotics.org/blog/2025/12/8/new-build-farm-backer-program-amp-infra-team-swagnbsp) • 2h ago
 
 ---
 
@@ -112,6 +112,14 @@ Hi everyone, I’m getting started with ROS2 and have been following the Husario
 
 ## Google News: "robotics"
 
+**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
+
+The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
+
+MLive.com • 1d ago
+
+---
+
 **[Israeli official says Gaza conflict was ‘first robotics war’](https://breakingdefense.com/2025/12/israeli-official-says-gaza-conflict-was-first-robotics-war/)**
 
 The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
@@ -120,17 +128,9 @@ Breaking Defense • 2d ago
 
 ---
 
-**[Army Special Forces Embracing Robots in All Domains](https://www.nationaldefensemagazine.org/articles/2025/12/8/army-special-forces-embracing-robots-in-all-domains)**
-
-Army Special Forces Embracing Robots in All Domains
-
-National Defense Magazine • 2d ago
-
----
-
 **[Houston ISD cancels high school robotics team trip to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-Chron • 1h ago
+Chron • 2h ago
 
 ---
 
@@ -138,7 +138,7 @@ Chron • 1h ago
 
 MONTEVIDEO, Uruguay & SALEM, Ore., December 10, 2025--Mercado Libre and Agility Robotics announced commercial to bring Agility's humanoid robot Digit into Mercado Libre’s facility in San Antonio, Texas.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -158,11 +158,27 @@ PYMNTS.com • 1d ago
 
 ---
 
-**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
+**[Naperville teens make history at international robotics competition](https://www.nctv17.org/news/naperville-teens-make-history-at-international-robotics-competition/)**
 
-The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
+Three Naperville teens are making a name for themselves in the world of robotics and showing other young girls they can do the same.
 
-MLive.com • 1d ago
+NCTV17 • 18h ago
+
+---
+
+**[Army Special Forces Embracing Robots in All Domains](https://www.nationaldefensemagazine.org/articles/2025/12/8/army-special-forces-embracing-robots-in-all-domains)**
+
+Army Special Forces Embracing Robots in All Domains
+
+National Defense Magazine • 2d ago
+
+---
+
+**[A Sober Look at Amazon’s Automation Drive](https://jacobin.com/2025/12/amazon-robots-automation-workforce-ai)**
+
+As Amazon rolls out its millionth robot on the warehouse floor, it is important to recognize that the company is not any closer to ridding itself of the burden of human labor. Amazon can still be unionized.
+
+Jacobin • 4h ago
 
 ---
 
@@ -171,22 +187,6 @@ MLive.com • 1d ago
 If you’re going to kill animals for food, don’t waste their parts – that’s just rude. Use everything, snout-to-tail, and not just bones for glue or stomachs for drink-bags, either. Get creative!
 
 New Atlas • 1d ago
-
----
-
-**[China’s Deep Robotics raises US$70 million as sector draws more investors](https://www.scmp.com/tech/tech-trends/article/3335806/chinas-deep-robotics-raises-us70-million-fresh-funds-sector-draws-more-investors)**
-
-Company founder Zhu Qiuguo says the new funding would be used for research and the recruitment of top robotics talent.
-
-South China Morning Post • 17h ago
-
----
-
-**[Skana Robotics unveils Alligator autonomous amphibious vessel](https://www.therobotreport.com/skana-robotics-unveils-alligator-autonomous-amphibious-vessel/)**
-
-The Alligator is an autonomous amphibious vessel designed to deliver logistics, sensors, and personnel between water and land.
-
-The Robot Report • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 46K • 👍 1K • 💬 324 • ⏱️ 14:26 • 1d ago
+👁️ 46K • 👍 1K • 💬 324 • ⏱️ 14:26 • 2d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T18:59:07.562203+00:00'
+updated: '2025-12-10T19:26:22.727434+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
+- videos
 - social
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 18:59 UTC  
+**Last Updated:** December 10, 2025 at 19:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,13 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 Im not sure if this was discussed before. But LLMs can understand Base64 encoded prompts and they injest it like normal prompts. This means non human readable text prompts understood by the AI model. Tested with Gemini, ChatGPT and Grok.
 
-17h ago
+18h ago
+
+---
+
+**[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
+
+🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 2h ago
 
 ---
 
@@ -75,31 +81,11 @@ Reprogrammable humanoid robots could level the global manufacturing playing fiel
 
 ---
 
-**[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
-
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 2h ago
-
----
-
 **[Tesla Optimus's fall in Miami demo sparks remote operation debate](https://www.reddit.com/r/artificial/comments/1pi9nj4/tesla_optimuss_fall_in_miami_demo_sparks_remote/)**
 
 While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
 🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 1d ago
-
----
-
-**[Three in 10 US teens use AI chatbots every day, but safety concerns are growing](https://www.reddit.com/r/artificial/comments/1pj7cio/three_in_10_us_teens_use_ai_chatbots_every_day/)**
-
-While teenagers may start out using AI chatbots for basic questions, their relationship with chatbot platforms has the potential to turn addictive.
-
-🔗 [TechCrunch](https://techcrunch.com/2025/12/09/three-in-ten-u-s-teens-use-ai-chatbots-every-day-but-safety-concerns-are-growing/) • 2h ago
-
----
-
-**[AI didn't replace me but it replaced my need for developers](https://www.reddit.com/r/artificial/comments/1pj5z5d/ai_didnt_replace_me_but_it_replaced_my_need_for/)**
-
-🔗 [ecency.com](https://ecency.com/@fullcoverbetting/ai-didnt-replace-me-but-it-replaced-my-need-for-developers-4g4) • 3h ago
 
 ---
 
@@ -111,29 +97,43 @@ I’ve spent the last year really putting AI to work, writing content, handling 
 
 ---
 
+**[Trump’s push for more AI data centers faces backlash from his own voters](https://www.reddit.com/r/artificial/comments/1pj7pr6/trumps_push_for_more_ai_data_centers_faces/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/retail-consumer/trumps-push-more-ai-data-centers-faces-backlash-his-own-voters-2025-12-01/) • 2h ago
+
+---
+
+**[Three in 10 US teens use AI chatbots every day, but safety concerns are growing](https://www.reddit.com/r/artificial/comments/1pj7cio/three_in_10_us_teens_use_ai_chatbots_every_day/)**
+
+While teenagers may start out using AI chatbots for basic questions, their relationship with chatbot platforms has the potential to turn addictive.
+
+🔗 [TechCrunch](https://techcrunch.com/2025/12/09/three-in-ten-u-s-teens-use-ai-chatbots-every-day-but-safety-concerns-are-growing/) • 2h ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
 **[Meta’s New A.I. Superstars Are Chafing Against the Rest of the Company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)**
 
-The New York Times • 3h ago
+The New York Times • 9h ago
 
 ---
 
-**[From Llamas to Avocados: Meta's shifting AI strategy is causing internal confusion](https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html)**
+**[Inside Meta’s Pivot From Open Source to Money-Making AI Model](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model)**
 
-Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
+Meta Platforms Inc.’s Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting the company’s focus to an artificial intelligence model it can make money off of.
 
-CNBC • 1d ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Meta divided by conflict between new AI brainiacs and longtime Zuck loyalists: report](https://nypost.com/2025/12/10/business/meta-riven-by-conflict-between-new-ai-brainiacs-and-longtime-zuck-loyalists-report/)**
+**[Meta might charge for a future AI model](https://www.theverge.com/news/841809/meta-avocado-ai-model-charge-open-source-mark-zuckerberg)**
 
-A key player in the alleged conflict is Alexandr Wang, the 28-year-old founder of Scale AI who joined Meta after it paid $15 billion for his startup. He now leads the TBD Lab of researchers.
+A strategy shift for Meta’s AI group?
 
-New York Post • 53m ago
+The Verge • 40m ago
 
 ---
 
@@ -141,7 +141,7 @@ New York Post • 53m ago
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -149,7 +149,7 @@ BBC • 6h ago
 
 Viewers blasted McDonald's satirical commercial as offensive, with critics questioning why anyone would 'ditch your family and hide in McDonald's.'
 
-Los Angeles Times • 14h ago
+Los Angeles Times • 15h ago
 
 ---
 
@@ -157,39 +157,33 @@ Los Angeles Times • 14h ago
 
 McDonald’s Netherlands pulled its AI-made holiday ad after viewers blasted the spot’s unsettling visuals.
 
-10tv.com • 32m ago
+10tv.com • 59m ago
 
 ---
 
-**[AI firms began to feel the legal wrath of copyright holders in 2025](https://www.newscientist.com/article/2502650-ai-firms-began-to-feel-the-legal-wrath-of-copyright-holders-in-2025/)**
+**[Navy Strikes Deal With Palantir for AI Overhaul of Submarine Maintenance](https://www.wsj.com/business/logistics/navy-strikes-deal-with-palantir-for-ai-overhaul-of-submarine-maintenance-848f15f2?gaa_at=eafs&gaa_n=AWEtsqfaDI8MPj89LJzTOb-3Df0seTpgrduIYsJ7RNLK_ZyXW1i1rnsKo7ou&gaa_ts=6939ccc0&gaa_sig=Rul5klZ5goV4rkqNwd-sI08pLg-hCCnD-ryN90fzEBUsJoiWleU9wfNFKDlfWIWBhfJ8Kg70ODyE5BADAAgO4Q%3D%3D)**
 
-Big AI firms have built their models by hoovering up copyrighted material from the internet as training data. They say this legal, but copyright holders disagree - and this year they hit back in a major way
-
-New Scientist • 23m ago
+The Wall Street Journal • 20h ago
 
 ---
 
-**[AI Business Deals Are Getting a Bit 2008-ish](https://www.theatlantic.com/economy/2025/12/nvidia-ai-financing-deals/685197/)**
+**[Navy, Palantir Announce $448M ‘Ship OS’ AI Tool for Shipbuilding and Repair](https://news.usni.org/2025/12/09/navy-palantir-announce-448m-ship-os-ai-tool-for-shipbuilding-and-repair)**
 
-The last time so much wealth was tied up in such obscure overlapping arrangements was just before the 2008 financial crisis.
-
-The Atlantic • 46m ago
+USNI News • 19h ago
 
 ---
 
-**[China’s DeepSeek Uses Banned Nvidia Chips for AI Model, Report Says](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)**
+**[Navy Says AI Cut 160-Hour Submarine-Planning Job to 10 Minutes](https://www.businessinsider.com/navy-ai-cut-hourslong-submarine-planning-job-to-minutes-2025-12)**
 
-Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
+The Navy is investing almost half a billion dollars in Palantir artificial intelligence software that promises to speed up shipbuilding processes.
 
-Yahoo Finance • 4h ago
+Business Insider • 22m ago
 
 ---
 
-**[China adds domestic AI chips to official procurement list for first time](https://www.ft.com/content/83c6521e-fe42-49e2-a9fe-eda97168b316)**
+**[Google’s AI momentum continues as Gemini scores another victory over ChatGPT](https://www.marketwatch.com/story/googles-ai-momentum-continues-as-gemini-scores-another-victory-over-chatgpt-16946689?gaa_at=eafs&gaa_n=AWEtsqc4Yl1ZTdyiE-8WUsO8lAoRKClcw28ykCmBB7th-X2iobJQ9-sBJtBI&gaa_ts=6939ccc0&gaa_sig=0994dXAS4IsA4VSKVBf9mwKNP6V3yIv8q707godXIVRpXOL4lZL7qqgibC66DSLH3mgqf2GUz7EeRMwW8KBt_Q%3D%3D)**
 
-Beijing encouraged purchase of Huawei and Cambricon processors before Trump’s move to allow Nvidia exports
-
-Financial Times • 17h ago
+MarketWatch • 42m ago
 
 ---
 
@@ -201,7 +195,7 @@ Financial Times • 17h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 565 • 💬 584 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 565 • 💬 585 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -217,7 +211,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 342 • 💬 407 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 342 • 💬 409 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -225,21 +219,13 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 275 • 💬 126 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 277 • 💬 126 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 191 • 💬 175 • 2d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
-
----
-
-**[NYC congestion pricing cuts air pollution by a fifth in six months](https://news.ycombinator.com/item?id=46213504)**
-
-In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
-
-⬆️ 157 • 💬 189 • 16h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 191 • 💬 176 • 2d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -247,7 +233,15 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 147 • 💬 102 • 2h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 189 • 💬 149 • 2h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+
+---
+
+**[NYC congestion pricing cuts air pollution by a fifth in six months](https://news.ycombinator.com/item?id=46213504)**
+
+In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
+
+⬆️ 159 • 💬 190 • 16h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -255,7 +249,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 117 • 💬 24 • 22h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+⬆️ 118 • 💬 24 • 23h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -263,7 +257,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 77 • 💬 101 • 6h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 82 • 💬 108 • 6h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -271,7 +265,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
 
-⬆️ 64 • 💬 86 • 17h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 64 • 💬 87 • 17h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
 
 ---
 
@@ -285,7 +279,7 @@ Access All Image Models with OpenArt https://roboverse-ai.com/Image-Generators I
 
 📺 Roboverse
 
-👁️ 4K • 💬 4 • ⏱️ 12:32 • 3h ago
+👁️ 4K • 💬 4 • ⏱️ 12:32 • 4h ago
 
 ---
 
@@ -295,7 +289,7 @@ Zhipu AI just dropped the first real open source AI agent, and the entire indust
 
 📺 AI Revolution
 
-👁️ 27K • 👍 1K • 💬 52 • ⏱️ 12:50 • 18h ago
+👁️ 27K • 👍 1K • 💬 52 • ⏱️ 12:50 • 19h ago
 
 ---
 
@@ -305,7 +299,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 861K • 👍 43K • 💬 5K • ⏱️ 8:35 • 22h ago
+👁️ 861K • 👍 43K • 💬 5K • ⏱️ 8:35 • 23h ago
 
 ---
 
@@ -315,7 +309,7 @@ In this episode, I sit down with @elonmusk for a wide-ranging conversation on DO
 
 📺 Katie Miller Pod
 
-👁️ 165K • 👍 8K • 💬 2K • ⏱️ 52:58 • 19h ago
+👁️ 165K • 👍 8K • 💬 2K • ⏱️ 52:58 • 20h ago
 
 ---
 
@@ -325,7 +319,7 @@ Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/d
 
 📺 Matthew Berman
 
-👁️ 47K • 👍 1K • 💬 176 • ⏱️ 9:41 • 19h ago
+👁️ 47K • 👍 1K • 💬 176 • ⏱️ 9:41 • 20h ago
 
 ---
 
@@ -391,7 +385,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 67,717 • ❤️ 650 • 1d ago
+⬇️ 67,717 • ❤️ 651 • 1d ago
 
 ---
 
@@ -403,7 +397,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 232,896 • ❤️ 2,473 • 2d ago
+⬇️ 232,896 • ❤️ 2,474 • 2d ago
 
 ---
 
@@ -415,7 +409,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 10,031 • ❤️ 289 • 1d ago
+⬇️ 10,031 • ❤️ 290 • 1d ago
 
 ---
 
@@ -427,7 +421,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 1,305 • ❤️ 238 • 1d ago
+⬇️ 1,305 • ❤️ 239 • 1d ago
 
 ---
 
@@ -439,7 +433,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 40,667 • ❤️ 856 • 9d ago
+⬇️ 40,667 • ❤️ 857 • 9d ago
 
 ---
 
@@ -451,7 +445,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 208 • 2h ago
+⬇️ 2,414 • ❤️ 211 • 2h ago
 
 ---
 
@@ -463,7 +457,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 `text-generation` `8.3B`
 
-⬇️ 444,785 • ❤️ 182 • 1d ago
+⬇️ 444,785 • ❤️ 184 • 1d ago
 
 ---
 
@@ -475,7 +469,7 @@ LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusi
 
 `text-to-image`
 
-⬇️ 449 • ❤️ 171 • 1d ago
+⬇️ 449 • ❤️ 173 • 1d ago
 
 ---
 
@@ -691,7 +685,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 129 • 9h ago
+⭐ 1.0k • 🔱 129 • 10h ago
 
 ---
 
