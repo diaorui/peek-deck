@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T11:53:39.137318+00:00'
+updated: '2025-12-10T12:38:34.171135+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - social
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 11:53 UTC  
+**Last Updated:** December 10, 2025 at 12:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** +0.0%  
+**24h:** +1.9%  
+**7d:** +0.1%  
 **30d:** -10.7%  
-**90d:** -20.7%  
-**1y:** -8.8%  
+**90d:** -20.6%  
+**1y:** -8.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1841.94B
+**Market Cap:** $1837.89B
 Rank #1
 
-**Circulating Supply:** 19,960,162 BTC
+**Circulating Supply:** 19,960,175 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.9%
+-27.0%
 
 **All-Time Low:** $67.81
-+135769.3%
++135627.8%
 
 ---
 
@@ -81,19 +81,13 @@ Rank #1
 
 The Mods don't want you to see bullish memes. Vote against the bears.
 
-5h ago
-
----
-
-**[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
-
-11h ago
+6h ago
 
 ---
 
 **[Idk how you guys didn't see through this](https://www.reddit.com/r/Bitcoin/comments/1piox5t/idk_how_you_guys_didnt_see_through_this/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -105,23 +99,35 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 ---
 
-**[Zoom out, get rid of the charts and enjoy life.](https://www.reddit.com/r/Bitcoin/comments/1piv80p/zoom_out_get_rid_of_the_charts_and_enjoy_life/)**
+**[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
 
-Sooner or later it will bounce to new highs, or not
-
-5h ago
+12h ago
 
 ---
 
 **[.](https://www.reddit.com/r/Bitcoin/comments/1pix5b9/_/)**
 
-3h ago
+4h ago
+
+---
+
+**[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
+
+2h ago
+
+---
+
+**[Zoom out, get rid of the charts and enjoy life.](https://www.reddit.com/r/Bitcoin/comments/1piv80p/zoom_out_get_rid_of_the_charts_and_enjoy_life/)**
+
+Sooner or later it will bounce to new highs, or not
+
+6h ago
 
 ---
 
 **[BTC is back, 2026 Bullrun Are you ready?](https://www.reddit.com/r/Bitcoin/comments/1piw0ft/btc_is_back_2026_bullrun_are_you_ready/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -131,17 +137,11 @@ Sooner or later it will bounce to new highs, or not
 
 ---
 
-**[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
-
-1h ago
-
----
-
 **[$94,000 vanished before I could wake up.](https://www.reddit.com/r/Bitcoin/comments/1pisu13/94000_vanished_before_i_could_wake_up/)**
 
 I saw notifications of $94,000 BTC on my phone on waking up. Too bad it was already gone.
 
-7h ago
+8h ago
 
 ---
 
@@ -153,7 +153,7 @@ I saw notifications of $94,000 BTC on my phone on waking up. Too bad it was alre
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -161,33 +161,33 @@ CNBC • 17h ago
 
 Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqcykalvUpwmX223wfYyedVzwb-VSjxLQubdUe-Rtsr1vAYk8bXckozU&gaa_ts=6939600f&gaa_sig=oDIm58hhaa2vL7cidWbR8OwAwVSb-xd6A5x6EwhV_n__cpW59mOHlCnVXj8lSw4em3SmQN422KSHaoSbHJhQrg%3D%3D)**
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqdL4-x3UlRNdUF1kqZsjHnYdUvFLFjWNTPhsGkNF6axPm0sUvvHz5u2&gaa_ts=69396d2f&gaa_sig=TUYBofhplNsPPQc1l4YKdk8ZXvmG9x0Pfenyld9eN6prPaFssSLOao-vXOcE_KajJ_0X0lU7sRJG39PJ8YpDpQ%3D%3D)**
 
-MarketWatch • 12h ago
+MarketWatch • 13h ago
 
 ---
 
 **[Bitcoin treasury XXI shares sink 20% in NYSE debut despite rising BTC price](https://www.theblock.co/post/381975/twenty-one-shares-sink-20-nyse-debut-despite-rising-bitcoin-price)**
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
-**[Bitcoin Price Jumps As Tether-Backed Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
+**[Twenty One Capital Drops in NYSE Debut as Bitcoin Treasury Firms Face ‘Broader Re-Pricing’](https://finance.yahoo.com/news/twenty-one-capital-drops-nyse-115955127.html)**
 
-Investor's Business Daily • 12h ago
+The debut underperformed its SPAC benchmark, as investors pull back from Bitcoin treasury plays in favor of clearer operating models.
+
+Yahoo Finance • 38m ago
 
 ---
 
-**[Bitcoin Firm Twenty One Falls 20% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
+**[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
-
-Bloomberg.com • 14h ago
+Investor's Business Daily • 55m ago
 
 ---
 
@@ -195,7 +195,15 @@ Bloomberg.com • 14h ago
 
 Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
+
+---
+
+**[How Bitcoin Could Help You Retire a Millionaire](https://finance.yahoo.com/news/bitcoin-could-help-retire-millionaire-113500287.html)**
+
+To become a Bitcoin millionaire, you will need to make a few changes to your investment mindset.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -211,15 +219,7 @@ Seeking Alpha • 1h ago
 
 If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
 
-NPR • 3h ago
-
----
-
-**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
-
-BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
-
-Bloomberg.com • 1d ago
+NPR • 4h ago
 
 ---
 
@@ -269,7 +269,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 28m ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -277,7 +277,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 18h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 19h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -313,7 +313,7 @@ Anthony and John Pompliano dig into what's really at stake at the upcoming Feder
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 816 • 💬 15 • ⏱️ 35:48 • 13h ago
+👁️ 21K • 👍 816 • 💬 15 • ⏱️ 35:48 • 14h ago
 
 ---
 
@@ -343,7 +343,7 @@ Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation o
 
 📺 Bitcoin Magazine
 
-👁️ 60K • 👍 2K • 💬 279 • ⏱️ 42:27 • 19h ago
+👁️ 60K • 👍 2K • 💬 279 • ⏱️ 42:27 • 20h ago
 
 ---
 
@@ -353,7 +353,7 @@ In this clip, I talk about a major macro event that could impact bitcoin and cry
 
 📺 CryptosRus Extra
 
-👁️ 7K • 👍 491 • 💬 106 • ⏱️ 8:42 • 11h ago
+👁️ 7K • 👍 491 • 💬 106 • ⏱️ 8:42 • 12h ago
 
 ---
 
@@ -363,7 +363,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 33K • 👍 2K • 💬 189 • ⏱️ 44:49 • 20h ago
+👁️ 33K • 👍 2K • 💬 189 • ⏱️ 44:49 • 21h ago
 
 ---
 
@@ -373,7 +373,7 @@ Michael Saylor drops a BOMBSHELL at Bitcoin MENA that PROVES 2026 is gonna be BU
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 644 • 💬 120 • ⏱️ 1:20:17 • 16h ago
+👁️ 13K • 👍 644 • 💬 120 • ⏱️ 1:20:17 • 17h ago
 
 ---
 
@@ -393,7 +393,7 @@ Let's talk about the price of #Bitcoin going into FOMC! Into The Cryptoverse Pre
 
 📺 Benjamin Cowen
 
-👁️ 74K • 👍 4K • 💬 164 • ⏱️ 9:09 • 22h ago
+👁️ 74K • 👍 4K • 💬 164 • ⏱️ 9:09 • 23h ago
 
 ---
 
@@ -403,7 +403,7 @@ Michael Saylor declares he's more bullish than ever, stating his team can buy mo
 
 📺 Bitcoin Magazine
 
-👁️ 10K • 👍 257 • 💬 30 • ⏱️ 0:36 • 20h ago
+👁️ 10K • 👍 257 • 💬 30 • ⏱️ 0:36 • 21h ago
 
 ---
 

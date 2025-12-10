@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T11:53:39.143408+00:00'
+updated: '2025-12-10T12:38:34.176876+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - social
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 11:53 UTC  
+**Last Updated:** December 10, 2025 at 12:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.2%  
-**7d:** +5.5%  
-**30d:** -3.2%  
-**90d:** -29.6%  
-**1y:** -13.8%  
+**24h:** +6.5%  
+**7d:** +6.0%  
+**30d:** -2.8%  
+**90d:** -29.4%  
+**1y:** -13.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $399.96B
+**Market Cap:** $400.44B
 Rank #2
 
 **Circulating Supply:** 120,695,213 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--33.1%
+-32.9%
 
 **All-Time Low:** $0.43
-+764011.0%
++765842.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-13h ago
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ ive been looking at bitwage to receive my paycheck in USDC but i wanted to know 
 
 Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot wallet (non-hardware) that actually supports custom HD derivation at the account level and BIP39 passphrases (25th word). Surprisingly, this combo seems to be mostly available only on hardware wallets or very niche software. Most mainstream hot wallets either lock derivation paths or ignore passphrases completely. So far, the only hot wallet I personally found that seems to support both is TokenPocket. According to their docs, keys stay on-device and they allow more flexibility than most wallets. Before fully committing, I’m curious: Has anyone here actually used TokenPocket with custom derivation paths + passphrase? Any thoughts on its security model or reputation? Are there any other hot wallets I might be missing (mobile / desktop / CLI) that support this kind of setup for Ethereum / EVM? I know this is more of a power-user thing, but I’m guessing some of you have gone through the same search. Appreciate any insight 🙏
 
-20h ago
+21h ago
 
 ---
 
@@ -154,29 +154,31 @@ AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ether
 
 Despite the breakout, DOGE faces significant structural resistance from major EMAs.
 
-CoinDesk • 6h ago
+CoinDesk • 13m ago
 
 ---
 
-**[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
+**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Spike Ahead of Fed Decision](https://decrypt.co/351640/crypto-shorts-rekt-bitcoin-ethereum-xrp-spike-ahead-fed-decision)**
 
-Binance • 1d ago
+Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
----
-
-**[Better Buy: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-buy-xrp-vs-ethereum)**
-
-Key PointsEthereum has built a strong user base and frequently generates over $10 million in daily app fees.
-
-Nasdaq • 19h ago
+Decrypt • 19h ago
 
 ---
 
-**[Why Crypto Is Going Up Today? Bitcoin, XRP Price, Ethereum and Dogecoin Jump Ahead of Fed Decision This Week](https://www.financemagnates.com/trending/why-crypto-is-going-up-today-bitcoin-xrp-price-ethereum-and-dogecoin-jump-ahead-of-fed-decision-this-week/)**
+**[Trump Tariff Whale’s $100M ETH Long Bet as ETH USD Faces Supply Shock: Ethereum Price Prediction Ready to Explode?](https://finance.yahoo.com/news/trump-tariff-whale-100m-eth-155334139.html)**
 
-The cryptocurrency market is flashing green during Monday's trading session, 8 December, 2025, prompting investors to ask why crypto is going up today .
+Poland crypto industry scored a major win this week, as plans to move ahead with new crypto rules stalled on Friday after lawmakers failed to override President Andrzej Duda’s veto. The setback slows Prime Minister Donald Tusk’s effort to align national policy with the European Union’s MiCA framework. The Sejm, ...
 
-Finance Magnates • 2d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Ethereum Price Gears Up for a Breakout—Can ETH Outperform BTC Into the Year-End?](https://www.tradingview.com/news/coinpedia:4bc4baf33094b:0-ethereum-price-gears-up-for-a-breakout-can-eth-outperform-btc-into-the-year-end/)**
+
+Ethereum is compressing just below a critical resistance band near $3,300–$3,350, even as the broader crypto market remains unsettled by Bitcoin’s choppy price action around $43,000–$44,000. Despite the volatility, the ETH price has defended support near $3,050, forming a tight consolidation range…
+
+TradingView • 1d ago
 
 ---
 
@@ -188,17 +190,17 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[The Daily: Robinhood's expansion plans, BlackRock's staked Ethereum ETF filing, Strategy's biggest Bitcoin buy since July, and more](https://www.theblock.co/post/381770/the-daily-robinhoods-expansion-plans-blackrocks-staked-ethereum-etf-filing-strategys-biggest-bitcoin-buy-since-july-and-more)**
+
+The Block • 1d ago
+
+---
+
 **[Bitcoin ETF Giant BlackRock Files to Launch Ethereum Staking ETF](https://decrypt.co/351469/bitcoin-etf-giant-blackrock-files-launch-ethereum-staking-etf)**
 
 Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
 Decrypt • 1d ago
-
----
-
-**[The Daily: Robinhood's expansion plans, BlackRock's staked Ethereum ETF filing, Strategy's biggest Bitcoin buy since July, and more](https://www.theblock.co/post/381770/the-daily-robinhoods-expansion-plans-blackrocks-staked-ethereum-etf-filing-strategys-biggest-bitcoin-buy-since-july-and-more)**
-
-The Block • 1d ago
 
 ---
 
@@ -210,19 +212,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Prediction: If This 1 Policy Changes, Bitcoin and Ethereum Will Soar](https://www.fool.com/investing/2025/12/08/prediction-if-this-1-policy-changes-bitcoin-and-et/)**
-
-Japan is considering a big change to how it taxes crypto.
-
-The Motley Fool • 2d ago
-
----
-
 **[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
 
 The trading platform dives further into digital assets both domestically and globally.
 
 Fortune • 1d ago
+
+---
+
+**[Prediction: If This 1 Policy Changes, Bitcoin and Ethereum Will Soar](https://www.fool.com/investing/2025/12/08/prediction-if-this-1-policy-changes-bitcoin-and-et/)**
+
+Japan is considering a big change to how it taxes crypto.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -236,7 +238,7 @@ Bitcoin and Ethereum surged amid anticipation that the US central bank will cut 
 
 📺 Paul Barron Network
 
-👁️ 42K • 👍 2K • 💬 102 • ⏱️ 20:14 • 15h ago
+👁️ 42K • 👍 2K • 💬 102 • ⏱️ 20:14 • 16h ago
 
 ---
 
@@ -276,7 +278,7 @@ A huge ETH whale just opened a massive sized position. In today's video, Kyledoo
 
 📺 Crypto Banter
 
-👁️ 9K • 👍 825 • 💬 7 • ⏱️ 34:34 • 3h ago
+👁️ 9K • 👍 825 • 💬 7 • ⏱️ 34:34 • 4h ago
 
 ---
 
@@ -286,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 203 • 💬 8 • ⏱️ 5:16 • 9h ago
+👁️ 3K • 👍 203 • 💬 8 • ⏱️ 5:16 • 10h ago
 
 ---
 
@@ -296,7 +298,7 @@ BITCOIN & ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 8K • 👍 309 • 💬 81 • ⏱️ 21:02 • 12h ago
+👁️ 8K • 👍 309 • 💬 81 • ⏱️ 21:02 • 13h ago
 
 ---
 
@@ -306,7 +308,7 @@ BitMine Immersion Technologies just made a $435 million ETH acquisition, bringin
 
 📺 CoinDesk
 
-👁️ 842 • 👍 9 • 💬 11 • ⏱️ 1:12 • 20h ago
+👁️ 842 • 👍 9 • 💬 11 • ⏱️ 1:12 • 21h ago
 
 ---
 
