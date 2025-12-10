@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T23:24:29.467249+00:00'
+updated: '2025-12-10T23:39:07.089735+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 23:24 UTC  
+**Last Updated:** December 10, 2025 at 23:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.1%  
-**7d:** +0.1%  
-**30d:** -10.7%  
+**24h:** +0.2%  
+**7d:** +0.2%  
+**30d:** -10.6%  
 **90d:** -20.6%  
-**1y:** -8.7%  
+**1y:** -8.6%  
 
 ---
 
@@ -95,7 +95,7 @@ Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young
 
 Bottom tex
 
-8h ago
+9h ago
 
 ---
 
@@ -143,7 +143,7 @@ Just sold 100% of my stocks and went all in on bitcoin instead of the previous 6
 
 Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exchange in Malaysia). We dont know what happened and how it happend. 2FA was in place so we really have no clue how the bitcoin moved. Please see photos attached for txid. Would appreciate your insight on what happened and how it happened so it doesn't happen again. Yes we know not your keys not your coin.... Lesson learnt the hard way... Many thanks for your help!
 
-12h ago
+13h ago
 
 ---
 
@@ -183,7 +183,7 @@ Barron's • 1d ago
 
 If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
 
-CNBC • 35m ago
+CNBC • 50m ago
 
 ---
 
@@ -197,7 +197,7 @@ Bloomberg.com • 2d ago
 
 **[Bitcoin ETFs turn positive with $152 million in inflows ahead of Fed rate decision, while traders stay defensive amid expected volatility: analysts](https://www.theblock.co/post/382038/bitcoin-etfs-turn-positive-with-152-million-in-inflows-ahead-of-fed-rate-decision-while-traders-stay-defensive-amid-expected-volatility-analysts)**
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -261,7 +261,7 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 11h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 12h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -297,7 +297,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 The Ethereum Fusaka upgrade adds PeerDAS and scalability gains, enhancing Ethereum’s performance and supporting faster growth across Layer 2 solutions.
 
-⬆️ 1 • 💬 0 • 10h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/learn/ethereum-fusaka-upgrade-set-for-early-december-rollout-will-we-finally-see-altseason/)
+⬆️ 1 • 💬 0 • 11h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/learn/ethereum-fusaka-upgrade-set-for-early-december-rollout-will-we-finally-see-altseason/)
 
 ---
 

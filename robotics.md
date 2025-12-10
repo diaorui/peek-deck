@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T23:24:29.476568+00:00'
+updated: '2025-12-10T23:39:07.098966+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 23:24 UTC  
+**Last Updated:** December 10, 2025 at 23:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ We created a comprehensive representation of dexterous robotic hands as of 2025.
 
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
 
-12h ago
+13h ago
 
 ---
 
@@ -286,7 +286,7 @@ At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the 
 
 📺 AI Robot Lab
 
-👁️ 41K • 👍 216 • 💬 4 • ⏱️ 0:20 • 9h ago
+👁️ 41K • 👍 216 • 💬 4 • ⏱️ 0:20 • 10h ago
 
 ---
 

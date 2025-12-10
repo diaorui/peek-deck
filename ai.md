@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T23:24:29.458838+00:00'
+updated: '2025-12-10T23:39:07.081293+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- social
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 23:24 UTC  
+**Last Updated:** December 10, 2025 at 23:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[AI companies basically:](https://www.reddit.com/r/artificial/comments/1pj41sq/ai_companies_basically/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -85,7 +85,7 @@ A lot of people use the term “AI hallucination,” but many don’t clearly un
 
 Reprogrammable humanoid robots could level the global manufacturing playing field, Arm CEO Rene Haas said at Fortune Brainstorm AI.
 
-🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 13h ago
+🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 14h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Guardian • 5h ago
 
 As holiday shoppers grapple with finding gifts for challenging recipients, artificial intelligence could be the perfect holiday helper.
 
-ClickOnDetroit | WDIV Local 4 • 27m ago
+ClickOnDetroit | WDIV Local 4 • 42m ago
 
 ---
 
@@ -229,7 +229,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 270 • 💬 242 • 6h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 270 • 💬 242 • 7h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -267,7 +267,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
 
-⬆️ 68 • 💬 89 • 21h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 68 • 💬 89 • 22h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
 
 ---
 
@@ -281,7 +281,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 18K • 👍 1K • 💬 198 • ⏱️ 14:55 • 5h ago
+👁️ 18K • 👍 1K • 💬 198 • ⏱️ 14:55 • 6h ago
 
 ---
 
@@ -311,7 +311,7 @@ Zhipu AI just dropped the first real open source AI agent, and the entire indust
 
 📺 AI Revolution
 
-👁️ 31K • 👍 1K • 💬 56 • ⏱️ 12:50 • 22h ago
+👁️ 31K • 👍 1K • 💬 56 • ⏱️ 12:50 • 23h ago
 
 ---
 
@@ -371,7 +371,7 @@ Breakdown is a part of Zero1 Network - https://zero1byzerodha.com/network Report
 
 📺 Breakdown
 
-👁️ 18K • 👍 1K • 💬 104 • ⏱️ 36:56 • 12h ago
+👁️ 18K • 👍 1K • 💬 104 • ⏱️ 36:56 • 13h ago
 
 ---
 
@@ -447,7 +447,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 220 • 6h ago
+⬇️ 2,414 • ❤️ 220 • 7h ago
 
 ---
 

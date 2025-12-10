@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T23:24:29.473313+00:00'
+updated: '2025-12-10T23:39:07.095745+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 23:24 UTC  
+**Last Updated:** December 10, 2025 at 23:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.9%  
-**7d:** +6.6%  
-**30d:** -2.2%  
-**90d:** -28.9%  
-**1y:** -12.9%  
+**24h:** +0.6%  
+**7d:** +6.3%  
+**30d:** -2.5%  
+**90d:** -29.1%  
+**1y:** -13.1%  
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BitMine Immersion Technologies Chairman Tom Lee said Ethereum has bottomed—and his firm is aggressively buying as a result.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 223 • 💬 8 • ⏱️ 6:52 • 6h ago
+👁️ 3K • 👍 223 • 💬 8 • ⏱️ 6:52 • 7h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 227 • 💬 8 • ⏱️ 5:16 • 20h ago
+👁️ 4K • 👍 227 • 💬 8 • ⏱️ 5:16 • 21h ago
 
 ---
 
@@ -290,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 720 • 👍 33 • 💬 1 • ⏱️ 4:47 • 13h ago
+👁️ 720 • 👍 33 • 💬 1 • ⏱️ 4:47 • 14h ago
 
 ---
 
@@ -300,7 +300,7 @@ Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=a
 
 📺 Altcoin Daily
 
-👁️ 67K • 👍 4K • 💬 327 • ⏱️ 12:03 • 23h ago
+👁️ 67K • 👍 4K • 💬 327 • ⏱️ 12:03 • 1d ago
 
 ---
 
@@ -330,7 +330,7 @@ I think people in the future will look back at this time in the cryptocurrency m
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 900 • 💬 79 • ⏱️ 19:13 • 13h ago
+👁️ 7K • 👍 900 • 💬 79 • ⏱️ 19:13 • 14h ago
 
 ---
 
