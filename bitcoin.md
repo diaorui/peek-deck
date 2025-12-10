@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T04:42:17.326794+00:00'
+updated: '2025-12-10T04:59:35.328834+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 04:42 UTC  
+**Last Updated:** December 10, 2025 at 04:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,557.49
+### $92,494.36
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ Rank #1
 
 **[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -181,7 +181,7 @@ MarketWatch • 5h ago
 
 The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Motley Fool • 5h ago
 
 **[Bitcoin and ether surge on eve of FOMC decision fueling wave of liquidations](https://www.theblock.co/post/381935/bitcoin-ether-surge-eve-fomc-decision-fueling-wave-liquidations)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -285,7 +285,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 12h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 13h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -337,7 +337,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 20K • 👍 1K • 💬 299 • ⏱️ 7:23 • 10h ago
+👁️ 20K • 👍 1K • 💬 299 • ⏱️ 7:23 • 11h ago
 
 ---
 
@@ -357,7 +357,7 @@ Jack Mallers, Tether, SoftBank, and Cantor Fitzgerald just launched the most exp
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 1K • 💬 96 • ⏱️ 16:39 • 4h ago
+👁️ 11K • 👍 1K • 💬 96 • ⏱️ 16:39 • 5h ago
 
 ---
 

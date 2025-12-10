@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T04:42:17.319272+00:00'
+updated: '2025-12-10T04:59:35.320262+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- social
 - repositories
 - news
-- social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 04:42 UTC  
+**Last Updated:** December 10, 2025 at 04:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'
 
-🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 3h ago
+🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 4h ago
 
 ---
 
@@ -65,7 +65,7 @@ Im not sure if this was discussed before. But LLMs can understand Base64 encoded
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 9h ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 10h ago
 
 ---
 
@@ -95,7 +95,7 @@ People keep talking about “fixing hallucination,” but nobody is asking the o
 
 Exclusive: Instacart’s AI pricing may be inflating your grocery bill.
 
-🔗 [Consumer Reports](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) • 45m ago
+🔗 [Consumer Reports](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ CNBC • 20h ago
 
 **[Google’s Big AI Advantage Over ChatGPT Is Impossible to Justify](https://www.bloomberg.com/opinion/articles/2025-12-10/ai-google-gemini-search-advantage-over-chatgpt-is-impossible-to-justify)**
 
-Bloomberg.com • 42m ago
+Bloomberg.com • 59m ago
 
 ---
 
@@ -189,7 +189,7 @@ Menlo Ventures • 16h ago
 
 **[Microsoft Plans to Invest $23 Billion on AI in India, Canada](https://www.wsj.com/tech/microsoft-plans-to-invest-23-billion-on-ai-in-india-canada-52f7c077?gaa_at=eafs&gaa_n=AWEtsqfeEJNSl1YdOioR6rrRcHW7fw-w5qMDjFZaxaXlFJ_2-qDBfPHxnNzA&gaa_ts=6938fd8e&gaa_sig=FwWnX1PgYcfMtMzs4-FNuQKBHrIRYv3y6iULBPL6xDArLkABvejUB-N2ofO2YrsXpL6vy5jkkDi6A5SGNRa5TQ%3D%3D)**
 
-The Wall Street Journal • 1h ago
+The Wall Street Journal • 2h ago
 
 ---
 
@@ -251,7 +251,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 109 • 💬 108 • 1h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 109 • 💬 108 • 2h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -655,7 +655,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.4k • 🔱 168 • 49m ago
+⭐ 1.4k • 🔱 168 • 1h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T04:42:17.334850+00:00'
+updated: '2025-12-10T04:59:35.338247+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 04:42 UTC  
+**Last Updated:** December 10, 2025 at 04:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
-15h ago
+16h ago
 
 ---
 
@@ -50,7 +50,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 "May the sensors be with you "
 
-15h ago
+16h ago
 
 ---
 
@@ -66,7 +66,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 North American robot orders picked up again in Q3 2025, pointing to renewed momentum in manufacturing automation after a slower period. According to the latest market data, companies in North America ordered 8,806 robots in the third quarter, worth about $574 million. That works out to an 11.6 percent increase in units and a 17.2 percent increase in revenue compared to the same quarter last year. The most notable gains came from food and consumer goods, where robot orders were up more than 100 percent year over year, and from automotive OEMs, which saw orders rise sharply as well. Metals and general manufacturing also posted growth, while automotive components and plastics and rubber recorded declines, suggesting a more selective investment cycle in those segments.
 
-8h ago
+9h ago
 
 ---
 
@@ -82,7 +82,7 @@ What I mean by "general" engineer is someone who has a bachelor's, master's or P
 
 Engineers build artificial tendons that let muscle-powered robots move faster and pull harder, marking a major step for biohybrid machines.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 10h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 11h ago
 
 ---
 
@@ -96,7 +96,7 @@ Teaching Robots to Understand Natural Language Built an autonomous navigation sy
 
 **[Tesla Optimus faints when operator takes off VR headset](https://www.reddit.com/r/robotics/comments/1ph3scw/tesla_optimus_faints_when_operator_takes_off_vr/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 1d ago
 
 Tesla, Inc. remains a sentiment-driven asset despite strong fundamentals. Click here to read why TSLA stock is downgraded to a Hold.
 
-Seeking Alpha • 13h ago
+Seeking Alpha • 14h ago
 
 ---
 
@@ -178,7 +178,7 @@ PYMNTS.com • 1d ago
 
 The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
 
-MLive.com • 11h ago
+MLive.com • 12h ago
 
 ---
 
@@ -276,7 +276,7 @@ In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comfor
 
 📺 AI Robot Lab
 
-👁️ 7K • 👍 74 • 💬 3 • ⏱️ 0:24 • 17h ago
+👁️ 7K • 👍 74 • 💬 3 • ⏱️ 0:24 • 18h ago
 
 ---
 
@@ -286,7 +286,7 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 99K • 👍 467 • 💬 169 • ⏱️ 0:47 • 21h ago
+👁️ 99K • 👍 467 • 💬 169 • ⏱️ 0:47 • 22h ago
 
 ---
 
