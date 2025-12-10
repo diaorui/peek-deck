@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T13:25:30.382766+00:00'
+updated: '2025-12-10T13:55:53.842623+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 13:25 UTC  
+**Last Updated:** December 10, 2025 at 13:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Just saw this paper published in Nature Communications and thought it was a mass
 
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
 
-2h ago
+3h ago
 
 ---
 
@@ -128,7 +128,7 @@ Breaking Defense • 1d ago
 
 **[Coco, Serve delivery robots wearing out welcome for some Chicagoans](https://www.axios.com/local/chicago/2025/12/10/chicago-pause-delivery-robot-pilot-safety-issues)**
 
-Axios • 56m ago
+Axios • 1h ago
 
 ---
 
@@ -136,7 +136,7 @@ Axios • 56m ago
 
 Pilots being able to control many drones is "kind of a prerequisite" for "the total drone warfare that is coming to all of us," Ark Robotics told BI.
 
-Business Insider • 52m ago
+Business Insider • 1h ago
 
 ---
 
@@ -154,11 +154,11 @@ Dark Reading • 20h ago
 
 ---
 
-**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
+**[Mercado Libre and Agility Robotics Announce Commercial Agreement to Deploy Humanoid Robots](https://finance.yahoo.com/news/mercado-libre-agility-robotics-announce-130000794.html)**
 
-Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
+MONTEVIDEO, Uruguay & SALEM, Ore., December 10, 2025--Mercado Libre and Agility Robotics announced commercial to bring Agility's humanoid robot Digit into Mercado Libre’s facility in San Antonio, Texas.
 
-Decrypt • 1d ago
+Yahoo Finance • 55m ago
 
 ---
 
@@ -170,6 +170,14 @@ MLive.com • 20h ago
 
 ---
 
+**[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai/)**
+
+SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
+
+PYMNTS.com • 1d ago
+
+---
+
 **[Army Special Forces Embracing Robots in All Domains](https://www.nationaldefensemagazine.org/articles/2025/12/8/army-special-forces-embracing-robots-in-all-domains)**
 
 Army Special Forces Embracing Robots in All Domains
@@ -178,23 +186,25 @@ National Defense Magazine • 2d ago
 
 ---
 
-**[Move over, biomimicry – bio-derived robotic hand uses lobster shells for fingers](https://newatlas.com/robotics/bio-derived-robot-hand-lobster-shells-fingers/)**
-
-If you’re going to kill animals for food, don’t waste their parts – that’s just rude. Use everything, snout-to-tail, and not just bones for glue or stomachs for drink-bags, either. Get creative!
-
-New Atlas • 19h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
+
+**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
+
+Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
+
+📺 TheAIGRID
+
+👁️ 15K • 👍 441 • 💬 105 • ⏱️ 42:48 • 2d ago
+
+---
 
 **[Purchased the newly released 2025 humanoid robot. #robotics #ai #humanoidrobot #airobot](https://www.youtube.com/watch?v=NJeenJ276ug)**
 
 📺 AI . Robot
 
-👁️ 1.8M • 👍 9K • 💬 51 • ⏱️ 0:17 • 6d ago
+👁️ 1.8M • 👍 9K • 💬 52 • ⏱️ 0:17 • 6d ago
 
 ---
 
@@ -204,7 +214,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 36K • 👍 830 • 💬 273 • ⏱️ 14:26 • 1d ago
+👁️ 38K • 👍 900 • 💬 289 • ⏱️ 14:26 • 1d ago
 
 ---
 
@@ -214,25 +224,7 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 32K • 👍 635 • 💬 151 • ⏱️ 18:46 • 4d ago
-
----
-
-**[🏃🤖 Figure 03 Runs LIKE A HUMAN! Watch the PERFECT #RobotTurn. #figureai #humanoid #robotics](https://www.youtube.com/watch?v=DDrNbLVUBwU)**
-
-📺 XRoboHub
-
-👁️ 523K • 👍 8K • 💬 871 • ⏱️ 0:22 • 6d ago
-
----
-
-**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
-
-The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
-
-📺 The Straits Times
-
-👁️ 123K • 👍 573 • 💬 196 • ⏱️ 0:47 • 1d ago
+👁️ 32K • 👍 637 • 💬 151 • ⏱️ 18:46 • 4d ago
 
 ---
 
@@ -242,7 +234,25 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 120K • 👍 6K • 💬 816 • ⏱️ 19:33 • 3d ago
+👁️ 121K • 👍 6K • 💬 817 • ⏱️ 19:33 • 3d ago
+
+---
+
+**[🏃🤖 Figure 03 Runs LIKE A HUMAN! Watch the PERFECT #RobotTurn. #figureai #humanoid #robotics](https://www.youtube.com/watch?v=DDrNbLVUBwU)**
+
+📺 XRoboHub
+
+👁️ 524K • 👍 8K • 💬 871 • ⏱️ 0:22 • 6d ago
+
+---
+
+**[Silicon Valley’s Newest AI Diaper Changer Is Unreal 👶🤖 AI Baby Changer 4.0 — The Future Is Here](https://www.youtube.com/watch?v=x5P16JwG6fU)**
+
+At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the future of Smart Parenting, BabyTech and AI ...
+
+📺 AI Robot Lab
+
+👁️ 433 • ⏱️ 0:20 • 28m ago
 
 ---
 
@@ -252,37 +262,27 @@ Ready to Learn from My Mentors? Book a Free Strategy Call at https://felixfriend
 
 📺 Felix & Friends (Goat Academy)
 
-👁️ 96K • 👍 3K • 💬 143 • ⏱️ 29:12 • 1d ago
+👁️ 98K • 👍 3K • 💬 143 • ⏱️ 29:12 • 1d ago
 
 ---
 
-**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
+**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
 
-After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
+The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
 
-📺 Kalil 4.0
+📺 DPCcars
 
-👁️ 17K • 👍 331 • 💬 50 • ⏱️ 0:59 • 3d ago
-
----
-
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo](https://www.youtube.com/watch?v=coZB_m41vvk)**
-
-robots #irc #humanoid At the latest tech expo, a man shows off his brand new robot girlfriend. From futuristic design to human-like ...
-
-📺 She Shorts AI
-
-👁️ 128K • 👍 829 • 💬 6 • ⏱️ 0:11 • 5d ago
+👁️ 201K • 👍 899 • 💬 297 • ⏱️ 1:03 • 3d ago
 
 ---
 
-**[Guy Tries Out the Newest Girlfriend Robot at the Expo](https://www.youtube.com/watch?v=DUbRBXNsyts)**
+**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
 
-robots #irc #humanoid At the latest tech expo, a man shows off his brand new robot girlfriend. From futuristic design to human-like ...
+AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
 
-📺 She Shorts AI
+📺 AI Robot Lab
 
-👁️ 1.1M • 👍 4K • 💬 41 • ⏱️ 0:11 • 6d ago
+👁️ 40K • 👍 436 • 💬 13 • ⏱️ 0:25 • 3d ago
 
 ---
 

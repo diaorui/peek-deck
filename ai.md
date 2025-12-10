@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T13:25:30.364938+00:00'
+updated: '2025-12-10T13:55:53.824631+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- videos
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 13:25 UTC  
+**Last Updated:** December 10, 2025 at 13:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'
 
-🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 12h ago
+🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 13h ago
+
+---
+
+**[McDonald's AI disaster: Marketing 101](https://www.reddit.com/r/artificial/comments/1pj2bt3/mcdonalds_ai_disaster_marketing_101/)**
+
+This year, McDonald’s decided to get in on the corporate slopfest with a 45-second Christmas spot cooked up for its Netherlands division by the ad agency TBWA\Neboko. The entire thing is AI, and revolves around the thesis that the holiday season is the “most terrible time of the year.” After huge backlash, ad has been taken down from YT, agency made statement owning there failure. https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial This reminds me: "The ability to speak doesn't make you intelligent!" - Qui Gon Jinn Technology, including AI is a tool, an enabler to magnify human genius or stupidity! PS: removed the earlier post with quote name error, couldn't edit in time.
+
+38m ago
 
 ---
 
@@ -65,23 +73,7 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 Reprogrammable humanoid robots could level the global manufacturing playing field, Arm CEO Rene Haas said at Fortune Brainstorm AI.
 
-🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 3h ago
-
----
-
-**[McDonald's AI disaster: Marketing 101](https://www.reddit.com/r/artificial/comments/1pj2bt3/mcdonalds_ai_disaster_marketing_101/)**
-
-This year, McDonald’s decided to get in on the corporate slopfest with a 45-second Christmas spot cooked up for its Netherlands division by the ad agency TBWA\Neboko. The entire thing is AI, and revolves around the thesis that the holiday season is the “most terrible time of the year.” After huge backlash, ad has been taken down from YT, agency made statement owning there failure. https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial This reminds me: "The ability to speak doesn't make you intelligent!" - Qui Gon Jinn Technology, including AI is a tool, an enabler to magnify human genius or stupidity! PS: removed the earlier post with quote name error, couldn't edit in time.
-
-7m ago
-
----
-
-**[Comparison between top AI skin texture enhancement tools available online](https://www.reddit.com/r/artificial/comments/1pizde7/comparison_between_top_ai_skin_texture/)**
-
-Read comment 👇🏻
-
-2h ago
+🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 4h ago
 
 ---
 
@@ -93,11 +85,19 @@ Exclusive: Instacart’s AI pricing may be inflating your grocery bill.
 
 ---
 
+**[Comparison between top AI skin texture enhancement tools available online](https://www.reddit.com/r/artificial/comments/1pizde7/comparison_between_top_ai_skin_texture/)**
+
+Read comment 👇🏻
+
+3h ago
+
+---
+
 **[OpenAI Hires Slack CEO as New Chief Revenue Officer](https://www.reddit.com/r/artificial/comments/1pifikb/openai_hires_slack_ceo_as_new_chief_revenue/)**
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 18h ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 19h ago
 
 ---
 
@@ -113,7 +113,7 @@ Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as A
 
 People keep talking about “fixing hallucination,” but nobody is asking the one question that actually matters: Why do these systems hallucinate in the first place? Every solution so far—RAG, RLHF, model scaling, “AI constitutions,” uncertainty scoring—tries to patch the problem after it happens. They’re improving the guess instead of removing the guess. The real issue is structural: these models are architecturally designed to generate answers even when they don’t have grounded information. They’re rewarded for sounding confident, not for knowing when to stop. That’s why the failures repeat across every system—GPT, Claude, Gemini, Grok. Different models, same flaw. What I’ve put together breaks down the actual mechanics behind that flaw using the research the industry itself published. It shows why their methods can’t solve it, why the problem persists across scaling, and why the most obvious correction has been ignored for years. If you want the full breakdown—with evidence from academic papers, production failures, legal cases, medical misfires, and the architectural limits baked into transformer models—here it is. It explains the root cause in plain language so people can finally see the pattern for themselves.
 
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 18h ago
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 19h ago
 
 ---
 
@@ -147,13 +147,13 @@ Futurism • 19h ago
 
 **[Why the A.I. Boom Is Unlike the Dot-Com Boom](https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
 **[Trump’s avowed AI order to face legal hurdles](https://thehill.com/newsletters/the-gavel/5641240-ai-laws-trump-regulation-courts/)**
 
-thehill.com • 25m ago
+thehill.com • 55m ago
 
 ---
 
@@ -171,7 +171,7 @@ The Economist • 1h ago
 
 **[How Chinese entities are already using Nvidia's powerful H200 AI chips](https://www.reuters.com/world/china/how-chinese-entities-are-already-using-nvidias-powerful-h200-ai-chips-2025-12-10/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Information • 1h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 560 • 💬 565 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 560 • 💬 567 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -213,7 +213,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 318 • 💬 388 • 22h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 319 • 💬 389 • 22h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -221,7 +221,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 251 • 💬 111 • 20h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 256 • 💬 112 • 20h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -235,7 +235,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 139 • 💬 171 • 10h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 141 • 💬 175 • 10h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -249,7 +249,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 113 • 💬 23 • 17h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+⬆️ 115 • 💬 23 • 17h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -257,7 +257,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
 
-⬆️ 59 • 💬 84 • 11h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 59 • 💬 85 • 12h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
 
 ---
 
@@ -265,7 +265,7 @@ Your kid is cheating with AI. And that's great. Here’s why we should let it bu
 
 It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
 
-⬆️ 56 • 💬 115 • 22h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
+⬆️ 57 • 💬 116 • 22h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
 
 ---
 
@@ -279,67 +279,7 @@ Zhipu AI just dropped the first real open source AI agent, and the entire indust
 
 📺 AI Revolution
 
-👁️ 21K • 👍 988 • 💬 44 • ⏱️ 12:50 • 12h ago
-
----
-
-**[DIMON’S WARNING: America might not be ready for coming AI shock](https://www.youtube.com/watch?v=C8yuD9ca1lo)**
-
-JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, crypto investing and socialism on 'Mornings ...
-
-📺 Fox Business
-
-👁️ 113K • 👍 2K • 💬 512 • ⏱️ 18:47 • 1d ago
-
----
-
-**[Big Tech&#39;s AI Debt Will Crash the Economy](https://www.youtube.com/watch?v=rf9Sat5n0AQ)**
-
-Big Tech is racking up debt to fund their AI infrastructure for demand that seemingly doesn't exist. Us taxpayers are subsidizing the ...
-
-📺 Vanessa Wingårdh
-
-👁️ 153K • 👍 10K • 💬 2K • ⏱️ 10:38 • 3d ago
-
----
-
-**[Reacting To AI Videos Of Myself 🤔](https://www.youtube.com/watch?v=tNVmTF_P89k)**
-
-Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsain Socials: Twitter ...
-
-📺 hxsain
-
-👁️ 235K • 👍 20K • 💬 229 • ⏱️ 0:51 • 18h ago
-
----
-
-**[New Largest AI Datacenter — Zero GPUs Inside](https://www.youtube.com/watch?v=N10w1KvFKNQ)**
-
-Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/ANASTECHDEC2 - 100% Discount for the first 1000 ...
-
-📺 Anastasi In Tech
-
-👁️ 230K • 👍 13K • 💬 2K • ⏱️ 31:03 • 1d ago
-
----
-
-**[AI Dress in REAL LIFE](https://www.youtube.com/watch?v=zreiL7w329o)**
-
-I Paid a dress maker to make an AI dress in real life! OTHER VIDEOS u might like: ✨ Temu, Amazon & Etsy Product ...
-
-📺 Mia Maples
-
-👁️ 89K • 👍 4K • 💬 76 • ⏱️ 0:36 • 1d ago
-
----
-
-**[China&#39;s Rise, GPT-5.2, Anthropic IPO &amp; the Battle for AI Trust w/ Emad, Salim, Dave &amp; AWG | EP #214](https://www.youtube.com/watch?v=zGD5mv-XKU0)**
-
-Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends Emad Mostaque is the founder of ...
-
-📺 Peter H. Diamandis
-
-👁️ 72K • 👍 2K • 💬 446 • ⏱️ 1:59:44 • 23h ago
+👁️ 23K • 👍 1K • 💬 45 • ⏱️ 12:50 • 13h ago
 
 ---
 
@@ -349,17 +289,17 @@ Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/d
 
 📺 Matthew Berman
 
-👁️ 38K • 👍 1K • 💬 156 • ⏱️ 9:41 • 14h ago
+👁️ 41K • 👍 1K • 💬 166 • ⏱️ 9:41 • 14h ago
 
 ---
 
-**[Using AI to Raise Your Baby](https://www.youtube.com/watch?v=1voqPZSqSE4)**
+**[China&#39;s Rise, GPT-5.2, Anthropic IPO &amp; the Battle for AI Trust w/ Emad, Salim, Dave &amp; AWG | EP #214](https://www.youtube.com/watch?v=zGD5mv-XKU0)**
 
-Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends Emad Mostaque is the founder of ...
 
-📺 penguinz0
+📺 Peter H. Diamandis
 
-👁️ 759K • 👍 39K • 💬 4K • ⏱️ 8:35 • 17h ago
+👁️ 75K • 👍 2K • 💬 464 • ⏱️ 1:59:44 • 23h ago
 
 ---
 
@@ -370,6 +310,64 @@ Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS
 📺 AI Revolution
 
 👁️ 35K • 👍 1K • 💬 68 • ⏱️ 13:12 • 1d ago
+
+---
+
+**[AI Dress in REAL LIFE](https://www.youtube.com/watch?v=zreiL7w329o)**
+
+I Paid a dress maker to make an AI dress in real life! OTHER VIDEOS u might like: ✨ Temu, Amazon & Etsy Product ...
+
+📺 Mia Maples
+
+👁️ 91K • 👍 4K • 💬 76 • ⏱️ 0:36 • 1d ago
+
+---
+
+**[Reacting To AI Videos Of Myself 🤔](https://www.youtube.com/watch?v=tNVmTF_P89k)**
+
+Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsain Socials: Twitter ...
+
+📺 hxsain
+
+👁️ 249K • 👍 21K • 💬 234 • ⏱️ 0:51 • 19h ago
+
+---
+
+**[Americans are in Love with AI Partners and it&#39;s absolutely Insane #AI  #Airelationships #USA](https://www.youtube.com/watch?v=w4VxvtP0TIE)**
+
+📺 Career247
+
+👁️ 6K • 👍 1K • 💬 89 • ⏱️ 1:48 • 9m ago
+
+---
+
+**[Elon Musk on DOGE, AI, &amp; Are we in a Simulation? | KMP Ep.18](https://www.youtube.com/watch?v=bz5Hjk40FD4)**
+
+In this episode, I sit down with @elonmusk for a wide-ranging conversation on DOGE, AI, simulation theory, and much more.
+
+📺 Katie Miller Pod
+
+👁️ 116K • 👍 7K • 💬 2K • ⏱️ 52:58 • 14h ago
+
+---
+
+**[OpenAI&#39;s New GARLIC AI, Apple&#39;s Clara, Live Avatar and More Intense AI News](https://www.youtube.com/watch?v=3n_dWlNkcY8)**
+
+OpenAI is in a full internal race after a major leak revealed a new model called Garlic outperforming Gemini 3 and Claude in ...
+
+📺 AI Revolution
+
+👁️ 125K • 👍 2K • 💬 150 • ⏱️ 12:31 • 2d ago
+
+---
+
+**[LIVE: AI is going to transform the world](https://www.youtube.com/watch?v=bpP_ZoIqMyI)**
+
+AI is going to transform the world. We can't let a handful of billionaires decide the future for us. I'm LIVE on the Senate floor to ...
+
+📺 Senator Bernie Sanders
+
+👁️ 97K • 👍 6K • 💬 2K • ⏱️ 15:31 • 1d ago
 
 ---
 
@@ -397,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 232,896 • ❤️ 2,460 • 1d ago
+⬇️ 232,896 • ❤️ 2,461 • 1d ago
 
 ---
 
@@ -409,7 +407,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 10,031 • ❤️ 279 • 19h ago
+⬇️ 10,031 • ❤️ 280 • 19h ago
 
 ---
 
@@ -445,7 +443,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 193 • 20h ago
+⬇️ 2,414 • ❤️ 194 • 20h ago
 
 ---
 
@@ -509,7 +507,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 Wan-Move enhances motion control in video generative models by integrating motion-aware features into latent space, enabling high-quality and scalable video synthesis.
 
-▲ 87 • 💬 2 • ⭐ 160 • 1d ago
+▲ 90 • 💬 2 • ⭐ 160 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.08765) • [💻 code](https://github.com/ali-vilab/Wan-Move)
 
@@ -523,7 +521,7 @@ Wan-Move enhances motion control in video generative models by integrating motio
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 177 • 💬 3 • ⭐ 6,226 • 12d ago
+▲ 178 • 💬 3 • ⭐ 6,226 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -551,7 +549,7 @@ The study reveals that in text-to-image generation, CFG Augmentation is the prim
 
 Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pipeline Parallelism and Rolling Sink Frame Mechanism to achieve real-time, high-fidelity avatar generation.
 
-▲ 163 • 💬 4 • ⭐ 736 • 6d ago
+▲ 163 • 💬 4 • ⭐ 781 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04677) • [💻 code](https://github.com/Alibaba-Quark/LiveAvatar) • [🔗 project](https://liveavatar.github.io/)
 
@@ -591,7 +589,7 @@ TwinFlow is a 1-step generative model framework that enhances inference efficien
 
 DeepCode, a fully autonomous framework, addresses the challenges of document-to-codebase synthesis by optimizing information flow through source compression, structured indexing, knowledge injection, and error correction, achieving state-of-the-art performance and surpassing human experts.
 
-▲ 2 • 💬 1 • ⭐ 11,733 • 2d ago
+▲ 3 • 💬 1 • ⭐ 11,733 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.07921) • [💻 code](https://github.com/HKUDS/DeepCode)
 
@@ -611,6 +609,20 @@ LongCat-Image is a bilingual open-source foundation model for image generation t
 
 ---
 
+**[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
+
+*Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
+
+🏢 AI at Meta
+
+Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
+
+▲ 109 • 💬 4 • ⭐ 5,572 • 19d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
+
+---
+
 **[RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards](https://huggingface.co/papers/2512.00473)**
 
 *Junyan Ye, Leiqi Zhu, Yuncheng Guo et al. (10 authors)*
@@ -620,20 +632,6 @@ RealGen is a photorealistic text-to-image framework that uses an LLM for prompt 
 ▲ 19 • 💬 2 • ⭐ 178 • 11d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.00473) • [💻 code](https://github.com/yejy53/RealGen) • [🔗 project](https://yejy53.github.io/RealGen/)
-
----
-
-**[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
-
-*Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
-
-🏢 AI at Meta
-
-Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
-
-▲ 109 • 💬 4 • ⭐ 5,538 • 19d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
 
 ---
 
@@ -657,7 +655,7 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.5k • 🔱 182 • 1h ago
+⭐ 1.6k • 🔱 185 • 2h ago
 
 ---
 
@@ -687,7 +685,17 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 914 • 🔱 65 • 1d ago
+⭐ 917 • 🔱 65 • 1d ago
+
+---
+
+**[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**
+
+An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
+`Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
+
+⭐ 866 • 🔱 273 • 4d ago
 
 ---
 
@@ -698,16 +706,6 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
 ⭐ 865 • 🔱 22 • 2d ago
-
----
-
-**[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**
-
-An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-
-`Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
-
-⭐ 863 • 🔱 273 • 4d ago
 
 ---
 
@@ -727,7 +725,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 577 • 🔱 45 • 7d ago
+⭐ 579 • 🔱 45 • 7d ago
 
 ---
 
@@ -737,7 +735,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `JavaScript`
 
-⭐ 542 • 🔱 80 • 1d ago
+⭐ 549 • 🔱 81 • 1d ago
 
 ---
 

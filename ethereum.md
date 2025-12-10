@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T13:25:30.379536+00:00'
+updated: '2025-12-10T13:55:53.839346+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 13:25 UTC  
+**Last Updated:** December 10, 2025 at 13:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +7.1%  
-**7d:** +6.5%  
-**30d:** -2.3%  
-**90d:** -29.0%  
-**1y:** -13.0%  
+**24h:** +6.9%  
+**7d:** +6.4%  
+**30d:** -2.4%  
+**90d:** -29.1%  
+**1y:** -13.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $401.12B
+**Market Cap:** $402.01B
 Rank #2
 
 **Circulating Supply:** 120,695,213 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.6%
+-32.7%
 
 **All-Time Low:** $0.43
-+769694.8%
++769119.8%
 
 ---
 
@@ -76,11 +76,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Coinbase holding close to $1M deposit hostage for 15 days - support admits "technical failure" & told me to contact regulators](https://www.reddit.com/r/ethereum/comments/1pj331i/coinbase_holding_close_to_1m_deposit_hostage_for/)**
+
+An agent initially promised 3-5 days to credit/return my funds to my ETH wallet. More than 15 days have passed. Case #25243137 Their support refused to release my GDPR data, and in the UI there's no button to download it manually. I have lost over $100k in opportunity cost (sold ETH to deposit this). My tweet about it, including the screenshot where they tell me to report them to the authorities: https://x.com/laur_science/status/1998746021099122834 WARNING to all users: If their system glitches, they will NOT fix it manually. They will wait weeks while you lose money. Even better, don't use centralized exchanges for large amounts, or do it in small tranches. For me, it's the last time, and yes - I already knew the dangers, therefore "lesson reinforced", not "lesson learned".
+
+4m ago
+
+---
+
 **[What does the entire Ethereum crypto market look like in motion? Here’s my take…](https://www.reddit.com/r/ethereum/comments/1pj22rq/what_does_the_entire_ethereum_crypto_market_look/)**
 
 I’ve always wondered: if you could see the crypto market flow in real time, what would it look like? So I built an app to answer that question. - Animated bubbles for trades - Dynamic order depth bars - Global aggregation across exchanges - A special “ALL” mode to visualize the whole market vs stablecoins - And a Replay mode to rewind and watch the market like a movie Launch is coming soon. 👉 Demo video + screenshots here: https://cryptostream.dev Drop your email if you want to be notified when it’s live. Curious what you think, AMA or share your thoughts!
 
-19m ago
+50m ago
 
 ---
 
@@ -96,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-14h ago
+15h ago
 
 ---
 
@@ -104,7 +112,7 @@ ive been looking at bitwage to receive my paycheck in USDC but i wanted to know 
 
 Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot wallet (non-hardware) that actually supports custom HD derivation at the account level and BIP39 passphrases (25th word). Surprisingly, this combo seems to be mostly available only on hardware wallets or very niche software. Most mainstream hot wallets either lock derivation paths or ignore passphrases completely. So far, the only hot wallet I personally found that seems to support both is TokenPocket. According to their docs, keys stay on-device and they allow more flexibility than most wallets. Before fully committing, I’m curious: Has anyone here actually used TokenPocket with custom derivation paths + passphrase? Any thoughts on its security model or reputation? Are there any other hot wallets I might be missing (mobile / desktop / CLI) that support this kind of setup for Ethereum / EVM? I know this is more of a power-user thing, but I’m guessing some of you have gone through the same search. Appreciate any insight 🙏
 
-21h ago
+22h ago
 
 ---
 
@@ -138,14 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Treasury Yield](https://www.reddit.com/r/ethereum/comments/1phl21p/treasury_yield/)**
-
-By magnitude, the biggest question for the Defi ecosystem for the next cycle is who gets to keep the yield on treasuries backing reserve stablecoins such as USDC and USDT? If secretary Bennett and the federal reserve are correct in their forecasts, we'll be at something like $3T in stablecoin market cap by 2030. At
-
-🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -166,17 +166,17 @@ Decrypt • 20h ago
 
 ---
 
-**[Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds](https://finance.yahoo.com/news/tom-lee-bitmine-buys-429-162833185.html)**
-
-Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
-
-Yahoo Finance • 1d ago
-
----
-
 **[The Daily: Robinhood's expansion plans, BlackRock's staked Ethereum ETF filing, Strategy's biggest Bitcoin buy since July, and more](https://www.theblock.co/post/381770/the-daily-robinhoods-expansion-plans-blackrocks-staked-ethereum-etf-filing-strategys-biggest-bitcoin-buy-since-july-and-more)**
 
 The Block • 1d ago
+
+---
+
+**[Will BlackRock's (BLK) Staked Ethereum ETF Bid Redefine Its Crypto Innovation and Fee Narrative?](https://finance.yahoo.com/news/blackrocks-blk-staked-ethereum-etf-131006970.html)**
+
+Earlier this month, BlackRock moved further into digital assets by filing with the SEC for an iShares staked Ethereum ETF that pairs ether price exposure with on-chain staking rewards, using a multi-custodian structure anchored by Coinbase and BNY Mellon. The filing signals BlackRock’s push to broaden yield-focused crypto offerings at a time when investors are reassessing Bitcoin ETF allocations and looking for income-oriented alternatives. We’ll now examine how this push into staked...
+
+Yahoo Finance • 45m ago
 
 ---
 
@@ -185,14 +185,6 @@ The Block • 1d ago
 Investment firm BlackRock filed the S-1 registration statement for a new Ethereum staking ETF, ETHB, separate from its existing ETHA fund.
 
 Decrypt • 1d ago
-
----
-
-**[Ether (ETH) ETF News: Staked Ether ETF (ETHB) Coming From BlackRock](https://www.coindesk.com/markets/2025/12/08/blackrock-files-for-staked-ethereum-etf-aiming-to-bring-yield-to-the-masses)**
-
-The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
-
-CoinDesk • 1d ago
 
 ---
 
@@ -216,7 +208,7 @@ The Motley Fool • 2d ago
 
 The chart finally shows a market that has stopped bleeding and begun to fight back, and Ethereum is about to enter a structurally critical phase. ETH has successfully reversed from the $2,700-$2,800 range after months of cascading sell pressure, printing a series of higher lows and pushing hard tow…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -228,19 +220,17 @@ Seeking Alpha • 3h ago
 
 ---
 
+**[Here's Why Ethereum Soared More than 6% Today, Breaking $3,300 for the First Time In Nearly a Month](https://www.nasdaq.com/articles/heres-why-ethereum-soared-more-6-today-breaking-3300-first-time-nearly-month)**
+
+Key PointsEthereum is seeing even more capital flow into its network, a trend that's continued in recent weeks.
+
+Nasdaq • 13h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[Ethereum Surges Ahead of Fed Meeting🚨](https://www.youtube.com/watch?v=lGMmb25t_F8)**
-
-Bitcoin and Ethereum surged amid anticipation that the US central bank will cut rates tomorrow. ~This episode is sponsored by ...
-
-📺 Paul Barron Network
-
-👁️ 42K • 👍 2K • 💬 102 • ⏱️ 20:14 • 16h ago
-
----
 
 **[I Can’t Believe This Is Happening!! All Hell Is Breaking Loose In Crypto!!](https://www.youtube.com/watch?v=2ZqztKdMquI)**
 
@@ -248,17 +238,7 @@ Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=a
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 3K • 💬 218 • ⏱️ 12:03 • 13h ago
-
----
-
-**[Is Ethereum the Next Amazon? Haseeb Qureshi on Revenue, Profit &amp; Long-Term Value](https://www.youtube.com/watch?v=Z5z-ewWs0Aw)**
-
-Ethereum has critics calling it “overvalued”… but what if everyone is looking at the wrong metric? In this episode, Dragonfly's ...
-
-📺 Milk Road
-
-👁️ 4K • 👍 136 • 💬 82 • ⏱️ 35:26 • 17h ago
+👁️ 57K • 👍 3K • 💬 235 • ⏱️ 12:03 • 14h ago
 
 ---
 
@@ -268,17 +248,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 The Bitcoin Revolution
 
-👁️ 15K • 👍 462 • 💬 212 • ⏱️ 12:46 • 1d ago
-
----
-
-**[WOW: Insider Whale Just Opened A Mega $ETH Long! [Copy Them?]](https://www.youtube.com/watch?v=bA0YlnGLFII)**
-
-A huge ETH whale just opened a massive sized position. In today's video, Kyledoops shares the significance of this and whether ...
-
-📺 Crypto Banter
-
-👁️ 9K • 👍 825 • 💬 7 • ⏱️ 34:34 • 5h ago
+👁️ 16K • 👍 465 • 💬 212 • ⏱️ 12:46 • 1d ago
 
 ---
 
@@ -288,7 +258,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 203 • 💬 8 • ⏱️ 5:16 • 10h ago
+👁️ 3K • 👍 215 • 💬 8 • ⏱️ 5:16 • 11h ago
+
+---
+
+**[WOW: Insider Whale Just Opened A Mega $ETH Long! [Copy Them?]](https://www.youtube.com/watch?v=bA0YlnGLFII)**
+
+A huge ETH whale just opened a massive sized position. In today's video, Kyledoops shares the significance of this and whether ...
+
+📺 Crypto Banter
+
+👁️ 12K • 👍 1K • 💬 12 • ⏱️ 34:34 • 5h ago
 
 ---
 
@@ -298,35 +278,57 @@ BITCOIN & ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 8K • 👍 309 • 💬 81 • ⏱️ 21:02 • 13h ago
+👁️ 9K • 👍 327 • 💬 81 • ⏱️ 21:02 • 14h ago
 
 ---
 
-**[Tom Lee&#39;s BitMine Immersion Adds $435M of ETH to Treasury](https://www.youtube.com/watch?v=MnQMmMF_R4g)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=zsKRk2XaBrU)**
 
-BitMine Immersion Technologies just made a $435 million ETH acquisition, bringing their treasury to over 3.86 million tokens and ...
+TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
 
-📺 CoinDesk
+📺 CareerGuide.com
 
-👁️ 842 • 👍 9 • 💬 11 • ⏱️ 1:12 • 22h ago
-
----
-
-**[ETH Ethereum PUMPING NOW!!!! Multi Day Consolidation Awaits](https://www.youtube.com/watch?v=PfBHV0uYBfM)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 1K • 👍 60 • 💬 43 • ⏱️ 13:32 • 18h ago
+👁️ 2K • 👍 1K • 4h ago
 
 ---
 
-**[Solana vs Ethereum | Nick Ducoff with Tai Wong on Global Money Talk](https://www.youtube.com/watch?v=MKccReFt94s)**
+**[Ethereum Surges Ahead of Fed Meeting🚨](https://www.youtube.com/watch?v=lGMmb25t_F8)**
 
-📺 Solana
+Bitcoin and Ethereum surged amid anticipation that the US central bank will cut rates tomorrow. ~This episode is sponsored by ...
 
-👁️ 2K • 👍 82 • 💬 3 • ⏱️ 2:14 • 1d ago
+📺 Paul Barron Network
+
+👁️ 44K • 👍 2K • 💬 106 • ⏱️ 20:14 • 17h ago
+
+---
+
+**[Ethereum Just Printed The Biggest Signal But Many Will Miss Out](https://www.youtube.com/watch?v=htdw-nVo9Wg)**
+
+Ethereum just printed one of the biggest signals I have seen in a long time… and most people are completely ignoring it.
+
+📺 Crypto Hustle
+
+👁️ 240 • 👍 21 • 💬 3 • ⏱️ 11:11 • 3h ago
+
+---
+
+**[Is Ethereum the Next Amazon? Haseeb Qureshi on Revenue, Profit &amp; Long-Term Value](https://www.youtube.com/watch?v=Z5z-ewWs0Aw)**
+
+Ethereum has critics calling it “overvalued”… but what if everyone is looking at the wrong metric? In this episode, Dragonfly's ...
+
+📺 Milk Road
+
+👁️ 4K • 👍 143 • 💬 27 • ⏱️ 35:26 • 18h ago
+
+---
+
+**[Ethereum&#39;s New Era of Internet Capital Formation! The Return of the ICO](https://www.youtube.com/watch?v=QId8-IRl0bA)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ ICOs are suddenly back, but ...
+
+📺 Bankless
+
+👁️ 555 • 👍 38 • 💬 5 • ⏱️ 1:09:21 • 2h ago
 
 ---
 
