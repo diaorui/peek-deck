@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T18:41:34.083206+00:00'
+updated: '2025-12-10T18:59:07.571092+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 18:41 UTC  
+**Last Updated:** December 10, 2025 at 18:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $93,002.32
+### $92,196.14
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** +0.9%  
-**30d:** -10.3%  
-**90d:** -20.4%  
-**1y:** -8.4%  
+**24h:** -2.0%  
+**7d:** +0.0%  
+**30d:** -10.7%  
+**90d:** -20.7%  
+**1y:** -8.8%  
 
 ---
 
@@ -107,7 +107,7 @@ Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exch
 
 **[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ Sooner or later it will bounce to new highs, or not
 
 **[BTC is back, 2026 Bullrun Are you ready?](https://www.reddit.com/r/Bitcoin/comments/1piw0ft/btc_is_back_2026_bullrun_are_you_ready/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -175,7 +175,7 @@ Business Insider • 8h ago
 
 **[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 6h ago
+Investor's Business Daily • 7h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 1h ago
 
 **[Strategy says MSCI’s 50% bitcoin test risks index ‘whiplash’ and conflicts with US pro-innovation policy](https://www.theblock.co/post/382068/strategy-msci-bitcoin-test-index-whiplash-conflicts-innovation?utm_source=markets.xml&utm_medium=rss)**
 
-The Block • 1h ago
+The Block • 2h ago
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin #Crypto #Finance Bitcoin enters a historic new era as U.S. regulators of
 
 📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 562 • 💬 92 • ⏱️ 37:24 • 3h ago
+👁️ 7K • 👍 562 • 💬 92 • ⏱️ 37:24 • 4h ago
 
 ---
 
@@ -371,7 +371,7 @@ BTC, ETH, SOL, and stocks all waiting on the FED decision today! BITUNIX TRADE T
 
 📺 Lark Davis
 
-👁️ 13K • 👍 752 • 💬 28 • ⏱️ 50:46 • 6h ago
+👁️ 13K • 👍 752 • 💬 28 • ⏱️ 50:46 • 7h ago
 
 ---
 
@@ -401,7 +401,7 @@ Jack Mallers, Tether, SoftBank, and Cantor Fitzgerald just launched the most exp
 
 📺 Simply Bitcoin
 
-👁️ 53K • 👍 3K • 💬 280 • ⏱️ 16:39 • 18h ago
+👁️ 53K • 👍 3K • 💬 280 • ⏱️ 16:39 • 19h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T18:41:34.089261+00:00'
+updated: '2025-12-10T18:59:07.577302+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 18:41 UTC  
+**Last Updated:** December 10, 2025 at 18:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,367.35
+### $3,365.96
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +8.5%  
-**30d:** -0.4%  
-**90d:** -27.6%  
-**1y:** -11.3%  
+**24h:** +0.1%  
+**7d:** +7.5%  
+**30d:** -1.4%  
+**90d:** -28.3%  
+**1y:** -12.2%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An agent initially promised 3-5 days to credit/return my funds to my ETH wallet. More than 15 days have passed. Case #25243137 Their support refused to release my GDPR data, and in the UI there's no button to download it manually. I have lost over $100k in opportunity cost (sold ETH to deposit this). My tweet about it, including the screenshot where they tell me to report them to the authorities: https://x.com/laur_science/status/1998746021099122834 WARNING to all users: If their system glitches, they will NOT fix it manually. They will wait weeks while you lose money. Even better, don't use centralized exchanges for large amounts, or do it in small tranches. For me, it's the last time, and yes - I already knew the dangers, therefore "lesson reinforced", not "lesson learned".
 
-4h ago
+5h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Despite the breakout, DOGE faces significant structural resistance from major EMAs.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 1d ago
 
 Sentiment across the market shows a mild improvement today, with the Fear and Greed Index rising to 30 after spending much of the past two weeks in the lower twenties and briefly touching extreme fear levels that had pushed many participants into defensive positioning. Bitcoin is trading near $92,000 after ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1h ago
 
 Spot Ethereum ETF inflows hit a six-week high, with analysts citing a structural rotation by institutions broadening their crypto exposure.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -216,7 +216,7 @@ The Motley Fool • 2d ago
 
 The chart finally shows a market that has stopped bleeding and begun to fight back, and Ethereum is about to enter a structurally critical phase. ETH has successfully reversed from the $2,700-$2,800 range after months of cascading sell pressure, printing a series of higher lows and pushing hard tow…
 
-TradingView • 8h ago
+TradingView • 9h ago
 
 ---
 
@@ -224,7 +224,7 @@ TradingView • 8h ago
 
 Key PointsEthereum is seeing even more capital flow into its network, a trend that's continued in recent weeks.
 
-Nasdaq • 18h ago
+Nasdaq • 19h ago
 
 ---
 
@@ -308,7 +308,7 @@ Ethereum has critics calling it “overvalued”… but what if everyone is look
 
 📺 Milk Road
 
-👁️ 5K • 👍 157 • 💬 42 • ⏱️ 35:26 • 22h ago
+👁️ 5K • 👍 157 • 💬 42 • ⏱️ 35:26 • 23h ago
 
 ---
 
