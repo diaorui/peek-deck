@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T14:25:51.564974+00:00'
+updated: '2025-12-10T14:50:50.260972+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 14:25 UTC  
+**Last Updated:** December 10, 2025 at 14:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,24 +47,24 @@ Live Bitcoin monitoring dashboard
 **24h:** -0.8%  
 **7d:** -0.3%  
 **30d:** -11.0%  
-**90d:** -20.9%  
+**90d:** -21.0%  
 **1y:** -9.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1837.68B
+**Market Cap:** $1834.30B
 Rank #1
 
 **Circulating Supply:** 19,960,203 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.0%
+-27.1%
 
 **All-Time Low:** $67.81
-+135648.4%
++135433.1%
 
 ---
 
@@ -77,19 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[The Mods are sleeping. Upvote while you can.](https://www.reddit.com/r/Bitcoin/comments/1piv3l7/the_mods_are_sleeping_upvote_while_you_can/)**
-
-The Mods don't want you to see bullish memes. Vote against the bears.
-
-8h ago
-
----
-
 **[Tragedy Strikes the Bitcoin Market Today](https://www.reddit.com/r/Bitcoin/comments/1pitli0/tragedy_strikes_the_bitcoin_market_today/)**
 
 On December 9th, in an unexpected turn for traditional finance, the price of Bitcoin regained the $94,000 mark, wiping out more than three weeks of losses. The failure of the anticipated failure of Bitcoin, and therefore all crypto, was met with lukewarm apathy by your family from Thanksgiving. "It's still just funny money," said Uncle Lou, who then unironically bragged about taking out a reverse-mortgage on the home he bought in 1974. Top analysts' warn that the trend, which they have dubbed an "inverted loss" of Bitcoin's value could continue in the long-term, and lead to a redistribution of financial power and wealth, which, according to my editor, would cause destabilization and volatility in the billionaire who owns this publication. More updates will be available as adoption makes this opinion obsolete. Appropriated Press, December 2025.
 
-9h ago
+10h ago
 
 ---
 
@@ -107,7 +99,15 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 **[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
 
-3h ago
+4h ago
+
+---
+
+**[Account drained on exchange - Help!](https://www.reddit.com/r/Bitcoin/comments/1pizdbr/account_drained_on_exchange_help/)**
+
+Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exchange in Malaysia). We dont know what happened and how it happend. 2FA was in place so we really have no clue how the bitcoin moved. Please see photos attached for txid. Would appreciate your insight on what happened and how it happened so it doesn't happen again. Yes we know not your keys not your coin.... Lesson learnt the hard way... Many thanks for your help!
+
+4h ago
 
 ---
 
@@ -125,17 +125,17 @@ Sooner or later it will bounce to new highs, or not
 
 ---
 
-**[Account drained on exchange - Help!](https://www.reddit.com/r/Bitcoin/comments/1pizdbr/account_drained_on_exchange_help/)**
+**[HODL Strong💪](https://www.reddit.com/r/Bitcoin/comments/1pj41p8/hodl_strong/)**
 
-Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exchange in Malaysia). We dont know what happened and how it happend. 2FA was in place so we really have no clue how the bitcoin moved. Please see photos attached for txid. Would appreciate your insight on what happened and how it happened so it doesn't happen again. Yes we know not your keys not your coin.... Lesson learnt the hard way... Many thanks for your help!
+Bottom tex
 
-3h ago
+18m ago
 
 ---
 
 **["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -153,11 +153,11 @@ Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exch
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqc0Ua9A-5o0LRFqJABiHLwcyBTe-wSYVOajgEtJrbwjEEkJ4Q-8mqhw&gaa_ts=69397f53&gaa_sig=14aCcDAxRVIjqvSMiNosZyLN4QOptdKvYunuvzaAmE5lPXsCRYWxX_q4lB6lADVzPj-t5S3ouZphs8qnztl9Cg%3D%3D)**
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqfA6lv4Y7o5KIw8LBqoSUinXPaBV96GOe4u8M5A17noFfcgUTFTpmHo&gaa_ts=69398c30&gaa_sig=Aretcz8wzE-CYpJqrju2E8CQWhYXz1np8z5tHiQ22AHpWQpgggBYrF2fPfIu-pOvY9cl3MXH0yGeF1qQnRmNSQ%3D%3D)**
 
 MarketWatch • 15h ago
 
@@ -167,13 +167,13 @@ MarketWatch • 15h ago
 
 Standard Chartered pushed its $500,000 Bitcoin target to 2030 from 2028. The bank says digital asset treasury buying is over and won't support prices anymore. Geoffrey Kendrick said Bitcoin will now rely on ETF buying alone to reach the half-million dollar target.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
 **[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -191,33 +191,33 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[How Bitcoin Could Help You Retire a Millionaire](https://finance.yahoo.com/news/bitcoin-could-help-retire-millionaire-113500287.html)**
+**[Crypto Winter Squeezes Bitcoin Miners as AI Pivot Gains Urgency](https://www.bloomberg.com/news/articles/2025-12-10/crypto-winter-squeezes-bitcoin-miners-as-ai-pivot-gains-urgency)**
 
-To become a Bitcoin millionaire, you will need to make a few changes to your investment mindset.
+The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
 
-Yahoo Finance • 2h ago
-
----
-
-**[GameStop’s $500m Bitcoin bet takes games retailer on wild ride](https://www.dlnews.com/articles/markets/gamestop-half-billion-dollar-bet-on-bitcoin-takes-retailer-on-wild-ride/)**
-
-GameStop’s Bitcoin investment has hit highs and lows.  It isn’t the only company that’s been laid out by the asset’s volatility. Several Bitcoin treasury firms have been hit hard since the October 10 crash.
-
-dlnews.com • 2h ago
+Bloomberg.com • 57m ago
 
 ---
 
-**[Bitcoin ETFs turn positive with $152 million in inflows ahead of Fed rate decision, while traders stay defensive amid expected volatility: analysts](https://www.theblock.co/post/382038/bitcoin-etfs-turn-positive-with-152-million-in-inflows-ahead-of-fed-rate-decision-while-traders-stay-defensive-amid-expected-volatility-analysts?utm_source=news.xml&utm_medium=rss)**
+**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqeNTRS_H3aDCRnZA3gC1t0nqnsShN7L-Lr8T1bvrukw-nT0_4RzjLeh&gaa_ts=69398c30&gaa_sig=AQqunxcxXiQBaScfqYKmEyvWmJJh2trj7OdbPrVb1UAIiArgfTGH8Kb3KgwiOAFvYcKMaCzyPDZ-1wSZ92iNRQ%3D%3D)**
 
-The Block • 2h ago
+MarketWatch • 1d ago
 
 ---
 
-**[One of bitcoin's biggest bulls just slashed their forecast in half](https://www.businessinsider.com/bitcoin-price-prediction-btc-2026-forecast-standard-chartered-150k-2025-12)**
+**[Michael Saylor Claims Strategy Will Drive Bitcoin Price to $10M, Says BTC Would Be at $10K Without Him](https://finance.yahoo.com/news/michael-saylor-claims-strategy-drive-084941753.html)**
 
-Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
+Michael Saylor claims Strategy’s investment strategy is accelerating Bitcoin adoption. Strategy continues aggressive accumulation. Saylor says BTC would likely be just $10,000 today without the ...
 
-Business Insider • 4h ago
+Yahoo Finance • 1d ago
+
+---
+
+**['We Would Sell Bitcoin If We Needed To': Strategy CEO Says Selling Bitcoin Is Not Out Of The Question](https://finance.yahoo.com/news/sell-bitcoin-needed-strategy-ceo-141607132.html)**
+
+Strategy (NASDAQ:MSTR) CEO Phong Le has rejected the idea that selling Bitcoin is out of the question for the company. “We can sell Bitcoin and we would sell Bitcoin if we needed to to fund our dividend payments below 1 times mNAV,” Le said on an ...
+
+Yahoo Finance • 34m ago
 
 ---
 
@@ -289,7 +289,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 22h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 23h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -331,7 +331,7 @@ In this clip, I talk about a major macro event that could impact bitcoin and cry
 
 📺 CryptosRus Extra
 
-👁️ 8K • 👍 510 • 💬 114 • ⏱️ 8:42 • 13h ago
+👁️ 8K • 👍 510 • 💬 114 • ⏱️ 8:42 • 14h ago
 
 ---
 
@@ -351,7 +351,7 @@ Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BU
 
 📺 Conor Kenny
 
-👁️ 10K • 👍 515 • 💬 53 • ⏱️ 12:36 • 8h ago
+👁️ 10K • 👍 515 • 💬 53 • ⏱️ 12:36 • 9h ago
 
 ---
 
@@ -371,7 +371,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 33K • 👍 2K • 💬 266 • ⏱️ 44:49 • 22h ago
+👁️ 33K • 👍 2K • 💬 266 • ⏱️ 44:49 • 23h ago
 
 ---
 

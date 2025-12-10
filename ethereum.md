@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T14:25:51.571284+00:00'
+updated: '2025-12-10T14:50:50.267561+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
-- videos
 - social
+- news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 14:25 UTC  
+**Last Updated:** December 10, 2025 at 14:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** +6.3%  
-**30d:** -2.4%  
-**90d:** -29.1%  
-**1y:** -13.1%  
+**24h:** +2.0%  
+**7d:** +5.9%  
+**30d:** -2.8%  
+**90d:** -29.4%  
+**1y:** -13.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $402.01B
+**Market Cap:** $400.83B
 Rank #2
 
 **Circulating Supply:** 120,695,213 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.7%
+-32.9%
 
 **All-Time Low:** $0.43
-+769119.8%
++766184.3%
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An agent initially promised 3-5 days to credit/return my funds to my ETH wallet. More than 15 days have passed. Case #25243137 Their support refused to release my GDPR data, and in the UI there's no button to download it manually. I have lost over $100k in opportunity cost (sold ETH to deposit this). My tweet about it, including the screenshot where they tell me to report them to the authorities: https://x.com/laur_science/status/1998746021099122834 WARNING to all users: If their system glitches, they will NOT fix it manually. They will wait weeks while you lose money. Even better, don't use centralized exchanges for large amounts, or do it in small tranches. For me, it's the last time, and yes - I already knew the dangers, therefore "lesson reinforced", not "lesson learned".
 
-34m ago
-
----
-
-**[What does the entire Ethereum crypto market look like in motion? Here’s my take…](https://www.reddit.com/r/ethereum/comments/1pj22rq/what_does_the_entire_ethereum_crypto_market_look/)**
-
-I’ve always wondered: if you could see the crypto market flow in real time, what would it look like? So I built an app to answer that question. - Animated bubbles for trades - Dynamic order depth bars - Global aggregation across exchanges - A special “ALL” mode to visualize the whole market vs stablecoins - And a Replay mode to rewind and watch the market like a movie Launch is coming soon. 👉 Demo video + screenshots here: https://cryptostream.dev Drop your email if you want to be notified when it’s live. Curious what you think, AMA or share your thoughts!
-
-1h ago
+59m ago
 
 ---
 
@@ -104,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-15h ago
+16h ago
 
 ---
 
@@ -112,7 +104,7 @@ ive been looking at bitwage to receive my paycheck in USDC but i wanted to know 
 
 Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot wallet (non-hardware) that actually supports custom HD derivation at the account level and BIP39 passphrases (25th word). Surprisingly, this combo seems to be mostly available only on hardware wallets or very niche software. Most mainstream hot wallets either lock derivation paths or ignore passphrases completely. So far, the only hot wallet I personally found that seems to support both is TokenPocket. According to their docs, keys stay on-device and they allow more flexibility than most wallets. Before fully committing, I’m curious: Has anyone here actually used TokenPocket with custom derivation paths + passphrase? Any thoughts on its security model or reputation? Are there any other hot wallets I might be missing (mobile / desktop / CLI) that support this kind of setup for Ethereum / EVM? I know this is more of a power-user thing, but I’m guessing some of you have gone through the same search. Appreciate any insight 🙏
 
-22h ago
+23h ago
 
 ---
 
@@ -142,7 +134,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Five years ago, an Ethereum standards author was threatened with trademark legal action over the name of a smart contract standard](https://www.reddit.com/r/ethereum/comments/1phe1xy/five_years_ago_an_ethereum_standards_author_was/)**
 
-🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 1d ago
+🔗 [X (formerly Twitter)](https://x.com/mudgen/status/1997650412090826959) • 2d ago
+
+---
+
+**[Treasury Yield](https://www.reddit.com/r/ethereum/comments/1phl21p/treasury_yield/)**
+
+By magnitude, the biggest question for the Defi ecosystem for the next cycle is who gets to keep the yield on treasuries backing reserve stablecoins such as USDC and USDT? If secretary Bennett and the federal reserve are correct in their forecasts, we'll be at something like $3T in stablecoin market cap by 2030. At
+
+🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 1d ago
 
 ---
 
@@ -166,17 +166,23 @@ Decrypt • 21h ago
 
 ---
 
-**[The Daily: Robinhood's expansion plans, BlackRock's staked Ethereum ETF filing, Strategy's biggest Bitcoin buy since July, and more](https://www.theblock.co/post/381770/the-daily-robinhoods-expansion-plans-blackrocks-staked-ethereum-etf-filing-strategys-biggest-bitcoin-buy-since-july-and-more)**
+**[Trump Tariff Whale’s $100M ETH Long Bet as ETH USD Faces Supply Shock: Ethereum Price Prediction Ready to Explode?](https://finance.yahoo.com/news/trump-tariff-whale-100m-eth-155334139.html)**
 
-The Block • 1d ago
+Poland crypto industry scored a major win this week, as plans to move ahead with new crypto rules stalled on Friday after lawmakers failed to override President Andrzej Duda’s veto. The setback slows Prime Minister Donald Tusk’s effort to align national policy with the European Union’s MiCA framework. The Sejm, ...
+
+Yahoo Finance • 1d ago
 
 ---
 
-**[Will BlackRock's (BLK) Staked Ethereum ETF Bid Redefine Its Crypto Innovation and Fee Narrative?](https://finance.yahoo.com/news/blackrocks-blk-staked-ethereum-etf-131006970.html)**
+**[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
 
-Earlier this month, BlackRock moved further into digital assets by filing with the SEC for an iShares staked Ethereum ETF that pairs ether price exposure with on-chain staking rewards, using a multi-custodian structure anchored by Coinbase and BNY Mellon. The filing signals BlackRock’s push to broaden yield-focused crypto offerings at a time when investors are reassessing Bitcoin ETF allocations and looking for income-oriented alternatives. We’ll now examine how this push into staked...
+Binance • 1d ago
 
-Yahoo Finance • 1h ago
+---
+
+**[The Daily: Robinhood's expansion plans, BlackRock's staked Ethereum ETF filing, Strategy's biggest Bitcoin buy since July, and more](https://www.theblock.co/post/381770/the-daily-robinhoods-expansion-plans-blackrocks-staked-ethereum-etf-filing-strategys-biggest-bitcoin-buy-since-july-and-more)**
+
+The Block • 1d ago
 
 ---
 
@@ -188,6 +194,22 @@ Decrypt • 1d ago
 
 ---
 
+**[Will BlackRock's (BLK) Staked Ethereum ETF Bid Redefine Its Crypto Innovation and Fee Narrative?](https://finance.yahoo.com/news/blackrocks-blk-staked-ethereum-etf-131006970.html)**
+
+Earlier this month, BlackRock moved further into digital assets by filing with the SEC for an iShares staked Ethereum ETF that pairs ether price exposure with on-chain staking rewards, using a multi-custodian structure anchored by Coinbase and BNY Mellon. The filing signals BlackRock’s push to broaden yield-focused crypto offerings at a time when investors are reassessing Bitcoin ETF allocations and looking for income-oriented alternatives. We’ll now examine how this push into staked...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum ETFs Hit Six-Week High as Investors Rotate Within Crypto](https://finance.yahoo.com/news/ethereum-etfs-hit-six-week-135007523.html)**
+
+Spot Ethereum ETF inflows hit a six-week high, with analysts citing a structural rotation by institutions broadening their crypto exposure.
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
 
 The trading platform dives further into digital assets both domestically and globally.
@@ -196,35 +218,11 @@ Fortune • 1d ago
 
 ---
 
-**[Prediction: If This 1 Policy Changes, Bitcoin and Ethereum Will Soar](https://www.fool.com/investing/2025/12/08/prediction-if-this-1-policy-changes-bitcoin-and-et/)**
-
-Japan is considering a big change to how it taxes crypto.
-
-The Motley Fool • 2d ago
-
----
-
 **[Ethereum's Game-Changing Move: $5,000 Target](https://www.tradingview.com/news/u_today:262b5f615094b:0-ethereum-s-game-changing-move-5-000-target/)**
 
 The chart finally shows a market that has stopped bleeding and begun to fight back, and Ethereum is about to enter a structurally critical phase. ETH has successfully reversed from the $2,700-$2,800 range after months of cascading sell pressure, printing a series of higher lows and pushing hard tow…
 
 TradingView • 4h ago
-
----
-
-**[ETHE Vs. ETH: Which Grayscale Ethereum ETF Is Better?](https://seekingalpha.com/article/4851950-ethe-vs-eth-which-grayscale-ethereum-etf-is-better)**
-
-The 65% staking ratio means ETH will generate a significantly better total return than ETHE after fees. See the complete analysis here.
-
-Seeking Alpha • 4h ago
-
----
-
-**[Here's Why Ethereum Soared More than 6% Today, Breaking $3,300 for the First Time In Nearly a Month](https://www.nasdaq.com/articles/heres-why-ethereum-soared-more-6-today-breaking-3300-first-time-nearly-month)**
-
-Key PointsEthereum is seeing even more capital flow into its network, a trend that's continued in recent weeks.
-
-Nasdaq • 14h ago
 
 ---
 
@@ -238,7 +236,7 @@ Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=a
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 235 • ⏱️ 12:03 • 14h ago
+👁️ 57K • 👍 3K • 💬 235 • ⏱️ 12:03 • 15h ago
 
 ---
 
@@ -258,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 215 • 💬 8 • ⏱️ 5:16 • 11h ago
+👁️ 3K • 👍 215 • 💬 8 • ⏱️ 5:16 • 12h ago
 
 ---
 
@@ -278,7 +276,7 @@ BITCOIN & ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 9K • 👍 327 • 💬 81 • ⏱️ 21:02 • 14h ago
+👁️ 9K • 👍 327 • 💬 81 • ⏱️ 21:02 • 15h ago
 
 ---
 
@@ -288,7 +286,7 @@ TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 CareerGuide.com
 
-👁️ 2K • 👍 1K • 4h ago
+👁️ 2K • 👍 1K • 5h ago
 
 ---
 
@@ -298,7 +296,7 @@ Bitcoin and Ethereum surged amid anticipation that the US central bank will cut 
 
 📺 Paul Barron Network
 
-👁️ 44K • 👍 2K • 💬 106 • ⏱️ 20:14 • 17h ago
+👁️ 44K • 👍 2K • 💬 106 • ⏱️ 20:14 • 18h ago
 
 ---
 
@@ -318,7 +316,7 @@ Ethereum has critics calling it “overvalued”… but what if everyone is look
 
 📺 Milk Road
 
-👁️ 4K • 👍 143 • 💬 27 • ⏱️ 35:26 • 18h ago
+👁️ 4K • 👍 143 • 💬 27 • ⏱️ 35:26 • 19h ago
 
 ---
 
@@ -328,7 +326,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 555 • 👍 38 • 💬 5 • ⏱️ 1:09:21 • 2h ago
+👁️ 555 • 👍 38 • 💬 5 • ⏱️ 1:09:21 • 3h ago
 
 ---
 

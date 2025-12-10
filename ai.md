@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T14:25:51.556073+00:00'
+updated: '2025-12-10T14:50:50.252209+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- repositories
 - social
 - videos
-- repositories
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 14:25 UTC  
+**Last Updated:** December 10, 2025 at 14:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,14 +37,6 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Pete Hegseth Says the Pentagon's New Chatbot Will Make America 'More Lethal'. The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'](https://www.reddit.com/r/artificial/comments/1piors1/pete_hegseth_says_the_pentagons_new_chatbot_will/)**
-
-The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'
-
-🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 13h ago
-
----
-
 **[McDonald's AI disaster: Marketing 101](https://www.reddit.com/r/artificial/comments/1pj2bt3/mcdonalds_ai_disaster_marketing_101/)**
 
 This year, McDonald’s decided to get in on the corporate slopfest with a 45-second Christmas spot cooked up for its Netherlands division by the ad agency TBWA\Neboko. The entire thing is AI, and revolves around the thesis that the holiday season is the “most terrible time of the year.” After huge backlash, ad has been taken down from YT, agency made statement owning there failure. https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial This reminds me: "The ability to speak doesn't make you intelligent!" - Qui Gon Jinn Technology, including AI is a tool, an enabler to magnify human genius or stupidity! PS: removed the earlier post with quote name error, couldn't edit in time.
@@ -53,11 +45,25 @@ This year, McDonald’s decided to get in on the corporate slopfest with a 45-se
 
 ---
 
+**[Pete Hegseth Says the Pentagon's New Chatbot Will Make America 'More Lethal'. The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'](https://www.reddit.com/r/artificial/comments/1piors1/pete_hegseth_says_the_pentagons_new_chatbot_will/)**
+
+The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'
+
+🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 13h ago
+
+---
+
 **[LLMs can understand Base64 encoded instructions](https://www.reddit.com/r/artificial/comments/1pioxt4/llms_can_understand_base64_encoded_instructions/)**
 
 Im not sure if this was discussed before. But LLMs can understand Base64 encoded prompts and they injest it like normal prompts. This means non human readable text prompts understood by the AI model. Tested with Gemini, ChatGPT and Grok.
 
 13h ago
+
+---
+
+**[AI companies basically:](https://www.reddit.com/r/artificial/comments/1pj41sq/ai_companies_basically/)**
+
+18m ago
 
 ---
 
@@ -73,7 +79,7 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 Reprogrammable humanoid robots could level the global manufacturing playing field, Arm CEO Rene Haas said at Fortune Brainstorm AI.
 
-🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 4h ago
+🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 5h ago
 
 ---
 
@@ -85,19 +91,11 @@ Exclusive: Instacart’s AI pricing may be inflating your grocery bill.
 
 ---
 
-**[Comparison between top AI skin texture enhancement tools available online](https://www.reddit.com/r/artificial/comments/1pizde7/comparison_between_top_ai_skin_texture/)**
-
-Read comment 👇🏻
-
-3h ago
-
----
-
 **[OpenAI Hires Slack CEO as New Chief Revenue Officer](https://www.reddit.com/r/artificial/comments/1pifikb/openai_hires_slack_ceo_as_new_chief_revenue/)**
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 19h ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 20h ago
 
 ---
 
@@ -113,7 +111,7 @@ Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as A
 
 People keep talking about “fixing hallucination,” but nobody is asking the one question that actually matters: Why do these systems hallucinate in the first place? Every solution so far—RAG, RLHF, model scaling, “AI constitutions,” uncertainty scoring—tries to patch the problem after it happens. They’re improving the guess instead of removing the guess. The real issue is structural: these models are architecturally designed to generate answers even when they don’t have grounded information. They’re rewarded for sounding confident, not for knowing when to stop. That’s why the failures repeat across every system—GPT, Claude, Gemini, Grok. Different models, same flaw. What I’ve put together breaks down the actual mechanics behind that flaw using the research the industry itself published. It shows why their methods can’t solve it, why the problem persists across scaling, and why the most obvious correction has been ignored for years. If you want the full breakdown—with evidence from academic papers, production failures, legal cases, medical misfires, and the architectural limits baked into transformer models—here it is. It explains the root cause in plain language so people can finally see the pattern for themselves.
 
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 19h ago
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 20h ago
 
 ---
 
@@ -155,7 +153,7 @@ The New York Times • 4h ago
 
 Meta Platforms Inc.’s Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting the company’s focus to an artificial intelligence model it can make money off of.
 
-Bloomberg.com • 25m ago
+Bloomberg.com • 50m ago
 
 ---
 
@@ -191,7 +189,7 @@ Straight Arrow News • 11h ago
 
 **[Hegseth Introduces Department to New AI Tool](https://www.war.gov/News/News-Stories/Article/Article/4355797/hegseth-introduces-department-to-new-ai-tool/)**
 
-U.S. Department of War (.gov) • 16h ago
+U.S. Department of War (.gov) • 17h ago
 
 ---
 
@@ -203,7 +201,7 @@ U.S. Department of War (.gov) • 16h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 560 • 💬 567 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 561 • 💬 576 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -211,7 +209,7 @@ AI progress is steady. Human equivalence is sudden.
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 417 • 💬 369 • 1d ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 419 • 💬 369 • 1d ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -219,7 +217,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 319 • 💬 389 • 23h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 321 • 💬 393 • 23h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -227,7 +225,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 256 • 💬 112 • 21h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 262 • 💬 114 • 21h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -241,7 +239,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 141 • 💬 175 • 11h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 145 • 💬 176 • 11h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -255,7 +253,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 115 • 💬 23 • 18h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+⬆️ 116 • 💬 24 • 18h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -263,7 +261,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
 
-⬆️ 59 • 💬 85 • 12h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 62 • 💬 86 • 13h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
 
 ---
 
@@ -335,7 +333,7 @@ Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsai
 
 📺 hxsain
 
-👁️ 249K • 👍 21K • 💬 234 • ⏱️ 0:51 • 19h ago
+👁️ 249K • 👍 21K • 💬 234 • ⏱️ 0:51 • 20h ago
 
 ---
 
@@ -343,7 +341,7 @@ Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsai
 
 📺 Career247
 
-👁️ 6K • 👍 1K • 💬 89 • ⏱️ 1:48 • 39m ago
+👁️ 6K • 👍 1K • 💬 89 • ⏱️ 1:48 • 1h ago
 
 ---
 
@@ -389,7 +387,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 67,717 • ❤️ 630 • 1d ago
+⬇️ 67,717 • ❤️ 634 • 1d ago
 
 ---
 
@@ -401,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 232,896 • ❤️ 2,461 • 1d ago
+⬇️ 232,896 • ❤️ 2,466 • 1d ago
 
 ---
 
@@ -413,7 +411,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 10,031 • ❤️ 280 • 20h ago
+⬇️ 10,031 • ❤️ 284 • 20h ago
 
 ---
 
@@ -437,7 +435,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 40,667 • ❤️ 852 • 9d ago
+⬇️ 40,667 • ❤️ 854 • 9d ago
 
 ---
 
@@ -449,7 +447,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 194 • 21h ago
+⬇️ 2,414 • ❤️ 198 • 21h ago
 
 ---
 
@@ -461,7 +459,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 `text-generation` `8.3B`
 
-⬇️ 444,785 • ❤️ 180 • 1d ago
+⬇️ 444,785 • ❤️ 181 • 1d ago
 
 ---
 
@@ -497,7 +495,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 15,773 • ❤️ 419 • 8d ago
+⬇️ 15,773 • ❤️ 421 • 8d ago
 
 ---
 
