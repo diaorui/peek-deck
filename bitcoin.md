@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T04:01:45.081051+00:00'
+updated: '2025-12-10T04:42:17.326794+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 04:01 UTC  
+**Last Updated:** December 10, 2025 at 04:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,419.25
+### $92,557.49
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** +0.3%  
-**30d:** -10.4%  
-**90d:** -20.4%  
-**1y:** -8.5%  
+**24h:** +2.8%  
+**7d:** +0.6%  
+**30d:** -10.2%  
+**90d:** -20.3%  
+**1y:** -8.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1844.77B
+**Market Cap:** $1846.51B
 Rank #1
 
 **Circulating Supply:** 19,959,990 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.7%
+-26.5%
 
 **All-Time Low:** $67.81
-+136171.9%
++136466.9%
 
 ---
 
@@ -91,21 +91,13 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pier04/daily_meme_until_100000/)**
 
-9h ago
+10h ago
 
 ---
 
 **[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
 
 15h ago
-
----
-
-**[Why did Satoshi select 21 Million as the Bitcoin supply?](https://www.reddit.com/r/Bitcoin/comments/1piq094/why_did_satoshi_select_21_million_as_the_bitcoin/)**
-
-Does anyone have an idea, why Satoshi selected the Bitcoin fundamentals in a way, to create 21 Million Bitcoin? Is there something interesting or historical about the number 21? Or is it because 10 minutes is a round number, 4 years the Government cycle and 50 Bitcoin per block ... just because? The simple reason for 21 million Bitcoin lies in the 4 variables: Starting blockreward: 50 Bitcoin Block frequency: 10 Minutes Blockreward reduction timing: Every 4 years Blockreward reduction amount: 1/2 (technically it is not 4 years but a certain amount of blocks, but let's ignore that rounding error) If you change any of the 4 variables, you get a supply different from 21 million: 1a. Starting blockreward: 25 Bitcoin -> 10.5 Million Bitcoin 1b. Starting blockreward: 100 Bitcoin-> 42 Million Bitcoin 2a. Block frequency: 20 Minutes -> 10.5 Million Bitcoin 2b. Block frequency: 5 Minutes -> 42 Million Bitcoin 3a. Blockreward reduction timing: Every 2 years -> 10.5 Million Bitcoin 3b. Blockreward reduction timing: Every 8 years -> 42 Million Bitcoin 4a. Blockreward reduction amount: 3/4 -> 14 Million Bitcoin 4b. Blockreward reduction amount: 1/4 -> 42 Million Bitcoin Therefore, why 21 Million? Is there any significance behind it? Has Satoshi ever said anything about that number? I would also be interested in any ideas or guesses. Very likely noone really knows.
-
-2h ago
 
 ---
 
@@ -117,7 +109,7 @@ Does anyone have an idea, why Satoshi selected the Bitcoin fundamentals in a way
 
 **[Taste the pain first](https://www.reddit.com/r/Bitcoin/comments/1pilin2/taste_the_pain_first/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -133,7 +125,7 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 Hi everyone, FOMC meeting will be tomorrow with the decision about potential interest rate cut. What is your expectation in terms of (a) cut itself, (b) 2026 policy (c) crypto sector (d) btc price. Any thoughts much appreciated!
 
-5h ago
+6h ago
 
 ---
 
@@ -141,7 +133,13 @@ Hi everyone, FOMC meeting will be tomorrow with the decision about potential int
 
 The OCC is the federal authority that determines what U.S. banks are allowed to execute under supervision. This shift is bigger then the ETF Approval from 2024! Its approval is not opinion, interpretation, or industry signaling. It is a binding permission that enables banks to route Bitcoin transactions legally, without inventory risk, and within standard audit frameworks. The relevance is not immediate, because regulatory clarity precedes capital deployment. But when distribution becomes active, this ruling will be the reason banks can deliver Bitcoin at scale through the same channels that already move equities, bonds, and FX flow.
 
-🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/occ-authorizes-us-banks-to-execute) • 8h ago
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/occ-authorizes-us-banks-to-execute) • 9h ago
+
+---
+
+**[My posted meme to this community from six years ago is now irony and inverse lol](https://www.reddit.com/r/Bitcoin/comments/1pische/my_posted_meme_to_this_community_from_six_years/)**
+
+1h ago
 
 ---
 
@@ -153,7 +151,7 @@ The OCC is the federal authority that determines what U.S. banks are allowed to 
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-WIRED • 17h ago
+WIRED • 18h ago
 
 ---
 
@@ -161,13 +159,7 @@ WIRED • 17h ago
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 9h ago
-
----
-
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqce6F0p_5Uu8ukSWDUJQ-eCc0yG09IaqBaoclehwNEaEsXKd79a0CcQ&gaa_ts=6938f414&gaa_sig=cDUaFNDUThz1yLNUuZTpaQlr3oGFdqj6U9OswLdi8fQ2C75_ZjfUmMn_k8w4M6jLj8vQFSaaASFOE3ol8oDc8w%3D%3D)**
-
-MarketWatch • 4h ago
+CNBC • 10h ago
 
 ---
 
@@ -175,21 +167,41 @@ MarketWatch • 4h ago
 
 Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
-**[Bitcoin Showing Most Asymmetric Risk-To-Reward Since COVID Amid Recent Crash, Bitwise Researcher Says](https://finance.yahoo.com/news/bitcoin-showing-most-asymmetric-risk-030104448.html)**
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqeipTNqda0684bJV6pHDvQseKj0CY_yxFsD43dfoSrB6jm-RG3qxmwU&gaa_ts=6938fd90&gaa_sig=JzrJix7RRAtZ3H-y75VHgXIXjsgDhr8_8VBsguhtoQSHrEOH_YrB8LTkhOy3wyyiyse9DPE4NnSSRnIrNEsclw%3D%3D)**
 
-Bitcoin at current levels may have the potential for outsized returns, according to Bitwise European Head of Research André Dragosch. “The last time I saw such an asymmetric risk-reward was during Covid,” Dragosch said on X last week, referring to ...
+MarketWatch • 5h ago
 
-Yahoo Finance • 1h ago
+---
+
+**[Bitcoin jumps to $94,000, but 'hawkish' Fed cut threatens crypto rally](https://finance.yahoo.com/news/bitcoin-jumps-to-94000-but-hawkish-fed-cut-threatens-crypto-rally-164647910.html)**
+
+The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
+
+Yahoo Finance • 7h ago
+
+---
+
+**[Here's How the Fed's Upcoming Interest Rate Decision Could Affect the Price of Bitcoin](https://www.fool.com/investing/2025/12/09/heres-how-the-feds-upcoming-interest-rate-decision/)**
+
+It will take more than a rate cut to boost Bitcoin's price.
+
+The Motley Fool • 5h ago
+
+---
+
+**[Bitcoin and ether surge on eve of FOMC decision fueling wave of liquidations](https://www.theblock.co/post/381935/bitcoin-ether-surge-eve-fomc-decision-fueling-wave-liquidations)**
+
+The Block • 10h ago
 
 ---
 
 **[Bitcoin Price Jumps As Tether-Backed Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 5h ago
 
 ---
 
@@ -197,27 +209,13 @@ Investor's Business Daily • 4h ago
 
 Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 7h ago
 
 ---
 
 **[Bitcoin treasury XXI shares sink 20% in NYSE debut despite rising BTC price](https://www.theblock.co/post/381975/twenty-one-shares-sink-20-nyse-debut-despite-rising-bitcoin-price)**
 
-The Block • 5h ago
-
----
-
-**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
-
-Reuters • 22h ago
-
----
-
-**[Bitcoin Holds Near $92K as Selling Cools, but Demand Still Lags](https://www.coindesk.com/markets/2025/12/10/bitcoin-holds-near-usd92k-as-selling-cools-but-demand-still-lags)**
-
-ETF inflows have finally turned positive, but weak on-chain activity, defensive derivatives positioning, and negative spot CVD show a market stabilizing without the conviction needed for a sustained move higher.
-
-CoinDesk • 1h ago
+The Block • 6h ago
 
 ---
 
@@ -273,7 +271,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 10h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 11h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -309,7 +307,7 @@ Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation o
 
 📺 Bitcoin Magazine
 
-👁️ 41K • 👍 2K • 💬 266 • ⏱️ 42:27 • 11h ago
+👁️ 41K • 👍 2K • 💬 266 • ⏱️ 42:27 • 12h ago
 
 ---
 
@@ -319,7 +317,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 2K • 💬 181 • ⏱️ 44:49 • 12h ago
+👁️ 30K • 👍 2K • 💬 181 • ⏱️ 44:49 • 13h ago
 
 ---
 
@@ -369,7 +367,7 @@ Let's talk about the price of #Bitcoin going into FOMC! Into The Cryptoverse Pre
 
 📺 Benjamin Cowen
 
-👁️ 62K • 👍 4K • 💬 154 • ⏱️ 9:09 • 14h ago
+👁️ 62K • 👍 4K • 💬 154 • ⏱️ 9:09 • 15h ago
 
 ---
 

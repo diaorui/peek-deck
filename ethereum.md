@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T04:01:45.087072+00:00'
+updated: '2025-12-10T04:42:17.332040+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 04:01 UTC  
+**Last Updated:** December 10, 2025 at 04:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.4%  
-**7d:** +5.7%  
-**30d:** -3.0%  
-**90d:** -29.5%  
-**1y:** -13.7%  
+**24h:** +7.0%  
+**7d:** +6.3%  
+**30d:** -2.5%  
+**90d:** -29.2%  
+**1y:** -13.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $399.50B
+**Market Cap:** $400.20B
 Rank #2
 
 **Circulating Supply:** 120,695,213 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--33.1%
+-32.8%
 
 **All-Time Low:** $0.43
-+764325.1%
++767154.3%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ ive been looking at bitwage to receive my paycheck in USDC but i wanted to know 
 
 Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot wallet (non-hardware) that actually supports custom HD derivation at the account level and BIP39 passphrases (25th word). Surprisingly, this combo seems to be mostly available only on hardware wallets or very niche software. Most mainstream hot wallets either lock derivation paths or ignore passphrases completely. So far, the only hot wallet I personally found that seems to support both is TokenPocket. According to their docs, keys stay on-device and they allow more flexibility than most wallets. Before fully committing, I’m curious: Has anyone here actually used TokenPocket with custom derivation paths + passphrase? Any thoughts on its security model or reputation? Are there any other hot wallets I might be missing (mobile / desktop / CLI) that support this kind of setup for Ethereum / EVM? I know this is more of a power-user thing, but I’m guessing some of you have gone through the same search. Appreciate any insight 🙏
 
-12h ago
+13h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot walle
 
 A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 17h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 18h ago
 
 ---
 
@@ -154,7 +154,7 @@ This is Part Eight! The very last chapter of the eight-part series: Can I Pay Wi
 
 Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -168,7 +168,7 @@ Binance • 1d ago
 
 Key PointsEthereum has built a strong user base and frequently generates over $10 million in daily app fees.
 
-Nasdaq • 11h ago
+Nasdaq • 12h ago
 
 ---
 
@@ -180,11 +180,19 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds](https://finance.yahoo.com/news/tom-lee-bitmine-buys-429-162833185.html)**
+**[Ethereum faces warning signs: Largest Binance inflow since 2023 sparks sell-off fears](https://m.economictimes.com/news/international/australia/ethereum-faces-warning-signs-largest-binance-inflow-since-2023-sparks-sell-off-fears/articleshow/125881467.cms)**
 
-Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
+Ethereum experienced a significant inflow of 162,084 ETH to Binance on December 5. This large deposit by whales has sparked analyst concerns about potential selling pressure.  Despite ETH consolidating, this event highlights market sentiment.  Traders are watching closely for further inflows to gauge market direction.  This move could signal a shift in whale strategy.
 
-Yahoo Finance • 1d ago
+The Economic Times • 1h ago
+
+---
+
+**[3 Reasons to Buy Ethereum Before January 2026](https://finance.yahoo.com/news/3-reasons-buy-ethereum-january-193000879.html)**
+
+Ethereum could be once again on the path to the $5,000 price level. Here's why.
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -210,14 +218,6 @@ CoinDesk • 1d ago
 
 ---
 
-**[Here's Why Ethereum Soared More than 6% Today, Breaking $3,300 for the First Time In Nearly a Month](https://www.nasdaq.com/articles/heres-why-ethereum-soared-more-6-today-breaking-3300-first-time-nearly-month)**
-
-Key PointsEthereum is seeing even more capital flow into its network, a trend that's continued in recent weeks.
-
-Nasdaq • 4h ago
-
----
-
 **[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
 
 The trading platform dives further into digital assets both domestically and globally.
@@ -236,7 +236,7 @@ Bitcoin and Ethereum surged amid anticipation that the US central bank will cut 
 
 📺 Paul Barron Network
 
-👁️ 29K • 👍 2K • 💬 88 • ⏱️ 20:14 • 7h ago
+👁️ 29K • 👍 2K • 💬 88 • ⏱️ 20:14 • 8h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN & ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 3K • 👍 201 • 💬 64 • ⏱️ 21:02 • 4h ago
+👁️ 3K • 👍 201 • 💬 64 • ⏱️ 21:02 • 5h ago
 
 ---
 
@@ -266,7 +266,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 870 • 👍 56 • 💬 20 • ⏱️ 13:32 • 9h ago
+👁️ 870 • 👍 56 • 💬 20 • ⏱️ 13:32 • 10h ago
 
 ---
 
@@ -286,7 +286,7 @@ The numbers are in, and they are staggering. In a new filing released yesterday 
 
 📺 Wall Street Stockcast
 
-👁️ 4K • 👍 139 • 💬 35 • ⏱️ 8:45 • 12h ago
+👁️ 4K • 👍 139 • 💬 35 • ⏱️ 8:45 • 13h ago
 
 ---
 
