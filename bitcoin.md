@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T20:16:54.846160+00:00'
+updated: '2025-12-10T20:43:31.010742+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 20:16 UTC  
+**Last Updated:** December 10, 2025 at 20:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $94,200.55
+### $93,632.19
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.5%  
-**7d:** +2.2%  
-**30d:** -8.7%  
-**90d:** -19.0%  
-**1y:** -6.7%  
+**24h:** +1.1%  
+**7d:** +1.8%  
+**30d:** -9.1%  
+**90d:** -19.3%  
+**1y:** -7.2%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Bottom tex
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ Bottom tex
 
 Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exchange in Malaysia). We dont know what happened and how it happend. 2FA was in place so we really have no clue how the bitcoin moved. Please see photos attached for txid. Would appreciate your insight on what happened and how it happened so it doesn't happen again. Yes we know not your keys not your coin.... Lesson learnt the hard way... Many thanks for your help!
 
-9h ago
+10h ago
 
 ---
 
@@ -107,13 +107,13 @@ Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exch
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pja3aj/daily_meme_until_100000/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -121,7 +121,7 @@ Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exch
 
 On December 9th, in an unexpected turn for traditional finance, the price of Bitcoin regained the $94,000 mark, wiping out more than three weeks of losses. The failure of the anticipated failure of Bitcoin, and therefore all crypto, was met with lukewarm apathy by your family from Thanksgiving. "It's still just funny money," said Uncle Lou, who then unironically bragged about taking out a reverse-mortgage on the home he bought in 1974. Top analysts' warn that the trend, which they have dubbed an "inverted loss" of Bitcoin's value could continue in the long-term, and lead to a redistribution of financial power and wealth, which, according to my editor, would cause destabilization and volatility in the billionaire who owns this publication. More updates will be available as adoption makes this opinion obsolete. Appropriated Press, December 2025.
 
-15h ago
+16h ago
 
 ---
 
@@ -143,7 +143,7 @@ Sooner or later it will bounce to new highs, or not
 
 It’s incredible how many interesting and innovative products coming out to put you Bitcoin to work for you everything from staking, loan back products and the ability to you Bitcoin as collateral. I really think individuals you accumulate and hold this asset will unlock a financial edge limited to a small segment of the population. I really envision time where acquiring bitcoin will be nearly impossible or astronomically expensive because those who have even the smallest amounts will never sell. We are in a race with the entire world and the window is closing.
 
-1h ago
+2h ago
 
 ---
 
@@ -155,7 +155,7 @@ It’s incredible how many interesting and innovative products coming out to put
 
 The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
 
-Decrypt • 58m ago
+Decrypt • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ CNBC • 1d ago
 
 **[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 8h ago
+Investor's Business Daily • 9h ago
 
 ---
 
@@ -183,13 +183,13 @@ Investor's Business Daily • 8h ago
 
 Jack Mallers' Twenty One falls 20% in trading debut. It comes as other Bitcoin treasury firms face increasing pressure. Twenty One is majority-owned by stablecoin giant Tether.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
 **[Bitcoin treasury XXI shares sink 20% in NYSE debut despite rising BTC price](https://www.theblock.co/post/381975/twenty-one-shares-sink-20-nyse-debut-despite-rising-bitcoin-price)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -269,7 +269,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 8h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 9h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -297,7 +297,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Ask HNIs early-stage fundraising broken,or founders just pitching the wrong way?](https://news.ycombinator.com/item?id=46216914)**
 
-⬆️ 3 • 💬 0 • 7h ago
+⬆️ 3 • 💬 0 • 8h ago
 
 ---
 
@@ -331,7 +331,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 108 • ⏱️ 41:09 • 4h ago
+👁️ 23K • 👍 1K • 💬 108 • ⏱️ 41:09 • 5h ago
 
 ---
 

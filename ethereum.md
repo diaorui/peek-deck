@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T20:16:54.851466+00:00'
+updated: '2025-12-10T20:43:31.016703+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 20:16 UTC  
+**Last Updated:** December 10, 2025 at 20:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,374.17
+### $3,398.06
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +4.0%  
-**7d:** +9.4%  
-**30d:** +0.4%  
-**90d:** -26.7%  
-**1y:** -10.2%  
+**24h:** +3.4%  
+**7d:** +8.8%  
+**30d:** -0.2%  
+**90d:** -27.5%  
+**1y:** -11.1%  
 
 ---
 
@@ -88,7 +88,7 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 oskar thorén is one of the leads in ethereum foundation's newest IPTF, or institutional privacy task force. he's a freedom maxi, zero-knowledge wizard, taiwan expart, and a dear friend. an electric mix of sovereign energy! oskar is one of the most well spoken advocates for privacy, zk, and self-custody, and in this interview where we hiked xiangshan in taipei, he holds nothing back to give us banger insight after banger insight. we talked all things zk and privacy, including: how the snowden revelations ignited his passion his early work in Vac and Waku to create encrypted messaging back when early ethereum was only 3 pillars (eth/swarm/whisper) how it informed his passion for zero knowledge cryptography and the technical applications of it to privacy-preservation his contributions to MoPro, a zk mobile proving toolkit that's bringing zk ever closer to reality on our phones his work on https://zkintro.com where he creates friendly resources to zero-knowledge cryptography from beginners to engineers to researchers, how his latest venture as one of the co-leads in the EF's newest task force, the Institutional Privacy Task Force, is bringing cypherpunk-grade privacy to the world's biggest financial institutions, and his 3-pronged mindset to achieving self-sovereignty you can catch the full interview on my youtube channel at: https://youtu.be/_BWRyIqCmVI --------------------------- if we're meeting for the first time, hi 👋! i spread the good word on good work in crypto. it's a challenging road fighting the cesspool that is crypto youtube... but im energized by creating principles-led, values-driven content a like, sub, comment, share goes a long way <3
 
-🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 3h ago
+🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 4h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-21h ago
+22h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
 
-Decrypt • 58m ago
+Decrypt • 1h ago
 
 ---
 
@@ -164,7 +164,7 @@ Decrypt • 58m ago
 
 Despite the breakout, DOGE faces significant structural resistance from major EMAs.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 14h ago
 
 The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -240,7 +240,7 @@ Bitcoin and Ethereum surged amid anticipation that the US central bank will cut 
 
 📺 Paul Barron Network
 
-👁️ 47K • 👍 2K • 💬 107 • ⏱️ 20:14 • 23h ago
+👁️ 47K • 👍 2K • 💬 107 • ⏱️ 20:14 • 1d ago
 
 ---
 
@@ -280,7 +280,7 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 889 • 👍 61 • 💬 9 • ⏱️ 1:10:46 • 3h ago
+👁️ 889 • 👍 61 • 💬 9 • ⏱️ 1:10:46 • 4h ago
 
 ---
 
@@ -290,7 +290,7 @@ Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=a
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 4K • 💬 324 • ⏱️ 12:03 • 20h ago
+👁️ 65K • 👍 4K • 💬 324 • ⏱️ 12:03 • 21h ago
 
 ---
 
@@ -310,7 +310,7 @@ BITCOIN & ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 10K • 👍 355 • 💬 66 • ⏱️ 21:02 • 20h ago
+👁️ 10K • 👍 355 • 💬 66 • ⏱️ 21:02 • 21h ago
 
 ---
 
@@ -330,7 +330,7 @@ SORTEIO $ 1.000 USDT + RECEBIDOS SINGAPURA: ...
 
 📺 Yubb
 
-👁️ 6K • 👍 3K • 8h ago
+👁️ 6K • 👍 3K • 9h ago
 
 ---
 

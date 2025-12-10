@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T20:16:54.838572+00:00'
+updated: '2025-12-10T20:43:31.002352+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 20:16 UTC  
+**Last Updated:** December 10, 2025 at 20:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[AI companies basically:](https://www.reddit.com/r/artificial/comments/1pj41sq/ai_companies_basically/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -77,7 +77,7 @@ Im not sure if this was discussed before. But LLMs can understand Base64 encoded
 
 Reprogrammable humanoid robots could level the global manufacturing playing field, Arm CEO Rene Haas said at Fortune Brainstorm AI.
 
-🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 10h ago
+🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 11h ago
 
 ---
 
@@ -93,7 +93,7 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 I’ve spent the last year really putting AI to work, writing content, handling client projects, digging into research, automating stuff, and even building my own custom GPTs. After hundreds of hours messing around, I picked up a few lessons I wish someone had just told me from the start. No hype here, just honest things that actually made my results better: 1. Stop asking AI “What should I do?”, ask “What options do I have?” AI’s not great at picking the perfect answer right away. But it shines when you use it to brainstorm possibilities. So, instead of: “What’s the best way to improve my landing page?” Say: “Give me 5 different ways to improve my landing page, each based on a different principle (UX, clarity, psychology, trust, layout). Rank them by impact.” You’ll get way better results. 2. Don’t skip the “requirements stage.” Most of the time, AI fails because people jump straight to the end. Slow down. Ask the model to question you first. Try this: “Before creating anything, ask me 5 clarification questions to make sure you get it right.” Just this step alone cuts out most of the junky outputs, way more than any fancy prompt trick. 3. Tell AI it’s okay to be wrong at first. AI actually does better when you take the pressure off early on. Say something like: “Give me a rough draft first. I’ll go over it with you.” That rough draft, then refining together, then finishing up, that’s how the actually get good outputs. 4. If things feel off, don’t bother fixing, just restart the thread. People waste so much time trying to patch up a weird conversation. If the model starts drifting in tone, logic, or style, the fastest fix is just to start fresh: “New conversation: You are [role]. Your goal is [objective]. Start from scratch.” AI memory in a thread gets messy fast. A reset clears up almost all the weirdness. 5. Always run 2 outputs and then merge them. One output? Total crapshoot. Two outputs? Much more consistent. Tell the AI: “Give me 2 versions with different angles. I’ll pick the best parts.” Then follow up with: “Merge both into one polished version.” You get way better quality with hardly any extra effort. 6. Stop using one giant prompt, start building mini workflows. Beginners try to do everything in one big prompt. The experts break it into 3–5 bite-size steps. Here’s a simple structure: - Ask questions - Generate options - Pick a direction - Draft it - Polish Just switching to this approach will make everything you do with AI better. If you want more tips, just let me know and i'll send you a document with more of them.
 
-4h ago
+5h ago
 
 ---
 
@@ -107,7 +107,7 @@ I’ve spent the last year really putting AI to work, writing content, handling 
 
 While teenagers may start out using AI chatbots for basic questions, their relationship with chatbot platforms has the potential to turn addictive.
 
-🔗 [TechCrunch](https://techcrunch.com/2025/12/09/three-in-ten-u-s-teens-use-ai-chatbots-every-day-but-safety-concerns-are-growing/) • 3h ago
+🔗 [TechCrunch](https://techcrunch.com/2025/12/09/three-in-ten-u-s-teens-use-ai-chatbots-every-day-but-safety-concerns-are-growing/) • 4h ago
 
 ---
 
@@ -157,7 +157,7 @@ Los Angeles Times • 16h ago
 
 McDonald’s Netherlands pulled its AI-made holiday ad after viewers blasted the spot’s unsettling visuals.
 
-kare11.com • 1h ago
+kare11.com • 2h ago
 
 ---
 
@@ -165,13 +165,13 @@ kare11.com • 1h ago
 
 “We are the ones who are deciding what this use is going to be and how we choose to use it,”” Lyonne told Fortune’s Brainstorm AI audience in San Francisco.
 
-Fortune • 37m ago
+Fortune • 1h ago
 
 ---
 
 **[Asia’s inexpensive AI stocks should worry American investors](https://www.economist.com/finance-and-economics/2025/12/10/asias-inexpensive-ai-stocks-should-worry-american-investors)**
 
-The Economist • 58m ago
+The Economist • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Guardian • 3h ago
 
 The playlists can factor in world knowledge, go back to your listening history from day one, and be refreshed daily or weekly.
 
-TechCrunch • 15m ago
+TechCrunch • 41m ago
 
 ---
 
@@ -231,7 +231,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 217 • 💬 185 • 3h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 217 • 💬 185 • 4h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -269,7 +269,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
 
-⬆️ 65 • 💬 87 • 18h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 65 • 💬 87 • 19h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
 
 ---
 
@@ -313,7 +313,7 @@ Zhipu AI just dropped the first real open source AI agent, and the entire indust
 
 📺 AI Revolution
 
-👁️ 29K • 👍 1K • 💬 54 • ⏱️ 12:50 • 19h ago
+👁️ 29K • 👍 1K • 💬 54 • ⏱️ 12:50 • 20h ago
 
 ---
 
@@ -353,7 +353,7 @@ Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/d
 
 📺 Matthew Berman
 
-👁️ 49K • 👍 1K • 💬 181 • ⏱️ 9:41 • 20h ago
+👁️ 49K • 👍 1K • 💬 181 • ⏱️ 9:41 • 21h ago
 
 ---
 
@@ -449,7 +449,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 214 • 3h ago
+⬇️ 2,414 • ❤️ 214 • 4h ago
 
 ---
 
@@ -669,7 +669,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.6k • 🔱 190 • 4m ago
+⭐ 1.6k • 🔱 190 • 31m ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T20:16:54.854269+00:00'
+updated: '2025-12-10T20:43:31.019904+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 20:16 UTC  
+**Last Updated:** December 10, 2025 at 20:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
 
-9h ago
+10h ago
 
 ---
 
@@ -74,7 +74,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Web
 
 Ok so basically I am a student currently studying in college (Not I live in the uk) and ngl since I was a kid I was a mega fan of robots and watched a lot of shows related to that. I have also bought some robotic kits for me to practice. However I have a major concern and it's the fact that is there a high chance for me to find work im the future? I know it is still a little but too soon for this since im not even at university However I have realised that not a lot of people (at least that I know) are into it and everytime someone ask me what I am going to do in the future, when I say I want to be a robotic engineer they mostly look at me like I am speaking in a different language so I just want to know if the job market for it is really bad or if there is still some type of hope for it.
 
-31m ago
+58m ago
 
 ---
 
@@ -82,7 +82,7 @@ Ok so basically I am a student currently studying in college (Not I live in the 
 
 Ever wonder how sudo apt install just  works  for ROS? That’s the magic of the OSRF Build Farm!  This beast serves over half a billion packages a year, saving us all from the headache of compiling from source. But maintaining this critical utility takes massive server power and a dedicated team of e
 
-🔗 [Open Robotics](https://www.openrobotics.org/blog/2025/12/8/new-build-farm-backer-program-amp-infra-team-swagnbsp) • 2h ago
+🔗 [Open Robotics](https://www.openrobotics.org/blog/2025/12/8/new-build-farm-backer-program-amp-infra-team-swagnbsp) • 3h ago
 
 ---
 
@@ -178,7 +178,7 @@ PYMNTS.com • 1d ago
 
 As Amazon rolls out its millionth robot on the warehouse floor, it is important to recognize that the company is not any closer to ridding itself of the burden of human labor. Amazon can still be unionized.
 
-Jacobin • 4h ago
+Jacobin • 5h ago
 
 ---
 
@@ -256,7 +256,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 10K • 👍 823 • 💬 76 • ⏱️ 17:44 • 3h ago
+👁️ 10K • 👍 823 • 💬 76 • ⏱️ 17:44 • 4h ago
 
 ---
 
