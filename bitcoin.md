@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T07:32:50.762259+00:00'
+updated: '2025-12-10T07:47:40.761267+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- videos
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 07:32 UTC  
+**Last Updated:** December 10, 2025 at 07:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -47,7 +47,7 @@ Live Bitcoin monitoring dashboard
 **24h:** +2.3%  
 **7d:** +0.6%  
 **30d:** -10.2%  
-**90d:** -20.2%  
+**90d:** -20.3%  
 **1y:** -8.3%  
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -101,7 +101,7 @@ The Mods don't want you to see bullish memes. Vote against the bears.
 
 On December 9th, in an unexpected turn for traditional finance, the price of Bitcoin regained the $94,000 mark, wiping out more than three weeks of losses. The failure of the anticipated failure of Bitcoin, and therefore all crypto, was met with lukewarm apathy by your family from Thanksgiving. "It's still just funny money," said Uncle Lou, who then unironically bragged about taking out a reverse-mortgage on the home he bought in 1974. Top analysts' warn that the trend, which they have dubbed an "inverted loss" of Bitcoin's value could continue in the long-term, and lead to a redistribution of financial power and wealth, which, according to my editor, would cause destabilization and volatility in the billionaire who owns this publication. More updates will be available as adoption makes this opinion obsolete. Appropriated Press, December 2025.
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ I saw notifications of $94,000 BTC on my phone on waking up. Too bad it was alre
 
 **[My posted meme to this community from six years ago is now irony and inverse lol](https://www.reddit.com/r/Bitcoin/comments/1pische/my_posted_meme_to_this_community_from_six_years/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 1h ago
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 12h ago
+CNBC • 13h ago
 
 ---
 
@@ -211,7 +211,7 @@ MarketWatch • 8h ago
 
 Standard Chartered pushed its $500,000 Bitcoin target to 2030 from 2028. The bank says digital asset treasury buying is over and won't support prices anymore. Geoffrey Kendrick said Bitcoin will now rely on ETF buying alone to reach the half-million dollar target.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation o
 
 📺 Bitcoin Magazine
 
-👁️ 53K • 👍 2K • 💬 285 • ⏱️ 42:27 • 14h ago
+👁️ 53K • 👍 2K • 💬 285 • ⏱️ 42:27 • 15h ago
 
 ---
 
@@ -379,7 +379,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 22K • 👍 1K • 💬 302 • ⏱️ 7:23 • 13h ago
+👁️ 22K • 👍 1K • 💬 302 • ⏱️ 7:23 • 14h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T07:32:50.753184+00:00'
+updated: '2025-12-10T07:47:40.753021+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
-- videos
 - social
+- repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 07:32 UTC  
+**Last Updated:** December 10, 2025 at 07:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Im not sure if this was discussed before. But LLMs can understand Base64 encoded
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 12h ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 13h ago
 
 ---
 
@@ -157,7 +157,7 @@ CNBC • 5h ago
 
 Amazon has committed to investing $$35 billion in India’s cloud and AI space by 2030, as hyperscalers race to get a foothold in the market.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 1h ago
 
 South Korea will require advertisers to label their ads made with artificial intelligence technologies from next year as it seeks to curb a surge of deceptive...
 
-10TV • 42m ago
+10TV • 57m ago
 
 ---
 
@@ -653,7 +653,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.4k • 🔱 168 • 50m ago
+⭐ 1.4k • 🔱 168 • 1h ago
 
 ---
 

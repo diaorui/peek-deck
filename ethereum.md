@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T07:32:50.768457+00:00'
+updated: '2025-12-10T07:47:40.767186+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - news
-- videos
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 07:32 UTC  
+**Last Updated:** December 10, 2025 at 07:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.1%  
-**7d:** +5.8%  
-**30d:** -2.9%  
-**90d:** -29.5%  
-**1y:** -13.6%  
+**24h:** +6.3%  
+**7d:** +6.0%  
+**30d:** -2.7%  
+**90d:** -29.3%  
+**1y:** -13.4%  
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ ive been looking at bitwage to receive my paycheck in USDC but i wanted to know 
 
 Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot wallet (non-hardware) that actually supports custom HD derivation at the account level and BIP39 passphrases (25th word). Surprisingly, this combo seems to be mostly available only on hardware wallets or very niche software. Most mainstream hot wallets either lock derivation paths or ignore passphrases completely. So far, the only hot wallet I personally found that seems to support both is TokenPocket. According to their docs, keys stay on-device and they allow more flexibility than most wallets. Before fully committing, I’m curious: Has anyone here actually used TokenPocket with custom derivation paths + passphrase? Any thoughts on its security model or reputation? Are there any other hot wallets I might be missing (mobile / desktop / CLI) that support this kind of setup for Ethereum / EVM? I know this is more of a power-user thing, but I’m guessing some of you have gone through the same search. Appreciate any insight 🙏
 
-15h ago
+16h ago
 
 ---
 
@@ -170,7 +170,7 @@ Nasdaq • 15h ago
 
 A new OCC letter has opened the door for U.S. banks to compete with crypto exchanges.
 
-AMBCrypto • 11h ago
+AMBCrypto • 12h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Motley Fool • 1d ago
 
 Bitcoin and Ethereum surged ahead of the US Fed policy outcome, with Bitcoin nearing $92,000 and Ethereum jumping nearly 7%. Major altcoins also saw significant gains, contributing to a rise in global crypto market capitalization. Analysts anticipate a liquidity-driven rally if the Fed signals a dovish stance.
 
-The Economic Times • 51m ago
+The Economic Times • 1h ago
 
 ---
 
@@ -288,7 +288,7 @@ Ethereum has critics calling it “overvalued”… but what if everyone is look
 
 📺 Milk Road
 
-👁️ 3K • 👍 124 • 💬 75 • ⏱️ 35:26 • 11h ago
+👁️ 3K • 👍 124 • 💬 75 • ⏱️ 35:26 • 12h ago
 
 ---
 
