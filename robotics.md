@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T01:22:58.088113+00:00'
+updated: '2025-12-10T03:07:04.517433+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 01:22 UTC  
+**Last Updated:** December 10, 2025 at 03:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Self-driving delivery vehicles, in rural parts of China, now move along village roads by themselves, dropping off daily goods to local shops](https://www.reddit.com/r/robotics/comments/1pi4b61/selfdriving_delivery_vehicles_in_rural_parts_of/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
-12h ago
+14h ago
 
 ---
 
@@ -50,15 +50,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 "May the sensors be with you "
 
-12h ago
-
----
-
-**[Robot orders rise in Q3 2025 as automation demand strengthens in recent report](https://www.reddit.com/r/robotics/comments/1pihi93/robot_orders_rise_in_q3_2025_as_automation_demand/)**
-
-North American robot orders picked up again in Q3 2025, pointing to renewed momentum in manufacturing automation after a slower period. According to the latest market data, companies in North America ordered 8,806 robots in the third quarter, worth about $574 million. That works out to an 11.6 percent increase in units and a 17.2 percent increase in revenue compared to the same quarter last year. The most notable gains came from food and consumer goods, where robot orders were up more than 100 percent year over year, and from automotive OEMs, which saw orders rise sharply as well. Metals and general manufacturing also posted growth, while automotive components and plastics and rubber recorded declines, suggesting a more selective investment cycle in those segments.
-
-5h ago
+14h ago
 
 ---
 
@@ -70,11 +62,19 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 ---
 
+**[Robot orders rise in Q3 2025 as automation demand strengthens in recent report](https://www.reddit.com/r/robotics/comments/1pihi93/robot_orders_rise_in_q3_2025_as_automation_demand/)**
+
+North American robot orders picked up again in Q3 2025, pointing to renewed momentum in manufacturing automation after a slower period. According to the latest market data, companies in North America ordered 8,806 robots in the third quarter, worth about $574 million. That works out to an 11.6 percent increase in units and a 17.2 percent increase in revenue compared to the same quarter last year. The most notable gains came from food and consumer goods, where robot orders were up more than 100 percent year over year, and from automotive OEMs, which saw orders rise sharply as well. Metals and general manufacturing also posted growth, while automotive components and plastics and rubber recorded declines, suggesting a more selective investment cycle in those segments.
+
+7h ago
+
+---
+
 **[MIT engineers give biohybrid robots a power upgrade with synthetic tendons](https://www.reddit.com/r/robotics/comments/1pie99u/mit_engineers_give_biohybrid_robots_a_power/)**
 
 Engineers build artificial tendons that let muscle-powered robots move faster and pull harder, marking a major step for biohybrid machines.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 7h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 9h ago
 
 ---
 
@@ -82,7 +82,7 @@ Engineers build artificial tendons that let muscle-powered robots move faster an
 
 Teaching Robots to Understand Natural Language Built an autonomous navigation system where you can command a robot in plain English - "go to the person" or "find the chair" - and it handles the rest. What I Learned: Distributed ROS2: Ran LLM inference on NVIDIA Jetson Orin Nano while handling vision/navigation on my main system. Multi-machine communication over ROS2 topics was seamless. Edge Al Reality: TinyLlama on Jetson's CPU takes 2-10s per command, but the 8GB unified memory and no GPU dependency makes it perfect for robotics. Real edge computing without much latency. Vision + Planning: YOLOv8 detects object classes, monocular depth estimation calculates distance, Nav2 plans the path. When the target disappears, the robot autonomously searches with 360° rotation patterns. On Jetson Orin Nano Super: Honestly impressed. It's the perfect middle ground - more capable than Raspberry Pi, more accessible than industrial modules. Running Ollama while maintaining real-time ROS2 communication proved its robotics potential. Stack: ROS2 | YOLOv8 | Ollama/TinyLlama | Nav2 | Gazebo Video shows the full pipeline - natural language → LLM parsing → detection → autonomous navigation.
 
-9h ago
+11h ago
 
 ---
 
@@ -96,7 +96,7 @@ Teaching Robots to Understand Natural Language Built an autonomous navigation sy
 
 What I mean by "general" engineer is someone who has a bachelor's, master's or PhD in a field of engineering like mechanical, electrical, controls, computer science, etc. but not necessarily any specialization (master's or PhD) in robotics. I myself have a master's in control theory/systems but I don't find myself competent in jumping straight into designing the kinematics, dynamics and control algorithms of a 6 axis industrial robot (for example) from scratch. Not to mention selection of motors and actuation mechanisms and tuning the closed loop characteristics, etc., selection of controllers like PLCs. I was thrust into a project to design a highly complex 6 axis industrial robot with a lot of constraints. There are other engineers (mech, electrical) none of whom have any specialization in robotics nor any prior experience in designing industrial robots. I'm curious how the big robot companies recruit and/or train their employees. Do they always hire people with advanced degrees specialized in robotics? What kind of training is given to "general" engineers if hired? I'm sure robot companies at least write their own control software from scratch. So, I assume at least the controls and software people either have specialized degrees, prior experience or receive training within the company.
 
-3h ago
+4h ago
 
 ---
 
@@ -126,25 +126,17 @@ Breaking Defense • 1d ago
 
 ---
 
-**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
-
-Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
 
 The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
 
-MLive.com • 8h ago
+MLive.com • 10h ago
 
 ---
 
-**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://finance.yahoo.com/news/tether-invests-italian-robotics-startup-230239090.html)**
+**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
 
-Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
+Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
 
 Yahoo Finance • 1d ago
 
@@ -158,6 +150,14 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://finance.yahoo.com/news/tether-invests-italian-robotics-startup-230239090.html)**
+
+Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
 
 Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
@@ -166,11 +166,19 @@ Decrypt • 1d ago
 
 ---
 
-**[Moorhead robotics team builds head-activated device to help first-grader raise her hand](https://www.valleynewslive.com/2025/12/08/moorhead-robotics-team-builds-head-activated-device-help-first-grader-raise-her-hand/)**
+**[China’s Deep Robotics raises US$70 million as sector draws more investors](https://www.scmp.com/tech/tech-trends/article/3335806/chinas-deep-robotics-raises-us70-million-fresh-funds-sector-draws-more-investors)**
 
-1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
+Company founder Zhu Qiuguo says the new funding would be used for research and the recruitment of top robotics talent.
 
-Valley News Live • 1d ago
+South China Morning Post • 2h ago
+
+---
+
+**[Tesla: Mastering Fear And Greed In The Robotics Supercycle (Rating Downgrade) (TSLA)](https://seekingalpha.com/article/4851542-tesla-mastering-fear-and-greed-in-the-robotics-supercycle-rating-downgrade)**
+
+Tesla, Inc. remains a sentiment-driven asset despite strong fundamentals. Click here to read why TSLA stock is downgraded to a Hold.
+
+Seeking Alpha • 12h ago
 
 ---
 
@@ -182,27 +190,9 @@ PYMNTS.com • 1d ago
 
 ---
 
-**[China’s Deep Robotics raises US$70 million as sector draws more investors](https://www.scmp.com/tech/tech-trends/article/3335806/chinas-deep-robotics-raises-us70-million-fresh-funds-sector-draws-more-investors)**
-
-Company founder Zhu Qiuguo says the new funding would be used for research and the recruitment of top robotics talent.
-
-South China Morning Post • 22m ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
-
-EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
-
-📺 AI Tech Academy
-
-👁️ 25K • 👍 561 • 💬 214 • ⏱️ 14:26 • 1d ago
-
----
 
 **[Purchased the newly released 2025 humanoid robot. #robotics #ai #humanoidrobot #airobot](https://www.youtube.com/watch?v=NJeenJ276ug)**
 
@@ -212,13 +202,43 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 ---
 
+**[Elon Musk Reveals the TRUTH About Tesla’s Optimus Gen 3 Robot — It Will STUN You](https://www.youtube.com/watch?v=YySSyB8f9s0)**
+
+Tesla has finally revealed new details about Optimus Gen 3, and Elon Musk's latest update changes everything. In this video, we ...
+
+📺 The AI Nexus
+
+👁️ 2K • 👍 65 • 💬 14 • ⏱️ 20:52 • 21h ago
+
+---
+
+**[Humanoid robots do housework while taking care of babies!](https://www.youtube.com/watch?v=QkGL5UXwLss)**
+
+Humanoid robots do housework while taking care of babies! #humanoidrobot #robot #ai #humanoid #robotics #technology ...
+
+📺 NUROBIQ
+
+👁️ 134K • 👍 718 • 💬 7 • ⏱️ 0:10 • 6d ago
+
+---
+
+**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
+
+EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
+
+📺 AI Tech Academy
+
+👁️ 28K • 👍 629 • 💬 234 • ⏱️ 14:26 • 1d ago
+
+---
+
 **[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
 
 The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
 
 📺 DPCcars
 
-👁️ 197K • 👍 879 • 💬 293 • ⏱️ 1:03 • 3d ago
+👁️ 199K • 👍 887 • 💬 295 • ⏱️ 1:03 • 3d ago
 
 ---
 
@@ -228,7 +248,7 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 31K • 👍 624 • 💬 145 • ⏱️ 18:46 • 3d ago
+👁️ 31K • 👍 628 • 💬 147 • ⏱️ 18:46 • 3d ago
 
 ---
 
@@ -236,27 +256,17 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 XRoboHub
 
-👁️ 520K • 👍 8K • 💬 870 • ⏱️ 0:22 • 5d ago
+👁️ 521K • 👍 8K • 💬 872 • ⏱️ 0:22 • 5d ago
 
 ---
 
-**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
+**[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
 
-Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
+Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
 
-📺 Unitree Robotics
+📺 MarketBeat
 
-👁️ 2.7M • 👍 1K • 💬 341 • ⏱️ 1:06 • 6d ago
-
----
-
-**[China&#39;s T800 Humanoid Robot KICKS Creator to the Ground to Prove It&#39;s Real!](https://www.youtube.com/watch?v=QfkH61jNZhs)**
-
-The founder and CEO of EngineAI just took a robot kick to the chest in an attempt to prove the Shenzhen startup's new T800 ...
-
-📺 Kalil 4.0
-
-👁️ 3K • 👍 64 • 💬 38 • ⏱️ 8:31 • 1d ago
+👁️ 46K • 👍 1K • 💬 101 • ⏱️ 24:47 • 3d ago
 
 ---
 
@@ -266,27 +276,17 @@ In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comfor
 
 📺 AI Robot Lab
 
-👁️ 6K • 👍 68 • 💬 3 • ⏱️ 0:24 • 14h ago
+👁️ 7K • 👍 74 • 💬 3 • ⏱️ 0:24 • 16h ago
 
 ---
 
-**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
+**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
 
-AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
+The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
 
-📺 AI Robot Lab
+📺 The Straits Times
 
-👁️ 32K • 👍 344 • 💬 12 • ⏱️ 0:25 • 2d ago
-
----
-
-**[Leaked: Trump’s Robot Exec Order - The Investment Opportunity of a Lifetime!?](https://www.youtube.com/watch?v=zNWcAI4dsvQ)**
-
-Ready to Learn from My Mentors? Book a Free Strategy Call at https://felixfriends.org/freedom Download the Workbook in Our ...
-
-📺 Felix & Friends (Goat Academy)
-
-👁️ 89K • 👍 3K • 💬 131 • ⏱️ 29:12 • 1d ago
+👁️ 99K • 👍 467 • 💬 169 • ⏱️ 0:47 • 20h ago
 
 ---
 
