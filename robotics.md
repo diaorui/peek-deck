@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T05:59:44.613729+00:00'
+updated: '2025-12-10T06:46:44.705536+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 05:59 UTC  
+**Last Updated:** December 10, 2025 at 06:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Self-driving delivery vehicles, in rural parts of China, now move along village roads by themselves, dropping off daily goods to local shops](https://www.reddit.com/r/robotics/comments/1pi4b61/selfdriving_delivery_vehicles_in_rural_parts_of/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -70,11 +70,11 @@ North American robot orders picked up again in Q3 2025, pointing to renewed mome
 
 ---
 
-**[Can a "general" engineer jump right into designing & control of 6 axis industrial robots?](https://www.reddit.com/r/robotics/comments/1pikvjg/can_a_general_engineer_jump_right_into_designing/)**
+**[Testing modular VLA (Graph + Physics + LLM) on real robots — any advice on platforms?](https://www.reddit.com/r/robotics/comments/1piv5vu/testing_modular_vla_graph_physics_llm_on_real/)**
 
-What I mean by "general" engineer is someone who has a bachelor's, master's or PhD in a field of engineering like mechanical, electrical, controls, computer science, etc. but not necessarily any specialization (master's or PhD) in robotics. I myself have a master's in control theory/systems but I don't find myself competent in jumping straight into designing the kinematics, dynamics and control algorithms of a 6 axis industrial robot (for example) from scratch. Not to mention selection of motors and actuation mechanisms and tuning the closed loop characteristics, etc., selection of controllers like PLCs. I was thrust into a project to design a highly complex 6 axis industrial robot with a lot of constraints. There are other engineers (mech, electrical) none of whom have any specialization in robotics nor any prior experience in designing industrial robots. I'm curious how the big robot companies recruit and/or train their employees. Do they always hire people with advanced degrees specialized in robotics? What kind of training is given to "general" engineers if hired? I'm sure robot companies at least write their own control software from scratch. So, I assume at least the controls and software people either have specialized degrees, prior experience or receive training within the company.
+I’ve built a modular VLA prototype (physics-grounded LLM planning + explicit scene graph reasoning). The system can preemptively respond to predicted physical events (like a cup falling), and works well in simulation. My current hardware is limited, so I’m exploring what real robot platforms people usually use for research along these lines. Franka, UR, or others? If you’re working on similar ideas, feel free to share your experience — I’m trying to understand what setups are common, and what challenges to expect. Happy to show a short demo as well.
 
-7h ago
+38m ago
 
 ---
 
@@ -90,7 +90,7 @@ Engineers build artificial tendons that let muscle-powered robots move faster an
 
 Teaching Robots to Understand Natural Language Built an autonomous navigation system where you can command a robot in plain English - "go to the person" or "find the chair" - and it handles the rest. What I Learned: Distributed ROS2: Ran LLM inference on NVIDIA Jetson Orin Nano while handling vision/navigation on my main system. Multi-machine communication over ROS2 topics was seamless. Edge Al Reality: TinyLlama on Jetson's CPU takes 2-10s per command, but the 8GB unified memory and no GPU dependency makes it perfect for robotics. Real edge computing without much latency. Vision + Planning: YOLOv8 detects object classes, monocular depth estimation calculates distance, Nav2 plans the path. When the target disappears, the robot autonomously searches with 360° rotation patterns. On Jetson Orin Nano Super: Honestly impressed. It's the perfect middle ground - more capable than Raspberry Pi, more accessible than industrial modules. Running Ollama while maintaining real-time ROS2 communication proved its robotics potential. Stack: ROS2 | YOLOv8 | Ollama/TinyLlama | Nav2 | Gazebo Video shows the full pipeline - natural language → LLM parsing → detection → autonomous navigation.
 
-14h ago
+15h ago
 
 ---
 
@@ -158,19 +158,19 @@ Decrypt • 1d ago
 
 ---
 
-**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
-
-The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
-
-MLive.com • 13h ago
-
----
-
 **[Tesla: Mastering Fear And Greed In The Robotics Supercycle (Rating Downgrade) (TSLA)](https://seekingalpha.com/article/4851542-tesla-mastering-fear-and-greed-in-the-robotics-supercycle-rating-downgrade)**
 
 Tesla, Inc. remains a sentiment-driven asset despite strong fundamentals. Click here to read why TSLA stock is downgraded to a Hold.
 
 Seeking Alpha • 15h ago
+
+---
+
+**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
+
+The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
+
+MLive.com • 13h ago
 
 ---
 
