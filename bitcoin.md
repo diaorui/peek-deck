@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T07:47:40.761267+00:00'
+updated: '2025-12-10T07:59:03.766618+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - news
-- social
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 07:47 UTC  
+**Last Updated:** December 10, 2025 at 07:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** +0.6%  
-**30d:** -10.2%  
-**90d:** -20.3%  
-**1y:** -8.3%  
+**24h:** +2.4%  
+**7d:** +0.7%  
+**30d:** -10.1%  
+**90d:** -20.2%  
+**1y:** -8.2%  
 
 ---
 
@@ -113,7 +113,7 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 **[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 1h ago
 
 Vivek Ramaswamy’s Strive Asset Management has announced a $500 million preferred stock offering, with proceeds earmarked for Bitcoin acquisition.Strive already holds 7,525 BTC, per BitcoinTreasuries data, worth $695.93 million, and stands 14th among top corporate Bitcoin holders.With the latest stock sales announcement, Strive intends to use the net proceeds “for ...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -287,7 +287,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 15h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 16h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -329,7 +329,7 @@ Jack Mallers, Tether, SoftBank, and Cantor Fitzgerald just launched the most exp
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 2K • 💬 138 • ⏱️ 16:39 • 7h ago
+👁️ 33K • 👍 2K • 💬 138 • ⏱️ 16:39 • 8h ago
 
 ---
 

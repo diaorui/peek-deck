@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T07:47:40.767186+00:00'
+updated: '2025-12-10T07:59:03.773104+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - news
-- social
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 07:47 UTC  
+**Last Updated:** December 10, 2025 at 07:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -298,7 +298,7 @@ Breaking News: BitMine Immersion Technologies (BMNR) has officially crossed the 
 
 📺 CryptoStock Lab
 
-👁️ 437 • 👍 26 • ⏱️ 7:09 • 12h ago
+👁️ 437 • 👍 26 • ⏱️ 7:09 • 13h ago
 
 ---
 
@@ -308,7 +308,7 @@ Breaking News: BitMine Immersion Technologies (BMNR) has officially crossed the 
 
 📺 Stock Moe
 
-👁️ 10K • 👍 690 • 💬 77 • ⏱️ 13:03 • 10h ago
+👁️ 10K • 👍 690 • 💬 77 • ⏱️ 13:03 • 11h ago
 
 ---
 
