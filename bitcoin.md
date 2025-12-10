@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T11:26:44.942960+00:00'
+updated: '2025-12-10T11:42:25.273124+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- social
+- videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 11:26 UTC  
+**Last Updated:** December 10, 2025 at 11:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -46,9 +46,9 @@ Live Bitcoin monitoring dashboard
 
 **24h:** +1.9%  
 **7d:** +0.3%  
-**30d:** -10.4%  
-**90d:** -20.4%  
-**1y:** -8.5%  
+**30d:** -10.5%  
+**90d:** -20.5%  
+**1y:** -8.6%  
 
 ---
 
@@ -61,10 +61,10 @@ Rank #1
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.7%
+-26.9%
 
 **All-Time Low:** $67.81
-+136096.7%
++135769.3%
 
 ---
 
@@ -101,7 +101,7 @@ The Mods don't want you to see bullish memes. Vote against the bears.
 
 On December 9th, in an unexpected turn for traditional finance, the price of Bitcoin regained the $94,000 mark, wiping out more than three weeks of losses. The failure of the anticipated failure of Bitcoin, and therefore all crypto, was met with lukewarm apathy by your family from Thanksgiving. "It's still just funny money," said Uncle Lou, who then unironically bragged about taking out a reverse-mortgage on the home he bought in 1974. Top analysts' warn that the trend, which they have dubbed an "inverted loss" of Bitcoin's value could continue in the long-term, and lead to a redistribution of financial power and wealth, which, according to my editor, would cause destabilization and volatility in the billionaire who owns this publication. More updates will be available as adoption makes this opinion obsolete. Appropriated Press, December 2025.
 
-6h ago
+7h ago
 
 ---
 
@@ -113,9 +113,9 @@ Sooner or later it will bounce to new highs, or not
 
 ---
 
-**["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
+**[.](https://www.reddit.com/r/Bitcoin/comments/1pix5b9/_/)**
 
-15h ago
+3h ago
 
 ---
 
@@ -125,9 +125,15 @@ Sooner or later it will bounce to new highs, or not
 
 ---
 
-**[.](https://www.reddit.com/r/Bitcoin/comments/1pix5b9/_/)**
+**["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
 
-3h ago
+15h ago
+
+---
+
+**[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
+
+1h ago
 
 ---
 
@@ -139,19 +145,29 @@ I saw notifications of $94,000 BTC on my phone on waking up. Too bad it was alre
 
 ---
 
-**[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
-
-22h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Jumps As Tether-Backed Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
+**[Standard Chartered cuts bitcoin forecast in half](https://www.cnbc.com/2025/12/09/standard-chartered-cuts-bitcoin-forecast-in-half.html)**
 
-Investor's Business Daily • 12h ago
+The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
+
+CNBC • 17h ago
+
+---
+
+**[Bitcoin Bulls Standard Chartered, Bernstein Pare Back Ambitious Year-End Forecasts](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-bulls-standard-chartered-bernstein-pare-back-most-ambitious-forecasts)**
+
+Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
+
+Bloomberg.com • 18h ago
+
+---
+
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqcykalvUpwmX223wfYyedVzwb-VSjxLQubdUe-Rtsr1vAYk8bXckozU&gaa_ts=6939600f&gaa_sig=oDIm58hhaa2vL7cidWbR8OwAwVSb-xd6A5x6EwhV_n__cpW59mOHlCnVXj8lSw4em3SmQN422KSHaoSbHJhQrg%3D%3D)**
+
+MarketWatch • 12h ago
 
 ---
 
@@ -161,19 +177,17 @@ The Block • 13h ago
 
 ---
 
+**[Bitcoin Price Jumps As Tether-Backed Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
+
+Investor's Business Daily • 12h ago
+
+---
+
 **[Bitcoin Firm Twenty One Falls 20% After Cantor Equity Merger](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger)**
 
 Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
 
-Bloomberg.com • 13h ago
-
----
-
-**[America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/)**
-
-In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
-
-WIRED • 1d ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -185,41 +199,27 @@ Business Insider • 1h ago
 
 ---
 
-**[Bitcoin jumps to $94,000, but 'hawkish' Fed cut threatens crypto rally](https://finance.yahoo.com/news/bitcoin-jumps-to-94000-but-hawkish-fed-cut-threatens-crypto-rally-164647910.html)**
+**[This bitcoin bull just slashed their price forecast](https://seekingalpha.com/news/4529976-this-bitcoin-bull-just-slashed-their-price-forecast)**
 
-The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
+Explore Standard Chartered's updated outlook for bitcoin.
 
-Yahoo Finance • 14h ago
-
----
-
-**[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance)**
-
-The Block • 23h ago
+Seeking Alpha • 49m ago
 
 ---
 
-**[Bitcoin, Crypto Market to Remain Range-Bound After FOMC Meeting, Matrixport Predicts](https://finance.yahoo.com/news/bitcoin-crypto-market-remain-range-085400174.html)**
+**[Bitcoin miners are betting on AI over crypto : The Indicator from Planet Money](https://www.npr.org/2025/12/10/nx-s1-5638886/bitcoin-miners-are-betting-on-ai-over-crypto)**
 
-Bitcoin trades above $92,000 ahead of the key FOMC Meeting, with the broader crypto market expecting a further rebound to officially mark a recovery. Matrixport predicts a range-bound market despite another 25bps Fed rate cut. Global investors will also closely watch Fed Chair Jerome Powell’s post-meeting remarks on the 2026 monetary policy outlook following the
+If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Standard Chartered cuts bitcoin forecast in half](https://www.cnbc.com/2025/12/09/standard-chartered-cuts-bitcoin-forecast-in-half.html)**
-
-The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
-
-CNBC • 16h ago
+NPR • 3h ago
 
 ---
 
-**[Bitcoin Bulls Standard Chartered, Bernstein Pare Back Ambitious Year-End Forecasts](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-bulls-standard-chartered-bernstein-pare-back-most-ambitious-forecasts)**
+**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
 
-Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
+BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -265,6 +265,14 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 ---
 
+**[IETF draft and Rust POC: NTP for Bitcoin price (no oracles)](https://news.ycombinator.com/item?id=46216539)**
+
+NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
+
+⬆️ 1 • 💬 0 • 16m ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+
+---
+
 **[Show HN: Swift Bitcoin - Experimental full node and dev framework for Swift](https://news.ycombinator.com/item?id=46207529)**
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
@@ -305,7 +313,7 @@ Anthony and John Pompliano dig into what's really at stake at the upcoming Feder
 
 📺 Anthony Pompliano
 
-👁️ 20K • 👍 766 • 💬 15 • ⏱️ 35:48 • 13h ago
+👁️ 21K • 👍 816 • 💬 15 • ⏱️ 35:48 • 13h ago
 
 ---
 
@@ -315,7 +323,7 @@ Jack Mallers, Tether, SoftBank, and Cantor Fitzgerald just launched the most exp
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 2K • 💬 150 • ⏱️ 16:39 • 11h ago
+👁️ 42K • 👍 3K • 💬 204 • ⏱️ 16:39 • 11h ago
 
 ---
 
@@ -325,17 +333,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 400 • 💬 14 • ⏱️ 20:58 • 1d ago
-
----
-
-**[If Trump Does This Bitcoin and Crypto Will Explode](https://www.youtube.com/watch?v=1sd6Qcx-uKY)**
-
-In this clip, I talk about a major macro event that could impact bitcoin and crypto. **Exchange Partners** Bitunix Exchange ...
-
-📺 CryptosRus Extra
-
-👁️ 7K • 👍 467 • 💬 104 • ⏱️ 8:42 • 10h ago
+👁️ 11K • 👍 406 • 💬 14 • ⏱️ 20:58 • 1d ago
 
 ---
 
@@ -345,7 +343,17 @@ Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation o
 
 📺 Bitcoin Magazine
 
-👁️ 56K • 👍 2K • 💬 268 • ⏱️ 42:27 • 18h ago
+👁️ 60K • 👍 2K • 💬 279 • ⏱️ 42:27 • 19h ago
+
+---
+
+**[If Trump Does This Bitcoin and Crypto Will Explode](https://www.youtube.com/watch?v=1sd6Qcx-uKY)**
+
+In this clip, I talk about a major macro event that could impact bitcoin and crypto. **Exchange Partners** Bitunix Exchange ...
+
+📺 CryptosRus Extra
+
+👁️ 7K • 👍 491 • 💬 106 • ⏱️ 8:42 • 11h ago
 
 ---
 
@@ -355,7 +363,17 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 33K • 👍 2K • 💬 187 • ⏱️ 44:49 • 20h ago
+👁️ 33K • 👍 2K • 💬 189 • ⏱️ 44:49 • 20h ago
+
+---
+
+**[BREAKING: Michael Saylor Reveals That EVERY MAJOR Bank is Buying Bitcoin?! | EP 1394](https://www.youtube.com/watch?v=nYLaxkfPxis)**
+
+Michael Saylor drops a BOMBSHELL at Bitcoin MENA that PROVES 2026 is gonna be BULLISH AF!
+
+📺 Simply Bitcoin
+
+👁️ 13K • 👍 644 • 💬 120 • ⏱️ 1:20:17 • 16h ago
 
 ---
 
@@ -369,33 +387,23 @@ LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720
 
 ---
 
-**[This Is NOT Normal… Bitcoin Is Warning Us.](https://www.youtube.com/watch?v=0TNP_l8V3tc)**
-
-Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BUUID (up to $2200 USDT) My Strategy ...
-
-📺 Conor Kenny
-
-👁️ 5K • 👍 387 • 💬 46 • ⏱️ 12:36 • 5h ago
-
----
-
 **[Bitcoin Pre-FOMC](https://www.youtube.com/watch?v=kZGHzEGRyAM)**
 
 Let's talk about the price of #Bitcoin going into FOMC! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com Into ...
 
 📺 Benjamin Cowen
 
-👁️ 71K • 👍 4K • 💬 162 • ⏱️ 9:09 • 21h ago
+👁️ 74K • 👍 4K • 💬 164 • ⏱️ 9:09 • 22h ago
 
 ---
 
-**[Did Michael Saylor’s BIG LONG Just Trigger a Bitcoin Supercycle?!](https://www.youtube.com/watch?v=RTWgQ_EkFQ0)**
+**[Michael Saylor: “We’re Buying More Bitcoin Than Sellers Can Sell”](https://www.youtube.com/watch?v=Io3V7H-862c)**
 
-Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. Jack Maullers? Just dropped 43K BTC into ...
+Michael Saylor declares he's more bullish than ever, stating his team can buy more Bitcoin than sellers can sell—and that they're ...
 
-📺 Simply Bitcoin
+📺 Bitcoin Magazine
 
-👁️ 50K • 👍 4K • 💬 282 • ⏱️ 16:35 • 1d ago
+👁️ 10K • 👍 257 • 💬 30 • ⏱️ 0:36 • 20h ago
 
 ---
 

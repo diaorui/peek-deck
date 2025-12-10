@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T11:26:44.948917+00:00'
+updated: '2025-12-10T11:42:25.279234+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
-- social
+- videos
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 11:26 UTC  
+**Last Updated:** December 10, 2025 at 11:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.7%  
-**7d:** +6.0%  
-**30d:** -2.8%  
-**90d:** -29.4%  
-**1y:** -13.4%  
+**24h:** +5.4%  
+**7d:** +5.7%  
+**30d:** -3.0%  
+**90d:** -29.6%  
+**1y:** -13.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $400.41B
+**Market Cap:** $399.96B
 Rank #2
 
 **Circulating Supply:** 120,695,213 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.9%
+-33.1%
 
 **All-Time Low:** $0.43
-+766387.5%
++764011.0%
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-12h ago
+13h ago
 
 ---
 
@@ -96,7 +96,7 @@ ive been looking at bitwage to receive my paycheck in USDC but i wanted to know 
 
 Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot wallet (non-hardware) that actually supports custom HD derivation at the account level and BIP39 passphrases (25th word). Surprisingly, this combo seems to be mostly available only on hardware wallets or very niche software. Most mainstream hot wallets either lock derivation paths or ignore passphrases completely. So far, the only hot wallet I personally found that seems to support both is TokenPocket. According to their docs, keys stay on-device and they allow more flexibility than most wallets. Before fully committing, I’m curious: Has anyone here actually used TokenPocket with custom derivation paths + passphrase? Any thoughts on its security model or reputation? Are there any other hot wallets I might be missing (mobile / desktop / CLI) that support this kind of setup for Ethereum / EVM? I know this is more of a power-user thing, but I’m guessing some of you have gone through the same search. Appreciate any insight 🙏
 
-19h ago
+20h ago
 
 ---
 
@@ -154,15 +154,7 @@ AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ether
 
 Despite the breakout, DOGE faces significant structural resistance from major EMAs.
 
-CoinDesk • 5h ago
-
----
-
-**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Spike Ahead of Fed Decision](https://finance.yahoo.com/news/crypto-shorts-rekt-bitcoin-ethereum-170437408.html)**
-
-Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
-
-Yahoo Finance • 18h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -180,11 +172,19 @@ Nasdaq • 19h ago
 
 ---
 
-**[3 Reasons to Buy Ethereum Before January 2026](https://finance.yahoo.com/news/3-reasons-buy-ethereum-january-193000879.html)**
+**[Why Crypto Is Going Up Today? Bitcoin, XRP Price, Ethereum and Dogecoin Jump Ahead of Fed Decision This Week](https://www.financemagnates.com/trending/why-crypto-is-going-up-today-bitcoin-xrp-price-ethereum-and-dogecoin-jump-ahead-of-fed-decision-this-week/)**
 
-Ethereum could be once again on the path to the $5,000 price level. Here's why.
+The cryptocurrency market is flashing green during Monday's trading session, 8 December, 2025, prompting investors to ask why crypto is going up today .
 
-Yahoo Finance • 2d ago
+Finance Magnates • 2d ago
+
+---
+
+**[Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds](https://finance.yahoo.com/news/tom-lee-bitmine-buys-429-162833185.html)**
+
+Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -210,14 +210,6 @@ CoinDesk • 1d ago
 
 ---
 
-**[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
-
-The trading platform dives further into digital assets both domestically and globally.
-
-Fortune • 1d ago
-
----
-
 **[Prediction: If This 1 Policy Changes, Bitcoin and Ethereum Will Soar](https://www.fool.com/investing/2025/12/08/prediction-if-this-1-policy-changes-bitcoin-and-et/)**
 
 Japan is considering a big change to how it taxes crypto.
@@ -226,29 +218,17 @@ The Motley Fool • 2d ago
 
 ---
 
+**[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
+
+The trading platform dives further into digital assets both domestically and globally.
+
+Fortune • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[I Can’t Believe This Is Happening!! All Hell Is Breaking Loose In Crypto!!](https://www.youtube.com/watch?v=2ZqztKdMquI)**
-
-Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily Merch - While ...
-
-📺 Altcoin Daily
-
-👁️ 48K • 👍 3K • 💬 209 • ⏱️ 12:03 • 11h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=1vCvyhQK1ls)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 184 • 💬 8 • ⏱️ 5:16 • 8h ago
-
----
 
 **[Ethereum Surges Ahead of Fed Meeting🚨](https://www.youtube.com/watch?v=lGMmb25t_F8)**
 
@@ -256,37 +236,17 @@ Bitcoin and Ethereum surged amid anticipation that the US central bank will cut 
 
 📺 Paul Barron Network
 
-👁️ 40K • 👍 2K • 💬 99 • ⏱️ 20:14 • 14h ago
+👁️ 42K • 👍 2K • 💬 102 • ⏱️ 20:14 • 15h ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=CtiO05cUc50)**
+**[I Can’t Believe This Is Happening!! All Hell Is Breaking Loose In Crypto!!](https://www.youtube.com/watch?v=2ZqztKdMquI)**
 
-BITCOIN & ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily Merch - While ...
 
-📺 Crypto World
+📺 Altcoin Daily
 
-👁️ 7K • 👍 293 • 💬 67 • ⏱️ 21:02 • 11h ago
-
----
-
-**[Tom Lee&#39;s New Ethereum Price Prediction is INSANE](https://www.youtube.com/watch?v=Q7ICP7zFCCs)**
-
-Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee and Howard Lutnick argue it's something very ...
-
-📺 The Bitcoin Revolution
-
-👁️ 15K • 👍 455 • 💬 211 • ⏱️ 12:46 • 1d ago
-
----
-
-**[Crypto Whale WHAT!!! ‼️THIS IS HUGE! XRP ETHEREUM](https://www.youtube.com/watch?v=pN6_JD61JDY)**
-
-1️⃣ *Join Moe's Discord Code CYBER save 60%* ➡https://www.patreon.com/stockmoe/membership 2️⃣ *Save Big on the ...
-
-📺 Stock Moe
-
-👁️ 10K • 👍 692 • 💬 67 • ⏱️ 13:03 • 14h ago
+👁️ 53K • 👍 3K • 💬 218 • ⏱️ 12:03 • 12h ago
 
 ---
 
@@ -296,17 +256,57 @@ Ethereum has critics calling it “overvalued”… but what if everyone is look
 
 📺 Milk Road
 
-👁️ 4K • 👍 132 • 💬 82 • ⏱️ 35:26 • 15h ago
+👁️ 4K • 👍 136 • 💬 82 • ⏱️ 35:26 • 15h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. Wie gehts weiter für Bitcoin?? Sollte Ich JETZT meine Meinung ändern??](https://www.youtube.com/watch?v=6dR9m7BGis0)**
+**[Tom Lee&#39;s New Ethereum Price Prediction is INSANE](https://www.youtube.com/watch?v=Q7ICP7zFCCs)**
 
-Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
+Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee and Howard Lutnick argue it's something very ...
 
-📺 Krypto Trading & Investing
+📺 The Bitcoin Revolution
 
-👁️ 4K • 👍 811 • 💬 136 • ⏱️ 11:31 • 6h ago
+👁️ 15K • 👍 462 • 💬 212 • ⏱️ 12:46 • 1d ago
+
+---
+
+**[WOW: Insider Whale Just Opened A Mega $ETH Long! [Copy Them?]](https://www.youtube.com/watch?v=bA0YlnGLFII)**
+
+A huge ETH whale just opened a massive sized position. In today's video, Kyledoops shares the significance of this and whether ...
+
+📺 Crypto Banter
+
+👁️ 9K • 👍 825 • 💬 7 • ⏱️ 34:34 • 3h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=1vCvyhQK1ls)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 203 • 💬 8 • ⏱️ 5:16 • 9h ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=CtiO05cUc50)**
+
+BITCOIN & ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 309 • 💬 81 • ⏱️ 21:02 • 12h ago
+
+---
+
+**[Tom Lee&#39;s BitMine Immersion Adds $435M of ETH to Treasury](https://www.youtube.com/watch?v=MnQMmMF_R4g)**
+
+BitMine Immersion Technologies just made a $435 million ETH acquisition, bringing their treasury to over 3.86 million tokens and ...
+
+📺 CoinDesk
+
+👁️ 842 • 👍 9 • 💬 11 • ⏱️ 1:12 • 20h ago
 
 ---
 
@@ -316,17 +316,15 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 1K • 👍 60 • 💬 43 • ⏱️ 13:32 • 16h ago
+👁️ 1K • 👍 60 • 💬 43 • ⏱️ 13:32 • 17h ago
 
 ---
 
-**[This ETH Pattern Has Only One Outcome....](https://www.youtube.com/watch?v=AB0q8tKtipY)**
+**[Solana vs Ethereum | Nick Ducoff with Tai Wong on Global Money Talk](https://www.youtube.com/watch?v=MKccReFt94s)**
 
-BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
+📺 Solana
 
-📺 Marzell Crypto
-
-👁️ 3K • 👍 78 • 💬 45 • ⏱️ 6:25 • 1d ago
+👁️ 2K • 👍 82 • 💬 3 • ⏱️ 2:14 • 1d ago
 
 ---
 

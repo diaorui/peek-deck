@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T11:26:44.952150+00:00'
+updated: '2025-12-10T11:42:25.282516+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 11:26 UTC  
+**Last Updated:** December 10, 2025 at 11:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,6 +40,22 @@ Just saw this paper published in Nature Communications and thought it was a mass
 
 ---
 
+**[When an operator performs a backflip while wearing the VR headset, NEO doesn't follow, instead remaining upright and balanced](https://www.reddit.com/r/robotics/comments/1pize07/when_an_operator_performs_a_backflip_while/)**
+
+From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
+
+1h ago
+
+---
+
+**[To unpack LimX Oli: just plug in the battery, press the switch, and Oli walks out by itself. No more need for people to lift it.](https://www.reddit.com/r/robotics/comments/1pizul3/to_unpack_limx_oli_just_plug_in_the_battery_press/)**
+
+From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Website: https://www.limxdynamics.com/en
+
+37m ago
+
+---
+
 **[Real-Robot Experiment with Pedestrians - A team at TU Delft has introduced DRA-MPPI, a new motion-planning method that lets robots move safely through dense pedestrian traffic without freezing or taking overly conservative paths](https://www.reddit.com/r/robotics/comments/1pi6p63/realrobot_experiment_with_pedestrians_a_team_at/)**
 
 Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
@@ -51,14 +67,6 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 **[Self-driving delivery vehicles, in rural parts of China, now move along village roads by themselves, dropping off daily goods to local shops](https://www.reddit.com/r/robotics/comments/1pi4b61/selfdriving_delivery_vehicles_in_rural_parts_of/)**
 
 1d ago
-
----
-
-**[When an operator performs a backflip while wearing the VR headset, NEO doesn't follow, instead remaining upright and balanced](https://www.reddit.com/r/robotics/comments/1pize07/when_an_operator_performs_a_backflip_while/)**
-
-From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
-
-50m ago
 
 ---
 
@@ -102,14 +110,6 @@ North American robot orders picked up again in Q3 2025, pointing to renewed mome
 
 ---
 
-**[MIT engineers give biohybrid robots a power upgrade with synthetic tendons](https://www.reddit.com/r/robotics/comments/1pie99u/mit_engineers_give_biohybrid_robots_a_power/)**
-
-Engineers build artificial tendons that let muscle-powered robots move faster and pull harder, marking a major step for biohybrid machines.
-
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 17h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -144,14 +144,6 @@ Interesting Engineering • 21h ago
 
 ---
 
-**[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
-
-Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
-
-Bloomberg.com • 1d ago
-
----
-
 **[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
 
 Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
@@ -160,11 +152,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Tesla: Mastering Fear And Greed In The Robotics Supercycle (Rating Downgrade) (TSLA)](https://seekingalpha.com/article/4851542-tesla-mastering-fear-and-greed-in-the-robotics-supercycle-rating-downgrade)**
+**[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
 
-Tesla, Inc. remains a sentiment-driven asset despite strong fundamentals. Click here to read why TSLA stock is downgraded to a Hold.
+Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
 
-Seeking Alpha • 20h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -176,19 +168,27 @@ MLive.com • 18h ago
 
 ---
 
-**[Moorhead robotics team builds head-activated device to help first-grader raise her hand](https://www.valleynewslive.com/2025/12/08/moorhead-robotics-team-builds-head-activated-device-help-first-grader-raise-her-hand/)**
-
-1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
-
-Valley News Live • 1d ago
-
----
-
 **[Army Special Forces Embracing Robots in All Domains](https://www.nationaldefensemagazine.org/articles/2025/12/8/army-special-forces-embracing-robots-in-all-domains)**
 
 Army Special Forces Embracing Robots in All Domains
 
 National Defense Magazine • 2d ago
+
+---
+
+**[Tesla: Mastering Fear And Greed In The Robotics Supercycle (Rating Downgrade) (TSLA)](https://seekingalpha.com/article/4851542-tesla-mastering-fear-and-greed-in-the-robotics-supercycle-rating-downgrade)**
+
+Tesla, Inc. remains a sentiment-driven asset despite strong fundamentals. Click here to read why TSLA stock is downgraded to a Hold.
+
+Seeking Alpha • 20h ago
+
+---
+
+**[Moorhead robotics team builds head-activated device to help first-grader raise her hand](https://www.valleynewslive.com/2025/12/08/moorhead-robotics-team-builds-head-activated-device-help-first-grader-raise-her-hand/)**
+
+1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
+
+Valley News Live • 1d ago
 
 ---
 
@@ -204,33 +204,23 @@ National Defense Magazine • 2d ago
 
 ---
 
-**[China Just Built the REAL-LIFE Terminator AI Robot — EngineAI&#39;s T800 Robot SHOCKS WORLD](https://www.youtube.com/watch?v=BF_VLuF3QxA)**
-
-China has officially unveiled a humanoid robot that looks straight out of a sci-fi movie — EngineAI's new T800. This real-life ...
-
-📺 The AI Nexus
-
-👁️ 32K • 👍 634 • 💬 151 • ⏱️ 18:46 • 4d ago
-
----
-
 **[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
 
 EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
 
 📺 AI Tech Academy
 
-👁️ 34K • 👍 795 • 💬 266 • ⏱️ 14:26 • 1d ago
+👁️ 36K • 👍 830 • 💬 273 • ⏱️ 14:26 • 1d ago
 
 ---
 
-**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
+**[China Just Built the REAL-LIFE Terminator AI Robot — EngineAI&#39;s T800 Robot SHOCKS WORLD](https://www.youtube.com/watch?v=BF_VLuF3QxA)**
 
-JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
+China has officially unveiled a humanoid robot that looks straight out of a sci-fi movie — EngineAI's new T800. This real-life ...
 
-📺 Julia McCoy
+📺 The AI Nexus
 
-👁️ 120K • 👍 6K • 💬 812 • ⏱️ 19:33 • 3d ago
+👁️ 32K • 👍 635 • 💬 151 • ⏱️ 18:46 • 4d ago
 
 ---
 
@@ -242,53 +232,63 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 ---
 
-**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
-
-Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
-
-📺 Unitree Robotics
-
-👁️ 2.8M • 👍 1K • 💬 347 • ⏱️ 1:06 • 6d ago
-
----
-
-**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
-
-The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
-
-📺 DPCcars
-
-👁️ 199K • 👍 894 • 💬 296 • ⏱️ 1:03 • 3d ago
-
----
-
 **[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
 
 The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
 
 📺 The Straits Times
 
-👁️ 118K • 👍 544 • 💬 186 • ⏱️ 0:47 • 1d ago
+👁️ 123K • 👍 573 • 💬 196 • ⏱️ 0:47 • 1d ago
 
 ---
 
-**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
+**[Robots Just Got Superpowers — And Nobody’s Talking About It](https://www.youtube.com/watch?v=24APEyZrFHo)**
 
-AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
+JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you $50/month. *BOOK A FREE STRATEGY CALL to ...
 
-📺 AI Robot Lab
+📺 Julia McCoy
 
-👁️ 37K • 👍 415 • 💬 13 • ⏱️ 0:25 • 3d ago
+👁️ 120K • 👍 6K • 💬 816 • ⏱️ 19:33 • 3d ago
 
 ---
 
-**[2025: This AI Caregiver Robot Comforts a Baby Like a Real Parent in a Silicon Valley Home](https://www.youtube.com/watch?v=LFTUzGo3rmM)**
+**[Leaked: Trump’s Robot Exec Order - The Investment Opportunity of a Lifetime!?](https://www.youtube.com/watch?v=zNWcAI4dsvQ)**
 
-In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comforts a baby with perfect calm and precision.
+Ready to Learn from My Mentors? Book a Free Strategy Call at https://felixfriends.org/freedom Download the Workbook in Our ...
 
-📺 AI Robot Lab
+📺 Felix & Friends (Goat Academy)
 
-👁️ 8K • 👍 84 • 💬 3 • ⏱️ 0:24 • 1d ago
+👁️ 96K • 👍 3K • 💬 143 • ⏱️ 29:12 • 1d ago
+
+---
+
+**[EngineAI T800 Knocks Creator to the Ground #airobot #robot #robotics #skynet #ai #humanoidrobot](https://www.youtube.com/watch?v=IejFOwEai0g)**
+
+After months of buildup, the Shenzhen startup EngineAI is taking orders for its new T800 humanoid, named after the iconic ...
+
+📺 Kalil 4.0
+
+👁️ 17K • 👍 331 • 💬 50 • ⏱️ 0:59 • 3d ago
+
+---
+
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo](https://www.youtube.com/watch?v=coZB_m41vvk)**
+
+robots #irc #humanoid At the latest tech expo, a man shows off his brand new robot girlfriend. From futuristic design to human-like ...
+
+📺 She Shorts AI
+
+👁️ 128K • 👍 829 • 💬 6 • ⏱️ 0:11 • 5d ago
+
+---
+
+**[Guy Tries Out the Newest Girlfriend Robot at the Expo](https://www.youtube.com/watch?v=DUbRBXNsyts)**
+
+robots #irc #humanoid At the latest tech expo, a man shows off his brand new robot girlfriend. From futuristic design to human-like ...
+
+📺 She Shorts AI
+
+👁️ 1.1M • 👍 4K • 💬 41 • ⏱️ 0:11 • 6d ago
 
 ---
 
