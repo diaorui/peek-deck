@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T06:46:44.697500+00:00'
+updated: '2025-12-10T07:02:30.609423+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 06:46 UTC  
+**Last Updated:** December 10, 2025 at 07:02 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,614.47
+### $92,653.27
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** +0.5%  
+**24h:** +2.1%  
+**7d:** +0.4%  
 **30d:** -10.3%  
-**90d:** -20.3%  
-**1y:** -8.3%  
+**90d:** -20.4%  
+**1y:** -8.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -101,19 +101,19 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 The Mods don't want you to see bullish memes. Vote against the bears.
 
-42m ago
+58m ago
 
 ---
 
 **[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Idk how you guys didn't see through this](https://www.reddit.com/r/Bitcoin/comments/1piox5t/idk_how_you_guys_didnt_see_through_this/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -127,7 +127,7 @@ The Mods don't want you to see bullish memes. Vote against the bears.
 
 I saw notifications of $94,000 BTC on my phone on waking up. Too bad it was already gone.
 
-2h ago
+3h ago
 
 ---
 
@@ -179,7 +179,7 @@ Investor's Business Daily • 7h ago
 
 Vivek Ramaswamy’s Strive Asset Management has announced a $500 million preferred stock offering, with proceeds earmarked for Bitcoin acquisition.Strive already holds 7,525 BTC, per BitcoinTreasuries data, worth $695.93 million, and stands 14th among top corporate Bitcoin holders.With the latest stock sales announcement, Strive intends to use the net proceeds “for ...
 
-Yahoo Finance • 58m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -285,7 +285,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 14h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 15h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -317,7 +317,7 @@ Jack Mallers, Tether, SoftBank, and Cantor Fitzgerald just launched the most exp
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 124 • ⏱️ 16:39 • 6h ago
+👁️ 26K • 👍 2K • 💬 124 • ⏱️ 16:39 • 7h ago
 
 ---
 
@@ -337,7 +337,7 @@ Nick Valdez looks ath the XXI launch on NYSE today. XXI or 21 Capital is launchi
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 146 • 💬 2 • ⏱️ 5:37 • 6h ago
+👁️ 3K • 👍 146 • 💬 2 • ⏱️ 5:37 • 7h ago
 
 ---
 
@@ -347,7 +347,7 @@ Michael Saylor declares he's more bullish than ever, stating his team can buy mo
 
 📺 Bitcoin Magazine
 
-👁️ 8K • 👍 221 • 💬 31 • ⏱️ 0:36 • 15h ago
+👁️ 8K • 👍 221 • 💬 31 • ⏱️ 0:36 • 16h ago
 
 ---
 
@@ -357,7 +357,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 21K • 👍 1K • 💬 300 • ⏱️ 7:23 • 12h ago
+👁️ 21K • 👍 1K • 💬 300 • ⏱️ 7:23 • 13h ago
 
 ---
 

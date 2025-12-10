@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T06:46:44.689997+00:00'
+updated: '2025-12-10T07:02:30.601240+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
+- news
 - repositories
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 06:46 UTC  
+**Last Updated:** December 10, 2025 at 07:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'
 
-🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 5h ago
+🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 Im not sure if this was discussed before. But LLMs can understand Base64 encoded prompts and they injest it like normal prompts. This means non human readable text prompts understood by the AI model. Tested with Gemini, ChatGPT and Grok.
 
-5h ago
+6h ago
 
 ---
 
@@ -73,7 +73,7 @@ A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is 
 
 Exclusive: Instacart’s AI pricing may be inflating your grocery bill.
 
-🔗 [Consumer Reports](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) • 2h ago
+🔗 [Consumer Reports](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) • 3h ago
 
 ---
 
@@ -103,7 +103,7 @@ People keep talking about “fixing hallucination,” but nobody is asking the o
 
 U.S. military to use Google Gemini for new AI platform.[1] EU opens investigation into Google’s use of online content for AI models.[2] Microsoft invests US$17.5 billion in India to drive AI diffusion at population scale.[3] Three in 10 US teens use AI chatbots every day, but safety concerns are growing.[4] Sources: [1] https://www.axios.com/2025/12/09/pentagon-google-gemini-genai-military-platform [2] https://www.theguardian.com/technology/2025/dec/09/eu-investigation-google-ai-models-gemini [3] https://news.microsoft.com/source/asia/2025/12/09/microsoft-invests-us17-5-billion-in-india-to-drive-ai-diffusion-at-population-scale/ [4] https://techcrunch.com/2025/12/09/three-in-ten-u-s-teens-use-ai-chatbots-every-day-but-safety-concerns-are-growing/
 
-56m ago
+1h ago
 
 ---
 
@@ -129,13 +129,13 @@ The New York Times • 14h ago
 
 Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
 **[Wall Street’s AI Adoption Is Set to Drive Hiring Boom, For Now](https://www.bloomberg.com/news/articles/2025-12-10/wall-street-s-ai-adoption-is-set-to-drive-hiring-boom-for-now)**
 
-Bloomberg.com • 43m ago
+Bloomberg.com • 59m ago
 
 ---
 
@@ -149,7 +149,7 @@ Reuters • 8h ago
 
 Microsoft has pledged $17.5 billion in investment in India's cloud and AI infrastructure, as major tech players commit to the growing market.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -157,7 +157,7 @@ CNBC • 4h ago
 
 Microsoft will continue expanding its three existing data center regions in Chennai, Hyderabad and Pune. It aims to provide AI skills training to 20 million Indians by 2030.
 
-Forbes • 11m ago
+Forbes • 27m ago
 
 ---
 
@@ -181,7 +181,7 @@ BBC • 1d ago
 
 The author of "Chip War" is worried about the U.S. losing its advantage over China in artificial intelligence talent.
 
-CNBC • 38m ago
+CNBC • 54m ago
 
 ---
 
@@ -245,7 +245,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 127 • 💬 140 • 3h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 127 • 💬 140 • 4h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -259,7 +259,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 94 • 💬 21 • 10h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+⬆️ 94 • 💬 21 • 11h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -301,7 +301,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 649K • 👍 35K • 💬 4K • ⏱️ 8:35 • 10h ago
+👁️ 649K • 👍 35K • 💬 4K • ⏱️ 8:35 • 11h ago
 
 ---
 
@@ -371,7 +371,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 59K • 👍 2K • 💬 414 • ⏱️ 1:59:44 • 16h ago
+👁️ 59K • 👍 2K • 💬 414 • ⏱️ 1:59:44 • 17h ago
 
 ---
 
@@ -433,7 +433,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 Z-Image-Turbo-Fun-Controlnet-Union is a ControlNet model trained on 1 million images, supporting Canny, HED, Depth, and Pose conditions for detailed image generation and control. It's ideal for applications requiring precise structural or stylistic adherence in image synthesis.
 
-⬇️ 0 • ❤️ 289 • 7d ago
+⬇️ 0 • ❤️ 289 • 8d ago
 
 ---
 
@@ -479,7 +479,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 4,106 • ❤️ 414 • 7d ago
+⬇️ 4,106 • ❤️ 414 • 8d ago
 
 ---
 
@@ -595,18 +595,6 @@ RealGen is a photorealistic text-to-image framework that uses an LLM for prompt 
 
 ---
 
-**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
-
-*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
-
-LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
-
-▲ 24 • 💬 0 • ⭐ 25,661 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
-
----
-
 **[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
 
 *Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
@@ -618,6 +606,18 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 ▲ 109 • 💬 4 • ⭐ 5,538 • 19d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
+
+---
+
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 24 • 💬 0 • ⭐ 25,684 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
 
 ---
 
@@ -655,7 +655,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.4k • 🔱 168 • 1h ago
+⭐ 1.4k • 🔱 168 • 20m ago
 
 ---
 
@@ -685,7 +685,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 904 • 🔱 65 • 19h ago
+⭐ 908 • 🔱 65 • 19h ago
 
 ---
 
@@ -695,7 +695,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 861 • 🔱 22 • 2d ago
+⭐ 862 • 🔱 22 • 2d ago
 
 ---
 
@@ -705,7 +705,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 852 • 🔱 272 • 3d ago
+⭐ 853 • 🔱 272 • 3d ago
 
 ---
 
@@ -715,7 +715,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 847 • 🔱 46 • 1d ago
+⭐ 848 • 🔱 46 • 1d ago
 
 ---
 
@@ -735,7 +735,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `JavaScript`
 
-⭐ 499 • 🔱 74 • 1d ago
+⭐ 508 • 🔱 77 • 1d ago
 
 ---
 
