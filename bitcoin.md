@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T05:31:47.348728+00:00'
+updated: '2025-12-10T05:48:49.472181+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 05:31 UTC  
+**Last Updated:** December 10, 2025 at 05:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,594.48
+### $92,614.47
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -109,7 +109,7 @@ Rank #1
 
 **[Taste the pain first](https://www.reddit.com/r/Bitcoin/comments/1pilin2/taste_the_pain_first/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hi everyone, FOMC meeting will be tomorrow with the decision about potential int
 
 On December 9th, in an unexpected turn for traditional finance, the price of Bitcoin regained the $94,000 mark, wiping out more than three weeks of losses. The failure of the anticipated failure of Bitcoin, and therefore all crypto, was met with lukewarm apathy by your family from Thanksgiving. "It's still just funny money," said Uncle Lou, who then unironically bragged about taking out a reverse-mortgage on the home he bought in 1974. Top analysts' warn that the trend, which they have dubbed an "inverted loss" of Bitcoin's value could continue in the long-term, and lead to a redistribution of financial power and wealth, which, according to my editor, would cause destabilization and volatility in the billionaire who owns this publication. More updates will be available as adoption makes this opinion obsolete. Appropriated Press, December 2025.
 
-50m ago
+1h ago
 
 ---
 
@@ -161,7 +161,7 @@ WIRED • 19h ago
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -175,7 +175,7 @@ MarketWatch • 6h ago
 
 Standard Chartered pushed its $500,000 Bitcoin target to 2030 from 2028. The bank says digital asset treasury buying is over and won't support prices anymore. Geoffrey Kendrick said Bitcoin will now rely on ETF buying alone to reach the half-million dollar target.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -309,7 +309,7 @@ Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation o
 
 📺 Bitcoin Magazine
 
-👁️ 48K • 👍 2K • 💬 279 • ⏱️ 42:27 • 12h ago
+👁️ 48K • 👍 2K • 💬 279 • ⏱️ 42:27 • 13h ago
 
 ---
 
@@ -359,7 +359,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 21K • 👍 1K • 💬 300 • ⏱️ 7:23 • 11h ago
+👁️ 21K • 👍 1K • 💬 300 • ⏱️ 7:23 • 12h ago
 
 ---
 

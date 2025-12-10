@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T05:31:47.354780+00:00'
+updated: '2025-12-10T05:48:49.478484+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 05:31 UTC  
+**Last Updated:** December 10, 2025 at 05:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ ive been looking at bitwage to receive my paycheck in USDC but i wanted to know 
 
 Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot wallet (non-hardware) that actually supports custom HD derivation at the account level and BIP39 passphrases (25th word). Surprisingly, this combo seems to be mostly available only on hardware wallets or very niche software. Most mainstream hot wallets either lock derivation paths or ignore passphrases completely. So far, the only hot wallet I personally found that seems to support both is TokenPocket. According to their docs, keys stay on-device and they allow more flexibility than most wallets. Before fully committing, I’m curious: Has anyone here actually used TokenPocket with custom derivation paths + passphrase? Any thoughts on its security model or reputation? Are there any other hot wallets I might be missing (mobile / desktop / CLI) that support this kind of setup for Ethereum / EVM? I know this is more of a power-user thing, but I’m guessing some of you have gone through the same search. Appreciate any insight 🙏
 
-13h ago
+14h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 1d ago
 
 Ethereum is compressing just below a critical resistance band near $3,300–$3,350, even as the broader crypto market remains unsettled by Bitcoin’s choppy price action around $43,000–$44,000. Despite the volatility, the ETH price has defended support near $3,050, forming a tight consolidation range…
 
-TradingView • 20h ago
+TradingView • 21h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Motley Fool • 1d ago
 
 Ethereum experienced a significant inflow of 162,084 ETH to Binance on December 5. This large deposit by whales has sparked analyst concerns about potential selling pressure.  Despite ETH consolidating, this event highlights market sentiment.  Traders are watching closely for further inflows to gauge market direction.  This move could signal a shift in whale strategy.
 
-The Economic Times • 1h ago
+The Economic Times • 2h ago
 
 ---
 
@@ -276,7 +276,7 @@ Ethereum has critics calling it “overvalued”… but what if everyone is look
 
 📺 Milk Road
 
-👁️ 3K • 👍 116 • 💬 77 • ⏱️ 35:26 • 9h ago
+👁️ 3K • 👍 116 • 💬 77 • ⏱️ 35:26 • 10h ago
 
 ---
 
@@ -286,7 +286,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 916 • 👍 90 • 💬 7 • ⏱️ 5:16 • 2h ago
+👁️ 916 • 👍 90 • 💬 7 • ⏱️ 5:16 • 3h ago
 
 ---
 
@@ -296,7 +296,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 1K • 👍 58 • 💬 43 • ⏱️ 13:32 • 10h ago
+👁️ 1K • 👍 58 • 💬 43 • ⏱️ 13:32 • 11h ago
 
 ---
 

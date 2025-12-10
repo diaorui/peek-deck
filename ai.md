@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T05:31:47.340320+00:00'
+updated: '2025-12-10T05:48:49.463412+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 05:31 UTC  
+**Last Updated:** December 10, 2025 at 05:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Im not sure if this was discussed before. But LLMs can understand Base64 encoded
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 10h ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 11h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg.com • 1h ago
 
 Agency and ad tech executives explain what tasks in their programmatic advertising workflows they would -- and wouldn't -- outsource to AI agents.
 
-Digiday • 26m ago
+Digiday • 43m ago
 
 ---
 
@@ -445,7 +445,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 687 • ❤️ 214 • 23h ago
+⬇️ 687 • ❤️ 214 • 1d ago
 
 ---
 
@@ -555,20 +555,6 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 ---
 
-**[LongCat-Image Technical Report](https://huggingface.co/papers/2512.07584)**
-
-*Meituan LongCat Team, Hanghang Ma, Haoxian Tan et al. (13 authors)*
-
-🏢 LongCat
-
-LongCat-Image is a bilingual open-source foundation model for image generation that addresses multilingual text rendering, photorealism, and deployment efficiency through rigorous data curation, compact design, and comprehensive open-source support.
-
-▲ 15 • 💬 2 • ⭐ 307 • 1d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.07584) • [💻 code](https://github.com/meituan-longcat/LongCat-Image) • [🔗 project](https://longcat.chat/)
-
----
-
 **[TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows](https://huggingface.co/papers/2512.05150)**
 
 *Zhenglin Cheng, Peng Sun, Jianguo Li et al. (4 authors)*
@@ -577,9 +563,23 @@ LongCat-Image is a bilingual open-source foundation model for image generation t
 
 TwinFlow is a 1-step generative model framework that enhances inference efficiency without requiring fixed pretrained teacher models or standard adversarial networks, achieving high performance on text-to-image tasks and scaling efficiently.
 
-▲ 58 • 💬 8 • ⭐ 47 • 7d ago
+▲ 58 • 💬 8 • ⭐ 68 • 7d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.05150) • [💻 code](https://github.com/inclusionAI/TwinFlow) • [🔗 project](https://zhenglin-cheng.com/twinflow)
+
+---
+
+**[LongCat-Image Technical Report](https://huggingface.co/papers/2512.07584)**
+
+*Meituan LongCat Team, Hanghang Ma, Haoxian Tan et al. (13 authors)*
+
+🏢 LongCat
+
+LongCat-Image is a bilingual open-source foundation model for image generation that addresses multilingual text rendering, photorealism, and deployment efficiency through rigorous data curation, compact design, and comprehensive open-source support.
+
+▲ 15 • 💬 2 • ⭐ 323 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.07584) • [💻 code](https://github.com/meituan-longcat/LongCat-Image) • [🔗 project](https://longcat.chat/)
 
 ---
 
@@ -655,7 +655,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.4k • 🔱 168 • 1h ago
+⭐ 1.4k • 🔱 168 • 6m ago
 
 ---
 
@@ -685,7 +685,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 903 • 🔱 65 • 18h ago
+⭐ 904 • 🔱 65 • 18h ago
 
 ---
 
@@ -715,7 +715,7 @@ Open Source Semantic Search for your AI Agent
 
 `TypeScript` `colbert` `embeddings` `grep` `grep-search`
 
-⭐ 846 • 🔱 46 • 1d ago
+⭐ 847 • 🔱 46 • 1d ago
 
 ---
 
@@ -725,7 +725,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 568 • 🔱 45 • 6d ago
+⭐ 571 • 🔱 45 • 6d ago
 
 ---
 
@@ -735,7 +735,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `JavaScript`
 
-⭐ 489 • 🔱 74 • 1d ago
+⭐ 499 • 🔱 74 • 1d ago
 
 ---
 
