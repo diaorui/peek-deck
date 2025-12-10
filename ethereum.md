@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T15:41:09.809005+00:00'
+updated: '2025-12-10T15:56:34.487064+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 15:41 UTC  
+**Last Updated:** December 10, 2025 at 15:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.3%  
-**7d:** +5.8%  
-**30d:** -2.9%  
-**90d:** -29.5%  
-**1y:** -13.6%  
+**24h:** -0.9%  
+**7d:** +6.2%  
+**30d:** -2.5%  
+**90d:** -29.2%  
+**1y:** -13.2%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An agent initially promised 3-5 days to credit/return my funds to my ETH wallet. More than 15 days have passed. Case #25243137 Their support refused to release my GDPR data, and in the UI there's no button to download it manually. I have lost over $100k in opportunity cost (sold ETH to deposit this). My tweet about it, including the screenshot where they tell me to report them to the authorities: https://x.com/laur_science/status/1998746021099122834 WARNING to all users: If their system glitches, they will NOT fix it manually. They will wait weeks while you lose money. Even better, don't use centralized exchanges for large amounts, or do it in small tranches. For me, it's the last time, and yes - I already knew the dangers, therefore "lesson reinforced", not "lesson learned".
 
-1h ago
+2h ago
 
 ---
 
@@ -154,7 +154,7 @@ By magnitude, the biggest question for the Defi ecosystem for the next cycle is 
 
 Despite the breakout, DOGE faces significant structural resistance from major EMAs.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 22h ago
 
 Spot Ethereum ETF inflows hit a six-week high, with analysts citing a structural rotation by institutions broadening their crypto exposure.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -214,7 +214,7 @@ The Motley Fool • 2d ago
 
 The chart finally shows a market that has stopped bleeding and begun to fight back, and Ethereum is about to enter a structurally critical phase. ETH has successfully reversed from the $2,700-$2,800 range after months of cascading sell pressure, printing a series of higher lows and pushing hard tow…
 
-TradingView • 5h ago
+TradingView • 6h ago
 
 ---
 
@@ -230,63 +230,13 @@ Seeking Alpha • 5h ago
 
 ## YouTube Videos: "ethereum"
 
-**[I Can’t Believe This Is Happening!! All Hell Is Breaking Loose In Crypto!!](https://www.youtube.com/watch?v=2ZqztKdMquI)**
-
-Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily Merch - While ...
-
-📺 Altcoin Daily
-
-👁️ 57K • 👍 3K • 💬 235 • ⏱️ 12:03 • 16h ago
-
----
-
 **[Tom Lee&#39;s New Ethereum Price Prediction is INSANE](https://www.youtube.com/watch?v=Q7ICP7zFCCs)**
 
 Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee and Howard Lutnick argue it's something very ...
 
 📺 The Bitcoin Revolution
 
-👁️ 16K • 👍 465 • 💬 212 • ⏱️ 12:46 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=1vCvyhQK1ls)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 215 • 💬 8 • ⏱️ 5:16 • 13h ago
-
----
-
-**[WOW: Insider Whale Just Opened A Mega $ETH Long! [Copy Them?]](https://www.youtube.com/watch?v=bA0YlnGLFII)**
-
-A huge ETH whale just opened a massive sized position. In today's video, Kyledoops shares the significance of this and whether ...
-
-📺 Crypto Banter
-
-👁️ 12K • 👍 1K • 💬 12 • ⏱️ 34:34 • 7h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=CtiO05cUc50)**
-
-BITCOIN & ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 327 • 💬 81 • ⏱️ 21:02 • 16h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=zsKRk2XaBrU)**
-
-TrumpCrypto2025 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2025 — streaming LIVE from ...
-
-📺 CareerGuide.com
-
-👁️ 2K • 👍 1K • 6h ago
+👁️ 16K • 👍 472 • 💬 236 • ⏱️ 12:46 • 1d ago
 
 ---
 
@@ -296,17 +246,37 @@ Bitcoin and Ethereum surged amid anticipation that the US central bank will cut 
 
 📺 Paul Barron Network
 
-👁️ 44K • 👍 2K • 💬 106 • ⏱️ 20:14 • 19h ago
+👁️ 45K • 👍 2K • 💬 107 • ⏱️ 20:14 • 19h ago
 
 ---
 
-**[Ethereum Just Printed The Biggest Signal But Many Will Miss Out](https://www.youtube.com/watch?v=htdw-nVo9Wg)**
+**[My Exact Crypto Trade Plan For This FOMC! [What They’re Not Telling You]](https://www.youtube.com/watch?v=bA0YlnGLFII)**
 
-Ethereum just printed one of the biggest signals I have seen in a long time… and most people are completely ignoring it.
+A huge ETH whale just opened a massive sized position. In today's video, Kyledoops shares the significance of this and whether ...
 
-📺 Crypto Hustle
+📺 Crypto Banter
 
-👁️ 240 • 👍 21 • 💬 3 • ⏱️ 11:11 • 5h ago
+👁️ 15K • 👍 1K • 💬 12 • ⏱️ 34:34 • 7h ago
+
+---
+
+**[I Can’t Believe This Is Happening!! All Hell Is Breaking Loose In Crypto!!](https://www.youtube.com/watch?v=2ZqztKdMquI)**
+
+Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily Merch - While ...
+
+📺 Altcoin Daily
+
+👁️ 60K • 👍 3K • 💬 327 • ⏱️ 12:03 • 16h ago
+
+---
+
+**[🚨 FED FLIP!! | ETH&#39;s Biggest Day of the Year (FOMC + QE)](https://www.youtube.com/watch?v=YPMRXtdCF88)**
+
+BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade ...
+
+📺 Marzell Crypto
+
+👁️ 427 • 👍 41 • 💬 35 • ⏱️ 8:36 • 2h ago
 
 ---
 
@@ -316,17 +286,47 @@ Ethereum has critics calling it “overvalued”… but what if everyone is look
 
 📺 Milk Road
 
-👁️ 4K • 👍 143 • 💬 27 • ⏱️ 35:26 • 19h ago
+👁️ 5K • 👍 154 • 💬 42 • ⏱️ 35:26 • 20h ago
 
 ---
 
-**[Ethereum&#39;s New Era of Internet Capital Formation! The Return of the ICO](https://www.youtube.com/watch?v=QId8-IRl0bA)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=1vCvyhQK1ls)**
 
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium ------ ICOs are suddenly back, but ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Bankless
+📺 More Crypto Online
 
-👁️ 555 • 👍 38 • 💬 5 • ⏱️ 1:09:21 • 4h ago
+👁️ 4K • 👍 221 • 💬 8 • ⏱️ 5:16 • 13h ago
+
+---
+
+**[BlackRock files application with SEC for staked ether ETF: CNBC Crypto World](https://www.youtube.com/watch?v=2KhviSIAuxI)**
+
+On today's episode of CNBC Crypto World, bitcoin continues to trade below $90000. Plus, Ondo Finance says the SEC formally ...
+
+📺 CNBC Television
+
+👁️ 29K • 👍 414 • 💬 170 • ⏱️ 13:30 • 1d ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=CtiO05cUc50)**
+
+BITCOIN & ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 339 • 💬 81 • ⏱️ 21:02 • 16h ago
+
+---
+
+**[Tom Lee&#39;s BitMine Immersion Adds $435M of ETH to Treasury](https://www.youtube.com/watch?v=MnQMmMF_R4g)**
+
+BitMine Immersion Technologies just made a $435 million ETH acquisition, bringing their treasury to over 3.86 million tokens and ...
+
+📺 CoinDesk
+
+👁️ 996 • 👍 11 • 💬 11 • ⏱️ 1:12 • 1d ago
 
 ---
 

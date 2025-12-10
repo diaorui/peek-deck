@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T15:41:09.812248+00:00'
+updated: '2025-12-10T15:56:34.490259+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 15:41 UTC  
+**Last Updated:** December 10, 2025 at 15:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -88,7 +88,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 Hi everyone, I’m getting started with ROS2 and have been following the Husarion tutorial (the ROSbot XL + Gazebo one). It seems pretty complete, but I ran into a few issues along the way: Some repositories were deprecated or had moved to different branches. Several dependencies weren’t documented, so I had to install them manually. I had to replace ros_components_description with husarion_components_description and update the corresponding includes to get the simulation running. Some parts of the tutorial seem written for Humble, and I'm not sure if that’s ideal to learn ROS2 today. I eventually got the robot running in Gazebo, but before investing more time I wanted to ask: What do you think of this tutorial as a way to learn ROS2 from scratch? What are the pros and cons? Is it still a good choice for beginners? Would it be better to switch to ROS2 Jazzy to avoid compatibility issues? Are there any more up-to-date alternatives or learning roadmaps you’d recommend? Any feedback is appreciated — thanks! 🙌
 
-47m ago
+1h ago
 
 ---
 
@@ -190,13 +190,13 @@ Dark Reading • 22h ago
 
 ## YouTube Videos: "robotics"
 
-**[The Latest Humanoid Robotics Breakthroughs You Need to See](https://www.youtube.com/watch?v=RHYYC97ir5w)**
+**[China Just Built the REAL-LIFE Terminator AI Robot — EngineAI&#39;s T800 Robot SHOCKS WORLD](https://www.youtube.com/watch?v=BF_VLuF3QxA)**
 
-Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid Learn AI ...
+China has officially unveiled a humanoid robot that looks straight out of a sci-fi movie — EngineAI's new T800. This real-life ...
 
-📺 TheAIGRID
+📺 The AI Nexus
 
-👁️ 15K • 👍 441 • 💬 105 • ⏱️ 42:48 • 2d ago
+👁️ 32K • 👍 639 • 💬 152 • ⏱️ 18:46 • 4d ago
 
 ---
 
@@ -208,23 +208,13 @@ Checkout my newsletter : - https://aigrid.beehiiv.com/subscribe Follow Me on Twi
 
 ---
 
-**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
+**[Humanoid Robots Are Moving in Ways We’ve NEVER Seen Before.](https://www.youtube.com/watch?v=vHoyHfzhfBY)**
 
-EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
+Want to stay up to date with ai news - https://aigrid.beehiiv.com/subscribe Follow Me on Twitter https://twitter.com/TheAiGrid ...
 
-📺 AI Tech Academy
+📺 TheAIGRID
 
-👁️ 38K • 👍 900 • 💬 289 • ⏱️ 14:26 • 1d ago
-
----
-
-**[China Just Built the REAL-LIFE Terminator AI Robot — EngineAI&#39;s T800 Robot SHOCKS WORLD](https://www.youtube.com/watch?v=BF_VLuF3QxA)**
-
-China has officially unveiled a humanoid robot that looks straight out of a sci-fi movie — EngineAI's new T800. This real-life ...
-
-📺 The AI Nexus
-
-👁️ 32K • 👍 637 • 💬 151 • ⏱️ 18:46 • 4d ago
+👁️ 25K • 👍 821 • 💬 175 • ⏱️ 10:33 • 5d ago
 
 ---
 
@@ -234,7 +224,17 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 121K • 👍 6K • 💬 817 • ⏱️ 19:33 • 4d ago
+👁️ 121K • 👍 6K • 💬 824 • ⏱️ 19:33 • 4d ago
+
+---
+
+**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
+
+The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
+
+📺 DPCcars
+
+👁️ 201K • 👍 901 • 💬 297 • ⏱️ 1:03 • 3d ago
 
 ---
 
@@ -246,43 +246,43 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 ---
 
-**[Silicon Valley’s Newest AI Diaper Changer Is Unreal 👶🤖 AI Baby Changer 4.0 — The Future Is Here](https://www.youtube.com/watch?v=x5P16JwG6fU)**
+**[Elon Musk Reveals Tesla’s New Running Optimus Gen 3 Robot — It’s Getting Too Real](https://www.youtube.com/watch?v=ea6QaTrgx3w)**
 
-At the Silicon Valley Robotics Expo 2025, the new AI Baby Changer 4.0 shows the future of Smart Parenting, BabyTech and AI ...
+Tesla just revealed the biggest leap in its humanoid robot project — Optimus Gen 3 can now run. And this upgrade is far more ...
 
-📺 AI Robot Lab
+📺 The AI Nexus
 
-👁️ 433 • ⏱️ 0:20 • 2h ago
-
----
-
-**[Leaked: Trump’s Robot Exec Order - The Investment Opportunity of a Lifetime!?](https://www.youtube.com/watch?v=zNWcAI4dsvQ)**
-
-Ready to Learn from My Mentors? Book a Free Strategy Call at https://felixfriends.org/freedom Download the Workbook in Our ...
-
-📺 Felix & Friends (Goat Academy)
-
-👁️ 98K • 👍 3K • 💬 143 • ⏱️ 29:12 • 2d ago
+👁️ 11K • 👍 224 • 💬 29 • ⏱️ 26:22 • 5d ago
 
 ---
 
-**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
+**[New art installation features robot dogs wearing masks of public figures](https://www.youtube.com/watch?v=ic_nxW0x1Dc)**
 
-The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
+A digital artist from South Carolina has released his new project — an art installation featuring autonomous robot dogs with ...
 
-📺 DPCcars
+📺 ABC News
 
-👁️ 201K • 👍 899 • 💬 297 • ⏱️ 1:03 • 3d ago
+👁️ 176K • 👍 3K • 💬 308 • ⏱️ 0:30 • 6d ago
 
 ---
 
-**[AI Exosuit Robot Force Multiplier Demo at 2025 Silicon Valley Robotics Expo](https://www.youtube.com/watch?v=KqHnIWXJdYE)**
+**[Humanoid robots interaction event caught on camera #ai #robotics #insane](https://www.youtube.com/watch?v=620VzTXLhVg)**
 
-AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics Expo. Developed in a next-gen Palo Alto robotics ...
+Witness the spectacular demonstration of a lifelike robot at a recent event! These advanced humanoid robots surprised the ...
 
-📺 AI Robot Lab
+📺 AI Robot A
 
-👁️ 40K • 👍 436 • 💬 13 • ⏱️ 0:25 • 3d ago
+👁️ 29K • 👍 194 • 💬 2 • ⏱️ 0:09 • 6d ago
+
+---
+
+**[GET IN EARLY! Top 3 Robotics Stocks that are Better Than Nvidia](https://www.youtube.com/watch?v=b1x-pkoXnnk)**
+
+Here are 3 robotics stocks to outperform Nvidia going forward. Thanks to Hostinger for sponsoring this video! Get 67% off n8n ...
+
+📺 Fin Tek
+
+👁️ 95K • 👍 3K • 💬 150 • ⏱️ 21:31 • 4d ago
 
 ---
 

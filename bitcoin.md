@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T15:41:09.802981+00:00'
+updated: '2025-12-10T15:56:34.481040+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 15:41 UTC  
+**Last Updated:** December 10, 2025 at 15:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
-**7d:** -0.3%  
-**30d:** -11.0%  
-**90d:** -20.9%  
-**1y:** -9.1%  
+**24h:** -2.1%  
+**7d:** -0.1%  
+**30d:** -10.8%  
+**90d:** -20.7%  
+**1y:** -8.9%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 On December 9th, in an unexpected turn for traditional finance, the price of Bitcoin regained the $94,000 mark, wiping out more than three weeks of losses. The failure of the anticipated failure of Bitcoin, and therefore all crypto, was met with lukewarm apathy by your family from Thanksgiving. "It's still just funny money," said Uncle Lou, who then unironically bragged about taking out a reverse-mortgage on the home he bought in 1974. Top analysts' warn that the trend, which they have dubbed an "inverted loss" of Bitcoin's value could continue in the long-term, and lead to a redistribution of financial power and wealth, which, according to my editor, would cause destabilization and volatility in the billionaire who owns this publication. More updates will be available as adoption makes this opinion obsolete. Appropriated Press, December 2025.
 
-10h ago
+11h ago
 
 ---
 
@@ -135,7 +135,7 @@ Sooner or later it will bounce to new highs, or not
 
 **["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -167,13 +167,13 @@ MarketWatch • 16h ago
 
 Standard Chartered pushed its $500,000 Bitcoin target to 2030 from 2028. The bank says digital asset treasury buying is over and won't support prices anymore. Geoffrey Kendrick said Bitcoin will now rely on ETF buying alone to reach the half-million dollar target.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
 **[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 4h ago
 
 ---
 
@@ -203,7 +203,7 @@ NPR • 7h ago
 
 The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -291,7 +291,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 23h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 1d ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -307,43 +307,33 @@ Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever b
 
 ## YouTube Videos: "bitcoin"
 
-**[Is the Fed About to Trigger the Next Bitcoin Boom?](https://www.youtube.com/watch?v=7CnyO1Ep3YU)**
+**[The INEVITABLE Bitcoin Catch Up Trade Started Yesterday! [You Have 24H]](https://www.youtube.com/watch?v=65KgU0oEeOg)**
 
-Anthony and John Pompliano dig into what's really at stake at the upcoming Federal Reserve meeting — whether the move ...
+The biggest crypto catch-up trade has begun, and Ran explains what's driving it. Bitcoin is breaking out, but key signals suggest ...
 
-📺 Anthony Pompliano
+📺 Crypto Banter
 
-👁️ 23K • 👍 876 • 💬 15 • ⏱️ 35:48 • 17h ago
-
----
-
-**[Did Jack Mallers Just Build Bitcoin’s FIRST $1 Trillion Company?!](https://www.youtube.com/watch?v=AJsTfBKSt4U)**
-
-Jack Mallers, Tether, SoftBank, and Cantor Fitzgerald just launched the most explosive Bitcoin-backed company in history—21 ...
-
-📺 Simply Bitcoin
-
-👁️ 46K • 👍 3K • 💬 283 • ⏱️ 16:39 • 15h ago
+👁️ 7K • 👍 976 • 💬 4 • ⏱️ 29:14 • 52m ago
 
 ---
 
-**[If Trump Does This Bitcoin and Crypto Will Explode](https://www.youtube.com/watch?v=1sd6Qcx-uKY)**
+**[Bitcoin Investors...Get Ready for FOMC Press Conference](https://www.youtube.com/watch?v=Hw21byHsv_w)**
 
-In this clip, I talk about a major macro event that could impact bitcoin and crypto. **Exchange Partners** Bitunix Exchange ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 CryptosRus Extra
+📺 CryptosRUs
 
-👁️ 8K • 👍 510 • 💬 114 • ⏱️ 8:42 • 15h ago
+👁️ 10K • 👍 754 • 💬 39 • ⏱️ 41:09 • 37m ago
 
 ---
 
-**[&quot;Something Is Wrong! They Are Hiding Something About Bitcoin &amp; Crypto&quot; - Samson Mow](https://www.youtube.com/watch?v=GAp-FvbO_PU)**
+**[Bitcoin Live Trading: FOMC Incoming! Price INSANITY Starts NOW EP1849](https://www.youtube.com/watch?v=d9GOTWr-Y34)**
 
-Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, and easy sign-up—start now!
+Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.cryptolifer.com Pionex: Best Bot Platform ...
 
-📺 Savvy Finance
+📺 Crypto Lifer
 
-👁️ 11K • 👍 409 • 💬 11 • ⏱️ 20:58 • 1d ago
+👁️ 3K • 👍 414 • 2h ago
 
 ---
 
@@ -353,57 +343,67 @@ Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BU
 
 📺 Conor Kenny
 
-👁️ 10K • 👍 515 • 💬 53 • ⏱️ 12:36 • 9h ago
+👁️ 11K • 👍 530 • 💬 54 • ⏱️ 12:36 • 10h ago
 
 ---
 
-**[BREAKING: Michael Saylor Reveals That EVERY MAJOR Bank is Buying Bitcoin?! | EP 1394](https://www.youtube.com/watch?v=nYLaxkfPxis)**
+**[FOMC: Bitcoin&#39;s FINAL Price Zones to Watch Before the Rate Cut](https://www.youtube.com/watch?v=c8eIgdDOkm0)**
 
-Michael Saylor drops a BOMBSHELL at Bitcoin MENA that PROVES 2026 is gonna be BULLISH AF!
+Today's FOMC meeting could cause a HUGE move in Bitcoin — either a big pump or a scary dump. In this video, I break down ...
 
-📺 Simply Bitcoin
+📺 Discover Crypto
 
-👁️ 13K • 👍 654 • 💬 123 • ⏱️ 1:20:17 • 20h ago
-
----
-
-**[HUGE Bitcoin Reversal Incoming - Here&#39;s Why](https://www.youtube.com/watch?v=fEX9E7tYdfs)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 33K • 👍 2K • 💬 266 • ⏱️ 44:49 • 1d ago
+👁️ 1K • 👍 141 • 1h ago
 
 ---
 
-**[The Fed Just Set the Stage for a Major Crypto Market Rally in 2026](https://www.youtube.com/watch?v=eVTxYvUrTgI)**
+**[If Trump Does This Bitcoin and Crypto Will Explode](https://www.youtube.com/watch?v=1sd6Qcx-uKY)**
 
-LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Start Trading on Polymarket (#1 ...
+In this clip, I talk about a major macro event that could impact bitcoin and crypto. **Exchange Partners** Bitunix Exchange ...
 
-📺 Altcoin Daily
+📺 CryptosRus Extra
 
-👁️ 68K • 👍 3K • 💬 253 • ⏱️ 10:16 • 1d ago
-
----
-
-**[Bitcoin Pre-FOMC](https://www.youtube.com/watch?v=kZGHzEGRyAM)**
-
-Let's talk about the price of #Bitcoin going into FOMC! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com Into ...
-
-📺 Benjamin Cowen
-
-👁️ 76K • 👍 4K • 💬 220 • ⏱️ 9:09 • 1d ago
+👁️ 8K • 👍 531 • 💬 116 • ⏱️ 8:42 • 15h ago
 
 ---
 
-**[Michael Saylor: “We’re Buying More Bitcoin Than Sellers Can Sell”](https://www.youtube.com/watch?v=Io3V7H-862c)**
+**[Is the Fed About to Trigger the Next Bitcoin Boom?](https://www.youtube.com/watch?v=7CnyO1Ep3YU)**
 
-Michael Saylor declares he's more bullish than ever, stating his team can buy more Bitcoin than sellers can sell—and that they're ...
+Anthony and John Pompliano dig into what's really at stake at the upcoming Federal Reserve meeting — whether the move ...
 
-📺 Bitcoin Magazine
+📺 Anthony Pompliano
 
-👁️ 10K • 👍 265 • 💬 30 • ⏱️ 0:36 • 1d ago
+👁️ 24K • 👍 920 • 💬 26 • ⏱️ 35:48 • 17h ago
+
+---
+
+**[bitcoin just broke the model](https://www.youtube.com/watch?v=hWFQHVBrJN8)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 24K • 👍 1K • 💬 338 • ⏱️ 7:23 • 22h ago
+
+---
+
+**[🚨 Bitcoin FOMC Prediction (Watch Urgently)](https://www.youtube.com/watch?v=JebfQ8vzYEY)**
+
+WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $10-100 PIONEX: ...
+
+📺 Crypto Kid
+
+👁️ 2K • 👍 259 • 💬 73 • ⏱️ 5:29 • 3h ago
+
+---
+
+**[BITCOIN: i can’t believe what i’ve just seen..](https://www.youtube.com/watch?v=8NYTwI_MdNk)**
+
+Bitcoin what now? HIDDEN DANGER Of Drinking Apple Cider Vinegar! https://youtu.be/GZ0i3Ib6Sl0 (click)
+
+📺 MMCrypto
+
+👁️ 16K • 👍 2K • 💬 205 • ⏱️ 4:22 • 3h ago
 
 ---
 

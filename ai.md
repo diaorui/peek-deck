@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T15:41:09.794429+00:00'
+updated: '2025-12-10T15:56:34.472607+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 15:41 UTC  
+**Last Updated:** December 10, 2025 at 15:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ This year, McDonald’s decided to get in on the corporate slopfest with a 45-se
 
 The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'
 
-🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 14h ago
+🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 15h ago
 
 ---
 
@@ -95,7 +95,7 @@ Exclusive: Instacart’s AI pricing may be inflating your grocery bill.
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 20h ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 21h ago
 
 ---
 
@@ -103,7 +103,7 @@ A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is 
 
 https://arxiv.org/abs/2109.11415 Abstract: "Bayesian Networks (BNs) have become increasingly popular over the last few decades as a tool for reasoning under uncertainty in fields as diverse as medicine, biology, epidemiology, economics and the social sciences. This is especially true in real-world areas where we seek to answer complex questions based on hypothetical evidence to determine actions for intervention. However, determining the graphical structure of a BN remains a major challenge, especially when modelling a problem under causal assumptions. Solutions to this problem include the automated discovery of BN graphs from data, constructing them based on expert knowledge, or a combination of the two. This paper provides a comprehensive review of combinatoric algorithms proposed for learning BN structure from data, describing 74 algorithms including prototypical, well-established and state-of-the-art approaches. The basic approach of each algorithm is described in consistent terms, and the similarities and differences between them highlighted. Methods of evaluating algorithms and their comparative performance are discussed including the consistency of claims made in the literature. Approaches for dealing with data noise in real-world datasets and incorporating expert knowledge into the learning process are also covered."
 
-31m ago
+47m ago
 
 ---
 
@@ -118,30 +118,6 @@ Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as A
 ---
 
 ## Google News: "ai"
-
-**[McDonald's pulls AI-generated Christmas advert following backlash](https://www.bbc.com/news/articles/czdgrnvp082o)**
-
-McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
-
-BBC • 3h ago
-
----
-
-**[AI slop ad backfires for McDonald’s](https://www.latimes.com/business/story/2025-12-10/ai-slop-ad-backfires-for-mcdonalds)**
-
-Viewers blasted McDonald's satirical commercial as offensive, with critics questioning why anyone would 'ditch your family and hide in McDonald's.'
-
-Los Angeles Times • 11h ago
-
----
-
-**[McDonald’s Pulls Down AI-Generated Holiday Ad After Deluge of Mockery](https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial)**
-
-McDonald's Netherlands is catching flak for a stupefying AI-generated video, which was roundly condemned on social media.
-
-Futurism • 21h ago
-
----
 
 **[Meta’s New A.I. Superstars Are Chafing Against the Rest of the Company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)**
 
@@ -163,35 +139,57 @@ Bloomberg.com • 1h ago
 
 ---
 
-**[5 Things Companies Winning With Enterprise AI Get Right](https://www.forbes.com/sites/niritcohen/2025/12/10/5-things-companies-winning-with-enterprise-ai-get-right/)**
+**[McDonald's pulls AI-generated Christmas advert following backlash](https://www.bbc.com/news/articles/czdgrnvp082o)**
 
-Google Workspace research shows only 3 percent of companies succeed with enterprise AI. These five behaviors reveal how top performers turn AI into real transformation.
+McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-Forbes • 1h ago
-
----
-
-**[OpenAI Is in Trouble](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/)**
-
-The start-up is falling behind in the AI race.
-
-The Atlantic • 17h ago
+BBC • 3h ago
 
 ---
 
-**[AI companies want a new internet — and they think they’ve found the key](https://www.theverge.com/ai-artificial-intelligence/841156/ai-companies-aaif-anthropic-mcp-model-context-protocol)**
+**[AI slop ad backfires for McDonald’s](https://www.latimes.com/business/story/2025-12-10/ai-slop-ad-backfires-for-mcdonalds)**
 
-“I’ve never seen anything like this,” says the Linux Foundation’s Jim Zemlin.
+Viewers blasted McDonald's satirical commercial as offensive, with critics questioning why anyone would 'ditch your family and hide in McDonald's.'
 
-The Verge • 1h ago
+Los Angeles Times • 11h ago
 
 ---
 
-**[Bill aims to supercharge American AI talent in federal government](https://www.nbcnews.com/tech/tech-news/bill-aims-supercharge-american-ai-talent-federal-government-rcna248284)**
+**[McDonald's pulled a widely mocked 'AI slop' Christmas ad](https://qz.com/mcdonalds-ai-christmas-ad)**
 
-The AI Talent Act would establish hiring teams throughout the federal government focused on artificial intelligence talent.
+qz.com • 1h ago
 
-NBC News • 1h ago
+---
+
+**[Cryptographers Show That AI Protections Will Always Have Holes](https://www.quantamagazine.org/cryptographers-show-that-ai-protections-will-always-have-holes-20251210/)**
+
+Large language models such as ChatGPT come with filters to keep certain info from getting out. A new mathematical argument shows that systems like this can never be completely safe.
+
+Quanta Magazine • 20m ago
+
+---
+
+**[Is SoundHound AI Stock Your Ticket to Becoming a Millionaire?](https://www.fool.com/investing/2025/12/10/is-soundhound-ai-stock-your-ticket-to-becoming-a-m/)**
+
+This AI stock checks off several important boxes that increase its chances of being a millionaire maker.
+
+The Motley Fool • 5h ago
+
+---
+
+**[GE Vernova Soars After AI Spurs Higher Dividend and Buybacks](https://finance.yahoo.com/news/ge-vernova-boosts-buyback-doubles-211643355.html)**
+
+Shares of the supplier of electric-generation equipment climbed 16% to $723.09 at 9:38 a.m. in New York, a day after it doubled its dividend, increased the scope for share buybacks and raised earnings projections at an investor day in New York.  GE Vernova has benefited from soaring US demand for electricity, driven by data centers, artificial intelligence and overall electrification of the economy.  “AI is a real driver for us right now, but it isn’t the only driver,” Chief Executive Officer Scott Strazik said in an interview Tuesday.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[The Case for Buying This Under-the-Radar AI Stock Before Its Next Big Catalyst](https://finance.yahoo.com/news/case-buying-under-radar-ai-110500977.html)**
+
+A big production capacity bet and a low valuation offer upside.
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -285,65 +283,7 @@ Zhipu AI just dropped the first real open source AI agent, and the entire indust
 
 📺 AI Revolution
 
-👁️ 23K • 👍 1K • 💬 45 • ⏱️ 12:50 • 15h ago
-
----
-
-**[AI News: GPT-5.2, Devstral 2, Boom Superpower, MCP Nonprofit and more!](https://www.youtube.com/watch?v=GMQ58GUpcD0)**
-
-Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/dell-ai-factory-with-nvidia Download The Subtle ...
-
-📺 Matthew Berman
-
-👁️ 41K • 👍 1K • 💬 166 • ⏱️ 9:41 • 16h ago
-
----
-
-**[China&#39;s Rise, GPT-5.2, Anthropic IPO &amp; the Battle for AI Trust w/ Emad, Salim, Dave &amp; AWG | EP #214](https://www.youtube.com/watch?v=zGD5mv-XKU0)**
-
-Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends Emad Mostaque is the founder of ...
-
-📺 Peter H. Diamandis
-
-👁️ 75K • 👍 2K • 💬 464 • ⏱️ 1:59:44 • 1d ago
-
----
-
-**[Google’s Titans Just Solved AI’s Biggest Weakness, But...](https://www.youtube.com/watch?v=GGdjty9pAtg)**
-
-Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS introduce a new long-term memory system that ...
-
-📺 AI Revolution
-
-👁️ 35K • 👍 1K • 💬 68 • ⏱️ 13:12 • 1d ago
-
----
-
-**[AI Dress in REAL LIFE](https://www.youtube.com/watch?v=zreiL7w329o)**
-
-I Paid a dress maker to make an AI dress in real life! OTHER VIDEOS u might like: ✨ Temu, Amazon & Etsy Product ...
-
-📺 Mia Maples
-
-👁️ 91K • 👍 4K • 💬 76 • ⏱️ 0:36 • 1d ago
-
----
-
-**[Reacting To AI Videos Of Myself 🤔](https://www.youtube.com/watch?v=tNVmTF_P89k)**
-
-Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsain Socials: Twitter ...
-
-📺 hxsain
-
-👁️ 249K • 👍 21K • 💬 234 • ⏱️ 0:51 • 21h ago
-
----
-
-**[Americans are in Love with AI Partners and it&#39;s absolutely Insane #AI  #Airelationships #USA](https://www.youtube.com/watch?v=w4VxvtP0TIE)**
-
-📺 Career247
-
-👁️ 6K • 👍 1K • 💬 89 • ⏱️ 1:48 • 1h ago
+👁️ 25K • 👍 1K • 💬 48 • ⏱️ 12:50 • 15h ago
 
 ---
 
@@ -353,27 +293,85 @@ In this episode, I sit down with @elonmusk for a wide-ranging conversation on DO
 
 📺 Katie Miller Pod
 
-👁️ 116K • 👍 7K • 💬 2K • ⏱️ 52:58 • 16h ago
+👁️ 139K • 👍 7K • 💬 2K • ⏱️ 52:58 • 16h ago
 
 ---
 
-**[OpenAI&#39;s New GARLIC AI, Apple&#39;s Clara, Live Avatar and More Intense AI News](https://www.youtube.com/watch?v=3n_dWlNkcY8)**
+**[DIMON’S WARNING: America might not be ready for coming AI shock](https://www.youtube.com/watch?v=C8yuD9ca1lo)**
 
-OpenAI is in a full internal race after a major leak revealed a new model called Garlic outperforming Gemini 3 and Claude in ...
+JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, crypto investing and socialism on 'Mornings ...
+
+📺 Fox Business
+
+👁️ 124K • 👍 2K • 💬 548 • ⏱️ 18:47 • 1d ago
+
+---
+
+**[Using AI to Raise Your Baby](https://www.youtube.com/watch?v=1voqPZSqSE4)**
+
+Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Our soap ...
+
+📺 penguinz0
+
+👁️ 824K • 👍 42K • 💬 5K • ⏱️ 8:35 • 19h ago
+
+---
+
+**[Why is Everyone So Wrong About AI Water Use??](https://www.youtube.com/watch?v=H_c6MWk7PQc)**
+
+Go to https://ground.news/hank for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage ...
+
+📺 Hank Green
+
+👁️ 1.2M • 👍 61K • 💬 7K • ⏱️ 24:00 • 1d ago
+
+---
+
+**[Reacting To AI Videos Of Myself 🤔](https://www.youtube.com/watch?v=tNVmTF_P89k)**
+
+Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsain Socials: Twitter ...
+
+📺 hxsain
+
+👁️ 264K • 👍 22K • 💬 245 • ⏱️ 0:51 • 21h ago
+
+---
+
+**[AI News: GPT-5.2, Devstral 2, Boom Superpower, MCP Nonprofit and more!](https://www.youtube.com/watch?v=GMQ58GUpcD0)**
+
+Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/dell-ai-factory-with-nvidia Download The Subtle ...
+
+📺 Matthew Berman
+
+👁️ 44K • 👍 1K • 💬 171 • ⏱️ 9:41 • 16h ago
+
+---
+
+**[Americans are in Love with AI Partners and it&#39;s absolutely Insane #AI  #Airelationships #USA](https://www.youtube.com/watch?v=w4VxvtP0TIE)**
+
+📺 Career247
+
+👁️ 135K • 👍 15K • 💬 813 • ⏱️ 1:48 • 2h ago
+
+---
+
+**[AI Dress in REAL LIFE](https://www.youtube.com/watch?v=zreiL7w329o)**
+
+I Paid a dress maker to make an AI dress in real life! OTHER VIDEOS u might like: ✨ Temu, Amazon & Etsy Product ...
+
+📺 Mia Maples
+
+👁️ 92K • 👍 4K • 💬 78 • ⏱️ 0:36 • 1d ago
+
+---
+
+**[Google’s Titans Just Solved AI’s Biggest Weakness, But...](https://www.youtube.com/watch?v=GGdjty9pAtg)**
+
+Google just dropped one of the biggest AI upgrades of the year. Titans and MIRAS introduce a new long-term memory system that ...
 
 📺 AI Revolution
 
-👁️ 125K • 👍 2K • 💬 150 • ⏱️ 12:31 • 2d ago
-
----
-
-**[LIVE: AI is going to transform the world](https://www.youtube.com/watch?v=bpP_ZoIqMyI)**
-
-AI is going to transform the world. We can't let a handful of billionaires decide the future for us. I'm LIVE on the Senate floor to ...
-
-📺 Senator Bernie Sanders
-
-👁️ 97K • 👍 6K • 💬 2K • ⏱️ 15:31 • 1d ago
+👁️ 36K • 👍 1K • 💬 68 • ⏱️ 13:12 • 1d ago
 
 ---
 
@@ -651,7 +649,7 @@ RealGen is a photorealistic text-to-image framework that uses an LLM for prompt 
 
 `JavaScript` `banana` `gemini` `prompt`
 
-⭐ 1.7k • 🔱 134 • 1d ago
+⭐ 1.7k • 🔱 134 • 2d ago
 
 ---
 
@@ -661,7 +659,7 @@ RealGen is a photorealistic text-to-image framework that uses an LLM for prompt 
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.6k • 🔱 187 • 3h ago
+⭐ 1.6k • 🔱 187 • 4h ago
 
 ---
 
