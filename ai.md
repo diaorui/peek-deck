@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T10:45:29.319650+00:00'
+updated: '2025-12-10T10:59:03.330037+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 10:45 UTC  
+**Last Updated:** December 10, 2025 at 10:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'
 
-🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 9h ago
+🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 10h ago
 
 ---
 
@@ -61,11 +61,19 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 ---
 
+**[Physical AI will automate ‘large sections’ of factory work in the next decade, Arm CEO Rene Haas says](https://www.reddit.com/r/artificial/comments/1piyfc1/physical_ai_will_automate_large_sections_of/)**
+
+Reprogrammable humanoid robots could level the global manufacturing playing field, Arm CEO Rene Haas said at Fortune Brainstorm AI.
+
+🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 1h ago
+
+---
+
 **[Instacart’s AI-Enabled Pricing Experiments May Be Inflating Your Grocery Bill, CR and Groundwork Collaborative Investigation Finds](https://www.reddit.com/r/artificial/comments/1pisprm/instacarts_aienabled_pricing_experiments_may_be/)**
 
 Exclusive: Instacart’s AI pricing may be inflating your grocery bill.
 
-🔗 [Consumer Reports](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) • 6h ago
+🔗 [Consumer Reports](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) • 7h ago
 
 ---
 
@@ -73,7 +81,7 @@ Exclusive: Instacart’s AI pricing may be inflating your grocery bill.
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 15h ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 16h ago
 
 ---
 
@@ -82,14 +90,6 @@ A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is 
 Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as AI shakes up jobs, education, and the global economy.
 
 🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 12h ago
-
----
-
-**[Physical AI will automate ‘large sections’ of factory work in the next decade, Arm CEO Rene Haas says](https://www.reddit.com/r/artificial/comments/1piyfc1/physical_ai_will_automate_large_sections_of/)**
-
-Reprogrammable humanoid robots could level the global manufacturing playing field, Arm CEO Rene Haas said at Fortune Brainstorm AI.
-
-🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 1h ago
 
 ---
 
@@ -107,11 +107,11 @@ People keep talking about “fixing hallucination,” but nobody is asking the o
 
 ---
 
-**[One-Minute Daily AI News 12/9/2025](https://www.reddit.com/r/artificial/comments/1piuug2/oneminute_daily_ai_news_1292025/)**
+**[Comparison between top AI skin texture enhancement tools available online](https://www.reddit.com/r/artificial/comments/1pizde7/comparison_between_top_ai_skin_texture/)**
 
-U.S. military to use Google Gemini for new AI platform.[1] EU opens investigation into Google’s use of online content for AI models.[2] Microsoft invests US$17.5 billion in India to drive AI diffusion at population scale.[3] Three in 10 US teens use AI chatbots every day, but safety concerns are growing.[4] Sources: [1] https://www.axios.com/2025/12/09/pentagon-google-gemini-genai-military-platform [2] https://www.theguardian.com/technology/2025/dec/09/eu-investigation-google-ai-models-gemini [3] https://news.microsoft.com/source/asia/2025/12/09/microsoft-invests-us17-5-billion-in-india-to-drive-ai-diffusion-at-population-scale/ [4] https://techcrunch.com/2025/12/09/three-in-ten-u-s-teens-use-ai-chatbots-every-day-but-safety-concerns-are-growing/
+Read comment 👇🏻
 
-4h ago
+23m ago
 
 ---
 
@@ -125,45 +125,31 @@ The New York Times • 18h ago
 
 ---
 
-**[Amazon pledges massive $35 billion worth of investments in India with focus on AI](https://www.cnbc.com/2025/12/10/amazon-pledges-35-billion-investments-in-indias-ai-space-through-2030-million-jobs.html)**
-
-Amazon has committed to investing $$35 billion in India’s cloud and AI space by 2030, as hyperscalers race to get a foothold in the market.
-
-CNBC • 5h ago
-
----
-
 **[Amazon, Microsoft pledge mega AI investments in India](https://www.bbc.com/news/articles/c3w79pgn8peo)**
 
 India, which is an emerging AI and cloud infrastructure hub, has witnessed a surge of global tech investment recently.
 
-BBC • 2h ago
+BBC • 3h ago
 
 ---
 
-**[Microsoft unveils $23 billion in new AI investments with big focus on India](https://www.reuters.com/business/microsoft-invest-more-than-5-billion-canada-over-next-two-years-2025-12-09/)**
+**[Microsoft to invest $17.5 billion in India's AI infra as Big Tech queues up for the Asian market](https://www.cnbc.com/2025/12/10/microsoft-india-investment-ai-infra-as-big-tech-google-aws.html)**
 
-Reuters • 12h ago
+Microsoft has pledged $17.5 billion in investment in India's cloud and AI infrastructure, as major tech players commit to the growing market.
+
+CNBC • 9h ago
+
+---
+
+**[Amazon to invest over $35 billion in India on AI, exports](https://www.reuters.com/business/retail-consumer/amazon-invest-over-35-billion-india-by-2030-expand-operations-boost-ai-2025-12-10/)**
+
+Reuters • 5h ago
 
 ---
 
 **[AI's new reality: Benchmark wins are great, money is better](https://www.axios.com/2025/12/10/ai-race-business-models-balance-sheets)**
 
-Axios • 44m ago
-
----
-
-**[Bitcoin miners are betting on AI over crypto : The Indicator from Planet Money](https://www.npr.org/2025/12/10/nx-s1-5638886/bitcoin-miners-are-betting-on-ai-over-crypto)**
-
-If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
-
-NPR • 2h ago
-
----
-
-**[Oracle’s Earnings Will Be a Key Moment for AI Stocks This Week. It Has Nothing to Do With Nvidia.](https://www.barrons.com/articles/oracle-earnings-ai-stock-market-nvidia-d7585d45?gaa_at=eafs&gaa_n=AWEtsqdm3p_R-yh2ORcKNGLZn1Q9Y6zMM9bkBUmUKnT1ClrMS96_OpslV7io&gaa_ts=69394bdd&gaa_sig=wCoJIe0gE3MWX9w5hRttOGs5vYt9NIBHM__KqXO9RET1x8B7r_1utlVsXx0qP3KE2NfJ4yT1bDAKXLs08kGyHA%3D%3D)**
-
-Barron's • 21h ago
+Axios • 58m ago
 
 ---
 
@@ -175,17 +161,31 @@ CNBC • 14h ago
 
 ---
 
-**[Oracle Earnings May Not Be Enough to Assuage Debt, AI Deal Fears](https://www.bloomberg.com/news/articles/2025-12-10/oracle-earnings-may-not-be-enough-to-assuage-debt-ai-deal-fears)**
+**[Oracle’s Earnings Will Be a Key Moment for AI Stocks This Week. It Has Nothing to Do With Nvidia.](https://www.barrons.com/articles/oracle-earnings-ai-stock-market-nvidia-d7585d45?gaa_at=eafs&gaa_n=AWEtsqfYX6clglDHxgpO1FqkqFmcaNdeC4Uob0iId_bqDgu2SXMIwn881u6M&gaa_ts=693955df&gaa_sig=rwYt-bsk3JlLkGQmezWSfyIdCW0EjKek63F5rO_RYK4OOEW0M1xsVTQCijWDptG2VcyI0H_lwFzeWN8vHmkrmg%3D%3D)**
 
-Bloomberg.com • 52m ago
+Barron's • 21h ago
 
 ---
 
-**[From Llamas to Avocados: Meta's shifting AI strategy is causing internal confusion](https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html)**
+**[Oracle Earnings May Not Be Enough to Assuage Debt, AI Deal Fears](https://www.bloomberg.com/news/articles/2025-12-10/oracle-earnings-may-not-be-enough-to-assuage-debt-ai-deal-fears)**
 
-Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
+Bloomberg.com • 1h ago
 
-CNBC • 22h ago
+---
+
+**[Pay Cuts, Poaching, and Pivoting: Inside Scale AI After Meta](https://www.businessinsider.com/pay-cuts-poaching-pivoting-inside-scale-ai-meta-2025-12)**
+
+Five months after Meta's $14 billion deal, Scale AI has lost some of its gleam, with workers sniping about pay, and rivals coming for its clientele.
+
+Business Insider • 1h ago
+
+---
+
+**[Demonstrably Safe AI For Autonomous Driving](https://waymo.com/blog/2025/12/demonstrably-safe-ai-for-autonomous-driving)**
+
+Autonomous driving is the ultimate challenge for AI in the physical world. At Waymo, we’re solving it by prioritizing demonstrably safe AI, where safety is central to how we engineer our models and AI ecosystem from the ground up. This post offers a detailed look at Waymo’s AI strategy and how it’s fueling our momentum, allowing us to safely bring our service to more riders, faster than ever before.
+
+Waymo • 18h ago
 
 ---
 
@@ -203,7 +203,7 @@ CNBC • 22h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 557 • 💬 559 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 558 • 💬 560 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -219,7 +219,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 308 • 💬 374 • 19h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 310 • 💬 376 • 19h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -227,7 +227,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 230 • 💬 103 • 17h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 232 • 💬 103 • 17h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -241,7 +241,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 135 • 💬 156 • 7h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 135 • 💬 159 • 8h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -255,7 +255,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 108 • 💬 22 • 14h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+⬆️ 110 • 💬 22 • 14h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -383,7 +383,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 67,717 • ❤️ 617 • 1d ago
+⬇️ 67,717 • ❤️ 623 • 1d ago
 
 ---
 
@@ -395,7 +395,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 232,896 • ❤️ 2,453 • 1d ago
+⬇️ 232,896 • ❤️ 2,454 • 1d ago
 
 ---
 
@@ -431,7 +431,19 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 40,667 • ❤️ 850 • 8d ago
+⬇️ 40,667 • ❤️ 851 • 8d ago
+
+---
+
+**[Devstral-Small-2-24B-Instruct-2512](https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512)**
+
+*Mistral AI_*
+
+Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for software engineering tasks, featuring a 256k context window and FP8 precision. It excels at tool usage, code exploration, and multi-file editing, making it ideal for AI code assistants and agentic coding applications.
+
+`24.0B`
+
+⬇️ 2,414 • ❤️ 181 • 17h ago
 
 ---
 
@@ -447,18 +459,6 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 ---
 
-**[Devstral-Small-2-24B-Instruct-2512](https://huggingface.co/mistralai/Devstral-Small-2-24B-Instruct-2512)**
-
-*Mistral AI_*
-
-Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for software engineering tasks, featuring a 256k context window and FP8 precision. It excels at tool usage, code exploration, and multi-file editing, making it ideal for AI code assistants and agentic coding applications.
-
-`24.0B`
-
-⬇️ 2,414 • ❤️ 177 • 17h ago
-
----
-
 **[LongCat-Image](https://huggingface.co/meituan-longcat/LongCat-Image)**
 
 *LongCat*
@@ -471,6 +471,18 @@ LongCat-Image is an efficient, bilingual (Chinese-English) text-to-image diffusi
 
 ---
 
+**[SamKash-Tolstoy](https://huggingface.co/salakash/SamKash-Tolstoy)**
+
+*Kashif Salahuddin*
+
+SamKash-Tolstoy is a LoRA adapter for DeepSeek-R1-Distill-Qwen-1.5B, specialized for generating text in the style of 19th-century Russian literature. It's ideal for creative writing, thematic analysis, and stylistic exploration within this domain.
+
+`text-generation`
+
+⬇️ 9,977 • ❤️ 624 • 12d ago
+
+---
+
 **[Nemotron-Orchestrator-8B](https://huggingface.co/nvidia/Nemotron-Orchestrator-8B)**
 
 *NVIDIA*
@@ -479,19 +491,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 15,773 • ❤️ 417 • 8d ago
-
----
-
-**[NewBie-image-Exp0.1](https://huggingface.co/NewBie-AI/NewBie-image-Exp0.1)**
-
-*NewBie AI*
-
-NewBie image Exp0.1 is a 3.5B parameter text-to-image diffusion model based on Next-DiT, optimized for generating high-quality anime-style images. It leverages Gemma3-4B-it and Jina CLIP v2 for enhanced prompt understanding and a FLUX VAE for superior visual detail, supporting both natural language and structured XML prompts for precise control.
-
-`text-to-image`
-
-⬇️ 397 • ❤️ 144 • 3d ago
+⬇️ 15,773 • ❤️ 419 • 8d ago
 
 ---
 
@@ -629,7 +629,7 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoising semantic and texture latents, improving convergence and quality.
 
-▲ 40 • 💬 2 • ⭐ 312 • 5d ago
+▲ 40 • 💬 2 • ⭐ 312 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.04926) • [💻 code](https://github.com/yuemingPAN/SFD) • [🔗 project](https://yuemingpan.github.io/SFD.github.io/)
 
@@ -655,7 +655,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.5k • 🔱 176 • 1h ago
+⭐ 1.5k • 🔱 181 • 1h ago
 
 ---
 
@@ -685,7 +685,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 912 • 🔱 65 • 23h ago
+⭐ 914 • 🔱 65 • 23h ago
 
 ---
 
@@ -695,7 +695,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 863 • 🔱 22 • 2d ago
+⭐ 864 • 🔱 22 • 2d ago
 
 ---
 
@@ -705,7 +705,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 859 • 🔱 273 • 4d ago
+⭐ 861 • 🔱 273 • 4d ago
 
 ---
 
@@ -725,7 +725,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 573 • 🔱 45 • 7d ago
+⭐ 576 • 🔱 45 • 7d ago
 
 ---
 
@@ -735,7 +735,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `JavaScript`
 
-⭐ 526 • 🔱 79 • 1d ago
+⭐ 533 • 🔱 80 • 1d ago
 
 ---
 

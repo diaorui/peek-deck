@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T10:45:29.328192+00:00'
+updated: '2025-12-10T10:59:03.337463+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 10:45 UTC  
+**Last Updated:** December 10, 2025 at 10:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.0%  
-**7d:** +0.0%  
-**30d:** -10.7%  
-**90d:** -20.7%  
-**1y:** -8.8%  
+**24h:** +2.3%  
+**7d:** +0.4%  
+**30d:** -10.4%  
+**90d:** -20.4%  
+**1y:** -8.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1856.49B
+**Market Cap:** $1841.94B
 Rank #1
 
-**Circulating Supply:** 19,960,137 BTC
+**Circulating Supply:** 19,960,162 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.3%
+-26.7%
 
 **All-Time Low:** $67.81
-+136993.3%
++136096.7%
 
 ---
 
@@ -105,12 +105,6 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 ---
 
-**["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
-
-14h ago
-
----
-
 **[Zoom out, get rid of the charts and enjoy life.](https://www.reddit.com/r/Bitcoin/comments/1piv80p/zoom_out_get_rid_of_the_charts_and_enjoy_life/)**
 
 Sooner or later it will bounce to new highs, or not
@@ -119,15 +113,21 @@ Sooner or later it will bounce to new highs, or not
 
 ---
 
-**[BTC is back, 2026 Bullrun Are you ready?](https://www.reddit.com/r/Bitcoin/comments/1piw0ft/btc_is_back_2026_bullrun_are_you_ready/)**
+**["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
 
-3h ago
+15h ago
 
 ---
 
-**[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
+**[BTC is back, 2026 Bullrun Are you ready?](https://www.reddit.com/r/Bitcoin/comments/1piw0ft/btc_is_back_2026_bullrun_are_you_ready/)**
 
-21h ago
+4h ago
+
+---
+
+**[.](https://www.reddit.com/r/Bitcoin/comments/1pix5b9/_/)**
+
+2h ago
 
 ---
 
@@ -139,9 +139,9 @@ I saw notifications of $94,000 BTC on my phone on waking up. Too bad it was alre
 
 ---
 
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pier04/daily_meme_until_100000/)**
+**[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
 
-16h ago
+22h ago
 
 ---
 
@@ -169,17 +169,19 @@ Bloomberg.com • 13h ago
 
 ---
 
-**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
+**[America’s Biggest Bitcoin Miners Are Pivoting to AI](https://www.wired.com/story/bitcoin-miners-pivot-ai-data-centers/)**
 
-Reuters • 1d ago
+In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
+
+WIRED • 1d ago
 
 ---
 
-**[Bitcoin miners are betting on AI over crypto : The Indicator from Planet Money](https://www.npr.org/2025/12/10/nx-s1-5638886/bitcoin-miners-are-betting-on-ai-over-crypto)**
+**[One of bitcoin's biggest bulls just slashed their forecast in half](https://www.businessinsider.com/bitcoin-price-prediction-btc-2026-forecast-standard-chartered-150k-2025-12)**
 
-If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
+Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
 
-NPR • 2h ago
+Business Insider • 44m ago
 
 ---
 
@@ -187,7 +189,21 @@ NPR • 2h ago
 
 The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
+
+---
+
+**[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance)**
+
+The Block • 23h ago
+
+---
+
+**[Bitcoin, Crypto Market to Remain Range-Bound After FOMC Meeting, Matrixport Predicts](https://finance.yahoo.com/news/bitcoin-crypto-market-remain-range-085400174.html)**
+
+Bitcoin trades above $92,000 ahead of the key FOMC Meeting, with the broader crypto market expecting a further rebound to officially mark a recovery. Matrixport predicts a range-bound market despite another 25bps Fed rate cut. Global investors will also closely watch Fed Chair Jerome Powell’s post-meeting remarks on the 2026 monetary policy outlook following the
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -204,20 +220,6 @@ CNBC • 16h ago
 Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
 
 Bloomberg.com • 17h ago
-
----
-
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqdd3-FjrsrdNWtuSDATBwgEeZoDryxNbGn4KrkJojZfD4z6k5_e2Ip5&gaa_ts=69394bdf&gaa_sig=1fwfUNdSRCYEnJcrVD7Q_foH0ESO1dH5GQP9ZzuntRWu7jS6TxVbo0uRH_9hjySPQZoLILVZX-L4RdaJ8ce3Vg%3D%3D)**
-
-MarketWatch • 11h ago
-
----
-
-**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
-
-BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
-
-Bloomberg.com • 1d ago
 
 ---
 
@@ -281,7 +283,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 18h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 19h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -313,7 +315,7 @@ Jack Mallers, Tether, SoftBank, and Cantor Fitzgerald just launched the most exp
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 2K • 💬 150 • ⏱️ 16:39 • 10h ago
+👁️ 38K • 👍 2K • 💬 150 • ⏱️ 16:39 • 11h ago
 
 ---
 
@@ -373,7 +375,7 @@ Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BU
 
 📺 Conor Kenny
 
-👁️ 5K • 👍 387 • 💬 46 • ⏱️ 12:36 • 4h ago
+👁️ 5K • 👍 387 • 💬 46 • ⏱️ 12:36 • 5h ago
 
 ---
 

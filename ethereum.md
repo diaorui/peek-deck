@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T10:45:29.334224+00:00'
+updated: '2025-12-10T10:59:03.342737+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 10:45 UTC  
+**Last Updated:** December 10, 2025 at 10:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.8%  
-**7d:** +6.0%  
-**30d:** -2.8%  
+**24h:** +6.7%  
+**7d:** +5.9%  
+**30d:** -2.9%  
 **90d:** -29.4%  
-**1y:** -13.4%  
+**1y:** -13.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $405.25B
+**Market Cap:** $400.41B
 Rank #2
 
 **Circulating Supply:** 120,695,213 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.4%
+-32.9%
 
 **All-Time Low:** $0.43
-+772260.8%
++766387.5%
 
 ---
 
@@ -150,6 +150,14 @@ AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ether
 
 ## Google News: "ethereum"
 
+**[Dogecoin (DOGE), Ethereum (ETH) News: Memecoin Spikes as Ether Surges](https://www.coindesk.com/markets/2025/12/10/breakout-or-bull-trap-doge-jumps-above-resistance-on-ethereum-strength)**
+
+Despite the breakout, DOGE faces significant structural resistance from major EMAs.
+
+CoinDesk • 5h ago
+
+---
+
 **[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Spike Ahead of Fed Decision](https://finance.yahoo.com/news/crypto-shorts-rekt-bitcoin-ethereum-170437408.html)**
 
 Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
@@ -172,19 +180,11 @@ Nasdaq • 18h ago
 
 ---
 
-**[Prediction: If This 1 Policy Changes, Bitcoin and Ethereum Will Soar](https://www.fool.com/investing/2025/12/08/prediction-if-this-1-policy-changes-bitcoin-and-et/)**
+**[3 Reasons to Buy Ethereum Before January 2026](https://finance.yahoo.com/news/3-reasons-buy-ethereum-january-193000879.html)**
 
-Japan is considering a big change to how it taxes crypto.
+Ethereum could be once again on the path to the $5,000 price level. Here's why.
 
-The Motley Fool • 2d ago
-
----
-
-**[Is Ethereum Price Headed Toward $3,700 Next? One Metric Hints at a Longer Wait](https://finance.yahoo.com/news/ethereum-price-headed-toward-3-100000222.html)**
-
-Ethereum price prediction still targets $3,710, but a hidden on-chain risk could delay the move. Traders should watch this closely.
-
-Yahoo Finance • 45m ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -218,11 +218,11 @@ Fortune • 1d ago
 
 ---
 
-**[Dogecoin (DOGE), Ethereum (ETH) News: Memecoin Spikes as Ether Surges](https://www.coindesk.com/markets/2025/12/10/breakout-or-bull-trap-doge-jumps-above-resistance-on-ethereum-strength)**
+**[Prediction: If This 1 Policy Changes, Bitcoin and Ethereum Will Soar](https://www.fool.com/investing/2025/12/08/prediction-if-this-1-policy-changes-bitcoin-and-et/)**
 
-Despite the breakout, DOGE faces significant structural resistance from major EMAs.
+Japan is considering a big change to how it taxes crypto.
 
-CoinDesk • 5h ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -286,7 +286,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 Stock Moe
 
-👁️ 10K • 👍 692 • 💬 67 • ⏱️ 13:03 • 13h ago
+👁️ 10K • 👍 692 • 💬 67 • ⏱️ 13:03 • 14h ago
 
 ---
 
