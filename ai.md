@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T10:59:03.330037+00:00'
+updated: '2025-12-10T11:26:44.934453+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
+- repositories
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 10:59 UTC  
+**Last Updated:** December 10, 2025 at 11:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 Im not sure if this was discussed before. But LLMs can understand Base64 encoded prompts and they injest it like normal prompts. This means non human readable text prompts understood by the AI model. Tested with Gemini, ChatGPT and Grok.
 
-9h ago
+10h ago
 
 ---
 
@@ -57,7 +57,7 @@ Im not sure if this was discussed before. But LLMs can understand Base64 encoded
 
 While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 19h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 20h ago
 
 ---
 
@@ -89,7 +89,7 @@ A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is 
 
 Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as AI shakes up jobs, education, and the global economy.
 
-🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 12h ago
+🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 13h ago
 
 ---
 
@@ -97,7 +97,7 @@ Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as A
 
 People keep talking about “fixing hallucination,” but nobody is asking the one question that actually matters: Why do these systems hallucinate in the first place? Every solution so far—RAG, RLHF, model scaling, “AI constitutions,” uncertainty scoring—tries to patch the problem after it happens. They’re improving the guess instead of removing the guess. The real issue is structural: these models are architecturally designed to generate answers even when they don’t have grounded information. They’re rewarded for sounding confident, not for knowing when to stop. That’s why the failures repeat across every system—GPT, Claude, Gemini, Grok. Different models, same flaw. What I’ve put together breaks down the actual mechanics behind that flaw using the research the industry itself published. It shows why their methods can’t solve it, why the problem persists across scaling, and why the most obvious correction has been ignored for years. If you want the full breakdown—with evidence from academic papers, production failures, legal cases, medical misfires, and the architectural limits baked into transformer models—here it is. It explains the root cause in plain language so people can finally see the pattern for themselves.
 
-🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 16h ago
+🔗 [open.substack.com](https://open.substack.com/pub/structuredlanguage/p/how-zahaviel-bernstein-solved-ai?utm_source=share&utm_medium=android&r=6sdhpn) • 17h ago
 
 ---
 
@@ -111,7 +111,7 @@ People keep talking about “fixing hallucination,” but nobody is asking the o
 
 Read comment 👇🏻
 
-23m ago
+51m ago
 
 ---
 
@@ -149,7 +149,7 @@ Reuters • 5h ago
 
 **[AI's new reality: Benchmark wins are great, money is better](https://www.axios.com/2025/12/10/ai-race-business-models-balance-sheets)**
 
-Axios • 58m ago
+Axios • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Bloomberg.com • 1h ago
 
 Five months after Meta's $14 billion deal, Scale AI has lost some of its gleam, with workers sniping about pay, and rivals coming for its clientele.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ Business Insider • 1h ago
 
 Autonomous driving is the ultimate challenge for AI in the physical world. At Waymo, we’re solving it by prioritizing demonstrably safe AI, where safety is central to how we engineer our models and AI ecosystem from the ground up. This post offers a detailed look at Waymo’s AI strategy and how it’s fueling our momentum, allowing us to safely bring our service to more riders, faster than ever before.
 
-Waymo • 18h ago
+Waymo • 19h ago
 
 ---
 
@@ -219,7 +219,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 310 • 💬 376 • 19h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 310 • 💬 376 • 20h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -227,7 +227,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 232 • 💬 103 • 17h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 232 • 💬 103 • 18h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -255,7 +255,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 110 • 💬 22 • 14h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+⬆️ 110 • 💬 22 • 15h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -277,7 +277,7 @@ Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/d
 
 📺 Matthew Berman
 
-👁️ 32K • 👍 1K • 💬 138 • ⏱️ 9:41 • 11h ago
+👁️ 32K • 👍 1K • 💬 138 • ⏱️ 9:41 • 12h ago
 
 ---
 
@@ -297,7 +297,7 @@ Zhipu AI just dropped the first real open source AI agent, and the entire indust
 
 📺 AI Revolution
 
-👁️ 17K • 👍 894 • 💬 41 • ⏱️ 12:50 • 10h ago
+👁️ 17K • 👍 894 • 💬 41 • ⏱️ 12:50 • 11h ago
 
 ---
 
@@ -307,7 +307,7 @@ Support us as we expand our challenge to our broken media here: https://www.patr
 
 📺 Owen Jones
 
-👁️ 18K • 👍 2K • 💬 243 • ⏱️ 24:52 • 14h ago
+👁️ 18K • 👍 2K • 💬 243 • ⏱️ 24:52 • 15h ago
 
 ---
 
@@ -347,7 +347,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 68K • 👍 2K • 💬 432 • ⏱️ 1:59:44 • 20h ago
+👁️ 68K • 👍 2K • 💬 432 • ⏱️ 1:59:44 • 21h ago
 
 ---
 
@@ -407,7 +407,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 10,031 • ❤️ 272 • 16h ago
+⬇️ 10,031 • ❤️ 272 • 17h ago
 
 ---
 
@@ -431,7 +431,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 40,667 • ❤️ 851 • 8d ago
+⬇️ 40,667 • ❤️ 851 • 9d ago
 
 ---
 
@@ -443,7 +443,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 181 • 17h ago
+⬇️ 2,414 • ❤️ 181 • 18h ago
 
 ---
 
@@ -655,7 +655,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.5k • 🔱 181 • 1h ago
+⭐ 1.5k • 🔱 181 • 2h ago
 
 ---
 
@@ -675,7 +675,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 129 • 1h ago
+⭐ 1.0k • 🔱 129 • 2h ago
 
 ---
 
@@ -685,7 +685,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 914 • 🔱 65 • 23h ago
+⭐ 914 • 🔱 65 • 1d ago
 
 ---
 

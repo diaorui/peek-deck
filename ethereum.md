@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T10:59:03.342737+00:00'
+updated: '2025-12-10T11:26:44.948917+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 10:59 UTC  
+**Last Updated:** December 10, 2025 at 11:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.7%  
-**7d:** +5.9%  
-**30d:** -2.9%  
+**24h:** +5.7%  
+**7d:** +6.0%  
+**30d:** -2.8%  
 **90d:** -29.4%  
-**1y:** -13.5%  
+**1y:** -13.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -142,7 +142,7 @@ By magnitude, the biggest question for the Defi ecosystem for the next cycle is 
 
 AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ethereum, I’m Amey - Ratings Director at Bluechip. Stablecoins offer a cheaper way to make cross-border transactions and a more reliable way to save in economies with high inflation or unstable financial systems. But how can you tell which stablecoins are truly stable? Our SMIDGE rating framework analyzes six economic factors and assigns letter-grade ratings (from F to A+) to identify the most reliable stablecoins. You can read the full framework on our website here. Essentially, the SMIDGE framework evaluates - Stability - collateral quality, asset segregation, core stability mechanism Management - track record of team, jurisdiction, accountability to token holders Implementation - technical risk (currently not tracked) Decentralization - censorship risk, blacklisting (only for crypto-backed stablecoins) Governance - regulatory protections, redemption terms, voting systems External - market sentiment (currently not tracked) We take a crypto-native, independent, and data-driven approach to stablecoin ratings. Our framework is the first publicly available, factor-based risk model for evaluating stablecoins. Our ratings are publicly available on our website here. Currently, USDT is rated D and USDC is rated B+ by Bluechip. Last month, we partnered with the Ethereum Foundation to host Bluechip25 in Vienna, the first global conference dedicated to crypto safety. Sign up for updates on next year's Bluechip26 on our website here. We also host a podcast called Bluechip Dialogues, where our Chief Economist Garett Jones interviews leading figures in crypto. Watch the latest episode with the creator of Facebook’s stablecoin project Diem (formerly Libra) here. Follow us on Twitter here or LinkedIn here or Telegram channel here. Ask us anything! I'll be around to answer your questions over the following days.
 
-1d ago
+2d ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 5h ago
 
 Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -176,7 +176,7 @@ Binance • 1d ago
 
 Key PointsEthereum has built a strong user base and frequently generates over $10 million in daily app fees.
 
-Nasdaq • 18h ago
+Nasdaq • 19h ago
 
 ---
 
@@ -306,7 +306,7 @@ Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/ch
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 811 • 💬 136 • ⏱️ 11:31 • 5h ago
+👁️ 4K • 👍 811 • 💬 136 • ⏱️ 11:31 • 6h ago
 
 ---
 

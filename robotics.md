@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T10:59:03.345513+00:00'
+updated: '2025-12-10T11:26:44.952150+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 10:59 UTC  
+**Last Updated:** December 10, 2025 at 11:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Just saw this paper published in Nature Communications and thought it was a massive leap for prosthetics The Problem: Conventional bionic hands require the user to "think" significantly about every muscle flex to trigger a grip. It’s mentally exhausting (high cognitive load). The Solution: The team at Utah equipped a prosthetic with Custom Sensors: Pressure and proximity sensors in the fingertips & AI Neural Network: Trained on natural human grasping patterns. Result: The hand "understands" what it's touching. If the user initiates a grasp, the AI takes over the fine motor control to secure the object (like a delicate egg or a heavy cup) without the user needing to micro manage the pressure. It basically creates a "reflex" system for the robotic hand, similar to how our biological spinal cord handles basic reflexes without bothering the brain. Source: Interesting Engineering/Nature Communications 🔗: https://interestingengineering.com/ai-robotics/ai-bionic-hand-grips-like-human
 
-2h ago
+3h ago
 
 ---
 
@@ -58,7 +58,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
 
-22m ago
+50m ago
 
 ---
 
@@ -74,7 +74,7 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 I m trying to make a cobot digital twin in vr using Unity engine to create vr application. I m using esp32 to collect and control the kinematics of the robot. I will be using mqtt to transmit the data. I m not sure how to do the unity VR part. Please provide me some information on how to retrieve the mqtt data and use it to digital twin the cobot in VR unity application. It would be really helpful for me if you provide me with some knowledge about unity VR applications
 
-3h ago
+4h ago
 
 ---
 
@@ -90,7 +90,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 I’ve built a modular VLA prototype (physics-grounded LLM planning + explicit scene graph reasoning). The system can preemptively respond to predicted physical events (like a cup falling), and works well in simulation. My current hardware is limited, so I’m exploring what real robot platforms people usually use for research along these lines. Franka, UR, or others? If you’re working on similar ideas, feel free to share your experience — I’m trying to understand what setups are common, and what challenges to expect. Happy to show a short demo as well.
 
-4h ago
+5h ago
 
 ---
 
@@ -140,7 +140,7 @@ Yahoo Finance • 1d ago
 
 AgiBot announced on Monday that it has produced its 5,000th robot, marking one of the fastest scale-ups in China’s humanoid robotics industry.
 
-Interesting Engineering • 20h ago
+Interesting Engineering • 21h ago
 
 ---
 

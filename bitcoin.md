@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T10:59:03.337463+00:00'
+updated: '2025-12-10T11:26:44.942960+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 10:59 UTC  
+**Last Updated:** December 10, 2025 at 11:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,8 +44,8 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
-**7d:** +0.4%  
+**24h:** +1.9%  
+**7d:** +0.3%  
 **30d:** -10.4%  
 **90d:** -20.4%  
 **1y:** -8.5%  
@@ -81,19 +81,19 @@ Rank #1
 
 The Mods don't want you to see bullish memes. Vote against the bears.
 
-4h ago
+5h ago
 
 ---
 
 **[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Idk how you guys didn't see through this](https://www.reddit.com/r/Bitcoin/comments/1piox5t/idk_how_you_guys_didnt_see_through_this/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -109,7 +109,7 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 Sooner or later it will bounce to new highs, or not
 
-4h ago
+5h ago
 
 ---
 
@@ -127,7 +127,7 @@ Sooner or later it will bounce to new highs, or not
 
 **[.](https://www.reddit.com/r/Bitcoin/comments/1pix5b9/_/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -135,7 +135,7 @@ Sooner or later it will bounce to new highs, or not
 
 I saw notifications of $94,000 BTC on my phone on waking up. Too bad it was already gone.
 
-6h ago
+7h ago
 
 ---
 
@@ -151,13 +151,13 @@ I saw notifications of $94,000 BTC on my phone on waking up. Too bad it was alre
 
 **[Bitcoin Price Jumps As Tether-Backed Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 11h ago
+Investor's Business Daily • 12h ago
 
 ---
 
 **[Bitcoin treasury XXI shares sink 20% in NYSE debut despite rising BTC price](https://www.theblock.co/post/381975/twenty-one-shares-sink-20-nyse-debut-despite-rising-bitcoin-price)**
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -181,7 +181,7 @@ WIRED • 1d ago
 
 Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
 
-Business Insider • 44m ago
+Business Insider • 1h ago
 
 ---
 
@@ -219,7 +219,7 @@ CNBC • 16h ago
 
 Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -269,7 +269,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 17h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 18h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -305,7 +305,7 @@ Anthony and John Pompliano dig into what's really at stake at the upcoming Feder
 
 📺 Anthony Pompliano
 
-👁️ 20K • 👍 766 • 💬 15 • ⏱️ 35:48 • 12h ago
+👁️ 20K • 👍 766 • 💬 15 • ⏱️ 35:48 • 13h ago
 
 ---
 
@@ -355,7 +355,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 33K • 👍 2K • 💬 187 • ⏱️ 44:49 • 19h ago
+👁️ 33K • 👍 2K • 💬 187 • ⏱️ 44:49 • 20h ago
 
 ---
 
