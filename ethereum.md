@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T08:39:35.378664+00:00'
+updated: '2025-12-10T08:59:04.354361+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- news
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 08:39 UTC  
+**Last Updated:** December 10, 2025 at 08:59 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -170,7 +170,7 @@ Nasdaq • 16h ago
 
 XRP becomes the fastest U.S. crypto spot ETF to hit $1B AUM in under four weeks, highlighting soaring demand for regulated digital assets.
 
-Coinpaper • 18h ago
+Coinpaper • 19h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Motley Fool • 1d ago
 
 Bitcoin and Ethereum surged ahead of the US Fed policy outcome, with Bitcoin nearing $92,000 and Ethereum jumping nearly 7%. Major altcoins also saw significant gains, contributing to a rise in global crypto market capitalization. Analysts anticipate a liquidity-driven rally if the Fed signals a dovish stance.
 
-The Economic Times • 1h ago
+The Economic Times • 2h ago
 
 ---
 
@@ -288,7 +288,7 @@ Ethereum has critics calling it “overvalued”… but what if everyone is look
 
 📺 Milk Road
 
-👁️ 3K • 👍 124 • 💬 75 • ⏱️ 35:26 • 12h ago
+👁️ 3K • 👍 124 • 💬 75 • ⏱️ 35:26 • 13h ago
 
 ---
 
@@ -298,7 +298,7 @@ Breaking News: BitMine Immersion Technologies (BMNR) has officially crossed the 
 
 📺 CryptoStock Lab
 
-👁️ 437 • 👍 26 • ⏱️ 7:09 • 13h ago
+👁️ 437 • 👍 26 • ⏱️ 7:09 • 14h ago
 
 ---
 
@@ -308,7 +308,7 @@ Breaking News: BitMine Immersion Technologies (BMNR) has officially crossed the 
 
 📺 Stock Moe
 
-👁️ 10K • 👍 690 • 💬 77 • ⏱️ 13:03 • 11h ago
+👁️ 10K • 👍 690 • 💬 77 • ⏱️ 13:03 • 12h ago
 
 ---
 

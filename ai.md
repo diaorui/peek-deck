@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T08:39:35.364344+00:00'
+updated: '2025-12-10T08:59:04.341543+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 08:39 UTC  
+**Last Updated:** December 10, 2025 at 08:59 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'
 
-🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 7h ago
+🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 8h ago
 
 ---
 
@@ -65,7 +65,7 @@ Im not sure if this was discussed before. But LLMs can understand Base64 encoded
 
 Exclusive: Instacart’s AI pricing may be inflating your grocery bill.
 
-🔗 [Consumer Reports](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) • 4h ago
+🔗 [Consumer Reports](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) • 5h ago
 
 ---
 
@@ -73,7 +73,7 @@ Exclusive: Instacart’s AI pricing may be inflating your grocery bill.
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 13h ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 14h ago
 
 ---
 
@@ -103,7 +103,7 @@ People keep talking about “fixing hallucination,” but nobody is asking the o
 
 U.S. military to use Google Gemini for new AI platform.[1] EU opens investigation into Google’s use of online content for AI models.[2] Microsoft invests US$17.5 billion in India to drive AI diffusion at population scale.[3] Three in 10 US teens use AI chatbots every day, but safety concerns are growing.[4] Sources: [1] https://www.axios.com/2025/12/09/pentagon-google-gemini-genai-military-platform [2] https://www.theguardian.com/technology/2025/dec/09/eu-investigation-google-ai-models-gemini [3] https://news.microsoft.com/source/asia/2025/12/09/microsoft-invests-us17-5-billion-in-india-to-drive-ai-diffusion-at-population-scale/ [4] https://techcrunch.com/2025/12/09/three-in-ten-u-s-teens-use-ai-chatbots-every-day-but-safety-concerns-are-growing/
 
-2h ago
+3h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 20h ago
 
 India, which is an emerging AI and cloud infrastructure hub, has witnessed a surge of global tech investment recently.
 
-BBC • 49m ago
+BBC • 1h ago
 
 ---
 
@@ -145,13 +145,13 @@ BBC • 49m ago
 
 Amazon has committed to investing $$35 billion in India’s cloud and AI space by 2030, as hyperscalers race to get a foothold in the market.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
 **[Watch Microsoft CEO on AI Skills for the Future](https://www.bloomberg.com/news/videos/2025-12-10/microsoft-ceo-on-ai-skills-for-the-future-video)**
 
-Bloomberg.com • 47m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg.com • 47m ago
 
 If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
 
-NPR • 34m ago
+NPR • 54m ago
 
 ---
 
@@ -167,7 +167,7 @@ NPR • 34m ago
 
 South Korea will require advertisers to label their ads made with artificial intelligence technologies from next year as it seeks to curb a surge of deceptive promotions featuring fabricated experts or deep-faked celebrities endorsing food or pharmaceutical products on social media.
 
-AP News • 1h ago
+AP News • 2h ago
 
 ---
 
@@ -245,7 +245,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 131 • 💬 148 • 5h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 131 • 💬 148 • 6h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -655,7 +655,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.5k • 🔱 172 • 1h ago
+⭐ 1.5k • 🔱 172 • 2h ago
 
 ---
 
@@ -725,7 +725,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 571 • 🔱 45 • 6d ago
+⭐ 571 • 🔱 45 • 7d ago
 
 ---
 
