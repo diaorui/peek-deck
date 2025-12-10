@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T16:56:15.927287+00:00'
+updated: '2025-12-10T17:26:47.594105+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- news
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 16:56 UTC  
+**Last Updated:** December 10, 2025 at 17:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,21 @@ AI news, discussions, and developments
 
 This year, McDonald’s decided to get in on the corporate slopfest with a 45-second Christmas spot cooked up for its Netherlands division by the ad agency TBWA\Neboko. The entire thing is AI, and revolves around the thesis that the holiday season is the “most terrible time of the year.” After huge backlash, ad has been taken down from YT, agency made statement owning there failure. https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial This reminds me: "The ability to speak doesn't make you intelligent!" - Qui Gon Jinn Technology, including AI is a tool, an enabler to magnify human genius or stupidity! PS: removed the earlier post with quote name error, couldn't edit in time.
 
-3h ago
+4h ago
 
 ---
 
 **[AI companies basically:](https://www.reddit.com/r/artificial/comments/1pj41sq/ai_companies_basically/)**
 
 2h ago
+
+---
+
+**[OpenAI Is in Trouble](https://www.reddit.com/r/artificial/comments/1pj66p2/openai_is_in_trouble/)**
+
+The start-up is falling behind in the AI race.
+
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 1h ago
 
 ---
 
@@ -63,7 +71,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 Im not sure if this was discussed before. But LLMs can understand Base64 encoded prompts and they injest it like normal prompts. This means non human readable text prompts understood by the AI model. Tested with Gemini, ChatGPT and Grok.
 
-15h ago
+16h ago
 
 ---
 
@@ -83,20 +91,6 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 ---
 
-**[OpenAI Is in Trouble](https://www.reddit.com/r/artificial/comments/1pj66p2/openai_is_in_trouble/)**
-
-The start-up is falling behind in the AI race.
-
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 59m ago
-
----
-
-**[AI didn't replace me but it replaced my need for developers](https://www.reddit.com/r/artificial/comments/1pj5z5d/ai_didnt_replace_me_but_it_replaced_my_need_for/)**
-
-🔗 [ecency.com](https://ecency.com/@fullcoverbetting/ai-didnt-replace-me-but-it-replaced-my-need-for-developers-4g4) • 1h ago
-
----
-
 **[If Your AI Outputs Still Suck, Try These Fixes](https://www.reddit.com/r/artificial/comments/1pj5tsb/if_your_ai_outputs_still_suck_try_these_fixes/)**
 
 I’ve spent the last year really putting AI to work, writing content, handling client projects, digging into research, automating stuff, and even building my own custom GPTs. After hundreds of hours messing around, I picked up a few lessons I wish someone had just told me from the start. No hype here, just honest things that actually made my results better: 1. Stop asking AI “What should I do?”, ask “What options do I have?” AI’s not great at picking the perfect answer right away. But it shines when you use it to brainstorm possibilities. So, instead of: “What’s the best way to improve my landing page?” Say: “Give me 5 different ways to improve my landing page, each based on a different principle (UX, clarity, psychology, trust, layout). Rank them by impact.” You’ll get way better results. 2. Don’t skip the “requirements stage.” Most of the time, AI fails because people jump straight to the end. Slow down. Ask the model to question you first. Try this: “Before creating anything, ask me 5 clarification questions to make sure you get it right.” Just this step alone cuts out most of the junky outputs, way more than any fancy prompt trick. 3. Tell AI it’s okay to be wrong at first. AI actually does better when you take the pressure off early on. Say something like: “Give me a rough draft first. I’ll go over it with you.” That rough draft, then refining together, then finishing up, that’s how the actually get good outputs. 4. If things feel off, don’t bother fixing, just restart the thread. People waste so much time trying to patch up a weird conversation. If the model starts drifting in tone, logic, or style, the fastest fix is just to start fresh: “New conversation: You are [role]. Your goal is [objective]. Start from scratch.” AI memory in a thread gets messy fast. A reset clears up almost all the weirdness. 5. Always run 2 outputs and then merge them. One output? Total crapshoot. Two outputs? Much more consistent. Tell the AI: “Give me 2 versions with different angles. I’ll pick the best parts.” Then follow up with: “Merge both into one polished version.” You get way better quality with hardly any extra effort. 6. Stop using one giant prompt, start building mini workflows. Beginners try to do everything in one big prompt. The experts break it into 3–5 bite-size steps. Here’s a simple structure: - Ask questions - Generate options - Pick a direction - Draft it - Polish Just switching to this approach will make everything you do with AI better. If you want more tips, just let me know and i'll send you a document with more of them.
@@ -109,7 +103,13 @@ I’ve spent the last year really putting AI to work, writing content, handling 
 
 Exclusive: Instacart’s AI pricing may be inflating your grocery bill.
 
-🔗 [Consumer Reports](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) • 12h ago
+🔗 [Consumer Reports](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) • 13h ago
+
+---
+
+**[DeepSeek is Using Banned Nvidia Chips in Race to Build Next Model](https://www.reddit.com/r/artificial/comments/1pj7vff/deepseek_is_using_banned_nvidia_chips_in_race_to/)**
+
+🔗 [theinformation.com](https://www.theinformation.com/articles/deepseek-using-banned-nvidia-chips-race-build-next-model) • 26m ago
 
 ---
 
@@ -119,7 +119,23 @@ Exclusive: Instacart’s AI pricing may be inflating your grocery bill.
 
 **[Meta’s New A.I. Superstars Are Chafing Against the Rest of the Company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)**
 
-The New York Times • 6h ago
+The New York Times • 2h ago
+
+---
+
+**[Inside Meta’s Pivot From Open Source to Money-Making AI Model](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model)**
+
+Meta Platforms Inc.’s Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting the company’s focus to an artificial intelligence model it can make money off of.
+
+Bloomberg.com • 3h ago
+
+---
+
+**[Inside the Fallout From Mark Zuckerberg's Chaotic $14 Billion AI Deal](https://www.businessinsider.com/pay-cuts-poaching-pivoting-inside-scale-ai-meta-2025-12)**
+
+Five months after Meta's $14 billion deal, Scale AI has lost some of its gleam, with workers sniping about pay, and rivals coming for its clientele.
+
+Business Insider • 8h ago
 
 ---
 
@@ -127,7 +143,7 @@ The New York Times • 6h ago
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -135,7 +151,7 @@ BBC • 4h ago
 
 Viewers blasted McDonald's satirical commercial as offensive, with critics questioning why anyone would 'ditch your family and hide in McDonald's.'
 
-Los Angeles Times • 12h ago
+Los Angeles Times • 13h ago
 
 ---
 
@@ -143,55 +159,39 @@ Los Angeles Times • 12h ago
 
 McDonald's Netherlands is catching flak for a stupefying AI-generated video, which was roundly condemned on social media.
 
-Futurism • 22h ago
+Futurism • 23h ago
 
 ---
 
-**[China’s DeepSeek Uses Banned Nvidia Chips for AI Model, Report Says](https://www.bloomberg.com/news/articles/2025-12-10/china-s-deepseek-uses-banned-nvidia-chips-for-ai-model-the-information-says)**
+**[Google is testing AI-powered article overviews on select publications’ Google News pages](https://techcrunch.com/2025/12/10/google-is-testing-ai-powered-article-overviews-on-select-publications-google-news-pages/)**
 
-Chinese artificial intelligence startup DeepSeek has relied on Nvidia Corp. chips that are banned in the country to develop an upcoming AI model, according to a new report in The Information.
+Google is testing AI-powered article overviews on participating publications’ Google News pages as part of a new pilot program, the search giant announced
 
-Bloomberg.com • 2h ago
-
----
-
-**[China adds domestic AI chips to official procurement list for first time](https://www.ft.com/content/83c6521e-fe42-49e2-a9fe-eda97168b316)**
-
-Beijing encouraged purchase of Huawei and Cambricon processors before Trump’s move to allow Nvidia exports
-
-Financial Times • 15h ago
+TechCrunch • 26m ago
 
 ---
 
-**[‘Greetings, earthlings’: Nvidia-backed Starcloud trains first AI model in space as orbital data center race heats up](https://www.cnbc.com/2025/12/10/nvidia-backed-starcloud-trains-first-ai-model-in-space-orbital-data-centers.html)**
+**[Young people are ‘growing up fluent in AI’ and it's helping them stand apart from older peers](https://fortune.com/2025/12/10/gen-z-growing-up-fluent-ai-helping-stand-apart-from-older-peers/)**
 
-The company's Starcloud-1 satellite is running Gemma, an open model from Google, marking the first time in history that an LLM has been trained in outer space.
+Nirghin explained that young entrepreneurs see coding as something to be done alongside AI agents, rather than done alone and from scratch.
 
-CNBC • 2h ago
-
----
-
-**[OpenAI Is in Trouble](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/)**
-
-The start-up is falling behind in the AI race.
-
-The Atlantic • 18h ago
+Fortune • 15m ago
 
 ---
 
-**[How Trump’s AI push, energy prices and angry neighbors are colliding in the Arizona desert](https://www.cnn.com/2025/12/10/politics/data-center-arizona-kyrsten-sinema-trump)**
+**[Google says it will link to more sources in AI Mode](https://www.theverge.com/news/841603/google-ai-mode-source-links-web-guide)**
 
-The city of Chandler has spent years wrestling with the question of whether to build more data centers, just as communities around the country debate the economic and environmental tradeoffs of these hulking, resource-intensive warehouses.
+Google will let more people personalize news sources, too.
 
-CNN • 5h ago
+The Verge • 26m ago
 
 ---
 
-**[From Llamas to Avocados: Meta's shifting AI strategy is causing internal confusion](https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html)**
+**[China’s DeepSeek Uses Banned Nvidia Chips for AI Model, Report Says](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)**
 
-Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
+Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-CNBC • 1d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ CNBC • 1d ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 564 • 💬 582 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 565 • 💬 583 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -219,7 +219,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 331 • 💬 401 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 336 • 💬 404 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -227,13 +227,13 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 273 • 💬 123 • 23h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 274 • 💬 125 • 1d ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 190 • 💬 175 • 1d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 191 • 💬 175 • 1d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -241,13 +241,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 151 • 💬 181 • 13h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
-
----
-
-**[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
-
-⬆️ 120 • 💬 206 • 3d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 152 • 💬 185 • 14h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -255,7 +249,15 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 116 • 💬 24 • 20h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+⬆️ 116 • 💬 24 • 21h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+
+---
+
+**[McDonald's pulls AI Christmas ad after backlash](https://news.ycombinator.com/item?id=46217176)**
+
+McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
+
+⬆️ 65 • 💬 86 • 4h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -271,7 +273,7 @@ Your kid is cheating with AI. And that's great. Here’s why we should let it bu
 
 It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
 
-⬆️ 57 • 💬 116 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
+⬆️ 57 • 💬 117 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
 
 ---
 
@@ -285,7 +287,7 @@ Zhipu AI just dropped the first real open source AI agent, and the entire indust
 
 📺 AI Revolution
 
-👁️ 25K • 👍 1K • 💬 48 • ⏱️ 12:50 • 16h ago
+👁️ 25K • 👍 1K • 💬 48 • ⏱️ 12:50 • 17h ago
 
 ---
 
@@ -295,7 +297,7 @@ In this episode, I sit down with @elonmusk for a wide-ranging conversation on DO
 
 📺 Katie Miller Pod
 
-👁️ 139K • 👍 7K • 💬 2K • ⏱️ 52:58 • 17h ago
+👁️ 139K • 👍 7K • 💬 2K • ⏱️ 52:58 • 18h ago
 
 ---
 
@@ -315,7 +317,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 824K • 👍 42K • 💬 5K • ⏱️ 8:35 • 20h ago
+👁️ 824K • 👍 42K • 💬 5K • ⏱️ 8:35 • 21h ago
 
 ---
 
@@ -345,7 +347,7 @@ Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/d
 
 📺 Matthew Berman
 
-👁️ 44K • 👍 1K • 💬 171 • ⏱️ 9:41 • 17h ago
+👁️ 44K • 👍 1K • 💬 171 • ⏱️ 9:41 • 18h ago
 
 ---
 
@@ -389,7 +391,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 67,717 • ❤️ 640 • 1d ago
+⬇️ 67,717 • ❤️ 643 • 1d ago
 
 ---
 
@@ -413,7 +415,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 10,031 • ❤️ 286 • 22h ago
+⬇️ 10,031 • ❤️ 287 • 23h ago
 
 ---
 
@@ -425,7 +427,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 1,305 • ❤️ 236 • 1d ago
+⬇️ 1,305 • ❤️ 237 • 1d ago
 
 ---
 
@@ -449,7 +451,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 204 • 23h ago
+⬇️ 2,414 • ❤️ 204 • 49m ago
 
 ---
 
@@ -651,7 +653,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 5.0k • 🔱 834 • 44m ago
+⭐ 5.0k • 🔱 834 • 1h ago
 
 ---
 
@@ -691,7 +693,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 129 • 7h ago
+⭐ 1.0k • 🔱 129 • 8h ago
 
 ---
 
