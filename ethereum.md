@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T22:27:43.503351+00:00'
+updated: '2025-12-10T22:46:34.451915+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 22:27 UTC  
+**Last Updated:** December 10, 2025 at 22:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** +6.4%  
-**30d:** -2.3%  
-**90d:** -28.7%  
-**1y:** -12.6%  
+**24h:** +0.7%  
+**7d:** +6.8%  
+**30d:** -2.0%  
+**90d:** -28.8%  
+**1y:** -12.7%  
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-23h ago
+1d ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BitMine Immersion Technologies Chairman Tom Lee said Ethereum has bottomed—and his firm is aggressively buying as a result.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -204,7 +204,7 @@ Fortune • 2d ago
 
 Despite the breakout, DOGE faces significant structural resistance from major EMAs.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -240,7 +240,7 @@ In this exclusive interview with Ethereum Bull Tom Lee, we chat all things ETH, 
 
 📺 FAROKH RADIO
 
-👁️ 2K • 👍 165 • 💬 18 • ⏱️ 1:10:46 • 5h ago
+👁️ 2K • 👍 165 • 💬 18 • ⏱️ 1:10:46 • 6h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 223 • 💬 8 • ⏱️ 6:52 • 5h ago
+👁️ 3K • 👍 223 • 💬 8 • ⏱️ 6:52 • 6h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 227 • 💬 8 • ⏱️ 5:16 • 19h ago
+👁️ 4K • 👍 227 • 💬 8 • ⏱️ 5:16 • 20h ago
 
 ---
 
@@ -290,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 720 • 👍 33 • 💬 1 • ⏱️ 4:47 • 12h ago
+👁️ 720 • 👍 33 • 💬 1 • ⏱️ 4:47 • 13h ago
 
 ---
 
@@ -300,7 +300,7 @@ Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=a
 
 📺 Altcoin Daily
 
-👁️ 67K • 👍 4K • 💬 327 • ⏱️ 12:03 • 22h ago
+👁️ 67K • 👍 4K • 💬 327 • ⏱️ 12:03 • 23h ago
 
 ---
 
@@ -330,7 +330,7 @@ I think people in the future will look back at this time in the cryptocurrency m
 
 📺 The Modern Investor
 
-👁️ 7K • 👍 900 • 💬 79 • ⏱️ 19:13 • 12h ago
+👁️ 7K • 👍 900 • 💬 79 • ⏱️ 19:13 • 13h ago
 
 ---
 

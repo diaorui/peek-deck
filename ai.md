@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T22:27:43.488963+00:00'
+updated: '2025-12-10T22:46:34.437338+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
-- videos
 - social
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 22:27 UTC  
+**Last Updated:** December 10, 2025 at 22:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[AI companies basically:](https://www.reddit.com/r/artificial/comments/1pj41sq/ai_companies_basically/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -77,7 +77,7 @@ Im not sure if this was discussed before. But LLMs can understand Base64 encoded
 
 Reprogrammable humanoid robots could level the global manufacturing playing field, Arm CEO Rene Haas said at Fortune Brainstorm AI.
 
-🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 12h ago
+🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 13h ago
 
 ---
 
@@ -91,7 +91,7 @@ Reprogrammable humanoid robots could level the global manufacturing playing fiel
 
 I’ve spent the last year really putting AI to work, writing content, handling client projects, digging into research, automating stuff, and even building my own custom GPTs. After hundreds of hours messing around, I picked up a few lessons I wish someone had just told me from the start. No hype here, just honest things that actually made my results better: 1. Stop asking AI “What should I do?”, ask “What options do I have?” AI’s not great at picking the perfect answer right away. But it shines when you use it to brainstorm possibilities. So, instead of: “What’s the best way to improve my landing page?” Say: “Give me 5 different ways to improve my landing page, each based on a different principle (UX, clarity, psychology, trust, layout). Rank them by impact.” You’ll get way better results. 2. Don’t skip the “requirements stage.” Most of the time, AI fails because people jump straight to the end. Slow down. Ask the model to question you first. Try this: “Before creating anything, ask me 5 clarification questions to make sure you get it right.” Just this step alone cuts out most of the junky outputs, way more than any fancy prompt trick. 3. Tell AI it’s okay to be wrong at first. AI actually does better when you take the pressure off early on. Say something like: “Give me a rough draft first. I’ll go over it with you.” That rough draft, then refining together, then finishing up, that’s how the actually get good outputs. 4. If things feel off, don’t bother fixing, just restart the thread. People waste so much time trying to patch up a weird conversation. If the model starts drifting in tone, logic, or style, the fastest fix is just to start fresh: “New conversation: You are [role]. Your goal is [objective]. Start from scratch.” AI memory in a thread gets messy fast. A reset clears up almost all the weirdness. 5. Always run 2 outputs and then merge them. One output? Total crapshoot. Two outputs? Much more consistent. Tell the AI: “Give me 2 versions with different angles. I’ll pick the best parts.” Then follow up with: “Merge both into one polished version.” You get way better quality with hardly any extra effort. 6. Stop using one giant prompt, start building mini workflows. Beginners try to do everything in one big prompt. The experts break it into 3–5 bite-size steps. Here’s a simple structure: - Ask questions - Generate options - Pick a direction - Draft it - Polish Just switching to this approach will make everything you do with AI better. If you want more tips, just let me know and i'll send you a document with more of them.
 
-6h ago
+7h ago
 
 ---
 
@@ -99,7 +99,7 @@ I’ve spent the last year really putting AI to work, writing content, handling 
 
 If you are reading this, you probably have strong opinions about AGI, superintelligence, and the future of AI. Maybe you believe we are on the cusp of a transformative breakthrough. Maybe you are skeptical. This blog post is for those who want to think more carefully about these claims and examine them from a perspective […]
 
-🔗 [Tim Dettmers](https://timdettmers.com/2025/12/10/why-agi-will-not-happen/) • 3m ago
+🔗 [Tim Dettmers](https://timdettmers.com/2025/12/10/why-agi-will-not-happen/) • 21m ago
 
 ---
 
@@ -107,7 +107,7 @@ If you are reading this, you probably have strong opinions about AGI, superintel
 
 A lot of people use the term “AI hallucination,” but many don’t clearly understand what it actually means. In simple terms, AI hallucination is when a model produces information that sounds confident and well-structured, but is actually incorrect, fabricated, or impossible to verify. This includes things like made-up academic papers, fake book references, invented historical facts, or technical explanations that look right on the surface but fall apart under real checking. The real danger is not that it gets things wrong — it’s that it often gets them wrong in a way that sounds extremely convincing. Most people assume hallucination is just a bug that engineers haven’t fully fixed yet. In reality, it’s a natural side effect of how large language models work at a fundamental level. These systems don’t decide what is true. They predict what is most statistically likely to come next in a sequence of words. When the underlying information is missing, weak, or ambiguous, the model doesn’t stop — it completes the pattern anyway. That’s why hallucination often appears when context is vague, when questions demand certainty, or when the model is pushed to answer things beyond what its training data can reliably support. Interestingly, hallucination feels “human-like” for a reason. Humans also guess when they’re unsure, fill memory gaps with reconstructed stories, and sometimes speak confidently even when they’re wrong. In that sense, hallucination is not machine madness — it’s a very human-shaped failure mode expressed through probabilistic language generation. The model is doing exactly what it was trained to do: keep the sentence going in the most plausible way. There is no single trick that completely eliminates hallucination today, but there are practical ways to reduce it. Strong, precise context helps a lot. Explicitly allowing the model to express uncertainty also helps, because hallucination often worsens when the prompt demands absolute certainty. Forcing source grounding — asking the model to rely only on verifiable public information and to say when that’s not possible — reduces confident fabrication. Breaking complex questions into smaller steps is another underrated method, since hallucination tends to grow when everything is pushed into a single long, one-shot answer. And when accuracy really matters, cross-checking across different models or re-asking the same question in different forms often exposes structural inconsistencies that signal hallucination. The hard truth is that hallucination can be reduced, but it cannot be fully eliminated with today’s probabilistic generation models. It’s not just an accidental mistake — it’s a structural byproduct of how these systems generate language. No matter how good alignment and safety layers become, there will always be edge cases where the model fills a gap instead of stopping. This quietly creates a responsibility shift that many people underestimate. In the traditional world, humans handled judgment and machines handled execution. In the AI era, machines handle generation, but humans still have to handle judgment. If people fully outsource judgment to AI, hallucination feels like deception. If people keep judgment in the loop, hallucination becomes manageable noise instead of a catastrophic failure. If you’ve personally run into a strange or dangerous hallucination, I’d be curious to hear what it was — and whether you realized it immediately, or only after checking later.
 
-5m ago
+24m ago
 
 ---
 
@@ -163,7 +163,7 @@ Futurism • 1d ago
 
 **[Oracle’s mixed earnings fail to dispel AI fears, and the stock falls](https://www.marketwatch.com/story/oracles-mixed-earnings-fail-to-dispel-ai-fears-and-the-stock-falls-5533a383?gaa_at=eafs&gaa_n=AWEtsqfeEHLoG6q43YhfWtvYE_YXjqrgjAKw1adjFVF0zEovl7Q6apZLd-KU&gaa_ts=6939f742&gaa_sig=h8r64qoELKhA4z5WMtbqzoWfoDboXj3deEbzvmLhovtDp49XcM8VVpjLmdmBEfHAFWf0u3xcyeN_UpjkOGYuMw%3D%3D)**
 
-MarketWatch • 54m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -179,7 +179,7 @@ https-//www.semafor.com • 1h ago
 
 Create your next playlist with a chatbot
 
-The Verge • 15m ago
+The Verge • 34m ago
 
 ---
 
@@ -187,7 +187,7 @@ The Verge • 15m ago
 
 The U.S. has blocked the export of Nvidia's Blackwell chips to China in an effort to stay ahead in the AI race.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -231,7 +231,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 265 • 💬 232 • 5h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 265 • 💬 232 • 6h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -269,7 +269,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
 
-⬆️ 67 • 💬 89 • 20h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 67 • 💬 89 • 21h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
 
 ---
 
@@ -283,7 +283,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 18K • 👍 1K • 💬 198 • ⏱️ 14:55 • 4h ago
+👁️ 18K • 👍 1K • 💬 198 • ⏱️ 14:55 • 5h ago
 
 ---
 
@@ -373,7 +373,7 @@ Breakdown is a part of Zero1 Network - https://zero1byzerodha.com/network Report
 
 📺 Breakdown
 
-👁️ 18K • 👍 1K • 💬 104 • ⏱️ 36:56 • 11h ago
+👁️ 18K • 👍 1K • 💬 104 • ⏱️ 36:56 • 12h ago
 
 ---
 
@@ -449,7 +449,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 218 • 5h ago
+⬇️ 2,414 • ❤️ 218 • 6h ago
 
 ---
 
@@ -587,34 +587,6 @@ PaperDebugger is an in-editor academic writing assistant that integrates large l
 
 ---
 
-**[TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows](https://huggingface.co/papers/2512.05150)**
-
-*Zhenglin Cheng, Peng Sun, Jianguo Li et al. (4 authors)*
-
-🏢 inclusionAI
-
-TwinFlow is a 1-step generative model framework that enhances inference efficiency without requiring fixed pretrained teacher models or standard adversarial networks, achieving high performance on text-to-image tasks and scaling efficiently.
-
-▲ 60 • 💬 8 • ⭐ 88 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.05150) • [💻 code](https://github.com/inclusionAI/TwinFlow) • [🔗 project](https://zhenglin-cheng.com/twinflow)
-
----
-
-**[LongCat-Image Technical Report](https://huggingface.co/papers/2512.07584)**
-
-*Meituan LongCat Team, Hanghang Ma, Haoxian Tan et al. (13 authors)*
-
-🏢 LongCat
-
-LongCat-Image is a bilingual open-source foundation model for image generation that addresses multilingual text rendering, photorealism, and deployment efficiency through rigorous data curation, compact design, and comprehensive open-source support.
-
-▲ 15 • 💬 2 • ⭐ 346 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.07584) • [💻 code](https://github.com/meituan-longcat/LongCat-Image) • [🔗 project](https://longcat.chat/)
-
----
-
 **[DeepCode: Open Agentic Coding](https://huggingface.co/papers/2512.07921)**
 
 *Zongwei Li, Zhonghang Li, Zirui Guo et al. (5 authors)*
@@ -639,6 +611,34 @@ LightRAG improves Retrieval-Augmented Generation by integrating graph structures
 
 ---
 
+**[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
+
+*Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
+
+🏢 AI at Meta
+
+Segment Anything Model 3 achieves state-of-the-art performance in promptable concept segmentation and tracking by leveraging a unified model architecture with decoupled recognition and localization.
+
+▲ 109 • 💬 4 • ⭐ 5,593 • 20d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.16719) • [💻 code](https://github.com/facebookresearch/sam3) • [🔗 project](https://ai.meta.com/sam3/)
+
+---
+
+**[TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows](https://huggingface.co/papers/2512.05150)**
+
+*Zhenglin Cheng, Peng Sun, Jianguo Li et al. (4 authors)*
+
+🏢 inclusionAI
+
+TwinFlow is a 1-step generative model framework that enhances inference efficiency without requiring fixed pretrained teacher models or standard adversarial networks, achieving high performance on text-to-image tasks and scaling efficiently.
+
+▲ 60 • 💬 8 • ⭐ 92 • 7d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.05150) • [💻 code](https://github.com/inclusionAI/TwinFlow) • [🔗 project](https://zhenglin-cheng.com/twinflow)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -649,7 +649,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 5.2k • 🔱 851 • 4h ago
+⭐ 5.2k • 🔱 857 • 4h ago
 
 ---
 
@@ -689,7 +689,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 129 • 13h ago
+⭐ 1.0k • 🔱 131 • 13h ago
 
 ---
 
@@ -709,7 +709,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 869 • 🔱 275 • 4d ago
+⭐ 870 • 🔱 275 • 4d ago
 
 ---
 
@@ -719,7 +719,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 869 • 🔱 22 • 3d ago
+⭐ 870 • 🔱 22 • 3d ago
 
 ---
 
@@ -739,7 +739,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 581 • 🔱 45 • 7d ago
+⭐ 582 • 🔱 45 • 7d ago
 
 ---
 

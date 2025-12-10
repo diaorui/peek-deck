@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T22:27:43.506617+00:00'
+updated: '2025-12-10T22:46:34.455207+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 22:27 UTC  
+**Last Updated:** December 10, 2025 at 22:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
 
-11h ago
+12h ago
 
 ---
 
@@ -82,7 +82,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 Ok so basically I am a student currently studying in college (Not I live in the uk) and ngl since I was a kid I was a mega fan of robots and watched a lot of shows related to that. I have also bought some robotic kits for me to practice. However I have a major concern and it's the fact that is there a high chance for me to find work im the future? I know it is still a little but too soon for this since im not even at university However I have realised that not a lot of people (at least that I know) are into it and everytime someone ask me what I am going to do in the future, when I say I want to be a robotic engineer they mostly look at me like I am speaking in a different language so I just want to know if the job market for it is really bad or if there is still some type of hope for it.
 
-2h ago
+3h ago
 
 ---
 

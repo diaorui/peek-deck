@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T22:27:43.497273+00:00'
+updated: '2025-12-10T22:46:34.445808+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- cryptocurrency
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 22:27 UTC  
+**Last Updated:** December 10, 2025 at 22:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,660.25
+### $92,232.82
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** +0.4%  
-**30d:** -10.3%  
-**90d:** -20.4%  
-**1y:** -8.4%  
+**24h:** -0.4%  
+**7d:** +0.6%  
+**30d:** -10.2%  
+**90d:** -20.3%  
+**1y:** -8.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -95,13 +95,13 @@ Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young
 
 Bottom tex
 
-7h ago
+8h ago
 
 ---
 
 **[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -109,7 +109,7 @@ Bottom tex
 
 Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exchange in Malaysia). We dont know what happened and how it happend. 2FA was in place so we really have no clue how the bitcoin moved. Please see photos attached for txid. Would appreciate your insight on what happened and how it happened so it doesn't happen again. Yes we know not your keys not your coin.... Lesson learnt the hard way... Many thanks for your help!
 
-11h ago
+12h ago
 
 ---
 
@@ -125,7 +125,7 @@ Just sold 100% of my stocks and went all in on bitcoin instead of the previous 6
 
 We back baby!
 
-36m ago
+55m ago
 
 ---
 
@@ -185,7 +185,7 @@ The Block • 5h ago
 
 Dormant Silk Road Bitcoin moved for the first time in years, triggering questions about consolidation, control, and market impact.
 
-Yahoo Finance • 42m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -213,7 +213,7 @@ MarketWatch • 23h ago
 
 **[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 11h ago
 
 ---
 
@@ -321,7 +321,7 @@ FREE NEWSLETTER: https://www.learningcrypto.com/ SHOP: https://shop.learningcryp
 
 📺 Crypto Tips
 
-👁️ 5K • 👍 629 • 💬 47 • ⏱️ 8:36 • 3h ago
+👁️ 5K • 👍 629 • 💬 47 • ⏱️ 8:36 • 4h ago
 
 ---
 
@@ -341,7 +341,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 5K • 👍 472 • 💬 121 • ⏱️ 5:12 • 1h ago
+👁️ 5K • 👍 472 • 💬 121 • ⏱️ 5:12 • 2h ago
 
 ---
 
@@ -381,7 +381,7 @@ Bitcoin #Crypto #Finance Bitcoin enters a historic new era as U.S. regulators of
 
 📺 The Wolf Of All Streets
 
-👁️ 13K • 👍 688 • 💬 124 • ⏱️ 37:24 • 7h ago
+👁️ 13K • 👍 688 • 💬 124 • ⏱️ 37:24 • 8h ago
 
 ---
 
