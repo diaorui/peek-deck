@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T22:57:22.076705+00:00'
+updated: '2025-12-10T23:24:29.467249+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 22:57 UTC  
+**Last Updated:** December 10, 2025 at 23:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** +0.6%  
-**30d:** -10.2%  
-**90d:** -20.3%  
-**1y:** -8.3%  
+**24h:** +0.1%  
+**7d:** +0.1%  
+**30d:** -10.7%  
+**90d:** -20.6%  
+**1y:** -8.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1848.32B
+**Market Cap:** $1843.48B
 Rank #1
 
-**Circulating Supply:** 19,960,350 BTC
+**Circulating Supply:** 19,960,371 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
 -26.8%
 
 **All-Time Low:** $67.81
-+135999.4%
++135992.0%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Finally reached 0,1 BTC. First I was in touch with BTC ~800$, but I was “young and stupid”. Priority was go to the cinema with my GF (now wife). Now, we sometimes get back to that time and this ATM with that BTC price, crying about our stupidity not buying. Some years later, started to stack sats . Got married (sold all my stocks for the wedding), btw. I had AMD at ~7$, CDProject ~2$ and many more 😁 Bought a house, my son was born. Got mortgage (value of the house went like +200% now), 30% in ETF, 70% BTC. Be happy, DCA, HODL and be free 🔥🚀 Peace!
 
-2h ago
+3h ago
 
 ---
 
@@ -99,9 +99,43 @@ Bottom tex
 
 ---
 
-**[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
+**[The printer is going brrr-illiant this Friday, ready to blast the balance sheet with a $40 BILLION a month.](https://www.reddit.com/r/Bitcoin/comments/1pjfpa3/the_printer_is_going_brrrilliant_this_friday/)**
 
-12h ago
+We back baby!
+
+1h ago
+
+---
+
+**[All in! at 92k](https://www.reddit.com/r/Bitcoin/comments/1pjen83/all_in_at_92k/)**
+
+Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
+
+2h ago
+
+---
+
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pja3aj/daily_meme_until_100000/)**
+
+5h ago
+
+---
+
+**[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
+
+23h ago
+
+---
+
+**[Fed goes brrrrrrrrrrr again](https://www.reddit.com/r/Bitcoin/comments/1pjd02r/fed_goes_brrrrrrrrrrr_again/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/finance/fed-says-will-start-reserve-management-treasury-bill-buying-2025-12-10/) • 3h ago
+
+---
+
+**[You can buy more milk over time with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1pjg7u8/you_can_buy_more_milk_over_time_with_bitcoin/)**
+
+1h ago
 
 ---
 
@@ -113,40 +147,6 @@ Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exch
 
 ---
 
-**[All in! at 92k](https://www.reddit.com/r/Bitcoin/comments/1pjen83/all_in_at_92k/)**
-
-Just sold 100% of my stocks and went all in on bitcoin instead of the previous 60/40 split I was running. Thats it, thats the post.
-
-1h ago
-
----
-
-**[The printer is going brrr-illiant this Friday, ready to blast the balance sheet with a $40 BILLION a month.](https://www.reddit.com/r/Bitcoin/comments/1pjfpa3/the_printer_is_going_brrrilliant_this_friday/)**
-
-We back baby!
-
-1h ago
-
----
-
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pja3aj/daily_meme_until_100000/)**
-
-4h ago
-
----
-
-**[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
-
-22h ago
-
----
-
-**[Fed goes brrrrrrrrrrr again](https://www.reddit.com/r/Bitcoin/comments/1pjd02r/fed_goes_brrrrrrrrrrr_again/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/finance/fed-says-will-start-reserve-management-treasury-bill-buying-2025-12-10/) • 2h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -155,45 +155,13 @@ We back baby!
 
 The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Crypto pros blast a potential move to exclude bitcoin holding companies from MSCI indexes](https://www.businessinsider.com/msci-crypto-index-bitcoin-treasury-strategy-btc-price-2025-12)**
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqeR5aqCHJC80dnDjyh6VAyW6Rf4hBDZ7sbZIvRGuJslV64i00jy3Ebx&gaa_ts=693a048b&gaa_sig=KkjnvOTj9Lft1Y9AhmDjEuVXOW-aozK0Z7smg3fnQHTtSaknoxtNSDOoe-HRCiV_3GA_DnQqoh_oV95wRHdUCg%3D%3D)**
 
-MSCI could exclude crypto treasury firms from its widely followed indexes. The move is drawing sharp criticism from industry players.
-
-Business Insider • 1d ago
-
----
-
-**['National Security' at Risk If MSCI Excludes Crypto Treasuries, Warns Bitcoin Giant Strategy](https://decrypt.co/351880/national-security-risk-msci-excludes-crypto-treasuries-warns-bitcoin-strategy)**
-
-Bitcoin treasury leader Strategy argued to MSCI that excluding a crypto-buying firms from its indices would hurt America’s national security.
-
-Decrypt • 1h ago
-
----
-
-**[Strategy says MSCI’s 50% bitcoin test risks index ‘whiplash’ and conflicts with US pro-innovation policy](https://www.theblock.co/post/382068/strategy-msci-bitcoin-test-index-whiplash-conflicts-innovation)**
-
-The Block • 6h ago
-
----
-
-**[Dark Web Bitcoin Moves After Years: What Does the Activity Signal?](https://finance.yahoo.com/news/dark-bitcoin-moves-years-does-214523620.html)**
-
-Dormant Silk Road Bitcoin moved for the first time in years, triggering questions about consolidation, control, and market impact.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Standard Chartered cuts bitcoin forecast in half](https://www.cnbc.com/2025/12/09/standard-chartered-cuts-bitcoin-forecast-in-half.html)**
-
-The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
-
-CNBC • 1d ago
+MarketWatch • 1d ago
 
 ---
 
@@ -201,25 +169,57 @@ CNBC • 1d ago
 
 Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
 
-Business Insider • 12h ago
+Business Insider • 13h ago
 
 ---
 
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqdJXtqz2UabruBMqEbWNMRUS-PcjRjRKvX5t73AJeyTwwX4KQyBWILt&gaa_ts=6939f743&gaa_sig=1BcweBafPTdYWYr_PI7Oddan_TfqLhCtuzZNioz-ldmNc2mEjsBVYkd72xnlMIkNLStZxENTGj-s43obscQt_A%3D%3D)**
+**[Bitcoin Won’t Hit $200,000 in 2025, Crypto Bull Concedes. Where It’s Going Instead.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-price-crypto-bull-01f83bf7?gaa_at=eafs&gaa_n=AWEtsqcbYtAhIFTzLbPJaLSMKO7U6TUk4V_Llm9DcUV5-a9FdOAGAGC3jHMj&gaa_ts=693a048b&gaa_sig=8FDB62IvLhaa7wwK5PKeRs60IzacM3oStOCoiacYbOKdgz3r7naymmJ58XabMqGLDHYzmDD1upgBUPKPs1lrKg%3D%3D)**
 
-MarketWatch • 23h ago
-
----
-
-**[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
-
-Investor's Business Daily • 11h ago
+Barron's • 1d ago
 
 ---
 
-**[Bitcoin Treasury Firm Backed by Tether, SoftBank Falls Sharply on First Trading Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqdugSN8kkHu79zYb_u2hjgQ223SIW3uGJcoa_XiXabbtaOv5X_e0XEu&gaa_ts=6939f743&gaa_sig=OgKF04pYcvsFTNBCrpU203npVmyj5-N5ThC9IP0m483PGd50EMNfnXL-VMEMf004j3t7sbjTbn2pgNTMhFMBYg%3D%3D)**
+**[Night owl bitcoin traders: Soon there'll be an ETF just for you](https://www.cnbc.com/2025/12/10/night-owl-bitcoin-traders-soon-therell-be-an-etf-just-for-you.html)**
 
-The Wall Street Journal • 1d ago
+If approved, the Nicholas Bitcoin and Treasuries AfterDark ETF would buy and sell bitcoin-linked financial instruments outside U.S. trading hours.
+
+CNBC • 35m ago
+
+---
+
+**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
+
+BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
+
+Bloomberg.com • 2d ago
+
+---
+
+**[Bitcoin ETFs turn positive with $152 million in inflows ahead of Fed rate decision, while traders stay defensive amid expected volatility: analysts](https://www.theblock.co/post/382038/bitcoin-etfs-turn-positive-with-152-million-in-inflows-ahead-of-fed-rate-decision-while-traders-stay-defensive-amid-expected-volatility-analysts)**
+
+The Block • 11h ago
+
+---
+
+**[SpaceX Moves $95M in Bitcoin Ahead of Potential Mega IPO](https://bitcoinmagazine.com/news/spacex-moves-95m-in-bitcoin-ipo)**
+
+SpaceX moved 1,021 BTC worth $94.5, part of a series of transfers this year totaling 8,910 BTC as the company consolidates and upgrades its bitcoin holdings.
+
+Bitcoin Magazine • 5h ago
+
+---
+
+**[Elon Musk's SpaceX Moves Bitcoin Ahead of Potential Record IPO](https://finance.yahoo.com/news/elon-musks-spacex-moves-bitcoin-222009020.html)**
+
+Elon Musk's private aerospace company SpaceX moved more of its Bitcoin holdings on Wednesday ahead of reported blockbuster IPO plans.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Elon Musk's SpaceX moves another $95 million of its bitcoin stash amid reported 2026 IPO plans: Arkham](https://www.theblock.co/post/382034/elon-musk-spacex-moves-95-million-usd-bitcoin-amid-ipo-plans-arkham)**
+
+The Block • 12h ago
 
 ---
 
@@ -257,14 +257,6 @@ Xero is a digital currency that allows instant payments to anyone, anywhere. Xer
 
 ---
 
-**[The Harvard Endowment's Biggest Public Investment Is Now Bitcoin](https://news.ycombinator.com/item?id=46141603)**
-
-The endowment dramatically increased its holdings of a spot bitcoin ETF since its previous such report.Â
-
-⬆️ 2 • 💬 1 • 6d ago • [Gizmodo](https://gizmodo.com/the-harvard-endowments-biggest-public-investment-is-now-bitcoin-2000686439)
-
----
-
 **[IETF draft and Rust POC: NTP for Bitcoin price (no oracles)](https://news.ycombinator.com/item?id=46216539)**
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
@@ -297,7 +289,15 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **[Ask HNIs early-stage fundraising broken,or founders just pitching the wrong way?](https://news.ycombinator.com/item?id=46216914)**
 
-⬆️ 3 • 💬 0 • 10h ago
+⬆️ 3 • 💬 0 • 11h ago
+
+---
+
+**[Ethereum Fusaka upgrade set for early December rollout](https://news.ycombinator.com/item?id=46217004)**
+
+The Ethereum Fusaka upgrade adds PeerDAS and scalability gains, enhancing Ethereum’s performance and supporting faster growth across Layer 2 solutions.
+
+⬆️ 1 • 💬 0 • 10h ago • [Altcoin Desk](https://altcoindesk.com/perspectives/learn/ethereum-fusaka-upgrade-set-for-early-december-rollout-will-we-finally-see-altseason/)
 
 ---
 
@@ -311,7 +311,7 @@ The biggest crypto catch-up trade has begun, and Ran explains what's driving it.
 
 📺 Crypto Banter
 
-👁️ 22K • 👍 2K • 💬 31 • ⏱️ 29:14 • 7h ago
+👁️ 22K • 👍 2K • 💬 31 • ⏱️ 29:14 • 8h ago
 
 ---
 
@@ -351,7 +351,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 117 • ⏱️ 41:09 • 7h ago
+👁️ 27K • 👍 1K • 💬 117 • ⏱️ 41:09 • 8h ago
 
 ---
 
@@ -401,7 +401,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 285 • 💬 59 • ⏱️ 21:52 • 23h ago
+👁️ 6K • 👍 285 • 💬 59 • ⏱️ 21:52 • 1d ago
 
 ---
 

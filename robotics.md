@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T22:57:22.085956+00:00'
+updated: '2025-12-10T23:24:29.476568+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 22:57 UTC  
+**Last Updated:** December 10, 2025 at 23:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,6 +32,14 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Robotic hands, a comprehensice infographic](https://www.reddit.com/r/robotics/comments/1pj3o6w/robotic_hands_a_comprehensice_infographic/)**
+
+We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
+
+9h ago
+
+---
+
 **[When an operator performs a backflip while wearing the VR headset, NEO doesn't follow, instead remaining upright and balanced](https://www.reddit.com/r/robotics/comments/1pize07/when_an_operator_performs_a_backflip_while/)**
 
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
@@ -40,19 +48,11 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 ---
 
-**[Robotic hands, a comprehensice infographic](https://www.reddit.com/r/robotics/comments/1pj3o6w/robotic_hands_a_comprehensice_infographic/)**
-
-We created a comprehensive representation of dexterous robotic hands as of 2025.It presents human like, five finger, minimum six active DoFs hands currently used in robotics or adjacent areas. Important considerations: the goal is not to compare these systems but to represent what is recognized as the most notable dexterous robotic hands. The source information is provided by the companies, while selection and inclusion are based on our independent research. If you have any comments or suggestions regarding the poster, feel free to reach out. We will upload the high quality version to the website in a few days. If you want early access, please direct message me.
-
-8h ago
-
----
-
 **[University of Utah engineers just gave a bionic hand "mind of its own" using AI. Aligns user intent with hand's grip automatically.](https://www.reddit.com/r/robotics/comments/1pix2wp/university_of_utah_engineers_just_gave_a_bionic/)**
 
 Just saw this paper published in Nature Communications and thought it was a massive leap for prosthetics The Problem: Conventional bionic hands require the user to "think" significantly about every muscle flex to trigger a grip. It’s mentally exhausting (high cognitive load). The Solution: The team at Utah equipped a prosthetic with Custom Sensors: Pressure and proximity sensors in the fingertips & AI Neural Network: Trained on natural human grasping patterns. Result: The hand "understands" what it's touching. If the user initiates a grasp, the AI takes over the fine motor control to secure the object (like a delicate egg or a heavy cup) without the user needing to micro manage the pressure. It basically creates a "reflex" system for the robotic hand, similar to how our biological spinal cord handles basic reflexes without bothering the brain. Source: Interesting Engineering/Nature Communications 🔗: https://interestingengineering.com/ai-robotics/ai-bionic-hand-grips-like-human
 
-14h ago
+15h ago
 
 ---
 
@@ -60,13 +60,13 @@ Just saw this paper published in Nature Communications and thought it was a mass
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Website: https://www.limxdynamics.com/en
 
-11h ago
+12h ago
 
 ---
 
 **[Humanoid: What’s Different About Their Wrist Design?](https://www.reddit.com/r/robotics/comments/1pj0xfe/humanoid_whats_different_about_their_wrist_design/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -96,7 +96,7 @@ Ok so basically I am a student currently studying in college (Not I live in the 
 
 Ever wonder how sudo apt install just  works  for ROS? That’s the magic of the OSRF Build Farm!  This beast serves over half a billion packages a year, saving us all from the headache of compiling from source. But maintaining this critical utility takes massive server power and a dedicated team of e
 
-🔗 [Open Robotics](https://www.openrobotics.org/blog/2025/12/8/new-build-farm-backer-program-amp-infra-team-swagnbsp) • 5h ago
+🔗 [Open Robotics](https://www.openrobotics.org/blog/2025/12/8/new-build-farm-backer-program-amp-infra-team-swagnbsp) • 6h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hi everyone, I’m getting started with ROS2 and have been following the Husario
 
 **[‘Misunderstanding’: HISD sends robotics team to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-Chron • 5h ago
+Chron • 6h ago
 
 ---
 
@@ -123,6 +123,14 @@ Chron • 5h ago
 The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
 
 MLive.com • 1d ago
+
+---
+
+**[From iCub to humanoids: Generative Bionics raises $81M](https://www.therobotreport.com/from-icub-to-humanoids-generative-bionics-raises-81m/)**
+
+Generative Bionics plans to unveil its first humanoid robot, built for production environments, at CES in Las Vegas.
+
+The Robot Report • 4h ago
 
 ---
 
@@ -138,31 +146,7 @@ Bloomberg.com • 2d ago
 
 MONTEVIDEO, Uruguay & SALEM, Ore., December 10, 2025--Mercado Libre and Agility Robotics announced commercial to bring Agility's humanoid robot Digit into Mercado Libre’s facility in San Antonio, Texas.
 
-Yahoo Finance • 9h ago
-
----
-
-**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
-
-Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
-
-Decrypt • 1d ago
-
----
-
-**[Naperville teens make history at international robotics competition](https://www.nctv17.org/news/naperville-teens-make-history-at-international-robotics-competition/)**
-
-Three Naperville teens are making a name for themselves in the world of robotics and showing other young girls they can do the same.
-
-NCTV17 • 21h ago
-
----
-
-**[Israeli official says Gaza conflict was ‘first robotics war’](https://breakingdefense.com/2025/12/israeli-official-says-gaza-conflict-was-first-robotics-war/)**
-
-The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
-
-Breaking Defense • 2d ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -174,6 +158,22 @@ PYMNTS.com • 2d ago
 
 ---
 
+**[Naperville teens make history at international robotics competition](https://www.nctv17.org/news/naperville-teens-make-history-at-international-robotics-competition/)**
+
+Three Naperville teens are making a name for themselves in the world of robotics and showing other young girls they can do the same.
+
+NCTV17 • 22h ago
+
+---
+
+**[Israeli official says Gaza conflict was ‘first robotics war’](https://breakingdefense.com/2025/12/israeli-official-says-gaza-conflict-was-first-robotics-war/)**
+
+The Israeli Defense Forces deployed thousands of unmanned systems, in what senior officials said was an illustration of the future of combat.
+
+Breaking Defense • 2d ago
+
+---
+
 **[Army Special Forces Embracing Robots in All Domains](https://www.nationaldefensemagazine.org/articles/2025/12/8/army-special-forces-embracing-robots-in-all-domains)**
 
 Army Special Forces Embracing Robots in All Domains
@@ -182,11 +182,11 @@ National Defense Magazine • 3d ago
 
 ---
 
-**[CEO of Chinese robotics company posts video of himself getting kicked by his robot in effort to combat skeptics](https://www.businessinsider.com/engineai-ceo-robot-kick-video-2025-12)**
+**[‘World’s first’ AGI system: Tokyo firm claims it built model with human-level reasoning](https://interestingengineering.com/ai-robotics/worlds-first-agi-model)**
 
-EngineAI posted a video of its CEO, Zhao Tongyang, being kicked in the stomach by its T800 robot after online skeptics questioned an earlier video.
+The company, founded by an ex-Google veteran, claims its new system constitutes a 'fundamental leap' beyond existing AI technologies.
 
-Business Insider • 4h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ In this episode, we open the archives on host Hannah Fry's visit to our Californ
 
 📺 Google DeepMind
 
-👁️ 19K • 👍 1K • 💬 104 • ⏱️ 17:44 • 6h ago
+👁️ 19K • 👍 1K • 💬 104 • ⏱️ 17:44 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T22:57:22.082752+00:00'
+updated: '2025-12-10T23:24:29.473313+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - cryptocurrency
 - social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 22:57 UTC  
+**Last Updated:** December 10, 2025 at 23:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -43,16 +43,16 @@ Live Ethereum monitoring dashboard
 ## Ethereum Chart
 
 **24h:** +0.9%  
-**7d:** +7.0%  
-**30d:** -1.8%  
-**90d:** -28.7%  
-**1y:** -12.6%  
+**7d:** +6.6%  
+**30d:** -2.2%  
+**90d:** -28.9%  
+**1y:** -12.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $404.23B
+**Market Cap:** $403.47B
 Rank #2
 
 **Circulating Supply:** 120,695,213 ETH
@@ -62,7 +62,7 @@ No max supply
 -32.5%
 
 **All-Time Low:** $0.43
-+770450.1%
++770828.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 oskar thorén is one of the leads in ethereum foundation's newest IPTF, or institutional privacy task force. he's a freedom maxi, zero-knowledge wizard, taiwan expart, and a dear friend. an electric mix of sovereign energy! oskar is one of the most well spoken advocates for privacy, zk, and self-custody, and in this interview where we hiked xiangshan in taipei, he holds nothing back to give us banger insight after banger insight. we talked all things zk and privacy, including: how the snowden revelations ignited his passion his early work in Vac and Waku to create encrypted messaging back when early ethereum was only 3 pillars (eth/swarm/whisper) how it informed his passion for zero knowledge cryptography and the technical applications of it to privacy-preservation his contributions to MoPro, a zk mobile proving toolkit that's bringing zk ever closer to reality on our phones his work on https://zkintro.com where he creates friendly resources to zero-knowledge cryptography from beginners to engineers to researchers, how his latest venture as one of the co-leads in the EF's newest task force, the Institutional Privacy Task Force, is bringing cypherpunk-grade privacy to the world's biggest financial institutions, and his 3-pronged mindset to achieving self-sovereignty you can catch the full interview on my youtube channel at: https://youtu.be/_BWRyIqCmVI --------------------------- if we're meeting for the first time, hi 👋! i spread the good word on good work in crypto. it's a challenging road fighting the cesspool that is crypto youtube... but im energized by creating principles-led, values-driven content a like, sub, comment, share goes a long way <3
 
-🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 6h ago
+🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 7h ago
 
 ---
 
@@ -96,7 +96,7 @@ oskar thorén is one of the leads in ethereum foundation's newest IPTF, or insti
 
 Hi everyone, I just wanted to ask for some advice because something feels off. I was expecting a money transfer, and I received an email saying that the payment had arrived, but the funds are "locked." To unlock the money, they say I must first make a €200 transaction. The email address they used is norplybitpaypronton.pay@gmail.com Pretty sure it's a fraud but I'd like to know your opinions. Thanks!
 
-3h ago
+4h ago
 
 ---
 
@@ -164,23 +164,7 @@ Decrypt • 4h ago
 
 The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
 
-Decrypt • 3h ago
-
----
-
-**[Bitcoin, Ethereum Waver as Fed Delivers Third Rate Cut](https://finance.yahoo.com/news/bitcoin-ethereum-waver-fed-delivers-191812651.html)**
-
-The central bank’s move was widely expected, with the Federal Reserve announcing the third rate cut for 2025.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Spike Ahead of Fed Decision](https://finance.yahoo.com/news/crypto-shorts-rekt-bitcoin-ethereum-170437408.html)**
-
-Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
-
-Yahoo Finance • 1d ago
+Decrypt • 4h ago
 
 ---
 
@@ -189,22 +173,6 @@ Yahoo Finance • 1d ago
 Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
 
 Yahoo Finance • 2d ago
-
----
-
-**[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
-
-The trading platform dives further into digital assets both domestically and globally.
-
-Fortune • 2d ago
-
----
-
-**[Dogecoin (DOGE), Ethereum (ETH) News: Memecoin Spikes as Ether Surges](https://www.coindesk.com/markets/2025/12/10/breakout-or-bull-trap-doge-jumps-above-resistance-on-ethereum-strength)**
-
-Despite the breakout, DOGE faces significant structural resistance from major EMAs.
-
-CoinDesk • 17h ago
 
 ---
 
@@ -222,11 +190,43 @@ Decrypt • 2d ago
 
 ---
 
-**[Ether (ETH) ETF News: Staked Ether ETF (ETHB) Coming From BlackRock](https://www.coindesk.com/markets/2025/12/08/blackrock-files-for-staked-ethereum-etf-aiming-to-bring-yield-to-the-masses)**
+**[Ethereum gains after BlackRock files for iShares Staked Ethereum Trust ETF (ETH-USD:Cryptocurrency)](https://seekingalpha.com/news/4529446-ethereum-gains-after-blackrock-files-for-ishares-staked-ethereum-trust-etf)**
 
-The iShares Ethereum Staking Trust marks a bold push into on-chain yield exposure, as the SEC's tone has shifted under new leadership.
+Ethereum (ETH-USD) was trading higherÂ after BlackRock (BLK) filed a preliminary prospectus with the U.S. Securities and Exchange Commission for its iShares Staked Ethereum Trust ETF.
 
-CoinDesk • 2d ago
+Seeking Alpha • 2d ago
+
+---
+
+**[Dogecoin (DOGE), Ethereum (ETH) News: Memecoin Spikes as Ether Surges](https://www.coindesk.com/markets/2025/12/10/breakout-or-bull-trap-doge-jumps-above-resistance-on-ethereum-strength)**
+
+Despite the breakout, DOGE faces significant structural resistance from major EMAs.
+
+CoinDesk • 17h ago
+
+---
+
+**[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
+
+The trading platform dives further into digital assets both domestically and globally.
+
+Fortune • 2d ago
+
+---
+
+**[3 Reasons to Buy Ethereum Before January 2026](https://www.fool.com/investing/2025/12/07/3-reasons-to-buy-ethereum-before-january-2026/)**
+
+Ethereum could be once again on the path to the $5,000 price level. Here's why.
+
+The Motley Fool • 3d ago
+
+---
+
+**[Ethereum's Game-Changing Move: $5,000 Target](https://www.tradingview.com/news/u_today:262b5f615094b:0-ethereum-s-game-changing-move-5-000-target/)**
+
+The chart finally shows a market that has stopped bleeding and begun to fight back, and Ethereum is about to enter a structurally critical phase. ETH has successfully reversed from the $2,700-$2,800 range after months of cascading sell pressure, printing a series of higher lows and pushing hard tow…
+
+TradingView • 13h ago
 
 ---
 
@@ -250,7 +250,7 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 2K • 👍 61 • 💬 35 • ⏱️ 8:36 • 9h ago
+👁️ 2K • 👍 61 • 💬 35 • ⏱️ 8:36 • 10h ago
 
 ---
 

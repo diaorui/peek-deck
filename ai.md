@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T22:57:22.068167+00:00'
+updated: '2025-12-10T23:24:29.458838+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
 - news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 22:57 UTC  
+**Last Updated:** December 10, 2025 at 23:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -69,7 +69,15 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 Im not sure if this was discussed before. But LLMs can understand Base64 encoded prompts and they injest it like normal prompts. This means non human readable text prompts understood by the AI model. Tested with Gemini, ChatGPT and Grok.
 
-21h ago
+22h ago
+
+---
+
+**[What AI hallucination actually is, why it happens, and what we can realistically do about it](https://www.reddit.com/r/artificial/comments/1pjgh5w/what_ai_hallucination_actually_is_why_it_happens/)**
+
+A lot of people use the term “AI hallucination,” but many don’t clearly understand what it actually means. In simple terms, AI hallucination is when a model produces information that sounds confident and well-structured, but is actually incorrect, fabricated, or impossible to verify. This includes things like made-up academic papers, fake book references, invented historical facts, or technical explanations that look right on the surface but fall apart under real checking. The real danger is not that it gets things wrong — it’s that it often gets them wrong in a way that sounds extremely convincing. Most people assume hallucination is just a bug that engineers haven’t fully fixed yet. In reality, it’s a natural side effect of how large language models work at a fundamental level. These systems don’t decide what is true. They predict what is most statistically likely to come next in a sequence of words. When the underlying information is missing, weak, or ambiguous, the model doesn’t stop — it completes the pattern anyway. That’s why hallucination often appears when context is vague, when questions demand certainty, or when the model is pushed to answer things beyond what its training data can reliably support. Interestingly, hallucination feels “human-like” for a reason. Humans also guess when they’re unsure, fill memory gaps with reconstructed stories, and sometimes speak confidently even when they’re wrong. In that sense, hallucination is not machine madness — it’s a very human-shaped failure mode expressed through probabilistic language generation. The model is doing exactly what it was trained to do: keep the sentence going in the most plausible way. There is no single trick that completely eliminates hallucination today, but there are practical ways to reduce it. Strong, precise context helps a lot. Explicitly allowing the model to express uncertainty also helps, because hallucination often worsens when the prompt demands absolute certainty. Forcing source grounding — asking the model to rely only on verifiable public information and to say when that’s not possible — reduces confident fabrication. Breaking complex questions into smaller steps is another underrated method, since hallucination tends to grow when everything is pushed into a single long, one-shot answer. And when accuracy really matters, cross-checking across different models or re-asking the same question in different forms often exposes structural inconsistencies that signal hallucination. The hard truth is that hallucination can be reduced, but it cannot be fully eliminated with today’s probabilistic generation models. It’s not just an accidental mistake — it’s a structural byproduct of how these systems generate language. No matter how good alignment and safety layers become, there will always be edge cases where the model fills a gap instead of stopping. This quietly creates a responsibility shift that many people underestimate. In the traditional world, humans handled judgment and machines handled execution. In the AI era, machines handle generation, but humans still have to handle judgment. If people fully outsource judgment to AI, hallucination feels like deception. If people keep judgment in the loop, hallucination becomes manageable noise instead of a catastrophic failure. If you’ve personally run into a strange or dangerous hallucination, I’d be curious to hear what it was — and whether you realized it immediately, or only after checking later.
+
+1h ago
 
 ---
 
@@ -95,19 +103,11 @@ I’ve spent the last year really putting AI to work, writing content, handling 
 
 ---
 
-**[Why AGI Will Not Happen](https://www.reddit.com/r/artificial/comments/1pjgjf7/why_agi_will_not_happen/)**
+**[Tesla Optimus's fall in Miami demo sparks remote operation debate](https://www.reddit.com/r/artificial/comments/1pi9nj4/tesla_optimuss_fall_in_miami_demo_sparks_remote/)**
 
-If you are reading this, you probably have strong opinions about AGI, superintelligence, and the future of AI. Maybe you believe we are on the cusp of a transformative breakthrough. Maybe you are skeptical. This blog post is for those who want to think more carefully about these claims and examine them from a perspective […]
+While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-🔗 [Tim Dettmers](https://timdettmers.com/2025/12/10/why-agi-will-not-happen/) • 32m ago
-
----
-
-**[What AI hallucination actually is, why it happens, and what we can realistically do about it](https://www.reddit.com/r/artificial/comments/1pjgh5w/what_ai_hallucination_actually_is_why_it_happens/)**
-
-A lot of people use the term “AI hallucination,” but many don’t clearly understand what it actually means. In simple terms, AI hallucination is when a model produces information that sounds confident and well-structured, but is actually incorrect, fabricated, or impossible to verify. This includes things like made-up academic papers, fake book references, invented historical facts, or technical explanations that look right on the surface but fall apart under real checking. The real danger is not that it gets things wrong — it’s that it often gets them wrong in a way that sounds extremely convincing. Most people assume hallucination is just a bug that engineers haven’t fully fixed yet. In reality, it’s a natural side effect of how large language models work at a fundamental level. These systems don’t decide what is true. They predict what is most statistically likely to come next in a sequence of words. When the underlying information is missing, weak, or ambiguous, the model doesn’t stop — it completes the pattern anyway. That’s why hallucination often appears when context is vague, when questions demand certainty, or when the model is pushed to answer things beyond what its training data can reliably support. Interestingly, hallucination feels “human-like” for a reason. Humans also guess when they’re unsure, fill memory gaps with reconstructed stories, and sometimes speak confidently even when they’re wrong. In that sense, hallucination is not machine madness — it’s a very human-shaped failure mode expressed through probabilistic language generation. The model is doing exactly what it was trained to do: keep the sentence going in the most plausible way. There is no single trick that completely eliminates hallucination today, but there are practical ways to reduce it. Strong, precise context helps a lot. Explicitly allowing the model to express uncertainty also helps, because hallucination often worsens when the prompt demands absolute certainty. Forcing source grounding — asking the model to rely only on verifiable public information and to say when that’s not possible — reduces confident fabrication. Breaking complex questions into smaller steps is another underrated method, since hallucination tends to grow when everything is pushed into a single long, one-shot answer. And when accuracy really matters, cross-checking across different models or re-asking the same question in different forms often exposes structural inconsistencies that signal hallucination. The hard truth is that hallucination can be reduced, but it cannot be fully eliminated with today’s probabilistic generation models. It’s not just an accidental mistake — it’s a structural byproduct of how these systems generate language. No matter how good alignment and safety layers become, there will always be edge cases where the model fills a gap instead of stopping. This quietly creates a responsibility shift that many people underestimate. In the traditional world, humans handled judgment and machines handled execution. In the AI era, machines handle generation, but humans still have to handle judgment. If people fully outsource judgment to AI, hallucination feels like deception. If people keep judgment in the loop, hallucination becomes manageable noise instead of a catastrophic failure. If you’ve personally run into a strange or dangerous hallucination, I’d be curious to hear what it was — and whether you realized it immediately, or only after checking later.
-
-35m ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 1d ago
 
 ---
 
@@ -117,7 +117,7 @@ A lot of people use the term “AI hallucination,” but many don’t clearly un
 
 **[Meta’s New A.I. Superstars Are Chafing Against the Rest of the Company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -133,7 +133,7 @@ CNBC • 1d ago
 
 Meta Platforms Inc.’s Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting the company’s focus to an artificial intelligence model it can make money off of.
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -141,7 +141,7 @@ Bloomberg.com • 8h ago
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
@@ -149,45 +149,43 @@ BBC • 10h ago
 
 Viewers blasted McDonald's satirical commercial as offensive, with critics questioning why anyone would 'ditch your family and hide in McDonald's.'
 
-Los Angeles Times • 18h ago
+Los Angeles Times • 19h ago
 
 ---
 
-**[McDonald’s Pulls Down AI-Generated Holiday Ad After Deluge of Mockery](https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial)**
+**[McDonald's pulled a widely mocked 'AI slop' Christmas ad](https://qz.com/mcdonalds-ai-christmas-ad)**
 
-McDonald's Netherlands is catching flak for a stupefying AI-generated video, which was roundly condemned on social media.
-
-Futurism • 1d ago
+qz.com • 7h ago
 
 ---
 
-**[Oracle’s mixed earnings fail to dispel AI fears, and the stock falls](https://www.marketwatch.com/story/oracles-mixed-earnings-fail-to-dispel-ai-fears-and-the-stock-falls-5533a383?gaa_at=eafs&gaa_n=AWEtsqfeEHLoG6q43YhfWtvYE_YXjqrgjAKw1adjFVF0zEovl7Q6apZLd-KU&gaa_ts=6939f742&gaa_sig=h8r64qoELKhA4z5WMtbqzoWfoDboXj3deEbzvmLhovtDp49XcM8VVpjLmdmBEfHAFWf0u3xcyeN_UpjkOGYuMw%3D%3D)**
+**[House lawmakers introduce bill requiring federal agencies, officials to label AI content](https://thehill.com/policy/technology/5643310-ai-labeling-act-house-lawmakers/)**
 
-MarketWatch • 1h ago
-
----
-
-**[Exclusive / Google names new chief of AI infrastructure buildout](https://www.semafor.com/article/12/10/2025/google-names-new-chief-of-ai-infrastructure-buildout)**
-
-Amin Vahdat, a veteran leader at Google, will become chief technologist for AI infrastructure, according to the memo reviewed by Semafor, and report directly to CEO Sundar Pichai.
-
-https-//www.semafor.com • 1h ago
+thehill.com • 1h ago
 
 ---
 
-**[Spotify’s Prompted Playlists use AI to control your algorithm](https://www.theverge.com/news/842053/spotify-ai-prompted-playlists)**
+**[‘What to buy Dad for Christmas’: is retail ready for the AI shopping shift?](https://www.theguardian.com/business/2025/dec/10/is-retail-ready-for-ai-shaking-up-how-we-shop)**
 
-Create your next playlist with a chatbot
+As shoppers ask ChatGPT for inspiration, brands scramble to ensure their products appeal to the bots calling the shots
 
-The Verge • 45m ago
+The Guardian • 4h ago
 
 ---
 
-**[Nvidia responds to report that China's DeepSeek is using its banned Blackwell AI chips](https://www.cnbc.com/2025/12/10/nvidia-report-china-deepseek-ai-blackwell-chips.html)**
+**[Consumer test drive: can AI do your Christmas gift shopping for you?](https://www.theguardian.com/money/2025/dec/10/consumer-test-drive-can-ai-do-your-christmas-gift-shopping-for-you)**
 
-The U.S. has blocked the export of Nvidia's Blackwell chips to China in an effort to stay ahead in the AI race.
+The short answer is yes, but if you don’t want big brands or to use Amazon then more time and a lot more prompts are needed
 
-CNBC • 8h ago
+The Guardian • 5h ago
+
+---
+
+**[Can AI be your holiday shopping assistant? Local 4 tests its gift-giving skills](https://www.clickondetroit.com/news/local/2025/12/10/can-ai-be-your-holiday-shopping-assistant-local-4-tests-its-gift-giving-skills/)**
+
+As holiday shoppers grapple with finding gifts for challenging recipients, artificial intelligence could be the perfect holiday helper.
+
+ClickOnDetroit | WDIV Local 4 • 27m ago
 
 ---
 
@@ -199,7 +197,7 @@ CNBC • 8h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 568 • 💬 603 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 568 • 💬 610 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -215,7 +213,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 347 • 💬 413 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 348 • 💬 414 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -231,13 +229,13 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 265 • 💬 232 • 6h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 270 • 💬 242 • 6h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 192 • 💬 176 • 2d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 192 • 💬 177 • 2d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -245,7 +243,7 @@ Nvidia’s Blackwell chips were smuggled into China through countries that permi
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 160 • 💬 194 • 19h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 160 • 💬 197 • 20h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -261,7 +259,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-⬆️ 97 • 💬 125 • 9h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
+⬆️ 98 • 💬 130 • 10h ago • [BBC News](https://www.bbc.co.uk/news/articles/czdgrnvp082o)
 
 ---
 
@@ -269,7 +267,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
 
-⬆️ 67 • 💬 89 • 21h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 68 • 💬 89 • 21h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
 
 ---
 
@@ -303,7 +301,7 @@ In this episode, I sit down with @elonmusk for a wide-ranging conversation on DO
 
 📺 Katie Miller Pod
 
-👁️ 219K • 👍 10K • 💬 2K • ⏱️ 52:58 • 23h ago
+👁️ 219K • 👍 10K • 💬 2K • ⏱️ 52:58 • 1d ago
 
 ---
 
@@ -389,7 +387,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 67,717 • ❤️ 660 • 1d ago
+⬇️ 67,717 • ❤️ 663 • 1d ago
 
 ---
 
@@ -401,7 +399,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 232,896 • ❤️ 2,481 • 2d ago
+⬇️ 232,896 • ❤️ 2,483 • 2d ago
 
 ---
 
@@ -413,7 +411,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 10,031 • ❤️ 296 • 1d ago
+⬇️ 10,031 • ❤️ 297 • 1d ago
 
 ---
 
@@ -425,7 +423,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 1,305 • ❤️ 240 • 1d ago
+⬇️ 1,305 • ❤️ 242 • 1d ago
 
 ---
 
@@ -437,7 +435,7 @@ DeepSeek-V3.2 is an efficient text generation model excelling in reasoning and a
 
 `text-generation` `685.4B`
 
-⬇️ 40,667 • ❤️ 859 • 9d ago
+⬇️ 40,667 • ❤️ 860 • 9d ago
 
 ---
 
@@ -449,7 +447,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 218 • 6h ago
+⬇️ 2,414 • ❤️ 220 • 6h ago
 
 ---
 
@@ -461,7 +459,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 `text-generation` `8.3B`
 
-⬇️ 444,785 • ❤️ 184 • 2d ago
+⬇️ 444,785 • ❤️ 185 • 2d ago
 
 ---
 
@@ -669,7 +667,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.6k • 🔱 190 • 1h ago
+⭐ 1.6k • 🔱 190 • 2h ago
 
 ---
 
@@ -689,7 +687,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 131 • 13h ago
+⭐ 1.0k • 🔱 131 • 14h ago
 
 ---
 
