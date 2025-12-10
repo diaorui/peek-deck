@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T09:51:45.609844+00:00'
+updated: '2025-12-10T10:16:24.791912+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
+- news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 09:51 UTC  
+**Last Updated:** December 10, 2025 at 10:16 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +7.4%  
-**7d:** +6.7%  
-**30d:** -2.1%  
-**90d:** -28.9%  
+**24h:** +7.6%  
+**7d:** +6.8%  
+**30d:** -2.0%  
+**90d:** -28.8%  
 **1y:** -12.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $400.40B
+**Market Cap:** $405.25B
 Rank #2
 
 **Circulating Supply:** 120,695,213 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.9%
+-32.4%
 
 **All-Time Low:** $0.43
-+766775.5%
++772260.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -154,7 +154,7 @@ AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ether
 
 Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -168,7 +168,7 @@ Binance • 1d ago
 
 Key PointsEthereum has built a strong user base and frequently generates over $10 million in daily app fees.
 
-Nasdaq • 17h ago
+Nasdaq • 18h ago
 
 ---
 
@@ -176,15 +176,15 @@ Nasdaq • 17h ago
 
 Japan is considering a big change to how it taxes crypto.
 
-The Motley Fool • 1d ago
+The Motley Fool • 2d ago
 
 ---
 
-**[3 Reasons to Buy Ethereum Before January 2026](https://finance.yahoo.com/news/3-reasons-buy-ethereum-january-193000879.html)**
+**[Is Ethereum Price Headed Toward $3,700 Next? One Metric Hints at a Longer Wait](https://finance.yahoo.com/news/ethereum-price-headed-toward-3-100000222.html)**
 
-Ethereum could be once again on the path to the $5,000 price level. Here's why.
+Ethereum price prediction still targets $3,710, but a hidden on-chain risk could delay the move. Traders should watch this closely.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 16m ago
 
 ---
 
@@ -222,7 +222,7 @@ Fortune • 1d ago
 
 Despite the breakout, DOGE faces significant structural resistance from major EMAs.
 
-CoinDesk • 1h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -286,7 +286,7 @@ Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee a
 
 📺 Stock Moe
 
-👁️ 10K • 👍 692 • 💬 67 • ⏱️ 13:03 • 12h ago
+👁️ 10K • 👍 692 • 💬 67 • ⏱️ 13:03 • 13h ago
 
 ---
 

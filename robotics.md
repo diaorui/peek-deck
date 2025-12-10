@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T09:51:45.613092+00:00'
+updated: '2025-12-10T10:16:24.795203+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 09:51 UTC  
+**Last Updated:** December 10, 2025 at 10:16 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Just saw this paper published in Nature Communications and thought it was a massive leap for prosthetics The Problem: Conventional bionic hands require the user to "think" significantly about every muscle flex to trigger a grip. It’s mentally exhausting (high cognitive load). The Solution: The team at Utah equipped a prosthetic with Custom Sensors: Pressure and proximity sensors in the fingertips & AI Neural Network: Trained on natural human grasping patterns. Result: The hand "understands" what it's touching. If the user initiates a grasp, the AI takes over the fine motor control to secure the object (like a delicate egg or a heavy cup) without the user needing to micro manage the pressure. It basically creates a "reflex" system for the robotic hand, similar to how our biological spinal cord handles basic reflexes without bothering the brain. Source: Interesting Engineering/Nature Communications 🔗: https://interestingengineering.com/ai-robotics/ai-bionic-hand-grips-like-human
 
-1h ago
+2h ago
 
 ---
 
@@ -44,7 +44,7 @@ Just saw this paper published in Nature Communications and thought it was a mass
 
 Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
-20h ago
+21h ago
 
 ---
 
@@ -66,7 +66,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 I m trying to make a cobot digital twin in vr using Unity engine to create vr application. I m using esp32 to collect and control the kinematics of the robot. I will be using mqtt to transmit the data. I m not sure how to do the unity VR part. Please provide me some information on how to retrieve the mqtt data and use it to digital twin the cobot in VR unity application. It would be really helpful for me if you provide me with some knowledge about unity VR applications
 
-2h ago
+3h ago
 
 ---
 
@@ -82,7 +82,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 I’ve built a modular VLA prototype (physics-grounded LLM planning + explicit scene graph reasoning). The system can preemptively respond to predicted physical events (like a cup falling), and works well in simulation. My current hardware is limited, so I’m exploring what real robot platforms people usually use for research along these lines. Franka, UR, or others? If you’re working on similar ideas, feel free to share your experience — I’m trying to understand what setups are common, and what challenges to expect. Happy to show a short demo as well.
 
-3h ago
+4h ago
 
 ---
 
@@ -90,7 +90,7 @@ I’ve built a modular VLA prototype (physics-grounded LLM planning + explicit s
 
 North American robot orders picked up again in Q3 2025, pointing to renewed momentum in manufacturing automation after a slower period. According to the latest market data, companies in North America ordered 8,806 robots in the third quarter, worth about $574 million. That works out to an 11.6 percent increase in units and a 17.2 percent increase in revenue compared to the same quarter last year. The most notable gains came from food and consumer goods, where robot orders were up more than 100 percent year over year, and from automotive OEMs, which saw orders rise sharply as well. Metals and general manufacturing also posted growth, while automotive components and plastics and rubber recorded declines, suggesting a more selective investment cycle in those segments.
 
-13h ago
+14h ago
 
 ---
 
@@ -98,15 +98,15 @@ North American robot orders picked up again in Q3 2025, pointing to renewed mome
 
 Engineers build artificial tendons that let muscle-powered robots move faster and pull harder, marking a major step for biohybrid machines.
 
-🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 15h ago
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 16h ago
 
 ---
 
-**[Job Opening: Senior Robotics Engineer (Humanoid & Legged Robots) | India](https://www.reddit.com/r/robotics/comments/1pixl3d/job_opening_senior_robotics_engineer_humanoid/)**
+**[Vision language navigation](https://www.reddit.com/r/robotics/comments/1piaihx/vision_language_navigation/)**
 
-Hiring for an MNC Autonomous Robots | Humanoid, Legged & AMR Onsite – Chennai, India Experience: 3–6+ Years Notice Period: 15–30 Days Total Number of roles: 2 More info: https://robocademy.com/blog/job-opening-senior-robotics-engineer-humanoid-legged-robots
+Teaching Robots to Understand Natural Language Built an autonomous navigation system where you can command a robot in plain English - "go to the person" or "find the chair" - and it handles the rest. What I Learned: Distributed ROS2: Ran LLM inference on NVIDIA Jetson Orin Nano while handling vision/navigation on my main system. Multi-machine communication over ROS2 topics was seamless. Edge Al Reality: TinyLlama on Jetson's CPU takes 2-10s per command, but the 8GB unified memory and no GPU dependency makes it perfect for robotics. Real edge computing without much latency. Vision + Planning: YOLOv8 detects object classes, monocular depth estimation calculates distance, Nav2 plans the path. When the target disappears, the robot autonomously searches with 360° rotation patterns. On Jetson Orin Nano Super: Honestly impressed. It's the perfect middle ground - more capable than Raspberry Pi, more accessible than industrial modules. Running Ollama while maintaining real-time ROS2 communication proved its robotics potential. Stack: ROS2 | YOLOv8 | Ollama/TinyLlama | Nav2 | Gazebo Video shows the full pipeline - natural language → LLM parsing → detection → autonomous navigation.
 
-1h ago
+18h ago
 
 ---
 
@@ -128,14 +128,6 @@ Breaking Defense • 1d ago
 
 ---
 
-**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
-
-Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
 
 Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
@@ -152,19 +144,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://finance.yahoo.com/news/tether-invests-italian-robotics-startup-230239090.html)**
+**[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai/)**
 
-Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
+SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
 
-Yahoo Finance • 1d ago
-
----
-
-**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
-
-The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
-
-MLive.com • 17h ago
+PYMNTS.com • 1d ago
 
 ---
 
@@ -176,19 +160,35 @@ Seeking Alpha • 19h ago
 
 ---
 
-**[SoftBank and Nvidia Consider Joining Funding Round for Robotics Firm Skild AI](https://www.pymnts.com/artificial-intelligence-2/2025/softbank-and-nvidia-consider-joining-funding-round-for-robotics-firm-skild-ai/)**
-
-SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
-
-PYMNTS.com • 1d ago
-
----
-
 **[Army Special Forces Embracing Robots in All Domains](https://www.nationaldefensemagazine.org/articles/2025/12/8/army-special-forces-embracing-robots-in-all-domains)**
 
 Army Special Forces Embracing Robots in All Domains
 
 National Defense Magazine • 2d ago
+
+---
+
+**[Moorhead robotics team builds head-activated device to help first-grader raise her hand](https://www.valleynewslive.com/2025/12/08/moorhead-robotics-team-builds-head-activated-device-help-first-grader-raise-her-hand/)**
+
+1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
+
+Valley News Live • 1d ago
+
+---
+
+**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
+
+The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
+
+MLive.com • 17h ago
+
+---
+
+**[Serve Robotics Extends Autonomous Delivery to Fort Lauderdale](https://finance.yahoo.com/news/serve-robotics-extends-autonomous-delivery-153500451.html)**
+
+SERV expands its autonomous delivery network to Fort Lauderdale, deepening its South Florida presence through Uber Eats.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -288,7 +288,7 @@ In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comfor
 
 📺 AI Robot Lab
 
-👁️ 8K • 👍 84 • 💬 3 • ⏱️ 0:24 • 22h ago
+👁️ 8K • 👍 84 • 💬 3 • ⏱️ 0:24 • 23h ago
 
 ---
 

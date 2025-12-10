@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T09:51:45.603904+00:00'
+updated: '2025-12-10T10:16:24.785871+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- videos
+- news
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 09:51 UTC  
+**Last Updated:** December 10, 2025 at 10:16 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,653.27
+### $92,965.04
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.0%  
-**7d:** +0.8%  
-**30d:** -10.0%  
-**90d:** -20.0%  
-**1y:** -8.1%  
+**24h:** +3.1%  
+**7d:** +1.1%  
+**30d:** -9.7%  
+**90d:** -19.8%  
+**1y:** -7.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1846.60B
+**Market Cap:** $1856.49B
 Rank #1
 
-**Circulating Supply:** 19,960,112 BTC
+**Circulating Supply:** 19,960,137 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.6%
+-26.3%
 
 **All-Time Low:** $67.81
-+136363.6%
++136993.3%
 
 ---
 
@@ -77,17 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
-
-9h ago
-
----
-
 **[The Mods are sleeping. Upvote while you can.](https://www.reddit.com/r/Bitcoin/comments/1piv3l7/the_mods_are_sleeping_upvote_while_you_can/)**
 
 The Mods don't want you to see bullish memes. Vote against the bears.
 
-3h ago
+4h ago
+
+---
+
+**[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
+
+10h ago
+
+---
+
+**[Idk how you guys didn't see through this](https://www.reddit.com/r/Bitcoin/comments/1piox5t/idk_how_you_guys_didnt_see_through_this/)**
+
+9h ago
 
 ---
 
@@ -109,25 +115,19 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 Sooner or later it will bounce to new highs, or not
 
-3h ago
-
----
-
-**[Idk how you guys didn't see through this](https://www.reddit.com/r/Bitcoin/comments/1piox5t/idk_how_you_guys_didnt_see_through_this/)**
-
-8h ago
+4h ago
 
 ---
 
 **[BTC is back, 2026 Bullrun Are you ready?](https://www.reddit.com/r/Bitcoin/comments/1piw0ft/btc_is_back_2026_bullrun_are_you_ready/)**
 
-2h ago
+3h ago
 
 ---
 
 **[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -135,13 +135,13 @@ Sooner or later it will bounce to new highs, or not
 
 I saw notifications of $94,000 BTC on my phone on waking up. Too bad it was already gone.
 
-5h ago
+6h ago
 
 ---
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pier04/daily_meme_until_100000/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -151,7 +151,7 @@ I saw notifications of $94,000 BTC on my phone on waking up. Too bad it was alre
 
 **[Bitcoin Price Jumps As Tether-Backed Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 10h ago
+Investor's Business Daily • 11h ago
 
 ---
 
@@ -169,11 +169,9 @@ Bloomberg.com • 12h ago
 
 ---
 
-**[Bitcoin's 2025 rollercoaster may end on a low](https://finance.yahoo.com/news/bitcoins-2025-rollercoaster-may-end-050859649.html)**
+**[Bitcoin's 2025 rollercoaster may end on a low](https://www.reuters.com/business/finance/bitcoins-2025-rollercoaster-may-end-low-2025-12-09/)**
 
-With a series of record highs and crushing sell-offs, 2025 has been a rollercoaster ride for bitcoin, the world's largest cryptocurrency, which is at risk of ending the year with its first annual decline since 2022.  The world's main stock benchmarks have also had a turbulent year, repeatedly hitting record peaks and then pulling ​back as worries over tariffs, interest rates and a possible AI bubble whipsawed markets.  While equities are mostly up year-to-date, bitcoin's overall correlation with share prices has strengthened markedly this year.
-
-Yahoo Finance • 1d ago
+Reuters • 1d ago
 
 ---
 
@@ -181,27 +179,15 @@ Yahoo Finance • 1d ago
 
 If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
 
-NPR • 1h ago
+NPR • 2h ago
 
 ---
 
-**[Bitcoin jumps to $94,000, but ‘hawkish’ Fed cut threatens the crypto rally](https://finance.yahoo.com/news/bitcoin-jumps-to-94000-but-hawkish-fed-cut-threatens-the-crypto-rally-164647204.html)**
+**[Bitcoin jumps to $94,000, but 'hawkish' Fed cut threatens crypto rally](https://finance.yahoo.com/news/bitcoin-jumps-to-94000-but-hawkish-fed-cut-threatens-crypto-rally-164647910.html)**
 
 The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
 
-Yahoo Finance • 17h ago
-
----
-
-**[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance)**
-
-The Block • 22h ago
-
----
-
-**[Bitcoin Rises. Why the Crypto May Fall Below $90,000 Even after Fed Rate Cut.](https://www.barrons.com/articles/bitcoin-crypto-today-fed-rate-cut-419615db?gaa_at=eafs&gaa_n=AWEtsqepAGXrvMv9r-aD8b-I3Viagadvr_3CM0QIR1V75f5KDwaFyQ1yM9eZ&gaa_ts=693941f1&gaa_sig=pYdl7jm1z5sP0882_JYJ7sw7Qz-Lf3fCXhE0xbA9cGYXqpICuSLK_c-LMjJHMM0Ma9-D7LyZVdQG6hvhjed1QQ%3D%3D)**
-
-Barron's • 54m ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -217,7 +203,21 @@ CNBC • 15h ago
 
 Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
 
-Bloomberg.com • 16h ago
+Bloomberg.com • 17h ago
+
+---
+
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqdd3-FjrsrdNWtuSDATBwgEeZoDryxNbGn4KrkJojZfD4z6k5_e2Ip5&gaa_ts=69394bdf&gaa_sig=1fwfUNdSRCYEnJcrVD7Q_foH0ESO1dH5GQP9ZzuntRWu7jS6TxVbo0uRH_9hjySPQZoLILVZX-L4RdaJ8ce3Vg%3D%3D)**
+
+MarketWatch • 11h ago
+
+---
+
+**[BlackRock’s Bitcoin ETF Investors Came Late to the Crypto Party](https://www.bloomberg.com/news/articles/2025-12-08/blackrock-s-bitcoin-etf-investors-came-late-to-the-crypto-party)**
+
+BlackRock Inc.’s flagship Bitcoin ETF has delivered strong returns since its launch — but for most investors, the outcome has been far more modest.
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -238,12 +238,6 @@ Bloomberg.com • 16h ago
 Ignore the crash • Keep the faith • Meet the evangelists who believe Bitcoin will cure everything
 
 ⬆️ 5 • 💬 0 • 5d ago • [Dispatch](https://dispatch-media.com/the-bitcoin-ultras-vs-broken-britain/)
-
----
-
-**[Bitcoin's Sky-High Prices Have Not Panned Out](https://news.ycombinator.com/item?id=46132636)**
-
-⬆️ 3 • 💬 2 • 6d ago • [nytimes.com](https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html)
 
 ---
 
@@ -273,7 +267,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 16h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 17h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -309,7 +303,7 @@ Anthony and John Pompliano dig into what's really at stake at the upcoming Feder
 
 📺 Anthony Pompliano
 
-👁️ 20K • 👍 766 • 💬 15 • ⏱️ 35:48 • 11h ago
+👁️ 20K • 👍 766 • 💬 15 • ⏱️ 35:48 • 12h ago
 
 ---
 
@@ -319,7 +313,7 @@ Jack Mallers, Tether, SoftBank, and Cantor Fitzgerald just launched the most exp
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 2K • 💬 150 • ⏱️ 16:39 • 9h ago
+👁️ 38K • 👍 2K • 💬 150 • ⏱️ 16:39 • 10h ago
 
 ---
 
