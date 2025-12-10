@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T19:26:22.727434+00:00'
+updated: '2025-12-10T19:40:48.323537+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 19:26 UTC  
+**Last Updated:** December 10, 2025 at 19:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[AI companies basically:](https://www.reddit.com/r/artificial/comments/1pj41sq/ai_companies_basically/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -77,7 +77,7 @@ Im not sure if this was discussed before. But LLMs can understand Base64 encoded
 
 Reprogrammable humanoid robots could level the global manufacturing playing field, Arm CEO Rene Haas said at Fortune Brainstorm AI.
 
-🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 9h ago
+🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 10h ago
 
 ---
 
@@ -107,7 +107,7 @@ I’ve spent the last year really putting AI to work, writing content, handling 
 
 While teenagers may start out using AI chatbots for basic questions, their relationship with chatbot platforms has the potential to turn addictive.
 
-🔗 [TechCrunch](https://techcrunch.com/2025/12/09/three-in-ten-u-s-teens-use-ai-chatbots-every-day-but-safety-concerns-are-growing/) • 2h ago
+🔗 [TechCrunch](https://techcrunch.com/2025/12/09/three-in-ten-u-s-teens-use-ai-chatbots-every-day-but-safety-concerns-are-growing/) • 3h ago
 
 ---
 
@@ -133,7 +133,7 @@ Bloomberg.com • 5h ago
 
 A strategy shift for Meta’s AI group?
 
-The Verge • 40m ago
+The Verge • 54m ago
 
 ---
 
@@ -157,7 +157,7 @@ Los Angeles Times • 15h ago
 
 McDonald’s Netherlands pulled its AI-made holiday ad after viewers blasted the spot’s unsettling visuals.
 
-10tv.com • 59m ago
+10tv.com • 1h ago
 
 ---
 
@@ -177,13 +177,13 @@ USNI News • 19h ago
 
 The Navy is investing almost half a billion dollars in Palantir artificial intelligence software that promises to speed up shipbuilding processes.
 
-Business Insider • 22m ago
+Business Insider • 36m ago
 
 ---
 
 **[Google’s AI momentum continues as Gemini scores another victory over ChatGPT](https://www.marketwatch.com/story/googles-ai-momentum-continues-as-gemini-scores-another-victory-over-chatgpt-16946689?gaa_at=eafs&gaa_n=AWEtsqc4Yl1ZTdyiE-8WUsO8lAoRKClcw28ykCmBB7th-X2iobJQ9-sBJtBI&gaa_ts=6939ccc0&gaa_sig=0994dXAS4IsA4VSKVBf9mwKNP6V3yIv8q707godXIVRpXOL4lZL7qqgibC66DSLH3mgqf2GUz7EeRMwW8KBt_Q%3D%3D)**
 
-MarketWatch • 42m ago
+MarketWatch • 56m ago
 
 ---
 
@@ -233,7 +233,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Nvidia’s Blackwell chips were smuggled into China through countries that permitted their sale, The Information reported, citing unnamed sources.  More specifically, DeepSeek tapped chips that were installed in data centers in unspecified countries, then dismantled and shipped to China after clearing inspection by companies developing server equipment, The Information said.  The US bans the sale of these advanced semiconductors to China, which has led AI developers there to access the hardware through data centers located outside of the mainland or subterfuge.
 
-⬆️ 189 • 💬 149 • 2h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
+⬆️ 189 • 💬 149 • 3h ago • [Yahoo Finance](https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html)
 
 ---
 
@@ -265,7 +265,7 @@ McDonald's said the moment served as "an important learning" as it explored "the
 
 Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
 
-⬆️ 64 • 💬 87 • 17h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 64 • 💬 87 • 18h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
 
 ---
 
@@ -445,7 +445,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 211 • 2h ago
+⬇️ 2,414 • ❤️ 211 • 3h ago
 
 ---
 

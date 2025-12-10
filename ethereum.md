@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T19:26:22.740178+00:00'
+updated: '2025-12-10T19:40:48.337912+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 19:26 UTC  
+**Last Updated:** December 10, 2025 at 19:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,14 +36,14 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,351.85
+### $3,382.40
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +1.6%  
-**7d:** +8.1%  
+**7d:** +8.2%  
 **30d:** -0.8%  
 **90d:** -27.9%  
 **1y:** -11.7%  
@@ -96,7 +96,7 @@ oskar thorén is one of the leads in ethereum foundation's newest IPTF, or insti
 
 Hi everyone, I just wanted to ask for some advice because something feels off. I was expecting a money transfer, and I received an email saying that the payment had arrived, but the funds are "locked." To unlock the money, they say I must first make a €200 transaction. The email address they used is norplybitpaypronton.pay@gmail.com Pretty sure it's a fraud but I'd like to know your opinions. Thanks!
 
-12m ago
+26m ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-20h ago
+21h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Motley Fool • 2d ago
 
 BitMine Immersion Technologies Chairman Tom Lee said Ethereum has bottomed—and his firm is aggressively buying as a result.
 
-Yahoo Finance • 50m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -250,7 +250,7 @@ Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=a
 
 📺 Altcoin Daily
 
-👁️ 63K • 👍 3K • 💬 332 • ⏱️ 12:03 • 19h ago
+👁️ 63K • 👍 3K • 💬 332 • ⏱️ 12:03 • 20h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 918 • 👍 136 • 💬 6 • ⏱️ 6:52 • 2h ago
+👁️ 918 • 👍 136 • 💬 6 • ⏱️ 6:52 • 3h ago
 
 ---
 
@@ -280,7 +280,7 @@ Bitcoin and Ethereum surged amid anticipation that the US central bank will cut 
 
 📺 Paul Barron Network
 
-👁️ 46K • 👍 2K • 💬 107 • ⏱️ 20:14 • 22h ago
+👁️ 46K • 👍 2K • 💬 107 • ⏱️ 20:14 • 23h ago
 
 ---
 
@@ -290,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2025 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 588 • 👍 33 • 💬 1 • ⏱️ 4:47 • 9h ago
+👁️ 588 • 👍 33 • 💬 1 • ⏱️ 4:47 • 10h ago
 
 ---
 
@@ -320,7 +320,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 225 • 💬 8 • ⏱️ 5:16 • 16h ago
+👁️ 4K • 👍 225 • 💬 8 • ⏱️ 5:16 • 17h ago
 
 ---
 

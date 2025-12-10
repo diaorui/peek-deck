@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T19:26:22.734865+00:00'
+updated: '2025-12-10T19:40:48.331921+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 19:26 UTC  
+**Last Updated:** December 10, 2025 at 19:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,652.04
+### $92,997.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.4%  
+**24h:** -0.2%  
 **7d:** +0.8%  
 **30d:** -10.0%  
 **90d:** -20.1%  
@@ -81,7 +81,7 @@ Rank #1
 
 Bottom tex
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ Bottom tex
 
 Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exchange in Malaysia). We dont know what happened and how it happend. 2FA was in place so we really have no clue how the bitcoin moved. Please see photos attached for txid. Would appreciate your insight on what happened and how it happened so it doesn't happen again. Yes we know not your keys not your coin.... Lesson learnt the hard way... Many thanks for your help!
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exch
 
 Bitcoin has been locked in a predictable 4 year cycle pretty much since it's inception. Analyzing the patterns of the 4 year cycle has been very useful when it comes to projecting the timing of market cycle tops and bottoms. Using these patterns, I have come up with a theory which estimates the approximate date and range of the upcoming bear market bottom. Here are some known patterns that Bitcoin has exhibited over the last decade: - Cycle tops have come approximately 18 months after each of the last 3 halvings. Halving Jul 2016 - Dec 2017 Top (17 Months) Halving May 2020 - Nov 2021 Top (18 Months) Halving Apr 2024 - Oct 2025 Top (18 Months) - Cycle bottoms have come approximately 1 year after each cycle top. Nov 2013 Top - Jan 2015 Bottom (14 Months) Dec 2017 Top - Dec 2018 Bottom (12 Months) Nov 2021 Top - Nov 2022 Bottom (12 Months) With these patterns in mind, we can estimate when the next bear market bottom will occur. Assuming the cycle top was Oct 2025 at $126K, The bear market bottom should happen around Oct 2026. I can go one step further and come up with an estimated price range of the bottom. We can see that each bear market has had diminishing declines. (Each bear market has been less severe than the prior one) Based on the drawdowns of each bear market, I will assume the bottom will come in around $50K + or - 10% as that range will fall inline with prior market bottoms below the projected 200 week and 50 month moving averages. Past performance is not indicative of future results.
 
-1h ago
+2h ago
 
 ---
 
@@ -115,7 +115,7 @@ Bitcoin has been locked in a predictable 4 year cycle pretty much since it's inc
 
 **[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Block • 21h ago
 
 **[CryptoQuant says bitcoin could reach $112,000 if Fed turns dovish and key resistance levels break](https://www.theblock.co/post/382114/cryptoquant-bitcoin-112000-if-fed-dovish-key-resistance-levels-break?utm_source=rss&utm_medium=rss)**
 
-The Block • 51m ago
+The Block • 1h ago
 
 ---
 
@@ -351,7 +351,7 @@ In this clip, I talk about a major macro event that could impact bitcoin and cry
 
 📺 CryptosRus Extra
 
-👁️ 8K • 👍 538 • 💬 122 • ⏱️ 8:42 • 18h ago
+👁️ 8K • 👍 538 • 💬 122 • ⏱️ 8:42 • 19h ago
 
 ---
 
