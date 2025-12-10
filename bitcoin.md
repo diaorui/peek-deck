@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T15:56:34.481040+00:00'
+updated: '2025-12-10T16:32:50.581786+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 15:56 UTC  
+**Last Updated:** December 10, 2025 at 16:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $91,600.00
+### $92,563.31
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -0.1%  
-**30d:** -10.8%  
-**90d:** -20.7%  
-**1y:** -8.9%  
+**24h:** -1.7%  
+**7d:** +0.2%  
+**30d:** -10.5%  
+**90d:** -20.5%  
+**1y:** -8.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1833.87B
+**Market Cap:** $1846.34B
 Rank #1
 
-**Circulating Supply:** 19,960,228 BTC
+**Circulating Supply:** 19,960,246 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--27.2%
+-26.7%
 
 **All-Time Low:** $67.81
-+135225.2%
++136241.2%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[.](https://www.reddit.com/r/Bitcoin/comments/1pix5b9/_/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -93,7 +93,7 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 **[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -101,13 +101,7 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 Bottom tex
 
-1h ago
-
----
-
-**[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
-
-5h ago
+2h ago
 
 ---
 
@@ -119,29 +113,35 @@ Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exch
 
 ---
 
+**[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
+
+5h ago
+
+---
+
 **[Zoom out, get rid of the charts and enjoy life.](https://www.reddit.com/r/Bitcoin/comments/1piv80p/zoom_out_get_rid_of_the_charts_and_enjoy_life/)**
 
 Sooner or later it will bounce to new highs, or not
 
-9h ago
+10h ago
 
 ---
 
 **[BTC is back, 2026 Bullrun Are you ready?](https://www.reddit.com/r/Bitcoin/comments/1piw0ft/btc_is_back_2026_bullrun_are_you_ready/)**
 
-8h ago
+9h ago
+
+---
+
+**[Idk how you guys didn't see through this](https://www.reddit.com/r/Bitcoin/comments/1piox5t/idk_how_you_guys_didnt_see_through_this/)**
+
+15h ago
 
 ---
 
 **["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
 
 20h ago
-
----
-
-**[Idk how you guys didn't see through this](https://www.reddit.com/r/Bitcoin/comments/1piox5t/idk_how_you_guys_didnt_see_through_this/)**
-
-14h ago
 
 ---
 
@@ -157,17 +157,17 @@ CNBC • 21h ago
 
 ---
 
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqdUM14Fkyj3JxfHb5k2trlhfAGyccDiwC67cKFYs3mm1p63ZhISzLl4&gaa_ts=69399802&gaa_sig=CtxJ7666H6LdJSHR-haexVHfunPkC1kAdCOfxAG1ihskVcxAc7PlQN-zbvqnnw9kdd1JHZDbRBhsu-yc-pOJKA%3D%3D)**
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqfHgnVBahQexKLGsVrpjtnFqPjMMsRo95d9armfJ0BV3iwhv2mUgmnh&gaa_ts=6939a41c&gaa_sig=75KZy2tzOEvd7h5AX_yWqvKrBxzKjMGZXePs9QztrsQ5eEVWG35x901XSnzBi3W3aaLqqm9boRWqJ-KkdjRfqg%3D%3D)**
 
-MarketWatch • 16h ago
+MarketWatch • 17h ago
 
 ---
 
-**[Bitcoin to $500,000? Here’s when to expect the price to hit the new record](https://finance.yahoo.com/news/bitcoin-500-000-expect-price-164545497.html)**
+**[One of bitcoin's biggest bulls just slashed their forecast in half](https://www.businessinsider.com/bitcoin-price-prediction-btc-2026-forecast-standard-chartered-150k-2025-12)**
 
-Standard Chartered pushed its $500,000 Bitcoin target to 2030 from 2028. The bank says digital asset treasury buying is over and won't support prices anymore. Geoffrey Kendrick said Bitcoin will now rely on ETF buying alone to reach the half-million dollar target.
+Standard Chartered, which previously predicted bitcoin would hit $200k in 2025, said it was slashing its forecasts for through the end of the decade.
 
-Yahoo Finance • 23h ago
+Business Insider • 6h ago
 
 ---
 
@@ -181,13 +181,13 @@ Investor's Business Daily • 4h ago
 
 The debut underperformed its SPAC benchmark, as investors pull back from Bitcoin treasury plays in favor of clearer operating models.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
 **[Bitcoin treasury XXI shares sink 20% in NYSE debut despite rising BTC price](https://www.theblock.co/post/381975/twenty-one-shares-sink-20-nyse-debut-despite-rising-bitcoin-price)**
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Block • 17h ago
 
 If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
 
-NPR • 7h ago
+NPR • 8h ago
 
 ---
 
@@ -215,11 +215,9 @@ WIRED • 1d ago
 
 ---
 
-**[Bitcoin (BTC) Treasury News: ABTC and BRR Top Up Holdings](https://www.coindesk.com/markets/2025/12/10/eric-trump-s-american-bitcoin-and-anthony-pompliano-s-procap-add-to-btc-holdings)**
+**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqe5j7sSgfdIqnkSKQyW4mgu0i4iU_mUTn9WqO_ZbQ0E7MqUtyVL7eMR&gaa_ts=6939a41c&gaa_sig=PBWlJSRqqx_dbRdbQIuEh8XpBWyHvDHWvGGpzni0hZqMKQ8zz_rMZ2bb0LHTekzLij5OiZNwjG3MTgUt3a9VNg%3D%3D)**
 
-The shares of both bitcoin-related firms are posting modest early gains Wednesday, but remain sharply lower over the past several days.
-
-CoinDesk • 1h ago
+MarketWatch • 1d ago
 
 ---
 
@@ -269,7 +267,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCoinPriceProtocol development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 4h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
+⬆️ 1 • 💬 0 • 5h ago • [GitHub](https://github.com/CryptoPriceProtocol/BitCoinPriceProtocol)
 
 ---
 
@@ -277,7 +275,7 @@ NTP for BitCoin and other crypto Prices. Contribute to CryptoPriceProtocol/BitCo
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 22h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 23h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -295,11 +293,9 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 ---
 
-**[Retail-trader Eric Jackson says the crypto bear market is a maximum opportunity](https://news.ycombinator.com/item?id=46135976)**
+**[Ask HNIs early-stage fundraising broken,or founders just pitching the wrong way?](https://news.ycombinator.com/item?id=46216914)**
 
-Hedge fund manager Eric Jackson says he's the most bullish on crypto he's ever been. His bullish outlook drew swift pushback from a famous short-seller.
-
-⬆️ 2 • 💬 1 • 6d ago • [Business Insider](https://www.businessinsider.com/bitcoin-price-eric-jackson-bullish-ethereum-crypto-btc-eth-ai-2025-12)
+⬆️ 3 • 💬 0 • 4h ago
 
 ---
 
@@ -313,7 +309,7 @@ The biggest crypto catch-up trade has begun, and Ran explains what's driving it.
 
 📺 Crypto Banter
 
-👁️ 7K • 👍 976 • 💬 4 • ⏱️ 29:14 • 52m ago
+👁️ 7K • 👍 976 • 💬 4 • ⏱️ 29:14 • 1h ago
 
 ---
 
@@ -323,7 +319,7 @@ Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro a
 
 📺 CryptosRUs
 
-👁️ 10K • 👍 754 • 💬 39 • ⏱️ 41:09 • 37m ago
+👁️ 10K • 👍 754 • 💬 39 • ⏱️ 41:09 • 1h ago
 
 ---
 
@@ -363,7 +359,7 @@ In this clip, I talk about a major macro event that could impact bitcoin and cry
 
 📺 CryptosRus Extra
 
-👁️ 8K • 👍 531 • 💬 116 • ⏱️ 8:42 • 15h ago
+👁️ 8K • 👍 531 • 💬 116 • ⏱️ 8:42 • 16h ago
 
 ---
 
@@ -373,7 +369,7 @@ Anthony and John Pompliano dig into what's really at stake at the upcoming Feder
 
 📺 Anthony Pompliano
 
-👁️ 24K • 👍 920 • 💬 26 • ⏱️ 35:48 • 17h ago
+👁️ 24K • 👍 920 • 💬 26 • ⏱️ 35:48 • 18h ago
 
 ---
 
@@ -393,7 +389,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 2K • 👍 259 • 💬 73 • ⏱️ 5:29 • 3h ago
+👁️ 2K • 👍 259 • 💬 73 • ⏱️ 5:29 • 4h ago
 
 ---
 
@@ -403,7 +399,7 @@ Bitcoin what now? HIDDEN DANGER Of Drinking Apple Cider Vinegar! https://youtu.b
 
 📺 MMCrypto
 
-👁️ 16K • 👍 2K • 💬 205 • ⏱️ 4:22 • 3h ago
+👁️ 16K • 👍 2K • 💬 205 • ⏱️ 4:22 • 4h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T15:56:34.487064+00:00'
+updated: '2025-12-10T16:32:50.587134+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 15:56 UTC  
+**Last Updated:** December 10, 2025 at 16:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** +6.2%  
-**30d:** -2.5%  
-**90d:** -29.2%  
-**1y:** -13.2%  
+**24h:** -0.3%  
+**7d:** +7.2%  
+**30d:** -1.6%  
+**90d:** -28.5%  
+**1y:** -12.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $400.79B
+**Market Cap:** $405.14B
 Rank #2
 
 **Circulating Supply:** 120,695,213 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--33.0%
+-32.1%
 
 **All-Time Low:** $0.43
-+765507.6%
++775133.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -81,6 +81,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 An agent initially promised 3-5 days to credit/return my funds to my ETH wallet. More than 15 days have passed. Case #25243137 Their support refused to release my GDPR data, and in the UI there's no button to download it manually. I have lost over $100k in opportunity cost (sold ETH to deposit this). My tweet about it, including the screenshot where they tell me to report them to the authorities: https://x.com/laur_science/status/1998746021099122834 WARNING to all users: If their system glitches, they will NOT fix it manually. They will wait weeks while you lose money. Even better, don't use centralized exchanges for large amounts, or do it in small tranches. For me, it's the last time, and yes - I already knew the dangers, therefore "lesson reinforced", not "lesson learned".
 
 2h ago
+
+---
+
+**[take the zk pill, you stay in the provable reality, and EF's institutional privacy lead oskar thorén will show you how deep the rabbit hole goes...](https://www.reddit.com/r/ethereum/comments/1pj6sl7/take_the_zk_pill_you_stay_in_the_provable_reality/)**
+
+oskar thorén is one of the leads in ethereum foundation's newest IPTF, or institutional privacy task force. he's a freedom maxi, zero-knowledge wizard, taiwan expart, and a dear friend. an electric mix of sovereign energy! oskar is one of the most well spoken advocates for privacy, zk, and self-custody, and in this interview where we hiked xiangshan in taipei, he holds nothing back to give us banger insight after banger insight. we talked all things zk and privacy, including: how the snowden revelations ignited his passion his early work in Vac and Waku to create encrypted messaging back when early ethereum was only 3 pillars (eth/swarm/whisper) how it informed his passion for zero knowledge cryptography and the technical applications of it to privacy-preservation his contributions to MoPro, a zk mobile proving toolkit that's bringing zk ever closer to reality on our phones his work on https://zkintro.com where he creates friendly resources to zero-knowledge cryptography from beginners to engineers to researchers, how his latest venture as one of the co-leads in the EF's newest task force, the Institutional Privacy Task Force, is bringing cypherpunk-grade privacy to the world's biggest financial institutions, and his 3-pronged mindset to achieving self-sovereignty you can catch the full interview on my youtube channel at: https://youtu.be/_BWRyIqCmVI --------------------------- if we're meeting for the first time, hi 👋! i spread the good word on good work in crypto. it's a challenging road fighting the cesspool that is crypto youtube... but im energized by creating principles-led, values-driven content a like, sub, comment, share goes a long way <3
+
+🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 12m ago
 
 ---
 
@@ -138,14 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Treasury Yield](https://www.reddit.com/r/ethereum/comments/1phl21p/treasury_yield/)**
-
-By magnitude, the biggest question for the Defi ecosystem for the next cycle is who gets to keep the yield on treasuries backing reserve stablecoins such as USDC and USDT? If secretary Bennett and the federal reserve are correct in their forecasts, we'll be at something like $3T in stablecoin market cap by 2030. At
-
-🔗 [Tokenomics Explained - Crypto and Defi Explained](https://tokenomicsexplained.com/treasury-yield/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -162,23 +162,15 @@ CoinDesk • 10h ago
 
 Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
-Decrypt • 22h ago
+Decrypt • 23h ago
 
 ---
 
-**[Ethereum ETFs Hit Six-Week High as Investors Rotate Within Crypto](https://finance.yahoo.com/news/ethereum-etfs-hit-six-week-135007523.html)**
+**[Tom Lee’s BitMine Buys $429 Million in Ethereum as ETH Rebounds](https://finance.yahoo.com/news/tom-lee-bitmine-buys-429-162833185.html)**
 
-Spot Ethereum ETF inflows hit a six-week high, with analysts citing a structural rotation by institutions broadening their crypto exposure.
+Ethereum is up nearly 11% on the week, and top ETH treasury firm BitMine is still adding to its $12 billion stash.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
-
-The trading platform dives further into digital assets both domestically and globally.
-
-Fortune • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -202,6 +194,14 @@ Decrypt • 1d ago
 
 ---
 
+**[Robinhood launches staking for Ethereum and Solana in ongoing crypto expansion](https://fortune.com/2025/12/08/robinhood-launches-staking-for-ethereum-and-solana-in-ongoing-crypto-expansion/)**
+
+The trading platform dives further into digital assets both domestically and globally.
+
+Fortune • 1d ago
+
+---
+
 **[Prediction: If This 1 Policy Changes, Bitcoin and Ethereum Will Soar](https://www.fool.com/investing/2025/12/08/prediction-if-this-1-policy-changes-bitcoin-and-et/)**
 
 Japan is considering a big change to how it taxes crypto.
@@ -218,11 +218,11 @@ TradingView • 6h ago
 
 ---
 
-**[ETHE Vs. ETH: Which Grayscale Ethereum ETF Is Better?](https://seekingalpha.com/article/4851950-ethe-vs-eth-which-grayscale-ethereum-etf-is-better)**
+**[Here's Why Ethereum Soared More than 6% Today, Breaking $3,300 for the First Time In Nearly a Month](https://www.nasdaq.com/articles/heres-why-ethereum-soared-more-6-today-breaking-3300-first-time-nearly-month)**
 
-The 65% staking ratio means ETH will generate a significantly better total return than ETHE after fees. See the complete analysis here.
+Key PointsEthereum is seeing even more capital flow into its network, a trend that's continued in recent weeks.
 
-Seeking Alpha • 5h ago
+Nasdaq • 16h ago
 
 ---
 
@@ -246,7 +246,7 @@ Bitcoin and Ethereum surged amid anticipation that the US central bank will cut 
 
 📺 Paul Barron Network
 
-👁️ 45K • 👍 2K • 💬 107 • ⏱️ 20:14 • 19h ago
+👁️ 45K • 👍 2K • 💬 107 • ⏱️ 20:14 • 20h ago
 
 ---
 
@@ -256,7 +256,7 @@ A huge ETH whale just opened a massive sized position. In today's video, Kyledoo
 
 📺 Crypto Banter
 
-👁️ 15K • 👍 1K • 💬 12 • ⏱️ 34:34 • 7h ago
+👁️ 15K • 👍 1K • 💬 12 • ⏱️ 34:34 • 8h ago
 
 ---
 
@@ -276,7 +276,7 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 427 • 👍 41 • 💬 35 • ⏱️ 8:36 • 2h ago
+👁️ 427 • 👍 41 • 💬 35 • ⏱️ 8:36 • 3h ago
 
 ---
 
@@ -296,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 221 • 💬 8 • ⏱️ 5:16 • 13h ago
+👁️ 4K • 👍 221 • 💬 8 • ⏱️ 5:16 • 14h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN & ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 9K • 👍 339 • 💬 81 • ⏱️ 21:02 • 16h ago
+👁️ 9K • 👍 339 • 💬 81 • ⏱️ 21:02 • 17h ago
 
 ---
 

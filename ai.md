@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T15:56:34.472607+00:00'
+updated: '2025-12-10T16:32:50.574151+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- repositories
 - news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 15:56 UTC  
+**Last Updated:** December 10, 2025 at 16:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 This year, McDonald’s decided to get in on the corporate slopfest with a 45-second Christmas spot cooked up for its Netherlands division by the ad agency TBWA\Neboko. The entire thing is AI, and revolves around the thesis that the holiday season is the “most terrible time of the year.” After huge backlash, ad has been taken down from YT, agency made statement owning there failure. https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial This reminds me: "The ability to speak doesn't make you intelligent!" - Qui Gon Jinn Technology, including AI is a tool, an enabler to magnify human genius or stupidity! PS: removed the earlier post with quote name error, couldn't edit in time.
 
-2h ago
+3h ago
 
 ---
 
 **[AI companies basically:](https://www.reddit.com/r/artificial/comments/1pj41sq/ai_companies_basically/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -63,7 +63,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 Im not sure if this was discussed before. But LLMs can understand Base64 encoded prompts and they injest it like normal prompts. This means non human readable text prompts understood by the AI model. Tested with Gemini, ChatGPT and Grok.
 
-14h ago
+15h ago
 
 ---
 
@@ -83,35 +83,33 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 ---
 
+**[OpenAI Is in Trouble](https://www.reddit.com/r/artificial/comments/1pj66p2/openai_is_in_trouble/)**
+
+The start-up is falling behind in the AI race.
+
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 35m ago
+
+---
+
+**[AI didn't replace me but it replaced my need for developers](https://www.reddit.com/r/artificial/comments/1pj5z5d/ai_didnt_replace_me_but_it_replaced_my_need_for/)**
+
+🔗 [ecency.com](https://ecency.com/@fullcoverbetting/ai-didnt-replace-me-but-it-replaced-my-need-for-developers-4g4) • 43m ago
+
+---
+
+**[If Your AI Outputs Still Suck, Try These Fixes](https://www.reddit.com/r/artificial/comments/1pj5tsb/if_your_ai_outputs_still_suck_try_these_fixes/)**
+
+I’ve spent the last year really putting AI to work, writing content, handling client projects, digging into research, automating stuff, and even building my own custom GPTs. After hundreds of hours messing around, I picked up a few lessons I wish someone had just told me from the start. No hype here, just honest things that actually made my results better: 1. Stop asking AI “What should I do?”, ask “What options do I have?” AI’s not great at picking the perfect answer right away. But it shines when you use it to brainstorm possibilities. So, instead of: “What’s the best way to improve my landing page?” Say: “Give me 5 different ways to improve my landing page, each based on a different principle (UX, clarity, psychology, trust, layout). Rank them by impact.” You’ll get way better results. 2. Don’t skip the “requirements stage.” Most of the time, AI fails because people jump straight to the end. Slow down. Ask the model to question you first. Try this: “Before creating anything, ask me 5 clarification questions to make sure you get it right.” Just this step alone cuts out most of the junky outputs, way more than any fancy prompt trick. 3. Tell AI it’s okay to be wrong at first. AI actually does better when you take the pressure off early on. Say something like: “Give me a rough draft first. I’ll go over it with you.” That rough draft, then refining together, then finishing up, that’s how the actually get good outputs. 4. If things feel off, don’t bother fixing, just restart the thread. People waste so much time trying to patch up a weird conversation. If the model starts drifting in tone, logic, or style, the fastest fix is just to start fresh: “New conversation: You are [role]. Your goal is [objective]. Start from scratch.” AI memory in a thread gets messy fast. A reset clears up almost all the weirdness. 5. Always run 2 outputs and then merge them. One output? Total crapshoot. Two outputs? Much more consistent. Tell the AI: “Give me 2 versions with different angles. I’ll pick the best parts.” Then follow up with: “Merge both into one polished version.” You get way better quality with hardly any extra effort. 6. Stop using one giant prompt, start building mini workflows. Beginners try to do everything in one big prompt. The experts break it into 3–5 bite-size steps. Here’s a simple structure: - Ask questions - Generate options - Pick a direction - Draft it - Polish Just switching to this approach will make everything you do with AI better. If you want more tips, just let me know and i'll send you a document with more of them.
+
+49m ago
+
+---
+
 **[Instacart’s AI-Enabled Pricing Experiments May Be Inflating Your Grocery Bill, CR and Groundwork Collaborative Investigation Finds](https://www.reddit.com/r/artificial/comments/1pisprm/instacarts_aienabled_pricing_experiments_may_be/)**
 
 Exclusive: Instacart’s AI pricing may be inflating your grocery bill.
 
-🔗 [Consumer Reports](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) • 11h ago
-
----
-
-**[OpenAI Hires Slack CEO as New Chief Revenue Officer](https://www.reddit.com/r/artificial/comments/1pifikb/openai_hires_slack_ceo_as_new_chief_revenue/)**
-
-A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
-
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 21h ago
-
----
-
-**[A Survey of Bayesian Network Structure Learning](https://www.reddit.com/r/artificial/comments/1pj4z0s/a_survey_of_bayesian_network_structure_learning/)**
-
-https://arxiv.org/abs/2109.11415 Abstract: "Bayesian Networks (BNs) have become increasingly popular over the last few decades as a tool for reasoning under uncertainty in fields as diverse as medicine, biology, epidemiology, economics and the social sciences. This is especially true in real-world areas where we seek to answer complex questions based on hypothetical evidence to determine actions for intervention. However, determining the graphical structure of a BN remains a major challenge, especially when modelling a problem under causal assumptions. Solutions to this problem include the automated discovery of BN graphs from data, constructing them based on expert knowledge, or a combination of the two. This paper provides a comprehensive review of combinatoric algorithms proposed for learning BN structure from data, describing 74 algorithms including prototypical, well-established and state-of-the-art approaches. The basic approach of each algorithm is described in consistent terms, and the similarities and differences between them highlighted. Methods of evaluating algorithms and their comparative performance are discussed including the consistency of claims made in the literature. Approaches for dealing with data noise in real-world datasets and incorporating expert knowledge into the learning process are also covered."
-
-47m ago
-
----
-
-**[Even the man behind ChatGPT, OpenAI CEO Sam Altman is worried about the ‘rate of change that’s happening in the world right now’ thanks to AI | Fortune](https://www.reddit.com/r/artificial/comments/1pikz2q/even_the_man_behind_chatgpt_openai_ceo_sam_altman/)**
-
-Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as AI shakes up jobs, education, and the global economy.
-
-🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 17h ago
+🔗 [Consumer Reports](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) • 12h ago
 
 ---
 
@@ -121,21 +119,7 @@ Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as A
 
 **[Meta’s New A.I. Superstars Are Chafing Against the Rest of the Company](https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html)**
 
-The New York Times • 5h ago
-
----
-
-**[Inside Meta’s Pivot From Open Source to Money-Making AI Model](https://www.bloomberg.com/news/articles/2025-12-10/inside-meta-s-pivot-from-open-source-to-money-making-ai-model)**
-
-Meta Platforms Inc.’s Mark Zuckerberg, months into building one of the priciest teams in technology history, is getting personally involved in day-to-day work and pivoting the company’s focus to an artificial intelligence model it can make money off of.
-
-Bloomberg.com • 1h ago
-
----
-
-**[Watch Meta’s Zuckerberg Directs Pivot to Money-Making AI Model](https://www.bloomberg.com/news/videos/2025-12-10/meta-s-zuckerberg-pivoting-to-money-making-ai-model-video)**
-
-Bloomberg.com • 1h ago
+The New York Times • 6h ago
 
 ---
 
@@ -143,7 +127,7 @@ Bloomberg.com • 1h ago
 
 McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
@@ -151,45 +135,63 @@ BBC • 3h ago
 
 Viewers blasted McDonald's satirical commercial as offensive, with critics questioning why anyone would 'ditch your family and hide in McDonald's.'
 
-Los Angeles Times • 11h ago
+Los Angeles Times • 12h ago
 
 ---
 
-**[McDonald's pulled a widely mocked 'AI slop' Christmas ad](https://qz.com/mcdonalds-ai-christmas-ad)**
+**[McDonald’s Pulls Down AI-Generated Holiday Ad After Deluge of Mockery](https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial)**
 
-qz.com • 1h ago
+McDonald's Netherlands is catching flak for a stupefying AI-generated video, which was roundly condemned on social media.
 
----
-
-**[Cryptographers Show That AI Protections Will Always Have Holes](https://www.quantamagazine.org/cryptographers-show-that-ai-protections-will-always-have-holes-20251210/)**
-
-Large language models such as ChatGPT come with filters to keep certain info from getting out. A new mathematical argument shows that systems like this can never be completely safe.
-
-Quanta Magazine • 20m ago
+Futurism • 22h ago
 
 ---
 
-**[Is SoundHound AI Stock Your Ticket to Becoming a Millionaire?](https://www.fool.com/investing/2025/12/10/is-soundhound-ai-stock-your-ticket-to-becoming-a-m/)**
+**[China’s DeepSeek Uses Banned Nvidia Chips for AI Model, Report Says](https://www.bloomberg.com/news/articles/2025-12-10/china-s-deepseek-uses-banned-nvidia-chips-for-ai-model-the-information-says)**
 
-This AI stock checks off several important boxes that increase its chances of being a millionaire maker.
+Chinese artificial intelligence startup DeepSeek has relied on Nvidia Corp. chips that are banned in the country to develop an upcoming AI model, according to a new report in The Information.
 
-The Motley Fool • 5h ago
-
----
-
-**[GE Vernova Soars After AI Spurs Higher Dividend and Buybacks](https://finance.yahoo.com/news/ge-vernova-boosts-buyback-doubles-211643355.html)**
-
-Shares of the supplier of electric-generation equipment climbed 16% to $723.09 at 9:38 a.m. in New York, a day after it doubled its dividend, increased the scope for share buybacks and raised earnings projections at an investor day in New York.  GE Vernova has benefited from soaring US demand for electricity, driven by data centers, artificial intelligence and overall electrification of the economy.  “AI is a real driver for us right now, but it isn’t the only driver,” Chief Executive Officer Scott Strazik said in an interview Tuesday.
-
-Yahoo Finance • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[The Case for Buying This Under-the-Radar AI Stock Before Its Next Big Catalyst](https://finance.yahoo.com/news/case-buying-under-radar-ai-110500977.html)**
+**[China adds domestic AI chips to official procurement list for first time](https://www.ft.com/content/83c6521e-fe42-49e2-a9fe-eda97168b316)**
 
-A big production capacity bet and a low valuation offer upside.
+Beijing encouraged purchase of Huawei and Cambricon processors before Trump’s move to allow Nvidia exports
 
-Yahoo Finance • 4h ago
+Financial Times • 15h ago
+
+---
+
+**[‘Greetings, earthlings’: Nvidia-backed Starcloud trains first AI model in space as orbital data center race heats up](https://www.cnbc.com/2025/12/10/nvidia-backed-starcloud-trains-first-ai-model-in-space-orbital-data-centers.html)**
+
+The company's Starcloud-1 satellite is running Gemma, an open model from Google, marking the first time in history that an LLM has been trained in outer space.
+
+CNBC • 2h ago
+
+---
+
+**[OpenAI Is in Trouble](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/)**
+
+The start-up is falling behind in the AI race.
+
+The Atlantic • 18h ago
+
+---
+
+**[How Trump’s AI push, energy prices and angry neighbors are colliding in the Arizona desert](https://www.cnn.com/2025/12/10/politics/data-center-arizona-kyrsten-sinema-trump)**
+
+The city of Chandler has spent years wrestling with the question of whether to build more data centers, just as communities around the country debate the economic and environmental tradeoffs of these hulking, resource-intensive warehouses.
+
+CNN • 5h ago
+
+---
+
+**[From Llamas to Avocados: Meta's shifting AI strategy is causing internal confusion](https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html)**
+
+Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
+
+CNBC • 1d ago
 
 ---
 
@@ -201,7 +203,7 @@ Yahoo Finance • 4h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 563 • 💬 577 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 564 • 💬 582 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -217,7 +219,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 324 • 💬 398 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 331 • 💬 401 • 1d ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -225,13 +227,13 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 269 • 💬 118 • 22h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 273 • 💬 123 • 23h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
 **[AI should only run as fast as we can catch up](https://news.ycombinator.com/item?id=46195198)**
 
-⬆️ 190 • 💬 174 • 1d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
+⬆️ 190 • 💬 175 • 1d ago • [higashi.blog](https://higashi.blog/2025/12/07/ai-verification/)
 
 ---
 
@@ -239,7 +241,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 147 • 💬 177 • 12h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 151 • 💬 181 • 13h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -253,7 +255,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 116 • 💬 24 • 19h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+⬆️ 116 • 💬 24 • 20h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -261,7 +263,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
 
-⬆️ 62 • 💬 86 • 14h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 64 • 💬 86 • 14h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
 
 ---
 
@@ -283,7 +285,7 @@ Zhipu AI just dropped the first real open source AI agent, and the entire indust
 
 📺 AI Revolution
 
-👁️ 25K • 👍 1K • 💬 48 • ⏱️ 12:50 • 15h ago
+👁️ 25K • 👍 1K • 💬 48 • ⏱️ 12:50 • 16h ago
 
 ---
 
@@ -293,7 +295,7 @@ In this episode, I sit down with @elonmusk for a wide-ranging conversation on DO
 
 📺 Katie Miller Pod
 
-👁️ 139K • 👍 7K • 💬 2K • ⏱️ 52:58 • 16h ago
+👁️ 139K • 👍 7K • 💬 2K • ⏱️ 52:58 • 17h ago
 
 ---
 
@@ -303,7 +305,7 @@ JP Morgan Chase Chairman and CEO Jamie Dimon discusses the A.I. revolution, cryp
 
 📺 Fox Business
 
-👁️ 124K • 👍 2K • 💬 548 • ⏱️ 18:47 • 1d ago
+👁️ 124K • 👍 2K • 💬 548 • ⏱️ 18:47 • 2d ago
 
 ---
 
@@ -313,7 +315,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 824K • 👍 42K • 💬 5K • ⏱️ 8:35 • 19h ago
+👁️ 824K • 👍 42K • 💬 5K • ⏱️ 8:35 • 20h ago
 
 ---
 
@@ -333,7 +335,7 @@ Reacting To AI Videos Of Myself Join My Secret Discord: https://discord.gg/hxsai
 
 📺 hxsain
 
-👁️ 264K • 👍 22K • 💬 245 • ⏱️ 0:51 • 21h ago
+👁️ 264K • 👍 22K • 💬 245 • ⏱️ 0:51 • 22h ago
 
 ---
 
@@ -343,7 +345,7 @@ Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/d
 
 📺 Matthew Berman
 
-👁️ 44K • 👍 1K • 💬 171 • ⏱️ 9:41 • 16h ago
+👁️ 44K • 👍 1K • 💬 171 • ⏱️ 9:41 • 17h ago
 
 ---
 
@@ -387,7 +389,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 67,717 • ❤️ 637 • 1d ago
+⬇️ 67,717 • ❤️ 640 • 1d ago
 
 ---
 
@@ -399,7 +401,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 232,896 • ❤️ 2,470 • 1d ago
+⬇️ 232,896 • ❤️ 2,471 • 1d ago
 
 ---
 
@@ -411,7 +413,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 10,031 • ❤️ 286 • 21h ago
+⬇️ 10,031 • ❤️ 286 • 22h ago
 
 ---
 
@@ -423,7 +425,7 @@ GLM-4.6V is a multimodal model supporting image-text-to-text generation with nat
 
 `image-text-to-text` `107.7B`
 
-⬇️ 1,305 • ❤️ 234 • 1d ago
+⬇️ 1,305 • ❤️ 236 • 1d ago
 
 ---
 
@@ -447,7 +449,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 203 • 22h ago
+⬇️ 2,414 • ❤️ 204 • 23h ago
 
 ---
 
@@ -459,7 +461,7 @@ Rnj-1-instruct is an 8B parameter instruction-tuned LLM optimized for code and S
 
 `text-generation` `8.3B`
 
-⬇️ 444,785 • ❤️ 181 • 1d ago
+⬇️ 444,785 • ❤️ 182 • 1d ago
 
 ---
 
@@ -495,7 +497,7 @@ Nemotron-Orchestrator-8B is an 8B parameter model that intelligently orchestrate
 
 `text-generation` `8.2B`
 
-⬇️ 15,773 • ❤️ 421 • 8d ago
+⬇️ 15,773 • ❤️ 422 • 8d ago
 
 ---
 
@@ -613,6 +615,18 @@ LongCat-Image is a bilingual open-source foundation model for image generation t
 
 ---
 
+**[LightRAG: Simple and Fast Retrieval-Augmented Generation](https://huggingface.co/papers/2410.05779)**
+
+*Zirui Guo, Lianghao Xia, Yanhua Yu et al. (5 authors)*
+
+LightRAG improves Retrieval-Augmented Generation by integrating graph structures for enhanced contextual awareness and efficient information retrieval, achieving better accuracy and response times.
+
+▲ 24 • 💬 0 • ⭐ 25,723 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.05779) • [💻 code](https://github.com/hkuds/lightrag)
+
+---
+
 **[SAM 3: Segment Anything with Concepts](https://huggingface.co/papers/2511.16719)**
 
 *Nicolas Carion, Laura Gustafson, Yuan-Ting Hu et al. (38 authors)*
@@ -627,21 +641,19 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 ---
 
-**[RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards](https://huggingface.co/papers/2512.00473)**
-
-*Junyan Ye, Leiqi Zhu, Yuncheng Guo et al. (10 authors)*
-
-RealGen is a photorealistic text-to-image framework that uses an LLM for prompt optimization and a diffusion model for image generation, enhanced by a Detector Reward mechanism and RealBench for automated evaluation.
-
-▲ 19 • 💬 2 • ⭐ 178 • 11d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.00473) • [💻 code](https://github.com/yejy53/RealGen) • [🔗 project](https://yejy53.github.io/RealGen/)
-
----
-
 ---
 
 ## GitHub Repositories: "ai"
+
+**[zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)**
+
+An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
+
+`Python` `agent` `phone-use-agent`
+
+⭐ 5.0k • 🔱 834 • 21m ago
+
+---
 
 **[glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker)**
 
@@ -659,7 +671,7 @@ RealGen is a photorealistic text-to-image framework that uses an LLM for prompt 
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.6k • 🔱 187 • 4h ago
+⭐ 1.6k • 🔱 190 • 4h ago
 
 ---
 
@@ -679,7 +691,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 129 • 6h ago
+⭐ 1.0k • 🔱 129 • 7h ago
 
 ---
 
@@ -689,7 +701,17 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 917 • 🔱 65 • 1d ago
+⭐ 918 • 🔱 65 • 1d ago
+
+---
+
+**[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**
+
+An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
+`Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
+
+⭐ 869 • 🔱 274 • 4d ago
 
 ---
 
@@ -700,16 +722,6 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
 ⭐ 868 • 🔱 22 • 2d ago
-
----
-
-**[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)**
-
-An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-
-`Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
-
-⭐ 867 • 🔱 273 • 4d ago
 
 ---
 
@@ -730,16 +742,6 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 `Python`
 
 ⭐ 580 • 🔱 45 • 7d ago
-
----
-
-**[TanShilongMario/PromptFill](https://github.com/TanShilongMario/PromptFill)**
-
-一个专为 AI 绘画（Nano Banana 等）设计的“结构化提示词生成工具”。通过可视化的“填空”交互方式，帮助用户快速构建、管理和迭代复杂的 Prompt。
-
-`JavaScript`
-
-⭐ 556 • 🔱 81 • 1d ago
 
 ---
 
