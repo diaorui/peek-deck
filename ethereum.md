@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T08:59:04.354361+00:00'
+updated: '2025-12-10T09:33:55.190832+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 08:59 UTC  
+**Last Updated:** December 10, 2025 at 09:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,312.62
+### $3,317.66
 
 ---
 
@@ -44,7 +44,7 @@ Live Ethereum monitoring dashboard
 
 **24h:** +6.9%  
 **7d:** +6.1%  
-**30d:** -2.7%  
+**30d:** -2.6%  
 **90d:** -29.3%  
 **1y:** -13.3%  
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $401.28B
+**Market Cap:** $400.40B
 Rank #2
 
 **Circulating Supply:** 120,695,213 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.8%
+-32.9%
 
 **All-Time Low:** $0.43
-+767925.7%
++766775.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey everyone, I’ve been down a pretty deep rabbit hole looking for a hot walle
 
 A detailed look at the incidents, recovery, and the network’s state after Ethereum’s latest upgrade.
 
-🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 22h ago
+🔗 [EtherWorld.co](https://etherworld.co/2025/12/05/post-fusaka-ethereum-what-has-happened-so-far/) • 23h ago
 
 ---
 
@@ -154,7 +154,13 @@ AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ether
 
 Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
+
+---
+
+**[XRP Price Prediction 2026: Ethereum Target 170% Surge as 2021 Pattern Emerges, While DeepSnitch A...](https://www.binance.com/en/square/post/33443073363002)**
+
+Binance • 1d ago
 
 ---
 
@@ -162,15 +168,7 @@ Yahoo Finance • 15h ago
 
 Key PointsEthereum has built a strong user base and frequently generates over $10 million in daily app fees.
 
-Nasdaq • 16h ago
-
----
-
-**[XRP Goes Turbo: Fastest U.S. Crypto ETF to Hit $1B AUM After Ethereum](https://coinpaper.com/12979/xrp-goes-turbo-fastest-u-s-crypto-etf-to-hit-1-b-aum-after-ethereum)**
-
-XRP becomes the fastest U.S. crypto spot ETF to hit $1B AUM in under four weeks, highlighting soaring demand for regulated digital assets.
-
-Coinpaper • 19h ago
+Nasdaq • 17h ago
 
 ---
 
@@ -179,14 +177,6 @@ Coinpaper • 19h ago
 Japan is considering a big change to how it taxes crypto.
 
 The Motley Fool • 1d ago
-
----
-
-**[Bitcoin steady near $92K; Ethereum rallies past $3,300 ahead of Fed policy outcome](https://m.economictimes.com/markets/cryptocurrency/crypto-news/bitcoin-steady-near-92k-ethereum-rallies-past-3300-ahead-of-fed-policy-outcome/articleshow/125884307.cms)**
-
-Bitcoin and Ethereum surged ahead of the US Fed policy outcome, with Bitcoin nearing $92,000 and Ethereum jumping nearly 7%. Major altcoins also saw significant gains, contributing to a rise in global crypto market capitalization. Analysts anticipate a liquidity-driven rally if the Fed signals a dovish stance.
-
-The Economic Times • 2h ago
 
 ---
 
@@ -228,47 +218,25 @@ Fortune • 1d ago
 
 ---
 
+**[Dogecoin (DOGE), Ethereum (ETH) News: Memecoin Spikes as Ether Surges](https://www.coindesk.com/markets/2025/12/10/breakout-or-bull-trap-doge-jumps-above-resistance-on-ethereum-strength)**
+
+Despite the breakout, DOGE faces significant structural resistance from major EMAs.
+
+CoinDesk • 1h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[WOW: Insider Whale Just Opened A Mega $ETH Long! [Copy Them?]](https://www.youtube.com/watch?v=bA0YlnGLFII)**
+**[I Can’t Believe This Is Happening!! All Hell Is Breaking Loose In Crypto!!](https://www.youtube.com/watch?v=2ZqztKdMquI)**
 
-A huge ETH whale just opened a massive sized position. In today's video, Kyledoops shares the significance of this and whether ...
+Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=altcoin-daily Altcoin Daily Merch - While ...
 
-📺 Crypto Banter
+📺 Altcoin Daily
 
-👁️ 1K • 👍 163 • 3h ago
-
----
-
-**[Ethereum Surges Ahead of Fed Meeting🚨](https://www.youtube.com/watch?v=lGMmb25t_F8)**
-
-Bitcoin and Ethereum surged amid anticipation that the US central bank will cut rates tomorrow. ~This episode is sponsored by ...
-
-📺 Paul Barron Network
-
-👁️ 38K • 👍 2K • 💬 98 • ⏱️ 20:14 • 12h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=CtiO05cUc50)**
-
-BITCOIN & ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 279 • 💬 71 • ⏱️ 21:02 • 9h ago
-
----
-
-**[Tom Lee&#39;s New Ethereum Price Prediction is INSANE](https://www.youtube.com/watch?v=Q7ICP7zFCCs)**
-
-Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee and Howard Lutnick argue it's something very ...
-
-📺 The Bitcoin Revolution
-
-👁️ 15K • 👍 448 • 💬 211 • ⏱️ 12:46 • 1d ago
+👁️ 48K • 👍 3K • 💬 209 • ⏱️ 12:03 • 9h ago
 
 ---
 
@@ -278,27 +246,37 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 144 • 💬 5 • ⏱️ 5:16 • 6h ago
+👁️ 2K • 👍 184 • 💬 8 • ⏱️ 5:16 • 7h ago
 
 ---
 
-**[Is Ethereum the Next Amazon? Haseeb Qureshi on Revenue, Profit &amp; Long-Term Value](https://www.youtube.com/watch?v=Z5z-ewWs0Aw)**
+**[Ethereum Surges Ahead of Fed Meeting🚨](https://www.youtube.com/watch?v=lGMmb25t_F8)**
 
-Ethereum has critics calling it “overvalued”… but what if everyone is looking at the wrong metric? In this episode, Dragonfly's ...
+Bitcoin and Ethereum surged amid anticipation that the US central bank will cut rates tomorrow. ~This episode is sponsored by ...
 
-📺 Milk Road
+📺 Paul Barron Network
 
-👁️ 3K • 👍 124 • 💬 75 • ⏱️ 35:26 • 13h ago
+👁️ 40K • 👍 2K • 💬 99 • ⏱️ 20:14 • 13h ago
 
 ---
 
-**[The &quot;Supply Crunch&quot;: What Happens If BMNR Locks 5% of Ethereum?](https://www.youtube.com/watch?v=i_0DC9hO3dY)**
+**[BITCOIN &amp; ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=CtiO05cUc50)**
 
-Breaking News: BitMine Immersion Technologies (BMNR) has officially crossed the threshold, now controlling 3.2% of the total ...
+BITCOIN & ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethereum & Altcoins *Pionex* ...
 
-📺 CryptoStock Lab
+📺 Crypto World
 
-👁️ 437 • 👍 26 • ⏱️ 7:09 • 14h ago
+👁️ 7K • 👍 293 • 💬 67 • ⏱️ 21:02 • 10h ago
+
+---
+
+**[Tom Lee&#39;s New Ethereum Price Prediction is INSANE](https://www.youtube.com/watch?v=Q7ICP7zFCCs)**
+
+Ethereum's drop from $4800 to $2800 has been called a collapse — but Tom Lee and Howard Lutnick argue it's something very ...
+
+📺 The Bitcoin Revolution
+
+👁️ 15K • 👍 455 • 💬 211 • ⏱️ 12:46 • 1d ago
 
 ---
 
@@ -308,17 +286,37 @@ Breaking News: BitMine Immersion Technologies (BMNR) has officially crossed the 
 
 📺 Stock Moe
 
-👁️ 10K • 👍 690 • 💬 77 • ⏱️ 13:03 • 12h ago
+👁️ 10K • 👍 692 • 💬 67 • ⏱️ 13:03 • 12h ago
 
 ---
 
-**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2025 New Prediction]](https://www.youtube.com/watch?v=8x2DjiAw3uI)**
+**[Is Ethereum the Next Amazon? Haseeb Qureshi on Revenue, Profit &amp; Long-Term Value](https://www.youtube.com/watch?v=Z5z-ewWs0Aw)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+Ethereum has critics calling it “overvalued”… but what if everyone is looking at the wrong metric? In this episode, Dragonfly's ...
 
-📺 Crypto Nutshell
+📺 Milk Road
 
-👁️ 10K • 👍 364 • 💬 27 • ⏱️ 15:50 • 1d ago
+👁️ 4K • 👍 132 • 💬 82 • ⏱️ 35:26 • 13h ago
+
+---
+
+**[Bitcoin &amp; Ethereum. Wie gehts weiter für Bitcoin?? Sollte Ich JETZT meine Meinung ändern??](https://www.youtube.com/watch?v=6dR9m7BGis0)**
+
+Kanalmitglied werden und exklusive Vorteile erhalten: https://www.youtube.com/channel/UCGUi8e21DGy9YzbkRs1cxTQ/join DIE ...
+
+📺 Krypto Trading & Investing
+
+👁️ 4K • 👍 811 • 💬 136 • ⏱️ 11:31 • 4h ago
+
+---
+
+**[ETH Ethereum PUMPING NOW!!!! Multi Day Consolidation Awaits](https://www.youtube.com/watch?v=PfBHV0uYBfM)**
+
+Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
+
+📺 C-Zar Gets Crypto 
+
+👁️ 1K • 👍 60 • 💬 43 • ⏱️ 13:32 • 14h ago
 
 ---
 
@@ -328,7 +326,7 @@ BloFin – Up to $5,000 bonus + No Restrictions https://marzell.org/Blofin_Trade
 
 📺 Marzell Crypto
 
-👁️ 3K • 👍 78 • 💬 44 • ⏱️ 6:25 • 1d ago
+👁️ 3K • 👍 78 • 💬 45 • ⏱️ 6:25 • 1d ago
 
 ---
 

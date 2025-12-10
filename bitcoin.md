@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T08:59:04.349044+00:00'
+updated: '2025-12-10T09:33:55.184890+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 08:59 UTC  
+**Last Updated:** December 10, 2025 at 09:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.5%  
-**7d:** +0.7%  
-**30d:** -10.1%  
-**90d:** -20.2%  
-**1y:** -8.2%  
+**24h:** +2.7%  
+**7d:** +0.6%  
+**30d:** -10.2%  
+**90d:** -20.3%  
+**1y:** -8.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1848.41B
+**Market Cap:** $1846.60B
 Rank #1
 
-**Circulating Supply:** 19,960,096 BTC
+**Circulating Supply:** 19,960,112 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.5%
+-26.6%
 
 **All-Time Low:** $67.81
-+136474.3%
++136363.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 The Mods don't want you to see bullish memes. Vote against the bears.
 
-2h ago
+3h ago
 
 ---
 
@@ -109,33 +109,13 @@ On December 9th, in an unexpected turn for traditional finance, the price of Bit
 
 Sooner or later it will bounce to new highs, or not
 
-2h ago
+3h ago
 
 ---
 
 **[Idk how you guys didn't see through this](https://www.reddit.com/r/Bitcoin/comments/1piox5t/idk_how_you_guys_didnt_see_through_this/)**
 
-7h ago
-
----
-
-**[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
-
-20h ago
-
----
-
-**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pier04/daily_meme_until_100000/)**
-
-14h ago
-
----
-
-**[$94,000 vanished before I could wake up.](https://www.reddit.com/r/Bitcoin/comments/1pisu13/94000_vanished_before_i_could_wake_up/)**
-
-I saw notifications of $94,000 BTC on my phone on waking up. Too bad it was already gone.
-
-4h ago
+8h ago
 
 ---
 
@@ -145,19 +125,39 @@ I saw notifications of $94,000 BTC on my phone on waking up. Too bad it was alre
 
 ---
 
+**[this](https://www.reddit.com/r/Bitcoin/comments/1pi6qzw/this/)**
+
+20h ago
+
+---
+
+**[$94,000 vanished before I could wake up.](https://www.reddit.com/r/Bitcoin/comments/1pisu13/94000_vanished_before_i_could_wake_up/)**
+
+I saw notifications of $94,000 BTC on my phone on waking up. Too bad it was already gone.
+
+5h ago
+
+---
+
+**[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pier04/daily_meme_until_100000/)**
+
+15h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
 **[Bitcoin Price Jumps As Tether-Backed Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 9h ago
+Investor's Business Daily • 10h ago
 
 ---
 
 **[Bitcoin treasury XXI shares sink 20% in NYSE debut despite rising BTC price](https://www.theblock.co/post/381975/twenty-one-shares-sink-20-nyse-debut-despite-rising-bitcoin-price)**
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -165,7 +165,7 @@ The Block • 10h ago
 
 Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -181,7 +181,27 @@ Yahoo Finance • 1d ago
 
 If you want to make Bitcoin, you need powerful computers and a lot of energy. Well, it turns out the same infrastructure needed for Bitcoin mining is pretty valuable in the era of AI. Today on the show, why some miners are starting to throw in the towel on crypto in favor of supporting AI infrastructure. Related episodes: Whose financing Meta’s massive AI Data Center?This indicator hasn’t flashed this red since the dot-com bubbleFor sponsor-free episodes of The Indicator from Planet Money, subscribe to Planet Money+ via Apple Podcasts or at plus.npr.org. Fact-checking by Sierra Juarez. Music by Drop Electric. Find us: TikTok, Instagram, Facebook, Newsletter.
 
-NPR • 54m ago
+NPR • 1h ago
+
+---
+
+**[Bitcoin jumps to $94,000, but ‘hawkish’ Fed cut threatens the crypto rally](https://finance.yahoo.com/news/bitcoin-jumps-to-94000-but-hawkish-fed-cut-threatens-the-crypto-rally-164647204.html)**
+
+The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
+
+Yahoo Finance • 16h ago
+
+---
+
+**[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance)**
+
+The Block • 21h ago
+
+---
+
+**[Bitcoin Rises. Why the Crypto May Fall Below $90,000 Even after Fed Rate Cut.](https://www.barrons.com/articles/bitcoin-crypto-today-fed-rate-cut-419615db?gaa_at=eafs&gaa_n=AWEtsqepAGXrvMv9r-aD8b-I3Viagadvr_3CM0QIR1V75f5KDwaFyQ1yM9eZ&gaa_ts=693941f1&gaa_sig=pYdl7jm1z5sP0882_JYJ7sw7Qz-Lf3fCXhE0xbA9cGYXqpICuSLK_c-LMjJHMM0Ma9-D7LyZVdQG6hvhjed1QQ%3D%3D)**
+
+Barron's • 36m ago
 
 ---
 
@@ -197,25 +217,7 @@ CNBC • 14h ago
 
 Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
 
-Bloomberg.com • 15h ago
-
----
-
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqcMBZdmjR6jomxnZ7fpLnWFfXrDbmdPiPq28r6eP69lJjrIi1co6a-Q&gaa_ts=69393531&gaa_sig=IfOZbsBC-y2Vx7WidNpyaVpE2I6hndNhhnvWC-w99fn96L3BeaZ0QNDh-JjObXMEhCJ0ECTvv9EqPlbUyGMH6w%3D%3D)**
-
-MarketWatch • 9h ago
-
----
-
-**[‘He almost has to keep buying’: Why Michael Saylor’s Strategy is doubling down on bitcoin.](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6?gaa_at=eafs&gaa_n=AWEtsqdn5ergUGpeyTfSZ0JDc0K-3Ir5jwovS9YQtfTc-8br2L9RWOKWm8Mq&gaa_ts=69393531&gaa_sig=IDKC1MbqpULSTq94M92V7mI31u5_S4lQw2K_DSTGf-xl53SrhkjW3Y8fYVdadql-t8P8tytMOhRJaDLNfpkWwg%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
-**[Michael Saylor's Strategy buys another 10,624 bitcoin for $963 million as treasury holdings reach 660,624 BTC](https://www.theblock.co/post/381668/michael-saylors-strategy-buys-more-bitcoin)**
-
-The Block • 1d ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -271,7 +273,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 15h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 16h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -307,17 +309,7 @@ Anthony and John Pompliano dig into what's really at stake at the upcoming Feder
 
 📺 Anthony Pompliano
 
-👁️ 18K • 👍 738 • 💬 15 • ⏱️ 35:48 • 10h ago
-
----
-
-**[Michael Saylor Keynote | Bitcoin MENA 2025](https://www.youtube.com/watch?v=rQMFrpUFcNM)**
-
-Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation of a new global financial system. In this keynote, Saylor ...
-
-📺 Bitcoin Magazine
-
-👁️ 53K • 👍 2K • 💬 285 • ⏱️ 42:27 • 16h ago
+👁️ 20K • 👍 766 • 💬 15 • ⏱️ 35:48 • 11h ago
 
 ---
 
@@ -327,7 +319,7 @@ Jack Mallers, Tether, SoftBank, and Cantor Fitzgerald just launched the most exp
 
 📺 Simply Bitcoin
 
-👁️ 33K • 👍 2K • 💬 138 • ⏱️ 16:39 • 9h ago
+👁️ 38K • 👍 2K • 💬 150 • ⏱️ 16:39 • 9h ago
 
 ---
 
@@ -337,57 +329,7 @@ Trade Crypto, Gold, and Silver 24/7 with tax advantages, 1% fees, top security, 
 
 📺 Savvy Finance
 
-👁️ 10K • 👍 393 • 💬 16 • ⏱️ 20:58 • 1d ago
-
----
-
-**[HUGE Bitcoin Reversal Incoming - Here&#39;s Why](https://www.youtube.com/watch?v=fEX9E7tYdfs)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 32K • 👍 2K • 💬 227 • ⏱️ 44:49 • 17h ago
-
----
-
-**[Michael Saylor: “We’re Buying More Bitcoin Than Sellers Can Sell”](https://www.youtube.com/watch?v=Io3V7H-862c)**
-
-Michael Saylor declares he's more bullish than ever, stating his team can buy more Bitcoin than sellers can sell—and that they're ...
-
-📺 Bitcoin Magazine
-
-👁️ 9K • 👍 234 • 💬 30 • ⏱️ 0:36 • 17h ago
-
----
-
-**[The Fed Just Set the Stage for a Major Crypto Market Rally in 2026](https://www.youtube.com/watch?v=eVTxYvUrTgI)**
-
-LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Start Trading on Polymarket (#1 ...
-
-📺 Altcoin Daily
-
-👁️ 66K • 👍 3K • 💬 259 • ⏱️ 10:16 • 1d ago
-
----
-
-**[bitcoin just broke the model](https://www.youtube.com/watch?v=hWFQHVBrJN8)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 22K • 👍 1K • 💬 302 • ⏱️ 7:23 • 15h ago
-
----
-
-**[Did Michael Saylor’s BIG LONG Just Trigger a Bitcoin Supercycle?!](https://www.youtube.com/watch?v=RTWgQ_EkFQ0)**
-
-Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. Jack Maullers? Just dropped 43K BTC into ...
-
-📺 Simply Bitcoin
-
-👁️ 50K • 👍 4K • 💬 289 • ⏱️ 16:35 • 1d ago
+👁️ 10K • 👍 400 • 💬 14 • ⏱️ 20:58 • 1d ago
 
 ---
 
@@ -397,7 +339,67 @@ In this clip, I talk about a major macro event that could impact bitcoin and cry
 
 📺 CryptosRus Extra
 
-👁️ 6K • 👍 427 • 💬 98 • ⏱️ 8:42 • 8h ago
+👁️ 7K • 👍 467 • 💬 104 • ⏱️ 8:42 • 9h ago
+
+---
+
+**[Michael Saylor Keynote | Bitcoin MENA 2025](https://www.youtube.com/watch?v=rQMFrpUFcNM)**
+
+Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation of a new global financial system. In this keynote, Saylor ...
+
+📺 Bitcoin Magazine
+
+👁️ 56K • 👍 2K • 💬 268 • ⏱️ 42:27 • 16h ago
+
+---
+
+**[HUGE Bitcoin Reversal Incoming - Here&#39;s Why](https://www.youtube.com/watch?v=fEX9E7tYdfs)**
+
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
+
+📺 CryptosRUs
+
+👁️ 33K • 👍 2K • 💬 187 • ⏱️ 44:49 • 18h ago
+
+---
+
+**[The Fed Just Set the Stage for a Major Crypto Market Rally in 2026](https://www.youtube.com/watch?v=eVTxYvUrTgI)**
+
+LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Start Trading on Polymarket (#1 ...
+
+📺 Altcoin Daily
+
+👁️ 67K • 👍 3K • 💬 252 • ⏱️ 10:16 • 1d ago
+
+---
+
+**[This Is NOT Normal… Bitcoin Is Warning Us.](https://www.youtube.com/watch?v=0TNP_l8V3tc)**
+
+Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BUUID (up to $2200 USDT) My Strategy ...
+
+📺 Conor Kenny
+
+👁️ 5K • 👍 387 • 💬 46 • ⏱️ 12:36 • 3h ago
+
+---
+
+**[Bitcoin Pre-FOMC](https://www.youtube.com/watch?v=kZGHzEGRyAM)**
+
+Let's talk about the price of #Bitcoin going into FOMC! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com Into ...
+
+📺 Benjamin Cowen
+
+👁️ 71K • 👍 4K • 💬 162 • ⏱️ 9:09 • 20h ago
+
+---
+
+**[Did Michael Saylor’s BIG LONG Just Trigger a Bitcoin Supercycle?!](https://www.youtube.com/watch?v=RTWgQ_EkFQ0)**
+
+Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. Jack Maullers? Just dropped 43K BTC into ...
+
+📺 Simply Bitcoin
+
+👁️ 50K • 👍 4K • 💬 282 • ⏱️ 16:35 • 1d ago
 
 ---
 

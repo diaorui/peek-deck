@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T08:59:04.357209+00:00'
+updated: '2025-12-10T09:33:55.194014+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 08:59 UTC  
+**Last Updated:** December 10, 2025 at 09:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Just saw this paper published in Nature Communications and thought it was a massive leap for prosthetics The Problem: Conventional bionic hands require the user to "think" significantly about every muscle flex to trigger a grip. It’s mentally exhausting (high cognitive load). The Solution: The team at Utah equipped a prosthetic with Custom Sensors: Pressure and proximity sensors in the fingertips & AI Neural Network: Trained on natural human grasping patterns. Result: The hand "understands" what it's touching. If the user initiates a grasp, the AI takes over the fine motor control to secure the object (like a delicate egg or a heavy cup) without the user needing to micro manage the pressure. It basically creates a "reflex" system for the robotic hand, similar to how our biological spinal cord handles basic reflexes without bothering the brain. Source: Interesting Engineering/Nature Communications 🔗: https://interestingengineering.com/ai-robotics/ai-bionic-hand-grips-like-human
 
-54m ago
+1h ago
 
 ---
 
@@ -62,19 +62,11 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 ---
 
-**[Job Opening: Senior Robotics Engineer (Humanoid & Legged Robots) | India](https://www.reddit.com/r/robotics/comments/1pixl3d/job_opening_senior_robotics_engineer_humanoid/)**
-
-Hiring for an MNC Autonomous Robots | Humanoid, Legged & AMR Onsite – Chennai, India Experience: 3–6+ Years Notice Period: 15–30 Days Total Number of roles: 2 More info: https://robocademy.com/blog/job-opening-senior-robotics-engineer-humanoid-legged-robots
-
-21m ago
-
----
-
 **[Need help with digital twin of cobot using unity VR](https://www.reddit.com/r/robotics/comments/1piw40y/need_help_with_digital_twin_of_cobot_using_unity/)**
 
 I m trying to make a cobot digital twin in vr using Unity engine to create vr application. I m using esp32 to collect and control the kinematics of the robot. I will be using mqtt to transmit the data. I m not sure how to do the unity VR part. Please provide me some information on how to retrieve the mqtt data and use it to digital twin the cobot in VR unity application. It would be really helpful for me if you provide me with some knowledge about unity VR applications
 
-1h ago
+2h ago
 
 ---
 
@@ -90,7 +82,7 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 I’ve built a modular VLA prototype (physics-grounded LLM planning + explicit scene graph reasoning). The system can preemptively respond to predicted physical events (like a cup falling), and works well in simulation. My current hardware is limited, so I’m exploring what real robot platforms people usually use for research along these lines. Franka, UR, or others? If you’re working on similar ideas, feel free to share your experience — I’m trying to understand what setups are common, and what challenges to expect. Happy to show a short demo as well.
 
-2h ago
+3h ago
 
 ---
 
@@ -107,6 +99,14 @@ North American robot orders picked up again in Q3 2025, pointing to renewed mome
 Engineers build artificial tendons that let muscle-powered robots move faster and pull harder, marking a major step for biohybrid machines.
 
 🔗 [The Brighter Side of News](http://thebrighterside.news/post/mit-engineers-give-biohybrid-robots-a-power-upgrade-with-synthetic-tendons) • 15h ago
+
+---
+
+**[Job Opening: Senior Robotics Engineer (Humanoid & Legged Robots) | India](https://www.reddit.com/r/robotics/comments/1pixl3d/job_opening_senior_robotics_engineer_humanoid/)**
+
+Hiring for an MNC Autonomous Robots | Humanoid, Legged & AMR Onsite – Chennai, India Experience: 3–6+ Years Notice Period: 15–30 Days Total Number of roles: 2 More info: https://robocademy.com/blog/job-opening-senior-robotics-engineer-humanoid-legged-robots
+
+56m ago
 
 ---
 
@@ -136,19 +136,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
-
-Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
-
-Bloomberg.com • 1d ago
-
----
-
 **[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
 
 Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
 
 Decrypt • 1d ago
+
+---
+
+**[Tether Backs Italian Humanoid-Robotics Firm as AI Push Builds](https://www.bloomberg.com/news/articles/2025-12-08/tether-backs-italian-humanoid-robotics-firm-as-ai-push-builds)**
+
+Stablecoin giant Tether has joined a €70 million ($81.6 million) funding round for Italy-based Generative Bionics, a humanoid-robotics startup developing industrial robots built using research from the Italian Institute of Technology.
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -204,13 +204,13 @@ National Defense Magazine • 2d ago
 
 ---
 
-**[Humanoid robots do housework while taking care of babies!](https://www.youtube.com/watch?v=QkGL5UXwLss)**
+**[China Just Built the REAL-LIFE Terminator AI Robot — EngineAI&#39;s T800 Robot SHOCKS WORLD](https://www.youtube.com/watch?v=BF_VLuF3QxA)**
 
-Humanoid robots do housework while taking care of babies! #humanoidrobot #robot #ai #humanoid #robotics #technology ...
+China has officially unveiled a humanoid robot that looks straight out of a sci-fi movie — EngineAI's new T800. This real-life ...
 
-📺 NUROBIQ
+📺 The AI Nexus
 
-👁️ 135K • 👍 719 • 💬 7 • ⏱️ 0:10 • 6d ago
+👁️ 32K • 👍 634 • 💬 151 • ⏱️ 18:46 • 4d ago
 
 ---
 
@@ -220,17 +220,7 @@ EngineAI has taken the global robotics scene by surprise with a humanoid robot c
 
 📺 AI Tech Academy
 
-👁️ 32K • 👍 741 • 💬 252 • ⏱️ 14:26 • 1d ago
-
----
-
-**[China Just Built the REAL-LIFE Terminator AI Robot — EngineAI&#39;s T800 Robot SHOCKS WORLD](https://www.youtube.com/watch?v=BF_VLuF3QxA)**
-
-China has officially unveiled a humanoid robot that looks straight out of a sci-fi movie — EngineAI's new T800. This real-life ...
-
-📺 The AI Nexus
-
-👁️ 32K • 👍 632 • 💬 151 • ⏱️ 18:46 • 4d ago
+👁️ 34K • 👍 795 • 💬 266 • ⏱️ 14:26 • 1d ago
 
 ---
 
@@ -240,17 +230,7 @@ JOIN THE AI LABS:* https://firstmovers.ai/labs/ Code “FIRSTMOVER” saves you 
 
 📺 Julia McCoy
 
-👁️ 119K • 👍 6K • 💬 806 • ⏱️ 19:33 • 3d ago
-
----
-
-**[Leaked: Trump’s Robot Exec Order - The Investment Opportunity of a Lifetime!?](https://www.youtube.com/watch?v=zNWcAI4dsvQ)**
-
-Ready to Learn from My Mentors? Book a Free Strategy Call at https://felixfriends.org/freedom Download the Workbook in Our ...
-
-📺 Felix & Friends (Goat Academy)
-
-👁️ 94K • 👍 3K • 💬 140 • ⏱️ 29:12 • 1d ago
+👁️ 120K • 👍 6K • 💬 812 • ⏱️ 19:33 • 3d ago
 
 ---
 
@@ -258,7 +238,7 @@ Ready to Learn from My Mentors? Book a Free Strategy Call at https://felixfriend
 
 📺 XRoboHub
 
-👁️ 522K • 👍 8K • 💬 872 • ⏱️ 0:22 • 6d ago
+👁️ 523K • 👍 8K • 💬 871 • ⏱️ 0:22 • 6d ago
 
 ---
 
@@ -268,7 +248,7 @@ Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G
 
 📺 Unitree Robotics
 
-👁️ 2.8M • 👍 1K • 💬 346 • ⏱️ 1:06 • 6d ago
+👁️ 2.8M • 👍 1K • 💬 347 • ⏱️ 1:06 • 6d ago
 
 ---
 
@@ -278,7 +258,17 @@ The race to build a truly humanlike running robot just got a major update, and t
 
 📺 DPCcars
 
-👁️ 199K • 👍 893 • 💬 296 • ⏱️ 1:03 • 3d ago
+👁️ 199K • 👍 894 • 💬 296 • ⏱️ 1:03 • 3d ago
+
+---
+
+**[T800 humanoid robot kicks its own CEO to dispute CGI claims](https://www.youtube.com/watch?v=muwbqYJWSkg)**
+
+The CEO of Chinese robotics company EngineAI put his body on the line to endure a kick from the company's T800 humanoid ...
+
+📺 The Straits Times
+
+👁️ 118K • 👍 544 • 💬 186 • ⏱️ 0:47 • 1d ago
 
 ---
 
@@ -288,7 +278,17 @@ AI Exosuit Robot Force Multiplier unveiled at the 2025 Silicon Valley Robotics E
 
 📺 AI Robot Lab
 
-👁️ 36K • 👍 398 • 💬 13 • ⏱️ 0:25 • 2d ago
+👁️ 37K • 👍 415 • 💬 13 • ⏱️ 0:25 • 3d ago
+
+---
+
+**[2025: This AI Caregiver Robot Comforts a Baby Like a Real Parent in a Silicon Valley Home](https://www.youtube.com/watch?v=LFTUzGo3rmM)**
+
+In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comforts a baby with perfect calm and precision.
+
+📺 AI Robot Lab
+
+👁️ 8K • 👍 84 • 💬 3 • ⏱️ 0:24 • 22h ago
 
 ---
 
