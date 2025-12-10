@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T09:33:55.194014+00:00'
+updated: '2025-12-10T09:51:45.613092+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 09:33 UTC  
+**Last Updated:** December 10, 2025 at 09:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 **[Self-driving delivery vehicles, in rural parts of China, now move along village roads by themselves, dropping off daily goods to local shops](https://www.reddit.com/r/robotics/comments/1pi4b61/selfdriving_delivery_vehicles_in_rural_parts_of/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -58,7 +58,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 "May the sensors be with you "
 
-20h ago
+21h ago
 
 ---
 
@@ -106,7 +106,7 @@ Engineers build artificial tendons that let muscle-powered robots move faster an
 
 Hiring for an MNC Autonomous Robots | Humanoid, Legged & AMR Onsite – Chennai, India Experience: 3–6+ Years Notice Period: 15–30 Days Total Number of roles: 2 More info: https://robocademy.com/blog/job-opening-senior-robotics-engineer-humanoid-legged-robots
 
-56m ago
+1h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 1d ago
 
 The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
 
-MLive.com • 16h ago
+MLive.com • 17h ago
 
 ---
 
@@ -172,7 +172,7 @@ MLive.com • 16h ago
 
 Tesla, Inc. remains a sentiment-driven asset despite strong fundamentals. Click here to read why TSLA stock is downgraded to a Hold.
 
-Seeking Alpha • 18h ago
+Seeking Alpha • 19h ago
 
 ---
 

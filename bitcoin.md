@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T09:33:55.184890+00:00'
+updated: '2025-12-10T09:51:45.603904+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
-- social
 - news
+- cryptocurrency
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 09:33 UTC  
+**Last Updated:** December 10, 2025 at 09:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.7%  
-**7d:** +0.6%  
-**30d:** -10.2%  
-**90d:** -20.3%  
-**1y:** -8.3%  
+**24h:** +3.0%  
+**7d:** +0.8%  
+**30d:** -10.0%  
+**90d:** -20.0%  
+**1y:** -8.1%  
 
 ---
 
@@ -95,13 +95,13 @@ The Mods don't want you to see bullish memes. Vote against the bears.
 
 On December 9th, in an unexpected turn for traditional finance, the price of Bitcoin regained the $94,000 mark, wiping out more than three weeks of losses. The failure of the anticipated failure of Bitcoin, and therefore all crypto, was met with lukewarm apathy by your family from Thanksgiving. "It's still just funny money," said Uncle Lou, who then unironically bragged about taking out a reverse-mortgage on the home he bought in 1974. Top analysts' warn that the trend, which they have dubbed an "inverted loss" of Bitcoin's value could continue in the long-term, and lead to a redistribution of financial power and wealth, which, according to my editor, would cause destabilization and volatility in the billionaire who owns this publication. More updates will be available as adoption makes this opinion obsolete. Appropriated Press, December 2025.
 
-4h ago
+5h ago
 
 ---
 
 **["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -189,19 +189,19 @@ NPR • 1h ago
 
 The prospect of a Fed cut accompanied by hawkish commentary from the central bank on Wednesday doesn't bode well for a bitcoin year-end rally.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
 **[Bitcoin holds $90,000 as markets await Fed rate cut decision and Powell's guidance](https://www.theblock.co/post/381861/bitcoin-holds-90000-usd-markets-await-fed-rate-cut-decision-powell-guidance)**
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
 **[Bitcoin Rises. Why the Crypto May Fall Below $90,000 Even after Fed Rate Cut.](https://www.barrons.com/articles/bitcoin-crypto-today-fed-rate-cut-419615db?gaa_at=eafs&gaa_n=AWEtsqepAGXrvMv9r-aD8b-I3Viagadvr_3CM0QIR1V75f5KDwaFyQ1yM9eZ&gaa_ts=693941f1&gaa_sig=pYdl7jm1z5sP0882_JYJ7sw7Qz-Lf3fCXhE0xbA9cGYXqpICuSLK_c-LMjJHMM0Ma9-D7LyZVdQG6hvhjed1QQ%3D%3D)**
 
-Barron's • 36m ago
+Barron's • 54m ago
 
 ---
 
@@ -209,7 +209,7 @@ Barron's • 36m ago
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -287,7 +287,7 @@ Millennials hold more crypto than any other Americans and are nearing peak divor
 
 **["He almost has to keep buying"](https://news.ycombinator.com/item?id=46206253)**
 
-⬆️ 2 • 💬 1 • 17h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
+⬆️ 2 • 💬 1 • 18h ago • [marketwatch.com](https://www.marketwatch.com/story/he-almost-has-to-keep-buying-why-michael-saylors-strategy-is-doubling-down-on-bitcoin-d6c8dcd6)
 
 ---
 
@@ -349,7 +349,7 @@ Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation o
 
 📺 Bitcoin Magazine
 
-👁️ 56K • 👍 2K • 💬 268 • ⏱️ 42:27 • 16h ago
+👁️ 56K • 👍 2K • 💬 268 • ⏱️ 42:27 • 17h ago
 
 ---
 
@@ -379,7 +379,7 @@ Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BU
 
 📺 Conor Kenny
 
-👁️ 5K • 👍 387 • 💬 46 • ⏱️ 12:36 • 3h ago
+👁️ 5K • 👍 387 • 💬 46 • ⏱️ 12:36 • 4h ago
 
 ---
 

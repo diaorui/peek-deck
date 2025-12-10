@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T09:33:55.176556+00:00'
+updated: '2025-12-10T09:51:45.595462+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 09:33 UTC  
+**Last Updated:** December 10, 2025 at 09:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 14h ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 15h ago
 
 ---
 
@@ -103,7 +103,7 @@ People keep talking about “fixing hallucination,” but nobody is asking the o
 
 U.S. military to use Google Gemini for new AI platform.[1] EU opens investigation into Google’s use of online content for AI models.[2] Microsoft invests US$17.5 billion in India to drive AI diffusion at population scale.[3] Three in 10 US teens use AI chatbots every day, but safety concerns are growing.[4] Sources: [1] https://www.axios.com/2025/12/09/pentagon-google-gemini-genai-military-platform [2] https://www.theguardian.com/technology/2025/dec/09/eu-investigation-google-ai-models-gemini [3] https://news.microsoft.com/source/asia/2025/12/09/microsoft-invests-us17-5-billion-in-india-to-drive-ai-diffusion-at-population-scale/ [4] https://techcrunch.com/2025/12/09/three-in-ten-u-s-teens-use-ai-chatbots-every-day-but-safety-concerns-are-growing/
 
-3h ago
+4h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 21h ago
 
 India, which is an emerging AI and cloud infrastructure hub, has witnessed a surge of global tech investment recently.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
@@ -145,7 +145,7 @@ BBC • 1h ago
 
 Amazon has committed to investing $$35 billion in India’s cloud and AI space by 2030, as hyperscalers race to get a foothold in the market.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -167,7 +167,7 @@ NPR • 1h ago
 
 Fairfax County students will get the opportunity to take classes in artificial intelligence, personal finance and cybersecurity, in the 2026 — 2027 school year.
 
-WTOP • 45m ago
+WTOP • 1h ago
 
 ---
 
@@ -509,7 +509,7 @@ Mistral Large 3 675B Instruct is a state-of-the-art multimodal MoE model with 41
 
 Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) model, achieves high-performance image generation with reduced computational cost, offering sub-second inference and compatibility with consumer hardware.
 
-▲ 176 • 💬 3 • ⭐ 6,104 • 12d ago
+▲ 177 • 💬 3 • ⭐ 6,226 • 12d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22699) • [💻 code](https://github.com/Tongyi-MAI/Z-Image) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -551,7 +551,7 @@ Live Avatar uses a 14-billion-parameter diffusion model with Timestep-forcing Pi
 
 PaperDebugger is an in-editor academic writing assistant that integrates large language models, enabling direct interaction within LaTeX editors for document state management, revision, and literature search.
 
-▲ 52 • 💬 2 • ⭐ 956 • 8d ago
+▲ 53 • 💬 2 • ⭐ 956 • 8d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.02589) • [💻 code](https://github.com/PaperDebugger/PaperDebugger) • [🔗 project](https://www.paperdebugger.com/)
 
@@ -657,7 +657,7 @@ Semantic-First Diffusion (SFD) enhances image generation by asynchronously denoi
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.5k • 🔱 172 • 2h ago
+⭐ 1.5k • 🔱 176 • 41m ago
 
 ---
 
@@ -677,7 +677,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 128 • 12h ago
+⭐ 1.0k • 🔱 129 • 37m ago
 
 ---
 
@@ -687,7 +687,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `Shell` `ai` `ai-agents` `claude` `claude-code` `continuous-ai`
 
-⭐ 909 • 🔱 65 • 22h ago
+⭐ 912 • 🔱 65 • 22h ago
 
 ---
 
@@ -697,7 +697,7 @@ A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent 
 
 `Rust` `game-development` `gamedev` `image-processing` `pixel-art`
 
-⭐ 862 • 🔱 22 • 2d ago
+⭐ 863 • 🔱 22 • 2d ago
 
 ---
 
@@ -707,7 +707,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 `Python` `ai-skills` `antigravity` `claude` `claude-code` `command-line`
 
-⭐ 856 • 🔱 272 • 4d ago
+⭐ 859 • 🔱 273 • 4d ago
 
 ---
 
@@ -727,7 +727,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `Python`
 
-⭐ 571 • 🔱 45 • 7d ago
+⭐ 573 • 🔱 45 • 7d ago
 
 ---
 
@@ -737,7 +737,7 @@ GigaWorld-0: World Models as Data Engine to Empower Embodied AI
 
 `JavaScript`
 
-⭐ 520 • 🔱 79 • 1d ago
+⭐ 526 • 🔱 79 • 1d ago
 
 ---
 
