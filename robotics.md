@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T12:38:34.179878+00:00'
+updated: '2025-12-10T13:25:30.382766+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 12:38 UTC  
+**Last Updated:** December 10, 2025 at 13:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Just saw this paper published in Nature Communications and thought it was a massive leap for prosthetics The Problem: Conventional bionic hands require the user to "think" significantly about every muscle flex to trigger a grip. It’s mentally exhausting (high cognitive load). The Solution: The team at Utah equipped a prosthetic with Custom Sensors: Pressure and proximity sensors in the fingertips & AI Neural Network: Trained on natural human grasping patterns. Result: The hand "understands" what it's touching. If the user initiates a grasp, the AI takes over the fine motor control to secure the object (like a delicate egg or a heavy cup) without the user needing to micro manage the pressure. It basically creates a "reflex" system for the robotic hand, similar to how our biological spinal cord handles basic reflexes without bothering the brain. Source: Interesting Engineering/Nature Communications 🔗: https://interestingengineering.com/ai-robotics/ai-bionic-hand-grips-like-human
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/199846578150436085
 
 From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Website: https://www.limxdynamics.com/en
 
-1h ago
+2h ago
 
 ---
 
@@ -60,7 +60,7 @@ From CyberRobo on 𝕏: https://x.com/CyberRobooo/status/1998287049909252426 Web
 
 Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
-23h ago
+1d ago
 
 ---
 
@@ -74,13 +74,13 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 "May the sensors be with you "
 
-23h ago
+1d ago
 
 ---
 
 **[Humanoid: What’s Different About Their Wrist Design?](https://www.reddit.com/r/robotics/comments/1pj0xfe/humanoid_whats_different_about_their_wrist_design/)**
 
-31m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 I m trying to make a cobot digital twin in vr using Unity engine to create vr application. I m using esp32 to collect and control the kinematics of the robot. I will be using mqtt to transmit the data. I m not sure how to do the unity VR part. Please provide me some information on how to retrieve the mqtt data and use it to digital twin the cobot in VR unity application. It would be really helpful for me if you provide me with some knowledge about unity VR applications
 
-5h ago
+6h ago
 
 ---
 
@@ -104,13 +104,19 @@ This is the Honghu T70, unveiled by Shiyan Guoke Honghu Technology. Unlike most 
 
 I’ve built a modular VLA prototype (physics-grounded LLM planning + explicit scene graph reasoning). The system can preemptively respond to predicted physical events (like a cup falling), and works well in simulation. My current hardware is limited, so I’m exploring what real robot platforms people usually use for research along these lines. Franka, UR, or others? If you’re working on similar ideas, feel free to share your experience — I’m trying to understand what setups are common, and what challenges to expect. Happy to show a short demo as well.
 
-6h ago
+7h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Speech-to-reality system creates objects on demand using AI and robotics](https://techxplore.com/news/2025-12-speech-reality-demand-ai-robotics.html)**
+
+Tech Xplore • 1d ago
+
+---
 
 **[Israeli official says Gaza conflict was ‘first robotics war’](https://breakingdefense.com/2025/12/israeli-official-says-gaza-conflict-was-first-robotics-war/)**
 
@@ -120,17 +126,9 @@ Breaking Defense • 1d ago
 
 ---
 
-**[Army Special Forces Embracing Robots in All Domains](https://www.nationaldefensemagazine.org/articles/2025/12/8/army-special-forces-embracing-robots-in-all-domains)**
-
-Army Special Forces Embracing Robots in All Domains
-
-National Defense Magazine • 2d ago
-
----
-
 **[Coco, Serve delivery robots wearing out welcome for some Chicagoans](https://www.axios.com/local/chicago/2025/12/10/chicago-pause-delivery-robot-pilot-safety-issues)**
 
-Axios • 9m ago
+Axios • 56m ago
 
 ---
 
@@ -138,15 +136,7 @@ Axios • 9m ago
 
 Pilots being able to control many drones is "kind of a prerequisite" for "the total drone warfare that is coming to all of us," Ark Robotics told BI.
 
-Business Insider • 5m ago
-
----
-
-**[5 Robotics Stocks Catching Momentum After New Policy Tailwinds](https://finance.yahoo.com/news/5-robotics-stocks-catching-momentum-154700238.html)**
-
-Robotics stocks surged last week after reports of a potential new executive order, signaling early positioning from investors ahead of possible policy support.
-
-Yahoo Finance • 1d ago
+Business Insider • 52m ago
 
 ---
 
@@ -158,33 +148,41 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://finance.yahoo.com/news/tether-invests-italian-robotics-startup-230239090.html)**
+**[Analysts Warn of Cybersecurity Risks in Humanoid Robots](https://www.darkreading.com/ics-ot-security/cybersecurity-risks-humanoid-robots)**
+
+Dark Reading • 20h ago
+
+---
+
+**[Tether Invests in Italian Robotics Startup Generative Bionics Amid Humanoid Hype](https://decrypt.co/351560/tether-invests-italian-humanoid-robotics-startup-generative-bionics)**
 
 Stablecoin issuer Tether has joined an $81 million round as humanoid robotics draws increasing investor interest.
 
-Yahoo Finance • 1d ago
+Decrypt • 1d ago
 
 ---
 
-**[Analysts Warn of Cybersecurity Risks in Humanoid Robots](https://www.darkreading.com/ics-ot-security/cybersecurity-risks-humanoid-robots)**
+**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
 
-Dark Reading • 19h ago
+The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
 
----
-
-**[Moorhead robotics team builds head-activated device to help first-grader raise her hand](https://www.valleynewslive.com/2025/12/08/moorhead-robotics-team-builds-head-activated-device-help-first-grader-raise-her-hand/)**
-
-1st grader Amarah Ramirez received the prototype in late November. Students are currently fine-tuning a smaller, more efficient one for her.
-
-Valley News Live • 1d ago
+MLive.com • 20h ago
 
 ---
 
-**[China’s Pudu Robotics rolls out overseas charm offensive with robot dog](https://www.scmp.com/tech/big-tech/article/3335381/chinas-pudu-robotics-rolls-out-overseas-charm-offensive-robot-dog)**
+**[Army Special Forces Embracing Robots in All Domains](https://www.nationaldefensemagazine.org/articles/2025/12/8/army-special-forces-embracing-robots-in-all-domains)**
 
-Quadruped dubbed D5 from Pudu – founded by former HKUST engineering student Felix Zhang – draws crowds at Tokyo expo.
+Army Special Forces Embracing Robots in All Domains
 
-South China Morning Post • 3d ago
+National Defense Magazine • 2d ago
+
+---
+
+**[Move over, biomimicry – bio-derived robotic hand uses lobster shells for fingers](https://newatlas.com/robotics/bio-derived-robot-hand-lobster-shells-fingers/)**
+
+If you’re going to kill animals for food, don’t waste their parts – that’s just rude. Use everything, snout-to-tail, and not just bones for glue or stomachs for drink-bags, either. Get creative!
+
+New Atlas • 19h ago
 
 ---
 
@@ -196,7 +194,7 @@ South China Morning Post • 3d ago
 
 📺 AI . Robot
 
-👁️ 1.8M • 👍 9K • 💬 51 • ⏱️ 0:17 • 5d ago
+👁️ 1.8M • 👍 9K • 💬 51 • ⏱️ 0:17 • 6d ago
 
 ---
 

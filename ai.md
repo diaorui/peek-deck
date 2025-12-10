@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T12:38:34.162981+00:00'
+updated: '2025-12-10T13:25:30.364938+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
+- repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 12:38 UTC  
+**Last Updated:** December 10, 2025 at 13:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'
 
-🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 11h ago
+🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 12h ago
 
 ---
 
@@ -49,7 +49,7 @@ The Department of War aims to put Google Gemini 'directly into the hands of ever
 
 Im not sure if this was discussed before. But LLMs can understand Base64 encoded prompts and they injest it like normal prompts. This means non human readable text prompts understood by the AI model. Tested with Gemini, ChatGPT and Grok.
 
-11h ago
+12h ago
 
 ---
 
@@ -57,15 +57,7 @@ Im not sure if this was discussed before. But LLMs can understand Base64 encoded
 
 While falls are not unusual in robotics development, a specific hand motion has raised questions about the current level of autonomy in Tesla’s system.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 21h ago
-
----
-
-**[Comparison between top AI skin texture enhancement tools available online](https://www.reddit.com/r/artificial/comments/1pizde7/comparison_between_top_ai_skin_texture/)**
-
-Read comment 👇🏻
-
-2h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/teslas-optimus-falls-in-miami-demo) • 22h ago
 
 ---
 
@@ -77,11 +69,27 @@ Reprogrammable humanoid robots could level the global manufacturing playing fiel
 
 ---
 
+**[McDonald's AI disaster: Marketing 101](https://www.reddit.com/r/artificial/comments/1pj2bt3/mcdonalds_ai_disaster_marketing_101/)**
+
+This year, McDonald’s decided to get in on the corporate slopfest with a 45-second Christmas spot cooked up for its Netherlands division by the ad agency TBWA\Neboko. The entire thing is AI, and revolves around the thesis that the holiday season is the “most terrible time of the year.” After huge backlash, ad has been taken down from YT, agency made statement owning there failure. https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial This reminds me: "The ability to speak doesn't make you intelligent!" - Qui Gon Jinn Technology, including AI is a tool, an enabler to magnify human genius or stupidity! PS: removed the earlier post with quote name error, couldn't edit in time.
+
+7m ago
+
+---
+
+**[Comparison between top AI skin texture enhancement tools available online](https://www.reddit.com/r/artificial/comments/1pizde7/comparison_between_top_ai_skin_texture/)**
+
+Read comment 👇🏻
+
+2h ago
+
+---
+
 **[Instacart’s AI-Enabled Pricing Experiments May Be Inflating Your Grocery Bill, CR and Groundwork Collaborative Investigation Finds](https://www.reddit.com/r/artificial/comments/1pisprm/instacarts_aienabled_pricing_experiments_may_be/)**
 
 Exclusive: Instacart’s AI pricing may be inflating your grocery bill.
 
-🔗 [Consumer Reports](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) • 8h ago
+🔗 [Consumer Reports](https://www.consumerreports.org/money/questionable-business-practices/instacart-ai-pricing-experiment-inflating-grocery-bills-a1142182490/) • 9h ago
 
 ---
 
@@ -89,7 +97,7 @@ Exclusive: Instacart’s AI pricing may be inflating your grocery bill.
 
 A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is now headed to OpenAI.
 
-🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 17h ago
+🔗 [WIRED](https://www.wired.com/story/slack-ceo-denise-dresser-joins-openai-chief-revenue-officer/) • 18h ago
 
 ---
 
@@ -97,7 +105,7 @@ A memo obtained by WIRED confirms Denise Dresser's departure from Slack. She is 
 
 Sam Altman admits the rise of ChatGPT may be moving too quickly for comfort as AI shakes up jobs, education, and the global economy.
 
-🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 14h ago
+🔗 [Fortune](https://fortune.com/2025/12/09/openai-ceo-sam-altman-worried-about-ai-future-chatgpt-pros-cons-rate-of-change-future-of-work-uncertain/) • 15h ago
 
 ---
 
@@ -109,15 +117,33 @@ People keep talking about “fixing hallucination,” but nobody is asking the o
 
 ---
 
-**[Visualization of what is inside of AI models. This represents the layers of interconnected neural networks.](https://www.reddit.com/r/artificial/comments/1phjwld/visualization_of_what_is_inside_of_ai_models_this/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[McDonald's pulls AI-generated Christmas advert following backlash](https://www.bbc.com/news/articles/czdgrnvp082o)**
+
+McDonald's said the moment served as "an important learning" as it explored "the effective use of AI".
+
+BBC • 1h ago
+
+---
+
+**[AI slop ad backfires for McDonald’s](https://www.latimes.com/business/story/2025-12-10/ai-slop-ad-backfires-for-mcdonalds)**
+
+Viewers blasted McDonald's satirical commercial as offensive, with critics questioning why anyone would 'ditch your family and hide in McDonald's.'
+
+Los Angeles Times • 9h ago
+
+---
+
+**[McDonald’s Pulls Down AI-Generated Holiday Ad After Deluge of Mockery](https://futurism.com/artificial-intelligence/mcdonalds-ai-generated-commercial)**
+
+McDonald's Netherlands is catching flak for a stupefying AI-generated video, which was roundly condemned on social media.
+
+Futurism • 19h ago
+
+---
 
 **[Why the A.I. Boom Is Unlike the Dot-Com Boom](https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html)**
 
@@ -125,67 +151,41 @@ The New York Times • 20h ago
 
 ---
 
-**[From Llamas to Avocados: Meta's shifting AI strategy is causing internal confusion](https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html)**
+**[Trump’s avowed AI order to face legal hurdles](https://thehill.com/newsletters/the-gavel/5641240-ai-laws-trump-regulation-courts/)**
 
-Meta’s push to develop its next frontier model, codenamed Avocado, under new AI leadership is creating internal friction as it races rivals OpenAI and Google.
-
-CNBC • 1d ago
+thehill.com • 25m ago
 
 ---
 
-**[‘We are truly doomed’: King Gizzard and the Lizard Wizard despair at AI clone appearing on Spotify](https://www.theguardian.com/music/2025/dec/10/king-gizzard-and-the-lizard-wizard-despair-at-ai-clone-appearing-on-spotify)**
+**[The AI boom is a loop-de-loop economy. Here's how](https://qz.com/ai-circular-economy-deals-nvidia-synopsys-openai-oracle)**
 
-Australian psych-rockers, who removed their music from Spotify in protest against the streaming service, lament the appearance of AI band King Lizard Wizard
-
-The Guardian • 1h ago
+qz.com • 1h ago
 
 ---
 
-**[Exclusive: New platform aims to stop AI from using creators' work without permission](https://www.axios.com/2025/12/10/ai-creators-rights-axm)**
+**[Digital stimulation: AI and porn](https://www.economist.com/podcasts/2025/12/10/digital-stimulation-ai-and-porn)**
 
-Axios • 1h ago
-
----
-
-**[Nvidia AI Chips to Undergo Unusual U.S. Security Review Before Export to China](https://www.wsj.com/tech/ai/nvidia-ai-chips-to-undergo-unusual-u-s-security-review-before-export-to-china-5e73cd55?gaa_at=eafs&gaa_n=AWEtsqc_TZAqjO6d3wIXNYw3fTrnST1V4_zDNnBzJgS8OVS3PZdf68TF1OMF&gaa_ts=69396d2d&gaa_sig=fcSJw0D6EqwwUGT7nsx36OK3Px_Q08faVBWmcgXNkDEgNuSlRDI8-y53WuU4IsMmlk3BSIqjSApUzCA8tRoaZA%3D%3D)**
-
-The Wall Street Journal • 17h ago
+The Economist • 1h ago
 
 ---
 
-**[Trump's blessing of Nvidia AI chip sales to China gets a chilly reception from GOP](https://www.cnbc.com/2025/12/09/trump-nvidia-china-ai-chips-gop-congress.html)**
-
-Trump said Chinese President Xi Jinping "responded positively" to the proposal to let Nvidia sell H200 AI chips on condition that the U.S. gets 25% of revenue.
-
-CNBC • 17h ago
-
----
-
-**[Explainer: How Chinese entities are already using Nvidia's powerful H200 AI chips](https://www.reuters.com/world/china/how-chinese-entities-are-already-using-nvidias-powerful-h200-ai-chips-2025-12-10/)**
+**[How Chinese entities are already using Nvidia's powerful H200 AI chips](https://www.reuters.com/world/china/how-chinese-entities-are-already-using-nvidias-powerful-h200-ai-chips-2025-12-10/)**
 
 Reuters • 1h ago
 
 ---
 
-**[Amazon, Microsoft pledge mega AI investments in India](https://www.bbc.com/news/articles/c3w79pgn8peo)**
+**[China adds domestic AI chips to official procurement list for first time](https://www.ft.com/content/83c6521e-fe42-49e2-a9fe-eda97168b316)**
 
-India, which is an emerging AI and cloud infrastructure hub, has witnessed a surge of global tech investment recently.
+Beijing encouraged purchase of Huawei and Cambricon processors before Trump’s move to allow Nvidia exports
 
-BBC • 4h ago
-
----
-
-**[Amazon pledges massive $35 billion worth of investments in India with focus on AI](https://www.cnbc.com/2025/12/10/amazon-pledges-35-billion-investments-in-indias-ai-space-through-2030-million-jobs.html)**
-
-Amazon has committed to investing $$35 billion in India’s cloud and AI space by 2030, as hyperscalers race to get a foothold in the market.
-
-CNBC • 6h ago
+Financial Times • 12h ago
 
 ---
 
-**[Amazon to invest over $35 billion in India on AI, exports](https://www.reuters.com/business/retail-consumer/amazon-invest-over-35-billion-india-by-2030-expand-operations-boost-ai-2025-12-10/)**
+**[DeepSeek is Using Banned Nvidia Chips in Race to Build Next Model](https://www.theinformation.com/articles/deepseek-using-banned-nvidia-chips-race-build-next-model)**
 
-Reuters • 6h ago
+The Information • 1h ago
 
 ---
 
@@ -197,7 +197,7 @@ Reuters • 6h ago
 
 AI progress is steady. Human equivalence is sudden.
 
-⬆️ 559 • 💬 564 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
+⬆️ 560 • 💬 565 • 1d ago • [andyljones.com](https://andyljones.com/posts/horses.html)
 
 ---
 
@@ -213,7 +213,7 @@ A new report details how Microsoft has cut some internal goals for AI sales, why
 
 Through the first six months of 2025, Apple was the second-worst performer among the Magnificent Seven tech giants, as its shares tumbled 18% through the end of June.  “It is remarkable how they have kept their heads and are in control of spending, when all of their peers have gone the other direction,” said John Barr, portfolio manager of the Needham Aggressive Growth Fund, which owns Apple shares.
 
-⬆️ 317 • 💬 385 • 21h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
+⬆️ 318 • 💬 388 • 22h ago • [Yahoo Finance](https://finance.yahoo.com/news/apple-slow-ai-pace-becomes-104658095.html)
 
 ---
 
@@ -221,7 +221,7 @@ Through the first six months of 2025, Apple was the second-worst performer among
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-⬆️ 245 • 💬 107 • 19h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
+⬆️ 251 • 💬 111 • 20h ago • [anthropic.com](https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation)
 
 ---
 
@@ -235,7 +235,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 In its first six months, New York City’s controversial congestion pricing scheme has reduced air pollution by 22% in Manhattan’s toll zone, while improving air quality across the entire metropolitan region, according to new research. The Cornell University study analysed data from 42 air quality monitors throughout the New York…
 
-⬆️ 139 • 💬 170 • 9h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
+⬆️ 139 • 💬 171 • 10h ago • [AirQualityNews](https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/)
 
 ---
 
@@ -249,7 +249,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Learn about this new non-profit organization dedicated to making agentic AI safe, accessible, and beneficial for everyone.
 
-⬆️ 113 • 💬 22 • 16h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
+⬆️ 113 • 💬 23 • 17h ago • [Block, Anthropic, and OpenAI Launch the Agentic AI Foundation](https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation)
 
 ---
 
@@ -257,7 +257,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
 
-⬆️ 58 • 💬 82 • 11h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 59 • 💬 84 • 11h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
 
 ---
 
@@ -265,7 +265,7 @@ Your kid is cheating with AI. And that's great. Here’s why we should let it bu
 
 It is examining whether the tech giant did not offer "appropriate compensation" to web publishers.
 
-⬆️ 55 • 💬 114 • 21h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
+⬆️ 56 • 💬 115 • 22h ago • [bbc.com](https://www.bbc.com/news/articles/crl95eg33k1o)
 
 ---
 
@@ -299,7 +299,7 @@ Big Tech is racking up debt to fund their AI infrastructure for demand that seem
 
 📺 Vanessa Wingårdh
 
-👁️ 153K • 👍 10K • 💬 2K • ⏱️ 10:38 • 2d ago
+👁️ 153K • 👍 10K • 💬 2K • ⏱️ 10:38 • 3d ago
 
 ---
 
@@ -339,7 +339,7 @@ Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com
 
 📺 Peter H. Diamandis
 
-👁️ 72K • 👍 2K • 💬 446 • ⏱️ 1:59:44 • 22h ago
+👁️ 72K • 👍 2K • 💬 446 • ⏱️ 1:59:44 • 23h ago
 
 ---
 
@@ -349,7 +349,7 @@ Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/d
 
 📺 Matthew Berman
 
-👁️ 38K • 👍 1K • 💬 156 • ⏱️ 9:41 • 13h ago
+👁️ 38K • 👍 1K • 💬 156 • ⏱️ 9:41 • 14h ago
 
 ---
 
@@ -359,7 +359,7 @@ Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST 
 
 📺 penguinz0
 
-👁️ 759K • 👍 39K • 💬 4K • ⏱️ 8:35 • 16h ago
+👁️ 759K • 👍 39K • 💬 4K • ⏱️ 8:35 • 17h ago
 
 ---
 
@@ -385,7 +385,7 @@ VibeVoice-Realtime-0.5B is a lightweight, real-time text-to-speech model optimiz
 
 `text-to-speech` `1.0B`
 
-⬇️ 67,717 • ❤️ 627 • 1d ago
+⬇️ 67,717 • ❤️ 630 • 1d ago
 
 ---
 
@@ -397,7 +397,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 232,896 • ❤️ 2,459 • 1d ago
+⬇️ 232,896 • ❤️ 2,460 • 1d ago
 
 ---
 
@@ -409,7 +409,7 @@ GLM-4.6V-Flash is a lightweight multimodal model for image-text-to-text tasks, f
 
 `image-text-to-text` `10.3B`
 
-⬇️ 10,031 • ❤️ 278 • 18h ago
+⬇️ 10,031 • ❤️ 279 • 19h ago
 
 ---
 
@@ -445,7 +445,7 @@ Devstral Small 2 24B Instruct 2512 is a lightweight, agentic LLM optimized for s
 
 `24.0B`
 
-⬇️ 2,414 • ❤️ 187 • 19h ago
+⬇️ 2,414 • ❤️ 193 • 20h ago
 
 ---
 
@@ -537,7 +537,7 @@ Z-Image, a 6B-parameter Scalable Single-Stream Diffusion Transformer (S3-DiT) mo
 
 The study reveals that in text-to-image generation, CFG Augmentation is the primary driver of few-step distillation in Distribution Matching Distillation (DMD), while the distribution matching term acts as a regularizer.
 
-▲ 23 • 💬 2 • ⭐ 6,242 • 12d ago
+▲ 23 • 💬 2 • ⭐ 6,242 • 13d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2511.22677) • [💻 code](https://github.com/Tongyi-MAI/Z-Image/tree/main) • [🔗 project](https://tongyi-mai.github.io/Z-Image-blog/)
 
@@ -657,7 +657,7 @@ Segment Anything Model 3 achieves state-of-the-art performance in promptable con
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.5k • 🔱 182 • 46m ago
+⭐ 1.5k • 🔱 182 • 1h ago
 
 ---
 
@@ -677,7 +677,7 @@ rep+ — Burp-style HTTP Repeater for Chrome DevTools with built‑in AI to expl
 
 `JavaScript` `css` `html` `javascript` `markdown`
 
-⭐ 1.0k • 🔱 129 • 3h ago
+⭐ 1.0k • 🔱 129 • 4h ago
 
 ---
 

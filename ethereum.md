@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T12:38:34.176876+00:00'
+updated: '2025-12-10T13:25:30.379536+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 12:38 UTC  
+**Last Updated:** December 10, 2025 at 13:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.5%  
-**7d:** +6.0%  
-**30d:** -2.8%  
-**90d:** -29.4%  
-**1y:** -13.4%  
+**24h:** +7.1%  
+**7d:** +6.5%  
+**30d:** -2.3%  
+**90d:** -29.0%  
+**1y:** -13.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $400.44B
+**Market Cap:** $401.12B
 Rank #2
 
 **Circulating Supply:** 120,695,213 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--32.9%
+-32.6%
 
 **All-Time Low:** $0.43
-+765842.5%
++769694.8%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
+
+---
+
+**[What does the entire Ethereum crypto market look like in motion? Here’s my take…](https://www.reddit.com/r/ethereum/comments/1pj22rq/what_does_the_entire_ethereum_crypto_market_look/)**
+
+I’ve always wondered: if you could see the crypto market flow in real time, what would it look like? So I built an app to answer that question. - Animated bubbles for trades - Dynamic order depth bars - Global aggregation across exchanges - A special “ALL” mode to visualize the whole market vs stablecoins - And a Replay mode to rewind and watch the market like a movie Launch is coming soon. 👉 Demo video + screenshots here: https://cryptostream.dev Drop your email if you want to be notified when it’s live. Curious what you think, AMA or share your thoughts!
+
+19m ago
 
 ---
 
@@ -138,14 +146,6 @@ By magnitude, the biggest question for the Defi ecosystem for the next cycle is 
 
 ---
 
-**[AMA: We are Bluechip – an independent, stablecoin rating agency.](https://www.reddit.com/r/ethereum/comments/1ph9q2g/ama_we_are_bluechip_an_independent_stablecoin/)**
-
-AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ethereum, I’m Amey - Ratings Director at Bluechip. Stablecoins offer a cheaper way to make cross-border transactions and a more reliable way to save in economies with high inflation or unstable financial systems. But how can you tell which stablecoins are truly stable? Our SMIDGE rating framework analyzes six economic factors and assigns letter-grade ratings (from F to A+) to identify the most reliable stablecoins. You can read the full framework on our website here. Essentially, the SMIDGE framework evaluates - Stability - collateral quality, asset segregation, core stability mechanism Management - track record of team, jurisdiction, accountability to token holders Implementation - technical risk (currently not tracked) Decentralization - censorship risk, blacklisting (only for crypto-backed stablecoins) Governance - regulatory protections, redemption terms, voting systems External - market sentiment (currently not tracked) We take a crypto-native, independent, and data-driven approach to stablecoin ratings. Our framework is the first publicly available, factor-based risk model for evaluating stablecoins. Our ratings are publicly available on our website here. Currently, USDT is rated D and USDC is rated B+ by Bluechip. Last month, we partnered with the Ethereum Foundation to host Bluechip25 in Vienna, the first global conference dedicated to crypto safety. Sign up for updates on next year's Bluechip26 on our website here. We also host a podcast called Bluechip Dialogues, where our Chief Economist Garett Jones interviews leading figures in crypto. Watch the latest episode with the creator of Facebook’s stablecoin project Diem (formerly Libra) here. Follow us on Twitter here or LinkedIn here or Telegram channel here. Ask us anything! I'll be around to answer your questions over the following days.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ AMA: We are Bluechip – an independent, stablecoin rating agency. Hello r/ether
 
 Despite the breakout, DOGE faces significant structural resistance from major EMAs.
 
-CoinDesk • 13m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -162,23 +162,7 @@ CoinDesk • 13m ago
 
 Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
-Decrypt • 19h ago
-
----
-
-**[Trump Tariff Whale’s $100M ETH Long Bet as ETH USD Faces Supply Shock: Ethereum Price Prediction Ready to Explode?](https://finance.yahoo.com/news/trump-tariff-whale-100m-eth-155334139.html)**
-
-Poland crypto industry scored a major win this week, as plans to move ahead with new crypto rules stalled on Friday after lawmakers failed to override President Andrzej Duda’s veto. The setback slows Prime Minister Donald Tusk’s effort to align national policy with the European Union’s MiCA framework. The Sejm, ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Ethereum Price Gears Up for a Breakout—Can ETH Outperform BTC Into the Year-End?](https://www.tradingview.com/news/coinpedia:4bc4baf33094b:0-ethereum-price-gears-up-for-a-breakout-can-eth-outperform-btc-into-the-year-end/)**
-
-Ethereum is compressing just below a critical resistance band near $3,300–$3,350, even as the broader crypto market remains unsettled by Bitcoin’s choppy price action around $43,000–$44,000. Despite the volatility, the ETH price has defended support near $3,050, forming a tight consolidation range…
-
-TradingView • 1d ago
+Decrypt • 20h ago
 
 ---
 
@@ -228,6 +212,22 @@ The Motley Fool • 2d ago
 
 ---
 
+**[Ethereum's Game-Changing Move: $5,000 Target](https://www.tradingview.com/news/u_today:262b5f615094b:0-ethereum-s-game-changing-move-5-000-target/)**
+
+The chart finally shows a market that has stopped bleeding and begun to fight back, and Ethereum is about to enter a structurally critical phase. ETH has successfully reversed from the $2,700-$2,800 range after months of cascading sell pressure, printing a series of higher lows and pushing hard tow…
+
+TradingView • 3h ago
+
+---
+
+**[ETHE Vs. ETH: Which Grayscale Ethereum ETF Is Better?](https://seekingalpha.com/article/4851950-ethe-vs-eth-which-grayscale-ethereum-etf-is-better)**
+
+The 65% staking ratio means ETH will generate a significantly better total return than ETHE after fees. See the complete analysis here.
+
+Seeking Alpha • 3h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -248,7 +248,7 @@ Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=a
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 3K • 💬 218 • ⏱️ 12:03 • 12h ago
+👁️ 53K • 👍 3K • 💬 218 • ⏱️ 12:03 • 13h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum has critics calling it “overvalued”… but what if everyone is look
 
 📺 Milk Road
 
-👁️ 4K • 👍 136 • 💬 82 • ⏱️ 35:26 • 16h ago
+👁️ 4K • 👍 136 • 💬 82 • ⏱️ 35:26 • 17h ago
 
 ---
 
@@ -278,7 +278,7 @@ A huge ETH whale just opened a massive sized position. In today's video, Kyledoo
 
 📺 Crypto Banter
 
-👁️ 9K • 👍 825 • 💬 7 • ⏱️ 34:34 • 4h ago
+👁️ 9K • 👍 825 • 💬 7 • ⏱️ 34:34 • 5h ago
 
 ---
 
@@ -308,7 +308,7 @@ BitMine Immersion Technologies just made a $435 million ETH acquisition, bringin
 
 📺 CoinDesk
 
-👁️ 842 • 👍 9 • 💬 11 • ⏱️ 1:12 • 21h ago
+👁️ 842 • 👍 9 • 💬 11 • ⏱️ 1:12 • 22h ago
 
 ---
 
@@ -318,7 +318,7 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 C-Zar Gets Crypto 
 
-👁️ 1K • 👍 60 • 💬 43 • ⏱️ 13:32 • 17h ago
+👁️ 1K • 👍 60 • 💬 43 • ⏱️ 13:32 • 18h ago
 
 ---
 
