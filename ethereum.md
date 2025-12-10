@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T17:26:47.607294+00:00'
+updated: '2025-12-10T17:48:08.000089+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 17:26 UTC  
+**Last Updated:** December 10, 2025 at 17:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** +7.8%  
-**30d:** -1.1%  
-**90d:** -28.2%  
-**1y:** -12.0%  
+**24h:** -0.2%  
+**7d:** +7.5%  
+**30d:** -1.3%  
+**90d:** -28.3%  
+**1y:** -12.1%  
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-18h ago
+19h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Despite the breakout, DOGE faces significant structural resistance from major EMAs.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -184,7 +184,7 @@ Nasdaq • 1d ago
 
 Sentiment across the market shows a mild improvement today, with the Fear and Greed Index rising to 30 after spending much of the past two weeks in the lower twenties and briefly touching extreme fear levels that had pushed many participants into defensive positioning. Bitcoin is trading near $92,000 after ...
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -246,7 +246,7 @@ Bitcoin and Ethereum surged amid anticipation that the US central bank will cut 
 
 📺 Paul Barron Network
 
-👁️ 45K • 👍 2K • 💬 107 • ⏱️ 20:14 • 20h ago
+👁️ 45K • 👍 2K • 💬 107 • ⏱️ 20:14 • 21h ago
 
 ---
 
@@ -266,7 +266,7 @@ Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=a
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 3K • 💬 327 • ⏱️ 12:03 • 17h ago
+👁️ 60K • 👍 3K • 💬 327 • ⏱️ 12:03 • 18h ago
 
 ---
 
@@ -286,7 +286,7 @@ Ethereum has critics calling it “overvalued”… but what if everyone is look
 
 📺 Milk Road
 
-👁️ 5K • 👍 154 • 💬 42 • ⏱️ 35:26 • 21h ago
+👁️ 5K • 👍 154 • 💬 42 • ⏱️ 35:26 • 22h ago
 
 ---
 
@@ -296,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 4K • 👍 221 • 💬 8 • ⏱️ 5:16 • 14h ago
+👁️ 4K • 👍 221 • 💬 8 • ⏱️ 5:16 • 15h ago
 
 ---
 
@@ -316,7 +316,7 @@ BITCOIN & ALTCOIN WARNING: WATCH BEFORE TOMORROW!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 9K • 👍 339 • 💬 81 • ⏱️ 21:02 • 17h ago
+👁️ 9K • 👍 339 • 💬 81 • ⏱️ 21:02 • 18h ago
 
 ---
 

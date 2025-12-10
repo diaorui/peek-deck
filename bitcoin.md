@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T17:26:47.601802+00:00'
+updated: '2025-12-10T17:48:07.994160+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 17:26 UTC  
+**Last Updated:** December 10, 2025 at 17:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,171.88
+### $92,308.14
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
+**24h:** -1.3%  
 **7d:** +0.5%  
 **30d:** -10.3%  
 **90d:** -20.3%  
@@ -81,7 +81,7 @@ Rank #1
 
 Bottom tex
 
-2h ago
+3h ago
 
 ---
 
@@ -101,13 +101,13 @@ Bottom tex
 
 Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exchange in Malaysia). We dont know what happened and how it happend. 2FA was in place so we really have no clue how the bitcoin moved. Please see photos attached for txid. Would appreciate your insight on what happened and how it happened so it doesn't happen again. Yes we know not your keys not your coin.... Lesson learnt the hard way... Many thanks for your help!
 
-6h ago
+7h ago
 
 ---
 
 **[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -115,7 +115,7 @@ Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exch
 
 On December 9th, in an unexpected turn for traditional finance, the price of Bitcoin regained the $94,000 mark, wiping out more than three weeks of losses. The failure of the anticipated failure of Bitcoin, and therefore all crypto, was met with lukewarm apathy by your family from Thanksgiving. "It's still just funny money," said Uncle Lou, who then unironically bragged about taking out a reverse-mortgage on the home he bought in 1974. Top analysts' warn that the trend, which they have dubbed an "inverted loss" of Bitcoin's value could continue in the long-term, and lead to a redistribution of financial power and wealth, which, according to my editor, would cause destabilization and volatility in the billionaire who owns this publication. More updates will be available as adoption makes this opinion obsolete. Appropriated Press, December 2025.
 
-12h ago
+13h ago
 
 ---
 
@@ -129,7 +129,7 @@ Sooner or later it will bounce to new highs, or not
 
 **[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
 
-41m ago
+1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Sooner or later it will bounce to new highs, or not
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -173,7 +173,7 @@ Seeking Alpha • 6h ago
 
 **[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 6h ago
 
 ---
 
@@ -181,7 +181,7 @@ Investor's Business Daily • 5h ago
 
 Jack Mallers' Twenty One falls 20% in trading debut. It comes as other Bitcoin treasury firms face increasing pressure. Twenty One is majority-owned by stablecoin giant Tether.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -195,13 +195,13 @@ The Block • 19h ago
 
 Bitcoin will likely reach a new price record in 2026, according to cryptocurrency asset manager Grayscale. “We believe the four-year cycle thesis will prove to be incorrect, and that Bitcoin’s price will potentially make new highs next year,” ...
 
-Yahoo Finance • 25m ago
+Yahoo Finance • 47m ago
 
 ---
 
 **[Strategy says MSCI’s 50% bitcoin test risks index ‘whiplash’ and conflicts with US pro-innovation policy](https://www.theblock.co/post/382068/strategy-msci-bitcoin-test-index-whiplash-conflicts-innovation?utm_source=companies.xml&utm_medium=rss)**
 
-The Block • 38m ago
+The Block • 1h ago
 
 ---
 
@@ -339,7 +339,7 @@ Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BU
 
 📺 Conor Kenny
 
-👁️ 11K • 👍 530 • 💬 54 • ⏱️ 12:36 • 11h ago
+👁️ 11K • 👍 530 • 💬 54 • ⏱️ 12:36 • 12h ago
 
 ---
 
@@ -349,7 +349,7 @@ Today's FOMC meeting could cause a HUGE move in Bitcoin — either a big pump or
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 141 • 2h ago
+👁️ 1K • 👍 141 • 3h ago
 
 ---
 
@@ -359,7 +359,7 @@ In this clip, I talk about a major macro event that could impact bitcoin and cry
 
 📺 CryptosRus Extra
 
-👁️ 8K • 👍 531 • 💬 116 • ⏱️ 8:42 • 16h ago
+👁️ 8K • 👍 531 • 💬 116 • ⏱️ 8:42 • 17h ago
 
 ---
 
@@ -379,7 +379,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 24K • 👍 1K • 💬 338 • ⏱️ 7:23 • 23h ago
+👁️ 24K • 👍 1K • 💬 338 • ⏱️ 7:23 • 1d ago
 
 ---
 
@@ -389,7 +389,7 @@ WEEX: https://weex.com/events/welcome-event?vipCode=2hwu&qrType=activity FREE $1
 
 📺 Crypto Kid
 
-👁️ 2K • 👍 259 • 💬 73 • ⏱️ 5:29 • 4h ago
+👁️ 2K • 👍 259 • 💬 73 • ⏱️ 5:29 • 5h ago
 
 ---
 

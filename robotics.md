@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T17:26:47.610185+00:00'
+updated: '2025-12-10T17:48:08.003280+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 17:26 UTC  
+**Last Updated:** December 10, 2025 at 17:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Bernt Bornich on 𝕏: https://x.com/BerntBornich/status/1998465781504360854
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Project page: https://autonomousrobots.nl/paper_websites/dra-mppi
 
 Ever wonder how sudo apt install just  works  for ROS? That’s the magic of the OSRF Build Farm!  This beast serves over half a billion packages a year, saving us all from the headache of compiling from source. But maintaining this critical utility takes massive server power and a dedicated team of e
 
-🔗 [Open Robotics](https://www.openrobotics.org/blog/2025/12/8/new-build-farm-backer-program-amp-infra-team-swagnbsp) • 5m ago
+🔗 [Open Robotics](https://www.openrobotics.org/blog/2025/12/8/new-build-farm-backer-program-amp-infra-team-swagnbsp) • 26m ago
 
 ---
 
@@ -154,7 +154,7 @@ Decrypt • 1d ago
 
 **[Houston ISD cancels high school robotics team trip to state championship](https://www.chron.com/news/houston-texas/education/article/houston-isd-robotics-state-championship-21234365.php)**
 
-Chron • 12m ago
+Chron • 34m ago
 
 ---
 
