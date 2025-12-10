@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2025-12-10T04:59:35.338247+00:00'
+updated: '2025-12-10T05:31:47.358035+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** December 10, 2025 at 04:59 UTC  
+**Last Updated:** December 10, 2025 at 05:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ North American robot orders picked up again in Q3 2025, pointing to renewed mome
 
 What I mean by "general" engineer is someone who has a bachelor's, master's or PhD in a field of engineering like mechanical, electrical, controls, computer science, etc. but not necessarily any specialization (master's or PhD) in robotics. I myself have a master's in control theory/systems but I don't find myself competent in jumping straight into designing the kinematics, dynamics and control algorithms of a 6 axis industrial robot (for example) from scratch. Not to mention selection of motors and actuation mechanisms and tuning the closed loop characteristics, etc., selection of controllers like PLCs. I was thrust into a project to design a highly complex 6 axis industrial robot with a lot of constraints. There are other engineers (mech, electrical) none of whom have any specialization in robotics nor any prior experience in designing industrial robots. I'm curious how the big robot companies recruit and/or train their employees. Do they always hire people with advanced degrees specialized in robotics? What kind of training is given to "general" engineers if hired? I'm sure robot companies at least write their own control software from scratch. So, I assume at least the controls and software people either have specialized degrees, prior experience or receive training within the company.
 
-6h ago
+7h ago
 
 ---
 
@@ -158,6 +158,14 @@ Decrypt • 1d ago
 
 ---
 
+**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
+
+The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
+
+MLive.com • 12h ago
+
+---
+
 **[Tesla: Mastering Fear And Greed In The Robotics Supercycle (Rating Downgrade) (TSLA)](https://seekingalpha.com/article/4851542-tesla-mastering-fear-and-greed-in-the-robotics-supercycle-rating-downgrade)**
 
 Tesla, Inc. remains a sentiment-driven asset despite strong fundamentals. Click here to read why TSLA stock is downgraded to a Hold.
@@ -171,14 +179,6 @@ Seeking Alpha • 14h ago
 SoftBank Group and Nvidia are reportedly in talks to participate in a more than $1 billion funding round for Skild AI, a maker of foundation models for
 
 PYMNTS.com • 1d ago
-
----
-
-**[Oakland County lands major robotics facility with 230 advanced manufacturing jobs](https://www.mlive.com/news/flint/2025/12/oakland-county-lands-major-robotics-facility-with-230-advanced-manufacturing-jobs.html)**
-
-The company will establish a new U.S. Operations Hub in Wixom with support from a $2.7 million Michigan Business Development Program grant approved by the MSF Board.
-
-MLive.com • 12h ago
 
 ---
 
@@ -202,13 +202,13 @@ National Defense Magazine • 2d ago
 
 ---
 
-**[Elon Musk Reveals the TRUTH About Tesla’s Optimus Gen 3 Robot — It Will STUN You](https://www.youtube.com/watch?v=YySSyB8f9s0)**
+**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
 
-Tesla has finally revealed new details about Optimus Gen 3, and Elon Musk's latest update changes everything. In this video, we ...
+EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
 
-📺 The AI Nexus
+📺 AI Tech Academy
 
-👁️ 2K • 👍 65 • 💬 14 • ⏱️ 20:52 • 23h ago
+👁️ 30K • 👍 687 • 💬 242 • ⏱️ 14:26 • 1d ago
 
 ---
 
@@ -218,27 +218,7 @@ Humanoid robots do housework while taking care of babies! #humanoidrobot #robot 
 
 📺 NUROBIQ
 
-👁️ 134K • 👍 718 • 💬 7 • ⏱️ 0:10 • 6d ago
-
----
-
-**[SHOCK FOOTAGE: China’s T800 Robot Performs Moves No Human Could Survive!](https://www.youtube.com/watch?v=fZbqBia8rGM)**
-
-EngineAI has taken the global robotics scene by surprise with a humanoid robot capable of spinning kicks, mid-air rotations, and ...
-
-📺 AI Tech Academy
-
-👁️ 28K • 👍 629 • 💬 234 • ⏱️ 14:26 • 1d ago
-
----
-
-**[Figure 03 vs Tesla Optimus: Which Robot Runs More Like a Human?](https://www.youtube.com/watch?v=mQGT6zNi8SE)**
-
-The race to build a truly humanlike running robot just got a major update, and today we are comparing Figure 03 and Tesla ...
-
-📺 DPCcars
-
-👁️ 199K • 👍 887 • 💬 295 • ⏱️ 1:03 • 3d ago
+👁️ 134K • 👍 719 • 💬 7 • ⏱️ 0:10 • 6d ago
 
 ---
 
@@ -248,7 +228,17 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 The AI Nexus
 
-👁️ 31K • 👍 628 • 💬 147 • ⏱️ 18:46 • 4d ago
+👁️ 32K • 👍 629 • 💬 151 • ⏱️ 18:46 • 4d ago
+
+---
+
+**[Elon Musk Reveals the TRUTH About Tesla’s Optimus Gen 3 Robot — It Will STUN You](https://www.youtube.com/watch?v=YySSyB8f9s0)**
+
+Tesla has finally revealed new details about Optimus Gen 3, and Elon Musk's latest update changes everything. In this video, we ...
+
+📺 The AI Nexus
+
+👁️ 2K • 👍 64 • 💬 14 • ⏱️ 20:52 • 23h ago
 
 ---
 
@@ -256,17 +246,17 @@ China has officially unveiled a humanoid robot that looks straight out of a sci-
 
 📺 XRoboHub
 
-👁️ 521K • 👍 8K • 💬 872 • ⏱️ 0:22 • 5d ago
+👁️ 522K • 👍 8K • 💬 871 • ⏱️ 0:22 • 5d ago
 
 ---
 
-**[3 Robotics Stocks That Could 10X by 2035](https://www.youtube.com/watch?v=GK1vOs1uc4M)**
+**[Unitree 1.8m Humanoid Robot  Every Punch Comes Through！🥰](https://www.youtube.com/watch?v=kjJeQZECPcQ)**
 
-Robotics might be the next trillion-dollar technology wave… but the smartest opportunities aren't where most investors are looking ...
+Unitree 1.8m H2 Humanoid Robot, A Combat Sparring Test. H2's knee strike lifts G1 off the ground. This is to validate the overall ...
 
-📺 MarketBeat
+📺 Unitree Robotics
 
-👁️ 46K • 👍 1K • 💬 101 • ⏱️ 24:47 • 3d ago
+👁️ 2.8M • 👍 1K • 💬 345 • ⏱️ 1:06 • 6d ago
 
 ---
 
@@ -276,7 +266,17 @@ In 2025 in Silicon Valley, a next-gen AI Caregiver Robot gently holds and comfor
 
 📺 AI Robot Lab
 
-👁️ 7K • 👍 74 • 💬 3 • ⏱️ 0:24 • 18h ago
+👁️ 8K • 👍 76 • 💬 3 • ⏱️ 0:24 • 18h ago
+
+---
+
+**[Leaked: Trump’s Robot Exec Order - The Investment Opportunity of a Lifetime!?](https://www.youtube.com/watch?v=zNWcAI4dsvQ)**
+
+Ready to Learn from My Mentors? Book a Free Strategy Call at https://felixfriends.org/freedom Download the Workbook in Our ...
+
+📺 Felix & Friends (Goat Academy)
+
+👁️ 93K • 👍 3K • 💬 139 • ⏱️ 29:12 • 1d ago
 
 ---
 
@@ -286,7 +286,7 @@ The CEO of Chinese robotics company EngineAI put his body on the line to endure 
 
 📺 The Straits Times
 
-👁️ 99K • 👍 467 • 💬 169 • ⏱️ 0:47 • 22h ago
+👁️ 109K • 👍 505 • 💬 178 • ⏱️ 0:47 • 22h ago
 
 ---
 

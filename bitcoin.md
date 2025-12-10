@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T04:59:35.328834+00:00'
+updated: '2025-12-10T05:31:47.348728+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- news
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 04:59 UTC  
+**Last Updated:** December 10, 2025 at 05:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,494.36
+### $92,594.48
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
+**24h:** +2.7%  
 **7d:** +0.6%  
 **30d:** -10.2%  
-**90d:** -20.3%  
+**90d:** -20.2%  
 **1y:** -8.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1846.51B
+**Market Cap:** $1848.69B
 Rank #1
 
-**Circulating Supply:** 19,959,990 BTC
+**Circulating Supply:** 19,960,015 BTC
 95.0% of max
 
 **All-Time High:** $126,080.00
--26.5%
+-26.6%
 
 **All-Time Low:** $67.81
-+136466.9%
++136447.7%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Giant Bitcoin ad spotted in Times Square - "No man should work for what another man can print"](https://www.reddit.com/r/Bitcoin/comments/1pinkh6/giant_bitcoin_ad_spotted_in_times_square_no_man/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -91,7 +91,7 @@ Rank #1
 
 **[Daily Meme Until $100,000](https://www.reddit.com/r/Bitcoin/comments/1pier04/daily_meme_until_100000/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -103,13 +103,29 @@ Rank #1
 
 **[Idk how you guys didn't see through this](https://www.reddit.com/r/Bitcoin/comments/1piox5t/idk_how_you_guys_didnt_see_through_this/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Taste the pain first](https://www.reddit.com/r/Bitcoin/comments/1pilin2/taste_the_pain_first/)**
 
 6h ago
+
+---
+
+**[Fed meeting tomorrow](https://www.reddit.com/r/Bitcoin/comments/1pilf43/fed_meeting_tomorrow/)**
+
+Hi everyone, FOMC meeting will be tomorrow with the decision about potential interest rate cut. What is your expectation in terms of (a) cut itself, (b) 2026 policy (c) crypto sector (d) btc price. Any thoughts much appreciated!
+
+7h ago
+
+---
+
+**[Tragedy Strikes the Bitcoin Market Today](https://www.reddit.com/r/Bitcoin/comments/1pitli0/tragedy_strikes_the_bitcoin_market_today/)**
+
+On December 9th, in an unexpected turn for traditional finance, the price of Bitcoin regained the $94,000 mark, wiping out more than three weeks of losses. The failure of the anticipated failure of Bitcoin, and therefore all crypto, was met with lukewarm apathy by your family from Thanksgiving. "It's still just funny money," said Uncle Lou, who then unironically bragged about taking out a reverse-mortgage on the home he bought in 1974. Top analysts' warn that the trend, which they have dubbed an "inverted loss" of Bitcoin's value could continue in the long-term, and lead to a redistribution of financial power and wealth, which, according to my editor, would cause destabilization and volatility in the billionaire who owns this publication. More updates will be available as adoption makes this opinion obsolete. Appropriated Press, December 2025.
+
+50m ago
 
 ---
 
@@ -121,23 +137,9 @@ https://abcnews.go.com/amp/US/massachusetts-man-charged-after-hiding-cryptocurre
 
 ---
 
-**[Fed meeting tomorrow](https://www.reddit.com/r/Bitcoin/comments/1pilf43/fed_meeting_tomorrow/)**
+**[$94,000 vanished before I could wake up.](https://www.reddit.com/r/Bitcoin/comments/1pisu13/94000_vanished_before_i_could_wake_up/)**
 
-Hi everyone, FOMC meeting will be tomorrow with the decision about potential interest rate cut. What is your expectation in terms of (a) cut itself, (b) 2026 policy (c) crypto sector (d) btc price. Any thoughts much appreciated!
-
-6h ago
-
----
-
-**[OCC authorizes U.S. banks to execute riskless-principal Bitcoin transactions unlocking regulated execution without balance-sheet exposure](https://www.reddit.com/r/Bitcoin/comments/1pigmi8/occ_authorizes_us_banks_to_execute/)**
-
-The OCC is the federal authority that determines what U.S. banks are allowed to execute under supervision. This shift is bigger then the ETF Approval from 2024! Its approval is not opinion, interpretation, or industry signaling. It is a binding permission that enables banks to route Bitcoin transactions legally, without inventory risk, and within standard audit frameworks. The relevance is not immediate, because regulatory clarity precedes capital deployment. But when distribution becomes active, this ruling will be the reason banks can deliver Bitcoin at scale through the same channels that already move equities, bonds, and FX flow.
-
-🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/occ-authorizes-us-banks-to-execute) • 9h ago
-
----
-
-**[My posted meme to this community from six years ago is now irony and inverse lol](https://www.reddit.com/r/Bitcoin/comments/1pische/my_posted_meme_to_this_community_from_six_years/)**
+I saw notifications of $94,000 BTC on my phone on waking up. Too bad it was already gone.
 
 1h ago
 
@@ -151,7 +153,7 @@ The OCC is the federal authority that determines what U.S. banks are allowed to 
 
 In the face of a profitability crisis, industrial-scale bitcoin miners are transforming their data centers into AI factories.
 
-WIRED • 18h ago
+WIRED • 19h ago
 
 ---
 
@@ -163,17 +165,17 @@ CNBC • 10h ago
 
 ---
 
-**[Bitcoin Bulls Standard Chartered, Bernstein Pare Back Ambitious Year-End Forecasts](https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-bulls-standard-chartered-bernstein-pare-back-most-ambitious-forecasts)**
+**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqdT18-gHmAmNK-aw_lRw1KuKgvsc6PnZPDBOwL8PqgOt-zGUiP5_5Kk&gaa_ts=69390928&gaa_sig=36G_dGDK9ZKkgco8FKdeaOaTi_W7bmBINfYRERrPg-uIXUEy02rOIJ8tqCMh-MZ9diF6HnvjHmcl1ZbUxh3kRw%3D%3D)**
 
-Wall Street’s biggest Bitcoin bulls are dialing back their near-term forecasts after the recent downdraft, but their long-term conviction hasn’t wavered.
-
-Bloomberg.com • 11h ago
+MarketWatch • 6h ago
 
 ---
 
-**[This bank just halved its bitcoin price target down from $200,000. Here’s why.](https://www.marketwatch.com/story/standard-chartered-is-finally-slashing-its-bitcoin-target-by-half-heres-why-3e7c726b?gaa_at=eafs&gaa_n=AWEtsqeipTNqda0684bJV6pHDvQseKj0CY_yxFsD43dfoSrB6jm-RG3qxmwU&gaa_ts=6938fd90&gaa_sig=JzrJix7RRAtZ3H-y75VHgXIXjsgDhr8_8VBsguhtoQSHrEOH_YrB8LTkhOy3wyyiyse9DPE4NnSSRnIrNEsclw%3D%3D)**
+**[Bitcoin to $500,000? Here’s when to expect the price to hit the new record](https://finance.yahoo.com/news/bitcoin-500-000-expect-price-164545497.html)**
 
-MarketWatch • 5h ago
+Standard Chartered pushed its $500,000 Bitcoin target to 2030 from 2028. The bank says digital asset treasury buying is over and won't support prices anymore. Geoffrey Kendrick said Bitcoin will now rely on ETF buying alone to reach the half-million dollar target.
+
+Yahoo Finance • 12h ago
 
 ---
 
@@ -185,23 +187,17 @@ Yahoo Finance • 8h ago
 
 ---
 
-**[Here's How the Fed's Upcoming Interest Rate Decision Could Affect the Price of Bitcoin](https://www.fool.com/investing/2025/12/09/heres-how-the-feds-upcoming-interest-rate-decision/)**
+**[Bitcoin Price Rebounds Slightly Ahead of the Fed. How It Could Reach $120K—or Fall to $82K.](https://www.barrons.com/articles/bitcoin-price-crypto-xrp-ethereum-2085d4a2?gaa_at=eafs&gaa_n=AWEtsqdNnH2y04hTZCvxCFIVIJ6pmZnjy9VNY1uWvVCnsOakea_sLwCoqFAN&gaa_ts=69390928&gaa_sig=6xxLvAdmfVmkSv9juQD26r9aK0AKtNOmOh1U0aokqPugIoc4wQriuroBtCQs7DXWvDhcANk-xuXUHZMPOqv2kQ%3D%3D)**
 
-It will take more than a rate cut to boost Bitcoin's price.
-
-The Motley Fool • 5h ago
+Barron's • 1d ago
 
 ---
 
-**[Bitcoin and ether surge on eve of FOMC decision fueling wave of liquidations](https://www.theblock.co/post/381935/bitcoin-ether-surge-eve-fomc-decision-fueling-wave-liquidations)**
+**[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Spike Ahead of Fed Decision](https://decrypt.co/351640/crypto-shorts-rekt-bitcoin-ethereum-xrp-spike-ahead-fed-decision)**
 
-The Block • 11h ago
+Bitcoin is surging towards $95,000 on Tuesday ahead of the Fed's interest rate decision, hitting its highest price since mid-November.
 
----
-
-**[Bitcoin Price Jumps As Tether-Backed Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
-
-Investor's Business Daily • 5h ago
+Decrypt • 12h ago
 
 ---
 
@@ -209,13 +205,19 @@ Investor's Business Daily • 5h ago
 
 Twenty One Capital Inc. fell 25% in its trading debut Tuesday, after it merged with special-purpose acquisition company Cantor Equity Partners Inc. to become the latest public crypto company.
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
-**[Bitcoin treasury XXI shares sink 20% in NYSE debut despite rising BTC price](https://www.theblock.co/post/381975/twenty-one-shares-sink-20-nyse-debut-despite-rising-bitcoin-price)**
+**[Bitcoin Price Jumps As Tether-Backed Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-The Block • 6h ago
+Investor's Business Daily • 6h ago
+
+---
+
+**[Bitcoin Treasury Firm Backed by Tether, SoftBank Falls Sharply on First Trading Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025/card/bitcoin-treasury-firm-backed-by-tether-softbank-plunges-on-first-day-of-trading-ccVbb4fnfLHZh3SPdxRX?gaa_at=eafs&gaa_n=AWEtsqfax26VZ8sW1rqFAJDCGiIJ59z9CPkcQocxWamjbVje6ULVnGGUxIBA&gaa_ts=69390928&gaa_sig=9Qvcbi_qE5oFoP2kytuhIMZgIYKP2Vbd3TUymR8AJ8ohsIyd2QRcmCyKwFEyxvjHHpauUykjoooG3hPebaVgUA%3D%3D)**
+
+The Wall Street Journal • 6h ago
 
 ---
 
@@ -271,7 +273,7 @@ The endowment dramatically increased its holdings of a spot bitcoin ETF since it
 
 Bitcoin full node and development kit for Swift. Contribute to swift-bitcoin/swift-bitcoin development by creating an account on GitHub.
 
-⬆️ 1 • 💬 0 • 11h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
+⬆️ 1 • 💬 0 • 12h ago • [GitHub](https://github.com/swift-bitcoin/swift-bitcoin)
 
 ---
 
@@ -307,47 +309,7 @@ Bitcoin isn't just an asset—according to Michael Saylor, it's the foundation o
 
 📺 Bitcoin Magazine
 
-👁️ 41K • 👍 2K • 💬 266 • ⏱️ 42:27 • 12h ago
-
----
-
-**[HUGE Bitcoin Reversal Incoming - Here&#39;s Why](https://www.youtube.com/watch?v=fEX9E7tYdfs)**
-
-Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
-
-📺 CryptosRUs
-
-👁️ 30K • 👍 2K • 💬 181 • ⏱️ 44:49 • 13h ago
-
----
-
-**[Biggest BITCOIN Catalyst BEGINS NOW! TETHER’S BTC STOCK LAUNCH TODAY!](https://www.youtube.com/watch?v=ZNITUGEn5cY)**
-
-Nick Valdez looks ath the XXI launch on NYSE today. XXI or 21 Capital is launching with Stripe and Tether and even Softbank as ...
-
-📺 Discover Crypto
-
-👁️ 1K • 👍 112 • 💬 3 • ⏱️ 5:37 • 4h ago
-
----
-
-**[bitcoin just broke the model](https://www.youtube.com/watch?v=hWFQHVBrJN8)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 20K • 👍 1K • 💬 299 • ⏱️ 7:23 • 11h ago
-
----
-
-**[The Fed Just Set the Stage for a Major Crypto Market Rally in 2026](https://www.youtube.com/watch?v=eVTxYvUrTgI)**
-
-LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Start Trading on Polymarket (#1 ...
-
-📺 Altcoin Daily
-
-👁️ 65K • 👍 3K • 💬 258 • ⏱️ 10:16 • 1d ago
+👁️ 48K • 👍 2K • 💬 279 • ⏱️ 42:27 • 12h ago
 
 ---
 
@@ -357,37 +319,27 @@ Jack Mallers, Tether, SoftBank, and Cantor Fitzgerald just launched the most exp
 
 📺 Simply Bitcoin
 
-👁️ 11K • 👍 1K • 💬 96 • ⏱️ 16:39 • 5h ago
+👁️ 26K • 👍 2K • 💬 124 • ⏱️ 16:39 • 5h ago
 
 ---
 
-**[Bitcoin Pre-FOMC](https://www.youtube.com/watch?v=kZGHzEGRyAM)**
+**[HUGE Bitcoin Reversal Incoming - Here&#39;s Why](https://www.youtube.com/watch?v=fEX9E7tYdfs)**
 
-Let's talk about the price of #Bitcoin going into FOMC! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com Into ...
+Today, let's examine Bitcoin's charts and metrics, as well as the latest Macro and Crypto news. Also, a look at crypto news.
 
-📺 Benjamin Cowen
+📺 CryptosRUs
 
-👁️ 62K • 👍 4K • 💬 154 • ⏱️ 9:09 • 15h ago
-
----
-
-**[[WARNING] This Will Have A MASSIVE Impact On Bitcoin and Crypto](https://www.youtube.com/watch?v=AWEx3aK7l2Y)**
-
-In this clip, I talk about what is happening for bitcoin and crypto this week and the impact it will have. **Exchange Partners** ...
-
-📺 CryptosRus Extra
-
-👁️ 13K • 👍 566 • 💬 188 • ⏱️ 9:01 • 1d ago
+👁️ 31K • 👍 2K • 💬 234 • ⏱️ 44:49 • 14h ago
 
 ---
 
-**[The Most Powerful Company in Bitcoin Just Went Public (Twenty One)](https://www.youtube.com/watch?v=jcCft7WD_kM)**
+**[Biggest BITCOIN Catalyst BEGINS NOW! TETHER’S BTC STOCK LAUNCH TODAY!](https://www.youtube.com/watch?v=ZNITUGEn5cY)**
 
-Twenty One just went public under the ticker XXI. Led by Jack Mallers, Cantor, Tether, and SoftBank, Twenty One could change ...
+Nick Valdez looks ath the XXI launch on NYSE today. XXI or 21 Capital is launching with Stripe and Tether and even Softbank as ...
 
-📺 Blockware
+📺 Discover Crypto
 
-👁️ 3K • 👍 236 • 💬 49 • ⏱️ 22:43 • 14h ago
+👁️ 3K • 👍 146 • 💬 2 • ⏱️ 5:37 • 5h ago
 
 ---
 
@@ -397,7 +349,55 @@ Michael Saylor declares he's more bullish than ever, stating his team can buy mo
 
 📺 Bitcoin Magazine
 
-👁️ 7K • 👍 194 • 💬 32 • ⏱️ 0:36 • 13h ago
+👁️ 8K • 👍 221 • 💬 31 • ⏱️ 0:36 • 14h ago
+
+---
+
+**[bitcoin just broke the model](https://www.youtube.com/watch?v=hWFQHVBrJN8)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 21K • 👍 1K • 💬 300 • ⏱️ 7:23 • 11h ago
+
+---
+
+**[The Fed Just Set the Stage for a Major Crypto Market Rally in 2026](https://www.youtube.com/watch?v=eVTxYvUrTgI)**
+
+LIMITED TIME: Join The $CLONE Airdrop: https://cloneairdrop.com?invited_by=48720 Start Trading on Polymarket (#1 ...
+
+📺 Altcoin Daily
+
+👁️ 66K • 👍 3K • 💬 259 • ⏱️ 10:16 • 1d ago
+
+---
+
+**[The guy who told you to buy bitcoin 😬😑😂 #shorts #funny #comedy #crypto #bitcoin #btc #invest](https://www.youtube.com/watch?v=PIblMDfqXes)**
+
+📺 Matt & Justus
+
+👁️ 1.9M • 👍 103K • 💬 265 • ⏱️ 1:00 • 1d ago
+
+---
+
+**[Did Michael Saylor’s BIG LONG Just Trigger a Bitcoin Supercycle?!](https://www.youtube.com/watch?v=RTWgQ_EkFQ0)**
+
+Michael Saylor just added 10624 BTC. The Fed is quietly rolling out stealth QE. Jack Maullers? Just dropped 43K BTC into ...
+
+📺 Simply Bitcoin
+
+👁️ 50K • 👍 4K • 💬 287 • ⏱️ 16:35 • 1d ago
+
+---
+
+**[Bitcoin Pre-FOMC](https://www.youtube.com/watch?v=kZGHzEGRyAM)**
+
+Let's talk about the price of #Bitcoin going into FOMC! Into The Cryptoverse Premium SALE: https://intothecryptoverse.com Into ...
+
+📺 Benjamin Cowen
+
+👁️ 66K • 👍 4K • 💬 161 • ⏱️ 9:09 • 16h ago
 
 ---
 
