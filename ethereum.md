@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T16:32:50.587134+00:00'
+updated: '2025-12-10T16:56:15.942879+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 16:32 UTC  
+**Last Updated:** December 10, 2025 at 16:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.3%  
-**7d:** +7.2%  
-**30d:** -1.6%  
-**90d:** -28.5%  
-**1y:** -12.4%  
+**24h:** +0.1%  
+**7d:** +7.6%  
+**30d:** -1.3%  
+**90d:** -28.3%  
+**1y:** -12.1%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An agent initially promised 3-5 days to credit/return my funds to my ETH wallet. More than 15 days have passed. Case #25243137 Their support refused to release my GDPR data, and in the UI there's no button to download it manually. I have lost over $100k in opportunity cost (sold ETH to deposit this). My tweet about it, including the screenshot where they tell me to report them to the authorities: https://x.com/laur_science/status/1998746021099122834 WARNING to all users: If their system glitches, they will NOT fix it manually. They will wait weeks while you lose money. Even better, don't use centralized exchanges for large amounts, or do it in small tranches. For me, it's the last time, and yes - I already knew the dangers, therefore "lesson reinforced", not "lesson learned".
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ An agent initially promised 3-5 days to credit/return my funds to my ETH wallet.
 
 oskar thorén is one of the leads in ethereum foundation's newest IPTF, or institutional privacy task force. he's a freedom maxi, zero-knowledge wizard, taiwan expart, and a dear friend. an electric mix of sovereign energy! oskar is one of the most well spoken advocates for privacy, zk, and self-custody, and in this interview where we hiked xiangshan in taipei, he holds nothing back to give us banger insight after banger insight. we talked all things zk and privacy, including: how the snowden revelations ignited his passion his early work in Vac and Waku to create encrypted messaging back when early ethereum was only 3 pillars (eth/swarm/whisper) how it informed his passion for zero knowledge cryptography and the technical applications of it to privacy-preservation his contributions to MoPro, a zk mobile proving toolkit that's bringing zk ever closer to reality on our phones his work on https://zkintro.com where he creates friendly resources to zero-knowledge cryptography from beginners to engineers to researchers, how his latest venture as one of the co-leads in the EF's newest task force, the Institutional Privacy Task Force, is bringing cypherpunk-grade privacy to the world's biggest financial institutions, and his 3-pronged mindset to achieving self-sovereignty you can catch the full interview on my youtube channel at: https://youtu.be/_BWRyIqCmVI --------------------------- if we're meeting for the first time, hi 👋! i spread the good word on good work in crypto. it's a challenging road fighting the cesspool that is crypto youtube... but im energized by creating principles-led, values-driven content a like, sub, comment, share goes a long way <3
 
-🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 12m ago
+🔗 [youtu.be](https://youtu.be/_BWRyIqCmVI) • 36m ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ive been looking at bitwage to receive my paycheck in USDC but i wanted to know what it was like for other people before i start using so important. i would love to hear about experiences - good or bad! its a bit expensive but its worth it in my opinion.
 
-17h ago
+18h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Despite the breakout, DOGE faces significant structural resistance from major EMAs.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -214,7 +214,7 @@ The Motley Fool • 2d ago
 
 The chart finally shows a market that has stopped bleeding and begun to fight back, and Ethereum is about to enter a structurally critical phase. ETH has successfully reversed from the $2,700-$2,800 range after months of cascading sell pressure, printing a series of higher lows and pushing hard tow…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -222,7 +222,7 @@ TradingView • 6h ago
 
 Key PointsEthereum is seeing even more capital flow into its network, a trend that's continued in recent weeks.
 
-Nasdaq • 16h ago
+Nasdaq • 17h ago
 
 ---
 
@@ -266,7 +266,7 @@ Start Trading on Polymarket (#1 Prediction Market): https://polymarket.com?via=a
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 3K • 💬 327 • ⏱️ 12:03 • 16h ago
+👁️ 60K • 👍 3K • 💬 327 • ⏱️ 12:03 • 17h ago
 
 ---
 
@@ -286,7 +286,7 @@ Ethereum has critics calling it “overvalued”… but what if everyone is look
 
 📺 Milk Road
 
-👁️ 5K • 👍 154 • 💬 42 • ⏱️ 35:26 • 20h ago
+👁️ 5K • 👍 154 • 💬 42 • ⏱️ 35:26 • 21h ago
 
 ---
 

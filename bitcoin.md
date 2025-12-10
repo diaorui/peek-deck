@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T16:32:50.581786+00:00'
+updated: '2025-12-10T16:56:15.936146+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 16:32 UTC  
+**Last Updated:** December 10, 2025 at 16:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,563.31
+### $92,265.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** +0.2%  
-**30d:** -10.5%  
-**90d:** -20.5%  
-**1y:** -8.6%  
+**24h:** -1.6%  
+**7d:** +0.4%  
+**30d:** -10.4%  
+**90d:** -20.4%  
+**1y:** -8.5%  
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 On December 9th, in an unexpected turn for traditional finance, the price of Bitcoin regained the $94,000 mark, wiping out more than three weeks of losses. The failure of the anticipated failure of Bitcoin, and therefore all crypto, was met with lukewarm apathy by your family from Thanksgiving. "It's still just funny money," said Uncle Lou, who then unironically bragged about taking out a reverse-mortgage on the home he bought in 1974. Top analysts' warn that the trend, which they have dubbed an "inverted loss" of Bitcoin's value could continue in the long-term, and lead to a redistribution of financial power and wealth, which, according to my editor, would cause destabilization and volatility in the billionaire who owns this publication. More updates will be available as adoption makes this opinion obsolete. Appropriated Press, December 2025.
 
-11h ago
+12h ago
 
 ---
 
@@ -109,13 +109,13 @@ Bottom tex
 
 Hey, Bitcoiners My friend just had their bitcoin drained from Luno (Bitcoin exchange in Malaysia). We dont know what happened and how it happend. 2FA was in place so we really have no clue how the bitcoin moved. Please see photos attached for txid. Would appreciate your insight on what happened and how it happened so it doesn't happen again. Yes we know not your keys not your coin.... Lesson learnt the hard way... Many thanks for your help!
 
-5h ago
+6h ago
 
 ---
 
 **[Lyn Alden says the 4-year Bitcoin cycle is dead. What do you think?](https://www.reddit.com/r/Bitcoin/comments/1pizdk3/lyn_alden_says_the_4year_bitcoin_cycle_is_dead/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -141,7 +141,7 @@ Sooner or later it will bounce to new highs, or not
 
 **["its what we do - its normal"](https://www.reddit.com/r/Bitcoin/comments/1pih5zr/its_what_we_do_its_normal/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -153,7 +153,7 @@ Sooner or later it will bounce to new highs, or not
 
 The cryptocurrency should now hit $150,000 in 2026, down from the earlier $300,000 target set by the firm.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -173,7 +173,7 @@ Business Insider • 6h ago
 
 **[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 5h ago
 
 ---
 
@@ -203,7 +203,7 @@ NPR • 8h ago
 
 The crypto downturn has pushed a slew of Bitcoin miners to the brink of unprofitability, prompting operators to scale back the energy-hungry machines that keep the blockchain running.
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -329,7 +329,7 @@ Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.c
 
 📺 Crypto Lifer
 
-👁️ 3K • 👍 414 • 2h ago
+👁️ 3K • 👍 414 • 3h ago
 
 ---
 
@@ -339,7 +339,7 @@ Fav Exchange http://ckenny.com/JoinBU Already use Bitunix? https://ckenny.com/BU
 
 📺 Conor Kenny
 
-👁️ 11K • 👍 530 • 💬 54 • ⏱️ 12:36 • 10h ago
+👁️ 11K • 👍 530 • 💬 54 • ⏱️ 12:36 • 11h ago
 
 ---
 
@@ -349,7 +349,7 @@ Today's FOMC meeting could cause a HUGE move in Bitcoin — either a big pump or
 
 📺 Discover Crypto
 
-👁️ 1K • 👍 141 • 1h ago
+👁️ 1K • 👍 141 • 2h ago
 
 ---
 
@@ -379,7 +379,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 24K • 👍 1K • 💬 338 • ⏱️ 7:23 • 22h ago
+👁️ 24K • 👍 1K • 💬 338 • ⏱️ 7:23 • 23h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T16:32:50.574151+00:00'
+updated: '2025-12-10T16:56:15.927287+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - news
-- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 16:32 UTC  
+**Last Updated:** December 10, 2025 at 16:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ This year, McDonald’s decided to get in on the corporate slopfest with a 45-se
 
 The Department of War aims to put Google Gemini 'directly into the hands of every American warrior.'
 
-🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 15h ago
+🔗 [404 Media](https://www.404media.co/pete-hegseth-says-the-pentagons-new-chatbot-will-make-america-more-lethal/) • 16h ago
 
 ---
 
@@ -71,7 +71,7 @@ Im not sure if this was discussed before. But LLMs can understand Base64 encoded
 
 Reprogrammable humanoid robots could level the global manufacturing playing field, Arm CEO Rene Haas said at Fortune Brainstorm AI.
 
-🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 6h ago
+🔗 [Fortune](https://fortune.com/2025/12/09/arm-ceo-physical-ai-robots-automate-factory-work-brainstorm-ai/) • 7h ago
 
 ---
 
@@ -87,13 +87,13 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 The start-up is falling behind in the AI race.
 
-🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 35m ago
+🔗 [The Atlantic](https://www.theatlantic.com/technology/2025/12/openai-losing-ai-wars/685201/?utm_source=reddit&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo) • 59m ago
 
 ---
 
 **[AI didn't replace me but it replaced my need for developers](https://www.reddit.com/r/artificial/comments/1pj5z5d/ai_didnt_replace_me_but_it_replaced_my_need_for/)**
 
-🔗 [ecency.com](https://ecency.com/@fullcoverbetting/ai-didnt-replace-me-but-it-replaced-my-need-for-developers-4g4) • 43m ago
+🔗 [ecency.com](https://ecency.com/@fullcoverbetting/ai-didnt-replace-me-but-it-replaced-my-need-for-developers-4g4) • 1h ago
 
 ---
 
@@ -101,7 +101,7 @@ The start-up is falling behind in the AI race.
 
 I’ve spent the last year really putting AI to work, writing content, handling client projects, digging into research, automating stuff, and even building my own custom GPTs. After hundreds of hours messing around, I picked up a few lessons I wish someone had just told me from the start. No hype here, just honest things that actually made my results better: 1. Stop asking AI “What should I do?”, ask “What options do I have?” AI’s not great at picking the perfect answer right away. But it shines when you use it to brainstorm possibilities. So, instead of: “What’s the best way to improve my landing page?” Say: “Give me 5 different ways to improve my landing page, each based on a different principle (UX, clarity, psychology, trust, layout). Rank them by impact.” You’ll get way better results. 2. Don’t skip the “requirements stage.” Most of the time, AI fails because people jump straight to the end. Slow down. Ask the model to question you first. Try this: “Before creating anything, ask me 5 clarification questions to make sure you get it right.” Just this step alone cuts out most of the junky outputs, way more than any fancy prompt trick. 3. Tell AI it’s okay to be wrong at first. AI actually does better when you take the pressure off early on. Say something like: “Give me a rough draft first. I’ll go over it with you.” That rough draft, then refining together, then finishing up, that’s how the actually get good outputs. 4. If things feel off, don’t bother fixing, just restart the thread. People waste so much time trying to patch up a weird conversation. If the model starts drifting in tone, logic, or style, the fastest fix is just to start fresh: “New conversation: You are [role]. Your goal is [objective]. Start from scratch.” AI memory in a thread gets messy fast. A reset clears up almost all the weirdness. 5. Always run 2 outputs and then merge them. One output? Total crapshoot. Two outputs? Much more consistent. Tell the AI: “Give me 2 versions with different angles. I’ll pick the best parts.” Then follow up with: “Merge both into one polished version.” You get way better quality with hardly any extra effort. 6. Stop using one giant prompt, start building mini workflows. Beginners try to do everything in one big prompt. The experts break it into 3–5 bite-size steps. Here’s a simple structure: - Ask questions - Generate options - Pick a direction - Draft it - Polish Just switching to this approach will make everything you do with AI better. If you want more tips, just let me know and i'll send you a document with more of them.
 
-49m ago
+1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Futurism • 22h ago
 
 Chinese artificial intelligence startup DeepSeek has relied on Nvidia Corp. chips that are banned in the country to develop an upcoming AI model, according to a new report in The Information.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -211,7 +211,7 @@ AI progress is steady. Human equivalence is sudden.
 
 A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.
 
-⬆️ 419 • 💬 369 • 1d ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
+⬆️ 419 • 💬 369 • 2d ago • [Windows Central](https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai)
 
 ---
 
@@ -247,7 +247,7 @@ In its first six months, New York City’s controversial congestion pricing sche
 
 **[The AI wildfire is coming. it's going to be painful and healthy](https://news.ycombinator.com/item?id=46183011)**
 
-⬆️ 120 • 💬 206 • 2d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
+⬆️ 120 • 💬 206 • 3d ago • [ceodinner.substack.com](https://ceodinner.substack.com/p/the-ai-wildfire-is-coming-its-going)
 
 ---
 
@@ -263,7 +263,7 @@ Block, Anthropic, and OpenAI have launched the Agentic AI Foundation (AAF). Lear
 
 Your kid is cheating with AI. And that's great. Here’s why we should let it burn.
 
-⬆️ 64 • 💬 86 • 14h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
+⬆️ 64 • 💬 86 • 15h ago • [Anand Sanwal » Trying to mess things up](https://anandsanwal.me/ai-education-death-spiral/)
 
 ---
 
@@ -353,7 +353,7 @@ Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/d
 
 📺 Career247
 
-👁️ 135K • 👍 15K • 💬 813 • ⏱️ 1:48 • 2h ago
+👁️ 135K • 👍 15K • 💬 813 • ⏱️ 1:48 • 3h ago
 
 ---
 
@@ -401,7 +401,7 @@ Z-Image-Turbo is an efficient text-to-image diffusion transformer model optimize
 
 `text-to-image`
 
-⬇️ 232,896 • ❤️ 2,471 • 1d ago
+⬇️ 232,896 • ❤️ 2,471 • 2d ago
 
 ---
 
@@ -651,7 +651,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `agent` `phone-use-agent`
 
-⭐ 5.0k • 🔱 834 • 21m ago
+⭐ 5.0k • 🔱 834 • 44m ago
 
 ---
 
@@ -671,7 +671,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.6k • 🔱 190 • 4h ago
+⭐ 1.6k • 🔱 190 • 5h ago
 
 ---
 
