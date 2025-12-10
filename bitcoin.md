@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2025-12-10T19:40:48.331921+00:00'
+updated: '2025-12-10T19:52:09.607448+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 19:40 UTC  
+**Last Updated:** December 10, 2025 at 19:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $92,997.77
+### $92,700.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** +0.8%  
-**30d:** -10.0%  
+**24h:** -0.4%  
+**7d:** +0.7%  
+**30d:** -10.1%  
 **90d:** -20.1%  
 **1y:** -8.1%  
 
@@ -109,7 +109,7 @@ Bitcoin has been locked in a predictable 4 year cycle pretty much since it's inc
 
 **[accurate](https://www.reddit.com/r/Bitcoin/comments/1pj7h5h/accurate/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -129,7 +129,7 @@ Bitcoin has been locked in a predictable 4 year cycle pretty much since it's inc
 
 On December 9th, in an unexpected turn for traditional finance, the price of Bitcoin regained the $94,000 mark, wiping out more than three weeks of losses. The failure of the anticipated failure of Bitcoin, and therefore all crypto, was met with lukewarm apathy by your family from Thanksgiving. "It's still just funny money," said Uncle Lou, who then unironically bragged about taking out a reverse-mortgage on the home he bought in 1974. Top analysts' warn that the trend, which they have dubbed an "inverted loss" of Bitcoin's value could continue in the long-term, and lead to a redistribution of financial power and wealth, which, according to my editor, would cause destabilization and volatility in the billionaire who owns this publication. More updates will be available as adoption makes this opinion obsolete. Appropriated Press, December 2025.
 
-14h ago
+15h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin Price Jumps As New Strategy Rival Makes NYSE Debut](https://www.investors.com/news/bitcoin-price-jumps-twenty-one-capital-spac-nyse-debut-tether-strategy-rival/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -183,7 +183,7 @@ Investor's Business Daily • 7h ago
 
 Jack Mallers' Twenty One falls 20% in trading debut. It comes as other Bitcoin treasury firms face increasing pressure. Twenty One is majority-owned by stablecoin giant Tether.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin #Crypto #Finance Bitcoin enters a historic new era as U.S. regulators of
 
 📺 The Wolf Of All Streets
 
-👁️ 7K • 👍 562 • 💬 92 • ⏱️ 37:24 • 4h ago
+👁️ 7K • 👍 562 • 💬 92 • ⏱️ 37:24 • 5h ago
 
 ---
 

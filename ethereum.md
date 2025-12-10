@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2025-12-10T19:40:48.337912+00:00'
+updated: '2025-12-10T19:52:09.613600+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** December 10, 2025 at 19:40 UTC  
+**Last Updated:** December 10, 2025 at 19:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $3,382.40
+### $3,372.49
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +8.2%  
-**30d:** -0.8%  
-**90d:** -27.9%  
-**1y:** -11.7%  
+**24h:** +1.0%  
+**7d:** +7.5%  
+**30d:** -1.4%  
+**90d:** -28.3%  
+**1y:** -12.2%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 An agent initially promised 3-5 days to credit/return my funds to my ETH wallet. More than 15 days have passed. Case #25243137 Their support refused to release my GDPR data, and in the UI there's no button to download it manually. I have lost over $100k in opportunity cost (sold ETH to deposit this). My tweet about it, including the screenshot where they tell me to report them to the authorities: https://x.com/laur_science/status/1998746021099122834 WARNING to all users: If their system glitches, they will NOT fix it manually. They will wait weeks while you lose money. Even better, don't use centralized exchanges for large amounts, or do it in small tranches. For me, it's the last time, and yes - I already knew the dangers, therefore "lesson reinforced", not "lesson learned".
 
-5h ago
+6h ago
 
 ---
 
@@ -96,7 +96,7 @@ oskar thorén is one of the leads in ethereum foundation's newest IPTF, or insti
 
 Hi everyone, I just wanted to ask for some advice because something feels off. I was expecting a money transfer, and I received an email saying that the payment had arrived, but the funds are "locked." To unlock the money, they say I must first make a €200 transaction. The email address they used is norplybitpaypronton.pay@gmail.com Pretty sure it's a fraud but I'd like to know your opinions. Thanks!
 
-26m ago
+38m ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Despite the breakout, DOGE faces significant structural resistance from major EMAs.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1h ago
 
 Spot Ethereum ETF inflows hit a six-week high, with analysts citing a structural rotation by institutions broadening their crypto exposure.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -310,7 +310,7 @@ Ethereum has critics calling it “overvalued”… but what if everyone is look
 
 📺 Milk Road
 
-👁️ 5K • 👍 157 • 💬 42 • ⏱️ 35:26 • 23h ago
+👁️ 5K • 👍 157 • 💬 42 • ⏱️ 35:26 • 1d ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2025-12-10T19:40:48.323537+00:00'
+updated: '2025-12-10T19:52:09.598723+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** December 10, 2025 at 19:40 UTC  
+**Last Updated:** December 10, 2025 at 19:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -69,7 +69,7 @@ Im not sure if this was discussed before. But LLMs can understand Base64 encoded
 
 **[Beloved Rock Group Takes Music off Spotify, Only To Have AI Copycat Take Their Place](https://www.reddit.com/r/artificial/comments/1pj7lio/beloved_rock_group_takes_music_off_spotify_only/)**
 
-🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 2h ago
+🔗 [parade.com](https://parade.com/news/king-gizzard-lizard-wizard-ai-copycat-spotify) • 3h ago
 
 ---
 
@@ -93,7 +93,7 @@ While falls are not unusual in robotics development, a specific hand motion has 
 
 I’ve spent the last year really putting AI to work, writing content, handling client projects, digging into research, automating stuff, and even building my own custom GPTs. After hundreds of hours messing around, I picked up a few lessons I wish someone had just told me from the start. No hype here, just honest things that actually made my results better: 1. Stop asking AI “What should I do?”, ask “What options do I have?” AI’s not great at picking the perfect answer right away. But it shines when you use it to brainstorm possibilities. So, instead of: “What’s the best way to improve my landing page?” Say: “Give me 5 different ways to improve my landing page, each based on a different principle (UX, clarity, psychology, trust, layout). Rank them by impact.” You’ll get way better results. 2. Don’t skip the “requirements stage.” Most of the time, AI fails because people jump straight to the end. Slow down. Ask the model to question you first. Try this: “Before creating anything, ask me 5 clarification questions to make sure you get it right.” Just this step alone cuts out most of the junky outputs, way more than any fancy prompt trick. 3. Tell AI it’s okay to be wrong at first. AI actually does better when you take the pressure off early on. Say something like: “Give me a rough draft first. I’ll go over it with you.” That rough draft, then refining together, then finishing up, that’s how the actually get good outputs. 4. If things feel off, don’t bother fixing, just restart the thread. People waste so much time trying to patch up a weird conversation. If the model starts drifting in tone, logic, or style, the fastest fix is just to start fresh: “New conversation: You are [role]. Your goal is [objective]. Start from scratch.” AI memory in a thread gets messy fast. A reset clears up almost all the weirdness. 5. Always run 2 outputs and then merge them. One output? Total crapshoot. Two outputs? Much more consistent. Tell the AI: “Give me 2 versions with different angles. I’ll pick the best parts.” Then follow up with: “Merge both into one polished version.” You get way better quality with hardly any extra effort. 6. Stop using one giant prompt, start building mini workflows. Beginners try to do everything in one big prompt. The experts break it into 3–5 bite-size steps. Here’s a simple structure: - Ask questions - Generate options - Pick a direction - Draft it - Polish Just switching to this approach will make everything you do with AI better. If you want more tips, just let me know and i'll send you a document with more of them.
 
-3h ago
+4h ago
 
 ---
 
@@ -133,7 +133,7 @@ Bloomberg.com • 5h ago
 
 A strategy shift for Meta’s AI group?
 
-The Verge • 54m ago
+The Verge • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Wall Street Journal • 20h ago
 
 **[Navy, Palantir Announce $448M ‘Ship OS’ AI Tool for Shipbuilding and Repair](https://news.usni.org/2025/12/09/navy-palantir-announce-448m-ship-os-ai-tool-for-shipbuilding-and-repair)**
 
-USNI News • 19h ago
+USNI News • 20h ago
 
 ---
 
@@ -177,13 +177,13 @@ USNI News • 19h ago
 
 The Navy is investing almost half a billion dollars in Palantir artificial intelligence software that promises to speed up shipbuilding processes.
 
-Business Insider • 36m ago
+Business Insider • 48m ago
 
 ---
 
 **[Google’s AI momentum continues as Gemini scores another victory over ChatGPT](https://www.marketwatch.com/story/googles-ai-momentum-continues-as-gemini-scores-another-victory-over-chatgpt-16946689?gaa_at=eafs&gaa_n=AWEtsqc4Yl1ZTdyiE-8WUsO8lAoRKClcw28ykCmBB7th-X2iobJQ9-sBJtBI&gaa_ts=6939ccc0&gaa_sig=0994dXAS4IsA4VSKVBf9mwKNP6V3yIv8q707godXIVRpXOL4lZL7qqgibC66DSLH3mgqf2GUz7EeRMwW8KBt_Q%3D%3D)**
 
-MarketWatch • 56m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -665,7 +665,7 @@ An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 
 `Python` `ai-ppt-maker` `ai-slide-builder` `ai-slides` `llm` `nanobananapro`
 
-⭐ 1.6k • 🔱 190 • 7h ago
+⭐ 1.6k • 🔱 190 • 8h ago
 
 ---
 
